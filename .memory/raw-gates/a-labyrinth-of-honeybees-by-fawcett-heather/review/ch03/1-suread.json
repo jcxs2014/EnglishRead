@@ -1,0 +1,54 @@
+{
+  "chapter": "ch03",
+  "source": "text/ch03_the_campfire.txt",
+  "facts": [
+    {
+      "fact": "叙述者在营火边与哈珀喝炖苹果酒，审问官重重坐到对面时，她递给他一杯。",
+      "anchor": "I was drinking stewed apples with Harper, my usual routine before turning in, and I offered the inquisitor a cup when he sat down heavily across from me.",
+      "start": 156,
+      "end": 309
+    },
+    {
+      "fact": "哈珀是中年退伍兵，脸上和手上布满伤疤；十年前他曾与新国王作战，军队被击溃后他被俘。",
+      "anchor": "He’d fought against the new king a decade ago, and after the king’s armies flattened ours like horses passing over an anthill, he’d been taken prisoner.",
+      "start": 787,
+      "end": 939
+    },
+    {
+      "fact": "审问官自述起初走了中间那条路，感觉走了数英里，太阳西沉而山始终没有靠近。",
+      "anchor": "“Nothing at first. I walked for miles, or so it felt. The sun dropped towards the west, but the mountain drew no nearer.",
+      "start": 1220,
+      "end": 1340
+    },
+    {
+      "fact": "审问官拔出匕首劈砍开路，随后自认那是个错误。",
+      "anchor": "“Eventually I took out my dagger and began to hack my way through,” he said, and his tone grew dry. “That was a mistake, wasn’t it?”",
+      "start": 1638,
+      "end": 1770
+    },
+    {
+      "fact": "审问官最终走出森林，眼前就是棚架门，门外能看见叙述者的营火。",
+      "anchor": "When I finally emerged from the forest, there was the trellis gate, and your campfire visible beyond it.",
+      "start": 2457,
+      "end": 2561
+    },
+    {
+      "fact": "叙述者动怒反问：他的收税人若死在这座山上，就是死在瀑布（Falls）。",
+      "anchor": "“If your tax collectors died here, it was at the Falls.”",
+      "start": 2998,
+      "end": 3054
+    },
+    {
+      "fact": "审问官说自己的调查必须彻底，这是他对国王的职责。",
+      "anchor": "“My investigation must be thorough. That is my duty to the king.”",
+      "start": 3056,
+      "end": 3121
+    },
+    {
+      "fact": "叙述者把一罐蜂蜜混猫尾草乳汁放在草地上，说能止痛并帮助伤口愈合。",
+      "anchor": "“Here,” I said, placing the jar in the grass. “It’s honey mixed with catrush milk. It will dull the pain and help the skin knit.”",
+      "start": 8917,
+      "end": 9046
+    }
+  ]
+}

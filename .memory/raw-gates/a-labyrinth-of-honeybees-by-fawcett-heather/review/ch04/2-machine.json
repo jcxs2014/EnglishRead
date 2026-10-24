@@ -1,0 +1,166 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/ch04 the balcony.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/text/ch04_the_balcony.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He seemed surprised at first—the sky had been clear when we set out—but then his face hardened. When he went back down, ",
+          "ok": true,
+          "pos": 399
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I unfolded it, though I knew already what it was. All of the princess’s scarves bore the symbol of the king, stitched al",
+          "ok": true,
+          "pos": 2283
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "In the first few years after I killed her, she had followed me incessantly, even sleeping next to me in the tent, or pan",
+          "ok": true,
+          "pos": 3740
+        }
+      ],
+      "words": 60
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 18,
+        "为什么这样写": 79,
+        "句子结构": 54,
+        "表达方式": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.21,
+        "为什么这样写": 0.86,
+        "句子结构": 0.43,
+        "表达方式": 0.59
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 14,
+        "为什么这样写": 104,
+        "句子结构": 54,
+        "表达方式": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.18,
+        "为什么这样写": 0.85,
+        "句子结构": 0.34,
+        "表达方式": 0.6
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 13,
+        "为什么这样写": 113,
+        "句子结构": 66,
+        "表达方式": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.19,
+        "为什么这样写": 0.9,
+        "句子结构": 0.33,
+        "表达方式": 0.46
+      }
+    }
+  ],
+  "form": {
+    "h1": "04. The Balcony",
+    "h1_shape_ok": true,
+    "nav_count": 4,
+    "nav_count_ok": true,
+    "nav_counts": [
+      4
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 3,
+    "block_median": 5.0,
+    "block_range": [
+      3,
+      10
+    ],
+    "profile": "short-story-anthologies",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 3,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 997,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 5 章中位 6、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

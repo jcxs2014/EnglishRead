@@ -1,0 +1,54 @@
+{
+  "chapter": "ch05",
+  "source": "text/ch05_the_attack_at_the_falls.txt",
+  "facts": [
+    {
+      "fact": "藏身在瀑布处的弓手被审问官一箭射中，面朝下栽进水里，血把水流染红。",
+      "anchor": "The archer fell forward, landing face down with her head in the spill of water, which now ran red.",
+      "start": 3034,
+      "end": 3132
+    },
+    {
+      "fact": "审问官跪倒在地，伸手去摸箭却只抓到空气和雾气——箭袋已经空了。",
+      "anchor": "The royal inquisitor fell to his knees. He reached for another arrow, but his hand grasped only air and mist. The quiver was empty.",
+      "start": 4921,
+      "end": 5052
+    },
+    {
+      "fact": "审问官在一连串动作中把箭从自己身上拔出并回射，那名女弓手喉部中箭倒下。",
+      "anchor": "In one swift sequence of movements, he pulled the arrow from himself and fired it. The woman went down with the arrow in her throat.",
+      "start": 5487,
+      "end": 5619
+    },
+    {
+      "fact": "国王的女继承人讲述：近一个月前她上山途中遭人追杀，她击退了对方，但侍从和飞马都被杀死。",
+      "anchor": "the heir explained, “Someone tried to kill me. Nearly a month ago, as I made my way up the path to the Goddess’s gardens. I fought them off, but they killed my attendants and pegasus.",
+      "start": 11127,
+      "end": 11310
+    },
+    {
+      "fact": "先前看似昏迷的审问官开口指认，那些袭击者是国王的弓手，并说他曾与其中最后一人一起受训。",
+      "anchor": "“Those were the king’s archers. Their training was unmistakable. In fact, I trained with one of them. The last.”",
+      "start": 12482,
+      "end": 12594
+    },
+    {
+      "fact": "审问官突然起身拔出匕首朝公主挥去；叙述者猛拽他的绷带使他失衡，公主的喉咙只被划伤。",
+      "anchor": "He unsheathed his dagger as he rose, and swept it towards the heir in a silver arc. If I hadn’t still been entangled in his bandages, my hands wet with his blood, he probably would have killed her.",
+      "start": 17197,
+      "end": 17394
+    },
+    {
+      "fact": "审问官以几乎漫不经心的一刀把匕首刺进挡在公主身前的祭司喉咙，将他杀死。",
+      "anchor": "The inquisitor killed him in one swift, almost negligent movement, jamming his dagger into the priest’s throat.",
+      "start": 19435,
+      "end": 19546
+    },
+    {
+      "fact": "叙述者上前挡在审问官面前时发现自己并没有动——沉睡在她体内的女神已经醒来，操控了她的四肢。",
+      "anchor": "Only I hadn’t moved—the Goddess who slept within me had awoken and moved my limbs for me.",
+      "start": 20073,
+      "end": 20162
+    }
+  ]
+}

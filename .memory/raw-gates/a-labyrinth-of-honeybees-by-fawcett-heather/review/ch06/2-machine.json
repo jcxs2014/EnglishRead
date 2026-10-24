@@ -1,0 +1,166 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/ch06 farewell.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/text/ch06_farewell.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I should have guessed that he would not wish to see me again. I, who had not told him of the peculiar—to the sensibility",
+          "ok": true,
+          "pos": 739
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I smiled slightly. “Our gods sometimes lie fallow. But they are only ever biding their time. I would not say this to the",
+          "ok": true,
+          "pos": 3059
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The princess murmured to the pegasus—it had belonged to one of the inquisitor’s dead servants and seemed quite happy to ",
+          "ok": true,
+          "pos": 3598
+        }
+      ],
+      "words": 37
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 29,
+        "为什么这样写": 106,
+        "句子结构": 72,
+        "表达方式": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.19,
+        "为什么这样写": 0.9,
+        "句子结构": 0.39,
+        "表达方式": 0.45
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 17,
+        "为什么这样写": 107,
+        "句子结构": 63,
+        "表达方式": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.19,
+        "为什么这样写": 0.75,
+        "句子结构": 0.57,
+        "表达方式": 0.53
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 26,
+        "为什么这样写": 104,
+        "句子结构": 58,
+        "表达方式": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.19,
+        "为什么这样写": 0.9,
+        "句子结构": 0.39,
+        "表达方式": 0.49
+      }
+    }
+  ],
+  "form": {
+    "h1": "06. Farewell",
+    "h1_shape_ok": true,
+    "nav_count": 4,
+    "nav_count_ok": true,
+    "nav_counts": [
+      4
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 3,
+    "block_median": 5.0,
+    "block_range": [
+      3,
+      10
+    ],
+    "profile": "short-story-anthologies",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 3,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 702,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 5 章中位 6、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

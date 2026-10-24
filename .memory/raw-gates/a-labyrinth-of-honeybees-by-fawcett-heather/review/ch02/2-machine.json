@@ -1,0 +1,311 @@
+{
+  "chapter": 2,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/ch02 the errant falls.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/text/ch02_the_errant_falls.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The maze is not some tame, manicured construction, but composed of a messy assortment of fruit trees and flowering hedge",
+          "ok": true,
+          "pos": 283
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "You couldn’t see the river below that day, nor the distant villages—the Falls created too much mist, which drifted aroun",
+          "ok": true,
+          "pos": 3173
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I hadn’t bothered to ask for his name, as his people abandon their names when they achieve positions of consequence and ",
+          "ok": true,
+          "pos": 3947
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Why ghosts follow their murderers, I don’t know, but I know they never bother following anyone else. I found myself grat",
+          "ok": true,
+          "pos": 4822
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He laughed again, and I realised I had no idea what we were talking about, and also that, for one impossible moment, I’d",
+          "ok": true,
+          "pos": 6878
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "There seemed to be no correct answer to this, so I said nothing. His eyes continued to bore into me, and I understood th",
+          "ok": true,
+          "pos": 10533
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "But this place—these gardens and streams, this mountain and its well-worn paths—I have no such mixed feelings about. It ",
+          "ok": true,
+          "pos": 12046
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He had before him two unenlightened barbarians, one a wheezing old man and the other a barefoot woman covered in dirt. A",
+          "ok": true,
+          "pos": 14325
+        }
+      ],
+      "words": 42
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 19,
+        "为什么这样写": 80,
+        "句子结构": 57,
+        "表达方式": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.3,
+        "为什么这样写": 0.59,
+        "句子结构": 0.47,
+        "表达方式": 0.52
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 9,
+        "为什么这样写": 97,
+        "句子结构": 52,
+        "表达方式": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.18,
+        "为什么这样写": 0.8,
+        "句子结构": 0.41,
+        "表达方式": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 19,
+        "为什么这样写": 113,
+        "句子结构": 49,
+        "表达方式": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.22,
+        "为什么这样写": 0.82,
+        "句子结构": 0.45,
+        "表达方式": 0.47
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 13,
+        "为什么这样写": 102,
+        "句子结构": 47,
+        "表达方式": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.21,
+        "为什么这样写": 0.84,
+        "句子结构": 0.31,
+        "表达方式": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 28,
+        "为什么这样写": 110,
+        "句子结构": 48,
+        "表达方式": 89
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.24,
+        "为什么这样写": 0.89,
+        "句子结构": 0.31,
+        "表达方式": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 16,
+        "为什么这样写": 105,
+        "句子结构": 84,
+        "表达方式": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.25,
+        "为什么这样写": 0.88,
+        "句子结构": 0.63,
+        "表达方式": 0.68
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 19,
+        "为什么这样写": 97,
+        "句子结构": 91,
+        "表达方式": 79
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.24,
+        "为什么这样写": 0.78,
+        "句子结构": 0.43,
+        "表达方式": 0.63
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 18,
+        "为什么这样写": 107,
+        "句子结构": 66,
+        "表达方式": 72
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.23,
+        "为什么这样写": 0.74,
+        "句子结构": 0.4,
+        "表达方式": 0.59
+      }
+    }
+  ],
+  "form": {
+    "h1": "02. The Errant Falls",
+    "h1_shape_ok": true,
+    "nav_count": 4,
+    "nav_count_ok": true,
+    "nav_counts": [
+      4
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 8,
+    "block_median": 5.0,
+    "block_range": [
+      3,
+      10
+    ],
+    "profile": "short-story-anthologies",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2699,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": "块数 8 偏离本书常见区间 2–6（本书 5 章中位 4、最高 10（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 5 章中位 4、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

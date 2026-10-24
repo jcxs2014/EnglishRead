@@ -1,0 +1,54 @@
+{
+  "chapter": "ch01",
+  "source": "text/ch01_the_royal_inquisitor.txt",
+  "facts": [
+    {
+      "fact": "审问官所带的鬼魂比审问官本人先到；叙述者（守园人）喝止它们，称这里是圣地。",
+      "anchor": "“No farther, please,” I told them. “This is consecrated ground.”",
+      "start": 135,
+      "end": 199
+    },
+    {
+      "fact": "一名女鬼道歉退开，却没有离开山，而是走进了环绕女神神庙的圣迷宫——与叙述者本意相反。",
+      "anchor": "But when I saw her next, she had not gone down the mountain, as I had meant, but into the holy maze that enclosed the Goddess’s temple.",
+      "start": 1254,
+      "end": 1389
+    },
+    {
+      "fact": "四名骑天马者在一瞬间降临，叙述者起初只注意天马、没看见骑手。",
+      "anchor": "They arrived between one breath and the next, four of them.",
+      "start": 1485,
+      "end": 1544
+    },
+    {
+      "fact": "叙述者伸手去摸最近那匹天马的鼻子，天马先蹭她的手，然后咬了她。",
+      "anchor": "The flesh was cold and soft, like new snow, something not entirely solid. She nuzzled my hand, and then she bit me.",
+      "start": 2069,
+      "end": 2184
+    },
+    {
+      "fact": "说话的男人从天马背上翻身下马；叙述者最先认出的是他身份的标记——亚麻围巾上织着交叉双剑与骷髅堆的官职符号。",
+      "anchor": "I noticed what he was before anything else—his linen scarf was woven with his symbol of office, two crossed swords above a mound of skulls.",
+      "start": 2319,
+      "end": 2458
+    },
+    {
+      "fact": "来者的身份是皇家审问官——国王的右手、正义的执行者。",
+      "anchor": "The royal inquisitor. The king’s right hand and dispenser of justice.",
+      "start": 2460,
+      "end": 2529
+    },
+    {
+      "fact": "审问官把自己的缰绳交给随行三名士兵中的一人。",
+      "anchor": "He handed his reins to one of the three soldiers who accompanied him and said,",
+      "start": 4197,
+      "end": 4275
+    },
+    {
+      "fact": "审问官说明来意：国王派他来调查两名税吏之死，他要从审问此地的女祭司开始。",
+      "anchor": "“The king has sent me to investigate the deaths of two of his tax collectors. I would like to begin by interviewing the priestess of this place.”",
+      "start": 4276,
+      "end": 4421
+    }
+  ]
+}

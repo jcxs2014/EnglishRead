@@ -1,0 +1,54 @@
+{
+  "chapter": "ch02",
+  "source": "text/ch02_the_errant_falls.txt",
+  "facts": [
+    {
+      "fact": "审问官看到迷途瀑布（Errant Falls）时低声嘀咕，但仍不反对地跟着女祭司走；不久他们登上一处长着松树林的山脊，瀑布就在眼前。",
+      "anchor": "The inquisitor muttered something under his breath when he saw it, but followed me without objection. Before long, we came to a spur in the mountain crowned by a grove of pines.",
+      "start": 1375,
+      "end": 1552
+    },
+    {
+      "fact": "女祭司告诉皇家审问官，这里另有一个叫 Harper 的 groundskeeper（他自己才是真正管园子的人），Harper 不能说话、但可以用笔回答问题，并提议带审问官去见他。",
+      "anchor": "“There’s Harper.” Harper is actually the groundskeeper. “He can’t speak, but he can answer your questions in writing. I’ll take you to him, if you like.”",
+      "start": 7231,
+      "end": 7384
+    },
+    {
+      "fact": "审问官以死者尸体多处折断、只有从高处坠落才能造成，以及口袋里塞满苹果花为据说明那两人是被摔死的（判案依据）。",
+      "anchor": "“Their bodies were broken many times over. Only a fall from a great height could do that. Also, their pockets were stuffed with apple blossoms.”",
+      "start": 5213,
+      "end": 5357
+    },
+    {
+      "fact": "审问官对女祭司说，国王派王位继承人前来察看他的税吏们遭遇了什么，那是在发现尸体之前，而她再也没回来。",
+      "anchor": "So he sent her here to see what had become of his tax collectors. This was before their bodies were found. She never returned.",
+      "start": 10536,
+      "end": 10662
+    },
+    {
+      "fact": "审问官命令女祭司带他去神庙，理由是若只有虔诚者能到达，她必定毫无困难；而女祭司先前答说没人能带他进迷宫，必须自己找路。",
+      "anchor": "“You will lead me there,” he said. “If only the devout can reach the temple, surely you have no difficulty.”",
+      "start": 9958,
+      "end": 10066
+    },
+    {
+      "fact": "叙述说明入侵者信奉 Threefold God（三位一体的神），即同一个神的三个版本，按出生日期对应 Spring、Harvest、Frost 三季之一；而本地的神有 eighty-three 位（有人算作 eighty-four 位）。",
+      "anchor": "They worship the Threefold God, who is, as the name suggests, three versions of a god, one for each season—Spring, Harvest, and Frost.",
+      "start": 9016,
+      "end": 9150
+    },
+    {
+      "fact": "森林之神的老祭司从山路上出现，跛行到两人面前，抹了把汗、弓着背向女祭司鞠躬；审问官称他为“my friend”，令他瑟缩。",
+      "anchor": "An old man emerged from the mountain path and limped up to us. He swiped his hand over his sweaty forehead and bowed to me, his back creaking.",
+      "start": 12792,
+      "end": 12934
+    },
+    {
+      "fact": "女祭司与森林之神的祭司是宿敌：不仅因为花园女神与森林之神彼此对立（传说自世界之初就交战），也因为她认为此人自私懒惰。",
+      "anchor": "We were old enemies, and not only because the Goddess of the Garden and the God of the Forest were in opposition—if the stories were true, they had been at war since the world began.",
+      "start": 13335,
+      "end": 13517
+    }
+  ]
+}

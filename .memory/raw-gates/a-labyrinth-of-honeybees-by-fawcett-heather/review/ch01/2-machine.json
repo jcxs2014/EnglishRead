@@ -1,0 +1,195 @@
+{
+  "chapter": 1,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/ch01 the royal inquisitor.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/text/ch01_the_royal_inquisitor.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The dead man didn’t look at me, just kept glaring down his nose in my direction. He was richly dressed in cloud-lark fur",
+          "ok": true,
+          "pos": 276
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "A curious vision overtook me when I met his eyes. I have visions sometimes, of varying degrees of consequence, but this ",
+          "ok": true,
+          "pos": 2497
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I pretended to adjust my scarf, to give myself time to think. It’s embroidered with honeybees, the Goddess’s symbol, and",
+          "ok": true,
+          "pos": 4611
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He swept his gaze over me. At least I looked the part—I’d been weeding the herb garden when the ghosts started arriving ",
+          "ok": true,
+          "pos": 4866
+        }
+      ],
+      "words": 61
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 19,
+        "为什么这样写": 98,
+        "句子结构": 61,
+        "表达方式": 84
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.21,
+        "为什么这样写": 0.81,
+        "句子结构": 0.37,
+        "表达方式": 0.74
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 17,
+        "为什么这样写": 110,
+        "句子结构": 63,
+        "表达方式": 72
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.2,
+        "为什么这样写": 0.73,
+        "句子结构": 0.33,
+        "表达方式": 0.59
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 16,
+        "为什么这样写": 104,
+        "句子结构": 87,
+        "表达方式": 84
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.2,
+        "为什么这样写": 0.84,
+        "句子结构": 0.44,
+        "表达方式": 0.71
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 18,
+        "为什么这样写": 107,
+        "句子结构": 54,
+        "表达方式": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.24,
+        "为什么这样写": 0.88,
+        "句子结构": 0.23,
+        "表达方式": 0.6
+      }
+    }
+  ],
+  "form": {
+    "h1": "01. The Royal Inquisitor",
+    "h1_shape_ok": true,
+    "nav_count": 4,
+    "nav_count_ok": true,
+    "nav_counts": [
+      4
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 4,
+    "block_median": 5.0,
+    "block_range": [
+      3,
+      10
+    ],
+    "profile": "short-story-anthologies",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 4,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1409,
+    "block_target": [
+      3,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 5 章中位 6、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "chapter": "ch06",
+  "source": "text/ch06_farewell.txt",
+  "facts": [
+    {
+      "fact": "女祭司回答公主“还好”，并祝她一路平安，称她“殿下”。",
+      "anchor": "“Well enough,” I said. “I wish you a safe journey, Your Highness.”",
+      "start": 260,
+      "end": 326
+    },
+    {
+      "fact": "女祭司与公主整夜照料审判官的伤口；凌晨公主叫醒女祭司，告知两人将一同离开，而审判官已先行动身，去查探路上是否还有残余刺客。",
+      "anchor": "the princess had awoken me with the news that they would be leaving together. The inquisitor had gone on ahead of her to search the path for any remaining assassins.",
+      "start": 583,
+      "end": 748
+    },
+    {
+      "fact": "女祭司始终没有告诉审判官：旧神偏爱住在祭司或女祭司体内，并会转移到新的容器里。",
+      "anchor": "I, who had not told him of the peculiar—to the sensibility of his tidy religion—predilections of the old gods, their preference for dwelling within their priest or priestess, and how they pass to a new vessel.",
+      "start": 812,
+      "end": 1021
+    },
+    {
+      "fact": "公主出人意料地拥抱了女祭司；她扶得很小心，退开后脸上不见先前的恐惧，只剩戒备和一丝着迷。",
+      "anchor": "The princess surprised me with an embrace. She handled me gingerly, but when she pulled back, there was none of the horror in her face I had seen before, only wariness paired with a hint of fascination.",
+      "start": 1297,
+      "end": 1499
+    },
+    {
+      "fact": "公主告诉女祭司，她如今别无选择，只能公开向父亲挑战、争夺王位，且不知自己能否获胜。",
+      "anchor": "“I have no choice, now, but to openly challenge my father for the throne. I do not know if I will be victorious.”",
+      "start": 1548,
+      "end": 1661
+    },
+    {
+      "fact": "女祭司带些恼怒地否认审判官是“她的神”，并要公主不要对审判官下手，说神会随自己的意使用他。",
+      "anchor": "Instead I said, with some pique, “He is not my God. Do nothing to the inquisitor, Princess.",
+      "start": 2601,
+      "end": 2692
+    },
+    {
+      "fact": "公主说她的父亲只有一位神助阵，在这种情况下与八十三位神为敌并不吉利。",
+      "anchor": "I know that he has but one god on his side, and in such a circumstance, setting oneself against eighty-three seems unpropitious.",
+      "start": 2952,
+      "end": 3080
+    },
+    {
+      "fact": "公主向飞马低语——那匹马原属审判官一名死去的仆从——最后长久看了女祭司一眼，便转身与它一同消失在森林里。",
+      "anchor": "The princess murmured to the pegasus—it had belonged to one of the inquisitor’s dead servants and seemed quite happy to be departing. After one last, long look at me, she turned, and they disappeared into the forest.",
+      "start": 3660,
+      "end": 3876
+    }
+  ]
+}

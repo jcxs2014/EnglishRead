@@ -1,0 +1,369 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/ch05 the attack at the falls.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/text/ch05_the_attack_at_the_falls.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“I’m sorry,” he said. “I thought it more respectful to talk here, away from your worshippers. You should know that the k",
+          "ok": true,
+          "pos": 841
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I saw the arrow lodged in the tree before he collided with me, but still the realisation eluded me. Then I heard the thu",
+          "ok": true,
+          "pos": 2278
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The arrow jutting from his torso might have been a fake, some magician’s trick, for he was clear-eyed and thoughtful as ",
+          "ok": true,
+          "pos": 5294
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Within the temple was an unkempt but brightly lit room that resembled a kitchen, with bundles of herbs dangling from the",
+          "ok": true,
+          "pos": 8863
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I snatched up a jar of honey and began grabbing at herbs. “Why does everyone think I’m some hardened killer?” Because yo",
+          "ok": true,
+          "pos": 9772
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "My suspicion—which I admit, out of love for my father, I wished to discount—has always been that the king sent assassins",
+          "ok": true,
+          "pos": 13031
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "His stillness was not weakness, but the instinct of a predator. He unsheathed his dagger as he rose, and swept it toward",
+          "ok": true,
+          "pos": 16890
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I blinked. I felt as if some invisible current, one I’d not been fully conscious of before, had abruptly changed directi",
+          "ok": true,
+          "pos": 19398
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "They had been the most tempestuous of enemies since they were formed: in love in some lifetimes, and violently betrayed ",
+          "ok": true,
+          "pos": 20781
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The God retreated, and the inquisitor resurfaced, his face twisted with horror. The Goddess left a moment later, chuckli",
+          "ok": true,
+          "pos": 21382
+        }
+      ],
+      "words": 66
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 21,
+        "为什么这样写": 98,
+        "句子结构": 62,
+        "表达方式": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.19,
+        "为什么这样写": 0.87,
+        "句子结构": 0.37,
+        "表达方式": 0.48
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 25,
+        "为什么这样写": 109,
+        "句子结构": 59,
+        "表达方式": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.22,
+        "为什么这样写": 0.89,
+        "句子结构": 0.31,
+        "表达方式": 0.56
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 28,
+        "为什么这样写": 106,
+        "句子结构": 37,
+        "表达方式": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.23,
+        "为什么这样写": 0.9,
+        "句子结构": 0.21,
+        "表达方式": 0.53
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 24,
+        "为什么这样写": 93,
+        "句子结构": 39,
+        "表达方式": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.21,
+        "为什么这样写": 0.85,
+        "句子结构": 0.21,
+        "表达方式": 0.42
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 21,
+        "为什么这样写": 93,
+        "句子结构": 59,
+        "表达方式": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.24,
+        "为什么这样写": 0.87,
+        "句子结构": 0.49,
+        "表达方式": 0.55
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 22,
+        "为什么这样写": 98,
+        "句子结构": 39,
+        "表达方式": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.22,
+        "为什么这样写": 0.86,
+        "句子结构": 0.21,
+        "表达方式": 0.56
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 27,
+        "为什么这样写": 110,
+        "句子结构": 53,
+        "表达方式": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.21,
+        "为什么这样写": 0.89,
+        "句子结构": 0.32,
+        "表达方式": 0.66
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 24,
+        "为什么这样写": 105,
+        "句子结构": 60,
+        "表达方式": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.22,
+        "为什么这样写": 0.77,
+        "句子结构": 0.32,
+        "表达方式": 0.54
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 26,
+        "为什么这样写": 105,
+        "句子结构": 50,
+        "表达方式": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.2,
+        "为什么这样写": 0.89,
+        "句子结构": 0.2,
+        "表达方式": 0.46
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 27,
+        "为什么这样写": 104,
+        "句子结构": 73,
+        "表达方式": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.2,
+        "为什么这样写": 0.87,
+        "句子结构": 0.4,
+        "表达方式": 0.4
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. The Attack at the Falls",
+    "h1_shape_ok": true,
+    "nav_count": 4,
+    "nav_count_ok": true,
+    "nav_counts": [
+      4
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 10,
+    "block_median": 5.0,
+    "block_range": [
+      3,
+      10
+    ],
+    "profile": "short-story-anthologies",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3955,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": "块数 10 偏离本书常见区间 2–6（本书 5 章中位 4、最高 8（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 5 章中位 4、最高 8（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

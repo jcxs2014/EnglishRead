@@ -1,0 +1,54 @@
+{
+  "chapter": "ch04",
+  "source": "text/ch04_the_balcony.txt",
+  "facts": [
+    {
+      "fact": "次日早晨，他吩咐叙述者带他去阳台（Balcony）。",
+      "anchor": "The next morning, he bade me lead him to the Balcony.",
+      "start": 0,
+      "end": 53
+    },
+    {
+      "fact": "叙述者在阳台上再看时，进迷宫的那队人只剩三个：皇家审判官和两名仆人。",
+      "anchor": "There were only three of them now—the royal inquisitor and two servants.",
+      "start": 1853,
+      "end": 1925
+    },
+    {
+      "fact": "他递给叙述者一块方布，叙述者展开即知那是公主的围巾——公主的每条围巾都用纯金线在褶边绣着国王的徽记。",
+      "anchor": "I unfolded it, though I knew already what it was. All of the princess’s scarves bore the symbol of the king, stitched along the hem with threads of pure gold.",
+      "start": 2304,
+      "end": 2462
+    },
+    {
+      "fact": "审判官命令叙述者第二天护送他们去神庙。",
+      "anchor": "“Tomorrow you will escort us to the temple,” he said.",
+      "start": 2624,
+      "end": 2677
+    },
+    {
+      "fact": "次日早晨，他们发现审判官剩下的那名仆人也带着自己的飞马逃走了。",
+      "anchor": "In the morning, we discovered that the inquisitor’s remaining servant was possessed of more wisdom than the others; he and his pegasus were gone.",
+      "start": 3375,
+      "end": 3520
+    },
+    {
+      "fact": "审判官手持弓箭戒备，仿佛那能抵挡已经杀死他两名手下的东西。",
+      "anchor": "He had his bow out, as if that would defend him against whatever had killed two of his men.",
+      "start": 4263,
+      "end": 4354
+    },
+    {
+      "fact": "叙述者多年前亲手杀死了这位老女祭司；最初几年她的鬼魂一直跟着叙述者，近年才越来越少露面。",
+      "anchor": "In the first few years after I killed her, she had followed me incessantly, even sleeping next to me in the tent, or pantomiming sleep.",
+      "start": 3785,
+      "end": 3920
+    },
+    {
+      "fact": "叙述者整了整围巾抵挡女祭司身上的寒气，并同她打赌：审判官还能撑一个月，除非女神先厌倦他、把他弄死。",
+      "anchor": "I adjusted my scarf in a fruitless attempt to ward off her cold. “I say it takes him another month. If the Goddess doesn’t tire of him before then, and kill him.”",
+      "start": 5071,
+      "end": 5233
+    }
+  ]
+}
