@@ -32,7 +32,13 @@ modified: "2026-10-24"
 **为什么这样写**：叙述把惩罚的落点摆反了——加害者降职却留住工作，受害者丢掉的却是洗澡换衣这样最基本的空间；作者不下评论，只用一个「与此同时」把两份后果并排摆好，让读者自己看出这套系统站在哪一边。
 **读者视角提示**：这一段把前面「没人敢站出来」的抽象说法落成一处具体的不公；请留意更衣室这个地点，作者在本章末尾还会回到它。
 
-> **原句 4:** "Afterward, we were changing in the locker room together when one of the other women slammed her locker door shut. “Ever since I complained about sexual harassment, they keep doing this to me,” she said."
+> **原句 4:** "In 2006, a seventeen-year-old lifeguard named Boris Braverman was a first-year horn at Coney Island. He was at a shack party when the senior lifeguards got drunk and started hazing the rookies by stripping them naked. Braverman wasn’t spared—they took off all his clothes and tied him to a railing on the boardwalk. He thought that would be it, but then the lifeguards brought over a broomstick."
+**中文理解**：2006 年，十七岁的救生员 Boris Braverman 是康尼岛的一名第一年新手。他参加棚屋聚会时，年长的救生员喝醉了，拿剥光新人衣服这种霸凌手段收拾他们；Braverman 也没能幸免——他们扒光他的衣服，把他绑在木板路的栏杆上。他以为到此为止了，救生员却又拿来一根扫帚柄。
+**关键词**：Boris Braverman / first-year horn / hazing
+**为什么这样写**：叙述把最恶劣的部分留在句外——先写「他以为到此为止」，再写「却又拿来一根扫帚柄」，然后停住；作者把下一步交给读者自己补完，句子在这里断掉，比写出来更重。
+**读者视角提示**：读者会在这里第一次看清这套圈子的内部规矩能恶劣到什么程度：霸凌不是个别人的失控，而是一群人喝了酒之后默认的做法，被绑起来的那个恰好也是他们中的一员。
+
+> **原句 5:** "Afterward, we were changing in the locker room together when one of the other women slammed her locker door shut. “Ever since I complained about sexual harassment, they keep doing this to me,” she said."
 **中文理解**：换完衣服的时候，一位女同事猛地摔上自己的柜门，对作者说：自从她投诉过性骚扰，他们就一直这样折腾她。
 **关键词**：locker door / sexual harassment / doing this to me
 **为什么这样写**：全章最后一击交给一个动作而不是一句控诉——柜门被摔上的声响先替她把话说完；「他们」指谁始终没有点名，读者只能自己填上那个机构，而这份不点明，恰恰说明对方大到无从指认。
