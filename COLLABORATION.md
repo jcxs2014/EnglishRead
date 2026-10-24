@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-24 20:27 UTC] [MiniMax-Mac] → All
+
+【lifeguard-by-janet-fash 完工】《Lifeguard: A Love Story》（Janet Fash，2026）slug: lifeguard-by-janet-fash —— 纽约救生员回忆录，19 叙事章 + 1 照片说明章 + 总览三篇完工（MiniMax-Mac，2026-10-24）
+
+- 规模：20 章精读（ch01–ch19 叙事 + ch20 Photographs）+ 总览三篇 = 23 md｜text/ 20 件｜完工态 190 块（每章 3–15 块，本书中位 10）
+- 语料：epub nav.xhtml + toc.ncx + 版权页（Simon & Schuster © 2026 Janet Fash，ISBN 978-1-6682-0661-4）三方对齐 = 19 叙事章 + Photographs；verify_corpus --expect 20 PASS
+- 门禁（完工态）：gate.sh EXIT=0（0 条阻断型）｜20 章 chapter.sh 全 rc=0｜逐字 190/190 块｜structure.py order 20 md/190 块 0 缺陷｜总览引文 53/53（与章节块引语逐字节一致）｜corruption_scan FAIL 0
+- 审查（T1 自检，同会话）：抽样 ch01/ch10/ch20（首末必含）+ 总览三篇全篇人判 + assertion_scan 六类预筛 418 行全读；查出 9 条阻断当场整改（ch11/ch18 关键词块内锚定 3 · ch20 图说明 19→18 · 「姐弟俩→姐妹俩」4 处 · Barbara 年龄 3 处 · ch17 补第 5 块 · 总览 10 条引语补回首部弯引号）；t1-verdict + t1-candidates + 台账三件齐
+- commit：32 个（20 章逐章 + 3 总览 + T1 整改 + T1 产物 + T3 深审 2 批），本地未 push
+- 日志：见 .memory/daily/2026-10-25.md「Lifeguard: A Love Story」节（逐章 commit hash + 四档定性明细）
+
+【T3 深审结论 · lifeguard-by-janet-fash（2026-10-24 20:54 UTC，用户点名发起）】20/20 章 R1–R5 全覆盖，R4 193/193 块逐块人判；四组计数——逐字 246/246（193 块 + 53 条总览引语）｜对应 阻断 21 · 提示 17｜形态 阻断 0 · 提示 2｜断言 阻断 5，另 R3 三单漏 2 ⇒ **全书阻断合计 23 条，当场全部整改并复验**
+- 章节层 5 条：ch02 原句 3「Helen」不在块内（改代词）／原句 9「Freddie」不在块内（扩引语 47→64 词）／ch13 原句 4「Stein」不在块内（拆成 39+36 词两块）／ch09 与 ch19 两个关键转折只写在导航层、未进引语层（各补 1 块）
+- 总览层 18 条：刊名（《纽约客》→《纽约杂志》）2 · Stein 年龄（ch15 八十岁→七十多岁）3 · 章号错 4 · 数字错 2 · 编造 1（「整理弟弟笔记时读到 Pia」，原文无此情节）· 张冠李戴 1 · ch20 前后顺序 2 · 自相矛盾 1 · 连带副本 1
+- 复验（整改后当场重跑，不采信旧数字）：gate.sh EXIT=0（0 条阻断型）｜20/20 章 chapter.sh verdict=ok｜193 块逐字查无 0｜structure.py order 0 缺陷｜总览引文 53/53｜§0.2 严口径 4 处全提示型｜凭空生词 0
+- 提示 19 条只记不改（章节 7 + 总览 12）｜未核 8 条如实写明（ULP/OCB 案胜负原文无结论段等）
+- 独立性：R1 素读由 4 个独立代理先做（禁开 md）＋R2 第二实现＋总览层独立 Verifier 全篇复核；**同会话深审，非异会话终审**
+- 落盘：四件套 20/20（1-suread / 2-machine / 3-diff / 4-verdict）+ `2026-10-24-T3总览判定.md` + `2026-10-24-T3深审汇总判定.md`（类级对账 + 四组计数 + 已核实为正确）
+
 ### [2026-10-24 19:53 UTC] [DSH-Mac] → All
 
 【in-your-heart-a-devil 完工】《In Your Heart a Devil》（Vanessa Santos）slug: in-your-heart-a-devil-by-vanessa-santos —— 哥特言情长篇，20 章 + 总览三篇完工（DSH-Mac，2026-10-24）
