@@ -65,19 +65,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 **《John Grebble Is Gone》（Peter James，john-grebble-is-gone-by-peter-james）五章 + 总览三篇完工（2026-10-24）**
 
 - 结构：epub 正文为单篇连续故事（17,279 词，无内部分节），按叙事结构拆 5 章精读（text/ 与 md 一一对应，2 件他书推广页 xx_ 剔除）；用户拍板补总览三篇
-- 文件数：8 md（5 章 43 个引语块 + 概述 / 金句 25 条×4 子项 / 情感节点 10 节）
-- 门禁：verify_corpus PASS（5 件锚点双向）· gate.sh EXIT=0 零阻断 · overview quotes 50/50 · full 标签 0 不符 · structure order 43 块 0 倒置 · corruption 0 · 素读 5 章 47 条锚点全中
-- T1 同会话自检（抽 ch01+ch05）：12 处内容缺陷（两处「二十万」应为「两万」、两处「哥哥」应为「弟弟」、相对章号 1、词数误计 3、凭空数字 1、无据 1、视角 1 等）+ 4 处金句呼应指称，全部整改复验；7 处评析修辞从宽只记；三件套齐（t1-verdict / t1-candidates / 台账「自检」）
-- commit ×8（711b69e4d…7af6f901b），未 push（待用户指令）
+- 文件数：8 md（5 章 45 个引语块 + 概述 / 金句 25 条×4 子项 / 情感节点 10 节）
+- 门禁终态：verify_corpus PASS（5 件锚点双向）· gate.sh EXIT=0 零阻断 · overview quotes 50/50 · full 标签 0 不符 · structure order 45 块 0 倒置 · corruption 0 · 素读 5 章 47 条锚点全中
+- T1 同会话自检（抽 ch01+ch05）：12 处内容缺陷 + 4 处金句呼应指称全部整改复验；7 处评析修辞从宽只记；三件套齐
+- commit ×11（711b69e4d…a521c4fb0），未 push（待用户指令）
+
+**审查结论（T3 深审·用户点名，同会话，2026-10-24）**：R0–R5 全跑，5/5 章四件套落盘（1-suread/2-machine/3-diff/4-verdict，review/chNN/）。
+
+- 机器层全重跑：gate 0 · fragments 58 片段 0 MISS · vocab FAIL 0 · entities 0 · order 45 块 0 倒置 · overview 50/50 · summary_names 3 提示型均正当
+- 章内：阻断级「漏」2 处（ch01 公交逐客、ch05 护照危机——导航/总结点名而精读无块）各补 1 块整改；措辞级 4 处已修
+- 总结层：概述施事反转 1 处＋无据断言 1 处已修；取舍提示 5 处记录（转折全覆盖）
+- 整改后复验：五章 rc=0 / gate EXIT=0 / corruption 0；台账已录「同会话（深审）」行
+- ⚠️ 同会话深审：独立性=换检查路径（新抽 37 条素读事实＋施事三问），不等于异会话终审
 - 明细见 .memory/daily/2026-10-24.md
-
-**审查结论（T3 深审·用户点名，同会话，2026-10-24）**：R0–R5 全跑，5/5 章四件套落盘（1-suread/2-machine/3-diff/4-verdict，review/chNN/）。（slug: john-grebble-is-gone-by-peter-james）
-
-- 机器层全重跑：gate 0 · fragments 58 片段 0 MISS · vocab FAIL 0 · entities 0 · order 45 块 0 倒置 · overview 50/50 · summary_names 3 提示型均正当（跨章合法引用，已核）
-- 章内：阻断级「漏」2 处——ch01 公交逐客、ch05 护照检查危机（导航/总结点名而精读无块），各补 1 块整改（ch05 4→5 块落回本书区间 5–15）；措辞级 4 处（ch04「卫生间的战争/血颈/赃款犯」、ch05「第一声欢呼」）已修
-- 总结层：概述施事反转 1 处（「确认我弟弟还活着」方向反）＋无据断言 1 处（蝴蝶眼镜「始终没换」）已修；取舍提示 5 处记录（色彩细节未入块，转折全覆盖）
-- 整改后全套复验：五章 rc=0 / gate EXIT=0 / corruption 0；commit 2d05568b0
-- ⚠️ 同会话深审：独立性来自换检查路径（新抽 37 条素读事实＋R4 施事三问＋机器层全重跑），**不等于异会话终审**；台账已追加「同会话（深审）」行
 
 ### [2026-10-24 11:23 UTC] [DSH-Mac] → All
 
