@@ -17,12 +17,39 @@ import argparse, json, os, re, sys
 CLASSES = [
     ("①相对章号", r"上一章|下一章|前一章|后一章|第一章|第[0-9一二三四五六七八九十]+章"),
     ("②绝对断言", r"唯一|第一次|最后一次|从未|从来没有|总是|最先|再也没有|空前"),
-    ("③年龄数字", r"[0-9一二三四五六七八九十百半几]+ ?(岁|年|英里|条|个|次|天|小时|分钟)|数十|几百|上千|半数"),
+    ("③年龄数字", None),  # 特殊处理，见 _class3()
+
     ("⑥场景方位", r"门口|屋内|窗外|车里|街对面|楼下|楼上|隔.{0,4}(条街|一栋|一堵)|当天|次日|[0-9]+ ?年后"),
     ("⑤方向施受", r"把.{1,12}(写成|说成|当作|当成了)|被.{1,12}(写成|说成)|欠|替.{1,6}(顶|背|受)"),
     ("④亲属身份", r"母亲|父亲|姐姐|妹妹|哥哥|弟弟|妻子|丈夫|继母|养父|养母|女儿|儿子|表亲"),
 ]
-PAT = [(n, re.compile(p)) for n, p in CLASSES]
+
+# ── ③ 年龄/数字/计数：三档量词（2026-10-24 降噪）────────────────────────────
+# ① 核心量词（岁/年/英里…）：一旦出现就收——数字错了就是事实错。
+# ② 可数事实量词（个/条/次/件…）：数字 ≥2 才收（「一个人/一次」不构成可核对断言）。
+# ③ 修辞量词（句/行/段/声…）：**永收**排除——「三句对白」「两层意思」是分析用语，
+#    不是事实断言，收进来只会稀释信噪比（hexing ③ 曾 370 行，六成是「三句」）。
+_NUM = r"[0-9一二三四五六七八九十百千半几两]+"
+_CORE_Q = r"(岁|年|英里|小时|分钟|个月|周年)"
+_FACT_Q = (r"(个|条|次|天|件|位|名|张|把|只|片|块|杯|碗|顿|场|趟|圈|页|米|口|回)")
+_RHET_Q = (r"(句|行|字|段|声|步|遍|下|点|些|样|种|层|份|阵|番|秒|倍|成|周|面|部|章|页)")
+_CORE = re.compile(_NUM + r" ?" + _CORE_Q + r"|数十|几百|上千|半数|上百")
+_FACT = re.compile(r"(" + _NUM + r") ?" + _FACT_Q + r"(?![" + _RHET_Q[1:-1] + r"])")
+_NOISE_NUM = {"一", "几"}
+
+
+def _class3(line):
+    """③ 命中判断：核心量词恒收；事实量词只在数字 ≥2 时收；修辞量词不收。"""
+    m = _CORE.search(line)
+    if m:
+        return m
+    for m in _FACT.finditer(line):
+        if m.group(1) not in _NOISE_NUM:
+            return m
+    return None
+
+
+PAT = [(n, re.compile(p) if p else None) for n, p in CLASSES]
 SKIP = re.compile(r"^\s*(>.*\*\*原句|#|\||```)")
 
 
@@ -39,7 +66,7 @@ def scan_book(book):
                 if SKIP.match(line) or len(line.strip()) < 8:
                     continue
                 for name, rx in PAT:
-                    m = rx.search(line)
+                    m = _class3(line) if rx is None else rx.search(line)
                     if m:
                         hits.append({"file": os.path.relpath(path, book), "line": i,
                                      "class": name, "match": m.group(0),
