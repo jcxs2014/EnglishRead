@@ -1,0 +1,43 @@
+{
+ "book": "love-you-to-death-by-jenna-levine",
+ "chapter": "ch15",
+ "text": "notes/books/novels/love-you-to-death-by-jenna-levine/text/ch15_chapter_fourteen.txt",
+ "facts": [
+  {
+   "fact": "他在高管面前本来就处境不佳。",
+   "anchor": "I’m in poor enough standing as it is.",
+   "start": 174,
+   "end": 211
+  },
+  {
+   "fact": "首席人事官点出 Lucy 不愿被不打招呼地找上门。",
+   "anchor": "Ms. McKenzie doesn’t want you to simply appear in her home unannounced.",
+   "start": 1078,
+   "end": 1149
+  },
+  {
+   "fact": "他自认已经非常不习惯做正确的事。",
+   "anchor": "all out of practice on doing the right thing",
+   "start": 6428,
+   "end": 6472
+  },
+  {
+   "fact": "Lucifer 是地狱的首相，而不是撒旦本人。",
+   "anchor": "Lucifer might only be Hell’s Prime Minister",
+   "start": 4162,
+   "end": 4205
+  },
+  {
+   "fact": "他被第一次连名带姓地叫出来。",
+   "anchor": "Nice to see you again, Daniel Ivanov.",
+   "start": 4121,
+   "end": 4158
+  },
+  {
+   "fact": "若他真够无私，本该当面回绝她再私下往来。",
+   "anchor": "I would tell Lucy that fraternizing again will not be possible.",
+   "start": 6157,
+   "end": 6220
+  }
+ ]
+}

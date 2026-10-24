@@ -87,7 +87,7 @@ modified: "2026-10-24"
 
 > **原句 8:** "“Nice to see you again, Daniel Ivanov.” … Lucifer might only be Hell’s Prime Minister and not the Devil himself, but it’s hard to remember that with the proprietary way he says my name. His two-foot-long horns and forked tail also don’t help. … “Sir,” I manage, inclining my head in deference."
 
-**中文理解**："很高兴再见到你，Daniel Ivanov。"……Lucifer 也许只是地狱的首相、而不是撒旦本人，可他说我名字时那种据为己有的口气，让人很难记住这件事。他那两英尺长的角和分叉的尾巴也不帮忙。……"阁下，"我managed着说了一句，低下头表示恭敬。
+**中文理解**："很高兴再见到你，Daniel Ivanov。"……Lucifer 也许只是地狱的首相、而不是撒旦本人，可他说我名字时那种据为己有的口气，让人很难记住这件事。他那两英尺长的角和分叉的尾巴也不帮忙。……"阁下，"我勉强挤出一句，低下头表示恭敬。
 
 **关键词**：Daniel Ivanov / says my name / two-foot-long horns（Daniel Ivanov、他说我名字的口气、两英尺长的角）
 
@@ -111,7 +111,7 @@ modified: "2026-10-24"
 
 **关键词**：Hello, I think back at her / not be encouraging this / make up an Agency rule（我在心里回了她一句你好、不该鼓励这件事、编一条 Agency 规定）
 
-**为什么这样写**：这一段把**两难写成消化反应**：懊恼与希望在"胃里拧成一团"，而他给自己开的药方竟然是"编一条 Agency 规定"——用制度来解决心跳问题，是全章最妙的一处反讽：他不是不想回那句"你好"，他是想给自己找一个不回的正当理由。
+**为什么这样写**：这一段把**两难写成消化反应**：懊恼与希望在"胃里拧成一团"，而他给自己开的药方竟然是"编一条 Agency 规定"——用制度来解决心跳问题，是全章最妙的一处反讽：他把自己设想成一个无私的人，设想出的两条方案——当面回绝，或者立一条限制相处的规矩——落脚点都是"少见面"；可这套说辞并没能拦得住他开口。
 
 **读者视角提示**：注意那句"我不该鼓励这件事"出现在他已经回了"你好"之后——他的良知是迟到的。
 

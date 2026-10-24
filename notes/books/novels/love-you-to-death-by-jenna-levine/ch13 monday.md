@@ -23,7 +23,7 @@ modified: "2026-10-24"
 
 **为什么这样写**：全章从**三十分钟的犹豫**开始，而这个犹豫被写成一个二选一的问句，还挂在"反正我也快死了"这个前提上——她把死亡当成了职业规划的默认选项。而"我告诉 Wilfred"这个动作把一场关乎生死的决定降级成日常：连问一只猫，说明她根本没打算问人。
 
-**读者视角提示**：注意"八周"这个数字第一次出现在她自己嘴里；这不是期限，是她给自己排的班表。
+**读者视角提示**：注意"八周"这个数字在这里不是别人给她的期限，是她给自己排的班表。
 
 > **原句 2:** "On the one hand, I want to be available for Jess for anything she needs. If I’m not strapped to my nine-to-five, I can handle even more wedding tasks than what we agreed to. … On the other hand, I’ll let Professor Skellar down if I quit. The university took a chance on me when it gave me a job despite my spotty work history. … Quitting will also mean saying an early goodbye to my work bestie, Eleanor. But in the end, Jess wins out."
 

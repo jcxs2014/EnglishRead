@@ -1,0 +1,55 @@
+{
+ "book": "love-you-to-death-by-jenna-levine",
+ "chapter": "ch32",
+ "text": "notes/books/novels/love-you-to-death-by-jenna-levine/text/ch32_chapter_thirty_one.txt",
+ "facts": [
+  {
+   "fact": "她在 Agency 的房间里醒来，Daniel 把一张银色字体的信转给她看，信上说她被召唤了。",
+   "anchor": "You’ve been summoned",
+   "start": 732,
+   "end": 752
+  },
+  {
+   "fact": "她以为自己还有几天缓冲，一听说\"被召唤\"心跳猛地撞上肋骨。",
+   "anchor": "I thought I still had a few more days",
+   "start": 823,
+   "end": 860
+  },
+  {
+   "fact": "信上写明两小时后由 Daniel 护送她回行政套房，并把她单独留下见高管。",
+   "anchor": "That I’m to escort you back to the Executive Suite in two hours",
+   "start": 1204,
+   "end": 1267
+  },
+  {
+   "fact": "CEO 与其他 Agency 高管开口提出给她一份工作。",
+   "anchor": "would like to offer you a job",
+   "start": 2848,
+   "end": 2877
+  },
+  {
+   "fact": "高管说明 Agency 的收魂效率降到从未有过的低点，人类死亡到灵魂被收割之间的间隔逐年拉长。",
+   "anchor": "our soul-collection efficiency has never been lower",
+   "start": 4884,
+   "end": 4935
+  },
+  {
+   "fact": "她自封为 Agency 第一个 Human Relations Consultant。",
+   "anchor": "I’ll be the Agency’s first Human Relations Consultant",
+   "start": 9515,
+   "end": 9568
+  },
+  {
+   "fact": "她替 Daniel 谈下的附加条件：既往收魂服役折算年限，并解除他原来的判决。",
+   "anchor": "treat your service to date as a Reaper as time served and let you go",
+   "start": 11875,
+   "end": 11943
+  },
+  {
+   "fact": "高管说 Daniel 可以\"再试一次\"，而她补上\"试着活着\"。",
+   "anchor": "They think you’ll get to try again",
+   "start": 12864,
+   "end": 12898
+  }
+ ]
+}

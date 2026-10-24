@@ -1,0 +1,43 @@
+{
+ "book": "love-you-to-death-by-jenna-levine",
+ "chapter": "ch05",
+ "text": "notes/books/novels/love-you-to-death-by-jenna-levine/text/ch05_chapter_four.txt",
+ "facts": [
+  {
+   "fact": "濒死那一刻，每一秒既是瞬时的，也是永恒的。",
+   "anchor": "Each second is both instantaneous and eternal.",
+   "start": 28,
+   "end": 74
+  },
+  {
+   "fact": "她仰面躺在街道正中央，一辆巴士压在她身上。",
+   "anchor": "I am lying down in the middle of a street. A bus is on top of me.",
+   "start": 467,
+   "end": 532
+  },
+  {
+   "fact": "悬在她上方的那张脸五官模糊，只有一双亮蓝的眼睛。",
+   "anchor": "The features are blurry, except for bright blue eyes.",
+   "start": 912,
+   "end": 965
+  },
+  {
+   "fact": "那个声音用她的全名斥责她。",
+   "anchor": "Lucy McKenzie, the voice chastises.",
+   "start": 2107,
+   "end": 2142
+  },
+  {
+   "fact": "她临死前最清楚的一个念头。",
+   "anchor": "But I don’t want to die.",
+   "start": 2526,
+   "end": 2550
+  },
+  {
+   "fact": "最后一记猛拽之后，她失重地浮在自己的身体上方，离开了疼痛。",
+   "anchor": "They give one final, sharp tug, and now I float weightless above my body, outside the pain.",
+   "start": 2995,
+   "end": 3086
+  }
+ ]
+}

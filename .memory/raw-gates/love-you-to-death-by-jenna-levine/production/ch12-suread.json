@@ -1,0 +1,43 @@
+{
+ "book": "love-you-to-death-by-jenna-levine",
+ "chapter": "ch12",
+ "text": "notes/books/novels/love-you-to-death-by-jenna-levine/text/ch12_chapter_eleven.txt",
+ "facts": [
+  {
+   "fact": "离开 Lucy 公寓已近三个小时。",
+   "anchor": "It’s been nearly three hours since I left Lucy’s apartment",
+   "start": 417,
+   "end": 475
+  },
+  {
+   "fact": "听到\"死\"这个字，他身上就响起巴甫洛夫式的反应。",
+   "anchor": "Hearing the word died elicits a Pavlovian response in me.",
+   "start": 1685,
+   "end": 1742
+  },
+  {
+   "fact": "Agency 要他填的表单题目。",
+   "anchor": "In no more than five sentences, please describe how Lucy McKenzie reacts to surprises.",
+   "start": 3605,
+   "end": 3691
+  },
+  {
+   "fact": "他决定把自习室里的两个男孩吓走。",
+   "anchor": "I decide to frighten them into leaving.",
+   "start": 2463,
+   "end": 2502
+  },
+  {
+   "fact": "他在表格里记下 Lucy 受惊时高高扬起的眉毛。",
+   "anchor": "Lucy’s eyebrows rise so high they nearly meet her hairline.",
+   "start": 4532,
+   "end": 4591
+  },
+  {
+   "fact": "表格不按时交回，就有地狱来找麻烦。",
+   "anchor": "there will be Hell to pay",
+   "start": 5430,
+   "end": 5455
+  }
+ ]
+}
