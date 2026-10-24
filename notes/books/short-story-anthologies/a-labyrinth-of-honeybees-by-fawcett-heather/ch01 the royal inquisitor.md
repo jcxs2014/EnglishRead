@@ -30,7 +30,7 @@ modified: "2026-10-24"
 
 > **原句 2:** "A curious vision overtook me when I met his eyes. I have visions sometimes, of varying degrees of consequence, but this was particularly vivid. The faces of a dozen people flitted across the royal inquisitor’s, men’s and women’s both, fair and ordinary, alight with devotion or merriment, amusement or boredom."
 
-**中文理解**：与他对视时，一阵奇异的幻象攫住了我。我偶尔会看见幻象，轻重不等，但这一次格外清晰。十几张人脸在审问官脸上飞快掠过，男的女的都有，白皙的、寻常的，脸上亮着虔诚或欢笑，兴味或厌倦。
+**中文理解**：与他对视时，一阵奇异的幻象攫住了我。我偶尔会看见幻象，轻重不等，但这一次格外清晰。十二张人脸在审问官脸上飞快掠过，男的女的都有，白皙的、寻常的，脸上亮着虔诚或欢笑，兴味或厌倦。
 
 **关键词**：overtook（突然攫住）、of varying degrees of consequence（轻重不等）、flitted（轻快地掠过）、alight with（因……而发亮）
 
