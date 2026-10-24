@@ -1,0 +1,21 @@
+单章体检：ch71  ch71 the vanished world.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch71_the_vanished_world.txt
+  块数 10（本章 4694 词，建议 9–15 块；硬限 2–15｜本书 71 章中位 6、最高 10（同类书按本书分布判））
+    ⚠️ 块数 10 偏离本书常见区间 3–9（本书 71 章中位 6、最高 10（同类书按本书分布判））
+
+【逐字】
+  引语块 10，片段 10，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0｜模板套话 0｜残句缺词 0
+  ✅ 引语长度：全部 ≤100 词
+
+【形态】
+  H1 ✅：71. The Vanished World
+  导航 5 项 ✅
+  块数 10（本书中位 6.0，范围 3–10）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）

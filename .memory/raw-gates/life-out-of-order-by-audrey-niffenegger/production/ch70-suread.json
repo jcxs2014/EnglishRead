@@ -1,0 +1,55 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch70",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch70_ever_after.txt",
+ "facts": [
+  {
+   "fact": "扎克开篇说，他又和阿尔芭两个人单独待在一起了；奥利弗几天前刚来道别。",
+   "anchor": "Alba and I are alone together again",
+   "start": 109,
+   "end": 144
+  },
+  {
+   "fact": "奥利弗几天前道了别，阿尔芭下楼去，把两人最后一次独处的时间留给他们。",
+   "anchor": "Oliver said goodbye a few days ago",
+   "start": 150,
+   "end": 184
+  },
+  {
+   "fact": "扎克把想问的事问完后，对奥利弗说，他希望自己能跟着他一起去。",
+   "anchor": "I wish I could be there, with you",
+   "start": 418,
+   "end": 451
+  },
+  {
+   "fact": "奥利弗说若能重来，他会跳过被啤酒浇透的那一段，也跳过多年隐瞒阿尔芭的事，并向扎克道歉。",
+   "anchor": "I’d skip the part where I get covered in beer",
+   "start": 767,
+   "end": 812
+  },
+  {
+   "fact": "扎克说没人能给他诊断，身体像被一点点掏空，咳得胸腔作响，骨头和喉咙都痛，还咳出血。",
+   "anchor": "Something is hollowing me out",
+   "start": 1931,
+   "end": 1960
+  },
+  {
+   "fact": "扎克说许多年来他一直在写一本关于他们的书，写了四十多年，铺满两百一十二本笔记。",
+   "anchor": "I have been working for many years on a book of us",
+   "start": 4121,
+   "end": 4171
+  },
+  {
+   "fact": "扎克说这本书是给阿尔芭写的，是一封情书；阿尔芭取走那叠唯一的稿子，靠在他身边从头读起。",
+   "anchor": "I wrote it for you, after all",
+   "start": 5639,
+   "end": 5668
+  },
+  {
+   "fact": "结尾他看着读稿的阿尔芭，想起雪夜旧宅里的舞会，时间把两个阿尔芭叠在了一起。",
+   "anchor": "she is all her selves at once",
+   "start": 6801,
+   "end": 6830
+  }
+ ]
+}
