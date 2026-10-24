@@ -55,17 +55,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：把这句自我介绍和章末他说的「我会给你找麻烦」放在一起看——同一个人，两种语气，中间只隔了一小时。你越早发现他不需要变脸，后面越不意外。
 
-> **原句 5:** "She needs a new place immediately. She needs a home of her own. She does not want to live in a bland white and gray apartment, packed into a little box with hundreds of other identical little boxes, all filled with curious, squirming, noisy humanity."
-
-**中文理解**：她急需一个新住处，急需一个属于自己的家。她不想住进那种灰白色的公寓，被塞进一只小盒子里，旁边成百上千只一模一样的小盒子，每一只都装满了好奇的、扭动的、吵闹的人。
-
-**关键词**：She needs a home of her own / a bland white and gray apartment / curious, squirming, noisy humanity
-
-**为什么这样写**：三个「she needs / she does not want」并排，把她的选择压成排除法——不是挑好，是先避开人。「curious, squirming, noisy」这三个形容词全部指向他人的注意力，而注意力在她这里等于危险：公寓楼有门卫、清洁工、在信箱前跟她打招呼的邻居。也正是在这一段之后她立刻被 Roger 的「你签还是不签」打断，读者的同情会被拿去给她当催签的理由。
-
-**读者视角提示**：这一块是全章唯一一处她说明「为什么非要这栋房子」。记住「不要被人看见」；这句话在下一章起会变成她与 Saskia 关系的核心矛盾。
-
-> **原句 6:** "“Give it a good read, and if it sounds like a plan, all you got to do is sign,” he tells her. “I’m old school. I don’t do online payments. I don’t take credit cards. I want cash or check in my mailbox on the first of the month, and if I don’t get it, I’ll make myself a problem. You understand?”"
+> **原句 5:** "“Give it a good read, and if it sounds like a plan, all you got to do is sign,” he tells her. “I’m old school. I don’t do online payments. I don’t take credit cards. I want cash or check in my mailbox on the first of the month, and if I don’t get it, I’ll make myself a problem. You understand?”"
 
 **中文理解**：他让她「好好读，觉得行就签个字就行」，接着自称是老派做法：不收线上付款、不收信用卡，每月一号要现金或支票放进他的信箱，收不到就「给自己找麻烦」。最后问一句「你明白吗？」
 
@@ -75,15 +65,35 @@ modified: "2026-10-24"
 
 **读者视角提示**：请把「no online payments」当成情节信息而不是人物怪癖：现金、无凭证、只他一人记账，这三条在后面的冲突里都会重新变得重要。
 
-> **原句 7:** "There’s a carriage house back there in even worse shape, but the brick patio is a riot of greenery, more plants than she’s ever seen in her life. … A screen of magenta flowers covers a pergola, almost hiding the patio below from view. It is like a little Eden, all hidden away."
+> **原句 6:** "She needs a new place immediately. She needs a home of her own. She does not want to live in a bland white and gray apartment, packed into a little box with hundreds of other identical little boxes, all filled with curious, squirming, noisy humanity."
 
-**中文理解**：后院那座马车房破得更厉害，但砖砌的露台上一片疯长的绿意，植物多到她这辈子没见过。一道洋红色的花幕遮住藤架，几乎把底下的露台整个挡住。那地方像一座小小的伊甸园，全都藏了起来。
+**中文理解**：她急需一个新住处，急需一个属于自己的家。她不想住进那种灰白色的公寓，被塞进一只小盒子里，旁边成百上千只一模一样的小盒子，每一只都装满了好奇的、扭动的、吵闹的人。
 
-**关键词**：a riot of greenery / almost hiding the patio below from view / a little Eden, all hidden away
+**关键词**：She needs a home of her own / a bland white and gray apartment / curious, squirming, noisy humanity
 
-**为什么这样写**：标题里的 Monstera 到这一句才第一次以「植物」的形态登场，而作者给的不是一株盆栽，是整个被藏起来的园子。「riot」是有失控意味的词，配「almost hiding」与「all hidden away」，把美和遮蔽写成一件事——她想躲起来，而这里已经有东西替她躲好了。称它为 Eden 更是一句预告：伊甸园里除了植物，还有别的东西。
+**为什么这样写**：三个「she needs / she does not want」并排，把她的选择压成排除法——不是挑好，是先避开人。「curious, squirming, noisy」这三个形容词全部指向他人的注意力，而注意力在她这里等于危险：公寓楼有门卫、清洁工、在信箱前跟她打招呼的邻居。也正是在这一段之后她立刻被 Roger 的「你签还是不签」打断，读者的同情会被拿去给她当催签的理由。
 
-**读者视角提示**：这一块结束时她还只是在看植物，下一块视线就会穿过叶子。请留意这个视线顺序：先景，后人——全书的窥视结构从这里开始。
+**读者视角提示**：这一块是全章唯一一处她说明「为什么非要这栋房子」。记住「不要被人看见」；这句话在下一章起会变成她与 Saskia 关系的核心矛盾。
+
+> **原句 7:** "There’s a carriage house back there in even worse shape, but the brick patio is a riot of greenery, more plants than she’s ever seen in her life. Some are bushes and vegetables and flowers planted in the ground, but there is also a mismatched army of cracked pots and bowls spilling with vines and exploding with wide, emerald-green leaves that spread like they’re yawning after a good stretch."
+
+**中文理解**：后院那座马车房破得更厉害，但砖砌的露台上一片疯长的绿意，植物多到她这辈子没见过。有些是种在地里的灌木、蔬菜和花，此外还有一支参差不齐的「军队」——裂了的盆、破了的碗，藤蔓从里面溢出来，肥厚的翠绿叶片张得像刚伸完懒腰。
+
+**关键词**：a riot of greenery / a mismatched army of cracked pots and bowls / yawning after a good stretch
+
+**为什么这样写**：标题里的 Monstera 到这里才第一次以植物的形态登场，而作者给的不是一株盆栽，是一整座失控的园子：「riot」是暴动的词，「mismatched army」把破盆烂碗写成列队的东西，最后用「打哈欠伸懒腰」把叶子拟人化——这片绿意不是被照料出来的，是自己长出来的、活的。容器全是裂的、破的，说明主人不讲究也不缺这点钱，只在意它长。读者被要求先看见植物，再看见人。
+
+**读者视角提示**：请留意「破盆 + 疯长」这个组合：后面书里每一次植物越界，用的都是同一套词汇。她此刻读到的只是「美」，而作者已经写好「失控」。
+
+> **原句 8:** "A screen of magenta flowers covers a pergola, almost hiding the patio below from view. It is like a little Eden, all hidden away."
+
+**中文理解**：一道洋红色的花幕盖住藤架，几乎把底下的露台整个挡住。那地方像一座小小的伊甸园，全都藏了起来。
+
+**关键词**：A screen of magenta flowers / almost hiding the patio below from view / a little Eden, all hidden away
+
+**为什么这样写**：两句都在写「看不见」：花幕是 screen，动作是 almost hiding，结论是 all hidden away——她想要的遮蔽，这里现成就有。而「Eden」是一个自带下文的词：伊甸园里有禁果，也有蛇。作者把全书最需要的两个东西（美、藏起来的地方）和最大的警告捆在同一句里，且不解释。
+
+**读者视角提示**：这一块结束时她还只是在看景，下一段视线就会穿过叶子。留意这个顺序：先景，后人——全书的窥视结构从这里开始。
 
 ## 本章词汇
 
