@@ -22,7 +22,7 @@ modified: "2026-10-24"
 
 > **原句 2:** "I told him everything I knew about how Stein used the test to control people and how I would be sent lifeguards who couldn’t even swim in the ocean. I worked in a busy area, so I’d have to try to get them another assignment. I was already worried about the public—I didn’t need to worry about a lifeguard drowning as well."
 **中文理解**：她把自己知道的都说了：Stein 拿这套测试当控制人的工具，还把根本不会在海里游泳的救生员派到岗位上；她在忙的地方值勤，只能设法替他们另调岗位。她怕的已经不只是公众出事，还包括救生员自己淹死。
-**关键词**：swim test / control people / another assignment
+**关键词**：the test / another assignment / couldn’t even swim
 **为什么这样写**：这一段把制度的漏洞压进一句调度安排——「另调岗位」听上去只是换个人手，实际掩盖的是「派不会游泳的人去看海」的荒唐；末句用一层递进把作者自己的恐惧收到最紧：出事的可能是自己人。
 **读者视角提示**：注意她此刻仍在职，说这些话等于把自己交出去；读者读到「另调岗位」就该明白，她一边揭发，一边还在替这套系统打补丁。
 
