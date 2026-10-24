@@ -1,0 +1,55 @@
+{
+ "book": "love-you-to-death-by-jenna-levine",
+ "chapter": "ch06",
+ "text": "notes/books/novels/love-you-to-death-by-jenna-levine/text/ch06_chapter_five.txt",
+ "facts": [
+  {
+   "fact": "Daniel 告诉 Lucy：她在十七分钟十四秒前被一辆城市巴士撞上，人已经死了。",
+   "anchor": "You were hit by a city bus seventeen minutes and fourteen seconds ago. You are dead.",
+   "start": 3179,
+   "end": 3263
+  },
+  {
+   "fact": "死亡档案记录事故发生时间是当天晚上 8:43。",
+   "anchor": "Time of incident: 8:43 p.m.",
+   "start": 3622,
+   "end": 3649
+  },
+  {
+   "fact": "Lucy 按住自己的心口，掌心下没有任何跳动，她由此确认自己已经死了。",
+   "anchor": "Nothing thumps beneath my palm.",
+   "start": 6666,
+   "end": 6697
+  },
+  {
+   "fact": "Daniel 说这里不是天堂，而是候车室（Waiting Room）。",
+   "anchor": "You are not in Heaven. This is the Waiting Room.",
+   "start": 8737,
+   "end": 8785
+  },
+  {
+   "fact": "候车室的用途：让新死的人醒来后先适应「新的现实」，然后才被带出去。",
+   "anchor": "We let them wake up and acclimate to their new reality here before we bring them out there.",
+   "start": 8831,
+   "end": 8922
+  },
+  {
+   "fact": "Daniel 自称是 Reaper，只是这里众多雇员中的一个；至于是否 grim，他表示有待商榷。",
+   "anchor": "I am a Reaper. One of thousands employed here.",
+   "start": 11107,
+   "end": 11153
+  },
+  {
+   "fact": "Lucy 请求缓期的理由：妹妹六周后结婚，她是妹妹唯一的家人。",
+   "anchor": "I need to be there for my sister’s wedding in six weeks.",
+   "start": 14452,
+   "end": 14508
+  },
+  {
+   "fact": "Daniel 答应替 Lucy 争取缓期，并说自己可能会因此惹上麻烦。",
+   "anchor": "I’ll try to win you a reprieve.",
+   "start": 15573,
+   "end": 15604
+  }
+ ]
+}

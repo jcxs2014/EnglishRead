@@ -73,15 +73,15 @@ modified: "2026-10-24"
 
 **为什么这样写**：这一来一回是**双关的错位**：她说的"合适"是自嘲式的（倒霉惯了的人拿到坏兆头才算合适），他听的却是字面——为什么坏兆头落到你头上很合理。这句追问立刻暴露了他知道得比一个陌生人多得多，所以他也立刻后悔了。
 
-**读者视角提示**：他后悔的不是问题本身，而是**问出口**；这种"知道自己说多了"的反应，是他在这一章里第二次露出破绽（第一次是名字）。
+**读者视角提示**：他后悔的不是问题本身，而是**问出口**；这种"知道自己说多了"的反应，和他前面那次关于名字的迟疑是同一种破绽。
 
-> **原句 7:** "Now that he’s stringing more than a few words together I pick up the barest hint of an accent in his speech. Russian, maybe? … “And the coffee is always terrible. Except on Mondays. But good coffee once a week cannot make up for all the horrors.”"
+> **原句 7:** "“And the coffee is always terrible. Except on Mondays. But good coffee once a week cannot make up for all the horrors.” … Now that he’s stringing more than a few words together I pick up the barest hint of an accent in his speech. Russian, maybe?"
 
-**中文理解**：既然他终于肯多说几个字，我从他口音里听出一丝极淡的痕迹，也许是俄罗斯口音？……"而且那里的咖啡永远难喝。除了周一。可一周就一次好咖啡，抵不了所有的恐怖。"
+**中文理解**："而且那里的咖啡永远难喝。除了周一。可一周就一次好咖啡，抵不了所有的恐怖。"……既然他终于肯多说几个字，我从他口音里听出一丝极淡的痕迹，也许是俄罗斯口音？
 
-**关键词**：the barest hint of an accent / the coffee is always terrible / cannot make up for all the horrors（极淡的口音、咖啡永远难喝、抵不了所有的恐怖）
+**关键词**：the coffee is always terrible / the barest hint of an accent / Russian, maybe（咖啡永远难喝、极淡的口音、也许是俄罗斯口音）
 
-**为什么这样写**：这一段把"猎奇"翻译成**抱怨**，而抱怨里藏着设定：难喝，却只有一周里的一天是好喝——这不是咖啡馆的口味，是**排班表**；"all the horrors"用了一个过重的词，说的却只是办公室的咖啡，语气里的重音才是信息。
+**为什么这样写**：这一段把"猎奇"翻译成**抱怨**，而抱怨里藏着设定：难喝，却只有一周里的一天是好喝——这不是咖啡馆的口味，是**排班表**；"all the horrors"用了一个过重的词，说的却只是办公室的咖啡，语气里的重音才是信息。而紧接着那句"既然他终于肯多说几个字"，才把**口音**交出来：她在数他的句子，句子够多了，才敢去听他的声音。
 
 **读者视角提示**：她的"也许是俄罗斯口音"是**猜的**；作者让读者和他共享这份不确定，而不是替他坐实。
 

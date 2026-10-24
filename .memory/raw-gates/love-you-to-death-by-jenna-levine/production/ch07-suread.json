@@ -1,0 +1,85 @@
+{
+ "book": "love-you-to-death-by-jenna-levine",
+ "chapter": "ch07",
+ "text": "notes/books/novels/love-you-to-death-by-jenna-levine/text/ch07_chapter_six.txt",
+ "facts": [
+  {
+   "fact": "Daniel 把 CEO、Chief People Officer（CPO）和 Head of Inhuman Resources（Head of IR）三位高管叫到 Executive Suite 问话。",
+   "anchor": "the Agency’s Chief Executive Officer, Chief People Officer, and Head of Inhuman Resources are all waiting for me.",
+   "start": 924,
+   "end": 1037
+  },
+  {
+   "fact": "Head of IR 当场嗤笑，随即展开一卷羊皮纸大卷轴，Daniel 立刻认出那就是 The Reaper Handbook。",
+   "anchor": "The Head of IR scoffs, then begins unrolling a large parchment scroll I recognize immediately as The Reaper Handbook.",
+   "start": 3502,
+   "end": 3619
+  },
+  {
+   "fact": "Head of IR 照卷宣读的第一条禁令是：禁止与人类灵魂做交易。",
+   "anchor": "“Bargains with human souls are forbidden,” he reads.",
+   "start": 3685,
+   "end": 3737
+  },
+  {
+   "fact": "Daniel 在 Agency 的资历是 135 年 47 天，他当场纠正 CPO 说的「一百年」。",
+   "anchor": "“One hundred thirty-five,” I correct. And forty-seven days. Not like I’m counting.",
+   "start": 5068,
+   "end": 5150
+  },
+  {
+   "fact": "CPO 早在 Daniel 到来之前就已在 Agency 干了几千年，她把他的资历视为「nothing」。",
+   "anchor": "My years with the Agency are nothing to her.",
+   "start": 5289,
+   "end": 5333
+  },
+  {
+   "fact": "Daniel 提出的请求是让 Lucy McKenzie 复活，理由是她妹妹六周后结婚、她想出席婚礼。",
+   "anchor": "“Lucy McKenzie wishes to be brought back to life,” I confirm, wincing at how my voice wobbles. “Her sister is getting married in six weeks. She wants to be there for it.”",
+   "start": 2786,
+   "end": 2956
+  },
+  {
+   "fact": "Agency 从不批准复活请求，因为做不到——生死只有一条单行道。",
+   "anchor": "We never grant them, because we can’t.",
+   "start": 2230,
+   "end": 2268
+  },
+  {
+   "fact": "Death Cards 由 Executives 与 Powers That Be 制作，决定谁死、怎么死、何时死。",
+   "anchor": "I know this. The Executives—who, along with the Powers That Be, create the Death Cards that dictate who dies, how they die, and when—know I know this.",
+   "start": 2563,
+   "end": 2713
+  },
+  {
+   "fact": "CEO 提议做 human reconnaissance，CPO 翻查厚皮活页夹后回答：上一次人类侦察是 1623 年。",
+   "anchor": "“Not since 1623.”",
+   "start": 8046,
+   "end": 8063
+  },
+  {
+   "fact": "Head of IR 代 Daniel 回答：他已连续五年未达配额，本周就要准备他的年度绩效考核。",
+   "anchor": "“It’s his fifth consecutive year of falling short,” the Head of IR answers for me. “I am preparing his annual performance evaluation this week.”",
+   "start": 9374,
+   "end": 9518
+  },
+  {
+   "fact": "Executive 曾在 break room 加装弹球机与更多零食，想让 Daniel 恢复活力，但报告说毫无效果。",
+   "anchor": "We thought adding pinball machines and a wider variety of snacks to the break room might help restore your old vim and vigor.",
+   "start": 9537,
+   "end": 9662
+  },
+  {
+   "fact": "Daniel 对自己的总结是「现在，显然，我是一颗棉花糖」——早上醒来时他还是厌倦死亡的意志消沉的 Reaper。",
+   "anchor": "Now, apparently, I am a marshmallow.",
+   "start": 7118,
+   "end": 7154
+  },
+  {
+   "fact": "他不能对高管说出真正原因，因为除了「不想放开她」，他自己也说不清理由。",
+   "anchor": "aside from not wanting to let her go.",
+   "start": 7325,
+   "end": 7362
+  }
+ ]
+}

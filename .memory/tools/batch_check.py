@@ -94,6 +94,15 @@ def check(book, ch):
         for s in segs:
             if s not in tf:
                 problems.append(f"{ch} 块{i}: 片段查无 → {s[:70]}")
+        # 块内分段顺序：`…` 各段在原文里必须**递增**（逆序＝拼接红线，gate ⑱ 判红）
+        seg_offs = [tf.find(s) for s in segs]
+        if all(o >= 0 for o in seg_offs):
+            for k in range(len(seg_offs) - 1):
+                if seg_offs[k] >= seg_offs[k + 1]:
+                    problems.append(
+                        f"{ch} 块{i}: 块内分段逆序（段{k+1} off={seg_offs[k]} "
+                        f">= 段{k+2} off={seg_offs[k+1]}）"
+                    )
         w = len(qq.split())
         if w > WARN_MAX_WORDS:
             warns.append(f"{ch} 块{i}: 引语 {w} 词（>100 提示）")
