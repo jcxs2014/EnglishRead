@@ -1,0 +1,55 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch45",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch45_oliver_practices_piano.txt",
+ "facts": [
+  {
+   "fact": "阿尔芭说奥利弗练琴像没人能比：一天十小时、十二小时、十四小时，不打断他就不吃饭，琴凳上还垫着枕头。",
+   "anchor": "Oliver practices like no one else I know",
+   "start": 112,
+   "end": 152
+  },
+  {
+   "fact": "奥利弗说父母送他进皇家学院只是一条把他送出中国的计策，试音录像用的是别人的，他此前从未碰过钢琴。",
+   "anchor": "we sent someone else’s audition video",
+   "start": 1564,
+   "end": 1601
+  },
+  {
+   "fact": "试奏之后大人们都去了走廊，把他一个人留在琴房，他沿着五度圈即兴，边弹边等他们回来判定他不够格。",
+   "anchor": "I started moving through the circle of fifths",
+   "start": 3740,
+   "end": 3785
+  },
+  {
+   "fact": "他回忆上海的家：父母都是诗人，没人来访的日子其实是软禁，学校里的男孩因他父母是异见者而欺负他。",
+   "anchor": "these were the times when my parents were under house arrest",
+   "start": 6967,
+   "end": 7027
+  },
+  {
+   "fact": "他说自己偶尔仍会想起，他出生在一个特别美的地方与年代，父母善良而深爱他。",
+   "anchor": "I was born in a particularly beautiful place and time",
+   "start": 7565,
+   "end": 7618
+  },
+  {
+   "fact": "离开上海那天母亲把属于他的每件衣服都装进背包，他这才明白父母没打算让他回来。",
+   "anchor": "She packed every piece of clothing I owned",
+   "start": 8535,
+   "end": 8577
+  },
+  {
+   "fact": "机场的人工扫描把大脑投影在两个陌生人眼前，他觉得羞耻，却说不清为什么。",
+   "anchor": "it’s more uncomfortable than being naked in public",
+   "start": 18776,
+   "end": 18826
+  },
+  {
+   "fact": "飞机开始后退，伊莎多拉一杯接一杯给他倒那种粉色饮料。",
+   "anchor": "I finish my drink, and Isadora pours me another glass",
+   "start": 25040,
+   "end": 25093
+  }
+ ]
+}

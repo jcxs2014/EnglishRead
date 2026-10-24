@@ -1,0 +1,55 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch44",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch44_life_indoors.txt",
+ "facts": [
+  {
+   "fact": "阿尔芭在黄房子的日子一直在下雨，她四天前到，奥利弗昨天才出现。",
+   "anchor": "It was raining when I arrived at the Yellow House",
+   "start": 114,
+   "end": 163
+  },
+  {
+   "fact": "她早上打电话给图书馆参考咨询台，问日期与天气；馆员疲惫地告诉她今天是四月十八日。",
+   "anchor": "I called the library reference desk this morning",
+   "start": 229,
+   "end": 277
+  },
+  {
+   "fact": "她把年份告诉奥利弗，说该造一条方舟了，奥利弗回答从前有人造过。",
+   "anchor": "“It’s 2028,” I tell Oliver. “Time to build an ark.”",
+   "start": 530,
+   "end": 581
+  },
+  {
+   "fact": "奥利弗说他小时候在电视上看过佛罗里达大沼泽地有个男人造方舟，里面装的是孩子而不是鳄鱼，结局不好。",
+   "anchor": "A man in Florida, in the Everglades",
+   "start": 699,
+   "end": 734
+  },
+  {
+   "fact": "奥利弗说他的时代没有火车与汽车，伦敦安静得多；他惊讶鸟叫这么响，因为伦敦已没有鸟，连鸽子也没有。",
+   "anchor": "London is much quieter now than it used to be",
+   "start": 1394,
+   "end": 1439
+  },
+  {
+   "fact": "奥利弗点起当天的烟，想省着抽却总做不到，因为回到自己的时代就没有烟草。",
+   "anchor": "He tries and fails to ration them because",
+   "start": 1930,
+   "end": 1971
+  },
+  {
+   "fact": "他讲自己的时代：合成体验压过触觉与有机之物，日常像一支空荡荡的乐队。",
+   "anchor": "The Japanese word karaoke means ‘empty orchestra.’",
+   "start": 3614,
+   "end": 3664
+  },
+  {
+   "fact": "阿尔芭说那像世界末日，奥利弗答那只是一个世界让位给下一个，随后伸手邀她一起做点音乐。",
+   "anchor": "“It’s the end of one world, and the beginning",
+   "start": 3850,
+   "end": 3895
+  }
+ ]
+}
