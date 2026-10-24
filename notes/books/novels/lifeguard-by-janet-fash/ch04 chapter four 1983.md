@@ -27,7 +27,7 @@ modified: "2026-10-24"
 **读者视角提示**：读者会在这里听到一种职业口吻：判断、布置、谁该站在哪，全是实操层面的事；她说话的对象不是读者，而是那把椅子。
 
 > **原句 3:** "Bob was a high school friend of Brian’s who worked as a firefighter and as a bouncer at Fitzgerald’s. I met him on the beach when we were lifeguarding. I was sitting on the chair when he stopped by and said he was looking for Brian to say hello."
-**中文理解**：Bob 是 Brian 的高中同学，既当消防员，也在 Fitzgerald's 做保镖；作者在海滩值勤时认识他——她坐在椅子上，他走过来搭话，说自己是来找 Brian 打招呼。
+**中文理解**：Bob 是 Brian 的高中同学，既当消防员，也在酒吧做保镖；作者在海滩值勤时认识他——她坐在椅子上，他走过来搭话，说自己是来打招呼的。
 **关键词**：high school friend / firefighter / bouncer
 **为什么这样写**：作者不写这个人的魅力，先写他找错了目标：他明明是来找 Brian 的，停在作者面前只因为顺路；把被追求的人放在「恰好路过」的位置上，这场初遇便不落俗套。
 **读者视角提示**：这是 Bob 的第一次亮相，身份给得很实：Brian 的高中同学、同时是消防员和 Fitzgerald's 的保镖；读者会记下这些标签，等着它们日后一一兑现。
