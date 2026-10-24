@@ -42,7 +42,7 @@ modified: "2026-10-24"
 **中文理解**：她最初在《Aberdeenshire Folk Tales》里读到 Alexander 的故事，惊讶于冒险细节之多；主要一则讲他与魔鬼同乘马车穿越 Skene 湖，车夫回头看见魔鬼的蹄子，惊慌失控，车毁人亡。
 **关键词**：Aberdeenshire Folk Tales / the Devil’s hooves / lost control
 **为什么这样写**：作者坦白自己的资料来源，把「考据」写进创作谈；「车夫回头看见蹄子」的细节正是小说第十三章车祸与冰湖场景的直接来源。
-**读者视角提示**：对照正文：Eliza 家的马车、冰封的 loch、Tom 的死，都能在这段民间传说里找到原型。
+**读者视角提示**：对照正文：Alexander 的汽车、冰封的 loch、司机 Tom 的死，都能在这段民间传说里找到原型。
 
 > **原句 5:** "Alexander is also said to have put a curse on the dancers and musicians at a ceilidh, forcing them to play and dance until their hands and feet bled. There is another story about his grave being covered in chains so he would stay put, as well as a legend that if you were to run around his grave one hundred times, he would rise from the dead."
 >
