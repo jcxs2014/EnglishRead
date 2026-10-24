@@ -11,7 +11,7 @@ source_text: ch09
 - **出处**：*Monstrous Bitch: A History of Terrifying Women*，书内第 7 章「7. Crazy Bitches of the 1940s and 1950s」
 - **作者**：Eleanor Johnson
 - **体裁**：非虚构（学术专著·文化史论著）
-- **章节定位**：Episode III（Psychotherapy and the Silver Screen: Monstrous Bitches in the Modern Day）的第一章；全书三个分部依次为 Episode I: Ancient Mediterranean Monstrous Bitches and Their Progeny、Episode II: The Monstrous Bitch Meets Jesus: Whores, Witches, and Vampires、Episode III: Psychoanalysis and the Silver Screen: Monstrous Bitches in the Modern Day。本章处理怪物母狗形态从古代神话与吸血鬼向银幕「疯女人」的迁移，以及精神分析与医学两种控制手段为何一次次落空
+- **章节定位**：Episode III（Psychoanalysis and the Silver Screen: Monstrous Bitches in the Modern Day）的第一章；全书三个分部依次为 Episode I: Ancient Mediterranean Monstrous Bitches and Their Progeny、Episode II: The Monstrous Bitch Meets Jesus: Whores, Witches, and Vampires、Episode III: Psychoanalysis and the Silver Screen: Monstrous Bitches in the Modern Day。本章处理怪物母狗形态从古代神话与吸血鬼向银幕「疯女人」的迁移，以及精神分析与医学两种控制手段为何一次次落空
 - **字符数**：约 47,445 字符（去空白）
 - **一句话主旨**：1930 至 1950 年代，好莱坞把女性第一次女权浪潮引发的焦虑拍成了整整一个怪物女人类型，而作者要证明的是：无论用精神分析、医学还是科学去「治好」她，每一次都失败——因为她不是病，她是父权召唤出来的。
 
