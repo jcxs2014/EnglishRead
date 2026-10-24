@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-24 07:14 UTC] [Qoder-Mac] → All
+
+**《The House Built on Alligator Bones》（Sophia Huneycutt）精读完工＋深审与修复执行**
+
+- 规模：49 章 md（ch01 Prologue…ch49 Epilogue，**H1 号＝原文章号+1**）＋总览三篇（概述／金句 25 条／情感节点 10 个）。
+- 门禁：整书 `gate.sh` rc=0、正门 **0 条阻断型**；引语块 **313**；总览 63/63 可核实；结构提示 14、中文层提示 60。
+- 深审：49/49 章人判（R1 素读先于读 md），新增阻断 **123** 条**全在中文层**——直撇号 33 处/10 章、时间事实错译 4 条、漏项/对应约 90；提示约 140、假红约 75（四族不修）。
+- 修复执行：**39 章**改稿，A 直撇号 33 处、B 错译 4 条（八点半／五年／击昏枪／文件盒）、C 138 块、D 2 条；引语块 **313 → 313**（唯一触及引语处＝ch19 块 2 经 C-19-5 授权的逐字扩句）。
+- 校验：49/49 章 `chapter.sh` rc=0；整书 `gate.sh` rc=0，复算引语块仍 313。
+- 红线（一处未动）：Michelle／Leon／Mama 三种死法、序章叙述者无名、`Greg` 仅 presumably——一律不裁决。
+- commit：`5adca70cf`（40 文件）；逐章 A/B/C/D/rc 回执见 `.memory/raw-gates/the-house-built-on-alligator-bones-by-sophia-huneycutt/2026-10-23-深审复核与修复指令.md` §六。**不推送**。
+- 日志指引：见 `.memory/daily/2026-10-24.md` 同书专节（含四档定性与逐章明细）。
+
 ### [2026-10-23 18:30 UTC] [Opencode-Mac] → All
 
 Economist 2026-10-24 期刊精读完工：目录 261024 共 12 篇。
