@@ -1,0 +1,55 @@
+{
+ "book": "lifeguard-by-janet-fash",
+ "chapter": "ch01",
+ "text": "notes/books/novels/lifeguard-by-janet-fash/text/ch01_chapter_one_1974.txt",
+ "facts": [
+  {
+   "fact": "父亲以「搬出家门」相威胁，逼 15 岁的作者随全家去 Rockaway 海滩度假",
+   "anchor": "My dad gave me an ultimatum—to come with them or move out of their house altogether.",
+   "start": 644,
+   "end": 728
+  },
+  {
+   "fact": "救生员 Peter 在众人面前把 Barbara 拖进海里扒掉泳衣",
+   "anchor": "but he followed her and wrestled her in the ocean, forcibly stripping her of her bathing suit",
+   "start": 2745,
+   "end": 2838
+  },
+  {
+   "fact": "母亲目睹 Barbara 事件后断言作者永远不会成为救生员",
+   "anchor": "“Jesus, Mary, and Joseph,” she said. “You’ll never be a lifeguard.”",
+   "start": 4324,
+   "end": 4391
+  },
+  {
+   "fact": "表姐 Patricia 在 Sandy Hook 被浪拍进沙里，摔断锁骨",
+   "anchor": "the force broke her shoulder.",
+   "start": 9259,
+   "end": 9288
+  },
+  {
+   "fact": "酒吧里 Tom 拉下作者的上衣，作者脱下 Dr. Scholl's 拖鞋砸他的头",
+   "anchor": "one of them—Tom—had pulled my tube top down",
+   "start": 15747,
+   "end": 15790
+  },
+  {
+   "fact": "母亲替楼里的朝鲜族与叙利亚家庭担保移民签证",
+   "anchor": "my mother sponsored all of their immigration visas",
+   "start": 5998,
+   "end": 6048
+  },
+  {
+   "fact": "母亲反对之下，作者 19 岁才报名当救生员",
+   "anchor": "I was the ripe old age of nineteen when I first signed up",
+   "start": 16732,
+   "end": 16789
+  },
+  {
+   "fact": "两人被派驻 Rockaway 西端的 Belle Harbor（135 至 149 街）",
+   "anchor": "We were sent to Belle Harbor, a stretch of the beach from 135th to 149th Streets",
+   "start": 20038,
+   "end": 20118
+  }
+ ]
+}
