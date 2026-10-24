@@ -1,0 +1,55 @@
+{
+ "book": "love-you-to-death-by-jenna-levine",
+ "chapter": "ch03",
+ "text": "notes/books/novels/love-you-to-death-by-jenna-levine/text/ch03_chapter_two.txt",
+ "facts": [
+  {
+   "fact": "Lucy 直接断定 Daniel 是跟踪她的人，并且认为这不容置疑。",
+   "anchor": "Daniel’s a stalker.",
+   "start": 46,
+   "end": 65
+  },
+  {
+   "fact": "这张卡片用消失墨水写着 Lucy 的名字、日期和精确年龄。",
+   "anchor": "It’s as plain as the disappearing ink on this notecard. My name, the date, and my exact freaking age were there.",
+   "start": 84,
+   "end": 196
+  },
+  {
+   "fact": "Lucy 猜卡片上涂了毒或酸一类的防护物，谁去读它指尖就会被烧掉，所以不能徒手碰。",
+   "anchor": "He must have put some kind of defensive poison or acid or something on the card so anyone who tries to read it gets their fingertips singed off.",
+   "start": 197,
+   "end": 341
+  },
+  {
+   "fact": "她决定把卡片交给警方，指望警方取指纹、做法证，并查出这个人去了哪里。",
+   "anchor": "I have to take this notecard to the police. They can take fingerprints, or do forensics, or something.",
+   "start": 441,
+   "end": 543
+  },
+  {
+   "fact": "她用下一张桌上绣着 Professor Shiran 首字母的布餐巾裹住手，像夹手雷一样拿起卡片。",
+   "anchor": "I wrap my hand in one of them and pick up the card like it’s a grenade.",
+   "start": 863,
+   "end": 934
+  },
+  {
+   "fact": "卡片掉进包里后又自己浮回餐巾纸上，她再摇一次仍然如此。",
+   "anchor": "Once again the card floats back up to the napkin like gravity is nothing but some cosmic joke to it.",
+   "start": 1275,
+   "end": 1375
+  },
+  {
+   "fact": "她扫了一圈人群找不到朋友 Eleanor，也不愿惊动教授们，认定唯一能求助的人是妹妹 Jess（护士训练，也能陪她去警局）。",
+   "anchor": "The only person I can turn to right now is Jess.",
+   "start": 1778,
+   "end": 1826
+  },
+  {
+   "fact": "结尾她站在路口低头等 Jess 的下一条短信，一辆巴士突然从不知何处冲了出来。",
+   "anchor": "Listen, that bus comes out of nowhere.",
+   "start": 4288,
+   "end": 4326
+  }
+ ]
+}

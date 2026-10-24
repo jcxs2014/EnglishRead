@@ -1,0 +1,85 @@
+{
+ "book": "love-you-to-death-by-jenna-levine",
+ "chapter": "ch04",
+ "text": "notes/books/novels/love-you-to-death-by-jenna-levine/text/ch04_chapter_three.txt",
+ "facts": [
+  {
+   "fact": "叙述者抵达车祸现场时，现场已经聚了一圈围观者",
+   "anchor": "There’s already a crowd at the accident site when I arrive.",
+   "start": 28,
+   "end": 87
+  },
+  {
+   "fact": "叙述者对围观者感到烦躁——人总忍不住要凑近看车祸",
+   "anchor": "People never can resist seeing a car accident up close. Always annoying.",
+   "start": 108,
+   "end": 180
+  },
+  {
+   "fact": "叙述者自称站在西班牙流感前线，那时要每周给大批新入职的 Reaper 做培训",
+   "anchor": "I was on the front lines of the Spanish influenza, a time when so many new Reapers had to be pressed into service that we held orientations every week.",
+   "start": 318,
+   "end": 469
+  },
+  {
+   "fact": "训练要求他们对这类现场保持冷漠无情",
+   "anchor": "We are trained to handle scenes like the one before me dispassionately.",
+   "start": 620,
+   "end": 691
+  },
+  {
+   "fact": "他说比本该有的自然寿命早很多就死，总是难办的",
+   "anchor": "people dying decades before what should have been their natural end is always hard.",
+   "start": 807,
+   "end": 890
+  },
+  {
+   "fact": "Lucy McKenzie 死时比叙述者自己当年死时更年轻，她的死被称作悲剧，他的死不是",
+   "anchor": "Lucy McKenzie is—was—even younger than I had been when I died. Her death—unlike mine—is a tragedy.",
+   "start": 923,
+   "end": 1021
+  },
+  {
+   "fact": "他说要不是那辆公交车她本可以活到很老，并注明这是上级派下卷宗时告诉他的",
+   "anchor": "If it weren’t for this bus, she would have lived to a very old age. Or so my supervisor told me when they assigned me her file.",
+   "start": 1126,
+   "end": 1253
+  },
+  {
+   "fact": "她的灵魂亮得惊人，像万花筒，他能在任何地方找到它",
+   "anchor": "Ms. McKenzie’s soul is so brilliant I could have found her anywhere. Not just a bright flash against the gloom, but more like a kaleidoscope with all its swirling colors.",
+   "start": 1452,
+   "end": 1622
+  },
+  {
+   "fact": "他自称专业的死亡代理人，把周围围观者称为看热闹的蠢货",
+   "anchor": "I am a professional agent of death, not a gawking bystander like the idiots all around us.",
+   "start": 1764,
+   "end": 1854
+  },
+  {
+   "fact": "她的灵魂挣扎着抵抗他的牵引，因为一切构成她的东西都紧抓不放",
+   "anchor": "She fights against my intrusion the way people always do when they die this suddenly and this young.",
+   "start": 2170,
+   "end": 2270
+  },
+  {
+   "fact": "他看见她的生前记忆：深爱的姐姐、多年前丢下的速写本、快乐的家族旅行、挥之不去的终生内疚",
+   "anchor": "I see a sister she adores. A sketchbook she used to carry everywhere but abandoned years ago. Happy family vacations to a familiar mountain town. A nearly overwhelming lifelong sense of guilt.",
+   "start": 2553,
+   "end": 2745
+  },
+  {
+   "fact": "他承认自己这次没能移开视线",
+   "anchor": "This time, however—despite my best efforts—I can’t look away.",
+   "start": 2871,
+   "end": 2932
+  },
+  {
+   "fact": "最后他闭着眼睛，温和地劝她放手",
+   "anchor": "I close my eyes when I urge her, gently, to let go.",
+   "start": 2935,
+   "end": 2986
+  }
+ ]
+}
