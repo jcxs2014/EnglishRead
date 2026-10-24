@@ -1,0 +1,430 @@
+{
+  "chapter": 2,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/ch02 chapter two 1980.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/text/ch02_chapter_two_1980.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "In the spring of 1980, the subway workers went on strike, bringing all the trains and buses to a halt. At the time, I wa",
+          "ok": true,
+          "pos": 35
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "That summer I decided I would lifeguard full-time. Barbara was still working for a commodities trader and couldn’t do it",
+          "ok": true,
+          "pos": 1296
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It wasn’t until we started playing rugby that we became close. Because she loved to swim, I thought she might enjoy life",
+          "ok": true,
+          "pos": 2182
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "But the feeling of being apart didn’t just come from being horns. Helen and I were from Brooklyn, while most of the othe",
+          "ok": true,
+          "pos": 7475
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "At times, he made Helen and I sit on the rock jetty under the hot sun for hours on end. Our job was to tell people not t",
+          "ok": true,
+          "pos": 9031
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Once, I walked in and one of the guys who was standing next to the door dropped his pants, exposing his penis just as I ",
+          "ok": true,
+          "pos": 11833
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Arnold, our chief, asked for a volunteer to go out and make the save with him. I raised my hand and we ran into the wate",
+          "ok": true,
+          "pos": 16783
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Arnold was completely panicked. I could tell he thought he was going to drown. The rocks were covered with barnacles tha",
+          "ok": true,
+          "pos": 17508
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "As we were walking back to the shack, Freddie, the borough coordinator, was standing there. He noticed neither of us was",
+          "ok": true,
+          "pos": 18155
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "But he blamed it on me. “Timlin lost it,” Arnold said. (Timlin is my maiden name.) He wanted to save face in front of hi",
+          "ok": true,
+          "pos": 18497
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "The more I drank, the madder I got, thinking about how he’d treated us all year. I threw a beer at him. I saw a street s",
+          "ok": true,
+          "pos": 19427
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "The bartender who saw the whole thing didn’t throw me out because he said the guy had deserved it. But with our lieutena",
+          "ok": true,
+          "pos": 20954
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "That was when I first learned how special September is in Rockaway. Ever since, it’s been my favorite month there. All t",
+          "ok": true,
+          "pos": 21693
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "02. Chapter Two: 1980",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 10.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4104,
+    "block_target": [
+      7,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

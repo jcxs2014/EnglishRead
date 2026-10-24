@@ -32,55 +32,61 @@ modified: 「2026-10-24」
 **为什么这样写**：作者借一个已经离开这行的局外人的嘴，说出她自己不敢说的话，再加一个「看着我」的动作把责任压到她身上——这句既是建议，也是把人推上被告席的判决。
 **读者视角提示**：这是整章的转折支点：她原本只想保住自己那段海滩，从这一刻起她要动的是整套体制；读者会盯着她能不能撑住这份期待。
 
-> **原句 4:** "That summer he punished me by taking away my lifeguards. I normally had around thirty-five people working my stretch of beach, but he cut it down to sixteen. Having half the manpower made the job incredibly difficult."
-**中文理解**：那年夏天，Stein 用抽走她手下救生员的方式惩罚她：她管的那段海滩原本有三十五个人左右，被砍到十六个，人手少了一半，工作变得极其艰难。
-**关键词**：punished me / thirty-five people / cut it down to sixteen
-**为什么这样写**：作者用两个具体数字把报复写成一道算术题——三十五对十六，多出来的那一截就是故意留出的窟窿；「惩罚」二字在前，数字在后，动机与手段的顺序一点没乱。
-**读者视角提示**：作者直接用了「惩罚」这个词，读者不必猜：扣人不是人手紧张，是他故意给的教训。
+> **原句 4:** "Stein was already ten steps ahead of me in the war. After the lifeguard development program, I was now his public enemy number one. That summer he punished me by taking away my lifeguards."
+**中文理解**：Stein 在这场博弈里已经领先她十步；救生员发展项目之后，她成了他头号公敌。那年夏天，他用抽走她手下救生员的方式惩罚她。
+**关键词**：ten steps ahead / public enemy number one / taking away my lifeguards
+**为什么这样写**：三句话一路加码，不是并列：先定性（领先十步），再定性（头号公敌），最后才落到手段（抽走人）；作者把一次报复写成一条由远及近的线。
+**读者视角提示**：读者会看到她是怎么一步步被逼到这步的——作者下判断的顺序比任何一个判断本身都冷。
 
-> **原句 5:** "“You’re in Stein’s crosshairs, Janet. Don’t think that you’ll get off his radar now.” Joe encouraged me to try to go through official channels like the Parks Department, helped me figure out what questions to ask, and told me to keep emailing and documenting everything I was sending."
+> **原句 5:** "I normally had around thirty-five people working my stretch of beach, but he cut it down to sixteen. Having half the manpower made the job incredibly difficult. Where I used to have three or four lifeguards per chair, I now only had two—and sometimes less—a three-way split where two chairs had to share one partner."
+**中文理解**：她管的那段海滩原本有三十五个人左右，被砍到十六个，人手少了一半，工作变得极其艰难：过去每把椅子配三四个人，现在只剩两个，有时候更少——三把椅子只好共用一个搭档。
+**关键词**：around thirty-five people / cut it down to sixteen / half the manpower
+**为什么这样写**：作者用两个具体数字把报复写成一道算术题——三十五对十六，多出来的那一截就是被砍掉的窟窿；先给人数、后给缺口，读者自己算出这笔账有多亏。
+**读者视角提示**：读者会拿这两个数字去对照上一块那两句狠话——报复不是修辞，是实打实砍掉了一半人手。
+
+> **原句 6:** "“You’re in Stein’s crosshairs, Janet. Don’t think that you’ll get off his radar now.” Joe encouraged me to try to go through official channels like the Parks Department, helped me figure out what questions to ask, and told me to keep emailing and documenting everything I was sending."
 **中文理解**：Joe 一针见血地告诉她：你在 Stein 的准星里，别以为从此就能摆脱他的盯梢；他建议她走公园局这类官方渠道，帮她想清楚该问哪些问题，并让她把发出去的东西全都留好记录。
 **关键词**：crosshairs / official channels / documenting everything
 **为什么这样写**：这段把走投无路的处境和能上手的办法并排放着——Joe 不只安慰她，还给步骤；「该问哪些问题」这种指点更像带兵，而不是哄人。
 **读者视角提示**：读者会注意到 Joe 给的是具体做法而不是安慰话；这份来自局外人的冷静，是她这一章里最靠得住的支撑。
 
-> **原句 6:** "Katie, who worked the 96th Street chair, broke down crying one day because she was so stressed when Rodriguez showed up and bullied her, questioning her knowledge about where the rip currents were. A different time, when I wasn’t on duty, her partner Jaime had to leave the beach because he was so unwell."
+> **原句 7:** "Katie, who worked the 96th Street chair, broke down crying one day because she was so stressed when Rodriguez showed up and bullied her, questioning her knowledge about where the rip currents were. A different time, when I wasn’t on duty, her partner Jaime had to leave the beach because he was so unwell."
 **中文理解**：在 96 街岗位上的 Katie 有一天当场哭了出来——她压力太大，因为 Rodriguez 跑来训斥她，追问她对离岸流位置的了解；另一次她不在岗时，搭档 Jaime 身体撑不住，只能离开海滩。
 **关键词**：broke down crying / bullied her / rip currents
 **为什么这样写**：作者把「人手被砍」的后果写成两个人具体的崩掉：一个哭，一个走；两件事都由个人独自承受，正好和前一段冷冰冰的数字形成对照。
 **读者视角提示**：这一块提醒读者，被压的不只是她一个；她顶回去的每一下，代价都落在她手下身上。
 
-> **原句 7:** "I held meetings with my shack to talk about what was happening. I wanted to be realistic about the situation, so I gave my lifeguards a choice. “This is a mafia we’re up against,” I said."
+> **原句 8:** "I held meetings with my shack to talk about what was happening. I wanted to be realistic about the situation, so I gave my lifeguards a choice. “This is a mafia we’re up against,” I said."
 **中文理解**：她把棚里的人召集起来谈当前的处境，想把话说得实在些，于是给手下一个选择；她直说——我们面对的是一伙黑手党。
 **关键词**：my shack / gave my lifeguards a choice / a mafia
 **为什么这样写**：作者先写「开会」「给选择」这套动作，把她写成管事的人；随后用一句粗粝的比喻把处境压到最直白的层面，反差正好显出她的护短。
 **读者视角提示**：注意她说的是「我们」而不是「他们」——读者由此明白，她把自己也算进了要对抗的那一方。
 
-> **原句 8:** "Of course Stein didn’t give me new lifeguards. Now I had twelve lifeguards covering ten blocks of beach, which was the lowest amount I’d ever had. Every day I went to work terrified that someone would die."
+> **原句 9:** "Of course Stein didn’t give me new lifeguards. Now I had twelve lifeguards covering ten blocks of beach, which was the lowest amount I’d ever had. Every day I went to work terrified that someone would die."
 **中文理解**：Stein 自然不会给她补人；如今只剩十二名救生员守着十个街区，是她带过最少的人手，每天上班她都怕得要死，怕有人出事。
 **关键词**：didn’t give me new lifeguards / twelve lifeguards / terrified that someone would die
 **为什么这样写**：三个短句一路往下压：补人落空、人数触底、恐惧落地；作者不写她做了什么，只写她每天要背的心理重负。
 **读者视角提示**：读者会把这笔账记在 Stein 头上：砍人是他做的，补人不肯做也是他做的。
 
-> **原句 9:** "Later, when Helen showed up to a community meeting in Rockaway, I told her, “I hope you do a better job than your father did.” That was me with my big mouth, always saying whatever came to mind."
+> **原句 10:** "Later, when Helen showed up to a community meeting in Rockaway, I told her, “I hope you do a better job than your father did.” That was me with my big mouth, always saying whatever came to mind."
 **中文理解**：后来 Helen 出现在罗卡威的社区会议上，她张口就说：希望你比你父亲干得更好；说完她自己补一句——我就是这张大嘴，脑子里冒出什么就说什么。
 **关键词**：community meeting / do a better job / my big mouth
 **为什么这样写**：作者用一句不够客气的话把自己的说话方式交了出来：既不修饰也不后悔，还追一句自嘲；这份坦白让读者相信前面的委屈不是修辞。
 **读者视角提示**：这句口气像挑衅，落在她自己的解释里却成了性格说明；读者由此明白她的战斗方式不是算计，而是直给。
 
-> **原句 10:** "I contacted Denis Hamill, a columnist at the New York Daily News, who I knew because he lived in the same building as us growing up. I told Denis about Stein’s fiefdom and corruption, and he published a piece with the headline: “Lifeguard System’s Drowning.”"
+> **原句 11:** "I contacted Denis Hamill, a columnist at the New York Daily News, who I knew because he lived in the same building as us growing up. I told Denis about Stein’s fiefdom and corruption, and he published a piece with the headline: “Lifeguard System’s Drowning.”"
 **中文理解**：她联系了《纽约每日新闻》的专栏作者 Denis Hamill——两人从小就住同一栋楼；她把 Stein 的封地与腐败讲给 Denis 听，后者随即发表文章，标题是「救生员体系正在溺水」。
 **关键词**：New York Daily News / Stein’s fiefdom / Lifeguard System’s Drowning
 **为什么这样写**：作者先交代关系（同一栋楼长大的旧识），再交代内容（封地与腐败），最后把标题原样摆出来；一个「溺水」把体制的病名和海滩上的危险压成了同一个词。
 **读者视角提示**：这是她第一次把事情交给公众的耳朵；从这里开始，她的处境不再只是自己承受。
 
-> **原句 11:** "One of these guys was a lifeguard with gold teeth who I had seen on the beach driving Stein’s men around. He acted like he was Stein and Sher’s bodyguard but would never tell me his job title when I asked. When he saw me walk through the doors, he came over and stuck his middle finger up at me."
+> **原句 12:** "One of these guys was a lifeguard with gold teeth who I had seen on the beach driving Stein’s men around. He acted like he was Stein and Sher’s bodyguard but would never tell me his job title when I asked. When he saw me walk through the doors, he came over and stuck his middle finger up at me."
 **中文理解**：其中一个人是戴金牙的救生员，她在海滩上见过他替 Stein 的人开车；他装得像是 Stein 和 Sher 的贴身护卫，可她问他的职务他始终不说；看见她推门进来，他走过来朝她竖了中指。
 **关键词**：gold teeth / Stein and Sher’s bodyguard / stuck his middle finger up at me
 **为什么这样写**：作者先给这人的特征（金牙、开车、说不清职务），再给动作（竖中指）；前面越模糊，后面那一下越刺眼，因为谁也说不清他究竟是什么来头。
 **读者视角提示**：竖中指之前没有一句威胁的话；读者会感到这一下比任何威胁都具体——对面的人连身份都不必交代。
 
-> **原句 12:** "I stood up, looked at Stein, and said, “As Rockaway chiefs, we don’t need borough coordinators who know nothing about the ocean to tell us what to do.” I then demanded to know who was on our union’s board. Nobody clapped or anything, but everyone listened."
+> **原句 13:** "I stood up, looked at Stein, and said, “As Rockaway chiefs, we don’t need borough coordinators who know nothing about the ocean to tell us what to do.” I then demanded to know who was on our union’s board. Nobody clapped or anything, but everyone listened."
 **中文理解**：她站起来看着 Stein 说：作为罗卡威的队长，我们不需要不懂海洋的区协调员来指挥我们；接着她追问工会的董事会里都有谁；没人鼓掌，但所有人都在听。
 **关键词**：As Rockaway chiefs / borough coordinators / everyone listened
 **为什么这样写**：作者把她的发言写成一句以身份起头的反问，而不是一段申诉；她要的不是道歉而是换人，随后「没人鼓掌，但所有人都在听」这个反差替这次孤军奋战盖了章。

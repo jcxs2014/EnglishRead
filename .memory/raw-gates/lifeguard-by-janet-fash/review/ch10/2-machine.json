@@ -1,0 +1,349 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/ch10 chapter ten 1993.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/text/ch10_chapter_ten_1993.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "A year and a half after John was born, I was pregnant with my daughter, Caitlin. At that point I had quit working at Ste",
+          "ok": true,
+          "pos": 35
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I saw him grab a wad of money from the cart and throw it down the beach. He ran after it, so I jogged after him and repo",
+          "ok": true,
+          "pos": 623
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Hey, Chief,” he said. “We love swimming with you, but we don’t want to do it anymore. What if something happens to you ",
+          "ok": true,
+          "pos": 1326
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Tony said that Paul, one of my lifeguards on 100th Street, was sitting on the chair with headphones on. I told him I wou",
+          "ok": true,
+          "pos": 2844
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She was very impulsive, so of course the moment I was bodysurfing a wave in, I started hearing, “Mom!” She had swum over",
+          "ok": true,
+          "pos": 5692
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "So while initially I was active in the civic association, later I joined the Rockaway Action Committee, a group formed b",
+          "ok": true,
+          "pos": 7980
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "For a long time we were fighting to get an Olympic-size pool at Riis Park. The hope was that local kids would no longer ",
+          "ok": true,
+          "pos": 9391
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She told me about a posting at the District 27 media center that she had recently seen. It seemed written just for me—th",
+          "ok": true,
+          "pos": 10811
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "When people began telling me in meetings that I should run for office, that’s when I knew. I wanted to be a thorn in the",
+          "ok": true,
+          "pos": 11865
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "So despite the fact that we loved our corner of Rockaway, Bob and I sold our house and moved an hour away to Lynbrook, L",
+          "ok": true,
+          "pos": 12623
+        }
+      ],
+      "words": 53
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Chapter Ten: 1993",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2433,
+    "block_target": [
+      4,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

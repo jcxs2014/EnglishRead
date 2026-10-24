@@ -1,0 +1,403 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/ch09 chapter nine 1991.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/text/ch09_chapter_nine_1991.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Joe McManus was a lifeguard’s lifeguard. He knew everything about the ocean and even more about getting people out of it",
+          "ok": true,
+          "pos": 37
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "But it irked Stein to see changes being made without his permission. When he saw the paddleboard behind Joe’s chair, he ",
+          "ok": true,
+          "pos": 3012
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“If you want me to remove it and then there’s a drowning, I’ll write in the report that you took away a standard piece o",
+          "ok": true,
+          "pos": 3274
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "After two years of negotiating, Jill finally got the All Women Lifeguard Tournament off the ground in 1985, the year I w",
+          "ok": true,
+          "pos": 4899
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“What are you trying to prove?” Stein said. He thought that Joe was rigging the competition so the Rockaway team would w",
+          "ok": true,
+          "pos": 11136
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Joe met with Bob Falco, Eddie Figueroa, and Jim Cutrone—a chief and two lieutenants—at the Ram’s Horn, a diner on the ba",
+          "ok": true,
+          "pos": 13859
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It turned out that there was a rat. Bob Falco, who was Joe’s chief, told Stein about Joe’s plan. When Stein found out, h",
+          "ok": true,
+          "pos": 15091
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Stein drove up with multiple Parks Department passenger vans filled to the gills with loyal men. Stein had used every to",
+          "ok": true,
+          "pos": 16894
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "They had to create them on the spot. Joe later told me that Stein made the lifeguards write their names on the envelopes",
+          "ok": true,
+          "pos": 18008
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Joe contested the disciplinary charges. He went through four years of arbitration with the city and Stein. During those ",
+          "ok": true,
+          "pos": 20219
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Joe then handed Stein a copy of the union contract, which listed all of the eligible bargaining unit positions to be a m",
+          "ok": true,
+          "pos": 20683
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I remember running into Joe during a Saint Patrick’s Day parade after he had been sent to 32nd Street. The words he said",
+          "ok": true,
+          "pos": 21678
+        }
+      ],
+      "words": 45
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "09. Chapter Nine: 1991",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 10.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4000,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

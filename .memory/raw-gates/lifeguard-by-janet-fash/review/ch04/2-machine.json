@@ -1,0 +1,322 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/ch04 chapter four 1983.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/text/ch04_chapter_four_1983.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "By my fourth year I was considered a senior guard. That summer, Freddie called me up and asked me if I would switch with",
+          "ok": true,
+          "pos": 37
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "That’s when I learned to never put a horn on the chair by themselves while a rescue is happening. They just don’t have t",
+          "ok": true,
+          "pos": 2046
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Bob was a high school friend of Brian’s who worked as a firefighter and as a bouncer at Fitzgerald’s. I met him on the b",
+          "ok": true,
+          "pos": 3072
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "A lot of guys didn’t like the idea of women being strong or athletic, but it felt like Bob was supportive of what I was ",
+          "ok": true,
+          "pos": 4917
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Barbara was supposed to come backpacking with me in Europe, but at the last minute she couldn’t get out of her commodity",
+          "ok": true,
+          "pos": 8057
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Enough is enough,” she wrote. “Come home and start your lifeguarding job.” It had only taken traipsing across the Atlan",
+          "ok": true,
+          "pos": 10635
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "That summer I told my shack it was going to be my last year, but everyone waved me off, saying I would be back. Lifeguar",
+          "ok": true,
+          "pos": 11270
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "This guy had everything you could ever want—a gorgeous wife, his own company, a Mercedes-Benz—but he still was trying to",
+          "ok": true,
+          "pos": 15189
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I hadn’t intended to go back, but now I was out of a job and I knew I could make more money in a summer lifeguarding tha",
+          "ok": true,
+          "pos": 15754
+        }
+      ],
+      "words": 54
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "04. Chapter Four: 1983",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 10.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3109,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

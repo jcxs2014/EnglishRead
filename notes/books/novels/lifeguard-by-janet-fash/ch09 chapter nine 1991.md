@@ -68,13 +68,19 @@ modified: 「2026-10-24」
 **为什么这样写**：作者把舞弊拆成三个动作摆给读者看：临时造票、逼人签名、当场宣判；最狠的是那组对照——本该匿名的投票变成了点名画押。
 **读者视角提示**：读者会回头重看上一块的车队与泳池数字：人海战术只是明面，暗处还有一只手在改规则；一百比八因此不像是实力差距。
 
-> **原句 10:** "Joe then handed Stein a copy of the union contract, which listed all of the eligible bargaining unit positions to be a member of the union, and asked him to find his title among the list. Stein leafed through the pages of the contract looking for it, but it wasn’t there. He wasn’t even eligible to be in the union that he was the president of."
+> **原句 10:** "Joe contested the disciplinary charges. He went through four years of arbitration with the city and Stein. During those years, every charge eventually got dismissed because the city couldn’t provide any proof."
+**中文理解**：Joe 对那批莫须有的指控提出申诉，与市里和 Stein 打了四年仲裁；这四年里每一项指控最后都被撤销，理由是市方拿不出任何证据。
+**关键词**：contested the disciplinary charges / four years of arbitration / every charge eventually got dismissed
+**为什么这样写**：作者把四年写成一场空转的消耗战——不是谁赢谁输，而是每一项指控都因为「拿不出证据」而逐条落空；一个 eventually 把四年的时间压进一句话。
+**读者视角提示**：读者会在这里第一次看见制度反过来咬 Stein 一口——不是她告的，是他自己立的那些指控撑不住。
+
+> **原句 11:** "Joe then handed Stein a copy of the union contract, which listed all of the eligible bargaining unit positions to be a member of the union, and asked him to find his title among the list. Stein leafed through the pages of the contract looking for it, but it wasn’t there. He wasn’t even eligible to be in the union that he was the president of."
 **中文理解**：Joe 递上工会合同——上面列着所有有资格入会的谈判单位职位——请 Stein 在这份名单里找出自己的头衔；Stein 一页页翻合同，那个头衔并不在上面，而按这份合同，他连自己担任主席的那个工会都不具备入会资格。
 **关键词**：union contract / eligible bargaining unit positions / even eligible to be in the union
 **为什么这样写**：三句写完一次反杀：递合同，请对方自己找，翻遍也翻不到；作者不宣布谁赢，只把「他连自己当主席的工会都不具备入会资格」这一句摆出来，把判断权留给读者。
 **读者视角提示**：读者到这里才明白翻盘的工具不是口才而是一份文件；作者让合同自己作证，比任何评论都硬。
 
-> **原句 11:** "I remember running into Joe during a Saint Patrick’s Day parade after he had been sent to 32nd Street. The words he said to me rang in my head for years after. “Janet, if you’re not part of the solution, you’re part of the problem.”"
+> **原句 12:** "I remember running into Joe during a Saint Patrick’s Day parade after he had been sent to 32nd Street. The words he said to me rang in my head for years after. “Janet, if you’re not part of the solution, you’re part of the problem.”"
 **中文理解**：Joe 被调去 32nd Street 之后，作者在圣帕特里克节的游行上又遇见他；他那句话在她脑子里响了很多年：「Janet，如果你不是解决问题的一部分，你就是问题的一部分。」
 **关键词**：Saint Patrick’s Day parade / part of the solution / part of the problem
 **为什么这样写**：作者用一句流传很广的格言收束全章，前面所有的争辩都被压进这半句里：开口的人分两种，站在里面解决的，和站在外面指点的。

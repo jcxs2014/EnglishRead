@@ -1,0 +1,349 @@
+{
+  "chapter": 3,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/ch03 chapter three 1981.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/text/ch03_chapter_three_1981.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "We were living at our family’s bungalow on 93rd Street and had to ride our bicycles to work, four miles each way. But we",
+          "ok": true,
+          "pos": 327
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Early on, I often shared the chair with Artie, one of the lifeguards who later became a chief. He was a simple man and p",
+          "ok": true,
+          "pos": 880
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The police called themselves New York’s Finest, the firemen were New York’s Bravest, and the sanitation workers were New",
+          "ok": true,
+          "pos": 3906
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "In fact, only once did I ever see a woman come back and thank a couple of lifeguards who had saved her life the day befo",
+          "ok": true,
+          "pos": 6062
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "One of them put on an old lady’s bathing cap, snuck into the ocean, and began flailing around in the water. The first-ye",
+          "ok": true,
+          "pos": 8528
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "She said that once she was in the water, she immediately knew the lifeguards weren’t diving in the right direction—the c",
+          "ok": true,
+          "pos": 10898
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I ran the oxygen tank from our shack over there, but when I arrived, Helen’s partner Kevin was circling the sand, scream",
+          "ok": true,
+          "pos": 12218
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "When someone drowned on your watch, you were considered a murderer. If you weren’t watching the water, then that’s what ",
+          "ok": true,
+          "pos": 13484
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Even worse, the chiefs who were supposed to be overseeing multiple beaches often weren’t even there. They would be at ho",
+          "ok": true,
+          "pos": 14818
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I decided to switch from accounting to communications, and I decided to switch schools too. I was twenty-one years old a",
+          "ok": true,
+          "pos": 15557
+        }
+      ],
+      "words": 50
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "03. Chapter Three: 1981",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3421,
+    "block_target": [
+      6,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

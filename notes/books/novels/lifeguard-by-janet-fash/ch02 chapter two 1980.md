@@ -27,9 +27,9 @@ modified: 「2026-10-24」
 **读者视角提示**：读者会记住这个反转：上一章还是被 Barbara 拉进门的妹妹，这一章已经是拉人进门的那一个。
 
 > **原句 3:** "It wasn’t until we started playing rugby that we became close. Because she loved to swim, I thought she might enjoy lifeguarding too. Just like Barbara taught me, I told her to choose Rockaway as her assignment."
-**中文理解**：两人是打橄榄球才真正熟起来的；她想 Helen 既然爱游泳，或许也会喜欢当救生员，于是像当年 Barbara 教她那样，让妹妹把罗克韦选为分派的海滩。
+**中文理解**：两人是打橄榄球才真正熟起来的；她想对方既然爱游泳，或许也会喜欢当救生员，于是像当年 Barbara 教她那样，让对方把罗克韦选为分派的海滩。
 **关键词**：rugby / assignment / Rockaway
-**为什么这样写**：把「当年 Barbara 教我」与「我教妹妹」并排放进同一句，一次传递就写完了；两代人的入行方式完全相同——都是被一个人领进这个圈子的。
+**为什么这样写**：把「当年 Barbara 教我」与「我让她去选」并排放进同一句，一次传递就写完了；两代人的入行方式完全相同——都是被一个人领进这个圈子的。
 **读者视角提示**：读者会看出这个圈子靠「带一个人进来」的方式繁殖；作者既是被带进来的那个，也成了带人进来的那个。
 
 > **原句 4:** "But the feeling of being apart didn’t just come from being horns. Helen and I were from Brooklyn, while most of the other lifeguards were Rockaway locals who grew up together. We were outside the group, and it was isolating for us."
@@ -62,7 +62,7 @@ modified: 「2026-10-24」
 **为什么这样写**：先写他的恐惧，再写她脚的代价——一边是心理崩溃，一边是皮肉之苦；这一段的紧张不靠形容词，靠两具身体各自付出的东西撑起来。
 **读者视角提示**：读者会注意到主救生员也会怕；这一笔让「救生员」这个职业祛了魅，也让她后来独自撑场更可信。
 
-> **原句 9:** "He noticed neither of us was carrying the buoy, a white Styrofoam cylindrical tube we always brought out on rescues with us. “Where’s the buoy?” he asked Arnold. Arnold had let go of it when he was getting pounded into the rocks, which was a big no-no."
+> **原句 9:** "As we were walking back to the shack, Freddie, the borough coordinator, was standing there. He noticed neither of us was carrying the buoy, a white Styrofoam cylindrical tube we always brought out on rescues with us. “Where’s the buoy?” he asked Arnold. Arnold had let go of it when he was getting pounded into the rocks, which was a big no-no."
 **中文理解**：Freddie 站在回岗亭的路上，注意到他们俩谁也没带浮标——那是一根白色泡沫塑料圆筒，每次救援都必须带上；「浮标呢？」他问 Arnold；Arnold 答不上来，因为刚才被浪头砸在礁石上时他松了手，这是个大忌。
 **关键词**：buoy / Styrofoam / no-no
 **为什么这样写**：作者用器械的规格（白色、泡沫、圆筒、每次必带）把规矩写实，再让上级一句短问句把违规点出来；专业性不靠术语堆砌，靠「每次都必须带」这种常识的分量。
@@ -74,8 +74,8 @@ modified: 「2026-10-24」
 **为什么这样写**：作者把一场推诿写成一级级的小台阶——先撒谎、再用补偿封口；她配合沉默，而「免掉高椅」这个补偿把这场交易的实质摊在读者眼前。
 **读者视角提示**：读者会替她不平，也会长记性：在这个圈子里，沉默是有价格的，价格由对方定价。
 
-> **原句 11:** "I threw a beer at him. I saw a street sign on the ground and I threw that too. “Thanks for the shitty summer,” I yelled."
-**中文理解**：她抓起一杯啤酒朝中尉扔过去，又捡起地上一块路牌也扔了过去，冲他喊：「谢你让我过了这么烂的一个夏天。」
+> **原句 11:** "The more I drank, the madder I got, thinking about how he’d treated us all year. I threw a beer at him. I saw a street sign on the ground and I threw that too. “Thanks for the shitty summer,” I yelled."
+**中文理解**：酒喝得越多，她心里那股气就越旺——他整整一年都是那样对她的。她抓起一杯啤酒朝中尉扔过去，又捡起地上一块路牌也扔了过去，冲他喊：「谢你让我过了这么烂的一个夏天。」
 **关键词**：beer / street sign / yelled
 **为什么这样写**：先扔酒再扔路牌，力度一级级往上；最后那句喊话又短又脏，一个字都不解释，读者不需要任何铺垫就能感到那个夏天攒下了多少东西。
 **读者视角提示**：读者会把这句当成本章的爆点——她不是受不了欺负，是受够了被当空气。

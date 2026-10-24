@@ -1,0 +1,54 @@
+{
+  "chapter": "ch03",
+  "facts": [
+    {
+      "anchor": "to the boondocks, all the way downtown to 17th Street",
+      "start": 249,
+      "end": 302,
+      "fact": "上一年的 86th Street 中尉让姐妹俩受够了，她们拒绝再去，被派到最偏的 17th Street 救生棚，骑车单程 four miles；在那里人们尊重她们，她第一次觉得自己属于这个集体。"
+    },
+    {
+      "anchor": "I just blow-dried my hair, I can’t go in the water",
+      "start": 8977,
+      "end": 9027,
+      "fact": "senior 救生员戴上老太太泳帽下海装溺水戏弄新人，新人跑回来找 Janet 帮忙，Janet 说自己刚吹干头发不能下水、让他自己去找——教训是绝不能让眼睛离开水面。"
+    },
+    {
+      "anchor": "he got a Class B pin",
+      "start": 5649,
+      "end": 5669,
+      "fact": "邻居 John 看到一对母女在海里挣扎就冲下去救人，Janet 跟着下水把两人拉上岸；消防员后来因救了两条命领了奖，她写信给本地报纸表扬 John，他得到一枚 Class B pin。"
+    },
+    {
+      "anchor": "This is what happens when you do drugs",
+      "start": 12475,
+      "end": 12513,
+      "fact": "117th Street 有人淹死后漂了两个街区才被 Helen 看见，Helen 把他拖上岸；她的搭档 Kevin 绕着沙滩对人群尖叫「This is what happens when you do drugs」，中尉做的 CPR 没救回来，围观的人哭了。"
+    },
+    {
+      "anchor": "you were considered a murderer",
+      "start": 13642,
+      "end": 13672,
+      "fact": "救生员有个「死亡派对」传统：值班时淹死人就等于杀人犯，必须买一桶啤酒、当晚办一场假装守灵的派对，有人穿着骷髅服把酒桶埋进沙里当坟。"
+    },
+    {
+      "anchor": "what was worse was the fact that our superiors did too",
+      "start": 15297,
+      "end": 15351,
+      "fact": "见到的溺水越多，她越发现真正失职的不只是坐在椅子上的人：搜救线拉离落水点很远、有时让救生员单独上岗、闪电时要等总部指令，而该管多个海滩的 chief 常常不在——有一个整个夏天待在佛罗里达家里，只在有人溺水时飞回来处理文书和媒体。"
+    },
+    {
+      "anchor": "I chose SUNY Oswego, on Lake Ontario",
+      "start": 15897,
+      "end": 15933,
+      "fact": "21 岁那年她从会计改读传播并换了学校，选了同时有橄榄球队和游泳队的 SUNY Oswego；又把刚上大学的妹妹 Helen 也说服到 Oswego 一起读书。"
+    },
+    {
+      "anchor": "you had to swim 440 yards in six minutes and ten seconds",
+      "start": 16907,
+      "end": 16963,
+      "fact": "她开始每年参加官方 swim test，通过要在 six minutes and ten seconds 内游完 440 yards；考试在曼哈顿 59th Street pool，主管从不告诉她们实际成绩。"
+    }
+  ],
+  "turning_point": "从「当救生员是荣耀」到「看清真正失职的是上级」：溺水见多了，她发现搜救线、搭档配置、闪电撤离、chief 缺位全是上级的问题——城市把救生员独自丢在海滩上，而上级更不管事。是，在第 6 条。"
+}

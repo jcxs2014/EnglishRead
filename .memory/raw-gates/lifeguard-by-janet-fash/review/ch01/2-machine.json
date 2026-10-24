@@ -1,0 +1,484 @@
+{
+  "chapter": 1,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/ch01 chapter one 1974.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/text/ch01_chapter_one_1974.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I was fifteen, had never met a rule I didn’t want to break, and I wanted to stay with my friends back in Park Slope. My ",
+          "ok": true,
+          "pos": 516
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "We were sitting on the beach, the adults drinking gin and tonics, when suddenly one of the other lifeguards, Peter, star",
+          "ok": true,
+          "pos": 2517
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "First-year lifeguards are called “horns,” which is short for “greenhorn.” The new lifeguards would all “get horned,” a r",
+          "ok": true,
+          "pos": 3116
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "My mother, a strict Catholic woman who grew up in Ireland, was there on the beach with us and saw the whole thing. She i",
+          "ok": true,
+          "pos": 4138
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "There was a Korean family and a woman from Syria, and my mother sponsored all of their immigration visas. There was a wo",
+          "ok": true,
+          "pos": 5890
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "My cousin Patricia rode a shore breaker in and I could tell she was on it wrong. She slammed into the sand under the wat",
+          "ok": true,
+          "pos": 9052
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "When the man pushed me against the brownstone fence, I started screaming bloody murder. Suddenly I remembered we were ou",
+          "ok": true,
+          "pos": 10770
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "There was a kind of intoxicating camaraderie among the lifeguards. They had this club they were a part of. They would sp",
+          "ok": true,
+          "pos": 13009
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Before I knew it, one of them—Tom—had pulled my tube top down. I proceeded to take my Dr. Scholl’s sandal off and hit hi",
+          "ok": true,
+          "pos": 15606
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "That’s how I learned to handle them—they would get heated at something, but if you stood your ground, they usually backe",
+          "ok": true,
+          "pos": 16091
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Even the idea of going out into the waves and carrying someone in by myself felt impossible. “Janet, you can do it,” Bar",
+          "ok": true,
+          "pos": 18201
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Barbara was the one who ended up teaching me how to do the job. She showed me the quickest way to swim out past the wave",
+          "ok": true,
+          "pos": 21708
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "When a lifeguard spots a case, they’ll blow one long blast on their whistle and run in. The lifeguards on the chairs to ",
+          "ok": true,
+          "pos": 22989
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "As I got close, he lunged for me out of fear, grabbed my neck, and started dragging me down. Luckily, we were standing, ",
+          "ok": true,
+          "pos": 23724
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Even though we spent so much of our time partying and had so little supervision, as a lifeguard, it was clear who we ser",
+          "ok": true,
+          "pos": 25406
+        }
+      ],
+      "words": 46
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "01. Chapter One: 1974",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 10.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4846,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

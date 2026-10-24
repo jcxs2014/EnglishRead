@@ -38,7 +38,14 @@ modified: 「2026-10-24」
 **为什么这样写**：三个动作串成一套手艺：不硬顶，而是滑进去，蹬地借力，把身体送到浪外；作者随即把空间劈成两半，浪内是家长、小头目、城市与官僚，浪外是「另一个世界」；破折号里那份清单列得越长，外面的世界就越干净。
 **读者视角提示**：这一块可以看作全书的题眼：她往浪外去，为的是把沙滩上那几样东西甩在身后；读者看清被丢下的那三样，也就明白她为什么宁愿一直待在外侧。
 
-> **原句 5:** "But there are signs my body is slowing down. Now, when it’s really big surf, and I’m sitting outside waiting to swim in, I’ll search for a smaller wave to come through. I call them “over sixty” waves."
+> **原句 5:** "When Barbara was on her deathbed, she said something that stuck with me: “Janet, I’m never going into the ocean again.” She didn’t elaborate, but she didn’t need to. I knew exactly how she felt."
+**中文理解**：Barbara 临终前说过一句让她一直记着的话——「Janet，我再也不会进海了。」对方没有解释，她也不需要对方解释；她完全明白那种感受。
+**关键词**：on her deathbed / never going into the ocean again / didn’t elaborate
+**为什么这样写**：一句遗言，两个短句收尾——「她没有解释，也不需要解释」；作者把两人共享的那种明白写成不需要翻译的默契。
+**读者视角提示**：读者会在这句遗言上停一下：Barbara 一辈子离不开水，最后一句却是「我再也不进海了」；作者把它放在临终那一刻说，等于把整本书的分量提前交到读者手里。
+
+
+> **原句 6:** "But there are signs my body is slowing down. Now, when it’s really big surf, and I’m sitting outside waiting to swim in, I’ll search for a smaller wave to come through. I call them “over sixty” waves."
 **中文理解**：身体慢下来了，她自己看得出：大浪的时候，她坐在外面等下水的机会，不再什么浪都冲，而是专挑一道小一点的浪过来；她管这种浪叫「过六十」的浪。
 **关键词**：body is slowing down / smaller wave / over sixty
 **为什么这样写**：作者不写病名也不写年龄，只给一个身体上的感觉；随后她自造了一个分类法，把够高的浪叫成「过六十」，等于宣布有些浪可以不接——这个玩笑把衰老写成了挑选权，而不是失去。

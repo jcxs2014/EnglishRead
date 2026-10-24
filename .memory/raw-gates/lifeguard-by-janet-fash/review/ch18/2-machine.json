@@ -1,0 +1,403 @@
+{
+  "chapter": 18,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/ch18 chapter eighteen 2023.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/lifeguard-by-janet-fash/text/ch18_chapter_eighteen_2023.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Bubba being forced to step down was a win, but there was still a long way to go. The next year I decided that we had to ",
+          "ok": true,
+          "pos": 45
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "But when the day finally came, I presented in front of Stein and Parks Department officials. I was told that the Parks l",
+          "ok": true,
+          "pos": 1304
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "In the summer of 2023, things came to a head. There was a post-pandemic lifeguard shortage that was exacerbated by Stein",
+          "ok": true,
+          "pos": 2664
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "That year, I was told someone in the Parks Department had decided I needed to take the entire lifeguarding course again ",
+          "ok": true,
+          "pos": 3613
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "But the problem wasn’t just recruitment, it was retention. Nobody asked us what would keep lifeguards returning to their",
+          "ok": true,
+          "pos": 7396
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The Parks Department had technically closed that block because of erosion and understaffing, so there were no lifeguards",
+          "ok": true,
+          "pos": 8440
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Later that evening, we found out one of the girls had died. One of her friends told the New York Daily News that they ha",
+          "ok": true,
+          "pos": 9008
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Rodriguez-Rosa told the local press she was excited to host the event again next summer, with orange Parks tents to make",
+          "ok": true,
+          "pos": 13483
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "But with Stein in charge, nothing was assured. When Justin returned to the beach that summer, he was punished by getting",
+          "ok": true,
+          "pos": 13788
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "But two weeks before it was supposed to begin, Stein pulled one last move—he retired. After more than six decades of wor",
+          "ok": true,
+          "pos": 16565
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "So even though he was found guilty, Stein got to leave his post with barely a slap on his wrist. Meanwhile, his cronies ",
+          "ok": true,
+          "pos": 18694
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "There are many lifeguards still working today who hope for a democratic union. And the more of us there are, the harder ",
+          "ok": true,
+          "pos": 19613
+        }
+      ],
+      "words": 40
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "18. Chapter Eighteen: 2023",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 10.0,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3737,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

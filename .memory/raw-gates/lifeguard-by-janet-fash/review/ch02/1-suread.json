@@ -1,0 +1,54 @@
+{
+  "chapter": "ch02",
+  "facts": [
+    {
+      "anchor": "he opened his car door to try to stop me",
+      "start": 457,
+      "end": 497,
+      "fact": "1980 年春地铁罢工停运，她骑自行车从 Park Slope 去 Baruch College 上学，一名暴怒的司机开车门拦她，她一脚把门踢上。"
+    },
+    {
+      "anchor": "That summer I decided I would lifeguard full-time",
+      "start": 1317,
+      "end": 1366,
+      "fact": "那年夏天她决定全职当救生员；Barbara 还在做商品交易员脱不开身，于是她把妹妹 Helen 也拉进来一起干。"
+    },
+    {
+      "anchor": "Helen is four years younger than me",
+      "start": 1469,
+      "end": 1504,
+      "fact": "Helen 是她的亲妹妹，比她小 four years，性子相反：非常害羞、听话守规矩。"
+    },
+    {
+      "anchor": "annoyed that both his sisters got sent to his shack",
+      "start": 5849,
+      "end": 5900,
+      "fact": "姐妹俩被派到 86th Street 救生棚，哥哥 Alex 也在那儿当救生员，他嫌两个妹妹挤进自己的棚，整个夏天都不跟她们说话。"
+    },
+    {
+      "anchor": "made Helen and I sit on the rock jetty under the hot sun",
+      "start": 9109,
+      "end": 9165,
+      "fact": "那个跟她们同一街区长大的中尉常把姐妹俩罚坐在烈日下的石堤上好几个钟头，还常让 Helen 一个人看水不配搭档。"
+    },
+    {
+      "anchor": "I changed course and swam over to drag him out",
+      "start": 17474,
+      "end": 17520,
+      "fact": "八月飓风浪那天，她举手自愿和椿 Arnold 一起下水救人；Arnold 被离岸流拖向石堤撞了头，她改道游过去把他从石堤上拖了出来，脚被藤壶割得流血。"
+    },
+    {
+      "anchor": "Timlin lost it,” Arnold said",
+      "start": 18671,
+      "end": 18699,
+      "fact": "事后 borough coordinator Freddie 追问浮标哪去了，Arnold 当面撒谎说「Timlin 丢的」（Timlin 是她的娘家姓），她为保他的面子没吭声，但当晚在酒吧把真相说了出去。"
+    },
+    {
+      "anchor": "Helen just turned around and punched him in the face",
+      "start": 20416,
+      "end": 20468,
+      "fact": "Labor Day 当晚在 Fitzgerald's，中尉一路道歉缠着她们，Helen 转身一拳把他打倒在地——多年后所有人都记错成是她打的。"
+    }
+  ],
+  "turning_point": "从「被动忍受中尉的欺压」到「站出来」：八月飓风浪那天她主动举手下水救人，主官 Arnold 自己被离岸流困在石堤上，她把他拖了出来，随后被他当众推责。是，在第 6 条。"
+}

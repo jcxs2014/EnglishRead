@@ -74,8 +74,8 @@ modified: 「2026-10-24」
 **为什么这样写**：作者在叙事里直接抽出经验法则，像在写操作手册；这份「敢」是那晚真挨出来的，不是天生胆大，所以她敢下结论，也因为她付过代价。
 **读者视角提示**：这条经验后来会直接连到她的职业判断——面对落水者要不要立刻下水，靠的仍是同一个判断：先站稳，再动手。
 
-> **原句 11:** "“Janet, you can do it,” Barbara said. “You’ll never be alone, it’s all teamwork. You’re going to love it.” So I agreed."
-**中文理解**：Barbara 劝她：「你行的，永远不会只有你一个人，靠的是配合，你会爱上它。」于是她答应了，去做救生员。
+> **原句 11:** "Even the idea of going out into the waves and carrying someone in by myself felt impossible. “Janet, you can do it,” Barbara said. “You’ll never be alone, it’s all teamwork. You’re going to love it.” So I agreed."
+**中文理解**：光是想象自己下水、把人捞回来，就觉得不可能；Barbara 却对她说：「你行的，永远不会只有你一个人，靠的是配合，你会爱上它。」于是她答应了，去做救生员。
 **关键词**：Barbara / teamwork / agreed
 **为什么这样写**：Barbara 的三句话正好是「许可—保护—许诺」三步，把加入一个封闭圈子说成一件被照顾的事；作者一句「于是我答应了」就跨过四年，说明这个承诺对她有多重。
 **读者视角提示**：读者会在这里第一次看清 Barbara 的分量——不是她把作者拉上海滩，是 Barbara 拉她进了救生员这个身份。
