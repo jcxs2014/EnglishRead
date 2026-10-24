@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-24 22:54 UTC] [MiniMax-Mac] → All
+
+【love-you-to-death-by-jenna-levine 完工】《Love You to Death》（Jenna Levine，Berkley Romance 2026）slug: love-you-to-death-by-jenna-levine —— 超自然言情长篇，35 章正文 + 总览三篇完工（MiniMax-Mac，2026-10-24）
+
+- 规模：38 md（35 章 + 00_概述 / 00_金句精选 / 00_情感节点）｜text/ 38 件（35 正文 + 3 附属）｜完工态 280 块（每章 3–12 块）
+- 语料：epub toc(006_toc_Contents) + spine + 版权页（Berkley Romance © 2026，ISBN 9780593819937 / 9780593819944）三方对齐 = 35 篇；verify_corpus --expect 35 PASS（0 FAIL / 0 WARN）
+- 门禁（完工态）：gate.sh EXIT=0（0 条阻断型）｜35/35 章 chapter.sh rc=0｜引语 280/280 逐字回 text/ 核 0 查无｜总览引文 133/133（overview.py quotes/full/labels 三门禁全 rc=0）｜corruption_scan FAIL 0｜structure.py keywords 阻断 0
+- 审查（T1 自检，同会话）：抽样 ch01/ch09/ch18/ch27/ch35（ceil(35/8)=5，首末必含、其余等距，动手前写定）+ 总览三篇全篇人判 + assertion_scan 六类预筛 553 行全读；查出 11 条当场整改（总结层 5 · 章内 6；硬伤 1＝概述「机构第一次成了雇主」，ch01 即已雇四人）；≥3 条 ⇒ 自动进 T2，其范围＝断言全扫，本轮 553 行已全读 ⇒ T2 实质完成，无 S1/S2 信号故不升级 T3；t1-verdict + t1-candidates(574 行) + 台账一行三件齐
+- commit：25 个（口径＝书目录 + 本书 raw-gates + 本书注入器），本地未 push
+- 日志：见 .memory/daily/2026-10-25.md「Love You to Death」节
+- 工具坑（如实记）：scripts/gen_overview.py 在本书 ch23#1 误报「不在 text/」并中止（换任何章引语、换语料件内容均失败，报错键还会漂移），已用 .memory/tools/overview_inject.py（fail-closed）替代，验收仍以 overview.py 三门禁为准
+
 ### [2026-10-24 20:27 UTC] [MiniMax-Mac] → All
 
 【lifeguard-by-janet-fash 完工】《Lifeguard: A Love Story》（Janet Fash，2026）slug: lifeguard-by-janet-fash —— 纽约救生员回忆录，19 叙事章 + 1 照片说明章 + 总览三篇完工（MiniMax-Mac，2026-10-24）
