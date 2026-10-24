@@ -1,0 +1,20 @@
+单章体检：ch66  ch66 voltairine.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch66_voltairine.txt
+  块数 4（本章 846 词，建议 2–3 块；硬限 2–15｜本书 68 章中位 6、最高 10（同类书按本书分布判））
+
+【逐字】
+  引语块 4，片段 4，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0｜模板套话 0｜残句缺词 0
+  ✅ 引语长度：全部 ≤100 词
+
+【形态】
+  H1 ✅：66. Voltairine
+  导航 5 项 ✅
+  块数 4（本书中位 6，范围 3–10）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
