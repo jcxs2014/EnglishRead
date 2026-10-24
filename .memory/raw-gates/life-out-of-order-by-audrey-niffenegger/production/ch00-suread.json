@@ -1,0 +1,61 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch00",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch00_life_out_of_order.txt",
+ "facts": [
+  {
+   "fact": "序章第一人称自报身份：叙述者 Alba DeTamble 生来就是时间旅行者",
+   "anchor": "My name is Alba DeTamble and I was born a time traveler",
+   "start": 40,
+   "end": 95
+  },
+  {
+   "fact": "她的旅行是身体失控：赤身、迷失在别的时间与地点，怕说错话",
+   "anchor": "suddenly I am in another time and place, naked, disoriented",
+   "start": 305,
+   "end": 364
+  },
+  {
+   "fact": "父亲在她五岁时死去，她把死因归给时间旅行，而旅行又不断把父亲送回来",
+   "anchor": "He died when I was five. Time travel killed him",
+   "start": 755,
+   "end": 802
+  },
+  {
+   "fact": "她的旅行带不走任何东西——没有钱、没有衣服，只有记忆；能改变别人，改不了已发生的事",
+   "anchor": "We can’t carry anything with us, no money, no clothing, only our memories",
+   "start": 1191,
+   "end": 1264
+  },
+  {
+   "fact": "她替父母互相传话，只挑能说的说：不告诉母亲父亲冻掉了双脚",
+   "anchor": "I don’t say: he lost both his feet to frostbite",
+   "start": 1724,
+   "end": 1771
+  },
+  {
+   "fact": "音乐是她对抗时间混乱的解药，也是她的记忆宫殿与避难所",
+   "anchor": "Music is my antidote to this chaos",
+   "start": 2446,
+   "end": 2480
+  },
+  {
+   "fact": "她幼年被送去学小提琴（父母替她选的道路，早于她自己的理解与选择）",
+   "anchor": "apprenticed to the violin long before I could understand or choose",
+   "start": 2787,
+   "end": 2853
+  },
+  {
+   "fact": "她设想正常女孩的人生，反衬自己「同时有两个丈夫」",
+   "anchor": "instead of two at once",
+   "start": 3845,
+   "end": 3867
+  },
+  {
+   "fact": "序章结句：她尽量不伤人，但多数时候只是努力不惊慌",
+   "anchor": "But mostly, I just try not to panic",
+   "start": 4109,
+   "end": 4144
+  }
+ ]
+}
