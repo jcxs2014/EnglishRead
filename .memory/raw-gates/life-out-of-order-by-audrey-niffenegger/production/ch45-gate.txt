@@ -1,6 +1,6 @@
 单章体检：ch45  ch45 oliver practices piano.md
   语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch45_oliver_practices_piano.txt
-  块数 10（本章 4647 词，建议 8–15 块；硬限 2–15｜本书 45 章中位 8、最高 10（同类书按本书分布判））
+  块数 10（本章 4647 词，建议 8–15 块；硬限 2–15｜本书 48 章中位 8、最高 10（同类书按本书分布判））
 
 【逐字】
   引语块 10，片段 10，查无 0
@@ -12,7 +12,7 @@
 【形态】
   H1 ✅：45. Oliver Practices Piano
   导航 5 项 ✅
-  块数 10（本书中位 8.0，范围 3–10）
+  块数 10（本书中位 8，范围 3–10）
 
 【断言】
   ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
