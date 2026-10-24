@@ -1,0 +1,55 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch25",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch25_a_murmuration.txt",
+ "facts": [
+  {
+   "fact": "Beck 的日记起头：Clare 邀她去自己的工作室；她按吩咐沿侧径绕到屋后，找到一间由车库改成的画室。",
+   "anchor": "Beck: Clare has invited me to visit her studio.",
+   "start": 106,
+   "end": 153
+  },
+  {
+   "fact": "她睁眼看见满屋悬空的黑影，先认不出是什么，随后看出那是鸟——不是乌鸦，是更小的鸟，成百上千只。",
+   "anchor": "the black shapes are birds, not crows but something smaller",
+   "start": 1499,
+   "end": 1558
+  },
+  {
+   "fact": "每只鸟都随细微气流轻轻颤动，靠细铁丝吊在半空，是一屋子会动的傀儡。",
+   "anchor": "vibrating with slight air currents, hanging from thin wires; puppets",
+   "start": 1683,
+   "end": 1751
+  },
+  {
+   "fact": "Clare 按下遥控器，头顶亮起一盏灯，屋里立刻变成黄昏将尽的天色，整群鸟开始缓缓绕着两人转动。",
+   "anchor": "She presses a button. A light comes on overhead",
+   "start": 1793,
+   "end": 1840
+  },
+  {
+   "fact": "Clare 说自己长久以来像被看不见的东西追赶，坐不住，想站到鸟群风暴的风眼里去。",
+   "anchor": "to be in the eye of a storm of birds",
+   "start": 5812,
+   "end": 5848
+  },
+  {
+   "fact": "她否认这件作品是为了让人平静：她想把心里的那片黑拿出来，放到别人看得见的地方。",
+   "anchor": "I wanted to take my blackness and externalize it",
+   "start": 6046,
+   "end": 6094
+  },
+  {
+   "fact": "两人在沙发上靠近、接吻，Beck 觉得自己在长久空落的独处之后找到了心的同伴。",
+   "anchor": "we kiss and I feel I have found my heart’s companion",
+   "start": 6863,
+   "end": 6915
+  },
+  {
+   "fact": "结尾她目送 Clare 的车驶远，想着在她来电之前那些空白的钟点该怎么过，并说两人就是这样开始的。",
+   "anchor": "the blank hours until she calls and this is how we begin",
+   "start": 8221,
+   "end": 8277
+  }
+ ]
+}
