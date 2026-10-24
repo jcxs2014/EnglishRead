@@ -52,8 +52,8 @@ source_text: ch07
 - **论证脉络**：引入（把戏剧宣布为加速器，选定十七世纪英语剧作家这批人）→ 反直觉（女巫不是女巫，是被写出来的东西；救她的人是个男牧师，用的是父权的话）→ 证据（四个剧本案例逐个做文本细读，加一份十八世纪的辩论与名单）→ 推论（被恶魔化是社会控制的属性，因而女巫可以反过来读成抵抗；哈钦森证明反击必须借用既有的权威话语）→ 落点（迫害退潮，但父权只是换了下一个要恶魔化的对象，问题被推给下一章）。
 
 - **可质疑处**：
-  1. 「戏剧是最强的加速器」是全章第一块砖，却没有任何可核查的衡量方式。作者用「a more powerful accelerator of evolutionary change … than drama」这样的最高级下了赌注，既没说清楚「加速」用什么单位计（文本数量？观众规模？审判结果的变化？），也没给出与神学论战、博物学、医学著述的对照。**这是我的评述**：这句话更像一个组织全书的修辞装置，而不是能被证伪的史学命题。
-  2. 把《麦克白》的女巫读成「更 fundamentally matriarchal」，是一次逆向阅读。文本里的女巫确实应召而来、替人办事、收取报酬，其权力是服务性的；而作者用「matrilinear, matriarchal horror, through and through」这样的断言，把这套服务关系整段盖了过去。**这是我的评述**：原文的对照对象是克雷默的《女巫之锤》，不是文本内部的权力流向，所以「更母系」是相对于一个外部范式说的相对判断，不能直接读成剧本里的权力结构。
+  1. 「戏剧是最强的加速器」是全章第一块砖，却没有任何可核查的衡量方式。作者的原话是：很难设想在怪物母狗形象跨文化史的演化上，还有比戏剧更强大的加速器——这样一个最高级下了赌注，既没说清楚「加速」用什么单位计（文本数量？观众规模？审判结果的变化？），也没给出与神学论战、博物学、医学著述的对照。**这是我的评述**：这句话更像一个组织全书的修辞装置，而不是能被证伪的史学命题。
+  2. 把《麦克白》的女巫读成「更 fundamentally matriarchal」，是一次逆向阅读。这些剧本里的女巫确实应召而来、替人办事、收钱出手（原文那句「the men of the story pay her to do so」说的正是 Hecate），其权力是服务性的；而作者用「matrilinear, matriarchal horror, through and through」这样的断言，把这套服务关系整段盖了过去。**这是我的评述**：原文的对照对象是克雷默的《女巫之锤》，不是文本内部的权力流向，所以「更母系」是相对于一个外部范式说的相对判断，不能直接读成剧本里的权力结构。
   3. 索耶案到《埃德蒙顿的女巫》之间隔着不止一层。作者自己在段末加注说，那枚「臀部乳头」很可能是残留的尾巴，或是脊柱裂一类的先天缺陷；也就是说，支撑「她坐实了怪物母狗身份」的关键物证可能根本不存在，而作者仍写成「cemented her status as an actual Monstrous Bitch」，这一环比前几段更依赖解释而不是证据。**这是我的评述**：原文在别处（哈钦森引的那段「monstrous Absurdity」）确实留着怀疑的调子，但那说的是巫术证词本身，不是索耶的供词，所以此处是作者选择相信供词的那一步，而不是原文自承的张力。
 
 ## 选择性精读
@@ -90,13 +90,13 @@ source_text: ch07
 
 **关键词**：`the idea of menopause`、`abdicating her reproductive life`、`too full of milk`
 
-**表达方式**：把莎士比亚的祷词与医学概念并置，让诗行在解读里换了一副行头；「放弃生育生活」这个说法把生理过程写成了政治性的自我让渡，而「奶水太多」则用婴儿意象把同一句话的两端接在一起。
+**表达方式**：把剧中那段祷词与医学概念并置，让诗行在解读里换了一副行头；「放弃生育生活」这个说法把生理过程写成了政治性的自我让渡，而「奶水太多」则用婴儿意象把同一句话的两端接在一起。
 
 **为什么这样写**：这是全章最见功力的解读之一——它同时解释了两句台词，因为「自己的血变稠」与「丈夫的奶水太多」本来就是同一幅图的两面。作者必须给出一个能同时容纳两者的解释，读者才会相信这不是硬凑；更要紧的是，这个解释把「成为怪物」从道德堕落改写成了一种争取权力的姿态，与全书「怪物是恐惧的投影」的主轴合拍。
 
 > **原句 4:** "In rejecting norms of female reproductive behavior outright, Lady Macbeth aligns herself with popular notions about witches in this period—they were disruptors of pregnancy, childbirth, and infancy. Moreover, she does this—disavows her sex—using hortatory language. She is, in effect, casting a spell on herself."
 
-**中文理解**：麦克白夫人公然拒绝女性生育行为的规范，于是与当世关于女巫的流行说法站到了一边——那个时代人们认为女巫就是扰乱妊娠、分娩与婴儿的人。更进一步，她拒绝自己的性别时用的是一种劝勉式的口吻，因此她实际上是在给自己下咒。
+**中文理解**：这位夫人公然拒绝女性生育行为的规范，于是与当世关于女巫的流行说法站到了一边——那个时代人们认为女巫就是扰乱妊娠、分娩与婴儿的人。更进一步，她拒绝自己的性别时用的是一种劝勉式的口吻，因此她实际上是在给自己下咒。
 
 **句子结构**：首句用「彻底拒绝女性生育行为的规范」这个动宾结构作主语，后半用破折号引出一串三联的破折号同位语（扰乱妊娠、分娩与婴儿）作补充；次句用「此外」转折，再用一对破折号把「拒绝自己的性别」夹在动作与方式之间；末句改用「她实际上是在给自己下咒」这一判断句收束。
 
@@ -104,7 +104,7 @@ source_text: ch07
 
 **表达方式**：一句里连用两个破折号，把「拒绝规范」与「拒绝性别」在语法上强行并置；末句的「给自己下咒」把主语从被咒的人换成了施咒的人，读者于是意识到这个角色正亲手把自己塑造成那个时代最可怕的形象。
 
-**为什么这样写**：作者需要证明的不是莎士比亚写了女巫，而是他写女巫的方式带着意识形态的痕迹。方法是把角色的台词与当世的民间画像逐项对齐，再指出对齐的机制——她用的是劝勉式的语言，也就是别人对女巫说话时用的那种口吻。这个发现把「怪物」从人物性格改写成了一种话语效应，为后文「怪物母狗是被写出来的」这一整条论证线提供了第一份文本证据。
+**为什么这样写**：作者需要证明的不是《Macbeth》里写了女巫，而是这种写法带着意识形态的痕迹。方法是把角色的台词与当世的民间画像逐项对齐，再指出对齐的机制——她用的是劝勉式的语言，也就是别人对女巫说话时用的那种口吻。这个发现把「怪物」从人物性格改写成了一种话语效应，为后文「怪物母狗是被写出来的」这一整条论证线提供了第一份文本证据。
 
 > **原句 5:** "“I have given suck”: We know she and Macbeth have had at least one child, and yet we also know that they have no heirs remaining. So Lady Macbeth has endured reproductive trauma; she has known the agony of child loss. Lamashtu has entered into her home, killed her baby."
 
@@ -114,25 +114,25 @@ source_text: ch07
 
 **关键词**：`endured reproductive trauma`、`the agony of child loss`、`killed her baby`
 
-**表达方式**：三个短句一路下坡，从家史到创伤到凶手的现身，每一步都靠句子的缩短加重量；把拉玛什图写成一个闯进屋来杀婴的具体来客，是本章最能体现「怪物母狗是恐惧的投影」这个母题的一次跨时空缝合。
+**表达方式**：三个短句一路下坡，从家史到创伤到凶手的现身，每一步都靠句子的缩短加重量；把 Lamashtu 写成一个闯进屋来杀婴的具体来客，是本章最能体现「怪物母狗是恐惧的投影」这个母题的一次跨时空缝合。
 
 **为什么这样写**：作者在此处要完成的转换是：把「杀婴」从怪物的天性改写成创伤的产物。若不先立起「她受过丧子之痛」这层，读者会把这句杀婴宣言读成天生的恶；先立创伤、后写杀婴，读者才会接受这个角色在母亲与怪物之间来回摆动的设定——而怪物母狗这个形象，本就是在这样的摆动里才显出它是投影而非实体。
 
 > **原句 6:** "When we encounter the three weird sisters again later in the play, they’re with their boss, Hecate, the female Greek divinity of night. These witches get their power not from Satan—the perverse patriarch in Christianity who always tries to undermine the Real Ultimate Patriarch in Christianity—but from the classical lunar witch-bitch extraordinaire."
 
-**中文理解**：作者指出剧中三个怪姐妹后来再出场时是跟着她们的头儿赫卡特的，那是希腊的夜之女神；而这些女巫的力量并非来自撒旦——那个总想颠覆终极父权主宰的变态父权——而是来自这位古典的、月亮般的女巫之神。
+**中文理解**：作者指出剧中三个怪姐妹后来再出场时是跟着她们的头儿 Hecate 的，那是希腊的夜之女神；而这些女巫的力量并非来自撒旦——那个总想颠覆终极父权主宰的变态父权——而是来自这位古典的、月亮般的女巫之神。
 
-**句子结构**：首句是一个以时间副词开头的存在句，用「是跟着她们的头儿」把三女巫与赫卡特的从属关系一笔交代；次句用「不是……而是……」的对照结构，主体是「这些女巫的力量」，中间用一对破折号插入对撒旦的限定说明，末尾「而是」之后落到古典月亮女巫这个形象上。
+**句子结构**：首句是一个以时间副词开头的存在句，用「是跟着她们的头儿」把三女巫与 Hecate 的从属关系一笔交代；次句用「不是……而是……」的对照结构，主体是「这些女巫的力量」，中间用一对破折号插入对撒旦的限定说明，末尾「而是」之后落到古典月亮女巫这个形象上。
 
 **关键词**：`with their boss, Hecate`、`the Real Ultimate Patriarch`、`classical lunar witch-bitch extraordinaire`
 
 **表达方式**：破折号里塞进的那句关于撒旦的形容，是全段最见笔力的一处反讽——用「变态的父权」去修饰那个颠覆终极父权的人物，本身就是一个自我指涉的悖论；末尾「月亮般的女巫之神」用一连串修饰语把神圣与淫邪压进同一个名词组。
 
-**为什么这样写**：作者在前一段批评克雷默的范式之后，需要给出「另一种可能」的具体证据；赫卡特这个角色正好提供了这证据——力量可以不向撒旦借。承认「撒旦总想颠覆终极父权主宰」这一层，则把女巫从父权秩序的爪牙改写成它内部的对立面，这一改写使后面「母系制的恐怖」这个更激进的判断有了立足点。
+**为什么这样写**：作者在上一段刚批评完基督教传统里「女巫只是替撒旦跑腿」的那套范式，这里就需要给出「另一种可能」的具体证据；Hecate 这个角色正好提供了这证据——力量可以不向撒旦借。承认「撒旦总想颠覆终极父权主宰」这一层，则把女巫从父权秩序的爪牙改写成它内部的对立面，这一改写使后面「母系制的恐怖」这个更激进的判断有了立足点。
 
 > **原句 7:** "Here was a problem: If Robert had a functional penis but hadn’t been able to perform with Frances—his highly desirable wife—then, QED, Frances had bewitched his penis. The judges on the case heavily debated whether Satanic involvement was at issue, and whether there were grounds to call Frances a witch, but eventually the king intervened (he was friends with Somerset) and Frances got what she wanted—bewitcher of penises or no."
 
-**中文理解**：作者写下了这个案子的转折点：既然罗伯特能够正常勃起却无法与弗朗西丝同房，那么结论只能是弗朗西丝对他的阴茎施了巫。法官们为此激烈争论是否牵涉撒旦、是否有理由称她为女巫，最后国王出面干预（因为国王与萨默塞特是朋友），弗朗西丝如愿以偿。
+**中文理解**：作者写下了这个案子的转折点：既然 Robert 能够正常勃起却无法与 Frances 同房，那么结论只能是 Frances 对他的阴茎施了巫。法官们为此激烈争论是否牵涉撒旦、是否有理由称她为女巫，最后国王出面干预（因为国王与 Somerset 是朋友），Frances 如愿以偿。
 
 **句子结构**：首句用「问题出在这里」独立成句作引子，随后是一个带假设条件的全称推理句，主干用「那么，结论就是」把前提直接接到结论上，中间用破折号插入「他那备受觊觎的妻子」这一同位语；次句用「激烈争论」与「是否……是否……」双重问句展开争点，再用「但最终」转折到国王干预，末尾破折号补上一个绰号般的收尾。
 
@@ -140,7 +140,7 @@ source_text: ch07
 
 **表达方式**：一个法庭推理的模板被安在一个荒诞的前提上，逻辑形式越严谨，荒诞感越强；「阉割阴茎的施咒者」这个玩笑式的收尾，把一场可能致人于死地的审判轻巧地压成了宫廷丑闻。
 
-**为什么这样写**：这一段是全章的枢纽案例，因为作者要说明「女人如何被定罪」的机制究竟长什么样：并不需要证明她有罪，只需要把一次无法解释的失败倒过来说成巫术。国王因为与萨默塞特是朋友而介入这一笔尤其关键，它让读者看见法律程序与宫廷人情在同一条线上滑动；而米德尔顿把真实丑闻改写成戏、把求巫的性别对调，正是从这里长出来的。
+**为什么这样写**：这一段是全章的枢纽案例，因为作者要说明「女人如何被定罪」的机制究竟长什么样：并不需要证明她有罪，只需要把一次无法解释的失败倒过来说成巫术。国王因为与 Somerset 是朋友而介入这一笔尤其关键，它让读者看见法律程序与宫廷人情在同一条线上滑动；而这一案后来被搬进戏剧、把求巫的性别对调，正是从这里长出来的。
 
 > **原句 8:** "In the end, the witches in the play don’t get executed, nor even apprehended and tried for their witchy crimes. The reason is simple: They perform a real social service, albeit through dubious means."
 
@@ -156,7 +156,7 @@ source_text: ch07
 
 > **原句 9:** "This, to me, is the most fascinating part of the tale: By claiming that she nursed Satan in his dog form, the widow Sawyer cemented her status as an actual Monstrous Bitch. She was, in effect, the mother dog giving suck to the devilish dog-baby. Rump-nipple wet-nursing a Satan-dog was not an appropriate behavior for a seventeenth-century English Christian woman, so she was executed."
 
-**中文理解**：作者坦言这是整个故事里最耐人寻味的一处：索耶太太声称自己给化身为狗的撒旦哺乳，这等于亲手坐实了她作为怪物母狗的身份——她实际上就是那头给恶魔幼犬哺乳的母狗；而在十七世纪英格兰的基督徒女性看来，用臀部乳头给撒旦之狗哺乳是不合适的行为，所以她被处死了。
+**中文理解**：作者坦言这是整个故事里最耐人寻味的一处：那位寡妇 Sawyer 声称自己给化身为狗的撒旦哺乳，这等于亲手坐实了她作为怪物母狗的身份——她实际上就是那头给恶魔幼犬哺乳的母狗；而在十七世纪英格兰的基督徒女性看来，用臀部乳头给撒旦之狗哺乳是不合适的行为，所以她被处死了。
 
 **句子结构**：首句以「在我看来」起头，用冒号引出一句解释，说明最耐人寻味的究竟是什么；次句用「实际上就是……」的同位结构把「母狗」这个身份直接按在她头上；末句用一个长长的动名词主语（用臀部乳头给撒旦之狗哺乳）作主句主体，再以「所以」把行刑接上来，句子的因果链因此在形式上完整闭合。
 
@@ -164,7 +164,7 @@ source_text: ch07
 
 **表达方式**：三个层次的说法——坐着哺乳的母狗、恶魔幼犬、臀部乳头——把一个民间生理奇闻写成了怪物母狗谱系里最完整的一次自我认证；末句那种冷冰冰的「不合适的行为，所以被处死」的因果句式，把荒诞与致命压缩在同一行里。
 
-**为什么这样写**：这一段是「怪物母狗是恐惧的投影」这一母题最完整的一次演示：索耶太太并不是被指控为怪物才变成怪物的，她是在供词里亲口认领了怪物的身份，随后社会以「不合适」之名把她除掉。作者把「认领」与「处决」两件事写进同一段，就是在演示恐惧如何制造它自己的对象，也顺势为下一段那部同情她的戏做好了铺垫。
+**为什么这样写**：这一段是「怪物母狗是恐惧的投影」这一母题最完整的一次演示：这位寡妇并不是被指控为怪物才变成怪物的，她是在供词里亲口认领了怪物的身份，随后社会以「不合适」之名把她除掉。作者把「认领」与「处决」两件事写进同一段，就是在演示恐惧如何制造它自己的对象，也顺势为下一段那部同情她的戏做好了铺垫。
 
 > **原句 10:** "The three dramatists who wrote this play are explicitly recognizing that the practice of witchcraft just might possibly be an emergent property of the social controls that would defame, diminish, and demonize poor, disabled women. Witchcraft is coded, then, as a form of resistance—or, at minimum, a reaction to the ills, cruelties, and inequities of society."
 
@@ -180,19 +180,19 @@ source_text: ch07
 
 > **原句 11:** "It used to be, says Mama Sawyer, that people treated old women with reverence. Now, a poor, old woman will be dehumanized and debased. This was 1621, but it sounds like fifth-century BCE Athens, when the Furies complain that their ancient privileges and rights have been docked by the young upstartish cruelty of Apollo."
 
-**中文理解**：作者借索耶太太之口说出对比：从前人们以敬意对待老妇人，而如今一个贫穷的老妇人会被去人化、被贬低。作者随即说，这话写在 1621 年，却听上去像公元前五世纪的雅典——那时复仇女神正抱怨自己古老的特权与权利被年轻而跋扈的阿波罗削减。
+**中文理解**：作者借 Mama Sawyer 之口说出对比：从前人们以敬意对待老妇人，而如今一个贫穷的老妇人会被去人化、被贬低。作者随即说，这话写在 1621 年，却听上去像公元前五世纪的雅典——那时 Furies 正抱怨自己古老的特权与权利被年轻而跋扈的 Apollo 削减。
 
-**句子结构**：首句以「据索耶太太说」这个插入语起头，用「从前……如今……」构成对照；次句是三句中最短的一句，两个动词并列作谓语，像一记落下的板子；末句用「这本是 1621 年，但听上去像……」的转折把当代与古典连起来，后半再用「当……时」的时间从句把复仇女神与阿波罗的争执嵌进来。
+**句子结构**：首句以「据 Mama Sawyer 说」这个插入语起头，用「从前……如今……」构成对照；次句是三句中最短的一句，两个动词并列作谓语，像一记落下的板子；末句用「这本是 1621 年，但听上去像……」的转折把当代与古典连起来，后半再用「当……时」的时间从句把 Furies 与 Apollo 的争执嵌进来。
 
 **关键词**：`treated old women with reverence`、`dehumanized and debased`、`ancient privileges and rights`
 
 **表达方式**：作者让角色自己说出判词，再由叙述者补上历史坐标；把一场现代民间诉讼与公元前五世纪雅典的神话争执并置，是本章跨度最大的一次跳跃，而支撑这次跳跃的正是「特权被剥夺」这一结构上的同一性。
 
-**为什么这样写**：全章反复在讲同一件事——被剥夺特权的女性被指认为怪物——而这里用一次跨两千年的类比把这条线索压缩成一句话，让读者看见它不是英国的地方性习俗而是一套结构。索耶太太那句「凭什么轮到我就行」之所以有力，正因为它是站在结构里说的，而不是站在个案里说的。
+**为什么这样写**：全章反复在讲同一件事——被剥夺特权的女性被指认为怪物——而这里用一次跨两千年的类比把这条线索压缩成一句话，让读者看见它不是英国的地方性习俗而是一套结构。「从前人们以敬意对待老妇人，如今老妇人被去人化」这组对照之所以有力，正因为它是站在结构里说的，而不是站在个案里说的。
 
 > **原句 12:** "When you want to counter patriarchal practices—such as witch-hunting—you have to use the discourses of power that have the long-standing approval of Patriarchy: discourses like Scripture and history. That is, he has worked out that if you want to take up for women, you have to speak in the languages of men."
 
-**中文理解**：作者总结哈钦森摸索出的方法：想要反击父权的实践——比如猎巫——你就必须使用那些早获父权认可權威话语，比如经文与历史；换句话说，他想明白了，要替女性说话，就必须先用男人的语言说话。
+**中文理解**：作者总结这位牧师的摸索：想要反击父权的实践——比如猎巫——你就必须使用那些早已获得父权认可的权威话语，比如经文与历史；换句话说，他想明白了，要替女性说话，就必须先用男人的语言说话。
 
 **句子结构**：首句是一个「想要做某事就必须做某事」的条件结构，主干由「必须使用」带出，后面用冒号引出一组以「比如」开头的举例；次句用「换句话说」作转换语，把前一句翻译成一句更口语的悖论式判断，条件从句与主句用「如果……就得……」再次扣合。
 
@@ -200,11 +200,11 @@ source_text: ch07
 
 **表达方式**：两句话用的是同一套逻辑，第二次却用「男人的语言」把抽象的权力话语换成了性别化的日常说法；「替女性说话」与「用男人的语言」被压进同一句里，悖论因此不需要作者再作解释。
 
-**为什么这样写**：作者先前在开篇说过戏是加速器，这里又给出另一种更慢也更彻底的手段；把两件事并置，等于说明「改写剧本」和「改写论证规则」是同一场工作的两个阶段。哈钦森的做法之所以值得单列，是因为他示范了一条可复制的策略：不是用一套外来话语去挑战另一套权威，而是从被挑战者自己的经典里拆掉对方的凭据。
+**为什么这样写**：作者先前在开篇说过戏是加速器，这里又给出另一种更慢也更彻底的手段；把两件事并置，等于说明「改写剧本」和「改写论证规则」是同一场工作的两个阶段。他这一套做法之所以值得单列，是因为它示范了一条可复制的策略：不是用一套外来话语去挑战另一套权威，而是从被挑战者自己的经典里拆掉对方的凭据。
 
 > **原句 13:** "One of the most important claims Hutchinson makes is this innocent-seeming little one: “Things odd and unaccountable are to be respited till we understand them” (75). He is presupposing that supernatural-seeming events have natural and recoverable causes."
 
-**中文理解**：作者指出哈钦森最重要的主张之一是那句听上去平平无奇的话：凡是古怪而无法解释的事，都应当先予搁置，等到我们理解了再说。作者点明，这句话的前提是：那些看起来像超自然的事件，其实都有自然的、可以复原的成因。
+**中文理解**：作者指出 Hutchinson 最重要的主张之一是那句听上去平平无奇的话：凡是古怪而无法解释的事，都应当先予搁置，等到我们理解了再说。作者点明，这句话的前提是：那些看起来像超自然的事件，其实都有自然的、可以复原的成因。
 
 **句子结构**：首句用「最重要主张之一」作限定，再用冒号引出一句带页码的引文，引文本身是一个省略了主语、以「怪异无解之物」作主语、把「搁置」作谓语的祈使句式；次句用「他预设了」引出判断，主语是「超自然模样的事件」，谓语部分是「有自然的、可复原的成因」。
 
@@ -212,7 +212,7 @@ source_text: ch07
 
 **表达方式**：作者用「听上去无害」这个说法给引文定性，一句程序性的常识被他称作最重要主张；引文里那个意思模糊的动词「搁置」在中文里被还原成「先予搁置」，把它从古典引文里解放出来变成一句可执行的程序原则。
 
-**为什么这样写**：作者在这里要处理的不是女巫是否存在，而是整套审判程序是否成立。哈钦森的办法是只谈程序不谈实体：只要先要求解释清楚，反常的指控就得暂缓；作者随即点出这句程序原则背后那个不必明说的前提（超自然并不真实），于是「女巫不存在」这个结论被完整地推导了出来，而作者本人始终没有替他说破。
+**为什么这样写**：作者在这里要处理的不是女巫是否存在，而是整套审判程序是否成立。Hutchinson 的办法是只谈程序不谈实体：只要先要求解释清楚，反常的指控就得暂缓；作者随即点出这句程序原则背后那个不必明说的前提（超自然并不真实），于是「女巫不存在」这个结论被完整地推导了出来，而作者本人始终没有替他说破。
 
 > **原句 14:** "An eighteenth-century minister is explicitly talking about domestic battery, verbal violence, coercion, manipulation, and gaslighting? He’s suggesting that, when a woman is subjected to these things, her testimony against herself should be discounted? This is miles ahead of current legal practice around coercively controlled and domestically abused women."
 
@@ -224,7 +224,7 @@ source_text: ch07
 
 **表达方式**：连用两个问号，让现代读者先认领自己熟悉的经验，再回头看十八世纪的文本；「五英里之遥」式的超前的说法，把两个相隔数百年的司法现场拉到同一条直线上。
 
-**为什么这样写**：作者在整章里始终避免直说「女巫是假的」，转而用制度与语言上的漏洞来推翻审判；而这一段把哈钦森的读法接到当代受害者身上，说明他讨论的其实是证据可信度问题而非超自然问题。用反问而不是断言，是因为一旦作者直接说哈钦森是现代反家暴法的先驱，读者容易把这一段当成作者的现代评价而不是对哈钦森文本的读解。
+**为什么这样写**：作者在整章里始终避免直说「女巫是假的」，转而用制度与语言上的漏洞来推翻审判；而这一段把这位牧师的读法接到当代受害者身上，说明他讨论的其实是证据可信度问题而非超自然问题。用反问而不是断言，是因为一旦作者直接说他是现代反家暴法的先驱，读者容易把这一段当成作者的现代评价而不是对该牧师生平的读解。
 
 > **原句 15:** "Accusations and trials stopped happening, as did executions. People didn’t believe in witches that much anymore, or if they did, they didn’t feel the need to persecute, prosecute, or execute them anymore. But Patriarchy still needed to find ways to demonize and abuse women."
 
