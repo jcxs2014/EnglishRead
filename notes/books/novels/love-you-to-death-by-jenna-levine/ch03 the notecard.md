@@ -35,7 +35,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：留意她手上裹的是**别人的名字**——餐巾上绣着那位教授的首字母，她借着宴会席上的东西，去对付一张写着自己名字与年龄的卡片。
 
-> **原句 3:** "When I open the napkin over my purse, the card falls about an inch—only to rise back up again as if pulled by an invisible string. … My eyes must be playing tricks on me. … Once again the card floats back up to the napkin like gravity is nothing but some cosmic joke to it."
+> **原句 3:** "When I open the napkin over my purse, the card falls about an inch—only to rise back up again as if pulled by an invisible string … My eyes must be playing tricks on me. … Once again the card floats back up to the napkin like gravity is nothing but some cosmic joke to it."
 
 **中文理解**：我把餐巾在包上方打开时，卡片落下大约一英寸——却又像被一根看不见的线拉着升了回去。……一定是我的眼睛在骗我。……卡片又一次浮回餐巾纸上，仿佛重力不过是宇宙开的一个玩笑。
 

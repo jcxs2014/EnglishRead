@@ -15,7 +15,7 @@ modified: "2026-10-24"
 
 ## 精读
 
-> **原句 1:** "When my alarm goes off for work on Monday morning, I spend thirty minutes locked in indecision. … Should I keep my soul-sucking job for eight more weeks? Or should I quit now, since I’ll be dead soon anyway and nothing matters? … “It’s a dilemma,” I tell Wilfred as I brush my teeth."
+> **原句 1:** "When my alarm goes off for work on Monday morning, I spend thirty minutes locked in indecision … Should I keep my soul-sucking job for eight more weeks? Or should I quit now, since I’ll be dead soon anyway and nothing matters? … “It’s a dilemma,” I tell Wilfred as I brush my teeth."
 
 **中文理解**：周一早上上班的闹钟响起来时，我花了三十分钟困在犹豫里。……我要不要为了再撑八周，继续做这份吸灵魂的工作？还是干脆现在就辞掉，反正我也快死了，什么都无所谓？……"真是个两难，"我一边刷牙一边对 Wilfred 说。
 
