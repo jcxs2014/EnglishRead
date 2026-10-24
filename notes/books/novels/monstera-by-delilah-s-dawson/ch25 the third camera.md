@@ -54,7 +54,7 @@ modified: "2026-10-24"
 | disappeared | （设备上的东西）不见了、消失；口语，常指应用或文件忽然找不到了 | The fucking camera app disappeared for a while, but he got it back online. |
 | abandoning | 抛弃、撒手不管；此处指丢下租约和押金一走了之 | When he ran and left Roger in the lurch, screwing over his lease—but abandoning his deposit, at least—Roger took possession of all his shit. |
 | possession | 占有、持有（take possession of：把某物收归己有） | When he ran and left Roger in the lurch, screwing over his lease—but abandoning his deposit, at least—Roger took possession of all his shit. |
-| screwing | 坑害、欺骗（screw over 的分词形式，粗俗口语） | When he ran and left Roger in the lurch, screwing over his lease—but abandoning his deposit, at least—Roger took possession of all his shit. |
+| screwing | 坑害、欺骗（screwing over 的分词形式，粗俗口语） | When he ran and left Roger in the lurch, screwing over his lease—but abandoning his deposit, at least—Roger took possession of all his shit. |
 | refocuses | 重新聚焦、把目光或注意力收回来 | He refocuses. |
 | fondling | 抚摸、揉弄；含性意味的贬义说法 | Lucy stands over him, the bust in her soft little white hands, hands Roger has imagined holding him, fondling him. |
 
