@@ -4,64 +4,52 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch23_chapter_22.txt",
  "facts": [
   {
-   "fact": "JJ 沿 Otley Road 往市中心赶，在化装参加 Otley Run 酒吧巡游的学生中间穿行",
-   "anchor": "JJ hurried down Otley Road towards the city centre, weaving between the students in fancy dress",
+   "fact": "JJ 沿 Otley Road 赴约，穿行化装学生。",
+   "anchor": "JJ hurried down Otley Road towards the city centre, weaving between the students in fancy dress on the Otley Run pub crawl.",
    "start": 22,
-   "end": 117
+   "end": 145
   },
   {
-   "fact": "JJ 自认把钱包落在麦当劳桌上、留在 Emily 面前是愚蠢的",
-   "anchor": "He was a fool to leave his wallet on the table in McDonald’s with Emily fucking Pierce.",
+   "fact": "后悔把钱包（含两笔十镑）留在麦当劳桌上。",
+   "anchor": "He was a fool to leave his wallet on the table in McDonald’s with Emily fucking Pierce. He didn’t know whether she had looked at his cards when she’d nicked those two tenners that were in there. Stolen them so shamelessly, as if he wouldn’t notice. Or as if she knew he couldn’t do anything about it, since destruction was mutually assured. This was what disturbed him.",
    "start": 528,
-   "end": 615
+   "end": 897
   },
   {
-   "fact": "他不知道 Emily 偷走那两张十镑时有没有翻看他的卡",
-   "anchor": "whether she had looked at his cards when she’d nicked those two tenners",
-   "start": 631,
-   "end": 702
-  },
-  {
-   "fact": "他不该把驾照留在钱包里，因为他还没用新名字补办",
-   "anchor": "He should never have left his driving licence in there",
+   "fact": "驾照还没用新名字补办，藏在别的卡后面。",
+   "anchor": "He should never have left his driving licence in there, what the hell was he thinking? Except that he hadn’t yet figured out how to replace it using his new name, which he’d never officially registered. He didn’t know when he might need to run away in a hurry, so he’d kept his licence hidden behind his other cards, assuming no one would ever be in a position to rifle through them.",
    "start": 900,
-   "end": 954
+   "end": 1283
   },
   {
-   "fact": "本地报纸只登过一篇报道，用他的真名 Liam Craig，且没有配照片",
-   "anchor": "only one article had appeared in the local paper, referring to him by his real name, Liam Craig",
-   "start": 3028,
-   "end": 3123
+   "fact": "当地报纸只登过一篇真名报道、无照片。",
+   "anchor": "Silly to worry, really, because only one article had appeared in the local paper, referring to him by his real name, Liam Craig. Crucially no photo was printed, and the story was never picked up by the national media as far as he knew. What a stroke of luck that had been.",
+   "start": 2996,
+   "end": 3268
   },
   {
-   "fact": "Arthur 对 JJ 说今晚那个赌局就算了",
-   "anchor": "We’ll have to forget about the bet tonight.",
-   "start": 4994,
-   "end": 5037
+   "fact": "他终于拿到 Arthur 一伙的邀约。",
+   "anchor": "He was on his way to meet Arthur and friends, having at long last landed an invitation",
+   "start": 146,
+   "end": 232
   },
   {
-   "fact": "Harry 拍着 JJ 的肩说，他们觉得 Emily 很好上手",
-   "anchor": "They think she’s easy, that’s all.",
-   "start": 5546,
-   "end": 5580
+   "fact": "他追问\"什么赌局\"。",
+   "anchor": "‘What bet?’ he repeated.",
+   "start": 5292,
+   "end": 5316
   },
   {
-   "fact": "进了 Townhouse，JJ 给其他人买了一圈 shot，并观察他们怎么喝",
-   "anchor": "he bought the others a round of shots and studied how they drank them",
-   "start": 6038,
-   "end": 6107
+   "fact": "Harry 说\"他们觉得她很好上手\"。",
+   "anchor": "‘They think she’s easy, that’s all.’",
+   "start": 5545,
+   "end": 5581
   },
   {
-   "fact": "叙述者点明 Liam Craig 五年前因重罪被捕、被起诉并定罪",
-   "anchor": "Liam Craig, who was arrested, prosecuted and convicted of a serious crime five years earlier.",
-   "start": 5924,
+   "fact": "叙述者点名 Liam Craig 五年前被定罪。",
+   "anchor": "Arthur, Harry, Ollie, Charlie and with them Liam Craig who, unlike the rest, had grown up in a shabby two-bedroom terraced house around the corner from the bookie’s where his dad used to spend almost every waking hour. Liam Craig, who was arrested, prosecuted and convicted of a serious crime five years earlier.",
+   "start": 5705,
    "end": 6017
-  },
-  {
-   "fact": "JJ 想，如果要把 Emily 交给他们才能留在圈子里，那就这样吧",
-   "anchor": "If delivering Emily to them was what it took, then so be it",
-   "start": 6358,
-   "end": 6417
   }
  ]
 }

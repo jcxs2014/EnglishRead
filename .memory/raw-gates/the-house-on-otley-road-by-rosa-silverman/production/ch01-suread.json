@@ -4,52 +4,46 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch01_prologue.txt",
  "facts": [
   {
-   "fact": "一个男人站在 Otley Road 某处住处的门口石阶上，把开门的年轻女子从头到脚打量了一遍。",
+   "fact": "男人站在门口石阶上打量开门的年轻女子。",
    "anchor": "She opened the door and he stood on the top stone step and looked her up and down.",
    "start": 46,
    "end": 128
   },
   {
-   "fact": "他的判断落在她的穿着上：松垮的牛仔裤不合身，显得她像要被衣服淹没。",
-   "anchor": "The loose blue jeans that didn’t flatter her slim frame, making her look like she was drowning.",
-   "start": 129,
-   "end": 224
-  },
-  {
-   "fact": "他用一句“我有些你可能感兴趣的消息”作为开场。",
+   "fact": "他说自己有她可能感兴趣的消息。",
    "anchor": "‘I have some information that might interest you.’",
    "start": 292,
    "end": 342
   },
   {
-   "fact": "叙述者点明他的习惯：他对任何人说的都只是真相的一个版本。",
+   "fact": "叙述点明他只讲真相的一个版本。",
    "anchor": "He only ever told anyone a version of the truth.",
    "start": 526,
    "end": 574
   },
   {
-   "fact": "她提议换个地方谈，比如街角的咖啡馆。",
+   "fact": "她提议去街角咖啡馆谈。",
    "anchor": "‘Can we talk somewhere else?’ she asked. ‘Like, maybe in the café down the road?’",
    "start": 1178,
    "end": 1259
   },
   {
-   "fact": "他看表，摆出真诚的歉意，推说时间不够、马上要去别处。",
-   "anchor": "He glanced down at his watch. Looked back up at her, sincerely apologetic. ‘Thing is, I don’t have much time. I’ve got to be somewhere soon.’",
-   "start": 1262,
+   "fact": "他看表推说时间不够，拒绝换地方。",
+   "anchor": "‘Thing is, I don’t have much time. I’ve got to be somewhere soon.’",
+   "start": 1337,
    "end": 1403
   },
   {
-   "fact": "她最终让步，让他进屋。",
+   "fact": "她最终让他进了屋。",
    "anchor": "‘OK,’ she said. ‘Come in then.’",
    "start": 1406,
    "end": 1437
   },
   {
-   "fact": "他看出她仍不确定，于是用熟练的技巧安抚她：再笑一次，双手始终插在大衣口袋里，做出“没有威胁”的姿态。",
-   "anchor": "He could see she remained uncertain. He must put her at her ease, but that was fine, he knew all the techniques. He smiled again, keeping his hands firmly inside his coat pockets. Look, no hands, no threat.",
-   "start": 1440,
-   "end": 1646
+   "fact": "他再次微笑，双手一直插在大衣口袋里。",
+   "anchor": "He smiled again, keeping his hands firmly inside his coat pockets.",
+   "start": 1553,
+   "end": 1619
   }
  ]
 }

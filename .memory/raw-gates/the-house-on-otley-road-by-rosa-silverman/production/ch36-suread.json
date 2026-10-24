@@ -4,52 +4,64 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch36_chapter_35.txt",
  "facts": [
   {
-   "fact": "他在艾米莉家附近的小街上双手发抖地摆弄车钥匙。",
-   "anchor": "he fumbled with the car key in shaking hands on the side street near her house",
-   "start": 344,
-   "end": 422
+   "fact": "他后悔写信留下纸面证据。",
+   "anchor": "Aiden had made a mistake in writing Emily a letter. What madness had possessed him to do that? She wasn’t the letter-writing sort, that much was clear from her reply, and leaving a paper trail was idiotic. His brain had been addled by infatuation and he’d lost the run of himself.",
+   "start": 22,
+   "end": 302
   },
   {
-   "fact": "他意识到那封信会把自己和艾米莉死亡当晚绑在一起。",
-   "anchor": "the letter placed him with her on the night of her death",
-   "start": 615,
-   "end": 671
+   "fact": "她死了；信把他钉在案发当晚。",
+   "anchor": "Emily was dead, impossible but true, the afterimage of her body impossible to shift. He could run all he wanted – and right now, after leaving her room, it was all he could think to do – but the letter placed him with her on the night of her death.",
+   "start": 424,
+   "end": 672
   },
   {
-   "fact": "他返回卧室，直奔仍留在地板上的浅蓝色纸团。",
-   "anchor": "made a beeline for the pale-blue ball of paper that remained on the floor",
+   "fact": "他二返现场。",
+   "anchor": "he walked the few metres back onto Otley Road, back up the gravelled front garden, back up the stone steps.",
+   "start": 1239,
+   "end": 1346
+  },
+  {
+   "fact": "取回纸团，再看一眼尸体都没有就逃。",
+   "anchor": "made a beeline for the pale-blue ball of paper that remained on the floor. Without another glance at the body on the bed, he fled from the house once more.",
    "start": 1555,
-   "end": 1628
+   "end": 1710
   },
   {
-   "fact": "他一直开到 Eccup 水库，几乎没意识到自己身在何处。",
-   "anchor": "He continued until he reached Eccup Reservoir",
-   "start": 2143,
+   "fact": "一直开到 Eccup 水库。",
+   "anchor": "he reached Eccup Reservoir",
+   "start": 2162,
    "end": 2188
   },
   {
-   "fact": "他打开车门，在砾石地上呕吐。",
-   "anchor": "and heaved over the gravel",
-   "start": 2502,
-   "end": 2528
+   "fact": "在砾石上呕吐。",
+   "anchor": "He opened the door of the car and heaved over the gravel.",
+   "start": 2472,
+   "end": 2529
   },
   {
-   "fact": "他想到自己的指纹会布满艾米莉的房门和卧室门把。",
-   "anchor": "Fingerprints. His would be all over Emily’s front door and her bedroom door handle.",
-   "start": 5154,
+   "fact": "指纹会布满前门与卧室门把。",
+   "anchor": "His would be all over Emily’s front door and her bedroom door handle.",
+   "start": 5168,
    "end": 5237
   },
   {
-   "fact": "他把仍放着儿童座椅的家用沃尔沃小心停好。",
+   "fact": "家用沃尔沃后座仍有儿童座椅。",
    "anchor": "He carefully parked the family Volvo with the child seat still in the back.",
    "start": 4450,
    "end": 4525
   },
   {
-   "fact": "Gloria 说早上再好好谈，语气平淡。",
-   "anchor": "We’ll have a proper talk in the morning",
-   "start": 7720,
-   "end": 7759
+   "fact": "Gloria 平淡地说早上再谈。",
+   "anchor": "‘We’ll have a proper talk in the morning,’ she said, her voice flat and expressionless.",
+   "start": 7719,
+   "end": 7806
+  },
+  {
+   "fact": "他把自己的信塞回红 T 恤里的信封。",
+   "anchor": "he slipped his own letter inside.",
+   "start": 8778,
+   "end": 8811
   }
  ]
 }

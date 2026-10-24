@@ -4,52 +4,70 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch16_chapter_15.txt",
  "facts": [
   {
-   "fact": "Kate 上午近十一点抵达 Otley Road，把车开进加油站前场查邮件；Dan 发来满是拼写错误的短讯，告诉她摄影师 Steve Gardener 已在现场。",
-   "anchor": "It was almost 11 a.m. when Kate reached Otley Road and pulled into a petrol station forecourt to check her emails.",
+   "fact": "Kate 近午到 Otley Road，加油站查邮件；摄影记者 Steve 在现场。",
+   "anchor": "It was almost 11 a.m. when Kate reached Otley Road and pulled into a petrol station forecourt to check her emails. No one had sent her the house number, but she had received a brief, typo-strewn message from Dan informing her that Steve Gardener would be there.",
    "start": 22,
-   "end": 136
+   "end": 283
   },
   {
-   "fact": "破损的石像鬼越过守门警察的头顶可见，Kate 凭这个“恐怖的标志”确认眼前就是 Emily Pierce 的家。",
-   "anchor": "The broken gargoyle, that telltale emblem of horror, was visible over their heads.",
-   "start": 1653,
-   "end": 1735
+   "fact": "她一眼认出缺半张脸的石兽。",
+   "anchor": "The gargoyle above the front door of the house that the media had massed outside of. Even from a distance, she could see half its face was missing.",
+   "start": 1314,
+   "end": 1461
   },
   {
-   "fact": "她事先就预感到新死者会是在底层公寓，而结果又是底层；她打了个寒战，称之为可怕的巧合。",
-   "anchor": "Somehow she had felt sure it would be the ground floor. Again.",
-   "start": 3840,
+   "fact": "确认这就是 Emily 的房子；问题是有没有别人看出来。",
+   "anchor": "It was, without doubt, Emily Pierce’s house. The question was whether anyone else had yet realised.",
+   "start": 1738,
+   "end": 1837
+  },
+  {
+   "fact": "她事先就预感死者会在底层。",
+   "anchor": "She had already known, even in the absence of any stray shards of glass this time, or any outward hint of where exactly this new girl was killed. Somehow she had felt sure it would be the ground floor. Again.",
+   "start": 3694,
    "end": 3902
   },
   {
-   "fact": "Kate 躲开同行给 Smith 打电话，说这里不只是同一条街，而是同一套公寓。",
-   "anchor": "It’s not just the same street. It’s the same fucking flat. How spooky is that?",
-   "start": 4489,
-   "end": 4567
+   "fact": "电话告知 Smith：同一条街，同一套公寓。",
+   "anchor": "‘You don’t need to. I’m here and guess what? It’s not just the same street. It’s the same fucking flat.",
+   "start": 4444,
+   "end": 4547
   },
   {
-   "fact": "2000 年结案后的酒吧聚会里，老牌犯罪记者 Geoff McKie 断言那根本不是入室盗窃，警方只是没有别的说法。",
-   "anchor": "That was no burglary and the cops know it. They just haven’t got anything else.",
-   "start": 8786,
-   "end": 8865
+   "fact": "Smith 建议压住线索留到第二天。",
+   "anchor": "‘Just a thought, but maybe you should hold that line back,’",
+   "start": 5665,
+   "end": 5724
   },
   {
-   "fact": "竞争对手 Meera Nathu 告诉她网上已登出“1999 年另有女孩死在这所房子”，Kate 的独家被通讯社通稿抢先。",
-   "anchor": "Looks like some other girl was killed here in 1999.",
-   "start": 13741,
+   "fact": "2000 年酒馆里老记者 McKie 断言不是入室盗窃。",
+   "anchor": "‘Was she hell,’ snarled Geoff McKie, veteran crime reporter from one of the broadsheets, when the pack reassembled after filing. They sat in a dingy, smoke-clogged pub in Leeds city centre chewing it over together. ‘That was no burglary and the cops know it.",
+   "start": 8570,
+   "end": 8828
+  },
+  {
+   "fact": "\"变态教授\"的传闻始终无法证实、无法见报。",
+   "anchor": "the rumour about the ‘pervy prof’, who was said to have been sleeping with the girl, could never be proven or printed.",
+   "start": 9821,
+   "end": 9939
+  },
+  {
+   "fact": "Meera 告知网上已登出 1999 年旧案。",
+   "anchor": "‘The house,’ said Meera Nathu, a reporter Kate knew from a rival midmarket title. ‘Looks like some other girl was killed here in 1999.",
+   "start": 13658,
    "end": 13792
   },
   {
-   "fact": "Kate 收到名为 Scorpion 的推特私信威胁“别碰这件事，否则下一个就是你”，后面跟着一个棺材表情。",
+   "fact": "Scorpion 私信威胁。",
    "anchor": "Leave this alone, Kate, or you’ll be next.",
    "start": 15683,
    "end": 15725
   },
   {
-   "fact": "Dan 把威胁当成疯子来信，问她私生活是否有事，并提出再派一名记者过来；Kate 说自己没事，Dan 已挂断。",
-   "anchor": "I can send someone to join you if you want? Probably should anyway, this one looks like it’ll be big.",
-   "start": 20283,
-   "end": 20384
+   "fact": "棺材表情；账号零关注、从未公开发帖。",
+   "anchor": "The words were followed by a coffin emoji. The timestamp was half an hour after she had posted her tweet from the service station. Scorpion, whoever he or she was, had zero followers and had never posted publicly.",
+   "start": 15728,
+   "end": 15941
   }
  ]
 }

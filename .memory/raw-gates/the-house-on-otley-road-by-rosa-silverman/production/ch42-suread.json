@@ -4,52 +4,52 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch42_chapter_41.txt",
  "facts": [
   {
-   "fact": "Kate 早上在 Otley Road 看到大部分媒体已撤，只剩一小撮摄影记者和摄像师。",
-   "anchor": "Most of the media had gone, leaving only a stubborn clump",
-   "start": 632,
-   "end": 689
+   "fact": "开篇：这房子本有许多理想之处。",
+   "anchor": "It was, in many ways, an ideal house.",
+   "start": 22,
+   "end": 59
   },
   {
-   "fact": "警方公开表示两起谋杀之间没有证据关联，Kate 由此怀疑自己是否被自己的理论带偏。",
-   "anchor": "had stated there was no evidence linking the murders",
-   "start": 1152,
-   "end": 1204
+   "fact": "答案近在咫尺。",
+   "anchor": "It felt so solvable to Kate, the answers tantalisingly close.",
+   "start": 880,
+   "end": 941
   },
   {
-   "fact": "Kate 在咖啡馆用 Facebook 找到 Emily 的旧室友 Alice Wheatley，并从其律所网站取到邮箱。",
+   "fact": "轻松找到 Alice 的 Facebook。",
    "anchor": "She found Alice Wheatley on Facebook easily enough.",
    "start": 3894,
    "end": 3945
   },
   {
-   "fact": "Smith 发短信说 Gloria 不愿开口，把门摔在他脸上。",
-   "anchor": "Slammed door in my face.",
-   "start": 4644,
-   "end": 4668
+   "fact": "从 Benson Stansfield 网站拿邮箱发信。",
+   "anchor": "Found her email address on the website of her law firm, Benson Stansfield, and sent her a message.",
+   "start": 3946,
+   "end": 4044
   },
   {
-   "fact": "Gloria 当面否认当天早上有人敲过门，说她一直在家。",
-   "anchor": "No one has come all morning.",
-   "start": 6752,
-   "end": 6780
+   "fact": "Gloria 以 Crawley 家聚会为 Aiden 作保。",
+   "anchor": "‘He was at our friends’ party",
+   "start": 10733,
+   "end": 10762
   },
   {
-   "fact": "Gloria 说 Aiden 亲口告诉她他去见了 Olivia，并称自己当时很震惊。",
-   "anchor": "He told me,’ Jessop replied, looking past Kate into the room beyond.",
-   "start": 9228,
-   "end": 9296
+   "fact": "Gloria 断言：入室盗窃失手。",
+   "anchor": "‘It was a burglary gone wrong.’",
+   "start": 12079,
+   "end": 12110
   },
   {
-   "fact": "Gloria 用 Crawley 夫妇家的聚会为 Aiden 在 Emily 遇害当晚提供不在场证明。",
-   "anchor": "He was at our friends’ party that night.",
-   "start": 10734,
-   "end": 10774
+   "fact": "这是她的故事，不是他的。",
+   "anchor": "It was that this was still her story, not his.",
+   "start": 19142,
+   "end": 19188
   },
   {
-   "fact": "Gloria 断言 Emily 的死是一次入室盗窃失手，拒绝接受其他解释。",
-   "anchor": "It was a burglary gone wrong.",
-   "start": 12080,
-   "end": 12109
+   "fact": "他刚说了爱她。",
+   "anchor": "Even if he had just told her he loved her.",
+   "start": 19037,
+   "end": 19079
   }
  ]
 }

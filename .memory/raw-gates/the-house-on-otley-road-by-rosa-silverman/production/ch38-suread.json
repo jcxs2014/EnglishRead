@@ -4,51 +4,57 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch38_chapter_37.txt",
  "facts": [
   {
-   "fact": "2019 年，怀孕的 Alice 从 Angel 地铁站出来赶回家，Gareth 要晚些才回",
-   "anchor": "Alice Wheatley came above ground at Angel",
-   "start": 29,
-   "end": 70
-  },
-  {
-   "fact": "她与 Gareth 现在的住处，部分是用当年卖掉利兹那套公寓的钱买的",
-   "anchor": "bought partly with the cash from the sale of the Leeds flat",
-   "start": 347,
+   "fact": "现住处部分用卖掉利兹公寓的钱买的。",
+   "anchor": "Their place, hers and Gareth’s, bought partly with the cash from the sale of the Leeds flat",
+   "start": 315,
    "end": 406
   },
   {
-   "fact": "几小时之前她还不知道利兹那套旧公寓里是否还住着学生",
+   "fact": "几小时前她还不知道旧公寓里是否仍住着学生。",
    "anchor": "Until a few hours ago, Alice had had no idea whether students still lived there.",
    "start": 778,
    "end": 858
   },
   {
-   "fact": "Alice 给 Matty 打电话，说自己今天收到一封奇怪的邮件",
-   "anchor": "there’s a reason I called. I received an odd email today.",
-   "start": 3422,
-   "end": 3479
+   "fact": "她打电话给 Matty 说收到怪邮件。",
+   "anchor": "I received an odd email today.’",
+   "start": 3449,
+   "end": 3480
   },
   {
-   "fact": "邮件来自住在 Otley Road 旧宅、住进 Emily 房间的学生 Olivia Kavanagh",
-   "anchor": "A student called Olivia Kavanagh who’s living in our Otley Road house. She’s got Emily’s room.",
+   "fact": "来信者 Olivia Kavanagh，住 Emily 的房间。",
+   "anchor": "A student called Olivia Kavanagh who’s living in our Otley Road house. She’s got Emily’s room.’",
    "start": 3668,
-   "end": 3762
+   "end": 3763
   },
   {
-   "fact": "Alice 是看见玻璃杯压在 Emily 散落物品上面而不是下面的人，她曾把这事对外人提过一两次",
+   "fact": "是 Alice 当年看见玻璃在上。",
    "anchor": "It was Alice who had seen the glass on top of, rather than beneath, Emily’s scattered possessions.",
    "start": 4292,
    "end": 4390
   },
   {
-   "fact": "Matty 说她和 JJ 都不在乎 Emily，只有他一个人关心她",
-   "anchor": "You didn’t give a toss about her and nor did JJ. I was the only one who cared about her.",
-   "start": 7701,
-   "end": 7789
+   "fact": "她最终接受了入室盗窃的说法。",
+   "anchor": "Ultimately, though, she’d accepted what the police said. It was a bungled break-in.",
+   "start": 4575,
+   "end": 4658
   },
   {
-   "fact": "电话被挂断后，Alice 想是否该删掉他的号码，他连她的孩子都没问",
-   "anchor": "She wondered if, finally, she should delete his number. He hadn’t even asked about her baby.",
-   "start": 8082,
+   "fact": "Matty 以权威口吻命令别回复。",
+   "anchor": "‘Do not reply to her,’ said Matty, and he said it with such authority Alice had to remind herself she had called him for advice, not permission.",
+   "start": 6974,
+   "end": 7118
+  },
+  {
+   "fact": "章末威胁：你去说就有你好看。",
+   "anchor": "‘You will be if you talk to Olivia Kavanagh.’",
+   "start": 7928,
+   "end": 7973
+  },
+  {
+   "fact": "他连她的孩子都没问。",
+   "anchor": "He hadn’t even asked about her baby.",
+   "start": 8138,
    "end": 8174
   }
  ]

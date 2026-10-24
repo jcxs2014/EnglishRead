@@ -4,49 +4,61 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch40_chapter_39.txt",
  "facts": [
   {
-   "fact": "报纸头条：又一名女生在“学生谋杀公寓”中被杀。",
+   "fact": "独居晨间仪式：咖啡、报纸、Radio 4。",
+   "anchor": "Gloria Jessop carried her cup of coffee to the sofa. Bathed in a neat pool of morning sunlight beneath the sitting room window, the cushions were spotless, inviting. This was the ritual she allowed herself on the days she wasn’t in York. She would eat her oats and fruit at the breakfast table while listening to Radio 4, then make herself an espresso using the fancy machine Jack convinced her to buy. Twenty minutes with the newspaper before she started work, that was her treat, her ‘me time’, as it was called in the lifestyle supplements.",
+   "start": 22,
+   "end": 565
+  },
+  {
+   "fact": "三月与 Hugh 参加伦敦游行。",
+   "anchor": "In March, she had attended a protest in London with Hugh",
+   "start": 1085,
+   "end": 1141
+  },
+  {
+   "fact": "没料到四、五、六十岁都单身。",
+   "anchor": "She had not expected to end up single in her forties, fifties, sixties.",
+   "start": 1656,
+   "end": 1727
+  },
+  {
+   "fact": "不后悔\"救他\"，但知道婚姻完了。",
+   "anchor": "She didn’t regret having saved him. The alternative was unthinkable. But she knew at that point it was over.",
+   "start": 2619,
+   "end": 2727
+  },
+  {
+   "fact": "头条：学生谋杀公寓再死一名女生。",
    "anchor": "SECOND GIRL KILLED IN STUDENT MURDER FLAT",
    "start": 4152,
    "end": 4193
   },
   {
-   "fact": "Gloria 从报纸得知又一名学生死在 Emily Pierce 的旧宅。",
+   "fact": "又一名学生死在 Emily 旧宅。",
    "anchor": "Another student had been killed in Emily Pierce’s old house.",
    "start": 4323,
    "end": 4383
   },
   {
-   "fact": "报道引警方称两案无关联证据，但保持开放态度。",
+   "fact": "警方：无关联证据，保持开放。",
    "anchor": "Police say they have no evidence the two killings are connected but are keeping an open mind.",
    "start": 4469,
    "end": 4562
   },
   {
-   "fact": "她随即闪回 2000 年 1 月 4 日警察上门的那天。",
+   "fact": "闪回 2000-01-04 警察上门。",
    "anchor": "Inevitably, her mind took her back to 4 January 2000 again.",
    "start": 4842,
    "end": 4901
   },
   {
-   "fact": "她承认前天从藏处取出并销毁了 Aiden 那个会连累他的信封。",
-   "anchor": "That’s why I took your idiotic incriminating envelope from its incredibly obvious hiding place and destroyed it",
-   "start": 10939,
-   "end": 11050
+   "fact": "抽屉最里是她一直讨厌的旧红 T 恤。",
+   "anchor": "Tucked away, right at the back, was an old red T-shirt that Gloria had always hated.",
+   "start": 9457,
+   "end": 9541
   },
   {
-   "fact": "Aiden 说 Olivia Kavanagh 突然给他发邮件，他因此去见了她。",
-   "anchor": "She emailed me out of the blue",
-   "start": 13418,
-   "end": 13448
-  },
-  {
-   "fact": "Gloria 指责他见过那女孩后女孩就死了，和 Emily 一样。",
-   "anchor": "You went to meet this girl and now she’s dead. Just like Emily.",
-   "start": 13956,
-   "end": 14019
-  },
-  {
-   "fact": "通话后她恐慌发作，倒在地上。",
+   "fact": "恐慌发作倒地。",
    "anchor": "Then the tiles came up to meet her face",
    "start": 14444,
    "end": 14483

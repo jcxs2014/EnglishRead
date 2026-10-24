@@ -4,55 +4,49 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch02_chapter_1.txt",
  "facts": [
   {
-   "fact": "四个女孩找到 Otley Road 这处房子时一致认为它完美。",
+   "fact": "四人一致认为这处房子完美。",
    "anchor": "The place was perfect, that was what they all said when they found it.",
    "start": 27,
    "end": 97
   },
   {
-   "fact": "只有 Olivia 会被脏沙发与褪色窗帘打动，愿意把破败看成诗意。",
-   "anchor": "Olivia Kavanagh was.",
-   "start": 589,
-   "end": 609
+   "fact": "Olivia 的家在 Hertfordshire，学生住处离家乡近二百英里。",
+   "anchor": "her new student digs, almost two hundred miles away",
+   "start": 796,
+   "end": 847
   },
   {
-   "fact": "黄金地段的学生房产租金却便宜得出奇。",
-   "anchor": "It was surprisingly cheap, this slice of prime student real estate they had been so lucky to find.",
-   "start": 2254,
-   "end": 2352
+   "fact": "九月的一个午后搬入。",
+   "anchor": "They moved in on a breezy September afternoon",
+   "start": 2529,
+   "end": 2574
   },
   {
-   "fact": "她们没有追问便宜的原因，照中介的催促抢先签了合同。",
-   "anchor": "Instead of considering why, the girls had blindly taken the advice of the estate agent, to hurry and sign the contract before anyone else.",
-   "start": 2353,
-   "end": 2491
-  },
-  {
-   "fact": "门楣上那尊石头怪兽少了半张脸，被她们当成滑稽的吉祥物。",
-   "anchor": "Half its face was missing, lending it a comic, gruesome demeanour.",
-   "start": 1649,
-   "end": 1715
-  },
-  {
-   "fact": "抽外卖单分房间时，Olivia 抽到组合最离谱的一张，因此先挑房间。",
+   "fact": "抽外卖单分房，Olivia 抽到组合最离谱的一张。",
    "anchor": "A menu for an outlet selling pizzas, burgers, kebabs, curries and, get this, mushy peas.",
    "start": 3145,
    "end": 3233
   },
   {
-   "fact": "她挑临街大房间，是希望进出必经的位置能让她在团体里站稳。",
+   "fact": "她挑入口旁大房间，想稳住自己在团体里的位置。",
    "anchor": "She hoped that taking the room near the entrance would secure her place in the group.",
    "start": 4331,
    "end": 4416
   },
   {
-   "fact": "她最怕的是被忽略、从平等成员降为跟班。",
-   "anchor": "They’d find it harder to forget about her, which was what she feared most.",
-   "start": 4479,
-   "end": 4553
+   "fact": "她与 Millie、Bella、Abi 三人结成圈子。",
+   "anchor": "she’d joined up with Millie (intimidatingly blonde and pretty), Bella (posh but with a tattoo of a lizard on her foot), and Abi (practically an influencer)",
+   "start": 6294,
+   "end": 6449
   },
   {
-   "fact": "平淡的暑假里她下定决心：第二年要属于她，要更大胆。",
+   "fact": "别人有时夸她\"笑起来很好看\"，她认为这是\"无威胁\"的暗语。",
+   "anchor": "‘You have a lovely smile,’ she was sometimes told.",
+   "start": 7595,
+   "end": 7645
+  },
+  {
+   "fact": "平淡暑假里她下定决心第二年要大胆。",
    "anchor": "Second year would be her year, she decided during an uneventful summer back home.",
    "start": 10585,
    "end": 10666

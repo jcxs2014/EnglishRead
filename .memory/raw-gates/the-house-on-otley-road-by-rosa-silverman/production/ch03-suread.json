@@ -4,52 +4,58 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch03_chapter_2.txt",
  "facts": [
   {
-   "fact": "秋季学期开学前一晚，Millie 从 craft ale house 回来，四个女孩第一次听说\"死去的女孩\"这件事。",
-   "anchor": "Millie returned from the craft ale house the evening before the start of the autumn term.",
-   "start": 67,
+   "fact": "开学前夜 Millie 从精酿酒吧带回死讯。",
+   "anchor": "The first they heard of the dead girl was when Millie returned from the craft ale house the evening before the start of the autumn term.",
+   "start": 20,
    "end": 156
   },
   {
-   "fact": "凶案就发生在这套公寓：女孩在床上被自己的枕头闷死，房间是前卧室，也就是 Olivia 的房间。",
-   "anchor": "In this actual flat. Smothered with her pillow in her bed, in the front bedroom. Your bedroom.",
-   "start": 3663,
-   "end": 3757
+   "fact": "案发是二十年前的 1999 年千禧夜。",
+   "anchor": "‘Twenty years ago. New Year’s Eve 1999. The millennium.’",
+   "start": 3077,
+   "end": 3133
   },
   {
-   "fact": "Millie 用\"教堂对面、Spar 往下走\"描述位置；对方随后凭门上方只有半边脸的怪兽像确认就是这栋房子。",
-   "anchor": "He asked me where our flat was, so I went, “Opposite the church, just down from the Spar.”",
-   "start": 4978,
-   "end": 5068
+   "fact": "女孩在这套公寓的前卧室被自己的枕头闷死——正是 Olivia 的房间。",
+   "anchor": "‘In this actual flat. Smothered with her pillow in her bed, in the front bedroom. Your bedroom.’",
+   "start": 3662,
+   "end": 3758
   },
   {
-   "fact": "消息来源是 Millie 在 craft beer place 认识的大三男生，他的继兄当年在利兹。",
+   "fact": "官方说法是入室盗窃失手，凶手未落网。",
+   "anchor": "‘A burglary gone wrong, apparently,’ Millie added, although no one had asked for details. They weren’t yet ready to hear them. ‘The killer was never caught.’",
+   "start": 3834,
+   "end": 3991
+  },
+  {
+   "fact": "消息来自 Millie 遇到的大三男生，其继兄当年在利兹。",
    "anchor": "This third-year guy I met at the craft beer place told me. His stepbrother was in Leeds when it happened.",
    "start": 4335,
    "end": 4440
   },
   {
-   "fact": "警方认为凶案发生在 1999 年新年前夜，是一场搞砸的入室盗窃。",
-   "anchor": "The murder on New Year’s Eve 1999 is believed to have been committed during a botched burglary.",
-   "start": 12733,
-   "end": 12828
+   "fact": "对方凭\"教堂对面、Spar 往下\"确认就是这栋房子。",
+   "anchor": "He asked me where our flat was, so I went, “Opposite the church, just down from the Spar.”",
+   "start": 4978,
+   "end": 5068
   },
   {
-   "fact": "2004 年的周年报道写明死者 19 岁，父亲 Derek Pierce 54 岁，来自 Essex 的 Chelmsford。",
-   "anchor": "the 19-year-old’s tragic death, Derek Pierce, 54, from Chelmsford, Essex",
-   "start": 12512,
-   "end": 12584
+   "fact": "Olivia 快速盘算：搬走可能让团体散伙。",
+   "anchor": "Olivia calculated quickly. If they moved out, the group might be broken up.",
+   "start": 9413,
+   "end": 9488
   },
   {
-   "fact": "Olivia 快速算过：如果搬走，另外三人可能合租一套三人的房子，把她排除在外。",
-   "anchor": "The others might find a flat for three, not four.",
-   "start": 9489,
-   "end": 9538
+   "fact": "她不挪床，只把脚朝床头睡，防的是被室友看出她也怕。",
+   "anchor": "Besides, moving the bed would prove to the others that she, too, had been spooked.",
+   "start": 14716,
+   "end": 14798
   },
   {
-   "fact": "她最终没有挪床，只把脚朝向床头睡下，用一个自欺的姿势充当自卫。",
-   "anchor": "So she left it and slept with her feet by the headboard, as if this charade of self-defence could possibly make a difference.",
-   "start": 14799,
-   "end": 14924
+   "fact": "章末点出 2004 年报道的记者名叫 Kate Marsden。",
+   "anchor": "The story ran under the name of the reporter, Kate Marsden.",
+   "start": 12263,
+   "end": 12322
   }
  ]
 }

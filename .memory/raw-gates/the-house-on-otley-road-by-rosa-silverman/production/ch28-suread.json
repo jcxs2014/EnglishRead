@@ -4,52 +4,64 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch28_chapter_27.txt",
  "facts": [
   {
-   "fact": "当天结束时 Elliot 仍未被起诉，警方已申请延长拘留。",
+   "fact": "Elliot 当天未被起诉，警方申请延长羁押。",
    "anchor": "Elliot had not been charged by the end of the day. The police had applied for an extension.",
    "start": 22,
    "end": 113
   },
   {
-   "fact": "Meera 收到 Millie 的回复：她现阶段不接受采访，太难过了，邮件还带了一个哭脸表情。",
-   "anchor": "Meera had received a reply from Millie, conveying that she would not be speaking at this stage, she was too upset.",
-   "start": 222,
-   "end": 336
+   "fact": "Millie 回复 Meera：现阶段不发声，太难过了。",
+   "anchor": "conveying that she would not be speaking at this stage, she was too upset",
+   "start": 262,
+   "end": 335
   },
   {
-   "fact": "几名记者从 Elliot 公寓离开后把精酿啤酒馆当成临时办公室，占了几张桌子，到处拉电脑线。",
-   "anchor": "A few of them had set up shop in the craft ale house, taking over several tables and running their computer leads everywhere.",
+   "fact": "记者们占据精酿酒吧办公。",
+   "anchor": "A few of them had set up shop in the craft ale house",
    "start": 563,
-   "end": 688
+   "end": 615
   },
   {
-   "fact": "与 Smith 简短不快地交锋后，她把他打发回酒店，给稿子加一条新的标题行。",
-   "anchor": "Following a terse exchange with Smith she had sent him back to the hotel to add a thin new top line to the story",
-   "start": 1148,
-   "end": 1260
+   "fact": "Meera 说曾出钱买 Millie 的故事。",
+   "anchor": "‘Maybe ’cos I offered her cash for her story,’ said Meera.",
+   "start": 1442,
+   "end": 1500
   },
   {
-   "fact": "她认为自己用黏人把他推开了，决定让他按自己的节奏慢慢回到她身边。",
-   "anchor": "She had pushed him away with her neediness. She would let him feel his way back to her in his own time.",
-   "start": 2730,
-   "end": 2833
+   "fact": "Kate 让 Smith 回酒店给稿子加这条标题行。",
+   "anchor": "POLICE TO HOLD OLIVIA KAVANAGH MURDER SUSPECT UNTIL TOMORROW",
+   "start": 1263,
+   "end": 1323
   },
   {
-   "fact": "Smith 说她不显老也许是“没孩子”的缘故，Kate 猝不及防地一颤。",
-   "anchor": "‘Or not having kids, maybe?’",
-   "start": 4342,
-   "end": 4370
+   "fact": "Smith 说自己大学在 Glasgow。",
+   "anchor": "‘Glasgow.’",
+   "start": 4037,
+   "end": 4047
   },
   {
-   "fact": "Smith 说起诉 Elliot 至少能让 Olivia 家人得到正义，Kate 接了一句“但 Emily 的没有”。",
-   "anchor": "‘But not Emily’s.’",
-   "start": 5005,
-   "end": 5023
+   "fact": "Smith 说 2001 年毕业。",
+   "anchor": "‘In 2001.’",
+   "start": 4122,
+   "end": 4132
   },
   {
-   "fact": "她正要讲 Emily 案的细节，Smith 把手覆在她握刀的手上打断，说这话题不适合晚餐。",
-   "anchor": "‘This isn’t a very cheerful subject for dinner.",
-   "start": 7660,
-   "end": 7707
+   "fact": "Kate 说 Emily 的案子一直缠着她。",
+   "anchor": "‘That girl,’ she said. ‘Emily. I feel like she’s haunted me somehow.",
+   "start": 6302,
+   "end": 6370
+  },
+  {
+   "fact": "Smith 说跨千年时他在家放假。",
+   "anchor": "Yeah, though I was home for the holidays. Didn’t do anything spectacular. Few drinks down the pub with some mates.’",
+   "start": 7003,
+   "end": 7118
+  },
+  {
+   "fact": "他把话题从案子转到内衣。",
+   "anchor": "",
+   "start": 0,
+   "end": 0
   }
  ]
 }

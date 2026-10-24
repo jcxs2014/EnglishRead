@@ -4,49 +4,61 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch30_chapter_29.txt",
  "facts": [
   {
-   "fact": "JJ 向 Arthur 承诺今晚把 Emily 带去，却觉得她比平时更失常，怕她当场说出或做出什么。",
-   "anchor": "He had promised Arthur he would bring Emily tonight but she seemed unhinged, even more so than usual.",
+   "fact": "他答应带 Emily 赴约，但她比平时更失常。",
+   "anchor": "He had promised Arthur he would bring Emily tonight but she seemed unhinged, even more so than usual. Who knew what she might say or do in her current mood?",
    "start": 52,
-   "end": 153
+   "end": 208
   },
   {
-   "fact": "Emily 那句“如果那是你的真名”让 JJ 血液凝固，他确认她知道得比她透露的多。",
-   "anchor": "If that is your real name. The words had made his blood freeze in his veins.",
-   "start": 211,
-   "end": 287
+   "fact": "\"如果那是你的真名\"让他血都凉了。",
+   "anchor": "",
+   "start": 0,
+   "end": 0
   },
   {
-   "fact": "JJ 靠母亲在社区成人社保的工作，翻她的文件挑出独居、脆弱、行将失智的老人下手。",
-   "anchor": "His mother worked in the community in adult social care. This allowed him to identify the isolated and vulnerable.",
+   "fact": "骗局：向独居老人兜售假投资。",
+   "anchor": "talking old dears out of their life savings by selling them an apparently enticing investment opportunity. It was a simple boiler room scam he had dreamed up all by himself.",
+   "start": 589,
+   "end": 762
+  },
+  {
+   "fact": "借母亲在成人社工系统的文件挑出孤立易骗老人。",
+   "anchor": "His mother worked in the community in adult social care. This allowed him to identify the isolated and vulnerable. The ones on the verge of losing their mental faculties. The ones who would be easy to dupe.",
    "start": 1662,
-   "end": 1776
+   "end": 1868
   },
   {
-   "fact": "他坐了十八个月牢，母亲羞于出庭，只探望过他一次。",
-   "anchor": "Served eighteen months inside. His own mum was too ashamed to attend his trial.",
+   "fact": "服刑十八个月，母亲只探监一次。",
+   "anchor": "Served eighteen months inside. His own mum was too ashamed to attend his trial. She said he had ruined her life as well as his own, and all for what? A few thousand quid that he had the brains to earn honestly if he’d tried. She visited him just once.",
    "start": 2791,
-   "end": 2870
+   "end": 3042
   },
   {
-   "fact": "出狱后他改名 Jake Jeffreyes，在利兹入学，向行政人员编造躲避家暴父亲的故事。",
-   "anchor": "Accepted on a course in Leeds, he adopted the name Jake Jeffreyes.",
-   "start": 3608,
+   "fact": "出狱后改名 Jake Jeffreyes 入学利兹。",
+   "anchor": "he adopted the name Jake Jeffreyes.",
+   "start": 3639,
    "end": 3674
   },
   {
-   "fact": "Arthur 和 Charlie 要他把 Emily 交给他们，而他怕她揭穿自己。",
+   "fact": "Arthur 一伙要他把 Emily 交给他们。",
    "anchor": "They wanted him to deliver Emily to them.",
    "start": 4517,
    "end": 4558
   },
   {
-   "fact": "他认定她醉到去不了反而更好，于是主动给她续酒。",
+   "fact": "他主动给 Emily 续酒。",
    "anchor": "He picked up the bottle of wine and refilled her glass.",
    "start": 5204,
    "end": 5259
   },
   {
-   "fact": "他答八点十分出发，心里算着她还有三个多小时可以喝到不省人事。",
+   "fact": "他动过往酒里下东西的念头。",
+   "anchor": "wondering should he slip something into her drink to be on the safe side?",
+   "start": 5709,
+   "end": 5782
+  },
+  {
+   "fact": "8:10 出发意味着三个多小时让她醉倒。",
    "anchor": "It would give her more than three hours to drink herself into oblivion.",
    "start": 6127,
    "end": 6198

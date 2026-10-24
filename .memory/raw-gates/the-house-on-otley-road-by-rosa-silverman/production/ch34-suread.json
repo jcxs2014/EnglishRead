@@ -4,52 +4,52 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch34_chapter_33.txt",
  "facts": [
   {
-   "fact": "Aiden 平时开车谨慎，这次却急着在 Gloria 改主意、从胃病里缓过来之前离开。",
-   "anchor": "A careful driver by nature, he was nonetheless anxious to escape before Gloria changed her mind and rallied from her stomach complaint.",
-   "start": 65,
-   "end": 200
+   "fact": "他满脑子只有与 Emily 的约定。",
+   "anchor": "His promised evening with Emily was all he cared about now.",
+   "start": 270,
+   "end": 329
   },
   {
-   "fact": "Emily 的信 12 月 30 日到，他凭改论文时认得的稚气字迹认出，抢在妻子看见前从门垫上拿走。",
+   "fact": "Emily 的信 12 月 30 日到，他抢在妻子前拿走。",
    "anchor": "Her letter arrived on 30 December. He recognised her childlike script from her terrible essays, and snatched it from the doormat before his wife could spot it.",
    "start": 754,
    "end": 913
   },
   {
-   "fact": "他把 Gloria 比作家具，认为她来质问是对他梦想的冒犯。",
-   "anchor": "She had become like the furniture. It was an affront to find the furniture now interrupting his dreams.",
-   "start": 3027,
-   "end": 3130
+   "fact": "稚气笔迹让他想起中学生的情书。",
+   "anchor": "Here she had attempted to draw a pair of Champagne flutes, but the smudged Biro sketch more closely resembled two cricket bats. The word ‘fun’ was underlined three times. As letters went, it was juvenile and brought to mind the note a younger teenager might slip into the schoolbag of the boy she fancied.",
+   "start": 1144,
+   "end": 1449
   },
   {
-   "fact": "他打算在 Crawley 家派对只待够被几个朋友看见，用作不在场证明。",
+   "fact": "信封藏在旧红 T 恤里、抽屉最深处。",
+   "anchor": "",
+   "start": 0,
+   "end": 0
+  },
+  {
+   "fact": "她没有满足他索要内裤的要求。",
+   "anchor": "Emily hadn’t indulged his other request.",
+   "start": 2351,
+   "end": 2391
+  },
+  {
+   "fact": "妻子已像家具。",
+   "anchor": "She had become like the furniture.",
+   "start": 3027,
+   "end": 3061
+  },
+  {
+   "fact": "打算只露一面当不在场证明。",
    "anchor": "He’d show up for just long enough to be witnessed by several friends.",
    "start": 4356,
    "end": 4425
   },
   {
-   "fact": "两人买了第一部手机却都不会用，手机仍装在厨房柜子的盒子里。",
-   "anchor": "but neither had yet figured out how to use it and it still lay in its box in a kitchen cupboard.",
-   "start": 6064,
-   "end": 6160
-  },
-  {
-   "fact": "Angela 那句“至少你来了”刺到他，因为 Gloria 才是这段婚姻里的主角。",
-   "anchor": "Gloria was the main attraction in their marriage.",
-   "start": 7165,
-   "end": 7214
-  },
-  {
-   "fact": "八点半他被律师的话困住，随后不编完借口就转身走向门口。",
-   "anchor": "‘I’m just going to …’ he trailed off, not bothering to finish his excuse before he turned his back on the lawyer and made for the door.",
-   "start": 8831,
-   "end": 8966
-  },
-  {
-   "fact": "8:47 他一边赶路一边低声求 Emily 还在家、还在等他。",
-   "anchor": "It was 8.47 p.m. ‘Please,’ he murmured, ‘let her still be home. Let her be waiting for me.’",
+   "fact": "8:47 他低声祈祷她还在家。",
+   "anchor": "It was 8.47 p.m. ‘Please,’ he murmured, ‘let her still be home.",
    "start": 9777,
-   "end": 9868
+   "end": 9840
   }
  ]
 }

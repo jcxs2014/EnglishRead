@@ -4,52 +4,52 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch10_chapter_9.txt",
  "facts": [
   {
-   "fact": "JJ 与 Alice 争吵后冲出门，公寓一直很安静，Matty 独自坐在厨房桌边。",
-   "anchor": "Matty sat alone at the kitchen table. The flat had been quiet since JJ stormed out after his argument with Alice.",
-   "start": 27,
+   "fact": "JJ 与 Alice 吵架后冲出公寓。",
+   "anchor": "The flat had been quiet since JJ stormed out after his argument with Alice.",
+   "start": 65,
    "end": 140
   },
   {
-   "fact": "Emily 欠 Matty 八百多英镑，其中一部分是他零散借给她的小额款项。",
-   "anchor": "She also owed him more than £800. Some of it he had given in small loans here and there",
+   "fact": "Emily 欠 Matty 八百多英镑。",
+   "anchor": "She also owed him more than £800.",
    "start": 1527,
-   "end": 1614
+   "end": 1560
   },
   {
-   "fact": "Emily 说她要和历史课同学出去喝酒，Matty 决定熬夜等她回来。",
-   "anchor": "He decided he’d wait up for her, why not? She’d said she was going out for some drinks",
-   "start": 2015,
-   "end": 2101
+   "fact": "Emily 说去和历史课同学喝酒。",
+   "anchor": "She’d said she was going out for some drinks with mates from her History course",
+   "start": 2057,
+   "end": 2136
   },
   {
-   "fact": "刚过午夜，Emily 的钥匙转动门锁，门一开他就知道是她而不是 JJ。",
-   "anchor": "Just after midnight, her key turned in the lock. As soon as the front door opened he knew it was her and not JJ.",
+   "fact": "午夜刚过 Emily 回家。",
+   "anchor": "Just after midnight, her key turned in the lock.",
    "start": 3141,
-   "end": 3253
+   "end": 3189
   },
   {
-   "fact": "Emily 说话有点含糊，Matty 却喜欢她喝醉的样子，觉得那样她更亲近、更愿意向他敞开。",
-   "anchor": "She was slightly slurring her words, but he liked her when she was drunk. It made her more intimate and open to him.",
-   "start": 3483,
-   "end": 3599
-  },
-  {
-   "fact": "她回答时移开视线，Matty 认为这是人说谎时的反应，并追问她在隐瞒什么。",
-   "anchor": "She averted her eyes when she gave it, which he knew people did when they lied. What was she hiding from him?",
+   "fact": "她回答时移开目光，他认定她在说谎。",
+   "anchor": "She averted her eyes when she gave it, which he knew people did when they lied.",
    "start": 3743,
-   "end": 3852
+   "end": 3822
   },
   {
-   "fact": "Emily 回给他的眼神让他受不了：空白、没有笑意、不为所动，他只好把它解释成分心。",
-   "anchor": "The look she gave him crushed him. Blank, unamused, unimpressed. She seemed distracted, that was what it was",
+   "fact": "他讲起 JJ 指控 Alice 看上 Emily 的那段。",
+   "anchor": "he rushed on to the part where JJ accused Alice of fancying Emily",
+   "start": 4119,
+   "end": 4184
+  },
+  {
+   "fact": "她给他的眼神把他压垮，随后起身回房。",
+   "anchor": "The look she gave him crushed him.",
    "start": 4254,
-   "end": 4362
+   "end": 4288
   },
   {
-   "fact": "Matty 懊悔自己提了钱，认为他把牌打过头，而 Emily 因此惩罚了他。",
-   "anchor": "Shouldn’t have mentioned the money. He had overplayed his hand and she’d punished him for it.",
+   "fact": "他后悔不该提到钱。",
+   "anchor": "Shouldn’t have mentioned the money.",
    "start": 4516,
-   "end": 4609
+   "end": 4551
   }
  ]
 }

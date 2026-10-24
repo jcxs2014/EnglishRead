@@ -4,52 +4,64 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch04_chapter_3.txt",
  "facts": [
   {
-   "fact": "Olivia 一边跟 YouTube 教程画烟熏妆，一边在心里说\"太典型了\"。",
-   "anchor": "So typical, thought Olivia, as she attempted a smokey eye while watching a YouTube tutorial.",
-   "start": 59,
-   "end": 151
+   "fact": "Elliot 喜欢 Millie。",
+   "anchor": "Elliot liked Millie, of course he did.",
+   "start": 20,
+   "end": 58
   },
   {
-   "fact": "Olivia 让灯一直亮着，向可能闯进来的人示意屋里有人。",
-   "anchor": "She kept a lamp on at all times, to signal to would-be intruders that someone was home.",
-   "start": 1133,
-   "end": 1220
+   "fact": "Olivia 连续三晚没睡好，整夜开灯。",
+   "anchor": "Olivia hadn’t slept well for the past three nights.",
+   "start": 696,
+   "end": 747
   },
   {
-   "fact": "Elliot 初次见面后已多次给 Millie 发消息；Olivia 很难掩饰自己的沮丧。",
-   "anchor": "He had messaged Millie several times since their first encounter. Olivia had struggled to conceal her dismay.",
-   "start": 1722,
-   "end": 1831
-  },
-  {
-   "fact": "Olivia 对朋友含糊提到的\"前任\"其实只是 Year 12 亲过三次的 Benji Starling。",
+   "fact": "她能说的\"前任\"只有 Year 12 亲过三次的 Benji Starling。",
    "anchor": "There was only Benji Starling, who she’d kissed three times in Year 12.",
    "start": 2259,
    "end": 2330
   },
   {
-   "fact": "那一夜她僵躺在对方的单人床上，直到凌晨 2:25。",
+   "fact": "她唯一一次性经历后僵躺到凌晨 2.25 再找借口离开。",
    "anchor": "she lay stiffly beside him on his single bed until 2.25 a.m.",
    "start": 3289,
    "end": 3349
   },
   {
-   "fact": "Elliot 在酒吧说 Emily 与一名讲师有婚外情，并称这是继兄告诉他的。",
+   "fact": "Bella 说酒吧两英里多，是 Bella 订的车并付钱",
+   "anchor": "‘It’s more than two miles away,’ snapped Bella",
+   "start": 5238,
+   "end": 5284
+  },
+  {
+   "fact": "室友们从未当面提过 Emily 的名字。",
+   "anchor": "Emily Pierce, to whom none of them had referred by name even once, had cast an unsettling shadow over the flatshare.",
+   "start": 5464,
+   "end": 5580
+  },
+  {
+   "fact": "Elliot 认识 Millie 才三天就叫她 Mills。",
+   "anchor": "He’d known her for about three days.",
+   "start": 9808,
+   "end": 9844
+  },
+  {
+   "fact": "Elliot 转述继兄：Emily 与一名讲师有婚外情。",
    "anchor": "‘OK, so this girl – Emily, was it? – was having an affair with a lecturer. That’s what my stepbrother said.",
    "start": 11349,
    "end": 11456
   },
   {
-   "fact": "Elliot 说死者房间的碎玻璃落在被翻乱的物品上面，而不是下面。",
-   "anchor": "the broken glass from the window was on top of her messed-up stuff, not underneath it",
+   "fact": "碎玻璃落在被翻乱的物品上面而非下面。",
+   "anchor": "the broken glass from the window was on top of her messed-up stuff, not underneath it.",
    "start": 12327,
-   "end": 12412
+   "end": 12413
   },
   {
-   "fact": "章末 Olivia 决定查清自己房间里当年究竟发生了什么，并验证 Elliot 说的是不是真话。",
-   "anchor": "She would work out what had really happened in her room. Find out if Elliot was telling the truth.",
+   "fact": "章末 Olivia 决定查清自己房间里发生的真相。",
+   "anchor": "She would work out what had really happened in her room.",
    "start": 13356,
-   "end": 13454
+   "end": 13412
   }
  ]
 }

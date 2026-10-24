@@ -4,64 +4,52 @@
  "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch24_chapter_23.txt",
  "facts": [
   {
-   "fact": "Kate 付了咖啡、贝果和 Elliot 没动的食物后走到外面；她已经感觉不到冷，因为她手上有了线索。",
-   "anchor": "She no longer noticed the cold, no longer noticed anything, because she now had something to go on.",
-   "start": 119,
-   "end": 218
-  },
-  {
-   "fact": "Kate 现在知道 Olivia 不仅住过 Emily 的房子，还住同一间前排卧室——Emily 就是在那里被杀。",
+   "fact": "Olivia 住的正是 Emily 被杀的那间前卧室。",
    "anchor": "Olivia Kavanagh, she now knew, had not only lived in Emily Pierce’s house but occupied the same bedroom, the one at the front in which Emily was killed.",
    "start": 771,
    "end": 923
   },
   {
-   "fact": "Elliot 承认他替 Olivia 把写给 Dr Aiden Berkeley 的邮件写完并背着 Olivia 发了出去。",
-   "anchor": "Elliot had told her he’d completed the email and sent it behind her back.",
+   "fact": "Elliot 承认代发邮件，自称恶作剧。",
+   "anchor": "Elliot had told her he’d completed the email and sent it behind her back. A thoughtless moment of mucking about, he’d said.",
    "start": 1182,
-   "end": 1255
+   "end": 1305
   },
   {
-   "fact": "Elliot 说 Emily 的事是他告诉 Millie、Millie 再传给别人；他把 Olivia 的死也揽到自己身上。",
-   "anchor": "It was me who told them about Emily. Well, I told Millie, and she told the others. And now Olivia’s dead.",
-   "start": 2714,
-   "end": 2819
+   "fact": "Emily 的事是他先告诉 Millie 的。",
+   "anchor": "‘It was me who told them about Emily. Well, I told Millie, and she told the others. And now Olivia’s dead.’",
+   "start": 2713,
+   "end": 2820
   },
   {
-   "fact": "Kate 要到 Elliot 的电话号码，并答应不把他说的话告诉别人。",
+   "fact": "要来号码并承诺不外传。",
    "anchor": "She persuaded him to give her his number and promised not to repeat anything he’d told her.",
    "start": 2932,
    "end": 3023
   },
   {
-   "fact": "Kate 决定暂不报警：她不愿把自己的线索和潜在独家交给警方。",
-   "anchor": "It wasn’t in her interest to go to the police with this, not for the meantime. She didn’t trust them with her lead, her potential exclusive.",
+   "fact": "暂不报警，保住独家。",
+   "anchor": "It wasn’t in her interest to go to the police with this, not for the meantime.",
    "start": 3394,
-   "end": 3534
+   "end": 3472
   },
   {
-   "fact": "Kate 推断 Aiden Berkeley 已不在 Leeds，因为 Elliot 说那是 Cardiff University 的邮箱。",
-   "anchor": "Elliot said it was a Cardiff University email address, so I’m guessing not.",
-   "start": 5708,
-   "end": 5783
+   "fact": "Smith 提醒 Elliot 是自认的恶作剧者。",
+   "anchor": "",
+   "start": 0,
+   "end": 0
   },
   {
-   "fact": "Kate 提议自己溜去 Cardiff 直接找那位教授，并对同行和报社都保密。",
-   "anchor": "How about I slip off to Cardiff, go knock the pervy prof and see what he has to say for himself? We’ll keep it on the down-low.",
-   "start": 6390,
-   "end": 6517
+   "fact": "提议溜去 Cardiff 找\"变态教授\"。",
+   "anchor": "‘How about I slip off to Cardiff, go knock the pervy prof and see what he has to say for himself?",
+   "start": 6389,
+   "end": 6486
   },
   {
-   "fact": "她在公开场合只用手尖碰他的手臂，心里想自己真的可能爱上他。",
-   "anchor": "She hoped no one was watching. She really could fall in love with him, she decided.",
-   "start": 7706,
-   "end": 7789
-  },
-  {
-   "fact": "章末她开车去 Cardiff，完全没有想到要担心见 Aiden Berkeley 这件事。",
-   "anchor": "It did not occur to her to worry about meeting Aiden Berkeley.",
-   "start": 9905,
-   "end": 9967
+   "fact": "对同行与报社都保密。",
+   "anchor": "Not just from the rest of the pack, but from the desk as well.’",
+   "start": 6518,
+   "end": 6581
   }
  ]
 }
