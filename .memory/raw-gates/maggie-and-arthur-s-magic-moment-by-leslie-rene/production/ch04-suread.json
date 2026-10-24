@@ -1,0 +1,55 @@
+{
+ "book": "maggie-and-arthur-s-magic-moment-by-leslie-rene",
+ "chapter": "ch04",
+ "text": "notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch04_chapter_four.txt",
+ "facts": [
+  {
+   "fact": "办公室门口站着 Arthur Taliesin——屋里太挤他进不来；Maggie 的脸红到了新的高度，脑子里只剩「Dr. Linden，不是 Maggie」。",
+   "anchor": "She turned and there was Arthur Taliesin, his eyebrows arched.",
+   "start": 15,
+   "end": 77
+  },
+  {
+   "fact": "贵妃榻保卫战：她拒绝撤掉沙发——它让比公寓待得还久的办公室像个家，更让学生求助时不再拘束；Taliesin 冷面追问「你在这儿经常晕倒吗」。",
+   "anchor": "“No, it wouldn’t. That is my fainting couch, and I won’t be getting rid of it,” she insisted.",
+   "start": 3758,
+   "end": 3851
+  },
+  {
+   "fact": "他的桌子挤在窗下、比儿童家具还小；她指着一缕阳光自称「慷慨」，他干答「Generous」——第一个冷场笑话。",
+   "anchor": "“See,” Maggie said, gesturing toward the sunbeam. “I’m being generous. You’re getting the only sun this room will see over the next twenty-four hours. You’re welcome.”",
+   "start": 5654,
+   "end": 5821
+  },
+  {
+   "fact": "同室办公她只撑了整整 37 分钟：翻包、批卷、抖脚，样样都是干扰；她丢下一句「出门锁门」就走。",
+   "anchor": "Maggie lasted exactly thirty-seven minutes.",
+   "start": 5957,
+   "end": 6000
+  },
+  {
+   "fact": "她不敢当面质问预算被砍的事：一想到要为自己苦心经营的学术辩护就想哭；男人们怎么评价发怒落泪的女人她见识过——她拒绝在 Taliesin 面前哭。",
+   "anchor": "She knew from experience what men thought of women who cried out of anger.",
+   "start": 6995,
+   "end": 7069
+  },
+  {
+   "fact": "院长推牌：申请人数多年下滑后今年涨了三倍，全靠 Taliesin 镇场；Maggie 读出弦外之音——她的 tenure 悬于这位「著名酸味炼金术师」的心情。",
+   "anchor": "Enrollment at Hawthorn has been down for years, but this year we saw a threefold increase in applicants.",
+   "start": 10942,
+   "end": 11046
+  },
+  {
+   "fact": "她问为何不换更好的办公室：院长说 Taliesin 拒绝了 Ferox Hall 的空套间——不愿受特殊待遇，也不愿让学生多跑路；她只能挤出一句「我们会搞定的」。",
+   "anchor": "“He didn’t want to receive any kind of special treatment or inconvenience his students by making them walk all the way to the administration building.”",
+   "start": 12057,
+   "end": 12208
+  },
+  {
+   "fact": "结尾：院长一走，Maggie 伏案用手臂挡住光，叹了口气。",
+   "anchor": "When he was out of sight, Maggie put her head down on the desk, letting her arms block out the light, and sighed.",
+   "start": 12603,
+   "end": 12716
+  }
+ ]
+}
