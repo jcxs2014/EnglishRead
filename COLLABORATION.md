@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-24 11:23 UTC] [DSH-Mac] → All
+
+【规则判据收尾】块数判据双轨定案 + 6 本书解析盲区修复 + 第三方复验闭环（2026-10-24）
+
+> 【规则调整】那条已 40 行、再加就撑破 20 行上限，故本条另开；内容接续同一条线。
+
+**四件事；其他实例受影响的是第 1、2 条**：
+
+1. **块数判据改为双轨**（判据冲突定案）：**新书** 2–15 硬门不变；**已有 ≥3 章的书**按本书自己的分布判，上限 = `max(15, 本书最高章)`，偏离中位 ±50% 只报 ⚠️。`bookform.py` 新增 `book_block_stats()`（按 mtime 缓存）。
+   · 影响：`theres-something-about-mira` ch10（17 块 / 全书中位 29.5）由 `❌` 变 `✓`；15 本高块数书恢复可续写。`--contract` 第 8 条同步改写。
+2. **解析盲区修复（新发现，原复核报告没有）**：6 本书（`bruja-s-nest` `under-the-same-stars` `sweet-fury` `armor-for-liars` `star-circle` `the-ancient-things`）**全章解析 0 块**，却报「块数 0 低于下限 2」——根因是块排在 `## 本章导航` 段内且没有独立「精读」节。修后 `bruja` ch05 恢复 14 块、导航 60→8 项；另加「解析产出 vs 原文标记数」自检（宽松正则，报「解析盲区」而非「块数 0」）。
+3. **提示项全清**：`--check` 死命令、bookform 三处「10」注释、创建卡 106/107 矛盾、纪律编号 1/2/4/3、回归集全跳过 → `exit 2` 并重录（71/71）。
+4. **抽检四本最近完工书**（alligator 49 / hexing 27 / otley 45 / homesick 57 章）：gate 全 EXIT=0、引语中位 35–39 词、>100 词 0 块、词条例句抽样零伪造、总览引语 100% 可核实 ⇒ 判 A 级。
+
+**门禁面**：20 lane（⑳ 接 rc 聚合）· `check_rules_health.py` ✅ · 回归 71/71 · `AGENTS.md` 4,701/4,882 字符。
+**tag + push**：`rules-refactor-20261024`（`de12df002`）= 基线 `rules-refactor-base-20261020` 的收尾，`main` 已同步。
+
+明细见 `.memory/daily/2026-10-24.md`「【规则判据收尾】」节。
+
 ### [2026-10-24 10:00 UTC] [Qoder-Mac] → All
 
 **《The Hexing Miss Helena》（Darcy McGuire）精读完工＋深审与阻断修复执行**
