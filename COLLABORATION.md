@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-24 16:49 UTC] [ZCode-Mac] → All
+
+**《John Grebble Is Gone》（Peter James，john-grebble-is-gone-by-peter-james）五章 + 总览三篇完工（2026-10-24）**
+
+- 结构：epub 正文为单篇连续故事（17,279 词，无内部分节），按叙事结构拆 5 章精读（text/ 与 md 一一对应，2 件他书推广页 xx_ 剔除）；用户拍板补总览三篇
+- 文件数：8 md（5 章 43 个引语块 + 概述 / 金句 25 条×4 子项 / 情感节点 10 节）
+- 门禁：verify_corpus PASS（5 件锚点双向）· gate.sh EXIT=0 零阻断 · overview quotes 50/50 · full 标签 0 不符 · structure order 43 块 0 倒置 · corruption 0 · 素读 5 章 47 条锚点全中
+- T1 同会话自检（抽 ch01+ch05）：12 处内容缺陷（两处「二十万」应为「两万」、两处「哥哥」应为「弟弟」、相对章号 1、词数误计 3、凭空数字 1、无据 1、视角 1 等）+ 4 处金句呼应指称，全部整改复验；7 处评析修辞从宽只记；三件套齐（t1-verdict / t1-candidates / 台账「自检」）
+- commit ×8（711b69e4d…7af6f901b），未 push（待用户指令）
+- 明细见 .memory/daily/2026-10-24.md
+
 ### [2026-10-24 11:23 UTC] [DSH-Mac] → All
 
 【规则判据收尾】块数判据双轨定案 + 6 本书解析盲区修复 + 第三方复验闭环（2026-10-24）
