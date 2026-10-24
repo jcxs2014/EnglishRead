@@ -1,0 +1,55 @@
+{
+ "book": "a-labyrinth-of-honeybees-by-fawcett-heather",
+ "chapter": "ch05",
+ "text": "notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/text/ch05_the_attack_at_the_falls.txt",
+ "facts": [
+  {
+   "fact": "在瀑布边，审问官先致歉说在这里谈更尊重她，随后转达王命：若她拒绝合作，国王准许他把花园烧成平地。",
+   "anchor": "the king has said that I may burn your gardens to the ground",
+   "start": 965,
+   "end": 1025
+  },
+  {
+   "fact": "她发现一只蜜蜂从自己袖口爬出、像一枚毛戒指一样停在指节上，抬头时看见审问官脸上映着自己的恐惧。",
+   "anchor": "a bee had emerged from beneath my sleeve",
+   "start": 1768,
+   "end": 1808
+  },
+  {
+   "fact": "身中一箭的审问官先把插在自己躯干上的箭拔出、再射出去，那名女弓手喉咙中箭倒下。",
+   "anchor": "he pulled the arrow from himself and fired it",
+   "start": 5523,
+   "end": 5568
+  },
+  {
+   "fact": "神庙内是一间乱而亮的厨房，王的继承人站在桌边剁桃子，嘴里塞满东西。",
+   "anchor": "At the table stood the king’s heir, chopping peaches with her mouth full.",
+   "start": 9088,
+   "end": 9161
+  },
+  {
+   "fact": "她一边抓蜂蜜和草药一边辩解不是自己干的，抱怨人人都当她是狠心的杀手；女神觉得有趣地反问\"因为你本来就是\"，而她已几个月没听见女神说话。",
+   "anchor": "Why does everyone think I’m some hardened killer?",
+   "start": 9947,
+   "end": 9996
+  },
+  {
+   "fact": "继承人平静地道出怀疑：国王派刺客杀掉自己的税吏，再把这桩罪栽给女神，以此为由毁掉这座花园。",
+   "anchor": "the king sent assassins here with orders to murder his own tax collectors",
+   "start": 13308,
+   "end": 13381
+  },
+  {
+   "fact": "伤重的审问官装睡，趁继承人转身取药时抽出匕首划向她的喉咙，只因叙述者还缠在绷带里拽了他一下才没杀死她。",
+   "anchor": "His stillness was not weakness, but the instinct of a predator.",
+   "start": 17132,
+   "end": 17195
+  },
+  {
+   "fact": "森林神借审问官之身与女神对话，说她从此会被他恨到底、永不休止，女神则回\"你会管住他\"。",
+   "anchor": "Oh, how he shall hate you after this!",
+   "start": 20788,
+   "end": 20825
+  }
+ ]
+}
