@@ -185,11 +185,18 @@ def chapter_no(path: Path) -> int | None:
 def parse_md(path: Path) -> dict:
     txt = path.read_text(encoding="utf-8", errors="replace")
     h1, nav, blocks = "", [], []
-    in_nav = in_body = False
+    lines = txt.splitlines()
+    # 有书没有「## 精读」节，块直接挂在顶层。此前一律要求「精读」字样在标题里，
+    # 这类书会解析出 **0 块** 而报告写「块数 0 低于下限」——理由错，修法也错
+    # （2026-10-24 复核发现 6 本：bruja-s-nest / under-the-same-stars / sweet-fury /
+    #   armor-for-liars / star-circle / the-ancient-things）。
+    has_body_sec = any(ln.startswith("## ") and "精读" in ln for ln in lines)
+    in_nav = False
+    in_body = not has_body_sec          # 无显式精读节 ⇒ 全文都按正文收
     cur: dict | None = None
     cur_sub: str | None = None
 
-    for ln in txt.splitlines():
+    for ln in lines:
         if not h1:
             m = H1_RE.match(ln)
             if m:
@@ -197,14 +204,17 @@ def parse_md(path: Path) -> dict:
                 continue
         if ln.startswith("## "):
             in_nav = "导航" in ln
-            in_body = "精读" in ln
+            in_body = True if not has_body_sec else ("精读" in ln)
             cur, cur_sub = None, None
             continue
         if in_nav:
             m = NAV_RE.match(ln)
             if m:
                 nav.append(m.group(1).strip())
-            continue
+            if has_body_sec:
+                continue
+            # 没有独立的「精读」节时，块常直接排在「本章导航」之后 ⇒ 不能整段跳过。
+            # 导航行本身不会误收：此时 cur 还是 None，下面的正文解析会忽略它们。
         if not in_body:
             continue
         if ln.startswith("### "):
@@ -224,7 +234,8 @@ def parse_md(path: Path) -> dict:
         if cur is None:
             continue
         if ln.strip() == "---":
-            cur, cur_sub = None, None
+            # 分隔线也结束导航区，否则后面所有 `**字段**：` 都会被数成导航项
+            cur, cur_sub, in_nav = None, None, False
             continue
         m = SUB_RE.match(ln)
         if m:
@@ -235,7 +246,13 @@ def parse_md(path: Path) -> dict:
         if cur_sub and ln.strip():
             cur["subs"][cur_sub] += " " + ln.strip()
 
-    return {"path": path, "h1": h1, "nav": nav, "blocks": blocks}
+    # 一致性自检：原文里明明有「原句 N」行，却一个块都没解析出来 ⇒ 解析盲区。
+    # 用**宽松**模式数「原句行」：块头写法坏了（如 `> 原句 1：`）也算，
+    # 否则盲区自检和解析器用的是同一个正则，一起瞎。
+    RAW_QUOTE_RE = re.compile(r"^\s*>\s*\**\s*原句\s*\d+")
+    raw_quote_lines = sum(1 for ln in lines if RAW_QUOTE_RE.match(ln))
+    blind = raw_quote_lines if (raw_quote_lines and not blocks) else 0
+    return {"path": path, "h1": h1, "nav": nav, "blocks": blocks, "blind": blind}
 
 
 def h1_shape(h1: str) -> str:
@@ -504,7 +521,9 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
             bcount_bad.append(f"块数 {n_blocks} 低于下限 {MIN_BLOCKS}（{basis}）")
         elif not (lo <= n_blocks <= hi):
             bcount_hint = f"块数 {n_blocks} 偏离本章篇幅建议 {lo}–{hi}（本章 {words} 词）"
+        hi_eff = MAX_BLOCKS
 
+    res["block_limit"] = {"lo": MIN_BLOCKS, "hi": hi_eff, "basis": basis}
     nav_n = len(d["nav"])
     res["form"] = {
         "h1": d["h1"],
@@ -530,6 +549,16 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
                      "keyword_long": len(kw_long), "hole": len(hole_bad),
                      "block_count": len(bcount_bad), "words": words,
                      "block_target": [lo, hi], "block_hint": bcount_hint}
+    if d.get("blind") and not n_blocks:
+        # 原文有「原句 N」行却解析出 0 块：这是解析盲区，不是「块数 0」。
+        # 报成「低于下限 2」会把修的人引向完全错误的动作（2026-10-24 复核）。
+        res["verdict"] = "blocked"
+        res["reason"] = (f"解析盲区：本章 {d['blind']} 个「原句 N」块未被解析"
+                         f"（检查块头是否为 `> **原句 N:** \"…\"`，或是否缺分隔）")
+        res["block_limit"] = {"lo": MIN_BLOCKS, "hi": MAX_BLOCKS, "basis": "解析失败，块数判据不成立"}
+        res["issues"] = {"struct": [], "empty_quote": [], "keyword": [],
+                         "block_count": [res["reason"]], "quote_long": [], "chinese": []}
+        return res
     res["issues"] = {"struct": struct_bad, "empty_quote": empty_quote,
                      "keyword": kw_bad, "cjk": cjk_bad, "quote_long": long_q,
                      "template": tpl_bad, "keyword_long": kw_long, "hole": hole_bad,
@@ -651,7 +680,9 @@ def print_check(r: dict) -> None:
     c = r["counts"]
     print(f"  语料：{r['corpus']}")
     lo, hi = c.get("block_target") or (MIN_BLOCKS, MAX_BLOCKS)
-    print(f"  块数 {c['blocks']}（本章 {c['words']} 词，建议 {lo}–{hi} 块；硬限 {MIN_BLOCKS}–{MAX_BLOCKS}）")
+    bl = r.get("block_limit") or {"lo": MIN_BLOCKS, "hi": MAX_BLOCKS, "basis": ""}
+    print(f"  块数 {c['blocks']}（本章 {c['words']} 词，建议 {lo}–{hi} 块；"
+          f"硬限 {bl['lo']}–{bl['hi']}｜{bl['basis']}）")
     for e in (r["issues"].get("block_count") or []):
         print(f"    ❌ 块数：{e}")
     if c.get("block_hint"):
