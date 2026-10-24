@@ -1,0 +1,55 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch24",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch24_to_bring_the_moonlight_into_a_chamber.txt",
+ "facts": [
+  {
+   "fact": "下雨天 Clare 站在 Pilsen 一栋巨大仓库楼门口的金属防盗门前，撑着伞在住户名单里找不到 Beck 的名字，只得打电话叫她下来。",
+   "anchor": "I hunch under my umbrella on the sidewalk in front of a gray metal security door",
+   "start": 123,
+   "end": 203
+  },
+  {
+   "fact": "Beck 先按指纹感应，再让虹膜扫描仪认眼，门锁才咔哒打开；她把这间工作室称作「失魂者博物馆」。",
+   "anchor": "then stares into an iris scanner, and the locks click open",
+   "start": 610,
+   "end": 668
+  },
+  {
+   "fact": "工作室一角立着一个约十二英尺高的半球形装置，由互相垂直交错的金属环构成，环上装了许多朝内的摄像头，地面中央用银色胶带贴了一个 X。",
+   "anchor": "It’s a half sphere, about twelve feet high",
+   "start": 1256,
+   "end": 1298
+  },
+  {
+   "fact": "Beck 掀开罩着的塑料袋，露出一个发条脑袋：齿轮、线路板、瓷片拼成，眼窝是两枚摄像头，颌骨挂着弹簧与假牙。",
+   "anchor": "I squeeze my eyes shut, then cautiously open one",
+   "start": 4259,
+   "end": 4307
+  },
+  {
+   "fact": "Beck 说自己造的不是儿童 AI，而是在验证图灵「儿童机器」的设想：先给一个简单机器一个童年，让它像孩子一样学，目标是能通过图灵测试并懂得美。",
+   "anchor": "I’m testing Alan Turing’s Child Machine theory",
+   "start": 8194,
+   "end": 8240
+  },
+  {
+   "fact": "Beck 认为真正的美不属于精英，她要 Isadora 能爱、能在人不会留意之处发现美与善，并把这句话当作整个设计的支点。",
+   "anchor": "To find something beautiful is to begin to love",
+   "start": 9215,
+   "end": 9262
+  },
+  {
+   "fact": "Clare 戴上头显进入 Beck 的虚拟博物馆，先站在底特律艺术学院的庭院里看里维拉的工业壁画，随后被带进放着一幅失窃维米尔的卢浮宫小侧厅，最后回到艺术学院那间日本画廊，并走上墙与天花板。",
+   "anchor": "we’re in the Detroit Institute of Arts, in the large courtyard",
+   "start": 12112,
+   "end": 12174
+  },
+  {
+   "fact": "回到家 Alba 与 Kimy 正在烤曲奇，Clare 对 Alba 唱起「野东西」，又对 Kimy 说自己就是个野东西，卷起袖子洗碗时还在唱。",
+   "anchor": "“I’m a wild thing,” I tell her",
+   "start": 17477,
+   "end": 17507
+  }
+ ]
+}
