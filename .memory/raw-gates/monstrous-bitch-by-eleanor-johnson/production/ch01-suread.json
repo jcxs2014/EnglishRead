@@ -1,0 +1,61 @@
+{
+ "book": "monstrous-bitch-by-eleanor-johnson",
+ "chapter": "ch01",
+ "text": "notes/books/non-fiction/monstrous-bitch-by-eleanor-johnson/text/ch01_preface.txt",
+ "facts": [
+  {
+   "fact": "作者 Eleanor Johnson 自述 1979 年生于纽约市；她把自己出生在此时此地视为女性史上的幸运。",
+   "anchor": "I was born in New York City in 1979.",
+   "start": 69,
+   "end": 105
+  },
+  {
+   "fact": "她自陈若生在欧洲中世纪女性身上，几乎必然不识字、不上学，法律权利极其有限，且很可能死于分娩。",
+   "anchor": "In all likelihood, I would have been illiterate.",
+   "start": 3774,
+   "end": 3822
+  },
+  {
+   "fact": "近年生出的新情绪：原先的感恩正在变成恐惧——美国及全球许多女性正处在一个「倒退的时代」。",
+   "anchor": "It’s the feeling of that gratitude morphing into fear.",
+   "start": 6187,
+   "end": 6241
+  },
+  {
+   "fact": "这一恶化逆流而行：它违背了约七百年间女性处境缓慢改善的大趋势。",
+   "anchor": "That deterioration bucks a trend that’s about seven hundred years old, in which things have slowly been getting better for women.",
+   "start": 6421,
+   "end": 6550
+  },
+  {
+   "fact": "她给出全书核心定义的前半：父权最怕女性的攻击性、性、生育力与声音。",
+   "anchor": "Patriarchy has feared women’s aggression, women’s sexuality, women’s reproductive power, and women’s voices.",
+   "start": 8539,
+   "end": 8647
+  },
+  {
+   "fact": "定义的后半：这四项特征集于同一女性形象一身时，在父权眼中她就成了 Monstrous Bitch。",
+   "anchor": "When those characteristics coexist in a single female figure, she becomes a Monstrous Bitch in the eyes of Patriarchy.",
+   "start": 8648,
+   "end": 8766
+  },
+  {
+   "fact": "恐惧链条的起点与扩散：古美索不达米亚 → 古希腊 → 古罗马更多 → 现代西方文化全盘继承。",
+   "anchor": "Indeed, Patriarchy has energized cultural fears of the Monstrous Bitch since ancient Mesopotamia, gaining momentum in ancient Greece and yet more in ancient Rome; modern Western cultures have inherited those ancient fears whole-cloth, reinventing them and revising them in clear and damaging ways over the centuries and millennia.",
+   "start": 8767,
+   "end": 9097
+  },
+  {
+   "fact": "核心命题：Monstrous Bitch 不是真实存在，而是父权的涌现属性，与父权同步演化。",
+   "anchor": "the Monstrous Bitch is not a real entity but rather an emergent property of Patriarchy, and she evolves in lockstep with that Patriarchy",
+   "start": 11254,
+   "end": 11390
+  },
+  {
+   "fact": "她预告 1970s 以来部分文艺作品把 Monstrous Bitch 从怪物改写为抵抗与生存的图标。",
+   "anchor": "Sometimes, that is, the Monstrous Bitch gets recoded not as a monster but as a heroine.",
+   "start": 12544,
+   "end": 12631
+  }
+ ]
+}
