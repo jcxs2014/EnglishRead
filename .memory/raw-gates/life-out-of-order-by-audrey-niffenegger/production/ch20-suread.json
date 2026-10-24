@@ -1,0 +1,55 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch20",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch20_tiny_violin_lessons.txt",
+ "facts": [
+  {
+   "fact": "Alba 三岁起被祖父拉去学小提琴，第一把是十分之一尺寸的琴，声音像吱吱叫的玩具，她厌恶它",
+   "anchor": "My grandfather gave me violin lessons, starting when I was three",
+   "start": 136,
+   "end": 200
+  },
+  {
+   "fact": "六岁那年一次课上祖父对她失去耐心、大声吼她，她一路哭回家",
+   "anchor": "my grandfather lost his patience with me during a lesson and yelled",
+   "start": 1157,
+   "end": 1224
+  },
+  {
+   "fact": "母亲对她说不想拉就可以不拉，她坐在卧室里盯着琴盒里的琴，满心憎恨",
+   "anchor": "If you don’t want to play, you don’t have to",
+   "start": 1382,
+   "end": 1426
+  },
+  {
+   "fact": "成年的 Alba 回到六岁那天，借巴赫《D 小调第二帕蒂塔》的美把年幼的自己留住",
+   "anchor": "the future beauty of the Bach partita to catch my little self",
+   "start": 3474,
+   "end": 3535
+  },
+  {
+   "fact": "两人即兴合奏到笑停不下来，只要还在拉琴，悲伤就被暂时卸下",
+   "anchor": "relieved of grief for as long as we can keep playing",
+   "start": 8620,
+   "end": 8672
+  },
+  {
+   "fact": "她要母亲另请一位懂教学法的老师，并在黄纸上写下 Terryl D. Lane 的电话",
+   "anchor": "I write Terryl D. Lane and his phone number",
+   "start": 10983,
+   "end": 11026
+  },
+  {
+   "fact": "她与 Terryl 初遇时他正在密歇根大道街头卖艺，拉的是比贝尔的 G 小调帕萨卡利亚",
+   "anchor": "He was playing Biber’s Passacaglia in G Minor",
+   "start": 11345,
+   "end": 11390
+  },
+  {
+   "fact": "一年后 Clare 在 Henry 的旧卧室等课结束，Richard 正教 Alba 一首叫《镜子》的二重奏",
+   "anchor": "Richard is teaching Alba an ingenious duet called “Der Spiegel”",
+   "start": 16675,
+   "end": 16738
+  }
+ ]
+}
