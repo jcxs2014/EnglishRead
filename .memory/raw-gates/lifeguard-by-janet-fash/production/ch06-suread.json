@@ -1,0 +1,55 @@
+{
+ "book": "lifeguard-by-janet-fash",
+ "chapter": "ch06",
+ "text": "notes/books/novels/lifeguard-by-janet-fash/text/ch06_chapter_six_1985.txt",
+ "facts": [
+  {
+   "fact": "1985 年 8 月一个浪大的日子，人手不够，作者（中尉）决定把 97 街与 96 街两把椅子拆开，由一名资深救生员来回顶岗。",
+   "anchor": "I decided to split the chairs",
+   "start": 1008,
+   "end": 1037
+  },
+  {
+   "fact": "一个救生员刚扑回 97 街的椅子上，水里的男孩就被强离岸流卷走，头像气球一样飞出水面。",
+   "anchor": "his head looked like a balloon flying out",
+   "start": 1504,
+   "end": 1545
+  },
+  {
+   "fact": "分守两把椅子的资深救生员 Whitey 当时站在 96 街椅子旁，看见男孩后当场大喊，但已经来不及。",
+   "anchor": "Whitey, the senior lifeguard splitting the chairs",
+   "start": 1547,
+   "end": 1596
+  },
+  {
+   "fact": "作为中尉的作者不能亲自下水，只能留在岸上用对讲机报警，向警方通报已确认有人被水淹没。",
+   "anchor": "I had to stay behind and radio the police on the walkie-talkie",
+   "start": 1976,
+   "end": 2038
+  },
+  {
+   "fact": "男孩的遗体一周后被找到，地点在罗克韦以东的长岛海滩，距当地超过十英里。",
+   "anchor": "more than ten miles away",
+   "start": 3208,
+   "end": 3232
+  },
+  {
+   "fact": "作者当天开始自订规程（浪大且多起救援时把所有人赶出水面），此后十九年她的海滩再没有发生过溺亡。",
+   "anchor": "nineteen more years before another drowning",
+   "start": 4936,
+   "end": 4979
+  },
+  {
+   "fact": "Stein 曾要求所有救生员每人交十美元给他（他说用于给政治人物竞选捐款），不交的人他就用游泳考试逼其不及格。",
+   "anchor": "Stein threatened to fail them on their swim test",
+   "start": 5799,
+   "end": 5847
+  },
+  {
+   "fact": "作者上任前后新设了「全市救生员协调员」一职，由 Stein 接手，管培训与海滩上的一切事务；作者判断这个职位是他自己造出来的，且不在工会合同覆盖范围内。",
+   "anchor": "citywide lifeguard coordinator",
+   "start": 9423,
+   "end": 9453
+  }
+ ]
+}
