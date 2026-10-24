@@ -39,7 +39,7 @@ modified: "2026-10-24"
 **读者视角提示**：这块紧接在玩笑与派对之后，读者刚看完他们玩得多尽兴，就知道这些玩伴一年到头连一句谢谢都收不到。
 
 > **原句 5:** "One of them put on an old lady’s bathing cap, snuck into the ocean, and began flailing around in the water. The first-year ran out, and as he began to porpoise into the ocean, the senior guy sank beneath the water. Instead of diving to look for him, the poor Baruch kid panicked and ran back out to where I was standing."
-**中文理解**：一位老练的救生员戴上老太太的泳帽，悄悄潜进海里开始扑腾；那个第一年来的新人冲出棚子，正要以海豚式跳水的姿势扎进海里去救人的时候，装溺水的老手反而沉了下去。新人没有下水去找，反而慌慌张张跑回岸上找她。
+**中文理解**：一位老练的救生员戴上老太太的泳帽，悄悄潜进海里开始扑腾；那个第一年来的新人跑了出去，正要以海豚式扎进海里的当口，装溺水的老手反而沉了下去。新人没有潜下去找，反而慌慌张张跑回到作者站的地方。
 **关键词**：bathing cap / porpoise / panicked
 **为什么这样写**：恶作剧被写得像一次真的搜救流程：着装、潜行、入水、潜水者骤然下沉，步骤齐全，新人的慌张因此不是笨拙，而是演练做得太逼真；笑点压在新人与老手之间那次错位上。
 **读者视角提示**：读者要记住这终究是恶作剧而不是真出事——作者还能笑得出来，这份轻松本身就是后面真事的最强反衬。
