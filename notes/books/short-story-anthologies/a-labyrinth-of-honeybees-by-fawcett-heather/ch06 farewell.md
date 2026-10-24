@@ -18,7 +18,7 @@ modified: "2026-10-24"
 
 **中文理解**：我本该料到他不想再见到我。我没有告诉他旧神那些习性——按他那套整洁宗教的感受来说算是古怪的：神喜欢住在祭司或女祭司体内，还会转移到新的容器里。我确实没法告诉他，可即便他大概想得到，我也知道他到死都会恨我。
 
-**关键词**：should have guessed（本该料到）、his tidy religion（他那套整洁的宗教）、dwelling within their priest or priestess（住在祭司体内）、pass to a new vessel（转移到新的容器）、hate me till my last breath（恨我到死）
+**关键词**：should have guessed（本该料到）、his tidy religion（他那套整洁的宗教）、dwelling within their priest or priestess（住在祭司体内）、pass to a new vessel（转移到新的容器）、hate me till his last breath（恨我到死）
 
 **为什么这样写**：全书最后一次写她与审问官的关系，写的是无法解释。作者把"神如何附身"这件全书的核心机制放进一句她没说过的话里——她不是不肯说，而是这种话对审问官的世界毫无位置。恨被写成确凿无疑的事，没有请求原谅，也没有辩解，人物因此始终没有掉进温情里。
 

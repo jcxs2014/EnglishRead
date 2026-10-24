@@ -150,7 +150,7 @@ modified: "2026-10-24"
 
 **句子结构**：第一句用 and 连接两个相反的动作，retreated 与 resurfaced，his face twisted with horror 是独立主格。第二句 chuckling ... 与 retreating ... 两个分词短语挂在主句之后，or perhaps to scheme 是与 sleep 并列的不定式。第三句用 and 串起他倒下与她接住，句末 hurried 把她的反应变成全章最后一个动作。
 
-**表达方式**：resurfaced 与 sank back 是一对相反的潜水词，神与人在同一具身体里上浮下沉。chuckling to Herself 里的 Herself 说明她的笑不需要观众；fall back towards the floor 用 towards 而没有到底，因为下一句她已经接住了。
+**表达方式**：resurfaced 与 sank back 是一对相反的潜水词，神与人在同一具身体里上浮下沉。chuckling to Herself 里的 Herself 说明她的笑不需要观众；「fell back towards the floor」用 towards 而没有到底，因为下一句她已经接住了。
 
 ## 本章词汇
 
