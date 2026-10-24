@@ -60,7 +60,8 @@ DEFAULT_NAV_ITEMS = ["一句话概括", "情感弧线位置", "人物弧线", "�
 LONG_QUOTE_WORDS = 100
 
 # 2026-10-21 用户拍板：块数不可「随意决定」——
-#   下限 2、上限 15 是**硬判据**（超上限判阻断，不判提示）；
+#   新书：下限 2、上限 15 是**硬判据**（超上限判阻断，不判提示）；
+#   已有 ≥3 章的书：上限取 max(15, 本书最高章)（2026-10-24 定案，见 blocks 判据处注释）；
 #   中间按本章原文字数给建议区间：800 词 2 块就够，2000 词 4–6 块。
 # 上限来历：ebenezer-scrooge ch03（1,731 词）被写到 11 块，用户嫌「读起来费劲」；
 # 2026-10-21 先定 10，同日改为 **15**（用户：「那把上限改到 15 吧」）。
@@ -353,6 +354,33 @@ def find_corpus(book: Path, no: int) -> Path | None:
     return c[0] if c else None
 
 
+_BOOK_BLOCKS_CACHE: dict = {}
+
+
+def book_block_stats(book: Path, exclude: Path) -> list[int]:
+    """同书其他章的引语块数（不含本章）。用于「同书自校准」判块数。
+
+    缓存键含每个文件的 mtime，任一章改动即重算——否则跑完整书期间新写的章
+    会沿用旧分布（2026-10-24 加书基线时一并处理）。
+    """
+    files = sorted(p for p in book.glob("*.md") if p.name != exclude.name)
+    sig = tuple((str(p), p.stat().st_mtime_ns) for p in files)
+    hit = _BOOK_BLOCKS_CACHE.get(str(book))
+    if hit and hit[0] == sig:
+        return hit[1]
+    counts = []
+    for p in files:
+        try:
+            d = parse_md(p)
+        except Exception:
+            continue
+        n = sum(1 for b in d["blocks"] if b["quote_no"] is not None)
+        if n:
+            counts.append(n)
+    _BOOK_BLOCKS_CACHE[str(book)] = (sig, counts)
+    return counts
+
+
 def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
     no = chapter_no(md)
     # ⚠️ 不能写 `if no` —— ch00 的 no == 0 是合法章号，falsy 判断会把序章语料丢掉，
@@ -446,18 +474,36 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
             if len(k.split()) > KEYWORD_MAX_WORDS:
                 kw_long.append({"block": name, "kw": k[:60], "words": len(k.split())})
 
-    # ── 块数：下限 2 / 上限 15 硬判据；中间按篇幅给建议（2026-10-21 用户拍板）
+    # ── 块数判据（2026-10-24 定案，用户选 (a)）：
+    #    有 ≥3 章基线的书 → 按本书自己的分布判（上限 = max(15, 本书最高章)）；
+    #    无基线的新书 → 2–15 硬门（这才是「新书不许随意堆块」的落点）。
+    #    理由：同书自校准管「跟着本书走」，2–15 管「新书别堆」，两者管的不是同一批书。
     n_blocks = sum(1 for b in d["blocks"] if b["quote_no"] is not None)
     words = len(corpus_n.split())
     lo, hi = blocks_target(words)
+    sib = book_block_stats(book, md)
     bcount_bad: list = []
-    if n_blocks > MAX_BLOCKS:
-        bcount_bad.append(f"块数 {n_blocks} 超上限 {MAX_BLOCKS}（拆得过碎，读起来费劲）")
-    elif n_blocks < MIN_BLOCKS:
-        bcount_bad.append(f"块数 {n_blocks} 低于下限 {MIN_BLOCKS}")
     bcount_hint = ""
-    if not bcount_bad and not (lo <= n_blocks <= hi):
-        bcount_hint = f"块数 {n_blocks} 偏离本章篇幅建议 {lo}–{hi}（本章 {words} 词）"
+    if len(sib) >= 3:
+        med = sorted(sib)[len(sib) // 2]
+        top = max(sib)
+        hi_eff = max(MAX_BLOCKS, top)
+        basis = f"本书 {len(sib)} 章中位 {med:g}、最高 {top}（同类书按本书分布判）"
+        if n_blocks > hi_eff:
+            bcount_bad.append(f"块数 {n_blocks} 超本书上限 {hi_eff}（{basis}）")
+        elif n_blocks < MIN_BLOCKS:
+            bcount_bad.append(f"块数 {n_blocks} 低于下限 {MIN_BLOCKS}")
+        elif not (med * 0.5 <= n_blocks <= max(med * 1.5, med + 2)):
+            bcount_hint = (f"块数 {n_blocks} 偏离本书常见区间 "
+                           f"{max(MIN_BLOCKS, round(med * 0.5))}–{round(max(med * 1.5, med + 2))}（{basis}）")
+    else:
+        basis = f"新书（基线 {len(sib)} 章 <3，按 2–{MAX_BLOCKS} 硬门）"
+        if n_blocks > MAX_BLOCKS:
+            bcount_bad.append(f"块数 {n_blocks} 超上限 {MAX_BLOCKS}（拆得过碎，读起来费劲；{basis}）")
+        elif n_blocks < MIN_BLOCKS:
+            bcount_bad.append(f"块数 {n_blocks} 低于下限 {MIN_BLOCKS}（{basis}）")
+        elif not (lo <= n_blocks <= hi):
+            bcount_hint = f"块数 {n_blocks} 偏离本章篇幅建议 {lo}–{hi}（本章 {words} 词）"
 
     nav_n = len(d["nav"])
     res["form"] = {
@@ -555,7 +601,8 @@ def print_contract(book: Path) -> None:
     print("  6 模板套话   「本句描写了场景与人物的反应」「把 X 重新定义 as Y」「此句通过修辞与节奏把人物的")
     print("               内心状态外化」「为后续情节的转折埋下伏笔」等；同一句在同一字段重复 ≥3 次也算")
     print("  7 残句缺词   `的` 后直接跟动词（`把 X 的 写成…`、`\"祖母\"的 词与并列`）= 名词被删掉了，读不通")
-    print(f"  8 块数       每章 {MIN_BLOCKS}–{MAX_BLOCKS} 块：>{MAX_BLOCKS} 或 <{MIN_BLOCKS} 判红"
+    print(f"  8 块数       新书每章 {MIN_BLOCKS}–{MAX_BLOCKS} 块（>{MAX_BLOCKS} 或 <{MIN_BLOCKS} 判红）；"
+          f"已有 ≥3 章的书按本书分布判：上限 = max({MAX_BLOCKS}, 本书最高章)"
           f"（本章按词数的建议区间见 chapter.sh 输出；本书 profile 参考 {blocks[0]}–{blocks[1]}）")
     print()
     print("【只提示、不判红，但会毁掉这本书】")
