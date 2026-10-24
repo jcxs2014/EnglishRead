@@ -1,0 +1,55 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch42",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch42_embodiment.txt",
+ "facts": [
+  {
+   "fact": "阿尔芭在日记里写，母亲和贝克去了底特律，要把贝克的双亲搬进另一家养老院，因为原来那家着了火。",
+   "anchor": "Mama and Beck have gone to Detroit—they have to move",
+   "start": 87,
+   "end": 139
+  },
+  {
+   "fact": "卡尔带了两瓶酒（一白一红）和一小盆紫色兰花来吃晚饭，阿尔芭把兰花摆在桌上。",
+   "anchor": "Carl arrives with two bottles of wine, one white, one red,",
+   "start": 1242,
+   "end": 1300
+  },
+  {
+   "fact": "阿尔芭换好衣服回到客厅不见卡尔，走到厨房发现通往地下室的门大开着。",
+   "anchor": "I walk into the kitchen and find the door to the basement",
+   "start": 2113,
+   "end": 2170
+  },
+  {
+   "fact": "事后两人喘着气缠在窄沙发上，阿尔芭越过卡尔的肩膀看见显示器上那盏绿灯亮着。",
+   "anchor": "I look over Carl’s shoulder and see that the green light",
+   "start": 4475,
+   "end": 4531
+  },
+  {
+   "fact": "贝克星期一回到工作室打开博物馆，看见伊莎多拉坐在一间镜子般复制了她工作室的房间里，穿黑裙、高跟鞋、涂暗红口红，举着半杯浅黄的酒。",
+   "anchor": "When I open the Museum, I see Isadora sitting in a room",
+   "start": 6899,
+   "end": 6954
+  },
+  {
+   "fact": "伊莎多拉要见卡尔被拒后先罢工，接着删掉整间屋子、改比例与颜色、乱删代码，直到一片故障。",
+   "anchor": "She deletes whole rooms in the Museum, changes proportions, colors, zaps swathes",
+   "start": 10932,
+   "end": 11012
+  },
+  {
+   "fact": "五月的某个周日早晨，贝克下楼吃早餐，看见两个阿尔芭坐在桌旁吃司康、喝咖啡、看猫咪救援视频。",
+   "anchor": "find two Albas sitting at the table eating scones with coffee",
+   "start": 11861,
+   "end": 11922
+  },
+  {
+   "fact": "贝克看着两个阿尔芭在树下认真交谈，忽然为自己对伊莎多拉太苛刻而羞愧，随后下楼去和好。",
+   "anchor": "I suddenly feel ashamed of myself for being so harsh",
+   "start": 15861,
+   "end": 15913
+  }
+ ]
+}
