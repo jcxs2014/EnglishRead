@@ -80,7 +80,7 @@ modified: "2026-10-24"
 > **原句 10:** "Don’t bother me about Filomeno again and go help in the kitchen. What a silly girl you are, just like your mother in every way."
 
 **中文理解**：「别再拿 Filomeno 的事烦我，去厨房帮忙。你这傻姑娘，跟你母亲一模一样。」
-**关键词**：pity / silly / mother
+**关键词**：Filomeno / silly / mother
 **为什么这样写**：拒绝施舍与人身攻击打包在同一句里——「谁可怜人谁吃亏」是她的信条，「跟你母亲一样」是她的诅咒；这两个词组在她嘴里轮流当鞭子用，抽的都是同一个女孩。
 **读者视角提示**：她每次骂「像你妈」，都在无意间提醒 Inés 那场悬案——这句话是后面所有真相戏的免费广告。
 
