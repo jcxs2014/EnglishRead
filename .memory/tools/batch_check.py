@@ -95,14 +95,19 @@ def check(book, ch):
             if s not in tf:
                 problems.append(f"{ch} 块{i}: 片段查无 → {s[:70]}")
         # 块内分段顺序：`…` 各段在原文里必须**递增**（逆序＝拼接红线，gate ⑱ 判红）
-        seg_offs = [tf.find(s) for s in segs]
-        if all(o >= 0 for o in seg_offs):
-            for k in range(len(seg_offs) - 1):
-                if seg_offs[k] >= seg_offs[k + 1]:
+        # 注意：顺序搜索（从上一段末尾往后找）而不是各自 find()——同一句在原文里
+        # 出现两次时（如 "Fuck. … Fuck."），find() 会都返回首次出现 ⇒ 假逆序。
+        pos = 0
+        for k, s in enumerate(segs, 1):
+            o = tf.find(s, pos)
+            if o < 0:
+                early = tf.rfind(s, 0, pos)
+                if early >= 0:
                     problems.append(
-                        f"{ch} 块{i}: 块内分段逆序（段{k+1} off={seg_offs[k]} "
-                        f">= 段{k+2} off={seg_offs[k+1]}）"
+                        f"{ch} 块{i}: 块内分段逆序（段{k} 的原文出现在前一段之前 off={early}）"
                     )
+                continue
+            pos = o + len(s)
         w = len(qq.split())
         if w > WARN_MAX_WORDS:
             warns.append(f"{ch} 块{i}: 引语 {w} 词（>100 提示）")
