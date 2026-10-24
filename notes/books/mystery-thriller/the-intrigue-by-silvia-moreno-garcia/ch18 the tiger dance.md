@@ -94,7 +94,7 @@ modified: "2026-10-24"
 > **原句 12:** "She looked up at him and raised a hand to carefully cup his face—it was her turn to surprise him—before she slid away, rushing down the alley."
 
 **中文理解**：她抬头看他，抬手小心地捧住他的脸——这回轮到他吃惊——随后滑开，奔下巷子。
-**关键词**：cup / surprise / sliding
+**关键词**：cup / surprise / rushing
 **为什么这样写**：全书最温柔的瞬间由最不会温柔的人完成——捧脸的动作与野合的粗粝对切，把「她也在意」的证据轻轻放下就走；「轮到他吃惊」的对称句式承认了：这场游戏里，她总能后发制人。
 **读者视角提示**：这个捧脸是 Inés 对「平凡而甜蜜」的回应方式——她说不出口，就用一秒钟的手掌说完。
 
