@@ -74,7 +74,7 @@ source_text: ch01
 
 **关键词**：`the European Middle Ages`、`almost none of these rights and privileges`
 
-**表达方式**：用 almost none 承接前文那份长长的特权清单，等于给上一段的乐观清单直接判了死刑；In all likelihood 与 In all likelihood 式的概率限定，把「中世纪必然如何」写成「十有八九如何」，避免把历史说成宿命。
+**表达方式**：用 almost none 承接前文那份长长的特权清单，等于给上一段的乐观清单直接判了死刑；In all likelihood 式的概率限定，把「中世纪必然如何」写成「十有八九如何」，避免把历史说成宿命。
 
 **为什么这样写**：作者刻意把中世纪女性写成反事实中的「我」。第一人称代入让她不必另起论辩语气，而 In all likelihood 这个概率词又恰恰提醒读者：她的目标不是补史，而是让现代读者感知那段历史里女性生存条件的实际量级。
 
