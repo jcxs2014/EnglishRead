@@ -120,8 +120,8 @@ modified: "2026-10-24"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| dominoes | 多米诺骨牌 | “It seems your wife’s wallet isn’t feeling friendly today,” Cándido replied, and there was another round of laughter. |
-| solitude | 独处、孤独（语境义） | “The mood of a cat in heat,” he said. “I kiss her thrice a day and leave her breathless.” |
+| dominoes | 多米诺骨牌 | Just then the older police officer, who had been half asleep in a corner, opened his eyes and suggested that they play dominoes. |
+| constellations | 星座 | “Yes. I know the names of constellations and stars. I used to teach them to my pupils. I taught them to Inés.” |
 | constellations | 星座 | “Yes. I know the names of constellations and stars. I used to teach them to my pupils. I taught them to Inés.” |
 | furiously | 狂怒地 | “He drank it. The old coot drank it,” he said furiously. |
 | terrified | 吓坏了的 | Then they parted, both terrified and silent. |

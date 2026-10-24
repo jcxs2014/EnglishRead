@@ -24,7 +24,7 @@ modified: "2026-10-24"
 > **原句 2:** "But if worse comes to worst, I could try. There might be money, there might be traveler’s checks, other useful documents. I’d need time, though."
 
 **中文理解**：「实在不行，我可以试试撬锁。里头可能有现金、旅行支票、别的有用文件。不过我需要时间。」
-**关键词**：lock picker / traveler’s checks / time
+**关键词**：worse / traveler’s checks / time
 **为什么这样写**：半吊子技能清单念得底气不足——「最坏情况试试」的措辞与后文「我不擅长开锁」前后呼应；他把姨妈的在室时间当作最大障碍报出来，无意间替这栋房子画了张监控图。
 **读者视角提示**：注意他的破绽清单全是客观条件（时间、速度）——真正的问题（她会当场抓奸）他直到被抓包那天才懂。
 
@@ -59,7 +59,7 @@ modified: "2026-10-24"
 > **原句 7:** "“Right here,” he said, tapping his finger against the page. “He leaves the house to his daughter Perla, and upon her passing to his granddaughter, Inés. That’s you.”"
 
 **中文理解**：「在这儿，」他用手指点着纸页。「房子留给女儿 Perla，她过世后归外孙女 Inés。就是你。」
-**关键词**：grandfather / granddaughter / passing
+**关键词**：tapping / granddaughter / Inés
 **为什么这样写**：遗嘱条款念得像公证词，而「就是你」三个字把它翻译成命运——她被这个世界登记过的唯一一次财产继承，写在死人的纸上；「upon her passing」的公文腔冷冰冰地把等待写进法律。
 **读者视角提示**：祖父的这份心意与 ch03「 kingdom 会倒」的预叙对上了：家业散尽，只剩一栋房子在纸上传三代。
 
@@ -73,7 +73,7 @@ modified: "2026-10-24"
 > **原句 9:** "“I didn’t know. My aunt always told me he cut off all contact with us. But look at these letters,” she said, holding them up."
 
 **中文理解**：「我不知道。姨妈一直跟我说，他早就跟我们断绝往来了。可你看看这些信，」她举着信说。
-**关键词**：contact / letters / never told
+**关键词**：contact / letters / holding
 **为什么这样写**：谎言与证物当面相撞——「断绝往来」的口径撞上一叠写她名字的信封；「我不知道」三个字重复了两次（下一句原文），语言的结巴里是十年的空白。
 **读者视角提示**：姨妈的罪状又添一条：不是撒一个谎，是用十年里的每一天维持同一个谎。
 
@@ -115,7 +115,7 @@ modified: "2026-10-24"
 | twinge | （一阵）刺痛 | “It’s that old twinge. My war wounds.” |
 | incarcerated | 被囚禁的 | Ulises spoke of prison, but Inés had spent her entire youth incarcerated already. |
 | measly | 少得可怜的 | “That’s two thousand pesos in cash and not even a measly traveler’s check. |
-| rending | 撕裂、令人心碎的 | She felt as though she’d been stabbed. Clean in the heart, that’s how deep the wound ached. |
+| rending | 撕裂般的、锥心的 | he grabbed it and read it while she sat there, feeling as though she’d been stabbed. Clean in the heart, that’s how deep the wound ached. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

@@ -112,14 +112,14 @@ modified: "2026-10-24"
 | tithe | 什一税、按期供奉 | Perla collected her tithe. Politeness at all times, admiration heaped upon her each day, and sexual pleasure when she demanded it. |
 | emulating | 效仿、以…为榜样 | “Of course, it figures the old coot would kill himself,” she added, and snorted. “He probably thought he was emulating Socrates.” |
 | recoup | 收回、挽回（损失） | “His books and his pocket watch. But my aunt took the watch and she’s going to sell it off to recoup the rent he didn’t pay. |
-| preface | 预示、作为…的开端 | but he was a combination of shy and bumbling that would not permit much conversation, and she looked at him with an amused face that did not preface a romance. |
+| rumpled | 皱巴巴的、凌乱的 | He quickly went through his shirts and trousers and discarded them all, finally picking a sleeveless white undershirt that clung tightly to his body and a pair of rumpled trousers. |
 | tony | 时髦的、高档的 | He’d been having a nap, dreaming he was watching rumberas dancing at a tony nightclub, then suddenly found himself blinking and staring at the girl. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | ravines | 沟壑、深谷 | “This region is full of ravines. You’ve seen it. We’re in the middle of the Sierra Madre Oriental. |
-| disheveled | 邋遢的、衣冠不整的 | He quickly went through his shirts and trousers and discarded them all, finally picking a sleeveless white undershirt that clung tightly to his body and a pair of rumpled trousers. |
+| disheveled | 邋遢的、衣冠不整的 | He looked, he hoped, like an insignificant boy who couldn’t carry a conversation to save his life, and who would be scammed rather than ever be able to scam anyone. |
 | spectacles | 眼镜 | Then he tucked away the spectacles he’d been wearing and changed into a different set of clothes. |
 | coalesced | 聚拢、凝成 | And she was suddenly there, as if all his nebulous desires had coalesced into flesh. |
 | peep | 一声、一点儿（否定义） | “Down the stairs. I found her. I couldn’t talk for a year after that. Not a peep.” |
