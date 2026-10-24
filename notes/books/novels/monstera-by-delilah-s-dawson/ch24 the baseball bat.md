@@ -35,6 +35,16 @@ modified: "2026-10-24"
 
 **读者视角提示**：把这两半拆开看，她的账是这样的：动手这件事她不认错，她怕的是失去人。读者若顺着她的视角走，会先接住「不后悔」，再被 her chest goes tight 拦一下，这个先后顺序本身就是作者要读者经历的次序。另外留意她看 Lucy 的方式：她没有说「我会被当成怪物」，而是说 Lucy 会明白，等于把判决权交了出去。
 
+> **原句 3:** "“Lucy, are you okay?” she asks, almost a whisper. She holds her hands out like she wants to touch Lucy but has encountered a force field around her."
+
+**中文理解**：她几乎是用气声问 Lucy 还好吗；她把双手伸出去，像是想碰一碰 Lucy，却撞上了一层无形的力场。
+
+**关键词**：almost a whisper / holds her hands out / encountered a force field
+
+**为什么这样写**：这一块把刚才那一棒之后的空间关系写清楚了：她站在近处，却碰不到人。问句被她压到几乎听不见，动作却比声音走得更远——手先伸出去，再撞回一个看不见的边界。力场不是她的感觉，而是她替 Lucy 那边摆出来的东西，说明隔开她们的不是距离，是刚才那一下本身。
+
+**读者视角提示**：全章她第一次不是挥出去、而是伸出去，落点却仍是空的。读者读到这里可以回头对照第一块：那只手挥棒时有多顺，此刻就有多不敢落下；作者把同一双手写成前后两种用法，判断留给读者自己做。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
