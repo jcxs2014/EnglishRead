@@ -1,0 +1,55 @@
+{
+ "book": "lifeguard-by-janet-fash",
+ "chapter": "ch03",
+ "text": "notes/books/novels/lifeguard-by-janet-fash/text/ch03_chapter_three_1981.txt",
+ "facts": [
+  {
+   "fact": "Helen 和作者因为不愿再服从中尉，第二年被调到底区的 17 街岗亭",
+   "anchor": "all the way downtown to 17th Street",
+   "start": 267,
+   "end": 302
+  },
+  {
+   "fact": "资深救生员 Artie 教作者怎么当搭档，会替她上高椅、让她下来休息",
+   "anchor": "he did teach me how to be a good partner",
+   "start": 1056,
+   "end": 1096
+  },
+  {
+   "fact": "老救生员戴上老太太泳帽装溺水，Baruch 游泳队的新人以为真出事，慌张跑回岸上求助",
+   "anchor": "the poor Baruch kid panicked",
+   "start": 8852,
+   "end": 8880
+  },
+  {
+   "fact": "有人沉底失踪，Barbara 一入水就发现潜水方向不对，逆着水流游向搜索线把那人捞上来",
+   "anchor": "Barbara swam toward the line against the current",
+   "start": 11177,
+   "end": 11225
+  },
+  {
+   "fact": "117 街出事后，作者扛氧气瓶赶到，Helen 的搭档 Kevin 冲沙滩人喊「这就是吸毒的下场」，中尉做 CPR 也没救回",
+   "anchor": "Helen’s partner Kevin was circling the sand",
+   "start": 12400,
+   "end": 12443
+  },
+  {
+   "fact": "谁的值守时出了人命，圈子里就说你没盯水面、等于凶手，规矩是买一桶啤酒办一场派对",
+   "anchor": "you were considered a murderer",
+   "start": 13642,
+   "end": 13672
+  },
+  {
+   "fact": "有位主救生员整个夏天人都在佛罗里达的房子里，只有出了人命才飞回来处理文件和媒体",
+   "anchor": "at his house in Florida for the entire summer",
+   "start": 15121,
+   "end": 15166
+  },
+  {
+   "fact": "二十一岁的作者放弃会计，改读传播并换了学校，选了纽约州立奥斯威戈分校",
+   "anchor": "I decided to switch from accounting to communications",
+   "start": 15693,
+   "end": 15746
+  }
+ ]
+}
