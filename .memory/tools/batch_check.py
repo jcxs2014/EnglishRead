@@ -62,6 +62,47 @@ def book_block_counts(book):
     return out
 
 
+def chain_start(tf, segs):
+    """链锚定起点：返回「能顺次放下整条链的第一个出现位置」；放不下则 None。
+
+    为什么需要它：短片段会**前缀命中**无关的更早位置。
+    实测 ch21 块5 首段是原文自带的 "“I…might have thought…"（作者用省略号表示停顿），
+    切段后首段只剩 "“I" ⇒ find() 命中别处 "“I'll be steering…"（off 2501），
+    把该块真实起点（off ~7017）算低 ⇒ 假报「块序倒置」。
+
+    选点规则：遍历首段的**每个**出现位置，取「后面所有段都能顺次接上」的候选；
+    若有多个候选，取**到下一段间隔最小**的那个——
+    引语块的省略是「跳掉一段叙述」，真起点到下一段的间隔应当很短；
+    间隔动辄几千字符的那个命中，多半是碰巧同形（如 "“I" 撞上 "“I'll be steering…"）。
+    """
+    if not segs:
+        return None
+    first = segs[0]
+    cands = []
+    start = 0
+    while True:
+        o = tf.find(first, start)
+        if o < 0:
+            break
+        pos = o + len(first)
+        ok = True
+        nxt = None
+        for s in segs[1:]:
+            p = tf.find(s, pos)
+            if p < 0:
+                ok = False
+                break
+            if nxt is None:
+                nxt = p
+            pos = p + len(s)
+        if ok:
+            cands.append((o, (nxt - (o + len(first))) if nxt is not None else 0))
+        start = o + 1
+    if not cands:
+        return None
+    return min(cands, key=lambda t: (t[1], t[0]))[0]
+
+
 def check(book, ch):
     problems, warns = [], []
     md = None
@@ -98,6 +139,7 @@ def check(book, ch):
         # 注意：顺序搜索（从上一段末尾往后找）而不是各自 find()——同一句在原文里
         # 出现两次时（如 "Fuck. … Fuck."），find() 会都返回首次出现 ⇒ 假逆序。
         pos = 0
+        first_pos = -1
         for k, s in enumerate(segs, 1):
             o = tf.find(s, pos)
             if o < 0:
@@ -107,14 +149,25 @@ def check(book, ch):
                         f"{ch} 块{i}: 块内分段逆序（段{k} 的原文出现在前一段之前 off={early}）"
                     )
                 continue
+            if first_pos < 0:
+                first_pos = o
             pos = o + len(s)
+        # 块起点：**链锚定**位置 —— 取「能顺次放下整条链的第一个出现位置」。
+        # 为什么不能直接用 tf.find(segs[0])：短段会前缀命中无关的更早位置。
+        # 实测 ch21 块5 首段是原文自带的 "“I…might have thought"（作者用的停顿省略号），
+        # 切段后首段只剩 "“I" 两字符 ⇒ find() 命中别处 "“I'll be steering…"（off 2501），
+        # 把该块的真实起点（off ~7017）算低 ⇒ 假报「块序倒置」。
+        if first_pos >= 0:
+            anchor = chain_start(tf, segs)
+            if anchor is not None:
+                first_pos = anchor
         w = len(qq.split())
         if w > WARN_MAX_WORDS:
             warns.append(f"{ch} 块{i}: 引语 {w} 词（>100 提示）")
         elif w < WARN_MIN_WORDS:
             warns.append(f"{ch} 块{i}: 引语 {w} 词（<30 提示）")
-        # 偏移：取第一段在原文中的位置（查无则跳过该块，不中断序列比较）
-        off = tf.find(segs[0])
+        # 偏移：取本块在原文中的链锚定起点（查无则跳过该块，不中断序列比较）
+        off = first_pos
         if off >= 0:
             offsets.append((i, off))
     # 块序：只在**都能定位**的块之间比较；定位不到的块单独提示
