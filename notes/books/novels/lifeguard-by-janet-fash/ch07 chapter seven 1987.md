@@ -1,6 +1,6 @@
 ---
 状态: 未读
-modified: "2026-10-24"
+modified: 「2026-10-24」
 ---
 
 # 07. Chapter Seven: 1987
