@@ -1,0 +1,49 @@
+{
+ "book": "a-labyrinth-of-honeybees-by-fawcett-heather",
+ "chapter": "ch03",
+ "text": "notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/text/ch03_the_campfire.txt",
+ "facts": [
+  {
+   "fact": "审问官在迷宫三条岔路上耗到入夜很久才放弃，走的是中间那条。",
+   "anchor": "To his credit, it was long past nightfall before he gave up.",
+   "start": 0,
+   "end": 60
+  },
+  {
+   "fact": "哈珀十年前与新国王作战被俘，舌头被割掉；脸上的疤是当兵留下的。",
+   "anchor": "they had cut out his tongue for no reason other than sport",
+   "start": 1000,
+   "end": 1058
+  },
+  {
+   "fact": "他一路劈开荆棘，走到一片望不到头的白玫瑰园，回头时身后的路已经变了。",
+   "anchor": "an endless garden of white roses",
+   "start": 1925,
+   "end": 1957
+  },
+  {
+   "fact": "他说自己的家不是某个地方：自幼被三神教的僧人收留，在一座座神庙里长大。",
+   "anchor": "My home is not a place.",
+   "start": 4710,
+   "end": 4733
+  },
+  {
+   "fact": "她认为神灵强大、也会在合适的时候慷慨，但没有一位称得上仁慈。",
+   "anchor": "I would not describe any of them as kind.",
+   "start": 5478,
+   "end": 5519
+  },
+  {
+   "fact": "她只在被要求时才虔诚，对女神怀着一种无力改变的怨。",
+   "anchor": "I was devout only when it was required of me.",
+   "start": 8214,
+   "end": 8259
+  },
+  {
+   "fact": "她给他蜂蜜加猫尾草乳汁的药，说能止痛、帮伤口愈合，放下就走。",
+   "anchor": "It’s honey mixed with catrush milk.",
+   "start": 8964,
+   "end": 8999
+  }
+ ]
+}
