@@ -38,7 +38,7 @@ source_text: ch34
 
 > **原句 3:** "Beck gets to her door first and begins punching in codes, but nothing works. The locks have all been rekeyed. I call 911, and when the police arrive, the officers keep trying to get Beck to prove that she’s really the tenant."
 
-**中文理解**：贝克抢先跑到门口按密码，一个都不对，锁全被换过了。她打了报警电话，警察来了却一直要贝克证明自己确实是这里的租户。
+**中文理解**：贝克抢先跑到门口按密码，一个都不对，锁全被换过了。克莱尔打了报警电话，警察来了却一直要贝克证明自己确实是这里的租户。
 
 **关键词**：punching in codes / rekeyed / prove that she’s really the tenant
 

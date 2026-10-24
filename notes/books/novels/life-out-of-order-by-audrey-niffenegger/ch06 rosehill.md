@@ -88,4 +88,4 @@ source_text: ch06
 
 ## 一句话总结
 
-Rosehill 是一座 350 英亩的墓园，也是这个下午真正的目的地：Lucinda 在取裙子的路上忽然提议去那里，两个人拎着化掉的甜筒穿过英式哥特式大门，停在粉色花岗岩的双人墓碑前。墓碑上，Jasmine 与 Malcolm 后面跟着同一组日期；叙述者用两句话交代了那场酒铺抢劫、一年后的火灾，以及一个孩子怎样落进寄养系统、最后到了 Celia 家。墓园里没有人哭，只有一首歌的旋律，和一句「Maybe we should plant a little tree over them?」。傍晚回到 Balmoral，客厅挤满为明天布置派对的人，柠檬水和空调把下午的沉闷冲淡，Lucinda 说「Don’t worry, Alba. It’s all good.」——而这一章收在这个安慰上：她本来不怀疑，是这句保证让她开始怀疑。
+Rosehill 是一座 350 英亩的墓园，也是这个下午真正的目的地：Lucinda 在取裙子的路上忽然提议去那里，两个人拎着化掉的甜筒穿过英式哥特式大门，停在粉色花岗岩的双人墓碑前。墓碑上刻着两个名字：Jasmine（1976 年 3 月 8 日生）与 Malcolm（1976 年 11 月 2 日生），两人卒于同一天，2014 年 2 月 10 日；叙述者用两句话交代了那场酒铺抢劫、一年后的火灾，以及一个孩子怎样落进寄养系统、最后到了 Celia 家。墓园里没有人哭，只有一首歌的旋律，和一句「Maybe we should plant a little tree over them?」。傍晚回到 Balmoral，客厅挤满为明天布置派对的人，柠檬水和空调把下午的沉闷冲淡，Lucinda 说「Don’t worry, Alba. It’s all good.」——而这一章收在这个安慰上：她本来不怀疑，是这句保证让她开始怀疑。
