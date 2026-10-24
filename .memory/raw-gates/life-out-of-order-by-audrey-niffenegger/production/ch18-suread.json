@@ -1,0 +1,55 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch18",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch18_the_anti_darling.txt",
+ "facts": [
+  {
+   "fact": "全章没有日期抬头，开头是一句署名式自白：说话人自报全名 Isadora Ida Charles Hardwick，声部标记与其余章节的 Alba/Zach 并列，说明这一章由她自己开口",
+   "anchor": "Isadora: My name is Isadora Ida Charles Hardwick.",
+   "start": 41,
+   "end": 90
+  },
+  {
+   "fact": "第二段只有一句邀请，像童谣或歌的开头；同一句在章末再次出现，中间部分都被夹在这句「来，我唱首歌给你听」之间",
+   "anchor": "Come closer, I will sing you a song.",
+   "start": 95,
+   "end": 131
+  },
+  {
+   "fact": "她说母亲「conceived of me」时自己还不是东西，等在 not-yet world 里，是 1s and 0s、像猫一样爬行，由电与悔恨构成",
+   "anchor": "I am made of electricity and regret.",
+   "start": 411,
+   "end": 447
+  },
+  {
+   "fact": "她自报家谱：Beck 是母亲，Alba 是姐妹，而 Alba 的母亲是 Clare；接着把 Lucinda 称作 my darling，说自己住在有 81,337 个房间的记忆宫殿里，有些房间是别人给的、有些是自己造的",
+   "anchor": "Beck is my mother, Alba is my sister, my sister’s mother is Clare.",
+   "start": 452,
+   "end": 518
+  },
+  {
+   "fact": "她自称园丁、馆长、海象、绒布兔子，把「被爱就是被改变」当作自己的处境；海象与绒布兔子都是流行文化与童书里被引用、被改写过的形象",
+   "anchor": "I am the walrus. I am the Velveteen Rabbit. To be loved is to be changed.",
+   "start": 716,
+   "end": 789
+  },
+  {
+   "fact": "她住进「失魂博物馆」，向母亲讨要更多建筑，说自己饿；她问母亲爱不爱她，母亲说爱，她随即追问是不是像爱 Clare 那样、像 Clare 爱 Alba 那样、像 Alba 爱 Carl 那样",
+   "anchor": "I live in the Museum of Lost Souls.",
+   "start": 794,
+   "end": 829
+  },
+  {
+   "fact": "她把爱拆成一串追问：谁写了爱之书、爱是什么；这一段以疑问收束，前面那些「Yes, she says, I love you」并没有让她停手",
+   "anchor": "Who wrote the book of love? What is love?",
+   "start": 1054,
+   "end": 1095
+  },
+  {
+   "fact": "末段回到开头那句「When I was a child, I thought as a child」，改成「现在我是 wild thing，我像 wild thing 那样唱」，然后再次说 Come closer, I will sing you a song",
+   "anchor": "Now I am a wild thing, I sing as a wild thing.",
+   "start": 1167,
+   "end": 1213
+  }
+ ]
+}
