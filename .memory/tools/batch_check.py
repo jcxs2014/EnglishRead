@@ -129,6 +129,8 @@ def check(book, ch):
             )
 
     # 块数（口径对齐创建卡 §3：硬限 2–15；满 3 章按本书分布自校准）
+    # 创建卡原文：「上限取 max(15, 本书最高章块数)，只对「本书最高章 +1」以上判红」
+    # ⇒ 判红阈值 = max(15, 本书最高章块数)；只超出 1 块以上才判红。
     n = len(quotes)
     if n < 2 or n > 15:
         problems.append(f"{ch}: 块数 {n} 越出硬限 2–15")
@@ -136,9 +138,10 @@ def check(book, ch):
         counts = book_block_counts(book)
         if len(counts) >= 3:
             lo, hi = min(counts.values()), max(counts.values())
-            if n > hi:
+            cap = max(15, hi)
+            if n > cap:
                 problems.append(
-                    f"{ch}: 块数 {n} 越出本书分布 {lo}–{hi}（本书最高章 +1 以上判红）"
+                    f"{ch}: 块数 {n} 越出本书自校准上限 {cap}（max(15, 本书最高章 {hi})）"
                 )
             med = sorted(counts.values())[len(counts) // 2]
             if med and abs(n - med) > 0.5 * med:
