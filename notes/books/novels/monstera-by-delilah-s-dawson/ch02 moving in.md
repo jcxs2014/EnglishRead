@@ -10,7 +10,7 @@ modified: "2026-10-24"
 - **一句话概括**：搬进 361B 的第一天：二十四岁的 Lucy 把两只没轮子的旧皮箱从灌木丛里拖上螺旋楼梯，用一整天学着做一个独居的人——买自行车和拖车、买锁、买四个杯子和四个盘子，把杯子放在水槽左边而不是祖父规定的右边；她从窗口只看见新邻居 Saskia 的一截身影和几缕从花墙里漏出来的碎片，天黑后不敢出门，靠一部小时候的动画片入睡，却在睡着前听见（或者想象听见）有人开门、有人踩过旧木地板。
 - **情感弧线位置**：第二章，全书「逃出来之后」的第一天。曲线是「手足无措—体力耗尽—被隔壁的人吸引—翻出旧伤—第一次自主决定—被自由吓到」。第一章结束在她看见 Saskia 举起杠铃；这一章几乎不推进情节，只把「一个人住」拆成几十个小决定，让她在每个决定前暴露一次不会。到章末她既没有被安慰也没有被威胁，只是累到睡着——全书最安静的一章，也是她第一次拥有「没有任何人等她」的时间，而作者让这份自由先以无聊和恐惧的形状出现。
 - **Tropes 兑现/反转**：兑现「搬进新家、独自开始新生活」的经典开场（采购、对着杯子说话、全部家当装进两只箱子），也兑现「神秘的隔壁邻居」。反转在方向：读者以为第二章该由邻居登场来推动关系，作者却让 Saskia 整章没有一句台词、没有一张正脸，张力全压在 Lucy 一个人身上。第二个反转是「自由」这个浪漫母题——作者把它落地成「时间太多、没事可做」，让 escape 长成 cage 的另一种形状。
-- **人物弧线**：Lucy 这一天学会的事全是家务尺度的：买锁、把车骑回家、给四个杯子找位置、给自己找一部动画片。她唯一一次真正的反抗是把杯子从祖父规定的右边挪到左边，再用一句「他永远不会看见这个地方」替它收尾。她的自我对话第一次出现两个声音——骂自己蠢的那个是祖父的，说「我在学」的那个才是她的——这是全书给她的第一条出路。Saskia 在本章仍只是一个背影、一层汗、几件被剪掉袖子的黑衫；Roger 只活在她的回忆和「不肯去问他」里。
+- **人物弧线**：Lucy 这一天学会的事全是家务尺度的：买锁、把车骑回家、给四个杯子找位置、给自己找一部动画片。她唯一一次真正的反抗是把杯子从祖父规定的右边挪到左边，再用一句「他永远不会看见这个地方」替它收尾。她的自我对话第一次出现两个声音——骂自己蠢的那个是祖父的，说「我在学」的那个才是她的——这是全书给她的第一条出路。Saskia 在本章仍只是一个背影、一层汗、几件被剪掉袖子的黑衫，外加两次被点名——Lucy 想知道垃圾哪天收，先断定「新邻居 Saskia 会知道」，接着又纳闷她怎么没来打招呼，末了自己替她找理由：她大概根本不知道楼上住了人；Roger 只活在她的回忆里，连「跟他说句话都受不了」。
 - **叙事手法**：第三人称限知紧贴 Lucy，信息一律由她的注意力过滤：看不见脸就真的不写脸，不知道垃圾哪天收就停在「不知道」上。全章由大量短段落推进，一段一件事（搬箱子、看窗、买锁、摆杯子），段与段之间不做过渡，模拟独居第一天那种被切碎的时间感。物件承担了大部分叙事——皮箱、花墙、四个杯子、玻璃箱里的松鼠、毛绒袜子——每件都对应一次她的自我定位。最后一句用一个 "imagines" 把恐怖交回读者手里判断。
 
 ## 精读
@@ -41,7 +41,7 @@ modified: "2026-10-24"
 
 **关键词**：one final thump / just flashes through the wall of flowers / tan skin sweating in the morning sun
 
-**为什么这样写**：上一章那串 Clank-thud 只换来一具举杠铃的身体，这一章仍旧不给一张脸——「看不见脸，只有花墙里漏出来的闪动」。于是 Saskia 先以碎片出现：发髻、汗、被剪掉的袖子。三个名词短语像三次快门，读者的注意力被引到身体上而不是人格上；这既是限知视角的必然，也是全书欲望的起点——Lucy 先看见的是一具在动的身体，不是一个人。
+**为什么这样写**：上一章那串 Clunk-thud 只换来一具举杠铃的身体，这一章仍旧不给一张脸——「看不见脸，只有花墙里漏出来的闪动」。于是 Saskia 先以碎片出现：发髻、汗、被剪掉的袖子。三个名词短语像三次快门，读者的注意力被引到身体上而不是人格上；这既是限知视角的必然，也是全书欲望的起点——Lucy 先看见的是一具在动的身体，不是一个人。
 
 **读者视角提示**：把「没有脸」记住。整章 Saskia 没有正脸、没有一句台词，读者对她的了解不会多于 Lucy 从窗口偷看到的这些。
 
@@ -65,17 +65,27 @@ modified: "2026-10-24"
 
 **读者视角提示**：把「门」记成一个反复出现的物件。这一章里她唯一能自主决定的是杯子放在水槽左边还是右边——她能改的只有这种尺度。
 
-> **原句 6:** "“Someone found him as a baby and raised him, and when he became too troublesome, they brought him to us,” the woman said with a sad smile, running her fingertips over the glass as if stroking the squirrel’s mad little fingers. “So he’s too wild to keep as a pet and too tame to live in the wild. Every time someone tried to release him, he ran up the leg of the nearest human. So he has to stay here with us.”"
+> **原句 6:** "“Someone found him as a baby and raised him, and when he became too troublesome, they brought him to us,” the woman said with a sad smile, running her fingertips over the glass as if stroking the squirrel’s mad little fingers."
 
-**中文理解**：一位志愿者指着一只关在大玻璃箱里不停上下跳的松鼠说：有人在他还是幼崽时捡到他、养大他，等他变得太麻烦，就送到了这里。她边说边笑得很勉强，指尖在玻璃上划过去，像在抚摸松鼠那几根疯狂的小手指。「所以他太野，当不了宠物；又太驯，活不了野外。每次有人想放他走，他就顺着最近那个人的腿往上爬。所以他只能留在我们这儿。」
+**中文理解**：这句话是对着一只玻璃箱说的：有人在他还是幼崽的时候捡到他、把他养大，等他变得太麻烦，就送到了这里。她一边说一边笑得很勉强，指尖在玻璃上慢慢划过去，像在抚摸松鼠那几根疯狂的小手指。
+
+**关键词**：found him as a baby / when he became too troublesome / running her fingertips over the glass
+
+**为什么这样写**：来历只用一句话交代完，剩下的全是那只手的动作。作者把最该煽情的地方交给一个连名字都没有的女人：她笑着难过，指尖在玻璃上划过去，像摸一只够不着的小动物。玻璃才是这段真正的道具——安慰得穿过一层透明的东西才到得了对面，而这一章里 Lucy 隔着花墙看 Saskia，也是同一种够不着。
+
+**读者视角提示**：留意说话的人是谁——原文只给 the woman，没有名字、没有身份说明。真正要记住的不是她，是那只在玻璃上划过去的手。
+
+> **原句 7:** "“So he’s too wild to keep as a pet and too tame to live in the wild. Every time someone tried to release him, he ran up the leg of the nearest human. So he has to stay here with us.”"
+
+**中文理解**：「所以他太野，当不了宠物；又太驯，活不了野外。每次有人想放他走，他就顺着最近那个人的腿往上爬。所以他只能留在我们这儿。」
 
 **关键词**：too wild to keep as a pet / too tame to live in the wild / ran up the leg of the nearest human
 
-**为什么这样写**：这段话借一个陌生人的嘴，把 Lucy 的处境说成一句可以背下来的判词：太野不能当宠物，太驯不能回野外。两个方向都堵死，中间只剩一个玻璃箱。志愿者用指尖划过玻璃的动作是全章最轻也最凉的一笔——她隔着一层玻璃安慰它，而 Lucy 隔着一道花墙看 Saskia，是同一种距离。作者不评论，只让一个不相干的人把比喻说完，读者自己去对号。
+**为什么这样写**：这三句是全章唯一一段可以整段背下来的判词，两个方向都堵死，中间只剩一个玻璃箱。作者自己不下判断，让一个不相干的人把比喻说完：太野，不能留在人身边；太驯，回不去自己的地方；于是只能「留在这里」——而「这里」正是 Lucy 刚签下租约的地方。末句用 So 开头，是判决书的口气。
 
-**读者视角提示**：这句判词会在后面反复兑现。尤其是最后半句——被放出去的人会本能地抓住离她最近的那个人。
+**读者视角提示**：这句判词后面会反复兑现，尤其是中间那句——被放出去的人会本能地抓住离她最近的那一个人。
 
-> **原句 7:** "She flips her feet back and forth in the soft, fuzzy socks she bought as a treat. Lamplight slants in from the tall windows, painting puddles of orange across the wooden boards. It is peaceful and quiet, and as she falls over the stark cliff of sleep, she imagines that she hears the sound of a door opening and closing, soft footsteps creaking on the old wood floors."
+> **原句 8:** "She flips her feet back and forth in the soft, fuzzy socks she bought as a treat. Lamplight slants in from the tall windows, painting puddles of orange across the wooden boards. It is peaceful and quiet, and as she falls over the stark cliff of sleep, she imagines that she hears the sound of a door opening and closing, soft footsteps creaking on the old wood floors."
 
 **中文理解**：她脚上穿着那双当作犒赏买来的毛绒袜子，两只脚来回晃。灯光从高窗斜进来，在木地板上摊出一片片橙色的水洼。屋里安静平和，就在她越过睡眠那道陡直的悬崖时，她想象自己听见一扇门开了又关，轻轻的脚步踩在旧木地板上发响。
 
