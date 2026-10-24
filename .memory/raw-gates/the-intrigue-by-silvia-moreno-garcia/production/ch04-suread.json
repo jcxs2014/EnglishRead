@@ -1,0 +1,55 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch04",
+ "text": "notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/text/ch04_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "Ulises 在旧宅睡得不安稳，清晨被女仆摔放早餐盘的响声惊醒，一度以为房子挨了炸弹；空袭演习留下的神经衰弱让他缓了好一阵才想起自己在乡下。",
+   "anchor": "He woke from an uncomfortable sleep, courtesy of a lumpy pillow and a mattress",
+   "start": 4,
+   "end": 82
+  },
+  {
+   "fact": "想看报纸的 Ulises 问了在前门浇花的男仆 Fito，得知报纸每天有、但被 Inés 拿回房间；Fito 指路：同层、上楼梯右手第一扇门。",
+   "anchor": "Sure, we get the paper every morning. But Miss Inés takes it to her room.",
+   "start": 1938,
+   "end": 2011
+  },
+  {
+   "fact": "Ulises 上门借报纸时称呼出错，Inés 打断他纠正：Miss Inclán 是姨妈，自己是 Inés；她中午才把报纸拿到餐厅，最终把报纸交给他，并约定以后清晨读完就递给他。",
+   "anchor": "“Inés,” she said, cutting him off. “Miss Inclán is my aunt. I’m Inés.”",
+   "start": 3386,
+   "end": 3456
+  },
+  {
+   "fact": "Ulises 看到墙上画着裙装的设计图（其中一张正是 Perla 的鸽灰色 outfit），追问之下 Inés 承认那是自己的原创设计、偶尔做裁缝活，镇上没有百货公司、女人多定制或自缝衣物。",
+   "anchor": "“It’s something I do, once in a while.”",
+   "start": 5094,
+   "end": 5133
+  },
+  {
+   "fact": "谈及今晚聚会，Inés 用带讽刺的口吻逐一点名宾客：Sarita Novo（姨妈挚友）、律师 Cándido 与疑病症缠身的妹妹 Lulú、两名警察 Beto 和 Bartolo、怀念 Huerta 的军医 Dr. Carrel、总为衣装拌嘴的 Manuela 与 Eduviges，以及唯一能聊天的 Nepomuceno 教授。",
+   "anchor": "“The crème de la crème of Puerco Ahogado,”",
+   "start": 6007,
+   "end": 6049
+  },
+  {
+   "fact": "晚宴上 Cándido 冷冷追问职业，Ulises 谎称自己是在最好的照相馆拍过 debutantes 和 starlets 的摄影师，谎话里掺着相机与暗房的真实知识（父亲的手法偶尔包括 blackmail），还抬出 Dolores del Río。",
+   "anchor": "“I’m a photographer. Portraits, that’s what I do,”",
+   "start": 12115,
+   "end": 12165
+  },
+  {
+   "fact": "Ulises 假意回房后溜回办公室门缝偷听，听到 Cándido 与 Perla 争执：Cándido 点破银行里有九万比索，Perla 反唇相讥他养着不搬走的妹妹 Lulú，还承认留 Ulises 住下是为「更了解他」。",
+   "anchor": "“And you did well. Ninety thousand pesos in the bank. That’s a tidy nest egg. I myself have—”",
+   "start": 19790,
+   "end": 19883
+  },
+  {
+   "fact": "偷听后 Ulises 回房大笑：他自认每月运气好才挣两百五十比索，而 Perla 有九万；他害怕落到 Moisés 那种向绝望游客下手的地步，决意这次要把想要的一切全部拿到手。",
+   "anchor": "His youth and good looks shriveling away, scrambling to catch the eye of a desperate tourist",
+   "start": 21680,
+   "end": 21772
+  }
+ ]
+}
