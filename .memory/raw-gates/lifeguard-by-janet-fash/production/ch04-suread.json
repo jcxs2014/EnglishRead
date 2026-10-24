@@ -1,0 +1,55 @@
+{
+ "book": "lifeguard-by-janet-fash",
+ "chapter": "ch04",
+ "text": "notes/books/novels/lifeguard-by-janet-fash/text/ch04_chapter_four_1983.txt",
+ "facts": [
+  {
+   "fact": "1983 年夏天 Freddie 打电话问作者，是否愿意与驻守 106 街岗亭的一名女救生员换岗",
+   "anchor": "Freddie called me up and asked me if I would switch",
+   "start": 111,
+   "end": 162
+  },
+  {
+   "fact": "换岗的原因：那名女救生员的男友偷拍了她的裸照，并拿给岗亭里的男人传看",
+   "anchor": "had taken naked photos of her and shared them",
+   "start": 253,
+   "end": 298
+  },
+  {
+   "fact": "作者悟出的操作规矩：救援进行时绝不能让菜鸟单独占用椅子，椅子要留给能扫视水面的资深救生员",
+   "anchor": "never put a horn on the chair by themselves",
+   "start": 2089,
+   "end": 2132
+  },
+  {
+   "fact": "搭档 Brian 把消防员兼保镖 Bob 介绍给作者",
+   "anchor": "It was Brian who introduced me to Bob.",
+   "start": 2544,
+   "end": 2582
+  },
+  {
+   "fact": "为考消防员，作者与 Brian 背着重物在十二层楼梯间反复上下奔跑",
+   "anchor": "twelve flights of stairs with weights in our backpacks",
+   "start": 4814,
+   "end": 4868
+  },
+  {
+   "fact": "作者的母亲在写给她的信末要她回国，开始救生员的工作",
+   "anchor": "Come home and start your lifeguarding job.",
+   "start": 10758,
+   "end": 10800
+  },
+  {
+   "fact": "因拒绝上司的手，作者在四月辞去媒体采购员的工作",
+   "anchor": "I quit the job in April",
+   "start": 15648,
+   "end": 15671
+  },
+  {
+   "fact": "作者收到公园局的通知后没有说再见，又报名了一个夏天",
+   "anchor": "I signed up for another season, just as everyone predicted",
+   "start": 16088,
+   "end": 16146
+  }
+ ]
+}
