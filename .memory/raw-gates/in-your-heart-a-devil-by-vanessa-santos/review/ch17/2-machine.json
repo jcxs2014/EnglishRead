@@ -1,0 +1,476 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/ch17 the found father.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/text/ch17_xv.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "His clothes, however, were filthy, his hair matted and dried in clumps. Eliza rushed to him as I sat frozen in place. I ",
+          "ok": true,
+          "pos": 142
+        },
+        {
+          "text": "She sounded so much like Mrs White then, it was like she was momentarily channelling her spirit",
+          "ok": true,
+          "pos": 551
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "But in that one glance I saw that nothing had changed. That his heart was an empty house; he had moved elsewhere",
+          "ok": true,
+          "pos": 1027
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The driver, Tom, was dead. The car was gone, too, naturally, sitting at the bottom of the loch to be fished out in the s",
+          "ok": true,
+          "pos": 1141
+        },
+        {
+          "text": "How neither Alexander nor Nick succumbed to hypothermia nobody knows, though there is plenty of speculation",
+          "ok": true,
+          "pos": 1605
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "When I was noticed, a hush fell and I felt, once again, that curious unbelonging. Eliza came towards me, placed an arm a",
+          "ok": true,
+          "pos": 2588
+        },
+        {
+          "text": "‘It’s an awful thing, what’s happened,’ she said, ‘but don’t be listening to the tales people tell. You know how it is. ",
+          "ok": true,
+          "pos": 2961
+        },
+        {
+          "text": "’ She floundered, looked out the window and shivered. ‘They’re good people, but they like their folklore, they do.’",
+          "ok": true,
+          "pos": 3111
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "For one wild moment, at the top of the staircase about to turn left towards my rooms, I had an impulse to turn right ins",
+          "ok": true,
+          "pos": 3796
+        },
+        {
+          "text": "Sensibly, I ignored the impulse. There was immense sorrow swimming inside me, but beneath that there was still the same ",
+          "ok": true,
+          "pos": 4251
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I sat on the floor before the fire and cried",
+          "ok": true,
+          "pos": 4969
+        },
+        {
+          "text": "Maisie came to check on me, sent by Eliza, no doubt",
+          "ok": true,
+          "pos": 5258
+        },
+        {
+          "text": "She adjusted the covers, pulling them gently over me, before tiptoeing back out and, once again, the tears came",
+          "ok": true,
+          "pos": 5574
+        },
+        {
+          "text": "The women of the house, the staff, they cared for me with more gentleness and affection than I had earned. My isolation ",
+          "ok": true,
+          "pos": 5770
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I cried for the nail in the coffin of my marriage, the death of my hope that I’d ever find my way back to Alexander’s be",
+          "ok": true,
+          "pos": 6530
+        },
+        {
+          "text": "When I finally slept, I dreamt of my mother and our beautiful kitchen flooded with morning light, how she would turn her",
+          "ok": true,
+          "pos": 7136
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The sun was shining, gentle and subdued, but shining nonetheless. That meant I had slept well into the morning, much pas",
+          "ok": true,
+          "pos": 7423
+        },
+        {
+          "text": "‘What,’ I said at last, giving in, ‘can I do for you, Mr Nick?’",
+          "ok": true,
+          "pos": 8909
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘I have found your father.’",
+          "ok": true,
+          "pos": 9769
+        },
+        {
+          "text": "‘Liar,’ I spat out, and turned away from him",
+          "ok": true,
+          "pos": 10111
+        },
+        {
+          "text": "But I had been right to think him vanished. Though I had heard no footsteps, no door opening, Nick was gone. I think I h",
+          "ok": true,
+          "pos": 10878
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "‘Pastéis the Belém,’ he smiled",
+          "ok": true,
+          "pos": 13662
+        },
+        {
+          "text": "Sometimes, leaving the place you have known and loved your whole life cleaves you in half",
+          "ok": true,
+          "pos": 14130
+        },
+        {
+          "text": "‘The heart is an intangible thing, too. Always feeling too much.’",
+          "ok": true,
+          "pos": 14447
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "‘Your father is the sea, he visits you constantly, sending his waves to the shore just to wave at you.’",
+          "ok": true,
+          "pos": 16591
+        },
+        {
+          "text": "‘The man you found is not my father,’",
+          "ok": true,
+          "pos": 18338
+        },
+        {
+          "text": "‘I found your real father, Isabel. Not the one you made up, but the sailor who saw your mother one bright morning and co",
+          "ok": true,
+          "pos": 21733
+        },
+        {
+          "text": "‘His name was Edward. He was from Yorkshire.’",
+          "ok": true,
+          "pos": 22473
+        },
+        {
+          "text": "‘You are Isabel Meneses.’",
+          "ok": true,
+          "pos": 23122
+        },
+        {
+          "text": "‘He’s dead anyway,’",
+          "ok": true,
+          "pos": 24948
+        },
+        {
+          "text": "‘Alexander does not know.’",
+          "ok": true,
+          "pos": 25056
+        }
+      ],
+      "words": 87
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "XV. The Found Father",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 31,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4932,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

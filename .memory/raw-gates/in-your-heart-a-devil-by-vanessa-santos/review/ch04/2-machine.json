@@ -1,0 +1,369 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/ch04 courtship and arrival.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/text/ch04_ii.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "My father was only ever a part of my life through stories. I had nothing but my mother’s words, her own recollections of",
+          "ok": true,
+          "pos": 11
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "We met several times over the course of the next few weeks, spending hours together, strolling by the beach, going on sm",
+          "ok": true,
+          "pos": 919
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I do recall dreaming of him during those weeks, standing at the altar as I paraded down the aisle dressed in white. When",
+          "ok": true,
+          "pos": 2807
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "One afternoon we drove to a nearby town to the south, and hiked along muddy cliffs to see a ruined castle. The day was o",
+          "ok": true,
+          "pos": 4398
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He asked me if I was not keen to pursue my search for my father, the very thing that had brought me to these strange lan",
+          "ok": true,
+          "pos": 9003
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He sat, ramrod straight as always, his face entirely devoid of emotion",
+          "ok": true,
+          "pos": 10592
+        },
+        {
+          "text": "But he stared right at me and said, ‘Why don’t we get married?’",
+          "ok": true,
+          "pos": 10882
+        },
+        {
+          "text": "There was no hint in his voice of what he might be feeling",
+          "ok": true,
+          "pos": 10943
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "When I told Mrs Hayworth the news, sure she would be thrilled (for the gossip alone, if nothing else), she blanched and ",
+          "ok": true,
+          "pos": 12281
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "It was not a magical romantic day, just the wrong kind of whirlwind, passing too quickly and leaving me dizzy. I dressed",
+          "ok": true,
+          "pos": 14856
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "It was, for one, enormous – far grander than I had ever imagined. A castle more than a house, I thought, a morbid castle",
+          "ok": true,
+          "pos": 16947
+        },
+        {
+          "text": "The house, marvellous and monstruous as it was, as it is, had a halo of oppressiveness to it, as though it had seen evil",
+          "ok": true,
+          "pos": 17341
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I rose suddenly from my timid perch on the bed and promptly got caught on the blanket I had forgotten I was half holding",
+          "ok": true,
+          "pos": 31302
+        },
+        {
+          "text": "Alexander S— opened the door and walked in",
+          "ok": true,
+          "pos": 31602
+        }
+      ],
+      "words": 41
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 9,
+        "为什么这样写": 73,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.2,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 13,
+        "为什么这样写": 55,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.25,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 12,
+        "为什么这样写": 70,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.26,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 13,
+        "为什么这样写": 59,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "关键词": 0.19,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 13,
+        "为什么这样写": 66,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.25,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 11,
+        "为什么这样写": 65,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.16,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 13,
+        "为什么这样写": 56,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.21,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 9,
+        "为什么这样写": 53,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.2,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 20,
+        "为什么这样写": 63,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.27,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 11,
+        "为什么这样写": 74,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.2,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "II. Courtship and Arrival",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 6049,
+    "block_target": [
+      11,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

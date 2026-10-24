@@ -1,0 +1,60 @@
+{
+  "chapter": "ch18",
+  "facts": [
+    {
+      "anchor": "He brought me a record player and an Amália Rodrigues record",
+      "start": 133,
+      "end": 193,
+      "fact": "尼克给正在写作的伊莎贝尔送来留声机与阿玛莉亚·罗德里格斯唱片，放起法朵，她听到母语当场落泪。"
+    },
+    {
+      "anchor": "I did not see him or Alexander for a week.",
+      "start": 751,
+      "end": 793,
+      "fact": "尼克揭露身世后，伊莎贝尔整整一周没见到他与亚历山大，汤姆之死压着宅子，数名仆人无声辞职。"
+    },
+    {
+      "anchor": "Tom had not been able to keep his eyes from glancing",
+      "start": 3115,
+      "end": 3167,
+      "fact": "周日教堂里众人传讲：车后座坐着魔鬼，汤姆忍不住偷看后视镜、见到其真身，惊得打滑冲入冰湖。"
+    },
+    {
+      "anchor": "‘Good morning, Mr Stewart.’",
+      "start": 6178,
+      "end": 6205,
+      "fact": "伊莎贝尔独自踏雪绕到湖岸树林，斯图尔特先生照旧坐在固定的岩石上眺望冰湖，她上前问安。"
+    },
+    {
+      "anchor": "I invited Mr Stewart to the house for tea",
+      "start": 9012,
+      "end": 9053,
+      "fact": "她头一次开口邀斯图尔特先生进屋喝茶，他婉拒；她始终没能就传言与他坦诚相谈。"
+    },
+    {
+      "anchor": "‘There are many ways, Mrs S—,’ he said",
+      "start": 10023,
+      "end": 10061,
+      "fact": "斯图尔特临别说「逃脱的办法有很多」，并许诺改日教她认识本地植物，语气重得像暗示。"
+    },
+    {
+      "anchor": "Isla – that’s the girl’s name",
+      "start": 11394,
+      "end": 11423,
+      "fact": "叙述回到老年：伊莎贝尔独居破败的宅邸，只有女孩艾拉不定期来做饭洗衣，她疑心艾拉顺走小物件。"
+    },
+    {
+      "anchor": "He was buried in town, next to his parents.",
+      "start": 15216,
+      "end": 15259,
+      "fact": "亚历山大死后葬在镇上父母墓旁而非家族墓室，伊莎贝尔多年未去扫墓，并自认从未真正了解丈夫。"
+    }
+  ],
+  "relations": "尼克→伊莎贝尔：送唱片、陪坐、谈论亚历山大，是她晚年唯一的来访者；伊莎贝尔→亚历山大：追忆、追问其下落而不得；伊莎贝尔→斯图尔特先生：湖岸固定的伴侣式友情，邀茶被拒、被暗示「逃脱」之法；艾拉（Isla）→伊莎贝尔：不定期的帮佣与偷拿小物件；镇民→S— 家族：以「魔鬼/巫师」传言孤立宅邸。",
+  "numbers": [
+    "XVI",
+    "a week",
+    "a hundred times",
+    "a couple of days"
+  ]
+}

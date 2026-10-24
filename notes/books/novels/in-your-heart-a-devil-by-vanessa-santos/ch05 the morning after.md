@@ -85,7 +85,14 @@ modified: "2026-10-24"
 
 **读者视角提示**：明明是她在床上等待，最后逃跑的却是他——这个反转是理解 Alexander 内心创伤的重要线索，也预示他们婚姻里「追逐与逃避」的拉锯。
 
-> **原句 8:** "He read my silence all too clearly, sighed dejectedly into his coffee. ‘I am so very sorry, my dear. I think I may have caught some sort of awful stomach bug. I behaved atrociously last night, I know. A sudden sickness came over me, I hope you shall forgive me.’"
+> **原句 8:** "My mother’s death had not been sudden, it was drawn out for a long year of illness, and her suffering was so that her parting was a relief. … That, I am sure, was a large part of why I had so hastily packed my bags and left the only home I had ever known, not letting fear or hesitation touch me, the urge, the need, to escape the emptiness my mother’s death left behind driving me mercilessly."
+
+**中文理解**：母亲卧病一年才去世，她的死对 Isabel 是一种解脱，悲伤被冲淡了。但正是这份「空」促使她匆匆收拾行李离开故乡——她需要找一个还能与之相连的人，好让自己不至于彻底孤独。
+**关键词**：drawn out for a long year / escape the emptiness / driving me mercilessly
+**为什么这样写**：这段补上了她闪婚的心理动机——不是被爱情冲昏，而是被孤独驱赶；「escape the emptiness」与全书「空容器/空房子」的意象系统直接咬合。
+**读者视角提示**：读到这里再回头看咖啡馆里的「几周就答应求婚」，就能明白她抓住的不是 Alexander，而是任何能证明她「还被连接着」的人。
+
+> **原句 9:** "He read my silence all too clearly, sighed dejectedly into his coffee. ‘I am so very sorry, my dear. I think I may have caught some sort of awful stomach bug. I behaved atrociously last night, I know. A sudden sickness came over me, I hope you shall forgive me.’"
 
 **中文理解**：他太清楚她的沉默意味着什么，沮丧地对着咖啡叹气，说：「亲爱的，我非常抱歉。我想我可能得了某种严重的胃病。我知道昨晚我表现得糟透了。我突然犯病，希望你能原谅我。」
 
@@ -95,7 +102,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：她一眼看穿这不是病，却选择不追问——观察她如何主动说服自己相信这个借口，这种「自我欺骗」是她性格里重要的部分。
 
-> **原句 9:** "We strolled, my hand tucked into his elbow, as we had so many times before. We circled the apple trees, bursting with life, and he reached up with ease and plucked a perfect red apple, which he handed me, as though he was handing me a new wedding ring. … There was another fountain further off, worn, with no fresh water, only a stale puddle at the bottom. The juxtaposition of the disused, neglected fountain, next to one that flowed so freely, the water glistening in the morning light, perfectly encompassed S— House."
+> **原句 10:** "We strolled, my hand tucked into his elbow, as we had so many times before. We circled the apple trees, bursting with life, and he reached up with ease and plucked a perfect red apple, which he handed me, as though he was handing me a new wedding ring. … There was another fountain further off, worn, with no fresh water, only a stale puddle at the bottom. The juxtaposition of the disused, neglected fountain, next to one that flowed so freely, the water glistening in the morning light, perfectly encompassed S— House."
 
 **中文理解**：两人在花园散步，她的手挽着他的手臂，像从前很多次那样。他们绕过生机勃勃的苹果树，他轻松地伸手摘下一颗完美的红苹果递给她，仿佛递给她一枚新的结婚戒指。不远处还有一座废弃的喷泉，干涸破损，池底只有一汪死水——废弃的喷泉与旁边活水潺潺的喷泉并置，在她看来完美概括了 S— House。
 
@@ -105,7 +112,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：她「没有道谢」的细节说明原谅还没有真正发生；喷泉的比喻值得记住，S— House 就像这座房子本身，永远同时流淌着活水与死水。
 
-> **原句 10:** "I wanted to believe in that version of things, wanted to be the one to cast a spell on him and leave him as enamoured with me as I was with him. It was this hope, stupid and selfish, that sealed me in my coffin in the end. … It hardly matters. I did touch him, and matter to him. The proof is in the life coursing through my veins, still haunting the halls of his home, while he is long gone."
+> **原句 11:** "I wanted to believe in that version of things, wanted to be the one to cast a spell on him and leave him as enamoured with me as I was with him. It was this hope, stupid and selfish, that sealed me in my coffin in the end. … It hardly matters. I did touch him, and matter to him. The proof is in the life coursing through my veins, still haunting the halls of his home, while he is long gone."
 
 **中文理解**：她想相信这个版本的事，想成为那个对他施咒的人，让他像她爱他一样爱她。正是这份希望——愚蠢而自私的希望——最终把她封进了棺材。可这些都不重要了：她确实触碰过他，也确实对他重要。证据是她血脉里流动的生命，仍在他家的走廊里游荡，而他早已离去。
 

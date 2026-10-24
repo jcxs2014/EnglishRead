@@ -1,0 +1,49 @@
+{
+  "chapter": "ch02",
+  "facts": [
+    {
+      "anchor": "‘Some things are like a pulse inside you,’ he said.",
+      "start": 14,
+      "end": 65,
+      "fact": "Alexander 对叙述者说，有些东西像体内的脉搏，人只能不由自主地追随它。"
+    },
+    {
+      "anchor": "turned away from me, as though he was off to find an ocean right then",
+      "start": 200,
+      "end": 269,
+      "fact": "说完他转身背对叙述者，仿佛当真要立刻出发去找那片海洋。"
+    },
+    {
+      "anchor": "he was my sea, receding like the tide",
+      "start": 476,
+      "end": 513,
+      "fact": "叙述者心里答他：她体内同样有脉搏，可他就是她的海，正像潮水一样退去。"
+    },
+    {
+      "anchor": "I am telling everything out of order",
+      "start": 556,
+      "end": 592,
+      "fact": "叙述者自陈她把事情讲得颠三倒四，并不按时间顺序。"
+    },
+    {
+      "anchor": "moments that swell in your mind until you have to tilt your head",
+      "start": 648,
+      "end": 712,
+      "fact": "叙述者说有些时刻会在脑中胀大，人得偏过头去才能看见别的东西。"
+    },
+    {
+      "anchor": "he was romanticising the alphabet as he went along",
+      "start": 852,
+      "end": 902,
+      "fact": "叙述者说 Alexander 说话时把字母也浪漫化，众人却都为之倾倒。"
+    },
+    {
+      "anchor": "He should’ve been a poet, my Alexander, and not a wizard at all.",
+      "start": 948,
+      "end": 1012,
+      "fact": "叙述者断言她的 Alexander 本该是个诗人，根本不该是巫师。"
+    }
+  ],
+  "relations": "叙述者为第一人称女性（本章未具名，此后各章为 Isabel / 婚后 Mrs S—），以老年回望口吻讲述，称 Alexander 为「my Alexander」；Alexander 在本章只有一次出声说话（“he said”），未称呼她。二人关系定位：她是追随者，他是她「体内的脉搏」与「她的海」。",
+  "numbers": []
+}

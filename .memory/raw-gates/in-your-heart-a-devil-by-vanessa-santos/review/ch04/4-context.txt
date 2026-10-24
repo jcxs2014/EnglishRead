@@ -1,0 +1,84 @@
+[原句1] words=43 pos=11
+...Unknown
+
+
+
+
+
+
+II
+
+
+
+
+
+My father was only ever a part of my life through stories. I had nothing but my mother’s words, her own recollections of him, to go by. She would have called me a fool, to travel so far on such a wild chase. She would’ve been horrified, I think, to find me in his homeland, searching like a hound for traces of the man who left her with empty promises and never returned. He was a rogue, I know now, and she would have been even more disappointed to learn I f...
+
+[原句2] words=53 pos=919
+...ide my head ruin me. She was smarter than that, at least, my mother.
+
+
+But in fairness, Alexander was a wilder creature than the world was ready for. I do not want to influence you against him so early on. This is, after all, my version of events. I cannot say, truly, whether I would change the course of things. It was still such a privilege just to witness him.
+
+
+We met several times over the course of the next few weeks, spending hours together, strolling by the beach, going on small adventures further afield. He took me away from the city, nothing too wild, not yet, but the sight of the mountains, the heather-covered fields, what a spell they put on me. As much as he did, I think. I was as enamoured with the land as I was with the mysterious man driving me around. It was almost a year since I had landed in...
+
+[原句3] words=36 pos=2807
+...her’s passing. I was always nervous when meeting him, filled with the kind of jitters that speak of excitement, new love. Yet they always eased into comfortable languor as we spent time together. Each day, as soon as he first spoke, everything else melted away. He was a wizard, of the ordinary kind, putting a spell on me, enchanting me with the very sound of his voice. I do recall dreaming of him during those weeks, standing at the altar as I paraded down the aisle dressed in white. When I stood before him, though, he did not say ‘I do’ but ‘Abracadabra’.
+
+
+I must have heard something, though I do not remember it, some whisper as we walked in somewhere, maybe, for that image to be planted in my mind – wizard. Nobody said anything directly to me, but it was in the air, somehow. At the time, I am sure I thought...
+
+[原句4] words=68 pos=4398
+...ed it with him. He would watch me, a slight tilt to his head, as though nothing else existed for him in that moment. How could I not fall in love?
+
+
+We saw each other almost daily then. Sometimes for nothing more than a quick coffee or a stroll by the sea, if we could not make a day of it. Always when we walked he threaded my arm through his. That simple touch always thrilled me. One afternoon we drove to a nearby town to the south, and hiked along muddy cliffs to see a ruined castle. The day was overcast and my boots were ruined from the walk, but when we stood facing the wild sea and that crumbling old castle, still mostly standing despite being battered by the elements, it was easy to imagine myself the star in a romantic fairy tale. It started to rain not long after, but we were too far from the car for r...
+
+[原句5] words=37 pos=9003
+... more. I was anxious to speak to Mr S—, hoping, I think, to see reflected in his eyes some of the same anguish that was consuming me. I am filling in some gaps from my memory here, as those days are now a blur of heightened emotions, the fear stuck to my skin, tears always just beneath the surface. We met, I believe, that same day, and I am sure the sight of my red-rimmed eyes alarmed him at first. He asked me if I was not keen to pursue my search for my father, the very thing that had brought me to these strange lands. That this was his reply, and not immediate sadness, crushed me. Still, not wanting to reveal my feelings for him, I only vaguely hinted at being worn out by Mrs Hayworth and not knowing how to gracefully extricate myself from her company.
+
+
+I did not think of those words when Mr S— proposed, t...
+
+[原句6] words=40 pos=10592
+...mbination of weather conditions that made staying indoors the only pleasant option. We sat, damp from the dash from the car, but cradling hot mugs of coffee to warm our hands. Somewhere along the way I had lost most of my apprehension in meeting his eyes, and I stared him square in the face. He didn’t seem so intimidating anymore, just dignified, unwilling to waste time on anything he did not care about.
+
+
+He sat, ramrod straight as always, his face entirely devoid of emotion. The things I saw hidden in his eyes in those early days, they tell a story of their own – of a young girl with a head full of tales, of the romantic idea that you can look in someone’s eyes and know things, like magic. But he stared right at me and said, ‘Why don’t we get married?’
+
+
+The...
+
+[原句7] words=42 pos=12281
+...ouch that could be construed as romantic – not even that moment when he dried the rain from my face oh so gently, a moment I recounted in my mind over and over again. I did not credit it then. It was not so unusual, of course. Those were different times, after all, a man of his standing could not be expected to go about kissing girls in public places.
+
+
+We did not settle on a date, that day. We hardly spoke of it again, truly. When I told Mrs Hayworth the news, sure she would be thrilled (for the gossip alone, if nothing else), she blanched and asked me, in a quiet voice unlike any tone I had ever heard from her: ‘Are you quite sure, dear?’
+
+
+‘Whatever could you mean? Of course I am quite sure. I know it is abrupt, and I am quite sorry to part from you – and sorry, indeed, to see your attempts at helping me f...
+
+[原句8] words=42 pos=14856
+... was, of course, no Kathy.
+
+
+And so I was left alone in the city of granite, with the exception of my fiancé, whom I had met a scant few weeks prior. I felt only a shiver of anxiety at that, it must be said. Mostly, I lived in a haze, as though drugged. Nothing seemed to matter all that much anymore, nothing but Mr S—. When he returned to find Mrs Hayworth gone, he decided we must marry post-haste, and he would take me to S— House immediately after.
+
+
+It was not a magical romantic day, just the wrong kind of whirlwind, passing too quickly and leaving me dizzy. I dressed plainly, in a simple white dress I had to procure hastily, wandering in and out of shops in a daze. Mr S— took care of all the other arrangements. There were a couple of witnesses at the town hall, associates of his, I believe, men I don’t thi...
+
+[原句9] words=61 pos=16947
+...trange country, but I had abandoned my quest and signed my life over to a man I hardly knew. I was driving, just then, towards the house that was meant to be my home for the rest of my life, whether I liked it or not. It is hard to convey the weight of these realisations as they crashed over me.
+
+
+When the house did emerge – or, should I say, when quite suddenly we were upon it – it was such a remarkable sight that it wiped all other thoughts from my head. It was, for one, enormous – far grander than I had ever imagined. A castle more than a house, I thought, a morbid castle rightfully hidden from view by the surrounding trees. It sat as though crouched down, sunken into the earth, for all that its towers reached pointlessly into the sky. There was an atmosphere to it that I am sure I did not superimpose onto...
+
+[原句10] words=41 pos=31302
+...did not know how to do it myself. I found a blanket folded inside the wardrobe and pondered wrapping myself in it. It would not be appealing, though, would it, to a handsome Scottish laird, to come claim his bride and find her shivering wrapped in wool.
+
+
+The overhead light, cocooned as it was in an atrocity of a chandelier, cast long shadows upon the room. I dreaded sleeping in those quarters, oppressive and menacing as they were. The knock on the door, when it came, would not have been so startling if the house had not been so quiet, my nerves taut. As it was, I rose suddenly from my timid perch on the bed and promptly got caught on the blanket I had forgotten I was half holding, falling in a tangle on the wooden floor.
+
+
+I have not slept in those rooms for many years now, but I believe the memory of that n...

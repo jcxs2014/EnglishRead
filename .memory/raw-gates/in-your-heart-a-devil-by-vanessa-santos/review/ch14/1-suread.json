@@ -1,0 +1,60 @@
+{
+  "chapter": "ch14",
+  "facts": [
+    {
+      "anchor": "In my dream, the demons surrounding me had all been the same one.",
+      "start": 230,
+      "end": 295,
+      "fact": "伊莎贝尔梦见围住她的恶魔全是同一个，长着那个已开始在她家中出没、面目模糊的男人的脸。"
+    },
+    {
+      "anchor": "one person appears, and one point of connection between them",
+      "start": 736,
+      "end": 796,
+      "fact": "她把怀特太太失踪与新人出现之间的唯一连接点认定为亚历山大。"
+    },
+    {
+      "anchor": "‘Go away,’ he shouted, when I knocked.",
+      "start": 2128,
+      "end": 2166,
+      "fact": "夜里她再次回到亚历山大的卧室门前敲门，他隔着门喊她走开。"
+    },
+    {
+      "anchor": "Alexander pulled away from me violently.",
+      "start": 3386,
+      "end": 3426,
+      "fact": "她把手放上他的手臂想安慰他，亚历山大却猛烈地甩开她，令她想起新婚之夜的退缩。"
+    },
+    {
+      "anchor": "You chose me! You chose to spare me!",
+      "start": 4809,
+      "end": 4845,
+      "fact": "她哭喊着宣称他「选择」了她、饶过了她，并说自己读过他的书、接受他的所作所为。"
+    },
+    {
+      "anchor": "You were empty. Do you understand? You were unsuitable for my purposes.",
+      "start": 5184,
+      "end": 5255,
+      "fact": "亚历山大否认选择过她，说她是「空容器」、连当祭品都不配，只是浪费他的时间。"
+    },
+    {
+      "anchor": "‘Get out!’ Alexander shouted, his face inches from mine",
+      "start": 5500,
+      "end": 5555,
+      "fact": "亚历山大凑到她面前喝令她出去，她逃走时听见他压抑的抽泣。"
+    },
+    {
+      "anchor": "there were flowers at my door, a giant bouquet",
+      "start": 6240,
+      "end": 6286,
+      "fact": "次日早晨她门口出现一大束多到要分插几个花瓶的花，她由此认定他的狠话并非本意。"
+    }
+  ],
+  "relations": "叙述者伊莎贝尔（Isabel），已故老妇的鬼魂，自称「被囚禁在这些墙里的老妇人」；亚历山大（Alexander）是她的丈夫、宅邸男主人，被写成危险的巫师，对她冷淡拒斥；怀特太太（Mrs White）是失踪的女管家；「那个男人／他的同伙」指尼克（Nick），亚历山大的生意伙伴，本章未点名，只在「his associate was not around」处被提及；她当面称他 Alexander，叙述中称「my husband」；乌鸦（his crow）是亚历山大的鸟，在壁炉架上就着铜盘喝水。",
+  "numbers": [
+    "one point of connection",
+    "In one second",
+    "his face inches from mine",
+    "several vases"
+  ]
+}

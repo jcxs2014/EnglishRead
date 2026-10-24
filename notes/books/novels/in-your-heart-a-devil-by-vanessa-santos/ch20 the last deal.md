@@ -95,17 +95,29 @@ modified: "2026-10-24"
 
 ## 本章词汇
 
+### ⭐⭐⭐
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ⭐⭐⭐ soliloquised | 独自长篇大论；独白 | Not long ago he soliloquised, after I tried prying once again into the nature of hell and souls. |
-| ⭐⭐⭐ preternaturally | 超乎自然地；异常地 | He noticed my reaction, always preternaturally attuned to the sway of my moods. |
-| ⭐⭐⭐ surreptitiously | 偷偷地；暗中地 | His Alexander, Nick told me, watched me surreptitiously and regretted me with every heartbeat. |
-| ⭐⭐ undeniability | 不可否认性 | Alexander looked at me and spoke of the undeniability of it. |
-| ⭐⭐ alchemical | 炼金术般的；神秘的 | That the two of them shared something alchemical, transcendental, even if Nick, in the end, could not allow himself to hold on to it. |
-| ⭐⭐ resigned | 认命的；顺从的 | But though his voice was sad, it was also resigned. |
-| ⭐ pulse | 脉搏；心跳 | A pulse, he called it. |
-| ⭐ crow corpse | 乌鸦的尸体 | In my dreams I held his hand as he died and buried a crow corpse in the morning. |
-| ⭐ clever trickster | 聪明的骗子 | On bad days I wonder if I am nothing but an old fool and Nick nothing but a clever trickster infiltrating the house from below. |
+| soliloquised | 独自长篇大论；独白 | Not long ago he soliloquised, after I tried prying once again into the nature of hell and souls. |
+| preternaturally | 超乎自然地；异常地 | He noticed my reaction, always preternaturally attuned to the sway of my moods. |
+| surreptitiously | 偷偷地；暗中地 | His Alexander, Nick told me, watched me surreptitiously and regretted me with every heartbeat. |
+
+### ⭐⭐
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| undeniability | 不可否认性 | Alexander looked at me and spoke of the undeniability of it. |
+| alchemical | 炼金术般的；神秘的 | That the two of them shared something alchemical, transcendental, even if Nick, in the end, could not allow himself to hold on to it. |
+| resigned | 认命的；顺从的 | But though his voice was sad, it was also resigned. |
+
+### ⭐
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| pulse | 脉搏；心跳 | A pulse, he called it. |
+| crow corpse | 乌鸦的尸体 | In my dreams I held his hand as he died and buried a crow corpse in the morning. |
+| clever trickster | 聪明的骗子 | On bad days I wonder if I am nothing but an old fool and Nick nothing but a clever trickster infiltrating the house from below. |
 
 ## 一句话总结
 

@@ -1,0 +1,429 @@
+{
+  "chapter": 18,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/ch18 the devil in the back seat.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/text/ch18_xvi.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Nick showed up just as I was writing that last section. Sometimes it is like he knows I am writing about him. He brought",
+          "ok": true,
+          "pos": 12
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I think I must write more quickly, before it all fades from my mind",
+          "ok": true,
+          "pos": 626
+        },
+        {
+          "text": "After Nick’s revelation about my father, I did not see him or Alexander for a week. Things returned to normal rather swi",
+          "ok": true,
+          "pos": 695
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "On Sunday, I returned to church with Eliza. Truthfully, my heart was no longer in it. I had found God, but He was small ",
+          "ok": true,
+          "pos": 1444
+        },
+        {
+          "text": "Partly out of a sense of duty, partly to get out of the house. Partly because I wanted to recapture that fervour, even i",
+          "ok": true,
+          "pos": 1767
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "What I found in that church was not God. It was a congregation’s worth of whispers and gossip. There was a tale, full-bo",
+          "ok": true,
+          "pos": 2005
+        },
+        {
+          "text": "They said that Tom was nervous to be driving that car, at night, with the Devil in the back seat. They said the laird ha",
+          "ok": true,
+          "pos": 2838
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Naturally the laird lived, for the Devil himself had pulled him out, had kept him from freezing to death. The King of He",
+          "ok": true,
+          "pos": 3369
+        },
+        {
+          "text": "Just the Devil, wriggling around in gossip, jumping from tongue to tongue",
+          "ok": true,
+          "pos": 4010
+        },
+        {
+          "text": "The atmosphere in the house was contagious, the staff’s nervousness infecting me until I found myself pacing for hours. ",
+          "ok": true,
+          "pos": 4190
+        }
+      ],
+      "words": 89
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "It was an overcast morning, the snow on the ground turning to mush in patches",
+          "ok": true,
+          "pos": 4933
+        },
+        {
+          "text": "Beneath the trees, the world was so much stiller. Some patches of snow remained pristine, untouched. I liked to step on ",
+          "ok": true,
+          "pos": 5598
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He turned his head slightly, and smiled at me, before looking towards the loch again",
+          "ok": true,
+          "pos": 6153
+        },
+        {
+          "text": "There was an ease to our friendship, if I can even call it that. A companionship. Often we barely spoke at all, yet his ",
+          "ok": true,
+          "pos": 6658
+        },
+        {
+          "text": "I wished I could paint, so I could sit and minutely examine every aspect of the landscape before me and turn it into som",
+          "ok": true,
+          "pos": 6941
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "A shiver ran down my spine at the thought and I shifted in my seat. A pang of longing for the Atlantic Ocean, lit by the",
+          "ok": true,
+          "pos": 8341
+        },
+        {
+          "text": "‘Do you know, Mr Stewart, sometimes I feel I am a person cleaved in half,’ I said, echoing Nick’s words without realisin",
+          "ok": true,
+          "pos": 8479
+        },
+        {
+          "text": "He nodded. ‘I believe that,’ he said after a pause",
+          "ok": true,
+          "pos": 8602
+        },
+        {
+          "text": "I invited Mr Stewart to the house for tea before I left, an invitation I had never extended before and still felt rather",
+          "ok": true,
+          "pos": 8914
+        }
+      ],
+      "words": 90
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I had never seen Mr Stewart in any other place. He existed for me only in the context of my walks to the loch, always si",
+          "ok": true,
+          "pos": 9688
+        },
+        {
+          "text": "‘There are many ways, Mrs S—,’ he said, as I turned to leave, ‘to escape.’ His words had more weight to them than that o",
+          "ok": true,
+          "pos": 9921
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Now it is mostly just me. There is a girl who comes in, cooks and does some laundry, some general chores",
+          "ok": true,
+          "pos": 11081
+        },
+        {
+          "text": "But Nick comes by, sometimes. He looks just as he did, I think",
+          "ok": true,
+          "pos": 14027
+        },
+        {
+          "text": "He builds a fire and sits next to me and we talk of Alexander",
+          "ok": true,
+          "pos": 14133
+        },
+        {
+          "text": "I heard the rumours, even cloistered up here in the big house. The children still tell the story about bringing Alexande",
+          "ok": true,
+          "pos": 14771
+        },
+        {
+          "text": "‘There’s something demonic about this place,’ before rushing downstairs, her sweeping unfinished",
+          "ok": true,
+          "pos": 16642
+        }
+      ],
+      "words": 95
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 30,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.3,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.69
+      }
+    }
+  ],
+  "form": {
+    "h1": "XVI. The Devil in the Back Seat",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 26,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3274,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

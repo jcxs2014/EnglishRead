@@ -115,6 +115,13 @@ modified: "2026-10-24"
 
 **读者视角提示**：Isabel 说那天「有结局的气味」，这是她在向读者预告转折；而她在楼梯上脱鞋的动作，意味着她不再被动等待。
 
+> **原句 11:** "We sat in the café where we had first met and he held my hand across the table before they brought our drinks. The gesture, sure to have made my heart soar under different circumstances, left me cold. There was an emptiness to it, a mechanical feel. … I suppose that is when I realised S— House had, in fact, become home to me."
+
+**中文理解**：雪化时 Alexander 带她进城，坐在初遇的咖啡馆里握住她的手——这个本该让她心动的动作，此刻只让她觉得空洞、机械。她在人群里反而更孤独，这才意识到 S— House 已经成为她的家。
+**关键词**：left me cold / an emptiness to it / become home to me
+**为什么这样写**：这是本章标题 Peace 的真正落点——平静不是来自幸福，而是来自对「家」的认命；作者让初遇地点重现，使同一个手势在两种心境下互为反讽。
+**读者视角提示**：她厌恶城市的嘈杂与气味——她的感官已经站到 S— House 一边，这比任何誓言都更能说明她被房子同化。
+
 ## 本章词汇
 
 ### ⭐⭐⭐

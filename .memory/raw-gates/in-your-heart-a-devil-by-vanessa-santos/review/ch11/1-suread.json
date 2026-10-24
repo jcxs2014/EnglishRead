@@ -1,0 +1,53 @@
+{
+  "chapter": "ch11",
+  "facts": [
+    {
+      "anchor": "my name is Nick. I’m an associate of your husband’s.",
+      "start": 2753,
+      "end": 2805,
+      "fact": "Mrs White 走后不久，Isabel 在走廊撞见一个穿深色西装、在暴雨中浑身干爽的陌生男子；他欠身自称 Nick，说是她丈夫的 associate。"
+    },
+    {
+      "anchor": "His old teacher, in fact. He was my star pupil.",
+      "start": 3067,
+      "end": 3114,
+      "fact": "Nick 补充说自己是 Alexander 从前的老师，Alexander 是他最出色的学生；Isabel 由此联想到 Alexander 在欧洲求学、冬天去意大利找人的往事。"
+    },
+    {
+      "anchor": "I see you’re busy, Mr S—, I shall leave you gentlemen to it.",
+      "start": 4866,
+      "end": 4926,
+      "fact": "Alexander 转角出现，Isabel 察觉他的目光从自己移向 Nick、那份焦虑不是为她，便丢下这句客套话转身走开，不愿看完这一幕。"
+    },
+    {
+      "anchor": "I decided, on a sudden whim, that I was going for a walk.",
+      "start": 6544,
+      "end": 6601,
+      "fact": "回房后她抖得厉害，等雨停便突发一念决定出门散步，穿最暖的外套与最结实的靴子，从少用的侧门溜出去，不告诉任何人。"
+    },
+    {
+      "anchor": "I was not returning because this land had a magnetic pull on me",
+      "start": 12615,
+      "end": 12678,
+      "fact": "她穿过浓雾走到湖边，坐在几乎贴水的斜枝上看一只天鹅滑过水面，想明白自己不回葡萄牙与父亲、与 Alexander 无关，是这片土地把她吸住了。"
+    },
+    {
+      "anchor": "‘Name’s Stewart,’ he said with a nod.",
+      "start": 16607,
+      "end": 16644,
+      "fact": "她在雾中遇到一位不穿外套、只穿旧毛衣在岸边钓鱼的白发老人；老人见她脸色发白，称她 Mrs S—，并自报姓名 Stewart。"
+    },
+    {
+      "anchor": "You be careful up there, will ye?",
+      "start": 20281,
+      "end": 20314,
+      "fact": "分别时 Mr Stewart 叫住她，叮嘱她「在上面要当心」，说老房子如何如何，却不肯说明缘由；Isabel 既不安又觉得被冒犯。"
+    }
+  ],
+  "relations": "Isabel（叙述者，Mrs S—）；Alexander（Mr S—，丈夫、S— House 的 laird）；Nick 自称是 Alexander 的 associate 兼旧日老师，Isabel 只肯叫他 Nick（心里想学管家叫「Mr Nick」又作罢）；Mr Stewart 是湖边钓鱼的老人、镇上人；Eliza 掌厨；Mrs White 已离开。",
+  "numbers": [
+    "once before",
+    "for what seemed like hours",
+    "a few times"
+  ]
+}

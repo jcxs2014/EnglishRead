@@ -1,0 +1,61 @@
+{
+  "chapter": "ch16",
+  "facts": [
+    {
+      "anchor": "I took off my boots and carried them up",
+      "start": 729,
+      "end": 768,
+      "fact": "她潜回宅子，在前门脱掉靴子并提着上楼，以免留下湿脚印、被仆人看见。"
+    },
+    {
+      "anchor": "had been that of Alexander’s driver",
+      "start": 5203,
+      "end": 5238,
+      "fact": "她忆起昨夜那张熟悉的脸是亚历山大的司机，名字在汤姆、托马斯、蒂姆之间记不清。"
+    },
+    {
+      "anchor": "it was likely, it was almost sure, that he had been sitting in the back seat",
+      "start": 5662,
+      "end": 5738,
+      "fact": "她推断车打滑冲上冻湖时，亚历山大很可能就坐在后座。"
+    },
+    {
+      "anchor": "There were bruises forming along my leg and hip, sore to the touch.",
+      "start": 6529,
+      "end": 6596,
+      "fact": "她洗澡时发现头发里嵌着泥沙、腿与胯上泛起淤青（说明昨夜在雪地里摔倒过），便把皮肤搓到发红，希望没留下明显痕迹。"
+    },
+    {
+      "anchor": "The unmade bed I had slept in after causing my husband’s death.",
+      "start": 7682,
+      "end": 7745,
+      "fact": "「我造成丈夫死亡后睡过的那张没铺的床」这一念头挥之不去，她慌忙起身离开房间。"
+    },
+    {
+      "anchor": "asked her to have my bedsheets changed and the room aired out",
+      "start": 7964,
+      "end": 8025,
+      "fact": "她叫住一名女仆，让她换掉床单并给房间通风。"
+    },
+    {
+      "anchor": "‘Are you feeling quite well?’ she asked, as I sat down.",
+      "start": 8311,
+      "end": 8366,
+      "fact": "早餐时伊莱扎问她身体是否还好，她推说只是睡过了头，端起咖啡时发现自己的手在抖。"
+    },
+    {
+      "anchor": "I’m afraid there’s been an accident.",
+      "start": 12040,
+      "end": 12076,
+      "fact": "伊莱扎脸色苍白地走来紧紧抓住她的手，告诉她恐怕出了事故。"
+    }
+  ],
+  "relations": "伊莎贝尔为叙述者；亚历山大是她的丈夫、宅邸主人，她相信自己致其死亡（车沉入冻湖）；司机（Tom? Thomas? Tim? 她记不清名字）是专为亚历山大照料车子、载他出门的雇员，昨夜驾车者；伊莱扎（Eliza）是厨房女仆，察觉她不适、端来加蜂蜜苹果酱肉桂的燕麦粥，最终告知事故；一名无名女仆替她换床单、给房间通风；怀特太太（Mrs White）已被提及为前任管家，她离开后宅务松弛；她以「my husband」指亚历山大。",
+  "numbers": [
+    "a single owl hoot",
+    "a good few hours",
+    "refilling the tub a second time",
+    "a few spoonfuls",
+    "One of the maids"
+  ]
+}

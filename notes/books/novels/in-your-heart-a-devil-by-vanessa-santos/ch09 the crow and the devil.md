@@ -115,6 +115,13 @@ modified: "2026-10-24"
 
 **读者视角提示**：这是作者在明示读者不要轻信叙述者。从此刻起，每一个「事实」都可能是 Isabel 的想象、恐惧或美化。
 
+> **原句 11:** "A crow perched on Alexander’s shoulder and eyed me curiously. … The world tilted. An unbearable feeling of unreality came over me and I looked at the man I had married, with a bird upon his shoulder. He was a stranger."
+
+**中文理解**：窗外的敲击声原来是乌鸦。Alexander 开窗放它进来，乌鸦停在他肩上打量她。那一刻世界倾斜，她看着这个肩上停着鸟的男人，只觉得他是个陌生人。
+**关键词**：a crow perched / the world tilted / he was a stranger
+**为什么这样写**：章名 The Crow 直到最后一段才落地——乌鸦把「民间传说中的巫师」从隐喻变成可见的形象；「陌生人」一句把她整夜的亲密全部清零。
+**读者视角提示**：乌鸦与动物头、与那本书并列出现，暗示她嫁的不是一个人，而是一整套她无法理解的秩序。
+
 ## 本章词汇
 
 ### ⭐⭐⭐

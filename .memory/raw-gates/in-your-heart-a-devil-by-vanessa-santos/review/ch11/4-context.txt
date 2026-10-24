@@ -1,0 +1,93 @@
+[原句1] words=53 pos=11
+...Unknown
+
+
+
+
+
+
+IX
+
+
+
+
+
+It wasn’t long after Mrs White’s departure that I met Nick, though in truth I cannot say when he first appeared. He was disappointingly and peculiarly plain. I cannot, try as I might, remember his face. He was unremarkable in appearance, I thought. I was left with a vague impression, of tallness, sturdiness. I’m unsure whether that had anything to do with his looks or whether that residue came from Nick himself, his presence, his atmosphere.
+
+
+Yet for all...
+
+[原句2] words=84 pos=518
+...arly plain. I cannot, try as I might, remember his face. He was unremarkable in appearance, I thought. I was left with a vague impression, of tallness, sturdiness. I’m unsure whether that had anything to do with his looks or whether that residue came from Nick himself, his presence, his atmosphere.
+
+
+Yet for all his innocuous looks, there was something about him. Alexander had told me of his family’s tale, the story behind their crest, an ancient saga of heroics where an ancestor saved a king from a wolf by stabbing it with his dagger. When I first saw Nick, I couldn’t help but think: here is the wolf, come for his revenge.
+
+
+Actually, when I first saw Nick I thought he was a ghost, the one I had so long dreamed of finding in this house, a spirit from another realm materialised at last. In part, at least, tha...
+
+[原句3] words=80 pos=1190
+...ght he was a ghost, the one I had so long dreamed of finding in this house, a spirit from another realm materialised at last. In part, at least, that was the result of the weather: outside it was pouring rain once again, the day dark and stormy, that curious spring weather that, in Scotland anyway, can turn itself back into the coldest winter day without any warning. Yet he stood bone dry, unruffled. He stood staring out of a hallway window, backlit strangely in grey. The rain was loud against the glass. He wore a suit, I remember that distinctly, a dark suit as though he was just back from a funeral. When he turned to look at me there was a depth to his eyes, a weight to his look. He carried stories inside him, indubitably. I am sure I took an instinctive step back. If I were the kind to believe in auras, I ...
+
+[原句4] words=59 pos=3296
+... There was a stranger – to me, anyway – roaming the halls of my home, and Alexander had not bothered telling me.
+
+
+‘Yes. His old teacher, in fact. He was my star pupil.’
+
+
+My gaze sharpened. Alexander had told me of his studies in Europe, and of course he had been searching for someone in Italy in the winter – was this the mentor he had hoped to find?
+
+
+‘I am sure he mentioned you,’ was all I said. In that moment I realised he had introduced himself merely as Nick, a familiarity I couldn’t account for but didn’t quite know how to correct. The shock of finding him there, after so many months of embracing the house as my own, safe from strangers, began to fade and be replaced by a certain coldness.
+
+
+Alexander chose that moment to round the corner and join us. I hadn’t heard his footsteps at all, though the cor...
+
+[原句5] words=44 pos=4086
+...otsteps at all, though the corridor he emerged from was a long one, as most of them were. It was as though Nick created a bubble around him, and anyone in his vicinity, that nothing from beyond it could penetrate. Alexander seemed surprised to see me, and I had the wildest notion that he had forgotten my existence entirely.
+
+
+‘Isabel,’ he said, my name slipping from his mouth like a breath held in too long. I wanted so badly to look at him and see kinship, even then. I wanted that moment, after being caught so off guard, to have a tipping point – I wanted, in short, a sign from my husband that his loyalty lay with me. A knowing look, an apologetic smile, a wink, a touch – I do not mean I wanted a hint from him that what we had shared that night, that physical intimacy, was more than a hazy dream. What I wante...
+
+[原句6] words=65 pos=5253
+...ve you gentlemen to it.’
+
+
+I gave neither of them time to reply, merely turned my back and walked away. In truth, I think I can tell you now that it no longer matters, I did not want to see the scene to the end. I did not want to hear empty words coming from Alexander, to watch a stiff formality form between us in front of his associate, the first person I had seen roam the halls of S— House who did not live here. I had been bricking up my heart for months, maybe from the moment I stood before the altar and said I do to a man who had, suddenly, started to feel like a stranger instead of the Prince Charming who had come and saved me. The erosion over time of that fantasy had come in bursts, stops and starts, filled with pockets of fake hope. The night we had spent together had done the most damage, in both dir...
+
+[原句7] words=77 pos=6138
+...some away inside of me and protecting it from all evidence. It was treacherous and precarious, the business of imprinting onto Alexander the façade of partnership. In that hallway, with Nick and his wolf eyes, it would’ve crumbled entirely. It knew that. It did crumble, I just did not wish to see it happen. I had to walk away from the destruction. It would hurt too much to see how little it mattered to anyone else.
+
+
+By the time I had reached my own quarters I was shaking, nervous energy coursing through me like electricity. I paced my room and watched as the rain eased and then stopped entirely. It would have been too much to hope for the sun to come shining then, but I hoped the dark clouds would disperse long enough for me to venture outside. I decided, on a sudden whim, that I was going for a walk.
+
+
+Thou...
+
+[原句8] words=74 pos=11548
+...I walked by the shore for a while in search of a spot where I could sit in stillness. I wandered into the woods, where the trees had provided some shelter from the rain, and made my way carefully along the bank. Eventually I found a patch of ground that didn’t sink under my feet, beneath a tree edging closer to the water than the rest, where I could watch the loch and sit on a leaning branch, bent so low that it was almost level with the floor.
+
+
+It was quiet, and that close to the water the damp smell had an almost rotten edge to it. It didn’t take long for the heat of the walk to leak out of me and the cold to sneak in in its stead. Yet the still waters, shrouded in white, looked beautiful, unreal. I couldn’t see the other side of the loch, couldn’t even see the edges of the ...
+
+[原句9] words=62 pos=14108
+...ble. I would never become that person, even if I were to do all those things. But in that moment, I let the fancy take me. I walked carelessly in the fog, not really concerned about how to find my way back. It was good that I was so distracted by such daydreams, otherwise I would have realised I had no idea how to make my way back to the house, especially not in the fog. As it was, I stumbled upon an old man fishing, as the film in my mind was still playing.
+
+
+He sat on a rock holding a fishing pole, not wearing a coat, with nothing but a sweater to protect him from the intermittent rain. He didn’t seem to mind. It looked as though he had always been there, sitting on that rock since the beginning of time, his white hair dishevelled, skin snarled with wrinkles, strong hands clutching the pole steadily. I thou...
+
+[原句10] words=63 pos=20014
+...ead towards the loch, looming so large that all roads led to it eventually. But picking my way back through the woods would be much harder, and I did not wish to get so lost that night might fall while I still wandered the countryside.
+
+
+Mr Stewart only nodded at me, then pointed towards an opening in the woods which I had not noticed was there.
+
+
+‘Keep straight on that path and you’ll reach the road, ye just have to cross it and walk a wee way to find the driveway.’
+
+
+Relief flooded through me. I made sure to smile brightly at the old man and thank him profusely. I was just turning away when he spoke again: ‘You be careful up there, will ye?’
+
+
+When I glanced back, he wasn’t looking in my direction but staring out at the loch once again. The distant shore was visible n...

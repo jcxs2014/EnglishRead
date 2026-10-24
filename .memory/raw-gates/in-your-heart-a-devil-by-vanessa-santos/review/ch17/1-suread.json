@@ -1,0 +1,59 @@
+{
+  "chapter": "ch17",
+  "facts": [
+    {
+      "anchor": "Eliza rushed to him as I sat frozen in place.",
+      "start": 226,
+      "end": 271,
+      "fact": "亚历山大归来时衣衫污秽、头发结块，伊莱扎冲上前替他脱斗篷、吩咐备茶备浴，伊莎贝尔却僵坐原地未动。"
+    },
+    {
+      "anchor": "The driver, Tom, was dead.",
+      "start": 1157,
+      "end": 1183,
+      "fact": "司机汤姆在坠湖车祸中死亡，汽车沉入湖底待来春打捞，亚历山大与同车的尼克却奇迹般爬出水面、毫发无伤。"
+    },
+    {
+      "anchor": "there, in the old armchair in the corner, sat Nick",
+      "start": 7658,
+      "end": 7708,
+      "fact": "翌日清晨伊莎贝尔醒来，发现尼克坐在她卧室角落的旧扶手椅上，一言不发地看她睡觉。"
+    },
+    {
+      "anchor": "‘I have found your father.’",
+      "start": 9862,
+      "end": 9889,
+      "fact": "尼克开口说出「我找到你父亲了」，这是伊莎贝尔最没料到的消息，也成为本章转折点。"
+    },
+    {
+      "anchor": "My search for my father was a construct.",
+      "start": 15312,
+      "end": 15352,
+      "fact": "伊莎贝尔向读者承认：她来英国寻找父亲的故事是自己编造的谎言，只是为离开里斯本的悲伤。"
+    },
+    {
+      "anchor": "his eyes were whirlpools",
+      "start": 21287,
+      "end": 21311,
+      "fact": "尼克双眼化作漩涡、瞳孔吞没眼白，闪过火焰、海、船与屏幕的光，令伊莎贝尔眩晕欲呕、动弹不得。"
+    },
+    {
+      "anchor": "‘You are Isabel Meneses.’",
+      "start": 23358,
+      "end": 23383,
+      "fact": "尼克揭穿「伊莎贝尔·史密斯」的假身份，道出她的本名，并说她的生父爱德华来自约克郡、早已死去。"
+    },
+    {
+      "anchor": "‘Alexander does not know.’",
+      "start": 25317,
+      "end": 25343,
+      "fact": "尼克临出门告知「亚历山大并不知情」，伊莎贝尔把这句恩惠听成日后要索取代价的交易。"
+    }
+  ],
+  "relations": "尼克→伊莎贝尔：闯入卧室、以沉默施压、揭出寻父真相与本名，处在支配与窥视的位置；伊莎贝尔→亚历山大：归来时渴望扑上去却被对方一眼浇灭，只剩被压住的愤怒；伊莱扎与梅茜（女仆）→伊莎贝尔：张罗茶饭、掖被照料，是家中唯一温柔；亚历山大↔尼克：同车坠湖共生还、被暗示为秘密情人；汤姆→亚历山大：为其驾车而丧命，其父兄与当地殡葬人收尸。",
+  "numbers": [
+    "XV",
+    "seventeen or so",
+    "a hundred times"
+  ]
+}

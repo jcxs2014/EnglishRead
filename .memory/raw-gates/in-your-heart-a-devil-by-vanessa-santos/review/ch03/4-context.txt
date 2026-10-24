@@ -1,0 +1,102 @@
+[原句1] words=84 pos=10
+...Unknown
+
+
+
+
+
+
+I
+
+
+
+
+
+I saw the fires from my window again last night. Every year, like clockwork, they blaze on, and every year I expect it to be the last. Surely after all these years the tradition will die down. Surely enough time has passed that no one remembers silly superstitions anymore. And yet every year I see them out there, pinpricks of light dancing in all the surrounding fields. I wonder what the newer generations think, if they shudder when they hear the stories ...
+
+[原句2] words=52 pos=1091
+... the big house and add fuel to the fire, suddenly scared of shadows in the night?
+
+
+It’s not my story they know. But it’s my story that will linger in this house long after I am gone, and it is mine to tell. Yet even in my story Alexander is the starring role, and, as all stories must, we begin with him, the one they still light all those fear-fuelled fires for.
+
+
+I married Alexander S— much too quickly. Everyone would agree on that. I was captivated by him from the beginning, but at first he was just a man. A handsome man walking into a café where I happened to be, sitting sipping coffee with Mrs Hayworth, as we’d done countless times before. She had been, I am sure, prattling on as I watched the rain fall outside. I had wearied of her by then. That was part of the reason I was so quickly taken in by him, to...
+
+[原句3] words=50 pos=2423
+...worth was all hunger.
+
+
+There was a rush of cold air when he came in, I remember distinctly, like the long fingers of the coming winter reaching through the door trying to snatch away the warmth of the fire. Even now, when winter starts to sneak up on me, I remember him, in his grey overcoat, stepping out from the grey cobblestoned street, bringing a hint of frost inside.
+
+
+He did not glance our way, but Mrs Hayworth wasted no time flagging down a waiter to have him invited over. They were acquaintances of sorts, I do not recall exactly what tenuous connection they had, but it was enough to make him feel obliged to stop by our table. He stood so tall and brooding, I couldn’t help thinking there was a winter inside him, too. He frowned down at us, nodding at Mrs Hayworth once.
+
+
+‘Mr S—!’ Her voice was honey, s...
+
+[原句4] words=67 pos=3349
+...ight hesitation. It did not stop her from her usual routine. ‘How delightful to run into you! Dreadful day, is it not? Though I suppose you are used to it up here.’
+
+
+‘Indeed.’ His voice was smooth, polished. It surprised me, though he looked more than respectable; there was a roughness to him, lurking somewhere in the cut of his jaw or in a vague, mostly hidden sneer around his lips. His eyes flickered to me, briefly. It is hard to write down memories, hard to really slip back into a specific moment in time so far away, but the first instant our eyes met is seared into my mind. I felt as though a shard of ice had penetrated my heart, as though my very being was being held in suspense, frozen in a second in time. It is perfectly possible that my own mind has perverted this memory, that I felt nothing but a ch...
+
+[原句5] words=61 pos=3928
+... mind. I felt as though a shard of ice had penetrated my heart, as though my very being was being held in suspense, frozen in a second in time. It is perfectly possible that my own mind has perverted this memory, that I felt nothing but a chill, a faint premonition of emotions to come, that my mind rearranged slices of what happened, feelings and perceptions, into a neat little theme. But I do know I held perfectly still as Mrs Hayworth introduced me, not hearing her words, not blinking at the sound of my name, though she always rolled it out extravagantly, putting on a slight accent – Maria Isabel, drifting from her like it was an incantation, no matter how many times I asked her to call me simply Isabel.
+
+
+‘Charmed,’ he said, with another quick glance at me. I lowered my eyes, heat rising to my face. Mrs Ha...
+
+[原句6] words=67 pos=8116
+...uld smell her hunger, her desperation, and it marked her.
+
+
+I did not prod her then, though my own curiosity was, for once, piqued. There was something darkly alluring about Mr S—, that much was undeniable, but the very fact of his pull scared me. I would not invite any talk of him, would avoid it if I could, and in a week’s time, give or take, we would be gone, departed somewhere new to continue on our search.
+
+
+In the morning there was a message brought to my room, early enough that I hadn’t even been to see Mrs Hayworth yet. It came in a soft cream envelope with nothing written upon it. There was little preamble inside: Mr S— had found our meeting so pleasurable that he wished to repeat it. Would I join him for a walk along the promenade in the afternoon?
+
+
+It is hard to convey the effect those words had o...
+
+[原句7] words=56 pos=11068
+...d I was a bit short with her that morning. I had been thinking about how best to slip away quietly, for what already felt like an illicit rendezvous with a brooding stranger. But, in the end, I kept seeing her face as she forked her eggs – something about the glint in her eyes, the anticipatory energy humming from her, telling me she was ready and excited, that she had arranged our day already and filled it with social calls. I brusquely told her I was taking a day to myself, that I intended to rest and take a lonesome walk and would not be joining her for tea. I watched her face go through several emotions, but I turned away before she could reply. Perhaps I was cruel, but I cannot say I regretted it.
+
+
+It was an interminable morning, waiting. The day was grey, with brief hints of sunlight, though there were...
+
+[原句8] words=40 pos=13544
+...h care for gossip. Though perhaps it was only Mrs Hayworth he did not care for.
+
+
+We were both quiet during the short drive. The closeness, the silence and my nerves meant that by the time we arrived I was perspiring slightly, and regret was forming in my stomach, solid as a rock. My legs had stabilised somewhat, but I still felt unsteady as he took my hand to help me out of my seat and placed it, seamlessly, upon the crook of his arm.
+
+
+We strolled quietly for a moment, the sea breeze cooling my skin. The North Sea was a grey expanse before us, foaming gently onto the endless beach. After a while, Mr S— spoke: ‘How do you find Scotland, Ms Smith?’
+
+
+The day was quiet, but the breeze had a sharp coldness to it that I had never felt anywhere else. ‘Oh, Scotland is absolutely wonderful,’ I replied.
+
+
+I knew he ...
+
+[原句9] words=43 pos=14856
+...u touring only the cities, then?’
+
+
+I cast my mind back, trying to recall how much of my quest Mrs Hayworth had described to Mr S—. I was silent perhaps a beat too long, for he corrected himself: ‘But of course, you are searching for your father, and where else would you travel for information?’ He paused. ‘How is your search going?’
+
+
+Even now, I could not tell you. Looking back, what Mrs Hayworth and I did seems nothing more than a silly kind of wandering, senseless.
+
+
+I tried to consider his question fairly. I had been moving in such a daze, pulled along by Mrs Hayworth’s gravity, that I did not stop to think of it much anymore. ‘I don’t know,’ I answered, more truthfully than I had intended.
+
+
+He was quiet and we walked on for a while. The sky had closed over, dark clouds now covering any sign of the sun....
+
+[原句10] words=64 pos=16295
+...entioned I should see more of the countryside, raved poetically about the land and its beauty. Yet I recall that initial awkwardness vanished fairly quickly and we talked easily together. I recall a feeling of elation as the rain suddenly surprised us and had us dashing back to the car. I recall, with crystal clarity, his voice asking me if I would like to drive around a bit, and knowing he wanted to postpone ending our time together. Oh, the feeling that gave me, deep in my belly.
+
+
+These are the important things. The way I felt that day matters more than what we did or said, for it explains what came after, it explains the heady, rushed nature of it. I suppose, in a way, we are all slaves to our emotions. I did not, in my overwhelmed state, consider the possibility that his could be that much different than...

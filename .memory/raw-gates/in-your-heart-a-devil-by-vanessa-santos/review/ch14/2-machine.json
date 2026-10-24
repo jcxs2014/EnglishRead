@@ -1,0 +1,404 @@
+{
+  "chapter": 14,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/ch14 the empty vessel.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/text/ch14_xii.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I went back to him. This is my deepest shame",
+          "ok": true,
+          "pos": 12
+        },
+        {
+          "text": "In my dream, the demons surrounding me had all been the same one. They wore the face of the man that had begun to haunt ",
+          "ok": true,
+          "pos": 217
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "With this knowledge, the rest clicked suddenly into place. I found I was not shocked. One person disappears, one person ",
+          "ok": true,
+          "pos": 612
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "After Mrs White was gone, that very night, the house had felt different. Like the contents of the house were suddenly we",
+          "ok": true,
+          "pos": 878
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I went back to him, as I said, once night had fallen again",
+          "ok": true,
+          "pos": 1386
+        },
+        {
+          "text": "I had no illusions about what Alexander was. But his darkness no longer made me shrink away in horror. Had that been the",
+          "ok": true,
+          "pos": 1532
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I knocked, this time. Heard nothing until I walked into the antechamber and knocked on his bedroom door too",
+          "ok": true,
+          "pos": 1811
+        },
+        {
+          "text": "‘Go away,’ he shouted, when I knocked. There was anger in his voice and a part of me was scared. Of course I was scared,",
+          "ok": true,
+          "pos": 2105
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "His crow – what I assumed was his crow – was perched atop the mantelpiece, drinking water out of a small copper plate",
+          "ok": true,
+          "pos": 2395
+        },
+        {
+          "text": "His eyes were bloodshot again, his shirt half undone. His chest gleamed in the moonlight. He was the perfect figure of l",
+          "ok": true,
+          "pos": 2652
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘Isabel,’ he said, his voice catching. He looked away from me. ‘Please leave. I don’t want company tonight.’",
+          "ok": true,
+          "pos": 2831
+        },
+        {
+          "text": "I crossed the room and did not let myself think about it too much when I placed my hand on his arm. I meant it as a comf",
+          "ok": true,
+          "pos": 3206
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘But she is gone now,’ I blurted out, without considering my words. ‘I understand now. You chose to spare me. You chose ",
+          "ok": true,
+          "pos": 3758
+        },
+        {
+          "text": "For here was the force that propelled me forward, even as the horror of the situation threatened to overtake me. That he",
+          "ok": true,
+          "pos": 3986
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘I love you.’ I was crying now, there was no control to my outburst. ‘You chose me! You chose to spare me!’",
+          "ok": true,
+          "pos": 4677
+        },
+        {
+          "text": "‘I did not choose you.’ He spoke in a low voice. There was simmering rage beneath his words. ‘You were empty",
+          "ok": true,
+          "pos": 5020
+        },
+        {
+          "text": "You’re an empty vessel, there’s nothing inside you. You were nothing but a waste of my time.’",
+          "ok": true,
+          "pos": 5237
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "‘Get out!’ Alexander shouted, his face inches from mine, distorted",
+          "ok": true,
+          "pos": 5420
+        },
+        {
+          "text": "I fled, but fast as I was, I still heard an anguished sob escape my husband",
+          "ok": true,
+          "pos": 5553
+        },
+        {
+          "text": "I don’t think all of me returned to this body",
+          "ok": true,
+          "pos": 6644
+        },
+        {
+          "text": "It is easy to feel like I am an empty house, sometimes. But when I left my body, it was the house that kept my soul warm",
+          "ok": true,
+          "pos": 7227
+        }
+      ],
+      "words": 66
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.91
+      }
+    }
+  ],
+  "form": {
+    "h1": "XII. The Empty Vessel",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 21,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1397,
+    "block_target": [
+      3,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/ch05 the morning after.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/text/ch05_iii.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I was pulling myself up already when he entered, but still he rushed to my side and helped me to my feet, a small frown ",
+          "ok": true,
+          "pos": 12
+        },
+        {
+          "text": "‘Thank you, I am quite well,’ I said, pre-emptively, cheeks red with embarrassment. I delighted in seeing him changed ou",
+          "ok": true,
+          "pos": 160
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "We stood awkwardly for a moment. That in itself was another great blow. Here, in this great house that now belonged to u",
+          "ok": true,
+          "pos": 658
+        },
+        {
+          "text": "‘So how do you find S— House?’ he asked eventually, taking a step away from me and looking around the room as though try",
+          "ok": true,
+          "pos": 1044
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘No, not at all,’ I stammered out, just as he found the covered head on the floor. He looked at me, amused. Yes, I decid",
+          "ok": true,
+          "pos": 1369
+        },
+        {
+          "text": "unsettling.’",
+          "ok": true,
+          "pos": 1592
+        },
+        {
+          "text": "‘Of course not, my dear. I will have all the heads removed from your quarters.’ He paused, then looked up at me with a w",
+          "ok": true,
+          "pos": 1699
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I laughed, more from nerves than from amusement. Now that he was there, I was anxious and impatient, strung out. Everyth",
+          "ok": true,
+          "pos": 1851
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "At last he turned. His face wore an expression I cannot describe. A grim resolve, a hint of disgust – or was it despair?",
+          "ok": true,
+          "pos": 3085
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "When I opened my eyes, he was staring at me with something like horror on his face. He looked at me as though I were a m",
+          "ok": true,
+          "pos": 4137
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He fled, whispering an ‘I’m sorry’ as he exited the room. He fled as though he was fleeing a monster, afraid he’d get ea",
+          "ok": true,
+          "pos": 8691
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He read my silence all too clearly, sighed dejectedly into his coffee. ‘I am so very sorry, my dear. I think I may have ",
+          "ok": true,
+          "pos": 14754
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "We strolled, my hand tucked into his elbow, as we had so many times before. We circled the apple trees, bursting with li",
+          "ok": true,
+          "pos": 17663
+        },
+        {
+          "text": "There was another fountain further off, worn, with no fresh water, only a stale puddle at the bottom. The juxtaposition ",
+          "ok": true,
+          "pos": 19048
+        }
+      ],
+      "words": 93
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I wanted to believe in that version of things, wanted to be the one to cast a spell on him and leave him as enamoured wi",
+          "ok": true,
+          "pos": 21247
+        },
+        {
+          "text": "It hardly matters. I did touch him, and matter to him. The proof is in the life coursing through my veins, still hauntin",
+          "ok": true,
+          "pos": 23914
+        }
+      ],
+      "words": 82
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 13,
+        "为什么这样写": 88,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.26,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 14,
+        "为什么这样写": 80,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.24,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 14,
+        "为什么这样写": 74,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.24,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 10,
+        "为什么这样写": 69,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.22,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 14,
+        "为什么这样写": 74,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.22,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 19,
+        "为什么这样写": 75,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.22,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 11,
+        "为什么这样写": 71,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.2,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 10,
+        "为什么这样写": 85,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.19,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 118,
+        "关键词": 22,
+        "为什么这样写": 101,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.26,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 14,
+        "为什么这样写": 76,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.23,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.83
+      }
+    }
+  ],
+  "form": {
+    "h1": "III. The Morning After",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4562,
+    "block_target": [
+      8,
+      14
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -88,17 +88,29 @@ modified: "2026-10-24"
 
 ## 本章词汇
 
+### ⭐⭐⭐
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ⭐⭐⭐ outsmarted | 智胜；以智取胜 | Folklore knows him as The Wizard Laird of Skene – the man who outsmarted the Devil not once, but twice. |
-| ⭐⭐⭐ dissipated | 消散；逐渐消失 | I went back occasionally, visiting when I could, and eventually that feeling dissipated. |
-| ⭐⭐⭐ positioned | 被置于（某种关系或位置） | Must women always be positioned in relation to men? |
-| ⭐⭐ anecdotes | 轶事；趣闻 | I included many of these charming anecdotes and left many others out. |
-| ⭐⭐ compliant | 顺从的；百依百顺的 | Or does she lie there and fear that he will turn his dark arts her way unless she’s a very compliant wife? |
-| ⭐⭐ outsiders | 局外人；外来者 | I hope Isabel speaks to the forgotten women of history, and the outsiders, increasingly reminded they will never belong. |
-| ⭐ laird | （苏格兰）领主；地主 | He was a laird (a minor lord) and lived in the town of Skene, in his family home Skene House. |
-| ⭐ magpie | 喜鹊 | Alexander won, his magpie tearing the Devil’s raven apart. |
-| ⭐ hackles | （颈背的）毛；令人警觉/发怒 | That is why the hackles rise at the back of your head. |
+| outsmarted | 智胜；以智取胜 | Folklore knows him as The Wizard Laird of Skene – the man who outsmarted the Devil not once, but twice. |
+| dissipated | 消散；逐渐消失 | I went back occasionally, visiting when I could, and eventually that feeling dissipated. |
+| positioned | 被置于（某种关系或位置） | Must women always be positioned in relation to men? |
+
+### ⭐⭐
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| anecdotes | 轶事；趣闻 | I included many of these charming anecdotes and left many others out. |
+| compliant | 顺从的；百依百顺的 | Or does she lie there and fear that he will turn his dark arts her way unless she’s a very compliant wife? |
+| outsiders | 局外人；外来者 | I hope Isabel speaks to the forgotten women of history, and the outsiders, increasingly reminded they will never belong. |
+
+### ⭐
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| laird | （苏格兰）领主；地主 | He was a laird (a minor lord) and lived in the town of Skene, in his family home Skene House. |
+| magpie | 喜鹊 | Alexander won, his magpie tearing the Devil’s raven apart. |
+| hackles | （颈背的）毛；令人警觉/发怒 | That is why the hackles rise at the back of your head. |
 
 ## 一句话总结
 

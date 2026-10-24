@@ -21,7 +21,7 @@ modified: "2026-10-24"
 
 **关键词**：stories / recollections / a wild chase（故事、回忆、疯狂的追寻）
 
-**为什么这样写**：开篇用「only ever through stories」把父亲抽象成一个从未在场的叙述对象，母亲的话是唯一证据；「She would have called me a fool」借已故母亲的想象性责备制造遗憾与执念，为这场追父之旅定下动机，也让读者明白 Isabel 是靠二手传说长大的。
+**为什么这样写**：开篇用「only ever a part of my life through stories」把父亲抽象成一个从未在场的叙述对象，母亲的话是唯一证据；「She would have called me a fool」借已故母亲的想象性责备制造遗憾与执念，为这场追父之旅定下动机，也让读者明白 Isabel 是靠二手传说长大的。
 
 **读者视角提示**：记住「wild chase」——她这趟旅程从一开始就有徒劳的成分；父亲这个缺席者会成为理解她后来选择的重要背景。
 
@@ -55,7 +55,14 @@ modified: "2026-10-24"
 
 **读者视角提示**：留意她「imagine myself the star」的习惯：她一直给自己编写浪漫剧本，这解释了为什么她会如此轻率地接受求婚；废墟城堡也预演了 S— House 的模样。
 
-> **原句 5:** "He asked me if I was not keen to pursue my search for my father, the very thing that had brought me to these strange lands. That this was his reply, and not immediate sadness, crushed me."
+> **原句 5:** "She talked of moving on to Inverness one evening, and when I showed little excitement in the matter, decided she would book everything the very next day. I left her abruptly, locked myself in my room and tried to clamp down the panic that threatened to surface. I cried for a long time, curled up in my bed, images of Mr S—’s serious face rising up in my mind again and again."
+
+**中文理解**：Mrs Hayworth 提出去 Inverness，Isabel 反应冷淡，她就决定明天订票。Isabel 突然离开、把自己锁进房间，压不住涌上来的恐慌，哭了很久，脑中反复浮现 Mr S— 严肃的脸。
+**关键词**：Inverness / clamp down the panic / again and again
+**为什么这样写**：这是全章第一次让她的依恋强度自己暴露——不是通过他的魅力，而是通过「即将被带走」的恐惧；「clamp down」这个用力压制的动词，写她已知道自己陷得太深。
+**读者视角提示**：Mrs Hayworth 想离开的真实理由是「隔离」而不是旅行——她已看出危险，而 Isabel 的眼泪预告了她会不顾一切留下。
+
+> **原句 6:** "He asked me if I was not keen to pursue my search for my father, the very thing that had brought me to these strange lands. That this was his reply, and not immediate sadness, crushed me."
 
 **中文理解**：他问我是不是不想继续寻找父亲了——那件把我带到这片陌生土地的事。他的回答竟然是这样，而不是立刻露出悲伤，这让我心碎。
 
@@ -65,7 +72,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：这是关系里第一个裂痕的现场：她需要情绪，他给逻辑。注意这种错位在婚后会反复以更严重的形式出现。
 
-> **原句 6:** "He sat, ramrod straight as always, his face entirely devoid of emotion. … But he stared right at me and said, ‘Why don’t we get married?’ … There was no hint in his voice of what he might be feeling."
+> **原句 7:** "He sat, ramrod straight as always, his face entirely devoid of emotion. … But he stared right at me and said, ‘Why don’t we get married?’ … There was no hint in his voice of what he might be feeling."
 
 **中文理解**：他像往常一样坐得笔直，脸上毫无表情。但他直视着我，说：「我们结婚好不好？」他的声音里没有任何迹象能看出他的感受。
 
@@ -75,7 +82,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：她没有等他说完就答应。读者可以留意：这场婚姻里主动表达情感的一直是她，而他始终隔着距离——这正是书名「你心里的魔鬼」要探索的张力。
 
-> **原句 7:** "When I told Mrs Hayworth the news, sure she would be thrilled (for the gossip alone, if nothing else), she blanched and asked me, in a quiet voice unlike any tone I had ever heard from her: ‘Are you quite sure, dear?’"
+> **原句 8:** "When I told Mrs Hayworth the news, sure she would be thrilled (for the gossip alone, if nothing else), she blanched and asked me, in a quiet voice unlike any tone I had ever heard from her: ‘Are you quite sure, dear?’"
 
 **中文理解**：我把消息告诉 Mrs Hayworth，满以为她会很兴奋（哪怕只是为了八卦），结果她脸色发白，用一种我从未听过的轻声问我：「你确定吗，亲爱的？」
 
@@ -85,7 +92,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：记住这个瞬间：Mrs Hayworth 知道一些关于 Mr S— 的事，却始终没有说出来。这也是 Isabel 后来怨恨她的原因之一。
 
-> **原句 8:** "It was not a magical romantic day, just the wrong kind of whirlwind, passing too quickly and leaving me dizzy. I dressed plainly, in a simple white dress I had to procure hastily, wandering in and out of shops in a daze."
+> **原句 9:** "It was not a magical romantic day, just the wrong kind of whirlwind, passing too quickly and leaving me dizzy. I dressed plainly, in a simple white dress I had to procure hastily, wandering in and out of shops in a daze."
 
 **中文理解**：那不是神奇浪漫的一天，只是错误的旋风，过得太快，让我头晕。我穿着朴素的衣服，一条不得不匆忙买来的简单白裙，恍惚地进出一家家店铺。
 
@@ -95,7 +102,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：对比前文的童话想象与这里「not a magical romantic day」的现实，能看到幻想与现实的落差正在扩大；这个婚礼没有任何仪式性细节可记住，预示婚姻本身也将缺乏实质内容。
 
-> **原句 9:** "It was, for one, enormous – far grander than I had ever imagined. A castle more than a house, I thought, a morbid castle rightfully hidden from view by the surrounding trees. … The house, marvellous and monstruous as it was, as it is, had a halo of oppressiveness to it, as though it had seen evil and enjoyed the sight."
+> **原句 10:** "It was, for one, enormous – far grander than I had ever imagined. A castle more than a house, I thought, a morbid castle rightfully hidden from view by the surrounding trees. … The house, marvellous and monstruous as it was, as it is, had a halo of oppressiveness to it, as though it had seen evil and enjoyed the sight."
 
 **中文理解**：首先，它大得惊人——远比我曾想象的宏伟。我想，与其说是一座房子，不如说是一座城堡，一座被周围树木合情合理地藏起来的阴森城堡。这栋房子无论过去还是现在都既奇妙又骇人，带着一圈压抑的光晕，仿佛见过邪恶并且享受目睹它。
 
@@ -105,7 +112,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：注意她说「as it is」——直到老年写作时这房子仍是那样。S— House 的压迫感不是新婚夜的想象，而是她一辈子与之共存的现实。
 
-> **原句 10:** "I rose suddenly from my timid perch on the bed and promptly got caught on the blanket I had forgotten I was half holding, falling in a tangle on the wooden floor. … Alexander S— opened the door and walked in."
+> **原句 11:** "I rose suddenly from my timid perch on the bed and promptly got caught on the blanket I had forgotten I was half holding, falling in a tangle on the wooden floor. … Alexander S— opened the door and walked in."
 
 **中文理解**：我从床边怯生生的座位上猛地站起来，却被我忘了一半还拿着的毯子绊住，乱七八糟地摔在木地板上。……Alexander S— 打开门，走了进来。
 

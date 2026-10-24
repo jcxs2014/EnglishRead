@@ -1,0 +1,399 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/ch10 the empty house.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/text/ch10_viii.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "A week later, Mrs White vanished. Alexander told me over breakfast that she had left, called away by family commitments.",
+          "ok": true,
+          "pos": 13
+        },
+        {
+          "text": "I sat in a daze. His eyes were glassy and would not meet mine. He ate in a rush, barely chewing his food before swallowi",
+          "ok": true,
+          "pos": 268
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Mrs White had become something more to me than a housekeeper. We were allies. She had become a sort of mother figure to ",
+          "ok": true,
+          "pos": 392
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘When will she be back?’ In Alexander’s pause there was endless subtext, its meaning just beyond my grasp. ‘I don’t know",
+          "ok": true,
+          "pos": 753
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He shoved his chair back forcefully, the scratch of it against the floor echoing in the room. His hands shook as he stoo",
+          "ok": true,
+          "pos": 1515
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Our interactions had become strained since that night. We did not speak of it, and I stayed away from his rooms",
+          "ok": true,
+          "pos": 1928
+        },
+        {
+          "text": "Enough time had passed that I felt ashamed of having fled so abruptly in the morning, but it was a small feeling compare",
+          "ok": true,
+          "pos": 2480
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Someone did come, eventually, to replace Mrs White. I cannot recall her name anymore, she did not stay long. She was old",
+          "ok": true,
+          "pos": 2961
+        },
+        {
+          "text": "We tried a few more times, over the years, but that was the start, really, of S— House’s decline",
+          "ok": true,
+          "pos": 3305
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "There was only what I knew of her, how I had known her: Mrs White who brought me countless cups of coffee, placed them l",
+          "ok": true,
+          "pos": 3768
+        },
+        {
+          "text": "‘It’s precious,’ she told me, ‘every memory you have of your mother. Every moment you got to spend with her is a little ",
+          "ok": true,
+          "pos": 4333
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘He might seem cold, but give it time, dear,’ she said",
+          "ok": true,
+          "pos": 5217
+        },
+        {
+          "text": "‘His mother died when he was so young, and his father",
+          "ok": true,
+          "pos": 5385
+        },
+        {
+          "text": "well. He spent so much time by himself.’",
+          "ok": true,
+          "pos": 5439
+        },
+        {
+          "text": "‘Once he brought home a frog. He hid it in his hands and sprung it on me as I was making sure he was settled down for di",
+          "ok": true,
+          "pos": 5576
+        },
+        {
+          "text": "‘His childhood was not a bright one, Mrs S—. You must know that. His heart is good, though. No matter what folks around ",
+          "ok": true,
+          "pos": 5965
+        }
+      ],
+      "words": 96
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The first day without her seemed so long and empty. Although we did not always spend a lot of time together, her absence",
+          "ok": true,
+          "pos": 6158
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I was halfway up when I became aware of it: a pressure behind me, the force of a gaze in the darkness willing me to turn",
+          "ok": true,
+          "pos": 8426
+        },
+        {
+          "text": "The voices came then, low and gentle, like they were trying not to scare me: floating disembodied voices whispering in t",
+          "ok": true,
+          "pos": 9080
+        },
+        {
+          "text": "My flimsy bravery deserted me; I took off at a run",
+          "ok": true,
+          "pos": 9911
+        }
+      ],
+      "words": 85
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.34
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "VIII. The Empty House",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 20,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2037,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

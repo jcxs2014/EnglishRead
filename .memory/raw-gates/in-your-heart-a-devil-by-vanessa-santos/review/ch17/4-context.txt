@@ -1,0 +1,102 @@
+[原句1] words=74 pos=142
+...Unknown
+
+
+
+
+
+
+XV
+
+
+
+
+
+I don’t know how many hours it was before Alexander walked in, but he looked the same as he always had. Handsome, composed, remote. His clothes, however, were filthy, his hair matted and dried in clumps. Eliza rushed to him as I sat frozen in place. I watched as she fussed over him, took his cloak and ordered people around – someone to make him tea, with a strong shot of whisky in it, someone to draw him a bath. She ordered Alexander too, to take off his dirty shoes and leave them by the door before he tracked dirt all over the house. She sounded so much like Mrs White then, it was l...
+
+[原句2] words=22 pos=1027
+...n. He looked slightly confused, looking at Eliza like he did not recognise her, but he said nothing and did as she asked. When his eyes met mine, over the commotion, I am not sure what he saw in my shocked face. I wanted dearly to be his wife in that moment, to rise and rush to him too, to hold him against me and cry in his arms from the sheer relief of it all. But in that one glance I saw that nothing had changed. That his heart was an empty house; he had moved elsewhere.
+
+
+The driver, Tom, was dead. The car was gone, too, naturally, sitting at the bottom of the loch to be fished out in the spring. Alexander was, miraculously, unharmed. As was the man who had been with him in the back, his ever-present business partner. He was not with Alexander, just then, but they had both, so the story went, manag...
+
+[原句3] words=62 pos=1141
+... asked. When his eyes met mine, over the commotion, I am not sure what he saw in my shocked face. I wanted dearly to be his wife in that moment, to rise and rush to him too, to hold him against me and cry in his arms from the sheer relief of it all. But in that one glance I saw that nothing had changed. That his heart was an empty house; he had moved elsewhere.
+
+
+The driver, Tom, was dead. The car was gone, too, naturally, sitting at the bottom of the loch to be fished out in the spring. Alexander was, miraculously, unharmed. As was the man who had been with him in the back, his ever-present business partner. He was not with Alexander, just then, but they had both, so the story went, managed to crawl out of the water unscathed. They had gone back for Tom, but by the time they pulled him ashore it was already ...
+
+[原句4] words=87 pos=2588
+...e had started to freeze over. There was no mention in the tale of either Alexander or Nick being cared for, seeing a doctor, or even drying out next to a fire.
+
+
+Most of this I heard after Alexander had left, from the man who had first delivered the news. A group of people, really, who had gathered in the kitchen and talked of the incident as I lingered in the doorway. When I was noticed, a hush fell and I felt, once again, that curious unbelonging. Eliza came towards me, placed an arm around me and led me to the kitchen table, sat me down and poured me a cup of tea. The rest of them dispersed, without being told to, and I sat there for a while, as Eliza fetched a slice of currant cake and set that before me, chattering all the while.
+
+
+‘It’s an awful thing, what’s happened,’ she said, ‘but don’t be listening...
+
+[原句5] words=78 pos=3796
+..., Eliza?’
+
+
+‘Donna mind aa that.’ Her burr got thicker and she turned away from me, getting up and grabbing dishes from the table to set in the sink.
+
+
+I opened my mouth to ask more questions, but had a sip of tea instead, watched as she bustled around the kitchen in a sudden flurry of activity. I ate my cake quietly and left without a word, leaving her peeling potatoes with her back to me, rigid.
+
+
+For one wild moment, at the top of the staircase about to turn left towards my rooms, I had an impulse to turn right instead. Not for some fantasy that I’d be going to a loving husband after a traumatic ordeal. But there had been a quiet companionship between us during those first months of our marriage, when I still had some hope of breaking through to him and he would visit me frequently. Those were the versions...
+
+[原句6] words=72 pos=4969
+..., the bed had been freshly made. A fire burned in the fireplace, but the room smelled of snow, of the cold outdoors. In the middle of all that was happening, someone had been in there and opened the windows wide, made the bed fresh, swept out the ashes from both fireplaces and set down new logs to burn. The bathroom had been scrubbed clean, a vase of dried hydrangeas left on the table of my sitting room. I sat on the floor before the fire and cried.
+
+
+I did not go down for supper, despite knowing Alexander was likely to attend for once. I tried not to imagine him sitting alone in the candlelight. Or worse, sitting across from Nick, wearing the kind of flushed soft look he never had for me.
+
+
+Maisie came to check on me, sent by Eliza, ...
+
+[原句7] words=77 pos=6530
+...possible now to look back and not see how far beyond that they went, how soft they were with me. Maisie was only a maid, I barely spoke to her. Yet she had tucked me into bed, that woman-child, with the care of a mother. I knew nothing of her. I do not even recall when she left, let alone where she went.
+
+
+I cried until I was exhausted, entirely spent. There seemed to be years and years’ worth of tears inside me. I cried for the nail in the coffin of my marriage, the death of my hope that I’d ever find my way back to Alexander’s bed. But mainly, I cried for the loss of my mother, and I cried for Tom, whose blood was undoubtedly on my hands. Maybe I did not cry for him so much as I cried for the death of the remains of my innocence. I was fundamentally a different person, someone whom my mother would not recog...
+
+[原句8] words=57 pos=7423
+...e with their reality on my own. The core of me was more unknowable still – I was travelling further and further away from humanity. When I finally slept, I dreamt of my mother and our beautiful kitchen flooded with morning light, how she would turn her face towards the sun and smile. I woke with the taste of cinnamon on my lips, as though waking had interrupted the very moment I was tasting my mother’s rice pudding.
+
+
+The sun was shining, gentle and subdued, but shining nonetheless. That meant I had slept well into the morning, much past my usual time. I rolled over in bed, and there, in the old armchair in the corner, sat Nick, watching me.
+
+
+He was mostly in shadows, which at the time I am not sure I even realised was strange, given the windows all along that wall were lighting the whole room in a comfortin...
+
+[原句9] words=49 pos=9769
+...der a kind of respite from my bitterness, but this man – to me, this man would always be the Devil in his heart.
+
+
+He smiled. I think he smiled. I could not truthfully tell you if it was a kind smile or a mocking smile. It was a curve of his lips, barely seen in the shadows. I waited for a confrontation about my actions the day before, I waited to hear from his lips a confirmation of the love affair I knew was happening beneath my roof.
+
+
+‘I have found your father.’
+
+
+His voice was smooth melted butter, a cat sprawled on a sunbeam, and a clap of thunder. Of all the things I expected him to say, that was the most surprising. I stared at him and hoped my eyes were doing the talking for me. The room seemed to fill with f...
+
+[原句10] words=34 pos=13662
+... were authentic or someone’s attempt at something like our pastéis. On the first bite I found my eyes closing – I had, no doubt, a similar blissful expression on my face. The flaky, buttery pastry, the creamy filling, the dusting of cinnamon, all of it was exactly right. An explosion of flavours I had not gotten to experience in so long. My chest ached in the most bittersweet way.
+
+
+‘Where did you get these?’ I asked, in the most unladylike way, talking through a mouthful of pastel.
+
+
+‘Pastéis the Belém,’ he smiled.
+
+
+I nearly choked on my pastry. I did not reply to such an absurd statement. These pastéis were clearly fresh. Nick was here now, had been here the day before. He couldn’t have travelled to Portugal to get th...
+
+[原句11] words=87 pos=16591
+...aught hers. An untoward encounter, a night – or a few nights, or a few minutes – of pleasure, and they never saw each other again. My mother did, when I was younger, make up stories about how he had to leave but always meant to come back, or send for her, how he must have lost her address in the seas and mourned it daily. But as I grew, she became more reluctant to tell tales, to speak of him at all. When I was old enough, asking once again for all the details, my mother sighed and said, ‘Isabel, forget that man. Your father is the sea, he visits you constantly, sending his waves to the shore just to wave at you. Every time you look out the window, there is your father.’
+
+
+After that, she would say no more. There was sometimes a smile, a smirk she had. I used to think it was tenderness, but n...

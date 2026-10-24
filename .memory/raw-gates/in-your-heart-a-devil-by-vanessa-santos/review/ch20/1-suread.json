@@ -1,0 +1,59 @@
+{
+  "chapter": "ch20",
+  "facts": [
+    {
+      "anchor": "‘Hell is not what you think it is,’ he said.",
+      "start": 371,
+      "end": 415,
+      "fact": "尼克向伊莎贝尔宣称地狱并非她想象的样子，并拒绝透露死后世界的秘密。"
+    },
+    {
+      "anchor": "There is nothing but the present there, no past, no future.",
+      "start": 552,
+      "end": 611,
+      "fact": "尼克描述地狱里只有当下、没有过去与未来，把“活在当下”说成是一个不该跌入的洞。"
+    },
+    {
+      "anchor": "What if I am not me but a Catholic schoolboy, abed with a fever",
+      "start": 2970,
+      "end": 3033,
+      "fact": "尼克自述怀疑自身是否真实，设想自己也许只是一个发烧卧床的天主教男学生脑中展开的地狱。"
+    },
+    {
+      "anchor": "‘It was a neat little trick you pulled there at the end,’ he told me.",
+      "start": 5799,
+      "end": 5868,
+      "fact": "尼克点破伊莎贝尔临终那句谎话是“漂亮的小把戏”，语气悲伤却认命，甚至有点骄傲。"
+    },
+    {
+      "anchor": "‘You are more like me than you know,’ he said",
+      "start": 6311,
+      "end": 6356,
+      "fact": "尼克对伊莎贝尔说她比自己以为的更像我，并从中感到某种诗意的公正。"
+    },
+    {
+      "anchor": "A pulse, he called it.",
+      "start": 5388,
+      "end": 5410,
+      "fact": "伊莎贝尔回忆亚历山大生前唯一一次谈到尼克，把他的存在称作“脉搏”。"
+    },
+    {
+      "anchor": "There is a way, I know, of merging with the house.",
+      "start": 11331,
+      "end": 11381,
+      "fact": "伊莎贝尔记起亚历山大书里一个咒语的模糊形状，决意用它与宅子合为一体。"
+    },
+    {
+      "anchor": "I am sure he will be willing to make one more deal.",
+      "start": 11933,
+      "end": 11984,
+      "fact": "伊莎贝尔等待尼克再次来访，确信他愿意再做一笔交易。"
+    }
+  ],
+  "relations": "伊莎贝尔（叙述者，已近暮年）与定期来访的恶魔尼克；亚历山大已死，仅存于回忆与梦中；宅子 S— House 本身是被她视为归宿的对象。",
+  "numbers": [
+    "the fifth floor",
+    "countless hours",
+    "Centuries of history"
+  ]
+}

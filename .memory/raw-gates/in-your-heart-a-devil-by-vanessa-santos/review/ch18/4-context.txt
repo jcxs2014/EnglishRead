@@ -1,0 +1,111 @@
+[原句1] words=69 pos=12
+...Unknown
+
+
+
+
+
+
+XVI
+
+
+
+
+
+Nick showed up just as I was writing that last section. Sometimes it is like he knows I am writing about him. He brought me a record player and an Amália Rodrigues record, which he set up and played while we sat together by the fire. I am not ashamed to say I cried to hear my mother tongue, the most soulful fado enveloping me like a warm hug. Sometimes his presence makes all my memories blurry, like I cannot decipher them at all. Like they were dreams I h...
+
+[原句2] words=64 pos=626
+... say I cried to hear my mother tongue, the most soulful fado enveloping me like a warm hug. Sometimes his presence makes all my memories blurry, like I cannot decipher them at all. Like they were dreams I had one day. Some nights I wake and I can almost see Nick in the shadows, watching me again, before turning on a lamp and realising there is nothing there.
+
+
+I think I must write more quickly, before it all fades from my mind.
+
+
+After Nick’s revelation about my father, I did not see him or Alexander for a week. Things returned to normal rather swiftly. Tom’s death hung heavy upon the house. I saw it in Eliza’s eyes, in the maid’s hurried steps, in George, the man who came to replace him. There was a heaviness, a hush. I did not hear exactly what they were ...
+
+[原句3] words=77 pos=1444
+...elp. A reticence. A few people left, quit with no explanation and never came back. Eliza would brush it all off if I said anything, her manner brusque and rough. She did not scold me, exactly, she would not dare that much, but she left no room for any more questions. But it was impossible not to notice the atmosphere, the unspoken tension: first Mrs White, then Tom.
+
+
+On Sunday, I returned to church with Eliza. Truthfully, my heart was no longer in it. I had found God, but He was small compared to my bitterness. He did not sit with me in my study and feed me pastéis de nata. Now He tasted of desperation, singed at the edges with how twisted my emotions had become.
+
+
+I went, nonetheless. Partly out of a sense of duty, partly to get out of the house. Partly because I wanted to recapture that fervour, even if it...
+
+[原句4] words=84 pos=2005
+... me pastéis de nata. Now He tasted of desperation, singed at the edges with how twisted my emotions had become.
+
+
+I went, nonetheless. Partly out of a sense of duty, partly to get out of the house. Partly because I wanted to recapture that fervour, even if it was misguided. I would kneel as much as necessary if only God would come down from heaven and tell me I was His.
+
+
+What I found in that church was not God. It was a congregation’s worth of whispers and gossip. There was a tale, full-bodied and sprouting extra legs, of an evening by Loch S— and a laird’s escape from certain death. Tom’s death filled the church, swelling to occupy the whole room. His family were not in attendance, probably because they had heard all the rumours and did not wish to hear them again. The town would not allow them to mourn in ...
+
+[原句5] words=89 pos=3369
+...the road, to not, under any circumstances, look back at them. But foolishly, in that icy night, Tom had not been able to keep his eyes from glancing, just once, at the rear-view mirror. There he saw the Devil, not in his human disguise as he had been seen lately, but in his true, horrific form. The sight made him swerve, lose control of the car, and drive into the frozen loch.
+
+
+Naturally the laird lived, for the Devil himself had pulled him out, had kept him from freezing to death. The King of Hell could melt any ice, surely. Was there ever anyone better suited to keeping you warm?
+
+
+I sat with Eliza and her sister Margaret, towards the back, where we stared straight ahead and pretended not to hear any of it, though they clearly meant for me to. We were quiet on the way back, too, Eliza and I, unusually so. ...
+
+[原句6] words=71 pos=4933
+...safety, overlaid by a growing anxiety, a certainty that something had to give.
+
+
+I was wary of returning to the loch, but after a few days I had to get out of the house or risk insanity. I had not seen either Nick or Alexander for a while, had instead just watched as Eliza’s face grew increasingly drawn and tense.
+
+
+I did not tell anyone I was going, mostly because there was no one to tell. It was an overcast morning, the snow on the ground turning to mush in patches. I had to walk carefully, especially when crossing fields. I knew the route so well, I barely paid any mind to where I was going, merely kept my attention on my feet so as to not slip in the sludge. When the loch first came into view, there were no signs anything had happened. It was bizarre to see it th...
+
+[原句7] words=77 pos=6153
+...there had been no mark. As I edged towards the water, I saw him, just as I had been hoping to.
+
+
+Mr Stewart sat in his usual spot. He wasn’t fishing, naturally, but just sitting and watching the loch. He had a wool hat on and a coat I had never seen before. Despite this, the cold still did not seem to touch him at all. I wondered how long he had sat there, in stillness.
+
+
+‘Good morning, Mr Stewart.’
+
+
+He turned his head slightly, and smiled at me, before looking towards the loch again. I stood next to him and followed his gaze – it was quite a sight, the water frozen solid, the snow on the ground, the naked tree branches covered in light frost. You could almost smell another snowfall coming.
+
+
+I had not seen Mr Stewart in quite some time, but that was how our encounters gen...
+
+[原句8] words=90 pos=8341
+...rth-East had heard the rumours.
+
+
+‘He is well, thank you.’
+
+
+‘I am glad to hear it. He is a fortunate man.’
+
+
+‘Quite.’
+
+
+‘I canna imagine falling into those freezing waters and living to tell the tale.’
+
+
+Looking at the frozen loch before us, I could not either. It barely seemed to have any water left unfrozen beneath the surface. It was easy to imagine the whole loch was a giant block of ice, there since ages bygone, never to thaw. A shiver ran down my spine at the thought and I shifted in my seat. A pang of longing for the Atlantic Ocean, lit by the sun, pierced me.
+
+
+‘Do you know, Mr Stewart, sometimes I feel I am a person cleaved in half,’ I said, echoing Nick’s words without realising it.
+
+
+He nodded. ‘I believe that,’ he said after a pause. He said nothing more, but I was sure he knew what I meant, and ...
+
+[原句9] words=83 pos=9688
+...onged to talk to him about those rumours. Most likely I had trekked down to the loch in the hope of seeing him, having a candid conversation about it all. There was no one else I felt I could do that with. But all the long while as we sat together, I could not bring myself to broach the topic. Still, I was sure it was not those stories going around that kept him from accompanying me back to S— House, though he seemed to dislike the house itself. I had never seen Mr Stewart in any other place. He existed for me only in the context of my walks to the loch, always sitting on the same rock, imperturbable, immutable. There was something strange in that, I think I always knew it.
+
+
+‘There are many ways, Mrs S—,’ he said, as I turned to leave, ‘to escape.’ His words had more weight to them than that of mere suggesti...
+
+[原句10] words=95 pos=11081
+...ttling, wind rushing through the chimneys. Whole parts of the house have fallen into disrepair. In truth, I don’t know how Alexander cared for this house as he did. The staff always seemed small to me, though perhaps I was too caught up in my own head to notice them, moving silently through their hidden quarters, keeping the place running seamlessly. Perhaps they were the only ghosts here, a small army of people dusting and making beds and airing out rooms.
+
+
+Now it is mostly just me. There is a girl who comes in, cooks and does some laundry, some general chores. It is hard for me to get around now. I don’t know what the world beyond these walls is like. Isla – that’s the girl’s name, such an odd one – sometimes puts on music while she cleans, and it sounds utterly foreign to me. Sometimes she...

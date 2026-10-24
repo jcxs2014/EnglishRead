@@ -1,0 +1,60 @@
+{
+  "chapter": "ch05",
+  "facts": [
+    {
+      "anchor": "I will have all the heads removed from your quarters.",
+      "start": 1763,
+      "end": 1816,
+      "fact": "Alexander 进门扶她起身，承诺把她房里墙上的兽头全部移走（并玩笑说「除了你这颗」）。"
+    },
+    {
+      "anchor": "raised a hand to rest around my throat",
+      "start": 3384,
+      "end": 3422,
+      "fact": "她把手放到他背上，他畏缩僵直；转身后他一手扣住她咽喉，却始终没有吻她。"
+    },
+    {
+      "anchor": "He fled, whispering an ‘I’m sorry’ as he exited the room.",
+      "start": 8769,
+      "end": 8826,
+      "fact": "他松手后退，一脸惊骇与嫌恶，扶着壁炉台才站稳，低声道歉后逃出房间。"
+    },
+    {
+      "anchor": "My mother’s death had not been sudden",
+      "start": 4758,
+      "end": 4795,
+      "fact": "她裹着毯子独卧难眠，回想母亲拖了一整年病才去世，自己正因这份空虚才仓促离家。"
+    },
+    {
+      "anchor": "Mr S— is waiting for you at the breakfast table.",
+      "start": 10845,
+      "end": 10893,
+      "fact": "清晨 Mrs White 拉开窗帘、数落冷壁炉，告知 Mr S— 在早餐桌等她，并派 Maisie 来生火。"
+    },
+    {
+      "anchor": "Was that still grounds for annulment, I wondered",
+      "start": 14372,
+      "end": 14420,
+      "fact": "她暗想婚姻尚未 consummated，或许还能以此为据撤销这桩婚事。"
+    },
+    {
+      "anchor": "I think I may have caught some sort of awful stomach bug.",
+      "start": 14990,
+      "end": 15047,
+      "fact": "早餐时他把昨夜失态改口解释为肠胃病（先说 bug 后说旧疾），请她原谅；她注意到他面前没有餐盘。"
+    },
+    {
+      "anchor": "there is nothing to forgive",
+      "start": 22865,
+      "end": 22892,
+      "fact": "他带她逛花园、摘下一只苹果递给她，她在园中答「没有什么可原谅的」，他抱起她转了两圈。"
+    }
+  ],
+  "relations": "Mrs White 是管家，称她「Mrs S—」或称「ma'am」；Maisie 是十七岁上下的红发年轻女仆，称她「ma'am」。Alexander 称她「Isabel」「my dear」，并明确要求她把「Mr S—」改称「Alexander」（“Alexander, please. We are married now after all.”）；她在早餐桌上仍叫他「Mr S—」。二人此时是已婚夫妻，但婚姻未圆房。",
+  "numbers": [
+    "no more than seventeen",
+    "a long year of illness",
+    "searching for near a year",
+    "once, twice"
+  ]
+}

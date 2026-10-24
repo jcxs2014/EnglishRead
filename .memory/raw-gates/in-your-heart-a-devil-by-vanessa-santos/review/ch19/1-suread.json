@@ -1,0 +1,59 @@
+{
+  "chapter": "ch19",
+  "facts": [
+    {
+      "anchor": "Alexander died two years after the car crash. It was autumn",
+      "start": 24,
+      "end": 83,
+      "fact": "亚历山大在车祸两年后的秋天病逝，此前已卧床近两周，医生查不出病因。"
+    },
+    {
+      "anchor": "I tucked pillows under his head, held cups of water to his lips",
+      "start": 1627,
+      "end": 1690,
+      "fact": "伊莎贝尔在病榻前照料亚历山大：给他垫枕头、端水到唇边、后来喂稀薄的肉汤。"
+    },
+    {
+      "anchor": "‘It was not true,’ he said, before I could ask anything.",
+      "start": 2687,
+      "end": 2743,
+      "fact": "亚历山大主动承认那晚的“假装相爱”不是真的，并说自己当时受伤所以反过来伤了伊莎贝尔、向她道歉。"
+    },
+    {
+      "anchor": "‘It was supposed to be me, was it not?’ I asked at last.",
+      "start": 3360,
+      "end": 3416,
+      "fact": "伊莎贝尔当面推断出咒语要的“至亲牺牲”本应是她自己，并质问亚历山大是否因此娶她。"
+    },
+    {
+      "anchor": "‘I could not do it,’ he resumed, after a moment.",
+      "start": 4068,
+      "end": 4116,
+      "fact": "亚历山大承认婚礼之夜下不了手，因为看见她眼里的期待与爱意，于是放过了她。"
+    },
+    {
+      "anchor": "‘He did not need a sacrifice,’ I told him.",
+      "start": 8153,
+      "end": 8195,
+      "fact": "伊莎贝尔在亚历山大临终前对他说谎：尼克根本不需要献祭、随时都能来，以此作为最后的报复。"
+    },
+    {
+      "anchor": "and a crow – Alexander’s, I would swear upon it – swooped down",
+      "start": 11199,
+      "end": 11261,
+      "fact": "葬礼上，一只乌鸦（伊莎贝尔确信是亚历山大的）俯冲到新坟的泥土上，低头如祈祷般久留。"
+    },
+    {
+      "anchor": "I sent flowers to Mr Stewart’s grave anyway, just in case.",
+      "start": 12331,
+      "end": 12389,
+      "fact": "伊莎贝尔没能参加斯图尔特先生的葬礼，事后仍往他墓前送了花。"
+    }
+  ],
+  "relations": "伊莎贝尔（叙述者）与临终的丈夫亚历山大；二人与恶魔尼克构成三角；斯图尔特先生（可能是非人存在的化身）在葬礼上向她转述民间传说。",
+  "numbers": [
+    "two years after the car crash",
+    "close to a fortnight",
+    "long hours"
+  ]
+}

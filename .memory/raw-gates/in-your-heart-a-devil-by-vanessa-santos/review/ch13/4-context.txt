@@ -1,0 +1,75 @@
+[原句1] words=57 pos=11
+...Unknown
+
+
+
+
+
+
+XI
+
+
+
+
+
+I found God in the several glasses of wine I started having every evening, sitting by the window watching the tree branches sway in the wind. When it rained, as it always did, and the fire crackled, I could almost hear Him talk to me, tell me that what the villagers whispered might be sprinkled with truth, and maybe the man I had married had more hidden pockets in his soul than even I could have guessed. I heard His whispers, but that was all He ever did ...
+
+[原句2] words=74 pos=612
+...me that what the villagers whispered might be sprinkled with truth, and maybe the man I had married had more hidden pockets in his soul than even I could have guessed. I heard His whispers, but that was all He ever did – whisper and watch me swirl the wine in my glass, drink it like it was His blood. Do I sound bitter towards Him now? Perhaps I am, a little.
+
+
+Was it God, though, who whispered to me then, or something else pretending to be Him?
+
+
+Summer was a blink, a week of sunshine and then gone. By the time winter came around again, and the snow settled on the ground, God and I were friends. I heard Him in the thunder, I saw Him in the hailstones hammering against the glass, I felt Him in the cold that turned my fingers blue. He flirted with me, recklessly, in the eveni...
+
+[原句3] words=64 pos=1297
+...s, I felt Him in the cold that turned my fingers blue. He flirted with me, recklessly, in the evenings as I shivered under the covers hoping for warmth, danced just out of view as I rounded a hallway to catch a glimpse of Alexander and Nick disappearing into a room, watched as I peeled oranges in the kitchen and listened to the gossip seeping in under the doors. Eliza had no patience for it, but when she was away, or busy in the kitchen, the maids whispered, in tones of fear and reverence. I learned to sit still enough that they spoke in front of me – it was as if they were birds, spooked by movement, but fooled by stillness to come close enough and peck at the seeds around me. I needed no seeds, nor, it seemed, did my presence act as a scarecrow, not by then. It was my silence, I think, how I bent over tasks...
+
+[原句4] words=91 pos=2246
+...s others joined us, another maid, or Eliza’s sister, who started meeting us when we were halfway there, cutting through the fields regardless of how muddy her dress got. The town whispered too, mostly before the service started. A bit funny to me now, how these people would sit in God’s church, cocooned in a holy place, and gossip, passing rumours around like candy. I blended into the background nicely, surprising as that was, and it took only a few looks here and there, of vulnerability, of devotion. It was hard to strike a note between pitiable but not pitiful. A lost outsider dragged into something she didn’t understand, not a sad foreigner stumbling over a wretched life. No one treated me much like a foreigner here – there is that. Perhaps that was part of the charm of it, too, the spell cast on me. I was...
+
+[原句5] words=83 pos=3419
+...radual thing, as far as I could discern. He had not always carried this cloak of mystery around him, one that had grown more menacing as time passed.
+
+
+I heard what they called him when I wasn’t around only a few times, caught in whispers that were hastily hushed. Wizard. One tale was told in full, while I sat close enough to listen; I am sure they meant for me to hear it. They told of when he stopped at an old inn one night for a meal, where there happened to be a ceilidh in full swing. He sat quietly in a corner, the story goes, doing his best to ignore the dancing. But so annoyed was he with the music, which he considered too loud and poorly played, that he cast a curse upon them as he left, on players and dancers alike, that they would play and dance until fingers and feet bled. I wish I could tell you I ...
+
+[原句6] words=81 pos=3996
+...t so annoyed was he with the music, which he considered too loud and poorly played, that he cast a curse upon them as he left, on players and dancers alike, that they would play and dance until fingers and feet bled. I wish I could tell you I heard this story and a shiver caressed my spine, just as a gust of wind rattled the windows and the candlelight flickered ominously. But instead, I had to bite the inside of my cheek to keep from bursting into a roaring laugh. I tasted blood, and for days I would feel the small imprint my teeth had left, my tongue worrying at the mangled skin. It was preposterous, this tale, this vengeful crabby man they conjured up, cursing dancers to dance until dawn.
+
+
+I had been with him that night. My presence had clearly been omitted from the tale, clean...
+
+[原句7] words=83 pos=4625
+...geful crabby man they conjured up, cursing dancers to dance until dawn.
+
+
+I had been with him that night. My presence had clearly been omitted from the tale, cleanly erased. We had gone to the city and drove back later than expected. Night had fallen, and as we approached S— we did indeed stop at an old inn for a meal. It was a lively place, bursting with music and laughter. We had not known about the ceilidh, but I had never seen one and I watched, entranced, as we ate. I longed to join them. I watched their feet so I, too, could twirl on the dance floor. Alexander told me a little about it, naming some of the dances. He was a little sullen, it is true. And he did complain about the music. Not loudly, mind you, but he called it amateurish, implied the musicians were too drunk to perform properly. When we lef...
+
+[原句8] words=85 pos=5324
+... Not loudly, mind you, but he called it amateurish, implied the musicians were too drunk to perform properly. When we left, he was rubbing his forehead, claiming a headache. He was quiet for the rest of the drive home, and I knew better than to try to engage him in that mood.
+
+
+He did not – as far as I could tell, anyway – cast an invisible spell on the place as we drove away.
+
+
+Alexander was a mystery, even to me, his wife, yes. But though his mystery might hide snakes and spells, it was the kind done at night, in dark corners of his castle, for his own obscure purposes. What kind of wizard, wishing to keep his secrets, would go about cursing common folk for dancing? It was a tale they told, nothing more. Isn’t everything a tale someone tells?
+
+
+After he died, they told another story – that if you danced aro...
+
+[原句9] words=75 pos=5932
+...to keep his secrets, would go about cursing common folk for dancing? It was a tale they told, nothing more. Isn’t everything a tale someone tells?
+
+
+After he died, they told another story – that if you danced around his grave one hundred times, you’d conjure him back to life. The bogeyman of S—, the monster in the night, that was what he was, and became more so as the years went by.
+
+
+Oh yes, Alexander is dead, have I mentioned it already? I cannot recall. But I am writing these pages sitting before an old desk in an old room in the same house I have lived in for more years than I can count. Mrs Hayworth was true to her word and left me all she owned when she passed away, despite the fact that I never went to visit her, never even wrote her back. I think she sent me a few more letters before she died, but I d...
+
+[原句10] words=99 pos=6867
+...But why would I ever leave? I have earned the right to mangle this story, my story and his story, however I please. This house has sunk into my bones, deep enough that it is mine now, to narrate as I please.
+
+
+As for the Lord, well, sometimes I fancy I still hear Him whispering from the chimneys. There’s one word He likes more than all others, and He speaks it as if He’s afraid of it: sin. Now I am an old woman and I am not afraid of Him. He can talk of sin all He wants. I have cleansed this house, I alone have freed it of darkness, of witchcraft. I alone have helped it embrace it, all over again. When I sneak into Alexander’s old room and lie on his bed, looking for the ghost of his indentation upon his mattress, I am not ashamed to look for sin there, to look for it in myself, with wandering hands that seem...

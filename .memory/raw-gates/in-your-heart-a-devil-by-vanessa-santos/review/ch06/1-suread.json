@@ -1,0 +1,59 @@
+{
+  "chapter": "ch06",
+  "facts": [
+    {
+      "anchor": "Alexander did not come to me. We did not speak of it.",
+      "start": 1369,
+      "end": 1422,
+      "fact": "亚历山大夜里始终没有来找她，两人也从不谈新婚之夜，她就此困在无性无解婚姻里。"
+    },
+    {
+      "anchor": "he had begun calling, affectionately, my wing of the house",
+      "start": 2197,
+      "end": 2255,
+      "fact": "亚历山大渐渐待她温和，把她住的那一翼宅子亲昵地称作「她的那一翼」，并下令把动物头颅从这一翼撤走（其余各处仍保留）。"
+    },
+    {
+      "anchor": "red velvet bedcovers removed, replaced by a simple beige eiderdown",
+      "start": 3031,
+      "end": 3097,
+      "fact": "她在 Mrs White 协助下撤掉艳红天鹅绒床罩，换成米色鸭绒被与洁白床单，并不顾 Mrs White 劝阻装上白色纱帷。"
+    },
+    {
+      "anchor": "He did not show me his own rooms",
+      "start": 5448,
+      "end": 5480,
+      "fact": "亚历山大领她逐间参观藏书室、舞厅与厨房，却唯独不带她看自己的房间；她当时确信自己终会设法进去。"
+    },
+    {
+      "anchor": "as soon as I was in his arms he shapeshifted",
+      "start": 10584,
+      "end": 10628,
+      "fact": "她夜夜被噩梦折磨：梦里亚历山大先来救她，一入他怀中就变形为口吐硫磺与酒气的怪物。"
+    },
+    {
+      "anchor": "There were voices underwater, whispers.",
+      "start": 13701,
+      "end": 13740,
+      "fact": "她在放满滚烫热水的浴缸里埋头入水，听见水下有贴着她皮肤的细语，抬头后水面重归寂静，再潜下去声音依旧。"
+    },
+    {
+      "anchor": "was scrawled the line ‘go home’",
+      "start": 15050,
+      "end": 15081,
+      "fact": "她惊慌出浴、双手摸门时按住雾镜，镜上显出小字「go home」，她勉强找到门逃回卧室。"
+    },
+    {
+      "anchor": "woke determined not to let the house scare me away",
+      "start": 15539,
+      "end": 15589,
+      "fact": "她通宵未眠，天亮后醒来下定决心不让这栋宅子把她吓走。"
+    }
+  ],
+  "relations": "叙述者（第一人称新婚妻子，仆役称她 Mrs S—，后文名为 Isabel）｜亚历山大·S—（丈夫，她已从「Mr S—」改口直呼 Alexander）｜Mrs White（宅中女仆，起初想劝阻她换帷幔，后来热心帮她布置、并替她抱不平般支持她）｜宅中众仆（亚历山大要他们放慢口音好让她听懂）",
+  "numbers": [
+    "the second or third or fourth night",
+    "those first few weeks",
+    "The first two weeks of being married"
+  ]
+}

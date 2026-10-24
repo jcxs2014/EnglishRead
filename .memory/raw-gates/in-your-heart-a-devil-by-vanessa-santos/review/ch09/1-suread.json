@@ -1,0 +1,60 @@
+{
+  "chapter": "ch09",
+  "facts": [
+    {
+      "anchor": "caught between two different yet identical hallways",
+      "start": 62,
+      "end": 113,
+      "fact": "她脱鞋尾随亚历山大上楼，在两条一模一样走廊的岔口几乎跟丢，靠厚地毯压住脚步继续追。"
+    },
+    {
+      "anchor": "I knelt to peek through the keyhole. The way was blocked.",
+      "start": 2754,
+      "end": 2811,
+      "fact": "她跪在他房门前从钥匙孔窥视，孔被堵死，却强烈感到门后也有东西在与她对视。"
+    },
+    {
+      "anchor": "the room was empty. The bed was unmade",
+      "start": 6229,
+      "end": 6267,
+      "fact": "她推门进入卧室，屋内空无一人，红色缎面床铺凌乱未整，她对着床想象他睡在其中的样子。"
+    },
+    {
+      "anchor": "Alexander stepped through, his suit jacket off, tie undone, hair dishevelled",
+      "start": 6885,
+      "end": 6961,
+      "fact": "亚历山大从左侧门走出，西装外套已脱、领带松开、头发凌乱、双眼充血、身上有威士忌味，随即粗暴地把她拉进怀里强吻。"
+    },
+    {
+      "anchor": "We did all that, that night, and more",
+      "start": 9662,
+      "end": 9699,
+      "fact": "两人当夜发生关系，她称这是自己最珍贵的记忆，清晨在他床上赤身醒来。"
+    },
+    {
+      "anchor": "old and leatherbound, so big it took up most of the surface area",
+      "start": 14135,
+      "end": 14199,
+      "fact": "她趁他熟睡翻看床头柜上那本冰冷、皮面不像兽皮的旧书，里面是配方、材料清单和拙劣插图，书签页标题为 HOW TO SUMMON THE DEVIL。"
+    },
+    {
+      "anchor": "I am sorry I married you.",
+      "start": 17993,
+      "end": 18018,
+      "fact": "亚历山大醒来后说昨夜醉酒、行为不可原谅，并当面告诉她「我后悔娶了你」。"
+    },
+    {
+      "anchor": "A crow perched on Alexander’s shoulder and eyed me curiously.",
+      "start": 21122,
+      "end": 21183,
+      "fact": "一只乌鸦从窗口飞入，落在亚历山大肩上打量她；他抚摸鸟羽，她忽然觉得这个丈夫是个陌生人。"
+    }
+  ],
+  "relations": "叙述者（Isabel，本章第一次被丈夫直呼其名，两次）｜亚历山大（丈夫，当夜与她同房，次日说后悔娶她，肩上停着乌鸦）｜乌鸦（从窗口飞入，停在亚历山大肩上）｜书中标题 HOW TO SUMMON THE DEVIL（她翻到的书签页）",
+  "numbers": [
+    "only a glass or two",
+    "no more than a few moments",
+    "One night, one experience in a man’s bed",
+    "‘Isabel,’ he said, his voice raspy, once, and then again: ‘Isabel.’"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "chapter": "ch15",
+  "facts": [
+    {
+      "anchor": "After Nick arrived, I drained from his mind like water down the sink.",
+      "start": 395,
+      "end": 464,
+      "fact": "尼克到来后，伊莎贝尔从亚历山大的头脑里像水顺下水槽般流走，他越来越少见到她，偶尔撞见还会一惊。"
+    },
+    {
+      "anchor": "A handful of years after Alexander’s passing, I brought a priest in",
+      "start": 2781,
+      "end": 2848,
+      "fact": "亚历山大去世数年后，她请来城里的神父为宅子祝福；神父逐室脸色发白、手抖着画十字，并按她的要求用圣水在每一扇门上都画上十字。"
+    },
+    {
+      "anchor": "Two months after that, I walked the house while burning sage",
+      "start": 3118,
+      "end": 3178,
+      "fact": "两个月后她烧鼠尾草走遍全屋、打开所有窗户，并把腐朽家具、旧挂毯、霉画与虫蛀衣物搬到田里烧了一整天。"
+    },
+    {
+      "anchor": "I imagined taking the fire poker and driving it through his head.",
+      "start": 6114,
+      "end": 6179,
+      "fact": "尼克未经邀请走进她的起居室（须经过她的床），对她说他们两人都很在乎亚历山大，她幻想用火钳刺穿他的头。"
+    },
+    {
+      "anchor": "your husband has tasked me with finding your father",
+      "start": 6738,
+      "end": 6789,
+      "fact": "尼克临走时在半掩的门边告诉她：她丈夫派他去找她父亲，说完便离开，炉火随之窜高。"
+    },
+    {
+      "anchor": "I watched as his face transformed and an unguarded joy blossomed slowly there.",
+      "start": 10132,
+      "end": 10210,
+      "fact": "一月清晨她躲在餐厅门后，看见亚历山大在前厅从大衣口袋取出一张信纸和一根黑羽毛，脸上浮现毫无防备的喜悦。"
+    },
+    {
+      "anchor": "By then, my husband had not said a word to me for six days.",
+      "start": 10678,
+      "end": 10737,
+      "fact": "那时丈夫已有六天没对她说过一句话，她一直在数。"
+    },
+    {
+      "anchor": "the car veered hard to the left and slid straight off the road.",
+      "start": 17179,
+      "end": 17242,
+      "fact": "夜里她独自出门走向湖边，在结冰的路上失去平衡；车灯照来，司机不是亚历山大，猛打方向后车滑出路面撞破冰面沉入湖中。"
+    }
+  ],
+  "relations": "伊莎贝尔为叙述者与「我」；亚历山大是她的丈夫（laird），对她日渐疏远；尼克（Nick）是亚历山大的生意伙伴、宅中「像狼一样徘徊」的另一个男人，称她 Isabel、擅自进入她的起居室，并受亚历山大之托去寻找她父亲；伊莱扎（Eliza）是厨房女仆，与她亲近；来自城里的神父（a priest）为宅子祝福；女仆们（the maids）听她差遣；她自认是「laird 的妻子」，把自己比作钉在框里的蝴蝶；尼克说「your husband」时语带调侃。",
+  "numbers": [
+    "A handful of years after Alexander’s passing",
+    "Two months after that",
+    "six days",
+    "fifty-four windows",
+    "early January",
+    "two little rooms"
+  ]
+}

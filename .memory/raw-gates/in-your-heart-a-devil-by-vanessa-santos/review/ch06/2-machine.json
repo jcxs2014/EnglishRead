@@ -1,0 +1,409 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/ch06 whispers and warnings.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/text/ch06_iv.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The way the wind howls down the chimneys, it makes the house sound full of ghosts. The fireplaces stay mostly unlit now,",
+          "ok": true,
+          "pos": 11
+        },
+        {
+          "text": "My time is running short, I need to make haste. I think he will be coming tonight",
+          "ok": true,
+          "pos": 681
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I do not recall the second or third or fourth night in this house. They blur together. I was afraid, and I was cold",
+          "ok": true,
+          "pos": 764
+        },
+        {
+          "text": "Alexander did not come to me. We did not speak of it. For a few days he still acted as though he was ill, eating very li",
+          "ok": true,
+          "pos": 1350
+        }
+      ],
+      "words": 92
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Eventually a quiet routine was established. Alexander tried to teach me the lay of the house, guiding me through endless",
+          "ok": true,
+          "pos": 1697
+        },
+        {
+          "text": "We went to the city and restocked my wardrobe, filling it with warmer things. He had flowers delivered to my room, and I",
+          "ok": true,
+          "pos": 2351
+        }
+      ],
+      "words": 93
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Emboldened by Alexander, I recruited Mrs White’s help and had the garish red velvet bedcovers removed, replaced by a sim",
+          "ok": true,
+          "pos": 2935
+        },
+        {
+          "text": "It was my home I was trying to conjure, the lightness of the kitchen in summer days, the bright sunlight streaking in. T",
+          "ok": true,
+          "pos": 3991
+        }
+      ],
+      "words": 98
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The time my husband and I spent together those first few weeks was both a blessing and a curse. Alexander, now firmly Al",
+          "ok": true,
+          "pos": 4816
+        },
+        {
+          "text": "Alexander had not approached the topic again, made no moves towards a further intimacy. The memory of that night still c",
+          "ok": true,
+          "pos": 6585
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I joked he hid Bluebeard’s room from me, a tasteless thing that fell out of my mouth and filled me immediately with regr",
+          "ok": true,
+          "pos": 7786
+        },
+        {
+          "text": "All those eyes watching me wherever I went. Sometimes I woke in the night, desperately craving a hot chocolate to soothe",
+          "ok": true,
+          "pos": 9399
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Sometimes Alexander came to save me, but as soon as I was in his arms he shapeshifted. I was held too tightly to see wha",
+          "ok": true,
+          "pos": 10496
+        },
+        {
+          "text": "I woke scared but aroused, my skin covered in goosebumps",
+          "ok": true,
+          "pos": 10948
+        }
+      ],
+      "words": 99
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "And yet during the day there was such a sweet pleasure in walking the gardens, getting to know the statues – boars, a co",
+          "ok": true,
+          "pos": 11006
+        },
+        {
+          "text": "In the back of my head, the question haunted me. If it was not a strange sudden illness, what had caused such a strong r",
+          "ok": true,
+          "pos": 11931
+        },
+        {
+          "text": "a ticking clock inside me asked: why has he not come to me",
+          "ok": true,
+          "pos": 12311
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "There were moments, small but enough to nurture hope and patience in me. A brush of his hand at the breakfast table, a l",
+          "ok": true,
+          "pos": 12371
+        },
+        {
+          "text": "If I am being truthful, it felt as though he wooed me still, wooed me properly, after we had already exchanged our vows.",
+          "ok": true,
+          "pos": 12879
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The whispers were there, soft voices speaking right in my ears, their words caressing my naked skin. I could not make ou",
+          "ok": true,
+          "pos": 14058
+        },
+        {
+          "text": "Next to it, in small letters I could have easily missed, was scrawled the line ‘go home’",
+          "ok": true,
+          "pos": 14925
+        },
+        {
+          "text": "I knew so little of S— House then, or of what lay inside its dark walls",
+          "ok": true,
+          "pos": 15691
+        }
+      ],
+      "words": 72
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 15,
+        "为什么这样写": 65,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.2,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 108,
+        "关键词": 12,
+        "为什么这样写": 77,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.2,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 117,
+        "关键词": 16,
+        "为什么这样写": 88,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.24,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 109,
+        "关键词": 15,
+        "为什么这样写": 72,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.25,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 15,
+        "为什么这样写": 70,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.18,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 103,
+        "关键词": 16,
+        "为什么这样写": 86,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.21,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 110,
+        "关键词": 13,
+        "为什么这样写": 70,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.19,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 20,
+        "为什么这样写": 68,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.28,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 15,
+        "为什么这样写": 75,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.23,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 120,
+        "关键词": 20,
+        "为什么这样写": 76,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.21,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.77
+      }
+    }
+  ],
+  "form": {
+    "h1": "IV. Whispers and Warnings",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 22,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2938,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

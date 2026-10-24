@@ -1,0 +1,60 @@
+{
+  "chapter": "ch08",
+  "facts": [
+    {
+      "anchor": "I did not bring up his strange questions by the mausoleum",
+      "start": 207,
+      "end": 264,
+      "fact": "她恢复正常作息，与亚历山大同桌吃早餐，刻意不提陵墓前的追问和他房中所见，并说服自己那些都是高烧幻觉。"
+    },
+    {
+      "anchor": "a scarf, a little worn but still beautiful, in the clan’s tartan",
+      "start": 3404,
+      "end": 3468,
+      "fact": "亚历山大送她一条旧但漂亮的宗族格纹围巾，说是他母亲、再往前是他外祖母的遗物，并亲手替她围上；他一走她就摘了下来。"
+    },
+    {
+      "anchor": "He mentioned he was trying to track down an old mentor of his",
+      "start": 4271,
+      "end": 4332,
+      "fact": "整个冬天亚历山大长期外出，说要去意大利找一个早年带他学艺的旧师，被问学的是什么，只含糊答以「esoteric interests（秘学）」。"
+    },
+    {
+      "anchor": "Mid-February, Alexander finally returned from his trip, despondent",
+      "start": 15893,
+      "end": 15959,
+      "fact": "二月中旬亚历山大归来，垂头丧气、肩膀塌着，只说没找到要找的东西，夜里独自在书房握着威士忌盯着炉火。"
+    },
+    {
+      "anchor": "Alexander was waiting for me outside my door, holding a red rose.",
+      "start": 17095,
+      "end": 17160,
+      "fact": "消沉一周后，他剃净胡须、衣着齐整，拿着红玫瑰在她房门外等候，为近来待她如畜生道歉，并陪她在户外吃早餐。"
+    },
+    {
+      "anchor": "Alexander drove me to the nearby loch",
+      "start": 17636,
+      "end": 17673,
+      "fact": "他开车带她去附近的湖，两人踏泥穿过树林走到水边，他牵她的手讲苏格兰旧传说，当晚在门口俯身欲吻却又停住。"
+    },
+    {
+      "anchor": "We sat in the café where we had first met and he held my hand across the table",
+      "start": 19927,
+      "end": 20005,
+      "fact": "残雪将融时他带她进城，坐在初遇的咖啡馆里隔着桌子握她的手，她只觉得那动作空洞机械；置身人群反倒让她确认 S— House 已是她的家。"
+    },
+    {
+      "anchor": "Alexander walked up the stairs without once glancing back at me.",
+      "start": 23436,
+      "end": 23500,
+      "fact": "回到家，亚历山大脱下大衣挂好便径直上楼，一次也没回头看她，仿佛已把她忘掉；她停在楼梯上脱下鞋，悄声跟了上去。"
+    }
+  ],
+  "relations": "叙述者（Mrs S—，葡萄牙人，母亲已逝）｜亚历山大（丈夫，送礼、长年外出、归来道歉、带她出游，又反复收手）｜Mrs White（女管家，替她弄来刺绣工具，与她一同拟菜单）｜Eliza（厨娘，为她做苹果挞与葡式 molotof）｜Mrs Hayworth（伦敦结识的引荐人，带她进入上流社交圈，实为利用她）｜母亲（已故，教她英语、读书、看太阳）",
+  "numbers": [
+    "By late December all the leaves had gone",
+    "Mid-February, Alexander finally returned",
+    "I had been living for a year in a kind of daze",
+    "only a few weeks after landing in the confusing landscape of London"
+  ]
+}

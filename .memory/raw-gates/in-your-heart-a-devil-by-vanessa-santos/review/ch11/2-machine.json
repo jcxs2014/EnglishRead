@@ -1,0 +1,399 @@
+{
+  "chapter": 11,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/ch11 the stranger and the loch.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/text/ch11_ix.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It wasn’t long after Mrs White’s departure that I met Nick, though in truth I cannot say when he first appeared. He was ",
+          "ok": true,
+          "pos": 11
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Alexander had told me of his family’s tale, the story behind their crest, an ancient saga of heroics where an ancestor s",
+          "ok": true,
+          "pos": 518
+        },
+        {
+          "text": "Actually, when I first saw Nick I thought he was a ghost, the one I had so long dreamed of finding in this house, a spir",
+          "ok": true,
+          "pos": 782
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Yet he stood bone dry, unruffled. He stood staring out of a hallway window, backlit strangely in grey. The rain was loud",
+          "ok": true,
+          "pos": 1190
+        },
+        {
+          "text": "When he turned to look at me there was a depth to his eyes, a weight to his look",
+          "ok": true,
+          "pos": 1429
+        },
+        {
+          "text": "‘Mrs S—,’ he said, ‘my name is Nick. I’m an associate of your husband’s.’",
+          "ok": true,
+          "pos": 2701
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "In that moment I realised he had introduced himself merely as Nick, a familiarity I couldn’t account for but didn’t quit",
+          "ok": true,
+          "pos": 3296
+        },
+        {
+          "text": "Alexander chose that moment to round the corner and join us. I hadn’t heard his footsteps at all, though the corridor he",
+          "ok": true,
+          "pos": 3598
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I wanted so badly to look at him and see kinship, even then. I wanted that moment, after being caught so off guard, to h",
+          "ok": true,
+          "pos": 4086
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I had been bricking up my heart for months, maybe from the moment I stood before the altar and said I do to a man who ha",
+          "ok": true,
+          "pos": 5253
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "By the time I had reached my own quarters I was shaking, nervous energy coursing through me like electricity. I paced my",
+          "ok": true,
+          "pos": 6138
+        },
+        {
+          "text": "I decided, on a sudden whim, that I was going for a walk",
+          "ok": true,
+          "pos": 6473
+        },
+        {
+          "text": "That was not where I meant to visit, though, but the loch. Even the word itself was magic, foreign – the rolled, spittin",
+          "ok": true,
+          "pos": 6925
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "It was quiet, and that close to the water the damp smell had an almost rotten edge to it",
+          "ok": true,
+          "pos": 11548
+        },
+        {
+          "text": "After I had been sitting for a long while, a lone swan swam into view, drifting over the water gracefully. I watched it ",
+          "ok": true,
+          "pos": 11954
+        },
+        {
+          "text": "Was this, too, a bewitchment",
+          "ok": true,
+          "pos": 12638
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He sat on a rock holding a fishing pole, not wearing a coat, with nothing but a sweater to protect him from the intermit",
+          "ok": true,
+          "pos": 14108
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I was just turning away when he spoke again: ‘You be careful up there, will ye?’",
+          "ok": true,
+          "pos": 20014
+        },
+        {
+          "text": "When I glanced back, he wasn’t looking in my direction but staring out at the loch once again",
+          "ok": true,
+          "pos": 20093
+        },
+        {
+          "text": "All the mirth was gone from his face. He looked old and upset. ‘Those old houses, ye ken.’ He tried a chuckle, but it wa",
+          "ok": true,
+          "pos": 20437
+        }
+      ],
+      "words": 63
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.72
+      }
+    }
+  ],
+  "form": {
+    "h1": "IX. The Stranger and the Loch",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 20,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4195,
+    "block_target": [
+      8,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

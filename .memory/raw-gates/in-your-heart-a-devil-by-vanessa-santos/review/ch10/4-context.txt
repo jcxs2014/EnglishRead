@@ -1,0 +1,123 @@
+[原句1] words=57 pos=13
+...Unknown
+
+
+
+
+
+
+VIII
+
+
+
+
+
+A week later, Mrs White vanished. Alexander told me over breakfast that she had left, called away by family commitments. A sister, who lived far away, he could not remember where. She was in quite a hurry or she would have waited to say goodbye, he said.
+
+
+I sat in a daze. His eyes were glassy and would not meet mine. He ate in a rush, barely chewing his food before swallowing. Mrs White had become something more to me than a housekeeper. We were allies. ...
+
+[原句2] words=74 pos=392
+...White vanished. Alexander told me over breakfast that she had left, called away by family commitments. A sister, who lived far away, he could not remember where. She was in quite a hurry or she would have waited to say goodbye, he said.
+
+
+I sat in a daze. His eyes were glassy and would not meet mine. He ate in a rush, barely chewing his food before swallowing. Mrs White had become something more to me than a housekeeper. We were allies. She had become a sort of mother figure to me, and mother me she did, without ever crossing a line. How she did it so gracefully, I do not know, but I know she cared for me, as I cared for her. I could not picture her leaving in the middle of the night, without so much as a goodbye.
+
+
+‘When will she be back?’
+
+
+In Alexander’s pause there was endless subtext, its meaning just be...
+
+[原句3] words=31 pos=753
+.... Mrs White had become something more to me than a housekeeper. We were allies. She had become a sort of mother figure to me, and mother me she did, without ever crossing a line. How she did it so gracefully, I do not know, but I know she cared for me, as I cared for her. I could not picture her leaving in the middle of the night, without so much as a goodbye.
+
+
+‘When will she be back?’
+
+
+In Alexander’s pause there was endless subtext, its meaning just beyond my grasp. ‘I don’t know,’ he finally replied. ‘I am not sure she will return.’
+
+
+Startled, I could do nothing more but stare at him.
+
+
+‘It sounded serious,’ he continued, eyes on his plate. ‘Her family needs her, and, well, she is not so young anymore. I imagine she will just stay with them afterwards anyway.’
+
+
+I went very still. Alexander finished his ...
+
+[原句4] words=52 pos=1515
+...ards anyway.’
+
+
+I went very still. Alexander finished his eggs in two more bites. He ate so fast I wondered how he did not choke. I felt like there was something stuck in my throat, though I had barely touched my own food.
+
+
+‘I will arrange for someone to replace her, don’t worry. I know that would normally be your job, but as you don’t really know anyone from town, I’ll take care of it.’
+
+
+He shoved his chair back forcefully, the scratch of it against the floor echoing in the room. His hands shook as he stood. I watched him carefully, but he did not once look at me. His skin had taken on a grey tinge and was covered in a thin layer of sweat. I wondered if his mysterious ailment from my first night here was not an invention after all and had returned. He nodded in my direction and left abruptly.
+
+
+Our interac...
+
+[原句5] words=77 pos=1928
+... back forcefully, the scratch of it against the floor echoing in the room. His hands shook as he stood. I watched him carefully, but he did not once look at me. His skin had taken on a grey tinge and was covered in a thin layer of sweat. I wondered if his mysterious ailment from my first night here was not an invention after all and had returned. He nodded in my direction and left abruptly.
+
+
+Our interactions had become strained since that night. We did not speak of it, and I stayed away from his rooms. The knowing, disquieting smile he had given me that morning did not return. It seemed he barely looked at me. For a few days I had not left my room, pretended I was unwell once again. He did not come to visit. Mrs White had told me he was away on business again – I was not the only one eager to avoid ...
+
+[原句6] words=80 pos=2961
+... but it was a small feeling compared to the others I had about that night. It was the book, more than anything else, that made me run, as his crow perched on his shoulder and Alexander smiled at me. I suppose the fear swelled too large; I could not stay in his room any longer.
+
+
+His uncomfortable demeanour, the morning he told me Mrs White was gone, was not that unusual given the circumstances.
+
+
+Someone did come, eventually, to replace Mrs White. I cannot recall her name anymore, she did not stay long. She was older, unmarried, entirely unaccustomed to a big house and its demands. The one who replaced her lasted only two nights before she, too, left. She walked the halls as though afraid the shadows themselves were about to eat her.
+
+
+We tried a few more times, over the years, but that was the start, really,...
+
+[原句7] words=71 pos=3768
+...tart, really, of S— House’s decline. We made do. It was good that I had Eliza, who I trusted to run the kitchen, and the maids who had grown up knowing the house and were not afraid of it. Not yet, anyway.
+
+
+Everyone left, eventually, trickling out slowly.
+
+
+I do not even have a picture of Mrs White, only my memories of her. It did occur to me to ask around town about her, but I knew there was no point.
+
+
+There was only what I knew of her, how I had known her: Mrs White who brought me countless cups of coffee, placed them lovingly in front of me as though she was bringing me liquid comfort. Which she was, I suppose. She’d set her hand on my shoulder and smile at me with the kindest smile I’ve ever known. She sat with me, sometimes, and asked me about my life back home, once we’d grown closer and she could see...
+
+[原句8] words=96 pos=5217
+...White who loved Alexander so. It was love that shone in her eyes when she fussed over him, if he walked in from the rain dripping wet, if he sneezed over dinner or dared not finish his food. Fussed over him like a mother. I suppose she had been with him long enough that she was a kind of mother to him.
+
+
+She sat down with me one morning, when I must have appeared particularly withdrawn, and patted my hand affectionately.
+
+
+‘He might seem cold, but give it time, dear,’ she said. I had the distinct feeling that this was not something she did, or allowed the staff to do, speak of their Mr S—. ‘His mother died when he was so young, and his father… well. He spent so much time by himself.’
+
+
+Her eyes took on the distant look of memories, crinkling at...
+
+[原句9] words=84 pos=6158
+...ee,’ she laughed. ‘He was full of mischief. But at night he brought me a box of chocolates to apologise. I still remember his wee face, looking at his shoes. He was near tears then, thinking I’d still be cross with him.’
+
+
+She eyed me, pondering. ‘His childhood was not a bright one, Mrs S—. You must know that. His heart is good, though. No matter what folks around here say. You remember that.’
+
+
+She made excuses for him like a mother, too.
+
+
+The first day without her seemed so long and empty. Although we did not always spend a lot of time together, her absence was big enough to fill the house. Everyone seemed out of sorts – dinner was burnt, and the smoke drifted out of the kitchen and permeated the air on the first floor. It was hard not to see it as a sign, a premonition of sorts even, of a change coming to...
+
+[原句10] words=85 pos=8426
+...me cocoa when I wasn’t feeling well and tell me, in a whisper as if it was a secret, ‘I put extra cream in.’
+
+
+I had not realised I was crying until a drop fell into the mug as I walked slowly back to my room. I let the moonlight filtering in through the windows guide me, and stared squarely at my drink so as to not spill it as I made my way carefully up the stairs. This also came with the added benefit that I could not see any shapes in the shadows. I was halfway up when I became aware of it: a pressure behind me, the force of a gaze in the darkness willing me to turn around. The air around me became thick. I walked more slowly still, but refused to look. In the absolute silence of the house, each step I took was loud and echoing. Behind me, something stepped onto the stairs, something heavy enough that the ...

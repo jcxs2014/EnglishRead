@@ -1,0 +1,59 @@
+{
+  "chapter": "ch03",
+  "facts": [
+    {
+      "anchor": "I saw the fires from my window again last night.",
+      "start": 21,
+      "end": 69,
+      "fact": "叙述者昨夜又从窗口看见四野点燃的火堆，说这仪式每年如期而至。"
+    },
+    {
+      "anchor": "When he walked in and shook the water from his overcoat",
+      "start": 1970,
+      "end": 2025,
+      "fact": "Alexander S— 在雨里走进咖啡馆，抖落灰大衣上的水。"
+    },
+    {
+      "anchor": "Mrs Hayworth wasted no time flagging down a waiter to have him invited over",
+      "start": 2481,
+      "end": 2556,
+      "fact": "Mrs Hayworth 立刻招来侍者，把 Alexander 请到她们的桌边。"
+    },
+    {
+      "anchor": "‘Charmed,’ he said, with another quick glance at me.",
+      "start": 4296,
+      "end": 4348,
+      "fact": "Mrs Hayworth 把叙述者介绍为「Maria Isabel」，Alexander 只说了句 Charmed 便坐下。"
+    },
+    {
+      "anchor": "Mr S— had found our meeting so pleasurable that he wished to repeat it.",
+      "start": 8397,
+      "end": 8468,
+      "fact": "次日清晨，一封无字奶油色信封送到她房间，Alexander 在信中邀她下午去海滨长廊散步。"
+    },
+    {
+      "anchor": "I scribbled a response, beneath his own words",
+      "start": 8966,
+      "end": 9011,
+      "fact": "她在他字句下方草草写了回信交信差带回，且没有告诉 Mrs Hayworth。"
+    },
+    {
+      "anchor": "‘How do you find Scotland, Ms Smith?’",
+      "start": 13813,
+      "end": 13850,
+      "fact": "Alexander 开车带她到海边，挽着她散步时问她觉得苏格兰如何。"
+    },
+    {
+      "anchor": "his voice asking me if I would like to drive around a bit",
+      "start": 16265,
+      "end": 16322,
+      "fact": "骤雨把两人赶回车里，他又问她要不要再开车兜一圈，好把相处时间拖长。"
+    }
+  ],
+  "relations": "叙述者本名 Maria Isabel，Mrs Hayworth 坚持用全名「Maria Isabel」称她，她本人要求只叫 Isabel；Alexander 在本章称她「Ms Smith」。Mrs Hayworth 是带她游历英国寻父的旅伴兼引路人（自称出力最多），与 Alexander 只是「acquaintances of sorts」的泛泛之交，且视他为有身份的可婚男子（an eligible bachelor of a certain pedigree）。叙述者称他「Mr S—」，他称她「Ms Smith」；Mrs Hayworth 称他「Mr S—」。",
+  "numbers": [
+    "half a dozen times",
+    "in a week’s time",
+    "a couple of days"
+  ]
+}

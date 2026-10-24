@@ -1,0 +1,61 @@
+{
+  "chapter": "ch13",
+  "facts": [
+    {
+      "anchor": "I found God in the several glasses of wine I started having every evening",
+      "start": 22,
+      "end": 95,
+      "fact": "Isabel 每晚饭后靠窗连喝好几杯酒，说自己在酒里「找到了上帝」；她听见低语说村民的传言或许有几分真，也怀疑那声音是否只是冒充上帝的东西。"
+    },
+    {
+      "anchor": "It was my silence, I think, how I bent over tasks like I was praying over them",
+      "start": 1718,
+      "end": 1796,
+      "fact": "她靠久坐不动、低头做事像在祈祷，让女仆们当她不在地议论；又靠每周与 Eliza 上教堂，在礼拜前听镇民交换关于 Alexander 的传闻。"
+    },
+    {
+      "anchor": "that they would play and dance until fingers and feet bled",
+      "start": 3803,
+      "end": 3861,
+      "fact": "镇上叫他「Wizard」，并讲他因嫌客栈 ceilidh 的音乐太吵太难听，临走下咒让乐手与舞者一直跳到手指脚趾流血。"
+    },
+    {
+      "anchor": "I had been with him that night.",
+      "start": 4349,
+      "end": 4380,
+      "fact": "她当场作证那晚自己在场：两人从城里回来晚了，在客栈吃饭，Alexander 只是脸色阴沉、抱怨音乐业余并称头痛，并没有下咒。"
+    },
+    {
+      "anchor": "Oh yes, Alexander is dead, have I mentioned it already?",
+      "start": 5970,
+      "end": 6025,
+      "fact": "叙述者忽然点明 Alexander 已死，并说镇上后来还传说绕他的坟跳一百圈能把他召回，他成了 S— 的 bogeyman。"
+    },
+    {
+      "anchor": "Mrs Hayworth was true to her word and left me all she owned",
+      "start": 6181,
+      "end": 6240,
+      "fact": "Mrs Hayworth 说到做到，死后把全部财产留给了她，尽管她从未去探望、也没回过信；她如今富有，却仍选择留在 S— House。"
+    },
+    {
+      "anchor": "Nick caught me gazing after them, once",
+      "start": 7415,
+      "end": 7453,
+      "fact": "Nick 曾撞见她在走廊上注视他与 Alexander 转过拐角，停下来与她对视良久；他走后她发抖，觉得像被吻过。"
+    },
+    {
+      "anchor": "That night the dreams returned",
+      "start": 7905,
+      "end": 7935,
+      "fact": "当夜旧梦回来：有角的生物爬进她被窝、地狱之火爬上 S— House 的墙；她惊醒后求上帝驱走黑暗，却确信他没有在听。"
+    }
+  ],
+  "relations": "Isabel（叙述者，现为老妇，S— House 的女主人，自称已亲手净化这所房子）；Alexander（已故丈夫，被镇上称作 Wizard、S— 的 bogeyman）；Nick（Alexander 的旧师兼同伴，二人总一同消失在走廊拐角）；Mrs Hayworth（已故，把全部财产留给她）；Eliza（每周陪她上教堂）。",
+  "numbers": [
+    "several glasses of wine",
+    "a week of sunshine",
+    "one hundred times",
+    "a few more letters",
+    "a few looks"
+  ]
+}

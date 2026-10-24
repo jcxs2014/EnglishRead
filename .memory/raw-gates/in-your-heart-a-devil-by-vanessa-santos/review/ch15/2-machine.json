@@ -1,0 +1,429 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/ch15 the frozen loch.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/text/ch15_xiii.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He receded in stages. A first, sudden withdrawal; a second wooing, of a different kind; and then, again, another retreat",
+          "ok": true,
+          "pos": 13
+        },
+        {
+          "text": "After Nick arrived, I drained from his mind like water down the sink. I saw him less and less. Sometimes he would catch ",
+          "ok": true,
+          "pos": 384
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It has taken me so long to write all this down. It was a love story when I started, of sorts anyway, of love for Alexand",
+          "ok": true,
+          "pos": 711
+        },
+        {
+          "text": "Some days I wake and feel that still, that pulsing inside me that I know is a yearning for him, an everlasting, enduring",
+          "ok": true,
+          "pos": 905
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Alexander, to my perpetual disappointment, has never haunted this place",
+          "ok": true,
+          "pos": 1240
+        },
+        {
+          "text": "he very much haunts me, but only his memory, a large presence stomping through the halls of my mind",
+          "ok": true,
+          "pos": 1333
+        },
+        {
+          "text": "I have gone to his room and dug through his belongings, read pages upon pages of books I could not half understand. Neve",
+          "ok": true,
+          "pos": 1666
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "A handful of years after Alexander’s passing, I brought a priest in – not the local pastor but someone from the city – a",
+          "ok": true,
+          "pos": 2758
+        },
+        {
+          "text": "Two months after that, I walked the house while burning sage",
+          "ok": true,
+          "pos": 3092
+        },
+        {
+          "text": "and had old furniture, rotting in place by then, carted away and burned in a big bonfire in the fields",
+          "ok": true,
+          "pos": 3254
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Nick did talk to me, before the slow unravelling of our strange trio",
+          "ok": true,
+          "pos": 3939
+        },
+        {
+          "text": "He knocked, so softly I barely heard it, and entered without waiting for an invitation. I shivered, as he stood there by",
+          "ok": true,
+          "pos": 4267
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘I think you’ll find, Isabel, that we both care for Alexander very much,’ he said",
+          "ok": true,
+          "pos": 5579
+        },
+        {
+          "text": "I imagined taking the fire poker and driving it through his head. The image was quick and vicious, and gone swiftly. Sti",
+          "ok": true,
+          "pos": 6073
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘By the way, your husband has tasked me with finding your father.’",
+          "ok": true,
+          "pos": 6674
+        },
+        {
+          "text": "There was more in that one sentence than I could process at once",
+          "ok": true,
+          "pos": 6739
+        },
+        {
+          "text": "For days, I woke every morning with the acrid taste of bile in my mouth. I felt poisoned",
+          "ok": true,
+          "pos": 7469
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Alexander smiled down at these treasures with greater tenderness than he had ever shown me. His eyes, as they read whate",
+          "ok": true,
+          "pos": 10284
+        },
+        {
+          "text": "By then, my husband had not said a word to me for six days. I kept count, yes, for how little I saw him made counting ea",
+          "ok": true,
+          "pos": 10600
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The world felt, suddenly, so small. Or, my world. Out there, the world was large. But I had become like a butterfly pinn",
+          "ok": true,
+          "pos": 11603
+        },
+        {
+          "text": "It was no longer something for me to uncover – it was me, and I was it. I was part of its rottenness, breathing in the e",
+          "ok": true,
+          "pos": 12349
+        }
+      ],
+      "words": 79
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "My mind left my body and rose in the air above: for miles gentle hills and some woodland, picturesque in the snow, the w",
+          "ok": true,
+          "pos": 15487
+        },
+        {
+          "text": "I was empty of self when I stepped onto the road",
+          "ok": true,
+          "pos": 16309
+        },
+        {
+          "text": "The road was icier than I thought, and I lost my balance for just a second",
+          "ok": true,
+          "pos": 16579
+        },
+        {
+          "text": "In that one quick flash I saw that the driver was not Alexander",
+          "ok": true,
+          "pos": 16908
+        },
+        {
+          "text": "I heard it crack when the car crashed into it, the ice breaking like glass",
+          "ok": true,
+          "pos": 17268
+        }
+      ],
+      "words": 89
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "XIII. The Frozen Loch",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 26,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3339,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

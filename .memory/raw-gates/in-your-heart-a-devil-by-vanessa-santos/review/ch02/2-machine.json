@@ -1,0 +1,187 @@
+{
+  "chapter": 2,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/ch02 prologue.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/text/ch02_i.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "‘Some things are like a pulse inside you,’ he said. ‘You cannot help but follow it. It’s like life is a river running th",
+          "ok": true,
+          "pos": 8
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "He said, and turned away from me, as though he was off to find an ocean right then, as though he hadn’t been speaking in",
+          "ok": true,
+          "pos": 174
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "That was later, though, so much later. I am telling everything out of order, it’s just that there are moments, you know?",
+          "ok": true,
+          "pos": 501
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He should’ve been a poet, my Alexander, and not a wizard at all",
+          "ok": true,
+          "pos": 929
+        }
+      ],
+      "words": 13
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 6,
+        "为什么这样写": 71,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.22,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.95
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 12,
+        "为什么这样写": 60,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.22,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 15,
+        "为什么这样写": 65,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.21,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 4,
+        "为什么这样写": 59,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.22,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.62
+      }
+    }
+  ],
+  "form": {
+    "h1": "Prologue",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 4,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 4,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 189,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": "块数 4 偏离本书常见区间 5–15（本书 19 章中位 10、最高 11（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -19,7 +19,7 @@ modified: "2026-10-24"
 >
 **中文理解**：她回到家，Alexander 没有在前厅踱步等她，也没有带猎犬去找她；他其实正和新管家口中的「Mr Nick」待在自己的房间里，眼神透出不满。
 **关键词**：telegraphing disapproval；tucked away
-**为什么这样写**：开篇连用两个否定（not waiting / nor out with bloodhounds）制造反差——她期待丈夫的在意，现实却是他与陌生男人共处；一个称呼「Mr Nick」就划出她与房子的距离。
+**为什么这样写**：开篇连用两个否定（not waiting / nor was he out with bloodhounds）制造反差——她期待丈夫的在意，现实却是他与陌生男人共处；一个称呼「Mr Nick」就划出她与房子的距离。
 **读者视角提示**：注意她称他为「Mr Nick」时带了引号，而 Isabel 自己并不用这个称呼——称呼差异暗示她在这个家里的局外人身份。
 
 > **原句 2:** "I was glad that my excursion would remain private. But my heart yearned for Mrs White and her quiet concern. I did not wish to share my escapade, but coming home to find not even a kernel of curiosity about it reminded me how alone I was, especially without Mrs White."
@@ -53,7 +53,7 @@ modified: "2026-10-24"
 > **原句 6:** "This fear crept over me, that things were happening there while I was away. I was scared, I think, that Nick, this person I did not know who had slithered into my home one day and festered there like an infection, was infiltrating Alexander and changing him in a way I could not predict."
 >
 **中文理解**：她恐惧自己外出时家里正在发生什么；她怕 Nick 这个她根本不认识的人，像感染一样滑进她的家、在她家化脓，正在渗透进 Alexander 并改变他。
-**关键词**：slithered；festered like an infection；infiltrating
+**关键词**：slithered；festered there like an infection；infiltrating
 **为什么这样写**：「slithered」与「festered」把 Nick 写成蛇和疾病，用恐惧的语言而非事实来描述——读者和 Isabel 一样只能猜测他究竟是谁、在做什么。
 **读者视角提示**：注意她真正怕的不是失去房子，而是「有人能触及 Alexander 里我永远到不了的部分」。
 

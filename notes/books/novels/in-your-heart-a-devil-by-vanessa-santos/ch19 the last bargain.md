@@ -88,17 +88,29 @@ modified: "2026-10-24"
 
 ## 本章词汇
 
+### ⭐⭐⭐
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ⭐⭐⭐ desperation | 绝望；孤注一掷 | What I tasted in his mouth that night had been desperation, an aching loneliness, a yearning for the one he loved and could not reach. |
-| ⭐⭐⭐ discernment | 辨别力；判断力 | My husband truly should have been a poet, with a heart so trusting and with so little discernment when it came to matters of the heart. |
-| ⭐⭐⭐ temperamental | 喜怒无常的；情绪化的 | While he was gone, Alexander was taciturn, more withdrawn, more temperamental. |
-| ⭐⭐ taciturn | 沉默寡言的 | While he was gone, Alexander was taciturn, more withdrawn, more temperamental. |
-| ⭐⭐ diminished | 减少的；衰落的 | The household was much diminished by then, a lot of the staff quietly leaving without anyone quite noticing. |
-| ⭐⭐ loophole | 漏洞；空子 | You hoped you had found a loophole. |
-| ⭐ sacrifice | 牺牲；献祭 | It required a sacrifice, this spell, I pushed on, speaking softly as though not to be heard by anyone other than Alexander. |
-| ⭐ coward | 懦夫；胆小鬼 | I suppose I have always been a coward. |
-| ⭐ cane | 手杖；藤条 | He came to the funeral, though he was bent over his cane, his back almost parallel to the ground. |
+| desperation | 绝望；孤注一掷 | What I tasted in his mouth that night had been desperation, an aching loneliness, a yearning for the one he loved and could not reach. |
+| discernment | 辨别力；判断力 | My husband truly should have been a poet, with a heart so trusting and with so little discernment when it came to matters of the heart. |
+| temperamental | 喜怒无常的；情绪化的 | While he was gone, Alexander was taciturn, more withdrawn, more temperamental. |
+
+### ⭐⭐
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| taciturn | 沉默寡言的 | While he was gone, Alexander was taciturn, more withdrawn, more temperamental. |
+| diminished | 减少的；衰落的 | The household was much diminished by then, a lot of the staff quietly leaving without anyone quite noticing. |
+| loophole | 漏洞；空子 | You hoped you had found a loophole. |
+
+### ⭐
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| sacrifice | 牺牲；献祭 | It required a sacrifice, this spell, I pushed on, speaking softly as though not to be heard by anyone other than Alexander. |
+| coward | 懦夫；胆小鬼 | I suppose I have always been a coward. |
+| cane | 手杖；藤条 | He came to the funeral, though he was bent over his cane, his back almost parallel to the ground. |
 
 ## 一句话总结
 

@@ -1,0 +1,47 @@
+[原句1] words=34 pos=8
+...Unknown
+
+
+
+
+
+
+‘Some things are like a pulse inside you,’ he said. ‘You cannot help but follow it. It’s like life is a river running through you, and you have to go and find the ocean.’
+
+
+He said, and turned away from me, as though he was off to find an ocean right then, as though he hadn’t been speaking in metaphor and there was water running through him, urging him on, soaking him through. I wanted to tell him I understood, that there was a pulse inside me too, but that he...
+
+[原句2] words=64 pos=174
+...Unknown
+
+
+
+
+
+
+‘Some things are like a pulse inside you,’ he said. ‘You cannot help but follow it. It’s like life is a river running through you, and you have to go and find the ocean.’
+
+
+He said, and turned away from me, as though he was off to find an ocean right then, as though he hadn’t been speaking in metaphor and there was water running through him, urging him on, soaking him through. I wanted to tell him I understood, that there was a pulse inside me too, but that he was my sea, receding like the tide.
+
+
+That was later, though, so much later. I am telling everything out of order, it’s just that there are moments, you know? There ...
+
+[原句3] words=77 pos=501
+...u have to go and find the ocean.’
+
+
+He said, and turned away from me, as though he was off to find an ocean right then, as though he hadn’t been speaking in metaphor and there was water running through him, urging him on, soaking him through. I wanted to tell him I understood, that there was a pulse inside me too, but that he was my sea, receding like the tide.
+
+
+That was later, though, so much later. I am telling everything out of order, it’s just that there are moments, you know? There are moments that swell in your mind until you have to tilt your head around them to catch a glimpse of anything else. He talked like that, sometimes, like the words had more meaning than their meanings. Like he was romanticising the alphabet as he went along, effortlessly, and we all swooned over it.
+
+
+He should’ve been a poe...
+
+[原句4] words=13 pos=929
+... out of order, it’s just that there are moments, you know? There are moments that swell in your mind until you have to tilt your head around them to catch a glimpse of anything else. He talked like that, sometimes, like the words had more meaning than their meanings. Like he was romanticising the alphabet as he went along, effortlessly, and we all swooned over it.
+
+
+He should’ve been a poet, my Alexander, and not a wizard at all.
+...

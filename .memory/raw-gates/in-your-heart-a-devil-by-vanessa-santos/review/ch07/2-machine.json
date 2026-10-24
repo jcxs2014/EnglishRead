@@ -1,0 +1,404 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/ch07 the forbidden rooms.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/in-your-heart-a-devil-by-vanessa-santos/text/ch07_v.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "In the morning, I pulled back the curtains to find a dark grey day, barely any light in the sky, the wind bending everyt",
+          "ok": true,
+          "pos": 195
+        },
+        {
+          "text": "We finished our breakfasts in companionable silence, and he planted a rare kiss upon my forehead before leaving. He did ",
+          "ok": true,
+          "pos": 1839
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It is a wonder and a marvel, but it is also unnerving and upsetting. Something elemental is wrong with it. I have spoken",
+          "ok": true,
+          "pos": 2605
+        }
+      ],
+      "words": 94
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Whatever the reason, I walked with a hurried step, opening doors and peering into rooms that, more often than not, looke",
+          "ok": true,
+          "pos": 3793
+        },
+        {
+          "text": "I did wonder if at any moment I was to stumble upon the long-abandoned rooms of a first Mrs S— I had never been told abo",
+          "ok": true,
+          "pos": 4167
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I knew immediately when I found his rooms",
+          "ok": true,
+          "pos": 4735
+        },
+        {
+          "text": "It did not match the mental image I had of his quarters – I had pictured them neat and tidy, sparse. But as soon as I op",
+          "ok": true,
+          "pos": 4862
+        },
+        {
+          "text": "I could smell him here, Alexander, something of his scent, a bit like burnt wood",
+          "ok": true,
+          "pos": 5378
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "There were three in total. The first showed a large horned creature, entirely cast in shadow, which seemed to stalk towa",
+          "ok": true,
+          "pos": 6023
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I am not ashamed to say I was afraid at this point. It was not the paintings alone, disturbing as they were. It was a se",
+          "ok": true,
+          "pos": 6500
+        },
+        {
+          "text": "The bedroom door was unlocked",
+          "ok": true,
+          "pos": 7552
+        },
+        {
+          "text": "Inside was a normal room, not too different from mine, but maintaining the heavy red tones. And the animal heads, arrang",
+          "ok": true,
+          "pos": 7673
+        }
+      ],
+      "words": 97
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I had the strangest notion that I stood at the very heart of the house, the exact mathematical middle. There were dark d",
+          "ok": true,
+          "pos": 8632
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I got lost, properly and frighteningly lost. Every hallway looked the same, the house seemed endless, as though its dime",
+          "ok": true,
+          "pos": 9826
+        },
+        {
+          "text": "I am sure that, to the sceptical reader, my words sound addled, the product of a stressed mind twisting reality around i",
+          "ok": true,
+          "pos": 10852
+        }
+      ],
+      "words": 94
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I was shivering, and so on edge that the sharp knock of the tree branch against the window made me jump",
+          "ok": true,
+          "pos": 13246
+        },
+        {
+          "text": "Alexander broke down the door, it seems",
+          "ok": true,
+          "pos": 14480
+        },
+        {
+          "text": "And once, waking to a room lit just by the firelight, to find Alexander, face in shadows, holding a knife to my throat. ",
+          "ok": true,
+          "pos": 16187
+        }
+      ],
+      "words": 88
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "‘My family’s mausoleum,’ he said, keeping his eyes on the darkness beyond the door. ‘Where my ancestors lie.’",
+          "ok": true,
+          "pos": 20212
+        },
+        {
+          "text": "‘Are you showing me where I’ll be soon?’ My attempt at a teasing tone did not come out right; instead it sounded tense a",
+          "ok": true,
+          "pos": 20560
+        },
+        {
+          "text": "‘Do you believe in God?’ he asked me, abruptly. When I stared at him in stunned silence, not knowing quite what to say, ",
+          "ok": true,
+          "pos": 22023
+        }
+      ],
+      "words": 79
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 17,
+        "为什么这样写": 81,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.34,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 13,
+        "为什么这样写": 82,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.2,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 15,
+        "为什么这样写": 77,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.17,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 15,
+        "为什么这样写": 82,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.24,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 106,
+        "关键词": 22,
+        "为什么这样写": 72,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.28,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 116,
+        "关键词": 16,
+        "为什么这样写": 82,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.22,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 103,
+        "关键词": 20,
+        "为什么这样写": 77,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.21,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 101,
+        "关键词": 21,
+        "为什么这样写": 81,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.22,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 120,
+        "关键词": 16,
+        "为什么这样写": 83,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.23,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 13,
+        "为什么这样写": 90,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.22,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "V. The Forbidden Rooms",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      4,
+      11
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 21,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4767,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 10、最高 11（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

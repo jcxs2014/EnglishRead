@@ -1,0 +1,60 @@
+{
+  "chapter": "ch07",
+  "facts": [
+    {
+      "anchor": "he planted a rare kiss upon my forehead before leaving",
+      "start": 1942,
+      "end": 1996,
+      "fact": "刮大风的早晨，亚历山大在早餐后罕见地吻了她的额头，说会忙到很晚，随后出门处理生意。"
+    },
+    {
+      "anchor": "a large horned creature, entirely cast in shadow",
+      "start": 6128,
+      "end": 6176,
+      "fact": "她独自探险，推开一扇门进入铺满红天鹅绒的前厅，墙上挂着三幅画，第一幅是通体藏影、迈着粗壮腿逼近观者的巨大带角怪物。"
+    },
+    {
+      "anchor": "a table in a corner covered with strange items: a bowl, a sharp-looking knife",
+      "start": 8851,
+      "end": 8928,
+      "fact": "她推开卧室左侧房门，进入一间无窗内室，见角落里摆着碗、尖刀、碎粉笔，满地黑蜡烛与蜡油，空气中是焦糊与铁锈味。"
+    },
+    {
+      "anchor": "I got lost, properly and frighteningly lost.",
+      "start": 9903,
+      "end": 9947,
+      "fact": "她仓皇逃离那几间房，不关身后的门，在尘土飞扬、一模一样的走廊里彻底迷路，奔逃许久才认出熟悉的区域。"
+    },
+    {
+      "anchor": "Alexander broke down the door, it seems.",
+      "start": 14568,
+      "end": 14608,
+      "fact": "她整日不应门、不出席午餐与晚餐，亚历山大破门而入，把蜷缩发抖、浑身滚烫的她抱上床，并亲自驱车去接村医。"
+    },
+    {
+      "anchor": "to find Alexander, face in shadows, holding a knife to my throat",
+      "start": 16337,
+      "end": 16401,
+      "fact": "高烧中她有一次醒来，看见亚历山大背对火光、把刀抵在她喉咙上，她觉得他的手抖了一下。"
+    },
+    {
+      "anchor": "an extra set was attached to a big keyring, entrusted to Mrs White",
+      "start": 18507,
+      "end": 18573,
+      "fact": "她病愈能下床时，被撞坏的书房门已修好，所有房间的钥匙另配了一整套，串在大钥匙圈上交由 Mrs White 保管。"
+    },
+    {
+      "anchor": "‘My family’s mausoleum,’ he said",
+      "start": 20325,
+      "end": 20357,
+      "fact": "亚历山大带她走到山坡上一座半埋于荒草、门内漆黑的家族陵墓前，告诉她那是祖先安葬之处，随后追问她是否信上帝、是否信善恶。"
+    }
+  ],
+  "relations": "叙述者（Mrs S—，病中被众人照料）｜亚历山大（丈夫，破门救她、抱她上床、请村医、守夜读书，又带她去看陵墓并逼问信仰）｜Mrs White（女仆，守着她、后来掌管整套钥匙、向人转述她病中的样子）｜Maisie（女仆，为她添柴）｜Eliza（厨娘，负责早餐）｜村医（未具名，被亚历山大接来，只嘱静养）",
+  "numbers": [
+    "There were three in total.",
+    "a few days before my fever broke",
+    "a few hundred years",
+    "no longer than a few seconds"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "chapter": "ch12",
+  "facts": [
+    {
+      "anchor": "pulled off my sodden cloak and advised a warm bath",
+      "start": 304,
+      "end": 354,
+      "fact": "Isabel 湿透回到家，新管家（称 Nick 为「Mr Nick」）替她脱下湿斗篷、劝她洗热水澡，一句都没问她去了哪里；Alexander 与 Nick 待在他房里。"
+    },
+    {
+      "anchor": "Around this time, I received a letter from Mrs Hayworth.",
+      "start": 2031,
+      "end": 2087,
+      "fact": "她从书房桌上收到 Mrs Hayworth 的信，信纸一侧有烧焦痕迹；信中 Mrs Hayworth 为让她嫁给这样的男人道歉，请她去同住，并暗示身后会留遗产给她。"
+    },
+    {
+      "anchor": "I tossed the letter into the fire, to finish burning.",
+      "start": 3224,
+      "end": 3277,
+      "fact": "Isabel 把信扔进火里烧完，认定自己已选定这条路就要走到底，也厌恶 Mrs Hayworth 身上与自己相似的部分。"
+    },
+    {
+      "anchor": "Old houses like that, sometimes they bleed into the dreamland, is all.",
+      "start": 6407,
+      "end": 6477,
+      "fact": "她常去湖边找 Mr Stewart 沉默同坐；他问她是否做过奇怪或逼真的梦，说老房子会渗进梦境，她答自己早已不再做梦、夜里像不存在。"
+    },
+    {
+      "anchor": "It was Mr Stewart who brought up the church.",
+      "start": 8111,
+      "end": 8155,
+      "fact": "Mr Stewart 提起教堂，问她是否在意不是天主教；她想过之后答「无所谓」，决定去礼拜，同时决定心里仍保留天主教身份。"
+    },
+    {
+      "anchor": "I go every Sunday, you are most welcome to join me",
+      "start": 11439,
+      "end": 11489,
+      "fact": "周日早餐她宣布要去教堂，正在倒咖啡的 Eliza 毫不惊讶，说自己每周日都去、愿意带路；Isabel 把 Eliza 当作通往镇民的桥。"
+    },
+    {
+      "anchor": "I contemplated not telling him, but in the end just said",
+      "start": 13325,
+      "end": 13381,
+      "fact": "Alexander 临时进早餐、眼下有黑影面色苍白；他问她去哪，她只丢下「Church」就出门，没等他的反应。"
+    },
+    {
+      "anchor": "some of the people actively moving away from me",
+      "start": 17209,
+      "end": 17256,
+      "fact": "教堂只坐满一半、众人穿着外套；散场后镇民以敌意眼光看她，有人像躲传染病一样主动挪开，直到数周后才有人真正跟她说话。"
+    }
+  ],
+  "relations": "Isabel（叙述者，Mrs S—）；Alexander（Mr S—，丈夫）；Nick（新管家称他「Mr Nick」，常在 Alexander 房中，从不与他们同桌吃饭）；Eliza（厨娘，每周日上教堂，Isabel 与她同行；她的妹妹在教堂同座）；Mrs Hayworth（当初促成婚事的人，病中写信来）；Mr Stewart（湖边钓鱼的老人）；新管家（姓名 Isabel 未记）。",
+  "numbers": [
+    "One side",
+    "a decade or so",
+    "every Sunday",
+    "the following Sunday",
+    "half the seats",
+    "several weeks"
+  ]
+}

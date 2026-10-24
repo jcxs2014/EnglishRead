@@ -1,0 +1,63 @@
+[原句1] words=42 pos=10
+...Unknown
+
+
+
+
+
+
+X
+
+
+
+
+
+Alexander wasn’t waiting for me, pacing the front hallway ready to pounce. Nor was he out with bloodhounds searching for me. He was, in fact, tucked away in his quarters with ‘Mr Nick’, as the new housekeeper called him, eyes telegraphing disapproval. It was she who had greeted me, pulled off my sodden cloak and advised a warm bath. Her face was neutral. She was not wondering where I’d been. She was new; as far as she knew, the mistress of the house wande...
+
+[原句2] words=51 pos=493
+...e. He was, in fact, tucked away in his quarters with ‘Mr Nick’, as the new housekeeper called him, eyes telegraphing disapproval. It was she who had greeted me, pulled off my sodden cloak and advised a warm bath. Her face was neutral. She was not wondering where I’d been. She was new; as far as she knew, the mistress of the house wandered into the fog regularly.
+
+
+I was glad that my excursion would remain private. But my heart yearned for Mrs White and her quiet concern. I did not wish to share my escapade, but coming home to find not even a kernel of curiosity about it reminded me how alone I was, especially without Mrs White. I knew Eliza cared for me, in her own way, but she was stuck in the kitchen all day, she was not involved as Mrs White had been with daily activities. There was no one now to share tha...
+
+[原句3] words=34 pos=983
+... to share my escapade, but coming home to find not even a kernel of curiosity about it reminded me how alone I was, especially without Mrs White. I knew Eliza cared for me, in her own way, but she was stuck in the kitchen all day, she was not involved as Mrs White had been with daily activities. There was no one now to share that intimacy with, to care what I did.
+
+
+Alexander was not at breakfast the next morning, nor for many mornings after. I barely saw him. I haunted the hall of my own home, both yearning and fearing a glimpse of my husband. I did not seek him out, though as time passed I began to hope for even a glimpse of Nick, so long and lonely had my days become. The house was so big there was no way to really know if he was still here or if he’d left. Maybe the staff would know, but I could not bear ...
+
+[原句4] words=54 pos=2009
+... becoming more furtive. A part of me had always felt things at S— House were more secretive anyway, that creatures could lurk hidden inside rooms for years without anyone realising. The thought had always made me shiver, made me miss the sunlit home of my youth, where everything was open and bright and the most that could be hidden was a mouse in a hole in the walls.
+
+
+Around this time, I received a letter from Mrs Hayworth. I am not exactly sure how it got to me, since I found it in my study, waiting for me at the table. One side of it was a little singed, like someone had started burning it and quickly changed their mind. I don’t remember the entirety of its contents. She had fallen ill, quite ill I think, and lying alone in her bed had surely...
+
+[原句5] words=54 pos=2852
+...ver explicitly said what made Mr S— so unsuitable, but she did prattle on about how guilty she felt that she had not prevented me from being snatched away by him. She made no mention of how she had been the one to introduce us. I would not be Mrs S— if not for her. She wanted me to visit her and stay with her. What she offered was protection and a safe place, I suppose. While she did not outright say it, she certainly implied that she would leave me her considerable assets once she passed. How much of this was guilt-driven and how much of it was her acute wish to not be alone when she died, I don’t know.
+
+
+The letter reeked of desperation, and it reminded me so much of my own that, swept up in a wave of emotion, I tossed the letter into the fire, to finish burning. It was easy to see through her now, and I ha...
+
+[原句6] words=54 pos=3813
+...to the loch. I learned the way, easier to do when the fog wasn’t covering the ground. I learned it well enough to deviate from it, to take different paths, wander around the woods aimlessly. I walked around the loch, sat on the other side, imagined I could see S— House in the distance, rising above me like a dark cloud. It felt better to be out of the house. Better and worse. This fear crept over me, that things were happening there while I was away. I was scared, I think, that Nick, this person I did not know who had slithered into my home one day and festered there like an infection, was infiltrating Alexander and changing him in a way I could not predict. Alexander’s old teacher, he had said, though I could not imagine it – they seemed, if anything, the same age, though Nick’s face was a hazy blur in my mi...
+
+[原句7] words=55 pos=7717
+...clearly he was a person too, presumably, shining in his own way, maybe captivating Alexander in a way I never could. Everyone was a person: Mrs White was a person, kind with a tough, prickly exterior that cracked wide open once she warmed to you; Mrs Hayworth was a person, petty and small-minded and driven by her own hungers; Mr Stewart was a person, exuding peace, not needing to fill the silence with noise. I was not a person. I was a sketch in an artist’s notebook, unfinished, the graphite smudged with time, a forgotten outline tucked away and never looked at again. The only thing that drove me was fear, a constant need to not be alone in the world, to connect in some capacity to someone else. There was nothing else inside of me.
+
+
+It was Mr Stewart who brought up the church. I am sure he could see the rest...
+
+[原句8] words=46 pos=8472
+...tewart who brought up the church. I am sure he could see the restlessness within me, the fighting need to get back to S— House whenever I wasn’t in it and my constant returns to the loch. I told him, as I had told my husband, that I had not attended Mass regularly in many years. I could barely remember attending as a young girl. Besides, I told him, I didn’t think there would be a Catholic church in the vicinity. He smiled at me and asked if it mattered.
+
+
+The question gave me pause. I had not been to church in a long time. While I still considered myself a believer, it was the inherited kind, that which gets passed down from parent to child, the kind that is embedded in the culture and so becomes part of who you are. I remembered...
+
+[原句9] words=49 pos=12136
+...as lost in thought when Alexander walked in. He came and went sporadically those days. I saw him at odd times, sometimes alone, sometimes with Nick. Nick never ate with us, though, not in the few times Alexander had bothered to be there himself. Part of me wanted to call him ‘Mr Nick’, as the housekeeper had done, even if only inside my own head, in a mocking twist. Yet the idea was a childish one, so I set it aside and used only the name he had given me.
+
+
+‘Good morning,’ Alexander said, smiling without meeting my eyes. He was harder to read now, more so than ever. Whereas before there had been a distance, something he kept private within him that I could sense around the edges of his warmth, now there were layers to it, an instability that hadn’t been...
+
+[原句10] words=52 pos=15819
+... house: the town, tucked away in a corner of this beautiful, cold country, small as it was, secluded as it was, could have belonged to a past century. It was a sense, more than anything. The church was small, but still only half the seats were filled. In the hushed interior, with everyone still wearing their coats, it was indeed a portrait from another time. There was the occasional strand of pearls, and some women had their hair pulled back neatly, but these were simple folk, not given to finery. It was impossible not to remember, however vaguely, the church of my youth, how everyone would wear their Sunday best as though it was armour to wear before God, should He come down from the heavens to scold you. My mother used to wear her hair up, but only loosely, so that wisps of it flew freely, framing her face....

@@ -1,0 +1,60 @@
+{
+  "chapter": "ch21",
+  "facts": [
+    {
+      "anchor": "In sixteenth-century Aberdeenshire there lived a man called Alexander Skene.",
+      "start": 33,
+      "end": 109,
+      "fact": "作者交代原型：十六世纪阿伯丁郡确有亚历山大·斯凯恩其人，是领主、住斯凯恩宅，民间称“斯凯恩的巫师领主”。"
+    },
+    {
+      "anchor": "Alexander escaped by cutting off his shadow with a dagger.",
+      "start": 537,
+      "end": 595,
+      "fact": "作者转述传说第一件事：亚历山大在魔鬼的黑术学校用匕首割断自己的影子，逃脱落跑时被踩影子的留人手段。"
+    },
+    {
+      "anchor": "Alexander won, his magpie tearing the Devil’s raven apart.",
+      "start": 882,
+      "end": 940,
+      "fact": "作者转述传说最后一件事：亚历山大赢下双方魔宠的搏斗，他的喜鹊撕碎了魔鬼的渡鸦，灵魂获释并可依基督教下葬。"
+    },
+    {
+      "anchor": "When I first came across Alexander’s story in Aberdeenshire Folk Tales",
+      "start": 1831,
+      "end": 1901,
+      "fact": "作者说明自己是在《阿伯丁郡民间故事》里初遇亚历山大故事，并被其中大量冒险细节打动。"
+    },
+    {
+      "anchor": "forcing them to play and dance until their hands and feet bled",
+      "start": 2504,
+      "end": 2566,
+      "fact": "作者列举自己采纳的轶事之一：亚历山大诅咒 ceilidh 上的乐手与舞者，逼他们演奏跳舞到手脚流血。"
+    },
+    {
+      "anchor": "When I first saw it, I had the same feeling of wrongness.",
+      "start": 3387,
+      "end": 3444,
+      "fact": "作者亲访斯凯恩宅，第一次就感到同样的“不对劲”，此后反复造访、那种感觉才消散。"
+    },
+    {
+      "anchor": "whose name was Giles Ædie",
+      "start": 5513,
+      "end": 5538,
+      "fact": "作者指出亚历山大真实的妻子名叫 Giles Ædie，史料所存极少，并感叹历史善于抹去女性。"
+    },
+    {
+      "anchor": "I did not want Skene named in the story itself",
+      "start": 7030,
+      "end": 7076,
+      "fact": "作者说明为了故事本身与原传说两边都顾及，她刻意不在小说里点出斯凯恩这个地名。"
+    }
+  ],
+  "relations": "作者凡妮莎·桑托斯本人为主语：她考据传说、实地探访斯凯恩宅、并在后记里向读者交代取材与取舍；对象是历史人物亚历山大·斯凯恩、其妻 Giles Ædie 与真实地点斯凯恩宅。",
+  "numbers": [
+    "sixteenth-century",
+    "not once, but twice",
+    "one hundred times",
+    "two tales"
+  ]
+}

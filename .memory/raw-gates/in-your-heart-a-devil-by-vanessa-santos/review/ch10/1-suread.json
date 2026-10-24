@@ -1,0 +1,60 @@
+{
+  "chapter": "ch10",
+  "facts": [
+    {
+      "anchor": "A week later, Mrs White vanished.",
+      "start": 24,
+      "end": 57,
+      "fact": "一周后管家 Mrs White 突然消失，Alexander 在早餐时告诉 Isabel：她被远方的家人叫走了，走得匆忙，连告别都没等。"
+    },
+    {
+      "anchor": "I am not sure she will return.",
+      "start": 914,
+      "end": 944,
+      "fact": "Isabel 追问 Mrs White 何时回来，Alexander 答「我不知道，我不确定她会回来」，并说她家需要她、她年纪也不小了，大概会留下。"
+    },
+    {
+      "anchor": "I will arrange for someone to replace her",
+      "start": 1391,
+      "end": 1432,
+      "fact": "Alexander 主动说会替 Mrs White 找人，理由是本该由 Isabel 办，但她在镇上不认识人，所以由他接手。"
+    },
+    {
+      "anchor": "The one who replaced her lasted only two nights before she, too, left.",
+      "start": 3200,
+      "end": 3270,
+      "fact": "来接替的是一位年长未婚、不惯大宅的妇人，只干了两晚就走，走路时像怕影子把她吃掉；此后又试过几次，都留不住人。"
+    },
+    {
+      "anchor": "that was the start, really, of S— House’s decline",
+      "start": 3404,
+      "end": 3453,
+      "fact": "叙述者把 Mrs White 离开后接连留不住仆人这件事，定为 S— House 衰败的真正开端，此后众人陆续散去。"
+    },
+    {
+      "anchor": "I crept downstairs in my nightgown",
+      "start": 6808,
+      "end": 6842,
+      "fact": "Mrs White 走后第一晚（晚餐烧糊、烟漫上一楼），Isabel 穿睡裙在夜里下楼进厨房，摸黑烧水给自己冲可可。"
+    },
+    {
+      "anchor": "The voices came then, low and gentle",
+      "start": 9187,
+      "end": 9223,
+      "fact": "她在楼梯上感到身后有注视、有沉重的东西踏上楼梯，接着低语声贴着耳朵围上来，她吓得打翻可可烫伤手。"
+    },
+    {
+      "anchor": "I slammed the door behind me",
+      "start": 10289,
+      "end": 10317,
+      "fact": "她因为不愿洒掉剩下的可可而硬着头皮上楼，最终跑回房间甩上门；杯已空，手上烫伤处她一点也感觉不到。"
+    }
+  ],
+  "relations": "Isabel（叙述者，被称作 Mrs S—，S— House 女主人）与丈夫 Alexander（Mr S—）；Mrs White 是管家，Isabel 视其为母亲般的存在与盟友，Mrs White 也称她 Mrs S—、并像母亲一样疼爱 Alexander、替他辩解；Eliza 掌厨、受 Isabel 信任；Maisie 是女仆；新来的替补管家姓名 Isabel 已记不得。",
+  "numbers": [
+    "A week later",
+    "only two nights",
+    "in two more bites",
+    "a few days"
+  ]
+}
