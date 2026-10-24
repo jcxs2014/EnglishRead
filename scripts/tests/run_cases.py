@@ -149,6 +149,11 @@ def main() -> int:
         return 0
 
     print(f"\n合计 {len(cases) - skipped} 条：一致 {len(cases) - skipped - bad}，不一致 {bad}，跳过 {skipped}")
+    if skipped and skipped == len(cases):
+        # 全部跳过 = 基线全部过期，此时「一致 0」不是「全过」，是「一条都没跑」。
+        # 让退出码说出来，否则 CI 与人工都会把空转读成绿灯（2026-10-24 实测 71/71 全跳过、rc=0）。
+        print("⚠️ 全部用例因书已变而跳过——基线为空转，请 `--record` 重录；本次不构成验证。")
+        return 2
     return 1 if bad else 0
 
 

@@ -60,7 +60,7 @@ DEFAULT_NAV_ITEMS = ["一句话概括", "情感弧线位置", "人物弧线", "�
 LONG_QUOTE_WORDS = 100
 
 # 2026-10-21 用户拍板：块数不可「随意决定」——
-#   下限 2、上限 10 是**硬判据**（超上限判阻断，不判提示）；
+#   下限 2、上限 15 是**硬判据**（超上限判阻断，不判提示）；
 #   中间按本章原文字数给建议区间：800 词 2 块就够，2000 词 4–6 块。
 # 上限来历：ebenezer-scrooge ch03（1,731 词）被写到 11 块，用户嫌「读起来费劲」；
 # 2026-10-21 先定 10，同日改为 **15**（用户：「那把上限改到 15 吧」）。
@@ -70,7 +70,7 @@ MAX_BLOCKS = 15
 
 
 def blocks_target(words: int) -> tuple:
-    """按本章原文词数给出建议块数区间（两端都已夹到 2–10）。"""
+    """按本章原文词数给出建议块数区间（两端都已夹到 2–15）。"""
     lo = max(MIN_BLOCKS, round(words / 550))
     hi = min(MAX_BLOCKS, max(lo, round(words / 320)))
     return lo, hi
@@ -446,7 +446,7 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
             if len(k.split()) > KEYWORD_MAX_WORDS:
                 kw_long.append({"block": name, "kw": k[:60], "words": len(k.split())})
 
-    # ── 块数：下限 2 / 上限 10 硬判据；中间按篇幅给建议（2026-10-21 用户拍板）
+    # ── 块数：下限 2 / 上限 15 硬判据；中间按篇幅给建议（2026-10-21 用户拍板）
     n_blocks = sum(1 for b in d["blocks"] if b["quote_no"] is not None)
     words = len(corpus_n.split())
     lo, hi = blocks_target(words)
