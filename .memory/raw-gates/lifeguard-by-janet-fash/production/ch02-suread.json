@@ -1,0 +1,55 @@
+{
+ "book": "lifeguard-by-janet-fash",
+ "chapter": "ch02",
+ "text": "notes/books/novels/lifeguard-by-janet-fash/text/ch02_chapter_two_1980.txt",
+ "facts": [
+  {
+   "fact": "1980 年春纽约地铁工人罢工，公交地铁全部停摆，作者改骑红色富士自行车从公园坡地通勤",
+   "anchor": "the subway workers went on strike",
+   "start": 68,
+   "end": 101
+  },
+  {
+   "fact": "作者与妹妹 Helen 一起加入 Columbia University 校友队 Old Blue 打女子橄榄球，队里「运动员优先，女士在后」",
+   "anchor": "We joined Columbia University’s alumni team, Old Blue",
+   "start": 905,
+   "end": 958
+  },
+  {
+   "fact": "1980 年夏天作者决定全职当救生员；Barbara 还在做大宗商品交易，腾不出手，她就把 Helen 招了进来",
+   "anchor": "That summer I decided I would lifeguard full-time.",
+   "start": 1317,
+   "end": 1367
+  },
+  {
+   "fact": "作者与 Helen 都被派到 Rockaway 的 86 街救生岗（该岗有少数礁石堤，横跨十段繁忙海滩）；哥哥 Alex 也在那一岗，因两个妹妹被塞进来而整夏不理她们",
+   "anchor": "Helen and I both got placed at the 86th Street shack",
+   "start": 5609,
+   "end": 5661
+  },
+  {
+   "fact": "中尉有一半时间让作者的妹妹单独值守，作者每次发现后都跑到木板路上冲他吼，中尉始终不为所动",
+   "anchor": "Half the time he let my sister work without a partner",
+   "start": 9285,
+   "end": 9338
+  },
+  {
+   "fact": "作者在 101 街租下一间平房过夏，整个夏天六百美元；同院还住着一对躲着妻子偷酒的退休警察",
+   "anchor": "it cost six hundred dollars for the whole summer",
+   "start": 13035,
+   "end": 13083
+  },
+  {
+   "fact": "Arnold 在礁石边被浪头砸中时失手丢了救援必带的浮标（白色泡沫圆筒），却把这件事推到作者身上",
+   "anchor": "Arnold had let go of it when he was getting pounded",
+   "start": 18555,
+   "end": 18606
+  },
+  {
+   "fact": "劳动节当晚 Helen 回身一拳打在中尉脸上，这个又醉又嗑药的中尉当场倒地",
+   "anchor": "Helen just turned around and punched him in the face",
+   "start": 20416,
+   "end": 20468
+  }
+ ]
+}
