@@ -110,7 +110,7 @@ modified: "2026-10-24"
 **中文理解**：她选择了大胆，一巴掌扇了过去。他瞪着她，张着嘴，一个字也说不出，仿佛这种冒犯不可思议。也许真是。也许还从来没有人敢扇那张漂亮脸蛋。
 **关键词**：boldness / slapped / dared
 **为什么这样写**：两个 "Maybe" 把耳光的分量一层层加上去——第一层是伤他，第二层是给他上户口：在这栋房子里，他不是第一个漂亮摆件，但他是第一个挨打的；她用暴力重新谈了一次价。
-**读者视角提示**：注意她的谈判逻辑：威胁不接招，就升级。这记耳光和后面所有 escalating 的手段是同一条线。
+**读者视角提示**：注意她的谈判逻辑：威胁不接招，就升级。这记耳光和后面所有层层加码的手段是同一条线。
 
 > **原句 15:** "But then came her mother, dead at the foot of the stairs, with her eyes boring into Inés while the girl clutched her doll between her hands."
 
