@@ -1,0 +1,49 @@
+{
+ "book": "monstera-by-delilah-s-dawson",
+ "chapter": "ch01",
+ "text": "notes/books/novels/monstera-by-delilah-s-dawson/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "Lucy Haskell 二十四岁，母亲的心曾跳动过，后来掉进一个装满白色粉末的洞、爬不出来，随后消失，她的家成了一具空壳。",
+   "anchor": "Her mother had a beating heart once, but she fell into a hole filled with white powders and couldn’t crawl back out. And then she disappeared, and Lucy’s house became an empty shell.",
+   "start": 841,
+   "end": 1023
+  },
+  {
+   "fact": "她要搬进的房子在佐治亚州萨凡纳市中心附近，是一栋被从中间分成两户的维多利亚式老宅，门牌 361A 和 361B。",
+   "anchor": "361A and 361B. The house has been divided in two, and Lucy thrills to the thought of having half a house all to herself.",
+   "start": 1960,
+   "end": 2080
+  },
+  {
+   "fact": "Roger 自称是新房东，带她上楼看那套只带家具出租的公寓。",
+   "anchor": "“I’m Roger. I’m your new landlord. Now c’mon, I’ll show you the place, and if you like it, we can get you all signed up.",
+   "start": 2864,
+   "end": 2984
+  },
+  {
+   "fact": "租约要求：不许养任何宠物（连金鱼也不行）、不许合租、不能关掉或干扰监控摄像头。",
+   "anchor": "No pets under any circumstances, up to and including a goldfish. No roommates. And she cannot turn off or otherwise disturb the security cameras.",
+   "start": 8773,
+   "end": 8918
+  },
+  {
+   "fact": "Lucy 当场用现金（大额钞票）付了钱，没有漏看 Roger 眼睛睁大、露出算计的那一下。",
+   "anchor": "She does not miss the widening of his eyes, the craftiness there. Maybe she should’ve brought a check.",
+   "start": 11634,
+   "end": 11736
+  },
+  {
+   "fact": "她听到的金属撞击声来自隔壁房客 Saskia 举杠铃；Roger 说她每天练一小时左右、疫情之前就住在这里。",
+   "anchor": "“That’s your neighbor. Saskia. She’ll be done soon.”",
+   "start": 10277,
+   "end": 10329
+  },
+  {
+   "fact": "Lucy 从厨房窗户望见后院像一座藏在里面的小伊甸园，穿过叶子看见一具流着汗的健壮身体把黑色杠铃举过头顶——那就是她的新邻居 Saskia。",
+   "anchor": "A sweaty, muscular body lifting a black barbell like an old-timey circus strong man, throwing it overhead and then dropping it on rubber mats.",
+   "start": 12705,
+   "end": 12847
+  }
+ ]
+}
