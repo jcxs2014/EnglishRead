@@ -1,0 +1,25 @@
+单章体检：ch14  ch14 the bones in the yard.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/monstera-by-delilah-s-dawson/text/ch14_chapter_14.txt
+  块数 7（本章 2240 词，建议 4–7 块；硬限 2–15｜本书 15 章中位 6、最高 9（同类书按本书分布判））
+
+【逐字】
+  引语块 7，片段 7，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0｜模板套话 0｜残句缺词 0
+  ✅ 引语长度：全部 ≤100 词
+
+【形态】
+  H1 ✅：14. Chapter 14
+  导航 5 项 ✅
+  块数 7（本书中位 6.5，范围 3–9）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
+EXIT=0
+
+=== structure.py order ===
+=== 章内块序：16 个 md / 96 块，顺序或编号缺陷 0 章 ／ 不可判定 0 章 ===
+EXIT=0
