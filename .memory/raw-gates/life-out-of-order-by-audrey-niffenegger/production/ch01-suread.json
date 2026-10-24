@@ -1,0 +1,55 @@
+{
+ "book": "life-out-of-order-by-audrey-niffenegger",
+ "chapter": "ch01",
+ "text": "notes/books/novels/life-out-of-order-by-audrey-niffenegger/text/ch01_the_last_party.txt",
+ "facts": [
+  {
+   "fact": "2022 年节礼日，21 岁的 Alba 躲在家里床上，母亲把圣诞剩菜端到床边",
+   "anchor": "It’s Boxing Day and I’m at home, in my room, hiding in bed",
+   "start": 145,
+   "end": 203
+  },
+  {
+   "fact": "她不想回西北大学，因为身边同学都在展望音乐事业，而她已经不想再公开演奏",
+   "anchor": "I don’t care if I don’t graduate",
+   "start": 527,
+   "end": 559
+  },
+  {
+   "fact": "芝加哥仍在戒严，宵禁十点到六点；她和 Nadia 有一个必须今晚执行的计划",
+   "anchor": "Martial law still hasn’t been lifted in Chicago",
+   "start": 2808,
+   "end": 2855
+  },
+  {
+   "fact": "Junior 把 Zach 介绍给 Alba，两人躲进堆满黑大衣的卧室长谈了一夜",
+   "anchor": "Alba DeTamble, meet Zachary Purcell",
+   "start": 12709,
+   "end": 12744
+  },
+  {
+   "fact": "比当下年长九岁的 Alba 从 2031 年 7 月 13 日旅行回来，坐在藤椅上喝咖啡，并与 Zach 单独谈话",
+   "anchor": "July 13, 2031",
+   "start": 48634,
+   "end": 48647
+  },
+  {
+   "fact": "为了让 16 岁的 Lucinda 不卷入行动，Max 等人给她服了曲马多让她睡着",
+   "anchor": "so we uh, sedated her",
+   "start": 46707,
+   "end": 46728
+  },
+  {
+   "fact": "Zach 的真实任务：把 Nadia 送去 Miller Beach 藏起来——她在 Hyde Park 示威中打倒一名警察，对方一周后死于脑出血",
+   "anchor": "I was assigned to take Nadia to safety",
+   "start": 61690,
+   "end": 61728
+  },
+  {
+   "fact": "结尾她送走 Nadia 后回家，决定回学校只为「有个地方躲」，蒙头睡去",
+   "anchor": "I pull the blankets over my head and wait for my sadness to turn to sleep",
+   "start": 80421,
+   "end": 80494
+  }
+ ]
+}
