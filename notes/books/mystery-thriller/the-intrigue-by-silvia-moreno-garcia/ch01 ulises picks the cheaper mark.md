@@ -87,7 +87,7 @@ modified: "2026-10-24"
 > **原句 11:** "What about the niece? Good legs, lush hair, and an unnerving way of staring at you, her eyes so black they looked like they were made of obsidian and lips that were disturbingly plump. Clearly, she was something of a handmaiden to her aunt."
 
 **中文理解**：那侄女呢？长腿、浓发、黑得像黑曜石的眼睛、丰得惊人的嘴唇，盯起人来让人发毛；她显然是姨妈的贴身帮手。而多嘴的亲戚最碍事——他心里发沉，觉得她可能是个真敌人（下文 "she might be a true foe"）。
-**关键词**：niece / obsidian / foe
+**关键词**：niece / obsidian / handmaiden
 **为什么这样写**：从 "What about the niece?" 的自问开始，整段是他给这栋房子做的风险清单；"true foe" 的 true 字用得重——满章都是假名字假履历，第一个让他警觉的东西偏偏是真的。
 **读者视角提示**：Aguirre 案坏在儿子们手里，这里他预感要坏在侄女手里——他的恐惧一向准确，这条直觉就是本书悬念的根。
 
