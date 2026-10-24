@@ -1,0 +1,49 @@
+{
+ "book": "a-labyrinth-of-honeybees-by-fawcett-heather",
+ "chapter": "ch04",
+ "text": "notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/text/ch04_the_balcony.txt",
+ "facts": [
+  {
+   "fact": "他一到观景台，云就涌上来遮住迷宫；他下山后，独自留下的她看见云散了。",
+   "anchor": "the clouds rolled in and hid the maze below",
+   "start": 357,
+   "end": 400
+  },
+  {
+   "fact": "飞马一踏进左边的路就发狂，把骑手掀下马，又冲回草地踩塌了祭司的帐篷。",
+   "anchor": "they went into a frenzy, rearing until they threw their riders",
+   "start": 943,
+   "end": 1005
+  },
+  {
+   "fact": "审问官拿出一块从玫瑰丛上扯下的布：公主的围巾都绣着国王的纹章，金线缝边，仍带着玫瑰味。",
+   "anchor": "All of the princess’s scarves bore the symbol of the king",
+   "start": 2354,
+   "end": 2411
+  },
+  {
+   "fact": "他的一名手下被虫蜇，肿痕发黑蔓延，很快死了；次日剩下的仆人带着飞马逃走。",
+   "anchor": "one of his men was stung by an insect",
+   "start": 3174,
+   "end": 3211
+  },
+  {
+   "fact": "叙述者承认自己杀了老女祭司；头几年她一直跟着她，近年越来越少。",
+   "anchor": "In the first few years after I killed her",
+   "start": 3785,
+   "end": 3826
+  },
+  {
+   "fact": "老女祭司说神都浅薄：他们不朽、固定不变，正因如此才需要人。",
+   "anchor": "All the gods are shallow.",
+   "start": 4975,
+   "end": 5000
+  },
+  {
+   "fact": "两人打赌审问官几天能进神庙，老女祭司押三天。",
+   "anchor": "Are we placing bets?",
+   "start": 5248,
+   "end": 5268
+  }
+ ]
+}
