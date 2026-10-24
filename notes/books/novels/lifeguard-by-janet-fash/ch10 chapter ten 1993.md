@@ -24,11 +24,11 @@ modified: "2026-10-24"
 **中文理解**：她看见一个人从热狗摊车上抓走一叠钱、把钱扔到沙滩上；那人追着钱跑，她慢跑追上去，抓着对讲机向九十七街到一〇六街的办公室报案，说劫匪正朝九十四街方向跑。
 **关键词**：concession guy / walkie-talkie / 94th Street
 **为什么这样写**：一次报案被写成完整的调度口令：先给钱被抢与逃跑方向，再压上无线电里那句转述。「他跑，我追」的动作链被她说得轻描淡写，反倒显出这份胆量早就是本能。
-**读者视角提示**：无线电那句是她本章唯一一次像样例影片里的台词，读者会隐约觉得她日后真要站到更大的位置上。
+**读者视角提示**：无线电那句是她本章唯一一次对着话机讲完整套调度口令的地方；读者会隐约觉得，她日后真要站到更大的位置上。
 
 > **原句 3:** "“Hey, Chief,” he said. “We love swimming with you, but we don’t want to do it anymore. What if something happens to you and you give birth?” My team, who were specially trained to save lives and administer care, were worried about an emergency beachside delivery."
-**中文理解**：Bert 叫她「队长」，说班组愿意跟她一起游泳，却不想再继续了——万一她出事、孩子当场生下来怎么办；她的班组受过救人与急救训练，担心的是海滩上出现紧急分娩。
-**关键词**：Bert / Chief / give birth
+**中文理解**：他叫她「队长」，说班组愿意跟她一起游泳，却不想再继续了——万一她出事、孩子当场生下来怎么办；她的班组受过救人与急救训练，担心的是海滩上出现紧急分娩。
+**关键词**：Chief / give birth / administer care
 **为什么这样写**：这一段把「她还撑不撑得住」摆到桌面上；提出异议的不是外行，而是受过救人与急救训练的班组，担心因此不是私人的不近人情，而是职业判断——话说到这里却停住，不给下文。
 **读者视角提示**：读者第一次看见她被自己人劝退；这种被当成风险资产的经历，会让她日后在社区里格外不肯交出主动权。
 
@@ -39,7 +39,7 @@ modified: "2026-10-24"
 **读者视角提示**：读者第一次看到她对手下发火；她护孩子也护岗位，在她身上是同一件事。
 
 > **原句 5:** "She was very impulsive, so of course the moment I was bodysurfing a wave in, I started hearing, “Mom!” She had swum over straight to the rip and gotten caught in it. She wasn’t in any danger because I was there, but I whistled for the lifeguard on the chair to come out and get her since that was his job."
-**中文理解**：女儿凯特琳性子很急，她正伏身随浪往里冲时听见一声「妈妈」——孩子已经径直游到离岸流里被卷了进去；因为她就在旁边所以并无危险，她却吹哨叫高椅上的救生员把人带上岸，说那是他的职责。
+**中文理解**：喊「妈妈」的那个孩子性子很急，她正伏身随浪往里冲时听见这一声——孩子已经径直游到离岸流里被卷了进去；因为她就在旁边所以并无危险，她却吹哨叫高椅上的救生员把人带上岸，说那是他的职责。
 **关键词**：the rip / whistled / his job
 **为什么这样写**：最险的一刻被压成孩子的一声呼喊，之后才交代人已被卷走；危险的大小靠「因为我在场所以没事」一句压住，真正被强调的却是她坚持让岗位上的救生员来做这件事——专业上的分寸藏在流程里，不在自夸里。
 **读者视角提示**：读者会同时看到她身上的两种本能：护住孩子的冲劲，和不肯越俎代庖的职业洁癖；两者相撞，正是本章后文她从守海转向参政的底色。
@@ -48,7 +48,7 @@ modified: "2026-10-24"
 **中文理解**：她起初在居民协会里活动，后来加入资深组织者 Mary Leahy 创办的罗克韦行动委员会，那团体想把整个半岛拢到同一把伞下；Mary 交出领导权时，她当选了主席。
 **关键词**：Rockaway Action Committee / Mary Leahy / elected president
 **为什么这样写**：作者把一次个人介入写成组织史：先承认自己「起初」只在居民协会，再交代那个更大的团体要「把半岛拢到同一把伞下」，最后落到交棒与当选；这个位置不是她自封的，而是被人交到她手上的。
-**读者视角提示**：读者会注意到她形容自己时用的是「起初」「后来」这样克制的时间词；这个在街头长大的大嗓门，正在学着按规矩办事。
+**读者视角提示**：读者会注意到她形容自己时用的是「起初」「后来」这样克制的时间词；她不是以主角的姿态登场，而是把自己放在接班的位置上——这个转身正是本章的主题。
 
 > **原句 7:** "For a long time we were fighting to get an Olympic-size pool at Riis Park. The hope was that local kids would no longer have to travel to learn how to swim. Schumer promised it would happen, but it never did."
 **中文理解**：很长一段时间里，他们一直在争取在 Riis 公园建一座标准竞技尺寸的泳池，指望本地孩子不必再赶到半岛另一边去学游泳；Schumer 答应过会建，却始终没有下文。
@@ -57,10 +57,10 @@ modified: "2026-10-24"
 **读者视角提示**：读者在这里第一次听见「被承诺却落空」这个主题，本章后面还会以更冷的方式重演一次。
 
 > **原句 8:** "She told me about a posting at the District 27 media center that she had recently seen. It seemed written just for me—the job was to teach kids how to shoot and edit video, educate them on media literacy, and go around and do residencies at different schools. I felt like I was ready to go back to teaching full-time, so I applied and got it."
-**中文理解**：邻居 Bernadette 说起 District 27 媒体中心的一个空缺：教孩子拍摄与剪辑、讲媒体素养、再到各所学校做驻校；她觉得这份差事像是照着她写的，就投了申请并拿到录用。
+**中文理解**：她听人说起 District 27 媒体中心的一个空缺：教孩子拍摄与剪辑、讲媒体素养、再到各所学校做驻校；她觉得这份差事像是照着她写的，就投了申请并拿到录用。
 **关键词**：District 27 / media center / media literacy
-**为什么这样写**：先写那杯茶，再写这份「像是照着她写的」工作，最后才落到申请与录用；一句「像是照着她写的」把这次机会说成对她过往经历的一次清点，比直接夸她资历深耐读得多。
-**读者视角提示**：读者会注意到她从邻居的一句话直接跳到求职，中间几乎没有犹豫；前面在海滩上练出来的行动力，第一次用在了课堂之外的场子上。
+**为什么这样写**：先写这份「像是照着她写的」差事，再落到申请与录用；一句「像是照着她写的」把这次机会说成对她过往经历的一次清点，比直接夸她资历深耐读得多。
+**读者视角提示**：读者会注意到她几乎没犹豫，从听说岗位直接跳到投申请；前面在海滩上练出来的行动力，第一次用在了课堂之外的场子上。
 
 > **原句 9:** "When people began telling me in meetings that I should run for office, that’s when I knew. I wanted to be a thorn in the politicians’ asses, but I didn’t want their jobs. I wanted them to do their jobs."
 **中文理解**：会上开始有人劝她竞选公职，她这才明白自己该站在哪儿：她想做的是议员们眼中的那根刺，不是想去当议员，她要的是他们把该做的事做完。
