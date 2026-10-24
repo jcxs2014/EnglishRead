@@ -41,13 +41,13 @@ modified: "2026-10-22"
 
 **关键词**：thrill / camera / Devil
 
-**为什么这样写**：叙述先承认身体的反应，再让这反应撞上“谁站在镜头后面”。两句之间没有转折词，兴奋和恐惧贴在一起；最后“魔鬼”不是随口骂人，而是她给这场交易下的判断——他连她的心动都能收进镜头。
+**为什么这样写**：叙述先承认身体的反应，再让这反应撞上“谁站在镜头后面”。两句之间是明写的 `But`：前半句的兴奋刚落下，这个转折词就当场把它掐断，兴奋与恐惧之所以贴得这么近，恰恰是靠这个显性标记砸出的落差；最后“魔鬼”不是随口骂人，而是她给这场交易下的判断——他连她的心动都能收进镜头。
 
 **读者视角提示**：这一瞬让读者看见她想要什么，也看见她为自己的想要感到难堪。镜头的位置把私人的心动变成别人手里的筹码，读者会比她更早想到照片会落到谁眼里。
 
 > **原句 4:** "He shrugged, his impeccably tailored suit barely wrinkling. ‘That’s up to you. I can ensure these pictures never see the light of day. As long as you grant me a few favours from time to time. Like putting a leash on that dog you call an uncle, Miss Blair. I grow weary of ’im sniffing around my territory.’"
 
-**中文理解**：他耸耸肩，剪裁完美的西装几乎不起皱。他对辛西娅说，照片会不会见光由她决定，只要她往后不时替他办几件事，比如管住海伦娜那位叔叔，让他别再在自己的地盘上打转。
+**中文理解**：他耸耸肩，剪裁完美的西装几乎不起皱。他是对海伦娜说的——原文的称呼是“布莱尔小姐”——照片会不会见光由她自己决定，只要她往后不时替他办几件事，比如给那位被她称作叔叔的人套上牵绳，让他别再在自己的地盘上打转。
 
 **关键词**：favours / leash / territory
 

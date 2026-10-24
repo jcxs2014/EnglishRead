@@ -7,7 +7,7 @@ modified: "2026-10-22"
 
 ## 本章导航
 
-- **一句话概括**：海伦娜握住辛西娅的手想读她的念头，却被一股电流般的力量逼得松手；克莱奥不顾海伦娜阻拦，当众向辛西娅亮出女巫身份，辛西娅从被瞒着的伤心转到接纳；海伦娜仍咬住她不放，最后决定先去找罗温姑妈解决自己读不到她的问题，好赶上明天的问话。
+- **一句话概括**：海伦娜握住辛西娅的手想读她的念头，却被一股电流般的力量逼得松手；克莱奥不顾海伦娜阻拦，当众向辛西娅亮出女巫身份，辛西娅从被瞒着的伤心转到接纳；海伦娜仍咬住她不放，最后决定先去找罗温姨妈解决自己读不到她的问题，好赶上明天的问话。
 - **情感弧线位置**：从审问嫌疑人滑到被嫌疑人反将一军，再落到一次勉强的休战；海伦娜的攻击性、亏心与不肯承认的吸引在同一场里轮番露头，结尾把期待压在明天的会面上。
 - **Tropes 兑现/反转**：读心失灵、身份揭秘、敌意变吸引、护短的哥哥都在；反转有两处——被读的人反过来逼出真相，而最该被怀疑的寡妇比施法的女巫更镇定。
 - **人物弧线**：海伦娜从"必须破开屏障"走到承认自己根本读不到她，敌意里掺进羞愧与想再见她的念头；辛西娅从被瞒着的受伤者变成主动守约的家人；克莱奥把信任押在友情上。
@@ -75,7 +75,7 @@ modified: "2026-10-22"
 
 **读者视角提示**：火一亮，退路就没了；读者和辛西娅同时被推到必须立刻反应的位置。
 
-> **原句 7:** "‘Thomas. I stood with you when your reputation was in tatters. When the entire beau monde accused you of being the worst kind of rakehell, I went toe to toe with every duchess, viscountess, marchioness, and debutante who dared speak a word against you. You didn’t think I would support you now?’"
+> **原句 7:** "Cynthia swallowed, her delicate throat constricting as she squared her shoulders. She exhaled slowly before addressing her brother. ‘Thomas. I stood with you when your reputation was in tatters. When the entire beau monde accused you of being the worst kind of rakehell, I went toe to toe with every duchess, viscountess, marchioness, and debutante who dared speak a word against you. You didn’t think I would support you now?’"
 
 **中文理解**：辛西娅咽了一下，纤细的喉咙收紧，又挺直肩膀，慢慢呼出一口气，才转向哥哥托马斯。她提醒他：当年他的名声烂透了，整个上流社会都骂他是最下作的浪荡子，是她跟每一位公爵夫人、子爵夫人、侯爵夫人和初入社交场的少女当面对峙；难道他以为她如今不会站在他这边？
 
@@ -85,15 +85,15 @@ modified: "2026-10-22"
 
 **读者视角提示**：她在意的不是秘密本身，而是被排除在外；读者由此明白，她的伤心有凭据，不是临时发作。
 
-> **原句 8:** "‘You can never lose me, Clio. I have longed for a sister who would love Thomas the way he deserved. … Nothing can change that.’ Sitting back, Cynthia shook her head, her hazel eyes sparkling with wonder. ‘Not even discovering you’re a witch.’"
+> **原句 8:** "The proper lady pulled Clio into a tight hug. ‘You can never lose me, Clio. I have longed for a sister who would love Thomas the way he deserved. … Nothing can change that.’ Sitting back, Cynthia shook her head, her hazel eyes sparkling with wonder. ‘Not even discovering you’re a witch.’"
 
-**中文理解**：辛西娅说她永远不会失去克莱奥；她一直盼着一个能像托马斯应得的那样爱他的姐妹，这一点什么也改变不了。说着她往后靠去，摇了摇头，淡褐色的眼睛里闪着惊奇，又补上一句：连发现克莱奥是女巫也改变不了。
+**中文理解**：这位规矩的女士先把克莱奥紧紧搂进怀里。辛西娅说她永远不会失去克莱奥；她一直盼着一个能像托马斯应得的那样爱他的姐妹，这一点什么也改变不了。说着她往后靠去，摇了摇头，淡褐色的眼睛里闪着惊奇，又补上一句：连发现克莱奥是女巫也改变不了。
 
 **关键词**：sister / change / witch
 
-**为什么这样写**：先给承诺，再给动作。"sister"把姻亲关系改写成她一直想要的姐妹；省略号跳过的是她对这门婚事的评语，留下的"Nothing can change that"正好接住最难的一句让步——"not even... a witch"。末尾的往后靠与摇头不是拒绝，而是把惊奇咽下去之后的确认。
+**为什么这样写**：先把一个结实的拥抱摆在说话之前，再给承诺。"sister"把姻亲关系改写成她一直想要的姐妹；省略号跳过的是她对这门婚事的评语，留下的"Nothing can change that"正好接住最难的一句让步——"not even... a witch"。末尾的往后靠与摇头不是拒绝，而是把惊奇咽下去之后的确认。
 
-**读者视角提示**：她没有抱住谁，只往后靠、摇了摇头，语气却已经把屋里的敌意按住；读者会愿意相信她，也因此更担心海伦娜接下来不肯收手。
+**读者视角提示**：她先紧紧抱住克莱奥，再往后靠、摇了摇头，语气却已经把屋里的敌意按住；读者会愿意相信她，也因此更担心海伦娜接下来不肯收手。
 
 > **原句 9:** "Helena lifted her hand, and a swirl of water created a mini vortex over her palm. Clio might own fire, but Helena could call the power of the ocean and let it flood through her, washing her enemies away in a rush of power. ‘You seem remarkably accepting of shocking truths. … I don’t believe you are being honest, Lady Burrows.’"
 
