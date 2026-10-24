@@ -24,7 +24,7 @@ source_text: ch04
 3. **《俄瑞斯忒亚》的清单**：三部戏（《阿伽门农》《奠酒人》《厄默尼德斯》）、四个怪物母狗——一个凡人加三位复仇女神。
 4. **克吕泰涅斯特拉的动机**：阿伽门农抢走了阿喀琉斯的女奴布里斯埃伊斯、献祭了他们的女儿伊菲革涅亚、又把特洛伊公主卡珊德拉掳回宫做女奴；她因此与情夫埃吉斯图斯结盟，谋划反扑。
 5. **蛇形与地毯**：地毯让阿伽门农显得软弱；卡珊德拉把妻子比作毒蛇——三出戏里最恐怖的怪物是她，而她不是女权英雄。
-6. **演说家的刀**：克吕泰涅斯特拉在浴中刺杀丈夫，随即向民众发表正式演说，自陈「我就站在杀死他的地方」。
+6. **浴中的刀**：克吕泰涅斯特拉在浴中赤身刺杀丈夫，用一把大号阳具状的刀反复刺穿他的身体；随后她向民众发表正式演说，自陈「我就站在杀死他的地方」。
 7. **血变成仪式**：她对弑夫非但不悔，还带着性兴奋，把丈夫的生命之血当作让自己欢愉的浇灌。
 8. **复仇女神的位阶**：三位女神是连宙斯都受制的暴力本身，父权之上永远压着一层更古老的母系力量。
 9. **阿波罗的污名**：神谕形容她们漆黑、恶心、嗜血食肉；剧作据说害得女观众晕厥乃至流产。
@@ -89,17 +89,17 @@ source_text: ch04
 
 **为什么这样写**：作者要先给一份可清点的清单，后面的驯化、收编、逃亡才有具体对象可依附；把「一个凡人、三个女神」并置在同一段里，是为了让读者立刻意识到这一组怪物内部并不齐整，悲剧的真正赌注不在女神，而在那个会盘算的人身上。
 
-> **原句 3:** "She makes a formal speech to her new public, informing them brazenly of her act of revenge: “I stand now where I struck him down. The thing is done. Thus have I wrought, and I will not deny it now” (1379–80). This is the voice of a woman unafraid of anything."
+> **原句 3:** "Once Agamemnon is in his house, Clytemnestra stabs him to death, in the bath, while he’s naked. Even though it was scripted to be performed offstage, and then reported back in detail to the audience, Agamemnon’s death scene is pointedly emasculating: Clytemnestra repeatedly pierces his body with a large, phallic knife while she has him tangled up in tapestries in the bathroom."
 
-**中文理解**：克吕泰涅斯特拉在浴中刺死丈夫之后没有逃也没有忏悔，而是站到民众面前公开发表正式演说，坦荡地宣告自己已下的手并且绝不否认；作者说这是一种什么都不怕的女人的声音。
+**中文理解**：阿伽门农一进家门，克吕泰涅斯特拉就在浴中一刀把他刺死，而且是在他赤身裸体的时候；这场戏虽被安排在幕后演出、再由人物详细回报给观众，作者却明说它的场面是刻意去势化的——她用一把硕大的、形状像阳具的刀反复刺穿他的身体，把他缠在浴室的地毯里。
 
-**句子结构**：本句是「引语 + 评点」的双层结构：冒号引出被杀者的自述（三个短分句，节奏一路下沉），句号后另起一句给出作者的听觉判断，以「This is the voice of a woman unafraid of anything」收束全段。
+**句子结构**：首句是「Once Agamemnon is in his house, Clytemnestra stabs him to death, in the bath, while he’s naked」——一句之内叠了三层介词短语交代时间、地点与裸露状态，动词只有 stabs him to death 一个。第二句用 Even though 让步从句先承认剧作安排（幕后演出、再回报观众），主句再以 is pointedly emasculating 给出作者的评断；冒号后用 while 从句交代她如何把他缠在地毯里、用一把大号阳具状的刀反复刺穿。
 
-**关键词**：`formal speech`、`act of revenge`、`unafraid of anything`
+**关键词**：`stabs him to death`、`pointedly emasculating`、`a large, phallic knife`
 
-**表达方式**：演说词本体用最朴素的短句完成宣告，评点句则用「This is the voice of …」把个人发言升格为一种可辨认的类型学声音，让一次谋杀变成范式样本。
+**表达方式**：作者把一场弑夫写成一份调度说明——「scripted to be performed offstage, and then reported back in detail to the audience」把观众的缺席与叙述的到场并置，于是这双施加暴力的手全靠转述完成；而 pointedly emasculating 一词就把刀与性器绑在一起，把谋杀写成对男性身体的持续攻击，读者无法把它读成单纯的复仇。
 
-**为什么这样写**：全书要论证的是父权恐惧女性的攻击性与声音，那么最有杀伤力的证据不是伤口而是话语；让凶手当众认领自己的行为，再由作者点出这份无所畏惧本身就是「可被听见的权力」，怪物才第一次拥有了与神同级的音量。
+**为什么这样写**：本书要让读者看见的不只是谁被做了，还包括这套秩序如何把一个女人训练成凶手；把「浴中赤身」「幕后演出再转述」「阳具状的刀」三件具体事压进四句之内，读者得到的不是义愤而是图像——而作者下一段才补上那句当众演说，等于先让读者看见她的手，再听见她的声音。
 
 > **原句 4:** "These Furies are the irrepressibly powerful and decidedly female forces of vengeance and violence itself—forces that even Zeus is subject to. I’ll say that again, because it’s important to convey the power these three goddesses were thought to have: Zeus, the patriarch of patriarchs, the divine embodiment of Patriarchy itself in ancient Greece, was subject to their power."
 
