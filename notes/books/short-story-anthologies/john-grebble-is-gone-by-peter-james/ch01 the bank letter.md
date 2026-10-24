@@ -21,7 +21,7 @@ modified: "2026-10-24"
 
 **关键词**：learned he was dead / morning post / singles holidays
 
-**为什么这样写**：开篇把荒诞前提（活人收到自己的「死亡」通知）说得像收账单一样平淡，喜剧张力全在语气与事件的错位上；plumber 账单与 singles holidays 广告都是中老年独居生活的标准配料，「死者」的生活恰恰从这些最活人的琐碎里展开，顺便用 one 那份广告交代了他长期独身。
+**为什么这样写**：开篇把荒诞前提（活人收到自己的「死亡」通知）说得像收账单一样平淡，喜剧张力全在语气与事件的错位上；plumber 账单与 singles holidays 广告都是中老年独居生活的标准配料，「死者」的生活恰恰从这些最活人的琐碎里展开，顺便用那份广告交代了他长期独身。
 
 **句子结构**：主句极短（John Grebble first learned he was dead），when 从句交代消息来源；第二句用 along with 把账单与广告并列进同一个清单节奏，「死亡」被压成三件邮件之一。
 
@@ -81,7 +81,7 @@ modified: "2026-10-24"
 
 **关键词**：information / deceased / verified
 
-**为什么这样写**：verified 放在句尾作落点，让「核实过」成为整句的重心——系统不是出了错，而是「很确定」；politeness 与内容彻底脱节，sorry 只是话术开头，判决才是正文。
+**为什么这样写**：verified 放在句尾作落点，让「核实过」成为整句的重心——系统不是出了错，而是「很确定」；礼貌与内容彻底脱节，sorry 只是话术开头，判决才是正文。
 
 **句子结构**：the information we have that you are deceased 双层从句嵌套，名词 information 里塞进一个完整的事实句；官僚语言就这样把「你死了」降格成一条「数据」。
 
