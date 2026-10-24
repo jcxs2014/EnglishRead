@@ -1,0 +1,55 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch18",
+ "text": "notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/text/ch18_chapter_18.txt",
+ "facts": [
+  {
+   "fact": "庆典开幕：彩纸、彩带、烟花、matraca 响板，酒馆里的男人烂醉；乐队走街串巷的丰收季。",
+   "anchor": "The festival was a riotous burst of color.",
+   "start": 5,
+   "end": 47
+  },
+  {
+   "fact": "三人到咖啡馆赴约：Perla 盛装艳压全场（瓷娃娃妆效），Ulises 像替王后提裙的侍从；Inés 穿平底鞋、只系黄丝带，桌下踢了他胫骨一脚。",
+   "anchor": "Perla had spent a great deal of time working on her hair and makeup, and together with the excellently tailored dress she wore, she had managed to achieve an appearance of refined beauty.",
+   "start": 1495,
+   "end": 1682
+  },
+  {
+   "fact": "虎面具传统：山虎吃牛被猎杀→男人扮虎；神父解为「人性放纵的象征」、修女们皱眉；Bartolo 买了新面具、母亲不许他玩。",
+   "anchor": "“The tigers? It’s an old tradition.",
+   "start": 3750,
+   "end": 3785
+  },
+  {
+   "fact": "她目送 Ulises 一秒后邀请 Bartolo 共舞；Ulises 整晚盯她、想起十七岁没敢吻的女孩。",
+   "anchor": "“I will.” Inés smiled. Her eyes fixed on Ulises for a second, wide and eager, but she shifted her gaze to Bartolo.",
+   "start": 6486,
+   "end": 6600
+  },
+  {
+   "fact": "他借口离席，戴上 Bartolo 落在桌上的虎面具，追进广场人潮——她与红手帕陌生人共舞，随后甩开对方。",
+   "anchor": "He felt the coolness of the forgotten mask under his fingertips and stood up muttering an excuse that his wife didn’t seem to hear. Nobody paid him any attention as he stepped out of the café and put on the mask.",
+   "start": 10595,
+   "end": 10807
+  },
+  {
+   "fact": "巷内：摘面具、相拥；她嫌他磨蹭「别背十四行诗了」，主动解他皮带——巷内野合。",
+   "anchor": "“Can I kiss you or will you slap me?” he asked.",
+   "start": 13092,
+   "end": 13139
+  },
+  {
+   "fact": "事毕她一句「Estrella 等我」就走；他挽留转圈吻别，她捧了一下他的脸——奔出巷子。",
+   "anchor": "“Estrella will be expecting me,” she said, and the simplicity of the remark felt bruising.",
+   "start": 16386,
+   "end": 16476
+  },
+  {
+   "fact": "他靠着墙心跳如鼓，仰望夜空，两分钟后拾起面具原路返回。",
+   "anchor": "He rested against the wall, his heart still thumping wildly in his chest, and looked up at the night sky. After a couple of minutes, he retrieved the mask he’d dropped and walked back the way they’d come.",
+   "start": 16981,
+   "end": 17185
+  }
+ ]
+}
