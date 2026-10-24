@@ -1,0 +1,182 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch17 the address on the envelope.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch17_chapter_16.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Time was running out. Autumn term would soon be over, then Emily would be gone. She would disappear over Christmas for f",
+          "ok": true,
+          "pos": 19
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘I haven’t stopped thinking about it,’ he said, eyeing her up and down, savouring the contours of her body before he eme",
+          "ok": true,
+          "pos": 1027
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘New Year’s Eve. Friends have invited us to a boring party, but they’re more her friends really. No one would miss me th",
+          "ok": true,
+          "pos": 1955
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He needed more but wasn’t sure whether to say it. Thought what the hell, he’d come this far, may as well. The girl would",
+          "ok": true,
+          "pos": 5556
+        }
+      ],
+      "words": 47
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 18,
+        "为什么这样写": 146,
+        "读者视角提示": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.18,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 22,
+        "为什么这样写": 115,
+        "读者视角提示": 79
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.17,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 23,
+        "为什么这样写": 137,
+        "读者视角提示": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.2,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 23,
+        "为什么这样写": 113,
+        "读者视角提示": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.2,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.77
+      }
+    }
+  ],
+  "form": {
+    "h1": "17. Chapter 16",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 4,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 4,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1126,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

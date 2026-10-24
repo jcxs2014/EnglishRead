@@ -1,0 +1,317 @@
+{
+  "chapter": 29,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch29 new years eve 1999.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch29_chapter_28.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Emily stepped off the train at Leeds railway station, feeling grown up in her faux fur-lined Afghan coat. Rucksack on he",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "In her jeans pocket, she had Aiden’s letter, safely tucked in its envelope. He must have looked up her home address in t",
+          "ok": true,
+          "pos": 785
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Being without you is too much to bear. I think of you day and night and am counting down the days until our New Year’s E",
+          "ok": true,
+          "pos": 1294
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘This has your name on it, sweetheart,’ he said, shooting the briefest of questioning glances at her. He didn’t ask who ",
+          "ok": true,
+          "pos": 1897
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘My problem?’ said Alice. ‘My problem is you still haven’t paid me a penny, and yet you flounce in like I owe you the ri",
+          "ok": true,
+          "pos": 6148
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Alice!’ yelled Emily after her. ‘Why don’t you let Gareth fuck you? Then perhaps you’d chill out a bit and give us all ",
+          "ok": true,
+          "pos": 6328
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It was almost empty, so she tipped the remaining speed into her hand, licked it off, then strode back out to the living ",
+          "ok": true,
+          "pos": 8911
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "If she was just wasted enough, she could fake passing out in her bedroom. They couldn’t exactly doubt her after JJ’s war",
+          "ok": true,
+          "pos": 14582
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘That only happened, like, once, OK? Don’t be an arsehole, Jake.’ Then she added with a flash of inspiration, ‘If that i",
+          "ok": true,
+          "pos": 14337
+        }
+      ],
+      "words": 25
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 17,
+        "为什么这样写": 106,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.18,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 24,
+        "为什么这样写": 101,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.21,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 20,
+        "为什么这样写": 93,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.18,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 24,
+        "为什么这样写": 103,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.22,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 20,
+        "为什么这样写": 93,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.26,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 13,
+        "为什么这样写": 96,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.16,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 12,
+        "为什么这样写": 80,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.17,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 18,
+        "为什么这样写": 87,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.19,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 15,
+        "为什么这样写": 98,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.18,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.76
+      }
+    }
+  ],
+  "form": {
+    "h1": "29. Chapter 28",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2935,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

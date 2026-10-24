@@ -1,0 +1,61 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch38",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch38_chapter_37.txt",
+ "facts": [
+  {
+   "fact": "现住处部分用卖掉利兹公寓的钱买的。",
+   "anchor": "Their place, hers and Gareth’s, bought partly with the cash from the sale of the Leeds flat",
+   "start": 315,
+   "end": 406
+  },
+  {
+   "fact": "几小时前她还不知道旧公寓里是否仍住着学生。",
+   "anchor": "Until a few hours ago, Alice had had no idea whether students still lived there.",
+   "start": 778,
+   "end": 858
+  },
+  {
+   "fact": "她打电话给 Matty 说收到怪邮件。",
+   "anchor": "I received an odd email today.’",
+   "start": 3449,
+   "end": 3480
+  },
+  {
+   "fact": "来信者 Olivia Kavanagh，住 Emily 的房间。",
+   "anchor": "A student called Olivia Kavanagh who’s living in our Otley Road house. She’s got Emily’s room.’",
+   "start": 3668,
+   "end": 3763
+  },
+  {
+   "fact": "是 Alice 当年看见玻璃在上。",
+   "anchor": "It was Alice who had seen the glass on top of, rather than beneath, Emily’s scattered possessions.",
+   "start": 4292,
+   "end": 4390
+  },
+  {
+   "fact": "她最终接受了入室盗窃的说法。",
+   "anchor": "Ultimately, though, she’d accepted what the police said. It was a bungled break-in.",
+   "start": 4575,
+   "end": 4658
+  },
+  {
+   "fact": "Matty 以权威口吻命令别回复。",
+   "anchor": "‘Do not reply to her,’ said Matty, and he said it with such authority Alice had to remind herself she had called him for advice, not permission.",
+   "start": 6974,
+   "end": 7118
+  },
+  {
+   "fact": "章末威胁：你去说就有你好看。",
+   "anchor": "‘You will be if you talk to Olivia Kavanagh.’",
+   "start": 7928,
+   "end": 7973
+  },
+  {
+   "fact": "他连她的孩子都没问。",
+   "anchor": "He hadn’t even asked about her baby.",
+   "start": 8138,
+   "end": 8174
+  }
+ ]
+}

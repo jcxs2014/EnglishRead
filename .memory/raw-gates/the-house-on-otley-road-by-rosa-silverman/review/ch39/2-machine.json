@@ -1,0 +1,182 @@
+{
+  "chapter": 39,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch39 jake in canary wharf.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch39_chapter_38.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He had devoted years of his life to climbing the corporate ladder, and had realised some time ago that there was little ",
+          "ok": true,
+          "pos": 222
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "He hadn’t spoken to Matty for many years. Hadn’t even realised they still had each other’s numbers. He stared at the pho",
+          "ok": true,
+          "pos": 2656
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘Lucky me, I’ve now got this annoying kid stepbrother called Elliot. Obviously, I plan to completely corrupt the little ",
+          "ok": true,
+          "pos": 3535
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Matty knew he had the right number and would keep on calling until Jake picked up. If he didn’t deal with this now, he w",
+          "ok": true,
+          "pos": 5850
+        }
+      ],
+      "words": 52
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 20,
+        "为什么这样写": 81,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.17,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 19,
+        "为什么这样写": 87,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.18,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 18,
+        "为什么这样写": 100,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.18,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 17,
+        "为什么这样写": 84,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.19,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "39. Chapter 38",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 4,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 4,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1124,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

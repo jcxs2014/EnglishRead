@@ -1,0 +1,209 @@
+{
+  "chapter": 12,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch12 mcdonalds and new years eve.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch12_chapter_11.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "‘Then she brings up the rent. Starts banging on about it, claiming I haven’t paid any, which is a lie, I’m sure I have, ",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘Shit,’ said Emily suddenly, grabbing him by the wrist and dragging him into a clothes shop. The way she spoke was vulga",
+          "ok": true,
+          "pos": 3546
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘So,’ he asked her, once he had got her safely inside McDonald’s and ordered them each a Big Mac and fries. ‘Have you ma",
+          "ok": true,
+          "pos": 4076
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He hoped Alice would change her mind about spending New Year’s Eve in Leeds. In her absence, he could throw a party in t",
+          "ok": true,
+          "pos": 5707
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He grabbed his wallet from the table and shoved it firmly into the inside pocket of his coat. He could not trust Emily P",
+          "ok": true,
+          "pos": 7880
+        }
+      ],
+      "words": 33
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 19,
+        "为什么这样写": 124,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.2,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 19,
+        "为什么这样写": 140,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.21,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 25,
+        "为什么这样写": 123,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.25,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 21,
+        "为什么这样写": 107,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.2,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 17,
+        "为什么这样写": 106,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.2,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. Chapter 11",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 5,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1478,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

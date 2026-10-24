@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch24",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch24_chapter_23.txt",
+ "facts": [
+  {
+   "fact": "Olivia 住的正是 Emily 被杀的那间前卧室。",
+   "anchor": "Olivia Kavanagh, she now knew, had not only lived in Emily Pierce’s house but occupied the same bedroom, the one at the front in which Emily was killed.",
+   "start": 771,
+   "end": 923
+  },
+  {
+   "fact": "Elliot 承认代发邮件，自称恶作剧。",
+   "anchor": "Elliot had told her he’d completed the email and sent it behind her back. A thoughtless moment of mucking about, he’d said.",
+   "start": 1182,
+   "end": 1305
+  },
+  {
+   "fact": "Emily 的事是他先告诉 Millie 的。",
+   "anchor": "‘It was me who told them about Emily. Well, I told Millie, and she told the others. And now Olivia’s dead.’",
+   "start": 2713,
+   "end": 2820
+  },
+  {
+   "fact": "要来号码并承诺不外传。",
+   "anchor": "She persuaded him to give her his number and promised not to repeat anything he’d told her.",
+   "start": 2932,
+   "end": 3023
+  },
+  {
+   "fact": "暂不报警，保住独家。",
+   "anchor": "It wasn’t in her interest to go to the police with this, not for the meantime.",
+   "start": 3394,
+   "end": 3472
+  },
+  {
+   "fact": "Smith 提醒 Elliot 是自认的恶作剧者。",
+   "anchor": "",
+   "start": 0,
+   "end": 0
+  },
+  {
+   "fact": "提议溜去 Cardiff 找\"变态教授\"。",
+   "anchor": "‘How about I slip off to Cardiff, go knock the pervy prof and see what he has to say for himself?",
+   "start": 6389,
+   "end": 6486
+  },
+  {
+   "fact": "对同行与报社都保密。",
+   "anchor": "Not just from the rest of the pack, but from the desk as well.’",
+   "start": 6518,
+   "end": 6581
+  }
+ ]
+}

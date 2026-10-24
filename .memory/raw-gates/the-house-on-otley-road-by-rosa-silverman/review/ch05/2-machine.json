@@ -1,0 +1,317 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch05 bradford with the lecturer.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch05_chapter_4.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She’d been distracted from her usual pursuits since the whatever-it-was had started with Dr Berkeley, who she was now al",
+          "ok": true,
+          "pos": 2019
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "A more major issue was Professor Gloria Jessop. As Head of the History Faculty, she would be appalled that a lecturer wa",
+          "ok": true,
+          "pos": 6336
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The greatest buzz was knowing he could have had anyone but chose her. In doing so, he had elevated her above the rest of",
+          "ok": true,
+          "pos": 2622
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Her hunch was proven right when, a few weeks into second year, he brushed her fingers with his as she filed towards the ",
+          "ok": true,
+          "pos": 3642
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "If she was honest with herself, she had deliberately made sure she was the last student to leave. Just in case, really. ",
+          "ok": true,
+          "pos": 3913
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Somehow it felt even more transgressive than perching on his desk while he unzipped his trousers. She could also hardly ",
+          "ok": true,
+          "pos": 7268
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "But then he opened the door and got out, and did not walk around to her side and open hers. Instead he barely looked at ",
+          "ok": true,
+          "pos": 8656
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Hadn’t her dad once warned her it wasn’t strangers you had to watch for but people you actually knew. Men like his frien",
+          "ok": true,
+          "pos": 9550
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "This was somehow worse than him having one, she didn’t know why. One child might be easier to leave, maybe that was it. ",
+          "ok": true,
+          "pos": 14133
+        }
+      ],
+      "words": 35
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 31,
+        "为什么这样写": 173,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.22,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 28,
+        "为什么这样写": 132,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.23,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 32,
+        "为什么这样写": 136,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.23,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 30,
+        "为什么这样写": 154,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.21,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 25,
+        "为什么这样写": 136,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.21,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 24,
+        "为什么这样写": 133,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.19,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 25,
+        "为什么这样写": 123,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.2,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 28,
+        "为什么这样写": 119,
+        "读者视角提示": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.21,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 19,
+        "为什么这样写": 131,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.22,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.93
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Chapter 4",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2740,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

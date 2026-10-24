@@ -1,0 +1,290 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch07 the wife who knows.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch07_chapter_6.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Professor Gloria Jessop knew about the girl, of course she did. She had not been given a chair at the early age of forty",
+          "ok": true,
+          "pos": 12
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "He was in a good mood when he came home that night, after meeting ‘Dave’, and smelled strongly of the pub. When she poin",
+          "ok": true,
+          "pos": 767
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Unlike Dave, the girl was unfortunately real. It was Dr Marie Hollingworth who finally supplied her name. She and Gloria",
+          "ok": true,
+          "pos": 1264
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Marie lowered her voice although no one was in earshot. ‘Seen her come out of Aiden’s office on her own once or twice bu",
+          "ok": true,
+          "pos": 5255
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "So long as neither of them referred directly to the probable nature of Aiden’s relationship with the girl, then perhaps ",
+          "ok": true,
+          "pos": 5612
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "She wore black lacy bras under thin white tops and wanted you to notice. Carried herself as if she expected everyone who",
+          "ok": true,
+          "pos": 6204
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "In fact she had never been certain. Not even when he asked her, over a lasagne at her flat in Meanwood one evening, ‘Whe",
+          "ok": true,
+          "pos": 7371
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Gloria picked up a single sheet of thick cream card, a picture of two Champagne flutes embossed on the front. On the rev",
+          "ok": true,
+          "pos": 13406
+        }
+      ],
+      "words": 53
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 16,
+        "为什么这样写": 132,
+        "读者视角提示": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.16,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 20,
+        "为什么这样写": 130,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.22,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 24,
+        "为什么这样写": 102,
+        "读者视角提示": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.22,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 21,
+        "为什么这样写": 107,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.21,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 20,
+        "为什么这样写": 111,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.21,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 22,
+        "为什么这样写": 121,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.19,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 24,
+        "为什么这样写": 94,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.23,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 20,
+        "为什么这样写": 80,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.19,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "07. Chapter 6",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2544,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

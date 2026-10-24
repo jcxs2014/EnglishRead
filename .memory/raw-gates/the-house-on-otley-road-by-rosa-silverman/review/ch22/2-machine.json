@@ -1,0 +1,300 @@
+{
+  "chapter": 22,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch22 the envelope from norwich crown court.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch22_chapter_21.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Matty shook his head, still trying to make sense of it. He and JJ weren’t exactly soulmates, but they were friends, cert",
+          "ok": true,
+          "pos": 893
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She shook her head. ‘Nah. Didn’t want him to know I’d been looking through his wallet, did I? Though he did leave it rig",
+          "ok": true,
+          "pos": 721
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘Hey,’ he said, touching her arm as they cut across Woodhouse Moor, ‘I never thought",
+          "ok": true,
+          "pos": 1770
+        },
+        {
+          "text": "You know, if you need money, you can always ask me.’ She withdrew her arm from his touch and said nothing",
+          "ok": true,
+          "pos": 1854
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The best thing about the plan was it bound him and Emily closer together. Now they had a shared secret, and the longer i",
+          "ok": true,
+          "pos": 2838
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Everything was immaculate and the room betrayed little personality. On the wall were a couple of giant band posters, Oas",
+          "ok": true,
+          "pos": 5193
+        },
+        {
+          "text": "some mental uni nights out",
+          "ok": true,
+          "pos": 5585
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "This one was not addressed to Jake Jeffreyes, but to Liam Craig. Emily grabbed it and read out the printed name, finally",
+          "ok": true,
+          "pos": 6836
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘I want to know who he is and what he’s done. His bedroom is next door to mine and he could be literally anyone. I want ",
+          "ok": true,
+          "pos": 7533
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘Not the wine. I mean living with JJ. Now that we know. Or don’t know. It’s kind of unsettling, don’t you think?’ ‘We’ll",
+          "ok": true,
+          "pos": 12747
+        }
+      ],
+      "words": 42
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 138,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 128,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 128,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 141,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 131,
+        "读者视角提示": 74
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 121,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.47,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 120,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 125,
+        "读者视角提示": 75
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.62
+      }
+    }
+  ],
+  "form": {
+    "h1": "22. Chapter 21",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2428,
+    "block_target": [
+      4,
+      8
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

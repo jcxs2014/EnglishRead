@@ -1,0 +1,73 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch12",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch12_chapter_11.txt",
+ "facts": [
+  {
+   "fact": "JJ 抱怨 Alice 追租，自称付过或交过押金。",
+   "anchor": "‘Then she brings up the rent. Starts banging on about it, claiming I haven’t paid any, which is a lie, I’m sure I have, or I paid a deposit or something,’ said JJ as they walked through the Merrion Centre, past the shabby shop fronts and garish signs.",
+   "start": 22,
+   "end": 273
+  },
+  {
+   "fact": "Emily 说 Merrion Centre 让她想起家。",
+   "anchor": "‘This place is depressing. It reminds me of home.’",
+   "start": 307,
+   "end": 357
+  },
+  {
+   "fact": "JJ 得知消息走漏，怪 Matty 多嘴。",
+   "anchor": "‘No, you idiot. Matty.’",
+   "start": 812,
+   "end": 835
+  },
+  {
+   "fact": "Emily 说 Alice 趁她不在进房、留书，她撕三页试探。",
+   "anchor": "Did you know she sneaks around in my bedroom when I’m not there? She left something in there once, a book, so it was obvious she’d been in. I tore out three pages from the middle and put it back in her room when she was out, just to see what she’d do. Pissed me off she’d been creeping around behind my back, and what’s she even looking for anyway? Feels like I’m being spied on.’",
+   "start": 1269,
+   "end": 1649
+  },
+  {
+   "fact": "Emily 差点被货车撞，JJ 拉住她大衣。",
+   "anchor": "She stepped out into the road and almost into the path of an oncoming van. JJ grabbed hold of her Afghan coat and pulled her back towards him.",
+   "start": 1908,
+   "end": 2050
+  },
+  {
+   "fact": "JJ 认定 Emily 觉得世界欠她，\"不是同类，是垃圾\"。",
+   "anchor": "The girl seemed to think the world owed her. Not like Alice at all. JJ knew perfectly well that he did literally owe her, and although she was proving harder to get around than he’d hoped, he still bore her a grudging respect. But Emily acted like a pretty face was a meal ticket for life. Matty might fall for her charms but they would never work on him. She wasn’t the right sort at all, just trash.",
+   "start": 2337,
+   "end": 2738
+  },
+  {
+   "fact": "这学期他终于挤进向往的圈子。",
+   "anchor": "Finally, after a year of trying, he was starting to enjoy some success this term, inserting himself into desirable circles. Befriending boys who’d attended expensive schools. Students who wore the right clothes and came from the right places: Surrey, Gloucestershire, Oxfordshire, West and North London.",
+   "start": 2741,
+   "end": 3044
+  },
+  {
+   "fact": "Emily 突然拖他进服装店躲人。",
+   "anchor": "‘Just saw someone I don’t wanna see.’",
+   "start": 3861,
+   "end": 3898
+  },
+  {
+   "fact": "她称那人是催论文的讲师。",
+   "anchor": "‘Lecturer who keeps asking me for an essay I haven’t written.’",
+   "start": 3910,
+   "end": 3972
+  },
+  {
+   "fact": "JJ 问她新年夜是否留利兹。",
+   "anchor": "‘Have you made up your mind about New Year’s Eve yet?",
+   "start": 4338,
+   "end": 4391
+  },
+  {
+   "fact": "他把钱包塞进内袋，认定不能信 Emily。",
+   "anchor": "He grabbed his wallet from the table and shoved it firmly into the inside pocket of his coat. He could not trust Emily Pierce. Could not trust anyone really, but especially not her.",
+   "start": 8148,
+   "end": 8329
+  }
+ ]
+}

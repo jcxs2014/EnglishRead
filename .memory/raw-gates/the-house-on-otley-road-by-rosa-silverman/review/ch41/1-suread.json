@@ -1,0 +1,61 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch41",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch41_chapter_40.txt",
+ "facts": [
+  {
+   "fact": "Olivia 父母死后第四天才发声明。",
+   "anchor": "It took Olivia’s parents until the Thursday to release a statement. Four days after her death.",
+   "start": 22,
+   "end": 116
+  },
+  {
+   "fact": "声明引文。",
+   "anchor": "The loss of our beautiful Olivia has shattered the lives of her family and all who knew her.",
+   "start": 340,
+   "end": 432
+  },
+  {
+   "fact": "嫌疑人再押 24 小时。",
+   "anchor": "Detectives had applied to hold the twenty-year-old man arrested in connection with the murder for another twenty-four hours",
+   "start": 1576,
+   "end": 1699
+  },
+  {
+   "fact": "Smith：他们手里一定有点什么。",
+   "anchor": "‘They must have something substantial on him,’ mused Smith.",
+   "start": 1745,
+   "end": 1804
+  },
+  {
+   "fact": "Olivia 可能也联系过 Emily 的旧室友。",
+   "anchor": "‘Maybe she tried to get in touch with Emily’s old flatmates, too.",
+   "start": 5270,
+   "end": 5335
+  },
+  {
+   "fact": "她记不清 Smith 的大学。",
+   "anchor": "She knew he had studied at Edinburgh – or was it Glasgow?",
+   "start": 5988,
+   "end": 6045
+  },
+  {
+   "fact": "她 95% 确定他未婚。",
+   "anchor": "She was ninety-five per cent certain he wasn’t married.",
+   "start": 6173,
+   "end": 6228
+  },
+  {
+   "fact": "她想写 Olivia 调查 Emily 案的故事。",
+   "anchor": "I want to write the story of how Olivia had been investigating Emily’s murder.",
+   "start": 3794,
+   "end": 3872
+  },
+  {
+   "fact": "归途他搂她，她疑心恋爱。",
+   "anchor": "he put his arm around her. She snuggled in towards him",
+   "start": 2898,
+   "end": 2952
+  }
+ ]
+}

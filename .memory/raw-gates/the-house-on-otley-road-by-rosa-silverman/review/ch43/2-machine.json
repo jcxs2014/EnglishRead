@@ -1,0 +1,305 @@
+{
+  "chapter": 43,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch43 the scorpion in his photos.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch43_chapter_42.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Smith had booked them a room in a spa hotel near Bolton Abbey, about an hour’s drive away. ‘You’ll like the spa, Kate. N",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "As they emerged from the far side of Ilkley, they heard a police siren wail. Jarring with the chocolate box prettiness o",
+          "ok": true,
+          "pos": 1424
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But it was the photo before the receipts that sent a jolt of shock through her. A scorpion. One with evil red eyes",
+          "ok": true,
+          "pos": 3306
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘I suppose I can tell you his old first name. He changed it, you see. He used to be called Matty. I still call him Matty",
+          "ok": true,
+          "pos": 11683
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Alice sighed. ‘I don’t know if I should say this but",
+          "ok": true,
+          "pos": 12089
+        },
+        {
+          "text": "well",
+          "ok": true,
+          "pos": 3840
+        },
+        {
+          "text": "He was a bit obsessed with her.’",
+          "ok": true,
+          "pos": 12149
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Smith had reached for her phone. She tried to turn away but he grabbed it from her hand. ‘I told you,’ he said, ‘I want ",
+          "ok": true,
+          "pos": 12393
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘Smith?’ said Alice down the phone to Kate. ‘Oh my God, you’re not with Matty Smith? I thought that sounded like his voi",
+          "ok": true,
+          "pos": 12893
+        },
+        {
+          "text": "Oh shit.’",
+          "ok": true,
+          "pos": 13067
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Kate glanced over her shoulder, then back out of the window. Took a deep breath and screamed once more with the last oun",
+          "ok": true,
+          "pos": 15613
+        }
+      ],
+      "words": 31
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 17,
+        "为什么这样写": 96,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.19,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 19,
+        "为什么这样写": 76,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.2,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 18,
+        "为什么这样写": 95,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.2,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 20,
+        "为什么这样写": 72,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.18,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 13,
+        "为什么这样写": 108,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.18,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 17,
+        "为什么这样写": 75,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.2,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 18,
+        "为什么这样写": 73,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.17,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 16,
+        "为什么这样写": 89,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.18,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "43. Chapter 42",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2934,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

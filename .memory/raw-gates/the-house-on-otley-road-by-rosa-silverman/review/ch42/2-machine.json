@@ -1,0 +1,344 @@
+{
+  "chapter": 42,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch42 gloria and the wrong door.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch42_chapter_41.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was, in many ways, an ideal house. Set back from the main road just enough to dull the roar of traffic, but close eno",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "When all you have to worry about is essay deadlines and what to eat and where to go drinking at night. Unless you are Em",
+          "ok": true,
+          "pos": 295
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It felt so solvable to Kate, the answers tantalisingly close. But she knew there was a chance she had been carried away,",
+          "ok": true,
+          "pos": 866
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘Then I don’t understand,’ murmured Kate, as much to herself as to Gloria. ‘My colleague George Smith said you didn’t wa",
+          "ok": true,
+          "pos": 6784
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘I’m afraid I’m not going to discuss Emily Pierce. I’m sure you know all about that, and my ex-husband’s involvement wit",
+          "ok": true,
+          "pos": 7938
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘I’m sorry,’ said Kate, ‘but I want to make sure I’m clear about this. You’re not saying you think Aiden may have harmed",
+          "ok": true,
+          "pos": 9609
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘He was at our friends’ party that night. I know for a fact he was at their house in Chapel Allerton at the time she was",
+          "ok": true,
+          "pos": 10478
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Gloria replied in a tone that sounded like this would be the last word on the subject forever. ‘It was a burglary gone w",
+          "ok": true,
+          "pos": 11663
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "So think about it. Gloria Jessop was the only one not out celebrating the millennium with friends when Emily was killed.",
+          "ok": true,
+          "pos": 13233
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Even if he had just told her he loved her. It wasn’t about the byline (his would go first, before hers). It was that thi",
+          "ok": true,
+          "pos": 18430
+        }
+      ],
+      "words": 31
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 17,
+        "为什么这样写": 114,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.18,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 20,
+        "为什么这样写": 118,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.19,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 15,
+        "为什么这样写": 107,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.16,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 16,
+        "为什么这样写": 101,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.18,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 23,
+        "为什么这样写": 98,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.21,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 23,
+        "为什么这样写": 116,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.19,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 24,
+        "为什么这样写": 115,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.2,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 27,
+        "为什么这样写": 90,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.24,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 24,
+        "为什么这样写": 91,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.21,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 20,
+        "为什么这样写": 94,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.21,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "42. Chapter 41",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3539,
+    "block_target": [
+      6,
+      11
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

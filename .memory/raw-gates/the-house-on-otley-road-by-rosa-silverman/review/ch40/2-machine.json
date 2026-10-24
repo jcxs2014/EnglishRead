@@ -1,0 +1,290 @@
+{
+  "chapter": 40,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch40 the second girl.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch40_chapter_39.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "What should she do, light a candle, perform some breathwork to make it count for something? Funny how different ‘me time",
+          "ok": true,
+          "pos": 705
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Halfway through reading it, she let the newspaper fall into her lap. Another student had been killed in Emily Pierce’s o",
+          "ok": true,
+          "pos": 4207
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Police say they have no evidence the two killings are connected but are keeping an open mind. She read the words twice t",
+          "ok": true,
+          "pos": 4417
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Tucked away, right at the back, was an old red T-shirt that Gloria had always hated. It didn’t suit him and she’d told h",
+          "ok": true,
+          "pos": 9292
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘I know you didn’t.’ Her tone was icy, distant. ‘That’s why I took your idiotic incriminating envelope from its incredib",
+          "ok": true,
+          "pos": 10696
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘She didn’t believe it was a burglary. So I went to see her.’ ‘You did what?’ She raised her voice. ‘It was a burglary, ",
+          "ok": true,
+          "pos": 13330
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘You went to meet this girl and now she’s dead. Just like Emily.’ ‘Gloria, it’s not like that. But believe what you want",
+          "ok": true,
+          "pos": 13631
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The floor was starting to move beneath her feet. She had to find somewhere to sit. Then the tiles came up to meet her fa",
+          "ok": true,
+          "pos": 14026
+        }
+      ],
+      "words": 34
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 18,
+        "为什么这样写": 111,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.23,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 15,
+        "为什么这样写": 101,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.17,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 17,
+        "为什么这样写": 107,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.2,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 17,
+        "为什么这样写": 111,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.2,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 18,
+        "为什么这样写": 90,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.18,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 14,
+        "为什么这样写": 96,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.2,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 16,
+        "为什么这样写": 77,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.18,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 11,
+        "为什么这样写": 90,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.16,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "40. Chapter 39",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2569,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

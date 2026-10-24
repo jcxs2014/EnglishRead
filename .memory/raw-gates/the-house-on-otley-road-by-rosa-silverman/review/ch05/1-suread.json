@@ -1,0 +1,67 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch05",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch05_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "Emily 拒绝用\"外遇\"称呼这段关系，理由是出轨的是他。",
+   "anchor": "She wouldn’t call it an affair, since he was the one having the affair, not her.",
+   "start": 2212,
+   "end": 2292
+  },
+  {
+   "fact": "Gloria Jessop 是历史学院院长，且是讲师的妻子。",
+   "anchor": "As Head of the History Faculty, she would be appalled",
+   "start": 6466,
+   "end": 6519
+  },
+  {
+   "fact": "Emily 有 98% 的把握那次指尖相触不是意外。",
+   "anchor": "Emily felt ninety-eight-per-cent certain it wasn’t.",
+   "start": 3924,
+   "end": 3975
+  },
+  {
+   "fact": "到十二月，两人在办公室偷偷亲热已有几个月。",
+   "anchor": "By December they had spent a couple of furtive months snatching kisses in his office.",
+   "start": 4837,
+   "end": 4922
+  },
+  {
+   "fact": "Aiden 承认对妻子编造的朋友 Dave 并不存在。",
+   "anchor": "‘Dave doesn’t exist.’",
+   "start": 8091,
+   "end": 8112
+  },
+  {
+   "fact": "去程车上 Emily 注意到后座的儿童座椅并决定无视。",
+   "anchor": "She could also hardly believe there was a child seat in the back.",
+   "start": 7462,
+   "end": 7527
+  },
+  {
+   "fact": "Aiden 说\"不小心的话我可能会爱上你\"。",
+   "anchor": "‘I could fall in love with you if you’re not careful,’ he mused.",
+   "start": 13512,
+   "end": 13576
+  },
+  {
+   "fact": "Aiden 说自己有两个孩子。",
+   "anchor": "‘I have two.’",
+   "start": 14388,
+   "end": 14401
+  },
+  {
+   "fact": "他声称绝不会离开家庭。",
+   "anchor": "‘I would never leave my family,’ he said.",
+   "start": 14663,
+   "end": 14704
+  },
+  {
+   "fact": "Emily 是独生女，\"很容易被丢下\"。",
+   "anchor": "Emily was an only child and she had been easy to leave.",
+   "start": 14524,
+   "end": 14579
+  }
+ ]
+}

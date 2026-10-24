@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch20",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch20_chapter_19.txt",
+ "facts": [
+  {
+   "fact": "清晨电话给 Smith：Kate 去发布会、Smith 找学生。",
+   "anchor": "‘Editor’s still mad keen,’ said Dan as Smith rolled his eyes. ‘I’m hearing there might be a police press conference this morning, so we’ll need one of you there. Maybe Kate, if she’s still worried about that threat. Cop shop’ll be nice and secure. That leaves you free to carry on looking for friends who’ll speak, other students or whoever. Someone’s got to say something today. Couple of the papers have quoted some kid called Elliot. He didn’t say much, but it might be worth tracking him down. See if you can’t charm him into being a bit more talkative.’",
+   "start": 227,
+   "end": 785
+  },
+  {
+   "fact": "Meera 承认\"朋友\"是 poetic licence。",
+   "anchor": "‘Poetic licence,’ Meera grinned.",
+   "start": 5470,
+   "end": 5502
+  },
+  {
+   "fact": "发布会：死者 Olivia，10.15 p.m. 接警，未逮捕。",
+   "anchor": "The victim was tragically identified as a student called Olivia Kavanagh, who was nineteen years old. Officers at the scene reported that she had suffered a stab wound to her neck. A murder investigation has been opened but so far no arrests have been made.",
+   "start": 7679,
+   "end": 7936
+  },
+  {
+   "fact": "警方否认两案有关。",
+   "anchor": "‘No,’ said DCS Gallagher firmly. ‘There is no evidence at this stage to suggest a connection between the two cases. Again, we are keeping an open mind, but we are currently treating this as a tragic coincidence and do not have reason to believe there is any link.’",
+   "start": 10150,
+   "end": 10414
+  },
+  {
+   "fact": "入口与前门无监控。",
+   "anchor": "‘There is no CCTV covering the approach to the property or the front door.’",
+   "start": 9803,
+   "end": 9878
+  },
+  {
+   "fact": "Elliot 再次现身现场。",
+   "anchor": "‘He showed up outside the house again this morning, which seems like a bit of a red flag",
+   "start": 13415,
+   "end": 13503
+  },
+  {
+   "fact": "Smith 转述 Elliot：和她的室友上床。",
+   "anchor": "Sounds like he was banging her flatmate.’",
+   "start": 13937,
+   "end": 13978
+  },
+  {
+   "fact": "Kate 不信巧合，只信关联。",
+   "anchor": "believe in tragic coincidences. Apart from anything else, they were far less interesting than tragic connections.",
+   "start": 10745,
+   "end": 10858
+  }
+ ]
+}

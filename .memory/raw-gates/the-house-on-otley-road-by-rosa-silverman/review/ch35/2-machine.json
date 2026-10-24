@@ -1,0 +1,182 @@
+{
+  "chapter": 35,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch35 the name at the door.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch35_chapter_34.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was Matty who paid for the pizzas. Matty who made sure Emily ate enough. She discovered her appetite and grabbed seve",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Waiting until she knew they were watching, she made a show of taking a large swig of tequila from the bottle that had ma",
+          "ok": true,
+          "pos": 977
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She never discussed it with her dad, except once when he’d said to her, ‘I want you to know it’s not your fault your mum",
+          "ok": true,
+          "pos": 3223
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘I’ll go where I want,’ she said, forgetting that where she wanted to go was not out with JJ at all. She immediately reg",
+          "ok": true,
+          "pos": 6518
+        }
+      ],
+      "words": 33
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 28,
+        "为什么这样写": 123,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.19,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 37,
+        "为什么这样写": 173,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.23,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 26,
+        "为什么这样写": 128,
+        "读者视角提示": 83
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.2,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 24,
+        "为什么这样写": 139,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.18,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.69
+      }
+    }
+  ],
+  "form": {
+    "h1": "35. Chapter 34",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 4,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 4,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1290,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

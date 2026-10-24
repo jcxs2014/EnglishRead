@@ -1,0 +1,79 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch09",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch09_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "宿醉醒来，头痛、床空。",
+   "anchor": "Olivia awoke with a sore head and empty bed.",
+   "start": 20,
+   "end": 64
+  },
+  {
+   "fact": "她想除了父母妹妹谁会真的为她的消失难过。",
+   "anchor": "She wondered who, apart from her parents and sister, would genuinely suffer if she disappeared.",
+   "start": 1200,
+   "end": 1295
+  },
+  {
+   "fact": "Millie 来电时 Elliot 对 Olivia 眨眼。",
+   "anchor": "Elliot winked at Olivia.",
+   "start": 1781,
+   "end": 1805
+  },
+  {
+   "fact": "她意识到自己只是填补他时间的人。",
+   "anchor": "She had merely been someone to fill his time until the girl he actually wanted showed up.",
+   "start": 2480,
+   "end": 2569
+  },
+  {
+   "fact": "合照把她从中间裁掉。",
+   "anchor": "The frame cut her down the middle",
+   "start": 3544,
+   "end": 3577
+  },
+  {
+   "fact": "Aiden 回信愿答问题。",
+   "anchor": "I’d be happy to try to answer any questions you may have,",
+   "start": 5655,
+   "end": 5712
+  },
+  {
+   "fact": "他提出下周来利兹可见面。",
+   "anchor": "perhaps we could meet?",
+   "start": 5904,
+   "end": 5926
+  },
+  {
+   "fact": "她发现\"没发\"的邮件已被写完并发出。",
+   "anchor": "she saw his message was a reply to hers, which had, it turned out, been completed and sent.",
+   "start": 6150,
+   "end": 6241
+  },
+  {
+   "fact": "她推断是 Elliot 偷看并代发。",
+   "anchor": "That Elliot had sneaked a look at her mad, half-written message",
+   "start": 7430,
+   "end": 7493
+  },
+  {
+   "fact": "Bella 评 Elliot\"有点强奸犯气质\"。",
+   "anchor": "‘Bit rapey, maybe?’",
+   "start": 13053,
+   "end": 13072
+  },
+  {
+   "fact": "她决定公共场所见 Aiden。",
+   "anchor": "She would meet Aiden Berkeley somewhere public",
+   "start": 8862,
+   "end": 8908
+  },
+  {
+   "fact": "章末想到碎玻璃与 Emily 的室友下落。",
+   "anchor": "She remembered Elliot’s comment, about one of the flatmates mentioning the glass from the broken window.",
+   "start": 14942,
+   "end": 15046
+  }
+ ]
+}

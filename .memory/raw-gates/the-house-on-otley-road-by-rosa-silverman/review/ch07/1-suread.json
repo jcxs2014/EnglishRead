@@ -1,0 +1,79 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch07",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch07_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "开篇即断言 Gloria 早已知道。",
+   "anchor": "Professor Gloria Jessop knew about the girl, of course she did.",
+   "start": 20,
+   "end": 83
+  },
+  {
+   "fact": "Aiden 给虚构朋友编了全名 Dave Spencer 并称一起打过板球。",
+   "anchor": "‘You don’t know him. Dave Spencer. I used to play cricket with him.’",
+   "start": 556,
+   "end": 624
+  },
+  {
+   "fact": "名字由 Marie Hollingworth 供给。",
+   "anchor": "It was Dr Marie Hollingworth who finally supplied her name.",
+   "start": 1337,
+   "end": 1396
+  },
+  {
+   "fact": "Gloria 主动接出这个名字。",
+   "anchor": "‘Emily Pierce?’",
+   "start": 5176,
+   "end": 5191
+  },
+  {
+   "fact": "Marie 称一两次看见 Emily 独自从 Aiden 办公室出来。",
+   "anchor": "‘Seen her come out of Aiden’s office on her own once or twice",
+   "start": 5411,
+   "end": 5472
+  },
+  {
+   "fact": "Gloria 当面把事情解释成\"额外辅导\"并要求别外传。",
+   "anchor": "‘He’s obviously giving her extra help because she’s struggling,’ Gloria cut in.",
+   "start": 5521,
+   "end": 5600
+  },
+  {
+   "fact": "她的身体证据：不对视、床上背过身。",
+   "anchor": "the way he wouldn’t meet her eye during certain conversations, the way he turned from her in bed.",
+   "start": 5977,
+   "end": 6074
+  },
+  {
+   "fact": "Gloria 对 Emily 的傲慢画像。",
+   "anchor": "She wore black lacy bras under thin white tops and wanted you to notice.",
+   "start": 6326,
+   "end": 6398
+  },
+  {
+   "fact": "距上次性生活至少四个月（Pembrokeshire 之夏）。",
+   "anchor": "That was at least four months ago.",
+   "start": 12765,
+   "end": 12799
+  },
+  {
+   "fact": "Crawley 家请柬上两人名字并排。",
+   "anchor": "‘Gloria and Aiden’",
+   "start": 13882,
+   "end": 13900
+  },
+  {
+   "fact": "三名学生投诉 Marie；Aiden 借机转移话题。",
+   "anchor": "Three students have now made complaints about Marie.",
+   "start": 12039,
+   "end": 12091
+  },
+  {
+   "fact": "章末 Aiden 装睡。",
+   "anchor": "Her husband was already feigning sleep.",
+   "start": 14336,
+   "end": 14375
+  }
+ ]
+}

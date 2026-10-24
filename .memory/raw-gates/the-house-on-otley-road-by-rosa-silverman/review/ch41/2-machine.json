@@ -1,0 +1,290 @@
+{
+  "chapter": 41,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch41 the address smith takes.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch41_chapter_40.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Kate wondered how they had spent the past half week. What actually happened behind closed doors when you suffered a loss",
+          "ok": true,
+          "pos": 108
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The loss of our beautiful Olivia has shattered the lives of her family and all who knew her. She was a bright, thoughtfu",
+          "ok": true,
+          "pos": 329
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It at least gave them something to write about, in the absence of any update from the police on Elliot’s detention. Dete",
+          "ok": true,
+          "pos": 1423
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "When she was onto something, there was no stopping her. It was what made her a good reporter, Smith had even said that t",
+          "ok": true,
+          "pos": 4008
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘You can tell me, I won’t be angry.’ This was a lie, she would be furious if he turned around and told her there was som",
+          "ok": true,
+          "pos": 7541
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "First, to establish that Aiden had been married to a woman called Gloria Jessop (she pulled up his marriage record on An",
+          "ok": true,
+          "pos": 11740
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "She didn’t want to stand on Olivia’s doorstep where nothing was happening. She wanted to go and speak to Gloria Jessop. ",
+          "ok": true,
+          "pos": 13298
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She took a deep breath to tell him no, but before she could speak he placed his hands on either side of her doorway, as ",
+          "ok": true,
+          "pos": 13665
+        }
+      ],
+      "words": 38
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 18,
+        "为什么这样写": 130,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.2,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 14,
+        "为什么这样写": 107,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.14,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 19,
+        "为什么这样写": 108,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.22,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 17,
+        "为什么这样写": 110,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.2,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 20,
+        "为什么这样写": 107,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.21,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 17,
+        "为什么这样写": 113,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.49,
+        "关键词": 0.18,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 16,
+        "为什么这样写": 82,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.19,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 18,
+        "为什么这样写": 99,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.18,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.77
+      }
+    }
+  ],
+  "form": {
+    "h1": "41. Chapter 40",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2634,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "chapter": 27,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch27 the flat above the chippy.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch27_chapter_26.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Why didn’t Smith wake her up? Perhaps he had tried and she had slept through his knocking, just as he had slept through ",
+          "ok": true,
+          "pos": 294
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I don’t care if you’re interested or not. You might as well stay on that doorstep, or just stay at your desk, in fact, i",
+          "ok": true,
+          "pos": 2750
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "This was why she was alone. She pushed men away by bickering, holding them up to standards they either could not or woul",
+          "ok": true,
+          "pos": 3630
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "No charge had yet been brought against Elliot. The police would have until early evening to charge him, release him or e",
+          "ok": true,
+          "pos": 4018
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Elliot was there, holding a pint, a self-satisfied smirk on his face. And wasn’t that",
+          "ok": true,
+          "pos": 5517
+        },
+        {
+          "text": "Yes it was, it was her. Olivia, half in and half out of the shot, like she was about to be edged out altogether",
+          "ok": true,
+          "pos": 5604
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Were they together, elsewhere, when these were taken? She read the date the picture had been posted. It matched the date",
+          "ok": true,
+          "pos": 5889
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It hadn’t seemed possible she could find a worse breakfast than yesterday’s within the hotel, and yet here it was. Why, ",
+          "ok": true,
+          "pos": 6301
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Suddenly, it dawned on Kate. This was one of the boys from Millie’s Instagram photos. She had barely noticed his face in",
+          "ok": true,
+          "pos": 13874
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘Just so I’m clear, he didn’t have anything going on with Olivia, did he? Like, romantically?’ She felt silly using the ",
+          "ok": true,
+          "pos": 14896
+        }
+      ],
+      "words": 35
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 18,
+        "为什么这样写": 111,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.21,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 19,
+        "为什么这样写": 125,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.24,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 20,
+        "为什么这样写": 108,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.24,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 18,
+        "为什么这样写": 109,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.18,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 22,
+        "为什么这样写": 131,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.19,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 17,
+        "为什么这样写": 108,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.21,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 21,
+        "为什么这样写": 118,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.21,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 19,
+        "为什么这样写": 120,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.23,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 20,
+        "为什么这样写": 113,
+        "读者视角提示": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.22,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "27. Chapter 26",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2887,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

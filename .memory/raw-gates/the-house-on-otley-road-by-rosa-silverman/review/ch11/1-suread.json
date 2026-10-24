@@ -1,0 +1,67 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch11",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch11_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "开篇自我鉴定：不评判、讲公道。",
+   "anchor": "Alice was not judgemental, she was fair and tried to be kind. To see the best in people. But realistically there was only so far you could go with that approach. Emily Pierce pushed her to her limits.",
+   "start": 22,
+   "end": 222
+  },
+  {
+   "fact": "房租由 Alice 代收代存，室友欠的是她。",
+   "anchor": "Like JJ, Emily owed her. Or at least, she owed Alice’s parents, but since her parents had put her in charge of collecting the rent and paying it into an account set up for the purpose – the contents of which were to one day be Alice’s anyway – it was she who suffered her flatmates’ financial incompetence.",
+   "start": 223,
+   "end": 529
+  },
+  {
+   "fact": "一年级经 Matty 认识，Emily 闯进英语文学酒会。",
+   "anchor": "Emily had gatecrashed the English lit drinks and ended up sitting next to Alice in the Skyrack.",
+   "start": 1590,
+   "end": 1685
+  },
+  {
+   "fact": "Emily 滑进 Matty 的位子，把 Alice 迷住。",
+   "anchor": "When Emily slid into Matty’s place at the table beside her, she chatted away so guilelessly that Alice couldn’t help but fall under her spell. She’d shout things like, ‘No WAY,’ and swear and giggle and poke her tongue into the side of her mouth in a way that Alice had to concede was kind of bewitching.",
+   "start": 3429,
+   "end": 3733
+  },
+  {
+   "fact": "Matty 本是减价房租，Emily 拿到同等待遇。",
+   "anchor": "she’d already offered a reduced rent to Matty for her own reasons.",
+   "start": 5112,
+   "end": 5178
+  },
+  {
+   "fact": "Emily 常开窗、留燃烟，底层公寓危险。",
+   "anchor": "She would often leave a window open when she went out. It was a ground-floor flat. How stupid could she be?",
+   "start": 5497,
+   "end": 5604
+  },
+  {
+   "fact": "禁烟规矩之争，Alice 拿父母产权压人。",
+   "anchor": "‘It’s just that my parents own the property.’",
+   "start": 6486,
+   "end": 6531
+  },
+  {
+   "fact": "Alice 趁 Emily 不在溜进她房间，自己的杯子被当烟灰缸。",
+   "anchor": "In her role as de facto landlady, Alice had started sneaking into Emily’s bedroom when she was out. Found it reeked of stale smoke. Found her own china mug on the bedside table, a lovely cornflower blue one she had brought with her from Devon.",
+   "start": 6740,
+   "end": 6983
+  },
+  {
+   "fact": "她没见过 Emily 父母，只知母亲出走。",
+   "anchor": "She had never met Emily’s parents but knew her mother had walked out at some point when Emily was younger.",
+   "start": 7619,
+   "end": 7725
+  },
+  {
+   "fact": "Matty 眼里只有 Emily；还有两个学期才能摆脱两人。",
+   "anchor": "He only had eyes for Emily, everyone could see it. It had come to feel like a monstrous betrayal, one she was forced to confront every day. The flatshare had turned into a nightmare and she still had two terms left before she could rid herself of both Emily and JJ.",
+   "start": 8346,
+   "end": 8611
+  }
+ ]
+}

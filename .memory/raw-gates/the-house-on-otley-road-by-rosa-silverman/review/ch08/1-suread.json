@@ -1,0 +1,67 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch08",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch08_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "Dry Dock 只是开场酒，室友们转场夜店。",
+   "anchor": "After what had turned out to be just pre-drinks at the Dry Dock",
+   "start": 853,
+   "end": 916
+  },
+  {
+   "fact": "Olivia 以经前不适为借口独自回家。",
+   "anchor": "‘I think I’m premenstrual, actually.",
+   "start": 1086,
+   "end": 1122
+  },
+  {
+   "fact": "验尸报道：血液有酒精与安非他命，据信与死因无关。",
+   "anchor": "Alcohol and amphetamines were found in her blood",
+   "start": 3922,
+   "end": 3970
+  },
+  {
+   "fact": "死亡时间 1999-12-31 晚 8–9 点。",
+   "anchor": "Time of death was between 8 p.m. and 9 p.m. on 31 December 1999.",
+   "start": 4020,
+   "end": 4084
+  },
+  {
+   "fact": "继兄回信给出拼错的 Barkley。",
+   "anchor": "Just asked a mate. They think Dr Barkley??",
+   "start": 7480,
+   "end": 7522
+  },
+  {
+   "fact": "换拼法搜到在 Cardiff 教历史的 Aiden Berkeley。",
+   "anchor": "she came upon a Dr Aiden Berkeley who taught History at Cardiff.",
+   "start": 7887,
+   "end": 7951
+  },
+  {
+   "fact": "简历确认他在利兹任教到 2000 年。",
+   "anchor": "The biography on his web page confirmed he had taught in Leeds until 2000.",
+   "start": 7952,
+   "end": 8026
+  },
+  {
+   "fact": "Elliot 醉后独自上门，称\"来看你\"。",
+   "anchor": "‘Came to see you,’ he smirked playfully.",
+   "start": 14643,
+   "end": 14683
+  },
+  {
+   "fact": "他要求看\"现场\"。",
+   "anchor": "‘Would you mind if I saw the room?",
+   "start": 16961,
+   "end": 16995
+  },
+  {
+   "fact": "他不请自坐到她床上。",
+   "anchor": "seated himself on her bed, uninvited.",
+   "start": 19012,
+   "end": 19049
+  }
+ ]
+}

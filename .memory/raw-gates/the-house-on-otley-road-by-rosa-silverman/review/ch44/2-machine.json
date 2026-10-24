@@ -1,0 +1,263 @@
+{
+  "chapter": 44,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch44 the oak tree confession.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch44_chapter_43.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Matty paused, bent double behind a broad oak tree in the dark of the country lane. Hands on his knees, he struggled to c",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "He had never been a quitter. That was why it all went wrong with Emily in the first place. Why he wouldn’t be deterred w",
+          "ok": true,
+          "pos": 2578
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘I don’t want something casual. I love you. I’ve loved you since first year. I want us to be together.’",
+          "ok": true,
+          "pos": 3946
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘He’s called Aiden and he’s a lecturer. He’s coming to collect me at 8.30 p.m. to take me to a hotel. We’re going to spe",
+          "ok": true,
+          "pos": 5220
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He let go of one of her arms, grabbed a pillow, brought it to her face and pushed her down onto the bed",
+          "ok": true,
+          "pos": 7340
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Bad luck for Olivia Kavanagh that she’d made her foolish decision to stir things up. Cost her her life in the end, and a",
+          "ok": true,
+          "pos": 8350
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It was a shame about Kate. In another life, perhaps it really would have worked out",
+          "ok": true,
+          "pos": 11750
+        }
+      ],
+      "words": 16
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 16,
+        "为什么这样写": 105,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.16,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 19,
+        "为什么这样写": 96,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.19,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 15,
+        "为什么这样写": 90,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.19,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 16,
+        "为什么这样写": 101,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.19,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 19,
+        "为什么这样写": 104,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.19,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 20,
+        "为什么这样写": 84,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.23,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 13,
+        "为什么这样写": 99,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.19,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "44. Chapter 43",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2290,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

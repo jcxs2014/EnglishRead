@@ -1,0 +1,322 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch15 another murder on otley road.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch15_chapter_14.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Kate Marsden’s phone buzzed on the bedside table. Smith’s bedside table, because she had ended up staying at his. Again.",
+          "ok": true,
+          "pos": 14
+        },
+        {
+          "text": "actually, she couldn’t remember the other reasons, apart from that it was unlikely to end well",
+          "ok": true,
+          "pos": 189
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘It’s Dan from the newsdesk,’ said the news editor unnecessarily. She knew his voice too well, her sleep had been ruined",
+          "ok": true,
+          "pos": 731
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "He spoke of cataclysmic events so matter-of-factly that Kate could hardly be blamed for responding with similar nonchala",
+          "ok": true,
+          "pos": 1250
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Every event and micro-event was reported and repeated infinitely within seconds of it happening, or while it was ongoing",
+          "ok": true,
+          "pos": 2097
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "One that got under your skin and inside your gut, living in you for weeks and months afterwards. An unnervingly pretty g",
+          "ok": true,
+          "pos": 4105
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘The victim has been named as Olivia Kavanagh, an undergraduate studying in Leeds. She was found in the flat she shared ",
+          "ok": true,
+          "pos": 12147
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "She had an urge to pull over and check. The story would be bigger if, by some unfortunate coincidence, the two killings ",
+          "ok": true,
+          "pos": 12591
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He was dry and cerebral, a good conversationalist when he was in the right mood. In bed, she was pleasantly surprised by",
+          "ok": true,
+          "pos": 8090
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘So, I’m showing my age here, but I covered another student murder in Leeds twenty years ago. A girl called Emily Pierce",
+          "ok": true,
+          "pos": 16347
+        }
+      ],
+      "words": 39
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 23,
+        "为什么这样写": 125,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.21,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 17,
+        "为什么这样写": 106,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.17,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 20,
+        "为什么这样写": 90,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.16,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 18,
+        "为什么这样写": 80,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.17,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 25,
+        "为什么这样写": 104,
+        "读者视角提示": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.2,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 26,
+        "为什么这样写": 96,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.19,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 26,
+        "为什么这样写": 77,
+        "读者视角提示": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.18,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 22,
+        "为什么这样写": 80,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.2,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 17,
+        "为什么这样写": 75,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.17,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.81
+      }
+    }
+  ],
+  "form": {
+    "h1": "15. Chapter 14",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3039,
+    "block_target": [
+      6,
+      9
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

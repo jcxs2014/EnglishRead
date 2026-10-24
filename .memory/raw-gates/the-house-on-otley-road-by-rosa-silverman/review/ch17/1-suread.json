@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch17",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch17_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "学期将尽，圣诞四周 Aiden 只能靠家庭将就。",
+   "anchor": "Time was running out. Autumn term would soon be over, then Emily would be gone. She would disappear over Christmas for four long weeks, during which Aiden would have to make do with the diminishing pleasures of family life.",
+   "start": 29,
+   "end": 252
+  },
+  {
+   "fact": "他称自己一直在想她。",
+   "anchor": "‘I haven’t stopped thinking about it,’",
+   "start": 1048,
+   "end": 1086
+  },
+  {
+   "fact": "提议开车出城、谷地酒店、共迎千禧。",
+   "anchor": "We’ll drive somewhere out of the city, where we won’t be seen. A hotel in the Yorkshire Dales. My— Gloria won’t be home until the early hours. We could see in the new millennium together.’",
+   "start": 2917,
+   "end": 3105
+  },
+  {
+   "fact": "地址写在信封背面；8.30 接、深蓝沃尔沃。",
+   "anchor": "He scribbled her address on the back of a manila envelope. ‘I’ll park on the nearest side street. You know my car now, the dark blue Volvo.",
+   "start": 4736,
+   "end": 4875
+  },
+  {
+   "fact": "要她对室友守口如瓶。",
+   "anchor": "What will you tell your flatmates? You know not to breathe a word about any of this to them, don’t you?",
+   "start": 4876,
+   "end": 4979
+  },
+  {
+   "fact": "Emily 反问酒店里做什么。",
+   "anchor": "‘What will we do in this hotel, professor?’",
+   "start": 4086,
+   "end": 4129
+  },
+  {
+   "fact": "她开价五星六星带泳池，还带比基尼。",
+   "anchor": "‘OK,’ she said, suddenly pushing his hand away. ‘Let’s do it. Take me to a five-star hotel. A six-star hotel. One with a pool. I’ll bring a bikini.’",
+   "start": 4372,
+   "end": 4520
+  },
+  {
+   "fact": "时间定在跨年夜 8.30 p.m.。",
+   "anchor": "pick you up at, let’s see, 8.30 p.m. on New Year’s Eve",
+   "start": 4614,
+   "end": 4668
+  }
+ ]
+}

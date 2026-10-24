@@ -1,0 +1,290 @@
+{
+  "chapter": 25,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch25 cardiff and the open door.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch25_chapter_24.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Early evening, Kate pulled off the M4 outside Cardiff, joining the slow-moving rush hour traffic that clogged every lane",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It was, she acknowledged, an exceptionally long distance to travel on the off chance. The alternative would have been to",
+          "ok": true,
+          "pos": 2470
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But the only other option was remaining in Leeds and waiting for another reporter – or the police – to learn of the emai",
+          "ok": true,
+          "pos": 3325
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Outside the address, she turned off the engine and listened as the silence fell. Eyes fixed on Berkeley’s front door, sh",
+          "ok": true,
+          "pos": 4865
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘Not really. Keeps himself to himself, if you know what I mean.’ Kate wasn’t sure if she did know what he meant. ‘Kept h",
+          "ok": true,
+          "pos": 8025
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Aiden? Can you come to the door? I need to talk to you. Please.’ It would almost certainly be futile, but you couldn’t ",
+          "ok": true,
+          "pos": 12590
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "You’d better come back ASAP. Looks like Elliot’s been arrested. Kate almost dropped her phone. ‘Oh my God,’ she mouthed ",
+          "ok": true,
+          "pos": 14078
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Suddenly, she found herself tumbling forwards. Flung out her arms to keep herself from crashing to the ground as the fro",
+          "ok": true,
+          "pos": 14778
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 19,
+        "为什么这样写": 94,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.2,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 17,
+        "为什么这样写": 76,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.21,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 23,
+        "为什么这样写": 105,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.21,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 15,
+        "为什么这样写": 86,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.15,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 20,
+        "为什么这样写": 117,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.18,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 15,
+        "为什么这样写": 102,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.19,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 14,
+        "为什么这样写": 81,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.17,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 15,
+        "为什么这样写": 99,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.15,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "25. Chapter 24",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2699,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

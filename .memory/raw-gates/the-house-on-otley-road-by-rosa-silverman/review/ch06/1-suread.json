@@ -1,0 +1,67 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch06",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch06_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "Emily 隐瞒私情的理由是\"不想听评判\"，信任与否未定。",
+   "anchor": "Emily hadn’t told her flatmates, not because she didn’t trust them – she was undecided on that – but because she didn’t care to hear their judgements.",
+   "start": 20,
+   "end": 170
+  },
+  {
+   "fact": "房子是 Alice 父母的产业。",
+   "anchor": "The Otley Road flat belonged to Alice’s parents",
+   "start": 583,
+   "end": 630
+  },
+  {
+   "fact": "JJ 的\"家乡女友\"被叫过 Becca/Becky/Jessie 三个名字，据说在国外读书。",
+   "anchor": "The girlfriend – whom he had variously referred to as Becca, Becky and Jessie – apparently now studied abroad.",
+   "start": 2698,
+   "end": 2808
+  },
+  {
+   "fact": "Matty 说 Alice 乐于让大家欠她。",
+   "anchor": "‘She loves that we all owe her,’ Matty had whispered",
+   "start": 3452,
+   "end": 3504
+  },
+  {
+   "fact": "Matty 有时坐在最大的前卧室床尾帮她做作业。",
+   "anchor": "Sometimes Matty would sit at the end of her bed in the front bedroom, the biggest",
+   "start": 4226,
+   "end": 4307
+  },
+  {
+   "fact": "前卧室是 Alice 说让给 Emily 的。",
+   "anchor": "When Alice said Emily could have the front bedroom it surprised her.",
+   "start": 4539,
+   "end": 4607
+  },
+  {
+   "fact": "Emily 对 Matty 只字未提与 Berkeley 的私情。",
+   "anchor": "she had told him nothing of her liaisons with Dr Berkeley",
+   "start": 5016,
+   "end": 5073
+  },
+  {
+   "fact": "Matty 转述欠租争吵并补刀\"只有我在付钱\"。",
+   "anchor": "‘Er, he said you also owe Alice rent and why didn’t she pick on you? Turns out, I’m the only one who’s been paying her anything. Ha.’",
+   "start": 6646,
+   "end": 6779
+  },
+  {
+   "fact": "JJ 的指控：Alice 放过 Emily 是因为\"瘆人的女生暗恋\"。",
+   "anchor": "Alice deflects, somehow, then JJ says the reason she lets you get away with it is because she has this creepy girl crush on you.’",
+   "start": 7087,
+   "end": 7216
+  },
+  {
+   "fact": "章末 Emily 心思飘回 Bradford 与车里。",
+   "anchor": "Her mind drifted back to Bradford, to Aiden and their corner in the pub, to what they did later in the car.",
+   "start": 7357,
+   "end": 7464
+  }
+ ]
+}

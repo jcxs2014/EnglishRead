@@ -1,0 +1,182 @@
+{
+  "chapter": 30,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch30 three hours to oblivion.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch30_chapter_29.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "JJ gnawed at his fingernails. He had promised Arthur he would bring Emily tonight but she seemed unhinged, even more so ",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Could he risk her being around his new friends now? She was like a bomb, ready to explode at any moment. He stood to get",
+          "ok": true,
+          "pos": 329
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Served eighteen months inside. His own mum was too ashamed to attend his trial. She said he had ruined her life as well ",
+          "ok": true,
+          "pos": 2750
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Emily sipped her wine more slowly now. JJ watched from the corner of his eye, wondering should he slip something into he",
+          "ok": true,
+          "pos": 5543
+        }
+      ],
+      "words": 45
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 17,
+        "为什么这样写": 154,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.17,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 22,
+        "为什么这样写": 145,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.22,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 32,
+        "为什么这样写": 128,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.24,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 19,
+        "为什么这样写": 163,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.15,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "30. Chapter 29",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 4,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 4,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1155,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

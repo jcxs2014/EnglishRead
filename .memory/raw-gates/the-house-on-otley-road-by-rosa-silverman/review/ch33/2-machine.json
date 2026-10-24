@@ -1,0 +1,209 @@
+{
+  "chapter": 33,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch33 gloria waits at home.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch33_chapter_32.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Gloria Jessop laid out on her bed the party clothes she would not be wearing later. She did not yet know that she wouldn",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘Are you having an affair with one of your students?’ She had rehearsed the question in her head for weeks but was surpr",
+          "ok": true,
+          "pos": 3424
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘I think you already have. And it’s interesting, isn’t it, that your first line of defence is that you wouldn’t jeopardi",
+          "ok": true,
+          "pos": 4019
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘You know, I feel much better now. I’ve decided I’ll go after all, but I’ll take the car and not drink. Wine would bring",
+          "ok": true,
+          "pos": 6964
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Then she rose, crossed the floor to the mantelpiece, seized the Crawleys’ party invitation and tore it into small pieces",
+          "ok": true,
+          "pos": 8050
+        }
+      ],
+      "words": 29
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 16,
+        "为什么这样写": 107,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.17,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 11,
+        "为什么这样写": 99,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.13,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 20,
+        "为什么这样写": 98,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.19,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 14,
+        "为什么这样写": 106,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.15,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 14,
+        "为什么这样写": 106,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.16,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.77
+      }
+    }
+  ],
+  "form": {
+    "h1": "33. Chapter 32",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 5,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1505,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

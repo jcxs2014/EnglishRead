@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch02",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch02_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "四人一致认为这处房子完美。",
+   "anchor": "The place was perfect, that was what they all said when they found it.",
+   "start": 27,
+   "end": 97
+  },
+  {
+   "fact": "Olivia 的家在 Hertfordshire，学生住处离家乡近二百英里。",
+   "anchor": "her new student digs, almost two hundred miles away",
+   "start": 796,
+   "end": 847
+  },
+  {
+   "fact": "九月的一个午后搬入。",
+   "anchor": "They moved in on a breezy September afternoon",
+   "start": 2529,
+   "end": 2574
+  },
+  {
+   "fact": "抽外卖单分房，Olivia 抽到组合最离谱的一张。",
+   "anchor": "A menu for an outlet selling pizzas, burgers, kebabs, curries and, get this, mushy peas.",
+   "start": 3145,
+   "end": 3233
+  },
+  {
+   "fact": "她挑入口旁大房间，想稳住自己在团体里的位置。",
+   "anchor": "She hoped that taking the room near the entrance would secure her place in the group.",
+   "start": 4331,
+   "end": 4416
+  },
+  {
+   "fact": "她与 Millie、Bella、Abi 三人结成圈子。",
+   "anchor": "she’d joined up with Millie (intimidatingly blonde and pretty), Bella (posh but with a tattoo of a lizard on her foot), and Abi (practically an influencer)",
+   "start": 6294,
+   "end": 6449
+  },
+  {
+   "fact": "别人有时夸她\"笑起来很好看\"，她认为这是\"无威胁\"的暗语。",
+   "anchor": "‘You have a lovely smile,’ she was sometimes told.",
+   "start": 7595,
+   "end": 7645
+  },
+  {
+   "fact": "平淡暑假里她下定决心第二年要大胆。",
+   "anchor": "Second year would be her year, she decided during an uneventful summer back home.",
+   "start": 10585,
+   "end": 10666
+  }
+ ]
+}

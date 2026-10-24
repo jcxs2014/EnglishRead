@@ -1,0 +1,398 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch08 the search for dr berkeley.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch08_chapter_7.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Alone in her room, Olivia flipped open her laptop. She was meant to be out having fun at her age, enjoying some party or",
+          "ok": true,
+          "pos": 17
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It wouldn’t be so hard, she imagined, if she possessed Millie’s looks, or Bella’s money, or whatever magnetism it was th",
+          "ok": true,
+          "pos": 451
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She was hurt by how quickly they gave up trying to persuade her, even if she hadn’t the least intention of changing her ",
+          "ok": true,
+          "pos": 1140
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She clicked on a newspaper article about the murder anyway. Scanning the words, skimming what she already knew, a phrase",
+          "ok": true,
+          "pos": 2440
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The story she had clicked on was about the girl’s post-mortem examination. Alcohol and amphetamines were found in her bl",
+          "ok": true,
+          "pos": 3773
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "What if she was the one who was meant to find it? What if that was why she had ended up with this room when they drew lo",
+          "ok": true,
+          "pos": 4619
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "No relevant results. She tried various spellings until, finally, she came upon a Dr Aiden Berkeley who taught History at",
+          "ok": true,
+          "pos": 7685
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "His picture showed a man in late middle-age, a thin grey-white beard covering a strong jawline. Olivia was tempted to th",
+          "ok": true,
+          "pos": 7921
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Rereading the words on the screen, the insanity of them awoke her like a blast of cold air from an open door. She was ab",
+          "ok": true,
+          "pos": 11286
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "A tapping on her window, so sharp and full of intent she knew it could not be a tree branch, and anyway there wasn’t a t",
+          "ok": true,
+          "pos": 11528
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "‘The scene? That’s my bedroom you’re talking about.’ Olivia was momentarily pleased to have hit upon this reply. The cha",
+          "ok": true,
+          "pos": 16823
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She handed him the glass and he took a sip, grimaced, then seated himself on her bed, uninvited. This is fine, she told ",
+          "ok": true,
+          "pos": 18552
+        }
+      ],
+      "words": 30
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 15,
+        "为什么这样写": 135,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.16,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 24,
+        "为什么这样写": 119,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.25,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 29,
+        "为什么这样写": 120,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.22,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 23,
+        "为什么这样写": 127,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.28,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 17,
+        "为什么这样写": 112,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.16,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 24,
+        "为什么这样写": 114,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.23,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 15,
+        "为什么这样写": 124,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.15,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 23,
+        "为什么这样写": 127,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.24,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 24,
+        "为什么这样写": 88,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.21,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 19,
+        "为什么这样写": 107,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.22,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 18,
+        "为什么这样写": 117,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.21,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 23,
+        "为什么这样写": 104,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.23,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. Chapter 7",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3427,
+    "block_target": [
+      6,
+      11
+    ],
+    "block_hint": "块数 12 偏离本章篇幅建议 6–11（本章 3427 词）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

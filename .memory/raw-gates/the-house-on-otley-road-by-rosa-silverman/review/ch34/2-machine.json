@@ -1,0 +1,236 @@
+{
+  "chapter": 34,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/ch34 the letter and the alibi.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch34_chapter_33.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Aiden put his foot down harder than usual. A careful driver by nature, he was nonetheless anxious to escape before Glori",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Here she had attempted to draw a pair of Champagne flutes, but the smudged Biro sketch more closely resembled two cricke",
+          "ok": true,
+          "pos": 1121
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "He reread it multiple times, looking in vain for more meaning. Tried to inhale her scent from the A4 paper. Then careful",
+          "ok": true,
+          "pos": 1713
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He had spent so long in his mind with Emily, it felt absurd to be questioned about her by his wife. Despite Gloria’s nea",
+          "ok": true,
+          "pos": 2809
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He’d show up for just long enough to be witnessed by several friends. Long enough for the Crawleys to be able to confirm",
+          "ok": true,
+          "pos": 4302
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He didn’t want tasteful things anymore, didn’t want to stand sipping good wine or nibbling smoked salmon blinis, or ciab",
+          "ok": true,
+          "pos": 9261
+        }
+      ],
+      "words": 43
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 19,
+        "为什么这样写": 132,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.22,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 16,
+        "为什么这样写": 103,
+        "读者视角提示": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.18,
+        "为什么这样写": 0.35,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 15,
+        "为什么这样写": 135,
+        "读者视角提示": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.19,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 17,
+        "为什么这样写": 130,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.18,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 17,
+        "为什么这样写": 124,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.2,
+        "为什么这样写": 0.37,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 21,
+        "为什么这样写": 135,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.2,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.59
+      }
+    }
+  ],
+  "form": {
+    "h1": "34. Chapter 33",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1787,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": ""
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch42",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch42_chapter_41.txt",
+ "facts": [
+  {
+   "fact": "开篇：这房子本有许多理想之处。",
+   "anchor": "It was, in many ways, an ideal house.",
+   "start": 22,
+   "end": 59
+  },
+  {
+   "fact": "答案近在咫尺。",
+   "anchor": "It felt so solvable to Kate, the answers tantalisingly close.",
+   "start": 880,
+   "end": 941
+  },
+  {
+   "fact": "轻松找到 Alice 的 Facebook。",
+   "anchor": "She found Alice Wheatley on Facebook easily enough.",
+   "start": 3894,
+   "end": 3945
+  },
+  {
+   "fact": "从 Benson Stansfield 网站拿邮箱发信。",
+   "anchor": "Found her email address on the website of her law firm, Benson Stansfield, and sent her a message.",
+   "start": 3946,
+   "end": 4044
+  },
+  {
+   "fact": "Gloria 以 Crawley 家聚会为 Aiden 作保。",
+   "anchor": "‘He was at our friends’ party",
+   "start": 10733,
+   "end": 10762
+  },
+  {
+   "fact": "Gloria 断言：入室盗窃失手。",
+   "anchor": "‘It was a burglary gone wrong.’",
+   "start": 12079,
+   "end": 12110
+  },
+  {
+   "fact": "这是她的故事，不是他的。",
+   "anchor": "It was that this was still her story, not his.",
+   "start": 19142,
+   "end": 19188
+  },
+  {
+   "fact": "他刚说了爱她。",
+   "anchor": "Even if he had just told her he loved her.",
+   "start": 19037,
+   "end": 19079
+  }
+ ]
+}

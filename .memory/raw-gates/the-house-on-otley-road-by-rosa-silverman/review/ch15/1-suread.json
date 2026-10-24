@@ -1,0 +1,55 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch15",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch15_chapter_14.txt",
+ "facts": [
+  {
+   "fact": "在 Smith 的床上被电话叫醒。",
+   "anchor": "Kate Marsden’s phone buzzed on the bedside table. Smith’s bedside table, because she had ended up staying at his. Again. She had to stop doing that, it was unprofessional and … actually, she couldn’t remember the other reasons, apart from that it was unlikely to end well.",
+   "start": 22,
+   "end": 294
+  },
+  {
+   "fact": "Dan 自报家门、从不道歉。",
+   "anchor": "‘It’s Dan from the newsdesk,’ said the news editor unnecessarily. She knew his voice too well, her sleep had been ruined by it on countless occasions. He did not apologise for calling her at whatever hour this was.",
+   "start": 751,
+   "end": 965
+  },
+  {
+   "fact": "42 岁入行多年，\"这就是这行\"。",
+   "anchor": "At forty-two, she had been in the business long enough to know how it went: a tragedy or scandal broke, everyone descended on the scene, excavated what they could and then, when the well ran dry or the interest waned, moved on to the next big thing and began the process again. It was just how it was, it was the job.",
+   "start": 1412,
+   "end": 1729
+  },
+  {
+   "fact": "派她去利兹报道学生死亡案。",
+   "anchor": "‘We need you to get yourself to Leeds. Don’t know if you saw last night but a student’s been found dead and it’s looking like a murder.’",
+   "start": 1148,
+   "end": 1284
+  },
+  {
+   "fact": "广播确认死者 Olivia Kavanagh。",
+   "anchor": "‘Police in West Yorkshire are investigating the murder of a nineteen-year-old student whose body was found in her bedroom yesterday,’ announced the newsreader, with due solemnity. ‘The victim has been named as Olivia Kavanagh",
+   "start": 12127,
+   "end": 12352
+  },
+  {
+   "fact": "颈部被刺；无破门痕迹。",
+   "anchor": "Detectives say she was stabbed in the neck and are searching for her attacker. They say there is no evidence of a break-in at the property on Otley Road.",
+   "start": 12489,
+   "end": 12642
+  },
+  {
+   "fact": "二十年前 22 岁的见习记者 Kate 报道过 Emily 案。",
+   "anchor": "As a twenty-two-year-old trainee reporter, Kate had quickly understood how Emily’s value fell once the facts about her emerged.",
+   "start": 13432,
+   "end": 13559
+  },
+  {
+   "fact": "她发推：正在前往。",
+   "anchor": "BREAKING: body of 19-year-old student Olivia Kavanagh found in her bedroom in Leeds. Police have launched murder inquiry. On my way there now.",
+   "start": 14209,
+   "end": 14351
+  }
+ ]
+}

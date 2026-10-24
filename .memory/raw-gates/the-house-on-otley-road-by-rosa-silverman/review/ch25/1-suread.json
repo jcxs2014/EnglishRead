@@ -1,0 +1,73 @@
+{
+ "book": "the-house-on-otley-road-by-rosa-silverman",
+ "chapter": "ch25",
+ "text": "notes/books/mystery-thriller/the-house-on-otley-road-by-rosa-silverman/text/ch25_chapter_24.txt",
+ "facts": [
+  {
+   "fact": "傍晚 Kate 从 M4 下高速进入 Cardiff，汇入拥堵的晚高峰车流。",
+   "anchor": "Early evening, Kate pulled off the M4 outside Cardiff, joining the slow-moving rush hour traffic that clogged every lane.",
+   "start": 22,
+   "end": 143
+  },
+  {
+   "fact": "他们通过工作权限使用 Finder 数据库查地址与电话。",
+   "anchor": "They had business access to an online database called Finder, an indispensable source of addresses and phone numbers on which they relied for tracking people down, now that no one used phone books.",
+   "start": 741,
+   "end": 938
+  },
+  {
+   "fact": "她承认这是一趟为了一点可能性而跑的超长距离。",
+   "anchor": "It was, she acknowledged, an exceptionally long distance to travel on the off chance.",
+   "start": 2498,
+   "end": 2583
+  },
+  {
+   "fact": "她开了二百三十英里，可能白跑一趟。",
+   "anchor": "she had driven two hundred and thirty miles across the country for nothing.",
+   "start": 6770,
+   "end": 6845
+  },
+  {
+   "fact": "她在地址外熄火，听四周安静下来。",
+   "anchor": "Outside the address, she turned off the engine and listened as the silence fell.",
+   "start": 4908,
+   "end": 4988
+  },
+  {
+   "fact": "邻居说 Aiden 不太与人来往，“你懂我意思”。",
+   "anchor": "‘Not really. Keeps himself to himself, if you know what I mean.’",
+   "start": 8125,
+   "end": 8189
+  },
+  {
+   "fact": "她透过门玻璃看见屋后有一道影子移动。",
+   "anchor": "A flash of movement towards the back of the house.",
+   "start": 11034,
+   "end": 11084
+  },
+  {
+   "fact": "她对着信箱口喊 Aiden 来开门。",
+   "anchor": "‘Aiden? Can you come to the door? I need to talk to you. Please.’",
+   "start": 12793,
+   "end": 12858
+  },
+  {
+   "fact": "Smith 发短信说 Elliot 似乎被捕，让她尽快回去。",
+   "anchor": "You’d better come back ASAP. Looks like Elliot’s been arrested.",
+   "start": 14296,
+   "end": 14359
+  },
+  {
+   "fact": "她意识到自己被一个学生设局调开了。",
+   "anchor": "She had been set up.",
+   "start": 14441,
+   "end": 14461
+  },
+  {
+   "fact": "门突然打开，她看见门口站着一个人影。",
+   "anchor": "Pulling herself back up, she saw a figure in the doorway.",
+   "start": 15153,
+   "end": 15210
+  }
+ ]
+}
