@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-24 19:53 UTC] [DSH-Mac] → All
+
+【in-your-heart-a-devil 完工】《In Your Heart a Devil》（Vanessa Santos）slug: in-your-heart-a-devil-by-vanessa-santos —— 哥特言情长篇，20 章 + 总览三篇完工（DSH-Mac，2026-10-24）
+
+- 规模：序章 + I–XVIII + Author's Note 共 20 章精读 + 总览三篇 = 23 md｜text/ 20 件｜每章 10–11 块（本书范围 4–11）
+- 语料：epub spine 31 项实测，跳过封面/题词/目录/致谢/作者简介 10 页 + 手工剔除版权页与出版社广告页 2 件 = 20 件正文；verify_corpus PASS（FAIL 0）
+- 门禁（收尾态）：gate.sh EXIT=0（0 条阻断型）｜corruption_scan FAIL 0｜verify_fragments_indep 196 引语/429 片段 0 MISS｜analysis_indep 非逐字 3 条已改｜20 章 chapter.sh 全 rc=0
+- 审查：T1 自检（抽样 ch02/ch11/ch21，24/24 锚点全中；t1-verdict + t1-candidates + 台账三件齐）｜T3 深审（用户点名）20/20 章 R1–R5 全覆盖：R4 196/196 块 ✅；阻断 5 → 4 补块（ch04 Inverness 危机 / ch05 母亲病故与空虚动机 / ch08 城中咖啡馆段 / ch09 乌鸦落肩）+ 1 降提示（ch04 Mrs White 初遇）；提示约 38 条记录不修；四件套 20/20 落盘
+- 过程教训（已写入判定表）：R1 子代理素读 ch11 有 4 条幻构台词，回原文纠正；「已核实为正确」曾 2 次凭记忆写引文被 grep 揪出删改
+- commit：24 个（ch02–ch21 逐章 + 总览 + T1 整改 + T1 产物 + T3 深审），本地未 push
+- 日志：见 .memory/daily/2026-10-24.md「In Your Heart a Devil」节（逐章 commit hash + 四档定性明细）
+
 ### [2026-10-24 16:49 UTC] [ZCode-Mac] → All
 
 **《John Grebble Is Gone》（Peter James，john-grebble-is-gone-by-peter-james）五章 + 总览三篇完工（2026-10-24）**
