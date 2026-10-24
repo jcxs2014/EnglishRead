@@ -1,0 +1,55 @@
+{
+ "book": "monstera-by-delilah-s-dawson",
+ "chapter": "ch07",
+ "text": "notes/books/novels/monstera-by-delilah-s-dawson/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "本章开场：Saskia 在自己的浴室里刷牙，把牙缝里的糖霜刷掉——她刚吃过蛋糕。",
+   "anchor": "Saskia is in her bathroom, brushing the sugary frosting out of her teeth",
+   "start": 4,
+   "end": 76
+  },
+  {
+   "fact": "她很久没吃过蛋糕了；她自 Covid 之前就没参加过聚会。",
+   "anchor": "She hasn’t eaten cake in a long time",
+   "start": 78,
+   "end": 114
+  },
+  {
+   "fact": "她不像 Lucy 那样闭门不出，没人囚禁她，但她独来独往；同事散布全国，她一个也没当面见过。",
+   "anchor": "no one is holding her captive, but she keeps to herself",
+   "start": 259,
+   "end": 314
+  },
+  {
+   "fact": "她自问是不是真在 Lucy 的公寓里待了好几个小时（搬箱子、装书架，吃了爆米花、柠檬水和蛋糕）。",
+   "anchor": "Did she really spend hours in Lucy’s apartment?",
+   "start": 503,
+   "end": 550
+  },
+  {
+   "fact": "拼装书架时，Lucy 看起来像一只即将被压路机碾过的小鹿。",
+   "anchor": "she looked like a fawn about to be mowed down by a steamroller",
+   "start": 667,
+   "end": 729
+  },
+  {
+   "fact": "Saskia 抱了 Lucy，用双臂环住她小巧柔软的身体；Lucy 几乎像冻土融化一样化进她怀里。",
+   "anchor": "Saskia hugged her, wrapped her arms around that small, plush body",
+   "start": 966,
+   "end": 1031
+  },
+  {
+   "fact": "Saskia 检查手臂内侧、指甲缝和腋下褶皱；她知道自己会找到一粒，果然找到了。",
+   "anchor": "Saskia checks the insides of her arms, under her fingernails, in the folds of her armpits",
+   "start": 1310,
+   "end": 1399
+  },
+  {
+   "fact": "她用镊子轻轻拨开睫毛、夹住那根滑腻的绿藤；藤的末端又是一粒尖端沾血的黑色小种子，她把它丢进马桶，向自己保证再不主动碰 Lucy。",
+   "anchor": "she gently moves her eyelashes apart so that she can grasp the slippery green tendril",
+   "start": 1779,
+   "end": 1864
+  }
+ ]
+}
