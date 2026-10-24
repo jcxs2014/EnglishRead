@@ -1,0 +1,61 @@
+{
+ "book": "a-labyrinth-of-honeybees-by-fawcett-heather",
+ "chapter": "ch01",
+ "text": "notes/books/short-story-anthologies/a-labyrinth-of-honeybees-by-fawcett-heather/text/ch01_the_royal_inquisitor.txt",
+ "facts": [
+  {
+   "fact": "王家审问官的鬼魂先于他本人到达，他们并非无礼，只是不懂自己不受欢迎。",
+   "anchor": "The royal inquisitor’s ghosts arrived before he did. They weren’t rude, but they didn’t seem to understand that they weren’t welcome.",
+   "start": 0,
+   "end": 133
+  },
+  {
+   "fact": "叙述者自认毫无威势，驱赶鬼魂时像酒馆女侍在劝一个醉汉。",
+   "anchor": "I sounded like an inexperienced tavern maid trying to reason with a drunk.",
+   "start": 992,
+   "end": 1066
+  },
+  {
+   "fact": "飞马是新国王从自己国家带来的，用来屠杀旧王的军队与地上战马。",
+   "anchor": "The new king had brought them from his own country to slaughter the old king’s armies and our earthbound warhorses",
+   "start": 1638,
+   "end": 1752
+  },
+  {
+   "fact": "叙述者伸手去摸飞马的鼻子，它先蹭了蹭她的手，随即咬了她一口。",
+   "anchor": "She nuzzled my hand, and then she bit me.",
+   "start": 2143,
+   "end": 2184
+  },
+  {
+   "fact": "飞马名叫 Speck，骑手从上方出声斥止它。",
+   "anchor": "“Speck,” an admonishing voice said from above.",
+   "start": 2186,
+   "end": 2232
+  },
+  {
+   "fact": "与审问官对视时她看见幻象：十几张人脸在他脸上掠过，最后浮起一个眼神充满渴望的年轻男子。",
+   "anchor": "The faces of a dozen people flitted across the royal inquisitor’s",
+   "start": 2675,
+   "end": 2740
+  },
+  {
+   "fact": "国王派审问官来调查两名税吏之死，他要求先讯问此地的女祭司。",
+   "anchor": "The king has sent me to investigate the deaths of two of his tax collectors. I would like to begin by interviewing the priestess of this place.",
+   "start": 4277,
+   "end": 4420
+  },
+  {
+   "fact": "她的围巾绣着女神的蜜蜂标志，听见蹄声时她后悔没先把它摘掉。",
+   "anchor": "It’s embroidered with honeybees, the Goddess’s symbol, and I cursed myself for not thinking to remove it",
+   "start": 4749,
+   "end": 4853
+  },
+  {
+   "fact": "两名税吏的尸体是在蓝河（Blue River）里被发现的。",
+   "anchor": "Their bodies were found in the Blue River.",
+   "start": 7232,
+   "end": 7274
+  }
+ ]
+}
