@@ -47,7 +47,7 @@ modified: "2026-10-24"
 
 > **原句 4:** "I am a professional agent of death, not a gawking bystander like the idiots all around us. … Everything that made her her clings tightly to her soul, resisting my insistent tugs with everything she once was. … I see a sister she adores. A sketchbook she used to carry everywhere but abandoned years ago. Happy family vacations to a familiar mountain town. A nearly overwhelming lifelong sense of guilt. … This time, however—despite my best efforts—I can’t look away. … I close my eyes when I urge her, gently, to let go."
 
-**中文理解**：我是一名专业的死亡代理人，不是像周围这些白痴那样看热闹的旁观者。可构成她的那些东西全都紧紧攀住她的灵魂不放，用她从前的样子抵抗我一再的拉扯。我看见一个她深爱的姐姐。一本她曾经随身带着、多年前就丢下的速写本。一家人去那座熟悉的山城的快乐假期。一份几乎让人喘不过气的、终生的内疚。这一次，尽管我已经尽力，我还是没能移开视线。最后我闭上眼睛，温和地劝她放手。
+**中文理解**：我是一名专业的死亡代理人，不是像周围这些白痴那样看热闹的旁观者。可构成她的那些东西全都紧紧攀住她的灵魂不放，用她从前的样子抵抗我一再的拉扯。我看见一个她深爱的妹妹。一本她曾经随身带着、多年前就丢下的速写本。一家人去那座熟悉的山城的快乐假期。一份几乎让人喘不过气的、终生的内疚。这一次，尽管我已经尽力，我还是没能移开视线。最后我闭上眼睛，温和地劝她放手。
 
 **关键词**：professional agent of death / gawking bystander / clings tightly to her soul / resisting my insistent tugs / sketchbook she used to carry everywhere / nearly overwhelming lifelong sense of guilt / I can’t look away / urge her, gently, to let go（专业的死亡代理人、看热闹的旁观者、紧攀着灵魂、抵抗我的拉扯、随身带过又丢下的速写本、终生的内疚、没能移开视线、温和地劝她放手）
 

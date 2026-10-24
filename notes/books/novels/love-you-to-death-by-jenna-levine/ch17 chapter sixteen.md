@@ -31,7 +31,7 @@ modified: "2026-10-24"
 
 **为什么这样写**：“the hand she was dealt”把**出身**写成一手牌，于是“放弃梦想”不是性格软弱，而是牌面不佳——作者顺手把责任从两个姐妹身上挪开。可“that could pay the rent”三个字又把人拽了回来：她算的一直不是喜欢，而是房租。
 
-**读者视角提示**：注意“she, like me”——作者用一个“like me”把姐姐的命运和她自己的处境焊在一起，两个人从此是同一个句子里的人。
+**读者视角提示**：注意“she, like me”——作者用一个“like me”把妹妹的命运和她自己的处境焊在一起，两个人从此是同一个句子里的人。
 
 
 > **原句 3:** "The one I’m eyeing most seriously is a six-week intensive on French cooking techniques, but before I sign her up for it I need to strategize with Liam … If there’s one thing my sister is bad at, it’s taking time for herself. If I only get to be here for a little while longer, I want to do everything I can to help her try."

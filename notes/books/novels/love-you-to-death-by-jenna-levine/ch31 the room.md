@@ -47,11 +47,11 @@ modified: "2026-10-24"
 
 > **原句 4:** "If this moment together is to be one of our last, then I am determined to make it last. … When she wakes up, I’ll take her home so she can spend her final days with her sister. … For now, though, I close my eyes and pretend we can stay forever in these last few stolen moments."
 
-**中文理解**：如果这一刻是我们最后的时刻之一，那我决心让它延续下去。……等她醒来，我会送她回家，让她在最后几天里和姐姐待在一起。……不过现在，我闭上眼睛，假装我们可以永远留在这几个偷来的片刻里。
+**中文理解**：如果这一刻是我们最后的时刻之一，那我决心让它延续下去。……等她醒来，我会送她回家，让她在最后几天里和妹妹待在一起。……不过现在，我闭上眼睛，假装我们可以永远留在这几个偷来的片刻里。
 
 **关键词**：determined to make it last / take her home / spend her final days / pretend we can stay forever（决心让它延续、送她回家、度过最后几天、假装可以永远停留）
 
-**为什么这样写**：结尾用三段递进把「时间有限」压成一次演出：先是一个宣告（决心让这个时刻延长），接着是一份具体安排（醒来就送她回去，让她和姐姐度过最后几天），最后才是那个「假装」。一句动人的话被安排句垫在下面，温柔因此始终压着期限——他能做的只有把时间尽量用满。
+**为什么这样写**：结尾用三段递进把「时间有限」压成一次演出：先是一个宣告（决心让这个时刻延长），接着是一份具体安排（醒来就送她回去，让她和妹妹度过最后几天），最后才是那个「假装」。一句动人的话被安排句垫在下面，温柔因此始终压着期限——他能做的只有把时间尽量用满。
 
 **读者视角提示**：最后那句先用一个「For now, though」把时间挪开：不是「他们会永远在一起」，而是「现在先这样」——他知道这份延长是有尽头的，只是这一刻先不算。
 

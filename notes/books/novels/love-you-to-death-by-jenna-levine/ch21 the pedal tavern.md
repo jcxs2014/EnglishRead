@@ -77,11 +77,11 @@ modified: "2026-10-24"
 
 > **原句 7:** "Daniel takes one look at Ash and her poorly assembled dildo tiara and then turns to face my sister, resolute. “Truth,” he says emphatically. … “Truth!” Jess says, grinning in triumph. She leans toward us with a gleam in her eye. “When did you first fall for my sister?” … “What if I refuse to answer?” … “I dare you to take a shot of vodka while wearing this,” Jess says."
 
-**中文理解**：Daniel 看了一眼 Ash 头上那顶歪歪扭扭的假阳具头冠，转过身正对着他姐姐，语气斩钉截铁地说了"真心话"。……"真心话！"Jess 咧嘴笑着，一脸得意，"你什么时候爱上我姐姐的？"……"要是我不回答呢？"……"我命令你戴着这个喝一杯伏特加，"Jess 说。
+**中文理解**：Daniel 看了一眼 Ash 头上那顶歪歪扭扭的假阳具头冠，转过身正对着她妹妹，语气斩钉截铁地说了"真心话"。……"真心话！"Jess 咧嘴笑着，一脸得意，"你什么时候爱上我姐姐的？"……"要是我不回答呢？"……"我命令你戴着这个喝一杯伏特加，"Jess 说。
 
 **关键词**：poorly assembled dildo tiara / he says emphatically / When did you first fall for my sister（歪歪扭扭的假阳具头冠、斩钉截铁地说、你什么时候爱上我姐姐的）
 
-**为什么这样写**：作者把这场游戏写成一次**公开审问**，而提问的人恰好是当事人未来的小姨子。他明明可以选最安全的"大冒险"，偏偏选了"真心话"；偏偏妹妹问的是那唯一不能答的问题。他的真心话最后没能出口，接下来的大冒险变成戴着那顶帽子灌下一杯伏特加——他用**最荒唐的方式躲开了那个问题**，而这场躲避本身，比任何一句回答都更像回答。
+**为什么这样写**：作者把这场游戏写成一次**公开审问**，而提问的人恰恰是这件事里最无法置身事外的那一个——他的亲妹妹。他明明可以选最安全的"大冒险"，偏偏选了"真心话"；偏偏妹妹问的是那唯一不能答的问题。他的真心话最后没能出口，接下来的大冒险变成戴着那顶帽子灌下一杯伏特加——他用**最荒唐的方式躲开了那个问题**，而这场躲避本身，比任何一句回答都更像回答。
 
 **读者视角提示**：注意他说"Truth"时是"emphatically"（斩钉截铁）——他不是随口一说，他是硬着头皮迎上去的。
 
