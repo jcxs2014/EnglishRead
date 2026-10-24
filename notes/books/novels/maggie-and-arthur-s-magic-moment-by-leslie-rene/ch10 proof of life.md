@@ -49,7 +49,7 @@ modified: "2026-10-24"
 
 **中文理解**：Rory 一定是从电话里听出来了——Arthur 还没问，他先答了那个关于 Lane 的没出口的问题：「爸和我妈那边还没消息。」
 
-**关键词**： unspoken question（没出口的问题）/ I haven’t heard from Pop or my mom yet（还没消息）
+**关键词**： unspoken question（没出口的问题）/ I haven’t heard from Pop（爸妈那边还没消息）
 
 **为什么这样写**：兄弟的默契写成「抢答」——最怕的问题不用问出口，因为对方也在等同一个答案；「Pop / my mom」的称呼顺手交代了这个重组家庭的亲缘地图。
 
