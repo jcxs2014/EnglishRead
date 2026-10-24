@@ -1,0 +1,55 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch01",
+ "text": "notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "1943 年墨西哥城，骗子 Ulises 身无分文，正要在两个通信对象之间做选择：Monclova 的寡妇或 Veracruz 小镇 Puerco Ahogado 的老处女。",
+   "anchor": "He was going to make a choice, either the widow from Mon-clova or the spinster from that town in Veracruz. Puerco Ahogado, that was the name of it.",
+   "start": 11,
+   "end": 158
+  },
+  {
+   "fact": "他父亲是老骗子，三年前病死；父亲的犯罪天赋他没继承到，积蓄也被父亲的病掏空，如今独自谋生漂泊无依。",
+   "anchor": "But after three years now without his father, he was rudderless, hardly able to remain afloat.",
+   "start": 1055,
+   "end": 1149
+  },
+  {
+   "fact": "上一个骗局：Jalisco 寡妇 Cornelia Aguirre，骗她投资不存在的 Acapulco 酒店开发被她三个儿子搅局，他只拎一只箱子逃走；寡妇送的相机他此刻卖给皮条客 Moisés，并拒绝其入伙邀请。",
+   "anchor": "When the widow Aguirre discovered that there was no hotel development in Acapulco, she’d promptly gone into hysterics.",
+   "start": 15912,
+   "end": 16030
+  },
+  {
+   "fact": "二战时局：墨西哥城有 Camacho 总统组织的灯火管制演习；此前上流社会亲德、Vasconcelos 在 Timón 称颂希特勒，如今风向转亲美。",
+   "anchor": "It was another of the drills President Camacho had organized. Apagones.",
+   "start": 14676,
+   "end": 14747
+  },
+  {
+   "fact": "抉择落点是钱：去 Puerco Ahogado 的火车票更便宜，他选了 Veracruz 的老处女 Perla Inclán。",
+   "anchor": "In the end, his decision came down to money: the ticket to Puerco Ahogado, Veracruz, was cheaper.",
+   "start": 18066,
+   "end": 18163
+  },
+  {
+   "fact": "他化名 Mr. Linares 坐火车赴约，在站台上被吃冰淇淋的男孩弄脏米色西装；来接站的是 Miss Inclán 派的 Fito，车因故障迟到。",
+   "anchor": "Hello, sir, Miss Inclán sent me to pick you up. Sorry I’m late, the car wouldn’t start this morning.",
+   "start": 19838,
+   "end": 19938
+  },
+  {
+   "fact": "宅中先遇侄女 Inés——目光大胆、出言不逊，他立刻断定这不是女佣；Perla 一身鸽灰、戴银十字架，被撩得脸红随即恢复冷淡；他被安排进蝴蝶室。",
+   "anchor": "Her lack of deference established her identity. This was no housemaid.",
+   "start": 23009,
+   "end": 23079
+  },
+  {
+   "fact": "房客只有三拨：Zorrilla 家两姐妹与 Nepomuceno 教授；Perla 之父 Osorio Inclán 是昔日 Inclán 咖啡公司老板，宅子已衰败挂牌招租，他掂量这座房子值不值得下手。",
+   "anchor": "Manuela and Eduviges Zorrilla. And Professor Nepomuceno.",
+   "start": 34671,
+   "end": 34727
+  }
+ ]
+}
