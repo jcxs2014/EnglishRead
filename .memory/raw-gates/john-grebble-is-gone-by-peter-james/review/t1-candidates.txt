@@ -1,0 +1,134 @@
+
+=== ①相对章号：14 行 ===
+00_概述.md:12 第一章把这起「行政死亡」铺成连环羞辱：银行客服 Riley 坚称死亡信息「已核实」并挂断电话；公交上 Apple Pay 与借记卡全部失效，他被司机赶下车；拖车工以「车主已故」拖走他的电动车；发给自己经理的邮件也被系统退回。第二章他把战场从
+00_概述.md:14 第三章是真相装配线。遗产估价师拿着钥匙上门给「死人的房子」估值，被 John 的鬼魂二难吓退；前警队财务调查员、同事 Jane Netherwood 下班后带着调查结果来访：弟弟 Geoff 曾因网上诈骗独居老太三万多镑坐牢（Lewes 与
+00_概述.md:16 同一天深夜，John 与三年未联系的 Geoff 谈成一笔交易：两万镑现金，换 Geoff 带护照去警局确认「我弟弟还活着」。第四章是反杀：Geoff 上门，烟喷到哥哥脸上，跟着「私房钱藏在地下保险柜」的诱饵下到那座前房主秘密修建的核地堡，
+00_概述.md:18 第五章是体面的换装仪式。一周后，John 与 Jane 以「Geoffrey Grebble 与 Ms Netherwood」的身份登上 Diamond Line 环球邮轮，前三程终点迪拜——正是 Geoff 赃款所在的引渡盲区；护照照片对
+00_金句精选.md:19 - **为什么重要**：地堡是第四章反杀与第五章结局的全部舞台，也是 John 「藏钱」性格的实体化。
+00_金句精选.md:48 - **上下文**：第一章收束镜头——上午三连败的最后一块拼图。
+00_金句精选.md:133 - **为什么重要**：把谚语的天平拆掉一边——户籍死亡被他反手当成战术资源；下一章的地堡在这句反问里已经挖好。
+ch01 the bank letter.md:14 - **结构钩子**：John 决定午饭时间亲自去银行讨说法，心里还动过「陪它玩下去」（play along with it）的念头；车被拖走后他只能回家换衣服打车——他离社会的每个入口都还差一步，下一章将把公司大门也关上。
+ch01 the bank letter.md:36 **为什么这样写**：人物出场连用两幅「缩小的图像」——衣服比人大、人比世界灰——把一个被生活挤到边缘的人直接画出来；灰色既是衣着也是性情，与第四章里那个用踢拳把 Geoff 放倒的地堡主人构成全篇最大的形象反差。
+ch02 do i look dead.md:14 - **结构钩子**：Patel 给出唯一解法——带弟弟和护照来自证；John 立刻盘算用钱撬动 Geoff（financial proposition），下一章这通电话与 Jane 的到访将把真相摊开。
+ch02 do i look dead.md:123 **表达方式**：more alone than he’d ever felt 是人物弧线的刻度线——此后全篇他都在学「不是一个人」；两句都没有具体对象，空位正好留给下一章进门的 Jane 和电话里的 Geoff。
+ch03 the informant.md:14 - **结构钩子**：两万镑现金交易约定次日成交，John 藏钱的地下核地堡将成为下一章的舞台；「两座坟」的反问预告他已经决定反杀。
+ch03 the informant.md:132 **为什么这样写**：谚语说复仇者与仇人同归于尽，他把这架天平拆了——我已经死了（户籍意义上），剩下的坟只需一座；这句话表面是玩笑，实际是行动宣言：下一章的地堡已经在这句反问里挖好了。
+ch04 you cant kill a dead man.md:14 - **结构钩子**：Geoff 被反锁在地堡深处、下面没有手机信号；一周后的南安普顿邮轮（下一章）将揭晓他的结局，以及 John 的新身份。
+
+=== ②绝对断言：15 行 ===
+00_情感节点.md:78 诱饵（私房钱）、亮凶（stiletto 匕首）、摊牌（「你杀不死一个死人」）、反转（扫堂腿与踢裆）、执行（锁门、输密码）——复仇以一套冷静的操作规程完成。暴力在这里第一次替所有制度失灵出头。
+00_概述.md:24 **主题二：偏爱造出的敌人。** 兄弟战争的根源在母亲的偏爱：她认定 Geoff 是 wastrel，也确实一直偏袒 John；Carolyn 的背叛又把两兄弟钉进同一段羞辱。Geoff 的一生都在用「扮演亲近」行骗——对老邻居、对亲哥哥；
+00_概述.md:30 **John Grebble：** 出场时是一只「灰色的老鼠」——衣服大一号、生活靠洗碗机攒满才开的仪式撑着，唯一的社交宇宙是二十七年不敢深交的同事。被死亡之后，他先是笨拙地用合规官逻辑申辩，随后学会用对方的规则作战：用钱撬动亲情，用信任话
+00_概述.md:34 **Jane Netherwood：** 公司里唯一对他好的人——端着柠檬蛋糕、约他跳舞、被他一次次礼貌推开的前警队财务调查员。危机让她从背景走进前台：查钱、解释多米诺、最后与主角同谋登船。她的蝴蝶眼镜始终没换，换掉的是两人之间的关系——从
+00_金句精选.md:61 - **为什么重要**：一句话里出现两个 John Grebble——说话的人与记录里的人——人与系统第一次同台对质。
+00_金句精选.md:73 - **为什么重要**：在所有社会规则失效后，虚构世界的规则成了他唯一的行动纲领，也是后续三章的剧情大纲。
+00_金句精选.md:85 - **为什么重要**：把独居哲学第一次写出账单——不是他选了孤独，是从没试过另一边；此后全篇他都在学「不是一个人」。
+ch01 the bank letter.md:64 **表达方式**：ever-increasing 与 never repaid 一正一负顶着写，账目方向相反；goodwill 排在清单末位，暗示最先漏光的其实是感情——而本章结尾他要打给 Geoff 的那通电话，靠的正是这点残存的 goo
+ch02 do i look dead.md:71 **为什么这样写**：同一句话里出现两个 John Grebble——一个在说话，一个在系统里——人与记录第一次被并置成两个平行角色；Which means 的悬停故意吊着，把「你可能是骗子」这半句咽了回去，礼貌的恶意比直说更伤人。
+ch02 do i look dead.md:95 **为什么这样写**：在所有社会规则失效后，他把虚构世界的规则请出来当行动纲领——一个终生只跟电视里的侦探打交道的人，此刻唯一的援兵来自电视剧；三个祈使短句像咒语，也像这个故事接下来真正的剧情大纲。
+ch03 the informant.md:20 **中文理解**：他对上门估遗产的 Beresford 说：没错，非常非常地——你瞧，我就是约翰·格雷布尔；如果你不信鬼魂，那你唯一的选项就是相信我还活着；麻烦你把钥匙从我前门拔出来，不然我报警抓你入室盗窃未遂。
+ch03 the informant.md:124 **表达方式**：domino effect 是全书唯一需要的暴力比喻——没有凶手面孔，只有依次倒下的骨牌；pings 这个即时通讯动词放进行政语境，让国家级机构听起来像群聊里的已读不回。
+ch04 you cant kill a dead man.md:112 **表达方式**：to the moon 的夸张是全章唯一的抒情时刻，让这记打在要害上的脚有了童话式的正义感——坏孩子挨的也是坏孩子的规则。
+ch04 you cant kill a dead man.md:136 **表达方式**：a cup of tea 与本章开头的宿醉、ch03 的 rebellion 遥遥呼应：这个故事里所有大事之后，他都要泡一杯茶——茶是 John Grebble 的和平仪式，也是他唯一会做的高贵动作。
+ch05 long live geoff grebble.md:50 **句子结构**：It was kind of ironic that… 的评论句式给出作者唯一一次表态，kind of 又立刻把这表态稀释；for exactly the same reason 用 exactly 顶满对称，第三句五个词
+
+=== ③年龄数字：62 行 ===
+00_情感节点.md:42 雨中一幕把人物半辈子的独居哲学写出代价：从没人注意到没人可求助，只隔了一场雨的距离。章末两个超短句让自怜翻页成盘算。
+00_情感节点.md:58 三年断联后的第一通电话，一半是刀（习语字面化的人身威胁），一半是买卖（两万镑买一句「我弟弟活着」）。亲情在这里彻底市场化，而双方都觉得这个价格合理。
+00_概述.md:10 《John Grebble Is Gone》（Peter James）是一篇黑色喜剧调性的犯罪短篇（连续单篇，本书按叙事结构分作五章精读）：Brighton 郊区 Hangleton 的合规官 John Grebble，54 岁，独居，靠极
+00_概述.md:32 **Geoff Grebble：** 五十二岁、靠救济金生活、把「Living isn't good for our heath」挂在嘴边的勒索者。他的犯罪史（网上诈骗独居老太）与作案手法一脉相承：靠「交朋友」取得信任，再从系统后门拿走一切
+00_金句精选.md:17 - **中文理解**：他的房子其实很不一样：地下室内藏着一个秘密核地堡，是前房主花几年苦工偷偷挖建的。
+00_金句精选.md:35 - **中文理解**：约翰申辩：我就是约翰·格雷布尔；从十六岁起就是你们的客户；我活得好好的，还有大笔存款存在你们这里。
+00_金句精选.md:54 - **上下文**：迟到 17 分钟赶到公司，27 年工龄的通行卡失效。
+00_金句精选.md:90 - **上下文**：章末两个超短句：上一刻还在自怜无人可诉，下一刻他已想好拿二十万英镑雇弟弟自证。
+00_金句精选.md:108 - **上下文**：三年断联后的第一通兄弟电话，John 以「financial proposition」开场。
+00_金句精选.md:132 - **上下文**：揭底之夜的收束，第二杯酒下肚，复仇从念头变成算术。
+00_金句精选.md:139 - **为什么重要**：全篇题眼与章名出处；死亡作为法律豁免的逻辑一秒后被扫堂腿驳倒——地堡里是两个活人的搏斗。
+00_金句精选.md:143 - **中文理解**：John 几乎没听哀嚎，走出掩体合上钢门、拧把手落锁、用发抖的手指按进八位密码。
+ch01 the bank letter.md:12 - **人物**：John Grebble（54 岁，Wilmot & Wilmot 合规部门职员，瘦小、灰暗、极端节俭）；弟弟 Geoff（屡借不还，三年没说话）；Carolyn（二十多岁时甩他、转投 Geoff 的旧伤）；Winston
+ch01 the bank letter.md:26 **句子结构**：主句极短（John Grebble first learned he was dead），when 从句交代消息来源；第二句用 along with 把账单与广告并列进同一个清单节奏，「死亡」被压成三件邮件之一。
+ch01 the bank letter.md:28 **表达方式**：learned 而不是 was told，带一点「获知噩耗」的正式腔，跟内容的荒诞拧着来；singles holidays 这个词组本身就在交代人物状态——广告是寄给单身者的，而他收了十五年。
+ch01 the bank letter.md:44 **中文理解**：但他的房子其实很不一样：地下室内藏着一个秘密核地堡。前房主是个建筑工人，花了好几年苦工，偷偷把它挖出来又建起来。
+ch01 the bank letter.md:48 **为什么这样写**：街面上千篇一律的 1950s 房子底下藏着一座末日掩体，这是全篇最重要的物理装置——后来 Geoff 就被反锁在里面；句子先立「看起来一样」再翻出「其实不同」，翻底牌的顺序和地堡的隐藏方式一模一样，读者跟当年的 Joh
+ch01 the bank letter.md:50 **句子结构**：冒号引出倒装句 hidden below the basement was a secret nuclear bunker，地点状语提前，「藏」的方位与语序互相配合；第二句三个副词 carefully, laborious
+ch01 the bank letter.md:56 **中文理解**：他借给 Geoff 的钱一笔比一笔大，从来没还过，直到他的耐心、愧疚和好意一并耗尽。那是三年前的事。此后兄弟俩再没说过话。
+ch01 the bank letter.md:60 **为什么这样写**：三个抽象名词被破折号串成递减序列 patience – guilt – goodwill，把「不再借钱」写成一桶一直在漏的水；never repaid 插在数目递增之后，账面只出不进，正好解释 John 对钱的执念从哪
+ch01 the bank letter.md:62 **句子结构**：主句用 until 引出崩溃点，ran out of 一个动词管三个并列宾语；随后 That had been three years ago. They’d not spoken since. 两个短句收尾，时间锚定一次
+ch01 the bank letter.md:72 **为什么这样写**：整封信是标准客服模板，把「你的死」包装成一次客户关怀；valued client 与 deepest sympathies 本是写给死者家属的措辞，如今寄到死者本人手里，制度的荒诞不用一个脏字就立住了。两句话里 on 
+ch01 the bank letter.md:92 **中文理解**：约翰开始据理力争：问题在于，我就是约翰·格雷布尔；我从十六岁起就是你们银行的客户；我活得好好的，而且我有大笔存款存在你们这里——另外还有一个往来账户。
+ch01 the bank letter.md:98 **句子结构**：三个短句按「人—年限—资产」排序，每句补一个自我证明的坐标；两个 very（very much alive / very substantial funds）把情绪推进形容词里，断言越用力，处境越可笑。
+ch01 the bank letter.md:120 **为什么这样写**：本章收尾不用抱怨也不用独白，只给一个目送镜头——驶近、灯闪、消失，三个动作把「一天之内被世界退货」演成一场小型告别式；now-biblical 顺手接住本章反复出现的宗教式反讽，连雨都在为这场「死亡」行礼。
+ch01 the bank letter.md:122 **句子结构**：第一句用 Oblivious to… 分词状语开头，人物的心理失守与天气的失控同步进行；Then… / And moments later… 两个短句把节奏一拍一拍放慢，句子越碎，车走得越干脆。
+ch01 the bank letter.md:160 本章以一封吊唁信开局，让 John 在银行电话、公交刷卡、租车拖车三个地方接连撞上「你已死亡」的制度回答；他越是用合规的方式申辩，系统越是无动于衷，「活人被数据注销」的荒诞就此立住，而他也不得不重新打量那个三年没说话的弟弟。
+ch02 do i look dead.md:10 - **一句话概括**：「被死亡」从纸面推进到街面：公司门禁亮红灯、HR 以安全为由挂断电话、银行宣布账户已关闭，警局反而怀疑他冒用死者身份——John 想起罪案剧侦探的口头禅（Assume nothing; believe no one;
+ch02 do i look dead.md:27 **表达方式**：bounced straight back 的 straight 带一股干脆的物理感，退信像皮球砸回脸上；Mail Delivery Subsystem 三个词全是名词，一个动作都没有——正因如此才像判决书。
+ch02 do i look dead.md:39 **表达方式**：momentary / in seconds / flashing 一连三个时间词压缩节奏，好心情的寿命被写得比红绿灯还短；the click of the opening door latch 是全段最具体的声音，失聪式
+ch02 do i look dead.md:55 **中文理解**：他僵在原地，隔着磨砂玻璃望着里面晃动的人影；他本就很少跟他们打交道，可这些人构成了他过去二十七年几乎全部的社交宇宙。突然之间，他们成了比陌生人更陌生的人。
+ch02 do i look dead.md:61 **句子结构**：第一句三个逗号把 stare / frozen / through the opaque glass 串成一帧定格；第二句用 Not that… but… 的让步结构先自我辩护再自打耳光；第三句 Suddenly 单词成军
+ch02 do i look dead.md:75 **表达方式**：整句没有形容词，冲突全靠两个 telling me 的对仗；deceased 二度出现，银行用词与警局一致——读者此刻应该已经注意到，所有机构共用同一套「死亡」词汇表。
+ch02 do i look dead.md:85 **句子结构**：叙述句把眉毛、胡子、耸肩三件小事用 in sync 拴在一起，然后用一句格言式的口语收尾；It’s a free world 的让步语气后面，紧跟的却是杀伤力最大的一句。
+ch02 do i look dead.md:97 **句子结构**：三个祈使句排成三连，分号制造诵经般的节奏，mantra 一词自己点破；冒号前只有一个持有人（One of them），权威是借来的。
+ch02 do i look dead.md:131 **为什么这样写**：章末两个超短句完成反转的预支——上一句还在自怜「没有人可倾诉」，这一句他已想好拿二十万英镑雇弟弟自证；叙述者替他把狠劲说出来，人物自己还蒙在鼓里，戏剧反讽全在这口气上。
+ch02 do i look dead.md:133 **句子结构**：And he would 承接前段 If he would agree 的假设，省略动词只剩骨架；Oh yes. 单独成句，像敲章一样落定，四个词收束全章。
+ch02 do i look dead.md:171 本章把「被死亡」从信封推进到街面：门禁、HR、银行、警局四道门接连关死，Finley 的「你不是你，或记录错了」与 Patel 的「你不是他，或出了大事」互为镜像；John 从受害者滑向嫌疑人，在雨里数出自己仅剩的筹码——一个三年没说话、却
+ch03 the informant.md:26 **句子结构**：if you don’t… then your only alternative is… 用条件句的排中律做骨架，幽默长在逻辑结构上；第二个 And I would be very obliged if you'd kin
+ch03 the informant.md:38 **句子结构**：第二句用 The act of making tea… like an act of rebellion 的同构对仗（act… act），把日常动作与政治词汇焊在一起；第三句三个不定式 to boil / to choos
+ch03 the informant.md:48 **为什么这样写**：一天三连败被压进三条短信句——主语逐句消失（I seem… / my bank… / Went to…），最后一句连 I 都省了，语言的骨架正在跟他一起被注销；这是他全篇头一回向人求救，措辞却仍是汇报体。
+ch03 the informant.md:50 **句子结构**：三个短句对应三场灾难，句号代替连接词，像坏消息逐条推送；非完整句 Went to the police 是短信文体的省略，语法上的「残缺」呼应社会身份的残缺。
+ch03 the informant.md:74 **句子结构**：主句用 that I pay… in return for which you… 的对价句式，两个破折号分别插入付款方式与确认内容，把交易拆成可以逐项验收的条款；confirm that I am your brother
+ch03 the informant.md:76 **表达方式**：in cash 出现两次，现金既是诱惑也是防伪——他已经被电子系统骗过一轮，只信纸币；whole sentence 没有一个情绪词，越冷静越心酸。
+ch03 the informant.md:122 **句子结构**：第一句给定义，第二句给链条起点（hits the GRO），第三句把受害者名单用五个并列宾语一口气报完——句子越长越像流水线；两处破折号（– digital – / – the General Register Offic
+ch04 you cant kill a dead man.md:10 - **一句话概括**：Geoff 上门讨两万镑，John 用「私房钱藏在地下保险柜」当饵把哥哥引进核地堡；Geoff 掏出匕首摊牌——记录上你已死亡、证书齐全、「你杀不死一个死人」——反被踢拳扫堂腿放倒。John 走出地堡，锁死八位密码的
+ch04 you cant kill a dead man.md:26 **句子结构**：第一句 Dressed in… 的过去分词短语一路挂到主语 he，装扮清单先于人出场；第二句三个并列分句（体重/胡茬/头发）层层加码，像海关查验记录。
+ch04 you cant kill a dead man.md:50 **句子结构**：三个短句步步收窄：用途—动机—共识；反问 can you? 主动把结论递到 Geoff 嘴边，让他自己说服自己。
+ch04 you cant kill a dead man.md:60 **为什么这样写**：所谓「信任展示」就是转身开金库——把最危险的动作命名为信任，句式 calm 得近乎仪式；And did not like what he saw 单独成句，七个词完成一次风险评估：他看见了弟弟眼睛里的杀人意图。
+ch04 you cant kill a dead man.md:74 **句子结构**：三个短句像三次盖印：记录、口语、文书各来一遍；Dead – brown bread 的破折号是给自己段子留的捧哏位。
+ch04 you cant kill a dead man.md:84 **为什么这样写**：全篇题眼——死亡在他嘴里是完美的法律护身符，却忘了护身符不长眼睛；这句话的逻辑一秒后被扫堂腿驳倒：地堡里的搏斗不是杀人，是两个活人之间的家务事。章名即从此出。
+ch04 you cant kill a dead man.md:96 **为什么这样写**：ch01 交代过——他练踢拳是为了不再怕校霸和弟弟，这记扫堂腿是三十年窝囊的一次性结清；武器脱手（skittering away）先于胜负分晓，暴力从此变成单方面的家务。
+ch04 you cant kill a dead man.md:98 **句子结构**：as he did so 让两个动作几乎重叠，主句里 learned from his kickboxing training 这个插入定语把「伏笔」念出声；第二个 and 串起倒地与匕首滑走，一气呵成不给喘息。
+ch04 you cant kill a dead man.md:110 **句子结构**：as if he were kicking… 的虚拟语气拉出慢镜头，暴力被悬置成一帧卡通；launched 与 lashed 两个头韵动词对撞，先出腿后挨打的顺序替读者提前叫好。
+ch04 you cant kill a dead man.md:116 **中文理解**：John 几乎没听弟弟的哀嚎。他已走出掩体，带着阴沉的满足感合上那扇又大又重的钢门，把把手拧一挡落锁，再用发抖的手指按进八位密码。
+ch04 you cant kill a dead man.md:122 **句子结构**：三句按「忽略—关门—锁死」推进，then 之后两个状语（with shaking hands / the eight-digit combination）把情绪与精度并排放；barely heard it 的 it 指代上
+ch04 you cant kill a dead man.md:128 **中文理解**：他坐了好几分钟，手在抖，肾上腺素还在涌。然后平静下来，给自己泡了杯茶。
+ch04 you cant kill a dead man.md:134 **句子结构**：第一句三个逗号隔出的状态（shaking / adrenaline surging）像心电图；Before calming down… 用介词短语把「平静」写成尚未完成的时态——他还没真的平静。
+ch05 long live geoff grebble.md:26 **句子结构**：despite 让步短语打头，主语 the couple 被两个修饰成分（standing in line… / holding their documents…）拉长，队伍里的等候感全靠句子的长度模拟；looked li
+ch05 long live geoff grebble.md:28 **表达方式**：vast 与 dressed for the sunshine 一大一亮，码头越大，两个人越像准备私奔的行李；dressed for the sunshine 照应全篇——他从头到尾都在为「另一种人生」换装。
+ch05 long live geoff grebble.md:40 **表达方式**：Panama hat 与 white linen 是「另一个人」的道具——那个打领带、坐 5B 公交的灰男人没有一件东西是白的；fitted him well 四个词朴素到近乎温柔，复仇结束后的平静全在这里。
+ch05 long live geoff grebble.md:62 **句子结构**：两个短句共用「王位更替」的模板，is gone 与 Long live 一灭一生紧挨着，中间没有任何过渡——死亡与登基在语法上是同一瞬间。
+
+=== ⑥场景方位：5 行 ===
+00_金句精选.md:42 - **上下文**：John 冲回家门口撞见自己的车被拖走，塞了 50 镑也没能拖住。
+00_金句精选.md:126 - **上下文**：Jane 用前警队调查员的语言把当天所有「巧合」串成流程。
+ch02 do i look dead.md:11 - **时间与地点**：同一天上午九点前后到中午；Wilmot & Wilmot 门口的雨棚下、North Street 银行分行、Brighton 警局的无窗问询室。
+ch03 the informant.md:11 - **时间与地点**：当天中午到深夜；Hangleton 家门口的门廊与厨房、通往 Crawley 的电话线、晚上客厅里那瓶 tombola 赢来的红酒。
+ch04 you cant kill a dead man.md:11 - **时间与地点**：次日中午刚过到下午；Hangleton 家的厨房与地下两层——陷门、更陡的石阶、带圆形转轮的银行金库门。
+
+=== ⑤方向施受：7 行 ===
+ch01 the bank letter.md:76 **表达方式**：the recent passing of our valued client 三连缀称，把死亡说成 passing（离世）、把人说成 client（客户），每个词都在稀释人；礼貌、精确、零信息，正是全篇要对付的那个系统人
+ch01 the bank letter.md:124 **表达方式**：now-biblical 是本段最重的造词，把暴雨写成末世修辞；it was gone 用 it 指车，也给全章的「被消失」主题打上句号——下一个要消失的，是他的整个社会身份。
+ch02 do i look dead.md:63 **表达方式**：opaque（不透明）与 blurry（模糊）双重隔断；social universe 是把小日子说成大宇宙的反讽修辞——宇宙尚且如此，星球只剩他自己。
+ch03 the informant.md:96 **为什么这样写**：作者把这条消息写成自问自答——问句复述 John 的全部身家，答句只挪动一个地名，数字分文未改、主人已经换了；on deposit 的重复让转账看起来像一次普通的存款迁移，制度的顺畅正是恐怖所在。
+ch03 the informant.md:134 **句子结构**：一般疑问句形式包裹的是反问：条件从句 if one of you is already dead 把「我已死亡」当作既成事实使用——被系统判死的人，反过来把死亡当成战术资源。
+ch03 the informant.md:173 本章把「谁杀了我」的答案摆上桌：弟弟签发的死亡证明、迪拜的账户、坐过的牢——随后 John 用两万镑把这场家庭背叛改写成一场交易，并用「死人不用挖两座坟」的反问宣告：他打算用对方给他的死亡，回敬对方。
+ch04 you cant kill a dead man.md:108 **为什么这样写**：比喻把狠招写成了游戏——足球、月球，都是男孩子的童年词汇；用童年意象打童年的霸凌者，这记踢击同时落在身体和记忆上。
+
+=== ④亲属身份：17 行 ===
+00_情感节点.md:68 Jane 的调查把「倒霉的一天」升级为「亲弟弟的谋杀」：前科、赃款去向、死亡证明申报人，证据链在餐桌上闭合。全篇情绪最低点与转折点重合——听完全部真相的那一刻，受害者决定了要变成猎手。
+00_情感节点.md:94 合身的白麻西装替下大一号的灰西装，弟弟的护照替下被注销的人生；逃亡路线与赃款去向在迪拜重合，只有「细节不同」。末句以加冕辞收束：死去的是约翰，登基的是杰夫。
+00_金句精选.md:80 - **呼应关系**：补完 ⑨ 的「Which means」；其解法（带弟弟自证）直接触发 ⑰ 与 ⑭。
+00_金句精选.md:89 - **中文理解**：而他会的。哦，一定会的——指弟弟 Geoff 会答应「帮忙」。
+00_金句精选.md:119 - **中文理解**：死亡证明「申报人」一栏写着杰弗里·安东尼·格雷布尔——亲弟弟给活人签发了死亡。
+00_金句精选.md:157 - **为什么重要**：标题在此自我引用收束；「国王死了，国王万岁」的加冕辞把死亡与登基压进同一瞬间——喊出它的人刚刚反杀了亲弟弟。
+ch03 the informant.md:12 - **人物**：John Grebble（从四处受气转向布置反击）；Robert Beresford（遗产估价师，礼貌、被动、被鬼魂笑话吓住）；Geoff（电话里先威胁后开价）；Jane Netherwood（前警队财务调查员，本章的调查
+ch03 the informant.md:68 **中文理解**：John 开出条款：我付你两万镑现金，作为回报，你带我弟弟的护照陪我走一趟布莱顿警局，确认我是你弟弟——而且我活得好好的。
+ch03 the informant.md:84 **为什么这样写**：befriending（交朋友）与 defrauded（诈骗）放在同一段，Geoff 的作案手法被压缩成一个词的冷笑——他连犯罪都靠「扮演亲人」；孙女起疑这个细节留下一个刺眼对比：识破 Geoff 靠的是亲情在场，而 
+ch03 the informant.md:104 **中文理解**：死亡证明的「申报人」一栏，写着杰弗里·安东尼·格雷布尔——他的亲弟弟给活人签发了死亡。
+ch03 the informant.md:112 **表达方式**：Informant 这个词精确而陌生——不是 killer、不是 liar，而是申报人：制度的词库里连背叛都有专门栏目；中间名 Anthony 的完整出现说明表格填得毫无破绽，亲弟弟比谁都清楚他的全名。
+ch03 the informant.md:120 **为什么这样写**：这是全篇的主题陈词——杀死 John 的不是弟弟一个人，而是一条不需要任何人回头看的自动化流水线；动词 pings（弹一下信号）写尽系统间的冷漠握手，每个机构都「按流程办事」，于是没有人负责。
+ch04 you cant kill a dead man.md:36 **为什么这样写**：在干净的厨房里喷烟是宣示主权，配的台词偏偏是「活着才杀人」——一个正在弄死亲哥哥的人抱怨生活杀人，反讽浓度全篇最高。（原书此句 heath 为 health 之误植，按真值照录，反倒像他的发音。）
+ch04 you cant kill a dead man.md:48 **为什么这样写**：这是全章最关键的一句表演——他明知道哥哥刚把自己 352,000 镑从银行转去迪拜，却偏偏说「银行靠不住」，把赃款犯最懂的道理借来当鱼饵；Just in case 的轻描淡写让诱饵闻起来像老人的多余谨慎。
+ch04 you cant kill a dead man.md:52 **表达方式**：Actually 起头装作顺口补充，disingenuously（原文紧随其后的词）出卖了表演；「私房钱」三字对刚洗空哥哥账户的人有吸血鬼见了血颈的效果。
+ch05 long live geoff grebble.md:60 **为什么这样写**：句式照搬英王更替的宣告（The King is dead. Long live the King.）——旧王已死、新王当即位，权力无缝交割；喊出这句话的人两度杀人未遂、刚刚反杀亲弟弟，用加冕辞给自己的重生剪彩，荒诞与寒
+ch05 long live geoff grebble.md:96 末章是一场体面的换装仪式：合身的白麻西装替下大一号的灰西装，弟弟的护照替下被注销的人生，逃亡路线与赃款去向在迪拜重合——"Only the details were different"；当地堡里的 Geoff 濒临终点，新 Geoff 在
+
+合计 120 行候选 / 8 个文件

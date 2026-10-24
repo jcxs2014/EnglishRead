@@ -1,0 +1,55 @@
+{
+ "book": "john-grebble-is-gone-by-peter-james",
+ "chapter": "ch05",
+ "text": "notes/books/short-story-anthologies/john-grebble-is-gone-by-peter-james/text/ch05_long_live_geoff_grebble.txt",
+ "facts": [
+  {
+   "fact": "一周后，南安普顿邮轮码头：这对「夫妇」穿着盛夏打扮，11 月的阴雨与他们无关。",
+   "anchor": "One week later, despite the grey November weather outside, the couple standing in line for check-in at the vast Southampton cruise terminal, holding their documents in their hands, looked like they were dressed for the sunshine.",
+   "start": 0,
+   "end": 228
+  },
+  {
+   "fact": "巴拿马帽与合身的白麻西装——ch01 的「衣服都大一号」在此完成人物变形。",
+   "anchor": "He was wearing a Panama hat and a white linen jacket that, unlike his work suit jackets, was not one size too big, but fitted him well.",
+   "start": 231,
+   "end": 366
+  },
+  {
+   "fact": "值机柜台核对证件：Mr Grebble = 用 Geoff 的护照登机的 John。",
+   "anchor": "She took a moment to read through them, then looked up, still smiling warmly. ‘Mr Grebble and Ms Netherwood?’",
+   "start": 818,
+   "end": 927
+  },
+  {
+   "fact": "柜台念出全名 Geoffrey——弟弟的身份被他当面应下。",
+   "anchor": "‘That would be Mr Geoffrey Grebble and Ms Jane Netherwood?’",
+   "start": 963,
+   "end": 1022
+  },
+  {
+   "fact": "护照照片对不上的危机，被「减肥针」一句话化解——连边检官自己都在打同款。",
+   "anchor": "‘I – er – I’ve been on a weight-loss drug.’",
+   "start": 1740,
+   "end": 1783
+  },
+  {
+   "fact": "John 想象地堡里的 Geoff：断水断粮一周，守着花不出去的 50 镑一捆捆钞票。",
+   "anchor": "Geoff Grebble would by now be nearing death, John thought. A whole week without food or water. Just bundles of £50 notes.",
+   "start": 2422,
+   "end": 2543
+  },
+  {
+   "fact": "章末核心反讽：Geoff 为迪拜引渡漏洞设计了整个骗局，如今 John 与 Jane 循同一漏洞去迪拜——只是细节不同。",
+   "anchor": "It was kind of ironic that Geoff had planned to steal all his money and flee to Dubai because of the vagaries of the extradition treaty there. And now that was where he and Jane were heading, for exactly the same reason. Only the details were different.",
+   "start": 2831,
+   "end": 3084
+  },
+  {
+   "fact": "末句：国王死了国王万岁式的宣告，新 Geoff 正式加冕。",
+   "anchor": "‘John Grebble is gone. Long live Geoff Grebble!’",
+   "start": 3282,
+   "end": 3330
+  }
+ ]
+}

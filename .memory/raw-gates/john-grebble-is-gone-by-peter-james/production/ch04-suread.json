@@ -1,0 +1,67 @@
+{
+ "book": "john-grebble-is-gone-by-peter-james",
+ "chapter": "ch04",
+ "text": "notes/books/short-story-anthologies/john-grebble-is-gone-by-peter-james/text/ch04_you_cant_kill_a_dead_man.txt",
+ "facts": [
+  {
+   "fact": "Geoff 上门：Led Zeppelin 卫衣、运动裤、脏球鞋，进门先要 15 镑出租车钱。",
+   "anchor": "Dressed in a bulky anorak over a Led Zeppelin sweatshirt, tracksuit bottoms and grubby trainers, he looked at John expectantly, an aggressive glint in his eye.",
+   "start": 738,
+   "end": 897
+  },
+  {
+   "fact": "Geoff 无视禁烟把烟喷到哥哥脸上；原书此句 heath 为 health 之误植，按真值照录。",
+   "anchor": "‘Living isn’t good for our heath, Johnny boy. It kills all of us.’ Geoff dragged on the cigarette and blew the smoke straight up at John’s face.",
+   "start": 4093,
+   "end": 4237
+  },
+  {
+   "fact": "John 下的饵：说自己连银行都不信、私房钱藏在保险柜里，钓 Geoff 主动要看。",
+   "anchor": "Actually, I use it to keep some of my savings in. Just in case. You can’t really trust banks, can you?",
+   "start": 4767,
+   "end": 4869
+  },
+  {
+   "fact": "地堡里 John 说要示范「信任」，盯着哥哥的眼睛却只看到贪婪。",
+   "anchor": "‘OK, what I’m going to do now is a real demonstration of my trust in you.’ He stared Geoff in the eye. And did not like what he saw.",
+   "start": 7682,
+   "end": 7814
+  },
+  {
+   "fact": "Geoff 亮出匕首摊牌：记录上你已死亡、证书齐全、毫无破绽。",
+   "anchor": "According to all the records, you are deceased. Dead – brown bread. There’s a kosher death certificate.",
+   "start": 11697,
+   "end": 11800
+  },
+  {
+   "fact": "全章题眼：你杀不死一个死人——Geoff 自以为的护身符恰是 John 的行动许可。",
+   "anchor": "‘And you know the really clever thing about that, Johnny boy? You can’t kill a dead man!’ Geoff lunged at him.",
+   "start": 11939,
+   "end": 12049
+  },
+  {
+   "fact": "John 用踢拳课的扫堂腿放倒 Geoff，匕首脱手滑开——ch01 埋的运动伏笔在此兑现。",
+   "anchor": "But as he did so, John used the fast movements he’d learned from his kickboxing training and swept his brother’s front foot from under him, and Geoff smacked face first on to the floor, the stiletto skittering away.",
+   "start": 12052,
+   "end": 12267
+  },
+  {
+   "fact": "第二击踢裆把 Geoff 彻底打瘫——反杀者是那个每天踢拳的「活死人」。",
+   "anchor": "As his brother came closer and lashed out, John launched his right leg up between Geoff’s legs, as if he were kicking a football to the moon.",
+   "start": 12761,
+   "end": 12902
+  },
+  {
+   "fact": "反杀收束：John 出了地堡、锁死钢门、输入八位密码——把弟弟活埋进他自己眼红的那笔现金中间。",
+   "anchor": "He was already outside the shelter, swinging that huge, heavy door shut with grim satisfaction. He turned the big handle one notch to engage the lock, then with shaking hands he tapped in the eight-digit combination.",
+   "start": 13080,
+   "end": 13296
+  },
+  {
+   "fact": "章末照旧泡茶：肾上腺素退去后，他的手还在抖，生活继续表演正常。",
+   "anchor": "He sat, shaking, adrenaline surging, for several minutes. Before calming down and making himself a cup of tea.",
+   "start": 13806,
+   "end": 13916
+  }
+ ]
+}

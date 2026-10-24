@@ -61,7 +61,7 @@ modified: "2026-10-24"
 
 **句子结构**：主句用 until 引出崩溃点，ran out of 一个动词管三个并列宾语；随后 That had been three years ago. They’d not spoken since. 两个短句收尾，时间锚定一次、后果带过一次，节奏骤然收紧。
 
-**表达方式**：ever-increasing 与 never repaid 一正一负顶着写，账目方向相反；goodwill 排在清单末位，暗示最先漏光的其实是感情——而本章结尾他要打给 Geoff 的那通电话，靠的正是这点残存的 goodwill。
+**表达方式**：ever-increasing 与 never repaid 一正一负顶着写，账目方向相反；goodwill 排在清单末位，暗示最先漏光的其实是感情——而当天下午他不得不拨给 Geoff 的那通电话，靠的正是这点残存的 goodwill。
 
 > **原句 5:** "It is with sincere condolences that I write on behalf of National Midland & Eastern Bank regarding the recent passing of our valued client, John William Grebble. On behalf of our entire branch team, please accept our deepest sympathies during this difficult time."
 

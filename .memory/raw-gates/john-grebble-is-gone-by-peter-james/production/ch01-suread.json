@@ -1,0 +1,55 @@
+{
+ "book": "john-grebble-is-gone-by-peter-james",
+ "chapter": "ch01",
+ "text": "notes/books/short-story-anthologies/john-grebble-is-gone-by-peter-james/text/ch01_the_bank_letter.txt",
+ "facts": [
+  {
+   "fact": "开篇第一句：约翰·格雷布尔从银行来信得知自己「死了」，随信还有水管账单与单身游广告。",
+   "anchor": "John Grebble first learned he was dead when he got a letter from his bank.",
+   "start": 0,
+   "end": 74
+  },
+  {
+   "fact": "他家地板之下藏着前房主秘密修建的核地堡；他平时把应急现金藏在里面，但很怕下去。",
+   "anchor": "But his was in fact very different: hidden below the basement was a secret nuclear bunker.",
+   "start": 3621,
+   "end": 3711
+  },
+  {
+   "fact": "弟弟 Geoff 屡借不还，三年前闹翻断绝来往——这通「被死亡」之后他又得回头求 Geoff。",
+   "anchor": "He’d continued giving Geoff loans of ever-increasing amounts, never repaid, until he ran out of patience – and guilt – and goodwill. That had been three years ago. They’d not spoken since.",
+   "start": 5669,
+   "end": 5857
+  },
+  {
+   "fact": "二十多岁时 Carolyn 在约会前一天甩了他，转投弟弟 Geoff；他从此封心不再恋爱。",
+   "anchor": "Twenty hours before their date, she dumped him.",
+   "start": 19152,
+   "end": 19199
+  },
+  {
+   "fact": "银行客服 Riley 坚称「死亡已核实」，随即以安全为由挂断电话。",
+   "anchor": "I’m sorry, Mr Grebble, the information we have that you are deceased is verified.",
+   "start": 13308,
+   "end": 13389
+  },
+  {
+   "fact": "上班公交上 Apple Pay 与借记卡全部失效，兜里只有 £50 而司机不找零，他被赶下车。",
+   "anchor": "You want to get on this bus, you have to pay. You have cash?",
+   "start": 16209,
+   "end": 16269
+  },
+  {
+   "fact": "拖车工以车主「已故」为由当场拖走他的电动车，他塞 £50 也没能拖住。",
+   "anchor": "What I mean is that this car is on a lease-purchase arrangement with someone who is now deceased. I’m repossessing it.",
+   "start": 25698,
+   "end": 25816
+  },
+  {
+   "fact": "章末：他站在大雨里，眼看拖车闪着右转灯消失——这个「死人」的一天跌到谷底。",
+   "anchor": "Oblivious to the now-biblical rain chucking down, he stood forlornly watching the brake lights of the truck as it approached the main road at the bottom of the hill.",
+   "start": 27473,
+   "end": 27638
+  }
+ ]
+}

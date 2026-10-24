@@ -37,7 +37,7 @@ modified: "2026-10-24"
 
 **句子结构**：unlike his work suit jackets 的插入语把新旧两版人生并置在同一个句子里；not… but… 先否定旧我、再确认新我，句法本身就是一次身份交接。
 
-**表达方式**：Panama hat 与 white linen 是「另一个人」的道具——那个打领带、坐 5B 公交的灰男人没有一件东西是白的；fitted him well 四个词朴素到近乎温柔，复仇结束后的平静全在这里。
+**表达方式**：Panama hat 与 white linen 是「另一个人」的道具——那个打领带、坐 5B 公交的灰男人没有一件东西是白的；fitted him well 三个词朴素到近乎温柔，复仇结束后的平静全在这里。
 
 > **原句 3:** "It was kind of ironic that Geoff had planned to steal all his money and flee to Dubai because of the vagaries of the extradition treaty there. And now that was where he and Jane were heading, for exactly the same reason. Only the details were different."
 
@@ -57,7 +57,7 @@ modified: "2026-10-24"
 
 **关键词**：is gone / Long live
 
-**为什么这样写**：句式照搬英王更替的宣告（The King is dead. Long live the King.）——旧王已死、新王当即位，权力无缝交割；喊出这句话的人两度杀人未遂、刚刚反杀亲弟弟，用加冕辞给自己的重生剪彩，荒诞与寒意在最后一句同时到顶。
+**为什么这样写**：句式照搬英王更替的宣告（The King is dead. Long live the King.）——旧王已死、新王当即位，权力无缝交割；喊出这句话的人刚刚把亲弟弟反锁进地堡、正用弟弟的护照逃向赃款所在地，用加冕辞给自己的重生剪彩，荒诞与寒意在最后一句同时到顶。
 
 **句子结构**：两个短句共用「王位更替」的模板，is gone 与 Long live 一灭一生紧挨着，中间没有任何过渡——死亡与登基在语法上是同一瞬间。
 

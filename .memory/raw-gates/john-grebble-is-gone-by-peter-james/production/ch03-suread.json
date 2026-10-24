@@ -1,0 +1,85 @@
+{
+ "book": "john-grebble-is-gone-by-peter-james",
+ "chapter": "ch03",
+ "text": "notes/books/short-story-anthologies/john-grebble-is-gone-by-peter-james/text/ch03_the_informant.txt",
+ "facts": [
+  {
+   "fact": "对上门做遗产估价的 Beresford 使出「鬼魂二难」：不信鬼就得信我活着。",
+   "anchor": "Yes, very much so – you see, I am John Grebble. And if you don’t believe in ghosts, then your only alternative is to believe that I’m alive.",
+   "start": 1975,
+   "end": 2115
+  },
+  {
+   "fact": "回家泡茶成了反抗仪式：能烧水、能挑杯子、能拿牛奶，就是活着的证据。",
+   "anchor": "The act of making tea felt, in a strange way, like an act of rebellion. That he was alive enough to boil water, to choose a mug, to take milk out of the fridge.",
+   "start": 3164,
+   "end": 3324
+  },
+  {
+   "fact": "他狠掐自己手腕：会疼， Toe 也疼——鬼魂不会脚趾痛。",
+   "anchor": "Then he stopped and pinched the skin of his left wrist, hard, with the fingers of his right hand. It hurt.",
+   "start": 3327,
+   "end": 3433
+  },
+  {
+   "fact": "他终于回 Jane 的短信：自己在公司成了「非人」，银行冻结账户，警方当他是骗子。",
+   "anchor": "I seem to be a non-person at Wilmot & Wilmot.",
+   "start": 3988,
+   "end": 4033
+  },
+  {
+   "fact": "Jane 答应下班直接过来，两人第一次有了「他的家里有客人」的约定。",
+   "anchor": "I’ll come over straight after work. We can talk about this over a cuppa. No arguments.",
+   "start": 4224,
+   "end": 4310
+  },
+  {
+   "fact": "Geoff 接电话开口就是威胁：和好免谈，埋斧头就埋在你脑袋里。",
+   "anchor": "I’m a very busy man, John, I don’t have time for small talk. If I was going to bury a hatchet, you know where I’d bury it – in your skull.",
+   "start": 5715,
+   "end": 5853
+  },
+  {
+   "fact": "John 报出三年借款总额超四万镑，再开价两万现金「礼物」换 Geoff 作证。",
+   "anchor": "Because I do, Geoff. It’s over forty thousand. And now I’m prepared to give you another twenty thousand, which you don’t ever have to worry about paying back – it’s a gift.",
+   "start": 6974,
+   "end": 7146
+  },
+  {
+   "fact": "交易条款明确：两万镑换 Geoff 带护照去警局证明弟弟活着。",
+   "anchor": "OK, my proposition is that I pay you twenty thousand pounds – in cash – in return for which you accompany me to Brighton Police Station, with your passport, and you confirm that I am your brother – and that I am very much alive.",
+   "start": 8152,
+   "end": 8380
+  },
+  {
+   "fact": "Jane 揭底：Geoff 因网上诈骗独居老太三万多镑坐过牢（Lewes 与 Ford 开放监狱）。",
+   "anchor": "He defrauded an elderly lady neighbour out of over thirty thousand pounds – online.",
+   "start": 18112,
+   "end": 18195
+  },
+  {
+   "fact": "352,000 镑存款已被转到迪拜 Al Noor Crescent 银行 Geoff 名下。",
+   "anchor": "That three hundred and fifty-two thousand pounds you had on deposit in the National Midland and Eastern Bank? It’s now on deposit in the Al Noor Crescent Bank in Dubai.",
+   "start": 18665,
+   "end": 18833
+  },
+  {
+   "fact": "死亡证明上的申报人（Informant）一栏写着 Geoffrey Anthony Grebble——亲弟弟签发的死亡。",
+   "anchor": "Beside Name of Informant was written Geoffrey Anthony Grebble.",
+   "start": 22588,
+   "end": 22650
+  },
+  {
+   "fact": "Jane 解释 AI 时代系统对系统的多米诺：死亡登记一路自动 ping 遍 DVLA/NHS/HMRC/银行/薪资系统。",
+   "anchor": "One action triggers another and you get a domino effect. Registration of death, which is now increasingly becoming electronic – digital – and only needs very little human interaction, hits the GRO – the General Register Office.",
+   "start": 23701,
+   "end": 23928
+  },
+  {
+   "fact": "章末金句：John 借「复仇先挖两座坟」的谚语反问——其中一个已经是死人了。",
+   "anchor": "Do you need two graves if one of you is already dead?",
+   "start": 25371,
+   "end": 25424
+  }
+ ]
+}

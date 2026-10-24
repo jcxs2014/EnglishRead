@@ -65,7 +65,7 @@ modified: "2026-10-24"
 
 > **原句 5:** "OK, my proposition is that I pay you twenty thousand pounds – in cash – in return for which you accompany me to Brighton Police Station, with your passport, and you confirm that I am your brother – and that I am very much alive."
 
-**中文理解**：John 开出条款：我付你两万镑现金，作为回报，你带我弟弟的护照陪我走一趟布莱顿警局，确认我是你弟弟——而且我活得好好的。
+**中文理解**：John 开出条款：我付你两万镑现金，作为回报，你带上你的护照陪我走一趟布莱顿警局，确认我是你弟弟——而且我活得好好的。
 
 **关键词**：twenty thousand pounds / in cash / very much alive
 
@@ -73,7 +73,7 @@ modified: "2026-10-24"
 
 **句子结构**：主句用 that I pay… in return for which you… 的对价句式，两个破折号分别插入付款方式与确认内容，把交易拆成可以逐项验收的条款；confirm that I am your brother – and that I am very much alive 两个 that 并列，把血缘与生存状态打包成同一项服务。
 
-**表达方式**：in cash 出现两次，现金既是诱惑也是防伪——他已经被电子系统骗过一轮，只信纸币；whole sentence 没有一个情绪词，越冷静越心酸。
+**表达方式**：in cash 从电话报价到本条款出现两次，现金既是诱惑也是防伪——他已经被电子系统骗过一轮，只信纸币；whole sentence 没有一个情绪词，越冷静越心酸。
 
 > **原句 6:** "He defrauded an elderly lady neighbour out of over thirty thousand pounds – online. Through befriending her, he obtained her bank details and password and username. It might have been a lot more money if her granddaughter hadn’t become suspicious of him."
 

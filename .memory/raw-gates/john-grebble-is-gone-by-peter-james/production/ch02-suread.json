@@ -1,0 +1,55 @@
+{
+ "book": "john-grebble-is-gone-by-peter-james",
+ "chapter": "ch02",
+ "text": "notes/books/short-story-anthologies/john-grebble-is-gone-by-peter-james/text/ch02_do_i_look_dead.txt",
+ "facts": [
+  {
+   "fact": "发给经理 Rosemary Bute 的道歉邮件被系统退回——迟到报备都发不出去。",
+   "anchor": "Then, just when he thought his day couldn’t get much worse, the email he’d sent to his manager bounced straight back.",
+   "start": 680,
+   "end": 797
+  },
+  {
+   "fact": "公司门禁亮红灯：27 年工龄的通行卡失效，他进不去自己工作了二十七年的大楼。",
+   "anchor": "His momentary good humour evaporated in seconds as a red light appeared on the reader, instead of the usual flashing green one",
+   "start": 2065,
+   "end": 2191
+  },
+  {
+   "fact": "HR 男声两次把他叫成「Mr Gravel」，随后以安全为由直接挂断电话。",
+   "anchor": "I’m sorry, I can give you no information on Mr John Grebble. For security reasons I’m now terminating this call.",
+   "start": 4152,
+   "end": 4264
+  },
+  {
+   "fact": "隔着玻璃看同事：构成他二十七年社交宇宙的人，成了比陌生人更陌生的人。",
+   "anchor": "these were people who had constituted almost his entire social universe for the past twenty-seven years. Suddenly they were all bigger strangers than ever.",
+   "start": 4985,
+   "end": 5140
+  },
+  {
+   "fact": "银行职员 Finley 摆出二选一：要么你不是你，要么记录出错了。",
+   "anchor": "Well, the thing is, sir, that you’re telling me you are Mr John Grebble, but the system is telling me that Mr John Grebble is deceased.",
+   "start": 10407,
+   "end": 10542
+  },
+  {
+   "fact": "他想起罪案剧侦探的口头禅：不作假设、不信任何人、核查一切——本章的行动纲领。",
+   "anchor": "One of them had a mantra: Assume nothing; believe no one; check everything.",
+   "start": 12315,
+   "end": 12390
+  },
+  {
+   "fact": "警局问是否有服药、精神病史——受害者反被当成疯子审问。",
+   "anchor": "And may I ask, Mr Grebble, are you on any medication?",
+   "start": 20802,
+   "end": 20855
+  },
+  {
+   "fact": "DC Patel 摊牌：警方反而怀疑他冒用死者身份，要他带弟弟与护照来对质。",
+   "anchor": "The way it appears, you may be using the identity of a deceased person and we need to clarify that.",
+   "start": 23983,
+   "end": 24082
+  }
+ ]
+}
