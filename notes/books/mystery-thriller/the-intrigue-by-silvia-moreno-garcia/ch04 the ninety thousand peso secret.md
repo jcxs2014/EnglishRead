@@ -112,7 +112,7 @@ modified: "2026-10-24"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | marionettes | 提线木偶 | They were for the most part a bunch of grotesque marionettes, clucking and sharing gossip with glee. |
-| implements | 用具、器具 | It had been a long time since a man had stayed in this room, since Plutarco, and these masculine implements—the studs resting next to a collar, the carefully polished black oxfords tucked under a chair, the bottle of cologne—reminded Perla of her lonesomeness. |
+| debutantes | 初入社交界的名媛 | I’ve worked for one of the best studios in the city and photographed several debutantes and starlets. |
 | canapés | 开胃小点心 | Inés went around the room, carrying a plate with canapés and dispensing drinks with a mechanical air that made him think she’d served as a waitress at these reunions for many evenings. |
 | repertoire | 保留曲目、常备节目 | Ulises was certain that her repertoire had not been updated in a couple of decades, and her movements had a soulless precision that could not invite true praise. |
 | cursive | 花体字、草书 | to write letters with elaborate cursive handwriting and copy lines from El Correo del Amor—that manual full of useful phrases suitors utilized when their own wit failed them. |

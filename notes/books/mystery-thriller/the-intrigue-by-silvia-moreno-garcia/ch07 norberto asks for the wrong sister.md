@@ -129,7 +129,7 @@ modified: "2026-10-24"
 | bouquet | 花束 | He came with a bouquet under his arm and a wan smile. |
 | detested | 憎恶、讨厌 | She detested roses and was partial to the purity of lilies. |
 | armoire | 大衣柜 | an awful, bone-crunching loneliness swept over her. She had a terrible urge to weep and run upstairs to sip one of the bottles of tequila she hid in the armoire. |
-| cane | 手杖 | He taps his cane and sometimes he slams it so hard against the floor that Perla thinks it might pierce through stone. |
+| gallantry | 献殷勤、绅士风度 | The highlight of the evening comes when Norberto asks her to dance, smiling at her with an air of gallantry that makes her heart soar and her pulse quicken. |
 | wrinkles | 皱纹 | More than once, he must have also considered her age, the wrinkles at the sides of her eyes, and figured a woman such as Perla could not afford to be choosy. |
 
 ## 一句话总结
