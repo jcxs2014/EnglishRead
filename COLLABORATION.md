@@ -71,6 +71,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - commit ×8（711b69e4d…7af6f901b），未 push（待用户指令）
 - 明细见 .memory/daily/2026-10-24.md
 
+**审查结论（T3 深审·用户点名，同会话，2026-10-24）**：R0–R5 全跑，5/5 章四件套落盘（1-suread/2-machine/3-diff/4-verdict，review/chNN/）。（slug: john-grebble-is-gone-by-peter-james）
+
+- 机器层全重跑：gate 0 · fragments 58 片段 0 MISS · vocab FAIL 0 · entities 0 · order 45 块 0 倒置 · overview 50/50 · summary_names 3 提示型均正当（跨章合法引用，已核）
+- 章内：阻断级「漏」2 处——ch01 公交逐客、ch05 护照检查危机（导航/总结点名而精读无块），各补 1 块整改（ch05 4→5 块落回本书区间 5–15）；措辞级 4 处（ch04「卫生间的战争/血颈/赃款犯」、ch05「第一声欢呼」）已修
+- 总结层：概述施事反转 1 处（「确认我弟弟还活着」方向反）＋无据断言 1 处（蝴蝶眼镜「始终没换」）已修；取舍提示 5 处记录（色彩细节未入块，转折全覆盖）
+- 整改后全套复验：五章 rc=0 / gate EXIT=0 / corruption 0；commit 2d05568b0
+- ⚠️ 同会话深审：独立性来自换检查路径（新抽 37 条素读事实＋R4 施事三问＋机器层全重跑），**不等于异会话终审**；台账已追加「同会话（深审）」行
+
 ### [2026-10-24 11:23 UTC] [DSH-Mac] → All
 
 【规则判据收尾】块数判据双轨定案 + 6 本书解析盲区修复 + 第三方复验闭环（2026-10-24）
