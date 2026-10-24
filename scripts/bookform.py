@@ -603,7 +603,7 @@ def print_contract(book: Path) -> None:
     print("  7 残句缺词   `的` 后直接跟动词（`把 X 的 写成…`、`\"祖母\"的 词与并列`）= 名词被删掉了，读不通")
     print(f"  8 块数       新书每章 {MIN_BLOCKS}–{MAX_BLOCKS} 块（>{MAX_BLOCKS} 或 <{MIN_BLOCKS} 判红）；"
           f"已有 ≥3 章的书按本书分布判：上限 = max({MAX_BLOCKS}, 本书最高章)"
-          f"（本章按词数的建议区间见 chapter.sh 输出；本书 profile 参考 {blocks[0]}–{blocks[1]}）")
+          f"（本章按词数的建议区间见 chapter.sh 输出；genre profile 只作参照，不覆盖上面的判据）")
     print()
     print("【只提示、不判红，但会毁掉这本书】")
     print(f"  · 引语长度   1–3 句 / 30–70 词 / ≤4 行（创建卡 §3）；块 >{LONG_QUOTE_WORDS} 词时 chapter.sh 打 ⚠️，退出码仍 0")
