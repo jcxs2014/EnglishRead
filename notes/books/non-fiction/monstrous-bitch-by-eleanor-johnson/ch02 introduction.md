@@ -76,7 +76,7 @@ source_text: ch02
 
 **表达方式**：用「缺陷变优势」的筛选逻辑给「突变」下了准确的定义；bug 与 feature 一对计算机与生物学的双关词，把抽象机制落到日常经验上，而 so that 一句把偶然性讲成必然保留。
 
-**为什么这样写**：全书的核心修辞就是这一次转折。作者一开场就借科学词汇给文化史立规矩——此后每一次怪兽换装换名、每一次恐惧变形，都在重演同一个机制，读者的尺子从第一章就交到了手上。
+**为什么这样写**：全书的核心修辞就是这一次转折。作者一开场就借科学词汇给文化史立规矩——此后每一次怪兽换装换名、每一次恐惧变形，都在重演同一个机制，读者的尺子从原书第一章就交到了手上。
 
 > **原句 2:** "Each of these changes—the coalescence of early Mediterranean Patriarchy, the rise of Romanitas, the spread of Western Christianity, the rapid escalation of scientific empiricism, the heyday of psychoanalysis, and the phases of feminism—inflects the evolution of one powerful, transhistorical, transnational, transcultural, translinguistic trope of female monstrosity. I will call this trope the Monstrous Bitch."
 

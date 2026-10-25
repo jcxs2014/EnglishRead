@@ -11,7 +11,7 @@ source_text: ch04
 - **出处**：*Monstrous Bitch: A History of Terrifying Women*，书内第 2 章「2. Greek Monstrous Bitches: Screaming Furies, Angry Queens, Sorceresses, and Sexy Infanticides」
 - **作者**：Eleanor Johnson
 - **体裁**：非虚构（学术专著·文化史论著）
-- **章节定位**：Episode I（Ancient Mediterranean Monstrous Bitches and Their Progeny）的第二章；全书三个分部依次为 Episode I: Ancient Mediterranean Monstrous Bitches and Their Progeny、Episode II: The Monstrous Bitch Meets Jesus: Whores, Witches, and Vampires、Episode III: Psychoanalysis and the Silver Screen: Monstrous Bitches in the Modern Day。本章接住第一章留下的美索不达米亚谱系，把它西迁到希腊悲剧的文本上，是全书最长的一章
+- **章节定位**：Episode I（Ancient Mediterranean Monstrous Bitches and Their Progeny）的第二章；全书三个分部依次为 Episode I: Ancient Mediterranean Monstrous Bitches and Their Progeny、Episode II: The Monstrous Bitch Meets Jesus: Whores, Witches, and Vampires、Episode III: Psychoanalysis and the Silver Screen: Monstrous Bitches in the Modern Day。本章接住原书第一章留下的美索不达米亚谱系，把它西迁到希腊悲剧的文本上，是全书最长的一章
 - **字符数**：约 51,813 字符（去空白）
 - **一句话主旨**：怪物的产地从美索不达米亚挪到了希腊戏剧的舞台，而希腊人并不写怪物——他们写的是有台词、有城邦、有观众的真实女人，于是怪物在剧本里第一次获得了可以申诉、可以同情、也可以逃跑的身体。
 
