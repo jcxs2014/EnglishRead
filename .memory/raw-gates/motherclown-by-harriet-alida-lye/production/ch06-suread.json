@@ -1,0 +1,55 @@
+{
+ "book": "motherclown-by-harriet-alida-lye",
+ "chapter": "ch06",
+ "text": "notes/books/novels/motherclown-by-harriet-alida-lye/text/ch06_chapter_five.txt",
+ "facts": [
+  {
+   "fact": "小丑学校第二天九点前，一百名学生在旧体操房就座。",
+   "anchor": "It’s one minute before nine and they are all seated, all one hundred of them, in the old gymnastics room.",
+   "start": 7,
+   "end": 112
+  },
+  {
+   "fact": "Magdalena 教的核心动作理论：戏剧里一切都能还原成推或拉。",
+   "anchor": "everything can be reduced to a push or a pull",
+   "start": 3629,
+   "end": 3674
+  },
+  {
+   "fact": "Elise 自我说服：渴望不是爱，是另一种东西（好奇）。",
+   "anchor": "Longing is not love, she assures herself—it is a separate thing.",
+   "start": 4019,
+   "end": 4083
+  },
+  {
+   "fact": "水瓶被 Magdalena 羞辱后，Elise 把它（家里的金属瓶）扔进垃圾桶。",
+   "anchor": "Instead of dying, Elise throws the bottle—metal, from home, not a plastic grocery store one—into the garbage.",
+   "start": 6125,
+   "end": 6234
+  },
+  {
+   "fact": "在酒吧她拿出笔记本，请求画 Aya 的速写。",
+   "anchor": "She has an idea. She pulls her notebook and pen out of her backpack",
+   "start": 14317,
+   "end": 14384
+  },
+  {
+   "fact": "Aya 用「她」透露自己的初恋是一个女人（舞者），单字成段。",
+   "anchor": "She.",
+   "start": 23300,
+   "end": 23304
+  },
+  {
+   "fact": "给 Max 回信时她不知如何落款，既无 love 也无 xo。",
+   "anchor": "She isn’t sure how to sign off so she leaves it at that. No love, no xo",
+   "start": 20141,
+   "end": 20212
+  },
+  {
+   "fact": "Catherine 被假房东骗走六千欧，公寓根本不存在，拎着行李住进女儿房间。",
+   "anchor": "“I’ve been catfished.”",
+   "start": 34485,
+   "end": 34507
+  }
+ ]
+}
