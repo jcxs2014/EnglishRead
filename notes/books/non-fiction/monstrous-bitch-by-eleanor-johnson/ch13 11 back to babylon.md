@@ -248,7 +248,7 @@ source_text: ch13
 
 **表达方式**：作者用「在神学重要性上高过」这样冷静的等级说法，把一位女神抬到父权神系之上；而「职业任期内加深虔敬」的写法，把宗教热诚写成一种任职期间持续加码的行为。
 
-**为什么这样写**：这一节要把时间推回四千三百年前，用一个真实存在过的女性作者与祭司来开启。作者必须先把伊南娜的崇拜写成一种可行的、非疯狂的选择，后文「四百三十年前女性可以崇拜母亲也可以畏惧她」的论证才立得住。
+**为什么这样写**：这一节要把时间推回四千三百年前，用一个真实存在过的女性作者与祭司来开启。作者必须先把伊南娜的崇拜写成一种可行的、非疯狂的选择，后文关于「四千三百年前女性可以同时崇拜又畏惧一个母亲」的论证才立得住。
 
 > **原句 15:** "Instead, like you, I’ve grown up in a world in which women have been demonized for thousands of years, and in which they have been demonized in particular for three things: their voices, their sexuality, and their relationship to reproduction."
 

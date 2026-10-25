@@ -106,7 +106,7 @@ source_text: ch05
 
 > **原句 5:** "The message of the opening of The Aeneid, then, is that women are disposable, while men are essential to founding and protecting a new fatherland. Later, traveling with his son and followers in order to found Rome, Aeneas meets Queen Dido of Carthage, who is the most splendid literary ancient ruler I am aware of."
 
-**中文理解**：作者从《埃涅阿斯纪》开篇读出全书最冷的一句判词：女人是可以被丢下的，男人才是建国与守护新父权家园的必需品；随后他引入狄多，把读者带进埃涅阿斯的建国行程。
+**中文理解**：作者从《埃涅阿斯纪》开篇读出全书最冷的一句判词：女人是可以被丢下的，男人才是建国与守护新父权家园的必需品；随后她引入狄多，把读者带进埃涅阿斯的建国行程。
 
 **句子结构**：首句以 then 承接前文判断，主句是 is that 引导的名词性从句，内含 while 对比；次句以 Later… 分句交代背景，用 in order to 标出目的，最终落在一个 who 从句给狄多加上「最杰出的文学古代统治者」这一评语。
 
@@ -118,7 +118,7 @@ source_text: ch05
 
 > **原句 6:** "Does that sound like an outtake from The Bacchae crossed with The Eumenides? It should, because Virgil knows the same thing Euripides and Aeschylus know: Patriarchy cannot function if women raise their voices up together and take up arms against it. So, in the person of Amata, we have another critically important and entirely human Monstrous Bitch: She is a human female version of Dionysus."
 
-**中文理解**：作者先让读者自己听出这段集体暴动像什么：《酒神的女信众》撞上《复仇女神》。接着他给出全书式的判词：父权无法在女性集体发声并拿起武器时运作；而阿玛塔正是一个纯粹由人构成的怪物母狗，是狄俄倪索斯的女性版本。
+**中文理解**：作者先让读者自己听出这段集体暴动像什么：《酒神的女信众》撞上《复仇女神》。接着她给出全书式的判词：父权无法在女性集体发声并拿起武器时运作；而阿玛塔正是一个纯粹由人构成的怪物母狗，是狄俄倪索斯的女性版本。
 
 **句子结构**：首句以反问句起手；次句 It should 单独成句作确认，再用 because 引出一句长宾语从句，其中嵌套 what Euripides and Aeschylus know 的同位语从句；末句以 So, in the person of Amata, we have… 收束，并用冒号引出同位语 She is a human female version of Dionysus。
 
@@ -154,7 +154,7 @@ source_text: ch05
 
 > **原句 9:** "Instead, much more like Medea, they’ve managed to weave themselves into the daily lives of regular people, where they will use their three core catastrophic powers entirely for their own benefit: slaying children and babies to eat their flesh and drink their blood, seducing and corrupting young men, and spellcasting to do all manner of nefarious magic. Reproductive harm, sexual harm, spellcasting harm."
 
-**中文理解**：作者指出与美狄亚相比，这些女巫的处境更进了一步：她们已经织进普通人的日常生活，把三种灾难性力量完全为自己所用——杀孩子吃肉喝血、诱惑并败坏年轻男子、以巫术施行种种恶毒魔法。他用三个短语收尾：生育的伤害、性的伤害、施巫的伤害。
+**中文理解**：作者指出与美狄亚相比，这些女巫的处境更进了一步：她们已经织进普通人的日常生活，把三种灾难性力量完全为自己所用——杀孩子吃肉喝血、诱惑并败坏年轻男子、以巫术施行种种恶毒魔法。她用三个短语收尾：生育的伤害、性的伤害、施巫的伤害。
 
 **句子结构**：首句以 Instead, much more like Medea, 起手作对照，含一个主语前置的完成时结构 they’ve managed to weave themselves into…；中段 where 从句里再套一个 where they will use…，并用冒号引出三项动名词排比（slaying… seducing… and spellcasting…）；末句三个名词短语并置成独立句。
 
