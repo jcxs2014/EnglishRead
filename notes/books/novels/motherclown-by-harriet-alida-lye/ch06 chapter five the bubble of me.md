@@ -65,17 +65,7 @@ modified: "2026-10-25"
 
 **读者视角提示**：记住这个从家里带来的金属瓶。它是「她带过来的旧世界」的第一个牺牲品。
 
-> **原句 6:** "“You have something,” Lucas told Catherine in that first class. Because this came after his criticism of Hannah, she knew he didn’t flatter everyone. She was eighteen, in her first year, and he was at least fifteen if not twenty years older than her."
-
-**中文理解**：「你有东西，」Lucas 在第一堂课上对 Catherine 说。因为这话是在他批评 Hannah 之后说的，她知道他并不奉承所有人。她十八岁，大一，而他至少比她大十五岁，说不定二十岁。
-
-**关键词**：Lucas · flatter
-
-**为什么这样写**：三段信息按顺序排：一句赞美、一个证明它可信的对照、一组年龄。作者不写「她被诱惑了」，只写她如何验证这句赞美值得相信——这正是被操控的开端：先给你一个你渴望的确认，再让你自己替它找理由。年龄那句放在最后，读者才后知后觉地算出权力差。
-
-**读者视角提示**：注意「他并不奉承所有人」这个推理。她的信任是经过论证的，这才可怕。
-
-> **原句 7:** "She pulls her notebook and pen out of her backpack and looks around the room. She hopes this won’t be weird. She’s not sure how to read Aya, but she asks anyway: “Can I draw you? We don’t have to stop talking, or do anything. You can just do what you’re doing.”"
+> **原句 6:** "She pulls her notebook and pen out of her backpack and looks around the room. She hopes this won’t be weird. She’s not sure how to read Aya, but she asks anyway: “Can I draw you? We don’t have to stop talking, or do anything. You can just do what you’re doing.”"
 
 **中文理解**：她从背包里拿出笔记本和笔，环顾房间。她希望这不会显得奇怪。她不确定该怎么读 Aya，但她还是问了：「我可以画你吗？我们不用停下来，也不用做什么。你就做你本来在做的事。」
 
@@ -85,7 +75,7 @@ modified: "2026-10-25"
 
 **读者视角提示**：这个「画」的请求，会在这本书里反复出现。留意谁愿意被看。
 
-> **原句 8:** "Over time, Elise learned that it’s best not to draw the outline of a face because it always ends up like a net with no fish in it: All the features wind up on the outside."
+> **原句 7:** "Over time, Elise learned that it’s best not to draw the outline of a face because it always ends up like a net with no fish in it: All the features wind up on the outside."
 
 **中文理解**：久而久之，Elise 学会了最好不要先画脸的轮廓，因为它总会变成一张没有鱼的网：所有五官都跑到外面去了。
 
@@ -94,6 +84,16 @@ modified: "2026-10-25"
 **为什么这样写**：一个技术性的经验，被写成一个精确到残酷的比喻：net with no fish。轮廓是空的，五官全在边界外——这句话几乎可以直接用来描述这一章里的母女关系：她们都知道对方的脸，却抓不住那个人。作者把绘画课上的口诀写成了全书的一个隐喻。
 
 **读者视角提示**：这句话在结尾会回来一次。到时想想那张「没有鱼的网」是谁。
+
+> **原句 8:** "She isn’t sure how to sign off so she leaves it at that. No love, no xo, and not the cold formality of her name, especially since to him, she is Elisabeth, and she is not Elisabeth anymore."
+
+**中文理解**：她不知道该怎么落款，就那样结束了。没有 love，没有 xo，也没有她名字那种冷淡的正式感——尤其因为在他那里，她是 Elisabeth，而她已经不是 Elisabeth 了。
+
+**关键词**：xo · Elisabeth
+
+**为什么这样写**：一个落款的空白，装下了三个人：母亲（十二个词的 xo）、Max（她曾是他认识的 Elisabeth）、以及她自己（正在变成 Elise 的人）。作者用三重否定来写这封信的结尾，等于把「她是谁」这个问题留在了发送键上。而 xo 这个词，正是她母亲上次来信里那个让她心碎的落款。
+
+**读者视角提示**：对照第二章母亲那封「十二个词、落款 xo」的信。这一章她把同样的省略用在了 Max 身上。
 
 > **原句 9:** "Inside her belly, Elise feels motion. Aya just told her something ostensibly for one reason, but it is clear that the information Aya wanted to communicate was not about firsts but about something more global. She."
 
@@ -105,17 +105,7 @@ modified: "2026-10-25"
 
 **读者视角提示**：这个单字成段的 She，是全书第一次有人明确告诉 Elise 关于性的另一种可能。她之后的每一次犹豫都从这里开始。
 
-> **原句 10:** "She isn’t sure how to sign off so she leaves it at that. No love, no xo, and not the cold formality of her name, especially since to him, she is Elisabeth, and she is not Elisabeth anymore."
-
-**中文理解**：她不知道该怎么落款，就那样结束了。没有 love，没有 xo，也没有她名字那种冷淡的正式感——尤其因为在他那里，她是 Elisabeth，而她已经不是 Elisabeth 了。
-
-**关键词**：xo · Elisabeth
-
-**为什么这样写**：一个落款的空白，装下了三个人：母亲（十二个词的 xo）、Max（她曾是他认识的 Elisabeth）、以及她自己（正在变成 Elise 的人）。作者用三重否定来写这封信的结尾，等于把「她是谁」这个问题留在了发送键上。而 xo 这个词，正是她母亲上次来信里那个让她心碎的落款。
-
-**读者视角提示**：对照第二章母亲那封「十二个词、落款 xo」的信。这一章她把同样的省略用在了 Max 身上。
-
-> **原句 11:** "She recognizes Elisabeth instantly. It’s her daughter’s back, her legs, her hair. Catherine’s heart reaches forward, but she doesn’t say anything. Somehow, she knows not to. Not yet."
+> **原句 10:** "She recognizes Elisabeth instantly. It’s her daughter’s back, her legs, her hair. Catherine’s heart reaches forward, but she doesn’t say anything. Somehow, she knows not to. Not yet."
 
 **中文理解**：她一眼就认出了 Elisabeth。那是她女儿的背影、她的腿、她的头发。Catherine 的心向前伸出去，但她什么都没说。不知怎么，她知道不该说。还不到时候。
 
@@ -125,7 +115,7 @@ modified: "2026-10-25"
 
 **读者视角提示**：这三十秒的旁观，是她此行最好的时刻。记住它，因为接下来她几乎每一次开口都在破坏它。
 
-> **原句 12:** "“I’ve been waiting for you for hours,” her mom says, “my flight landed at the crack of dawn, but at least I slept on the plane—I took an Ambien—but when I got to my apartment, well, it turns out it isn’t real.”"
+> **原句 11:** "“I’ve been waiting for you for hours,” her mom says, “my flight landed at the crack of dawn, but at least I slept on the plane—I took an Ambien—but when I got to my apartment, well, it turns out it isn’t real.”"
 
 **中文理解**：「我等了你好几个小时，」她妈妈说，「我的航班天刚亮就落地了，好在我在飞机上睡了——我吃了片安眠药——可等我到了我的公寓，结果发现它根本不存在。」
 
@@ -135,7 +125,7 @@ modified: "2026-10-25"
 
 **读者视角提示**：注意她说话的方式：永远是先报细节、再报灾难。此后她越紧张，话越多。
 
-> **原句 13:** "“No, to live my life. You’ve been here for five weeks and I’ve barely heard from you. I wanted to make sure you were alive. I’m your mother!”"
+> **原句 12:** "“No, to live my life. You’ve been here for five weeks and I’ve barely heard from you. I wanted to make sure you were alive. I’m your mother!”"
 
 **中文理解**：「不，是来过我自己的生活。你在这里五个星期了，我几乎没听到你的消息。我想确认你还活着。我是你妈妈！」
 
@@ -145,7 +135,7 @@ modified: "2026-10-25"
 
 **读者视角提示**：这句话她自己也未必相信。留意此后她如何一步步把「我的生活」换成「陪女儿」。
 
-> **原句 14:** "Elisabeth goes to her; she kneels, and puts her head in her mother’s lap. This grown woman, this small child. Everything shifts when her daughter says, “I miss him so much.”"
+> **原句 13:** "Elisabeth goes to her; she kneels, and puts her head in her mother’s lap. This grown woman, this small child. Everything shifts when her daughter says, “I miss him so much.”"
 
 **中文理解**：Elisabeth 走向她；她跪下来，把头放进母亲的膝上。这个成年女人，这个小孩。一切都在女儿说出「我好想他」时改变了。
 
@@ -154,6 +144,16 @@ modified: "2026-10-25"
 **为什么这样写**：This grown woman, this small child 是作者少见的一次直接评注，两个短语并置，不解释哪一个是真的——因为两个都是。而那句「我好想他」，让整章的对峙突然有了共同的对象：她们争的是同一间屋子，痛的是同一个人。作者用一次身体的下跪，结束了这一天的所有谈判。
 
 **读者视角提示**：这是全书母女第一次真正的身体接触。注意它是怎么发生的：不是和解，是共同的哀悼。
+
+> **原句 14:** "“You have something,” Lucas told Catherine in that first class. Because this came after his criticism of Hannah, she knew he didn’t flatter everyone. She was eighteen, in her first year, and he was at least fifteen if not twenty years older than her."
+
+**中文理解**：「你有东西，」Lucas 在第一堂课上对 Catherine 说。因为这话是在他批评 Hannah 之后说的，她知道他并不奉承所有人。她十八岁，大一，而他至少比她大十五岁，说不定二十岁。
+
+**关键词**：Lucas · flatter
+
+**为什么这样写**：三段信息按顺序排：一句赞美、一个证明它可信的对照、一组年龄。作者不写「她被诱惑了」，只写她如何验证这句赞美值得相信——这正是被操控的开端：先给你一个你渴望的确认，再让你自己替它找理由。年龄那句放在最后，读者才后知后觉地算出权力差。
+
+**读者视角提示**：注意「他并不奉承所有人」这个推理。她的信任是经过论证的，这才可怕。
 
 > **原句 15:** "Seb hung the palette on the wall in the kitchen where it remained even now, and it looked beautiful—it was so surprisingly artful, her daughter really did have this innate creativity, even in the way she placed paint on a palette—but every time Catherine looked at it, she felt an excruciating combination of grief and rage—not over Seb, not over her daughter, but towards life itself."
 
