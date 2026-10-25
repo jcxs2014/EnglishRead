@@ -1,0 +1,63 @@
+{
+  "chapter": "ch04",
+  "source": "text/ch04_2_greek_monstrous_bitches_screaming_furi.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "约翰逊指出，公元前五世纪（fifth century BCE）前后，提亚马特、拉玛什图、莉莉图这套「怪物婊」范式从美索不达米亚西传希腊，雅典悲剧家埃斯库罗斯与欧里庇得斯开始对它做个人化的再编码。",
+      "quote": "OVER TIME, the Monstrous Bitch paradigm of Tiamat, Lamashtu, and Lilitu slinks from Mesopotamia westward into Greece. By the time of the great Athenian tragedians, around the fifth century BCE, there is a sustained cultural exploration of the idea of predatory, loudmouthed, infanticidal female seductresses in Greece.",
+      "line": 20,
+      "start": 203,
+      "end": 521
+    },
+    {
+      "fact": "作者主张厄里倪厄斯／复仇女神是连宙斯都受其支配的古老女性暴力力量，即始终潜伏在希腊父权制之下的母权权力。",
+      "quote": "These Furies are the irrepressibly powerful and decidedly female forces of vengeance and violence itself—forces that even Zeus is subject to. I’ll say that again, because it’s important to convey the power these three goddesses were thought to have: Zeus, the patriarch of patriarchs, the divine embodiment of Patriarchy itself in ancient Greece, was subject to their power.",
+      "line": 66,
+      "start": 13325,
+      "end": 13699
+    },
+    {
+      "fact": "克吕泰涅斯特拉趁阿伽门农赤裸泡澡时用一把大而带阳具意味的刀反复刺死他，作者称这场面在雅典观众眼里是对国王的「阉割式」羞辱。",
+      "quote": "Once Agamemnon is in his house, Clytemnestra stabs him to death, in the bath, while he’s naked. Even though it was scripted to be performed offstage, and then reported back in detail to the audience, Agamemnon’s death scene is pointedly emasculating: Clytemnestra repeatedly pierces his body with a large, phallic knife",
+      "line": 48,
+      "start": 8233,
+      "end": 8552
+    },
+    {
+      "fact": "作者认为《俄瑞斯忒亚》与《埃努玛·埃利什》同构：父权宗教与统治的起源故事都建立在杀戮或击败并埋葬更古老的母权秩序之上，埃斯库罗斯把这一点立为戏剧法则，一代之后由欧里庇得斯反复重访。",
+      "quote": "In both the Mesopotamian and Greek traditions, the origin story of male-dominated religion and governance has to do with the slaughter or defeat and eventual burial of an older, matriarchal order. And Aeschylus enshrined that as a dramatic law—one that will be revisited multiple times, one generation later, in the works of Euripides.",
+      "line": 136,
+      "start": 22085,
+      "end": 22420
+    },
+    {
+      "fact": "美狄亚制备毒袍送给科林斯公主，公主一穿上就被烧死，其国王父亲为救她也中毒身亡，伊阿宋因此既得不到公主也继承不到王国。",
+      "quote": "She prepares a poisoned dress, which she presents to the young princess, and which burns the young princess to death when she puts it on; the princess’s kingly father dies from his exposure to the same poison, while trying to save her.",
+      "line": 161,
+      "start": 27019,
+      "end": 27254
+    },
+    {
+      "fact": "作者称美狄亚杀子不是妖魔所为，而是一个凡间女子屠杀自己凡间的孩子；欧里庇得斯由此让「怪物婊」的魔性跨物种，从不朽神魔落到人间女子身上（本章论点转折）。",
+      "quote": "When Medea kills her children, she does so not as a baby-slaying demoness but as a mortal, human woman slaughtering her own mortal, human children. Now, with Euripides’s play, the horrific taint of monstrous magical bitchery has, in effect, jumped species, from immortal gods and demons to mortal human women.",
+      "line": 167,
+      "start": 29235,
+      "end": 29544
+    },
+    {
+      "fact": "《酒神的女信众》里，阿伽维（塞墨勒之妹）被狄俄尼索斯逼疯，亲手把儿子彭透斯从松树上扯下并肢解，作者称这是怀疑狄俄尼索斯神性的代价。",
+      "quote": "he is pulled from the tree by the women—including his own mother, Agave, sister to Semele—who quickly tear him limb from limb. Agave, who had doubted and mocked Semele, has been converted to Dionysus’s mysteries and made to slaughter her own child.",
+      "line": 230,
+      "start": 46169,
+      "end": 46417
+    },
+    {
+      "fact": "拉弥亚早在公元前六世纪（sixth century BCE）即见于文献，是欧里庇得斯一部同名失传剧作的主题，形象为上半身女人、下半身蛇，吞食儿童并引诱男子。",
+      "quote": "Apart from Euripides’s mostly lost play, she is a female monster found in Greek mythology who devours children and seduces men. She appears in literature as early as the sixth century BCE, and she is said to be fearsome to look on, with the upper body of a woman and the lower body of a serpent.",
+      "line": 262,
+      "start": 55456,
+      "end": 55751
+    }
+  ]
+}

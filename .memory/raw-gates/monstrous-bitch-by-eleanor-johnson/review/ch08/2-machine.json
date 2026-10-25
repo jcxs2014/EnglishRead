@@ -1,0 +1,514 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/monstrous-bitch-by-eleanor-johnson/ch08 6 monstrous bitches in the age of enlightenment vampiresses.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/monstrous-bitch-by-eleanor-johnson/text/ch08_6_monstrous_bitches_in_the_age_of_enligh.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "All this business about women being the vehicles for demonic possession or Satanic seduction seemed increasingly far-fet",
+          "ok": true,
+          "pos": 564
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "So the surge of interest in vampirism that gripped nineteenth-century Europe wasn’t new but rather a revival and revisio",
+          "ok": true,
+          "pos": 1820
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Although she’s early, Oneiza isn’t actually the earliest vampiress to appear in eighteenth- or nineteenth-century Europe",
+          "ok": true,
+          "pos": 3291
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "With that move, Goethe helps lock in the second most important character trait of the vampire, after the bloodsucking tr",
+          "ok": true,
+          "pos": 6235
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "In fact, Coleridge takes that idea and amplifies it, making Geraldine interested not just in killing pregnant women but ",
+          "ok": true,
+          "pos": 6941
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Yes, we are living through that story again, but this time we see it largely from the point of view of the lamia, not th",
+          "ok": true,
+          "pos": 12694
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "In her restored role as lady of the house, Brunhilda proves capricious and imperious. Plus, she has the awkward habit of",
+          "ok": true,
+          "pos": 15062
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "But the difference, alluded to by the title of his story, is crucial. This new generation of Monstrous Bitch—the Vampire",
+          "ok": true,
+          "pos": 19950
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Sheridan Le Fanu’s Carmilla is, unequivocally, a work of lesbian erotic fiction. The fact that the sapphic ecstasy is pa",
+          "ok": true,
+          "pos": 30374
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "So the vampire fever of the nineteenth century in Europe didn’t invent anything; it simply resurrected in her pure form ",
+          "ok": true,
+          "pos": 35712
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "But an important word of interpretive caution here: These narratives about vampiresses are not, generally speaking, “fem",
+          "ok": true,
+          "pos": 36530
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Second, with the rise of vampiresses, we find that Monstrous Bitches don’t as commonly slaughter pregnant women, fetuses",
+          "ok": true,
+          "pos": 38158
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Male doctors could now see what miscarriage looked like, could (and did) vivisect women during their pregnancies and dis",
+          "ok": true,
+          "pos": 39877
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Famously, Mary Wollstonecraft, renowned feminist, revolutionary, and author of A Vindication of the Rights of Woman (179",
+          "ok": true,
+          "pos": 40790
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "To help answer these questions and to help reimagine the nonhumanity of women, Patriarchy will now have at its disposal ",
+          "ok": true,
+          "pos": 43523
+        }
+      ],
+      "words": 70
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 71,
+        "句子结构": 63,
+        "关键词": 0,
+        "表达方式": 67,
+        "为什么这样写": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "句子结构": 0.81,
+        "关键词": 0.0,
+        "表达方式": 0.84,
+        "为什么这样写": 0.86
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 70,
+        "句子结构": 61,
+        "关键词": 0,
+        "表达方式": 51,
+        "为什么这样写": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "句子结构": 0.86,
+        "关键词": 0.0,
+        "表达方式": 0.84,
+        "为什么这样写": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 100,
+        "句子结构": 51,
+        "关键词": 0,
+        "表达方式": 76,
+        "为什么这样写": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.81,
+        "关键词": 0.0,
+        "表达方式": 0.9,
+        "为什么这样写": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 69,
+        "句子结构": 49,
+        "关键词": 0,
+        "表达方式": 69,
+        "为什么这样写": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.78,
+        "关键词": 0.0,
+        "表达方式": 0.87,
+        "为什么这样写": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 72,
+        "句子结构": 50,
+        "关键词": 0,
+        "表达方式": 76,
+        "为什么这样写": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.76,
+        "关键词": 0.0,
+        "表达方式": 0.88,
+        "为什么这样写": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 98,
+        "句子结构": 53,
+        "关键词": 0,
+        "表达方式": 64,
+        "为什么这样写": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.84,
+        "关键词": 0.0,
+        "表达方式": 0.9,
+        "为什么这样写": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 70,
+        "句子结构": 51,
+        "关键词": 0,
+        "表达方式": 69,
+        "为什么这样写": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.81,
+        "关键词": 0.0,
+        "表达方式": 0.87,
+        "为什么这样写": 0.93
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 91,
+        "句子结构": 63,
+        "关键词": 0,
+        "表达方式": 75,
+        "为什么这样写": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "句子结构": 0.81,
+        "关键词": 0.0,
+        "表达方式": 0.9,
+        "为什么这样写": 0.91
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 85,
+        "句子结构": 64,
+        "关键词": 0,
+        "表达方式": 65,
+        "为什么这样写": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "句子结构": 0.8,
+        "关键词": 0.0,
+        "表达方式": 0.94,
+        "为什么这样写": 0.92
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 86,
+        "句子结构": 55,
+        "关键词": 0,
+        "表达方式": 64,
+        "为什么这样写": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.95,
+        "句子结构": 0.87,
+        "关键词": 0.0,
+        "表达方式": 0.82,
+        "为什么这样写": 0.95
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 109,
+        "句子结构": 63,
+        "关键词": 0,
+        "表达方式": 69,
+        "为什么这样写": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.83,
+        "关键词": 0.0,
+        "表达方式": 0.85,
+        "为什么这样写": 0.94
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 72,
+        "句子结构": 65,
+        "关键词": 0,
+        "表达方式": 68,
+        "为什么这样写": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "句子结构": 0.81,
+        "关键词": 0.0,
+        "表达方式": 0.89,
+        "为什么这样写": 0.95
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 62,
+        "句子结构": 60,
+        "关键词": 0,
+        "表达方式": 49,
+        "为什么这样写": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "句子结构": 0.8,
+        "关键词": 0.0,
+        "表达方式": 0.92,
+        "为什么这样写": 0.91
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 97,
+        "句子结构": 57,
+        "关键词": 0,
+        "表达方式": 61,
+        "为什么这样写": 81
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.84,
+        "关键词": 0.0,
+        "表达方式": 0.91,
+        "为什么这样写": 0.94
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 124,
+        "句子结构": 63,
+        "关键词": 0,
+        "表达方式": 66,
+        "为什么这样写": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "句子结构": 0.89,
+        "关键词": 0.0,
+        "表达方式": 0.89,
+        "为什么这样写": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. 6. Monstrous Bitches in the Age of Enlightenment: Vampiresses（启蒙时代的怪物母狗：吸血鬼女怪）",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 15,
+    "block_median": 15,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 7243,
+    "block_target": [
+      13,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 12 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

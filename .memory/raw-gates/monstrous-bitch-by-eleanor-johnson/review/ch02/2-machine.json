@@ -1,0 +1,369 @@
+{
+  "chapter": 2,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/monstrous-bitch-by-eleanor-johnson/ch02 introduction.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/monstrous-bitch-by-eleanor-johnson/text/ch02_introduction.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Point mutations are genetic glitches that arise in an organism spontaneously but wind up being adaptively advantageous i",
+          "ok": true,
+          "pos": 339
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Each of these changes—the coalescence of early Mediterranean Patriarchy, the rise of Romanitas, the spread of Western Ch",
+          "ok": true,
+          "pos": 1880
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "What do I mean by calling her that—a bitch? Why use that word? Well, first, I want to highlight and defamiliarize the ra",
+          "ok": true,
+          "pos": 2292
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The association between evil femaleness and doglikeness goes back about four thousand years: Depictions of female monste",
+          "ok": true,
+          "pos": 3344
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The Monstrous Bitch has been demonized for thousands of years for exactly the things that so many women—in the United St",
+          "ok": true,
+          "pos": 5532
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Manifesting that shift, a new religious tradition arises, which focuses on the slaying of one exceptionally important Mo",
+          "ok": true,
+          "pos": 7457
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The witch fever that we know and love/hate from the early modern period, including but not limited to actual witch trial",
+          "ok": true,
+          "pos": 11881
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Psychoanalysis and medicine seek to turn the Monstrous Bitch paradigm from something divine, demonic, witchy, vampiric, ",
+          "ok": true,
+          "pos": 15017
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "This is the glitch of glitches, in the evolutionary history of the Monstrous Bitch—the moment and medium in which the Mo",
+          "ok": true,
+          "pos": 17014
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Since Patriarchy couldn’t get rid of those things—particularly sex and reproduction—and still function, it had to find w",
+          "ok": true,
+          "pos": 21630
+        }
+      ],
+      "words": 65
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 66,
+        "句子结构": 66,
+        "关键词": 0,
+        "表达方式": 60,
+        "为什么这样写": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.72,
+        "关键词": 0.0,
+        "表达方式": 0.71,
+        "为什么这样写": 0.92
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 57,
+        "句子结构": 53,
+        "关键词": 0,
+        "表达方式": 72,
+        "为什么这样写": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "句子结构": 0.8,
+        "关键词": 0.0,
+        "表达方式": 0.94,
+        "为什么这样写": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 68,
+        "句子结构": 54,
+        "关键词": 0,
+        "表达方式": 58,
+        "为什么这样写": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "句子结构": 0.56,
+        "关键词": 0.0,
+        "表达方式": 0.76,
+        "为什么这样写": 0.92
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 74,
+        "句子结构": 72,
+        "关键词": 0,
+        "表达方式": 54,
+        "为什么这样写": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "句子结构": 0.91,
+        "关键词": 0.0,
+        "表达方式": 0.79,
+        "为什么这样写": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 64,
+        "句子结构": 51,
+        "关键词": 0,
+        "表达方式": 50,
+        "为什么这样写": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.89,
+        "关键词": 0.0,
+        "表达方式": 0.81,
+        "为什么这样写": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 78,
+        "句子结构": 66,
+        "关键词": 0,
+        "表达方式": 57,
+        "为什么这样写": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.63,
+        "关键词": 0.0,
+        "表达方式": 0.92,
+        "为什么这样写": 0.92
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 82,
+        "句子结构": 56,
+        "关键词": 0,
+        "表达方式": 45,
+        "为什么这样写": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "句子结构": 0.67,
+        "关键词": 0.0,
+        "表达方式": 0.54,
+        "为什么这样写": 0.93
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 68,
+        "句子结构": 61,
+        "关键词": 0,
+        "表达方式": 55,
+        "为什么这样写": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "句子结构": 0.7,
+        "关键词": 0.0,
+        "表达方式": 0.8,
+        "为什么这样写": 0.91
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 58,
+        "句子结构": 52,
+        "关键词": 0,
+        "表达方式": 61,
+        "为什么这样写": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.69,
+        "关键词": 0.0,
+        "表达方式": 0.94,
+        "为什么这样写": 0.9
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 93,
+        "句子结构": 69,
+        "关键词": 0,
+        "表达方式": 51,
+        "为什么这样写": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.77,
+        "关键词": 0.0,
+        "表达方式": 0.85,
+        "为什么这样写": 0.92
+      }
+    }
+  ],
+  "form": {
+    "h1": "02. Introduction（引言）",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 10,
+    "block_median": 15,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4178,
+    "block_target": [
+      8,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 12 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

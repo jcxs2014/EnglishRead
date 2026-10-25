@@ -1,0 +1,63 @@
+{
+  "chapter": "ch09",
+  "source": "text/ch09_7_crazy_bitches_of_the_1940s_and_1950s.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "1930 年代美国女性劳动力参与率因大萧条上升约 25%，二战期间进一步加速：1940 年女性占美国劳动力 27%，到 1945 年升至 37%。",
+      "quote": "That trend continued through the 1940s, accelerated by the need to replace men’s labor during the Second World War: In 1940, women made up 27 percent of the US labor force; by 1945, that figure was up to 37 percent",
+      "line": 25,
+      "start": 1719,
+      "end": 1933
+    },
+    {
+      "fact": "1930–1960 年间精神分析在美国走红，Freud 关于女性天生被动、受虐、自恋的信念被临床医生当作现代心理学铁律，与女性大量进入职场形成撕扯。",
+      "quote": "between 1930 and 1960, psychoanalysis was gaining popularity, and women underwent the talking cure in greater and greater numbers. Men did, too, but Freud’s increasingly popular beliefs about women were especially powerful and insidious: He held that women were constitutionally passive, masochistic, and narcissistic",
+      "line": 34,
+      "start": 4225,
+      "end": 4542
+    },
+    {
+      "fact": "1936 年《Dracula's Daughter》中，吸血鬼 Marya Zaleska 把自身的怪物性当作可治之病，主动向精神分析师 Dr. Jeffrey Garth 求“治愈”。",
+      "quote": "By contrast, Marya wants to cure herself of the supernatural monstrosity she holds within her. She wants to get “well”; she understands her vampirism, then, as a disease, something she can perhaps treat with science and medicine. So she seeks help from a psychoanalyst named Dr. Jeffrey Garth",
+      "line": 56,
+      "start": 9377,
+      "end": 9669
+    },
+    {
+      "fact": "《Cat People》(1942) 中性侵未遂的精神科医生 Dr. Judd 被 Irena 变豹杀死，她自己随后被同类所杀；《Captive Wild Woman》(1943) 中 Paula 杀死医生 Sigmund 后被警察击毙。",
+      "quote": "The sexually assaultive Dr. Judd is murdered by Irena the were-pantheress, in self-defense, before she herself is murdered by one of her own species. Paula gets shot by the police after killing evil doctor Sigmund",
+      "line": 263,
+      "start": 53066,
+      "end": 53279
+    },
+    {
+      "fact": "1956 年《The She-Creature》中，杂耍班主 Lombardi 催眠 Andrea 召来海中女怪，Andrea 因爱上教授 Ted 而挣脱控制，女怪转而杀死 Lombardi。",
+      "quote": "In the end, Andrea’s soul is able at last to resist Lombardi because she has fallen in love with Ted. Her love of him allows her to resist Lombardi’s hypnosis enough that the She-Creature can choose not to be in his thrall anymore, killing him instead of killing for him",
+      "line": 145,
+      "start": 32705,
+      "end": 32975
+    },
+    {
+      "fact": "1957 年《Voodoo Woman》中，白人医生 Gerard（Tom Conway 饰）把被改造的 Zuranda 带进地下实验室继续实验，作者称这等于把 Tiamat 再次拖入地下。",
+      "quote": "The predatory white doctor, named Gerard (Tom Conway, also a cast member from The She-Creature), takes Zuranda to his underground lab for further experimentation. Once she’s underground, the film’s resonance with ancient narratives of Monstrous Bitchery becomes yet more palpable: In effect, the doctor is dragging Tiamat underground again, at least for now.",
+      "line": 178,
+      "start": 38527,
+      "end": 38885
+    },
+    {
+      "fact": "1959 年《The Wasp Woman》中，注射蜂王浆血清变成吸血黄蜂的女老板 Janice Starlin 被 Zinthrop 泼碳酸毁容、跌下阳台身亡。",
+      "quote": "In the end, Janice Starlin—the Wasp Woman—dies, having fallen blindly from a balcony when Zinthrop throws a jar of carbolic acid into her face. We even see her steaming, smoking, disfigured carcass on the sidewalk for a moment before the film ends.",
+      "line": 249,
+      "start": 50872,
+      "end": 51120
+    },
+    {
+      "fact": "本章转折点：作者指出 1940 年代影片多把女性与动物混合，1950 年代则多与深海古老恶魔混合，而恶魔比大猩猩、豹乃至吸血鬼更难杀死。",
+      "quote": "Part of the reason is that, whereas the films of the 1940s usually hybridized human women with animals, the films of the 1950s often hybridized them with ancient demons from the deep, and it’s quite a lot harder to kill a demoness than it is to kill a gorilla, panther, or even vampiress.",
+      "line": 118,
+      "start": 27792,
+      "end": 28080
+    }
+  ]
+}

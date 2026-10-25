@@ -1,0 +1,514 @@
+{
+  "chapter": 12,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/monstrous-bitch-by-eleanor-johnson/ch12 10 monstrous bitches bite back.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/monstrous-bitch-by-eleanor-johnson/text/ch12_10_monstrous_bitches_bite_back.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "They are playing at vampirism, playing at murder, playing at being creatures of the night, playing at being witches. The",
+          "ok": true,
+          "pos": 676
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "On the way home from their jaunt, a massive doglike creature starts pursuing them. They almost get away, but Ginger gets",
+          "ok": true,
+          "pos": 1111
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "As in Werewolf Woman, so here: You can’t kill the Monstrous Bitch within, even if you kill one particular instantiation ",
+          "ok": true,
+          "pos": 6306
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "They do this because they want their rock band to become internationally famous, and they believe that by offering Jenni",
+          "ok": true,
+          "pos": 7478
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Now this is interesting. Jennifer’s origin story as a Monstrous Bitch is one of gang rape framed as demonic possession. ",
+          "ok": true,
+          "pos": 10258
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Jennifer and Needy are thus the Laura and Carmilla of the twenty-first century, bound by blood and forbidden love. But w",
+          "ok": true,
+          "pos": 10763
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "This is a film in which—to use modern terminology—cannibalism is a sex-linked, autosomal-dominant trait in female childr",
+          "ok": true,
+          "pos": 14349
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "On the one hand, Monstrous Bitches in Raw come by their monstrosity through a matrilinear process of inheritance; monstr",
+          "ok": true,
+          "pos": 15506
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "But she’s also saying, Monstrous Bitchery is also caused by the forcible violation of women’s bodies by a patriarchal or",
+          "ok": true,
+          "pos": 16882
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "With no thought to the physical safety or wishes of his wife and four children, he says, “Katherine,” beckoning his wife",
+          "ok": true,
+          "pos": 21987
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "But this magnificent film is going to go out of its way to show how she—the wicked witch of the woods—is given power and",
+          "ok": true,
+          "pos": 25033
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Thomasin, in this film, goes from being a victim of Patriarchy to being its opponent. Even in the moment of her transcen",
+          "ok": true,
+          "pos": 39431
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Guadagnino realizes “the undead mother” idea is a nugget of pure Monstrous Bitch gold and runs with it. He does this in ",
+          "ok": true,
+          "pos": 40625
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "It’s more one of waking up, coming to a new consciousness, but it’s not one of mirth, laughter, or any kind of facile pe",
+          "ok": true,
+          "pos": 52107
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "To varying degrees, that’s true in Ginger Snaps, Raw, Suspiria, The Witch, and Jennifer’s Body. But something really has",
+          "ok": true,
+          "pos": 53191
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 71,
+        "句子结构": 75,
+        "关键词": 0,
+        "表达方式": 66,
+        "为什么这样写": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "句子结构": 0.49,
+        "关键词": 0.0,
+        "表达方式": 0.9,
+        "为什么这样写": 0.91
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 69,
+        "句子结构": 51,
+        "关键词": 0,
+        "表达方式": 77,
+        "为什么这样写": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.42,
+        "关键词": 0.0,
+        "表达方式": 0.64,
+        "为什么这样写": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 98,
+        "句子结构": 65,
+        "关键词": 0,
+        "表达方式": 66,
+        "为什么这样写": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "句子结构": 0.44,
+        "关键词": 0.0,
+        "表达方式": 0.88,
+        "为什么这样写": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 96,
+        "句子结构": 76,
+        "关键词": 0,
+        "表达方式": 65,
+        "为什么这样写": 89
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.49,
+        "关键词": 0.0,
+        "表达方式": 0.87,
+        "为什么这样写": 0.9
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 81,
+        "句子结构": 68,
+        "关键词": 0,
+        "表达方式": 78,
+        "为什么这样写": 80
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "句子结构": 0.4,
+        "关键词": 0.0,
+        "表达方式": 0.88,
+        "为什么这样写": 0.9
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 90,
+        "句子结构": 55,
+        "关键词": 0,
+        "表达方式": 82,
+        "为什么这样写": 83
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.4,
+        "关键词": 0.0,
+        "表达方式": 0.88,
+        "为什么这样写": 0.9
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 82,
+        "句子结构": 64,
+        "关键词": 0,
+        "表达方式": 75,
+        "为什么这样写": 74
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "句子结构": 0.48,
+        "关键词": 0.0,
+        "表达方式": 0.9,
+        "为什么这样写": 0.86
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 125,
+        "句子结构": 80,
+        "关键词": 0,
+        "表达方式": 82,
+        "为什么这样写": 82
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.49,
+        "关键词": 0.0,
+        "表达方式": 0.92,
+        "为什么这样写": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 92,
+        "句子结构": 92,
+        "关键词": 0,
+        "表达方式": 92,
+        "为什么这样写": 82
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "句子结构": 0.58,
+        "关键词": 0.0,
+        "表达方式": 0.86,
+        "为什么这样写": 0.88
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 93,
+        "句子结构": 67,
+        "关键词": 0,
+        "表达方式": 79,
+        "为什么这样写": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.44,
+        "关键词": 0.0,
+        "表达方式": 0.91,
+        "为什么这样写": 0.89
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 66,
+        "句子结构": 45,
+        "关键词": 0,
+        "表达方式": 72,
+        "为什么这样写": 81
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "句子结构": 0.26,
+        "关键词": 0.0,
+        "表达方式": 0.71,
+        "为什么这样写": 0.88
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 87,
+        "句子结构": 66,
+        "关键词": 0,
+        "表达方式": 58,
+        "为什么这样写": 74
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.33,
+        "关键词": 0.0,
+        "表达方式": 0.6,
+        "为什么这样写": 0.89
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 69,
+        "句子结构": 55,
+        "关键词": 0,
+        "表达方式": 74,
+        "为什么这样写": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.3,
+        "关键词": 0.0,
+        "表达方式": 0.86,
+        "为什么这样写": 0.83
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 87,
+        "句子结构": 36,
+        "关键词": 0,
+        "表达方式": 73,
+        "为什么这样写": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.23,
+        "关键词": 0.0,
+        "表达方式": 0.74,
+        "为什么这样写": 0.94
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 74,
+        "句子结构": 67,
+        "关键词": 0,
+        "表达方式": 76,
+        "为什么这样写": 74
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "句子结构": 0.42,
+        "关键词": 0.0,
+        "表达方式": 0.85,
+        "为什么这样写": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. 10. Monstrous Bitches Bite Back（怪物母狗回咬）",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 15,
+    "block_median": 15,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 9238,
+    "block_target": [
+      17,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 12 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

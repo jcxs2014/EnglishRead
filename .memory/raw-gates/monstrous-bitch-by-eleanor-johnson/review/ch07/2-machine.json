@@ -1,0 +1,514 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/monstrous-bitch-by-eleanor-johnson/ch07 5 the season of the witch dramatically questioning witch ideology.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/monstrous-bitch-by-eleanor-johnson/text/ch07_5_the_season_of_the_witch_dramatically_q.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "For now, we’ll turn to see how a cluster of dramatists writing in English in the seventeenth century drilled into the de",
+          "ok": true,
+          "pos": 521
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Sometimes speaking discrete lines, sometimes sharing lines, and sometimes speaking in unison, they form a ghastly, unhol",
+          "ok": true,
+          "pos": 1103
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "This idea of the thickening of blood and the stopping up of passages invokes the idea of menopause; she’s willing her bo",
+          "ok": true,
+          "pos": 4089
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "In rejecting norms of female reproductive behavior outright, Lady Macbeth aligns herself with popular notions about witc",
+          "ok": true,
+          "pos": 5697
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I have given suck”: We know she and Macbeth have had at least one child, and yet we also know that they have no heirs r",
+          "ok": true,
+          "pos": 6883
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "When we encounter the three weird sisters again later in the play, they’re with their boss, Hecate, the female Greek div",
+          "ok": true,
+          "pos": 11033
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Here was a problem: If Robert had a functional penis but hadn’t been able to perform with Frances—his highly desirable w",
+          "ok": true,
+          "pos": 16393
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "In the end, the witches in the play don’t get executed, nor even apprehended and tried for their witchy crimes. The reas",
+          "ok": true,
+          "pos": 19353
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "This, to me, is the most fascinating part of the tale: By claiming that she nursed Satan in his dog form, the widow Sawy",
+          "ok": true,
+          "pos": 24013
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The three dramatists who wrote this play are explicitly recognizing that the practice of witchcraft just might possibly ",
+          "ok": true,
+          "pos": 27083
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "It used to be, says Mama Sawyer, that people treated old women with reverence. Now, a poor, old woman will be dehumanize",
+          "ok": true,
+          "pos": 31393
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "When you want to counter patriarchal practices—such as witch-hunting—you have to use the discourses of power that have t",
+          "ok": true,
+          "pos": 39499
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "One of the most important claims Hutchinson makes is this innocent-seeming little one: “Things odd and unaccountable are",
+          "ok": true,
+          "pos": 41631
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "An eighteenth-century minister is explicitly talking about domestic battery, verbal violence, coercion, manipulation, an",
+          "ok": true,
+          "pos": 45260
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Accusations and trials stopped happening, as did executions. People didn’t believe in witches that much anymore, or if t",
+          "ok": true,
+          "pos": 47730
+        }
+      ],
+      "words": 44
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 90,
+        "句子结构": 147,
+        "关键词": 0,
+        "表达方式": 72,
+        "为什么这样写": 108
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "句子结构": 0.86,
+        "关键词": 0.0,
+        "表达方式": 0.83,
+        "为什么这样写": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 88,
+        "句子结构": 89,
+        "关键词": 0,
+        "表达方式": 71,
+        "为什么这样写": 117
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.8,
+        "关键词": 0.0,
+        "表达方式": 0.92,
+        "为什么这样写": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 87,
+        "句子结构": 100,
+        "关键词": 0,
+        "表达方式": 76,
+        "为什么这样写": 127
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "句子结构": 0.84,
+        "关键词": 0.0,
+        "表达方式": 0.9,
+        "为什么这样写": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 96,
+        "句子结构": 109,
+        "关键词": 0,
+        "表达方式": 81,
+        "为什么这样写": 137
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.87,
+        "关键词": 0.0,
+        "表达方式": 0.89,
+        "为什么这样写": 0.86
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 66,
+        "句子结构": 103,
+        "关键词": 0,
+        "表达方式": 78,
+        "为什么这样写": 122
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "句子结构": 0.8,
+        "关键词": 0.0,
+        "表达方式": 0.84,
+        "为什么这样写": 0.9
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 83,
+        "句子结构": 98,
+        "关键词": 0,
+        "表达方式": 92,
+        "为什么这样写": 133
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "句子结构": 0.8,
+        "关键词": 0.0,
+        "表达方式": 0.9,
+        "为什么这样写": 0.86
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 87,
+        "句子结构": 120,
+        "关键词": 0,
+        "表达方式": 71,
+        "为什么这样写": 132
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "句子结构": 0.83,
+        "关键词": 0.0,
+        "表达方式": 0.91,
+        "为什么这样写": 0.87
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 53,
+        "句子结构": 95,
+        "关键词": 0,
+        "表达方式": 69,
+        "为什么这样写": 122
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "句子结构": 0.86,
+        "关键词": 0.0,
+        "表达方式": 0.87,
+        "为什么这样写": 0.89
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 116,
+        "句子结构": 114,
+        "关键词": 0,
+        "表达方式": 88,
+        "为什么这样写": 127
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.86,
+        "关键词": 0.0,
+        "表达方式": 0.88,
+        "为什么这样写": 0.89
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 99,
+        "句子结构": 105,
+        "关键词": 0,
+        "表达方式": 78,
+        "为什么这样写": 122
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "句子结构": 0.83,
+        "关键词": 0.0,
+        "表达方式": 0.85,
+        "为什么这样写": 0.87
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 88,
+        "句子结构": 92,
+        "关键词": 0,
+        "表达方式": 83,
+        "为什么这样写": 122
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "句子结构": 0.65,
+        "关键词": 0.0,
+        "表达方式": 0.92,
+        "为什么这样写": 0.91
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 79,
+        "句子结构": 92,
+        "关键词": 0,
+        "表达方式": 72,
+        "为什么这样写": 128
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "句子结构": 0.82,
+        "关键词": 0.0,
+        "表达方式": 0.88,
+        "为什么这样写": 0.91
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 88,
+        "句子结构": 97,
+        "关键词": 0,
+        "表达方式": 84,
+        "为什么这样写": 122
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "句子结构": 0.82,
+        "关键词": 0.0,
+        "表达方式": 0.89,
+        "为什么这样写": 0.85
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 119,
+        "句子结构": 104,
+        "关键词": 0,
+        "表达方式": 65,
+        "为什么这样写": 136
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.79,
+        "关键词": 0.0,
+        "表达方式": 0.9,
+        "为什么这样写": 0.94
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 80,
+        "句子结构": 111,
+        "关键词": 0,
+        "表达方式": 85,
+        "为什么这样写": 117
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.82,
+        "关键词": 0.0,
+        "表达方式": 0.89,
+        "为什么这样写": 0.91
+      }
+    }
+  ],
+  "form": {
+    "h1": "07. 5. The Season of the Witch: Dramatically Questioning Witch Ideology（女巫的季节：在戏剧中质疑女巫意识形态）",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 15,
+    "block_median": 15,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 8043,
+    "block_target": [
+      15,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 12 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

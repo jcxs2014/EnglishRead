@@ -1,0 +1,63 @@
+{
+  "chapter": "ch08",
+  "source": "text/ch08_6_monstrous_bitches_in_the_age_of_enligh.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "十八世纪中叶猎巫已决定性退潮：Francis Hutchinson 等人的理性主义与启蒙经验主义把「女人是魔鬼附体/撒旦引诱工具」的说法挤出视野，女巫在意识形态上到十九世纪初基本消失，吸血鬼准备接棒（约 1800 年前后在欧洲兴起）。",
+      "quote": "witch fever had decisively petered out, crushed in no small part by the rationalism of specific individual people like Francis Hutchinson and the playwrights who depicted and debunked witchcraft in the seventeenth-century theater",
+      "line": 20,
+      "start": 168,
+      "end": 397
+    },
+    {
+      "fact": "1797 年歌德与柯勒律治各写了一个吸血鬼女郎故事，柯勒律治 1800 年补完《克丽斯德贝尔》第二部，比 Southey 的《Thalaba the Destroyer》(1801) 早一年；歌德的《科林斯的新娘》以 Phlegon of Tralles 二世纪《Book of Marvels》为本。",
+      "quote": "In 1797, Goethe and Coleridge each wrote a sexy Monstrous Bitch narrative about a horrifying vampiress; Coleridge finished the second part of his poem in 1800, thus beating Southey by a year.",
+      "line": 36,
+      "start": 4107,
+      "end": 4298
+    },
+    {
+      "fact": "歌德《科林斯的新娘》(1797)里是女吸血鬼主动引诱：她深夜主动追求青年，青年爱上她，午夜交换礼物，她只喝血红的酒、他一祈祷她就退缩，抱起来冰一样冷、胸中心脏不跳，靠他的体温取暖。",
+      "quote": "This woman courts him; he falls for her. They exchange gifts at midnight, and he notes that she only drinks blood-red wine and that she shrinks back from him when he prays.",
+      "line": 36,
+      "start": 4590,
+      "end": 4762
+    },
+    {
+      "fact": "柯勒律治《克丽斯德贝尔》(1797/1800) 的 Geraldine 不看青年男子而专挑育龄年轻女子：她先赶走 Christabel 母亲的鬼魂，再向 Christabel 露出乳房，两人脱衣同床，用双臂把她锁成监狱、对她「遂其所愿」。",
+      "quote": "Christabel and Geraldine both strip and climb into Christabel’s bed. Geraldine clasps Christabel, making a prison of her arms, and has her “will” of Christabel.",
+      "line": 51,
+      "start": 9302,
+      "end": 9462
+    },
+    {
+      "fact": "济慈《拉弥亚》(1819) 把蛇女拉弥亚写成明明白白的 lamia：她与 Lycius 在科林斯同居成婚，婚礼上不请自来的哲学家 Apollonius 像一千五百年前的 Philostratus 那样当众点破她是怪物，她便当场消失。",
+      "quote": "Eventually, just as had Philostratus’s Apollonius fifteen hundred years before, Keats’s Apollonius calls Lamia out as a monster, and she vanishes.",
+      "line": 72,
+      "start": 13413,
+      "end": 13559
+    },
+    {
+      "fact": "1823 年 Ernst Raupach 写《别惊醒死者》：Walter 在墓地求巫师复活亡妻 Brunhilda，复活后的她专把健康孩童诱进密室吸其血，最终化为巨蛇把 Walter 整个吞下——她是被 Walter 的欲望造出来的怪物。",
+      "quote": "Whenever she beheld some innocent child whose lovely face showed the exuberance of infant health and vigor, she would entice it by soothing words and fond caresses into her most secret apartment, where, lulling it to sleep in her arms, she would suck from its bosom some of the warm, purple tide of life",
+      "line": 83,
+      "start": 16277,
+      "end": 16580
+    },
+    {
+      "fact": "1872 年 Sheridan Le Fanu 的《卡米拉》以 Coleridge 的《克丽斯德贝尔》为源：Carmilla（即 Millarca）夜夜引诱 Laura，把吸血与女同性恋快感写成同一件事，最后被追到墓中棺材里钉桩、斩首，大量血涌出。",
+      "quote": "Carmilla/Millarca is then hunted down and discovered in a state of suspended animation in a coffin in a grave. There, she is staked and decapitated, so that a huge river of blood proceeds from her now-truly-dead body.",
+      "line": 143,
+      "start": 30081,
+      "end": 30298
+    },
+    {
+      "fact": "本章转折点（「吸血鬼神学」）：作者主张启蒙（约 1685–1815）让基督教失去作为解释现实的支配性地位，须与魔鬼缔约的活人女巫随之死亡，取而代之的是更自主、更超自然、从坟墓里回来的亡者吸血鬼女郎——吸血鬼故事把圣餐饮血得永生的惊奇翻成对永生不死的恐惧。",
+      "quote": "Deep into the Enlightenment, which is conventionally understood to run from about 1685 to 1815, Christianity was under pressure as the dominant, unassailable core belief structure in Europe. This was a hundred years, after all, into the era in which Hutchinson systematically tore down the idea of Satanically inspired witchcraft on rational grounds.",
+      "line": 160,
+      "start": 33240,
+      "end": 33590
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "chapter": 13,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/monstrous-bitch-by-eleanor-johnson/ch13 11 back to babylon.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/monstrous-bitch-by-eleanor-johnson/text/ch13_11_back_to_babylon.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Reproductive rights are under profound threat, which will only bring back Lamashtu in her worst and most frightening for",
+          "ok": true,
+          "pos": 550
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Long ago, when Lamashtu killed women, fetuses, babies, and children, it was because medical care didn’t exist. Now, it’s",
+          "ok": true,
+          "pos": 1039
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Is it wealth inequality? Is it the phenomenon by which women vote against their own rights and liberties, electing offic",
+          "ok": true,
+          "pos": 2149
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "These two films—which seem miles apart within the capacious boundaries of horror about Monstrous Bitches—are intimately ",
+          "ok": true,
+          "pos": 2856
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "What, the film asks, do we inherit simply by being women? The film’s answer, as we’ll see, is that we inherit Monstrous ",
+          "ok": true,
+          "pos": 4930
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Annie’s mother, Ellen, was apparently hyperinvolved in Annie’s reproductive life. Annie talks about how her mother had b",
+          "ok": true,
+          "pos": 6257
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "So this history works exactly as the real history of Monstrous Bitchery works: Whether we are aware of it or not, the Mo",
+          "ok": true,
+          "pos": 7931
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Annie fulfills the traditional invective-hurling, oath-swearing, curse-casting role of the Monstrous Bitch that goes bac",
+          "ok": true,
+          "pos": 9512
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Like mother, like daughter: The women of this family are brutal, unstable, manipulative, cruel, dehumanizing spellcaster",
+          "ok": true,
+          "pos": 11741
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "This film, in a way, breaks the trend of the twenty-first century wherein the Monstrous Bitches bite back. Here, it seem",
+          "ok": true,
+          "pos": 14082
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "A film that seems to be about heritable Monstrous Bitchery in the female line winds up loudly confirming that Monstrous ",
+          "ok": true,
+          "pos": 16888
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Instead, it’s that Elisabeth splits into two selves—her true, older self and a new, younger self. At any one time, one o",
+          "ok": true,
+          "pos": 18174
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "This is, to my eye, the pinnacle of Fargeat’s brilliance in this film: Elisasue literally embodies the countless prior M",
+          "ok": true,
+          "pos": 25514
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Indeed, throughout her tenure as priestess to the temples of An and Nanna, Enheduanna deepened her profound devotion to ",
+          "ok": true,
+          "pos": 33833
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Instead, like you, I’ve grown up in a world in which women have been demonized for thousands of years, and in which they",
+          "ok": true,
+          "pos": 44862
+        }
+      ],
+      "words": 40
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 111,
+        "句子结构": 73,
+        "关键词": 0,
+        "表达方式": 84,
+        "为什么这样写": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "句子结构": 0.78,
+        "关键词": 0.0,
+        "表达方式": 0.91,
+        "为什么这样写": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 60,
+        "句子结构": 33,
+        "关键词": 0,
+        "表达方式": 58,
+        "为什么这样写": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.5,
+        "关键词": 0.0,
+        "表达方式": 0.89,
+        "为什么这样写": 0.94
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 117,
+        "句子结构": 82,
+        "关键词": 0,
+        "表达方式": 89,
+        "为什么这样写": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "句子结构": 0.82,
+        "关键词": 0.0,
+        "表达方式": 0.86,
+        "为什么这样写": 0.9
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 102,
+        "句子结构": 74,
+        "关键词": 0,
+        "表达方式": 61,
+        "为什么这样写": 81
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.73,
+        "关键词": 0.0,
+        "表达方式": 0.81,
+        "为什么这样写": 0.92
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 114,
+        "句子结构": 75,
+        "关键词": 0,
+        "表达方式": 66,
+        "为什么这样写": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.7,
+        "关键词": 0.0,
+        "表达方式": 0.89,
+        "为什么这样写": 0.84
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 97,
+        "句子结构": 78,
+        "关键词": 0,
+        "表达方式": 60,
+        "为什么这样写": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.65,
+        "关键词": 0.0,
+        "表达方式": 0.67,
+        "为什么这样写": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 72,
+        "句子结构": 35,
+        "关键词": 0,
+        "表达方式": 56,
+        "为什么这样写": 74
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "句子结构": 0.3,
+        "关键词": 0.0,
+        "表达方式": 0.89,
+        "为什么这样写": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 76,
+        "句子结构": 60,
+        "关键词": 0,
+        "表达方式": 72,
+        "为什么这样写": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "句子结构": 0.49,
+        "关键词": 0.0,
+        "表达方式": 0.9,
+        "为什么这样写": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 79,
+        "句子结构": 49,
+        "关键词": 0,
+        "表达方式": 63,
+        "为什么这样写": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "句子结构": 0.37,
+        "关键词": 0.0,
+        "表达方式": 0.85,
+        "为什么这样写": 0.88
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 74,
+        "句子结构": 41,
+        "关键词": 0,
+        "表达方式": 59,
+        "为什么这样写": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "句子结构": 0.24,
+        "关键词": 0.0,
+        "表达方式": 0.7,
+        "为什么这样写": 0.84
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 106,
+        "句子结构": 56,
+        "关键词": 0,
+        "表达方式": 73,
+        "为什么这样写": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "句子结构": 0.37,
+        "关键词": 0.0,
+        "表达方式": 0.88,
+        "为什么这样写": 0.85
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 84,
+        "句子结构": 66,
+        "关键词": 0,
+        "表达方式": 66,
+        "为什么这样写": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "句子结构": 0.47,
+        "关键词": 0.0,
+        "表达方式": 0.73,
+        "为什么这样写": 0.86
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 120,
+        "句子结构": 61,
+        "关键词": 0,
+        "表达方式": 63,
+        "为什么这样写": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.45,
+        "关键词": 0.0,
+        "表达方式": 0.88,
+        "为什么这样写": 0.92
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 77,
+        "句子结构": 42,
+        "关键词": 0,
+        "表达方式": 67,
+        "为什么这样写": 91
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.34,
+        "关键词": 0.0,
+        "表达方式": 0.89,
+        "为什么这样写": 0.93
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 63,
+        "句子结构": 53,
+        "关键词": 0,
+        "表达方式": 53,
+        "为什么这样写": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "句子结构": 0.5,
+        "关键词": 0.0,
+        "表达方式": 0.67,
+        "为什么这样写": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "13. 11. Back to Babylon（回到巴比伦）",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 15,
+    "block_median": 15,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 8662,
+    "block_target": [
+      16,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 12 章中位 15、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

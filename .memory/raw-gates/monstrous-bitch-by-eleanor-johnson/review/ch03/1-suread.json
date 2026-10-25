@@ -1,0 +1,63 @@
+{
+  "chapter": "ch03",
+  "source": "text/ch03_1_monstrous_bitches_of_ancient_mesopotam.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "作者主张：约公元前第二千纪初，原本没有绝对首神的横向美索不达米亚万神殿，转为以 Marduk 为唯一主导神的原始一神教，其余诸神自愿臣服于他。",
+      "quote": "Then, somewhere around the beginning of the second millennium BCE, this horizontal pantheon and pandemonium gave way to a proto-monotheistic religion, in which there was one god who was clearly primary and dominant over all the others. This was the god Marduk, who was respected and venerated by all the other gods, who subordinated themselves to him voluntarily.",
+      "line": 26,
+      "start": 2137,
+      "end": 2500
+    },
+    {
+      "fact": "作者称拉玛什图（Lamashtu）最热衷破坏人类生殖：杀死孕妇、从子宫中吸走胎儿、屠杀新生儿，并让幼童患病致死。",
+      "quote": "What pleases Lamashtu most is to tamper with human reproduction: She kills pregnant women, sucks fetuses from wombs, slaughters newborn babies, and sickens and slays young children, often brutally and cruelly.",
+      "line": 37,
+      "start": 4556,
+      "end": 4765
+    },
+    {
+      "fact": "作者依据护符与咒语档案主张：拉玛什图形象在公元前第二千纪初已定型，但针对她的咒语早数百年已存在，因此她比 Marduk 古老得多。",
+      "quote": "Based on the surviving archive of talismans, incantations, and other writings, scholars say that Lamashtu had a clear and consistent character by the early second millennium BCE, but there appear to be incantations directed at her many centuries before that as well—so she’s older than Marduk by a good margin.",
+      "line": 40,
+      "start": 5438,
+      "end": 5748
+    },
+    {
+      "fact": "作者指出拉玛什图是 Anu 之女，因她的“malevolent will”与“base counsel”触怒父神 Anu，被逐出天界、摔到地上。",
+      "quote": "Second, we learn that her “malevolent will” and “base counsel” caused her father, Anu, to banish her from heaven. That is, Lamashtu spoke out about something that angered and disgusted the divine patriarch, her father, and she was cast out, down to earth.",
+      "line": 107,
+      "start": 10837,
+      "end": 11092
+    },
+    {
+      "fact": "本章转折点：拉玛什图并非唯一，作者由此转向提亚马特（Tiamat），称二人有隐蔽关系，而这次她将被更绝对地除掉。",
+      "quote": "Lamashtu was not, however, the only terrifying Monstrous Bitch in ancient Mesopotamia, nor the only one that the patriarchal gods had to put down. In fact, the other nearly contemporary Monstrous Bitch I want to call our attention to is Tiamat, with whom, as we’ll see, Lamashtu has an important if covert relationship.",
+      "line": 204,
+      "start": 23134,
+      "end": 23453
+    },
+    {
+      "fact": "数字与日期：作者称在最早的拉玛什图咒语之后一千多年、约公元前 1100 年，美索不达米亚人用七块泥板写成史诗《恩玛·艾利什》（Enuma Elish）。",
+      "quote": "Over a thousand years after the earliest incantations to Lamashtu, probably somewhere around the year 1100 BCE, Mesopotamian culture produced an epic poem on a set of seven clay tablets.",
+      "line": 212,
+      "start": 23629,
+      "end": 23815
+    },
+    {
+      "fact": "作者描述 Marduk 把提亚马特碎尸后，用她的内脏、骨骼与被割成条的躯体造出大地，人类站上她残破的身体。",
+      "quote": "This radical dismembering of Tiamat is gruesome, but it serves a purpose for the narrative: Marduk uses her remains to create the rest of the world. Tiamat’s entrails, her bones, her slashed-to-ribbons body become the land that emerges from the abyss of water.",
+      "line": 248,
+      "start": 36174,
+      "end": 36434
+    },
+    {
+      "fact": "作者指出莉莉图（Lilitu）是勾引男子的 succubus，闪族恶魔 Lilith 的名字直接取自她，她对婴儿有危险兴趣，且常与拉玛什图混同。",
+      "quote": "Lilitu—from whose name the Semitic demon Lilith directly takes her name (about whom more shortly)48—not only enthralls men sexually but also takes a dangerous interest in babies.",
+      "line": 297,
+      "start": 48819,
+      "end": 48997
+    }
+  ]
+}

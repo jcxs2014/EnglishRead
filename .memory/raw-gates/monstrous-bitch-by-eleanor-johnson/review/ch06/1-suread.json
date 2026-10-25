@@ -1,0 +1,63 @@
+{
+  "chapter": "ch06",
+  "source": "text/ch06_4_taming_and_reframing_the_monstrous_bit.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "《女巫之锤》约 1486 年成书，作者是海因里希·克雷默，一本系统教人检测、抓捕并最终摧毁女巫的操作手册。",
+      "quote": "Heinrich Kramer, author of the Malleus Maleficarum (ca. 1486), or, in English, The Hammer of Witches, a fifteenth-century text that systematically and obsessively sets out all the things a person needs to know about witches and witchcraft in order to detect, capture, and ultimately destroy them",
+      "line": 83,
+      "start": 24929,
+      "end": 25224
+    },
+    {
+      "fact": "所谓「声誉卓著」是反讽：克雷默 1484 年被因斯布鲁克主教戈奥尔格·戈尔泽以行为不端与痴迷女巫性习惯为由逐出该镇。",
+      "quote": "I say “reputable” because Kramer was expelled from the town of Innsbruck in 1484 by the local bishop, Georg Golser, for ostensible illicit behavior and also for his fixation on witches’ sexual habits",
+      "line": 87,
+      "start": 25242,
+      "end": 25441
+    },
+    {
+      "fact": "这本书触发了一场文化实践，导致欧洲乃至美洲数以万计的女性被无谓处死。",
+      "quote": "triggered a cultural practice that resulted in the needless execution of untold tens of thousands of women, both in Europe and, eventually, in the Americas",
+      "line": 90,
+      "start": 26908,
+      "end": 27063
+    },
+    {
+      "fact": "英格兰到 1604 年，即便没有造成伤害或损失的硬证据，女性也可因巫术被处死。",
+      "quote": "England made witchcraft punishable by death slightly later, but by 1604, a woman could be executed for witchcraft in England even in the absence of hard evidence that she had caused harm to people or damage to property",
+      "line": 186,
+      "start": 52047,
+      "end": 52265
+    },
+    {
+      "fact": "玛利亚是「反怪物母狗」的极致：玛利亚要活，拉米亚就得死。",
+      "quote": "Mary is the Anti-Monstrous Anti-Bitch par excellence. She can’t live in a world that Lamia still actively threatens; if Mary is going to live, Lamia is going to have to die",
+      "line": 49,
+      "start": 14988,
+      "end": 15160
+    },
+    {
+      "fact": "九世纪注释家拉巴努斯·毛鲁斯把圣经里的 lamiae 读成犹太人的两面性与伪善者的谎言，即寓意化、抽掉实存性。",
+      "quote": "In his commentary on the prophetic books of the Bible, he says specifically that lamiae merely serve to represent the duplicity of Jews and the lies of hypocrites",
+      "line": 32,
+      "start": 8560,
+      "end": 8722
+    },
+    {
+      "fact": "十二世纪的 Alanus de Insulis 保留拉米亚掐死幼儿、吸干其血的画面，还让她向孩子露乳哺乳。",
+      "quote": "He goes on to say that lamiae are known to prey on young children by suffocating them and sucking out all their blood. They also bare their breasts to children and give them suck",
+      "line": 35,
+      "start": 10500,
+      "end": 10678
+    },
+    {
+      "fact": "作者的收束对句：马尔杜克用箭刺穿提亚马特子宫，基督教用笔把莉莉丝与拉米亚刺死。",
+      "quote": "Marduk stabbed Tiamat in the womb with his arrow, but Christianity stabbed Lilith and Lamia to death with its pens",
+      "line": 35,
+      "start": 11527,
+      "end": 11641
+    }
+  ]
+}

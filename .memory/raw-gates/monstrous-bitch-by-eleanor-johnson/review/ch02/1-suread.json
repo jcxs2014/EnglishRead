@@ -1,0 +1,56 @@
+{
+  "chapter": "ch02",
+  "source": "text/ch02_introduction.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "埃莉诺·约翰逊把 “Monstrous Bitch（怪物婊子）” 定义为一条横跨四千年、往返于地中海与西方的女性怪物母题，并称有六次大规模文化突变塑形了它：早期地中海父权制的凝结、Romanitas 的兴起、西方基督教的传播、科学经验主义的急速升级、精神分析的黄金期与女权主义的诸阶段。",
+      "quote": "Each of these changes—the coalescence of early Mediterranean Patriarchy, the rise of Romanitas, the spread of Western Christianity, the rapid escalation of scientific empiricism, the heyday of psychoanalysis, and the phases of feminism—inflects the evolution of one powerful, transhistorical, transnational, transcultural, translinguistic trope of female monstrosity. I will call this trope the Monstrous Bitch.",
+      "line": 20,
+      "start": 1900,
+      "end": 2311
+    },
+    {
+      "fact": "她给出词源与图像志的依据：“邪恶女性—犬形” 的联想可回溯约四千年，古美索不达米亚的女性怪物常被绘成狗脸或狗头，此后塑造女性怪物的图像传统一直以狗作为判别 “何谓怪物女性” 的试金石。",
+      "quote": "The association between evil femaleness and doglikeness goes back about four thousand years: Depictions of female monsters in ancient Mesopotamia often have dog faces or dog heads, and the iconography of female monstrosity ever since then has leaned on dogs as a touchstone for what is monstrous in women.",
+      "line": 26,
+      "start": 3378,
+      "end": 3683
+    },
+    {
+      "fact": "她把论述落到具体时空：约公元前 2300 年至公元前 1800 年的美索不达米亚 “旧时期”，怪物婊子主要表现为半神恶魔 Lamashtu，而这位恶魔在宗教文化中存续至少两千年、演化速度极慢。",
+      "quote": "In Old Period Mesopotamia, from about 2300 BCE to 1800 BCE, Monstrous Bitchery tends to take a particular form, encapsulated by a frightening semidivine demoness named Lamashtu.",
+      "line": 47,
+      "start": 6675,
+      "end": 6852
+    },
+    {
+      "fact": "她主张旧时期末期（今伊拉克一带）父权能量在神学与政治上骤然凝结，其标志是新宗教传统聚焦于杀死海之女神 Tiamat；Tiamat 之死是美索不达米亚怪物婊子演化中的第一次突变，而先于她的 Lamashtu 并未因此被消灭。",
+      "quote": "Manifesting that shift, a new religious tradition arises, which focuses on the slaying of one exceptionally important Monstrous Bitch: Tiamat, goddess of the sea. Tiamat’s death is the first sudden point mutation in the evolution of the Monstrous Bitch in ancient Mesopotamia.",
+      "line": 47,
+      "start": 7514,
+      "end": 7790
+    },
+    {
+      "fact": "她勾勒母题的人物谱系：中世纪的怪物婊子与古 Lamashtu 及其后世化身 Lamia、Lilith 共享大部分核心特征——性侵略、饮血或食人肉、扰乱男性性事，且往往专门攻击女人与婴儿。",
+      "quote": "but they share most of their core features with the ancient Monstrous Bitch Lamashtu and her later avatars Lamia and Lilith: Medieval Monstrous Bitches are sexually aggressive; they drink blood or eat human flesh; they tamper with male sexuality; and in many cases, they specifically attack women and babies.",
+      "line": 59,
+      "start": 11083,
+      "end": 11391
+    },
+    {
+      "fact": "她把心理学家、自助书作者 Jordan Peterson 立为对立面：他试图把女性跨历史地、原型式地定义为 “混乱” 而危险，男性则代表社会应当追求的 “秩序”；本书反驳说这套原型并非自然现象，而是男性主导文化数千年生产并复制出来的。",
+      "quote": "Some recent interpreters of cultural history, perhaps most notably psychologist and self-help author Jordan Peterson, have tried to define women as transhistorically and archetypally “chaotic” and dangerous, whereas men represent “order,” which is what societies should strive toward.",
+      "line": 53,
+      "start": 9171,
+      "end": 9455
+    },
+    {
+      "fact": "本章的转折点落在二十与二十一世纪之交：电影导演开始把 Tiamat、Lamashtu、Lilith、Lamia、女巫、吸血鬼与狼人复活为复仇者、辩护者乃至女英雄，而不是必须被规训、遏制、杀死、诊断或防范的凶恶女妖。",
+      "quote": "But something novel and powerful happens as we edge over from the twentieth into the twenty-first century: Filmmakers begin to resurrect Tiamat, Lamashtu, Lilith, Lamia, witches, vampires, and werewolves, not as horrid demonesses that need to be disciplined, curbed, killed, diagnosed, or otherwise guarded against but instead as avengers, advocates, and, in some cases, heroines.",
+      "line": 76,
+      "start": 16734,
+      "end": 17114
+    }
+  ]
+}

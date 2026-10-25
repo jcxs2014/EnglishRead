@@ -1,0 +1,63 @@
+{
+  "chapter": "ch05",
+  "source": "text/ch05_3_roman_witch_bitches_the_persistence_of.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "罗马法律：作者指出奥古斯都的《尤利娅法》（Lex Julia）授权父亲杀死犯通奸的女儿，因为此事被视为损害整个家族的荣誉，这是罗马法律用性道德处置女性身体的例证。",
+      "quote": "Augustus Caesar’s legal code, the Lex Julia, allowed fathers to slaughter their daughters if the daughters committed adultery, as this was felt to impugn the honor of the whole family.",
+      "line": 20,
+      "start": 506,
+      "end": 690
+    },
+    {
+      "fact": "贺拉斯《长短句集》第5首：卡尼迪亚与萨加纳、维拉、福利亚四名女巫把一名男孩埋到脖子、让他够不到食物，慢慢饿死他，以便取肝做爱情魔药。",
+      "quote": "They slowly starve a young boy to death, having buried him up to the neck in soil and left a plate of food in front of him that he cannot reach.",
+      "line": 39,
+      "start": 5853,
+      "end": 5997
+    },
+    {
+      "fact": "维吉尔《埃涅阿斯纪》（约公元前25年）：作者主张罗马的建立以埃涅阿斯这位男性的领导为前提，并以击败狄多所代表的母权制为代价，狄多被抛弃后自尽。",
+      "quote": "the founding of Rome is contingent on the singularly male leadership of Aeneas and on the defeat of matriarchy itself, embodied in Dido, whom Virgil summarily kills off—by her own hand—after Aeneas has abandoned her.",
+      "line": 53,
+      "start": 9665,
+      "end": 9881
+    },
+    {
+      "fact": "《埃涅阿斯纪》第七卷：朱诺召来复仇女神阿莱克托，阿莱克托从头发里抽出一条蛇抛到王后阿玛塔（Amata，意为“被爱的女人”）身上，蛇缠住她并注入毒液。",
+      "quote": "She moves fast, crouching by Latinus’s wife and queen, Amata—a name, significantly, that simply means “beloved woman.” Alecto pulls a serpent from her hair, which she flings onto the queen.",
+      "line": 62,
+      "start": 12868,
+      "end": 13057
+    },
+    {
+      "fact": "卢坎《法萨利亚》（约公元60年）：埃里赫托能逆转死亡，把地下尸体唤醒成“僵尸先知”，逼它们为塞克斯图斯预言战局。",
+      "quote": "She can reverse death, bringing up revenant corpses from beneath the ground. Once they are reanimated by her crepuscular power, they are compelled to soothsay for her. Yes, that’s right: Erichtho creates zombie prophets. She is a necromancer.",
+      "line": 114,
+      "start": 27984,
+      "end": 28226
+    },
+    {
+      "fact": "本章转折点：作者断言女巫被“整合与正常化”进男性日常经济世界，是“怪物婊”演化史上的一次重大转变，约一个世纪后（公元165年）在阿普列乌斯《金驴记》中进一步展开。",
+      "quote": "This dynamic of the integration and normalization of witchy bitchiness constitutes a major shift in the evolution of the Monstrous Bitch, and it will only get more elaborate in Apuleius’s Golden Ass, written about a century later, though in this text the horror of the Monstrous Bitch is always tempered by her ridiculousness, her risibility.",
+      "line": 129,
+      "start": 33224,
+      "end": 33566
+    },
+    {
+      "fact": "阿普列乌斯《金驴记》第一卷：女巫姐妹墨罗厄与潘西亚夜里闯进阿里斯托墨涅斯的房间，商议杀死苏格拉底并讨论是否阉割阿里斯托墨涅斯，随后刺穿苏格拉底的脖子并接血。",
+      "quote": "That night, the two cougar witches—Meroë and Panthia—break into Aristomenes’s quarters, deciding to kill Socrates, and they debate the possibility of castrating Aristomenes as well. Then they summarily stab Socrates in the neck—to death—and catch his blood in a vessel.",
+      "line": 143,
+      "start": 36875,
+      "end": 37144
+    },
+    {
+      "fact": "到公元2世纪末阿普列乌斯写作时，“lamia”已从专有名词（拉弥亚）变为普通名词，指一整类饮血、诱男、杀婴、行止违反自然的人类女性。",
+      "quote": "In The Golden Ass, however, “lamia” is a common noun that refers to a whole category of human females who drank blood, seduced men, killed babies, and behaved unnaturally",
+      "line": 158,
+      "start": 40844,
+      "end": 41014
+    }
+  ]
+}

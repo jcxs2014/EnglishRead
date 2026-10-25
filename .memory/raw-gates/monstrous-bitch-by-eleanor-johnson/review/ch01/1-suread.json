@@ -1,0 +1,13 @@
+{
+  "chapter": "ch01",
+  "source": "text/ch01_preface.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {"fact": "作者 Eleanor Johnson 自述 1979 年生于纽约市，并把这一出生位置说成相对有史以来所有女性都更幸运、能拥有完整自由长寿人生的起点。", "quote": "I was born in New York City in 1979. That means that, relative to all other women in recorded history, I have had a chance at a full, free, independent, long life.", "line": 16, "start": 69, "end": 232},
+    {"fact": "作者回忆幼年时父亲在修家里的旧 Maverick 汽车，她穿着工装裤钻到车底用小扳手敲排气管；她家长辈女性活跃于地方政治，因此她从小把女性从政当成责任。", "quote": "When I was a young child, if my father was working on our old Maverick, I would slither under the car with him and, clad in my work overalls, I would clink and clank on the muffler with my little wrench.", "line": 22, "start": 2901, "end": 3104},
+    {"fact": "作者以欧洲中世纪为对照论证：若生在那个她研究大半生的时代，她作为女性极可能不识字、根本不上学，几乎享受不到上述任何权利。", "quote": "In the historical period I’ve spent most of my life studying—the European Middle Ages—as a human female, I would have had almost none of these rights and privileges. In all likelihood, I would have been illiterate. I would not have gone to school at all.", "line": 25, "start": 3608, "end": 3862},
+    {"fact": "本章转折点：作者的感恩转为恐惧——她称当下女性处境的恶化逆转了约七百年来女性境遇缓慢改善的趋势，近几年女性正在失去生育自由。", "quote": "That deterioration bucks a trend that’s about seven hundred years old, in which things have slowly been getting better for women. But in the past few years, women have been losing their reproductive freedoms.", "line": 31, "start": 6421, "end": 6629},
+    {"fact": "作者提出全书论点：父权制自古代美索不达米亚起就不断煽动对「Monstrous Bitch」的文化恐惧，经古希腊、古罗马加码，被现代西方文化整套继承。", "quote": "Patriarchy has energized cultural fears of the Monstrous Bitch since ancient Mesopotamia, gaining momentum in ancient Greece and yet more in ancient Rome; modern Western cultures have inherited those ancient fears whole-cloth", "line": 37, "start": 8775, "end": 9000},
+    {"fact": "作者指出约自 1970 年代起出现反向重编码：一批艺术作品刻意给 Monstrous Bitch 追加力量、正当性与韧性，把她从该被消灭的妖魔改写成抵抗的偶像。", "quote": "But sometimes, especially since the 1970s, the works of art that dive into and rewrite the cultural DNA of the Monstrous Bitch do so precisely in order to confer extra power, legitimacy, and resilience on her", "line": 49, "start": 12214, "end": 12422}
+  ]
+}

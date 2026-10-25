@@ -1,0 +1,63 @@
+{
+  "chapter": "ch07",
+  "source": "text/ch07_5_the_season_of_the_witch_dramatically_q.txt",
+  "method": "只读 text/ 素读，未开 md",
+  "facts": [
+    {
+      "fact": "作者主张：17 世纪英语剧作家在终结近代早期“把女性妖魔化为女巫”的过程中起了重要作用；到 18 世纪头十年，文化空间已向彻底挑战“怪物婊子女巫”这一概念敞开。",
+      "quote": "These dramatists played a significant role in bringing about the end of the demonization of women as witches in the early modern period. As a result, by the first decade of the eighteenth century, cultural space had opened up for a radical challenge to the very notion of a Monstrous Bitch Witch.",
+      "line": 20,
+      "start": 736,
+      "end": 1032
+    },
+    {
+      "fact": "莎士比亚《麦克白》以三女巫同谋开场：她们时而各说各的台词、时而接话、时而齐声，构成一个可憎的“三位一体”，如圣三位一体般既合体又各自独立。",
+      "quote": "Macbeth opens with three witches scheming together. Sometimes speaking discrete lines, sometimes sharing lines, and sometimes speaking in unison, they form a ghastly, unholy trinity; like the Holy Trinity, in which each Person of God can act either on its own or in perfect concert with the other two",
+      "line": 27,
+      "start": 1072,
+      "end": 1372
+    },
+    {
+      "fact": "约翰逊指出莎士比亚的激进改动：《麦克白》的女巫不从撒旦（基督教中那个总想拆“真正终极父权”台的乖戾家长）取力，而来自古典的月神女巫—婊子。",
+      "quote": "These witches get their power not from Satan—the perverse patriarch in Christianity who always tries to undermine the Real Ultimate Patriarch in Christianity—but from the classical lunar witch-bitch extraordinaire.",
+      "line": 115,
+      "start": 11322,
+      "end": 11536
+    },
+    {
+      "fact": "托马斯·米德尔顿 1616 年写《女巫》，把赫卡忒写成极老的人类女人而非希腊女神；作者推测这或许因为他读过雷金纳德·斯科特的《发现巫术》（Discoverie of Witches）。",
+      "quote": "For him, the character Hecate, while indubitably powerful, is a very old human woman, not a Greek deity. So Middleton is bringing his witchcraft narrative, as it were, closer to earth, possibly because of his exposure to Reginald Scot’s Discoverie of Witches, or possibly because he had been reading Horace recently",
+      "line": 123,
+      "start": 12865,
+      "end": 13180
+    },
+    {
+      "fact": "米德尔顿《女巫》里的女巫最终没有被处死，甚至没被逮捕受审，因为她们的魔法在结局促成了“对的配对”，作者借此反问为何要迫害、起诉并处死这些女人。",
+      "quote": "In the end, the witches in the play don’t get executed, nor even apprehended and tried for their witchy crimes. The reason is simple: They perform a real social service, albeit through dubious means.",
+      "line": 141,
+      "start": 19554,
+      "end": 19753
+    },
+    {
+      "fact": "1621 年，住在英格兰埃德蒙顿的贫穷、年迈（可能残疾）的寡妇伊丽莎白·索耶被审判、定罪，并最终作为女巫处死。",
+      "quote": "The year 1621 was very bad for Elizabeth Sawyer. She was an elderly, probably disabled, poor widow living in Edmonton, England, and in that year, she was tried, convicted, and eventually executed as a witch.",
+      "line": 149,
+      "start": 20487,
+      "end": 20694
+    },
+    {
+      "fact": "弗朗西斯·哈钦森 1706 年写成反驳“巫术”本身并谴责巫术审判的著作，因议题敏感未出版，直到 1718 年才刊行《关于巫术的历史论说文》（An Historical Essay Concerning Witchcraft）。",
+      "quote": "In 1706, Hutchinson wrote his own refutation of the very idea of witchcraft, coupled with a condemnation of witch trials, but he did not yet publish it, because the issue was so incendiary. In 1718, he finally published his work: An Historical Essay Concerning Witchcraft.",
+      "line": 216,
+      "start": 36210,
+      "end": 36482
+    },
+    {
+      "fact": "哈钦森断言巫术没有历史依据，并统计出自 16 世纪以来有数以千计的女性在缺乏充分证据的情况下因巫术被处死，以此呈现迫害的规模。",
+      "quote": "Witchcraft, he avers, has no historical basis. When he gets to recent history—like the sixteenth century and beyond—he details the countless thousands of women who were executed for witchcraft without adequate justification.",
+      "line": 225,
+      "start": 39341,
+      "end": 39565
+    }
+  ]
+}
