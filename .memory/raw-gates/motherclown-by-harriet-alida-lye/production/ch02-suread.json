@@ -1,0 +1,55 @@
+{
+ "book": "motherclown-by-harriet-alida-lye",
+ "chapter": "ch02",
+ "text": "notes/books/novels/motherclown-by-harriet-alida-lye/text/ch02_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "时间线：Elise 八月一日抵巴黎，五周后的九月第一个星期日傍晚独自在运河边；她决定从明天（周一）开学起做一个新人。",
+   "anchor": "Elisabeth arrived five weeks ago, on the first of August",
+   "start": 312,
+   "end": 368
+  },
+  {
+   "fact": "改名：法国人把 Elisabeth 念得又硬又怪，房东 Pajot 太太叫她 Elle-is-a-bet，像 une bête（野兽）；她自取名 Elise，说这名字更软、像赖床的早晨。",
+   "anchor": "Her name gets hardened in the throats of the French",
+   "start": 1009,
+   "end": 1060
+  },
+  {
+   "fact": "住处：网上两百欧租下的十一平方米女佣房，先付钱后看房；像太空舱，八层无电梯，厕所在走廊、淋浴在房东家。",
+   "anchor": "She hadn’t been able to picture just how small eleven square metres would be",
+   "start": 1838,
+   "end": 1914
+  },
+  {
+   "fact": "学校：Chevalier 是以小丑为核心的形体戏剧学校，创办人 Jean Chevalier 已故；官网（经谷歌翻译）说小丑是「惊奇的状态」，是心与心碎同时哭笑。",
+   "anchor": "Chevalier is a prestigious physical theatre school with a focus on clown",
+   "start": 4882,
+   "end": 4954
+  },
+  {
+   "fact": "父亲之死：三个月前，身强体壮、从不运动却像职业冰球运动员的父亲在睡梦中因心脏骤停去世，五十一岁；她当时在 Max 家，赶回时遗体已在担架上。",
+   "anchor": "was felled for no reason at all",
+   "start": 13387,
+   "end": 13418
+  },
+  {
+   "fact": "分手：她与高中起交往近四年的 Max 约定分手后一段时间不联系，Max 却连发三封邮件；她没回，只给母亲和 Charlie 写了信。",
+   "anchor": "That was their deal",
+   "start": 16300,
+   "end": 16319
+  },
+  {
+   "fact": "Catherine 视角：她在清晨绕湖跑步，把水天相接当作自己每天重画的罗斯科；她十九岁前学美术，此后不再画。",
+   "anchor": "Where water meets sky becomes a different Rothko every day",
+   "start": 19595,
+   "end": 19653
+  },
+  {
+   "fact": "母女：Elisabeth 到巴黎一个多月只回了一封十二个词的信，落款 xo 而非 love，Catherine 由此认定女儿不爱她了；她同时向 Laura 说出「是不是我害死了他」的恐惧——他死的那夜她梦见过要离开他。",
+   "anchor": "She’d signed off with xo instead of love",
+   "start": 25491,
+   "end": 25531
+  }
+ ]
+}
