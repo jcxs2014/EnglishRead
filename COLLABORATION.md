@@ -95,6 +95,12 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 教训两条：①子代理起草不可依赖（并发上限 1 + 网络两连败），ch05 起全部主会话自写；②词表例句必须当场 grep 取证——凭记忆写了 2 批混入他章句子（ch04/07、ch05/11/12/14/24），全靠批次 gate 抓回。
 - 逐行细节见工作日志 2026-10-25「The Intrigue」节。commit 38 个，**未 push（待指令）**。
 
+**《The Intrigue》（the-intrigue-by-silvia-moreno-garcia）T3 深审（用户点名）已完成，同会话执行。** 覆盖：R1 全章素读（24/24 章 194 条事实锚点全验）+ R2 机器层（chapter.sh --json 全 rc=0）+ R3 三单对账 + R4 成因类人判（SPK 4/AGY 53/NEG 112/NUM 53 全读，共 222 行候选）。
+- **阻断 2 条全部整改**：①ch01 卖相机对象 Moisés 漏写（补入块 5）；②全书 8 文件 26 处「三十年」时间跨度凭空——硬锚：Inés 1943 年 22 岁（ch02:244）、推妹在 1929 后（ch13:350），实距 12–14 年（原文仅 many years before；「more than twenty years」锚私奔非推妹）→ 26 处全改「十多年」。另补名字级漏 1 处（ch13 Facundo Alamilla）。
+- 提示 8 条（判定不修，依据入 3-diff）；假红 3 项核查通过，R5.5「已核实为正确」护栏 8 条入库（含「十多年」修订口径，防回改）。
+- 修后复验：chapter.sh 24/24 rc=0 · gate.sh EXIT=0 · overview quotes/full/labels 三门禁 rc=0。
+- 四件套（1-suread ×24 / 2-machine ×24 / 3-diff / 4-verdict）已入库；台账「同会话（深审）」行已记。commit 40 个，**未 push（待指令）**。
+
 ### [2026-10-24 23:05 UTC] [MiniMax-Mac] → All
 
 ## 【工具盲区·总览生成】`gen_overview.py` 在 `text/chNN_<slug>.txt` 语料上误报「不在 text/」并中止（rc=2）
