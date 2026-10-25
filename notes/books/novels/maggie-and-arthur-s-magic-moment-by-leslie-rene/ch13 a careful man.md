@@ -9,7 +9,7 @@ modified: "2026-10-24"
 
 - **一句话概括**：咖啡桌变成作战室——pall 数据全盘移交；真因揭晓：三年前 Dartwood 同类咒的「谨慎老手」，这次被 Lane 入院的两通电话打断在 earthly shatter, fractured soil 上；Maggie 判定另有东西喂养 pall，两人约定先查校史馆——「Little Artie」的旧闻收尾。
 - **情感弧线位置**：信任的第一次实转——他交出全部底牌，她收起 scold 递出理解；「Because I'm a careful man, Maggie.」是本章的心脏。
-- **Tropes 兑现/反转**：tragic backstory 兑现且反套——事故不是傲慢，是恐惧（漏接母亲最后来电的 PTSD）；反转是她的发现：他教学生的理由与她的一字不差。
+- **Tropes 兑现/反转**：tragic backstory 兑现且反套——事故不是傲慢，是恐惧（漏接母亲病重时来电的 PTSD）；反转是她的发现：他教学生的理由与她的一字不差。
 - **人物弧线**：Arthur 从「推责对象」变成「共担者」；Maggie 的 scold 本能两次冒头两次咽下，克制成为她的新功课。
 - **叙事手法**：证据流（试管→档案→断点句）层层收紧；Dartwood 旧课用他的口述完整回放；「神之下」的咒语断句成为全章最冷的一颗钉子。
 
@@ -101,7 +101,7 @@ modified: "2026-10-24"
 
 **关键词**： during the incantation（念咒进行中）/ ignored the first call（没接第一通）/ ringing again（再度响起）
 
-**为什么这样写**：事故的秒表从「第一通」走起——两通电话之间是他一生最危险的二十秒；「knew it was an emergency」的笃定来自 Rowena 的旧创伤，悬念在下一块引爆。
+**为什么这样写**：事故的秒表从「第一通」走起——两通电话之间是他一生最危险的一段；「knew it was an emergency」的笃定来自 Rowena 的旧创伤，悬念在下一块引爆。
 
 **读者视角提示**：注意他「继续诵咒」的选择：第一反应是职责——把学生的安全押在咒上；这份「对」恰恰酿成后面的「错」，命运的反讽手笔。
 
@@ -157,4 +157,4 @@ modified: "2026-10-24"
 | shuffled | 洗牌般翻动 | Before she could even ask, Taliesin shuffled the papers again and produced various reports about fantasmia sightings. |
 
 ## 一句话总结
-作战室开张：试管里的 pall、十五英里的灾情、七英尺的裂缝——「Because I'm a careful man, Maggie.」推翻她全部预判；Dartwood 旧课的教案滴水不漏，真正的裂缝是 Lane 入院时两通电话之间的二十秒，断在 earthly shatter, fractured soil。她咽下 scold，只说「高兴 Lane 好了」——而两人共同的怀疑是：还有什么在喂养这个 pall。
+作战室开张：试管里的 pall、十五英里的灾情、七英尺的裂缝——「Because I'm a careful man, Maggie.」推翻她全部预判；Dartwood 旧课的教案滴水不漏，真正的裂缝是 Lane 入院时那两通来电之间，咒断在 earthly shatter, fractured soil。她咽下 scold，只说「高兴 Lane 好了」——而两人共同的怀疑是：还有什么在喂养这个 pall。

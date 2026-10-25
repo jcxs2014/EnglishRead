@@ -107,7 +107,7 @@ modified: "2026-10-24"
 
 > **原句 10:** "“I grew up in Soladia with my mom, but my dad and half brother have always lived here.”"
 
-**中文理解**：「我从小跟我妈在 Soladia 长大，但我爸和同母异父的弟弟一直住在这边。」
+**中文理解**：「我从小跟我妈在 Soladia 长大，但我爸和同父异母的弟弟一直住在这边。」
 
 **关键词**： grew up in Soladia（在 Soladia 长大）/ half brother（半兄）
 
