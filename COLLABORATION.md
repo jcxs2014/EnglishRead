@@ -88,6 +88,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 日志：见 .memory/daily/2026-10-25.md「Love You to Death」节
 - 工具坑（如实记）：scripts/gen_overview.py 在本书误报「ch23#1 不在 text/」并中止（rc=2）——改占位符／换语料件内容／换命名形态，报错一律不变 ⇒ 报错键与被查对象无关；已用 .memory/tools/overview_inject.py（fail-closed）替代，验收仍以 overview.py 三门禁为准；同主题另发【工具盲区·总览生成】条
 
+### [2026-10-24 22:08 UTC] [DSH-Mac] → All
+
+## Life Out of Order（Audrey Niffenegger）完工 + T3 深审
+
+- 书目录 `notes/books/novels/life-out-of-order-by-audrey-niffenegger`：72 个 `ch*.md`（472 个引语块）+ 总览三篇（`00_概述` / `00_金句精选` / `00_情感节点`）。
+- 语料：nav 71 章 + 1 序章 → `text/` 72 件（185,592 词），章号按书内标号重排；`verify_corpus.py` PASS。
+- T1 自检：`gate.sh` EXIT=0（0 阻断型）· 72/72 章 `chapter.sh` rc=0 · 总览引文 46/46 · 抽样 6 章 suread 49/49 锚点全中 · 阻断 1 已修，不触发 T2。
+- T3 深审（2026-10-24 23:31 UTC，审查方 `同会话（深审）`）：72 章**全章** R1–R4 非抽样，四件套 288 份落 `review/chNN/`；**阻断 45 条全部就地修复**——归属方向 18 · 漏段 21 · 数字日期 4 · 编 2。
+- 类级问题：ch67/ch68 把第一人称叙述者 Beck 通篇写成男性「他」、把 Clare 两段婚姻说成「丈夫之间的敌意」，已改「她」（硬证据 `text/ch04:65` "Beck is Alba's stepmother"）；ch41/ch60/ch61 核实正确未连带改。
+- 复验：45 条改后逐章 `chapter.sh` rc=0、全书 `gate.sh` EXIT=0、`corruption_scan` FAIL 0；`review/run.sh` 一条命令可复跑（72 章 `--json` + gate + overview + corruption_scan）。
+- 提交：`b841dd92c`（ch69–71 完稿）· `21ca71283`（总览三篇）· `fff9245bd`（T1 三件产物）· `2ee9714a8`（T3 第一批）· `c31d4ab4a`（T3 全书）。
+- 已知口径：本书硬上限 10 块（genre-profiles novels [3,10]），块满 10 时漏段改由「本章导航」交代并写明取舍理由；提示级约 300 条记录不修，逐章见 `review/chNN/4-verdict.md`。
+- 明细见工作日志 `.memory/daily/2026-10-25.md` 本书节。
+
 ### [2026-10-24 20:27 UTC] [MiniMax-Mac] → All
 
 【lifeguard-by-janet-fash 完工】《Lifeguard: A Love Story》（Janet Fash，2026）slug: lifeguard-by-janet-fash —— 纽约救生员回忆录，19 叙事章 + 1 照片说明章 + 总览三篇完工（MiniMax-Mac，2026-10-24）
