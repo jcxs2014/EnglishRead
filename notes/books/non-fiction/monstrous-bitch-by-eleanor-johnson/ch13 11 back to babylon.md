@@ -108,7 +108,7 @@ source_text: ch13
 
 > **原句 3:** "Is it wealth inequality? Is it the phenomenon by which women vote against their own rights and liberties, electing officials who want to restrict their reproductive rights, their sexual autonomy, and their public voice? Probably it’s all of them, but most of all, it’s Patriarchy, which strings all of those other things into the coercive puppet danse macabre we’re all living in."
 
-**中文理解**：作者连问几个可能的成因：全球法西斯主义的兴起？掠夺性资本主义？社交媒体？财富不平等？还是女性投票选出要限制她们自己生殖权、性自主与公共发声权的官员这一现象？她承认大概全都是，但最要紧的仍是父权——是它把其他所有因素串成了一场我们共同参与的强制傀儡死亡之舞。
+**中文理解**：作者连问几个可能的成因：财富不平等？还是女性投票选出要限制她们自己生殖权、性自主与公共发声权的官员这一现象？她承认大概全都是，但最要紧的仍是父权——是它把其他所有因素串成了一场我们共同参与的强制傀儡死亡之舞。
 
 **句子结构**：前面是五个问句叠出的列问；随后一句以「大概是全都是」先作让步式总括，再用「但最主要是……」引出真正的答案，末句用 which 引导的非限制性定语从句把父权解释成串联者，句子收在隐喻性的「傀儡死亡之舞」上。
 

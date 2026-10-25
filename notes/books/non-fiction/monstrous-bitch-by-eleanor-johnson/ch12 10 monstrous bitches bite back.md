@@ -92,7 +92,7 @@ source_text: ch12
 
 > **原句 3:** "As in Werewolf Woman, so here: You can’t kill the Monstrous Bitch within, even if you kill one particular instantiation of her. She’ll come back again and again, throughout time, to seduce, rape, drink blood, kill young people, voice her salacious and rapacious views, and leave corpses in her wake. Patriarchy will never be safe from her."
 
-**中文理解**：作者说，就像《狼人女尸》一样：杀不死她体内的怪物母狗，哪怕你杀掉她的某一次化身。她会一次又一次地回来，在时间中反复出现，去勾引、去强奸、饮血、杀年轻人、说出那些既淫荡又贪婪的话，并在身后留下尸体。父权永远不会从她那里得到安全。
+**中文理解**：作者说，就像《狼人女巫》一样：杀不死她体内的怪物母狗，哪怕你杀掉她的某一次化身。她会一次又一次地回来，在时间中反复出现，去勾引、去强奸、饮血、杀年轻人、说出那些既淫荡又贪婪的话，并在身后留下尸体。父权永远不会从她那里得到安全。
 
 **句子结构**：首句是「As in X, so here」的类比引子加一个「You can’t … even if …」的让步结构；次句用「She’ll come back again and again, throughout time」作主句，动词后面挂一串不定式，六个动作并排落下；末句是一个极短的独立判断句，把前面的清单收成一个结论。
 
@@ -100,7 +100,7 @@ source_text: ch12
 
 **表达方式**：六个动词不定式没有主语、没有连接词，读起来像一份清单，也像一份供状；末句短到只有五个词，与前面绵长的威胁形成落差，把「不死」这件事压成一句冷静的断言。
 
-**为什么这样写**：本章的转折点在这两句之间——同样的断言，在上一部《狼人女尸》里是恐怖片式的绝望，在这里却是作者第一次说「这值得庆祝」的前提。先把「杀不死」钉死，后面那个令人意外的乐观才有立足处。
+**为什么这样写**：本章的转折点在这两句之间——同样的断言，在上一部《狼人女巫》里是恐怖片式的绝望，在这里却是作者第一次说「这值得庆祝」的前提。先把「杀不死」钉死，后面那个令人意外的乐观才有立足处。
 
 > **原句 4:** "They do this because they want their rock band to become internationally famous, and they believe that by offering Jennifer up to be possessed by demonic forces, they will get their wish. The possession ritual is a barely veiled allegory for gang rape; the result of this rape-possession, for Jennifer, is that she is turned into a demonically sexy vampiress cannibal wolf-woman."
 

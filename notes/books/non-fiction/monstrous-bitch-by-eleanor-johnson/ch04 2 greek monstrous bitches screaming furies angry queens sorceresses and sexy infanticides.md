@@ -147,7 +147,7 @@ source_text: ch04
 
 **表达方式**：作者先讲家族谱系与地理坐标，再讲行为，这种「先把人钉在地图上」的写法让神话人物获得可追溯的来历，为后文讨论她的东方性预留了位置。
 
-**为什么这样写**：美狄亚是这一章唯一来自东方的女性形象，若不交代她的出身，读者会把她当作与雅典同城的故事；把她放回黑海东岸、格鲁吉亚与土耳其之间，作者才能顺势把希腊的怪物母狗接回美索不达米亚的东方怪物传统，也让「东方即恐怖来源」的古老偏见显形。
+**为什么这样写**：美狄亚是这一章唯一被作者着意点明「东方性」的女性形象，若不交代她的出身，读者会把她当作与雅典同城的故事；把她放回黑海东岸、格鲁吉亚与土耳其之间，作者才能顺势把希腊的怪物母狗接回美索不达米亚的东方怪物传统，也让「东方即恐怖来源」的古老偏见显形。
 
 > **原句 8:** "This is a crucial intervention in the history of Monstrous Bitchery: a human woman who can do what the immortals can do; a human woman with inhuman powers. Euripides’s contribution to the realm of the Monstrous Bitch is, in essence, to invent a superwoman."
 

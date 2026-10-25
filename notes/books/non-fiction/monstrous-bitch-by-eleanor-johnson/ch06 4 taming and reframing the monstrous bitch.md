@@ -103,7 +103,7 @@ source_text: ch06
 
 > **原句 4:** "This ideological reason is the Virgin Mary. Mary’s power resides not in her strength, her cunning, her magic, her violence, her ability to summon the dead, her bitchlikeness, or her snakiness but, quite the opposite, in her gentleness, her mercy, her nurturance, and her capacity for self-sacrifice."
 
-**中文理解**：这个意识形态层面的理由就是圣母玛利亚。玛利亚的力量并不在于强壮、 cunning、魔法、暴力、召魂的能力、她的母狗气或蛇性，恰恰相反，它在于温柔、慈悲、养育与自我牺牲的能力。
+**中文理解**：这个意识形态层面的理由就是圣母玛利亚。玛利亚的力量并不在于强壮、狡黠、魔法、暴力、召魂的能力、她的母狗气或蛇性，恰恰相反，它在于温柔、慈悲、养育与自我牺牲的能力。
 
 **句子结构**：首句用七词的短断言给答案定锚；第二句以「not in her A, B, C … but, quite the opposite, in her …」构成一长串对称否定加正面列举，否定项与肯定项在数量与句法上互相呼应。
 
@@ -235,7 +235,7 @@ source_text: ch06
 
 > **原句 15:** "To control the land, you have to control the women—or, more precisely, you have to control their uteruses. If Patriarchy can’t control the wombs, it’s got to demonize and kill the women who contain them, as well as those women who have the temerity to try to control wombs in a way that Patriarchy doesn’t approve of."
 
-**中文理解**：要控制土地，就得控制女人——更确切地说，得控制她们的子宫。父权一旦控制不了那些 womb，就只有把装着这些 womb 的女人妖魔化并杀掉，同时杀掉那些胆敢以父权不认可的方式去控制 womb 的女人。
+**中文理解**：要控制土地，就得控制女人——更确切地说，得控制她们的子宫。父权一旦控制不了那些子宫，就只有把装着这些子宫的女人妖魔化并杀掉，同时杀掉那些胆敢以父权不认可的方式去控制子宫的女人。
 
 **句子结构**：首句用「or, more precisely, …」作自我修正，把「女人」精确成「子宫」；次句用「If Patriarchy can’t …, it’s got to …」的条件句推出唯一出路，并在后半句用「as well as those women who …」把两类对象（容器与操控者）并列。
 
