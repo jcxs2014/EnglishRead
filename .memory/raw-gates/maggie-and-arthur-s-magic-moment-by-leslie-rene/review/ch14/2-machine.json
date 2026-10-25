@@ -1,0 +1,354 @@
+{
+  "chapter": 14,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch14 the errands.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch14_chapter_fourteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“You know",
+          "ok": true,
+          "pos": 1675
+        },
+        {
+          "text": "” Taliesin began, pausing as if hunting for the words he wanted to say. “It’s a relief that I’m not doing this alone any",
+          "ok": true,
+          "pos": 1685
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "They seemed to have drawn together, slowly, over the course of this conversation, until there was just a breath between ",
+          "ok": true,
+          "pos": 2079
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Maggie,” he said, frustration curling the edges of his words, “you were attacked by a ghoul in town twelve days ago.”",
+          "ok": true,
+          "pos": 2746
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Maggie. It’s irresponsible.”",
+          "ok": true,
+          "pos": 3345
+        }
+      ],
+      "words": 3
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "His cheeks were red with the chill. “Getting you home safe isn’t a waste of my time.”",
+          "ok": true,
+          "pos": 4856
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Did my students already eat all of the candy I replaced?”",
+          "ok": true,
+          "pos": 5626
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "One toppled over, and they both crouched down to pick it up, their fingers brushing as they reached for it. Maggie pulle",
+          "ok": true,
+          "pos": 7951
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Maggie had ordered the gift long before Beltane, before a memory spell had wreaked havoc on her own life. She wondered n",
+          "ok": true,
+          "pos": 8986
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "It was instinct that made her reach out her hand and grab Taliesin’s arm, the one that was already shielding her from wh",
+          "ok": true,
+          "pos": 12756
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Wraiths were something of a mystery. No one knew if they were human souls or something else meant to mimic human shapes,",
+          "ok": true,
+          "pos": 14185
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 12,
+        "为什么这样写": 47,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.2,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 7,
+        "为什么这样写": 55,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.19,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 11,
+        "为什么这样写": 46,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.17,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 3,
+        "为什么这样写": 47,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.17,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 11,
+        "为什么这样写": 44,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.22,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 4,
+        "为什么这样写": 43,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.17,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 13,
+        "为什么这样写": 51,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.19,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 13,
+        "为什么这样写": 47,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.17,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 15,
+        "为什么这样写": 35,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.22,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 11,
+        "为什么这样写": 49,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.16,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.54
+      }
+    }
+  ],
+  "form": {
+    "h1": "14. Chapter Fourteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2775,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

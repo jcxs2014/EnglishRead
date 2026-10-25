@@ -1,0 +1,413 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch08 ours.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch08_chapter_eight.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Maggie’s arm was fine. Sure, she hadn’t slept in days, because the skin was aching and tight across her forearm. The gho",
+          "ok": true,
+          "pos": 14
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Dean Clearwater had already given her an earful on Monday morning about putting herself in danger. He had been waiting a",
+          "ok": true,
+          "pos": 405
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She didn’t want to anger the dean more, but after Friday night, she couldn’t quite stop herself from asking, “Clearly th",
+          "ok": true,
+          "pos": 1453
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Maggie tried to keep her expression neutral, but a bubbling fury rose in her. Her arm ached, she was freezing, she hadn’",
+          "ok": true,
+          "pos": 4026
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She finally took out a piece of paper and wrote in block letters: DR. TALIESIN IS NOT HERE. IF YOU NEED HIM, EMAIL HIM",
+          "ok": true,
+          "pos": 5308
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He gripped the door frame as if he might collapse if he let it go. He sighed and heaved himself into the room, every ste",
+          "ok": true,
+          "pos": 6054
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Please do not vomit in our office,” Maggie begged. Taliesin didn’t respond right away, steadying himself against the na",
+          "ok": true,
+          "pos": 6627
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "This is pall sickness,” she said gently, unwrapping another candy and holding it out to him. “How long were you up there",
+          "ok": true,
+          "pos": 7787
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Pall sickness develops after prolonged exposure to the vaporized ectoplasm that feeds a pall. After light to moderate ex",
+          "ok": true,
+          "pos": 11263
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "My students were terrified that day because of a stupid mistake that I made. I’m not going to let anyone else suffer the",
+          "ok": true,
+          "pos": 12107
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "You need my help.”",
+          "ok": true,
+          "pos": 14594
+        },
+        {
+          "text": "“I want my office back, Taliesin.”",
+          "ok": true,
+          "pos": 16297
+        },
+        {
+          "text": "“Eight thousand dollars from next year’s alchemy budget, returned to the linguistics department for special projects",
+          "ok": true,
+          "pos": 16677
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Why did it feel, suddenly, like she was the one who had bargained something away? She didn’t have time to think about it",
+          "ok": true,
+          "pos": 17803
+        }
+      ],
+      "words": 57
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 14,
+        "为什么这样写": 48,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.18,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 10,
+        "为什么这样写": 62,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.22,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 7,
+        "为什么这样写": 51,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.15,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 16,
+        "为什么这样写": 45,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.25,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 7,
+        "为什么这样写": 38,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.21,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 18,
+        "为什么这样写": 46,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.22,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 13,
+        "为什么这样写": 50,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.22,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 11,
+        "为什么这样写": 56,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.18,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 13,
+        "为什么这样写": 47,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.19,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 13,
+        "为什么这样写": 48,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.17,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 17,
+        "为什么这样写": 45,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.24,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 18,
+        "为什么这样写": 51,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.22,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. Chapter Eight",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3304,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

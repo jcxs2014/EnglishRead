@@ -1,0 +1,376 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch05 the framed grin.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch05_chapter_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "By Friday, the unseasonably warm weather was gone, and a heavy, cold fog descended on campus and the surrounding village",
+          "ok": true,
+          "pos": 13
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Life seemed to have gone topsy-turvy since Beltane, as if those masks hadn’t only hidden who she was, but turned her ins",
+          "ok": true,
+          "pos": 630
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I take my student meetings in my office,” he said stiffly. “It’s more professional that way. Students know what to expe",
+          "ok": true,
+          "pos": 2023
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Unsettled souls who had once found their rest in the next world were sometimes pulled into this world by the force of a ",
+          "ok": true,
+          "pos": 3625
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She picked up the frame, holding it up to the light, and was shocked to see Taliesin’s face in a broad grin. Taliesin wa",
+          "ok": true,
+          "pos": 4659
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "In the photo, he was leaned over slightly, an arm wrapped around a boy who might have been five or six. Another man on t",
+          "ok": true,
+          "pos": 5152
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "All spells started with arcania. These precise calculations shaped spells, factoring in adjustments for time, place, or ",
+          "ok": true,
+          "pos": 6259
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Literary translation didn’t exactly fall under the purview of the Applied Linguistics and Incantation Translation Depart",
+          "ok": true,
+          "pos": 9694
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“What I think doesn’t matter,” he muttered, flipping the page in his book. He stretched over it to type a note on his co",
+          "ok": true,
+          "pos": 18914
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“They’re adults.” Her voice was rising with each word, close to shrill. “Let me guess, you’re the kind of professor who ",
+          "ok": true,
+          "pos": 20091
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“I wouldn’t have to be if students didn’t have grandmothers who died during Alchemy 101 only to get resurrected and trag",
+          "ok": true,
+          "pos": 20299
+        }
+      ],
+      "words": 30
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 16,
+        "为什么这样写": 55,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.2,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 18,
+        "为什么这样写": 66,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.25,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 11,
+        "为什么这样写": 46,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.19,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 8,
+        "为什么这样写": 49,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.17,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 9,
+        "为什么这样写": 55,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.23,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 11,
+        "为什么这样写": 47,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.17,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 24,
+        "为什么这样写": 65,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.34,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 18,
+        "为什么这样写": 55,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.24,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 12,
+        "为什么这样写": 51,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.18,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 13,
+        "为什么这样写": 46,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.17,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 6,
+        "为什么这样写": 52,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.19,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.74
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Chapter Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4094,
+    "block_target": [
+      7,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

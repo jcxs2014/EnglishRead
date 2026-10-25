@@ -1,0 +1,376 @@
+{
+  "chapter": 12,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch12 the lavender latte.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch12_chapter_twelve.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Maggie had never wished more for an off switch for her brain. Her thoughts were always a jumbled mess of to-do lists, bi",
+          "ok": true,
+          "pos": 15
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "As she’d walked back to her apartment, she’d repeated a steady litany of worries: I made a deal with Arthur Taliesin. No",
+          "ok": true,
+          "pos": 654
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Maggie had a sudden understanding of what men were trying to achieve with pictures of other parts of their anatomy. Clea",
+          "ok": true,
+          "pos": 1334
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The moment she hit send, she yelped as she realized what she wrote and felt an overwhelming urge to dive into her phone ",
+          "ok": true,
+          "pos": 2008
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She thought she recognized him as the same boy in the photo on Taliesin’s desk, the one who had Taliesin’s smile. Was th",
+          "ok": true,
+          "pos": 3031
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "And then his hands were on her back, his palm hitting between her shoulder blades as she coughed. “All right?” he asked ",
+          "ok": true,
+          "pos": 4409
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It was all very orderly. If anything had really changed between them, it was this effortless way they shared their space",
+          "ok": true,
+          "pos": 5423
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He took the candy from her, his fingers grazing her palm, and suddenly the air felt full of static, like their sweaters ",
+          "ok": true,
+          "pos": 7344
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "And there, lying on her desk, was a delicate sprig of lavender, wrapped in a pretty cream-colored ribbon. Maggie picked ",
+          "ok": true,
+          "pos": 9184
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“I grew up in Soladia with my mom, but my dad and half brother have always lived here.”",
+          "ok": true,
+          "pos": 18924
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "His expression softened. “Never you, Maggie. You just yell at me.”",
+          "ok": true,
+          "pos": 20261
+        }
+      ],
+      "words": 11
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 13,
+        "为什么这样写": 49,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.23,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 16,
+        "为什么这样写": 48,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.25,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 8,
+        "为什么这样写": 56,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.15,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 12,
+        "为什么这样写": 54,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.17,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 12,
+        "为什么这样写": 47,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.2,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 12,
+        "为什么这样写": 59,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.2,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 11,
+        "为什么这样写": 50,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.18,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 15,
+        "为什么这样写": 50,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.18,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 16,
+        "为什么这样写": 38,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.26,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 5,
+        "为什么这样写": 39,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.12,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 13,
+        "为什么这样写": 58,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.24,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.65
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. Chapter Twelve",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3713,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

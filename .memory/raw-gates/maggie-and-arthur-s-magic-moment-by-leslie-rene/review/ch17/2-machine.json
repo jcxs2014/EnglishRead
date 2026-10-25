@@ -1,0 +1,408 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch17 the power of three.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch17_chapter_seventeen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "You don’t have to make out with her in the middle of campus, just do something",
+          "ok": true,
+          "pos": 398
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "When he looked up at Maggie with that guarded grin on her face and saw the hawthorn petals that were stuck in her hair, ",
+          "ok": true,
+          "pos": 613
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“The school is going to distribute free lights to anyone within a mile radius who needs them. Hopefully it will stave of",
+          "ok": true,
+          "pos": 2595
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The squat building was made out of silver shale stone and covered in moss and lichen. It had an original thatched roof t",
+          "ok": true,
+          "pos": 3267
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“About thirty years before they built the original Hawthorn manor house, they attempted to build a road through the Wild",
+          "ok": true,
+          "pos": 10682
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“What if it’s some sort of feedback loop? The presence of all those ghouls and wraiths creating energy that feeds the pa",
+          "ok": true,
+          "pos": 11490
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“What if there was a convergence?”",
+          "ok": true,
+          "pos": 12931
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "On May 6, the day the pall fell, there had been a lunar conjunction—the moon and two planets, appearing all in a line in",
+          "ok": true,
+          "pos": 13301
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Now the damn stars were pushing her toward Taliesin, too? She was mad at herself for even thinking it—love? Taliesin",
+          "ok": true,
+          "pos": 18127
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Eight thousand dollars from my budget isn’t a percentage; it’s the entire thing.”",
+          "ok": true,
+          "pos": 22787
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“I know what people—what men—think of women who cry at work,” she mumbled. “I know this is unprofessional.”",
+          "ok": true,
+          "pos": 24656
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“I thought coming to Hawthorn would",
+          "ok": true,
+          "pos": 27350
+        },
+        {
+          "text": "oh, I don’t know, reinvigorate something that I lost at Dartwood. But I’m still a little lost. And people keep getting h",
+          "ok": true,
+          "pos": 27385
+        }
+      ],
+      "words": 30
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 15,
+        "为什么这样写": 44,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.21,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 10,
+        "为什么这样写": 45,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.16,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 11,
+        "为什么这样写": 48,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.18,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 11,
+        "为什么这样写": 47,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.14,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 8,
+        "为什么这样写": 41,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.16,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 10,
+        "为什么这样写": 41,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.16,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 3,
+        "为什么这样写": 36,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.18,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 8,
+        "为什么这样写": 40,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.2,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 7,
+        "为什么这样写": 47,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.15,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 9,
+        "为什么这样写": 37,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.2,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 13,
+        "为什么这样写": 41,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.23,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 15,
+        "为什么这样写": 47,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.23,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.43
+      }
+    }
+  ],
+  "form": {
+    "h1": "17. Chapter Seventeen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5122,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

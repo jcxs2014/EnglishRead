@@ -1,0 +1,376 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch15 she kept the mask too.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch15_chapter_fifteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "His thoughts were a rush—She was only out tonight because of me, only here so late because we had to go over every one o",
+          "ok": true,
+          "pos": 443
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "There was something fragile between them, something that drew them together like beads on a string, and he didn’t want t",
+          "ok": true,
+          "pos": 2247
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "He found Maggie right away, sitting in the seat of a large half-moon window that looked down on the street below. She ha",
+          "ok": true,
+          "pos": 3342
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I was so burnt out after grad school, and I needed a new focus, but I had no idea what it would be. I didn’t trust myse",
+          "ok": true,
+          "pos": 5127
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Well, there’s a line in the fifteenth stanza that has been translated about a dozen different ways. I was reading the o",
+          "ok": true,
+          "pos": 6286
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "How long had their lives been running in this parallel until they crashed together last August",
+          "ok": true,
+          "pos": 7350
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He looked down: Difficult Conversations at Work: Talking to Colleagues with Ease. His ears grew hot and, he knew from ex",
+          "ok": true,
+          "pos": 8451
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Dean Clearwater will reject my tenure application if a ghoul eats you on my watch. Then he’d murder me",
+          "ok": true,
+          "pos": 10068
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "There, hanging in her car by a delicate ribbon, was the mask with its drying leaves and flower petals, its twin slumberi",
+          "ok": true,
+          "pos": 12331
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Oh, see, I thought you’d follow me back home in your car, and then I’d insist on following you to Atlantia, until you f",
+          "ok": true,
+          "pos": 10965
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Gods below, all he really wanted to do was lean across the center console and kiss her",
+          "ok": true,
+          "pos": 13933
+        }
+      ],
+      "words": 17
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 11,
+        "为什么这样写": 51,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.23,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 18,
+        "为什么这样写": 43,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.29,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 13,
+        "为什么这样写": 48,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.19,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 13,
+        "为什么这样写": 56,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.21,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 11,
+        "为什么这样写": 56,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.19,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 6,
+        "为什么这样写": 48,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.13,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 10,
+        "为什么这样写": 46,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.17,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 13,
+        "为什么这样写": 45,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.22,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 16,
+        "为什么这样写": 46,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.21,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 20,
+        "为什么这样写": 52,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.2,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 8,
+        "为什么这样写": 45,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.17,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.64
+      }
+    }
+  ],
+  "form": {
+    "h1": "15. Chapter Fifteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2635,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

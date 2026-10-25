@@ -1,0 +1,359 @@
+{
+  "chapter": 30,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch30 summer isnt real life.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch30_chapter_thirty.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "They were at the mercy of the decoction, which was slowly settling into the dark eggplant purple they needed to show it ",
+          "ok": true,
+          "pos": 188
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She was insatiable for Arthur. For the sex, yes, but also for his company",
+          "ok": true,
+          "pos": 1631
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But slowly, she was starting to realize that, maybe, Evan had always made her feel small",
+          "ok": true,
+          "pos": 2605
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“No,” she said quickly before she could lose her nerve",
+          "ok": true,
+          "pos": 3540
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I’m so",
+          "ok": true,
+          "pos": 5261
+        },
+        {
+          "text": "happy.” Maggie muttered the word happy like it was miserable or devastated instead",
+          "ok": true,
+          "pos": 5267
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“But I have spent the last eight months hating Arthur Taliesin. And when I wasn’t hating him, I found him to be insuffer",
+          "ok": true,
+          "pos": 6025
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Summer isn’t real life.”",
+          "ok": true,
+          "pos": 6616
+        }
+      ],
+      "words": 4
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Taliesin is not Evan.”",
+          "ok": true,
+          "pos": 7046
+        },
+        {
+          "text": "“Don’t give up your happiness because you’re afraid. That’s a coward’s move, Mags.”",
+          "ok": true,
+          "pos": 7149
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“You are not the same Maggie Linden you were four years ago.\"",
+          "ok": true,
+          "pos": 7902
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Obviously,” Maggie said with a sigh. “I’m sure this is a terrible idea, but he was so nonchalant about it.\"",
+          "ok": true,
+          "pos": 10093
+        }
+      ],
+      "words": 20
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 9,
+        "为什么这样写": 38,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.16,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 8,
+        "为什么这样写": 52,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.24,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 13,
+        "为什么这样写": 38,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.22,
+        "为什么这样写": 0.4,
+        "读者视角提示": 0.23
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 6,
+        "为什么这样写": 39,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.15,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 10,
+        "为什么这样写": 38,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.17,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.39
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 11,
+        "为什么这样写": 43,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.21,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 8,
+        "关键词": 8,
+        "为什么这样写": 49,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.28,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 7,
+        "为什么这样写": 40,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.45,
+        "关键词": 0.13,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 6,
+        "为什么这样写": 35,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.14,
+        "为什么这样写": 0.32,
+        "读者视角提示": 0.39
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 10,
+        "为什么这样写": 45,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.26,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.68
+      }
+    }
+  ],
+  "form": {
+    "h1": "30. Chapter Thirty",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1908,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

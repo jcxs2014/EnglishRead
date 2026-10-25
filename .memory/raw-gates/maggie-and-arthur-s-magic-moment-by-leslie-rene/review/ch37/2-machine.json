@@ -1,0 +1,322 @@
+{
+  "chapter": 37,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch37 epilogue samhain.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch37_epilogue_samhain.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He had even persuaded Maggie to let him borrow his old tweed jacket",
+          "ok": true,
+          "pos": 175
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The parties they would attend, the costumes they’d wear, the person they hoped to find, masked, beneath the stars",
+          "ok": true,
+          "pos": 1018
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The magic had long worn off and the petals were dry and had curled at the edges, muted versions of the bright things the",
+          "ok": true,
+          "pos": 2303
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Oh, I almost forgot,” she said casually, “my translation was accepted to the Diadhan Review.”",
+          "ok": true,
+          "pos": 3575
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He was a methodical researcher",
+          "ok": true,
+          "pos": 5545
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“The mystery man,” Rodrigo said as they walked in",
+          "ok": true,
+          "pos": 8062
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It turned out, Arthur Taliesin was a sentimental fool",
+          "ok": true,
+          "pos": 8731
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She could hear his heartbeat beneath the fabric of his jacket and knew, with absolute certainty, that this was where she",
+          "ok": true,
+          "pos": 9081
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Bury my body, love, my bones. Hand in hand, let me rest",
+          "ok": true,
+          "pos": 9992
+        }
+      ],
+      "words": 12
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 7,
+        "为什么这样写": 41,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.11,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 13,
+        "为什么这样写": 49,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.2,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 16,
+        "为什么这样写": 47,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.21,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 7,
+        "为什么这样写": 39,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.47,
+        "关键词": 0.11,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.41
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 9,
+        "为什么这样写": 34,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.28,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.26
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 5,
+        "为什么这样写": 51,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.25,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.3
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 11,
+        "关键词": 7,
+        "为什么这样写": 47,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.41,
+        "关键词": 0.28,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.39
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 17,
+        "为什么这样写": 48,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.2,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 16,
+        "为什么这样写": 34,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.27,
+        "为什么这样写": 0.25,
+        "读者视角提示": 0.3
+      }
+    }
+  ],
+  "form": {
+    "h1": "37. Epilogue: Samhain",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1814,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

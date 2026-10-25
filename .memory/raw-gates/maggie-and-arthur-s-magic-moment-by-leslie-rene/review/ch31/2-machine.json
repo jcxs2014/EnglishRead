@@ -1,0 +1,349 @@
+{
+  "chapter": 31,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch31 try not to break his heart.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch31_chapter_thirty_one.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Gods above, I can finally defrost",
+          "ok": true,
+          "pos": 612
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The last time we were on this beach, you were wearing a tweed jacket",
+          "ok": true,
+          "pos": 2329
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Then Rory was grasping Maggie’s hand in his, and Arthur’s worlds were colliding",
+          "ok": true,
+          "pos": 3341
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It crisscrossed her body with peeks of skin at her hip, her waist, between her breasts",
+          "ok": true,
+          "pos": 4179
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The sound of the ocean waves reminded him of Beltane, constant and sure, like a heartbeat",
+          "ok": true,
+          "pos": 6583
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "They ate buttery popcorn and hot dogs slathered in mustard, cheered loudly when Simon walked onto first base and then sc",
+          "ok": true,
+          "pos": 7849
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Maggie waved him off. “Oh, no, it’s okay. I want to talk to him about the game.”",
+          "ok": true,
+          "pos": 11572
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“But has he? Treated you right?”",
+          "ok": true,
+          "pos": 13642
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“There’s been such a lightness to Arthur ever since you came into his life.”",
+          "ok": true,
+          "pos": 14831
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Try not to break his heart too hard,” Lane finally said, walking over to Barry’s outstretched hand and getting into the",
+          "ok": true,
+          "pos": 15821
+        }
+      ],
+      "words": 29
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 2,
+        "为什么这样写": 38,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.18,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 8,
+        "为什么这样写": 39,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.24,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 15,
+        "关键词": 9,
+        "为什么这样写": 36,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.17,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 9,
+        "为什么这样写": 46,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.24,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 8,
+        "为什么这样写": 43,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.19,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 7,
+        "为什么这样写": 41,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.17,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 6,
+        "为什么这样写": 44,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.21,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 8,
+        "关键词": 4,
+        "为什么这样写": 32,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.19,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.31
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 14,
+        "为什么这样写": 29,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.2,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 14,
+        "为什么这样写": 36,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.25,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.72
+      }
+    }
+  ],
+  "form": {
+    "h1": "31. Chapter Thirty-One",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2940,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

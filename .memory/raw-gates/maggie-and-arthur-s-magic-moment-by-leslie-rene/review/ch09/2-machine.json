@@ -1,0 +1,381 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch09 three things for certain.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch09_chapter_nine.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Arthur Taliesin knew three things for certain as he shook his office mate’s hand: He never should have taken the job at ",
+          "ok": true,
+          "pos": 13
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The magic the mask’s rune had wound around his memories was unraveling, and, bit by bit, fragments from Beltane crashed ",
+          "ok": true,
+          "pos": 567
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Which was utterly and completely panicked, for the record",
+          "ok": true,
+          "pos": 508
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Even on Beltane he had known the mask’s magic was flimsy, but the idea of ever running into the woman again had seemed i",
+          "ok": true,
+          "pos": 1214
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He would never consider getting seriously involved with a colleague anyway, and he’d known within a month of meeting Mag",
+          "ok": true,
+          "pos": 3876
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "It cleared the fog the memories of their kiss had drummed up in his brain, and he remembered why he had agreed to her he",
+          "ok": true,
+          "pos": 4749
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He’d been meaning to tell her how much he enjoyed it, how innovative he found it, but all the realities of a new profess",
+          "ok": true,
+          "pos": 10943
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Until he realized just how much she hated him, for reasons that were a complete mystery to him. But even that",
+          "ok": true,
+          "pos": 11376
+        },
+        {
+          "text": "there was something, maybe, a little bit thrilling about the fact that she didn’t care about him or who he was at all",
+          "ok": true,
+          "pos": 11486
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Her concern warmed something that had been cold and dead in Arthur for a long time. Maybe Maggie didn’t hate him after a",
+          "ok": true,
+          "pos": 12556
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He walked on one of the parking lot lines like it was a balance beam and this was a sobriety test",
+          "ok": true,
+          "pos": 12868
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "If you wanted my number that bad, I’m sure Edna would have just given it to you.\" And it was more than a small thrill th",
+          "ok": true,
+          "pos": 13603
+        }
+      ],
+      "words": 41
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 17,
+        "为什么这样写": 52,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.53,
+        "关键词": 0.21,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 13,
+        "为什么这样写": 41,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.19,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 12,
+        "为什么这样写": 42,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.21,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 13,
+        "为什么这样写": 58,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.24,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 14,
+        "为什么这样写": 51,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.21,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 12,
+        "为什么这样写": 49,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.18,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 12,
+        "为什么这样写": 60,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.17,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 9,
+        "为什么这样写": 54,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.18,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 11,
+        "为什么这样写": 47,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.17,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 7,
+        "为什么这样写": 50,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.19,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 16,
+        "为什么这样写": 48,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.24,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "09. Chapter Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2555,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

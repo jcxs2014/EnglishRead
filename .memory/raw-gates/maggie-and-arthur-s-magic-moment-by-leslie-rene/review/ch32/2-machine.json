@@ -1,0 +1,376 @@
+{
+  "chapter": 32,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch32 goodbye arthur.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch32_chapter_thirty_two.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was just as easy for her mind to spin this nightmare",
+          "ok": true,
+          "pos": 1721
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Please let him know that the paperwork has been filed and approved by the board. His grant is fully funded.”",
+          "ok": true,
+          "pos": 3693
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“And did you complain to Dr. Taliesin about the error? I understand your project was defunded, and that’s very disappoin",
+          "ok": true,
+          "pos": 4190
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“You weren’t my first choice,” he said. “But I didn’t make the office assignments. Dr. Taliesin did. I tried to get him ",
+          "ok": true,
+          "pos": 6726
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Evan has already let me know that you were struggling. That he has been helping you stay afloat for a year now",
+          "ok": true,
+          "pos": 8517
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“I don’t tell my family every time I end up fucking a friend.”",
+          "ok": true,
+          "pos": 11057
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“There has been an expiration date on this from the moment you kissed me in that tent.”",
+          "ok": true,
+          "pos": 12989
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She had the horrible thought that maybe Evan wasn’t the problem at all. Maybe it was her",
+          "ok": true,
+          "pos": 13700
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“This has to end. Now,” she went on. “Before we hurt each other more. Before our lives are too intertwined.”",
+          "ok": true,
+          "pos": 14135
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Can I kiss you goodbye at least? One last time?”",
+          "ok": true,
+          "pos": 15456
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "His face collapsed, but he turned and left the office, closing the door behind him",
+          "ok": true,
+          "pos": 16193
+        }
+      ],
+      "words": 15
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 6,
+        "为什么这样写": 41,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.24,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 10,
+        "为什么这样写": 46,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.24,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 12,
+        "为什么这样写": 40,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.21,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 10,
+        "为什么这样写": 43,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.21,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 8,
+        "为什么这样写": 49,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.19,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 5,
+        "为什么这样写": 50,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.24,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 11,
+        "为什么这样写": 41,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.2,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 9,
+        "为什么这样写": 47,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.2,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 8,
+        "为什么这样写": 38,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.23,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 15,
+        "关键词": 8,
+        "为什么这样写": 50,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.2,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 9,
+        "为什么这样写": 30,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.18,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.69
+      }
+    }
+  ],
+  "form": {
+    "h1": "32. Chapter Thirty-Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3075,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

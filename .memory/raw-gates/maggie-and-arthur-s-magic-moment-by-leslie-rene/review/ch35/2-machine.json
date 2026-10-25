@@ -1,0 +1,349 @@
+{
+  "chapter": 35,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch35 i love you arthur taliesin.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch35_chapter_thirty_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She had frantically tied off the incantation, pausing the magic to prevent another pall-feeding error",
+          "ok": true,
+          "pos": 904
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Please wake up,” she begged. “I need you.”",
+          "ok": true,
+          "pos": 2794
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“You’re Arthur Taliesin,” she said, so close their lips were nearly brushing. “You’re a world-renowned alchemist and sch",
+          "ok": true,
+          "pos": 4999
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“You’re stubborn and aloof. You’re brilliant. You’re a pain in my ass.”",
+          "ok": true,
+          "pos": 5615
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“You’re the kindest man I’ve ever known,” she said",
+          "ok": true,
+          "pos": 5889
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“I love you, Arthur Taliesin.” She pressed her forehead into his and said it again. “I love you, Arthur.”",
+          "ok": true,
+          "pos": 6496
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "They gripped the edges of a table and let it move around them like they were river stones",
+          "ok": true,
+          "pos": 7682
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "the fissure began to close, like it was being sewn by an invisible hand, one looping stitch after another",
+          "ok": true,
+          "pos": 8496
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“A wraith possession! That’s so rare.”",
+          "ok": true,
+          "pos": 9305
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“I’m just glad we did this one last thing together.”",
+          "ok": true,
+          "pos": 11951
+        }
+      ],
+      "words": 10
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 16,
+        "为什么这样写": 35,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.2,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.34
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 7,
+        "为什么这样写": 43,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.27,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 14,
+        "为什么这样写": 32,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.15,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 12,
+        "为什么这样写": 31,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.27,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 5,
+        "为什么这样写": 25,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.25,
+        "为什么这样写": 0.3,
+        "读者视角提示": 0.26
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 7,
+        "为什么这样写": 30,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.41,
+        "关键词": 0.09,
+        "为什么这样写": 0.29,
+        "读者视角提示": 0.29
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 7,
+        "为什么这样写": 37,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.22,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 15,
+        "为什么这样写": 46,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.22,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 8,
+        "关键词": 2,
+        "为什么这样写": 39,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.07,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 10,
+        "为什么这样写": 36,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.31,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.47
+      }
+    }
+  ],
+  "form": {
+    "h1": "35. Chapter Thirty-Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2176,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

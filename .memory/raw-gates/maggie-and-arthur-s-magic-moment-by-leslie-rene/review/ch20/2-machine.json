@@ -1,0 +1,354 @@
+{
+  "chapter": 20,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch20 its yours.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch20_chapter_twenty.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The spiderwebs the spell had cast over her memory faded as if blown away on a breeze, and she wasn’t sure how she’d neve",
+          "ok": true,
+          "pos": 1783
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Every part of her had yearned for him, she just hadn’t known it. The inexplicable draw to him she’d felt since that very",
+          "ok": true,
+          "pos": 2232
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "If he did know, he had decided not to tell her. Perhaps because now that he knew, he couldn’t stand the idea that it had",
+          "ok": true,
+          "pos": 2772
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Arthur swallowed and his throat bobbed. “The nightmares.”",
+          "ok": true,
+          "pos": 3674
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I gathered that he was a young boy who never got to be much older than my nephew.”",
+          "ok": true,
+          "pos": 5085
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“We have to help them home,” she said quietly",
+          "ok": true,
+          "pos": 5674
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“No. Not today. You are going to go home, and you are going to rest. And you are going to text me every hour so I know t",
+          "ok": true,
+          "pos": 6370
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "There was a small, ever-so-tiny part of Maggie that liked the way he sometimes told her exactly what he wanted her to do",
+          "ok": true,
+          "pos": 9191
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Does that mean I have to give this back?” she asked, tucking her arms back under the jacket",
+          "ok": true,
+          "pos": 8049
+        },
+        {
+          "text": "His eyes widened just for a moment before he said, “It’s yours.”",
+          "ok": true,
+          "pos": 8226
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Good girl,” Arthur whispered",
+          "ok": true,
+          "pos": 12722
+        }
+      ],
+      "words": 4
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 13,
+        "为什么这样写": 49,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.19,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 14,
+        "为什么这样写": 49,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.2,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 11,
+        "为什么这样写": 51,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.2,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 11,
+        "关键词": 6,
+        "为什么这样写": 50,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.15,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 18,
+        "为什么这样写": 48,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.28,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 5,
+        "为什么这样写": 44,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.26,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 14,
+        "为什么这样写": 37,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.24,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 16,
+        "为什么这样写": 49,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.23,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 15,
+        "为什么这样写": 45,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.22,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 6,
+        "关键词": 5,
+        "为什么这样写": 46,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.38,
+        "关键词": 0.19,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.51
+      }
+    }
+  ],
+  "form": {
+    "h1": "20. Chapter Twenty",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2421,
+    "block_target": [
+      4,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

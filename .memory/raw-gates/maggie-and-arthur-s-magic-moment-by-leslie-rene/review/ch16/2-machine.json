@@ -1,0 +1,376 @@
+{
+  "chapter": 16,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/ch16 the apology croissant.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/maggie-and-arthur-s-magic-moment-by-leslie-rene/text/ch16_chapter_sixteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Just bringing my friend some breakfast,” Maggie said with a certain nonchalance that she knew Dahlia would see through ",
+          "ok": true,
+          "pos": 625
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“You are a linguist; you absolutely know what I mean by a little reduplication. Coffee coffee,” she repeated. “Was it co",
+          "ok": true,
+          "pos": 1595
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“The facts are that he’s got a serious case of pathological guilt,” Maggie said, and even though she felt a little mean,",
+          "ok": true,
+          "pos": 3871
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Least of all you. The words were burned in Maggie’s memory, but even though she wasn’t in the habit of lying to Dahlia, ",
+          "ok": true,
+          "pos": 2955
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Maggie bit her lip. “He was interrupted during the incantation. A family emergency,” Maggie explained, but she didn’t gi",
+          "ok": true,
+          "pos": 6729
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "There wasn’t room for two men in her brain, and, infuriatingly, Taliesin was taking up all the space",
+          "ok": true,
+          "pos": 8150
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He had intentionally built the manor to be an observation point for the Wilds, with wide, tall windows on the upper floo",
+          "ok": true,
+          "pos": 9893
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Vervain and yew were for many things but primarily warding spellwork that repelled or banished fantasmia; wormwood and m",
+          "ok": true,
+          "pos": 10566
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Taliesin bounded around from the chalkboard to the lectern to directly in front of his students’ desks without any of th",
+          "ok": true,
+          "pos": 13700
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Gods above, is he a good teacher, too",
+          "ok": true,
+          "pos": 14742
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "But now, the fluttering feeling curdled slightly. It all reminded her too much of her ex, of Evan, of the way they’d cas",
+          "ok": true,
+          "pos": 16863
+        }
+      ],
+      "words": 42
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 8,
+        "为什么这样写": 37,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.19,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 4,
+        "为什么这样写": 46,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.42,
+        "关键词": 0.09,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 9,
+        "为什么这样写": 39,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.21,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 9,
+        "为什么这样写": 48,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.18,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 14,
+        "为什么这样写": 38,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.24,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 13,
+        "为什么这样写": 38,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.26,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 9,
+        "为什么这样写": 45,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.15,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 17,
+        "为什么这样写": 50,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.22,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 14,
+        "为什么这样写": 43,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.19,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 7,
+        "为什么这样写": 42,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.23,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 15,
+        "为什么这样写": 43,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.19,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.49
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Chapter Sixteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 11,
+    "block_range": [
+      9,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3069,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 36 章中位 11、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
