@@ -1,0 +1,49 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch22",
+ "text": "notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/text/ch22_chapter_22.txt",
+ "facts": [
+  {
+   "fact": "周日清晨收拾行李：头晚已叠好衣物；两千比索赃款塞进小行李箱箱衬，顺手拿走 ivory 盒与一对耳环。",
+   "anchor": "He did not have that many things to pack, and he had folded most of his clothes and set them aside the previous night.",
+   "start": 5,
+   "end": 123
+  },
+  {
+   "fact": "逃亡路线：港口卖车（黑心买家好找）→登船去 Tampico→继续向北；还有 Monclova 的寡妇可以写信。",
+   "anchor": "He’d go down to the port and sell the car there, where a crooked buyer might easily be found.",
+   "start": 717,
+   "end": 810
+  },
+  {
+   "fact": "心理建设：重回邮购骗局老本行——「杀人？我一窍不通」；至少要四周恢复业务、得买新杂志查芳心栏。",
+   "anchor": "Soon he’d be crafting letters studded with baroque compliments and corny lines.",
+   "start": 1321,
+   "end": 1400
+  },
+  {
+   "fact": "想过给 Inés 留白信封现金、叫她自己也逃——随即笑自己犯傻。",
+   "anchor": "He might send money in a crisp white envelope addressed to her.",
+   "start": 2070,
+   "end": 2133
+  },
+  {
+   "fact": "自我开脱：这行不保证成功、她算不上正经合伙人——但「她从没背叛过我，手很稳」；决定从此单干。",
+   "anchor": "Then again, he didn’t owe her anything.",
+   "start": 2619,
+   "end": 2658
+  },
+  {
+   "fact": "出门：倒车上街后跳下车重新关好铁门「装装样子」——不让 Perla 起疑；北风推着海雾上山。",
+   "anchor": "He tossed the cigarette away and opened the gates of the house, smoothly maneuvered the vehicle to the street.",
+   "start": 3917,
+   "end": 4027
+  },
+  {
+   "fact": "驶离：雾如情人抱住小镇、新娘面纱般白；他转动方向盘穿过街道，想的还是她——雾分开为他让路。",
+   "anchor": "Yet he thought of her as he spun the wheel and drifted through the town’s streets, as the fog parted and bade him goodbye.",
+   "start": 4908,
+   "end": 5030
+  }
+ ]
+}
