@@ -63,7 +63,7 @@ modified: "2026-10-25"
 
 **为什么这样写**：句子在这里分成四段坠落：一个还在整理衣服的动作、一段慢镜头、一张脸、一个温度。slow motion 不是修辞的装饰，而是身体先于意识知道出了事——她的腿已经按坏消息的速度在走。Jaw slack, lids parted 全是解剖学式的细节，没有一句「他死了」；死亡被推迟到用 temperature 说出口：cold as a river stone，冷得有重量、有水气、有被冲刷过的圆滑。
 
-**读者视角提示**：整章唯一一次直说死亡，是下一段末尾的一个从句。作者把最重的事实放在最轻的语法位置上，这是本书处理创伤的基本手法。
+**读者视角提示**：整章几乎不直说死亡，唯一的例外是下一段末尾的一个从句。作者把最重的事实放在最轻的语法位置上，这是本书处理创伤的基本手法。
 
 > **原句 6:** "Elisabeth. The only thing she was thinking about was Elisabeth, and whether her daughter would have any reason to love her now that he was dead."
 

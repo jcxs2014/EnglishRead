@@ -61,7 +61,7 @@ modified: "2026-10-25"
 
 **关键词**：stern · pull yourself together
 
-**为什么这样写**：全书里 Laura 是唯一一个敢训 Catherine 的人，而作者让她用「像个失望的母亲」来形容她——Catherine 需要的正是有人以母亲的身份对她说话。这一段的关键转折在「for your daughter」：把这件事从「发生在我身上的事」变成「发生在她身上的事」，这是 Catherine 全书最难接受的一句话。
+**为什么这样写**：全书里敢训 Catherine 的人不多，Laura 是其中一个，而作者让她用「像个失望的母亲」来形容她——Catherine 需要的正是有人以母亲的身份对她说话。这一段的关键转折在「for your daughter」：把这件事从「发生在我身上的事」变成「发生在她身上的事」，这是 Catherine 全书最难接受的一句话。
 
 **读者视角提示**：她后面擦鼻涕、听见远处的警笛，然后念了三遍女儿的名字。这段沉默比 Laura 的话更响。
 
@@ -83,7 +83,7 @@ modified: "2026-10-25"
 
 **为什么这样写**：这一段的力量全在细节的准确度上：头发更多、还没刮掉的胡子、史努比 T 恤。作者不写「她看见父亲」，她写她看见的是哪一个版本的父亲——一个活着的、尚未被疾病削掉的人。「in a way she’d been so scared she’d never see again」是全章最柔软的一句：恐惧的对象不是死，是再也想不起来。
 
-**读者视角提示**：这件 T 恤是全书里唯一一次出现的具体衣物。记住它，因为这就是她能带走的全部。
+**读者视角提示**：这是全书少有的、给到图案层面的衣物细节。记住它，因为这就是她能带走的全部。
 
 > **原句 8:** "She slowly moves her hand. “Bye—goodbye, goodbye—I love you, goodbye.” She doesn’t want it to end. The wave gets bigger because his boat is pulling away from land and he’s getting farther away, and she needs him to see her."
 
@@ -93,7 +93,7 @@ modified: "2026-10-25"
 
 **为什么这样写**：她终于说出全书欠着的那句话（前面 Charlie 说过「你不需要说出口」，这里她偏要说）。作者把挥手写成物理补偿：船越远，动作越大——爱在距离里变成一种必须被看见的用力。破折号切碎了句子，就像她的声音。
 
-**读者视角提示**：这是全书里她第一次对父亲说话，而他已经死了五个月。
+**读者视角提示**：这是全书里她第一次对父亲说话，而他已经不在了。
 
 > **原句 9:** "“I feel like I’ve done everything wrong,” Catherine says. “I’m a terrible mother. I don’t feel like the person I wanted to be. Like the person I always thought I would be. It’s like that’s just a parallel life that I can’t even touch. The lines never meet."
 
@@ -101,7 +101,7 @@ modified: "2026-10-25"
 
 **关键词**：parallel life · never meet
 
-**为什么这样写**：她在一幅八百年前的圣母像面前说这段话，而作者让圣母真的回答她——这是全书唯一一次超现实，却毫不突兀，因为一个人在博物馆里对着画说话，本来就是最古老的祈祷方式。「parallel life」这个说法把遗憾说成几何：不是「我没做到」，是「另有一条线，我摸不到」。
+**为什么这样写**：她在一幅中世纪的圣母像面前说这段话，而作者让圣母真的回答她——这是全书最像超现实的一次，却毫不突兀，因为一个人在博物馆里对着画说话，本来就是最古老的祈祷方式。「parallel life」这个说法把遗憾说成几何：不是「我没做到」，是「另有一条线，我摸不到」。
 
 **读者视角提示**：注意她不是在向神父告解，是在向一个同样是少女妈妈、同样生了一个不是丈夫的孩子的女人告解。
 
@@ -151,7 +151,7 @@ modified: "2026-10-25"
 
 **关键词**：powerful · in charge
 
-**为什么这样写**：这是全书里 Tomas 最长的一次点评，也是这本书对「艺术」下的判断：真不等于好，失控的力量还不是技艺。作者用「like commandments」写她的服从，又让他的话精确地击中她——她确实不是掌控者，这就是她刚刚做到那件事的代价。
+**为什么这样写**：Tomas 难得说了这么长一段，也是这本书对「艺术」下的判断：真不等于好，失控的力量还不是技艺。作者用「like commandments」写她的服从，又让他的话精确地击中她——她确实不是掌控者，这就是她刚刚做到那件事的代价。
 
 **读者视角提示**：她问「我还能留下吗」，他说「这从来不是问题」。她怕的那件事，从头到尾只在她自己脑子里。
 

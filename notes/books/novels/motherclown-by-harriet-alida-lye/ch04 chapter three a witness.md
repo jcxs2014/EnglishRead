@@ -83,7 +83,7 @@ modified: "2026-10-25"
 
 **为什么这样写**：Laura 这句话同时是安慰和反驳，句式用死亡开场、用生命收尾，把 Catherine 的丧女之痛整整翻了一面。作者让一个刚说完「完美的中年危机去处」的人说出全章最温柔的一句，是给她一个可信的对手：不是不理解，是理解之后仍然不同意。这句话此后会一直悬在 Catherine 头顶——她的巴黎之行到底是生，还是死。
 
-**读者视角提示**：Laura 是全章唯一敢反驳她的人。留意此后谁还能对她说这种话。
+**读者视角提示**：Laura 敢反驳她——全书里敢这么对她的人不多。留意此后还有谁。
 
 > **原句 8:** "She lays on her bed widthways, across both her and Seb’s sides, and stares at the ceiling. Tomorrow she will be on a plane, and it feels like the bravest thing she’s ever done."
 

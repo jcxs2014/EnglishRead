@@ -53,7 +53,7 @@ modified: "2026-10-25"
 
 **为什么这样写**：全书最重要的一次自我审查，而且它发生在当事人面前——她一边看着他，一边重新审理二十年前的那件事。「It felt hot, it felt consensual」这两句是在替对方说话，紧跟着一句「but she never consented」把它推翻：感受上的同意，不等于同意。作者让她在这一刻才想明白，是因为只有在恐惧回来的时候，真相才跟着回来。
 
-**读者视角提示**：这一段是全书对「当年到底发生了什么」唯一一次明确表态。注意它用的是「predator/prey」这对词，而不是「abuse」。
+**读者视角提示**：这一段是全书对「当年到底发生了什么」最明确的一次表态。注意它用的是「predator/prey」这对词，而不是「abuse」。
 
 > **原句 5:** "“There is no journalist. I’m the one who called. I’m here because we slept together.” He stops flicking the pages, but still, he says nothing. His head raises, but he otherwise does not move."
 
