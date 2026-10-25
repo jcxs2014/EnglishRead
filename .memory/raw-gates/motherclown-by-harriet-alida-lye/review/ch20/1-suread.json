@@ -1,0 +1,53 @@
+{
+  "chapter": "ch20",
+  "facts": [
+    {
+      "anchor": "Elise buys a black cloth coat from a friperie in the Marais",
+      "start": 36,
+      "end": 95,
+      "fact": "天气转冷，Elise 在玛黑区的一家旧衣店买了一件黑色布大衣。"
+    },
+    {
+      "anchor": "She will use two of the neutral leather masks. It will be a two-hander",
+      "start": 821,
+      "end": 891,
+      "fact": "她要用两个中性皮革面具，把戏做成双人戏、却由她一人演出。"
+    },
+    {
+      "anchor": "She shakes her head. She’s doing it wrong. She tries to picture more people",
+      "start": 14023,
+      "end": 14098,
+      "fact": "在“告别”练习中她摇头，试着多想象几个人，但脑中只有父亲。"
+    },
+    {
+      "anchor": "It’s been four days now and Elise hasn’t responded to any of her texts",
+      "start": 7494,
+      "end": 7564,
+      "fact": "已过四天，Elise 不回母亲的短信和邮件，Catherine 的电话都直接转语音信箱。"
+    },
+    {
+      "anchor": "Her mom goes straight to the periphery, which is in the dark",
+      "start": 38246,
+      "end": 38306,
+      "fact": "进场后她母亲径直走到场地边缘的暗处，Elise 看不见她。"
+    },
+    {
+      "anchor": "There was something very raw about it, very strong. But it had power over you.",
+      "start": 45751,
+      "end": 45829,
+      "fact": "演出后 Tomas 说这段表演很原始、很强，但力量控制了她，她不是掌控体验的人；他还说这不能算表演。"
+    },
+    {
+      "anchor": "“Of course,” he says. “This was never in question.”",
+      "start": 46156,
+      "end": 46207,
+      "fact": "她问自己是否还能留在项目里，Tomas 回答当然可以，这从来不是问题。"
+    },
+    {
+      "anchor": "She doesn’t see her mother there, she only sees herself, but she’s not herself anymore.",
+      "start": 46484,
+      "end": 46571,
+      "fact": "演出结束后她在走廊镜子里看不到母亲，只看到自己，而她已经不是原来的自己。"
+    }
+  ]
+}

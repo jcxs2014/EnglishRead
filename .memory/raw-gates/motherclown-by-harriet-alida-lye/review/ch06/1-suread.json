@@ -1,0 +1,53 @@
+{
+  "chapter": "ch06",
+  "facts": [
+    {
+      "anchor": "This is not aerobics. There are no water bottles in the room.",
+      "start": 5887,
+      "end": 5948,
+      "fact": "Magdalena 当众指出 Elise 手里的水瓶，宣布教室不是健身课、教室里不许出现水瓶。"
+    },
+    {
+      "anchor": "Aya on the other side, right there, with a mesh market bag over her shoulder",
+      "start": 9895,
+      "end": 9971,
+      "fact": "Elise 过运河人行桥时看见 Aya 站在对岸，肩上挎着网兜购物袋，里面装着一瓶酒。"
+    },
+    {
+      "anchor": "She pulls her notebook and pen out of her backpack and looks around the room.",
+      "start": 14334,
+      "end": 14411,
+      "fact": "在酒吧里，Elise 从背包里取出笔记本和笔，环顾四周后请求给 Aya 画像。"
+    },
+    {
+      "anchor": "We met at a bar, she was a dancer.",
+      "start": 22867,
+      "end": 22901,
+      "fact": "Aya 说自己的初恋对象是在酒吧认识的一名女舞者，年纪比她大。"
+    },
+    {
+      "anchor": "And I guess it is fraud. Six thousand euros. Can you believe it?",
+      "start": 36917,
+      "end": 36981,
+      "fact": "Catherine 说自己被网络骗子骗走 Six thousand euros，账户因此被冻结。"
+    },
+    {
+      "anchor": "Aya, this is my mother. Catherine.” Elise doesn’t meet her mother’s questioning stare",
+      "start": 36251,
+      "end": 36336,
+      "fact": "Elise 向 Aya 介绍 Catherine 是自己的母亲。"
+    },
+    {
+      "anchor": "At the bottom, she sets herself up by a tree.",
+      "start": 69347,
+      "end": 69392,
+      "fact": "Catherine 下到桥边的河岸，在一棵树旁支起画架。"
+    },
+    {
+      "anchor": "The paints come in a little red leather box and that alone costs €577",
+      "start": 68546,
+      "end": 68615,
+      "fact": "Catherine 在画材店买下一盒红色皮盒装的油画颜料，单这一盒就要 €577。"
+    }
+  ]
+}

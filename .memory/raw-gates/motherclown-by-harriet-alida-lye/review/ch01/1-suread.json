@@ -1,0 +1,47 @@
+{
+  "chapter": "ch01",
+  "facts": [
+    {
+      "anchor": "Catherine woke up from a dream where she finally told her husband",
+      "start": 23,
+      "end": 88,
+      "fact": "凯瑟琳从梦里醒来，梦里她终于告诉丈夫自己已经不爱他了。"
+    },
+    {
+      "anchor": "Then she remembered Elisabeth was at Max’s house.",
+      "start": 589,
+      "end": 638,
+      "fact": "她随后想起女儿伊丽莎白在马克斯（Max）家。"
+    },
+    {
+      "anchor": "the reflective orange leggings Seb insisted she wear",
+      "start": 935,
+      "end": 987,
+      "fact": "她穿上塞布（Seb）坚持让她穿的橙色反光紧身裤。"
+    },
+    {
+      "anchor": "She was only forty. Young enough for a second life, if she started now.",
+      "start": 1216,
+      "end": 1287,
+      "fact": "她只有四十岁。"
+    },
+    {
+      "anchor": "when she went out for her run. But that morning, he hadn’t moved",
+      "start": 1564,
+      "end": 1628,
+      "fact": "以往她出门跑步时他会开始看书，但那天早上他没有动。"
+    },
+    {
+      "anchor": "Jaw slack, lids parted. He was cold as a river stone.",
+      "start": 1808,
+      "end": 1861,
+      "fact": "他下颌松弛、眼睑半开，身体冷得像河里的石头。"
+    },
+    {
+      "anchor": "whether her daughter would have any reason to love her now that he was dead.",
+      "start": 1970,
+      "end": 2046,
+      "fact": "她想着女儿如今还有什么理由爱她——他已经死了。"
+    }
+  ]
+}

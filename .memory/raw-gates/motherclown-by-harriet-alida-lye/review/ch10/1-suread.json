@@ -1,0 +1,53 @@
+{
+  "chapter": "ch10",
+  "facts": [
+    {
+      "anchor": "Elise feels like she’s had three thousand cups of coffee.",
+      "start": 7,
+      "end": 64,
+      "fact": "周六一早，Elise 走出公寓，说自己像喝了 three thousand 杯咖啡。"
+    },
+    {
+      "anchor": "Sarah is my ex, but we’re still good friends.",
+      "start": 8979,
+      "end": 9024,
+      "fact": "在 Aya 带她去的咖啡馆里，Aya 说 Sarah 是她的前女友（ex），两人现在仍是好朋友。"
+    },
+    {
+      "anchor": "In the gift shop, Elise buys some postcards to decorate her walls.",
+      "start": 13274,
+      "end": 13340,
+      "fact": "在 Lucas Rossi 画展的礼品店，Elise 买了一些明信片，用来装饰自己的墙。"
+    },
+    {
+      "anchor": "Aya pushes her down onto the futon couch and they sit, legs bent",
+      "start": 22538,
+      "end": 22602,
+      "fact": "在 Aya 的公寓里，Aya 把 Elise 推到 futon 沙发上，两人屈腿面对面坐下。"
+    },
+    {
+      "anchor": "She carries all of her suitcases and bags out into the hall.",
+      "start": 16325,
+      "end": 16385,
+      "fact": "Catherine 把全部行李箱和包搬到走廊，检查确认东西带齐，关上门（门自动上锁），她用了 three trips 才把东西搬下 eight flights 楼梯。"
+    },
+    {
+      "anchor": "She realizes they are selling cigarettes from their pockets. Marlboros, five euros.",
+      "start": 17285,
+      "end": 17368,
+      "fact": "在 boulevard de Belleville 的市场，Catherine 遇到从外套里卖香烟的男人，Marlboros 五欧元（five euros），她用手头剩余现金买了一些。"
+    },
+    {
+      "anchor": "Suddenly, a plan. This is what she’ll do. She’ll go back to the point",
+      "start": 18304,
+      "end": 18373,
+      "fact": "Catherine 在 Rambuteau 附近记下画展地址后，决定回到人生改道的那一点，把所有东西装上出租车并把地址给司机。"
+    },
+    {
+      "anchor": "the last thing she thinks before she falls down is Oh, I hope I",
+      "start": 35823,
+      "end": 35886,
+      "fact": "Elise 在 Aya 公寓发现自己在流血、血流到床单上，随后晕倒；倒下前最后想到的是希望自己死时别弄得一团糟，接着想到母亲会在短时间内同时失去丈夫和女儿。"
+    }
+  ]
+}

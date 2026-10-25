@@ -1,0 +1,53 @@
+{
+  "chapter": "ch12",
+  "facts": [
+    {
+      "anchor": "The first thing Elise sees is Aya’s face, floating close above her own.",
+      "start": 9,
+      "end": 80,
+      "fact": "Elise 醒来第一眼看到的是俯身贴近她的 Aya 的脸。"
+    },
+    {
+      "anchor": "By the time they arrive at the hospital, she’s at 223.",
+      "start": 1972,
+      "end": 2026,
+      "fact": "Elise 在出租车里靠计数熬时间，到医院时数到 223。"
+    },
+    {
+      "anchor": "Aya takes her through the emergency entrance to the waiting area",
+      "start": 2029,
+      "end": 2093,
+      "fact": "Aya 带 Elise 走急诊入口进候诊区，并替她交出身份卡和保险卡。"
+    },
+    {
+      "anchor": "you’re still pregnant. About eleven weeks since conception, or thirteen weeks after your last period.",
+      "start": 4116,
+      "end": 4217,
+      "fact": "医生经 Aya 转述：Elise 仍怀孕，受孕约十一周，按末次月经算十三周。"
+    },
+    {
+      "anchor": "there’s only one more week left for you to elect for an abortion",
+      "start": 10760,
+      "end": 10824,
+      "fact": "医生经 Aya 转述法律期限：只剩一周可选择堕胎，超过受孕十二周需两名医生评估并证明有风险。"
+    },
+    {
+      "anchor": "She handed him twenty euros for a fourteen-euro ride, and he gave her no change.",
+      "start": 15853,
+      "end": 15933,
+      "fact": "Catherine 付给司机二十欧元，车费十四欧元，司机没有找零。"
+    },
+    {
+      "anchor": "Catherine—he called her Cat; he was the only person to ever do that",
+      "start": 21089,
+      "end": 21156,
+      "fact": "Luke 是唯一叫 Catherine 为 Cat 的人。"
+    },
+    {
+      "anchor": "Elisabeth can still be anything, and it is all her choice.",
+      "start": 24104,
+      "end": 24162,
+      "fact": "Catherine 认为 Elisabeth 还什么都能成为，且全由她自己选择。"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+ "chapter": "ch02",
+ "facts": [
+  {
+   "anchor": "It’s the first Sunday in September, early evening, and the banks of the canal",
+   "start": 6,
+   "end": 83,
+   "fact": "九月第一个星期日的傍晚，运河两岸人群拥挤。"
+  },
+  {
+   "anchor": "Elisabeth arrived five weeks ago, on the first of August.",
+   "start": 312,
+   "end": 369,
+   "fact": "伊丽莎白于八月一日到达，已过去五周。"
+  },
+  {
+   "anchor": "Her landlady, Madame Pajot, is the only person here who knows her name",
+   "start": 1110,
+   "end": 1180,
+   "fact": "她的房东是 Madame Pajot，也是这里唯一知道她名字的人。"
+  },
+  {
+   "anchor": "her mother texted her that a large envelope had arrived for her from Paris",
+   "start": 5965,
+   "end": 6039,
+   "fact": "五个月前，她的母亲发短信告诉她，有一封来自巴黎的大信封到了。"
+  },
+  {
+   "anchor": "Her dad has been dead for three months now",
+   "start": 13193,
+   "end": 13235,
+   "fact": "她的父亲已去世三个月。"
+  },
+  {
+   "anchor": "she woke up at 4 a.m. but waited until the decency of six",
+   "start": 20154,
+   "end": 20211,
+   "fact": "星期一早上她 4 点醒来，但等到六点才出门去湖边。"
+  },
+  {
+   "anchor": "Seb was only fifty-one, a healthy man, a total shock.",
+   "start": 25858,
+   "end": 25911,
+   "fact": "塞布去世时仅五十一岁，身体健康，事发突然。"
+  },
+  {
+   "anchor": "the water is so calm, as though it has no idea what’s coming",
+   "start": 35233,
+   "end": 35293,
+   "fact": "河水在她右侧沿小路流过，水面平静。"
+  }
+ ]
+}

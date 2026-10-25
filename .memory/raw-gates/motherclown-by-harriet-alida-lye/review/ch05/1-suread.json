@@ -1,0 +1,47 @@
+{
+  "chapter": "ch05",
+  "facts": [
+    {
+      "anchor": "Catherine has never been to Europe",
+      "start": 7,
+      "end": 41,
+      "fact": "凯瑟琳从未去过欧洲。"
+    },
+    {
+      "anchor": "In line to board the plane, she can feel her heart racing",
+      "start": 79,
+      "end": 136,
+      "fact": "她在排队登机时心跳加速。"
+    },
+    {
+      "anchor": "Butterflies feel like love, but they come from fear. Fear of love not being requited",
+      "start": 169,
+      "end": 253,
+      "fact": "她那种蝴蝶般的感觉像爱，却源自对爱得不到回应的恐惧。"
+    },
+    {
+      "anchor": "When she was twenty-one, Elisabeth was already crawling",
+      "start": 255,
+      "end": 310,
+      "fact": "她二十一岁那年，伊丽莎白已经会爬了。"
+    },
+    {
+      "anchor": "Catherine never got to have this freedom, this youth",
+      "start": 312,
+      "end": 364,
+      "fact": "凯瑟琳从未拥有过这份自由和青春。"
+    },
+    {
+      "anchor": "It is the most natural thing in the world for a child to grow beyond",
+      "start": 366,
+      "end": 434,
+      "fact": "她认为孩子超越父母是世上最自然的事。"
+    },
+    {
+      "anchor": "She would never call this feeling envy",
+      "start": 471,
+      "end": 509,
+      "fact": "她绝不会把这种感觉称为嫉妒。"
+    }
+  ]
+}

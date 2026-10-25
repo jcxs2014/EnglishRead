@@ -1,0 +1,484 @@
+{
+  "chapter": 16,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/motherclown-by-harriet-alida-lye/ch16 chapter fifteen the story of how i met your dad.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/motherclown-by-harriet-alida-lye/text/ch16_chapter_fifteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "But Catherine couldn’t do that. She brought the baby into her bed. The baby was not just hers; the baby was her—they sti",
+          "ok": true,
+          "pos": 605
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Look at me, she thought—I have a baby, and I’m out, and I’m drawing. I am a girl who has everything",
+          "ok": true,
+          "pos": 5121
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She could be fast. She could go and be back in like ninety seconds all told. She looked around. Nobody was sitting near ",
+          "ok": true,
+          "pos": 5993
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "And then. A piercing shriek. An exaggeration of a howl she knew by heart. The feeling she had was hunger—the insatiable ",
+          "ok": true,
+          "pos": 7044
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Then she realized, this baby, this man’s baby, was Elisabeth. This man had a baby who was also Elisabeth? It didn’t add ",
+          "ok": true,
+          "pos": 8011
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Elisabeth finally spoke. “Seb?” “Yes.” “How could that be—Seb is my dad, how could you—” “Bunny.” If she doesn’t keep go",
+          "ok": true,
+          "pos": 9506
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The biographies we share in those first moments with new people can feel so spontaneous, so uncontrived, but they are ne",
+          "ok": true,
+          "pos": 13203
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "In being admired, and being grateful, she couldn’t see that she was falling into an extremely conventional, unradical li",
+          "ok": true,
+          "pos": 13774
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He proposed four months after they met and she said yes, because how could she say no",
+          "ok": true,
+          "pos": 16394
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "This whole time—for Elisabeth’s whole life—Catherine worked as hard as she could to repress the memory of her daughter’s",
+          "ok": true,
+          "pos": 17214
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Finally, Elise speaks: “What the actual fuck is going on?” “Elise.” “What is this about? Why are you doing this? My dad ",
+          "ok": true,
+          "pos": 18127
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“Bunny.” Catherine reaches across the table. The pause becomes so heavy it is almost hard to break. “No. Listen to me. T",
+          "ok": true,
+          "pos": 19800
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Elise looks at her, meets her eye for the first time. “Did you love him?” “I was nineteen.” “Right.”",
+          "ok": true,
+          "pos": 19974
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "What Catherine says is this: “Oh, baby, you have to know this: I have always wanted you. I have always loved you. From t",
+          "ok": true,
+          "pos": 21327
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "She is suddenly furious with him. She has to see him. She knows this, now",
+          "ok": true,
+          "pos": 22906
+        }
+      ],
+      "words": 15
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 114,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 103,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 103,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 117,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 120,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Chapter Fifteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 13,
+    "block_range": [
+      4,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4237,
+    "block_target": [
+      8,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 20 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

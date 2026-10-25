@@ -1,0 +1,489 @@
+{
+  "chapter": 21,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/motherclown-by-harriet-alida-lye/ch21 chapter twenty the painting.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/motherclown-by-harriet-alida-lye/text/ch21_chapter_twenty.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Elise walks out onto rue du Faubourg Saint-Martin and thinks of that classic image of a clown holding a bouquet of ballo",
+          "ok": true,
+          "pos": 7
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Ah, bon.” Madame stares at her through those thick glasses that magnify everything, even the clumps of her mascara. “At",
+          "ok": true,
+          "pos": 709
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "In the sudden darkness after the spotlights were hushed, the feeling of an umbrella closing over her head, she was remin",
+          "ok": true,
+          "pos": 1291
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She closes her eyes. All she can see is her daughter’s face, the contempt in her eyes, the spotlights picking up her del",
+          "ok": true,
+          "pos": 1744
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The whole world is there, but not her daughter. Catherine dials her number, but it goes straight to voicemail. Her phone",
+          "ok": true,
+          "pos": 2848
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The same feeling she’d get when her daughter was small and Catherine had this sudden need to check on her when she was s",
+          "ok": true,
+          "pos": 5119
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "If her goals for painting were once to find fame and fortune (though she probably would not have put it in such terms, t",
+          "ok": true,
+          "pos": 6778
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "As dusk is falling, she has the first layer of paint down; it’s not finished, but the soul is there. She picks up the ca",
+          "ok": true,
+          "pos": 9892
+        }
+      ],
+      "words": 93
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "And then the thought comes to her: She had given Luke all of the power to create. He asserted it, and she had not fought",
+          "ok": true,
+          "pos": 13465
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "She greets the painting as she would her daughter in a better world. “Hello, my darling girl.” The light bursts through ",
+          "ok": true,
+          "pos": 17916
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Her daughter is what pushed her away from her art; that’s the narrative Catherine told herself. But that wasn’t true. Th",
+          "ok": true,
+          "pos": 19391
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“Your performance was beautiful, Elise. It was an honour to see how you",
+          "ok": true,
+          "pos": 24987
+        },
+        {
+          "text": "well, to really See you, I guess. I am sorry I came, but I am also glad I came, and I hope you can one day understand th",
+          "ok": true,
+          "pos": 25058
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Underneath the sheet is a painting. A huge painting, so big she can’t take in all at once. The first thing she notices i",
+          "ok": true,
+          "pos": 26539
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "She forgives her mother, that’s what is happening, but she is also asking for forgiveness. Elise would never put it in t",
+          "ok": true,
+          "pos": 29318
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Elise smiles. She looks at the painting and imagines her mother making it: looking at her, holding her, creating her. Th",
+          "ok": true,
+          "pos": 30052
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.3
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 122,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "21. Chapter Twenty",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 13,
+    "block_range": [
+      4,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5652,
+    "block_target": [
+      10,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 20 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

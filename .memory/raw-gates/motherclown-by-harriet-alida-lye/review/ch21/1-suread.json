@@ -1,0 +1,53 @@
+{
+  "chapter": "ch21",
+  "facts": [
+    {
+      "anchor": "Elise walks out onto rue du Faubourg Saint-Martin and thinks of that classic image",
+      "start": 9,
+      "end": 91,
+      "fact": "Elise 走出 rue du Faubourg Saint-Martin，想到小丑拿一把气球、其中一只被放走的画面，并说那只气球就是她。"
+    },
+    {
+      "anchor": "She walks home, remembering the way from muscle memory, that must be it, because",
+      "start": 233,
+      "end": 313,
+      "fact": "她凭肌肉记忆走回自己的公寓，路上几乎看不清东西。"
+    },
+    {
+      "anchor": "Catherine dials her number, but it goes straight to voicemail. Her phone must be off.",
+      "start": 2961,
+      "end": 3046,
+      "fact": "Catherine 拨女儿的电话，直接转入语音信箱，她判断女儿的手机是关着的；她手抖着仍发了短信。"
+    },
+    {
+      "anchor": "Catherine has made a painting of her daughter.",
+      "start": 10560,
+      "end": 10606,
+      "fact": "Catherine 画成的不是自画像，而是她女儿。"
+    },
+    {
+      "anchor": "She paints the Elise of now. The bleached pixie cut, roots coming in",
+      "start": 18674,
+      "end": 18742,
+      "fact": "她选择画现在的 Elise：漂浅的精灵短发，发根已经长出一小截。"
+    },
+    {
+      "anchor": "She has to give it to her daughter, somehow. It is her last hope.",
+      "start": 20300,
+      "end": 20365,
+      "fact": "她决定必须设法把这幅画交给女儿，说这是她最后的希望。"
+    },
+    {
+      "anchor": "It’s for fifty thousand dollars, with the words Your inheritance in the memo line.",
+      "start": 26518,
+      "end": 26600,
+      "fact": "信末用回形针夹着一张五万美元的支票，备注栏写着 Your inheritance。"
+    },
+    {
+      "anchor": "The call goes to voicemail, and as it beeps, she opens her mouth,",
+      "start": 30829,
+      "end": 30894,
+      "fact": "Elise 打给母亲的电话无人接听、转入语音信箱，提示音响起时她张开嘴准备说话。"
+    }
+  ]
+}

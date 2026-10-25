@@ -1,0 +1,53 @@
+{
+  "chapter": "ch13",
+  "facts": [
+    {
+      "anchor": "Elise spends the rest of Sunday pretty much exclusively in bed.",
+      "start": 9,
+      "end": 72,
+      "fact": "整个周日余下的时间，Elise 几乎一直待在床上，不读书，也不出门。"
+    },
+    {
+      "anchor": "I can’t make it to class today. Can you tell the teachers?",
+      "start": 809,
+      "end": 867,
+      "fact": "周一早上，Elise 给 Nafkoté 发短信，说自己今天去不了课堂，请她转告老师。"
+    },
+    {
+      "anchor": "Then Elise calls the number on the card the doctor had given her.",
+      "start": 1722,
+      "end": 1787,
+      "fact": "随后 Elise 拨打医生给她的卡片上的号码；前台说提供译员没问题，周六急诊医生已交代过要优先接诊，她当天就能过去。"
+    },
+    {
+      "anchor": "she has stage four endometriosis and it has damaged her womb",
+      "start": 4556,
+      "end": 4616,
+      "fact": "译员转告：她患有 stage four endometriosis，子宫已因此受损。"
+    },
+    {
+      "anchor": "Conception was eleven weeks ago, and so Elise has one week to terminate the pregnancy",
+      "start": 6712,
+      "end": 6797,
+      "fact": "译员转告：受孕在 eleven weeks ago，所以 Elise 若要终止妊娠，只有一周时间；该期限七年前、2002 年才从十周改为十二周。"
+    },
+    {
+      "anchor": "She can do it today, probably, if she wants to. No need to wait.",
+      "start": 8611,
+      "end": 8675,
+      "fact": "译员说，如果她愿意，今天大概就能做清除胎细胞的手术，不必等，因为时间不多。"
+    },
+    {
+      "anchor": "She goes to the grocery store on rue Henri-Chevreau and buys all the food",
+      "start": 11858,
+      "end": 11931,
+      "fact": "她走到 rue Henri-Chevreau 的食品店，把想吃的都买了，才意识到自己太久没吃东西。"
+    },
+    {
+      "anchor": "Hi, she wrote. Let’s have dinner soon. Friday? Will you still be here then?",
+      "start": 13842,
+      "end": 13917,
+      "fact": "最后她给母亲发短信，开头是 Hi，约她近期吃晚饭、问周五行不行、问她那时是否还在这里，随后关机试着睡觉。"
+    }
+  ]
+}

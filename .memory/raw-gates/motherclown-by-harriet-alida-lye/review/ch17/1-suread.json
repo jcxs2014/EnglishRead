@@ -1,0 +1,53 @@
+{
+  "chapter": "ch17",
+  "facts": [
+    {
+      "anchor": "Out on the street, Elise is shaking. She doesn’t know where she is.",
+      "start": 10,
+      "end": 77,
+      "fact": "Elise 在街上发抖，不知道自己身在何处，也不知道怎么回家。"
+    },
+    {
+      "anchor": "She texts Charlie: Hey, are you free? Can we Skype?",
+      "start": 144,
+      "end": 195,
+      "fact": "Elise 给 Charlie 发短信，问他是否有空、能不能 Skype。"
+    },
+    {
+      "anchor": "she buys a new card, a day pass even though it’s almost ten o’clock",
+      "start": 537,
+      "end": 604,
+      "fact": "她打车到 Ménilmontant，在 Cookies 买了一张新卡和一张日票，当时已近十点。"
+    },
+    {
+      "anchor": "“You have a living room?”\n\n\n“Well, it’s technically also Jonah’s room.”",
+      "start": 2137,
+      "end": 2208,
+      "fact": "Charlie 在 Skype 里说他在自家客厅，而那间客厅严格说也是 Jonah 的房间。"
+    },
+    {
+      "anchor": "he’s still the man who raised you. So what if he missed four months.",
+      "start": 3337,
+      "end": 3405,
+      "fact": "Charlie 说对方仍是把她养大的那个人，就算错过了四个月也一样。"
+    },
+    {
+      "anchor": "It’s only been like a week, so who knows. But Max is a catch.",
+      "start": 6689,
+      "end": 6750,
+      "fact": "Charlie 告诉她 Max 开始和别人交往，对象是 Olivia，才一周左右。"
+    },
+    {
+      "anchor": "and the understanding that she was wrong, and that she has no claim to Max",
+      "start": 7268,
+      "end": 7342,
+      "fact": "她意识到自己错了、对 Max 没有任何权利，因此感到不安。"
+    },
+    {
+      "anchor": "as a synonym for I love you and so, she doesn’t tell Charlie",
+      "start": 8355,
+      "end": 8415,
+      "fact": "两人以「我爱你」的同义词道别，她始终没把自己的秘密告诉 Charlie。"
+    }
+  ]
+}

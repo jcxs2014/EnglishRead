@@ -1,0 +1,53 @@
+{
+  "chapter": "ch16",
+  "facts": [
+    {
+      "anchor": "It had been a terrible night. A terrible string of nights.",
+      "start": 10,
+      "end": 68,
+      "fact": "Catherine 连续过了好几个糟糕的夜晚，婴儿 Elisabeth 整夜吃奶，两人都没睡。"
+    },
+    {
+      "anchor": "Catherine had just turned twenty but she didn’t have time to celebrate.",
+      "start": 69,
+      "end": 140,
+      "fact": "Catherine 刚满二十岁，没有时间庆祝。"
+    },
+    {
+      "anchor": "she told Catherine to call the local priest to perform an exorcism.",
+      "start": 486,
+      "end": 553,
+      "fact": "母亲 Patricia 在一次散步中听到 Elisabeth 尖叫后，让 Catherine 去请当地神父来做驱魔。"
+    },
+    {
+      "anchor": "he is the man who raised you. He’s your dad. But he’s not—",
+      "start": 18689,
+      "end": 18747,
+      "fact": "Catherine 对女儿说：Seb 是把她养大的人、是她的爸爸，但不是（她的生父）。"
+    },
+    {
+      "anchor": "She ran to the stroller, but Elisabeth wasn’t there. She wasn’t there.",
+      "start": 7762,
+      "end": 7832,
+      "fact": "Catherine 冲回婴儿车，发现 Elisabeth 不在车里。"
+    },
+    {
+      "anchor": "beside her stroller, a man she didn’t know, and he was holding a baby.",
+      "start": 7985,
+      "end": 8055,
+      "fact": "Catherine 在婴儿车旁看见一个她不认识的男人，他正抱着一个婴儿。"
+    },
+    {
+      "anchor": "He proposed four months after they met and she said yes",
+      "start": 16769,
+      "end": 16824,
+      "fact": "Seb 在两人相识四个月后求婚，Catherine 答应了。"
+    },
+    {
+      "anchor": "With that, her daughter leaves, just as Catherine had predicted.",
+      "start": 22362,
+      "end": 22426,
+      "fact": "说完这些，女儿 Elise 起身离开，正如 Catherine 预料的那样。"
+    }
+  ]
+}

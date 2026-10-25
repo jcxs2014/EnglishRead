@@ -1,0 +1,47 @@
+{
+  "chapter": "ch14",
+  "facts": [
+    {
+      "anchor": "In the dream, Seb tells her that he doesn’t love her anymore",
+      "start": 101,
+      "end": 161,
+      "fact": "凯瑟琳连日重复同一个噩梦，梦里塞布对她说自己不再爱她。"
+    },
+    {
+      "anchor": "Even here, waking up feels like falling down the stairs: panic, out of control.",
+      "start": 290,
+      "end": 369,
+      "fact": "她在日出前醒来，惊醒时像滚下楼梯一样失控，满身是汗。"
+    },
+    {
+      "anchor": "Catherine looks out the window at the mess of chimneys.",
+      "start": 438,
+      "end": 493,
+      "fact": "凯瑟琳望向窗外成片的烟囱，设想若当初换一种做法自己的生活会是什么样。"
+    },
+    {
+      "anchor": "She’s been in Paris for a week, lost six thousand euros before even arriving",
+      "start": 610,
+      "end": 686,
+      "fact": "她到巴黎已一周，抵达前就损失了六千欧元，其余开销也花掉不知多少。"
+    },
+    {
+      "anchor": "Her daughter isn’t even speaking to her, and Catherine has to tell her the truth",
+      "start": 802,
+      "end": 882,
+      "fact": "女儿不跟她说话，而凯瑟琳终究必须把真相告诉女儿。"
+    },
+    {
+      "anchor": "If she’s honest with herself, this is the reason why she came.",
+      "start": 895,
+      "end": 957,
+      "fact": "她承认自己来巴黎的原因就是赶在太晚之前把真相告诉女儿。"
+    },
+    {
+      "anchor": "In the afternoon, she opens up her computer and looks at flights home.",
+      "start": 1172,
+      "end": 1242,
+      "fact": "下午她打开电脑查看回程机票，随后手机响了一声，是伊丽莎白发来的消息。"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapter": "ch15",
+  "facts": [
+    {
+      "anchor": "Two days later, the bleeding becomes spotting. Three days later, it is manageable.",
+      "start": 11,
+      "end": 93,
+      "fact": "出血两天后转为点滴状，再过三天变得可控，她认为自己能应付。"
+    },
+    {
+      "anchor": "On Friday, the fourth day, Elise returns to class.",
+      "start": 115,
+      "end": 165,
+      "fact": "到第四天星期五，Elise 回到课堂上课。"
+    },
+    {
+      "anchor": "“Today everyone is performing their autocours. You have something to share?”",
+      "start": 590,
+      "end": 666,
+      "fact": "Tomas 在课堂上问 Elise：今天每个人都要演 autocours，问她有没有东西可以分享。"
+    },
+    {
+      "anchor": "“You will not develop in this class unless you unlock that and let it out.",
+      "start": 3714,
+      "end": 3788,
+      "fact": "Tomas 在课后对 Elise 说：除非她打开并释放心里那部分，否则在这门课上不会有进展。"
+    },
+    {
+      "anchor": "“I can book my return flight now,” she says, nodding to the credit card.",
+      "start": 12244,
+      "end": 12316,
+      "fact": "Catherine 对 Elise 说，她下周某个时候大概会离开，现在就可以订回程机票，并朝信用卡点头。"
+    },
+    {
+      "anchor": "“Well, it’s not finished, but it’ll be about me,” Elise says. “My life.”",
+      "start": 11494,
+      "end": 11566,
+      "fact": "Elise 告诉母亲，自己要写的场景还没写完，但会写她自己、写她的生活。"
+    },
+    {
+      "anchor": "“Aya is not my friend. Well, not just my friend.”",
+      "start": 12644,
+      "end": 12693,
+      "fact": "Elise 在餐桌上对母亲 Catherine 说，Aya 不是她的朋友，或者说不仅是朋友。"
+    },
+    {
+      "anchor": "“I want to tell you the story of how I met your dad.”",
+      "start": 16212,
+      "end": 16265,
+      "fact": "Catherine 深吸一口气，对 Elise 说她想讲自己当年如何遇见她父亲的故事。"
+    }
+  ]
+}

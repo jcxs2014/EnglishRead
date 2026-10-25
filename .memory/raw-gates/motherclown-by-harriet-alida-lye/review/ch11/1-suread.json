@@ -1,0 +1,53 @@
+{
+  "chapter": "ch11",
+  "facts": [
+    {
+      "anchor": "Catherine is sitting on the terrace of a café in a small square",
+      "start": 6,
+      "end": 69,
+      "fact": "凯瑟琳坐在小广场上一家咖啡馆的露台上，正对着那家画廊。"
+    },
+    {
+      "anchor": "She has always been aware of her daughter’s presence, as if Elisabeth",
+      "start": 328,
+      "end": 397,
+      "fact": "凯瑟琳一直感觉得到女儿的存在，仿佛伊丽莎白是系在她心上的线另一端。"
+    },
+    {
+      "anchor": "Catherine hasn’t seen or heard from Luke since she dropped out.",
+      "start": 1724,
+      "end": 1787,
+      "fact": "凯瑟琳退学以来再没见过卢克，也没收到过他的消息。"
+    },
+    {
+      "anchor": "It was published on the cover of Artforum and it’s in Moca La’s",
+      "start": 2083,
+      "end": 2146,
+      "fact": "那幅画曾登上《Artforum》封面，并藏于洛杉矶当代艺术馆的常设收藏。"
+    },
+    {
+      "anchor": "At four o’clock she calls Laura, despite the cost, despite knowing",
+      "start": 3095,
+      "end": 3161,
+      "fact": "四点钟凯瑟琳给劳拉打电话，明知话费贵、也明知会吵醒她。"
+    },
+    {
+      "anchor": "She explains what happened, the texts, how Elisabeth kicked her out",
+      "start": 3294,
+      "end": 3361,
+      "fact": "凯瑟琳向劳拉讲述事情经过、那些短信，以及伊丽莎白如何把她赶出家门。"
+    },
+    {
+      "anchor": "I need you to book me a hotel room for a couple nights",
+      "start": 3930,
+      "end": 3984,
+      "fact": "凯瑟琳请劳拉用自己的信用卡替她订几晚酒店房间。"
+    },
+    {
+      "anchor": "but Catherine can’t pull her eyes from the gallery entrance, from",
+      "start": 4907,
+      "end": 4972,
+      "fact": "酒喝完了本该离开，凯瑟琳却移不开眼，一直盯着画廊入口。"
+    }
+  ]
+}

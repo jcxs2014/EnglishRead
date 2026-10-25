@@ -1,0 +1,53 @@
+{
+  "chapter": "ch09",
+  "facts": [
+    {
+      "anchor": "she immediately notices that her daughter is not in the bed",
+      "start": 32,
+      "end": 91,
+      "fact": "凯瑟琳醒来发现女儿不在身旁的床上。"
+    },
+    {
+      "anchor": "We have the same phone. I heard it buzz when I got home",
+      "start": 824,
+      "end": 879,
+      "fact": "伊丽莎白说两人手机同款，她回家听到响时以为劳拉发的是给自己的消息。"
+    },
+    {
+      "anchor": "You’d been planning to leave him? Had you told him? Did he know?",
+      "start": 2198,
+      "end": 2262,
+      "fact": "伊丽莎白追问凯瑟琳是否早就打算离开丈夫、是否已告知他、他是否知情。"
+    },
+    {
+      "anchor": "It’s Elise. God, Mom. Why does there always have to be a butwith you?",
+      "start": 1877,
+      "end": 1946,
+      "fact": "伊丽莎白纠正母亲要叫她“伊莉丝”，并质问母亲话里为何总要带“但是”。"
+    },
+    {
+      "anchor": "But you’re not grieving at all! You must be thrilled.",
+      "start": 2752,
+      "end": 2805,
+      "fact": "伊丽莎白指责凯瑟琳根本不在哀悼，反而一定很高兴。"
+    },
+    {
+      "anchor": "You lied to him too, I’m assuming. For years!",
+      "start": 3475,
+      "end": 3520,
+      "fact": "伊丽莎白认定凯瑟琳对父亲也撒了谎，并且持续多年。"
+    },
+    {
+      "anchor": "I know your credit card isn’t here yet.",
+      "start": 4272,
+      "end": 4311,
+      "fact": "伊丽莎白要母亲在她回来前搬走，并说知道母亲的信用卡还没寄到。"
+    },
+    {
+      "anchor": "to tell her the whole truth eventually, she thinks, and I will break her",
+      "start": 4913,
+      "end": 4985,
+      "fact": "结尾凯瑟琳想自己终究得把全部真相告诉女儿，而那会毁了她。"
+    }
+  ]
+}

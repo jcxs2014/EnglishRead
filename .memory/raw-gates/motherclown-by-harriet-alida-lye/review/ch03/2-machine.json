@@ -1,0 +1,484 @@
+{
+  "chapter": 3,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/motherclown-by-harriet-alida-lye/ch03 chapter two the colour blue.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/motherclown-by-harriet-alida-lye/text/ch03_chapter_two.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Before getting dressed, she gives herself a little “whore’s bath,” as her mother had called it when she saw the photos o",
+          "ok": true,
+          "pos": 87
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "A costume is required of them at school: Everyone must wear black to make their bodies into a backdrop, to eliminate exp",
+          "ok": true,
+          "pos": 414
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She likes it up here. She wants to tell her dad about it and there, that’s the moment her heart breaks all over again. I",
+          "ok": true,
+          "pos": 3023
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It wasn’t that she held her daughter to different standards than she held herself, that wasn’t even remotely it; it wasn",
+          "ok": true,
+          "pos": 6866
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He sat down on the soft leather recliner across the half-wall, in the living room. The whole area was small, open concep",
+          "ok": true,
+          "pos": 7335
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "This might have been a punch to the gut instead of a slap on the wrist had Catherine considered it then, as she did late",
+          "ok": true,
+          "pos": 11767
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Elisabeth had been a very normal baby, but to Catherine, she wasn’t so much a baby as an alien that belonged to her. Cat",
+          "ok": true,
+          "pos": 14980
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She had been a child five minutes ago and then she’d gone and had made a baby, and the baby was alive, and the baby was ",
+          "ok": true,
+          "pos": 15980
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She doesn’t feel like herself without her daughter. Catherine misses the smell of the bathroom fog after Elisabeth’s hot",
+          "ok": true,
+          "pos": 17353
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The question gives urgency to her heartbreak because as soon as she thinks it, she realizes it holds another question in",
+          "ok": true,
+          "pos": 19121
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“You’re breaking up. Can you hear me? I’m coming to Paris!” She looks at her wedding ring. Really looks at it, twists it",
+          "ok": true,
+          "pos": 23063
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "There’s a mirror, the glass old and flecked with black, and in it, she sees her mother. Her mother? She rubs her eyes, f",
+          "ok": true,
+          "pos": 28792
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“We do not be a thing. We be the thing. We be blue, not a blue thing. Think about blue, what blue feels like.” He throws",
+          "ok": true,
+          "pos": 38843
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "She starts to cry. It comes easily. It’s like a continuation of that scene in Max’s room. She’s right there again. Sitti",
+          "ok": true,
+          "pos": 41175
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "“What you did there,” Tomas says, bending so their eyes are on the same level, “was the opposite of what you should do. ",
+          "ok": true,
+          "pos": 41738
+        }
+      ],
+      "words": 51
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 119,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 115,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 124,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 117,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 132,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 111,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 127,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 137,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 118,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 107,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 131,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.71
+      }
+    }
+  ],
+  "form": {
+    "h1": "03. Chapter Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 13,
+    "block_range": [
+      4,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 7744,
+    "block_target": [
+      14,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 20 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

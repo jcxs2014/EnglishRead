@@ -1,0 +1,53 @@
+{
+  "chapter": "ch04",
+  "facts": [
+    {
+      "anchor": "She opens the ticket-booking website and books a red-eye for tomorrow night.",
+      "start": 216,
+      "end": 292,
+      "fact": "凯瑟琳打开订票网站，订了明晚的红眼航班机票。"
+    },
+    {
+      "anchor": "The posting stipulates a two-thousand-euro security deposit up front",
+      "start": 1619,
+      "end": 1687,
+      "fact": "房源要求先付两千欧元押金。"
+    },
+    {
+      "anchor": "Elisabeth and Charlie, Laura’s son, were six months old",
+      "start": 4827,
+      "end": 4882,
+      "fact": "凯瑟琳和劳拉相识时，伊丽莎白和劳拉的儿子查理都是六个月大。"
+    },
+    {
+      "anchor": "Catherine emails Elisabeth her arrival time, her address.",
+      "start": 11311,
+      "end": 11368,
+      "fact": "凯瑟琳回家后把到达时间和住址用邮件发给伊丽莎白。"
+    },
+    {
+      "anchor": "A pause. “Go where?” Not what she was expecting, then.",
+      "start": 7943,
+      "end": 7997,
+      "fact": "凯瑟琳说出决定后，劳拉停顿了一下，问“去哪里”，这不是她预料到的事。"
+    },
+    {
+      "anchor": "She hasn’t acted since her father died and it is so different.",
+      "start": 13286,
+      "end": 13348,
+      "fact": "父亲去世后，伊莉丝再没有演过戏。"
+    },
+    {
+      "anchor": "And here, well, I’m actually in clown school?",
+      "start": 26506,
+      "end": 26551,
+      "fact": "伊莉丝对阿雅说，她在这里上的是小丑学校。"
+    },
+    {
+      "anchor": "Walking home, Elise is lighter. All she’d needed was a witness.",
+      "start": 34605,
+      "end": 34668,
+      "fact": "伊莉丝步行回家，人变轻了；她需要的只是一个见证者。"
+    }
+  ]
+}

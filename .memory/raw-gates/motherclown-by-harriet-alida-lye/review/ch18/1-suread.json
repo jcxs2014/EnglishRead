@@ -1,0 +1,53 @@
+{
+  "chapter": "ch18",
+  "facts": [
+    {
+      "anchor": "It’s Sunday, and the heat has finally broken. Elise’s window is cracked open",
+      "start": 12,
+      "end": 88,
+      "fact": "周日热浪终于退去，Elise的窗户只开了一道缝。"
+    },
+    {
+      "anchor": "Elise has received six calls from her mother and eleven texts",
+      "start": 810,
+      "end": 871,
+      "fact": "Elise收到母亲打来的六通电话和十一条短信。"
+    },
+    {
+      "anchor": "Last night, Elise told Aya that she’d told her mom they were together.",
+      "start": 472,
+      "end": 542,
+      "fact": "前一晚Elise告诉Aya，她已经对母亲说了两人在一起。"
+    },
+    {
+      "anchor": "On the back of Aya’s scooter, Elise clasps her hands around Aya.",
+      "start": 4827,
+      "end": 4891,
+      "fact": "Aya骑摩托载Elise，Elise坐在后座双手环抱她，两人过河去清真寺浴场。"
+    },
+    {
+      "anchor": "used to bring me and my sister to the hammam every Sunday afternoon",
+      "start": 11826,
+      "end": 11893,
+      "fact": "Aya说母亲过去每周日下午都带她和妹妹去突尼斯的浴场。"
+    },
+    {
+      "anchor": "I’m not in touch with my family anymore. They don’t approve.",
+      "start": 12084,
+      "end": 12144,
+      "fact": "Aya说自己已不与家人来往，家人不认可她。"
+    },
+    {
+      "anchor": "Elise tells Aya about how her dad died, and explains that she’d been avoiding",
+      "start": 16604,
+      "end": 16681,
+      "fact": "午餐时Elise告诉Aya父亲已经去世，并解释自己此前一直回避讲这件事。"
+    },
+    {
+      "anchor": "when they leave the hammam, the late afternoon light glows on the white stone",
+      "start": 23840,
+      "end": 23917,
+      "fact": "两人离开浴场时已是傍晚，斜阳照在白石头上。"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+ "chapter": "ch19",
+ "facts": [
+  {
+   "anchor": "It is Sunday, noon, and it has been thirty-four hours since Catherine has seen",
+   "start": 11,
+   "end": 89,
+   "fact": "周日正午，Catherine 已有三十四个小时没见到女儿、也没和女儿说话。"
+  },
+  {
+   "anchor": "She had called the gallery ahead of time to book a meeting with the artist.",
+   "start": 560,
+   "end": 635,
+   "fact": "她提前打电话到画廊，预约与这位艺术家会面，对外称是杂志采访。"
+  },
+  {
+   "anchor": "“There is no journalist. I’m the one who called. I’m here because we slept together.”",
+   "start": 4421,
+   "end": 4506,
+   "fact": "她当面说明没有记者，电话是她自己打的，她来是因为两人曾上过床。"
+  },
+  {
+   "anchor": "“She’s twenty. She’s yours.”\n\n\nA pause. “I doubt it.”",
+   "start": 5606,
+   "end": 5659,
+   "fact": "她说女儿二十岁、是他的；他停顿后回了一句「我不信」。"
+  },
+  {
+   "anchor": "“That’s me,” Catherine says, pointing to the painting of her on the wall.",
+   "start": 6090,
+   "end": 6163,
+   "fact": "她指着墙上那幅画着她的画，说画中的人就是她。"
+  },
+  {
+   "anchor": "“I want nothing from you. I need nothing from you.”",
+   "start": 8521,
+   "end": 8572,
+   "fact": "她声明不向他要任何东西，也不需要他任何东西。"
+  },
+  {
+   "anchor": "She’s not yours. She’s mine.”\n\n\nHer words hang there in front of him.",
+   "start": 9681,
+   "end": 9750,
+   "fact": "她说女儿不是他的、是她的，这句话就悬在他面前。"
+  },
+  {
+   "anchor": "and with that, Catherine leaves. She leaves him standing there. She doesn’t look back.",
+   "start": 9853,
+   "end": 9939,
+   "fact": "说完她就走，把他一个人留在原地，没有回头。"
+  }
+ ]
+}
