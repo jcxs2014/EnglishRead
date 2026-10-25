@@ -1,0 +1,55 @@
+{
+ "book": "motherclown-by-harriet-alida-lye",
+ "chapter": "ch12",
+ "text": "notes/books/novels/motherclown-by-harriet-alida-lye/text/ch12_chapter_eleven.txt",
+ "facts": [
+  {
+   "fact": "Elise 在 Aya 家昏倒流血，Aya 叫车送她去医院，还开玩笑说「我第二次约会都带去医院」。",
+   "anchor": "I bring all my second dates to the hospital",
+   "start": 1476,
+   "end": 1519
+  },
+  {
+   "fact": "出租车上她把垫子夹在两腿间，不敢想事情，只能数数，到医院时数到 223。",
+   "anchor": "she’s at 223",
+   "start": 2013,
+   "end": 2025
+  },
+  {
+   "fact": "医生先怀疑是「fausse couche」（流产），超声后说其实还怀著，约十一周。",
+   "anchor": "fausse couche",
+   "start": 4082,
+   "end": 4095
+  },
+  {
+   "fact": "医生说法国的周数从受孕算起，约十一周，相当于上次月经后十三周。",
+   "anchor": "About eleven weeks since conception",
+   "start": 4139,
+   "end": 4174
+  },
+  {
+   "fact": "医生说明：法律上她只剩一周可以自行选择终止妊娠，超过十二周需两名医生评估、证明继续怀孕有风险。",
+   "anchor": "there’s only one more week left for you to elect for an abortion",
+   "start": 10760,
+   "end": 10824
+  },
+  {
+   "fact": "Catherine 住进 Crimée 的便宜旅馆，电梯小得像冰箱或棺材，只能一次运一个箱子。",
+   "anchor": "The elevator was the size of a fridge or a coffin",
+   "start": 16170,
+   "end": 16219
+  },
+  {
+   "fact": "回忆里 Luke 因她无法久坐而停画，说「你的身体不想要这个」，让她回去休息。",
+   "anchor": "Your body doesn’t want this",
+   "start": 20529,
+   "end": 20556
+  },
+  {
+   "fact": "她后来发现 Luke 把画裁掉她的头，在上方画上自己的头——Self with Girl 里她只是无头的阴影。",
+   "anchor": "Luke had cropped the canvas to remove her head",
+   "start": 23363,
+   "end": 23409
+  }
+ ]
+}
