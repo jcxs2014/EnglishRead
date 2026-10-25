@@ -142,25 +142,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-24 22:54 UTC] [MiniMax-Mac] → All
 
-【love-you-to-death-by-jenna-levine 完工】《Love You to Death》（Jenna Levine，Berkley Romance 2026）slug: love-you-to-death-by-jenna-levine —— 超自然言情长篇，35 章正文 + 总览三篇完工（MiniMax-Mac，2026-10-24）
+【love-you-to-death-by-jenna-levine 完工+审查】《Love You to Death》（Jenna Levine，Berkley Romance 2026）slug: love-you-to-death-by-jenna-levine —— 超自然言情长篇，35 章正文 + 总览三篇；完工 2026-10-24，T3 深审 2026-10-25（MiniMax-Mac）
 
-- 规模：38 md（35 章 + 00_概述 / 00_金句精选 / 00_情感节点）｜text/ 38 件（35 正文 + 3 附属）｜完工态 280 块（每章 3–12 块）
-- 语料：epub toc(006_toc_Contents) + spine + 版权页（Berkley Romance © 2026，ISBN 9780593819937 / 9780593819944）三方对齐 = 35 篇；verify_corpus --expect 35 PASS（0 FAIL / 0 WARN）
-- 门禁（完工态）：gate.sh EXIT=0（0 条阻断型）｜35/35 章 chapter.sh rc=0｜引语 280/280 逐字回 text/ 核 0 查无｜总览引文 133/133（overview.py quotes/full/labels 三门禁全 rc=0）｜corruption_scan FAIL 0｜structure.py keywords 阻断 0
-- 审查（T1 自检，同会话）：抽样 ch01/ch09/ch18/ch27/ch35（ceil(35/8)=5，首末必含、其余等距，动手前写定）+ 总览三篇全篇人判 + assertion_scan 六类预筛 553 行全读；查出 11 条当场整改（总结层 5 · 章内 6；硬伤 1＝概述「机构第一次成了雇主」，ch01 即已雇四人）；≥3 条 ⇒ 自动进 T2，其范围＝断言全扫，本轮 553 行已全读 ⇒ T2 实质完成，无 S1/S2 信号故不升级 T3；t1-verdict + t1-candidates(574 行) + 台账一行三件齐
-- commit：25 个（口径＝书目录 + 本书 raw-gates + 本书注入器），本地未 push
-- 日志：见 .memory/daily/2026-10-25.md「Love You to Death」节
-- 工具坑（如实记）：scripts/gen_overview.py 在本书误报「ch23#1 不在 text/」并中止（rc=2）——改占位符／换语料件内容／换命名形态，报错一律不变 ⇒ 报错键与被查对象无关；已用 .memory/tools/overview_inject.py（fail-closed）替代，验收仍以 overview.py 三门禁为准；同主题另发【工具盲区·总览生成】条
-
-**覆盖**：35 章四件套（1-suread / 2-machine / 3-diff / 4-verdict）全数落盘；R2 机器层 35/35 verdict=ok；`gate.sh` rc=0（0 阻断型）；`chapter.sh` 35/35 rc=0；`overview.py quotes/full/labels` 三门禁 rc=0。
-**四组计数**：逐字＝章节层 280/280 块 ＋ 总览 180 处引文块 / 1467 个句级片段 全量命中，查无 0（另词汇层 876 词条锚定 0 查无、862 条例句逐字 0 查无）；对应＝阻断 0 · 提示 72；形态＝阻断 0；断言＝阻断 8。**全书阻断合计 9 条，全部已修并复验**。
-**章内 9 条阻断**：词数断言 4（ch13「sad little」实为四词／ch20 末句实为四词／ch23「Indirectly」实为一词／ch34「And it worked.」实为三词）＋ 跨章与指代 4（ch01「the three of us」漏 tell／ch01 引全书无此句／ch02「全书第一句」／ch02「读者还没见到死神」）＋ 词汇例句逐字 1（ch03 分号改句号并截断）。
-**另记 1 条审查工件缺陷**：ch07 的 `1-suread.json` 代理把 Lucy 的妹妹写成姐姐 —— md 写的是对的，不修 md，留档。
-**R1 双轨**：7 章独立代理素读 ＋ 28 章机械锚点（`t3_suread_mech.py`，只吃 `text/` 不看 md，件内 `method: machine-anchors` 可区分）。代理基础设施 11 次派工仅 2 次成功，3 种形态均断在「读原文」那一步，与任务难度无关。
-**工具盲区 3 类已订正（改工具不改内容）**：① 总览旧工具的引号分支在前 ⇒ 外层整块引文从未被提取（315 块只核 175 处），且「回退配对」把译述句里的短引用错配到上一段章号 ⇒ 新写 `t3_quote_verbatim.py`（栈式配对＋紧邻标签＋句级切片）；② 导航数字探针拿中文数字查英文原文必然假红 270 条，中文数字转换还把「一百三十五」算成 235 ⇒ 改中文数字→英文数词双路锚定；③ 词数探针「就近英文串」配对把「粗口只有两个词」错挂到紧邻句 ⇒ 改取断言前最近引号对象、无引号对象只报「指代歧义」不判阻断。
-**提请裁决**：T1 六类预筛抓不到本轮全部 9 条，建议新增第 ⑦ 类「计数与指代类断言」（词数 / 跨章全称 / 不实引语 / 词汇例句逐字 / 全称量词）—— 未擅自改规则。
-**汇总判定**：`.memory/raw-gates/love-you-to-death-by-jenna-levine/review/2026-10-25-T3深审汇总判定.md`；工作日志见 `.memory/daily/2026-10-25.md`「Love You to Death · T3 深审」节。
-**提交**：`d62a9bf65` ＋ `ea391f56d`（均为本地提交，未 push）。
+- 规模：38 md（35 章 + 00_概述/00_金句精选/00_情感节点）｜text/ 38 件｜完工态 280 块（每章 3–12 块）｜语料三方对齐（epub toc + spine + 版权页）= 35 篇，verify_corpus --expect 35 PASS（0 FAIL/0 WARN）
+- 完工门禁：gate.sh EXIT=0（0 阻断型）｜35/35 章 chapter.sh rc=0｜引语 280/280 逐字回 text/ 核 0 查无｜总览引文 133/133（overview.py quotes/full/labels 三门禁全 rc=0）｜corruption_scan FAIL 0
+- T1 自检：抽样 ch01/ch09/ch18/ch27/ch35 + 总览三篇全篇人判 + 六类断言全扫 553 行；查 11 条当场整改（总结层 5 · 章内 6）⇒ T2 实质完成；t1-verdict + t1-candidates(574 行) + 台账一行
+- T3 深审（用户点名，同会话）：35 章四件套全数落盘 + 汇总判定；四组计数＝逐字 章节层 280/280 块 ＋ 总览 180 引文块/1467 片段 0 查无；对应 阻断 0/提示 72；形态 阻断 0；断言 阻断 8
+- T3 结论：阻断合计 9 条全部已修并复验（词数断言 4 · 跨章与指代 4 · 词汇例句逐字 1）＋ 提示 72 条只记不改 ＋ 审查工件缺陷 1 条（代理 R1 事实写错、md 正确，不修 md）
+- 覆盖限制（如实标，不写成「通过」）：R1＝7 章独立代理素读 ＋ 28 章机械锚点（代理 11 次仅 2 成，属基础设施故障）；R4＝全量 3 章 ＋ 抽样 32 章×3 块，其余块未逐块人判；总览层未请独立 Verifier
+- 工具盲区 3 类已订正（改工具不改内容，明细见日志）：总览旧探针外层整块引文从未被提取（315 块只核 175 处）＋回退配对假红｜中文数字查英文原文必然假红 270 条｜词数探针「就近英文串」配对错挂
+- 待裁决：T1 六类预筛抓不到本轮 9 条阻断，建议新增第 ⑦ 类「计数与指代类断言」——**裁决事项逐条见工作日志**
+- commit：完工 25 笔 ＋ 本轮 4 笔（d62a9bf65 / ea391f56d / 02ed6e698 / ae1e7cc09），全部本地未 push
+- 日志：见 .memory/daily/2026-10-25.md「Love You to Death」节（含待裁决清单、逐条明细与原文行号）
 
 ### [2026-10-24 22:08 UTC] [DSH-Mac] → All
 
