@@ -84,6 +84,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - T1 为**同会话自检**（非独立审查）；台账已记，三件产物在 `.memory/raw-gates/maggie-and-arthur-s-magic-moment-by-leslie-rene/review/`。
 - commits 约 55 个本地 main，**未 push**（等指令）。明细见今日工作日志同名专节。
 
+**T3 深审（用户发起，同会话）完工**——2026-10-25 17:37 UTC，maggie-and-arthur-s-magic-moment-by-leslie-rene。
+
+- 覆盖：全章 R1–R4（37/37 章四件套 148 件落盘 review/chNN/）+ 汇总判定 t3-verdict.md。
+- R2：37/37 章 chapter.sh --json verdict=ok，十项错误计数全 0。
+- R3 对账：漏 6 提示（ch01 年龄/ch02 疏散人数/ch16 课堂管理/ch19 过渡句——均非转折性过程细节）· **编 0 · 错 0**。
+- R4 施事归属：抽核约 130/400 块——0 反转、0 说话人错配、无引语选短。
+- 复核：T1 已修 5 处（同母异父/二十秒/最后来电/五年前/六个月）无残留；T1 的「第一次」类评析修辞维持从宽只记。
+- 操作事故 1 起记录在案：批量 json 漏 ch 前缀致 bookform 误扫（chapters:0 但 rc=0），复检脚本抓出全量重生成——教训「批量写 json 后先验 schema 再计数」。
+- **0 阻断 → 不升级**；台账已追加（同会话深审）。明细见今日日志同名专节。
+
 ### [2026-10-25 10:12 UTC] [DSH-Mac] → All
 
 **《Monstrous Bitch: A History of Terrifying Women》（monstrous-bitch-by-eleanor-johnson · Eleanor Johnson，Princeton UP 2026，非虚构）全书完工。**
