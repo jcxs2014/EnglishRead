@@ -1,0 +1,67 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch21",
+ "text": "notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/text/ch21_chapter_21.txt",
+ "facts": [
+  {
+   "fact": "九日悼最后一夜：母亲没跟来的 Bartolo 凑近搭话；露台外的 Ulises 目光如刀。",
+   "anchor": "The last night of the novenario, Bartolo approached her again.",
+   "start": 5,
+   "end": 67
+  },
+  {
+   "fact": "Bartolo 摊牌疑点；提到 Lulú 转述 Cándido 死前说「姨妈该了解 Ulises 的底细、她丈夫是个骗子」；他猜「殉情自杀」——Inés 盯着圣母像强装镇定。",
+   "anchor": "“I do not believe Cándido had an accident,” he told her, leaning down close to her ear, as if someone might overhear them, though they were the only ones standing in the courtyard.",
+   "start": 376,
+   "end": 556
+  },
+  {
+   "fact": "她顺势编织：一直怀疑两人有私情、Cándido 求婚被拖、Lulú 是症结、「为姨妈自杀」的叙事成型——叮嘱保密否则姨妈与 Lulú 名声俱毁。",
+   "anchor": "Did you ever think there was something between your aunt Perla and Cándido?”",
+   "start": 1334,
+   "end": 1410
+  },
+  {
+   "fact": "她劝他把结论留在「意外」：写自杀对谁都没好处，「那会是个丢人的故事」；Bartolo 誓不外传。",
+   "anchor": "“If you write ‘suicide’ on a death certificate, it won’t benefit anyone.",
+   "start": 4896,
+   "end": 4968
+  },
+  {
+   "fact": "他夸她「操控得漂亮」，她引以为豪却觉出怪物的寒意；他承认「两个没道德的穷光蛋等一票不来的买卖」——合伙已成死局。",
+   "anchor": "“You’re magnificently manipulative.”",
+   "start": 6379,
+   "end": 6415
+  },
+  {
+   "fact": "Lulú 派 Fito 送来三箱文件：Cándido 的业务笔记；Perla 要找新律师收账。",
+   "anchor": "“What have you got there?” Ulises asked him.",
+   "start": 9139,
+   "end": 9183
+  },
+  {
+   "fact": "Perla 解雇 Fito（吃太多玉米饼）、命 Ulises 开车打杂；Nepomuceno 空房将迎新客。",
+   "anchor": "“You want me to be your driver?”",
+   "start": 10434,
+   "end": 10466
+  },
+  {
+   "fact": "深夜宣布散伙：他要她继续等祖父遗嘱兑付（姨妈必须死）——他拒绝再当 houseboy；「我们俩不擅长杀人」。",
+   "anchor": "“I’m taking off,” he said.",
+   "start": 12081,
+   "end": 12107
+  },
+  {
+   "fact": "她骂他懦夫、骂这镇「活体防腐」；他纠正「我不怕地狱，怕的是穷」；周日教堂散场后独自离开、无人察觉。",
+   "anchor": "It’s like being embalmed alive, that’s what it is.",
+   "start": 13409,
+   "end": 13459
+  },
+  {
+   "fact": "送客后她含泪不许落下；周日弥撒她坐在两人中间如坐针毡——散场后车已不在。",
+   "anchor": "“I wish you the best of luck,” she replied coolly, without meaning a single word.",
+   "start": 15410,
+   "end": 15491
+  }
+ ]
+}
