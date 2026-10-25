@@ -1,0 +1,279 @@
+{
+  "chapter": 20,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch20 stuff a bear.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch20_chapter_nineteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Lucy’s signal comes just as I’m finishing up with Mr. Leopold Anderson, age ninety-six, who died this morning in London ",
+          "ok": true,
+          "pos": 24
+        },
+        {
+          "text": "Now, though, I am terrified that it worked, and that this is why she’s reaching out. What if she’s come to her senses—as",
+          "ok": true,
+          "pos": 870
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“What",
+          "ok": true,
+          "pos": 954
+        },
+        {
+          "text": "” I turn in a circle, trying to make sense of where I am. Bright lights. Tinny music. Bins full of toys and fabric. Loud",
+          "ok": true,
+          "pos": 1299
+        },
+        {
+          "text": "Lucy is holding up two brightly colored toys",
+          "ok": true,
+          "pos": 1470
+        },
+        {
+          "text": "“It’s the Stuff-A-Bear store.”",
+          "ok": true,
+          "pos": 1708
+        },
+        {
+          "text": "“Stuff-A-Bear,” she repeats, as though it should be obvious",
+          "ok": true,
+          "pos": 1760
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I’m getting Jess and Liam a matching set of stuffies as a gift but can’t decide what to get.”",
+          "ok": true,
+          "pos": 1819
+        },
+        {
+          "text": "She holds up the toy she’s holding in her left hand (a pink thing with white felt eyes) and then the one in her right (a",
+          "ok": true,
+          "pos": 1910
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I don’t know,” I say, honestly. “Our rooms at the Agency don’t have any sort of decoration. My opinion will probably be",
+          "ok": true,
+          "pos": 3848
+        },
+        {
+          "text": "“How can you live like that?”",
+          "ok": true,
+          "pos": 4584
+        },
+        {
+          "text": "“I don’t live at all.”",
+          "ok": true,
+          "pos": 4612
+        },
+        {
+          "text": "“It’s not fine,” she insists. “I hate the idea of you being used to it.”",
+          "ok": true,
+          "pos": 5367
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "It’s not until I see the worried look on Lucy’s face that I realize the shape of my thoughts reached her through our bon",
+          "ok": true,
+          "pos": 5604
+        },
+        {
+          "text": "“Will you tell me one day?”",
+          "ok": true,
+          "pos": 5788
+        },
+        {
+          "text": "“Yes,” I promise. “Soon. But not here.”",
+          "ok": true,
+          "pos": 6179
+        },
+        {
+          "text": "The rainbow-colored stuffed toy looks out of place in my room, like it got lost on its way to somewhere brighter",
+          "ok": true,
+          "pos": 6906
+        },
+        {
+          "text": "And think of her",
+          "ok": true,
+          "pos": 8099
+        }
+      ],
+      "words": 66
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 31,
+        "为什么这样写": 107,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.22,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 32,
+        "为什么这样写": 111,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.21,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 26,
+        "为什么这样写": 68,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.23,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 35,
+        "为什么这样写": 91,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.23,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 36,
+        "为什么这样写": 156,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.25,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.75
+      }
+    }
+  ],
+  "form": {
+    "h1": "20. Chapter Nineteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 18,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1535,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

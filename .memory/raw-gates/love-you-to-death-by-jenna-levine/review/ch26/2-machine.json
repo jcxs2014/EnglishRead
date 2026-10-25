@@ -1,0 +1,279 @@
+{
+  "chapter": 26,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch26 the summons.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch26_chapter_twenty_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The specter at the Executive Suite reception desk stares up at me owlishly from the two black eyeholes in the center of ",
+          "ok": true,
+          "pos": 27
+        },
+        {
+          "text": "I show it the summons I found in my mail slot when I stumbled back home early this morning",
+          "ok": true,
+          "pos": 226
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“I’m afraid they are running behind. There was an emergency in Accounts Receivable this morning. It has kept them in mee",
+          "ok": true,
+          "pos": 518
+        },
+        {
+          "text": "Irritation floods me. Why does the punctuality expected of us never apply to the higher-ups",
+          "ok": true,
+          "pos": 1362
+        },
+        {
+          "text": "More than a century of conditioning to be subservient, however, has me joining the others in the waiting room instead. A",
+          "ok": true,
+          "pos": 1574
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Hello, Friend.”",
+          "ok": true,
+          "pos": 2720
+        },
+        {
+          "text": "My head snaps up to see the CEO standing behind the receptionist’s desk and staring right at me. The specter nearly fall",
+          "ok": true,
+          "pos": 2735
+        },
+        {
+          "text": "The CEO never comes into the waiting room like this. One look at his grim face leaves no room for doubt",
+          "ok": true,
+          "pos": 2895
+        },
+        {
+          "text": "I’m fucked",
+          "ok": true,
+          "pos": 3000
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Lucy’s contract granting her an eight-week extension of life materializes in front of me, shimmering in the air as if su",
+          "ok": true,
+          "pos": 4115
+        },
+        {
+          "text": "I watch in mounting dread as its silver lettering shifts and swirls across the page. Some words are altered, others are ",
+          "ok": true,
+          "pos": 4264
+        },
+        {
+          "text": "Is hereby rescinded. Her soul MUST be returned to us within four days following the creation of this document",
+          "ok": true,
+          "pos": 4829
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“You’ve grown attached to a human soul.” He shakes his head ruefully",
+          "ok": true,
+          "pos": 6144
+        },
+        {
+          "text": "“Next Monday, we will meet with you and Lucifer to discuss your demotion",
+          "ok": true,
+          "pos": 7983
+        },
+        {
+          "text": "My room is spare and depressing, but it’s the only home I’ve had for 135 years",
+          "ok": true,
+          "pos": 8208
+        },
+        {
+          "text": "“You may go, Daniel,” he says, softly",
+          "ok": true,
+          "pos": 8516
+        },
+        {
+          "text": "I flinch",
+          "ok": true,
+          "pos": 8553
+        },
+        {
+          "text": "The last time he said my name was the day I died",
+          "ok": true,
+          "pos": 8563
+        }
+      ],
+      "words": 67
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 20,
+        "为什么这样写": 101,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.27,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 17,
+        "为什么这样写": 136,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.13,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 30,
+        "为什么这样写": 119,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.24,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 100,
+        "关键词": 24,
+        "为什么这样写": 144,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.18,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 22,
+        "为什么这样写": 138,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.21,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "26. Chapter Twenty-Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 18,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1550,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "chapter": 30,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch30 the death card.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch30_chapter_twenty_nine.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "If I thought the Reapers’ speech in the break room was hard to understand, that was nothing compared to the rustling-lea",
+          "ok": true,
+          "pos": 25
+        },
+        {
+          "text": "I have no idea what this creature is saying. Context clues, though, suggest it’s not happy to see us",
+          "ok": true,
+          "pos": 239
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“I don’t care if the Executives are meeting with Accounts Receivable right now,” Daniel snaps. “They’re always meeting w",
+          "ok": true,
+          "pos": 934
+        },
+        {
+          "text": "The rustling-leaves sound picks up so much the creature is now generating its own gusts of wind. A few papers on its des",
+          "ok": true,
+          "pos": 1117
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Yes, I know bringing a living human to the Executive Suite is unusual,” Daniel says, at the end of his patience. “But—”",
+          "ok": true,
+          "pos": 1302
+        },
+        {
+          "text": "Daniel holds up his hands in a placating, defensive gesture. “You’re right. It’s not just unusual. It’s unprecedented. B",
+          "ok": true,
+          "pos": 1525
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Daniel pulls out two more documents and places them carefully on the desk beside his ID card. My skin crawls when I see ",
+          "ok": true,
+          "pos": 1666
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "When he speaks, the voice that greets us is like death and misery distilled into sound. “Well. What a pleasant surprise.",
+          "ok": true,
+          "pos": 3791
+        },
+        {
+          "text": "“I didn’t expect to see you here, Friend, until your exit interview. Or you at all, Ms. McKenzie. But please”—the man ge",
+          "ok": true,
+          "pos": 4007
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“To talk about me,” I manage to say without squeaking too badly. “You said I have nothing to teach you about humanity. I",
+          "ok": true,
+          "pos": 5364
+        },
+        {
+          "text": "“It’s courage.” Daniel’s voice brooks no opposition. “And it’s not misplaced.”",
+          "ok": true,
+          "pos": 6190
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It’s the horrific professional picture of me with my date, Aidan Hsu, at our senior prom. If anything can teach this gro",
+          "ok": true,
+          "pos": 8029
+        },
+        {
+          "text": "“Not unless you consider Gatorade nature,” I agree. And now I get to deliver the first lesson. “But humans crave change,",
+          "ok": true,
+          "pos": 8868
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I turn it around so everyone in the room can see the selfie of the two of us on our date in Arkansas. Daniel has his arm",
+          "ok": true,
+          "pos": 16161
+        },
+        {
+          "text": "“You know so little about humans,” I say, refusing to cry in front of these monsters, “that you don’t even understand wh",
+          "ok": true,
+          "pos": 16419
+        }
+      ],
+      "words": 61
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 21,
+        "为什么这样写": 108,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.23,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 19,
+        "为什么这样写": 130,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.48,
+        "关键词": 0.18,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 21,
+        "为什么这样写": 123,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.23,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 21,
+        "为什么这样写": 101,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.2,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 106,
+        "关键词": 27,
+        "为什么这样写": 104,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.26,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 22,
+        "为什么这样写": 111,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.22,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 101,
+        "关键词": 24,
+        "为什么这样写": 128,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.21,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 37,
+        "为什么这样写": 119,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.26,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "30. Chapter Twenty-Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3009,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

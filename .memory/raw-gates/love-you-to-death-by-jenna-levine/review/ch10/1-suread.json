@@ -1,0 +1,54 @@
+{
+  "chapter": "ch10",
+  "facts": [
+    {
+      "anchor": "a single folded sheet of parchment bearing",
+      "start": 39,
+      "end": 81,
+      "fact": "Daniel 回到 Agency，信箱里有一封折叠的羊皮纸，上面是 Executive 的亮红印章。"
+    },
+    {
+      "anchor": "In no more than six sentences",
+      "start": 3027,
+      "end": 3056,
+      "fact": "羊皮纸是 “Lucy McKenzie—Observation Notes #1”，要求六句话以内描述 Lucy 复活后看到自家时的反应；交回期限是 “Due: Six hours after receipt.”，交回方式是 Agency 内部邮寄。"
+    },
+    {
+      "anchor": "An eighty-seven-year-old Professor Emeritus of Chemistry",
+      "start": 2501,
+      "end": 2557,
+      "fact": "Daniel 当天的两个任务是：一位 eighty-seven-year-old 的化学荣休教授将在自己的实验室里死于周二，一位 sixty-seven-year-old 的芝加哥男子将于周四死于心脏病；两张新的 Death Cards 他先放到一旁准备细看。"
+    },
+    {
+      "anchor": "more than a century without it",
+      "start": 1780,
+      "end": 1810,
+      "fact": "Daniel 自述一个多世纪以来没人碰过他，被 Lucy 抱住之后忘了对 Agency 的职责；他抱走 Lucy 是为了不让医护追问，但在她公寓里抱着她哭时，他感到自己 dormant heart break（沉睡的心碎裂）。"
+    },
+    {
+      "anchor": "She has a fat orange cat who she was also very glad to see",
+      "start": 3920,
+      "end": 3978,
+      "fact": "他写的观察报告说：Lucy 住在糟糕的公寓却把它当自己的家、还庆幸能多住 eight weeks，她见到那只胖橘猫也很高兴（猫见到他也很高兴）；她还非常在意自己的妹妹，家里的便宜摆件虽然不值钱却对她意义重大。"
+    },
+    {
+      "anchor": "the complicated system of pneumatic tubes",
+      "start": 4658,
+      "end": 4699,
+      "fact": "他通读自己写的内容、删去不能让别人看到的部分，然后把表格投进 Agency 的传信管（pneumatic tubes）寄回。"
+    },
+    {
+      "anchor": "for the first time since I was human myself",
+      "start": 4786,
+      "end": 4829,
+      "fact": "寄出表格后，他第一次以人形以来扑面倒在自己的床上。"
+    },
+    {
+      "anchor": "what will spending eight weeks with her do to me?",
+      "start": 4373,
+      "end": 4422,
+      "fact": "他躺在床上自问：才几个小时就这副样子，在 Lucy 身边待 eight weeks 会把自己变成什么样；末行自问 “What have I gotten myself into?”"
+    }
+  ],
+  "turning_point": "不可逆的变化：Daniel 对 Agency 职责的自律在触碰 Lucy 之后崩掉——他自述 “And it’s made me reckless.”，并明说 “This is dangerous.”，还承认 “I don’t want to examine how or why this is happening after all these years.”（“So I don’t.”）；但任务照旧执行（写观察报告、投传信管寄回），最后以 “What have I gotten myself into?” 收束。"
+}

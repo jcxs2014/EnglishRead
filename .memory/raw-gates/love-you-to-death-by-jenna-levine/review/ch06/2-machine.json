@@ -1,0 +1,484 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch06 the waiting room.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch06_chapter_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The pain stops like a switch has been flipped",
+          "ok": true,
+          "pos": 18
+        },
+        {
+          "text": "“Ms. McKenzie.” His deep voice is familiar. Do I know him? “You’re awake.” His voice betrays no interest in this fact",
+          "ok": true,
+          "pos": 1186
+        },
+        {
+          "text": "The party. Yes, that’s right—he was at Professor Shiran’s retirement party. David, he said his name was",
+          "ok": true,
+          "pos": 2139
+        },
+        {
+          "text": "No. Not David",
+          "ok": true,
+          "pos": 2242
+        },
+        {
+          "text": "Daniel",
+          "ok": true,
+          "pos": 2257
+        },
+        {
+          "text": "Daniel, who was a total dick when I asked him to dance",
+          "ok": true,
+          "pos": 2265
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Lucy McKenzie, age twenty-eight. You were hit by a city bus seventeen minutes and fourteen seconds ago. You are dead.”",
+          "ok": true,
+          "pos": 3054
+        },
+        {
+          "text": "He says it so matter-of-factly, never taking his eyes off the page, that it takes a moment for what he’s said to sink in",
+          "ok": true,
+          "pos": 3172
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Name: Lucy McKenzie",
+          "ok": true,
+          "pos": 3379
+        },
+        {
+          "text": "Age: 28 years, 1 month, 3 days",
+          "ok": true,
+          "pos": 3399
+        },
+        {
+          "text": "Date: September 3",
+          "ok": true,
+          "pos": 3430
+        },
+        {
+          "text": "Location: Intersection of Douglas and Midway, Riverton, Tennessee",
+          "ok": true,
+          "pos": 3448
+        },
+        {
+          "text": "Time of incident: 8:43 p.m",
+          "ok": true,
+          "pos": 3514
+        },
+        {
+          "text": "Method: Riverton city bus",
+          "ok": true,
+          "pos": 3542
+        },
+        {
+          "text": "Death: 8:44 p.m",
+          "ok": true,
+          "pos": 3568
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I blink at the sudden softness in his tone. It’s close to empathy, but not quite. It’s almost enough to prove to me he’s",
+          "ok": true,
+          "pos": 6057
+        },
+        {
+          "text": "Tentatively, I place my palm flat against the place where my heart has beat steadily for twenty-eight years",
+          "ok": true,
+          "pos": 6287
+        },
+        {
+          "text": "Nothing thumps beneath my palm",
+          "ok": true,
+          "pos": 6426
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I’ll never again be woken up by Wilfred at six in the morning demanding his breakfast",
+          "ok": true,
+          "pos": 6960
+        },
+        {
+          "text": "I’ll never see my sister again or be with her on her wedding day. I’ll never get to prove that I can be a good and relia",
+          "ok": true,
+          "pos": 7046
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“You are not in Heaven. This is the Waiting Room. It’s where I—we—bring people after they die. We let them wake up and a",
+          "ok": true,
+          "pos": 8422
+        },
+        {
+          "text": "“On the other side of this door is the In-Between. As soon as you stop asking questions, I will take you there.”",
+          "ok": true,
+          "pos": 8836
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“The In-Between is for post-collection soul processing,” he says, with obvious reluctance. “Who I am is not important.”",
+          "ok": true,
+          "pos": 9231
+        },
+        {
+          "text": "“My job is all you need to know about me,” he says, like every word is being pulled from him against his will. “I collec",
+          "ok": true,
+          "pos": 9941
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Are you the Devil?”",
+          "ok": true,
+          "pos": 9695
+        },
+        {
+          "text": "“No.”",
+          "ok": true,
+          "pos": 2242
+        },
+        {
+          "text": "“An angel?”",
+          "ok": true,
+          "pos": 9743
+        },
+        {
+          "text": "“Definitely not.”",
+          "ok": true,
+          "pos": 9784
+        },
+        {
+          "text": "“I am a Reaper. One of thousands employed here.” His mouth twists into a wry shape that might be a smile. “Whether I’m g",
+          "ok": true,
+          "pos": 10698
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Let me make a deal with you,” I beg",
+          "ok": true,
+          "pos": 13483
+        },
+        {
+          "text": "“Please,” I beg. “I just need a little more time.”",
+          "ok": true,
+          "pos": 13661
+        },
+        {
+          "text": "“I need to be there for my sister’s wedding in six weeks. Our mom walked out on us. I’m her only family",
+          "ok": true,
+          "pos": 13923
+        },
+        {
+          "text": "Now I’m crying again in huge, racking sobs that feel torn from my soul. “I’m not finished yet. With what I have to do.”",
+          "ok": true,
+          "pos": 14031
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“What is taking so long, Friend? We need the room for the next arrival.”",
+          "ok": true,
+          "pos": 14190
+        },
+        {
+          "text": "“I’ll try to win you a reprieve.” His gaze washes over me, as if he’s committing me to memory. “This likely won’t work. ",
+          "ok": true,
+          "pos": 14992
+        },
+        {
+          "text": "“I will be back soon.”",
+          "ok": true,
+          "pos": 15366
+        },
+        {
+          "text": "Daniel fades, bit by bit, right in front of my eyes—and then is gone",
+          "ok": true,
+          "pos": 15447
+        }
+      ],
+      "words": 68
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 28,
+        "为什么这样写": 104,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.2,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 23,
+        "为什么这样写": 80,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.2,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 18,
+        "为什么这样写": 93,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.36,
+        "关键词": 0.1,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 28,
+        "为什么这样写": 89,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.21,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 32,
+        "为什么这样写": 114,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.27,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 32,
+        "为什么这样写": 110,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.2,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 35,
+        "为什么这样写": 73,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.23,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 29,
+        "为什么这样写": 83,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.22,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 37,
+        "为什么这样写": 90,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.23,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 33,
+        "为什么这样写": 112,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.2,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "06. Chapter Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 37,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2917,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

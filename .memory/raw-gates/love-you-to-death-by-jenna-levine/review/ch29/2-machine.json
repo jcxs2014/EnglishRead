@@ -1,0 +1,341 @@
+{
+  "chapter": 29,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch29 the rehearsal.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch29_chapter_twenty_eight.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I spend about an hour deciding which photos to take to the Agency",
+          "ok": true,
+          "pos": 26
+        },
+        {
+          "text": "Another thirty minutes hiding in my bedroom, rehearsing what I’ll say to the Executives if they’re willing to meet with ",
+          "ok": true,
+          "pos": 93
+        },
+        {
+          "text": "I can do this. I have to",
+          "ok": true,
+          "pos": 291
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“That dress,” he breathes",
+          "ok": true,
+          "pos": 424
+        },
+        {
+          "text": "Jess gave me the blue dress and the boots I’m wearing for my twenty-fifth birthday",
+          "ok": true,
+          "pos": 449
+        },
+        {
+          "text": "“Not good?” I ask",
+          "ok": true,
+          "pos": 686
+        },
+        {
+          "text": "“The opposite.” He moves closer, wrapping an arm around me",
+          "ok": true,
+          "pos": 703
+        },
+        {
+          "text": "“Do I look ready to impress your bosses?” I ask, deflecting the compliment",
+          "ok": true,
+          "pos": 883
+        },
+        {
+          "text": "“I wish there were another way.”",
+          "ok": true,
+          "pos": 1081
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "And then the sickly-sweet antiseptic smell of the Agency fills my nose",
+          "ok": true,
+          "pos": 1846
+        },
+        {
+          "text": "I’m still in the same clothes I was in back in my apartment. I still have ten fingers",
+          "ok": true,
+          "pos": 1982
+        },
+        {
+          "text": "My cell phone, and the physical photos I need for this plan, are right where they should be",
+          "ok": true,
+          "pos": 2149
+        },
+        {
+          "text": "All good signs",
+          "ok": true,
+          "pos": 2242
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "More than a dozen formless human-size shapes wearing suits just like Daniel’s sit at cafeteria-style tables, holding cof",
+          "ok": true,
+          "pos": 2913
+        },
+        {
+          "text": "“Reapers.” Daniel’s voice is grim. “Yes.”",
+          "ok": true,
+          "pos": 3839
+        },
+        {
+          "text": "“Eternity’s a long time.”",
+          "ok": true,
+          "pos": 4182
+        },
+        {
+          "text": "He ticks the items off on his fingers. “None of their workplace perks actually help.”",
+          "ok": true,
+          "pos": 4425
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Seems like Monday comes earlier every week.”",
+          "ok": true,
+          "pos": 5690
+        },
+        {
+          "text": "Another Reaper says something as it passes by our closet. It sounds like “Fucking Mondays.”",
+          "ok": true,
+          "pos": 6006
+        },
+        {
+          "text": "People dying is just a clock-in, clock-out job to them. It was to Daniel, too—before he met me",
+          "ok": true,
+          "pos": 6382
+        },
+        {
+          "text": "“I’m glad that when you look at me, you see a man.”",
+          "ok": true,
+          "pos": 7073
+        },
+        {
+          "text": "“I’d still like you even if I saw you as you really are.”",
+          "ok": true,
+          "pos": 7172
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He crushes me to him. “Please let me send you home so I can do this for you.”",
+          "ok": true,
+          "pos": 9734
+        },
+        {
+          "text": "“I have to be the one to do this, Daniel.”",
+          "ok": true,
+          "pos": 9927
+        },
+        {
+          "text": "Daniel swallows audibly. “Here we go.” But he doesn’t move a muscle",
+          "ok": true,
+          "pos": 10887
+        },
+        {
+          "text": "I put my hand on the bag carrying the photographs and my phone. “Here goes nothing,” I say",
+          "ok": true,
+          "pos": 11047
+        }
+      ],
+      "words": 61
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 14,
+        "为什么这样写": 100,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.2,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 13,
+        "为什么这样写": 102,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.2,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 20,
+        "为什么这样写": 99,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.23,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 15,
+        "为什么这样写": 127,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.19,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 103,
+        "关键词": 21,
+        "为什么这样写": 154,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.23,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 16,
+        "为什么这样写": 114,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.21,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.81
+      }
+    }
+  ],
+  "form": {
+    "h1": "29. Chapter Twenty-Eight",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 26,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2099,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

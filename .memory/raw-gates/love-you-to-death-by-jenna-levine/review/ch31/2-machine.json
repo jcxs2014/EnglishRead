@@ -1,0 +1,222 @@
+{
+  "chapter": 31,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch31 the room.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch31_chapter_thirty.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“This is your home?” She’s dismayed, and wants to hide it from me but can’t. I would know even without our bond. She’s b",
+          "ok": true,
+          "pos": 85
+        },
+        {
+          "text": "No, I want to tell her. You’re my home",
+          "ok": true,
+          "pos": 217
+        },
+        {
+          "text": "“It’s not my home,” I say instead. “Only a bed, a table, a chair. It’s just where I stay.”",
+          "ok": true,
+          "pos": 256
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“It’s dreadful.” She shudders. “I can’t believe you live somewhere so sad and empty.”",
+          "ok": true,
+          "pos": 341
+        },
+        {
+          "text": "“I’m trying very hard not to be hurt,” I quip, trying to lighten the mood. It’s pointless, though. We both know what we’",
+          "ok": true,
+          "pos": 421
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“That went terribly, didn’t it.” She’s sniffling, which means she’s trying not to cry",
+          "ok": true,
+          "pos": 1839
+        },
+        {
+          "text": "“I was an idiot to think this could work.”",
+          "ok": true,
+          "pos": 2026
+        },
+        {
+          "text": "“You were brilliant. And so brave. You did all you could.”",
+          "ok": true,
+          "pos": 2297
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "If this moment together is to be one of our last, then I am determined to make it last",
+          "ok": true,
+          "pos": 3156
+        },
+        {
+          "text": "When she wakes up, I’ll take her home so she can spend her final days with her sister",
+          "ok": true,
+          "pos": 3676
+        },
+        {
+          "text": "For now, though, I close my eyes and pretend we can stay forever in these last few stolen moments",
+          "ok": true,
+          "pos": 3762
+        }
+      ],
+      "words": 58
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 28,
+        "为什么这样写": 112,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.25,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 32,
+        "为什么这样写": 117,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.25,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 21,
+        "为什么这样写": 129,
+        "读者视角提示": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.24,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 24,
+        "为什么这样写": 105,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.23,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.67
+      }
+    }
+  ],
+  "form": {
+    "h1": "31. Chapter Thirty",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 4,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 766,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

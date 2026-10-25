@@ -1,0 +1,421 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch09 the intersection again.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch09_chapter_eight.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "When I open my eyes, I’m lying in the middle of the same street I died in with the worst headache I’ve ever had. Nausea ",
+          "ok": true,
+          "pos": 19
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I vaguely realize that my purse is slung across my shoulder the same way it was when the bus hit me the first time",
+          "ok": true,
+          "pos": 688
+        },
+        {
+          "text": "Looks like it made it back with me from the afterlife, too",
+          "ok": true,
+          "pos": 804
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Give her some space,” a familiar deep voice says from somewhere to my right. Daniel. Relief floods me, even though he s",
+          "ok": true,
+          "pos": 1065
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I can’t allow that.” The paramedic who shined a light in my face is tall, with a deep voice that matches his sturdy bui",
+          "ok": true,
+          "pos": 2140
+        },
+        {
+          "text": "“She was hit by a bus and knocked unconscious. We need to put her in the ambulance and take her in for a full examinatio",
+          "ok": true,
+          "pos": 2326
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Before I can reply, Daniel scoops me up into his arms like I weigh nothing at all",
+          "ok": true,
+          "pos": 3211
+        },
+        {
+          "text": "I rest my head against his shoulder and breathe in his unique, wintry scent as he walks us away from the accident scene",
+          "ok": true,
+          "pos": 3387
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“No,” he says, emphatic. “Do you know how many car accident assignments I get every week? How unsafe it is to be on the ",
+          "ok": true,
+          "pos": 5546
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I fish in my purse for my keys, feeling a wave of disorientation when I find them in the compartment where they always a",
+          "ok": true,
+          "pos": 8165
+        },
+        {
+          "text": "My home feels the same as ever. The only thing different is me",
+          "ok": true,
+          "pos": 9349
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Daniel seems very interested, though. He picks up and examines each item like he’s studying it under a microscope before",
+          "ok": true,
+          "pos": 9940
+        },
+        {
+          "text": "He sets my souvenir from Dollywood back down on the shelf. “You’ve been staring at your phone looking conflicted for fiv",
+          "ok": true,
+          "pos": 13170
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "In eight weeks I have to leave Wilf behind. He’s been the only constant in my life other than Jess, and now I’m leaving ",
+          "ok": true,
+          "pos": 15606
+        },
+        {
+          "text": "“Eight weeks won’t be enough time,” I whimper",
+          "ok": true,
+          "pos": 17754
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“If you only have eight weeks left, Ms. McKenzie, you must do everything you can to make them the best weeks of your lif",
+          "ok": true,
+          "pos": 18684
+        },
+        {
+          "text": "Then I watch as Daniel fades into nothing before my eyes",
+          "ok": true,
+          "pos": 21835
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“No.” He shakes his head. “I mean, yes. It was once. A very long time ago. But I don’t have a name now.”",
+          "ok": true,
+          "pos": 20119
+        },
+        {
+          "text": "“None of us do.”",
+          "ok": true,
+          "pos": 20362
+        },
+        {
+          "text": "“We don’t get lonely,” he murmurs",
+          "ok": true,
+          "pos": 21383
+        }
+      ],
+      "words": 35
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 20,
+        "为什么这样写": 130,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.23,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 22,
+        "为什么这样写": 121,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.25,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 23,
+        "为什么这样写": 127,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.23,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 28,
+        "为什么这样写": 118,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.24,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 29,
+        "为什么这样写": 118,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.22,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 21,
+        "为什么这样写": 113,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.2,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 26,
+        "为什么这样写": 102,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.19,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 28,
+        "为什么这样写": 120,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.21,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 28,
+        "为什么这样写": 115,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.22,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 20,
+        "为什么这样写": 86,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.21,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 24,
+        "为什么这样写": 111,
+        "读者视角提示": 74
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.25,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "09. Chapter Eight",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 20,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4141,
+    "block_target": [
+      8,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

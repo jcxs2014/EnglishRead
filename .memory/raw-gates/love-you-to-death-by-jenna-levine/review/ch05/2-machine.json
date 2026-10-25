@@ -1,0 +1,306 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch05 the moment of death.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch05_chapter_four.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Each second is both instantaneous and eternal",
+          "ok": true,
+          "pos": 18
+        },
+        {
+          "text": "All I know for certain is the pain. It is searing. Blinding. It thrusts razor-sharp claws into me, filling every nerve w",
+          "ok": true,
+          "pos": 137
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I try to open my eyes. Partly succeed. I am lying down in the middle of a street. A bus is on top of me. It isn’t moving",
+          "ok": true,
+          "pos": 412
+        },
+        {
+          "text": "Other hands—strong hands—lift me. I barely see them, barely feel it when I am moved, shifted, repositioned. Strapped dow",
+          "ok": true,
+          "pos": 630
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But now there is a face, hovering just above mine. Almost within reach. The features are blurry, except for bright blue ",
+          "ok": true,
+          "pos": 819
+        },
+        {
+          "text": "Eyes that are both foreign and familiar. They pierce through the haze that has taken my mind",
+          "ok": true,
+          "pos": 945
+        },
+        {
+          "text": "You are",
+          "ok": true,
+          "pos": 1087
+        },
+        {
+          "text": "so bright. They sound stunned. The person’s mouth doesn’t move. Am I hearing the words inside my head",
+          "ok": true,
+          "pos": 1095
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "They wave a large hand over my prone body. When it stops above my heart, there is a pulling pulling pulling that threate",
+          "ok": true,
+          "pos": 1349
+        },
+        {
+          "text": "All my instincts scream at me to fight this intrusion. This nearly irresistible pull. So I fight it with everything I am",
+          "ok": true,
+          "pos": 1527
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Lucy McKenzie, the voice chastises. It’s losing patience with me",
+          "ok": true,
+          "pos": 2063
+        },
+        {
+          "text": "I’m dying, I realize with brittle clarity. The people beside me are doing something to me, inserting tubes into my nose ",
+          "ok": true,
+          "pos": 2239
+        },
+        {
+          "text": "But I don’t want to die",
+          "ok": true,
+          "pos": 2469
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I feel, rather than hear, the surprised gasp",
+          "ok": true,
+          "pos": 2700
+        },
+        {
+          "text": "So bright, it says again with what might be genuine awe",
+          "ok": true,
+          "pos": 2746
+        },
+        {
+          "text": "I stop fighting, focusing on the awe in that voice for the span of half a heartbeat",
+          "ok": true,
+          "pos": 2803
+        },
+        {
+          "text": "That’s all the time they need",
+          "ok": true,
+          "pos": 2888
+        },
+        {
+          "text": "They give one final, sharp tug, and now I float weightless above my body, outside the pain",
+          "ok": true,
+          "pos": 2918
+        },
+        {
+          "text": "The vehicle that holds my body lurches forward as the rest of me is tugged out and away",
+          "ok": true,
+          "pos": 3010
+        }
+      ],
+      "words": 82
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 115,
+        "关键词": 23,
+        "为什么这样写": 114,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.24,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 21,
+        "为什么这样写": 96,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.26,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 98,
+        "关键词": 22,
+        "为什么这样写": 110,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.24,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 127,
+        "关键词": 24,
+        "为什么这样写": 103,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.24,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 22,
+        "为什么这样写": 110,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.23,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 136,
+        "关键词": 22,
+        "为什么这样写": 114,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.26,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.92
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Chapter Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 19,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 578,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch07 the death cards.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch07_chapter_six.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Two Reapers I recognize from various training sessions I’ve attended over the years are leaving the Executive Suite when",
+          "ok": true,
+          "pos": 16
+        },
+        {
+          "text": "Fuck. Just what I need",
+          "ok": true,
+          "pos": 228
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "When I walk into the conference room, the Agency’s Chief Executive Officer, Chief People Officer, and Head of Inhuman Re",
+          "ok": true,
+          "pos": 839
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "We never grant them, because we can’t. First, there is life. After it comes death. It’s been that way since the dawn of ",
+          "ok": true,
+          "pos": 2157
+        },
+        {
+          "text": "I know this. The Executives—who, along with the Powers That Be, create the Death Cards that dictate who dies, how they d",
+          "ok": true,
+          "pos": 2485
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Lucy McKenzie wishes to be brought back to life,” I confirm, wincing at how my voice wobbles. “Her sister is getting ma",
+          "ok": true,
+          "pos": 2702
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The Head of IR scoffs, then begins unrolling a large parchment scroll I recognize immediately as The Reaper Handbook",
+          "ok": true,
+          "pos": 3393
+        },
+        {
+          "text": "“Bargains with human souls are forbidden,” he reads. His voice is like crepe paper in a windstorm. “A Reaper’s role is t",
+          "ok": true,
+          "pos": 3571
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“One hundred thirty-five,” I correct. And forty-seven days. Not like I’m counting",
+          "ok": true,
+          "pos": 4914
+        },
+        {
+          "text": "“Fine. One hundred and thirty-five.” The CPO, who had already been here for thousands of years when I arrived, waves a d",
+          "ok": true,
+          "pos": 4994
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "A lightning strike, a knife to the heart while I was still alive—either would have been less earth-shattering than the p",
+          "ok": true,
+          "pos": 6515
+        },
+        {
+          "text": "And I’m having a real fucking hard time processing it. When I woke up this morning, I was a disgruntled and disintereste",
+          "ok": true,
+          "pos": 6755
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Without missing a beat, the CPO riffles through a thick leather-bound binder I didn’t notice before. She stops near the ",
+          "ok": true,
+          "pos": 7689
+        },
+        {
+          "text": "The CEO lets out a low whistle. “Centuries, then. Our data is certainly out of date. Humans are our customers and also o",
+          "ok": true,
+          "pos": 7840
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“It’s his fifth consecutive year of falling short,” the Head of IR answers for me. “I am preparing his annual performanc",
+          "ok": true,
+          "pos": 9120
+        },
+        {
+          "text": "The CEO sighs. “We thought adding pinball machines and a wider variety of snacks to the break room might help restore yo",
+          "ok": true,
+          "pos": 9260
+        }
+      ],
+      "words": 80
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "At the end of this eight-week extension, Lucy McKenzie’s soul must return to us by the original method of death",
+          "ok": true,
+          "pos": 11185
+        },
+        {
+          "text": "In exchange for the invaluable information Lucy McKenzie will provide, upon her death, her soul will be given an Upgrade",
+          "ok": true,
+          "pos": 11297
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "The smile he gives me is anything but benevolent. “You.”",
+          "ok": true,
+          "pos": 12913
+        },
+        {
+          "text": "“We have seen signs that your attitude is spreading to others.” The CEO brushes an invisible speck of lint from his shou",
+          "ok": true,
+          "pos": 13081
+        }
+      ],
+      "words": 72
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 13,
+        "为什么这样写": 99,
+        "读者视角提示": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.21,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 11,
+        "为什么这样写": 91,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.15,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 109,
+        "关键词": 20,
+        "为什么这样写": 118,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.18,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 11,
+        "为什么这样写": 112,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.14,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 108,
+        "关键词": 23,
+        "为什么这样写": 120,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.19,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 115,
+        "关键词": 12,
+        "为什么这样写": 173,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.13,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 118,
+        "关键词": 27,
+        "为什么这样写": 116,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.21,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 119,
+        "关键词": 14,
+        "为什么这样写": 145,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.11,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 118,
+        "关键词": 26,
+        "为什么这样写": 128,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.17,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 16,
+        "为什么这样写": 140,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.14,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 105,
+        "关键词": 25,
+        "为什么这样写": 156,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.2,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "07. Chapter Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 20,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2718,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

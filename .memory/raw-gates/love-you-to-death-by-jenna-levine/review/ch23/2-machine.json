@@ -1,0 +1,392 @@
+{
+  "chapter": 23,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch23 the dock.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch23_chapter_twenty_two.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Half an hour before the bar closes for the night, I put Jess into an Uber with Ashley and Mallory, who have promised to ",
+          "ok": true,
+          "pos": 24
+        },
+        {
+          "text": "“Thank you for always taking such good care of her, Luce.” Liam’s voice is quiet and sincere. “She’s lucky to have a sis",
+          "ok": true,
+          "pos": 693
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "When Daniel materializes into my bedroom a few moments later and sees what I’m wearing, his eyes darken. “Gods, Lucy.” H",
+          "ok": true,
+          "pos": 1380
+        },
+        {
+          "text": "I want to kiss you always, so badly it hurts. But I can’t. It isn’t right.”",
+          "ok": true,
+          "pos": 4075
+        },
+        {
+          "text": "“Not until I tell you everything about who I used to be.”",
+          "ok": true,
+          "pos": 4168
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I grew up in a small Russian town you won’t have heard of. We had little food. Even less money. When my father died, th",
+          "ok": true,
+          "pos": 5711
+        },
+        {
+          "text": "“I had to earn money, fast. There were few legal means by which to do so for boys my age.”",
+          "ok": true,
+          "pos": 6200
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“At first, it was mostly just petty thieving. Picking the pockets of market-day shoppers who were wealthy enough not to ",
+          "ok": true,
+          "pos": 6375
+        },
+        {
+          "text": "“I never intended to kill anyone,” he murmurs",
+          "ok": true,
+          "pos": 9826
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Indirectly. We were usually so careful, even in situations where violence couldn’t be avoided. But at the very end, a j",
+          "ok": true,
+          "pos": 10204
+        },
+        {
+          "text": "sideways.”",
+          "ok": true,
+          "pos": 10330
+        },
+        {
+          "text": "“Nobody else was supposed to be at that dock when those explosives went off. I wasn’t supposed to be there, either",
+          "ok": true,
+          "pos": 10372
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "But Nicholas, my partner and the man whose idea this job had been in the first place, either planned the job badly or se",
+          "ok": true,
+          "pos": 10486
+        },
+        {
+          "text": "“Three. All adults at least, thank the Fates. They were brothers—innocent men—meant to travel east on a different ship. ",
+          "ok": true,
+          "pos": 10873
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I shake my head. “What you told me doesn’t change anything.”",
+          "ok": true,
+          "pos": 12597
+        },
+        {
+          "text": "“So you’re no saint,” I quip. “I already guessed that much. You were doing the best you could with the shitty hand you w",
+          "ok": true,
+          "pos": 12684
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Lucy,” he pants. His body is trembling as he tries to hold himself together. What would it be like, I wonder, to be the",
+          "ok": true,
+          "pos": 15136
+        },
+        {
+          "text": "“What we’re doing right now",
+          "ok": true,
+          "pos": 15734
+        },
+        {
+          "text": "it’ll destroy me later. When I have to do what I have to do.”",
+          "ok": true,
+          "pos": 15760
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Can I take you somewhere tomorrow?” he blurts, a little breathless",
+          "ok": true,
+          "pos": 16323
+        },
+        {
+          "text": "“I know lots of good places,” he says. “All over the world. I can take you to any and all of them.”",
+          "ok": true,
+          "pos": 17432
+        },
+        {
+          "text": "“But you aren’t doing enough nice things for yourself. So please, Lucy. Let me take you somewhere nice tomorrow.”",
+          "ok": true,
+          "pos": 17753
+        },
+        {
+          "text": "He’s already fading away before I can ask where he plans to take me",
+          "ok": true,
+          "pos": 18744
+        }
+      ],
+      "words": 69
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 21,
+        "为什么这样写": 87,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.22,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 26,
+        "为什么这样写": 84,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.24,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 26,
+        "为什么这样写": 80,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.31,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 16,
+        "为什么这样写": 118,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.21,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 26,
+        "为什么这样写": 87,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.28,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 19,
+        "为什么这样写": 94,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.29,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 17,
+        "为什么这样写": 90,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.21,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.32
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 14,
+        "为什么这样写": 74,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.22,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 101,
+        "关键词": 26,
+        "为什么这样写": 96,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.24,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.55
+      }
+    }
+  ],
+  "form": {
+    "h1": "23. Chapter Twenty-Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 23,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3585,
+    "block_target": [
+      7,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

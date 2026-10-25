@@ -1,0 +1,368 @@
+{
+  "chapter": 35,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch35 the epilogue.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch35_epilogue.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Three Weeks Later",
+          "ok": true,
+          "pos": 14
+        },
+        {
+          "text": "“Two of them,” he says. “That’s twenty in total. Normal for a human in his thirties, right?”",
+          "ok": true,
+          "pos": 1545
+        },
+        {
+          "text": "“I think so,” I tell him. “Just like your hair and fingernails growing now is normal. And your needing to shave.”",
+          "ok": true,
+          "pos": 1633
+        },
+        {
+          "text": "He nods like he knows this already. Because he does. “It’s just strange, seeing my hair turn gray. Watching it change.”",
+          "ok": true,
+          "pos": 1743
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Ninety-seven minutes,” he replies so proudly I nearly burst out laughing",
+          "ok": true,
+          "pos": 3603
+        },
+        {
+          "text": "This playful domesticity is more than I ever thought we’d get to have",
+          "ok": true,
+          "pos": 4245
+        },
+        {
+          "text": "We don’t know whether he’ll live for another two hundred years, another fifty, or another ten. The same way other people",
+          "ok": true,
+          "pos": 4413
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Daniel is standing outside the bridal party’s dressing room, looking as on edge",
+          "ok": true,
+          "pos": 4731
+        },
+        {
+          "text": "The rest of what he was about to say dies in his throat when he sees me fully, in my burgundy bridesmaid dress and heels",
+          "ok": true,
+          "pos": 5396
+        },
+        {
+          "text": "“I’m convinced that any minute now, someone will realize what I used to be and run off screaming.”",
+          "ok": true,
+          "pos": 6959
+        },
+        {
+          "text": "he can still transport himself across small distances",
+          "ok": true,
+          "pos": 7333
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "When she sees me, she hands the bouquet of lilies she’s carrying to Dr. Cotton, the elderly doctor she works for who wil",
+          "ok": true,
+          "pos": 8390
+        },
+        {
+          "text": "“Can confirm,” Asher Lancaster, Liam’s brother and best man, says",
+          "ok": true,
+          "pos": 8734
+        },
+        {
+          "text": "A moment later, a string ensemble starts playing Pachelbel’s Canon. That’s our cue. Asher holds out his arm out to me",
+          "ok": true,
+          "pos": 9201
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“For doing everything you did to make today so wonderful. And for being the best big sister anyone could have asked for.",
+          "ok": true,
+          "pos": 9623
+        },
+        {
+          "text": "it feels like an ugly, dark something that I’ve kept buried deep inside rises to the surface and floats away",
+          "ok": true,
+          "pos": 9916
+        },
+        {
+          "text": "Or a lot of it does, anyway",
+          "ok": true,
+          "pos": 10025
+        },
+        {
+          "text": "If Jess believes so strongly that I’m good enough, maybe over time I’ll eventually believe it, too",
+          "ok": true,
+          "pos": 10054
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Public speaking still terrifies me as much as it did the day I won back my life and Daniel’s freedom",
+          "ok": true,
+          "pos": 11033
+        },
+        {
+          "text": "On reflex, I reach out to him through our connection that is no longer there, because I need reassurance that I can get ",
+          "ok": true,
+          "pos": 11735
+        },
+        {
+          "text": "He gives an infinitesimal nod of his head as if to say You’ve got this",
+          "ok": true,
+          "pos": 11981
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I was drawn to you from the moment I laid eyes on you",
+          "ok": true,
+          "pos": 13862
+        },
+        {
+          "text": "In all my years of Reaping, I had never once felt drawn to a person the way I was drawn to you",
+          "ok": true,
+          "pos": 14808
+        },
+        {
+          "text": "In the end, we found each other exactly when we needed to",
+          "ok": true,
+          "pos": 15261
+        },
+        {
+          "text": "And all I had to do was die, I think wryly",
+          "ok": true,
+          "pos": 15320
+        },
+        {
+          "text": "In the end, though",
+          "ok": true,
+          "pos": 15364
+        },
+        {
+          "text": "it was worth it",
+          "ok": true,
+          "pos": 15383
+        }
+      ],
+      "words": 69
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 106,
+        "关键词": 18,
+        "为什么这样写": 111,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.21,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 18,
+        "为什么这样写": 106,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.2,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 19,
+        "为什么这样写": 94,
+        "读者视角提示": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.17,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 15,
+        "为什么这样写": 99,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.16,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 21,
+        "为什么这样写": 89,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.23,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 26,
+        "为什么这样写": 94,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.22,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 118,
+        "关键词": 20,
+        "为什么这样写": 100,
+        "读者视角提示": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.24,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "35. Epilogue",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 27,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2907,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

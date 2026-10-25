@@ -1,0 +1,523 @@
+{
+  "chapter": 11,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch11 the first morning.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch11_chapter_ten.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "My alarm is set for seven-thirty but it’s after eight by the time I drag myself from bed",
+          "ok": true,
+          "pos": 17
+        },
+        {
+          "text": "My mouth tastes like something crawled down my throat and died overnight. Is feeling like complete ass a natural side ef",
+          "ok": true,
+          "pos": 214
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I need to get up, though. Being a reliable sister to Jess is my primary goal for the next eight weeks. Showing up late t",
+          "ok": true,
+          "pos": 423
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "In honor of living every day like it’s my last, or whatever, I tug on the sequined pink cowgirl boots I usually only wea",
+          "ok": true,
+          "pos": 615
+        },
+        {
+          "text": "I try to imagine how Daniel might react if he saw me in these boots",
+          "ok": true,
+          "pos": 873
+        },
+        {
+          "text": "Then again, he’s a Grim Reaper. He’s uniquely unqualified to know what living your best life even means",
+          "ok": true,
+          "pos": 1066
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Leviathan’s is usually packed on weekday mornings, but today is Sunday",
+          "ok": true,
+          "pos": 1169
+        },
+        {
+          "text": "Katie, the barista who takes my drink order almost every day, is wiping nonexistent crumbs off the counter as I approach",
+          "ok": true,
+          "pos": 1435
+        },
+        {
+          "text": "A cappuccino with a double shot of espresso, extra foam, made with whole milk, is the missing puzzle piece of routine I ",
+          "ok": true,
+          "pos": 1974
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "As Katie makes my drink, I mentally rehearse the lie about last night that I came up with on my way here. It’s super fli",
+          "ok": true,
+          "pos": 2129
+        },
+        {
+          "text": "“I forgot to bring the plaque for the retiring professor last night.” Not a lie, but not remotely the reason I texted Je",
+          "ok": true,
+          "pos": 5513
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "When I hold the mug up to my lips to take my first sip and see what’s inside, I nearly drop it to the floor in surprise",
+          "ok": true,
+          "pos": 2478
+        },
+        {
+          "text": "Two crossed bones beneath a sightless skull",
+          "ok": true,
+          "pos": 2882
+        },
+        {
+          "text": "“I’m so sorry! I knew the machine had been acting weird, but",
+          "ok": true,
+          "pos": 3048
+        },
+        {
+          "text": "How did that even happen?”",
+          "ok": true,
+          "pos": 3107
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“No caffeine allergy,” she says. “God, that would be a fate worse than death.”",
+          "ok": true,
+          "pos": 6727
+        },
+        {
+          "text": "“Please don’t kill me.”",
+          "ok": true,
+          "pos": 7126
+        },
+        {
+          "text": "“Liam.” She shakes her head. “I don’t know if I can marry him.”",
+          "ok": true,
+          "pos": 7363
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“He’s too good to be true.”",
+          "ok": true,
+          "pos": 8002
+        },
+        {
+          "text": "“Almost six years.”",
+          "ok": true,
+          "pos": 8355
+        },
+        {
+          "text": "They met one night when Jess and I had to rush Wilfred to the emergency pet hospital after he got into our secret chocol",
+          "ok": true,
+          "pos": 8424
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“You’re nothing like Mom,” I assure her in the quiet voice we always use when we bring her up",
+          "ok": true,
+          "pos": 9429
+        },
+        {
+          "text": "You’ve been more of a parent to me than our mother ever was.”",
+          "ok": true,
+          "pos": 9878
+        },
+        {
+          "text": "I can’t be there for my sister for very long after her wedding—but I’ll be the most supportive, most reassuring big sist",
+          "ok": true,
+          "pos": 10819
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I nearly jump out of my skin at Daniel’s voice. He wasn’t here two minutes ago, but now he’s sitting at the cheap foldin",
+          "ok": true,
+          "pos": 14810
+        },
+        {
+          "text": "“I’m here on Agency business,” he explains",
+          "ok": true,
+          "pos": 15552
+        },
+        {
+          "text": "“Giving away my right to privacy was never part of our deal.” I scowl",
+          "ok": true,
+          "pos": 18279
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“Strange,” he murmurs. “It’s already here.”",
+          "ok": true,
+          "pos": 19721
+        },
+        {
+          "text": "“What I was trying to give you.”",
+          "ok": true,
+          "pos": 19853
+        },
+        {
+          "text": "But I believe we can communicate with each other in a rudimentary way",
+          "ok": true,
+          "pos": 20334
+        },
+        {
+          "text": "When I returned your soul to your body, I may have given you something",
+          "ok": true,
+          "pos": 20433
+        },
+        {
+          "text": "extra.”",
+          "ok": true,
+          "pos": 20504
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "But his usual mask of indifference has fallen completely away. The corners of his mouth kick up into a small, genuine sm",
+          "ok": true,
+          "pos": 20951
+        },
+        {
+          "text": "The connection abruptly goes dead, my mind suddenly so empty of him it was like he was never there. “That’s",
+          "ok": true,
+          "pos": 23459
+        },
+        {
+          "text": "confidential.”",
+          "ok": true,
+          "pos": 23565
+        },
+        {
+          "text": "He slips free of my grasp and stands, looking utterly wrecked",
+          "ok": true,
+          "pos": 23579
+        }
+      ],
+      "words": 55
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 113,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 24,
+        "为什么这样写": 123,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.3,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 135,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 111,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 116,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 122,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 125,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 0,
+        "为什么这样写": 134,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 125,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 107,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 116,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.91
+      }
+    }
+  ],
+  "form": {
+    "h1": "11. Chapter Ten",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 36,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4677,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

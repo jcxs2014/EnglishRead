@@ -33,7 +33,7 @@ modified: "2026-10-24"
 
 **为什么这样写**：第一个开口的人不是主角，而是最沉不住气的那个——政客靠踱步消耗焦虑，礼帽与三件套把他钉在「体面」上，即使困在死后的空房间里，姿态仍然一丝不乱；「vaguely recognize」暗示他曾是个有头脸的人物，也为后文「他签下文件时同样毫不犹豫」留了反差，而「a monster like me」是叙述者给自己的定位，与他往后做的工作互为因果。
 
-**读者视角提示**：留意房间里是四个人，但政客第一句话只说「我们」；等他稍后改口成「the four of us」，你会知道那个一直没报姓名的女人也在数里。
+**读者视角提示**：留意房间里是四个人，但政客先说的是「the three of us」；等他改口成「the four of us」，你会知道那个一直没报姓名的女人也在数里。
 
 > **原句 3:** "His is a fair question. There is no clock in this room, but it feels like we’ve been here for hours. Days, maybe? Church sermons from my childhood painted elaborate pictures of Heaven and Hell, but none addressed how formless time feels after dying."
 
@@ -113,7 +113,7 @@ modified: "2026-10-24"
 
 **为什么这样写**：全章最后一段把灰袍人的两句回答与四人的签字并置——「重要的工作」「高尚的工作」用无法验证的褒义词替代具体说明，而这恰恰是让三个人立刻签字的原因；全章最后一次停顿落在叙述者身上，「a moment’s hesitation」把四个死者区分成三加一：别人是「immediately」，他只是「a moment's」。而结尾那句把死者称作「朋友」、把机构称作「Agency」、把入职说成「欢迎」，三个词合起来把整部小说将要展开的世界定名为一个官僚机构，而它对亡者的态度是友善的。
 
-**读者视角提示**：序章在这里收束，但「Agency」这个名字被第一次说出；读到后面 Executive Suite、Inhuman Resources 这些地方时，你会明白这个词有多具体。叙述者签的是「因为被说服」，不是「因为没得选」——这与他后来那句「我几乎为自己做的事感到庆幸」形成长长的回声。
+**读者视角提示**：序章在这里收束，但「Agency」这个名字被第一次说出；读到后面 Executive Suite、Inhuman Resources 这些地方时，你会明白这个词有多具体。叙述者签的是「因为被说服」，不是「因为没得选」——这与他后来（ch24）那句「我几乎为自己这份差事感到高兴」形成长长的回声。
 
 ## 本章词汇
 

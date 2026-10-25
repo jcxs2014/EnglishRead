@@ -1,0 +1,498 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch17 chapter sixteen.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch17_chapter_sixteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“I guess I can show some of it to you.”",
+          "ok": true,
+          "pos": 666
+        },
+        {
+          "text": "I rummage through one of the boxes of party supplies that arrived today and pull out a bedazzled pink cowboy hat",
+          "ok": true,
+          "pos": 704
+        },
+        {
+          "text": "It cost a whopping $14.99 online and gets the job done",
+          "ok": true,
+          "pos": 882
+        },
+        {
+          "text": "“How did they manage to write out Sister of the Bride with plastic rhinestones?”",
+          "ok": true,
+          "pos": 1118
+        },
+        {
+          "text": "“One of the world’s great mysteries,” I say",
+          "ok": true,
+          "pos": 1197
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "When we were kids, Jess used to talk about leaving Tennessee and going to culinary school in New York City. But because ",
+          "ok": true,
+          "pos": 1835
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The one I’m eyeing most seriously is a six-week intensive on French cooking techniques, but before I sign her up for it ",
+          "ok": true,
+          "pos": 2595
+        },
+        {
+          "text": "If there’s one thing my sister is bad at, it’s taking time for herself. If I only get to be here for a little while long",
+          "ok": true,
+          "pos": 2788
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“The rest of the plans for Saturday night are set,” I say. “Dinner reservation is at Dejouner’s at six-thirty. That’ll g",
+          "ok": true,
+          "pos": 2957
+        },
+        {
+          "text": "The six-week cooking intensive will just about clean out my savings account, but the other bridesmaids agreed to cover t",
+          "ok": true,
+          "pos": 3140
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Not to change the subject too abruptly, but I can’t help but notice that the food your friend brought us reminds me of ",
+          "ok": true,
+          "pos": 3404
+        },
+        {
+          "text": "She puts special winking emphasis on your friend",
+          "ok": true,
+          "pos": 3581
+        },
+        {
+          "text": "“It’s giving me happy déjà vu.” Jess gives me a knowing look. “You’ll have to thank your friend for being so insightful.",
+          "ok": true,
+          "pos": 4472
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“I did,” I say. “And the food was delicious. Seriously, thank you.” I hesitate, then add, “It reminded us of happy momen",
+          "ok": true,
+          "pos": 5380
+        },
+        {
+          "text": "“I’m pleased you liked it,” he says, his voice soft. “You both deserved better childhoods than you got. I am glad that s",
+          "ok": true,
+          "pos": 5738
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“My sister probably thinks we’re dating now.”",
+          "ok": true,
+          "pos": 6429
+        },
+        {
+          "text": "“No friend spends that much money as a favor unless they’re more than friends.”",
+          "ok": true,
+          "pos": 6750
+        },
+        {
+          "text": "“How is what possible, Daniel?” I ask. He swallows, eyes dropping to our intertwined fingers. “You’re holding my hand.”",
+          "ok": true,
+          "pos": 7908
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“You have done nothing wrong. Devil take me—but touching you like this",
+          "ok": true,
+          "pos": 8725
+        },
+        {
+          "text": "it’s all I dream about.” He leans forward, elbows resting on his knees. “No one has touched me since I became a Reaper. ",
+          "ok": true,
+          "pos": 8795
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Not willingly, no,” he says. “Most humans we engage with are on the brink of death, in agony, and terrified. They don’t",
+          "ok": true,
+          "pos": 9490
+        },
+        {
+          "text": "They are instinctively repulsed by us even when we present as humans",
+          "ok": true,
+          "pos": 10036
+        },
+        {
+          "text": "Humans cannot, will not, touch us. Because we are death, Lucy",
+          "ok": true,
+          "pos": 10432
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“It is,” he says. “At first, we still remember what it’s like to be touched. The absence of it is like a kind of torment",
+          "ok": true,
+          "pos": 10686
+        },
+        {
+          "text": "“I’m sorry.” It’s a totally inadequate response. It doesn’t begin to convey the sorrow I feel for him. But it’s all I ha",
+          "ok": true,
+          "pos": 10980
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“But it doesn’t matter to me why you can touch me,” he says. “All I know is that you can. Your touch has been all I’ve t",
+          "ok": true,
+          "pos": 12356
+        },
+        {
+          "text": "Now, every moment spent without your hands on me feels like it did at the beginning. Like I’m dying slowly, again and ag",
+          "ok": true,
+          "pos": 12580
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "His breathing goes ragged when I press my lips to his",
+          "ok": true,
+          "pos": 13540
+        },
+        {
+          "text": "And then, without warning, he pulls away with a desperate, broken sound. He grips his hair with both hands, tugging on i",
+          "ok": true,
+          "pos": 15059
+        },
+        {
+          "text": "“Lucy,” he says, anguished—a second before he vanishes from sight",
+          "ok": true,
+          "pos": 15445
+        },
+        {
+          "text": "What in the actual fuck just happened",
+          "ok": true,
+          "pos": 15622
+        }
+      ],
+      "words": 59
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 19,
+        "为什么这样写": 109,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.23,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 22,
+        "为什么这样写": 66,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.23,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 18,
+        "为什么这样写": 76,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.21,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 21,
+        "为什么这样写": 76,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.23,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 108,
+        "关键词": 14,
+        "为什么这样写": 75,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.23,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 26,
+        "为什么这样写": 79,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.26,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 18,
+        "为什么这样写": 83,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.23,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 12,
+        "为什么这样写": 80,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.21,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 15,
+        "为什么这样写": 79,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.19,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 24,
+        "为什么这样写": 103,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.25,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 93,
+        "关键词": 23,
+        "为什么这样写": 69,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.23,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 19,
+        "为什么这样写": 106,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.2,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.81
+      }
+    }
+  ],
+  "form": {
+    "h1": "17. Chapter Sixteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 31,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2960,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

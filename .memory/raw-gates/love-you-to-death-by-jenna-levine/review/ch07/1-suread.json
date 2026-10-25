@@ -1,0 +1,54 @@
+{
+  "chapter": "ch07",
+  "facts": [
+    {
+      "anchor": "Lucy McKenzie wishes to be brought back to life",
+      "start": 2787,
+      "end": 2834,
+      "fact": "叙述者（一名 Reaper）召集 CEO、CPO、Head of Inhuman Resources 三位高管开会，请求把 Lucy McKenzie 的灵魂带回她的身体，并当面复述这项请求。"
+    },
+    {
+      "anchor": "Her sister is getting married in six weeks.",
+      "start": 2882,
+      "end": 2925,
+      "fact": "关系事实：Lucy McKenzie 有一个姐姐，姐姐六周后结婚；Lucy 请求复活是为了能出席那场婚礼。"
+    },
+    {
+      "anchor": "“Bargains with human souls are forbidden,” he reads.",
+      "start": 3685,
+      "end": 3737,
+      "fact": "Head of IR 当场展开一卷《The Reaper Handbook》羊皮卷，念出禁止与人类灵魂做交易的条款，拒绝这项请求；CPO 也说叙述者的职责只是按 Death Card 把灵魂带走。"
+    },
+    {
+      "anchor": "She stops near the back, frowning. “Not since 1623.”",
+      "start": 8011,
+      "end": 8063,
+      "fact": "CEO 改口支持叙述者的提议，把它重新定性为一次 human reconnaissance；CPO 翻查皮质活页夹后回答 Agency 上一次做人类侦查是在 1623 年。"
+    },
+    {
+      "anchor": "a temporary reprieve from Death and an eight-week extension",
+      "start": 11157,
+      "end": 11216,
+      "fact": "CEO 把一张羊皮纸推到叙述者面前，契约写明 Lucy McKenzie 获 Death 的临时缓刑与八周寿命延长，作为交换由 Agency 雇员观察她、收集关于活人的信息。"
+    },
+    {
+      "anchor": "her soul will be given an Upgrade and permitted to reside",
+      "start": 11695,
+      "end": 11752,
+      "fact": "契约规定八周结束、延长期满时 Lucy McKenzie 的灵魂须按原本的死法交回 Agency；作为交换，她死后灵魂获得 Upgrade，并可永远居留在 Mid-Level Two。"
+    },
+    {
+      "anchor": "It’s his fifth consecutive year of falling short",
+      "start": 9375,
+      "end": 9423,
+      "fact": "Head of IR 当着叙述者的面指出他已连续第五年未完成配额，本周正在准备他的年度绩效评估；CEO 随即把充当观察员的差事派给叙述者本人。"
+    },
+    {
+      "anchor": "the press of Lucy McKenzie’s small hand to my arm",
+      "start": 6824,
+      "end": 6873,
+      "fact": "叙述者说明 Reaper 身上有活物本能排斥、无法突破的屏障，他入职 Agency 以来从未被人碰过；Lucy McKenzie 却把手放到了他的手臂上，他称这是比遭雷击或刀刺心脏更令他震动的事。"
+    }
+  ],
+  "turning_point": "求情被反手变成处置：CEO 表面批准了复活请求（逐字：Is hereby granted a temporary reprieve from Death），实则把「观察 Lucy」这项差事派回给正在求情的叙述者本人（逐字：Flit in and out of her life as unobtrusively as you can；periodically forms），且明令八周期满她仍须按原死法交回灵魂（逐字：At the end of this eight-week extension）。不可逆之处在于：他从此被绑定为 Lucy 八周的监视者，而 Lucy 的死期只是被延后而非取消。"
+}

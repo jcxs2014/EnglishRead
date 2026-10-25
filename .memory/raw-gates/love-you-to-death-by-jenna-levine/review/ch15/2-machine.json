@@ -1,0 +1,496 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch15 the prime minister.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch15_chapter_fourteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "My thoughts keep drifting to Lucy as I sit through this interminable meeting",
+          "ok": true,
+          "pos": 24
+        },
+        {
+          "text": "I ought to pay attention to what the Executives are saying. I’m in poor enough standing as it is. But I’ve been so worri",
+          "ok": true,
+          "pos": 102
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She was much drunker last night than she wanted me to think. I saw it in her glassy, unfocused eyes. She sent waves of i",
+          "ok": true,
+          "pos": 287
+        },
+        {
+          "text": "Why do I care this much? I can’t remember the last time I was this confused. And furious with myself",
+          "ok": true,
+          "pos": 767
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Oh,” the Chief People Officer says, sounding surprised. “Ms. McKenzie doesn’t want you to simply appear in her home una",
+          "ok": true,
+          "pos": 993
+        },
+        {
+          "text": "I slide the memo I wrote last night across the table to the Head of IR. I was supposed to send it via interoffice mail, ",
+          "ok": true,
+          "pos": 1141
+        },
+        {
+          "text": "“Here’s my latest.”",
+          "ok": true,
+          "pos": 1297
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "How does Lucy McKenzie find the Agency’s customer service? Please respond in no more than three sentences",
+          "ok": true,
+          "pos": 1349
+        },
+        {
+          "text": "Due: Six hours after receipt",
+          "ok": true,
+          "pos": 1455
+        },
+        {
+          "text": "Ms. McKenzie had a lot of questions for me when I brought her to the Agency",
+          "ok": true,
+          "pos": 1735
+        },
+        {
+          "text": "She did not like that I wouldn’t answer most of them",
+          "ok": true,
+          "pos": 1814
+        },
+        {
+          "text": "She did not like that I would not allow her to explore more of the Agency than we allowed her to see",
+          "ok": true,
+          "pos": 1869
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I stare at the half-dead ficus in the center of the table as the others discuss my memos. I don’t know why housekeeping ",
+          "ok": true,
+          "pos": 2119
+        },
+        {
+          "text": "There’s a metaphor in there somewhere, about something half-dead trying to survive in a place suspended between life and",
+          "ok": true,
+          "pos": 2472
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The CEO clears his throat. “Ms. McKenzie’s feelings on the Agency’s customer service are",
+          "ok": true,
+          "pos": 2638
+        },
+        {
+          "text": "less than sparkling.”",
+          "ok": true,
+          "pos": 2724
+        },
+        {
+          "text": "“Can a copy of this be sent to my team right away?” the CPO asks",
+          "ok": true,
+          "pos": 2745
+        },
+        {
+          "text": "“And to mine,” the Head of Inhuman Resources chimes in. “This is great stuff.”",
+          "ok": true,
+          "pos": 2809
+        },
+        {
+          "text": "The ficus, bless it, says nothing",
+          "ok": true,
+          "pos": 2884
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I’m about to ask to be excused when a towering figure appears in the doorway. All at once, I can’t focus on anything els",
+          "ok": true,
+          "pos": 2919
+        },
+        {
+          "text": "Lucifer always does know how to command a room’s full attention",
+          "ok": true,
+          "pos": 3040
+        },
+        {
+          "text": "“Lucifer.” The CEO stands, pasting a smile on his face. “So good of you to join us.”",
+          "ok": true,
+          "pos": 3104
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Nice to see you again, Daniel Ivanov.”",
+          "ok": true,
+          "pos": 3999
+        },
+        {
+          "text": "Lucifer might only be Hell’s Prime Minister and not the Devil himself, but it’s hard to remember that with the proprieta",
+          "ok": true,
+          "pos": 4037
+        },
+        {
+          "text": "“Sir,” I manage, inclining my head in deference",
+          "ok": true,
+          "pos": 4235
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "His presence feels like a threat: Do a good job on this assignment or a demotion to Lucifer’s front office is all mine",
+          "ok": true,
+          "pos": 4351
+        },
+        {
+          "text": "An eternity of guiding human souls from life to death is terrible enough; an eternity of managing the Prime Minister of ",
+          "ok": true,
+          "pos": 4470
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Hello, I think back at her",
+          "ok": true,
+          "pos": 5570
+        },
+        {
+          "text": "I should not be encouraging this",
+          "ok": true,
+          "pos": 5598
+        },
+        {
+          "text": "Dismay that she’s reaching toward me anyway—mixed with a flutter of something that feels like hope—twists in my gut",
+          "ok": true,
+          "pos": 5794
+        },
+        {
+          "text": "Or make up an Agency rule that precludes us from spending more time together than is necessary to complete my forms",
+          "ok": true,
+          "pos": 6034
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Good night, Lucy, I think in her direction anyway",
+          "ok": true,
+          "pos": 6151
+        },
+        {
+          "text": "I hope you sleep well",
+          "ok": true,
+          "pos": 6202
+        },
+        {
+          "text": "I must be all out of practice on doing the right thing",
+          "ok": true,
+          "pos": 6225
+        },
+        {
+          "text": "Lucy’s presence fades from my mind like mist on the wind. I dig my fingernails into the palms of my hands to distract my",
+          "ok": true,
+          "pos": 6281
+        }
+      ],
+      "words": 60
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 24,
+        "为什么这样写": 89,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.26,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 30,
+        "为什么这样写": 112,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.36,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 23,
+        "为什么这样写": 110,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.27,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 21,
+        "为什么这样写": 101,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.19,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 23,
+        "为什么这样写": 106,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.25,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 20,
+        "为什么这样写": 90,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.25,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 21,
+        "为什么这样写": 99,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.23,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 14,
+        "为什么这样写": 95,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.19,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 21,
+        "为什么这样写": 87,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.23,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 23,
+        "为什么这样写": 120,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.24,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 19,
+        "为什么这样写": 101,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.24,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "15. Chapter Fourteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 35,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1187,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

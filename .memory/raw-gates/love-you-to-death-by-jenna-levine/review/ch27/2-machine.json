@@ -1,0 +1,402 @@
+{
+  "chapter": 27,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch27 the pinball machine.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch27_chapter_twenty_six.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "His eyes are lifeless. He looks like he’s seen a ghost",
+          "ok": true,
+          "pos": 166
+        },
+        {
+          "text": "He flops onto my couch and closes his eyes. Wilfred appears out of nowhere and curls up beside him. Daniel absentmindedl",
+          "ok": true,
+          "pos": 307
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“They changed their minds.” He murmurs the words, as if saying them quietly will dull the blow",
+          "ok": true,
+          "pos": 820
+        },
+        {
+          "text": "“About you. They’re rescinding their offer.” He swallows. “You have to return to them sooner than you’d hoped.”",
+          "ok": true,
+          "pos": 946
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "This is the other shoe I’ve been expecting to drop all along. My death, like my life, will be just another example in a ",
+          "ok": true,
+          "pos": 1064
+        },
+        {
+          "text": "His throat works. “Four days.”",
+          "ok": true,
+          "pos": 1298
+        },
+        {
+          "text": "What? “Before Jess’s wedding?”",
+          "ok": true,
+          "pos": 1327
+        },
+        {
+          "text": "“You did,” he says dully. “They changed the terms.”",
+          "ok": true,
+          "pos": 1448
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Daniel pulls a sheet of folded parchment from his coat and hands it to me. It’s what I signed with the Agency, only it i",
+          "ok": true,
+          "pos": 1496
+        },
+        {
+          "text": "On instinct, I try to tear up the contract. Nothing happens",
+          "ok": true,
+          "pos": 1737
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Humans cannot destroy the documents that govern our work,” he says softly. “It was a fail-safe implemented long ago.”",
+          "ok": true,
+          "pos": 1862
+        },
+        {
+          "text": "“Cats can’t do it, either. Even if they could, it wouldn’t help. This is just a copy.”",
+          "ok": true,
+          "pos": 2072
+        },
+        {
+          "text": "His expression shutters. “But I think they also may be doing it to punish me.”",
+          "ok": true,
+          "pos": 2728
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“The Lower Levels, as we call them, have a secretarial pool. After I collect your soul, I will be relieved of my Reaper ",
+          "ok": true,
+          "pos": 3696
+        },
+        {
+          "text": "He closes his eyes, shuddering. “By all accounts, Lucifer is hell to work for.”",
+          "ok": true,
+          "pos": 3851
+        },
+        {
+          "text": "He probably intended that to be a pun to lighten the mood, but it doesn’t work",
+          "ok": true,
+          "pos": 3929
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“No,” he says, shaking his head. “They are death, Lucy. They can do whatever they like.”",
+          "ok": true,
+          "pos": 4237
+        },
+        {
+          "text": "“You have nothing to apologize for.” I wrap my arms around him and bury my face in his chest. His wintry scent fills my ",
+          "ok": true,
+          "pos": 4556
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He reaches into a pocket and pulls something out of it. My Death Card",
+          "ok": true,
+          "pos": 8360
+        },
+        {
+          "text": "“If we destroy the original,” he says, “you will be free.”",
+          "ok": true,
+          "pos": 9976
+        },
+        {
+          "text": "“No one has ever successfully broken into the Agency Archives before.”",
+          "ok": true,
+          "pos": 10456
+        },
+        {
+          "text": "“There’s a team of specters guarding the entrance. If a Reaper is spotted trying to sneak in, it’s immediate Retirement.",
+          "ok": true,
+          "pos": 10613
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "In no more than five sentences, please describe whether Lucy agrees that pinball machines are a good way to bolster work",
+          "ok": true,
+          "pos": 14701
+        },
+        {
+          "text": "“I mean,” I say, “if there’s anything I’m good at, it’s being human.”",
+          "ok": true,
+          "pos": 16252
+        },
+        {
+          "text": "I lean forward and cup his face in my hands. “Then I’m doing it.”",
+          "ok": true,
+          "pos": 18372
+        }
+      ],
+      "words": 51
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 19,
+        "为什么这样写": 120,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.2,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 18,
+        "为什么这样写": 94,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.21,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 19,
+        "为什么这样写": 123,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.24,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 21,
+        "为什么这样写": 99,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.23,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 22,
+        "为什么这样写": 107,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.22,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 19,
+        "为什么这样写": 91,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.2,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 19,
+        "为什么这样写": 108,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.25,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 19,
+        "为什么这样写": 120,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.19,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 17,
+        "为什么这样写": 114,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.2,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "27. Chapter Twenty-Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 25,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3523,
+    "block_target": [
+      6,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

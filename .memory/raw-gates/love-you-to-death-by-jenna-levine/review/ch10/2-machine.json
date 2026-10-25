@@ -1,0 +1,264 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch10 the sealed parchment.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch10_chapter_nine.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "There is a single folded sheet of parchment bearing the Executive’s bright red seal waiting for me in my mail slot when ",
+          "ok": true,
+          "pos": 20
+        },
+        {
+          "text": "Once inside my room, I close the door behind me and slump against it with the parchment clutched tight in my fist",
+          "ok": true,
+          "pos": 163
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I don’t know what I expected when I walked into Lucy McKenzie’s apartment. What I found, though, was a home that is as v",
+          "ok": true,
+          "pos": 278
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The contrast between her home and the room I now stand in couldn’t be more drastic. The Agency—where I have dwelled for ",
+          "ok": true,
+          "pos": 915
+        },
+        {
+          "text": "And it all pales in comparison to what it was like to hold her",
+          "ok": true,
+          "pos": 1174
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Fuck",
+          "ok": true,
+          "pos": 1238
+        },
+        {
+          "text": "Fuck",
+          "ok": true,
+          "pos": 1238
+        },
+        {
+          "text": "I stare down at myself, half expecting the imprint Lucy made on me to have left behind visible signs. Because I can stil",
+          "ok": true,
+          "pos": 1250
+        },
+        {
+          "text": "This is dangerous. Now that I remember the pleasure of holding someone, going back to the humdrum tragedy of my regular ",
+          "ok": true,
+          "pos": 2081
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I set the two new Death Cards to the side for more careful study later",
+          "ok": true,
+          "pos": 2684
+        },
+        {
+          "text": "Lucy McKenzie—Observation Notes #1",
+          "ok": true,
+          "pos": 2923
+        },
+        {
+          "text": "In no more than six sentences, please describe how Lucy McKenzie reacted to seeing her home again after being brought ba",
+          "ok": true,
+          "pos": 2958
+        },
+        {
+          "text": "Due: Six hours after receipt",
+          "ok": true,
+          "pos": 3090
+        },
+        {
+          "text": "THE MANAGEMENT",
+          "ok": true,
+          "pos": 3188
+        },
+        {
+          "text": "And, perhaps most importantly of all: What have I gotten myself into",
+          "ok": true,
+          "pos": 5051
+        }
+      ],
+      "words": 66
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 27,
+        "为什么这样写": 129,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.18,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 40,
+        "为什么这样写": 132,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.22,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 39,
+        "为什么这样写": 115,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.23,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 32,
+        "为什么这样写": 109,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.2,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 48,
+        "为什么这样写": 140,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.22,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.67
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Chapter Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 926,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

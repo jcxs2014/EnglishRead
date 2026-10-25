@@ -1,0 +1,242 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch04 the accident scene.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch04_chapter_three.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "There’s already a crowd at the accident site when I arrive",
+          "ok": true,
+          "pos": 18
+        },
+        {
+          "text": "I groan inwardly. People never can resist seeing a car accident up close. Always annoying",
+          "ok": true,
+          "pos": 77
+        },
+        {
+          "text": "I have seen every kind of death during my too-long existence. I was on the front lines of the Spanish influenza, a time ",
+          "ok": true,
+          "pos": 239
+        }
+      ],
+      "words": 95
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "We are trained to handle scenes like the one before me dispassionately. Most of the time I manage it just fine. For the ",
+          "ok": true,
+          "pos": 599
+        },
+        {
+          "text": "Lucy McKenzie is—was—even younger than I had been when I died. Her death—unlike mine—is a tragedy",
+          "ok": true,
+          "pos": 898
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "If it weren’t for this bus, she would have lived to a very old age. Or so my supervisor told me when they assigned me he",
+          "ok": true,
+          "pos": 1098
+        },
+        {
+          "text": "But I can’t think about that now",
+          "ok": true,
+          "pos": 1225
+        },
+        {
+          "text": "I have work to do",
+          "ok": true,
+          "pos": 1258
+        },
+        {
+          "text": "Only I’m finding it difficult to focus",
+          "ok": true,
+          "pos": 1277
+        },
+        {
+          "text": "But Ms. McKenzie’s soul is so brilliant I could have found her anywhere. Not just a bright flash against the gloom, but ",
+          "ok": true,
+          "pos": 1409
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I am a professional agent of death, not a gawking bystander like the idiots all around us",
+          "ok": true,
+          "pos": 1722
+        },
+        {
+          "text": "Everything that made her her clings tightly to her soul, resisting my insistent tugs with everything she once was",
+          "ok": true,
+          "pos": 2297
+        },
+        {
+          "text": "I see a sister she adores. A sketchbook she used to carry everywhere but abandoned years ago. Happy family vacations to ",
+          "ok": true,
+          "pos": 2503
+        },
+        {
+          "text": "This time, however—despite my best efforts—I can’t look away",
+          "ok": true,
+          "pos": 2817
+        },
+        {
+          "text": "I close my eyes when I urge her, gently, to let go",
+          "ok": true,
+          "pos": 2878
+        }
+      ],
+      "words": 93
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 138,
+        "关键词": 51,
+        "为什么这样写": 155,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.22,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 108,
+        "关键词": 31,
+        "为什么这样写": 122,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.24,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 111,
+        "关键词": 39,
+        "为什么这样写": 135,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.23,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 161,
+        "关键词": 55,
+        "为什么这样写": 161,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.21,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.65
+      }
+    }
+  ],
+  "form": {
+    "h1": "04. Chapter Three",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 4,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 546,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

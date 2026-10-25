@@ -1,0 +1,54 @@
+{
+  "chapter": "ch01",
+  "facts": [
+    {
+      "anchor": "the explosion that killed me",
+      "start": 79,
+      "end": 107,
+      "fact": "叙述者是被一次爆炸炸死的；爆炸之后他发现自己到了某个地方，并说那不是他预想中会落脚的地方。"
+    },
+    {
+      "anchor": "this cold, featureless, all-white room",
+      "start": 165,
+      "end": 203,
+      "fact": "叙述者所在的地方是一个冰冷、毫无特征、通体全白的房间；他表示自己不感激这里，但这里显然不是永恒的地狱。"
+    },
+    {
+      "anchor": "a murderer whose name I know from the papers",
+      "start": 1032,
+      "end": 1076,
+      "fact": "第三个人是杀人犯，叙述者从报纸上知道他的名字；他缺了半口牙，说话带明显的口齿不清，他与叙述者并肩坐在那张占据房间大部分的低木桌旁。"
+    },
+    {
+      "anchor": "woman who refused to introduce herself earlier",
+      "start": 1728,
+      "end": 1774,
+      "fact": "第四个人是一名蓬头垢面的女人，先前拒绝自我介绍；她盘腿坐在地板上，刻意清了清嗓子。"
+    },
+    {
+      "anchor": "Why keep the four of us waiting?",
+      "start": 1851,
+      "end": 1883,
+      "fact": "政客先把问题说成「为什么把我们三个留在这里」，随即改口为「为什么把我们四个人留在这里」，并用一种抱歉的语气向那位女士补了一句「女士，请别介意」。"
+    },
+    {
+      "anchor": "by keeping us locked in here until we go mad",
+      "start": 2453,
+      "end": 2497,
+      "fact": "叙述者说出自己的理论：如果四个人都注定下地狱，那么把他们锁在这里直到发疯就是最好的开场。"
+    },
+    {
+      "anchor": "we would like to offer you employment with us",
+      "start": 3834,
+      "end": 3879,
+      "fact": "一个肩披肩长黑发、身穿长灰袍的男人凭空出现并坐到叙述者对面，说是因为人手短缺，所以不把四人送去原本注定的那个地狱层级，改为给他们提供一份工作，报酬是永恒的舒适房间与定期餐食，并可免受地狱的一切折磨。"
+    },
+    {
+      "anchor": "immediately sign the paperwork they’re presented with",
+      "start": 4604,
+      "end": 4657,
+      "fact": "灰袍男人讲完工作内容后，女人、政客和杀人犯立即在交给他们的文件上签字；叙述者只犹豫了片刻，也签了字。"
+    }
+  ],
+  "turning_point": "不可逆之处在于四人从「被关着等待发疯的死者」变成了 Agency 的雇员：灰袍男人讲完工作内容后，女人、政客和杀人犯立即签字，叙述者犹豫片刻后也签（依据 facts 第 8 条的 anchor）；灰袍男人随即说 “Welcome, Friends,” the man in the gray robe says, “to the Agency.”"
+}

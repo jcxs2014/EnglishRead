@@ -1,0 +1,321 @@
+{
+  "chapter": 18,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch18 the warning.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch18_chapter_seventeen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "When I open my eyes, I am sitting on a plush leather couch in the waiting room of Inhuman Resources, my body full of adr",
+          "ok": true,
+          "pos": 25
+        },
+        {
+          "text": "“Fuck!” I shout, punching one of the sofa’s tasteful plush throw pillows",
+          "ok": true,
+          "pos": 427
+        },
+        {
+          "text": "I shoot it the middle finger when its back is turned",
+          "ok": true,
+          "pos": 599
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The Agency recalled me while on assignment",
+          "ok": true,
+          "pos": 750
+        },
+        {
+          "text": "If I’d been in my right mind I’d have dampened my connection with the Agency so something like this couldn’t happen whil",
+          "ok": true,
+          "pos": 968
+        },
+        {
+          "text": "But I hadn’t been in my right mind. Lucy was all I’d had on my mind",
+          "ok": true,
+          "pos": 1149
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She notices my stricken face and attempts a half-hearted smile. “What are you in for?”",
+          "ok": true,
+          "pos": 1584
+        },
+        {
+          "text": "There are several possible reasons, but like hell am I going to share any of them with her. “Um,” I say noncommittally i",
+          "ok": true,
+          "pos": 1669
+        },
+        {
+          "text": "“Yeah,” she replies, sighing. “Same.”",
+          "ok": true,
+          "pos": 1795
+        },
+        {
+          "text": "I somehow doubt that’s true. “I’m sorry,” I say. To my surprise, I find I mean it",
+          "ok": true,
+          "pos": 1829
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "A throat clears pointedly beside me. “Hello, Friend.”",
+          "ok": true,
+          "pos": 1908
+        },
+        {
+          "text": "Reapers are expressly forbidden from forming attachments with their assigned souls. They must be dispassionate about the",
+          "ok": true,
+          "pos": 3414
+        },
+        {
+          "text": "As far as I know, though, this rule never has been broken. Humans recoil from us. We cannot experience physical connecti",
+          "ok": true,
+          "pos": 3637
+        },
+        {
+          "text": "It was for me as well—until now",
+          "ok": true,
+          "pos": 3812
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "How does Lucy McKenzie cope with uncertainty? Please respond in no more than six sentences",
+          "ok": true,
+          "pos": 4401
+        },
+        {
+          "text": "Lucy McKenzie has had to cope with an unfair amount of uncertainty in her too-short life. Not all of her coping mechanis",
+          "ok": true,
+          "pos": 4608
+        },
+        {
+          "text": "Lucy McKenzie has cripplingly low self-esteem for someone as kind, clever, and funny as she is",
+          "ok": true,
+          "pos": 5015
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Consider this a warning, Friend. You will maintain professional boundaries with your assigned souls at all times.”",
+          "ok": true,
+          "pos": 5649
+        },
+        {
+          "text": "But holding Lucy, kissing her, awoke something in me that had been dormant so long I’d forgotten what longing was",
+          "ok": true,
+          "pos": 5878
+        },
+        {
+          "text": "“I will,” I lie",
+          "ok": true,
+          "pos": 5992
+        },
+        {
+          "text": "I already care too much about her",
+          "ok": true,
+          "pos": 6207
+        },
+        {
+          "text": "I should be concerned, really, about how easy lying to the Agency has become",
+          "ok": true,
+          "pos": 6548
+        }
+      ],
+      "words": 66
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 16,
+        "为什么这样写": 153,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.22,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 20,
+        "为什么这样写": 124,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.2,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 18,
+        "为什么这样写": 129,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.26,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 15,
+        "为什么这样写": 126,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.16,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 21,
+        "为什么这样写": 132,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.23,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 100,
+        "关键词": 20,
+        "为什么这样写": 140,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.23,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.55
+      }
+    }
+  ],
+  "form": {
+    "h1": "18. Chapter Seventeen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 22,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1198,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

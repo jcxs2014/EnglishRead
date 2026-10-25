@@ -1,0 +1,343 @@
+{
+  "chapter": 12,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch12 the search history.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch12_chapter_eleven.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "what to do if you feel attraction to someone but shouldn’t",
+          "ok": true,
+          "pos": 40
+        },
+        {
+          "text": "symptoms of sensory deprivation",
+          "ok": true,
+          "pos": 99
+        },
+        {
+          "text": "why can I touch someone if",
+          "ok": true,
+          "pos": 132
+        },
+        {
+          "text": "is suit kink a real thing",
+          "ok": true,
+          "pos": 160
+        },
+        {
+          "text": "I shove away from the computer in this university library’s study room, disgusted with myself. And with internet search ",
+          "ok": true,
+          "pos": 186
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It’s been nearly three hours since I left Lucy’s apartment but I can still feel her soft skin beneath my fingertips and ",
+          "ok": true,
+          "pos": 388
+        },
+        {
+          "text": "The Agency training I received to make me the cool, detached creature I am supposed to be is malfunctioning at every tur",
+          "ok": true,
+          "pos": 556
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Hearing the word died elicits a Pavlovian response in me. My eyes dart to the two boys in the room even though I know th",
+          "ok": true,
+          "pos": 1614
+        },
+        {
+          "text": "I’m offended—on my own behalf, and on the behalf of everyone in the nineteenth century who never got the chance to pursu",
+          "ok": true,
+          "pos": 2102
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I decide to frighten them into leaving. I rarely use my abilities to trifle with humans because it feels unfair to them",
+          "ok": true,
+          "pos": 2372
+        },
+        {
+          "text": "My body is still partly translucent. I find attracting attention to myself in this semi-visible state to be the most eff",
+          "ok": true,
+          "pos": 3028
+        },
+        {
+          "text": "The two young men swing their heads in my direction—a moment before they yell in fear and bolt from the room",
+          "ok": true,
+          "pos": 3169
+        },
+        {
+          "text": "Delicious",
+          "ok": true,
+          "pos": 3279
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "In no more than five sentences, please describe how Lucy McKenzie reacts to surprises",
+          "ok": true,
+          "pos": 3496
+        },
+        {
+          "text": "Due: Six hours after receipt",
+          "ok": true,
+          "pos": 3583
+        },
+        {
+          "text": "Upon completion, please return to the Agency via interoffice mail",
+          "ok": true,
+          "pos": 3613
+        },
+        {
+          "text": "Under normal circumstances, I could complete this inside a handful of minutes. Now, though, my mind is just butterflies ",
+          "ok": true,
+          "pos": 3696
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Lucy does not like surprises. When I surprised her tonight by appearing in her apartment without warning she yelled at m",
+          "ok": true,
+          "pos": 3942
+        },
+        {
+          "text": "When surprised, Lucy’s eyebrows rise so high they nearly meet her hairline",
+          "ok": true,
+          "pos": 4382
+        },
+        {
+          "text": "She clutches at her own arm when she’s surprised. She will clutch at my arm instead if I am near her. I should not like ",
+          "ok": true,
+          "pos": 4459
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The sound of paper crinkling wrests me from my thoughts. I look down to see my free hand fisting the form’s return envel",
+          "ok": true,
+          "pos": 4789
+        },
+        {
+          "text": "But I’m out of time. If I don’t get this into the Agency’s interoffice mail system in three hours, there will be Hell to",
+          "ok": true,
+          "pos": 5177
+        }
+      ],
+      "words": 52
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 28,
+        "为什么这样写": 110,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.27,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 107,
+        "关键词": 20,
+        "为什么这样写": 110,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.25,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 101,
+        "关键词": 20,
+        "为什么这样写": 100,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.22,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 107,
+        "关键词": 14,
+        "为什么这样写": 96,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.21,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 16,
+        "为什么这样写": 104,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.18,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 18,
+        "为什么这样写": 88,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.24,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 18,
+        "为什么这样写": 99,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.2,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. Chapter Eleven",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 22,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 953,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

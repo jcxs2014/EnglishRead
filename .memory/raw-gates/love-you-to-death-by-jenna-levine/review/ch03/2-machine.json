@@ -1,0 +1,254 @@
+{
+  "chapter": 3,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch03 the notecard.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch03_chapter_two.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It’s as plain as the disappearing ink on this notecard. My name, the date, and my exact freaking age were there",
+          "ok": true,
+          "pos": 67
+        },
+        {
+          "text": "He must have put some kind of defensive poison or acid or something on the card so anyone who tries to read it gets thei",
+          "ok": true,
+          "pos": 179
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Right. Okay. I have to take this notecard to the police. They can take fingerprints, or do forensics, or something",
+          "ok": true,
+          "pos": 404
+        },
+        {
+          "text": "I glance around for something to pick it up with, since using my bare hands isn’t possible. There’s a stack of cloth nap",
+          "ok": true,
+          "pos": 648
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "When I open the napkin over my purse, the card falls about an inch—only to rise back up again as if pulled by an invisib",
+          "ok": true,
+          "pos": 905
+        },
+        {
+          "text": "My eyes must be playing tricks on me",
+          "ok": true,
+          "pos": 1050
+        },
+        {
+          "text": "Once again the card floats back up to the napkin like gravity is nothing but some cosmic joke to it",
+          "ok": true,
+          "pos": 1238
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The only person I can turn to right now is Jess. She’ll know from her nurse training whether I’m showing signs of someon",
+          "ok": true,
+          "pos": 1730
+        },
+        {
+          "text": "She starts responding again immediately. Like she’s been expecting this",
+          "ok": true,
+          "pos": 2982
+        },
+        {
+          "text": "But other than getting the reason for my freak-out wrong, my little sister has me pegged exactly right",
+          "ok": true,
+          "pos": 3388
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "For now, I try to wrangle my guilt into something smaller and more manageable. I need to keep it together at least until",
+          "ok": true,
+          "pos": 3840
+        },
+        {
+          "text": "I step into the intersection, my eyes glued to my phone as I wait for Jess’s next texts to appear",
+          "ok": true,
+          "pos": 4060
+        },
+        {
+          "text": "Listen, that bus comes out of nowhere",
+          "ok": true,
+          "pos": 4168
+        }
+      ],
+      "words": 57
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 17,
+        "为什么这样写": 100,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.23,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 17,
+        "为什么这样写": 116,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.2,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 23,
+        "为什么这样写": 121,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.2,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 16,
+        "为什么这样写": 113,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.18,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 18,
+        "为什么这样写": 96,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.19,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.82
+      }
+    }
+  ],
+  "form": {
+    "h1": "03. Chapter Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 803,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

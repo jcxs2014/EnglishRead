@@ -1,0 +1,190 @@
+{
+  "chapter": 33,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/ch33 the ceremony.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/love-you-to-death-by-jenna-levine/text/ch33_chapter_thirty_two.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It feels like a full-circle moment, holding this ceremony in the same featureless room where my destiny was changed all ",
+          "ok": true,
+          "pos": 26
+        },
+        {
+          "text": "In fact, these Reapers—who I am almost positive are the murderer, the politician, and the bedraggled woman whose former ",
+          "ok": true,
+          "pos": 371
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The last I heard, the politician was demoted decades ago for extreme insubordination—no big surprise there; fuck politic",
+          "ok": true,
+          "pos": 688
+        },
+        {
+          "text": "Though given that he’s here and isn’t wearing the permanent neck chain that marks Lucifer’s secretarial pool, perhaps th",
+          "ok": true,
+          "pos": 861
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The CEO clears his throat. “Apologies for taking liberties with the guest list,” he says to me, not sounding apologetic ",
+          "ok": true,
+          "pos": 999
+        },
+        {
+          "text": "At length, the CEO closes his book with a definitive thump. He must have found the incantation he was looking for",
+          "ok": true,
+          "pos": 2604
+        },
+        {
+          "text": "“All right,” he says, raising his hands. “Let us begin.”",
+          "ok": true,
+          "pos": 2818
+        },
+        {
+          "text": "My long-dormant heart thunders",
+          "ok": true,
+          "pos": 2871
+        },
+        {
+          "text": "I close my eyes and think only of Lucy",
+          "ok": true,
+          "pos": 2903
+        }
+      ],
+      "words": 70
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 22,
+        "为什么这样写": 127,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.26,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 17,
+        "为什么这样写": 109,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.14,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 19,
+        "为什么这样写": 119,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.16,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "33. Chapter Thirty-Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 3,
+    "block_median": 8,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 545,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": "块数 3 偏离本书常见区间 4–12（本书 34 章中位 8、最高 12（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 34 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
