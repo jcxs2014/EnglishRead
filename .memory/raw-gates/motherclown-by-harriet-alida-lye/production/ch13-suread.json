@@ -1,0 +1,55 @@
+{
+ "book": "motherclown-by-harriet-alida-lye",
+ "chapter": "ch13",
+ "text": "notes/books/novels/motherclown-by-harriet-alida-lye/text/ch13_chapter_twelve.txt",
+ "facts": [
+  {
+   "fact": "Sunday 她整天躺在床上，懒得去走廊上厕所，索性蹲在洗手池上小便，血在瓷面上打转——她把这当成「体内还有另一条命的提醒」。",
+   "anchor": "Red blood swirls in the porcelain",
+   "start": 341,
+   "end": 374
+  },
+  {
+   "fact": "她给 Nafkoté 发短信请假，措辞来回改了又改，最后用了被动语态：她没有做什么，是有什么事临到了她身上。",
+   "anchor": "The passive voice felt appropriate",
+   "start": 1097,
+   "end": 1131
+  },
+  {
+   "fact": "医院派来的翻译是个穿宽松黑衣的年长女性，抿嘴微笑的样子让 Elise 想起波提切利画里的天使。",
+   "anchor": "This woman is an angel in a Botticelli painting",
+   "start": 3727,
+   "end": 3774
+  },
+  {
+   "fact": "专科医生告诉她：她是四期子宫内膜异位症，子宫已受损，她自己此前完全不知道。",
+   "anchor": "stage four endometriosis",
+   "start": 4564,
+   "end": 4588
+  },
+  {
+   "fact": "医生列出伤痕累累的卵巢、心形子宫、双角子宫（bicornuate uterus）——早剥很可能是内膜异位造成的。",
+   "anchor": "bicornuate uterus",
+   "start": 5622,
+   "end": 5639
+  },
+  {
+   "fact": "结论是：她几乎肯定不孕，即便再怀上也极可能保不住胎。",
+   "anchor": "almost certainly infertile",
+   "start": 5658,
+   "end": 5684
+  },
+  {
+   "fact": "翻译说明：终止妊娠的法定窗口七年前（2002 年）从十周放宽到十二周，所以她「还剩一周」，还说「这算走运」。",
+   "anchor": "in 2002, from ten to twelve weeks",
+   "start": 6877,
+   "end": 6910
+  },
+  {
+   "fact": "手术后她坐在天花板下看着世界融化，「她不再是带电的，她不再是某人的母亲（unmothered）」。",
+   "anchor": "She is unmothered.",
+   "start": 10508,
+   "end": 10526
+  }
+ ]
+}

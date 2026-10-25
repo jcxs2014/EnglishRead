@@ -85,17 +85,7 @@ modified: "2026-10-25"
 
 **读者视角提示**：这句话之后她立刻问自己「我是不是真的不了解自己」。空位也是问题。
 
-> **原句 8:** "There is a heartbeat inside of her. She has been carrying a second heart."
-
-**中文理解**：她身体里有一个心跳。她一直带着第二颗心。
-
-**关键词**：heartbeat · second
-
-**为什么这样写**：两个短句，第二个把事实翻译成身体感受：不是「一个胎儿」，是「第二颗心」。作者用现在完成进行时（has been carrying）强调它不是刚刚出现，是一直在那里、而她不知道。这一句之后她什么都说不出，沉默本身就是回应。
-
-**读者视角提示**：这颗心让后面那个「一周之内决定」变得无法承受。留意她怎么处理这个矛盾。
-
-> **原句 9:** "Where did that love go? What happened to it? Of course her mother loves her. She’s here. Isn’t that love?"
+> **原句 8:** "Where did that love go? What happened to it? Of course her mother loves her. She’s here. Isn’t that love?"
 
 **中文理解**：那份爱去哪了？它出了什么事？母亲当然爱她。她人就在这里。那不就是爱吗？
 
@@ -104,6 +94,16 @@ modified: "2026-10-25"
 **为什么这样写**：四个问句，一个比一个软。作者让 Elise 在得知自己怀孕的当天，第一次认真回想母亲看婴儿照片时的眼神——因为她也即将成为那个看着婴儿的人。最后一句「那不就是爱吗」没有答案，只有一个问号，而这个问号正是全书母女线的核心：在场算不算爱。
 
 **读者视角提示**：她刚把母亲赶出门。这几个问句出现的时间点不是巧合。
+
+> **原句 9:** "There is a heartbeat inside of her. She has been carrying a second heart."
+
+**中文理解**：她身体里有一个心跳。她一直带着第二颗心。
+
+**关键词**：heartbeat · second
+
+**为什么这样写**：两个短句，第二个把事实翻译成身体感受：不是「一个胎儿」，是「第二颗心」。作者用现在完成进行时（has been carrying）强调它不是刚刚出现，是一直在那里、而她不知道。这一句之后她什么都说不出，沉默本身就是回应。
+
+**读者视角提示**：这颗心让后面那个「一周之内决定」变得无法承受。留意她怎么处理这个矛盾。
 
 > **原句 10:** "Elise’s grief has become nebulous; this is a different iteration of the same feeling she has carried all these months since her father died, and the particles of the feeling disperse in a mist. Her grief is everywhere. Her grief is everything."
 
