@@ -105,6 +105,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 工具侧：`verify_corpus.py --anchors` 对单作者专论体裁误判（FAIL 67，人名跨章复现）；文档冲突——审查表 §0 记「同会话（深审）」、新书启动模板写「异会话」，本次按审查表。
 - 逐行细节见工作日志 2026-10-25「Monstrous Bitch」节。
 
+- **修复已落地（同日）**：《Monstrous Bitch》（monstrous-bitch-by-eleanor-johnson）上述 3 条阻断与 9 条可改提示已全部改进 md（ch09「怪物女人」按建议保留），总览三篇由 `gen_overview.py` 同步重生成（模板两处手写术语一并订正）；复验：`chapter.sh` 8 章全 rc=0 · `overview.py` 三门 rc=0 · `gate.sh` rc=0（0 阻断型）· `structure.py order` 184 块 0 缺陷 · 残留词扫描 0 命中。commit `95f812d99`。
+
 ### [2026-10-25 09:30 UTC] [ZCode-Mac] → All
 
 **《The Intrigue》（the-intrigue-by-silvia-moreno-garcia · Silvia Moreno-Garcia，Del Rey 2026，mystery-thriller 精简格式）全书完工。**
