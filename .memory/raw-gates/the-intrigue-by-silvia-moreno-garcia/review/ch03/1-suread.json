@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch03",
+ "facts": [
+  {
+   "fact": "Perla 确认侄女出门后去探 Ulises 房间；他原是她用来逼 Cándido 摊牌的「小摆件」，见面后开始重新考虑",
+   "anchor": "Ulises Linares was supposed to be a trinket to show off around town",
+   "start": 1391,
+   "end": 1458
+  },
+  {
+   "fact": "Perla 的过去：有过多段无名情人（去 Veracruz 港借口看表亲）与已婚推销员 Plutarco",
+   "anchor": "There had been men in her life. Nameless, faceless men",
+   "start": 774,
+   "end": 828
+  },
+  {
+   "fact": "婚期争论：他坚称三周，她纠正为两周，离房时她松口说三周",
+   "anchor": "“Two weeks,” she corrected him. “In your letter you said you could stay for two weeks.”",
+   "start": 4322,
+   "end": 4409
+  },
+  {
+   "fact": "闪回：三兄妹——兄 Osorio Natalicio（Natito，1898 年圣诞夜生）、Perla、妹 Encarnación（小 11 个月）",
+   "anchor": "his full name is Osorio Natalicio, in honor of Christ Our Savior, but they call him Natito",
+   "start": 10393,
+   "end": 10483
+  },
+  {
+   "fact": "父亲家训：女人是家族的宝石或烂肉；Perla 是「完美儿童」，Encarnación 反叛",
+   "anchor": "A woman who disgraces her family’s name is like a decomposed piece of meat",
+   "start": 11863,
+   "end": 11937
+  },
+  {
+   "fact": "1910 革命+咖啡价跌：父亲借美国人大笔债务苦撑；1918 大流感夺走 20 岁的 Natito",
+   "anchor": "Natito dies, aged twenty",
+   "start": 19194,
+   "end": 19218
+  },
+  {
+   "fact": "1919 年 12 月父亲安排 Perla 嫁咖啡商之子 Norberto Bustillo 以合并公司续命",
+   "anchor": "“Without Natito, I’ll have to depend on a son-in-law to manage the business. It will be a distinguished match.”",
+   "start": 21068,
+   "end": 21179
+  },
+  {
+   "fact": "姐妹夜话：Encarnación 已爱上 Rómulo（有妇之夫）；Perla 相信自己要嫁国王当王后",
+   "anchor": "“I’m going to marry a king, and I’ll be a queen. Like Father told us when we were little.”",
+   "start": 22370,
+   "end": 22460
+  }
+ ]
+}

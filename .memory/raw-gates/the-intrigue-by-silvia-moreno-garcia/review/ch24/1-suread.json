@@ -1,0 +1,66 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch24",
+ "facts": [
+  {
+   "fact": "1946 墨西哥城：Bartolo 为婚礼进城买西装+巧克力（Gertrudis）；讨厌大城市想念山里的雾",
+   "anchor": "A strong wind threatened to snatch away Bartolo’s hat",
+   "start": 18,
+   "end": 71
+  },
+  {
+   "fact": "他午休梦见 Inés 又用侦探小说赶走念头——「她从来高不可攀」；全镇记得「Inés 跟姨妈的丈夫跑了」",
+   "anchor": "for she had always been beyond his reach",
+   "start": 2174,
+   "end": 2214
+  },
+  {
+   "fact": "Perla 下场：脑震荡谵妄三天——忏悔罪愆、毒舌数落全镇名流；事后一概否认坚称无罪；腿伤拄父亲手杖几乎不出门",
+   "anchor": "The concussion from the fall greatly affected Perla.",
+   "start": 2882,
+   "end": 2934
+  },
+  {
+   "fact": "物证：楼梯到大门的血迹、墙上两颗子弹、无尸体；Marisol 声称当日见过 Ulises 开车带 Inés 逃走；Perla 不追查",
+   "anchor": "Bartolo and Beto had found a trail of blood from the stairs to the front entrance",
+   "start": 3663,
+   "end": 3744
+  },
+  {
+   "fact": "餐厅外：Bartolo 跟上红裙皮草的女人——最终没敢进店雨中逃走",
+   "anchor": "he had been following Inés Inclán. Or a woman who resembled Inés to a great degree.",
+   "start": 5985,
+   "end": 6068
+  },
+  {
+   "fact": "餐厅卡座：她一眼识破跟踪者——橱窗倒影，三个街区就能甩掉",
+   "anchor": "“Bartolo,” she replied smoothly.",
+   "start": 12148,
+   "end": 12180
+  },
+  {
+   "fact": "她的噩梦：摸枪疤确认旧伤——「那座铁门大宅是我本来该死的地方」",
+   "anchor": "That horrid house with its iron gates where I was meant to die.”",
+   "start": 13929,
+   "end": 13993
+  },
+  {
+   "fact": "提议去哈瓦那（战后满地机会）；他怕惹外国当局——斗嘴后她强势拍板",
+   "anchor": "I’m right about Havana. I’m always right.”",
+   "start": 14590,
+   "end": 14632
+  },
+  {
+   "fact": "工作中：她背诵伪造绝笔信开头；他嫌太腻要照片随信；「Red Number Three」仿 María Félix 红裙",
+   "anchor": " ‘I cannot continue to live. I cannot silence the secret that nestles inside my heart.’ ",
+   "start": 16084,
+   "end": 16172
+  },
+  {
+   "fact": "终幕：斗嘴后她吻他，两人照镜子十指相扣——双人诈骗搭档定型",
+   "anchor": "She grasped his hand, lacing their fingers together.",
+   "start": 17273,
+   "end": 17325
+  }
+ ]
+}

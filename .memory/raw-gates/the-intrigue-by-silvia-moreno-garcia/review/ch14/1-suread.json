@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch14",
+ "facts": [
+  {
+   "fact": "晾衣绳下复盘：毒酒已倒下水道；她提新方案「车祸」——ravine 翻车+石块砸后脑",
+   "anchor": "We’ll have to find another way to kill her. How about a car accident?",
+   "start": 2343,
+   "end": 2412
+  },
+  {
+   "fact": "「浴缸滑倒」提议戳中旧创：母亲从楼梯摔死、是她发现的、之后一年失语",
+   "anchor": "Down the stairs. I found her. I couldn’t talk for a year after that. Not a peep.",
+   "start": 4183,
+   "end": 4263
+  },
+  {
+   "fact": "两个孤儿交换母亲：他母亲讲《一千零一夜》叫他小王子；她自封「强盗女王」、他称她山鲁佐德",
+   "anchor": "“A bandit queen, of course.”",
+   "start": 5898,
+   "end": 5926
+  },
+  {
+   "fact": "婚后日常：Perla 按期收「什一税」（殷勤/仰慕/性）；他感到镜子里的脸对不上自己",
+   "anchor": "Perla collected her tithe.",
+   "start": 7130,
+   "end": 7156
+  },
+  {
+   "fact": "警报：面包房来绿领带陌生人打听「Linares 或 Lagos」——Aguirre 案追兵至",
+   "anchor": "a Mr. Linares or a Mr. Lagos",
+   "start": 10683,
+   "end": 10711
+  },
+  {
+   "fact": "变装迎敌：中分/剃须/鞋油染鬓/父亲遗物眼镜/无袖背心——扮成撒谎都费劲的小年轻",
+   "anchor": "He parted his hair down the middle rather than his usual side parting and shaved his mustache.",
+   "start": 14021,
+   "end": 14115
+  },
+  {
+   "fact": "侦探 Jaime Contreras 出示 Iztapalapa 邮戳明信片；Ulises 装傻称「被偷的」",
+   "anchor": "“My name is Jaime Contreras, and I’m a private investigator.”",
+   "start": 15358,
+   "end": 15419
+  },
+  {
+   "fact": "Inés 送客补刀「他撒谎了——秘密交往三年上个月才结婚」；侦探告退；他吻她被烫回「有人会看见」",
+   "anchor": "“You’re the most magnificent liar.”",
+   "start": 22966,
+   "end": 23001
+  }
+ ]
+}

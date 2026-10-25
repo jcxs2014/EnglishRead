@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch01",
+ "facts": [
+  {
+   "fact": "1943 年墨西哥城，身无分文的 Ulises 要在 Monclova 寡妇与 Veracruz 小镇 Puerco Ahogado 的老处女之间做选择",
+   "anchor": "He was going to make a choice, either the widow from Mon-clova or the spinster from that town in Veracruz",
+   "start": 11,
+   "end": 116
+  },
+  {
+   "fact": "父亲死后三年他没有继承父亲的犯罪天赋，积蓄被父亲的病掏空",
+   "anchor": "But after three years now without his father, he was rudderless, hardly able to remain afloat",
+   "start": 1055,
+   "end": 1148
+  },
+  {
+   "fact": "上一个骗局：Jalisco 寡妇 Cornelia Aguirre 的假投资被她三个儿子搅局，他只身逃走；寡妇有三个儿子，年龄八岁、六岁、四岁",
+   "anchor": "he had made up a pack of lies about wanting and loving children because the widow had three of them, ages eight, six, and four",
+   "start": 8509,
+   "end": 8635
+  },
+  {
+   "fact": "他把寡妇送的相机卖给皮条客 Moisés（专骗游客），并拒绝其入伙邀请",
+   "anchor": "He took the camera from his shoulder bag and handed it to Moisés",
+   "start": 10207,
+   "end": 10271
+  },
+  {
+   "fact": "抉择落点是钱：去 Puerco Ahogado 的火车票更便宜",
+   "anchor": "In the end, his decision came down to money: the ticket to Puerco Ahogado, Veracruz, was cheaper",
+   "start": 18066,
+   "end": 18162
+  },
+  {
+   "fact": "他化名 Mr. Linares 坐火车赴约；Fito 受 Miss Inclán 之命接站（车当天早晨发动不起来）；站台被吃冰淇淋的男孩弄脏米色西装",
+   "anchor": "Hello, sir, Miss Inclán sent me to pick you up. Sorry I’m late, the car wouldn’t start this morning",
+   "start": 19838,
+   "end": 19937
+  },
+  {
+   "fact": "先遇侄女 Inés（目光大胆、自称不是女佣），后见 Perla Inclán（鸽灰套装+银十字架），被安排进蝴蝶室",
+   "anchor": "Her lack of deference established her identity. This was no housemaid",
+   "start": 23009,
+   "end": 23078
+  },
+  {
+   "fact": "房客只有 Manuela、Eduviges Zorrilla 与 Nepomuceno 教授三拨；Perla 之父 Osorio Inclán 曾经营 Inclán 咖啡公司",
+   "anchor": "Manuela and Eduviges Zorrilla. And Professor Nepomuceno.",
+   "start": 34671,
+   "end": 34727
+  }
+ ]
+}

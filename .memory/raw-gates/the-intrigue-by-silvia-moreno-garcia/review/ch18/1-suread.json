@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch18",
+ "facts": [
+  {
+   "fact": "庆典开幕：彩纸烟花 matraca；乐队走街丰收季；酒馆男人烂醉",
+   "anchor": "The festival was a riotous burst of color.",
+   "start": 5,
+   "end": 47
+  },
+  {
+   "fact": "咖啡馆赴约：Perla 盛装艳压（瓷娃娃妆效）；Inés 平底鞋黄丝带，桌下踢了他胫骨一脚",
+   "anchor": "In the cramped café, his leg touched hers by accident, and she kicked him in the shin.",
+   "start": 2384,
+   "end": 2470
+  },
+  {
+   "fact": "虎面具传统：山虎吃牛被猎杀→男人扮虎；神父解为「人性放纵的象征」",
+   "anchor": "“The tigers? It’s an old tradition.",
+   "start": 3750,
+   "end": 3785
+  },
+  {
+   "fact": "她目送 Ulises 一秒后邀 Bartolo 共舞；他整晚盯着她、想起十七岁没敢吻的女孩",
+   "anchor": "Her eyes fixed on Ulises for a second, wide and eager, but she shifted her gaze to Bartolo.",
+   "start": 6509,
+   "end": 6600
+  },
+  {
+   "fact": "他借口离席戴上 Bartolo 落下的虎面具追进人潮——她正与红手帕陌生人共舞",
+   "anchor": "He felt the coolness of the forgotten mask under his fingertips",
+   "start": 10595,
+   "end": 10658
+  },
+  {
+   "fact": "巷内：摘面具相拥；她嫌他磨蹭「别背十四行诗」主动解皮带——野合",
+   "anchor": "“Can I kiss you or will you slap me?” he asked.",
+   "start": 13092,
+   "end": 13139
+  },
+  {
+   "fact": "事毕她一句「Estrella 会等我」就走；他挽留转圈吻别",
+   "anchor": "“Estrella will be expecting me,” she said, and the simplicity of the remark felt bruising.",
+   "start": 16386,
+   "end": 16476
+  },
+  {
+   "fact": "收尾：她捧了一下他的脸奔出巷子；他靠墙心跳如鼓，两分钟后拾面具原路返回",
+   "anchor": "She looked up at him and raised a hand to carefully cup his face",
+   "start": 16836,
+   "end": 16900
+  }
+ ]
+}

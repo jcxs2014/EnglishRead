@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch16",
+ "facts": [
+  {
+   "fact": "面包房：Inés 给姨妈缝蓝裙（仿杂志款）；Marisol 说她会是庆典上穿得最好的人",
+   "anchor": "“Blue. It’s a nice bit of fabric.",
+   "start": 27,
+   "end": 60
+  },
+  {
+   "fact": "牛车事件：Cándido 去 Filomeno 处收贷被牛顶车再撞树——坏脾气升级",
+   "anchor": "“Did you hear about Cándido’s car?” Marisol asked. “A bull wrecked it.”",
+   "start": 1422,
+   "end": 1493
+  },
+  {
+   "fact": "Marisol 报信：Cándido 逼她复述对绿领带男人说过的每个字（打响指两次）",
+   "anchor": "Cándido told me to repeat everything I’d told him",
+   "start": 2570,
+   "end": 2619
+  },
+  {
+   "fact": "门口拦截：Cándido 责她「收钱不办事」钳下巴逼问；Diógenes 冲出救场；Ulises 借「为教会拉蜡烛」解围",
+   "anchor": "I must fetch many boxes of candles for the festivities next weekend",
+   "start": 6255,
+   "end": 6322
+  },
+  {
+   "fact": "裁缝间密谈：Inés 要求再下毒「我不能等一辈子」；他以「杀人复杂、我从来没杀过人」拖延",
+   "anchor": "“We need to try the poison again.”",
+   "start": 8835,
+   "end": 8869
+  },
+  {
+   "fact": "互撕变调情：她骂「你就床上那点本事」；举拳改拽头真吻——尝出他的吻是练出来的，咬他嘴唇",
+   "anchor": "Instead of hitting him, she yanked his head down for a kiss",
+   "start": 12038,
+   "end": 12097
+  },
+  {
+   "fact": "她意识到自己喜欢他（危险！）立刻自毁场面：「镇上随便哪个小子都给得起」",
+   "anchor": "Any boy in town can offer me that.",
+   "start": 14013,
+   "end": 14047
+  },
+  {
+   "fact": "夜间噩梦升级：新增对话声、母亲的血漫过鞋；姨妈第一次入梦——「梦在变形，好贴合她的念头」",
+   "anchor": "The dream was morphing to suit her thoughts.",
+   "start": 16122,
+   "end": 16166
+  }
+ ]
+}

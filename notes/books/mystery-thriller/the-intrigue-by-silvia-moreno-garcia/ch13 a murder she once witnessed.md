@@ -37,7 +37,7 @@ modified: "2026-10-24"
 
 > **原句 4:** "“It’s a murder, and you must make an immediate arrest,” the doctor declared, with such a dramatic intonation that Ulises spilled coffee on his lap and Beto began to cough."
 
-**中文理解**：「这是谋杀，你们必须立刻逮捕凶手！」医生宣布，那腔调戏剧化到 Ulises 把咖啡泼在裤子上、Beto 当场呛咳。
+**中文理解**：「这是谋杀，你们必须立刻逮捕凶手！」医生宣布，那腔调戏剧化到 Ulises 把咖啡泼在裤子上、Beto 当场呛咳——他要抓的是无照卖药的药剂师 Facundo Alamilla。
 **关键词**：murder / arrest / dramatic
 **为什么这样写**：全章最惊悚的词由全章最荒谬的人喊出——医生把自杀硬掰成「药剂师谋杀」（下句原文）；Ulises 泼出的咖啡是精准的身体喜剧：真相离他们只有一张桌子的距离。
 **读者视角提示**：记住这声「谋杀」——它错了两次：错的凶手、错的案子。真正的谋杀案卷就在喝咖啡的人手里。
@@ -88,7 +88,7 @@ modified: "2026-10-24"
 
 **中文理解**：她看见我推她了，Perla 想。
 **关键词**：push / saw
-**为什么这样写**：五个单词一句内心独白，全书最大悬案在此裸裎——没有铺垫、没有辩解，像供词一样干净；现在时的「thinks」把三十年前的现场钉进此刻：这句话她对自己说了三十年。
+**为什么这样写**：五个单词一句内心独白，全书最大悬案在此裸裎——没有铺垫、没有辩解，像供词一样干净；现在时的「thinks」把十多年前的现场钉进此刻：这句话她对自己说了十多年。
 **读者视角提示**：答案揭晓的方式值得记住：不是审讯、不是遗物，是凶手脑子里一句过期的自白。
 
 > **原句 12:** "The girl lets go of her doll and stares at Perla with tear-filled eyes and Perla stares back at her. She embraces the child, and she cries."
@@ -127,4 +127,4 @@ modified: "2026-10-24"
 | mutt | 杂种狗 | And the dog, although it wasn’t worth one peso, that mutt that had followed him home one day and which they’d kept. |
 
 ## 一句话总结
-教授之死被遗书按上「自杀」结案，Perla 用肉铺行话跟神父砍完葬礼的价——真正的悬案在闪回里揭晓：三十年前她把要再度离家的妹妹推下楼梯，端着布娃娃的 Inés 看见了全程。凶手抱住了小证人，从此这个家的爱，全是封口费的别名。
+教授之死被遗书按上「自杀」结案，Perla 用肉铺行话跟神父砍完葬礼的价——真正的悬案在闪回里揭晓：十多年前她把要再度离家的妹妹推下楼梯，端着布娃娃的 Inés 看见了全程。凶手抱住了小证人，从此这个家的爱，全是封口费的别名。

@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch13",
+ "facts": [
+  {
+   "fact": "教授死讯晨间处置：发电报给兄弟（已死）、请医生签死亡证明、Beto 也得来",
+   "anchor": "He’ll have to sign a death certificate",
+   "start": 716,
+   "end": 754
+  },
+  {
+   "fact": "宿醉揭晓杀错人的偶然性：当晚 Perla 嫌雪莉酒劲薄喝了私藏龙舌兰——毒酒一口没碰",
+   "anchor": "she had availed herself of one of her secret bottles of tequila",
+   "start": 1475,
+   "end": 1538
+  },
+  {
+   "fact": "Carrel 医生找到安眠药+酒，宣布「这是谋杀」要逮捕无照卖药的药剂师 Facundo Alamilla",
+   "anchor": "Nepomuceno has been murdered by the pharmacist!",
+   "start": 6889,
+   "end": 6936
+  },
+  {
+   "fact": "遗书实锤自杀定性：病了几个月一心求死；怀表和书遗赠 Inés，还有那条狗",
+   "anchor": "bequeathing his silver-plated pocket watch and his books to Inés",
+   "start": 8563,
+   "end": 8627
+  },
+  {
+   "fact": "Perla 与神父砍价葬礼：「多一公斤肥膘加三比索」砍成本地安葬、无守灵",
+   "anchor": "“You can’t be charging me for the man as though he were a chunk of meat at the butcher shop,” Perla said.",
+   "start": 9429,
+   "end": 9534
+  },
+  {
+   "fact": "她翻检死者遗物想捞值钱的被 Inés 撞见；拒绝给侄女安慰「接着过日子」",
+   "anchor": "“He was an old drunk and now he’s dead, it’s no surprise.",
+   "start": 13766,
+   "end": 13823
+  },
+  {
+   "fact": "闪回：Encarnación 收到戏服工厂录用电报要再度离家；Perla 怒极推人——她坠梯无声死去",
+   "anchor": "She unclasps her trembling hands and shoves Encarnación away.",
+   "start": 29808,
+   "end": 29869
+  },
+  {
+   "fact": "年幼 Inés 端着布娃娃目睹全程；Perla 掐她双臂险些掐死，最后抱住她哭——封口",
+   "anchor": "She saw me push her, Perla thinks.",
+   "start": 30703,
+   "end": 30737
+  }
+ ]
+}

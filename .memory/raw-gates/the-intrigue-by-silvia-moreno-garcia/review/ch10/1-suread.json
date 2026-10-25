@@ -1,0 +1,48 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch10",
+ "facts": [
+  {
+   "fact": "闪婚过教堂：神父坚持结婚预告三遍，Ulises 谎称 Las Tunas 法官已公证——神父被吓破例主婚",
+   "anchor": "the judge in Las Tunas had already married them in a civil ceremony",
+   "start": 426,
+   "end": 493
+  },
+  {
+   "fact": "婚宴：Inés 赶制浅紫礼服；Cándido 冷淡道贺并确认自己继续替 Perla 收账（枕头下手枪是威慑）",
+   "anchor": "the memory of the pistol he kept under his pillow served to facilitate their cooperation",
+   "start": 3182,
+   "end": 3270
+  },
+  {
+   "fact": "婚后分房照旧（他睡原房间），夜里溜进她被窝；镇上改称她「Inclán Arnao de Linares 夫人」",
+   "anchor": "“Mrs. Inclán Arnao de Linares”",
+   "start": 4752,
+   "end": 4782
+  },
+  {
+   "fact": "广场财政战：他要账户加名/卖器材/开影楼，她拒绝——「去找份工作」「别想动我的钱」",
+   "anchor": "“But don’t start thinking you’ll open a fancy studio with my money.”",
+   "start": 11316,
+   "end": 11384
+  },
+  {
+   "fact": "闪回：Encarnación 私奔一月后父亲中风；母亲靠鸦片酊度日；战后挂牌开客栈",
+   "anchor": "His heart is rent in two from grief and worry and shame",
+   "start": 13681,
+   "end": 13736
+  },
+  {
+   "fact": "父亲当着 Cándido 宣告：死前女儿嫁人=剥夺继承权——锁死 Perla 婚事、吓退求婚者",
+   "anchor": "If she marries before I pass away, she will be disinherited",
+   "start": 17532,
+   "end": 17591
+  },
+  {
+   "fact": "章末：Encarnación 拎行李箱回来，裙摆后躲着黑卷发小女孩（Inés 登场）",
+   "anchor": "Hiding behind Encarnación’s skirts there is a girl with black curls.",
+   "start": 22505,
+   "end": 22573
+  }
+ ]
+}

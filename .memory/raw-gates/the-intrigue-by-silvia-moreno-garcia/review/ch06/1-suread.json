@@ -1,0 +1,54 @@
+{
+  "book": "the-intrigue-by-silvia-moreno-garcia",
+  "chapter": "ch06",
+  "facts": [
+    {
+      "fact": "被戳穿次日 Ulises 整早躲房称头痛；懊悔没烧掉那些信——留着信是备将来继续邮政骗局（postal scams）。",
+      "anchor": "He should have burned the damn letters, but he’d saved them in case things didn’t work out and he needed to keep running the postal scams.",
+      "start": 332,
+      "end": 470
+    },
+    {
+      "fact": "对话表态：晚饭后收拾碗碟时 Inés 弯腰对他耳语挑衅——I told you to give it a try，逼他启动计划。",
+      "anchor": "“I told you to give it a try,” she whispered.",
+      "start": 1304,
+      "end": 1349
+    },
+    {
+      "fact": "动作受阻：Ulises 借口去拍瀑布邀 Perla 驾车出游；Perla 坚持让男仆 Fito 掌舵（You don't know the area... The mountains can be treacherous），他无法与她独处。",
+      "anchor": "Fito will take us there. You don’t know the area, Mr. Linares. The mountains can be treacherous.",
+      "start": 3042,
+      "end": 3138
+    },
+    {
+      "fact": "对话表态（关系）：琴边夜谈，Perla 弹完 Chopin 自述教养（会纯正法语的家庭女教师、Manual de Carreño 仪范、兄妹在世时被当公主王子抚养），并明确 Inés 是她照管多年的外甥女兼被监护人（niece and ward）。",
+      "anchor": "Inés has been my charge for many years now. I do what I can for her, but she’s not as rigorously educated as we were.",
+      "start": 8640,
+      "end": 8757
+    },
+    {
+      "fact": "转折点（求婚戏码失败）：Ulises 像 Romeo 吻 Juliet 手背般献媚求爱；Perla 不 blush、面色转硬，起身退席——攻势彻底失败，他震惊于完全失算。",
+      "anchor": "He thought she’d melt at that. Instead, her face seemed to harden. No maidenly blush colored her cheeks. She stood up, looking aggrieved, and withdrew from the room.",
+      "start": 9666,
+      "end": 9831
+    },
+    {
+      "fact": "人物关系：次日清晨 Ulises 撞见 Inés 教男仆 Fito 跳舞步，好让他敢在节庆请 Paloma 共舞；厨师 Estrella 与女仆 Rita 笑看——她与仆人阶层打成一片。",
+      "anchor": "You’ll never be able to ask Paloma to dance with you at the festival if you keep on like this,” Inés chided him.",
+      "start": 11633,
+      "end": 11745
+    },
+    {
+      "fact": "二轮谈判开价：Ulises 提出因风险与工作量大，best if I retained two-thirds of any money（自己留三分之二），并称这是慷慨报价。",
+      "anchor": "I’ve thought about what you said, and I believe, considering the risk and work that this entails, it would be best if I retained two-thirds of any money we might be able to obtain,” he told her.",
+      "start": 16115,
+      "end": 16309
+    },
+    {
+      "fact": "转折点（对半成交）：Inés 以「被抓也是我被赶出家门」还价，重申 Half and half, sir 并伸出手；Ulises 权衡犹豫后与之握手——同盟以对半分成成立。",
+      "anchor": "even if you did, I wouldn’t budge. Half and half, sir,” she said, and stretched out her hand.",
+      "start": 17397,
+      "end": 17490
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch23",
+ "facts": [
+  {
+   "fact": "教堂散场回家：车位已空；Perla 命她端雪莉酒；她溜进 Ulises 房——行李没了，坐在他没铺的床上",
+   "anchor": "When they reached the house, Inés couldn’t help herself and rushed to the gate.",
+   "start": 5,
+   "end": 84
+  },
+  {
+   "fact": "书房摊牌：Perla 手持信纸审判；Inés 沉默只回「我做错了什么吗」",
+   "anchor": "“Have I done something wrong, aunt?”",
+   "start": 2256,
+   "end": 2292
+  },
+  {
+   "fact": "Cándido 绝笔信宣读：丈夫是骗子+侄女协助+两人有染「亲眼所见」——落款「你永远的朋友」",
+   "anchor": "That he is a fraudster who is determined to steal your money",
+   "start": 2942,
+   "end": 3002
+  },
+  {
+   "fact": "对骂：姨妈骂「私生女、家里的污点」；Inés 反击父亲来信被锁、Salvador 被逐、「你是另一种妓女」戳穿 La Rioja 谎言",
+   "anchor": "“You were a stain on our name. A bastard girl, and still I took you in.”",
+   "start": 3561,
+   "end": 3633
+  },
+  {
+   "fact": "她宣布离家：「无形的镣铐从手腕脱落」；姨妈警告+最后嘶喊「你不能丢下我一个人！」",
+   "anchor": "“You can’t leave me alone!”",
+   "start": 6874,
+   "end": 6901
+  },
+  {
+   "fact": "记忆归位：舌头从梦中苏醒——「楼梯边，你推了她」「你杀了她然后抱住我」；Perla 退到画像下摇头否认",
+   "anchor": "“By the stairs,” Inés continued; her tongue was still sluggish",
+   "start": 7466,
+   "end": 7528
+  },
+  {
+   "fact": "姨妈拉开抽屉取出手枪（Cándido 留下的那把）指着她：「你哪儿也不许去」",
+   "anchor": "Perla opened a drawer and took out a gun, pointing it at her.",
+   "start": 8693,
+   "end": 8754
+  },
+  {
+   "fact": "混战：Ulises 一声喊引她反击；夺枪/挠脸/雪莉酒杯砸中她太阳穴；逃到走廊中一枪、第二枪打墙；楼下相遇「跑」",
+   "anchor": "She raked the nails of her free hand across Perla’s face, and her aunt hollered.",
+   "start": 10008,
+   "end": 10088
+  },
+  {
+   "fact": "Perla 追下楼梯举枪挥舞，Diógenes 疯叫着从腿边跑过——她失足坠落昏死在楼梯脚下（déjà vu）",
+   "anchor": "It was déjà vu, as if that terrible memory of her childhood had been granted fresh new life",
+   "start": 11968,
+   "end": 12059
+  },
+  {
+   "fact": "Ulises 抱她上车「按住伤口」；要带狗走「不管出什么事保住狗」；驶离小镇「下一站 Ithaca」；她仍不知道他的真名",
+   "anchor": "“You must keep the dog,” she told him.",
+   "start": 14377,
+   "end": 14415
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch09",
+ "facts": [
+  {
+   "fact": "深夜密谈：她教他「Perla 要的是 passion 不是鲜花巧克力」，并交代 Plutarco 是姨母旧情人（洗床单发现）",
+   "anchor": "I do the laundry. I took a look at the bedsheets",
+   "start": 1758,
+   "end": 1806
+  },
+  {
+   "fact": "两家底细互换：有钱青年求娶的是她母亲 Encarnación、母亲随 Rómulo 私奔、Inés 成私生女被全镇叫 bastard",
+   "anchor": "They pointed and called me a bastard",
+   "start": 4201,
+   "end": 4237
+  },
+  {
+   "fact": "他的身世：母亲死于西班牙大流感（讲阿拉伯王子故事的人）；父亲先奸后娶式成亲、把儿子带在身边当学徒",
+   "anchor": "“She passed away when I was small. The Spanish flu,” he said",
+   "start": 4831,
+   "end": 4891
+  },
+  {
+   "fact": "新战术：办公室激将（「你是硬心肠的女人」）后强吻 Perla——她慢吞吞推开、其实受用",
+   "anchor": "“The bait has been set,” he said.",
+   "start": 13354,
+   "end": 13387
+  },
+  {
+   "fact": "财产清点任务：Cándido 说过银行九万；Inés 查实两账户+Veracruz 保管箱共八万七千；书桌锁死拿不到",
+   "anchor": "eighty-seven thousand pesos",
+   "start": 15849,
+   "end": 15876
+  },
+  {
+   "fact": "餐桌敲打：「你姨妈的招待不可能是永远的」当众宣布要走——逼出当夜房门之访",
+   "anchor": "Your aunt’s hospitality cannot be eternal",
+   "start": 16938,
+   "end": 16979
+  },
+  {
+   "fact": "Cándido 提前三天归来（电报约见+「大礼」），Inés 断定是订婚戒指——死线压缩",
+   "anchor": "“Cándido is back in three days. You need to be quick.”",
+   "start": 26307,
+   "end": 26361
+  },
+  {
+   "fact": "山道求婚：母亲遗留下的婚戒「戴上或扔下山」；说服 Perla 明天去 Las Tunas 民政登记；车内圆房",
+   "anchor": "Put it on if you’ll take me as your husband. If not, fling it away, down the mountain.",
+   "start": 29797,
+   "end": 29883
+  }
+ ]
+}

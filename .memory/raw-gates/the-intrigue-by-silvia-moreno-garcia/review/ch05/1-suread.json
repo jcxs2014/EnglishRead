@@ -1,0 +1,54 @@
+{
+  "book": "the-intrigue-by-silvia-moreno-garcia",
+  "chapter": "ch05",
+  "facts": [
+    {
+      "fact": "对话表态（关系）：浴后梳头时 Perla 训诫 Inés——白天冲 Bartolo 大笑是轻佻，Bartolo 家绝不会娶私生女；命她伺候自己到死、此生别想出嫁，并重提 Salvador 旧事敲打。",
+      "anchor": "You must take care of me until I pass away. There’ll be no wedding for you, not now.",
+      "start": 3774,
+      "end": 3858
+    },
+    {
+      "fact": "人物身世（关系）：Inés 是私生女——出生证上母亲只写了 Inés Inclán，父亲的姓氏被刻意略去，因为他是个有妇之夫。",
+      "anchor": "On her birth certificate her mother had written Inés Inclán, her father’s surname pointedly missing because he was a married man.",
+      "start": 6036,
+      "end": 6165
+    },
+    {
+      "fact": "转折点：Inés 替 Ulises 换床单，被手提箱蓝绸衬里吸引，发现箱角缝线松脱，从夹层掏出一捆细绳扎着的信——部分出自姨妈 Perla，多数来自其他女人。",
+      "anchor": "Instead, she pulled out letters, tied together with a piece of string. She sat on the floor and undid the knot, looking at the postmarks. Some of the letters were from her aunt, but most were from other women.",
+      "start": 10074,
+      "end": 10283
+    },
+    {
+      "fact": "数字与物证：其中一封信写道 Enclosed are the hundred pesos you requested（随函附上你要的一百比索）；另有一本背面登征友广告的杂志 Conmovedor，多则广告被红笔圈出。",
+      "anchor": "Enclosed are the hundred pesos you requested, my dear. I hope your business venture is going well and that soon we might meet.",
+      "start": 10694,
+      "end": 10820
+    },
+    {
+      "fact": "深夜对质：Inés 报出 Ulises 用过的四个化名——Ulises Linares、Ulises Orozco、Luis Cacho、Armando Zozaya，一人多名必是行骗。",
+      "anchor": "Ulises Linares. Ulises Orozco. Luis Cacho. Armando Zozaya.",
+      "start": 21356,
+      "end": 21414
+    },
+    {
+      "fact": "对话表态：深夜摊牌，被化名点破后 Ulises 不再抵赖，承认 Yes, I con them——靠 lonely hearts 征友广告骗女人钱，自称只赚个 a living。",
+      "anchor": "Her words seemed to needle him, and he replied with a voice that was insolent and smug. “Yes, I con them.”",
+      "start": 21603,
+      "end": 21709
+    },
+    {
+      "fact": "对话表态：Ulises 交底——来此是「觉得这里可能有值得偷的东西」，且 The odds are good I could, if she marries me（只要 Perla 嫁给他就得手）；Inés 当场提出 I could help you 入伙。",
+      "anchor": "The odds are good I could, if she marries me.",
+      "start": 22862,
+      "end": 22907
+    },
+    {
+      "fact": "转折点：他以「向姨妈告发你外甥女是扑上我床的荡妇」反威胁，Inés 仍掌掴他并下最后通牒——钱对半分（We split the money down the middle），否则他什么都得不到。",
+      "anchor": "She chose boldness and slapped him. He stared at her, open-mouthed, unable to utter a word, as if such an injury were inconceivable.",
+      "start": 24178,
+      "end": 24310
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch12",
+ "facts": [
+  {
+   "fact": "牌桌羞辱：Perla 当众「拿什么玩牌？」全桌哄笑；他退场自骂冤大头",
+   "anchor": "“With what money?” Perla asked, so loudly that everyone laughed.",
+   "start": 3657,
+   "end": 3721
+  },
+  {
+   "fact": "铁门口对话：她回绝跟 Bartolo 走——「换一座笼子」「我想你懂笼子这回事」",
+   "anchor": "“I think you know about cages.”",
+   "start": 7226,
+   "end": 7257
+  },
+  {
+   "fact": "毒方定稿：haba de San Ignacio 籽或多种草药混进雪莉酒，「死得快、不带动静」",
+   "anchor": "The seeds of the haba de San Ignacio are toxic",
+   "start": 7972,
+   "end": 8018
+  },
+  {
+   "fact": "合流宣言：分开谁都不敢，凑一起「杀人不但可行，简直命中注定」；定于今晚、材料已备",
+   "anchor": "But together, homicide became not only plausible but preordained",
+   "start": 8682,
+   "end": 8746
+  },
+  {
+   "fact": "放洗澡水换他来做（原是 Inés 的活）；他端毒酒托盘上楼",
+   "anchor": "Later that evening he drew his wife’s bath.",
+   "start": 8951,
+   "end": 8994
+  },
+  {
+   "fact": "浴室对质：Perla 从窗口看见他与 Inés 在铁门口密谈——他「站在流沙里」狡辩",
+   "anchor": "his wife was more observant than he’d thought",
+   "start": 10822,
+   "end": 10867
+  },
+  {
+   "fact": "他故意说「她就是小镇姑娘那种好看」激怒 Perla——她摔杯吼他出去，雪莉酒一 dag 口没喝",
+   "anchor": "the loud crash of a glass against a wall",
+   "start": 12392,
+   "end": 12432
+  },
+  {
+   "fact": "午夜露台：Nepomuceno 与他看星空谈「回望灵魂废墟」讨最后一支烟；清晨毒酒失踪，教授死在扶手椅上",
+   "anchor": "“Gazing at the stars,” the professor said",
+   "start": 13708,
+   "end": 13749
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch08",
+ "facts": [
+  {
+   "fact": "Filomeno（革命中失去一只耳朵的果农）求 Inés 向姨妈说情宽限借款，怕 Cándido 上门",
+   "anchor": "I’d hate to have Cándido knocking at my door",
+   "start": 1818,
+   "end": 1862
+  },
+  {
+   "fact": "Perla 的放贷生意：小镇无银行，她放贷做得不错，收账外包给 Cándido",
+   "anchor": "Perla had become accustomed to moneylending",
+   "start": 1919,
+   "end": 1962
+  },
+  {
+   "fact": "Cándido 街头拦截晃钞票逼情报、威胁抽她；Inés 收钱并决意往他汤里吐口水",
+   "anchor": "She promised herself she’d spit in his soup the next time he was dining at their house.",
+   "start": 6917,
+   "end": 7004
+  },
+  {
+   "fact": "Inés 与 Ulises 在他房间定计：Lulú 是从不生病的疑病症患者，可以让她「真病」逼 Cándido 陪她就医",
+   "anchor": "She’s a hypochondriac who worries about the smallest ache",
+   "start": 10830,
+   "end": 10887
+  },
+  {
+   "fact": "毒方：Raíz de Xalapa 可做泻药；她不知道如何让 Lulú 服下，他提议下食物",
+   "anchor": "Raíz de Xalapa is used as a laxative",
+   "start": 11162,
+   "end": 11198
+  },
+  {
+   "fact": "Perla 拒绝宽限 Filomeno 并骂 Inés「跟你妈一模一样」；Inés 以母亲记忆强化逃离决心",
+   "anchor": "What a silly girl you are, just like your mother in every way.",
+   "start": 17772,
+   "end": 17834
+  },
+  {
+   "fact": "星期日委员会聚会：Ulises 假意关怀 Lulú 健康劝咖啡，Inés 掺足泻药——Lulú 恐慌离席",
+   "anchor": "the laxative was beginning to take effect",
+   "start": 23151,
+   "end": 23192
+  },
+  {
+   "fact": "三天后 Marisol 报信：Lulú 与 Cándido 去墨西哥城就医走三周；Inés 一路笑跑",
+   "anchor": "I’m wicked and I don’t much care",
+   "start": 25707,
+   "end": 25739
+  }
+ ]
+}

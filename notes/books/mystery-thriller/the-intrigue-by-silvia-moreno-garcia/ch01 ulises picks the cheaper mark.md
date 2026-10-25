@@ -44,7 +44,7 @@ modified: "2026-10-24"
 
 > **原句 5:** "“It’s all the same, isn’t it? Why bother with pawn tickets? Besides, I’m too busy to be haggling with those clowns,” he said, although the truth was he was trying to lie low; he didn’t want to show his face around Monte de Piedad or any of the shops his father had frequented. He felt a little paranoid."
 
-**中文理解**：他坚称相机不是赃物，卖掉只是图省事：「都一样，何必折腾当票？何况我忙着呢，懒得跟那帮小丑讨价还价。」嘴上是排场，真话是他在避风头——不愿在 Monte de Piedad 或父亲常去的铺子露脸，他有点疑神疑鬼。
+**中文理解**：他坚称相机不是赃物，卖掉只是图省事：「都一样，何必折腾当票？何况我忙着呢，懒得跟那帮小丑讨价还价。」嘴上是排场，真话是他在避风头——不愿在 Monte de Piedad 或父亲常去的铺子露脸，他有点疑神疑鬼。买家 Moisés 是个专骗游客的皮条客，相机实为 Aguirre 寡妇所赠。
 **关键词**：pawn / lie low / paranoid
 **为什么这样写**：台词与 "although the truth was" 的补刀并置，一句话之内完成说谎与拆穿；这是全书叙事的基本动作——他每说一句场面话，叙述就跟着更正一次，读者被训练成永远比他多知道一层。
 **读者视角提示**：Monte de Piedad 是墨西哥的国家当铺；他绕着父亲的老路走，说明 Aguirre 案的余波未平——至少他自己这么怕。

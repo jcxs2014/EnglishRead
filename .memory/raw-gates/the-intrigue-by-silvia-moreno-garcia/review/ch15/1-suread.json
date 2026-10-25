@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch15",
+ "facts": [
+  {
+   "fact": "剃净的胡子让 Perla 失望：「让你看起来像个孩子」——怕镇上说「绝望老处女嫁了个男孩」",
+   "anchor": "“It makes you look like a child.”",
+   "start": 9374,
+   "end": 9407
+  },
+  {
+   "fact": "晚饭桌 Cándido 抛出侦探之事；Ulises 谎称是找同公寓欠债的旧住户",
+   "anchor": "“A detective.”",
+   "start": 3389,
+   "end": 3403
+  },
+  {
+   "fact": "办公室密谈：Cándido 断言「他是骗子」，把父亲送的三十岁生日手枪留给 Perla 防身；她骂「白痴」但收进抽屉",
+   "anchor": "took out his pistol, which he placed upon the desk",
+   "start": 5364,
+   "end": 5414
+  },
+  {
+   "fact": "夜里她起疑：「买的不是纯种马，是没有血统的马」；提议去墨西哥城卖器材被推脱",
+   "anchor": "she’d bought a horse without a pedigree",
+   "start": 7137,
+   "end": 7176
+  },
+  {
+   "fact": "闪回：推妹之后她怕 Inés 揭发，孩子重新开口「似乎全忘了」——刑罚是无聊的日子",
+   "anchor": "she fears her niece will reveal the truth",
+   "start": 11858,
+   "end": 11899
+  },
+  {
+   "fact": "放贷点子来自 Encarnación 的借款民俗回忆；Cándido 说「淑女做这营生不像话」被父女驳倒",
+   "anchor": "Cándido is skeptical about the venture",
+   "start": 14802,
+   "end": 14840
+  },
+  {
+   "fact": "港口广场被陌生男人搭讪：「不是 Perla 张开腿，是另一个人」——匿名分身术诞生",
+   "anchor": "It’s not Perla who opens her legs for this man, it’s someone else",
+   "start": 19445,
+   "end": 19510
+  },
+  {
+   "fact": "双面人生成型：「好女儿与罪孽的耶洗别」；「世上有两个 Perla」的安全感",
+   "anchor": "No one will ever suspect that there are two Perlas.",
+   "start": 22322,
+   "end": 22373
+  }
+ ]
+}

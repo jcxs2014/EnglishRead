@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch17",
+ "facts": [
+  {
+   "fact": "服丧半生（crespón de luto 依次为兄/妹/母/父）终于等到庆典的颜色；蓝裙是 Inés 赶制的",
+   "anchor": "Color had arrived now.",
+   "start": 670,
+   "end": 692
+  },
+  {
+   "fact": "浴室闲谈：Perla 向丈夫贬侄女「不算 Inclán 也不算淑女」；倒出 Salvador 事件与「童年像哑巴」",
+   "anchor": "She was like a mute, not a word from her.",
+   "start": 11803,
+   "end": 11844
+  },
+  {
+   "fact": "最阴森的台词：「我幻想过用黑线把她的嘴缝上」",
+   "anchor": "“She was always a terror, Inés.",
+   "start": 11732,
+   "end": 11763
+  },
+  {
+   "fact": "闪回一：母亲漫长病亡；她当夏养了固定情人 Plutarco（推销员、常驻客栈）",
+   "anchor": "She takes a steady lover the summer her mother dies.",
+   "start": 13638,
+   "end": 13690
+  },
+  {
+   "fact": "闪回二：Salvador 与 Inés 私情暴露（深夜从其房中抓到）被逐；父亲与 Perla 规训，Inés 失语如石",
+   "anchor": "until one late night she catches the girl coming out of his room.",
+   "start": 16778,
+   "end": 16843
+  },
+  {
+   "fact": "Inés 求借钱去墨西哥城质问 Salvador 被拒；反骂「Azuela 先生就是你的情人」被一巴掌截断，父亲在门外听见",
+   "anchor": "“And you’re a hypocrite! Mr. Azuela is your lover.",
+   "start": 19331,
+   "end": 19381
+  },
+  {
+   "fact": "闪回三：父亲临终握她的手「别离开我身边」；死后收到 Inés 生父的求和信——她开始藏信，第四封报死讯",
+   "anchor": "Then a fourth letter announces the death of Inés’s father",
+   "start": 24464,
+   "end": 24521
+  },
+  {
+   "fact": "闪回四：745-631 号广告诞生（Veracruz 小镇淑女寻教养良好绅士通信交友）；Ulises 来信上钩",
+   "anchor": "A letter arrives from Ulises Linares and it’s polite and polished.",
+   "start": 26984,
+   "end": 27050
+  }
+ ]
+}

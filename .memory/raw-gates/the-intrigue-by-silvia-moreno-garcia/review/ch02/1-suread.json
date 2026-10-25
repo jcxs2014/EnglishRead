@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch02",
+ "facts": [
+  {
+   "fact": "Inés 给偷进厨房的 Nepomuceno 教授拿沙丁鱼、切香肠喂狗，并从上锁柜里倒雪莉酒给他——两人有秘密接济关系",
+   "anchor": "She grabbed a tin of sardines and placed it in his hands",
+   "start": 3932,
+   "end": 3988
+  },
+  {
+   "fact": "花园植物知识伏笔：haba de San Ignacio 籽少量退烧、大量有毒；barbasco 根煮水避孕",
+   "anchor": "the haba de San Ignacio, whose seeds in modest doses could cure a fever and in greater quantities were poisonous",
+   "start": 7408,
+   "end": 7520
+  },
+  {
+   "fact": "面包房 Marisol 转述姐姐的话：新客人长得像 Tyrone Power；全镇都知道 Perla 通过杂志寂寞芳心信箱与墨西哥城男人通信",
+   "anchor": "My sister said your new guest arrived today and he looks like Tyrone Power",
+   "start": 8012,
+   "end": 8086
+  },
+  {
+   "fact": "Cándido Sotomayor（镇律师兼公证人，Perla 求婚者两年）拦住 Inés 收买她打探新房客",
+   "anchor": "“Let me help you, Inés,” he said.",
+   "start": 11085,
+   "end": 11118
+  },
+  {
+   "fact": "Inés 索要报酬：姨妈零花仅每周十比索（实为谎话，她几乎没有零花），Cándido 掏钱买情报",
+   "anchor": "“How much?”",
+   "start": 16087,
+   "end": 16098
+  },
+  {
+   "fact": "Inés 的身世：母亲 Encarnación 在 Puebla 做裁缝、坠楼梯而死，是 Inés 第一个发现的；她此后几周失语",
+   "anchor": "It was Inés who had found her",
+   "start": 21535,
+   "end": 21564
+  },
+  {
+   "fact": "Perla 克扣零花钱是控制手段：若 Inés 攒够钱就能离开 Puerco Ahogado，姨妈绝不容她走",
+   "anchor": "and her aunt had no intention of allowing her to do that",
+   "start": 17451,
+   "end": 17507
+  },
+  {
+   "fact": "Salvador 的绝情信被 Inés 留在雪茄盒底提醒自己「男人皆狗」；她断言不会信任新客人",
+   "anchor": "but she was not going to trust him. Not one bit.",
+   "start": 23676,
+   "end": 23724
+  }
+ ]
+}

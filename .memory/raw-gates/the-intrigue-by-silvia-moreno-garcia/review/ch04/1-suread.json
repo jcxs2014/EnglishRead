@@ -1,0 +1,54 @@
+{
+  "book": "the-intrigue-by-silvia-moreno-garcia",
+  "chapter": "ch04",
+  "facts": [
+    {
+      "fact": "清晨 Ulises 上楼借报纸，看见 Inés 满屋缝纫工具、人台与服装草图（鸽灰色那件正是 Perla 所穿）；Inés 纠正他的称呼——Miss Inclán 是她姨妈，她自己叫 Inés，确认姨母与外甥女关系。",
+      "anchor": "Inés,” she said, cutting him off. “Miss Inclán is my aunt. I’m Inés.”",
+      "start": 3387,
+      "end": 3456
+    },
+    {
+      "fact": "Inés 向 Ulises 预告当晚「全城精英」聚会宾客并逐一画像：姨妈挚友 Sarita Novo（年轻时在巴黎待过两个月逢人便提）、律师 Cándido 与其妹 Lulú、两名警察 Beto 与 Bartolo、军医 Carrel、老小姐 Manuela 与 Eduviges、失眠迟起的 Nepomuceno 教授——众宾客首次出场。",
+      "anchor": "Sarita Novo, my aunt’s best friend. She spent two months in Paris when she was young, and she’ll be sure to remind you of that.",
+      "start": 6240,
+      "end": 6367
+    },
+    {
+      "fact": "宴会上 Ulises 当众谎称职业是人像摄影师（Portraits, that's what I do），自称在城里最好的摄影工作室拍过社交名媛——这是他应对 Cándido 盘问时撒的谎。",
+      "anchor": "“I’m a photographer. Portraits, that’s what I do,” he said.",
+      "start": 12115,
+      "end": 12174
+    },
+    {
+      "fact": "转折点：宾客散后 Ulises 假意上楼、折返到办公室门缝偷听 Cándido 与 Perla 密谈，得知她银行有九万比索存款，随后定计——He needed to get his hands on that money，并视 Cándido 为拦路石、Inés 为麻烦。",
+      "anchor": "he retraced his steps and crept toward the door of the office, carefully opening it a crack so that he might listen with more ease to the conversation taking place inside.",
+      "start": 18770,
+      "end": 18941
+    },
+    {
+      "fact": "对话表态：Cándido 警告 Perla——摄影师等于脖子上挂牌自称「I'm useless and broke」，世上有一类男人专门盯上脆弱的女人。",
+      "anchor": "But really, Perla, a photographer, of all things. That’s the same as tying a sign around your neck that says, ‘I’m useless and broke.’",
+      "start": 18945,
+      "end": 19079
+    },
+    {
+      "fact": "对话表态：Perla 回敬 Cándido——父亲病中是她操持，生意垮后一群骗子秃鹫般扑来，但她 never lost the house，表明自己不是任人拿捏的傻姑娘。",
+      "anchor": "I took care of my father when he was ill. Do you think a dozen rascals and thieves didn’t come around here trying to steal what was ours?",
+      "start": 19484,
+      "end": 19621
+    },
+    {
+      "fact": "关键数字（对话）：Cándido 说出 Perla 的存款——Ninety thousand pesos in the bank. That's a tidy nest egg.",
+      "anchor": "And you did well. Ninety thousand pesos in the bank. That’s a tidy nest egg.",
+      "start": 19791,
+      "end": 19867
+    },
+    {
+      "fact": "数字盘点：Ulises 近来月入至多 two hundred and fifty pesos；墨西哥城最低日薪 two pesos and fifty centavos——九万比索于他是不曾梦想的「真猎物」。",
+      "anchor": "As of late, Ulises was lucky if he made more than two hundred and fifty pesos a month, and he wasn’t the only one in a tough spot. Salaries were frozen in many industries, courtesy of the war efforts and manufacturing support offered to their northern neighbor. Why, the minimum salary in Mexico City was two pesos and fifty centavos a day, which was not enough to maintain any reasonable life.",
+      "start": 20540,
+      "end": 20934
+    }
+  ]
+}

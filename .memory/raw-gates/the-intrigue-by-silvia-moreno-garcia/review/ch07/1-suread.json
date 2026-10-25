@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch07",
+ "facts": [
+  {
+   "fact": "雨停后 Cándido 携玫瑰上门正式求婚（一个月订婚年底完婚），Perla 偏头拒绝",
+   "anchor": "“I wanted to have a serious talk with you.",
+   "start": 2145,
+   "end": 2187
+  },
+  {
+   "fact": "Perla 对两个求婚者都不满：心结是 Norberto Bustillo——她此生唯一爱过、被妹妹夺走的男人",
+   "anchor": "the memory of the one man she’d ever loved and whom her sister had taken from her: Norberto Bustillo",
+   "start": 4754,
+   "end": 4854
+  },
+  {
+   "fact": "Perla 视侄女为兽笼里的动物：归她驱使圈养",
+   "anchor": "the same way a wild animal, a jaguar or a wolf, might be kept in a menagerie",
+   "start": 9720,
+   "end": 9796
+  },
+  {
+   "fact": "闪回：Veracruz 求偶季，Norberto 登场吻手直视；Encarnación 歌声赢得满堂彩",
+   "anchor": "When the applause comes, it is thunderous",
+   "start": 17699,
+   "end": 17740
+  },
+  {
+   "fact": "反转：Norberto 电报求娶的是 Encarnación（父亲促成、为公司合并）",
+   "anchor": "He has decided to ask for Encarnación’s hand in marriage.",
+   "start": 24672,
+   "end": 24729
+  },
+  {
+   "fact": "Encarnación 拒绝替嫁：她爱 Rómulo；周五清晨与 Rómulo 私奔，留信「别找她，原谅她」",
+   "anchor": "Encarnación has run away with Rómulo. Do not look for her. Forgive her.",
+   "start": 28846,
+   "end": 28917
+  },
+  {
+   "fact": "父亲宣告彻底破产：与 Bustillo 公司合并是唯一活路，如今全毁",
+   "anchor": "We’ve lost everything. I’ve borrowed a great deal of money",
+   "start": 30500,
+   "end": 30558
+  },
+  {
+   "fact": "Perla 对 Inés 的产权观：本可把侄女交给 Salvador 打发走，却留下折辱——她属于这个家",
+   "anchor": "although she had humbled the girl, as was her right",
+   "start": 6742,
+   "end": 6793
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "book": "the-intrigue-by-silvia-moreno-garcia",
+ "chapter": "ch21",
+ "facts": [
+  {
+   "fact": "九日悼最后一夜：母亲没跟来的 Bartolo 凑近摊牌「我不信 Cándido 是意外」；露台外 Ulises 目光如刀",
+   "anchor": "“I do not believe Cándido had an accident,” he told her",
+   "start": 376,
+   "end": 431
+  },
+  {
+   "fact": "Bartolo 线索：Lulú 转述 Cándido 死前说「姨妈该了解 Ulises 底细、她丈夫是个骗子」；他猜「殉情自杀」",
+   "anchor": "he said her husband was a phony",
+   "start": 1041,
+   "end": 1072
+  },
+  {
+   "fact": "她顺势编织：一直怀疑两人有私情、求婚被拖、Lulú 是症结——劝他把结论留在「意外」",
+   "anchor": "“If you write ‘suicide’ on a death certificate, it won’t benefit anyone.",
+   "start": 4896,
+   "end": 4968
+  },
+  {
+   "fact": "他夸「你操控得漂亮」，她引以为豪却觉出怪物的寒意；他承认「两个没道德的穷光蛋等一票不来的买卖」",
+   "anchor": "“You’re magnificently manipulative.”",
+   "start": 6379,
+   "end": 6415
+  },
+  {
+   "fact": "Lulú 派 Fito 送来三箱文件：Cándido 的业务笔记；Perla 要找新律师收账",
+   "anchor": "“What have you got there?” Ulises asked him.",
+   "start": 9139,
+   "end": 9183
+  },
+  {
+   "fact": "Perla 解雇 Fito（吃太多玉米饼）、命 Ulises 开车打杂；Nepomuceno 空房将迎新客",
+   "anchor": "“You want me to be your driver?”",
+   "start": 10434,
+   "end": 10466
+  },
+  {
+   "fact": "深夜宣布散伙：「我们俩不擅长杀人」；他要走周日独离——教堂散场后无人察觉",
+   "anchor": "“We’re not good at murder, you and me.",
+   "start": 13064,
+   "end": 13102
+  },
+  {
+   "fact": "她骂他懦夫「活体防腐」；他纠正「我不怕地狱，怕的是穷」；她冷冷「祝你好运」一个字不是真心",
+   "anchor": "“I wish you the best of luck,” she replied coolly, without meaning a single word.",
+   "start": 15410,
+   "end": 15491
+  }
+ ]
+}
