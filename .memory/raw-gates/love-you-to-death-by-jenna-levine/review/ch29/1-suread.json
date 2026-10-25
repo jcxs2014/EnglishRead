@@ -1,0 +1,56 @@
+{
+  "chapter": "ch29",
+  "method": "machine-anchors",
+  "source": "ch29_chapter_twenty_eight.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "It sounds more like wind gusting through trees than words.",
+      "start": 5834,
+      "end": 5892,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“That dress,” he breathes.",
+      "start": 444,
+      "end": 470,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "The outfit is simple but always makes me feel confident.",
+      "start": 557,
+      "end": 613,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“So we’re about to do a bit of jumping.",
+      "start": 1610,
+      "end": 1649,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Here goes nothing,” I say.",
+      "start": 11478,
+      "end": 11505,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Up close I can see the heat in his eyes.",
+      "start": 794,
+      "end": 834,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Basking in it the way I want to will just break my heart.",
+      "start": 996,
+      "end": 1053,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "He presses a kiss to my cheek.",
+      "start": 1056,
+      "end": 1086,
+      "unique_hits": 1
+    }
+  ]
+}

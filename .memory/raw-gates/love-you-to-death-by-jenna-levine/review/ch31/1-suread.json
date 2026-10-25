@@ -1,0 +1,56 @@
+{
+  "chapter": "ch31",
+  "method": "machine-anchors",
+  "source": "ch31_chapter_thirty.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "My sink is full of dishes I should have washed yesterday.",
+      "start": 769,
+      "end": 826,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Only a bed, a table, a chair.",
+      "start": 313,
+      "end": 343,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“It’s not my home,” I say instead.",
+      "start": 278,
+      "end": 312,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“It’s dreadful.” She shudders.",
+      "start": 371,
+      "end": 401,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I could never do anything but.”",
+      "start": 2735,
+      "end": 2767,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I would know even without our bond.",
+      "start": 174,
+      "end": 209,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I can’t believe you live somewhere so sad and empty.”",
+      "start": 402,
+      "end": 456,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "We both know what we’ve lost.",
+      "start": 558,
+      "end": 587,
+      "unique_hits": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapter": "ch28",
+  "method": "machine-anchors",
+  "source": "ch28_chapter_twenty_seven.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "She turns the picture in her hands around so I can see it.",
+      "start": 4013,
+      "end": 4071,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Lucy.” Liam blinks at me in surprise.",
+      "start": 807,
+      "end": 845,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“You didn’t go to bed until two a.m.",
+      "start": 7165,
+      "end": 7201,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Everything’s fine,” I say.",
+      "start": 1124,
+      "end": 1151,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“You can tell me what you need to tell me later.”",
+      "start": 18485,
+      "end": 18534,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "This is too urgent to wait.",
+      "start": 1094,
+      "end": 1121,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Also, I…need to ask her for a huge favor.”",
+      "start": 1349,
+      "end": 1392,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Liam takes it all in stride.",
+      "start": 1395,
+      "end": 1423,
+      "unique_hits": 1
+    }
+  ]
+}

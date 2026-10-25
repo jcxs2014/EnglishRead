@@ -1,0 +1,56 @@
+{
+  "chapter": "ch17",
+  "method": "machine-anchors",
+  "source": "ch17_chapter_sixteen.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "“The rest of the plans for Saturday night are set,” I say.",
+      "start": 3038,
+      "end": 3096,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "It cost a whopping $14.99 online and gets the job done.",
+      "start": 915,
+      "end": 970,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Besides—some of this mess is top secret.”",
+      "start": 584,
+      "end": 625,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "It’s a little small, but whatever.",
+      "start": 880,
+      "end": 914,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I’m wearing it to the bachelorette party Saturday.",
+      "start": 971,
+      "end": 1022,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "What in the actual fuck just happened?",
+      "start": 16060,
+      "end": 16098,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I plunk it on top of my head.",
+      "start": 850,
+      "end": 879,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“One of the world’s great mysteries,” I say.",
+      "start": 1240,
+      "end": 1284,
+      "unique_hits": 1
+    }
+  ]
+}

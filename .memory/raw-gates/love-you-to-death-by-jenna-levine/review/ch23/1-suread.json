@@ -1,0 +1,56 @@
+{
+  "chapter": "ch23",
+  "method": "machine-anchors",
+  "source": "ch23_chapter_twenty_two.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "We did a little extortion, a little not-so-petty thieving.",
+      "start": 8381,
+      "end": 8439,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Then I call Liam and let him know she’s on her way.",
+      "start": 175,
+      "end": 226,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "But neither of us moves a muscle.",
+      "start": 2426,
+      "end": 2459,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Thanks for calling,” he says.",
+      "start": 229,
+      "end": 259,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I showed up at the Agency still wearing it.",
+      "start": 2816,
+      "end": 2859,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Then I will see you tomorrow night.”",
+      "start": 19293,
+      "end": 19330,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Jess didn’t participate in any of the kissing, obviously.",
+      "start": 539,
+      "end": 596,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "And what happens in Nash Vegas stays in Nash Vegas.",
+      "start": 597,
+      "end": 648,
+      "unique_hits": 1
+    }
+  ]
+}

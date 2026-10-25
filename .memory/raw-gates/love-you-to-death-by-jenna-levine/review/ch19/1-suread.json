@@ -1,0 +1,56 @@
+{
+  "chapter": "ch19",
+  "method": "machine-anchors",
+  "source": "ch19_chapter_eighteen.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "I’ve been ghosted by guys before.",
+      "start": 32,
+      "end": 65,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“When it was over, I saw you and your sister walk in here.",
+      "start": 3762,
+      "end": 3820,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "That’s a new one even for me.",
+      "start": 173,
+      "end": 202,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "But it’s been three days since I’ve heard from him.",
+      "start": 473,
+      "end": 524,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I didn’t mean to scare you.”",
+      "start": 2171,
+      "end": 2200,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“But…are you in a lot of trouble with the Agency?",
+      "start": 20550,
+      "end": 20599,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "And then, with a small wave, he disappears.",
+      "start": 21217,
+      "end": 21260,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "It had all seemed so genuine.",
+      "start": 441,
+      "end": 470,
+      "unique_hits": 1
+    }
+  ]
+}

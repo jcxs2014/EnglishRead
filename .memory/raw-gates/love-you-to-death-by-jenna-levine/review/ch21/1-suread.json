@@ -1,0 +1,56 @@
+{
+  "chapter": "ch21",
+  "method": "machine-anchors",
+  "source": "ch21_chapter_twenty.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "Being the only sober one in our group will be interesting.",
+      "start": 1587,
+      "end": 1645,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "She’s so happy she’s glowing.",
+      "start": 858,
+      "end": 887,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Because of this, we make very slow progress.",
+      "start": 3606,
+      "end": 3650,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I’ll be steering from the front.”",
+      "start": 2529,
+      "end": 2563,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Goodnight,” he mouths to me.",
+      "start": 19706,
+      "end": 19735,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I need to be completely sober for that.",
+      "start": 1775,
+      "end": 1814,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "That’s a truth I can’t share with the other girls.",
+      "start": 1925,
+      "end": 1975,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "He gestures to the steering wheel.",
+      "start": 2494,
+      "end": 2528,
+      "unique_hits": 1
+    }
+  ]
+}

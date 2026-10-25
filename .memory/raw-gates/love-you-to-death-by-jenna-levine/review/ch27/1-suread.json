@@ -1,0 +1,56 @@
+{
+  "chapter": "ch27",
+  "method": "machine-anchors",
+  "source": "ch27_chapter_twenty_six.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "As long as the originals exist, you will die in four days.",
+      "start": 9402,
+      "end": 9460,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Lucy McKenzie—Observation Notes #5",
+      "start": 15264,
+      "end": 15298,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "One look at his face and all my senses are on high alert.",
+      "start": 119,
+      "end": 176,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“But…but I thought we had a deal.”",
+      "start": 1508,
+      "end": 1542,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“It’s about me, isn’t it?” I ask.",
+      "start": 632,
+      "end": 665,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "It’s what I signed with the Agency, only it isn’t.",
+      "start": 1674,
+      "end": 1724,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I lean forward and cup his face in my hands.",
+      "start": 19149,
+      "end": 19193,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "He looks like he’s seen a ghost.",
+      "start": 202,
+      "end": 234,
+      "unique_hits": 1
+    }
+  ]
+}

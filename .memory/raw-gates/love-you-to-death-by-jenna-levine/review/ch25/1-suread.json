@@ -1,0 +1,56 @@
+{
+  "chapter": "ch25",
+  "method": "machine-anchors",
+  "source": "ch25_chapter_twenty_four.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "A moment later, we’re in my bedroom.",
+      "start": 35,
+      "end": 71,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "A dribble leaks out, and I swirl my tongue around his tip.",
+      "start": 7485,
+      "end": 7543,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Are you sure this is okay?” I ask again.",
+      "start": 371,
+      "end": 412,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "But my mind is splintering.",
+      "start": 2792,
+      "end": 2819,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“More than okay.” He can’t seem to hold still.",
+      "start": 415,
+      "end": 461,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "What does this mean for Daniel at the Agency?",
+      "start": 11587,
+      "end": 11632,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "He doesn’t say he’ll be with me after the end, of course.",
+      "start": 13679,
+      "end": 13736,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "We topple together onto the bed in a tangle of limbs.",
+      "start": 209,
+      "end": 262,
+      "unique_hits": 1
+    }
+  ]
+}

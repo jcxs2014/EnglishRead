@@ -78,7 +78,7 @@ modified: "2026-10-24"
 | intermittent | 时断时续的 | She was the one who got the part-time job to supplement our mom’s intermittent wages. |
 | supplement | 补贴；补充 | She was the one who got the part-time job to supplement our mom’s intermittent wages. |
 | manageable | 能应付的；可控制的 | For now, I try to wrangle my guilt into something smaller and more manageable. |
-| monogrammed | （绣有）花体字母缩写的 | There’s a stack of cloth napkins monogrammed with Professor Shiran’s initials on the next table. |
+| monogrammed | （绣有）花体字母缩写的 | There’s a stack of cloth napkins monogrammed with Professor Shiran’s initials on the next table; I wrap my hand in one of them and pick up the card like it’s a grenade. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

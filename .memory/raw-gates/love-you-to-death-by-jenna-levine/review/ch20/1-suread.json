@@ -1,0 +1,56 @@
+{
+  "chapter": "ch20",
+  "method": "machine-anchors",
+  "source": "ch20_chapter_nineteen.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "Lucy’s signal comes just as I’m finishing up with Mr.",
+      "start": 34,
+      "end": 87,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "She seems genuinely upset, though I don’t understand why.",
+      "start": 5036,
+      "end": 5093,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "The oldest souls I collect usually come without a fight.",
+      "start": 168,
+      "end": 224,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "There’s nothing in it but the essentials.” I shrug.",
+      "start": 4287,
+      "end": 4338,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“It’s the Stuff-A-Bear store.”",
+      "start": 1747,
+      "end": 1777,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I can’t bring myself to read it yet.",
+      "start": 8183,
+      "end": 8219,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Anderson was no exception.",
+      "start": 243,
+      "end": 269,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "According to the file I was given this morning, he will.",
+      "start": 437,
+      "end": 493,
+      "unique_hits": 1
+    }
+  ]
+}

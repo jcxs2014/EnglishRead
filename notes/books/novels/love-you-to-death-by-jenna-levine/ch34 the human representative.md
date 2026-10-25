@@ -62,7 +62,7 @@ modified: "2026-10-24"
 
 **关键词**：Or is my sanity going / made good on their promise / That’s as far as I get（还是我疯了、兑现了承诺、我还没来得及说什么）
 
-**为什么这样写**：「改造成功」被写成三段递进的短句，每段都比上一段更短：“It worked.”／“The Agency made good on their promise.”／“And it worked.”——同一个事实说三遍，第三遍几乎只剩一个词，像一个人反复确认，直到自己敢信。而他身上那件没见过的 T 恤和那条牛仔裤，把一件超自然的事拽回日常衣着上。
+**为什么这样写**：「改造成功」被写成三段递进的短句，每段都比上一段更短：“It worked.”／“The Agency made good on their promise.”／“And it worked.”——同一个事实说三遍，第三遍只剩三个词，像一个人反复确认，直到自己敢信。而他身上那件没见过的 T 恤和那条牛仔裤，把一件超自然的事拽回日常衣着上。
 
 **读者视角提示**：认出他的方式很特别——先来的是一段声音，然后才是人；作者让他以声音先进场，读者跟着她一起愣了半拍，才看见那张脸。
 > **原句 7:** "“I know I’m no longer a Reaper. My heart beats. My eyes are no longer the silver-blue they once were. And you and I no longer share a bond.” … “In fact, I don’t quite know exactly what I am.” He scans my face. “Will that be a problem?” … “Because I know exactly what you are. You’re mine.” … “Yours,” he agrees as he kisses me back. “Always.”"

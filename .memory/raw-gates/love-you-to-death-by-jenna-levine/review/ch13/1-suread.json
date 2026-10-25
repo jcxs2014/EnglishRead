@@ -1,0 +1,56 @@
+{
+  "chapter": "ch13",
+  "method": "machine-anchors",
+  "source": "ch13_chapter_twelve.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "And you flew out the door as soon as he left.” She shrugs.",
+      "start": 3674,
+      "end": 3732,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Should I keep my soul-sucking job for eight more weeks?",
+      "start": 127,
+      "end": 182,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "But in the end, Jess wins out.",
+      "start": 903,
+      "end": 933,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“It’s a dilemma,” I tell Wilfred as I brush my teeth.",
+      "start": 259,
+      "end": 312,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "He drags a hand through his hair.",
+      "start": 13490,
+      "end": 13523,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "The centerpieces I make could be even more ambitious.",
+      "start": 489,
+      "end": 542,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I’ve repaid them by being unreliable from day one.",
+      "start": 774,
+      "end": 824,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I’ve made at least six cappuccinos this morning.",
+      "start": 1183,
+      "end": 1232,
+      "unique_hits": 1
+    }
+  ]
+}

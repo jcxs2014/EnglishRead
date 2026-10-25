@@ -1,0 +1,56 @@
+{
+  "chapter": "ch24",
+  "method": "machine-anchors",
+  "source": "ch24_chapter_twenty_three.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "“I thought at first of taking you somewhere more exciting.",
+      "start": 3685,
+      "end": 3743,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Are you ready?” He sounds eager and a bit nervous.",
+      "start": 122,
+      "end": 173,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "When I open my eyes, I realize it’s dark outside.",
+      "start": 2433,
+      "end": 2482,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I’m ready,” I confirm, grabbing my purse.",
+      "start": 1062,
+      "end": 1104,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“You don’t mean the Crescent City Hotel, do you?”",
+      "start": 4650,
+      "end": 4699,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I nip at the tip of his nose.",
+      "start": 29375,
+      "end": 29404,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I’m not sure why Daniel doesn’t see this.",
+      "start": 687,
+      "end": 728,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "So I guess I’m going along with this after all.",
+      "start": 947,
+      "end": 994,
+      "unique_hits": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapter": "ch11",
+  "method": "machine-anchors",
+  "source": "ch11_chapter_ten.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "There can be no other way to describe what I’m looking at.",
+      "start": 2904,
+      "end": 2962,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Mornings are rough under normal circumstances.",
+      "start": 119,
+      "end": 165,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I wouldn’t know, but it’s how I’m feeling right now.",
+      "start": 386,
+      "end": 438,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Oh my god!” Katie shrieks.",
+      "start": 3110,
+      "end": 3137,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I’m here on Agency business,” he explains.",
+      "start": 16112,
+      "end": 16155,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“What on earth are those?”",
+      "start": 25293,
+      "end": 25319,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Then again, he’s a Grim Reaper.",
+      "start": 1089,
+      "end": 1120,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Jess isn’t here yet, to my surprise.",
+      "start": 1361,
+      "end": 1397,
+      "unique_hits": 1
+    }
+  ]
+}

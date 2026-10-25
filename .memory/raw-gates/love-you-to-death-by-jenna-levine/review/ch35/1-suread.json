@@ -1,0 +1,56 @@
+{
+  "chapter": "ch35",
+  "method": "machine-anchors",
+  "source": "ch35_epilogue.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "“Aside from you being the hottest person here, of course.”",
+      "start": 7995,
+      "end": 8053,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "It bothers Daniel more than he lets on.",
+      "start": 1515,
+      "end": 1554,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“We don’t need to be at the venue until two o’clock.”",
+      "start": 1110,
+      "end": 1163,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“No.” He kisses my forehead, then the tip of my nose.",
+      "start": 822,
+      "end": 875,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "In the end, though…it was worth it.",
+      "start": 15891,
+      "end": 15926,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I found more gray hairs today.”",
+      "start": 1574,
+      "end": 1606,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Normal for a human in his thirties, right?”",
+      "start": 1671,
+      "end": 1714,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "And your needing to shave.”",
+      "start": 1803,
+      "end": 1830,
+      "unique_hits": 1
+    }
+  ]
+}

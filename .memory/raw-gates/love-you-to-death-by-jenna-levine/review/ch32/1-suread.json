@@ -1,0 +1,56 @@
+{
+  "chapter": "ch32",
+  "method": "machine-anchors",
+  "source": "ch32_chapter_thirty_one.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "But can you please just tell me why you wanted to see me?”",
+      "start": 2644,
+      "end": 2702,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“How long did I sleep for?” I ask.",
+      "start": 425,
+      "end": 459,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“But you should read this.”",
+      "start": 964,
+      "end": 991,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Summoned?” My heart crashes wildly against my rib cage.",
+      "start": 757,
+      "end": 813,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I’ll be the Agency’s first Human Relations Consultant.”",
+      "start": 9514,
+      "end": 9570,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Right now, though, we have each other.",
+      "start": 14774,
+      "end": 14812,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I thought I still had a few more days.”",
+      "start": 822,
+      "end": 862,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“What does it say?” I ask.",
+      "start": 1174,
+      "end": 1200,
+      "unique_hits": 1
+    }
+  ]
+}

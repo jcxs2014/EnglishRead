@@ -1,0 +1,56 @@
+{
+  "chapter": "ch34",
+  "method": "machine-anchors",
+  "source": "ch34_chapter_thirty_three.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "Sleep is elusive after Daniel returns to the Agency.",
+      "start": 36,
+      "end": 88,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Jess takes in how we’re gazing at each other and snickers.",
+      "start": 9789,
+      "end": 9847,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Salary: $10,000 per visit, plus commuting expenses",
+      "start": 2143,
+      "end": 2193,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "That ability wasn’t included in my new job perks.",
+      "start": 548,
+      "end": 597,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I might not have a degree, but you know what?",
+      "start": 1553,
+      "end": 1598,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Your sister said you were on your way,” she explains.",
+      "start": 3766,
+      "end": 3820,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "The Agency made good on their promise.",
+      "start": 8955,
+      "end": 8993,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Yours,” he agrees as he kisses me back.",
+      "start": 15190,
+      "end": 15230,
+      "unique_hits": 1
+    }
+  ]
+}

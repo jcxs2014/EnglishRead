@@ -1,0 +1,56 @@
+{
+  "chapter": "ch05",
+  "method": "machine-anchors",
+  "source": "ch05_chapter_four.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "Each second is both instantaneous and eternal.",
+      "start": 28,
+      "end": 74,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "But I just fight it harder, like everything depends on it.",
+      "start": 2046,
+      "end": 2104,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "All I know for certain is the pain.",
+      "start": 151,
+      "end": 186,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "But now there is a face, hovering just above mine.",
+      "start": 840,
+      "end": 890,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "That’s all the time they need.",
+      "start": 2962,
+      "end": 2992,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I am lying down in the middle of a street.",
+      "start": 467,
+      "end": 509,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Other hands—strong hands—lift me.",
+      "start": 647,
+      "end": 680,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Strapped down to something hard.",
+      "start": 755,
+      "end": 787,
+      "unique_hits": 1
+    }
+  ]
+}

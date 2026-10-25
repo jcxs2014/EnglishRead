@@ -1,0 +1,56 @@
+{
+  "chapter": "ch22",
+  "method": "machine-anchors",
+  "source": "ch22_chapter_twenty_one.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "Which, admittedly, isn’t much, given the circumstances.",
+      "start": 2283,
+      "end": 2338,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Friend?” The voice sounds curious, if confused.",
+      "start": 245,
+      "end": 293,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I didn’t answer the question because I couldn’t.",
+      "start": 1281,
+      "end": 1329,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Fair enough,” another voice says tentatively.",
+      "start": 449,
+      "end": 495,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I enter my room and slam the door shut behind me.",
+      "start": 2865,
+      "end": 2914,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "The third observer clears his throat.",
+      "start": 505,
+      "end": 542,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“We were just wondering what—”",
+      "start": 543,
+      "end": 573,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I reach up and—yes, sure enough, there it is.",
+      "start": 2030,
+      "end": 2075,
+      "unique_hits": 1
+    }
+  ]
+}

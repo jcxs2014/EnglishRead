@@ -1,0 +1,56 @@
+{
+  "chapter": "ch18",
+  "method": "machine-anchors",
+  "source": "ch18_chapter_seventeen.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "As far as I know, though, this rule never has been broken.",
+      "start": 3750,
+      "end": 3808,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I already know what Rule 417 says.",
+      "start": 3355,
+      "end": 3389,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "The Agency recalled me while on assignment.",
+      "start": 779,
+      "end": 822,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "But I hadn’t been in my right mind.",
+      "start": 1190,
+      "end": 1225,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Um,” I say noncommittally instead.",
+      "start": 1815,
+      "end": 1850,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“It will not happen again,” I assure him.",
+      "start": 6706,
+      "end": 6747,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I shoot it the middle finger when its back is turned.",
+      "start": 623,
+      "end": 676,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "If I’d done that, I’d still be with her.",
+      "start": 1147,
+      "end": 1187,
+      "unique_hits": 1
+    }
+  ]
+}

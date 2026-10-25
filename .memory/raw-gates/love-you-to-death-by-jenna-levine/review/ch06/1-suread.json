@@ -1,0 +1,56 @@
+{
+  "chapter": "ch06",
+  "method": "machine-anchors",
+  "source": "ch06_chapter_five.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "The pain stops like a switch has been flipped.",
+      "start": 28,
+      "end": 74,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "He’s watching me like he’s been waiting for me to wake up.",
+      "start": 1157,
+      "end": 1215,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Age: 28 years, 1 month, 3 days",
+      "start": 3501,
+      "end": 3531,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "The soft surface I’m lying on doesn’t feel like my bed.",
+      "start": 89,
+      "end": 144,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "But what he’s saying is impossible.",
+      "start": 5078,
+      "end": 5113,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“What did you do to me?” I croak.",
+      "start": 1753,
+      "end": 1786,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I’m coming!” Daniel roars over his shoulder.",
+      "start": 15858,
+      "end": 15903,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "My head feels stuffed with cotton.",
+      "start": 301,
+      "end": 335,
+      "unique_hits": 1
+    }
+  ]
+}

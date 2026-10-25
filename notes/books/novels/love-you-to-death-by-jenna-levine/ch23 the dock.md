@@ -41,7 +41,7 @@ modified: "2026-10-24"
 > **原句 5:** "“Indirectly. We were usually so careful, even in situations where violence couldn’t be avoided. But at the very end, a job went…sideways.” … “Nobody else was supposed to be at that dock when those explosives went off. I wasn’t supposed to be there, either."
 **中文理解**：“间接地。”……“我们一向很小心，哪怕有些场面躲不开暴力。可到最后，有一票活儿出了……岔子。”……“那批炸药炸开的时候，码头上本不该有别人。我本来也不该在那儿。”
 **关键词**：a job went…sideways / supposed to be at that dock / wasn't supposed to be there（一票活儿出了岔子、码头上本不该有别人、他本来也不该在那儿）
-**为什么这样写**：三个动词把这块钉住：“went…sideways”（出了岔子）、“went off”（炸开）、“supposed to be”（本不该）——“本不该”在同一段里说了两次，作者用语法上的“应该”去写一个人命不该出现在现场的事实。而开场那个孤零零的“Indirectly”（间接地）只有两个词：他把答案压到最短，却不肯展开过程。
+**为什么这样写**：三个动词把这块钉住：“went…sideways”（出了岔子）、“went off”（炸开）、“supposed to be”（本不该）——“本不该”在同一段里说了两次，作者用语法上的“应该”去写一个人命不该出现在现场的事实。而开场那个孤零零的“Indirectly”（间接地）只有一个词：他把答案压到最短，却不肯展开过程。
 **读者视角提示**：炸药、码头、两个“本不该”——他把自己写成了那一晚唯一的意外，而爆炸本身是有人谋划的。
 
 > **原句 6:** "But Nicholas, my partner and the man whose idea this job had been in the first place, either planned the job badly or set me up. I paid for it with my life.” … “Three. All adults at least, thank the Fates. They were brothers—innocent men—meant to travel east on a different ship. Nicholas promised me we would be alone."

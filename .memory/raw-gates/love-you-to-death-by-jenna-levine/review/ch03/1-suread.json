@@ -1,0 +1,56 @@
+{
+  "chapter": "ch03",
+  "method": "machine-anchors",
+  "source": "ch03_chapter_two.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "It’s as plain as the disappearing ink on this notecard.",
+      "start": 84,
+      "end": 139,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "They can take fingerprints, or do forensics, or something.",
+      "start": 485,
+      "end": 543,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "They’ll think I’m unhinged.",
+      "start": 1748,
+      "end": 1775,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Listen, that bus comes out of nowhere.",
+      "start": 4288,
+      "end": 4326,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "My name, the date, and my exact freaking age were there.",
+      "start": 140,
+      "end": 196,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I knew there was something off about him.",
+      "start": 344,
+      "end": 385,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I have to take this notecard to the police.",
+      "start": 441,
+      "end": 484,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "My eyes must be playing tricks on me.",
+      "start": 1086,
+      "end": 1123,
+      "unique_hits": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "chapter": "ch30",
+  "method": "machine-anchors",
+  "source": "ch30_chapter_twenty_nine.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "Of course, the Executives are definitely not expecting me.",
+      "start": 2255,
+      "end": 2313,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Context clues, though, suggest it’s not happy to see us.",
+      "start": 297,
+      "end": 353,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "But so is this situation.”",
+      "start": 1696,
+      "end": 1722,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Yes, I am supposed to be here,” Daniel insists.",
+      "start": 356,
+      "end": 404,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Even in the waiting room of the Executive Suite.",
+      "start": 3061,
+      "end": 3109,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "My lips are pressed to his cheek.",
+      "start": 16793,
+      "end": 16826,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I have no idea what this creature is saying.",
+      "start": 252,
+      "end": 296,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“They are expecting me.” A lie, of course.",
+      "start": 405,
+      "end": 447,
+      "unique_hits": 1
+    }
+  ]
+}

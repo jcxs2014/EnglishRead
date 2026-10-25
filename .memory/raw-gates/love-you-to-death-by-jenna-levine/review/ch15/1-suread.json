@@ -1,0 +1,56 @@
+{
+  "chapter": "ch15",
+  "method": "machine-anchors",
+  "source": "ch15_chapter_fourteen.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "How does Lucy McKenzie find the Agency’s customer service?",
+      "start": 1394,
+      "end": 1452,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Lucy McKenzie—Observation Notes #3",
+      "start": 1357,
+      "end": 1391,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Oh,” the Chief People Officer says, sounding surprised.",
+      "start": 1020,
+      "end": 1076,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“And to mine,” the Head of Inhuman Resources chimes in.",
+      "start": 2897,
+      "end": 2952,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Lucy’s presence fades from my mind like mist on the wind.",
+      "start": 6476,
+      "end": 6533,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I’m in poor enough standing as it is.",
+      "start": 174,
+      "end": 211,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I saw it in her glassy, unfocused eyes.",
+      "start": 365,
+      "end": 404,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I can’t remember the last time I was this confused.",
+      "start": 813,
+      "end": 864,
+      "unique_hits": 1
+    }
+  ]
+}

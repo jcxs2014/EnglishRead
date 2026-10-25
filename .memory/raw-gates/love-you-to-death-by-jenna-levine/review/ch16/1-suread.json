@@ -1,0 +1,56 @@
+{
+  "chapter": "ch16",
+  "method": "machine-anchors",
+  "source": "ch16_chapter_fifteen.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "“Organizing all this into different piles based on color.”",
+      "start": 4488,
+      "end": 4546,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Can you go to Hell for ogling a Grim Reaper?",
+      "start": 708,
+      "end": 752,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I’m guessing not, but it still feels wrong.",
+      "start": 753,
+      "end": 796,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“You said you were making party favors,” he reminds me.",
+      "start": 1293,
+      "end": 1348,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“Yes!” I chirp even as my heart rate triples.",
+      "start": 18857,
+      "end": 18902,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Though I’m probably just splitting hairs.",
+      "start": 974,
+      "end": 1015,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "This is the only way I had time for him today.",
+      "start": 1424,
+      "end": 1470,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I’m still stunned he agreed to it so easily.",
+      "start": 1471,
+      "end": 1515,
+      "unique_hits": 1
+    }
+  ]
+}

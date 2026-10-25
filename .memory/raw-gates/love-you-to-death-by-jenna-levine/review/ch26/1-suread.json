@@ -1,0 +1,56 @@
+{
+  "chapter": "ch26",
+  "method": "machine-anchors",
+  "source": "ch26_chapter_twenty_five.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "“I was told to report here this afternoon at one o’clock.”",
+      "start": 332,
+      "end": 390,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Formerly granted to Lucy McKenzie, Age 28",
+      "start": 4894,
+      "end": 4935,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Here you are.” It fixes me again with its uncanny stare.",
+      "start": 482,
+      "end": 538,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“But she has provided useful information.",
+      "start": 6685,
+      "end": 6726,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“I’m afraid they are running behind.",
+      "start": 539,
+      "end": 575,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I barely even remember the walk back to my own room.",
+      "start": 8857,
+      "end": 8909,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "It has kept them in meetings all day.”",
+      "start": 636,
+      "end": 674,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "What even is Accounts Receivable?",
+      "start": 757,
+      "end": 790,
+      "unique_hits": 1
+    }
+  ]
+}

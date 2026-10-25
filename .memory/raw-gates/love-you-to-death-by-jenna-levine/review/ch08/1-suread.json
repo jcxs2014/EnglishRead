@@ -1,0 +1,56 @@
+{
+  "chapter": "ch08",
+  "method": "machine-anchors",
+  "source": "ch08_chapter_seven.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "There’s no way to mark the passage of time here.",
+      "start": 29,
+      "end": 77,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I wish I could text my sister and ask her how to fix this.",
+      "start": 394,
+      "end": 452,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "My phone is frozen at 8:44 p.m.",
+      "start": 128,
+      "end": 159,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "There’s no window I can look out of and no clock.",
+      "start": 78,
+      "end": 127,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Tread carefully, but do not dawdle.",
+      "start": 1757,
+      "end": 1792,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“What the fuck are you doing out here?”",
+      "start": 4798,
+      "end": 4837,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "“You have information the Agency wants.”",
+      "start": 8654,
+      "end": 8694,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "And then, once again, there is nothing.",
+      "start": 12961,
+      "end": 13000,
+      "unique_hits": 1
+    }
+  ]
+}

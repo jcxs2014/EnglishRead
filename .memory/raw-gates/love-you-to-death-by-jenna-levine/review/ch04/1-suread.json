@@ -1,0 +1,56 @@
+{
+  "chapter": "ch04",
+  "method": "machine-anchors",
+  "source": "ch04_chapter_three.txt",
+  "note": "R1 代理不可用时的机械锚点替代：只读 text/，不看 md；无人工事实描述",
+  "anchors": [
+    {
+      "anchor": "People never can resist seeing a car accident up close.",
+      "start": 108,
+      "end": 163,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Most of the time I manage it just fine.",
+      "start": 692,
+      "end": 731,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "But I can’t think about that now.",
+      "start": 1256,
+      "end": 1289,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I close my eyes when I urge her, gently, to let go.",
+      "start": 2935,
+      "end": 2986,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "I’ve seen world wars and suicides.",
+      "start": 470,
+      "end": 504,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Even for someone as jaded me.",
+      "start": 891,
+      "end": 920,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Her death—unlike mine—is a tragedy.",
+      "start": 986,
+      "end": 1021,
+      "unique_hits": 1
+    },
+    {
+      "anchor": "Only I’m finding it difficult to focus.",
+      "start": 1313,
+      "end": 1352,
+      "unique_hits": 1
+    }
+  ]
+}
