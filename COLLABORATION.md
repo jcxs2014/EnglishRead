@@ -84,6 +84,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 教训三条：①子代理起草 6 派 4 未交付，ch10–ch13 全部改主会话自写；②引语带 `…` 必致 order 判「不可判定」，本书引语一律同段连续；③人称 / 音译 / 片名三类实体不一致 lane 全绿也抓不到（本轮 6 条），只能全书平扫。
 - 逐行细节见工作日志 2026-10-25「Monstrous Bitch」节。commit 15 个，**未 push（待指令）**。
 
+- **《Monstrous Bitch》（monstrous-bitch-by-eleanor-johnson）T3 深审（同会话，用户点名，~250 min，13 章全量 R1→R4，无「未审」章）**：阻断 **3** / 提示 **10** / 漏 0 / 编 0。
+- 阻断三条：① ch02:49 施受反转——「父权必须把女性最惧怕的东西……化为怪物形态」，原文是父权所惧；② ch02 核心术语 `Monstrous Bitch` 8 处作「怪物女性」，全书其余 12 章与总览统一「怪物母狗」；③ ch12 片名 `Werewolf Woman` 作「狼人女尸」，ch10 四处作「狼人女巫」。
+- 提示 10 条：Romanitas／「古巴比伦」与「旧巴比伦」并用／`proto-` 吞字／ch03 块 13 越界／ch04「唯一来自东方」／ch05 Lex Julia 写宽／ch06 `cunning`／ch06 `womb`×3／ch10「电击式催眠」／ch13 块 3 越界（ch09「怪物女人」经核为原文 `monstrous woman` 另一词，建议不改）。
+- **修复状态：未改稿**——按口径只出指令，3 条阻断与 9 条可改提示已写成「改前一行 → 改后一行」，等授权执行。
+- 机器层复跑（`review/run.sh`）：gate rc=0 · overview quotes/full/labels 三门 rc=0 · verbatim `--full` **244/244** · order 13 md/184 块 0 缺陷 · corpus PASS · 省略号块 0。
+- 产物：每章 `review/chNN/{1-suread,2-machine,3-diff,4-verdict}` ×13＝**52 件**；`2026-10-25-T3深审汇总判定.md`；`2026-10-25-复核与修复指令.md`。commit `6ee703957`。
+- 工具侧：`verify_corpus.py --anchors` 对单作者专论体裁误判（FAIL 67，人名跨章复现）；文档冲突——审查表 §0 记「同会话（深审）」、新书启动模板写「异会话」，本次按审查表。
+- 逐行细节见工作日志 2026-10-25「Monstrous Bitch」节。
+
 ### [2026-10-25 09:30 UTC] [ZCode-Mac] → All
 
 **《The Intrigue》（the-intrigue-by-silvia-moreno-garcia · Silvia Moreno-Garcia，Del Rey 2026，mystery-thriller 精简格式）全书完工。**
@@ -128,6 +137,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - commit：25 个（口径＝书目录 + 本书 raw-gates + 本书注入器），本地未 push
 - 日志：见 .memory/daily/2026-10-25.md「Love You to Death」节
 - 工具坑（如实记）：scripts/gen_overview.py 在本书误报「ch23#1 不在 text/」并中止（rc=2）——改占位符／换语料件内容／换命名形态，报错一律不变 ⇒ 报错键与被查对象无关；已用 .memory/tools/overview_inject.py（fail-closed）替代，验收仍以 overview.py 三门禁为准；同主题另发【工具盲区·总览生成】条
+
+**覆盖**：35 章四件套（1-suread / 2-machine / 3-diff / 4-verdict）全数落盘；R2 机器层 35/35 verdict=ok；`gate.sh` rc=0（0 阻断型）；`chapter.sh` 35/35 rc=0；`overview.py quotes/full/labels` 三门禁 rc=0。
+**四组计数**：逐字＝章节层 280/280 块 ＋ 总览 180 处引文块 / 1467 个句级片段 全量命中，查无 0（另词汇层 876 词条锚定 0 查无、862 条例句逐字 0 查无）；对应＝阻断 0 · 提示 72；形态＝阻断 0；断言＝阻断 8。**全书阻断合计 9 条，全部已修并复验**。
+**章内 9 条阻断**：词数断言 4（ch13「sad little」实为四词／ch20 末句实为四词／ch23「Indirectly」实为一词／ch34「And it worked.」实为三词）＋ 跨章与指代 4（ch01「the three of us」漏 tell／ch01 引全书无此句／ch02「全书第一句」／ch02「读者还没见到死神」）＋ 词汇例句逐字 1（ch03 分号改句号并截断）。
+**另记 1 条审查工件缺陷**：ch07 的 `1-suread.json` 代理把 Lucy 的妹妹写成姐姐 —— md 写的是对的，不修 md，留档。
+**R1 双轨**：7 章独立代理素读 ＋ 28 章机械锚点（`t3_suread_mech.py`，只吃 `text/` 不看 md，件内 `method: machine-anchors` 可区分）。代理基础设施 11 次派工仅 2 次成功，3 种形态均断在「读原文」那一步，与任务难度无关。
+**工具盲区 3 类已订正（改工具不改内容）**：① 总览旧工具的引号分支在前 ⇒ 外层整块引文从未被提取（315 块只核 175 处），且「回退配对」把译述句里的短引用错配到上一段章号 ⇒ 新写 `t3_quote_verbatim.py`（栈式配对＋紧邻标签＋句级切片）；② 导航数字探针拿中文数字查英文原文必然假红 270 条，中文数字转换还把「一百三十五」算成 235 ⇒ 改中文数字→英文数词双路锚定；③ 词数探针「就近英文串」配对把「粗口只有两个词」错挂到紧邻句 ⇒ 改取断言前最近引号对象、无引号对象只报「指代歧义」不判阻断。
+**提请裁决**：T1 六类预筛抓不到本轮全部 9 条，建议新增第 ⑦ 类「计数与指代类断言」（词数 / 跨章全称 / 不实引语 / 词汇例句逐字 / 全称量词）—— 未擅自改规则。
+**汇总判定**：`.memory/raw-gates/love-you-to-death-by-jenna-levine/review/2026-10-25-T3深审汇总判定.md`；工作日志见 `.memory/daily/2026-10-25.md`「Love You to Death · T3 深审」节。
+**提交**：`d62a9bf65` ＋ `ea391f56d`（均为本地提交，未 push）。
 
 ### [2026-10-24 22:08 UTC] [DSH-Mac] → All
 
