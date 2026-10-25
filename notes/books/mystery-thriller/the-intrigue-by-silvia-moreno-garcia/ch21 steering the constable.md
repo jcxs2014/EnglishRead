@@ -115,7 +115,7 @@ modified: "2026-10-24"
 | indelicate | 失礼的、不体贴的 | “Anything you say is confidential. It’s a police matter, but I won’t be indelicate,” he said, sounding both self-important and silly. |
 | banality | 平庸、乏味 | they both felt oppressed, not by the memory of the murder but by the banality of their days: nothing had truly been altered. |
 | meager | 微薄的、贫乏的 | The fierce blow had been to the head, but it seemed Bartolo’s knowledge of forensics was meager. |
-| somber-词位检查 | — | — |
+| somber | 阴沉的、神色凝重 | In the aftermath of the novenario, he looked somber, as if he were a man weighed down by onerous debts. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

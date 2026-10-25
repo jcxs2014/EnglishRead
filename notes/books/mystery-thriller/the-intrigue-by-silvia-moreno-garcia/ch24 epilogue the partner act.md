@@ -122,7 +122,7 @@ modified: "2026-10-24"
 |---|---|---|
 | chocolatier | 巧克力店、巧克力匠 | even though his cousin had written down the directions to the chocolatier with neat penmanship. |
 | awning | 雨棚、凉篷 | He stood under an awning, shrinking back, hiding from the rain. |
-| veil | 面纱 | The town was white, with the whiteness of a bride’s veil. |
+| fur stole | 皮草披肩 | he had never seen Inés in clothes that fit her so tightly, or in a dress of a vivid, astounding red that, paired with a fur stole, gave her the air of a movie star. |
 | booth | （餐厅）卡座 | where, tucked in a cozy booth with a grand mirror behind it, there sat a woman in a red dress drinking a martini. |
 | molasses | 糖蜜、甜腻话（喻） | “Pour some molasses on it, won’t you?” |
 

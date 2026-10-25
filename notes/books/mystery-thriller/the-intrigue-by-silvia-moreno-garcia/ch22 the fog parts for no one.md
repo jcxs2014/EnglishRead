@@ -17,7 +17,7 @@ modified: "2026-10-24"
 > **原句 1:** "He did not have that many things to pack, and he had folded most of his clothes and set them aside the previous night."
 
 **中文理解**：他没什么好收拾的，大部分衣服头天晚上就叠好搁在了一边。
-**关键词**：packed / previous night
+**关键词**：folded / clothes / night
 **为什么这样写**：逃亡的冷启动从「没多少东西」开始——他此生的全部家当装不满两只箱子；「前一夜就叠好」暴露预谋已久：教堂散场的时间表他早背熟了。
 **读者视角提示**：与 ch01 初来时「一只手提箱」对读——绕了一大圈，他的行李回到原点，只是箱衬里多了两千比索。
 
