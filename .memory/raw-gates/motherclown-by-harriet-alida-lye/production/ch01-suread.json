@@ -1,0 +1,55 @@
+{
+ "book": "motherclown-by-harriet-alida-lye",
+ "chapter": "ch01",
+ "text": "notes/books/novels/motherclown-by-harriet-alida-lye/text/ch01_prologue.txt",
+ "facts": [
+  {
+   "fact": "开篇是一场梦：Catherine 终于对丈夫说出「她已经不爱他了」，还说她要走、她真的要走；说出这句话带来的自由感像梦里的高潮，正当她要越过那道浪头时睁开了眼。",
+   "anchor": "Catherine woke up from a dream where she finally told her husband she’d fallen out of love.",
+   "start": 23,
+   "end": 114
+  },
+  {
+   "fact": "醒来的质地：醒来永远像从楼梯上摔下来——浑浊的乳白光线、屋子自身的声响、一阵恐慌；她醒来第一个清醒的念头照例是女儿，随即想起 Elisabeth 在 Max 家过夜，那一刻有失落，她每天早晨都要女儿的脸来给她安心。",
+   "anchor": "Waking up always felt like falling down the stairs.",
+   "start": 380,
+   "end": 431
+  },
+  {
+   "fact": "丈夫在旁：她能感到身旁丈夫的重量与实体，把被子压得紧绷（未死的错觉就建立在这个触感上）。",
+   "anchor": "She could sense her husband’s weight in the bed beside her.",
+   "start": 738,
+   "end": 797
+  },
+  {
+   "fact": "出门跑步前的准备：她把冰金色 bob 头能扎起的部分扎进皮筋，再穿上 Seb 坚持要她穿的橙色反光紧身裤；光是想到即将到来的内啡肽她就已经轻快起来。",
+   "anchor": "Catherine pulled what she could of her ice-blonde bob into an elastic, then stepped into the reflective orange leggings Seb insisted she wear for these dark early morning runs.",
+   "start": 846,
+   "end": 1022
+  },
+  {
+   "fact": "镜前一刻：她在衣帽间镜子里看自己，觉得自己不一样了，而且不是事后回想才这样觉得；她只有四十岁——如果现在就动手，够年轻去过第二段人生。",
+   "anchor": "She was only forty. Young enough for a second life, if she started now.",
+   "start": 1216,
+   "end": 1287
+  },
+  {
+   "fact": "叙述插入：法语里 orgasm 叫 petit mort，即「小小的死亡」——一句独立的短段落，紧接在她走回床边之前。",
+   "anchor": "In French, the word for orgasm is petit mort. Little death.",
+   "start": 1632,
+   "end": 1691
+  },
+  {
+   "fact": "发现：她夹着运动内衣慢慢走向他那边，然后看见他的脸——下颌松垂、眼睑半开；他冷得像河里的石头。此前她照例说「Morning」，Seb 没有回答，他平时总是跟她一起醒来、等她出门后开始读书，那天早上他动都没动。",
+   "anchor": "Then she saw his face. Jaw slack, lids parted. He was cold as a river stone.",
+   "start": 1785,
+   "end": 1861
+  },
+  {
+   "fact": "章末：她脑子里只有 Elisabeth，以及女儿在他死后还有没有理由爱她——把丈夫的死与「女儿是否还爱她」绑在一起的最后一句。",
+   "anchor": "Elisabeth. The only thing she was thinking about was Elisabeth, and whether her daughter would have any reason to love her now that he was dead.",
+   "start": 1902,
+   "end": 2046
+  }
+ ]
+}
