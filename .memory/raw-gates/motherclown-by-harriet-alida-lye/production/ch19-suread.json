@@ -1,0 +1,55 @@
+{
+ "book": "motherclown-by-harriet-alida-lye",
+ "chapter": "ch19",
+ "text": "notes/books/novels/motherclown-by-harriet-alida-lye/text/ch19_chapter_eighteen.txt",
+ "facts": [
+  {
+   "fact": "女儿已经三十四小时没见她，也没跟她说话",
+   "anchor": "it has been thirty-four hours since Catherine has seen or spoken to her daughter",
+   "start": 35,
+   "end": 115
+  },
+  {
+   "fact": "她提前打电话到画廊，谎称要做杂志采访",
+   "anchor": "She had called the gallery ahead of time to book a meeting with the artist.",
+   "start": 560,
+   "end": 635
+  },
+  {
+   "fact": "她记起当年他扣住她双手让她动不了才吻她",
+   "anchor": "She remembers the way he held her hands tightly behind her back so she couldn’t move",
+   "start": 2565,
+   "end": 2649
+  },
+  {
+   "fact": "她认定当年那不算同意",
+   "anchor": "she never consented",
+   "start": 2704,
+   "end": 2723
+  },
+  {
+   "fact": "她当面拆穿伪装，说是因为两人上过床",
+   "anchor": "There is no journalist. I’m the one who called. I’m here because we slept together.",
+   "start": 4422,
+   "end": 4505
+  },
+  {
+   "fact": "她告诉 Luke 那个二十岁的女儿是他的",
+   "anchor": "She’s twenty. She’s yours.",
+   "start": 5607,
+   "end": 5633
+  },
+  {
+   "fact": "Luke 用「我没抢你画笔」否认他造成的影响",
+   "anchor": "I did not take away your paintbrushes any more than I forced you to sleep with me.",
+   "start": 7958,
+   "end": 8040
+  },
+  {
+   "fact": "走出画廊后她第一次觉得自己自由",
+   "anchor": "she is free",
+   "start": 10745,
+   "end": 10756
+  }
+ ]
+}
