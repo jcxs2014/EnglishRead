@@ -1,0 +1,55 @@
+{
+ "book": "motherclown-by-harriet-alida-lye",
+ "chapter": "ch11",
+ "text": "notes/books/novels/motherclown-by-harriet-alida-lye/text/ch11_chapter_ten.txt",
+ "facts": [
+  {
+   "fact": "Catherine 坐在画廊正对面的露天咖啡座，点 Perrier、抽万宝路，再点一杯浓缩。",
+   "anchor": "a Perrier",
+   "start": 161,
+   "end": 170
+  },
+  {
+   "fact": "她一直能感到女儿的存在像心上一根线，如今「在场」等于「缺席」。",
+   "anchor": "presence equates to absence",
+   "start": 457,
+   "end": 484
+  },
+  {
+   "fact": "她看对面那对年轻男女：女孩仰头看男人，眼里满是顺从，她替她恐惧。",
+   "anchor": "full of submission",
+   "start": 1356,
+   "end": 1374
+  },
+  {
+   "fact": "橱窗里那幅不是画她的，却是 Luke 的成名作，上过《Artforum》封面、被 MOCA LA 永久收藏。",
+   "anchor": "It was his breakout painting",
+   "start": 2053,
+   "end": 2081
+  },
+  {
+   "fact": "比她年轻的服务生用法式口音夸她，她不觉得冒犯——在这里人被夸就像花或画被夸，她因此更好看了一点。",
+   "anchor": "A beautiful wine for a beautiful lady",
+   "start": 2591,
+   "end": 2628
+  },
+  {
+   "fact": "她打给 Laura 说清来龙去脉，承认自己总忘记女儿现在叫 Elise。",
+   "anchor": "I keep forgetting",
+   "start": 3634,
+   "end": 3651
+  },
+  {
+   "fact": "Laura 替她订到一间便宜但「床单像纸巾做的」旅馆，她连声道谢。",
+   "anchor": "The blanket in this picture looks like it’s made of Kleenex",
+   "start": 4384,
+   "end": 4443
+  },
+  {
+   "fact": "未来不再是深渊，而是往北二十分钟的一间旅馆房——可她仍觉得空。",
+   "anchor": "a hotel room twenty minutes north of here",
+   "start": 4747,
+   "end": 4788
+  }
+ ]
+}
