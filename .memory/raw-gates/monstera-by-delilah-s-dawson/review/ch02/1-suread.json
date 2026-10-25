@@ -1,0 +1,53 @@
+{
+  "chapter": "ch02",
+  "facts": [
+    {
+      "anchor": "She has two suitcases—old, leather things without wheels",
+      "start": 183,
+      "end": 239,
+      "fact": "露西带着两个老旧的、没有轮子的皮箱搬进新公寓（此前她把箱子藏在房子侧面的灌木丛里），她其实还没有自行车，需要买一辆。"
+    },
+    {
+      "anchor": "She finds a decent bike at the thrift store",
+      "start": 3097,
+      "end": 3140,
+      "fact": "露西出门采购：在二手店买到一辆不错的自行车和一辆可拉东西的童车拖车，在超市发现忘了买锁，只好先跑进去买锁再回去装满购物车。"
+    },
+    {
+      "anchor": "It’s only a half-mile walk to the nearest grocery store",
+      "start": 2665,
+      "end": 2720,
+      "fact": "露西是刻意选这处房子的：走到最近的杂货店只要半英里，附近有商业街、二手店和一家老电影院；她不需要工作，但考虑以后为了保险买一份工作。"
+    },
+    {
+      "anchor": "In Lucy’s home, they will live on the left.",
+      "start": 4513,
+      "end": 4556,
+      "fact": "收拾杯子时，露西想到在祖父家杯子放在水槽右边（曾祖母七十年前定下的位置），而在她自己的家里杯子要放左边，作为小小的反叛。"
+    },
+    {
+      "anchor": "A doctor in little round glasses made a video",
+      "start": 4971,
+      "end": 5016,
+      "fact": "露西在网上学到一个方法：一个戴小圆眼镜的医生说人的第一个念头是被教出来的、来自过去，第二个更温和好奇的声音才代表内心；她用这个方法把祖父的声音和自己的分开。"
+    },
+    {
+      "anchor": "her grandfather put locks on all the doors except for the door to her room",
+      "start": 2424,
+      "end": 2498,
+      "fact": "露西回忆自己曾上学、有朋友、参加睡衣派对、替邻居遛狗，直到母亲失踪后，祖父在除她房间外的所有门上装锁，还把她房间的门从铰链上卸下。"
+    },
+    {
+      "anchor": "Her new neighbor Saskia will know.",
+      "start": 5762,
+      "end": 5796,
+      "fact": "露西不知道垃圾该扔到哪里、哪天是收垃圾日，想到新邻居萨斯基亚会知道，又纳闷萨斯基亚为什么没来打招呼。"
+    },
+    {
+      "anchor": "she imagines that she hears the sound of a door opening and closing",
+      "start": 10129,
+      "end": 10196,
+      "fact": "露西用新手机在 YouTube 上看小时候的旧卡通，在陌生的床上入睡，入睡时仿佛听见一扇门开合、脚步踩在旧木地板上的声音。"
+    }
+  ]
+}

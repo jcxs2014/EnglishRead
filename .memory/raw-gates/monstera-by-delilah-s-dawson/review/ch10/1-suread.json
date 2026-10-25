@@ -1,0 +1,53 @@
+{
+  "chapter": "ch10",
+  "facts": [
+    {
+      "anchor": "It’s a small black charging cube with one opening for a USB cord.",
+      "start": 5278,
+      "end": 5343,
+      "fact": "露西在插座上发现一个黑色小充电方块，她以为可能是上一个租客留下的。"
+    },
+    {
+      "anchor": "returns with Lucy’s new marble bust and bashes the charger—hard.",
+      "start": 5457,
+      "end": 5521,
+      "fact": "萨斯基亚冲进露西卧室拿来新买的大理石半身像，用力把充电器砸碎。"
+    },
+    {
+      "anchor": "Babe, this isn’t just a charger. It’s a camera.",
+      "start": 5733,
+      "end": 5780,
+      "fact": "萨斯基亚告诉露西那东西不是充电器而是摄像头。"
+    },
+    {
+      "anchor": "It’s illegal to film tenants. He could get in a lot of trouble for this.",
+      "start": 5980,
+      "end": 6052,
+      "fact": "萨斯基亚说明拍摄租客是违法的，罗杰可能因此惹上大麻烦。"
+    },
+    {
+      "anchor": "If we went to court, all that would go away.",
+      "start": 6394,
+      "end": 6438,
+      "fact": "萨斯基亚解释若打官司，她低价、包水电的住处就会失去，所以选择私下砸掉。"
+    },
+    {
+      "anchor": "you might consider installing a chain or getting one of those rubber doorstops",
+      "start": 10131,
+      "end": 10209,
+      "fact": "萨斯基亚建议露西在前门装防盗链或放橡胶门挡，从内侧阻止他人进入。"
+    },
+    {
+      "anchor": "my bedroom door closed, and this morning, when I woke up, it was wide open",
+      "start": 9805,
+      "end": 9879,
+      "fact": "露西告诉萨斯基亚，她昨夜关着卧室门入睡，早上醒来门却大开着、书也散落一地。"
+    },
+    {
+      "anchor": "these things are usually hooked up to the cloud through a phone app.",
+      "start": 10932,
+      "end": 11000,
+      "fact": "萨斯基亚说明这类摄像头通常通过手机应用连到云端，砸碎不一定毁掉已存录像。"
+    }
+  ]
+}

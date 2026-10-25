@@ -7,14 +7,13 @@ modified: "2026-10-24"
 
 ## 本章导航
 
-- **一句话概括**：Lucy 醒来发现手指上有海的味道，书堆塌在地上，而每晚都关好、确认落锁的卧室门开着；她替自己找了一圈说法——浴室就在套内、不记得起过夜、以前也被指认过梦游——最后决定这是她自己的家，她夜里像一只笨手笨脚的鬼在家撞来撞去是她一个人的事。她等的是园子里金属碰撞的声音，等来的却是敲门：Saskia 端回那只装过「贿赂松饼」的盘子，跟她上楼看书架，在她新书背上划过手指，露出一个像知道那些平装本里写着什么的秘密笑容。随后 Saskia 在几乎被电视柜挡住的插座旁蹲下，从墙里拽出一个黑色小方块，问她怕不怕被偷；确认那是接在墙上的摄像头后，她抄起 Lucy 刚买的云石半身像把它砸碎，指名 Roger，又劝她不要声张——闹上法庭，这间租金合理、水电全包的公寓就没了。她查遍插座、窗帘、沙发底和浴缸上方的通风口，最后在提到 Roger 时低声补上一句「Roger，或别的什么人」。Lucy 说自己随时可以来，把全部心思放进眼睛里，并且想知道这是不是一种 Saskia 懂的语言。
+- **一句话概括**：Lucy 醒来发现手指上有海的味道，书堆塌在地上，而每晚都关好、确认落锁的卧室门开着；她替自己找了一圈说法——浴室就在套内、不记得起过夜、以前也被指认过梦游——最后决定这是她自己的家，她夜里像一只笨手笨脚的鬼在家撞来撞去是她一个人的事。她等的是园子里金属碰撞的声音，等来的却是敲门：Saskia 端回那只装过「贿赂松饼」的盘子，跟她上楼看书架，在她新书背上划过手指，露出一个像知道那些平装本里写着什么的秘密笑容。随后 Saskia 在几乎被电视柜挡住的插座旁蹲下，从墙里拽出一个黑色小方块，问她怕不怕被偷；确认那是接在墙上的摄像头后，她抄起 Lucy 刚买的云石半身像把它砸碎，指名 Roger，指出拍租客是违法的、Roger 可能因此惹上大麻烦，却又劝她不要声张——闹上法庭，这间租金合理、水电全包的公寓就没了。她查遍插座、窗帘、沙发底和浴缸上方的通风口，最后在提到 Roger 时低声补上一句「Roger，或别的什么人」。Lucy 说自己随时可以来，把全部心思放进眼睛里，并且想知道这是不是一种 Saskia 懂的语言。
 - **情感弧线位置**：本书第十章，视角回到 Lucy 身上。上一章由 Saskia 写：她半夜醒来发现自己站在 Lucy 的客厅里、手里握着一把刀，随后不得不回到楼上确认自己没被录下来，既怕自己无意识的身体想靠近 Lucy，又承认清醒时的身体也一样想待在那里。这一章就是那一夜之后的第一个上午，Lucy 在自己家里清点痕迹——门、书、手上的海味。曲线从「那就当是我自己梦游」的自宽，走到想起昨晚做过什么时的一阵反胃，再被一只藏在墙里的眼睛打成恐惧，最后落进一种她自己也分不清的并列感受：被暴露，同时被保护。空间上，搜查从插座一路推进到浴室上方的通风口；关系上，Saskia 在同一个上午从「隔壁房客」变成「替她拆掉摄像头的人」。
 - **Tropes 兑现/反转**：兑现「醒来发现有人进过房间」和「房东在房里装摄像头偷窥房客」这两样租赁恐怖的老套，也兑现「英雄登场」——Saskia 抄起一尊半身像砸掉那个东西。反转有三处。一，砸掉它的人恰恰劝她不要声张：租金合理、水电全包、不必排队抢车位，闹上法庭这些全会消失，于是正义让位给租约。二，Saskia 先替 Roger 排除嫌疑，紧接着又补一句「Roger，或别的什么人」，等于当面把「只有一个人可疑」这个假定拆掉，而这一章始终没有让任何人对上门开着、书散落这两件事给出解释。三，这一章收在调情而不是惊悚上：Lucy 把邀请说出口，Saskia 嗓音沙哑地接住；而读者此刻比 Lucy 多知道一样东西——那根从睫毛里拔出来的绿藤。
 - **人物弧线**：Lucy 在这一章第一次把「门要落锁」当成自己争来的东西——没有门的房间睡了十年，如今这道木门是她确认自己已经成年的凭据；门开着、墙上多出一只眼睛，被拿走的不是抽象的隐私，而是她刚学会的那种安全。她同时学了一课关于代价的现实主义：把摄像头砸碎并不等于 Roger 的事解决了。Saskia 则把两面摊在同一个小时里：一面是还盘子、逗笑、说「我猜是 Roger 干的」，另一面是蹲下拆插座、攥起拳头、说「Roger，或别的什么人」；她保护 Lucy 的办法是弄坏证据而不是报警，而她对这间公寓的算计（租金、水电、不用填申请表）比她对 Roger 的愤怒说得更清楚。
 - **叙事手法**：整章仍是 Lucy 的第三人称限知，读者只跟着她在屋里走，Saskia 为什么认得这种摄像头、她睫毛里长出过什么，两条线索一个字都没交代。节奏靠排队式的短段完成：她等园子里的声音，结果听见敲门；紧接着是一串只在心里说出、一句一段的问句（I'm glad you're here? / I've been thinking about you? / In ways I shouldn't?），把想说而没出口的话逐句掐断。恐怖从不正面写，只给物证：塌在地上的书、朝外开着的门、手指上的海味，最后是清晨从里面锁着的前门——作者把「昨晚有人来过」交给读者自己去拼。章末把镜头停在 Lucy 的眼睛上，让表白以「这是不是一种你懂的语言」的方式发生。
 
 ## 精读
-
 > **原句 1:** "When she wakes up the next morning, Lucy’s fingers smell like the sea, and her stack of books has toppled to the floor. What’s more, her bedroom door is open, and she is very careful to close it every night and make sure that it latches. After a decade of sleeping without a door, she loves the surety of that wooden barrier."
 
 **中文理解**：第二天早上醒来，Lucy 的手指上有海的味道，她的书堆塌到了地板上。更糟的是，她的卧室门开着——而她每晚都仔细关好、确认落锁。在没有门的房间里睡了十年之后，她喜欢这道木屏障给她的确定感。
@@ -65,7 +64,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：把 I'm guessing 这个前缀记住。这一章接下来她会说「我不觉得他会做那种事」，再往后又会说「Roger，或别的什么人」——同一个人对同一件事给了三种力度不同的版本，读者可以拿这几句互相量一量她究竟知道多少。
 
-> **原句 6:** "“I don’t want to think about Roger in this apartment while you’re asleep,” Saskia says darkly. “Roger, or anyone.”"
+> **原句 6:** "“No. He’s a creep, but I don’t think he would do that. Still, you might consider installing a chain or getting one of those rubber doorstops for your front door. Something you do on the inside so someone can’t come in without your consent.”"
+
+**中文理解**：「不。他是个猥琐的家伙，但我不觉得他会做那种事。不过，你可以考虑给前门装一条防盗链，或者买那种橡胶门挡——从里面挡住，这样没人能不经你同意就进来。」
+
+**关键词**：He’s a creep, but I don’t think he would do that / installing a chain / rubber doorstops / on the inside / without your consent
+
+**为什么这样写**：这一句里 Saskia 连着做了两次相反的动作：先替 Roger 说话，把嫌疑从他身上拿开；紧接着又把「不许人随便进来」的办法交给 Lucy。她给的不是安慰，是一件可以自己动手装上的东西——chain 和 doorstop 都在门内侧，consent 这个词把安全重新定义成「同意与否」，而不是「有没有坏人」。这也解释了上一段她为什么要先排除 Roger：她要 Lucy 防的不是某个具体的人，是那种不经同意就能进来的可能。句子用 Still 转折，两半的重量基本相当，作者没有让任何一半赢。
+
+**读者视角提示**：注意这句话把「保护」落到一件她可以自己买、自己装的东西上；也注意它出现在她刚刚砸完摄像头之后——她弄坏了一件证据，再教 Lucy 装一道从里面锁的门。
+
+> **原句 7:** "“I don’t want to think about Roger in this apartment while you’re asleep,” Saskia says darkly. “Roger, or anyone.”"
 
 **中文理解**：「我不想在你睡着的时候去想 Roger 待在这间公寓里，」Saskia 阴沉地说。「Roger，或别的什么人。」
 
@@ -75,7 +84,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：这是 Saskia 在这一章里第二次替 Roger 说话，而两次方向相反：前一次替他排除嫌疑，这一次把他重新放回屋里，还顺手把范围扩大到任何人。真正让她阴沉的东西，读者在上一章已经见过——只有 Lucy 见不到。
 
-> **原句 7:** "Lucy puts all her feelings into her eyes, all her hopes and desires and curiosities, and wonders if this is a language with which Saskia is familiar. “You can stop by anytime, you know. I’m here all day.”"
+> **原句 8:** "“Unfortunately, these things are usually hooked up to the cloud through a phone app. So he might have a thirty second video every time the camera was triggered. It depends on the set-up.”"
+
+**中文理解**：「可惜，这类东西通常通过手机应用连到云端。所以摄像头每次被触发，他可能就有一段三十秒的视频。这要看具体怎么装的。」
+
+**关键词**：hooked up to the cloud / through a phone app / a thirty second video / every time the camera was triggered / depends on the set-up
+
+**为什么这样写**：砸碎那件东西之后的这一句才是全章的冷点：它把「毁掉证据」这件事直接作废。作者让 Saskia 用 unfortunately 开场，等于承认刚才那一下只解决了看得见的一半；数字也给得极具体，三十秒一段，按触发次数累加——读者立刻会去算：这一夜被触发了几次。It depends on the set-up 又把确定的话收回半步，和她整章说话的分寸一致：知道得清楚，从不把话说满。
+
+**读者视角提示**：把「三十秒」和「每次触发」这两个词记住——它们让「砸掉摄像头」从结局变成开头。也留意 Saskia 是这里唯一懂这套设备的人，而这一章从头到尾没人问她为什么懂。
+
+> **原句 9:** "Lucy puts all her feelings into her eyes, all her hopes and desires and curiosities, and wonders if this is a language with which Saskia is familiar. “You can stop by anytime, you know. I’m here all day.”"
 
 **中文理解**：Lucy 把全部心意放进眼睛里——她所有的希望、欲望和好奇——并且想知道这是不是一种 Saskia 懂的语言。「你随时可以过来，你知道的。我整天都在。」
 

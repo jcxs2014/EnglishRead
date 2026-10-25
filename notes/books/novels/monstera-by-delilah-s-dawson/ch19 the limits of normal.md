@@ -15,7 +15,17 @@ modified: "2026-10-24"
 
 ## 精读
 
-> **原句 1:** "So this one must’ve accidentally landed in Saskia’s eye and done the same thing. The weird thing is that Saskia didn’t notice it. When Lucy gets an eyelash in her eye, she can’t do anything until she has dug it out with a twist of tissue."
+> **原句 1:** "She read a story on Buzzfeed last week about a man who went to the hospital for suspected lung cancer, but when the doctors cut him open, they instead found a tiny fir tree. Two inches of life, quietly germinating in a human lung."
+
+**中文理解**：她上周在 Buzzfeed 读到一篇报道：一个男人因疑似肺癌进了医院，医生切开他之后，找到的却是一棵小小的冷杉。两英寸的生命，在一副人的肺里悄悄发芽。
+
+**关键词**：a story on Buzzfeed last week / suspected lung cancer / found a tiny fir tree / Two inches of life / quietly germinating in a human lung
+
+**为什么这样写**：这一段放在所有恐怖之前，先给 Lucy 一整套「有先例」的材料：媒体报过、医生见过。作者特意标明来路（Buzzfeed、上周、报道），把一件不可能的事安排成一条可以查证的新闻，好让后面发生在家里的怪事有台阶可下。Two inches of life 是她会记住的尺寸，quietly germinating 是她会借用的解释；读者却看得出来，她是在给自己找一个能睡着的原因。
+
+**读者视角提示**：记住这句 quietly germinating：它是本章唯一一处由外部证据替 Lucy 说话的句子，往后她要拿它去套 Saskia 的眼角。也注意叙述没给这条新闻任何质疑——谁能查到、谁就信了，读者的不安恰恰来自「它听起来是真的」。
+
+> **原句 2:** "So this one must’ve accidentally landed in Saskia’s eye and done the same thing. The weird thing is that Saskia didn’t notice it. When Lucy gets an eyelash in her eye, she can’t do anything until she has dug it out with a twist of tissue."
 
 **中文理解**：所以这一粒大概是碰巧落进了 Saskia 的眼睛，也就照着同一套办法生了根。怪的是 Saskia 压根没发觉。换成 Lucy 自己，眼里进一根睫毛就什么都做不下去，非得拿纸巾捻一捻把它弄出来不可。
 
@@ -25,7 +35,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：留意这段其实什么都没解释。must’ve 是 Lucy 的猜测，不是叙述者的判定；她拿种子落在暗处就会生根的说法去套眼前的事，套得越顺，后面 Saskia 的平静就越刺人。读到这里可以先记一笔：她要的不是真相，是一个能让她睡着的原因。
 
-> **原句 2:** "She stands to wrap her arms around Lucy in another full hug, chest to chest, their bodies lined up down the middle but separated by six inches in height. Lucy turns her face, lays her cheek against the flat spot just under Saskia’s collarbone. Saskia’s hands meet around her back, press the thin fabric of her tank top into the aloe gel and burn."
+> **原句 3:** "She stands to wrap her arms around Lucy in another full hug, chest to chest, their bodies lined up down the middle but separated by six inches in height. Lucy turns her face, lays her cheek against the flat spot just under Saskia’s collarbone. Saskia’s hands meet around her back, press the thin fabric of her tank top into the aloe gel and burn."
 
 **中文理解**：Saskia 站起来，又给了她一个结结实实的拥抱，胸口贴胸口，两个人从中间对齐，身高差着六英寸。Lucy 转过脸，把脸颊搁在她锁骨下方那块平坦的地方。Saskia 的手在她背后合拢，把薄薄的背心按进芦荟胶和烫伤里。
 
@@ -35,7 +45,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：视角始终在 Lucy 这边，她感到的是黏和烫，不是被抱住。Saskia 那一侧没有任何内心描写，读者只能从手劲猜她；猜不出来是正常的，这一章后面 Lucy 也在猜同一个人。
 
-> **原句 3:** "Lucy listens to her footsteps going down the stairwell and out the door; she seems like she’s eager to escape. When Saskia’s door has opened and closed, Lucy hurries down to throw her deadbolt lest Roger let himself in again. Saskia was right; she needs a chain or a doorstop or something—immediately."
+> **原句 4:** "Lucy listens to her footsteps going down the stairwell and out the door; she seems like she’s eager to escape. When Saskia’s door has opened and closed, Lucy hurries down to throw her deadbolt lest Roger let himself in again. Saskia was right; she needs a chain or a doorstop or something—immediately."
 
 **中文理解**：Lucy 听着她的脚步下楼梯、出门，那脚步像是急着逃开。等 Saskia 的门开了又关上，Lucy 赶紧下去把门闩插好，免得 Roger 又自己开门进来。Saskia 说得对，她需要一条链子、一个门挡，随便什么，而且得马上。
 
@@ -45,7 +55,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：seems like 是这一块最该留神的地方，Saskia 到底是不是逃，本章没给答案，只有 Lucy 的判断。另外，插上门闩之后她的恐惧对象已经换成了 Roger，请记住这个转换：对 Saskia 的疑心还没成形，先落到了门上。
 
-> **原句 4:** "The hard thing about being completely sheltered for nearly a decade is that Lucy does not know the limits of normal. She thinks Saskia is acting strange, but if she can’t define normal, how can she define strange? In every situation, Lucy is going to be the strangest person there."
+> **原句 5:** "Lucy eats her soup—with toast, as she will never want to smell cornbread again—and reads her book and works on a puzzle and goes to bed. She thinks about Saskia, because these days, she always thinks about Saskia, but now the thoughts come with doubts."
+
+**中文理解**：Lucy 把汤吃了——配着吐司，因为她再也不想闻到玉米面包的气味——然后看书、拼拼图、上床睡觉。她想起 Saskia，因为这些天她总在想起 Saskia，只是现在这些念头里混进了疑虑。
+
+**关键词**：with toast / never want to smell cornbread again / works on a puzzle / always thinks about Saskia / come with doubts
+
+**为什么这样写**：破折号里那句 little 的伤心事——「再也不想闻到玉米面包」——把一场火警写成她日常生活里的味觉伤口；接着作者用三个并列的动词把她填满：看书、拼图、睡觉，动作越平常，越显出她只是不想停下来想。最后一句用 because…but 的转折把心事掰成两半：前半句是「这些天总在想起」，后半句是新的注脚 come with doubts。整段没有一句抒情，全靠在清单末尾加一个 but。
+
+**读者视角提示**：注意这一块是全章唯一一次「她自己承认在想 Saskia」：以前那是甜的，现在带了 doubts。把它与章末的惊醒连起来读，就知道那声「No! You bitch!」落进的是什么样的夜晚——她已经先替疑心写好了位置。
+
+> **原句 6:** "The hard thing about being completely sheltered for nearly a decade is that Lucy does not know the limits of normal. She thinks Saskia is acting strange, but if she can’t define normal, how can she define strange? In every situation, Lucy is going to be the strangest person there."
 
 **中文理解**：被彻底关在家里将近十年的难处在于，Lucy 不知道正常的边界在哪里。她觉得 Saskia 的反应古怪，可要是她说不出什么叫正常，又怎么说得清什么叫古怪。放到任何一种场合里，最古怪的那个人都会是她。
 
@@ -55,7 +75,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：读到这里可以回头看她那一夜的追问，共同点是都没有答案；她缺的不是答案，是比较的基准。这一块之后，她再去想 Saskia，疑心就会转成对自己的怀疑。
 
-> **原句 5:** "She holds very still, but there are no sounds. She sniffs the air, but the only strange scent is the lingering odor of burned cornbread. She was quite certain someone was just here, standing over her, someone who meant her harm."
+> **原句 7:** "She holds very still, but there are no sounds. She sniffs the air, but the only strange scent is the lingering odor of burned cornbread. She was quite certain someone was just here, standing over her, someone who meant her harm."
 
 **中文理解**：她一动不动地躺着，可周围一点声音也没有。她嗅了嗅空气，唯一不对的味道是烤糊的玉米面包留下的余味。她相当确定刚才有人就在这里、站在她床边，一个想害她的人。
 

@@ -7,7 +7,7 @@ modified: "2026-10-24"
 
 ## 本章导航
 
-- **一句话概括**：Saskia 刚把自己埋过两个人的事说完，Lucy 在沙发上从背后抱住她，接着交代了另一半：十四岁那年她杀了母亲。母亲十五岁生下她，后来成了瘾者，有时像最好的朋友，有时虐待她；她藏起来的现金被母亲一次翻走；那天夜里母亲醉醺醺地回来，她气得睡不着。第二天早上祖父发现尸体，一个字没说，却知道了。此后通向外面的每扇门都换了带钥匙的锁，每扇窗被钉死，可能被当成武器的东西全部消失；祖父说这是为她好，也是为了保护世界不被她伤害。祖父把手写的遗嘱和一份记着她罪状的说明锁进保险箱，声称一旦自己出事就有人开箱报警；可他老了、健忘、白天打盹，她找到密码，把两份手写件冲进马桶，随后他「心脏病发」去世。章末 Saskia 只问了一句：那不是心脏病发，对吧。Lucy 俯身把嘴唇贴到她耳边，本章到此为止。
+- **一句话概括**：Saskia 刚把自己埋过两个人的事说完，Lucy 在沙发上从背后抱住她，接着交代了另一半：十四岁那年她杀了母亲。母亲十五岁生下她，后来成了瘾者，有时像最好的朋友，有时虐待她；她藏起来的现金被母亲一次翻走；那天夜里母亲醉醺醺地回来，她气得睡不着。第二天早上祖父发现尸体，一个字没说，却知道了。此后通向外面的每扇门都换了带钥匙的锁，每扇窗被钉死，可能被当成武器的东西全部消失；祖父说这是为她好，也是为了保护世界不被她伤害。祖父把她母亲的尸体埋在了后院（她一直不知道母亲的下落），又把亲笔遗嘱和一份记着她罪状的说明锁进保险箱，声称一旦自己出事就有人开箱报警；可他老了、健忘、白天打盹，她找到密码，把两份手写件冲进马桶，随后他「心脏病发」去世。章末 Saskia 只问了一句：那不是心脏病发，对吧。Lucy 俯身把嘴唇贴到她耳边，本章到此为止。
 - **情感弧线位置**：第二十八章，紧接第二十七章 Lucy 的自白（那一章整章贴在 Lucy 一侧，她承认自己杀了两个男人、又把尸体种进了菜畦）。本章视角回到 Saskia：开篇第一句就是她的不信（That is the last thing on Earth Saskia expected Lucy to say.）。弧线从错愕起步，滑进一段被抱住的安静，然后在 Lucy 一本账式的交代里越走越冷，Saskia 全程只挤出几句极短的反应（That’s fucked up、Jesus），最后收在一句克制到近乎礼貌的反问上。本章与她下一章连续落在 Saskia 一侧，读者暂时回不到 Lucy 的脑子里。
 - **Tropes 兑现/反转**：兑现「深夜对坐、互相交代」这一套：两个人挤在旧沙发上，一个说、一个听。反转在谁开口——Saskia 原以为今晚要做忏悔的是自己（她心里那句 How curious 说的就是这个），结果她成了听的人，于是有了那句「现在有两个了」。兑现「祖辈替家族掩盖」：祖父不报警、不质问、不解释，只换锁、钉窗、收走一切能当武器的东西。反转「保险箱＋遗嘱」这套控制装置：它本来是拿她的罪当缰绳，最后被她一次性销毁，缰绳没了，人也自由了。兑现「暴力会遗传」的说法：祖父的原话是 I was just as rotten as my mother，把她和母亲归成一类。反转「好房客」：她把自己要当的 perfect tenant 理解为不去惊动邻居、不让人挖那几畦土的人——守规矩在这本书里等于守坟。
 - **人物弧线**：Saskia 这一章几乎没有动作，只有位置变化：被 Lucy 从背后圈住、把脸颊靠到 Lucy 的手臂上、最后凑近听答案。她的秘密刚摊开，就接到一份更重的，作者让她用两句粗话替读者接住（That’s fucked up、Jesus）。Lucy 则是全章说得最多的那个人，声音低、语速稳，讲母亲、讲钱、讲保险箱、讲遗嘱，句与句之间几乎没有停顿；唯一被写下来的情绪是 oddly at ease——她不哭，也不解释自己为什么现在才说。她讲祖父时用了「为我好」「保护世界不受伤」这种转述口气，讲保险箱时又换成算账的口气，两副口气之间没有过渡。
@@ -35,7 +35,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：说话的人是 Lucy，Saskia 只贡献了身体反应，这一段里没有任何旁证。注意 she abused me 后面没有例子：虐待的具体形态被留白，读者只能凭「时好时坏」这四个字自己补。也正因为说话的是当事人，读者拿到的既是唯一的证词，也是一份替自己排序过的证词。
 
-> **原句 3:** "I heard the door of her room open—of course she didn’t bother to check in on me. I was so furious I couldn’t sleep. I just lay in bed, thinking about how she’d fucked me over again and again when she should’ve loved me."
+> **原句 3:** "Hit me, scratched me, told me she wished I’d never been born. I never knew which side of her I’d get. We lived with my grandfather, her dad, because she couldn’t hold down a job for long and would disappear for days at a time."
+
+**中文理解**：Lucy 继续往下数：母亲打过她、抓伤过她，还说过真希望没生过她；她永远不知道今天会碰上母亲的哪一面。她们住在祖父家——那是母亲的父亲——因为母亲哪份工作都做不长，还常常一消失就是好几天。
+
+**关键词**：Hit me, scratched me / wished I’d never been born / which side of her I’d get / disappear for days at a time
+
+**为什么这样写**：这一段把虐待写成一份动作清单，动词是并列的：hit、scratched、told——打、抓、说，三件事被摆在同一层级，掌掴和一句狠话一样重。真正压住这段的是 which side of her I’d get：她把母亲的不稳定说成每天要抽的签，读者因此明白了她为什么那么擅长读人。最后一句把住处与母亲的失能绑在一起（祖父是她父亲、母亲留不住工作、一消失就是几天），由此交代了这个屋子是谁的规矩说了算。
+
+**读者视角提示**：说话的人仍是 Lucy，这一段没有任何旁证；虐待的细节只有三个动词，更多部分被留白。「真希望没生过她」这句要按转述来读，是 Lucy 复述母亲的原话，不是母亲的现声。祖父家的规矩只在末尾露了一句，读者可以记住这一点——下一段会看到他的处置方式与这套规矩同源。
+
+> **原句 4:** "I heard the door of her room open—of course she didn’t bother to check in on me. I was so furious I couldn’t sleep. I just lay in bed, thinking about how she’d fucked me over again and again when she should’ve loved me."
 
 **中文理解**：母亲深夜回来，她听见那扇房门响了；母亲照例没有过来看她一眼。她气得睡不着，就那么躺着，一遍遍想母亲怎样一次又一次坑她，而母亲本该爱她。
 
@@ -45,17 +55,27 @@ modified: "2026-10-24"
 
 **读者视角提示**：引语停在她还没起身的那一刻：她听见、她躺着、她愤怒。后面发生了什么，本章在这里留了省略号，接着就跳到第二天早上；读者不能替她把中间那一步补全。这一段的功能是把动机与时机放在同一格：她醒着、她在听、她还没起身。
 
-> **原句 4:** "But my grandfather found her the next morning, and he didn’t say anything, but somehow, he knew. Maybe my acting wasn’t good enough. Maybe she had feathers in her mouth."
+> **原句 5:** "I thought it would just look like she’d OD’d. But my grandfather found her the next morning, and he didn’t say anything, but somehow, he knew."
 
-**中文理解**：第二天早上发现她母亲的是祖父；他一个字没说，但不知怎么就知道了。Lucy 给这段记忆留了两个「也许」：也许她演得不够好，也许母亲嘴里有羽毛。
+**中文理解**：Lucy 交代了自己当时的算盘：本以为看起来只会像一次吸毒过量。可第二天早上发现她的是祖父；他一个字没说，但不知怎么就是知道了。
 
-**关键词**：somehow, he knew / my acting wasn’t good enough / feathers in her mouth
+**关键词**：just look like she’d OD’d / found her the next morning / somehow, he knew
 
-**为什么这样写**：全段的重量压在两个 maybe 上。她不用「他一定看出来了」这种确定句，而是把破案的方式留成两个猜测；第二个猜测比第一个具体得多，也冷得多——它把现场的一件物证放在近乎玩笑的位置上。somehow 是她的谦辞：她承认自己讲不清祖父凭什么知道，同时也没打算讲清。三个短句一节比一节短，语气却一节比一节轻，杀人与被识破被写成同一件家务的收尾。
+**为什么这样写**：前半句是整段自白里唯一一次她说出自己的计划，而且用 just 把杀人讲成一道伪装工序；后半句立刻把这份从容收走——planned 的是「看起来像意外」，来的却是「他知道」。作者把祖父的反应压成一个没说出口的知道：没有质问、没有报警，只有 and he didn’t say anything，沉默在这里比任何台词都响。三个短句的节奏与上文的独白一致，全是 Lucy 的口吻，读者听不出她此刻有多少情绪。
+
+**读者视角提示**：这一段交代的是动机与败露的第一步，不是当场的场面；枕头与那一夜的动作仍被原文的省略号隔在上一块。注意她用的词是 OD——那是瘾者圈内的说法，她照搬了这个词，等于把自己也放进了那套语言里。祖父「知道」到底知道多少，本块没写，下一块的两个「也许」会接着留白。
+
+> **原句 6:** "Maybe my acting wasn’t good enough. Maybe she had feathers in her mouth."
+
+**中文理解**：Lucy 给祖父是怎么看出来的留了两个猜测：也许是她演得不够好，也许是母亲嘴里有羽毛。
+
+**关键词**：my acting wasn’t good enough / feathers in her mouth
+
+**为什么这样写**：全段的重量压在这两个 maybe 上。她不用「他一定看出来了」这种确定句，而把破案方式留成两个猜测；第二个比第一个具体得多，也冷得多——它把现场的一件物证放在近乎玩笑的位置上。somehow 是她先前那句的谦辞：她承认讲不清祖父凭什么知道，同时也没打算讲清。三句一节比一节短，语气却一节比一节轻，杀人与被识破被写成同一件家务的收尾。
 
 **读者视角提示**：「羽毛」是本章留下的唯一物证线索，但原文没有写她用了什么；读者会顺着羽毛想到枕头，这一步属于推断，不是原文写明的。祖父「知道」同样是 Lucy 的判断——他一个字没说，读者也没有他的视角，所以这里的「知道」究竟是多少，取决于你信不信她这套「也许」。
 
-> **原句 5:** "I found the code to the safe and flushed his handwritten account of my sins into the toilet in a thousand tiny pieces. I did the same with the will, also handwritten. Like I said, he didn’t trust authority."
+> **原句 7:** "I found the code to the safe and flushed his handwritten account of my sins into the toilet in a thousand tiny pieces. I did the same with the will, also handwritten. Like I said, he didn’t trust authority."
 
 **中文理解**：她找到了保险箱的密码，把祖父手写的、记着她罪状的那份东西撕碎冲进马桶；遗嘱同样是手写的，她也照样处理。末了她补一句：她早说过，祖父不信任官方。
 
@@ -65,7 +85,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：这一块交代的是她怎样拆掉把柄，不是她有没有罪。两份手写件都被销毁之后，读者手上再没有任何可以核对的物证，往下的每一句都只能听她说。he didn’t trust authority 既是祖父的性格，也是她这次行动的说明书；这句话由受益者讲出来，读者要留意它同时在替谁开脱。
 
-> **原句 6:** "“It wasn’t a heart attack, was it?” Saskia asks carefully."
+> **原句 8:** "“It wasn’t a heart attack, was it?” Saskia asks carefully."
 
 **中文理解**：章末 Saskia 只反问了一句，把上文的死因原话拎回来：那不是心脏病发，对吧。原文给她的修饰是 carefully。
 
@@ -110,4 +130,4 @@ modified: "2026-10-24"
 
 ## 一句话总结
 
-本章把第二十七章的自白接成一对：Saskia 说完自己埋过两个人，Lucy 就从背后抱住她，用一段几乎没有起伏的独白交代十四岁那年杀死母亲的前后——瘾者母亲的时好时坏、被翻走的钱、祖父无声的知情与随后上锁钉窗的房子、保险箱里那两份手写件、以及她怎样把它们冲进马桶；末了 Saskia 只小心地问了一句那是不是心脏病发，答案被留在 Lucy 贴到耳边的那一刻，本章不写。
+本章把第二十七章的自白接成一对：Saskia 说完自己埋过两个人（那几畦土里种着卷心菜、胡萝卜和萝卜），Lucy 就从背后抱住她，用一段几乎没有起伏的独白交代十四岁那年杀死母亲的前后——瘾者母亲的时好时坏、被翻走的钱、祖父无声的知情与随后上锁钉窗的房子、保险箱里那两份手写件、以及她怎样把它们冲进马桶；末了 Saskia 只小心地问了一句那是不是心脏病发，答案被留在 Lucy 贴到耳边的那一刻，本章不写。

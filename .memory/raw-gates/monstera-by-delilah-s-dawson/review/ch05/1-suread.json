@@ -1,0 +1,53 @@
+{
+  "chapter": "ch05",
+  "facts": [
+    {
+      "anchor": "Lucy can’t stop going over her interaction with Saskia",
+      "start": 4,
+      "end": 58,
+      "fact": "Lucy 反复回想与 Saskia 的那次互动，像倒带一样一遍遍寻找线索，并列出「本该发生」的流程。"
+    },
+    {
+      "anchor": "She selects a television, a laptop, side tables, a bookshelf, a bedside lamp.",
+      "start": 1980,
+      "end": 2057,
+      "fact": "她上网下单电视、笔记本电脑、边桌、书架和床头灯，按畅销榜挑选以弥补自己的知识空白。"
+    },
+    {
+      "anchor": "She vacuumed three times a day, washed the windows, dusted the floorboards.",
+      "start": 3131,
+      "end": 3206,
+      "fact": "过去十年她被困在屋里服侍祖父：为他做饭烘焙打扫，一天吸尘三次、擦窗、给地板除尘。"
+    },
+    {
+      "anchor": "Saskia stands over Lucy’s fallen bike, a broom in her hands",
+      "start": 4054,
+      "end": 4113,
+      "fact": "两个穿连帽衫、宽松牛仔裤的男孩推倒 Lucy 的自行车并骂着跑开，Saskia 握着扫帚守在车旁把他们赶走。"
+    },
+    {
+      "anchor": "“I’m Saskia, by the way. I guess I should’ve said that",
+      "start": 6701,
+      "end": 6755,
+      "fact": "Saskia 帮 Lucy 把自行车和拖车搬进前厅后自报姓名，说送面包那天就该说的。"
+    },
+    {
+      "anchor": "I’ve been here since 2020, and it’s a pretty good place",
+      "start": 7203,
+      "end": 7258,
+      "fact": "Saskia 说自己 2020 年起住在这里，只要 Roger 不出现、楼上邻居不讨厌就是好住处。"
+    },
+    {
+      "anchor": "then returns with a plant in a black ceramic pot",
+      "start": 9469,
+      "end": 9517,
+      "fact": "Saskia 回屋端出一盆种在黑色陶盆里的植物送给 Lucy，并介绍这是 Monstera deliciosa（因长得奇高、成叶奇大而得名）。"
+    },
+    {
+      "anchor": "fill your sink with water and put the pot in there for five minutes",
+      "start": 10263,
+      "end": 10330,
+      "fact": "Saskia 教她养护法：把盆放在凸窗，每周往洗碗槽放满水、把盆泡五分钟，沥干后放回窗边。"
+    }
+  ]
+}

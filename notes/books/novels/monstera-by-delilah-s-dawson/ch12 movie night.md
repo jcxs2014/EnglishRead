@@ -75,7 +75,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：这句话是「她心里说」而不是说出口的，bestie 因此成了给自己留的台阶——万一猜错，它还能被当成闺蜜之间的打趣。后半句把问题转向对方的经历：Lucy 真正想知道的不是电影，而是 Saskia 有没有和她一样的心思。
 
-> **原句 7:** "Lucy smells the warm vanilla and knows Saskia has used some of her hand lotion. She thinks about the possibility of Saskia touching herself later in the privacy of her bedroom, in the dark, all alone, her hands soft and smelling of vanilla."
+> **原句 7:** "Lucy watches Saskia walk into her bedroom, and when the bathroom door clicks shut, she grabs a pillow, puts it over her face, and screams."
+
+**中文理解**：Lucy 看着 Saskia 走进她的卧室；浴室门咔嗒关上的那一刻，她抓起一只枕头捂在脸上，尖叫。
+
+**关键词**：walk into her bedroom / the bathroom door clicks shut / grabs a pillow / puts it over her face / screams
+
+**为什么这样写**：一句话三个动作，作者连一个心理形容词都不给：走进去、门合上、脸埋枕头——尖叫被安排在唯一听不见的时机里，被压了一整晚的情绪终于找到一个安全出口。Saskia 借的是她的浴室，穿过的却是她的卧室；Lucy 连这个都只能看着，等到门关上才敢出声。整段的力气在 clicks shut 上：那一声轻响既是允许她爆发的开关，也是两人之间又一道被关上的门。
+
+**读者视角提示**：注意她挑的发泄方式仍然不出声、不留痕——把脸埋进枕头，喊给自己听。这和前半章她替被拒绝准备好的台词、心里那句 bestie 是同一套自保方式：情绪可以满，声音必须小。
+
+> **原句 8:** "Lucy smells the warm vanilla and knows Saskia has used some of her hand lotion. She thinks about the possibility of Saskia touching herself later in the privacy of her bedroom, in the dark, all alone, her hands soft and smelling of vanilla."
 
 **中文理解**：Lucy 闻到暖香草味，就知道 Saskia 用了她的护手霜。她开始想一种可能：Saskia 之后会独自待在卧室的黑暗里，双手又软、又带着香草味。
 

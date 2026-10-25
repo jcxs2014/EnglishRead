@@ -55,7 +55,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：注意 LUCY 这个名字不是 Lucy 自己起的，是别人替她建的文件夹名。也记住「几十个」这个数：她只清掉一条，而决定只清一条时，她用的理由是「不知道自己还有多少时间」。
 
-> **原句 5:** "What’s important right now is that he can’t spy on Lucy anymore. And hopefully this will be the wakeup call Lucy needs to buy a door chain, or a doorstop, or something, and then she’ll be safe from Roger’s perversion."
+> **原句 5:** "“There we go. I might put up another camera, try to catch these little assholes,” Roger says, inspecting his work. “You can hit it with Windex after I’m gone, get the rest of the putty off.”"
+
+**中文理解**：「好了。我可能得再装一个摄像头，好逮住那些小混蛋，」Roger 一边检查自己的活儿一边说。「我走了以后你可以拿 Windex 擦一擦，把剩下的油灰弄掉。」
+
+**关键词**：I might put up another camera / catch these little assholes / inspecting his work / hit it with Windex / the rest of the putty
+
+**为什么这样写**：这一句是全章的落差。Saskia 刚删掉一条订阅、砸掉一只眼睛，修窗的人却在同一口气里宣布要再装一个，还顺手把清洁剂的名字交代清楚——他对自己造成的窥视毫无概念，把「再装一个」当成抱怨邻居小孩的顺口话。作者让最危险的信息以最日常的语气出现：他的关心落在油灰和 Windex 上，读者听见的却是下一轮监视的开场。它紧接在「她什么都肯做」的兑现之后，等于当场宣布这一章的胜利是暂时的。
+
+**读者视角提示**：注意他把「再装一个摄像头」说得像修水龙头一样随意——这句话之后，Saskia 删掉的那一条订阅就不等于事情结束。也留意他临走还在教她怎么擦玻璃：她的顺从与他的无知，在这个动作里同时收尾。
+
+> **原句 6:** "What’s important right now is that he can’t spy on Lucy anymore. And hopefully this will be the wakeup call Lucy needs to buy a door chain, or a doorstop, or something, and then she’ll be safe from Roger’s perversion."
 
 **中文理解**：眼下要紧的是，他再也没法窥视 Lucy 了。但愿这一次能把她叫醒，让她去买一条门链、一个门挡，或者随便什么，那样她就不会再受 Roger 那份变态的骚扰。
 
@@ -101,4 +111,4 @@ modified: "2026-10-24"
 
 ## 一句话总结
 
-本章把镜头交给 Saskia，写她怎样替 Lucy 收拾掉一只眼睛。她把砸碎的摄像头埋进自己那片黑土，然后抽出锤子砸碎自家一块玻璃、把旧高尔夫球丢在地上，用一种客气到谦卑的短信把 Roger 请上门；她收掉私人物品、换上宽大的衣服，因为给这个人看的东西越少他坐得越短。趁他蹲着填油灰，她拿起那只不锁屏的手机，在几十条以人名命名的监控订阅里找到标着 LUCY 的一条，删掉文件、取消订阅、卸载应用，再把手机放回地上，继续做一个安静整洁、他觉得顺眼的小女人。她还听完了他的种族暗语、他关于「现金很有格调」的评语，以及一套新冠与 Antifa 的阴谋论，全程只回「嗯」「哦」。她做这一切的理由在章中就说尽了：她恨这个人，却需要他喜欢她，需要留在这间用朽木和硬土凿出来的家里。她希望这次能把 Lucy 叫醒，让她去买门链或门挡，从此不必再怕 Roger 那份变态——而这一章的最后一行补上了另一半：那样她也就不会怕 Saskia 了。
+本章把镜头交给 Saskia，写她怎样替 Lucy 收拾掉一只眼睛。她把砸碎的摄像头埋进自己那片黑土，然后抽出锤子砸碎自家一块玻璃、把旧高尔夫球丢在地上，用一种客气到谦卑的短信把 Roger 请上门；她收掉私人物品、换上宽大的衣服，因为给这个人看的东西越少他坐得越短。趁他蹲着填油灰，她拿起那只不锁屏的手机，在几十条以人名命名的监控订阅里找到标着 LUCY 的一条，删掉文件、取消订阅、卸载应用，再把手机放回地上，继续做一个安静整洁、他觉得顺眼的小女人。她还听完了他的种族暗语、他关于「现金很有格调」的评语，以及临走前那句「我可能得再装一个摄像头」，全程只回「嗯」「哦」。她做这一切的理由在章中就说尽了：她恨这个人，却需要他喜欢她，需要留在这间用朽木和硬土凿出来的家里。她希望这次能把 Lucy 叫醒，让她去买门链或门挡，从此不必再怕 Roger 那份变态——而这一章的最后一行补上了另一半：那样她也就不会怕 Saskia 了。

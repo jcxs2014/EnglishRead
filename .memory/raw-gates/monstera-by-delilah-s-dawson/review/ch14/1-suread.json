@@ -1,0 +1,53 @@
+{
+  "chapter": "ch14",
+  "facts": [
+    {
+      "anchor": "THX, BYE is spelled out in Cheetos on the coffee table",
+      "start": 127,
+      "end": 181,
+      "fact": "Lucy 早上醒来发现 Saskia 已离开，毯子盖在她身上、电视关掉，咖啡桌上用 Cheetos 拼出「THX, BYE」。"
+    },
+    {
+      "anchor": "No wonder her grandfather wouldn’t let her watch anything but the Disney Channel.",
+      "start": 448,
+      "end": 529,
+      "fact": "Lucy 认为自己被《Jennifer’s Body》改变了，并想到祖父只准她看迪士尼频道。"
+    },
+    {
+      "anchor": "Her chicken soup recipe is liquid penicillin.",
+      "start": 1352,
+      "end": 1397,
+      "fact": "Lucy 决定给（以为生病的）Saskia 熬鸡汤，用的是曾祖母的食谱。"
+    },
+    {
+      "anchor": "But when she reaches her street, she sees a vehicle in the short driveway",
+      "start": 2173,
+      "end": 2246,
+      "fact": "Lucy 骑车买菜回家，在自家车道上看到一辆本不该出现的车——警车。"
+    },
+    {
+      "anchor": "“Miss Haskell?” the woman asks. “Lucy Haskell?”",
+      "start": 3063,
+      "end": 3110,
+      "fact": "两名警察（Dover 与 Peyton）先在门廊同 Saskia 交谈，随后叫住骑车回来的 Lucy。"
+    },
+    {
+      "anchor": "The new owners brought in some landscapers, and they found a body.",
+      "start": 5271,
+      "end": 5337,
+      "fact": "Dover 告诉 Lucy：249 Durant Avenue 的新房主请园艺工来，后者发现了一具尸体。"
+    },
+    {
+      "anchor": "I was only fourteen. My grandfather got super strict after she disappeared.",
+      "start": 7702,
+      "end": 7777,
+      "fact": "Lucy 说母亲失踪时自己只有十四岁，祖父此后把她锁在家里。"
+    },
+    {
+      "anchor": "There is a knife blade stuck in her fingernail.",
+      "start": 11312,
+      "end": 11359,
+      "fact": "Lucy 切胡萝卜时刀扎进指甲，因没有急救箱，她下楼去 Saskia 家求助。"
+    }
+  ]
+}

@@ -44,6 +44,16 @@ modified: "2026-10-24"
 **为什么这样写**：作者在这里换了一整套词。前半章的恐惧都挂在硬的东西上，这一段全是软的：plush、pillowy。连天使这个比喻她都要挑过——不是站在基座上、会倒下来摔碎的大理石像。她在心里替 Lucy 归类，归类的动作本身就是占有。吻也被写成一道工序：turns、fixes the angle、gently kisses，手的动作比嘴更稳，像是先把位置摆好，再让身体进去。
 
 **读者视角提示**：视角始终在 Saskia 这一侧，所以读者拿到的是她怎么看待 Lucy，而不是 Lucy 的感觉。把对方比成不会摔碎的东西，听着像宠爱，也可以读成她需要一个不会碎的对手；原文没有替这两种读法做选择。
+> **原句 4:** "Oh, the softness of it. Saskia is half a foot taller, but now they are deliciously nose to nose, lips to lips, breasts pressed into straining breasts. Saskia slides one long leg up between Lucy’s knees and grabs her hip, pulling Lucy into her, locking them together."
+
+**中文理解**：哦，那份柔软。Saskia 比 Lucy 高出半英尺，此刻两人却正好鼻对鼻、唇对唇，胸口压着绷紧的胸口。她把一条长腿滑进 Lucy 两膝之间，抓住她的胯往自己这边带，把两个人锁在一起。
+
+**关键词**：the softness of it / half a foot taller / nose to nose, lips to lips / locking them together
+
+**为什么这样写**：作者先用一句短叹把触感推到最前，再用一个让步句写出落差——half a foot taller，身高差原本是压迫关系，but now 把它变成刚好对得上的一寸：差半英尺的人此刻鼻尖齐平，是 Saskia 在迁就，也是 Saskia 在掌控。接着的动作句全部由她做主语（slides、grabs、pulling、locking），Lucy 只提供一个受事的位置；连 softness 都是她的观感。本章后半段温度一路往上，靠的就是这种「她观察、她动手」的分工。
+
+**读者视角提示**：注意这一段的视角仍然是 Saskia，读者拿到的不是 Lucy 的感觉，而是 Saskia 觉得有多软、多正好。locked 这个词后面还会回来：上一章她刚在梦里把刀戳进一个男人的肚子，这一章她用腿和手臂把人锁住——同一个动作的两种用法。
+
 
 ## 本章词汇
 

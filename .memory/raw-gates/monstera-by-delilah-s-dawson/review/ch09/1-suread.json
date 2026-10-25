@@ -1,0 +1,53 @@
+{
+  "chapter": "ch09",
+  "facts": [
+    {
+      "anchor": "Saskia wakes up in a dark room, something hard and heavy in her hand.",
+      "start": 4,
+      "end": 73,
+      "fact": "Saskia 在一间黑屋里醒来，手里握着一件又硬又重的东西；她发现自己身处 Lucy 的公寓、站在 Lucy 的沙发前，手里握着一把刀。"
+    },
+    {
+      "anchor": "Lucy sleeps on her side, curled up like a baby, like a cat.",
+      "start": 581,
+      "end": 640,
+      "fact": "Saskia 握紧刀柄，透过敞开的卧室门张望；Lucy 侧躺着睡，像婴儿又像猫一样蜷缩，头发散在枕头上。"
+    },
+    {
+      "anchor": "she leaves the door open because she knows Roger",
+      "start": 1131,
+      "end": 1179,
+      "fact": "Saskia 记不起自己来时门是开是关，最终让门敞着，因为她知道房东 Roger 是那种绝不肯在门铰链上浪费油的人，她不能冒发出吱呀声的风险，必须不被看见地离开。"
+    },
+    {
+      "anchor": "Lucy was locked in a house for nearly ten years",
+      "start": 1846,
+      "end": 1893,
+      "fact": "Saskia 看着 Lucy 送的三只半瘪气球各自瘫在角落，回想 Lucy 显然有着全世界最糟糕的童年：被锁在屋里近十年却还能没完全疯掉。"
+    },
+    {
+      "anchor": "Saskia pulls the door almost closed and finds a key in the lock.",
+      "start": 3060,
+      "end": 3124,
+      "fact": "Saskia 把门几乎拉上，发现锁孔里插着一把钥匙，于是出门后关门、上锁并把钥匙带走；她还注意到有人用一块纸板贴住了两人门铃摄像头，便把纸板揭掉。"
+    },
+    {
+      "anchor": "she sticks the knife back in her knife block and puts the key in the gun safe",
+      "start": 3890,
+      "end": 3967,
+      "fact": "Saskia 回到自己屋里锁好所有锁，把刀插回刀架，把钥匙放进她装在衣橱里的枪柜。"
+    },
+    {
+      "anchor": "There are three more seeds nestled under her nail beds",
+      "start": 4806,
+      "end": 4860,
+      "fact": "Saskia 在浴室洗手，先用刷子、再用金属指甲锉、最后用镊子把指甲下的黑泥和种苗弄出来：第一颗小种子钻出时绿色卷须长得让她发抖，指甲床下还嵌着另外三颗，四颗都被她用纸巾包住冲进马桶。"
+    },
+    {
+      "anchor": "Saskia is frightened by how much her unconscious body wants to be near Lucy",
+      "start": 5213,
+      "end": 5288,
+      "fact": "Saskia 对自己无意识的身体如此想靠近 Lucy 感到害怕；她知道自己别无选择，必须再上楼一次确认自己握刀的样子没被拍到，并承认自己清醒的身体也想去那里。"
+    }
+  ]
+}

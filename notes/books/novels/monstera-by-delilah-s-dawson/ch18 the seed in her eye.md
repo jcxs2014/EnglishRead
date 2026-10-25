@@ -35,7 +35,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：把这一块和本章开头那句「她不想让 Roger 知道她们交好」摆在一起看：Saskia 想守住的是「房东不留意她」，Roger 偏偏用自己开门这种方式证明了，留意与否根本由不得她。也留意 Lucy 复述时的语序——她第一句就说「他自己开门进来」，先把责任交给了门，而不是交给自己的身体。
 
-> **原句 3:** "Lucy’s back is now wet with aloe gel, but Saskia keeps moving her fingers around gently, enjoying the glide of Lucy’s skin. Lucy does not seem in a hurry to move, in any case."
+> **原句 3:** "Lucy looks back over her shoulder as if asking Saskia to continue with the aloe, and Saskia obliges. Turning away again, Lucy says, “I told him I had plenty of chargers and I’d add ten dollars to next month’s rent to make up for it.”"
+
+**中文理解**：Lucy 回头瞥了一眼，像是在请 Saskia 继续涂芦荟，Saskia 就从命了。Lucy 重新别过脸去，说：她告诉 Roger，自己有很多充电器，可以在下个月房租里多付十美元补上。
+
+**关键词**：looks back over her shoulder / Saskia obliges / I had plenty of chargers / add ten dollars to next month’s rent
+
+**为什么这样写**：这一块把上一章的收尾接了过来：Roger 的「充电器」是一场谎，而赔偿这张账单是 Lucy 自己写下的。作者让 Saskia 先「从命」再让 Lucy 报账，两件事都没有商量的口气——一个继续涂药，一个把谎价说清楚。ten dollars 与 plenty of chargers 并排放在一处，把 Lucy 的应对写成一种过分周全的礼貌：她不但替 Roger 圆了谎，还主动加钱。读者由此看到她对付 Roger 的方式就是把自己缩得更小。
+
+**读者视角提示**：把这句话和 Roger 上一章那句「加十美元」放在一起看——提钱的是她自己，Roger 什么都还没要；她越主动，读者越清楚她习惯用「不添麻烦」换安全。这也解释了下一块她为什么不肯从 Saskia 手底下挪开：那是她今天唯一不用付钱的东西。
+
+> **原句 4:** "Lucy’s back is now wet with aloe gel, but Saskia keeps moving her fingers around gently, enjoying the glide of Lucy’s skin. Lucy does not seem in a hurry to move, in any case."
 
 **中文理解**：Lucy 的后背现在被芦荟胶浸得湿亮，可 Saskia 的手指还在轻轻打圈，享受着在 Lucy 皮肤上滑动的那点顺滑。Lucy 看样子也一点都不急着挪开。
 
@@ -45,7 +55,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：紧接着这一块，Saskia 会忽然想起自己根本不该碰 Lucy，把手收回去，再把剩下的芦荟叶丢进厨房的垃圾桶。注意她收回手的理由是「不该」，不是「不想」——作者挑哪个词，人物的处境就换一个样。这一节的体温也会留到后面：章末她之所以逃不掉，一半是因为两只手都被占着。
 
-> **原句 4:** "But now someone has made her soup, and she’s not even sick, and she is going to have to slurp up every bite, secure in the knowledge that she lied to the innocent girl who made the mistake of liking her."
+> **原句 5:** "But now someone has made her soup, and she’s not even sick, and she is going to have to slurp up every bite, secure in the knowledge that she lied to the innocent girl who made the mistake of liking her."
 
 **中文理解**：可现在有人替她做了汤，而她根本没生病，她却必须把每一口都吸溜着喝光，并且心里清楚：她骗了这个喜欢上她的、无辜的姑娘。
 
@@ -55,7 +65,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：这一句里的 lied 没有交代是什么谎，它只说这笔账已经由她自己记下。往前看她给这间公寓和自己立过一套规矩：不让人靠近，不让人欠她什么；这锅汤是第一次有人不管她的规矩，把东西径直送到她手里。往下看她到底没有把它推开。
 
-> **原句 5:** "Their faces are inches apart, and Saskia can see little flecks of gray and gold in Lucy’s blue eyes, as secret and distinct as the inclusions in a diamond. Lucy’s fingernail gently scrapes the corner of Saskia’s eye, and Saskia freezes, her entire body on alert as she realizes what Lucy has found. She feels a gentle pop, one she knows all too well."
+> **原句 6:** "Saskia has sixty-three plants in her apartment, each of which she knows intimately, but they are not animals. They are not people. They do not care for her or return her energy."
+
+**中文理解**：Saskia 的公寓里有六十三株植物，每一株她都熟得不得了，可它们不是动物。它们不是人。它们不会照料她，也不会把她的力气还回来。
+
+**关键词**：sixty-three plants / knows intimately / they are not animals / do not care for her or return her energy
+
+**为什么这样写**：数字与三次否定顶着来：六十三株、每一株都熟，紧接着连说三次它们不是——不是动物、不是人、不回报。作者让 Saskia 自己把这座植物王国数出来，再一句句削掉它的意义；她数得越清楚，越显得她身边没有活人。句式也在模仿她：短、断、不留余地。这一段紧接在 Lucy 熬汤之前，读者因此明白那锅汤为什么重——它不是照料，是第一次有人做了植物做不到的事。
+
+**读者视角提示**：注意那个精确到个位的数字，以及她对每一株的熟稔：她不是随手养养。把这一块和上一块并读，就能理解她为什么在别人碰到她时先享受、再抽手——她的世界早已被安排成不需要人的样子。往后看，从她身体里长出来的正是一颗种子：她把自己也活成了这一类生命。
+
+> **原句 7:** "Their faces are inches apart, and Saskia can see little flecks of gray and gold in Lucy’s blue eyes, as secret and distinct as the inclusions in a diamond. Lucy’s fingernail gently scrapes the corner of Saskia’s eye, and Saskia freezes, her entire body on alert as she realizes what Lucy has found. She feels a gentle pop, one she knows all too well."
 
 **中文理解**：两个人的脸只隔几英寸，Saskia 能看清 Lucy 蓝眼睛里那些灰与金的小斑点，隐秘而清晰，像钻石里的内含物。Lucy 的指甲轻轻刮过 Saskia 的眼角，Saskia 僵住了，全身绷紧地意识到 Lucy 摸到了什么。她感到轻轻一声「啵」，那是她再熟悉不过的动静。
 

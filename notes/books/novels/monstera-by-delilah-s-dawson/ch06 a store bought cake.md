@@ -11,7 +11,7 @@ modified: "2026-10-24"
 - **情感弧线位置**：Lucy 这条线上的第六个台阶，也是全书里少见的、几乎全由善意构成的一章。曲线的形状是：又要开口求人时的别扭 → 摆箱子、烤松饼时的手抖 → 等待的几个钟头里第一次容许自己承认想要什么 → 搬东西时偷看又立刻自责 → 坦白时几乎讲不下去 → 被抱住时的僵直与回抱 → 停在一只超市蛋糕上哭出来。前一章是隔着门缝的试探，这一章门开了、人上楼了；她哭不是因为蛋糕贵，是因为有人把她随口说的一句话当了真。
 - **Tropes 兑现/反转**：兑现「用食物换一次接触」「练肌肉的邻居」「一起拼家具是好感的试纸」「被补上的生日」。反转有三处。第一，这章的推手是 Lucy 自己：家具是她订的，箱子是她摆到显眼处的，松饼是她烤的，连偶遇都是排练过的。第二，最亲密的动作不是接吻而是拥抱——她连被抱都要先僵上几秒，脸贴胸口、心跳像雷，欲望和恐惧同时在场，作者不替她分辨。第三，恐怖类型读者等来的不是植物作乱，而是一句脏话和一只超市蛋糕；这一章的怪物是那位已经死掉的祖父，锁却还留在她脑子里。
 - **人物弧线**：Lucy 这章做成了三件事——主动请人帮忙、当面说出自己想要什么、把身世第一次讲出口。她的社交仍然靠脚本（松饼、称量、请人拼书柜），但她开始说脚本以外的话：「I need some help」「Yes, ma'am」，也容许自己接住一声「Babe」。Saskia 从头到尾没有变脸：答应搬箱子、连第二个边桌也没留给 Lucy 单独装、抱完还要问一句「Was that weird?」，听见生日在十月就说「you don't have to wait for anything」。Roger 与租约的阴影整章缺席，作者把 Lucy 放进一个能喘气的地方，只留一盆安静站着的植物。
-- **叙事手法**：全程第三人称限知，镜头钉在 Lucy 身上，读者和她一起等门、一起猜对方在想什么。作者用一串钟点给关系标刻度：十分钟后的电话、下午四点、半小时后回来；距离则用动作量——Saskia 跨过房间只用了「In two steps」，Lucy 回抱靠的是「tentatively」。屋里那盆 monstera 是唯一在场的植物，它没有任何动作，只被她盯着看，成了一处沉默的坐标。声音分三层：窗外是铁片的 clank，耳边是心跳的 thunderstorm，楼上是下楼的脚步。
+- **叙事手法**：全程第三人称限知，镜头钉在 Lucy 身上，读者和她一起等门、一起猜对方在想什么。作者用一串钟点给关系标刻度：十分钟后的电话、下午四点、半小时后回来；距离则用动作量——Saskia 跨过房间只用了「In two steps」，Lucy 回抱靠的是「tentatively」。屋里那盆 monstera 是唯一在场的植物，它没有任何动作，只被她盯着看，成了一处沉默的坐标。声音分三层：窗外是铁片被举起的 clank，耳边是贴上去才听见的心跳 thunderstorm，楼下是四点整的那记敲门声。
 
 ## 精读
 
@@ -65,7 +65,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：留意 she says 与 finding the words one by one 把「说话」本身写成了一个动作。往后每一次坦白都照这个节奏来：短、慢、不肯多说一个字。
 
-> **原句 6:** "wasn’t allowed out of the house after middle school. So I remember there being places you could take art classes, but I don’t know where they are, or how much it would be, or where to buy paint. It’s just a lot.”"
+> **原句 6:** "I… wasn’t allowed out of the house after middle school. So I remember there being places you could take art classes, but I don’t know where they are, or how much it would be, or where to buy paint. It’s just a lot.”"
 
 **中文理解**：她接着说：从中学起，她就不被允许出门。所以她记得世上有能上美术课的地方，却不知道那些地方在哪、要花多少钱、颜料去哪儿买——把这一切说完，她只留下一句「这些事实在太多了」。
 

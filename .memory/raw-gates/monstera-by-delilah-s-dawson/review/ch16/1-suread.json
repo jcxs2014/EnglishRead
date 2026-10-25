@@ -1,0 +1,53 @@
+{
+  "chapter": "ch16",
+  "facts": [
+    {
+      "anchor": "Lucy does not want to tell Saskia about her mother’s skeleton.",
+      "start": 5,
+      "end": 67,
+      "fact": "Lucy 不愿把母亲的骸骨（skeleton）一事告诉 Saskia。"
+    },
+    {
+      "anchor": "Her tongue slips out, slicks across Saskia’s lips",
+      "start": 1002,
+      "end": 1051,
+      "fact": "Lucy 第一次吻 Saskia：舌头滑过 Saskia 的嘴唇，Saskia 随即叹息、软化并张嘴回应。"
+    },
+    {
+      "anchor": "spreading her feet to cage Lucy between her long legs",
+      "start": 1165,
+      "end": 1218,
+      "fact": "Saskia 在角落往下滑、张开双脚，把 Lucy 夹在自己两条长腿之间。"
+    },
+    {
+      "anchor": "used binoculars to peek through the leaves",
+      "start": 2334,
+      "end": 2376,
+      "fact": "Lucy 曾用双筒望远镜透过叶子偷看 Saskia（此前还隔着厨房窗户看她穿紧身衣锻炼）。"
+    },
+    {
+      "anchor": "Saskia pulls away, holding Lucy’s face.",
+      "start": 3198,
+      "end": 3237,
+      "fact": "Saskia 捧住 Lucy 的脸，把 kiss 拉开。"
+    },
+    {
+      "anchor": "“There’s a lot you don’t know about me.” Saskia’s eyelashes sweep down.",
+      "start": 3335,
+      "end": 3406,
+      "fact": "Saskia 说 “There’s a lot you don’t know about me”，垂下睫毛，暗示自己不是 Lucy 以为的那个人。"
+    },
+    {
+      "anchor": "You’re kind, and you almost never go out, and you’re good with plants",
+      "start": 3541,
+      "end": 3610,
+      "fact": "Lucy 列举她对 Saskia 的了解：善良、几乎不出门、擅长养植物，并说自己喜欢她。"
+    },
+    {
+      "anchor": "A fire alarm—from her apartment.",
+      "start": 3957,
+      "end": 3989,
+      "fact": "一阵火警警报从 Lucy 自己的公寓传来，打断两人。"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapter": "ch07",
+  "facts": [
+    {
+      "anchor": "Saskia is in her bathroom, brushing the sugary frosting out of her teeth.",
+      "start": 4,
+      "end": 77,
+      "fact": "Saskia 在自家浴室刷牙，把牙上的含糖糖霜刷掉；她很久没吃蛋糕了，因为蛋糕完全不含蛋白质，也因为她自新冠疫情前就没参加过派对。"
+    },
+    {
+      "anchor": "She has never met a single one of them in person. It’s better this way.",
+      "start": 429,
+      "end": 500,
+      "fact": "Saskia 在家办公，她所在部门的同事分散在全国各地，她从未见过其中任何一个人本人，并觉得这样更好。"
+    },
+    {
+      "anchor": "Did she really spend hours in Lucy’s apartment?",
+      "start": 503,
+      "end": 550,
+      "fact": "Saskia 回想自己是否真在 Lucy 的公寓里待了好几个小时，帮这个可怜女孩搬箱子。"
+    },
+    {
+      "anchor": "Saskia hugged her, wrapped her arms around that small, plush body.",
+      "start": 966,
+      "end": 1032,
+      "fact": "Saskia 抱过 Lucy，双臂环住她那小巧、柔软的身体；她仍能感觉到 Lucy 几乎像解冻的永久冻土一样融化进她怀里。"
+    },
+    {
+      "anchor": "Taking her tweezers, she gently moves her eyelashes apart",
+      "start": 1758,
+      "end": 1815,
+      "fact": "Saskia 检查手臂内侧、指甲下、腋窝褶皱和大腿皮肤，拿出放大镜和镊子，用镊子轻轻拨开自己的睫毛。"
+    },
+    {
+      "anchor": "at its end is another tiny black seed tipped with blood.",
+      "start": 1914,
+      "end": 1970,
+      "fact": "Saskia 从睫毛间抽出一根滑腻的绿色卷须，卷须末端是另一颗带血的小黑籽。"
+    },
+    {
+      "anchor": "promises herself she won’t voluntarily touch Lucy again.",
+      "start": 2004,
+      "end": 2060,
+      "fact": "Saskia 把那颗籽丢进马桶，并向自己承诺不再主动碰 Lucy。"
+    },
+    {
+      "anchor": "The poor girl deserves that much.",
+      "start": 2063,
+      "end": 2096,
+      "fact": "Saskia 认为这个可怜女孩至少值得这个，而且值得远不止这些。"
+    }
+  ]
+}

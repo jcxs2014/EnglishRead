@@ -53,7 +53,7 @@ modified: "2026-10-24"
 
 **为什么这样写**：第一次出场就给了三件事：打量（身体的评估）、假牙（衰败又具有攻击性的口）、以及一连串不给她插话空间的短句。「trust me」和「you’re gonna like it」是替别人预先决定喜好的句式，说话人越亲热，读者的警觉越该升起来。全章的危险都从这种亲切里出来，而不是从任何恐怖场面里。
 
-**读者视角提示**：把这句自我介绍和章末他说的「我会给你找麻烦」放在一起看——同一个人，两种语气，中间只隔了一小时。你越早发现他不需要变脸，后面越不意外。
+**读者视角提示**：把这句自我介绍和后来那句「I’ll make myself a problem」放在一起看——同一个人，两种语气，中间只隔着一场看房。你越早发现他不需要变脸，后面越不意外。
 
 > **原句 5:** "“Give it a good read, and if it sounds like a plan, all you got to do is sign,” he tells her. “I’m old school. I don’t do online payments. I don’t take credit cards. I want cash or check in my mailbox on the first of the month, and if I don’t get it, I’ll make myself a problem. You understand?”"
 

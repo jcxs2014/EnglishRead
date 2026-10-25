@@ -1,0 +1,53 @@
+{
+  "chapter": "ch01",
+  "facts": [
+    {
+      "anchor": "Lucy Haskell, only twenty-four and feeling even younger",
+      "start": 480,
+      "end": 535,
+      "fact": "露西·哈斯克尔（Lucy Haskell）二十四岁，在一栋只有墙壁和床、没有「家」的房子里长大；母亲曾掉进装满白色粉末的坑里，随后失踪。"
+    },
+    {
+      "anchor": "“I’m Roger. I’m your new landlord.",
+      "start": 2864,
+      "end": 2898,
+      "fact": "一个六十多岁的矮壮男人在人行道上出现，自我介绍叫罗杰（Roger），是她的新房东，说要带她看房并签约。"
+    },
+    {
+      "anchor": "He heads up to the porch at a sprightly pace",
+      "start": 3023,
+      "end": 3067,
+      "fact": "罗杰快步走上门廊，用挂在腰带上的钥匙圈翻找出较新的那扇门，打开 361B 单元，露西进去看到小门厅和螺旋楼梯。"
+    },
+    {
+      "anchor": "I want cash or check in my mailbox on the first of the month",
+      "start": 8045,
+      "end": 8105,
+      "fact": "罗杰把一份像复印件一样的折叠租约摊在厨房圆桌上，要求每月 1 号把现金或支票放进他的邮箱，并说自己脾气不好、不要惹他。"
+    },
+    {
+      "anchor": "No pets under any circumstances, up to and including a goldfish.",
+      "start": 8773,
+      "end": 8837,
+      "fact": "租约条款包括：提前三十天通知搬出、首末月租金加押金、任何情况下不许养宠物（连金鱼也不行）、不许有室友、不得关闭或干扰监控摄像头。"
+    },
+    {
+      "anchor": "That’s your neighbor. Saskia. She’ll be done soon.",
+      "start": 10278,
+      "end": 10328,
+      "fact": "露西问起外面的撞击声，罗杰走到厨房水槽窗边看向后院，说那是邻居萨斯基亚（Saskia）在弄出的声音，她每天大约响一小时，是好租客、从 Covid 之前就住在这里。"
+    },
+    {
+      "anchor": "Her hands shaking, Lucy signs the lease.",
+      "start": 11139,
+      "end": 11179,
+      "fact": "露西手抖着签了租约；罗杰抢过笔在自己那栏签字并把纸拿走，说会把副本放进邮箱。"
+    },
+    {
+      "anchor": "A sweaty, muscular body lifting a black barbell",
+      "start": 12705,
+      "end": 12752,
+      "fact": "罗杰走后，露西攥着钥匙从厨房窗看到后院砖地满是植物，透过叶子看到一个满身汗的健壮身体在举黑色杠铃，那正是她的新邻居萨斯基亚。"
+    }
+  ]
+}

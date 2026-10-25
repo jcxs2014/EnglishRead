@@ -15,7 +15,17 @@ modified: "2026-10-24"
 
 ## 精读
 
-> **原句 1:** "She’d expected to find someone in layers of rags from off the street, but he’s wearing matching plaid pajamas and only one slipper. And he’s bleeding out on her floor from a stab wound. Blood oozes out of his belly, and there’s a foul stench suggesting something deeper is leaking."
+> **原句 1:** "If she lives through this, whatever it is, she will go back to the store tomorrow and buy a baseball bat. Goodwill has several."
+
+**中文理解**：如果她能活着熬过这件事——不管这件事到底是什么——她明天就回那家店买一根棒球棍；Goodwill 里有好几根。
+
+**关键词**：If she lives through this / whatever it is / buy a baseball bat / Goodwill has several
+
+**为什么这样写**：这一块的功能是给自己留一条后路：前半句的条件从句把「今晚」和「明天」分开，她已经在替活下来的自己安排采购；后半句 Goodwill has several 更是把这件事说成日常——二手店有货，不贵，随时能买。作者让一个手无寸铁的人在最怕的时候先想购物清单，既写出她的无措，也埋下本书后面那根真正打到人头上的球棒。读者读到这里只当她是在鼓起勇气，不知道那件武器最后会落到谁手里。
+
+**读者视角提示**：注意 it 与 whatever it is 的含糊：她连自己在躲什么都说不出名字，却已经想好了对付它的工具。这句与本章结尾的 What the hell? 是一对——一个给未来的恐惧找武器，一个给刚发生的恐惧找解释，两个都没有答案。记住这根球棒：它在本章只是一句打算。
+
+> **原句 2:** "She’d expected to find someone in layers of rags from off the street, but he’s wearing matching plaid pajamas and only one slipper. And he’s bleeding out on her floor from a stab wound. Blood oozes out of his belly, and there’s a foul stench suggesting something deeper is leaking."
 
 **中文理解**：她本以为会看见一个从街上来的、裹着一层层破衣的人，可这个人穿着成套的格纹睡衣，脚上只剩一只拖鞋。他正因一处刀伤在她家地板上流血将尽。血从他腹部一点点渗出来，还有一股恶臭，暗示着更深处有什么东西在漏。
 
@@ -25,7 +35,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：这一块里每个细节都在拆「陌生人等于危险」的等式：格纹睡衣、一只拖鞋、一处刀伤，全是家里才有的东西。读者和 Lucy 一样，只能站在几步之外看。可以先记一笔：捅出这一刀的人不在画面里，本章也不打算把他交出来。
 
-> **原句 2:** "It’s freezing, and all the hairs on Lucy’s body are standing up. “That bitch,” the man growls, staring hate into her eyes. Pulling her so close that she can smell his fetid breath, he coughs, spraying blood all over her face."
+> **原句 3:** "It’s freezing, and all the hairs on Lucy’s body are standing up. “That bitch,” the man growls, staring hate into her eyes. Pulling her so close that she can smell his fetid breath, he coughs, spraying blood all over her face."
 
 **中文理解**：她浑身发冷，所有汗毛都竖了起来。那个男人盯着她的眼睛，恨意十足地低声骂出「那个婊子」。他把她拉得那么近，近到她能闻到他嘴里腐臭的气味，然后他咳了一声，血喷了她一脸。
 
@@ -35,7 +45,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：留意男人骂的是 that bitch，一个第三人称的指认，读起来像把眼前的人当成了另一个人。读者此刻知道的并不比 Lucy 多：她不知道谁捅了他，也不知道他嘴里的那个「她」是谁。血喷到脸上的那一下，是本章把两个人都逼到极限的位置。
 
-> **原句 3:** "When she goes to the bathroom and turns on the light, there is no constellation of blood across her face, no angry red freckles like scattered stars."
+> **原句 4:** "When she goes to the bathroom and turns on the light, there is no constellation of blood across her face, no angry red freckles like scattered stars."
 
 **中文理解**：她走进浴室、打开灯，脸上没有那一片星座似的血迹，也没有像撒开的星星那样、发红的斑点。
 

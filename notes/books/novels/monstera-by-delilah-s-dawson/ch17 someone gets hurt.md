@@ -45,7 +45,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：这一块是 Lucy 的来路。读者的同情不必停在「她有个严苛的祖父」，而要停在其实他并没有看见她这一点上。她缺的不是关注，是被当成一个具体的人；后面她追问 Saskia 是不是自己有问题时，用的就是这道旧伤。
 
-> **原句 4:** "“There is absolutely nothing wrong with you. I just don’t want to hurt you.” Saskia nuzzles her, cheek to cheek, and it’s just so goddamn intimate."
+> **原句 4:** "“Do you have a—a girlfriend?” Lucy asks suddenly, her greatest fear rushing out of her mouth. “Is that why you wore the mask? Or a boyfriend? Or whatever?”"
+
+**中文理解**：「你有——女朋友吗？」Lucy 突然问出口，最大的恐惧跟着这句话一起滑出来。「还是因为这才戴口罩？或者男朋友？随便什么。」
+
+**关键词**：a—a girlfriend / her greatest fear rushing out of her mouth / why you wore the mask / Or whatever
+
+**为什么这样写**：这是全章唯一一次由 Lucy 主动改换话题的句子，作者先让她的口误露出来：a—a 这个结巴不在语法上，而在她要问的东西上。旁白紧接着把她最怕的事命名一次，greatest fear 却贴着动作走，不给她收回的机会。问句最后落到 mask 上，读者这才被提醒：那只口罩已经在第十二、十三、十五章反复出现，而她一直没敢开口问。Or a boyfriend? Or whatever? 三连句把问题越缩越小，是她自己替 Saskia 铺好台阶；下一段的回答只有两个词，落差全落在这里。
+
+**读者视角提示**：注意她替对方铺了多少退路：女朋友、男朋友、随便什么。她越是要把答案放宽，越说明她怕的是「反正不是我」。读到后面那句「一点毛病都没有」，可以回头看这一问——她两次都在要一个能把自己排除在外的解释。
+
+> **原句 5:** "“There is absolutely nothing wrong with you. I just don’t want to hurt you.” Saskia nuzzles her, cheek to cheek, and it’s just so goddamn intimate."
 
 **中文理解**：Saskia 说 Lucy 身上一点毛病都没有，自己只是不想伤到她；她把脸贴上来，脸颊蹭着脸颊，亲密得让人受不了。
 
@@ -55,7 +65,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：注意这个答案的结构，先安慰，再给条件。嘴上在退，人却贴上来了，两个动作要一起看。也留意她选的是从背后抱住这个姿势，Lucy 看不见她的脸，只能从贴过来的温度里猜她到底想说什么。
 
-> **原句 5:** "She sighs, squeezes Lucy’s arms, and steps away. “People get hurt around me. So it’s not you, it’s me, hi, I’m the problem, it’s me.”"
+> **原句 6:** "She sighs, squeezes Lucy’s arms, and steps away. “People get hurt around me. So it’s not you, it’s me, hi, I’m the problem, it’s me.”"
 
 **中文理解**：她叹了口气，捏了捏 Lucy 的手臂，然后退开一步。她说在她身边的人会受伤，所以问题不在 Lucy，在她自己。
 
@@ -65,7 +75,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：她把「不是你的问题」说得很好听，可读者要问的是那到底是谁的问题。这一块没有答案，只有一个后退的动作。记住这一步退开，它是全章的支点，后面发生的事会让这几句话听上去像预言。
 
-> **原句 6:** "“Oh, you poor thing. It’s all red.” She lets the top fall back into place and steps away, her face grim. “See? Someone gets hurt.”"
+> **原句 7:** "“Oh, you poor thing. It’s all red.” She lets the top fall back into place and steps away, her face grim. “See? Someone gets hurt.”"
 
 **中文理解**：Saskia 说「可怜的，全红了」，把衣摆放回去，退开，脸上很难看，然后说：「看吧，有人受伤了。」
 
@@ -75,7 +85,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：这是全章最反讽的一句，受伤的人还没喊疼，先开口的却是那个说要保护她的人。读这句时不必急着赞同 Saskia：烫伤是意外溅上来的，而 Saskia 要防的是她自己动手伤人，两件事并不是一回事。
 
-> **原句 7:** "She is angry that he has seen anything of her below the neck. When she turns back around, he is making a great point to look elsewhere, like he’s out for a nice day of sightseeing. The asshole."
+> **原句 8:** "She is angry that he has seen anything of her below the neck. When she turns back around, he is making a great point to look elsewhere, like he’s out for a nice day of sightseeing. The asshole."
 
 **中文理解**：她气的是他看见了她脖子以下的任何一点。等她转过身，他正煞有介事地把目光挪到别处，像出门观光一样。这个混蛋。
 
@@ -85,7 +95,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：视角始终没有交给 Roger，读者被按在 Lucy 被看的位置上。Saskia 走开不过几分钟，另一个男人就用火警当理由站到了门口；这一章真正的威胁，从一个怕自己伤人的女人，换成了一个有正当理由进门的男人。
 
-> **原句 8:** "That answer clearly does not satisfy Roger, but there isn’t much he can do without revealing that he was illegally recording a young woman in her home. “I’ll get you a new one, but you got to leave it there, okay? I want my tenants to have what they need.”"
+> **原句 9:** "That answer clearly does not satisfy Roger, but there isn’t much he can do without revealing that he was illegally recording a young woman in her home. “I’ll get you a new one, but you got to leave it there, okay? I want my tenants to have what they need.”"
 
 **中文理解**：这个回答显然没让 Roger 满意，可他要是继续追究，就得承认自己一直在非法录下一个住在他房子里的年轻女人。他说会给 Lucy 买个新的，但她得把那东西留在原地，还说自己希望房客需要的东西都有。
 

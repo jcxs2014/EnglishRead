@@ -25,7 +25,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：读这一段别急着把 Lucy 当成被动的一方。本事是从书里学的，但学得很认真，而且是她先动手。留意作者把没经验写成一句轻描淡写的让步（Although），读者的同情会自然落到她这边；后面 Saskia 退缩之所以刺人，是因为这段已经先把读者说服了：她准备得这么充分，凭什么不成。
 
-> **原句 2:** "Still on her tiptoes, Lucy threads her arms around Saskia’s neck and turns her head, just a little, for a better angle. Their height difference makes it feel as if Lucy is reaching, seeking, yearning. Saskia’s arms are easy around her, like she is still scared of something, still holding back—like Lucy is made of glass, and she’s afraid to squeeze too hard."
+> **原句 2:** "Her tongue slips out, slicks across Saskia’s lips, and like a magic trick, Saskia sighs and softens and opens her mouth as she slides down a little in the corner, spreading her feet to cage Lucy between her long legs."
+
+**中文理解**：她的舌头滑出来，掠过 Saskia 的嘴唇；像变戏法一样，Saskia 叹了一声、软下来、张开嘴，同时顺着墙角往下滑了一点，把双脚分开，将 Lucy 圈在自己两条长腿之间。
+
+**关键词**：tongue slips out / slicks across Saskia’s lips / like a magic trick / sighs and softens and opens her mouth / cage Lucy between her long legs
+
+**为什么这样写**：这一句完成了全章的第一次换手，却一次也没让她们说话。sighs and softens and opens her mouth 三个动作叠成一段下坡，句子先把她写软，紧跟着一个动词把她写硬：cage。软与围在同一句里落地，读者因此看得清 Saskia 不是被推开的，是她自己张开的。作者偏偏把 cage 这个带囚禁意味的词交给一向自称「不该碰她」的人，与全书「谁关住谁」的主题咬合。like a magic trick 是全章唯一一个戏法式的比喻，语调故意轻佻，替这一秒钟卸掉郑重，也替后面那句自白留出落差。
+
+**读者视角提示**：注意顺序，先叹、再软、再张嘴，最后才是腿。她的身体比她的判断早到一步——这恰恰是下一页她说「有很多你不知道的事」时最难看的地方：她先答应了，然后才想起自己是谁。
+
+> **原句 3:** "Still on her tiptoes, Lucy threads her arms around Saskia’s neck and turns her head, just a little, for a better angle. Their height difference makes it feel as if Lucy is reaching, seeking, yearning. Saskia’s arms are easy around her, like she is still scared of something, still holding back—like Lucy is made of glass, and she’s afraid to squeeze too hard."
 
 **中文理解**：Lucy 还踮着脚，把手臂绕上 Saskia 的脖子，把头偏了一点，好找个更好的角度。两个人的身高差让这个吻像是她在往上够、在找、在渴求。Saskia 的手臂松松地环着她，像还在怕什么、还留着劲，像 Lucy 是玻璃做的，怕一用力就碎。
 
@@ -35,7 +45,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：这一块的温度是假的热。手臂环着，却没有收紧；嘴张开了，人还在退。读者若只读动作，会觉得 Saskia 冷淡；读到 made of glass 才明白她在替对方省力。也留意踮脚这个姿势自始至终没有改，全章 Lucy 都在往上够，这段关系的方向在这一句里就定好了。
 
-> **原句 3:** "The whimper Saskia makes as Lucy softly sucks on her tongue sounds almost like an apology, but then it becomes a growl and Saskia finally, finally starts kissing her back. Her arms unclasp from Lucy’s back, her hands cupping Lucy’s jaw as she takes control of the kiss, lapping and pressing."
+> **原句 4:** "The whimper Saskia makes as Lucy softly sucks on her tongue sounds almost like an apology, but then it becomes a growl and Saskia finally, finally starts kissing her back. Her arms unclasp from Lucy’s back, her hands cupping Lucy’s jaw as she takes control of the kiss, lapping and pressing."
 
 **中文理解**：Lucy 轻轻吮她的舌头时，Saskia 发出的那一声呜咽听起来几乎像道歉；可它随后变成一声低吼，Saskia 终于、终于开始回吻。她的手臂从 Lucy 背上松开，双手捧住 Lucy 的下巴，把这个吻的主导接了过去，舔着、压着。
 
@@ -44,6 +54,16 @@ modified: "2026-10-24"
 **为什么这样写**：全章唯一一次攻守换手，作者却用一个声音完成它。先是 whimper，再点明它 sounds almost like an apology——在吻里道歉，等于替自己的想要认错；but then 一掉头，同一个喉咙里出来的是 growl，意义翻面，人没有换。finally 连写两次，把 Lucy 这一边等的时间也算进去：她等的不是回应，是对方肯不肯承认自己想要。接下来两个动词方向相反，unclasp 是松开，cupping 是捧住，中间不给过渡，这对反向动作说明 Saskia 的接手不是扑上来，是先放手再握住。takes control 把主导写成一个可以移交的东西，而交出它的是 Lucy。
 
 **读者视角提示**：记住这一块里 Saskia 的手落在哪里，是 Lucy 的脸。这个位置要求两个人对着看，所以她接下来退开时，退这个动作是捧着对方的脸完成的。前面所有写怕、写僵、写收着的地方，都是为了这一刻的低吼有力；读者听见 growl，应该同时听见那句没说完的道歉。
+> **原句 5:** "“There’s a lot you don’t know about me.” Saskia’s eyelashes sweep down. “Maybe I’m not who you think I am.”"
+
+**中文理解**：「我身上有很多你不知道的事。」Saskia 的睫毛垂下去。「也许我不是你以为的那个人。」
+
+**关键词**：a lot you don’t know about me / eyelashes sweep down / Maybe I’m not who you think I am
+
+**为什么这样写**：这两句是全书真正的引信。读者已经见过她的睫毛里夹出过带血的种子，所以这句自白在此既像求饶又像预警。作者把最重的信息装进两个最短的句子，中间只隔一句写睫毛的动作：sweep down 让眼睛先替她退场，把「不敢看」演在动作里。前一句陈述事实——我知道的比你多；后一句升级到身份——我可能不是你以为的那个人。她说完，Lucy 的回应是把所知道的一切数一遍，两个人的重不在同一个层面上。
+
+**读者视角提示**：读这两句时回想她的每一次躲闪：前几次她对着镜子处理自己身上的东西，这一次她对着 Lucy 说出口。也留意她退开半步时手还捧在 Lucy 脸颊上——推开这个动作，是用捧着对方脸的手完成的。
+
 
 ## 本章词汇
 

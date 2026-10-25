@@ -35,7 +35,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：这一句和第 13 章的末行是同一个动作——那边只给了一句「醒来时手里握着一把刀」，这里补上了地点和刀的来处。也记住：本章后面 Saskia 会自己说出「怪物」这个词，问的是什么样的怪物才对满身是血的可爱女孩说不——她怕的从来不是刀，是自己。
 
-> **原句 3:** "Lucy unwraps the bloody paper towel to show a horizontal slash through the center of her fingernail, a deep one, right down into the meat. Blood oozes out. “I feel like an idiot,” she admits."
+> **原句 3:** "Saskia leads her to the kitchen and pulls a pink Caboodle down from a cabinet, before turning to Lucy. “Let’s see it.”"
+
+**中文理解**：Saskia 领她进厨房，从柜子里取下一只粉色的 Caboodle 盒子，才转身面对她：「让我看看。」
+
+**关键词**：leads her to the kitchen / a pink Caboodle / down from a cabinet / Let’s see it
+
+**为什么这样写**：上一段 Lucy 还在门口报出「切胡萝卜切到指甲」的说法，作者没有让 Saskia 追问，而是先给出一条最短的动线：进屋、进厨房、取盒子。粉色 Caboodle 是那种中学女生用来装发圈和唇彩的塑料盒，如今装着创可贴和药：颜色与用途错位，正好把这个人写出来——她保留着少女时代的盒子，却过着不见人的生活。这一笔还接住上一章：第十四章里 Lucy 刚发现自己连一只急救箱都没有，这一章她带着伤口上门，由隔壁那个正盘算躲开她的人接住。收尾两个词 Let’s see it 把决定权交给眼睛：先看伤口，再谈别的。
+
+**读者视角提示**：留意「谁有急救箱」这件小事——上一章 Lucy 用纸巾缠手指，这一章 Saskia 拉开柜门就有盒子。这层照护关系在本章最后一行会被反置：轮到 Lucy 动手替她摘下口罩。
+
+> **原句 4:** "Lucy unwraps the bloody paper towel to show a horizontal slash through the center of her fingernail, a deep one, right down into the meat. Blood oozes out. “I feel like an idiot,” she admits."
 
 **中文理解**：Lucy 揭开那团血淋淋的纸巾，露出指甲正中一道横切的伤口，切得很深，一直切进肉里。血慢慢往外渗。她承认，她觉得自己像个傻瓜。
 
@@ -45,7 +55,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：往前回想她在门口给出的说法——切胡萝卜切到的。一道横在指甲正中、深进肉里的口子，配一个厨房事故的说法；信不信由你，作者只负责把两样东西并排放着。还要留意「我像个傻瓜」这句：它会在本章后半段被 Saskia 正面驳回。
 
-> **原句 4:** "“The police—that’s why they were here. They think they found—her—her body.” Lucy’s breath catches, and she covers her face with her hands."
+> **原句 5:** "“The police—that’s why they were here. They think they found—her—her body.” Lucy’s breath catches, and she covers her face with her hands."
 
 **中文理解**：她说警察来就是为了这个，他们认为他们找到了——她——她母亲的遗体。Lucy 的呼吸卡在了一半，她用双手捂住了自己的脸。
 
@@ -55,7 +65,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：注意「他们认为找到了」这个措辞——它把母亲的死留在未确认的状态里，也解释了 Lucy 为什么既像在报丧又像在等一个否定。读完这一块再回头看开头那套装病方案，就会发现她的计划已经被一件她控制不了的事抢先了。
 
-> **原句 5:** "“You are not stupid, and whoever told you that you were stupid is an asshole, even if the asshole is you,” Saskia says as gently but firmly as she can."
+> **原句 6:** "Saskia reaches down, lifts Lucy’s chin so that they are making the deepest eye contact Saskia has had with another person in years, Zoom calls notwithstanding."
+
+**中文理解**：Saskia 俯下身，抬起 Lucy 的下巴，让两个人对上眼神——这是她多年来与另一个人最深的一次对视，视讯会议不算。
+
+**关键词**：lifts Lucy’s chin / the deepest eye contact / in years / Zoom calls notwithstanding
+
+**为什么这样写**：这句把一次安慰写成一次供认。抬下巴是替对方把脸摆正的标准动作，作者却把知觉塞回 Saskia 自己身上，让她对「多年」这个词发怵：上一次这么近地看一个人，中间还隔着屏幕和话筒。Zoom calls notwithstanding 这个公文腔补语是她的注册商标——用玩笑把重量卸掉一点，句子却不给她逃的余地。也正因为这个「多年」，前面那套装病方案才显得可笑：她其实早已把 Lucy 放进那个空了很久的位置上。
+
+**读者视角提示**：把这句和章末解口罩的手并排看：先是 Saskia 抬起对方的脸，最后是 Lucy 摘下她的口罩——这一章里谁先伸手，就是谁在让步。
+
+> **原句 7:** "“You are not stupid, and whoever told you that you were stupid is an asshole, even if the asshole is you,” Saskia says as gently but firmly as she can."
 
 **中文理解**：Saskia 用她所能做到的、最温柔也最坚定的语气说：你不蠢；谁说你蠢，谁就是混蛋——哪怕那个混蛋就是你自己。
 
@@ -65,7 +85,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：这一句是前面那段排比的落槌——Saskia 刚把「蠢」拆开讲过：替别人管情绪、逼人做不想做的事、不给自由、说人蠢，最后落到骂 Lucy 外公的那一句上。把它和 Lucy 那句「我像个傻瓜」摆在一起看，就能看出作者为什么让 Lucy 先自责、再让 Saskia 回击：顺序反过来，安慰就只是安慰。也留意 Saskia 骂得越痛快，心里那句真话就越响：她不能说的，比能说的多得多。
 
-> **原句 6:** "She turns her face up like a flower worshipping the sun, and she unclasps her hands from behind Saskia’s back. Saskia misses the little knot of warmth there, but now Lucy is reaching for her head. So, so gently, Lucy pulls the straps of the mask away, her fingertips sending shivers down Saskia’s spine as they trace the shells of her ears."
+> **原句 8:** "She turns her face up like a flower worshipping the sun, and she unclasps her hands from behind Saskia’s back. Saskia misses the little knot of warmth there, but now Lucy is reaching for her head. So, so gently, Lucy pulls the straps of the mask away, her fingertips sending shivers down Saskia’s spine as they trace the shells of her ears."
 
 **中文理解**：Lucy 把脸仰起来，像一朵朝着太阳膜拜的花，同时把手从 Saskia 背后松开。Saskia 想念背上那一小团刚刚散掉的热，可 Lucy 已经伸手去够她的头。Lucy 轻得不能再轻地解下口罩的挂带，指尖擦过她的耳廓时，一阵酥麻顺着脊背往下走。
 

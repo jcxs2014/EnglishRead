@@ -35,7 +35,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：注意她检查的是 harm 与 wakefulness 两样，她同样怕这两件事。接下来整段她的动作都是往后退，别把她读成袭击者：原文没有写她做过什么，只写了现场剩下什么。
 
-> **原句 3:** "After glancing outside to make sure there is no one around, she steps onto the porch, closes the door, locks it, and takes the key. She is unsurprised to notice a piece of cardboard taped over both of their doorbell cameras. Even sleepwalking, she’s clever."
+> **原句 3:** "There is no way to know. Lost time is lost forever, and with it, her memories. In the end, she leaves the door open because she knows Roger, and Roger is the kind of landlord who would never waste oil on a door’s hinges."
+
+**中文理解**：无从知道了。丢失的时间永远找不回来，连同那段时间里的记忆一起丢。最后她让那扇门开着——因为她了解 Roger：这种房东绝不会在门的铰链上浪费一滴油；门一响，她就完了。
+
+**关键词**：no way to know / Lost time is lost forever / leaves the door open / she knows Roger / waste oil on a door’s hinges
+
+**为什么这样写**：这一块把「缺记忆」写成人物属性，而不是叙述者藏牌：There is no way to know 是她的处境，Lost time is lost forever 是她的判断，两句都没有情绪词，却比惊呼更冷。接着那个决定更妙——她留着门不关，不是疏忽，是算准了铰链会响：她此刻的谨慎细到连一扇门的声音都要规避。读者从这一句能倒推回去：夜里她进这扇门时，多半也是无声的。
+
+**读者视角提示**：注意她把「不知道」当成前提来做决定：既然查不出夜里发生了什么，就按最不吵醒人的方式退场。也留意 Roger 在本章只以「房东的手艺」出场一次，却决定了她的动作。
+
+> **原句 4:** "After glancing outside to make sure there is no one around, she steps onto the porch, closes the door, locks it, and takes the key. She is unsurprised to notice a piece of cardboard taped over both of their doorbell cameras. Even sleepwalking, she’s clever."
 
 **中文理解**：她朝外面看了一眼，确认周围没人，然后走到门廊上，把门关上，上锁，把钥匙带走。她毫不意外地发现，两家的门铃摄像头上都贴着一块纸板。哪怕是梦游，她也够聪明。
 
@@ -45,7 +55,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：把 She is unsurprised 圈出来，这四个词比后面的纸板更重：她不意外，因为她知道夜里来过的是谁。也要记住她手上多了一把 Lucy 家的钥匙，这把钥匙在章末会被锁进枪柜。
 
-> **原句 4:** "The tip of the tiny seedling finally springs free, and she drops it in the sink, where it sticks to the cracked white porcelain. There are three more seeds nestled under her nail beds, and when they are all curled in the sink, she captures them in a bit of Kleenex and flushes them down the toilet."
+> **原句 5:** "The tip of the tiny seedling finally springs free, and she drops it in the sink, where it sticks to the cracked white porcelain. There are three more seeds nestled under her nail beds, and when they are all curled in the sink, she captures them in a bit of Kleenex and flushes them down the toilet."
 
 **中文理解**：那株小苗的尖端终于挣脱出来，她把它丢进水槽，它黏在开裂的白瓷上。她的指甲床下还埋着三粒种子；等几粒都蜷在水槽里，她用一张纸巾把它们包起来，冲进马桶。
 
@@ -55,7 +65,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：注意次序——先把小苗从身体里弄出来，再一粒粒数清，最后包进纸巾冲掉。也记住「三粒」这个数：她的身体在替她做她不肯承认的事，而下一次它还会长出更多。
 
-> **原句 5:** "Saskia is frightened by how much her unconscious body wants to be near Lucy, but why wouldn’t it? Her conscious body wants to be there, too."
+> **原句 6:** "Saskia is frightened by how much her unconscious body wants to be near Lucy, but why wouldn’t it? Her conscious body wants to be there, too."
 
 **中文理解**：Saskia 被吓到的地方是：她无意识的身体有多想待在 Lucy 身边。可这又有什么奇怪的呢？她有意识的身体也想去。
 

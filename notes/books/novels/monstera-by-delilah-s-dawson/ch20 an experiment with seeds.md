@@ -25,7 +25,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：留意 The best she can figure 这个限定，本章后面所有「她为什么会这样」的说法，可信度都停在同一个级别，都是她自己的拼图。她记得的只有结果，进门的过程是空的，这个空位正是全章恐惧的来源。再看这把刀在这一段里的三重身份：凶器、撬门挡的工具、镜子。
 
-> **原句 2:** "She was skinny growing up, the kind of skinny that other kids prey upon. The kind of skinny that made people want to throw dodgeballs at her to see if she would explode like an arrangement of bowling pins. Her delicate frame had a similar impact on men."
+> **原句 2:** "Again, she woke up standing over a sleeping Lucy with a knife in her hand. Of all the moments she can recall, the fact that she keeps playacting this one, recapitulating the worst day of her life while dreaming?"
+
+**中文理解**：她又一次醒着站在熟睡的露西身旁，手里握着一把刀。在她能回想起的所有时刻里，偏偏是这一刻被她在梦里一遍遍重演——把她一生中最糟的那天又演一遍。
+
+**关键词**：Again / standing over a sleeping Lucy / a knife in her hand / playacting this one / recapitulating the worst day of her life
+
+**为什么这样写**：Again 放在句首，这一章才算真正开始：读者上一回在第九章、第十三章见过同一个动作，作者这次连铺垫都省了，只用一个副词承认它是复发的。接着她不解释，只问为什么——Of all the moments she can recall 把整件事交给记忆本身，而 playacting 与 recapitulating 是一对戏台词：她不是在做梦，是在排练。全章后面那些关于肌肉与门挡的段落，都是在回答这一刻。
+
+**读者视角提示**：注意这一句用的仍是「醒来」而不是「决定」：刀与 Lucy 的组合对她自己也是新闻。按本章的规则，她给出的所有说法都停在 The best she can figure 这一级，所以别急着替她定刑——先记住这是第三次相同的事，而这一次她连门是怎么开的都拼不出来。
+
+> **原句 3:** "She was skinny growing up, the kind of skinny that other kids prey upon. The kind of skinny that made people want to throw dodgeballs at her to see if she would explode like an arrangement of bowling pins. Her delicate frame had a similar impact on men."
 
 **中文理解**：她小时候很瘦，是那种会被别的孩子当成猎物的瘦；那种瘦让人想拿躲避球砸她，看她会不会像一排保龄球瓶那样炸开。她这副纤细的骨架在男人那里也引起了相近的反应。
 
@@ -35,7 +45,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：这里的瘦不是审美评价，而是可乘之机。dodgeballs 与 bowling pins 都是游戏里的道具：施暴者不把她当对手，只当她是一件会发出声响的东西。这一段给的是原因，本章后面那些关于肌肉的段落给的是回应，两处对照着读，力气才有出处。
 
-> **原句 3:** "All this work was in the service of freedom, but she doesn’t even know what controls her, so how can she break free? She wants—deserves—the liberty to walk upstairs and take Lucy in her arms without having to worry about the repercussions. She longs for the perfectly average feeling of knowing that she’ll wake up exactly as she fell asleep, in her bed."
+> **原句 4:** "Her first boyfriend used to wrap his fingers around her wrist to show how far they overlapped. “I could snap your arm so easily,” he liked to say as he held it in two hands like an old baguette."
+
+**中文理解**：她第一任男友习惯用手指圈住她的手腕，好让她看见自己的手指能重叠多少。他会用两只手像握一根老法棍那样握着她的手臂，说：「我真能轻轻松松把你胳膊掰断。」而且他喜欢这么说。
+
+**关键词**：wrap his fingers around her wrist / how far they overlapped / I could snap your arm so easily / like an old baguette
+
+**为什么这样写**：这段把「瘦」这件事从身体写成了被评估的对象：手指绕一圈还剩多少是量尺，掰断是威胁，而 old baguette 是个轻佻得过分的比喻——施威胁的人觉得这在打情骂俏。he liked to say 三个词点明这不是一次失言，而是他反复享受的节目。她后来说自己练力量是为了不再被折断，源头就在这一块。
+
+**读者视角提示**：注意句子里没有一句对她的伤害描写：手指、手腕、法棍全是实物，疼只存在于量词之间。作者把「他握着她」与「他随时能毁掉她」放在同一口气里，读者才知道她为什么把 bulky 当成一种回答。
+
+> **原句 5:** "All this work was in the service of freedom, but she doesn’t even know what controls her, so how can she break free? She wants—deserves—the liberty to walk upstairs and take Lucy in her arms without having to worry about the repercussions. She longs for the perfectly average feeling of knowing that she’ll wake up exactly as she fell asleep, in her bed."
 
 **中文理解**：她所有的付出都是为了自由，可她连是什么在控制自己都不知道，又怎么挣脱？她想要——也认定自己该有——走上楼把露西抱进怀里的自由，并且不必担心后果。她盼望的是一种最普通的踏实：醒来时和入睡时一样，睡在自己的床上。
 
@@ -45,7 +65,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：注意索求与盼望之间的落差：她要的不是胜利，是免除后果。repercussions 用的是复数，她并不确定后果是什么，只知道会有。她想要的东西小到「睡在自己的床上」，可见这样的事她并没有一直拥有；而这一章结束时打断这份独处的，是 Lucy 的一声尖叫。
 
-> **原句 4:** "With a sigh, she uses her short nails to pop out three tiny seeds, pulling their little vines loose like snipped threads. There are six more under her nails. Four in her eyelashes."
+> **原句 6:** "With a sigh, she uses her short nails to pop out three tiny seeds, pulling their little vines loose like snipped threads. There are six more under her nails. Four in her eyelashes."
 
 **中文理解**：她叹了口气，用短短的指甲抠出三粒极小的种子，把小藤像剪断的线头那样扯松。指甲缝里还有六粒，睫毛里四粒。
 
@@ -54,6 +74,16 @@ modified: "2026-10-24"
 **为什么这样写**：到这里，恐怖已经变成家务。动作是修剪，不是搏斗：snipped threads 把寄生写成一截线头，sigh 又把这件事压回日常的疲惫。紧接着两句极短的计数把镜头拉到指甲缝和睫毛上，像在清点库存——种子不是敌人，是她要按时采收的东西。三、六、四这些具体的量，给读者一个能握在手里的尺度。
 
 **读者视角提示**：注意她数得很准。清点意味着这件事她已经做过不止一次，也意味着她把它当成可以管理的对象。再看分布的顺序：先手臂，再指甲，再睫毛，种子在她身上越来越靠近眼睛。
+> **原句 7:** "Maybe she will get her own Audrey II like Seymour in Little Shop of Horrors."
+
+**中文理解**：也许她会像《恐怖小店》里的西摩那样，拥有属于自己的一株「奥黛丽二号」。
+
+**关键词**：Audrey II / like Seymour / Little Shop of Horrors
+
+**为什么这样写**：这一句把整章的重量卸了一半：她刚从自己身上摘下一把种子，转头就用一部 1986 年的cult歌舞片给自己找了个角色——那个把血喂给植物、最后被植物吞掉的花店伙计。用电影梗解压，是这本书一贯的救命手法；但 Seymour 的下场读者都知道，玩笑里埋着下一个赌注。前一句她刚决定把种子种下去，这一句就是她给这件事取的名字。
+
+**读者视角提示**：这是本章最后一次由她自己给事情命名，也是最短的一段——十来个词单独成段，逗号在句末，语气轻得像随口一说。读完章末的尖叫再回头看它：她挑的那个比喻里，被喂的血从来不是自己的。你若不想被电影梗带偏，就把它当成一个赌注，而不是一个笑话。
+
 
 ## 本章词汇
 

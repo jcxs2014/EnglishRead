@@ -1,0 +1,53 @@
+{
+  "chapter": "ch17",
+  "facts": [
+    {
+      "anchor": "Lucy stumbles backwards, turns, and runs.",
+      "start": 29,
+      "end": 70,
+      "fact": "听到警报，Lucy 想起烤箱里的 cornbread，踉跄后退、转身跑回自己公寓。"
+    },
+    {
+      "anchor": "Saskia puts her hand on the oven to prevent Lucy from opening it",
+      "start": 418,
+      "end": 482,
+      "fact": "Saskia 随后赶到，用手挡住烤箱门阻止 Lucy 打开，并按下 OFF 键，警告开门会冒出更多烟甚至起火。"
+    },
+    {
+      "anchor": "“Do you have a—a girlfriend?” Lucy asks suddenly",
+      "start": 4512,
+      "end": 4560,
+      "fact": "Lucy 突然问 Saskia 是否有女朋友、是否因此戴面具；Saskia 摇头答 “Nope.”。"
+    },
+    {
+      "anchor": "There is absolutely nothing wrong with you. I just don’t want to hurt you.",
+      "start": 5872,
+      "end": 5946,
+      "fact": "Saskia 从背后抱住 Lucy，说 Lucy 绝对没有问题，“I just don’t want to hurt you”。"
+    },
+    {
+      "anchor": "something boiling hot splatters across her back",
+      "start": 7764,
+      "end": 7811,
+      "fact": "锅中沸汤溅到 Lucy 背上烫伤；Saskia 查看后说 “See? Someone gets hurt.”。"
+    },
+    {
+      "anchor": "Roger standing in the door to her bedroom",
+      "start": 9237,
+      "end": 9278,
+      "fact": "Roger 因火警警报只身进入 Lucy 公寓，站在她卧室门口，看到正在换衣服的 Lucy。"
+    },
+    {
+      "anchor": "his eyes land on the socket that once held his camera",
+      "start": 10998,
+      "end": 11051,
+      "fact": "Roger 发现曾装着他摄像头（他谎称是充电器）的插座空着，质问 Lucy 是否动了他的东西；Lucy 佯装无辜，在白板写下加租 10 美元赔偿。"
+    },
+    {
+      "anchor": "Oh—because Saskia left the door open.",
+      "start": 13753,
+      "end": 13790,
+      "fact": "Roger 走后，Lucy 意识到是 Saskia 没关门，并疑惑 Saskia 去了哪里。"
+    }
+  ]
+}

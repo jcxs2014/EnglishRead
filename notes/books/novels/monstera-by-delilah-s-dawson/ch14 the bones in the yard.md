@@ -25,7 +25,17 @@ modified: "2026-10-24"
 
 **读者视角提示**：茶几上那行字要记住——后面 Lucy 打扫屋子时会特意交代，自己当时差点把它留着。也要注意这一段的松弛是怎么来的：它不是两个人谈开了，而是因为其中一个人已经先走了、不必面对面。
 
-> **原句 2:** "If she’d known that kissing a girl looked like that, she might’ve clawed through the carpet and the floorboards and directly into the earth, muddling through like a mole until she found a way out."
+> **原句 2:** "No wonder her grandfather wouldn’t let her watch anything but the Disney Channel."
+
+**中文理解**：难怪祖父只准她看迪士尼频道。
+
+**关键词**：No wonder / wouldn’t let her watch / anything but the Disney Channel
+
+**为什么这样写**：这一句只有一个主语（祖父）和一个动作（不准），却是整章的钥匙。紧接着上一段那句「那部电影……把她改变了」，一句「难怪」把两件事扣在一起：祖父的禁令从来不是随口定的，他怕的正是电影里那一眼——两个女孩接吻——会把关在屋里的女儿教坏。作者把十年的信息封锁压缩成一个频道的名字，读者由此明白 Lucy 的匮乏不只是空间上的，也是认知上的：她对欲望的全部知识来自一部恐怖片。句子短得近乎随口一说，语气却是在替祖父的禁令作证。
+
+**读者视角提示**：记住「迪士尼频道」这一层：她不是没看过故事，而是只看过被筛过的故事。所以她才会拿一部恐怖片当教材——后面她对着那部电影反复回放、试图给自己找一个可以模仿的样子，源头就在这里。
+
+> **原句 3:** "If she’d known that kissing a girl looked like that, she might’ve clawed through the carpet and the floorboards and directly into the earth, muddling through like a mole until she found a way out."
 
 **中文理解**：要是她早知道两个女孩接吻是这个样子，她也许会挠穿地毯和地板，一直钻进土里，像鼹鼠一样在泥中拱行，直到找出一条路来。
 
@@ -35,7 +45,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：留意条件句开头那个 If she’d known——她是在事后才明白自己错过了什么，这份迟到的悔意会一直延续到结尾她拿刀剁菜。方向也别放过：对住在祖父那栋房子里的人来说，出口从来不在楼下，而在更深处。
 
-> **原句 3:** "As she pedals home under gloomy skies, hoping the rain will hold off just a little while longer, she thinks about how nice it would be to snuggle up under the covers with Saskia. To feel shared warmth, softness, human touch. To just sit and listen to the rain."
+> **原句 4:** "As she pedals home under gloomy skies, hoping the rain will hold off just a little while longer, she thinks about how nice it would be to snuggle up under the covers with Saskia. To feel shared warmth, softness, human touch. To just sit and listen to the rain."
 
 **中文理解**：她顶着阴沉的天骑车回家，一边盼着雨再晚一点落下来，一边想着要是能和 Saskia 一起缩在被子里该多好：共享的体温、柔软、人的触碰；就那么坐着，听雨。
 
@@ -45,7 +55,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：把这份清单记住：体温、柔软、触碰、雨声。本章后半段她会得到与它完全相反的东西——两个陌生人站进她的厨房，把她母亲的名字连同一根流血的手指一起还给她。清单越具体，落空就越重。
 
-> **原句 4:** "Ice drips down her spine, but she forces her legs to keep pedaling like everything is totally fine. She has imagined this scenario a thousand times. She has been expecting it."
+> **原句 5:** "Ice drips down her spine, but she forces her legs to keep pedaling like everything is totally fine. She has imagined this scenario a thousand times. She has been expecting it."
 
 **中文理解**：冰顺着她的脊背往下淌，可她硬逼两条腿继续蹬，装得仿佛一切正常。这个场面她已经在脑子里演过一千次，她一直在等它来。
 
@@ -55,7 +65,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：紧接着的下一句写她「知道自己跑不掉」。所以这里的「像一切正常」不是侥幸，而是一个排练过一千遍的人在做她练过的事。注意她的顺序：先停车、先把自己演成一个正常人，然后才进屋。
 
-> **原句 5:** "The body is at least ten years old if not older. There’s not enough, uh, evidence to identify it visually, so they looked at dental records.” Dover looks up, eagle-eyed."
+> **原句 6:** "The body is at least ten years old if not older. There’s not enough, uh, evidence to identify it visually, so they looked at dental records.” Dover looks up, eagle-eyed."
 
 **中文理解**：那具尸体至少有十年了，也许更久。光凭肉眼认不出身份，所以他们去查了牙科记录。Dover 抬起眼，目光像鹰一样。
 
@@ -65,7 +75,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：紧接着 Dover 会问出那句「你母亲不是失踪了吗」，把院子里的骨头和 Lucy 的过去接上。回看这一块最后那一眼就会明白，她要看的从来不是尸体，是 Lucy 的反应。
 
-> **原句 6:** "My grandfather got super strict after she disappeared. He said he didn’t want to raise two whores, so he locked me in the house. I didn’t have internet or a phone."
+> **原句 7:** "My grandfather got super strict after she disappeared. He said he didn’t want to raise two whores, so he locked me in the house. I didn’t have internet or a phone."
 
 **中文理解**：我母亲消失以后，我祖父变得极严。他说他不想养出两个婊子，于是把我锁在屋里。我没有网，也没有电话。
 
@@ -75,7 +85,7 @@ modified: "2026-10-24"
 
 **读者视角提示**：注意 Dover 全程没有接一句安慰，下一问直接转向「你祖父有没有推她下楼，或者拿起过凶器」——警察是把她的家史当线索在听。读者要在这里自己判断：她说得这么顺，不是因为不痛，而是因为她一个人练了十年。
 
-> **原句 7:** "When she hired the estate sale company to empty the house, she never thought she would miss the ancient tackle box full of flesh-colored, off-brand bandages and expired Neosporin and flapping bits of random gauze, but here she is with nothing but paper towels to treat a wound. She wraps a mummy around her finger and finishes cutting her veggies with far more care and less violence."
+> **原句 8:** "When she hired the estate sale company to empty the house, she never thought she would miss the ancient tackle box full of flesh-colored, off-brand bandages and expired Neosporin and flapping bits of random gauze, but here she is with nothing but paper towels to treat a wound. She wraps a mummy around her finger and finishes cutting her veggies with far more care and less violence."
 
 **中文理解**：当初她雇清货公司搬空老宅时，从没想过自己会想念那个旧渔具盒——里面塞着肉色的杂牌创可贴、过期的 Neosporin，还有几片翻边的碎纱布；可现在她只能用纸巾处理伤口。她把手指裹成一个木乃伊，接着切菜，动作小心得多，也温和得多。
 
