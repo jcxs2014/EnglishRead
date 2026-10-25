@@ -1,0 +1,55 @@
+{
+ "book": "motherclown-by-harriet-alida-lye",
+ "chapter": "ch17",
+ "text": "notes/books/novels/motherclown-by-harriet-alida-lye/text/ch17_chapter_sixteen.txt",
+ "facts": [
+  {
+   "fact": "从饭桌逃出后她在街头发抖，只想找个人说话",
+   "anchor": "She texts Charlie: Hey, are you free? Can we Skype?",
+   "start": 144,
+   "end": 195
+  },
+  {
+   "fact": "她连网吧地址都说不清，只报了个街区",
+   "anchor": "She doesn’t know the address of Cookies so just tells the driver to go to Ménilmontant.",
+   "start": 379,
+   "end": 466
+  },
+  {
+   "fact": "买日卡时她进入上台表演般的出体状态",
+   "anchor": "She’s in the same out-of-body state she enters when getting into character",
+   "start": 713,
+   "end": 787
+  },
+  {
+   "fact": "她讲父亲生前最后说起母亲放弃的艺术生活",
+   "anchor": "She talks about the last time she saw her dad, how he was talking about how her mom used to have an artistic life",
+   "start": 997,
+   "end": 1110
+  },
+  {
+   "fact": "Charlie 说错过最初四个月不算什么",
+   "anchor": "So what if he missed four months.",
+   "start": 3372,
+   "end": 3405
+  },
+  {
+   "fact": "Charlie 用自己的父亲作比，说缺席不等于不是父亲",
+   "anchor": "My dad missed the last seventeen years, but he’s still my dad.",
+   "start": 3421,
+   "end": 3483
+  },
+  {
+   "fact": "Max 已经开始和别人约会",
+   "anchor": "He started dating someone.",
+   "start": 6482,
+   "end": 6508
+  },
+  {
+   "fact": "结尾问句：对不同的人做不同的人",
+   "anchor": "How did I get to a point where I need to be a completely different person with the different people in my life?",
+   "start": 8576,
+   "end": 8687
+  }
+ ]
+}
