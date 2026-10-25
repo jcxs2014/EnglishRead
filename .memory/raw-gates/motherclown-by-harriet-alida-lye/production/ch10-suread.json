@@ -1,0 +1,55 @@
+{
+ "book": "motherclown-by-harriet-alida-lye",
+ "chapter": "ch10",
+ "text": "notes/books/novels/motherclown-by-harriet-alida-lye/text/ch10_chapter_nine.txt",
+ "facts": [
+  {
+   "fact": "周六清早她心跳手抖，像喝了三千杯咖啡，坐在公园长椅上不敢动。",
+   "anchor": "three thousand cups of coffee",
+   "start": 34,
+   "end": 63
+  },
+  {
+   "fact": "手机响，她以为母亲来信，其实是 Aya 约她吃早餐、看展。",
+   "anchor": "It’s Aya.",
+   "start": 4117,
+   "end": 4126
+  },
+  {
+   "fact": "咖啡馆里 Aya 说 Sarah 只是前任、仍是好友，并明说这一趟她当它是约会。",
+   "anchor": "I meant for this to be a date",
+   "start": 9489,
+   "end": 9518
+  },
+  {
+   "fact": "两人去看 Lucas Rossi 的新展；Elise 说母亲只是学生时代认识他，Aya 说他名声不好、她算幸运。",
+   "anchor": "the Lucas Rossi show just opened",
+   "start": 10629,
+   "end": 10661
+  },
+  {
+   "fact": "Catherine 在 Belleville 市场向小贩买走私万宝路，五欧一包，还白得一个打火机。",
+   "anchor": "Mal-bo-ro",
+   "start": 17241,
+   "end": 17250
+  },
+  {
+   "fact": "她收拾三个箱子下楼、把门锁上，无处可去却一点也不害怕。",
+   "anchor": "She’s already lost her daughter",
+   "start": 16986,
+   "end": 17017
+  },
+  {
+   "fact": "Aya 说自己是突尼斯人、在国际学校学英语、父亲是外交官母亲是护士、三个弟弟，曾在音乐学院学大提琴。",
+   "anchor": "I’m from Tunisia",
+   "start": 29587,
+   "end": 29603
+  },
+  {
+   "fact": "月经突然来了、弄脏床单，她起身去浴室时眩晕倒下，最后想的是别弄脏、以及母亲。",
+   "anchor": "I hope I won’t make a mess if I die",
+   "start": 35878,
+   "end": 35913
+  }
+ ]
+}
