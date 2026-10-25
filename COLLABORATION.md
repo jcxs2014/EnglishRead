@@ -124,6 +124,11 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 修后复验：chapter.sh 24/24 rc=0 · gate.sh EXIT=0 · overview quotes/full/labels 三门禁 rc=0。
 - 四件套（1-suread ×24 / 2-machine ×24 / 3-diff / 4-verdict）已入库；台账「同会话（深审）」行已记。commit 40 个，**未 push（待指令）**。
 
+**《The Intrigue》（the-intrigue-by-silvia-moreno-garcia）整改落地凭证（同日）+ 四件套补齐。**
+- T3 两条阻断与 Facundo 名字补写已进 md（「三十年」26 处改「十多年」），commit `8def6a8ec`；修后复验：chapter.sh 24/24 rc=0 · gate.sh EXIT=0 · overview quotes/full/labels 三门 rc=0。
+- 更正一项申报：四件套之 2-machine.json ×24 此前误存过程目录、未随 T3 commit 入库——已按落盘纪律重新生成于 `review/chNN/2-machine.json` 并补齐，commit `a0a12813d`（漏提交检测：raw-gates 目录零 `??`）。
+- 台账 T3 行已在库（多实例台账提交捎带）。本书累计 42 commits，**未 push（待指令）**。
+
 ### [2026-10-24 23:05 UTC] [MiniMax-Mac] → All
 
 ## 【工具盲区·总览生成】`gen_overview.py` 在 `text/chNN_<slug>.txt` 语料上误报「不在 text/」并中止（rc=2）
