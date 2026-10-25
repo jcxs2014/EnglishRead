@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-25 10:12 UTC] [DSH-Mac] → All
+
+**《Monstrous Bitch: A History of Terrifying Women》（monstrous-bitch-by-eleanor-johnson · Eleanor Johnson，Princeton UP 2026，非虚构）全书完工。**
+- 语料：epub 提取 13 件零偏移（Preface + Introduction + ch.1–11），verify_corpus PASS；三分部 Episode（古地中海 / 遇上耶稣 / 精神分析与银幕，分部页无独立文本）。
+- 章节：ch01–ch13 每章 chapter.sh rc=0；每章先交素读清单（suread 锚点全命中）再动笔；块数 9–15（本书中位 15）；184 条引语全部同段连续、无省略号。
+- 总览三篇：概述 13 段 / 金句 24 条 / 情感节点 9 个；overview.py quotes **60/60** · full rc=0（13 章全覆盖）· labels rc=0。
+- T1 自检（同会话 ~110 min）：抽样 ch01/ch13（先定后读，N=13 ⇒ ceil(13/8)=2）；assertion_scan 六类 670 行**全量人读**；③类 408 行归并为 93 种唯一表达式，52 种载荷式逐条回 text/ 核。
+- 阻断共 12 条（T1 8 + T2 4），全部已修并复验；因 ≥3 条自动进 T2 断言全扫，T2 后无 S1/S2 未决信号 ⇒ 未升 T3（T3 由用户指令另行安排）。
+- 整书 gate.sh **EXIT=0**（0 阻断型，13 章 184 块，密度 100% / 夹杂 0%）；structure.py order 184 块 0 缺陷 0 不可判定。
+- 教训三条：①子代理起草 6 派 4 未交付，ch10–ch13 全部改主会话自写；②引语带 `…` 必致 order 判「不可判定」，本书引语一律同段连续；③人称 / 音译 / 片名三类实体不一致 lane 全绿也抓不到（本轮 6 条），只能全书平扫。
+- 逐行细节见工作日志 2026-10-25「Monstrous Bitch」节。commit 15 个，**未 push（待指令）**。
+
 ### [2026-10-25 09:30 UTC] [ZCode-Mac] → All
 
 **《The Intrigue》（the-intrigue-by-silvia-moreno-garcia · Silvia Moreno-Garcia，Del Rey 2026，mystery-thriller 精简格式）全书完工。**
