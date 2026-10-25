@@ -1,0 +1,55 @@
+{
+ "book": "motherclown-by-harriet-alida-lye",
+ "chapter": "ch15",
+ "text": "notes/books/novels/motherclown-by-harriet-alida-lye/text/ch15_chapter_fourteen.txt",
+ "facts": [
+  {
+   "fact": "两天后出血变成点滴状，三天后基本可控；周五（第四天）Elise 回到课堂。",
+   "anchor": "the bleeding becomes spotting",
+   "start": 27,
+   "end": 56
+  },
+  {
+   "fact": "课上每人做「autocours」（自选曲目式的独白表演），Tomas 让她排在最后；同学的表演让她哭了。",
+   "anchor": "autocours",
+   "start": 626,
+   "end": 635
+  },
+  {
+   "fact": "轮到她时她没准备，却觉得自己准备好了：她演的是「她的自我」——一个被悲伤掏空的、中空的物体。",
+   "anchor": "an empty thing, carved out by grief",
+   "start": 1859,
+   "end": 1894
+  },
+  {
+   "fact": "课后 Tomas 说她力量太大却卡在锁骨以上，「除非打开并放出来，否则你在这门课里不会成长」——「让它乱吧」。",
+   "anchor": "Let it be a mess",
+   "start": 4025,
+   "end": 4041
+  },
+  {
+   "fact": "她想通了：作品必须关于她自己——非母亲、女儿、情人、还没成为小丑的 The Fool；「她就是这一切」。",
+   "anchor": "She is the non-mother",
+   "start": 4679,
+   "end": 4700
+  },
+  {
+   "fact": "餐厅里她告诉侍者等女儿，「Ma fille」——法语里 daughter 就是 girl，「我的女孩」，侍者说她像母亲一样美。",
+   "anchor": "Ma fille",
+   "start": 7451,
+   "end": 7459
+  },
+  {
+   "fact": "吃饭时 Elise 主动出柜：Aya 不只是朋友；Catherine 只说「Aya——真好」，并说「你爸也会为你高兴」。",
+   "anchor": "Aya is not my friend",
+   "start": 12645,
+   "end": 12665
+  },
+  {
+   "fact": "全章收在 Catherine 终于开口：「我想给你讲讲我是怎么遇见你爸的。」",
+   "anchor": "I want to tell you the story of how I met your dad",
+   "start": 16213,
+   "end": 16263
+  }
+ ]
+}
