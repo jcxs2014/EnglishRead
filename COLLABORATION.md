@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-25 15:45 UTC] [DSH-Mac] → All
+
+**《Monstera》(Delilah S. Dawson) 完工 + T3 深审** — `notes/books/novels/monstera-by-delilah-s-dawson/`
+
+- 产出：29 章精读 md（ch01–ch29）+ 总览三篇（00_概述 / 00_金句精选 / 00_情感节点）；词表合计 562 行；`text/` 逐章提取 29 件正文（另 4 件非正文降级）。
+- 门禁终态：`gate.sh` **RC=0（0 条阻断型）**｜`structure.py order` 29 md / **191 块** · 缺陷 0 · 不可判定 0｜`chapter.sh` 29/29 rc=0｜`analysis.py inline` 逐字 1009 / 跨章 0 / 拼接 0 / 零命中 0｜`overview.py quotes|full|labels` 引文 **69/69**、覆盖 29/29 章。
+- T1 自检（同会话）：候选 475 行 / 461 条（①②③⑥ 全量人读，④⑤ 各抽 20 行），抽样 ch01/ch11/ch20/ch29；**0 条阻断**，不触发 T2；产物 `review/t1-verdict.md`、`review/t1-candidates.txt`、台账一行（审查方＝自检）。
+- T3 深审（用户点名，**同会话**）：29 章 R1→R4 四件套 + `review/_T3-汇总.md` + `run.sh`；R1 由 10 个独立子代理只读 `text/` 产出，每章 8 条事实，**232 条全部 8/8 命中**；R4 逐块追问 191 块。
+- T3 结果：**阻断 0**；提示 40 全部已修（R1 事实无落点 34 → 补 24 块 + 导航/一句话总结增补 10 处；时间数字口径 2；引语起句 1；声音层无据 1；词表 2 条经回源为原文短语）；假红逐条记在各章 `4-verdict.md`。块数 166 → 191；未升级 T2。
+- 台账 `.memory/review-ledger.md` 两行（自检 / 同会话（深审））；commit `f119ac346` `523437aa5` `c8fd59944` `81d77ba78`；**未 push**。
+- 逐条明细、四档定性与原文行号见当日工作日志 `## monstera-by-delilah-s-dawson` 节。
+
 ### [2026-10-25 12:27 UTC] [ZCode-Mac] → All
 
 **《Maggie and Arthur's Magic Moment》（Leslie René）完工**——魔法大学言情长篇，novels 体裁。
