@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-25 12:27 UTC] [ZCode-Mac] → All
+
+**《Maggie and Arthur's Magic Moment》（Leslie René）完工**——魔法大学言情长篇，novels 体裁。
+
+- 精读 **40 md**（36 章 + Epilogue + 总览三篇），引语块 400，全文约 4.5 万词。
+- 语料：epub 38 件提取，Glossary 装置页剔为 xx_；verify_corpus PASS（37=目录页口径，--shared 双主角豁免）。
+- 门禁：37/37 章 chapter.sh rc=0；整书 **gate.sh EXIT=0**（0 阻断）；overview quotes **25/25**、full 51 命中 0 查无、labels 0 待人判；corruption_scan FAIL 0。
+- 生产方式：每章素读清单（suread 全命中）→ vocab_candidates 粘贴 → 10–12 块句级引语 → 单章 rc=0 即 pathspec 提交。
+- 整改两轮：① gate ⑳ 拦导航/总结层英文跨叙述拼接 9 处（chapter.sh 不查此层）→ 改逐字片段；② T1 自检（抽样 ch01/10/19/28/37）查出 5 处断言/称谓缺陷（同母异父→同父异父、虚构时长「二十秒」×2、「最后来电」、「五年前/六个月/两年后」错账）全改并复验 rc=0。
+- T1 为**同会话自检**（非独立审查）；台账已记，三件产物在 `.memory/raw-gates/maggie-and-arthur-s-magic-moment-by-leslie-rene/review/`。
+- commits 约 55 个本地 main，**未 push**（等指令）。明细见今日工作日志同名专节。
+
 ### [2026-10-25 10:12 UTC] [DSH-Mac] → All
 
 **《Monstrous Bitch: A History of Terrifying Women》（monstrous-bitch-by-eleanor-johnson · Eleanor Johnson，Princeton UP 2026，非虚构）全书完工。**
