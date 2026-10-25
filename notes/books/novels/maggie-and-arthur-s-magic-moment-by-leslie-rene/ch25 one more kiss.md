@@ -167,4 +167,4 @@ modified: "2026-10-24"
 | canteen | 水壶 | He gently pulled his arm out from under her and got up to bring her his canteen of water |
 
 ## 一句话总结
-篝火边 Evan 案全额到账：偷走一半数据、反诬抄袭、院长人脉撤回 offer——她的「安全研究」是吓出来的，真爱方向是焚城后捡回的；他的回答只有「None. Your research is brilliant, Maggie.」深夜投帐、同帐而眠，半夜间他问出「Were you at Brig Beach on Beltane?」她抢先自首「I know. I've known.」——帐篷里两周的引线烧断，吻落如 coming home；事后他递水壶、换衣服，她枕着那只解咒的心跳入睡。
+篝火边 Evan 案全额到账：偷走一半数据、反诬抄袭、院长人脉撤回 offer——她的「安全研究」是吓出来的，真爱方向是焚城后捡回的；他的回答只有「None.」与「Your research is brilliant, Maggie.」深夜投帐、同帐而眠，半夜间他问出「Were you at Brig Beach on Beltane?」她抢先自首「I know. I've known.」——帐篷里两周的引线烧断，吻落如 coming home；事后他递水壶、换衣服，她枕着那只解咒的心跳入睡。

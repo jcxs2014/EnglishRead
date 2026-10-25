@@ -147,4 +147,4 @@ modified: "2026-10-24"
 | forehead | 额头 | He pressed a kiss to her forehead |
 
 ## 一句话总结
-归途小径上的清算日：他交出「dare 解封」与「怕失去你那一小块」的瞒因，她交出「Your heartbeat」与「I'm afraid of how good it feels」；「我不恨你，我只是觉得你让人发疯」。卡车停稳，他要她亲口说「再也不想吻你」——她的回答是全书的新宪法：「No. I'm done lying to you.」第一章那句 I can't，就此废止。
+归途小径上的清算日：他交出「dare 解封」与「怕失去你那一小块」的瞒因，她交出「Your heartbeat」与「I'm afraid of how good it feels」；「我不恨你，我只是觉得你让人发疯」。卡车停稳，他要她亲口说「再也不想吻你」——她的回答是全书的新宪法：「I'm done lying to you.」第一章那句 I can't，就此废止。

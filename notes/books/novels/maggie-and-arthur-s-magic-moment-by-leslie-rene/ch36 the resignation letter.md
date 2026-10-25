@@ -7,7 +7,7 @@ modified: "2026-10-24"
 
 ## 本章导航
 
-- **一句话概括**：纸面全赢的她收到他的辞职信——撕信、冲上三楼、他句句逼近的「I love you, Maggie Linden. I want all of you. Always.」；她供出 Dahlia 的 coward 判词与自己的答案；他的辞职不是为她，是为多年 unhappy——「Maggie was choosing Arthur, and Arthur had long ago chosen her.」
+- **一句话概括**：纸面全赢的她收到他的辞职信——撕信、冲上三楼、他句句逼近的「I love you, Maggie Linden.」与「I want all of you. Always.」；她供出 Dahlia 的 coward 判词与自己的答案；他的辞职不是为她，是为多年 unhappy——「Maggie was choosing Arthur, and Arthur had long ago chosen her.」
 - **情感弧线位置**：双向告白的对表——她的「I love you, too」在 ch35 已说给他失忆的耳朵，本章正式入账；Grand gesture 的所有权反转（他不换取她，只陈述自己）。
 - **Tropes 兑现/反转**：grand gesture trope 兑现且反用——辞职不是筹码是「除掉障碍」；反转是他把「close the gap」最后一步让给她：这个吻的发起权属于她。
 - **人物弧线**：他的多年 unhappy（姓氏政治）成为比爱情更深的辞职理由；她的「不再让过去当政」宣言收官 Evan 篇。
@@ -157,4 +157,4 @@ modified: "2026-10-24"
 | mop | 拖把 | “Maybe I need a mop.” |
 
 ## 一句话总结
-纸面全赢的她撞上他的辞职信——撕成两半、冲上三楼；他句句逼近：「I love you, Maggie Linden. I want all of you. Always.」最后一步留给她。她供出五月 tenure 警告与「从你把我抱出 pall 那天我就知道了」，Dahlia 的 coward 判词终于结案：「That I love you, too.」他辞职的深层原因不是她，是多年不开心——「人们觉得我的姓氏比我的贡献值钱」。一个「有时间的人」的吻落定：Maggie was choosing Arthur, and Arthur had long ago chosen her.
+纸面全赢的她撞上他的辞职信——撕成两半、冲上三楼；他句句逼近：「I love you, Maggie Linden.」「I want all of you. Always.」最后一步留给她。她供出五月 tenure 警告与「从你把我抱出 pall 那天我就知道了」，Dahlia 的 coward 判词终于结案：「That I love you, too.」他辞职的深层原因不是她，是多年不开心——「人们觉得我的姓氏比我的贡献值钱」。一个「有时间的人」的吻落定：Maggie was choosing Arthur, and Arthur had long ago chosen her.

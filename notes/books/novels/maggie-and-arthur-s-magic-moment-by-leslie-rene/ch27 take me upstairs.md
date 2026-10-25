@@ -147,4 +147,4 @@ modified: "2026-10-24"
 | bathroom | 浴室 | She grabbed his hand, tugging him toward the bathroom. |
 
 ## 一句话总结
-从卡车跨座到公寓床笫：她终于说出「Take me upstairs」，他交出幻想库存（办公桌、该死的沙发）；白昼下「Let me see all of you」揭开她的怯场，花洒里他用折磨自己数周的 lavender 香波替她洗头揉颈——「The way we fit together. The way you tasted.」床笫上权力轮替（Be specific→Let me take care of you→Where do you want to come），她的祈使句链贯穿全章——欲望的表达权，正式平权。
+从卡车跨座到公寓床笫：她终于说出「Take me upstairs」，他交出幻想库存（办公桌、该死的沙发）；白昼下「Let me see all of you」揭开她的怯场，花洒里他用折磨自己数周的 lavender 香波替她洗头揉颈——「The way we fit together」床笫上权力轮替（Be specific→Let me take care of you→Where do you want to come），她的祈使句链贯穿全章——欲望的表达权，正式平权。

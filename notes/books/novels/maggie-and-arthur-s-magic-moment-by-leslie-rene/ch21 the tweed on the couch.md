@@ -147,4 +147,4 @@ modified: "2026-10-24"
 | sleepover | （女孩间）留宿夜 | Dahlia tucked down underneath the blanket with her, like they were girls at a sleepover. |
 
 ## 一句话总结
-十三小时的昏睡换来一场沙发审判：她终于说出「是他」，心跳与外套成为证物链——「Men who don't like you don't leave their tweed jackets behind.」Dahlia 从 Ferox Hall 旧闻反推出「办公室友是内定的」，夏日恋提案撞上「I don't date coworkers」的旧墙，被一句「Stop letting Evan ruin your life」轻声拆墙。毯子底下，姐妹夜收尾：「不过他真的很 hot。」
+十三小时的昏睡换来一场沙发审判：她终于说出「是他」，心跳与外套成为证物链——「They don't leave their tweed jackets behind.」Dahlia 从 Ferox Hall 旧闻反推出「办公室友是内定的」，夏日恋提案撞上「I don't date coworkers」的旧墙，被一句「Stop letting Evan ruin your life」轻声拆墙。毯子底下，姐妹夜收尾：「不过他真的很 hot。」

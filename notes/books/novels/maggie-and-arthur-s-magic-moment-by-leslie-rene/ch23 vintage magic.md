@@ -29,7 +29,7 @@ modified: "2026-10-24"
 
 **中文理解**：「哦，我贿赂了 Edna，」他轻描淡写。Maggie 刚要开始钻牛角尖——Edna 会不会多想 Arthur 打听她的咖啡口味——他补上一句：「开玩笑的。你在办公室多少次打电话求 Dahlia 给你带点心？」
 
-**关键词**： bribed Edna（贿赂 Edna）/ just been observant（只是观察得细）/ begged her to bring you a treat（求她带点心）
+**关键词**： bribed Edna（贿赂 Edna）/ our office（我们的办公室）/ begged her to bring you a treat（求她带点心）
 
 **为什么这样写**：玩笑与真话同车——他先递一个「体面的解释」再撤回，留下更可怕的真相：他一直看着她；「更糟」的是这份观察毫无表演成分。
 

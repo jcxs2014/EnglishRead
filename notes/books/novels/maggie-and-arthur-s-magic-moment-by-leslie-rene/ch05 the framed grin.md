@@ -9,7 +9,7 @@ modified: "2026-10-24"
 
 - **一句话概括**：冷雾与 pall 的阴郁内外夹击；Maggie 在 Taliesin 桌上发现一张大笑的旧照片，又在 Jordan 延期事件上与他爆发「什么是尊重学生」的争吵——周五下班，她被 Dahlia 拉去找那个假面人。
 - **情感弧线位置**：恼人的 attraction 萌芽期——她一边列他的可恨清单，一边记住他新剪的头发和那条抓过她手臂的手臂。
-- **Tropes 兑现/反转**：「he was smiling all along」——相框里的大笑揭出 scowl 之外的 Taliesin；反转在收尾：他先说 “Have a good weekend, Maggie”，她只回得出 halfhearted 的「你也是」。
+- **Tropes 兑现/反转**：「smiling was something he was capable of doing all along」——相框里的大笑揭出 scowl 之外的 Taliesin；反转在收尾：他先说 “Have a good weekend, Maggie”，她只回得出 halfhearted 的「你也是」。
 - **人物弧线**：Maggie 的原则（学生第一）与 Taliesin 的原则（效率至上）正面相撞；相框暗示他的「酸」有来处——家庭轮廓首次浮出水面。
 - **叙事手法**：魔法体系（arcania → 符文 → incantation）借她的教学日常交付；「时间透过筛子」的 pall 物理与她的失眠互为镜像；照片一场全靠细节推理，没有一个形容词直白抒情。
 
