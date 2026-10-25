@@ -123,7 +123,7 @@ def main() -> int:
     if scratch:
         warn.append("scripts/ 下有未入库的临时脚本（用完请删或进 attic）：" + "、".join(scratch[:5]))
 
-    allow = ("scripts/", "site/", ".memory/tools/", ".memory/raw-gates/")
+    allow = ("scripts/", "site/", ".memory/tools/", ".memory/raw-gates/", ".memory/tmp/")
     seen = _git("ls-files") + _git("ls-files", "--others", "--exclude-standard")
     stray = [x for x in dict.fromkeys(seen)
              if x.endswith(".py") and not x.startswith(allow)]
@@ -131,7 +131,7 @@ def main() -> int:
         bad.append("书目录/文档目录里出现 .py（脚本进 scripts/；书内脚手架只能放 gitignore 的 `.build/`）："
                    + "、".join(stray[:5]))
     else:
-        print("✅ 书/文档目录内无散落脚本（.build/ 与 raw-gates 证据除外）")
+        print("✅ 书/文档目录内无散落脚本（.build/、raw-gates 证据、.memory/tmp/ 临时区除外）")
 
     # ⚠️ 2026-10-20 复核抓到的第四类「汇总层误导」：这里原本数的是 `tracked`
     #   （= `git ls-files scripts`）却把标签写成 raw-gates ⇒ 报出的个数是 scripts/ 下的

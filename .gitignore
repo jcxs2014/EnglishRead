@@ -151,3 +151,5 @@ scripts/attic/
 .box-agent/
 # --- .box-agent-scratch/ Box-Agent 运行时临时工作区（会话内可回收的中间产物，不入库）---
 .box-agent-scratch/
+# 审查/写作期临时区（探针与一次性脚本的临时落点，等同 /tmp）
+.memory/tmp/
