@@ -1,0 +1,403 @@
+{
+  "chapter": 16,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/ch16 a kiss that bites.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/text/ch16_chapter_16.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Blue. It’s a nice bit of fabric. I’m almost done, a stitch here and there left. It should look good on her.”",
+          "ok": true,
+          "pos": 21
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“He went to demand payment from Filomeno for one of those loans he took from your aunt. Either Filomeno forgot to close ",
+          "ok": true,
+          "pos": 1618
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“You know how that man came in wanting to get directions to your aunt’s house, and we got to conversing. Cándido told me",
+          "ok": true,
+          "pos": 2382
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“It’s harder to lie when you look into a man’s eyes. Look at me, you silly girl. What aren’t you telling me?”",
+          "ok": true,
+          "pos": 5416
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I did ring. Is Perla home? I need to borrow her car. Mine is at the mechanic’s shop today and I must fetch many boxes o",
+          "ok": true,
+          "pos": 5959
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“We need to try the poison again.”",
+          "ok": true,
+          "pos": 8519
+        }
+      ],
+      "words": 7
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Don’t be ridiculous. It’s a complicated thing, murder, and I’ve never killed anyone.”",
+          "ok": true,
+          "pos": 10009
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Apparently all you’re good at is fucking,” she said, with a vicious disdain that made him narrow his eyes at her",
+          "ok": true,
+          "pos": 10518
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She bridged the distance between them and stretched out a hand. Instead of hitting him, she yanked his head down for a k",
+          "ok": true,
+          "pos": 11516
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“This? Any boy in town can offer me that. You don’t have anything to give me that’s worth a damn.”",
+          "ok": true,
+          "pos": 13507
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Her mother lay at the foot of the stairs and the blood that seeped out of her body spread fast, reaching Inés’s foot, st",
+          "ok": true,
+          "pos": 14539
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "The nightmare was the terror she had endured since childhood, yet it felt subtly alien, and more dangerous. Her aunt had",
+          "ok": true,
+          "pos": 15373
+        }
+      ],
+      "words": 43
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 10,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Chapter 16",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 12.0,
+    "block_range": [
+      8,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2986,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 23 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

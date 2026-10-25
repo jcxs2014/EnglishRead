@@ -1,0 +1,435 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/ch08 the pharmacy in the garden.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/text/ch08_chapter_8.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She’d been bold when she approached Ulises, but now she began to doubt herself, wondering if she could go through with t",
+          "ok": true,
+          "pos": 222
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She’d seldom dwelled on the concept of hell, but now she paused to think about sin and evil, though curiously she did no",
+          "ok": true,
+          "pos": 424
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I borrowed money from your aunt a few months ago, and I don’t have the full amount yet even though it’s due. I was wond",
+          "ok": true,
+          "pos": 1617
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The guesthouse was poorly frequented these days and Perla had become accustomed to moneylending. In a town like Puerco A",
+          "ok": true,
+          "pos": 1813
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She’s kept me a prisoner, and I can’t be faulted if I’m trying to tunnel my way out of that house, she thought",
+          "ok": true,
+          "pos": 5248
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Cándido glared at her and took out a bill, dangling it before her. “I know you’re always listening behind closed doors, ",
+          "ok": true,
+          "pos": 6354
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Romancing and marrying her,” he replied as he raised his coffee cup to his lips and took a sip. “My father could manage",
+          "ok": true,
+          "pos": 8483
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She scoffed and sat down on his unmade bed. “Then you’re useless. I can’t believe it.”",
+          "ok": true,
+          "pos": 9131
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "That’s the thing, you see, she’s never ill. She’s a hypochondriac who worries about the smallest ache. If we talked her ",
+          "ok": true,
+          "pos": 10460
+        },
+        {
+          "text": "why, I bet we could even make her sick",
+          "ok": true,
+          "pos": 10669
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Don’t bother me about Filomeno again and go help in the kitchen. What a silly girl you are, just like your mother in eve",
+          "ok": true,
+          "pos": 17205
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "She’ll have me out of the house anyway. I owe her two months of rent and I have no chance of catching up. She’ll put me ",
+          "ok": true,
+          "pos": 19507
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She returned quickly with the coffee, which had plenty of laxative mixed in. Lulú took a few sips and looked like she wa",
+          "ok": true,
+          "pos": 23227
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "I’m wicked and I don’t much care, she told herself, and laughter bubbled from her lips as she ran",
+          "ok": true,
+          "pos": 24974
+        }
+      ],
+      "words": 19
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.64
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. Chapter 8",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 12.0,
+    "block_range": [
+      8,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4940,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 23 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/ch05 ines finds the letters.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-intrigue-by-silvia-moreno-garcia/text/ch05_chapter_5.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Theirs might have been a noble house once—her aunt liked to talk about an ancestor of the Incláns who had been hidalgo o",
+          "ok": true,
+          "pos": 2
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "He’ll think you’re flirting with him, and we both know it’s hopeless. You must take care of me until I pass away. There’",
+          "ok": true,
+          "pos": 3656
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Otherwise, you might end up like your mother. May she rest in peace. There are wolves out there, Inés, ready to devour y",
+          "ok": true,
+          "pos": 4132
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She’d heard that litany since she was a girl. How the youngest daughter in the family must take care of the elders, and ",
+          "ok": true,
+          "pos": 3878
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Her father had not bothered to give Inés a surname. On her birth certificate her mother had written Inés Inclán, her fat",
+          "ok": true,
+          "pos": 5866
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "To parade him, like a trophy won at the fair. To have the townspeople gawk in admiration at the stranger. Cándido would ",
+          "ok": true,
+          "pos": 8089
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "She also found a copy of Conmovedor, a magazine of the kind that had lonely hearts ads at the back of it—the kind her au",
+          "ok": true,
+          "pos": 10138
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Enclosed are the hundred pesos you requested, my dear. I hope your business venture is going well and that soon we might",
+          "ok": true,
+          "pos": 10517
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“My father always told us ladies from good families are like delicate flowers, which must be carefully pressed inside a ",
+          "ok": true,
+          "pos": 15037
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "This was the plight of the spinster. The town strangled any joy out of a girl who had failed to marry, punishing her for",
+          "ok": true,
+          "pos": 15988
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "You wrote to them under different names. Ulises Linares. Ulises Orozco. Luis Cacho. Armando Zozaya. Nobody does that unl",
+          "ok": true,
+          "pos": 20905
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“We split the money down the middle,” she said. “You’ll need me. You don’t know her. She’s tough. Cándido’s been trying ",
+          "ok": true,
+          "pos": 22640
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "He stood up and looked at her, studying her face. “Not if I call her right now and inform her that her niece is a tart w",
+          "ok": true,
+          "pos": 23045
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "She chose boldness and slapped him. He stared at her, open-mouthed, unable to utter a word, as if such an injury were in",
+          "ok": true,
+          "pos": 23649
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "But then came her mother, dead at the foot of the stairs, with her eyes boring into Inés while the girl clutched her dol",
+          "ok": true,
+          "pos": 25049
+        }
+      ],
+      "words": 27
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.3,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Chapter 5",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 12.0,
+    "block_range": [
+      8,
+      15
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4656,
+    "block_target": [
+      8,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 23 章中位 12、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
