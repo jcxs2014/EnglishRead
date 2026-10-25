@@ -18,13 +18,13 @@ source_text: ch64
 
 > **原句 1:** "I’m nervous, and I arrive too early. I sit on the front steps in the sun, between the famous bronze lions, watching people hurry along Michigan Avenue. The Art Institute opens, and I walk through its heavy glass doors, across the lobby, downstairs to the gallery that houses the Thorne Miniature Rooms."
 
-**中文理解**：贝克提早到了，心里发慌，就坐在美术馆门前两尊青铜狮子之间晒太阳，看密歇根大道上的人赶路。门开了，他穿过厚重的玻璃门、走过门厅、下到收藏索恩微缩房间的展厅，用这一小段路把等待熬过去。
+**中文理解**：贝克提早到了，心里发慌，就坐在美术馆门前两尊青铜狮子之间晒太阳，看密歇根大道上的人赶路。门开了，她穿过厚重的玻璃门、走过门厅、下到收藏索恩微缩房间的展厅，用这一小段路把等待熬过去。
 
 **关键词**：nervous / bronze lions / Thorne Miniature Rooms
 
-**为什么这样写**：开头不写他要见谁，只写「早到」和「发慌」。狮子、阳光、赶路的人都是他用来分心的东西；穿过玻璃门、门厅、楼梯的路线越走越深，紧张也被一寸寸拖长。展厅留到最后才出现，读者跟着他的脚步一起被领进去，还没见到人，先感到这件事的分量。
+**为什么这样写**：开头不写她要见谁，只写「早到」和「发慌」。狮子、阳光、赶路的人都是她用来分心的东西；穿过玻璃门、门厅、楼梯的路线越走越深，紧张也被一寸寸拖长。展厅留到最后才出现，读者跟着她的脚步一起被领进去，还没见到人，先感到这件事的分量。
 
-**读者视角提示**：留意「too early」——不是迟到，是早到；早到才说明他有多在意。也留意他把路线记得细到门厅和楼梯，说明这个地方他来过，而且这里的微缩房间大概与伊莎多拉有关，他在门口等的时候，其实已经在想她了。
+**读者视角提示**：留意「too early」——不是迟到，是早到；早到才说明她有多在意。也留意她把路线记得细到门厅和楼梯，说明这个地方她来过，而且这里的微缩房间大概与伊莎多拉有关，她在门口等的时候，其实已经在想对方了。
 
 > **原句 2:** "“We were so worried.” We sit on the only bench in the gallery. All the tiny rooms are lit with different times of day, as though each room is aligned in time with a real room somewhere in the world."
 
@@ -48,13 +48,13 @@ source_text: ch64
 
 > **原句 4:** "She stands and walks away, turning to wave goodbye just before she passes through the doors. I feel bereft—glad for her freedom, her wildness, but empty—and that feeling stays with me for a long time."
 
-**中文理解**：她站起来走了，走到门口才回头挥手道别。贝克心里空了一块：他为她的自由和野性高兴，可还是空；这种感觉跟着他很久。
+**中文理解**：她站起来走了，走到门口才回头挥手道别。贝克心里空了一块：她为伊莎多拉的自由和野性高兴，可还是空；这种感觉跟着她很久。
 
 **关键词**：wave goodbye / bereft / empty
 
-**为什么这样写**：结尾不写对话，只写动作和感受：走、回头、挥手，然后是一个被破折号拉长的矛盾——高兴与空落同时成立，谁也不让谁。最后半句把时间也拉长，让告别不停在门口，而是留在他身上，读者于是带着这份空落合上这一章。
+**为什么这样写**：结尾不写对话，只写动作和感受：走、回头、挥手，然后是一个被破折号拉长的矛盾——高兴与空落同时成立，谁也不让谁。最后半句把时间也拉长，让告别不停在门口，而是留在她身上，读者于是带着这份空落合上这一章。
 
-**读者视角提示**：留意「bereft」与「glad」并排：他没有替自己辩解，也没有把空落说成舍不得。也留意她回头的位置——就在穿过门之前，那一眼是留给他的；她走了，却把「还会回来」留在了这个动作里。
+**读者视角提示**：留意「bereft」与「glad」并排：她没有替自己辩解，也没有把空落说成舍不得。也留意伊莎多拉回头的位置——就在穿过门之前，那一眼是留给贝克的；她走了，却把「还会回来」留在了这个动作里。
 
 ## 本章词汇
 
