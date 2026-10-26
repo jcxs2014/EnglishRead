@@ -1,0 +1,85 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch09",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch09_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "苏齐与贝克斯赶到朱迪思家，看到她穿睡衣、头发湿着站在壁炉前",
+   "anchor": "When Suzie and Becks arrived at Judith’s house, they found their friend",
+   "start": 28,
+   "end": 99
+  },
+  {
+   "fact": "苏齐说明她们查清了加里在足球赛季最后一天遭遇的事",
+   "anchor": "She then explained that they’d found out what had happened to Gary on the last day of the football season",
+   "start": 579,
+   "end": 684
+  },
+  {
+   "fact": "朱迪思把奥利弗·贝雷斯福德案的证物撤下，换成加里、贝思尼与哈里的照片",
+   "anchor": "The evidence from the Oliver Beresford case had been removed and replaced with photos of Gary Wise, his wife Bethany, and his ghostwriter, Harry Asquith",
+   "start": 1184,
+   "end": 1336
+  },
+  {
+   "fact": "朱迪思承认两天前有个自称是她继女的女人找上门",
+   "anchor": "Two nights ago, after I got back from the theatre, I was visited by a woman who claimed to be my stepdaughter",
+   "start": 2650,
+   "end": 2759
+  },
+  {
+   "fact": "朱迪思从《妙语集》里抽出艾勒尼给她看的那张照片交给两个朋友",
+   "anchor": "From its pages, she plucked the photo Eleni had shown her and handed it over to her friends",
+   "start": 3476,
+   "end": 3567
+  },
+  {
+   "fact": "朱迪思承认当天上过菲利波斯的船，但在菲利波斯离港前已回到栈桥",
+   "anchor": "I went on his boat that day. But I was back on the jetty by the time he left.",
+   "start": 5774,
+   "end": 5851
+  },
+  {
+   "fact": "朱迪思推断拍照者另有其人，就藏在附近",
+   "anchor": "There must have been someone else hiding nearby who took the photo.",
+   "start": 7017,
+   "end": 7084
+  },
+  {
+   "fact": "塔妮卡说加里的短信通话记录本来平淡，直到发现一段被归档的对话",
+   "anchor": "They’re all pretty vanilla – or so we thought until we found a text conversation that he’d archived.",
+   "start": 8811,
+   "end": 8911
+  },
+  {
+   "fact": "贝克斯判断勒索者在十八号见面时杀死了加里，阻止他说出身份",
+   "anchor": "So, when they met up on the eighteenth, they killed him to make sure that he never would.",
+   "start": 10720,
+   "end": 10809
+  },
+  {
+   "fact": "塔妮卡说布伦丹已经在和贝思尼·怀斯谈话",
+   "anchor": "Brendan’s already talking to her.",
+   "start": 10947,
+   "end": 10980
+  },
+  {
+   "fact": "塔妮卡否认加里卷入过交通事故",
+   "anchor": "He can’t have been involved in any kind of road traffic accident or we’d have picked that up in background checks.",
+   "start": 11687,
+   "end": 11801
+  },
+  {
+   "fact": "塔妮卡说档案有纸质硬拷贝存在雷丁郊外仓库",
+   "anchor": "Although, even if the digital record was deleted, we keep hard copies of all of our files in a warehouse just outside Reading.",
+   "start": 11962,
+   "end": 12088
+  },
+  {
+   "fact": "苏齐在通话后指出塔妮卡身上有蹊跷",
+   "anchor": "There’s something going on with Tanika, isn’t there?",
+   "start": 12480,
+   "end": 12532
+  }
+ ]
+}
