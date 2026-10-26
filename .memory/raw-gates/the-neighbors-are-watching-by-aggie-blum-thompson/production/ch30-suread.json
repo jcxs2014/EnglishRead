@@ -1,0 +1,55 @@
+{
+ "book": "the-neighbors-are-watching-by-aggie-blum-thompson",
+ "chapter": "ch30",
+ "text": "notes/books/mystery-thriller/the-neighbors-are-watching-by-aggie-blum-thompson/text/ch30_chapter_twenty_three.txt",
+ "facts": [
+  {
+   "fact": "警察在房子前门拉起写有 CAUTION 的黄色警戒带，房子正式成为犯罪现场，叙述者说自己是受害者。",
+   "anchor": "string a garland of yellow tape that reads CAUTION",
+   "start": 63,
+   "end": 113
+  },
+  {
+   "fact": "她和 Finn 是用了 Allards 家的密码进的屋，她对 Jankowski 谎称\"门是开着的\"，为的是不让 Finn 惹麻烦。",
+   "anchor": "the Allards’ code",
+   "start": 1849,
+   "end": 1866
+  },
+  {
+   "fact": "Jankowski 用了 recovered 一词，她觉得这词把她的记忆说成编造，而不是从脑中的雾里挖出来的。",
+   "anchor": "as if I’ve fabricated them rather than excavated them",
+   "start": 2788,
+   "end": 2841
+  },
+  {
+   "fact": "Jankowski 说地毯血迹的化验可能要等一个月甚至更久，她得等结果才知道是不是自己的血。",
+   "anchor": "Could be a while. A month?",
+   "start": 4120,
+   "end": 4146
+  },
+  {
+   "fact": "Autumn 被杀那晚 Finn 正与她视频通话，她开门前说\"有个邻居在门口\"，随后被枪杀。",
+   "anchor": "We were on a FaceTime call that night",
+   "start": 5618,
+   "end": 5655
+  },
+  {
+   "fact": "她想到翻 Jo 的 Instagram 帖子，核对那个周六 Allards 一家是否在家、是否看见什么。",
+   "anchor": "Jo puts everything on Instagram",
+   "start": 8206,
+   "end": 8237
+  },
+  {
+   "fact": "Allards 家的地产与 Yumi 看见有男人穿过的那道树篱相连，Finn 说\"就是个邻居\"。",
+   "anchor": "That property shares the hedge that Yumi saw some guy go through",
+   "start": 7588,
+   "end": 7652
+  },
+  {
+   "fact": "章末她看着 Finn 走远，心里亮起一点希望：既因为记忆开始回来，也因为 Finn。",
+   "anchor": "A tiny spark of hope flickers in me",
+   "start": 8412,
+   "end": 8447
+  }
+ ]
+}
