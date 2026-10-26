@@ -1,0 +1,67 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch17",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch17_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "朱迪思喝干一杯苏格兰威士忌后上楼，前往旧仆人住处",
+   "anchor": "poured herself a glass of scotch, drank it down in one",
+   "start": 37,
+   "end": 91
+  },
+  {
+   "fact": "小门挂锁的搭扣已被掰断，挂锁仍锁着并丢在地上",
+   "anchor": "the hasp had been broken off and the padlock was lying on the floor, still locked",
+   "start": 936,
+   "end": 1017
+  },
+  {
+   "fact": "箱屋靠墙地板上放着一只小皮箱",
+   "anchor": "A small, leather suitcase sat on the floorboards by the far wall.",
+   "start": 1648,
+   "end": 1713
+  },
+  {
+   "fact": "箱中大部分照片是她与菲利波斯在科孚岛做已婚妻子的十八个月里成百上千张合影",
+   "anchor": "the many hundreds of photos from the eighteen months she’d spent as a married woman on Corfu",
+   "start": 2830,
+   "end": 2922
+  },
+  {
+   "fact": "她要寻找的是一张特定的照片，若理论成立则需要找两张",
+   "anchor": "There was one particular photo she was looking for.",
+   "start": 3437,
+   "end": 3488
+  },
+  {
+   "fact": "翻查数小时后她意识到找不到那两张照片",
+   "anchor": "she wasn’t going to be able to find the two photos she was looking for.",
+   "start": 4913,
+   "end": 4984
+  },
+  {
+   "fact": "第一条底片上的六张是她在萨默维尔学院正式大厅里与朋友们的合影",
+   "anchor": "all of the six negatives were of her and her friends in a formal hall at Somerville College",
+   "start": 6034,
+   "end": 6125
+  },
+  {
+   "fact": "她决定不再做知道许多事的狐狸，而要做只懂一件大事的刺猬",
+   "anchor": "she was going to be the hedgehog, who knew only one big thing.",
+   "start": 7088,
+   "end": 7150
+  },
+  {
+   "fact": "她意识到自己已身临致命危险",
+   "anchor": "she knew that the one big thing she’d learned the previous night was that she was now in mortal danger.",
+   "start": 7220,
+   "end": 7323
+  },
+  {
+   "fact": "无论艾勒尼向她抛出什么，她都能接得住",
+   "anchor": "Whatever Eleni threw at her, she’d be equal to it.",
+   "start": 7450,
+   "end": 7500
+  }
+ ]
+}
