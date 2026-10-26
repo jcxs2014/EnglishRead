@@ -1,0 +1,61 @@
+{
+ "book": "the-neighbors-are-watching-by-aggie-blum-thompson",
+ "chapter": "ch05",
+ "text": "notes/books/mystery-thriller/the-neighbors-are-watching-by-aggie-blum-thompson/text/ch05_fifteen_months_ago.txt",
+ "facts": [
+  {
+   "fact": "Tori 站在自家前窗后面看街上临时办起的街区派对",
+   "anchor": "Tori Price peered out the front window of her house at her normally quiet suburban street",
+   "start": 50,
+   "end": 139
+  },
+  {
+   "fact": "她一月中旬搬进来，住了快两个月，一直没交到邻居朋友",
+   "anchor": "Tori had moved into the house almost two months ago, in the middle of January, a tough time to meet people.",
+   "start": 1118,
+   "end": 1225
+  },
+  {
+   "fact": "保姆带她儿子 Leo 去附近的晨间游戏组，保姆在街区的朋友比她还多",
+   "anchor": "Her nanny was the one who took her son, Leo, to the morning playgroup that met a few blocks away, and the girl already had more friends in the neighborhood than Tori did.",
+   "start": 1413,
+   "end": 1583
+  },
+  {
+   "fact": "出门前她打开常用的人工智能聊天机器人 Cyrus 求鼓励",
+   "anchor": "she picked up her phone and opened Cyrus, the AI chatbot she had been turning to lately",
+   "start": 2993,
+   "end": 3080
+  },
+  {
+   "fact": "Cyrus 的恭维让她挺直了背",
+   "anchor": "The words were like air being pumped into a tire. She stood a little straighter",
+   "start": 3706,
+   "end": 3785
+  },
+  {
+   "fact": "Shawn 当面抱怨 Allards 家那栋出租屋破坏街区规矩",
+   "anchor": "That thing is twice as big as any of the other houses on the block. It violates the social contract.",
+   "start": 5330,
+   "end": 5430
+  },
+  {
+   "fact": "她说出自己离婚后，在场的人都不肯与她对视",
+   "anchor": "Neither would meet her eye.",
+   "start": 11113,
+   "end": 11140
+  },
+  {
+   "fact": "房东 Daniel 告诉她两家后院树篱之间有一个可以穿行的缺口",
+   "anchor": "There’s a little cut-through from our backyard to yours, where there’s a gap in the hedge.",
+   "start": 14664,
+   "end": 14754
+  },
+  {
+   "fact": "她看着已婚的业主们围成一个小圈子，自己被留在圈外",
+   "anchor": "the happily marrieds, the landowners, all in a cozy little circle",
+   "start": 15455,
+   "end": 15520
+  }
+ ]
+}
