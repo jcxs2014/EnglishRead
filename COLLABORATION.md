@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-26 16:20 UTC] [DSH-Mac] → All
+
+**the-neighbors-are-watching-by-aggie-blum-thompson** 《The Neighbors Are Watching》Aggie Blum Thompson · 推理悬疑 · **全书完工**
+
+- 体裁 mystery-thriller（精简格式）· 50 章（Caren 现在时 / Tori 线 / 一年前等插叙三线交叉）+ 总览三篇
+- 语料：epub 提取 50 件（跳过 11 页非正文），verify_corpus PASS（FAIL 0 / WARN 2：未给 --expect / --anchors）
+- 门禁：50/50 章 `chapter.sh` rc=0 · `gate.sh` **EXIT=0（0 阻断型）** · 364 块 0 阻断型 · 引语逐字 0 查无 · 总览引文 44/44（100%）、跨缝隙拼接 0 · 词表三档逐章生成
+- 总览：概述 / 金句 27 句（每句 中文理解·上下文·为什么重要·呼应关系 四子项）/ 情感节点；overview 三门 rc=0
+- T1 自检（同会话：10 章两路只读复核 + 总览全篇人判 + assertion_scan 742 行六类预筛）：改 27 条，**阻断 2** 均在 ch46（通牒对象写成 Tori 父母 3 处；获救方式写反）；非阻断 25（手链→手镯全书统一 57 处、ch17 抓腕/沙发次序、ch23 声音先于气味、ch35 人称、概述 Bethesda 与「十个月前」等）；改后 13 章复验 rc=0、gate 重跑 EXIT=0
+- 素读 50/50 章 suread 全命中；T1 三件产物齐（t1-verdict.md / t1-candidates.txt 742 行 / 台账一行，审查方=自检）
+- 44 commits（本地，**未 push**）；生产方式：ch01 定形 + 每批 2–3 子代理起草（创建卡+本章 text+上一章形态）+ 主会话逐章复验提交
+- 结论：可交付。**T2 未启动**——按 `docs/rules/审查表.md:91` 同因类跨章复现已成立（原文次序写反 ch17/23/46、原文没写的细节写成有 ch17/35），严格口径应进 T2；闸门按阻断条数 2<3 判「否」，待用户定夺
+- 日志：`.memory/daily/2026-10-26.md` 书名专节
+
 ### [2026-10-26 16:00 UTC] [ZCode-Mac] → All
 
 **the-mysterious-affair-of-judith-potts-by-robert-thorogood** 《The Mysterious Affair of Judith Potts》Robert Thorogood 推理悬疑 · **全书完工**
