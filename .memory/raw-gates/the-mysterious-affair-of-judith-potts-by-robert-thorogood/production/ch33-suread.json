@@ -1,0 +1,55 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch33",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch33_chapter_32.txt",
+ "facts": [
+  {
+   "fact": "布伦丹·佩里抵达Lord Harleyford的宅邸，亮出警员证要求保安放行",
+   "anchor": "Brendan got out his warrant card.",
+   "start": 674,
+   "end": 707
+  },
+  {
+   "fact": "布伦丹打定主意要找到苏齐和贝克斯，以干预在侦谋杀案为由逮捕她们",
+   "anchor": "He was going to find Suzie and Becks and he was going to arrest them",
+   "start": 931,
+   "end": 999
+  },
+  {
+   "fact": "一个戴兜帽的人用黑手套在密码锁上按了五个数字，打开通往地狱火洞穴的密门",
+   "anchor": "Their black-gloved hand pressed a sequence of five numbers",
+   "start": 2121,
+   "end": 2179
+  },
+  {
+   "fact": "派对女保安把苏齐和贝克斯的手机装进自封袋，锁进身后的金属储物柜",
+   "anchor": "she turned and placed the bags into a large metal locker behind her",
+   "start": 4432,
+   "end": 4499
+  },
+  {
+   "fact": "Lord Harleyford说哈里·阿斯奎特和他儿子从预备学校起就是同学，因此请他写自己的传记",
+   "anchor": "Harry was at school with my son all the way through",
+   "start": 7671,
+   "end": 7722
+  },
+  {
+   "fact": "哈里·阿斯奎特说主洞室外的第三条隧道通向地下一间更深的洞穴，此外什么也没有",
+   "anchor": "It just heads downwards to a little cave that’s even deeper underground.",
+   "start": 10100,
+   "end": 10172
+  },
+  {
+   "fact": "贾米拉承认迈克·萨克森死的那天早晨让她离开，说要“改过自新”",
+   "anchor": "That morning, he told me he was going to mend his ways.",
+   "start": 18298,
+   "end": 18353
+  },
+  {
+   "fact": "安吉拉·格利弗穿着一身汽油蓝色晚礼服走进宅邸大门，苏齐与贝克斯指认她才是真正契合两起谋杀的人",
+   "anchor": "Angela Gulliver had arrived.",
+   "start": 20303,
+   "end": 20331
+  }
+ ]
+}
