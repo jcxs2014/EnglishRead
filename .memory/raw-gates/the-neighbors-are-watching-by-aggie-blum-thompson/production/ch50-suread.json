@@ -1,0 +1,55 @@
+{
+ "book": "the-neighbors-are-watching-by-aggie-blum-thompson",
+ "chapter": "ch50",
+ "text": "notes/books/mystery-thriller/the-neighbors-are-watching-by-aggie-blum-thompson/text/ch50_epilogue.txt",
+ "facts": [
+  {
+   "fact": "信末署名 Yumi，写信人是她",
+   "anchor": "Best, Yumi",
+   "start": 2006,
+   "end": 2016
+  },
+  {
+   "fact": "她说自己当这个街区 Facebook 群的管理员已经五年",
+   "anchor": "moderating the Eastbrook neighborhood Facebook group for the past five years",
+   "start": 134,
+   "end": 210
+  },
+  {
+   "fact": "她仍持有一张照片：Autumn 中枪那晚，收信人从父母租的房子里出来",
+   "anchor": "I am still in possession of the photograph I have of you leaving your parents’ rental the night Autumn was shot",
+   "start": 608,
+   "end": 719
+  },
+  {
+   "fact": "照片里枪和 Autumn 的笔记本电脑都看得见",
+   "anchor": "The gun and Autumn’s laptop are both visible",
+   "start": 761,
+   "end": 805
+  },
+  {
+   "fact": "收信人的父母两人现在都在监狱里",
+   "anchor": "They’re both in prison now",
+   "start": 1500,
+   "end": 1526
+  },
+  {
+   "fact": "她要收信人继续按季度往那个账户付款",
+   "anchor": "keeping up the quarterly payments to the account",
+   "start": 1570,
+   "end": 1618
+  },
+  {
+   "fact": "照片和一份详细陈述存在云端，她或她儿子一旦出事就送交警方",
+   "anchor": "are stored in the cloud and will be delivered to the police should anything happen to me or my son",
+   "start": 1853,
+   "end": 1951
+  },
+  {
+   "fact": "收信人和她哥哥在 Stanford",
+   "anchor": "Hope you and your brother are enjoying Stanford",
+   "start": 1955,
+   "end": 2002
+  }
+ ]
+}
