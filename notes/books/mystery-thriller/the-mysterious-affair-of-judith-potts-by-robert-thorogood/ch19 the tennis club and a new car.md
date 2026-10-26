@@ -42,7 +42,7 @@ source_text: ch19
 **中文理解**："迈克？"哈里回过神来，"真要说的话，我几乎不认识他。不过每次碰见他，看起来都还挺不错的。你知道，挺随和，也愿意聊上几句。现在请恕我失陪，我得去开车了。"
 **关键词**：hardly knew him / nice enough / up for a bit of a chat
 **为什么这样写**：作者先用"迈克？"这两个字单独成段，写出哈里被抓包时的那一下停顿与强行镇定；然后他给出一份过于模糊的好人评价——"nice enough""friendly"，全是形容感觉的词，没有一个具体事实。这种空洞的评价本身就成了可疑之处，因为如果真认识，应该说得出更具体的东西。
-**读者视角提示**："我得去开车了"是哈里·阿斯奎特第一次试图结束对话，他重复"迈克？"这两个字的那一下停顿比后面那整段漂亮评价更可疑——她要的不是答案，是反应。
+**读者视角提示**："我得去开车了"是哈里·阿斯奎特第一次试图结束对话，他重复"迈克？"这两个字的那一下停顿比后面那整段漂亮评价更可疑——问话的人要的不是答案，是反应。
 
 > **原句 5:** "‘But it is. You see, DS Malik told us that you’re up to your ears in debt. You even have to use the cash you take out on one credit card to pay off debts on others. So where did you get this new car from?’"
 

@@ -49,7 +49,7 @@ source_text: ch14
 **中文理解**：朱迪思说，那先想想怎样能最快弄清楚这件事；在那之前不如都到我家去，迈克·萨克森还有太多东西要查，也要想清楚他跟加里·怀斯之间到底有没有瓜葛。
 **关键词**：have a think about / go to my house / Mike Saxon / Gary Wise
 **为什么这样写**：作者用一个带转折意味的"Until then"把无解的僵局换成一次具体行动；提到加里·怀斯时特意加上"if any"三个字，说明这条线此刻还只是猜测，作者借此提醒读者别把未证实的关联当成结论。
-**读者视角提示**：米克·萨克森是第二条命案的主角，加里·怀斯是第一条，两个名字第一次被摆进同一句里。
+**读者视角提示**：迈克·萨克森是第二条命案的主角，加里·怀斯是第一条，两个名字第一次被摆进同一句里。
 
 > **原句 6:** "‘That’s disgusting,’ Judith said. ‘And you should know, according to his Wikipedia page, he doesn’t limit his violence to defenceless animals. There’s a “controversies” section which says he got into a punch-up at the Henley Literary Festival last year.’"
 
