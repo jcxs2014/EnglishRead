@@ -1,0 +1,61 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch32",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch32_chapter_31.txt",
+ "facts": [
+  {
+   "fact": "贝克斯与苏齐都收到米色信封请柬，苏齐判断此事严重蹊跷",
+   "anchor": "I’ve got a cream envelope as well",
+   "start": 644,
+   "end": 677
+  },
+  {
+   "fact": "她们用备用钥匙进朱迪思家取信，发现朱迪思没有收到同样的请柬",
+   "anchor": "there wasn’t a heavy cream envelope with her name and address on it",
+   "start": 1296,
+   "end": 1363
+  },
+  {
+   "fact": "苏齐承认菲利波斯是坏人，但底线是朱迪思不该不告而别地离境",
+   "anchor": "But I draw the line at her leaving the country without telling us where she’s gone.",
+   "start": 2736,
+   "end": 2819
+  },
+  {
+   "fact": "贝克斯在《马洛自由报》上发现疑似给她们的信息",
+   "anchor": "I think this could be the message we’ve been looking for.",
+   "start": 3424,
+   "end": 3481
+  },
+  {
+   "fact": "苏齐上门向塔妮卡借手铐",
+   "anchor": "We need to borrow a set of handcuffs",
+   "start": 3855,
+   "end": 3891
+  },
+  {
+   "fact": "苏齐宣布要用塔妮卡的手铐做公民逮捕",
+   "anchor": "We’re going to make a citizen’s arrest using a pair of your handcuffs",
+   "start": 4823,
+   "end": 4892
+  },
+  {
+   "fact": "塔妮卡声明若她们私自对付嫌疑人，她将被迫举报",
+   "anchor": "If you know who the killer is and try to deal with him on your own, I’ll be forced to report you.",
+   "start": 5512,
+   "end": 5609
+  },
+  {
+   "fact": "贝克斯表态当晚赴舞会当面指证哈莱福德勋爵",
+   "anchor": "We’re going to the ball tonight. We’re going to confront Lord Harleyford.",
+   "start": 6181,
+   "end": 6254
+  },
+  {
+   "fact": "塔妮卡最终打电话给布伦丹，报告两人的计划并要求阻止",
+   "anchor": "I need you to stop them.",
+   "start": 7809,
+   "end": 7833
+  }
+ ]
+}
