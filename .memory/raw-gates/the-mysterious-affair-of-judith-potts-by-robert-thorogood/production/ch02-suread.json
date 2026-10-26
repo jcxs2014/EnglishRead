@@ -1,0 +1,79 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch02",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch02_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "苏齐是遛狗师，业余在 Marlow FM 电台每周主持一次宠物电话节目",
+   "anchor": "Suzie was a dog-walker who had a sideline presenting a phone-in programme about pets",
+   "start": 315,
+   "end": 399
+  },
+  {
+   "fact": "前一晚苏齐与朱迪思、贝克斯一起抓到了凶手",
+   "anchor": "along with her friends Judith and Becks, she’d helped catch a killer",
+   "start": 478,
+   "end": 546
+  },
+  {
+   "fact": "三个女人在《不可 Importance of Being Earnest》演出中抓到凶手，这种事不常有",
+   "anchor": "how many times have three women caught a killer in the middle of a performance of The Importance of Being Earnest?",
+   "start": 2440,
+   "end": 2554
+  },
+  {
+   "fact": "电视头条是哈莱福德勋爵因“现金换问题”丑闻退出上议院席位",
+   "anchor": "Lord Harleyford has announced he’s giving up his seat in the House of Lords",
+   "start": 936,
+   "end": 1011
+  },
+  {
+   "fact": "贝克斯是马洛教区牧师的妻子",
+   "anchor": "Becks was the wife of the vicar of Marlow",
+   "start": 1899,
+   "end": 1940
+  },
+  {
+   "fact": "贝克斯与苏齐在同一时间各自收到短信",
+   "anchor": "At the same time that Becks and Suzie were receiving their texts",
+   "start": 2995,
+   "end": 3059
+  },
+  {
+   "fact": "凌晨三点朱迪思放弃入睡，转去摆弄一幅德文郡伯尔岛千片拼图",
+   "anchor": "turned her attention to the thousand-piece jigsaw of Burgh Island in Devon",
+   "start": 4749,
+   "end": 4823
+  },
+  {
+   "fact": "储物间里那只小皮箱是朱迪思连自己都不告诉的秘密",
+   "anchor": "the case in the box room was the secret she kept even from herself",
+   "start": 4316,
+   "end": 4382
+  },
+  {
+   "fact": "门外站着警督塔妮卡·马利克，她来得不是时候",
+   "anchor": "Detective Inspector Tanika Malik was standing outside in a dark blue puffer jacket",
+   "start": 6611,
+   "end": 6693
+  },
+  {
+   "fact": "朱迪思试探她是否为奥利弗·贝雷斯福德案而来",
+   "anchor": "I suppose you’re here about the Oliver Beresford case?",
+   "start": 7276,
+   "end": 7330
+  },
+  {
+   "fact": "马利克从未听说过艾勒尼这个名字",
+   "anchor": "I’ve not heard that name before. Who is she?",
+   "start": 8306,
+   "end": 8350
+  },
+  {
+   "fact": "昨晚足球运动员加里·怀斯在自家屋后的林子里中枪身亡，一颗子弹穿心",
+   "anchor": "he went into the woods behind his house and was shot dead – a single bullet through the heart",
+   "start": 8555,
+   "end": 8648
+  }
+ ]
+}
