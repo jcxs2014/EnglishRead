@@ -1,0 +1,61 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch07",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch07_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "艾勒尼把朱迪思带进自己的酒店房间，用衣柜里藏着的保险箱取出文件",
+   "anchor": "a safe that was hidden within the built-in wardrobe",
+   "start": 308,
+   "end": 359
+  },
+  {
+   "fact": "朱迪思认出自己手里是菲利波斯死后她提交的那份证人陈述副本",
+   "anchor": "She was holding a copy of the witness statement that she’d given following Philippos’s death.",
+   "start": 678,
+   "end": 771
+  },
+  {
+   "fact": "艾勒尼说自己有一位警界朋友，是文件的来源",
+   "anchor": "I have a friend in the police",
+   "start": 842,
+   "end": 871
+  },
+  {
+   "fact": "艾勒尼逐条宣读证词，指出朱迪思曾告诉菲利波斯风暴将至",
+   "anchor": "It says you told my father that a storm was coming in, but he wouldn’t listen to you.",
+   "start": 1336,
+   "end": 1421
+  },
+  {
+   "fact": "朱迪思回想菲利波斯动怒的缘由",
+   "anchor": "His temper when he felt he wasn’t as clever as her.",
+   "start": 2020,
+   "end": 2071
+  },
+  {
+   "fact": "艾勒尼又拿出一张菲利波斯家下方海湾的旧照片",
+   "anchor": "It showed the cove beneath Philippos’s house.",
+   "start": 4662,
+   "end": 4707
+  },
+  {
+   "fact": "朱迪思认出照片里的裙子正是菲利波斯死去那天她穿的那一件",
+   "anchor": "she’d never forget that the day he’d died was the first time that she’d worn the dress she was wearing in the photograph.",
+   "start": 5173,
+   "end": 5294
+  },
+  {
+   "fact": "艾勒尼开出条件：要么去自首，要么她把全部证据交给警方",
+   "anchor": "You go to the police and confess the truth of what happened that day, or I’ll give them all the evidence I’ve got.",
+   "start": 6598,
+   "end": 6712
+  },
+  {
+   "fact": "结尾处朱迪思独自承认自己那份证词一直是谎话",
+   "anchor": "as only Judith had known for the last forty-nine years, it had been a lie.",
+   "start": 7230,
+   "end": 7304
+  }
+ ]
+}
