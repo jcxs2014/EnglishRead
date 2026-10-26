@@ -1,0 +1,55 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch15",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch15_chapter_14.txt",
+ "facts": [
+  {
+   "fact": "朱迪思否认自己去过戈斯莫尔游乐园，坚称几周都没去过",
+   "anchor": "I’ve not been there for weeks.",
+   "start": 124,
+   "end": 154
+  },
+  {
+   "fact": "朱迪思否认自己在勒索布伦丹，转而逼他确认两起谋杀用的是同一把枪",
+   "anchor": "Absolutely not. But just to confirm, to stop us talking to other people",
+   "start": 1153,
+   "end": 1224
+  },
+  {
+   "fact": "布伦丹最终松口，承认两起谋杀用的是同一把枪",
+   "anchor": "It was the same gun,’ he eventually huffed.",
+   "start": 1432,
+   "end": 1475
+  },
+  {
+   "fact": "贝克斯用图钉标出加里·怀斯与迈克·萨克森的照片，再用毛线把两案连起来",
+   "anchor": "wrapped the loose end around the pin in the centre of Gary’s photo",
+   "start": 1986,
+   "end": 2052
+  },
+  {
+   "fact": "朱迪思提出加里·怀斯之死与他被人勒索的那件事有关",
+   "anchor": "Gary Wise was killed in connection with whatever it was he was being blackmailed over.",
+   "start": 2726,
+   "end": 2812
+  },
+  {
+   "fact": "朱迪思临开门前先送给两位朋友各自一本填字游戏书，三人一起走到前门",
+   "anchor": "Suzie and Becks followed, still holding their books.",
+   "start": 4269,
+   "end": 4321
+  },
+  {
+   "fact": "门外来的陌生女人自称是电视节目主持人安吉拉·格列佛",
+   "anchor": "My name’s Angela Gulliver,’ the woman said.",
+   "start": 5598,
+   "end": 5641
+  },
+  {
+   "fact": "安吉拉在门口说她们是抓凶手的人，因此怀疑自己会成为下一个受害者",
+   "anchor": "I think I’m going to be the next victim.",
+   "start": 6347,
+   "end": 6387
+  }
+ ]
+}
