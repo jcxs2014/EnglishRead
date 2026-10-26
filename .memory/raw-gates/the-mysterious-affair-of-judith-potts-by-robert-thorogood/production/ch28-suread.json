@@ -1,0 +1,73 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch28",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch28_chapter_27.txt",
+ "facts": [
+  {
+   "fact": "朱迪思、苏齐、贝克斯到达贝思尼宅邸，发现门楼被大挂锁和锁链锁住，三人被困在门外",
+   "anchor": "the lychgate had a large padlock and chain on it",
+   "start": 120,
+   "end": 168
+  },
+  {
+   "fact": "朱迪思提议沿加里与贝思尼地界边的墙绕到树林，找通往屋后的路",
+   "anchor": "We know there’s a path through the woods",
+   "start": 263,
+   "end": 303
+  },
+  {
+   "fact": "苏齐推理贝思尼杀害丈夫加里的动机：离婚只能分一半，杀人可以独得全部",
+   "anchor": "Divorce him and you get half of what he had",
+   "start": 972,
+   "end": 1015
+  },
+  {
+   "fact": "苏齐快步走向贝思尼时掉进分隔花园与林地的壕沟，朱迪思解释这种沟叫 ha-ha",
+   "anchor": "the ditch is called a ha-ha",
+   "start": 4307,
+   "end": 4334
+  },
+  {
+   "fact": "苏齐拿出酒店前台的证词，指控贝思尼与迈克·萨克森一起喝香槟",
+   "anchor": "The receptionist remembers seeing you both together",
+   "start": 5405,
+   "end": 5456
+  },
+  {
+   "fact": "贝思尼复述迈克在舞会上提议加里写自传的那番话",
+   "anchor": "He said he knew Gary hadn’t fulfilled his potential as a footballer",
+   "start": 7233,
+   "end": 7300
+  },
+  {
+   "fact": "贝思尼说迈克曾告诉她哈里·阿斯奎特是他网球俱乐部的双打搭档",
+   "anchor": "Apparently, Mike and Harry were doubles partners",
+   "start": 8548,
+   "end": 8596
+  },
+  {
+   "fact": "朱迪思指出哈里是除领主外唯一同时认识两位死者的人，牵出嫌疑",
+   "anchor": "Harry was one of only two people who knew both victims",
+   "start": 9090,
+   "end": 9144
+  },
+  {
+   "fact": "贝思尼反击说林子入口有监控，她一看见三人转上小路就知道她们来了",
+   "anchor": "Do you really think we don’t have security cameras",
+   "start": 9878,
+   "end": 9928
+  },
+  {
+   "fact": "布伦丹·佩里警司以新证据为由传唤朱迪思到警局，并警告可强制逮捕",
+   "anchor": "New evidence has been handed in in relation to the unexplained death",
+   "start": 11123,
+   "end": 11191
+  },
+  {
+   "fact": "朱迪思临被带走前回头喊出「那男人两颊通红」，作为给朋友的临别线索",
+   "anchor": "The man had red cheeks",
+   "start": 12188,
+   "end": 12210
+  }
+ ]
+}
