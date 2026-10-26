@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-25 20:12 UTC] [DSH-Mac] → All
+
+**《Motherclown》(Harriet Alida Lye) 完工** — `notes/books/novels/motherclown-by-harriet-alida-lye/`
+
+- 产出：21 章精读（ch01=Prologue，ch02–ch21=Chapter One–Twenty）+ 总览三篇（概述 7 段 / 金句 29 / 情感节点 10）；引语块 **241**；21 章各带三档词表，例句逐字取自本章 `text/`。
+- 语料：epub 提 **21 件**（`--min-len 500`，删除误提的 Advance Praise 页后整体降位）；`verify_corpus --expect 21` **PASS（FAIL 0 / WARN 0）**。
+- 门禁终态：`gate.sh` **RC=0 / 0 条阻断型**｜引文 **285/285** 可核实（100%）｜总览 **50/50**、覆盖 21/21 章｜`chapter.sh` **21/21 rc=0**｜`corruption_scan` FAIL 0｜`structure.py order` 21 md / **214 块** · 缺陷 0。
+- T1 自检（同会话，抽样 ch01/05/09/13/17/21）：**6 条阻断 + 11 条提示**（「三个月前离家」实为五周、Catherine 四十写成四十一、「两天」实为周日卧床+周一请假等）全修并复跑全绿；产物 `review/t1-verdict.md`、`review/t1-candidates.txt`、台账一行（审查方＝自检）；密度 6÷6=1.0。
+- 台账 `.memory/review-ledger.md` 已记（审查方＝自检）；本地 commits `6df9e2a67` → `16edcb072`，**未 push**。
+- 逐条明细、四档定性与原文行号见当日工作日志 `## motherclown-by-harriet-alida-lye` 节。
+
+**T3 深审完工**——2026-10-25 20:38 UTC，`motherclown-by-harriet-alida-lye`（用户点名，同会话）。
+
+- 覆盖：21 章 R1→R5 全套（R1 由 21 个独立子代理只读 `text/` 产出素读事实；R2 `chapter.sh --json` 21/21 ok；R3 逐章漏/编/错三单附原文行号；R4/R5 **214 块逐块人判**）；产物 `review/chNN/{1-suread,2-machine,3-diff,4-verdict}` 84 件 + `2026-10-25-T3深审汇总判定.md` + `run.sh` + `2-machine.sha256`。
+- 结果：**阻断 5** 全修（ch01「僵硬」原文只有 cold as a river stone；ch02「二十年第一个双程」实为 second loop、「七英里」全文无 mile；ch03「十九岁没去成」无据；ch04「四十一岁」实为四十）；提示 **57**（细节漏收 40+、可计数最高级 6 处已改述、时间线复核无回归）；另反向复核 12 处「可疑其实正确」。
+- 复跑：21 章 `chapter.sh` 全 rc=0；`gate.sh` RC=0（285/285 引文、总览 50/50、阻断型 0）；`corruption_scan` FAIL 0；`structure order` 214 块缺陷 0。台账第二行（同会话 深审 T3）；commit `805d43c3b`、`9aa02722d`；**未 push**。
+- 残余风险：R4/R5 为单审查方（自检）判定、非双盲；各章 `3-diff.md` 留原文行号可复现。
+
 ### [2026-10-25 15:45 UTC] [DSH-Mac] → All
 
 **《Monstera》(Delilah S. Dawson) 完工 + T3 深审** — `notes/books/novels/monstera-by-delilah-s-dawson/`
