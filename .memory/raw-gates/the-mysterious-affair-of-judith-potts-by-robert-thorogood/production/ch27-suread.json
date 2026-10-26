@@ -1,0 +1,55 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch27",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch27_chapter_26.txt",
+ "facts": [
+  {
+   "fact": "苏齐承认自己没忍住，跑去告诉艾琳妮去报警，因为看不下去她折磨朱迪思",
+   "anchor": "I couldn’t bear what she was doing to you, and I could see that she could have kept it up for days.",
+   "start": 201,
+   "end": 300
+  },
+  {
+   "fact": "朱迪思说自己不再管艾琳妮了，有两个死者该得到公道，要趁还能帮上忙时帮他们",
+   "anchor": "There are two dead people who deserve justice, so I suggest we try and help them while we can",
+   "start": 1225,
+   "end": 1318
+  },
+  {
+   "fact": "朱迪思翻《马洛维安》杂志，想到它报道镇上所有活动、含上流活动照片",
+   "anchor": "It covers everything that happens in the town",
+   "start": 2134,
+   "end": 2179
+  },
+  {
+   "fact": "苏齐在领主舞会照片里认出站在 Lord Harleyford 两侧的加里·怀斯和迈克·萨克森",
+   "anchor": "One of them was Gary Wise and the other was Mike Saxon",
+   "start": 5521,
+   "end": 5575
+  },
+  {
+   "fact": "三人开苏齐的面包车到霍尔波特破败的旅馆门口",
+   "anchor": "the three women drove in Suzie’s van to Holyport, where they parked up outside the run-down hotel",
+   "start": 7561,
+   "end": 7658
+  },
+  {
+   "fact": "旅馆前台说迈克·萨克森只按小时订房，从不过夜",
+   "anchor": "He was one of those men who book a room, but never for the night",
+   "start": 8628,
+   "end": 8692
+  },
+  {
+   "fact": "苏齐用要在 Tripadvisor 上写差评相威胁，逼前台开口",
+   "anchor": "I’m going to go to Tripadvisor and list everything that’s wrong with this hotel",
+   "start": 10445,
+   "end": 10524
+  },
+  {
+   "fact": "前台认出照片里的人是加里·怀斯的妻子贝思尼",
+   "anchor": "It was Gary Wise’s wife, Bethany.",
+   "start": 11408,
+   "end": 11441
+  }
+ ]
+}
