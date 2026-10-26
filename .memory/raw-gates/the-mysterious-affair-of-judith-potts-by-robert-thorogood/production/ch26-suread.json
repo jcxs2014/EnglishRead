@@ -1,0 +1,55 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch26",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch26_chapter_25.txt",
+ "facts": [
+  {
+   "fact": "三人从一级级磨旧的石头楼梯往下走，靠手机灯光照下一级台阶",
+   "anchor": "The stairs were made of worn stone",
+   "start": 30,
+   "end": 64
+  },
+  {
+   "fact": "朱迪思用光柱照向石板地面，在灰尘里看见极淡的脚印",
+   "anchor": "the faintest of footsteps in the dust",
+   "start": 872,
+   "end": 909
+  },
+  {
+   "fact": "朱迪思厉声招呼两个朋友壮起胆来跟上自己",
+   "anchor": "‘Let’s show a bit of mettle. Follow me.’",
+   "start": 2279,
+   "end": 2319
+  },
+  {
+   "fact": "朱迪思顺着墙摸到通风口，一推护墙板 hinged open，露出后面的门",
+   "anchor": "A section of panelling hinged open, revealing a door.",
+   "start": 3947,
+   "end": 4000
+  },
+  {
+   "fact": "洞厅一侧是厨房区，摆着双层酒柜和洗碗机",
+   "anchor": "washing-up area with what looked like a dishwasher",
+   "start": 5980,
+   "end": 6030
+  },
+  {
+   "fact": "那片洞穴因此得名“地狱火洞穴”",
+   "anchor": "the caves became known as the Hellfire Caves",
+   "start": 12380,
+   "end": 12424
+  },
+  {
+   "fact": "苏齐猜有人发现了 Gary 与 Mike 的秘密并以此勒索钱财",
+   "anchor": "was making them pay to keep their secret a secret",
+   "start": 13000,
+   "end": 13049
+  },
+  {
+   "fact": "艾琳妮警告朱迪思，下次来敲门的将是逮捕她的警察",
+   "anchor": "it will be the police arresting you for murder",
+   "start": 16219,
+   "end": 16265
+  }
+ ]
+}
