@@ -1,0 +1,61 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch11",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch11_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "塔妮卡已被停职，布伦丹被指定代理怀斯案的首席调查官",
+   "anchor": "Tanika said, ‘while I’m suspended, Brendan’s been asked to act up as Senior Investigating Officer on the Wise case.’",
+   "start": 371,
+   "end": 487
+  },
+  {
+   "fact": "贝克斯交还自己的平民顾问证卡",
+   "anchor": "‘You’ll be wanting our civilian adviser cards back, won’t you?’ Becks said.",
+   "start": 1535,
+   "end": 1610
+  },
+  {
+   "fact": "朱迪思拒绝打开手提包，要求搜查令",
+   "anchor": "‘Do you have a warrant?’",
+   "start": 2391,
+   "end": 2415
+  },
+  {
+   "fact": "爱丽丝·哈克特报告马洛又发生一宗谋杀",
+   "anchor": "‘There’s been another murder in Marlow,’ Alice said.",
+   "start": 3077,
+   "end": 3129
+  },
+  {
+   "fact": "塔妮卡宣称此案与她四人无关，径自离开",
+   "anchor": "‘And it’s got nothing to do with you. Or me for that matter. Brendan’s in charge now. It’s over for the four of us.’",
+   "start": 3659,
+   "end": 3775
+  },
+  {
+   "fact": "朱迪思借交还手机套出尸体位置",
+   "anchor": "‘Gossmore Recreation Ground,’ PC Merchant said. ‘A body’s just been found under the A404 flyover.’",
+   "start": 6122,
+   "end": 6220
+  },
+  {
+   "fact": "朱迪思在公园里给两位朋友上字谜课",
+   "anchor": "‘Each clue is always made up of two halves.",
+   "start": 9854,
+   "end": 9897
+  },
+  {
+   "fact": "苏齐认出死者是小说家迈克·萨克森",
+   "anchor": "‘Oh, bloody hell, is that Serena? Oh God – of course – the trilby! I think the dead guy’s Mike Saxon.’",
+   "start": 14014,
+   "end": 14116
+  },
+  {
+   "fact": "朱迪思断定两起名人命案互有关联",
+   "anchor": "‘First a famous footballer is murdered, and now it’s a famous novelist.’",
+   "start": 15820,
+   "end": 15892
+  }
+ ]
+}
