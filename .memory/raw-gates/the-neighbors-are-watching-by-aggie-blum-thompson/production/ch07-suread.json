@@ -1,0 +1,55 @@
+{
+ "book": "the-neighbors-are-watching-by-aggie-blum-thompson",
+ "chapter": "ch07",
+ "text": "notes/books/mystery-thriller/the-neighbors-are-watching-by-aggie-blum-thompson/text/ch07_chapter_six.txt",
+ "facts": [
+  {
+   "fact": "Caren 坐在急诊床沿晃着脚，和 Miguel 一起等医生拿 CT 结果回来。",
+   "anchor": "My feet dangle over the edge of the hospital bed",
+   "start": 20,
+   "end": 68
+  },
+  {
+   "fact": "医生宣布她没有颅骨骨折、没有中风，但后脑受外力撞击，确诊脑震荡。",
+   "anchor": "No skull fracture, no stroke.",
+   "start": 1860,
+   "end": 1889
+  },
+  {
+   "fact": "Caren 记不起那晚睡在哪里，身上还是前一夜的衣服，像根本没回家换过。",
+   "anchor": "I don’t even remember where I spent the night. I was wearing the same clothes as last night",
+   "start": 2546,
+   "end": 2637
+  },
+  {
+   "fact": "医生把她的症状命名为创伤后遗忘，并说明它可含逆行性与顺行性两种。",
+   "anchor": "called post-traumatic amnesia",
+   "start": 2740,
+   "end": 2769
+  },
+  {
+   "fact": "医生要求她未来六周尽量不看屏幕，每天不超过三十分钟。",
+   "anchor": "you need to stay off screens as much as possible for the next six weeks",
+   "start": 5547,
+   "end": 5618
+  },
+  {
+   "fact": "医生说院方在法律上有义务在确认有人被袭击时联系警方，但这次属于灰色地带，并把做毒检说成不坏的主意。",
+   "anchor": "We are legally obligated to contact law enforcement",
+   "start": 6313,
+   "end": 6364
+  },
+  {
+   "fact": "她翻通话记录，发现最后一通电话是 Yumi、8:36 挂断，而她对这通电话和随后那条短信毫无印象。",
+   "anchor": "The last person I spoke to was Yumi, and the call ended at 8:36 last night",
+   "start": 8823,
+   "end": 8897
+  },
+  {
+   "fact": "Miguel 收走她的手机塞进后裤袋，随即告诉她警察到了。",
+   "anchor": "Miguel slips my phone into his back pocket",
+   "start": 10347,
+   "end": 10389
+  }
+ ]
+}
