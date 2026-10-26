@@ -1,0 +1,55 @@
+{
+ "book": "the-neighbors-are-watching-by-aggie-blum-thompson",
+ "chapter": "ch09",
+ "text": "notes/books/mystery-thriller/the-neighbors-are-watching-by-aggie-blum-thompson/text/ch09_chapter_eight.txt",
+ "facts": [
+  {
+   "fact": "两名警察进了厨房，Miguel 给其中一人倒了杯水，Caren 坐在吧台凳上看着。",
+   "anchor": "I sit on a counter stool, watching as Miguel gets a glass of water for one of the two officers now crowded into our kitchen.",
+   "start": 24,
+   "end": 148
+  },
+  {
+   "fact": "Jankowski 警员自我介绍后拿出小本子，说明来电内容是\"袭击\"，要求从头讲。",
+   "anchor": "You called nine-one-one about an assault. Let’s start at the beginning, Mrs. Costa.",
+   "start": 961,
+   "end": 1044
+  },
+  {
+   "fact": "Caren 说自己只记得昨晚八点左右离开派对，再醒来已是今早，人在离家几条街的别人家门外。",
+   "anchor": "I remember leaving around eight, but then the next thing I remember it was this morning, and I was blocks away from my house, outside someone else’s house—",
+   "start": 1524,
+   "end": 1679
+  },
+  {
+   "fact": "Miguel 当着警察的面说出她有安眠药 Ambien 的处方。",
+   "anchor": "“You have a prescription for Ambien.” He turns to the officer.",
+   "start": 3085,
+   "end": 3147
+  },
+  {
+   "fact": "Miguel 从垃圾桶里捞出印着 MILLIE’S 的蓝白外卖袋。",
+   "anchor": "He reaches into the garbage and pulls out the familiar white-and-blue bag with MILLIE’S in print on the side.",
+   "start": 5922,
+   "end": 6031
+  },
+  {
+   "fact": "Jankowski 撕下钉在袋上的小票，念出地址与\"不要奶酪\"。",
+   "anchor": "“It says one Cliff Road, no cheese.”",
+   "start": 6258,
+   "end": 6294
+  },
+  {
+   "fact": "Miguel 又从垃圾桶里掏出一个空酒瓶，搁在花岗岩台面上。",
+   "anchor": "He pulls out an empty wine bottle and places it on the granite counter with a thunk.",
+   "start": 7174,
+   "end": 7258
+  },
+  {
+   "fact": "章末 Caren 意识到警员不信她，丈夫也不信她。",
+   "anchor": "And it hits me. Officer Jankowski doesn’t believe me, and neither does my own husband.",
+   "start": 10865,
+   "end": 10951
+  }
+ ]
+}
