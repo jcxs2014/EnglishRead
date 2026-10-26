@@ -1,0 +1,61 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch23",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch23_chapter_22.txt",
+ "facts": [
+  {
+   "fact": "塞雷娜正在把丈夫的宾利卖给本地车行的人",
+   "anchor": "showing a man from the local Bentley dealership",
+   "start": 65,
+   "end": 112
+  },
+  {
+   "fact": "朱迪思从卖车表格的笔迹认出那正是她第一次访谈时在餐桌上见过的迈克的笔记笔迹",
+   "anchor": "the handwriting on his notes was the same as the handwriting",
+   "start": 3735,
+   "end": 3795
+  },
+  {
+   "fact": "朱迪思当面指认塞雷娜是迈克所有书的真正作者，也就是她杀死了丈夫",
+   "anchor": "Because it’s you who writes his books, isn’t it?",
+   "start": 3261,
+   "end": 3309
+  },
+  {
+   "fact": "塞雷娜承认自己代写《迈克·萨克森》系列并用丈夫的名字出版",
+   "anchor": "so I wrote the most Mike Saxon book that I could",
+   "start": 5168,
+   "end": 5216
+  },
+  {
+   "fact": "塞雷娜说明自己无法在丈夫死后继续代写赚钱，因此动机不在杀人而在断财",
+   "anchor": "I loved the money more than I hated my husband",
+   "start": 7091,
+   "end": 7137
+  },
+  {
+   "fact": "苏齐认为真正缺钱、最可能是勒索者的人是哈里·阿斯奎特",
+   "anchor": "my money’s on Harry Asquith. He’s the one person in all of this",
+   "start": 8428,
+   "end": 8491
+  },
+  {
+   "fact": "贝克斯在迈克办公室附近又看到一名跟踪三人的人影",
+   "anchor": "I think I just saw Eleni again",
+   "start": 8844,
+   "end": 8874
+  },
+  {
+   "fact": "朱迪思提出用死胡同作陷阱，三人诱使跟踪者现身",
+   "anchor": "We need somewhere where there’s a proper dead end",
+   "start": 9867,
+   "end": 9916
+  },
+  {
+   "fact": "追踪者被从车里拽出后露出的并非艾琳·帕菲德斯，而是安吉拉·格列佛",
+   "anchor": "It wasn’t Eleni Paphides.",
+   "start": 11316,
+   "end": 11341
+  }
+ ]
+}
