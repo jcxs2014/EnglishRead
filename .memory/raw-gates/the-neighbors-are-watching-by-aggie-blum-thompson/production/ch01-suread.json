@@ -1,0 +1,55 @@
+{
+ "book": "the-neighbors-are-watching-by-aggie-blum-thompson",
+ "chapter": "ch01",
+ "text": "notes/books/mystery-thriller/the-neighbors-are-watching-by-aggie-blum-thompson/text/ch01_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "Caren 在毕业派对上向一位家长自我介绍并纠正拼法；对方问 Rachel 去哪所大学，她答 Georgetown。",
+   "anchor": "It’s Caren. Caren with a ‘C.’",
+   "start": 21,
+   "end": 50
+  },
+  {
+   "fact": "Caren 在派对上意识到「做学龄孩子母亲」这一阶段正式结束，两周来已跑了多场毕业派对。",
+   "anchor": "This part of my life—being a mother to school-age kids—has officially ended.",
+   "start": 999,
+   "end": 1075
+  },
+  {
+   "fact": "Kenya 举杯庆祝终于自由，不再有接送孩子和家委会。",
+   "anchor": "We’re finally free!",
+   "start": 1469,
+   "end": 1488
+  },
+  {
+   "fact": "Caren 交代家人下落：丈夫 Miguel 在 Rehoboth 收拾海滩屋，长子 Zach 留校做实验室实习。",
+   "anchor": "he’s in Rehoboth opening up the beach house",
+   "start": 2269,
+   "end": 2312
+  },
+  {
+   "fact": "Daniel Allard 问 Caren 近况，她说忙着庭院义卖；她心里想着周一的博物馆活动策划岗初筛面试。",
+   "anchor": "a screening interview on Monday for an event planner position at a museum",
+   "start": 6909,
+   "end": 6982
+  },
+  {
+   "fact": "Caren 与 Kenya 一起办了十一年的 Eastbrook 年度夏季庭院义卖，如今已变成多日大型活动。",
+   "anchor": "The two of us have been running the Eastbrook Annual Summer Yard Sale for eleven years.",
+   "start": 7162,
+   "end": 7249
+  },
+  {
+   "fact": "Jo 从木电杆上撕下一张传单，上面印着这句话，Caren 认出是去年夏天遇害的保姆。",
+   "anchor": "DO YOU KNOW WHO KILLED ME?",
+   "start": 12788,
+   "end": 12814
+  },
+  {
+   "fact": "Caren 提到 Rachel 与 Eloïse 在十一年级闹翻，她把 Rachel 中途转去了小型私立学校。",
+   "anchor": "we transferred Rachel midyear",
+   "start": 11636,
+   "end": 11665
+  }
+ ]
+}
