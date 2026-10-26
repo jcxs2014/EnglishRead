@@ -1,0 +1,55 @@
+{
+ "book": "the-neighbors-are-watching-by-aggie-blum-thompson",
+ "chapter": "ch41",
+ "text": "notes/books/mystery-thriller/the-neighbors-are-watching-by-aggie-blum-thompson/text/ch41_chapter_thirty_two.txt",
+ "facts": [
+  {
+   "fact": "Finn 回到地下室自己的房间，坐在床沿，整个人发木。",
+   "anchor": "feeling numb",
+   "start": 106,
+   "end": 118
+  },
+  {
+   "fact": "他把 Autumn 的死归到 Van Allard 身上：一个被拒绝的少年，冲动之下动了手。",
+   "anchor": "spurned by a woman he should never have been sleeping with",
+   "start": 1136,
+   "end": 1194
+  },
+  {
+   "fact": "Aziz 在电话里说 DNA 比对有进展，在家谱上摸到了一些关联。",
+   "anchor": "Found some connections to the family tree",
+   "start": 1736,
+   "end": 1777
+  },
+  {
+   "fact": "Aziz 警告他别再到处跑去问人，否则会以妨碍调查的罪名把他抓起来。",
+   "anchor": "keeping a low profile",
+   "start": 2852,
+   "end": 2873
+  },
+  {
+   "fact": "Tori Price 承认与 Van Allard 有婚外情，并暗示是他下的手。",
+   "anchor": "she was having an affair with Van Allard",
+   "start": 5333,
+   "end": 5373
+  },
+  {
+   "fact": "Paula 说 Yumi 几乎整天待在门廊上，却声称那晚什么都没看见。",
+   "anchor": "practically twenty-four hours a day",
+   "start": 6865,
+   "end": 6900
+  },
+  {
+   "fact": "Jo 发短信请他六点过去，谈出门期间看房子和看狗的事。",
+   "anchor": "house slash dog sitting",
+   "start": 7914,
+   "end": 7937
+  },
+  {
+   "fact": "Paula 要求进 Allard 家前保持通话，一听到不对她就直接进去。",
+   "anchor": "I will pop in",
+   "start": 10025,
+   "end": 10038
+  }
+ ]
+}
