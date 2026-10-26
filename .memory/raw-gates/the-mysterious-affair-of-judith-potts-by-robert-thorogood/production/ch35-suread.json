@@ -1,0 +1,79 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch35",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch35_chapter_34.txt",
+ "facts": [
+  {
+   "fact": "苏齐挤进岩缝时发现开口在头部高度最窄，越靠近地面反而越宽，只能跪下扭身钻过",
+   "anchor": "the opening was at its narrowest at head height",
+   "start": 226,
+   "end": 273
+  },
+  {
+   "fact": "贝克斯钻过缝隙后想起自己把手电落在了缝的另一侧，回头去够时被赶到的Lord Harleyford撞见",
+   "anchor": "she’d left her torch behind",
+   "start": 754,
+   "end": 781
+  },
+  {
+   "fact": "地道尽头张开成一个石室，唯一出口就是他们进来的那条路，两人和追兵一起被困在死路上",
+   "anchor": "This time it really was a dead end.",
+   "start": 1542,
+   "end": 1577
+  },
+  {
+   "fact": "苏齐在死路上直接揭穿假象：他们早就知道Lord Harleyford 并不是凶手",
+   "anchor": "We know you’re not the killer",
+   "start": 1918,
+   "end": 1947
+  },
+  {
+   "fact": "苏齐解释设局的用意——故意让Lord Harleyford 追进来，因为真凶一定会跟在后面",
+   "anchor": "Because we knew that the real killer would follow you.",
+   "start": 2153,
+   "end": 2207
+  },
+  {
+   "fact": "一声枪响，Lord Harleyford 当场中弹倒地，血从左肩下的伤口渗出白衬衫",
+   "anchor": "A shot rang out – whip-crack!",
+   "start": 2290,
+   "end": 2319
+  },
+  {
+   "fact": "贝克斯当面指认幕后真凶是警探Brendan Perry，是她杀了加里·怀斯，随后又杀了迈克·萨克森",
+   "anchor": "It was you who killed Gary Wise",
+   "start": 3887,
+   "end": 3918
+  },
+  {
+   "fact": "朱迪思从岩石后面冲出，用灰色斗篷罩住Brendan的头把他扑倒在地，苏齐踩住他手腕",
+   "anchor": "swished her grey cape over Brendan’s head",
+   "start": 6125,
+   "end": 6166
+  },
+  {
+   "fact": "Brendan 嘲笑朱迪思的诡计，称她根本不在国内，所有港口和机场都被监视",
+   "anchor": "We’ve got a watch on all the ports and airports.",
+   "start": 5921,
+   "end": 5969
+  },
+  {
+   "fact": "朱迪思交代她早把手机架在三脚架上，把Brendan 自白与枪击全程录像",
+   "anchor": "I’ve got my phone on a tripod behind that rock over there",
+   "start": 7943,
+   "end": 8000
+  },
+  {
+   "fact": "苏齐看着被手袋皮带捆住手脚的Brendan，给这场围捕起了个“手包捆绑”的绰号",
+   "anchor": "We handbagged him",
+   "start": 8179,
+   "end": 8196
+  },
+  {
+   "fact": "被打中的Lord Harleyford 恢复意识，发出嘶哑的呼救声",
+   "anchor": "Lord Harleyford stirred and then drew in a rasping breath",
+   "start": 8201,
+   "end": 8258
+  }
+ ]
+}
