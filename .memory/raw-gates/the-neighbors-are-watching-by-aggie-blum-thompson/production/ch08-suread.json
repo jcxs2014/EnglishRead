@@ -1,0 +1,55 @@
+{
+ "book": "the-neighbors-are-watching-by-aggie-blum-thompson",
+ "chapter": "ch08",
+ "text": "notes/books/mystery-thriller/the-neighbors-are-watching-by-aggie-blum-thompson/text/ch08_chapter_seven.txt",
+ "facts": [
+  {
+   "fact": "Finn 在 Allard 家巨大的厨房中间等面试，双手插在裤袋里，等着被对方打量。",
+   "anchor": "Finn stands in the middle of the Allards’ giant kitchen",
+   "start": 24,
+   "end": 79
+  },
+  {
+   "fact": "他面试迟到，是因为先前把那个叫 Caren 的女人送回了家。",
+   "anchor": "He was late for the interview after helping that Caren woman back to her house",
+   "start": 149,
+   "end": 227
+  },
+  {
+   "fact": "草坪与“监狱屋”后院之间的黄杨树篱上还挂着一条金色花环，是派对留下的残迹。",
+   "anchor": "A gold garland stretches across the boxwood hedge that separates the lawn from the backyard of the Prison House",
+   "start": 1607,
+   "end": 1718
+  },
+  {
+   "fact": "被对方盯着打量时，他仍会不舒服，全身进入戒备。",
+   "anchor": "He still doesn’t like to be stared at like this",
+   "start": 2938,
+   "end": 2985
+  },
+  {
+   "fact": "Jo 把他带到后门，直接把自家门锁密码告诉了这个刚见面的人。",
+   "anchor": "Jo opens the back door and tells him the code to her house",
+   "start": 7052,
+   "end": 7110
+  },
+  {
+   "fact": "Jo 想起来，是 Paula Dunker 向她提到 Finn 的。",
+   "anchor": "You live with Paula Dunker, right?",
+   "start": 8950,
+   "end": 8984
+  },
+  {
+   "fact": "那张塔罗牌是 Autumn 在他手术前一天送给他的。",
+   "anchor": "Autumn gave it to him the day before his surgery.",
+   "start": 9813,
+   "end": 9862
+  },
+  {
+   "fact": "他离开前问自己：住在这栋房子里的人，是不是杀了 Autumn 的人。",
+   "anchor": "Did someone who lives in this house kill Autumn?",
+   "start": 10373,
+   "end": 10421
+  }
+ ]
+}
