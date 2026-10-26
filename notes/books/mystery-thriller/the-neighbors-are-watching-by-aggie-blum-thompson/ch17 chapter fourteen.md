@@ -7,17 +7,17 @@ modified: "2026-10-26"
 
 ## 本章导航
 
-- **一句话概括**：餐桌上摊满她亲手贴标签的首饰袋，Caren 认定有人进过屋子——她没喝的酒、她没点的外卖、不见的手镯是同一件事；Miguel 用两人当年对付 Rachel 的那种"治疗师腔"把她按回沙发，抓住她的手腕拦下酒，又提出"也许是你自己放错了"。她终于低声交出最要紧的一句：手镯是在 Rachel 准备捐去 Goodwill 的袋子里找到的。他沉默之后给的方案是先找、找到就还、不告诉女儿，理由是"不能毁了我女儿的前途"；她把它纠正成"我们的女儿"，然后让他握住自己的手。
+- **一句话概括**：餐桌上摊满她亲手贴标签的首饰袋，Caren 认定有人进过屋子——她没喝的酒、她没点的外卖、不见的手镯是同一件事；Miguel 用两人当年对付 Rachel 的那种"治疗师腔"抓住她的手腕拦下酒，再引她到沙发，又提出"也许是你自己放错了"。她终于低声交出最要紧的一句：手镯是在 Rachel 准备捐去 Goodwill 的袋子里找到的。他沉默之后给的方案是先找、找到就还、不告诉女儿，理由是"不能毁了我女儿的前途"；她把它纠正成"我们的女儿"，然后让他握住自己的手。
 - **情感弧线位置**：全章是一个室内场景里的双人对峙，起点是物证摊在桌上的确定，中段被"你也许只是放错了"推成自我怀疑，她交出 Goodwill 那句时短暂地硬了一次，末段又软下来。弧线的拐点不在谁说服了谁，而在最后那三个 I let 开头的短句——她清楚自己是在选择相信，不是被说服。
 - **线索结构**：明线是手镯去哪了。暗线三条：三件"不该出现的东西"（她没喝的酒、她没点的外卖、不见的手镯）被她串成一条链，链子是她的，证据不是；Holly 说手镯是"被偷的"，而它出现在 Rachel 的捐物袋里，两种说法只能成立一个；以及 Miguel 的处置顺序——先找、再还、不告诉女儿，等于把真相关回这间屋子。
 - **人物弧线**：Caren 从"十一年没丢过东西"的建档人，退成被当成病人安抚的人，再退到主动交出对女儿不利的线索；Miguel 整章都在做减法——不下结论、不喝酒、不惊动 Rachel；Rachel 一次也没登场，却是每句话的落点：球场上被带走的那个人、进了 Georgetown 的那个人、可能"毁掉前途"的那个人。
-- **叙事手法**：一个房间、两个人、一条沙发，推进全靠对话的错位——她说"全都连在一起"，他答"别下结论"。物件反复回到镜头里：贴标签的自封袋、摊开的相册、被抓住的手腕。末段三个以 I let 起头的短句排成一列，把主动权递出去，又在破折号后补一句 for now 收住。
+- **叙事手法**：从餐厅到客厅、两个人、一条沙发，推进全靠对话的错位——她说"全都连在一起"，他答"别下结论"。物件反复回到镜头里：贴标签的自封袋、摊开的相册、被抓住的手腕。末段三个以 I let 起头的短句排成一列，把主动权递出去，又在破折号后补一句 for now 收住。
 
 ## 精读
 
 > **原句 1:** I survey the plastic ziplock bags that litter the surface of our dining room table. Each one contains a single piece of jewelry—dainty earrings, vintage brooches, tarnished silver bracelets—and is affixed with a label in my handwriting.
 
-**中文理解**：餐桌被自封袋铺满，每只袋里只装一件首饰——细巧的耳环、旧胸针、发乌的银手镯——袋口一律贴着她亲手写的标签。
+**中文理解**：餐桌被自封袋铺满，每只袋里只装一件首饰——细巧的耳环、旧胸针、发乌的银手镯——袋上贴着她手写的标签。
 
 **关键词**：ziplock bags / litter the surface / a single piece of jewelry / tarnished silver bracelets / a label in my handwriting
 
@@ -111,7 +111,7 @@ modified: "2026-10-26"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| bracelet | 手镯、手链 | Someone was in the house and put the wine bottle in the trash and took the bracelet. |
+| bracelet | 手镯、手镯 | Someone was in the house and put the wine bottle in the trash and took the bracelet. |
 | takeout | 外卖（食物） | The takeout I didn’t order. |
 | Goodwill | 美国连锁慈善商店，收旧衣旧物转卖 | I found it in a bag Rachel was going to donate to Goodwill. |
 | boardwalk | 海滨木栈道 | It was taken last summer on the Rehoboth boardwalk, during a rare alignment of schedules, on our final vacation before we got Kugel. |
@@ -119,4 +119,4 @@ modified: "2026-10-26"
 
 ## 一句话总结
 
-餐桌上摊着她亲手贴标签的首饰袋，Caren 认定有人进过屋子，把酒瓶、外卖、失踪的手镯算作同一件事；Miguel 用两人当年对付 Rachel 的那种"治疗师腔"把她按回沙发，抓住她的手腕拦下酒，又提出"也许是你自己放错了"；她终于低声交出最要紧的一句——手镯是在 Rachel 准备捐去 Goodwill 的袋子里找到的；他沉默之后给的方案是先找、找到就还、不告诉女儿，理由是"不能毁了我女儿的前途"；她把它纠正成"我们的女儿"，然后让他握住自己的手，选择先相信他。
+餐桌上摊着她亲手贴标签的首饰袋，Caren 认定有人进过屋子，把酒瓶、外卖、失踪的手镯算作同一件事；Miguel 用两人当年对付 Rachel 的那种"治疗师腔"抓住她的手腕拦下酒，再引她到沙发，又提出"也许是你自己放错了"；她终于低声交出最要紧的一句——手镯是在 Rachel 准备捐去 Goodwill 的袋子里找到的；他沉默之后给的方案是先找、找到就还、不告诉女儿，理由是"不能毁了我女儿的前途"；她把它纠正成"我们的女儿"，然后让他握住自己的手，选择先相信他。

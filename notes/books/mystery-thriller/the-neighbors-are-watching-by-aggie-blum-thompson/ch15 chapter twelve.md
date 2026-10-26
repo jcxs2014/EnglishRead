@@ -7,9 +7,9 @@ modified: "2026-10-26"
 
 ## 本章导航
 
-- **一句话概括**：Kenya 拎着一篮按口味挑好的零食上门，一边检查 Caren 有没有断屏幕，一边把义卖的活全揽过去；Caren 把"有人在我酒里下了东西"和"手链是在 Rachel 捐衣服的袋子里翻出来的"两次说出口：第一次被归成空巢加更年期的阴谋论，第二次被 Kenya 用一连串别的可能接走；Kenya 答应替她去跟发邮件讨说法的 Holly Stone 交涉，又把她安置到客厅的暗处休息；Miguel 回家后，Caren 打开第十七号箱子找那只手链，翻到第三遍，东西已经不在了。
+- **一句话概括**：Kenya 拎着一篮按口味挑好的零食上门，一边检查 Caren 有没有断屏幕，一边把义卖的活全揽过去；Caren 把"有人在我酒里下了东西"和"手镯是在 Rachel 捐衣服的袋子里翻出来的"两次说出口：第一次被归成空巢加更年期的阴谋论，第二次被 Kenya 用一连串别的可能接走；Kenya 答应替她去跟发邮件讨说法的 Holly Stone 交涉，又把她安置到客厅的暗处休息；Miguel 回家后，Caren 打开第十七号箱子找那只手镯，翻到第三遍，东西已经不在了。
 - **情感弧线位置**：全章几乎是一场客厅里的对话戏，贴着 Caren 的第一人称。开头是松弛的——有人送东西来、有人陪着；第一句问话（还断着屏幕吗）就把这层松弛收紧。中段她两次试着把怀疑说出口：第一次被归成更年期里的阴谋论，第二次被 Kenya 用一连串别的可能接走；她短暂地被说服（I feel better），随即在箱子前落回恐慌。章末不是争吵，是她在别人刚离开的屋子里发现东西没了。
-- **线索结构**：明线是 Holly Stone 在邮件里讨要的那只手链。暗线三条：Kenya 的"准备"——二十分钟到场、柜子里像是存着一排篮子、把活全揽走、把她挪到暗处；Caren 的记忆缺口——不记得 Noah 的脑震荡，却清楚记得自己在 Allard 家派对那天早上登记过这只手链；以及第十七号箱子，从编号、清点到三遍翻找。
+- **线索结构**：明线是 Holly Stone 在邮件里讨要的那只手镯。暗线三条：Kenya 的"准备"——二十分钟到场、柜子里像是存着一排篮子、把活全揽走、把她挪到暗处；Caren 的记忆缺口——不记得 Noah 的脑震荡，却清楚记得自己在 Allard 家派对那天早上登记过这只手镯；以及第十七号箱子，从编号、清点到三遍翻找。
 - **人物弧线**：Caren 从被照顾的人，变成被说服的人，再变成独自面对空箱子的人；她三次想抓住事实（下药、Rachel 的捐衣袋、自己的编号）：前两次被更周到的关心挡回去，第三次只剩一只空箱子。Kenya 这一章做的每件事单独看都合情理：送东西、劝休息、替她挡掉难缠的邻居；合到一起，Caren 的手就从那堆准备义卖的东西上被挪开了。
 - **叙事手法**：全章靠对话推进，叙述者的旁白只做两件事：给 Kenya 配上动作特写（sighs dramatically、narrows her eyes、rolls her eyes），和记时间（twenty minutes later、the other day、a third time）。真正的转折都不在台词里，而在箱子前那几次重复的翻找。
 
@@ -29,7 +29,7 @@ modified: "2026-10-26"
 
 > **原句 2:** “I don’t remember Noah having a concussion.” I texted Kenya as soon as I saw the email about the bracelet, and she showed up twenty minutes later, basket in tow. It must have been waiting by her front door, unless she kept a closet full of them for cases just like this.
 
-**中文理解**：Caren 说不记得 Noah 有过脑震荡；紧接着才交代，她一看到那封讲手链的邮件就给 Kenya 发了消息，二十分钟后 Kenya 已经提着篮子站在门口。叙述者自己也不太信这个速度：那篮子像是早就在门边等着，除非她柜子里存着一整排，专为这种事备着。
+**中文理解**：Caren 说不记得 Noah 有过脑震荡；紧接着才交代，她一看到那封讲手镯的邮件就给 Kenya 发了消息，二十分钟后 Kenya 已经提着篮子站在门口。叙述者自己也不太信这个速度：那篮子像是早就在门边等着，除非她柜子里存着一整排，专为这种事备着。
 
 **关键词**：don’t remember / twenty minutes later / basket in tow / waiting by her front door / a closet full of them
 
@@ -77,11 +77,11 @@ modified: "2026-10-26"
 
 > **原句 6:** “I found the bracelet in Rachel’s room,” I blurt out, my defenses depleted. “Or I should say I found it in a big bag of clothes she was going to donate to Goodwill. I looked through it to see if there was anything we could sell at the yard sale, and I found a few things, including the bracelet.”
 
-**中文理解**：防线一垮，Caren 脱口说出实情：手链是在 Rachel 房间里找到的——更准确地说，是在一只准备捐给 Goodwill 的衣服大袋子里。她翻那袋东西，是想看看有没有能拿到义卖上卖的，结果翻出几件，其中就有这只手链。
+**中文理解**：防线一垮，Caren 脱口说出实情：手镯是在 Rachel 房间里找到的——更准确地说，是在一只准备捐给 Goodwill 的衣服大袋子里。她翻那袋东西，是想看看有没有能拿到义卖上卖的，结果翻出几件，其中就有这只手镯。
 
 **关键词**：blurt out / my defenses depleted / in Rachel’s room / donate to Goodwill / including the bracelet
 
-**为什么这样写**：blurt out 加 defenses depleted，把"说漏"写成一个被耗空之后的动作：不是她想说，是她守不住了。紧接着那句自我更正（Or I should say）才是全段最要紧的地方——地点从"房间"精确到"捐衣袋"，翻袋的路径也一并交代。她讲得越细，这只手链在 Rachel 生活里的位置就越难解释。
+**为什么这样写**：blurt out 加 defenses depleted，把"说漏"写成一个被耗空之后的动作：不是她想说，是她守不住了。紧接着那句自我更正（Or I should say）才是全段最要紧的地方——地点从"房间"精确到"捐衣袋"，翻袋的路径也一并交代。她讲得越细，这只手镯在 Rachel 生活里的位置就越难解释。
 
 **读者视角提示**：她给翻袋子的理由很平常：找能卖的东西。这理由成立，也正因为它太成立，后面的问题才更刺人——那东西是怎么进到那袋衣服里的。
 
@@ -89,7 +89,7 @@ modified: "2026-10-26"
 
 > **原句 7:** Could this bracelet be a remnant of those misspent early fall months? I wouldn’t put stealing past Eloïse Allard. She was a spoiled, willful girl and Jo and Daniel took a very hands-off approach to discipline.
 
-**中文理解**：她自问：这只手链会不会是那段走偏的初秋留下的东西？她不会觉得 Eloïse Allard 干不出偷东西这种事——那是个被惯坏、性子犟的女孩，Jo 和 Daniel 管孩子一向放手。
+**中文理解**：她自问：这只手镯会不会是那段走偏的初秋留下的东西？她不会觉得 Eloïse Allard 干不出偷东西这种事——那是个被惯坏、性子犟的女孩，Jo 和 Daniel 管孩子一向放手。
 
 **关键词**：a remnant / misspent early fall months / put stealing past / spoiled, willful girl / hands-off approach to discipline
 
@@ -113,7 +113,7 @@ modified: "2026-10-26"
 
 > **原句 9:** I know the bracelet is here. I catalogued it the other day, the morning of the Allards’ party. … I begin to check a third time, my chest tightening in panic.
 
-**中文理解**：她确信手链就在这只箱子里：前几天她还亲手登记过，就是 Allard 家派对那天早上。于是她再翻一遍——第三遍了，胸口越收越紧。
+**中文理解**：她确信手镯就在这只箱子里：前几天她还亲手登记过，就是 Allard 家派对那天早上。于是她再翻一遍——第三遍了，胸口越收越紧。
 
 **关键词**：the bracelet is here / catalogued it / the morning of the Allards’ party / a third time / tightening in panic
 
@@ -155,4 +155,4 @@ modified: "2026-10-26"
 
 ## 一句话总结
 
-Kenya 送来的那只篮子是这个下午的钥匙：她按 Caren 的口味备好零食，也用"你还在断屏幕吧"把照护变成看管。Caren 两次把怀疑说出口——酒里可能被人放了东西，手链是在 Rachel 的捐衣袋里翻出来的——第一次被 Kenya 归成空巢、更年期和阴谋论，第二次被她用"一百种别的可能"接走，还顺手把交涉揽了过去。Kenya 揽下义卖、揽下跟 Holly Stone 的交涉，把 Caren 安置进客厅的暗处；等 Miguel 回家，Caren 打开第十七号箱子，翻到第三遍，那只她亲手登记过的手链已经不在了。
+Kenya 送来的那只篮子是这个下午的钥匙：她按 Caren 的口味备好零食，也用"你还在断屏幕吧"把照护变成看管。Caren 两次把怀疑说出口——酒里可能被人放了东西，手镯是在 Rachel 的捐衣袋里翻出来的——第一次被 Kenya 归成空巢、更年期和阴谋论，第二次被她用"一百种别的可能"接走，还顺手把交涉揽了过去。Kenya 揽下义卖、揽下跟 Holly Stone 的交涉，把 Caren 安置进客厅的暗处；等 Miguel 回家，Caren 打开第十七号箱子，翻到第三遍，那只她亲手登记过的手镯已经不在了。

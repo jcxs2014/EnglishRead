@@ -7,9 +7,9 @@ modified: "2026-10-26"
 
 ## 本章导航
 
-- **一句话概括**：Rachel 和 Miguel 出门打球，Caren 一个人在家，头痛，脑子里反复烧着同一句话——Yumi 当面撒了谎。她走去 Allard 家，在门口的电线杆下捡起一张被雨泡软的 Autumn 寻人传单，那是 Finn 最好的朋友。Daniel 开门时笑容慢了半拍，屋里一只路易威登行李箱已经收好，Jo 刚拿到法国护照、成了双重国籍。Caren 把话挑明：Van 两年前入室行窃，偷了那条手链；Jo 用一句“Sounds like you know everything”认了，却断然否认 Rachel 参与，Caren 反而松了口气，把 Yumi 的话改写成“看错了”，猜那女孩是同样身高体型的 Eloïse。随后她直问 Jo 是否在派对上给她下药、把她拖进 Baltimore 那栋房子的地下室；Jo 反骂她喝醉、是街区笑柄、“快五十、没工作、没前途”，提到住过出租屋的 nanny Autumn 时喝令她“Watch it”，面具在一瞬间完全掉落又飞快装回去，末了丢下一句：有疑问去问 Miguel。
+- **一句话概括**：Rachel 和 Miguel 出门打球，Caren 一个人在家，头痛，脑子里反复烧着同一句话——Yumi 当面撒了谎。她走去 Allard 家，在门口的电线杆下捡起一张被雨泡软的 Autumn 寻人传单，那是 Finn 最好的朋友。Daniel 开门时笑容慢了半拍，屋里一只路易威登行李箱已经收好，Jo 刚拿到法国护照、成了双重国籍。Caren 把话挑明：Van 两年前入室行窃，偷了那条手镯；Jo 用一句“Sounds like you know everything”认了，却断然否认 Rachel 参与，Caren 反而松了口气，把 Yumi 的话改写成“看错了”，猜那女孩是同样身高体型的 Eloïse。随后她直问 Jo 是否在派对上给她下药、把她拖进 Baltimore 那栋房子的地下室；Jo 反骂她喝醉、是街区笑柄、“快五十、没工作、没前途”，提到住过出租屋的 nanny Autumn 时喝令她“Watch it”，面具在一瞬间完全掉落又飞快装回去，末了丢下一句：有疑问去问 Miguel。
 - **情感弧线位置**：全章是第一人称限知，时间从午后走到下午，场景只挪了一次（自家浴室 → 街上 → Allard 家的厨房与餐厅）。开头是宿醉式的头痛和被欺骗的灼烧；弯腰捡传单时是迟来的共情；进那栋房子后一路被物压着——不会变黄的天竺葵、路易威登行李箱、冰蓝护照夹、每人六把餐椅；问 Van 时是攥着水杯的试探；Jo 否认 Rachel 时是一阵不合时宜的轻松，那是自我说服的甜味；抛出下药指控时是决堤；被反骂后是腿发抖的怒；面具掉落那一秒是真怕；最后被推给 Miguel 时是悬空。弧线：灼烧 → 局促 → 试探 → 松一口气 → 爆发 → 惊惧 → 悬空。
-- **线索结构**：主干是 Yumi 的谎——她说看见 Rachel 跟 Van 一起进过别人家，Caren 上门核，Jo 断然否认，Caren 于是把证人改写成“看错了”，替 Eloïse 补了一个位置（同身高、同体型、长棕发）；这条线在本章被她自己“解决”掉，读者却看得见她是在给自己找台阶。第二条是手链：Van 两年前入室偷的东西，Jo 认了，Caren 由此推出 Jo 可能为了它潜入她家、甚至把她拖进 Baltimore 那栋房子的地下室。第三条是 Autumn：住过 Allard 家出租屋的 nanny，死于“入室抢劫出了岔子”，Caren 把这条旧案和 Van 的入室史接上，Jo 立刻“Watch it”，面具随即掉落。第四条是 Miguel：章末 Jo 把话头推给他——“让他给你补课”，丈夫头一次被放进这条嫌疑链。另有一条物证式的暗线：双重国籍、普罗旺斯、“First of many”，这家人随时能走。
+- **线索结构**：主干是 Yumi 的谎——她说看见 Rachel 跟 Van 一起进过别人家，Caren 上门核，Jo 断然否认，Caren 于是把证人改写成“看错了”，替 Eloïse 补了一个位置（同身高、同体型、长棕发）；这条线在本章被她自己“解决”掉，读者却看得见她是在给自己找台阶。第二条是手镯：Van 两年前入室偷的东西，Jo 认了，Caren 由此推出 Jo 可能为了它潜入她家、甚至把她拖进 Baltimore 那栋房子的地下室。第三条是 Autumn：住过 Allard 家出租屋的 nanny，死于“入室抢劫出了岔子”，Caren 把这条旧案和 Van 的入室史接上，Jo 立刻“Watch it”，面具随即掉落。第四条是 Miguel：章末 Jo 把话头推给他——“让他给你补课”，丈夫头一次被放进这条嫌疑链。另有一条物证式的暗线：双重国籍、普罗旺斯、“First of many”，这家人随时能走。
 - **人物弧线**：Caren 从“被撒谎的人”变成“上门问话的人”，但她每一步都留退路——Jo 一否认 Rachel，她立刻改口成 Eloïse，把 Yumi 的谎降级成“看错了”；她的勇气是借来的，靠“我不是来 judge 你”这类开场白撑着，一被反击就只剩“Go to hell, Jo”。Jo 是这章的对手：先演完美女主人（柠檬水、气泡水、冰箱里的 rosé、推荐的神经科医生），被逼到墙角才亮出真正的武器——阶级羞辱（second-rate state school、married up、always a step behind），而身体始终在泄密：端水的手在抖、下颌的肌肉在跳、Botox 管不到的地方照样出卖她。Daniel 只有三句台词，“笑容慢了半拍”和“Something dark flickers”已经够用。Muffinhead 嗅了嗅她的腿就走开，是这条街上不带算计的在场者。
 - **叙事手法**：场景几乎不换，推进全交给对话与 Caren 的即时解读，叙述只负责记她的身体（心跳、腿抖、后背）和屋里的物。作者用物来量人：药柜里的过期药、泡软的传单、压着金色 JL 的冰蓝护照夹、六把餐椅、永远不枯的天竺葵——每一件都在说这家人是谁、她不是谁。Jo 的每个动作都被读成战术（constant motion 是 evasion tactic），而 Caren 自己的动作全是失控（话像决堤的水）。章末把最大的动静放在一张脸上：面具掉下来，再装回去，比任何一句台词都响。
 
@@ -89,11 +89,11 @@ modified: "2026-10-26"
 
 > **原句 7:** “Did you drug me at your party, Jo?” … “Did you knock me out so you could go into my house and look for that bracelet? Because you knew it could lead back to Van?”
 
-**中文理解**：“你是不是在你的派对上给我下了药，Jo？”……“你是不是把我弄晕，好进我家去找那条手链？因为你知道它能追到 Van 身上？”
+**中文理解**：“你是不是在你的派对上给我下了药，Jo？”……“你是不是把我弄晕，好进我家去找那条手镯？因为你知道它能追到 Van 身上？”
 
 **关键词**：Did you drug me / knock me out / look for that bracelet / lead back to Van
 
-**为什么这样写**：第一问问的是“下药”这件事实，第二问把动机一层层垒上去：弄晕、进屋、找手链、能追到 Van——四个动作串成一条只用问号的链，她不是在等答案，是把答案摆到桌上让对方认领。两问之间没有一句过渡，作者把中间的描写剪掉，读者听见的只是两次呼吸。指向 Van 的那半句是这章最锋利的一处：她真正想问的不是 Jo 有没有碰过她，是 Jo 有没有替儿子收拾过残局。
+**为什么这样写**：第一问问的是“下药”这件事实，第二问把动机一层层垒上去：弄晕、进屋、找手镯、能追到 Van——四个动作串成一条只用问号的链，她不是在等答案，是把答案摆到桌上让对方认领。两问之间没有一句过渡，作者把中间的描写剪掉，读者听见的只是两次呼吸。指向 Van 的那半句是这章最锋利的一处：她真正想问的不是 Jo 有没有碰过她，是 Jo 有没有替儿子收拾过残局。
 
 **读者视角提示**：她问的是“你是不是”，不是“你为什么要”——给对方留一个可以否认的口子，也给自己留一个可以退的口子。注意这条链的终点落在 Van 而不是 Jo：她走这一趟，真正想问的是母亲替儿子兜底的那件事。
 
@@ -137,11 +137,11 @@ modified: "2026-10-26"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | yard sale | 在自家院子办旧货出售 | As you know, I run the yard sale with Kenya every year. |
-| bracelet | 手链、手镯 | So he did steal that bracelet. |
+| bracelet | 手镯、手镯 | So he did steal that bracelet. |
 | packing | 打包、收拾行装 | I really have to get back to packing. |
 | sneakers | 运动鞋 | In the mudroom I throw on some sneakers and head out into the afternoon heat, heading toward the Allards’. |
 | medicine cabinet | 药柜、镜柜 | I open the medicine cabinet and stare at the packed shelves. |
 
 ## 一句话总结
 
-这一章是 Caren 从“被撒谎的人”走到“上门问话的人”的一天：她带着 Yumi 那句谎话去 Allard 家，却在门口先被一张泡软的寻人传单拦下——Autumn 是 Finn 最好的朋友；进屋后满眼都是这家人随时能走、随时能买的证据（路易威登行李箱、两本护照、六把餐椅），她靠一句“我不是来 judge 你”撑着，把 Van 的入室行窃逼出半句承认，又因为 Jo 否认 Rachel 而如释重负地把 Yumi 改判成“看错了”；可当她把这套推理推到“下药、进屋、找手链”时，Jo 反手用阶级羞辱把她按回原位，直到 Autumn 的名字让那张完美的脸在一瞬间彻底变形——面具掉下来又装回去，最后留给她的是一句“去问 Miguel”。
+这一章是 Caren 从“被撒谎的人”走到“上门问话的人”的一天：她带着 Yumi 那句谎话去 Allard 家，却在门口先被一张泡软的寻人传单拦下——Autumn 是 Finn 最好的朋友；进屋后满眼都是这家人随时能走、随时能买的证据（路易威登行李箱、两本护照、六把餐椅），她靠一句“我不是来 judge 你”撑着，把 Van 的入室行窃逼出半句承认，又因为 Jo 否认 Rachel 而如释重负地把 Yumi 改判成“看错了”；可当她把这套推理推到“下药、进屋、找手镯”时，Jo 反手用阶级羞辱把她按回原位，直到 Autumn 的名字让那张完美的脸在一瞬间彻底变形——面具掉下来又装回去，最后留给她的是一句“去问 Miguel”。

@@ -7,9 +7,9 @@ modified: "2026-10-26"
 
 ## 本章导航
 
-- **一句话概括**：Caren 在 Kenya 家的后院堵住两个朋友，先逼出 Yumi 的谎——她说那晚看见的是 Rachel 与 Van，其实她看见的是 Noah 与 Van 闯进 Holly Stone 家——再逼出同谋名单：Yumi、Kenya、Daniel、Jo、Shawn 要把她留在 Allards 的派对上，好让 Yumi 用门锁密码进门取回手链；Yumi 在街上撞见提前回家的 Caren，临阵退缩，Kenya 事后借"来看看你"拿走了手链，而往她杯子里下 lorazepam 是 Daniel 一个人的动作；Daniel 把她扶进地下室"休息"，因为邻居在车道上点了火盆，就把她留在那儿一整夜；两人把一切归到不在场的 Daniel 与 Jo 身上，Caren 最后问 Miguel 知道多少，没有人回答。
+- **一句话概括**：Caren 在 Kenya 家的后院堵住两个朋友，先逼出 Yumi 的谎——她说那晚看见的是 Rachel 与 Van，其实她看见的是 Noah 与 Van 闯进 Holly Stone 家——再逼出同谋名单：Yumi、Kenya、Daniel、Jo、Shawn 要把她留在 Allards 的派对上，好让 Yumi 用门锁密码进门取回手镯；Yumi 在街上撞见提前回家的 Caren，临阵退缩，Kenya 事后借"来看看你"拿走了手镯，而往她杯子里下 lorazepam 是 Daniel 一个人的动作；Daniel 把她扶进地下室"休息"，因为邻居在车道上点了火盆，就把她留在那儿一整夜；两人把一切归到不在场的 Daniel 与 Jo 身上，Caren 最后问 Miguel 知道多少，没有人回答。
 - **情感弧线位置**：全章是一场单方面的审问，提问的人只有一个。开场是被人抢先发问的狼狈，夹着中学式的排除感；中段愤怒与算计交替——她一边追问，一边刻意不提 Finn 是消息来源；"因为 Noah 是黑人"这一句让愤怒忽然找不到落点；后半段恶心与冷静并行，胃在翻、脑子在往前跑；结尾没有爆发，只有一个眼神和一个没收住的逗号。
-- **线索结构**：明线是谎言的拆解——谁看见、谁告诉谁、谁进门、谁下的药。暗线五条：一是手链，Holly Stone 给的期限是周日，否则报警；二是"互相有对方家的门锁密码"这张街区信任网，它既是共谋的工具，也是 Caren 被排除在外的证明；三是 lorazepam，Daniel 事后才承认，Kenya 说她当场骂过他；四是 Jo 的善后，Millie's 外卖与那瓶酒是为了让 Caren 以为自己喝多了；五是 Miguel 的知情量，全章唯一没有得到回答的问题。
+- **线索结构**：明线是谎言的拆解——谁看见、谁告诉谁、谁进门、谁下的药。暗线五条：一是手镯，Holly Stone 给的期限是周日，否则报警；二是"互相有对方家的门锁密码"这张街区信任网，它既是共谋的工具，也是 Caren 被排除在外的证明；三是 lorazepam，Daniel 事后才承认，Kenya 说她当场骂过他；四是 Jo 的善后，Millie's 外卖与那瓶酒是为了让 Caren 以为自己喝多了；五是 Miguel 的知情量，全章唯一没有得到回答的问题。
 - **人物弧线**：Caren 从被问的人变成问的人，中途两次把软下来的地方按回去（"我还没准备好转向原谅"），最后停在"我不知道该想什么"。Yumi 是那个先崩的人：认错、解释、退缩、掉泪都挤在同一段对话里，而她真正做成的事只有一件——没有进门。Kenya 全程撑着姿态：下巴抬起、手飘到脖子、手掌拍在铁桌上；她交代的每一条事实后面都跟着一句"这不是我的主意"。Daniel 与 Jo 不在场，却承担了全部罪名。
 - **叙事手法**：整章几乎全由对话构成，叙述只做三件事：记 Caren 的身体（眼泪、胃、发抖的声音）、记 Kenya 的手（脖子、桌面、跳起来的杯子）、记两人之间的沉默。信息靠追问推进，每个问题都短，每个回答都被下一句截断，破折号几次都把句子停在最要紧的地方。章末用眼神代替台词，用逗号代替句号：这一章不是收尾，是被打断。
 
@@ -29,7 +29,7 @@ modified: "2026-10-26"
 
 > **原句 2:** “When you called and told me about the stolen bracelet, I already knew. I had seen Van break into Holly Stone’s house. I thought if I told you it was Rachel that you might drop it, you know, be willing to be more forgiving. It was a bad idea. I’m sorry.”
 
-**中文理解**：Yumi 交代：Caren 打电话说手链被偷的时候，她其实早就知道——她亲眼看见 Van 闯进 Holly Stone 家。她想，如果把这桩事说成 Rachel 在场，Caren 也许会松手，甚至愿意宽容一点。她说这是个坏主意，她对不起。
+**中文理解**：Yumi 交代：Caren 打电话说手镯被偷的时候，她其实早就知道——她亲眼看见 Van 闯进 Holly Stone 家。她想，如果把这桩事说成 Rachel 在场，Caren 也许会松手，甚至愿意宽容一点。她说这是个坏主意，她对不起。
 
 **关键词**：I already knew / break into Holly Stone’s house / you might drop it / more forgiving / a bad idea
 
@@ -101,7 +101,7 @@ modified: "2026-10-26"
 
 > **原句 8:** “You think? What about Miguel? How much did he know about this plan? To stall me at the party? To sneak into the house and take the bracelet?” … Neither says a word. They don’t have to. The look they exchange tells me everything,
 
-**中文理解**："你觉得呢？那 Miguel 呢？这个计划他知道多少？把我拖在派对上、溜进屋里拿走手链——他知道多少？"两个人都没有出声。她们不必出声。她们交换的那个眼神把一切都告诉她了，
+**中文理解**："你觉得呢？那 Miguel 呢？这个计划他知道多少？把我拖在派对上、溜进屋里拿走手镯——他知道多少？"两个人都没有出声。她们不必出声。她们交换的那个眼神把一切都告诉她了，
 
 **关键词**：You think / How much did he know / To stall me at the party / Neither says a word / tells me everything
 
@@ -143,4 +143,4 @@ modified: "2026-10-26"
 
 ## 一句话总结
 
-一场后院审问把谎言的构造摊开：Yumi 承认她谎称那晚看见 Rachel 与 Van 在一起，真相是她看见 Noah 与 Van 闯进 Holly Stone 家，而她护的是 Kenya 的儿子；Kenya 接着交出同谋名单——Daniel、Jo、Shawn 和她自己——承认原计划只是把 Caren 留在 Allards 的派对上，好让 Yumi 用门锁密码进门取回手链，而往杯子里下 lorazepam 是 Daniel 计划之外的动作；Yumi 在街上撞见提前回家的 Caren，临阵退缩跑回家，Kenya 事后借"来看看你"拿走了手链；Daniel 把昏迷的 Caren 扶进地下室"休息"，因为邻居在车道上点了火盆，就把她留了整整一夜；两人把责任推给不在场的 Daniel 与 Jo，Caren 用"你们真是糟糕的罪犯"结束盘点，最后问 Miguel 知道多少——没有人回答，只交换了一个眼神。
+一场后院审问把谎言的构造摊开：Yumi 承认她谎称那晚看见 Rachel 与 Van 在一起，真相是她看见 Noah 与 Van 闯进 Holly Stone 家，而她护的是 Kenya 的儿子；Kenya 接着交出同谋名单——Daniel、Jo、Shawn 和她自己——承认原计划只是把 Caren 留在 Allards 的派对上，好让 Yumi 用门锁密码进门取回手镯，而往杯子里下 lorazepam 是 Daniel 计划之外的动作；Yumi 在街上撞见提前回家的 Caren，临阵退缩跑回家，Kenya 事后借"来看看你"拿走了手镯；Daniel 把昏迷的 Caren 扶进地下室"休息"，因为邻居在车道上点了火盆，就把她留了整整一夜；两人把责任推给不在场的 Daniel 与 Jo，Caren 用"你们真是糟糕的罪犯"结束盘点，最后问 Miguel 知道多少——没有人回答，只交换了一个眼神。
