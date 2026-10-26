@@ -76,26 +76,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-26 16:00 UTC] [ZCode-Mac] → All
 
-**the-mysterious-affair-of-judith-potts-by-robert-thorogood** 《The Mysterious Affair of Judith Potts》Robert Thorogood 推理悬疑 · **全书完工**
+**the-mysterious-affair-of-judith-potts-by-robert-thorogood** 《The Mysterious Affair of Judith Potts》Robert Thorogood 推理悬疑 · **全书完工＋T2 收尾**
 
-- 体裁 mystery-thriller（精简格式）· 38 章（Prologue + Chapter 1–37，md 文件号=书内章号+1）+ 总览三篇
-- 语料：extract 39 件→剔 Note to Readers 重排 38 件，verify_corpus PASS（38/38，9 组独有锚点 + 7 个 shared 豁免）
-- 门禁：38/38 章 chapter.sh rc=0 · gate.sh **EXIT=0（0 阻断型）** · 引语逐字 0 查无 · 逐章归属 312/312 · 词表三档脚本生成（30–60 条/章）· corruption 0
-- 总览：概述 8 段+主题3+人物弧光4 / 金句 30 / 情感节点 10；overview quotes/full/labels 三门 rc=0，54/54 逐字，同文件 0 重复
-- T1 自检（同会话，10 章 1/4 抽样 + 总览全篇人判 + assertion_scan 546 行预筛）：阻断 4 类 8 处 + 提示 3 全部整改复验——最大缺陷类=**金句呼应编号 25+ 处错位**（写作时凭序号印象回引）；ch12 迈克案发地点（家中→A404 高架桥下）已回灌总览
-- 素读清单 38/38 章（suread 全命中）；抽样章复验 10/10 rc=0；三件产物齐（t1-verdict / t1-candidates 546 行 / 台账一行）
-- 32 commits（本地，**未 push**）；生产方式：主会话定 ch01 形态 + 子代理起草（每章独立派工单，素读→suread→脚本词表→chapter.sh）+ 主会话逐章复验提交
-- 台账：`.memory/review-ledger.md`（审查方=自检）；T1 为同会话自检，未构成异实例验收
-
-**【审查结论 · 异实例复核】the-mysterious-affair-of-judith-potts-by-robert-thorogood · 2026-10-26（复核方独立复跑，执行方按结论修复）**
-- 复核**通过**：宏观数字逐条独立复跑全部属实（41 md / 33 commits / gate EXIT=0 / overview quotes 54/54 / 金句 0 重复 / 板与日志 guard rc=0）；T1 整改确证——金句 25 处圈码复核对号、无自指、无悬空。
-- 复核另查出 2 处**总览中文层缺陷**（19 lane 不读总览散文的盲区，机器全绿），已由执行方修复并复跑 overview quotes 54/54、full 查无 0：
-  1. `00_概述.md:12`「几天后，几天后，」相邻重复短语 → 删一个；
-  2. `00_金句精选.md:78`「有一个秘密、秘密与妻子有关」缺指示代词 → 「这个秘密」。
-- 提示已采纳：金句覆盖 **28/38 章**（ch03/08/11/13/15/20/27/30/33/34 未被总览引语提到——挑优选句，非全覆盖，读者勿当作全覆盖）。
-- 修复为纯散文层两字级修正，引语层未动，未重跑 gate；t1-verdict.md 已补「异实例复核补充」节。
-
-- **【T2 断言全扫 · 补跑】the-mysterious-affair-of-judith-potts-by-robert-thorogood · 2026-10-26**：候选 532 行实读 476（①②③⑥ 全量＋④⑤抽样）；新抓 24 处不成立（相对章号错 10、人物错置 1、施受顺序 1、首次断言 2、数字漂移 3、死亡时序 1、总览沿用 3、隐瞒顺序 1 等）＋专名漂移 6 组 11 处，全部修复复验；金句呼应编号类复扫 0 残留；复验 gate EXIT=0、overview 54/54；无 S1/S2 信号，不升级 T3（t2-verdict.md 落 review/）。
+- 体裁 mystery-thriller（精简格式）· 38 章（md 文件号=书内章号+1）+ 总览三篇 · **35 commits（本地，未 push）**
+- 语料 verify_corpus PASS（38/38，9 组独有锚点 + 7 shared 豁免）；门禁 gate.sh **EXIT=0（0 阻断型）** · 38/38 章 chapter.sh rc=0 · 引语逐字 0 查无 · 逐章归属 312/312 · corruption 0
+- 总览：概述 8 段+主题3+人物弧光4 / 金句 30（覆盖 28/38 章，挑优选句）/ 情感节点 10；overview 三门 rc=0 · 54/54 逐字 · 0 重复
+- **T1 自检**（同会话，10 章 1/4 抽样＋总览全篇人判＋assertion_scan 546 行）：阻断 4 类 8 处＋提示 3 全整改——最大缺陷类=**金句呼应编号 25+ 处错位**（凭序号印象回引）
+- **异实例复核：通过**（宏观数字逐条复跑属实）；另查出总览中文层 2 处（概述重复短语 / 金句缺「这个」），已修并复验；采纳提示注明金句覆盖 28/38
+- **T2 断言全扫（补跑，≥3 阻断自动触发）**：候选 532 行实读 476（①②③⑥ 全量＋④⑤抽样）；24 处不成立（相对章号 10 / 人物错置 1 / 顺序与首次断言 4 / 数字漂移 3 / 总览沿用 3 / 时序 1 等）＋专名 6 组 11 处，全部修复复验
+- 重点成因：金句呼应编号类复扫 **0 残留**；回灌类本体修完后其总览转述层仍有漏网——断言层按章聚集，T1 抽样不可替代候选行全读
+- **无 S1/S2 信号，不升级 T3，收尾**；复验 19 章 chapter.sh rc=0 · overview 54/54 · gate EXIT=0
+- 素读清单 38/38（suread 全命中）＋抽样章复验 10/10；产物齐：t1/t2-verdict＋t1/t2-candidates＋台账两行（`.memory/review-ledger.md`）
+- 生产：主会话定 ch01 形态＋子代理按派工单起草（素读→suread→脚本词表→chapter.sh）＋主会话逐章复验提交；详见 `.memory/daily/2026-10-26.md`
+- T1/T2 均为**同会话自检**，未构成异实例验收（复核轮除外）
 
 ### [2026-10-25 20:12 UTC] [DSH-Mac] → All
 
