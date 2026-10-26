@@ -1,0 +1,55 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch10",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch10_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "三人没有确切编号，只能按四月七日晚至八日清晨这个时段向档案室调阅全部记录",
+   "anchor": "but they knew that it would have been logged on the evening of seventh April",
+   "start": 668,
+   "end": 744
+  },
+  {
+   "fact": "贝克斯在架子群里找到了2025年的卷宗起点",
+   "anchor": "she’d found the start of the files from 2025",
+   "start": 1722,
+   "end": 1766
+  },
+  {
+   "fact": "苏齐发现编号三十九的卷宗被抽走",
+   "anchor": "Where’s the file that’s supposed to be at thirty-nine? It’s missing.",
+   "start": 4487,
+   "end": 4555
+  },
+  {
+   "fact": "贝克斯怀疑缺掉的正是加里车祸报告的纸质硬拷贝",
+   "anchor": "Was number thirty-nine the hard copy of the report on Gary’s car crash that night?",
+   "start": 4592,
+   "end": 4674
+  },
+  {
+   "fact": "苏齐推断有人先从警局电脑里删掉车祸记录、后来又来取走了纸质卷宗",
+   "anchor": "Someone deleted all mention of the crash from the police computer",
+   "start": 4719,
+   "end": 4784
+  },
+  {
+   "fact": "塔妮卡承认自己当众逼问嫌疑人且无律师在场，这成了压垮她的最后一根稻草",
+   "anchor": "obtaining a confession from a suspect in a public setting without a lawyer present",
+   "start": 7242,
+   "end": 7324
+  },
+  {
+   "fact": "苏齐指认布伦丹一直针对塔妮卡、想毁掉她的职业",
+   "anchor": "He’s been gunning for your job ever since.",
+   "start": 7753,
+   "end": 7795
+  },
+  {
+   "fact": "塔妮卡说明在听审会裁决前她已不再是警察",
+   "anchor": "I’m no longer a police officer until the tribunal meets to consider my case.",
+   "start": 8265,
+   "end": 8341
+  }
+ ]
+}
