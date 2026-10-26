@@ -1,0 +1,67 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch25",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch25_chapter_24.txt",
+ "facts": [
+  {
+   "fact": "苏齐的面包车停在通往哈莱福特勋爵庄园的石拱门口，三人此行不打招呼直接上门",
+   "anchor": "Suzie’s van pulled up at the stone archway that led onto Lord Harleyford’s estate.",
+   "start": 30,
+   "end": 112
+  },
+  {
+   "fact": "拿着写字板的管家模样的女人厉声盘问三人是不是记者",
+   "anchor": "‘Are you press?’ she barked.",
+   "start": 4686,
+   "end": 4714
+  },
+  {
+   "fact": "朱迪思把警员挂绳举到脸侧证明与证件照片一致，又在对方看到有效期前放下",
+   "anchor": "‘No – not press,’ Judith said, holding up her police lanyard to the side of her head",
+   "start": 4717,
+   "end": 4801
+  },
+  {
+   "fact": "女人自报是哈莱福德夫人，把三人带进宅内",
+   "anchor": "‘I’m Lady Harleyford,’ the woman said. ‘You’d better come with me.’",
+   "start": 5127,
+   "end": 5194
+  },
+  {
+   "fact": "哈莱福特勋爵在厨房岛台边端着咖啡看《金融时报》，用拖长语调问她们想干什么",
+   "anchor": "‘Now what?’ he drawled.",
+   "start": 5903,
+   "end": 5926
+  },
+  {
+   "fact": "听到迈克·萨克森的名字，勋爵脸色瞬间褪尽",
+   "anchor": "‘What’s that?’ Lord Harleyford said, all of the colour draining from his face.",
+   "start": 6545,
+   "end": 6623
+  },
+  {
+   "fact": "苏齐搬出安吉拉·古利弗的说法，指出勋爵认识这两位死者",
+   "anchor": "‘Angela Gulliver says different,’ Suzie said.",
+   "start": 7707,
+   "end": 7752
+  },
+  {
+   "fact": "勋爵为\"贩卖议会人脉\"的指控暴跳如雷，声称正在打官司且拒绝认罪，随后离席出门",
+   "anchor": "‘That’s not been proved!’ Lord Harleyford barked as he spun around to face the women.",
+   "start": 8319,
+   "end": 8404
+  },
+  {
+   "fact": "朱迪思在湿草地上发现新鲜脚印，一路通向前方那座低矮石屋",
+   "anchor": "she saw that they led across the lawn towards a low stone building a little way away",
+   "start": 9760,
+   "end": 9844
+  },
+  {
+   "fact": "朱迪思在地板上发现打开的暗门后，让另外两人打开手机手电准备下去",
+   "anchor": "‘Phones out, ladies.’",
+   "start": 11339,
+   "end": 11360
+  }
+ ]
+}
