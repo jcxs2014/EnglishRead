@@ -71,8 +71,12 @@ MAX_BLOCKS = 15
 
 
 def blocks_target(words: int) -> tuple:
-    """按本章原文词数给出建议块数区间（两端都已夹到 2–15）。"""
-    lo = max(MIN_BLOCKS, round(words / 550))
+    """按本章原文词数给出建议块数区间（两端都已夹到 2–15）。
+
+    2026-10-26 修：原式 lo = words/550 **未夹上限**，长章会出现 lo > hi（如 13,300 词 → 24–15），
+    提示语把它打印成「建议 24–15」这种自相矛盾的区间，等于给每一本长书制造假红。
+    """
+    lo = min(MAX_BLOCKS, max(MIN_BLOCKS, round(words / 550)))
     hi = min(MAX_BLOCKS, max(lo, round(words / 320)))
     return lo, hi
 
@@ -523,6 +527,11 @@ def check_chapter(book: Path, md: Path, form: dict | None = None) -> dict:
             bcount_bad.append(f"块数 {n_blocks} 低于下限 {MIN_BLOCKS}（{basis}）")
         elif not (lo <= n_blocks <= hi):
             bcount_hint = f"块数 {n_blocks} 偏离本章篇幅建议 {lo}–{hi}（本章 {words} 词）"
+        elif words >= MAX_BLOCKS * 550 and n_blocks >= MAX_BLOCKS:
+            # 长章触顶：密度建议与硬上限冲突时的正常态，不是缺陷（motherclown ch06 13,300 词实证）
+            bcount_hint = (f"长章触顶：本章 {words} 词，按每千词 2–4 块需 "
+                           f"{round(words/500)} 块以上，但硬上限 {MAX_BLOCKS}；"
+                           f"覆盖偏薄属已知限制，不报警")
         hi_eff = MAX_BLOCKS
 
     res["block_limit"] = {"lo": MIN_BLOCKS, "hi": hi_eff, "basis": basis}
