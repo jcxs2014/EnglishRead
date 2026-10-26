@@ -34,7 +34,7 @@ source_text: ch01
 
 **中文理解**："是我。"艾勒尼骄傲地说。朱迪思双腿一软，跌坐进书桌旁的椅子里，记忆的闸门就此决口：菲利波斯一次次告诉过她他值得信任、说她疑神疑鬼、说他衣服上闻不出别的女人的香水味。
 **关键词**：legs buckled / dam on her memories bursting / perfume
-**为什么这样写**：一句"是我"让艾勒尼抢到了叙事主动权，紧接着用"记忆的闸门决口"把五十年的辩解一次性倒出来。作者用"香水味"这种极私人的细节收尾，说明菲利波斯的欺瞒不是抽象的，而是落在她每天要闻的衣服上——所以她的愧疚才不是空泛的。
+**为什么这样写**：一句"是我"让艾勒尼抢到了叙事主动权，紧接着用"记忆的闸门决口"把四十九年的辩解一次性倒出来。作者用"香水味"这种极私人的细节收尾，说明菲利波斯的欺瞒不是抽象的，而是落在她每天要闻的衣服上——所以她的愧疚才不是空泛的。
 **读者视角提示**：这一段是全书第一次给出菲利波斯的性格底色（自信、傲慢、把妻子的直觉归为多疑）。往后每次他被提起，都回到这里的三条自我辩解上对照。
 
 > **原句 4:** "In the shape of Eleni’s jaw, and her brow and thick hair, Judith could see her ex-husband Philippos so clearly. Even in how she stood, her broad shoulders thrown back. But her eyes? They were her mother’s."

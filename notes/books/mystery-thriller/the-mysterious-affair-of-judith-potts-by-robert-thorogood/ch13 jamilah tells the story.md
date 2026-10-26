@@ -21,7 +21,7 @@ source_text: ch13
 **中文理解**：贾米拉终于开口，讲起两人的日常——她每天九点半到迈克家，听他交代粉丝来信与媒体邀约，再代他写回信；两人相处得还算融洽。
 **关键词**：rubbed along just fine / 9.30 each morning / emails and letters had / media requests
 **为什么这样写**：作者先铺一段平淡的日常工作，让读者相信这户人家曾有秩序；"replying on his behalf"点明她只是执行者。
-**读者视角提示**：留意"for about 9.30"这个固定时间，它就是次日清晨死亡时间的近邻。
+**读者视角提示**：留意"for about 9.30"这个固定时间——她那天偏偏到得比这更早（九点一刻），才撞见木屋外那场争执。
 
 > **原句 2:** "‘Don’t get me wrong, Mike was a tricky customer, but he had a lust for life and was always full of ideas for his next book. Or for characters or plot moments. He was an enthusiast. But Serena is a cynic. Nothing is worth doing, nothing is good enough. If I’m honest, I don’t know how Mike put up with her.’"
 

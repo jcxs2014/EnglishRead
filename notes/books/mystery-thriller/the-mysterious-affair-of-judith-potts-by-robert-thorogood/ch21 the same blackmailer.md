@@ -44,7 +44,7 @@ source_text: ch21
 
 **为什么这样写**：一句话里塞进“认车—动手—目的”三个动作，省略了全部犹豫；“the silver lady”这个昵称让读者听见她用的是车主圈子里的行话。
 
-**读者视角提示**：记住这辆车，它在前面诸章里从未出现过。
+**读者视角提示**：记住这辆车——它在上一章只以一声汽车警报出现过，车身此 刻才头回露面。
 
 > **原句 4:** "When the man came out, I did my best impression of a vicar’s wife and told him that I’d had nothing to do with it. I’ll be honest, it was brilliant!"
 

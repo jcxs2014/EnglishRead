@@ -21,7 +21,7 @@ source_text: ch25
 **中文理解**："不——不是记者。"朱迪思把警员挂绳举到脸侧，好让那女人看清证件照片是自己，同时在对方看到有效期之前就把它放了下来。
 **关键词**：police lanyard / expiry date
 **为什么这样写**：作者把一个小动作写成一整套精密操作：举到能证明身份的角度、在对方读到失效日期前收手。这既是喜剧，也是朱迪思这个人物的底色——她从不硬闯，而是先造一个能站得住的身份。
-**读者视角提示**：留意"有效期"这个细节，它是朱迪思唯一的破口；后文她说"别谢我把挂绳交给布伦丹"时，这一处就是她的底牌。
+**读者视角提示**：留意"有效期"这个细节，它是朱迪思唯一的破口；前文她说"别谢我把挂绳交给布伦丹"时，这一处就是她的底牌。
 
 > **原句 2:** "‘Sorry about all of the workmen everywhere,’ Lord Harleyford said, not sounding apologetic at all. ‘We’re throwing our winter ball in a few days, and I’m damned if a police investigation is going to stop it.’"
 

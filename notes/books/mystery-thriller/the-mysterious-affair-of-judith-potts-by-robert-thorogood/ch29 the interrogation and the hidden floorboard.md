@@ -28,7 +28,7 @@ source_text: ch29
 
 > **原句 2:** "‘How curious,’ Brendan said, turning to another page in his notes. ‘Because I’ve just spoken to Rebecca Starling and Suzie Harris and they told me – separately – that while they went to the stack together, you disappeared for at least five minutes.’"
 
-**中文理解**：布伦丹翻了一页笔记，说：真奇怪，我刚分别问过丽贝卡·斯特林和苏齐·哈里斯，两人都告诉我，三个人一起走向那堆旧卷宗时，她至少消失了五分钟。
+**中文理解**：布伦丹翻了一页笔记，说：真奇怪，我刚分别问过丽贝卡·斯达林和苏齐·哈里斯，两人都告诉我，三个人一起走向那堆旧卷宗时，她至少消失了五分钟。
 
 **关键词**：Rebecca Starling and Suzie Harris / told me – separately – / disappeared for at least five minutes
 

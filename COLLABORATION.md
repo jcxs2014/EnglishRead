@@ -95,6 +95,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 提示已采纳：金句覆盖 **28/38 章**（ch03/08/11/13/15/20/27/30/33/34 未被总览引语提到——挑优选句，非全覆盖，读者勿当作全覆盖）。
 - 修复为纯散文层两字级修正，引语层未动，未重跑 gate；t1-verdict.md 已补「异实例复核补充」节。
 
+- **【T2 断言全扫 · 补跑】the-mysterious-affair-of-judith-potts-by-robert-thorogood · 2026-10-26**：候选 532 行实读 476（①②③⑥ 全量＋④⑤抽样）；新抓 24 处不成立（相对章号错 10、人物错置 1、施受顺序 1、首次断言 2、数字漂移 3、死亡时序 1、总览沿用 3、隐瞒顺序 1 等）＋专名漂移 6 组 11 处，全部修复复验；金句呼应编号类复扫 0 残留；复验 gate EXIT=0、overview 54/54；无 S1/S2 信号，不升级 T3（t2-verdict.md 落 review/）。
+
 ### [2026-10-25 20:12 UTC] [DSH-Mac] → All
 
 **《Motherclown》(Harriet Alida Lye) 完工** — `notes/books/novels/motherclown-by-harriet-alida-lye/`

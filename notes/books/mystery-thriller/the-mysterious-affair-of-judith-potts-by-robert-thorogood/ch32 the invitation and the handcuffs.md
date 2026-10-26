@@ -42,14 +42,14 @@ source_text: ch32
 **中文理解**："我想这可能就是我们一直在找的那条消息。"
 **关键词**：the message we’ve been looking for
 **为什么这样写**：贝克斯在《马洛自由报》上突然停住手。作者把整章的期待压在这一句上，却不写她看见了什么——读者与苏齐同时被悬在半空。这种"先宣布发现、后给内容"的倒装，把报纸本身变成了一个需要读者自己去翻的道具。
-**读者视角提示**：这条消息在下一章会被真正打开；此刻它只是把三个人的行动目标从"找人"改成了"赴宴"。
+**读者视角提示**：这条消息要到第三十七章才被真正打开——它就印在朱迪思自己出的填字游戏里；此刻它只是把三个人的行动目标从"找人"改成了"赴宴"。
 
 > **原句 5:** "‘Oh, he’s definitely up to something,’ Suzie said. ‘But don’t worry, we’re going to stop him. We’re going to make a citizen’s arrest using a pair of your handcuffs.’"
 
 **中文理解**："他肯定在搞什么，"苏齐说，"但别担心，我们要阻止他。我们要用手铐做一次公民逮捕。"
 **关键词**：up to something / citizen’s arrest / your handcuffs
 **为什么这样写**：作者让苏齐把"抓现行"这件事说成一段轻快的流程叙述，还顺手把塔妮卡的手铐当作现成道具。语气越轻，事情越重——用别人的配枪去做本不该由她们做的事，这正是全书反复出现的越界。
-**读者视角提示**：这句是全书的转折点：三个女人第一次明确决定绕过警方。
+**读者视角提示**：这句是全书的转折点：从偷翻储物柜升级到当众抓人，三个女人再次决定绕过警方——而且这一次是冲着一位勋爵去。
 
 > **原句 6:** "‘I’d go further than that. If you know who the killer is and try to deal with him on your own, I’ll be forced to report you.’"
 

@@ -21,7 +21,7 @@ source_text: ch03
 **中文理解**：Tanika不肯相信自己的朋友会真的对命案撒手不管，她搬出对方自己常讲的那句"所有谜题都必须解开"，还说Gary Wise这样的大名人足以勾起兴趣。
 **关键词**：refusing to believe / All puzzles have to be solved / piqued by Gary Wise
 **为什么这样写**：作者让Tanika用朱迪思过去的口头禅反过来驳斥她此刻的冷淡，一句闲话就把人物性格与人物关系同时立住；名人的分量与"所有谜题"的执念被摆在一起，于是她的疲惫不再是普通的疲倦，而成了值得追问的反常。
-**读者视角提示**：Gary Wise这个名字在此第一次出现，他是新案件的核心人物，先记住这个姓名。
+**读者视角提示**：Gary Wise 的案情细节在此第一次铺开，他是新案件的核心人物，先记住这个姓名。
 
 > **原句 2:** "‘And that the only other person in the house at the time of his death was his wife, Bethany. She’s badly shaken up. Which is hardly surprising, when you think about it. Someone killing your husband in the woods behind your house? It makes you shudder. No?’ Tanika asked to see if she’d caught Judith’s attention."
 

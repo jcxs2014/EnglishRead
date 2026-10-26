@@ -25,9 +25,9 @@ source_text: ch14
 
 > **原句 2:** "‘But it’s one of the most important things. Along with Shanti and Shamil. I’m the main breadwinner, and I can’t jeopardise that by doing some freelance investigating on the side. You have to understand.’"
 
-**中文理解**：她说这份工作是她生命里最重要的东西之一，和沙安蒂、沙米尔一样重要；她是家里的主要收入来源，不能因为私下做点调查就把这份营生搭进去，请几位体谅。
+**中文理解**：她说这份工作是她生命里最重要的东西之一，和尚蒂、沙米尔一样重要；她是家里的主要收入来源，不能因为私下做点调查就把这份营生搭进去，请几位体谅。
 **关键词**：one of the most important things / the main breadwinner / jeopardise / freelance investigating
-**为什么这样写**：作者先加一句"别误会，我的事业不是人生中最重要的"，随即用一串具体名字把这句话推翻了；举出沙安蒂与沙米尔两个家人，而不是泛泛谈家人，等于把拒绝的理由压在了具体的账单上。
+**为什么这样写**：作者先加一句"别误会，我的事业不是人生中最重要的"，随即用一串具体名字把这句话推翻了；举出尚蒂与沙米尔两个家人，而不是泛泛谈家人，等于把拒绝的理由压在了具体的账单上。
 **读者视角提示**：她把参与调查称作"freelance investigating on the side"，用词轻巧，掩盖的却是悬在头顶的纪律风险。
 
 > **原句 3:** "‘OK,’ Suzie said. ‘I know what it’s like to be the only breadwinner. I get it. But if you can’t help us, then we’ll have to catch the killer by ourselves.’"
