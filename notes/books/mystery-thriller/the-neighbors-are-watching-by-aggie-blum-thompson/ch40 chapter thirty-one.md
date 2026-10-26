@@ -43,7 +43,7 @@ modified: "2026-10-26"
 
 **中文理解**：至少我女儿一点都没被牵扯进来。那她到底在说什么？说她认为 Van 杀了 Autumn ——我是说，她就是这个意思吧？说他俩分手的时候他失控了？
 
-**关键词**：way after he ended things / not involved in any way / basically saying what / he lost it
+**关键词**：lost it when she broke up with him / not involved in any way / basically saying what / he lost it
 
 **为什么这样写**：这一段是转述的转述：Tori 的暗示先经 Caren 的嘴复述一遍，再经三个问句磨一遍。what、right、him 三个问号把一条指控越说越虚，读者跟她一起在句尾找落点。时间线被摆出来，用途是先替女儿脱身，再回头看案子——她排掉的是女儿的嫌疑，不是 Van 的。
 

@@ -55,7 +55,7 @@ modified: "2026-10-26"
 
 **中文理解**："她忠诚，有同理心。非常有创造力，也很有灵性。"他的手指不由自主伸向后袋里那张磨旧的塔罗牌。"她有点相信魔法，"他接着说，拇指蹭过牌边，又小心地把它收回去。
 
-**关键词**：loyal and empathic / the worn tarot card / believed in magic / alternate worlds and dragons / tucking it away again
+**关键词**：loyal and empathic / the worn tarot card / believed in magic / thumb tracing the edge / tucking it away again
 
 **为什么这样写**：形容词是别人也能给的，牌不是——所以他一边说，手一边往后袋去：worn 说明这张牌被摸过很多次，instinctively 说明这个动作不需要想。believed in magic 前面加了个 kind of，像在替死者挡掉"迷信"这两字。他没去写她的房间，只留"异世界和龙"两个词，剩下的让读者自己补。tucking it away again 是这段的收势：他把遗物收好，也把话收住。
 

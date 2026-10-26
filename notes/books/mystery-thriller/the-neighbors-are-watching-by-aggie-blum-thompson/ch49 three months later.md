@@ -93,7 +93,7 @@ modified: "2026-10-26"
 |---|---|---|
 | solidness | 结实、沉稳可靠的分量感 | I pull back and look at him—it’s not just the extra pounds, which he wears well, but a sense of solidness. |
 | finality | 终局感、再无更改的定局 | Maybe it’s the finality of knowing what happened to Autumn. |
-| reverberate | 回荡、在空间里反复回响 | The sound is loud in here, reverberating off the high ceilings, but I am thrilled that it doesn’t bother my head at all. |
+| reverberating | 回荡、在空间里反复回响 | The sound is loud in here, reverberating off the high ceilings, but I am thrilled that it doesn’t bother my head at all. |
 | accessory after the fact | 事后从犯（事后协助罪犯以逃避追查） | Well, she was charged as an accessory after the fact to Autumn’s murder. |
 | suspended sentence | 缓刑判决（刑期暂缓执行） | She was given a sentence of one year’s probation and a suspended sentence of two years. |
 

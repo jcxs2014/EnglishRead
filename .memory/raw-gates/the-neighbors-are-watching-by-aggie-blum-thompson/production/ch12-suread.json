@@ -1,0 +1,67 @@
+{
+ "book": "the-neighbors-are-watching-by-aggie-blum-thompson",
+ "chapter": "ch12",
+ "text": "notes/books/mystery-thriller/the-neighbors-are-watching-by-aggie-blum-thompson/text/ch12_chapter_ten.txt",
+ "facts": [
+  {
+   "fact": "Autumn 习惯靠塔罗牌替自己做决定，Finn 当年常拿这一点打趣她",
+   "anchor": "pull a card",
+   "start": 267,
+   "end": 278
+  },
+  {
+   "fact": "Finn 希望人身上带着清晰标签，他想给自己贴的那张写着“别问我问题”",
+   "anchor": "FINN. HE/HIM. PLEASE DON’T ASK QUESTIONS.",
+   "start": 960,
+   "end": 1001
+  },
+  {
+   "fact": "Finn 认为把对的书递到读者手里是最好的感觉，对孩子尤其如此",
+   "anchor": "putting the right book into a reader’s hand",
+   "start": 2490,
+   "end": 2533
+  },
+  {
+   "fact": "在图书馆里孩子不在意他的声音与下颌线条不相称",
+   "anchor": "Kids don’t care if your voice doesn’t match your jawline.",
+   "start": 2653,
+   "end": 2710
+  },
+  {
+   "fact": "侦探 Aziz 突然出现在图书馆前台的 LIBRARIAN’S CHOICE 展台前",
+   "anchor": "the familiar hulking figure of Detective Aziz",
+   "start": 3841,
+   "end": 3886
+  },
+  {
+   "fact": "警方从现场那只梳妆柜上采集到了少量血迹",
+   "anchor": "collected some blood from the crime scene",
+   "start": 5440,
+   "end": 5481
+  },
+  {
+   "fact": "警方把 DNA 图谱上传到开放族谱数据库，想借一、二级亲属找到人",
+   "anchor": "open-access genealogy databases",
+   "start": 6342,
+   "end": 6373
+  },
+  {
+   "fact": "Aziz 警告 Finn 私自采集并检测他人 DNA 属于重罪",
+   "anchor": "committing felonies",
+   "start": 7328,
+   "end": 7347
+  },
+  {
+   "fact": "Finn 认定凶手不是入室盗窃者，而是住在这片街区的人",
+   "anchor": "It wasn’t a burglary. It’s one of the neighbors.",
+   "start": 8136,
+   "end": 8184
+  },
+  {
+   "fact": "结尾 Finn 把自己定位成 Eastbrook 里一个不引人注意的内部人",
+   "anchor": "He’s an insider here.",
+   "start": 10053,
+   "end": 10074
+  }
+ ]
+}

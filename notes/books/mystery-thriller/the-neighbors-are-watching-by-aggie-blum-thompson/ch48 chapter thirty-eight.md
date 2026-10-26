@@ -55,7 +55,7 @@ modified: "2026-10-26"
 
 **中文理解**：Finn 想着 Autumn 那台电脑里装着的那个由记忆组成的世界，想得要命。……可尽管他想看那些视频和照片、想读 Autumn 没写完的小说，他更想看到正义被做到。
 
-**关键词**：the world of memories / how badly he wants it / videos and pictures / her novel in progress / justice done
+**关键词**：the world of memories / how badly he wants it / videos and pictures / Autumn’s novel in progress / justice done
 
 **为什么这样写**：车在开、人在追，叙述却拐进他脑子里清点那样东西：视频、照片、没写完的小说。world of memories 把一台电脑写成一个可以搬走的世界；接着用 even more 把天平压向另一边——读者到此才知道他不是为了拿回遗物在追。
 

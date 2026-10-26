@@ -105,7 +105,7 @@ modified: "2026-10-26"
 | scrutiny | 审视、细细打量 | The lie slips out automatically, a shield against her scrutiny. |
 | bristle | 竖毛、被激怒 | I bristle, heat flushing my neck. |
 | unashamed | 毫不羞愧的 | She looks up from the plastic box that contains the ziplock bags of jewelry, caught in the act but utterly unashamed. |
-| bide one’s time | 按兵不动、等待时机 | Everyone could feel it: The Allards were just biding their time in the neighborhood until the kids graduated from high school. |
+| biding their time | 按兵不动、等待时机 | Everyone could feel it: The Allards were just biding their time in the neighborhood until the kids graduated from high school. |
 
 ### ⭐ 常用
 

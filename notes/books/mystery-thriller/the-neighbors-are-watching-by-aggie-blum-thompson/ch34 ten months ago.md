@@ -93,7 +93,7 @@ modified: "2026-10-26"
 
 **关键词**：staring back at the Allards’ house / her hair dripping / the mess she had created / lost control of her little game
 
-**为什么这样写**：全章最后落在"站住"这个动作上：跑完了，才看见对面那栋房子。her hair dripping 是唯一还在动的细节，其余全停了。the mess she had created 把责任写回她身上——不是他闹的，是她弄的。最后一句用破折号把话说死：little game 是她一直用的词，现在前面加了 lost control。
+**为什么这样写**：全章最后落在"站住"这个动作上：跑完了，才看见对面那栋房子。her hair dripping 是这会儿还在动的细节，其余全停了。the mess she had created 把责任写回她身上——不是他闹的，是她弄的。最后一句用破折号把话说死：little game 是她一直用的词，现在前面加了 lost control。
 
 **读者视角提示**：她站在自己这一侧回头看，位置没变，处境变了。这句"小游戏"是全章的判词，也是该带走的东西：她从头到尾都以为自己在玩。
 

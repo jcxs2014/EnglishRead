@@ -79,7 +79,7 @@ modified: "2026-10-26"
 
 **中文理解**：除了他父亲，Daniel。……这个念头像一记耳光把她打醒，随之涌上来的是铺天盖地的愧疚与羞耻。……如果 Jo 在以为 Tori 对 Daniel 下手的时候就已经那么愤怒，那她要是看见这一幕会怎么做？
 
-**关键词**：Except his father / sobered her up like a slap / a flood of guilt and shame / put the moves on Daniel / one of the neighbors
+**关键词**：Except his father / sobered her up like a slap / a flood of guilt and shame / put the moves on Daniel / what would she do if she saw this
 
 **为什么这样写**：全章最狠的一处，是一个只剩四个词的段落：Except his father, Daniel. 前面整段都在写一个年轻男人的身体，这一句把父亲塞进来，读者的联想被迫转向另一张脸。sobered her up like a slap 走的是醒酒的路子——上一段是微醺，这一句是当头一盆冰水。最后她先问的不是"我该不该"，而是"Jo 会怎么做"：恐惧的对象从自己的欲望，换成了别人的反应。
 

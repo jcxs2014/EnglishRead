@@ -117,7 +117,7 @@ modified: "2026-10-26"
 | apprehension | 忐忑、隐隐的不安 | “Rachel?” I prompt gently, my stomach knotting with apprehension. |
 | perceptive | 敏感的、看得出的 | She’s always been perceptive, able to sense when something’s off. |
 | bask | 沉浸于（温暖、赞许之中） | As we hug each other, I bask in her warmth and concern, closing my eyes to savor the moment. |
-| burglarize | 入室行窃 | Someone has been burglarizing houses in the neighborhood. |
+| burglarizing | 入室行窃 | Someone has been burglarizing houses in the neighborhood. |
 | weighted blanket | 压着人的重毯（喻心事沉沉） | What I know, what I learned this morning, sits uncomfortably on me like a weighted blanket. |
 
 ### ⭐ 常用
