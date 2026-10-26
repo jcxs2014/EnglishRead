@@ -73,6 +73,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 32 commits（本地，**未 push**）；生产方式：主会话定 ch01 形态 + 子代理起草（每章独立派工单，素读→suread→脚本词表→chapter.sh）+ 主会话逐章复验提交
 - 台账：`.memory/review-ledger.md`（审查方=自检）；T1 为同会话自检，未构成异实例验收
 
+**【审查结论 · 异实例复核】the-mysterious-affair-of-judith-potts-by-robert-thorogood · 2026-10-26（复核方独立复跑，执行方按结论修复）**
+- 复核**通过**：宏观数字逐条独立复跑全部属实（41 md / 33 commits / gate EXIT=0 / overview quotes 54/54 / 金句 0 重复 / 板与日志 guard rc=0）；T1 整改确证——金句 25 处圈码复核对号、无自指、无悬空。
+- 复核另查出 2 处**总览中文层缺陷**（19 lane 不读总览散文的盲区，机器全绿），已由执行方修复并复跑 overview quotes 54/54、full 查无 0：
+  1. `00_概述.md:12`「几天后，几天后，」相邻重复短语 → 删一个；
+  2. `00_金句精选.md:78`「有一个秘密、秘密与妻子有关」缺指示代词 → 「这个秘密」。
+- 提示已采纳：金句覆盖 **28/38 章**（ch03/08/11/13/15/20/27/30/33/34 未被总览引语提到——挑优选句，非全覆盖，读者勿当作全覆盖）。
+- 修复为纯散文层两字级修正，引语层未动，未重跑 gate；t1-verdict.md 已补「异实例复核补充」节。
+
 ### [2026-10-25 20:12 UTC] [DSH-Mac] → All
 
 **《Motherclown》(Harriet Alida Lye) 完工** — `notes/books/novels/motherclown-by-harriet-alida-lye/`
