@@ -1,0 +1,55 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch31",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch31_chapter_30.txt",
+ "facts": [
+  {
+   "fact": "贝克斯把朱迪思被带走前的最后一句话「那男人两颊通红」当作一条填字游戏线索复述给苏齐和塔妮卡",
+   "anchor": "obviously a crossword clue, but we can’t work out what it means",
+   "start": 298,
+   "end": 361
+  },
+  {
+   "fact": "塔妮卡指出这句话根本不像填字线索，很可能字面意思就是「去找一个两颊通红的男人」",
+   "anchor": "maybe it isn’t. And instead, it just means what it means",
+   "start": 1347,
+   "end": 1403
+  },
+  {
+   "fact": "塔妮卡排除「名字」和「头衔」两种读法，判定线索只指向面颊的颜色",
+   "anchor": "it’s not his status, either. It’s just the colour of his cheeks",
+   "start": 2304,
+   "end": 2367
+  },
+  {
+   "fact": "贝克斯想起贾米拉曾说，迈克·萨克森死的那天早晨，有人红着两颊在他家书房外与他争吵",
+   "anchor": "she saw someone with ruddy cheeks arguing with him",
+   "start": 2668,
+   "end": 2718
+  },
+  {
+   "fact": "贾米拉看了霍莱福德领主的照片后仍不敢确认，说那人甚至可能是个穿长裤、戴鸭舌帽的女人",
+   "anchor": "It could have been a woman in trousers and wearing a flat cap",
+   "start": 5795,
+   "end": 5856
+  },
+  {
+   "fact": "贾米拉承认去年是迈克·萨克森拿两张请柬邀她做舞伴，一同出席霍莱福德领主的冬季舞会",
+   "anchor": "Mike told me he had an invite for two to the ball last year",
+   "start": 7446,
+   "end": 7505
+  },
+  {
+   "fact": "得知霍莱福德领主可能就是凶手后，贾米拉把新收到的舞会请柬扔进了房间角落的垃圾桶",
+   "anchor": "where she put it in the bin",
+   "start": 9981,
+   "end": 10008
+  },
+  {
+   "fact": "苏齐回家后也在邮箱里发现同一场霍莱福德冬季舞会的请柬，上面的收件人姓名是苏齐·哈里斯",
+   "anchor": "the name Suzie Harris had been handwritten in blue",
+   "start": 12372,
+   "end": 12422
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch30",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch30_chapter_29.txt",
+ "facts": [
+  {
+   "fact": "贝克斯焦躁不安、苏齐彻底慌乱：她们自从朱迪思跟布伦丹走后一直打电话，却始终无人接听",
+   "anchor": "Becks and Suzie were in a tizzy",
+   "start": 49,
+   "end": 80
+  },
+  {
+   "fact": "两人打给朱迪思的电话全部直接转入语音信箱，一整天都没能联系上她",
+   "anchor": "Their calls were going straight through to voicemail.",
+   "start": 236,
+   "end": 289
+  },
+  {
+   "fact": "塔妮卡出现在苏齐家门前的人行道上，带来的消息打破了焦躁",
+   "anchor": "Tanika was on the pathway looking at her.",
+   "start": 2146,
+   "end": 2187
+  },
+  {
+   "fact": "塔妮卡转述：朱迪思当晚搭乘最后一班渡轮去了法国",
+   "anchor": "That evening, Judith got on the last ferry to France.",
+   "start": 2880,
+   "end": 2933
+  },
+  {
+   "fact": "朱迪思抵达加来后消失，四十八小时内没有使用银行卡消费",
+   "anchor": "not used any bank card to buy anything",
+   "start": 3191,
+   "end": 3229
+  },
+  {
+   "fact": "贝克斯断言朱迪思不会不辞而别，一定给她们留了口信",
+   "anchor": "She wouldn’t run away like this without telling us why.",
+   "start": 12777,
+   "end": 12832
+  },
+  {
+   "fact": "塔妮卡从证据板上发现一根红线从马洛地图中心指向墙上一个空位，判定墙上原挂着东西",
+   "anchor": "There was something pinned to the wall here, wasn’t there?",
+   "start": 6427,
+   "end": 6485
+  },
+  {
+   "fact": "贝克斯确认那个空位原本挂着安吉拉·格利弗的照片",
+   "anchor": "This is where Angela Gulliver’s photo is supposed to be.",
+   "start": 6545,
+   "end": 6601
+  },
+  {
+   "fact": "贝克斯推测哈莱福德领主可能就是勒索加里·怀斯与迈克·萨克森的人",
+   "anchor": "it’s possible he’s the person who’s been blackmailing Gary Wise and Mike Saxon",
+   "start": 8134,
+   "end": 8212
+  },
+  {
+   "fact": "贝克斯指出加里死后哈里·阿斯奎特买了新车，因而有经济动机",
+   "anchor": "Since Gary died, he’s bought himself a smart new car.",
+   "start": 9673,
+   "end": 9726
+  },
+  {
+   "fact": "贝克斯确认勒索加里与迈克的是同一个人，因为用的是同一个电话号码",
+   "anchor": "It was the same phone number contacting both men.",
+   "start": 11193,
+   "end": 11242
+  },
+  {
+   "fact": "贝克斯补充她们还谈过迈克的私人助理贾米拉·卡里尔",
+   "anchor": "We’ve also spoken to his personal assistant",
+   "start": 11726,
+   "end": 11769
+  },
+  {
+   "fact": "门缝里送来的不是朱迪思的信，而是当天的《马洛自由报》",
+   "anchor": "All that had been delivered was that day’s copy of the Marlow Free Press.",
+   "start": 13874,
+   "end": 13947
+  }
+ ]
+}
