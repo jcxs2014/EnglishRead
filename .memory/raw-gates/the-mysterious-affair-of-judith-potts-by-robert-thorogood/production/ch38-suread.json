@@ -1,0 +1,55 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch38",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch38_chapter_37.txt",
+ "facts": [
+  {
+   "fact": "艾勒尼开着一辆菲亚特500停在朱迪思家的车道上",
+   "anchor": "There was a Fiat 500 car on her driveway.",
+   "start": 546,
+   "end": 587
+  },
+  {
+   "fact": "当天《马洛自由报》头版标题把布伦丹写成\"双料杀手\"",
+   "anchor": "the headline screamed ‘Detective Double Killer’",
+   "start": 1100,
+   "end": 1147
+  },
+  {
+   "fact": "朱迪思告诉艾勒尼，给她祖母的那张照片是用从她这儿偷来的两张照片拼合伪造的",
+   "anchor": "He mocked it up out of two different pictures he stole from me.",
+   "start": 1430,
+   "end": 1493
+  },
+  {
+   "fact": "朱迪思说对方利用了艾勒尼和她的祖母索菲亚",
+   "anchor": "So he used you and he used your grandmother, Sofia.",
+   "start": 1597,
+   "end": 1648
+  },
+  {
+   "fact": "菲利波斯那天喝了酒回家后动手打了朱迪思",
+   "anchor": "He hit me – struck me to the floor.",
+   "start": 6233,
+   "end": 6268
+  },
+  {
+   "fact": "朱迪思知道舱底板下有一根从舱底泵连到船壳的软管",
+   "anchor": "a little hose that ran from the bilge pump to the hull",
+   "start": 7343,
+   "end": 7397
+  },
+  {
+   "fact": "黄铜螺母终于松开，软管从船壳上脱开",
+   "anchor": "The nut finally released and the end of the hose popped free from the hull.",
+   "start": 8378,
+   "end": 8453
+  },
+  {
+   "fact": "朱迪思把那个黄铜软管螺母套在手指上当成戒指，此后天天戴着",
+   "anchor": "I slipped the brass hosenut onto a finger.",
+   "start": 9212,
+   "end": 9254
+  }
+ ]
+}
