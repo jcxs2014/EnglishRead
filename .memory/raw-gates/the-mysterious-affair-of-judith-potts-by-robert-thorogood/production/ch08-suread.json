@@ -1,0 +1,67 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch08",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch08_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "办案人坦尼卡打来电话：朱迪思从昨天起就拒不接电话",
+   "anchor": "I’ve been ringing her since yesterday and she’s not picking up",
+   "start": 2671,
+   "end": 2733
+  },
+  {
+   "fact": "坦尼卡通报哈里·阿斯奎特欠债累累，靠信用卡套现还信用卡",
+   "anchor": "Mr Asquith is up to his ears in debt",
+   "start": 4788,
+   "end": 4824
+  },
+  {
+   "fact": "坦尼卡说加里的手机仍失踪，警方在等运营商提供短信与通话记录",
+   "anchor": "he ran his life from his mobile phone – which is still missing",
+   "start": 6585,
+   "end": 6647
+  },
+  {
+   "fact": "苏齐想出对策：带一条新线索上门，哄朱迪思开口",
+   "anchor": "We take something to her – a new lead in the case.",
+   "start": 7480,
+   "end": 7530
+  },
+  {
+   "fact": "贝克斯与苏齐赶到怀克姆流浪者足球俱乐部主场亚当斯公园",
+   "anchor": "the home of Wycombe Wanderers Football Club",
+   "start": 8454,
+   "end": 8497
+  },
+  {
+   "fact": "苏齐指出球迷只见过公开场合的加里，得找认识他私下模样的人",
+   "anchor": "They only saw Gary when he was out and about in public.",
+   "start": 10091,
+   "end": 10146
+  },
+  {
+   "fact": "理疗师说加里赛季末次日来找他，大腿外侧有挫伤与皮下出血",
+   "anchor": "he had contusions across the lateral aspect of his thigh.",
+   "start": 12308,
+   "end": 12365
+  },
+  {
+   "fact": "理疗师说加里声称警方到过车祸现场，并反过来质问两个女人为何不知道",
+   "anchor": "the police attended the scene of the crash.",
+   "start": 13224,
+   "end": 13267
+  },
+  {
+   "fact": "理疗师抢过证件，指出上面写着这张证件去年就已过期",
+   "anchor": "This expired last year",
+   "start": 14155,
+   "end": 14177
+  },
+  {
+   "fact": "理疗师表示要把这张证件直接交给警方举报她们",
+   "anchor": "I’m taking this card straight to the police and reporting you.",
+   "start": 14532,
+   "end": 14594
+  }
+ ]
+}
