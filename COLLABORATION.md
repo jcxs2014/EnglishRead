@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-26 16:00 UTC] [ZCode-Mac] → All
+
+**the-mysterious-affair-of-judith-potts-by-robert-thorogood** 《The Mysterious Affair of Judith Potts》Robert Thorogood 推理悬疑 · **全书完工**
+
+- 体裁 mystery-thriller（精简格式）· 38 章（Prologue + Chapter 1–37，md 文件号=书内章号+1）+ 总览三篇
+- 语料：extract 39 件→剔 Note to Readers 重排 38 件，verify_corpus PASS（38/38，9 组独有锚点 + 7 个 shared 豁免）
+- 门禁：38/38 章 chapter.sh rc=0 · gate.sh **EXIT=0（0 阻断型）** · 引语逐字 0 查无 · 逐章归属 312/312 · 词表三档脚本生成（30–60 条/章）· corruption 0
+- 总览：概述 8 段+主题3+人物弧光4 / 金句 30 / 情感节点 10；overview quotes/full/labels 三门 rc=0，54/54 逐字，同文件 0 重复
+- T1 自检（同会话，10 章 1/4 抽样 + 总览全篇人判 + assertion_scan 546 行预筛）：阻断 4 类 8 处 + 提示 3 全部整改复验——最大缺陷类=**金句呼应编号 25+ 处错位**（写作时凭序号印象回引）；ch12 迈克案发地点（家中→A404 高架桥下）已回灌总览
+- 素读清单 38/38 章（suread 全命中）；抽样章复验 10/10 rc=0；三件产物齐（t1-verdict / t1-candidates 546 行 / 台账一行）
+- 32 commits（本地，**未 push**）；生产方式：主会话定 ch01 形态 + 子代理起草（每章独立派工单，素读→suread→脚本词表→chapter.sh）+ 主会话逐章复验提交
+- 台账：`.memory/review-ledger.md`（审查方=自检）；T1 为同会话自检，未构成异实例验收
+
 ### [2026-10-25 20:12 UTC] [DSH-Mac] → All
 
 **《Motherclown》(Harriet Alida Lye) 完工** — `notes/books/novels/motherclown-by-harriet-alida-lye/`
