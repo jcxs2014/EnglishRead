@@ -33,14 +33,14 @@ source_text: ch20
 > **原句 3:** "The man’s hand went to the edge of their curtain – he’d chosen their shower! – which was when Suzie spun the tap and the shower burst into life, drenching them both in an instant."
 
 **中文理解**：男人的手伸向他们那道帘子的边缘——他挑中的正是她们藏身的那个淋浴间——就在这一瞬间，苏齐猛地拧开水龙头，淋浴哗地冲了出来，把两人浇了个透湿。
-**关键词**：he'd chosen their shower / spun the tap / drenching them both
+**关键词**：he’d chosen their shower! / spun the tap / drenching them both
 **为什么这样写**：作者先用破折号把"他挑中了我们这间"这个事实单独砸出来，制造几乎无解的惊吓，再用"burst into life"和"drenching"这两个带水声的动词把解法一口气完成；湿身既是脱身手段，事后也成了她们必须先回家烘衣服的因果。
 **读者视角提示**：解围的思路来自苏齐——用水声当掩护，替那个陌生绅士的出场编造一个合理解释，也顺手给朱迪思制造了发火的理由。
 
 > **原句 4:** "Pulling it out and unzipping it, she saw that it contained some women’s lingerie in among a change of men’s clothes, a pair of brown brogues and a washbag. But there was also an interior pocket to the bag. She unzipped it and pulled out an old Samsung mobile phone."
 
 **中文理解**：她把包拖出来拉开拉链，看见里面除了换洗的男装、一双棕色布洛克鞋和一个洗漱包，还夹着些女式内衣；不过包上还有一个内袋，她拉开内袋，摸出一部旧三星手机。
-**关键词**：women’s lingerie among a change of men’s clothes / an interior pocket / an old Samsung mobile phone
+**关键词**：women’s lingerie in among a change of men’s clothes / an interior pocket / an old Samsung mobile phone
 **为什么这样写**：女式内衣混在男装之间，作者用"in among"这个方位短语让细节自己说话，不必评论一句「所以他有外遇」；而"But there was also an interior pocket"用一个"但是"把读者的注意力从内容转到结构，暗示真正的东西总在更深处藏着——这一次藏东西的人，也正是把秘密藏得最深的人。
 **读者视角提示**：贾米拉前文说过那部手机"是他用来联系那些女人的"，而这一段作者只写"一部旧三星手机"；措辞上的落差值得留意。
 

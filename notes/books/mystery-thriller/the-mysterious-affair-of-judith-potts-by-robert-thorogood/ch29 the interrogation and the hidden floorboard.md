@@ -60,7 +60,7 @@ source_text: ch29
 
 **中文理解**：朱迪思说"现在不行，布伦丹"，脑子里一个散乱的念头套着一个散乱的念头，被她一一归拢成序；只是这一回她想到的东西太过庞大，连开头去理解都做不到。
 
-**关键词**：Not now, Brendan / corralling them into order / so overwhelming
+**关键词**：Not now / Brendan / corralling them into order / so overwhelming
 
 **为什么这样写**：作者用套索与归拢这组动作把一次推理写成可见的手艺，读者跟着看见散线被收成一条；紧接着的一句说她连理解都做不到，等于承认这个念头大过她的语言，而她随即要求对方放人，说明此刻问话已经无关紧要了。
 
@@ -70,7 +70,7 @@ source_text: ch29
 
 **中文理解**：不过她愿意补一份签字口供，写明那天早上她曾短暂下到那处小海湾，照片很可能就是那时拍的；可到此为止，布伦丹，她得走了。
 
-**关键词**：went down to the cove / when the photo was taken / spit spot, Brendan
+**关键词**：went down to the cove / when the photo was taken / spit spot / Brendan
 
 **为什么这样写**：这是朱迪思第一次有代价的让步，用承认下到小海湾换来脱身；作者先让她说一句官方的、程序化的"愿意签字"，紧接着就蹦出"spit spot"这种市井又俏皮的口头语，把谈判桌上的紧绷一下子拉回街头。
 

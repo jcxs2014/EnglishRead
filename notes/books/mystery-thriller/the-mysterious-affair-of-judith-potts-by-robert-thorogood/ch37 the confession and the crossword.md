@@ -24,7 +24,7 @@ source_text: ch37
 
 **中文理解**：朱迪思说：我从一家只能称作「本地」小公司的车行租了辆车。他们看样子短时间内不会把我的手续办好，而且车费是付的现金。然后我开车去了科孚岛。
 
-**关键词**：hired a car / paid in cash / drove to Corfu
+**关键词**：hired a car / car in cash / drove to Corfu
 
 **为什么这样写**：作者把一场跨国追查写成「租辆车」这种日常小事，用付现金、对方不办手续的琐碎细节压低事件的戏剧性；可一句「然后我开车去了科孚岛」又把两天路程和跨境风险一笔带过，越轻描淡写，越显得她早就计划过。
 
@@ -54,7 +54,7 @@ source_text: ch37
 
 **中文理解**：朱迪思说：这就解释了艾勒尼对我说过的一件事——我问她的证据是从哪儿来的。她说菲利波斯死亡调查里的那些证人报告等等，都是警队里的一个朋友给她的。
 
-**关键词**：witness reports / a friend in the police force / where she’d got her evidence
+**关键词**：witness reports / a friend in the police force / where she’d got all of her evidence
 
 **为什么这样写**：作者借朱迪思复述，把一条荒唐指控的来路拆成一问一答：卷宗来自「警队里的朋友」，而这个朋友是谁留给读者自己填；她随即把疑问落成「我们只要问她本人」，把推断与证据分得很干净。
 

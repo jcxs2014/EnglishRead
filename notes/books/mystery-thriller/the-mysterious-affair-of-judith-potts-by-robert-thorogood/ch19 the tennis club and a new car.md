@@ -54,7 +54,7 @@ source_text: ch19
 > **原句 6:** "‘I’m just on a bad run. That’s all. The weather’s been too wet – the going too soft. Next season, I’ll turn things around. You watch me. Now, if you don’t mind, ladies, I need to get back to work.’"
 
 **中文理解**："我只是手气不好，仅此而已。天气太湿了——草地太软。下个赛季我一定能翻盘，你们看着吧。好了，女士们，如果不介意，我得回去工作了。"
-**关键词**：just on a bad run / the going too soft / Next season, I’ll turn things around
+**关键词**：just on a bad run / the going too soft / Next season / I’ll turn things around
 **为什么这样写**：作者让说话的人用赛马的行话为自己开脱：草太软、天气太湿，这是每个赌马的人都会说的套话，也是他唯一说得流利、说得像内行的部分。"你们看着吧"这句反倒是最像职业赌徒的地方——他输得起，也相信自己会赢。
 **读者视角提示**：这段辩护里没有一条具体数据，只有天气、场地和下个赛季。三句推托全靠模糊与天气，读完读者记住的不是他的解释，而是他在回避什么。
 

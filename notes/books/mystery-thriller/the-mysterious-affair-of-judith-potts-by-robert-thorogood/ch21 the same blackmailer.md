@@ -70,7 +70,7 @@ source_text: ch21
 
 **中文理解**：苏齐懂了贝克斯的意思：这是个打狮子当乐子、有机会就睡女人的家伙，她敢打赌他把自己当成英雄 Fraser Steele。
 
-**关键词**：shoots lions / his hero, Fraser Steele
+**关键词**：shoots lions / his hero / Fraser Steele
 
 **为什么这样写**：一句轻佻的人物速写同时完成三件事：交代这人的为人、引出英雄的名字、把“英雄”这个可以解码的线索递到读者手上。
 

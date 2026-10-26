@@ -60,7 +60,7 @@ source_text: ch24
 
 **中文理解**：她讲那次上门的前因：那位地主就住在 Marlow 附近，既然她也住 Marlow，便请她来喝 afternoon tea；她一口答应了，还说免费的一杯茶就是免费的一杯茶。
 
-**关键词**：a local landowner / afternoon tea / Of course, I said yes
+**关键词**：a local landowner / afternoon tea / Of course / I said yes
 
 **为什么这样写**：作者用"免费的一杯茶就是免费的一杯茶"这种市侩口吻，把安吉拉的轻率写在纸面上，让读者在她走进那座房子之前就先替她捏一把汗；一个被大人物请喝茶就受宠若惊的人，也正是最好下手的对象。
 
@@ -70,7 +70,7 @@ source_text: ch24
 
 **中文理解**：临走时那位主人忽然问她有没有 skeletons in my closet，眼神像在跟一个 madman 说话；她找借口脱身，对方却一直 badgering 她，警告她要是被支持她的公众发现了 secrets，她的事业就完了。
 
-**关键词**：skeletons in my closet / talking to a madman / it could end my career
+**关键词**：skeletons in my closet / talking to a madman / my secrets
 
 **为什么这样写**：作者把威胁写成一次家宴上的失态，语速越急、话越多，越像真情流露；她逃出来后的那句"It could end my career"把两桩命案的模式第一次摆到台面上——先找把柄，再动手。
 
@@ -90,7 +90,7 @@ source_text: ch24
 
 **中文理解**：客厅里只剩三人时，Judith 承认很多话听起来 far-fetched——一个 local landowner 会去勒索本地名人、再一个一个杀掉，实在难以置信；她随即给出答案：直接去 Lord Harleyford 家里当面问。
 
-**关键词**：far-fetched / an easy way to find out / go to Lord Harleyford’s house
+**关键词**：an easy way to find out / go to Lord Harleyford’s house
 
 **为什么这样写**：作者让最谨慎的那个人先说出怀疑，再让同一个人给出行动方案，两句话挨在一起就把推理推进了一步；"a smile at the edge of her mouth"是全章唯一泄露她已经拿定主意的表情。
 

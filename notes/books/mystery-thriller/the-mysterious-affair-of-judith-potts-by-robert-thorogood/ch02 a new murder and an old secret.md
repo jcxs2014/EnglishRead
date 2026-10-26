@@ -26,7 +26,7 @@ source_text: ch02
 > **原句 2:** "‘All he’s done,’ Suzie said, wafting her hand in the general direction of the TV, ‘is get involved in corruption. Just like happens every day. But how many times have three women caught a killer in the middle of a performance of The Importance of Being Earnest?’"
 
 **中文理解**：苏齐朝电视那边随意地挥了挥手，说：他所做的一切不过是卷进腐败，这种事天天都在发生；可有哪几个女人是在《不可 Importance of Being Earnest》的演出中途抓到了凶手？
-**关键词**：wafted her hand / corruption / The Importance of Being Earnest
+**关键词**：wafting her hand / corruption / The Importance of Being Earnest
 **为什么这样写**：作者用一个"挥手"的动作把勋爵的丑闻贬成不值一提的小事，随即抛出一个带反问的对照，把两个新闻的价值量放在同一架天平上：一边是天天发生的腐败，一边是三个女人在演出中撞破的凶案。喜剧性的较劲背后，是叙述者在提示读者"轰动不等于重要"。
 **读者视角提示**：演出中途抓人这一细节，说明她们破案的方式靠的是当场观察，而非事后调查；这套本事在本章之后还会被用到。
 

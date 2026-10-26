@@ -40,7 +40,7 @@ source_text: ch36
 
 **中文理解**：朱迪思说：可他并没有就此收手。因为布伦丹此时手里多了一样能拿捏加里的东西——加里刚刚参与了一桩违法的事，于是布伦丹决定拿这件事做文章，开始向加里索要封口费，而加里照付了。
 
-**关键词**：he wasn’t done / leverage against Gary / demand money / Gary paid up
+**关键词**：he wasn’t done / use against Gary / demand money / Gary paid up
 
 **为什么这样写**：作者把「毁掉记录」和「勒索」写成同一桩买卖的两半：施害者替人灭迹，灭迹的本事反过来成了把柄；「Gary paid up」三个词一笔带过，反倒让整条勒索性比两个命案显得更廉价、更能长期榨取。
 
@@ -70,7 +70,7 @@ source_text: ch36
 
 **中文理解**：朱迪思说：要回答那个问题，我得先讲清我是怎么看出艾勒尼给我看的那张照片是假的。准确地说，是贝克斯替我看出来的，因为她指出照片里的我戴着婚戒。
 
-**关键词**：how I worked out / the photo was a fake / wearing my wedding ring in the photo
+**关键词**：how I worked out / me was a fake / wearing my wedding ring in the photo
 
 **为什么这样写**：作者不肯让主角独占破案的功劳，而是把关键一推明确归还给贝克斯——一句「it was you, Becks, who worked it out for me」让角色的贡献与关系同时被看见；而「wedding ring」这个小小的破绽之所以致命，是因为它牵出一段只有她自己知道的往事。
 
@@ -100,7 +100,7 @@ source_text: ch36
 
 **中文理解**：朱迪思说：你们看，我当初去阁楼那间杂物房取照片时，就注意到门上的挂锁被撬坏了，还丢在地上。
 
-**关键词**：my box room / the padlock had been forced / left on the floor
+**关键词**：my box room / the door had been forced / left on the floor
 
 **为什么这样写**：作者把这个细节安插在回忆里，让它在当下听上去平平无奇——一枚被撬坏又扔在地上的挂锁，谁都会归到「喝多了自己弄的」；正因为它先被轻描淡写地解释掉，后来的改口才显得是一次真正的转向。
 
@@ -120,7 +120,7 @@ source_text: ch36
 
 **中文理解**：朱迪思说：我认为正是在那段时期他去了科孚，赢得了Sofia的信任；我随即意识到，如果他真做了这件事，整个案子便开始说得通了。
 
-**关键词**：when he went to Corfu / won the confidence of Sofia / the whole case falls into place
+**关键词**：when he went to Corfu / won the confidence of Sofia / the whole case starts to fall into place
 
 **为什么这样写**：作者在缺少物证的地方让主角明确标出「推断」的边界——「I think that」而非断言；而「fall into place」这一常用说法被用在案件上，暗合整章从拼图到落位的节奏：一次度假把远在科孚的一环接上了。
 

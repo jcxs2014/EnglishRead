@@ -42,7 +42,7 @@ source_text: ch28
 
 **中文理解**：就在他报出哈里·阿斯奎特这个名字之后，他提议两人一起上楼。据迈克说，他和哈里在网球俱乐部是双打搭档——他对哈里的写作水平并不了解，所以才要去四处打听。
 
-**关键词**：he’d given me Harry Asquith’s name / doubles partners at his tennis club / he’d not known how good he was
+**关键词**：he’d given me Harry Asquith’s name / doubles partners at his tennis club / He’d not known how good he was
 
 **为什么这样写**：这一段把三个关键信息串在一句转述里：报名字的时机、双打搭档的关系、以及"我并不了解他的水平"这条托词；三者本是同一句话的三段，作者用 Apparently 与破折号把转述的不可靠性标出来，却不点破，读者得自己把它和哈里那边的说法对起来。
 
@@ -62,7 +62,7 @@ source_text: ch28
 
 **中文理解**：贝思尼说：他们不是来找我的。你们真以为我这儿没有覆盖林子入口的监控吗？你们一拐上房子侧边那条小路，我就看见你们三个了。
 
-**关键词**：security cameras / the moment you turned onto the track / they’re not here to talk to me
+**关键词**：security cameras / the moment you turned onto the track / They’re not here to talk to me / ’
 
 **为什么这样写**：作者让被审问的一方反手拆穿对方的行踪，一句反问就把"我们是来找答案的"变成"你们才是被监控的人"；而她强调监控覆盖林子入口，等于替警方那套"夜里无人拍到凶手"的结论补了一个反例，把嫌疑引向另一种可能。
 
@@ -72,7 +72,7 @@ source_text: ch28
 
 **中文理解**：朱迪思说：我们是在树林里散步，布伦丹和两名穿制服的警员赶到时我们正说着——我们迷路了，怀斯太太正帮我们离开她的地界。我知道你明白我们三个能让最厉害的男人也发怵，但带着两名制服警察来撑腰，对警司来说有点孱弱。
 
-**关键词**：We were taking a walk through the woods / We got lost / a bit feeble, Detective Sergeant
+**关键词**：We were taking a walk through the woods / We got lost / a bit feeble / Detective Sergeant
 
 **为什么这样写**：作者让朱迪思先用朋友定好的"迷路"口径，再顺手把话头扳回来刺对方一句；"制服警察当后援"这个说法把警司的排场说小了，而称呼停在 Detective Sergeant 上，等于当众提醒他级别还没到，把一次道歉变成一次小小的反击。
 

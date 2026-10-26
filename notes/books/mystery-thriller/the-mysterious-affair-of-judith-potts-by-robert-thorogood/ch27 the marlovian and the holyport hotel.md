@@ -36,7 +36,7 @@ source_text: ch27
 
 **读者视角提示**：她提到 Brendan，是算准了警方在这件事上离了她不行。
 
-> **原句 2:** "‘Exactly. But it won’t just be his ball, they’ll have photos from every smart event in Marlow, won’t they? I bet all of our victims and suspects appear in one photo or another.’"
+> **原句 3:** "‘Exactly. But it won’t just be his ball, they’ll have photos from every smart event in Marlow, won’t they? I bet all of our victims and suspects appear in one photo or another.’"
 
 **中文理解**：朱迪思说，正是这样。可不止是他的舞会，他们肯定还有马洛镇每一场体面活动的照片吧？我敢打赌我们的受害者和嫌疑人总有人会出现在某一张照片里。
 
@@ -46,7 +46,7 @@ source_text: ch27
 
 **读者视角提示**：这一句把"找照片"从消遣变成了侦查手段。
 
-> **原句 2:** "It must have been taken later in the evening as it showed Lord Harleyford with his bow tie loose around his neck, the top button of his dress shirt undone. But it wasn’t Lord Harleyford that caught Suzie’s eye, it was the two men he was standing in between. One of them was Gary Wise and the other was Mike Saxon."
+> **原句 4:** "It must have been taken later in the evening as it showed Lord Harleyford with his bow tie loose around his neck, the top button of his dress shirt undone. But it wasn’t Lord Harleyford that caught Suzie’s eye, it was the two men he was standing in between. One of them was Gary Wise and the other was Mike Saxon."
 
 **中文理解**：那张照片一定拍于当晚稍晚，Lord Harleyford 脖子上的领结已经松开，衬衫最上面一颗扣子也解了；但真正抓住苏齐目光的不是 Lord Harleyford，而是站在他中间的那两个男人，一个叫 Gary Wise，另一个叫 Mike Saxon。
 
@@ -56,7 +56,7 @@ source_text: ch27
 
 **读者视角提示**：领主说自己不认识这两人，那么这三个人为什么会挤在同一张照片里？
 
-> **原句 2:** "‘Of course she is!’ Suzie said, slapping her forehead in a pantomime of comprehension. ‘Why on earth did we believe her when she said she wasn’t? We all said at the time that there was more to her and Mike than she was letting on.’"
+> **原句 5:** "‘Of course she is!’ Suzie said, slapping her forehead in a pantomime of comprehension. ‘Why on earth did we believe her when she said she wasn’t? We all said at the time that there was more to her and Mike than she was letting on.’"
 
 **中文理解**：苏齐一拍自己的额头，做出恍然大悟的姿态说，她当然是他的女人！当初她说自己不是，我们怎么会信？当时我们三人都说过，她和迈克之间还有没讲出来的事。
 
@@ -66,7 +66,7 @@ source_text: ch27
 
 **读者视角提示**：她说"当时我们三人都说过"，说明这个疑点其实早就摆在那里了。
 
-> **原句 2:** "‘Mike Saxon’s been here dozens of times. Each time with a different woman, but I recognise this woman here. She came with him to the hotel about six months ago. And it was one of the times he booked a room for two hours in the middle of the afternoon. I remember seeing them together drinking champagne in the bar. I’m sure of it.’"
+> **原句 6:** "‘Mike Saxon’s been here dozens of times. Each time with a different woman, but I recognise this woman here. She came with him to the hotel about six months ago. And it was one of the times he booked a room for two hours in the middle of the afternoon. I remember seeing them together drinking champagne in the bar. I’m sure of it.’"
 
 **中文理解**：那人说 Mike Saxon 来过这里几十回，每次都换一个女伴，可照片上这位我认得；她大约半年前跟他一起来过这酒店，那正是他有一次在下午按小时订房的时候，我还记得看见他们俩在酒吧一起喝香槟，我敢肯定。
 

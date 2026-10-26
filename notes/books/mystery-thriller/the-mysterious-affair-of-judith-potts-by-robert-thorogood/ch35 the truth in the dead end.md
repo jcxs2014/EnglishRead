@@ -30,7 +30,7 @@ source_text: ch35
 
 **中文理解**：这一次是真的走到了死路：那间石室唯一的出口，就是他们进来的那条道。他们转过身，听见Lord Harleyford 喘着粗气从地道里走进石室；他额头上有一道伤口，血顺着脸颊往下淌，让他看上去像个可怕的食尸鬼。
 
-**关键词**：a dead end / the only way out / breathing hard / a terrifying ghoul
+**关键词**：a dead end / The only way out / breathing hard / a terrifying ghoul
 
 **为什么这样写**：作者先把退路一条条写死，再让追兵以一张血脸进场；「呼吸粗重」写出体力的消耗，「像食尸鬼」把伤者的脸扭成鬼魅，两个人在逼仄的石室里照面，威胁感先由形象堆出来，而不是先靠枪。
 
@@ -50,7 +50,7 @@ source_text: ch35
 
 **中文理解**：贝克斯说：你一定很好奇，虽然想明白这件事的并不是我们，而是朱迪思。她在出国之前就已经意识到那些谋杀是你干的，然后留给我们一条消息，把这件事告诉了我们。
 
-**关键词**：you’ve got to be curious / it wasn’t us who worked it out / before she left the country / left us a message
+**关键词**：You’ve got to be curious / ’ / it wasn’t us who worked it out / before she left the country / left us a message
 
 **为什么这样写**：作者让贝克斯用「你一定很好奇」这句拖延把话头咬住，同时把破案的功劳推给一个不在场的人；这一步既解释了她们此刻为什么敢跟一个持枪的人对谈，也为下一段对方的情绪失控埋下引信——他最恨的正是这个名字。
 
@@ -60,7 +60,7 @@ source_text: ch35
 
 **中文理解**：对方说：从前那个人以为自己是个大人物，可到最后他并不是。眼下你们两个也一样。就像你说的，这里只有我们三个。
 
-**关键词**：he thought he was the big man / it will be the same for you two / just the three of us down here
+**关键词**：He thought he was the big man / it will be the same for you two / just the three of us down here
 
 **为什么这样写**：作者把最冷的一段威胁写成一个傲慢者终于露底的自白：先抹掉对手曾经「是大人物」的说法，再顺势宣布眼前这两个人也不会例外；「就像你说的，这里只有我们三个」把此前那句设局逻辑原样奉还，凶手的胆量恰恰建立在他的误判之上。
 

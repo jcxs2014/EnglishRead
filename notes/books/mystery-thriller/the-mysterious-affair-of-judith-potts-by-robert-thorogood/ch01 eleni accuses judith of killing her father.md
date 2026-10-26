@@ -19,7 +19,7 @@ source_text: ch01
 > **原句 1:** "Mrs Judith Potts looked at the woman standing outside her front door and didn’t say a word. She didn’t dare say a word. Her heart was racing."
 
 **中文理解**：朱迪思·波茨太太看着站在自家门外的女人，一个字也没说。她不敢说。她的心在狂跳。
-**关键词**：didn’t dare / heart was racing / freefall
+**关键词**：didn’t dare / heart was racing
 **为什么这样写**：开篇先写"没说话"，紧接着写"不敢说"，把一扇门的门槛变成了整场对峙的边界；再用"心在狂跳"把恐惧从喉咙挪到胸口，说明她的身体先于理智垮了一步；紧接着的"思绪在自由落体"更把慌乱写成一种可见的下坠速度，而对方"直直回瞪、拒绝退让"又把这份紧张从单向变成双向——读者由此确认：这场闯入不是被动的求助，而是一次有备而来的施压。
 **读者视角提示**：作者此刻还没有交代这个女人是谁、为什么来，先给对峙的姿态。往后读时请留意，她与朱迪思之间的每一句对话都在重新分配"谁有资格指控谁"。
 

@@ -19,7 +19,7 @@ source_text: ch08
 > **原句 1:** "The following morning, Suzie arrived at the vicarage bright and early to find Becks clearing away her family’s breakfast things. Becks rinsed the used cups, saucers and plates in the sink before putting them in the dishwasher."
 
 **中文理解**：第二天一大早，苏齐就赶到牧师住宅，看见贝克斯正在收拾一家的早餐餐具：杯子和碟盘先在水槽里冲过一遍，才放进洗碗机。
-**关键词**：bright and early / clearing away / breakfast things / the used cups, saucers and plates
+**关键词**：bright and early / clearing away / breakfast things / the used cups / saucers and plates
 **为什么这样写**：作者先拿洗碗机这件小事把两个人的性子摆到读者面前——一个讲究程序，一个嫌事多余。家庭的日常感因此扎得很实，也为随后那通关于失踪朋友的电话腾出了反差的空间。
 **读者视角提示**：这半段琐碎是必要的缓冲，前一章的街头对峙还悬在读者心里，本章先让人松一口气。
 
@@ -54,7 +54,7 @@ source_text: ch08
 > **原句 6:** "He looked after the kids who were mascots before each game. He was always the last person to leave the training ground when people were asking for autographs. I’ll tell you what the problem is. Everyone here’s a fan, aren’t they? They only saw Gary when he was out and about in public."
 
 **中文理解**：他照顾每场比赛前当吉祥物的小朋友，训练基地里人们围着要签名时，他总是最后一个离开。苏齐说问题就在这里：在场的都是球迷，他们只在公开场合见过加里。
-**关键词**：the kids who were mascots / the training ground / everyone here’s a fan / out and about in public
+**关键词**：the kids who were mascots / the training ground / Everyone here’s a fan / out and about in public
 **为什么这样写**：作者借苏齐一句总结把粉丝证词与内部真相划开界线：所有正面印象都来自人前，而他们要知道的恰恰是一个人放下戒备时的样子。这句判断直接决定了下一位该去找谁。
 **读者视角提示**：记住这条区分——接下来该找的不是更出名的球迷，而是能看见加里私下模样的人。
 
@@ -82,7 +82,7 @@ source_text: ch08
 > **原句 10:** "‘And there it is!’ the man said as he shoved the pass into a pocket of his tracksuit. ‘All the proof I need that you aren’t who you say you are.’"
 
 **中文理解**："证据到手！"那人大喊着，把证件塞进运动服的口袋，"这就是我要的全部证据，证明你们并不是自称的那个人。"
-**关键词**：shoved the pass into a pocket / a pocket of his tracksuit / all the proof I need / you aren’t who you say you are
+**关键词**：shoved the pass into a pocket / a pocket of his tracksuit / All the proof I need / you aren’t who you say you are
 **为什么这样写**：作者把揭穿写成一场小小的欢呼，而不是一场审判；证件进了对方的口袋，道义上的指控也随之成立，两个女人此刻的处境与来时正好颠倒。
 **读者视角提示**：本章在一场闹剧里收尾，可闹剧之外有真东西被换走——线索到手了，身份也被人捏在手里。
 

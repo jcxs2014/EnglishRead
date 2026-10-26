@@ -33,7 +33,7 @@ source_text: ch06
 > **原句 3:** "Suzie kept looking over her shoulder at Eleni the whole way inside, somehow managing to keep her eyes on her up until the moment Becks closed the front door behind them both."
 
 **中文理解**：苏齐一边往里走一边不停回头看艾勒尼，居然一直把眼睛钉在她身上，直到贝克斯在她们两人身后关上大门的那一刻才停下。
-**关键词**：looking over her shoulder / the whole way inside / manage to keep her eyes on her / closed the front door behind them both
+**关键词**：looking over her shoulder / the whole way inside / managing to keep her eyes on her / closed the front door behind them both
 **为什么这样写**：作者用"直到门关上才结束"这个时间刻度，把一次回头写成了无法自控的注视；门是这条视线的终点也是终点线，读者能感到门外那个人还站在原地没走，而屋里这两个人已经开始互相追问。
 **读者视角提示**：这一幕把苏齐的立场挑明了一半——她对来人既好奇又提防，而这份提防来自朋友，不来自证据。
 

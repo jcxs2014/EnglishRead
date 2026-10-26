@@ -54,7 +54,7 @@ source_text: ch11
 > **原句 6:** "‘Poppycock!’ Judith snorted. ‘She spends her whole time following correct procedure. It’s us who don’t follow it. But we’re not police officers – there’s no correct procedure for us to follow. It’s why we get results.’"
 
 **中文理解**：朱迪思哼了一声说胡说；塔妮卡整天都在守规矩，倒是不守规矩的是我们，可我们又不是警察，本来就没有规矩可守——这正是我们能出结果的原因。
-**关键词**：Poppycock / there’s no correct procedure for us to follow / we’re not police officers / it’s why we get results
+**关键词**：Poppycock / there’s no correct procedure for us to follow / we’re not police officers / It’s why we get results
 **为什么这样写**：作者把这句反击写成一道漂亮的自洽逻辑：越是不属于体制的人，越不受体制的流程约束，劣势被翻成了优势；一个词"胡说"落地之后紧跟长句，节奏上像一次抢白，把先前的颓势扳了回来。
 **读者视角提示**：这套说法听着提气，但它同时承认了一件事——她们打的是擦边球。
 
@@ -68,7 +68,7 @@ source_text: ch11
 > **原句 8:** "‘It’s easy. “Initially” just means that you should take the initials of the words that follow. So, if you take the first letters of “hit”, “a”, “Rolls”, “Royce”, “in” and “Scotland”, you spell “Harris”, which is your surname.’"
 
 **中文理解**：她说很简单，"Initially"只是让你取后面各词的首字母；把"hit""a""Rolls""Royce""in""Scotland"的开头连起来，就拼出"Harris"，正是被猜的那个人的姓。
-**关键词**：take the initials of the words that follow / you spell “Harris” / which is your surname
+**关键词**：take the initials of the words that follow / you spell “Harris / which is your surname
 **为什么这样写**：作者让解答过程像一道算术题逐字落地，首字母一个一个拼成姓氏，读者跟着算一遍就懂；答案是"哈里斯"这个鸟名，线索的另一半同时成立，双重收束让这场教学有了小小的惊艳感。
 **读者视角提示**：连起来能读通的那几个字，往往就是答案本身。
 

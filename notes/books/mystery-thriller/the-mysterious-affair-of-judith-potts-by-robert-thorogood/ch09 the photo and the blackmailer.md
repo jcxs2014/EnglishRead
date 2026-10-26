@@ -19,7 +19,7 @@ source_text: ch09
 > **原句 1:** "‘But it makes no sense that he was in a drink-driving accident,’ Becks said. ‘Because, according to the man we spoke to, Gary said the police attended the scene. But Tanika told us the police hadn’t had any interactions with Gary in the last three years.’"
 
 **中文理解**：贝克斯说，加里若是酒后驾车出的事，说不通；因为据他们打听来的人说，加里讲警察到了现场，可塔妮卡告诉过他们，警方最近三年根本没和加里有过任何接触。
-**关键词**：makes no sense / drink-driving accident / the police attended the scene / no interactions with Gary
+**关键词**：makes no sense / drink-driving accident / the police attended the scene / any interactions with Gary
 **为什么这样写**：作者不让人物先下结论，而是把两个互相打架的说法并排摆出来——一个听来的转述，一个内部消息；读者只要看出这两句话不能同时为真，就自己走到了"死因版本有问题"这一步，比作者直接宣布更有说服力。
 **读者视角提示**：加里临死前似乎向人描述过警察在场——他凭什么这么说？这一句值得回头再想。
 
@@ -54,7 +54,7 @@ source_text: ch09
 > **原句 6:** "‘The shadows were the first thing I looked at,’ Judith said. ‘But they’re correct for both Philippos and me for the time of day that he set off. The sun is right above us in the sky. I don’t think anyone’s doctored it.’"
 
 **中文理解**：朱迪思说，她第一眼就看了影子；但对菲利波斯和她两个人来说，影子的方向都和他出发那个时段吻合，太阳就在他们头顶上，她不认为有人动过手脚。
-**关键词**：The shadows were the first thing / correct for both of them / the time of day he set off / anyone’s doctored it
+**关键词**：The shadows were the first thing / correct for both / the time of day that he set off / anyone’s doctored it
 **为什么这样写**：作者把验伪交给太阳而不是交给仪器：影子对得上、太阳在头顶，读者自己就能完成判断；而"我不认为有人改过"这句的分寸拿捏得极好，既回应了怀疑，又留了一道"万一有人改过"的口子。
 **读者视角提示**：那么问题就变成：谁有条件、也敢在那天早上按下快门？
 

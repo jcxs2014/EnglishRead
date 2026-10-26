@@ -33,7 +33,7 @@ source_text: ch17
 > **原句 3:** "Philippos was at the far end of the table. His head was turned to look at a beautiful woman to his side. Even from the distance of decades, Judith recognised the woman instantly. She was Eleni’s mother, Michaela."
 
 **中文理解**：菲利波斯坐在长桌的另一端，头却扭向身旁一位美丽的女人。朱迪思隔着几十年的光阴一眼认出她来——那是艾勒尼的母亲米凯拉。
-**关键词**：at the far end of the table / His head was turned to look at / a beautiful woman / recognised the woman instantly / Eleni’s mother, Michaela
+**关键词**：at the far end of the table / His head was turned to look at / a beautiful woman / recognised the woman instantly / Eleni’s mother / Michaela
 **为什么这样写**：这一句让旧照片成为翻案的起点：菲利波斯的视线落点不在镜头里的人，而在米凯拉身上。作者把"察觉"写成一次瞬间辨认，说明这不是新发现，而是朱迪思早该看出的旧账。
 **读者视角提示**：这一刻的逻辑是"照片证明菲利波斯另有心思"，而不是"照片证明谁杀了菲利波斯"，别把两件事混为一谈。
 
@@ -47,7 +47,7 @@ source_text: ch17
 > **原句 5:** "Judith told herself that she was no longer the fox who knew many things from the ancient poem by Archilochus. From now on, she was going to be the hedgehog, who knew only one big thing. And, as she kept her eyes scrunched shut against the ice-cold water, she knew that the one big thing she’d learned the previous night was that she was now in mortal danger."
 
 **中文理解**：朱迪思对自己说，她不再是那个知道许多事情的狐狸了；从现在起她要做那只只懂得一件大事的刺猬。冰水灌得她把眼睛紧紧闭着，而她明白昨夜学到的这一件大事就是：自己已经身陷致命的危险之中。
-**关键词**：no longer the fox / the hedgehog, who knew only one big thing / eyes scrunched shut against the ice-cold water / in mortal danger
+**关键词**：no longer the fox / the hedgehog / who knew only one big thing / eyes scrunched shut against the ice-cold water / in mortal danger
 **为什么这样写**：作者借阿基洛科斯的古诗寓言给人物重新定位。狐狸什么都知道，所以处处受困；刺猬只守一件事，反而能扎住对手。作者还把决断放进冷水里——先用身体的不适把情绪压住，再给出结论。
 **读者视角提示**：这是全章的转折点。此后的朱迪思不再多方求证，而是准备正面承受艾勒尼的指控。
 

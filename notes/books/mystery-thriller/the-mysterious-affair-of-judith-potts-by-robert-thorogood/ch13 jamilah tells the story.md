@@ -19,7 +19,7 @@ source_text: ch13
 > **原句 1:** "‘Sure, I can tell you what happened,’ Jamilah eventually said. ‘You see, the two of us generally rubbed along just fine. I’d get to the house for about 9.30 each morning and Mike would tell me what emails and letters had come in from fans. Or media requests and so on. And then I’d set about replying on his behalf.’"
 
 **中文理解**：贾米拉终于开口，讲起两人的日常——她每天九点半到迈克家，听他交代粉丝来信与媒体邀约，再代他写回信；两人相处得还算融洽。
-**关键词**：rubbed along just fine / 9.30 each morning / emails and letters from fans / media requests
+**关键词**：rubbed along just fine / 9.30 each morning / emails and letters had / media requests
 **为什么这样写**：作者先铺一段平淡的日常工作，让读者相信这户人家曾有秩序；"replying on his behalf"点明她只是执行者。
 **读者视角提示**：留意"for about 9.30"这个固定时间，它就是次日清晨死亡时间的近邻。
 
@@ -61,7 +61,7 @@ source_text: ch13
 > **原句 7:** "‘No, my boyfriend Viv stayed over. We went to bed at about midnight and then we didn’t get up until the alarm went off at 6.30 a.m. Viv works in Canary Wharf, so he left at about seven.’"
 
 **中文理解**：她说男友当夜留宿，两人约午夜上床，直到六点半闹钟响才起床；男友在 Canary Wharf 上班，七点左右出的门。
-**关键词**：my boyfriend Viv stayed over / went to bed at about midnight / the alarm went off at 6.30 a.m. / he left at about seven
+**关键词**：my boyfriend Viv stayed over / went to bed at about midnight / the alarm went off at 6.30 a.m / he left at about seven
 **为什么这样写**：这段不在场证明看似完整，作者却只给时间不给判断，把"谁在证明谁"摊开给读者看：睡着的时候，什么也证明不了。
 **读者视角提示**：午夜前后她正在熟睡，这个时段她没有第二个证人。
 

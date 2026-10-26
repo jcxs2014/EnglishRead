@@ -61,7 +61,7 @@ source_text: ch18
 > **原句 7:** "‘It’s probably in his sports bag. He normally keeps it in his office, but it wasn’t there the last time I was there. It must be in his locker at the club.’"
 
 **中文理解**："多半在他的运动包里。他平常把它放在办公室，可我上次去的时候不在那儿。那一定在俱乐部的更衣柜里。"
-**关键词**：sports bag / it must be in his locker
+**关键词**：sports bag / It must be in his locker
 **为什么这样写**：贾米拉用"多半""一定"两级肯定层层推进，把一个推测变成可执行的定位。作者让线索以最朴素的方式落地：不在办公室就在更衣柜——正是三个女人能动手的地方。
 **读者视角提示**：这一句是全章的枢纽，它把"备用手机"从悬疑物品变成了可以走进某扇门去拿的东西。
 

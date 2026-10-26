@@ -68,7 +68,7 @@ source_text: ch12
 > **原句 8:** "Judith pressed the red icon to cancel the call and then looked at Serena with a smile that she hoped didn’t look too forced. ‘If you could get Jamilah’s address for us, that would be lovely.’"
 
 **中文理解**：朱迪思按了红色图标把电话挂掉，然后看向塞雷娜，露出一个自己希望看起来不那么勉强的笑；她说，要是能拿到贾米拉的地址，那就太好了。
-**关键词**：pressed the red icon / cancel the call / a forced-looking smile / get Jamilah’s address for us
+**关键词**：pressed the red icon / cancel the call / didn’t look too forced / get Jamilah’s address for us
 **为什么这样写**：作者把一个拒绝写成一句客气的请求：手指按在红色图标上，动作是切断，人却马上转向塞雷娜要地址；那个"希望看起来不太勉强"的笑，说明她在掩饰自己刚刚回避了什么。
 **读者视角提示**：这通来自希腊的电话没有下文，而她此刻要的是贾米拉的住址——两条线并排放在同一句里。
 

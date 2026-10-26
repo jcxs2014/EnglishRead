@@ -26,7 +26,7 @@ source_text: ch03
 > **原句 2:** "‘And that the only other person in the house at the time of his death was his wife, Bethany. She’s badly shaken up. Which is hardly surprising, when you think about it. Someone killing your husband in the woods behind your house? It makes you shudder. No?’ Tanika asked to see if she’d caught Judith’s attention."
 
 **中文理解**：Tanika说，案发当时屋里只有死者的妻子Bethany一个人，她吓得不轻；丈夫就死在自家屋后的林子里，这种事想想都让人发冷。她一路用反问往前推，想看看自己的朋友有没有被说动。
-**关键词**：his wife, Bethany / badly shaken up / the woods behind your house
+**关键词**：his wife / Bethany / badly shaken up / the woods behind your house
 **为什么这样写**：作者不写结论，只把位置关系一件件摆出来：屋里只有妻子、死者死在屋后林中、妻子受了惊。读者自己就能拼出一幅可疑的画面，而"她抓到我注意了吗"这个问句又把判断权推给了听话的人。
 **读者视角提示**：Bethany在案发时独自在家，这一点既是她的嫌疑，也是她的处境。
 
@@ -47,7 +47,7 @@ source_text: ch03
 > **原句 5:** "Turning it over in her hands, she looked back at her four-poster bed and considered what the little knife meant to her. She hoped she wouldn’t be forced to use it. But if she was, she knew she’d need some kind of way of communicating with Becks and Suzie. They’d need to know what she was doing."
 
 **中文理解**：她把那把拆信刀在手里翻过来覆过去，看着自己的四柱床，想这件小刀对自己究竟意味着什么；她希望永远不必动用它，可若真被逼到那一步，就得先想好怎样向Becks和Suzie通报自己在做什么。
-**关键词**：four-poster bed / what the little knife meant to her / a way of communicating with Becks and Suzie
+**关键词**：four-poster bed / what the little knife meant to her / way of communicating with Becks and Suzie
 **为什么这样写**：作者把旧信、四柱床和一把小刀串成一次无声的自省，先让人物在动手之前自己掂量一遍；更要紧的是她随即想到得向两位朋友通气，说明这件事她打算先独自扛下，事后再交代。
 **读者视角提示**：拆信刀在本章被郑重提起，它是旧物也是可能的凶器；往后每次写到它，都该回到此刻这份犹豫。
 

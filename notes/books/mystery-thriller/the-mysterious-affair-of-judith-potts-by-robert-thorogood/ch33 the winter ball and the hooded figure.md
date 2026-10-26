@@ -70,7 +70,7 @@ source_text: ch33
 
 **中文理解**：哈里说，他是在俱乐部打网球时才想明白威廉正是自己要找的答案——他可以拿威廉的麻烦来解决自己的麻烦，于是建议威廉把最近那些"难处"先公之于众，抢在警察以贩卖部长门路的名义起诉他之前。
 
-**关键词**：the answer I was looking for / use his problems to solve mine / selling access to ministers
+**关键词**：the answer I was looking for / use his problems to solve mine / get his story out there first
 
 **为什么这样写**：作者让哈里用自己的逻辑替这抢先一步辩护，把受害者的麻烦当成自己的出路，这句坦白把此前所有疑点一并倒向勋爵；那几个表示迟疑的省略号又提醒读者，威廉的"难处"另有隐情。
 

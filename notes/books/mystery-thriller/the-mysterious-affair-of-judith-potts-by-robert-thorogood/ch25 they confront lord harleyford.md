@@ -47,7 +47,7 @@ source_text: ch25
 > **原句 5:** "‘That’s not been proved!’ Lord Harleyford barked as he spun around to face the women. ‘And I can tell you it won’t be. I’m fighting those allegations through the courts.’"
 
 **中文理解**："那还没有被证明！"哈莱福德勋爵猛地转身面对三个女人，吼道，"我可以告诉你，永远也不会被证明。我正在通过法庭打这些指控。"
-**关键词**：not been proved / fighting through the courts
+**关键词**：not been proved / allegations through the courts
 **为什么这样写**：作者让他用法律语言来自救。"那还没有被证明"与"永远也不会被证明"是一句虚张声势的宣言，紧接着"我正在打官司"更暴露了他的孤立——一个真正握有实据的人不需要宣布自己在打官司。
 **读者视角提示**：注意他"转身面对"这个动作——此前他一直背对她们说话，背身是躲避，转身是被逼到墙角。
 

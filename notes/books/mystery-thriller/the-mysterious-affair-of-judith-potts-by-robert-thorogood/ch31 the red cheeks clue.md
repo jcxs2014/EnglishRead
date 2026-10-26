@@ -20,7 +20,7 @@ source_text: ch31
 
 **中文理解**：贝克斯说：虽然她临走前确实给我们留了最后一句话——「那男人两颊通红」；但这显然是一条填字游戏的谜面，我们怎么也想不出它是什么意思。
 
-**关键词**：a crossword clue / man had red cheeks / can’t work out it
+**关键词**：a crossword clue / man had red cheeks / can’t work out
 
 **为什么这样写**：作者把上一章那句突兀的喊话正式转成一道谜题，让读者和侦探站在同一条起跑线上；而“obviously”这个副词恰恰暴露了这条判断站不住脚——真正明显的线索不需要猜到头秃。
 
@@ -40,7 +40,7 @@ source_text: ch31
 
 **中文理解**：塔妮卡接着说：她没有把名字说出口，所以你们要听的不是名字；她甚至没称他为勋爵，所以也不是头衔；那就是两颊的颜色。这让我想到谋杀案里还有别的环节里红色脸颊很要紧，或者是有人看见了某个两颊通红的人。
 
-**关键词**：didn’t say his name / not his status, either / the colour of his cheeks
+**关键词**：didn’t say his name / not his status / either / the colour of his cheeks
 
 **为什么这样写**：两层排除把解释范围一格一格收窄，而排除的依据全是可核查的事实——她没说什么、她没怎么称呼；这比“感觉就是他”结实得多，也是本章推理节奏的骨架。
 
@@ -50,7 +50,7 @@ source_text: ch31
 
 **中文理解**：贝克斯说：本来不是这样……其实我刚才说错了。我们跟贾米拉谈过，她说过在迈克死去的那天，有人红着两颊在那天早晨跟他争吵过，就在他家书房外面。
 
-**关键词**：before she stopped herself / Actually, that’s not / the day that Mike died
+**关键词**：before she stopped herself / Actually / that’s not / the day that Mike died
 
 **为什么这样写**：一次自我更正把贝克斯从否认翻到承认，人物的可错性由此写实；而“迈克死去的那天早晨”这句时间锚点，把一张脸的颜色直接焊在了死亡现场上。
 
@@ -80,7 +80,7 @@ source_text: ch31
 
 **中文理解**：贾米拉说：事情就是这样，我当时没认出他。老实说，我只看见一个红着两颊的男人，对我来说可能是任何人。而且要记住，我只见过Lord Harleyford一次，还是去年。
 
-**关键词**：didn’t recognise him / a man with red-faced cheeks / it could have been
+**关键词**：didn’t recognise him / a man with red-faced cheeks / It could have been
 
 **为什么这样写**：作者让她把辨认的依据压缩成可观测的零散特征，句式一律用“我只看到……”，把“没认出来”从记忆问题改写成观察条件问题，将来照片若能对上，这一限制就自动成了伏笔。
 
@@ -90,7 +90,7 @@ source_text: ch31
 
 **中文理解**：苏齐说：别管她了。Lord Harleyford就是凶手，不是吗？朱迪思提到两颊通红就是在告诉我们这件事。就是他在迈克·萨克森死去那天跟他吵过架。
 
-**关键词**：the killer, isn’t he / what Judith was telling / argued with Mike Saxon
+**关键词**：the killer / isn’t he / what Judith was telling / argued with Mike Saxon
 
 **为什么这样写**：作者让情绪最上头的角色完成最武断的推论，把一条脸色线索直接接到旧案的全套叙事上；而“从来就感觉一定是他”这类话，恰是推理小说里最危险的自我说服。
 

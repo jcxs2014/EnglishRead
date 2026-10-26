@@ -68,7 +68,7 @@ source_text: ch38
 > **原句 8:** "‘It’s brass, not gold,’ Judith said. ‘And threaded on the inside. But when Philippos inspected my hands to see what I was holding, he only saw my empty palms and didn’t notice the new ring on my finger."
 
 **中文理解**：是黄铜的，不是金子，朱迪思说；而且内圈带螺纹。可菲利波斯查看她手里握着什么的时候，只看到她摊开的两只手，没有注意到手指上那枚新戒指。
-**关键词**：brass, not gold / threaded on the inside / empty palms
+**关键词**：brass / not gold / threaded on the inside / empty palms
 **为什么这样写**：作者用两句极短的澄清把一枚螺母还原成它本来的用途，再用菲利波斯的"粗心"完成掩护；一双空着的手与一枚藏在指上的戒指并置，这组对照就是她能脱身的原因。
 **读者视角提示**：这也是那枚螺母为何会被当作成婚戒戴了几十年的原因——它既像戒指，又一直在提醒她那天做过什么。
 

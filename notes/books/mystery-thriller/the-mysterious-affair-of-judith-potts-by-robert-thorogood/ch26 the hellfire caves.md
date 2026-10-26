@@ -40,7 +40,7 @@ source_text: ch26
 
 **中文理解**：贝克斯把光甩到地面上。她们一直跟着的那串脚印在灰尘里延伸到墙边就断了，她脱口问出：他去哪儿了？
 
-**关键词**：throwing her light / the footsteps in the dust / went up to the wall and then stopped
+**关键词**：throwing her light / The footsteps in the dust / went up to the wall and then stopped
 
 **为什么这样写**：作者让最不镇定的贝克斯说出最关键的那个疑问：断掉的脚印本身就是一个反证，说明对方并非走这条路；一句简短的 "Where did he go?" 把悬念从环境描写推到推理层面。
 
@@ -50,7 +50,7 @@ source_text: ch26
 
 **中文理解**：朱迪思指着停在敞开的门前的那串脚印说，Lord Harleyford 就是从这里走的；隧道里粗糙的岩石上根本看不出任何脚印，但这串脚印一直走到这扇门口。
 
-**关键词**：It’s where Lord Harleyford went / stopped at the open door / no footprints in the rock
+**关键词**：It’s where Lord Harleyford went / stopped at the open door / any footprints in the rock
 
 **为什么这样写**：作者把"没有脚印"和"脚印到门口为止"两件事并置，让朱迪思的判断显得果断又不严谨——她推断对方下了隧道，却拿不出岩石上的痕迹；这种半凭直觉半凭脚印的推理，正是她这个侦探的一贯作风。
 
@@ -60,7 +60,7 @@ source_text: ch26
 
 **中文理解**：这间屋子大致是圆的，中央有一个大火塘，其余空间被扶手椅、沙发和摆着台灯的零星几桌占满；她一进门亮起来的，正是这些台灯。
 
-**关键词**：broadly circular / a large fire pit / armchairs, sofas and occasional tables / these lamps
+**关键词**：broadly circular / a large fire pit / armchairs / sofas and occasional tables / these lamps
 
 **为什么这样写**：作者按"形状—中心—陈设"的顺序把这间洞厅写成客厅，而不是刑场或兵器库；扶手椅和台灯把危险感降格成怪诞感，而"她进门时亮起来的正是这些灯"这一句，则把整条暗道从废弃遗址改写成有人使用的地方。
 
@@ -90,7 +90,7 @@ source_text: ch26
 
 **中文理解**：贝克斯问，这个 "Hellfire Club" 还在活动吗？两起谋杀是不是就与此有关——存在某种以 Lord Harleyford 为核心的秘密社团？他们在一起待在自家屋下的洞穴里时，会干些极坏的事。
 
-**关键词**：Is the Hellfire Club still going / what these murders are about / a secret society / under his house
+**关键词**：Is the Hellfire Club still going / what these murders are about / secret society / under his house
 
 **为什么这样写**：作者让贝克斯把三个问句连成一串，从社团是否存续一路推到命案动因，把一条查来的旧闻直接接到当下的案件上；三个问句都不等回答就自己给出了最耸动的假设，这正是她说话的方式，也让读者跟着兴奋起来。
 
@@ -100,7 +100,7 @@ source_text: ch26
 
 **中文理解**：朱迪思说，也许 Lord Harleyford 发现有两名社团成员正在被人勒索，于是就把他们杀掉，好让他们没法把 "Hellfire Club" 的秘密泄露出去。
 
-**关键词**：found out that two members / were being blackmailed / so he killed them / spill any of the secrets
+**关键词**：found out that two members / were being blackmailed / So he killed them / spill any of the secrets
 
 **为什么这样写**：这是本章最关键的一次推理，把新查到的社团与既有的勒索模式接在一起；作者让朱迪思用一个 "Maybe" 起头，把结论降格成假设，再用 "So he killed them" 干脆收尾，一推一收之间显出她的判断力，也给接下来的反问留出余地。
 

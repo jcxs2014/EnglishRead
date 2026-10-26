@@ -20,7 +20,7 @@ source_text: ch34
 
 **中文理解**：安吉拉说：说起来，我的请柬今天早上才送到。迟到总比不来强。毕竟这是本季最盛大的宴会，少了我就不算完整。
 
-**关键词**：my invitation arrived / but better late than never / the party of the season
+**关键词**：my invitation arrived / But better late than never / the party of the season
 
 **为什么这样写**：作者让她一登场就用迟到自嘲，把「不请自来」的尴尬转成理所当然的主角姿态；「本季之宴没有我就不完整」一句顺手立起了她的公众身份，而这份身份正是全章稍后被摆到台面上的那点资源。
 
@@ -70,7 +70,7 @@ source_text: ch34
 
 **中文理解**：地道一边弯曲、扭转、一路向下，一边变得更冷更窄；最后它收拢成一道最薄的缝隙，两人停了下来，把火把的光打在那片空处——窄得他们两个谁都钻不过去。
 
-**关键词**：colder and narrower / tapered to the thinnest of gaps / far too slender to get through
+**关键词**：colder and narrower / tapered to the thinnest of gaps / far too slender for either
 
 **为什么这样写**：作者把逃亡的高潮写成一串不断收紧的几何尺寸：更冷、更窄、更薄，逼近感全靠身体尺度递减来完成；结尾不安排追兵现身，只留下一堵缝，把两个人的退路和读者的期待一起卡死。
 

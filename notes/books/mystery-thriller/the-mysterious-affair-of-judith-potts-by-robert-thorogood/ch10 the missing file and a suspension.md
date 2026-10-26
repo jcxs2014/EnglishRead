@@ -26,14 +26,14 @@ source_text: ch10
 > **原句 2:** "They didn’t have the exact reference, but they knew that it would have been logged on the evening of seventh April, or early on the morning of the eighth, so they asked to see everything that was created on those two days."
 
 **中文理解**：他们手上没有确切的档案编号，但知道那份记录应该是四月七号晚上登记入库的，或者八号一大早，于是就要求把这两天里生成的所有材料都调出来看。
-**关键词**：didn’t have the exact reference / logged on the evening of seventh April / everything created on those two days
+**关键词**：didn’t have the exact reference / logged on the evening of seventh April / everything that was created on those two days
 **为什么这样写**：没有编号就直接用日期去筛，是查案里最笨也最扎实的一招；作者让三人先把笨办法走完，后面的发现才显得有分量——读者清楚他们不是随便撞上，而是把整个时间段的卷宗翻遍了。
 **读者视角提示**：四月七日到八日这个窗口，是后面所有推断的时间基准。
 
 > **原句 3:** "‘Bloody typical that his file would be slap bang in the middle,’ Suzie said as she pulled down another hanging file. ‘Oh dear. Mister Christopher Davies here got into a fist fight with a Mister Graham Pulsford on the eighteenth hole of the Gerrards Cross golf club. But sill no Gary Wise. Hold on, what’s this?’"
 
 **中文理解**：苏齐一边抽下一个挂着的卷宗一边说，他那份档案偏偏就搁在正中间，真是太典型了。接着她念起一份卷宗：一位叫克里斯托弗·戴维斯的先生，在 Gerrards Cross 高尔夫俱乐部第十八洞跟一位格雷厄姆·普尔斯福德先生打了一架，可还是没有加里·怀斯的份。
-**关键词**：slap bang in the middle / fist fight / the Gerrards Cross golf club / sill no Gary Wise / Hold on, what’s this?
+**关键词**：slap bang in the middle / fist fight / the Gerrards Cross golf club / sill no Gary Wise / Hold on / what’s this?
 **为什么这样写**：作者先让一串鸡毛蒜皮的卷宗（自行车、高尔夫球打架）滑过去，把档案室的枯燥写实感做足；读者刚要打哈欠，苏齐那句"等等，这是什么"就把注意力一把拽回，节奏上的落差正是本章的转折点。
 **读者视角提示**：注意她最后那句转折——发现不在她手里那一份上，而在编号本身。
 
