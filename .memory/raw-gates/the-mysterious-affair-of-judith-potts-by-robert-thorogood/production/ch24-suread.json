@@ -1,0 +1,55 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch24",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch24_chapter_23.txt",
+ "facts": [
+  {
+   "fact": "贝克斯当面揭穿安吉拉躲在灌木丛里跟踪三人，并说她一路跟到塞雷娜·萨克森家、藏在迈克办公室后面",
+   "anchor": "You were spying on us from the bushes",
+   "start": 271,
+   "end": 308
+  },
+  {
+   "fact": "安吉拉承认自己一直知道两起谋杀之间的关联，只是没说",
+   "anchor": "I know what the link between the two murders is",
+   "start": 1280,
+   "end": 1327
+  },
+  {
+   "fact": "四人从公园转往牧师住宅谈事情",
+   "anchor": "Becks suggested that they go to the vicarage",
+   "start": 1760,
+   "end": 1804
+  },
+  {
+   "fact": "安吉拉指认哈莱福德勋爵是杀害加里·怀斯和迈克·萨克森的凶手",
+   "anchor": "it’s my belief that he killed Gary Wise and Mike Saxon",
+   "start": 4149,
+   "end": 4203
+  },
+  {
+   "fact": "安吉拉回忆威廉当时反复追问能否拿迈克的把柄来要挟他",
+   "anchor": "Was it possible someone could use leverage against him?",
+   "start": 6672,
+   "end": 6727
+  },
+  {
+   "fact": "安吉拉说威廉那天提到三位名人，其中两位已经死了，第三位是她自己",
+   "anchor": "two of them are now dead, and the third one’s me",
+   "start": 8755,
+   "end": 8803
+  },
+  {
+   "fact": "安吉拉说这次下午茶发生在初夏",
+   "anchor": "At the beginning of the summer.",
+   "start": 8853,
+   "end": 8884
+  },
+  {
+   "fact": "朱迪思提议直接登门去问哈莱福德勋爵",
+   "anchor": "We just have to go to Lord Harleyford’s house",
+   "start": 11940,
+   "end": 11985
+  }
+ ]
+}
