@@ -1,0 +1,49 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch01",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch01_prologue.txt",
+ "facts": [
+  {
+   "fact": "陌生女人 Eleni 站在 Judith 门前，指控她杀死了自己的父亲",
+   "anchor": "You killed my father.",
+   "start": 360,
+   "end": 381
+  },
+  {
+   "fact": "菲利波斯（Philippos Demetriou）已死四十九年",
+   "anchor": "Philippos died forty-nine years ago.",
+   "start": 477,
+   "end": 513
+  },
+  {
+   "fact": "Eleni 说自己出生在父亲死后七个月",
+   "anchor": "Seven months after you killed my father.",
+   "start": 2169,
+   "end": 2209
+  },
+  {
+   "fact": "Eleni 断言 Judith 游回岸边伪造菲利波斯海上溺亡",
+   "anchor": "You then swam back to shore to make it look like he died at sea.",
+   "start": 4064,
+   "end": 4128
+  },
+  {
+   "fact": "验尸报告显示菲利波斯死于溺水，没有他杀证据",
+   "anchor": "he’d died from drowning",
+   "start": 5456,
+   "end": 5479
+  },
+  {
+   "fact": "Eleni 说自己住在 Tollgate 旅馆，留话要 Judith 主动去找她",
+   "anchor": "I’m staying at the Tollgate.",
+   "start": 4694,
+   "end": 4722
+  },
+  {
+   "fact": "Eleni 长着母亲 Michaela 的橄榄绿眼睛，长相却像父亲菲利波斯",
+   "anchor": "The olive-green eyes of Michaela Paphides.",
+   "start": 3105,
+   "end": 3147
+  }
+ ]
+}
