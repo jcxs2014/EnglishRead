@@ -1,0 +1,55 @@
+{
+ "book": "the-neighbors-are-watching-by-aggie-blum-thompson",
+ "chapter": "ch02",
+ "text": "notes/books/mystery-thriller/the-neighbors-are-watching-by-aggie-blum-thompson/text/ch02_chapter_two.txt",
+ "facts": [
+  {
+   "fact": "Caren 一看见有客人拉住 Jo 就抽身走开。",
+   "anchor": "Walk away from Jo is what I do as soon as an arriving guest catches her attention",
+   "start": 20,
+   "end": 101
+  },
+  {
+   "fact": "新闻把那桩案子说成抢劫失手、一声枪响。",
+   "anchor": "The news had described it as a robbery gone wrong, a shooting",
+   "start": 272,
+   "end": 333
+  },
+  {
+   "fact": "Kenya 请蒙哥马利县警局的警官到社区中心讲安全。",
+   "anchor": "Kenya organized an event with an officer from the Montgomery County police",
+   "start": 459,
+   "end": 533
+  },
+  {
+   "fact": "案子淡成本地传说，凶手始终没抓到。",
+   "anchor": "even though the perpetrator was never caught",
+   "start": 1060,
+   "end": 1104
+  },
+  {
+   "fact": "Caren 被“自愿”提前退休，此后日子找不到意义。",
+   "anchor": "Ever since I was voluntold to take early retirement",
+   "start": 3733,
+   "end": 3784
+  },
+  {
+   "fact": "Yumi 说 Caren 喜欢当那个少不得的人。",
+   "anchor": "You like being indispensable",
+   "start": 4231,
+   "end": 4259
+  },
+  {
+   "fact": "Caren 走到 Allard 家出租屋门前，想起死在这里的保姆。",
+   "anchor": "In front of the Allards’ rental house",
+   "start": 5290,
+   "end": 5327
+  },
+  {
+   "fact": "她听出身后的响动是脚步声。",
+   "anchor": "I recognize it as footsteps",
+   "start": 6125,
+   "end": 6152
+  }
+ ]
+}
