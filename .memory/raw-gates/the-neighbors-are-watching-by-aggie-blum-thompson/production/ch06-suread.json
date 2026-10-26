@@ -1,0 +1,55 @@
+{
+ "book": "the-neighbors-are-watching-by-aggie-blum-thompson",
+ "chapter": "ch06",
+ "text": "notes/books/mystery-thriller/the-neighbors-are-watching-by-aggie-blum-thompson/text/ch06_chapter_five.txt",
+ "facts": [
+  {
+   "fact": "Caren 淋浴时反复念 Miguel 说的那句话（\"It's going to be okay\"），靠这句话稳住自己。",
+   "anchor": "In the shower, I repeat Miguel’s words like a mantra.",
+   "start": 22,
+   "end": 75
+  },
+  {
+   "fact": "Miguel 说她的手机是在厨房找到的，还反问她以为手机在哪；Caren 答不上来，也不记得自己为什么没把手机带在身上。",
+   "anchor": "It was in the kitchen. Why? Where did you think it was?",
+   "start": 1090,
+   "end": 1145
+  },
+  {
+   "fact": "Miguel 声音听着平静，但一直晃车钥匙；Caren 据此判断他比自己表现出来的更担心，而这一点让她害怕。",
+   "anchor": "His voice is calm, but I sense an underlying anxiety in the way he keeps jiggling his keys.",
+   "start": 1230,
+   "end": 1321
+  },
+  {
+   "fact": "Miguel 追问 Finn 是在哪里发现她的，Caren 答不出来，只觉得被追问得头疼。",
+   "anchor": "What about that guy, Finn? Where did he find you?",
+   "start": 1938,
+   "end": 1987
+  },
+  {
+   "fact": "Miguel 解释自己为什么从 Rehoboth 提前回来：半夜开始下雨，他睡不着，雨里也没法重做露台，就开车回家了。",
+   "anchor": "Started raining in the middle of the night,",
+   "start": 3665,
+   "end": 3708
+  },
+  {
+   "fact": "Caren 想不起昨夜，又想到自己一向不生病，除了两次怀孕只在三十岁做过一次紧急阑尾切除手术。",
+   "anchor": "Outside of my pregnancies, I’ve only been hospitalized once, when I was thirty and needed an emergency appendectomy.",
+   "start": 2529,
+   "end": 2645
+  },
+  {
+   "fact": "急诊医生 Dr. Malik 拿着病历夹进来，按记录说她\"摔了一跤\"，要检查她的头。",
+   "anchor": "So, Caren, it says here you had a fall.",
+   "start": 4161,
+   "end": 4200
+  },
+  {
+   "fact": "Dr. Malik 听她说完，仍追问她记不记得昨夜在哪过夜，最后说最好做一些检查。",
+   "anchor": "I think we better run some tests.",
+   "start": 5574,
+   "end": 5607
+  }
+ ]
+}
