@@ -1,0 +1,55 @@
+{
+ "book": "the-mysterious-affair-of-judith-potts-by-robert-thorogood",
+ "chapter": "ch34",
+ "text": "notes/books/mystery-thriller/the-mysterious-affair-of-judith-potts-by-robert-thorogood/text/ch34_chapter_33.txt",
+ "facts": [
+  {
+   "fact": "安吉拉的请柬当天早上才送到",
+   "anchor": "my invitation arrived this morning",
+   "start": 259,
+   "end": 293
+  },
+  {
+   "fact": "安吉拉此前曾向贝克斯和苏齐透露过Lord Harleyford的事",
+   "anchor": "after I tipped you off about him",
+   "start": 498,
+   "end": 530
+  },
+  {
+   "fact": "Lord Harleyford逃进了地狱火洞穴，两人跟丢了",
+   "anchor": "Into the Hellfire Caves",
+   "start": 587,
+   "end": 610
+  },
+  {
+   "fact": "安吉拉认为Lord Harleyford是某种邪教的领袖，与他的先人一样",
+   "anchor": "Lord Harleyford is the ringleader of some sort of cult",
+   "start": 833,
+   "end": 887
+  },
+  {
+   "fact": "安吉拉指出到目前为止死掉的全是男性",
+   "anchor": "it’s only men who’ve died so far",
+   "start": 1017,
+   "end": 1049
+  },
+  {
+   "fact": "安吉拉说自己同样在警方有关系",
+   "anchor": "You’re not the only one with contacts in the police",
+   "start": 2545,
+   "end": 2596
+  },
+  {
+   "fact": "苏齐当面指控Lord Harleyford杀害了加里·怀斯和迈克·萨克森",
+   "anchor": "it’s you who killed Gary Wise. And Mike Saxon as well.",
+   "start": 3993,
+   "end": 4047
+  },
+  {
+   "fact": "地道尽头窄到两人都钻不过去，是一条死路",
+   "anchor": "far too slender for either of them to get through",
+   "start": 9796,
+   "end": 9845
+  }
+ ]
+}
