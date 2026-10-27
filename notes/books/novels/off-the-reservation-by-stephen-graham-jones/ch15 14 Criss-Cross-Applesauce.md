@@ -24,7 +24,7 @@ modified: "2026-10-27"
 - **中文理解**：把他从洞里弄出来的，不是爸爸讲的男孩与祖母的故事，而是烟味。Nate 在潮湿的黑暗中尝到一丝烟味，猛吸一口气——烟味可能意味着香烟，而香烟可能意味着 Sebby 正等在上面，像过去一千次那样递烟给他。
 - **关键词**：gotten him up from the hole、the smoke、a cigarette、like a thousand times before
 - **为什么这样写**：Sebby 是 Nate 活下去的理由——不是父亲的故事，不是火光，而是一根烟。作者用"cigarette"这个最日常的物件作为 Nate 爬出坟墓的动力，把超自然恐怖拉回青春期友谊的地面。
-- **读者视角提示**：Sebby 在 ch11 被月亮人带走、ch14 房车事件后下落不明。这里 Nate 以为火边等他的会是 Sebby，实际等他的却是父亲——这个"错位"为后文"Seb!"的幻影（充气恐龙）和最终获救埋下呼应。
+- **读者视角提示**：Sebby 此刻仍昏迷在 Browning 的医院里。这里 Nate 以为火边等他的会是 Sebby，实际等他的却是父亲——这个"错位"为后文"Seb!"的幻影（充气恐龙）和最终获救埋下呼应。
 
 > **原句 3:** "Nate wasn’t sure when he’d registered that the reason it was so hard to walk forward was that he was dragging something, but, not wanting to lose momentum, he just kept slogging ahead, one foot clapping down and then the next, and the next, the buckbrush all around touching him with light, scratchy fingers. Each time he misjudged how far a limb was and had to close his eyes, though, what he heard was the ticking of a giant clock."
 - **中文理解**：Nate 不确定自己什么时候才意识到走不动是因为拖着什么东西，但他不愿失去动力，只是一脚一脚地继续跋涉，周围的鹿刷灌木用轻盈、扎人的"手指"碰他。每当他判断错树枝的距离而不得不闭眼时，听到的却是一只巨大时钟的滴答声。

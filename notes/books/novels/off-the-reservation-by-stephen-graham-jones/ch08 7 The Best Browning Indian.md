@@ -33,7 +33,7 @@ modified: "2026-10-27"
 - **读者视角提示**：注意「timeless」这个词的双重含义：儿子们永远年轻漂亮，也永远停留在死亡时刻。Mooch 用这种方式保存他们——就像她保存 Conrad 的录像一样，把最爱的人变成不会改变的影像。
 
 > **原句 4:** "Trace Lomas sitting up on that sorrel mare, the horse wheeling back and forth under him, his head switching left and right to watch his livestock, the road, the whole world from the Backbone to the Sweet Grass Hills—Mooch Pease, just fifteen, had fallen in love hard enough that her mom had reached across to squeeze the meat above her knee, trying to scare her off this man."
-- **中文理解**：Trace Lomas 骑在那匹栗色母马上，马在他身下来回转圈，他左右摆头看着他的牲畜、路面、从 Backbone 到 Sweet Grass Hills 的整个世界——十五岁的 Mooch Pease 就这样深深爱上了他，爱到妈妈伸手掐她膝盖上方的肉，想把她从这个男人身边吓走。
+- **中文理解**：Trace Lomas 骑在那匹栗色母马上，马在他身下来回转圈，他左右摆头看着他的牲畜、路面、从 Backbone 到 Sweet Grass Hills 的整个世界——十五岁的 Mooch 就这样深深爱上了他，爱到妈妈伸手掐她膝盖上方的肉，想把她从这个男人身边吓走。
 - **关键词**：sorrel mare、Mooch Pease, just fifteen、fallen in love hard enough
 - **为什么这样写**：这是全书最浪漫的追忆——Mooch 的初恋画面是丈夫在马上放牧，天地开阔。作者用「from the Backbone to the Sweet Grass Hills」这样的地名铺展部落领土的辽阔，让爱情与土地相连。妈妈掐她膝盖的细节又带着日常的幽默，使回忆真实可感。
 - **读者视角提示**：注意 Mooch 说「Love is love is love, and nobody can stand in its way」——这句话在她失去 Trace 之后仍成立。读者应把这段初恋与 ch07 里「Mooch 亲手结束植物人丈夫」并置：她爱得越深，那个决定就越沉重。

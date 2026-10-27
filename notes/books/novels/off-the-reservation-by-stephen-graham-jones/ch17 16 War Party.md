@@ -36,7 +36,7 @@ modified: "2026-10-27"
 - **中文理解**：冰镐划出一道高高的弧线刺出，扎进 Nurse Seine 的左耳，发出清脆的"噗"声，直没到木柄；Seine 那只完好的眼睛突然转向右上方，身体瘫软下去，冰镐尖从她另一只耳朵里探出来。
 - **关键词**：a high arc、stabbing into Nurse Seine’s left ear、a distinct pop、the wooden handle、nosing out from her other ear
 - **为什么这样写**：这是全章最暴力也最利落的一击——Mooch 在电光石火间用冰镐贯穿 Seine 的颅骨。作者用精确到每个部位的动作描写（左耳进、右耳出）让暴力显得手术般干净，而 Seine 体内那个存在甚至来不及反应。
-- **读者视角提示**：读者应把这一击与 Mooch 的动机联系：Seine 体内的东西杀了她的儿子们（包括 Trace）。Mooch 不是疯子，她是在执行复仇——她之前一直不动声色，等的就是这个时机。
+- **读者视角提示**：读者应把这一击与 Mooch 的动机联系：她认定 Seine 害死了她的家人（把丈夫 Trace 拉回毒品、间接害死 Conrad）。Mooch 不是疯子，她是在执行复仇——她之前一直不动声色，等的就是这个时机。
 
 > **原句 5:** "When Nurse Seine sagged, fell forward, her face dragging along the dirt bike tire, turning it, one knob opening her good eye wide enough to tear the skin at each side, Mooch brought her lips right to Nurse Seine’s face, whispered, “That was for Trace,” and Nate nodded that this, actually, was the most Blackfeet thing he had ever witnessed."
 - **中文理解**：Seine 瘫软、向前倒下，脸沿着越野车前轮滑下去，把轮子都带转了，一颗胎钉把她的好眼睛撑得大开，撕裂了眼角两侧的皮肤；Mooch 把嘴唇凑到 Seine 脸前，低语：「那是为了 Trace。」而 Nate 点点头，心想这其实是他见过的最 Blackfeet 的一件事。
@@ -89,7 +89,7 @@ modified: "2026-10-27"
 > **原句 13:** "More than anything, this made Christian’s eyes go terrified. It was like he had been exposed, so was shrinking into himself, curling around whatever was at the center of him, to keep it safe from what was about to happen. He looked over to Nate, his mouth open, tongue-stump spasming in his mouth."
 - **中文理解**：最让 Christian 害怕的是这个——他的假胡子被扯掉了。他像被当场揭穿，缩进自己身体里，蜷曲着护住他中心处的那个东西，想保护它免受即将发生的事伤害。他看向 Nate，嘴巴张着，口腔里的舌根残端痉挛着。
 - **关键词**：eyes go terrified、had been exposed、curling around whatever was at the center of him、tongue-stump spasming
-- **为什么这样写**：Christian 的假胡子被扯掉，暴露了他"伪装的牧师"身份——他的舌头早已被取走，嘴里的舌根残端让 Nate 第一次看清他身体上发生了什么。作者用 "whatever was at the center of him" 暗示 Christian 体内也有东西，他一直在用伪装保护它。
+- **为什么这样写**：Christian 的假胡子被扯掉，暴露了他"伪装的牧师"身份——他的舌头早已被取走，嘴里的舌根残端让 Nate 再次直面他身体上发生过的一切。作者用 "whatever was at the center of him" 暗示 Christian 体内也有东西，他一直在用伪装保护它。
 - **读者视角提示**：读者应想起 ch14 里 Christian 被月亮人取走舌头、被"壳"占据的情节。现在他的假胡子掉了，说明他的"人形"也是拼凑的。他喊出的 "Rn"（Run）虽然残破，却是对 Nate 的真心的警告。
 
 > **原句 14:** "The leading end of the pole caught the closest biker in the chest, pushed him back, the wall of shirts coming down with him, and then Benjamin was shoving Christian behind him, to the door Nate had come in, pulling racks of shirts and spinning racks down behind him. On the way, Christian’s big hand whipped back, clamped over Nate’s right wrist, pulled him with."

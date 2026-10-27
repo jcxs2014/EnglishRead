@@ -18,7 +18,7 @@ modified: "2026-10-27"
 - **中文理解**：Nate 跪倒在狭小的浴室里，把最后一杯代餐饮料吐进马桶，一些从鼻子里热乎乎、黏糊糊地喷出来，让他吐得更厉害，呕出的东西越来越稀。
 - **关键词**：fell to his knees、splashed、hot and stringy
 - **为什么这样写**：开篇用最粗粝的身体细节呈现 Nate 的状态——他的内脏仍在车祸后「重置」，连代餐饮料都消化不了。作者不写他有多痛，只写呕吐物从鼻子喷出这种具体画面，让读者直接感受到他身体被掏空的程度。
-- **读者视角提示**：注意「On his knees」在第一章也出现过（Nate 在雪地里）；作者反复让他跪下，暗示他始终处于乞求、无力的姿态。
+- **读者视角提示**：作者让他一开场就跪在浴室里，暗示他始终处于乞求、无力的姿态。
 
 > **原句 2:** "Doing it fast, before he could stop himself, Nate gathered his hair over his collarbone, wound it tight around his hand like a rope, and chewed at it with the small scissors, pulling tight with his other hand the whole time, his lips thin, drawn back against his teeth."
 - **中文理解**：趁自己还没改变主意，Nate 迅速把头发拢到锁骨前，像绳子一样紧紧缠在手上，用那把剪刀咬着剪，另一只手一直拉紧，嘴唇抿薄，向后贴着牙齿。
@@ -51,7 +51,7 @@ modified: "2026-10-27"
 - **读者视角提示**：这里的安静与后文幻境里篝火的噼啪声形成对比。读者可以留意：Nate 每次在现实中感到死寂，就会滑向超自然的声音世界。
 
 > **原句 7:** "It was the exact day his dad stopped drinking. The week, the month he straightened up. Right before he registered for the classes he’d need to be a cop, years before Nessa, Nate’s little sister down in Great Falls with his mom—Nessa who would never know her dad with a bottle, would only ever know the Good Victor, the Traditional Father, Braid Man, the one learning Blackfoot twice a week and never touching a bottle ever again, except to take it away from someone with car keys."
-- **中文理解**：那天正是父亲戒酒的日子——那是他振作起来的一周、一个月。就在他报名上警察需要的课程之前，也早于 Nessa 出生：Nessa 是 Nate 同母异父的妹妹，住在 Great Falls，永远不会认识那个拿着酒瓶的父亲，只会认识「好维克多」、传统父亲、辫子男人——每周学两次 Blackfoot 语，再也不碰酒瓶，只会把酒瓶从拿着车钥匙的人手里夺走。
+- **中文理解**：那天正是父亲戒酒的日子——那是他振作起来的一周、一个月。就在他报名上警察需要的课程之前，也早于 Nessa 出生：Nessa 是 Nate 的妹妹，住在 Great Falls，永远不会认识那个拿着酒瓶的父亲，只会认识「好维克多」、传统父亲、辫子男人——每周学两次 Blackfoot 语，再也不碰酒瓶，只会把酒瓶从拿着车钥匙的人手里夺走。
 - **关键词**：stopped drinking、straightened up、Good Victor、Braid Man
 - **为什么这样写**：这一长句把父亲的「戒酒日」与 Nate 讲述故事的时间点拉开——Nate 讲的是父亲成为「好维克多」之前的最后一天。作者用「the Good Victor, the Traditional Father, Braid Man」这一串称号塑造父亲浪子回头的形象，让后文他在大角战场的言行更有分量。
 - **读者视角提示**：注意叙述者在这里插入了 Nate 妹妹 Nessa 的信息——说明这段回忆是 Nate 事后反复咀嚼过的。他讲给 Sebby 的故事不只是往事，而是他理解父亲的方式。

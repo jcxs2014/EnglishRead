@@ -36,7 +36,7 @@ modified: "2026-10-27"
 - **中文理解**：D 压低声音说了一句「去你的，Nate Yellow Tail」——那是 Nate 第一次听她说脏话，当时他们十四岁。说完她的眼泪一下子全涌出来，跑去找 Nate 的妈妈；没有人能跑得像 Denorah Cross Guns 那样快。
 - **关键词**：whispered、first cuss words、Denorah Cross Guns
 - **为什么这样写**：这是全章情感最重的一段。D 的脏话不是愤怒，而是劫后余生的爆发；作者用「first cuss words」「they were fourteen」两个细节把两个孩子瞬间压回少年时代。后面「没有人能跑得像 Denorah 那样快」把哀伤写进奔跑里——她跑得越快，越说明 Nate 伤得多重。
-- **读者视角提示**：D 是《The Only Good Indians》里的 Denorah Cross Guns（Nate 的女儿，此处因年龄设定是同龄人/伙伴）。如果读过前作，这里的关系分量会更重；即使没读过，也能从「她跑去找 Nate 的妈妈」读出亲情。
+- **读者视角提示**：D 与前作《The Only Good Indians》的 Denorah Cross Guns 同名同姓——在本书里，她是与 Nate 同龄的恋人、伙伴。如果读过前作，这里的关系分量会更重；即使没读过，也能从「她跑去找 Nate 的妈妈」读出亲情。
 
 > **原句 5:** "It was two tiny deer nosing at the snow just in front of that grabby red bush he’d heard called buckbrush. One of the deers was a girl, one was a guy—he could tell by the tall, symmetrical antlers, and the lack of them on the other one, and how her eyes were somehow feminine, like she had eyeliner on."
 - **中文理解**：那是两只小鹿，正在他听说过叫 buckbrush 的红色灌木前的雪地里拱雪。一只是母的，一只是公的——他靠高大对称的鹿角、另一只没有角，以及母鹿那双像画了眼线的眼睛判断出来。

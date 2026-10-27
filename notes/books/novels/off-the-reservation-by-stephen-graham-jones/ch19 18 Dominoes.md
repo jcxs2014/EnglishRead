@@ -35,7 +35,7 @@ modified: "2026-10-27"
 > **原句 4:** "Nate turned, beheld the dirt bike coming through the wall. “I can get it started,” Benjamin said, and nodded to the jacket Nate was still wearing. “Right pocket.” Nate dug in with his right hand, went to a higher, zippered pocket when his first try was empty. He came up with a leather roll of tools."
 - **中文理解**：Nate 转过身，看见那辆越野车正从墙里出来。「我能把它发动起来。」Benjamin 说，朝 Nate 还穿着的夹克点点头。「右边口袋。」Nate 用右手伸进去，第一次摸空了，又去摸更高处的拉链口袋。他掏出一卷皮制工具包。
 - **关键词**：the dirt bike coming through the wall、I can get it started、Right pocket、a leather roll of tools
-- **为什么这样写**："墙里出来的越野车"带着超现实的意味——这辆破车是唯一的交通工具。Benjamin 对夹克口袋了如指掌，说明这件皮夹克（原本是 Nate 从 Sebby 那里拿的）里的东西已经被他检查过。
+- **为什么这样写**："墙里出来的越野车"带着超现实的意味——这辆破车是唯一的交通工具。Benjamin 对夹克口袋了如指掌，这件皮夹克本来就是他的（ch16 里 Mooch 拿它裹住昏迷的 Nate），口袋里的工具包他自然了如指掌。
 - **读者视角提示**：读者应记住这个"工具包"和皮夹克——Nate 之后会把夹克交给 Benjamin，Benjamin 穿着它被卡车撞成雾。而工具包里的东西，最终用来发动了那辆越野车。
 
 > **原句 5:** "Nate nodded, looking around, and then he finally did what Benjamin’s notebook had told him to: looked out the window, the big one over the booth. Without the curtain, and because it was night, the glass was a mirror, pretty much. What he saw was an astronaut looking back at him. He fell back into the open doorway, had to clap his hands to either side to catch himself."

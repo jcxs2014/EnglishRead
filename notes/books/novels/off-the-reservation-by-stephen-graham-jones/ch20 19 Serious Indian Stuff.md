@@ -83,8 +83,8 @@ modified: "2026-10-27"
 > **原句 12:** "She flashed her eyes over at him, galloped her fingers across the top of the wheel and surged them forward, into this, and the little boy, safe at last, was just looking over the dash, a grin on his face to be going home."
 - **中文理解**：她朝他飞了个眼神，手指在方向盘顶上轻快地跑过，带着他们向前驶去——而那个小男孩，终于安全了，正越过仪表盘望着前方，脸上带着笑，要回家了。
 - **关键词**：galloped her fingers across the top of the wheel、the little boy, safe at last、a grin on his face to be going home
-- **为什么这样写**：结尾把镜头切给 Heavy Runner 男孩——他等了 150 年，终于被一个 Yellow Tail 少年带出卡莱尔、带回家。作者用 "safe at last" 和 "to be going home" 为整本书的苦难画上句号：这个死在他乡的孩子，现在有了归途。
-- **读者视角提示**：读者应意识到这个"小男孩"是双重身份：既是玩偶里的头骨，也是 Nate 内心那个九岁的自己。他们都经历了寄宿学校/医院的噩梦，现在都坐在 D 的车上，朝着 Browning、朝着家、朝着有爱的方向驶去。
+- **为什么这样写**：结尾把镜头切给 Heavy Runner 男孩——他等了一百三十六年，终于被一个 Yellow Tail 少年带出卡莱尔、带回家。作者用 "safe at last" 和 "to be going home" 为整本书的苦难画上句号：这个死在他乡的孩子，现在有了归途。
+- **读者视角提示**：读者应意识到这个"小男孩"是双重身份：既是玩偶里的头骨，也是 Nate 内心那个还没长大的少年。他们都经历了寄宿学校/医院的噩梦，现在都坐在 D 的车上，朝着 Browning、朝着家、朝着有爱的方向驶去。
 
 ## 本章词汇
 
