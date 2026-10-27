@@ -1,0 +1,419 @@
+{
+  "chapter": 14,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/ch14 13 Road King.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/text/ch14_13_road_king.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Benjamin bared his teeth, hissed. Stepping up into this RV was not in his plan. Neither was that homicidal astronaut. Wa",
+          "ok": true,
+          "pos": 877
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She was up on the one-person sleeping shelf, was holding the elastic slats of a black cargo net like the bars of a priso",
+          "ok": true,
+          "pos": 3455
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I remember you,” Mooch said back, staring right into his soul. “You’re the one my brothers took out drinking that time,",
+          "ok": true,
+          "pos": 11840
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"“Shell’s in him,” Mooch said like it was obvious, pointing with her lips to Christian, watching them in the rearview. “",
+          "ok": true,
+          "pos": 12145
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "He opened his mouth, screaming the whole way in to tackle her. It wasn’t stoic or noble or even brave, definitely not ac",
+          "ok": true,
+          "pos": 14648
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "he reached up, wrenched off the first thing his hand could clamp on, and, holding it sideways, popped her fast and hard ",
+          "ok": true,
+          "pos": 15245
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Mooch was already standing back up on the booth to smear the eye-stinging glue over Seine’s left palm and the undersides",
+          "ok": true,
+          "pos": 29009
+        },
+        {
+          "text": "” At zero, she let the hand go. It stayed",
+          "ok": true,
+          "pos": 29291
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "What it came back with, pressing it up against her belly like offering it to him, was a beer can, the top of it, rising,",
+          "ok": true,
+          "pos": 33147
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "It was the notebook Seine assured him hadn’t been in the stolen goods that had come in with the ransackers. He felt less",
+          "ok": true,
+          "pos": 42479
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He was going to be the history professor who saved the boy nobody else from his tribe even knew about. Saved him from bo",
+          "ok": true,
+          "pos": 43215
+        },
+        {
+          "text": "this would make some headlines",
+          "ok": true,
+          "pos": 43540
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Stenciled onto the handle was CARLISLE BARRACKS. He grinned, liked that. A trophy, yes? Yes. He patted the shovel, thank",
+          "ok": true,
+          "pos": 45443
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Jogging up the shoulder, falling once but getting back up, shirtless, one side of his face crusted with dried blood, his",
+          "ok": true,
+          "pos": 47149
+        }
+      ],
+      "words": 33
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 102,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.67
+      }
+    }
+  ],
+  "form": {
+    "h1": "13. Road King",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 11.5,
+    "block_range": [
+      7,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 8514,
+    "block_target": [
+      15,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句6",
+        "kw": "popped her fast and hard on the left temple",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/ch05 4 He Stood Dying.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/text/ch05_4_he_stood_dying.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Nate’s back teeth were officially floating by the time Christian eased them into the Love’s in Williston, North Dakota—e",
+          "ok": true,
+          "pos": 33
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Nate tried to isolate himself, tried again, then pushed, pushed harder, pulsing his breath while trying to look like jus",
+          "ok": true,
+          "pos": 4835
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The main thing Nate knew of her was that her two oldest sons had died in the same year, like dominoes falling over backw",
+          "ok": true,
+          "pos": 9607
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Nate half remembered that, before Christian became a trucker for fifteen years and ended up getting beat up bad by some ",
+          "ok": true,
+          "pos": 7817
+        }
+      ],
+      "words": 88
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Nurse Seine’s big voice came in then, singing loud and proud with Jack Gladstone about these masters of the plains, if t",
+          "ok": true,
+          "pos": 22110
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "It was just enough distraction for Nate to finally let go. His urine burned coming out, but it was the single most glori",
+          "ok": true,
+          "pos": 22566
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He sat up fast, bonking his head on the underside of the ghost bike’s front tire. Someone had recorded over War Party? S",
+          "ok": true,
+          "pos": 28019
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "It was Sebby, whole and alive, at the door of Benjamin Heavy Runner’s cabin. And this, it was all from the angle of one ",
+          "ok": true,
+          "pos": 30033
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "After he caught it, turned away to negotiate with the door, then there was Nate, looking right at himself, his face so b",
+          "ok": true,
+          "pos": 30299
+        }
+      ],
+      "words": 91
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The screen was already dying like these old sets did, though, which wasn’t all at once but a slow contraction down to a ",
+          "ok": true,
+          "pos": 30846
+        }
+      ],
+      "words": 80
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 100,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 104,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 74
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.65
+      }
+    }
+  ],
+  "form": {
+    "h1": "4. He Stood Dying",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 11.5,
+    "block_range": [
+      7,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5722,
+    "block_target": [
+      10,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

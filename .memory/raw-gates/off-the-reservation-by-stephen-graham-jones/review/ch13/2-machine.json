@@ -1,0 +1,359 @@
+{
+  "chapter": 13,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/ch13 12 For Your Next Stunt.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/text/ch13_12_for_your_next_stunt.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The woman standing at the door of the motor coach is",
+          "ok": true,
+          "pos": 44
+        },
+        {
+          "text": "unexpected. Deviations can be good, though. You’re proof of that. The woman looks to be six decades old, but, walking up",
+          "ok": true,
+          "pos": 98
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "\"When the nurse opens her mouth, her hot, roiling insides splash out onto the side of the woman’s face. Her vomit wraps ",
+          "ok": true,
+          "pos": 5854
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "One of those blunt fingers enters under her jaw, just behind the chin, and comes out through her left eye, that eye hang",
+          "ok": true,
+          "pos": 7528
+        },
+        {
+          "text": "what? This is delicious",
+          "ok": true,
+          "pos": 7724
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The moment this jester leans back to better see and try to make sense of this dirt bike and your tenuous association wit",
+          "ok": true,
+          "pos": 12792
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "This is why the boys at the school were so perfect, wasn’t it? They were the teachers, actually, opening up a whole new ",
+          "ok": true,
+          "pos": 18711
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Stand there and listen to him sob his life into the soil. Given other circumstances, this could last all night, couldn’t",
+          "ok": true,
+          "pos": 19643
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The other end of the wire bisects this officer’s throat so neatly that at first there’s just a red line her hand can clu",
+          "ok": true,
+          "pos": 25646
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "\"“Connie?” she’s saying across to you. You’re the only one she has eyes for. “Backup is coming!” the officer’s screaming",
+          "ok": true,
+          "pos": 24967
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Because the real eyes, the eyes trying to spear your chest through, are in a fabric panel hidden in the neck of this spe",
+          "ok": true,
+          "pos": 26876
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He’s waiting for your next stunt, isn’t he? Bare your teeth at him and growl. Nod to him that it’s going to be a good tr",
+          "ok": true,
+          "pos": 27947
+        }
+      ],
+      "words": 31
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 99,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. For Your Next Stunt",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 11.5,
+    "block_range": [
+      7,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5095,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 12、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

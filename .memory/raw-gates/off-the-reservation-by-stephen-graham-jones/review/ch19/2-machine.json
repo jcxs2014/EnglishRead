@@ -1,0 +1,510 @@
+{
+  "chapter": 19,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/ch19 18 Dominoes.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/text/ch19_18_dominoes.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "When he’d fallen into that hole under the flagpole, some of that dirt must have found its way into his mouth, and",
+          "ok": true,
+          "pos": 223
+        },
+        {
+          "text": "and he swallowed it, was only just now spitting it back up",
+          "ok": true,
+          "pos": 337
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Then he was holding Nate’s eyes for a moment, his eyes somehow like Nate’s mom’s when she’d come to see him in the hospi",
+          "ok": true,
+          "pos": 6899
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“He only bought enough to get us here!” Benjamin said, balling the receipt up and throwing it down. “What the hell? Why?",
+          "ok": true,
+          "pos": 7993
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Nate turned, beheld the dirt bike coming through the wall. “I can get it started,” Benjamin said, and nodded to the jack",
+          "ok": true,
+          "pos": 9382
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Nate nodded, looking around, and then he finally did what Benjamin’s notebook had told him to: looked out the window, th",
+          "ok": true,
+          "pos": 15021
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "he hadn’t been knocked out for minutes or even hours in that grave under the flagpole. He’d climbed out almost right aft",
+          "ok": true,
+          "pos": 15935
+        },
+        {
+          "text": "and he’d climbed that ladder up the back of the Sundancer! How could he have forgotten that",
+          "ok": true,
+          "pos": 16293
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Nate, he’d been infected, inhabited ever since Carlisle, hadn’t he? Even when he thought he was just him, Father X had b",
+          "ok": true,
+          "pos": 18504
+        }
+      ],
+      "words": 92
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“What do you mean?” KellyKel snapped back. “Your text said to call you? It’s about the Spear Woman boy. Dr. Rodge pronou",
+          "ok": true,
+          "pos": 21540
+        },
+        {
+          "text": "” Nate didn’t hear the rest, had already lowered the phone. Sebby. Tears were coming down Nate’s face, his throat was co",
+          "ok": true,
+          "pos": 21728
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Say you’re a Heavy Runner?” Nate said to the space Benjamin Heavy Runner had just been occupying. Then, with a Yellow T",
+          "ok": true,
+          "pos": 25162
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "It made him drag his eyes to the right, up the hill. Up Last Stand Hill. This was Greasy Grass. Little Bighorn at night.",
+          "ok": true,
+          "pos": 25676
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "It was so sharp, wasn’t at all like Doby’s scissors at the hospital. It would do the job. Some ranger would find him in ",
+          "ok": true,
+          "pos": 27813
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "The metal tearing him open rolled him over onto his side to curl around the pain, but he made himself keep digging with ",
+          "ok": true,
+          "pos": 34049
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "This wasn’t just pee, he realized. Or, where he was peeing from, it was his soul, his whole self, that was where this co",
+          "ok": true,
+          "pos": 35567
+        }
+      ],
+      "words": 82
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Nate fell to his knees, stabbed the ice pick into the ground as hard as he could once, twice, splashing right into the b",
+          "ok": true,
+          "pos": 36448
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Way down where the headstones stopped was a dull orange, spotted dinosaur, its skin vinyl and inflated. “This is where w",
+          "ok": true,
+          "pos": 38802
+        }
+      ],
+      "words": 72
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 128,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 114,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.45,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 87,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 74
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 107,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 75
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 120,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.68
+      }
+    }
+  ],
+  "form": {
+    "h1": "18. Dominoes",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 11.5,
+    "block_range": [
+      7,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 18,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 2,
+    "hole": 0,
+    "block_count": 0,
+    "words": 7227,
+    "block_target": [
+      13,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句6",
+        "kw": "He’d climbed out almost right after he fell in",
+        "words": 9
+      },
+      {
+        "block": "原句6",
+        "kw": "climbed that ladder up the back of the Sundancer",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

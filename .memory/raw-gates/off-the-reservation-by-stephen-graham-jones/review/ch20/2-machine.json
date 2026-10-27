@@ -1,0 +1,439 @@
+{
+  "chapter": 20,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/ch20 19 Serious Indian Stuff.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/text/ch20_19_serious_indian_stuff.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It wasn’t yet dawn, but Nate could see the glow when he looked over his shoulder. He’d been walking the shoulder for fiv",
+          "ok": true,
+          "pos": 46
+        }
+      ],
+      "words": 92
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "On Nate’s hip was the boy doll. Not the one that had been blasted apart with Benjamin Heavy Runner. That one had just be",
+          "ok": true,
+          "pos": 669
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "When the first car or truck welled up behind him, he held his thumb out but it swept past, at least being kind enough to",
+          "ok": true,
+          "pos": 2713
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "But then those brake lights flared in the very last of the night. Nate picked up his pace, tried to jog even though it r",
+          "ok": true,
+          "pos": 3664
+        }
+      ],
+      "words": 92
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The driver was sitting behind the wheel, her left leg in a brace and bandages and more, and her hair was down for once, ",
+          "ok": true,
+          "pos": 4207
+        }
+      ],
+      "words": 90
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "D made a show of looking down to the doll, said with a halfway grin, “I leave for one year and you’re a weirdo? More of ",
+          "ok": true,
+          "pos": 5657
+        },
+        {
+          "text": "a rough year so far,” Nate said. “Well, you’re awake and walking,” she said, catching his eyes for a moment, telling him",
+          "ok": true,
+          "pos": 5806
+        },
+        {
+          "text": "my face,” he muttered. “That?” D said, insulted, and leaned over, framed her cheek with her V’d fingers so Nate could se",
+          "ok": true,
+          "pos": 5963
+        }
+      ],
+      "words": 99
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Sebby, he",
+          "ok": true,
+          "pos": 6306
+        },
+        {
+          "text": "he died yesterday,” Nate said then, because he had to. D let this settle. “I liked him,” she finally said. “He was alway",
+          "ok": true,
+          "pos": 6317
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Think I found my, you know,” he said, shrugging like it was no big. “My animal helper, yeah?” “Please don’t say wolf,” ",
+          "ok": true,
+          "pos": 6508
+        }
+      ],
+      "words": 81
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Didn’t want to,” D said, switching hands on the wheel to see him better in the new light. “A couple of whitetail were i",
+          "ok": true,
+          "pos": 7292
+        }
+      ],
+      "words": 92
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "He cleared his throat, trying to swallow the cough wanting to erupt, but it was coming, and it was turning into an ugly ",
+          "ok": true,
+          "pos": 8825
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "D straightened her arm against the wheel to adjust something with her surgery leg. “You’re not broken,” she said, quiete",
+          "ok": true,
+          "pos": 9948
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She flashed her eyes over at him, galloped her fingers across the top of the wheel and surged them forward, into this, a",
+          "ok": true,
+          "pos": 10456
+        }
+      ],
+      "words": 44
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 107,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 123,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 118,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 120,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 140,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 114,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 123,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 74
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.76
+      }
+    }
+  ],
+  "form": {
+    "h1": "19. Serious Indian Stuff",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 11.5,
+    "block_range": [
+      7,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 4,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2030,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句3",
+        "kw": "an empty beef jerky bag tied around his forearm",
+        "words": 9
+      },
+      {
+        "block": "原句9",
+        "kw": "A couple of whitetail were in the road blocking everything u",
+        "words": 11
+      },
+      {
+        "block": "原句12",
+        "kw": "galloped her fingers across the top of the wheel",
+        "words": 9
+      },
+      {
+        "block": "原句12",
+        "kw": "a grin on his face to be going home",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

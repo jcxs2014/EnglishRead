@@ -1,0 +1,408 @@
+{
+  "chapter": 3,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/ch03 2 The Reverse Massacre.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/off-the-reservation-by-stephen-graham-jones/text/ch03_2_the_reverse_massacre.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Nate fell to his knees in the tiny bathroom, splashed his last shake out into the toilet, some of it coming out hot and ",
+          "ok": true,
+          "pos": 45
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Doing it fast, before he could stop himself, Nate gathered his hair over his collarbone, wound it tight around his hand ",
+          "ok": true,
+          "pos": 3723
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Nate had been thinking in signs like this for about three weeks now. It was from that Big Chicken Detective cartoon that",
+          "ok": true,
+          "pos": 4645
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "At which point he realized the worst thing was happening: Sebby was gone. He wasn’t in his bed",
+          "ok": true,
+          "pos": 14451
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Nate looked all around the room again because he had to be missing something obvious, then, not sure if he should, he re",
+          "ok": true,
+          "pos": 15260
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Nothing happened. No alarm down at the nurse desk. It was just quieter, now. No sound at all",
+          "ok": true,
+          "pos": 15444
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It was the exact day his dad stopped drinking. The week, the month he straightened up. Right before he registered for th",
+          "ok": true,
+          "pos": 19952
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "At the horse cemetery right at the top of the hill Custer died on, though, Nate’s dad dropped to a knee and lowered his ",
+          "ok": true,
+          "pos": 23496
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "and then he unfolded his knife and cut a long, slow slice into his forearm to make his forever promise to straighten up,",
+          "ok": true,
+          "pos": 25821
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Who Nate ran into, the old man solid like a tree, was his granddad, the one he’d never known. His face was craggy and ha",
+          "ok": true,
+          "pos": 33599
+        },
+        {
+          "text": "coming up from his head was a headdress, the Blackfeet kind, which is all feathers straight up, and some fur tails or so",
+          "ok": true,
+          "pos": 33755
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "It was Sebby in his hospital gown, his long hair hanging down his back, that dinosaur costume peeled down to his waist. ",
+          "ok": true,
+          "pos": 35365
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "There in the center of his palm were the concentric burn-circles of a cigarette lighter from a dashboard. He swallowed, ",
+          "ok": true,
+          "pos": 37695
+        }
+      ],
+      "words": 59
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.42,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 110,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.6
+      }
+    }
+  ],
+  "form": {
+    "h1": "2. The Reverse Massacre",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 11.5,
+    "block_range": [
+      7,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 7176,
+    "block_target": [
+      13,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 11、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
