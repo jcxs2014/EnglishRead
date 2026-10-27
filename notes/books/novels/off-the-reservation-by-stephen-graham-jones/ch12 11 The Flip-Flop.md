@@ -26,7 +26,7 @@ modified: "2026-10-27"
 - **为什么这样写**：那个「褪色较少的人形轮廓」说明白色连体服在车尾挂了很久——它是 ch04 里那套「Indian Evel Knievel」戏服。它的消失意味着某种东西离开了车，而 Mooch 不但没生气，反而「喜不自胜」。这个反常反应暗示：Mooch 知道那套衣服里住着什么，她乐见它离开。
 - **读者视角提示**：读者应把「戏服消失」与 ch11 的「月亮人」联系起来——它离开了房车，去狩猎新的家庭。而 Mooch 的「高兴」可能因为她以为危险已经走了，但事实并非如此。
 
-> **原句 3:** ""“He’s gonnnne!” she wailed, moaned, her words echoing up from some deep well of grief in her chest. “Who?” Christiana asked—who was mostly in the back of the throat and the lips, was one of the few words that still sort of worked."
+> **原句 3:** "“He’s gonnnne!” she wailed, moaned, her words echoing up from some deep well of grief in her chest. “Who?” Christiana asked—who was mostly in the back of the throat and the lips, was one of the few words that still sort of worked."
 - **中文理解**：「他不——见了！」她哀嚎、呜咽，声音从胸中某个深深的悲伤之井里涌上来。「谁？」Christiana 问——「谁」这个词大半靠喉咙和嘴唇发出，是她仅剩的还能勉强说出的词之一。
 - **关键词**：He’s gonnnne、deep well of grief、few words that still sort of worked
 - **为什么这样写**：Mooch 的「他不见了」既指手机里的「Conrad 声音」断了，也可能指她意识到 Conrad 已经彻底离开。作者用「deep well of grief」把她的哀嚎具象成从井底涌上来的声音——她一直把悲伤压在最深处，现在压不住了。
@@ -50,7 +50,7 @@ modified: "2026-10-27"
 - **为什么这样写**：Christiana 的舌头被偷走了——那个存在不仅拿走她的「舌头」，还把她用圣经制作的「容器」复原成普通圣经，彻底抹去她保存自己的方式。她的尖叫唤回被攻击那天的记忆，说明这不仅是失去器官，更是重新经历创伤。
 - **读者视角提示**：读者应把「舌头失踪」与 ch11 里「甩掉舌头」的动作连接：那个存在认为她的舌头「没用」了，因为它已经找到更好的载体（骨粉）。这趟旅程里，每个人最珍视的东西都在被系统性地剥夺。
 
-> **原句 7:** ""But she had been paying attention to the wrong part of what he’d said, hadn’t she? That’s why he was in her head again. “Vrr,” she grunted—veer, veer veer veer—and, because it was the only thing that might work, their only snowball’s chance in this specific hell, she took her father’s advice and, against rationality, against instinct and training and experience, she veered: instead of keeping her foot on the brake to sap their speed, she did the only thing that might save them, took the only chance they had: she punched it, drove them straight the hell out of this death-spin, launching them off the road completely"
+> **原句 7:** "But she had been paying attention to the wrong part of what he’d said, hadn’t she? That’s why he was in her head again. “Vrr,” she grunted—veer, veer veer veer—and, because it was the only thing that might work, their only snowball’s chance in this specific hell, she took her father’s advice and, against rationality, against instinct and training and experience, she veered: instead of keeping her foot on the brake to sap their speed, she did the only thing that might save them, took the only chance they had: she punched it, drove them straight the hell out of this death-spin, launching them off the road completely"
 - **中文理解**：但她一直听错了父亲话里的重点，不是吗？所以他才又回到她脑海里。「Vrr——」她咕哝着——转向，转向转向转向——因为这是唯一可能管用的办法，是他们在这一特定地狱里唯一的渺茫机会；她听从父亲的建议，违背理性、本能、训练和经验，打了方向：不再踩刹车消耗速度，而是做了唯一可能救他们的选择——踩下油门，把车直直开出这致命的旋转，彻底冲下公路。
 - **关键词**：paying attention to the wrong part、veer、punched it、death-spin
 - **为什么这样写**：这是全章最激动人心的驾驶场面——Christiana 在失控中想起父亲「可以站上讲坛」的期望，却把它转译成「转向」的指令。作者用「Vrr, veer veer veer」的声音把父亲的期望变成救命的咒语。她违背所有驾驶常识踩油门冲出旋转，这个决定既是技术上的赌命，也是心理上的反叛。

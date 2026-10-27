@@ -32,7 +32,7 @@ modified: "2026-10-27"
 - **为什么这样写**：Mooch 用「white Indian」这个称呼揭开了 Benjamin 的身份伤疤——他不是在保留区长大的，他的印第安身份在族人眼里「不够真」。这个称呼直接击中 Benjamin 的软肋，也解释了为什么他如此执着于成为「拯救男孩的英雄」：他想证明自己比谁都 Blackfeet。
 - **读者视角提示**：读者应把这段与 ch14 后面 Benjamin 反复否认自己是「spooky Indian」对照——他越否认，越说明他害怕被看作「不够格」或「太迷信」。Mooch 的记性比任何人想的都好。
 
-> **原句 4:** ""“Shell’s in him,” Mooch said like it was obvious, pointing with her lips to Christian, watching them in the rearview. “This”—Seine—“is going to be my middle one, I’m pretty sure. He was always sneaky. And you left my youngest back there. But he’s coming, don’t you worry. He already called me once.”"
+> **原句 4:** "“Shell’s in him,” Mooch said like it was obvious, pointing with her lips to Christian, watching them in the rearview. “This”—Seine—“is going to be my middle one, I’m pretty sure. He was always sneaky. And you left my youngest back there. But he’s coming, don’t you worry. He already called me once.”"
 - **中文理解**：「壳在他身上。」Mooch 用嘴唇朝 Christian 努了努，仿佛这是明摆着的事——Christian 正从后视镜里看着他们。「这个——」她指指 Seine，「大概会是我中间那个儿子。他一直很狡猾。而你把我最小的儿子留在了那边。不过他会来的，别担心。他已经给我打过一次电话了。」
 - **关键词**：Shell’s in him、my middle one、He already called me once
 - **为什么这样写**：Mooch 的「疯话」其实是全书最接近真相的解释——Christian 的体内也有一个「壳」（他的舌头被取走、又被月亮人利用），而 Seine 现在装着 Mooch 死去的儿子之一。作者让最「疯」的角色说出最核心的秘密，这是典型的 horror 叙事手法：真理藏在精神错乱里。

@@ -69,7 +69,7 @@ modified: "2026-10-27"
 - **读者视角提示**：读者应把白尾鹿与 ch11 的"小人物"（little people）联系起来——它们一直在引导 Nate 的命运。D 以为只是巧合，Nate 知道不是。
 
 > **原句 10:** "He cleared his throat, trying to swallow the cough wanting to erupt, but it was coming, and it was turning into an ugly gag from way deep down. He leaned forward to keep it from the seat between his legs or the back of the doll’s neck, but then he caught it in his right hand."
-- **中文理解**：他清了清喉咙，想咽下那声要爆发的咳嗽，但它还是来了，从极深处变成一声难看的干呕。他向前倾身，免得吐在双腿间的座位上或玩偶的脖子后面，但他用右手接住了它。
+- **中文理解**：他清了清喉咙，想咽下那声要爆发的咳嗽，但它还是来了，从极深处变成一声难看的干呕。他向前倾身，免得吐在双腿间的座位上或玩偶的脖子后面，但他用右手接住了它——张开后掌心里不是他预想中的墓土，而是一颗子弹（他随即把它丢出车窗）。
 - **关键词**：swallow the cough wanting to erupt、an ugly gag from way deep down、the back of the doll’s neck、caught it in his right hand
 - **为什么这样写**：这是全书的"最后一次咳嗽"——Nate 一直在咳土（Father X 的残骸），但这次他接住的东西会不一样。作者用"难看的干呕"和"接在手里"两个动作，把读者悬在期待与恐惧之间：他手里到底会是什么？
 - **读者视角提示**：读者应把这次咳嗽与 ch19 里 Nate 反复咳土联系起来——他的身体一直在排出 Father X 的残骸。D 没有追问，只是让他继续走；她不知道 Nate 刚经历了什么，却给了他最需要的平静。

@@ -32,7 +32,7 @@ modified: "2026-10-27"
 - **为什么这样写**：Nate 的「误打误撞」被对手当作真本事——在九球规则里，他那一杆失误球反而以最不可能的角度落袋。作者用这个「幸运」暗示 Nate 身上某种超自然的力量正在运作（如同那对小鹿），也让 Seine 后来把他当「工具」更有说服力：他是被命运选中的棋子。
 - **读者视角提示**：注意对手之前还「手指肿胀变形」，此刻却「笔直如五十年前」——这与后文蓝眼睛的转移一样，都是 trickster 世界的规则。读者应意识到：这个台球厅里的「老人」们可能都不是普通人。
 
-> **原句 4:** ""“They say it was the mummy who was killing them all,” he went on in his old-man way. “That when Pratt first showed up from the train, this mummy was already living in the big house, and even when he moved over into the barracks with the other teachers, he still kept burying all those kids over there.”"
+> **原句 4:** "“They say it was the mummy who was killing them all,” he went on in his old-man way. “That when Pratt first showed up from the train, this mummy was already living in the big house, and even when he moved over into the barracks with the other teachers, he still kept burying all those kids over there.”"
 - **中文理解**：老人用他特有的慢悠悠语调继续说：「他们说，是那个木乃伊把他们都杀了。普拉特第一次下火车时，那个木乃伊就已经住在那栋大房子里了；后来普拉特搬到教师营房，也还是继续把那些孩子埋在那下面。」
 - **关键词**：mummy、killing them all、Pratt first showed up、burying all those kids over there
 - **为什么这样写**：这是全书历史恐怖的核心——Carlisle 寄宿学校的创建者普拉特（Pratt）被老人讲成「木乃伊」，一个不是人、只是长得像人的存在。作者把「杀印第安孩子」的史实包裹进民间怪谈，让恐怖既有超自然的形状，又有历史的实底。
@@ -92,13 +92,13 @@ modified: "2026-10-27"
 - **为什么这样写**：这是全书最大的反转之一——被宣告车祸身亡的 Benjamin Heavy Runner 还活着，而且在电话另一头。作者用「no 'we' anymore」这句话同时击碎两样东西：Nate 以为的「四人小队」从来不是四个人，而他刚刚挖出来的「遗骨」也许另有身份。
 - **读者视角提示**：注意 Benjamin 对 Nate 的称呼「Yellow Tail」——与 Seine 第一次用他姓氏时的郑重不同，这里带着轻蔑与掌控。读者应意识到：Nate 从一开始就被 Benjamin 和 Seine 设计，他只是计划里最方便的工具。
 
-> **原句 14:** ""“And there’ll still be four Blackfeet coming home, won’t there?” Benjamin Heavy Runner said."
+> **原句 14:** "“And there’ll still be four Blackfeet coming home, won’t there?” Benjamin Heavy Runner said."
 - **中文理解**：「而且仍然会有四个 Blackfeet 回家，不是吗？」Benjamin Heavy Runner 说。
 - **关键词**：four Blackfeet coming home
 - **为什么这样写**：Benjamin 用「四个 Blackfeet」重新定义了任务——不是 Nate + Seine + Mooch + Christian 四个人，而是 Nate、Sebby、男孩的遗骨，加上……某种第四个存在。这句话让「神圣的四」变成讽刺：他们为「带男孩回家」而来，而 Benjamin 计算的是「回家的总数」。
 - **读者视角提示**：读者应把这句与 Seine 在 ch02 说的「four is sacred」对照——同一个数字，在 Seine 嘴里是召唤，在 Benjamin 嘴里是安排。Nate 在这一刻明白自己被骗了，但已经太晚。
 
-> **原句 15:** ""“Turns out it was just one little Indian did all this,” Benjamin Heavy Runner said through the phone, Nurse Seine already bringing that little granite clock hard into the side of Nate’s head, to crack his world open."
+> **原句 15:** "“Turns out it was just one little Indian did all this,” Benjamin Heavy Runner said through the phone, Nurse Seine already bringing that little granite clock hard into the side of Nate’s head, to crack his world open."
 - **中文理解**：「原来这一切只是一个印第安人干的。」Benjamin Heavy Runner 在电话里说。Seine 护士已经举起那块小花岗岩钟，重重砸向 Nate 的太阳穴，要把他的世界砸裂。
 - **关键词**：just one little Indian did all this、little granite clock、crack his world open
 - **为什么这样写**：结尾两件事同时发生：Benjamin 用「一个印第安人」轻描淡写地抹掉 Nate 的全部挣扎，而 Seine 用 ch01 里那块来自木屋的小钟砸向他。这块钟是全书的第一个「赃物」，也是 Nate 和 Sebby 罪行的起点——现在它成了 Seine 的武器，象征 Nate 被自己的过去反噬。

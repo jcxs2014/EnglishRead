@@ -33,7 +33,7 @@ modified: "2026-10-27"
 - **读者视角提示**：注意「timeless」这个词的双重含义：儿子们永远年轻漂亮，也永远停留在死亡时刻。Mooch 用这种方式保存他们——就像她保存 Conrad 的录像一样，把最爱的人变成不会改变的影像。
 
 > **原句 4:** "Trace Lomas sitting up on that sorrel mare, the horse wheeling back and forth under him, his head switching left and right to watch his livestock, the road, the whole world from the Backbone to the Sweet Grass Hills—Mooch Pease, just fifteen, had fallen in love hard enough that her mom had reached across to squeeze the meat above her knee, trying to scare her off this man."
-- **中文理解**：Trace Lomas 骑在那匹栗色母马上，马在他身下来回转圈，他左右摆头看着他的牲畜、路面、从 Backbone 到 Sweet Grass Hills 的整个世界——十五岁的 Mooch 就这样深深爱上了他，爱到妈妈伸手掐她膝盖上方的肉，想把她从这个男人身边吓走。
+- **中文理解**：Trace Lomas 骑在那匹栗色母马上，马在他身下来回转圈，他左右摆头看着他的牲畜、路面、从 Backbone 到 Sweet Grass Hills 的整个世界——十五岁的 Mooch Pease 就这样深深爱上了他，爱到妈妈伸手掐她膝盖上方的肉，想把她从这个男人身边吓走。
 - **关键词**：sorrel mare、Mooch Pease, just fifteen、fallen in love hard enough
 - **为什么这样写**：这是全书最浪漫的追忆——Mooch 的初恋画面是丈夫在马上放牧，天地开阔。作者用「from the Backbone to the Sweet Grass Hills」这样的地名铺展部落领土的辽阔，让爱情与土地相连。妈妈掐她膝盖的细节又带着日常的幽默，使回忆真实可感。
 - **读者视角提示**：注意 Mooch 说「Love is love is love, and nobody can stand in its way」——这句话在她失去 Trace 之后仍成立。读者应把这段初恋与 ch07 里「Mooch 亲手结束植物人丈夫」并置：她爱得越深，那个决定就越沉重。
@@ -56,7 +56,7 @@ modified: "2026-10-27"
 - **为什么这样写**：「加仑泡菜罐」与「骨灰」的组合是全书最刺眼的并置之一——死亡被装进最日常的容器。作者用「had to wait for a ride」点出 Mooch 的孤独：她连领取儿子骨灰都需要蹭别人的车。这解释了为什么她明知 Seine 是「仇人」仍要上这辆房车。
 - **读者视角提示**：注意泡菜罐——它廉价、密封、可以随时打开。Mooch 抱着它就像抱着 Conrad 本人。读者可以把「罐子」与「手机」并置：骨灰罐是实体，手机是声音，Mooch 用两样东西同时抓着儿子。
 
-> **原句 8:** ""“I’m gonna make that jump for him next summer,” the boy said back. Conrad had never told her this was his boyfriend, but some things a mom just knows. “No,” Mooch said, kissing him and pushing him away at the same time. “You’re not, do you hear me? He wouldn’t want you to."
+> **原句 8:** "“I’m gonna make that jump for him next summer,” the boy said back. Conrad had never told her this was his boyfriend, but some things a mom just knows. “No,” Mooch said, kissing him and pushing him away at the same time. “You’re not, do you hear me? He wouldn’t want you to."
 - **中文理解**：男孩回答：「明年夏天我要替他完成那次跳跃。」Conrad 从没告诉过她这是他的男友，但有些事情当妈的心里有数。「不。」Mooch 一边亲他一边把他推开，「你不许去，听见了吗？他不会想让你去的。」
 - **关键词**：make that jump for him、his boyfriend、kissing him and pushing him away
 - **为什么这样写**：这是全章最动人的转折——Mooch 刚刚拿到儿子的骨灰，紧接着就否决了儿子爱人「替他赴死」的计划。她用吻和推开的矛盾动作表达爱：她需要这个男孩活着，就像她希望 Conrad 活着一样。这句话也反过来定义了 Conrad 的性格：他宁愿死也要证明自己。

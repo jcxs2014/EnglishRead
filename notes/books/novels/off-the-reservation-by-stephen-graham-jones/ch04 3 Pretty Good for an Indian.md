@@ -47,7 +47,7 @@ modified: "2026-10-27"
 > **原句 6:** "“Where even is this… this boarding school?” he asked, which meant she had him. He was in. “Carlisle, Pennsylvania,” Seine intoned, all the blood rushing to her face."
 - **中文理解**：Nate 问：「那所寄宿学校到底在哪儿？」——这个问题意味着她已经说动他了。他加入了。Seine 郑重地说出「Carlisle, Pennsylvania」，血一下子涌上她的脸。
 - **关键词**：Where even is this、had him、Carlisle, Pennsylvania
-- **为什么这样写**：Nate 不问「为什么」而问「在哪儿」——这是全书最关键的转折信号：他不再评估任务是否合理，开始考虑怎么去。Seine 激动到脸发烫，因为她等了四个月、设了无数次局，终于等来这句话。
+- **为什么这样写**：Nate 不问「为什么」而问「在哪儿」——这是全书最关键的转折信号：他不再评估任务是否合理，开始考虑怎么去。Seine 激动到脸发烫——她连着几个夜班守在病房、偷走笔记本，全都是为这一刻。
 - **读者视角提示**：注意「He was in」这个短句是从 Seine 的视角下的判断。读者应意识到：Nate 的「加入」此刻还很脆弱，他真正的动机是想带回 Sebby，而不是认同任务本身。
 
 > **原句 7:** "“You can’t know bringing this kid back’ll bring Sebby back too,” Nate finally said, hardly loud enough to make it past his lips. “But it might,” Seine said back, just as quiet."

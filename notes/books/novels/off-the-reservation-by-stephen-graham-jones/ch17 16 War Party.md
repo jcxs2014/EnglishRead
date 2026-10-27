@@ -18,7 +18,7 @@ modified: "2026-10-27"
 - **中文理解**：他等着，听着，更用力地听，然后——又是"滴答"——一只巨大时钟的指针，落进下一秒。他现在是在一只巨钟的里面吗？
 - **关键词**：listened harder、the hand of a great clock、falling over into the next second、A great clock he was inside
 - **为什么这样写**：开篇把 Nate 的处境凝练成"身处巨钟之内"——他在 ch15 被 Seine 用时钟砸头，现在他的整个意识世界都变成了那座钟。作者用拟声词 "tick" 直接模拟 Nate 听到的声音，也让读者进入他受损的知觉。
-- **读者视角提示**：这座"巨钟"呼应 ch15 里"giant clock"的滴答声——那是 Nate 颅骨伤的记忆残留。读者应意识到：Nate 现在不是清醒的，他的现实感正在被那座钟、录像带和药物共同侵蚀。
+- **读者视角提示**：这座"巨钟"呼应 ch15 里"giant clock"的滴答声——那是 Nate 颅骨伤的记忆残留。读者应意识到：Nate 现在不是清醒的，他的现实感正在被那座钟、录像带和药物共同侵蚀。（后文会揭示：这滴答声其实是 Mooch 被压住的右手中冰镐尖端敲墙的实体声——是她求生的信号。）
 
 > **原句 2:** "He was dimly aware that War Party had just rewound again, was starting over for the… second time? Third? It was how this little player worked—or, it was how it worked now: when it got to the end of the movie, automatic rewind would start, spin furiously like its boss was watching, slam to a stop when there was nothing else to pull…"
 - **中文理解**：他隐约知道《War Party》刚又倒带了，正要重新开始——这是第二遍？第三遍？这台小播放器就是这样工作的——或者说，它现在就是这样工作的：当电影放到结尾，自动倒带就会启动，疯狂旋转，像老板在盯着，到没有东西可拉时砰地停住……

@@ -20,7 +20,7 @@ modified: "2026-10-27"
 - **为什么这样写**：开篇的「You're proof of that」是全书最直白的自我揭示——这个存在本身就是「偏差」的产物。作者用老妇人「轻快的脚步」先给读者一个可爱、无害的印象，然后迅速让她成为杀戮对象，这种反差强化了反派的冷酷。
 - **读者视角提示**：注意「偏差可以是好事」——这句话暗示这个存在享受意外，它不按计划杀人，而是被现场的可能性吸引。读者应意识到：它的杀戮不是复仇，是「品味」。
 
-> **原句 2:** ""When the nurse opens her mouth, her hot, roiling insides splash out onto the side of the woman’s face. Her vomit wraps its runny fingers around her neck and then thrusts deeper, down the front of her tasteful shirt, and she would be falling away already, but the nurse’s hand is clamped on her shoulder."
+> **原句 2:** "When the nurse opens her mouth, her hot, roiling insides splash out onto the side of the woman’s face. Her vomit wraps its runny fingers around her neck and then thrusts deeper, down the front of her tasteful shirt, and she would be falling away already, but the nurse’s hand is clamped on her shoulder."
 - **中文理解**：当护士张开嘴，她滚烫翻腾的内脏溅到女人脸上。呕吐物像手指一样缠住女人的脖子，又更深地涌进她得体的衬衫前襟；她本已要倒下，但护士的手紧紧钳住她的肩膀。
 - **关键词**：hot, roiling insides、vomit wraps its runny fingers、hand is clamped on her shoulder
 - **为什么这样写**：这是全书最生理性的恐怖——Seine 的身体已经成了那个存在的容器，连呕吐都带着「内脏」和「手指」的拟人化。护士「钳住肩膀」的动作暗示附身者仍在操控身体：它故意不让老妇人逃跑，享受她的恐惧。
@@ -56,7 +56,7 @@ modified: "2026-10-27"
 - **为什么这样写**：作者把「割喉」写成「打开第二张嘴」——这个意象既精准又恐怖：喉咙成为一张新的嘴，里面「闪烁的白光」是喉管。月亮人用「bothersome insect」的错觉写受害者的第一反应，让死亡显得过于安静、过于突然。
 - **读者视角提示**：读者应意识到，月亮人杀警察不是因为她是威胁，而是因为她「挡路」。它的目标始终是房车——是车里的男孩遗骨，以及 Mooch 口中的 Connie 所指向的某种更深的联系。
 
-> **原句 8:** ""“Connie?” she’s saying across to you. You’re the only one she has eyes for. “Backup is coming!” the officer’s screaming now, just generally. “Don’t make me shoot any of you! Everybody stop! Stop stop stop!”"
+> **原句 8:** "“Connie?” she’s saying across to you. You’re the only one she has eyes for. “Backup is coming!” the officer’s screaming now, just generally. “Don’t make me shoot any of you! Everybody stop! Stop stop stop!”"
 - **中文理解**：「Connie？」她隔着距离对你喊。她的眼里只有你。「增援马上就来！」女警现在只是胡乱尖叫，「别逼我开枪射你们任何人！都停下！停停停！」
 - **关键词**：Connie、the only one she has eyes for、Backup is coming
 - **为什么这样写**：这是全书最令人心碎的错认——Mooch 把穿着儿子戏服的月亮人认成了 Conrad（Connie 是昵称）。作者让女警的尖叫与 Mooch 的呼唤同时响起：一边是法律秩序的崩溃，一边是母爱的误判。月亮人「是她眼里唯一的人」，因为它穿着她儿子的衣服。

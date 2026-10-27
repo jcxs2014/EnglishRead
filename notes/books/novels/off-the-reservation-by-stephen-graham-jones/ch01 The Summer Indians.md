@@ -27,7 +27,7 @@ modified: "2026-10-27"
 - **读者视角提示**：「It wouldn’t be Blackfeet if there wasn’t drama, would it?」是叙述者的自我调侃，把部落内部的纠纷讲成家常琐事。注意这种玩笑口吻与背后经济困境的反差。
 
 > **原句 3:** "Funny thing was, when Cassidy Sees Elk shot Nate with that World War I rifle, it hadn’t even hurt. Not like Nate thought it would. It was more like all the blood in his body had pulsed at once, surging away from what he knew now to call his abdominal cavity."
-- **中文理解**：奇怪的是，当年 Cassidy Sees Elk 用一战步枪射中 Nate 时，他根本没感到疼——不像他想象中那样。那感觉更像全身的血同时搏动了一下，朝他如今知道叫「腹腔」的地方涌去。
+- **中文理解**：奇怪的是，当年 Cassidy Sees Elk 用一战步枪射中 Nate 时，他根本没感到疼——不像他想象中那样。那感觉更像全身的血同时搏动了一下，从他如今知道叫「腹腔」的地方涌离。
 - **关键词**：World War I rifle、pulsed、abdominal cavity
 - **为什么这样写**：把中枪瞬间写成「不疼」而非「剧痛」，是典型的创伤记忆扭曲：身体在极端时刻抽离了痛觉。作者用「surging away」把血液拟人化，让子弹造成的伤害听起来像一次内爆，既符合生理真实，又为后文「痛感其实来自别处」埋下伏笔。
 - **读者视角提示**：叙述者明确说「Funny thing was」——这种「说来好笑」的开头暗示下面的内容并不好笑。留意 Nate 对痛感的描述与他对「那只看他的黄眼睛动物」的恐惧之间的关联。

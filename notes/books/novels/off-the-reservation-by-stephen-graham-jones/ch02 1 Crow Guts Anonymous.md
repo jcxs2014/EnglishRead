@@ -36,7 +36,7 @@ modified: "2026-10-27"
 - **中文理解**：Nate 的叔叔为了支付 Victor Yellow Tail 的守灵和葬礼费用，在 Nate 从胰腺和脾脏被击穿的昏迷中醒来之前，就把车卖出了保留区。按 Nate 的说法，那是他把赔偿金挥霍掉的原因：他不想要别的车，他想要他爸爸那辆。
 - **关键词**：wake、pancreas and spleen blasted、blew that money
 - **为什么这样写**：这是 Nate 创伤的核心——父亲的遗物在他昏迷时被卖掉，他连选择的余地都没有。作者用「blast through」这种暴力动词描述内脏损伤，又用「blew that money」让 Nate 的挥霍变成一种执拗的哀悼：钱买不回那辆车，但花掉钱是他唯一能做的事。
-- **读者视角提示**：注意时间线——Nate 的伤是五年前 Duck Lake Massacre 留下的（ch01 提到），而车是在他中枪昏迷期间被卖的。这辆 Inpala 是 Nate 对父亲最后的实体念想，也是后文他「要找回父亲的车」这句承诺的伏笔。
+- **读者视角提示**：注意时间线——Nate 的伤是四个月前那场车祸留下的（原文明写「It had been four months since the wreck」），五年前那次是 Duck Lake 枪击；车是在他车祸昏迷期间被卖的。这辆 Inpala 是 Nate 对父亲最后的实体念想，也是后文他「要找回父亲的车」这句承诺的伏笔。
 
 > **原句 5:** "“Same, same. But adult Blackfeet, who’ve been up the mountain to fast for four days and get their animal helper, all that, they come back with narrower eyes. They can’t see them anymore.”"
 - **中文理解**：Seine 说，小鹿和「小人」是一样的东西。但成年的 Blackfeet——那些上山斋戒四天、得到动物灵助的人——回来后眼睛会变窄，就再也看不见它们了。
