@@ -1,0 +1,49 @@
+{
+ "book": "our-later-years-by-lucy-brazier",
+ "chapter": "ch01",
+ "text": "notes/books/non-fiction/our-later-years-by-lucy-brazier/text/ch01_introduction.txt",
+ "facts": [
+  {
+   "fact": "邀请信的对象是伦敦女性",
+   "anchor": "Dear women of London,",
+   "start": 36,
+   "end": 57
+  },
+  {
+   "fact": "邀请发出于 1990 年代末、世纪末",
+   "anchor": "It was nearly the end of the nineties and the end of a century.",
+   "start": 437,
+   "end": 500
+  },
+  {
+   "fact": "邀请提到荷兰老年女性住在自己运营的居住群体，各有私人住宅、共享聚会空间",
+   "anchor": "in residential groups they run themselves, where they have their own private homes but share space where they meet as a group",
+   "start": 207,
+   "end": 332
+  },
+  {
+   "fact": "第一人称作者正在研究这场运动，并邀人参加工作坊",
+   "anchor": "Let me know if you would like to come to a workshop I am running on my research into this movement.",
+   "start": 334,
+   "end": 433
+  },
+  {
+   "fact": "回应者聚在 King's Cross 一家不起眼酒吧的角落",
+   "anchor": "Just a group of older women in the corner of an innocuous-looking pub somewhere in King’s Cross.",
+   "start": 851,
+   "end": 947
+  },
+  {
+   "fact": "作者称这些女性是未来的先驱",
+   "anchor": "But these women were future pioneers.",
+   "start": 971,
+   "end": 1008
+  },
+  {
+   "fact": "作者把她们的事业称为「ageing powerfully together」的开创性工作",
+   "anchor": "in their groundbreaking work on ageing powerfully together",
+   "start": 1119,
+   "end": 1177
+  }
+ ]
+}
