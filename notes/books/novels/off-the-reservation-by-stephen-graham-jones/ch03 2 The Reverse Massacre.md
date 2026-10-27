@@ -28,7 +28,7 @@ modified: "2026-10-27"
 
 > **原句 3:** "Nate had been thinking in signs like this for about three weeks now. It was from that Big Chicken Detective cartoon that was always on the TV—really, for the A-B-C-D of it all, it was “A Big Chicken Detective.”"
 - **中文理解**：Nate 用这种「招牌」来思考已经大约三周了。它来自电视上常播的动画片 Big Chicken Detective——准确说，按字母缩写，应该叫「A Big Chicken Detective」。
-- **关键词**：thinking in signs、Big Chicken Detective、Poultry Sleuth
+- **关键词**：thinking in signs、Big Chicken Detective、cartoon
 - **为什么这样写**：作者把 Nate 的负罪感外化成动画片里的幻觉招牌：每当卡通侦探内心被看穿，头顶就会亮起「BAD INDIAN」。这个设定把沉重的道德审判装进儿童娱乐的外壳，既荒诞又精准——Nate 的自我谴责已经自动运行，像一档永远在播的节目。
 - **读者视角提示**：注意「for the A-B-C-D of it all」——作者用字母梗点出动画片名。这段交代了全书反复出现的「BAD INDIAN」招牌的来源，读者可以把它当作 Nate 内心批评者的可视化形象。
 
