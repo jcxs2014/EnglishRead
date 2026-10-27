@@ -70,6 +70,12 @@ T1 自检（同会话）：5 章抽样（ch01/06/11/16/20）+ 总览三篇人判
 附带修复：ch08–ch14 共 11 行原句行格式缺陷（`原句 N:" "`→`原句 N:** "`），块边界识别恢复正常，gate ⑱⑲ 阻断 17→0。
 T1 为同会话自检（非独立验收）；三件套在 .memory/raw-gates/<slug>/review/，台账已记一行。逐行明细见工作日志今日条目。
 
+【off-the-reservation-by-stephen-graham-jones《Off the Reservation》T3 全量深审（档位深，用户指定）＋修复执行完毕】R1 素读 20/20 由独立子代理只读 text/ 产出；R2 机器层全量：gate EXIT=0 · chapter.sh --json 20/20 rc=0 · fragments 330 全命中 · quotes 271/271 · overview 58/58；R3/R4 20/20 主会话人判 235 块。
+阻断 7 全修复：方向反转 2（ch01 涌离/ch10 foiling 挫败）· 时间线 1（ch02 四个月车祸）· 地点 1（ch03 雕像岛路缘）· 章号错标 1（金句⑥ ch19→ch17）· 编造 1（ch04 等待四个月）· T1 误修恢复 1（Mooch Pease，T1 取证截断假查无）· 引语头部 11 行 `""`（T1 修复遗留）。
+提示 6 修 3（ch11 蓝星/ch17 滴答声实体揭示/ch20 子弹揭示），3 条「补记」类留修复指令待决。
+复验：13 受影响章 chapter.sh rc=0 · 整书 gate EXIT=0 · 总览 58/58。取证教训入档：小写 grep 假查无（Keep living）、grep 输出截断假查无（Pease）——两例均为 R5-补 机制预警类型。
+台账两行（自检 T1+T2、深 T3）；四件套 review/chNN/×20 + 修复指令已入库，均未 push。
+
 ### [2026-10-27 10:28 UTC] [DSH-Mac] → All
 
 **《Our Later Years: Shared Wisdom on Ageing Powerfully Together》（our-later-years-by-lucy-brazier）**
