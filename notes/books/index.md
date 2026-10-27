@@ -8,7 +8,7 @@ title: 书单
 每本书的精读内容在对应目录下，以 `ch*.md` 逐章呈现。
 
 ## 长篇小说
-共 159 本
+共 160 本
 
 | 书名 | 作者 |
 |------|------|
@@ -87,6 +87,7 @@ title: 书单
 | [Nemesis Mine](books/novels/nemesis-mine-by-amy-archer/) | Amy Archer |
 | [New Skin](books/novels/new-skin-by-miranda-nation/) | Miranda Nation |
 | [Nine Perfect Strangers](books/novels/nine-perfect-strangers-by-liane-moriarty/) | Liane Moriarty |
+| [Off the Reservation](books/novels/off-the-reservation-by-stephen-graham-jones/) | Stephen Graham Jones |
 | [Our Wives Under The Sea](books/novels/our-wives-under-the-sea-by-julia-armfield/) | Julia Armfield |
 | [Pan](books/novels/pan-by-francesco-dimitri/) | Francesco Dimitri |
 | [Quaint Folk](books/novels/quaint-folk-by-bitter-karella/) | Bitter Karella |
@@ -247,7 +248,7 @@ title: 书单
 | [Work, Consumerism and the New Poor](books/non-fiction/work-consumerism-and-the-new-poor-by-zygmunt-bauman/) | Zygmunt Bauman |
 
 ## 短篇合集
-共 28 本
+共 27 本
 
 | 书名 | 作者 |
 |------|------|
@@ -265,7 +266,6 @@ title: 书单
 | [Good and Evil and Other Stories](books/short-story-anthologies/good-and-evil-and-other-stories-by-samanta-schweblin/) | Samanta Schweblin |
 | [John Grebble Is Gone](books/short-story-anthologies/john-grebble-is-gone-by-peter-james/) | Peter James |
 | [Land of Oz](books/short-story-anthologies/land-of-oz-by-marie-oregan/) | Marie O'Regan (ed.) |
-| [Off the Reservation](books/short-story-anthologies/off-the-reservation-by-stephen-graham-jones/) | Stephen Graham Jones |
 | [Real Life: Short Stories (2002)](books/short-story-anthologies/real-life-short-stories-2002-anthology/) | Dani Couture (ed.) |
 | [Red Ants](books/short-story-anthologies/red-ants-by-kimberly-blaeser/) | Kimberly Blaeser |
 | [Seven Stories for a Summer Afternoon](books/short-story-anthologies/seven-stories-for-a-summer-afternoon-by-loes-jossy/) | Loes Jossy |
