@@ -1,0 +1,171 @@
+{
+ "chapter": "ch06",
+ "source": "text/ch06_5_older_but_not_necessarily_wiser_keepin.txt",
+ "words": 5338,
+ "facts": [
+  {
+   "n": 1,
+   "chars": [
+    628,
+    697
+   ],
+   "snippet": "Just because we’re older doesn’t mean that we’re wiser in all things.",
+   "who": "作者/New Ground 群体（叙述用 we）",
+   "did": "公开否认年长等于智慧，拒绝被当成参透人生的圣人。",
+   "numbers": ""
+  },
+  {
+   "n": 2,
+   "chars": [
+    700,
+    770
+   ],
+   "snippet": "There is always more to learn and remaining self-aware is key to this.",
+   "who": "New Ground 群体",
+   "did": "把持续学习与自我觉察定为日常要求，警惕自己变得狭隘偏执。",
+   "numbers": ""
+  },
+  {
+   "n": 3,
+   "chars": [
+    1414,
+    1509
+   ],
+   "snippet": "I’m still learning. It’s important to keep learning and to remain socially and mentally active.",
+   "who": "Maggs",
+   "did": "表示自己仍在学习，并据此与同伴办艺术、法语、时事与戏剧朗读等定期活动。",
+   "numbers": ""
+  },
+  {
+   "n": 4,
+   "chars": [
+    2007,
+    2125
+   ],
+   "snippet": "Diana discovered this as a mature student when she went to university to study for an art degree in her early forties.",
+   "who": "Diana",
+   "did": "四十出头以成熟学生身份进大学读艺术学位，靠同班年轻学生帮忙多过导师。",
+   "numbers": "early forties"
+  },
+  {
+   "n": 5,
+   "chars": [
+    6567,
+    6666
+   ],
+   "snippet": "Sue T used to run the equalities, diversity and inclusion group, but this was disbanded a while ago",
+   "who": "Sue T",
+   "did": "曾负责平等、多元与包容小组，后主张解散，认为人人本该如此无需专组督导。",
+   "numbers": ""
+  },
+  {
+   "n": 6,
+   "chars": [
+    7523,
+    7585
+   ],
+   "snippet": "There is one section of society not welcome as residents. Men.",
+   "who": "New Ground 群体",
+   "did": "经多年激烈辩论后定下男性不得入住、只可探访的规矩。",
+   "numbers": "four central reasons"
+  },
+  {
+   "n": 7,
+   "chars": [
+    14697,
+    14789
+   ],
+   "snippet": "Aleth read online about a young woman and her little girl who were looking for a host family",
+   "who": "Aleth",
+   "did": "在网上看到一对乌克兰母女寻找寄宿家庭，先与女方会面再回社区争取同意。",
+   "numbers": ""
+  },
+  {
+   "n": 8,
+   "chars": [
+    16199,
+    16292
+   ],
+   "snippet": "That ruffled some feathers because living in a community means we should discuss these things",
+   "who": "Aleth",
+   "did": "未经理事共识便让 Merve 住进自家空房，承认此举引起不满。",
+   "numbers": "over a year"
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Vivien—John/Andrew/Adrian",
+   "what": "Vivien 的三个儿子：长子 John 六十二岁住 Islington，次子 Andrew 在澳大利亚，幼子 Adrian 五十五岁住 Shepperton，轮流来探望",
+   "chars": [
+    10020,
+    10097
+   ]
+  },
+  {
+   "pair": "Marion—Maggs",
+   "what": "伴侣（lesbian couple），同住 New Ground，称此处无须字斟句酌",
+   "chars": [
+    11691,
+    11750
+   ]
+  },
+  {
+   "pair": "Aleth—Merve",
+   "what": "Merve 是 Aleth 的客人，住其空房一年多，属临时安置而非正式住户",
+   "chars": [
+    16436,
+    16480
+   ]
+  },
+  {
+   "pair": "Lida—Maria",
+   "what": "Maria 代表群体发邮件通知 Lida 分到房子（2016 年初）",
+   "chars": [
+    28976,
+    29033
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "twenty-six",
+   "what": "New Ground 现有女性住户人数",
+   "chars": [
+    5200,
+    5256
+   ]
+  },
+  {
+   "value": "fifteen",
+   "what": "部分住户十五岁辍学、未再受正规教育",
+   "chars": [
+    7078,
+    7145
+   ]
+  },
+  {
+   "value": "1999",
+   "what": "Jayne Nelson 加入小组的年份（2024 年在新 Ground 去世）",
+   "chars": [
+    8363,
+    8422
+   ]
+  },
+  {
+   "value": "ten days",
+   "what": "Diana 让出自家公寓、去女儿家住的天数，用于安置多米尼加难民",
+   "chars": [
+    15091,
+    15131
+   ]
+  },
+  {
+   "value": "2016",
+   "what": "Maria 发邮件给 Lida 提供房子的时间",
+   "chars": [
+    28976,
+    29033
+   ]
+  }
+ ]
+}

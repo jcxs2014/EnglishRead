@@ -1,0 +1,100 @@
+{
+  "chapter": "ch01",
+  "source": "text/ch01_introduction.txt",
+  "words": 205,
+  "facts": [
+    {
+      "n": 1,
+      "chars": [60, 128],
+      "snippet": "Are you aged over 50 and are you already talking about your futures?",
+      "who": "叙述者（作者 Lucy Brazier，以「Dear women of London」称呼收信人）",
+      "did": "向伦敦年过五十的女性发问：是否已经在谈论自己的未来",
+      "numbers": "50（年龄门槛）"
+    },
+    {
+      "n": 2,
+      "chars": [207, 248],
+      "snippet": "in residential groups they run themselves",
+      "who": "荷兰的一些年长女性",
+      "did": "组成由她们自己经营管理的居住群体，各住私人住宅但共用相聚的空间",
+      "numbers": ""
+    },
+    {
+      "n": 3,
+      "chars": [367, 432],
+      "snippet": "come to a workshop I am running on my research into this movement",
+      "who": "作者",
+      "did": "就这一运动的研究开办工作坊，并邀请收信人前来参加",
+      "numbers": ""
+    },
+    {
+      "n": 4,
+      "chars": [437, 500],
+      "snippet": "It was nearly the end of the nineties and the end of a century.",
+      "who": "叙述者（交代时代背景）",
+      "did": "把故事起点定在九十年代末、一个世纪将尽之时；并说明女权主义已经到来且没有退场",
+      "numbers": "nineties（1990 年代）；世纪末"
+    },
+    {
+      "n": 5,
+      "chars": [572, 637],
+      "snippet": "to protest, to negotiate, to demand and only rarely to compromise",
+      "who": "当时的女性",
+      "did": "找到发声的途径，用来抗议、谈判、提出要求，极少妥协",
+      "numbers": ""
+    },
+    {
+      "n": 6,
+      "chars": [641, 728],
+      "snippet": "The women who responded to the invitation were in various stages of robust ‘elderhood’.",
+      "who": "响应邀请的那些女性",
+      "did": "前来回应邀请，各自处在「老年期」的不同阶段且状态强健",
+      "numbers": ""
+    },
+    {
+      "n": 7,
+      "chars": [851, 947],
+      "snippet": "Just a group of older women in the corner of an innocuous-looking pub somewhere in King’s Cross.",
+      "who": "这群年长女性",
+      "did": "聚在 King’s Cross 一家不起眼酒吧的角落里说笑、一起喝酒",
+      "numbers": ""
+    },
+    {
+      "n": 8,
+      "chars": [1084, 1177],
+      "snippet": "the future of so many other women, in their groundbreaking work on ageing powerfully together",
+      "who": "这些女性（被叙述者称为 future pioneers）",
+      "did": "动身去开创自己的未来，也通过「一起有力地老去」的开拓性实践开创众多其他女性的未来",
+      "numbers": ""
+    }
+  ],
+  "relations": [
+    {
+      "pair": "作者 Lucy Brazier—伦敦 50 岁以上的女性",
+      "what": "邀请者与受邀者：作者发信询问并邀她们参加工作坊",
+      "chars": [60, 128]
+    },
+    {
+      "pair": "作者—荷兰年长女性",
+      "what": "研究者与被研究者：作者以她们自管共居的运动为研究对象",
+      "chars": [367, 432]
+    },
+    {
+      "pair": "响应邀请的女性—众多其他女性",
+      "what": "先行者与后来受益者：前者的实践为后者开创未来",
+      "chars": [1084, 1177]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "50",
+      "what": "邀请所针对的年龄门槛（aged over 50）",
+      "chars": [73, 80]
+    },
+    {
+      "value": "1990s（nineties）",
+      "what": "故事起点的时间：九十年代末、世纪末",
+      "chars": [466, 474]
+    }
+  ]
+}

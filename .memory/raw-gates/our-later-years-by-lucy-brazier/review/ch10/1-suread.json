@@ -1,0 +1,195 @@
+{
+ "chapter": "ch10",
+ "source": "text/ch10_epilogue.txt",
+ "words": 4736,
+ "facts": [
+  {
+   "n": 1,
+   "chars": [
+    260,
+    363
+   ],
+   "snippet": "on 26 June, I hosted a day-long workshop focused on collaborative living arrangements among older women",
+   "who": "Maria Brenton",
+   "did": "1998 年自撰广告发出后，于 6 月 26 日主持为期一天的工作坊，议题是老年女性的合作居住安排",
+   "numbers": "1998; 26 June"
+  },
+  {
+   "n": 2,
+   "chars": [
+    1591,
+    1693
+   ],
+   "snippet": "I travelled to the USA, Canada, Denmark and Holland, in pursuit of women who had created social groups",
+   "who": "Maria Brenton",
+   "did": "取得 Joseph Rowntree Foundation 研究资助后，赴美国、加拿大、丹麦、荷兰寻访已自建互助群体的老年女性",
+   "numbers": "four countries"
+  },
+  {
+   "n": 3,
+   "chars": [
+    7528,
+    7611
+   ],
+   "snippet": "So, the Older Women’s Cohousing group was born. Otherwise known by its acronym OWCH",
+   "who": "八名女性（含 Shirley Meredeen、Madeleine Levius）",
+   "did": "在工作坊约一个月后于 Shirley 北伦敦的公寓开首次正式会议，成立 OWCH，决定自己掌控晚年居住",
+   "numbers": "eight women"
+  },
+  {
+   "n": 4,
+   "chars": [
+    12171,
+    12255
+   ],
+   "snippet": "a capital grant to Housing for Women which enabled us to protect the eight tenancies",
+   "who": "Tudor Trust（都铎信托）",
+   "did": "在最后关头向 Housing for Women 提供资本拨款，保住八套社会租赁住房名额",
+   "numbers": "eight tenancies"
+  },
+  {
+   "n": 5,
+   "chars": [
+    18343,
+    18416
+   ],
+   "snippet": "The CEO of Hanover said, ‘OK, great, then let me help you find the site.’",
+   "who": "Hanover 房屋协会首席执行官",
+   "did": "听 Maria 说“我手上就有一个群体”后主动提出帮忙找地，最终在 High Barnet 找到旧校舍场地",
+   "numbers": ""
+  },
+  {
+   "n": 6,
+   "chars": [
+    22072,
+    22151
+   ],
+   "snippet": "which was then postponed eight times, leaving many of them effectively homeless",
+   "who": "项目方／承建方",
+   "did": "把完工日期先后延期八次，使已卖房或退租的成员一度实际无家可归",
+   "numbers": "eight times"
+  },
+  {
+   "n": 7,
+   "chars": [
+    22264,
+    22360
+   ],
+   "snippet": "When the moment finally came for everyone to move in, they had to do so gradually, one at a time",
+   "who": "New Ground 入住者",
+   "did": "2016 年入住时因通道是狭窄单行道只能逐个搬入，六周内全部安顿",
+   "numbers": "within six weeks"
+  },
+  {
+   "n": 8,
+   "chars": [
+    17620,
+    17718
+   ],
+   "snippet": "it took many of us to get anywhere, not just the members of OWCH, but the people behind the scenes",
+   "who": "Maria Brenton",
+   "did": "收尾处致谢：除 OWCH 成员外还有幕后关键支持者，并建议后来者聘请外部协调人",
+   "numbers": ""
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Maria Brenton—Shirley Meredeen",
+   "what": "工作坊当天在酒馆结识的挚友，与 Madeleine 同被 Maria 称为项目最主要的推动者；Shirley 于 2022 年去世",
+   "chars": [
+    6200,
+    6281
+   ]
+  },
+  {
+   "pair": "Maria Brenton—Madeleine Levius",
+   "what": "工作坊后打电话促成本群体“真的去做”，是早期核心推动者；2005 年病逝，未能住进 New Ground",
+   "chars": [
+    22479,
+    22536
+   ]
+  },
+  {
+   "pair": "Elizabeth Clarson—OWCH",
+   "what": "Housing for Women 首席执行官，出席工作坊后主动联系 Maria 提供支持，并把同事 Meera Bedi 引进项目",
+   "chars": [
+    8435,
+    8538
+   ]
+  },
+  {
+   "pair": "Shirley Meredeen—Madeleine Levius",
+   "what": "同属世俗犹太移民家庭背景，都被父权社会的期待压制过，后成为并肩的核心推动者",
+   "chars": [
+    5483,
+    5554
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "1998",
+   "what": "Maria 自撰招集广告并寄发给女性主义与住房网络的年份",
+   "chars": [
+    107,
+    134
+   ]
+  },
+  {
+   "value": "December 2016",
+   "what": "项目最终落成（入住）的时间",
+   "chars": [
+    478,
+    525
+   ]
+  },
+  {
+   "value": "eighteen years",
+   "what": "从 1998 工作坊到 2016 落成的总耗时，Maria 比作“从出生到成年”",
+   "chars": [
+    17018,
+    17069
+   ]
+  },
+  {
+   "value": "eight times",
+   "what": "完工日期被推迟的次数",
+   "chars": [
+    22087,
+    22108
+   ]
+  },
+  {
+   "value": "2005",
+   "what": "Madeleine Levius 去世的年份",
+   "chars": [
+    22520,
+    22536
+   ]
+  },
+  {
+   "value": "six years / 2022",
+   "what": "Shirley 在 New Ground 住了六年，2022 年去世",
+   "chars": [
+    22823,
+    22890
+   ]
+  },
+  {
+   "value": "seventeen flats / eight rentals",
+   "what": "New Ground 的住房构成：17 套私人产权房 + 8 套租赁房",
+   "chars": [
+    21307,
+    21369
+   ]
+  },
+  {
+   "value": "within six weeks",
+   "what": "最后一批入住后全部安顿所需时间",
+   "chars": [
+    22418,
+    22475
+   ]
+  }
+ ]
+}

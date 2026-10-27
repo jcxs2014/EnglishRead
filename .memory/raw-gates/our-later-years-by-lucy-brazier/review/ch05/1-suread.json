@@ -1,0 +1,187 @@
+{
+ "chapter": "ch05",
+ "source": "text/ch05_4_don_t_call_me_dear_defying_ageist_ster.txt",
+ "words": 4375,
+ "facts": [
+  {
+   "n": 1,
+   "chars": [
+    528,
+    633
+   ],
+   "snippet": "silent, invisible people, without anything in their heads other than grandchildren, shopping and knitting",
+   "who": "OWCH 共同创办人 Shirley Meredeen",
+   "did": "用「沉默、看不见、脑子里只有孙辈/购物/编织」概括外界对老年女性的刻板印象；New Ground 的女性据此把反制度性年龄歧视加入既有抗争，并建立互助网络",
+   "numbers": ""
+  },
+  {
+   "n": 2,
+   "chars": [
+    3864,
+    3896
+   ],
+   "snippet": "a guy asked, “Are you OK, dear?”",
+   "who": "Maggs",
+   "did": "在商店被陌生男子叫「dear」并问是否需要帮忙，当场回一句「Yes, dear!」；她说被叫 dear 像被贬低，作者指出这类说法即 elderspeak／儿语化",
+   "numbers": ""
+  },
+  {
+   "n": 3,
+   "chars": [
+    4176,
+    4240
+   ],
+   "snippet": "Hilary also gets infuriated when people call her dear or darling",
+   "who": "Hilary",
+   "did": "被人叫 dear 或 darling 就恼火，认为过分亲昵、不合场合；同段她说仍坚持自己的穿着风格（不留白发式妥协、拒绝米色）",
+   "numbers": ""
+  },
+  {
+   "n": 4,
+   "chars": [
+    5463,
+    5518
+   ],
+   "snippet": "working with them on an initiative called Age Champions",
+   "who": "Charlotte",
+   "did": "参与当地 Age UK 的「Age Champions」计划，去改变外界对老年人及其能力的看法，并对比日本长者受尊敬、有尊严的处境",
+   "numbers": ""
+  },
+  {
+   "n": 5,
+   "chars": [
+    6716,
+    6798
+   ],
+   "snippet": "We must be mindful that we do not allow the negative stereotypes to eat away at us",
+   "who": "New Ground 群体（作者以 we 自述）",
+   "did": "提醒彼此别让外界负面刻板印象侵蚀到自己也开始相信，从而削弱自信、把自己看低；也不拿它去对付做不到同样多的同伴",
+   "numbers": ""
+  },
+  {
+   "n": 6,
+   "chars": [
+    7304,
+    7392
+   ],
+   "snippet": "if someone gives up their seat for her on public transport, then she is happy to take it",
+   "who": "Maggs（七十九岁）",
+   "did": "在公共交通上有人让座就坦然接受；同时主张让座要有分寸，别让接受者觉得被小看、给座者觉得被回绝",
+   "numbers": "seventy-nine（79 岁）"
+  },
+  {
+   "n": 7,
+   "chars": [
+    10500,
+    10585
+   ],
+   "snippet": "And from this list, I made a plan of action, including putting my house on the market",
+   "who": "Vivien（八十一岁）",
+   "did": "把「老年想要什么」写成愿望清单后据此制定行动计划：挂牌卖房、考察新住处、大清理，最终搬进 New Ground",
+   "numbers": "eighty-one（81 岁）"
+  },
+  {
+   "n": 8,
+   "chars": [
+    21593,
+    21669
+   ],
+   "snippet": "In 2013 when Marion was diagnosed with terminal cancer, our world fell apart",
+   "who": "Maggs（叙述她与 Marion）",
+   "did": "2013 年 Marion 确诊绝症后，两人没有放弃 cohousing 计划，反而更坚定，宁愿她只剩一年住在 New Ground 也值得",
+   "numbers": "2013"
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Marion—Maggs",
+   "what": "伴侣；New Ground 里唯一一对同住伴侣，在一起三十一年，1993 年在老年女同性恋聚会上相识",
+   "chars": [
+    17295,
+    17382
+   ]
+  },
+  {
+   "pair": "Marion—Maggs",
+   "what": "照护关系；Marion 患病期间 Maggs 全程陪她跑医院、盯工程",
+   "chars": [
+    22383,
+    22419
+   ]
+  },
+  {
+   "pair": "Shirley Meredeen—OWCH",
+   "what": "共同创办人，其「不被别人摆布」的说法成为群体信条",
+   "chars": [
+    461,
+    501
+   ]
+  },
+  {
+   "pair": "Vivien—Helen",
+   "what": "朋友；Vivien 去 Barnet 看 Helen 时望见对面工地，才得知女性 cohousing 社区",
+   "chars": [
+    12143,
+    12216
+   ]
+  },
+  {
+   "pair": "Barbara—Maria Brenton",
+   "what": "Barbara 因读 Maria Brenton 写 OWCH 的文章而找上该组织",
+   "chars": [
+    14909,
+    14965
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "thirty-one years",
+   "what": "Marion 与 Maggs 在一起三十一年",
+   "chars": [
+    17366,
+    17382
+   ]
+  },
+  {
+   "value": "1944",
+   "what": "Vivien 生于 Haringey 的年份",
+   "chars": [
+    10698,
+    10722
+   ]
+  },
+  {
+   "value": "1993",
+   "what": "Maggs 与 Marion 相识的年份（某个周六）",
+   "chars": [
+    17858,
+    17902
+   ]
+  },
+  {
+   "value": "2013",
+   "what": "Marion 被诊断为绝症（myelofibrosis）的年份",
+   "chars": [
+    21593,
+    21626
+   ]
+  },
+  {
+   "value": "twenty miles",
+   "what": "Hedi 过去一天能走的里程",
+   "chars": [
+    7601,
+    7630
+   ]
+  },
+  {
+   "value": "ninety-six",
+   "what": "Hedi 现在的年龄，只走一英里",
+   "chars": [
+    7675,
+    7711
+   ]
+  }
+ ]
+}

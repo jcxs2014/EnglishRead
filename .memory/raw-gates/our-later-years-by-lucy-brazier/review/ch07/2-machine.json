@@ -1,0 +1,369 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/ch07 6 no utopia lessons in navigating conflict.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/text/ch07_6_no_utopia_lessons_in_navigating_confli.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "New Ground is not an idyllic paradise. Unsurprisingly, there are complex issues that come with living in a cohousing com",
+          "ok": true,
+          "pos": 194
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "There is no leader at New Ground. From the beginnings of the group we have worked hard to create and maintain a structur",
+          "ok": true,
+          "pos": 1104
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘We are all equal, we have an equal say, and everything is done by consensus. And yes, that can drive you mad at times b",
+          "ok": true,
+          "pos": 3209
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Loss in an ageing community is inevitable, and while it is terribly sad, we are not diminished by it and our core streng",
+          "ok": true,
+          "pos": 5782
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘I’m a policy- and process-orientated person and not everybody likes that, I know, but that’s me and I can’t think of a ",
+          "ok": true,
+          "pos": 6872
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "A week before the monthly community meeting, any proposals are circulated and are then discussed at the meeting. There i",
+          "ok": true,
+          "pos": 8930
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "If one or more women choose to block, they are asked to come back to the next meeting with an amended proposal, which wi",
+          "ok": true,
+          "pos": 9184
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "As New Ground’s conflict resolution policy states, ‘Some conflicts cannot be resolved, and differences have to be accept",
+          "ok": true,
+          "pos": 15026
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "When fallouts happen, the first action is for the individual to speak to the person they fell out with in line with our ",
+          "ok": true,
+          "pos": 15801
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Seeing how we deal with frustration, anger and upset is fascinating to observe in others but especially in ourselves if ",
+          "ok": true,
+          "pos": 17600
+        }
+      ],
+      "words": 60
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "句子结构": 54,
+        "表达方式": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "句子结构": 0.42,
+        "表达方式": 0.55
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "句子结构": 40,
+        "表达方式": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "句子结构": 0.27,
+        "表达方式": 0.52
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "句子结构": 43,
+        "表达方式": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "句子结构": 0.36,
+        "表达方式": 0.65
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "句子结构": 36,
+        "表达方式": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "句子结构": 0.2,
+        "表达方式": 0.61
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "句子结构": 46,
+        "表达方式": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "句子结构": 0.39,
+        "表达方式": 0.67
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "句子结构": 34,
+        "表达方式": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "句子结构": 0.16,
+        "表达方式": 0.53
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "句子结构": 43,
+        "表达方式": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "句子结构": 0.28,
+        "表达方式": 0.28
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "句子结构": 31,
+        "表达方式": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "句子结构": 0.17,
+        "表达方式": 0.65
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "句子结构": 39,
+        "表达方式": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "句子结构": 0.18,
+        "表达方式": 0.5
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "句子结构": 42,
+        "表达方式": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "句子结构": 0.19,
+        "表达方式": 0.28
+      }
+    }
+  ],
+  "form": {
+    "h1": "07. 6: No Utopia: Lessons in Navigating Conflict（没有乌托邦：冲突中的功课）",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      6,
+      10
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4547,
+    "block_target": [
+      8,
+      14
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 9 章中位 10、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

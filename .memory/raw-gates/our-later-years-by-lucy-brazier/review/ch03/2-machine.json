@@ -1,0 +1,369 @@
+{
+  "chapter": 3,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/ch03 2 elderhood enlightenment navigating the third age.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/text/ch03_2_elderhood_enlightenment_navigating_the.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Old age has a terrible reputation. In an era when we have tackled many taboo subjects and can talk more freely than ever",
+          "ok": true,
+          "pos": 244
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "There has been progression of sorts over the last twenty years. Gone are the days when retirement signalled a carriage c",
+          "ok": true,
+          "pos": 715
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "There is a sober inevitability we cannot ignore. We are all ageing, and there is no magic potion to drink that will prev",
+          "ok": true,
+          "pos": 2104
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘I often think of Bette Davis saying, “Old age is not for sissies.” And Groucho Marx replying, “But look at the alternat",
+          "ok": true,
+          "pos": 2409
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The important thing is, I don’t feel old, I just feel myself. I can relate to all the bits of me going back over my life",
+          "ok": true,
+          "pos": 2816
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Older people like us still have a huge amount to give and we are the survivors of vast hard-won experience we are happy ",
+          "ok": true,
+          "pos": 3501
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It’s not how old we are or how many wrinkles we have; what counts is how we face it. The worst response to ageing is den",
+          "ok": true,
+          "pos": 4547
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "As Jude says, ‘I am not fearful, but when you reach a certain age, which for me was heading towards seventy, you realise",
+          "ok": true,
+          "pos": 4936
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "While our cognitive empathy (the ability to see something from another’s perspective) may dip as we get older, our emoti",
+          "ok": true,
+          "pos": 9194
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I have not been able to contribute in the way I would like, but I did build our original website. At the age of fifty, a",
+          "ok": true,
+          "pos": 16304
+        }
+      ],
+      "words": 63
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "句子结构": 56,
+        "表达方式": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "句子结构": 0.25,
+        "表达方式": 0.54
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "句子结构": 45,
+        "表达方式": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "句子结构": 0.18,
+        "表达方式": 0.63
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 98,
+        "句子结构": 55,
+        "表达方式": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "句子结构": 0.18,
+        "表达方式": 0.58
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "句子结构": 69,
+        "表达方式": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "句子结构": 0.27,
+        "表达方式": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "句子结构": 61,
+        "表达方式": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "句子结构": 0.3,
+        "表达方式": 0.58
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "句子结构": 41,
+        "表达方式": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "句子结构": 0.13,
+        "表达方式": 0.64
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "句子结构": 66,
+        "表达方式": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "句子结构": 0.25,
+        "表达方式": 0.58
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "句子结构": 39,
+        "表达方式": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "句子结构": 0.15,
+        "表达方式": 0.75
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "句子结构": 30,
+        "表达方式": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "句子结构": 0.12,
+        "表达方式": 0.78
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "句子结构": 55,
+        "表达方式": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "句子结构": 0.19,
+        "表达方式": 0.55
+      }
+    }
+  ],
+  "form": {
+    "h1": "03. 2: Elderhood Enlightenment: Navigating The Third Age（老年启蒙：穿行第三龄）",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      6,
+      10
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 6160,
+    "block_target": [
+      11,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 9 章中位 10、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

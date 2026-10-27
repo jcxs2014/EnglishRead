@@ -1,0 +1,379 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/ch05 4 don t call me dear defying ageist stereotypes.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/text/ch05_4_don_t_call_me_dear_defying_ageist_ster.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "When New Ground was still a twinkle in the eye of a small group of women, they added their fight against institutional a",
+          "ok": true,
+          "pos": 203
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It can range from the overt and insulting, which is easier to confront, to the subtle and ingrained, which is much harde",
+          "ok": true,
+          "pos": 1475
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "In America, Becca Levy, professor of psychology and epidemiology at Yale University, has been involved in groundbreaking",
+          "ok": true,
+          "pos": 1903
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Older people don’t necessarily crochet, like cats and watch daytime TV. They may have jobs, run marathons and travel the",
+          "ok": true,
+          "pos": 2887
+        },
+        {
+          "text": "We don’t pass through an ageing turnstile that funnels us all in the same direction",
+          "ok": true,
+          "pos": 3225
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Within our own community at New Ground, we rarely feel invisible or irrelevant. We are careful of the vocabulary we use ",
+          "ok": true,
+          "pos": 3403
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I really started to feel old when I was out shopping and a guy asked, “Are you OK, dear?” And I replied, “Yes, dear!”",
+          "ok": true,
+          "pos": 3747
+        },
+        {
+          "text": "The language used to speak to older people can be insensitive and condescending, often known as ‘elderspeak’ or ‘baby ta",
+          "ok": true,
+          "pos": 3930
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "We must be mindful that we do not allow the negative stereotypes to eat away at us until we begin to believe them, under",
+          "ok": true,
+          "pos": 6610
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She does occasionally feel her age and if someone gives up their seat for her on public transport, then she is happy to ",
+          "ok": true,
+          "pos": 7154
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "A few years before I joined OWCH and moved into New Ground, I wrote a list of what I wanted for my old age. It was on a ",
+          "ok": true,
+          "pos": 9892
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I am getting steadily weaker. I am no use around here. I know I worked very hard as part of the core team who establishe",
+          "ok": true,
+          "pos": 22584
+        }
+      ],
+      "words": 48
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 106,
+        "关键词": 0,
+        "为什么这样写": 103,
+        "句子结构": 53,
+        "表达方式": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "句子结构": 0.2,
+        "表达方式": 0.39
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 101,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "句子结构": 57,
+        "表达方式": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "句子结构": 0.36,
+        "表达方式": 0.53
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "句子结构": 52,
+        "表达方式": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "句子结构": 0.2,
+        "表达方式": 0.56
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "句子结构": 39,
+        "表达方式": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "句子结构": 0.15,
+        "表达方式": 0.47
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "句子结构": 45,
+        "表达方式": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "句子结构": 0.24,
+        "表达方式": 0.56
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "句子结构": 62,
+        "表达方式": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "句子结构": 0.43,
+        "表达方式": 0.6
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "句子结构": 36,
+        "表达方式": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "句子结构": 0.17,
+        "表达方式": 0.58
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "句子结构": 42,
+        "表达方式": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "句子结构": 0.16,
+        "表达方式": 0.55
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "句子结构": 42,
+        "表达方式": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "句子结构": 0.24,
+        "表达方式": 0.6
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "句子结构": 43,
+        "表达方式": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "句子结构": 0.24,
+        "表达方式": 0.52
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. 4: Don't Call Me Dear: Defying Ageist Stereotypes（别叫我「亲爱的」：对抗年龄歧视的刻板印象）",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      6,
+      10
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4375,
+    "block_target": [
+      8,
+      14
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 9 章中位 10、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

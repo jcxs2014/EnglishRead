@@ -1,0 +1,163 @@
+{
+ "chapter": "ch03",
+ "source": "text/ch03_2_elderhood_enlightenment_navigating_the.txt",
+ "words": 6160,
+ "facts": [
+  {
+   "n": 1,
+   "chars": [
+    259,
+    293
+   ],
+   "snippet": "Old age has a terrible reputation.",
+   "who": "叙述者（New Ground 群体）",
+   "did": "开篇断言老年名声极坏：社会把老年描绘成战区，劝人「defy」「fight」或干脆假装它没发生",
+   "numbers": ""
+  },
+  {
+   "n": 2,
+   "chars": [
+    4693,
+    4732
+   ],
+   "snippet": "The worst response to ageing is denial.",
+   "who": "叙述者（New Ground 群体）",
+   "did": "指出对衰老最糟的回应是否认，主张主动掌控人生最后阶段而不是拖到无法自主",
+   "numbers": ""
+  },
+  {
+   "n": 3,
+   "chars": [
+    2981,
+    3032
+   ],
+   "snippet": "This isn’t an isolated time; it’s just a continuum.",
+   "who": "Hedi（社区最年长成员）",
+   "did": "把老年说成一生的连续体而非孤立时段：不觉得自己老，只觉得自己，能看到失去也看到获得",
+   "numbers": ""
+  },
+  {
+   "n": 4,
+   "chars": [
+    5648,
+    5711
+   ],
+   "snippet": "from when I turned fifty because the thought of it terrified me",
+   "who": "Charlotte",
+   "did": "从五十岁起就设想退休后每天做什么，因恐惧而提前把长期计划定下来",
+   "numbers": "fifty"
+  },
+  {
+   "n": 5,
+   "chars": [
+    9408,
+    9467
+   ],
+   "snippet": "our emotional empathy is more likely to remain or even rise",
+   "who": "叙述者（群体）",
+   "did": "区分两种同理心：认知同理心随年老可能下降，情感同理心则保持甚至上升",
+   "numbers": ""
+  },
+  {
+   "n": 6,
+   "chars": [
+    12347,
+    12409
+   ],
+   "snippet": "We established task groups that cover every area of New Ground",
+   "who": "New Ground 全体居民",
+   "did": "按建筑、会员、家务、花园、财务、传播等领域设任务组，再由年度选举的管理委员会向月度 business meeting 汇报",
+   "numbers": ""
+  },
+  {
+   "n": 7,
+   "chars": [
+    13296,
+    13365
+   ],
+   "snippet": "Hilary, who was a theatre set designer and is used to problem-solving",
+   "who": "Hilary",
+   "did": "凭剧院布景设计师与工匠打交道的经验加入建筑组，承担日常维护并替大家翻译施工方的话",
+   "numbers": ""
+  },
+  {
+   "n": 8,
+   "chars": [
+    16558,
+    16604
+   ],
+   "snippet": "At the age of fifty, after I got my art degree",
+   "who": "Diana",
+   "did": "五十岁拿到艺术学位、放弃当艺术家后转做网站设计，为社区建了最初的网站",
+   "numbers": "fifty"
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Hedi—New Ground 社区",
+   "what": "Hedi 是社区最年长的成员，且乐于占据这个位置",
+   "chars": [
+    2581,
+    2615
+   ]
+  },
+  {
+   "pair": "Rachel—Rachel 的母亲",
+   "what": "母亲用「你不是海滩上唯一的卵石」教她别自私，七十多年后她仍拿这句话提醒自己",
+   "chars": [
+    9129,
+    9169
+   ]
+  },
+  {
+   "pair": "Diana—Maria",
+   "what": "Diana 看到 Guardian 上关于 OWCH 的报道后写信给 Maria，说自己要来",
+   "chars": [
+    24459,
+    24475
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "twenty-six",
+   "what": "群体共有二十六位女性，一起学习变老",
+   "chars": [
+    6170,
+    6200
+   ]
+  },
+  {
+   "value": "fifty",
+   "what": "Diana 五十岁才拿到艺术学位",
+   "chars": [
+    16558,
+    16577
+   ]
+  },
+  {
+   "value": "2007",
+   "what": "Diana 到 Brixton 的 Housing for Women 参加 OWCH 会议的年份",
+   "chars": [
+    24504,
+    24515
+   ]
+  },
+  {
+   "value": "stage four",
+   "what": "Diana 搬进 New Ground 一周后确诊四期肠癌",
+   "chars": [
+    25090,
+    25125
+   ]
+  },
+  {
+   "value": "seventy",
+   "what": "Jude 将近七十岁时意识到自己终有一死",
+   "chars": [
+    5084,
+    5107
+   ]
+  }
+ ]
+}

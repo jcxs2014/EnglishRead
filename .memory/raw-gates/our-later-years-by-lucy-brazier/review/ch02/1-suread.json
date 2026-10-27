@@ -1,0 +1,211 @@
+{
+ "chapter": "ch02",
+ "source": "text/ch02_1_rebels_with_a_cause_introducing_our_co.txt",
+ "words": 4916,
+ "facts": [
+  {
+   "n": 1,
+   "chars": [
+    4987,
+    5057
+   ],
+   "snippet": "From that first workshop, the Older Women’s Cohousing group was formed",
+   "who": "Maria Brenton 与首批参与者",
+   "did": "1998 年登报召集后，首场工作坊促成了 OWCH（老年女性共居小组）的成立",
+   "numbers": "1998"
+  },
+  {
+   "n": 2,
+   "chars": [
+    5180,
+    5254
+   ],
+   "snippet": "women joining, women leaving, possible housing sites found and disregarded",
+   "who": "OWCH 成员",
+   "did": "此后近二十年间反复办工作坊、开规划会、找候选地块又放弃，成员不断加入与退出",
+   "numbers": "近 20 年；1998–2016"
+  },
+  {
+   "n": 3,
+   "chars": [
+    5639,
+    5704
+   ],
+   "snippet": "We bounded down the stairs of Barnet Town Hall, we were ecstatic.",
+   "who": "Janet 与 OWCH 成员",
+   "did": "New Ground 拿到规划许可后，从 Barnet 市政厅楼梯冲下来庆祝",
+   "numbers": ""
+  },
+  {
+   "n": 4,
+   "chars": [
+    8883,
+    8992
+   ],
+   "snippet": "how hard OWCH worked to secure eight of the flats for social housing tenants, before we moved into New Ground",
+   "who": "OWCH（Shirley Meredeen 推动）",
+   "did": "搬入前争取到 8 套公寓留给社会住房租户，做成混合产权社区",
+   "numbers": "8 套"
+  },
+  {
+   "n": 5,
+   "chars": [
+    6375,
+    6446
+   ],
+   "snippet": "We moved into New Ground at the end of 2016. We unpacked our belongings",
+   "who": "26 名入住女性",
+   "did": "2016 年底搬进 New Ground，拆箱并布置各自公寓",
+   "numbers": "26 人；2016 年底"
+  },
+  {
+   "n": 6,
+   "chars": [
+    11090,
+    11182
+   ],
+   "snippet": "with an office and a kitchen where we take it in turns to cook the fortnightly communal meal",
+   "who": "New Ground 居民",
+   "did": "把最大室内空间用作 Common House，附办公室与厨房，轮流做每两周一次的集体晚餐",
+   "numbers": "每两周一次"
+  },
+  {
+   "n": 7,
+   "chars": [
+    14342,
+    14429
+   ],
+   "snippet": "Before we moved into New Ground, we gave much thought to what would form our philosophy",
+   "who": "入住前的 OWCH 成员",
+   "did": "搬入前确立八条社区价值观（合作分担、非层级结构、隐私与社区平衡等），此后每年重温",
+   "numbers": "8 条"
+  },
+  {
+   "n": 8,
+   "chars": [
+    17914,
+    18012
+   ],
+   "snippet": "There are almost as many women on the waiting list for a flat at New Ground as there are residents",
+   "who": "候补女性 / 非居民成员（NRM）",
+   "did": "候补名单人数几乎与住户相当，候补者以非居民成员身份参加活动、工作组并轮流做饭",
+   "numbers": "候补人数≈住户数"
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Shirley Meredeen—New Ground / OWCH",
+   "what": "共同创办人；牌匾称她为英国老年共居先驱，并力主把社会住房租户纳入社区",
+   "chars": [
+    421,
+    537
+   ]
+  },
+  {
+   "pair": "Maria Brenton—OWCH",
+   "what": "大学讲师、研究者；1998 年刊登召集启事并促成小组诞生，曾考察荷兰共居社区",
+   "chars": [
+    4832,
+    4983
+   ]
+  },
+  {
+   "pair": "Janet—Housing for Women",
+   "what": "八名社会住房租户之一，租住由 Housing for Women 管理的公寓",
+   "chars": [
+    9090,
+    9298
+   ]
+  },
+  {
+   "pair": "Madeleine Levius—OWCH",
+   "what": "共同创办人；未及入住即去世，但塑造了社区的公共空间理念",
+   "chars": [
+    10180,
+    10341
+   ]
+  },
+  {
+   "pair": "Rachel—Hilary",
+   "what": "Rachel 发起泰晤士河陶片马赛克，Hilary 设计河流背景",
+   "chars": [
+    18907,
+    19860
+   ]
+  },
+  {
+   "pair": "Hedi—Ann",
+   "what": "年龄两端（96 岁与 60 岁），每周一起去做陶",
+   "chars": [
+    26685,
+    26771
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "1998",
+   "what": "Maria Brenton 在报纸与伦敦社区团体公告栏刊登召集启事的年份",
+   "chars": [
+    4770,
+    4777
+   ]
+  },
+  {
+   "value": "2016",
+   "what": "入住 New Ground 的年份",
+   "chars": [
+    6375,
+    6419
+   ]
+  },
+  {
+   "value": "26（twenty-six）",
+   "what": "首批入住 New Ground 的女性人数",
+   "chars": [
+    775,
+    791
+   ]
+  },
+  {
+   "value": "8",
+   "what": "留给社会住房租户的公寓套数",
+   "chars": [
+    8914,
+    8932
+   ]
+  },
+  {
+   "value": "1930–2022",
+   "what": "Shirley Meredeen 生卒年（入口牌匾）",
+   "chars": [
+    421,
+    447
+   ]
+  },
+  {
+   "value": "96（ninety-six）",
+   "what": "Hedi 的年龄（小标题）",
+   "chars": [
+    20602,
+    20619
+   ]
+  },
+  {
+   "value": "60（sixty）",
+   "what": "Ann 的年龄（小标题）",
+   "chars": [
+    23192,
+    23204
+   ]
+  },
+  {
+   "value": "50（fifty）",
+   "what": "目标人群：50 岁以上女性",
+   "chars": [
+    888,
+    904
+   ]
+  }
+ ]
+}

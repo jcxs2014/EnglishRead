@@ -1,0 +1,187 @@
+{
+ "chapter": "ch07",
+ "source": "text/ch07_6_no_utopia_lessons_in_navigating_confli.txt",
+ "words": 4547,
+ "facts": [
+  {
+   "n": 1,
+   "chars": [
+    1771,
+    1845
+   ],
+   "snippet": "Occasionally a councillor or other official rings the bell and asks to see",
+   "who": "市议员等外部官员",
+   "did": "按铃求见「经理」，被告知没有负责人后仍要见「管事的人」，最后带着对共居的误解离开——社区无领导者的日常代价。",
+   "numbers": ""
+  },
+  {
+   "n": 2,
+   "chars": [
+    3852,
+    3925
+   ],
+   "snippet": "there is a management committee, made up of seven of us, elected annually",
+   "who": "全体居民",
+   "did": "设七人管理委员会，每年改选一次，让每人都可能参与；该委员会每月开会、每季发详细报告，全员参加后续会议提问。",
+   "numbers": "seven; annually; monthly; quarterly"
+  },
+  {
+   "n": 3,
+   "chars": [
+    7351,
+    7404
+   ],
+   "snippet": "needing an 80 per cent majority to agree any proposal",
+   "who": "全体居民",
+   "did": "把共识门槛定为任何提案需 80% 多数同意（最初追求 100%，后发现不现实且拖慢一切）。",
+   "numbers": "80 per cent; 100 per cent"
+  },
+  {
+   "n": 4,
+   "chars": [
+    9587,
+    9630
+   ],
+   "snippet": "In nine years this has only happened twice.",
+   "who": "全体居民",
+   "did": "提案被阻后须带回修正案重走流程，仍不成才付诸表决（需在场者 80% 多数）；九年里只走到表决两次。",
+   "numbers": "nine years; twice; 80 per cent"
+  },
+  {
+   "n": 5,
+   "chars": [
+    11816,
+    11864
+   ],
+   "snippet": "a day-long workshop, facilitated by Femi Otitoju",
+   "who": "Femi Otitoju（外部引导者）",
+   "did": "主持一整天的多元化与包容工作坊：居民先分组讨论共居利弊，再汇合分享，产出社区未来走向的报告/路线图。",
+   "numbers": "2001; day-long"
+  },
+  {
+   "n": 6,
+   "chars": [
+    13324,
+    13390
+   ],
+   "snippet": "a bulge of residents moving in to their eighties soon, me included",
+   "who": "Barbara",
+   "did": "指出即将有一批居民进入八十多岁（包括她自己），人数不变但身心能力下滑，将改变社区动态。",
+   "numbers": "eighties"
+  },
+  {
+   "n": 7,
+   "chars": [
+    15256,
+    15349
+   ],
+   "snippet": "Some conflicts cannot be resolved, and differences have to be accepted or at least tolerated.",
+   "who": "冲突解决政策（社区文本）",
+   "did": "书面政策承认有些冲突无法解决，差异只能接受或至少容忍，个人间龃龉不该升级为全体议题。",
+   "numbers": ""
+  },
+  {
+   "n": 8,
+   "chars": [
+    16011,
+    16091
+   ],
+   "snippet": "the first action is for the individual to speak to the person they fell out with",
+   "who": "发生冲突的个人",
+   "did": "冲突发生后第一步是当事人直接找对方谈；可请一位被认为客观的居民协助，仍不行则可动用管理组掌管的专项小基金聘请外部调解员。",
+   "numbers": "small fund"
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Shirley、Madeleine、Maria—全体居民",
+   "what": "创业期的三位推动者坚称自己不是领导并按此行事，把责任交还给集体（Rachel 称她们为 pioneer、居民为 settler）。",
+   "chars": [
+    2483,
+    2554
+   ]
+  },
+  {
+   "pair": "Tessa—Barbara",
+   "what": "邻居 Barbara 向她介绍自己参加的妇女会议，Tessa 因此接触 OWCH 并最终入住。",
+   "chars": [
+    24877,
+    24931
+   ]
+  },
+  {
+   "pair": "Sue T—Maggs",
+   "what": "Sue T 初次参加 OWCH 会议时，Maggs 在门口笑脸相迎，让她感到被当作潜在成员欢迎。",
+   "chars": [
+    21732,
+    21760
+   ]
+  },
+  {
+   "pair": "管理委员会—社区",
+   "what": "管委会不得在缺少社区投入的情况下作决定；同时它也是居民「可以踢打」的对象（Barbara 语）。",
+   "chars": [
+    4830,
+    4912
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "80 per cent",
+   "what": "通过任何提案所需的多数门槛",
+   "chars": [
+    7351,
+    7404
+   ]
+  },
+  {
+   "value": "100 per cent",
+   "what": "最初追求、后因不现实而放弃的共识门槛",
+   "chars": [
+    7420,
+    7456
+   ]
+  },
+  {
+   "value": "seven",
+   "what": "管理委员会人数",
+   "chars": [
+    3885,
+    3925
+   ]
+  },
+  {
+   "value": "twice",
+   "what": "九年中提案被付诸表决的次数",
+   "chars": [
+    9587,
+    9630
+   ]
+  },
+  {
+   "value": "2001",
+   "what": "Femi Otitoju 支持 OWCH 的起始年份",
+   "chars": [
+    11922,
+    11970
+   ]
+  },
+  {
+   "value": "eight",
+   "what": "每年重新承诺的社区价值条数",
+   "chars": [
+    10905,
+    10952
+   ]
+  },
+  {
+   "value": "seventy-nine",
+   "what": "Sue T 的年龄",
+   "chars": [
+    18245,
+    18270
+   ]
+  }
+ ]
+}

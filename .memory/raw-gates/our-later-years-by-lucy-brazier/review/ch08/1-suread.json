@@ -1,0 +1,147 @@
+{
+ "chapter": "ch08",
+ "source": "text/ch08_7_a_life_well_lived_finding_the_joy_and_.txt",
+ "words": 7524,
+ "facts": [
+  {
+   "n": 1,
+   "chars": [
+    2217,
+    2294
+   ],
+   "snippet": "with a rota of women who take it in turns to cook, lay the table and clean up",
+   "who": "New Ground 的女人们（轮值表上的成员）",
+   "did": "按轮值表轮流做集体素食晚餐：做饭、摆桌、收拾，这个传统从最早期的社交活动延续至今",
+   "numbers": "regular communal vegetarian meal; rota"
+  },
+  {
+   "n": 2,
+   "chars": [
+    2644,
+    2690
+   ],
+   "snippet": "She also established Tea at Three every Friday",
+   "who": "Vivien",
+   "did": "发起每周五的「三点茶」，任何人可随时进来喝茶聊天，有人借此摆出桌游",
+   "numbers": "every Friday"
+  },
+  {
+   "n": 3,
+   "chars": [
+    7125,
+    7241
+   ],
+   "snippet": "Maggs put everyone’s name into a hat and pulled out a few each time, inviting the random selection to come for lunch",
+   "who": "Maggs",
+   "did": "把所有人名字放进帽子，每次抽几位请到家里吃午饭，好认识不熟的邻居",
+   "numbers": "a few each time"
+  },
+  {
+   "n": 4,
+   "chars": [
+    5627,
+    5744
+   ],
+   "snippet": "It inspired me to create artwork around these letters and the idea of family and war, and I’ve had a solo exhibition.",
+   "who": "Hilary",
+   "did": "以父亲的信件与「家庭与战争」为题创作作品，并办了一场个展",
+   "numbers": "solo exhibition"
+  },
+  {
+   "n": 5,
+   "chars": [
+    11023,
+    11061
+   ],
+   "snippet": "Rachel has joined the community choir.",
+   "who": "Rachel",
+   "did": "加入了当地的社区合唱团",
+   "numbers": ""
+  },
+  {
+   "n": 6,
+   "chars": [
+    16782,
+    16892
+   ],
+   "snippet": "Aleth organised her seventieth birthday here and invited some of her friends from her old mountaineering club.",
+   "who": "Aleth",
+   "did": "在 New Ground 办自己的七十岁生日，请来昔日登山俱乐部的朋友",
+   "numbers": "seventieth birthday"
+  },
+  {
+   "n": 7,
+   "chars": [
+    16654,
+    16754
+   ],
+   "snippet": "When Charlotte had a sixtieth-anniversary school reunion, twenty-five of her old school friends came",
+   "who": "Charlotte",
+   "did": "办毕业六十周年同学会，把二十五位老同学请到 New Ground 开派对",
+   "numbers": "sixtieth-anniversary; twenty-five"
+  },
+  {
+   "n": 8,
+   "chars": [
+    29877,
+    29975
+   ],
+   "snippet": "she takes a daily walk with her carer or daughter, stopping to check on the progress of the plants",
+   "who": "Diana",
+   "did": "大手术后体力不济、走不出社区，便每天由护工或女儿陪着在花园里慢走看植物",
+   "numbers": "daily walk"
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Vivien—Helen",
+   "what": "old friend（Vivien 早就认识邻居 Helen）",
+   "chars": [
+    9506,
+    9567
+   ]
+  },
+  {
+   "pair": "Sue H—Sheila",
+   "what": "Sheila 把 Sue H 引进 OWCH，认为她合适",
+   "chars": [
+    32791,
+    32875
+   ]
+  },
+  {
+   "pair": "Hilary—her father",
+   "what": "素未谋面的生父，只留下写给母亲的信",
+   "chars": [
+    4824,
+    4882
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "around eighty",
+   "what": "每年夏天为邻居办的派对参加人数",
+   "chars": [
+    10176,
+    10204
+   ]
+  },
+  {
+   "value": "nine",
+   "what": "社区内停车位数量",
+   "chars": [
+    21090,
+    21139
+   ]
+  },
+  {
+   "value": "twenty-six",
+   "what": "社区人口规模",
+   "chars": [
+    29028,
+    29065
+   ]
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "chapter": "ch04",
+ "source": "text/ch04_3_the_importance_of_community_alone_but_.txt",
+ "words": 7836,
+ "facts": [
+  {
+   "n": 1,
+   "chars": [
+    1294,
+    1385
+   ],
+   "snippet": "we share a mantra among us which is to ‘look out for each other, not look after each other’",
+   "who": "New Ground 群体",
+   "did": "定下「互相照看、但不替对方照护」的共同口号，明确不承担彼此福利、也不替专业照护机构接手责任。",
+   "numbers": "eight ‘vows’"
+  },
+  {
+   "n": 2,
+   "chars": [
+    4119,
+    4181
+   ],
+   "snippet": "When Sue T fell outside the lift at New Ground a few years ago",
+   "who": "Sue T 与邻居们",
+   "did": "在电梯外摔倒、无法起身（后确诊髋部骨折），她呼救后数分钟内被邻居围住，有人垫枕头、盖毯子、叫救护车、递水。",
+   "numbers": "a few years ago；five hours"
+  },
+  {
+   "n": 3,
+   "chars": [
+    6897,
+    7011
+   ],
+   "snippet": "Women form groups of three or four and are the first point of contact for each other in health-related situations.",
+   "who": "New Ground 的女性们",
+   "did": "组成三到四人的健康伙伴小组，成为彼此在健康事务上的第一联系人；生病时可发消息请伙伴代买东西、取药。",
+   "numbers": "three or four"
+  },
+  {
+   "n": 4,
+   "chars": [
+    8555,
+    8659
+   ],
+   "snippet": "The women from OWCH joined a rota, taking it in turns to cook me a meal or take me out for a daily walk.",
+   "who": "OWCH 的女性们（对 Aleth）",
+   "did": "在 Aleth 开胸手术后排班轮值，轮流给她做饭、陪她每天散步。",
+   "numbers": "around £5K saved for the NHS"
+  },
+  {
+   "n": 5,
+   "chars": [
+    11683,
+    11801
+   ],
+   "snippet": "we made sure our neighbour was in her pyjamas, getting her safely into bed and administering her medication for a week",
+   "who": "Sue H 及其健康伙伴小组",
+   "did": "在等待护理员到位期间，为一位病重邻居提供一周额外照护（换睡衣、扶上床、给药），并设定外部帮助接手的期限。",
+   "numbers": "a week；a deadline"
+  },
+  {
+   "n": 6,
+   "chars": [
+    13074,
+    13148
+   ],
+   "snippet": "The pot of money, created from donations from residents and their families",
+   "who": "New Ground 社区（Madeleine Fund）",
+   "did": "以居民及家属捐款设立纪念创始成员 Madeleine 的基金，供人申请 gift 或 loan，用于医疗急用、换坏灶具、配眼镜等。",
+   "numbers": "gift or loan"
+  },
+  {
+   "n": 7,
+   "chars": [
+    21792,
+    21855
+   ],
+   "snippet": "unable to get hold of her, used the spare key to her front door",
+   "who": "几位邻居（对 Hedi）",
+   "did": "因 Hedi 百叶窗未拉起又联系不上，用她家门钥匙的备用钥匙开门查看，撞见泡澡出来裹浴巾的 Hedi。",
+   "numbers": ""
+  },
+  {
+   "n": 8,
+   "chars": [
+    33359,
+    33410
+   ],
+   "snippet": "Ann doesn’t volunteer to help at the communal meal.",
+   "who": "Ann",
+   "did": "以全职工作、且讨厌为二十六人做饭为由，公开拒绝 communal meal 的志愿排班，部分居民意外、部分人支持她的选择。",
+   "numbers": "twenty-six"
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Marion—Maggs",
+   "what": "New Ground 里唯一的一对伴侣（其余女性均为独居）",
+   "chars": [
+    21065,
+    21123
+   ]
+  },
+  {
+   "pair": "Aleth—Jude",
+   "what": "Aleth 在 Covid 期间脚部骨折、无救护车时，Jude 开车送她去 A&E",
+   "chars": [
+    9544,
+    9565
+   ]
+  },
+  {
+   "pair": "Vivien—New Ground",
+   "what": "Vivien 在管理委员会任职时提出健康伙伴（health buddy）制度",
+   "chars": [
+    7433,
+    7460
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "three or four",
+   "what": "健康伙伴小组的人数",
+   "chars": [
+    6908,
+    6931
+   ]
+  },
+  {
+   "value": "five hours",
+   "what": "Sue T 摔倒后邻居陪她等救护车的时间",
+   "chars": [
+    4669,
+    4704
+   ]
+  },
+  {
+   "value": "£5K",
+   "what": "Aleth 开胸手术后 OWCH 轮值照护为 NHS 省下的善后护理费用",
+   "chars": [
+    8751,
+    8775
+   ]
+  },
+  {
+   "value": "2 million",
+   "what": "Age UK 统计的 75 岁以上独居人数（其中过半说可以一个月不与家人朋友邻居说话）",
+   "chars": [
+    26964,
+    27009
+   ]
+  },
+  {
+   "value": "twenty-six",
+   "what": "New Ground 的女性居民人数",
+   "chars": [
+    32775,
+    32809
+   ]
+  },
+  {
+   "value": "a week",
+   "what": "Sue H 小组为病重邻居提供额外照护的期限",
+   "chars": [
+    11635,
+    11669
+   ]
+  }
+ ]
+}

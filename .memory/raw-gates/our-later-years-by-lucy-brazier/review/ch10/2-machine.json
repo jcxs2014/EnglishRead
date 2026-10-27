@@ -1,0 +1,369 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/ch10 epilogue.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/text/ch10_epilogue.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It all started with that advert I wrote in 1998. I sent it out in the hope that it would create interest among various f",
+          "ok": true,
+          "pos": 72
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It was while I was teaching on a master’s course in women’s studies at Cardiff University, lecturing about women in old ",
+          "ok": true,
+          "pos": 928
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It was only when I went to Denmark and Holland that I found hundreds of mixed-gender, single-sex and gay cohousing commu",
+          "ok": true,
+          "pos": 2677
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The rest of the group, inspired by my workshop, examples of Dutch cohousing and maybe the wine, discussed the possibilit",
+          "ok": true,
+          "pos": 4131
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "So, the Older Women’s Cohousing group was born. Otherwise known by its acronym OWCH. Everyone enjoyed stressing its alte",
+          "ok": true,
+          "pos": 7460
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "We strived, hoped, raised the profile of senior cohousing, traipsed around London identifying sites, reached out to deve",
+          "ok": true,
+          "pos": 13724
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "It took us eighteen long years to achieve our dream. The time it takes from birth to adulthood. Looking back, I see a cl",
+          "ok": true,
+          "pos": 16885
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "When I advise other groups who are keen to replicate what we have done, I recommend they have someone as an external fac",
+          "ok": true,
+          "pos": 17628
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Shirley was luckier than Madeleine. She got to live in New Ground for six years before she died in 2022. I admired her h",
+          "ok": true,
+          "pos": 22617
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I am still struggling to get ministers to see this as an investment that will save money in the end. We are light years ",
+          "ok": true,
+          "pos": 26654
+        }
+      ],
+      "words": 53
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "句子结构": 57,
+        "表达方式": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "句子结构": 0.37,
+        "表达方式": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "句子结构": 52,
+        "表达方式": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "句子结构": 0.35,
+        "表达方式": 0.45
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "句子结构": 32,
+        "表达方式": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "句子结构": 0.17,
+        "表达方式": 0.73
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "句子结构": 50,
+        "表达方式": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "句子结构": 0.29,
+        "表达方式": 0.68
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "句子结构": 57,
+        "表达方式": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "句子结构": 0.4,
+        "表达方式": 0.82
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "句子结构": 31,
+        "表达方式": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "句子结构": 0.26,
+        "表达方式": 0.84
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "句子结构": 53,
+        "表达方式": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "句子结构": 0.32,
+        "表达方式": 0.83
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "句子结构": 51,
+        "表达方式": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "句子结构": 0.23,
+        "表达方式": 0.7
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "句子结构": 51,
+        "表达方式": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "句子结构": 0.28,
+        "表达方式": 0.72
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "句子结构": 44,
+        "表达方式": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "句子结构": 0.27,
+        "表达方式": 0.6
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Epilogue（尾声：十八年、两个人与未竟的仗）",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      6,
+      10
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4736,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 9 章中位 10、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

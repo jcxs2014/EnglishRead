@@ -1,0 +1,155 @@
+{
+  "chapter": "ch09",
+  "source": "text/ch09_8_the_final_frontier_a_legacy_of_intenti.txt",
+  "words": 5659,
+  "facts": [
+    {
+      "n": 1,
+      "chars": [
+        4742,
+        4834
+      ],
+      "snippet": "Everyone at New Ground fills in a form stating their wishes around serious illness and death",
+      "who": "New Ground 全体居民",
+      "did": "每人都填写一份表格，写明自己在重病与死亡问题上的意愿、紧急联系人及近亲信息。",
+      "numbers": ""
+    },
+    {
+      "n": 2,
+      "chars": [
+        6411,
+        6453
+      ],
+      "snippet": "two women have died in the last nine years",
+      "who": "New Ground 社区",
+      "did": "过去九年间有两位女性居民去世，此前社区还经历过癌症与失智症。",
+      "numbers": "two women; nine years"
+    },
+    {
+      "n": 3,
+      "chars": [
+        6455,
+        6530
+      ],
+      "snippet": "While Jayne spent her final days in a care home, supported by her daughters",
+      "who": "Jayne",
+      "did": "生命最后的日子住进护理院，由她的女儿们陪护。",
+      "numbers": ""
+    },
+    {
+      "n": 4,
+      "chars": [
+        6872,
+        6967
+      ],
+      "snippet": "it was decided that one of her sons would move in for her final weeks, along with a night nurse",
+      "who": "Shirley 及其一个儿子",
+      "did": "Shirley 想从医院回自己公寓临终，社区商定由她的一个儿子搬进来陪最后几周，并配一名夜班护士，居民则每天探视。",
+      "numbers": "one son; night nurse"
+    },
+    {
+      "n": 5,
+      "chars": [
+        8822,
+        8868
+      ],
+      "snippet": "one of the points on the agenda was ‘funerals’",
+      "who": "New Ground 会议",
+      "did": "最近一次会议把「葬礼」列入议程，部分人想谈、部分人不安。",
+      "numbers": ""
+    },
+    {
+      "n": 6,
+      "chars": [
+        10965,
+        11060
+      ],
+      "snippet": "a death doula – a woman who is present at the end of life as an emotional and spiritual support",
+      "who": "一位临终陪伴者（death doula）",
+      "did": "到 New Ground 做讲座，讲临终情感与精神陪伴，并强调留下清晰指示对身后人的重要。",
+      "numbers": ""
+    },
+    {
+      "n": 7,
+      "chars": [
+        12311,
+        12398
+      ],
+      "snippet": "Sue T has filled in her Advanced Decision form but keeps it in a sealed envelope marked",
+      "who": "Sue T",
+      "did": "填好「预先决定」表格后封进信封，信封上写明仅在失能或死亡时开启，另附一张致「无论你是谁」的感谢便条。",
+      "numbers": ""
+    },
+    {
+      "n": 8,
+      "chars": [
+        22294,
+        22411
+      ],
+      "snippet": "Most importantly of all, we are thankful: for our interesting past, for the people we love and for our happy futures.",
+      "who": "New Ground 群体（叙述者 we）",
+      "did": "在章末总结中把「感恩」列为最重要的一条：感谢有趣的过去、所爱之人与幸福的未来。",
+      "numbers": ""
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Angela—Hedi",
+      "what": "在新 Ground 之前就是朋友，两人的女儿同校；Hedi 每周查问 Angela 并一起吃一顿饭。",
+      "chars": [
+        2829,
+        2923
+      ]
+    },
+    {
+      "pair": "Diana—Shirley",
+      "what": "Shirley 是 New Ground 联合创始人；她被诊断癌症后说不想谈，Diana 以自己公开谈癌症的经历回应。",
+      "chars": [
+        3304,
+        3373
+      ]
+    },
+    {
+      "pair": "Sheila—Shirley",
+      "what": "Sheila 把 Shirley 称为 OWCH 联合创始人、挚友，是她早年在 New Ground 留下的重要原因。",
+      "chars": [
+        10808,
+        10868
+      ]
+    },
+    {
+      "pair": "Ruth—结对伙伴（buddies）",
+      "what": "Ruth 与分配给她的伙伴关系紧密，依赖其支持，又害怕其中一位在她入住前去世。",
+      "chars": [
+        12786,
+        12862
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "nine years",
+      "what": "自首批居民入住至今的年数（Janet 说人人都老了九岁）",
+      "chars": [
+        6041,
+        6099
+      ]
+    },
+    {
+      "value": "five friends",
+      "what": "Sheila 在一年之内失去的朋友数目",
+      "chars": [
+        10756,
+        10806
+      ]
+    },
+    {
+      "value": "early eighties",
+      "what": "Vivien 现在的年龄",
+      "chars": [
+        5829,
+        5893
+      ]
+    }
+  ]
+}

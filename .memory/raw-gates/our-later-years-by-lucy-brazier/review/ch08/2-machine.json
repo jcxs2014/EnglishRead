@@ -1,0 +1,369 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/ch08 7 a life well lived finding the joy and purpose in every day.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/text/ch08_7_a_life_well_lived_finding_the_joy_and_.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Growing older has reminded us of the importance of being in the moment. We have no idea what tomorrow will bring but, as",
+          "ok": true,
+          "pos": 187
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Janet says, ‘Life truly began at seventy for me and I stopped saying I couldn’t do things.’ In different ways, we regula",
+          "ok": true,
+          "pos": 619
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "One of our earliest socials was a regular communal vegetarian meal made on a respectably tight budget, which is still go",
+          "ok": true,
+          "pos": 2051
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Vivien, who is on a mission to get the common room used even more, organises yoga there on a Monday morning, hoovering t",
+          "ok": true,
+          "pos": 2417
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘After my mother died, I found a pile of letters my estranged father had sent her from when they had met until I was in ",
+          "ok": true,
+          "pos": 4745
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Sue T has never been busier. ‘My weekly diary lies open on my table all day. It’s marked with arrows, circles, star-shap",
+          "ok": true,
+          "pos": 7520
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘I can get lazy and think I don’t want to go out, but when I feel that way then I push myself to do something. We have t",
+          "ok": true,
+          "pos": 14384
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘They brought hundreds of pictures showing me in various climbs or walks in the Alps or the UK, to the great surprise an",
+          "ok": true,
+          "pos": 16710
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The raised beds, built at different heights to suit all abilities, are offered to each of us at the beginning of every s",
+          "ok": true,
+          "pos": 25520
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I was in love with someone very special for ten years, but he died suddenly. Since then, apart from a few short-term rel",
+          "ok": true,
+          "pos": 30844
+        }
+      ],
+      "words": 38
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "句子结构": 65,
+        "表达方式": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "句子结构": 0.57,
+        "表达方式": 0.61
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "句子结构": 55,
+        "表达方式": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "句子结构": 0.44,
+        "表达方式": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "句子结构": 47,
+        "表达方式": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "句子结构": 0.28,
+        "表达方式": 0.82
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "句子结构": 59,
+        "表达方式": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "句子结构": 0.38,
+        "表达方式": 0.52
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "句子结构": 64,
+        "表达方式": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "句子结构": 0.32,
+        "表达方式": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "句子结构": 51,
+        "表达方式": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "句子结构": 0.28,
+        "表达方式": 0.57
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "句子结构": 53,
+        "表达方式": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "句子结构": 0.28,
+        "表达方式": 0.8
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "句子结构": 53,
+        "表达方式": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "句子结构": 0.22,
+        "表达方式": 0.46
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "句子结构": 46,
+        "表达方式": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "句子结构": 0.19,
+        "表达方式": 0.37
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "句子结构": 56,
+        "表达方式": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "句子结构": 0.3,
+        "表达方式": 0.56
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. 7: A Life Well Lived: Finding the Joy and Purpose in Every Day（活得好：在日常里找到快乐与意义）",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      6,
+      10
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 7524,
+    "block_target": [
+      14,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 9 章中位 10、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

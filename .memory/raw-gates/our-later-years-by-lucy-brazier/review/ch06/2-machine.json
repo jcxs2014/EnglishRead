@@ -1,0 +1,369 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/ch06 5 older but not necessarily wiser keeping an open mind.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/our-later-years-by-lucy-brazier/text/ch06_5_older_but_not_necessarily_wiser_keepin.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "In return, we have been able to show why it is important to give older female voices the space to be heard and that we h",
+          "ok": true,
+          "pos": 394
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "There is always more to learn and remaining self-aware is key to this. We know that we need to stay open-minded, to avoi",
+          "ok": true,
+          "pos": 676
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Maggs has continued to learn throughout her life. ‘I’m still learning. It’s important to keep learning and to remain soc",
+          "ok": true,
+          "pos": 1333
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "We also learn from the people around us – not just those of a similar age, but from the younger generations. We can gain",
+          "ok": true,
+          "pos": 1722
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Sue T reiterates this point. ‘Just because people see us as “ancient” doesn’t mean we have all the answers. We don’t. We",
+          "ok": true,
+          "pos": 2414
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Like Lida, for example, a political refugee, who escaped from Iran to the UK more than thirty years ago. ‘This female co",
+          "ok": true,
+          "pos": 5911
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘We wanted New Ground to be as diverse as possible,’ explains Rachel, ‘and not just in ethnicity, but in other ways. Sev",
+          "ok": true,
+          "pos": 6872
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Madeleine, one of the founders, summed it up in her usual inimitable style by saying, ‘We’ve been told what to do by men",
+          "ok": true,
+          "pos": 8752
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "All of this said, it is important to state that we were not and are not ‘anti-male’ and men are welcome to visit, whethe",
+          "ok": true,
+          "pos": 9233
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "There was no time to have a proper meeting at New Ground and reach a consensus about Merve moving in. I figured she was ",
+          "ok": true,
+          "pos": 15847
+        }
+      ],
+      "words": 62
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "句子结构": 49,
+        "表达方式": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "句子结构": 0.22,
+        "表达方式": 0.89
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "句子结构": 52,
+        "表达方式": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "句子结构": 0.2,
+        "表达方式": 0.38
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "句子结构": 52,
+        "表达方式": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "句子结构": 0.27,
+        "表达方式": 0.76
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "句子结构": 38,
+        "表达方式": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "句子结构": 0.15,
+        "表达方式": 0.46
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "句子结构": 38,
+        "表达方式": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "句子结构": 0.15,
+        "表达方式": 0.64
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "句子结构": 32,
+        "表达方式": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "句子结构": 0.15,
+        "表达方式": 0.57
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "句子结构": 40,
+        "表达方式": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "句子结构": 0.22,
+        "表达方式": 0.66
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "句子结构": 45,
+        "表达方式": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "句子结构": 0.2,
+        "表达方式": 0.69
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "句子结构": 32,
+        "表达方式": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "句子结构": 0.16,
+        "表达方式": 0.81
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "句子结构": 55,
+        "表达方式": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "句子结构": 0.19,
+        "表达方式": 0.48
+      }
+    }
+  ],
+  "form": {
+    "h1": "06. 5: Older but Not Necessarily Wiser: Keeping an Open Mind（老而未必然更智：保持开放）",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      6,
+      10
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5338,
+    "block_target": [
+      10,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 9 章中位 10、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
