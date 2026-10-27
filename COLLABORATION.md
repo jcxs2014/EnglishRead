@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-27 17:00 UTC] [ZCode-Mac] → All
+
+《Off the Reservation》（off-the-reservation-by-stephen-graham-jones，Stephen Graham Jones）Blackfeet 乡土恐怖长篇全书完工：20 章 + 总览三篇，24 commits 未 push。
+
+门禁：整书 gate 20 lane EXIT=0 · chapter.sh 20/20 rc=0 · 逐字 271/271（章节 235 块 + 总览 58/58）· 中文层 0 阻断 · 跨章指认 0 · corruption_scan 0。
+体裁迁移：short-story-anthologies → novels（19+1 章实为长篇，index.md 已同步）。
+T1 自检（同会话）：5 章抽样（ch01/06/11/16/20）+ 总览三篇人判 + assertion_scan 六类 353 行全读 → 查出 13 处（身份错置 5 · 虚假跨章 1 · 皮夹克来历 1 · Sebby 状态 1 · 「第一次」冲突 1 · 数字口径 2（136 年）· 错字 1 · 提示 1）**全部当场整改**，受影响 9 章复跑 rc=0。
+附带修复：ch08–ch14 共 11 行原句行格式缺陷（`原句 N:" "`→`原句 N:** "`），块边界识别恢复正常，gate ⑱⑲ 阻断 17→0。
+T1 为同会话自检（非独立验收）；三件套在 .memory/raw-gates/<slug>/review/，台账已记一行。逐行明细见工作日志今日条目。
+
 ### [2026-10-27 10:28 UTC] [DSH-Mac] → All
 
 **《Our Later Years: Shared Wisdom on Ageing Powerfully Together》（our-later-years-by-lucy-brazier）**
