@@ -56,7 +56,7 @@ modified: "2026-10-27"
 - **为什么这样写**：「加仑泡菜罐」与「骨灰」的组合是全书最刺眼的并置之一——死亡被装进最日常的容器。作者用「had to wait for a ride」点出 Mooch 的孤独：她连领取儿子骨灰都需要蹭别人的车。这解释了为什么她明知 Seine 是「仇人」仍要上这辆房车。
 - **读者视角提示**：注意泡菜罐——它廉价、密封、可以随时打开。Mooch 抱着它就像抱着 Conrad 本人。读者可以把「罐子」与「手机」并置：骨灰罐是实体，手机是声音，Mooch 用两样东西同时抓着儿子。
 
-> **原句 8:" "“I’m gonna make that jump for him next summer,” the boy said back. Conrad had never told her this was his boyfriend, but some things a mom just knows. “No,” Mooch said, kissing him and pushing him away at the same time. “You’re not, do you hear me? He wouldn’t want you to."**
+> **原句 8:** ""“I’m gonna make that jump for him next summer,” the boy said back. Conrad had never told her this was his boyfriend, but some things a mom just knows. “No,” Mooch said, kissing him and pushing him away at the same time. “You’re not, do you hear me? He wouldn’t want you to."
 - **中文理解**：男孩回答：「明年夏天我要替他完成那次跳跃。」Conrad 从没告诉过她这是他的男友，但有些事情当妈的心里有数。「不。」Mooch 一边亲他一边把他推开，「你不许去，听见了吗？他不会想让你去的。」
 - **关键词**：make that jump for him、his boyfriend、kissing him and pushing him away
 - **为什么这样写**：这是全章最动人的转折——Mooch 刚刚拿到儿子的骨灰，紧接着就否决了儿子爱人「替他赴死」的计划。她用吻和推开的矛盾动作表达爱：她需要这个男孩活着，就像她希望 Conrad 活着一样。这句话也反过来定义了 Conrad 的性格：他宁愿死也要证明自己。

@@ -26,7 +26,7 @@ modified: "2026-10-27"
 - **为什么这样写**：作者给 Christiana 一个跨越百年的精神导师——Running Eagle 是她「会认识真实的我」的人。这段内心独白点明 Christiana 的核心身份困境：她在外表、出生、穿着上都被迫伪装成另一个人，而 Running Eagle 能看见「内里」。
 - **读者视角提示**：读者应理解 Christiana 的「装」与 Nate 的「装」的不同——Nate 装坚强，Christiana 装身份。她把「做自己」的希望寄托在一个一百五十年前的战士身上，说明她的现实环境从未允许她真正做自己。
 
-> **原句 3:" "In the beginning was the Word, she recited inside, the only place she could, and the Word was Spoken with the Tongue, and so was the Tongue cut from the screaming pleading begging Mouth and folded into a grub-shaped hollow carved into the pages of a white man’s bible, leaving only Genesis and Revelations unpunctured, such that those two chapters became the interior lids of the good book in the same way beavers have two pairs of lips."**
+> **原句 3:** ""In the beginning was the Word, she recited inside, the only place she could, and the Word was Spoken with the Tongue, and so was the Tongue cut from the screaming pleading begging Mouth and folded into a grub-shaped hollow carved into the pages of a white man’s bible, leaving only Genesis and Revelations unpunctured, such that those two chapters became the interior lids of the good book in the same way beavers have two pairs of lips."
 - **中文理解**：她在心里默诵：「太初有道」，而道是用舌头说出的——于是她的舌头被从那张尖叫、哀求、乞求的嘴里割下来，折叠进一本白人圣经里挖出的蛆状凹槽；只有《创世记》和《启示录》两章没有被穿透，成了这本圣书的「内盖」，就像河狸有两对嘴唇。
 - **关键词**：the Word was Spoken with the Tongue、cut from the screaming pleading begging Mouth、beavers have two pairs of lips
 - **为什么这样写**：作者用《约翰福音》的「太初有道」改写 Christiana 的创伤——道必须用舌头说，而她的舌头被夺走，于是她把舌头「存进」圣经。这个亵渎与神圣混合的意象是全书最惊悚的段落之一：圣经不再是信仰，而是装着她身体残片的容器。

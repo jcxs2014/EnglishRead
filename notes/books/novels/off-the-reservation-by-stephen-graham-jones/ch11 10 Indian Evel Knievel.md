@@ -20,7 +20,7 @@ modified: "2026-10-27"
 - **为什么这样写**：开篇用「你拥有了一根脊椎」这种反常的表述立刻建立诡异感——「你」不是一个正常人，而是刚刚获得身体形态的存在。蓝星纹样呼应 ch04 里 Conrad 连体服上的珠饰，暗示这套衣服属于那个死去的特技演员，而现在被「别的东西」穿着。
 - **读者视角提示**：注意「脊椎」——这个存在对自己身体的每个部件都感到新奇，说明它要么是复活的死者，要么是长期寄居在别处的灵体。读者应带着「它到底是谁」的疑问读完全章。
 
-> **原句 2:" "“Indian Evel Knievel,” one of them in the travel plaza called you, didn’t she? That was wrong, though. These weathered white coveralls that go from ankle to wrist, gauzing you in thick material, these boots too square-toed for any stirrup, the gloves numbing your fingers, and the helmet with the gold visor over your face—you know what you are, what you’ll be recognized as if you step down among the other motor coaches. You’re a moon man. That’s a category, now, a possibility."**
+> **原句 2:** ""“Indian Evel Knievel,” one of them in the travel plaza called you, didn’t she? That was wrong, though. These weathered white coveralls that go from ankle to wrist, gauzing you in thick material, these boots too square-toed for any stirrup, the gloves numbing your fingers, and the helmet with the gold visor over your face—you know what you are, what you’ll be recognized as if you step down among the other motor coaches. You’re a moon man. That’s a category, now, a possibility."
 - **中文理解**：「印第安人 Evel Knievel」——旅行广场里有人这么叫你，是吧？但那是错的。这身从脚踝裹到手腕的旧白色连体服、这双方头到没法踩马镫的靴子、这双让手指发麻的手套、这顶盖着金色面罩的头盔——你知道自己是什么：只要你走进其他房车之间，就会被认出身份。你是个月球人。这已经是一个类别、一种可能了。
 - **关键词**：Indian Evel Knievel、moon man、a category
 - **为什么这样写**：作者用「moon man」这个太空时代的概念给「你」命名——它既不是印第安人，也不是特技演员，而是某种来自「月亮」的古老存在。这个命名把恐怖从「超自然」拉到「外星/异界」，暗示它的生命形式与人类完全不同。它穿上 Evel Knievel 的戏服，是因为那套衣服（蓝色星星、白色连体服）在它看来最接近「月球人」的形态。
