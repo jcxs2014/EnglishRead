@@ -1,0 +1,55 @@
+{
+ "book": "off-the-reservation-by-stephen-graham-jones",
+ "chapter": "ch16",
+ "text": "notes/books/novels/off-the-reservation-by-stephen-graham-jones/text/ch16_15_do_your_cultural_damage.txt",
+ "facts": [
+  {
+   "fact": "为掩盖身份，Benjamin 向 Nate 自称「Bill Pratt」——这个名字同时让人联想到卡莱尔学校创办人 Richard Henry Pratt。",
+   "anchor": "Bill Pratt",
+   "start": 3544,
+   "end": 3554
+  },
+  {
+   "fact": "迷糊的 Nate 说出「Carlisle, Karloff」——看穿了 Benjamin 化名与《弗兰肯斯坦》演员 William Henry Pratt（即 Boris Karloff 本名）的关联。",
+   "anchor": "Carlisle, Karloff",
+   "start": 4818,
+   "end": 4835
+  },
+  {
+   "fact": "Benjamin 把 Heavy Runner 男孩的骨骸装进一只 Raggedy Ann 玩偶里，用玩偶胸口的信槽塞骨、皮绳勒住布脖子固定头骨。",
+   "anchor": "Raggedy Ann",
+   "start": 10537,
+   "end": 10548
+  },
+  {
+   "fact": "附身在 Seine 身上的存在用已故印第安运动领袖 Russell Means 的声音说话，称 Benjamin 为「Road King」并威胁他的女儿们。",
+   "anchor": "Russell Means",
+   "start": 22345,
+   "end": 22358
+  },
+  {
+   "fact": "Benjamin 按下录像带播放键时低声说「do your cultural damage」——这句话是本章标题，讽刺他一边「尊重文化」一边盗取遗骨。",
+   "anchor": "do your cultural damage",
+   "start": 16447,
+   "end": 16470
+  },
+  {
+   "fact": "Benjamin 用「Mni Wiconi」（水就是生命）向抗议者车队喊话，想掩盖自己身份。",
+   "anchor": "Mni Wiconi",
+   "start": 5297,
+   "end": 5307
+  },
+  {
+   "fact": "房车电视播放的录像带叫《War Party》，是 Mooch 儿子们看的那部「男孩们去湖边」的电影。",
+   "anchor": "War Party",
+   "start": 16189,
+   "end": 16198
+  },
+  {
+   "fact": "Seine 用 Russell Means 的声音质问 Benjamin「你找到了那个孩子，不是吗」，直指他藏在玩偶里的骨骸。",
+   "anchor": "You found the child, did you not",
+   "start": 21752,
+   "end": 21784
+  }
+ ]
+}
