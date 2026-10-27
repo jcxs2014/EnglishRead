@@ -10,7 +10,7 @@ source_text: ch05
 
 - **出处**：*Our Later Years: Shared Wisdom on Ageing Powerfully Together*（Lucy Brazier，Bloomsbury Publishing Plc，2026）
 - **作者**：Lucy Brazier；正文以 OWCH / New Ground 集体的第一人称 "we" 叙述，后半章由 Vivien、Barbara，以及 Marion 与 Maggs 各自署名自述
-- **章节定位**：本章是全书 10 个单元里的第 5 个单元（Introduction + 8 章 + Epilogue 中的正文第 4 章），落在全书前半；它处理全书最日常的一层：年龄歧视怎样藏在称呼、问话和好心里，成员又怎样回嘴、怎样自处
+- **章节定位**：本章是全书 10 个单元里的第 5 个单元（Introduction + 8 章 + Epilogue 中的正文第 4 章），居全书正中（第 5/10 个单元）；它处理全书最日常的一层：年龄歧视怎样藏在称呼、问话和好心里，成员又怎样回嘴、怎样自处 后半的 Marion 与 Maggs 自述写于她 2013 年确诊骨髓纤维化之后，读「我在这里没用了」时须记住这层病程。
 - **字符数**：约 19,540 字符（去空白）；正文 4,375 词
 - **一句话主旨**：年龄歧视很少以辱骂出现，它藏在一句 "Are you OK, dear?"、一句「谁替你管钱」和一次让座里；New Ground 的做法是把这些词逐个换掉、把好意与轻慢分开，同时承认最难的一关是自己也开始相信那套说法。
 
@@ -152,7 +152,7 @@ source_text: ch05
 
 **关键词**：`steadily weaker`、`no use around here`、`the core team`
 
-**为什么这样写**：全章一直在反驳「老人无用」，最后却由一位创始成员自己说出「我在这里没用了」。作者不替她修饰，也不加安慰，把最难堪的自我评价原样留下——这正是前面说的负面成见吃到心里的样子。三句从身体（weaker）写到用处（no use），再写到功劳，一层比一层退。
+**为什么这样写**：全章一直在反驳「老人无用」，最后却由一位创始成员自己说出「我在这里没用了」。作者不替她修饰，也不加安慰，把最难堪的自我评价原样留下——但这不是负面成见的内化：她在 2013 年确诊骨髓纤维化（myelofibrosis），「越来越弱」是病程，不是心态。作者让它留在页面上，是要让「有用／无用」这套语言在真实病程面前也失效。三句从身体（weaker）写到用处（no use），再写到功劳，一层比一层退。
 
 **句子结构**：前三句都极短，前两句是主系表，第三句是主谓宾，节奏因此慢下来；第四句 I know I worked very hard as part of the core team who established our cohousing community, but I can no longer take a useful part in... 用 but 把功劳与失能对折，who 从句修饰 the core team。
 

@@ -16,7 +16,7 @@ source_text: ch02
 
 ## 论证结构
 
-- **核心论点**：老年生活可以像工程一样被提前设计，而设计的证据不是理念，是具体的物：一栋按适老需求建造却看不出适老的楼、八套留给社会保障房租户的房子、八条每年重访的共同价值。本章要证明的正是"普通人不靠奇迹也能做成"，因此它反复推开"反叛者""女性主义乌托邦"这类称号，把成果归给耐力与集体。
+- **核心论点**：老年生活可以像工程一样被提前设计，而设计的证据不是理念，是具体的物：一栋按适老需求建造却看不出适老的楼、八套留给社会保障房租户的房子、八条由每位成员承诺遵守的共同价值。本章要证明的正是"普通人不靠奇迹也能做成"，因此它反复推开"反叛者""女性主义乌托邦"这类称号，把成果归给耐力与集体。
 
 - **证据链**：
 
@@ -24,6 +24,7 @@ source_text: ch02
   |------|------|------|
   | 1998 年报纸与伦敦各社区团体布告栏上的邀请，由大学讲师 Maria Brenton 撰写 | 案例（原始文件） | 说明运动起于一封公开邀约，而不是先有组织再找人 |
   | 近二十年筹备、2016 年底入住、二十六位居民 | 数据（时间与人数） | 把"乌托邦"的想象换成可计量的代价与规模 |
+  | 二十年间「希望升起又落空、人来了又走」（hopes raised, dreams dashed, women joining, women leaving） | 案例（筹备过程） | 说明「近二十年」不是等待，而是不断流失人手的消耗 |
   | 八套社会住房，由 Housing for Women 管理 | 案例（制度安排） | 支撑"混合产权、无经济门槛"的包容主张 |
   | 轮椅宽度的门与走廊、每层电梯、湿房与可加装的扶手 | 案例（设计） | 说明适老需求被写进图纸，而不是事后补救 |
   | 八条价值与每年一次的重访 | 案例（制度） | 说明社区靠共识维持，不靠合同 |
@@ -40,7 +41,7 @@ source_text: ch02
 
 > **原句 1:** "Tucked away on a quiet residential road off a bustling high street in north London is New Ground. By the front entrance of this modern, smartly designed three-storey building is a brightly coloured ceramic plaque which reads:"
 
-**中文理解**：本章不从社区内部写起，先给地点：伦敦北部，一条从热闹商业街拐进去的安静住宅路，路旁是一栋设计现代的三层楼；门旁一块色彩鲜艳的陶土牌，上面写着纪念文字。
+**中文理解**：开篇先给地点：伦敦北部，一条从热闹商业街拐进去的安静住宅路，路旁是一栋设计现代的三层楼；门旁一块色彩鲜艳的陶土牌，上面写着纪念文字。
 
 **关键词**：`Tucked away`、`residential road`、`ceramic plaque`
 
@@ -88,7 +89,7 @@ source_text: ch02
 
 > **原句 5:** "Janet remembers being at the council meeting when New Ground got planning permission to go ahead. ‘We bounded down the stairs of Barnet Town Hall, we were ecstatic. I was living in a very old, very cold council flat with bad neighbours and I couldn’t wait to get out of there."
 
-**中文理解**：Janet 很感激规划许可批了下来：她记得那天她们从巴尼特市政厅的楼梯上跑下来，兴奋得发狂；她当时住在一套又旧又冷的公房里，邻居很糟，她等不及要搬走。
+**中文理解**：Janet 记得规划许可批下来的那天：她们从巴尼特市政厅的楼梯上跑下来，兴奋得发狂；她当时住在一套又旧又冷的公房里，邻居很糟，她等不及要搬走。
 
 **关键词**：`Barnet Town Hall`、`council flat`、`couldn't wait`
 
@@ -188,4 +189,4 @@ source_text: ch02
 
 ## 一句话总结
 
-本章把"抱团养老"从一句口号拆成可检查的物与制度：一块纪念牌、二十年的筹备、二十六位居民、八套社会住房、八条写在纸上却靠每年重访才活着的价值。它真正的论点是：晚年可以被提前设计，而设计得好不好，要看它能不能不露痕迹地让人继续过自己的日子。
+本章把"抱团养老"从一句口号拆成可检查的物与制度：一块纪念牌、二十年的筹备、二十六位居民、八套社会住房、八条写在纸上、由每位成员承诺遵守的价值。它真正的论点是：晚年可以被提前设计，而设计得好不好，要看它能不能不露痕迹地让人继续过自己的日子。

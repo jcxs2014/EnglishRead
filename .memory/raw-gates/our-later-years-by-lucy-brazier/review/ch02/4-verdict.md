@@ -16,3 +16,5 @@
 - **「first purpose-built…in the UK」看似宣传语**，实为 `text/ch02:31` 原文（同一长行内），可质疑处引用无误。
 - **块 4 引语从 `the moment the touchpaper was lit` 起引、前半句未收**：属句级截取，中文已说明「作者把时间往回拨」，不是漏译。
 - **块 5 引语末尾 `out of there."` 之后原文还有 `Just before I left, I was burgled…`**：句级截断合规，勿据此补句。
+
+**修复状态（2026-10-27）：本章阻断/提示已按 `2026-10-27-复核与修复指令.md` 改稿，`chapter.sh` rc=0，整书 `gate.sh` rc=0。**

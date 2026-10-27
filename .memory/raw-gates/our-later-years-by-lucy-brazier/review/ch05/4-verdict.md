@@ -17,3 +17,5 @@
 - **块 6 引语中「…」跳过 `I have a real issue with being called dear. It feels like a putdown.` 两句**：同段内省略，合规；金句 ⑬ 用的是含这两句的连续片段，两处不冲突。
 - **概览「后半章由 Vivien、Barbara，以及 Marion 与 Maggs 各自署名自述」**：`Barbara (aged seventy-six)` 在 `ch05:134`，Vivien、MARION、MAGGS 三段均在，署名结构无误。
 - **证据链写「成果进入 WHO 反年龄歧视运动」不是编造**：`ch05:29` 原文即有，勿删。
+
+**修复状态（2026-10-27）：本章阻断/提示已按 `2026-10-27-复核与修复指令.md` 改稿，`chapter.sh` rc=0，整书 `gate.sh` rc=0。**

@@ -148,7 +148,7 @@ source_text: ch06
 
 > **原句 10:** "There was no time to have a proper meeting at New Ground and reach a consensus about Merve moving in. I figured she was staying with me as my guest anyway. That ruffled some feathers because living in a community means we should discuss these things which I appreciate, but it was a temporary arrangement in my home, not the guest room."
 
-**中文理解**：这一段里收留 Merve 的居民说，当时来不及在 New Ground 开正式会议、就 Merve 搬进来达成共识；她想，Merve 反正是作为她的客人住在她家。这件事让一些人不满，因为住在社区里就意味着这类事该先商量——她接受这一点，但强调那只是她自家屋里的临时安排，不是社区客房。
+**中文理解**：Aleth 说（原文上一句点名她把这名乌克兰女性请进自己家），当时来不及在 New Ground 开正式会议、就 Merve 搬进来达成共识；她想，Merve 反正是作为她的客人住在她家。这件事让一些人不满，因为住在社区里就意味着这类事该先商量——她接受这一点，但强调那只是她自家屋里的临时安排，不是社区客房。
 
 **关键词**：`reach a consensus`、`ruffled some feathers`、`which I appreciate`
 
