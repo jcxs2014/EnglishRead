@@ -66,7 +66,7 @@ source_text: ch04
 
 **中文理解**：这件事在设计阶段就定下了：每户厨房都开一扇朝向公共走廊或室外走道的大窗，住户走过别人家时能看见里面，确认没出什么岔子。
 
-**关键词**：`designing the building`、`large window`、`communal corridor`、`nothing was amiss`
+**关键词**：`walked past`、`large window`、`communal corridor`、`nothing was amiss`
 
 **为什么这样写**：作者把"互相照看"从品德问题改成设计问题。窗子朝走廊，等于把"路过时看一眼"变成日常动作，不需要谁主动发起；amiss 这个词选得克制，它只要求"没出岔子"，不要求"过得很好"。同一种可见性既让人安心，也让人不自在：有人靠它确认邻居没事，也有人因此觉得被看进来。
 
