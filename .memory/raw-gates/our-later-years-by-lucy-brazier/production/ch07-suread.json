@@ -1,0 +1,55 @@
+{
+ "book": "our-later-years-by-lucy-brazier",
+ "chapter": "ch07",
+ "text": "notes/books/non-fiction/our-later-years-by-lucy-brazier/text/ch07_6_no_utopia_lessons_in_navigating_confli.txt",
+ "facts": [
+  {
+   "fact": "新地社区不设负责人，从建组起就刻意维持一个没有层级的结构化共居环境。",
+   "anchor": "There is no leader at New Ground",
+   "start": 1134,
+   "end": 1166
+  },
+  {
+   "fact": "日常治理交给七人管理委员会，每年改选，每月开会，并向全体居民发季度报告。",
+   "anchor": "made up of seven of us, elected annually",
+   "start": 3885,
+   "end": 3925
+  },
+  {
+   "fact": "共识决策要求 80% 多数同意才能通过提案；最初目标是 100%，后因不现实且拖慢进度而放弃。",
+   "anchor": "needing an 80 per cent majority to agree any proposal",
+   "start": 7351,
+   "end": 7404
+  },
+  {
+   "fact": "提案被否决后要带修改稿回到下次会议重走程序；仍谈不拢才投票，九年里只走到投票这一步两次。",
+   "anchor": "In nine years this has only happened twice",
+   "start": 9587,
+   "end": 9629
+  },
+  {
+   "fact": "冲突解决政策承认有些冲突无法解决，差异只能被接受或至少被容忍，个人间的困难不应升级为全组事务。",
+   "anchor": "Some conflicts cannot be resolved",
+   "start": 15256,
+   "end": 15289
+  },
+  {
+   "fact": "老龄社区的丧失不可避免，但社区不因此削弱，核心力量仍在，并因离世成员留下的遗产而更丰富。",
+   "anchor": "women no longer with us",
+   "start": 6043,
+   "end": 6066
+  },
+  {
+   "fact": "本章末尾收录 Sue T（79 岁）的自述：她生于南威尔士贫穷矿村，邻里互助是她对共同生活的第一记忆。",
+   "anchor": "Sue T (aged seventy-nine)",
+   "start": 18245,
+   "end": 18270
+  },
+  {
+   "fact": "Tessa（85 岁）1940 年生于南非比勒陀利亚，父母公开反对种族隔离，她从小对不平等极为敏感。",
+   "anchor": "Tessa (aged eighty-five)",
+   "start": 22224,
+   "end": 22248
+  }
+ ]
+}
