@@ -7,7 +7,7 @@ modified: "2026-10-29"
 
 ## 本章导航
 - **一句话概括**：Hollyoak House 的空宅描写——庭园被荒草吞没、房子设施完好却无人入住，本地人嘴上惋惜、心里都清楚"房子并不空"，章末一句"有时，还有梦"把威胁引向睡眠。
-- **情感弧线位置**：全书起点（第一部 Gricklemas，距 Tigglestide 前夜还有一周）：不安从第一段的 slow decay 开始累积，本章只铺环境、不引入任何人物。
+- **情感弧线位置**：全书起点（Tigglestide 前夜前一周）：不安从第一段的 slow decay 开始累积，本章只铺环境、不引入任何人物。
 - **Tropes 兑现/反转**：兑现 haunted house 开场（空宅 + 邻里讳莫如深）；反转在于叙述者拒绝展示任何超自然现象——只有一瞥、窸窣与梦，连"鬼"字都不出现。
 - **人物弧线**：本章无人物登场；a good family would do well here 为一家人进村留位（已核 ch01：Jessica、Sandy、Greg 均在下一章出现）。
 - **叙事手法**：由庭园（视觉）到房产清单（空间）再到本地闲谈（传闻），最后一句 "And, sometimes, there were dreams." 把威胁从屋外移进住客的头脑；"always just the next room" 式的近在咫尺是全书恐惧的基本语法。
