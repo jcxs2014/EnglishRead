@@ -1,0 +1,122 @@
+{
+  "chapter": "ch34",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch34_leah.txt",
+  "facts": [
+    {
+      "fact": "Leah 从后舱走到主甲板，见 Matteo 盘腿坐在一圈火把正中、朝舷窗方向眨眼；她想问他让自己睡了多久，又清楚问了也没用，Matteo 没有理会她的出现。",
+      "anchor": "Matteo in his circle of torches on the main deck, blinking towards the windows",
+      "start": 8,
+      "end": 86
+    },
+    {
+      "fact": "Jelka 离开后，两人的共同生活退成一片空洞的安静，彼此绕着走、互相让开距离，仿佛仍要把 Jelka 算进她已经腾出的那块空间。",
+      "anchor": "We moved around each other, gave each other a wide berth",
+      "start": 589,
+      "end": 645
+    },
+    {
+      "fact": "她两次主动开口（提议煮咖啡、说该去做点吃的），Matteo 始终沉默；她看着他的侧脸与毫无表情，一时被怒气淹没——这怒气可能只因为他无视她，也可能因为黑暗、空白、无望以及他们被迫忍受的一切之毫无意义。",
+      "anchor": "the impassive expression, and felt briefly overwhelmed by rage",
+      "start": 2105,
+      "end": 2167
+    },
+    {
+      "fact": "长期幽闭让她以为身体已被压变形，常在舷窗上看见自己被压力压扁、折弯、扭曲得不成形状；近来她越来越难看到一个不带上某种不快痕迹的自己。",
+      "anchor": "Sometimes I would catch my reflection in the windows and imagine I saw myself concertinaed",
+      "start": 1288,
+      "end": 1378
+    },
+    {
+      "fact": "她把念头转向 Miri，突然极想被人紧紧抱住——想把自己的头埋进她颈窝，感觉她的手指穿过自己的头发。",
+      "anchor": "I wanted to fit my head into the crook of her neck",
+      "start": 2698,
+      "end": 2748
+    },
+    {
+      "fact": "她问「我们以后要怎么解释这一切」，主要指 Jelka，也指所有事；她试着想像向 Miri 讲述、把攒下的细小观察一件件摆出来，但那个场景演不下去——想像中的自己只发出一声怪异的鲸类海声，想像中的 Miri 无法被说得明白。",
+      "anchor": "The imaginary me opened her mouth and produced only a strange, whaling ocean sound",
+      "start": 3152,
+      "end": 3234
+    },
+    {
+      "fact": "转折：Matteo 低下头、肩膀动了动——这是本章第一个像听见她说话的举动；沉默约一分钟后他侧身让位，示意她进火把圈。",
+      "anchor": "his first movement that seemed to indicate that he had heard me speaking",
+      "start": 3340,
+      "end": 3412
+    },
+    {
+      "fact": "她坐到他身旁，两人身体并未真正相触，就这样待了很久才起身恢复原状；四下安静，像有什么在屏息，时间过去，很久什么都没有发生。",
+      "anchor": "no sound and no voice within that sound, as though something were taking a breath",
+      "start": 3743,
+      "end": 3824
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Leah–Matteo",
+      "kind": "同船封闭空间里共同生活的同伴（非浪漫明示）：Jelka 走后就沉默疏离、整日互不搭理；本章末他无言让位、两人并肩久坐，是一次没有言语的和解姿态。",
+      "anchor": "and we stayed like that for a long time before getting up again",
+      "start": 3633,
+      "end": 3696
+    },
+    {
+      "pair": "Leah–Jelka",
+      "kind": "曾经同处的伙伴，如今是缺席者：Leah 说「这一切要怎么解释」时主要指她，两人的日常里仍留着她腾出的空位。",
+      "anchor": "I meant Jelka, I suppose, but perhaps again I also meant",
+      "start": 2866,
+      "end": 2922
+    },
+    {
+      "pair": "Leah–Miri",
+      "kind": "Leah 的思念与倾诉对象（关系性质原文未明说，可能是挚友或爱人）：她想被 Miri 抱住、想把发生的一切讲给她听，却在想像中失语。",
+      "anchor": "tried to picture explaining all that had happened to Miri",
+      "start": 2949,
+      "end": 3006
+    },
+    {
+      "pair": "Matteo–Jelka",
+      "kind": "同处者：Jelka 的离开同样占据 Matteo 的生活空间，两人都还在把她算进她已经离开的位置（由「两人都在 factor Jelka」推断，原文未直述二人关系）。",
+      "anchor": "as if still trying to factor Jelka into the space",
+      "start": 647,
+      "end": 696
+    }
+  ],
+  "numbers": [
+    {
+      "value": "叙述者 Leah（原文 Leah）",
+      "anchor": "Leah.\n\n\nMatteo in his circle of torches on the main deck, blinking towards the windows",
+      "start": 0,
+      "end": 86
+    },
+    {
+      "value": "Matteo（原文 Matteo）",
+      "anchor": "Matteo in his circle of torches on the main deck, blinking towards the windows",
+      "start": 8,
+      "end": 86
+    },
+    {
+      "value": "Jelka（原文 Jelka）",
+      "anchor": "trying to factor Jelka into the space she had vacated",
+      "start": 659,
+      "end": 712
+    },
+    {
+      "value": "Miri（原文 Miri）",
+      "anchor": "and then closed my eyes quickly, thought about Miri instead",
+      "start": 2530,
+      "end": 2589
+    },
+    {
+      "value": "两人（原文 both of us）",
+      "anchor": "All of us (both of us, I should say) had been cooped up so long",
+      "start": 1017,
+      "end": 1080
+    },
+    {
+      "value": "第二次（原文 second inspection）",
+      "anchor": "This image would usually correct itself on second inspection, though not always",
+      "start": 1446,
+      "end": 1525
+    }
+  ]
+}

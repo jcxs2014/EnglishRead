@@ -27,6 +27,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 2:** "Since Jelka, Matteo’s and my cohabitation had receded to something empty, quiet for the most part. We moved around each other, gave each other a wide berth, as if still trying to factor Jelka into the space she had vacated."
 
 **中文理解**：Jelka 走后，两个人的同居退成一片空，多数时候很安静；他们绕着彼此走，留出很宽的间距，好像还在把她算进她已经腾出来的那块空间里。
@@ -36,6 +38,8 @@ modified: "2026-10-29"
 **为什么这样写**：`receded` 是退潮的词，拿来写两个人共同生活的退场；`gave each other a wide berth` 是航海的措辞，把这间舱写成一条要错身而过的航道。末尾 `factor Jelka into the space she had vacated` 把算式的动词（factor into）和空房的动词（vacate）压进同一句：他们在计算一个已经不在的人还该占多大位置。
 
 **读者视角提示**：`quiet for the most part` 里的 `for the most part` 留了口子——安静不是全部，剩下的那部分后面会以怒气和一段人声回来。
+
+---
 
 ---
 
@@ -51,7 +55,21 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "I looked towards the window, caught the bent, unhappy line of the thing that seemed to be my reflection and then closed my eyes quickly, thought about Miri instead. I wanted, as it suddenly occurred to me, to be hugged more desperately than I had possibly ever wanted it."
+---
+
+> **原句 4:** "I looked at the side of his face, the impassive expression, and felt briefly overwhelmed by rage. I’m not sure what this feeling was about, exactly, whether it was purely to do with Matteo ignoring me or rather a little of everything: the dark, the blank, the impossibility, the sheer pointlessness of everything we had been so far been forced to endure."
+
+**中文理解**：她看着 Matteo 的侧脸，那副毫无表情的样子，怒气忽然涌上来。她也说不准这怒气到底冲着什么——是气他无视她，还是冲着一点点别的全部：黑暗、空白、不可能，以及他们至今被迫忍受的一切究竟有什么意义。
+
+**关键词**：the impassive expression / overwhelmed by rage / purely to do with Matteo ignoring me / the sheer pointlessness
+
+**为什么这样写**：先写一个具体对象（他的侧脸），再用一整个长句把怒气拆开：`whether it was purely… or rather a little of everything`。这个句法等于当场撤回指控——她想恨他，却发现自己恨的是处境。冒号后的四个名词短语一个比一个抽象，最后落在 `pointlessness` 上，把空气也写成了同谋。
+
+**读者视角提示**：注意这是全章第二次尝试搭话失败之后。前一次她还在讲「咖啡」，这一次怒气才浮上来。
+
+---
+
+> **原句 5:** "I looked towards the window, caught the bent, unhappy line of the thing that seemed to be my reflection and then closed my eyes quickly, thought about Miri instead. I wanted, as it suddenly occurred to me, to be hugged more desperately than I had possibly ever wanted it."
 
 **中文理解**：她转向窗户，看见倒影弯成难看的一条线，立刻闭上眼，转而去想 Miri。就在那一刻她明白：自己想被人抱住的程度，超过了她有生以来想要过的任何东西。
 
@@ -63,7 +81,33 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "It was at this point that Matteo hung his head, his first movement that seemed to indicate that he had heard me speaking. He didn’t say anything, though his shoulders moved a little, and after a long minute he moved to one side, gesturing for me to step inside his circle of torches."
+---
+
+> **原句 6:** "I wanted, as it suddenly occurred to me, to be hugged more desperately than I had possibly ever wanted it. I wanted to fit my head into the crook of her neck and feel her move her fingers through my hair."
+
+**中文理解**：她忽然意识到，自己想被抱住——比她这辈子任何时刻都更迫切地想；想把头埋进 Miri 的颈窝，感觉她的手指穿过自己的头发。
+
+**关键词**：be hugged more desperately / fit my head into the crook of her neck / her fingers through my hair
+
+**为什么这样写**：两个句子都用 `I wanted` 开头，第二句更具体：颈窝、手指、头发——全是触觉，没有一句写 Miri 的脸。`as it suddenly occurred to me` 插在句中，像是这个愿望本来不在她的清单上，是被刚才那阵怒气挤出来的。全章几乎没有身体接触的描写，这一处只发生在想要里。
+
+**读者视角提示**：这段紧接在她「想起 Miri」之后。注意欲望是先以「被抱住」的形式出现的，她要的不是说话，是被固定住。
+
+---
+
+> **原句 7:** "I tried to picture explaining all that had happened to Miri, taking out all the small observations I’d stored up for her and laying them down in a line, but when I did so the scene wouldn’t run correctly. The imaginary me opened her mouth and produced only a strange, whaling ocean sound and the imaginary Miri couldn’t be made to understand."
+
+**中文理解**：她试着想象把这一切讲给 Miri 听：把攒下来的细碎观察一件件取出来、排成一行；可这么一想，场景就运行不下去——想象中的她张开嘴，只发出一种怪异的、像鲸一样的声音，而想象中的 Miri 怎么也听不懂。
+
+**关键词**：taking out all the small observations / the scene wouldn’t run correctly / a strange, whaling ocean sound / couldn’t be made to understand
+
+**为什么这样写**：`taking out… laying them down in a line` 用的是清点物件的动作，把「讲述」写成陈列；`wouldn’t run correctly` 是全章最像机器故障的一句，用在想象上，等于说她的脑子也进了水。最后一句里「想象中的我」和「想象中的 Miri」都被点了名——真实的人已经改不动这个场景了。
+
+**读者视角提示**：这是全章最接近「海」的时刻：不是外面有声音，是她自己发出海的声音。记住这一点，下一章她听见的「人声」才更可疑。
+
+---
+
+> **原句 8:** "It was at this point that Matteo hung his head, his first movement that seemed to indicate that he had heard me speaking. He didn’t say anything, though his shoulders moved a little, and after a long minute he moved to one side, gesturing for me to step inside his circle of torches."
 
 **中文理解**：到这时 Matteo 才低下头——这是她开口以来他第一个像听见了的动作。他仍旧不说话，肩膀动了一下，过了很久才让开一边，示意她走进火把圈里。
 
