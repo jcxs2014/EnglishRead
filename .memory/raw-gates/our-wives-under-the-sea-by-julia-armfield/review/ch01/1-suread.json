@@ -1,0 +1,121 @@
+{
+  "chapter": "ch01",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch01_miri.txt",
+  "facts": [
+    {
+      "fact": "Leah 说深海一直到最底下都有东西在动，没有空无一物的地方。",
+      "anchor": "“The ocean is unstill,” she says, “further down than you think. All the way to the bottom, things move.”",
+      "start": 316,
+      "end": 420
+    },
+    {
+      "fact": "Leah 回来后两人改成晚上并排坐在沙发上，Miri 改为站在厨房吃饭以免弄脏。",
+      "anchor": "so I prefer to eat mine standing up in the kitchen to save on mess",
+      "start": 1189,
+      "end": 1255
+    },
+    {
+      "fact": "Leah 早上六点醒来就流鼻血，Miri 递给她一块法兰绒布并开龙头，叫她别把头往后仰。",
+      "anchor": "At around six this morning, Leah woke and immediately had a nosebleed.",
+      "start": 5083,
+      "end": 5153
+    },
+    {
+      "fact": "Miri 替 Leah 打电话给 Centre，只为要到她的 personnel number。",
+      "anchor": "the whole purpose of my calling the Centre has been to try to get hold of it",
+      "start": 8962,
+      "end": 9038
+    },
+    {
+      "fact": "Leah 把 Miri 的手从脸上推开，用近乎熟练的动作说自己没事，并说 Miri 慌乱中穿上的鞋不配对。",
+      "anchor": "She pushed my hands from her face in a manner that seemed almost practised and told me it wasn’t a problem.",
+      "start": 6499,
+      "end": 6606
+    },
+    {
+      "fact": "Leah 刚回来流血时，Miri 一边惊慌一边硬套上鞋，要求带她去急诊（A&E）。",
+      "anchor": "jammed my shoes on and demanded she let me take her to A&E",
+      "start": 6335,
+      "end": 6393
+    },
+    {
+      "fact": "Miri 输入除 personnel number 之外的所有号码，第三个录音声音随即训斥她并宣布挂断电话。",
+      "anchor": "I enter all the details required, aside from the personnel number, at which point a third recorded voice comes on the line and proceeds to scold me in a tight robotic jabber, noting as a helpful afterthought that my call will now be terminated.",
+      "start": 9040,
+      "end": 9284
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three o’clock / 三点",
+      "anchor": "It’s three o’clock and I’m tilting the phone receiver away from my ear",
+      "start": 2206,
+      "end": 2276
+    },
+    {
+      "value": "six this morning / 今天早上六点",
+      "anchor": "At around six this morning, Leah woke and immediately had a nosebleed.",
+      "start": 5083,
+      "end": 5153
+    },
+    {
+      "value": "six fifteen / 六点十五分",
+      "anchor": "had actually woken at six fifteen",
+      "start": 5334,
+      "end": 5367
+    },
+    {
+      "value": "last month / 上个月",
+      "anchor": "since she returned last month",
+      "start": 995,
+      "end": 1024
+    },
+    {
+      "value": "midnight / 午夜",
+      "anchor": "we sit together on the sofa until midnight",
+      "start": 1518,
+      "end": 1560
+    },
+    {
+      "value": "fiftieth time / 第五十次",
+      "anchor": "for the fiftieth time that my call is important",
+      "start": 4194,
+      "end": 4241
+    },
+    {
+      "value": "four times / 四次",
+      "anchor": "anyone who sneezes more than four times abruptly loses the sympathy of an audience",
+      "start": 7068,
+      "end": 7150
+    },
+    {
+      "value": "two knives / 两把刀",
+      "anchor": "two knives; a plastic bag of bread",
+      "start": 2623,
+      "end": 2657
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "kind": "伴侣（同住；Leah 从 Centre 归来后两人关系变形，分房睡）",
+      "anchor": "silence like a spine through the new shape our relationship has taken",
+      "start": 1420,
+      "end": 1489
+    },
+    {
+      "pair": "Leah–the Centre",
+      "kind": "隶属/受其管理（Leah 刚从 Centre 退役归来，须凭 Centre 发的 statement number 办事）",
+      "anchor": "the statement number she should have received from the Centre on final demob",
+      "start": 8674,
+      "end": 8750
+    },
+    {
+      "pair": "Miri–母亲",
+      "kind": "母女（母亲爱用剪报和书册警告她各种风险）",
+      "anchor": "My mother used to say that washing your face with soap was as bad as leaving it dirty",
+      "start": 7529,
+      "end": 7614
+    }
+  ]
+}

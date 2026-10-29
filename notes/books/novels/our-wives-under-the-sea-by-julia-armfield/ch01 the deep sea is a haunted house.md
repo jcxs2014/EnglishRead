@@ -75,7 +75,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "She says, when she says anything, that it’s something to do with the pressure, the sudden lack thereof. Her blood retains no sense of the boundaries it once recognised and so now just flows wherever it wants."
+> **原句 6:** "At around six this morning, Leah woke and immediately had a nosebleed. I’ve been sleeping in the room across the hall and so didn’t actually see this but I’ve grown accustomed to her patterns, even at this state of half remove."
+
+**中文理解**：早上六点，Leah 醒来就流鼻血。Miri 说她已经睡在走廊对面的房间，所以其实没看见，但她摸熟了 Leah 的节律，哪怕隔着这一层半吊子的距离。
+
+**关键词**：immediately had a nosebleed / sleeping in the room across the hall / this state of half remove
+
+**为什么这样写**：作者把「分房」这个事实塞进一句交代误差的话里——先说没看见，再说摸熟了节律，于是读者同时拿到两件事：她们已经分房睡，而 Miri 靠听和计时照顾她。half remove 既指隔着一堵墙，也指她看 Leah 始终隔着一层；这种「半在场」是本章所有照护动作的底色。这一段故意不写 Leah 的脸，只写她几点会流、几点该递东西，读者的注意力被引到「她什么时候会怎样」，而不是「她到底怎么了」。
+
+**读者视角提示**：「走廊对面的房间」是本章唯一直接交代两人分房的一句，别漏掉——后面所有并排坐沙发的夜晚都要放在这个背景下读。「鞋不配对、硬要送急诊」那段是同一套动作的第二个例子：她越想帮忙，Leah 越熟练地把她推开。
+
+---
+
+> **原句 7:** "She says, when she says anything, that it’s something to do with the pressure, the sudden lack thereof. Her blood retains no sense of the boundaries it once recognised and so now just flows wherever it wants."
 
 **中文理解**：Leah 难得开口时，说这跟压力有关，跟压力突然消失有关。她的血不再认得从前认得的边界，于是想往哪儿流就往哪儿流。
 
@@ -87,7 +99,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "In the mirror, her skin had the look of something dredged from water. The yellow eyes of someone drowned, of someone found floating on her back. Be all right, she said, be all right in a minute."
+> **原句 8:** "In the mirror, her skin had the look of something dredged from water. The yellow eyes of someone drowned, of someone found floating on her back. Be all right, she said, be all right in a minute."
 
 **中文理解**：在镜子里，她的皮肤像刚从水里打捞上来的东西；她的眼睛是溺死者的那种黄，是仰面浮在水上被人发现的人的眼睛。她说，会好的，一会儿就好。
 
@@ -99,7 +111,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 8:** "I do not, as I have been attempting to get through and explain, have Leah’s personnel number – the whole purpose of my calling the Centre has been to try to get hold of it."
+> **原句 9:** "I do not, as I have been attempting to get through and explain, have Leah’s personnel number – the whole purpose of my calling the Centre has been to try to get hold of it."
 
 **中文理解**：Miri 没有 Leah 的人员编号——她打这个电话的全部目的，正是想拿到这个编号。
 
