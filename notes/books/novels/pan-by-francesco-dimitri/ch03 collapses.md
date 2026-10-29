@@ -7,7 +7,7 @@ modified: "2026-10-29"
 
 ## 本章导航
 - **一句话概括**：新的暴力没有发生，坍塌全在「安全」的房间里：梦里胖孩子 Porky 轻到能飞、口吃的 Filippo 成了森林斗士；Santa Lucia 诊所里，「国宝」记者 Dal Mare 单独审问残存的 Wedge，套出口信和「赤脚踩柏油路」的细节，临走丢下「别再对我撒谎」——因为男孩藏着去年夏天没说的东西，而 Luca 只能用止痛药解释那根变形的手杖；下半节 Wendy 在 Via Veneto 等了半天，换来一单不付钱的生日派对和「魔术不卖座」的宣判，她的自信从脚下塌掉，末了让步去谈周日。
-- **情感弧线位置**：ch01 那一行的街头毒打之后，本章几乎不再伤身体——坍塌发生在病房与办公室，恐惧从街面转入两个体面的房间（名人记者、经纪人、药物）。全章基调是体面的凌迟。
+- **情感弧线位置**：ch01 那一夜的街头毒打之后，本章几乎不再伤身体——坍塌发生在病房与办公室，恐惧从街面转入两个体面的房间（名人记者、经纪人、药物）。全章基调是体面的凌迟。
 - **Tropes 兑现/反转**：「幸存者接受名记者专访」反转成一场私人审讯；「经纪人给你一个机会」反转成白嫖——不付钱被说成送给女孩的礼物；「梦补足现实」这条 ch01 立的规矩在本章开头被原样兑现两次（飞行给胖、口才给口吃者）。
 - **人物弧线**：Porky 与 Filippo（两个新梦者，向读者演示梦的规则）；Luca/Wedge（从幸存者变成撒谎者，护着一个叫「去年夏天」的秘密）；Augusto Dal Mare（公众的国宝、私下的捕手，钩子第一次显形）；Aldo Miglio（靠别人的梦吃饭的中等经纪人，首次出场）；Wendy（从街头木摊走进办公室，同一条下行弧线，艺名背后的真名 Angela 第一次亮出）。
 - **叙事手法**：两节制——I 节从两个孩子的梦切进病房，中途插入诊所与一通电话的旁白交代；II 节以 Via Veneto 的城市旁白开场，随后是一整场不间断的办公室对话。对白极短、靠单独成段的超短收尾句压住（本章 I 节末尾那行只有 Almost like a hook. 四个词）——见块 7 引语邻句；自由间接引语不加任何标记钻进人物脑内（男孩心里反问柏油路有什么相干、温蒂心里翻译经纪人的迟到）；叙述者偶尔下场下格言判词。
@@ -34,7 +34,7 @@ modified: "2026-10-29"
 
 > **原句 3:** "They hurt each other plenty—they don’t pull their punches—but every bruise makes it more fun, makes them feel more alive, and every dodge makes them want to laugh. They insult each other, and that makes the punches harder, the bruises blacker, and the fun go through the roof. Their parents can never understand, because they’ve had their time, and given up on wonder to live in the world."
 
-**中文理解**：他们下手从不留力，可每一块淤青都让游戏更好玩、让人更像活着，每一次躲闪都惹人发笑；互相辱骂让拳头更重、淤青更黑、 fun 掀了屋顶。他们的父母永远不懂，因为大人自己的时代已经过完，为了住进 world 而放弃了 wonder。
+**中文理解**：他们下手从不留力，可每一块淤青都让游戏更好玩、让人更像活着，每一次躲闪都惹人发笑；互相辱骂让拳头更重、淤青更黑，把乐趣掀上了屋顶。他们的父母永远不懂，因为大人自己的时代已经过完，为了住进「世界」而放弃了「惊奇」。
 **关键词**：pull their punches / harder / blacker / through the roof / given up on wonder
 **为什么这样写**：两个比较级加一个夸张短语，把斗殴写成一条需要不断加码的快乐曲线；然后 suddenly 换人称——Their parents 一句把镜头从孩子拉远，给出全书到目前为止最直白的一条设定：大人不是挨过打，是交了 wonder 换了 world。
 **读者视角提示**：这段判词是叙述者少见的直接下场。原文紧接着还有一句冷话：世界未必同意他们这套账——请把它读成对整条「两界规则」的第一次公开怀疑。

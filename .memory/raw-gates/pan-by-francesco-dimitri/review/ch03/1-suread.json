@@ -1,0 +1,112 @@
+{
+ "chapter": "ch03",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch03_collapses.txt",
+ "facts": [
+  {
+   "fact": "Porky 在地下室睡觉做梦：梦里他一样胖却轻得能飞，看见海里一个同龄裸体女孩（Giulia），没敢下去。",
+   "anchor": "In Dream, Porky is no less fat, but much lighter, light enough to fly.",
+   "start": 294,
+   "end": 364
+  },
+  {
+   "fact": "口吃的 Filippo 在梦里不必再念满是小舌音的绕口令，而是在森林里被袭击后反手打回去，边打边笑。",
+   "anchor": "He no longer has to stand at the front of the class reciting “Susie’s sewing stockings for soldiers.”",
+   "start": 1111,
+   "end": 1212
+  },
+  {
+   "fact": "孩子们用木剑对打、越打越乐；叙述者说父母们「已经有过自己的时代，放弃惊奇去活在世上」，而世界未必同意他们。",
+   "anchor": "Their parents can never understand, because they’ve had their time, and given up on wonder to live in the world.",
+   "start": 2207,
+   "end": 2319
+  },
+  {
+   "fact": "Wedge（Luca）被送进 Santa Lucia 私人诊所——19 世纪由富有的虔诚神秘学家 Girolamo Venturi 创办，主张药物手术与祈祷并用。",
+   "anchor": "It’s called the Santa Lucia Clinic and it was founded in the 19th century by Girolamo Venturi, the famous, wealthy, and pious occultist.",
+   "start": 2469,
+   "end": 2605
+  },
+  {
+   "fact": "Augusto Dal Mare 先给 Luca 父亲打电话要求见孩子，随后跛着脚、拄银柄木杖走进诊所（护士笑他像 House）。",
+   "anchor": "Dal Mare enters the clinic limping slightly, as injury has forced him to do for the last fourteen years.",
+   "start": 4050,
+   "end": 4154
+  },
+  {
+   "fact": "Dal Mare 单独审问 Luca 那晚细节（男人还是女人、年龄、声音），Luca 说「他们的脚是光的」，Dal Mare 立刻追问「在沥青路上？」。",
+   "anchor": "“Their feet were bare,” he remembers.",
+   "start": 7816,
+   "end": 7853
+  },
+  {
+   "fact": "Dal Mare 追问「你和朋友做了什么」，Luca 只说拿了喷漆；Dal Mare 临走警告「别再对我撒谎」，Luca 觉得那根杖柄像钩子。",
+   "anchor": "“Never lie to me again,” he warns, before walking out.",
+   "start": 8809,
+   "end": 8863
+  },
+  {
+   "fact": "第二节：Wendy 在 Via Veneto 见经纪人 Aldo Miglio——他要她周日免费演出、砍掉魔术、把怪物改成南方穷人；Wendy 最后让步「那就谈周日吧」。",
+   "anchor": "“Let’s talk about Sunday,” she concedes.",
+   "start": 15312,
+   "end": 15352
+  }
+ ],
+ "numbers": [
+  {
+   "value": "十四年（跛脚的年头）",
+   "anchor": "Dal Mare enters the clinic limping slightly, as injury has forced him to do for the last fourteen years.",
+   "start": 4050,
+   "end": 4154
+  },
+  {
+   "value": "十九世纪（诊所创办）",
+   "anchor": "It’s called the Santa Lucia Clinic and it was founded in the 19th century by Girolamo Venturi",
+   "start": 2469,
+   "end": 2562
+  },
+  {
+   "value": "四十岁（Luca 的母亲）",
+   "anchor": "Her low-cut black dress displays breasts that at forty years old are still a pleasant view.",
+   "start": 5000,
+   "end": 5091
+  },
+  {
+   "value": "约在十一点、十二点才见（Wendy 等了半小时以上）",
+   "anchor": "Wendy has an appointment with Aldo at eleven",
+   "start": 10475,
+   "end": 10519
+  },
+  {
+   "value": "十八岁生日（客户女儿的派对）",
+   "anchor": "His daughter’s eighteenth.",
+   "start": 11980,
+   "end": 12006
+  },
+  {
+   "value": "四年（Wendy 经营形象的年头）",
+   "anchor": "“I’ve been working on my image for four years,” she says.",
+   "start": 12513,
+   "end": 12570
+  }
+ ],
+ "relations": [
+  {
+   "note": "Aldo Miglio 是 Wendy 的经纪人，坚持叫她真名 Angela。",
+   "anchor": "Aldo always uses her real name.",
+   "start": 11161,
+   "end": 11192
+  },
+  {
+   "note": "Venturi 是 Santa Lucia 诊所的创办者（富有、虔诚的神秘学家）。",
+   "anchor": "it was founded in the 19th century by Girolamo Venturi, the famous, wealthy, and pious occultist",
+   "start": 2508,
+   "end": 2604
+  },
+  {
+   "note": "Dal Mare 是国家级记者兼作家，Luca 的父亲以他能来为荣。",
+   "anchor": "His common sense, his simple realism, his quiet manner and extreme generosity have made this journalist and writer an Italian national treasure.",
+   "start": 3860,
+   "end": 4004
+  }
+ ]
+}
