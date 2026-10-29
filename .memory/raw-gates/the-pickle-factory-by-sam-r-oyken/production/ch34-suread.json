@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch34",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch34_in_which_kray_lays_down_some_tradecraft_over_there_in_france.txt",
+ "facts": [
+  {
+   "fact": "KRAY 在巴黎只要打一通国际电话，就能安排下一次会面。",
+   "anchor": "place an international phone call from Paris",
+   "start": 112,
+   "end": 156
+  },
+  {
+   "fact": "给海外 CIA 同僚打电话安排会面，被明确定义为一次“作战行动”。",
+   "anchor": "Phoning a fellow CIA officer overseas to set up a meeting is an operational act",
+   "start": 1985,
+   "end": 2064
+  },
+  {
+   "fact": "法国国内情报机构名为 DCRI，KRAY 绝不能进入它的监视雷达。",
+   "anchor": "the Direction Centrale du Renseignement Intérieur",
+   "start": 2316,
+   "end": 2365
+  },
+  {
+   "fact": "KRAY 在给日内瓦的 VANDERROHE 打电话之前和之后都走反监视路线。",
+   "anchor": "KRAY employs Surveillance Detection Routes, SDRs, both before and after calling VANDERROHE in Geneva",
+   "start": 3365,
+   "end": 3465
+  },
+  {
+   "fact": "第一轮 SDR 途中，他在 tabac 用现金买了一张电话卡。",
+   "anchor": "While on his first Surveillance Detection Route, KRAY stops by a tabac and buys a phone card using cash",
+   "start": 6370,
+   "end": 6473
+  },
+  {
+   "fact": "KRAY 自称 Howard 的朋友，问 VANDERROHE 次日下午十二点半是否方便。",
+   "anchor": "He asked me to check in and see if twelve thirty tomorrow afternoon works for you.",
+   "start": 7115,
+   "end": 7197
+  },
+  {
+   "fact": "VANDERROHE 让 KRAY 转告 Howard：没问题，一切妥当。",
+   "anchor": "it’s copacetic",
+   "start": 7225,
+   "end": 7239
+  },
+  {
+   "fact": "通完电话他又做了两小时 SDR，只看到“幻影”和“路人”，没有认出“影子”。",
+   "anchor": "KRAY carries out two more hours of SDR, during which he spots no Shadows, only Figments and Casuals.",
+   "start": 7294,
+   "end": 7394
+  }
+ ]
+}
