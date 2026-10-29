@@ -1,0 +1,43 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch65",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch65_journal_entry_no_61.txt",
+ "facts": [
+  {
+   "fact": "叙述者对名叫 Regina 的听者承认：她怀疑这份名单是假情报，几乎肯定没错。",
+   "anchor": "And you’re almost certainly right, Regina.",
+   "start": 228,
+   "end": 270
+  },
+  {
+   "fact": "名单用冒号引出，宣称这些人「你可能从没想过会是 CIA 官员」，且只说「可能就是」。",
+   "anchor": "Here are some folks you never imagined were CIA officers who just might be:",
+   "start": 271,
+   "end": 346
+  },
+  {
+   "fact": "名单第 17 位带军衔缩写 Pfc.，是全表 28 个名字里唯一带军衔的一条。",
+   "anchor": "Pfc. Chelsea Manning",
+   "start": 724,
+   "end": 744
+  },
+  {
+   "fact": "名单第 19 位是全表唯一带引号绰号的名字，绰号写作 “Broadway”。",
+   "anchor": "“Broadway” Joe Namath",
+   "start": 759,
+   "end": 780
+  },
+  {
+   "fact": "名单第 25 位是日记作者本人的化名，他把自己也列进了这份 CIA 名单。",
+   "anchor": "The Pseudo Guy",
+   "start": 914,
+   "end": 928
+  },
+  {
+   "fact": "全章最后一句用俄语的「假情报」和俄语称呼 Tovarich 收尾。",
+   "anchor": "Love me some дезинформация, Tovarich.",
+   "start": 1012,
+   "end": 1049
+  }
+ ]
+}
