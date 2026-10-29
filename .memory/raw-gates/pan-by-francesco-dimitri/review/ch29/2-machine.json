@@ -1,0 +1,484 @@
+{
+  "chapter": 29,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/ch29 revolution.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch29_revolution.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "There are whispers on the streets, hinting voices for those who know how to listen. Before dawn thousands of stickers ar",
+          "ok": true,
+          "pos": 24
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "he will put an end to the eternal war with Peter Pan. By evening Captain Hook will be free, Enchantment will be exiled, ",
+          "ok": true,
+          "pos": 6666
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Fear, desire, and a dose of mystery, between Enchantment and Dream. You are a child of your time, and you yearned for P",
+          "ok": true,
+          "pos": 15572
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“He’s what? He’s made some speeches, that’s all. Dal Mare made plans, kidnapped people, killed them, he prepared. And Pe",
+          "ok": true,
+          "pos": 17927
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "This is her last misdirection: this time she’s not fighting either against Augusto Dal Mare or beside Peter Pan. She’s f",
+          "ok": true,
+          "pos": 20839
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“My work is Wonder!” shouts Wendy. “Wonder, that no one will ever be able to rip from us again!” She’s on a raised stage",
+          "ok": true,
+          "pos": 24728
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Making amends is impossible, but if he wanted to defeat the people who killed her, he had to stay on board. Waiting. Eat",
+          "ok": true,
+          "pos": 36947
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“She couldn’t tell the story,” says Temidorus, “because she’s part of it. I can. But in telling it, I revealed to you th",
+          "ok": true,
+          "pos": 53494
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Giovanni puts his lips to his ear. “I know you killed her.” He pushes him, sending him tumbling to the deck. Stranieri w",
+          "ok": true,
+          "pos": 58628
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“They raped me, Giovanni. That bastard forced himself inside me and I still want to throw up every morning and I wonder,",
+          "ok": true,
+          "pos": 61996
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Hook seizes the chance. He thrusts the sword into Pan’s stomach, running him through. “Here you are, at last,” he exults",
+          "ok": true,
+          "pos": 65029
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“The choice is yours. Come to Dream and fight me with honour, or kill me here, denying me my last request. Kill me where",
+          "ok": true,
+          "pos": 69297
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“I don’t believe in your weapons, Greyface,” says Michele. “I don’t believe in your strength.” Dal Mare sees the hooked ",
+          "ok": true,
+          "pos": 74911
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Captain Hook is on the ground, his body wrecked by millions of wounds, millions of blows, millions of imagined thoughts.",
+          "ok": true,
+          "pos": 81050
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Captain Hook sees Giada Speziali, the nobody, the lowly street cleaner with whom it all started, closing her fist. “Othe",
+          "ok": true,
+          "pos": 84594
+        }
+      ],
+      "words": 37
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.74
+      }
+    }
+  ],
+  "form": {
+    "h1": "29. Revolution",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 14.0,
+    "block_range": [
+      8,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 15352,
+    "block_target": [
+      15,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 29 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

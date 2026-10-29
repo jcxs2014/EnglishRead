@@ -1,0 +1,215 @@
+{
+ "chapter": "ch29",
+ "file": "text/ch29_revolution.txt",
+ "text_chars": 87317,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "黎明前数千张贴纸贴满罗马：2 月 16 日 23:00 Pineto 公园「庆祝革命」，配 Dal Mare 只穿内裤被魔术师兔子围攻的漫画",
+   "anchor": "Celebrating the Revolution",
+   "offset": 387
+  },
+  {
+   "id": "F2",
+   "fact": "Hook 得意：Silenus 与 Michele 都在手上，用 Michele 的血结束与 Peter 的永恒战争",
+   "anchor": "It’s through your own blood that I’ll triumph.",
+   "offset": 6921
+  },
+  {
+   "id": "F3",
+   "fact": "Michele 立刻识破是 Greta 把海盗带到 Dagon 家；Hook 要的是他的血",
+   "anchor": "There was only one person that could have led the pirates to Dagon’s house.",
+   "offset": 7557
+  },
+  {
+   "id": "F4",
+   "fact": "Hook 召 Giovanni 进舱，要他当场打 Michele 以换取 Smee 之位；Giovanni 说「For Luisa」后动手",
+   "anchor": "“For Luisa,” he says",
+   "offset": 11593
+  },
+  {
+   "id": "F5",
+   "fact": "Peter 选定 Pineto 公园（「我回来的地方」）；Tinker Bell 带 Giada 与 Wendy 进「世界最闹鬼的房子」地窖，山楂丛在 Enchantment 是宫殿",
+   "anchor": "the Most Haunted House in the World",
+   "offset": 13657
+  },
+  {
+   "id": "F6",
+   "fact": "Tinker Bell 说明：是 Giada 的意志与好奇「播下」了 Enchantment，Peter 才回到 Flesh；神＝恐惧、欲望与一丝神秘",
+   "anchor": "You seeded Enchantment itself.",
+   "offset": 14881
+  },
+  {
+   "id": "F7",
+   "fact": "屋顶对话：Giada 说 Peter 至今什么都没做、像个跑龙套的；随后第一次说「我爱你」",
+   "anchor": "He seems almost like a walk-on",
+   "offset": 18616
+  },
+  {
+   "id": "F8",
+   "fact": "Wendy 的障眼法：派对是全书最大误导，Giada 与 Tinker Bell 趁 Hook 去公园时潜入 Galleon 救 Michele",
+   "anchor": "Tonight’s party will be the biggest misdirection of Wendy’s life",
+   "offset": 19970
+  },
+  {
+   "id": "F9",
+   "fact": "Giada 走禁路：雾中影子（猿人、机械臂少女、兔人、海滩两人）、父母幻象；她径直穿过",
+   "anchor": "Shadows.",
+   "offset": 24627
+  },
+  {
+   "id": "F10",
+   "fact": "Wendy 开演：报出无意义的「Fnord」，纸牌与火焰随手而生",
+   "anchor": "“Fnord.”",
+   "offset": 26695
+  },
+  {
+   "id": "F11",
+   "fact": "Giovanni 解开锁链，兄弟和解；Michele 说「Uncle Augusto really is a tosser」",
+   "anchor": "But you had to make it look real",
+   "offset": 34073
+  },
+  {
+   "id": "F12",
+   "fact": "警察先到（藏海盗制服）；Peter 演讲「加入我们或去死」；Wendy 转而劝警察；海盗喊「Charge!」",
+   "anchor": "Oppose us, and you will die.",
+   "offset": 35877
+  },
+  {
+   "id": "F13",
+   "fact": "Temidorus 讲古：Pan 与 Hook 首战、Pan 死成幽灵、Greyface 是「剩下的」、启蒙运动是他发明、济慈雪莱把 Pan 带回、Barrie 用故事囚禁二神",
+   "anchor": "Demon est deus inversus.",
+   "offset": 41280
+  },
+  {
+   "id": "F14",
+   "fact": "Tinker Bell 喊「Silenus, no!」；Temidorus 讲完，咒语即破，二神彻底自由",
+   "anchor": "You’ve set them free!",
+   "offset": 55236
+  },
+  {
+   "id": "F15",
+   "fact": "首波死者：Weirdo 替 Pretty Giulia 挡下棍击、Wizard 被打成烂泥；Peter 解释神战不能用机械武器杀人",
+   "anchor": "You can’t kill someone with mechanical weapons",
+   "offset": 47308
+  },
+  {
+   "id": "F16",
+   "fact": "Galleon 从 Via della Bufalotta 的别墅起飞，掠过罗马夜空，动物惊惧",
+   "anchor": "uproot itself from the ground to fly towards the battle",
+   "offset": 48291
+  },
+  {
+   "id": "F17",
+   "fact": "Giovanni 以新 Smee 身份下令烧船，刺死质疑的十六岁海盗，把 Stranieri 推下船",
+   "anchor": "Set fire to the Galleon",
+   "offset": 59304
+  },
+  {
+   "id": "F18",
+   "fact": "Wendy 飞起观察：船在漂走，Giada 在船影下招手，Michele 与 Giovanni 都在",
+   "anchor": "Drifting away?",
+   "offset": 65954
+  },
+  {
+   "id": "F19",
+   "fact": "Pan 被 Hook 刺穿腹部而死；地球绝望、Enchantment 退潮",
+   "anchor": "The great god Pan is dead.",
+   "offset": 67033
+  },
+  {
+   "id": "F20",
+   "fact": "Michele 悟出「bluffing」：他要以 Dream 决斗逼 Hook 入局，Mother City 应允",
+   "anchor": "It’s about bluffing.",
+   "offset": 68925
+  },
+  {
+   "id": "F21",
+   "fact": "Temidorus 一拳把 Michele 打晕送入 Dream；Hook 随之消失于 Flesh",
+   "anchor": "who’s going to hit me on the head?",
+   "offset": 71766
+  },
+  {
+   "id": "F22",
+   "fact": "Dream 决斗：活板门、Neverland 海岸、废车场；Michele 以「我不信你的武器/力量/你」让 Hook 的剑与红衣消散",
+   "anchor": "I don’t believe in you.",
+   "offset": 77227
+  },
+  {
+   "id": "F23",
+   "fact": "Greyface 现出灰形：无眼无口无性别，是「乏味日子与重复人生」的具象",
+   "anchor": "a sketch of one",
+   "offset": 78023
+  },
+  {
+   "id": "F24",
+   "fact": "群灵与全城 Dreamers 扑上；Eris 现身，金苹果刻 kallisti，说「Because you’re sixteen」",
+   "anchor": "kallisti",
+   "offset": 82754
+  },
+  {
+   "id": "F25",
+   "fact": "Michele 宣判：在 Dream 杀他，把他囚在 Flesh；四兄妹围殴，Giada 打出最后一拳",
+   "anchor": "One thing at a time.",
+   "offset": 87271
+  }
+ ],
+ "numbers": [
+  {
+   "value": "thirty-two",
+   "what": "本章三十二节（I–XXXII）",
+   "anchor": "\nXXXII\n",
+   "offset": 84065
+  },
+  {
+   "value": "16 February, 23:00",
+   "what": "贴纸上的派对时间",
+   "anchor": "16 February, 23:00, Pineto Park",
+   "offset": 355
+  },
+  {
+   "value": "two hundred",
+   "what": "开场半小时后的到场人数",
+   "anchor": "exceeded two hundred",
+   "offset": 27904
+  },
+  {
+   "value": "around fifty",
+   "what": "Dagon 召来的朋克人数",
+   "anchor": "Around fifty people dressed in studded black",
+   "offset": 57615
+  },
+  {
+   "value": "1916",
+   "what": "Greyface 第二次杀死 Pan 的年份",
+   "anchor": "in 1916",
+   "offset": 50647
+  },
+  {
+   "value": "sixteen",
+   "what": "Michele 的年龄；也是 Eris 裸身的理由",
+   "anchor": "“Because you’re sixteen.”",
+   "offset": 81147
+  }
+ ],
+ "relations": [
+  {
+   "who": "Giovanni",
+   "what": "卧底海盗船，最后以 Smee 身份烧船、推下 Stranieri",
+   "anchor": "He’d given up on that over Luisa",
+   "offset": 37791
+  },
+  {
+   "who": "Temidorus / Silenus",
+   "what": "讲出 Barrie 的囚禁术，反而破咒放出二神",
+   "anchor": "You don’t believe in that story any more",
+   "offset": 55024
+  },
+  {
+   "who": "Eris",
+   "what": "真身是纷争女神，受 Mother City 之托助 Michele，金苹果上刻 kallisti",
+   "anchor": "I am Discord.",
+   "offset": 83001
+  }
+ ]
+}
