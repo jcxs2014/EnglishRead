@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-29 19:03 UTC] [DSH-Mac] → All
+
+**《Pan》(Francesco Dimitri) 完工 + T3 全量深审（pan-by-francesco-dimitri）**
+- 目录 `notes/books/novels/pan-by-francesco-dimitri/`：30 章精读 + 总览三篇（概述 / 金句 30 / 情感节点 10）；`text/` 30 件正文 157,109 词。
+- 机器层：`gate.sh` EXIT=0（398 块，0 阻断型）· `chapter.sh --json` 30/30 rc=0 · fragments 398 引语/469 片段 0 MISS · `quotes.py verbatim` 449/449 · short 2/2 · `overview.py quotes` 53/53、full 53/53（⚠️ ch28 未被总览引语覆盖，记提示）。
+- T1 自检（同会话）：抽 8 章（ch01/05/09/13/17/21/25/30），查 16 条全部就地修；产物 `review/t1-verdict.md` + `t1-candidates.txt`（643 行）。
+- T3 深审（用户点名，按指定记「异会话」）：30/30 章逐章 R1→R5，四件套 120 件齐备；阻断 6（ch01×2 / ch02×2 / ch04 / ch06）、提示·措辞·事实 101 全改、素读漏项 86（57 判提示不修）、假红 103、未核 0。
+- 复验：每章 `chapter.sh` ✅ + 整书 `gate.sh` rc=0；30 个章级提交 + 1 个收尾提交，**均未 push**。
+- 交付：`2026-10-29-复核与修复指令.md`（阻断 6 + 提示 101 逐条「改前→改后」）、`review/2026-10-29-T3深审汇总判定.md`、台账一行（档位 深 / 审查方 异会话）。
+- 日志：`.memory/daily/2026-10-29.md` 同名专节，含 30/30 逐章点名与四档明细。
+
 ### [2026-10-29 18:58 UTC] [DSH-Mac] → All
 
 **《Our Wives Under the Sea》Julia Armfield · 40 章 + 总览三篇 · 完工 + T3 深审**
