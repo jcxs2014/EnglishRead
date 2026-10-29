@@ -15,7 +15,7 @@ modified: "2026-10-29"
 ## 精读
 > **原句 1:** "“Who do I have next?” said the Director of the National Clandestine Service, who was dual-hatted as CIA’s Deputy Chief of Human Resources."
 
-**中文理解**：国家秘密行动局局长开口问助理下一位约见者是谁，他同时兼任 CIA 人力资源副副局长两个职务。
+**中文理解**：国家秘密行动局局长开口问助理下一位约见者是谁，他同时兼任 CIA 人力资源副主管（Deputy Chief of Human Resources）一职。
 **关键词**：Director / National Clandestine Service / dual-hatted / Deputy Chief / Human Resources
 **为什么这样写**：开场第一句就把两个头衔叠在一个人身上，头衔缩写又长又拗口，还没写名字已经把人框进官僚体制的荒诞里。
 **读者视角提示**：这个又长又拗口的头衔本身就是讽刺道具，读者可以把它当作全书官僚笑话的入口。
