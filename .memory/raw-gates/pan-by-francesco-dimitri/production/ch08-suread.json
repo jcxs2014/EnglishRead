@@ -10,19 +10,13 @@
    "end": 121
   },
   {
-   "fact": "Dream 里孩子们已改用钢剑对练，Mateo 防强攻弱，被 Antonio 扫倒",
-   "anchor": "the time of wood is over",
-   "start": 391,
-   "end": 415
+   "fact": "斥候看见海盗大帆船起锚复航，战争不是第一场但可能是最后一场，Antonio 觉得好玩",
+   "anchor": "The scouts have seen the pirate galleon raise anchor and resume sailing",
+   "start": 1021,
+   "end": 1092
   },
   {
-   "fact": "斥候看见海盗大帆船起锚复航，梦界的战争将至，Antonio 觉得好玩",
-   "anchor": "Soon it will be time for the gnashing of teeth",
-   "start": 1094,
-   "end": 1140
-  },
-  {
-   "fact": "Wendy 梦见自己裸体在海上飞行，头戴礼帽，帽里是否有兔子成了她自己的悬念",
+   "fact": "Wendy 梦见自己裸体在海面上飞，头戴礼帽，帽里是否有兔子成了她自己的悬念",
    "anchor": "Now the Wondrous Wendy dreams of being naked, with a top hat on her head (will it contain a rabbit?)",
    "start": 1554,
    "end": 1654
@@ -34,7 +28,7 @@
    "end": 2569
   },
   {
-   "fact": "Wendy 靠职业本能读出 Giada 的情绪是恐惧，被叫去 Giada 家",
+   "fact": "Wendy 靠职业本能读出 Giada 的情绪是恐惧，被叫去她家",
    "anchor": "What Giada was feeling was fear",
    "start": 3015,
    "end": 3046
@@ -46,7 +40,7 @@
    "end": 4334
   },
   {
-   "fact": "一月底的寒夜里一个不穿鞋的少女在门口搭话，是她今晚五个观众之一",
+   "fact": "一月底寒夜里一个不穿鞋的少女在门口搭话，是她今晚五个观众之一",
    "anchor": "She’s a strange one, going around with no shoes on, despite the cold of late January",
    "start": 4406,
    "end": 4490
@@ -58,67 +52,43 @@
    "end": 5069
   },
   {
-   "fact": "Wendy 骑助力车赶到 Giada 家；自 Giada 给她看过收藏，罗马处处像藏着东西",
-   "anchor": "Since Giada showed her the collection, Rome hasn’t seemed the same",
-   "start": 5406,
-   "end": 5472
-  },
-  {
-   "fact": "Giada 说自己在垃圾里找到收藏的「决定性一件」，即那尊断像的原件",
+   "fact": "Giada 说在垃圾里找到收藏的决定性一件，即那尊断像的原件",
    "anchor": "I found the definitive piece of my collection",
    "start": 6537,
    "end": 6582
   },
   {
-   "fact": "那东西藏在 Giada 家浴缸里，Wendy 探头去看",
-   "anchor": "The Wondrous Wendy stretches her neck to peer over the enamelled edge at the thing",
-   "start": 7087,
-   "end": 7169
-  },
-  {
-   "fact": "浴缸里是个非人非兽的男胎：额上两角、褐色长爪、软骨眼睑、耳到口的多齿裂吻、山羊腿与蹄，约三十厘米",
+   "fact": "浴缸里是个非人非兽的男胎：额上两角、褐色长爪、软骨眼睑、多齿裂吻、山羊腿与蹄，约三十厘米",
    "anchor": "On the crest of the forehead sprout two bony, sharp protuberances, little horns pointed like skewers",
    "start": 7827,
    "end": 7927
   },
   {
-   "fact": "Wendy 用魔术师的方法闭眼再看，确认它不是道具：Wonder 至此现出怪诞面目",
+   "fact": "Wendy 用魔术师的方法闭眼再看，确认它不是道具；Wonder 现出怪诞面目，她随后说它是魔鬼，Giada 说或是它的孩子",
    "anchor": "The foetus is made of real flesh, it has real bones, and it seems fake only because it’s too real",
    "start": 9703,
    "end": 9800
   },
   {
-   "fact": "Giada 说它有角和六英寸的阴茎，话音刚落胎儿睁开眼睛",
+   "fact": "Giada 刚说完它有角和六英寸的阴茎，胎儿就睁开眼睛；它爬出浴缸，Giada 拿发胶喷它被躲开",
    "anchor": "The foetus opens its eyes",
    "start": 11015,
    "end": 11040
   },
   {
-   "fact": "Michele 喷嚏连天半夜起身找药，父亲 Stefano 坐在客厅扶手椅上凝视虚空，睡眠节律被病颠倒",
-   "anchor": "Michele gets up. He takes a paracetamol from the bathroom cabinet",
-   "start": 11728,
-   "end": 11793
+   "fact": "Michele 在旧衣柜领带架后打开父亲藏的三平米暗室，里面是雨后树林般的浓烈气味",
+   "anchor": "Michele enters the Secret. He is welcomed by an intense smell of trees",
+   "start": 15316,
+   "end": 15386
   },
   {
-   "fact": "Michele 在旧衣柜领带架后打开父亲藏的房间，三平米暗室充满雨后树林般的浓烈气味",
-   "anchor": "The Secret opens",
-   "start": 14321,
-   "end": 14337
-  },
-  {
-   "fact": "失踪的父亲在暗室最里面，把封面画着一整圆加左右两段弧线的黑色小笔记本递给 Michele，赤脚沾着新泥",
+   "fact": "失踪的父亲在暗室最里面，把封面画着一整圆加左右两段弧线的黑笔记本递给 Michele，双脚沾着新鲜的泥",
    "anchor": "Papa’s clasping a little book in his hands, clasping it to his chest like a newborn baby",
    "start": 15956,
    "end": 16044
   },
   {
-   "fact": "胎儿爬出浴缸，Giada 用发胶喷它被躲开；它伸臂只够到 Angela 裸露的肚子，冰凉的爪从肚脐摸到胯再摸回",
-   "anchor": "The demon is faster. It dodges to the side, avoiding the spray",
-   "start": 18212,
-   "end": 18274
-  },
-  {
-   "fact": "反被锁进浴室：孩子在外、大人在内；两人跟踪到厨房的咀嚼声，Wendy 赶走恐惧开灯，本章在此结束",
+   "fact": "反被锁进浴室：孩子在外大人在内；两人跟到厨房门外的咀嚼声，Wendy 赶走恐惧开灯，本章在此结束",
    "anchor": "The Wondrous Wendy casts out fear",
    "start": 21618,
    "end": 21651
