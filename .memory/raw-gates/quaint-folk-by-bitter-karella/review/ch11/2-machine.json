@@ -1,0 +1,386 @@
+{
+  "chapter": 11,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch11 george offers to show round robin.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch11_chap11.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "After breakfast, Sandy found that the television’s single channel was now broadcasting a live action show, The Stealthy ",
+          "ok": true,
+          "pos": 514
+        },
+        {
+          "text": "Sandy felt that there must be some connection between the secret room and Percival’s terrified tales of Round Robin",
+          "ok": true,
+          "pos": 1429
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "They shoved the diary under their arm and filled their pockets with incense and candles from H. Hollyoak’s old stash; th",
+          "ok": true,
+          "pos": 2833
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "As an eclectic folkloric witch, Sandy didn’t have a particularly clear mental scheme of the spirit world. They borrowed ",
+          "ok": true,
+          "pos": 3867
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The fog rolled over them. It wasn’t burning off. If anything, it was only getting thicker—to the point that even Hollyoa",
+          "ok": true,
+          "pos": 5693
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Sandy deflated. That voice was clearly human. The thing stepped forward, coalescing out of the miasma, and Sandy saw it ",
+          "ok": true,
+          "pos": 8161
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "No one summons Georgette Downythistle—though no one calls me Georgette, everyone calls me George. I was out on a nice co",
+          "ok": true,
+          "pos": 9121
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Oh, those twats still believe in Round Robin?” George rolled her eyes",
+          "ok": true,
+          "pos": 9865
+        },
+        {
+          "text": "Only little babies believe in Round Robin. That’s just a fairy stories the grown-ups tell us to keep us in line",
+          "ok": true,
+          "pos": 10022
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "George circled Sandy like she was a predator sizing up a potential victim, boots squishing in the grass, and barked a sh",
+          "ok": true,
+          "pos": 10473
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Finally, George said, “If I wanted to give someone a real fright, I should say something like I curse you in Round Robin",
+          "ok": true,
+          "pos": 13487
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Not in the shadow of Hollyoak House. But tomorrow is the day before Tigglestide Eve. I’ll come get you tomorrow morning,",
+          "ok": true,
+          "pos": 14806
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“Crackers!” said George, grinning widely. She shoved the diary back into Sandy’s hands and winked. “You’re daft, Sandy T",
+          "ok": true,
+          "pos": 15329
+        }
+      ],
+      "words": 37
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.81
+      }
+    }
+  ],
+  "form": {
+    "h1": "11. Chapter Eleven",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2717,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

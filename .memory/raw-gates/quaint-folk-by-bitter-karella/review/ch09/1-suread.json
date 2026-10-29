@@ -1,0 +1,88 @@
+{
+ "chapter": "ch09",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[507:609]",
+   "anchor": "assurances that Ungo.com™ isn't going to interfere with any ley lines. He wants to bring in a surveyor",
+   "fact": "Greg 抱怨：ley lines 保证+请 surveyor"
+  },
+  {
+   "range": "[1425:1482]",
+   "anchor": "Molly had placed a small saucer of milk on the back stoop",
+   "fact": "后门台阶牛奶碟：It's a little nibble for Round Robin"
+  },
+  {
+   "range": "[2534:2617]",
+   "anchor": "I saw that they wear amulets of protection. A wise precaution in an uncertain world",
+   "fact": "Molly 论 amulets；Jessica 说只是 magyck 好玩"
+  },
+  {
+   "range": "[5471:5527]",
+   "anchor": "There's a Tigglestide market and music and the pantomime",
+   "fact": "Tigglestide 全景：市场/音乐/哑剧/奇装"
+  },
+  {
+   "range": "[5935:6007]",
+   "anchor": "a few too many elk's bloods and they start to play the jack-o'-the-skins",
+   "fact": "Lady Tuppence 算命/goose dinner/jack-o'-the-skins"
+  },
+  {
+   "range": "[7111:7179]",
+   "anchor": "He towered seven feet tall and was built like an enormous teddy bear",
+   "fact": "蜂人 Mr. Bumblesnatch：七英尺、筐罩头、尖细童声"
+  },
+  {
+   "range": "[8596:8629]",
+   "anchor": "Here, have a toffee, each of you!",
+   "fact": "Mr. Cherrywood 发太妃糖；孩子们三呼喝彩"
+  },
+  {
+   "range": "[9984:10055]",
+   "anchor": "\"Good morrow, innit?\" replied Postman Pete, tapping the bill of his cap",
+   "fact": "Postman Pete 口头禅 innit"
+  },
+  {
+   "range": "[10795:10861]",
+   "anchor": "It read HASENHURST JAM MONGER EST. 1898 in looping cursive letters",
+   "fact": "果酱店招牌 EST. 1898、兔形招牌"
+  },
+  {
+   "range": "[11609:11663]",
+   "anchor": "On-screen, Sid James attempted to seduce a busty nurse",
+   "fact": "店内电视放 Carry On 电影"
+  },
+  {
+   "range": "[12951:13041]",
+   "anchor": "You shouldn't be 'ere. 'T-tain't right! 'Ello, guvna! I can tell, you ain't the right sort",
+   "fact": "Pip 赶人：you ain't the right sort"
+  },
+  {
+   "range": "[13618:13687]",
+   "anchor": "Pip grabbed Jessica's arm with one grubby hand. He tightened his grip",
+   "fact": "Pip 抓臂+孩子警告：Purple hair! Round Robin wouldn't approve!"
+  },
+  {
+   "range": "[15259:15325]",
+   "anchor": "I hear that there's many sorts in America, even Slavs and Irishmen",
+   "fact": "果酱妹：RR 是 good spirit/Slavs and Irishmen/right sort of person"
+  },
+  {
+   "range": "[16950:17034]",
+   "anchor": "Good morrow, Mrs. 'ickory'ollow. I should like to trouble you for a pot of black jam",
+   "fact": "bobby 称果酱妹 Mrs. 'ickory'ollow 并押走 Pip"
+  },
+  {
+   "range": "[18833:18921]",
+   "anchor": "excused himself from the table with a terse \"It's been a hard day\" and stumbled upstairs",
+   "fact": "晚餐 Greg 失魂告退"
+  },
+  {
+   "range": "[19605:19694]",
+   "anchor": "you don't actually need all those amulets, do you? To protect you from . . . real things?",
+   "fact": "Jessica 问 amulets；Sandy 答我用于 practice；Jessica 瞒下威胁"
+  }
+ ]
+}

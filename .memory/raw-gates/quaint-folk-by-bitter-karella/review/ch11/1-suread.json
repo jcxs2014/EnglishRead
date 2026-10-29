@@ -1,0 +1,78 @@
+{
+ "chapter": "ch11",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "14/14 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[1116:1161]",
+   "anchor": "the quadruplets Harry, Barry, Mary, and Shari",
+   "fact": "电视：The Stealthy Seven（Nigel/Cassandra/四胞胎/狗 Toby）"
+  },
+  {
+   "range": "[2861:2943]",
+   "anchor": "shoved the diary under their arm and filled their pockets with incense and candles",
+   "fact": "Sandy 偷走日记+熏香蜡烛（以 desperate times 自辩）"
+  },
+  {
+   "range": "[4518:4612]",
+   "anchor": "set up a blanket at the center of the sunken garden, arranged some candles and lit the incense",
+   "fact": "花园设坛：毯/蜡烛/熏香/塔罗/日记/关机"
+  },
+  {
+   "range": "[5764:5827]",
+   "anchor": "It wasn’t burning off. If anything, it was only getting thicker",
+   "fact": "雾越来越浓、吞没宅邸"
+  },
+  {
+   "range": "[6561:6635]",
+   "anchor": "a dark specter in the vague form of a human, its edges blurred by the haze",
+   "fact": "暗影：人形轮廓、圆头阔肩、如猫看伤鸟"
+  },
+  {
+   "range": "[8189:8290]",
+   "anchor": "What was going on here?⏎⏎⏎“Crackers!” said the thing.⏎⏎⏎Sandy deflated. That voice was clearly human.",
+   "fact": "暗影开口 Crackers!→人声，Sandy 泄气"
+  },
+  {
+   "range": "[8369:8469]",
+   "anchor": "a young woman with mussy brown hair and a plaster bandage across the left cheek of her freckled face",
+   "fact": "现形：George（棕乱发/左颊橡皮膏/背带裤/大泥靴）"
+  },
+  {
+   "range": "[9216:9312]",
+   "anchor": "No one summons Georgette Downythistle—though no one calls me Georgette, everyone calls me George",
+   "fact": "George 自我介绍原话"
+  },
+  {
+   "range": "[10059:10145]",
+   "anchor": "That Prudence is a real little cunt, and that Percival acts like he’s still in nappies",
+   "fact": "⚠️含脏话：George 骂市长孩子+Only little babies believe in Round Robin+fairy stories to keep us in line"
+  },
+  {
+   "range": "[10751:10811]",
+   "anchor": "They/them? That sounds like poor grammar, that’s what it is.",
+   "fact": "George 嘲 they/them 文法差；I don't like beating up girls"
+  },
+  {
+   "range": "[12537:12630]",
+   "anchor": "It scared him enough that he doesn’t mess with me anymore. I did still get suspended, though.",
+   "fact": "诅咒对话：devil's name→did it work→还是被停课"
+  },
+  {
+   "range": "[13826:13888]",
+   "anchor": "I should say something like I curse you in Round Robin’s name!",
+   "fact": "George 的 RR 名恐吓；How would you like to see him for real?"
+  },
+  {
+   "range": "[15190:15278]",
+   "anchor": "I’ll come get you tomorrow morning, when the fog rolls in, and I’ll show you Round Robin",
+   "fact": "约定逐字：Not in the shadow of Hollyoak House+明早雾起来接"
+  },
+  {
+   "range": "[15805:15893]",
+   "anchor": "She stepped backward and faded back into the mist, leaving Sandy all alone in the garden",
+   "fact": "结尾：daft/mental、塞回日记眨眼、隐入雾中"
+  }
+ ]
+}

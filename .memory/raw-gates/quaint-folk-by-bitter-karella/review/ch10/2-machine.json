@@ -1,0 +1,484 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch10 george and the lady tuppence.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch10_chap10.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Aye, I think it’s splendid. I could not put it down. The relationship between Princess Kayla and Dargonna the Warrior f",
+          "ok": true,
+          "pos": 935
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Jessica’s heart skipped a beat, but she needed to play it cool. “What do you mean by that, Molly?”",
+          "ok": true,
+          "pos": 2980
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The family patriarch, Rowan Downythistle, was a thickset man with a red gin-soaked nose, a day’s worth of whiskers on hi",
+          "ok": true,
+          "pos": 4130
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Among the sheep, several lambs tottered about on spindly legs and continuously butted into one another, bleating. The la",
+          "ok": true,
+          "pos": 7485
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Stuff it up your badger hole, thicko!” retorted the girl, flashing the V sign as she lurched to her feet, leaves and tw",
+          "ok": true,
+          "pos": 8920
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "In defiance of Rowan, she took the Tupperware container from Molly and held it out toward George, like she was trying to",
+          "ok": true,
+          "pos": 10308
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“They’ll find out their mistakes sooner rather than later and that’s my worry,” said Rowan. “Round Robin don’t approve o",
+          "ok": true,
+          "pos": 11686
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "In the back garden, the Lady Tuppence was sitting at a small card table under a parasol, playing a solitary card game an",
+          "ok": true,
+          "pos": 15631
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“It’s the Lady Tuppence.” The Lady Tuppence’s red acrylic nails flashed as she brushed the bird from her shoulder. The c",
+          "ok": true,
+          "pos": 16977
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "The Lady Tuppence was quiet, nodding her head so her bracelets and bangles rattled. “I suppose it would be, for the righ",
+          "ok": true,
+          "pos": 18401
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "The Lady Tuppence giggled. “You expect me to believe that? You’re a pretty girl, Jessica, and if there’s one thing I kno",
+          "ok": true,
+          "pos": 22745
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She pulled a card from the deck and flipped it upon the table, revealing that it was not a playing card. Instead, it was",
+          "ok": true,
+          "pos": 22916
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Molly chuckled. “Extraordinary woman, though. A little peculiar and set in her ways, but one would hardly believe that s",
+          "ok": true,
+          "pos": 24253
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "“Oh, people have been carving Round Robin into the trees in these parts for thousands of years,” said Molly. “Possibly e",
+          "ok": true,
+          "pos": 24872
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "But out loud, she only said “How cute!” as they continued on their way",
+          "ok": true,
+          "pos": 25562
+        }
+      ],
+      "words": 14
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.42,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.91
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Chapter Ten",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4571,
+    "block_target": [
+      8,
+      14
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

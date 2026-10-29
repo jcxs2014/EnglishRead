@@ -1,0 +1,494 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch09 the chimney sweep warns jessica.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch09_chap09.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“I’m sure you can handle it, sweetie,” said Jessica brightly. As a wife, it was her job to be positive about these thing",
+          "ok": true,
+          "pos": 652
+        }
+      ],
+      "words": 77
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“It’s a little nibble for Round Robin,” she explained",
+          "ok": true,
+          "pos": 1459
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I think it’s best to be safe, especially around Tigglestide,” said Molly. “One shouldn’t take unnecessary chances. The ",
+          "ok": true,
+          "pos": 1638
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Thank you, Molly!” said a squeaky, childlike voice from within the wicker basket as the beekeeper raised a hand in frie",
+          "ok": true,
+          "pos": 7440
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I swear, I feel like I’m in a fairy story,” said Jessica. “This whole village just feels out of time.”",
+          "ok": true,
+          "pos": 10001
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "A delicious scent of fresh fruit and spices wafted from an open doorway, over which hung a festive sign cut to look like",
+          "ok": true,
+          "pos": 10448
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The chimney sweep grimaced, like he was having trouble forcing his tongue to make the words. “Leave. ’Ello, guvna. You s",
+          "ok": true,
+          "pos": 12579
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Pip grabbed Jessica’s arm with one grubby hand. He tightened his grip. “You’ve got a child, guvna. ’Ello. I’ve seen ’im.",
+          "ok": true,
+          "pos": 13331
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He stuttered and hacked, like a cat trying to pass a hairball, and suddenly vomited a deluge of nonsense: “Mark my words",
+          "ok": true,
+          "pos": 13733
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Oh, don’t pay Pip no mind,” said the jam monger merrily",
+          "ok": true,
+          "pos": 14308
+        },
+        {
+          "text": "“Our Pip don’t know what he’s talking about. He just gets a wee bit arse over tits sometimes. Ain’t no reason to fear Ro",
+          "ok": true,
+          "pos": 14466
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“Not so here; we’re all Hasenhurst people. We don’t care for such divisions. But you look like the right sort of person,",
+          "ok": true,
+          "pos": 15456
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“You know thee drink does not agree with you, Pip. I shall escort you ’ome forthwhence before you embarrass yourself in ",
+          "ok": true,
+          "pos": 17292
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Jessica tried to explain the experience that night, over dinner, to Greg, but he was too morose after an unproductive da",
+          "ok": true,
+          "pos": 17818
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Sandy closed their hand around the rabbit skull. “Yeah, I guess, but I use it for my practice.”",
+          "ok": true,
+          "pos": 19623
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "She didn’t mention the chimney sweep. She didn’t want to worry Sandy",
+          "ok": true,
+          "pos": 19968
+        },
+        {
+          "text": "But he was just drunk, thought Jessica. He was just the local drunk being drunk. It was probably nothing to worry about.",
+          "ok": true,
+          "pos": 20203
+        }
+      ],
+      "words": 41
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.45,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 11,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.48,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.35,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.32,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.53,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.31,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.31,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.33,
+        "读者视角提示": 0.77
+      }
+    }
+  ],
+  "form": {
+    "h1": "9. Chapter Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 17,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3620,
+    "block_target": [
+      7,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

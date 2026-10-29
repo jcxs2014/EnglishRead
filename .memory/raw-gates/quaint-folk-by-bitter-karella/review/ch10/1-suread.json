@@ -1,0 +1,88 @@
+{
+ "chapter": "ch10",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[1189:1269]",
+   "anchor": "It felt so lived-in. It was like you really knew what it was like to be in love!",
+   "fact": "Molly 清晨还书评书（lived-in/真懂恋爱）"
+  },
+  {
+   "range": "[3022:3068]",
+   "anchor": "They’re rather like us, if you think about it.",
+   "fact": "Molly 路上类比；Jessica 心跳漏拍"
+  },
+  {
+   "range": "[4292:4378]",
+   "anchor": "was a thickset man with a red gin-soaked nose, a day’s worth of whiskers on his cheeks",
+   "fact": "Rowan 外貌；儿子们缝熊装"
+  },
+  {
+   "range": "[6050:6095]",
+   "anchor": "She pointed to each hen and called it by name",
+   "fact": "Molly 逐只点名喂母鸡"
+  },
+  {
+   "range": "[7810:7888]",
+   "anchor": "The lambs had enormous, goggling eyes, so dewy that tears continuously dripped",
+   "fact": "羊羔泪眼；Jessica 说眼睛有问题；Rowan 答 Purebred Hasenhurst Blacknose"
+  },
+  {
+   "range": "[9178:9215]",
+   "anchor": "Stuff it up your badger hole, thicko!",
+   "fact": "George 骂 Rowan（V 手势）"
+  },
+  {
+   "range": "[9511:9563]",
+   "anchor": "No one calls me Georgette! Everyone calls me George!",
+   "fact": "George 宣告名字；牧羊犬 Scruffy 逆时针跑"
+  },
+  {
+   "range": "[11445:11476]",
+   "anchor": "Bugger Round Robin up the arse!",
+   "fact": "George 回敬 Rowan 的 RR 质问"
+  },
+  {
+   "range": "[10317:10384]",
+   "anchor": "Georgette won’t wear ribbons in her hair, she won’t play with dolls",
+   "fact": "Rowan 评女儿：一切关于做女孩的都嫌蠢"
+  },
+  {
+   "range": "[10482:10529]",
+   "anchor": "Hey, there’s nothing stupid about being a girl!",
+   "fact": "Jessica 违意递 jam bap+强独立女性宣言；George 反讽回应"
+  },
+  {
+   "range": "[12575:12633]",
+   "anchor": "My grandfather built that barn, and the first thing he did",
+   "fact": "谷仓野兔壁画=祖父画的；托带 medicinal elk's blood 给 Lady Tuppence"
+  },
+  {
+   "range": "[15438:15484]",
+   "anchor": "An old man was raking leaves in the front yard",
+   "fact": "Winston 耙叶；Scrotes games；今年或摆牌占"
+  },
+  {
+   "range": "[16347:16432]",
+   "anchor": "a tower of cotton candy–blue hair on her head, a pair of bedazzled cat-eye spectacles",
+   "fact": "Lady Tuppence 外貌+鹦鹉黄冠；称谓纠正 It's the Lady Tuppence"
+  },
+  {
+   "range": "[19112:19175]",
+   "anchor": "You’re not experiencing any sort of strangeness? Nothing queer?",
+   "fact": "问话逐字；no one's stayed in Hollyoak House in years"
+  },
+  {
+   "range": "[24086:24143]",
+   "anchor": "march directly through the platter of cucumber sandwiches",
+   "fact": "The Lovers 牌（Rider-Waite）；The cards agree!；鹦鹉踩过三明治解围"
+  },
+  {
+   "range": "[25599:25688]",
+   "anchor": "people have been carving Round Robin into the trees in these parts for thousands of years",
+   "fact": "Lady Tuppence 过百岁；树干刻兔千年；扁骷髅脸；Jessica 只说 How cute!"
+  }
+ ]
+}
