@@ -1,0 +1,55 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch06",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch06_chap06.txt",
+ "facts": [
+  {
+   "fact": "Sandy 白天把梦中恶魔自我说服成荣格式的象征，并随身带着一副塔罗牌",
+   "anchor": "the devil in Sandy’s dream wouldn’t have been the literal, actual devil—it was obviously some sort of symbolic representation",
+   "start": 802,
+   "end": 927
+  },
+  {
+   "fact": "起居室的电视是老式显像管机，只有 UHF/VHF 两个旋钮，要 Dad 帮忙才开机",
+   "anchor": "it was an old-fashioned cathode ray contraption with two dials labeled UHF and VHF",
+   "start": 2189,
+   "end": 2271
+  },
+  {
+   "fact": "停格动画里戴纸单片镜的狐狸被 Sandy 觉得像市长的拙劣漫画像",
+   "anchor": "it kind of made the fox look a little bit like a bad caricature of the lord mayor",
+   "start": 3612,
+   "end": 3693
+  },
+  {
+   "fact": "家宴上市长拿「发怒的胡萝卜」打趣不吃肉的 Sandy，全桌只得陪笑",
+   "anchor": "you certainly wouldn’t want to run afoul of some irate carrot either, now would you?",
+   "start": 8409,
+   "end": 8493
+  },
+  {
+   "fact": "市长夫人 Molly 不停劝已经饱到极点的 Jessica 吃 Tigglestide 造型饼干",
+   "anchor": "the lord mayor’s wife would not stop offering her frosted Tigglestide cookies baked into various amusing shapes",
+   "start": 10202,
+   "end": 10313
+  },
+  {
+   "fact": "Molly 等男士们聊开才耳语：Round Robin 是 Hasenhurst 的精灵，Tigglestide 前夜降临、偏爱井然有序的人家",
+   "anchor": "Round Robin is the spirit of Hasenhurst. He comes on Tigglestide Eve, and he brings luck and prosperity to those whom he favors.",
+   "start": 15028,
+   "end": 15156
+  },
+  {
+   "fact": "育儿室里平时守规矩的 Percival 说破 Round Robin 的年例：奖赏对的人、矫正错的人",
+   "anchor": "Every year, on Tigglestide, he comes to reward the right sort of people and set right the wrong sort of people.",
+   "start": 22789,
+   "end": 22900
+  },
+  {
+   "fact": "临别时 Percival 堵住 Sandy 补一句「你还没读第三张牌」，又警告他不奖励错的人；Sandy 想起梦中长耳黄眼的身影",
+   "anchor": "You never read the third card.",
+   "start": 26252,
+   "end": 26282
+  }
+ ]
+}

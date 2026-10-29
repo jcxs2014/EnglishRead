@@ -1,0 +1,67 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch04",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch04_chap04.txt",
+ "facts": [
+  {
+   "fact": "市长本人第一个登门欢迎全家，带来装满甜食、奶酪和本地利口酒的大礼品篮；他穿一身黑、单片眼镜、满头发胶。",
+   "anchor": "The lord mayor himself was the first person to welcome the family to Hasenhurst, bringing a big basket brimming with sweets, cheeses, and local liqueurs.",
+   "start": 496,
+   "end": 649
+  },
+  {
+   "fact": "陪同的 vicar 笑意不达眼底，Jessica 觉得他在透过自己打量，似乎嗅出她是不信教的人。",
+   "anchor": "The vicar’s smile didn’t meet his eyes. She felt like he was staring through her, as if he could sense that she was a nonbeliever.",
+   "start": 1503,
+   "end": 1633
+  },
+  {
+   "fact": "听到 Sandy 出场后 vicar 只评价了一句\"头发是紫色的\"，表情厌恶却仍在笑；Sandy 用 They 纠正了他的 He。",
+   "anchor": "“It’s purple,” said the vicar, raising his eyebrow.",
+   "start": 2615,
+   "end": 2666
+  },
+  {
+   "fact": "市长盛情邀请全家明晚到他家赴宴，夸妻子做的烤肉绝妙，还说会有小孩陪 Sandy 玩；Greg 立刻应承下来。",
+   "anchor": "But, before that, I simply must insist that you come to dinner at my home tomorrow night. My wife makes an absolutely divine roast, and, of course, there will be little ones for your little one to play with.",
+   "start": 4066,
+   "end": 4273
+  },
+  {
+   "fact": "当晚全家晚餐是 Hollyoak House 储藏室的香肠土豆热汤，配市长礼品篮里的硬面包和硬奶酪，客厅的墓碑式收音机放着 Tigglestide 颂歌。",
+   "anchor": "They were eating a hot soup made from sausage and potatoes from the Hollyoak House larder, paired with crusty bread and hard cheese from the lord mayor’s very generous gift basket.",
+   "start": 4410,
+   "end": 4590
+  },
+  {
+   "fact": "面对 Sandy 指出汤里有肉，Dad 提出\"把肉拨到旁边只吃土豆\"的折中，Mom 补一句不吃就自己做，Sandy 叹气妥协。",
+   "anchor": "You can just eat around the meat. See? I’ve only given you potatoes in your bowl. That’s a good compromise, isn’t it?",
+   "start": 6659,
+   "end": 6776
+  },
+  {
+   "fact": "趁 Mom 还没抗议，Dad 先给 Sandy 的杯子里倒了一点\"鹿血\"酒，理由是在家在父母身边尝试酒精最安全。",
+   "anchor": "Dad poured a small amount of elk’s blood into Sandy’s glass before Mom could protest.",
+   "start": 8924,
+   "end": 9009
+  },
+  {
+   "fact": "叙事透露 Sandy 在加州早就和戏剧社朋友偷喝过很多次啤酒，还偶尔吸大麻——且自称只为仪式魔法入定而用。",
+   "anchor": "Of course, they had sneaked beers MANY times with their theater friends back in California.",
+   "start": 9410,
+   "end": 9501
+  },
+  {
+   "fact": "桌游 Wimbly Withershins 里 Sandy 落到 Jocko 擦鞋铺，获得走 corpse path 捷径去教堂的选项，随后讲了中世纪运尸道防鬼回村的来历。",
+   "anchor": "Sandy landed on Jocko the ferret’s bootblack studio, which gave them the option to take the corpse path shortcut to the church.",
+   "start": 11925,
+   "end": 12052
+  },
+  {
+   "fact": "临睡前 Mom 吻别 Sandy 时开玩笑说，在这种阴森老城堡里可别让 night hag 抓走。",
+   "anchor": "In a creepy old castle like this, you don’t want the night hag to getcha!",
+   "start": 13037,
+   "end": 13110
+  }
+ ]
+}
