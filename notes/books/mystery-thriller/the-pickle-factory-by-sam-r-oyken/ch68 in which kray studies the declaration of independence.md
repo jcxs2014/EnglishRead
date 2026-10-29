@@ -85,7 +85,13 @@ modified: "2026-10-29"
 
 **读者视角提示**：注意“remain”与“as Chief of Counterintelligence”同时出现——读者可以判断这是一次带条件的任命，而非单纯升官。
 
-> **原句 8:** "“Right,” said BUTTONFLY. “Well, that was Project Greek Island. And that’s where we’re going to be working on Project Greek Island 2.0, at least at the start. We’ll be covered by the National Archives as a TSA body-scan repository. In a couple years, after we get up and running and Chairman Skinner retires, we’ll relocate to Providence, Rhode Island, where I hail from."
+> **原句 8:** "“Ever heard of something called Project Greek Island?” “Doesn’t ring a bell.” “It may after I tell you what it was. Remember that nuclear bomb shelter they built for the Congress back in the ’50s under the Greenbrier Resort in White Sulphur Springs, West Virginia?” “I remember,” said KRAY. “Underground town behind a 25-ton blast door. No longer in use.”"
+**中文理解**：BUTTONFLY 先问 KRAY 是否听过 Project Greek Island；对方说没印象，他便提示：记得 50 年代为国会建在 White Sulphur Springs 的 Greenbrier 度假村地下的核掩体吗？KRAY 想起来了——那是一座藏在 25 吨防爆门后的地下城镇，早已停用。
+**关键词**：Project Greek Island, nuclear bomb shelter, Greenbrier Resort, White Sulphur Springs, 25-ton blast door, underground town
+**为什么这样写**：新机构的地点不是租写字楼，而是接管一座冷战核掩体；「地下城镇 + 25 吨防爆门」把重建计划写成末日后的重新开局，也解释了后文书里数百人「迁往 White Sulphur Springs」的去向。
+**读者视角提示**：注意这段问答把「Project Greek Island」从旧项目名变成新址：同一个名字先指核掩体，再指新腌菜厂，名与实的错位正是本章的主题。
+
+> **原句 10:** "“Right,” said BUTTONFLY. “Well, that was Project Greek Island. And that’s where we’re going to be working on Project Greek Island 2.0, at least at the start. We’ll be covered by the National Archives as a TSA body-scan repository. In a couple years, after we get up and running and Chairman Skinner retires, we’ll relocate to Providence, Rhode Island, where I hail from."
 
 **中文理解**：BUTTONFLY 确认此前的猜测，说那就是 Project Greek Island；新机构起步阶段将在那里做“Project Greek Island 2.0”，对外挂靠 National Archives，伪装成 TSA 的人体扫描资料库；等运转起来、Chairman Skinner 退休后，再迁往他的家乡 Providence, Rhode Island。
 
@@ -105,7 +111,7 @@ modified: "2026-10-29"
 
 **读者视角提示**：这是全章第二次拆穿“你看到的东西不是真的”；读者可以把展柜里的圣物与本章反复出现的“名实不符”放在一起看。
 
-> **原句 10:** "Then they left in BUTTONFLY’s black 1963 Jaguar “E” Type coupe, which BUTTONFLY had christened “The Sled,” to go and get some food over at the Willard Hotel, that place where Wild Bill Donovan and Archibald MacLeish used to meet for lunch when they worked together back during World War II."
+> **原句 11:** "Then they left in BUTTONFLY’s black 1963 Jaguar “E” Type coupe, which BUTTONFLY had christened “The Sled,” to go and get some food over at the Willard Hotel, that place where Wild Bill Donovan and Archibald MacLeish used to meet for lunch when they worked together back during World War II."
 
 **中文理解**：两人坐上 BUTTONFLY 那辆被他命名为“The Sled”的黑色 1963 年 Jaguar “E” Type 双门轿跑，去 Willard Hotel 吃饭；那家酒店是 Wild Bill Donovan 与 Archibald MacLeish 二战共事时吃午餐的地方。
 
@@ -115,7 +121,7 @@ modified: "2026-10-29"
 
 **读者视角提示**：留意“The Sled”这个绰号——雪橇轻快、滑行，和黑色 E Type 的流线车身相配，也暗示两人接下来要“滑”进新机构。
 
-> **原句 11:** "They covered a lot of ground, and they talked about a lot of stuff, things like unconventional thinking, and daring, and risk taking, and esprit de corps, and élan. They learned a fair amount about each other during that lunch together, and they made a lot of plans about how to go out and start over. Which they then went out and did."
+> **原句 12:** "They covered a lot of ground, and they talked about a lot of stuff, things like unconventional thinking, and daring, and risk taking, and esprit de corps, and élan. They learned a fair amount about each other during that lunch together, and they made a lot of plans about how to go out and start over. Which they then went out and did."
 
 **中文理解**：那顿午餐里两人谈了很多，话题包括非传统思维、胆量、冒险、团队精神和 élan；他们彼此了解了不少，也制定了许多“出去重新开始”的计划，随后真的出去干了。
 
@@ -162,4 +168,4 @@ modified: "2026-10-29"
 
 ## 一句话总结
 
-KRAY 在 National Archives 的 Declaration of Independence 展柜前等来 BUTTONFLY，得知 CIA 并不是那个 Pickle Factory、自己被解雇正是布局的一环，随后带着二十万美元签约奖金、Bulova 手表与 Chief of Counterintelligence 的头衔加入 new Pickle Factory，并在 Willard Hotel 的三小时午餐后决定“I’m all in”。
+KRAY 在 National Archives 的 Declaration of Independence 展柜前等来 BUTTONFLY，得知 CIA 并不是那个 Pickle Factory、自己被解雇正是布局的一环，随后带着二十万美元签约奖金、Bulova 手表与 Chief of Counterintelligence 的头衔加入设在 White Sulphur Springs 的 Greenbrier 地下核掩体的 new Pickle Factory，并在 Willard Hotel 的三小时午餐后决定“I’m all in”。
