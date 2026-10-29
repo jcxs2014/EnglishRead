@@ -1,0 +1,78 @@
+{
+ "chapter": "ch07",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "14/14 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[1272:1368]",
+   "anchor": "that Round Robin sounded like a genius loci at all. They thought it sounded more like a bogeyman",
+   "fact": "Sandy 口头答 genius loci、内心判 bogeyman"
+  },
+  {
+   "range": "[1858:1971]",
+   "anchor": "the hatch creaked open and a long-disused accordion ladder unfolded",
+   "fact": "阁楼梯放下、梯口漆黑"
+  },
+  {
+   "range": "[3365:3465]",
+   "anchor": "missed the last rung and tumbled, hitting the wooden floor with enough force to see a burst of stars",
+   "fact": "第一次上去见「鬼」尖叫摔落"
+  },
+  {
+   "range": "[4004:4086]",
+   "anchor": "Witch mother, witch father, I pray thee give thy child protection as they go forth",
+   "fact": "祷词全文（So mote it be 收尾）"
+  },
+  {
+   "range": "[5282:5344]",
+   "anchor": "They pulled away the sheet to reveal an old dressmaker’s dummy",
+   "fact": "白布下是裁缝人台"
+  },
+  {
+   "range": "[4789:4881]",
+   "anchor": "hung on pegs from the wall, a selection of mangy fur coats, each of a bizarre motley pattern",
+   "fact": "阁楼杂物：旧衣箱/破椅/皮草大衣（Sandy 嫌恶）"
+  },
+  {
+   "range": "[6299:6407]",
+   "anchor": "a ball of red yarn, yellow beads, green candles, bundles of dried toadflax and lavender, a saltshaker filled",
+   "fact": "女巫工具清单逐字；摇篮薄垫留小小身体凹痕"
+  },
+  {
+   "range": "[6570:6638]",
+   "anchor": "which opened up to reveal a facsimile of Hollyoak House in miniature",
+   "fact": "娃娃屋=Hollyoak House 微缩复制品（Pennsylvania Dutch stove/corn dolly 约一打）"
+  },
+  {
+   "range": "[6981:7088]",
+   "anchor": "depicted an old-timey caricature of a warty witch in a pointy hat and words in ornate Gothic font that said",
+   "fact": "WITCH HOUSE RULES 海报 5 条+KEEP TIGGLESTIDE SACRED!!"
+  },
+  {
+   "range": "[7789:7890]",
+   "anchor": "It was propped upon a thick book, bound in leather soft as a lover’s lips, with the title H. Hollyoak",
+   "fact": "剥制野兔压着 H. Hollyoak 皮面书；地板刻 sigils 圆、天花板星座贴纸"
+  },
+  {
+   "range": "[8507:8583]",
+   "anchor": "Of course they were going to go up there,” said Dad. “Kids are gonna be kids",
+   "fact": "楼下汇报 incanterium；Mom 反对/Dad 起初 kids will be kids 后改口一起看"
+  },
+  {
+   "range": "[11389:11505]",
+   "anchor": "HomeGoods. Sweetie, this all just decoration. You know those old-timey Brits loved their ooky-spooky witchy-poo crap",
+   "fact": "Mom 判 HomeGoods 装饰；Sandy 纠正 witch≠Satanist"
+  },
+  {
+   "range": "[12863:12977]",
+   "anchor": "It’s a poppet,” said Sandy. “Witches use them to work sympathetic magic. You stick pins in them, like voodoo dolls",
+   "fact": "Sandy 讲 poppet/同情魔法/voodoo 误归；Mom 引 Freud 名言"
+  },
+  {
+   "range": "[13307:13406]",
+   "anchor": "Mom placed the doll upon the surface of the rolltop desk, propping it against the taxidermized hare",
+   "fact": "收尾：Mom 把娃娃靠在剥制野兔旁、要 Sandy 别犯傻"
+  }
+ ]
+}

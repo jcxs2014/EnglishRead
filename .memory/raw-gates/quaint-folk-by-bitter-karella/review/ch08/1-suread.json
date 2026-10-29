@@ -1,0 +1,88 @@
+{
+ "chapter": "ch08",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[176:240]",
+   "anchor": "traditional Hasenhurst folk ballad (Child 320, Laws Y, Roud 687)",
+   "fact": "章首民谣 epigraph（Child 320/Laws Y/Roud 687）"
+  },
+  {
+   "range": "[1425:1504]",
+   "anchor": "the icons of the saints falling away, and this was no longer her childhood home",
+   "fact": "梦境：圣像老屋→Hollyoak House 迷宫+座钟；心脏处有既可怕又美妙之物，醒来未抵达"
+  },
+  {
+   "range": "[3164:3252]",
+   "anchor": "Greg had already left for his appointment, where he would attempt to sell the lord mayor",
+   "fact": "Greg 清早出门向市长兜售 Ungo.com"
+  },
+  {
+   "range": "[3882:3949]",
+   "anchor": "A mysterious red ooze was washing up along the California coastline",
+   "fact": "新闻头条：红黏液/南方州法案/捐款邮件"
+  },
+  {
+   "range": "[5143:5196]",
+   "anchor": "Molly was fat with short nutmeg hair tied up in a bun",
+   "fact": "Molly 不请自来做早餐；外貌逐字；tombstone-size teeth/绿眼间距宽"
+  },
+  {
+   "range": "[7861:7958]",
+   "anchor": "Calcutta Sunrise and Major Cottageham’s Preference. Or perhaps you’d like The Challenge of Lords?",
+   "fact": "三款茶名逐字；无咖啡只有茶"
+  },
+  {
+   "range": "[11399:11510]",
+   "anchor": "also they’re into this whole nonbinary thing? You know, they/them? So they don’t like being called sir or ma’am",
+   "fact": "Jessica 对 Molly 长篇解释 Sandy 代词；radically accepting parent；Kayla 用 she/her 亦接受 they/them"
+  },
+  {
+   "range": "[12921:12986]",
+   "anchor": "That all sounds very modern. I wouldn’t know anything about that.",
+   "fact": "Molly 逐字回应；It's quiet here, just as it's ever been"
+  },
+  {
+   "range": "[18696:18773]",
+   "anchor": "next to the dumpster behind the Blessed Sacrament of St. Bernardo High School",
+   "fact": "Morgan McKinley：教会学校初恋；违禁品=书+weed+Polaroids"
+  },
+  {
+   "range": "[20770:20844]",
+   "anchor": "I thought you were my daughter, her mother had said. But I don’t know you.",
+   "fact": "母亲原话逐字；父亲 yelling；父母认定女儿有病"
+  },
+  {
+   "range": "[21099:21157]",
+   "anchor": "You know that was all pillow talk, Jess. Be real. Go home.",
+   "fact": "Morgan 拒绝出逃原话逐字"
+  },
+  {
+   "range": "[22659:22754]",
+   "anchor": "That was over two decades ago, and Jessica had not spoken to her parents since she married Greg",
+   "fact": "断联时长=over two decades（本章无 fifteen/twenty years 表述）；父亲多半已死/母亲能活百岁"
+  },
+  {
+   "range": "[25693:25754]",
+   "anchor": "Mom, I really think there’s something weird about this house.",
+   "fact": "Sandy 原话；Jessica 敷衍；追问 Helena 是谁"
+  },
+  {
+   "range": "[25953:26037]",
+   "anchor": "Molly dropped the kettle to the floor; boiling hot water spilled across the linoleum",
+   "fact": "CLANG 打翻水壶；I'm right as rhubarb"
+  },
+  {
+   "range": "[26870:26940]",
+   "anchor": "She wrote Robert the Bobby, The Stealthy Seven, and Wimbly Withershins",
+   "fact": "Helena=beloved children's fantasist；三部书名逐字；绝非女巫"
+  },
+  {
+   "range": "[28146:28249]",
+   "anchor": "the massive portrait of Helena Hollyoak hung still, with the fluffy little creature snuggled in her lap",
+   "fact": "结尾：画像依旧、膝上毛茸茸小生物"
+  }
+ ]
+}

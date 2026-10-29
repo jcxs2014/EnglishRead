@@ -126,15 +126,10 @@ modified: "2026-10-29"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Withershins | （Wimbly Withershins 的姓氏；widdershins 本义「逆时针／反着来」，自带不祥感） | Wimbly Withershins is looking for a splendid picnic spot, along with his friends Timmy and Tammy Thimble and Reverend Smiles. |
 | Plasticine | 塑料泥（英式儿童造型黏土品牌名，停格动画常用材料） | It was followed by a Plasticine bear wearing a black robe and a wide-brimmed hat. |
 | incomprehensible | 无法理解的 | The lord mayor guffawed at what was apparently an incomprehensible joke, and everyone except Sandy had to join in. |
 | perpetually | 永远地，一贯地 | She was an enormous fat woman with a perpetually smiling face, who moved with a grace incongruous with her size. |
 | incongruous | 不协调的，反差突兀的 | She was an enormous fat woman with a perpetually smiling face, who moved with a grace incongruous with her size. |
-| Tigglestide | 书中虚构节日（临近前夜时全镇庆贺、唱颂歌） | "Luv, it's almost Tigglestide," said the lord mayor's wife. |
-| Hasenhurst | 书中小镇名（Hase 德语「野兔」+hurst「林地」，点题「兔子林镇」） | If the family spent too much time in Hasenhurst, Jessica could imagine herself growing as comfortably rotund as the lord mayor's wife. |
-| Scoundrels | 恶棍，无赖 | The working title is Princess Kayla's Fresh-Start Baking Academy for Scandalous Scoundrels, Nasty Ne'er-Do-Wells, and Dashing Rogues. |
-| Lighthaven | 书中虚构王国名（light+haven「光明避风港」，反讽其禁令） | But love between women is forbidden in Lighthaven. |
 | enemies-to-lovers | （言情套语）由敌对到相恋的人物关系套路 | It's full of found family, enemies-to-lovers, and second chances. |
 | conspiratorially | 密谋者似地，咬耳朵般地 | When she was satisfied that they were distracted, she leaned forward and whispered conspiratorially: |
 | prosperity | 兴旺，昌盛 | He comes on Tigglestide Eve, and he brings luck and prosperity to those whom he favors. |

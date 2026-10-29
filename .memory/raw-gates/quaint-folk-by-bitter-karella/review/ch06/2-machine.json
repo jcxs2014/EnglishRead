@@ -1,0 +1,499 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch06 round robin is the spirit of hasenhurst.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch06_chap06.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "In the harsh light of day, it was easy to remind themself that the devil wasn't real. He was just a metaphor, and theref",
+          "ok": true,
+          "pos": 662
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "\"It's Sunday in Happytree Hollow,\" said a narrator in a posh accent, \"and Sunday is a very special day. You see, childre",
+          "ok": true,
+          "pos": 2889
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A Plasticine fox, wearing a dapper dinner suit cut from coarsely woven black cloth and a doll's top hat, waddled on-scre",
+          "ok": true,
+          "pos": 3299
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "There was Queen Victoria, a ragged gray long-hair of obviously advanced age but still undeniably regal bearing; Boudicca",
+          "ok": true,
+          "pos": 7214
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "\"Well, you certainly wouldn't want to run afoul of some irate carrot either, now would you?\" The lord mayor guffawed at ",
+          "ok": true,
+          "pos": 8159
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "\"I guess I don't have any choice.\" Jessica smiled and graciously accepted a cookie shaped like a rabbit. She nibbled slo",
+          "ok": true,
+          "pos": 10210
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "\"The working title is Princess Kayla's Fresh-Start Baking Academy for Scandalous Scoundrels, Nasty Ne'er-Do-Wells, and D",
+          "ok": true,
+          "pos": 11330
+        },
+        {
+          "text": "But love between women is forbidden in Lighthaven. It's full of found family, enemies-to-lovers, and second chances",
+          "ok": true,
+          "pos": 12001
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Jessica excused herself to use the restroom, which was down a hallway plastered with pink floral wallpaper and past a ro",
+          "ok": true,
+          "pos": 13501
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The lord mayor's wife glanced at the men, but they were deep in their own conversation. When she was satisfied that they",
+          "ok": true,
+          "pos": 14233
+        },
+        {
+          "text": "Round Robin is the spirit of Hasenhurst. He comes on Tigglestide Eve, and he brings luck and prosperity to those whom he",
+          "ok": true,
+          "pos": 14609
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "\"Isn't it rather odd for a boy to have purple hair?\" said Prudence in a judgmental voice that did not match her frozen s",
+          "ok": true,
+          "pos": 16920
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "\"No,\" said Sandy. \"But also I'm not a boy. I'm nonbinary.\"",
+          "ok": true,
+          "pos": 17188
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "The awkwardness of the situation wasn't helped by the fact that Prudence's brother, Percival, didn't speak at all, so Sa",
+          "ok": true,
+          "pos": 17553
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "\"Round Robin makes sure that everything in Hasenhurst is just right. He makes sure that the bread rises just so and that",
+          "ok": true,
+          "pos": 21801
+        },
+        {
+          "text": "Every year, on Tigglestide, he comes to reward the right sort of people and set right the wrong sort of people.\"",
+          "ok": true,
+          "pos": 22106
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "\"But you can see that he's upside down,\" said Sandy, tapping the card. \"Reversed, the Emperor card represents tyranny.\"",
+          "ok": true,
+          "pos": 23616
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "\"You should be careful.\" Percival blurted it out fast, like it was a secret he wasn't supposed to tell. \"He doesn't rewa",
+          "ok": true,
+          "pos": 26133
+        }
+      ],
+      "words": 27
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.53,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.53,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.53
+      }
+    }
+  ],
+  "form": {
+    "h1": "6. Chapter Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 18,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4601,
+    "block_target": [
+      8,
+      14
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

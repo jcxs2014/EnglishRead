@@ -1,0 +1,88 @@
+{
+ "chapter": "ch06",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[2196:2271]",
+   "anchor": "an old-fashioned cathode ray contraption with two dials labeled UHF and VHF",
+   "fact": "旧电视须 Dad 开机；第二圈出画面"
+  },
+  {
+   "range": "[2922:2989]",
+   "anchor": "“It’s Sunday in Happytree Hollow，” said a narrator in a posh accent",
+   "fact": "停格动画：狐狸像市长丑化漫画像、熊像 vicar"
+  },
+  {
+   "range": "[3067:3191]",
+   "anchor": "Wimbly Withershins is looking for a splendid picnic spot, along with his friends Timmy and Tammy Thimble and Reverend Smiles",
+   "fact": "角色名逐字：Timmy/Tammy Thimble、Reverend Smiles；旁白包办所有配音"
+  },
+  {
+   "range": "[4992:5056]",
+   "anchor": "a nice picnic of crunkle, egg salad, and lashings of ginger beer",
+   "fact": "野餐内容逐字；后续冰湖滑冰集 15 分钟无事故"
+  },
+  {
+   "range": "[7281:7367]",
+   "anchor": "There were four cats in the house (“My wife adores the creatures,” said the lord mayor",
+   "fact": "四猫名逐字：Queen Victoria/Boudicca/Pitt the Elder/Lord Palmerston"
+  },
+  {
+   "range": "[7974:8078]",
+   "anchor": "such that they gave a little bow and curtsy when they answered the door to welcome their American guests",
+   "fact": "Percival/Prudence 穿成对水手服，鞠躬+屈膝礼"
+  },
+  {
+   "range": "[9493:9592]",
+   "anchor": "She had introduced herself as Molly, but Jessica assumed that she would probably always just remain",
+   "fact": "Molly 自我介绍；体型巨大而动作优雅；兔子形饼干"
+  },
+  {
+   "range": "[11673:11805]",
+   "anchor": "The working title is Princess Kayla’s Fresh-Start Baking Academy for Scandalous Scoundrels, Nasty Ne’er-Do-Wells, and Dashing Rogues",
+   "fact": "Jessica 报书名全文；Lighthaven 禁女性之恋；found family/enemies-to-lovers/second chances"
+  },
+  {
+   "range": "[14140:14232]",
+   "anchor": "a framed pen-and-ink illustration of rabbits in waistcoats, probably from some old storybook",
+   "fact": "厕所：穿马甲的兔子插画+瓷娃娃房；房子像育儿室"
+  },
+  {
+   "range": "[15028:15140]",
+   "anchor": "Round Robin is the spirit of Hasenhurst. He comes on Tigglestide Eve, and he brings luck and prosperity to those",
+   "fact": "Molly 耳语：RR 是 Hasenhurst 之灵、偏爱 well-ordered house"
+  },
+  {
+   "range": "[17397:17485]",
+   "anchor": "“Isn’t it rather odd for a boy to have purple hair?” said Prudence in a judgmental voice",
+   "fact": "Prudence 评判紫发；How droll；RR is none of your concern"
+  },
+  {
+   "range": "[21196:21250]",
+   "anchor": "said Percival, in a voice small and creaky from disuse",
+   "fact": "Percival 平时不开口；嗓音沙哑因久不使用"
+  },
+  {
+   "range": "[22552:22643]",
+   "anchor": "He makes sure that the bread rises just so and that the sugar cookies are just sweet enough",
+   "fact": "Percival 的 RR 长解释：奖 right sort、set right wrong sort"
+  },
+  {
+   "range": "[24211:24310]",
+   "anchor": "“Ah, it’s the Emperor, reversed. The Emperor card represents order and control, but also protection",
+   "fact": "塔罗第一张 Emperor 逆位=tyranny；Percival 说 Round Robin protects us"
+  },
+  {
+   "range": "[24605:24654]",
+   "anchor": "Sandy flipped over the second card. It was Death.",
+   "fact": "第二张 Death=transformation；Percival 嚎啕大哭"
+  },
+  {
+   "range": "[26850:26922]",
+   "anchor": "Round Robin doesn’t bring presents. He rewards the right sort of people.",
+   "fact": "临别：You never read the third card + He doesn't reward the wrong sort of people"
+  }
+ ]
+}
