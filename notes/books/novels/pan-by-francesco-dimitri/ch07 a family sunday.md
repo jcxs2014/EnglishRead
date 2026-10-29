@@ -36,7 +36,7 @@ modified: "2026-10-29"
 
 **中文理解**：热液浇下来——Ljubcheck 正对着她小便。若这已是全部，算她走运。车一辆辆开过，没有一辆停。
 **关键词**：pours, lucky, stops
-**为什么这样写**：The cars pass, no one stops. 是全章最社会的七个字：施暴的是皮条客，共谋的是交通流；If that's all 的算账语气写尽她对此地「升级上限」的预期。
+**为什么这样写**：The cars pass, no one stops. 是全章最社会的六个词：施暴的是皮条客，共谋的是交通流；If that's all 的算账语气写尽她对此地「升级上限」的预期。
 **读者视角提示**：下一节紧接就有人下令制止——车流的缺席由孩子们的到场补上。
 
 ---
@@ -73,7 +73,7 @@ modified: "2026-10-29"
 **中文理解**：孩子们的见面礼，是让 Ljubcheck 重新感到疼痛——那份被可卡因没收的痛。随后胖孩子递上一柄锈钝旧剑，Vesna 举剑让 Ljubcheck 看见死亡再来，一剑斩颈：她力气小、剑又旧，敲了好几下才成。
 **关键词**：pain, gift, welcome
 **为什么这样写**：作者把「魔法」压缩成一次疼痛的归还，全书最克制的超自然展示；welcoming gift 的措辞把暴行登记为礼节，take your revenge 是条款不是客气——入伙要交的不是钱，是亲手。
-**读者视角提示**：「好几下」这五个字的残忍度高于任何一句咒语；本书的奇迹都要靠笨拙的肉身后勤落地。
+**读者视角提示**：「好几下」这三个字的残忍度高于任何一句咒语；本书的奇迹都要靠笨拙的肉身后勤落地。
 
 ---
 
@@ -82,13 +82,13 @@ modified: "2026-10-29"
 **中文理解**：电视上 Augusto Dal Mare 发言：这波蔓延的暴力必须促使我们采取行动，年轻人的未来悬于一线。Dr. Anna Oliva 在侧，仪态从容。
 **关键词**：wave, violence, at stake
 **为什么这样写**：读者上一节刚目睹招募，这一节立刻看到同一批暴力被翻译进政策语言；at stake 与 the future of our young people 是全节最空的两串空话——作者把「解释体系」与「制造体系」押在同一个名字上。
-**读者视角提示**：这位电视学家与 ch06 梦界招募者同名同姓（Augusto Dal Mare）——双面身份在本章完成对穿。
+**读者视角提示**：这位电视学家就是 ch06 梦界里的招募者本人（Augusto Dal Mare）——双面身份在本章完成对穿。
 
 ---
 
 > **原句 9:** "“We should teach our youths the value of peace, through all means. But rather, we are showing them how to fight.”"
 
-**中文理解**：我们应当教年轻人和平的价值，以一切手段；可我们实际在向他們演示如何打斗。
+**中文理解**：我们应当教年轻人和平的价值，以一切手段；可我们实际在向他们演示如何打斗。
 **关键词**：peace, means, fight
 **为什么这样写**：through all means 惯用作「务必」，作者偏取字面「以一切手段」，让和平学说出威胁的口吻；Wendy 在午餐桌上正是按字面接住这句——doesn't sound creepy to you?
 **读者视角提示**：Dal Mare 稍后仍在自家电视里播出 "Responsible adults need to check what they are reading"——规训话语与家庭权力并轨，Michele 只淡淡回了句「还得查证是不是娃娃帮」，这是本节唯一的怀疑声。
@@ -159,7 +159,7 @@ modified: "2026-10-29"
 | prevalence | 流行率、盛行程度 | “Think of the prevalence of violent videogames,” he resumes. |
 | aberrant | 越轨的、异常的 | They supply models of aberrant behaviour, where the most brutal one—the alpha male, if you want—is victorious. |
 | interjects | 插话 | “We might say,” Oliva interjects, “that this is a generation of lost children.” |
-| devise | 设计出、想 out 办法 | “We need,” says Dal Mare from the screen, “to devise a way of preventing other children from getting lost. |
+| devise | 设计出、想出办法 | “We need,” says Dal Mare from the screen, “to devise a way of preventing other children from getting lost. |
 | arabesques | 藤蔓状花纹 | Inside, the shadows draw arabesques on the walls, fed by the random stuff accumulated over so many years. |
 | tenured | 获终身教职的 | Stefano Cavaterra was surrounded by his colleagues’ respect, his patients’ gratitude, and he was a tenured professor of psychiatry at Sapienza. |
 | snuffed | 被掐灭 | And yet soon she’ll be a widow (she already is, just not officially) and Papa’s brilliant mind has been snuffed out, with nothing anyone can do except watch, take notes, and weep. |
