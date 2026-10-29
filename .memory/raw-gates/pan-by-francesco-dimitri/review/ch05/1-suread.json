@@ -1,0 +1,148 @@
+{
+ "chapter": "ch05",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch05_unease.txt",
+ "facts": [
+  {
+   "fact": "Simone 每夜看着父亲打母亲，梦里一艘帆船起锚、海盗帮成形——这是他要上报的征兆，他飞走去报信。",
+   "anchor": "It’s being dreamed by a boy whose name in Flesh is Simone, who nightly watches his father beat his mother.",
+   "start": 147,
+   "end": 253
+  },
+  {
+   "fact": "Aminata（家里第一个在罗马出生的人）走在空荡的 Monti，进酒馆给自己打了一杯 Guinness，听见有人说「Thank you」，抬头看见令她又惊奇又恐惧的东西。",
+   "anchor": "And most of all she’d like to escape the thing that’s watching her; she can’t see it, but she knows it’s there.",
+   "start": 2222,
+   "end": 2333
+  },
+  {
+   "fact": "Fatty（Stranieri 教授）把 DuQuette 的发现贬成「孩子梦见海盗美人鱼有什么稀奇」，并给 Giovanni 两个选项：七月交哈欠论文，或十月交岛。",
+   "anchor": "So, there are two options: yawning in July, or your Island in October.",
+   "start": 5884,
+   "end": 5954
+  },
+  {
+   "fact": "Giovanni 从起床起就有说不清的 unease；与妹妹 Angela 吃披萨，她讲帽子里凭空出现的兔子；他举 De Martino、Elkin 为例，说鬼魂目击已大幅崩塌。",
+   "anchor": "Giovanni finds the name for what he’s feeling: unease.",
+   "start": 6847,
+   "end": 6901
+  },
+  {
+   "fact": "Wendy 用海边的「回抽」打比方：水退得像消失，然后大浪会来——也许魔法正在回抽，浪要来了。",
+   "anchor": "Maybe there’s been a backwash. Maybe the swell is coming.",
+   "start": 13283,
+   "end": 13340
+  },
+  {
+   "fact": "Michele 逃学去 EUR 看涂鸦：一幅署名 Nibs 的画——傻气的小岛、戴礼帽的裸女、飞在半空的人、远处驶来的小船；他拍照、买漫画，并接到 Greta 电话约五点来家里。",
+   "anchor": "It showed a goofy little island topped with a grinning figure.",
+   "start": 15354,
+   "end": 15416
+  },
+  {
+   "fact": "拳馆里 Guido 教练训 Giovanni 太谨慎；Giovanni 十岁起练拳（因在校外把欺负他的人往沥青上砸），父亲送他去的，并说「永远别挡在自然与它的循环之间」。",
+   "anchor": "“Never get between nature and its cycles,” Papa continued, “or you’ll be crushed.”",
+   "start": 21784,
+   "end": 21866
+  },
+  {
+   "fact": "Greta 来家里看漫画大纲；饭桌上父亲呕吐，Greta 借故离开；Michele 清理时在呕吐物里发现一颗桃核。",
+   "anchor": "It’s a peach stone.",
+   "start": 30643,
+   "end": 30662
+  },
+  {
+   "fact": "Dal Mare 已经剖开两个孩子读内脏，还需要第三个才能得到他要的答案。",
+   "anchor": "Augusto Dal Mare has opened up two of them, but he needs the third to obtain the answers he seeks.",
+   "start": 30715,
+   "end": 30813
+  },
+  {
+   "fact": "Wendy 主持周五吸血鬼跑团；散场后 Giada 说罗马的怪事越来越多、街道在变，约她明天午饭看一个从没对人说过的秘密。",
+   "anchor": "I don’t know what is in Rome, but something is. The streets are changing.",
+   "start": 36884,
+   "end": 36957
+  },
+  {
+   "fact": "Giovanni 回家想靠 Luisa 驱散 unease，可一被抱住就明白哪里不对：Luisa 的眼睛变了颜色。",
+   "anchor": "Luisa’s eyes have changed colour.",
+   "start": 38172,
+   "end": 38205
+  }
+ ],
+ "numbers": [
+  {
+   "value": "五英尺二（Fatty 的身高）",
+   "anchor": "his being no more than five foot two, squat as a badly-cut log",
+   "start": 3024,
+   "end": 3086
+  },
+  {
+   "value": "六十岁（Guido），约五十年在拳台",
+   "anchor": "Guido is sixty years old. He’s spent around fifty of them in the ring.",
+   "start": 18966,
+   "end": 19036
+  },
+  {
+   "value": "十岁（Giovanni 开始练拳）",
+   "anchor": "He’s trained Giovanni since he was ten years old",
+   "start": 19132,
+   "end": 19180
+  },
+  {
+   "value": "十六岁（Michele）",
+   "anchor": "Michele, sixteen years old, cleans up vomit and he is alone.",
+   "start": 30290,
+   "end": 30350
+  },
+  {
+   "value": "三岁（父母争吵那夜的 Michele）",
+   "anchor": "Michele, three years old, slept peacefully, despite his parents’ yells.",
+   "start": 20720,
+   "end": 20791
+  },
+  {
+   "value": "五点（Greta 来访）",
+   "anchor": "I’ll see you at five, at my place.",
+   "start": 17729,
+   "end": 17763
+  },
+  {
+   "value": "七点（晚饭，父亲呕吐）",
+   "anchor": "It’s seven o’clock, time for dinner, and Papa has vomited.",
+   "start": 28047,
+   "end": 28105
+  },
+  {
+   "value": "凌晨一点多（跑团散场）",
+   "anchor": "It’s past one in the morning, and Pietro has to be in the office at eight",
+   "start": 33846,
+   "end": 33919
+  }
+ ],
+ "relations": [
+  {
+   "note": "Angela（Wondrous Wendy）是 Giovanni 的姐姐，比他大两岁。",
+   "anchor": "When they were both teenagers, Angela looked out for her brother, two years her junior.",
+   "start": 9153,
+   "end": 9240
+  },
+  {
+   "note": "Michele 是两人的弟弟（父母争吵那夜他三岁，如今十六）。",
+   "anchor": "Michele, three years old, slept peacefully, despite his parents’ yells.",
+   "start": 20720,
+   "end": 20791
+  },
+  {
+   "note": "Giada 是 Wendy 跑团里的玩家兼好友，做一份「见惯怪事」的工作。",
+   "anchor": "In my work I see a lot of weird things, Angela—I have since day one.",
+   "start": 36783,
+   "end": 36851
+  },
+  {
+   "note": "Greta 被 Michele 叫作 Mary Jane（蜘蛛侠妻子的名字）。",
+   "anchor": "Spider-Man is his and Greta’s favourite superhero, and Mary Jane is the web-crawler’s wife. That’s why Michele calls her that.",
+   "start": 25478,
+   "end": 25604
+  }
+ ]
+}
