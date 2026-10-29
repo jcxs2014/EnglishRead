@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch62",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch62_in_which_the_ceg_guy_blows_himself.txt",
+ "facts": [
+  {
+   "fact": "KRAY 周一上午 9:30 准点抵达新总部大楼的反间谍组（CEG）问询室门外。",
+   "anchor": "KRAY arrived outside the Counterespionage Group interview room in the New Headquarters Building at exactly 9:30 on Monday morning",
+   "start": 40,
+   "end": 169
+  },
+  {
+   "fact": "到之前他先去 EVERSHAG 办公室，趁她开会把银拆信刀放回她的桌面。",
+   "anchor": "slipping her silver letter opener back onto her desk while she was away at a meeting",
+   "start": 211,
+   "end": 295
+  },
+  {
+   "fact": "给 KRAY 发问询室房号的 FURST 把真名与化名 Hugo N. FURST 都写进了邮件。",
+   "anchor": "had put both his true name and his Funny Name, which was Hugo N. FURST, into his email",
+   "start": 370,
+   "end": 456
+  },
+  {
+   "fact": "这一写等于 FURST 亲手吹掉了自己的化名。",
+   "anchor": "In so doing he had blown his own pseudo",
+   "start": 458,
+   "end": 497
+  },
+  {
+   "fact": "FURST 把他领进一间无窗小屋，天花板一角装着摄像头。",
+   "anchor": "ushered him to a small, windowless room with a camera up in one corner of the ceiling",
+   "start": 685,
+   "end": 770
+  },
+  {
+   "fact": "FURST 说 KRAY 的上级告知他：KRAY 未报告在印度与一名外国情报官的会面。",
+   "anchor": "failed to report a meeting in India with a foreign intel officer",
+   "start": 968,
+   "end": 1032
+  },
+  {
+   "fact": "KRAY 把事情全讲了，只略去金打火机那一段。",
+   "anchor": "He told him everything, minus the gold lighter part",
+   "start": 1149,
+   "end": 1200
+  },
+  {
+   "fact": "问询结束时 FURST 看表，时间是 9:43，全程十三分钟。",
+   "anchor": "It was 9:43",
+   "start": 2605,
+   "end": 2616
+  }
+ ]
+}

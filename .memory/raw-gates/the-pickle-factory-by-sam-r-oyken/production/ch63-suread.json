@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch63",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch63_journal_entry_no_59.txt",
+ "facts": [
+  {
+   "fact": "日记开篇立论：在 CIA 根本不可能被开除，撒谎、骚扰、上班喝酒、害死下属都不算事。",
+   "anchor": "It was impossible to get fired at CIA",
+   "start": 54,
+   "end": 91
+  },
+  {
+   "fact": "已关在联邦监狱里的 Rick Ames 按日记作者的说法仍在替 CIA 工作。",
+   "anchor": "he still works for CIA",
+   "start": 1033,
+   "end": 1055
+  },
+  {
+   "fact": "俄国蜜罐 Anna Chapman 落网后没有坐牢，几乎立刻被送回俄罗斯。",
+   "anchor": "Anna Chapman got to go back home to Russia almost immediately",
+   "start": 2265,
+   "end": 2326
+  },
+  {
+   "fact": "唯一成功被开除的那个人，关键在于他向上司提起了平等就业机会（EEO）申诉。",
+   "anchor": "The key to his success in getting fired from CIA was bringing an Equal Employment Opportunity complaint against his Agency bosses",
+   "start": 4546,
+   "end": 4675
+  },
+  {
+   "fact": "管理层调出他历年全部工作记录，共 19,892 页，从中找可以点火的材料。",
+   "anchor": "all 19,892 pages of it",
+   "start": 6460,
+   "end": 6482
+  },
+  {
+   "fact": "报复的第一步是停他的行动资格、把他关进「惩罚区」。",
+   "anchor": "They took him off line, stopped him from doing any more ops, stuck him in the Penalty Box",
+   "start": 6273,
+   "end": 6362
+  },
+  {
+   "fact": "老友 Shemp 于 2010 年 1 月 5 日签下备忘录，距其部下被炸死仅六天。",
+   "anchor": "Shemp signed his memo on January 5th, 2010, just six days after several of his brave subordinates were blown to bits",
+   "start": 7799,
+   "end": 7915
+  },
+  {
+   "fact": "从他的上司们动手到把他正式踢出，前后用了一年半。",
+   "anchor": "a year and a half after his Agency managers kicked off their effort",
+   "start": 9010,
+   "end": 9077
+  }
+ ]
+}

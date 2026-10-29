@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch64",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch64_in_which_kray_gets_fired.txt",
+ "facts": [
+  {
+   "fact": "KRAY 在 Penalty Box 里待了两周，为打发无聊先去上网课",
+   "anchor": "KRAY hung fire in his cozy Penalty Box coffin for the next two weeks",
+   "start": 30,
+   "end": 98
+  },
+  {
+   "fact": "“Talking With Foreigners” 课程建议尽可能避免与外国人交谈",
+   "anchor": "whenever possible, talking with foreigners should be avoided",
+   "start": 257,
+   "end": 317
+  },
+  {
+   "fact": "KANDINSKY 收到转发的健身课程后，回了这句 waist/waste 双关",
+   "anchor": "A waist is a terrible thing to mind.",
+   "start": 1400,
+   "end": 1436
+  },
+  {
+   "fact": "KRAY 在总部图书馆书架间翻到一份发黄的 OSS 训练手册影印件档案",
+   "anchor": "he discovered an old, yellowed file containing photocopies of OSS training manuals",
+   "start": 1555,
+   "end": 1637
+  },
+  {
+   "fact": "KRAY 一直想要一把 OSS 短刀，却始终没能从博物馆馆长 Toni Hiley 那里弄到",
+   "anchor": "sweet-talk one out of Toni Hiley, the Director of the Museum",
+   "start": 2344,
+   "end": 2404
+  },
+  {
+   "fact": "局长应 Wacker 的请求，取消了他的安全许可并终止雇佣",
+   "anchor": "at Wacker’s request, made the decision to terminate his security clearances",
+   "start": 4048,
+   "end": 4123
+  },
+  {
+   "fact": "他们让他刷卡出门，紧接着收走了他的证件卡",
+   "anchor": "They allowed KRAY to badge out and they took away his badge.",
+   "start": 4726,
+   "end": 4786
+  },
+  {
+   "fact": "纸条约他明天中午在国家档案馆圆厅见面，并提醒早点去排队",
+   "anchor": "Meet me at noon tomorrow at the National Archives Rotunda.",
+   "start": 5377,
+   "end": 5435
+  }
+ ]
+}
