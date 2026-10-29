@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch16",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch16_in_which_we_witness_a_brief_encounter_in_a_men_s_room.txt",
+ "facts": [
+  {
+   "fact": "Wacker 在走廊叫住 KRAY。",
+   "anchor": "Wacker stopped KRAY in the hallway.",
+   "start": 59,
+   "end": 94
+  },
+  {
+   "fact": "KRAY 加入十五人的简报团队。",
+   "anchor": "He joined the briefing team, fifteen strong, as it was headed out.",
+   "start": 763,
+   "end": 829
+  },
+  {
+   "fact": "简报地点在 MUCHADOO 的 Executive Conference Room，是 KRAY 第一次上七楼。",
+   "anchor": "The briefing was set for the Executive Conference Room in DC/HR/DNCS MUCHADOO’s office suite.",
+   "start": 1375,
+   "end": 1468
+  },
+  {
+   "fact": "KLIMT 预计本财年第四季度按时按预算完成数字指标。",
+   "anchor": "We project bein’ able to meet our numerical numbers on time and under budget by the fourth quarter a the fiscal year.",
+   "start": 2966,
+   "end": 3083
+  },
+  {
+   "fact": "一位叫 Cooper 的幕僚来自纽约市。",
+   "anchor": "My name’s Cooper. I’m from New York City.",
+   "start": 6445,
+   "end": 6486
+  },
+  {
+   "fact": "Cooper 低声约 KRAY 到走廊左边男厕所见面。",
+   "anchor": "As Cooper brushed past KRAY on his way out the door, he whispered, “Meet me in the Men’s Room out in the hallway on the left.”",
+   "start": 9539,
+   "end": 9665
+  },
+  {
+   "fact": "KRAY 说 GOOWIKI 下还没有任何人被部署。",
+   "anchor": "No one has been deployed yet under GOOWIKI.",
+   "start": 12233,
+   "end": 12276
+  },
+  {
+   "fact": "Cooper 的名片上印着 DEAN BRETT COOPER。",
+   "anchor": "Printed on it in capital letters was the name DEAN BRETT COOPER.",
+   "start": 12840,
+   "end": 12904
+  }
+ ]
+}
