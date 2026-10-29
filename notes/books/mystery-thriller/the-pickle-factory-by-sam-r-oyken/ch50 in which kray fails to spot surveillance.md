@@ -28,7 +28,13 @@ modified: "2026-10-29"
 **为什么这样写**：时间精确到 8:00 a.m.、车写成「old beater」、牌照连字母都给出，三个可核对的细节让接头带上行动记录的质感；末尾「or so they thought」却从记录口吻切回叙述者旁白，刚建立的「干净」被同一句话否掉。
 **读者视角提示**：留意「old beater Mercury」的所有权标记——车是 Skinner 的，这条信息把 KRAY 的接头对象与 Skinner 直接连在一起；「or so they thought」则提醒你，判定「干净」的人是当事人，不是叙述者。
 
-> **原句 3:** "KRAY was confident he was clean. He missed the FBI surveillance team following behind him like a skulk of foxes as they broke off."
+> **原句 3:** "He handed over the black backpack he’d brought with him. “That’s a refund of your two hundred grand,” said KRAY. “Wacker was kind enough to pay my way.” “Yer an honest man, Marcel,” said Skinner. “I reckon that’ll be yer downfall.”"
+**中文理解**：KRAY 把随身带来的黑色背包递过去，说里面是那二十万美元的退款——路费是 Wacker 出的；Skinner 称他「老实人」，并说这大概会是他的下场。
+**关键词**：black backpack, refund, two hundred grand, Wacker, honest man, downfall
+**为什么这样写**：刚收下的经费原封退回，等于把「谁的钱、替谁办事」这笔账当面结清；Skinner 的夸奖带着预言口吻——在 CIA 当老实人不是美德，是隐患。这句玩笑为后面 KRAY 被解职埋下伏笔。
+**读者视角提示**：注意「honest man」与「downfall」的并置：Skinner 不是单纯夸他，而是在提醒这套体制容不下这种人。
+
+> **原句 4:** "KRAY was confident he was clean. He missed the FBI surveillance team following behind him like a skulk of foxes as they broke off."
 
 **中文理解**：KRAY 认定自己身上没有尾巴，却没看见跟在后头的 FBI 监视小组；那队人像一群狐狸似的缀着他，随后各自散开。
 **关键词**：confident / clean / missed / surveillance team / skulk of foxes
@@ -68,4 +74,4 @@ modified: "2026-10-29"
 
 ## 一句话总结
 
-一次按教科书做的反监视接头，被「or so they thought」和「He missed」两句旁白拆穿：KRAY 甩掉了想象中的尾巴，真正的尾巴一直跟在身后。
+一次按教科书做的反监视接头、把二十万美元原封退回，被「or so they thought」和「He missed」两句旁白拆穿：KRAY 甩掉了想象中的尾巴，真正的尾巴一直跟在身后。
