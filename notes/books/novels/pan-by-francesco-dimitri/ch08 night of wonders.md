@@ -6,10 +6,10 @@ modified: "2026-10-29"
 # 08. Night of Wonders
 
 ## 本章导航
-- **一句话概括**：同一个深夜四条线同时被拽出常规：Antonio 在 Dream 里用钢剑赢下 Mateo，斥候已看见海盗大帆船起锚，战争将至；Wendy 正梦见自己裸体飞过海面、礼帽里可能再变出兔子，却被 Giada 一通深夜电话叫醒——她凭职业本能读出对方的情绪是恐惧；Giada 在垃圾里捡到那尊断像的「原件」，泡在自己浴缸里：一个长着角、蹄与成人阴茎的非人男胎，睁开了眼睛；78 岁的萨克斯手 Tito 正准备最后一次关俱乐部，一个一月底不穿鞋的少女替他带来「办活动的人」的邀约；Michele 半夜找不到父亲，在旧衣柜后的暗室（the Secret）里发现父亲像抱婴儿一样抱着一本封面画着整圆加两段弧线的黑笔记本，赤脚沾着新鲜的泥。
-- **情感弧线位置**：全书第一次让 Wonder 以「有体积、有气味、会走路」的东西进入成人清醒生活——前七章的异常都发生在梦里或事后（帽子兔子、变色眼睛、桃核气味），本章的异常被两个成年女人关在同一间浴室里面对面盯着。恐惧不再是被追逐，而是被触摸。
+- **一句话概括**：同一个深夜四条线同时被拽出常规：Antonio 在 Dream 里用钢剑赢下 Mateo，斥候已看见海盗大帆船起锚，战争将至；Wendy 正梦见自己裸体飞过海面、礼帽里可能再变出兔子，却被 Giada 一通深夜电话叫醒——她凭职业本能读出对方的情绪是恐惧；Giada 在垃圾里捡到那尊断像的「原件」，泡在自己浴缸里：一个长着角、蹄与成人阴茎的非人男胎，睁开了眼睛；78 岁的萨克斯手 Tito 打烊时得知俱乐部一周内倒闭、自己只剩四次拉卷帘门，一个一月底不穿鞋的少女替他带来「办活动的人」的邀约；Michele 半夜找不到父亲，在旧衣柜后的暗室（the Secret）里发现父亲像抱婴儿一样抱着一本封面画着整圆加两段弧线的黑笔记本，赤脚沾着新鲜的泥。
+- **情感弧线位置**：全书第一次让 Wonder 以「有体积、有气味、会走路」的东西进入成人的清醒生活——前七章的异常要么留在梦里，要么只留下说不清的痕迹（没人藏过的帽子兔子、变色的眼睛、桃核与雨后树木的气味），本章的异常却被两个成年女人关在同一间浴室里面对面盯着。恐惧的形状也换了：不再是被人追逐，而是被一个随时能杀死你的东西轻轻摸了一遍。
 - **Tropes 兑现/反转**：First Contact 反写成脏活累活——神迹不来自天空而来自垃圾车，发现者是环卫工，容器是浴缸；Baby in the Basket（摩西式弃婴母题）被拆掉神圣外衣：弃在垃圾里的是恶魔的幼体，而「Incinerators have no memory」把这套神学落在城市废物处理流程上；魔术师的「看穿手法」母题反转成「唯一的手法就是它太真」。
-- **人物弧线**：Wendy/Angela（从读别人情绪的人，变成被恐惧读透的人，仍选择开门走出去）、Giada（她的收藏癖从怪癖升级为见证，代价是把法律彻底挡在门外）、Tito（新入列的成人：一生的手艺只剩四次关灯，被一个赤脚少女用一句“I know someone who’d like you”勾住）、Michele（第一次独自承担照护者的位置，也第一次继承父亲的秘密）。
+- **人物弧线**：Wendy/Angela（从读别人情绪的人，变成被恐惧读透的人，仍选择开门走出去）、Giada（她的收藏癖从怪癖升级为见证，代价是把法律彻底挡在门外）、Tito（新入列的成人：俱乐部一周内倒闭，他只剩四次拉卷帘门，被一个赤脚少女用一句“I know someone who’d like you”勾住）、Michele（第一次独自承担照护者的位置，也第一次继承父亲的秘密）。
 - **叙事手法**：七个罗马数字小节像七张切片，每节换一个自由间接视角；Dream 与 Flesh 用同一种梦幻句法并写，靠大写专名分辨；恐怖高潮全部走短句单独成段（It’s a foetus. / The foetus opens its eyes. / Prisoners.）；性描写与怪物描写共用一套身体词汇（naked, flesh, touch, strokes, breath ragged）。
 
 ## 精读
@@ -23,39 +23,39 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "It’s not the first, but it’s possible it might be the last. The scouts have seen the pirate galleon raise anchor and resume sailing. Soon it will be time for the gnashing of teeth."
+> **原句 2:** "Now the Wondrous Wendy dreams of being naked, with a top hat on her head (will it contain a rabbit?). She’s naked and flying, and the air that wraps her body is fresh and fragrant, a mingled scent of trees and sea."
 
-**中文理解**：战争不是第一场，但可能是最后一场。斥候看见海盗的大帆船起锚、重新航行。很快，就是咬牙切齿的时刻了。
-**关键词**：scouts, galleon, resume, gnashing
-**为什么这样写**：It's not the first, but it's possible it might be the last 用两个不确定语气叠出一个孩子说不清、也说不出口的分量；gnashing of teeth 是《圣经》里审判的成语，孩子借来用，既显出血腥的重量，又显出他从大人那里听来词汇的年龄感。
-**读者视角提示**：大帆船这条线在下一章会真的出现在人眼前；这里只给它一个「起锚」的动作，不给它面孔。
-
----
-
-> **原句 3:** "Now the Wondrous Wendy dreams of being naked, with a top hat on her head (will it contain a rabbit?). She’s naked and flying, and the air that wraps her body is fresh and fragrant, a mingled scent of trees and sea."
-
-**中文理解**：神奇的 Wendy 梦见自己裸体，头上戴着礼帽，括号里问：帽子里会有兔子吗？她赤身飞行，裹住身体的空气清冽芬芳，是树木与海混在一起的气味。
+**中文理解**：神奇的 Wendy 梦见自己裸体，头上戴着礼帽，括号里她自己发问：帽子里会不会有兔子？她赤身飞行，裹住身体的空气清冽芬芳，是树木与海混在一起的气味。
 **关键词**：Wondrous, top hat, rabbit, fragrant, mingled
-**为什么这样写**：那个括号是全章最松动的一笔：连做梦的人自己都不确定帽子里会不会出兔子，把上一章「帽中凭空出现的兔子」变成她体内的悬念而不是身外的事故。裸体在这里不是被看的羞耻，是自由的可感形状——空气贴皮肤的方式和 Antonio 那边一模一样。
-**读者视角提示**：礼帽与兔子来自 ch04 那场派对——那时兔子是她没藏过的东西；这里它还没出现，先挂在梦里等。trees and sea 这组混合气味本书也早有记录（ch06 的标题就是树木的气味），本章稍后它会在一间三平方米的暗室里再出现一次，读者可以据此校准什么算征兆。
+**为什么这样写**：那个括号是全章最松动的一笔：连做梦的人都不确定帽子里会不会出兔子，于是 ch04 那场派对上「她没藏过的兔子」在她这里成了身体里的悬念，而不是一场外部的事故。裸体也不是被看的羞耻，而是自由的可感形状——空气贴着皮肤来写，和 Antonio 那边用的是同一套触觉。
+**读者视角提示**：紧接前一小节，Antonio 那边说的是 It’s not the first, but it’s possible it might be the last——梦里的战争可能是最后一场；而 Wendy 连自己梦里的兔子都要打问号。两节并置：孩子以为自己在备战，大人连做梦都不敢主张。trees and sea 这组混合气味本书早有记录（ch06 的标题就是树木的气味），本章稍后它还会在一间三平方米的暗室里出现一次。
 
 ---
 
-> **原句 4:** "Long gone are the days when he enjoyed playing. Tito closes the saxophone case, takes a last drag of smoke, and stubs out the butt in the ash tray. Tonight the club has been practically empty."
+> **原句 3:** "Long gone are the days when he enjoyed playing. Tito closes the saxophone case, takes a last drag of smoke, and stubs out the butt in the ash tray. Tonight the club has been practically empty."
 
 **中文理解**：他吹得开心的日子早就过去了。Tito 合上萨克斯琴盒，抽完最后一口，把烟头按灭在烟灰缸里。今晚俱乐部几乎空无一人。
 **关键词**：Long gone, saxophone, drag, stubs out, practically
-**为什么这样写**：倒装 Long gone are the days 像一声拖长的尾音，先给结论再给动作；收尾被写成一套仪式（合盒、最后一口、按灭），而 practically empty 用一个「差不多」把失败的规模缩到可以忍受。这是给一个新登场的 78 岁角色最快也最体面的自我介绍。
+**为什么这样写**：倒装 Long gone are the days 像一声拖长的尾音，先给结论再给动作；打烊被写成一套仪式（合盒、最后一口、按灭），而 practically empty 用一个「差不多」把失败的规模缩到还能忍受。这是一个 78 岁新角色最快也最体面的自我介绍。
 **读者视角提示**：注意按灭烟头这个动作——本书上一次让烟头真正发威是在 ch02，Stefano 用烟头点着了那条定情的披肩；火与烟在这部小说里从不只是气氛。
 
 ---
 
-> **原句 5:** "She’s a strange one, going around with no shoes on, despite the cold of late January. Tito looks her up and down: a pretty girl with slightly hard features. One of the five people present tonight—she seemed to appreciate his sax riffs."
+> **原句 4:** "She’s a strange one, going around with no shoes on, despite the cold of late January. Tito looks her up and down: a pretty girl with slightly hard features. One of the five people present tonight—she seemed to appreciate his sax riffs."
 
-**中文理解**：她是个怪人，一月底的寒冷里也不穿鞋走来走去。Tito 上下打量她：长相略硬的美女，是今晚在场的五个人之一——她似乎很欣赏他的萨克斯即兴段落。
+**中文理解**：她是个怪人，一月底这样冷也不穿鞋到处走。Tito 上下打量她：长相略硬的美女，是今晚在场的五个人之一——她似乎很欣赏他的萨克斯即兴段落。
 **关键词**：no shoes, late January, features, appreciate, riffs
-**为什么这样写**：五个人里挑出一个不穿鞋的，招募就从「偶遇」变成了「点名」；slightly hard 这个副词加形容词的软化写法，让读者先记住她的五官是硬的，再接受她说话的方式也是硬的。
-**读者视角提示**：本书的赤脚者已经出现过两次（一次留话、一次给文献指引），这是第三次开口办事——赤脚是入场的制服，不是贫穷的记号。
+**为什么这样写**：五个观众里点名一个不穿鞋的，招募就从偶遇变成了挑选；slightly hard 这个「副词加形容词」的软化写法，让读者先承认她五官是硬的，再接受她开口的方式也是硬的。despite the cold 是本书给赤脚者的固定注脚。
+**读者视角提示**：赤脚的身影此前留过一句话，也给过文献指引；这是它第三次开口办事——赤脚是入场的制服，不是贫穷的记号。
+
+---
+
+> **原句 5:** "Giada pours the coffee into two cups. She’s nervous as hell. She’s trying to conceal it, but she can’t with Wendy, who loves her and is the master of concealment."
+
+**中文理解**：Giada 把咖啡倒进两只杯子。她紧张得要命。她想藏住，可在 Wendy 面前藏不住——Wendy 爱她，而且本身是掩饰这门手艺的大师。
+**关键词**：pours, nervous, conceal, master, concealment
+**为什么这样写**：the master of concealment 是全章最锋利的一句人物设定：她靠制造「看不见」吃饭，所以没人能在她面前藏东西。作者把 loves her 和 can't conceal 压进同一个句子，等于宣布这段友谊里没有隐私——接下来那场浴缸里的展示，不是她说服自己去看的，是她被带去交账的。
+**读者视角提示**：本章一直在写「谁能看见什么」：孩子能看见 Dream，Wendy 能看见别人的情绪，接下来她将看见一样她的职业专门教人不要相信的东西。
 
 ---
 
@@ -63,8 +63,8 @@ modified: "2026-10-29"
 
 **中文理解**：额头最高处冒出两根骨质的尖突起，像签子一样小角。闭着的眼睛镶着极长的黑色睫毛，眼睑看上去不像 flesh（肉），倒像某种软骨。
 **关键词**：crest, sprout, protuberances, skewers, lashes, cartilage
-**为什么这样写**：描写从额头向下按解剖顺序推，像尸检报告一样冷静；simile 全用厨房与身体内部的物件（skewers、cartilage），于是「恶魔」不是神话符号，而是一块错长了材料的肉。sprout 这个植物动词让角显得是「长出来的」，不是装上去的。
-**读者视角提示**：这一段的视角仍属于 Wendy——她看得太细，恰恰证明她无法把视线移开；下一节会明说她的眼睛在抗拒固定。
+**为什么这样写**：描写从额头向下按解剖顺序推，冷静得像尸检报告；明喻全部取自厨房与身体内部的物料（skewers、cartilage），于是「恶魔」不是神话符号，而是一块拿错了材料的肉。sprout 这个植物动词尤其要紧：角是长出来的，不是装上去的。
+**读者视角提示**：视角仍属于 Wendy——她能看清睫毛的长短，恰恰证明她没法把视线移开；同段稍后就承认了这一点：她每次想盯住一个位置把它记牢，目光都会突然挪走。
 
 ---
 
@@ -159,4 +159,4 @@ modified: "2026-10-29"
 | bathroom cabinet | 浴室镜柜 | He takes a paracetamol from the bathroom cabinet and goes to the kitchen to look for a glass. |
 
 ## 一句话总结
-这一夜四条线同时越界：孩子在梦里备战最后一场战争，大人却在垃圾里捞出梦界的实物——Giada 把一只会睁眼、会爬出浴缸的恶魔胎儿抱回家，Wendy 用魔术师的方法确认它「太真所以像假」，最后被反锁在浴室里听着厨房的咀嚼声开灯；Tito 在只剩四次关灯的手艺上被一个赤脚少女搭话，Michele 则在父亲藏起来的暗室里接过一本像婴儿一样被抱着的黑笔记本，而老人的赤脚上沾着新鲜的泥。
+这一夜四条线同时越界：孩子在梦里备战一场「不是第一次、却可能是最后一次」的战争，大人却在垃圾里捞出梦界的实物——Giada 把一只会长角、会爬出浴缸的恶魔胎儿抱回家，Wendy 用魔术师的方法确认它「只因太真才像假」，两人反而被自己的关门声变成囚徒，跟着它走到厨房门口，在黑暗里听见颌骨咀嚼，最后由她去开灯；Tito 在只剩四次打烊的手艺上被一个赤脚少女搭话，Michele 则在父亲藏起来的暗室里接过一本像婴儿一样被抱着的黑笔记本，而老人的赤脚上沾着新鲜的泥。

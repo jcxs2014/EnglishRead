@@ -14,21 +14,21 @@ modified: "2026-10-29"
 
 ## 精读
 
-> **原句 1:** "Giada dances naked, singing and skipping about the room. She uses a hairbrush for a microphone. Then she flops onto the bed, exhausted."
+> **原句 1:** "He’s standing close to the bed. He’s looking up at her, small as he is, with eyes wide. It isn’t the inattentive gaze of an animal."
 
-**中文理解**：Giada 光着身子在屋里又唱又跳又蹦跶，拿发梳当话筒，然后一头瘫倒在床上，累得不行。
-**关键词**：naked, hairbrush, flops, exhausted
-**为什么这样写**：三个连续动作（dances / uses / flops）配一件家用物（hairbrush），把 ch06 登场时那个清运工的私密一面直接摊开——她的身体不属于任何人，只属于房间里那台立体声；flops、exhausted 这类带疲态的口语词消解了情色暗示，先让读者把她当活人再看她被注视。
-**读者视角提示**：本节最前面还单独成段给了一行歌词（留还是走，唱的人是 The Clash）——这句提问是本节的隐形标题，Giada 与 Michele 各自都要回答「留还是走」，而两人都没能自己选。
+**中文理解**：Peter 站在离床很近的地方，仰头看她，他那么小，眼睛睁得很大。那不是动物漫不经心的一瞥。
+**关键词**：standing, small as he is, inattentive, gaze
+**为什么这样写**：被看的一方换了人——屋里原本只有 Giada 一个人自处，作者却让一个身高只到床沿的小东西占据观察者位置；用 "It isn’t the inattentive gaze of an animal" 这条否定句立论，先让读者接受「兽不会那样看」这个默认解释，再在下一句推翻它。
+**读者视角提示**：本节开头单独成段给了一行歌词（留，还是走），唱的是 The Clash：这句提问是本节的隐形标题，Giada 与 Michele 在同一天都要回答它，而两人都没能自己选。
 
 ---
 
-> **原句 2:** "He’s looking up at her, small as he is, with eyes wide. It isn’t the inattentive gaze of an animal. On the contrary, his eyes run over her body, stop on the curve of her hip, studying it curiously."
+> **原句 2:** "On the contrary, his eyes run over her body, stop on the curve of her hip, studying it curiously."
 
-**中文理解**：他仰头看她，个头那么小，眼睛却睁得很大。那不是动物式漫不经心的一瞥；恰恰相反，他的视线在她身上滑动，停在胯骨那道弧线上，好奇地研究。
-**关键词**：inattentive, gaze, run over, curiously
-**为什么这样写**：写「被幼崽盯上」只能靠否定句立论——先说 "It isn’t the inattentive gaze of an animal"，再用 "On the contrary" 把注意力从动物升级为有意图的观察者；run over / stop 是镜头语言，等于让 Peter 替读者取景，制造被冒犯的不适。
-**读者视角提示**：ch09 里 Peter 还是被 Wendy 与 Giada 从窝里抱回的「长角幼崽」；这里他被剥掉宠物位置，成为第一个有欲望的主体——本书把「潘」的性感从一开始就写成让人不安的东西。
+**中文理解**：恰恰相反，他的视线在她身上滑动，停在胯骨那道弧线上，好奇地研究。
+**关键词**：On the contrary, run over, hip, curiously
+**为什么这样写**：run over / stop 是镜头语言，等于让 Peter 替读者取景，把「幼崽」当场改写成有意图的观看者；两个短句不带任何评价词，作者不代读者不安。
+**读者视角提示**：ch09 里 Peter 还是被 Wendy 与 Giada 抱回窝里的长角幼崽；这里他成为本书第一个有欲望的主体——潘的性感从一开始就被写成让人不舒服的东西。
 
 ---
 
@@ -50,12 +50,12 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "We continued a millennia-old tradition: the religion of the Goddess and the God, the Old Religion, the Art which some call witchcraft. … Your father was a pagan, not a Satanist."
+> **原句 5:** "We continued a millennia-old tradition: the religion of the Goddess and the God, the Old Religion, the Art which some call witchcraft. Old, ancient, but still alive. That was Stefano’s way, the tradition he preferred. Your father was a pagan, not a Satanist."
 
-**中文理解**：我们延续的是一桩千年传统：女神与上帝的宗教、旧教、被一些人称作 witchcraft 的 Art。……你父亲是异教徒，不是撒旦信徒（Satanist）。
+**中文理解**：我们延续的是一桩千年传统：女神与上帝的宗教、旧教、被一些人称作 witchcraft 的 Art。古老、远古，但仍然活着。那是 Stefano 的路，他偏爱的那个传统。你父亲是异教徒，不是撒旦信徒。
 **关键词**：millennia-old, witchcraft, pagan, Satanist
-**为什么这样写**：Irene 的句式是排比同义叠陈（the Old Religion / the Art / witchcraft），一次给一个词、层层收窄，像传教者在报教会的别名；句末才落下 "not a Satanist" 这个 Michele 真正害怕的标签——先给体系，再撤掉罪名。
-**读者视角提示**：省略号之间省去的是 "Old, ancient, but still alive. That was Stefano’s way, the tradition he preferred."：本书的宗教从不写成遗物，而写成「仍活着」，这与 ch09 里 Giovanni 父亲的论文主张（岛在无意识中强健在场）是同一句话的两面。
+**为什么这样写**：Irene 的句式是排比同义叠陈（the Old Religion / the Art / witchcraft），一次给一个词、层层收窄，像传教者在报教会的别名；Old, ancient, but still alive 单独成句，把「遗物」这层预期当场拆掉——本章的宗教不是博物馆展品；句末才落下 "not a Satanist" 这个 Michele 真正害怕的标签：先给体系，再撤掉罪名。
+**读者视角提示**：这段回答的是 Michele 上一句的质问「Papa worshipped a Horned God!」——他要的是罪名，Irene 给的是谱系；同一句里 "the tradition he preferred" 暗示 Stefano 还有其他传统可选，而本章不会给出那些是什么。
 
 ---
 
@@ -136,7 +136,7 @@ modified: "2026-10-29"
 **中文理解**：因为这一切同时发生不可能是巧合。底下必须有结构，而找出结构正是人类学的本分——大 Lévi-Strauss 就是这么说的。
 **关键词**：coincidental, structure, anthropology
 **为什么这样写**：Giovanni 把恐惧转译成学科纪律：一句 "it can’t be coincidental" 是本章所有人（Michele 找笔记本、Wendy 守着一句话、Silvia 守着病人）共同的前提，只有他说出了方法名；引 Lévi-Strauss 的位置紧接着 "He even rifled through the Secret" 的一无所获，信念在证据缺席处加码。
-**读者视角提示**：他在此段还想到「Uncle Augusto 为什么在 Galleon 上对他撒谎」与「Luisa 的眼睛」——本章末 Giovanni 是唯一掌握反证的人，却是最晚被袭击的人，这个错位是下一章的引线。
+**读者视角提示**：Giovanni 这一节开头刚被写成一整天查无所得（翻遍家里连父亲常去的那处秘密也没放过），却仍把「同时发生」当作不可接受的事——信念加码的位置正是证据缺席的位置；他在此段之前还想到 Uncle Augusto 在帆船上对他撒的谎。本章末他是最晚被袭击的人，这个错位是下一章的引线。
 
 ---
 
