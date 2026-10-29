@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch57",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch57_in_which_kray_sets_his_agency_free.txt",
+ "facts": [
+  {
+   "fact": "KRAY 在黑色吉普车里倒数会面窗口开启，只剩一分钟。",
+   "anchor": "“One minute to the start of the window for the meeting,” said KRAY.",
+   "start": 40,
+   "end": 107
+  },
+  {
+   "fact": "KRAY 与 KANDINSKY 坐在停在国会山那家星巴克街角的黑色吉普里，KRAY 与 Cooper 之前在那里见过面。",
+   "anchor": "They were sitting in KRAY’s black Jeep, parked around the corner from the Capitol Hill Starbucks, the one KRAY and Cooper had met at before.",
+   "start": 189,
+   "end": 329
+  },
+  {
+   "fact": "KRAY 把马尼拉信封推给 Cooper，说这就是 GOOWIKI 是骗局、Wacker 对国会撒谎的证据。",
+   "anchor": "“This is what you need to prove that GOOWIKI is a sham and that Wacker has been lying to Congress.",
+   "start": 1339,
+   "end": 1437
+  },
+  {
+   "fact": "材料由 Wacker 的人力资源主管 Evita P. EVERSHAG 主动送出。",
+   "anchor": "Wacker’s HR Chief, Evita P. EVERSHAG, reached out with it.",
+   "start": 1438,
+   "end": 1496
+  },
+  {
+   "fact": "KRAY 说文件标着 TOP SECRET，让 Cooper 回 SCIF 再打开。",
+   "anchor": "“It’s marked TOP SECRET",
+   "start": 1929,
+   "end": 1952
+  },
+  {
+   "fact": "KRAY 说 GOOWIKI 的钱先停进基础经费护住饭碗，再改拨给一个叫 Operation Kitchen Appliance 的项目。",
+   "anchor": "“Park it in base funds to protect their rice bowl,” said KRAY, “then reallocate it to something they’re calling ‘Operation Kitchen Appliance,’",
+   "start": 2151,
+   "end": 2293
+  },
+  {
+   "fact": "KRAY 说自己的职业生涯早已完蛋，但他现在能接受。",
+   "anchor": "“My career is already toast.",
+   "start": 3248,
+   "end": 3276
+  },
+  {
+   "fact": "走回吉普的路上，KRAY 提醒自己要把 EVERSHAG 的银色拆信刀还回去。",
+   "anchor": "On his way back to the Jeep, KRAY reminded himself he needed to return EVERSHAG’s silver letter opener.",
+   "start": 3545,
+   "end": 3648
+  }
+ ]
+}

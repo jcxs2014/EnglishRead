@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch58",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch58_journal_entry_no_47.txt",
+ "facts": [
+  {
+   "fact": "日记开篇断言中情局真正的动力源是酒精，并叫读者自己去总部验证",
+   "anchor": "America’s Central Intelligence Agency runs on alcohol.",
+   "start": 71,
+   "end": 125
+  },
+  {
+   "fact": "叙述者报出此刻总部存有 1,357,582.75 加仑可饮用酒精这个精确数字",
+   "anchor": "there are 1,357,582.75 gallons of potable alcohol at CIA",
+   "start": 830,
+   "end": 886
+  },
+  {
+   "fact": "拉美处有一台自己的玛格丽特调酒机，周五 Vespers 时一直开到没人能安全操作",
+   "anchor": "Latin America Division even has its own Margarita machine",
+   "start": 3116,
+   "end": 3173
+  },
+  {
+   "fact": "人事处暗门后有一间叫「盲猪」的地下酒吧，付五美元看宠物猪可换一杯免费 Southside",
+   "anchor": "their own speakeasy called “The Blind Pig.”",
+   "start": 3671,
+   "end": 3714
+  },
+  {
+   "fact": "安保处的摩门教徒贴出禁止在总部持有敞口酒瓶的告示，爱尔兰天主教黑手党把它摘下来当纪念品",
+   "anchor": "putting up signs forbidding open containers at Headquarters",
+   "start": 4804,
+   "end": 4863
+  },
+  {
+   "fact": "农场训练点（Camp Swampy）专门收最不可救药的醉鬼，让他们教新任办案官喝酒",
+   "anchor": "Camp Swampy is where the Agency sends her most incorrigible, staggering, washed-out drunks",
+   "start": 5070,
+   "end": 5160
+  },
+  {
+   "fact": "教官「疯杰克」以背诵 Lagavulin 酒标段落作为抓捕科目的评分条件，KRAY 照背了",
+   "anchor": "made KRAY memorize a passage from the label of Lagavulin’s bottle",
+   "start": 6427,
+   "end": 6492
+  },
+  {
+   "fact": "叙述者说真正让人想喝酒的痛苦，是意识到自己上班的地方是个巨大的骗局",
+   "anchor": "realizing the place where you work is one huge, immense, gigantic fraud",
+   "start": 9810,
+   "end": 9881
+  }
+ ]
+}

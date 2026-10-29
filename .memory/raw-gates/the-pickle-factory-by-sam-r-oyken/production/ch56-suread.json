@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch56",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch56_journal_entry_no_43.txt",
+ "facts": [
+  {
+   "fact": "CIA 为不被马里兰州米德堡国家安全局那帮“数学黑手党”比下去，自建了一个“愚蠢庞大”的国内 AI 监控项目。",
+   "anchor": "So as not to be shown up by all those Math Mafia wiseacres hoovering up SIGINT over there at the National Security Agency in Fort Meade, Maryland 20755, CIA created her very own stupid-big domestic AI spying program.",
+   "start": 100,
+   "end": 316
+  },
+  {
+   "fact": "这个内部代号“厨房家电行动”的项目，任务是盯住散布阴谋论的所谓“麻烦制造者”。",
+   "anchor": "The purpose of this program, known in-house as Operation Kitchen Appliance, is to keep an eye on so-called “troublemakers” spreading conspiracy theories",
+   "start": 317,
+   "end": 469
+  },
+  {
+   "fact": "项目运作细节来自 Wacker 那只牛皮纸信封里的材料，叙述者以“法官大人”的口吻当庭陈述。",
+   "anchor": "According to the contents of Wacker’s manila envelope, it works like this, Your Honor.",
+   "start": 540,
+   "end": 626
+  },
+  {
+   "fact": "涂黑段落中保留了时任 CIA 局长 David Petraeus 的名字。",
+   "anchor": "then-CIA Director David Petraeus",
+   "start": 863,
+   "end": 895
+  },
+  {
+   "fact": "涂黑段落末尾幸存五类厨房电器：洗碗机、微波炉、烤箱、搅拌机、磨豆机。",
+   "anchor": "dishwashers, microwaves, toaster ovens, blenders, and coffee grinders.",
+   "start": 1269,
+   "end": 1339
+  },
+  {
+   "fact": "选厨房作监控位置的理由是没人会怀疑自家厨房在监视自己。",
+   "anchor": "because nobody would ever suspect their kitchen of spying on them.",
+   "start": 2165,
+   "end": 2231
+  },
+  {
+   "fact": "涂黑段落里提到北卡罗来纳州 Elizabeth City 的 Edward Snowden。",
+   "anchor": "Edward Snowden of Elizabeth City, North Carolina,",
+   "start": 1798,
+   "end": 1847
+  },
+  {
+   "fact": "叙述者下结论：“厨房家电行动”具备俄罗斯信息行动的全部典型特征。",
+   "anchor": "In other words, Operation Kitchen Appliance has all the classic earmarks of a Russian information operation.",
+   "start": 3794,
+   "end": 3902
+  }
+ ]
+}
