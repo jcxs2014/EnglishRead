@@ -1,0 +1,55 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch14",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch14_chap14.txt",
+ "facts": [
+  {
+   "fact": "妈妈追问 Sandy 交了新女友",
+   "anchor": "You got a new girlfriend?",
+   "start": 899,
+   "end": 924
+  },
+  {
+   "fact": "Sandy 怀疑 George 戴着 binder",
+   "anchor": "Sandy suspected she was also wearing a binder",
+   "start": 1470,
+   "end": 1515
+  },
+  {
+   "fact": "Sandy 指 George 性别表演过度",
+   "anchor": "a whole lot of gender going on",
+   "start": 2676,
+   "end": 2706
+  },
+  {
+   "fact": "George 淡化 flying dream",
+   "anchor": "everyone has that flying dream",
+   "start": 3761,
+   "end": 3791
+  },
+  {
+   "fact": "council 把 bog 装成 moor",
+   "anchor": "turn the bog into a moor",
+   "start": 4471,
+   "end": 4495
+  },
+  {
+   "fact": "圣母像头换成兔颅骨",
+   "anchor": "bleached rabbit skull",
+   "start": 5605,
+   "end": 5626
+  },
+  {
+   "fact": "食肉羊归为品种怪癖",
+   "anchor": "Hasenhurst Blacknose sheep",
+   "start": 7953,
+   "end": 7979
+  },
+  {
+   "fact": "druids 向 Round Robin 行人祭",
+   "anchor": "they made human sacrifices to Round Robin",
+   "start": 13711,
+   "end": 13752
+  }
+ ]
+}
