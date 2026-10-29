@@ -127,7 +127,7 @@ modified: "2026-10-29"
 |---|---|---|
 | batter | 连续猛击 | Matteo continued to batter vaguely at the console |
 | impassive | 面无表情的、无动于衷的 | impassive to my shrieking and to the well-intentioned lifeguard |
-| dispassionate | 冷静客观的、不带感情的 | It was like the dispassionate realisation that one has hardly a disaster |
+| dispassionate | 冷静客观的、不带感情的 | It was like the dispassionate realisation that one has left the house without first turning a light out – unfortunate but hardly a disaster.
 | peruse | 仔细浏览、翻阅 | I looked about the craft the way one might peruse a Spot the Difference game |
 | shoal | 鱼群；（鱼的）一大群 | dreamed in shoals of Humboldt squid and molten silver fish |
 

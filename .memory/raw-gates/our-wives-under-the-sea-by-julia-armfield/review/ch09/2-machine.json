@@ -1,0 +1,295 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/ch09 an excuse to be out of the flat.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch09_miri.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I stand beneath the spray of the shower and scream for twenty minutes. I’m all right, for the most part. It is only on o",
+          "ok": true,
+          "pos": 6
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "For a moment, I imagined a kind of re-emergence, Leah as I knew her stepping out from behind the baffle of this person a",
+          "ok": true,
+          "pos": 719
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I want to explain her in a way that would make you love her, but the problem with this is that loving is something we al",
+          "ok": true,
+          "pos": 1057
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She told me once that when she was young she would imagine herself with scales that grew beneath the membranes of her sk",
+          "ok": true,
+          "pos": 2675
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She taught me to swim because I couldn’t, held on to my waist and buoyed me along. If I wanted to teach you the way I wa",
+          "ok": true,
+          "pos": 3139
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I looked at Leah, currently ferrying cutlery over from the counter – Leah with her short hair and her swimmer’s body, th",
+          "ok": true,
+          "pos": 5064
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "We’re waiting in line at Argos and I can’t be bothered to explain to her that I don’t need a landline at all, I just nee",
+          "ok": true,
+          "pos": 7496
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "OK, I think of saying, but that’s not the point. The problem isn’t that she went away, it’s that nothing about her going",
+          "ok": true,
+          "pos": 9901
+        }
+      ],
+      "words": 44
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 142,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 124,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 108,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 121,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 116,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 137,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 137,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 115,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.9
+      }
+    }
+  ],
+  "form": {
+    "h1": "09. Chapter Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2526,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 6、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

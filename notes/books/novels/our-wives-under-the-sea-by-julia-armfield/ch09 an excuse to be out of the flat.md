@@ -87,7 +87,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "OK, I think of saying, but that’s not the point. The problem isn’t that she went away, it’s that nothing about her going away felt normal. It isn’t that her being back is difficult, it’s that I’m not convinced she’s really back at all."
+> **原句 7:** "We’re waiting in line at Argos and I can’t be bothered to explain to her that I don’t need a landline at all, I just need an excuse to be out of the flat."
+
+**中文理解**：她们在 Argos 排队，她懒得跟卡门解释：自己根本不需要座机，她要的只是一个离开那间公寓的借口。
+
+**关键词**：waiting in line at Argos / don’t need a landline / an excuse to be out of the flat
+
+**为什么这样写**：章题就在这一句里，而且是以「懒得解释」的方式说出来的：她不撒谎，只是不解释。一个座机——在一部手机已经被她砸碎、电话又打不通的章节里——成了出门的理由，这个细节既写出她的清醒，也写出她的羞耻：她知道自己需要的不是通讯工具，是不必待在沙发对面那个人身边的几个小时。句子用 and 直接连起来，把排队和辩解压成一件日常小事。
+
+**读者视角提示**：注意「借口」这个词——本章她所有的行动都可以用这句解释。这也是全书最后一次她还愿意为「出门」找理由。
+
+---
+
+> **原句 8:** "OK, I think of saying, but that’s not the point. The problem isn’t that she went away, it’s that nothing about her going away felt normal. It isn’t that her being back is difficult, it’s that I’m not convinced she’s really back at all."
 
 **中文理解**：卡门把Leah的长期外出归到工作上，说日程总按她的来；她心里回「好吧，但问题不在这里」。她想说的是：问题不在她走了，而在她走的方式没有一样正常；也不在她回来难相处，而在她不觉得她真的回来了。
 
@@ -117,18 +129,18 @@ modified: "2026-10-29"
 |---|---|---|
 | outburst | （情绪的）爆发，发作 | Leah had been sitting on the sofa but looked up at this outburst. |
 | tumblers | 平底玻璃杯（不用杯脚） | Someone had brought Lillet and Jess made Vespers in an assortment of plastic tumblers. |
-| aftermath | 余波，事发之后的一段时期 | What I'm saying is, the pain is in the aftermath, more than it is the break. |
-| navigate | 应对，周旋于 | It's hard to navigate a relationship like that – everything always working to her schedule. |
-| relieved | 松了一口气的 | Someone upset a glass, which spilled its contents before shattering across the kitchen floor, and I was relieved it hadn't been me. |
+| aftermath | 余波，事发之后的一段时期 | What I’m saying is, the pain is in the aftermath, more than it is the break. |
+| navigate | 应对，周旋于 | It’s hard to navigate a relationship like that – everything always working to her schedule. |
+| relieved | 松了一口气的 | Someone upset a glass, which spilled its contents before shattering across the kitchen floor, and I was relieved it hadn’t been me. |
 
 ### ⭐ 常用
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | smash | 砸，猛击 | Around noon, I moved the phone from my ear and smashed it some seventeen times into the wall before dropping the remnants and going to fetch a dustpan. |
-| pretend | 假装 | "Euripides Eumenides," she replies, and then says it again when I pretend not to hear her. |
+| pretend | 假装 | “Euripides Eumenides,” she replies, and then says it again when I pretend not to hear her. |
 | burst out laughing | 突然大笑起来 | I asked and she burst out laughing. |
-| nod | 点头 | I don't know who Jean Seberg is, I thought of saying, instead nodding my head and saying, Yes she does actually, wow I'd never thought of that before. |
+| nod | 点头 | I don’t know who Jean Seberg is, I thought of saying, instead nodding my head and saying, Yes she does actually, wow I’d never thought of that before. |
 | several | 几个，数个 | I realise I have not spoken in several minutes and Carmen is looking at me with a keenness which is at least forty per cent real, though unquestionably assisted by the magnification of her eyes behind her glasses. |
 
 ## 一句话总结

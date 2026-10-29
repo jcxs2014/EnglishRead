@@ -1,0 +1,140 @@
+{
+  "chapter": "ch09",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch09_miri.txt",
+  "facts": [
+    {
+      "fact": "Miri 在淋浴下尖叫了二十分钟，觉得自己大体还好，只是偶尔想把自己烫到骨髓、用磨砂膏搓到大腿流血。",
+      "anchor": "I stand beneath the spray of the shower and scream for twenty minutes.",
+      "start": 8,
+      "end": 78
+    },
+    {
+      "fact": "中午前后，Miri 把电话从耳边拿开，往墙上砸了大约十七下，然后拿簸箕来收拾碎片。",
+      "anchor": "Around noon, I moved the phone from my ear and smashed it some seventeen times into the wall",
+      "start": 504,
+      "end": 596
+    },
+    {
+      "fact": "Leah 曾告诉 Miri，她小时候会想象皮肤下长出鳞片，一层银蓝色的薄片挡在骨头与体表之间，使她在溺水时不会进水。",
+      "anchor": "She told me once that when she was young she would imagine herself with scales that grew beneath the membranes of her skin",
+      "start": 2697,
+      "end": 2819
+    },
+    {
+      "fact": "Leah 因为 Miri 不会游泳而教她，扶着她的腰把她托在水面上。",
+      "anchor": "She taught me to swim because I couldn’t, held on to my waist and buoyed me along.",
+      "start": 3163,
+      "end": 3245
+    },
+    {
+      "fact": "Leah 带 Miri 参加大学朋友的晚宴，Allegra 隔着桌子问 Miri 是否觉得 Leah 长得像《筋疲力尽》里的 Jean Seberg。",
+      "anchor": "Allegra leaned across the table towards me and asked if I didn’t think Leah looked exactly like Jean Seberg in Breathless.",
+      "start": 4843,
+      "end": 4965
+    },
+    {
+      "fact": "Miri 和 Carmen 在 Argos 排队买新座机，Miri 心里清楚自己要的不是座机，只是一个离开公寓的借口。",
+      "anchor": "We’re waiting in line at Argos and I can’t be bothered to explain to her that I don’t need a landline at all, I just need an excuse to be out of the flat.",
+      "start": 7568,
+      "end": 7722
+    },
+    {
+      "fact": "Carmen 说分手的痛更多在事后而不是在分手那一刻，Miri 回说她们还没分手。",
+      "anchor": "“What I’m saying is, the pain is in the aftermath, more than it is the break.”",
+      "start": 9097,
+      "end": 9175
+    },
+    {
+      "fact": "Miri 心里反驳 Carmen：问题不是 Leah 离开，而是她离开的样子全然不正常；她也不相信 Leah 真的回来了。",
+      "anchor": "The problem isn’t that she went away, it’s that nothing about her going away felt normal. It isn’t that her being back is difficult, it’s that I’m not convinced she’s really back at all.",
+      "start": 10083,
+      "end": 10269
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "kind": "同居伴侣；Leah 出差归来后判若两人，Miri 仍自称没有分手，却觉得她并未真的回来。",
+      "anchor": "“Well we haven’t broken up,” I say.",
+      "start": 9178,
+      "end": 9213
+    },
+    {
+      "pair": "Miri–Carmen",
+      "kind": "Miri 眼中的挚友；Carmen 想听她诉苦，Miri 却因怕被拿去和 Tom 比较而闭口不谈。",
+      "anchor": "Carmen’s my friend – my best friend, I sometimes worry",
+      "start": 10815,
+      "end": 10869
+    },
+    {
+      "pair": "Leah–Allegra",
+      "kind": "大学同窗；Allegra 当众指出 Leah 酷似 Jean Seberg。",
+      "anchor": "They’d studied on the same course at university",
+      "start": 4966,
+      "end": 5013
+    },
+    {
+      "pair": "Miri–Toby 与 Sam",
+      "kind": "Leah 的大学朋友；Miri 原以为会不喜欢，结果发现远比预想中喜欢他们。",
+      "anchor": "I found I liked Toby and Sam far more than I had expected to",
+      "start": 4160,
+      "end": 4220
+    }
+  ],
+  "numbers": [
+    {
+      "value": "二十分钟",
+      "anchor": "scream for twenty minutes",
+      "start": 52,
+      "end": 77
+    },
+    {
+      "value": "十七下",
+      "anchor": "smashed it some seventeen times",
+      "start": 551,
+      "end": 582
+    },
+    {
+      "value": "六个月",
+      "anchor": "At a point perhaps six months after we’d first started seeing each other",
+      "start": 2206,
+      "end": 2278
+    },
+    {
+      "value": "十次中有九次",
+      "anchor": "nine times out of ten",
+      "start": 1949,
+      "end": 1970
+    },
+    {
+      "value": "一年三次",
+      "anchor": "three times a year",
+      "start": 2034,
+      "end": 2052
+    },
+    {
+      "value": "一个半星期",
+      "anchor": "over the course of the next week and a half",
+      "start": 2527,
+      "end": 2570
+    },
+    {
+      "value": "一码",
+      "anchor": "within a yard of her mouth",
+      "start": 4019,
+      "end": 4045
+    },
+    {
+      "value": "三周",
+      "anchor": "Leah was only supposed to be away for three weeks",
+      "start": 10394,
+      "end": 10443
+    },
+    {
+      "value": "百分之四十",
+      "anchor": "at least forty per cent real",
+      "start": 12891,
+      "end": 12919
+    }
+  ]
+}

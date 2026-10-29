@@ -115,7 +115,7 @@ modified: "2026-10-29"
 |---|---|---|
 | forking | 分叉 | She is taller than me, better kept, blue veins forking at her wrists like roots |
 | dormant | 休眠的、蛰伏的 | My face feels stiff, as though I’ve washed it with hand soap, and the tooth that has sat curiously dormant at the back of my jaw for however long has spontaneously resumed aching. |
-| gummed | 被（食物）黏住的 | I’m very happy you agreed to meet me, she adds, curiously formal again, gummed with apple cake |
+| gummed | 被（食物）黏住的 | “I’m very happy you agreed to meet me,” she adds, curiously formal again, gummed with apple cake, “I know how things can be.” |
 
 ### ⭐ 常用
 
@@ -123,7 +123,7 @@ modified: "2026-10-29"
 |---|---|---|
 | stiff | 僵硬的 | My face feels stiff, as though I’ve washed it with hand soap |
 | bursts | 破裂 | When it bursts, it falls down her face like a yolk escaping a white |
-| aching | 疼痛 | The tooth that has sat curiously dormant at the back of my jaw has spontaneously resumed aching |
+| aching | 疼痛 | The tooth that has sat curiously dormant at the back of my jaw for however long has spontaneously resumed aching. |
 
 ## 一句话总结
 
