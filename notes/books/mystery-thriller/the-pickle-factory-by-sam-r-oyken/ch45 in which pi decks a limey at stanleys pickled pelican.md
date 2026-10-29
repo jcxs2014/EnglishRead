@@ -35,14 +35,14 @@ modified: "2026-10-29"
 **为什么这样写**：把「查无此人」放在渡轮的顺口交谈里，而不是安排一场正式汇报——KRAY 一路追查的 GOOWIKI 部署，在知情人口中只值一句「从没听说」；紧接着的 Wacker 电话又把监视关系摆上桌面，两条线在同一段对话里交叉。
 **读者视角提示**：注意「never heard」与「Wacker 要 PI 汇报」的并置：KRAY 想查的人不存在，而他的上司正在通过同一个对话对象盯着他。
 
-> **原句 5:** "“I’ve put in for two more years here, but somebody on the Seventh Floor is fighting it. Could be there’s someone’s favorite who’s being cued up for an easy tour in Hong Kong. ‘China Lite,’ they call it."
+> **原句 4:** "“I’ve put in for two more years here, but somebody on the Seventh Floor is fighting it. Could be there’s someone’s favorite who’s being cued up for an easy tour in Hong Kong. ‘China Lite,’ they call it."
 
 **中文理解**：PI 说自己申请在港再干两年，但“七楼”有人阻挠；他猜测是某位要人被安排来香港走一趟轻松的任期，并把这类岗位叫作“China Lite”。
 **关键词**：two more years / Seventh Floor / favorite / China Lite
 **为什么这样写**：用“Seventh Floor”代替具体部门，既保留情报机构的楼层黑话，也把决策写成看不见的角力；“China Lite”把香港岗位说成减配版中国任务，轻飘飘一个词就带出体制内的分区等级。
 **读者视角提示**：“but somebody on the Seventh Floor is fighting it”说明 PI 的去留不由自己；他用“Could be”开头，整段只是推测，读者该把“某位要人”当成他的判断，而不是已经证实的安排。
 
-> **原句 4:** "They take a cab over to Stanley Beach, where they go to the Pickled Pelican at 90 Stanley Main Street, right across the road from Stanley Bay. There they sit down at the bar. A shit-faced Brit is sitting to PI’s left, cradling his Dutch-bottomed pint."
+> **原句 5:** "They take a cab over to Stanley Beach, where they go to the Pickled Pelican at 90 Stanley Main Street, right across the road from Stanley Bay. There they sit down at the bar. A shit-faced Brit is sitting to PI’s left, cradling his Dutch-bottomed pint."
 
 **中文理解**：两人打车到赤柱海滩，走进赤柱大街 90 号、正对赤柱湾的 Pickled Pelican，在吧台坐下；PI 左边坐着一个烂醉的英国人，双手捧着他那杯 Dutch-bottomed 一品脱啤酒。
 **关键词**：Stanley Beach / Pickled Pelican / Stanley Main Street / shit-faced Brit / Dutch-bottomed pint
