@@ -1,0 +1,91 @@
+{
+ "chapter": "ch39",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch39_miri.txt",
+ "facts": [
+  {
+   "fact": "开篇：她想象母亲与 Leah 见面——这件事从未真的发生过。",
+   "anchor": "Sometimes, I imagine my mother and Leah meeting, though this is not a thing which ever actually happened.",
+   "start": 8,
+   "end": 113
+  },
+  {
+   "fact": "清晨抵达母亲家：地上白雾像绊线，Juna 开车。",
+   "anchor": "We arrive in the early morning – white mist on the ground like a tripwire, my mother’s house",
+   "start": 1054,
+   "end": 1146
+  },
+  {
+   "fact": "她们把 Leah 弄进屋里，抬到母亲的浴室，往浴缸里倒盐水。",
+   "anchor": "We get Leah in, somehow, move her up to my mother’s bathroom, where I pour the salt water",
+   "start": 2659,
+   "end": 2748
+  },
+  {
+   "fact": "Juna 说船浮上来时船上只有 Leah 与另一名船员，连那人的名字与状况都不清楚。",
+   "anchor": "only Leah and one other crew member were aboard, that she isn’t sure of the other crew member’s name",
+   "start": 4545,
+   "end": 4645
+  },
+  {
+   "fact": "Juna 认定另外那些人遭遇的和 Leah 一样，或者正在经历。",
+   "anchor": "I have to assume the same happened to them as Leah,” she says, “or is happening to them.",
+   "start": 4663,
+   "end": 4751
+  },
+  {
+   "fact": "中心用一封信通知 Juna 她妹妹在潜水途中「意外死亡」，并称按规程尸体已在水下被弹出船外。",
+   "anchor": "the Centre informed her via letter of her sister’s accidental death during the course of the dive",
+   "start": 5007,
+   "end": 5104
+  },
+  {
+   "fact": "她列了一份「没地方放进去的事」：跟着 Alone by Heart 对口型逗 Leah 笑、Leah 的手与金发、狼人般的眉毛等等。",
+   "anchor": "Here are some things I didn’t have space for:",
+   "start": 10277,
+   "end": 10322
+  },
+  {
+   "fact": "第二天早上她重新浸湿毛巾、把 Leah 裹好抬下楼，抱她走向海；毛巾散开后，剩下的是空气、水，和夹在中间的她。",
+   "anchor": "What persists after this is only air and water and me between them, not quite either",
+   "start": 17655,
+   "end": 17739
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Miri–母亲",
+   "kind": "母女；母亲已不在，房子空着",
+   "anchor": "Sometimes, I imagine my mother and Leah meeting, though this is not a thing which ever actually happened.",
+   "start": 8,
+   "end": 113
+  },
+  {
+   "pair": "Miri–Juna",
+   "kind": "Jelka 的姐姐；开车送她们、讲述中心说法",
+   "anchor": "only Leah and one other crew member were aboard, that she isn’t sure of the other crew member’s name",
+   "start": 4545,
+   "end": 4645
+  },
+  {
+   "pair": "Miri–Leah",
+   "kind": "伴侣；她把她带回海边",
+   "anchor": "What persists after this is only air and water and me between them, not quite either",
+   "start": 17655,
+   "end": 17739
+  }
+ ],
+ "numbers": [
+  {
+   "value": "另一名船员（one other crew member）",
+   "anchor": "only Leah and one other crew member were aboard, that she isn’t sure of the other crew member’s name",
+   "start": 4545,
+   "end": 4645
+  },
+  {
+   "value": "一本书名/一首歌（Alone by Heart）",
+   "anchor": "Here are some things I didn’t have space for:",
+   "start": 10277,
+   "end": 10322
+  }
+ ]
+}

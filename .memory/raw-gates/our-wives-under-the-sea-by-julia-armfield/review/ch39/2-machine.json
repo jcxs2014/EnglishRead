@@ -1,0 +1,349 @@
+{
+  "chapter": 39,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/ch39 letting her go in the water.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch39_miri.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Some of the time, Leah takes my mother down to the beach below the house and tells her something she has told me many ti",
+          "ok": true,
+          "pos": 547
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Juna has driven at what seems to me a mad pace for a route she is unfamiliar with, but I can’t deny that when we round t",
+          "ok": true,
+          "pos": 1181
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I unwrap her from her towels as gently as I can and manoeuvre her into the water, her hair like a halo and her bandage s",
+          "ok": true,
+          "pos": 2811
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I kneel down by the side of the bath and ask her to forgive me for moving her, for the car journey she had been in no po",
+          "ok": true,
+          "pos": 2999
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She tells me that the Centre informed her via letter of her sister’s accidental death during the course of the dive and ",
+          "ok": true,
+          "pos": 4926
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Let go of them in the water, is something I read once. Seems a bit of a joke in the circumstances, but still. Something ",
+          "ok": true,
+          "pos": 9030
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The way Leah was kind by nature, where I always seemed to have to struggle. The way she tipped my face towards hers and ",
+          "ok": true,
+          "pos": 10803
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "It was in with Jelka’s things when they gave them to me but it’s actually Leah’s, something she wrote – pages and pages.",
+          "ok": true,
+          "pos": 11974
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I keep Leah high in my arms, move further, press my feet into the sand when the water is at chest height, kick my legs a",
+          "ok": true,
+          "pos": 15468
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "She is looking at me – this now, the last of her – and she is still looking at me when I move my arms to release her, wh",
+          "ok": true,
+          "pos": 17254
+        }
+      ],
+      "words": 43
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 104
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.54
+      }
+    }
+  ],
+  "form": {
+    "h1": "39. Chapter Thirty-Nine",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 8.0,
+    "block_range": [
+      4,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3425,
+    "block_target": [
+      6,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 8、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
