@@ -1,0 +1,92 @@
+{
+  "chapter": "ch04",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch04_leah.txt",
+  "facts": [
+    {
+      "fact": "控制台灯灭后，Leah 屏住呼吸整整六十秒，并在这一分钟内想到自己被取出的肺",
+      "anchor": "When the console lights went off, I held my breath for a full sixty seconds",
+      "start": 96,
+      "end": 171
+    },
+    {
+      "fact": "按规程应立刻发求救信号，但求救依赖系统在线，而他们的系统已断",
+      "anchor": "sending a distress call relies on your system being online, which ours was not",
+      "start": 1863,
+      "end": 1941
+    },
+    {
+      "fact": "Matteo 在通讯台前把手在控制台上移动片刻，然后看向 Leah",
+      "anchor": "Matteo at the comms panel, moving his hands over the console for a moment and then looking at me",
+      "start": 1954,
+      "end": 2050
+    },
+    {
+      "fact": "Matteo 逐一检查了引擎、接线盒与压力表，判断设备本身没有故障",
+      "anchor": "Matteo was the one who checked the engines, the junction boxes, the pressure gauges",
+      "start": 2241,
+      "end": 2324
+    },
+    {
+      "fact": "失电后艇在她眼里不再像精密工程，而像一只正在快速下沉的箱子",
+      "anchor": "less a piece of precision-tooled engineering and more a swiftly sinking box",
+      "start": 2164,
+      "end": 2239
+    },
+    {
+      "fact": "系统失效时艇仍在下降，且已深到无法撤离",
+      "anchor": "We were still descending when the system went out and already too deep to evacuate",
+      "start": 2395,
+      "end": 2477
+    },
+    {
+      "fact": "CO2 吸收器侥幸完好，但压载水舱无法控制，全员只能继续下沉",
+      "anchor": "with no way to control the ballast tanks, there was nothing we could do but continue to drop",
+      "start": 2557,
+      "end": 2649
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Leah–Matteo",
+      "kind": "同艇乘员：故障后他查设备、她观察他，二人以目光互相确认",
+      "anchor": "I remember Matteo at the comms panel",
+      "start": 1943,
+      "end": 1979
+    },
+    {
+      "pair": "Leah–自己的肺",
+      "kind": "以肺的意象自持：她把屏息的一分钟都用来想象肺被从背后扯出仍在胀缩",
+      "anchor": "considered the wet wing shapes of my lungs",
+      "start": 173,
+      "end": 215
+    },
+    {
+      "pair": "Matteo–系统",
+      "kind": "他判定系统「理应正常」，与全艇断电断讯的现实相反",
+      "anchor": "it should all be working fine",
+      "start": 2361,
+      "end": 2390
+    },
+    {
+      "pair": "艇–深度",
+      "kind": "下沉中的艇已越过可撤离深度，深度剥夺了逃生选项",
+      "anchor": "already too deep to evacuate",
+      "start": 2449,
+      "end": 2477
+    }
+  ],
+  "numbers": [
+    {
+      "value": "六十秒（屏息时长）",
+      "anchor": "a full sixty seconds",
+      "start": 151,
+      "end": 171
+    },
+    {
+      "value": "六十秒（系统死亡到重新吸气之间的时长）",
+      "anchor": "the sixty seconds between the system dying and the next breath",
+      "start": 1068,
+      "end": 1130
+    }
+  ]
+}

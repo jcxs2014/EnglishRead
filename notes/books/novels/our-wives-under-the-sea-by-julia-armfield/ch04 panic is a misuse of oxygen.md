@@ -39,7 +39,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "We were still descending when the system went out and already too deep to evacuate. Our CO2 scrubbers, for whatever reason, appeared to have remained intact, but with no way to control the ballast tanks, there was nothing we could do but continue to drop."
+> **原句 3:** "I remember, too, the disquieting lack of electric light – the switches dull – the way our craft seemed suddenly less a piece of precision-tooled engineering and more a swiftly sinking box. Matteo was the one who checked the engines, the junction boxes, the pressure gauges. “There’s nothing wrong,” he said, “it should all be working fine.”"
+
+**中文理解**：Leah 还记着另一件事：电灯没了——开关是暗的——他们那条艇忽然不像一件精密工程的产物，更像一只正在快速下沉的箱子。检查是 Matteo 做的：引擎、接线盒、压力表。他说「什么都没坏，按理说都该正常运转」。
+
+**关键词**：a swiftly sinking box / junction boxes / nothing wrong / should all be working fine
+
+**为什么这样写**：这一块把恐怖从「设备坏了」翻成「设备没坏」。前半句先降格：precision-tooled engineering 变成 swiftly sinking box，只用一个比喻就把工艺叙事换成重力叙事。接着 Matteo 一项项查过去，三个名词并列，读者跟着他验收，最后等来的却是一句 all should be working fine——「应该」是这一章最冷的词，它承认了逻辑与现实之间的缝，而这条缝没有任何人能补。她没有写他的表情，也没有写自己怎么回答，只留一句引语，让沉默接在后面。
+
+**读者视角提示**：注意「检查」这个动作在全书里的位置：查得越彻底、结论越干净，后面的下沉就越无法解释。别把这句话读成安慰。
+
+---
+
+> **原句 4:** "We were still descending when the system went out and already too deep to evacuate. Our CO2 scrubbers, for whatever reason, appeared to have remained intact, but with no way to control the ballast tanks, there was nothing we could do but continue to drop."
 
 **中文理解**：这一段只交代方位与设备：系统断电时他们还在下沉；断电时已经深到撤不出去；二氧化碳吸收器看上去还完好，但压载水舱没有控制办法，于是除了继续往下掉，做什么都无用。
 
