@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch28",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch28_in_which_wacker_slips_kray_two_hundred_grand.txt",
+ "facts": [
+  {
+   "fact": "Wacker 把 KRAY 叫进自己的办公室，说有一件事要跟他谈。",
+   "anchor": "“KRAY, come on in here,” said Wacker. “Got something I need to talk to you about.”",
+   "start": 50,
+   "end": 132
+  },
+  {
+   "fact": "Wacker 从桌上取了一份备忘录递给 KRAY。",
+   "anchor": "Wacker handed KRAY a memo from his desk.",
+   "start": 134,
+   "end": 174
+  },
+  {
+   "fact": "备忘录要求他们解释「转型人力资源掩护」在 GOOWIKI 的 NOC 部署地点如何运作；Wacker 边嚼边说。",
+   "anchor": "“Now they want us to explain,” he said, chewing gamely, “how Transformational Human Resources cover works in the places where the GOOWIKI NOCs are deploying.”",
+   "start": 419,
+   "end": 577
+  },
+  {
+   "fact": "对方以冻结「本就属于我们」的资金相要挟，直到拿到想要的信息；Wacker 咽下一大口后喘着问 KRAY 怎么办。",
+   "anchor": "“They’re going to freeze our money — which belongs to us,” Wacker finally wheezed, after an epic swallow, “until they get the information they want. Thoughts?”",
+   "start": 854,
+   "end": 1013
+  },
+  {
+   "fact": "Wacker 先让 KRAY 想办法把这事像汤姆·索亚刷墙那样转包出去，紧接着改口说 KRAY 要亲自出一趟差。",
+   "anchor": "“Well, figure out a way to Tom Sawyer it off to someone else,” said Wacker, glancing toward the remainder of his bagel, “because you’re going on a little trip.",
+   "start": 1585,
+   "end": 1744
+  },
+  {
+   "fact": "Wacker 让 KRAY 找 KLIMT 领无需收据的「不挂号」经费，坐商务舱撑门面，并问二十万美元够不够。",
+   "anchor": "See KLIMT about getting some unvouchered money. No receipts necessary. And go business class, I want you to look right. Two hundred thousand sound like enough?",
+   "start": 2322,
+   "end": 2481
+  },
+  {
+   "fact": "KRAY 抄下那几个城市的名字，把备忘录交还 Wacker。",
+   "anchor": "KRAY copied down the names of the cities and handed the memo back to Wacker.",
+   "start": 2613,
+   "end": 2689
+  },
+  {
+   "fact": "KRAY 说自己周一就能出发，连写作在内大概六到八周可以做完，并问这样安排行不行。",
+   "anchor": "“I guess I can head out Monday. Probably be able to knock out the whole thing in six or eight weeks, including the writing. Will that do?”",
+   "start": 2033,
+   "end": 2171
+  }
+ ]
+}
