@@ -1,0 +1,153 @@
+{
+  "chapter": "ch18",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch18_leah.txt",
+  "facts": [
+    {
+      "fact": "Leah 梦见少年时打工的水族馆里 Miri 在 Open Ocean 缸边握住她的手、把她拉到观看长凳上并吻她锁骨下方",
+      "anchor": "Miri held my hand by the Open Ocean tank, pulled me down onto a viewing bench and kissed me just beneath my collar.",
+      "start": 168,
+      "end": 283
+    },
+    {
+      "fact": "三人给手电换电池，并因为储物柜里有食物而进食（明知该吃）",
+      "anchor": "We changed the batteries in the torches and ate because there was food in the lockers",
+      "start": 675,
+      "end": 760
+    },
+    {
+      "fact": "Jelka 躺在主舱地板上睡去",
+      "anchor": "Jelka lay down on the floor of the main deck and went to sleep",
+      "start": 808,
+      "end": 870
+    },
+    {
+      "fact": "Matteo 坐在通讯台旁反复按下又松开传发射键，后来又开始吹《Farewell and adieu to you fair Spanish ladies》",
+      "anchor": "began to whistle Farewell and adieu to you fair Spanish ladies again",
+      "start": 973,
+      "end": 1041
+    },
+    {
+      "fact": "Leah 由淋浴旋钮推断：淋浴还能用就说明淡水还在制取，情况尚未真正危急，但仍拖延不去查看",
+      "anchor": "If the shower still worked, then we still had fresh water.",
+      "start": 2018,
+      "end": 2076
+    },
+    {
+      "fact": "Leah 十三岁时在父亲旧《纽约客》堆里翻到 1989 年 7 月号、内含写 Sylvia Earle 的《Her Deepness》一文并拿走读",
+      "anchor": "I was thirteen when I found a copy from July 1989 that contained a profile of Sylvia Earle",
+      "start": 5549,
+      "end": 5639
+    },
+    {
+      "fact": "Earle 的队伍由四名科学家加一名工程师组成，在水下待了两周，记录海洋植物同时被研究",
+      "anchor": "In a team consisting of four scientists and one engineer, Earle’s crew spent two weeks underwater",
+      "start": 4642,
+      "end": 4739
+    },
+    {
+      "fact": "Jelka 问“你闻到了吗”，Matteo 的表情显示他已知答案——那是东西烧焦、肉从骨头上烧起来的味道",
+      "anchor": "It was the smell of something burning, of meat straight off the bone.",
+      "start": 7413,
+      "end": 7482
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Leah–Miri",
+      "kind": "梦中亲密的爱人（Leah 睡醒前后都想着她）",
+      "anchor": "kissed me just beneath my collar",
+      "start": 250,
+      "end": 282
+    },
+    {
+      "pair": "Leah–Jelka",
+      "kind": "同舱同伴；Jelka 睡在 Leah 腿边",
+      "anchor": "Propped up beside my legs, Jelka was frowning in her sleep.",
+      "start": 2495,
+      "end": 2554
+    },
+    {
+      "pair": "Leah–Matteo",
+      "kind": "同舱三人组成员；Matteo 名义上是工程师",
+      "anchor": "Matteo was technically the engineer",
+      "start": 2827,
+      "end": 2862
+    },
+    {
+      "pair": "Leah–父亲",
+      "kind": "父亲以潜水年鉴和旧杂志塑造了她的深海知识",
+      "anchor": "my father’s diving almanac",
+      "start": 4518,
+      "end": 4544
+    },
+    {
+      "pair": "Sylvia Earle–Tektite/NASA",
+      "kind": "首支全女性饱和潜水队的领队，被媒体称为 aquababes",
+      "anchor": "the first all-female saturation dive team in history",
+      "start": 4443,
+      "end": 4495
+    }
+  ],
+  "numbers": [
+    {
+      "value": "1960 年代末（late nineteen-sixties）",
+      "anchor": "late nineteen-sixties",
+      "start": 3704,
+      "end": 3725
+    },
+    {
+      "value": "十天或二十天（ten- or twenty-day）",
+      "anchor": "ten- or twenty-day stretches",
+      "start": 4261,
+      "end": 4289
+    },
+    {
+      "value": "1969 年（early 1969）",
+      "anchor": "early 1969",
+      "start": 3926,
+      "end": 3936
+    },
+    {
+      "value": "四名科学家加一名工程师",
+      "anchor": "four scientists and one engineer",
+      "start": 4666,
+      "end": 4698
+    },
+    {
+      "value": "两周（two weeks）",
+      "anchor": "two weeks underwater",
+      "start": 4719,
+      "end": 4739
+    },
+    {
+      "value": "1972 年",
+      "anchor": "as far as 1972",
+      "start": 5376,
+      "end": 5390
+    },
+    {
+      "value": "十三岁（thirteen）",
+      "anchor": "I was thirteen",
+      "start": 5549,
+      "end": 5563
+    },
+    {
+      "value": "1989 年 7 月号",
+      "anchor": "July 1989",
+      "start": 5589,
+      "end": 5598
+    },
+    {
+      "value": "七八次（seven or eight times）",
+      "anchor": "seven or eight times",
+      "start": 5865,
+      "end": 5885
+    },
+    {
+      "value": "十分满分（ten out of ten）",
+      "anchor": "a ten out of ten maiden voyage",
+      "start": 3534,
+      "end": 3564
+    }
+  ]
+}

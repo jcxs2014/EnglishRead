@@ -27,7 +27,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "The distillation system is state of the art, the woman said, rubbing a cuff across the shower dial like you might do with a new car. Brings the water in from the outside and purifies it. Maximum efficiency, as much fresh water as you need. No Navy Showers here – theoretically you could keep the shower on for hours without encountering problems."
+> **原句 2:** "We changed the batteries in the torches and ate because there was food in the lockers and we knew we ought to eat it. At some point, Jelka lay down on the floor of the main deck and went to sleep."
+
+**中文理解**：他们给手电换了电池；储物柜里有食物，他们吃了，因为他们知道自己「应该」吃。后来某个时刻，Jelka 在主舱地板上躺下睡着了。
+
+**关键词**：changed the batteries / we knew we ought to eat it / lay down on the floor / went to sleep
+
+**为什么这样写**：全段没有一个情绪词，只有一连串日程：换电池、吃、睡。ought to 这个短语把吃饭写成一件必须执行的程序——他们不是在享受，是在维持设备与身体的最低运转。Jelka 在地板上睡着这一句最短，却最重：她已经在放弃姿势。作者让「等待」以家务的形式发生，恐惧被拆成一件件要做的事。
+
+**读者视角提示**：注意这一段之后紧接着是 Matteo 反复按发射键、吹那首歌——三个人各占一个角落，谁都不看谁。这就是他们此后的日子。
+
+---
+
+> **原句 3:** "The distillation system is state of the art, the woman said, rubbing a cuff across the shower dial like you might do with a new car. Brings the water in from the outside and purifies it. Maximum efficiency, as much fresh water as you need. No Navy Showers here – theoretically you could keep the shower on for hours without encountering problems."
 
 **中文理解**：她回想那位女工作人员的介绍词：蒸馏系统是最先进的，把外面的水引进来再净化，效率拉满，想用多少淡水都行；这里没有海军式的限时淋浴，理论上可以让淋浴开着好几个小时不出问题。
 
@@ -39,7 +51,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "The craft had slowed itself down prior to impact with the ground, as though following a command it should no longer have been capable of following. Aside from the fact that we were unable to move in any direction and unable to communicate, it was really a ten out of ten maiden voyage."
+> **原句 4:** "If the shower still worked, then we still had fresh water. If we still had fresh water, then things were not quite critical yet. It occurred to me that, given the CO2 scrubbers were still running, there was every chance the water-distillation function was still operational too."
+
+**中文理解**：她在地板上把淋浴旋钮的画面翻来覆去想：如果淋浴还能用，就说明还有淡水；如果还有淡水，事情就还没到真正危急的地步。既然二氧化碳吸收器还在运转，那么淡水蒸馏功能很可能也还在工作。
+
+**关键词**：If the shower still worked / fresh water / not quite critical yet / water-distillation function
+
+**为什么这样写**：这是全章最漂亮的一段推理，形式是小学逻辑题的两个「如果……那么」：把恐惧折算成一道关于管路的问题。可她推到最后停住了——因为结论是「还没到危急」，于是她可以继续不去检查。推理在这里不是求生的工具，是拖延的许可证。注意最后一个词 too：她把「大概还在运转」当成安慰收下，却始终没有站起来去拧那个旋钮。
+
+**读者视角提示**：这一块与本章结尾的烧焦味是同一枚硬币：她能推出一条让自己安心的链子，也会在闻到味道时先找 No 的理由。
+
+---
+
+> **原句 5:** "The craft had slowed itself down prior to impact with the ground, as though following a command it should no longer have been capable of following. Aside from the fact that we were unable to move in any direction and unable to communicate, it was really a ten out of ten maiden voyage."
 
 **中文理解**：这艘船在触底之前自己减了速，像还在执行一条它本不该有能力执行的指令。把「动不了」「联系不上」两件事当作例外搁在一边之后，这趟首航算是十分满分。
 
@@ -51,7 +75,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "Several teams were sent down to live for ten- or twenty-day stretches underwater, though my favourite among these has always been the team led by Sylvia Earle – a renowned biologist and explorer – which also happened to be the first all-female saturation dive team in history."
+> **原句 6:** "Several teams were sent down to live for ten- or twenty-day stretches underwater, though my favourite among these has always been the team led by Sylvia Earle – a renowned biologist and explorer – which also happened to be the first all-female saturation dive team in history."
 
 **中文理解**：这一段先交代几支下潜小队：有人在水下住十天或二十天；Leah 最在意 Sylvia Earle 带的那一队——她是知名的生物学家和探险家，那一队还恰好是史上第一支全女性饱和潜水队。
 
@@ -63,7 +87,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "It makes sense when you think about it, my father said when I brought the article to him, actually a pretty neat solution to a problem. Really they should take this into account with space exploration too. No chance of crewmates getting involved with each other when it’s all women – no distraction, no nookie, no silly buggers. Clever in its way."
+> **原句 7:** "It makes sense when you think about it, my father said when I brought the article to him, actually a pretty neat solution to a problem. Really they should take this into account with space exploration too. No chance of crewmates getting involved with each other when it’s all women – no distraction, no nookie, no silly buggers. Clever in its way."
 
 **中文理解**：她把文章带给父亲，父亲说这办法说得通，是解决问题的高招，太空探索也该照这个办——全是女人的班底就不会有船员互相搞上，没有分心、没有那种事、没有胡闹，末了补一句「有它的聪明之处」。
 
@@ -75,7 +99,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "“Smell what?” Matteo said, though his expression did not match the question, as though he already knew the answer. It was the smell of something burning, of meat straight off the bone."
+> **原句 8:** "“Smell what?” Matteo said, though his expression did not match the question, as though he already knew the answer. It was the smell of something burning, of meat straight off the bone."
 
 **中文理解**：Matteo 反问「闻到什么」，可表情和这句问话对不上，像是早已知道答案；那是东西烧焦的味道，像肉刚从骨头上剔下来。
 
