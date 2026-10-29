@@ -1,0 +1,119 @@
+{
+ "chapter": "ch20",
+ "file": "text/ch20_lessons_a_shaman_must_learn.txt",
+ "text_chars": 21603,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "罗马夜战以新闻简讯呈现：反儿童天性的心理学家被双子用旧 Talbot 全速撞死（官方说法是醉驾）、Villa Borghese 三孩二海盗死、Tonio 神父被厨房刀钉死祭台、Cavaterra 空宅被翻出暗室",
+   "anchor": "That’s the official version, but it isn’t what really happened.",
+   "offset": 214
+  },
+  {
+   "id": "F2",
+   "fact": "Nemi 神庙，Irene 教 Michele 静坐：身体每刻小抽动、仿佛自有意志；用星战 Yoda 台词「做或不做，没有试」；暴雨里他以为一分钟，实际半小时",
+   "anchor": "You stayed still for half an hour.",
+   "offset": 5395
+  },
+  {
+   "id": "F3",
+   "fact": "Irene 要他「谨慎」：别对 Greta 说；带她去有洞窟的酒吧（安全处）",
+   "anchor": "Discretion.",
+   "offset": 6047
+  },
+  {
+   "id": "F4",
+   "fact": "Greta 冒雨从罗马来 Nemi（对母亲谎称比对拉丁文译文）；带来校外口径：报道说撒旦教、Dal Mare 与警方合作、曾与意大利家长运动做电视专题；校长在集会点名",
+   "anchor": "They say there’s a Satanic cult involved.",
+   "offset": 8389
+  },
+  {
+   "id": "F5",
+   "fact": "Michele 对 Greta 说出半真相：Dal Mare 杀了 Mama 并藏尸；Greta 全神倾听，他觉得「感觉很好」",
+   "anchor": "“He killed Mama,” he answers, “and he hid the body.”",
+   "offset": 11438
+  },
+  {
+   "id": "F6",
+   "fact": "Wedge 在 Dream 循草莓与唇蜜味找到 Greta 的梦：梦里 Dal Mare 率警救下即将被羊头偶像火刑的 Michele、blonde 上电视讲述；Wedge 判定「在梦里她已经背叛了」",
+   "anchor": "In Dream she already has.",
+   "offset": 12699
+  },
+  {
+   "id": "F7",
+   "fact": "Irene 从银盆水占看见「海盗来了、你被掳、我死」，但说未来未写定、只是一可能；她坚持等到夜里再走",
+   "anchor": "the future is always unwritten",
+   "offset": 14705
+  },
+  {
+   "id": "F8",
+   "fact": "夜里倒立看破幻术的练习失败；回宅发现有人，驱车逃；她用后视镜映满月念希腊语致谢 Hecate，逼翻追兵摩托；随后三车路障、五弓齐射，五箭把 Irene 钉在座椅上当场死亡",
+   "anchor": "The arrows have impaled her, nailing her to the seat.",
+   "offset": 19456
+  },
+  {
+   "id": "F9",
+   "fact": "Michele 爬过 Irene 的尸体下车、拒绝落泪；母城之灵在荒野声音微弱；林中怪物撕碎五名海盗——上半身人形、巨口角爪，腰下羊腿尾与巨殖",
+   "anchor": "“aren’t you going to say hello to your grandfather?”",
+   "offset": 21550
+  },
+  {
+   "id": "F10",
+   "fact": "怪物自称 Michele 的外公；作者明写这不是叠影，是 Flesh 自身生出噩梦",
+   "anchor": "this is Flesh, his day-to-day reality, birthing nightmares",
+   "offset": 21374
+  }
+ ],
+ "numbers": [
+  {
+   "value": "six",
+   "what": "本章六节（I–VI）",
+   "anchor": "\nVI\n",
+   "offset": 12918
+  },
+  {
+   "value": "three children, two pirates",
+   "what": "Villa Borghese 死亡数",
+   "anchor": "Three children died, two pirates with them.",
+   "offset": 741
+  },
+  {
+   "value": "half an hour",
+   "what": "Michele 静坐实际时长",
+   "anchor": "You stayed still for half an hour.",
+   "offset": 5395
+  },
+  {
+   "value": "sixteen",
+   "what": "Michele 年龄",
+   "anchor": "You’re sixteen",
+   "offset": 4742
+  },
+  {
+   "value": "five bows",
+   "what": "路障伏击的弓手数",
+   "anchor": "five bows",
+   "offset": 19196
+  }
+ ],
+ "relations": [
+  {
+   "who": "Irene",
+   "what": "Michele 的萨满导师，水占预见自己之死，被五箭钉死",
+   "anchor": "Irene must have died instantly.",
+   "offset": 19547
+  },
+  {
+   "who": "Greta",
+   "what": "Michele 的女友，梦中无意泄露行踪",
+   "anchor": "It’s a dream scented of strawberry and lip gloss",
+   "offset": 12023
+  },
+  {
+   "who": "羊腿怪物",
+   "what": "Michele 的外公，章末救场",
+   "anchor": "say hello to your grandfather",
+   "offset": 21571
+  }
+ ]
+}
