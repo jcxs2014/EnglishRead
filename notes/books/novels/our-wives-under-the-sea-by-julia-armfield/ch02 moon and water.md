@@ -51,15 +51,39 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "Ten minutes later, when the craft’s whole system went offline, it would occur to me that the comms hadn’t faded like a wavering signal so much as been switched off, though by that time we all had more pressing things to deal with."
+> **原句 4:** "There was nothing, of course, and no reason at all for the smell that seemed to hit us both with such force. When Jelka repeated her claim to Matteo he told her to hold her nose if she was so bothered and I didn’t say anything to back her up."
 
-**中文理解**：十分钟后整艘船的系统离线，她这才想到，通讯不是像信号那样渐渐弱下去，更像是被关掉；不过到那个时候，他们都有更急的事要处理。
+**中文理解**：当然，什么也没有——那股气味没有任何来由，却像是重重地打在他们两个人身上。Jelka 又把这个说法讲给 Matteo 听，他却说嫌难闻就捏住鼻子，而 Leah 什么也没说、没替她帮腔。
 
-**关键词**：went offline / faded like a wavering signal / switched off / more pressing things
+**关键词**：no reason at all for the smell / hit us both with such force / hold her nose / didn’t say anything to back her up
 
-**为什么这样写**：全章在最后一句才露出獠牙，而且只用了一个动词的差别：「衰减」和「关掉」。前者是自然的、可以等待的，后者是有人做了决定。Leah 把认识推到事后（it would occur to me），等于承认当时她没看出来——这既是诚实，也是这一章真正的恐怖来源：灾难发生时，当事人正在忙着别的事。最后半句 "more pressing things to deal with" 故意不解释是什么事，把悬念留给下一章。
+**为什么这样写**：这段的重点不是气味，是两个人同时闻到、却得到了两种不同的对待：Matteo 一句「捏住鼻子」就把异常打发掉，Leah 则选择了沉默。作者让 Leah 在此处复述自己没有出手，等于在很久之后补上那次「没说话」——这是本章唯一一处她承认的道德缺口。写法上先让她低头检查自己的手指、小腿、膝盖，确认身上什么也没有，再让「没有来由」与「重重打在两人身上」并置：气味既查不到源头，又对两个人同样有效，这就是本章恐怖的地基。
 
-**读者视角提示**：这是全书第一个明确的「不对」的信号。它与上一段 Jelka 闻到的肉味并排放着，两个异常都没有被处理；记住它们，后面会回来。
+**读者视角提示**：肉味在全书会反复回来，注意它总是与「烤过」「熟」这类词连着出现。也要记住 Matteo 的处理方式：把难闻的东西解释成个人的不适，而不是船的异常。
+
+---
+
+> **原句 5:** "At first it was only the comms panel, the crackle of contact from the surface cutting out and not returning. I remember Matteo frowned and asked me to try to find a signal while he dealt with the main controls. I held down the transmission button and chanted nonsense into the radio, expecting the Centre to come back online any second and ask me what I was on about."
+
+**中文理解**：起初只是通讯面板——从海面传来的噼啪杂音断了，再也没回来。Leah 记得 Matteo 皱了皱眉，让她去试着找信号，主控制台由他自己处理；于是她按住发射键，对着无线电反复念些没有意义的话，还指望 Centre 随时重新上线、问她到底在说什么。
+
+**关键词**：only the comms panel / try to find a signal / chanted nonsense into the radio / dealt with the main controls
+
+**为什么这样写**：灾难的第一个技术形态被写成交接班：一个面板坏了，两个人分头去查。这种分工说明舱内的秩序还在——有人管外面，有人管里面；也说明他们当时判断这只是一次设备故障，不是「上不去了」。而按键说话这个动作很残忍：她明知没人在听，还是按着键念，因为那是唯一还能做的事。前半句的 crackle 是本章唯一的声音描写，此后噪声会越来越多，这里只是先把它关掉。
+
+**读者视角提示**：注意「起初只是」这个说法，它预告了范围会扩大。Matteo 的分工方式也值得记住：他总在处理「更重要的东西」，把不确定的部分交给别人去看。
+
+---
+
+> **原句 6:** "Ten minutes later, when the craft’s whole system went offline, it would occur to me that the comms hadn’t faded like a wavering signal so much as been switched off, though by that time we all had more pressing things to deal with."
+
+**中文理解**：十分钟后整条艇的系统离线，Leah 这才想到：通讯不像信号那样渐渐弱下去，更像是被关掉；不过到那个时候，他们都有更急的事要处理。
+
+**关键词**：went offline / switched off / more pressing things to deal with
+
+**为什么这样写**：全章的獠牙在最后一句，而且只靠一个动词的差别：「衰减」是自然的、可以等的，「关掉」是有人做了决定。作者把认识推到事后（it would occur to me），等于承认当时没看出来——这既是诚实，也是本章真正的恐怖来源：灾难发生时，当事人正忙着别的事。最后半句「more pressing things to deal with」故意不解释是什么事，把悬念留给下一章。
+
+**读者视角提示**：这是全书第一个明确的「不对」的信号。它与前面 Jelka 闻到的肉味并排放着，两个异常都没有被真正处理；记住它们，后面还会回来。
 
 ---
 

@@ -1,0 +1,110 @@
+{
+  "chapter": "ch02",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch02_leah.txt",
+  "facts": [
+    {
+      "fact": "Miri 用平掌敲 Leah 的颅底，把她走神的念头称作「沉没的念头」",
+      "anchor": "Miri used to call these my sunken thoughts, tapping on the base of my skull with the flat of her hand when I grew quiet",
+      "start": 1304,
+      "end": 1423
+    },
+    {
+      "fact": "Leah 抓住 Miri 的手掌留在原处，又把她的另一只手按在自己太阳穴上",
+      "anchor": "I would often catch her palm and keep it there, take her other hand and hold it to my temple",
+      "start": 1598,
+      "end": 1690
+    },
+    {
+      "fact": "失去联系前二十分钟，Jelka 对 Leah 说自己闻到肉味",
+      "anchor": "Twenty minutes before we lost contact, Jelka told me she thought she smelled meat",
+      "start": 1988,
+      "end": 2069
+    },
+    {
+      "fact": "Matteo 让 Jelka 嫌味道就捏住自己的鼻子",
+      "anchor": "he told her to hold her nose if she was so bothered",
+      "start": 2466,
+      "end": 2517
+    },
+    {
+      "fact": "通讯面板的杂音中断后再没恢复，与地面的联系首先断掉",
+      "anchor": "At first it was only the comms panel, the crackle of contact from the surface cutting out and not returning.",
+      "start": 2562,
+      "end": 2670
+    },
+    {
+      "fact": "Matteo 皱眉，让 Leah 去试着找信号，他自己处理主控制台",
+      "anchor": "I remember Matteo frowned and asked me to try to find a signal while he dealt with the main controls.",
+      "start": 2671,
+      "end": 2772
+    },
+    {
+      "fact": "Leah 按住发射键，对着无线电把无意义的话念了一遍又一遍",
+      "anchor": "I held down the transmission button and chanted nonsense into the radio",
+      "start": 2773,
+      "end": 2844
+    },
+    {
+      "fact": "十分钟后整条艇的系统离线",
+      "anchor": "Ten minutes later, when the craft’s whole system went offline",
+      "start": 2930,
+      "end": 2991
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "anchor": "take her other hand and hold it to my temple",
+      "start": 1646,
+      "end": 1690,
+      "kind": "亲密/身体接触的习惯：Miri 敲她颅底，她把 Miri 的手按在太阳穴上，像交出「把头护住」的责任"
+    },
+    {
+      "pair": "Leah–Jelka",
+      "anchor": "and I didn’t say anything to back her up",
+      "start": 2518,
+      "end": 2558,
+      "kind": "同艇同伴：Jelka 报告闻到肉味，Matteo 驳回时 Leah 没有出声替她作证"
+    },
+    {
+      "pair": "Jelka–Matteo",
+      "anchor": "When Jelka repeated her claim to Matteo he told her to hold her nose",
+      "start": 2426,
+      "end": 2494,
+      "kind": "指挥者与被指挥者：Jelka 再次向 Matteo 提同一件事，被他不耐烦地打发"
+    },
+    {
+      "pair": "Leah–Matteo",
+      "anchor": "asked me to try to find a signal while he dealt with the main controls",
+      "start": 2701,
+      "end": 2771,
+      "kind": "艇内指挥关系：Matteo 指派 Leah 找信号，自己守主控制台"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "six thousand metres",
+      "anchor": "depths of six thousand metres",
+      "start": 102,
+      "end": 131
+    },
+    {
+      "value": "several centuries",
+      "anchor": "last for several centuries",
+      "start": 390,
+      "end": 416
+    },
+    {
+      "value": "Twenty minutes",
+      "anchor": "Twenty minutes before we lost contact",
+      "start": 1988,
+      "end": 2025
+    },
+    {
+      "value": "Ten minutes",
+      "anchor": "Ten minutes later, when the craft’s whole system went offline",
+      "start": 2930,
+      "end": 2991
+    }
+  ]
+}
