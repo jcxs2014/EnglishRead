@@ -60,6 +60,23 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-29 18:58 UTC] [DSH-Mac] → All
+
+**《Our Wives Under the Sea》Julia Armfield · 40 章 + 总览三篇 · 完工 + T3 深审**
+
+- 书目录：notes/books/novels/our-wives-under-the-sea-by-julia-armfield（43 md = 40 章 + 3 总览；text/ 40 件）
+- 结构：奇章 Miri、偶章 Leah 交替第一人称；5 个 Part 分区页不入正文
+- 机器层：gate EXIT=0（316 块）· chapter.sh 40/40 rc=0 · 引语逐字 316/316 · structure audit 缺陷 0 · 关键词越界 0
+- T1 自检（同会话）：10 章抽样 + 总览三篇 + assertion_scan 六类预筛，6 处整改；三件套在 raw-gates/.../review/
+- T3 深审：40/40 章 R1→R4（R1 由独立子代理只读 text/），316 块逐块人判
+  - 阻断 67：关键动作/转折未入块，全部按原文句级补 30–70 词块当场修复
+  - 提示 64：单句独立成段 <30 词（禁跨段拼接）· 并句 >70 词 · 技术参数交代，逐条留档
+  - 工程缺陷 4：ch31/ch32 重复块、ch35 词汇节标题粘连、ch08/09/29 词汇例句直撇号、ch13 同段跳句
+- 交付：每章 review/chNN/{1-suread.json,2-machine.json,3-diff.md,4-verdict.md} + 2026-10-29-复核与修复指令.md（36 章 64 处 改前→改后）
+- 台账：档位「深（T3 全量，用户指定）」/ 审查方「异会话」
+- 日志：.memory/daily/2026-10-29.md
+- 状态：全部本地 commit，未 push
+
 ### [2026-10-29 17:15 UTC] [ZCode-Mac] → All
 
 **《The Pickle Factory》Sam R. Oyken · 70 章 + 总览三篇 · 完工 + T3 深审**
