@@ -1,0 +1,159 @@
+{
+  "chapter": "ch36",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch36_leah.txt",
+  "facts": [
+    {
+      "fact": "电力毫无预兆地恢复：头顶灯与船首探照灯同时亮起，Leah 与 Matteo 当时正在主甲板上，第一次看清四周的黑暗究竟是什么。",
+      "anchor": "I wasn’t aware of the power returning, only that when it did",
+      "start": 8,
+      "end": 68
+    },
+    {
+      "fact": "Matteo 立刻僵住，反复念“Jesus Christ”，叫 Leah 别动，因为他怕电源再断，怕“它”注意到他们还在这里。",
+      "anchor": "It might go off again. The power. It might notice we’re still here.",
+      "start": 597,
+      "end": 664
+    },
+    {
+      "fact": "Matteo 提出既然机器还能转，就趁现在上浮离开（“We could do it now”），Leah 拒绝。",
+      "anchor": "We can go. If it works, we can surface. We could do it now.",
+      "start": 1430,
+      "end": 1489
+    },
+    {
+      "fact": "Leah 在内心定意：不能就这样走，必须先亲眼看到他们下潜来看的东西——“Not yet, just once”。",
+      "anchor": "remember I looked at him then and I thought, Not yet, just once",
+      "start": 2062,
+      "end": 2125
+    },
+    {
+      "fact": "Leah 拿 Matteo 与父亲冰钓的旧事反劝他：他当时明知有事发生却选择忽略，因为不想把那次出行毁掉；她承诺不会断电。",
+      "anchor": "you didn’t want to ruin it, you didn’t want to go just yet",
+      "start": 3668,
+      "end": 3726
+    },
+    {
+      "fact": "Matteo 抓住她手臂不放，她冷冷问“你是要打我吗”，他松手改看自己灼伤的手指；她随即走向主控台，准备启动主引擎。",
+      "anchor": "Are you going to slap me,” I said and he stopped, dropped my arm",
+      "start": 5261,
+      "end": 5325
+    },
+    {
+      "fact": "潜水器运转如常，Leah 驾它穿过不规则的玄武岩与一道宽阔裂隙，一路没有任何活物；她再次闻到烧焦皮肉的气味，但不确认是当时闻到的还是事后叠加的记忆。",
+      "anchor": "something deep and narrow into which we had fallen – and yet not one living thing",
+      "start": 6504,
+      "end": 6585
+    },
+    {
+      "fact": "结尾她心里反复催“Come on… give”，黑暗里终于出现一次动静——第一个生命的迹象。",
+      "anchor": "And movement, then, as if in acknowledgement. At last, a movement in the dark",
+      "start": 7158,
+      "end": 7235
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Leah–Matteo",
+      "kind": "同船同伴/生死搭档；他唤她“Buddy”。此刻为“上浮还是留下”正面拉扯：他抓住她手臂，她甩开他走向主控台。",
+      "anchor": "“Buddy please,” he said and his hand moved across the outer edge",
+      "start": 3148,
+      "end": 3212
+    },
+    {
+      "pair": "Leah–Miri",
+      "kind": "Leah 一想到 Miri 就是“hard stabbing pain”（一阵尖锐的刺痛）；本章只写她想起一次，未交代身份（推断：亲密伴侣/妻子）。",
+      "anchor": "thought about Miri once with a hard stabbing pain",
+      "start": 2793,
+      "end": 2842
+    },
+    {
+      "pair": "Matteo–Matteo的父亲",
+      "kind": "父子曾一起去冰钓；Matteo 明知有事发生却选择忽略，因为“不想毁掉它”。Leah 用这件事逼他承认自己也在做同样的选择。",
+      "anchor": "When you went ice fishing with your dad",
+      "start": 3550,
+      "end": 3589
+    },
+    {
+      "pair": "Leah–Jelka",
+      "kind": "Jelka 一直听到某个“声音”；Leah 当时没让她把这件事解释完，现在那声音又在她耳边升起。",
+      "anchor": "the voice I knew Jelka had been hearing, the voice I hadn’t let her explain",
+      "start": 3838,
+      "end": 3913
+    },
+    {
+      "pair": "Leah–脑中的声音",
+      "kind": "一个“不是我”的声音在她脑中说“Sunken thoughts”，随后她照旧走向主控台。",
+      "anchor": "Sunken thoughts, said a voice in my head that was not mine",
+      "start": 5582,
+      "end": 5640
+    }
+  ],
+  "numbers": [
+    {
+      "value": "几秒之前（seconds previously）",
+      "anchor": "the light was not what it had been seconds previously",
+      "start": 112,
+      "end": 165
+    },
+    {
+      "value": "立刻、同时（at once）",
+      "anchor": "along with the beams from the front of the craft, and at once we saw",
+      "start": 228,
+      "end": 296
+    },
+    {
+      "value": "就一次（just once）",
+      "anchor": "Not yet, just once, and then I looked towards the windows",
+      "start": 2107,
+      "end": 2164
+    },
+    {
+      "value": "一步，然后又一步（one step … and then another）",
+      "anchor": "though he allowed me to move one step towards the panel and then another",
+      "start": 4181,
+      "end": 4253
+    },
+    {
+      "value": "一个动作（a single move）",
+      "anchor": "convinced that a single move could trip a wire",
+      "start": 1584,
+      "end": 1630
+    },
+    {
+      "value": "没有一个活物（not one living thing）",
+      "anchor": "and yet not one living thing. I’m not sure how long I moved us forwards",
+      "start": 6557,
+      "end": 6628
+    },
+    {
+      "value": "专名：Matteo（马泰奥，同船同伴）",
+      "anchor": "“Jesus Christ,” said Matteo and then covered his mouth",
+      "start": 329,
+      "end": 383
+    },
+    {
+      "value": "专名：Miri（米里）",
+      "anchor": "I said then and thought about Miri once with a hard stabbing pain",
+      "start": 2777,
+      "end": 2842
+    },
+    {
+      "value": "专名：Jelka（耶尔卡，同船者）",
+      "anchor": "the voice I knew Jelka had been hearing",
+      "start": 3838,
+      "end": 3877
+    },
+    {
+      "value": "专名/呼语：Buddy（Matteo 对 Leah 的称呼）",
+      "anchor": "Buddy please,” he said and his hand moved",
+      "start": 3149,
+      "end": 3190
+    },
+    {
+      "value": "专名/呼语：Jesus Christ（惊叹与呼告）",
+      "anchor": "“Jesus Christ,” he said again, and I felt quite certain",
+      "start": 1665,
+      "end": 1720
+    }
+  ]
+}

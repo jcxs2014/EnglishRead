@@ -27,6 +27,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 2:** "He seemed frozen, looked towards the control panel without moving his neck, like a person being stalked by a jungle creature and desperate to avoid being seen. “Don’t move,” he said, “I don’t know why. It might go off again. The power. It might notice we’re still here.”"
 
 **中文理解**：Matteo 整个人僵住，只把眼珠转向控制面板，脖子一动不动；他给的理由是电可能再断，还说「它」会注意到他们仍在这里。
@@ -36,6 +38,8 @@ modified: "2026-10-29"
 **为什么这样写**：先写身体（seemed frozen、脖子不转），再补一个丛林动物的比喻，把「不敢动」从紧张升级成被猎食者盯住的处境。接着是一串极短的引语：Don’t move、I don’t know why、It might go off again、The power、It might notice we’re still here，最短的一句只有两个词（The power.），像他在慌乱里给恐惧临时找一个主语。最后一句把电写成会「注意」人的东西。
 
 **读者视角提示**：留意 The power. 独立成句的位置：前一句主语还是 it，后一句 it 就有了名字。你读到的不是解释，是一个人在几秒钟内自己造出来的因果。
+
+---
 
 ---
 
@@ -51,6 +55,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 4:** "We couldn’t – and I felt this with a force like a taste, like copper washed up against the backs of my teeth – we couldn’t go until I had seen it, until we had seen some vestige of what we had come down to see."
 
 **中文理解**：她把这个念头说成一种味道：铜味顶在牙床后面。句子被破折号劈开，两边各说一次 we couldn’t，后面再接 until 的条件：在看见一点痕迹之前，他们不能走。
@@ -63,7 +69,33 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "“I promise you,” I said again, “we won’t lose power. I promise. I just want to know,” I said, without really meaning to say this part aloud, “I just want to know that it wasn’t for nothing. I just want to know what’s here.”"
+---
+
+> **原句 5:** "When you went ice fishing with your dad and you knew what was happening and you ignored it. When you told me you said you didn’t want to ruin it, you didn’t want to go just yet."
+
+**中文理解**：她说：你跟你爸去冰钓那次，你知道正在发生什么，你装作没看见。你后来告诉我，你说你不想把那个下午毁掉，你不想就这么走。
+
+**关键词**：you went ice fishing with your dad / you ignored it / didn’t want to ruin it / didn’t want to go just yet
+
+**为什么这样写**：两句都以 `When` 起头，像把两件旧事并排放在桌上：一次是 Matteo 自己的装作没看见，一次是他对她说过的原话。她没有解释这个类比，只把「不想毁掉」这句还给说它的人——此刻要上浮的是她，不肯走的是他。这是全章唯一拿私人记忆当武器的地方。
+
+**读者视角提示**：注意她说的是「你 told me，你说 you didn’t want to go」——话是他自己的，她只是复述。
+
+---
+
+> **原句 6:** "“Are you going to slap me,” I said and he stopped, dropped my arm and looked at his fingers, and I felt my unkindness in the twist of his mouth but found there was nothing I could say to make it better. “I don’t—” I started, and then abandoned the thought, felt it slip from the upper drift of my mind to somewhere lower."
+
+**中文理解**：她说：「你是要打我吗？」他停住了，松开她的手臂，低头看自己的手指；她从他的嘴角看出自己的不厚道，却想不出一句话能补救。她开口「我不是——」，随即放弃了这个念头，感觉它从脑子较高处滑到更低的地方。
+
+**关键词**：Are you going to slap me / dropped my arm / I felt my unkindness / slip from the upper drift of my mind
+
+**为什么这样写**：这句话是反问，不是指控，可它立刻让 Matteo 松手并查看自己的手——像确认自己还是不是那个人。`the twist of his mouth` 把她的愧疚放在对方脸上，`nothing I could say` 又把补救的门关上。后半句 `slip from the upper drift of my mind to somewhere lower` 是全章对「念头沉下去」最直白的一次显影：「Sunken thoughts」不再是别人的声音，是她自己的语言。
+
+**读者视角提示**：紧接着「Sunken thoughts」那句里的声音「不是我的」——可她刚用一模一样的词描述自己的念头。这两句要一起读。
+
+---
+
+> **原句 7:** "“I promise you,” I said again, “we won’t lose power. I promise. I just want to know,” I said, without really meaning to say this part aloud, “I just want to know that it wasn’t for nothing. I just want to know what’s here.”"
 
 **中文理解**：Leah 再次承诺不会断电，中途漏出一句本来不想说出口的话：她只想知道这一切不是白费，只想知道这里有什么。
 
@@ -75,7 +107,9 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "We slid through the water, the darkness opening out only into further darkness, the lights from the front of the craft and the sensors picking up a geography of irregular basalt, wide open crags of rock that spoke to a broad crevasse – something deep and narrow into which we had fallen – and yet not one living thing."
+---
+
+> **原句 8:** "We slid through the water, the darkness opening out only into further darkness, the lights from the front of the craft and the sensors picking up a geography of irregular basalt, wide open crags of rock that spoke to a broad crevasse – something deep and narrow into which we had fallen – and yet not one living thing."
 
 **中文理解**：船在水里滑行，黑暗之外还是黑暗；前灯和传感器扫出不规则的玄武岩地貌、裂开的岩壁，说明他们掉进的是一条又深又窄的裂隙；而整片地方没有一个活物。
 
