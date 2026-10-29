@@ -1,0 +1,55 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch02",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch02_chap02.txt",
+ "facts": [
+  {
+   "fact": "赴岛路程：飞机转汽车再换乘渡轮，抱怨不停的青少年全程随行",
+   "anchor": "first by plane, then car, now by boat, with a complaining teen in tow the entire time",
+   "start": 413,
+   "end": 498
+  },
+  {
+   "fact": "Jessica 十五年前怀 Sandy 时正式戒烟，看船长吞云吐雾仍勾起旧瘾",
+   "anchor": "Jessica had officially quit smoking fifteen years ago, back when she was pregnant with Sandy",
+   "start": 2360,
+   "end": 2452
+  },
+  {
+   "fact": "渡轮甲板上只有他们家租的 ’24 Jeep Grand Manitou，Greg 和 Sandy 待在车里，Jessica 在船头与船长攀谈",
+   "anchor": "The deck of the ferry was empty but for the family’s rented ’24 Jeep Grand Manitou",
+   "start": 2889,
+   "end": 2971
+  },
+  {
+   "fact": "Greg 在 Jessica 监督下原在伦敦机场订了紧凑型车，到店被告知没车，只能换这台巨兽",
+   "anchor": "Greg, under Jessica’s direct supervision, had reserved a compact car at the London airport, but upon arrival they had been informed that the car they requested was not available",
+   "start": 3888,
+   "end": 4065
+  },
+  {
+   "fact": "Greg 提议趁岛上路空让 Sandy 学车，Jessica 以押金为由否决",
+   "anchor": "“The roads are probably gonna be pretty empty. Maybe this would be the perfect time for some driving lessons?”",
+   "start": 8438,
+   "end": 8548
+  },
+  {
+   "fact": "Sandypants 在巫术论坛贴出读自 isobel gowdie 忏悔录的变兔咒语原文",
+   "anchor": "she had a spell for turning into a hare—“with sighing and sorrow and meckle care, I go forth in the form of a hare. And I go forth in the devil’s name, e’er that I come back again.”",
+   "start": 9860,
+   "end": 10041
+  },
+  {
+   "fact": "Sandy 在学校下过 hex 的名单：Roger Jacobs、Jason Rodriguez 及两名跟班、Mr. Williams",
+   "anchor": "Sandy had cursed Roger Jacobs (who had pulled Sandy’s hair and called them a slur), Jason Rodriguez and two of his cronies (who had cornered Sandy after school), and Mr. Williams (who was a huge asshole)",
+   "start": 14740,
+   "end": 14943
+  },
+  {
+   "fact": "靠岛时水上立着水浸标牌：欢迎来到 HASENHURST 村，一个古朴社区",
+   "anchor": "a waterlogged sign announced: WELCOME TO THE VILLAGE OF HASENHURST. A QUAINT COMMUNITY.",
+   "start": 15485,
+   "end": 15572
+  }
+ ]
+}

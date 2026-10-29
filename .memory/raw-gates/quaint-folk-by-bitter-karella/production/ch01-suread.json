@@ -1,0 +1,61 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch01",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch01_chap01.txt",
+ "facts": [
+  {
+   "fact": "Jessica 近三十年没领圣餐，也没告解、没念玫瑰经、没上教堂，父母当年说这些都是不可饶恕的死罪",
+   "anchor": "Jessica had not received the sacrament of communion in nearly thirty years",
+   "start": 590,
+   "end": 664
+  },
+  {
+   "fact": "Jessica 的本职是对公司一切决定表现热情——她是 Ungo.com™ 初级副总裁（implementation and implementainment 方向）的妻子",
+   "anchor": "as the wife of an Ungo.com™ junior vice president for implementation and implementainment, to be enthusiastic about anything that the company decided",
+   "start": 3197,
+   "end": 3346
+  },
+  {
+   "fact": "上司 Stan 把 Greg 一家派往 Hasenhurst，让 Greg 与镇上的父老完成一桩神秘生意",
+   "anchor": "Stan was sending her family there so her husband, Greg, could complete some sort of arcane business deal with the town fathers of Hasenhurst",
+   "start": 4257,
+   "end": 4397
+  },
+  {
+   "fact": "Sandy 游泳时穿全身潜水服，Jessica 正在预备迎接 Stan's wife 必然的一问",
+   "anchor": "Sandy wore a full-body wet suit when they went swimming",
+   "start": 6892,
+   "end": 6947
+  },
+  {
+   "fact": "Sandy 的紫色长发湿漉漉贴在背上，正准备第二次跳水",
+   "anchor": "Their long purple hair hung down past their shoulders, wet and plastered to their back.",
+   "start": 10191,
+   "end": 10278
+  },
+  {
+   "fact": "Stan's wife 的正职是 UC Berkeley 比较文学教授，厨艺待客是业余修出来的",
+   "anchor": "from being a professor of comparative literature at UC Berkeley",
+   "start": 5897,
+   "end": 5960
+  },
+  {
+   "fact": "Jessica 四十六岁，自认在公司派对上不再引人回头，担心丈夫厌倦「没用的 trophy wife」",
+   "anchor": "now that she was forty-six and didn’t turn heads at Ungo.com™ company parties",
+   "start": 14483,
+   "end": 14560
+  },
+  {
+   "fact": "Sandy 十五岁——Jessica 心里认定这是孩子不再需要母亲、父亲说「妈妈得走」他们也能承受的年纪",
+   "anchor": "Sandy was fifteen; that was the age that children didn’t need their mothers anymore",
+   "start": 14647,
+   "end": 14730
+  },
+  {
+   "fact": "Jessica 在写一本给年轻人的奇幻故事：一个不守规矩的公主，最初是给 Sandy 编的睡前故事",
+   "anchor": "It’s a fantasy story for young people, about a princess who doesn’t follow the rules",
+   "start": 17099,
+   "end": 17183
+  }
+ ]
+}

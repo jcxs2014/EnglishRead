@@ -1,0 +1,55 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch03",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch03_chap03.txt",
+ "facts": [
+  {
+   "fact": "村口警察一听 Greg 一家要住进 Hollyoak House 就反问，并告诉他们这房子已经空置多年。",
+   "anchor": "Blimey, sir, why perchance would you lot be ’eading to ’Ollyoak ’ouse? ’Ollyoak ’ouse ’as been empty for years.",
+   "start": 2206,
+   "end": 2317
+  },
+  {
+   "fact": "Bunnyfluff Bridge 的铭牌记载此桥约建于 1300 年，桥名来自至今栖居在 Hollyoak House 庭园里的众多兔子。",
+   "anchor": "BUNNYFLUFF BRIDGE: HISTORICAL RECORDS INDICATE THAT BUNNYFLUFF BRIDGE WAS ORIGINALLY BUILT CIRCA 1300. IT WAS NAMED FOR THE MANY RABBITS THAT MAKE THEIR HOME ON THE GROUNDS OF HOLLYOAK HOUSE TO THIS DAY.",
+   "start": 4775,
+   "end": 4978
+  },
+  {
+   "fact": "Sandy 对桥名一脸嫌弃，却自称在自家的 eclectic folkloric practice 里与兔子之灵有 kinship。",
+   "anchor": "“It’s more than that,” said Sandy. “It’s that I have kinship with the spirit of the rabbit as part of my eclectic folkloric practice.”",
+   "start": 5520,
+   "end": 5654
+  },
+  {
+   "fact": "有人把一枚马蹄铁钉在 Hollyoak House 的大门上，Greg 指着它大笑。",
+   "anchor": "Someone had nailed a horseshoe to the door. Greg pointed at it and laughed.",
+   "start": 7810,
+   "end": 7885
+  },
+  {
+   "fact": "Jessica 发现藏书室的书全是她没见过的少儿书，书名如 The Stealthy Seven、the Marauders of Mystery Manor、Robert the Bobby Goes on a Picnic。",
+   "anchor": "The books turned out to all be children’s books unfamiliar to Jessica, with names like The Stealthy Seven and the Marauders of Mystery Manor and Robert the Bobby Goes on a Picnic.",
+   "start": 9866,
+   "end": 10045
+  },
+  {
+   "fact": "Greg 擦去主厅画像下铭牌的灰尘，读出 HELENA HOLLYOAK. 1882–1968。",
+   "anchor": "Greg rubbed the dust from a plaque and read the inscription: HELENA HOLLYOAK. 1882–1968.",
+   "start": 14277,
+   "end": 14365
+  },
+  {
+   "fact": "Greg 拥抱 Jessica，在她耳边说这里安静得只剩 the sound of silence——没有鸣笛、没有警笛、没有喊叫。",
+   "anchor": "He hugged Jessica close, whispering into her ear: “Listen to that. Do you hear that sound? It’s the sound of silence. No honking cars, no sirens, no yelling.",
+   "start": 16708,
+   "end": 16865
+  },
+  {
+   "fact": "当晚 Jessica 写的 Princess Kayla 书稿，原是 Sandy 幼时不肯睡觉时她讲的睡前故事。",
+   "anchor": "It had started as a bedtime story when Sandy was young and didn’t want to lie down to sleep.",
+   "start": 17700,
+   "end": 17792
+  }
+ ]
+}
