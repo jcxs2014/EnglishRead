@@ -1,0 +1,61 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch00",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch00_chap00.txt",
+ "facts": [
+  {
+   "fact": "荒宅庭园仍保有王气但正在缓缓朽坏，沉园被紫菀、毛地黄、绣球与猫薄荷灌丛吞没。",
+   "anchor": "Hollyoak House still retained a certain regal dignity in slow decay",
+   "start": 20,
+   "end": 87
+  },
+  {
+   "fact": "兔子清晨从洞穴里上来进食，因确信无人打扰，白天也敢久留地面。",
+   "anchor": "Rabbits ascended from their burrows to feed at dawn",
+   "start": 212,
+   "end": 263
+  },
+  {
+   "fact": "庭园里有一座黄铜晷针的古董日晷；还有长满浮萍鸭草的喷泉和挂满水藻的小天使撒尿雕像。",
+   "anchor": "an antique sundial with a polished brass gnomon",
+   "start": 369,
+   "end": 416
+  },
+  {
+   "fact": "雾从不散尽，永恒的暮色里肥黑的蛞蝓整天在石板路上缓缓爬行。",
+   "anchor": "The fog never lifted entirely",
+   "start": 663,
+   "end": 692
+  },
+  {
+   "fact": "房子三层楼、十二间卧室、三间浴室，有室内管道与可靠电力，顶上是带寡妇步道的坚牢望塔。",
+   "anchor": "three good solid stories, twelve bedrooms and three baths",
+   "start": 1229,
+   "end": 1286
+  },
+  {
+   "fact": "另有一些房间从未对外提起，用途不明。",
+   "anchor": "There were other rooms, whose existence was not advertised and whose purpose was obscure",
+   "start": 1428,
+   "end": 1516
+  },
+  {
+   "fact": "本地人嘴上说好人家该住进来、房子空着可惜，但人人心里明白房子并不空。",
+   "anchor": "the house was not empty",
+   "start": 1713,
+   "end": 1736
+  },
+  {
+   "fact": "夜里有东西窸窣移动，永远只在\"隔壁房间\"；偶尔露形也只是一瞥，理性的人只当是错觉。",
+   "anchor": "the faint scuttling of something moving in just the next room, always just the next room",
+   "start": 2212,
+   "end": 2300
+  },
+  {
+   "fact": "章末一句悬置：有时，还有梦。",
+   "anchor": "And, sometimes, there were dreams.",
+   "start": 2304,
+   "end": 2338
+  }
+ ]
+}
