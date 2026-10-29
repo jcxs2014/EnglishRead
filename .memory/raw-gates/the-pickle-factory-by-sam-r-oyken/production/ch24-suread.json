@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch24",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch24_in_which_buttonfly_speaks_to_kray_in_french.txt",
+ "facts": [
+  {
+   "fact": "周五下午三点，总部星巴克空无一人。",
+   "anchor": "It was 3:00 o’clock on Friday afternoon, so the Headquarters Starbucks was deserted.",
+   "start": 106,
+   "end": 190
+  },
+  {
+   "fact": "BUTTONFLY 说 ARISTOTLE 曾试图辞职一次。",
+   "anchor": "“He tried to resign once,” he said.",
+   "start": 2134,
+   "end": 2169
+  },
+  {
+   "fact": "ARISTOTLE 刚起步时，Alice G. PEACHTREE 把他送进 BUTTONFLY 的圈子。",
+   "anchor": "The lovely and brilliant Alice G. PEACHTREE sent him into my orbit",
+   "start": 2747,
+   "end": 2813
+  },
+  {
+   "fact": "BUTTONFLY 断言：若无来自高层的直接命令，他们绝不会做出那种事。",
+   "anchor": "There’s just no way they would have done what they did absent a direct order, and from high up.",
+   "start": 3872,
+   "end": 3967
+  },
+  {
+   "fact": "IOD 军官告知 KRAY：大约五个月前，该通讯系统上两打（24 名）伊朗特工突然停止通讯。",
+   "anchor": "About five months ago two dozen Iranian agents on that commo system suddenly stopped communicating.",
+   "start": 8281,
+   "end": 8380
+  },
+  {
+   "fact": "KRAY 骂那名 IOD 军官「You’re a sick fuck」，说完就走。",
+   "anchor": "“You’re a sick fuck,” KRAY said, walking out.",
+   "start": 8978,
+   "end": 9023
+  },
+  {
+   "fact": "D. B. Cooper 把 KRAY 拉到一边，转述 Wacker 的说法：GOOWIKI 名下已有部署。",
+   "anchor": "Cooper, took me aside and told me Wacker said there had already been deployments under GOOWIKI.",
+   "start": 9378,
+   "end": 9473
+  },
+  {
+   "fact": "BUTTONFLY 对 Andre 连说两遍法语「Mais oui」，点题「说法语」。",
+   "anchor": "“Mais oui, Andre, mais oui.”",
+   "start": 13672,
+   "end": 13700
+  }
+ ]
+}
