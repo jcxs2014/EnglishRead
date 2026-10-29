@@ -1,0 +1,111 @@
+{
+  "chapter": "ch15",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch15_miri.txt",
+  "facts": [
+    {
+      "fact": "治疗师开场指出“我们俩都没在认真听”，并把矛头指向“我”，练习只得重来。",
+      "anchor": "I don’t think that either of you are listening hard enough",
+      "start": 49,
+      "end": 107
+    },
+    {
+      "fact": "治疗师用墨迹卡（罗夏测试）让两人说出看到的形状，Leah 在每张卡上都只看见“眼睛”。",
+      "anchor": "is an eye, and an eye and an eye and an eye and an eye",
+      "start": 1321,
+      "end": 1375
+    },
+    {
+      "fact": "电话那头的官方口径把 Leah 的变化称为“resurfacing glitch（上浮故障）”，反复说很常见、不必担心，治疗费由 Centre 出。",
+      "anchor": "We call it the resurfacing glitch",
+      "start": 868,
+      "end": 901
+    },
+    {
+      "fact": "治疗前 Leah 已不肯穿衣、怕布料，回家后“我”发现她靴子里整片脚趾甲脱落，仍默默舀了一小量食盐进水里给她喝。",
+      "anchor": "spoon a small measure of table salt into a glass of water for Leah to drink",
+      "start": 3139,
+      "end": 3214
+    },
+    {
+      "fact": "Sam 上门探视，从包里掏出一只用锡纸包着的整鸡，说是想帮点什么。",
+      "anchor": "wrapped a chicken in tinfoil",
+      "start": 3642,
+      "end": 3670
+    },
+    {
+      "fact": "Sam 自陈谷歌了“减压病”，讲氮气泡在血液与组织里形成，会造成头晕、皮疹、疲倦、失忆甚至性格改变，并试探这是否可治。",
+      "anchor": "nitrogen bubbles form in the blood and the tissues and things when the pressure decreases",
+      "start": 4389,
+      "end": 4478
+    },
+    {
+      "fact": "“我”独自在浴室擦浴缸，每擦一下海绵带下的垢是粉色的、比前几周更稠，怀疑与 Leah 的“变薄／变少”有关。",
+      "anchor": "the scrim that comes away with each stroke is pinkish",
+      "start": 5847,
+      "end": 5900
+    },
+    {
+      "fact": "“我”回忆 Leah 教他“sea lung（海肺）”一词：古时水手用来称气温骤变时海面迅速冻结成的冰面浮层。",
+      "anchor": "an ancient term once used by sailors to describe the slough of ice",
+      "start": 8357,
+      "end": 8423
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "kind": "伴侣；Leah 潜水归来后沉默、脱皮、畏衣，Miri 反复以“我的 Leah 不是现在这个”作对照",
+      "anchor": "my Leah is not who I have with me now",
+      "start": 6829,
+      "end": 6866
+    },
+    {
+      "pair": "Miri–治疗师",
+      "kind": "夫妻治疗中的被指导者与被指认的“好战／爱归咎”一方",
+      "anchor": "too given to the process of blame",
+      "start": 1851,
+      "end": 1884
+    },
+    {
+      "pair": "Miri–Sam",
+      "kind": "邻居兼朋友；Sam 送食物、道歉式试探，Miri 半开门应付",
+      "anchor": "I just wanted to see if there was anything I could do",
+      "start": 3547,
+      "end": 3600
+    },
+    {
+      "pair": "Leah–父亲",
+      "kind": "Leah 曾带“我”去核电站旁的海滩，那是她小时候与父亲散步的地方",
+      "anchor": "she’d used to go walking with her father",
+      "start": 7115,
+      "end": 7155
+    },
+    {
+      "pair": "Miri–the Centre",
+      "kind": "治疗由 Centre 出资，条件是“后续协助会到位”，细节含糊",
+      "anchor": "bankrolled by the Centre on the understanding that further assistance will be forthcoming",
+      "start": 326,
+      "end": 415
+    }
+  ],
+  "numbers": [
+    {
+      "value": "三周（合同）/ 六个月（实际滞留）",
+      "anchor": "not staying away six months when your operation terms only stipulated three weeks",
+      "start": 2617,
+      "end": 2698
+    },
+    {
+      "value": "六十年代中期（罗夏测试被广泛质疑的年代）",
+      "anchor": "the Rorschach test not widely discredited around the mid-sixties",
+      "start": 1184,
+      "end": 1248
+    },
+    {
+      "value": "几分钟（Sam 敲门的时间）",
+      "anchor": "She’s been knocking for several minutes",
+      "start": 3336,
+      "end": 3375
+    }
+  ]
+}

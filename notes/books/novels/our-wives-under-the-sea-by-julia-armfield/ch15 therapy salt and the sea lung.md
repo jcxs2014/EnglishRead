@@ -27,9 +27,21 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "There is something, the therapist says, to be said for letting go of anger. There is something, I tell her in a voice she immediately terms unproductive, to be said for not staying away six months when your operation terms only stipulated three weeks."
+> **原句 2:** "We call it the resurfacing glitch, the voice said, so cheerfully that I felt almost churlish for asking. It’s so common, more common than you’d think."
 
-**中文理解**：治疗师说，放下愤怒也有它的道理。她立刻用同一个句式回敬：那你离开六个月、而作业条款只写明三周，也有它的道理——这句话被治疗师当场判为「没有建设性」。
+**中文理解**：电话那头说：我们管这叫「上浮故障」，语气轻松得让她的追问显得像不近人情。这种情形太常见了，比你以为的常见得多。
+
+**关键词**：the resurfacing glitch / so cheerfully / churlish for asking / more common than you’d think
+
+**为什么这样写**：一个术语就是一道封条：把「她变了」命名成「上浮故障」，等于说这是设备问题、有先例、不必追问。作者只让那个嗓音自己说话，连形容词都交给了它——cheerfully 是对方的态度，churlish 是她被按上的位置：提问的人成了失礼的人。最后一句用比较级兜住一切：常见到不需要解释，也就常见到不需要处理。
+
+**读者视角提示**：记住「上浮故障」这个词。之后每次机构开口，都在这套词汇里打转；她后来所有的追问，都是在这个词上撞墙。
+
+---
+
+> **原句 3:** "There is something, the therapist says, to be said for letting go of anger. There is something, I tell her in a voice she immediately terms unproductive, to be said for not staying away six months when your operation terms only stipulated three weeks."
+
+**中文理解**：治疗师说，放下愤怒也有它的道理。她立刻用同一个句式回敬：那你离开六个月、而作业条款只写明三周，也有它的道理——这句话被治疗师当场判为「没有建设性」。（这场治疗开头是一叠墨迹卡：她说像神灯、冰淇淋勺、玉米卷饼，还问罗夏测试不是六十年代中期就被广泛质疑过吗；Leah 每张卡都只看见「一只眼睛，又一只眼睛」。）
 
 **关键词**：letting go of anger / a voice she immediately terms unproductive / six months / stipulated three weeks
 
@@ -39,7 +51,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "On coming home again, I find that a toenail has come clean off inside her walking boots, although she seems unaware of this and moves to sit on the sofa. Without quite knowing what I’m doing, I move over to the sink and spoon a small measure of table salt into a glass of water for Leah to drink."
+> **原句 4:** "On coming home again, I find that a toenail has come clean off inside her walking boots, although she seems unaware of this and moves to sit on the sofa. Without quite knowing what I’m doing, I move over to the sink and spoon a small measure of table salt into a glass of water for Leah to drink."
 
 **中文理解**：回到家，她发现靴子里有一整片脱落的脚趾甲，Leah 好像完全没察觉，径直走去坐沙发。她也不清楚自己在做什么，走到水槽边，往一杯水里加了一小勺食盐，端给 Leah 喝。
 
@@ -51,7 +63,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "It affects scuba-divers, pilots, astronauts – anyone who works in compressed air. Apparently nitrogen bubbles form in the blood and the tissues and things when the pressure decreases. When they come up, I mean, from underwater."
+> **原句 5:** "It affects scuba-divers, pilots, astronauts – anyone who works in compressed air. Apparently nitrogen bubbles form in the blood and the tissues and things when the pressure decreases. When they come up, I mean, from underwater."
 
 **中文理解**：Sam 说这病影响潜水员、飞行员、宇航员——凡是工作在压缩空气里的人；压力下降时，氮气泡会在血液和组织里生成；她补了一句，说的是这些人从水下上来的时候。
 
@@ -63,7 +75,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "“I don’t think this is OK,” I say, on my own, in the bathroom, to nobody. I am scouring around the edge of the bath with a sponge and the scrim that comes away with each stroke is pinkish, less granular than it has been in previous weeks, as though something about it is growing thicker."
+> **原句 6:** "“I don’t think this is OK,” I say, on my own, in the bathroom, to nobody. I am scouring around the edge of the bath with a sponge and the scrim that comes away with each stroke is pinkish, less granular than it has been in previous weeks, as though something about it is growing thicker."
 
 **中文理解**：她一个人待在浴室，对着没有人说「我觉得这样不行」；一边拿海绵擦浴缸边，一边看每次刮下来的那层薄垢——发粉，比前几周更不呈颗粒状，好像有什么东西在变稠。
 
@@ -75,7 +87,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "My Leah was funny and strange and predominantly wore men’s underwear. My Leah chewed hangnails loudly and knew the name of every actor yet never remembered the words to a song. My Leah took me out to the beach near the nuclear power station where she’d used to go walking with her father – haar-fog in January, too cold and too early for anyone to be there but us."
+> **原句 7:** "My Leah was funny and strange and predominantly wore men’s underwear. My Leah chewed hangnails loudly and knew the name of every actor yet never remembered the words to a song. My Leah took me out to the beach near the nuclear power station where she’d used to go walking with her father – haar-fog in January, too cold and too early for anyone to be there but us."
 
 **中文理解**：她开始清点「我的 Leah」：风趣、古怪、多半穿男式内裤；咬倒刺咬得很响，记得每个演员的名字却记不住一句歌词；带她去核电站旁的海滩——那是她从前跟父亲散步的地方，一月的海雾，天太冷也太早，除了她俩没有别人。
 
@@ -87,7 +99,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "The sea lung moved very slightly, leading me to feel that the ground I stood on might be moving too, might be less solid than I assumed. I pressed my free hand to my chest and wondered how solid that could really be, how tangible anything about me might really be. Standing on the edge, I could feel it."
+> **原句 8:** "The sea lung moved very slightly, leading me to feel that the ground I stood on might be moving too, might be less solid than I assumed. I pressed my free hand to my chest and wondered how solid that could really be, how tangible anything about me might really be. Standing on the edge, I could feel it."
 
 **中文理解**：海肺极轻地动了一下，让她觉得脚下的地面也许也在动、没有她以为的那么实；她把空着的那只手按到胸口，想这具身体到底有多实、她身上究竟有什么是摸得到的；站在水边，她能感觉到它。
 
