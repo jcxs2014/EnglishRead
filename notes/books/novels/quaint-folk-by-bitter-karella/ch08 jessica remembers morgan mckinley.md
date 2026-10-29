@@ -7,7 +7,7 @@ modified: "2026-10-29"
 
 ## 本章导航
 - **一句话概括**：在 Hasenhurst 的第一个完整早晨，Molly 的早餐热场被 Morgan McKinley 的记忆长流接管——父母的判词、Morgan 的 "Be real. Go home."、以及 Jessica 给自己的诊断 "something busted deep inside her"；回到餐桌，Sandy 一句 "there's something weird about this house" 令水壶应声落地，Helena Hollyoak 的儿童作家身份随之浮出。
-- **情感弧线位置**：第四部 Autumnfast，Tigglestide 前夜前第三天的上午。表面是待客、早餐与灵感采集的暖场，情绪却顺着一张相似的脸一路沉回少女时代，再被一声 CLANG 拽回厨房现场——暖与冷同桌。
+- **情感弧线位置**：Tigglestide 前夜前第三天的上午。表面是待客、早餐与灵感采集的暖场，情绪却顺着一张相似的脸一路沉回少女时代，再被一声 CLANG 拽回厨房现场——暖与冷同桌。
 - **Tropes 兑现/反转**：兑现「热情向导 + 有故事的老宅」：Molly 无微不至，Helena Hollyoak 的女巫传闻悬在背景（"doesn't mean Helena Hollyoak was a witch"）；反转在于本章下刀最狠的恐怖不在房子里，而在 Jessica 自己的记忆里——房子只是恰好长成了她梦里的形状。
 - **人物弧线**：Jessica：从表演 "radically accepting parent" 的自信家长，到承认 "something busted deep inside her"；Morgan McKinley 初登场即退场，用一句 "pillow talk" 定住 Jessica 的半生；Molly：待客的熟练与一次不合时宜的手滑并存；Sandy：用一句安静的直觉发言，把「这房子不对」放上台面。
 - **叙事手法**：章首以 Round Robin 民谣（"Beware Round Robin! Cold and crafty!"）定调；梦境换景让两座房子叠印；由 "She kind of looks like Morgan McKinley" 启动自由间接引语式的回忆长流；警告与失手都嵌进日常动作（吐司、水壶）里，恐怖走的是「家用」路线。
