@@ -9,7 +9,7 @@ modified: "2026-10-29"
 - **一句话概括**：约旦三面间谍在前进基地引爆藏在背心口袋里的炸弹，生日庆祝瞬间变成惨案；中情局事后把责任推给死者与下级，高层则全身而退。
 - **情感弧线位置**：全章以冷峻的纪录片式口吻推进，恐怖数据与官僚推责交替出现，讽刺压过哀悼，情绪在「爆炸」与「官腔」之间反复横跳。
 - **线索结构**：本章正面还原 Forward Operating Base 爆炸事件；后续的第七层电话、站长 ARISTOTLE 免职与自杀构成追责线索链。
-- **人物弧线**：基地负责人背锅、站长 ARISTOTLE 从被免职到自杀，而 BLUEBELL 与 MUCHADOO 逃脱问责并升职加薪——责任与惩罚完全错位。
+- **人物弧线**：基地负责人背锅、站长 ARISTOTLE 从被免职到自杀，而 BLUEBELL 与 MUCHADOO 逃脱问责、退休后去承包商拿双倍薪水——责任与惩罚完全错位。
 - **叙事手法**：全知叙述者冷静罗列死亡人数与物理数据，穿插匿名官员与官方声明的官腔，用「生日快乐」作为贯穿标题的反讽意象。
 
 ## 精读
@@ -19,7 +19,7 @@ modified: "2026-10-29"
 **为什么这样写**：先用冷冰冰的物理数据渲染爆炸威力，再让间谍带着虔诚微笑念诵祷词，以「信仰」对「死亡」的反差奠定全章的讽刺基调。
 **读者视角提示**：注意「微笑着」与「低声念诵」都发生在死亡瞬间——作者先让读者看见人的表情，再想起他的三重间谍身份。
 
-> **原句 2:** "Two officers, one a former Special Forces soldier and the other a former Navy SEAL, were standing closest to him. They were, in fact, both moving rapidly toward the Jordanian doctor when he set off his hidden bomb next to the gym building at Forward Operating Base ██████, having noticed how he wouldn’t take his left hand out of his vest pocket. The last thing each of them heard was his prayer to Allah."
+> **原句 2:** "Two officers, one a former Special Forces soldier and the other a former Navy SEAL, were standing closest to him. They were, in fact, both moving rapidly toward the Jordanian doctor when he set off his hidden bomb next to the gym building at Forward Operating Base ██████ , having noticed how he wouldn’t take his left hand out of his vest pocket. The last thing each of them heard was his prayer to Allah."
 **中文理解**：离约旦医生最近的是两名军官——一名前特种部队士兵、一名前海豹队员；他们正快步冲向医生时，他在健身房旁的建筑物引爆炸弹。两人最后听到的，是他在向安拉祈祷。
 **关键词**：former Special Forces soldier, Navy SEAL, moving rapidly, hidden bomb, gym building, vest pocket, prayer to Allah
 **为什么这样写**：用「最后听到的是祈祷」把最专业的反应与最残酷的结局并置，两名军官的警惕恰恰让他们站进死亡半径——反衬出这场爆炸无可防备。
@@ -60,4 +60,4 @@ modified: "2026-10-29"
 | official statement | 官方声明 | The Agency’s paid spokesman issued an official statement to put the entire incident in the proper context. |
 
 ## 一句话总结
-爆炸让生日歌永远没有机会唱出口；中情局把责任推给死者与下级，让高层照常升迁，唯一被郑重记住的是纪念墙上的星标。
+爆炸让生日歌永远没有机会唱出口；中情局把责任推给死者与下级，让高层全身而退，最终被郑重记住的是纪念墙上的星标。
