@@ -1,0 +1,149 @@
+{
+ "chapter": "ch26",
+ "file": "text/ch26_the_cycle_of_repression.txt",
+ "text_chars": 45315,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "黎明 Michele 在 Villa Ada 等外公；Temidorus 醉归（唱 Rolling Stones、自称与 Bacchus 混过），两人为 Greta 吵嘴",
+   "anchor": "feel like a rooolling",
+   "offset": 994
+  },
+  {
+   "id": "F2",
+   "fact": "Dal Mare 收紧：焚书、管控网站、逮捕神秘学者；上次同样的事发生在 1900 年代初 Barrie 困住他时",
+   "anchor": "when Barrie trapped him",
+   "offset": 4063
+  },
+  {
+   "id": "F3",
+   "fact": "传闻书店混战 Peter 挨揍、Angela 在场；Temidorus 提醒 Cavaterra 一家被找得更紧",
+   "anchor": "Peter Pan got a hiding",
+   "offset": 4611
+  },
+  {
+   "id": "F4",
+   "fact": "秘密基地：Dagon 登场；Mateo 被开膛、Porky 颅骨被同一海盗砸碎；Wizard 以电视广告咒语＋路边草＋链油治好 Giada",
+   "anchor": "two of them died for real tonight",
+   "offset": 5474
+  },
+  {
+   "id": "F5",
+   "fact": "Dagon 定义 Greyface：众神被拿走后剩下的东西，60 年代神秘学者的叫法，无神话、只存在于否定中",
+   "anchor": "what’s left is Greyface",
+   "offset": 9693
+  },
+  {
+   "id": "F6",
+   "fact": "Dagon 受朋友之托找 Michele，约在 Mortal Line 酒吧；拒绝效忠 Peter，警告「这是我的城市」",
+   "anchor": "a bar called Mortal Line",
+   "offset": 11256
+  },
+  {
+   "id": "F7",
+   "fact": "报纸头条 Urban War：十八人死亡（作者、编辑、三名便衣、两个孩子），Dal Mare 为幸存者并将开记者会",
+   "anchor": "eighteen people are dead",
+   "offset": 14240
+  },
+  {
+   "id": "F8",
+   "fact": "Angela 用私人号码打给 Michele；咖啡馆会面交换情报，Wendy 得知自己有魔法血统（祖母），Michele 说 Papa 病了、Mama 不信那些老嬉皮故事",
+   "anchor": "take after our grandmother",
+   "offset": 16676
+  },
+  {
+   "id": "F9",
+   "fact": "Dal Mare 独白：Wedge 找到了 Michele；Michele 是处子之身＋萨满血，是数千年来最强的 Flesh 锚",
+   "anchor": "the boy’s body is virginal",
+   "offset": 20802
+  },
+  {
+   "id": "F10",
+   "fact": "Giovanni 摸清通行规则：海盗靠凶杀或麻醉、Galleon 吞人、牺牲是特权通道；囚室关穷人/移民/流浪儿/仙灵；他为 Luisa 选择沉默",
+   "anchor": "The cells of the pirate ship overflow",
+   "offset": 23203
+  },
+  {
+   "id": "F11",
+   "fact": "树精报信：五个海盗以她为人质逼 Temidorus 自投；他被锁链锁住等她来",
+   "anchor": "They’ve taken Temidorus",
+   "offset": 26605
+  },
+  {
+   "id": "F12",
+   "fact": "Dal Mare 记者会（VIII/X/XII 三段）：交出用户数据、发帖登记、无证窃听、摄像头、二十一岁以下禁酒、角色扮演游戏下架、动漫配额、魔法禁令、同意年龄十八、七人以上集会须提前二十天申请",
+   "anchor": "twenty days in advance",
+   "offset": 37121
+  },
+  {
+   "id": "F13",
+   "fact": "Michele 以三只老鼠（Airbrick、Rearview、Cable）咬死锁链的灵，Temidorus 挣脱、露出五十三颗牙",
+   "anchor": "All fifty-three.",
+   "offset": 39482
+  },
+  {
+   "id": "F14",
+   "fact": "记者会续：Dal Mare 揭十四年秘密（Stefano 伤了他）、称 Angela 患斯德哥尔摩、Peter 是「Horned God」；Giovanni 出场作证",
+   "anchor": "who saved me from the group",
+   "offset": 42480
+  },
+  {
+   "id": "F15",
+   "fact": "章末：Temidorus 解释 Hound 为何跟到 Greta 家（Dream 是常驻 Aspect）；两人决定去 Mortal Line 找 Dagon",
+   "anchor": "visit this Dagon",
+   "offset": 45296
+  }
+ ],
+ "numbers": [
+  {
+   "value": "twelve",
+   "what": "本章十二节（I–XII）",
+   "anchor": "\nXII\n",
+   "offset": 39500
+  },
+  {
+   "value": "eighteen",
+   "what": "书店死者数",
+   "anchor": "eighteen people are dead",
+   "offset": 14240
+  },
+  {
+   "value": "twenty days",
+   "what": "集会申请提前期",
+   "anchor": "twenty days in advance",
+   "offset": 37121
+  },
+  {
+   "value": "fifty-three",
+   "what": "Temidorus 的牙数",
+   "anchor": "All fifty-three.",
+   "offset": 39482
+  },
+  {
+   "value": "fourteen-year",
+   "what": "Dal Mare 保守的秘密年数",
+   "anchor": "a fourteen-year-old secret",
+   "offset": 40930
+  }
+ ],
+ "relations": [
+  {
+   "who": "Dagon",
+   "what": "朋克，替朋友找 Michele，约在 Mortal Line",
+   "anchor": "My name’s Dagon",
+   "offset": 5029
+  },
+  {
+   "who": "Augusto Dal Mare",
+   "what": "以幸存者身份开记者会，把夜战立成紧急状态",
+   "anchor": "the only survivor",
+   "offset": 14379
+  },
+  {
+   "who": "Giovanni",
+   "what": "为 Dal Mare 作证，删去 Luisa 之死",
+   "anchor": "who saved me from the group",
+   "offset": 42480
+  }
+ ]
+}
