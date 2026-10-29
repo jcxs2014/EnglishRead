@@ -1,0 +1,134 @@
+{
+  "chapter": "ch20",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch20_leah.txt",
+  "facts": [
+    {
+      "fact": "Leah 开篇自陈不知这段记录写给谁；她说必须解释发生了什么，但事情大半发生在黑暗里，分不清哪段是白天、也分不清夜与晨的界线，还得设法不让自己发疯。",
+      "anchor": "I don’t know who I’m writing this for, really.",
+      "start": 8,
+      "end": 54
+    },
+    {
+      "fact": "声响最初起于他们“所谓的夜”（其实是随意划定的一段白天之后）；来自舱体最南侧的一声突然吱嘎，宽长的起伏像搏动、像翅膀扇动、也像游动，随后又收缩退去。",
+      "anchor": "The noise first started at night – or really what we referred to as night",
+      "start": 346,
+      "end": 419
+    },
+    {
+      "fact": "此时三人已移入后舱、围着桌子坐；此前 Leah 检查盥洗间的淋浴，发现仍能出水且水显然不含盐；Jelka 挤进隔间仰头张嘴冲水，大家勉强吃了饭、收拾过；Matteo 放下一个铺位像要睡，又立刻起身。",
+      "anchor": "I had checked the shower in the wash stall and found it still in operation",
+      "start": 841,
+      "end": 915
+    },
+    {
+      "fact": "第一声响起时 Matteo 猜是鲸鱼，Jelka 反驳鲸鱼绝不会潜到这么深；Matteo 说“我们不知道自己有多深”，Jelka 只耸肩，两人反复争这个问题。",
+      "anchor": "Matteo suggested whales and Jelka argued that whales would never dive so deep",
+      "start": 1325,
+      "end": 1402
+    },
+    {
+      "fact": "声响再次出现在舱体另一侧、并向内压来；随后舱底一阵咔嗒、嗡鸣与尖刮，像是从下方逃逸舱（escape trunk）外侧传来，仿佛有东西在敲门要进来。",
+      "anchor": "there was a rattle around the base of the craft, a hum and screech",
+      "start": 2573,
+      "end": 2639
+    },
+    {
+      "fact": "Leah 用常识安抚自己：深水“不明声响”多半只是冰川崩解、冰架移动的余震或冰山龙骨刮擦海床；她回忆 Miri 看这类美式探秘纪录片时故意装信、笑她“没意思”，并强调“我们并不害怕”——真正该怕的事还没被解释。",
+      "anchor": "Miri would grin at me at the conclusion of these programmes",
+      "start": 3288,
+      "end": 3347
+    },
+    {
+      "fact": "Jelka 走到下舱门用脚尖点手轮、皱眉；叙述解释逃逸舱如气密舱，外门一开即被深海压力瞬间压死，此次任务书只要求观察并测绘所遇生物、不采集不带回，所以开内门查看理论上无害——声响仍从地板下传来。",
+      "anchor": "it was completely useless, as opening the outer door to deep-sea water-pressure",
+      "start": 4347,
+      "end": 4426
+    },
+    {
+      "fact": "Jelka 第二次用脚尖点手轮、单脚后仰退开，说了句“别傻了”（其实没人开口），随后回到桌边坐下，背对着舱门。",
+      "anchor": "she said, though no one had said anything",
+      "start": 5088,
+      "end": 5129
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Leah–Miri",
+      "kind": "伴侣：Miri 是 Leah 的伴侣/妻子，本章只在回忆中出现——爱看深海之谜纪录片，故意装作相信并取笑 Leah 的科学解释。",
+      "anchor": "Miri used to watch programmes which made much of these so-called mysteries",
+      "start": 3005,
+      "end": 3079
+    },
+    {
+      "pair": "Leah–Jelka",
+      "kind": "同船乘员/深潜同伴：Jelka 与 Leah 同在这艘深潜器里，听她报告淋浴可用便挤进隔间冲洗，并主导对舱门声响的查看。",
+      "anchor": "Jelka had said when I reported this, slipping past me into the stall",
+      "start": 988,
+      "end": 1056
+    },
+    {
+      "pair": "Leah–Matteo",
+      "kind": "同船乘员/深潜同伴：Matteo 与 Leah 同舱，放下铺位想睡又起身，并率先把声响猜成鲸鱼。",
+      "anchor": "Matteo had folded down one of the bunks",
+      "start": 1192,
+      "end": 1231
+    },
+    {
+      "pair": "Jelka–Matteo",
+      "kind": "同船同伴（争执者）：两人就声响是否来自鲸鱼反复争论，Jelka 以“从没听过鲸鱼发出那种声音”驳回。",
+      "anchor": "Matteo and Jelka were still arguing about whether or not the noise might be a whale",
+      "start": 2443,
+      "end": 2526
+    }
+  ],
+  "numbers": [
+    {
+      "value": "Leah（莉娅，本章叙述者/章名）",
+      "anchor": "Leah.\n\n\nI don’t know who I’m writing this for",
+      "start": 0,
+      "end": 45
+    },
+    {
+      "value": "Jelka（耶尔卡，同船乘员）",
+      "anchor": "Jelka stood and walked over to the lower hatch",
+      "start": 3972,
+      "end": 4018
+    },
+    {
+      "value": "Matteo（马泰奥，同船乘员）",
+      "anchor": "When the noise first came, Matteo suggested whales",
+      "start": 1298,
+      "end": 1348
+    },
+    {
+      "value": "Miri（米里，Leah 的伴侣）",
+      "anchor": "Miri would grin at me at the conclusion of these programmes",
+      "start": 3288,
+      "end": 3347
+    },
+    {
+      "value": "American（美式的，形容探秘纪录片风格）",
+      "anchor": "docu-style American deep-dives into popular phenomena which always ended",
+      "start": 3081,
+      "end": 3153
+    },
+    {
+      "value": "one（一个，指铺位之一）",
+      "anchor": "had folded down one of the bunks and settled down",
+      "start": 1199,
+      "end": 1248
+    },
+    {
+      "value": "a second time（第二次，Jelka 再点手轮）",
+      "anchor": "tapped her toe against the hand-wheel a second time",
+      "start": 4948,
+      "end": 4999
+    },
+    {
+      "value": "first（第一次，声响初起）",
+      "anchor": "The noise first started at night – or really what we referred to as night",
+      "start": 346,
+      "end": 419
+    }
+  ]
+}

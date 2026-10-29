@@ -27,7 +27,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "The noise first started at night – or really what we referred to as night, since it came long enough after an equally arbitrary stretch of daytime. A sudden creak around the southmost side of the craft, a long, wide, billowing motion."
+> **原句 2:** "We had moved into the rear chamber by this point and were sitting around the table. Sometime previously, I had checked the shower in the wash stall and found it still in operation, the water running and evidently free of salt."
+
+**中文理解**：那时他们已经搬进后舱，围着桌子坐着。更早一些，她检查过盥洗间的淋浴，发现它还在工作，水流着，而且明显不含盐。
+
+**关键词**：moved into the rear chamber / checked the shower / still in operation / evidently free of salt
+
+**为什么这样写**：这一段的动词全是完成时与过去完成时：搬进、检查过、发现「仍在运转」。叙述用一串「已经」把困境写成既成事实，最后落在「不含盐」这个物理细节上——在海水里，淡水成了奢侈品，而她们把它开在淋浴间里。作者不写绝望，只写基础设施还在正常工作的诡异。
+
+**读者视角提示**：注意「检查淋浴」这个动作在此处第二次出现（上一次是推断，这一次是实测）。它既是好消息，也是她们唯一还在做「家务」的证据。
+
+---
+
+> **原句 3:** "The noise first started at night – or really what we referred to as night, since it came long enough after an equally arbitrary stretch of daytime. A sudden creak around the southmost side of the craft, a long, wide, billowing motion."
 
 **中文理解**：叙述者先把“夜”这个说法拆掉——那只是“我们称作夜”的一段，因为它出现在同样随意的白天之后很久；然后才给出声音：船体最南侧突然一声嘎吱，接着是一片又长又宽的鼓荡。
 
@@ -39,7 +51,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "I thought about the dark beyond the windows and said nothing, shook my head at the tingle of fright that sat poised at the base of my spine and preparing to struggle higher. The ocean, I had to remind myself, was a place I felt safe and thinking about the ocean was the method by which I felt safest."
+> **原句 4:** "In our current situation, of course, it was completely useless, as opening the outer door to deep-sea water-pressure would result in whoever was in the escape trunk being instantly crushed. This was not an expedition which had ever anticipated any one of us going outside."
+
+**中文理解**：在眼下的处境里，逃逸舱当然完全没用：一旦打开外门，深海的水压会让身在舱里的人瞬间被压死。这次远征从来就没设想过她们中的任何人要出去。
+
+**关键词**：completely useless / instantly crushed / had ever anticipated / any one of us going outside
+
+**为什么这样写**：两句话把「出口」写成「死法」：先说它没用，再解释没用是因为一开就死人，最后用一句冷冰冰的任务说明收尾——没人被安排出去，所以谁也不必去想外门。这里的时态从 would 转成 had never anticipated，语气从推演滑向事实，读者比人物早一步明白：那声响无论是什么，都不打算请她们出去。
+
+**读者视角提示**：记住「逃逸舱」这三个字。它此后每次出现都带着「开即死」的注脚，而这一章结尾，Jelka 用脚尖敲的正是它的手轮。
+
+---
+
+> **原句 5:** "I thought about the dark beyond the windows and said nothing, shook my head at the tingle of fright that sat poised at the base of my spine and preparing to struggle higher. The ocean, I had to remind myself, was a place I felt safe and thinking about the ocean was the method by which I felt safest."
 
 **中文理解**：窗外的黑只被“想”了一次，人没有出声：她摇头，是否定那阵停在尾椎、正打算往上爬的恐惧；随后她把“海是安全的地方”重新念给自己听，并说“想海”就是她让自己安全的那套办法。
 
@@ -51,7 +75,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "Miri used to watch programmes which made much of these so-called mysteries, docu-style American deep-dives into popular phenomena which always ended on a note of jittery speculation: So is there a simple explanation, or is it something altogether more sinister? Only you can decide."
+> **原句 6:** "Miri used to watch programmes which made much of these so-called mysteries, docu-style American deep-dives into popular phenomena which always ended on a note of jittery speculation: So is there a simple explanation, or is it something altogether more sinister? Only you can decide."
 
 **中文理解**：话头转到 Miri 的观看习惯：她爱看那种把深海怪声做成谜题的纪录片——美式通俗深潜节目，结尾总要来一句“是简单解释，还是更阴森的东西？只有你能决定”；叙述者把这类节目的收尾句式原样搬进了自己的叙述。
 
@@ -63,7 +87,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "Pushing back her bench, Jelka stood and walked over to the lower hatch, tapped her toe against the hand-wheel and frowned. The escape trunk sat at the base of the craft and operated in a manner similar to any airlock, sealed off from the main body of the ship and designed to match the air pressure on the outside, which would allow the outer door to be opened."
+> **原句 7:** "Pushing back her bench, Jelka stood and walked over to the lower hatch, tapped her toe against the hand-wheel and frowned. The escape trunk sat at the base of the craft and operated in a manner similar to any airlock, sealed off from the main body of the ship and designed to match the air pressure on the outside, which would allow the outer door to be opened."
 
 **中文理解**：Jelka 推开长凳、站起、走过去、用脚尖敲了敲手轮、皱眉——五个动作挤在一句里；接着叙述者转去讲逃生筒：它像气闸一样封着，按设计要让内外气压相等，才好把外门打开。
 
