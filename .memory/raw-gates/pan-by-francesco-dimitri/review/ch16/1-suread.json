@@ -1,0 +1,119 @@
+{
+ "chapter": "ch16",
+ "file": "text/ch16_things_that_change_on_roman_nights.txt",
+ "text_chars": 24494,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "雨夜的鲜花广场反常地挤满人；Giordano Bruno 雕像下有人跳脱衣舞；两个几周前还不笑的褴褛小女孩在人群里",
+   "anchor": "something ancient walks the street",
+   "offset": 417
+  },
+  {
+   "id": "F2",
+   "fact": "Wendy 在露天桌上表演：喝干整杯啤酒、红巾盖杯变没、硬币三倍再消失；Peter Pan 坐第一排替她接杯",
+   "anchor": "Peter understood that it was up to him to catch it",
+   "offset": 2896
+  },
+  {
+   "id": "F3",
+   "fact": "Wendy 脱掉上衣在雨里表演，被拍视频；她说「把演出变成魔法只需一点点胆量」",
+   "anchor": "a touch of boldness is all it takes to transform the show into magic",
+   "offset": 4454
+  },
+  {
+   "id": "F4",
+   "fact": "Giovanni 与 Tinker Bell 在露天酒吧对坐：她说自己赤脚、非无害、提问即承诺；断言 Fatty Bolger 站在 Hook 一边、常识也站在 Hook 一边",
+   "anchor": "Let none of your senses be common.",
+   "offset": 10160
+  },
+  {
+   "id": "F5",
+   "fact": "Tinker Bell 说母亲救不回，但 Luisa 在 Flesh 里已失去、在 Enchantment 里可以夺回；Giovanni 这才想起自己一整天没想过 Luisa",
+   "anchor": "In Enchantment, you can get her back.",
+   "offset": 10672
+  },
+  {
+   "id": "F6",
+   "fact": "倒叙当日：Giovanni 在 Giada 家按 Michele 的话打了三个人、天变绿、Peter 出现并邀他「参加派对」，他忘掉母亲父亲与 Luisa 跟着走了",
+   "anchor": "“Are you joining us?”",
+   "offset": 11984
+  },
+  {
+   "id": "F7",
+   "fact": "Peter 请大家为 Stefano 与 Silvia 举杯（chartreuse），Angela 眼湿；Wendy 咬牙补一句「愿杀他们的人死于痛苦」",
+   "anchor": "they drink to a man they once knew",
+   "offset": 13644
+  },
+  {
+   "id": "F8",
+   "fact": "两个女孩上桌跳舞、亲吻；绿衣中年贵妇骂「瘾君子、酒鬼、恋童癖」并叫宪兵，Peter 把一杯啤酒泼在她身上",
+   "anchor": "You’re a pack of paedophiles.",
+   "offset": 17367
+  },
+  {
+   "id": "F9",
+   "fact": "Peter 站上桌子演讲：你们夺走魔法、污染性、抹掉 Enchantment，我们要全部拿回；孩子挖出贵妇右眼抛进人群，斗殴爆发",
+   "anchor": "we are going to take it all back",
+   "offset": 18880
+  },
+  {
+   "id": "F10",
+   "fact": "Wendy 拖 Peter 突围、Giovanni 替她挡拳；穿出人群时晨光升起——「太阳正升在梦幻岛上」；另一侧 Michele 守着昏睡的 Giada，两界叠影令他恶心，回罗马后敲响 Irene 的门喊救命",
+   "anchor": "The sun is rising on Neverland.",
+   "offset": 21561
+  }
+ ],
+ "numbers": [
+  {
+   "value": "seven",
+   "what": "本章七节（I–VII）",
+   "anchor": "\nVII\n",
+   "offset": 21594
+  },
+  {
+   "value": "fifty",
+   "what": "Giovanni 想起的五十岁病人",
+   "anchor": "a man of fifty",
+   "offset": 6329
+  },
+  {
+   "value": "fifteen and sixteen",
+   "what": "上桌跳舞的两个女孩年龄",
+   "anchor": "One is fifteen years old",
+   "offset": 15045
+  },
+  {
+   "value": "three",
+   "what": "Giovanni 在 Giada 家打的人（三个）",
+   "anchor": "beaten up three people",
+   "offset": 11183
+  },
+  {
+   "value": "twelve or thirteen",
+   "what": "Peter 的外表年龄",
+   "anchor": "He must be twelve, maybe thirteen",
+   "offset": 5983
+  }
+ ],
+ "relations": [
+  {
+   "who": "Tinker Bell",
+   "what": "赤脚仙灵，向 Giovanni 讲「许可论」，称 Fatty Bolger 站在 Hook 一边",
+   "anchor": "“Some have called me fairy.”",
+   "offset": 8310
+  },
+  {
+   "who": "Peter Pan",
+   "what": "率 Lost Children 接管广场、演讲宣战、宣告「你们不再安全」",
+   "anchor": "“We are the Lost Children",
+   "offset": 18980
+  },
+  {
+   "who": "Irene",
+   "what": "Michele 求助的对象，开门听他说「Help」",
+   "anchor": "“Help,” says Michele.",
+   "offset": 24472
+  }
+ ]
+}

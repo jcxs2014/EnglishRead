@@ -1,0 +1,403 @@
+{
+  "chapter": 16,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/ch16 things that change on roman nights.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch16_things_that_change_on_roman_nights.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Tonight, in the rain, something ancient walks the street, something that’s not current and not past either. Some have he",
+          "ok": true,
+          "pos": 376
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Among them are two shabbily-dressed little girls: they weren’t laughing at all, until a few weeks ago",
+          "ok": true,
+          "pos": 957
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She’s draining a tankard of beer to the last drop. Dozens of people are watching her, and Peter Pan is in the front row",
+          "ok": true,
+          "pos": 2005
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It’s years since she’s had this much fun on stage",
+          "ok": true,
+          "pos": 3591
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Wendy is in control of herself: if she wasn’t, she wouldn’t even be able to manage such simple tricks. Yet she feels bol",
+          "ok": true,
+          "pos": 4250
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "the look of a madman in the last moments of lucidity, when he knew he was on the brink of losing awareness. And he wante",
+          "ok": true,
+          "pos": 6675
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Common sense is on Hook’s side. Let none of your senses be common. Make them all extraordinary",
+          "ok": true,
+          "pos": 9809
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Luisa, though? In Flesh, she’s lost. In Enchantment, you can get her back",
+          "ok": true,
+          "pos": 10289
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "They are the Lost, and they drink to a man they once knew",
+          "ok": true,
+          "pos": 13166
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "You have ripped magic from us, you have polluted sex, you have erased Enchantment from the world. But we”—Peter raises h",
+          "ok": true,
+          "pos": 18170
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "One child pokes a finger into the woman’s right eye",
+          "ok": true,
+          "pos": 18956
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "The sun is rising on Neverland",
+          "ok": true,
+          "pos": 20912
+        }
+      ],
+      "words": 6
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.41
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.46,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.26
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 75
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.68
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Things That Change on Roman Nights",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 14.0,
+    "block_range": [
+      8,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4308,
+    "block_target": [
+      8,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 29 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

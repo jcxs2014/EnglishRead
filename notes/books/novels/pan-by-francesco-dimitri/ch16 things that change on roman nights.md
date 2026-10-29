@@ -27,7 +27,7 @@ modified: "2026-10-29"
 
 **中文理解**：围观欢呼的人群里有两个衣衫褴褛的小女孩：几周以前，她们完全不笑。
 **关键词**：shabbily-dressed, laughing, weeks
-**为什么这样写**：插入语的 until 时态是全书的良心刻度——读者认得出这是被从街头救起的孩子（Vesna 招募线的受益者）；「笑」在本书是治疗指标，与 ch15「人们需要放手」的家教呼应。
+**为什么这样写**：插入语的 until 时态是全书的良心刻度——读者认得出这是被孩子军团从街头收编的人（与 ch07 街头救下 Vesna 同一模式）；「笑」在本书是治疗指标，与 ch15「人们需要放手」的家教呼应。
 **读者视角提示**：同节双子向十六岁少年讲述袭击海盗的战绩（沸水当武器、起火）——夜战开始以都市传说的形态回流进普通人的耳朵。
 
 ---
@@ -55,7 +55,7 @@ modified: "2026-10-29"
 **中文理解**：Wendy 对自己有掌控：失控的人连这么简单的戏法都完成不了；但她今夜大胆，而把演出变成魔法，只需要一点点胆量。
 **关键词**：control, tricks, magic
 **为什么这样写**：叙述者在本节为全书最核心的等式写下注脚：戏法与魔法之间隔的不是能力是授权；这也为 Giovanni 一节的「许可论」作逆向铺垫——她先大胆后用理性解释，他先求许可后被神说服。
-**读者视角提示**：这句同时回收 ch12 她的台词「Peace through all means」之讥——那晚她质疑语言被 Hook 征用，今夜她把身体借给语言生效。
+**读者视角提示**：这句同时回收 ch07 她的台词「Peace through all means? That doesn’t sound creepy to you?」之讥——那次她质疑母亲口中的和平话术，今夜她把身体借给另一种语言生效。
 
 ---
 
@@ -81,7 +81,7 @@ modified: "2026-10-29"
 
 **中文理解**：母亲救不回；但 Luisa——在 Flesh 里她已经丢了，在 Enchantment 里你能把她夺回来。
 **关键词**：lost, get her back
-**为什么这样写**：Tinker Bell 把 ch19 的死讯与复活的可能用两个介词并列——Flesh/Enchantment 不是地点是归属状态；这也埋下全书最大的伦理陷阱：救 Luisa 与信 Hook 的谎言只差一层（Giovanni 已两次为神麻醉）。
+**为什么这样写**：Tinker Bell 把 Luisa 在 Flesh 中的「已经丢了」与在 Enchantment 中的「可以夺回」用两个介词并列（她的死要到 ch19 才落定）——Flesh/Enchantment 不是地点是归属状态；这也埋下全书最大的伦理陷阱：救 Luisa 与信 Hook 的谎言只差一层（Giovanni 已两次为神麻醉）。
 **读者视角提示**：Luisa. Luisa! 两个词的独段与「Up to this moment, Giovanni hasn’t thought about her」——本章对麻木最狠的一次自我控诉。
 
 ---
@@ -127,7 +127,7 @@ modified: "2026-10-29"
 |---|---|---|
 | Enchantment | 魔魅之力（本书世界观第三层专名） | It’s a night of Enchantment and madness. |
 | Renaissance | 文艺复兴的（此处指雕像人物 Bruno） | The Renaissance mage in his hood and tunic watches intently as he improvises a strip show. |
-| improvises | 即性表演 | The Renaissance mage in his hood and tunic watches intently as he improvises a strip show. |
+| improvises | 即兴表演 | The Renaissance mage in his hood and tunic watches intently as he improvises a strip show. |
 | incessantly | 不停地 | Another incessantly repeats the only two guitar chords that he knows. |
 | diva-esque | 天后派头的 | She pushes him back with a diva-esque gesture. |
 | unpretentious | 不张扬的 | Giovanni swallows a sip of wine, an unpretentious Nero d’Avola. |
@@ -145,7 +145,7 @@ modified: "2026-10-29"
 | cross-legged | 盘腿的 | The Wondrous Wendy is sitting cross-legged on an outdoor table. |
 | magnetized | 被磁吸住的 | His attention was magnetized to the swaggering boy. |
 | swaggering | 大摇大摆的 | His attention was magnetized to the swaggering boy. |
-| exceptional |  exceptional 出众的 | She had a great heart and great intelligence, and she raised three exceptional children. |
+| exceptional | 出众的 | She had a great heart and great intelligence, and she raised three exceptional children. |
 | low-waisted | 低腰的 | The already low-waisted trousers slip lower still, revealing a strip of a red G-string. |
 | compliments | 恭维 | He kisses her on the cheek. “Nice arse,” he compliments her. |
 | intensifies | 加剧 | The woman is in a frenzied rage, which intensifies when two men in uniform come running from a nearby street. |
