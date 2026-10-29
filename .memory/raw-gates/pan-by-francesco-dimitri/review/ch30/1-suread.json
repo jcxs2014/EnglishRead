@@ -1,0 +1,101 @@
+{
+ "chapter": "ch30",
+ "file": "text/ch30_epilogue.txt",
+ "text_chars": 4185,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "Dagon 出院回家，发现 Temidorus 摊在沙发上、还带来「凡人线」酒吧的朋友；卧室里躺着一位春绿头发的树精",
+   "anchor": "Temidorus saved his life, at the end of the battle",
+   "offset": 129
+  },
+  {
+   "id": "F2",
+   "fact": "Temidorus 说 Pan「好多了」：Michele、Giovanni 与 Giada 把他叫去训话，警告暴力必须停止",
+   "anchor": "gave him a good talking to",
+   "offset": 920
+  },
+  {
+   "id": "F3",
+   "fact": "派对仍在开；Lost Children 不肯回家，说跟 Pan 待着更快乐",
+   "anchor": "they’re happier staying with Pan",
+   "offset": 1294
+  },
+  {
+   "id": "F4",
+   "fact": "Enchantment 复兴到「我得去买衣服」的地步；很多人发誓看得见怪物",
+   "anchor": "I actually had to buy clothes",
+   "offset": 1559
+  },
+  {
+   "id": "F5",
+   "fact": "Michele 逼官僚的灵抹掉 Greyface 的记忆；Dal Mare 一堆调查、法官放弃搞清全貌，「目前死得挺透」",
+   "anchor": "Dal Mare is pretty dead, at the moment",
+   "offset": 1987
+  },
+  {
+   "id": "F6",
+   "fact": "Greta：Michele 想杀她，Temidorus 以「Stefano 对 Augusto 也这么想」劝住，最终饶她一命",
+   "anchor": "I convinced him to spare her",
+   "offset": 2366
+  },
+  {
+   "id": "F7",
+   "fact": "Angela 与 Giada、Tinker Bell 组巡演秀（魔术＋burlesque），明天柏林首演",
+   "anchor": "They’re debuting tomorrow in Berlin",
+   "offset": 2732
+  },
+  {
+   "id": "F8",
+   "fact": "Giovanni 清理家产、起诉挂 Dal Mare 名字的公司，用忙碌熬过 Luisa 的死",
+   "anchor": "He wants to keep busy so he doesn’t think too much about Luisa",
+   "offset": 3566
+  },
+  {
+   "id": "F9",
+   "fact": "Temidorus 赖着不走，与 Dagon 讨价还价从一个月谈到两个月；末句「我请了几个朋友今晚过来」",
+   "anchor": "I invited a few friends over tonight",
+   "offset": 4146
+  }
+ ],
+ "numbers": [
+  {
+   "value": "one month",
+   "what": "Dagon 的治疗时长",
+   "anchor": "after a month of treatment",
+   "offset": 243
+  },
+  {
+   "value": "one month / two",
+   "what": "Temidorus 借住谈判：一个月→三个月→两个月成交",
+   "anchor": "“I’ll let you stay a month.”",
+   "offset": 4008
+  },
+  {
+   "value": "Berlin",
+   "what": "巡演首演城市",
+   "anchor": "debuting tomorrow in Berlin",
+   "offset": 2740
+  }
+ ],
+ "relations": [
+  {
+   "who": "Temidorus",
+   "what": "救 Dagon 一命、占他房子、以两个月为期住下",
+   "anchor": "You weren’t using the flat",
+   "offset": 3911
+  },
+  {
+   "who": "Michele",
+   "what": "缺席但被反复提到：抹 Greyface 记忆、看管 Pan、想杀 Greta 被劝住",
+   "anchor": "He’s hassling the spirits of bureaucracy",
+   "offset": 1630
+  },
+  {
+   "who": "Giovanni",
+   "what": "清家产、起诉 Dal Mare 的公司，用忙碌对抗丧妻之痛",
+   "anchor": "He’s sorting out the family assets",
+   "offset": 3172
+  }
+ ]
+}
