@@ -1,0 +1,119 @@
+{
+ "chapter": "ch24",
+ "file": "text/ch24_mother_city.txt",
+ "text_chars": 20187,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "Temidorus 在回城车上揭底：Barrie（他念成 Barro）是巫师，用一则故事把 Faunus 与 Greyface 钉进神话当牢房",
+   "anchor": "that Barro imprisoned Faunus and Greyface inside a story",
+   "offset": 166
+  },
+  {
+   "id": "F2",
+   "fact": "Michele 第一次用萨满眼看见罗马：车灵、街守护者、石像鬼、恶魔舔新生儿、学生耳边死亡低语",
+   "anchor": "The city breathes, pulses with the beat of millions of hearts.",
+   "offset": 1448
+  },
+  {
+   "id": "F3",
+   "fact": "帕拉塞尔苏斯四元素（地精/火蜥/水精/气精）加上电的新元素；另有循环播放的街头暴力场景、烤肉与汽油味",
+   "anchor": "There are four classes of elemental classified by the great Paracelsus",
+   "offset": 3045
+  },
+  {
+   "id": "F4",
+   "fact": "Michele 能忽略求助声（像吵闹派对里交谈），自认这是 Irene 的课；罗马对他永远吵，也永远是派对",
+   "anchor": "Thanks to Irene’s lessons.",
+   "offset": 5536
+  },
+  {
+   "id": "F5",
+   "fact": "Temidorus 需要安静处与马裤；两人去 Villa Ada 密林，途中孩子见他就哭、黑白梗犬挣脱牵引狂喜扑他",
+   "anchor": "I need a quiet place and some breeches",
+   "offset": 5680
+  },
+  {
+   "id": "F6",
+   "fact": "林中圆形空地叠着旧仪式残影：裸男女围着大火与缠彩带的绿柱跳舞，蓝光成锥通到星空；Michele 说「Irene 的朋友们来过」",
+   "anchor": "Irene’s friends were here",
+   "offset": 8258
+  },
+  {
+   "id": "F7",
+   "fact": "Temidorus 抱孙子睡，蓝光温暖 Michele；他说「这不是我做的事，是我本身」——「滚烫」",
+   "anchor": "This isn’t something I do, it’s something I am.",
+   "offset": 9738
+  },
+  {
+   "id": "F8",
+   "fact": "傍晚 Michele 用会说话的手机（蛇形小灵）约 Greta；坐公交时替座椅灵缝补裂口，领悟「凡人只是转头不看」",
+   "anchor": "all they knew how to do was look the other way",
+   "offset": 12937
+  },
+  {
+   "id": "F9",
+   "fact": "Greta 家在 Parioli；他洗澡（喷头是镀铬龙嘴）、吃蘑菇宽面；对她编造「Dal Mare 爱 Silvia、求而不得遂杀之」的版本",
+   "anchor": "Dal Mare was in love with Silvia",
+   "offset": 15114
+  },
+  {
+   "id": "F10",
+   "fact": "三步计划：先除 Wedge、再向 Greta 讨回父亲的 sabre（能杀神的武器）、再学会用它；他向枕头灵求证，看见 Wedge 的梦（把 Michele 编成祭品、自己救他、随后伏在 Greta 身上）",
+   "anchor": "First he will get rid of Wedge.",
+   "offset": 17974
+  }
+ ],
+ "numbers": [
+  {
+   "value": "four",
+   "what": "本章四节（I–IV）",
+   "anchor": "\nIV\n",
+   "offset": 16887
+  },
+  {
+   "value": "four classes",
+   "what": "帕拉塞尔苏斯元素分类数",
+   "anchor": "four classes of elemental",
+   "offset": 3055
+  },
+  {
+   "value": "seven in the evening",
+   "what": "约 Greta 的时刻",
+   "anchor": "At seven in the evening on the 13th of February",
+   "offset": 11473
+  },
+  {
+   "value": "two stops",
+   "what": "座椅灵告诉他下车距站数",
+   "anchor": "In two stops.",
+   "offset": 13363
+  },
+  {
+   "value": "three bookcases",
+   "what": "Greta 家走廊书柜数",
+   "anchor": "three bookcases",
+   "offset": 13560
+  }
+ ],
+ "relations": [
+  {
+   "who": "Temidorus",
+   "what": "Michele 的外公，faun，讲出 Barrie 囚神",
+   "anchor": "imprisoned Faunus and Greyface",
+   "offset": 177
+  },
+  {
+   "who": "Greta",
+   "what": "Michele 的女友，收留他并持着那把 sabre",
+   "anchor": "his father’s sabre",
+   "offset": 18042
+  },
+  {
+   "who": "Wedge",
+   "what": "Hook 的梦猎犬，在 Greta 梦中现形",
+   "anchor": "Hook’s dog",
+   "offset": 20140
+  }
+ ]
+}
