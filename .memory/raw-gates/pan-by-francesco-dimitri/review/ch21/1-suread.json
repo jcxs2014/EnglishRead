@@ -1,0 +1,119 @@
+{
+ "chapter": "ch21",
+ "file": "text/ch21_fairy_dust.txt",
+ "text_chars": 27851,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "战后第一夜无庆功：孩子们兴奋难眠、满身血污，Giada 与 Wendy 劝他们先洗（血腥味招野兽）；火边只剩 Peter、Wendy、Giada、Tinker Bell 与远处吹萨克斯的 Tito",
+   "anchor": "No party tonight.",
+   "offset": 38
+  },
+  {
+   "id": "F2",
+   "fact": "Tinker Bell 认错「是我的错」，Peter 附和「没错」，Giada 反驳「我们瞎冲，Dal Mare 有计划」；Tinker Bell 讲精灵断代史：19–20 世纪之交 Enchantment 退走西方，工业与烟碾过去",
+   "anchor": "by the calendar of Flesh, Enchantment moved away",
+   "offset": 1665
+  },
+  {
+   "id": "F3",
+   "fact": "Tinker Bell 揭出 Luisa 是「换子」精灵：她为一个男人放弃本族长寿（已活近一世纪），本相是精灵；被换走时她正死于痨病，那次交换是礼物",
+   "anchor": "Luisa made herself a woman for him, but her original nature was that of a fairy.",
+   "offset": 3863
+  },
+  {
+   "id": "F4",
+   "fact": "Wendy 问怎么处理 Giovanni；Peter 说「选择在 Wendy」，Wendy 答「选择不在我，在他」",
+   "anchor": "The choice isn’t mine. It’s his.",
+   "offset": 4867
+  },
+  {
+   "id": "F5",
+   "fact": "Giovanni 一夜未眠，脑内「控告者」与「辩护者」互审；黎明 Augusto 请他吃早餐，告知 Luisa 是精灵、是叛逆的一支",
+   "anchor": "His mind has been split in two, the Accuser and the Defender.",
+   "offset": 5042
+  },
+  {
+   "id": "F6",
+   "fact": "Augusto 的神学：Peter 是真神 Pan——rape 与无度享乐之神，要让同类开路、让凡人做奴隶；他自认手下非圣人，只求「物证」；Giovanni 反问「你亲眼见我做了什么」",
+   "anchor": "Pan, the god of rape and wanton pleasure",
+   "offset": 7923
+  },
+  {
+   "id": "F7",
+   "fact": "Giovanni 问「制服找谁领」——以复仇为名投入 Hook 阵营",
+   "anchor": "“Who do I need to talk to about a uniform?”",
+   "offset": 13256
+  },
+  {
+   "id": "F8",
+   "fact": "Giada 与 Wendy 在河里争论「这座岛生物学上说不通」；Giada 引普鲁塔克：潘随基督降世而死，后世把撒旦塑成羊腿模样；她说「Hook 未必比 Peter 少一点神性」",
+   "anchor": "Plutarch, you know, the Roman author",
+   "offset": 15630
+  },
+  {
+   "id": "F9",
+   "fact": "正午沙滩：Peter 裸身晒太阳，回忆阿卡迪亚牧人怕他显形；宣布返罗马「适应新时代」，把岛上防务交给 Exalted Strategist 与 Just Exalted，自己去找 Retinue 的女孩",
+   "anchor": "I must return to Rome, understand the new age. Adapt.",
+   "offset": 19516
+  },
+  {
+   "id": "F10",
+   "fact": "当夜 Tinker Bell 赴「游泳之约」：她雌雄同体、可现男身；与 Wendy、Giada 交合，Wendy 在高潮后与 Giada 一同飞离地面；Tinker Bell 说「仙尘——你以为是什么？」",
+   "anchor": "“Fairy dust,” she says. “What did you think it was?”",
+   "offset": 27798
+  }
+ ],
+ "numbers": [
+  {
+   "value": "five",
+   "what": "本章五节（I–V）",
+   "anchor": "\nV\n",
+   "offset": 21074
+  },
+  {
+   "value": "19th and 20th centuries",
+   "what": "Enchantment 退走的时段",
+   "anchor": "Between the 19th and 20th centuries",
+   "offset": 1605
+  },
+  {
+   "value": "almost a century",
+   "what": "Luisa 已活年数",
+   "anchor": "She had already lived almost a century",
+   "offset": 3686
+  },
+  {
+   "value": "fifteen years ago",
+   "what": "Augusto 说十五年前会强迫 Giovanni 留下",
+   "anchor": "fifteen years ago",
+   "offset": 12770
+  },
+  {
+   "value": "five sequoias",
+   "what": "河对岸排列的巨杉数",
+   "anchor": "five sequoias",
+   "offset": 14575
+  }
+ ],
+ "relations": [
+  {
+   "who": "Tinker Bell",
+   "what": "精灵，讲断代史并揭 Luisa 身世，章末以身体教飞",
+   "anchor": "“Fairy dust,” she says.",
+   "offset": 27798
+  },
+  {
+   "who": "Augusto Dal Mare",
+   "what": "Hook，以早餐与神学收编 Giovanni",
+   "anchor": "“Who do I need to talk to about a uniform?”",
+   "offset": 13256
+  },
+  {
+   "who": "Luisa",
+   "what": "换子精灵，为 Giovanni 自贬为人",
+   "anchor": "her original nature was that of a fairy",
+   "offset": 3903
+  }
+ ]
+}
