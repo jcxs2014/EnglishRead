@@ -27,6 +27,10 @@ modified: "2026-10-29"
 
 ---
 
+---
+
+---
+
 > **原句 2:** "I remember her tone as conversational yet curiously distant – distant in a literal sense, as though she was holding the phone away from her. The background noise was difficult to parse: a shuttling sound, a succession of jerkings and shudderings, as though someone was moving large pieces of furniture across the floor."
 
 **中文理解**：那女人的语气像在闲聊，可又远得古怪——不是冷淡的远，是物理上的远，像把话筒举在身体外面。背景音她辨不清：来回穿梭的响、一串抽动与震颤，像有人把大件家具在地板上拖过去。
@@ -36,6 +40,10 @@ modified: "2026-10-29"
 **为什么这样写**：`distant` 出现两次，第二次被 `in a literal sense` 钉住，把形容词改写成一次距离测量；`shuttling`、`jerkings and shudderings` 都是动作名词，声音因此被写成「有东西在动」而不是「有人在说话」；`large pieces of furniture across the floor` 是搬家式的比喻，本章后面的浴缸、水瓶、洗碗盆正好是同一种搬运。
 
 **读者视角提示**：她辨不出那是什么声音，读者辨得出——海被放在听觉里，而且不由 Miri 说破。
+
+---
+
+---
 
 ---
 
@@ -51,6 +59,10 @@ modified: "2026-10-29"
 
 ---
 
+---
+
+---
+
 > **原句 4:** "Some twenty minutes after I call her, Juna is outside in a dark green Volvo; an ichthys decal in the back window above a sticker reading Would you follow Jesus this close? “My sister’s car,” she explains, when she catches me looking, “don’t have the energy to scrape the fuckers off.”"
 
 **中文理解**：打完电话二十分钟，Juna 已经到了，开一辆深绿的 Volvo；后窗贴着鱼形贴纸，上面一行字问她要不要跟耶稣跟得这么近。她发现 Miri 在看，就解释车是姐姐的，她没力气把那些贴纸刮掉。
@@ -63,7 +75,53 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "I leave her face until last, lift her up and look at her, at the traces of a person I still recognise, and then Juna calls from the other room and I think to myself OK and then I take the white flannel from the edge of the sink and I press it over her face."
+---
+
+---
+
+> **原句 5:** "She is wrapped up in a moleskin coat over what appear to be pyjamas. She looks at me frankly – a stickiness of bed still clinging to her edges – and I find that I badly want to call Carmen or Sam or anyone at all who isn’t the stranger in front of me now."
+
+**中文理解**：Juna 裹着一件鼹鼠皮大衣，里面像是睡衣。她直直地看她——边缘还挂着床的黏腻气——那一刻她很想打电话给 Carmen 或 Sam，随便谁，只要不是站在面前这个陌生人。
+
+**关键词**：a moleskin coat / a stickiness of bed / badly want to call Carmen or Sam / the stranger in front of me
+
+**为什么这样写**：先给两件穿戴（大衣、睡衣），再给一个身体细节 `a stickiness of bed`，最后才承认想逃。`anyone at all who isn’t the stranger` 把「想要人陪」和「不想要她」写在同一句里——她需要一个能分担的人，但不是眼前这个。
+
+**读者视角提示**：注意她此刻还站在门口，Prompt 的是「她认识谁」而不是「她需要什么」。
+
+---
+
+---
+
+> **原句 6:** "Her reaction appears to justify this instinct – she appraises Leah in the bathtub, looks at me, eyes the towels I have piled, sopping wet, in the sink. “OK,” she says, “so I guess we’ll need water.”"
+
+**中文理解**：她的反应似乎证明了这个直觉是对的：她打量着浴缸里的 Leah，看她，又看水槽里堆着的湿毛巾。然后她说：「好吧，那我想我们需要水。」
+
+**关键词**：appraises Leah in the bathtub / eyes the towels / sopping wet / so I guess we’ll need water
+
+**为什么这样写**：三个动作串成一次验看：看 Leah、看她、看毛巾。谁也不问「她怎么了」，一句解释都不需要，结论直接跳到物资——`we’ll need water` 是全章第一次有人把这件事当成可以操作的事。作者让 `OK` 单独起头，像医生进门先应一声。
+
+**读者视角提示**：这一句也回答了 Miri 为什么「不先警告她」：她要的就是不被追问的反应。
+
+---
+
+---
+
+> **原句 7:** "We fill several plastic bottles from the tap, take out the washing-up bowls I keep under the sink and fill them too, mixing salt into each before ferrying them down to the Volvo."
+
+**中文理解**：她们用自来水灌满好几个塑料瓶，把水槽下面的洗碗盆也拿出来灌满，每一份都掺进盐，再一趟趟搬下楼、搬进那辆沃尔沃。
+
+**关键词**：plastic bottles from the tap / the washing-up bowls / mixing salt into each / ferrying them down to the Volvo
+
+**为什么这样写**：这一句没有一个人称代词，全是动作与容器：瓶、盆、盐、车。`ferrying` 是来回摆渡的意思，把两个人写成搬运工。全章最要紧的转移（把 Leah 运走）之前，先写一次纯粹的物资搬运——像是给后面的搬运做预演。
+
+**读者视角提示**：盐在整本书里一直是维持 Leah 的东西；这里它被批量装进瓶子和盆，说明她预计这趟要走得比一晚更久。
+
+---
+
+---
+
+> **原句 8:** "I leave her face until last, lift her up and look at her, at the traces of a person I still recognise, and then Juna calls from the other room and I think to myself OK and then I take the white flannel from the edge of the sink and I press it over her face."
 
 **中文理解**：她最后才处理脸：把 Leah 抱起来看，看见的是一个她认得出的人留下的痕迹；Juna 在另一间屋喊她，她心里应了一声，然后从水槽边拿起白毛巾，按到那张脸上。
 
@@ -75,7 +133,23 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "I give Juna directions and imagine our upstairs neighbours waking up in the morning somehow knowing that their television now only plays to an absence below. The night is dark and Juna drives us into it and I feel vaguely doomed, vaguely certain of an ending I can’t see."
+---
+
+---
+
+> **原句 9:** "In the car, I stretch her out across the back seats, hold her head in my lap and listen to the shiver of her breathing through the salt-wet flannel. Every so often, I will take this flannel away from her, dip it in one of the basins of water at my feet and return it to her face again."
+
+**中文理解**：在车里，她把她摊平在后座上，让她的头枕在自己腿上，隔着浸过盐水的法兰绒听她呼吸的抖。
+
+**关键词**：stretch her out across the back seats / hold her head in my lap / the shiver of her breathing / the salt-wet flannel
+
+**为什么这样写**：三个动作按身体接触的深浅排列：摊平、枕腿、听。`the shiver of her breathing` 是把呼吸写成一种颤动而不是气流，`through the salt-wet flannel` 又隔了一层——她只能听见，不能看见。
+
+**读者视角提示**：这是全书她第一次以「抱着」的姿势运送 Leah，而不是拖着或扶着。注意她听的是「抖」，不是「声音」。
+
+---
+
+> **原句 10:** "I give Juna directions and imagine our upstairs neighbours waking up in the morning somehow knowing that their television now only plays to an absence below. The night is dark and Juna drives us into it and I feel vaguely doomed, vaguely certain of an ending I can’t see."
 
 **中文理解**：她在车上给 Juna 指路，同时想象楼上的邻居早上醒来，会莫名知道自家电视现在只对着楼下一片空；夜是黑的，Juna 把车开进去，她隐约觉得自己完了，又隐约确定有一个她看不见的结局。
 
@@ -84,6 +158,8 @@ modified: "2026-10-29"
 **为什么这样写**：指路是全段唯一的现在动作，其余都在想象里；`only plays to an absence below` 把空掉的房间写成电视唯一的听众，`absence` 是她全章唯一直接说出「人不在了」的词。结尾两个 `vaguely` 并排，一个管感觉、一个管确定——`vaguely certain` 是自相矛盾的搭配，正好是她此刻的位置。
 
 **读者视角提示**：`I can’t see` 与开头盯着地毯相呼应：这一章她始终在看很近的东西，最后看的是一个看不见的结局。
+
+---
 
 ## 本章词汇
 
