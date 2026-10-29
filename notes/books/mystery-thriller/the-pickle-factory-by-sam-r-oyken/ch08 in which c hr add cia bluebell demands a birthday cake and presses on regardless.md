@@ -14,7 +14,7 @@ modified: "2026-10-29"
 
 ## 精读
 > **原句 1:** "“If there ain’t no birthday cake,” said the Chief of Human Resources/Associate Deputy Director of the United States Central Intelligence Agency from behind his massive Seventh Floor desk, “I ain’t signin’ off on it.”"
-**中文理解**：人力资源总监兼中央情报局代理副局长从七楼的大办公桌后放话：没有生日蛋糕，他就不在文件上签字。
+**中文理解**：人力资源主管兼中央情报局助理副局长（Associate Deputy Director）从七楼的大办公桌后放话：没有生日蛋糕，他就不在文件上签字。
 **关键词**：ain’t / birthday cake / Chief of Human Resources / Seventh Floor / signin’ off
 **为什么这样写**：开章第一句就把「签字放行」绑在「生日蛋糕」上，用荒谬条件定义官僚权力，读者立刻认出这是一位喜剧化的高官。
 **读者视角提示**：官衔又长又正式，说话却是「ain’t」土腔，头衔与嘴脸的反差就是全章的笑点引擎。
@@ -44,7 +44,7 @@ modified: "2026-10-29"
 **读者视角提示**：「不到五十小时」再次出现，同一个时限从站长口中的难题变成了这里的发火理由。
 
 > **原句 6:** "But how in tarnation is the agent gonna feel welcome and at home if we go around actin’ like the █████ TSA? I may be the Associate Deputy Director a the United States Central Intelligence Agency, but I’m also the Chief a Human Resources fer Pete’s sake, and that ain’t how us folks over in HR welcome a guest — HR is here to help, dammit!"
-**中文理解**：他反问：要是像 TSA 那样对待特工，他还怎么感到受欢迎和自在？他既是中央情报局代理副局长又是人事主管，而人事部门的规矩是「HR 是来帮忙的」。
+**中文理解**：他反问：要是像 TSA 那样对待特工，他还怎么感到受欢迎和自在？他既是中央情报局助理副局长又是人事主管，而人事部门的规矩是「HR 是来帮忙的」。
 **关键词**：tarnation / agent / welcome and at home / TSA / Associate Deputy Director / Human Resources / HR is here to help
 **为什么这样写**：把「HR 是来帮忙的」这句职场口号喊成反对像 TSA 那样行事的理由，官衔和立场拧成麻花——身份越是权威，逻辑越显得荒唐。
 **读者视角提示**：「█████」是消音处理，五个格子正好让读者用自己对安检机构的印象去填空。
