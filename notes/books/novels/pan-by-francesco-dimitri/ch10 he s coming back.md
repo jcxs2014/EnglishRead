@@ -19,7 +19,7 @@ modified: "2026-10-29"
 **中文理解**：Giada 光着身子在屋里又唱又跳又蹦跶，拿发梳当话筒，然后一头瘫倒在床上，累得不行。
 **关键词**：naked, hairbrush, flops, exhausted
 **为什么这样写**：三个连续动作（dances / uses / flops）配一件家用物（hairbrush），把 ch06 登场时那个清运工的私密一面直接摊开——她的身体不属于任何人，只属于房间里那台立体声；flops、exhausted 这类带疲态的口语词消解了情色暗示，先让读者把她当活人再看她被注视。
-**读者视角提示**：注意本节开头那句 "Should I stay or should I go? bawl the Clash on the stereo."：歌词是本章的隐形提问，Giada 与 Michele 各自都要回答「留还是走」，而两人都没能自己选。
+**读者视角提示**：本节最前面还单独成段给了一行歌词（留还是走，唱的人是 The Clash）——这句提问是本节的隐形标题，Giada 与 Michele 各自都要回答「留还是走」，而两人都没能自己选。
 
 ---
 

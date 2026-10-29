@@ -1,0 +1,481 @@
+{
+ "book": "pan-by-francesco-dimitri",
+ "chapter": "ch17",
+ "text": "notes/books/novels/pan-by-francesco-dimitri/text/ch17_neverland.txt",
+ "facts": [
+  {
+   "fact": "ch17 开场以第二人称对全体读者说话：你也去过梦幻岛",
+   "anchor": "Once you were there too. You too dreamed of it, or saw it in the face of a dying friend",
+   "start": 36,
+   "end": 123
+  },
+  {
+   "fact": "坠落改写为出床跌进星空与海",
+   "anchor": "Let’s say you fell out of bed, when you were little. The floor opened up under you",
+   "start": 145,
+   "end": 227
+  },
+  {
+   "fact": "挥手才发现不是坠落而是飞行",
+   "anchor": "You flailed your arms in the air, then realised that you weren’t falling. You were flying",
+   "start": 336,
+   "end": 425
+  },
+  {
+   "fact": "橡椰榆榛同林生长：科学让位于更古老的规则",
+   "anchor": "In theory they couldn’t grow together, but here they do, because here the laws of science give way to older rules",
+   "start": 765,
+   "end": 878
+  },
+  {
+   "fact": "岛的定义式否定三连：没有父母、老师、偷走周日的神父",
+   "anchor": "There were no parents to shout at you, no teachers to punish you, and there were no priests to steal your Sunday",
+   "start": 921,
+   "end": 1033
+  },
+  {
+   "fact": "虎百合是酋长之女，一箭猎野牛，向空中的「你」点头致意",
+   "anchor": "whose name was Tiger Lily. One time you saw her all alone, following the tracks of a bison, which she felled with a single arrow",
+   "start": 1231,
+   "end": 1359
+  },
+  {
+   "fact": "空心树里睡的是无父无母的 Lost Children",
+   "anchor": "You can’t have forgotten the hollow tree where the Lost Children slept, alone, with no mama, no papa",
+   "start": 1666,
+   "end": 1766
+  },
+  {
+   "fact": "孩子们说 Peter 或 Hook 早晚回来，毫不焦虑",
+   "anchor": "the Children would say, not in the least disturbed",
+   "start": 2051,
+   "end": 2101
+  },
+  {
+   "fact": "岛的道德公理：不危险者不美",
+   "anchor": "you knew that nothing can be beautiful that is not dangerous",
+   "start": 2224,
+   "end": 2284
+  },
+  {
+   "fact": "Baddy Long Legs：八腿双头对称动物",
+   "anchor": "with a long spindly body held up by eight spider legs, and two whiplike heads—one in front, and one behind in place of a tail",
+   "start": 2551,
+   "end": 2676
+  },
+  {
+   "fact": "它慢食活物因其爱活肉的味道",
+   "anchor": "keeping it alive to the last, because it loved the taste of living flesh",
+   "start": 2781,
+   "end": 2853
+  },
+  {
+   "fact": "初次冒险与初次知美同地",
+   "anchor": "It was here that you risked your life for the first time, and it was here that you discovered how beautiful life is",
+   "start": 3122,
+   "end": 3237
+  },
+  {
+   "fact": "第一节末两词收束对读者的召唤",
+   "anchor": "Welcome back.",
+   "start": 4186,
+   "end": 4199
+  },
+  {
+   "fact": "Giovanni 醒来感官恢复顺序：气味—声音—视觉",
+   "anchor": "Bread, potatoes, roasted meat: they find their way to Giovanni’s nostrils",
+   "start": 4229,
+   "end": 4302
+  },
+  {
+   "fact": "他在草棚里躺在树叶沙堆上",
+   "anchor": "He finds that he’s in a straw-roofed shack, lying on a heap of leaves and sand bundled up in fabric",
+   "start": 4601,
+   "end": 4700
+  },
+  {
+   "fact": "手表停摆；Wendy 凭光影判时间",
+   "anchor": "This doesn’t work here. A bit after midday, anyhow",
+   "start": 6530,
+   "end": 6580
+  },
+  {
+   "fact": "Giovanni 问发生了什么，Giada 当面直陈被强奸",
+   "anchor": "“I was raped,” Giada says",
+   "start": 6068,
+   "end": 6093
+  },
+  {
+   "fact": "她补一句杀了人并请求换话题",
+   "anchor": "A pirate. I killed him. Can we change the subject, please?",
+   "start": 6218,
+   "end": 6276
+  },
+  {
+   "fact": "端培根的孩子是 Weirdo：他也迷路到了岛上",
+   "anchor": "I got lost yesterday too, I got lost",
+   "start": 6953,
+   "end": 6989
+  },
+  {
+   "fact": "Nibs 说 Weirdo 总错过冒险——Barrie 原著也有这号人物",
+   "anchor": "he’s touchy about adventures. He almost always misses them",
+   "start": 7159,
+   "end": 7217
+  },
+  {
+   "fact": "Wendy 警告 Giovanni 别犯导师「岛只是传说」式的错误",
+   "anchor": "Don’t make the same mistake as him",
+   "start": 7707,
+   "end": 7741
+  },
+  {
+   "fact": "Wendy 说 Augusto 绑架 Luisa，Giada 纠正其真名",
+   "anchor": "He is Captain Hook.",
+   "start": 8016,
+   "end": 8035
+  },
+  {
+   "fact": "Giovanni 清点失去：昨天父亲死、母亲疑已被 Hook 所杀",
+   "anchor": "Yesterday Papa died. And Mama …",
+   "start": 8413,
+   "end": 8444
+  },
+  {
+   "fact": "海滩上木柴堆成两米多高的截顶金字塔柴堆",
+   "anchor": "A wood pyre rises on the beach, not far from the water",
+   "start": 8701,
+   "end": 8755
+  },
+  {
+   "fact": "柴堆顶上是 Stefano 与 Silvia 的遗体",
+   "anchor": "On the top, the Lost Children have placed the bodies of Stefano and Silvia",
+   "start": 9002,
+   "end": 9076
+  },
+  {
+   "fact": "是孩子把末代林中之王抬到岛上",
+   "anchor": "It was they who carried the last King of the Woods to the Island",
+   "start": 9080,
+   "end": 9144
+  },
+  {
+   "fact": "只剩 Irene 能致敬，Flesh 的法律不让她办大葬礼",
+   "anchor": "Only Irene was left to honour him, and the laws of Flesh would not let her organise the great celebration that he deserves",
+   "start": 9175,
+   "end": 9297
+  },
+  {
+   "fact": "他着绿蓝、身旁是爱人的天青长袍",
+   "anchor": "They have dressed him in green and blue, and they laid beside him the body of the woman he loved, magnificent in an azure robe",
+   "start": 9299,
+   "end": 9425
+  },
+  {
+   "fact": "Lost 共六十人围成半圆",
+   "anchor": "The Lost—sixty of them in total—are arranged in a semicircle around the pyramid",
+   "start": 9692,
+   "end": 9771
+  },
+  {
+   "fact": "Wendy 不哭：把悲伤原地留着喂愤怒",
+   "anchor": "She wants to leave it where it is, feeding her rage",
+   "start": 9895,
+   "end": 9946
+  },
+  {
+   "fact": "Pan 的扈从=寻乐者、妓女等「值得称赞者」组成的神的游戏班子",
+   "anchor": "It’s the ancient Retinue of Pan, reconstructed for the new age: a group of pleasure-seekers, whores, and other praiseworthy individuals who take part in the god’s games",
+   "start": 10013,
+   "end": 10181
+  },
+  {
+   "fact": "Tito 吹 Charlie Parker 老蓝调",
+   "anchor": "Tito the saxophonist is playing a delicate melody, an old Charlie Parker blues tune",
+   "start": 10183,
+   "end": 10266
+  },
+  {
+   "fact": "Peter 演说开场：死者应得欢乐",
+   "anchor": "our dead deserve joy",
+   "start": 10959,
+   "end": 10979
+  },
+  {
+   "fact": "哭泣会滞留灵魂——所以要解放他们",
+   "anchor": "Weeping holds back their souls, imprisons them: we want to liberate them",
+   "start": 10981,
+   "end": 11053
+  },
+  {
+   "fact": "神学要点：唯 Flesh 偶然死，Dream 与 Enchantment 靠守而永恒",
+   "anchor": "Only Flesh dies by chance. Dream and Enchantment are eternal, if we can keep them so",
+   "start": 11055,
+   "end": 11139
+  },
+  {
+   "fact": "Nemi 王统因 Stefano 之死断绝",
+   "anchor": "no longer has a King, and the line of succession is broken",
+   "start": 11362,
+   "end": 11420
+  },
+  {
+   "fact": "颂词：几乎无人如他懂 Enchantment、且逼近 Dream 之本性",
+   "anchor": "he knew Enchantment like few others, and he even came close to understanding the nature of Dream",
+   "start": 11516,
+   "end": 11612
+  },
+  {
+   "fact": "点名指控：Hook 杀了 Silvia",
+   "anchor": "A woman like that, and Captain Hook killed her",
+   "start": 11760,
+   "end": 11806
+  },
+  {
+   "fact": "Hook 曾在 Peter 显形前袭击他，但慢而钝",
+   "anchor": "He tried to get to me before I manifested, but he was slow and dull",
+   "start": 11902,
+   "end": 11969
+  },
+  {
+   "fact": "宣战缘由：Luisa 被掳",
+   "anchor": "He also kidnapped Luisa, a beautiful young woman, bound to Giovanni Cavaterra",
+   "start": 12252,
+   "end": 12329
+  },
+  {
+   "fact": "悼念之后次日夺回活人",
+   "anchor": "Tomorrow we go to take back our living one",
+   "start": 12627,
+   "end": 12669
+  },
+  {
+   "fact": "演说以开战口号收",
+   "anchor": "To war!",
+   "start": 12777,
+   "end": 12784
+  },
+  {
+   "fact": "火光中 Giovanni 看见 Luisa 的脸",
+   "anchor": "In the fire, Giovanni sees Luisa’s face",
+   "start": 13115,
+   "end": 13154
+  },
+  {
+   "fact": "Giovanni 自省在 Peter 面前不清醒、坚持自主",
+   "anchor": "he isn’t lucid in Peter’s presence",
+   "start": 14659,
+   "end": 14693
+  },
+  {
+   "fact": "救回 Luisa 也要带她远离 Peter",
+   "anchor": "And away from Peter Pan, too.",
+   "start": 14548,
+   "end": 14577
+  },
+  {
+   "fact": "夜泳时有人拽住他的脚踝",
+   "anchor": "Then someone yanks at him",
+   "start": 15320,
+   "end": 15345
+  },
+  {
+   "fact": "出水的女子美到停心跳",
+   "anchor": "she is a heartstopping beauty",
+   "start": 15605,
+   "end": 15634
+  },
+  {
+   "fact": "水下有手握住他的阳具",
+   "anchor": "Under the water a hand grasps his member",
+   "start": 15908,
+   "end": 15948
+  },
+  {
+   "fact": "Giovanni 拒以身外情为由",
+   "anchor": "I have a girlfriend",
+   "start": 16299,
+   "end": 16318
+  },
+  {
+   "fact": "意志在群美夹攻下瓦解",
+   "anchor": "As Giovanni’s will crumbles, one of the girls seizes his hand and brings it to her breast",
+   "start": 16812,
+   "end": 16901
+  },
+  {
+   "fact": "Giovanni 以逻辑盘问背叛的阈值",
+   "anchor": "Is touching a breast betrayal?",
+   "start": 17082,
+   "end": 17112
+  },
+  {
+   "fact": "腿的位置是鱼尾与巨尾——她们是美人鱼",
+   "anchor": "… below her hips it meets rough scales, fishskin, a huge tail where legs should be, obviously they’re mermaids",
+   "start": 17631,
+   "end": 17741
+  },
+  {
+   "fact": "Tinker Bell 抱臂悬空喝止，像恼火的母亲",
+   "anchor": "“Leave him alone,” says Tinker Bell. Arms folded, motionless in mid-air, she regards the mermaids with the air of an annoyed mother",
+   "start": 17987,
+   "end": 18118
+  },
+  {
+   "fact": "Giovanni 问她们是不是塞壬",
+   "anchor": "They were sirens, weren’t they",
+   "start": 19690,
+   "end": 19720
+  },
+  {
+   "fact": "Tinker Bell 定义：她们的歌是欲望，用整个身体唱",
+   "anchor": "Their song is Desire, and they sing it with their whole bodies",
+   "start": 19804,
+   "end": 19866
+  },
+  {
+   "fact": "直陈风险：做到死",
+   "anchor": "They would have fucked you until they killed you",
+   "start": 20252,
+   "end": 20300
+  },
+  {
+   "fact": "更冷的一句：对不欲者她们才施加别的",
+   "anchor": "They inflict those on people they don’t desire",
+   "start": 20525,
+   "end": 20571
+  },
+  {
+   "fact": "Giovanni 的结论：幻想庞大到会碾死人",
+   "anchor": "fantasy is large, and like every large thing, it can crush you",
+   "start": 21093,
+   "end": 21155
+  },
+  {
+   "fact": "节五视角转神：Pan 眺望海盗船",
+   "anchor": "The god Pan scans the horizon, observing the pirate ship",
+   "start": 21640,
+   "end": 21696
+  },
+  {
+   "fact": "双方视线在中间某点相遇",
+   "anchor": "their gazes meet, each aware of the other",
+   "start": 21830,
+   "end": 21871
+  },
+  {
+   "fact": "化身后第一个真正的念头：阿卡迪亚已失",
+   "anchor": "Arcadia is lost, thinks Pan, and it is the first real thought he’s formulated since incarnating",
+   "start": 22229,
+   "end": 22324
+  },
+  {
+   "fact": "迷狂之神偶作反思",
+   "anchor": "he is a god of ecstasy, but every so often even he reflects",
+   "start": 22355,
+   "end": 22414
+  },
+  {
+   "fact": "新纪元属于 Hook",
+   "anchor": "An age that belongs to Captain Hook",
+   "start": 22515,
+   "end": 22550
+  },
+  {
+   "fact": "牢笼变弱，Peter 感觉得到",
+   "anchor": "The prison is weak now, Peter Pan feels it",
+   "start": 22554,
+   "end": 22596
+  },
+  {
+   "fact": "毁掉阿卡迪亚的是凡人",
+   "anchor": "it was they who destroyed Arcadia",
+   "start": 22929,
+   "end": 22962
+  },
+  {
+   "fact": "终局不在岛上而在罗马",
+   "anchor": "the city is where everything will end",
+   "start": 23269,
+   "end": 23306
+  },
+  {
+   "fact": "复生的大神在星光下终于微笑",
+   "anchor": "Under the dim starlight, the great god Pan, returned to life, finally smiles",
+   "start": 23364,
+   "end": 23440
+  },
+  {
+   "fact": "Wendy 连办两场派对演出，Peter 比经纪人 Aldo 管用",
+   "anchor": "The Wondrous Wendy performed through the whole party",
+   "start": 23583,
+   "end": 23635
+  },
+  {
+   "fact": "Peter 提醒林中有 Wild People",
+   "anchor": "“Don’t go too far,” Peter Pan advised them. “There are the Wild People.”",
+   "start": 24496,
+   "end": 24568
+  },
+  {
+   "fact": "Tinker Bell 给的甜烟斗无麻醉力只松弛",
+   "anchor": "It doesn’t have narcotic effects; it’s just very relaxing",
+   "start": 24996,
+   "end": 25053
+  },
+  {
+   "fact": "Giada 引 Gandalf 对 Frodo 之言",
+   "anchor": "“You remember what Gandalf said to Frodo, about that?”",
+   "start": 25188,
+   "end": 25242
+  },
+  {
+   "fact": "她若重来一百次仍杀 Noose",
+   "anchor": "if I went back I’d do the same again without a second thought",
+   "start": 25726,
+   "end": 25787
+  },
+  {
+   "fact": "Giada 的自白核心：杀人后知道自己能杀人，这是巨大权力",
+   "anchor": "I killed him and now I know I can kill. It’s an immense power",
+   "start": 27319,
+   "end": 27380
+  },
+  {
+   "fact": "Giada 定位二人：魔术师与清运工，非英雄",
+   "anchor": "We’re not heroes",
+   "start": 26033,
+   "end": 26049
+  },
+  {
+   "fact": "冷幽默：Noose 已成蕨类肥料",
+   "anchor": "Noose is already fertiliser for the ferns",
+   "start": 26373,
+   "end": 26414
+  },
+  {
+   "fact": "Wendy 反问现实主义的立足点",
+   "anchor": "I’m in a land that never was and tomorrow I’m going to fight pirates. Why should I be realistic?",
+   "start": 26055,
+   "end": 26151
+  },
+  {
+   "fact": "Giada 举 ch18 之夜 Zappo 抠眼事证海盗之真",
+   "anchor": "Zappo ripped out a middle-aged lady’s eye",
+   "start": 27981,
+   "end": 28022
+  },
+  {
+   "fact": "Wendy 的方法论：让人开口即是魔术",
+   "anchor": "if you want information, you don’t ask, you let them talk",
+   "start": 28598,
+   "end": 28655
+  },
+  {
+   "fact": "章末 Giada 立誓永不再低估 Wendy",
+   "anchor": "never, never again will she underestimate the Wondrous Wendy",
+   "start": 28741,
+   "end": 28801
+  }
+ ]
+}

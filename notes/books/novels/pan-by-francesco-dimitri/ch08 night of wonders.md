@@ -6,7 +6,7 @@ modified: "2026-10-29"
 # 08. Night of Wonders
 
 ## 本章导航
-- **一句话概括**：同一个深夜四条线同时被拽出常规：Antonio 在 Dream 里用钢剑赢下 Mateo，斥候已看见海盗大帆船起锚，战争将至；Wendy 正梦见自己裸体飞过海面、礼帽里可能再变出兔子，却被 Giada 一通电话叫醒——她读出的情绪是 fear；Giada 在垃圾里捡到那尊断像的「原件」，泡在自己浴缸里：一个长着角、蹄与成人阴茎的非人男胎，睁开了眼睛；78 岁的萨克斯手 Tito 正准备最后一次关俱乐部，一个一月底不穿鞋的少女替他带来「办活动的人」的邀约；Michele 半夜找不到父亲，在旧衣柜后的暗室（the Secret）里发现 Stefano 跪坐着，像抱婴儿一样抱着一本封面画着整圆加两段弧线的黑笔记本，赤脚沾着新泥。
+- **一句话概括**：同一个深夜四条线同时被拽出常规：Antonio 在 Dream 里用钢剑赢下 Mateo，斥候已看见海盗大帆船起锚，战争将至；Wendy 正梦见自己裸体飞过海面、礼帽里可能再变出兔子，却被 Giada 一通深夜电话叫醒——她凭职业本能读出对方的情绪是恐惧；Giada 在垃圾里捡到那尊断像的「原件」，泡在自己浴缸里：一个长着角、蹄与成人阴茎的非人男胎，睁开了眼睛；78 岁的萨克斯手 Tito 正准备最后一次关俱乐部，一个一月底不穿鞋的少女替他带来「办活动的人」的邀约；Michele 半夜找不到父亲，在旧衣柜后的暗室（the Secret）里发现父亲像抱婴儿一样抱着一本封面画着整圆加两段弧线的黑笔记本，赤脚沾着新鲜的泥。
 - **情感弧线位置**：全书第一次让 Wonder 以「有体积、有气味、会走路」的东西进入成人清醒生活——前七章的异常都发生在梦里或事后（帽子兔子、变色眼睛、桃核气味），本章的异常被两个成年女人关在同一间浴室里面对面盯着。恐惧不再是被追逐，而是被触摸。
 - **Tropes 兑现/反转**：First Contact 反写成脏活累活——神迹不来自天空而来自垃圾车，发现者是环卫工，容器是浴缸；Baby in the Basket（摩西式弃婴母题）被拆掉神圣外衣：弃在垃圾里的是恶魔的幼体，而「Incinerators have no memory」把这套神学落在城市废物处理流程上；魔术师的「看穿手法」母题反转成「唯一的手法就是它太真」。
 - **人物弧线**：Wendy/Angela（从读别人情绪的人，变成被恐惧读透的人，仍选择开门走出去）、Giada（她的收藏癖从怪癖升级为见证，代价是把法律彻底挡在门外）、Tito（新入列的成人：一生的手艺只剩四次关灯，被一个赤脚少女用一句“I know someone who’d like you”勾住）、Michele（第一次独自承担照护者的位置，也第一次继承父亲的秘密）。
@@ -14,19 +14,19 @@ modified: "2026-10-29"
 
 ## 精读
 
-> **原句 1:** "In Flesh he is unfamiliar with affection, Mama is busy, Papa has to travel, but in Dream he belongs to a tribe. He is barefoot and bare-chested: the soft grass tickles his feet, while the sea-scented breeze dries his sweat."
+> **原句 1:** "Antonio is six years old and his mother kisses him only when she has to. In Flesh he is unfamiliar with affection, Mama is busy, Papa has to travel, but in Dream he belongs to a tribe. He is barefoot and bare-chested: the soft grass tickles his feet, while the sea-scented breeze dries his sweat."
 
 **中文理解**：Antonio 六岁，母亲只在必须时才亲他；在 Flesh（现实）里他不熟悉 affection——妈妈忙、爸爸出差；但在 Dream（梦界）里他属于一个部落：赤脚赤膊，软草挠脚，带着海味的风吹干他的汗。
-**关键词**：unfamiliar, affection, tribe, barefoot, bare-chested
+**关键词**：unfamiliar, affection, tribe, barefoot, sea-scented
 **为什么这样写**：一句 In Flesh… but in Dream… 就把这个孩子的全部处境称完了：现实给的是亏欠，梦界给的是归属，两边都不是夸张，只是并列。身体感受被写得比心理陈述更细（tickles, dries），读者于是知道梦界对他才是有触觉的那一边。
 **读者视角提示**：这是本章第一次把两个大写专名当方位词用，别把它当比喻——本书的 Dream 有天气、有草、有海风。
 
 ---
 
-> **原句 2:** "War is coming. It’s not the first, but it’s possible it might be the last. The scouts have seen the pirate galleon raise anchor and resume sailing. Soon it will be time for the gnashing of teeth."
+> **原句 2:** "It’s not the first, but it’s possible it might be the last. The scouts have seen the pirate galleon raise anchor and resume sailing. Soon it will be time for the gnashing of teeth."
 
-**中文理解**：战争要来了。这不是第一场，但可能是最后一场。斥候看见海盗大帆船起锚、重新航行。很快就是咬牙切齿的时刻。
-**关键词**：War, scouts, galleon, gnashing
+**中文理解**：战争不是第一场，但可能是最后一场。斥候看见海盗的大帆船起锚、重新航行。很快，就是咬牙切齿的时刻了。
+**关键词**：scouts, galleon, resume, gnashing
 **为什么这样写**：It's not the first, but it's possible it might be the last 用两个不确定语气叠出一个孩子说不清、也说不出口的分量；gnashing of teeth 是《圣经》里审判的成语，孩子借来用，既显出血腥的重量，又显出他从大人那里听来词汇的年龄感。
 **读者视角提示**：大帆船这条线在下一章会真的出现在人眼前；这里只给它一个「起锚」的动作，不给它面孔。
 
@@ -37,7 +37,7 @@ modified: "2026-10-29"
 **中文理解**：神奇的 Wendy 梦见自己裸体，头上戴着礼帽，括号里问：帽子里会有兔子吗？她赤身飞行，裹住身体的空气清冽芬芳，是树木与海混在一起的气味。
 **关键词**：Wondrous, top hat, rabbit, fragrant, mingled
 **为什么这样写**：那个括号是全章最松动的一笔：连做梦的人自己都不确定帽子里会不会出兔子，把上一章「帽中凭空出现的兔子」变成她体内的悬念而不是身外的事故。裸体在这里不是被看的羞耻，是自由的可感形状——空气贴皮肤的方式和 Antonio 那边一模一样。
-**读者视角提示**：trees and sea 这组气味第二次出现（ch06 已用它标记异常）；本章随后会让它在密闭暗室里第三次出现，读者可以据此校准「什么算征兆」。
+**读者视角提示**：礼帽与兔子来自 ch04 那场派对——那时兔子是她没藏过的东西；这里它还没出现，先挂在梦里等。trees and sea 这组混合气味本书也早有记录（ch06 的标题就是树木的气味），本章稍后它会在一间三平方米的暗室里再出现一次，读者可以据此校准什么算征兆。
 
 ---
 
@@ -46,7 +46,7 @@ modified: "2026-10-29"
 **中文理解**：他吹得开心的日子早就过去了。Tito 合上萨克斯琴盒，抽完最后一口，把烟头按灭在烟灰缸里。今晚俱乐部几乎空无一人。
 **关键词**：Long gone, saxophone, drag, stubs out, practically
 **为什么这样写**：倒装 Long gone are the days 像一声拖长的尾音，先给结论再给动作；收尾被写成一套仪式（合盒、最后一口、按灭），而 practically empty 用一个「差不多」把失败的规模缩到可以忍受。这是给一个新登场的 78 岁角色最快也最体面的自我介绍。
-**读者视角提示**：注意烟头这个动作——上一章 Michele 的父亲正是用烟头烧掉了一条披肩；本书里火与烟从不只是气氛。
+**读者视角提示**：注意按灭烟头这个动作——本书上一次让烟头真正发威是在 ch02，Stefano 用烟头点着了那条定情的披肩；火与烟在这部小说里从不只是气氛。
 
 ---
 
@@ -68,12 +68,12 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "She closes her eyes. They’re not seeing what’s there to be seen. She is a magician: she knows that there’s always a trick, and it’s always obvious. She won’t let herself be fooled. She opens them again, concentrating on what she really sees, not what she expects to see."
+> **原句 7:** "She is a magician: she knows that there’s always a trick, and it’s always obvious. She won’t let herself be fooled. She opens them again, concentrating on what she really sees, not what she expects to see."
 
-**中文理解**：她闭上眼。它们没有看见真正在那里的东西。她是魔术师：她知道总有一个手法，而且手法总是明摆着的。她不许自己被糊弄。她重新睁开眼，专注于自己真正看见的，而不是她预期看见的。
+**中文理解**：她是魔术师：她知道那里总有一个手法，而手法总是明摆着的。她不许自己被糊弄。她重新睁开眼睛，专注于自己真正看见的，而不是她预期看见的。
 **关键词**：magician, trick, obvious, fooled, concentrating
-**为什么这样写**：本章把「职业技艺」写成一条可以救命的认识论：先承认自己看错了，再重看。They're not seeing… 用 they 指眼睛而不是用 she，让错误归给器官、责任留给意志，于是 she won't let herself 这句才有力气。
-**读者视角提示**：紧接着的结论是它「太真所以像假」，Wonder 的定义在这里被翻面：不是不存在，而是存在得过头。
+**为什么这样写**：本章把「职业技艺」写成一条可以救命的认识论：先看穿，再重看。She won't let herself be fooled 的主语是自己而不是怪物，恐惧因此变成一场纪律；not what she expects to see 是全书方法论最干净的一次表述——预期才是让人看不见的东西。
+**读者视角提示**：紧接着的结论是它「只因太真才像假」。Wonder 在这里被翻面定义：不是不存在，而是存在得过头。
 
 ---
 
@@ -106,7 +106,7 @@ modified: "2026-10-29"
 
 > **原句 11:** "They stop on the threshold: the room is immersed in darkness, they can only make out a denser shadow squatting on the ground. And, quite plainly, the noise of jaws chewing."
 
-**中文理解**：两人停在门槛上：厨房浸在黑暗里，她们只能辨出一个更浓的阴影蹲在地上。还有清晰可闻的、颌骨咀嚼的声音。
+**中文理解**：两人停在门槛上：屋子浸在黑暗里，她们只能辨出一个更浓的阴影蹲在地上。还有清晰可闻的、颌骨咀嚼的声音。
 **关键词**：threshold, immersed, make out, denser shadow, jaws
 **为什么这样写**：a denser shadow 是极高明的写法——不用光去显形，而是用黑暗里更深的一块黑暗来指认它存在；quite plainly 这个副词把恐怖从模糊推成无可争辩，本书所有超自然都拒绝含糊。jaws（颌骨）而不是 mouth，把声音写成机械的咀嚼。
 **读者视角提示**：章名 Night of Wonders 到这一句才成立：奇迹的清单是摔破的锅、碎裂的盘与咀嚼声，全在一间有电灯的公寓里。
@@ -116,26 +116,17 @@ modified: "2026-10-29"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | unfamiliar | 不熟悉的、陌生的 | In Flesh he is unfamiliar with affection, Mama is busy, Papa has to travel, but in Dream he belongs to a tribe. |
-| bare-chested | 赤裸上身的 | He is barefoot and bare-chested: the soft grass tickles his feet, while the sea-scented breeze dries his sweat. |
-| sea-scented | 带海的气味 | He is barefoot and bare-chested: the soft grass tickles his feet, while the sea-scented breeze dries his sweat. |
 | interpreting | 解读、辨识（他人情绪） | For work and by nature she is skilled at interpreting people’s feelings. |
 | practically | 几乎、差一点就是 | Tonight the club has been practically empty. |
-| seventy-eight | 七十八（岁的） | He’s seventy-eight years old, it’s too late for hope. |
-| overflowing | 溢满的、多得泛滥 | But good beer is expensive, and nobody cares any more about good music, and the alleyways of Trastevere are overflowing with bars. |
 | concealment | 掩饰 | She’s trying to conceal it, but she can’t with Wendy, who loves her and is the master of concealment. |
 | definitive | 决定性的、终极的 | I found the definitive piece of my collection. |
 | earth-shattering | 惊天动地的 | Tonight, in the rubbish, Giada found some earth-shattering thing. |
 | protuberances | 突起、隆起 | On the crest of the forehead sprout two bony, sharp protuberances, little horns pointed like skewers. |
 | mutability | 易变性、变化不定 | It really is very like the subject of the statuette, and shares with it a certain mutability. |
-| carabinieri | 意大利宪兵 | “You should have called the carabinieri or the police.” |
 | enforcement | （law enforcement）执法、执法机构 | Angela doesn’t comment: Giada has excellent reasons to despise law enforcement. |
-| Incinerators | 焚烧炉 | Incinerators have no memory. |
 | fascination | 着迷 | Angela is torn between fascination and horror. |
-| deformities | 畸形、缺陷 | “They could be deformities.” |
-| precautions | 预防措施 | Nothing serious, but best to take precautions: he doesn’t want to miss school tomorrow. |
-| paracetamol | 对乙酰氨基酚（扑热息痛） | He takes a paracetamol from the bathroom cabinet and goes to the kitchen to look for a glass. |
+| paracetamol | 对乙酰氨基酚（退烧止痛药） | He takes a paracetamol from the bathroom cabinet and goes to the kitchen to look for a glass. |
 | half-light | 半明半暗的光 | In the half-light he looks like the head of SPECTRE, Blofeld, 007’s enemy—he just needs a cat. |
-| infuriated | 被激怒的 | Plenty of those stories would have infuriated Mama. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -168,4 +159,4 @@ modified: "2026-10-29"
 | bathroom cabinet | 浴室镜柜 | He takes a paracetamol from the bathroom cabinet and goes to the kitchen to look for a glass. |
 
 ## 一句话总结
-这一夜四条线同时越界：孩子在梦里备战最后一场战争，大人却在垃圾里捞出梦界的实物——Giada 把一只会睁眼、会爬出浴缸的恶魔胎儿抱回家，Wendy 用魔术师的方法确认它「太真所以像假」，最后被反锁在浴室里听着厨房的咀嚼声开灯；Tito 在只剩四次关灯的手艺上被一个赤脚少女搭话，Michele 则在父亲藏了三十年的暗室里接过一本像婴儿一样被抱着的黑笔记本，而老人的赤脚上沾着新鲜的泥。
+这一夜四条线同时越界：孩子在梦里备战最后一场战争，大人却在垃圾里捞出梦界的实物——Giada 把一只会睁眼、会爬出浴缸的恶魔胎儿抱回家，Wendy 用魔术师的方法确认它「太真所以像假」，最后被反锁在浴室里听着厨房的咀嚼声开灯；Tito 在只剩四次关灯的手艺上被一个赤脚少女搭话，Michele 则在父亲藏起来的暗室里接过一本像婴儿一样被抱着的黑笔记本，而老人的赤脚上沾着新鲜的泥。
