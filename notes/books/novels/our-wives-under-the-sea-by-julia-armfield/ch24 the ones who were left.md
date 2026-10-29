@@ -87,7 +87,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "“I wasn’t here,” I said, hearing the illogic of what I had said a moment after I said it, though Matteo only nodded, crossing to sit at the comms panel and look at me baldly."
+> **原句 7:** "I thought again about falling, imagined us tight in the grip of something that had snatched us down to the place we were already going, and then lifted my cheek from the glass and realised I didn’t know how I had come to be here."
+
+**中文理解**：她又想到坠落，想象她们被什么东西紧紧攥住，拖向那个她们本来就要去的地方；随后她把脸颊从玻璃上抬开，才发觉自己不知道是怎么来到这里的。
+
+**关键词**：thought again about falling / tight in the grip of something / snatched us down / lifted my cheek from the glass / didn’t know how I had come to be here
+
+**为什么这样写**：一句话里塞进三个动作：想、贴、抬。前两个是想象与身体姿势，最后一个「lifted my cheek」把叙述从想象拽回身体；而全句真正的落点是最后半句——不是看见了什么，而是「不知道自己怎么到这里」。作者不写恐惧的词，只让一个连贯动作在中途断掉，读者跟着断一下。
+
+**读者视角提示**：注意这不是第一次「记不清」：上一章她已答过「我刚才不在这里」。这一句把那种错位落到了身体上——她连自己怎么走到窗边都不记得。
+
+---
+
+> **原句 8:** "“I wasn’t here,” I said, hearing the illogic of what I had said a moment after I said it, though Matteo only nodded, crossing to sit at the comms panel and look at me baldly."
 
 **中文理解**：Matteo 站在后舱门口问她「你也是？」，她答「我刚才不在这里」，说完才听出这句话不成立。Matteo 只点头，走到通讯台前坐下，直直看她。她原本想说的那件事，是刚才在窗边发现自己刚才在睡。
 
@@ -99,7 +111,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 8:** "I tried to shake my head, to tell him that wasn’t what was happening. Phantom fingers at the base of my skull, moving downwards: sunken thoughts. Who had said that? I remembered, but it took me longer than it should have done to dredge the name from the bottom of my mind."
+> **原句 9:** "I tried to shake my head, to tell him that wasn’t what was happening. Phantom fingers at the base of my skull, moving downwards: sunken thoughts. Who had said that? I remembered, but it took me longer than it should have done to dredge the name from the bottom of my mind."
 
 **中文理解**：她想摇头，告诉他不是那样，可是「沉下去的念头」这几个字先浮上来，接着是「这是谁说的」。她记得，只是要从记忆底部把那个名字捞上来，花了比该有的更久。
 

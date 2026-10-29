@@ -1,0 +1,166 @@
+{
+  "chapter": "ch24",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch24_leah.txt",
+  "facts": [
+    {
+      "fact": "世界曾经是干的，一场持续一个世纪的雨灌满了海洋；Leah 常想海水会涨得比人逃得更快。",
+      "anchor": "dry, before a century of rain that filled the oceans",
+      "start": 38,
+      "end": 90
+    },
+    {
+      "fact": "Jelka 盘腿坐在主机甲板上，Leah 把火把放在她脚边、蹲到对面假装那是营火；Jelka 说「今天是我生日」，Leah 事先并不知道，提议该庆祝一下，并让她对着火把许愿、吹气，随后关掉火把。",
+      "anchor": "It’s my birthday,” she said, and I looked at her through the upward beam",
+      "start": 841,
+      "end": 913
+    },
+    {
+      "fact": "Jelka 说她又闻到那股腐肉味，并怀疑那味道其实就是他们自己——「这么深处的人」的气味。",
+      "anchor": "I can smell it again,” Jelka said now, gazing in a seemingly untroubled fashion",
+      "start": 1773,
+      "end": 1852
+    },
+    {
+      "fact": "Jelka 又问 Leah 有没有听见「说话的声音」，Leah 什么也没听见，也确信这里从来就没有过说话声。",
+      "anchor": "And what about that sound,” she said then. “What about the talking, the words",
+      "start": 2395,
+      "end": 2472
+    },
+    {
+      "fact": "Matteo 越来越烦躁，常打断自己的话问有没有听见噪音，说噪音让他无法清晰思考；Leah 夜里听见他走动，还曾醒来发现他站在自己床脚，他道歉说自己大概是睡过去了。",
+      "anchor": "Once, I woke to find him standing at the foot of my bunk",
+      "start": 1602,
+      "end": 1658
+    },
+    {
+      "fact": "黑暗中 Leah 把脸贴上主机甲板舷窗，什么也看不见；她意识到自己方才在睡觉，却完全不知道自己是怎么到这里来的。",
+      "anchor": "In the dark, I pressed my face against the main deck window and saw nothing",
+      "start": 2982,
+      "end": 3057
+    },
+    {
+      "fact": "Matteo 出现在后舱门口说「You too?」，Leah 答「I wasn’t here」，自己也听出这话不合逻辑；Matteo 问她是否想过他们本来有个计划、有该做的事，而 Leah 已拼不出 Centre 与研究项目的样子。",
+      "anchor": "D’you ever think about how we had a plan – that there were things we were supposed",
+      "start": 3842,
+      "end": 3924
+    },
+    {
+      "fact": "Matteo 说「I know, it bothers me too. The way I don’t think.」；Leah 感到颅底有幽灵般的手指向下移动——「sunken thoughts」，并费力才想起这句话是谁说的（名字始终没有写出）。",
+      "anchor": "Phantom fingers at the base of my skull, moving downwards: sunken thoughts",
+      "start": 4482,
+      "end": 4556
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Leah–Jelka",
+      "kind": "同船同伴；Leah 主动用营火玩笑和生日仪式安抚她，Jelka 几乎不回应，像在听别处的声音。",
+      "anchor": "I took a torch and set it down by her feet, crouched down opposite",
+      "start": 469,
+      "end": 535
+    },
+    {
+      "pair": "Leah–Matteo",
+      "kind": "同船同伴；Matteo 幻听、失神、夜里站在她床脚，两人互相印证「不在这里」的错乱。",
+      "anchor": "Matteo watched me for several seconds before leaning back in his chair",
+      "start": 4272,
+      "end": 4342
+    },
+    {
+      "pair": "Leah–Miri",
+      "kind": "伴侣/同居关系（Leah 想到「我和 Miri 的」邻居与那台从不关的电视）；Miri 本章未出场，只存在于她的回忆里。",
+      "anchor": "think about my neighbours – mine and Miri’s – and the television they never switched off",
+      "start": 1512,
+      "end": 1600
+    },
+    {
+      "pair": "Matteo–Jelka",
+      "kind": "同舱同伴；两人各自困在不同的感官幻觉里——他听见噪音，她闻到气味、听见说话声。",
+      "anchor": "I could hear Matteo knocking about in the rear chamber, kicking his feet against the benches",
+      "start": 1183,
+      "end": 1275
+    },
+    {
+      "pair": "Jelka–St Brendan 塑像",
+      "kind": "塑像立在她身旁、面朝墙壁，像她沉默的圣像同伴。",
+      "anchor": "Beside her, the St Brendan figurine stood with his face to the wall",
+      "start": 769,
+      "end": 836
+    },
+    {
+      "pair": "Leah–the Centre",
+      "kind": "她本应为之工作的研究机构；如今只记得「有个计划」，拼不出它的具体样子。",
+      "anchor": "an image of the Centre, the research project we had prepped for",
+      "start": 4006,
+      "end": 4069
+    }
+  ],
+  "numbers": [
+    {
+      "value": "一个世纪（a century）",
+      "anchor": "dry, before a century of rain that filled the oceans",
+      "start": 38,
+      "end": 90
+    },
+    {
+      "value": "曾经/一次（once，无具体年份）",
+      "anchor": "The world was different once, dry, before a century of rain",
+      "start": 8,
+      "end": 67
+    },
+    {
+      "value": "第一次（the first time，指下潜途中初次闻到气味）",
+      "anchor": "I thought of reminding her that we’d both noticed the smell the first time",
+      "start": 2242,
+      "end": 2316
+    },
+    {
+      "value": "几秒钟（several seconds）",
+      "anchor": "Matteo watched me for several seconds before leaning back in his chair",
+      "start": 4272,
+      "end": 4342
+    },
+    {
+      "value": "Leah（叙述者，章首标题行）",
+      "anchor": "Leah.\n\n\nThe world was different once, dry, before a century",
+      "start": 0,
+      "end": 59
+    },
+    {
+      "value": "Jelka（人名）",
+      "anchor": "Jelka sat cross-legged on the floor of the main deck",
+      "start": 354,
+      "end": 406
+    },
+    {
+      "value": "Matteo（人名）",
+      "anchor": "though Matteo only nodded, crossing to sit at the comms panel",
+      "start": 3718,
+      "end": 3779
+    },
+    {
+      "value": "Miri（人名，Leah 的伴侣，仅被提及）",
+      "anchor": "think about my neighbours – mine and Miri’s – and the television they never switched off",
+      "start": 1512,
+      "end": 1600
+    },
+    {
+      "value": "St Brendan（圣布伦丹，塑像）",
+      "anchor": "Beside her, the St Brendan figurine stood with his face to the wall",
+      "start": 769,
+      "end": 836
+    },
+    {
+      "value": "the Centre（研究中心）",
+      "anchor": "an image of the Centre, the research project we had prepped for",
+      "start": 4006,
+      "end": 4069
+    },
+    {
+      "value": "the dark squinting eye（面板顶上的金属徽记）",
+      "anchor": "the small carved insignia on the top of the panel: the dark squinting eye etched",
+      "start": 4181,
+      "end": 4261
+    }
+  ]
+}
