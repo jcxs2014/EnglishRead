@@ -1,0 +1,78 @@
+{
+ "chapter": "ch12",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "14/14 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[1097:1225]",
+   "anchor": "Hickoryhollow, Downythistle, Bumblesnatch—and others that were new to her but equally adorable—Babysbreath, Primrose, Elksantler",
+   "fact": "教堂石造+绿人柱端；墓碑姓氏六家逐字"
+  },
+  {
+   "range": "[1434:1485]",
+   "anchor": "IN MEMORY OF HELENA HOLLYOAK, A MOST CREATIVE WOMAN",
+   "fact": "Helena 灵墓铭文逐字"
+  },
+  {
+   "range": "[2415:2498]",
+   "anchor": "it featured the same stylized hare that she had seen upon Rowan Downythistle’s barn",
+   "fact": "彩窗=同一只风格化野兔（谷仓/树上同款）"
+  },
+  {
+   "range": "[5049:5134]",
+   "anchor": "They broke from the mother church in Rome during the schisms of the sixteenth century",
+   "fact": "vicar 讲修会史：Discalced Silurian nuns、十六世纪 schism、hare 纳入艺术"
+  },
+  {
+   "range": "[5566:5655]",
+   "anchor": "Round Robin is obviously a folk memory of some ancient pagan deity whom they rediscovered",
+   "fact": "vicar：RR 是再发现的异教神的民俗记忆"
+  },
+  {
+   "range": "[5905:5991]",
+   "anchor": "our God is a jealous god and he specifically said not to put any other gods before him",
+   "fact": "Jessica 质疑 jealous god+性感兔女郎海报像另一位神"
+  },
+  {
+   "range": "[6318:6425]",
+   "anchor": "aren’t all gods just aspects of His greatness? Why shouldn’t we venerate God by venerating the land He made",
+   "fact": "vicar：诸神皆祂的面向"
+  },
+  {
+   "range": "[7899:7988]",
+   "anchor": "used to bury their dead in the bog, and the acidic soil would actually mummify the bodies",
+   "fact": "圣物=bog body 头（玻璃钟罩）；酸性土壤木乃伊化"
+  },
+  {
+   "range": "[9233:9321]",
+   "anchor": "He was probably murdered, possibly in a clan dispute, possibly even as a human sacrifice",
+   "fact": "被谋杀/氏族纷争/人祭推测"
+  },
+  {
+   "range": "[9647:9731]",
+   "anchor": "A man can grow old without fear here. A woman can walk the streets without fear here",
+   "fact": "三连 without fear（man/woman/family）"
+  },
+  {
+   "range": "[9971:10056]",
+   "anchor": "more like a colony of feral cats—not a collective, not a community, not even a people",
+   "fact": "Jessica 羡慕：美国=野猫群体、暴力嗡鸣"
+  },
+  {
+   "range": "[12334:12415]",
+   "anchor": "the heads of the bad children who got taken by Round Robin, so you better be good",
+   "fact": "Molly 童年吓唬原话（坏孩子的头）"
+  },
+  {
+   "range": "[12571:12634]",
+   "anchor": "Molly smirked and tapped her nose. Jessica roared with laughter",
+   "fact": "Molly 坏笑敲鼻=默认照讲"
+  },
+  {
+   "range": "[12774:12855]",
+   "anchor": "radiant in the gloaming, clutching a chimney sweep’s brush and staring into space",
+   "fact": "结尾：Pip 在 quagmire 边、刷子崭新如未用过、毫无反应"
+  }
+ ]
+}

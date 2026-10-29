@@ -1,0 +1,88 @@
+{
+ "chapter": "ch14",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[678:750]",
+   "anchor": "the single word Gotcha, above a blurry photo of a startled-looking royal",
+   "fact": "报纸头条 Gotcha"
+  },
+  {
+   "range": "[886:924]",
+   "anchor": "What’s this? You got a new girlfriend?",
+   "fact": "Mom 以为新女友；赞成 George"
+  },
+  {
+   "range": "[1470:1515]",
+   "anchor": "Sandy suspected she was also wearing a binder",
+   "fact": "George 的 binder 疑点；My underbits are none of your concern"
+  },
+  {
+   "range": "[2655:2706]",
+   "anchor": "You’ve obviously got a whole lot of gender going on",
+   "fact": "Sandy 拆穿 fronting；追问 trans masc/nonbinary/questioning"
+  },
+  {
+   "range": "[3390:3461]",
+   "anchor": "if Percival thought he was gonna see Round Robin, he’d wet his trousers",
+   "fact": "George：Percival 会吓尿"
+  },
+  {
+   "range": "[3701:3751]",
+   "anchor": "I turned into a hare and flew to a witches’ sabbat",
+   "fact": "Sandy 坦白梦；George：人人都有 flying dream"
+  },
+  {
+   "range": "[4451:4495]",
+   "anchor": "They were trying to turn the bog into a moor",
+   "fact": "council 种花装点→垃圾场（洗衣机/弃车/蛤壳行李箱）"
+  },
+  {
+   "range": "[5571:5626]",
+   "anchor": "the head had been replaced with a bleached rabbit skull",
+   "fact": "路边龛：圣母像头换漂白兔头骨"
+  },
+  {
+   "range": "[7942:8006]",
+   "anchor": "Especially Hasenhurst Blacknose sheep. It’s a quirk of the breed",
+   "fact": "死羊+食羊=Blacknose 品种怪癖；前罗马废墟"
+  },
+  {
+   "range": "[8823:8886]",
+   "anchor": "It’s for them who they can’t bury in the proper church cemetery",
+   "fact": "potter's field：wrong sort 清单逐字、Spunkie 十字架"
+  },
+  {
+   "range": "[9724:9789]",
+   "anchor": "That’s where she’s really buried. Leastways, that’s what they say",
+   "fact": "Helena 真墓：无名十字架+贡品；不得不埋"
+  },
+  {
+   "range": "[11185:11269]",
+   "anchor": "uncorked the bottle and took a swig, gargled, and spit the elk’s blood on the ground",
+   "fact": "行李箱符咒+紫色违禁酒+吐酒祭"
+  },
+  {
+   "range": "[11641:11687]",
+   "anchor": "Prove to me you’re really a wizard. Do a spell",
+   "fact": "George 要 spell；Lesser Ritual of the Pentagram（Golden Dawn/Crowley）"
+  },
+  {
+   "range": "[13670:13752]",
+   "anchor": "this island was sacred to the druids and they made human sacrifices to Round Robin",
+   "fact": "lore dump：Helena worship/druids 人祭/修女改宗/bishop 来查；狐狸黄眼"
+  },
+  {
+   "range": "[14901:14963]",
+   "anchor": "Wives who won’t obey husbands, children who won’t obey parents",
+   "fact": "wrong sort 全清单逐字；摸头被打开"
+  },
+  {
+   "range": "[15554:15613]",
+   "anchor": "you have a pagan god that enforces traditional gender norms",
+   "fact": "Sandy 质问 pagan god；Not even Helena Hollyoak herself could escape that"
+  }
+ ]
+}

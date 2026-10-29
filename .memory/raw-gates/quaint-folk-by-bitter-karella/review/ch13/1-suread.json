@@ -1,0 +1,68 @@
+{
+ "chapter": "ch13",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "12/12 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[933:996]",
+   "anchor": "He wants the program to include a geoglyph reader! I don’t even",
+   "fact": "Greg 暴躁：geoglyph reader 要求"
+  },
+  {
+   "range": "[2215:2267]",
+   "anchor": "say Oooh, Greg, come and catch your Tigglestide hare",
+   "fact": "Jessica 挽回计划：家宴+negligee+兔耳+那句台词"
+  },
+  {
+   "range": "[2552:2612]",
+   "anchor": "it started in her childhood home, in the room with the icons",
+   "fact": "第二场梦：圣像房开始、梦中父母逼祷词"
+  },
+  {
+   "range": "[4139:4205]",
+   "anchor": "she was here at Hollyoak House, half a world away from her parents",
+   "fact": "梦中逃到 Hollyoak House、寻找家人、抵达房子心脏"
+  },
+  {
+   "range": "[5504:5608]",
+   "anchor": "pocked with bloody red welts and the animal in her lap now stared out at Jessica with red-stained cheeks",
+   "fact": "巨画异变：黑裙开襟、腹部血痕、动物红颊、背景怪异生物"
+  },
+  {
+   "range": "[6377:6442]",
+   "anchor": "Her wounds tingled with sensation, sending shivers down her spine",
+   "fact": "梦中身体层面事件（概括）；伤口不痛反麻"
+  },
+  {
+   "range": "[7488:7587]",
+   "anchor": "Jessica startled awake. She was standing in the unlit foyer, before the portrait of Helena Hollyoak",
+   "fact": "Sandy 喊 Mom 惊醒：站在未开灯门厅画像前、画像已复原"
+  },
+  {
+   "range": "[7673:7735]",
+   "anchor": "The grandfather clock struck three AM with three subdued bongs",
+   "fact": "祖父钟三响=凌晨三点"
+  },
+  {
+   "range": "[8006:8066]",
+   "anchor": "I heard you come out here and you were talking in your sleep",
+   "fact": "Sandy：听到你出来还说梦话"
+  },
+  {
+   "range": "[8539:8588]",
+   "anchor": "I guess I was sleepwalking. Go back to bed, Sandy",
+   "fact": "Jessica：坏梦/梦游说辞、拉紧浴袍"
+  },
+  {
+   "range": "[9414:9473]",
+   "anchor": "Greg murmured occasionally in his sleep, and when he did so",
+   "fact": "回床自慰（概括）；Greg 呓语时暂停、全程未醒"
+  },
+  {
+   "range": "[11251:11331]",
+   "anchor": "today, in the harsh light of morning, there was only smooth and unblemished skin",
+   "fact": "晨起羞耻；触检身侧：咬痕处只剩光滑皮肤"
+  }
+ ]
+}

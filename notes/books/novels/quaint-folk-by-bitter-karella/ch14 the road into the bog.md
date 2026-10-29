@@ -126,7 +126,6 @@ modified: "2026-10-29"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Tigglestide | 岛上节庆名，其前夜为 Tigglestide Eve | “Tigglestide cheer, Round Robin is near.” |
 | startled-looking | 惊愕失色的、受了惊的模样 | The front-page headline was the single word Gotcha, above a blurry photo of a startled-looking royal. |
 | dismissive | 轻慢的、不屑一顾的 | said George with a dismissive wave of her hand at the surrounding greenery, |
 | first-ever | 有史头一遭的、最早的 | Probably the first-ever people to actually see Round Robin, when the world was new. |
