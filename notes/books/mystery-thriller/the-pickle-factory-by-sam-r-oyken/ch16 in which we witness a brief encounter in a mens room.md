@@ -87,7 +87,7 @@ modified: "2026-10-29"
 
 **为什么这样写**： KRAY 出的主意专打保密软肋：只索要 Fun Name 和城市，等于绕过“不能给真名”的挡箭牌，让对方难以搪塞国会。
 
-**读者视角提示**： 这是 KRAY 第一次主动帮 Cooper 撬动情报，读者应看出他已从被动受访转向暗中合作。
+**读者视角提示**： 这是 KRAY 主动帮 Cooper 撬动情报的一步，读者应看出他已从被动受访转向暗中合作。
 
 > **原句 8:** "“All right, look,” he said, “if I call you, and that’s only if, it’ll be from a payphone. I’ll say it’s Marcel Duchamp. We can set up the time and date on the phone, but we won’t talk about the place."
 
