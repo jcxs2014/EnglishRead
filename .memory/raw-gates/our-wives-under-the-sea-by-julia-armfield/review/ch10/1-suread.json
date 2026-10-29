@@ -1,0 +1,129 @@
+{
+  "chapter": "ch10",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch10_leah.txt",
+  "facts": [
+    {
+      "fact": "Leah 十二岁时在父亲的书里第一次读到 Challenger Deep 与 1960 年 Trieste 下潜的记录",
+      "anchor": "I remember when I was twelve and I first read about the Challenger Deep.",
+      "start": 8,
+      "end": 80
+    },
+    {
+      "fact": "父亲 Michael Henry Frayne 在书内封面印上自己的名字，把书长期借给女儿 Leah",
+      "anchor": "Property of Michael Henry Frayne, on long lease to his daughter Leah",
+      "start": 1147,
+      "end": 1215
+    },
+    {
+      "fact": "Leah 对自己说“够了”，让 Jelka 留在原处，带 Matteo 去后舱查看情况",
+      "anchor": "I told Jelka to stay where she was and took Matteo through to the rear chamber to assess the situation.",
+      "start": 2196,
+      "end": 2299
+    },
+    {
+      "fact": "下潜器仍在坠落且无法停下，Leah 只感到轻微的不对劲与后颈的紧缩",
+      "anchor": "We were still falling, had no way of stopping",
+      "start": 3555,
+      "end": 3600
+    },
+    {
+      "fact": "Matteo 突兀地开口索要三分熟牛排和一杯酒",
+      "anchor": "“I’d like a rare steak,” he said, apropos of nothing. “I’d like a rare steak and a drink.”",
+      "start": 3379,
+      "end": 3469
+    },
+    {
+      "fact": "Matteo 少年时与父亲在 Lake Simcoe 冰钓冻伤，左手只剩拇指与“夹烟的手指”还能动",
+      "anchor": "It was during this fishing trip that Matteo developed such bad frostbite that he lost significant movement and ultimately all but the cigarette fingers and thumb on his left held.",
+      "start": 5066,
+      "end": 5245
+    },
+    {
+      "fact": "Leah 感到舱底传来隐约的隆隆声，Matteo 指出他们正在减速",
+      "anchor": "until Matteo pointed out that we were slowing down",
+      "start": 5979,
+      "end": 6029
+    },
+    {
+      "fact": "Leah 打量后舱，说这是她坐过的最小的潜器，外形像一个倒置的灯泡",
+      "anchor": "The craft was one of the smallest I had ever been on, resembling nothing so much as an upside-down lightbulb, designed to drop like a stone.",
+      "start": 2903,
+      "end": 3043
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Leah–Michael Henry Frayne",
+      "kind": "父女（书内题赠：父亲把书长期借给女儿）",
+      "anchor": "Property of Michael Henry Frayne, on long lease to his daughter Leah",
+      "start": 1147,
+      "end": 1215
+    },
+    {
+      "pair": "Leah–Matteo",
+      "kind": "同舱下潜的同事（Leah 带他去后舱查看情况）",
+      "anchor": "took Matteo through to the rear chamber to assess the situation",
+      "start": 2235,
+      "end": 2298
+    },
+    {
+      "pair": "Matteo–父亲",
+      "kind": "父子（少年冰钓冻伤往事）",
+      "anchor": "when he was a teenager, he’d gone ice-fishing with his father at Lake Simcoe",
+      "start": 4481,
+      "end": 4557
+    },
+    {
+      "pair": "Jacques Piccard–Don Walsh",
+      "kind": "同乘 Trieste 下潜的两位驾驶员",
+      "anchor": "by the Swiss oceanographer Jacques Piccard and an American naval officer named Don Walsh",
+      "start": 331,
+      "end": 419
+    },
+    {
+      "pair": "Leah–Jelka",
+      "kind": "同舱同伴（Leah 命她留在原处）",
+      "anchor": "I told Jelka to stay where she was",
+      "start": 2196,
+      "end": 2230
+    }
+  ],
+  "numbers": [
+    {
+      "value": "1960 年",
+      "anchor": "In 1960, a Swiss-designed submersible craft, the Trieste, was piloted down to this point",
+      "start": 217,
+      "end": 305
+    },
+    {
+      "value": "几乎五小时",
+      "anchor": "The descent, which took almost five hours",
+      "start": 421,
+      "end": 462
+    },
+    {
+      "value": "二十分钟",
+      "anchor": "a grand total of twenty minutes spent on the ocean floor",
+      "start": 476,
+      "end": 532
+    },
+    {
+      "value": "十二岁",
+      "anchor": "I remember when I was twelve",
+      "start": 8,
+      "end": 36
+    },
+    {
+      "value": "左手三根手指",
+      "anchor": "He had only three fingers on his left hand",
+      "start": 3920,
+      "end": 3962
+    },
+    {
+      "value": "四天车程",
+      "anchor": "It was a four-day drive from San Luis Obispo, California",
+      "start": 4611,
+      "end": 4667
+    }
+  ]
+}

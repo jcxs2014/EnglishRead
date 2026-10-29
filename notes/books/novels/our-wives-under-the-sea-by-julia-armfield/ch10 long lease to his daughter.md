@@ -51,7 +51,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "I said to myself OK that’s enough and then said it again aloud to ensure I meant it. I told Jelka to stay where she was and took Matteo through to the rear chamber to assess the situation."
+> **原句 4:** "“I’d like a rare steak,” he said, apropos of nothing. “I’d like a rare steak and a drink.” I looked at him, registering again the curious sensation of blandness, yes wellness."
+
+**中文理解**：Matteo 毫无来由地说：「我想要一份三分熟牛排。」「我想要一份三分熟牛排，再来杯酒。」她看着他，又一次注意到那种奇怪的、平淡的、几乎算得上「安好」的感觉。
+
+**关键词**：apropos of nothing / a rare steak and a drink / the curious sensation of blandness / yes wellness
+
+**为什么这样写**：在一艘正在下沉、停不下来的艇里有人想吃牛排——这个愿望的荒谬先被写在最前面，不带任何解释；接着作者让她「又一次」注意到那种平淡感，yeah wellness 用两个短词把「安好」写成了可疑的东西。她要的对照不是恐惧，而是这种不对劲的平静：身体以为没事，脑子知道不对。
+
+**读者视角提示**：记住「又一次」——这种平淡感不是第一次出现，也不会是最后一次。三分熟牛排是 Matteo 唯一主动提出的愿望。
+
+---
+
+> **原句 5:** "I said to myself OK that’s enough and then said it again aloud to ensure I meant it. I told Jelka to stay where she was and took Matteo through to the rear chamber to assess the situation."
 
 **中文理解**：她先在心里对自己说「够了」，再出声把这句话重复一遍，好确认自己真是这个意思；然后让 Jelka 留在原处，带 Matteo 进后舱去看看情况。
 
@@ -63,7 +75,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "I had asked him what his father had done when he’d realised what was happening and Matteo had shaken his head at me, explained that he hadn’t told him. End of the third day, when I realised the skin of my hand was changing colour, I just put my gloves on and used my right hand to hold the fish hook for the rest of the trip."
+> **原句 6:** "I had asked him what his father had done when he’d realised what was happening and Matteo had shaken his head at me, explained that he hadn’t told him. End of the third day, when I realised the skin of my hand was changing colour, I just put my gloves on and used my right hand to hold the fish hook for the rest of the trip."
 
 **中文理解**：她问 Matteo，当年他意识到出了什么事的时候，他父亲做了什么；Matteo 摇摇头，说自己没告诉他。到第三天他发现那只手的肤色变了，也只是戴上手套，改用右手扶鱼钩，把剩下的行程撑完。
 
@@ -75,7 +87,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "We stood in the rear chamber for a long time, just looking around, unsure of what it was we were hoping to see. After a while, I registered a vague rumbling, a gentle sense of alteration in the ground beneath me which I couldn’t identify until Matteo pointed out that we were slowing down."
+> **原句 7:** "We stood in the rear chamber for a long time, just looking around, unsure of what it was we were hoping to see. After a while, I registered a vague rumbling, a gentle sense of alteration in the ground beneath me which I couldn’t identify until Matteo pointed out that we were slowing down."
 
 **中文理解**：两人在后舱站了很久，只是四处看，并不确定自己希望看到什么；过了一会儿，她感到一阵模糊的轰鸣、脚下的地面像在轻轻变化，自己说不清是什么，直到 Matteo 指出他们正在减速。
 
