@@ -51,7 +51,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "Without lights, the water was blind around us and holding torches to the glass resulted in little but our own faces reflected back – ghost forms in deep water, six eyes peering in from without."
+> **原句 4:** "None of us commented on the strangeness of the situation, on the way a routine research dive had so quickly turned into this. As before, during the fall, the impulse to question felt curiously flattened, the notion of how this had happened somehow beside the point."
+
+**中文理解**：他们谁都没有评论这件事有多怪——一次例行的科研下潜这么快要变成这个样子。就像坠落的时候一样，想问的冲动被奇怪地压平了，「这到底是怎么发生的」仿佛变得不重要。
+
+**关键词**：None of us commented / a routine research dive / curiously flattened / beside the point
+
+**为什么这样写**：这一块解释了整章的语调：不是他们不想问，是问的冲动被削掉了。作者用 flattened 这个动作性很强的词描述一种消失——像被压平的纸，形状还在，厚度没了。beside the point 是关键：不是不知道答案，是答案不再重要。归来的岸上线也靠这句成立——两个月后她仍然不问，因为「问」这个动作在他们之间已经被压平过一次了。
+
+**读者视角提示**：注意 flattened 这个动词——它写的是「消失的方式」，不是「消失的程度」：形状还在，厚度没了。
+
+---
+
+> **原句 5:** "Without lights, the water was blind around us and holding torches to the glass resulted in little but our own faces reflected back – ghost forms in deep water, six eyes peering in from without."
 
 **中文理解**：没有灯，四周的水是瞎的；拿手电照玻璃，照回来的只有自己的脸——深水里的鬼影，六只眼睛从外面往里看。
 
@@ -63,7 +75,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "Once you reach depths of thirteen thousand feet, everything has a strange name but rarely a backbone: vampire squid and zombie worms, cosmic jellyfish, tripodfish and faceless cusks and pelican eels. Creatures that live this deep are frequently solitary and only infrequently seen."
+> **原句 6:** "Once you reach depths of thirteen thousand feet, everything has a strange name but rarely a backbone: vampire squid and zombie worms, cosmic jellyfish, tripodfish and faceless cusks and pelican eels. Creatures that live this deep are frequently solitary and only infrequently seen."
 
 **中文理解**：她开始念课文：到了这个深度，东西都有奇怪的名字，却很少还有脊椎——吸血乌贼、僵尸蠕虫、宇宙水母、三脚鱼、无脸鲸、鹈鹕鳗。住在这里的生物多半独居，很少被看见。
 
@@ -75,7 +87,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "It was difficult to tell exactly how far we had fallen without the system online to give us a read. It would, I suppose, have been entirely possible to hit the sea bed without falling into one of the trenches, although looking out onto the blackness, I believed almost without question that we had fallen as far as it was possible to go."
+> **原句 7:** "It was difficult to tell exactly how far we had fallen without the system online to give us a read. It would, I suppose, have been entirely possible to hit the sea bed without falling into one of the trenches, although looking out onto the blackness, I believed almost without question that we had fallen as far as it was possible to go."
 
 **中文理解**：她承认没有系统在线，就说不清到底掉了多深；按道理，完全可能直接砸在海床上，没有掉进海沟；可看着外面那片黑，她几乎毫不怀疑自己已经落到能落的最深处——想象不出还有比这里更深的地方。
 

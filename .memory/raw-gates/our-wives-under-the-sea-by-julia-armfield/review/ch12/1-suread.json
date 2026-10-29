@@ -1,0 +1,134 @@
+{
+  "chapter": "ch12",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch12_leah.txt",
+  "facts": [
+    {
+      "fact": "Matteo 在潜水器奇迹般轻缓停住约半小时后，再次徒劳地尝试发送求救信号",
+      "anchor": "Matteo started vainly trying to send distress signals again",
+      "start": 103,
+      "end": 162
+    },
+    {
+      "fact": "Jelka 指出此举毫无意义，因为她们正身处唯一能下潜到此深度的船上",
+      "anchor": "there was little to no sense in doing this, since we were on board the only vessel capable of diving to such a depth",
+      "start": 192,
+      "end": 308
+    },
+    {
+      "fact": "Jelka 讽刺说难道上面会派搜救队下到一万英尺、再扔绳梯走完剩下的路",
+      "anchor": "send a search party ten thousand feet then throw a rope ladder the rest of the way?",
+      "start": 408,
+      "end": 491
+    },
+    {
+      "fact": "Leah 记得 Jelka 瞪着她们，瘦得几乎不成人形却还能走动",
+      "anchor": "I remember her then, glaring at us, as thin as I have ever known a person to be and still be able to move around",
+      "start": 493,
+      "end": 605
+    },
+    {
+      "fact": "无人评论处境的诡异，正如坠落时那样，质疑的冲动被奇怪地压平了",
+      "anchor": "the impulse to question felt curiously flattened",
+      "start": 763,
+      "end": 811
+    },
+    {
+      "fact": "Leah 又短暂闻到烧焦的人肉味，想说点什么，却用海面之上的琐事转移了注意力",
+      "anchor": "I smelled burning flesh again, just for a moment, and thought about saying something",
+      "start": 875,
+      "end": 959
+    },
+    {
+      "fact": "举灯照向舷窗只照回自己的脸——深水中的鬼影，六只眼睛从外面窥视",
+      "anchor": "six eyes peering in from without",
+      "start": 1482,
+      "end": 1514
+    },
+    {
+      "fact": "系统离线，无法确知下坠了多深；Leah 几乎毫不怀疑她们已落到可能的最深处",
+      "anchor": "I believed almost without question that we had fallen as far as it was possible to go",
+      "start": 3769,
+      "end": 3854
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Matteo–Jelka",
+      "kind": "同伴反驳（Jelka 当面否掉 Matteo 的求救尝试）",
+      "anchor": "though as Jelka pointed out there was little to no sense in doing this",
+      "start": 164,
+      "end": 234
+    },
+    {
+      "pair": "Jelka–Leah",
+      "kind": "被注视的记忆（Leah 记得 Jelka 瞪视众人、瘦得脱形）",
+      "anchor": "I remember her then, glaring at us, as thin as I have ever known a person to be",
+      "start": 493,
+      "end": 572
+    },
+    {
+      "pair": "Leah–Miri",
+      "kind": "亲密的思念（亲吻带血味、咬唇的习惯）",
+      "anchor": "the way Miri bit at the skin of her lip so often that kissing tasted bloody",
+      "start": 1131,
+      "end": 1206
+    },
+    {
+      "pair": "Leah–同船三人",
+      "kind": "共同被困却不质疑（无人评论处境的诡异）",
+      "anchor": "None of us commented on the strangeness of the situation",
+      "start": 609,
+      "end": 665
+    }
+  ],
+  "numbers": [
+    {
+      "value": "半小时",
+      "anchor": "half an hour",
+      "start": 36,
+      "end": 48
+    },
+    {
+      "value": "五个主要水层",
+      "anchor": "five main layers",
+      "start": 1528,
+      "end": 1544
+    },
+    {
+      "value": "六百英尺",
+      "anchor": "approximately six hundred feet beneath",
+      "start": 1734,
+      "end": 1772
+    },
+    {
+      "value": "三千英尺",
+      "anchor": "reaching an approximate three thousand feet",
+      "start": 1946,
+      "end": 1989
+    },
+    {
+      "value": "一万英尺",
+      "anchor": "ten thousand feet",
+      "start": 428,
+      "end": 445
+    },
+    {
+      "value": "一万三千英尺",
+      "anchor": "At around thirteen thousand feet and below",
+      "start": 2145,
+      "end": 2187
+    },
+    {
+      "value": "一万九千至三万六千英尺",
+      "anchor": "Lying between roughly nineteen and thirty-six thousand feet",
+      "start": 3377,
+      "end": 3436
+    },
+    {
+      "value": "六只眼睛",
+      "anchor": "six eyes peering in from without",
+      "start": 1482,
+      "end": 1514
+    }
+  ]
+}
