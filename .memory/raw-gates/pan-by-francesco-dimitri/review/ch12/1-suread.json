@@ -1,0 +1,107 @@
+{
+ "chapter": "ch12",
+ "file": "text/ch12_in_death.txt",
+ "text_chars": 17483,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "梦界：Nibs 与瘦孩子在林边窥视沙滩上的父子，孩子惊问「那是个父亲」；他们的任务是给扈从抓最后一个女孩，然后「就开始」",
+   "anchor": "Then it begins.",
+   "offset": 516
+  },
+  {
+   "id": "F2",
+   "fact": "罗马清晨：Wendy 在 Giada 家宿醉醒来，Peter 盖 Poochie 毯睡沙发、已长成八岁孩子模样、人性递增；Giada 递咖啡时吻了她的嘴，随即道歉",
+   "anchor": "So this is how a woman’s touch feels",
+   "offset": 6727
+  },
+  {
+   "id": "F3",
+   "fact": "Wendy 复盘 Dal Mare 登门：他最后叫出「Wondrous Wendy」，暴露了心理术式的套近乎，她由此断定叔叔不怀好意",
+   "anchor": "he called her Wondrous Wendy",
+   "offset": 3219
+  },
+  {
+   "id": "F4",
+   "fact": "Luisa 被关在 Galleon 底舱，海盗剥衣踢打但未侵犯（Hook 不许强奸）；提灯来者是 Giovanni 的导师 Fatty Bolger／Stranieri 教授",
+   "anchor": "“Not any more,” says the old professor.",
+   "offset": 8828
+  },
+  {
+   "id": "F5",
+   "fact": "Silvia 在 Giovanni 旧房睡，清晨发现 Stefano 的鼾声消失——他死于又一次中风",
+   "anchor": "He’s already gone, with nothing more to say.",
+   "offset": 11460
+  },
+  {
+   "id": "F6",
+   "fact": "Giovanni 第一次直面尸体，以人类学家与儿子两种身份自问；医生 Falco 说「这对 Stefano 是好事」，Angela 想打他",
+   "anchor": "“This was for the best, for Stefano.”",
+   "offset": 14392
+  },
+  {
+   "id": "F7",
+   "fact": "Angela 全章无泪、愤怒而非悲伤；章末她吻发烧的 Michele 额头，末句向死亡宣战",
+   "anchor": "It’ll have to try harder with her.",
+   "offset": 17448
+  },
+  {
+   "id": "F8",
+   "fact": "Giovanni 反复打 Luisa 电话不通，怀疑她可能在别人家过夜",
+   "anchor": "her phone is turned off",
+   "offset": 13102
+  }
+ ],
+ "numbers": [
+  {
+   "value": "five",
+   "what": "本章五节（I–V）",
+   "anchor": "\nV\n",
+   "offset": 14084
+  },
+  {
+   "value": "eight",
+   "what": "Peter 已像八岁孩子",
+   "anchor": "he could already be a child of eight",
+   "offset": 1765
+  },
+  {
+   "value": "eight inches",
+   "what": "Peter 阴茎长度（原文粗俗直陈）",
+   "anchor": "more than eight inches long at rest",
+   "offset": 5479
+  },
+  {
+   "value": "three hundred euros",
+   "what": "专家问诊价",
+   "anchor": "three hundred euros an hour",
+   "offset": 9335
+  },
+  {
+   "value": "two bottles",
+   "what": "两人前一晚喝掉的酒量",
+   "anchor": "Almost two bottles",
+   "offset": 6438
+  }
+ ],
+ "relations": [
+  {
+   "who": "Fatty Bolger",
+   "what": "即 Stranieri 教授，Giovanni 的导师，此刻在 Galleon 上替 Hook 传话",
+   "anchor": "“Fatty Bolger!” she exclaims.",
+   "offset": 8740
+  },
+  {
+   "who": "Angela",
+   "what": "即 Wondrous Wendy，Giovanni 的姐姐、Michele 的姐姐",
+   "anchor": "Angela comforts her brother and her mother",
+   "offset": 14158
+  },
+  {
+   "who": "Luisa",
+   "what": "Giovanni 的女友，被掳上 Galleon",
+   "anchor": "her boyfriend is as far away as he possibly could be",
+   "offset": 7989
+  }
+ ]
+}
