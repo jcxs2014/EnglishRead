@@ -87,7 +87,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "Leah is there, and the bed is soaking, and it takes me longer than it should do, even in darkness, to realise the water is coming from her. As I stand in the doorway, she screams and keeps on screaming, apparently unaware of my presence, and the sound is only interrupted when her body contorts, convulses, and she vomits a shower of water across the bed."
+> **原句 7:** "I had given the cards to Leah and she had cried about them and kissed me, and I’m really only telling this story now because it makes me look good, and because Leah always took the postcard of Pamela with her on work trips after that."
+
+**中文理解**：那些明信片给了 Leah 之后，她哭了，吻了她；Miri 说，她现在讲这件事，一半是因为这让自己显得很好，另一半是因为从那以后，Leah 每次出差都把那张帕梅拉的明信片带在身边。
+
+**关键词**：cried about them and kissed me / makes me look good / took the postcard of Pamela / on work trips
+
+**为什么这样写**：这是全书最会替自己说话的一段：她先把动机交代清楚——我要讲这个故事，因为它让我显得好看——这种自揭比任何谦虚都更可信。接着一句轻描淡写把帕梅拉的行踪交代了：那张明信片此后每次都跟着 Leah 出差。礼物、章鱼、远行，在同一个句子里扣上；读者要到很后面才知道这张卡片意味着什么，可在这里它已经随她下海了。
+
+**读者视角提示**：记住「每次出差都带在身边」。帕梅拉这条线（水族馆、十七岁、十八岁那晚）在本章前面已经铺好，明信片是它的最后一块。
+
+---
+
+> **原句 8:** "Leah is there, and the bed is soaking, and it takes me longer than it should do, even in darkness, to realise the water is coming from her. As I stand in the doorway, she screams and keeps on screaming, apparently unaware of my presence, and the sound is only interrupted when her body contorts, convulses, and she vomits a shower of water across the bed."
 
 **中文理解**：她推门进去，床是湿的，而且过了比该有的更久才明白水是从Leah身上来的。Leah一直尖叫，好像不知道她站在门口，直到身体扭起来、抽搐起来，朝床上吐出一片水。
 

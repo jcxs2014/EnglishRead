@@ -1,0 +1,141 @@
+{
+  "chapter": "ch11",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch11_miri.txt",
+  "facts": [
+    {
+      "fact": "母亲葬礼前一天，Miri 把六片 Nurofen 与洒出的烹饪白兰地一起吞下，两种东西叠加造成感觉错序的“多普勒效应”",
+      "anchor": "I’d taken six Nurofen together with a spill of cooking brandy",
+      "start": 504,
+      "end": 565
+    },
+    {
+      "fact": "Miri 把 Centre 的号码设进新手机的自动拨号，此后按一个键就能开始一天",
+      "anchor": "I programme the Centre into the handset’s automated dial function",
+      "start": 2478,
+      "end": 2543
+    },
+    {
+      "fact": "Miri 撞见 Leah 往柠檬水里舀食盐，把杯子拿走",
+      "anchor": "caught her spooning table salt into the mixture",
+      "start": 2923,
+      "end": 2970
+    },
+    {
+      "fact": "争吵中 Leah 抓起橙子砸向砖墙，橙子像内脏一样发出湿软的声响滚过地板",
+      "anchor": "takes up the orange and throws it against the wall",
+      "start": 5790,
+      "end": 5840
+    },
+    {
+      "fact": "Leah 少女时期在水族馆打工，十七岁，剪短头发、穿截到膝上的潜水服喂海豚",
+      "anchor": "Leah worked at the aquarium as a teenager",
+      "start": 6093,
+      "end": 6134
+    },
+    {
+      "fact": "十八岁的 Leah 曾在闭馆后放一个女友进水族馆，两人在 Open Ocean 缸边亲吻，事后去章鱼房发现 Pamela 已死",
+      "anchor": "letting a girlfriend into the aquarium one night after hours",
+      "start": 7340,
+      "end": 7400
+    },
+    {
+      "fact": "Leah 三十岁生日时，Miri 送她一整版水族馆宣传明信片，最后第二张印着 Pamela",
+      "anchor": "on Leah’s thirtieth birthday, when I gave her a sleeve of promotional postcards",
+      "start": 10261,
+      "end": 10340
+    },
+    {
+      "fact": "某个夜里 Leah 尖叫，床被水浸透、水从她身上来，她抽搐着把一股水呕到床上，醒来不认识 Miri",
+      "anchor": "she vomits a shower of water across the bed",
+      "start": 14774,
+      "end": 14817
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "kind": "伴侣／同住一间公寓但已分房，关系处在破裂边缘",
+      "anchor": "Say it was my choice to move into the spare room.",
+      "start": 5523,
+      "end": 5572
+    },
+    {
+      "pair": "Miri–母亲",
+      "kind": "母亲已去世，Miri 反复回想葬礼前那一天",
+      "anchor": "The morning before her funeral",
+      "start": 472,
+      "end": 502
+    },
+    {
+      "pair": "Leah–Pamela",
+      "kind": "少女志愿者与巨型太平洋章鱼之间的依恋",
+      "anchor": "a giant Pacific octopus named Pamela",
+      "start": 6791,
+      "end": 6827
+    },
+    {
+      "pair": "Leah–Centre",
+      "kind": "多年后加入 Centre for Marine Enquiry 任职（并非机构初创成员）",
+      "anchor": "Leah didn’t move to the Centre until many years after we met",
+      "start": 11734,
+      "end": 11794
+    },
+    {
+      "pair": "Leah–十八岁的女友",
+      "kind": "闭馆后带进馆内的青年时期恋人",
+      "anchor": "kissing on the floor beside the Open Ocean tank",
+      "start": 7456,
+      "end": 7503
+    }
+  ],
+  "numbers": [
+    {
+      "value": "六片（Nurofen）",
+      "anchor": "six Nurofen",
+      "start": 514,
+      "end": 525
+    },
+    {
+      "value": "将近两个月",
+      "anchor": "Leah has been back nearly two months",
+      "start": 222,
+      "end": 258
+    },
+    {
+      "value": "十七岁",
+      "anchor": "her shag-cut hair at seventeen",
+      "start": 6249,
+      "end": 6279
+    },
+    {
+      "value": "三十岁生日",
+      "anchor": "Leah’s thirtieth birthday",
+      "start": 10264,
+      "end": 10289
+    },
+    {
+      "value": "至少十五年",
+      "anchor": "at least fifteen years old",
+      "start": 10476,
+      "end": 10502
+    },
+    {
+      "value": "3 到 4 岁",
+      "anchor": "estimated age between 3 and 4 years old",
+      "start": 10975,
+      "end": 11014
+    },
+    {
+      "value": "三个心脏",
+      "anchor": "her three hearts beat out blueish copper blood",
+      "start": 8866,
+      "end": 8912
+    },
+    {
+      "value": "每天三次以上",
+      "anchor": "upwards of three times a day",
+      "start": 4585,
+      "end": 4613
+    }
+  ]
+}
