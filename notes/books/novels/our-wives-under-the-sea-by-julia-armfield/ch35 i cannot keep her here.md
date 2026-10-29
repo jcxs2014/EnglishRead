@@ -97,7 +97,15 @@ modified: "2026-10-29"
 
 **读者视角提示**：Miri 整章都在描述 Leah，这一段第一次让另一个人开口；她说「别道歉」，说明 Miri 在电话里先道了歉——那句话被省略了。
 
-## 本章词汇
+> **原句 8:** "When I’ve hung up, I take every towel we have and wet them in the bathroom sink, one by one, then pour the rest of the table salt over each and allow it to soak into the fabric."
+
+**中文理解**：挂掉电话，她把家里所有毛巾拿进浴室，一条条在水槽里浸湿，再把剩下的食盐倒在每一条上，让盐渗进布里。
+
+**关键词**：take every towel we have / wet them in the bathroom sink / pour the rest of the table salt / soak into the fabric
+
+**为什么这样写**：全章最后一个动作不是哭、不是再看她一眼，而是一串工序：取、浸、一条条、倒、让它渗。四个连续动词没有一处停顿，`one by one` 把这件事拆成可以数清的次数——她要让自己手上一直有活干。盐在全章一直是维持 Leah 的东西，此刻它被涂到将要包住她的布上，等于提前把「带走的办法」准备好，而作者一句解释都不给。
+
+**读者视角提示**：注意她说「剩下的」食盐——上一段刚说盐快用完了。这一句既是物质上的盘点，也是她决定怎么用最后一点盐。## 本章词汇
 
 ### ⭐⭐⭐ 高级
 

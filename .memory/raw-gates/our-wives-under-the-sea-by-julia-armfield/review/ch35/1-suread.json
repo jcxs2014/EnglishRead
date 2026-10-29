@@ -1,0 +1,84 @@
+{
+ "chapter": "ch35",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch35_miri.txt",
+ "facts": [
+  {
+   "fact": "周二 Leah 一条腿开始失去动作，另一条腿如今也撑不住了；皮肤透明是间歇的，时而像珍珠母、时而像水、又变回皮肤。",
+   "anchor": "On Tuesday, Leah started losing motion in one of her legs",
+   "start": 92,
+   "end": 149
+  },
+  {
+   "fact": "盐快用完了，她不愿离开 Leah；她把手放在她原来长眼睛的位置，觉得一捏那只手就会化进水里。",
+   "anchor": "I understand that she needs more salt, but I’m running low",
+   "start": 505,
+   "end": 563
+  },
+  {
+   "fact": "皮肤下像一层半透的膜，取代了原本坚实的肌肉与皮肤支架。",
+   "anchor": "the sense of a semi-porous membrane in place of what was once",
+   "start": 820,
+   "end": 881
+  },
+  {
+   "fact": "过了午夜，Leah 的呼吸坏到她忽然发狂要换掉浴缸里的水。",
+   "anchor": "It is after midnight when her breathing becomes bad enough",
+   "start": 924,
+   "end": 982
+  },
+  {
+   "fact": "她把她从水里拉起来时，发现没有水的扭曲之后，她脸上的表情不是自己记得的样子，几乎脱手把她摔回去。",
+   "anchor": "the shape of her expression without the distortion of water above her",
+   "start": 1336,
+   "end": 1405
+  },
+  {
+   "fact": "她松手让她沉回去，水溅出来打湿她的脚，她这才明白自己留不住她。",
+   "anchor": "I realise as I watch her sink that I cannot keep her here",
+   "start": 2079,
+   "end": 2136
+  },
+  {
+   "fact": "她给 Juna 打电话，Juna 立刻接起，说自己有车、让她别道歉、反正她也睡不了多少。",
+   "anchor": "I’m not sure what time it is when I call Juna",
+   "start": 2140,
+   "end": 2185
+  },
+  {
+   "fact": "挂掉电话后，她把家里所有毛巾浸湿，再把剩下的食盐倒在每条毛巾上让它渗进去。",
+   "anchor": "I take every towel we have and wet them in the bathroom sink",
+   "start": 2338,
+   "end": 2398
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Miri–Leah",
+   "kind": "伴侣/照护者",
+   "anchor": "I understand that she needs more salt, but I’m running low",
+   "start": 505,
+   "end": 563
+  },
+  {
+   "pair": "Miri–Juna",
+   "kind": "求助对象（Jelka 的姐姐）",
+   "anchor": "I’m not sure what time it is when I call Juna",
+   "start": 2140,
+   "end": 2185
+  }
+ ],
+ "numbers": [
+  {
+   "value": "周二（Tuesday）",
+   "anchor": "On Tuesday, Leah started losing motion",
+   "start": 92,
+   "end": 130
+  },
+  {
+   "value": "凌晨之后（after midnight）",
+   "anchor": "It is after midnight when her breathing",
+   "start": 924,
+   "end": 963
+  }
+ ]
+}
