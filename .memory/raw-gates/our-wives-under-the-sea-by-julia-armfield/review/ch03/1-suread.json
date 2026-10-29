@@ -1,0 +1,152 @@
+{
+  "chapter": "ch03",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch03_miri.txt",
+  "facts": [
+    {
+      "fact": "Leah 回家已三周，叙述者（Miri）基本已习惯这一切",
+      "anchor": "She’s been home three weeks and I’m mostly used to everything.",
+      "start": 8,
+      "end": 70
+    },
+    {
+      "fact": "Miri 以替非营利组织写资助申请为生，一直在家工作",
+      "anchor": "I write grant applications for non-profit organisations for a living",
+      "start": 264,
+      "end": 332
+    },
+    {
+      "fact": "Leah 突然说受不了楼上电视的噪音",
+      "anchor": "“I can’t stand this,” Leah says suddenly.",
+      "start": 3781,
+      "end": 3822
+    },
+    {
+      "fact": "Miri 上楼去敲邻居的门，但没人应门",
+      "anchor": "I go upstairs and hammer on the door but the neighbours don’t answer",
+      "start": 4214,
+      "end": 4282
+    },
+    {
+      "fact": "Miri 意识到自己从未真正见过邻居，一切只是间接证据",
+      "anchor": "I have never actually laid eyes on the neighbours",
+      "start": 4396,
+      "end": 4445
+    },
+    {
+      "fact": "Miri 六分钟后回来，发现 Leah 已从客厅角落移进浴室并开着两个水龙头",
+      "anchor": "Leah has moved from the corner of the living room and is locked in the bathroom, running both the taps.",
+      "start": 5050,
+      "end": 5153
+    },
+    {
+      "fact": "Leah 把中心寄来的助眠电箱带进浴室并打开",
+      "anchor": "She has, it appears, taken the electric box she uses to sleep into the bathroom",
+      "start": 6023,
+      "end": 6102
+    },
+    {
+      "fact": "Miri 记得 Leah 本应离开三周却失踪了六个月，无人知道发生了什么",
+      "anchor": "gone for three weeks and disappeared for six months",
+      "start": 8446,
+      "end": 8497
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri 与 Leah",
+      "kind": "多年伴侣，彼此已融为一体、难分难解",
+      "anchor": "a point before Leah and I became this fused, inextricable thing",
+      "start": 6599,
+      "end": 6662
+    },
+    {
+      "pair": "Leah 与楼上邻居",
+      "kind": "她过去常深夜上楼请他们把电视关小",
+      "anchor": "Leah used to go up there sometimes, knock on the door late at night and ask them to turn it down.",
+      "start": 2915,
+      "end": 3012
+    },
+    {
+      "pair": "Miri 与邻居",
+      "kind": "同住多年却从未见过面，只凭脚步声与音乐推断其存在",
+      "anchor": "I have never actually laid eyes on the neighbours",
+      "start": 4396,
+      "end": 4445
+    },
+    {
+      "pair": "Leah 与中心（the Centre）",
+      "kind": "中心寄来助眠电箱、减压袜与格言书作为离别赠礼",
+      "anchor": "a parting gift from the Centre",
+      "start": 6158,
+      "end": 6188
+    }
+  ],
+  "numbers": [
+    {
+      "value": "三周",
+      "anchor": "She’s been home three weeks",
+      "start": 8,
+      "end": 35
+    },
+    {
+      "value": "半小时",
+      "anchor": "answer emails for half an hour",
+      "start": 121,
+      "end": 151
+    },
+    {
+      "value": "四分钟",
+      "anchor": "stare into a stranger’s eyes for four minutes",
+      "start": 1633,
+      "end": 1678
+    },
+    {
+      "value": "两分钟",
+      "anchor": "threw his chair back after two minutes",
+      "start": 1879,
+      "end": 1917
+    },
+    {
+      "value": "六分钟",
+      "anchor": "I’m only gone a total of six minutes",
+      "start": 4985,
+      "end": 5021
+    },
+    {
+      "value": "凌晨四点",
+      "anchor": "4am, grey twitch of morning",
+      "start": 5266,
+      "end": 5293
+    },
+    {
+      "value": "一小时四十五分钟",
+      "anchor": "stuck underground for an hour and forty-five minutes",
+      "start": 7622,
+      "end": 7674
+    },
+    {
+      "value": "三周",
+      "anchor": "gone for three weeks and disappeared for six months",
+      "start": 8446,
+      "end": 8497
+    },
+    {
+      "value": "六个月",
+      "anchor": "disappeared for six months, the fact that none of us knew",
+      "start": 8471,
+      "end": 8528
+    },
+    {
+      "value": "一个多小时",
+      "anchor": "sitting in the corner of the room for upwards of an hour",
+      "start": 3834,
+      "end": 3890
+    },
+    {
+      "value": "几分钟",
+      "anchor": "listened to the show for several minutes",
+      "start": 2811,
+      "end": 2851
+    }
+  ]
+}

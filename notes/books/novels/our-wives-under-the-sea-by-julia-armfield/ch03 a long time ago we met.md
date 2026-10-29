@@ -63,7 +63,31 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "Every couple, I think, enjoys its own mythology, recollections like notecards to guide you round an exhibition: Fig. A. Portrait of the couple dancing at a colleague’s Catholic wedding. Fig. B. Charcoal sketch of the couple fighting over who said what at a cokey dinner with acquaintances (note fine lines beneath completed sketch, indicating places where the artist has repeatedly erased and redrawn)."
+> **原句 5:** "I go upstairs and hammer on the door but the neighbours don’t answer, the noise of the television oddly quieter in the corridor than it seems in the flat below. It occurs to me that I have never actually laid eyes on the neighbours, that the whole time we’ve lived where we live I’ve taken their presence as a given on the basis of evidence that is, at best, circumstantial."
+
+**中文理解**：Miri 上楼去捶邻居的门，没人应；走廊里的电视声反而比楼下听起来更轻。她这才想到，自己从未真正见过邻居——住在这里这么久，她一直把他们的存在当作既定事实，凭的只是脚步声、闷住的音乐、夜里挪家具这类至多只能算间接的证据。
+
+**关键词**：hammer on the door / oddly quieter in the corridor / never actually laid eyes on / at best, circumstantial
+
+**为什么这样写**：这一段把「噪音」这条线从日常烦躁翻成一次认知事故。捶门、无人应答、声音在走廊里反而变小，三个物证先摆好，再让「从未见过邻居」这句落地。circumstantial 是法律词，用在这里等于承认她对生活的判断一直建立在旁证上。前文她把电视调到同一频道来抵消烦躁，到这里读者才明白：她连邻居是谁都不知道，就已经和这个声音同住了很久。
+
+**读者视角提示**：这一段之后，楼上的电视从「烦」变成「可疑」。注意她既没有追问也没有告诉 Leah，把疑问放下了，理由在下一段：真正困扰她的不是邻居，是那台电视。
+
+---
+
+> **原句 6:** "I’m only gone a total of six minutes but by the time I get back, Leah has moved from the corner of the living room and is locked in the bathroom, running both the taps. This isn’t entirely unusual. Quite often these days I will wake at odd hours and hear the bathtub being filled."
+
+**中文理解**：她只离开了六分钟，回来时 Leah 已经从客厅角落挪进浴室，把自己锁在里面，两个水龙头全开着。这并不算反常——这些日子她常常在奇怪的钟点醒来，听见浴缸在放水。
+
+**关键词**：a total of six minutes / locked in the bathroom / running both the taps / wake at odd hours
+
+**为什么这样写**：作者先用「六分钟」这个短到不容辩解的数字，再用「并不反常」把读者的判断按住：真正可怕的不是这一次，是这已经是常态。三个动作全是被动语态式的描述——人挪了位置、门锁上了、水开着——没有一句解释她为什么进去。最后一句把范围从今晚扩到「这些日子」，于是浴缸成为一个固定的时间坐标，读者也就此学会：水声在这本书里不是背景音，是症状。
+
+**读者视角提示**：记住「六分钟」和「两个水龙头」。这章结尾她站在浴室门外想敲又没敲，水的问题从这一块开始一直延续到后面几章。
+
+---
+
+> **原句 7:** "Every couple, I think, enjoys its own mythology, recollections like notecards to guide you round an exhibition: Fig. A. Portrait of the couple dancing at a colleague’s Catholic wedding. Fig. B. Charcoal sketch of the couple fighting over who said what at a cokey dinner with acquaintances (note fine lines beneath completed sketch, indicating places where the artist has repeatedly erased and redrawn)."
 
 **中文理解**：她说每对伴侣都有自己的神话，回忆像一张张说明卡，带着人逛一场展览：图 A 是这对伴侣在同事的天主教婚礼上跳舞；图 B 是一幅炭笔素描，画他们在一次熟人饭局上争论谁说了什么，画下留着细线，标出画家反复擦掉又重画的地方。
 
