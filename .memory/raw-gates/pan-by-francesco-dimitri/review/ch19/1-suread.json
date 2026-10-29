@@ -1,0 +1,119 @@
+{
+ "chapter": "ch19",
+ "file": "text/ch19_the_pirate_galleon.txt",
+ "text_chars": 26925,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "Dal Mare 在七具被开膛的孩子尸身旁擦汗；预言确认他需要 Michele 的血；他派 Wedge 追 Michele，但更想策反 Cavaterra 一家",
+   "anchor": "he needs Michele Cavaterra’s blood",
+   "offset": 349
+  },
+  {
+   "id": "F2",
+   "fact": "清晨 Giada 与 Wendy 河边洗浴、互相挑逗；发现树影里 Peter 裸身自渎，他的注视把玩笑变成失控的自渎，一滴精液隔岸落到 Wendy 发间，她当作圣餐吞下",
+   "anchor": "Wendy accepts the sacrament of the god.",
+   "offset": 4908
+  },
+  {
+   "id": "F3",
+   "fact": "营地：Filippo 八岁已是纯熟杀手（在 Flesh 口吃、在 Enchantment 不口吃）；双子玩 Imaginary Enemies，唯禁 Goku 与 Peter Pan",
+   "anchor": "at eight years old he’s already an accomplished killer",
+   "offset": 5952
+  },
+  {
+   "id": "F4",
+   "fact": "Peter 对今晚作战只说「今晚就是今晚，我不会让它毁掉我今天」；Giovanni 质问宣战演说，Peter 只给结果不给方法",
+   "anchor": "“Tonight’s tonight. I’m not going to let it ruin my day.”",
+   "offset": 9202
+  },
+  {
+   "id": "F5",
+   "fact": "Wendy 花一小时讲「带一队会飞的孩子攻打海盗船」，被欢呼授职 Exalted Strategist，获赠一张澳大利亚地图；Giada 判「这将是一场屠杀」",
+   "anchor": "This is going to be a massacre",
+   "offset": 12137
+  },
+  {
+   "id": "F6",
+   "fact": "三人讨论三 Aspects：Giovanni 说是「视角」，Wendy 说戏法与魔法没有区别，Giovanni 心里想今夜要靠奇迹",
+   "anchor": "There’s no difference.",
+   "offset": 14005
+  },
+  {
+   "id": "F7",
+   "fact": "Hook 在船头独白：恨纸墨之力、要最后的战争、人该得到和平与秩序；随后登船是空船陷阱，海盗从各处涌出",
+   "anchor": "soon Hook will free himself from the power of paper and ink",
+   "offset": 14964
+  },
+  {
+   "id": "F8",
+   "fact": "孩子们与海盗打成平手（武器小、动作快、能飞、不可预测）；Wendy 与 Giada 替 Giovanni 挡住五名海盗，他先去找牢房",
+   "anchor": "but they are immense strength",
+   "offset": 17030
+  },
+  {
+   "id": "F9",
+   "fact": "牢中 Luisa 听见厮杀、后悔没把秘密告诉 Giovanni；进来的是 Smee（即 Fatty），一剑穿透她右眼杀死她",
+   "anchor": "Luisa feels the metal pierce her right eye",
+   "offset": 18626
+  },
+  {
+   "id": "F10",
+   "fact": "Hook 以西西里神父祝圣的网擒住 Tinker Bell（圣物灼伤她的本性），把她拖进大理石船（Flesh）再换回 Enchantment，把剑塞回她手中、旁边是 Luisa 尚温的尸体；Fatty 谎称 Peter 要杀 Luisa，把 Giovanni 引到现场；Giovanni 嚎叫着攻击仙女，仙女跃窗撤退，他抱起 Luisa，只剩眼泪",
+   "anchor": "All that’s left are tears, and nothing more.",
+   "offset": 26880
+  }
+ ],
+ "numbers": [
+  {
+   "value": "ten",
+   "what": "本章十节（I–X）",
+   "anchor": "\nX\n",
+   "offset": 23949
+  },
+  {
+   "value": "seven",
+   "what": "被开膛的孩子数",
+   "anchor": "gutted bodies of seven children",
+   "offset": 156
+  },
+  {
+   "value": "eight",
+   "what": "Filippo 年龄",
+   "anchor": "at eight years old",
+   "offset": 5952
+  },
+  {
+   "value": "five",
+   "what": "拦路的海盗人数",
+   "anchor": "There are five of them, swords drawn.",
+   "offset": 21904
+  },
+  {
+   "value": "one hour",
+   "what": "Wendy 讲计划耗时",
+   "anchor": "it takes Wendy more than an hour",
+   "offset": 11476
+  }
+ ],
+ "relations": [
+  {
+   "who": "Smee",
+   "what": "即 Fatty/Stranieri 导师，亲手杀 Luisa",
+   "anchor": "Fatty does, or Smee, whatever he calls himself in this Aspect.",
+   "offset": 18336
+  },
+  {
+   "who": "Tinker Bell",
+   "what": "被祝圣之网擒走，成为 Hook 的筹码",
+   "anchor": "the blessed weave burns her very nature",
+   "offset": 20946
+  },
+  {
+   "who": "Captain Hook",
+   "what": "即 Augusto Dal Mare，要 Michele 的血、想策反 Cavaterra 一家",
+   "anchor": "he’d rather convert them to his cause",
+   "offset": 664
+  }
+ ]
+}
