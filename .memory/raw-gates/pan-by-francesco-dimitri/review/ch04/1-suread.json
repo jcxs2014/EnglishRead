@@ -1,0 +1,124 @@
+{
+ "chapter": "ch04",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch04_the_show_begins.txt",
+ "facts": [
+  {
+   "fact": "七岁的 Valerio 在儿童之家，血肉世界里孤独，梦里朋友很多；夜里他飞过罗马，被叫去「Island」。",
+   "anchor": "Valerio has many friends in the world of dreams, while in that of flesh he’s lonely.",
+   "start": 48,
+   "end": 132
+  },
+  {
+   "fact": "Michele 爱在城里走；这次不是散步而是追人——患阿尔茨海默的父亲从家里溜出去了。",
+   "anchor": "Papa has run away from home.",
+   "start": 2628,
+   "end": 2656
+  },
+  {
+   "fact": "Michele 在 Corso Trieste 附近找到父亲，父亲停在路灯下仰头看灯顶，还扭头示意他看，Michele 不敢信父亲在传达什么。",
+   "anchor": "Stefano jerks his head, as if to indicate the lamppost.",
+   "start": 6806,
+   "end": 6861
+  },
+  {
+   "fact": "罗马国家中央图书馆名义上对所有人免费开放，实际像地狱的一圈：职员无礼、规矩荒诞、书会消失。",
+   "anchor": "In practice, it’s more like a circle of hell",
+   "start": 7551,
+   "end": 7595
+  },
+  {
+   "fact": "Giovanni 在电车上给老太太让座，继续读 Clive Barker 的《Weaveworld》，并想到导师 Fatty（Stranieri 教授）劝他做「更严肃的事」。",
+   "anchor": "an old Clive Barker novel: Weaveworld",
+   "start": 9127,
+   "end": 9164
+  },
+  {
+   "fact": "在 Luisa 家吃饭时 Giovanni 报告线索：1947 年英国精神分析学家 Peter DuQuette 的小册子——三十多年执业中大量孩子梦到同一类岛（美人鱼、海盗、战士），十一二岁后梦消失，成年报告者都是「慢性激越暴力型精神分裂症」。",
+   "anchor": "It’s a booklet from 1947 by an English psychoanalyst, Peter DuQuette.",
+   "start": 11891,
+   "end": 11960
+  },
+  {
+   "fact": "Giovanni 提出：Neverland 是最早的城市传说之一，Barrie 从 1876、1863、1847 年的传闻取材；Thomas More 的乌托邦也是一座岛。",
+   "anchor": "I think Neverland, as James Barrie called it in Peter Pan, was one of the first urban legends",
+   "start": 13795,
+   "end": 13888
+  },
+  {
+   "fact": "Wendy 在 Parioli 的十八岁生日派对上表演：先用硬币戏法、再用偷听来的隐私做「读心」，压轴从礼帽里变出兔子——可她怕极了，因为帽子里本来没有兔子。",
+   "anchor": "Because, she knows, there was no rabbit in that hat.",
+   "start": 26796,
+   "end": 26848
+  }
+ ],
+ "numbers": [
+  {
+   "value": "七岁（Valerio）",
+   "anchor": "At seven Valerio has already been punched frequently",
+   "start": 285,
+   "end": 337
+  },
+  {
+   "value": "1947 年（DuQuette 小册子）",
+   "anchor": "It’s a booklet from 1947 by an English psychoanalyst, Peter DuQuette.",
+   "start": 11891,
+   "end": 11960
+  },
+  {
+   "value": "三十多年执业",
+   "anchor": "Over thirty years of practice, he had a lot of children telling him they’d dreamed of an island.",
+   "start": 12174,
+   "end": 12270
+  },
+  {
+   "value": "十一二岁（梦停止）",
+   "anchor": "at eleven, twelve years old, they stop",
+   "start": 12896,
+   "end": 12934
+  },
+  {
+   "value": "1876、1863、1847（同类岛的记载年份）",
+   "anchor": "There are traces of a similar island in various writings from 1876, 1863, and 1847",
+   "start": 13957,
+   "end": 14039
+  },
+  {
+   "value": "十六世纪（Thomas More 谈乌托邦）",
+   "anchor": "Take Thomas More, the first person who spoke of ‘Utopia,’ in the 16th century.",
+   "start": 14891,
+   "end": 14969
+  },
+  {
+   "value": "八十人（派对人数）",
+   "anchor": "there must be eighty people present",
+   "start": 18891,
+   "end": 18926
+  },
+  {
+   "value": "十八岁（派对男孩的年龄）",
+   "anchor": "He’s a boy of around eighteen, fairly tall, thin, and good-looking.",
+   "start": 19796,
+   "end": 19863
+  }
+ ],
+ "relations": [
+  {
+   "note": "Fatty 就是 Stranieri 教授，Giovanni 的导师。",
+   "anchor": "It’s not as if Fatty—or rather, Professor Stranieri—is asking me to sell my soul",
+   "start": 9922,
+   "end": 10002
+  },
+  {
+   "note": "Adamaria 是 Luisa 的室友，周末不在家。",
+   "anchor": "Adamaria, her flatmate, has gone out, and will be away for the whole weekend.",
+   "start": 11007,
+   "end": 11084
+  },
+  {
+   "note": "Aldo 是 Wendy 的经纪人，也在派对现场。",
+   "anchor": "Talking of payments, there’s Aldo.",
+   "start": 24552,
+   "end": 24586
+  }
+ ]
+}
