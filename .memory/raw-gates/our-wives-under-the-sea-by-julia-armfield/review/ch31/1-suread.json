@@ -1,0 +1,178 @@
+{
+ "chapter": "ch31",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch31_miri.txt",
+ "facts": [
+  {
+   "fact": "米里买来一段外科绷带，把利亚（Leah）脸侧那只已不存在的眼睛处包扎起来，绷带扎成不合时宜的俏皮角度，像半海盗；她问“看得见吗”，利亚点头，此外无话。",
+   "anchor": "I buy a length of surgical bandage and use it to bind up the side of Leah’s face",
+   "start": 8,
+   "end": 88
+  },
+  {
+   "fact": "米里把利亚放回浴缸—她能想到的唯一去处—并端来三汤匙盐化在水里给她；她短暂离开房间时听见利亚自言自语“现在会好起来的”。",
+   "anchor": "I put her back in the bath because that is all I can think of to do with her",
+   "start": 448,
+   "end": 524
+  },
+  {
+   "fact": "利亚忽然提起从前两人常点的豌豆奶酪（pea and paneer）、马塔尔奶酪与抓饭，以及等餐时总被问要不要先吃甜点 jalebi；米里背对着浴缸认出这是“我的利亚”，被一只长期拴着的恐慌攫住，转身跪下吻她，随后脱衣进浴缸，从背后抱住她。",
+   "anchor": "I feel that it is suddenly my Leah again, my Leah in the bath behind me",
+   "start": 2533,
+   "end": 2604
+  },
+  {
+   "fact": "利亚说“你跟我在这里会没事的”，米里没问她所指为何；利亚又说从前耶尔卡（Jelka）伸手向她时，她本该试着回应、触碰她。",
+   "anchor": "I should have touched Jelka,” she says, “before, I mean. I should have tried when she reached for me",
+   "start": 3620,
+   "end": 3720
+  },
+  {
+   "fact": "米里意识到自己其实知道耶尔卡出了什么事：朱娜（Juna）在餐桌对面直白地说“我妹妹死了”；她抱着利亚，假装她的皮肤不那么短暂，并想到臆想症式的恐慌总会结束，而真正发生的坏事其恐怖是无穷的。",
+   "anchor": "Juna looking at me frankly across the table: I need to tell you that my sister is dead",
+   "start": 3820,
+   "end": 3906
+  },
+  {
+   "fact": "邻居连放三天厨艺节目，山中雾气每天早晨爬上窗；朱娜来电问要不要谈谈，米里要她再给些时间；米里转而打给卡门（Carmen），却已记不清日子—卡门当天正做眼部手术，她只留了语音道歉。",
+   "anchor": "I call Carmen instead, but I have lost track of the days and she is having her eye operation",
+   "start": 5060,
+   "end": 5152
+  },
+  {
+   "fact": "米里上失蹤者家属网站的留言板，读到“最终得由你亲手杀死他们—不是他们本人，而是关于他们的念头”；她在沙发上睡着，醒来收到 Sam 与 Toby 的消息，凌晨三点出门坐在楼前矮墙上。",
+   "anchor": "Problem is, I read, that ultimately you’re really the one who has to kill them",
+   "start": 5710,
+   "end": 5788
+  },
+  {
+   "fact": "回屋后利亚仍泡在浴缸里，脸朝上全身没入水中；米里俯身看见她肋上的皮肤拉紧、变得透明如擦去雾气的窗，能看见肋骨与一扩一缩的肺，她在水下无需空气却呼吸自如。",
+   "anchor": "I see that the skin across her ribs is pulling, clearing, growing transparent like a window wiped of mist",
+   "start": 7374,
+   "end": 7479
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Miri–Leah",
+   "kind": "伴侣/爱人：米里为利亚包扎伤口、端盐水、与她共浴并从背后抱住她",
+   "anchor": "I take my clothes off and get into the bath with her",
+   "start": 3300,
+   "end": 3352
+  },
+  {
+   "pair": "Leah–Jelka",
+   "kind": "愧疚的未回应者：耶尔卡曾向利亚伸手，利亚当时没有触碰她",
+   "anchor": "I should have tried when she reached for me",
+   "start": 3677,
+   "end": 3720
+  },
+  {
+   "pair": "Juna–Jelka",
+   "kind": "姐妹：朱娜对米里说“我妹妹死了”",
+   "anchor": "Juna looking at me frankly across the table",
+   "start": 3820,
+   "end": 3863
+  },
+  {
+   "pair": "Miri–Juna",
+   "kind": "姻亲/熟人：朱娜来电提出谈谈，米里要她再给些时间",
+   "anchor": "Juna calls and asks if I want to talk to her and I tell her to give me more time",
+   "start": 4978,
+   "end": 5058
+  },
+  {
+   "pair": "Miri–Carmen",
+   "kind": "朋友：卡门当天做眼部手术，米里留言为“以为世界绕着我转”道歉",
+   "anchor": "I don’t know why I expected you to read my mind",
+   "start": 5288,
+   "end": 5335
+  },
+  {
+   "pair": "Miri–Sam／Toby",
+   "kind": "朋友：Sam 联系不上米里，犹豫要不要过来；Toby 也发来消息",
+   "anchor": "I wake to a message from Sam and another from Toby: Sam says she can’t get hold of you",
+   "start": 6389,
+   "end": 6475
+  }
+ ],
+ "numbers": [
+  {
+   "value": "三汤匙盐（three tablespoons of salt）",
+   "anchor": "and bring her three tablespoons of salt dissolved in water",
+   "start": 525,
+   "end": 583
+  },
+  {
+   "value": "三天（three days running）",
+   "anchor": "The neighbours play cooking shows at top volume for three days running",
+   "start": 4637,
+   "end": 4707
+  },
+  {
+   "value": "五个月（five months of radio silence）",
+   "anchor": "the way I assumed she was dead, after five months of radio silence",
+   "start": 6095,
+   "end": 6161
+  },
+  {
+   "value": "凌晨三点（3am）",
+   "anchor": "I go outside at about 3am – the kind of cold air that only seems to occur",
+   "start": 6525,
+   "end": 6598
+  },
+  {
+   "value": "一位女孩（one girl，电视电影情节）",
+   "anchor": "one girl is patently more deserving of a win than her competitors",
+   "start": 988,
+   "end": 1053
+  },
+  {
+   "value": "利亚（Leah）",
+   "anchor": "Leah is lying in the bath, the way I left her",
+   "start": 6962,
+   "end": 7007
+  },
+  {
+   "value": "耶尔卡（Jelka）",
+   "anchor": "I should have tried when she reached for me",
+   "start": 3677,
+   "end": 3720
+  },
+  {
+   "value": "朱娜（Juna）",
+   "anchor": "Juna looking at me frankly across the table",
+   "start": 3820,
+   "end": 3863
+  },
+  {
+   "value": "卡门（Carmen）",
+   "anchor": "I call Carmen instead, but I have lost track of the days and she is having her eye operation",
+   "start": 5060,
+   "end": 5152
+  },
+  {
+   "value": "萨姆／托比（Sam, Toby）",
+   "anchor": "a message from Sam and another from Toby",
+   "start": 6399,
+   "end": 6439
+  },
+  {
+   "value": "豌豆奶酪（pea and paneer）",
+   "anchor": "Do you remember the pea and paneer?” she says, out of nowhere",
+   "start": 1420,
+   "end": 1481
+  },
+  {
+   "value": "马塔尔奶酪与抓饭（mattar paneer and pilau）",
+   "anchor": "mattar paneer and pilau, from the place that took your name",
+   "start": 1587,
+   "end": 1646
+  },
+  {
+   "value": "甜点贾莱比（jalebi）",
+   "anchor": "they’d always ask you if you wanted jalebi while you waited",
+   "start": 1699,
+   "end": 1758
+  }
+ ]
+}

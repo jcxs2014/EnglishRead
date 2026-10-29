@@ -51,7 +51,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "“You’ll be OK in here with me,” she says and I don’t ask her what she means by that. “I should have touched Jelka,” she says, “before, I mean. I should have tried when she reached for me.”"
+> **原句 4:** "I think about this and I feel that it is suddenly my Leah again, my Leah in the bath behind me, and I am seized with a stark and immediate panic – a panic that I know I have allowed to wander on a leash for so long, mainly keeping it at a wary distance though always at least partially in view."
+
+**中文理解**：她一边想着从前那些琐事，一边忽然觉得身后浴缸里的人**又是她的 Leah 了**，随即被一阵赤裸而即刻的恐慌攫住——那恐慌她其实已经用皮带拴着放了很久，始终让它隔着一点距离，却总还留在视线里。
+
+**关键词**：my Leah again / a stark and immediate panic / wander on a leash / at least partially in view
+
+**为什么这样写**：一句里把「认出」与「恐慌」焊在一起：认出不是安慰，倒像触发。`my Leah` 重复两次，第一次是判断，第二次加了 `in the bath behind me` 变成位置确认。后面用「皮带上的恐慌」这个比喻把几个月的精神状态写成一条被牵着的狗——它没走远，只是被允许在视野边缘走动；认出的一刻，牵引绳松了。
+
+**读者视角提示**：注意她说「又是」（again）——这等于承认有一段时间她认不出、或不敢认。紧接着的原文写她转身跪下吻她，几个月没有这样吻过。
+
+---
+
+> **原句 5:** "“You’ll be OK in here with me,” she says and I don’t ask her what she means by that. “I should have touched Jelka,” she says, “before, I mean. I should have tried when she reached for me.”"
 
 **中文理解**：Leah 说「你跟我待在这里会没事的」，Miri 没有追问她指的是什么；接着她说自己早该在 Jelka 伸手过来的时候去碰她，「我是说，之前」。
 
@@ -63,7 +75,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "When something bad is actually happening, it’s easy to underreact, because a part of you is wired to assume it isn’t real. When you stop underreacting, the horror is unique because it is, unfortunately, endless."
+> **原句 6:** "Juna calls and asks if I want to talk to her and I tell her to give me more time. I call Carmen instead, but I have lost track of the days and she is having her eye operation."
+
+**中文理解**：Juna 打电话来问她要不要谈，她说再给她一点时间。她改打给 Carmen，却已经记不清日子，而那天正赶上 Carmen 做眼部手术。
+
+**关键词**：give me more time / I call Carmen instead / lost track of the days / her eye operation
+
+**为什么这样写**：两句连续两个电话，一次推掉、一次打错时机。`instead` 是全段的关键词：她不是选择打给谁，而是在逃避一个人时撞上另一个人。`lost track of the days` 把照护中的时间感写掉，而「眼部手术」与 Leah 的眼睛在同一章并置——一个在治，一个已经变成水。
+
+**读者视角提示**：注意她把 Juna 排在后头：Jelka 的死讯还没拆封，而另一条人情线（Carmen）恰好也在同一天需要她。
+
+---
+
+> **原句 7:** "When something bad is actually happening, it’s easy to underreact, because a part of you is wired to assume it isn’t real. When you stop underreacting, the horror is unique because it is, unfortunately, endless."
 
 **中文理解**：叙述在这里转成一句泛论：坏事真在发生的时候人反而容易反应不足，因为身体里有一部分被设定成「这不是真的」；等到不再反应不足，那种恐惧之所以特别，是因为它没有尽头。
 
@@ -75,7 +99,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "As I look, I see that the skin across her ribs is pulling, clearing, growing transparent like a window wiped of mist. I see her ribs through her skin and then her lungs, expanding, retracting, the whole of her sheer in the water, translucent, transparent and breathing easily, though – submerged as she is – she has no recourse to the air."
+> **原句 8:** "Problem is, I read, that ultimately you’re really the one who has to kill them. Or not them but the idea of them – you have to make a choice to let it end."
+
+**中文理解**：她读到一句：「问题在于，最终得由你亲手杀死他们。或者说不是他们，而是关于他们的那个念头——你得做出选择，让它结束。」
+
+**关键词**：Problem is, I read / the one who has to kill them / not them but the idea of them / a choice to let it end
+
+**为什么这样写**：这是引别人的话，却不加引号、不加出处，只用 `I read` 三个词交代来源——读者和她一起在屏幕上撞见它。句子先给最狠的说法（kill them），紧接着用 `Or not them but the idea of them` 自我更正，把暴力翻译成心理动作；`make a choice` 把「放下」写成一件需要主动执行的事。
+
+**读者视角提示**：这一句是对她此刻处境的判决：她刚认出「我的 Leah」，屏幕却告诉她得杀死这个念头。注意她读的时候没有反驳。
+
+---
+
+> **原句 9:** "As I look, I see that the skin across her ribs is pulling, clearing, growing transparent like a window wiped of mist. I see her ribs through her skin and then her lungs, expanding, retracting, the whole of her sheer in the water, translucent, transparent and breathing easily, though – submerged as she is – she has no recourse to the air."
 
 **中文理解**：她俯身看水：肋上的皮肤在拉薄、变清，像一扇擦掉雾气的窗；她看见肋骨，也看见肺在扩张、收缩，整个人在水里是透明的，而且呼吸得很轻松——尽管整张脸都埋在水下，她并没有空气可用。
 
