@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch05",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch05_in_which_kray_says_those_two_little_words_yes_sir.txt",
+ "facts": [
+  {
+   "fact": "Wacker 穿着皮背心、软呢帽、青年布衬衫和紧身 Dockers 裤子走进会议室。",
+   "anchor": "He waddled into the conference room, dressed in a leather vest, fedora, chambray shirt, and Dockers as tight as sausage casings.",
+   "start": 58,
+   "end": 186
+  },
+  {
+   "fact": "P. Richard Wacker 是他的真名，不是化名或假名。",
+   "anchor": "This was his true name, not a pseudonym or an alias.",
+   "start": 506,
+   "end": 558
+  },
+  {
+   "fact": "Wacker 介绍 Andre B. KRAY 时点明这不是他的真名。",
+   "anchor": "Andre B. KRAY — not his true name —",
+   "start": 2521,
+   "end": 2556
+  },
+  {
+   "fact": "KRAY 自述九年前加入机构，主要驻外，其间在 Hell 服役过。",
+   "anchor": "I joined the Agency a little over nine years ago, and I’ve served mainly overseas, including a stint in Hell.",
+   "start": 3410,
+   "end": 3519
+  },
+  {
+   "fact": "新政策要求今后只许用化名互相称呼。",
+   "anchor": "we have been asked to make a special effort to refer to each other henceforth in pseudonym only.",
+   "start": 6163,
+   "end": 6259
+  },
+  {
+   "fact": "Wacker 亲自把新项目命名为「Project GOOWIKI」。",
+   "anchor": "which I have decided to christen ‘Project GOOWIKI.’",
+   "start": 10630,
+   "end": 10681
+  },
+  {
+   "fact": "就在这一刻 KRAY 说出了那两个小词。",
+   "anchor": "And that’s when KRAY said those two little words.",
+   "start": 11372,
+   "end": 11421
+  },
+  {
+   "fact": "KRAY 自愿接手 BRAVESOUL 案以降低美国政府在当地的痕迹。",
+   "anchor": "KRAY had volunteered to take on the BRAVESOUL case to lower the USG footprint.",
+   "start": 15949,
+   "end": 16027
+  }
+ ]
+}
