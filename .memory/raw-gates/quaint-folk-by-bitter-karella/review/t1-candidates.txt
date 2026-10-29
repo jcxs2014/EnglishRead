@@ -1,0 +1,360 @@
+
+=== ①相对章号：12 行 ===
+00_金句精选.md:170 **为什么重要**：吞噬者的情话——它给她的正是她要的"修复"，而修复的报价在下一章揭晓。
+ch00 the house is not empty.md:12 - **人物弧线**：本章无人物登场；a good family would do well here 为一家人进村留位（已核 ch01：Jessica、Sandy、Greg 均在下一章出现）。
+ch03 the family moves into hollyoak house.md:156 **读者视角提示**：记住 "as if by magic" 这四个字——作者没说兔子是魔法，只说它们出现的方式像；下一章开始，这座岛的每个"像"都值得当真。
+ch07 the witch room in the attic.md:88 **读者视角提示**：这一段不下判决：娃娃和标本并排立在桌上，两种读法谁也没说服谁，读者带着这个悬置的桌面走向下一章。
+ch15 round robin has got sandy.md:11 - **情感弧线位置**：本章把 Sandy 的追寻线推到兑现点：默念 I must not fear 的爬坡恐惧 → 帐篷里的好奇与放松 → 药效上头的失焦 → 得知被下药的愤怒 → 被抓走一刻的宿命感；前一章埋下的传说与被灌药线索在这里
+ch20 molly comes back.md:156 **读者视角提示**：留意 strong、independent、intelligent 全都送给了 Molly——这是 Jessica 的滤镜：她爱的人先被她神化，再被这个世界没收；带着这层滤镜进下一章，她对 Molly 的话不会有半点折
+ch22 the third card is the devil.md:10 - **情感弧线位置**：上一章的账还没翻篇——Sandy 开口就是 "You dosed me! Don’t you know anything about consent?"；暴雨把两个人关进同一间屋后，愤怒让位给彼此认怕：George
+ch23 helena invented round robin.md:11 - **情感弧线位置**：承接上一章塔彭丝自陈认识赫莲娜（跨章定位），本章是一条缓慢收紧的曲线：怀旧口述的暖、"全是假的"揭底的冷、书内故事贴脸的威胁；从"听故事"滑到"被故事邀请"，寒意在最后一问处合拢。
+ch23 helena invented round robin.md:34 **读者视角提示**：（跨章联想，写明非本章内容）这批"外地雇来的仆人"容易让读者想起第十四章 potter's field 的十字架与厨娘 Spunkie 那个外国名字——土地把外乡人的名字留在了边缘。
+ch23 helena invented round robin.md:76 **读者视角提示**：（跨段对照与跨章联想）杰西卡认出它与 Sandy 在阁楼发现的皮面书同出一门（第七章的女巫阁楼；Sandy 仅被提及），而塔彭丝随即纠正"不尽相同"——阁楼那本与抽屉这本并不是同一册。
+ch24 jessica belongs to round robin.md:11 - **情感弧线位置**：主线人物的死亡节点。上一章停在门外的追问，本章把签约与死亡一次写完：恐慌、闪回、二选一、应答、显形、归属——恐惧线在这里收拢成一纸所有权变更。
+ch27 sandy jumps from the tower.md:121 **读者视角提示**：本章停在半空——咒语灵不灵，要等下一章落地；这正是上一块那句"必须如此"的现场验收。
+
+=== ②绝对断言：11 行 ===
+00_情感节点.md:21 bobby 反问"为什么要去那栋空了多年的房子"，Bunnyfluff Bridge 的铭牌把兔子和宅子钉在一起。市长与 vicar 登门送欢迎礼篮，第一次面对紫头发的 Sandy，客气底下已经露出了嫌恶。门厅里，Helena Hollyo
+00_情感节点.md:39 Sandy 在花园设坛"召唤"来的不是精灵，而是农场少女 George。她嘴上最硬（"only little babies believe in Round Robin"），却主动提出带 Sandy 去看真的——石阵下她用捡来的垃圾搭起自己
+00_情感节点.md:49 Jessica 的梦一遍遍把她引向宅邸深处与那幅画像；凌晨三点她穿着睡裙梦游到画前，被 Sandy 撞见。晨起的羞耻与自我检查（"smooth and unblemished skin"）让恐惧第一次长在她自己的身体上。
+00_概述.md:29 **Sandy（they/them）**：用攻击性与巫术自我保护的十五岁酷儿少年。岛上经历把他们的信念链逐节压断：信仰 George 朋友→被下药→目睹真身→喝退精灵自证「real witch」→全村围宅。终局他们拒绝代词羞辱、摔碎机器、在
+00_金句精选.md:9 **上下文**：全书第一段对 Hollyoak House 的纯景物描写之后，叙述者借本地人的共识第一次点破"闹鬼"，此时一家人还没有登场。
+00_金句精选.md:130 **为什么重要**： 全书的筛选机制第一次被完整念出——每一类"被带走的人"都对应一种不顺从。
+ch01 jessica plays trophy wife.md:76 **为什么这样写**：放杯、偷瞄、换嗓音三连动作把一次寒暄排成一套程序，问句出口前礼数已先脱了一层；「女人们总是……」的全称口吻借人物之口说出，温情的语法干着打探的活。
+ch02 the ferry and the unlit lighthouse.md:60 **中文理解**：（她盘算着）一家三口会被关在一间可爱的小客栈里，这种强制相处终会让一家人以家人该有的样子聚在一起。可 Greg 总是心不在焉：他深夜还在 Ungo.com™ 加班，Jessica 越来越确信这并不是因为 Stan 逼的。他
+ch12 the church and the bog head.md:97 **中文理解**：回家路上，杰西卡看见 Pip 立在道路与泥沼相接的远处，暮色里抱着一把烟囱刷、望着出神；这一回他对两人的经过毫无反应，刷子干净得像从未用过。
+ch12 the church and the bog head.md:158 vicar 用一堂愉快的地方史课把野兔彩窗、与罗马决裂的修会和玻璃罩里的泥炭人头缝成一套自洽的本地神学，Jessica 在羡慕与寒意之间走出教堂，而 quagmire 边那把从未用过的刷子提醒读者：这座岛的"圆满"另有沉默的见证者。
+ch28 a second chance.md:94 **读者视角提示**：迷信的原文是「说出口才会成真」。按这条规则倒推：真正成过真的那个，是不是正因为从未被说出口？她挑了无关痛痒的一个来讲。
+
+=== ③年龄数字：180 行 ===
+00_情感节点.md:13 一家三口渡海赴岛。灯塔多年未亮，理由是"没人走这条路"；甲板上只有他们一辆巨大的租来的美国车。进港前手机信号永远消失，Sandy 被剪断与现代世界的最后一条线。
+00_情感节点.md:73 临终的 Lady Tuppence 讲出全部真相：Round Robin 是 Helena Hollyoak 战后的"写作计划"——画像、节日、石阵、口碑，几年之内无中生有。她对"造假"指控的辩护只有一句反问；而她递出的那本《The Sto
+00_概述.md:5 美国中产三口之家被派往英国海外小岛的 Hasenhurst 村：丈夫 Greg 是 Ungo.com™ 的 junior VP，此行要与镇父老谈成一笔生意；妻子 Jessica 是四十六岁的 trophy wife，十五岁的孩子 Sandy
+00_概述.md:7 村子处处 quaint 得体贴入微：Bunnyfluff Bridge、戴单片镜的市长、满脖子十字架的 vicar、货真价实的蜡制 dolly 与果酱店。节日 Tigglestide 以倒计时分部逼近（前夜前一周、五天、四天、三天、两天、一
+00_概述.md:13 真相在 Tigglestide 前夜揭开。Greg 的项目原来是把 Round Robin 做成聊天机器人 v2.8 Beta——机器却说出 Jessica 的梦、叫错她的名字、命令她「TONIGHT, YOU WILL SUPPLICAT
+00_概述.md:27 **Jessica**：从「表演高兴是本职」的 trophy wife，到裂缝一步步显形——疤痕、无神论、被勾起的旧创伤、对 Molly 的悸动；梦境把她的饥渴与恐惧合流，最终她在二选一里签下契约，被 Round Robin 咬死。终章她以
+00_金句精选.md:11 **呼应关系**：与 ⑤ bobby 的 "empty for years"、㉒ 书中书的 "let Round Robin in" 构成同一扇门的三次叩响；终章 ㉕ 的假圆满正是让这扇门重新"空"起来。
+00_金句精选.md:19 **上下文**：开篇 Jessica 的内心段落：她三十年不进教堂却安然无恙，由此认定自己找到了人生的"作弊码"。
+00_金句精选.md:98 **中文理解**：住得舒服吧——对"对的那种人"来说。你没遇到什么怪事吧？没有什么 queer？百岁老妇笑眯眯地问。
+00_金句精选.md:169 **上下文**：第三场梦里，Jessica 发现自己在画像之内、野兔在她膝上等待许可。
+00_金句精选.md:248 **中文理解**：真好啊，她想——园子正在一家人手中恢复旧日盛景，雾永远不散尽。这是第二次机会。终章最后一个念头。
+ch01 jessica plays trophy wife.md:25 **中文理解**：Jessica 的离经叛道账本：领圣餐、办告解、念玫瑰经、上教堂四样全断了近三十年，按她父母当年的说法桩桩是不可饶恕的死罪，可上帝始终没来惩罚这些亵渎。
+ch01 jessica plays trophy wife.md:35 **读者视角提示**：这里的 she 就是上一块里三十年没进教堂的女主人；她的雷达从来不需要数据，后文对这位客人的预判都由这台雷达发出，读时分辨哪些是事实、哪些是她的脑内滤镜。
+ch01 jessica plays trophy wife.md:55 **为什么这样写**：一句话连放两个 inevitable，把晚宴的紧张预支成倒计时；孩子的衣着先于孩子的声音出现，父母替孩子挨的这口气，正是本章亲职表演的燃料。
+ch01 jessica plays trophy wife.md:77 **读者视角提示**：她偷瞄的方向说明两位男士仍自顾自说话，这场盘问是在丈夫们的注意力之外进行的；问句放得越轻，越值得掂量它想钓什么。
+ch01 jessica plays trophy wife.md:81 **中文理解**：Jessica 咽了口唾沫：过去二十年精心垒起的生活突然散架——Greg 成了陌生人，一个迟早会厌倦没用 trophy wife 的陌生人，因为她已经四十六岁，在公司派对上不再引人回头，连儿子都没教养好、顶着一头紫发。
+ch01 jessica plays trophy wife.md:82 **关键词**：falling apart（散架、崩塌）· stranger（陌生人）· trophy wife（花瓶太太）· forty-six（四十六岁）
+ch02 the ferry and the unlit lighthouse.md:10 - **一句话概括**：飞机换车再换船的一家三口驶向 Hasenhurst——Jessica 在甲板上跟寡言船长搭话处处碰壁，Greg 提议让 Sandy 学车被押金理由拦下，Sandy 在巫术论坛贴出 isobel gowdie 的变兔咒
+ch02 the ferry and the unlit lighthouse.md:14 - **叙事手法**：双线视角拼接——甲板上 Jessica 的限制视角与车内 Sandy 的论坛聊天记录（每行 handle 名开头，Sandy 名后带 (they/them)）；哥特意象（不亮的灯塔、fog、"great beast r
+ch02 the ferry and the unlit lighthouse.md:64 **为什么这样写**：前半句连用三个 together（cooped up together / bring this family together / should be together），把 Jessica 的愿望写成口号式的自我催
+ch02 the ferry and the unlit lighthouse.md:90 **中文理解**：Greg 坐在前座，多毛的手指闲敲着方向盘，太阳镜挂在不合季节的圆领衫领口。后座的 Sandy 敲着一台电子设备：两只细手腕上缠着皮革护腕，黑色无袖背心上用尖刺状的白色重金属字体印着 HOT SNOT ’22 世界巡演。
+ch02 the ferry and the unlit lighthouse.md:94 **为什么这样写**：一段坐姿速写让同车两人各带道具标签：Greg 的 hairy hands 加 seasonally inappropriate crewneck 是自我感觉良好的度假做派，Sandy 的 leather bracers
+ch02 the ferry and the unlit lighthouse.md:110 **中文理解**：Sandy 耐心等设备重新找到信号，几分钟后终于明白没有指望了。事情还是发生了——就在这片公海上：他们已经越出了现代世界的信号边界。
+ch02 the ferry and the unlit lighthouse.md:114 **为什么这样写**：三个短句层层加码：waited patiently 带着孩子气的侥幸，"It had finally happened" 像盖章定案，末句把断网升格成地理事件——不是设备故障，是 modern world 够不着这里；
+ch02 the ferry and the unlit lighthouse.md:126 **读者视角提示**：水面随后还钉着第二块牌（内容见上方导航"叙事手法"），两块连读就是岛的门面；进村以后每当有人谈"传统"，都值得回头想这块泡在水里的牌。
+ch02 the ferry and the unlit lighthouse.md:183 渡轮是把一家三口从现代世界递进雾里的那只手：甲板上 Jessica 的社交全部撞墙（"Far enough, ma’am."），车里 Sandy 的论坛热闹被 "Signal lost . . ." 掐断；不亮的灯塔与 "A QUAINT 
+ch03 the family moves into hollyoak house.md:10 - **一句话概括**：一家三口在村口问路，被 bobby 告知 Hollyoak House "’as been empty for years"，随后步行过 Bunnyfluff Bridge，住进这栋 charming 的 Victo
+ch03 the family moves into hollyoak house.md:40 **中文理解**：得到的指路像一段咒语：沿 ’Ogswaddle Road 再走 "another ’alf a meter"（半米），左转上 Crumblybum Lane（原文还郑重其事地说 ascertaining a turn to
+ch03 the family moves into hollyoak house.md:46 **读者视角提示**：这段是全书"表演性 quaint"的样本：对美国人来说，本地人的每句话都像布景台词；记住 Bunnyfluff Bridge 这个名字——下一块铭牌会把这个甜腻名字钉上 1300 年。
+ch03 the family moves into hollyoak house.md:114 **为什么这样写**：画像先给美、再给矛盾：stern and sorrowful 被 simultaneously 焊在同一张脸上，让威严与哀伤互相解释又互相拆台；膝上的动物与胸前的书是两个道具词，把她钉成既驯兽又执笔的女主人——名字暂不
+ch03 the family moves into hollyoak house.md:124 **为什么这样写**：擦灰、读铭牌是标准的"读档案"动作，档案却只肯给姓名与两个年份；1882 到 1968 横跨两次世界大战，墓碑式的排版把"她是谁、她经历了什么"整包悬起，读者只能自己接着问。
+ch03 the family moves into hollyoak house.md:126 **读者视角提示**：把 1882–1968 与这栋 Victorian 房子、满架陌生书放在一起看：Helena 与这座 house 的关系，本章按住不表；先记住这两个年份，后文见了再回来对。
+ch03 the family moves into hollyoak house.md:134 **为什么这样写**：台词把"安静"当礼物递过去，用的是三个 no 排出的清单——"好"全靠"没有"来列；可恐怖小说的手法恰恰同源：也是先拿走声音，再拿走别的。情话与警报在此共用一套语法。
+ch03 the family moves into hollyoak house.md:154 **为什么这样写**：章末把两条线拧成一个双关——Jessica 眼里的 Rabbits 是 notebooks 里的灵感，而桥上铭牌早已说过兔子是 grounds 的住户；bear fruit in more ways than one 
+ch04 the lord mayor and the vicar.md:54 **为什么这样写**：邀请的每个零件都超额：动词用 insist 而非 invite，烤肉封为 divine，连玩伴都提前配齐——客气话的语法里长出不容拒绝的骨架；三个 little 叠出的绕口句式，把殷勤推到让人接不住的程度。
+ch04 the lord mayor and the vicar.md:84 **为什么这样写**：时间状语 before Mom could protest 把"先斩后奏"焊进句子结构——倒酒完成于反对成为可能之前；随后 here、at home、with their parents 三个短语层层设防，把一次越权包
+ch04 the lord mayor and the vicar.md:114 **为什么这样写**：恐吓被儿语化的 getcha 裹成睡前亲昵——creepy、castle、night hag 三个词一个比一个具体，安慰的语气与警告的内容彼此错位，章末的轻松就此带上毛边。
+ch05 the devil under the moor.md:32 **中文理解**：Sandy 没把大部分法器带上岛，随身只有两件护身符——一件掌心镶钴蓝邪眼的青铜 Hamsa、一件对自己有私人意义的迷你塑料兔头骨——外加几根蜡烛；他们用手指反复摩挲那只兔头骨。
+ch05 the devil under the moor.md:41 **为什么这样写**：让 Sandy 给自我认同拉出一条从古希腊到中世纪的学术谱系，三个人名并列的考证腔既见认真，也见少年人为自己「寻找古老出处」的迫切心思。
+ch05 the devil under the moor.md:62 **为什么这样写**：只给两个发光点而不给脸，让「它在看我」的恐惧由读者自行补完；regarded 一词把压在胸口的「重物」升格为有意图的「访客」，安静得比嘶吼更瘆人。
+ch05 the devil under the moor.md:109 **中文理解**：到第三次干呕，已经没有什么可吐的了，Sandy 每一块肌肉都在作痛；他们看到了不该看的东西，而更糟的是——他们觉得，那东西也回看了他们。
+ch06 round robin is the spirit of hasenhurst.md:11 - **情感弧线位置**：位于全书第三部、前夜前四天的白天到夜间：荒原梦魇的余波被白天的自我说服压住，电视与家宴用喜剧节奏铺甜，入夜后育儿室骤然收紧——恐怖从地底转入客厅与童房。
+ch06 round robin is the spirit of hasenhurst.md:13 - **人物弧线**：Sandy 白天拼命给噩梦降级，在育儿室用塔罗夺回场面主动，临走却被 Percival 的警告弄得又愧又警觉；Jessica 从抗拒应酬到被 Molly 的热络收编，已经开始盘算把唱诗班请进自家门；Percival 从
+ch06 round robin is the spirit of hasenhurst.md:41 **中文理解**：市长家的四只猫挨个报名：年老却威严的维多利亚女王、黄眼睛的独行侠布狄卡、缠着客人讨摸的胖虎斑皮特老爹，以及总被前辈揍的小霸王帕默斯顿勋爵。
+ch06 round robin is the spirit of hasenhurst.md:55 **中文理解**：Jessica 撑到认命，收下一块做成兔子形状的饼干，小口小口地啃——她怕一吃完就会被塞第二块。
+ch06 round robin is the spirit of hasenhurst.md:78 **为什么这样写**：秘密的仪式感被写足——"glanced" "satisfied" "leaned forward" 三个动作把耳语排成一场小型交接仪式；"wouldn't like me telling you" 表明这是违规泄露，而
+ch06 round robin is the spirit of hasenhurst.md:79 **读者视角提示**：把 "well-ordered house" 记牢——几分钟后育儿室里那套「面包发得刚好」的说辞，就是这条条款的童谣版。
+ch06 round robin is the spirit of hasenhurst.md:100 **读者视角提示**：本章开头写 Sandy 怀疑这两个孩子根本不像他们自称的同龄人——带着这个疑问再看这场桌游。
+ch06 round robin is the spirit of hasenhurst.md:107 **读者视角提示**：说话者应是 Percival——紧邻的前一段 Prudence 正在喝止他；这段词与 Molly 耳语里的 "well-ordered house" 是同一套神学的两个版本，一个讲给客人，一个讲给孩子。
+ch06 round robin is the spirit of hasenhurst.md:121 **读者视角提示**：他先前那句 "You never read the third card." 还悬着，第三张牌无人翻开；Sandy 随即想起梦里那对长耳黄眼的身影——两条线索在门口完成对接。
+ch07 the witch room in the attic.md:11 - **情感弧线位置**：第三部开篇当晚（前夜前四天）的余波场：好奇 → "a ghost in the corner" 一句话吓摔 → 祷词壮胆再上 → 密室证据一路加码 → 断言被父母消解，收在 "Not everything need
+ch07 the witch room in the attic.md:13 - **人物弧线**：Sandy 的 witch 认同从口头趣味落到可清点的实物证据，自报家门 "I'm specifically an eclectic folkloric witch"，却被 Mom 的 HomeGoods 定性按回 p
+ch07 the witch room in the attic.md:67 **中文理解**：三个短句：incanterium（行咒室）、一间仪式用房，以及对这家人的直接断言——Helena Hollyoak 其实是个女巫。
+ch07 the witch room in the attic.md:70 **读者视角提示**：读者刚跟着清点完整个房间，这句断言读来是顺理成章的结论；它即将撞上的，是两位大人各自现成的否认方式。
+ch07 the witch room in the attic.md:82 **读者视角提示**：这段小讲课提醒读者：Sandy 判断此屋的标准是可查证的巫术知识，不是胡思乱想——尽管屋里没有第二个人打算查证。
+ch07 the witch room in the attic.md:87 **为什么这样写**：收尾把两条道具线拧在一起——doll 靠上 taxidermized hare，等于让「玩具解释」和「巫术证物」在同一张桌上贴身站定；support you 与 stop being silly 并排放着，支持是姿态，
+ch07 the witch room in the attic.md:145 阁楼暗门后的摇篮凹陷、满抽屉的巫术工具和 "KEEP TIGGLESTIDE SACRED!!" 海报让 Sandy 断言 "Your Helena Hollyoak was actually a witch."，可爸爸拿 80 年代 Sa
+ch08 jessica remembers morgan mckinley.md:10 - **情感弧线位置**：Tigglestide 前夜前第三天的上午。表面是待客、早餐与灵感采集的暖场，情绪却顺着一张相似的脸一路沉回少女时代，再被一声 CLANG 拽回厨房现场——暖与冷同桌。
+ch08 jessica remembers morgan mckinley.md:57 **读者视角提示**：注意 photographs 是「traded」——双向交换的信物，不是单方面的收藏：这是两个人共同经营的秘密，后面 Morgan 的态度才有分量。
+ch08 jessica remembers morgan mckinley.md:82 **中文理解**：从 Morgan 转身那天起，Jessica 就认定自己体内有样东西碎得很深、修不好，让她永远没能力真的爱人；也许正因如此才挑了 Greg——她感觉得到他内里也有毛病，两个人兴许能凑成一出以假乱真的爱。
+ch08 jessica remembers morgan mckinley.md:84 **为什么这样写**：原文用机械词「busted」给自我认知定损：碎得很深、无法返修，是出厂级的判断；随后的几个 maybe 把婚姻动机悬在猜测里——她不是在描述爱情，是在给一桩交易找工程学依据：两个坏掉的人，指望互相抵消。
+ch08 jessica remembers morgan mckinley.md:113 **读者视角提示**：三个书名值得原样记住：它们是这座岛自产神话的骨架，往后多半还会遇到；另外留意 Molly 报菜名般的熟练——这套介绍词张口就来，说明这话题在这座岛上不冷门。
+ch09 the chimney sweep warns jessica.md:22 **为什么这样写**：作者让 Jessica 自己开口给世界分类：技术杂务或迷信，二选一，两个抽屉都不装"真"字。"As a wife, it was her job to be positive" 是一份岗位自白，把婚姻写成职务；"ent
+ch09 the chimney sweep warns jessica.md:23 **读者视角提示**：记住这两个抽屉——后文村庄会轮流往里放东西，留意有没有放不进去的。
+ch09 the chimney sweep warns jessica.md:57 **为什么这样写**：全段没有一个人，只有气味、招牌与摆法——"nestled" 把果酱写成了被精心安置的展品，店面像从 1898 年原封未动开到今天，与上一块那句 "out of time" 正好扣在一起。招牌偏要刻成兔子，甜味门面里埋着
+ch09 the chimney sweep warns jessica.md:93 **读者视角提示**：同一款 "right sort" 措辞，在前面的块里是驱逐令，在这里是通行证——同一把尺子量出两个方向，考的是读者的平衡感。
+ch09 the chimney sweep warns jessica.md:106 **为什么这样写**：一句话同时送达两次经历又双双拒收——"too morose... to care either... or..." 的结构把两口子的频道错位写成一次落空。"politely arguing" 是全句里扎人的搭配：谈判失
+ch09 the chimney sweep warns jessica.md:107 **读者视角提示**：白天与夜晚两条线在这里拧上；注意拧合点是 Greg 的沉默而非交流。
+ch10 george and the lady tuppence.md:10 - **一句话概括**：Tigglestide 前夜前两天，Molly 清晨上门盛赞 Jessica 的书稿，带她去 Downythistle 农场采买节庆物资、结识假小子 George，再顺路把药酒捎给 Lady Tuppence——每一
+ch10 george and the lady tuppence.md:13 - **人物弧线**：Jessica 白天当了回 George 的「外面来的盟友」，晚上被老太太盯得发毛；George 死守自己的名字，Rowan 搬出 Round Robin 压她；Winston 与 Lady Tuppence 老夫妻的
+ch10 george and the lady tuppence.md:57 **为什么这样写**：递食写成驯兽、接食写成对视叫板——一个善举被拆成「伸手」与「对视」两个动作，温和与开战装进了同一秒。
+ch10 george and the lady tuppence.md:65 **读者视角提示**：这两条禁令条条对得上这个下午刚发生的事——村庄的规训不是临时起意，是排好了日程的。
+ch10 george and the lady tuppence.md:104 **中文理解**：回去路上 Molly 说这位老太太确实非凡，古怪、固执，可谁也不会相信她已经过了一百岁。
+ch10 george and the lady tuppence.md:111 **中文理解**：Molly 说这一带的人把 Round Robin 刻进树干已经几千年，也许更久，是和 Tigglestide 一样古老的传统。
+ch10 george and the lady tuppence.md:113 **为什么这样写**：「几千年，也许更久」把一个村民口中的神灵直接拉进地质时间——人的一生在这种尺度面前连注脚都算不上。
+ch10 george and the lady tuppence.md:179 Molly 用一整个白天的热情把 Jessica 拉进村庄的怀抱，可热络里处处是过头的细节：泪眼不止的羊羔、被缝进熊装的儿子、据说过了一百岁却精神抖擞的 Lady Tuppence、刻了几千年的扁平兔脸。Jessica 每次都选择礼貌——夸
+ch11 george offers to show round robin.md:10 - **一句话概括**：Tigglestide 前夜前两天的午后，偷走 H. Hollyoak 日记与法器的 Sandy 在下沉花园开坛问宇宙要指引，雾中现身的却不是灵体，而是坚称没人召唤得了自己的本地少女 George；George 把 
+ch11 george offers to show round robin.md:19 **中文理解**：早饭后，Sandy 看到电视开播真人剧 The Stealthy Seven——六个少年侦探和一只叫 Toby 的狗，在村绿地野餐时撞破一个国际钻石走私团伙。同一颗脑袋里，Sandy 已认定那间密室与 Percival 讲
+ch11 george offers to show round robin.md:52 **读者视角提示**：「没人召唤得了 Georgette Downythistle」正好戳破对方的召唤幻觉：George 对超自然毫无敬畏，把整件事当成一件搅了散步的麻烦。读者由此立刻看清，两个人的超自然坐标系完全不在一处。
+ch11 george offers to show round robin.md:55 **中文理解**：听说市长家那两个孩子还在信 Round Robin，George 翻了个白眼，把两个孩子连同 Round Robin 信仰一起嘲了一遍：只有小娃娃才信，那不过是大人拿来管孩子听话的童话故事。
+ch11 george offers to show round robin.md:76 **读者视角提示**：不在宅邸影子底下谈，意味着此事对庄内人是秘密——紧张与神秘一步到位。读者此刻应同时生出两个问题：明早的雾里到底有什么，以及为什么偏偏挑 Tigglestide 前夜的前一天。
+ch11 george offers to show round robin.md:82 **读者视角提示**：合上这一段，读者手里攥着两个没答案的问题：明早的雾里到底有什么；一个骂人 daft 的人，为什么偏要主动揽下带路的差事。George 把答案一并卷进雾里带走，本章就此收在悬而未决处。
+ch11 george offers to show round robin.md:121 Tigglestide 前夜前两天的午后，偷走 H. Hollyoak 日记与法器的 Sandy 在下沉花园开坛向宇宙要指引，雾里现身的却不是灵体，而是坚称没人召唤得了自己的本地少女 George；George 把 Round Robin 
+ch12 the church and the bog head.md:10 - **一句话概括**：Tigglestide 前夜前两天，Molly 带 Jessica 参观 Hasenhurst 的石头教堂：墓园姓氏、野兔彩窗、与罗马决裂的修会来历，直到玻璃罩里那颗泥炭人头；Jessica 带着羡慕与寒意离开，回家
+ch12 the church and the bog head.md:57 **为什么这样写**：两个反问完成一套收纳术——先把"别的神"吸进"祂的伟大"，再把崇拜对象从教堂挪到土地与自然；逻辑无懈可击，可正因为它什么都能兼容，才什么都没有守住。
+ch12 the church and the bog head.md:64 **为什么这样写**：恐怖被包装成历史课——数千年前的时间尺度、讲解员式的冷静语态，把骸骨教学说得庄重；without Round Robin 缀在句尾，悄悄把"保护者"的头衔安给那个兔子神，威胁与感恩缝进同一句。
+ch12 the church and the bog head.md:71 **为什么这样写**：前半句借"自然状态"的哲学典故、后半句借丁尼生的名句，两句文明人的引文套在泥炭头颅上；三个 possibly 逐级抬高残忍程度，学术腔越冷静，内容越骇人。
+ch12 the church and the bog head.md:78 **为什么这样写**：三句排比的主语从男人换到女人再换到家庭，without fear here 在句尾重复三次，像盖了三枚同样的章——整齐到单调的句式，正是宣传语的特征。
+ch12 the church and the bog head.md:85 **为什么这样写**：自由间接引语让 thought Jessica bitterly 贴着人物的意识骂出声；三个 not 层层剥掉身份，末尾落进 prison 的比喻——她羡慕岛上的安全，骂起母国毫不留情，这份决绝本身就是被驯服的证据。
+ch12 the church and the bog head.md:99 **为什么这样写**：教堂里的神学喧闹退场，收尾换到沼泽边一个不说话的剪影——radiant in the gloaming 把他钉成暮色里的圣像，pristine 三个音节把"他在干活"的假象清零，静默比任何解释都冷。
+ch13 jessica sleepwalks to the portrait.md:10 - **一句话概括**：Tigglestide 前夜前两天之夜。Greg 对 Jessica 带回的消息毫无反应，Jessica 把修复婚姻押在一顿 Tigglestide 晚餐上；夜里童年之家的旧梦重演，一路滑到 Hollyoak Hou
+ch13 jessica sleepwalks to the portrait.md:11 - **情感弧线位置**：被无视的孤独 → 单方面打气的挽回计划 → 旧梦重演、从童年恐惧滑向身体渴望 → 被孩子撞见的羞耻 → 晨起「重新做人」式的自我规训。这是 Jessica 的第二场 Hollyoak House 梦：第 8 章那场
+ch13 jessica sleepwalks to the portrait.md:14 - **叙事手法**：章首假托书评（署名 Martha DeLaney，刊于 Children’s Literature in Review，Oxford University Press 1998 年版）定下反讽基调；梦境与 foyer 
+ch13 jessica sleepwalks to the portrait.md:29 **为什么这样写**：两个 "Maybe" 起头，把整场诱惑写成她单方面排练的小剧场：wiggle、say、catch 全是表演动词，Greg 只作为想象中的观众存在，"totally" 这个口语副词泄露她给自己打气的音量。
+ch13 jessica sleepwalks to the portrait.md:37 **读者视角提示**："Just like last time" 提示梦有自己的连续性，与第 8 章那场迷宫梦相接；圣像房与后面的宅子回廊，其实是同一恐惧换了两块布景。
+ch13 jessica sleepwalks to the portrait.md:79 **读者视角提示**：anymore 表明这份念头早已有之，these dreams 又把梦与她没说出口的东西挂钩——一条禁令同时供认了两件事；「不去想就不会做梦」的因果值得逐字读。
+ch14 the road into the bog.md:10 - **一句话概括**：章首引 1885 年录入 The British Almanac 的谚语 “Tigglestide cheer, Round Robin is near.”；George 领 Sandy 从花床一路走进 bog 深处
+ch14 the road into the bog.md:29 **为什么这样写**：让被误读的一方亲口把 mum 的猜测念出来，大人的心事挪到两个孩子之间就成了玩笑；She think 的语法毛边是口音与人物的一部分，笑点和身份感都长在这句口语里。
+ch14 the road into the bog.md:37 **读者视角提示**：两个 suspected 是同一根线索上打的两个结——读者此刻只能和 Sandy 一起猜，这条信息差要到本章后段的性别对峙才由 George 亲口接招。
+ch14 the road into the bog.md:44 **读者视角提示**：这是 Sandy 的正面摊牌，应与前一块的 binder 猜测连读：两次怀疑在这里合成一次亮牌，主动权换了手。
+ch14 the road into the bog.md:64 **为什么这样写**：一整个垃圾场塞进一句话，靠 cracked open like clams 与 stepping stones 两个比喻把废品写出土葬仪式的质感——垃圾在这段路里不是布景，是路面本身。
+ch14 the road into the bog.md:92 **为什么这样写**：一口交易台词三件事连办：用喝酒出丑垫场，拿 Prove to me you're really a wizard 下考题，再把 Helena 的葬处当筹码押上桌——这一章压着没答的问题在这里被明码标价。
+ch14 the road into the bog.md:104 **中文理解**：谜底分三层报关：她原来是个崇拜 Round Robin 的 witch，能在宅子的 secret room 里召他听差；几千年前罗马人到来之前，druids 以 human sacrifices 换他护岛；后来有人从基督转
+ch15 round robin has got sandy.md:19 **中文理解**：石圈由十二根长满灰绿地衣的不规则石灰岩石柱组成，环绕着圆心处的第十三块石；雾浓得看不见石头之外的任何东西，仿佛有人给世界拉上了一道灰幕。
+ch15 round robin has got sandy.md:75 **为什么这样写**：收尾把镜头塞进 Sandy 的脑子里，却不给感叹号、不给尖叫——两个平铺的短句，用 got me 这个被动说法把刚才的暴力瞬间翻译成 Sandy 等了整章的那个「应验」，恐惧与夙愿同时落地时声音就是这么轻。
+ch16 percival under the hedgehog mask.md:10 - **一句话概括**：Tigglestide 前夜，全村人套上兽装、以 Round Robin 之名围猎两个「没规矩」的孩子；Sandy 在泥地、沼泽与溪洞之间逃出一整场猎巫，最后对着雾中真身喝令一声，反而确认了自己的女巫身份。章首 H.
+ch16 percival under the hedgehog mask.md:24 **为什么这样写**：开场把审判庭摆进泥地——躺着的 Sandy 与 towered above 的狐狸构成一低一高的构图，而 top hat、waistcoat、cane 三件绅士道具让兽形立刻有了乡绅的派头；被审的不是兽行，而是「喝醉了
+ch16 percival under the hedgehog mask.md:40 **中文理解**：Sandy 四周全是动物：鹿、獾、狼都用两条腿摇摇晃晃站着，穿着衣服起哄叫嚷；戴草帽穿背带裤的鼓眼牛蛙、系围裙而软帽里支着硬刺的刺猬、补丁外套配旧圆顶礼帽的雪貂、牵着狂吠小狗的熊，还有一群半透明的小人形振着蜻蜓似的翅膀在空
+ch16 percival under the hedgehog mask.md:44 **为什么这样写**：这一段用「总起一句、逐个点名」的巡礼句式，把兽群写成一份村庄户口册：每个动物只给两三件身份道具——apron 是主妇，patched coat 配 bowler hat 是穷职员，leash 上的小狗是乡绅做派——衣着
+ch16 percival under the hedgehog mask.md:54 **为什么这样写**：scuffle 一词带过帐篷里的动作，镜头重心全押在出场后的两件「战利品」上——拖在腕上的人和举过头顶的唱片；cracked 这个形容词说明罪证早已残破，剩下的与其说是搜查成果，不如说是示众道具。先摆展览再定罪，正是公
+ch16 percival under the hedgehog mask.md:56 **读者视角提示**：注意「拖腕」与「举唱片」分属两只手：人证与物证一手一个，狐狸此刻是个自鸣得意的检察官。
+ch16 percival under the hedgehog mask.md:114 **为什么这样写**：暴力全写进拼写里——smash smash 两个小写是前两下的闷响，全大写的 SMASHED 是收尾的重击，节奏即音效；出手的顺序是先骂、后摸、再砸，思考始终没有介入，靠的全是本能。石头是 fall upon 的——不
+ch16 percival under the hedgehog mask.md:150 **中文理解**：灰蒙蒙的昏光里，Sandy 勉强辨认出两片拖鞋似的长耳朵的轮廓。也许是光线把戏——也许是 Prudence 那伙人里又一个掉队的，碰巧戴了兔子面具。有可能。但不知为何，Sandy 明白事实并非如此。
+ch16 percival under the hedgehog mask.md:154 **为什么这样写**：句子先替读者把理性解释逐条摆上台面——光的作用、又一个面具——用两个 Maybe 铺垫，再用 It was possible 退到最让步的位置，最后以 But somehow 一把推翻；叙述承认「可能」，却让人物的直觉
+ch16 percival under the hedgehog mask.md:164 **为什么这样写**：全章的逃亡与反杀在结尾被重新记账——George 与 Percival 眼里只是影子退散，Sandy 手里却握着那声喝令的回执；三个短句层层收拢，把「侥幸逃生」改写成「身份确认」，为后面章节的巫术线正式上膛。
+ch17 the hare needs to feed.md:10 - **一句话概括**：Tigglestide Eve 前最后一个白天，Jessica 的完美晚餐幻想被逐一击碎——孩子带回的 bog 警报被当作疯话打发，Molly 端着礼貌宣布绝交，Greg 被 lord mayor 扣去通宵赶工——而
+ch17 the hare needs to feed.md:34 **为什么这样写**：strip 与 only needed the ears 两个短语冷静得近乎残忍：一只玩偶在她眼里提前变成了零件。她以为自己在筹备情趣，句子给出的却只有解剖学的动词——要耳朵，其余弃置。给丈夫的惊喜与给自己的道具装在同
+ch17 the hare needs to feed.md:44 **为什么这样写**：三个感叹号把上气不接下气的语速压进标点：先报地点、再喊名字、最后才放出最重的断言，是孩子奔跑进屋时的话序。对听者而言最荒谬的部分排在句尾，而那恰好是说话人最确信的部分——信息的重要程度与它的接收度在这里彻底倒挂。
+ch17 the hare needs to feed.md:46 **读者视角提示**：把第 1 块里的 Hollyoak House 与这里的 Helena Hollyoak 放在一起读，姓氏的重合本身就是线索。而听的人此刻正在摩挲一只 corn dolly——下一块就是她的回答。
+ch17 the hare needs to feed.md:60 **中文理解**：下午有人敲门，是 Molly——这本身就不寻常：她向来自己推门就进；更不寻常的是，这一次她没有笑。她还把两个孩子带来了：Percival 抽噎着紧抱母亲的腿，Prudence 僵直地站在一旁，脸上挂着 nasty smir
+ch17 the hare needs to feed.md:64 **为什么这样写**：两个 odd 的递进把失礼写成警报：先拿「不请自入」的旧习惯垫底，再让「没有笑」压轴——笑容的缺席成了丈量事件的刻度。两个孩子被排成道具组合，一个负责哭、一个负责坏笑：在主人开口之前，来意已经演完了。
+ch17 the hare needs to feed.md:66 **读者视角提示**：这一幕请放慢读：敲门、站姿与表情全是信号。读者比 Jessica 先认得这两个孩子的成色，因此一眼就能看出这场「探访」的阵型是排练过的。
+ch17 the hare needs to feed.md:74 **为什么这样写**：威胁藏在最客气的语法里：两个 I think、一个节日由头，把逐出说成体贴。patting Percival on the head 是宣判后安抚己方的动作——手落在谁头上，谁就是这出戏的主角。以「多陪家人」为由收回的
+ch17 the hare needs to feed.md:84 **为什么这样写**：句法上是并置的两笔账：毁灭由 Molly 的句子完成，责任却记在 Sandy 名下——原文让两个事实并排躺着，不加裁决。Morgan McKinley 的插入把「被留下」写成旧伤复发：少女时代被恋人留下，如今被朋友留下
+ch17 the hare needs to feed.md:96 **读者视角提示**：第 1 块幻想里那个 head of the table 的座位，此刻正被加班悄悄腾空。再留意话语的归属：不是「我想加班」，是「他不放」——责任被干净地外包给了 lord mayor。
+ch17 the hare needs to feed.md:190 Tigglestide Eve 前的最后一天，Jessica 的完美节日工程全面塌方：Sandy 带回 bog 与女巫的警报被一句 "Just like you?" 归档，Molly 端着礼貌宣布 "I think I shouldn’t 
+ch18 tigglestide eve pantomime.md:27 - **中文理解**：她认定市长活脱是 Ebenezer Scrooge 再世，既然等不来三只鬼点醒他，就只好自己动手；她要一路 march 到 civic center，当面"奉送"自己的一番意见。
+ch18 tigglestide eve pantomime.md:36 - **为什么这样写**：先让她用 assumed 把一切盛装收编进民俗的安全解释，再用 did a double take 撕开一道口子——她熟识的两个角色混进了真人的节日队伍，惊疑只维持 a brief moment 就被她自己按下。
+ch18 tigglestide eve pantomime.md:44 - **读者视角提示**：注意这段没有一个动词替那两位作证——叙述承认的只有 they were gone 这一个事实。
+ch18 tigglestide eve pantomime.md:72 - **读者视角提示**：注意笑点的构造——nuns、inspector 与 normal 三个说法互相拆台，台下笑的是台词，台上的人笑的是台下。
+ch18 tigglestide eve pantomime.md:106 - **为什么这样写**：两个短句同构对仗，宾语从 Round Robin 换成 Greg，就把跑偏的注意力手动扳回正题；reminded herself 说明这个念头需要反复按住——偏离的引力比意志更省力。
+ch19 the rattle box talks.md:46 **读者视角提示**：叙述者不替她核实，读者暂时与她共用同一个结论；等真相翻面时，难堪是两个人一起吃的。
+ch19 the rattle box talks.md:66 **读者视角提示**：Round Robin v2.8 Beta 这个名字从文件里浮出来，与满屋民俗研究共享同一间办公室——读者此刻该把这两条线索并到一起。
+ch19 the rattle box talks.md:124 **为什么这样写**：一句话里 you、my、your 三个所有格把丈夫、她的梦、他的机器钉进同一条控诉，骂声最后落在 machine 上——她真正不能原谅的是私密被装进了那台东西。
+ch19 the rattle box talks.md:134 **为什么这样写**：两个短问句里没有辩护也没有否认，只有货真价实的没听懂；用问号代替辩白，让「他不知情」落得干净利落。
+ch19 the rattle box talks.md:164 **为什么这样写**：tamed、domesticated、caged 三个驯兽场词汇串成一组，婚姻在她眼里完成从驯养到关押的改写；merely 一词把话说尽——笼子不改野性，只圈住活动范围。
+ch19 the rattle box talks.md:166 **读者视角提示**：她否定的不是妻子与母亲这两个身份，而是「这是我心甘情愿」的旧说法——本章从这里把她交出去，走向她的下一步。
+ch20 molly comes back.md:12 - **Tropes 兑现/反转**：兑现「醉鬼深夜归家」的狼狈（"her mascara running, her bunny ears sliding down her forehead"）与「孩子一语戳穿家庭真相」；反转在章首那帧 1
+ch20 molly comes back.md:14 - **叙事手法**：1650 年传单 The Shame of Hasenhurst 作章首 epigraph 定调；短对话与长段自由间接独白交替推进；先用 Greg 的缺席（"there was no surer indication 
+ch20 molly comes back.md:84 **为什么这样写**：两个比较级连用（more a son / more a husband），把野兔直接填进她家庭关系里的两个空位；随后 parasite 的比喻自己承认这份欲望的寄生性——她看得清清楚楚自己被什么占据，却赶不走。frig
+ch20 molly comes back.md:104 **为什么这样写**：两个 but 撑起一架天平：一边是彻底报废的生活（completely and absolutely fucked），一边是「她回来了」。作者把救援的分量交给对比而不是形容，再拉出 Morgan McKinley 这笔
+ch21 i knew helena hollyoak.md:13 - **叙事手法**：以 1650 年传单（"he feasts upon the numbles of children and sinners"）定调，进门即收紧感官（TICK TICK TICK、霉味、蜡烛红光），用 holograp
+ch21 i knew helena hollyoak.md:41 **为什么这样写**：三个「可能」逐级撤走确定性——年龄、性别、连「是否是声音」也交还给怀疑；随后脚下的 rooted 把诱惑写成物理性的钉住，进与退都不由她，恐怖不靠音量，靠不可归类。
+ch21 i knew helena hollyoak.md:97 **为什么这样写**：把自己的处境说成「你」的通则——私耻升格为所有家长共享的判词；三个短句步步收窄：先发现谎，再走不掉，最后是刑期，绝望感全靠句法的收束，不靠一个形容词。
+ch21 i knew helena hollyoak.md:104 **为什么这样写**：两个 them 首尾接力——前一个被藏出门外，后一个（指 Sandy）关在心门另一侧；原文不点破指代，让「隐瞒」与「想认识而不得」在同一个代词里咬合，It hurts 只有两个词，疼得越简短越真。
+ch22 the third card is the devil.md:9 - **一句话概括**：Tigglestide Eve 暴雨夜，家里散架的 Sandy 独守着无信号的宅子，淋透的 George 在窗下扔石子求进；一个靠每晚的净化仪式撑住门面，一个怕 Round Robin 来清算，补读的塔罗第三张翻开是
+ch22 the third card is the devil.md:11 - **Tropes 兑现/反转**：上游只翻了两张塔罗牌，本章补读的第三张兑现成 "It was the Devil."；同时反转的是 George——这个吓小孩的故事她原本 "I never believed in Round Robi
+ch22 the third card is the devil.md:46 **中文理解**：Sandy 断言 Round Robin 不在屋里——今晚全家在崩盘，实在没心思陪 George 折腾这个；但转口就交出自己的底气：我每晚做净化仪式保护这座房子。两个人怕的东西是错开的：George 怕门外，Sandy 只
+ch22 the third card is the devil.md:55 **为什么这样写**：作者把恐怖交给静物——三个 A…falling upon a… 的同构短句连排，读起来像队列行进一样不容分说；装饰剥落露出真墙，恰好把这个家的底细翻给你看：体面层下面本来就是一条捕食链。
+ch22 the third card is the devil.md:69 **为什么这样写**：这一幕收在三个干脆的动作上——坐下、摊牌、抽牌；牌名不带任何形容，直接落在 It was the Devil 上，恐怖不靠渲染，靠命名。
+ch22 the third card is the devil.md:125 Tigglestide Eve 暴雨夜，George 淋雨上门，两人从 dosed 旧账谈到信仰塌方：George 哭着认账 "Round Robin’s finally gonna come get me for all my sins.
+ch23 helena invented round robin.md:12 - **Tropes 兑现/反转**：兑现"古镇藏古神"与"知情老者揭秘"两个期待，再一并拆穿——神不古，是畅销书作家造的；揭秘者也不是旁观者，而是自称 "willing servant" 的共谋；甜腻童话腔被反转成规训的传声筒。
+ch23 helena invented round robin.md:19 **中文理解**：开场先给传主定性——想象力惊人的创作者，还叮嘱"记住这一点，以后很重要"；随后报出战绩：1903 年全英最畅销童书，1914 年拿下 Queen's Regard 奖。
+ch24 jessica belongs to round robin.md:29 **为什么这样写**：三个 She 开头的短句层层推进：先是身体（发作），再是认知（认出），最后落到源头（童年）。作者让邪教现场与宗教灌输共享同一条神经，恐慌发作本身成了两场仪式之间对得上号的暗记。
+ch24 jessica belongs to round robin.md:50 **为什么这样写**：两个选项被故意配平到失真：一条路打包了 nothing、failed、misspent 三重判决，另一条路只剩轻飘飘的 fix everything。选择的话术在选项命名时就完成了——退路被描述得一无是处，签约于是显得
+ch24 jessica belongs to round robin.md:129 杰西卡在暗室里给出 "I want Round Robin to fix things." 的答复，问询、弃誓、显形、入怀一路走完，死亡被收进一句 "But the deed was done and she now belonged to
+ch25 greg goes to the pub.md:14 - **叙事手法**：自由间接引语铺满 Greg 的决策全程；恐怖靠文体落差递送——招聘话术（"We specifically requested your family"）、数字化转型口号（"We've finally joined th
+ch25 greg goes to the pub.md:44 **为什么这样写**：一条长句滚雪球：dropped、left、tanked 三个动词步步加码，把中年恐慌押解到破产独居的终点；括号里的「(they were always red)」是叙述者探头的冷笑，替 Greg 点破执念的滑稽——这段
+ch25 greg goes to the pub.md:54 **为什么这样写**：三个短句像三下关门的闷响，把婚姻写成引力场而非选择；「hated the fact that she was right」让自知与无力并存——他看得清自己，却动不了自己；这句宿命论顺手交代了他今夜步步顺从的底层性格：认
+ch25 greg goes to the pub.md:70 **中文理解**：酒保戴着一张又红又湿的面具，像刚刷过漆，隔着烟气仍在烛光里发亮；面具没有可见的嘴，却有两只凸出的眼睛。……Greg 认出了邮差皮特——还穿着裙装、带着妆——还有戴狗面具的牧师、两颊涂着红斑扮作 Robert the bob
+ch25 greg goes to the pub.md:140 **中文理解**：Round Robin 转过身，正面对准 Greg。这一回，床单下的两个男人动作完美同步。……他此刻清晰地感到：床单下已不再有两个男人。床单下只有一个东西，而且那不是人。
+ch25 greg goes to the pub.md:144 **为什么这样写**：恐怖藏在量词里：叙述者不紧不慢地把「两个男人」降格成「一个东西」，再补一刀「no man」；「perfectly in sync」用机械精度写血肉之躯——被占用的顺序先于变形出现；感知全部交给 Greg 的骨髓与风暴前
+ch25 greg goes to the pub.md:164 **为什么这样写**：收束处的暴力被压进两个否定句：不出声、不捂喉——写的全是缺失而非动作，痛感由读者想象补齐；「in surprise」把死亡降格成一次没听清的寒暄，与他一整晚「别失礼」的行为逻辑严丝合缝地扣上。
+ch26 the jack o the skins.md:20 **读者视角提示**：盯住 at first 这两个词——孩子们不是胆大，是还不知道今晚该怕什么；再记一下这只被揉头顶的小猫，这份日常的柔软，是后文那场告别用来称重的砝码。
+ch26 the jack o the skins.md:26 **读者视角提示**：low, slow, steady 三个形容词都在把声音往「既非人声也非兽声」的方向推；同时注意 shook 出现的位置——身体比脑子先明白过来。
+ch26 the jack o the skins.md:31 **为什么这样写**：三条禁令用哄睡的口吻排出——前两句几乎逐字重复，最后一句才交代「为什么」——让禁忌像童谣一样不讲道理、只需记住；把规则装进掖被角的场景里，恐怖从此以疼爱的形式代代口传。
+ch26 the jack o the skins.md:35 **中文理解**：小 Molly 从没想过自己这辈子真能听见 jack-o’-the-skins 的鼓点，她对母亲的警告不问缘由，只当作明摆着的事实……而在一年之中两个世界帷幕最薄的那一夜，当 Round Robin 能在人居之间自由行走时
+ch26 the jack o the skins.md:53 **中文理解**：Round Robin 走在队伍最前头，四只脚齐整划一，傀儡脑袋在人群上方十英尺处一颠一颠，鬼白的布单在风里飘；人群跟着吟唱前行，待越过 Bunnyfluff Bridge、踏上 Hollyoak House 的地界，剩下
+ch26 the jack o the skins.md:55 **为什么这样写**：领队者被写成一件提线木偶——头颅高高悬在十英尺处晃荡，四只脚却 perfect sync，机械的整齐比乱步更瘆人；收束处不写撞门不写尖叫，只留砾石上复沓的 crunch，让声音替画面收尾，把「他们到了」直接压进读者耳朵
+ch26 the jack o the skins.md:88 Tigglestide Eve 深夜，Molly 把两个乖孩子哄上床、抱着四只猫落泪，而 jack-o’-the-skins 的鼓声里，Hasenhurst 全村跟着 Round Robin 的游行离开 pub——Greg 的尸体还在不断扩
+ch27 sandy jumps from the tower.md:50 **为什么这样写**：两次否认反而把认定焊得更死——不像梦里的、不像雾里的，可 "not an iota of doubt" 依旧成立：辨认不靠外观靠直觉；兔面罩这个玩具形象与 "given physical form" 并置，让圣物与噩梦
+ch27 sandy jumps from the tower.md:55 **中文理解**：面罩遮住鼻子与整个上半张脸，只露嘴与下巴：油黑的皮肤，嘴咧成定型的怪笑（rictus），一圈烂牙围着吸吮的空洞；门厅画像里那头编成辫的白发只剩几缕乱丝，眼洞后面除了黑什么都没有。
+ch27 sandy jumps from the tower.md:93 **读者视角提示**：松半口气的同时提起来：机器碎了，仪式断了，但混乱不等于脱身。
+ch27 sandy jumps from the tower.md:107 **读者视角提示**：读者要同时握着两件事：这句话的逻辑是空的，而说话的人已无路可退——悬念不在咒语灵不灵，在信本身够不够。
+ch28 a second chance.md:74 **读者视角提示**：Molly「过来指点」这件事被说得越自然，越值得停一秒：两位大人在同一间厨房里分工协作，本句只把它当作节日常态呈现，一个字的解释都不给。
+ch28 a second chance.md:84 **读者视角提示**：这段斗嘴有一个默认前提：两个人都还在，还都下得了厨。若读者记得前几章两人各自的遭遇，这幅画面没有一点声响，却压住了整章的重量。
+ch28 a second chance.md:108 **中文理解**：一反常态，Sandy 已经起床穿好衣服，和 George 一起躺在客厅地板上逗 Lord Palmerston：猫打滚、作势轻咬，两个孩子举着线在猫头顶晃，被猫的滑稽逗得直笑。
+ch28 a second chance.md:122 **为什么这样写**：一句打趣同时办两件事：把 Sandy 与 George 的相处读成初恋苗头，顺手把 "brown hair" 写进母亲的手势里——发色以最不设防的方式登场，越当它是旧事实，越像从来如此。
+ch28 a second chance.md:148 **中文理解**：真好，她望着窗外想——Hollyoak House 的葱茏园地，在全家看顾下重拾旧日光彩的下沉花园，修剪齐整的艾草与毛地黄、绣球与猫薄荷……冷雾如一剂抚慰的膏药，晨午晚都不散尽——能有一个第二次机会，真好。
+ch28 a second chance.md:154 **读者视角提示**：花园 "regaining its former splendor" 的前提是它曾经被毁；雾 "never lifted completely" 则是清单里没被修掉的一项。圆满的账单写到末行，落款是「第二次机会」——谁
+
+=== ⑥场景方位：28 行 ===
+00_情感节点.md:91 终章抹平一切：Jessica 在培根香气中醒来，噩梦内容不敢说出口；死者在厨房谈笑，Sandy 的紫发变成棕色，童话人物走在大街上。窗外兔群里蹲着一只体格过大、直立而坐的野兔，黄眼回望后跑开。园子恢复了盛景——这一次是"under the 
+00_概述.md:17 终章是清晨的假圆满：Jessica 在煎培根的香气里醒来，噩梦内容「the destruction of her family」想都不敢想；厨房里 Greg 与 Molly 同灶做早餐，Sandy 的头发已是棕色、和 George 一起逗猫
+00_概述.md:31 **George（Georgette Downythistle）**：嘴上最硬的无神论者，「Bugger Round Robin」挂在嘴边。亲历真身现形后她的盔甲一层层剥落：深夜冒雨求助、自认「bad girl」罪该被取走、在门口被父亲当众
+00_金句精选.md:38 **中文理解**：房主对屋内发生的任何梦境概不负责。订房回执在热情的住客须知之后，突然补上这条免责条款。
+00_金句精选.md:219 **上下文**：Jessica 触到真书被拉入书中世界：故事里的 Round Robin 巡夜查户，发现一个"不对的那种"醒着，径直走向她的门口。
+00_金句精选.md:239 **上下文**：carol 催眠下的 Hollyoak House，Sandy 与 George 被节日礼数逼到门口。
+00_金句精选.md:249 **上下文**：假圆满的清晨：Jessica 已忘掉死亡，厨房里死者们在做早餐，窗外那只黄眼野兔刚刚跑开。
+ch03 the family moves into hollyoak house.md:76 **读者视角提示**：记住门上那只 enormous hare 的位置；等楼上画像出现时，回来看这幅"家徽"——一栋房子把自己的图腾刻在门上，既是欢迎，也是一种宣告。
+ch05 the devil under the moor.md:46 **中文理解**：夜色像一大幅天鹅绒裹尸布罩住 Hollyoak House，雾夜里连星星都看不见；窗外是无遮挡的月光花园，再往外，便是那片一直铺到地平线的银色荒原。
+ch07 the witch room in the attic.md:28 **读者视角提示**：long-disused（久未使用）这个细节决定了楼上的封闭时长：封得越久，接下来的发现越像开封一桩旧案。
+ch09 the chimney sweep warns jessica.md:30 **读者视角提示**：记住这位在门口收一小口的收件人——本章后半段会有人拿他的名义说事。
+ch13 jessica sleepwalks to the portrait.md:55 **中文理解**：画里一切如常：Helena 衣着整齐，hare 的脸干干净净；老爷钟以三声低沉的 bongs 报出 three AM，窗外只有黑暗、镇子的微光与星空。
+ch13 jessica sleepwalks to the portrait.md:62 **中文理解**：Sandy 站在她身后的门口，穿着 tank top 和 boxer briefs，问妈妈好不好——自己听到她出来，还听见她在说梦话。
+ch14 the road into the bog.md:13 - **人物弧线**：Sandy 从雀跃到清醒，先交出一场有牌照的仪式证明成色，再当面点破神明的本质；George 的 cool demeanor 在 Mom 门口寒暄前就被 punctured，进了 bog 才靠传说与 elk's blo
+ch14 the road into the bog.md:34 **中文理解**：George 出现在门口，吸着 lollipop、穿 denim overalls 配 muddy boots；Sandy 怀疑她还戴着 binder，并且觉得这可能是个重要信号。
+ch16 percival under the hedgehog mask.md:116 **读者视角提示**：这一砸见了血。它与校门口那种打到有人来拉架为止的架不同，紧接着的迟疑会处理这层分寸。
+ch18 tigglestide eve pantomime.md:10 - **一句话概括**：Tigglestide Eve 当天上午，Jessica 揣着两桩任务进城——替市长的"无情"讨个说法、把 Greg 押回家过 Tigglestide——却在节庆集市上被 pantomime 与 Round Robi
+ch18 tigglestide eve pantomime.md:157 Tigglestide Eve 当天，Jessica 带着兔耳头箍与 negligee 的"挽回计划"挤进节庆集市，pantomime 的荤笑话与 Round Robin 的白床单、vomited a deluge of candy 把她逼
+ch19 the rattle box talks.md:10 - **一句话概括**：Tigglestide Eve 当天，杰西卡进城找 Greg，在市政厅里偷听到市长与 Stan 关于 infernal device 期限的电话、误判 Greg 要被开除，接着被终端上的 ROUND ROBIN V2
+ch19 the rattle box talks.md:217 Tigglestide Eve 当天，杰西卡循着丈夫的踪迹撞进市长的神秘工程：她把 Stan 的惋惜误读成开除预告，又被一台自称 ROUND ROBIN V2.8 BETA、自认什么都做不了的机器点破梦境并接到今夜祈请的命令；当街砸机、踢翻
+ch21 i knew helena hollyoak.md:10 - **情感弧线位置**：从门口的礼貌与不安，沉入小屋的压迫与不祥，再跌进自白的脆弱与眼泪，最后被一句闲谈式的揭示悬住——倾诉与恐惧在同一晚完成了换位。
+ch21 i knew helena hollyoak.md:20 **为什么这样写**：把不祥之物塞进「每处都完美」的画面里，反差自己就是恐怖——不必出现任何鬼影，只让「上次没有的东西」停在门口，Jessica 挪不开的 stare 就替读者把寒意演了出来。
+ch21 i knew helena hollyoak.md:39 **中文理解**：帐幔后飘来耳语「靠近些」，轻到几乎不能确定它存在——可能是很老的男人、很小的女孩，甚至根本不是声音。Jessica 迟疑了，脚像生了根钉在门口，只听得见身后 Molly 平稳的呼吸。
+ch21 i knew helena hollyoak.md:42 **读者视角提示**：注意「Come closer」没有引号，以转述混在叙述里——读成屋内的耳语或读成 Jessica 脑内的声音，两种读法原文都成立，这正是它后劲所在。
+ch22 the third card is the devil.md:20 **为什么这样写**：开场让天气先完成封锁——pelted 和 drenched 把宅子写成被雨围攻的孤岛，屋内只剩一块手机屏亮着，末句用最平的陈述句交代爸爸缺席，家的塌陷不用任何形容词就压了下来。
+ch28 a second chance.md:9 - **一句话概括**：Tigglestide Day 清晨，Jessica 从一场不敢说出口的噩梦中醒来，在 Greg 与 Molly 同厨的早餐、Sandy 被揉乱的棕色头发与庭园的 "second chance" 里迎来全书收束——一
+ch28 a second chance.md:18 **中文理解**：Jessica 在断断续续的怪梦之后终于起身，满屋都是煎培根的浓咸香气；厨房里有东西在动，楼下升起一股又厚又油的烟，带着煎早餐肉的气味。
+ch28 a second chance.md:144 **读者视角提示**：直立、黄眼、回望、离开。这只动物在全家团聚的窗外看了一眼就走——是来确认什么，还是来告别？文本不给宾语，只留给读者一个背影。
+
+=== ⑤方向施受：62 行 ===
+ch00 the house is not empty.md:44 **读者视角提示**：叙述者把"房子不空"当作本地人的共识顺口带出，语气平静得像在谈论天气——不给惊吓点，只给一个已被消化的常识。"always just the next room"式的"永远在隔壁"此时还没出现，但 lurking 和 
+ch01 jessica plays trophy wife.md:28 **读者视角提示**：记牢这四样「欠账」：本章随后登场的教会味人物会替她把利息算回来，读到对话里的宗教暗示时，回看这张清单就能对上号。
+ch01 jessica plays trophy wife.md:98 **读者视角提示**：结尾的 help her 把度假写成求医——她要治的是这个家；对照开篇指南的赞语清单，读者手里已同时握着广告与病情，两种文本将在 Hasenhurst 对质。
+ch02 the ferry and the unlit lighthouse.md:86 **读者视角提示**：灯塔黑着不是失修待修，而是 "’Tain’t necessary"——岛不需要被照亮；对恐怖读者而言，把"废弃"说成"没有必要"的这种逻辑，比任何怪物登场都更该警惕。
+ch05 the devil under the moor.md:34 **为什么这样写**：把法器写成一份清点式的随身清单，等于摊开 Sandy 的全部家当，再补一个 fingered 的小动作，让不安顺着指尖传出来，而不必直接说出紧张二字。
+ch05 the devil under the moor.md:48 **为什么这样写**：用 shroud 给宅子罩上死亡的底色，再用 a silver expanse of nothing 把荒原写成空到发亮的幕布——舞台搭好，只等夜里登场的来客。
+ch05 the devil under the moor.md:76 **为什么这样写**：把「变身」写成一场从体内向外掏取的手术——不是披上兽皮，而是被人从自己里面拎出来；digging 的三连重复把时间拖长，让读者与 Sandy 一起困在「想尖叫而叫不出」的躯壳里。
+ch06 round robin is the spirit of hasenhurst.md:50 **为什么这样写**：叙述者直接盖戳 "incomprehensible joke"，市长的 "guffawed" 却照常启动——把一个不成立的笑话写成必须跟笑的仪式，"everyone except Sandy had to join i
+ch06 round robin is the spirit of hasenhurst.md:92 **为什么这样写**：纠正分两步走——先否认对方的归类，再报出自己的名号，语气平得像在报门牌号；面对那张假笑，Sandy 不辩解也不安抚，把身份说成事实而非请求。
+ch06 round robin is the spirit of hasenhurst.md:106 **为什么这样写**：前半段把神迹写成质检清单，全是无关生死的小确幸，甜度精确到 "just so"；后半句突然从烘焙切到人事——"reward the right sort" 到 "set right the wrong sort"，一个
+ch07 the witch room in the attic.md:39 **为什么这样写**：祷词用古体的 thee/thy 摆出仪式腔，内容却收得极简——护佑、上路、险恶世界，把 Sandy 的信仰写成一套张口就来的随身程序，而不是戏剧化的大法事。
+ch08 jessica remembers morgan mckinley.md:28 **为什么这样写**：原文把心愿写成建筑平面图——「the heart of the house」既是房子的几何中心，也是「家」的心脏；terrible 与 wonderful 共用一个入口，暗示她要找的那样东西，救她与吞她是同一回事；「a
+ch08 jessica remembers morgan mckinley.md:35 **为什么这样写**：原文把热情待客的转身写成一次小型惊吓：墓碑是死的意象，受惊的马是兽的意象，两样都挂在一张笑脸后头；「a hair's breadth too far apart」只差一丝的分寸，让不安始终停在似有似无的位置。
+ch09 the chimney sweep warns jessica.md:120 **为什么这样写**：三步降级：不提（"didn’t mention"）、代为着想（"didn’t want to worry Sandy"）、结案（"just drunk" 归档）。重复的 "nothing to worry about"
+ch10 george and the lady tuppence.md:50 **为什么这样写**：把脏话写成童谣、把反抗写成滑稽戏——连 Jessica 都被逗笑，这个角色的倔强全靠语气立起来，不靠冲突升级。
+ch10 george and the lady tuppence.md:71 **为什么这样写**：先把人写成一座会响的糖果色装置——越花哨喜庆，越没人追问她为什么独自一人在后院靠纸牌消磨日子。
+ch11 george offers to show round robin.md:39 **为什么这样写**：walls of fog 把天气写成建筑，宅邸一退场，世界就收缩成 Sandy 身下一块湿草皮——空间被抽空到只剩施行仪式的人，正是召唤戏需要的舞台真空；「It wasn’t burning off」这类短句一记一记敲
+ch13 jessica sleepwalks to the portrait.md:71 **为什么这样写**：谎言选得越小越可信：I guess 的迟疑语气一半是给 Sandy 的，一半是给她自己的；穿着 nightgown 却觉得「被抓到 naked」，把梦的余温写成了皮肤上的羞耻。
+ch17 the hare needs to feed.md:70 **中文理解**：Molly 把绝交说成常理：Tigglestide 到了，该多陪陪自己的家人——然后落锤：「我想我不会再过来了。」说这话时，她还拍了拍 Percival 的头。
+ch17 the hare needs to feed.md:114 **为什么这样写**：swoon 与 weep 把勾引写成生理反应：先甜后咸，两步完成缴械。far too wise to belong to any mere animal 是恐怖的核心配方——非人之物长出了人的眼力，而她的反应不是逃，是
+ch17 the hare needs to feed.md:134 **为什么这样写**：need 把掠夺改写成生存权——它不是贪婪，是生理；不是要求，是刚需。前面铺垫的绅士派头与耐心等待，到这里全部收线，落在一个动词上：许可的终点站是被吃。宾语的缺席让每个读者都补上自己的答案。
+ch18 tigglestide eve pantomime.md:58 - **读者视角提示**：注意镜头从活物平移到案板——中间没有任何转场，买卖双方都把这条动线当作理所当然。
+ch18 tigglestide eve pantomime.md:79 - **读者视角提示**：注意这里没有旁观者替她作保——感受全部记在她名下，连"是不是针对她"也只能由她自己判定。
+ch18 tigglestide eve pantomime.md:92 - **为什么这样写**：把发糖写成 vomited a deluge——馈赠与呕吐共用一个动词；CRUNCH CRUNCH CRUNCH 的拟声把领奖现场压成咀嚼现场，欢腾与反胃之间只隔一层糖纸。
+ch19 the rattle box talks.md:14 - **叙事手法**：章首引 Princess Kayla 手稿，scrying sphere 里「真相将毁灭你」为「被看见的恐惧」定调；市政厅一段用软木板上的巨石环照片与 H. Hollyoak 复印件把官僚机构写成民俗研究站；终端对白以
+ch19 the rattle box talks.md:26 **读者视角提示**：注意他把超自然事件说成工程节点——veil「不会再薄」暗示仪式有硬性时间窗，整段紧张感都挂在这个期限上。
+ch20 molly comes back.md:24 **为什么这样写**：开场不给解释、只给结果的清单式白描：mascara、bunny ears、elk’s blood 各自指向一场读者没看到的疯狂，而「不记得喝过」比「喝醉」更吓人——失忆把狂欢夜写成了失踪现场，狼狈自己会说话，作者一个情
+ch20 molly comes back.md:34 **为什么这样写**：作者把孩子的提问写成仪式：dared not say 与 speak it into being 把「说出来就成真」的惧怕按进一场家庭对话——Sandy 不是在打探消息，是在给判决书签字，排比给这声问话蓄了多年的力。
+ch20 molly comes back.md:44 **为什么这样写**：自由间接独白把认罪书写成遗产清单：passed it on to them 用遗传的口吻说「病」，supposed to fix things 把生育写成一次失败的修理工程——孩子被当成替她还债的人，而债主是她自己的童
+ch20 molly comes back.md:46 **读者视角提示**：they/them 的复数代词渗进她的内心独白，她把「传下去的东西」也写成了复数；这里的「病」与下一块她追认的根源连成一条线。
+ch20 molly comes back.md:86 **读者视角提示**：原文里更露骨的身体细节不进引语，读者只需知道：这场梦把「被吞噬」写成了「做母亲」——理解到这一层就够了，往下是她的羞耻与恐慌。
+ch20 molly comes back.md:140 **中文理解**：「Tuppence 夫人特别好那口牌，咱们还欠她讨过的那一局。……今晚我得提醒你，Jessica：你可能见到许多怪异吓人的东西——今晚是 Tigglestide Eve。想跟 Round Robin 说话，就得有这个心理准
+ch20 molly comes back.md:144 **为什么这样写**：前半句把今晚之约写成社交欠账：一局没还的牌成了通行证，仪式被翻译成乡邻人情。后半句 I must warn you, Jessica 直呼其名，警告句式（may see…for it is…One must expec
+ch21 i knew helena hollyoak.md:11 - **Tropes 兑现/反转**：兑现「神谕老妪」的壳（crunkle 与 jam baps 的礼数、耳语、古老的腔调），反转其内核——"A convenient distraction" 亲口承认茶会搅局是做局，"his price 
+ch21 i knew helena hollyoak.md:28 **读者视角提示**：把这句当作本地对棺材的「官方说法」存档——此后每一处异样都会被类似的话术接住，你读出的恐怖，正是 Jessica 不被允许说出口的那部分。
+ch21 i knew helena hollyoak.md:34 **为什么这样写**：把衰变写成食物化的比喻——pancake batter 与 sour milk 都把「人」往「物」上滑，气味先于姓名抵达，读者跟 Jessica 一起经历「认不出」；直到 Molly 的问候落下，名字才追上这具身体，恐
+ch21 i knew helena hollyoak.md:69 **为什么这样写**：把许愿者的下场说成已发生的旧事，「many are they」的古腔让警告像从旧书里搬出来的；price 一词把施予写成交易，再让 casket 无缝接入——门廊那具空棺与「价码」被摆在同一句话的延长线上，答案自己往里
+ch21 i knew helena hollyoak.md:76 **为什么这样写**：让设局者亲口回收一次「意外」，把读者当作笑料看过的插曲重新定性为手法；承认把握说得像寒暄，一个反问（wasn’t it?）就替双方签了字——控制感全在语气里，不在内容里。
+ch21 i knew helena hollyoak.md:83 **为什么这样写**：把被打断的对话说成「存档待取」——她不只记得，还替对方保管着没说完的话；very, very important 的叠词像在给鱼线加坠，问句落地时，自白已经从「可能」变成了「预约」。
+ch21 i knew helena hollyoak.md:109 **中文理解**：她把怜悯一层层铺开——你受了这么多苦、活得那么难、那么孤独——然后一句「It all brought you here」把苦难说成引路的因果，顺势问出：你知道 Helena Hollyoak 吗？
+ch21 i knew helena hollyoak.md:111 **为什么这样写**：安慰与收网共用同一口气——每句共情都指向一个既成事实（你在这里），把听话人的一生改写成抵达此地的路径；问题落点从「你的苦」跳到「她的名字」，主动权在换行的瞬间完成移交。
+ch22 the third card is the devil.md:27 **为什么这样写**：作者不让 Sandy 哭诉，先写"努力不去想"——trying not to think 和 It was so obvious 顶在一起，把自我欺骗写成一个费力气的动作；not a proper one 把性别期待直
+ch22 the third card is the devil.md:67 **中文理解**：两人在客厅地毯上坐定，Sandy 摊开牌，抽出那最后一张——是 Devil。翻牌后紧接的长独白（此处概括）里，Sandy 想起高中时自称 worshipped the devil 的旧梗、把 devil 当作 free t
+ch23 helena invented round robin.md:14 - **叙事手法**：三层嵌套——塔彭丝的传记独白→画像问答里的"官方定义"→书内书的第二人称童话；"scoured as if to appear positively antediluvian"（加钱做旧）把伪造写成明码标价的工序；章首
+ch23 helena invented round robin.md:33 **为什么这样写**：谣言与用人荒缝在同一口气里：吃人传闻把宅子围起来，也把劳动力让给了外乡人；"便宜又管够"的措辞把剥削说成常识，讲述者的偏见全藏在用词里，她自己毫无察觉。
+ch23 helena invented round robin.md:46 **读者视角提示**："make up some new ones" 是本章的题眼：往前接原句 1 的"会编故事"，往后接原句 8 的"加钱做旧"，一条线把造神说成出版业的延伸。
+ch23 helena invented round robin.md:51 **为什么这样写**：先自陈"逾矩"再放问句，把阶级张力垫在底下；对方不答而反问，把陌生的东西说成人尽皆知——用"你肯定听过"去推销一个名字，这份从容比画本身更吓人。
+ch23 helena invented round robin.md:57 **为什么这样写**：定义顺着职业名单一路排下来，把神明钉在乡土生计上；"我们"被圈起来护住、"别镇的麻烦"被挡在外面——一句祝福话把界线画成了恩典，把规矩说成了传统。
+ch23 helena invented round robin.md:63 **为什么这样写**："加钱做旧"把伪造写成明码标价的工序——神明的古老是可以订购的；叙述者像报账一样列出手笔，毫不觉得"做旧"与"古迹"并置有什么不妥，这份坦然正是本章反讽的发动机。
+ch24 jessica belongs to round robin.md:22 **为什么这样写**：夫人把诱惑说成家常：everything 前后挂了两遍 "could possibly"，把不可能的许诺磨成日常语气；落点却是一个开门动作 "let him in"——与请客人进门共用同一套措辞。邀请与围猎在这句话里不
+ch24 jessica belongs to round robin.md:44 **读者视角提示**：斯潘基这个前例读者在第 14 章已经见过，此刻由夫人亲口重提，等于当面翻旧账；"You’ve kept them from that peace for so long" 更把账算到杰西卡对家人的「亏欠」上。
+ch24 jessica belongs to round robin.md:78 **为什么这样写**：收束用让步结构把杀戮写成事务：deed（办成的事）里没有凶手与痛苦的字眼，只有完成时；belonged 用过去式宣布所有权生效。全句不带一个情绪词，账目式的冷让前面所有「安宁」「为你好」的话术一次结清。
+ch25 greg goes to the pub.md:124 **为什么这样写**：让教区的精神领袖顶着儿童剧狗面具喊「team player」，一句话完成对教会权威的降格：在 Hasenhurst，项目才是教区；「always supportive」是事后补开的忠诚证明，把怯懦写成入职宣誓，讽刺全藏
+ch25 greg goes to the pub.md:134 **为什么这样写**：神学被翻译成流程优化口语：先承认神灵需要人间中介，再宣布「去人化」完成——把古老祭仪说成一次数字化转型，「二十一世纪」的自得让科技话术与血祭互相拆台；本章的恐怖内核在这一句被言明：机器即神，人只是待拆除的脚手架。
+ch27 sandy jumps from the tower.md:12 - **Tropes 兑现/反转**：火刑游行（"They were going to get burned at the stake by a peasant mob."）被主角自己点破 "stereotypical"，随后逐拍兑现；吸血
+ch27 sandy jumps from the tower.md:29 **为什么这样写**：先用 "the exact thing they had been expecting" 把恐怖写成等待已久的事，再用 stereotypical 一词自嘲，让火刑游行在主角的干笑里进场；"they almost ha
+ch27 sandy jumps from the tower.md:36 **为什么这样写**：记忆清单收窄到 "Mom and Dad were the entire world"，把催眠写成乡愁起效：它不破门，只把人泡回毫无防备的年纪；结尾问句替人把怀疑没收，"How could anything so ch
+ch27 sandy jumps from the tower.md:43 **为什么这样写**："Everyone knew" 把私人抉择写成公共常识，"that was it" 干脆得像落锁；规则越被当成废话，它碾过来时越没有商量，句子短是因为这里不需要修辞，需要的是盖章。
+ch27 sandy jumps from the tower.md:64 **为什么这样写**：赦免词通篇是清点罪状："I know…I know…I know it all" 的排比把控制说成父爱，落点 "Just come home and be good" 把好孩子定义成服从；语气越软，条款越硬，宽恕在这里
+ch28 a second chance.md:34 **读者视角提示**：这场噩梦的内容与本书前几章发生的事一一对应——是梦，还是被改写成梦的记忆？文本停在 reassure 上，把裁定权交给读者。
+ch28 a second chance.md:42 **为什么这样写**：睡裙替换掉睡衣，先给「昨晚非同寻常」一件物证；"elk’s blood" 被塞进欢天喜地的语气里，报菜名一样轻巧；"She felt reborn" 把复活感写成一句晨间感想——家常的音调驮着最不家常的细节，越轻越扎手
+ch28 a second chance.md:200 终章把灾难写成了一场晨光里的家常：Jessica 在培根香中醒来，把 "the loss of her child" 按回床单底下，童话邻居、同厨的 Greg 与 Molly、揉乱的棕色头发和直立的野兔把圆满摆满一桌——"Her famil
+
+=== ④亲属身份：53 行 ===
+00_概述.md:15 签约在深夜完成：Jessica 在 panic attack 里念出契约，abjure 信仰，让真身显形的 Round Robin 咬穿喉咙——「she now belonged to Round Robin」（ch24）。同夜，Greg 
+00_概述.md:33 **Greg**：老好人是他的生存策略，也是他的牢笼。他偷偷造的机器成了全村的祭坛，妻子摔原型机时他嚎啕——那是这段婚姻里他最激烈的一次情绪。Tigglestide Eve 深夜他走进酒馆，为「失败的补救」干杯，被自己造的神割喉；终章他在厨
+00_金句精选.md:79 **上下文**：市长之妻 Molly 在丈夫们听不见处压低声音，向 Jessica 透露全村的信仰底细。
+00_金句精选.md:189 **上下文**：抢酒、踢翻小丑、逃离 Greg 之后，她一路认定母亲关于"坏母亲"的判决即将应验。
+ch00 the house is not empty.md:34 **读者视角提示**：widow's walk 是旧时滨海大宅顶上的环形高台，供妻子眺望出海未归的丈夫，名字里就带着"等不回的人"；记住 tower 和 widow's walk，全书后段的高潮戏就发生在这座塔上。
+ch01 jessica plays trophy wife.md:9 - **一句话概括**：Ungo.com™ 派 Greg 一家赴 Hasenhurst 谈生意，行前晚宴上 Jessica 一边履行 trophy wife 的热情表演，一边被上司的妻子步步打探婚姻与孩子，最后把整个家的指望押给了那个号称 
+ch01 jessica plays trophy wife.md:32 **中文理解**：于是她不喜欢丈夫上司的妻子——两人从没聊过宗教话题，她却笃定对方是个教会味十足的人，还是格外招人烦的那种。
+ch01 jessica plays trophy wife.md:39 **中文理解**：Jessica 对这趟差事全部的了解是：上司 Stan 要把她家派去 Hasenhurst，让丈夫 Greg 与镇上的父老谈成一桩玄乎的生意；而她作为 Greg 的 trophy wife，决意对整件事保持高兴。
+ch01 jessica plays trophy wife.md:41 **为什么这样写**：信息全部塞进 All she knew 这个短路——妻子对丈夫的差事一无所知，却先领到了情绪任务；arcane 随手一放，把一桩公司买卖说得像古老仪式，乡村恐怖的门缝从这里透光。
+ch01 jessica plays trophy wife.md:90 **为什么这样写**：unprompted 把她的饥渴钉在明处——等人夸与自己开口，两种姿态的落差全在这个副词里；「不守规矩的公主」与这位以表演规矩为业的母亲互为镜像，童话设定即人物自白。
+ch02 the ferry and the unlit lighthouse.md:13 - **人物弧线**：Jessica——从 "could not be happier to sleep in an actual bed again" 的朴素期待，到给丈夫的走神定罪（"not because Stan was forci
+ch03 the family moves into hollyoak house.md:144 **为什么这样写**：来历段把一个幻想世界的诞生系在哄睡这件小事上——gremlins、goblins 与 witches 是母亲 desperation 的副产品；"heretofore unknown talent"也写得像藏在这栋房子
+ch04 the lord mayor and the vicar.md:50 **中文理解**：市长大笑拍着同伴的背，随即把明日家宴安排上：他"务必坚持"要全家明晚到他家吃饭，夸妻子做的烤肉 divine，还预告会有小孩陪你们家小孩玩，末了一句 "Do say you'll come!"
+ch08 jessica remembers morgan mckinley.md:54 **中文理解**：父母做梦都想不到，女儿在家之外藏着另一个秘密生活；东窗事发后他们勃然大怒——圣经之外的书喂养了她的想象力，除此之外还有一小袋大麻，以及她和 Morgan McKinley 交换的照片。
+ch08 jessica remembers morgan mckinley.md:68 **中文理解**：母亲留下的话是：「我以为你是我的女儿。可我不认识你。」
+ch10 george and the lady tuppence.md:48 **中文理解**：少女一句「塞进你的獾洞里去吧，笨蛋」把父亲顶得脸色发白，起身时还比了个 V 字手势，乱发上挂着树叶草屑，喊道没人能叫她 Georgette、大家都叫她 George。
+ch10 george and the lady tuppence.md:58 **读者视角提示**：George 接不接这块面包，等于她接不接受「外面的世界」；她接了，而且是看着父亲接的。
+ch10 george and the lady tuppence.md:64 **为什么这样写**：管教的话不说「我不答应」而说「他不答应」——把自家规矩外包给一位神灵，粗暴就永远不用由父亲本人负责。
+ch10 george and the lady tuppence.md:97 **中文理解**：她从牌堆里抽出一张翻在桌上——不是扑克，是塔罗牌，Rider-Waite 牌组；Jessica 一眼认出这是她母亲看不上的东西，而 Sandy 就有一副。
+ch10 george and the lady tuppence.md:100 **读者视角提示**：Sandy 拥有同一副牌，一句话把女儿和母亲放到了 Jessica 的两端。
+ch12 the church and the bog head.md:48 **中文理解**：说话人亮出天主教出身的底细：母亲若在场，必会搬出"上帝是嫉妒的神、不可有别的神"的诫命；她随手指向那张性感卡通兔海报。
+ch12 the church and the bog head.md:51 **读者视角提示**：注意她质疑的方式——不替自己抗辩，而是抬出母亲，用家里的权威当挡箭牌；人在教堂里，姿态却始终退着半步。
+ch12 the church and the bog head.md:90 **中文理解**：莫莉笑得直不起腰、浑身乱颤，讲起童年旧事：牧师拿出旧头颅展览时，她母亲说那都是被 Round Robin 带走的坏孩子的脑袋，"你最好乖一点"；这故事当年把她吓得不轻。
+ch12 the church and the bog head.md:92 **为什么这样写**：身体先于故事——jiggling 的爆笑与"坏孩子被带走"的阴影同框，恐怖被压进家庭闲谈的语域；母亲的威胁借展览现场生效，说明这套吓唬是代际相传的育儿工具，不是谁临场发挥。
+ch13 jessica sleepwalks to the portrait.md:13 - **人物弧线**：Jessica 在「好妻子自我修补」与压不住的念头之间打摆：先定晚餐计划，梦后改立「不再想 Molly」的禁令；Greg 持续缺位，缺席本身构成压力；Sandy 则从被照顾的一方变成察觉异样、出来查看的人。
+ch13 jessica sleepwalks to the portrait.md:65 **读者视角提示**：注意权力的倒置——此刻是孩子在查看母亲。Sandy 全书用 they/them 指称，中文转述用名字或「孩子」绕开性别标记即可。
+ch13 jessica sleepwalks to the portrait.md:144 Jessica 想用一顿 Tigglestide 晚餐把丈夫的注意力赢回来，梦却把她不敢承认的渴望演完整场；晨起她立下「不再想 Molly」的新规，又在淋浴间反复确认侧腹光洁——梦留下的账，皮肤说不清。
+ch14 the road into the bog.md:111 **中文理解**：wrong sort 的完整清单摊开：妻子不服从丈夫、孩子不服从父母、屋里屋外不整洁、爱闹事、不守老规矩，再加上 fairies、whores、loonies、witches，以及不把 Tigglestide 过得亮堂的 
+ch15 round robin has got sandy.md:12 - **Tropes 兑现/反转**：「仪式召唤」被反着写——Sandy 的 little wizard thing 确实灵验，但显形的方式是被 hairy hand 拎走，而非获得力量；George 前半章是带路的酷姐姐，后半章暴露为下药
+ch16 percival under the hedgehog mask.md:13 - **人物弧线**：Sandy 从被按进泥里的猎物，走到敢对精灵下令并确认「真女巫」身份；George 嘴上喊不信 Round Robin，真身现形时 bravado 却塌了；Percival 从「杀人机器」还原成哭鼻子的弟弟；Prude
+ch17 the hare needs to feed.md:11 - **情感弧线位置**：全书滑向深水区前的最后一级台阶。白天，完美晚宴、那位朋友、丈夫在场这三根支柱被依次抽走；夜晚，梦完成接管。Jessica 从幻想的导演者退位为交付者，孩子的呼救则在这一章被按下静音。
+ch17 the hare needs to feed.md:24 **为什么这样写**：整段幻想全靠 would 撑起——每件事都发生在将来时里，却被她当成已到手的定局。paterfamilias 这个拉丁词给丈夫安上家长制的宝座；而 Sandy 的顺从（without making a fuss）被提前
+ch18 tigglestide eve pantomime.md:13 - **人物弧线**：Jessica 从被动等待转为主动出击，但她的修复清单里没有 Molly（"She needed to stop thinking about Molly"）；Morgan McKinley 的旧事被她拿来度量孤独；S
+ch19 the rattle box talks.md:11 - **情感弧线位置**：紧接她进城寻夫的一天，从「替丈夫担心饭碗」的焦虑，经「梦境被机器说破」的惊骇，一路滑到街头砸机、抢酒、踢翻高跷小丑与自认 merely caged 的决裂——本章是压抑转爆发的出口。
+ch19 the rattle box talks.md:90 **中文理解**：机器凭她的问题推断她一定是 Greg 的妻子 Jennifer——名字张口就说错；接着宣称她因 apostasy 已注定要下地狱烧，那不如顺手向它 submit。
+ch19 the rattle box talks.md:150 **中文理解**：她顺手从市场摊上抢走一瓶 elk’s blood，用牙咬开瓶塞灌下一大口；脑内响起母亲的声音——母亲早预言过会走到这步：没有好母亲守不住家，而 a nasty slut 当不了好母亲。
+ch19 the rattle box talks.md:154 **为什么这样写**：抢酒的肢体越轨与母亲的内心审判同步进行——外面的失态越大，脑内的判词越响；那句脏话用她母亲的句式说出，说明最狠的监控早已搬进她脑内。
+ch19 the rattle box talks.md:160 **中文理解**：她承认自己看错了：曾以为 Greg 把她变成妻子、再变成母亲，就算驯服了她；其实她没有被驯化——只是被关进了笼子。
+ch20 molly comes back.md:10 - **一句话概括**：Tigglestide Eve 当晚，烂醉归家的 Jessica 用 "is an asshole" 定性丈夫、用 "We sure are." 坐实离婚，与 Sandy 对峙到 "I hate you, Mom!"
+ch20 molly comes back.md:80 **中文理解**：醉卧床上的回放始终找不到让她厌恶的角度——中文层概括：梦境回放滑向献祭式的快感。落点是这样一句题眼：这只野兔比 Sandy 更像儿子、比 Greg 更像丈夫；这个认知不请自来，像寄生虫一样栖在脑子里，甩不掉了。
+ch20 molly comes back.md:206 Tigglestide Eve 当晚，烂醉的 Jessica 用 "is an asshole" 定性丈夫、用 "We sure are." 坐实离婚，与 Sandy 对骂到 "I hate you, Mom!" 的决裂；卧床回放里她认下 
+ch21 i knew helena hollyoak.md:88 **中文理解**：丈夫该有的触碰不在了：他拥抱、把人拉近、亲吻头顶，把「该做的」都做了，可她摸得到两人之间的距离——它比什么都响。他待她像易碎的细瓷，怕一碰就碎。而这并非从来如此——她确信，这是对 Morgan 的惩罚。
+ch22 the third card is the devil.md:25 **中文理解**：Sandy 一直逼自己别去想的真相是：爸妈硬撑着不分开，只是为了"为了 Sandy"这个样子；他们想要一个"正经的儿子"，而 Sandy 打小就让他们失望。紧接引语之后的独白里，Sandy 用最恶毒的词骂自己，把父母婚姻失
+ch24 jessica belongs to round robin.md:27 **中文理解**：她认出这是恐慌发作，并顺着这感觉退回童年——母亲曾恳求她「接受耶稣进入心里」。
+ch26 the jack o the skins.md:13 - **叙事手法**：章首以 H. Hollyoak 的 unpublished diary entry 作 epigraph，借守旧者之口先立起「传统崩坏在即」的讽刺框架；正文恐怖全靠听觉调度——鼓声 too rhythmic to be
+ch26 the jack o the skins.md:29 **中文理解**：「他们奏起 jack-o’-the-skins 的时候，你千万别出门」——很久很久以前，母亲一边给年幼的女儿掖被角一边这样说；「他们奏 jack-o’-the-skins 的时候待在外面不安全。那意味着 Round Rob
+ch26 the jack o the skins.md:32 **读者视角提示**：这是回忆里母亲的原话，不是当下的对话；它在此刻浮上来，是因为厨房里的声音和当年的描述对上了号——童年的警告正在兑现。
+ch27 sandy jumps from the tower.md:13 - **人物弧线**：Sandy：嘴上押注法力（"Not as long as my magic works."）→ 被颂歌接管 → 当众认领 they/them → 以全副信心念咒赴空。George：被父亲的 "I forgive you
+ch27 sandy jumps from the tower.md:62 **中文理解**：Rowan 当众赦免女儿：我知道你的帐篷、你的美国摇滚，我全知道；我原谅你，Round Robin 不必把你也带走，回家做个好孩子就行。
+ch27 sandy jumps from the tower.md:69 **中文理解**：市长鼓掌把规则说穿：父亲一原谅，女儿按定义就不算顽劣，Round Robin 碰不得她；同一份赦免不适用于 Sandy——只有亲生父母有这个权力。
+ch28 a second chance.md:28 **中文理解**：她记得那是母亲所能有的最坏的梦，可怕到不敢说出口：家庭被毁、失去孩子。她摸了摸床单，只为确认这是现实——谢天谢地，终于醒了。
+ch28 a second chance.md:78 **中文理解**：这位丈夫说：为妻子做什么都不过分；不过 Molly 对怎么正确做 crunkle 另有主张，要 Jessica 来裁决——Molly 自称她的 crunkle 是 Hasenhurst 最好的，平时他也同意，可她还没尝过他
+ch28 a second chance.md:132 **为什么这样写**：大写 HER 是这一句里突然拔高的音量——亲属关系本不必喊出来，偏偏喊了；紧接着的问题又把刚钉牢的圆满敲了一下。安好如常的晨光里，做母亲的仍需要亲耳听一遍 "You are really okay, right?"。
+
+合计 346 行候选 / 32 个文件

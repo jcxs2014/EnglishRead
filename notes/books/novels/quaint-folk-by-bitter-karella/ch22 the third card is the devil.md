@@ -7,7 +7,7 @@ modified: "2026-10-29"
 
 ## 本章导航
 - **一句话概括**：Tigglestide Eve 暴雨夜，家里散架的 Sandy 独守着无信号的宅子，淋透的 George 在窗下扔石子求进；一个靠每晚的净化仪式撑住门面，一个怕 Round Robin 来清算，补读的塔罗第三张翻开是 "It was the Devil."，而 Sandy 最后只能答 "I just don’t know."
-- **情感弧线位置**：上一章的账还没翻篇——Sandy 开口就是 "You dosed me! Don’t you know anything about consent?"；暴雨把两个人关进同一间屋后，愤怒让位给彼此认怕：George 哭着说 "Round Robin’s finally gonna come get me for all my sins."，Sandy 则从等爸爸回家的人变成替她拆罪账的人。
+- **情感弧线位置**：此前被灌药的旧账还没翻篇——Sandy 开口就是 "You dosed me! Don’t you know anything about consent?"；暴雨把两个人关进同一间屋后，愤怒让位给彼此认怕：George 哭着说 "Round Robin’s finally gonna come get me for all my sins."，Sandy 则从等爸爸回家的人变成替她拆罪账的人。
 - **Tropes 兑现/反转**：上游只翻了两张塔罗牌，本章补读的第三张兑现成 "It was the Devil."；同时反转的是 George——这个吓小孩的故事她原本 "I never believed in Round Robin, not for real."，昨天亲眼撞见之后信仰塌掉。
 - **人物弧线**：George 从 dosed 冲突里的加害者，走到承认 "I’m not a good girl"；Sandy 从怒斥她下药，到回一句 "I don’t think any of those are sins, George."，用自己接触过 spirits 的经验替她拆那本罪账。
 - **叙事手法**：章首 epigraph 摘自 H. Hollyoak 的未刊日记（"the new world shall be a testament to the correctness of my idea."），给这座宅子的来历垫上一层阴冷底色；全章由双人密闭对话撑起，墙纸剥落与 wainscotting 上的捕食 procession 在两人交心时同步显形，末句以 "I just don’t know." 收束。
