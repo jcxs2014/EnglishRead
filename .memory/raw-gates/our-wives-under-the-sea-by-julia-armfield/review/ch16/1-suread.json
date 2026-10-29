@@ -1,0 +1,111 @@
+{
+  "chapter": "ch16",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch16_leah.txt",
+  "facts": [
+    {
+      "fact": "Jelka 拿出一尊圣布伦丹小塑像放在火把旁，自己蜷坐在塑像前的地板上",
+      "anchor": "Jelka had produced a small plastic figurine of St Brendan of Clonfert and set it down beside one of the torches. She now sat on the floor in front of it the way one might huddle around a fireplace",
+      "start": 23,
+      "end": 219
+    },
+    {
+      "fact": "Jelka 纠正 Leah 的说法：人是 with 圣人祈祷，不是 to 圣人祈祷",
+      "anchor": "She had told me once that you prayed with saints, not to them",
+      "start": 356,
+      "end": 417
+    },
+    {
+      "fact": "Jelka 小时候在哈勒姆市中心的教堂做辅祭，曾确信长大能当神父",
+      "anchor": "she had been an altar server at her church in central Haarlem",
+      "start": 1719,
+      "end": 1780
+    },
+    {
+      "fact": "Jelka 十三岁时对圣 Lidwina 产生了特别的痴迷",
+      "anchor": "At the age of thirteen, she had conceived a particular passion for Saint Lidwina",
+      "start": 3284,
+      "end": 3364
+    },
+    {
+      "fact": "Jelka 讲圣布伦丹因犯错被天使罚在海上航行九年",
+      "anchor": "an angel sets him out onto the ocean and makes him sail for nine years",
+      "start": 5059,
+      "end": 5129
+    },
+    {
+      "fact": "Leah 与 Jelka 在珊瑚三角区出野外时同舱，半夜听她讲这故事",
+      "anchor": "the two of us bunking together on a trip",
+      "start": 4530,
+      "end": 4570
+    },
+    {
+      "fact": "失去电力与光照的沉船里，昼夜节律几天内就会崩坏",
+      "anchor": "the circadian rhythms can swiftly begin to break down",
+      "start": 5706,
+      "end": 5759
+    },
+    {
+      "fact": "Leah 守着塑像的剪影，不知何时睡着了",
+      "anchor": "At some point I must have slept, though I’m unclear as to exactly when this started",
+      "start": 6015,
+      "end": 6098
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Jelka–Leah",
+      "kind": "旧机构同事，一同转到 Centre，常有合作但 Jelka 少谈私事",
+      "anchor": "We had worked together frequently on research projects at our old facility, had transferred to the Centre together",
+      "start": 1011,
+      "end": 1125
+    },
+    {
+      "pair": "Jelka–St Brendan",
+      "kind": "主保圣人关系：她随身带他的塑像，与他同在祈祷",
+      "anchor": "St Brendan of Clonfert is the patron saint of mariners",
+      "start": 2696,
+      "end": 2750
+    },
+    {
+      "pair": "Jelka–Saint Lidwina",
+      "kind": "少女时代的痴迷对象（十三岁）",
+      "anchor": "she had conceived a particular passion for Saint Lidwina",
+      "start": 3308,
+      "end": 3364
+    },
+    {
+      "pair": "Leah–Miri",
+      "kind": "两个女人作为伴侣在一起；Jelka 如何看待她们并不为 Leah 所知",
+      "anchor": "I didn’t know what it was she might think about Miri and me, as two women together",
+      "start": 1574,
+      "end": 1656
+    },
+    {
+      "pair": "Jelka–天主教",
+      "kind": "白热的核心：理性冷淡的人却虔信，因教会不许她当神父而转向海洋",
+      "anchor": "Jelka’s Catholicism had always been a curious part of her, a white-hot core",
+      "start": 777,
+      "end": 852
+    }
+  ],
+  "numbers": [
+    {
+      "value": "十三岁",
+      "anchor": "At the age of thirteen",
+      "start": 3284,
+      "end": 3306
+    },
+    {
+      "value": "九年",
+      "anchor": "makes him sail for nine years",
+      "start": 5100,
+      "end": 5129
+    },
+    {
+      "value": "二十四小时值班表",
+      "anchor": "maintaining a twenty-four-hour watch schedule",
+      "start": 5514,
+      "end": 5559
+    }
+  ]
+}

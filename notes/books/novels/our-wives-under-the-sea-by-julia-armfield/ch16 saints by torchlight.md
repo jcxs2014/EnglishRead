@@ -39,7 +39,31 @@ modified: “2026-10-29”
 
 ---
 
-> **原句 3:** "No – what it is is that I’m fucking furious I can’t do the thing that I wanted to do, and I feel better in places where there aren’t any churches. I was pretty chastened by this and didn’t ask her any personal questions for a long time afterwards, which I think is what she’d hoped."
+> **原句 3:** "As a child, she had been an altar server at her church in central Haarlem and growing up had been blazingly convinced that by the time she hit adulthood, Catholic policy would have bent to oncoming modernity enough to allow her to train as a priest."
+
+**中文理解**：Jelka 小时候在哈勒姆市中心的教堂做辅祭；她一直「炽烈地相信」，等自己长到成年，天主教会的政策总会向现代性让步，让她也能受训成为神父。
+
+**关键词**：an altar server / in central Haarlem / blazingly convinced / train as a priest
+
+**为什么这样写**：这一句把她的信仰写成一件有具体地址、有具体职位的事：教堂在哈勒姆市中心，她的差事是辅祭，她的野心是神父。blazingly 这个词给的是孩子的热度，would have bent to oncoming modernity 则是孩子对历史的想象——她以为时间站在她这边。Leah 讲这段时用的是一连串 had，全是转述，她自己不在场；可这个女孩后来的样子，全在这句里。
+
+**读者视角提示**：注意「她以为教会会变」。她后来在海底还带着圣像，那个没变的世界与这个相信会变的女孩，是同一个人。
+
+---
+
+> **原句 4:** "This fall, so a teenaged Jelka had read with the breathlessness that accompanies a crush, precipitated a lifetime of physical hardship, from gangrene and bleeding from the nose and mouth, to parts of the body falling off, to blindness and even stigmata."
+
+**中文理解**：她十三岁那年特别迷恋圣 Lidwina——那位在冰上摔断肋骨、从此半身瘫痪的荷兰神秘主义者。这场摔伤，少年 Jelka 是带着「迷恋时才有的那种屏息」读进去的：它引来一生的肉体苦难，坏疽、口鼻出血、身体的一部分脱落、失明，甚至圣痕。
+
+**关键词**：the breathlessness that accompanies a crush / a lifetime of physical hardship / parts of the body falling off / stigmata
+
+**为什么这样写**：作者把「读圣徒传」写成「追星」：breathlessness that accompanies a crush 是全书对宗教热情最不虔敬、也最准确的比喻。接着是一串病历式列举，越列越重，最后落在 stigmata——伤口成了神圣的证明。这个女孩迷恋的不是安慰，是受苦的极致；Leah 转述时没有评价，可这个细节解释了为什么在海底，Jelka 是三个人里最不慌的那个。
+
+**读者视角提示**：留意「迷恋痛苦」与「祈祷」在她身上是一回事。后面她讲圣布伦丹的九年航程时，你会想起这一串病名。
+
+---
+
+> **原句 5:** "No – what it is is that I’m fucking furious I can’t do the thing that I wanted to do, and I feel better in places where there aren’t any churches. I was pretty chastened by this and didn’t ask her any personal questions for a long time afterwards, which I think is what she’d hoped."
 
 **中文理解**：她摇头，说：不是那样，我只是气疯了，因为我做不成自己想做的那件事；在没有教堂的地方，我反而舒服些。Leah 说自己当时被噎住了，此后很久没再问她私人的问题——这大概正是 Jelka 想要的。
 
@@ -47,11 +71,11 @@ modified: “2026-10-29”
 
 **为什么这样写**：引语从“不”字起头，被否定的那个问句留在引语外面，读者先听见否定，再回头补问题。破折号之后是本段的重量所在：粗口与“想做的那件事”并置，把志愿落空压成一句不解释的怒气。第二句转回 Leah 的位置，她没反驳，只记下自己被“chastened”，并把这反应算作对方的目的；“我想”两个字给叙述者留了余地。整段没有一字交代那件事是什么。
 
-**读者视角提示**：这个信息缺口是有意的——耶尔卡想做的是什么，要靠同一段前面她当辅祭、想受训做神父那几句来补。别把“没有教堂的地方”读成风景偏好。
+**读者视角提示**：这个信息缺口是有意的——Jelka想做的是什么，要靠同一段前面她当辅祭、想受训做神父那几句来补。别把“没有教堂的地方”读成风景偏好。
 
 ---
 
-> **原句 4:** "My favourite part of the story, she told me, was that she fasted. She was in that much pain, bits of her skin coming away, pieces of her body, and she was still so devout that she fasted for God. I was a bloodthirsty little bitch when you think about it."
+> **原句 6:** "My favourite part of the story, she told me, was that she fasted. She was in that much pain, bits of her skin coming away, pieces of her body, and she was still so devout that she fasted for God. I was a bloodthirsty little bitch when you think about it."
 
 **中文理解**：Jelka 说，这个故事里她最喜欢的部分是那位圣徒还在守斋。人疼到那个地步，皮肤一块块脱落、身体一块块掉下来，她仍然虔诚到为上帝守斋。Jelka 又说，这么一想，自己当年是个嗜血的小婊子。
 
@@ -63,7 +87,7 @@ modified: “2026-10-29”
 
 ---
 
-> **原句 5:** "There are different stories, I remember she said, tight-voiced, moving her hands through the darkness, sometimes the journey is his own quest for the holy land and sometimes the journey’s a punishment. He does something wrong and so an angel sets him out onto the ocean and makes him sail for nine years. Heavy-handed, but then things to do with angels usually are."
+> **原句 7:** "There are different stories, I remember she said, tight-voiced, moving her hands through the darkness, sometimes the journey is his own quest for the holy land and sometimes the journey’s a punishment. He does something wrong and so an angel sets him out onto the ocean and makes him sail for nine years. Heavy-handed, but then things to do with angels usually are."
 
 **中文理解**：Leah 记得 Jelka 压低声音说，这个故事有好几个版本：有时渡海是他自己去寻圣地，有时渡海是一种惩罚——他做错了事，天使就把他赶下海，让他在海上漂九年。她还说这写法太直白，不过跟天使有关的事一般都这样。
 
@@ -75,7 +99,7 @@ modified: “2026-10-29”
 
 ---
 
-> **原句 6:** "In the sea, in the dark, there isn’t time – not in the way you would ordinarily perceive it. It can be hard to force your body into working order, hard to recognise the natural breaks between awake and asleep, aware and unconscious."
+> **原句 8:** "In the sea, in the dark, there isn’t time – not in the way you would ordinarily perceive it. It can be hard to force your body into working order, hard to recognise the natural breaks between awake and asleep, aware and unconscious."
 
 **中文理解**：在海里、在黑暗中，时间并不按平常的方式存在。要让身体照常运转会很难，也很难分辨清醒与睡着、有意识与无意识之间那些自然的界线。
 
