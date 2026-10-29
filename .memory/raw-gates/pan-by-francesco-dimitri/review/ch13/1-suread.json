@@ -1,0 +1,125 @@
+{
+ "chapter": "ch13",
+ "file": "text/ch13_the_rebirth_of_wonder.txt",
+ "text_chars": 42518,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "Giovanni 到 Luisa 公寓发现门被砸开，跨进幻境：悬崖、海盗、被缚少女、与 Uncle Augusto 家 Galleon 同款的船；他以拳击打退海盗，四步之间景褪回公寓，Adamaria 已在室内溺死",
+   "anchor": "the young woman has drowned.",
+   "offset": 4925
+  },
+  {
+   "id": "F2",
+   "fact": "丧宅里 Dal Mare 拄杖登门吊唁，认出 Wendy（眼中一闪），对 Giada 说 Stay close to Angela",
+   "anchor": "Stay close to Angela",
+   "offset": 6066
+  },
+  {
+   "id": "F3",
+   "fact": "屋顶的双子（六岁）监视宅子，五名海盗在街上；一个飞去报信，另一个违背誓言去查看",
+   "anchor": "a plump gargoyle of six years old",
+   "offset": 9372
+  },
+  {
+   "id": "F4",
+   "fact": "Wendy 回家见被砸烂的公寓（什么都没被偷，全被毁），感到被侵犯；接到 Giovanni 电话，听出「船像 Uncle Augusto 的雕塑」后惊觉 Dal Mare 正在母亲家",
+   "anchor": "Run to Mama’s place.",
+   "offset": 14675
+  },
+  {
+   "id": "F5",
+   "fact": "Dal Mare 以杖钩制住 Giada，杀死 Silvia（钩从腹部划到颈部），尸体在幻景海滩上消失；逼问 Peter 下落，Giada 供出地址",
+   "anchor": "“I’m killing you,” says Captain Hook.",
+   "offset": 17189
+  },
+  {
+   "id": "F6",
+   "fact": "Dal Mare 在 Stefano 遗体前独白：你的神不会回来；你治愈疯子，错在加入他们；离开时关灯",
+   "anchor": "You healed the mad, Stefano: your mistake was joining them.",
+   "offset": 23383
+  },
+  {
+   "id": "F7",
+   "fact": "Wendy 赶到 Giada 楼下，被四岁孩子 Weirdo 拦下告知海盗在屋里；她改道去 Giada 家，路上叫 Giovanni 回家并「准备打架」",
+   "anchor": "Be ready for a fight.",
+   "offset": 26343
+  },
+  {
+   "id": "F8",
+   "fact": "Giovanni 回家只见 Michele 掉在地上、颈上有勒痕；Weirdo 上门传信（Tinker Bell 派来）",
+   "anchor": "M’name’s Weirdo",
+   "offset": 28324
+  },
+  {
+   "id": "F9",
+   "fact": "Wendy 在 Giada 家看 Peter 已长成少年、自慰；她给他找长裤球鞋遮住羊腿，Peter 第一次笑出声，她觉得「太像人，反而不喜欢」",
+   "anchor": "So human that she doesn’t like it at all.",
+   "offset": 31985
+  },
+  {
+   "id": "F10",
+   "fact": "Michele 在「两界之间」醒来：床漂在海上、房间仍在原位；他唤出地板之灵 Parquet 才落地；出门见母亲 Silvia 的亡魂与她的遗体，替她送别，从孩子口中问出凶手＝Captain Hook／Augusto Dal Mare",
+   "anchor": "And that’s how the boy becomes a man",
+   "offset": 42381
+  }
+ ],
+ "numbers": [
+  {
+   "value": "fifteen",
+   "what": "本章十五节（I–XV）",
+   "anchor": "\nXV\n",
+   "offset": 37376
+  },
+  {
+   "value": "four steps",
+   "what": "Giovanni 四步走回现实",
+   "anchor": "At the first step tiles replace the ocean",
+   "offset": 4234
+  },
+  {
+   "value": "five pirates",
+   "what": "进公寓的海盗人数",
+   "anchor": "Five pirates enter the flat",
+   "offset": 22071
+  },
+  {
+   "value": "six years old",
+   "what": "屋顶双子的年龄",
+   "anchor": "a plump gargoyle of six years old",
+   "offset": 9372
+  },
+  {
+   "value": "four years old",
+   "what": "Weirdo 的年龄",
+   "anchor": "who must be around four years old",
+   "offset": 27949
+  },
+  {
+   "value": "thirty euros",
+   "what": "Occult Casket 的价格",
+   "anchor": "a good thirty euros",
+   "offset": 10758
+  }
+ ],
+ "relations": [
+  {
+   "who": "Augusto Dal Mare",
+   "what": "即 Captain Hook，杀死 Silvia、掳走 Giada",
+   "anchor": "“I’m killing you,” says Captain Hook.",
+   "offset": 17189
+  },
+  {
+   "who": "Adamaria",
+   "what": "Luisa 的合租室友（演员梦、Bari 口音），在公寓溺死",
+   "anchor": "sharing with Adamaria",
+   "offset": 173
+  },
+  {
+   "who": "Weirdo",
+   "what": "四岁孩子军团成员，替 Tinker Bell 传信",
+   "anchor": "“M’name’s Weirdo,”",
+   "offset": 28323
+  }
+ ]
+}
