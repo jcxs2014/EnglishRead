@@ -87,7 +87,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "“Just the fingertips,” she says when I press her, allowing me to take hold of her hands and examine them, though after a moment the feeling appears to become too much for her and she pulls them away."
+> **原句 7:** "Later on, back home, I become briefly convinced that Leah has vanished. I move from room to room, checking wardrobes, opening drawers and upsetting piles of clothes from the armchairs on which I’ve allowed them to gather."
+
+**中文理解**：后来回到家，她有一小段时间确信 Leah 已经消失。她一个房间一个房间地走，翻衣柜、开抽屉，把堆在扶手椅上的衣服翻乱——那是她允许自己乱堆的地方。
+
+**关键词**：briefly convinced / checking wardrobes / opening drawers / upsetting piles of clothes
+
+**为什么这样写**：注意时态在这里切成了现在时（become、move、check），全章其余是过去时——这不是回忆，是她此刻还在做的动作。检查的顺序从衣柜到抽屉再到衣堆，全是「衣服」：Leah 的消失先是衣服的消失。briefly 是作者替她留的体面，可后面她还会盯着洗手池的排水口看几秒，那几秒已经不体面了。
+
+**读者视角提示**：这一段之后她「当然」在浴室门口看见 Leah——find 的顺序与呼吸的顺序相反：先找，再看见，再不明白自己怎么会漏看。这种「先确认消失」的直觉，比任何化验单都更像诊断。
+
+---
+
+> **原句 8:** "“Just the fingertips,” she says when I press her, allowing me to take hold of her hands and examine them, though after a moment the feeling appears to become too much for her and she pulls them away."
 
 **中文理解**：回程公交上 Leah 上顶层时差点踩空，事后说手突然没感觉了；Miri 追问，她只说「只是指尖」，让她握着检查，可过了一会儿那感觉似乎变得太强，她把手抽了回去。
 
@@ -99,7 +111,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 8:** "It’s too hard, trying to exist between these poles of hope and death. You just find yourself imagining all these possibilities, all these possible sisters wandering around half unseen like people with sheets over their head, except that somewhere among them, you know that one of them’s real – one of them’s dead, one of them’s the ghost."
+> **原句 9:** "It’s too hard, trying to exist between these poles of hope and death. You just find yourself imagining all these possibilities, all these possible sisters wandering around half unseen like people with sheets over their head, except that somewhere among them, you know that one of them’s real – one of them’s dead, one of them’s the ghost."
 
 **中文理解**：那个发帖的女人说，他们反复告诉她「希望没有失去」，说到这句话变成无法与之共处的东西；她只能在「希望」与「死亡」两极之间活着，只能在想象里造出一群蒙着床单的姐妹，而其中有一个是真的——有一个是死的，有一个是鬼。
 

@@ -1,0 +1,146 @@
+{
+  "chapter": "ch17",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch17_miri.txt",
+  "facts": [
+    {
+      "fact": "十三岁时 Miri 陷入对性病的执念，把自己关进一个此后整个青春期都想逃出的“锁箱”。",
+      "anchor": "At the age of thirteen I became obsessed with venereal diseases",
+      "start": 88,
+      "end": 151
+    },
+    {
+      "fact": "与 Leah 的性被她比作钥匙与锁，打开了一扇她原以为不可通过的门。",
+      "anchor": "Sex with Leah was a key and a lock",
+      "start": 2752,
+      "end": 2786
+    },
+    {
+      "fact": "Leah 出发前的最后一夜，Miri 把她按进床垫、按住又松开她的喉咙。",
+      "anchor": "I pushed her into the mattress and held her there",
+      "start": 3599,
+      "end": 3648
+    },
+    {
+      "fact": "Carmen 视力有了好消息，可能符合一项旨在逆转退化的实验性手术条件。",
+      "anchor": "might be eligible for experimental surgery that will aim to reverse the degeneration",
+      "start": 4959,
+      "end": 5043
+    },
+    {
+      "fact": "回到家中，Miri 一度确信 Leah 已经消失，逐屋翻衣柜、翻抽屉。",
+      "anchor": "I become briefly convinced that Leah has vanished",
+      "start": 5923,
+      "end": 5972
+    },
+    {
+      "fact": "治疗师问 Miri 是否真正花时间想过妻子到底经历了什么。",
+      "anchor": "whether you have properly taken the time to imagine what it is your wife has been through",
+      "start": 6458,
+      "end": 6547
+    },
+    {
+      "fact": "Miri 把纸条夹进最厚一本书的末页与封底之间再合上，以此演示她想象的“被压在海下”。",
+      "anchor": "The slip of paper sticks out between the final page and back cover like a bookmark",
+      "start": 8109,
+      "end": 8191
+    },
+    {
+      "fact": "回程公交上 Leah 上顶层时险些失足，说手指突然失去知觉。",
+      "anchor": "Leah nearly loses her footing climbing up to the top deck",
+      "start": 8752,
+      "end": 8809
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "kind": "夫妻：同处一室，却无法说出彼此经历过什么",
+      "anchor": "what is it you imagine when you think about where I was",
+      "start": 7587,
+      "end": 7642
+    },
+    {
+      "pair": "Miri–Carmen",
+      "kind": "朋友：咖啡馆里互相刺探又互相道歉的陪伴",
+      "anchor": "Carmen is eating toast",
+      "start": 4683,
+      "end": 4705
+    },
+    {
+      "pair": "Miri–治疗师",
+      "kind": "治疗关系：治疗师追问、Miri 用书和纸条作答",
+      "anchor": "says the therapist",
+      "start": 6437,
+      "end": 6455
+    },
+    {
+      "pair": "Leah–治疗师",
+      "kind": "治疗关系：Leah 在会谈中把目光从治疗师移向那本书",
+      "anchor": "her eyes are now on the therapist",
+      "start": 7551,
+      "end": 7584
+    }
+  ],
+  "numbers": [
+    {
+      "value": "十三岁 / At the age of thirteen",
+      "anchor": "At the age of thirteen",
+      "start": 88,
+      "end": 110
+    },
+    {
+      "value": "十八岁 / At the age of eighteen",
+      "anchor": "At the age of eighteen",
+      "start": 1275,
+      "end": 1297
+    },
+    {
+      "value": "二十二岁 / At the age of twenty-two",
+      "anchor": "At the age of twenty-two",
+      "start": 1515,
+      "end": 1539
+    },
+    {
+      "value": "二十四岁 / At the age of twenty-four",
+      "anchor": "At the age of twenty-four",
+      "start": 2136,
+      "end": 2161
+    },
+    {
+      "value": "每月六次以上 / upwards of six times a month",
+      "anchor": "upwards of six times a month",
+      "start": 1072,
+      "end": 1100
+    },
+    {
+      "value": "三百页左右 / three hundred or so preceding pages",
+      "anchor": "three hundred or so preceding pages",
+      "start": 8042,
+      "end": 8077
+    },
+    {
+      "value": "近一百八十度 / almost a hundred and eighty degrees",
+      "anchor": "almost a hundred and eighty degrees",
+      "start": 4188,
+      "end": 4223
+    },
+    {
+      "value": "十五年 / upwards of fifteen years ago",
+      "anchor": "upwards of fifteen years ago",
+      "start": 10594,
+      "end": 10622
+    },
+    {
+      "value": "二十年 / two decades previously",
+      "anchor": "two decades previously",
+      "start": 11371,
+      "end": 11393
+    },
+    {
+      "value": "十五岁 / when she was fifteen years old",
+      "anchor": "when she was fifteen years old",
+      "start": 11467,
+      "end": 11497
+    }
+  ]
+}
