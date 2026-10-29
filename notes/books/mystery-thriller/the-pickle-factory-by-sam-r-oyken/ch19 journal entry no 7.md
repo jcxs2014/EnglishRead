@@ -38,7 +38,7 @@ modified: "2026-10-29"
 **读者视角提示**：注意必然二字——他的排查不是从证据出发，而是从预设出发，这正是他后来追查幻影间谍的病根。
 
 > **原句 5:** "It didn’t help at all that, from 1949 onward, he drove away from CIA at 12:30 p.m. every weekday and went straight on over to Harvey’s Restaurant in Washington, D.C., next to the Mayflower Hotel, for a four-martini lunch."
-**中文理解**：从1949年起，他每工作日十二点半离开中情局，直奔华盛顿梅菲尔酒店旁的哈维餐厅吃四杯马提尼午餐，这当然无助于事。
+**中文理解**：从1949年起，他每工作日十二点半离开中情局，直奔华盛顿五月花酒店（Mayflower Hotel）旁的哈维餐厅吃四杯马提尼午餐，这当然无助于事。
 **关键词**：1949、drove away、CIA、12:30 p.m.、weekday、Harvey’s Restaurant、Washington, D.C.、Mayflower Hotel、four-martini lunch
 **为什么这样写**：时间地点精确到门牌，再甩出四杯马提尼午餐的荒唐细节，说明他的偏执猜疑有酒精作燃料。
 **读者视角提示**：记下12:30与 four-martini 这对数字——下午的疯狂联想都从这顿饭开始，毁人前程的正是酒后幻觉。
