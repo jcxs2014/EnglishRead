@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch68",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch68_in_which_kray_studies_the_declaration_of_independence.txt",
+ "facts": [
+  {
+   "fact": "KRAY 提前九十分钟到达国家档案馆，门外五月节游客排成的队伍绕了整整一个街区。",
+   "anchor": "KRAY arrived at the National Archives ninety minutes early.",
+   "start": 59,
+   "end": 118
+  },
+  {
+   "fact": "正午十二点整，KRAY 走到存放《独立宣言》的展柜前，BUTTONFLY 随即出现在他身旁。",
+   "anchor": "At 12:00 noon on the dot, KRAY stepped up to the display case holding the Declaration.",
+   "start": 1212,
+   "end": 1298
+  },
+  {
+   "fact": "BUTTONFLY 承认是自己让 KRAY 被解雇的。",
+   "anchor": "I mean I got you fired.",
+   "start": 1993,
+   "end": 2016
+  },
+  {
+   "fact": "BUTTONFLY 说有一笔二十万美元的签约奖金。",
+   "anchor": "There’s a two hundred thousand dollar signing bonus.",
+   "start": 3831,
+   "end": 3883
+  },
+  {
+   "fact": "BUTTONFLY 解下自己的手表递给 KRAY，作为干得漂亮的奖励。",
+   "anchor": "He unfastened his wristwatch and held it out to KRAY.",
+   "start": 11177,
+   "end": 11230
+  },
+  {
+   "fact": "新据点的起步地点是西弗吉尼亚 Greenbrier Resort 地下的 Project Greek Island。",
+   "anchor": "Ever heard of something called Project Greek Island?",
+   "start": 17146,
+   "end": 17198
+  },
+  {
+   "fact": "BUTTONFLY 告诉 KRAY，展柜里的《独立宣言》只是复制品，原件被 Senator Robert Byrd 运到 Morgantown。",
+   "anchor": "you know it’s only a copy, right?",
+   "start": 18996,
+   "end": 19029
+  },
+  {
+   "fact": "两人在 Willard Hotel 午餐谈了三小时，随后开始行动。",
+   "anchor": "KRAY and BUTTONFLY spent three solid hours there",
+   "start": 19932,
+   "end": 19980
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch70",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch70_in_which_we_learn_who_slept_with_whom_and_why.txt",
+ "facts": [
+  {
+   "fact": "副标题直接点明本章内容：交代谁与谁上床以及各自的理由",
+   "anchor": "In Which We Learn Who Slept With Whom And Why",
+   "start": 32,
+   "end": 77
+  },
+  {
+   "fact": "第一组关系给出的动机是渗透 Mormon Mafia",
+   "anchor": "in order to infiltrate the Mormon Mafia",
+   "start": 127,
+   "end": 166
+  },
+  {
+   "fact": "第二组关系给出的动机是退出 In The Closet Mafia",
+   "anchor": "in order to exit the In The Closet Mafia",
+   "start": 218,
+   "end": 258
+  },
+  {
+   "fact": "第三组关系被解释为对方是她来自 Odd, West Virginia 的表亲",
+   "anchor": "on account of he was her cousin from Odd, West Virginia",
+   "start": 315,
+   "end": 370
+  },
+  {
+   "fact": "第四组关系归因于她是 Plus Size Mafia 成员、想满足欲望",
+   "anchor": "as a member of the Plus Size Mafia, she wanted to scratch that big fat itch",
+   "start": 442,
+   "end": 517
+  },
+  {
+   "fact": "第五组关系自称是为了维持 Marine Corps Mafia 的团结与凝聚，且加了「据他所说」",
+   "anchor": "in order to maintain the solidarity and cohesiveness of the Marine Corps Mafia, or so he said",
+   "start": 573,
+   "end": 666
+  },
+  {
+   "fact": "名单中有一组涉及已故的西弗吉尼亚参议员 Robert Byrd",
+   "anchor": "slept with the late Senator Robert Byrd of West Virginia",
+   "start": 962,
+   "end": 1018
+  },
+  {
+   "fact": "名单里有一人谁也没睡",
+   "anchor": "didn’t sleep with anybody",
+   "start": 1072,
+   "end": 1097
+  },
+  {
+   "fact": "人事部门有人把全部档案误运到 Monaco 的码头，名单因此无法核对",
+   "anchor": "somebody in Personnel accidentally shipped all those files off to a dockside in Monaco",
+   "start": 1523,
+   "end": 1609
+  }
+ ]
+}
