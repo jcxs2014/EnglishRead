@@ -1,0 +1,119 @@
+{
+ "chapter": "ch18",
+ "file": "text/ch18_nemi.txt",
+ "text_chars": 23428,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "Irene 开车载 Michele 出罗马：车在他眼里是活物（座椅成有机质、方向盘成发光肠圈、安全带成软骨），车灵求他治病；出城数公里后声音才退",
+   "anchor": "the creature swallowed him into its warm stomach",
+   "offset": 214
+  },
+  {
+   "id": "F2",
+   "fact": "Nemi 的湖与林把他带回童年；他意识到童年那个 Michele 已随父母死去，只有学会理解重生的自己才能杀掉仇人",
+   "anchor": "that Michele is dead along with his parents",
+   "offset": 2212
+  },
+  {
+   "id": "F3",
+   "fact": "Irene 补全家史：巫会世代守护 Diana 神庙、Stefano 成为林中之王、击败 Dal Mare 却留他一命，此后 Dal Mare 逐个杀死成员；她及时脱身躲进罗马自保",
+   "anchor": "Dal Mare killed all the others, one by one",
+   "offset": 5728
+  },
+  {
+   "id": "F4",
+   "fact": "Michele 纠正：Dal Mare 也杀了父亲——灵体说阿尔茨海默是他所为；Irene 沉默接受",
+   "anchor": "The spirits said the Alzheimer’s was his work",
+   "offset": 5836
+  },
+  {
+   "id": "F5",
+   "fact": "Irene 断言 Dal Mare 是神，是 Discordian 所称 Mr. Greyface：不要痛苦不要宏大，只要秩序、和平、一切史诗的终结",
+   "anchor": "He wants order, Michele.",
+   "offset": 9228
+  },
+  {
+   "id": "F6",
+   "fact": "她用两组例证钉住命题：法西斯二十年犯罪率最低、Vlad the Impaler 治下路不拾遗但反对者被木桩穿肛；「安静的代价是统治，秩序的代价是创造力的死」",
+   "anchor": "the price of order is the death of creativity",
+   "offset": 9699
+  },
+  {
+   "id": "F7",
+   "fact": "神庙遗址只剩残石，旁边被人搭了一座廉价温室；Irene 说这是 Augusto 的作为，人们用娱乐换掉了好奇心，还讲交警否认神庙存在",
+   "anchor": "It needs to be destroyed.",
+   "offset": 16019
+  },
+  {
+   "id": "F8",
+   "fact": "Irene 在神庙开课：三面向 Flesh/Enchantment/Dream 不是平行世界而是「看世界的方式」，用翻画、掷骰、向盲人描述红色三个比喻",
+   "anchor": "It’s a way of looking at things.",
+   "offset": 17686
+  },
+  {
+   "id": "F9",
+   "fact": "她解释：少数存在同时具三面向；人类主要活在 Flesh，特定条件下可进入 Enchantment；Michele 死而复生，活在两界之间",
+   "anchor": "You live between worlds, that is your nature.",
+   "offset": 20065
+  },
+  {
+   "id": "F10",
+   "fact": "夜里 Michele 用 Irene 的老式转盘电话打给 Greta，约她秘密来 Nemi；末两行切到 Dream：猎犬 Wedge 正在靠近",
+   "anchor": "Wedge is getting closer.",
+   "offset": 23403
+  }
+ ],
+ "numbers": [
+  {
+   "value": "six",
+   "what": "本章六节（I–VI）",
+   "anchor": "\nVI\n",
+   "offset": 23195
+  },
+  {
+   "value": "nine in the morning",
+   "what": "抵达 Nemi 的时间",
+   "anchor": "It’s nine in the morning",
+   "offset": 3667
+  },
+  {
+   "value": "sixteen",
+   "what": "Michele 十六岁",
+   "anchor": "Michele is a sixteen-year-old boy",
+   "offset": 795
+  },
+  {
+   "value": "twenty years",
+   "what": "法西斯统治年数",
+   "anchor": "the twenty years of fascism",
+   "offset": 9404
+  },
+  {
+   "value": "almost sixty",
+   "what": "Irene 年龄",
+   "anchor": "I’m almost sixty",
+   "offset": 16077
+  }
+ ],
+ "relations": [
+  {
+   "who": "Irene",
+   "what": "Stefano 的巫会姐妹、唯一在世的老师，带 Michele 到 Nemi 授课",
+   "anchor": "Irene has told him of the coven that his father belonged to",
+   "offset": 5227
+  },
+  {
+   "who": "Augusto Dal Mare",
+   "what": "杀尽巫会、被指为 Discordian 的 Mr. Greyface（秩序之神）",
+   "anchor": "call Mr. Greyface",
+   "offset": 9055
+  },
+  {
+   "who": "Greta",
+   "what": "Michele 唯一还在 Flesh 一侧的朋友，被约来 Nemi",
+   "anchor": "“Hello,” says Greta.",
+   "offset": 22195
+  }
+ ]
+}
