@@ -1,0 +1,232 @@
+{
+  "chapter": "ch19",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch19_miri.txt",
+  "facts": [
+    {
+      "fact": "清晨跑步后她去市政休闲中心旁的咖啡馆，那个男人又一次（至少第三次）在付费时把电话号码写在 Miri 的小票上；这次她盯着他几秒，说“Please stop doing that”，没拿小票就走了。",
+      "anchor": "he does it again this morning as I hand over my change",
+      "start": 549,
+      "end": 603
+    },
+    {
+      "fact": "本季度水费约为平均值的十二倍，她不知道该怎么付；坏牙在疼。她在整理 Leah 调去 Centre 的文件，发现自己说不清是从哪一刻起不再真正懂 Leah 每天在做什么。",
+      "anchor": "Our quarterly water bill is in the region of twelve times above average",
+      "start": 1498,
+      "end": 1569
+    },
+    {
+      "fact": "她回想 Leah 的欢送会：Leah 玩笑地称一个男人为“The Boss”（像在说 Bruce Springsteen），那人没致辞，却在自助餐吃了十二根鸡尾酒香肠，还曾为撞到 Miri 道歉；中心的女代表用麦克风宣称公司站在“进一步发现”的最前沿。",
+      "anchor": "ate a total of twelve cocktail sausages from the buffet table",
+      "start": 2273,
+      "end": 2334
+    },
+    {
+      "fact": "母亲生前几乎把自己训练成不笑的人（怕起皱、松脸），连皱眉、抬眉都避免；病后这份自制的僵硬瓦解，出现不由自主的面部与身体抽搐，Miri 看着难受，母亲曾喝止她“Don’t you dare look at me that way”。",
+      "anchor": "my mother nonetheless trained herself almost entirely out of it",
+      "start": 4308,
+      "end": 4371
+    },
+    {
+      "fact": "母亲在十一月两分钟默哀期间去世；Miri 在自己身上看见母亲——不是相貌，而是“躲在帘子后的闯入者”，并记得母亲只问过 Leah 两次就不再问。",
+      "anchor": "she died during the two minutes silence in November",
+      "start": 7129,
+      "end": 7180
+    },
+    {
+      "fact": "深夜有私人号码来电，接起来无人说话，近几周已发生数次；早上她问 Carmen，Carmen 否认，边看陶艺节目边说“you’re beginning to sound a bit Joan Crawford”，Miri 推掉邀请，说要照顾 Leah。",
+      "anchor": "This has happened a couple of times in recent weeks",
+      "start": 7736,
+      "end": 7787
+    },
+    {
+      "fact": "Leah 坐在沙发上说海鸟按体型吃下的塑料比海洋中任何动物都多；Miri 取来卷尺量她的手腕、喉部、额头等处，想起婚前曾量过她全身并把数据写在纸上、后来那张纸丢了；这次量完她无法判断 Leah 是否变小，因为不记得旧数据。",
+      "anchor": "I find I can’t tell whether these new measurements mean anything",
+      "start": 11073,
+      "end": 11137
+    },
+    {
+      "fact": "治疗师同意用 Skype 会诊（Leah 抱怨脚和指尖越来越没感觉、不想出门）；治疗师说只有一人在场这种治疗无法进行，Miri 答 Leah 从昨晚起就把自己锁在浴室里，这是新情况。",
+      "anchor": "has been in the bathroom with the door locked since the previous evening",
+      "start": 11975,
+      "end": 12047
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "kind": "妻子；Miri 是照护者，Leah 的身体与感知在退化（脚和指尖失去感觉、把自己锁在浴室），Miri 用卷尺量她，想确认她是否在缩小。",
+      "anchor": "I measure Leah again now – the limited parts I can reach outside the dressing gown",
+      "start": 10499,
+      "end": 10581
+    },
+    {
+      "pair": "Miri–Carmen",
+      "kind": "朋友；Carmen 关心她（“I’m worried about you, Miri”）、邀她来看陶艺节目重播，Miri 以要照顾 Leah 为由挂断。",
+      "anchor": "I tell her I have to look after Leah and hang up",
+      "start": 8980,
+      "end": 9028
+    },
+    {
+      "pair": "Miri–母亲",
+      "kind": "母女；母亲已故，Miri 在自己身上认出母亲的急躁与怒气，说母亲的“脸在我脸后面”。",
+      "anchor": "the fact of her face behind my face",
+      "start": 7442,
+      "end": 7477
+    },
+    {
+      "pair": "Miri–咖啡馆男子",
+      "kind": "陌生人与被骚扰者；他反复把电话号码写在她的小票上，这次她当面明确制止并留下小票。",
+      "anchor": "and then I say to him, abruptly, “Please stop doing that,” and leave without taking my receipt",
+      "start": 957,
+      "end": 1051
+    },
+    {
+      "pair": "Leah–“The Boss”",
+      "kind": "前上下级／同事；Leah 用玩笑口吻称他 The Boss，Miri 只记住他的发型、戒指上的纹章和吃香肠的样子。",
+      "anchor": "as though she were referring to Bruce Springsteen, pointing out a man in pressed jeans",
+      "start": 2109,
+      "end": 2195
+    },
+    {
+      "pair": "Miri、Leah–治疗师",
+      "kind": "远程心理治疗关系；治疗师要求两人同时在场，指出只有一人在场时这种治疗无法进行。",
+      "anchor": "This kind of therapy can’t work when only one of you is present",
+      "start": 11860,
+      "end": 11923
+    }
+  ],
+  "numbers": [
+    {
+      "value": "两杯咖啡（two coffees）",
+      "anchor": "where I drink two coffees in quick succession before heading back",
+      "start": 128,
+      "end": 193
+    },
+    {
+      "value": "至少三次（at least three occasions）",
+      "anchor": "who has on at least three occasions written his number down on my receipt",
+      "start": 244,
+      "end": 317
+    },
+    {
+      "value": "几秒钟（several seconds）",
+      "anchor": "I look at him for several seconds, holding my coffees in both hands",
+      "start": 864,
+      "end": 931
+    },
+    {
+      "value": "每季度、约十二倍（quarterly / twelve times above average）",
+      "anchor": "twelve times above average and I have no clear idea of how we’re going to pay it",
+      "start": 1543,
+      "end": 1623
+    },
+    {
+      "value": "十二根鸡尾酒香肠（twelve cocktail sausages）",
+      "anchor": "afterwards ate a total of twelve cocktail sausages from the buffet table and apologised",
+      "start": 2262,
+      "end": 2349
+    },
+    {
+      "value": "十二到十三块肌肉（twelve to thirteen muscles）",
+      "anchor": "there is nothing to a smile: twelve to thirteen muscles, give or take",
+      "start": 3916,
+      "end": 3985
+    },
+    {
+      "value": "七岁（seven）",
+      "anchor": "the time when I was seven and she leaned out of the window of her car",
+      "start": 7311,
+      "end": 7380
+    },
+    {
+      "value": "十一月、两分钟默哀（two minutes silence in November）",
+      "anchor": "the fact she died during the two minutes silence in November",
+      "start": 7120,
+      "end": 7180
+    },
+    {
+      "value": "停战纪念日（Armistice）",
+      "anchor": "the lack of care she gave to the plans of others extending even to the Armistice",
+      "start": 7182,
+      "end": 7262
+    },
+    {
+      "value": "Duchenne 微笑／颧大肌／眼轮匝肌（Duchenne Smile / zygomatic major / orbicularis oculi）",
+      "anchor": "a Duchenne Smile denotes contraction of the zygomatic major muscle in conjunction with the orbicularis oculi",
+      "start": 4048,
+      "end": 4156
+    },
+    {
+      "value": "Tae Bo 健身录像（Tae Bo）",
+      "anchor": "her Tae Bo videos; the strange sleepwalking manner in which she occasionally stood",
+      "start": 6610,
+      "end": 6692
+    },
+    {
+      "value": "布鲁斯·斯普林斯汀（Bruce Springsteen）",
+      "anchor": "as though she were referring to Bruce Springsteen",
+      "start": 2109,
+      "end": 2158
+    },
+    {
+      "value": "琼·克劳馥（Joan Crawford）",
+      "anchor": "you’re beginning to sound a bit Joan Crawford",
+      "start": 8731,
+      "end": 8776
+    },
+    {
+      "value": "卡桑德拉（Cassandra，邻居猫的名字，也是母亲曾想给 Miri 取的名字）",
+      "anchor": "she called her neighbour’s cat Cassandra, though the neighbour’s cat had no name",
+      "start": 6376,
+      "end": 6456
+    },
+    {
+      "value": "Skype",
+      "anchor": "The therapist agrees to see us over Skype, as Leah had been complaining",
+      "start": 11250,
+      "end": 11321
+    },
+    {
+      "value": "中心（the Centre）",
+      "anchor": "We are prouder than ever before, a woman from the Centre declared into a microphone",
+      "start": 2975,
+      "end": 3058
+    },
+    {
+      "value": "市政休闲中心（municipal leisure centre）",
+      "anchor": "I usually go to the cafe near the municipal leisure centre, where I drink two coffees",
+      "start": 68,
+      "end": 153
+    },
+    {
+      "value": "卡门（Carmen）",
+      "anchor": "In the morning, I call Carmen and ask whether she was trying to get in touch",
+      "start": 7837,
+      "end": 7913
+    },
+    {
+      "value": "莉娅（Leah）",
+      "anchor": "Leah is in the bathroom, the sound machine playing, the phone ringing",
+      "start": 1364,
+      "end": 1433
+    },
+    {
+      "value": "米里（Miri）",
+      "anchor": "I didn’t call you last night, Miri, I was watching the pottery show",
+      "start": 8173,
+      "end": 8240
+    },
+    {
+      "value": "“老板”（The Boss）",
+      "anchor": "a man Leah described in joking terms as “The Boss”",
+      "start": 2057,
+      "end": 2107
+    },
+    {
+      "value": "私人号码（private number）",
+      "anchor": "This has happened a couple of times in recent weeks and each time the call is from a private number",
+      "start": 7736,
+      "end": 7835
+    }
+  ]
+}

@@ -27,7 +27,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "This happened once, a long time ago: Leah and I on an early date and a man in between us at the bar, forcing a leg between our stools with the forward-thrusting motion of someone preventing an elevator door from closing. Are you sisters, he had said, and she told him yes and then kissed my open mouth."
+> **原句 2:** "Leah is in the bathroom, the sound machine playing, the phone ringing. My bad tooth is aching, though I’m doing my best to ignore it. Our quarterly water bill is in the region of twelve times above average and I have no clear idea of how we’re going to pay it."
+
+**中文理解**：Leah 在浴室里，白噪音机开着，电话在响。她的坏牙在疼，她尽量不去理会。季度水费是平均值的十二倍上下，她完全不知道这笔钱要怎么付。
+
+**关键词**：the sound machine playing / My bad tooth is aching / twelve times above average / no clear idea of how we’re going to pay it
+
+**为什么这样写**：三句话并置三样失控的东西：浴室里的人、响着的电话、付不起的水费。第一句只报状态不给反应，第二句用「尽量不去理会」交代她处理一切的方式——牙疼如此，账单也如此。十二倍这个数字是全章唯一精确的账目，它把 Leah 的泡澡习惯翻译成一张付不起的单子；而电话在句首响着，没有人接。
+
+**读者视角提示**：这里的电话只是背景音，但记住它在响。往后它会变成深夜无人说话的来电；也记住「十二倍」——水是这个家里最先泄漏的东西。
+
+---
+
+> **原句 3:** "This happened once, a long time ago: Leah and I on an early date and a man in between us at the bar, forcing a leg between our stools with the forward-thrusting motion of someone preventing an elevator door from closing. Are you sisters, he had said, and she told him yes and then kissed my open mouth."
 
 **中文理解**：很久以前的一次早期约会，酒吧里一个男人挤进两人中间，把一条腿顶进她们的凳子之间，动作像有人伸手挡住将要合上的电梯门。他问她们是不是姐妹，Leah 答“是”，然后吻了她张开的嘴。
 
@@ -39,7 +51,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "I am thinking about a man Leah described in joking terms as “The Boss”, as though she were referring to Bruce Springsteen, pointing out a man in pressed jeans and a sports jacket who didn’t make a speech when others did, but afterwards ate a total of twelve cocktail sausages from the buffet table and apologised when he jostled me en route to the salad bowl."
+> **原句 4:** "I am thinking about a man Leah described in joking terms as “The Boss”, as though she were referring to Bruce Springsteen, pointing out a man in pressed jeans and a sports jacket who didn’t make a speech when others did, but afterwards ate a total of twelve cocktail sausages from the buffet table and apologised when he jostled me en route to the salad bowl."
 
 **中文理解**：她想起告别派对上一个不认识的男人：Leah 开玩笑叫他“老板”，语气像在说 Bruce Springsteen。那人穿压得笔挺的牛仔裤和一件运动外套，别人轮流讲话时他没有讲，后来却从自助餐台上吃了整整十二根鸡尾酒香肠，端沙拉路过时撞到她，还道了歉。
 
@@ -51,7 +63,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "When my mother used to smile, a rarity, the skin at the sides of her mouth rippled back like a stone thrown into water. In physical terms, there is nothing to a smile: twelve to thirteen muscles, give or take. Teeth only optional."
+> **原句 5:** "When my mother used to smile, a rarity, the skin at the sides of her mouth rippled back like a stone thrown into water. In physical terms, there is nothing to a smile: twelve to thirteen muscles, give or take. Teeth only optional."
 
 **中文理解**：母亲难得笑一次，嘴角两侧的皮肉会像石子投进水里那样荡开。她随即换了口气算账：一个笑在生理上什么都不是，十二到十三块肌肉，上下浮动；牙齿甚至可以不动。
 
@@ -63,7 +75,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "When she became ill, much of this self-imposed rigidity was lost; my mother’s face untethered but suddenly uncontrolled. She became prone to involuntary facial and bodily spasms, struggled to regulate her body’s speed, its movement through space, its sudden dislocating stops."
+> **原句 6:** "When she became ill, much of this self-imposed rigidity was lost; my mother’s face untethered but suddenly uncontrolled. She became prone to involuntary facial and bodily spasms, struggled to regulate her body’s speed, its movement through space, its sudden dislocating stops."
 
 **中文理解**：母亲病后，那套自己给自己立的规矩松了：脸不再被拴住，却也立刻不受管。她开始出现不由自主的面部和身体抽动，控制不住身体的速度、在空间里的移动，以及那些突如其来的、像脱臼一样的停顿。
 
@@ -75,7 +87,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "When we decided to get married, I took the same tape measure to gauge Leah’s ring size and having done so, decided to measure all of her, wrapping the metal strip around her waist and her upper thighs and the place where one bicep was bigger than the other, measuring the line of her clavicles and the distance between each fingertip and the floor."
+> **原句 7:** "The phone rings too late to be good news, though when I pick it up the news is nothing and no one is speaking at all. This has happened a couple of times in recent weeks and each time the call is from a private number."
+
+**中文理解**：电话响得太晚，不可能是好消息；可接起来，消息是「什么也没有」，那头根本没人说话。最近几周这已经发生过几次，每次都来自私人号码。
+
+**关键词**：too late to be good news / no one is speaking at all / a couple of times in recent weeks / from a private number
+
+**为什么这样写**：这一段的语法把两件事同时说成「没有」：news is nothing，no one is speaking。私人号码意味着来电者主动隐去身份——这在这个家里是稀有的：Centre 的电话从不匿名，她们彼此也不躲。作者不解释是谁，只给频率（几次）、时间（太晚）和可见的空白，把恐惧留在信息缺失的位置上。
+
+**读者视角提示**：第二天早上她打给 Carmen 追问，Carmen 反问她「你是不是也用私人号码打过」——这条线没有答案，但它是「有人在外面看着」的第一处证据。
+
+---
+
+> **原句 8:** "When we decided to get married, I took the same tape measure to gauge Leah’s ring size and having done so, decided to measure all of her, wrapping the metal strip around her waist and her upper thighs and the place where one bicep was bigger than the other, measuring the line of her clavicles and the distance between each fingertip and the floor."
 
 **中文理解**：决定结婚时，她用同一卷软尺去量 Leah 的戒指尺寸，量完索性把她整个量了一遍：腰、大腿、两条肱二头肌不一样粗的那一侧，还有锁骨的那条线，以及每个指尖到地板的距离。
 
@@ -87,7 +111,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "The therapist agrees to see us over Skype, as Leah had been complaining more often about a lack of sensation in her feet and fingertips and doesn’t want to make the trip. I tell the therapist I’m finding it difficult to take things seriously, that I’m finding it difficult to act as though any of what’s happening is real."
+> **原句 9:** "The therapist agrees to see us over Skype, as Leah had been complaining more often about a lack of sensation in her feet and fingertips and doesn’t want to make the trip. I tell the therapist I’m finding it difficult to take things seriously, that I’m finding it difficult to act as though any of what’s happening is real."
 
 **中文理解**：治疗师同意用 Skype 见面，因为 Leah 越来越常抱怨脚和指尖没有知觉，也不愿为此跑一趟。Miri 对治疗师说，她很难把这件事当真，很难装出正在发生的一切都是真的。
 
