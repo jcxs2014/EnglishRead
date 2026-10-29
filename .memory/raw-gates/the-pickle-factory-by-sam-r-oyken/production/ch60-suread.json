@@ -1,0 +1,43 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch60",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch60_journal_entry_no_53.txt",
+ "facts": [
+  {
+   "fact": "日记作者说本可把 Acoustic Kitty 的悲惨故事讲给读者听",
+   "anchor": "I could share with you the sad tale of Acoustic Kitty",
+   "start": 84,
+   "end": 137
+  },
+  {
+   "fact": "Acoustic Kitty 被界定为 CIA 经外科手术改造的猫",
+   "anchor": "CIA’s surgically altered cat",
+   "start": 140,
+   "end": 168
+  },
+  {
+   "fact": "作者说讲下去自己可能会掉泪，并称对方为 B’wana",
+   "anchor": "but I might tear up, B’wana",
+   "start": 171,
+   "end": 198
+  },
+  {
+   "fact": "作者把查证这件事推给读者自己去谷歌",
+   "anchor": "So you’d better go and Google that one for yourself.",
+   "start": 200,
+   "end": 252
+  },
+  {
+   "fact": "作者声明这件事到此为止不再多说",
+   "anchor": "Anyway, that’s all I’m gonna to say about that.",
+   "start": 254,
+   "end": 301
+  },
+  {
+   "fact": "附言断言鸟不是真实存在的",
+   "anchor": "P.S. Birds aren’t real.",
+   "start": 303,
+   "end": 326
+  }
+ ]
+}
