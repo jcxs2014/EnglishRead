@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch39",
+  "text": "ch39_journal_entry_no_23.txt",
+  "facts": [
+    {
+      "fact": "叙述者声称美国中央情报局发明了维基解密",
+      "anchor": "the United States Central Intelligence Agency invented WikiLeaks",
+      "start": 525,
+      "end": 589
+    },
+    {
+      "fact": "泄露的机密电报来自国务院，即中情局的官僚死敌",
+      "anchor": "They came from the Department of State, CIA’s sworn bureaucratic enemy",
+      "start": 1292,
+      "end": 1362
+    },
+    {
+      "fact": "叙述者称阿桑奇其实是美国人，只是秘密地是",
+      "anchor": "who would even guess Assange is American? But he is, covertly.",
+      "start": 2243,
+      "end": 2305
+    },
+    {
+      "fact": "阿桑奇只有两条裤子，而且两条总是脏的",
+      "anchor": "agent provocateur Julian Assange gets by owning just two pairs of trousers, both of which are always soiled?",
+      "start": 2624,
+      "end": 2732
+    },
+    {
+      "fact": "叙述者提到共有 251,287 份维基解密电报",
+      "anchor": "the 251,287 WikiLeaks cables",
+      "start": 3163,
+      "end": 3191
+    },
+    {
+      "fact": "曼宁实为中情局 GS-10 案件官，获勋章、35 年监禁，后获总统减刑",
+      "anchor": "Pfc. Chelsea Elizabeth Manning of Crescent, Oklahoma, is in reality a journeyman GS-10 CIA case officer. Also, he/she secretly got a medal for what she/he did. Along with a 35-year jail sentence to protect zir cover. Followed by a Presidential commutation.",
+      "start": 4100,
+      "end": 4356
+    },
+    {
+      "fact": "中情局训练阿富汗人杀苏联人、发赏金、提供毒刺导弹",
+      "anchor": "CIA trains a bunch of Afghans to kill Soviets, pays them bounties, arms them with Stinger missiles",
+      "start": 5998,
+      "end": 6096
+    },
+    {
+      "fact": "中情局的标准规划窗口是两年",
+      "anchor": "With two years as your standard CIA planning window",
+      "start": 6884,
+      "end": 6935
+    }
+  ]
+}

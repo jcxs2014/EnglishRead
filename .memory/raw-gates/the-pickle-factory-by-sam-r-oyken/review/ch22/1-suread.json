@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch22",
+  "text": "ch22_in_which_we_get_to_visit_hell.txt",
+  "facts": [
+    {
+      "fact": "KRAY 在 Camp ██████ 与 Tom 会面，营地在某地以西数英里。",
+      "anchor": "KRAY met Tom at Camp ██████ , several miles west of someplace else.",
+      "start": 1923,
+      "end": 1990
+    },
+    {
+      "fact": "Tom 来自马萨诸塞州 Natick，呼号“Critter”；Geoff 来自俄勒冈州 Tillamook，呼号“Skid”，两人都是前海豹队员。",
+      "anchor": "Tom, who hailed from Natick, Massachusetts, was “Critter.” Geoff, from Tillamook, Oregon, was “Skid.”",
+      "start": 3855,
+      "end": 3956
+    },
+    {
+      "fact": "他们乘坐的黑色原厂装甲德系 SUV 车窗玻璃三英寸厚，后门纵向分为上下两段。",
+      "anchor": "a black, factory-armored German baby with three-inch thick window glass and a two-part rear door, split vertically",
+      "start": 4265,
+      "end": 4379
+    },
+    {
+      "fact": "KRAY 做出“Condition 1 Carry”：枪膛里已有一发，弹匣里还有十五发。",
+      "anchor": "and there’s fifteen more right behind it",
+      "start": 5588,
+      "end": 5628
+    },
+    {
+      "fact": "TDY 开始数周后发生第一起事件：他们与一名 █████ 特工一起在城里开车，KRAY 与该特工同坐后座。",
+      "anchor": "The first happened several weeks into KRAY’s TDY, when they were tooling around town with an █████ agent sitting in the back seat next to KRAY.",
+      "start": 7518,
+      "end": 7661
+    },
+    {
+      "fact": "两辆 Humvee 前后截停他们，KRAY 数到八支 M16 对准他们的脸。",
+      "anchor": "He counted eight M16s leveled at their faces.",
+      "start": 8595,
+      "end": 8640
+    },
+    {
+      "fact": "返程走 Route Irish 时，他们离基地还有两英里，又有三发子弹击中车辆左侧，三十秒后脱离射程。",
+      "anchor": "Meanwhile, three more incoming rounds impacted the left side of the vehicle",
+      "start": 11981,
+      "end": 12056
+    },
+    {
+      "fact": "第二起事件中，黑暗中滚来的“手榴弹”其实是一罐可乐，Tom 身下只剩一罐压扁的 Coke，可乐四处喷溅。",
+      "anchor": "Beneath him lay one very flat can of Coke, the contents of which had sprayed out in every direction.",
+      "start": 14731,
+      "end": 14831
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch29",
+  "text": "ch29_in_which_buttonfly_hooks_kray_up_with_his_buddies.txt",
+  "facts": [
+    {
+      "fact": "巴特弗莱（BUTTONFLY）听到“伦敦”后显得惊讶，说不知道他们要在英国安插NOC（非官方掩护身份）。",
+      "anchor": "“London,” said BUTTONFLY, sounding surprised. “I didn’t know we were putting NOCs in the U.K.”",
+      "start": 55,
+      "end": 149
+    },
+    {
+      "fact": "巴特弗莱告诉克雷（KRAY），苏黎世要见来自日内瓦的Lucky M. VANDERROHE，但要把他调离主场，约在巴黎协和广场的Ulysse le Gagnant，午饭时间见面。",
+      "anchor": "“For Zurich, you’ll need to see Lucky M. VANDERROHE from Geneva,” he said. “You’ll want to get him off of his home turf though. Meet him in Paris. Only one place for that. Ulysse le Gagnant, Place de la Concorde. Lunchtime. He may want to head home afterward.”",
+      "start": 1630,
+      "end": 1890
+    },
+    {
+      "fact": "巴特弗莱说大使馆的人不会在附近吃午饭：自费只会找7欧元的 sandwich，除大使外没人富到一顿午饭花三百美元。",
+      "anchor": "For a meal on their own dime, they’ll find a 7-euro sandwich someplace. No one over there, except maybe the Ambassador, is rich enough to drop three hundred bucks on lunch.",
+      "start": 2113,
+      "end": 2285
+    },
+    {
+      "fact": "巴特弗莱安排克雷在米兰住Principe di Savoia，并在Biffi Scala见STUCCO, Tamara L.，提醒提防俄罗斯妓女与美人计。",
+      "anchor": "“Milan,” he said appreciatively. “Stay at the Principe di Savoia. Watch out for the Russian hookers there, too, we don’t need you falling into somebody’s honey trap. Meet STUCCO, Tamara L., at Biffi Scala.",
+      "start": 2642,
+      "end": 2847
+    },
+    {
+      "fact": "巴特弗莱说开罗的接头人是Vito J. VESUVIUS，嘱咐远离Nile Hotel，改在Le Méridien Heliopolis的法式小餐馆见面，一切只许记在脑子里、不许写下来。",
+      "anchor": "“Cairo, what a pit,” said BUTTONFLY. “VESUVIUS is my guy there, Vito J. VESUVIUS. He’s a card. But that one’ll be tricky — you won’t be able to pick out the surveillance. Stay away from the Nile Hotel, it’s a dump. Go with Le Méridien Heliopolis for the meeting, they have a nice French brasserie. And keep it all above-board. Don’t write anything down. Memorize only.”",
+      "start": 2935,
+      "end": 3304
+    },
+    {
+      "fact": "巴特弗莱让克雷见到“Jesus H. KRYSTE”时带话，说KRYSTE还欠他五十美元没忘。",
+      "anchor": "“Hank’s heard it all, including that one. Tell him I haven’t forgotten about that fifty bucks he owes me. And don’t be fooled by appearances, he was a water-walker in his day.”",
+      "start": 4193,
+      "end": 4369
+    },
+    {
+      "fact": "巴特弗莱说自己会先联系名单上每个人打招呼，对方不知道克雷的名字，克雷只需自称是“Howard的朋友”，由克雷定日期时间。",
+      "anchor": "I’ll reach out to each of them and let them know to expect a call. They won’t know your name, just say you’re a friend of Howard. They’ll know where to meet you, you just set the date and time.",
+      "start": 5160,
+      "end": 5353
+    },
+    {
+      "fact": "克雷定下识别暗号：他拿黄色文件夹作为视觉识别信号，等对方先靠近搭话；对方各持一份卷起的《Financial Times》，对方说“action”，他答“echo”。",
+      "anchor": "“Okay,” said KRAY. “Tell them I’ll be carrying a yellow file folder as my visual recognition signal. I’ll wait for them to approach and initiate if all is clear. They should each have a rolled-up copy of the Financial Times. Their word will be ‘action.’ Mine will be ‘echo.’”",
+      "start": 5356,
+      "end": 5631
+    }
+  ]
+}

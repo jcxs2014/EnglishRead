@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch64",
+  "text": "ch64_in_which_kray_gets_fired.txt",
+  "facts": [
+    {
+      "fact": "KRAY在Penalty Box（禁闭箱）里干等了两周，靠上强制网课打发无聊。",
+      "anchor": "KRAY hung fire in his cozy Penalty Box coffin for the next two weeks",
+      "start": 30,
+      "end": 98
+    },
+    {
+      "fact": "「与外国人交谈」课程建议把每次谈话的完整记录存放在安全地点，保存不少于七年，以备不时之需。",
+      "anchor": "storing them in a secure location for a period of no less than seven years",
+      "start": 479,
+      "end": 553
+    },
+    {
+      "fact": "KRAY把「吃好练好」课程转发给KANDINSKY当玩笑；KANDINSKY回信说「腰围是件可怕的事」。",
+      "anchor": "KRAY forwarded that one to KANDINSKY as a joke.",
+      "start": 1249,
+      "end": 1296
+    },
+    {
+      "fact": "一份OSS格斗手册示范二十种一拳打死男人或女人的方法，KRAY在总部书库里照着练习。",
+      "anchor": "showing twenty ways to kill a man — or a woman — with one punch",
+      "start": 1816,
+      "end": 1879
+    },
+    {
+      "fact": "KRAY一直想弄到一把OSS短剑，却始终没能从博物馆馆长Toni Hiley那里讨到。",
+      "anchor": "sweet-talk one out of Toni Hiley, the Director of the Museum",
+      "start": 2344,
+      "end": 2404
+    },
+    {
+      "fact": "周五下午，特别行动处一人与一名安保警官来到KRAY的总部工位找他。",
+      "anchor": "They came for him at his Headquarters cubicle early on Friday afternoon",
+      "start": 3861,
+      "end": 3932
+    },
+    {
+      "fact": "局长应Wacker之请，决定终止KRAY的安全许可与机构雇佣关系，此为终局且不可复核的决定。",
+      "anchor": "the Director had, at Wacker’s request, made the decision to terminate his security clearances and his Agency employment",
+      "start": 4030,
+      "end": 4149
+    },
+    {
+      "fact": "BUTTONFLY的纸条约定：明天正午在国家档案馆圆厅、站在《独立宣言》前见面，并提醒要早去因为总排队。",
+      "anchor": "Meet me at noon tomorrow at the National Archives Rotunda. I’ll be standing in front of the Declaration of Independence.",
+      "start": 5377,
+      "end": 5497
+    }
+  ]
+}

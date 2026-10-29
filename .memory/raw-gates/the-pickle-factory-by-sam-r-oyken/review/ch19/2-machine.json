@@ -1,0 +1,241 @@
+{
+  "chapter": 19,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch19 journal entry no 7.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch19_journal_entry_no_7.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "James Jesus Angleton wasn’t Jesus, he was Jim, and they say he resembled nothing so much as a tubercular cadaver. Plus h",
+          "ok": true,
+          "pos": 522
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Old Jim Angleton’s dark side was deep and wide and convoluted. And lined with mirrors. It was a maze inside a labyrinth ",
+          "ok": true,
+          "pos": 1858
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But no one could deny his job as Chief of CIA’s Counterintelligence Staff from 1954 to 1974 must have been like a massiv",
+          "ok": true,
+          "pos": 2339
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Angleton’s method, which our MI6 friends call “walking back the cat,” worked like this: He’d start from the premise that",
+          "ok": true,
+          "pos": 4407
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "It didn’t help at all that, from 1949 onward, he drove away from CIA at 12:30 p.m. every weekday and went straight on ov",
+          "ok": true,
+          "pos": 6670
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "For who was it Jim Angleton went off to drink lunch with each and every weekday from 1949 to 1951? Why it was none other",
+          "ok": true,
+          "pos": 8810
+        }
+      ],
+      "words": 60
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.96,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.91
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Journal Entry No. 7",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2379,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "chapter": 14,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch14 journal entry no 3.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch14_journal_entry_no_3.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "For some reason working at CIA engendered in some people a strong urge to congratulate themselves on working at CIA. Emp",
+          "ok": true,
+          "pos": 47
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Instead of a sword ceremony, the most fervent CIA employees would stage bonfire nights. These were held, without wooden ",
+          "ok": true,
+          "pos": 515
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It was just a beautiful sight. Partially burned secret documents and lots of sparks would waft upward on the super-heate",
+          "ok": true,
+          "pos": 959
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Oh we are the men of the CIA",
+          "ok": true,
+          "pos": 2011
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Then we’ll pilfer all your secrets and we’ll take ’em all home",
+          "ok": true,
+          "pos": 2215
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Perhaps unsurprisingly, none of the songs mentioned the surprise rout at the Bay of Pigs, Francis Gary Powers, Jack Ruby",
+          "ok": true,
+          "pos": 2842
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The bonfires were burned, and the songs were sung, expressly to celebrate CIA’s status as the World’s Premier Intelligen",
+          "ok": true,
+          "pos": 3403
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The ones who did die got a star chiseled into a Memorial Wall. The Memorial Wall had dozens and dozens of stars on it, s",
+          "ok": true,
+          "pos": 4944
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Not uncoincidentally, this wall was located directly opposite another wall with some inspirational words from the Bible,",
+          "ok": true,
+          "pos": 5130
+        }
+      ],
+      "words": 36
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.94,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.93
+      }
+    }
+  ],
+  "form": {
+    "h1": "11. Journal Entry No. 3",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 958,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

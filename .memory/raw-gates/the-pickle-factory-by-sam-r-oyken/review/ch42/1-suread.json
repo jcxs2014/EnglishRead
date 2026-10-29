@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch42",
+  "text": "ch42_journal_entry_no_29.txt",
+  "facts": [
+    {
+      "fact": "作者称抽象表现主义（Abstract Expressionism）是由CIA的Tom Braden发明的。",
+      "anchor": "Abstract Expressionism was invented by a CIA guy called Tom Braden.",
+      "start": 400,
+      "end": 467
+    },
+    {
+      "fact": "战后Braden加入CIA，掌管一个叫International Organizations Division的部门。",
+      "anchor": "After the war Braden joined CIA, where he ran something called the International Organizations Division.",
+      "start": 1327,
+      "end": 1431
+    },
+    {
+      "fact": "Braden通过IOD旗下的Congress for Cultural Freedom，在其轻信的主编、英国诗人Stephen Spender主持下帮助出版《Encounter》杂志。",
+      "anchor": "Braden helped publish Encounter magazine under the guidance of its gullible Editor-in-Chief, genius English poet Stephen Spender",
+      "start": 1678,
+      "end": 1806
+    },
+    {
+      "fact": "Peggy Guggenheim的父亲Benjamin于1912年4月15日星期一随RMS Titanic沉没身亡，她因此继承钱财。",
+      "anchor": "her father, Benjamin, perished on RMS Titanic back on Monday, April 15th, 1912",
+      "start": 5128,
+      "end": 5206
+    },
+    {
+      "fact": "Braden问Guggenheim哪位美国艺术家最可能帮上美国的忙，她毫不犹豫地回答“Jackson Pollock”。",
+      "anchor": "her reply, without hesitation, was “Jackson Pollock.”",
+      "start": 6000,
+      "end": 6053
+    },
+    {
+      "fact": "1946年1月14日星期一上午，Braden在纽约长岛East Hampton的Springs区830 Springs Fireplace Road一座改造谷仓的画室里与Pollock单独会面。",
+      "anchor": "on Monday morning, January 14th, 1946, during a one-on-one visit with Pollock at the latter’s atelier in a converted barn at 830 Springs Fireplace Road in the Springs area of East Hampton",
+      "start": 7143,
+      "end": 7330
+    },
+    {
+      "fact": "1951年初，成百上千幅原创抽象表现主义作品开始神秘出现在苏联的机场、火车站等地。",
+      "anchor": "The how and the when came in early 1951, when hundreds upon hundreds of original Abstract Expressionist artworks began mysteriously appearing in Soviet airports",
+      "start": 11380,
+      "end": 11540
+    },
+    {
+      "fact": "KGB为此雇用了13,273名新staff officers。",
+      "anchor": "the KGB’s hiring of 13,273 new staff officers",
+      "start": 13462,
+      "end": 13507
+    }
+  ]
+}

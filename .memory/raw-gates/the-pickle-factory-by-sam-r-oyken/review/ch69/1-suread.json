@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch69",
+  "text": "ch69_in_which_the_end_is_the_beginning.txt",
+  "facts": [
+    {
+      "fact": "KANDINSKY 是第一个收到解雇通知（pink slip）的人；最初的冰冷震惊过后，她觉得整件事充满报应（nemesis）的滋味。",
+      "anchor": "The first to be served her pink slip was KANDINSKY. And after she got over the initial cold shock, she found the whole thing deliciously imbued with nemesis.",
+      "start": 39,
+      "end": 196
+    },
+    {
+      "fact": "KRAY 以周末骑摩托车去 Inn at Little Washington 的方式追求她，在 Monkey Bar 单膝跪地求婚，原话是“Would you like to be buried with my people?”，KANDINSKY 答应了。",
+      "anchor": "KRAY wooed her with a weekend motorcycle trip to the Inn at Little Washington, where he proposed while taking a knee on the floor of the Monkey Bar, enquiring, and I quote, “Would you like to be buried with my people?” KANDINSKY said yes.",
+      "start": 198,
+      "end": 436
+    },
+    {
+      "fact": "两人的婚礼在意大利威尼斯举行；新娘几位来自埃塞俄比亚的姨妈也在场，她们是摩萨德“摩西行动”从苏丹秘密带到以色列的，戴着蓝边 netelas。",
+      "anchor": "Then came their wedding in Venice, Italy. Everyone was there, including several of the bride’s aunts from Ethiopia — who’d been spirited away to Israel from Sudan by the Mossad in Operation Moses — wearing blue-hemmed netelas.",
+      "start": 438,
+      "end": 664
+    },
+    {
+      "fact": "KANDINSKY 穿着华丽的 Vera Wang 婚纱和绑带 Dior 高跟鞋；KRAY 的西弗吉尼亚亲戚若发现她像威廉·莎士比亚一样是黑人和犹太人，也没表现出来。",
+      "anchor": "KANDINSKY looked amazing in her gorgeous Vera Wang gown and her strappy Dior heels. If any of KRAY’s kin from West Virginia were surprised to find out she was Black and Jewish like William Shakespeare, they didn’t show it.",
+      "start": 665,
+      "end": 887
+    },
+    {
+      "fact": "KRAY 借助其在局内的关系网，挖走了各“黑手党”派系最有才华的成员，还包括 Evita P. EVERSHAG、Jane O. THORNE 和 The Pseudo Guy（按定义就是“The One”），所有人都得到新绰号。",
+      "anchor": "Of course he also pulled out Ms. Evita P. EVERSHAG plus Ms. Jane O. THORNE and The Pseudo Guy, who was by definition “The One.” Everybody got new Funny Names.",
+      "start": 1421,
+      "end": 1579
+    },
+    {
+      "fact": "数百名 CIA 最优秀的官员被解雇或悄然消失，迁往西弗吉尼亚州 White Sulphur Springs，聚集到一扇 25 吨重的防爆门——Project Greek Island 2.0 的入口。",
+      "anchor": "There those clandestine pilgrims converged on a 25-ton blast door, the entrance to Project Greek Island 2.0.",
+      "start": 1926,
+      "end": 2034
+    },
+    {
+      "fact": "起初由老谋深算的 BUTTONFLY 掌舵，后来他把权柄交给一个仍年轻但不再天真的人；他们后来确实阻止了一场涉及钚-239（plutonium-239）的大规模袭击。",
+      "anchor": "At first, of course, it was wily old BUTTONFLY who, monarch-like, ran the show. Eventually, though, he turned the reins over to someone who was still young, but no longer naive. And yes, in time they did manage to head off a massive attack on America involving fissile material — plutonium-239, to be precise — for Providence had favored their undertakings.",
+      "start": 3754,
+      "end": 4111
+    },
+    {
+      "fact": "叙述者自报身份为 Les B. LEGIT, Esq.，又名 John O. THORNE、The Pseudo Guy、The One，结尾说 Semper Fi。",
+      "anchor": "And that is the truth, Most High, Potent, and Noble Princess, or my name is not Les B. LEGIT, Esq., aka John O. THORNE, aka The Pseudo Guy, aka The One. Semper Fi.",
+      "start": 4149,
+      "end": 4312
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch04 in which the pseudo guy takes us straight down cias kooky rabbit hole.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch04_in_which_the_pseudo_guy_takes_us_straight_down_cia_s_kooky_rabbit_hole.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Almost nobody knew where Agency pseudonyms really came from. Everybody just knew they were funny, which is why they were",
+          "ok": true,
+          "pos": 72
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Stepping inside he assessed the situation, realized his life’s calling, took a deep breath, and unplugged the Electronic",
+          "ok": true,
+          "pos": 4822
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "When they discovered John O. THORNE — The Pseudo Guy — camped out behind the Funny Names ENIAC computer down in the base",
+          "ok": true,
+          "pos": 6278
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Then those Fifth Column Analysts entered into a secret blood pact, each pledging his or her sacred honor to the protecti",
+          "ok": true,
+          "pos": 6639
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "It fell during 1975 to 1981, in what later came to be known as his “Less-Than-Stellar Middle Period.” Some on the suppor",
+          "ok": true,
+          "pos": 8303
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "KRAY had a full-sentence pseudonym. This gave him a certain automatic status with junior officers, since it was cool. Bu",
+          "ok": true,
+          "pos": 12282
+        }
+      ],
+      "words": 43
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.94,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 28,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.45
+      }
+    }
+  ],
+  "form": {
+    "h1": "1. In Which The Pseudo Guy Takes Us Straight Down CIA’s Kooky Rabbit-Hole",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2184,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

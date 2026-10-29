@@ -1,0 +1,187 @@
+{
+  "chapter": 62,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch62 in which the ceg guy blows himself.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch62_in_which_the_ceg_guy_blows_himself.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "KRAY arrived outside the Counterespionage Group interview room in the New Headquarters Building at exactly 9:30 on Monda",
+          "ok": true,
+          "pos": 38
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The Counterintelligence Officer who had emailed KRAY the CEG room number had put both his true name and his Funny Name, ",
+          "ok": true,
+          "pos": 294
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "FURST opened it and ushered him to a small, windowless room with a camera up in one corner of the ceiling. Following KRA",
+          "ok": true,
+          "pos": 660
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Oh, right,” said FURST. He studied his notes. “So he may have seen you having lunch in New Delhi with that guy from the",
+          "ok": true,
+          "pos": 1932
+        }
+      ],
+      "words": 30
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.93
+      }
+    }
+  ],
+  "form": {
+    "h1": "59. In Which the CEG Guy Blows Himself",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 4,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 4,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 554,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

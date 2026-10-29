@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch20",
+  "text": "ch20_in_which_no_one_has_the_time_to_sing_happy_birthday.txt",
+  "facts": [
+    {
+      "fact": "不锈钢滚珠以每秒超过25,000英尺的速度向外炸开，撕碎路径上的一切。",
+      "anchor": "The stainless-steel ball bearings blasted outward at more than 25,000 feet per second, shredding everything in their paths.",
+      "start": 59,
+      "end": 182
+    },
+    {
+      "fact": "约旦三重间谍、一名医生最先死亡，微笑着用阿拉伯语低声念“万物非主，唯有真主”。",
+      "anchor": "The Jordanian triple agent, a medical doctor, died first, smiling and quietly uttering to himself the words “There is no god but God” in Arabic.",
+      "start": 183,
+      "end": 327
+    },
+    {
+      "fact": "两名军官——一名前特种部队士兵、一名前海豹突击队员——在约旦医生于前沿作战基地健身房旁引爆藏身炸弹时正快速朝他移动，此前他们注意到他一直不肯把左手从背心口袋里拿出来。",
+      "anchor": "They were, in fact, both moving rapidly toward the Jordanian doctor when he set off his hidden bomb next to the gym building at Forward Operating Base ██████ , having noticed how he wouldn’t take his left hand out of his vest pocket.",
+      "start": 443,
+      "end": 676
+    },
+    {
+      "fact": "基地站长是三个孩子的母亲，面部和躯干直接中了滚珠，她提着的柠檬海绵生日蛋糕被气化。",
+      "anchor": "The Chief of Base, a mother of three, took ball bearings directly in the face and torso. The lemon sponge birthday cake she was carrying was vaporized.",
+      "start": 786,
+      "end": 937
+    },
+    {
+      "fact": "另有四名CIA官员当场死亡，其中一人站在五十英尺外，另有六人受伤。",
+      "anchor": "Four other CIA officers died on the spot, including one standing fifty feet away. Six more were wounded.",
+      "start": 939,
+      "end": 1043
+    },
+    {
+      "fact": "飞出的金属穿透该特工乘坐的红色斯巴鲁旅行车，杀死车站另一侧的三人；死者包括约旦情报机构代表，以及被一名误认其为恐怖分子的美国士兵开枪打死的阿富汗司机。",
+      "anchor": "The flying metal cut right through the red Subaru station wagon in which the agent had arrived, killing three people standing on the other side. Among the dead was a representative of the Jordanian intelligence service, as well as the Afghan driver of the Subaru, shot by a U.S. soldier who mistook him for a terrorist.",
+      "start": 1224,
+      "end": 1543
+    },
+    {
+      "fact": "站长ARISTOTLE被立即免职、召回、降职并收到申斥信，信中指责他“未能充分监督”前沿作战基地的活动；他辞去局内职务，次日到弗吉尼亚州亚历山德里亚一家邮局寄了包裹，然后朝心脏开枪自杀。",
+      "anchor": "ARISTOTLE, the Chief of Station, was immediately removed from his position, recalled, demoted, and issued a letter of reprimand faulting him for “failing to adequately supervise” activities at the forward operating base, on account of so many people had been gathered together in one place in the presence of an agent. He resigned from the Agency, then committed suicide the next day by shooting himself in the heart after stopping by a post office in Alexandria, Virginia, to mail a package.",
+      "start": 2066,
+      "end": 2558
+    },
+    {
+      "fact": "BLUEBELL与MUCHADOO未受任何责备，几个月后双双退休，随后在政府承包商处获得相当不错的工作，薪资翻了一倍多。",
+      "anchor": "They both took retirement after a few months, then got pretty decent jobs with government contractors, more than doubling their previous salaries.",
+      "start": 3195,
+      "end": 3341
+    }
+  ]
+}

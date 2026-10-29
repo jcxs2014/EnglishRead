@@ -1,0 +1,295 @@
+{
+  "chapter": 22,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch22 in which we get to visit hell.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch22_in_which_we_get_to_visit_hell.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "You arrived right after sunset in a bare-bones prop plane with no lights on that would drop in a tight spiral directly o",
+          "ok": true,
+          "pos": 118
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "There were lots of spooky-looking hangars with spooky-looking airplanes in them, helicopters whooshing overhead, ocean-g",
+          "ok": true,
+          "pos": 984
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Over the front door was a hand-lettered banner that read “Without Scary, We Don’t Get To Be Brave.”",
+          "ok": true,
+          "pos": 2449
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Tom came up to the Operations Center offices on the afternoon of KRAY’s third day. He showed up with his buddy, Geoff, a",
+          "ok": true,
+          "pos": 3645
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "KRAY took his blue badge from around his neck and moved it forward and past Tom’s left ear, slow like Tom wanted. When t",
+          "ok": true,
+          "pos": 10391
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Contact left!” KRAY shouted. He ducked down as best he could in his body armor while scrambling to fasten his seatbelt ",
+          "ok": true,
+          "pos": 11458
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "KRAY’s boss, Magnus Y. MAGNUMOPUS, gathered everyone together and awarded KRAY a black Timex watch with a NATO strap in ",
+          "ok": true,
+          "pos": 12441
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Tom lifted himself off the floor, surprised to find out he wasn’t dead. Beneath him lay one very flat can of Coke, the c",
+          "ok": true,
+          "pos": 14422
+        }
+      ],
+      "words": 38
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.96,
+        "关键词": 0.0,
+        "为什么这样写": 0.94,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.83
+      }
+    }
+  ],
+  "form": {
+    "h1": "19. In Which We Get To Visit Hell",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2651,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

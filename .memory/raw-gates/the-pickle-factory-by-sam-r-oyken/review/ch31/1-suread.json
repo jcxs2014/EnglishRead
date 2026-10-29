@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch31",
+  "text": "ch31_in_which_kandinsky_slips_kray_a_sweater.txt",
+  "facts": [
+    {
+      "fact": "中文：维罗妮卡把藏在身后的礼物递给尼克，并让他闭眼伸手。",
+      "anchor": "Veronica commanded, snapping the heels of her Louboutins together smartly and handing Nick a package she was hiding behind her back.",
+      "start": 89,
+      "end": 221
+    },
+    {
+      "fact": "中文：尼克拆开包装，取出一件深灰色羊毛手工V领突击队毛衣。",
+      "anchor": "he separated the tissue paper inside and pulled out a handmade v-neck commando sweater in dark-grey wool",
+      "start": 885,
+      "end": 989
+    },
+    {
+      "fact": "中文：维罗妮卡说毛衣是她亲手织的，祝尼克生日快乐。",
+      "anchor": "“I knitted it for you,” said Veronica. “Happy Birthday, my honey.”",
+      "start": 1048,
+      "end": 1114
+    },
+    {
+      "fact": "中文：维罗妮卡说她赶在尼克出发前织完了，加德满都会非常冷。",
+      "anchor": "“I’m glad I got it finished in time for your trip,” Veronica said. “It’s going to be fucking cold in Kathmandu.”",
+      "start": 1606,
+      "end": 1718
+    },
+    {
+      "fact": "中文：尼克说每次监视探测路线前约一小时会把手机放进法拉第袋。",
+      "anchor": "I’ll be popping it into a Faraday bag an hour or so before each Surveillance Detection Route",
+      "start": 2340,
+      "end": 2432
+    },
+    {
+      "fact": "中文：维罗妮卡说前方作战基地的自杀式炸弹袭击改变了一切。",
+      "anchor": "the suicide bombing at Forward Operating Base ███████ changed everything",
+      "start": 3400,
+      "end": 3472
+    },
+    {
+      "fact": "中文：尼克说他已订好两人谈过的那家餐厅，等他回来就去。",
+      "anchor": "I made that reservation we talked about, for when I get back.",
+      "start": 4487,
+      "end": 4548
+    },
+    {
+      "fact": "中文：两人做完晚餐——烤鸡配红土豆、炒菠菜和面包——在烛光下并排吃。",
+      "anchor": "They finished making dinner, a roasted chicken with red potatoes, sautéed spinach, and bread, which they ate by candlelight",
+      "start": 4833,
+      "end": 4956
+    }
+  ]
+}

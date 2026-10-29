@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch65",
+  "text": "ch65_journal_entry_no_61.txt",
+  "facts": [
+    {
+      "fact": "开篇称这“下一个段子”可能只是又一大块假情报（disinformation），并说读者“几乎肯定”猜对了。",
+      "anchor": "You’re probably going to think this next riff is merely one more big moist slice of disinformation.",
+      "start": 128,
+      "end": 227
+    },
+    {
+      "fact": "作者引出名单：以下是些你从没想过会是 CIA 官员、但“可能就是”的人。",
+      "anchor": "Here are some folks you never imagined were CIA officers who just might be:",
+      "start": 271,
+      "end": 346
+    },
+    {
+      "fact": "名单共 28 条，首条为 Mahmoud Ahmadinajad（原文拼写如此，非 Ahmadinejad），末条为 Robert Upshur Woodward。",
+      "anchor": "Mahmoud Ahmadinajad",
+      "start": 348,
+      "end": 367
+    },
+    {
+      "fact": "“Pfc. Chelsea Manning”带军衔前缀 Pfc.，是名单中唯一带军衔的条目。",
+      "anchor": "Pfc. Chelsea Manning",
+      "start": 724,
+      "end": 744
+    },
+    {
+      "fact": "绰号条目“Broadway” Joe Namath 用引号标出绰号 Broadway。",
+      "anchor": "“Broadway” Joe Namath",
+      "start": 759,
+      "end": 780
+    },
+    {
+      "fact": "名单大体按姓氏首字母排序，但“The Pseudo Guy”与“Kim Jong Un”相邻出现，打破了字母顺序。",
+      "anchor": "The Pseudo Guy",
+      "start": 914,
+      "end": 928
+    },
+    {
+      "fact": "名单收录多国政治人物全名，包括 Fidel Alejandro Castro Ruz、Vladimir Vladimirovich Putin、Kim Jong Un。",
+      "anchor": "Vladimir Vladimirovich Putin",
+      "start": 782,
+      "end": 810
+    },
+    {
+      "fact": "结尾以俄语“дезинформация, Tovarich”（假情报，同志）收束。",
+      "anchor": "Mmmm-mmmm. Love me some дезинформация, Tovarich.",
+      "start": 1001,
+      "end": 1049
+    }
+  ]
+}

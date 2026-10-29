@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch18",
+  "text": "ch18_in_which_kandinsky_says_well_done.txt",
+  "facts": [
+    {
+      "fact": "维罗妮卡在自家公寓厨房擦干尼克手洗的最后一批银餐具，说尼克必须别再这么天真。",
+      "anchor": "said Veronica, drying the last of the silverware Nick had hand-washed in the kitchen sink in her apartment.",
+      "start": 137,
+      "end": 244
+    },
+    {
+      "fact": "尼克回应说他爱维罗妮卡。",
+      "anchor": "“I love you back,” said Nick.",
+      "start": 709,
+      "end": 738
+    },
+    {
+      "fact": "维罗妮卡说总统将会是一位女性。",
+      "anchor": "The President is going to be a woman, and before you think.",
+      "start": 2335,
+      "end": 2394
+    },
+    {
+      "fact": "维罗妮卡被一名资深军官临时拉去参加总部会议；对方在去开会路上随口问起她的高跟鞋，让她警觉。",
+      "anchor": "She’d been pulled in on the spur of the moment by a senior officer who’d run into her in a hallway and struck up a conversation. His random question about her heels on the way to the meeting had put her on alert.",
+      "start": 3268,
+      "end": 3480
+    },
+    {
+      "fact": "会上简报人说，新通信系统将推广到整个中国特工网络——所有特工。",
+      "anchor": "We’re going to roll it out across the entire Chinese agent base — all of them.",
+      "start": 3717,
+      "end": 3795
+    },
+    {
+      "fact": "维罗妮卡在会上问，是否该出于隔离考虑给同一国家的多名特工配同样的系统。",
+      "anchor": "Are we sure we should provide the same system to multiple agents in the same country?",
+      "start": 3886,
+      "end": 3971
+    },
+    {
+      "fact": "维罗妮卡说他们可以在外面待二十年再回来，至少给自己一个在别处发挥作用的机会。",
+      "anchor": "At least we’ll have given ourselves the chance to be somewhere else for twenty years, where we might actually be able to play a role in protecting the country.",
+      "start": 2945,
+      "end": 3104
+    },
+    {
+      "fact": "维罗妮卡提议当晚做水疗之夜，说她还有盐磨砂膏，并问要不要穿高跟鞋。",
+      "anchor": "How about we do a spa night tonight? We haven’t had one in a bit. I still have some of that salt rub stuff left. Want me to put on heels?",
+      "start": 5098,
+      "end": 5235
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch07 in which wacker gives dc hr dncs muchadoo.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch07_in_which_wacker_gives_dc_hr_dncs_muchadoo.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Who do I have next?” said the Director of the National Clandestine Service, who was dual-hatted as CIA’s Deputy Chief o",
+          "ok": true,
+          "pos": 64
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Cut that Funny Name shit. That only applies below the Seventh Floor. Call me ‘Mr. DC/HR/DNCS.’ Get your hands out of yo",
+          "ok": true,
+          "pos": 922
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The DC/HR/DNCS, whose full Funny Name was Titus A. MUCHADOO, was a member of the Marine Corps Mafia. There were lots of ",
+          "ok": true,
+          "pos": 1212
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "At the direction of the Marine Corps Mafia, CIA’s paid public spokesman, himself a former Marine, immediately pounced on",
+          "ok": true,
+          "pos": 2484
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Of course, there were lots of other mafias at the Agency too. One really big one was the Mormon Mafia, to which Junior J",
+          "ok": true,
+          "pos": 3704
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The members of the West Virginia Mafia, who made up well over three-quarters of the Agency workforce, why they drove two",
+          "ok": true,
+          "pos": 7928
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Yes, sir,” said Wacker, fighting his itch. “Well, we’re charging full steam ahead. I have my best man bird-dogging the ",
+          "ok": true,
+          "pos": 13147
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Wacker, munching on his Oreo, went back down the wood-paneled hallway and out into the cinderblock one. He felt a draft ",
+          "ok": true,
+          "pos": 15162
+        }
+      ],
+      "words": 30
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.94,
+        "读者视角提示": 0.95
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.94,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 28,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.83
+      }
+    }
+  ],
+  "form": {
+    "h1": "4. In Which Wacker Gives DC/HR/DNCS MUCHADOO",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2648,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

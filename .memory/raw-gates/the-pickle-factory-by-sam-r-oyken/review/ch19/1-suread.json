@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch19",
+  "text": "ch19_journal_entry_no_7.txt",
+  "facts": [
+    {
+      "fact": "中文：安格尔顿1954至1974年担任中情局反间谍部门主管。",
+      "anchor": "his job as Chief of CIA’s Counterintelligence Staff from 1954 to 1974",
+      "start": 2381,
+      "end": 2450
+    },
+    {
+      "fact": "中文：从1949年起，他每个工作日12:30离开中情局，去五月花酒店旁的哈维餐厅喝四杯马提尼的午餐。",
+      "anchor": "from 1949 onward, he drove away from CIA at 12:30 p.m. every weekday and went straight on over to Harvey’s Restaurant in Washington, D.C., next to the Mayflower Hotel, for a four-martini lunch.",
+      "start": 6755,
+      "end": 6948
+    },
+    {
+      "fact": "中文：莫斯科中心不少于2187人因这场渗透行动获得奖章。",
+      "anchor": "no fewer than 2,187 guys over there at Moscow Center got medals",
+      "start": 8519,
+      "end": 8582
+    },
+    {
+      "fact": "中文：1949至1951年间，他每个工作日都和剑桥间谍金·菲尔比一起吃午饭喝酒。",
+      "anchor": "Jim Angleton went off to drink lunch with each and every weekday from 1949 to 1951",
+      "start": 8893,
+      "end": 8975
+    },
+    {
+      "fact": "中文：菲尔比1934年2月24日秘密迎娶奥地利共产党人爱丽丝·“莉齐”·弗里德曼。",
+      "anchor": "Philby’s secret February 24th, 1934, nuptials to Austrian Communist Alice “Litzi” Friedmann",
+      "start": 11790,
+      "end": 11881
+    },
+    {
+      "fact": "中文：安格尔顿二战前从耶鲁学院低分毕业，先加入OSS，后加入中情局。",
+      "anchor": "graduated with bad grades from Yale College just prior to World War II, joined OSS, joined CIA",
+      "start": 1300,
+      "end": 1394
+    },
+    {
+      "fact": "中文：菲尔比听安格尔顿倾诉，把内容记下后转报莫斯科中心。",
+      "anchor": "Philby would listen, and then listen some more, his prodigious memory squirreling these fireside chats away for later transmission to Moscow Center.",
+      "start": 9858,
+      "end": 10006
+    },
+    {
+      "fact": "中文：安格尔顿在被问及1963年11月22日星期五在达拉斯枪杀肯尼迪总统的人时始终回避。",
+      "anchor": "who took out President John F. Kennedy in Dallas, Texas, on Friday, November 22nd, 1963",
+      "start": 13235,
+      "end": 13322
+    }
+  ]
+}

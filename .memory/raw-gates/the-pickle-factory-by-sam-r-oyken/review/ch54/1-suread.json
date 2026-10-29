@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch54",
+  "text": "ch54_journal_entry_no_41.txt",
+  "facts": [
+    {
+      "fact": "叙述者说法语把CIA称作“la CIA”，以此证明她是女性",
+      "anchor": "Why else would the French call her “la CIA”?",
+      "start": 312,
+      "end": 356
+    },
+    {
+      "fact": "叙述者称CIA是世界上最古老的第二职业，仅次于最古老的职业",
+      "anchor": "It is the world’s second oldest profession, after all, which is pretty close to the oldest, you must admit.",
+      "start": 467,
+      "end": 574
+    },
+    {
+      "fact": "叙述者说CIA至少在某些部位是年轻柔软的二十多岁",
+      "anchor": "But clearly she’s a young, supple twenty-something, at least in parts.",
+      "start": 1304,
+      "end": 1374
+    },
+    {
+      "fact": "叙述者把Frank Olson列入被CIA引诱致死的天真者名单",
+      "anchor": "Frank Olson",
+      "start": 2760,
+      "end": 2771
+    },
+    {
+      "fact": "叙述者把约翰·菲茨杰拉德·肯尼迪总统列入同一名单",
+      "anchor": "President John Fitzgerald Kennedy",
+      "start": 2793,
+      "end": 2826
+    },
+    {
+      "fact": "叙述者把CIA比作69岁的荷兰妓女",
+      "anchor": "A 69-year-old prostitute. A 69-year-old Dutch prostitute.",
+      "start": 3822,
+      "end": 3879
+    },
+    {
+      "fact": "叙述者说CIA已经69岁且被充分使用",
+      "anchor": "She’s 69 years old. And she’s well-used.",
+      "start": 4282,
+      "end": 4322
+    },
+    {
+      "fact": "结尾署“Telegram, Margelet.”",
+      "anchor": "Telegram, Margelet.",
+      "start": 4558,
+      "end": 4577
+    }
+  ]
+}

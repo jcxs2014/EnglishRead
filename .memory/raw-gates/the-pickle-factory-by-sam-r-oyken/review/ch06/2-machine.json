@@ -1,0 +1,300 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch06 in which wacker reads kray in on project goowiki.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch06_in_which_wacker_reads_kray_in_on_project_goowiki.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Wacker’s Fourth Floor corner office looked out onto a gigantic Agency parking area, the Green Lot, jam-packed with cars,",
+          "ok": true,
+          "pos": 123
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Wacker reached into a desk drawer and pulled out an old passport. He opened it and handed it to KRAY. KRAY looked at the",
+          "ok": true,
+          "pos": 1119
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Momentum. The big Mo. You go out on a tour inside a decent station like that and get promoted, you’ve got momentum. Do t",
+          "ok": true,
+          "pos": 2912
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“That’s right. The paper got almost everything wrong, of course, but it doesn’t take a SIS-4 Division Chief to read betw",
+          "ok": true,
+          "pos": 5036
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "KRAY picked up one of Wacker’s challenge coins and examined it. The obverse displayed CIA’s logo in bright cloisonné col",
+          "ok": true,
+          "pos": 7408
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“That’s because it doesn’t exist yet,” said Wacker. “But it will, because we’re going to make it exist. It’s a good fit ",
+          "ok": true,
+          "pos": 8275
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I need you to do some research, and I need you to use your brain. One month from today I want you to give me a plan for ",
+          "ok": true,
+          "pos": 12566
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I want them all to have jobs as Transformational Human Resources consultants, and I want them to be able to live anywher",
+          "ok": true,
+          "pos": 12835
+        },
+        {
+          "text": "We have twenty billion dollars we need to allocate. Got it?”",
+          "ok": true,
+          "pos": 13216
+        }
+      ],
+      "words": 65
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.94,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 26,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 27,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 30,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.33
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 20,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.93
+      }
+    }
+  ],
+  "form": {
+    "h1": "3. In Which Wacker Reads KRAY In On Project GOOWIKI",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2503,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

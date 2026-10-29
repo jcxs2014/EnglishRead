@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch51",
+  "text": "ch51_in_which_kandinsky_makes_wacker_sweat.txt",
+  "facts": [
+    {
+      "fact": "中文：KANDINSKY 向 Wacker 坦白自己正与一名同僚官员恋爱",
+      "anchor": "It’s about a relationship I’m in,” said KANDINSKY. “With a fellow officer.",
+      "start": 423,
+      "end": 497
+    },
+    {
+      "fact": "中文：KANDINSKY 说出恋爱对象就是 KRAY",
+      "anchor": "It’s KRAY,” said KANDINSKY.",
+      "start": 885,
+      "end": 912
+    },
+    {
+      "fact": "中文：KANDINSKY 表示若 KRAY 求婚她会答应",
+      "anchor": "I plan to say yes,” said KANDINSKY",
+      "start": 1082,
+      "end": 1116
+    },
+    {
+      "fact": "中文：Wacker 告诉 KANDINSKY：KRAY 此前结过婚也离过婚",
+      "anchor": "did you know KRAY has been married and divorced before?",
+      "start": 1727,
+      "end": 1782
+    },
+    {
+      "fact": "中文：KANDINSKY 盯着 Wacker 衬衫背后的标签整整十秒",
+      "anchor": "She stared at the label on the back of his shirt for a full ten seconds.",
+      "start": 1827,
+      "end": 1899
+    },
+    {
+      "fact": "中文：KANDINSKY 拿起雨衣搭在手臂上走出办公室",
+      "anchor": "KANDINSKY picked up her raincoat, put it over her arm, and walked out.",
+      "start": 3052,
+      "end": 3122
+    },
+    {
+      "fact": "中文：Wacker 告诉 HR 的 EVERSHAG：KANDINSKY 想嫁给 KRAY",
+      "anchor": "KANDINSKY wants to marry KRAY,” said Wacker.",
+      "start": 3360,
+      "end": 3404
+    },
+    {
+      "fact": "中文：EVERSHAG 回应说 NOCs 总是充满惊喜",
+      "anchor": "“Like I told you NOCs are full of surprises,” said EVERSHAG.",
+      "start": 3498,
+      "end": 3558
+    }
+  ]
+}

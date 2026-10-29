@@ -1,0 +1,192 @@
+{
+  "chapter": 30,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch30 in which wacker chats with his old bud tad i pi.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch30_in_which_wacker_chats_with_his_old_bud_tad_i_pi.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“What I don’t get,” said Wacker, lolling behind his big desk, “is how come it’s so hard for us to change back to an annu",
+          "ok": true,
+          "pos": 52
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "but the HR team that did the contracting with the vendor",
+          "ok": true,
+          "pos": 647
+        },
+        {
+          "text": "all got promoted and moved on and they handed the whole thing over to a new team in HR to run so nobody in HR knows what",
+          "ok": true,
+          "pos": 752
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Yeah, well, having real weekends is nice,” Wacker responded to PI. “But honestly, I’m the one who envies you. You don’t",
+          "ok": true,
+          "pos": 2039
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Yeah, he’s one of them,” said Wacker. “You never know where you stand with NOCs, you know what I mean? Anyway, keep you",
+          "ok": true,
+          "pos": 4062
+        }
+      ],
+      "words": 38
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.49
+      }
+    }
+  ],
+  "form": {
+    "h1": "27. In Which Wacker Chats With His Old Bud Tad I. PI",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 4,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 4,
+    "quote_long": 0,
+    "segments": 5,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1185,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

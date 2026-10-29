@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch25",
+  "text": "ch25_journal_entry_no_13.txt",
+  "facts": [
+    {
+      "fact": "2011年5月2日（周一），中情局协助让乌萨马·本·拉登“去见上帝”，作者称中情局做了件非常非常好的事。",
+      "anchor": "When it finally did help Usama bin Muhammad bin Awad bin Johnson come to Jesus on Monday, May 2nd, 2011, CIA did a very, very good thing.",
+      "start": 10481,
+      "end": 10618
+    },
+    {
+      "fact": "突袭三天后的2011年5月5日，记者米勒在首篇报道中泄露重大秘密，称中情局在阿伯塔巴德设有一个监视本·拉登宅院的安全屋。",
+      "anchor": "In his first piece, dated May 5, 2011, just three days after the raid, Miller spilled a huge secret by reporting that CIA had operated an Abbottabad safehouse with eye on bin Ladin’s compound.",
+      "start": 11587,
+      "end": 11779
+    },
+    {
+      "fact": "12天后的2011年5月17日，米勒又传递了高度敏感的泄露信息，称中情局用从阿富汗飞来的隐身无人机监视本·拉登宅院。",
+      "anchor": "Twelve days later, on May 17th, 2011, Miller passed along massively sensitive leaked information",
+      "start": 11780,
+      "end": 11876
+    },
+    {
+      "fact": "2011年5月5日的报道称，中情局曾于2010年12月向国会申请，在各部门预算内重新划拨数千万美元来资助该行动。",
+      "anchor": "the CIA went to Congress in December to secure authority to reallocate tens of millions of dollars within assorted agency budgets to fund it",
+      "start": 12885,
+      "end": 13025
+    },
+    {
+      "fact": "2003年的吹牛冠军声称自己监管的直属下属太多，不得不再雇2361名直属下属，以便正式下属休弹性假时顶班。",
+      "anchor": "he had to hire an additional 2,361 direct reports to fill in when his regular ones took their Flex Day.",
+      "start": 5076,
+      "end": 5179
+    },
+    {
+      "fact": "中情局花钱雇用两名前军方“心理学家”及其公司，支付8000万美元来创建并运行严酷审讯项目。",
+      "anchor": "hire and pay two ex-military “psychologists” and their firm $80 million",
+      "start": 24415,
+      "end": 24486
+    },
+    {
+      "fact": "中情局93%的员工被称为“经理”，其工作是“管理”另外7%从事关乎国家安全工作的人。",
+      "anchor": "Those ninety-three percent are called “managers,” and their job is to “manage” the other seven percent whose jobs are vital to national security.",
+      "start": 6699,
+      "end": 6844
+    },
+    {
+      "fact": "米勒第二篇文章称，中情局所用的“坎大哈野兽”隐身无人机自2007年起就从阿富汗起飞执行任务。",
+      "anchor": "having been flying out of Afghanistan since 2007",
+      "start": 14409,
+      "end": 14457
+    }
+  ]
+}

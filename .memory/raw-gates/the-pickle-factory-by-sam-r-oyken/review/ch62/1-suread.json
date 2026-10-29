@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch62",
+  "text": "ch62_in_which_the_ceg_guy_blows_himself.txt",
+  "facts": [
+    {
+      "fact": "KRAY 周一上午 9:30 整抵达新总部大楼反间谍组面谈室；此前他去了 EVERSHAG 办公室，趁她开会不在，把她的银质拆信刀放回桌上。",
+      "anchor": "KRAY arrived outside the Counterespionage Group interview room in the New Headquarters Building at exactly 9:30 on Monday morning, after stopping by EVERSHAG’s office and slipping her silver letter opener back onto her desk while she was away at a meeting.",
+      "start": 40,
+      "end": 296
+    },
+    {
+      "fact": "给 KRAY 发邮件的反情报官把真名和诨名 Hugo N. FURST 都写进邮件，等于自曝化名；KRAY 没有提醒他。",
+      "anchor": "The Counterintelligence Officer who had emailed KRAY the CEG room number had put both his true name and his Funny Name, which was Hugo N. FURST, into his email. In so doing he had blown his own pseudo.",
+      "start": 297,
+      "end": 498
+    },
+    {
+      "fact": "KRAY 向 FURST 讲述在瓦拉纳西与 Blazer Guy 的接触，全部交代，只省略了金打火机那一节。",
+      "anchor": "KRAY took FURST through his encounter in Varanasi with Blazer Guy. He told him everything, minus the gold lighter part.",
+      "start": 1082,
+      "end": 1201
+    },
+    {
+      "fact": "KRAY 坚持说自己不在使馆工作，FURST 底气不足地说“哦，你是那类人”。",
+      "anchor": "“Not in an embassy,” said KRAY.\n\n“Oh, so you’re one of those,” said FURST, a little less sure of himself.",
+      "start": 1502,
+      "end": 1607
+    },
+    {
+      "fact": "被问那名印度人是否招募他为印度人工作时，KRAY 说若对方提过自己就会上报，并明确说对方没有。",
+      "anchor": "“If he had, I would have reported it. No, he did not.”",
+      "start": 1855,
+      "end": 1909
+    },
+    {
+      "fact": "FURST 问那名印度人是否问过 KRAY 会在印度待多久，KRAY 答“是”，并提醒他“就像我已经告诉过你的”。",
+      "anchor": "“Did he ask you how long you were going to be in India?”\n\n“Yes,” said KRAY. “Like I told you already.”",
+      "start": 1911,
+      "end": 2013
+    },
+    {
+      "fact": "FURST 问 KRAY 是否做过任何行动性的事情，KRAY 答他做的只是和 MYPLACEORYOURS 吃午饭。",
+      "anchor": "“And you didn’t do anything operational?”\n\n“All I did was have lunch with MYPLACEORYOURS,” said KRAY.",
+      "start": 2424,
+      "end": 2525
+    },
+    {
+      "fact": "FURST 在 9:43 看表后宣布谈完了，随后送 KRAY 到门口，途中把 KRAY 的档案扔进销毁袋，并与他握手。",
+      "anchor": "FURST looked at his watch. It was 9:43.\n\n“Well, then,” he said, looking over his notes again, “we’re done.”\n\n“Okay,” said KRAY.\n\nFURST shadowed him back to the door, tossing KRAY’s file into a burn bag along the way. He shook KRAY’s hand.",
+      "start": 2578,
+      "end": 2816
+    }
+  ]
+}

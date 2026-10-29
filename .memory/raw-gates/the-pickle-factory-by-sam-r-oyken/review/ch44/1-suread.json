@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch44",
+  "text": "ch44_in_which_jim_thompson_goes_on_a_walkabout.txt",
+  "facts": [
+    {
+      "fact": "KRYSTE 未按约定在上午 8:30 出现在曼谷东方酒店大堂；到 10:00 时 KRAY 已喝掉两杯 250 泰铢的咖啡。",
+      "anchor": "He missed his scheduled 8:30 a.m. appearance in the lobby of Bangkok’s posh Oriental Hotel. It was now 10:00, and KRAY had gone through two 250-baht cups of coffee.",
+      "start": 78,
+      "end": 242
+    },
+    {
+      "fact": "KRAY 给泰国前台职员 400 泰铢并示意他保密，随后离开酒店乘 tuk-tuk 前往 Madrid 酒吧。",
+      "anchor": "KRAY handed him 400 baht while holding an index finger to his lips, left the hotel, and took a tuk-tuk over to the Madrid.",
+      "start": 647,
+      "end": 769
+    },
+    {
+      "fact": "KRYSTE 说 Madrid 酒吧由 Marty 在 1969 年开设，Marty 离开越南和突击队后开了这家店。",
+      "anchor": "Opened in ’69 by Marty over there. When he left Vietnam and the Rangers.",
+      "start": 3115,
+      "end": 3187
+    },
+    {
+      "fact": "KRYSTE 从钱包里拿出一张褪色的五十美元钞票交给 KRAY，那是 BUTTONFLY 在 1968 年 1 月他前往 Khe Sanh 时给他的。",
+      "anchor": "Then he pulled out his wallet and handed over a faded fifty-dollar bill.",
+      "start": 4247,
+      "end": 4319
+    },
+    {
+      "fact": "Jim Thompson 故居实际上由六栋房子拼成一栋，Thompson 在 60 年代把它们聚到一起时，每栋已有五十到一百年历史。",
+      "anchor": "Jim Thompson’s House was in reality six houses joined into one. The six, all fifty to one hundred years old when Thompson brought them together back in the ’60s",
+      "start": 6224,
+      "end": 6384
+    },
+    {
+      "fact": "KRAY 放弃当天剩余的 SDR 安排，在 Jim Thompson 故居连续逛了五个小时。",
+      "anchor": "he blew off the remainder of his SDR. He spent the rest of the day wandering through Jim Thompson’s House, five hours straight",
+      "start": 8257,
+      "end": 8383
+    },
+    {
+      "fact": "Thompson 于 1948 年加入中情局，第一个化名是 John C. PRINGLE。",
+      "anchor": "Thompson joined the Agency in 1948. His first pseudonym was John C. PRINGLE",
+      "start": 10040,
+      "end": 10115
+    },
+    {
+      "fact": "Thompson 于 1967 年复活节星期日在马来西亚金马仑高原徒步时失踪。",
+      "anchor": "when he disappeared in Malaysia on Easter Sunday, 1967, during a brisk walkabout in the Cameron Highlands",
+      "start": 16330,
+      "end": 16435
+    }
+  ]
+}

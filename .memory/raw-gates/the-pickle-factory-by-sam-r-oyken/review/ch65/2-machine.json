@@ -1,0 +1,268 @@
+{
+  "chapter": 65,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch65 journal entry no 61.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch65_journal_entry_no_61.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "In Which We Find This Li’l Ole List Of Folks You Never Imagined Were CIA Officers Who Just Might Be",
+          "ok": true,
+          "pos": 24
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "You’re probably going to think this next riff is merely one more big moist slice of disinformation. And you’re almost ce",
+          "ok": true,
+          "pos": 123
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Mahmoud Ahmadinajad Julian Paul Assange Charles Hirsch Barris Usama bin Mohammad bin Awad bin Ladin Anthony Michael Bour",
+          "ok": true,
+          "pos": 340
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "John Zachary DeLorean Ken Dilanian Carlos Irwin Estévez Hugh Marston Hefner Seymour Myron Hersh Alek James Hidell Dennis",
+          "ok": true,
+          "pos": 517
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "David Reynolds Ignatius Anna Vasilyevna Kushchenko Pfc. Chelsea Manning Greg Miller “Broadway” Joe Namath Vladimir Vladi",
+          "ok": true,
+          "pos": 649
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Francis Albert Sinatra Augustus Owsley Stanley III John Ernst Steinbeck Jr. The Pseudo Guy Kim Jong Un Valerie Elise Pla",
+          "ok": true,
+          "pos": 804
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Mmmm-mmmm. Love me some дезинформация, Tovarich",
+          "ok": true,
+          "pos": 963
+        }
+      ],
+      "words": 6
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.32,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.38,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.93
+      }
+    }
+  ],
+  "form": {
+    "h1": "62. Journal Entry No. 61",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 158,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

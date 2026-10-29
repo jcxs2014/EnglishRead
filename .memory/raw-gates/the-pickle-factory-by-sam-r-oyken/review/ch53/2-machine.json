@@ -1,0 +1,241 @@
+{
+  "chapter": 53,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch53 in which filbert says you can say that again.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch53_in_which_filbert_says_you_can_say_that_again.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was the first time Wacker had gone through his administrative assistant, this nice lady named Judy from Defiance, Ohi",
+          "ok": true,
+          "pos": 48
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Your meeting with him in the white car. The one you got into at the Comfort Inn in Ballston. When you drove with Cooper ",
+          "ok": true,
+          "pos": 1450
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The Bureau took pictures of you getting in. And since you looked sketchy, and they were curious, they followed you to Wa",
+          "ok": true,
+          "pos": 1901
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Although he had worn a baseball cap and sunglasses for his meeting with Cooper, with the telephoto lens they had used it",
+          "ok": true,
+          "pos": 2452
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Wacker and FILBERT looked at each other again. Wacker, nodding in the direction of his burn bag, pushed the photos away ",
+          "ok": true,
+          "pos": 3803
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Wacker wasn’t smiling. FILBERT was. EVERSHAG’s eyes were fixed on the photograph of Wacker crouched beside the petite ga",
+          "ok": true,
+          "pos": 5033
+        }
+      ],
+      "words": 22
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.53,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.53,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.65
+      }
+    }
+  ],
+  "form": {
+    "h1": "50. In Which FILBERT Says “You Can Say That Again”",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 955,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

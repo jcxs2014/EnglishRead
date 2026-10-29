@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch16",
+  "text": "ch16_in_which_we_witness_a_brief_encounter_in_a_men_s_room.txt",
+  "facts": [
+    {
+      "fact": "沃克在走廊拦住 KRAY，说十六点要向国会山的两名 Staffers 做简报，并邀他同行。",
+      "anchor": "We’re briefing a couple Staffers from the Hill at sixteen hundred hours.",
+      "start": 193,
+      "end": 265
+    },
+    {
+      "fact": "沃克让 KRAY 十五点四十五分到 Front Office，大家一起去。",
+      "anchor": "Come on by the Front Office at fifteen forty-five. We’ll all troop over together.",
+      "start": 573,
+      "end": 654
+    },
+    {
+      "fact": "KLIMT 说预计能在财年第四季度按时、按预算达成数字指标。",
+      "anchor": "We project bein’ able to meet our numerical numbers on time and under budget by the fourth quarter a the fiscal year.",
+      "start": 2966,
+      "end": 3083
+    },
+    {
+      "fact": "KLIMT 说国家档案馆搬迁一项就给西弗吉尼亚带来四万四千多名新居民。",
+      "anchor": "the National Archives relocation alone brought in more’n forty-four thousand brand-new residents of West Virginia.",
+      "start": 6135,
+      "end": 6249
+    },
+    {
+      "fact": "库珀自报来自纽约市，并问 KRAY 是哪里人。",
+      "anchor": "My name’s Cooper. I’m from New York City. Where do you hail from?",
+      "start": 6445,
+      "end": 6510
+    },
+    {
+      "fact": "库珀离场时低声让 KRAY 去走廊左侧的男厕所见他。",
+      "anchor": "Meet me in the Men’s Room out in the hallway on the left.",
+      "start": 9607,
+      "end": 9664
+    },
+    {
+      "fact": "库珀递给 KRAY 的名片上印着 DEAN BRETT COOPER。",
+      "anchor": "Printed on it in capital letters was the name DEAN BRETT COOPER.",
+      "start": 12840,
+      "end": 12904
+    },
+    {
+      "fact": "沃克说库珀只在这里干了十年，海外干得还行，但做不了总部管理，是个撂挑子的人。",
+      "anchor": "Only for ten years. Went overseas, did all right there, I guess. Couldn’t handle being a manager at Headquarters though. Didn’t have what it takes. Quitter.",
+      "start": 15046,
+      "end": 15202
+    }
+  ]
+}

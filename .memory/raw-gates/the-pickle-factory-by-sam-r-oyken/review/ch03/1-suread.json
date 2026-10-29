@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch03",
+  "text": "ch03_in_which_i_tell_you_the_whole_story.txt",
+  "facts": [
+    {
+      "fact": "叙述者说整个事情始于两个小词：“Yes, sir.”（two little words）。",
+      "anchor": "it all started with just two little words: “Yes, sir.”",
+      "start": 196,
+      "end": 250
+    },
+    {
+      "fact": "KRAY 是失势的 CIA 间谍（disgraced CIA spy），其代号是一整句话式的假名（full-sentence pseudonym）。",
+      "anchor": "our hero KRAY, that disgraced CIA spy with the full-sentence pseudonym",
+      "start": 346,
+      "end": 416
+    },
+    {
+      "fact": "KRAY 把那两个词说给了 Wacker，并亲口把这件事告诉了叙述者。",
+      "anchor": "he said those two words to Wacker. He told me so himself.",
+      "start": 569,
+      "end": 626
+    },
+    {
+      "fact": "KRAY 与国会议员 Wayne D. Skinner 在国会山（Capitol Hill）及别处举行秘密会面；Skinner 是众议院常设情报特别委员会（House Permanent Select Committee on Intelligence）主席。",
+      "anchor": "secret meetings on Capitol Hill and elsewhere with Congressman Wayne D. Skinner, Chairman of the House Permanent Select Committee on Intelligence",
+      "start": 689,
+      "end": 834
+    },
+    {
+      "fact": "Skinner 是精明的西弗吉尼亚民主党人，似乎对 Wacker 的血产生了“powerful strong”的渴求。",
+      "anchor": "this crafty West Virginia Democrat who seemed to have developed a “powerful strong” thirst for Wacker’s blood",
+      "start": 836,
+      "end": 945
+    },
+    {
+      "fact": "自杀式炸弹袭击发生在 Forward Operating Base █████，将改变一切。",
+      "anchor": "the suicide bombing at Forward Operating Base █████ would change everything",
+      "start": 972,
+      "end": 1047
+    },
+    {
+      "fact": "叙述者预告 KRAY 的行程：经 Europe 到 Egypt，再到 India、Nepal，然后回 India 取他落在酒店房间的毛衣，再到 Thailand、Hong Kong，最后回到 Headquarters 和他心爱的 KANDINSKY；他还在狡猾的 BUTTONFLY 帮助下弄清 Project GOOWIKI 的真相。",
+      "anchor": "Could he have pictured the curious odyssey that would take him through Europe to Egypt, on to India, up to Nepal, then back to India to fetch a sweater he had left behind in a hotel room, across to Thailand, on over to Hong Kong, and finally back home to Headquarters and his beloved KANDINSKY, while he puzzled out the truth about Project GOOWIKI with help from wily old BUTTONFLY?",
+      "start": 1049,
+      "end": 1431
+    },
+    {
+      "fact": "Wacker 和他的胖伙伴们（chubby pals）会走到某些地步，试图因 KRAY 在这整件事中的角色而惩罚他。",
+      "anchor": "the lengths to which Wacker and his chubby pals would go to try and punish him for his part in the whole affair",
+      "start": 1715,
+      "end": 1826
+    }
+  ]
+}

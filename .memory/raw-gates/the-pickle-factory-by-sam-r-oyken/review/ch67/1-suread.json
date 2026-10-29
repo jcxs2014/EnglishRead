@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch67",
+  "text": "ch67_journal_entry_no_67.txt",
+  "facts": [
+    {
+      "fact": "叙述者说不恨CIA，反而爱CIA",
+      "anchor": "I don’t hate CIA, not at all. I love CIA, I do. Truly.",
+      "start": 129,
+      "end": 183
+    },
+    {
+      "fact": "叙述者说爱美国国歌，但唱得很糟",
+      "anchor": "I love the National Anthem, though I can’t sing it worth a hoot.",
+      "start": 702,
+      "end": 766
+    },
+    {
+      "fact": "叙述者说爱十二艘航空母舰",
+      "anchor": "I love our twelve aircraft carriers",
+      "start": 1164,
+      "end": 1199
+    },
+    {
+      "fact": "叙述者说爱全部50个州",
+      "anchor": "I love all of our 50 States",
+      "start": 1810,
+      "end": 1837
+    },
+    {
+      "fact": "叙述者说爱第一、第二和第二十一修正案",
+      "anchor": "I love the 1st Amendment. And the 2nd. And the 21st.",
+      "start": 5031,
+      "end": 5083
+    },
+    {
+      "fact": "叙述者提到9/11，并说那天我们很走运",
+      "anchor": "perhaps you’ve forgotten 9/11, and how lucky we got that day",
+      "start": 9660,
+      "end": 9720
+    },
+    {
+      "fact": "叙述者说爱CIA，因为该机构是为保护《建国文件》确立的理想而设立",
+      "anchor": "I love CIA because the Agency was created to protect the ideals established in the Founding Documents",
+      "start": 9311,
+      "end": 9412
+    },
+    {
+      "fact": "叙述者希望到公元MMLXXVI年（2076年）仍有美国可供热爱与庆祝",
+      "anchor": "by the time Anno Domini MMLXXVI rolls around",
+      "start": 10820,
+      "end": 10864
+    }
+  ]
+}

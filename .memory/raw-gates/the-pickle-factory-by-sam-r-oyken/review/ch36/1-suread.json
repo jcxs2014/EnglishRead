@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch36",
+  "text": "ch36_journal_entry_no_19.txt",
+  "facts": [
+    {
+      "fact": "中文：人事处一旦你得罪了级别比你高、而你没有 Rabbi 的人，就会立刻把你送进惩罚箱。",
+      "anchor": "Personnel puts you in it at the drop of a hat if you irk someone who ranks higher than you and you don’t have a Rabbi.",
+      "start": 127,
+      "end": 245
+    },
+    {
+      "fact": "中文：Rabbi 是保护人，即能替你撑腰的重要人物。",
+      "anchor": "A Rabbi is a protector, somebody important who can look out for you.",
+      "start": 246,
+      "end": 314
+    },
+    {
+      "fact": "中文：人事处曾想做一个五乘五乘五英尺的胶合板实体惩罚箱，门从外面锁、顶部打通风孔、配一个汤罐当马桶。",
+      "anchor": "Their Penalty Box was going to be five by five by five — so basically a cozy doublewide coffin for an obese adolescent Queequeg — with a door that locked on the outside, some ventilation holes punched in the top, and a soup can for a toilet.",
+      "start": 1213,
+      "end": 1454
+    },
+    {
+      "fact": "中文：人事处把该方案报给 CIA 总法律顾问办公室（OGC），那些胆小怕事的美国政府律师因当时黑狱、水刑等酷刑争议而否决了它。",
+      "anchor": "when Personnel ran this plan past OGC, CIA’s Office of the General Counsel, those scaredy-cat U.S. government lawyers nixed it, on account of the stink everybody was raising at the time over CIA black sites, waterboarding, and some other torture-related stuff",
+      "start": 1493,
+      "end": 1752
+    },
+    {
+      "fact": "中文：惩罚箱也可能是一张飞往没人想去的角落的机票，例如阿拉斯加 Delta Junction、澳大利亚 Alice Springs、土耳其 Incirlik、Diego Garcia。",
+      "anchor": "They might send you to Delta Junction, Alaska, where you can fish for Arctic grayling ’til the cows come home. Or Alice Springs, Australia, where you can try and nail a tough-as-nails Aussie honey, mate. Or Incirlik, Turkey, where you can buy that bouzouki you’ve always wanted. Or even Diego Garcia, Diego Garcia, where you can catch some rays and pray no Global Warming comes a-callin’.",
+      "start": 2239,
+      "end": 2627
+    },
+    {
+      "fact": "中文：Diego Garcia 海拔只有九英尺。",
+      "anchor": "It is only nine feet above sea level after all.",
+      "start": 2628,
+      "end": 2675
+    },
+    {
+      "fact": "中文：被塞进惩罚箱的通常是那些过于有创意而踩雷的行动人员。",
+      "anchor": "The people they stick in the Penalty Box are usually ops guys who get a little too creative and step in it.",
+      "start": 4461,
+      "end": 4568
+    },
+    {
+      "fact": "中文：惩罚箱结束后若存有年假，最好休两三周假再回去上班。",
+      "anchor": "it may be best to take a couple or three weeks off, if you have any annual leave saved up",
+      "start": 5980,
+      "end": 6069
+    }
+  ]
+}

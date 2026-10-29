@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch53",
+  "text": "ch53_in_which_filbert_says_you_can_say_that_again.txt",
+  "facts": [
+    {
+      "fact": "中文：沃克首次通过其行政助理——来自俄亥俄州迪法恩斯的朱迪——安排与克雷的会面，克雷因此觉得出事。",
+      "anchor": "It was the first time Wacker had gone through his administrative assistant, this nice lady named Judy from Defiance, Ohio, to schedule a meeting with KRAY",
+      "start": 52,
+      "end": 206
+    },
+    {
+      "fact": "中文：克雷提前五分钟到，看到沃克办公室里有三名肥胖的在场者：沃克、其副手菲尔伯特、人事部门的埃弗沙格。",
+      "anchor": "When he arrived five minutes early, he glanced into Wacker’s office at its three portly occupants. Wacker was sitting at his conference table with his deputy, FILBERT, as well as EVERSHAG the HR lady.",
+      "start": 239,
+      "end": 439
+    },
+    {
+      "fact": "中文：沃克让克雷在接待区等了十五分钟，之后朱迪才通知他进去。",
+      "anchor": "Wacker made KRAY wait fifteen minutes in the reception area.",
+      "start": 626,
+      "end": 686
+    },
+    {
+      "fact": "中文：菲尔伯特追问克雷为何会见那个“黄鼠狼”众议院职员库珀；克雷说那算不上会面，两人只是同时在男洗手间。",
+      "anchor": "“I would hardly call it a meeting,” said KRAY. “We were both in the Men’s Room at the same time.",
+      "start": 1278,
+      "end": 1374
+    },
+    {
+      "fact": "中文：菲尔伯特点明是白车里的会面：克雷在鲍尔斯顿的 Comfort Inn 上了库珀的车，与他一起开往华盛顿。",
+      "anchor": "Your meeting with him in the white car. The one you got into at the Comfort Inn in Ballston. When you drove with Cooper to D.C.",
+      "start": 1494,
+      "end": 1621
+    },
+    {
+      "fact": "中文：沃克说墨菲抓到了克雷：克雷偏偏选在 FBI 监视点开始车上会面，局里拍下他上车，因觉得可疑而跟踪他到华盛顿，途中查车牌追到希普西主席斯金纳，沃克在局里的朋友把照片交给了他。",
+      "anchor": "Murphy got you. You happened to pick an FBI stakeout point to launch your car meeting. The Bureau took pictures of you getting in. And since you looked sketchy, and they were curious, they followed you to Washington. They ran the plates on the way, traced them to the Hipsie Chairman, Skinner.",
+      "start": 1866,
+      "end": 2159
+    },
+    {
+      "fact": "中文：克雷辩解库珀的名片是克里姆特在七楼希普西简报会上介绍他们认识后给的，他打电话只是问在希普西工作的情况。",
+      "anchor": "Cooper gave me his card after KLIMT introduced me to him at that Hipsie briefing up on the Seventh Floor.",
+      "start": 2728,
+      "end": 2833
+    },
+    {
+      "fact": "中文：沃克朝自己的焚烧袋方向点头，把照片从自己面前推向菲尔伯特，菲尔伯特的恐惧神情更明显了。",
+      "anchor": "Wacker, nodding in the direction of his burn bag, pushed the photos away from himself and toward FILBERT. FILBERT’s look of fear became more pronounced.",
+      "start": 3936,
+      "end": 4088
+    }
+  ]
+}

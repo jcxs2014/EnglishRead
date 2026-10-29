@@ -1,0 +1,49 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch49",
+ "text": "ch49_in_which_we_find_buttonfly_s_list_of_his_favorite_palindromes_along_with_his_list_of_french_words_related_to_prostitution.txt",
+ "facts": [
+  {
+   "fact": "章首第一行只有章节编号 46，其后是跨两行的标题「In Which We Find BUTTONFLY’S List Of His Favorite Palindromes, / Along With His List Of French Words Related To Prostitution」。",
+   "anchor": "46\n\nIn Which We Find BUTTONFLY’S List Of His Favorite Palindromes, \nAlong With His List Of French Words Related To Prostitution",
+   "start": 0,
+   "end": 127
+  },
+  {
+   "fact": "回文清单的小标题为「A Few Favorite Palindromes」，条目自「A dog! A panic in a pagoda!」排到「Yo! Bottoms up, U.S. motto, boy!」，共 76 个段落条目，整体按首字母（忽略引号等标点）字母顺序排列。",
+   "anchor": "A Few Favorite Palindromes\n\nA dog! A panic in a pagoda!",
+   "start": 129,
+   "end": 184
+  },
+  {
+   "fact": "回文清单第 44 个条目整行被 41 个全角方块字符（█）遮盖，位置在「No lemons, no melon.」与「Nomists reign at Tangier, St. Simon.」之间，仍维持 N 段的字母顺序。",
+   "anchor": "No lemons, no melon.\n\n█████████████████████████████████████████\n\nNomists reign at Tangier, St. Simon.",
+   "start": 2102,
+   "end": 2203
+  },
+  {
+   "fact": "回文条目「Was it a rat I saw? / No, Miss, it is Simon.」后带方括号注「[Two palindromes.]」，说明这一条由两个回文拼成。",
+   "anchor": "Was it a rat I saw? / No, Miss, it is Simon. [Two palindromes.]",
+   "start": 3210,
+   "end": 3273
+  },
+  {
+   "fact": "回文清单中最长的一条是一串人名的「Dennis, Nell, Edna, …」，共 386 个字符，以「and Ellen sinned.」收尾。",
+   "anchor": "Dennis, Nell, Edna, Leon, Nedra, Anita, Rolf, Nora, Alice, Carol, Leo, Jane, Reed, Dena, Dale, Basil, Rae, Penny, Lana, Dave, Denny, Lena, Ida, Bernadette, Ben, Ray, Lila, Nina, Jo, Ira, Mara, Sara, Mario, Jan, Ina, Lily, Arne, Bette, Dan, Reba, Diane, Lynn, Ed, Eva, Dana, Lynne, Pearl, Isabel, Ada, Ned, Dee, Rena, Joel, Lora, Cecil, Aaron, Flora, Tina, Arden, Noel, and Ellen sinned.",
+   "start": 596,
+   "end": 982
+  },
+  {
+   "fact": "法语词清单的小标题为「Some French Words Related To Prostitution」，共 44 个词条，自「accrocheuse」排到「traînée」，按字母顺序排列，并以「traînée」作为全文结尾。",
+   "anchor": "Some French Words Related To Prostitution\n\naccrocheuse",
+   "start": 3354,
+   "end": 3408
+  },
+  {
+   "fact": "法语词清单把专有名词「Henri de Toulouse-Lautrec」也列为一条，夹在「guidoune」与「hirondelle de nuit」之间，与前后词条同样按字母顺序摆放。",
+   "anchor": "guidoune\n\nHenri de Toulouse-Lautrec\n\nhirondelle de nuit",
+   "start": 3614,
+   "end": 3669
+  }
+ ]
+}

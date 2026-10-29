@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch28",
+  "text": "ch28_in_which_wacker_slips_kray_two_hundred_grand.txt",
+  "facts": [
+    {
+      "fact": "Wacker 从桌上递给 KRAY 一份备忘录。",
+      "anchor": "Wacker handed KRAY a memo from his desk.",
+      "start": 134,
+      "end": 174
+    },
+    {
+      "fact": "Wacker 传达 Hipsie 的要求：解释 Transformational Human Resources 保险在 GOOWIKI NOCs 部署地点如何运作。",
+      "anchor": "how Transformational Human Resources cover works in the places where the GOOWIKI NOCs are deploying.",
+      "start": 476,
+      "end": 576
+    },
+    {
+      "fact": "Wacker 说对方将冻结属于他们的资金，直到拿到想要的信息，并问 KRAY 的想法。",
+      "anchor": "“They’re going to freeze our money — which belongs to us,” Wacker finally wheezed, after an epic swallow, “until they get the information they want. Thoughts?”",
+      "start": 854,
+      "end": 1013
+    },
+    {
+      "fact": "KRAY 说可以周一出发，含写作在内六到八周能完成，并问这样行不行。",
+      "anchor": "“I guess I can head out Monday. Probably be able to knock out the whole thing in six or eight weeks, including the writing. Will that do?”",
+      "start": 2033,
+      "end": 2171
+    },
+    {
+      "fact": "Wacker 同意，要 KRAY 尽量提前但必须令人信服；让他找 KLIMT 拿不需收据的未凭证资金，坐商务舱，问二十万美元够不够，并可记入 GOOWIKI 预算。",
+      "anchor": "“That’ll work. Make it sooner if you can, but the most important thing is to make it convincing. We can’t afford to have Hipsie step on our funding. See KLIMT about getting some unvouchered money. No receipts necessary. And go business class, I want you to look right. Two hundred thousand sound like enough? You can tack it onto that GOOWIKI budget you’ve been working on.”",
+      "start": 2173,
+      "end": 2547
+    },
+    {
+      "fact": "Wacker 说对方只要求八个城市的信息，并称这会很麻烦。",
+      "anchor": "And at least they only asked for info about eight cities.",
+      "start": 1346,
+      "end": 1403
+    },
+    {
+      "fact": "KRAY 抄下城市名并把备忘录交还 Wacker。",
+      "anchor": "KRAY copied down the names of the cities and handed the memo back to Wacker.",
+      "start": 2613,
+      "end": 2689
+    },
+    {
+      "fact": "Wacker 警告 KRAY 别搞砸。",
+      "anchor": "“Don’t screw up,” said Wacker.",
+      "start": 2691,
+      "end": 2721
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "chapter": 50,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch50 in which kray fails to spot surveillance.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch50_in_which_kray_fails_to_spot_surveillance.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "As Wacker’s notes would later show, NOC Andre B. KRAY came back from his around-the-world trip and promptly transmitted ",
+          "ok": true,
+          "pos": 44
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Cooper showed up on time at 8:00 a.m. in Skinner’s old beater Mercury with the “CNT SPEL” West Virginia plates. After pi",
+          "ok": true,
+          "pos": 748
+        },
+        {
+          "text": "It was a clean car pickup, or so they thought",
+          "ok": true,
+          "pos": 1064
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "KRAY was confident he was clean. He missed the FBI surveillance team following behind him like a skulk of foxes as they ",
+          "ok": true,
+          "pos": 5290
+        }
+      ],
+      "words": 24
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.49,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.66
+      }
+    }
+  ],
+  "form": {
+    "h1": "47. In Which KRAY Fails To Spot Surveillance",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 3,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 4,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 980,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

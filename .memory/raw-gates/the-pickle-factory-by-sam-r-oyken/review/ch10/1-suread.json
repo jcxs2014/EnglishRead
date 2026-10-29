@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch10",
+  "text": "ch10_journal_entry_no_2.txt",
+  "facts": [
+    {
+      "fact": "中情局的十一次外星人尸检全部在 57 区进行，该区紧邻马里兰州卡德罗克的戴维·泰勒海军研究中心。",
+      "anchor": "CIA’s eleven alien autopsies, each and every one of them, have taken place at Area 57",
+      "start": 766,
+      "end": 851
+    },
+    {
+      "fact": "每年万圣节夜，数百名信众聚集在戴维·泰勒研究中心大门外，争取成为每年五名获选参观外星飞船者之一。",
+      "anchor": "being one of the five candidates chosen each year",
+      "start": 1820,
+      "end": 1869
+    },
+    {
+      "fact": "中情局飞行员 Francis Gary Powers 的间谍机于 1960 年 5 月 1 日星期日（五一节）在斯维尔德洛夫斯克上空被击落。",
+      "anchor": "shot down over Sverdlovsk on May Day, Sunday, May 1st, 1960",
+      "start": 2985,
+      "end": 3044
+    },
+    {
+      "fact": "D. B. Cooper 于 1971 年 11 月 24 日星期三夜里在华盛顿州 Ariel 上空从波音 727 后梯跳下，带走 20 万美元的二十元钞票。",
+      "anchor": "made off with $200,000 in twenties when he skydived off the back staircase of a Boeing 727 as it was flying through a rainstorm over Ariel, Washington, on the night of Wednesday, November 24th, 1971",
+      "start": 3932,
+      "end": 4130
+    },
+    {
+      "fact": "中情局“误杀”了 Lee Harvey Oswald，“有意”杀了 Jack Ruby 和众议员 Sonny Bono。",
+      "anchor": "kill Lee Harvey Oswald (accidentally), Jack Ruby (intentionally), Congressman Sonny Bono (intentionally)",
+      "start": 5536,
+      "end": 5640
+    },
+    {
+      "fact": "Sonny Bono 发现全球变暖是骗局后，宣布要在 1998 年 1 月滑雪假期结束后向报纸全盘爆料。",
+      "anchor": "he had wrapped up his January 1998 skiing vacation",
+      "start": 7407,
+      "end": 7457
+    },
+    {
+      "fact": "Lucky 是从印第安纳州加里来的失业有线电视工，花光最后一点钱横渡大西洋，想忘掉来自密西西比州杰克逊的真爱 Madge。",
+      "anchor": "who had crossed the Atlantic on his last dime in order to try and forget about his true love, Madge, this captivating little emo chick from Jackson, Mississippi",
+      "start": 8602,
+      "end": 8762
+    },
+    {
+      "fact": "中情局在弗吉尼亚州兰利仅用三周多一点就编造出整套全球气温读数。",
+      "anchor": "those readings were all made up right there in Langley, Virginia, in just a little over three weeks",
+      "start": 11573,
+      "end": 11672
+    }
+  ]
+}

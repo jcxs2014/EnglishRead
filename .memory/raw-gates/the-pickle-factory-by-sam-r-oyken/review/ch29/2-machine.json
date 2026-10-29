@@ -1,0 +1,160 @@
+{
+  "chapter": 29,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch29 in which buttonfly hooks kray up with his buddies.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch29_in_which_buttonfly_hooks_kray_up_with_his_buddies.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Stay at the Principe di Savoia. Watch out for the Russian hookers there, too, we don’t need you falling into somebody’s ",
+          "ok": true,
+          "pos": 2577
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Le Méridien there, too. There’s a clay oven right in the dining room, so the tandoori gets to your table hot and you won",
+          "ok": true,
+          "pos": 3240
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I don’t want to read in the papers about you getting wrapped up with that list on you. I’ll reach out to each of them an",
+          "ok": true,
+          "pos": 4879
+        }
+      ],
+      "words": 45
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.34,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.34,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.41
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.68
+      }
+    }
+  ],
+  "form": {
+    "h1": "26. In Which BUTTONFLY Hooks KRAY Up With His Buddies",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 3,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 3,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1004,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch48",
+  "text": "ch48_in_which_the_world_finally_learns_what_kryptos_says.txt",
+  "facts": [
+    {
+      "fact": "KRAY与BUTTONFLY端着咖啡走到食堂旁的内院，走向十二英尺高的Kryptos雕塑。",
+      "anchor": "so KRAY and BUTTONFLY took their coffees out to the interior courtyard beside the cafeteria",
+      "start": 120,
+      "end": 211
+    },
+    {
+      "fact": "CIA（Agency）于1990年以25万美元从美国艺术家Jim Sanborn手中买下Kryptos。",
+      "anchor": "the Agency had bought the piece from American artist Jim Sanborn back in 1990 for $250,000",
+      "start": 1375,
+      "end": 1465
+    },
+    {
+      "fact": "雕塑上的文本包含四条独立密文，其中只有三条已被解开。",
+      "anchor": "The texts comprised four separate secret messages, only three of which had been solved",
+      "start": 2035,
+      "end": 2121
+    },
+    {
+      "fact": "BUTTONFLY自称1992年就解出了Kryptos。",
+      "anchor": "I solved this thing back in ’92",
+      "start": 6906,
+      "end": 6937
+    },
+    {
+      "fact": "KRAY报告：STUCCO没能赴约，VESUVIUS没出现，他在Madrid Bar找到KRYSTE；并归还五十美元。",
+      "anchor": "STUCCO couldn’t meet. VESUVIUS was a no-show. I found KRYSTE at the Madrid Bar.",
+      "start": 4995,
+      "end": 5074
+    },
+    {
+      "fact": "KRAY转告LIFTSHITS说BUTTONFLY欠他五十美元。",
+      "anchor": "LIFTSHITS says you owe him fifty bucks",
+      "start": 5289,
+      "end": 5327
+    },
+    {
+      "fact": "KRAY说第二天要与Cooper和Skinner再见面，仍是车载滚动会议。",
+      "anchor": "“Tomorrow,” said KRAY. “Another rolling car meeting.”",
+      "start": 5926,
+      "end": 5979
+    },
+    {
+      "fact": "第五条也是最后一条Kryptos文本其实是敲敲门笑话，只有Sanborn、BUTTONFLY和如今的KRAY知道。",
+      "anchor": "Thus, as only Sanborn, BUTTONFLY, and now KRAY knew",
+      "start": 8836,
+      "end": 8887
+    }
+  ]
+}

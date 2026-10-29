@@ -1,0 +1,322 @@
+{
+  "chapter": 18,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch18 in which kandinsky says well done.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch18_in_which_kandinsky_says_well_done.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Honey, I’ve said it before, and I’ll say it again. You’ve got to stop being so fucking naive,” said Veronica, drying th",
+          "ok": true,
+          "pos": 37
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“What you’re talking about is playing Ahab, hunting something evil that doesn’t want to be found. That’s a counterintell",
+          "ok": true,
+          "pos": 236
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Neither one of those excellent organizations tolerated deadwood, and neither one was CIA, which comes nowhere, and I mea",
+          "ok": true,
+          "pos": 1240
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "We could be made excellent again, the raw ingredients have already been gathered together. It’s like BUTTONFLY said, we ",
+          "ok": true,
+          "pos": 1712
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "But far, far from here. If we stick around and try to fix all these huge problems you’re talking about, which I am the f",
+          "ok": true,
+          "pos": 2517
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“It’s the latest and greatest, thanks to the Internet,” the briefer went on. “We’re going to roll it out across the enti",
+          "ok": true,
+          "pos": 3549
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Are we sure we should provide the same system to multiple agents in the same country?” she said. “Shouldn’t we change i",
+          "ok": true,
+          "pos": 3786
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "There were no other questions, just a cloying afternoon of donuts and flim-flam. And, so far as Veronica knew, the commo",
+          "ok": true,
+          "pos": 4085
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Well done, spyfucker,” she hollered. “Pottymouth,” he hollered back",
+          "ok": true,
+          "pos": 5407
+        }
+      ],
+      "words": 9
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.68
+      }
+    }
+  ],
+  "form": {
+    "h1": "15. In Which KANDINSKY Says “Well Done”",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 988,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

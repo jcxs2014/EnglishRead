@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch07",
+ "text": "ch07_in_which_wacker_gives_dc_hr_dncs_muchadoo.txt",
+ "facts": [
+  {
+   "fact": "行政助理向 DC/HR/DNCS 通报下一位来访者是 Ignatius Q. HECKFETTER；MUCHADOO 回应“Oh great. Dick Wacker.”",
+   "anchor": "“Ignatius Q. HECKFETTER,” said his executive assistant.\n\n“Oh great. Dick Wacker.”",
+   "start": 207,
+   "end": 288
+  },
+  {
+   "fact": "DC/HR/DNCS 的全名是 Titus A. MUCHADOO，他是 Marine Corps Mafia 的成员。",
+   "anchor": "The DC/HR/DNCS, whose full Funny Name was Titus A. MUCHADOO, was a member of the Marine Corps Mafia.",
+   "start": 1253,
+   "end": 1353
+  },
+  {
+   "fact": "Junior Johnston 与 KRAY 的妈妈一样来自西弗吉尼亚州 Morgan County，并且是她的 half-second step-cousin, thrice-removed。",
+   "anchor": "Johnston, who, like KRAY’s mom, hailed from Morgan County, West Virginia — and who was, incidentally, her half-second step-cousin, thrice-removed",
+   "start": 2208,
+   "end": 2353
+  },
+  {
+   "fact": "Johnston 把他那本书的全部利润捐给了摩门教会。",
+   "anchor": "He donated all the profits from his book to the Mormon Church.",
+   "start": 3627,
+   "end": 3689
+  },
+  {
+   "fact": "摩门派一名成员渗透 Marine Corps Mafia，行动一度进展顺利，直到该卧底喜欢上 16 年陈的 Lagavulin Islay 单一麦芽威士忌，两周后离开了教会。",
+   "anchor": "The Mormons sent one guy in, and the op was producing pretty well, until the agent discovered he really liked 16-year-old Lagavulin Islay Single Malt Scotch Whiskey. He left the Church two weeks later.",
+   "start": 10518,
+   "end": 10719
+  },
+  {
+   "fact": "西弗吉尼亚 Mafia 占 CIA 员工总数远超四分之三，成员每天上下班各开两小时车。",
+   "anchor": "The members of the West Virginia Mafia, who made up well over three-quarters of the Agency workforce, why they drove two hours each way to get to and from work every day.",
+   "start": 8035,
+   "end": 8205
+  },
+  {
+   "fact": "西弗吉尼亚州参议员 Robert Byrd 推动一项秘密法律，要求 CIA 安全办公室的摩门审查员删掉可能导致申请人承认乱伦的新申请人审查问题；这使西弗吉尼亚 Mafia 在 1990 年代大幅扩编。",
+   "anchor": "Robert Byrd of West Virginia, an Exalted Cyclops and King Kleagle of the Ku Klux Klan, introduced a secret law requiring the Mormons over there in CIA’s Office of Security to drop any new applicant-vetting question that might result in an admission of incest? This spurred a huge plus-up in the size of the West Virginia Mafia during the 1990s.",
+   "start": 9189,
+   "end": 9533
+  },
+  {
+   "fact": "Wacker 向 MUCHADOO 保证能把钱分配好、日后资金并入 base funds 时可以“walk back the cat”，并称这些都写在备忘录里，随后把马尼拉信封递给 MUCHADOO。",
+   "anchor": "“Yes, sir, Mr. DC/HR/DNCS. You don’t have to worry about that.”\n\n“And we’ll be able to walk back the cat later when the money falls into base funds?”\n\n“Yes, sir. We’ll be able to show those hotshot NOCs and the Congress who’s boss. It’s all explained in this memo.”\n\nWacker handed MUCHADOO his manila envelope.",
+   "start": 14585,
+   "end": 14895
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch61",
+  "text": "ch61_in_which_buttonfly_shows_kray_the_secret_skull_and_bones_greeting.txt",
+  "facts": [
+    {
+      "fact": "KRAY 连续四天上午和下午都去总部星巴克找 BUTTONFLY，最终在 4 月 16 日星期五下午 4:30 看到他坐在后桌与一名年轻案件官员交谈。",
+      "anchor": "Over the next four days KRAY looked for BUTTONFLY every morning and afternoon down at the Headquarters Starbucks. Finally, at 4:30 p.m. on Friday, April 16, KRAY spotted him sitting at a table in the back talking with a young case officer.",
+      "start": 72,
+      "end": 311
+    },
+    {
+      "fact": "KRAY 说 Wacker 似乎不知道他把 Wacker 的秘密 GOOWIKI/Operation Kitchen Appliance 备忘录交给 D. B. Cooper、再由 Cooper 转给 Skinner。",
+      "anchor": "He doesn’t seem to know I gave his secret GOOWIKI/Operation Kitchen Appliance memo to D. B. Cooper to give to Skinner.",
+      "start": 652,
+      "end": 770
+    },
+    {
+      "fact": "KRAY 说他们现在把他安排在 Penalty Box，并且 Wacker 已将他转介给 Counterespionage Group（反间谍组）。",
+      "anchor": "But now they have me sitting in the Penalty Box. And Wacker has referred me to the Counterespionage Group.",
+      "start": 985,
+      "end": 1091
+    },
+    {
+      "fact": "BUTTONFLY 说 CEG 里没有严肃的人，但 CEG 把自己看得很重；查不出东西时他们就会捏造。",
+      "anchor": "Even though there are no serious people working there, CEG takes itself very seriously. If they can’t find anything, they’ll fudge it.",
+      "start": 1217,
+      "end": 1351
+    },
+    {
+      "fact": "KRAY 谎称自己念的是杜克大学，BUTTONFLY 称杜克为“南方的耶鲁法学院”。",
+      "anchor": "“Duke,” KRAY fibbed.\n\n“Ah, fair Duke,” said BUTTONFLY. “The Yale Law of the South.”",
+      "start": 2005,
+      "end": 2088
+    },
+    {
+      "fact": "BUTTONFLY 说自己本科和法学院都念耶鲁，成绩是“稳稳的 C”。",
+      "anchor": "Yep. Undergraduate too. Double-barreled. Solid Cs, by the way.",
+      "start": 2116,
+      "end": 2178
+    },
+    {
+      "fact": "BUTTONFLY 承认自己是骷髅会成员，示范秘密问候：张嘴成圆圈，用指关节敲头顶，发出阴沉的回声。",
+      "anchor": "Then he opened his mouth, forming it into a circle. He rapped on the top of his skull with his knuckles, producing a lugubrious echo.",
+      "start": 2494,
+      "end": 2627
+    },
+    {
+      "fact": "BUTTONFLY 建议 KRAY 照他们说的做、低调熬过去，并暂时切断与 Cooper 和 Skinner 的联系，两人之间的谈话也要暂停。",
+      "anchor": "You should probably break off contact with Cooper and Skinner for now though. And as for our conversations, we’d better take a break, too, until all this blows over.",
+      "start": 3522,
+      "end": 3687
+    }
+  ]
+}

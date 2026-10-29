@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch55",
+  "text": "ch55_in_which_evershag_finally_flips.txt",
+  "facts": [
+    {
+      "fact": "EVERSHAG 未预约就来到 KANDINSKY 狭小的办公室，没等邀请便推门进入；她的妆容因泪痕而花了，手里拿着一个牛皮纸信封。",
+      "anchor": "She dropped by KANDINSKY’s shoebox of an office unannounced, knocking on the door and quietly slipping in without waiting to be invited. Her makeup was a disaster from what looked like the trails of tears. She was carrying a manila envelope.",
+      "start": 63,
+      "end": 304
+    },
+    {
+      "fact": "EVERSHAG 说她是来告诉 KANDINSKY 她恨她，随即改口说不恨，只是想像她一样，并说 KRAY 爱 KANDINSKY 而 KANDINSKY 也爱他。",
+      "anchor": "I came to tell you I hate you I mean I don’t really hate you I just want to be you you’re so smart and beautiful and KRAY loves you and you love him back",
+      "start": 421,
+      "end": 574
+    },
+    {
+      "fact": "EVERSHAG 把信封递出，说里面是 KRAY 一直在找的东西——关于 GOOWIKI 计划的真相，是该计划从一开始就注定失败的骗局的证据，属绝密。",
+      "anchor": "It’s what KRAY has been looking for he’s braver than he knows he really wants to make the place better I hope he does it’s the truth the real truth about Project GOOWIKI it’s the proof that it’s all just a big fake program that was never meant to succeed from the start it’s TOP SECRET.",
+      "start": 1140,
+      "end": 1426
+    },
+    {
+      "fact": "EVERSHAG 说她是为 Marla 才交出文件——那是在 Forward Operating Base ███████ 爆炸中死去的 Marla，KANDINSKY 的朋友，与来自西弗吉尼亚的 Eddie 订婚。",
+      "anchor": "The Marla who died in the bombing at Forward Operating Base ███████ the one you were friends with the one who was engaged to Eddie from West Virginia",
+      "start": 1516,
+      "end": 1665
+    },
+    {
+      "fact": "EVERSHAG 说 Eddie 告诉她，不搜查那个人的主意是 Wacker 出的，这就是所有人都死了、包括 Marla 的原因。",
+      "anchor": "Eddie told me he heard it was Wacker’s idea not to search the guy and that’s why everybody died all of them including Marla",
+      "start": 1666,
+      "end": 1789
+    },
+    {
+      "fact": "EVERSHAG 说 Marla 的全名是 Margelet，化名是 Cornelia D. ZOTZ。",
+      "anchor": "her full name was Margelet her pseudo was Cornelia D. ZOTZ",
+      "start": 1790,
+      "end": 1848
+    },
+    {
+      "fact": "EVERSHAG 说 Marla 是她的姐妹，她欠姐姐这份情。",
+      "anchor": "Marla was my sister I owe her this",
+      "start": 1896,
+      "end": 1930
+    },
+    {
+      "fact": "KANDINSKY 说 Marla 曾告诉她有个在这里工作的姐妹，但从没说过是 EVERSHAG，并一再为她的失去表示哀悼。",
+      "anchor": "Marla told me she had a sister who worked here, but she never said it was you. I am so, so sorry for your loss.",
+      "start": 2010,
+      "end": 2121
+    }
+  ]
+}

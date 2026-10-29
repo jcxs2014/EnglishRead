@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch24",
+  "text": "ch24_in_which_buttonfly_speaks_to_kray_in_french.txt",
+  "facts": [
+    {
+      "fact": "周五下午三点，KRAY 与 BUTTONFLY 坐在大紫绒椅里，总部星巴克空无一人。",
+      "anchor": "It was 3:00 o’clock on Friday afternoon, so the Headquarters Starbucks was deserted.",
+      "start": 106,
+      "end": 190
+    },
+    {
+      "fact": "ARISTOTLE 曾试图辞职，是 BUTTONFLY 劝他打消了念头。",
+      "anchor": "He tried to resign once",
+      "start": 2135,
+      "end": 2158
+    },
+    {
+      "fact": "BUTTONFLY 说 Alice G. PEACHTREE 把 ARISTOTLE 送进他的圈子，帮他成为自己一伙的人。",
+      "anchor": "Alice G. PEACHTREE sent him into my orbit",
+      "start": 2772,
+      "end": 2813
+    },
+    {
+      "fact": "KRAY 直到在罗马见 BRAVESOUL 九个月后、即两个月前，才被告知通信系统被破。",
+      "anchor": "It was two months earlier, nine months after his meeting with BRAVESOUL in Rome, that KRAY had finally been told about the commo compromise.",
+      "start": 8027,
+      "end": 8167
+    },
+    {
+      "fact": "IOD 军官告诉 KRAY：约五个月前，那套通信系统上的两打伊朗特工突然停止联络，包括 BRAVESOUL。",
+      "anchor": "About five months ago two dozen Iranian agents on that commo system suddenly stopped communicating.",
+      "start": 8281,
+      "end": 8380
+    },
+    {
+      "fact": "D. B. Cooper 把 KRAY 拉到一边，说 Wacker 声称 GOOWIKI 下已有部署，而 KRAY 所见并无部署。",
+      "anchor": "already been deployments under GOOWIKI",
+      "start": 9434,
+      "end": 9472
+    },
+    {
+      "fact": "BUTTONFLY 说该机构官方名称是 Reindeer Games，这让国会成了不许加入的 Rudolph。",
+      "anchor": "which I guess puts Congress in the role of Rudolph",
+      "start": 10203,
+      "end": 10253
+    },
+    {
+      "fact": "BUTTONFLY 说他知道哪些人可信、能帮 KRAY，必要时可联系他拿一份可信人员名单。",
+      "anchor": "Well there I can help you. I know who those people are.",
+      "start": 13204,
+      "end": 13259
+    }
+  ]
+}

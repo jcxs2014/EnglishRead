@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch13",
+  "text": "ch13_in_which_kray_has_coffee_with_the_ghost_of_cia_past.txt",
+  "facts": [
+    {
+      "fact": "中文：KRAY 洗完手后决定去总部星巴克，点一杯 Tall Bold With Room，再回电脑前。",
+      "anchor": "decided to stop by the Headquarters Starbucks for a Tall Bold With Room",
+      "start": 85,
+      "end": 156
+    },
+    {
+      "fact": "中文：KRAY 说自己入职将满十年，此前主要在海外当 singleton（NOC），这是他第一次在总部大楼内工作。",
+      "anchor": "coming up on ten years",
+      "start": 2570,
+      "end": 2592
+    },
+    {
+      "fact": "中文：KRAY 对收银员点了两杯 Tall Pike（此前 BUTTONFLY 说自己已是承包商、按规定不能请客，只能各付各的）。",
+      "anchor": "Two Tall Pikes, please",
+      "start": 3525,
+      "end": 3547
+    },
+    {
+      "fact": "中文：BUTTONFLY 说他和 Annie-Kate 结婚四十四年、有四个孩子。",
+      "anchor": "Forty-four years and four kids",
+      "start": 12883,
+      "end": 12913
+    },
+    {
+      "fact": "中文：BUTTONFLY 说 Wacker 是 1977 年入职的，当时他正在轮岗当教官，Wacker 是他带过的学生之一。",
+      "anchor": "Wacker came on board, 1977",
+      "start": 15499,
+      "end": 15525
+    },
+    {
+      "fact": "中文：KRAY 告诉 BUTTONFLY，自己的 Division Chief 是 Ignatius Q. HECKFETTER。",
+      "anchor": "My Division Chief. Ignatius Q. HECKFETTER.",
+      "start": 14107,
+      "end": 14149
+    },
+    {
+      "fact": "中文：BUTTONFLY 说 Donovan 将军 1941 年接管 Coordinator of Information 时已五十八岁。",
+      "anchor": "General Donovan was fifty-eight years old when he took the helm of the Coordinator of Information in 1941",
+      "start": 21179,
+      "end": 21284
+    },
+    {
+      "fact": "中文：BUTTONFLY 主张对机构 93% 的雇员什么都不做，让他们继续当政府就业项目。",
+      "anchor": "Nothing should be done with ninety-three percent",
+      "start": 17880,
+      "end": 17928
+    }
+  ]
+}

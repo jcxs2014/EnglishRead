@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch05",
+  "text": "ch05_in_which_kray_says_those_two_little_words_yes_sir.txt",
+  "facts": [
+    {
+      "fact": "Wacker 原名 Peter R. Wacker，后改为 P. Richard Wacker（真名，不是化名或别名），早在加入 CIA 之前就不再使用 Peter R. Wacker。",
+      "anchor": "He was P. Richard Wacker. This was his true name, not a pseudonym or an alias. He had stopped being Peter R. Wacker long before he joined CIA.",
+      "start": 480,
+      "end": 622
+    },
+    {
+      "fact": "KRAY 自我介绍：九年多前加入 Agency，主要驻外，包括在 Hell 的一段任职；此前从未在总部工作，现随 Division 处于两次外派之间。",
+      "anchor": "I joined the Agency a little over nine years ago, and I’ve served mainly overseas, including a stint in Hell. The fact is, I’ve never spent time at Headquarters before. I’m here with the Division between assignments.",
+      "start": 3410,
+      "end": 3626
+    },
+    {
+      "fact": "Wacker 当众称 KRAY 毕业于 Yale；KRAY 的实际学校并非 Yale，但他没有纠正 Wacker。",
+      "anchor": "It was someplace else, not Yale, but KRAY didn’t see any reason to correct Wacker.",
+      "start": 4358,
+      "end": 4440
+    },
+    {
+      "fact": "FILBERT 是 Wacker 的下属与二号人物（Number Two），被描述为跟随者、唯命是从者和工具。",
+      "anchor": "FILBERT was a follower, a yes-man, and a tool. Every committed Agency ladder climber had one, and FILBERT’s boss, Wacker, was no exception. FILBERT was Number Two, and he always would be.",
+      "start": 11908,
+      "end": 12095
+    },
+    {
+      "fact": "Wacker 要求众人在二月底前完成强制性在线敏感性培训，并称这意味着只剩六十多天。",
+      "anchor": "you must complete the mandatory online sensitivity awareness training before the end of February. That means you have a little over sixty days to become sensitive.",
+      "start": 9085,
+      "end": 9248
+    },
+    {
+      "fact": "Wacker 让 KRAY 当天十四时到办公室面谈，KRAY 回答“Yes, sir”。",
+      "anchor": "Mr. KRAY, that includes you. See me about that in my office today at fourteen hundred hours.”\n\nAnd that’s when KRAY said those two little words.\n\n“Yes, sir,” he said.",
+      "start": 11277,
+      "end": 11443
+    },
+    {
+      "fact": "KRAY 回想十一个月前与伊朗核项目渗透线人 RXBRAVESOUL/1 的最后一次会面；他自愿接手 BRAVESOUL 案以降低美国政府痕迹，这是两人两年内的第四次会面。",
+      "anchor": "He was back at his final meeting, eleven months earlier, with his Iranian nuclear program penetration agent, RXBRAVESOUL/1. KRAY had volunteered to take on the BRAVESOUL case to lower the USG footprint. This was their fourth meeting in two years.",
+      "start": 15825,
+      "end": 16071
+    },
+    {
+      "fact": "KRAY 把从附近买来的小象玩偶交给 BRAVESOUL，让他说是从罗马买给 Laila 的；Laila 是 BRAVESOUL 的女儿，八个月前出生。",
+      "anchor": "“I picked this up around the corner from here — you can say you bought it in Rome for Laila.”\n\nLaila was BRAVESOUL’s daughter, born eight months earlier.",
+      "start": 17847,
+      "end": 18000
+    }
+  ]
+}

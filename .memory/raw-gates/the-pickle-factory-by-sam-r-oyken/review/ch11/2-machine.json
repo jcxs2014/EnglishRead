@@ -1,0 +1,295 @@
+{
+  "chapter": 11,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch11 in which kray learns how agency budgeting works.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch11_in_which_kray_learns_how_agency_budgeting_works.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "KRAY spread his workpapers across Wacker’s office conference table. There were pages and pages, each containing dozens o",
+          "ok": true,
+          "pos": 778
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Okay. So you said we need to get out a thousand NOCs as Transformational Human Resources consultants and have twenty bil",
+          "ok": true,
+          "pos": 1267
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Also, the operational money will come from whatever operational components have a dog in the fight. Don’t take that into",
+          "ok": true,
+          "pos": 2045
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Don’t feel bad KRAY. Everybody has to struggle with this when they first tackle Agency budgeting. It’s really just a me",
+          "ok": true,
+          "pos": 2343
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Take out a clean sheet of paper. Sit back. Close your eyes. Breathe deep. Then think of every possible thing you would n",
+          "ok": true,
+          "pos": 2628
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Then think of anything else at all you could possibly claim was related to the program. Anything at all. Write that down",
+          "ok": true,
+          "pos": 2994
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Well, I was thinking maybe it would be a good idea for me to get a look at your memo on GOOWIKI, the one you had at our",
+          "ok": true,
+          "pos": 3464
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Sorry KRAY, not possible,” said Wacker. “Not possible at all — that’s way, way above your pay grade. Any other question",
+          "ok": true,
+          "pos": 3631
+        }
+      ],
+      "words": 21
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "8. In Which KRAY Learns How Agency Budgeting Works",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 785,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

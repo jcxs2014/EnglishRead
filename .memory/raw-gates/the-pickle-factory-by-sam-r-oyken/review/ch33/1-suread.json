@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch33",
+  "text": "ch33_in_which_kray_learns_how_to_make_a_liftshits_manhattan.txt",
+  "facts": [
+    {
+      "fact": "KRAY 晚上 7:30 坐在伦敦骑士桥伯克利酒店 Blue Bar 最右侧，把外套搭在旁边椅子上给 LIFTSHITS 占座。",
+      "anchor": "The Blue Bar, The Berkeley Hotel, Knightsbridge, London, England, 7:30 in the evening. KRAY is sitting at the bar, over on the far-right side, turned in his chair, observing the room. He has his coat draped over the chair next to his, reserving it for LIFTSHITS.",
+      "start": 60,
+      "end": 322
+    },
+    {
+      "fact": "LIFTSHITS 自称 Ralph，说 Howard 提过 KRAY 大概更愿意用 Funny Name；KRAY 回称自己是 Andre。",
+      "anchor": "“LIFTSHITS, Ralph,” LIFTSHITS says in a low voice. “Howard said you would probably prefer to stick to Funny Names.”\n\n“KRAY, Andre,” says KRAY.",
+      "start": 3711,
+      "end": 3853
+    },
+    {
+      "fact": "LIFTSHITS 点 Maker’s Mark Manhattan：straight up、perfect、柠檬皮、苦精、不加樱桃；KRAY 说听起来不错，要了两杯。",
+      "anchor": "“Maker’s Mark Manhattan, straight up, perfect, twist of lemon, bitters, no cherry,” says LIFTSHITS.\n\n“Angostura?” says the bartender.\n\nLIFTSHITS nods.\n\n“That sounds good,” says KRAY. “Two, please,” he tells the bartender, who nods.",
+      "start": 4236,
+      "end": 4467
+    },
+    {
+      "fact": "LIFTSHITS 说他在 1982 年刚开始工作不久就认识 Howard，两人当时都抽大雪茄，在 Bubble 外的长椅旁偶遇。",
+      "anchor": "“Oh, right after I started, in ’82,” says LIFTSHITS. “We were both big cigar smokers back then. Ran into each other by chance on one of the benches out by the Bubble.",
+      "start": 6438,
+      "end": 6604
+    },
+    {
+      "fact": "KRAY 说监视目标是他的 Division Chief P. Richard Wacker；LIFTSHITS 低声脱口而出，说自己厌恶此人。",
+      "anchor": "“My Division Chief,” says KRAY. “P. Richard Wacker.”\n\n“Dick Wacker!” LIFTSHITS blurts out in a half whisper. “God, I despise that guy. I’m liking this more and more.”",
+      "start": 7487,
+      "end": 7653
+    },
+    {
+      "fact": "KRAY 把 Cooper 给的伦敦 Funny Name 告诉 LIFTSHITS，LIFTSHITS 想了一下摇头，说从没听说过她。",
+      "anchor": "KRAY tells LIFTSHITS the London name from Cooper. LIFTSHITS turns it over in his mind, then shakes his head.\n\n“Never heard of her.”",
+      "start": 7970,
+      "end": 8101
+    },
+    {
+      "fact": "LIFTSHITS 临走说今晚还有约，一名巴基斯坦朋友称 bin Ladin 藏身巴基斯坦并能说出地点；随后让 KRAY 转告 Howard 别忘了欠他的五十美元。",
+      "anchor": "Anyway, I have another meeting I need to get to tonight. A Pakistani friend whispered to me the other evening that bin Ladin is hiding out in Pakistan. He says he can tell us where.”\n\nHe takes a step away, then turns back.\n\n“Tell Howard I haven’t forgotten about that fifty bucks he owes me,” he says.",
+      "start": 8764,
+      "end": 9065
+    },
+    {
+      "fact": "KRAY 掏出三张二十英镑钞票，问侍者有没有别的出口离开。",
+      "anchor": "“I need to see a man about a dog,” he says, displaying three twenty-pound notes. “Is there some other way out of here?”",
+      "start": 10252,
+      "end": 10371
+    }
+  ]
+}

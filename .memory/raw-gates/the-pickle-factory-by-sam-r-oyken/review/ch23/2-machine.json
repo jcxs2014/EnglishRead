@@ -1,0 +1,349 @@
+{
+  "chapter": 23,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch23 journal entry no 11.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch23_journal_entry_no_11.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "CIA plunged into the 1990s management consulting craze deeply and with both feet. But since the Agency is a secret U.S. ",
+          "ok": true,
+          "pos": 169
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Anyway, what some sharp operator at CIA recognized sometime early in the new millennium was that, even though management",
+          "ok": true,
+          "pos": 1519
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Yep, by Agency promotion standards he was a mega success. He got elevated so far beyond the level of his abilities that ",
+          "ok": true,
+          "pos": 2197
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "This got to be a regular competition, with folks vying to see who could use the expressions “holistic,” “takeaway,” “tip",
+          "ok": true,
+          "pos": 2622
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The theory behind this program, of course, was that you could take a fully formed adult human being who had, since birth",
+          "ok": true,
+          "pos": 3419
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Although no one knows for sure, this change appears to have started somewhere around 1988 and on account of the long-fel",
+          "ok": true,
+          "pos": 6673
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "See old Bill Donovan, a former Wall Street lawyer, he was clued in. To be his leaders, he picked people who already were",
+          "ok": true,
+          "pos": 8599
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Back when he went through CIA Operations Officer training down at the Farm, old Shemp’s classmates nicknamed him “Samson",
+          "ok": true,
+          "pos": 11909
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Can you believe that? This senior CIA manager, a SIS-4 if I recall correctly, which made him the equivalent of a four-st",
+          "ok": true,
+          "pos": 14512
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "All I know is, the Agency ain’t fooling nobody with her gussied-up dumbass sham “Leadership Development Program.” The fo",
+          "ok": true,
+          "pos": 18262
+        }
+      ],
+      "words": 62
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.48
+      }
+    }
+  ],
+  "form": {
+    "h1": "20. Journal Entry No. 11",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3272,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": "块数 10 偏离本书常见区间 3–9（本书 69 章中位 6、最高 12（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

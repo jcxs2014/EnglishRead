@@ -1,0 +1,160 @@
+{
+  "chapter": 43,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch43 in which kray flies back to varanasi for a sweater.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch43_in_which_kray_flies_back_to_varanasi_for_a_sweater.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "KRAY flew Air India back to Varanasi in hopes of recovering KAN-DINSKY’s sweater. He made sure to be the last passenger ",
+          "ok": true,
+          "pos": 54
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Then the pilot began rocking the wings violently to show who was boss, an anodyne “TERRAIN, TERRAIN — PULL UP” message s",
+          "ok": true,
+          "pos": 1088
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "KRAY grabbed the sweater, hailed a taxi, and raced back to the airport, where he managed to get booked onto a flight to ",
+          "ok": true,
+          "pos": 4785
+        }
+      ],
+      "words": 64
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.67
+      }
+    }
+  ],
+  "form": {
+    "h1": "40. In Which KRAY Flies Back To Varanasi For A Sweater",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 3,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 3,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 967,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

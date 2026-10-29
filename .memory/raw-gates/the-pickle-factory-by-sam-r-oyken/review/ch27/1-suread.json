@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch27",
+  "text": "ch27_in_which_d_b_cooper_slips_kray_two_hundred_grand.txt",
+  "facts": [
+    {
+      "fact": "晚上8:30，KRAY用投币电话联系，并按约定自称“Marcel Duchamp”。",
+      "anchor": "It was 8:30 in the evening. KRAY had called from a pay phone, identifying himself as “Marcel Duchamp” like he said he would.",
+      "start": 229,
+      "end": 353
+    },
+    {
+      "fact": "Cooper告诉KRAY自己有一份名单：13个假名，分布在13座外国城市。",
+      "anchor": "“I’ve got a list,” said Cooper. “Thirteen pseudos in thirteen foreign cities.”",
+      "start": 567,
+      "end": 645
+    },
+    {
+      "fact": "Skinner与KRAY握手，自我介绍为Wayne Skinner，并让KRAY直接叫他Wayne。",
+      "anchor": "“Wayne Skinner,” said the man, sticking out his hand. “Call me Wayne. Yer name be Marcel?”",
+      "start": 3279,
+      "end": 3369
+    },
+    {
+      "fact": "Skinner说儿媳Tabitha几年前申请该项目，被Wacker拒绝；Wacker在面试中问她女人该工作还是持家，并在她说为CIA工作比生孩子更重要后当场终止面试。",
+      "anchor": "“Tabitha, that’s my daughter-in-law,” said Skinner. “Couple a years back, she applies fer yer program, wants it real bad. Woulda been good, too. It’s Wacker who rejects her. Know what he says to her?”\n\n“I’m all ears,” said KRAY.\n\n“He says, ‘This is probably improper and way beyond the perfessional.’ Then he asks her whether it’s better fer a woman to work or stay home ’n’ take care a the kids. When Tabby tells him workin’ fer the CIA is real important to her, maybe even more important than havin’ kids, Wacker looks at her like she’s got some kind a scarlet letter tattooed on her forehead. And he stops the interview right there, the no-good honeyfuggler.”",
+      "start": 7523,
+      "end": 8185
+    },
+    {
+      "fact": "Skinner定下计划：让Cooper准备一份报告请求，内容是Wacker的Transfermational Human Resources项目在多个地点能否奏效；要求提供最新信息并设短期限。KRAY认为七到八个城市就足以判断，Cooper承诺明天下班前把请求送到Wacker手上。",
+      "anchor": "“Well alrighty then, we’re all in agreeance,” said Skinner. “So here’s what we’re gonna do. D. B., you put together a request fer a report on how well Wacker’s Transfermational Human Resources thingy is gonna work in a bunch a diff’rent places. Tell ’em I want fresh, up-to-date infermation, and give ’em a short deadline. That sound ’bout right, Marcel?”\n\n“That should do it,” said KRAY.\n\n“All thirteen cities, or just some?” said Cooper.\n\n“Seven or eight ought to tell us,” said KRAY.\n\n“Okay,” said Cooper.\n\n“How soon can you git it on over to Wacker, D. B.?” said Skinner.\n\n“It’ll be in his hands by COB tomorrow,” said Cooper.",
+      "start": 12728,
+      "end": 13358
+    },
+    {
+      "fact": "Cooper从Skinner处接过黑色背包交给KRAY，说包里有20万美元，全是20美元面额；Skinner称这是Hipsie的不需收据的经费。",
+      "anchor": "Cooper reached back, took a black backpack from Skinner, and handed it to KRAY.\n\n“That bag has two hundred grand in it,” D. B. Cooper told KRAY. “In twenties.”\n\n“Unvouchered funds from Hipsie,” said Skinner. “No receipts necessary, thank you kindly.”",
+      "start": 14307,
+      "end": 14557
+    },
+    {
+      "fact": "Skinner对KRAY说放行去干，并称既然自己是Hipsie主席，KRAY所需的授权就这些，另外再加一点活动经费。",
+      "anchor": "Far as I’m concerned, it’s on like Donkey Kong — yer good to go and git ’er done. And since I’m the Hipsie Chairman, that’s all you’ll need. ’Cept fer a little walkin’ ’round money, that is.",
+      "start": 14114,
+      "end": 14304
+    },
+    {
+      "fact": "KRAY在无路灯处下车，把背包甩上肩，消失在1月下旬的夜色中。",
+      "anchor": "He got out, slung the backpack over his shoulder, and disappeared into the late-January night.",
+      "start": 15175,
+      "end": 15269
+    }
+  ]
+}

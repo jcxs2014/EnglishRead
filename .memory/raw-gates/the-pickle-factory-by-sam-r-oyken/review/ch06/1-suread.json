@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch06",
+  "text": "ch06_in_which_wacker_reads_kray_in_on_project_goowiki.txt",
+  "facts": [
+    {
+      "fact": "瓦克从抽屉取出一本旧护照交给 KRAY；护照照片中的他二十多岁，已经发胖，留着金色爆炸头。",
+      "anchor": "Wacker reached into a desk drawer and pulled out an old passport. He opened it and handed it to KRAY. KRAY looked at the picture. It was Wacker in his late twenties, already plump and sporting a large blonde Afro-style hairdo.",
+      "start": 1151,
+      "end": 1377
+    },
+    {
+      "fact": "瓦克讲述首次驻外：抵达三周后当地爆发内战/政变，整个 Station 关闭一年。",
+      "anchor": "Anyway, three weeks after I get there everything goes down the crapper. Civil war, coup d’état, Color Revolution, whatever you want to call it. Shuts down the whole Station for a year.",
+      "start": 2213,
+      "end": 2397
+    },
+    {
+      "fact": "瓦克说正是在那次驻外期间结识了 FILBERT 及其妻子，并称 FILBERT 是个好人。",
+      "anchor": "That’s where I met FILBERT and his wife. FILBERT’s a good man, you could learn a lot about leadership from him.",
+      "start": 2616,
+      "end": 2727
+    },
+    {
+      "fact": "KRAY 已有近十年 Agency 工作经历，但从未踏进任何 CIA station。",
+      "anchor": "Wacker seemed to have forgotten that KRAY had almost a decade of Agency work behind him. During that time, he had never set foot inside any CIA station.",
+      "start": 3352,
+      "end": 3504
+    },
+    {
+      "fact": "KRAY 谎称自己没当过顾问。",
+      "anchor": "“No,” KRAY lied. “But I know what the definition of a consultant is.”",
+      "start": 4410,
+      "end": 4479
+    },
+    {
+      "fact": "瓦克给 KRAY 一个月期限，让他大胆去做并做好。",
+      "anchor": "One month. Take a stab at it — and make it good.",
+      "start": 13689,
+      "end": 13737
+    },
+    {
+      "fact": "瓦克说有两百亿美元需要分配。",
+      "anchor": "We have twenty billion dollars we need to allocate.",
+      "start": 13601,
+      "end": 13652
+    },
+    {
+      "fact": "KRAY 的父亲是海军陆战队战斗机飞行员，是首批被选中驾驶 AV-8A Harrier 的人之一；母亲出生于西弗吉尼亚 Morgan County，25 年间随军打包、拆包家当。",
+      "anchor": "KRAY’s dad had been a kick-ass Marine Corps fighter pilot, one of the first chosen to fly the Hawker Siddeley AV-8A Harrier “Jump Jet.” KRAY’s mom, born and bred in Morgan County, West Virginia, had lit out of there as fast as she could to go and explore the world with her handsome fighter pilot husband. She had been a trooper and an angel through 25 years of packing and unpacking the family’s household effects and, crucially, had shown KRAY empathy overlaid with control, a killer combination for any case officer.",
+      "start": 11179,
+      "end": 11698
+    }
+  ]
+}

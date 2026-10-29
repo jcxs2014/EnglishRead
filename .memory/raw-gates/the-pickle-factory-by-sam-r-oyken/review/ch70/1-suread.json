@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch70",
+  "text": "ch70_in_which_we_learn_who_slept_with_whom_and_why.txt",
+  "facts": [
+    {
+      "fact": "中文：名单记载有人为了潜入摩门黑手党而与其发生关系。",
+      "anchor": "in order to infiltrate the Mormon Mafia.",
+      "start": 127,
+      "end": 167
+    },
+    {
+      "fact": "中文：名单记载有人为了退出“柜中黑手党”而与其发生关系。",
+      "anchor": "in order to exit the In The Closet Mafia.",
+      "start": 218,
+      "end": 259
+    },
+    {
+      "fact": "中文：名单记载有人与其发生关系，理由是对方是她来自西弗吉尼亚州Odd的表亲。",
+      "anchor": "on account of he was her cousin from Odd, West Virginia.",
+      "start": 315,
+      "end": 371
+    },
+    {
+      "fact": "中文：名单记载作为“大码黑手党”成员，她想挠那“大肥痒”。",
+      "anchor": "as a member of the Plus Size Mafia, she wanted to scratch that big fat itch.",
+      "start": 442,
+      "end": 518
+    },
+    {
+      "fact": "中文：名单记载有人说自己是为了维持海军陆战队黑手党的团结与凝聚力。",
+      "anchor": "in order to maintain the solidarity and cohesiveness of the Marine Corps Mafia, or so he said.",
+      "start": 573,
+      "end": 667
+    },
+    {
+      "fact": "中文：名单记载有人与已故西弗吉尼亚州参议员Robert Byrd发生关系，理由是他身为美国参议员。",
+      "anchor": "slept with the late Senator Robert Byrd of West Virginia, seeing as he was a U.S. Senator.",
+      "start": 962,
+      "end": 1052
+    },
+    {
+      "fact": "中文：名单记载有人与ALLNIGHT发生关系，因为他的Funny Name就是ALLNIGHT。",
+      "anchor": "slept with ALLNIGHT because his Funny Name was ALLNIGHT.",
+      "start": 1323,
+      "end": 1379
+    },
+    {
+      "fact": "中文：名单之外还有很多其他配对；不幸的是，人事部门某人误把所有这些档案运到了摩纳哥的一处码头。",
+      "anchor": "There were lots of other couplings too. Unfortunately, somebody in Personnel accidentally shipped all those files off to a dockside in Monaco.",
+      "start": 1468,
+      "end": 1610
+    }
+  ]
+}

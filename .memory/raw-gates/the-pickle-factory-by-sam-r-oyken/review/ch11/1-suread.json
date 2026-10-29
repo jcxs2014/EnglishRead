@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch11",
+  "text": "ch11_in_which_kray_learns_how_agency_budgeting_works.txt",
+  "facts": [
+    {
+      "fact": "中文：KRAY 早上 8:00 敲 Wacker 的门；Wacker 开门时脸颊发红。",
+      "anchor": "KRAY knocked on Wacker’s door at 8:00 a.m.",
+      "start": 52,
+      "end": 94
+    },
+    {
+      "fact": "中文：KRAY 说 GOOWIKI 项目的麻烦是他想不出怎么把所有的钱花掉。",
+      "anchor": "The problem is I can’t figure out how to spend all the money.",
+      "start": 630,
+      "end": 691
+    },
+    {
+      "fact": "中文：KRAY 复述 Wacker 的交待：以 Transformational Human Resources 顾问身份发出 1000 份 NOC，并有两百亿美元可用。",
+      "anchor": "you said we need to get out a thousand NOCs as Transformational Human Resources consultants and have twenty billion dollars to do it with",
+      "start": 1333,
+      "end": 1470
+    },
+    {
+      "fact": "中文：KRAY 算出平均每名官员的预算为 ████ 百万美元。",
+      "anchor": "an average budget of ████ million dollars per officer",
+      "start": 1497,
+      "end": 1550
+    },
+    {
+      "fact": "中文：Wacker 纠正 KRAY：两百亿是年度预算。",
+      "anchor": "Twenty billion is the annual budget.",
+      "start": 2069,
+      "end": 2105
+    },
+    {
+      "fact": "中文：Wacker 说运营经费由相关运营部门出，每年只有几亿美元，是小钱。",
+      "anchor": "just a few hundred million a year",
+      "start": 2276,
+      "end": 2309
+    },
+    {
+      "fact": "中文：Wacker 拒绝让 KRAY 看 GOOWIKI 备忘录，称其远超出 KRAY 的薪资级别。",
+      "anchor": "that’s way, way above your pay grade",
+      "start": 3794,
+      "end": 3830
+    },
+    {
+      "fact": "中文：Wacker 让 KRAY 遇到 HR 问题就去找 EVERSHAG。",
+      "anchor": "go and see EVERSHAG",
+      "start": 3994,
+      "end": 4013
+    }
+  ]
+}

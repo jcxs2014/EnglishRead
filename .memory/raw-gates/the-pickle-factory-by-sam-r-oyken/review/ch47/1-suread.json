@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch47",
+  "text": "ch47_in_which_kandinsky_reminds_kray_he_needs_a_cover_story.txt",
+  "facts": [
+    {
+      "fact": "中文：尼克（代号 NOC Andre B. KRAY，四十多岁）与维罗妮卡（代号 NOC Candie X. KANDINSKY，三十出头）在维罗妮卡公寓的床上。",
+      "anchor": "Nick, aka NOC Andre B. KRAY, mid-40s, concentrates. Veronica, aka NOC Candie X. KANDINSKY, early-30s, underneath Nick",
+      "start": 176,
+      "end": 293
+    },
+    {
+      "fact": "中文：维罗妮卡说如果瓦克在国会作伪证却拿不出证据，那才叫大失所望。",
+      "anchor": "I meant it’s a big letdown if Wacker is lying to Congress, but we have no proof.",
+      "start": 1074,
+      "end": 1154
+    },
+    {
+      "fact": "中文：尼克说他需要同库珀和斯金纳谈，两天后在鲍尔斯顿地点取车时见面。",
+      "anchor": "Well, I need to talk to Cooper and Skinner. I’m meeting them in two days, a car pickup at the Ballston site.",
+      "start": 2465,
+      "end": 2573
+    },
+    {
+      "fact": "中文：维罗妮卡解释“eyewash”是用一件事掩盖另一件事、即假情报，并要求尼克给库珀和斯金纳一个掩护说辞。",
+      "anchor": "Eyewash. That’s when you cover up one thing by making it look like something else.",
+      "start": 3131,
+      "end": 3213
+    },
+    {
+      "fact": "中文：尼克说他得向瓦克汇报用 Transformational Human Resources 作为 Project GOOWIKI 掩护的好处，为此不得不编造内容。",
+      "anchor": "And I need to report back to Wacker about the pluses of using Transformational Human Resources as cover for Project GOOWIKI.",
+      "start": 4038,
+      "end": 4162
+    },
+    {
+      "fact": "中文：尼克说本周内去见 BUTTONFLY，越早越好；维罗妮卡说谁都不要信。",
+      "anchor": "Sometime this week. The sooner the better.",
+      "start": 3946,
+      "end": 3988
+    },
+    {
+      "fact": "中文：维罗妮卡把尼克双肩按倒在床垫上，右腿跨过他，以女牛仔骑乘姿势到了上面。",
+      "anchor": "she swings her right leg up and over him, ending up on top in a cowgirl straddle.",
+      "start": 5337,
+      "end": 5418
+    },
+    {
+      "fact": "中文：维罗妮卡的小白狗开始叫，她喝止。",
+      "anchor": "Veronica’s little white dog starts barking.",
+      "start": 5494,
+      "end": 5537
+    }
+  ]
+}

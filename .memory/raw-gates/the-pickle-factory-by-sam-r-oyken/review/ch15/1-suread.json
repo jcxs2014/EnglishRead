@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch15",
+  "text": "ch15_in_which_more_goowiki_money_gets_allocated.txt",
+  "facts": [
+    {
+      "fact": "Wacker 在办公室把 Helga Q. FLYSPECK 介绍给 Andre B. KRAY。",
+      "anchor": "I want you to meet Helga Q. FLYSPECK. FLYSPECK, Andre B. KRAY.",
+      "start": 115,
+      "end": 177
+    },
+    {
+      "fact": "KRAY 与一名身材丰满的金发女子握手，她身高约五英尺三英寸，年龄约五十九岁半。",
+      "anchor": "KRAY shook hands with a plump bottle blonde who stood just about five foot three and appeared to be right around fifty-nine and a half years old.",
+      "start": 180,
+      "end": 325
+    },
+    {
+      "fact": "Wacker 说 FLYSPECK 认为需要新增五百名经理，每两名 GOOWIKI NOC 配一名。",
+      "anchor": "FLYSPECK thinks five hundred new managers, one for every two GOOWIKI NOCs, ought to take care of the problem.",
+      "start": 3572,
+      "end": 3681
+    },
+    {
+      "fact": "Wacker 指示 FLYSPECK 迅速推进，尽快为 GOOWIKI 项目的这个新单位拨款。",
+      "anchor": "move ahead on this smartly and get funds allocated to this new element of the GOOWIKI program asap.",
+      "start": 3705,
+      "end": 3804
+    },
+    {
+      "fact": "Wacker 还表示需要一间更大的会议室和更多金条。",
+      "anchor": "a bigger conference room and more gold bars.",
+      "start": 3945,
+      "end": 3989
+    },
+    {
+      "fact": "FLYSPECK 去年夏天提交了加入 Plus Size Mafia 的材料，希望晚春前入会，赶上去 Fort Lauderdale 的假期旅行。",
+      "anchor": "FLYSPECK had submitted her paperwork the previous summer to join the Plus Size Mafia. She was hoping to be in by late spring, before her holiday trip to Fort Lauderdale.",
+      "start": 2965,
+      "end": 3134
+    },
+    {
+      "fact": "KRAY 在 Sametime 上问 BUTTONFLY 是否有时间在 Starbucks 快速见面。",
+      "anchor": "Got time for a quick meeting at Starbucks?",
+      "start": 4811,
+      "end": 4853
+    },
+    {
+      "fact": "BUTTONFLY 说 FLYSPECK 过去的标准提案是新增七十五个岗位。",
+      "anchor": "Used to be her standard proposal was seventy-five new bodies.",
+      "start": 5434,
+      "end": 5495
+    }
+  ]
+}

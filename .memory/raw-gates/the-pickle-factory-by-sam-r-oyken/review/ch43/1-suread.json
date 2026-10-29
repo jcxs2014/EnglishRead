@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch43",
+  "text": "ch43_in_which_kray_flies_back_to_varanasi_for_a_sweater.txt",
+  "facts": [
+    {
+      "fact": "KRAY 乘印度航空飞回瓦拉纳西，想找回 KANDINSKY 的毛衣。",
+      "anchor": "KRAY flew Air India back to Varanasi in hopes of recovering KAN-DINSKY’s sweater.",
+      "start": 56,
+      "end": 137
+    },
+    {
+      "fact": "KRAY 看到一名戴墨镜的尼泊尔男子在他之后登机。",
+      "anchor": "Then he saw a Nepali guy in sunglasses board after him.",
+      "start": 197,
+      "end": 252
+    },
+    {
+      "fact": "几户印度家庭解开安全带、起身、打开头顶行李舱取行李，挤到前舱门排队，当时飞机距地面仍有一千多英尺。",
+      "anchor": "several Indian families unbuckled their seatbelts, stood up, popped open their overhead compartments, got down their luggage, and scrambled to line up at the front cabin door, with the aircraft still more than a thousand feet above the ground.",
+      "start": 781,
+      "end": 1024
+    },
+    {
+      "fact": "KRAY 的心率升到每分钟 160 次，但他没有尖叫。",
+      "anchor": "KRAY’s heart rate shot up to 160 beats per minute, but at least he didn’t scream.",
+      "start": 1380,
+      "end": 1461
+    },
+    {
+      "fact": "KANDINSKY 的毛衣披在前方二十步处一名印度男子的肩上。",
+      "anchor": "It was draped over the shoulders of an Indian man walking twenty paces ahead.",
+      "start": 3351,
+      "end": 3428
+    },
+    {
+      "fact": "KRAY 问男子的妹妹是否在银恒河客栈工作，男子回答是。",
+      "anchor": "“Does your sister work at the Silver Ganges Paying Guest House?”\n\n“Yes,” said the man, turning back.",
+      "start": 3876,
+      "end": 3976
+    },
+    {
+      "fact": "KRAY 出一百美元买毛衣，请男子卖给他。",
+      "anchor": "“Okay, here’s one hundred dollars,” said KRAY, desperate. “Please sell it to me.”",
+      "start": 4563,
+      "end": 4644
+    },
+    {
+      "fact": "KRAY 抓过毛衣、打车赶回机场，订到两小时后飞往曼谷的航班。",
+      "anchor": "KRAY grabbed the sweater, hailed a taxi, and raced back to the airport, where he managed to get booked onto a flight to Bangkok that left two hours later.",
+      "start": 4869,
+      "end": 5023
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch14",
+  "text": "ch14_journal_entry_no_3.txt",
+  "facts": [
+    {
+      "fact": "CIA 员工自认属于被选中的少数人，人数约 999,000，不含在食堂干活的人。",
+      "anchor": "numbered among the chosen few, or roughly nine hundred ninety-nine thousand souls, not counting the folks who labored down in the cafeteria",
+      "start": 198,
+      "end": 337
+    },
+    {
+      "fact": "最狂热的 CIA 员工在总部大楼中央室外庭院、食堂与 Kryptos 雕塑旁举办篝火之夜，不用木柴而焚烧待销毁的机密文件。",
+      "anchor": "These were held, without wooden logs, in the central outdoor courtyard of the Original Headquarters Building, next to the cafeteria and the baffling Kryptos sculpture",
+      "start": 607,
+      "end": 773
+    },
+    {
+      "fact": "篝火之夜，数百名 CIA 员工（有时包括局长本人）像一群猫头鹰围着火坑，喝 negus、享受庆祝性的枪声、唱海员号子。",
+      "anchor": "hundreds of CIA employees — and sometimes even the Director himself — they would crowd around the fire pit like a parliament of owls, drink negus, enjoy celebratory gunfire, and sing sea shanties",
+      "start": 1425,
+      "end": 1620
+    },
+    {
+      "fact": "俄、法、中、以色列的间谍卫星从头顶直接经过，拍下被火光映照的欢快仰脸的高清照片。",
+      "anchor": "Meanwhile Russian, French, Chinese, and Israeli spy satellites would pass directly overhead, snapping high-resolution photographs of the happy, upturned faces illuminated by the firelight.",
+      "start": 1699,
+      "end": 1887
+    },
+    {
+      "fact": "早晨，McLean, Virginia 的社区儿童把捡拾半烧毁的机密文件当成游戏，试图拼出上面写的秘密。",
+      "anchor": "Neighborhood children made a game of picking up the partially burned documents in the morning and trying to piece together all the secret things they said.",
+      "start": 1229,
+      "end": 1384
+    },
+    {
+      "fact": "这些歌都没提到猪湾突袭惨败、Francis Gary Powers、Jack Ruby、D. B. Cooper 等 CIA 的难堪旧事。",
+      "anchor": "none of the songs mentioned the surprise rout at the Bay of Pigs, Francis Gary Powers, Jack Ruby, D. B. Cooper",
+      "start": 2911,
+      "end": 3021
+    },
+    {
+      "fact": "CIA 的招募广告以失明的 CIA 接待员、同性恋 CIA 图书管理员、受冒名顶替综合征困扰的拉丁裔千禧员工为主角，三人的身份都暴露了。",
+      "anchor": "a blind CIA receptionist, a gay CIA librarian, and a Latina CIA millennial struggling with imposter syndrome. Incidentally: blown, blown, and blown.",
+      "start": 3750,
+      "end": 3898
+    },
+    {
+      "fact": "纪念墙上有几十颗星，纪念最早可追溯至 40 年代末的死亡；这面墙正对着另一面刻有标点错误的圣经句的墙。",
+      "anchor": "The Memorial Wall had dozens and dozens of stars on it, some marking deaths that had occurred as far back as the late ’40s.",
+      "start": 5065,
+      "end": 5188
+    }
+  ]
+}

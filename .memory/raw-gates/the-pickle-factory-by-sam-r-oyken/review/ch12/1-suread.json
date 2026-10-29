@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch12",
+  "text": "ch12_in_which_evershag_the_hr_lady_explains_that_hr_is_here_to_help.txt",
+  "facts": [
+    {
+      "fact": "KRAY 说 Chief Wacker 让他为 Project GOOWIKI 制定计划。",
+      "anchor": "Chief Wacker asked me to put together a plan for Project GOOWIKI.",
+      "start": 471,
+      "end": 536
+    },
+    {
+      "fact": "EVERSHAG 说 HR 不做招聘；她的全名是 Evita P. EVERSHAG。",
+      "anchor": "“HR doesn’t do hiring,” EVERSHAG said. Her full Funny Name was Evita P. EVERSHAG.",
+      "start": 946,
+      "end": 1027
+    },
+    {
+      "fact": "HR 很久不介入，直到三年试用期结束、首次评估到期才参与。",
+      "anchor": "“Oh not for a long time not until the first evaluation is due when the probationary period is over three years.”",
+      "start": 1301,
+      "end": 1413
+    },
+    {
+      "fact": "EVERSHAG 说政府里没人会被解雇。",
+      "anchor": "“It’s the government nobody gets fired.”",
+      "start": 1797,
+      "end": 1837
+    },
+    {
+      "fact": "七个月前 KRAY 被派到塞浦路斯执行对线人 DQFLOPSWEAT/7 的终止会面；此人是希族塞浦路斯人，两年间只领小额月津贴。",
+      "anchor": "Seven months earlier, KRAY had been tasked with carrying out an agent termination meeting in Cyprus. DQFLOPSWEAT/7, a Greek Cypriot recruited to report on movements of Russian mob money in and out of the island, hadn’t panned out after two years on the books collecting a small monthly stipend.",
+      "start": 2004,
+      "end": 2298
+    },
+    {
+      "fact": "KRAY 提出把最终付款提到四百美元，其中两百美元是他自己的钱。",
+      "anchor": "“Look, I’ll make it four hundred,” said KRAY. “Including two hundred of my own money.",
+      "start": 4056,
+      "end": 4141
+    },
+    {
+      "fact": "EVERSHAG 说机构在过去十一年里用过七套不同的评估系统。",
+      "anchor": "the Agency has had seven different evaluation systems in the last eleven years",
+      "start": 7114,
+      "end": 7192
+    },
+    {
+      "fact": "EVERSHAG 突然问 KRAY 是不是在和 KANDINSKY 约会，KRAY 承认是。",
+      "anchor": "“You’re going out with KANDINSKY aren’t you?” EVERSHAG said out of the blue.\n\n“Yes, I am,” said KRAY, surprised at the question.",
+      "start": 7550,
+      "end": 7678
+    }
+  ]
+}

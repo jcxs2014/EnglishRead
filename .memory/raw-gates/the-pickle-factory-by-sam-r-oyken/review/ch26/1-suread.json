@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch26",
+  "text": "ch26_in_which_the_president_of_the_united_states_of_america_pulls_the_trigger_on_project_greek_island_2_0.txt",
+  "facts": [
+    {
+      "fact": "中文：美国总统在椭圆形办公室说，自己时间不多，十五分钟后要见 Bono。",
+      "anchor": "I’ve got Bono in fifteen minutes.",
+      "start": 249,
+      "end": 282
+    },
+    {
+      "fact": "中文：西弗吉尼亚州众议员、众议院常设情报特别委员会主席 Wayne D. Skinner 向总统介绍来自 Langley 的 Howard BUTTONFLY。",
+      "anchor": "Congressman Wayne D. Skinner of West Virginia, Chairman of the House Permanent Select Committee on Intelligence",
+      "start": 326,
+      "end": 437
+    },
+    {
+      "fact": "中文：BUTTONFLY 说自己的名字是 1963 年进中情局时给的假名，并说自己确有部分苏格兰-爱尔兰血统。",
+      "anchor": "It’s one hundred percent CIA. Just a pseudonym, a phony made-up name they gave me when I started at the Agency back in ’63.",
+      "start": 633,
+      "end": 756
+    },
+    {
+      "fact": "中文：BUTTONFLY 说录音是时任站长的官员寄给他的，那人在爆炸后开枪自杀，是他的朋友。",
+      "anchor": "It was sent to me by the officer who was Chief of Station at the time of the bombing. The one who shot himself. He was a friend.",
+      "start": 1366,
+      "end": 1494
+    },
+    {
+      "fact": "中文：BUTTONFLY 播放取自 COS ARISTOTLE 圆珠笔内 SD 微芯片的录音，BLUEBELL 的声音先开口。",
+      "anchor": "BUTTONFLY pressed PLAY on the recording taken from the SD microchip that had been in COS ARISTOTLE’s ballpoint pen",
+      "start": 1584,
+      "end": 1698
+    },
+    {
+      "fact": "中文：录音中 BLUEBELL 拒绝先对特工做更深入背景审查，自称是中情局副局长兼人力资源主管。",
+      "anchor": "I may be the Associate Deputy Director a the United States Central Intelligence Agency, but I’m also the Chief a Human Resources fer Pete’s sake",
+      "start": 2632,
+      "end": 2776
+    },
+    {
+      "fact": "中文：总统宣布启动 Project Greek Island 2.0，所有资金直接来自他的办公室且不入账。",
+      "anchor": "I’m pulling the trigger on Project Greek Island 2.0, before the Dark Sky Days come and it’s too late. All funding will come directly from my office, unvouchered.",
+      "start": 3949,
+      "end": 4110
+    },
+    {
+      "fact": "中文：总统签署桌上的秘密行动授权书（Covert Action Finding），助手拿去复印，他随后给 Skinner 和 BUTTONFLY 各一份。",
+      "anchor": "He signed the Covert Action Finding sitting on his desk.",
+      "start": 4247,
+      "end": 4303
+    }
+  ]
+}

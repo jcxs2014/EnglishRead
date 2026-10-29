@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch21",
+  "text": "ch21_in_which_marla_woos_eddie.txt",
+  "facts": [
+    {
+      "fact": "尼克与维罗妮卡晚饭后坐在他公寓的沙发上，两人都没吃多少。",
+      "anchor": "The two of them were sitting on the sofa in his apartment after dinner. Neither had eaten much.",
+      "start": 82,
+      "end": 177
+    },
+    {
+      "fact": "尼克在“地狱”服役时与被谋杀的前海豹突击队员、总统的朋友汤姆成了朋友。",
+      "anchor": "Nick had become friends with the murdered ex-SEAL, Tom, the friend of the President, when they had served together over in Hell.",
+      "start": 279,
+      "end": 407
+    },
+    {
+      "fact": "埃迪是西弗吉尼亚的温和男人，开着银色双后轮皮卡，因每天早上六点十五分到而总能停同一车位，且不锁车、钥匙留在点火器上。",
+      "anchor": "Eddie was this sweet, gentle West Virginia man-boy with a macho pickup truck, a big silver dualie, and he was always able to park it in the same spot because he got in at six fifteen every morning. Eddie trusted everybody, so he left the truck unlocked with the keys in the ignition.",
+      "start": 1918,
+      "end": 2201
+    },
+    {
+      "fact": "玛拉会在随机日子把双后轮皮卡开走停到停车场另一头，并在办公室留下线索指向写着车位号的纸条。",
+      "anchor": "Marla would go out, start the dualie, drive away, and re-park it on the far side of the lot, behind a thousand other cars. Then she’d leave a trail of clues in the office for Eddie to follow, leading to a piece of paper with the number of the parking space written on it.",
+      "start": 2319,
+      "end": 2590
+    },
+    {
+      "fact": "玛拉把一只干瘪的死青蛙塞在埃迪雨刷下，两周后下雨时他才发现玻璃上拖出大污痕。",
+      "anchor": "It was two weeks before he noticed, during a rainstorm, when it started leaving a big ugly smear on the glass.",
+      "start": 2774,
+      "end": 2884
+    },
+    {
+      "fact": "玛拉找两个人把埃迪的割草机从皮卡货厢搬进驾驶室，埃迪说不记得自己放过。",
+      "anchor": "Marla got two guys to help her move Eddie’s lawnmower from the dualie’s truck bed into the cab. Eddie told everybody he couldn’t remember having put it there.",
+      "start": 3072,
+      "end": 3230
+    },
+    {
+      "fact": "玛拉九月告诉维罗妮卡，她和埃迪已偷偷交往六个月，并希望他求婚。",
+      "anchor": "She told me back in September that they had been going out on the sly for six months",
+      "start": 3412,
+      "end": 3496
+    },
+    {
+      "fact": "当天早上埃迪把买给玛拉、等她回来时用的戒指拿给维罗妮卡看。",
+      "anchor": "This morning Eddie showed me the ring he had bought her, for when she came back.",
+      "start": 3653,
+      "end": 3733
+    }
+  ]
+}

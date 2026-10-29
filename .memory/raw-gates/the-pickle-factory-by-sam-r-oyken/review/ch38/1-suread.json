@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch38",
+  "text": "ch38_in_which_kray_sits_on_a_pyramid.txt",
+  "facts": [
+    {
+      "fact": "KRAY 在开罗 Le Méridien 的 Café St. Germain 带着黄色文件夹坐了一个半小时等 VESUVIUS，边等边喝咖啡，对方始终没露面。",
+      "anchor": "he sat there with his yellow file folder for a good hour and a half, waiting and sipping coffee, but no dice",
+      "start": 485,
+      "end": 593
+    },
+    {
+      "fact": "服务员给 KRAY 端上 Gorgonzola 三明治配腌黄瓜，以及一杯 2005 年 Jacques-Frédéric Mugnier 的 Nuits-Saint-Georges 勃艮第酒。",
+      "anchor": "a very tasty Gorgonzola sandwich paired with a pickle and a fine glass of Burgundy, the 2005 Nuits-Saint-Georges by Jacques-Frédéric Mugnier",
+      "start": 670,
+      "end": 810
+    },
+    {
+      "fact": "VESUVIUS 在赴会途中以为发现有人跟踪，于是中止了会面；他确实被跟踪了。",
+      "anchor": "he thought he spotted surveillance following him, so he aborted. And he was right.",
+      "start": 1745,
+      "end": 1827
+    },
+    {
+      "fact": "VESUVIUS 已在亚历山大港花四个月发展一名朝鲜线人，带他钓鱼、帮他练网球反手。",
+      "anchor": "VESUVIUS had been developing a North Korean up in Alexandria for four months, taking him fishing, helping him with his tennis backhand",
+      "start": 2261,
+      "end": 2395
+    },
+    {
+      "fact": "KRAY 在露天博物馆把带荷鲁斯象形文字的灰色花岗岩碎片塞进袜子，然后系好鞋带。",
+      "anchor": "then slipped the artifact into his sock and finished tying his shoelace",
+      "start": 3879,
+      "end": 3950
+    },
+    {
+      "fact": "KRAY 给门卡拉金字塔（三座大金字塔中最小的一座）脚下的一名埃及士兵一把五十皮亚斯特硬币，让他转过头去。",
+      "anchor": "KRAY slipped a handful of fifty-piastre coins to an Egyptian soldier standing at the foot of the Pyramid of Menkaure, the smallest of the three Great Pyramids",
+      "start": 4981,
+      "end": 5139
+    },
+    {
+      "fact": "KRAY 在塔顶想着下方平原上的 8276 万埃及人，又掏出袜中的石头，凝视上面 3000 年历史的荷鲁斯像。",
+      "anchor": "the 82.76 million Egyptians roaming around on the flatlands fathoms below him. He reached down, withdrew a hieroglyph-bearing stone from his sock, and gazed at its 3,000-year-old image of Horus",
+      "start": 5626,
+      "end": 5819
+    },
+    {
+      "fact": "埃及人发动革命，把执政三十年的穆巴拉克赶下台。",
+      "anchor": "give the dynastically minded Mohammad Hosni Mubarak the old yo heave-ho after thirty years of pharaonic rule",
+      "start": 7568,
+      "end": 7676
+    }
+  ]
+}

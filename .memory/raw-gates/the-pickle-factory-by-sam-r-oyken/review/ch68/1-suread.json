@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch68",
+  "text": "ch68_in_which_kray_studies_the_declaration_of_independence.txt",
+  "facts": [
+    {
+      "fact": "KRAY提前九十分钟抵达国家档案馆，排在五一节游客的长队里。",
+      "anchor": "KRAY arrived at the National Archives ninety minutes early.",
+      "start": 59,
+      "end": 118
+    },
+    {
+      "fact": "BUTTONFLY承认是自己安排KRAY被解雇：他请Skinner主席去让Wacker去让局长这么做。",
+      "anchor": "Because I asked Chairman Skinner to ask Wacker to ask the Director.",
+      "start": 2172,
+      "end": 2239
+    },
+    {
+      "fact": "BUTTONFLY提到的签约奖金为税后20万美元（200k net），并按税负上调。",
+      "anchor": "That’s 200k net, grossed up for taxes.",
+      "start": 3915,
+      "end": 3953
+    },
+    {
+      "fact": "当时新泡菜厂只有KRAY和BUTTONFLY两人，加上美国总统、众议院常设情报特别委员会主席和D. B. Cooper共五人。",
+      "anchor": "Two for now. Not counting the President of the United States of America, the Chairman of the House Permanent Select Committee on Intelligence, and D. B. Cooper. Add them, that makes five.",
+      "start": 5489,
+      "end": 5676
+    },
+    {
+      "fact": "BUTTONFLY称CIA有九十九万九千名人员，不含食堂员工。",
+      "anchor": "Nine hundred ninety-nine thousand souls",
+      "start": 7768,
+      "end": 7807
+    },
+    {
+      "fact": "BUTTONFLY家里还有两块同样的表；A-12项目以此表代替嘉奖证书发放，他共拿到三块。",
+      "anchor": "I have two more just like it back home. They handed those out on the A-12 program in place of certificates of appreciation. I got three.",
+      "start": 11527,
+      "end": 11663
+    },
+    {
+      "fact": "新址是西弗吉尼亚州White Sulphur Springs的Greenbrier度假村地下、50年代为国会建的核掩体。",
+      "anchor": "Remember that nuclear bomb shelter they built for the Congress back in the ’50s under the Greenbrier Resort in White Sulphur Springs, West Virginia?",
+      "start": 17263,
+      "end": 17411
+    },
+    {
+      "fact": "参议员Robert Byrd把《独立宣言》原件连同《宪法》和《权利法案》运到Morgantown，档案馆展出的只是副本。",
+      "anchor": "Senator Robert Byrd grabbed off the original when he annexed the National Archives and shipped the Declaration of Independence over to Morgantown, along with the Constitution of the United States and the Bill of Rights.",
+      "start": 19088,
+      "end": 19307
+    }
+  ]
+}

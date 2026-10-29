@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch41",
+  "text": "ch41_in_which_the_bus_breaks_down.txt",
+  "facts": [
+    {
+      "fact": "KRAY乘坐的巴士从印度瓦拉纳西开往尼泊尔加德满都，在连续十一个小时的爬升路程中走了很远才抛锚。",
+      "anchor": "it made it pretty far along its journey from Varanasi, India, to Kathmandu, Nepal, through eleven grinding hours of upward progress",
+      "start": 78,
+      "end": 209
+    },
+    {
+      "fact": "一名最多六岁、可能只有三英尺高的卖鸡蛋小女孩拦住KRAY，逼他买硬煮蛋。",
+      "anchor": "And she was tiny, six years old at most, and maybe three feet tall, if that.",
+      "start": 1542,
+      "end": 1618
+    },
+    {
+      "fact": "在路边等了三个小时后，KRAY启动B计划：从车后取包，沿路走五十米，伸出拇指示意搭车。",
+      "anchor": "After three hours of hanging around, though, he began to sense no quick fix was in the works. So he went to Plan B. Plan B was to retrieve his bag from the back of the bus, walk fifty meters down the road, and stick out his thumb.",
+      "start": 4378,
+      "end": 4608
+    },
+    {
+      "fact": "搭他的司机说自己上过艾奥瓦州的Luther College。",
+      "anchor": "I went to Luther College. It’s in Iowa.",
+      "start": 5528,
+      "end": 5567
+    },
+    {
+      "fact": "司机名叫Paras Bir Bikram Shah Dev，是尼泊尔前王储。",
+      "anchor": "Turns out the guy’s name was Paras Bir Bikram Shah Dev. And he was the former Crown Prince of Nepal.",
+      "start": 5767,
+      "end": 5867
+    },
+    {
+      "fact": "Paras被Ricola润喉糖卡住气管、车冲向陡坡时，KRAY一手抓方向盘，另一手猛击他腹部，三下才把糖打出来。",
+      "anchor": "It took three hard jabs, but finally the lozenge flew out of Paras Shah’s mouth and onto the dashboard.",
+      "start": 6827,
+      "end": 6930
+    },
+    {
+      "fact": "两天后下午6点整，KRAY带着黄色文件夹到加德满都的Rum Doodle酒吧，与BUTTONFLY的加德满都联系人OVERFLOW接头。",
+      "anchor": "Two days later, KRAY showed up at Kathmandu’s famed Rum Doodle Bar with his yellow file folder at 6:00 p.m. sharp, as he had agreed with Barry Z. OVERFLOW, BUTTONFLY’s Kathmandu contact.",
+      "start": 7973,
+      "end": 8159
+    },
+    {
+      "fact": "OVERFLOW说妻子七分钟前开始分娩，这是他们的第一个孩子。",
+      "anchor": "My wife went into labor seven minutes ago. Our first.",
+      "start": 9940,
+      "end": 9993
+    }
+  ]
+}

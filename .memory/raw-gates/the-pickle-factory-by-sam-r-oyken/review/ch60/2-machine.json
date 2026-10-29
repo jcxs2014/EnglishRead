@@ -1,0 +1,160 @@
+{
+  "chapter": 60,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch60 journal entry no 53.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch60_journal_entry_no_53.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I could share with you the sad tale of Acoustic Kitty — CIA’s surgically altered cat — but I might tear up, B’wana. So y",
+          "ok": true,
+          "pos": 81
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Anyway, that’s all I’m gonna to say about that",
+          "ok": true,
+          "pos": 247
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "P.S. Birds aren’t real",
+          "ok": true,
+          "pos": 293
+        }
+      ],
+      "words": 4
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 34,
+        "为什么这样写": 106,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.39,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 26,
+        "为什么这样写": 87,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.53,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 24,
+        "为什么这样写": 87,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.51,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.91
+      }
+    }
+  ],
+  "form": {
+    "h1": "57. Journal Entry No. 53",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 3,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 3,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 63,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

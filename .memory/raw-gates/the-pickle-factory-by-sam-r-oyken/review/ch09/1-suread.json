@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch09",
+  "text": "ch09_in_which_kandinsky_calls_a_hail_mary.txt",
+  "facts": [
+    {
+      "fact": "KRAY 的真名是 Nick；他说那东西是他从 HECKFETTER 的办公室拿出来的。",
+      "anchor": "said KRAY, whose true name was Nick. “I plucked this out of his office.”",
+      "start": 379,
+      "end": 451
+    },
+    {
+      "fact": "维罗妮卡的真名是 Veronica，她的化名（pseudonym）是 Candie X. KANDINSKY。",
+      "anchor": "Veronica was her true name. Her pseudonym was Candie X. KANDINSKY.",
+      "start": 153,
+      "end": 219
+    },
+    {
+      "fact": "两人以那个姿势躺了半个小时，听着雨打窗玻璃；当时只是傍晚 5:30，外面已经黑了。",
+      "anchor": "They lay there for half an hour like that, listening to the rain hitting the windowpane. Even though it was only 5:30 in the evening, it was already dark out.",
+      "start": 1662,
+      "end": 1820
+    },
+    {
+      "fact": "Veronica 刚结束在丹麦哥本哈根的 TDY 出差，期间完成了她第一个 agent、代号 MCFASTRIDE/4 的丹麦央行人士的招募。",
+      "anchor": "Veronica had just returned from a TDY to Copenhagen, Denmark, during which she had finalized the recruitment of her first agent, MCFASTRIDE/4, this Danish central banking guy.",
+      "start": 6630,
+      "end": 6805
+    },
+    {
+      "fact": "ZOTZ 是 Veronica 在 CIA 最好的朋友，她是来自南达科他州苏福尔斯的金发女郎。",
+      "anchor": "ZOTZ, an attractive blonde from Sioux Falls, South Dakota, was Veronica’s best friend at CIA.",
+      "start": 7346,
+      "end": 7439
+    },
+    {
+      "fact": "那名培训负责人摘下自己的 Rolex 戴到 ZOTZ 手腕上说是礼物，抓住她的手不放，并用 penises 和 vaginas 这两个词不停地讲了四十五分钟。",
+      "anchor": "He takes off his Rolex and puts it on her wrist, saying it’s a present. Then he grabs her hand and won’t let go, and he starts talking about penises and vaginas, using those words, and doesn’t let up for forty-five minutes.",
+      "start": 9107,
+      "end": 9330
+    },
+    {
+      "fact": "ZOTZ 吐了他一身，下车打的回到基地，并留下了那只后来证明是假货的 Rolie。",
+      "anchor": "She threw up all over him, got out of the car, and took a taxi back to Base. And she kept the Rolie, which of course turned out to be a fake.",
+      "start": 10019,
+      "end": 10160
+    },
+    {
+      "fact": "那份 CIA 真名名单没有发到北弗吉尼亚，而是发到了蒙特卡洛北侧一间政府办公室；一周后一个 DHL 包裹送到局长 Panetta 手上，里面有真名名单副本和 Albert 亲王本人的手写便条。",
+      "anchor": "the fax didn’t go to Northern Virginia. It went to a toney government office on the north side of Monte Carlo. A week later a DHL package arrived for Director Panetta with a copy of the list of true names and a handwritten note from Prince Albert himself",
+      "start": 5564,
+      "end": 5818
+    }
+  ]
+}

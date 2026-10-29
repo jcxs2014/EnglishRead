@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch57",
+  "text": "ch57_in_which_kray_sets_his_agency_free.txt",
+  "facts": [
+    {
+      "fact": "KRAY 对 KANDINSKY 说距会面窗口开启还有一分钟、马上就到时间，KANDINSKY 提醒他若不确定可以爽约不来。",
+      "anchor": "One minute to the start of the window for the meeting,” said KRAY. “Almost go time.”",
+      "start": 41,
+      "end": 125
+    },
+    {
+      "fact": "KRAY 说 EVERSHAG 做对了，他欠 Marla、Tom、Mahbod 以及所有其他人的。",
+      "anchor": "EVERSHAG got it right,” he said. “I owe this to Marla. And Tom. And Mahbod. And all the others.",
+      "start": 737,
+      "end": 832
+    },
+    {
+      "fact": "两人在沉默中坐了半分钟，随后 KANDINSKY 说 KRAY 了不起并说爱他，KRAY 回答也爱她，爱到觉得她可能偷走了他的心。",
+      "anchor": "They sat there for half a minute in silence.\n\n“You’re amazing,” KANDINSKY said finally. “I love you.”\n\n“I love you back,” said KRAY. “So much so that I’m beginning to think you may have stolen my heart.”",
+      "start": 835,
+      "end": 1038
+    },
+    {
+      "fact": "KRAY 把信封推给 Cooper，说这能证明 GOOWIKI 是骗局、Wacker 一直在对国会撒谎，并说 Wacker 的人力资源主管 Evita P. EVERSHAG 主动提供了它，她比所有人都勇敢、需要保护她。",
+      "anchor": "This is what you need to prove that GOOWIKI is a sham and that Wacker has been lying to Congress. Wacker’s HR Chief, Evita P. EVERSHAG, reached out with it. She’s braver than any of us — we need to protect her.",
+      "start": 1340,
+      "end": 1550
+    },
+    {
+      "fact": "KRAY 用他和 Cooper 为紧急联络事先设定的协议触发了这次会面，Cooper 完全按协议行事。",
+      "anchor": "KRAY had triggered the meeting using the protocol he and Cooper had set up in case of an emergency need to communicate. Cooper had followed the protocol to a T.",
+      "start": 1614,
+      "end": 1774
+    },
+    {
+      "fact": "KRAY 告诉 Cooper 文件标着 TOP SECRET，让他到自己的 SCIF 里再打开。",
+      "anchor": "It’s marked TOP SECRET — open it in your SCIF.",
+      "start": 1930,
+      "end": 1976
+    },
+    {
+      "fact": "KRAY 说他们打算把 GOOWIKI 的钱停在基础经费里保住饭碗，再转拨给他们称为‘Operation Kitchen Appliance’的项目——一个国会未批准的活动。",
+      "anchor": "Park it in base funds to protect their rice bowl,” said KRAY, “then reallocate it to something they’re calling ‘Operation Kitchen Appliance,’ an activity not approved by Congress.",
+      "start": 2152,
+      "end": 2331
+    },
+    {
+      "fact": "回 Jeep 的路上，KRAY 提醒自己要把 EVERSHAG 的银色开信刀还回去。",
+      "anchor": "On his way back to the Jeep, KRAY reminded himself he needed to return EVERSHAG’s silver letter opener.",
+      "start": 3545,
+      "end": 3648
+    }
+  ]
+}

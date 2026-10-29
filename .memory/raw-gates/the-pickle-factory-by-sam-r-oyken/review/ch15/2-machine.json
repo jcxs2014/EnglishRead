@@ -1,0 +1,300 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch15 in which more goowiki money gets allocated.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch15_in_which_more_goowiki_money_gets_allocated.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Oh KRAY, there you are,” said Wacker, standing next to his desk. “I want you to meet Helga Q. FLYSPECK. FLYSPECK, Andre",
+          "ok": true,
+          "pos": 46
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "KRAY shook hands with a plump bottle blonde who stood just about five foot three and appeared to be right around fifty-n",
+          "ok": true,
+          "pos": 173
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“So the thing a lot of people overlook when a plus-up in the front-line ranks happens is the need for more managers,” sh",
+          "ok": true,
+          "pos": 1329
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Oh sure, they may hit pay dirt every once in a while if left all alone to their own devices, but our biweekly reviews h",
+          "ok": true,
+          "pos": 2264
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“FLYSPECK thinks five hundred new managers, one for every two GOOWIKI NOCs, ought to take care of the problem. I’ve inst",
+          "ok": true,
+          "pos": 3514
+        },
+        {
+          "text": "Also, we’re gonna need a bigger conference room and more gold bars.”",
+          "ok": true,
+          "pos": 3863
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“She’s the single best example I know of the classic CIA Empire Builder,” he said. “No matter the situation, she walks i",
+          "ok": true,
+          "pos": 5631
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“So what do I do?” said KRAY. “Wacker shoved her right down in the middle of everything I’ve been working on. Turned it ",
+          "ok": true,
+          "pos": 6607
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“The best thing for you to do is work around it. That’s the number two rule to keep in mind at Headquarters. And the num",
+          "ok": true,
+          "pos": 8380
+        }
+      ],
+      "words": 33
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.43,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.35
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.93
+      }
+    }
+  ],
+  "form": {
+    "h1": "12. In Which More GOOWIKI Money Gets Allocated",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1613,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

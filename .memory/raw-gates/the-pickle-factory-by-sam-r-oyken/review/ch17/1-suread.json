@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch17",
+  "text": "ch17_journal_entry_no_5.txt",
+  "facts": [
+    {
+      "fact": "中文：作者称中情局发言人的差事就是先知道真相、然后说相反的话，这份工作每年58万美元。",
+      "anchor": "it is to know the truth, then say the opposite. Pretty easy work for $580,000 per annum if you ask me.",
+      "start": 1677,
+      "end": 1779
+    },
+    {
+      "fact": "中文：作者称全世界其他秘密情报机构（英国MI6、以色列Mossad、俄罗斯SVR、蒙古的秘密情报机构）都没有发言人。",
+      "anchor": "Take Britain’s MI6, for example: No spokesman. Israel’s Mossad: No spokesman. Russia’s SVR: No spokesman.",
+      "start": 3187,
+      "end": 3292
+    },
+    {
+      "fact": "中文：作者称中情局忘掉“分隔原则”（compartmentation）、因而忘掉如何做秘密情报机构的确切日期是1996年12月17日星期二，也正是外界得知即将离任的中情局局长John Deutch（布鲁塞尔）多年违反分隔基本原则的那一天。",
+      "anchor": "the exact day and date on which CIA forgot what “compartmentation” meant, and thus forgot how to be a secret foreign intelligence organization, was Tuesday, December 17th, 1996.",
+      "start": 4902,
+      "end": 5079
+    },
+    {
+      "fact": "中文：Deutch在七楼中情局办公室的苹果台式机上，用存储卡攒了一大堆TOP SECRET文件。",
+      "anchor": "Deutch had compiled this huge stash of TOP SECRET documents on memory cards attached to an Apple desktop computer in his CIA office up there on the Seventh Floor",
+      "start": 5365,
+      "end": 5526
+    },
+    {
+      "fact": "中文：Deutch把塞满机密的存储卡放在衬衫口袋里带回家，插进一台联网AOL的私人非涉密Mac，那台电脑被用来浏览色情网站并与身在法国的俄罗斯人通信。",
+      "anchor": "he also took those secret-stuffed memory cards home in his shirt pocket and stuck them into a personal, unclassified Mac connected to AOL",
+      "start": 5538,
+      "end": 5675
+    },
+    {
+      "fact": "中文：据解密的中情局监察长报告，前MIT教授Deutch是能为自己Mac写代码的电脑“超级用户”，最终他获得总统赦免。",
+      "anchor": "brainiac former MIT professor John Deutch was a computer “super-user” who could even write code for his Mac",
+      "start": 6614,
+      "end": 6721
+    },
+    {
+      "fact": "中文：作者称众人看到Bill Clinton对Deutch的赦免后，“所有赌注都取消了”。",
+      "anchor": "when everyone else saw Bill Clinton’s unpardonable pardoning of one of the most blatant security violations of all time, why all bets were off",
+      "start": 7006,
+      "end": 7148
+    },
+    {
+      "fact": "中文：作者称中情局的分隔原则彻底飞出窗外，而那恰与中情局聘用其首位发言人同时发生。",
+      "anchor": "Which coincided, curiously, with the hiring of CIA’s very first spokesman.",
+      "start": 7566,
+      "end": 7640
+    }
+  ]
+}

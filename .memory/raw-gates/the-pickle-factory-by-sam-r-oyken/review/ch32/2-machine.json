@@ -1,0 +1,349 @@
+{
+  "chapter": 32,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch32 journal entry no 17.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch32_journal_entry_no_17.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Hold onto your hat though, friend, because it gets better. Any idea what Funny Name Owsley got from The Pseudo Guy when ",
+          "ok": true,
+          "pos": 309
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "He fooled Mountain Girl and Wavy Gravy. Heck, he fooled all the Merry Pranksters, plus Jerry Garcia, the other members o",
+          "ok": true,
+          "pos": 875
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "You see, Owsley’s CIA cover was in specialty chemicals. But not all specialty chemicals, mind you, because Dow Chemical,",
+          "ok": true,
+          "pos": 1269
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Still, I have it on the very best authority that The Dancing Bear was the best in town, because Donald Fagen and the lat",
+          "ok": true,
+          "pos": 2164
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "CIA’s covert mind-control program was begun before there even was a CIA, by none other than General William “Wild Bill” ",
+          "ok": true,
+          "pos": 5981
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Oh, things would start out fine, with the captured Nazis opening up quickly and making giggly comments about how silly t",
+          "ok": true,
+          "pos": 7165
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "McCone pulled Owsley aside just after he had signed on and asked him whether he was a patriot. Not wanting to be fired, ",
+          "ok": true,
+          "pos": 9362
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Just for your information, CIA records reveal that between 1965 and 1967 he fabricated and dispensed over four and a hal",
+          "ok": true,
+          "pos": 11484
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "It was while he was hanging out and paying the Grateful Dead’s rent that Owsley, tripping on his own product, came up wi",
+          "ok": true,
+          "pos": 13145
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "So as to protect his cover, Owsley got special permission from the Director to keep the pay he earned as Sound Man to th",
+          "ok": true,
+          "pos": 13992
+        }
+      ],
+      "words": 48
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.43,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.23,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.21,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.39,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.6
+      }
+    }
+  ],
+  "form": {
+    "h1": "29. Journal Entry No. 17",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3106,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": "块数 10 偏离本书常见区间 3–9（本书 69 章中位 6、最高 12（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch60",
+  "text": "ch60_journal_entry_no_53.txt",
+  "facts": [
+    {
+      "fact": "中文：叙述者说本可讲 Acoustic Kitty（CIA 手术改造的猫）的悲惨故事，但怕自己会哭，让读者自己去 Google。",
+      "anchor": "I could share with you the sad tale of Acoustic Kitty — CIA’s surgically altered cat — but I might tear up, B’wana. So you’d better go and Google that one for yourself.",
+      "start": 84,
+      "end": 252
+    },
+    {
+      "fact": "中文：本章标题是《In Which I Share With You The Sad Tale of Acoustic Kitty》，点明要分享 Acoustic Kitty 的悲惨故事。",
+      "anchor": "In Which I Share With You The Sad Tale of Acoustic Kitty",
+      "start": 26,
+      "end": 82
+    },
+    {
+      "fact": "中文：叙述者说关于那件事他就只说这么多。",
+      "anchor": "Anyway, that’s all I’m gonna to say about that.",
+      "start": 254,
+      "end": 301
+    },
+    {
+      "fact": "中文：附言称鸟不是真的。",
+      "anchor": "P.S. Birds aren’t real.",
+      "start": 303,
+      "end": 326
+    },
+    {
+      "fact": "中文：这是第 53 号日志。",
+      "anchor": "Journal Entry No. 53",
+      "start": 4,
+      "end": 24
+    }
+  ]
+}

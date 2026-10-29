@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch52",
+  "text": "ch52_journal_entry_no_37.txt",
+  "facts": [
+    {
+      "fact": "科尔比退休后翻覆他那条本不该翻的独木舟，溺死在波托马克河。",
+      "anchor": "managed to tip over his untippable canoe and drown in the Potomac River",
+      "start": 916,
+      "end": 987
+    },
+    {
+      "fact": "伍德沃德于1987年1月15日化装成修女，进入凯西的病房。",
+      "anchor": "Woodward did manage, on January 15th, 1987, to enter Casey’s hospital room.",
+      "start": 4327,
+      "end": 4402
+    },
+    {
+      "fact": "凯西误以为伍德沃德问的是休·海夫纳，于是回答“Yes”。",
+      "anchor": "Casey says “Yes,” because he honestly believes Hugh knew.",
+      "start": 5466,
+      "end": 5523
+    },
+    {
+      "fact": "中情局官员威廉·哈维提出主意：诱使轻信的俄国人吃得太多、胖到无法离家去打仗。",
+      "anchor": "this really fat character called William Harvey, hit upon the idea of tricking those gullible Russians into eating so much and becoming so large they literally would be unable to leave home",
+      "start": 6705,
+      "end": 6894
+    },
+    {
+      "fact": "莫斯科站最终招募到4765家俄国夫妻杂货店。",
+      "anchor": "They eventually wound up bringing on board 4,765",
+      "start": 8984,
+      "end": 9032
+    },
+    {
+      "fact": "行动日被定在1977年1月21日。",
+      "anchor": "D-Day was set for January 21st, 1977.",
+      "start": 9129,
+      "end": 9166
+    },
+    {
+      "fact": "卡特在1977年1月20日上任第一天取消了该计划。",
+      "anchor": "On his first day in office, January 20th, 1977, President Jimmy Carter cancelled the program.",
+      "start": 9168,
+      "end": 9261
+    },
+    {
+      "fact": "该计划此前已花掉五十五亿美元。",
+      "anchor": "on which five and a half billion dollars had already been spent",
+      "start": 9366,
+      "end": 9429
+    }
+  ]
+}

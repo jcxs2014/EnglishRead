@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch50",
+  "text": "ch50_in_which_kray_fails_to_spot_surveillance.txt",
+  "facts": [
+    {
+      "fact": "中文：据沃克的笔记，NOC 安德烈·B·克莱从环球旅行回来后，立即向 D. B. 库珀发送了接头计划；计划要求在弗吉尼亚州阿灵顿的 Comfort Inn Ballston 停车场接人。",
+      "anchor": "NOC Andre B. KRAY came back from his around-the-world trip and promptly transmitted his commo plan to one D. B. Cooper. The plan called for a car pickup at the Comfort Inn Ballston in Arlington, Virginia.",
+      "start": 82,
+      "end": 286
+    },
+    {
+      "fact": "中文：库珀于上午 8:00 准时开着斯金纳那辆旧破水星车抵达，车牌是西弗吉尼亚州“CNT SPEL”；接上克莱后右转上北格里布路，再右转上东行的 66 号公路，朝西奥多·罗斯福大桥和华盛顿特区驶去。",
+      "anchor": "Cooper showed up on time at 8:00 a.m. in Skinner’s old beater Mercury with the “CNT SPEL” West Virginia plates. After picking KRAY up, Cooper turned right onto North Glebe Road and immediately to the right again onto Route 66 going east. Cooper and KRAY headed toward the Theodore Roosevelt Bridge and Washington, D.C.",
+      "start": 755,
+      "end": 1073
+    },
+    {
+      "fact": "中文：克莱提议若需后续会面就打给他，地点用国会山那家星巴克，照老规矩。",
+      "anchor": "It’ll be that Starbucks we used on Capitol Hill. Same drill.",
+      "start": 1534,
+      "end": 1594
+    },
+    {
+      "fact": "中文：克莱说他打听到，沃克声称已部署的那些人没有一个被听说过；他在六个不同城市问过。",
+      "anchor": "What I found out was nobody has heard of any of the guys Wacker claims to have deployed. I was able to ask in six different cities.",
+      "start": 2214,
+      "end": 2345
+    },
+    {
+      "fact": "中文：斯金纳让克莱叫他韦恩，并称克莱为马塞尔（化名关系）。",
+      "anchor": "Call me Wayne, Marcel,” said Skinner. “Jest Wayne.",
+      "start": 2133,
+      "end": 2183
+    },
+    {
+      "fact": "中文：克莱交出带来的黑色背包，说是退还库珀那二十万美元；沃克很够意思地付了他的路费。",
+      "anchor": "He handed over the black backpack he’d brought with him.\n\n“That’s a refund of your two hundred grand,” said KRAY. “Wacker was kind enough to pay my way.",
+      "start": 4487,
+      "end": 4639
+    },
+    {
+      "fact": "中文：克莱在 JW 万豪酒店入口下车，穿过酒店地下通道到第 13 街与 F 街路口，再沿第 13 街向北走一个街区，从第 13 街与 G 街的地铁入口下去。",
+      "anchor": "He made his way through the corridors under the hotel to the opposite corner of the block before emerging at 13th and F Streets. Then he walked one block north on 13th and went down into the Metro entrance at 13th and G.",
+      "start": 5271,
+      "end": 5491
+    },
+    {
+      "fact": "中文：克莱确信自己很干净，却没发现尾随的 FBI 监视小组像一群狐狸般在身后散开。",
+      "anchor": "KRAY was confident he was clean. He missed the FBI surveillance team following behind him like a skulk of foxes as they broke off.",
+      "start": 5493,
+      "end": 5623
+    }
+  ]
+}

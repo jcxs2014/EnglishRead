@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch63",
+  "text": "ch63_journal_entry_no_59.txt",
+  "facts": [
+    {
+      "fact": "CIA 里不可能被解雇。",
+      "anchor": "It was impossible to get fired at CIA.",
+      "start": 54,
+      "end": 92
+    },
+    {
+      "fact": "Rick Ames 至今仍在为 CIA 工作，秘密领着机构薪水（含加班费），等待被交换给俄方的那天。",
+      "anchor": "he still works for CIA",
+      "start": 1033,
+      "end": 1055
+    },
+    {
+      "fact": "Anna Chapman 在曼哈顿一家星巴克把她那台秘密的俄罗斯间谍笔记本电脑交给了一名她从未见过的俄罗斯特工。",
+      "anchor": "handed over her secret Russian spy laptop to some Russian operative she had never met before, at a Manhattan Starbucks",
+      "start": 1922,
+      "end": 2040
+    },
+    {
+      "fact": "那名俄罗斯特工其实是联邦调查局（Bureau）的美国特工。",
+      "anchor": "that Russian operative was actually an American operative from the Bureau",
+      "start": 2078,
+      "end": 2151
+    },
+    {
+      "fact": "他被 CIA 解雇成功的关键，是向机构上司提起平等就业机会（EEO）投诉。",
+      "anchor": "bringing an Equal Employment Opportunity complaint against his Agency bosses",
+      "start": 4599,
+      "end": 4675
+    },
+    {
+      "fact": "他们调出他全部工作记录，共 19,892 页，想找出可烧的材料。",
+      "anchor": "all 19,892 pages of it",
+      "start": 6460,
+      "end": 6482
+    },
+    {
+      "fact": "Shemp 于 2010 年 1 月 5 日签署那份三页备忘录，就在他几名勇敢下属被炸死六天之后。",
+      "anchor": "Shemp signed his memo on January 5th, 2010, just six days after several of his brave subordinates were blown to bits",
+      "start": 7799,
+      "end": 7915
+    },
+    {
+      "fact": "在管理层启动行动一年半后，这名惹麻烦的无名之辈终于被赶出机构。",
+      "anchor": "a year and a half after his Agency managers kicked off their effort, that troublemaking Nobody was finally booted out",
+      "start": 9010,
+      "end": 9127
+    }
+  ]
+}

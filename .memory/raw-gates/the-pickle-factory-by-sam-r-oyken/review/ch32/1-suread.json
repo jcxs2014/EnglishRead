@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch32",
+  "text": "ch32_journal_entry_no_17.txt",
+  "facts": [
+    {
+      "fact": "中文：Owsley 的真名是 Augustus Owsley Stanley III，绰号“The Dancing Bear”。",
+      "anchor": "his full true name was Augustus Owsley Stanley III. And his nickname was “The Dancing Bear.”",
+      "start": 213,
+      "end": 305
+    },
+    {
+      "fact": "中文：Owsley 于1963年11月12日（周二）28岁时入职 CIA，得到“Barrington Q. GRIZZLYBOTTOM”这个代号。",
+      "anchor": "he entered on duty with CIA back on Tuesday, November 12th, 1963, at age twenty-eight? “Barrington Q. GRIZZLYBOTTOM.”",
+      "start": 443,
+      "end": 560
+    },
+    {
+      "fact": "中文：二战期间 Donovan 将军领导的 OSS 在1942年开始寻找可用于被俘纳粹的“吐真剂”。",
+      "anchor": "General William “Wild Bill” Donovan himself, the Father and Leader of the Office of Strategic Services during the Second World War. It was 1942, see, and OSS was looking for a truth serum it could use on captured Nazis",
+      "start": 6147,
+      "end": 6365
+    },
+    {
+      "fact": "中文：Sandoz 实验室的 Albert Hoffman 与 Albert Stoll 于1943年在瑞士巴塞尔为 LSD 取得专利。",
+      "anchor": "Albert Hoffman and Albert Stoll of the Sandoz Laboratories had patented over there in Basel, Switzerland, back in 1943",
+      "start": 8213,
+      "end": 8331
+    },
+    {
+      "fact": "中文：McCone 局长当众开除 Owsley，随后又追上他，秘密重新聘用他。",
+      "anchor": "Director McCone fired him on the spot and made sure everybody within earshot heard it. Ashamed, Owsley walked out to the Green Lot in disgrace and got ready to drive off the CIA Headquarters compound for the last time.\n\nHe had just reached his chartreuse VW Bug when the Director caught up with him and offered to secretly rehire him",
+      "start": 9714,
+      "end": 10047
+    },
+    {
+      "fact": "中文：Owsley 在“The Green Factory”（弗吉尼亚街1647号）的浴室水槽里制造大批 LSD。",
+      "anchor": "Then he set about fabricating mass doses of LSD in a bathroom sink at “The Green Factory,” 1647 Virginia Street",
+      "start": 10893,
+      "end": 11004
+    },
+    {
+      "fact": "中文：1965至1967年间，Owsley 制造并分发了超过450万剂 LSD。",
+      "anchor": "between 1965 and 1967 he fabricated and dispensed over four and a half million doses of the stuff",
+      "start": 11655,
+      "end": 11752
+    },
+    {
+      "fact": "中文：历任 CIA 局长在“爱之夏”前秘密给 Owsley 连升四级，从 GS-2 升到 GS-6。",
+      "anchor": "successive CIA Directors secretly promoted him four times before the Summer of Love, all the way from GS-2 to GS-6",
+      "start": 12419,
+      "end": 12533
+    }
+  ]
+}

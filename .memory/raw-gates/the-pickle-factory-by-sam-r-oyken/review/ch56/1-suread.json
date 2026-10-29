@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch56",
+  "text": "ch56_journal_entry_no_43.txt",
+  "facts": [
+    {
+      "fact": "这是日志第 43 号（Journal Entry No. 43）。",
+      "anchor": "Journal Entry No. 43",
+      "start": 4,
+      "end": 24
+    },
+    {
+      "fact": "国家安全局（NSA）位于马里兰州米德堡（Fort Meade, Maryland 20755）；中情局（CIA）创建了自己的大规模国内 AI 监视项目。",
+      "anchor": "National Security Agency in Fort Meade, Maryland 20755, CIA created her very own stupid-big domestic AI spying program.",
+      "start": 197,
+      "end": 316
+    },
+    {
+      "fact": "该项目在内部被称为“Operation Kitchen Appliance”。",
+      "anchor": "known in-house as Operation Kitchen Appliance",
+      "start": 346,
+      "end": 391
+    },
+    {
+      "fact": "时任中情局局长为 David Petraeus。",
+      "anchor": "then-CIA Director David Petraeus",
+      "start": 863,
+      "end": 895
+    },
+    {
+      "fact": "涉及的家电包括洗碗机、微波炉、烤面包机、搅拌机和咖啡研磨机。",
+      "anchor": "dishwashers, microwaves, toaster ovens, blenders, and coffee grinders.",
+      "start": 1269,
+      "end": 1339
+    },
+    {
+      "fact": "还涉及“Track F”和国家科学基金会。",
+      "anchor": "plus “Track F” and the National Science Foundation.",
+      "start": 1533,
+      "end": 1584
+    },
+    {
+      "fact": "提到北卡罗来纳州伊丽莎白城的 Edward Snowden。",
+      "anchor": "Edward Snowden of Elizabeth City, North Carolina,",
+      "start": 1798,
+      "end": 1847
+    },
+    {
+      "fact": "该行动具备俄罗斯信息行动的全部典型特征。",
+      "anchor": "Operation Kitchen Appliance has all the classic earmarks of a Russian information operation.",
+      "start": 3810,
+      "end": 3902
+    }
+  ]
+}

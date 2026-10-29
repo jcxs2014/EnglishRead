@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch46",
+  "text": "ch46_journal_entry_no_31.txt",
+  "facts": [
+    {
+      "fact": "叙事者称1963年11月22日星期五在得克萨斯州达拉斯，肯尼迪总统被“unalived”（杀害）",
+      "anchor": "Dallas, Texas, on Friday, November 22nd, 1963, the day they unalived President John F. Kennedy",
+      "start": 401,
+      "end": 495
+    },
+    {
+      "fact": "1943年8月2日星期一，日军撞沉并击沉了肯尼迪的二战鱼雷艇，企图杀死他",
+      "anchor": "Monday, August 2nd, 1943, in an effort to kill you",
+      "start": 3038,
+      "end": 3088
+    },
+    {
+      "fact": "肯尼迪下令中情局把Uranus Voyager从Area 57搬到白宫并安装在泳池旁",
+      "anchor": "move the Uranus Voyager from Area 57 to the White House and install it next to his swimming pool",
+      "start": 6110,
+      "end": 6206
+    },
+    {
+      "fact": "肯尼迪于1963年11月12日下令要求查看中情局全部UFO档案",
+      "anchor": "November 12th, 1963, order demanding to see all of the",
+      "start": 6727,
+      "end": 6781
+    },
+    {
+      "fact": "中情局局长John McCone向MJ-12成员写备忘，称Lancer（肯尼迪特勤代号）的调查是我们不能允许的",
+      "anchor": "he immediately sat down and wrote out a pithy memo to his fellow MJ-12 group members, which stated, and I quote, “As you must know LANCER [Kennedy’s Secret Service code name] has made some inquiries regarding our activities which we cannot allow.”",
+      "start": 7162,
+      "end": 7409
+    },
+    {
+      "fact": "E. Howard Hunt、William “The Pear” Harvey和James Jesus Angleton骗Oswald说摄影机爱他的脸，让他以为去达拉斯是为好莱坞试镜",
+      "anchor": "had fed Oswald some absurd line about how much the camera loved his face",
+      "start": 7999,
+      "end": 8071
+    },
+    {
+      "fact": "中情局改装了Oswald的Carcano Model 91/38意大利步枪，使其发射特制子弹",
+      "anchor": "Carcano Model 91/38 Italian rifle to fire specially designed bullets",
+      "start": 8297,
+      "end": 8365
+    },
+    {
+      "fact": "业余枪手Jack Ruby误杀了另一个人，而不是Oswald",
+      "anchor": "shot that other guy instead of Oswald",
+      "start": 9221,
+      "end": 9258
+    }
+  ]
+}

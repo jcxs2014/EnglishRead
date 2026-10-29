@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch40",
+  "text": "ch40_in_which_we_learn_all_about_third_class_travel_on_an_indian_train.txt",
+  "facts": [
+    {
+      "fact": "BUTTONFLY的手下Ebenezer Z. MYPLACEORYOURS准时到新德里Le Méridien的eau de Monsoon餐厅与KRAY吃午饭，并带来一份相当体面的掩护身份提案。",
+      "anchor": "BUTTONFLY’s guy, Ebenezer Z. MYPLACEORYOURS, showed up for lunch at Le Méridien’s eau de Monsoon restaurant right on time and with a very respectable cover proposal.",
+      "start": 123,
+      "end": 288
+    },
+    {
+      "fact": "MYPLACEORYOURS因一位叙利亚发展官员临时邀他去钓鱼，躲过了1983年4月美国驻贝鲁特大使馆的爆炸。",
+      "anchor": "on account of a spur of the moment fishing invitation from a Syrian developmental, he had escaped being blown to bits in April 1983 at the U.S. Embassy in Beirut, Lebanon.",
+      "start": 587,
+      "end": 758
+    },
+    {
+      "fact": "KRAY又点了一杯酒，把LIFTSHITS Manhattan介绍给酒店老板；他自己不抽烟，却接过一支烟并用那支金打火机点着。",
+      "anchor": "He ordered another drink and then introduced the hotel owner to the joys of the LIFTSHITS Manhattan. Even though he didn’t smoke, KRAY accepted a cigarette and lit it with the lighter.",
+      "start": 1638,
+      "end": 1822
+    },
+    {
+      "fact": "KRAY在瓦拉纳西的酒店房间里丢下了KANDINSKY为他织的灰色V领突击队员毛衣。",
+      "anchor": "KRAY managed to leave behind in a hotel room the grey v-neck commando sweater KANDINSKY had knitted for him",
+      "start": 1959,
+      "end": 2066
+    },
+    {
+      "fact": "KRAY为给美国政府省点钱，坐三等车厢从新德里经阿格拉到瓦拉纳西。",
+      "anchor": "KRAY rode the train from New Delhi to Varanasi via Agra, traveling Third Class to save the U.S. government a little money.",
+      "start": 2796,
+      "end": 2918
+    },
+    {
+      "fact": "KRAY用仿制OSS短剑撬卡住的车窗，结果刀刃断成两截。",
+      "anchor": "whereupon the blade of his stiletto snaps in half.",
+      "start": 5000,
+      "end": 5050
+    },
+    {
+      "fact": "KRAY吃下那张家常薄饼后连续病了三整天，之后靠几天Cipro疗程和大量瓶装水才恢复。",
+      "anchor": "he was sick through three straight days of feeling like a human shipwreck.",
+      "start": 7761,
+      "end": 7835
+    },
+    {
+      "fact": "印度保安Sankar（Blazer Guy）要求取回打火机，KRAY从口袋掏出他在Nero酒吧改作自用的24K金打火机，耸耸肩交还。",
+      "anchor": "He reached into his pocket, pulled out the 24-carat gold lighter he had converted for his own use at the Nero bar, and handed it over, shrugging.",
+      "start": 12923,
+      "end": 13068
+    }
+  ]
+}

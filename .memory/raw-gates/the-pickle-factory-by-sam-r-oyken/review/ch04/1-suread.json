@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch04",
+  "text": "ch04_in_which_the_pseudo_guy_takes_us_straight_down_cia_s_kooky_rabbit_hole.txt",
+  "facts": [
+    {
+      "fact": "中文：中情局在员工入职第一天发放“Funny Name”化名，员工喜不喜欢都得接受。",
+      "anchor": "They gave you your Funny Name on Day One, and like it or not you were stuck.",
+      "start": 380,
+      "end": 456
+    },
+    {
+      "fact": "中文：1961年，中情局安装了一台来自宾夕法尼亚大学的旧ENIAC主机，唯一用途是生成化名。",
+      "anchor": "In fact one of the very first U.S. government mainframes, this slightly used ENIAC from the University of Pennsylvania, with all kinds of tubes and lights and punch cards and cables and stuff, was installed at the Agency back in 1961 for the sole purpose of spitting out Funny Names.",
+      "start": 2445,
+      "end": 2728
+    },
+    {
+      "fact": "中文：Pseudo Guy的求职申请在1963年被中情局安全办公室的一名强硬派拒绝，时间远在当局开始试图暗杀卡斯特罗之后、肯尼迪遇刺前六个月。",
+      "anchor": "His application had been rejected by some hardass from CIA’s Office of Security back in 1963, well after they started trying to kill Castro and just six months before they killed JFK.",
+      "start": 3195,
+      "end": 3378
+    },
+    {
+      "fact": "中文：Pseudo Guy在受聘前的测谎中承认独处动情时会想俄罗斯女人。",
+      "anchor": "Apparently The Pseudo Guy had admitted during his pre-hire polygraph exam to thinking about Russian women when he was alone and feeling ruttish.",
+      "start": 3379,
+      "end": 3523
+    },
+    {
+      "fact": "中文：Pseudo Guy扮成“Nondescript Cleaning Lady”潜入中情局总部，进地下室拔掉ENIAC电源，然后坐下开始编造化名。",
+      "anchor": "That’s when, hungry for revenge, he snuck onto the CIA Headquarters compound one evening disguised as a Nondescript Cleaning Lady — an official Agency job title — and slipped into the Building through an open window somebody had forgotten to shut. He made his way down to the basement, where he happened upon the door to the Funny Names ENIAC mainframe computer rooms. Stepping inside he assessed the situation, realized his life’s calling, took a deep breath, and unplugged the Electronic Numerical Integrator and Computer. Then he sat down and started making up Funny Names.",
+      "start": 4483,
+      "end": 5059
+    },
+    {
+      "fact": "中文：他先造出Jane O. THORNE，随后又造出John O. THORNE并把它给了自己。",
+      "anchor": "After several false starts, his first completed Funny Name lay before him. Jane O. THORNE. He sat back and gazed at it lovingly, even though it wasn’t all that funny. Then, to complement it, he produced another one, and he gave it to himself. John O. THORNE.",
+      "start": 5321,
+      "end": 5579
+    },
+    {
+      "fact": "中文：第五纵队的分析员们订立秘密血誓保护Pseudo Guy，并约定只称他为“The One”以隐藏他的存在。",
+      "anchor": "Then those Fifth Column Analysts entered into a secret blood pact, each pledging his or her sacred honor to the protection and well-being of The Pseudo Guy. To hide his existence, they agreed to refer to him only as “The One.”",
+      "start": 6680,
+      "end": 6906
+    },
+    {
+      "fact": "中文：Pseudo Guy在1975年至1981年间陷入低潮，后来被称为“Less-Than-Stellar Middle Period”。",
+      "anchor": "It fell during 1975 to 1981, in what later came to be known as his “Less-Than-Stellar Middle Period.”",
+      "start": 8358,
+      "end": 8459
+    }
+  ]
+}

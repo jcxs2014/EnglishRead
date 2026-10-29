@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch58",
+  "text": "ch58_journal_entry_no_47.txt",
+  "facts": [
+    {
+      "fact": "叙述者称中情局总部此刻存有 1,357,582.75 加仑可饮用酒精，其中大部分就摆在明面上。",
+      "anchor": "there are 1,357,582.75 gallons of potable alcohol at CIA",
+      "start": 830,
+      "end": 886
+    },
+    {
+      "fact": "中情局每个办公室周五下午都办 Vespers 酒会，十三点整开始，以便在 Home Run 开始前有足够时间喝酒。",
+      "anchor": "Every CIA office has a Friday afternoon Vespers drinking party that kicks off at thirteen hundred hours",
+      "start": 2682,
+      "end": 2785
+    },
+    {
+      "fact": "拉美司的 Conchita D. WURST 周五下午喝醉后爬上桌子，脱掉衬衫、解开胸罩，把胸罩像套索一样在头顶狂挥五分钟。",
+      "anchor": "One especially enthusiastic and fine-chested Vespers participant from LA Division, drunk out of her tits, always finishes out Friday afternoon by getting up on top of a desk, taking off her blouse, unhooking her bra, and whipping it around above her head wildly for five minutes like it’s a lariat.",
+      "start": 3272,
+      "end": 3570
+    },
+    {
+      "fact": "人事部在一道隐藏滑板后有自营酒吧“The Blind Pig”；进去付五美元看某人的宠物越南大肚猪后，可免费得到一杯 Southside。",
+      "anchor": "After you go in there and pay five bucks to get a look at somebody’s pet Vietnamese potbellied sow, they give you a free Southside.",
+      "start": 3715,
+      "end": 3846
+    },
+    {
+      "fact": "七楼醉酒的官员们周五 Vespers 只喝从萨达姆·侯赛因私人酒窖解放出来的顶级酒，包括 Romanée Conti 2002、Petrus 1986、Château Margaux 1982、Château Latour 1976、Château Haut Brion 1958 和 Château Lafitte Rothschild 1947，边灌边喊“Democracy, Whiskey, Sexy!”。",
+      "anchor": "liberated from Saddam Hussein’s private cellars, which they chug, drunk as lords, while chanting “Democracy, Whiskey, Sexy!”: Romanée Conti 2002; Petrus 1986; Château Margaux 1982; Château Latour 1976; Château Haut Brion 1958; and, of course, Château Lafitte Rothschild 1947",
+      "start": 4037,
+      "end": 4311
+    },
+    {
+      "fact": "KRAY 的教官 Jack 把 Lagavulin 介绍给 KRAY；这种产自苏格兰 Islay 的单一麦芽威士忌酒龄 16 年，价格极贵，喝起来像刚被点过火的泥炭沼。",
+      "anchor": "he introduced KRAY to his very good friend the Lagavulin. In case you don’t know, the Lagavulin Single Malt Scotch Whiskey, from Islay, Scotland, is 16 years old",
+      "start": 5837,
+      "end": 5998
+    },
+    {
+      "fact": "疯狂的老案件官 Jack 站在当年 James Jesus Angleton 关押 Yuri Nosenko 三年的潮湿发霉牢房里，要求 KRAY 背下 Lagavulin 瓶标上的一段话。",
+      "anchor": "standing in that damp, musty cell where James Jesus Angleton kept Yuri Nosenko prisoner for three years, made KRAY memorize a passage from the label of Lagavulin’s bottle",
+      "start": 6322,
+      "end": 6492
+    },
+    {
+      "fact": "受训军官被教导要始终提供目标最喜欢的饮品，否则可能得到“Unsatisfactory”评级。",
+      "anchor": "If you fail to follow this guidance, you can receive a grade of “Unsatisfactory.”",
+      "start": 5498,
+      "end": 5579
+    }
+  ]
+}

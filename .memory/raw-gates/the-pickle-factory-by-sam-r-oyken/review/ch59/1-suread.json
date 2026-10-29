@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch59",
+  "text": "ch59_in_which_wacker_shuts_kray_down.txt",
+  "facts": [
+    {
+      "fact": "Wacker 发邮件命令 KRAY 立刻过来，KRAY 随即前往，并带上刚完成的 Project GOOWIKI 报告副本。",
+      "anchor": "So KRAY went there then. He took along copies of his just-completed report on Project GOOWIKI.",
+      "start": 104,
+      "end": 198
+    },
+    {
+      "fact": "Wacker 的行政助理 Judy 让 KRAY 在沙发上等候并向 Wacker 通报，KRAY 等了二十五分钟。",
+      "anchor": "Judy, Wacker’s administrative assistant, asked KRAY to sit on the sofa while she let Wacker know he was there. KRAY waited twenty-five minutes.",
+      "start": 245,
+      "end": 388
+    },
+    {
+      "fact": "Wacker 列出对 KRAY 的指控：不服从、不可接受的个人行为、未报告与外国人的会面，还可能有其他问题。",
+      "anchor": "“Insubordination,” said Wacker. “Unacceptable personal conduct. Failure to report a meeting with a foreigner. Maybe other things, too.",
+      "start": 824,
+      "end": 958
+    },
+    {
+      "fact": "Wacker 说 BUTTONFLY 现在是承包商，已经没有网络，朋友都已退休或去世。",
+      "anchor": "But he’s a contractor now, he doesn’t even have a network anymore. All his friends have retired or died.",
+      "start": 1463,
+      "end": 1567
+    },
+    {
+      "fact": "Wacker 称 KRAY 在印度 Varanasi 与印度内务部门的公开代表会面喝茶，监视组拍下了两人喝茶的照片。",
+      "anchor": "“In India,” said Wacker, consulting a sheet of paper on the table in front of him. “Some place called ‘Varanasi.’ You met with a declared representative of the Indian internal service there. Apparently he also moonlights as private security for some Indian rich guy who owns hotels. A surveillance team following him took pictures of you two having tea together.",
+      "start": 3430,
+      "end": 3792
+    },
+    {
+      "fact": "Wacker 说自己有个与 KANDINSKY 同龄的女儿，称 KANDINSKY 很有吸引力，并指责作为资深官员的 KRAY 不该让这段关系发生。",
+      "anchor": "“I have a daughter her age,” said Wacker. “KANDINSKY’s a very attractive young woman. Very attractive. But you never should have let that happen. You’re the senior officer.”",
+      "start": 5546,
+      "end": 5719
+    },
+    {
+      "fact": "FILBERT 宣布 KRAY 的后续任命暂停，总部给他一个隔间，若有人占用就去图书馆。",
+      "anchor": "“Your onward assignment is on hold,” he said. “We have a cubicle in Headquarters for you to sit in. If somebody’s in it, you can sit in the Library.”",
+      "start": 6894,
+      "end": 7043
+    },
+    {
+      "fact": "FILBERT 通知 KRAY 周一上午九点三十分与反间谍组（Counterespionage Group）有约谈。",
+      "anchor": "“You have an appointment with the Counterespionage Group on Monday morning at zero nine thirty hours,” said FILBERT.",
+      "start": 7661,
+      "end": 7777
+    }
+  ]
+}

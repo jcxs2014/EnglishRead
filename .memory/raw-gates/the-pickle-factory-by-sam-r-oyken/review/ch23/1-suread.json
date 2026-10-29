@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch23",
+  "text": "ch23_journal_entry_no_11.txt",
+  "facts": [
+    {
+      "fact": "CIA 深度投入 1990 年代的管理咨询热潮，双脚踏入。",
+      "anchor": "CIA plunged into the 1990s management consulting craze deeply and with both feet.",
+      "start": 173,
+      "end": 254
+    },
+    {
+      "fact": "CIA 的员工规模被说成九十九万九千人，还不算在食堂干活的人。",
+      "anchor": "some nine hundred ninety-nine thousand souls, not counting the folks who labored down in the cafeteria",
+      "start": 3203,
+      "end": 3305
+    },
+    {
+      "fact": "这种权力转移据称大约始于 1988 年。",
+      "anchor": "this change appears to have started somewhere around 1988",
+      "start": 6801,
+      "end": 6858
+    },
+    {
+      "fact": "这一切让美国政府破费 3,662,768.67 美元，甜甜圈也包含在内。",
+      "anchor": "for a draw on the U.S. government teat of just $3,662,768.67, donuts included",
+      "start": 5209,
+      "end": 5286
+    },
+    {
+      "fact": "多诺万挑选本来就是领导者的人来当他的领导者。",
+      "anchor": "To be his leaders, he picked people who already were leaders",
+      "start": 8771,
+      "end": 8831
+    },
+    {
+      "fact": "老 Shemp 自称是前海军陆战队员。",
+      "anchor": "old Shemp claimed to be a former Marine",
+      "start": 11214,
+      "end": 11253
+    },
+    {
+      "fact": "老 Shemp 在农场受训时被同学起了绰号“Samsonite”。",
+      "anchor": "old Shemp’s classmates nicknamed him “Samsonite,”",
+      "start": 12121,
+      "end": 12170
+    },
+    {
+      "fact": "老 Shemp 这个资深 CIA 经理是 SIS-4 级别，相当于美军四星上将。",
+      "anchor": "a SIS-4 if I recall correctly",
+      "start": 14728,
+      "end": 14757
+    }
+  ]
+}

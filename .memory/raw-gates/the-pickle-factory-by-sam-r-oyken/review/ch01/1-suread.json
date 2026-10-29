@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch01",
+ "text": "ch01_invocation.txt",
+ "facts": [
+  {
+   "fact": "中文：叙述者自称若在本《History》中说谎哪怕一个字，就把自己的身与魂、肚肠与内脏献给十万筐上等魔鬼。",
+   "anchor": "I offer myself, body and soul, tripe and bowels, to a hundred thousand basket-loads of fine devils in case I lie in so much as a single word in the whole of this History.",
+   "start": 12,
+   "end": 182
+  },
+  {
+   "fact": "中文：叙述者诅咒读者：让圣安东尼之火灼烧你、癫痫掀翻你、雷击与腿疮折磨你、痢疾抓住你。",
+   "anchor": "And, similarly, may St. Anthony’s fire burn you, the epilepsy throw you, the thunder-stroke and leg-ulcers rack you, dysentery seize you,",
+   "start": 183,
+   "end": 320
+  },
+  {
+   "fact": "中文：叙述者继续诅咒，让带细小牛毛疹的丹毒连同水银之痛从肛门钻入读者体内。",
+   "anchor": "and may the erysipelas, with its tiny cowhair rash, and quicksilver’s pain on top, through your arse-hole enter up,",
+   "start": 321,
+   "end": 436
+  },
+  {
+   "fact": "中文：叙述者诅咒读者像所多玛与蛾摩拉一样化为硫磺、火焰与无底深渊——前提是读者不坚信他在这部《Chronicle》里讲的一切。",
+   "anchor": "and like Sodom and Gomorrah may you dissolve into sulphur, fire, and the bottomless pit, in case you do not firmly believe everything that I tell you in this present Chronicle!",
+   "start": 437,
+   "end": 613
+  },
+  {
+   "fact": "中文：誓言的出处书名为《The Histories of Gargantua and Pantagruel》。",
+   "anchor": "The Histories of Gargantua and Pantagruel",
+   "start": 615,
+   "end": 656
+  },
+  {
+   "fact": "中文：出处标注为《Pantagruel》第二卷的作者序言，年份 1532。",
+   "anchor": "Author’s Prologue to the 2nd Book, Pantagruel, 1532",
+   "start": 658,
+   "end": 709
+  },
+  {
+   "fact": "中文：署名作者为已故的 M. Alcofribas，头衔为「Abstractor of the Quintessence」。",
+   "anchor": "Composed by the late M. Alcofribas,\n\nAbstractor of the Quintessence,",
+   "start": 711,
+   "end": 779
+  },
+  {
+   "fact": "中文：Alcofribas 即 François Rabelais，医学博士；本段是 J. M. Cohen 的译本。",
+   "anchor": "aka François Rabelais, Doctor of Medicine\n\n(J. M. Cohen translation)",
+   "start": 781,
+   "end": 849
+  }
+ ]
+}

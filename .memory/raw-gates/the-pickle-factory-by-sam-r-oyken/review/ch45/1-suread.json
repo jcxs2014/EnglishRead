@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch45",
+  "text": "ch45_in_which_pi_decks_a_limey_at_stanley_s_pickled_pelican.txt",
+  "facts": [
+    {
+      "fact": "KRAY 与 Tad I. PI 准时到九龙半岛酒店大堂进行 BE（Brief Encounter）会面；KRAY 手拿黄色文件夹借大盆栽掩护，PI 把卷起的《金融时报》塞在购物袋里。",
+      "anchor": "KRAY and Tad I. PI both arrive on time for their BE, or Brief Encounter, meeting in the lobby of the Peninsula Hotel in Kowloon, Hong Kong. KRAY, yellow file folder in hand, is over on one side, using some big potted plants for screening. PI has his rolled-up copy of the Financial Times stashed in a shopping bag.",
+      "start": 60,
+      "end": 374
+    },
+    {
+      "fact": "PI 告诉 KRAY 他从没听说过据称派驻香港的 GOOWIKI 官员，并说明 Wacker 在电话中要求他汇报 KRAY 可能提出的任何异常问题。",
+      "anchor": "PI tells KRAY he has never heard of the GOOWIKI officer supposedly deployed to Hong Kong. He fills KRAY in on his phone call with Wacker, during which Wacker had asked PI to report back any unusual questions KRAY might ask.",
+      "start": 1026,
+      "end": 1249
+    },
+    {
+      "fact": "KRAY 说女友也是 NOC、打算回国后求婚；他在泰国买了戒指，并给 PI 看选的铂金三克拉祖母绿切割钻戒。",
+      "anchor": "My girlfriend’s a NOC, too, and she doesn’t know it yet, but I plan to propose when I get back home. I picked up this bauble in Thailand.”\n\nKRAY pulls a blue velvet box out of his jacket pocket. He shows PI the ring he had chosen, platinum with a fairly decent three-carat emerald-cut diamond.",
+      "start": 6847,
+      "end": 7140
+    },
+    {
+      "fact": "他们乘出租车到赤柱海滩，进入 Stanley Main Street 90 号的 Pickled Pelican（正对 Stanley Bay），在吧台坐下；KRAY 点 LIFTSHITS Manhattan，PI 点 Guinness。",
+      "anchor": "They take a cab over to Stanley Beach, where they go to the Pickled Pelican at 90 Stanley Main Street, right across the road from Stanley Bay. There they sit down at the bar. A shit-faced Brit is sitting to PI’s left, cradling his Dutch-bottomed pint. KRAY orders a LIFTSHITS Manhattan. PI gets a Guinness.",
+      "start": 7336,
+      "end": 7642
+    },
+    {
+      "fact": "英国人大放厥词，说现在世界得应付白宫里一只真正的猴子。",
+      "anchor": "now the world has to deal with an actual fucking monkey in the White House.",
+      "start": 9245,
+      "end": 9320
+    },
+    {
+      "fact": "PI 用左脚钩住英国人吧凳的一条腿，一下把凳子拉走，同时左肘狠狠砸在英国人头上；英国人下巴重重撞在吧台上发出响亮的啪声，随后摔到石板地上，彻底昏过去。",
+      "anchor": "PI hooks his left foot around one of the legs of the Brit’s bar stool. In one motion he pulls out the stool with his left foot while bringing his left elbow down smartly on the Brit’s head. The latter’s jaw hits the bar hard, making a loud popping sound. Then he falls ass over teakettle to the flagstone floor, knocked out cold.",
+      "start": 9576,
+      "end": 9905
+    },
+    {
+      "fact": "KRAY 把一张 1000 港币的“building”钞票放在柜台上，说他们正要回加拿大，并问 Billy 是否什么都没看见；Billy 回答 CCTV 坏了、他当时看向别处，没看到那倒霉蛋从凳子上滑落摔在脸上。",
+      "anchor": "He puts a 1000 Hong Kong dollar “building” banknote on the counter.\n\n“We’re about to head back to Canada,” he says. “You didn’t see anything, right?”\n\n“As it happens,” says Billy, “our CCTV is fried. And I was looking the other way. I didn’t chance to see that unfortunate bloke slip off his stool and land on his face.”",
+      "start": 10206,
+      "end": 10526
+    },
+    {
+      "fact": "次日报纸报道，Pickled Pelican 的袭击者是一对度假中的、不起眼的吵闹加拿大游客。",
+      "anchor": "The next day’s papers report that the Pickled Pelican assailants had been a nondescript pair of rowdy Canadians on holiday.",
+      "start": 10742,
+      "end": 10865
+    }
+  ]
+}

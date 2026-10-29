@@ -1,0 +1,241 @@
+{
+  "chapter": 46,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch46 journal entry no 31.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch46_journal_entry_no_31.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "You remember Fiddle and Faddle. They were those identical twin seventeen-year-old Japanese dwarves JFK used to do naked ",
+          "ok": true,
+          "pos": 1594
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Now don’t get me wrong, Sensei, the concept of Japanese twins works fine for me, as I know it does for a lot of folks. B",
+          "ok": true,
+          "pos": 2730
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It all came to a head over the Uranus Voyager, that alien light-speed command module you found out about way back in Cha",
+          "ok": true,
+          "pos": 5638
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "McCone, who was head of this super-secret government UFO study group called “Majestic 12,” he immediately sat down and w",
+          "ok": true,
+          "pos": 7004
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "So yeah, Lee Harvey Oswald, patsy lone gunman, eliminated President John F. Kennedy, horndog American President, on Frid",
+          "ok": true,
+          "pos": 8820
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Nota bene: In no way should any of the foregoing be construed as an endorsement of the way JFK kept Fiddle and Faddle lo",
+          "ok": true,
+          "pos": 9536
+        }
+      ],
+      "words": 61
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.45,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.47,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.41
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "43. Journal Entry No. 31",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1784,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

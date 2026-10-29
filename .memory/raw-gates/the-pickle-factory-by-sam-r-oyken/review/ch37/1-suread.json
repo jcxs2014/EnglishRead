@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch37",
+  "text": "ch37_in_which_personnel_sends_stucco_to_moose_jaw.txt",
+  "facts": [
+    {
+      "fact": "中文：KRAY 在巴黎办完事后打算前往下一站米兰，但从没去成。",
+      "anchor": "After KRAY finished his business in Paris, he set his sights on his next destination, Milan, but he never got there.",
+      "start": 50,
+      "end": 166
+    },
+    {
+      "fact": "中文：BUTTONFLY 的米兰联系人 Tamara L. STUCCO 从巴黎公用电话接到 KRAY 来电后，告诉他自己不能见面、他大概根本不该来。",
+      "anchor": "Tamara L. STUCCO, BUTTONFLY’s Milan contact, told KRAY when he called her from a pungent Paris pay phone that she couldn’t meet, and that he probably shouldn’t come at all.",
+      "start": 167,
+      "end": 339
+    },
+    {
+      "fact": "中文：STUCCO 已经上完新扩编为二十六门系列中的前三门领导力培训课，并且受够了。",
+      "anchor": "STUCCO had already taken the first three leadership training courses in the newly expanded series of twenty-six, and she was fed up.",
+      "start": 797,
+      "end": 929
+    },
+    {
+      "fact": "中文：STUCCO 结束那通安全电话两小时后，米兰基地收到一封标注“NIACT”和“IMMEDIATE DELIVERY STUCCO”的 FLASH 电报。",
+      "anchor": "Two hours after STUCCO got off the secure call, in which she had informed Personnel its leadership courses were “bullshit” and “pap,” Milan Base got a FLASH cable coded “NIACT” and “IMMEDIATE DELIVERY STUCCO.”",
+      "start": 1055,
+      "end": 1264
+    },
+    {
+      "fact": "中文：电报要求 STUCCO 取消所有计划、收拾行李，去萨斯喀彻温省穆乔做为期六个月的临时任务，下周一生效。",
+      "anchor": "would she mind cancelling all her plans and packing her suitcase for a six-month TDY effective the following Monday?",
+      "start": 1426,
+      "end": 1542
+    },
+    {
+      "fact": "中文：STUCCO 距离符合退休资格还有两年，所以不能直接对人事部门竖中指。",
+      "anchor": "she was still two years away from retirement eligibility so she couldn’t just give Personnel the finger",
+      "start": 1569,
+      "end": 1672
+    },
+    {
+      "fact": "中文：STUCCO 是狂热的狗拉雪橇爱好者和爱斯基摩文物收藏者，得知要去萨斯喀彻温后其实很兴奋。",
+      "anchor": "STUCCO was an avid dog-sledding enthusiast and collector of Eskimo artifacts.",
+      "start": 1766,
+      "end": 1843
+    },
+    {
+      "fact": "中文：STUCCO 后来把大部分购自加拿大油砂大亨遗产拍卖会的爱斯基摩文物收藏以 370 万美元卖给华盛顿特区的史密森学会，随后搬回意大利，在翁布里亚奥尔维耶托郊外买了退休别墅。",
+      "anchor": "STUCCO later sold her collection of Eskimo artifacts, most of which she had picked up for a song at the estate sale of a Canadian oil sands magnate, to the Smithsonian Institution in Washington, D.C., for $3.7 million.",
+      "start": 2169,
+      "end": 2387
+    }
+  ]
+}

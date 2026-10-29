@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch30",
+  "text": "ch30_in_which_wacker_chats_with_his_old_bud_tad_i_pi.txt",
+  "facts": [
+    {
+      "fact": "瓦克坐在大办公桌后抱怨：恢复不到四年前还在用的年度评估制度不该这么难，又不是“火箭手术”，HR里总有人当年在场、记得怎么做；他的副手菲尔伯特坐在会议桌旁把这话原样重复了一遍。",
+      "anchor": "“What I don’t get,” said Wacker, lolling behind his big desk, “is how come it’s so hard for us to change back to an annual evaluation system we were using not even four years ago. How can that be so difficult? It’s not rocket surgery. There has to be somebody in HR who was there then and remembers how it was done.”\n\n“Yeah, it’s not rocket surgery. There has to be somebody in HR who was there then and remembers how it was done,” said FILBERT, Wacker’s deputy, sitting at the conference table in Wacker’s office.",
+      "start": 54,
+      "end": 568
+    },
+    {
+      "fact": "HR女士埃弗沙格说，当初与供应商签约、并在供应商架设整套系统时在场的HR团队全被提拔调走，把事交给HR的新团队，导致HR没人知道当初怎么做的，HR还得为同一件事再付一次钱。",
+      "anchor": "but the HR team that did the contracting with the vendor and was there when the vendor set everything up all got promoted and moved on and they handed the whole thing over to a new team in HR to run so nobody in HR knows what they did and nobody in HR knows how to do it again so it’s a mess and it’s going to be expensive and basically HR will be paying twice for the same thing all over again.",
+      "start": 666,
+      "end": 1061
+    },
+    {
+      "fact": "瓦克的助理敲开着的门，通报有来自香港的Tad I. PI的安全电话；瓦克应声“On it”，伸手拿起STE听筒。",
+      "anchor": "“I have a secure call for you from a Tad I. PI in Hong Kong.”\n\n“On it,” said Wacker, reaching for the STE handset.",
+      "start": 1237,
+      "end": 1351
+    },
+    {
+      "fact": "瓦克请Tad帮个忙：他的一名官员正TDY去Tad那边，代号Pseudo的KRAY，全名Andre B. KRAY；KRAY替瓦克处理一个项目，好让Hipsie暂时别来烦他。",
+      "anchor": "One of my officers is coming out your way TDY. Pseudo’s KRAY, Andre B. KRAY. He’s handling a project for me, getting Hipsie off my back for a while.",
+      "start": 3928,
+      "end": 4076
+    },
+    {
+      "fact": "瓦克让Tad在KRAY身边时竖起耳朵，注意KRAY是否对任何人说了怪话，若KRAY问奇怪的问题就告诉他；瓦克说自己也会盯着KRAY。",
+      "anchor": "keep your ears open when he’s around, pay attention to whether he says anything strange to anybody. Let me know if he asks any funny questions.",
+      "start": 4292,
+      "end": 4435
+    },
+    {
+      "fact": "挂断安全电话后，瓦克对着那部电话骂了一声“Schmuck”，然后转回菲尔伯特和埃弗沙格，说他就是不喜欢KRAY，觉得KRAY不一样、不像他们其余人，不会想跟KRAY一起换台看棒球。",
+      "anchor": "“Schmuck,” he said.\n\nThen he turned back to FILBERT and EVERSHAG.\n\n“There’s just something I don’t like about KRAY,” said Wacker. “He’s different. He’s not like the rest of us. I don’t know if I’d ever want to channel surf baseball with that guy.”",
+      "start": 4923,
+      "end": 5170
+    },
+    {
+      "fact": "埃弗沙格说KRAY正和KANDINSKY交往；瓦克惊讶地说他又瘦又矮，问KANDINSKY看上他什么；埃弗沙格又补一句说KRAY以前结过婚也离过婚。",
+      "anchor": "“Did you know he’s going out with KANDINSKY?” said EVERSHAG.\n\n“What?” said Wacker. “You’re kidding me. He’s skinny. And he’s short. I wonder what she sees in him?”\n\n“Good question,” said EVERSHAG. “Plus he’s been married and divorced before.”",
+      "start": 5414,
+      "end": 5656
+    },
+    {
+      "fact": "瓦克问今天下午是不是有个生日派对；埃弗沙格回答FLYSPECK的副手早前去过，人非常多，蛋糕看起来不错。",
+      "anchor": "“Hey,” said Wacker, “didn’t I hear there was going to be a birthday party this afternoon?”\n\n“Yeah FLYSPECK’s deputy I went by there earlier huge crowd tons of people the cake looked pretty good,” said EVERSHAG.",
+      "start": 6247,
+      "end": 6457
+    }
+  ]
+}

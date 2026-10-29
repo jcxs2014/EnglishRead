@@ -1,0 +1,268 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch08 in which c hr add cia bluebell demands a birthday cake and presses on regardless.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch08_in_which_c_hr_add_cia_bluebell_demands_a_birthday_cake_and_presses_on_regardless.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“If there ain’t no birthday cake,” said the Chief of Human Resources/Associate Deputy Director of the United States Cent",
+          "ok": true,
+          "pos": 83
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“With all due respect, sir,” said the Chief of Station, who was visiting from overseas, “I don’t see how we’re going to ",
+          "ok": true,
+          "pos": 601
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Send a dang helicopter. It’s the agent’s birthday, and he needs to feel welcome and at home. Find out if those Jordanian",
+          "ok": true,
+          "pos": 859
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Unfortunately, though, right now it’s Dick Wacker or nothin’. I had four guys in a row threaten to retire on me rather’n",
+          "ok": true,
+          "pos": 1976
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“It’s less than fifty hours until the meeting and you’re fooling around with birthday cakes? Whose shit-stupid idea was ",
+          "ok": true,
+          "pos": 2625
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "But how in tarnation is the agent gonna feel welcome and at home if we go around actin’ like the █████ TSA? I may be the",
+          "ok": true,
+          "pos": 3975
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "This feller has key infermation on the whereabouts a high-value targets. As soon as we git it from him, I’m headed strai",
+          "ok": true,
+          "pos": 4310
+        }
+      ],
+      "words": 70
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 17
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.44
+      }
+    }
+  ],
+  "form": {
+    "h1": "5. In Which C/HR/ADD/CIA BLUEBELL Demands A Birthday Cake And Presses On Regardless",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1182,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

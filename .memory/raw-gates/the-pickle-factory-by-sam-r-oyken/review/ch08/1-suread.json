@@ -1,0 +1,63 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch08",
+  "text": "ch08_in_which_c_hr_add_cia_bluebell_demands_a_birthday_cake_and_presses_on_regardless.txt",
+  "facts": [
+    {
+      "fact": "中情局人事处长兼副局长 BLUEBELL 在七楼办公桌后表示：没有生日蛋糕他就不签字批准。",
+      "anchor": "“If there ain’t no birthday cake,” said the Chief of Human Resources/Associate Deputy Director of the United States Central Intelligence Agency from behind his massive Seventh Floor desk, “I ain’t signin’ off on it.”",
+      "start": 86,
+      "end": 302,
+      "line": 6
+    },
+    {
+      "fact": "驻外归来的站长告诉 BLUEBELL，距会议只剩不到五十小时，来不及把定制生日蛋糕运到前进作战基地。",
+      "anchor": "We have less than fifty hours to go.",
+      "start": 839,
+      "end": 875,
+      "line": 8
+    },
+    {
+      "fact": "BLUEBELL 命令派直升机送蛋糕，并要求让约旦人安排给该特工唱《生日快乐》。",
+      "anchor": "“Send a dang helicopter. It’s the agent’s birthday, and he needs to feel welcome and at home.",
+      "start": 878,
+      "end": 971,
+      "line": 10
+    },
+    {
+      "fact": "MUCHADOO 进门时还没减掉他一直想减的那九十七磅，因此有点喘。",
+      "anchor": "having not yet shed those ninety-seven pounds he’d been meaning to lose.",
+      "start": 1204,
+      "end": 1276,
+      "line": 14
+    },
+    {
+      "fact": "叙述交代 BLUEBELL 的花名（Funny Name）是 Calvin A. BLUEBELL。",
+      "anchor": "whose Funny Name was Calvin A. BLUEBELL.",
+      "start": 1357,
+      "end": 1397,
+      "line": 16
+    },
+    {
+      "fact": "ARISTOTLE 转述：负责护送特工进场的保护小组再次请求在首次会面前对他多做审查。",
+      "anchor": "The protective detail bringing the agent in has put in another request to vet him a little more before the first meeting.",
+      "start": 3567,
+      "end": 3688,
+      "line": 56
+    },
+    {
+      "fact": "MUCHADOO 转述 Wacker 的话：一千名 NOC 都会对外称自己是“转型人力资源顾问”。",
+      "anchor": "He said all one thousand NOCs will tell people they work as Transformational Human Resources consultants.",
+      "start": 6129,
+      "end": 6234,
+      "line": 88
+    },
+    {
+      "fact": "MUCHADOO 说今晚有 Blacks In Government Roundtable，但他要跳过，因为议程是他写的。",
+      "anchor": "There’s a Blacks In Government Roundtable tonight, but I’m going to skip it. I wrote the agenda.",
+      "start": 6803,
+      "end": 6899,
+      "line": 104
+    }
+  ]
+}

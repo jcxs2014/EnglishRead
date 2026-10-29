@@ -1,0 +1,55 @@
+{
+  "book": "the-pickle-factory-by-sam-r-oyken",
+  "chapter": "ch35",
+  "text": "ch35_in_which_lucky_m_vanderrohe_needs_five_pieces_of_bacon.txt",
+  "facts": [
+    {
+      "fact": "12:39，KRAY 站在巴黎协和广场的 Restaurant Ulysse le Gagnant 外，下着雨；他的联系人、BUTTONFLY 的朋友 Lucky M. VANDERROHE 未按约定在 12:30 出现。",
+      "anchor": "It’s 12:39 in the afternoon. It’s raining. And he’s breaking all the rules. Or at least one important one. His contact, BUTTONFLY’s buddy Lucky M. VANDERROHE, didn’t show up at 12:30 as agreed.",
+      "start": 185,
+      "end": 378
+    },
+    {
+      "fact": "KRAY 说自己 12:28 就到了，没看到异常，并问对方情况。",
+      "anchor": "“Since 12:28,” says KRAY. “Didn’t see anything unusual. You?”",
+      "start": 4021,
+      "end": 4082
+    },
+    {
+      "fact": "VANDERROHE 说他被“Action Escargot”堵住：四辆大卡车并排在 A-6 上以每小时七公里爬行进入巴黎。",
+      "anchor": "Then I got stuck behind an ‘Action Escargot.’ Four big trucks side by side, crawling along the A-6 into Paris at seven kilometers an hour.",
+      "start": 4209,
+      "end": 4347
+    },
+    {
+      "fact": "VANDERROHE 以“Kennedy”的名字订位。",
+      "anchor": "“Bonjour, Monsieur,” says VANDERROHE. “C’est une réservation au nom de Kennedy.”",
+      "start": 4659,
+      "end": 4739
+    },
+    {
+      "fact": "KRAY 说出苏黎世那人的名字后，VANDERROHE 先谎称那人上周已出现，随即承认是开玩笑，从未听说过此人。",
+      "anchor": "“Man, I’m just messing with you,” he says. “I’ve never heard of the guy. Sorry about that, I couldn’t help myself.”",
+      "start": 9564,
+      "end": 9679
+    },
+    {
+      "fact": "VANDERROHE 把一张名片放在桌上，名片头衔为“Premier Secrétaire, Ambassade de la Libye en France”；KRAY 付给他两张20美元和一张10美元。",
+      "anchor": "He drops a business card on the table. It bears a photograph of the guy who had left to relieve himself. The card gives his title as “Premier Secrétaire, Ambassade de la Libye en France.” KRAY hands VANDERROHE two twenties and a ten.",
+      "start": 12557,
+      "end": 12790
+    },
+    {
+      "fact": "VANDERROHE 说他在“农场”教书时告诉学生，他想在煎锅里看到五块培根。",
+      "anchor": "I told them I wanted to see five pieces of bacon in the frying pan. Five.",
+      "start": 13561,
+      "end": 13634
+    },
+    {
+      "fact": "KRAY 从零钱中找出120欧元买下紫色玻璃花；随后离开，做了五小时SDR，确信自己没被跟踪。",
+      "anchor": "KRAY locates 120 euro amid his pocket litter and pays.\n\nAfter a couple more minutes, KRAY leaves. He showcases outside the restaurant for a minute or two, then kicks off a five-hour SDR.",
+      "start": 14984,
+      "end": 15170
+    }
+  ]
+}

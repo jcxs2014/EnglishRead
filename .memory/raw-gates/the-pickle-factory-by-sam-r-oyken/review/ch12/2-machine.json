@@ -1,0 +1,295 @@
+{
+  "chapter": 12,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/ch12 in which evershag the hr lady explains that hr is here to help.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch12_in_which_evershag_the_hr_lady_explains_that_hr_is_here_to_help.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“So as I was saying, I could use your help,” KRAY said. “Chief Wacker asked me to put together a plan for Project GOOWIK",
+          "ok": true,
+          "pos": 401
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Seven months earlier, KRAY had been tasked with carrying out an agent termination meeting in Cyprus. DQFLOPSWEAT/7, a Gr",
+          "ok": true,
+          "pos": 1920
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“You are firing me?” FLOPSWEAT said, waving his hands around and looking panicked. “But I need this money, my family nee",
+          "ok": true,
+          "pos": 2853
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "KRAY viewed two hundred dollars as a small price to pay to get this disgruntled man out of the room and out of his life.",
+          "ok": true,
+          "pos": 4212
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“It’s hilarious what you ops guys don’t know,” she said, “the Agency has had seven different evaluation systems in the l",
+          "ok": true,
+          "pos": 6814
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“It’s hell,” said EVERSHAG, exhaling hard. Catching herself, she added, “But it’s our job HR is here to help.”",
+          "ok": true,
+          "pos": 7098
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Well, since you asked, she’s brilliant, funny, talented, beautiful, and wise,” KRAY said, immediately angry at himself ",
+          "ok": true,
+          "pos": 7467
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "KRAY walked out, admiring the silver letter opener he had purloined from EVERSHAG’s messy desk. He found a Men’s Room, w",
+          "ok": true,
+          "pos": 8232
+        }
+      ],
+      "words": 32
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.6
+      }
+    }
+  ],
+  "form": {
+    "h1": "9. In Which EVERSHAG, The HR Lady, Explains That HR Is Here To Help",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1486,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 69 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
