@@ -39,7 +39,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "I had my back to the window as I thought this and found myself suddenly unable to bear the oppressive blank of space beyond the glass. Where are you all, I wanted to scream, overcome with a sudden vivid grief at the thought of this nothing – no strange deep-ocean creatures, no bioluminescence, no life. Come on, I found myself thinking, give."
+> **原句 3:** "I went into my pack and found the postcard Miri had bought me, the image of a tangerine-coloured octopus. Pamela – Giant Pacific Octopus – estimated age between 3 and 4 years old."
+
+**中文理解**：她翻自己的包，找到 Miri 买给她的那张明信片，上面是一只橘色的章鱼：Pamela，巨型太平洋章鱼，估计三到四岁。
+
+**关键词**：the postcard Miri had bought me / a tangerine-coloured octopus / Giant Pacific Octopus / between 3 and 4 years old
+
+**为什么这样写**：在一章全是崩溃与争吵的文字里，这一段是**唯一一块外面的世界**：一张纪念品明信片、一只水族馆的章鱼、连年龄都标得清清楚楚。作者让变量只有一个——她需要这张卡片才能想起它的名字。信息给得越完整（拉丁名、估龄），越衬出她正在失去的东西，也把「记忆」变成可以拿在手里的实物。
+
+**读者视角提示**：明信片是 Miri 买的——她此刻不在场，却以一张卡片的形状留在舱里。记住这只章鱼，本章末尾的梦里它会再出现一次，名字却已经丢了。
+
+---
+
+> **原句 4:** "I had my back to the window as I thought this and found myself suddenly unable to bear the oppressive blank of space beyond the glass. Where are you all, I wanted to scream, overcome with a sudden vivid grief at the thought of this nothing – no strange deep-ocean creatures, no bioluminescence, no life. Come on, I found myself thinking, give."
 
 **中文理解**：她背对窗户坐着，忽然受不了玻璃外面那片空。她想喊「你们都在哪儿」，为这片什么都没有的虚无感到真切的悲伤——没有深海生物，没有生物光，没有生命——最后在心里说：给点反应啊。
 
@@ -51,7 +63,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "“I can’t take any more of this fucking behaviour,” he snapped and reeled back as if to kick her, and I pushed myself between them, pushed him away, and he pushed me back and I thought help, once, sharply, and wanted Miri even though she was smaller than me."
+> **原句 5:** "“I can’t take any more of this fucking behaviour,” he snapped and reeled back as if to kick her, and I pushed myself between them, pushed him away, and he pushed me back and I thought help, once, sharply, and wanted Miri even though she was smaller than me."
 
 **中文理解**：Matteo 厉声说他再也受不了这种举动，随即向后仰身，像要踢 Jelka。叙述者挤到两人中间把他推开，他反过来推她，她在心里喊了一声救命，并且想要 Miri，尽管 Miri 比她瘦小。
 
@@ -63,7 +75,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "There’s a point between the sea and the air that is both and also not quite either. Does that make sense? I’m talking about the point at the very top of the ocean that is constantly evaporating and condensing, where water yearns towards air and air yearns towards water."
+> **原句 6:** "I know I’m not supposed to respond, but I can’t stop it now. I hear it all the time. I thought if he would listen with me, it would make it easier."
+
+**中文理解**：Jelka 承认她知道不该回应，可是已经停不下来；她说她一直都能听见，原以为让 Matteo 陪她一起听会好受些。
+
+**关键词**：not supposed to respond / can’t stop it now / I hear it all the time / if he would listen with me
+
+**为什么这样写**：三句话都是自陈，三个「I」开头，句式一模一样——这是告解，不是辩论。第一句先认错（not supposed to），第二句承认失控（can’t stop），第三句才说出她真正的请求：**想有人陪她一起听**。作者把最需要被理解的一句放在最后，并且不给叙述者任何回应，让请求悬在那里。
+
+**读者视角提示**：她不是要说服谁，她要的是同伴。下一句「Do you hear it, Leah?」才是她真正问出口的问题——她把 Leah 也拉进这个可能性里。
+
+---
+
+> **原句 7:** "There’s a point between the sea and the air that is both and also not quite either. Does that make sense? I’m talking about the point at the very top of the ocean that is constantly evaporating and condensing, where water yearns towards air and air yearns towards water."
 
 **中文理解**：她讲海与空气交界的那一层：那里既属于两者，又不完全属于任何一者。她问「这说得通吗」，然后解释那是海洋最顶部不断蒸发与凝结的地方，水渴望变成空气，空气也渴望变成水。
 
@@ -75,7 +99,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "“I read a story once,” he told me, “about a paranormal detective who spent a night in a haunted room, and as long as he was inside this ring he’d created, this ring of protective objects, nothing could get at him.” I asked him if I could come inside the circle and he shook his head at me."
+> **原句 8:** "“I read a story once,” he told me, “about a paranormal detective who spent a night in a haunted room, and as long as he was inside this ring he’d created, this ring of protective objects, nothing could get at him.” I asked him if I could come inside the circle and he shook his head at me."
 
 **中文理解**：Matteo 讲自己读过的一个故事：一个灵异侦探在闹鬼的房间里过夜，只要待在他摆好的那圈护身物件里，什么东西都近不了他的身。她问能不能进圈里去，他摇了摇头。
 
@@ -87,7 +111,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "I dreamed in pieces, shapes and shards of broken pictures: I dreamed about the octopus, knew her name and then forgot it, and I dreamed about Miri, except her face was different and something was off about the way she moved, on all fours rather than upright, and not towards me but somehow to the side."
+> **原句 9:** "I dreamed in pieces, shapes and shards of broken pictures: I dreamed about the octopus, knew her name and then forgot it, and I dreamed about Miri, except her face was different and something was off about the way she moved, on all fours rather than upright, and not towards me but somehow to the side."
 
 **中文理解**：她梦见碎成片段的画面：先是那只章鱼，她记得它的名字，随后又忘掉；接着是 Miri，但脸不一样，移动的方式也不对——四肢着地，不是朝她过来，而是朝侧面。
 

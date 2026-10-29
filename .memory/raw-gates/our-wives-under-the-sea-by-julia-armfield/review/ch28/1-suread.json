@@ -1,0 +1,160 @@
+{
+ "chapter": "ch28",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch28_leah.txt",
+ "facts": [
+  {
+   "fact": "本章开头，Leah 承认「事情崩了」：崩溃不是突然发生的，但她是在危机中才突然意识到；三人被困水下，Jelka 突然开始听见 Matteo 和 Leah 听不到的声音，而 Leah 想不出任何不先浮上水面、再四处求援的办法。",
+   "anchor": "We were trapped, and Jelka was suddenly hearing things that Matteo and I couldn’t hear",
+   "start": 300,
+   "end": 386
+  },
+  {
+   "fact": "Jelka 反复伏在主甲板窗前、又蹲在后舱朝逃生舱口俯身倾听；Matteo 起初带着担心把她拉开，后来越来越像是不耐烦，对她说「你让我毛骨悚然」。",
+   "anchor": "Matteo pulling her away, at first with concern but increasingly with something more like impatience",
+   "start": 638,
+   "end": 737
+  },
+  {
+   "fact": "Matteo 抓住 Jelka 的手臂把她从舱口拽起，她用力抽回手臂、失去平衡抓空摔倒；他骂「我再也受不了这种鬼行为了」，后仰作势要踢她，Leah 挤到两人中间把他推开，又被推回，心里尖锐地喊了一声「help」，并想找 Miri——尽管 Miri 比她小。",
+   "anchor": "he snapped and reeled back as if to kick her, and I pushed myself between them",
+   "start": 3554,
+   "end": 3632
+  },
+  {
+   "fact": "事后 Matteo 伸出冻伤的手想扶 Leah 的手肘，反复道歉说自己也不知道怎么回事；Leah 摇头，想抱他却记不起该怎么抱，而 Jelka 已回到舱口原位、额头压向下方，仿佛什么都没发生过。",
+   "anchor": "wanted to hug him but couldn’t quite remember how",
+   "start": 3982,
+   "end": 4031
+  },
+  {
+   "fact": "Leah 从自己的包里翻出 Miri 买给她的明信片——一只橘色的章鱼，Pamela，巨型太平洋章鱼，估计 3 到 4 岁；她随后反复想到 Pamela，并担心若没有这张明信片自己会连它的名字都忘掉。",
+   "anchor": "the postcard Miri had bought me, the image of a tangerine-coloured octopus",
+   "start": 1909,
+   "end": 1983
+  },
+  {
+   "fact": "夜里 Leah 在主甲板找到 Matteo，他坐在一圈火把中间，讲一个灵异侦探靠「护身物件围成的圈」在闹鬼房间过夜的故事；Leah 问能否进圈，他摇头拒绝，说「不是针对你，buddy，只是现在不行」。",
+   "anchor": "I asked him if I could come inside the circle and he shook his head at me",
+   "start": 6696,
+   "end": 6769
+  },
+  {
+   "fact": "Jelka 沉默很久后终于开口：她一直听见那个声音、已经停不下来，本以为让 Matteo 陪她一起听会好受些；她问 Leah 是否也听见「那个声音，不管它是什么」，Leah 只能答「我没有，因为根本没什么可听」。",
+   "anchor": "Do you hear it, Leah? The voice – whatever it is – do you hear it?",
+   "start": 6023,
+   "end": 6089
+  },
+  {
+   "fact": "Leah 在火把圈旁的地板上睡去，梦见章鱼——知道名字又忘掉；梦见 Miri 面孔不对、四肢着地横着移动；最后梦见自己确实在海里，但那是更古老、更深的一处，黑暗中有东西与她同在。",
+   "anchor": "I dreamed that it was a different part, something older and deeper",
+   "start": 9519,
+   "end": 9585
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Leah–Jelka",
+   "kind": "同船同伴；Leah 一再试图安抚、护住她，但 Jelka 已拒绝与她说话，两人无法沟通。",
+   "anchor": "I sat down beside her and I thought about everything I had hoped to do",
+   "start": 5311,
+   "end": 5381
+  },
+  {
+   "pair": "Matteo–Jelka",
+   "kind": "同船同伴；冲突持续升级——他拽她、骂她疯、几乎要踢她。",
+   "anchor": "Matteo dragged Jelka up by her arm, up and away from the hatch",
+   "start": 3301,
+   "end": 3363
+  },
+  {
+   "pair": "Leah–Matteo",
+   "kind": "同船伙伴，互称「buddy」；他推过她、又反复道歉，她几乎想拥抱他，但他把她挡在火把圈外。",
+   "anchor": "“I’m sorry, buddy, I’m so fucking sorry, I don’t know what’s going on.”",
+   "start": 3886,
+   "end": 3957
+  },
+  {
+   "pair": "Leah–Miri",
+   "kind": "Miri 买明信片送给 Leah；危机中 Leah 想找 Miri，尽管 Miri 比她小（暗示姊妹/亲近关系）。",
+   "anchor": "wanted Miri even though she was smaller than me",
+   "start": 3712,
+   "end": 3759
+  },
+  {
+   "pair": "Leah–Pamela",
+   "kind": "Leah 曾与这只巨型太平洋章鱼近距离相处（有 keeper 在场），被它从右腕到肘牢牢抓住，被告知「你刚交了个朋友」。",
+   "anchor": "the way she had gripped me from right wrist to elbow",
+   "start": 7998,
+   "end": 8050
+  },
+  {
+   "pair": "Jelka–St Brendan",
+   "kind": "Jelka 拥有一尊圣布伦丹像，它不断出现在淋浴盘、冰箱、Leah 床下；Matteo 厌恶它，觉得它在盯着自己。",
+   "anchor": "“I hate that fucking thing,” Matteo said, “feels like it’s watching me.”",
+   "start": 1676,
+   "end": 1748
+  }
+ ],
+ "numbers": [
+  {
+   "value": "十七岁（seventeen）",
+   "anchor": "recollected dreams I’d had at seventeen, of webbing growing down",
+   "start": 1058,
+   "end": 1122
+  },
+  {
+   "value": "3 到 4 岁（between 3 and 4 years old）",
+   "anchor": "estimated age between 3 and 4 years old",
+   "start": 2018,
+   "end": 2057
+  },
+  {
+   "value": "帕梅拉（Pamela）",
+   "anchor": "Pamela – Giant Pacific Octopus – estimated age between 3 and 4 years old",
+   "start": 1985,
+   "end": 2057
+  },
+  {
+   "value": "巨型太平洋章鱼（Giant Pacific Octopus）",
+   "anchor": "the image of a tangerine-coloured octopus. Pamela – Giant Pacific Octopus",
+   "start": 1942,
+   "end": 2015
+  },
+  {
+   "value": "圣布伦丹（St Brendan）",
+   "anchor": "Jelka’s figure of St Brendan turning up in strange places",
+   "start": 1544,
+   "end": 1601
+  },
+  {
+   "value": "西尔维娅·厄尔（Sylvia Earle）",
+   "anchor": "I sat on the main deck and thought again about Sylvia Earle",
+   "start": 2347,
+   "end": 2406
+  },
+  {
+   "value": "米里（Miri）",
+   "anchor": "I went into my pack and found the postcard Miri had bought me",
+   "start": 1879,
+   "end": 1940
+  },
+  {
+   "value": "马泰奥（Matteo）",
+   "anchor": "Matteo flinging a plate against the wall and then apologising for it",
+   "start": 1387,
+   "end": 1455
+  },
+  {
+   "value": "耶尔卡（Jelka）",
+   "anchor": "Jelka in the rear chamber, leaning down towards the hatch",
+   "start": 579,
+   "end": 636
+  },
+  {
+   "value": "莉娅（Leah）",
+   "anchor": "“I was trying to make him listen,” Jelka said, after a very long time",
+   "start": 5676,
+   "end": 5745
+  }
+ ]
+}
