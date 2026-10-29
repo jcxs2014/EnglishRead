@@ -1,0 +1,93 @@
+{
+ "chapter": "ch08",
+ "text_file": "notes/books/novels/pan-by-francesco-dimitri/text/ch08_night_of_wonders.txt",
+ "text_chars": 21679,
+ "facts": [
+  {
+   "anchor": "Antonio is six years old and his mother kisses him only when she has to.",
+   "offset": 50,
+   "fact": "Antonio 六岁，梦里赤脚赤膊、用钢剑击败 Mateo，说战争要来了"
+  },
+  {
+   "anchor": "“I know someone who’d like you.”",
+   "offset": 4951,
+   "fact": "赤脚女孩（Giada）对七十八岁的萨克斯手 Tito 说有人会喜欢他、正在筹办最大的活动"
+  },
+  {
+   "anchor": "“I have the original.”",
+   "offset": 6732,
+   "fact": "Giada 告诉 Wendy 她拿到了那尊破损雕像的原件"
+  },
+  {
+   "anchor": "Here, finally, is Wonder, and its face is monstrous.",
+   "offset": 9804,
+   "fact": "浴缸里是一个真实的非人胎儿：角、耳到耳的裂口、山羊腿与蹄、巨大生殖器"
+  },
+  {
+   "anchor": "Incinerators have no memory.",
+   "offset": 10652,
+   "fact": "Giada 说弃婴若已死通常不报警，免得给母亲添霉运"
+  },
+  {
+   "anchor": "The Secret opens.",
+   "offset": 14321,
+   "fact": "Michele 半夜在衣柜后的密室找到父亲，父亲把黑笔记本交给他，脚上是新鲜泥"
+  },
+  {
+   "anchor": "The Wondrous Wendy feels with extreme clarity each movement of the icy claw",
+   "offset": 19024,
+   "fact": "胎儿爬出浴缸，用爪从 Wendy 的肚脐抚到胯再返回"
+  },
+  {
+   "anchor": "She turns on the light.",
+   "offset": 21655,
+   "fact": "两人躲进浴室后出来，厨房黑暗里有咀嚼声，Wendy 开灯（章末）"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "six years old",
+   "offset": 61,
+   "note": "Antonio 的年龄"
+  },
+  {
+   "value": "seventy-eight",
+   "offset": 3487,
+   "note": "Tito 的年龄"
+  },
+  {
+   "value": "fifty square metres",
+   "offset": 5160,
+   "note": "Wendy 的公寓面积"
+  },
+  {
+   "value": "three square metres",
+   "offset": 14566,
+   "note": "密室面积"
+  },
+  {
+   "value": "thirty centimetres",
+   "offset": 8514,
+   "note": "胎儿体长"
+  },
+  {
+   "value": "two in the morning",
+   "offset": 12058,
+   "note": "父亲可能醒来的时间"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Angela",
+   "note": "Wendy 的本名，Giovanni 与 Michele 的姐姐"
+  },
+  {
+   "subject": "Giada",
+   "note": "Wendy 的好友，垃圾清运工，收藏「证据」"
+  },
+  {
+   "subject": "Stefano",
+   "note": "Michele 的父亲，患病，交出黑笔记本"
+  }
+ ]
+}
