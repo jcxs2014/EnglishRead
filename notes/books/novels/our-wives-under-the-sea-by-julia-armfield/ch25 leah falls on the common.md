@@ -75,7 +75,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "She says nothing now, though she seems to follow the movie, flicks water at the back of my head the first time the shark appears. I feel exhausted, a feeling of catching up, a feeling of something finding me. My heart is a thin thing, these days – shred of paper blown between the spaces in my ribs."
+> **原句 6:** "A woman, passing by with a dachshund wrapped up in a fuchsia jacket, pauses to ask if my friend is all right and I tell her yes without knowing what I’m saying, let her go without knowing how to ask for her help."
+
+**中文理解**：一个牵着腊肠犬的女人路过，那狗裹在紫红色的外套里；她停下来问「我朋友」要不要紧，Miri 不知道自己嘴里说了什么就答「没事」，也不知道该怎么开口求她帮忙，就让她走了。
+
+**关键词**：passing by with a dachshund / fuchsia jacket / if my friend is all right / without knowing what I’m saying / how to ask for her help
+
+**为什么这样写**：这一句的中心不是摔倒的人，而是一个**路过的第三人**。作者给了狗、狗的衣服颜色、停顿的动作，细节越具体，那句「我朋友没事」就越刺人——她连「这是我妻子」都说不出口，只说 my friend。「without knowing」出现两次，一次管说话、一次管求助，把她此刻的失语写成两段并列的空白：能回答，但不能开口要东西。
+
+**读者视角提示**：注意「my friend」这个称呼：门外的人只能被允许知道这么多。这条街上第一次有人可以帮忙，而她把帮助放走了。
+
+---
+
+> **原句 7:** "She says nothing now, though she seems to follow the movie, flicks water at the back of my head the first time the shark appears. I feel exhausted, a feeling of catching up, a feeling of something finding me. My heart is a thin thing, these days – shred of paper blown between the spaces in my ribs."
 
 **中文理解**：Leah 不出声，但似乎跟着电影看，鲨鱼第一次出现时朝她后脑勺弹水；Miri 说自己累，是一种「追上来」的累，一种「有东西找到我」的累。末了她把心写成一件薄东西：一片纸屑，被吹过肋骨之间的空隙。
 

@@ -1,0 +1,166 @@
+{
+  "chapter": "ch25",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch25_miri.txt",
+  "facts": [
+    {
+      "fact": "Miri 记下时间照旧在走：Leah 每天约六成时间泡在浴缸里，正迅速逼近七成；Miri 自己工作做不下去、看电影也跟不上。",
+      "anchor": "Leah bathes for approximately sixty per cent of the day, though this is swiftly becoming",
+      "start": 95,
+      "end": 183
+    },
+    {
+      "fact": "Leah 食欲继续下滑，Miri 端来溶了盐的水，才勉强压住她颈肩反复的硬脉动——否则她很快又要回浴缸。",
+      "anchor": "I bring her salt dissolved in beakers of water, and this seems to stave off",
+      "start": 527,
+      "end": 602
+    },
+    {
+      "fact": "治疗师来电说 Centre 付的支票跳票，要 Miri 换付款方式，否则无法继续，只留「紧急情况可商量」的口子；Miri 回拨 Centre，电话不再转自动语音，只是一直响到她放下听筒。",
+      "anchor": "It bounced, she says and asks if I have a secondary method of payment.",
+      "start": 1577,
+      "end": 1647
+    },
+    {
+      "fact": "三个多月后 Miri 想找「虚构太空人的妻子们」的网站却记不起网址；搜 Centre 只见 404，Centre 地址也已丢失（只去过一次，接 Leah 回来那次），翻了一小时纸堆无果。",
+      "anchor": "it has been over three months and I find I cannot recall the address",
+      "start": 2206,
+      "end": 2274
+    },
+    {
+      "fact": "一个下午 Miri 强拉 Leah 出门散步；Leah 走路向左倾，像有一块身体失去支撑，被 Miri 拉着往山上旧日常走的那片公共草地。",
+      "anchor": "She moves oddly now, a certain keel to the left as though a piece of her is somehow unsupported",
+      "start": 3515,
+      "end": 3610
+    },
+    {
+      "fact": "Leah 顺着力道慢慢下坠，Miri 过了太久才看出那是跌倒；她倒在草地上蜷成一枚海螺。带腊肠犬（穿紫红外套）的路人停下来问「我朋友」是否还好，Miri 只答没事，没能开口求助。",
+      "anchor": "in a slow-motion movement that it takes me too long to realise is a fall",
+      "start": 4447,
+      "end": 4519
+    },
+    {
+      "fact": "Miri 不知怎么把 Leah 弄回家、放进浴缸，又把电视搬进浴室架在马桶盖上、接长延长线，放《大白鲨》陪她看，自己坐在浴垫上、一只手搭在浴缸边让她可以碰。",
+      "anchor": "I manhandle the television into the bathroom, balance it on the toilet seat",
+      "start": 5170,
+      "end": 5245
+    },
+    {
+      "fact": "Leah 全程不说话，却似乎跟着剧情，鲨鱼第一次出现时朝 Miri 后脑撩水；Miri 想起两人第一次看这片子时 Leah 讲到鲨鱼中途自我打断、说自己不想无聊。落点是：她精疲力竭，「心是薄东西，像被吹在肋骨缝里的纸片」。",
+      "anchor": "flicks water at the back of my head the first time the shark appears",
+      "start": 5706,
+      "end": 5774
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "kind": "伴侣/同居的爱人：Leah 当年出任务之间渴望空间与空气，Miri 乐于相陪",
+      "anchor": "Leah desperate for some space and some air between trips while I was simply happy to accompany her",
+      "start": 4072,
+      "end": 4170
+    },
+    {
+      "pair": "Miri–Leah",
+      "kind": "照护者与被照护者：Miri 每天把她抱进抱出浴缸、抬臂擦洗她银化透明的皮肤",
+      "anchor": "before I have seen her into the bath and out of it, before I have lifted her arms to soap",
+      "start": 977,
+      "end": 1066
+    },
+    {
+      "pair": "Miri–治疗师",
+      "kind": "付费治疗服务关系：因支票跳票面临中断，只剩紧急联络的余地",
+      "anchor": "She tells me that she won’t be able to continue until we send her the money",
+      "start": 1648,
+      "end": 1723
+    },
+    {
+      "pair": "Leah–Centre",
+      "kind": "Leah 是 Centre 接走又送回的对象；Centre 现已失联（电话无人接、网站 404、地址也丢了）",
+      "anchor": "I’ve been only once before – picked Leah up on her return – but now I have misplaced the address",
+      "start": 2567,
+      "end": 2663
+    },
+    {
+      "pair": "Miri–路人女人",
+      "kind": "陌生人：牵腊肠犬的路人主动询问，Miri 谢绝而未求助，善意落空",
+      "anchor": "pauses to ask if my friend is all right",
+      "start": 4700,
+      "end": 4739
+    },
+    {
+      "pair": "Miri–母亲",
+      "kind": "母女：Miri 在玄关镜里看见的不是自己，而是回到母亲家的旧日影像",
+      "anchor": "I think I see myself not where I am but back in my mother’s house",
+      "start": 1219,
+      "end": 1284
+    }
+  ],
+  "numbers": [
+    {
+      "value": "六成（sixty per cent）：Leah 每日泡澡时长",
+      "anchor": "Leah bathes for approximately sixty per cent of the day",
+      "start": 95,
+      "end": 150
+    },
+    {
+      "value": "七成（seventy）：正在逼近的比例",
+      "anchor": "though this is swiftly becoming something more like seventy",
+      "start": 152,
+      "end": 211
+    },
+    {
+      "value": "三个多月（over three months）：未再上那个网站/与 Centre 失联的时长",
+      "anchor": "it has been over three months and I find",
+      "start": 2206,
+      "end": 2246
+    },
+    {
+      "value": "404（404 error message）：Centre 网站只剩错误页",
+      "anchor": "only a 404 error message and a suggestion that I check the address",
+      "start": 2369,
+      "end": 2435
+    },
+    {
+      "value": "一小时（an hour）：翻找 Centre 地址花掉的时间",
+      "anchor": "I spend an hour going through papers in vain",
+      "start": 2665,
+      "end": 2709
+    },
+    {
+      "value": "一次（only once）：Miri 去过 Centre 的次数",
+      "anchor": "I’ve been only once before – picked Leah up on her return",
+      "start": 2567,
+      "end": 2624
+    },
+    {
+      "value": "《大白鲨》（Jaws）：两人一起在浴室看的电影",
+      "anchor": "I put on Jaws and ask her to watch it with me",
+      "start": 5320,
+      "end": 5365
+    },
+    {
+      "value": "第一次一起看这部电影（the first time we watched this movie together）：Leah 讲鲨鱼时自我打断的往事",
+      "anchor": "the first time we watched this movie together, the way she cut herself off",
+      "start": 5491,
+      "end": 5565
+    },
+    {
+      "value": "年末（The year has turned）：季节已转、白昼变短，Miri 几乎错过",
+      "anchor": "The year has turned, the days growing shorter, a fact I seem almost entirely to have missed",
+      "start": 3658,
+      "end": 3749
+    },
+    {
+      "value": "Leah（莉娅）：本章另一主角，被照护者",
+      "anchor": "Leah lies on the grass where she has fallen, curved into herself like a conch",
+      "start": 4844,
+      "end": 4921
+    },
+    {
+      "value": "the Centre（中心）：治疗/研究机构，现已失联",
+      "anchor": "I google the Centre instead and find that the website I was expecting is likewise not there",
+      "start": 2276,
+      "end": 2367
+    }
+  ]
+}

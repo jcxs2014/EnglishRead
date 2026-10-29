@@ -1,0 +1,268 @@
+{
+  "chapter": 25,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/ch25 leah falls on the common.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch25_miri.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Leah bathes for approximately sixty per cent of the day, though this is swiftly becoming something more like seventy. I ",
+          "ok": true,
+          "pos": 91
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Sometimes, when I look in the mirror that has hung in the hall since we moved in, I think I see myself not where I am bu",
+          "ok": true,
+          "pos": 1126
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It bounced, she says and asks if I have a secondary method of payment. She tells me that she won’t be able to continue u",
+          "ok": true,
+          "pos": 1562
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "For the first time since Leah returned, I go to search for the site run by the wives of fictional spacemen, but it has b",
+          "ok": true,
+          "pos": 2076
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Today, she is quiet, goes where I lead her until suddenly seeming to become unable, dragging downwards on my arm in a sl",
+          "ok": true,
+          "pos": 4307
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "A woman, passing by with a dachshund wrapped up in a fuchsia jacket, pauses to ask if my friend is all right and I tell ",
+          "ok": true,
+          "pos": 4603
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "She says nothing now, though she seems to follow the movie, flicks water at the back of my head the first time the shark",
+          "ok": true,
+          "pos": 5613
+        }
+      ],
+      "words": 58
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 92,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.47
+      }
+    }
+  ],
+  "form": {
+    "h1": "25. Chapter Twenty-Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1169,
+    "block_target": [
+      2,
+      4
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 7、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
