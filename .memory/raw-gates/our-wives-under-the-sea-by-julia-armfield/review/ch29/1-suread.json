@@ -1,0 +1,172 @@
+{
+ "chapter": "ch29",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch29_miri.txt",
+ "facts": [
+  {
+   "fact": "叙述者 Miri 在常与 Carmen 同去的咖啡馆里第一次正式见到 Jelka 的姐姐 Juna：Juna 高个、说话带着说不清的口音，紧张时反复咬上唇皮肤，端着两杯茶和一块「看起来很沮丧」的苹果蛋糕回来，一边吃一边说它难吃。",
+   "anchor": "The woman across from me is tall in a way I’m not used to",
+   "start": 8,
+   "end": 65
+  },
+  {
+   "fact": "出门前 Miri 把 Leah 留在浴缸里，电视开着但尽量远离水，声音机调到中档；她一度想叫 Sam 来照看，又觉得这个阶段不能把第三方拉进这局面，且一路上几次想打电话取消这次会面。",
+   "anchor": "I had left Leah in the bath with the TV on but as far away from the water as possible",
+   "start": 2738,
+   "end": 2823
+  },
+  {
+   "fact": "Juna 谨慎地求证称呼——「我该说妻子吗？」——然后说出两人的连接：「我妹妹和你妻子是一起下潜的」，Miri 回应说她们只在那次出发前的招待会上见过一次。",
+   "anchor": "my sister and your wife were on the dive together, as you know",
+   "start": 4187,
+   "end": 4249
+  },
+  {
+   "fact": "Miri 追问那些深夜打来、接起却无人应答的电话，怀疑来自中心，并提到中心网站已经消失；Juna 否认打过多次，说她只打过一次、是 Miri 接的，并说自己早料到网站会消失，一直在私下查问。",
+   "anchor": "they never answer when I pick up the phone, though I don’t always pick up the phone any more",
+   "start": 5045,
+   "end": 5137
+  },
+  {
+   "fact": "核心转折：Juna 直接说「我需要告诉你，我妹妹死了」，并说要把她知道的事告诉 Miri；Miri 事后只记得脸发僵、后槽牙重新疼起来，打断她、说改天再通电话，离席时忘了付茶钱，Juna 已替她付并陪她走了一段回家的路。",
+   "anchor": "I need to tell you that my sister is dead,” she says",
+   "start": 7099,
+   "end": 7151
+  },
+  {
+   "fact": "回家后 Miri 在厨房反复回放 Juna 的话：中心起初给 Juna 前后矛盾的信息，随后开始屏蔽她的电话，最后似乎整个关门；她被迫自己去查，手里还有东西要给 Miri 看，并说「我不想让你一个人」。",
+   "anchor": "the Centre had at first given her contradictory information, then seemed to start screening her calls",
+   "start": 9035,
+   "end": 9136
+  },
+  {
+   "fact": "结尾异变：Leah 的声音机发出卡顿杂音后突然停止，Leah 赤裸、湿漉漉地站在门厅门口，一只眼睛已不再是一只眼睛，而是一个半固体的纯水球；它爆开时像蛋黄脱离蛋白一样顺着她的脸流下，Miri 捂住口鼻，仿佛已经闻到气味。",
+   "anchor": "one of her eyes is no longer an eye but a strange, semi-solid globe",
+   "start": 9959,
+   "end": 10026
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Miri–Juna",
+   "kind": "初次正式会面的陌生人；Juna 是死者 Jelka 的姐姐，主动约见、替 Miri 付茶钱并陪她走一段路，试图不让 Miri 独自承受。",
+   "anchor": "Her name is Juna, something she has to tell me twice",
+   "start": 1365,
+   "end": 1417
+  },
+  {
+   "pair": "Juna–Jelka",
+   "kind": "姐妹；Juna 称 Jelka 为「我妹妹」（my sister），并因她的死向 Miri 说明真相。",
+   "anchor": "I had almost abandoned the plan of meeting Jelka’s sister",
+   "start": 2923,
+   "end": 2980
+  },
+  {
+   "pair": "Miri–Leah",
+   "kind": "伴侣/夫妻（Juna 用 your wife 一词向 Miri 求证）；Miri 是 Leah 的照护者，离家前为她安排浴缸、电视与声音机。",
+   "anchor": "told her I would be back as soon as I could",
+   "start": 2878,
+   "end": 2921
+  },
+  {
+   "pair": "Miri–Carmen",
+   "kind": "朋友；Carmen 是 Miri 常一起去那家咖啡馆的人，但 Miri 已想不起多久没联系她。",
+   "anchor": "We’re in the cafe I often visit with Carmen",
+   "start": 374,
+   "end": 417
+  },
+  {
+   "pair": "Miri–Sam",
+   "kind": "可求助的朋友/熟人；Miri 一度考虑叫 Sam 来看护 Leah，最终没有叫。",
+   "anchor": "I hadn’t been keen on leaving Leah, had half considered calling Sam",
+   "start": 2483,
+   "end": 2550
+  },
+  {
+   "pair": "the Centre–Jelka/Juna",
+   "kind": "机构与潜水者家属；中心先给家属矛盾信息、继而屏蔽电话、最后关站消失，迫使 Juna 自行调查。",
+   "anchor": "She had been forced to find things out for herself, she told me, had things she needed to show me",
+   "start": 9181,
+   "end": 9278
+  }
+ ],
+ "numbers": [
+  {
+   "value": "专名 Juna（Juna）",
+   "anchor": "Juna is still nodding, tilts her head one way and then the other",
+   "start": 6098,
+   "end": 6162
+  },
+  {
+   "value": "专名 Jelka（Jelka）",
+   "anchor": "she must look similar to Jelka, except that I cannot for the life of me remember",
+   "start": 1083,
+   "end": 1163
+  },
+  {
+   "value": "专名 Leah（Leah）",
+   "anchor": "Leah makes a sound halfway between a cry and a loud exhalation",
+   "start": 9808,
+   "end": 9870
+  },
+  {
+   "value": "专名 Carmen（Carmen）",
+   "anchor": "how long it’s been since I last checked in with Carmen",
+   "start": 498,
+   "end": 552
+  },
+  {
+   "value": "专名 Sam（Sam）",
+   "anchor": "had half considered calling Sam to come and watch her while I was gone",
+   "start": 2519,
+   "end": 2589
+  },
+  {
+   "value": "专名 中心 the Centre（the Centre）",
+   "anchor": "I thought they were from the Centre but now I just don’t know",
+   "start": 5743,
+   "end": 5804
+  },
+  {
+   "value": "六份额外浓缩咖啡（Six extra shots）",
+   "anchor": "Six extra shots and I’ll be on the ceiling",
+   "start": 1975,
+   "end": 2017
+  },
+  {
+   "value": "两杯茶（two cups of tea）",
+   "anchor": "bearing two cups of tea and a slice of depressed-looking apple cake",
+   "start": 666,
+   "end": 733
+  },
+  {
+   "value": "每十五秒（every fifteen seconds）",
+   "anchor": "tilts her chin upwards every fifteen seconds as though remembering to keep her skin away from her collar",
+   "start": 6880,
+   "end": 6984
+  },
+  {
+   "value": "五十岁（fifty）",
+   "anchor": "You know when two people are fifty, she said",
+   "start": 8148,
+   "end": 8192
+  },
+  {
+   "value": "一次（Just once）",
+   "anchor": "Just once, at the party before they went away",
+   "start": 4300,
+   "end": 4345
+  },
+  {
+   "value": "第三方（a third party）",
+   "anchor": "there was somehow no way of bringing a third party into the situation at this late stage",
+   "start": 2639,
+   "end": 2727
+  },
+  {
+   "value": "一只眼睛（one of her eyes）",
+   "anchor": "and that one of her eyes is no longer an eye",
+   "start": 9950,
+   "end": 9994
+  }
+ ]
+}
