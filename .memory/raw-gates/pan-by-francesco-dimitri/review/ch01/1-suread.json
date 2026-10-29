@@ -1,0 +1,106 @@
+{
+ "chapter": "ch01",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch01_things_that_happen_on_roman_nights.txt",
+ "facts": [
+  {
+   "fact": "Timoteo 在 Tor Bella Monaca 的家里做梦，梦里某个东西在追杀他，他知道有个英雄能保护他。",
+   "anchor": "Curled up in a tattered blanket, little Timoteo—a boy more tangled hair than puppy fat—visits a world of forests and villages.",
+   "start": 500,
+   "end": 626
+  },
+  {
+   "fact": "Giulia 因半边脸的胎记每夜哭；梦里她跳进温暖的海，美人鱼吻了她的脸，胎记消失。",
+   "anchor": "Then one brushes a kiss against her cheek. Giulia starts back, because she doesn’t want this splendid creature to taint her lips on the Mark.",
+   "start": 2217,
+   "end": 2358
+  },
+  {
+   "fact": "Zivorad 睡在台伯河桥下的垃圾与老鼠堆里，梦里扑向满桌食物；一只戴手套的手落到他脸上，一个男人说不想伤害他（叙述者说他在撒谎）。",
+   "anchor": "Then a gloved hand emerges from the dark and alights on his cheek.",
+   "start": 3730,
+   "end": 3796
+  },
+  {
+   "fact": "Wendy 二十五岁，在主显节前夜的纳沃纳广场摊位变戏法，自觉已经太老、奇迹再也没有位置。",
+   "anchor": "While the children sleep, the Wondrous Wendy is obliged to put on a smile. She is twenty-five, and already feels too old.",
+   "start": 4075,
+   "end": 4196
+  },
+  {
+   "fact": "Wendy 从粉衣男的耳后变出红围巾，并告诉他再做一次魔法就失效，套件十五欧元。",
+   "anchor": "“If you do it again, the magic wears out,” answers Wendy. “But for fifteen euros the kit is yours.”",
+   "start": 7147,
+   "end": 7246
+  },
+  {
+   "fact": "PsyKlops 与 Wedge（真名 Giulio 与 Luca，分别是建筑师与罗马顶级商务顾问之子）去 San Basilio 涂鸦，被一群孩子围住。",
+   "anchor": "And now PsyKlops and Wedge—or rather Giulio and Luca, sons respectively of an architect and one of Rome’s leading business consultants—are scared.",
+   "start": 12734,
+   "end": 12880
+  },
+  {
+   "fact": "事后 Giulio 被杀死剥皮、Luca 背被打断、一只耳被撕掉；一个赤脚、比孩子们略高的身影对他耳语「告诉他们他要回来了」。",
+   "anchor": "Later, when Giulio is dead and skinned, and Luca’s back is broken and one of his ears ripped off, a graceful figure comes close.",
+   "start": 12952,
+   "end": 13080
+  }
+ ],
+ "numbers": [
+  {
+   "value": "观众十人（含两位听不懂日语的老夫妇）",
+   "anchor": "The audience (ten in total, including two elderly Japanese tourists who don’t understand a word) applaud.",
+   "start": 5665,
+   "end": 5770
+  },
+  {
+   "value": "二十五岁",
+   "anchor": "She is twenty-five, and already feels too old.",
+   "start": 4150,
+   "end": 4196
+  },
+  {
+   "value": "十五欧元",
+   "anchor": "But for fifteen euros the kit is yours.",
+   "start": 7206,
+   "end": 7245
+  },
+  {
+   "value": "五岁不到",
+   "anchor": "It’s a tiny boy who can’t be more than five years old, with brown skin and tightly curled hair.",
+   "start": 10454,
+   "end": 10549
+  },
+  {
+   "value": "十二月起就摆摊；主显节前夜",
+   "anchor": "The piazza has been full of stalls since early December. Tonight is the Eve of the Epiphany",
+   "start": 4485,
+   "end": 4576
+  },
+  {
+   "value": "发动机车最后一百米",
+   "anchor": "Wedge doesn’t want to, not here, and after all it’s only another hundred metres.",
+   "start": 8525,
+   "end": 8605
+  }
+ ],
+ "relations": [
+  {
+   "note": "Giulio（PsyKlops）是建筑师之子，Luca（Wedge）是商务顾问之子——涂鸦二人组的家世。",
+   "anchor": "And now PsyKlops and Wedge—or rather Giulio and Luca, sons respectively of an architect and one of Rome’s leading business consultants—are scared.",
+   "start": 12734,
+   "end": 12880
+  },
+  {
+   "note": "那群孩子听命于一个「他要回来了」的存在，并以伤害两个少年执行它。",
+   "anchor": "“Tell them he’s coming back,” they whisper.",
+   "start": 13333,
+   "end": 13376
+  },
+  {
+   "note": "Wendy 是变戏法的艺人，不是被请来的贵宾：她在广场摆摊卖道具谋生。",
+   "anchor": "Sleight of hand for sale for everyone, art given away to people who can’t appreciate it.",
+   "start": 8047,
+   "end": 8135
+  }
+ ]
+}
