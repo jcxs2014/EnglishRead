@@ -1,0 +1,134 @@
+{
+  "chapter": "ch08",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch08_leah.txt",
+  "facts": [
+    {
+      "fact": "Jelka 在第一小时后停止祈祷，改为哼歌（Leah 觉得这更糟）",
+      "anchor": "Jelka stopped praying after the first hour and instead started humming",
+      "start": 404,
+      "end": 474
+    },
+    {
+      "fact": "Matteo 手肘撞上通讯台一角并咒骂，说在这种玩具盒般的艇里能摔断脖子，Leah 出声让他别弄坏值钱东西",
+      "anchor": "Matteo caught his elbow on the corner of the comms deck and cursed",
+      "start": 914,
+      "end": 980
+    },
+    {
+      "fact": "Leah 想到下潜到三万五千英尺时本应释放配重减速，但已无操作办法、也无法判断已下潜多深",
+      "anchor": "we’d need to release weights to slow our descent once we reached thirty-five thousand feet",
+      "start": 1516,
+      "end": 1606
+    },
+    {
+      "fact": "Matteo 取出四把宽体电筒放在主舱底部四周，舱内重获照明",
+      "anchor": "Matteo brought out four wide electric torches",
+      "start": 2337,
+      "end": 2382
+    },
+    {
+      "fact": "Leah 问「我们是不是该做点什么」，两人都不作声，Matteo 随后用牙缝吹口哨《Farewell and adieu to you fair Spanish ladies》",
+      "anchor": "Farewell and adieu to you fair Spanish ladies",
+      "start": 3477,
+      "end": 3522
+    },
+    {
+      "fact": "七岁时父亲把 Leah 的手指从市立泳池边掰开、扔进深水区教她游泳",
+      "anchor": "he wrenched my knuckles from the side of the municipal swimming pool and hurled me into the deep end",
+      "start": 3651,
+      "end": 3751
+    },
+    {
+      "fact": "Leah 最爱 Thor Heyerdahl 乘手工木筏、仅五人横渡太平洋五千英里的故事",
+      "anchor": "sailed five thousand miles across the Pacific in a hand-built raft crewed only by five men",
+      "start": 5590,
+      "end": 5680
+    },
+    {
+      "fact": "结尾 Leah 屏住呼吸、想着尖叫，想象海洋走到尽头",
+      "anchor": "so I held my breath and thought about screaming and imagined the ocean coming to an end",
+      "start": 7626,
+      "end": 7713
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Leah–Jelka",
+      "kind": "同舱难友：Leah 嫌她哼歌更糟，却压住话头、强迫自己善意以待",
+      "anchor": "Jelka stopped praying after the first hour and instead started humming",
+      "start": 404,
+      "end": 474
+    },
+    {
+      "pair": "Leah–Matteo",
+      "kind": "同舱难友：Leah 主动帮他敲控制台，尽管这并非她的职责、也不会有用",
+      "anchor": "Matteo continued to batter vaguely at the console and I helped him",
+      "start": 750,
+      "end": 816
+    },
+    {
+      "pair": "Leah–father",
+      "kind": "父女：父亲以近乎狂热的「厌恶疗法」把她扔进深水区教会她游泳，后又教她水肺潜水",
+      "anchor": "My father taught me to swim and later to scuba-dive",
+      "start": 4997,
+      "end": 5048
+    },
+    {
+      "pair": "Leah–mother",
+      "kind": "母女：母亲以日常物件照料她（UltraSwim 去氯洗发水），并向她解释离婚",
+      "anchor": "my mum bought me UltraSwim chlorine removal shampoo",
+      "start": 5050,
+      "end": 5101
+    }
+  ],
+  "numbers": [
+    {
+      "value": "seven（七岁）",
+      "anchor": "When I was seven",
+      "start": 3583,
+      "end": 3599
+    },
+    {
+      "value": "thirty-five thousand feet（三万五千英尺）",
+      "anchor": "thirty-five thousand feet",
+      "start": 1581,
+      "end": 1606
+    },
+    {
+      "value": "six miles（六英里）",
+      "anchor": "upwards of six miles of water on top of us",
+      "start": 1874,
+      "end": 1916
+    },
+    {
+      "value": "four（四把电筒）",
+      "anchor": "four wide electric torches",
+      "start": 2356,
+      "end": 2382
+    },
+    {
+      "value": "six feet（六英尺）",
+      "anchor": "as much as up to six feet above the surface",
+      "start": 6617,
+      "end": 6660
+    },
+    {
+      "value": "five thousand miles（五千英里）",
+      "anchor": "five thousand miles across the Pacific",
+      "start": 5597,
+      "end": 5635
+    },
+    {
+      "value": "five men（五人）",
+      "anchor": "crewed only by five men",
+      "start": 5657,
+      "end": 5680
+    },
+    {
+      "value": "first hour（第一小时）",
+      "anchor": "after the first hour",
+      "start": 426,
+      "end": 446
+    }
+  ]
+}

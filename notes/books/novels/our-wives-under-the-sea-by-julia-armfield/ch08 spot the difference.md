@@ -27,7 +27,43 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "It was like the dispassionate realisation that one has left the house without first turning a light out – unfortunate but hardly a disaster. I don’t remember thinking we would die, so much as noting that we wouldn’t be able to come back up again. I don’t remember thinking we could fix things, only wondering what would happen next."
+> **原句 2:** "Jelka stopped praying after the first hour and instead started humming, which was worse. I considered saying something and then willed myself to kindness. How would you feel, I thought, forgetting for a moment that I was in the exact same position as her."
+
+**中文理解**：第一个小时之后，Jelka 不再祈祷，改成哼歌——那更难忍受。Leah 想过说点什么，又把自己劝回了善意：她问自己「换作是你会怎么想」，可就在问的这一瞬，她忘了自己和 Jelka 的处境完全相同。
+
+**关键词**：started humming, which was worse / willed myself to kindness / in the exact same position as her
+
+**为什么这样写**：这一块写的是烦躁，而不是恐惧：作者让被困的三个人里先冒出「忍不了对方」的念头，再用 willed myself to kindness 把它压下去。最后一句是自嘲式的：她提醒自己设身处地，却在提醒的那一秒忘了处境相同——这点小小的自我中心，比祈祷或哼歌都更真实。全书一直在写「人在灾难里还会计较」，这里是最温和的一例。
+
+**读者视角提示**：Jelka 的哼歌在后面还会出现。注意 Leah 对她的不耐烦从来不是嫌恶，而是一种「我们一样」的烦躁。
+
+---
+
+> **原句 3:** "At one point, Matteo caught his elbow on the corner of the comms deck and cursed, drawing up sharply and swearing he could break his neck in a fucking toybox craft like this. I clicked my tongue and told him to stop before he broke something worth actual money."
+
+**中文理解**：有一次，Matteo 的手肘撞上通讯台的边角，骂了一句，猛地直起身，说在这么个破玩具盒似的艇里他早晚把脖子折断。Leah 啧了一声，让他住手，别把值钱的东西弄坏。
+
+**关键词**：caught his elbow on the corner / a fucking toybox craft / clicked my tongue / worth actual money
+
+**为什么这样写**：这段是全章最像日常的一幕：一艘正在下沉的艇里，两个人在为「别撞坏东西」较劲。她让他别弄坏值钱的设备——在一件可能马上要被六英里海水压碎的器物里，这句话荒唐得准确。作者借 Matteo 的咒骂把「玩具盒」这个称法给了船：三人从头到尾都知道自己坐在一个玩具里。而她的回应之所以重要，是因为它维持了一种秩序：还有东西值得爱惜。
+
+**读者视角提示**：把「玩具盒」记下来。后面凡是有谁提到这条艇的尺寸或坚固程度，都可以回到这一句。
+
+---
+
+> **原句 4:** "At some point, Matteo brought out four wide electric torches and placed them round the base of the main deck. Since the console lights had failed, we’d been sitting in semi-darkness, and in this fresh illumination, I looked about the craft the way one might peruse a Spot the Difference game – the same, but with deliberate mistakes. Same console, but with all the buttons dim, same machinery, only silent."
+
+**中文理解**：某个时候，Matteo 拿出四把宽体电筒，围着主舱底部摆了一圈。控制台的灯坏了之后，他们一直坐在半暗里；在这片新亮起来的光里，她打量船舱的方式像在看一局「找不同」——还是一样，只是被人为放进了错误。同样的控制台，只是所有按钮都暗着；同样的机器，只是不出声了。
+
+**关键词**：four wide electric torches / a Spot the Difference game / with deliberate mistakes / only silent
+
+**为什么这样写**：章题在这里落地，而且是作为**感知方式**落地的：她不是在害怕，她是在做校对。这正是全书对「灾难」最准确的描写——先注意到哪里不对，再意识到不对意味着什么。三组 same…but… 的排比把差异一个个列出来：按钮暗了、机器静了，人还在。四把电筒是全章唯一一次有人「改善」环境，可惜只改善了看得见的表面。
+
+**读者视角提示**：记住「找不同」这个姿势：后面她会反复清点、比对、确认哪一样还在原位。这是她的应对机制，也是这本书写悲伤的方法。
+
+---
+
+> **原句 5:** "It was like the dispassionate realisation that one has left the house without first turning a light out – unfortunate but hardly a disaster. I don’t remember thinking we would die, so much as noting that we wouldn’t be able to come back up again. I don’t remember thinking we could fix things, only wondering what would happen next."
 
 **中文理解**：这一切她都想到了，但只在一个「隔开」的距离上想到：就像出门时忘了关灯——不幸，但算不上灾难。她记得的不是「我们会死」，而是「我们回不去了」；不是「我们能修好」，而只是「接下来会怎样」。
 
@@ -39,7 +75,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "When I was seven, my father taught me to swim, by which I mean that he wrenched my knuckles from the side of the municipal swimming pool and hurled me into the deep end with a ruthlessness bordering on zealotry. Just keep your head up, he yelled, impassive to my shrieking and to the well-intentioned lifeguard who blew a feeble whistle twice and then gave up."
+> **原句 6:** "When I was seven, my father taught me to swim, by which I mean that he wrenched my knuckles from the side of the municipal swimming pool and hurled me into the deep end with a ruthlessness bordering on zealotry. Just keep your head up, he yelled, impassive to my shrieking and to the well-intentioned lifeguard who blew a feeble whistle twice and then gave up."
 
 **中文理解**：七岁那年父亲教她游泳——所谓教，是把她的指节从市立泳池的池边掰开，然后带着近乎狂热的狠劲把她扔进深水区。他就喊「把头抬起来」，对她的尖叫无动于衷，对那个吹了两声弱哨子就放弃的救生员也无动于衷。
 
@@ -51,7 +87,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "I thought of the way deep things move upwards, of the ocean’s escapability, even despite its depths. If you’ve got breath enough to scream, as my father said, you’re not drowning, and so I held my breath and thought about screaming and imagined the ocean coming to an end."
+> **原句 7:** "Neither of them said anything to this, although Matteo did begin to whistle, which was a weak advance on Jelka’s humming. He whistled tunefully and through his teeth, Farewell and adieu to you fair Spanish ladies swooning low about the tin-can confines of the craft."
+
+**中文理解**：两个人都没回答她那句「我们是不是该做点什么」，不过 Matteo 开始吹口哨——比起 Jelka 的哼歌，这算是微弱的进步。他吹得很准，用牙缝出声，《别了，别了，美丽的西班牙女士》低低地在罐头似的船舱里回绕。
+
+**关键词**：a weak advance / through his teeth / Farewell and adieu / tin-can confines
+
+**为什么这样写**：她的问句没有人回答（问题本身在上一段，是这一块的空位），Matteo 用口哨作答：一首告别的歌，吹得很轻，只在牙缝里。把这个反应写成「微弱的进步」，是整章最刻薄也最温柔的一句——三个人都已经放弃了「做点什么」，只剩彼此的声音还能比较。tin-can confines 又把艇写回罐头：人在里面，声音在里面，出不去。
+
+**读者视角提示**：留意这首曲子的名字——它是一首告别歌。作者从不直接写「他们觉得回不去了」，只让某人吹一首这样的歌。
+
+---
+
+> **原句 8:** "I thought of the way deep things move upwards, of the ocean’s escapability, even despite its depths. If you’ve got breath enough to scream, as my father said, you’re not drowning, and so I held my breath and thought about screaming and imagined the ocean coming to an end."
 
 **中文理解**：她想到深的东西会浮上来，想到海洋尽管深也仍然可以逃出去。父亲那句「只要还有力气喊，你就没在淹死」又回来了——于是她屏住呼吸，想着喊叫，想象海洋有一个尽头。
 
