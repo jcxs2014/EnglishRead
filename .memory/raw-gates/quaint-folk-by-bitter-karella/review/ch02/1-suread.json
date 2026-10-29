@@ -1,0 +1,73 @@
+{
+ "chapter": "ch02",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "13/13 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[413:482]",
+   "anchor": "first by plane, then car, now by boat, with a complaining teen in tow",
+   "fact": "旅程：飞机→汽车→渡轮，青少年全程抱怨"
+  },
+  {
+   "range": "[6634:6709]",
+   "anchor": "’Tain’t been lit in years, ma’am. ’Tain’t necessary. No one comes this way.",
+   "fact": "船长：灯塔多年未亮、没人走这条路"
+  },
+  {
+   "range": "[3888:3978]",
+   "anchor": "Greg, under Jessica’s direct supervision, had reserved a compact car at the London airport",
+   "fact": "Greg 订紧凑车无货，只能换 '24 巨兽"
+  },
+  {
+   "range": "[9056:9132]",
+   "anchor": "Okay, yeah, that is a good point. Sorry, champ. Ixnay on the driving lesson.",
+   "fact": "Greg 学车提议被 Jessica 以押金理由否决"
+  },
+  {
+   "range": "[9760:9833]",
+   "anchor": "I was reading the confessions of this Scottish witch called isobel gowdie",
+   "fact": "论坛上 Sandy 贴 isobel gowdie 自白与变兔咒"
+  },
+  {
+   "range": "[12996:13102]",
+   "anchor": "It had finally happened, out here on the open ocean. They had passed beyond the reach of the modern world.",
+   "fact": "渡海断网，驶出现代世界信号范围"
+  },
+  {
+   "range": "[15485:15572]",
+   "anchor": "a waterlogged sign announced: WELCOME TO THE VILLAGE OF HASENHURST. A QUAINT COMMUNITY.",
+   "fact": "抵达标牌 + 第二块 WHERE TRADITIONS NEVER DIE"
+  },
+  {
+   "range": "[2360:2452]",
+   "anchor": "Jessica had officially quit smoking fifteen years ago, back when she was pregnant with Sandy",
+   "fact": "Jessica 十五年前怀 Sandy 时戒烟"
+  },
+  {
+   "range": "[2929:2971]",
+   "anchor": "the family’s rented ’24 Jeep Grand Manitou",
+   "fact": "租的车是 '24 Jeep Grand Manitou"
+  },
+  {
+   "range": "[7250:7333]",
+   "anchor": "HOT SNOT ’22 WORLD TOUR emblazoned across the front in spiky white heavy metal font",
+   "fact": "Sandy 背心印 HOT SNOT '22 WORLD TOUR"
+  },
+  {
+   "range": "[14740:14822]",
+   "anchor": "Sandy had cursed Roger Jacobs (who had pulled Sandy’s hair and called them a slur)",
+   "fact": "Sandy 诅咒过 Roger Jacobs 等同学与 Mr. Williams"
+  },
+  {
+   "range": "[13573:13680]",
+   "anchor": "the Federal Accumulation Agency had removed the L’s, G’s, B’s, T’s and Q’s from the names of public schools",
+   "fact": "反 LGBTQ 条令把字母从校名移除"
+  },
+  {
+   "range": "[12165:12236]",
+   "anchor": "sorry my mom interrupted me. She wanted me to see some dumb English fog",
+   "fact": "论坛身份对应：Sandypants 即 Sandy 本人"
+  }
+ ]
+}

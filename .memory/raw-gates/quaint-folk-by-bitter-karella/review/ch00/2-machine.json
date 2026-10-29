@@ -1,0 +1,160 @@
+{
+  "chapter": 0,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch00 the house is not empty.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch00_chap00.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The grounds of Hollyoak House still retained a certain regal dignity in slow decay. The once-spectacular sunken garden w",
+          "ok": true,
+          "pos": 3
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Hollyoak House was comfortable without being ostentatious, stately without being insistent, three good solid stories, tw",
+          "ok": true,
+          "pos": 1133
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A good family would do well here, so it was a shame, the locals said, that such a beautiful house should stand empty—alt",
+          "ok": true,
+          "pos": 1513
+        }
+      ],
+      "words": 68
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 103,
+        "关键词": 16,
+        "为什么这样写": 70,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.22,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 13,
+        "为什么这样写": 60,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.2,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 17,
+        "为什么这样写": 64,
+        "读者视角提示": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.25,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.6
+      }
+    }
+  ],
+  "form": {
+    "h1": "0. Chapter Zero",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 3,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 3,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 394,
+    "block_target": [
+      2,
+      2
+    ],
+    "block_hint": "块数 3 偏离本书常见区间 7–21（本书 28 章中位 14、最高 15（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

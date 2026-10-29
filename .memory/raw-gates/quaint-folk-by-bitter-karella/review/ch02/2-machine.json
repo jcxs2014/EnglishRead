@@ -1,0 +1,376 @@
+{
+  "chapter": 2,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch02 the ferry and the unlit lighthouse.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch02_chap02.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The trip from America was long and arduous—first by plane, then car, now by boat, with a complaining teen in tow the ent",
+          "ok": true,
+          "pos": 350
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Far enough, ma’am.” The ferry captain gazed levelly at Jessica, his expression blank as if he could not comprehend her ",
+          "ok": true,
+          "pos": 1253
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The roads on the mainland were clogged with tourists from Canada, China, America . . . But Jessica and her family appear",
+          "ok": true,
+          "pos": 2663
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It was designed to be driven in closed-circuit racecourses on the set of Jeep Grand Manitou commercials, and it was best",
+          "ok": true,
+          "pos": 3332
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "They would be cooped up together in a darling little guesthouse, and the enforced togetherness would finally bring this ",
+          "ok": true,
+          "pos": 4359
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The ferry bucked as it hit a swell and Jessica grabbed at the railing, barely maintaining balance. The captain gripped t",
+          "ok": true,
+          "pos": 6212
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“ ’Tain’t been lit in years, ma’am. ’Tain’t necessary. No one comes this way.”",
+          "ok": true,
+          "pos": 6541
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Greg sat in the front seat of the Manitou, drumming his hairy hands idly against the steering wheel, his sunglasses hook",
+          "ok": true,
+          "pos": 6799
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Sandypants (they/them): she had a spell for turning into a hare—“with sighing and sorrow and meckle care, I go forth in ",
+          "ok": true,
+          "pos": 9629
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Sandy waited patiently for the electronic device to find the signal again, but after a few minutes it was apparent that ",
+          "ok": true,
+          "pos": 12564
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "The outline of land was just visible through the pea soup mist and, right there, standing above the surface of the sea u",
+          "ok": true,
+          "pos": 14984
+        }
+      ],
+      "words": 45
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.94
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.33,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.27,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.29
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.34,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "2. Chapter Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2624,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

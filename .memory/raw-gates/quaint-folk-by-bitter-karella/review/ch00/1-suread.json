@@ -1,0 +1,16 @@
+{
+  "chapter": "ch00",
+  "reviewer": "R1 子代理（仅读 text/ch00_chap00.txt）",
+  "date": "2026-10-29",
+  "anchors_checked": "8/8 全命中（Python find 实测偏移）",
+  "facts": [
+    {"range": "[5:88]", "anchor": "The grounds of Hollyoak House still retained a certain regal dignity in slow decay.", "fact": "叙述断言庭园在缓慢衰败中仍保有某种高贵（开篇总起）"},
+    {"range": "[867:955]", "anchor": "The exact age of the house was uncertain, and the foundations were even older than that.", "fact": "房子确切年龄不确定，地基比房子还老"},
+    {"range": "[1229:1311]", "anchor": "three good solid stories, twelve bedrooms and three baths of refined luxury living", "fact": "规格：三层、十二卧、三浴（另有管道、电力、瞭望塔接 widow's walk）"},
+    {"range": "[1428:1517]", "anchor": "There were other rooms, whose existence was not advertised and whose purpose was obscure.", "fact": "另有一些房间存在不宣传、用途不明"},
+    {"range": "[1557:1636]", "anchor": "it was a shame, the locals said, that such a beautiful house should stand empty", "fact": "本地人说空着可惜；下半句点明人人心里明白房子并不空"},
+    {"range": "[1765:1870]", "anchor": "lurking within the warren of the home's long, long corridors and padding silently over threadbare carpets", "fact": "屋内潜伏着 something：长廊迷阵里深夜无声走过磨薄地毯"},
+    {"range": "[2156:2273]", "anchor": "Sometimes there were sounds in the middle of the night, the faint scuttling of something moving in just the next room", "fact": "半夜有窸窣声，永远「就在隔壁房间」"},
+    {"range": "[2304:2338]", "anchor": "And, sometimes, there were dreams.", "fact": "章末句：有时还有梦"}
+  ]
+}

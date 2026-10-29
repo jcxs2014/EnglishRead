@@ -1,0 +1,98 @@
+{
+ "chapter": "ch01",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "18/18 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[9565:9634]",
+   "anchor": "I spoke to him earlier tonight; he tells me that he’s a they/them now",
+   "fact": "Stan 的妻子自称当晚与 Sandy 谈过代词"
+  },
+  {
+   "range": "[13865:13911]",
+   "anchor": "Stan said he was getting into fights at school",
+   "fact": "Stan 转述 Sandy 在校打架"
+  },
+  {
+   "range": "[13917:14007]",
+   "anchor": "They’re getting into fights at school.” Jessica was gratified that she was able to correct",
+   "fact": "Jessica 当场纠正代词并称只打过一次架"
+  },
+  {
+   "range": "[4257:4361]",
+   "anchor": "Stan was sending her family there so her husband, Greg, could complete some sort of arcane business deal",
+   "fact": "Stan 派 Greg 一家赴 Hasenhurst 谈交易"
+  },
+  {
+   "range": "[10633:10687]",
+   "anchor": "the purple hair? It might put people off in Hasenhurst",
+   "fact": "Stan 妻劝紫发惹人反感"
+  },
+  {
+   "range": "[15242:15338]",
+   "anchor": "He took the opportunity to peep at Jessica’s cleavage with the subtlety of an experienced peeper",
+   "fact": "Stan 借评理偷看 Jessica 乳沟"
+  },
+  {
+   "range": "[6722:6805]",
+   "anchor": "Sandy hoisted themself out of the pool and scampered, dripping, to the diving board",
+   "fact": "Sandy 泳池跳水逗乐 Stan 家孩子"
+  },
+  {
+   "range": "[17099:17183]",
+   "anchor": "It’s a fantasy story for young people, about a princess who doesn’t follow the rules",
+   "fact": "Jessica 主动介绍 Princess Kayla 书稿"
+  },
+  {
+   "range": "[2920:2959]",
+   "anchor": "Jessica’s husband’s boss was named Stan",
+   "fact": "关系：Stan 是 Greg 的老板"
+  },
+  {
+   "range": "[4981:5094]",
+   "anchor": "was senior vice president in charge of implementation and implementainment at Ungo.com™. He was younger than Greg",
+   "fact": "Stan 是资深 VP、比 Greg 年轻"
+  },
+  {
+   "range": "[5908:5960]",
+   "anchor": "a professor of comparative literature at UC Berkeley",
+   "fact": "Stan 妻是 UC Berkeley 比较文学教授"
+  },
+  {
+   "range": "[9963:10029]",
+   "anchor": "two kids, a boy and a girl, a pair of delightful towheaded moppets",
+   "fact": "Stan 夫妇有一对金发乖孩子"
+  },
+  {
+   "range": "[598:664]",
+   "anchor": "had not received the sacrament of communion in nearly thirty years",
+   "fact": "Jessica 近三十年不领圣体"
+  },
+  {
+   "range": "[14492:14560]",
+   "anchor": "she was forty-six and didn’t turn heads at Ungo.com™ company parties",
+   "fact": "Jessica 46 岁"
+  },
+  {
+   "range": "[14647:14730]",
+   "anchor": "Sandy was fifteen; that was the age that children didn’t need their mothers anymore",
+   "fact": "Sandy 15 岁"
+  },
+  {
+   "range": "[14288:14355]",
+   "anchor": "the life that she had so carefully built over the last twenty years",
+   "fact": "二十年婚姻生活"
+  },
+  {
+   "range": "[8740:8829]",
+   "anchor": "Her arms were ringed with scars, but nothing a tasteful long-sleeved blouse wouldn’t hide",
+   "fact": "Jessica 手臂环疤靠长袖遮"
+  },
+  {
+   "range": "[515:585]",
+   "anchor": "Greengarb’s Guide to the Undiscovered Gems of Great Britain (1997 ed.)",
+   "fact": "章首 epigraph 出处 1997 年版"
+  }
+ ]
+}
