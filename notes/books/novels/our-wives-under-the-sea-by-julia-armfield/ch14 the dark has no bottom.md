@@ -17,7 +17,7 @@ modified: "2026-10-29"
 
 > **原句 1:** "It was hard to tell much in this regard by any normal method; none of us were very hungry, or very thirsty, or showing much of an impulse to sleep. I had no watch and neither did Matteo, and without power, all the dials and meters and timepieces ranged around the main console were less than useless."
 
-**中文理解**：这一段把「到底过了多久」拆成两条核对路径。先查身体：没有人明显饥饿、口渴，也没有想睡的迹象。再查器械：Leah 没有表，Matteo 也没有；断电之后，主控台周围那一圈表盘、仪表、计时器全都派不上用场。两条路都断了，时间就成了没法测量的东西。
+**中文理解**：这一段把「到底过了多久」拆成两条核对路径。先查身体：没有人明显饥饿、口渴，也没有想睡的迹象。再查器械：Leah 没有表，Matteo 也没有；断电之后，主控台周围那一圈表盘、仪表、计时器全都派不上用场。两条路都断了，时间就成了没法测量的东西。（同一段前后：Jelka 说她记得是正午下的潜，可她的表坏了、停在两点四十五；Matteo 说「也许已经过了好几天」，话一出口自己先摇头。）
 
 **关键词**：any normal method / impulse to sleep / without power / less than useless
 

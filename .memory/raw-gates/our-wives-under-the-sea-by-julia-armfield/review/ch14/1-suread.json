@@ -1,0 +1,117 @@
+{
+  "chapter": "ch14",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch14_leah.txt",
+  "facts": [
+    {
+      "fact": "Jelka 说明他们正午下潜",
+      "anchor": "“We submerged at noon,” Jelka said",
+      "start": 255,
+      "end": 289
+    },
+    {
+      "fact": "Jelka 的手表坏了停在两点四十五",
+      "anchor": "but my watch is broken. It’s stopped on two forty-five.",
+      "start": 329,
+      "end": 384
+    },
+    {
+      "fact": "三人失去计时手段且断电后仪表无用",
+      "anchor": "without power, all the dials and meters and timepieces ranged around the main console were less than useless",
+      "start": 579,
+      "end": 687
+    },
+    {
+      "fact": "Matteo 说可能已经过了好几天",
+      "anchor": "“Could have been days,” Matteo said",
+      "start": 691,
+      "end": 726
+    },
+    {
+      "fact": "Leah 问这么久却什么都没看见是否奇怪",
+      "anchor": "“Is it strange,” I asked, “that we haven’t seen anything yet?”",
+      "start": 872,
+      "end": 934
+    },
+    {
+      "fact": "Matteo 笑他盯着火炬看几小时",
+      "anchor": "“Well, I don’t know what you expect to see, buddy, just staring at that torch for hours.”",
+      "start": 1177,
+      "end": 1266
+    },
+    {
+      "fact": "Leah 反指出 Matteo 也什么都没看见",
+      "anchor": "but you haven’t seen anything either",
+      "start": 1321,
+      "end": 1357
+    },
+    {
+      "fact": "结尾点明窗外始终未见一物",
+      "anchor": "we had not seen a single thing beyond the glass",
+      "start": 2837,
+      "end": 2884
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Leah–Jelka",
+      "anchor": "“We submerged at noon,” Jelka said",
+      "start": 255,
+      "end": 289,
+      "kind": "同舱同伴，Jelka 报告下潜时间与坏表"
+    },
+    {
+      "pair": "Leah–Matteo",
+      "anchor": "“Well, I don’t know what you expect to see, buddy, just staring at that torch for hours.”",
+      "start": 1177,
+      "end": 1266,
+      "kind": "同舱同伴，Matteo 以 buddy 称呼并打趣 Leah"
+    },
+    {
+      "pair": "Jelka–腕表",
+      "anchor": "but my watch is broken. It’s stopped on two forty-five.",
+      "start": 329,
+      "end": 384,
+      "kind": "腕表已坏，停在两点四十五"
+    },
+    {
+      "pair": "Leah–Matteo",
+      "anchor": "but you haven’t seen anything either",
+      "start": 1321,
+      "end": 1357,
+      "kind": "互相反问：Leah 追问无发现，Matteo 反问他在看什么"
+    },
+    {
+      "pair": "三人–潜水器舷窗",
+      "anchor": "we had not seen a single thing beyond the glass",
+      "start": 2837,
+      "end": 2884,
+      "kind": "共同困于断电船舱，只能盯火炬与窗外"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "正午",
+      "anchor": "at noon",
+      "start": 269,
+      "end": 276
+    },
+    {
+      "value": "两点四十五",
+      "anchor": "two forty-five",
+      "start": 369,
+      "end": 383
+    },
+    {
+      "value": "三十余排针状牙",
+      "anchor": "thirty-odd rows of needle-like teeth",
+      "start": 2061,
+      "end": 2097
+    },
+    {
+      "value": "两对鼻孔",
+      "anchor": "two pairs of nostrils",
+      "start": 2173,
+      "end": 2194
+    }
+  ]
+}
