@@ -28,13 +28,13 @@ modified: "2026-10-29"
 **中文理解**：门撬开的另一侧，正要推门出去的是 Wendy，身旁是 Peter。双方迎头撞上。
 **关键词**：other side, beside
 **为什么这样写**：一个门锁的动作缝合两条并行剪辑（楼上的 Hook/楼下的 Noose 倒计时），本书的悬念语法就是让读者先于角色看见对撞。
-**读者视角提示**：Wendy 已在 ch13 末带 Peter 穿衣潜逃，此刻她刚好晚一步、也早一步——时间差是本章的显性结构。
+**读者视角提示**：Wendy 在 ch13 末刚给 Peter 找好衣裤（ch13 第 XII 节），此刻她刚好晚一步、也早一步——时间差是本章的显性结构。
 
 ---
 
 > **原句 3:** "Angela gently pushes the satyr behind her. It seems to her that she’s already seen one of Augusto’s thugs before. Not in reality, though. In dream."
 
-**中文理解**：Angela 把 satyr 轻轻推到身后；她觉得 Augosto 的一个手下似曾见过——不在现实里见过，是在梦里。
+**中文理解**：Angela 把 satyr 轻轻推到身后；她觉得 Augusto 的一个手下似曾见过——不在现实里见过，是在梦里。
 **关键词**：satyr, thugs, dream
 **为什么这样写**：认脸认到梦里，是本书特有的证据类型（ch06 Giada 的清单、ch13 Giovanni 的雕塑比对同一族）；pushes behind her 这个保护动作先于一切言语，宣告 Wendy 已选择阵营。
 **读者视角提示**：她反复做过的飞岛梦在此被点名——Wonder 对她而言不再是职业而是记忆，这个伏笔在末块的派对宣言里兑现。
@@ -133,7 +133,7 @@ modified: "2026-10-29"
 
 > **原句 14:** "Captain Hook lowers his sword. Retreat is dishonourable, but there is no honour in a stupid death either."
 
-**中文理解**：虎克克放下剑。撤退不光荣，可蠢死同样没有光荣可言。
+**中文理解**：虎克放下剑。撤退不光荣，可蠢死同样没有光荣可言。
 **关键词**：lowers, dishonourable, stupid
 **为什么这样写**：作者给反派一套自洽的成本核算式荣誉观——他与 Peter 的「不肯追杀」其实是同一枚硬币的两面；下一段 Hook 得知 Noose 违令强奸后的暴怒（要让他向往单纯的酷刑）补全了他的军法。
 **读者视角提示**：It’s hard to find a good crew 一句泄了底：这支海盗舰队兵员紧缺——这是后续战争章反复使用的现实约束。
@@ -145,7 +145,7 @@ modified: "2026-10-29"
 **中文理解**：「彼得·潘，宝贝。」少年叉着腰说。然后，派对时间到了。
 **关键词**：babe, party
 **为什么这样写**：全名的自报被放进一句轻佻称呼里——本书的仙童从不用庄严语气行使神迹；And it's time to party 与 ch12 末 Wendy 对死亡宣战同格接应：派对与战争是同一场。
-**读者视角提示**：公寓恢复原状（including some dead pirates 一句把尸体列入「额外杂乱」），Wendy 伤口仍疼但她不在乎——Book 1 在喜剧腔里落幕，Book 2（Flesh, Enchantment, Dream）由此开幕。
+**读者视角提示**：公寓恢复原状（including some dead pirates 一句把尸体列入「额外杂乱」），Wendy 伤口仍疼但她不在乎——Book 1 在喜剧腔里落幕，Book 2 由此开幕。
 
 ## 本章词汇
 

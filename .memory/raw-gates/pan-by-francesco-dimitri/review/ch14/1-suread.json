@@ -1,0 +1,119 @@
+{
+ "chapter": "ch14",
+ "file": "text/ch14_epiphany.txt",
+ "text_chars": 20014,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "Hook 内部账本：即使找到 Peter 也不留 Giada 活口（喂鲨的荣誉处决）；Michele 引起他兴趣、杀之可惜；他更想 Cavaterra 全家自愿入伙以羞辱 Stefano",
+   "anchor": "Killing him would be a terrible waste.",
+   "offset": 374
+  },
+  {
+   "id": "F2",
+   "fact": "海盗撬开 Giada 的门，正撞上要出门的 Wendy 与 Peter；Wendy 瞥见 Uncle Augusto 的杖头变尖",
+   "anchor": "Its head has become sharp, cutting.",
+   "offset": 1524
+  },
+  {
+   "id": "F3",
+   "fact": "Wendy 认出梦中飞去的岛与 Augusto 家 Galleon 同款，海盐味涌来、岛影挤进公寓；Dal Mare 跺杖喝止幻景",
+   "anchor": "the vision is too shy to claim to be real.",
+   "offset": 2243
+  },
+  {
+   "id": "F4",
+   "fact": "楼下 Noose 数到六十，Giada 求饶、被掌掴、被性侵并强奸；她夺刀刺死 Noose（死于疲惫与自满）",
+   "anchor": "is raping her",
+   "offset": 6224
+  },
+  {
+   "id": "F5",
+   "fact": "Wendy 以魔术身段抗海盗（Showtime!、缩骨逃脱、头槌），仍被围殴致伤，一滴泪不掉",
+   "anchor": "without having shed a single tear",
+   "offset": 7775
+  },
+  {
+   "id": "F6",
+   "fact": "Peter 放出绿色光之音乐（光＝音符＝爱抚），Wendy 伤口被转成快感、身体浮起；Dal Mare 扑上去，窗被撞碎",
+   "anchor": "fucking the light",
+   "offset": 9293
+  },
+  {
+   "id": "F7",
+   "fact": "Tinker Bell 率五个孩子破窗而入，孩子扑向海盗、她执刀抵住 Dal Mare；Hook 拔剑又收剑撤退（Peter 命令不追）",
+   "anchor": "“I bid you farewell,” Tinker Bell announces.",
+   "offset": 17040
+  },
+  {
+   "id": "F8",
+   "fact": "街上 Giovanni 与三名「海盗」打斗后停手，听见满城噪声被长笛编成旋律；他承认 Fatty Bolger 错了、岛存在、这就是 Enchantment",
+   "anchor": "Fatty Bolger was wrong. The Island exists.",
+   "offset": 15017
+  },
+  {
+   "id": "F9",
+   "fact": "母城万灵齐鸣召唤 Michele：Asphalt 与 Car／Scooter 交配、Bank 被 Robbery 抓住；Asphalt 告知「他回来了，战争开始」",
+   "anchor": "responds Asphalt. The war begins.",
+   "offset": 16839
+  },
+  {
+   "id": "F10",
+   "fact": "事后公寓复原（多出几具海盗尸体），Peter 化为全人少年、自报「Peter Pan, babe」，宣布派对时间到",
+   "anchor": "“Peter Pan, babe.”",
+   "offset": 19932
+  }
+ ],
+ "numbers": [
+  {
+   "value": "twelve",
+   "what": "本章十二节（I–XII）",
+   "anchor": "\nXII\n",
+   "offset": 18951
+  },
+  {
+   "value": "forty-eight to sixty",
+   "what": "Noose 的倒计时区间",
+   "anchor": "“Forty-eight,” says Noose.",
+   "offset": 976
+  },
+  {
+   "value": "five pirates",
+   "what": "围殴 Wendy 的海盗数",
+   "anchor": "he reckons she could beat all five men",
+   "offset": 5040
+  },
+  {
+   "value": "ten years younger",
+   "what": "Noose 比 Giada 小至少十岁",
+   "anchor": "at least ten years younger than her",
+   "offset": 6187
+  },
+  {
+   "value": "five children",
+   "what": "随 Tinker Bell 破窗的孩子数",
+   "anchor": "Five children accompany her",
+   "offset": 13398
+  }
+ ],
+ "relations": [
+  {
+   "who": "Noose",
+   "what": "Dal Mare 手下，强奸 Giada 后被其刺死",
+   "anchor": "Noose lowers his trousers",
+   "offset": 6270
+  },
+  {
+   "who": "Tinker Bell",
+   "what": "无鞋少女，率孩子军团救场，执刀抵住 Dal Mare",
+   "anchor": "A barefoot girl bursts into Giada’s flat",
+   "offset": 13222
+  },
+  {
+   "who": "Asphalt",
+   "what": "城市灵之一，向 Michele 宣布「他回来了」",
+   "anchor": "responds Asphalt",
+   "offset": 16839
+  }
+ ]
+}
