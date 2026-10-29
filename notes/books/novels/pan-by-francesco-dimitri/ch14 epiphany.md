@@ -62,7 +62,7 @@ modified: "2026-10-29"
 > **原句 6:** "This boy, who is at least ten years younger than her, is raping her. That is all there is to say."
 
 **中文理解**：这个至少比她小十岁的男孩正在强奸她。这就是全部，没什么再多可说的。
-**关键词**：rape, all there is to say
+**关键词**：raping, all there is to say
 **为什么这样写**：That is all there is to say 是叙述者罕见的封口句——拒绝修辞、拒绝诗意，用句号把暴行钉为事实；这与 ch13 对 Silvia 之死的华丽镜头处理构成文体对照，作者的伦理分配在此分明。
 **读者视角提示**：此前 Giada 的视线里 Noose 一度穿成 Errol Flynn 的海盗装——幻觉是创伤的失真层，不是浪漫。
 
