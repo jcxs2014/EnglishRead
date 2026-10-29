@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch55",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch55_in_which_evershag_finally_flips.txt",
+ "facts": [
+  {
+   "fact": "EVERSHAG 终于绷不住了，不请自来地去了 KANDINSKY 那间鞋盒般狭小的办公室。",
+   "anchor": "EVERSHAG finally flipped. She dropped by KANDINSKY’s shoebox of an office unannounced",
+   "start": 37,
+   "end": 122
+  },
+  {
+   "fact": "她的妆被泪痕冲得面目全非，手里拿着一个马尼拉信封。",
+   "anchor": "Her makeup was a disaster from what looked like the trails of tears. She was carrying a manila envelope.",
+   "start": 200,
+   "end": 304
+  },
+  {
+   "fact": "EVERSHAG 先说她是来告诉 KANDINSKY 自己恨她，随即改口说不恨，只是想成为她那样的人。",
+   "anchor": "I came to tell you I hate you I mean I don’t really hate you I just want to be you",
+   "start": 421,
+   "end": 503
+  },
+  {
+   "fact": "EVERSHAG 解释：她现在能帮忙，是因为她再也装不下去了。",
+   "anchor": "Now I can help because I can’t pretend anymore",
+   "start": 813,
+   "end": 859
+  },
+  {
+   "fact": "信封里是 KRAY 一直在找的东西——关于 Project GOOWIKI 的真相，证明这个项目从头就是个不会成功的假项目。",
+   "anchor": "it’s the truth the real truth about Project GOOWIKI it’s the proof that it’s all just a big fake program",
+   "start": 1258,
+   "end": 1362
+  },
+  {
+   "fact": "Marla 是在 Forward Operating Base 爆炸中死去、曾与来自西弗吉尼亚的 Eddie 订婚的人；Eddie 告诉 EVERSHAG，是 Wacker 主张不搜那个人，众人才丧命。",
+   "anchor": "Eddie told me he heard it was Wacker’s idea not to search the guy and that’s why everybody died",
+   "start": 1666,
+   "end": 1761
+  },
+  {
+   "fact": "EVERSHAG 说 Marla 是她的姐妹，她欠她这份情。",
+   "anchor": "Marla was my sister I owe her this.",
+   "start": 1896,
+   "end": 1931
+  },
+  {
+   "fact": "KANDINSKY 震惊地表示自己毫不知情，Marla 只提过有个在这里做事的姐妹，却没说是 EVERSHAG。",
+   "anchor": "Marla told me she had a sister who worked here, but she never said it was you.",
+   "start": 2010,
+   "end": 2088
+  }
+ ]
+}
