@@ -55,7 +55,7 @@ modified: "2026-10-29"
 
 **关键词**： Cooper / Andre / genuinely pleased / perspective / Program / Agency / people / job
 
-**为什么这样写**： 让 Cooper 直接叫 KRAY 的真名 Andre，并把问题从项目层面拉到“你”这个人身上，官方套话里第一次出现具体的对话对象。
+**为什么这样写**： 让 Cooper 直接叫 KRAY 的真名 Andre，并把问题从项目层面拉到“你”这个人身上，官方套话里出现具体的对话对象。
 
 **读者视角提示**： 注意 Cooper 直接称呼 Andre，语气真诚；读者应意识到这场“简短相遇”不是闲聊，而是有备而来。
 
