@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch08",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch08_in_which_c_hr_add_cia_bluebell_demands_a_birthday_cake_and_presses_on_regardless.txt",
+ "facts": [
+  {
+   "fact": "C/HR/ADD/CIA BLUEBELL 宣布：没有生日蛋糕他就不在文件上签字。",
+   "anchor": "I ain’t signin’ off on it",
+   "start": 275,
+   "end": 300
+  },
+  {
+   "fact": "到访的站长 COS ARISTOTLE 说距会面不到五十小时，来不及准备蛋糕。",
+   "anchor": "We have less than fifty hours to go",
+   "start": 839,
+   "end": 874
+  },
+  {
+   "fact": "BLUEBELL 命令用直升机送蛋糕，还要约旦人知道特工喜欢的糖霜口味并唱生日歌。",
+   "anchor": "Send a dang helicopter",
+   "start": 879,
+   "end": 901
+  },
+  {
+   "fact": "MUCHADOO 把装着备忘录的信封交给 BLUEBELL，BLUEBELL 立刻丢进焚化袋。",
+   "anchor": "who promptly dropped it into his burn bag",
+   "start": 1892,
+   "end": 1933
+  },
+  {
+   "fact": "BLUEBELL 说连续四个手下宁可退休也不接新 NOC 项目，眼下只有 Wacker 可选。",
+   "anchor": "I had four guys in a row threaten to retire on me rather’n do it",
+   "start": 2089,
+   "end": 2153
+  },
+  {
+   "fact": "MUCHADOO 先怒斥生日蛋糕是馊主意，得知是 BLUEBELL 提议后语气软化并称赞能建立 rapport。",
+   "anchor": "in full Marine retreat",
+   "start": 3111,
+   "end": 3133
+  },
+  {
+   "fact": "BLUEBELL 否决进一步搜查约旦特工，MUCHADOO 表态「照常推进」。",
+   "anchor": "We press on regardless",
+   "start": 4883,
+   "end": 4905
+  },
+  {
+   "fact": "Wacker 计划让一千名 NOC 对外自称「转型人力资源顾问」。",
+   "anchor": "all one thousand NOCs will tell people they work as Transformational Human Resources consultants",
+   "start": 6137,
+   "end": 6233
+  }
+ ]
+}

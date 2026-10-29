@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch10",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch10_journal_entry_no_2.txt",
+ "facts": [
+  {
+   "fact": "CIA 的十一次外星人解剖全部发生在马里兰卡德罗克的 Area 57。",
+   "anchor": "CIA’s eleven alien autopsies, each and every one of them, have taken place at Area 57",
+   "start": 766,
+   "end": 851
+  },
+  {
+   "fact": "Powers 在 1977 年的直升机坠毁中活了下来，随后在残骸里被毒针刺死。",
+   "anchor": "Powers survived that crash, too, then died in the wreckage when somebody jabbed him with a poisoned needle",
+   "start": 3698,
+   "end": 3804
+  },
+  {
+   "fact": "Cooper 需要这笔额外现金资助一支私人军队，企图推翻乌干达总统 Idi Amin。",
+   "anchor": "Cooper needed the extra cash to finance a private army he was raising in violation of the Neutrality Acts to try and overthrow Ugandan President Idi Amin",
+   "start": 4132,
+   "end": 4285
+  },
+  {
+   "fact": "Amin 后来原谅了 Cooper，邀请他参观总统府，并多次把他当作晚餐吃掉。",
+   "anchor": "Amin later forgave Cooper, invited him to visit his presidential palace, and had him for dinner on several occasions",
+   "start": 4363,
+   "end": 4479
+  },
+  {
+   "fact": "中情局杀了 Oswald（意外）、Jack Ruby（故意）、国会议员 Sonny Bono（故意）和一个叫 Lucky 的可怜人（意外）。",
+   "anchor": "The Agency did, however, kill Lee Harvey Oswald (accidentally), Jack Ruby (intentionally), Congressman Sonny Bono (intentionally), and some poor guy everyone knew only as “Lucky” (accidentally)",
+   "start": 5511,
+   "end": 5704
+  },
+  {
+   "fact": "Lucky 在伦敦开右舵 Mini Cooper 逆行，撞车而死。",
+   "anchor": "He was killed when he accidentally drove down the wrong side of a street in London in a right-hand-drive Mini Cooper Clubman S",
+   "start": 8409,
+   "end": 8535
+  },
+  {
+   "fact": "全球变暖的温度读数其实是在弗吉尼亚兰利 CIA 总部用三周多时间编造的。",
+   "anchor": "But in fact those readings were all made up right there in Langley, Virginia, in just a little over three weeks",
+   "start": 11561,
+   "end": 11672
+  },
+  {
+   "fact": "全球变暖骗局始于里根第一任期，是冲着苏联去的虚假信息行动。",
+   "anchor": "It got its start as a disinformation operation aimed at the Soviets, back during Ronald “Dutch” Reagan’s first term",
+   "start": 9688,
+   "end": 9803
+  }
+ ]
+}
