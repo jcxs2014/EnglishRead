@@ -1,0 +1,199 @@
+{
+ "book": "pan-by-francesco-dimitri",
+ "chapter": "ch04",
+ "text": "notes/books/novels/pan-by-francesco-dimitri/text/ch04_the_show_begins.txt",
+ "facts": [
+  {
+   "fact": "ch04 第一节主角 Valerio 七岁，住在儿童之家，梦里的朋友比现实多",
+   "anchor": "Valerio has many friends in the world of dreams, while in that of flesh he’s lonely",
+   "start": 48,
+   "end": 131
+  },
+  {
+   "fact": "Sister Babette 说做梦伤身、现实会一拳打脸，Valerio 的回应是：停止反抗才会被打晕",
+   "anchor": "At seven Valerio has already been punched frequently, and has learned that it certainly is bad for you, but it only knocks you out when you stop fighting",
+   "start": 285,
+   "end": 438
+  },
+  {
+   "fact": "Valerio 住在儿童之家，床硬、饭淡",
+   "anchor": "The bed in the children’s home is hard (orthopaedic) and the food at dinner is insipid (healthy)",
+   "start": 537,
+   "end": 633
+  },
+  {
+   "fact": "有人（Valerio 熟识）在梦中呼喊去岛，他辨向之后飞去",
+   "anchor": "To the Island! someone he knows well is calling to him",
+   "start": 1476,
+   "end": 1530
+  },
+  {
+   "fact": "第二节 Michele 热爱走路，走路时问题落在身后",
+   "anchor": "Putting one foot in front of the other, he moves aimlessly, and his problems fall behind him",
+   "start": 1617,
+   "end": 1709
+  },
+  {
+   "fact": "Michele 这次出门不是散步：患阿尔茨海默的父亲从家里跑了",
+   "anchor": "Papa has run away from home",
+   "start": 2628,
+   "end": 2655
+  },
+  {
+   "fact": "Stefano 忘记怎么冲马桶，但三天前证明自己还会点烟——病让他不可预测",
+   "anchor": "Papa doesn’t remember how to flush a toilet, sometimes not even what a toilet is, but three days ago he demonstrated he could light a cigarette",
+   "start": 2983,
+   "end": 3126
+  },
+  {
+   "fact": "Michele 住在 Corso Trieste 与 Viale Libia 之间的体面住宅区",
+   "anchor": "Michele lives in a quiet residential street, between Corso Trieste and Viale Libia",
+   "start": 3475,
+   "end": 3557
+  },
+  {
+   "fact": "Michele 在 Corso Trieste 附近找到穿酒红睡裤拖鞋游走的父亲，形同活死人",
+   "anchor": "He looks like a zombie in slippers and burgundy pyjamas, and in a sense, he is—one of the walking dead",
+   "start": 4807,
+   "end": 4909
+  },
+  {
+   "fact": "小中风发展为大中风，与 Michele 一起长大，吞噬 Stefano 的大脑；Michele 为此怀有负罪感",
+   "anchor": "Then the strokes got bigger, along with Michele, destroying larger and larger portions of Stefano’s brain—as if his youngest son was a monster feeding on his father’s life",
+   "start": 5544,
+   "end": 5715
+  },
+  {
+   "fact": "父亲在一根路灯杆前停下细看，Michele 判定为异常行为",
+   "anchor": "this is unusual behaviour",
+   "start": 5076,
+   "end": 5101
+  },
+  {
+   "fact": "第三节：罗马中央图书馆号称知识连接器，实际像地狱一环，馆员粗野规则荒诞",
+   "anchor": "In practice, it’s more like a circle of hell: rude staff, surreal rules, disappearing books make every trip to the library a Dantesque adventure",
+   "start": 7551,
+   "end": 7695
+  },
+  {
+   "fact": "Giovanni 为研究近两年泡在这座图书馆",
+   "anchor": "Giovanni has been in the library for most of the last two years",
+   "start": 7863,
+   "end": 7926
+  },
+  {
+   "fact": "Giovanni 两天前从市集摊买了旧的 Weaveworld，读到入迷",
+   "anchor": "an old Clive Barker novel: Weaveworld",
+   "start": 9127,
+   "end": 9164
+  },
+  {
+   "fact": "织入地毯的诸世界的故事给他比拳台更甚的愉悦眩晕",
+   "anchor": "they give him a pleasurable vertigo, more intense than he feels in the boxing ring, just as good as sex",
+   "start": 9333,
+   "end": 9436
+  },
+  {
+   "fact": "导师 Stranieri（绰号 Fatty）劝他别再玩、要长大做严肃的事",
+   "anchor": "the time for that stuff is over. You’re not ten years old any more",
+   "start": 9624,
+   "end": 9690
+  },
+  {
+   "fact": "Luisa 每天坚持要 Giovanni 做自己、别屈服",
+   "anchor": "Fortunately his girlfriend insists every day that he must remain himself",
+   "start": 9784,
+   "end": 9856
+  },
+  {
+   "fact": "Giovanni 的线索：1947 年英国精神分析师 Peter DuQuette 的小册子",
+   "anchor": "It’s a booklet from 1947 by an English psychoanalyst, Peter DuQuette",
+   "start": 11891,
+   "end": 11959
+  },
+  {
+   "fact": "DuQuette 翻了数十万页笔记后确认孩子们梦里的岛有共同特征：美人鱼、海盗、武士",
+   "anchor": "he realised that all the islands the children dreamed of had similar characteristics",
+   "start": 12440,
+   "end": 12524
+  },
+  {
+   "fact": "岛之梦在十一二岁消失；成人续梦者都被诊断为重性精神障碍",
+   "anchor": "at eleven, twelve years old, they stop",
+   "start": 12896,
+   "end": 12934
+  },
+  {
+   "fact": "Giovanni 猜想成年后同样的欲望换成别的梦（如热带假期）",
+   "anchor": "Maybe in adults the same desires manifest with other dreams—I don’t know, a tropical vacation",
+   "start": 16724,
+   "end": 16817
+  },
+  {
+   "fact": "Giovanni 的假说：梦退场之处，传说进场补位",
+   "anchor": "And maybe—I stress maybe because there are no more dreams—the legend starts",
+   "start": 16819,
+   "end": 16894
+  },
+  {
+   "fact": "Giovanni 没能把册子借出来：先还再等上架再换表重约，耗两小时而馆要闭馆",
+   "anchor": "the library was closing",
+   "start": 17549,
+   "end": 17572
+  },
+  {
+   "fact": "图书馆明天与周六特别清扫，要周一才能再去",
+   "anchor": "The library’s closed for special cleaning tomorrow and Saturday. So not till Monday",
+   "start": 17119,
+   "end": 17202
+  },
+  {
+   "fact": "叙述者判定：这是 Giovanni 与 Luisa 旧生活的最后一个夜晚",
+   "anchor": "It’s the last evening of their old life",
+   "start": 17802,
+   "end": 17841
+  },
+  {
+   "fact": "第五节 Wendy 在 Parioli 派对开场前检查暗袋、松紧与假底",
+   "anchor": "She checks that all the pockets are free, the elastics in place, the false bottoms securely stitched and ready",
+   "start": 18143,
+   "end": 18253
+  },
+  {
+   "fact": "Wendy 在厨房听见：寿星的一个朋友几天前在 San Basilio 被杀",
+   "anchor": "the Wondrous Wendy heard that a friend of the birthday girl was killed a few nights ago in San Basilio",
+   "start": 19409,
+   "end": 19511
+  },
+  {
+   "fact": "Wendy 的心法：魔术不是藏起手法，而是让你看别处",
+   "anchor": "The magician’s skill is not about hiding the trick, but making you look elsewhere",
+   "start": 20811,
+   "end": 20892
+  },
+  {
+   "fact": "Wendy 对第一位观众耳语施压：你背着女友和辩论社的 Simonetta 在一起",
+   "anchor": "You’re cheating on your girlfriend with Simonetta from debate club",
+   "start": 21766,
+   "end": 21832
+  },
+  {
+   "fact": "所谓「我有短信照片」纯属诓——作者点破她的心理术底牌",
+   "anchor": "that was the oldest trick in the world, plain bullshit told with flair",
+   "start": 23518,
+   "end": 23588
+  },
+  {
+   "fact": "礼帽里钻出一只巴掌大的小白兔，全场首次真心喝彩",
+   "anchor": "Out of the top hat peeps a little rabbit—a soft baby no bigger than a hand",
+   "start": 25951,
+   "end": 26025
+  },
+  {
+   "fact": "章末反转：Wendy 知道那顶帽子里原本没有兔子，因而感到从未有过的恐惧",
+   "anchor": "Because, she knows, there was no rabbit in that hat",
+   "start": 26796,
+   "end": 26847
+  }
+ ]
+}
