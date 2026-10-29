@@ -9,8 +9,8 @@ modified: "2026-10-29"
 - **一句话概括**：六节加一段尾声的同日多线：Giada 裸体练舞时被长角幼崽 Peter 直白地注视、模仿，她第一次怀疑那晚 Wendy 的喘息不像恐惧；Michele 冒雨翘课骑摩托到斗兽场附近，按父亲黑笔记本里连招牌都没有的地址找到珠宝店 Irene，被告知父亲不是撒旦信徒，而是异教徒——Nemi 林中 Diana 神庙女巫团的成员，而 Dal Mare 的背叛让女巫团解散；Irene 在 Michele 烧到意识模糊时说出全书题眼：古老之物以新形重生，旧故事回到 Flesh，「He’s coming back」。同一天 Wendy 在魔术店里被十五年未见的 Uncle Augusto 登门游说，靠十四年前父亲在 Nemi 只对她说过的「He is a bad person」苦撑；Michele 湿衣扑床失去意识；连值十五小时班的 Luisa 在 Ponte Fabricio 被两个少年盯上，呼救无应、空间像橡皮筋拉长，跌进岛与帆船的幻景又被拽回罗马挨打；Silvia 一面承认丈夫确诊后只有 Augusto 没有消失、一面被 Giovanni 逼问父亲最后的研究；Giovanni 翻遍家里一无所获，仍要把父亲、赤脚少年、岛、奇迹串成一个「结构」；尾声切到船长视角——Dal Mare 要「驯服」而非杀死 Angela，因为她从未 Broken Enchantment，在 Dream 与 Flesh 里都还是自由人；他率海盗砸门进她卧室却扑空，「Peter Pan will return」随时发生。
 - **情感弧线位置**：全书第一次把「他要回来了」由知情者（Irene）正面说破的一章，也是四条线在同一昼夜内各自被逼到临界点的一章：Michele 拿到答案却拿不到身体能承受的剂量，Wendy 的十四年防线被一个跛脚老人用最讲道理的方式磨薄，Luisa 从「不想一个人」直接掉进暴力与岛的夹缝，Silvia 的感激与 Giovanni 的怀疑在同一段落里对冲。收束在敌方视角的宣战与扑空上——开战倒计时已经开始。
 - **Tropes 兑现/反转**：「少年寻访父亲旧情人/旧同僚」的揭秘 tropes 兑现，但揭秘者本人被设定成女巫团幸存者而非情人（Irene 一句「Stefano never cheated on her」先拆掉读者预期的通奸框架）；「反派登门谈生意」tropes 反转——Dal Mare 全程无可指摘，甚至把「a single friendship counts for more than a thousand talents」这句对意大利的控诉说得比主角更清醒；「少女遇袭」tropes 反转成 Dream 物理学的示范课：呼救无应不是没人听见，而是空间本身被拉长。
-- **人物弧线**：Michele（从 ch09 捡到笔记本的读者，变成当面质问父亲信仰的人，最后被高烧没收意识、被送进 Dream）；Irene（新登场，全书第一个把 Stefano 的私史讲成神谱的人）；Wendy（唯一记得父亲警告的人，第一次感到「坏蛋」与「讲道理的老人」无法同时成立）；Luisa（从 ch05 变色眼睛的目击者变成被掳对象，她的孤独被具象成一条呼救无人应的高速公路）；Silvia（首次获得内心视角，她的「只有 Augusto 留下」为反派提供了受害者叙事）；Giovanni（查无实证反而更确信需要结构，用 Lévi-Strauss 给自己加固）；Dal Mare／船长（反派自陈：欣赏、驯服、恐惧 Barrie 的牢栏）；Peter（被注视、被欲望化的幼崽，第一次显出「他知道自己在做什么」）。
-- **叙事手法**：六节罗马数字 + 无编号尾声；第三节末的「And …」由第四节开头的「… and meanwhile」接续，是全书第一次跨节缝合句；Irene 的揭秘段用长段密集神谱陈述对撞 Michele 反复插入的 sneeze（身体打断教义）；Luisa 一节把现实与幻景以「It’s Rome again」式短句来回切换，模拟被拖拽的意识；尾声首次进入 Dal Mare 内心（ch09 已开过一次反派视角，此处升格为编年体宣告），末句「Any moment now, Peter Pan will return.」与章题、ch01 遗言、ch09 涂鸦形成三层同句回响。
+- **人物弧线**：Michele（从 ch09 捡到笔记本的读者，变成当面质问父亲信仰的人，最后被高烧没收意识、被送进 Dream）；Irene（新登场，全书第一个把 Stefano 的私史讲成神谱的人）；Wendy（唯一记得父亲警告的人，第一次感到「坏蛋」与「讲道理的老人」无法同时成立）；Luisa（从 ch05 变色眼睛的目击者变成被掳对象，她的孤独被具象成一条呼救无人应的高速公路）；Silvia（第一次拿到整节的内心视角，她的「只有 Augusto 留下」为反派提供了受害者叙事）；Giovanni（查无实证反而更确信需要结构，用 Lévi-Strauss 给自己加固）；Dal Mare／船长（反派自陈：欣赏、驯服、恐惧 Barrie 的牢栏）；Peter（被注视、被欲望化的幼崽，第一次显出「他知道自己在做什么」）。
+- **叙事手法**：六节罗马数字 + 无编号尾声；第三节末的「And …」由第四节开头的「… and meanwhile」接续，是全书仅见的两处跨节缝合之一（另一处在 ch11）；Irene 的揭秘段用长段密集神谱陈述对撞 Michele 反复插入的 sneeze（身体打断教义）；Luisa 一节把现实与幻景以「It’s Rome again」式短句来回切换，模拟被拖拽的意识；尾声首次进入 Dal Mare 内心（ch09 已开过一次反派视角，此处升格为编年体宣告），末句「Any moment now, Peter Pan will return.」与章题、ch01 遗言、ch09 涂鸦形成三层同句回响。
 
 ## 精读
 
@@ -46,7 +46,7 @@ modified: "2026-10-29"
 **中文理解**：一抹忧虑的皱纹拢起妇人的眉头；她猛地站起走到门口，左右张望，像是满意了才说：「你是一个人来的。」
 **关键词**：wrinkle, furrows, brow, alone
 **为什么这样写**：Irene 的第一反应不是接待而是侦察——furrows 作动词让「皱纹」成为动作，读者比 Michele 更早明白有人需要躲；"You’re alone" 三个字取代一切解释，把 ch09 末 Dal Mare 夜袭 Pineto 公园的余温直接传进这间无招牌的小店。
-**读者视角提示**：她说的是「我该知道你为什么一个人来」（"That I don’t know yet"）——本章后半会给出答案：Dal Mare 的人已经在扫这条街了。
+**读者视角提示**：她那句 "That I don’t know yet" 答的是「你为什么是一个人来的」——她还没弄清；本章后半给出她怕的东西：Dal Mare 的人正在找 Angela 与 Giada。
 
 ---
 
@@ -99,7 +99,7 @@ modified: "2026-10-29"
 
 **中文理解**：Luisa 拔腿就跑，跑起来距离反而在增加。空间像橡皮筋一样被拉长，那几个年轻人忽然变得很远，在一条几公里长的漏斗底。她一阵眩晕，头在转，站不稳。
 **关键词**：elastic, funnel, vertigo, loses balance
-**为什么这样写**：噩梦的物理规则被写成几何问题（distance increases、stretches、funnel kilometres long），三个数词把主观恐惧量化；"loses balance" 与上一节 Michele 的 "loses consciousness" 共用动词 lose，本章里两个身体在同一天先后被没收。
+**为什么这样写**：噩梦的物理规则被写成几何问题（distance increases、stretches、funnel kilometres long），用几何词把主观恐惧量化；"loses balance" 与上一节 Michele 的 "loses consciousness" 共用动词 lose，本章里两个身体在同一天先后被没收。
 **读者视角提示**：呼救无应不是路人冷漠——下一句 "And she lands on the shore." 表明从她跌倒那一刻起，罗马已经不再负责解释。
 
 ---

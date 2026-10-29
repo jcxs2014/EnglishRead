@@ -1,0 +1,88 @@
+{
+ "chapter": "ch10",
+ "source": "notes/books/novels/pan-by-francesco-dimitri/text/ch10_he_s_coming_back.txt",
+ "chars": 27670,
+ "facts": [
+  {
+   "anchor": "Peter mimics Giada’s movement, bringing a little hand between his legs.",
+   "offset": 1615,
+   "claim": "Giada 裸体练舞时发现 Peter 站在床边注视、模仿她的动作；她第一次怀疑 Wendy 那晚的喘息不像恐惧。"
+  },
+  {
+   "anchor": "“You’re alone.”",
+   "offset": 3806,
+   "claim": "Irene 开门先左右张望确认 Michele 独自一人，才让他进店。"
+  },
+  {
+   "anchor": "Your father was a pagan, not a Satanist.",
+   "offset": 6254,
+   "claim": "Irene 说明 Stefano 属于 Nemi 林中 Diana 神庙的女巫团（旧教），不是撒旦信徒。"
+  },
+  {
+   "anchor": "The old stories return to Flesh.",
+   "offset": 9607,
+   "claim": "Irene 说出全书题眼：古老之物以新形重生，旧故事回到 Flesh；随后点名 He’s coming back。"
+  },
+  {
+   "anchor": "It was not Stefano speaking—my dear, much-loved Stefano! It was the disease.",
+   "offset": 13854,
+   "claim": "Dal Mare 登门游说 Wendy，把十四年前「bad person」那句话归因于阿尔茨海默病。"
+  },
+  {
+   "anchor": "The rest of him is travelling elsewhere.",
+   "offset": 25684,
+   "claim": "Michele 湿衣扑床、高烧近四十度失去意识，身体留下、人「走掉」进入 Dream。"
+  },
+  {
+   "anchor": "Tonight Luisa will feel pain.",
+   "offset": 21111,
+   "claim": "Luisa 连值十五小时后在 Ponte Fabricio 被两个海盗袭击，空间拉长、跌进岛与帆船幻景又被拽回罗马挨打。"
+  },
+  {
+   "anchor": "Any moment now, Peter Pan will return.",
+   "offset": 27631,
+   "claim": "尾声船长视角：要驯服而非杀死 Angela（她从未 Broken Enchantment），海盗砸门却扑空，末句宣告倒计时。"
+  }
+ ],
+ "numbers": [
+  {
+   "anchor": "Just under fifteen years",
+   "offset": 10880,
+   "note": "Dal Mare 与 Wendy 十五年未见"
+  },
+  {
+   "anchor": "Fourteen years",
+   "offset": 11213,
+   "note": "父亲在 Nemi 说「bad person」至今十四年"
+  },
+  {
+   "anchor": "fifteen hours in a row",
+   "offset": 18174,
+   "note": "Luisa 连值十五小时班"
+  },
+  {
+   "anchor": "nudging forty degrees",
+   "offset": 23094,
+   "note": "Michele 体温逼近四十度"
+  },
+  {
+   "anchor": "a boy of eighteen",
+   "offset": 26590,
+   "note": "砸门的海盗十八岁"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Irene",
+   "relation": "Stefano 在 Nemi 女巫团的同修（非情人，Stefano never cheated on her）"
+  },
+  {
+   "subject": "Augusto Dal Mare",
+   "relation": "即 Captain Hook；与 Stefano 曾是兄弟般的朋友，后背叛女巫团"
+  },
+  {
+   "subject": "Luisa",
+   "relation": "Giovanni 的伴侣，本章被海盗袭击掳向岛"
+  }
+ ]
+}
