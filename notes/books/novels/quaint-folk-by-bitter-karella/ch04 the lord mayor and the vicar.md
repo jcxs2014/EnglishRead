@@ -125,22 +125,10 @@ modified: "2026-10-29"
 | ceremonial | 礼仪用的，典礼上的 | He was dressed all in black, from his shoes to his gloves, except for his ceremonial sash, which was red trimmed in green. |
 | wide-brimmed | 宽檐的（帽） | He was accompanied by a short, squat man in a black cassock and a wide-brimmed hat, whom the lord mayor introduced simply as “the vicar.” |
 | nonbeliever | 不信教的人 | She felt like he was staring through her, as if he could sense that she was a nonbeliever. |
-| gentlemanly | 有绅士风度的 | said the lord mayor, planting a gentlemanly European kiss on the back of Jessica’s hand. |
-| acquaintance | 相识；结识（make your acquaintance 幸会） | Charmed to make your acquaintance, my dear. |
-| positively | （加强语气）简直，十足 | He looked positively sick at the idea, as sick as you could look while still smiling. |
-| old-fashioned | 老式的，旧式的 | There was an old-fashioned tombstone radio in the parlor, which Dad tuned to a channel that played mellow Tigglestide carols. |
-| Tigglestide | （书中虚构节日）蒂格尔斯节 | There was an old-fashioned tombstone radio in the parlor, which Dad tuned to a channel that played mellow Tigglestide carols. |
-| convincing | （take some convincing）得费番口舌才能说服 | Old-fashioned people like him might just take a little more convincing. |
-| compromise | 折中，妥协方案 | Sandy didn’t want to make their own dinner, so compromise was necessary. |
 | world-weary | 厌世倦怠的，饱经世故而疲惫的 | They heaved a world-weary sigh. |
-| nationality | 国籍 | And you can’t go changing your nationality like you can your gender. |
-| occasionally | 偶尔，间或 | Sandy smoked weed, but only occasionally, when Jeannie from theater had some to sell, and even then Sandy only used it for ritual purposes. |
 | proprietary | 独家出品（专用）的 | After dinner, Mom pulled out a proprietary board game from the library and insisted that they all play a round as a family. |
 | anthropomorphic | 拟人化的 | The characters were a mix of anthropomorphic animals in posh Victorian clothes and fantasy creatures. |
 | re-skinned | 只换外观的翻新版（游戏换皮） | “This is literally just Candy Land re-skinned,” complained Sandy. |
-| overwhelming | 压倒性的，极其强烈的 | Sandy felt an overwhelming sense of relief when the game finally concluded, and they had an excuse to leave the table. |
-| fifteen-year-old | 十五岁（的人） | You’re a big mature fifteen-year-old. |
-| experiment | 试验，尝试（experiment with alcohol 试酒） | After all, Jessica, it’s best if they experiment with alcohol here, at home, in a safe environment, with their parents. |
 
 ### ⭐⭐ 进阶
 
@@ -167,6 +155,8 @@ modified: "2026-10-29"
 | guffawed | 哄然大笑 | Dad guffawed. |
 | stuffing | 把…塞进 | “He was smiling at you the whole time,” said Dad, ripping a chunk of bread apart with his fingers and stuffing it in his mouth. |
 | garlands | 花环，花饰 | Holly garlands on every post, raise your elk’s blood in a toast! |
+| nationality | 国籍 | And you can’t go changing your nationality like you can your gender. |
+| compromise | 折中，妥协方案 | Sandy didn’t want to make their own dinner, so compromise was necessary. |
 | peppered | 撒了胡椒的 | Candied figs and peppered dates, pickled plums on paper plates! |
 | hypnotic | 催眠般令人恍惚的 | The mellow sound was almost hypnotic, lulling them all into a state of holiday bliss that seemed impossible to spoil. |
 

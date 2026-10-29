@@ -1,0 +1,354 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch04 the lord mayor and the vicar.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch04_chap04.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The lord mayor himself was the first person to welcome the family to Hasenhurst, bringing a big basket brimming with swe",
+          "ok": true,
+          "pos": 466
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Jessica, who did not care for either priests or ministers under the best of circumstances, quickly learned that she also",
+          "ok": true,
+          "pos": 1323
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“It's purple,” said the vicar, raising his eyebrow. He looked positively sick at the idea, as sick as you could look whi",
+          "ok": true,
+          "pos": 2537
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The lord mayor laughed and clapped his companion on the back",
+          "ok": true,
+          "pos": 3698
+        },
+        {
+          "text": "But, before that, I simply must insist that you come to dinner at my home tomorrow night. My wife makes an absolutely di",
+          "ok": true,
+          "pos": 3939
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "They were eating a hot soup made from sausage and potatoes from the Hollyoak House larder, paired with crusty bread and ",
+          "ok": true,
+          "pos": 4266
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“How about this?” Dad topped off Mom's bowl and then Sandy's, ignoring Sandy's frown. “You can just eat around the meat.",
+          "ok": true,
+          "pos": 6353
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Dad poured a small amount of elk's blood into Sandy's glass before Mom could protest. “After all, Jessica, it's best if ",
+          "ok": true,
+          "pos": 8606
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Of course, they had sneaked beers MANY times with their theater friends back in California. Sandy had done worse things ",
+          "ok": true,
+          "pos": 9077
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“I've read about those,” said Sandy. “It used to be, in the Middle Ages, when someone died, they used special paths to c",
+          "ok": true,
+          "pos": 11727
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Now get to bed. In a creepy old castle like this, you don't want the night hag to getcha!”",
+          "ok": true,
+          "pos": 12591
+        }
+      ],
+      "words": 19
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 72
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.68
+      }
+    }
+  ],
+  "form": {
+    "h1": "4. Chapter Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2276,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+ "chapter": "ch04",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "12/12 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[577:648]",
+   "anchor": "bringing a big basket brimming with sweets, cheeses, and local liqueurs",
+   "fact": "市长亲迎并赠礼篮（逐一介绍物品）"
+  },
+  {
+   "range": "[795:877]",
+   "anchor": "dressed all in black, from his shoes to his gloves, except for his ceremonial sash",
+   "fact": "市长外貌：高瘦红发细髭、黑衣红绿礼带、左眼单片镜、Brylcreem 味"
+  },
+  {
+   "range": "[1127:1187]",
+   "anchor": "a short, squat man in a black cassock and a wide-brimmed hat",
+   "fact": "vicar 矮胖黑法衣宽檐帽，笑不达眼；Jessica 觉得被看穿非信徒"
+  },
+  {
+   "range": "[2615:2665]",
+   "anchor": "“It’s purple,” said the vicar, raising his eyebrow",
+   "fact": "vicar 见紫发恶心仍笑；Sandy 纠正 They；市长以 Jiggery jam 打岔"
+  },
+  {
+   "range": "[4110:4196]",
+   "anchor": "you come to dinner at my home tomorrow night. My wife makes an absolutely divine roast",
+   "fact": "市长吻手+转述 Stan 夸辞+邀宴原话；Greg 应承"
+  },
+  {
+   "range": "[4350:4408]",
+   "anchor": "“How about that lord mayor?” said Dad at dinner that night",
+   "fact": "叙述称谓切换 Greg/Jessica→Dad/Mom；晚餐=香肠土豆汤+礼篮面包奶酪+颂歌"
+  },
+  {
+   "range": "[6659:6739]",
+   "anchor": "You can just eat around the meat. See? I’ve only given you potatoes in your bowl",
+   "fact": "素食冲突：Dad 只盛土豆折中，Mom 补刀，Sandy 让步"
+  },
+  {
+   "range": "[8924:9008]",
+   "anchor": "Dad poured a small amount of elk’s blood into Sandy’s glass before Mom could protest",
+   "fact": "Dad 抢先给 Sandy 倒 elk's blood；味道 gasoline and pennies；Sandy 偷喝过啤酒 MANY 次、weed 只用于仪式"
+  },
+  {
+   "range": "[10266:10333]",
+   "anchor": "The game was called Wimbly Withershins’s Brambleberry Forest Frolic",
+   "fact": "桌游名与玩法；Sandy 评 more racist"
+  },
+  {
+   "range": "[11877:11976]",
+   "anchor": "Dad landed in Farmer Finnegan Frog’s cornfield. Sandy landed on Jocko the ferret’s bootblack studio",
+   "fact": "各人落点：Schmeckle/Polly O'Potato/Finnegan Frog/Jocko→corpse path 选项"
+  },
+  {
+   "range": "[12220:12313]",
+   "anchor": "they used special paths to carry the body from outlying villages to the central parish church",
+   "fact": "Sandy 解释 corpse path 来历（鬼走直线故路弯）"
+  },
+  {
+   "range": "[12869:12968]",
+   "anchor": "fifteen-year-old. I don’t care how old you are, you’re never too old to kiss your mother good night",
+   "fact": "收尾：Mom 吻别并警告 night hag；末两句 Good night sweetie/champ"
+  }
+ ]
+}

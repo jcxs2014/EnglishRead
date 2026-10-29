@@ -67,7 +67,7 @@ modified: "2026-10-29"
 **中文理解**：「伴着叹息与忧愁与重重烦忧，我以野兔之形出行，我以魔鬼之名出行，直到我再归来……」——重压之下，Sandy 用耳语念出这句变兔的咒文。
 **关键词**：sighing、sorrow、meckle care、go forth、hare
 **为什么这样写**：咒文用 meckle、e’er 这类古旧词与 sighing、sorrow 的头韵压出仪式口吻，两句 go forth 的重复让咒语在耳语音量里依然字字成形，胆怯与熟练同时在场。
-**读者视角提示**：咒文以 in the devil’s name 收束——把这个短语记牢，本章收尾处它会与 Sandy 的校园往事形成回声。
+**读者视角提示**：咒文以 in the devil’s name 收束——把这个短语记牢，它在本章前段的校园往事里已经出现过一次：Sandy 对 Mr. Williams 说的正是同一句 I curse you in the devil’s name。
 
 > **原句 9:** "The thing slipped its slender hands into Sandy’s exposed guts, burrowing into the eels’ nest of their intestines, digging, digging, digging, deeper and deeper until Sandy wanted to scream if only they could scream, and then suddenly the clawed fingers seized upon something, something small and wet and kicking, and it drew Sandy up and out of themself, holding them up by their long, twitching ears."
 
@@ -115,22 +115,12 @@ modified: "2026-10-29"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Witchcraft | 巫术；行巫的技艺 | Witchcraft gave Sandy a little bit of control in a chaotic world—it gave them something to hold on to, something to believe in. |
-| superpower | 超能力 | The first time Sandy realized this truth, they suddenly understood that they possessed a superpower. |
-| brainwashed | 被洗脑的 | But all Sandy’s teachers were too brainwashed by this stupid Christian society to understand that. |
-| significance | 意义；重要性 | The rabbit was a figure of major spiritual significance to Sandy. |
-| toiletries | 梳妆洗漱用品 | Sandy replaced the candle in their toiletries bag and tiptoed to bed. |
 | unobscured | 无遮挡的 | From their window, they had an unobscured view of the moonlit gardens. |
-| suffocating | 令人窒息的 | The smell was the first thing Sandy noticed as they struggled to extricate themself from the suffocating blanket of sleep. |
-| unbearable | 难以忍受的 | The weight was unbearable. |
-| overwhelming | 压倒性的；难以抗拒的 | They felt an overwhelming urge they could not understand, an urge to say the words. |
-| floorboards | 地板 | Everything poured out, sloshing to the floorboards and spattering across the room. |
 | spattering | 溅洒；四下飞溅 | Everything poured out, sloshing to the floorboards and spattering across the room. |
 | undisturbed | 未被扰动的 | Instead, the dust was undisturbed. |
 | long-forgotten | 被遗忘已久的 | The notched blade was stained black, crusted no doubt with ancient blood from some long-forgotten battle. |
 | materialize | 显形；成真 | The best possible outcome after that was that the spell would fail to materialize. |
 | exhilarating | 令人振奋的 | It was exhilarating to fly so far above the world, to feel all earthly cares fall away, to feel the misty night air against their fur. |
-| anticipated | 预判；料想在先 | It anticipated every bump in the road, every twist and turn of the path, as if it had run this course a thousand times. |
 | subterranean | 地下的 | Now, suddenly, Sandy plunged down into the earth and into a subterranean cave. |
 | cacophonous | 刺耳难和的 | Sandy could hear them speaking, in so many languages all at once, until the words blended together into a cacophonous drone. |
 | unblinking | 不眨眼的 | It watched through luminous yellow eyes, blinding as headlights, unblinking, and Sandy could feel the dread regard of its baleful gaze. |

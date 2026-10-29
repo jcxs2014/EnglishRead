@@ -1,0 +1,83 @@
+{
+ "chapter": "ch03",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "15/15 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[336:408]",
+   "anchor": "The host is not responsible for any dreams experienced inside the house.",
+   "fact": "订房回执末句：房东对屋内之梦概不负责"
+  },
+  {
+   "range": "[979:1063]",
+   "anchor": "A banner across the road read HAPPY TIGGLESTIDE! FROM THE HASENHURST PARISH COUNCIL.",
+   "fact": "进村横幅逐字"
+  },
+  {
+   "range": "[2277:2317]",
+   "anchor": "’Ollyoak ’ouse ’as been empty for years.",
+   "fact": "bobby 反问并告知空置多年"
+  },
+  {
+   "range": "[2406:2481]",
+   "anchor": "you will be wanting to continue on ’Ogswaddle Road for another ’alf a meter",
+   "fact": "bobby 指路咒语：'Ogswaddle Road→Crumblybum Lane→Bunnyfluff Bridge"
+  },
+  {
+   "range": "[4827:4911]",
+   "anchor": "BUNNYFLUFF BRIDGE WAS ORIGINALLY BUILT CIRCA 1300. IT WAS NAMED FOR THE MANY RABBITS",
+   "fact": "铭牌：建于 circa 1300、以宅地兔子命名"
+  },
+  {
+   "range": "[5566:5652]",
+   "anchor": "I have kinship with the spirit of the rabbit as part of my eclectic folkloric practice",
+   "fact": "Sandy 自称与兔灵有 kinship"
+  },
+  {
+   "range": "[9953:10044]",
+   "anchor": "The Stealthy Seven and the Marauders of Mystery Manor and Robert the Bobby Goes on a Picnic",
+   "fact": "藏书三书名逐字；另有桌游"
+  },
+  {
+   "range": "[12932:12967]",
+   "anchor": "It’s magyck, Mom. With a y and a k.",
+   "fact": "Sandy 拼出 magyck；想去 moor 被拦"
+  },
+  {
+   "range": "[14277:14365]",
+   "anchor": "Greg rubbed the dust from a plaque and read the inscription: HELENA HOLLYOAK. 1882–1968.",
+   "fact": "画像铭牌：HELENA HOLLYOAK. 1882–1968"
+  },
+  {
+   "range": "[14401:14438]",
+   "anchor": "Was she the owner?”⏎⏎⏎“I’d assume so.",
+   "fact": "房主关系仅是 Jessica 问句+Greg 的 I'd assume so，原文无断言"
+  },
+  {
+   "range": "[15236:15281]",
+   "anchor": "You get your pick of the other eleven, champ.",
+   "fact": "分房：其余十一间归 Sandy 挑"
+  },
+  {
+   "range": "[16247:16302]",
+   "anchor": "we’ve got as much time as we want, just the three of us",
+   "fact": "Greg：想待多久就待多久，就我们三个"
+  },
+  {
+   "range": "[17435:17536]",
+   "anchor": "Jessica sat down at the leather-topped desk with her laptop and attempted to bang out another chapter",
+   "fact": "当晚 Jessica 写 Princess Kayla 书稿（Lighthaven/Sir Bartholomew/Albert the Bold）"
+  },
+  {
+   "range": "[18741:18834]",
+   "anchor": "That probably should have been her first indication that there was something wrong with Sandy",
+   "fact": "原文：幼 Sandy 偏爱 Kayla 本应是「有问题」的第一个迹象"
+  },
+  {
+   "range": "[20792:20852]",
+   "anchor": "Rabbits appeared on the lawn as if by magic as night bloomed",
+   "fact": "章末：兔子如魔法现身草坪；bear fruit 双关"
+  }
+ ]
+}
