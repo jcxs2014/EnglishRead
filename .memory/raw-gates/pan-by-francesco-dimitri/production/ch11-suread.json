@@ -1,0 +1,361 @@
+{
+ "book": "pan-by-francesco-dimitri",
+ "chapter": "ch11",
+ "text": "notes/books/novels/pan-by-francesco-dimitri/text/ch11_michele_s_journey.txt",
+ "facts": [
+  {
+   "fact": "ch11 开场：Michele 夜里睡觉做的病梦（坠落、牛仔、漫画狼人、蓝调兄弟）",
+   "anchor": "At night in Rome Michele sleeps, and he dreams",
+   "start": 52,
+   "end": 98
+  },
+  {
+   "fact": "梦里含「与魔鬼打扑克输掉至爱」的意象，后文父亲再用扑克作喻",
+   "anchor": "He dreams of a man who plays poker with the devil and loses what is dearest to him in the world",
+   "start": 577,
+   "end": 672
+  },
+  {
+   "fact": "颜色与黑暗的形状先于图像凝聚成布景，把 Michele 放进一个故事里",
+   "anchor": "Red, yellow, and green spirals, blue squares and ochre diamonds, rays of darkness and black and white checkers marching over each other",
+   "start": 920,
+   "end": 1055
+  },
+  {
+   "fact": "空教室变成「地方」：Michele 知道这不是寻常梦",
+   "anchor": "This isn’t a normal dream any more. This is a place",
+   "start": 1995,
+   "end": 2046
+  },
+  {
+   "fact": "他感觉脚下如赤足，低头看",
+   "anchor": "He can feel the floor under his feet, as if he’s barefoot. He looks down.",
+   "start": 2431,
+   "end": 2504
+  },
+  {
+   "fact": "低头见教室地面尽头起了小波浪",
+   "anchor": "There are little waves.",
+   "start": 2507,
+   "end": 2530
+  },
+  {
+   "fact": "海出现在教室前，教室如海滩般溶进水里",
+   "anchor": "An ocean has appeared in front of him",
+   "start": 2533,
+   "end": 2570
+  },
+  {
+   "fact": "数百米外一艘船抛锚，传来喧闹与哄笑",
+   "anchor": "A few hundred metres out, a ship lies at anchor",
+   "start": 2888,
+   "end": 2935
+  },
+  {
+   "fact": "Michele 上一次如此清晰地听见这声音还是在小时候——父亲的声音",
+   "anchor": "he was little when he last heard it so clearly",
+   "start": 3088,
+   "end": 3134
+  },
+  {
+   "fact": "Stefano 命名第三层：此处非 Flesh 非 Dream，是 Enchantment",
+   "anchor": "This isn’t Flesh,” says Stefano, “and this isn’t Dream. This is Enchantment",
+   "start": 3452,
+   "end": 3527
+  },
+  {
+   "fact": "Stefano 确认这不是「像」梦幻岛而是彼得潘的岛本岛",
+   "anchor": "Not like; this is the Island of Peter Pan",
+   "start": 4359,
+   "end": 4400
+  },
+  {
+   "fact": "岛「有时」为实，是 Stefano 对真实性的限定回答",
+   "anchor": "Sometimes",
+   "start": 4425,
+   "end": 4434
+  },
+  {
+   "fact": "父子相处的时间极少，Stefano 确认",
+   "anchor": "Very little indeed",
+   "start": 7141,
+   "end": 7159
+  },
+  {
+   "fact": "Stefano 列出三件待说之事：战争将至、角神已归 Flesh、关于祖父的事",
+   "anchor": "A war is coming, the Horned God is returned to Flesh, and there’s something about your grandfather that you ought to know sooner or later",
+   "start": 7214,
+   "end": 7351
+  },
+  {
+   "fact": "Stefano 重申 ch07 那句赠言，并说「胸部是 Cavaterra 家的弱点」",
+   "anchor": "Your life is yours: I gave it to you, you’ll do what you want with it",
+   "start": 7658,
+   "end": 7727
+  },
+  {
+   "fact": "Stefano 的人生课单条之一：先打败敌人再原谅",
+   "anchor": "Forgive your enemies, but only after you’ve beaten them",
+   "start": 8473,
+   "end": 8528
+  },
+  {
+   "fact": "岛主定了严格规矩：只有孩子、他拣选的少数生物与濒死者可踏岛",
+   "anchor": "The Lord of this Island has imposed strict rules",
+   "start": 9291,
+   "end": 9339
+  },
+  {
+   "fact": "Stefano 点明：Michele 是被召唤者，这是一场启蒙",
+   "anchor": "You’ve been Called. This is your initiation",
+   "start": 9810,
+   "end": 9853
+  },
+  {
+   "fact": "Stefano 自陈阿尔茨海默吞噬他的大脑",
+   "anchor": "Alzheimer’s devoured my brains",
+   "start": 11074,
+   "end": 11104
+  },
+  {
+   "fact": "Stefano 说是情感的原始力量带肉身来到岛上",
+   "anchor": "It was the raw power of my emotions that let me travel here with my body",
+   "start": 12010,
+   "end": 12082
+  },
+  {
+   "fact": "Stefano 宣布他停止抗争、正在死去",
+   "anchor": "I’ve stopped fighting, Michele. I’m dying",
+   "start": 12807,
+   "end": 12848
+  },
+  {
+   "fact": "Stefano 说余生五六年不值与儿子半小时谈话",
+   "anchor": "Not even ten are worth half an hour chatting with you.",
+   "start": 13319,
+   "end": 13373
+  },
+  {
+   "fact": "叙述者声明退出，把半小时留给父子",
+   "anchor": "And we will leave them here alone, father and son",
+   "start": 14037,
+   "end": 14086
+  },
+  {
+   "fact": "时间到：海面变成完全静止的平面",
+   "anchor": "The ocean has become a completely motionless expanse.",
+   "start": 14282,
+   "end": 14335
+  },
+  {
+   "fact": "Michele 问父亲死后去哪，Stefano 答从没死过",
+   "anchor": "I’ve never died before",
+   "start": 15154,
+   "end": 15176
+  },
+  {
+   "fact": "海上光点凝出人形，Stefano 催 Michele 出发",
+   "anchor": "“Go,” says Stefano.",
+   "start": 14793,
+   "end": 14812
+  },
+  {
+   "fact": "接引者是个红发、朋克短发、绿上衣牛仔裤的年轻女子",
+   "anchor": "She wears jeans, black gym shoes, and an extremely clingy green crop top",
+   "start": 16821,
+   "end": 16893
+  },
+  {
+   "fact": "女子自称 Eris（不和女神之名），说「我喜欢这个名字」",
+   "anchor": "You can call me Eris, anyway",
+   "start": 19104,
+   "end": 19132
+  },
+  {
+   "fact": "Eris 把 Michele 从 Enchantment 推落入 Dream：地点是罗马地底废弃地铁站",
+   "anchor": "Under Rome",
+   "start": 18612,
+   "end": 18622
+  },
+  {
+   "fact": "Eris 指出 Michele 已有的能力：广告牌对话、涂鸦灵感即灵体",
+   "anchor": "Never found inspiration in the graffiti on the walls? These are spirits, Michele.",
+   "start": 19506,
+   "end": 19587
+  },
+  {
+   "fact": "Eris 报名城市灵体：家庭暴力、污染、速度、城市植被等",
+   "anchor": "The coward Domestic Violence, the mighty Pollution, the seductive Speed, the ambiguous Urban Vegetation",
+   "start": 19668,
+   "end": 19771
+  },
+  {
+   "fact": "万灵之上是罗马本身：母亲之城，是她召唤了 Michele",
+   "anchor": "above them and greater than them all, Rome, Mother City",
+   "start": 19884,
+   "end": 19939
+  },
+  {
+   "fact": "Eris 以母乳为启蒙媒介",
+   "anchor": "Drink from me,” says Eris, “and you’ll understand",
+   "start": 20387,
+   "end": 20436
+  },
+  {
+   "fact": "原文相邻两句：The milk transforms him. / The milk awakens him.",
+   "anchor": "The milk awakens him.",
+   "start": 21991,
+   "end": 22012
+  },
+  {
+   "fact": "启蒙后 Michele 听见城市万物的模式与美",
+   "anchor": "A pigeon flying, a youth running, another playing music, another writing.",
+   "start": 22166,
+   "end": 22239
+  },
+  {
+   "fact": "Michele 出隧道后身处大废车场",
+   "anchor": "He’s in a junkyard.",
+   "start": 26076,
+   "end": 26095
+  },
+  {
+   "fact": "rats 叠成两米高的巨鼠 Rat",
+   "anchor": "The mass of rats grows, it gets as tall as Michele, and taller, it reaches two metres high.",
+   "start": 27484,
+   "end": 27575
+  },
+  {
+   "fact": "唯一幸存的老鼠爬上 Michele 身体咬向他喉咙，原文以 That is exactly what happens. 确认",
+   "anchor": "That is exactly what happens.",
+   "start": 30757,
+   "end": 30786
+  },
+  {
+   "fact": "Michele 被鼠群分食眼球、鼻腔入脑，窒息而死",
+   "anchor": "He dies gasping.",
+   "start": 31697,
+   "end": 31713
+  },
+  {
+   "fact": "死后 Michele 看见街道与汽车中的生命",
+   "anchor": "Now that he’s dead Michele can see the life that’s in the streets and in the cars",
+   "start": 33284,
+   "end": 33365
+  },
+  {
+   "fact": "城市做梦，人类施工；人生活在活物的体内而不自知",
+   "anchor": "The city dreams improvements that humans carry out",
+   "start": 33723,
+   "end": 33773
+  },
+  {
+   "fact": "万物之灵向他行礼——他被认作 Mother City 之子",
+   "anchor": "They all salute him.",
+   "start": 35257,
+   "end": 35277
+  },
+  {
+   "fact": "不美处：司法宫是灰色，天使被钉在地上；无爱所建之塔楼同样灰",
+   "anchor": "The Palace of Justice is grey",
+   "start": 36151,
+   "end": 36180
+  },
+  {
+   "fact": "灯柱顶上的电动小灵体解释了 ch04 父亲凝视路灯杆",
+   "anchor": "That’s what Papa saw on the lamppost, thinks Michele.",
+   "start": 37248,
+   "end": 37301
+  },
+  {
+   "fact": "意面 square colosseum（Laurentina 区的方形斗兽场建筑之灵）欢迎他",
+   "anchor": "Welcome, Michele, it greets him.",
+   "start": 37995,
+   "end": 38027
+  },
+  {
+   "fact": "方形斗兽场之灵邀 Michele 「乘我而行」",
+   "anchor": "Travel me.",
+   "start": 38059,
+   "end": 38069
+  },
+  {
+   "fact": "登顶后灵要他跳；他跳入台伯河",
+   "anchor": "Jump, says Square Colosseum.",
+   "start": 38841,
+   "end": 38869
+  },
+  {
+   "fact": "水之女儿们误认作 Peter，彼此私语",
+   "anchor": "… no, the shaman …",
+   "start": 39225,
+   "end": 39243
+  },
+  {
+   "fact": "粗声的台伯河讲出故事：Wedge 与 PsyKlops 桥上欺侮尼日利亚男孩致其溺亡",
+   "anchor": "Gruff Tiber tells a story.",
+   "start": 39533,
+   "end": 39559
+  },
+  {
+   "fact": "台伯河的「女儿们」淹死了孩子——Flesh 的规则如此",
+   "anchor": "And my daughters killed the child, for such are the rules of Flesh.",
+   "start": 43201,
+   "end": 43268
+  },
+  {
+   "fact": "次年主显节，Lost Children 选中这两个孩子去传话给 Captain Hook",
+   "anchor": "When the next Epiphany came, the Lost Children chose them to spread their message",
+   "start": 43313,
+   "end": 43394
+  },
+  {
+   "fact": "Wedge 是虎克克的鼻眼耳；Michele 将成城市的「声音」",
+   "anchor": "He is the nose, eyes, and ears of Hook.",
+   "start": 43843,
+   "end": 43882
+  },
+  {
+   "fact": "Michele 在废车场尸旁醒来，三只老鼠衔来建筑材料",
+   "anchor": "He wakes in the junkyard, beside his corpse.",
+   "start": 44118,
+   "end": 44162
+  },
+  {
+   "fact": "Eris 把碎砖塞进肠道：他们杀的是「作为人的你」，如今重生为萨满",
+   "anchor": "Now you are reborn a shaman",
+   "start": 44763,
+   "end": 44790
+  },
+  {
+   "fact": "Eris 说 Michele 是罗马第一个知情者/觉者",
+   "anchor": "You are Rome’s first cognisant",
+   "start": 44989,
+   "end": 45019
+  },
+  {
+   "fact": "Eris 给出三件法器：镜代眼、诞生中的建筑之石、城骨之钢",
+   "anchor": "enchanted mirrors in place of eyes, the stone of a building being born, and the steel that forms the structure of the City",
+   "start": 45226,
+   "end": 45348
+  },
+  {
+   "fact": "萨满不崇拜，只作中介",
+   "anchor": "You don’t worship, you mediate.",
+   "start": 46129,
+   "end": 46160
+  },
+  {
+   "fact": "Eris 揭出：父亲的阿尔茨海默不自然，是虎克克所为",
+   "anchor": "Stefano’s Alzheimer’s wasn’t natural. It was his doing",
+   "start": 46424,
+   "end": 46478
+  },
+  {
+   "fact": "剧痛中 Michele 在 Flesh 里睁眼",
+   "anchor": "He opens his eyes in Flesh.",
+   "start": 46822,
+   "end": 46849
+  }
+ ]
+}
