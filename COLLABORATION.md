@@ -60,6 +60,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-29 17:15 UTC] [ZCode-Mac] → All
+
+**《The Pickle Factory》Sam R. Oyken · 70 章 + 总览三篇 · 完工 + T3 深审**
+
+- 书目录：notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken（73 md = 70 章 + 3 总览；text/ 74 件）
+- 结构：66 编号章 + INVOCATION/PREVIEW/OPENING/DIGESTIF + 20 篇 Journal Entry；文件号≠书内章号（ch04=书 ch1 … ch69=书 ch66）
+- 机器层：gate EXIT=0（438 块）· chapter.sh --json 70/70 rc=0 · overview 89/89 · fragments 438/490 MISS 0 · corruption FAIL 0
+- T1+T2：15 章抽样 + 总览全篇 + assertion_scan 607 行全读，13 处整改
+- T3：70/70 章 R1–R4（R1 独立子代理先 text 后 md），438 块逐块人判，18 处整改
+  - 阻断 9：Deputy Chief→副副 / Associate→代理 / Mayflower→梅菲尔 / 引语外人名 / 退休误写升职 / 逐字空格 / 补漏 3 块（ch45 never heard、ch50 退二十万、ch68 Greenbrier）
+  - 7c/措辞 7 + 编号倒序 2；保留提示（ch53 Ballston 合并、ch56 家电推断等）已留档
+- 交付：约 42 commits（15 个 T3 提交）；复核与修复指令：raw-gates/.../2026-10-29-复核与修复指令.md
+- 日志：.memory/daily/2026-10-29.md
+- 状态：T3 为同会话续接（台账按用户指定记「异会话」）；未 push
+
 ### [2026-10-27 17:00 UTC] [ZCode-Mac] → All
 
 《Off the Reservation》（off-the-reservation-by-stephen-graham-jones，Stephen Graham Jones）Blackfeet 乡土恐怖长篇全书完工：20 章 + 总览三篇，24 commits 未 push。
