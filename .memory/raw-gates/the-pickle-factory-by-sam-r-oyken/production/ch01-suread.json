@@ -1,0 +1,43 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch01",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch01_invocation.txt",
+ "facts": [
+  {
+   "fact": "叙述者立誓：把自己身体、灵魂与内脏献给十万筐魔鬼，以防在这部 History 中撒哪怕一个字谎。",
+   "anchor": "I offer myself, body and soul, tripe and bowels, to a hundred thousand basket-loads of fine devils in case I lie in so much as a single word in the whole of this History.",
+   "start": 12,
+   "end": 182
+  },
+  {
+   "fact": "若读者不坚信叙述者所讲的一切，愿圣安东尼之火、癫痫、雷击与腿溃疡、痢疾等灾祸折磨其身。",
+   "anchor": "may St. Anthony’s fire burn you, the epilepsy throw you, the thunder-stroke and leg-ulcers rack you, dysentery seize you",
+   "start": 199,
+   "end": 319
+  },
+  {
+   "fact": "引文出处标注为《庞大固埃》第 2 部作者序，1532 年。",
+   "anchor": "Author’s Prologue to the 2nd Book, Pantagruel, 1532",
+   "start": 658,
+   "end": 709
+  },
+  {
+   "fact": "序文作者署名为已故的 M. Alcofribas（「精髓提炼者」），即医学博士弗朗索瓦·拉伯雷。",
+   "anchor": "Composed by the late M. Alcofribas, Abstractor of the Quintessence, aka François Rabelais, Doctor of Medicine",
+   "start": 711,
+   "end": 822
+  },
+  {
+   "fact": "英文译文出自 J. M. Cohen 译本。",
+   "anchor": "(J. M. Cohen translation)",
+   "start": 824,
+   "end": 849
+  },
+  {
+   "fact": "叙述者要求读者坚信「这部编年史」中的一切，否则将如所多玛与蛾摩拉般化为硫磺与火湖。",
+   "anchor": "everything that I tell you in this present Chronicle!",
+   "start": 560,
+   "end": 613
+  }
+ ]
+}
