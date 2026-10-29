@@ -14,7 +14,7 @@ modified: "2026-10-29"
 
 ## 精读
 > **原句 1:** "“Well my name is Nick,” said Nick. “But I think of it more as borrowing. And training. Plus he has plenty of other ones. Anyway, you’re right, the name is stupid. GOOWIKI. It sounds like some really nasty part of the Internet. What do I care what it’s called, though? I think it’s good to have been asked to work on it.”"
-**中文理解**：KRAY 承认从 Wacker 办公室顺走挑战币，但他辩称那更像是「借」和「培训」，反正对方还有很多枚；他也同意 GOOWIKI 这名字像互联网上某个糟糕的角落，但认为被邀请参与这个项目是好事。
+**中文理解**：KRAY 承认从办公室顺走挑战币，但他辩称那更像是「借」和「培训」，反正对方还有很多枚；他也同意 GOOWIKI 这名字像互联网上某个糟糕的角落，但认为被邀请参与这个项目是好事。
 **关键词**：borrowing, training, plenty, stupid, GOOWIKI, Internet, asked to work on it
 **为什么这样写**：把「偷拿上司物品」轻描淡写成「借用」，再用「反正他还有很多」自我开脱，人物的歪理逻辑本身就是笑点，也立刻立起 KRAY 玩世不恭的形象。
 **读者视角提示**：注意 KRAY 对「GOOWIKI 名字很蠢」与「参与项目很好」的矛盾态度——他分得清形式与机会，这正是他后来能看穿整场骗局的原因。
