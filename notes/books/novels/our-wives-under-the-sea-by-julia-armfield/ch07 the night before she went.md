@@ -27,7 +27,31 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "If it were possible now to look back and feel at least secure in the fact that I had predicted something, noted some foul planetary alignment and spoken my fears aloud, that might be of some comfort. As it was, I suspected nothing. Leah had gone and returned many times before and I had no reason to presume this trip would be any different."
+> **原句 2:** "That night, the fight sat between us like something sore and satisfying – tender pulp of a fresh-pulled tooth. The sense of something better off removed. I felt good to have scrapped and apologised."
+
+**中文理解**：那晚，那场争吵横在他们之间，像一样又痛又让人舒服的东西——像刚拔下来的牙髓，软的那一团。还有一种「拿掉反而更好」的感觉。她说，吵过、又道过歉之后，她感觉很好。
+
+**关键词**：the fight sat between us / tender pulp of a fresh-pulled tooth / better off removed / scrapped and apologised
+
+**为什么这样写**：作者用牙医的比喻写一场和好：sore and satisfying 两个词彼此打架，「满足」出现在「疼」旁边，读者立刻知道这不是一场解决了的争执，而是一场让两人都松了口气的争执。第三句 I felt good 把话说得太满，紧接着整晚她都在 party 上「登记那道痛」——作者让她自己承认：那点舒服恰恰来自还没好。全章最残忍的结构在这里埋下：她后来想不起究竟为什么吵，只记得吵完很轻松。
+
+**读者视角提示**：记住「拔牙」。全书后面还会用牙齿、牙龈、咬合来写这对夫妻的沟通——疼过之后的那点轻松，是这段关系最真实的样子。
+
+---
+
+> **原句 3:** "During the toasts, I saw several people from the Centre standing with hands clasped in front of them or under their chins, the way you might expect to witness at a church event. I stood with Leah and registered a sense of unzipping, turned my head into her neck and whispered that I was sorry about the fight."
+
+**中文理解**：敬酒的时候，她看见中心来的几个人双手交握在身前，或者托在下巴下面，那姿态像在教堂活动上会看到的样子。她站在 Leah 身边，感到某种「拉链被拉开」似的松动，把脸转进她的颈侧，低声为那场争吵道歉。
+
+**关键词**：hands clasped / at a church event / a sense of unzipping / sorry about the fight
+
+**为什么这样写**：这一段把「仪式」和「道歉」并置：中心的同事像在教堂里那样交握双手，而她的道歉发生在同一批人中间、只有耳语那么大。unzipping 是全章最奇怪的比喻——不是拥抱、不是和解，是拉链被拉开，身体先于语言松了一下。作者不写 Leah 怎么回应，因为回应不重要：她要的是那句「对不起」被说出口，在这个像教堂又像欢送会的场合里。
+
+**读者视角提示**：这是全书唯一一次她为那场争吵道歉。注意道歉之后并没有和好——下一节直接跳到几个月后的浴室。作者把「以为还有时间」写成了省略号。
+
+---
+
+> **原句 4:** "If it were possible now to look back and feel at least secure in the fact that I had predicted something, noted some foul planetary alignment and spoken my fears aloud, that might be of some comfort. As it was, I suspected nothing. Leah had gone and returned many times before and I had no reason to presume this trip would be any different."
 
 **中文理解**：如果现在回头看时能确信自己当时预言过什么——注意到某个凶险的星象、把害怕说出口——那也许会好受一点。可事实是她什么也没怀疑：Leah 出过远门，也回来过很多次，她没有理由认为这一次会不同。
 
@@ -39,7 +63,31 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "“Structurally,” I read aloud to myself, for no other reason than because it is underlined, “there are three classes of sensory receptors: free nerve endings, encapsulated nerve endings, and specialized cells. Free nerve endings are simply free dendrites at the end of a neuron that extend into a tissue. Pain, heat, and cold are all sensed through free nerve endings.”"
+> **原句 5:** "Leah has been in the bathroom for upwards of two hours, running the taps and listening to her sound machine, which fills the flat with a foaming swell of noise. I haven’t asked her to come out this morning; I rolled over and refused to get up when I heard her at the sink at quarter past six."
+
+**中文理解**：Leah 在浴室里待了两个多小时，开着水龙头听她那台白噪音机——那声音把整间公寓填满，像一层不断涌起的泡沫。今天早上她没有叫 Leah 出来；六点一刻听见她在水槽边时，她翻了个身，拒绝起床。
+
+**关键词**：upwards of two hours / her sound machine / foaming swell of noise / quarter past six
+
+**为什么这样写**：两个多小时是一个已经不需要解释的时长，作者把它放在句首，像报天气。foaming swell 把白噪音写成水：声音机在这本书里从来不只是助眠工具，它是把公寓改造成水下的设备。第二句是全章最诚实的一句——她听见了，她翻了个身；拒绝起床比任何争吵都更像决裂，而作者只用一个动词 refused 就交代完，不评价。
+
+**读者视角提示**：留意「六点一刻」与「没有叫她」：此后凡是她听见水声而不去敲门的段落，都可以回到这里。声音机会在后面几章反复出现。
+
+---
+
+> **原句 6:** "I didn’t take possession of the spare room immediately on Leah’s return but rather moved across in a strop one night when Leah had kept me awake sleepwalking back and forth between bedroom and bathroom, lying down only to get up again. I had intended to stay in the spare room only one night and yet somehow never moved back."
+
+**中文理解**：她并不是在 Leah 一回来就占下客房的——是某天夜里赌气搬过去的，因为 Leah 梦游似的在卧室和浴室之间来回走，刚躺下又起来，弄得她整夜睡不着。她本来只打算在客房睡一晚，可不知怎么，就再也没搬回去。
+
+**关键词**：in a strop / sleepwalking back and forth / only one night / never moved back
+
+**为什么这样写**：这一段替整章最沉默的事实补了来历：分房不是决定，是一次赌气加上一次没改回来。作者用「打算只住一晚」和「再也没搬回」两个短句把时间拉开，中间没有任何解释——因为当事人自己也不愿看。in a strop 是英式口语里的「赌气」，用在这里有点自嘲，正是这种自嘲让后面的「never moved back」更凉。
+
+**读者视角提示**：分房在这本书里不是背景，是情节。注意她后面还有一句「有时候在黑暗里想象 Leah 敲那面隔开她们的墙」——那面墙从这里开始存在。
+
+---
+
+> **原句 7:** "“Structurally,” I read aloud to myself, for no other reason than because it is underlined, “there are three classes of sensory receptors: free nerve endings, encapsulated nerve endings, and specialized cells. Free nerve endings are simply free dendrites at the end of a neuron that extend into a tissue. Pain, heat, and cold are all sensed through free nerve endings.”"
 
 **中文理解**：她从慈善店淘来一本人体解剖学教科书，翻着它，盼能遇到前任主人留下的批注——这是她最喜欢做的事。她念出的那一段被前主人划了线：感觉受器分三类，游离神经末梢、有被囊的神经末梢和特化细胞；而痛、热、冷，全都由游离神经末梢感知。
 
@@ -51,7 +99,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "When I look at it, I think of tide pools filled with spiny creatures, scrub at it hard before running the taps again to clear the debris, little rockpool remains of something that might be shell or might be skin or might be something else entirely."
+> **原句 8:** "When I look at it, I think of tide pools filled with spiny creatures, scrub at it hard before running the taps again to clear the debris, little rockpool remains of something that might be shell or might be skin or might be something else entirely."
 
 **中文理解**：她照例起身，拿水槽下的海绵去擦浴缸——Leah 回来之后，缸壁常结一层黏滑物，搓开有点涩，白光下泛粉。看着它，她想到满是带刺生物的潮池，用力擦掉、再放水冲走碎屑：那是某个东西留下的、像贝壳又像皮肤、也可能什么都不是的残渣。
 
@@ -63,7 +111,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "When my mother was dying I wanted her moved somewhere other than where she was, wished her away from the wide bright vista that spilled into her room every morning, sending her – as I felt at the time – undeniably mad."
+> **原句 9:** "When my mother was dying I wanted her moved somewhere other than where she was, wished her away from the wide bright vista that spilled into her room every morning, sending her – as I felt at the time – undeniably mad."
 
 **中文理解**：母亲临终前，Miri 想把她搬离原来的地方，想让她离开那扇每天早晨涌进房间的、开阔明亮的海景——因为在当时的她看来，那景色正把母亲逼疯。
 
@@ -75,7 +123,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "She is wearing a tank top that shows the strange silvered places in her underarms and around the base of her neck and I no longer feel much compelled to comment on this. I find that if I squint at the television hard enough, it’s easier to think about things other than how much I miss my wife."
+> **原句 10:** "She is wearing a tank top that shows the strange silvered places in her underarms and around the base of her neck and I no longer feel much compelled to comment on this. I find that if I squint at the television hard enough, it’s easier to think about things other than how much I miss my wife."
 
 **中文理解**：Leah 穿着背心，腋下和脖子根部露出一些奇怪的银色部位，而 Miri 已经不太想对此发表意见；她发现只要用力眯起眼睛看电视，就比较容易想别的事情，而不是想她有多想念自己的妻子。
 

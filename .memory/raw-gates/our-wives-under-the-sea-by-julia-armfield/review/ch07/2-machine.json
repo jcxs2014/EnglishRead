@@ -1,0 +1,349 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/ch07 the night before she went.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch07_miri.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Leah was standing at the outer edge of the group, holding a glass and talking in a tone that seemed flushed through with",
+          "ok": true,
+          "pos": 599
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "That night, the fight sat between us like something sore and satisfying – tender pulp of a fresh-pulled tooth. The sense",
+          "ok": true,
+          "pos": 3373
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "During the toasts, I saw several people from the Centre standing with hands clasped in front of them or under their chin",
+          "ok": true,
+          "pos": 5397
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "If it were possible now to look back and feel at least secure in the fact that I had predicted something, noted some fou",
+          "ok": true,
+          "pos": 1983
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Leah has been in the bathroom for upwards of two hours, running the taps and listening to her sound machine, which fills",
+          "ok": true,
+          "pos": 6808
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I didn’t take possession of the spare room immediately on Leah’s return but rather moved across in a strop one night whe",
+          "ok": true,
+          "pos": 7589
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Structurally,” I read aloud to myself, for no other reason than because it is underlined, “there are three classes of s",
+          "ok": true,
+          "pos": 6443
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "When I look at it, I think of tide pools filled with spiny creatures, scrub at it hard before running the taps again to ",
+          "ok": true,
+          "pos": 8827
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "When my mother was dying I wanted her moved somewhere other than where she was, wished her away from the wide bright vis",
+          "ok": true,
+          "pos": 9312
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "She is wearing a tank top that shows the strange silvered places in her underarms and around the base of her neck and I ",
+          "ok": true,
+          "pos": 12637
+        }
+      ],
+      "words": 58
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 143,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 135,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 124,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 119,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 118,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 107,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 0,
+        "为什么这样写": 131,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 120,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 114,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "07. Chapter Seven",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2362,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": "块数 10 偏离本书常见区间 3–9（本书 39 章中位 6、最高 13（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 6、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "chapter": "ch07",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch07_miri.txt",
+  "facts": [
+    {
+      "fact": "Miri 在海洋调查中心的欢送酒会上被一名海藻专家搭话，整晚困在冗长闲聊里",
+      "anchor": "I spent much of the night caught up in interminable conversation with a man who specialised in seaweed",
+      "start": 242,
+      "end": 344
+    },
+    {
+      "fact": "当晚早些时候 Miri 与 Leah 吵过一架，已记不清究竟为什么",
+      "anchor": "Earlier in the evening we had fought, I forget about what exactly.",
+      "start": 1840,
+      "end": 1906
+    },
+    {
+      "fact": "散场敬酒时 Miri 把头埋进 Leah 颈侧，为那场争吵道歉",
+      "anchor": "turned my head into her neck and whispered that I was sorry about the fight",
+      "start": 5661,
+      "end": 5736
+    },
+    {
+      "fact": "Miri 在读一本慈善商店淘来的人体解剖学教科书，专看前主人的划线",
+      "anchor": "The book I am reading is a textbook on human anatomy",
+      "start": 6201,
+      "end": 6253
+    },
+    {
+      "fact": "Leah 在浴室里待了两个多小时，开着水龙头和声音机",
+      "anchor": "Leah has been in the bathroom for upwards of two hours",
+      "start": 6849,
+      "end": 6903
+    },
+    {
+      "fact": "Miri 某夜赌气搬进客房，本打算只住一晚却再没搬回",
+      "anchor": "I had intended to stay in the spare room only one night and yet somehow never moved back",
+      "start": 7867,
+      "end": 7955
+    },
+    {
+      "fact": "Leah 出浴后 Miri 去擦浴缸上那层粉色黏垢",
+      "anchor": "scrub at the bath with the sponge I keep beneath the sink",
+      "start": 8608,
+      "end": 8665
+    },
+    {
+      "fact": "母亲病重独居海边，几乎拒绝 Miri 的一切帮助，最终被送进临终关怀院",
+      "anchor": "She refused almost every aspect of my help",
+      "start": 10226,
+      "end": 10268
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "kind": "夫妻；Leah 归来后 Miri 已搬去客房，两人隔墙而睡",
+      "anchor": "how much I miss my wife",
+      "start": 12993,
+      "end": 13016
+    },
+    {
+      "pair": "Leah–Jelka",
+      "kind": "即将同船的考察同事，此前也共事过",
+      "anchor": "they had actually worked together before",
+      "start": 4179,
+      "end": 4219
+    },
+    {
+      "pair": "Miri–母亲",
+      "kind": "母女；母亲病重时拒绝她的照料",
+      "anchor": "She refused almost every aspect of my help",
+      "start": 10226,
+      "end": 10268
+    },
+    {
+      "pair": "Miri–海藻专家",
+      "kind": "酒会上搭话的陌生人，用“你的是哪一位”来认人",
+      "anchor": "the seaweed specialist said when I pointed Leah out",
+      "start": 1341,
+      "end": 1392
+    }
+  ],
+  "numbers": [
+    {
+      "value": "两个多小时（upwards of two hours）",
+      "anchor": "Leah has been in the bathroom for upwards of two hours",
+      "start": 6849,
+      "end": 6903
+    },
+    {
+      "value": "六点一刻（quarter past six）",
+      "anchor": "when I heard her at the sink at quarter past six",
+      "start": 7092,
+      "end": 7140
+    },
+    {
+      "value": "十七年（seventeen years）",
+      "anchor": "She had lived by the sea for some seventeen years",
+      "start": 9972,
+      "end": 10021
+    },
+    {
+      "value": "约五成（fifty-fifty）",
+      "anchor": "Birthday presents bore about a fifty-fifty chance of misconstrual",
+      "start": 10980,
+      "end": 11045
+    },
+    {
+      "value": "三名（three men in turquoise suits）",
+      "anchor": "three men in turquoise suits playing bossa nova music",
+      "start": 159,
+      "end": 212
+    },
+    {
+      "value": "两秒（two seconds）",
+      "anchor": "Leah never giving me two seconds just to stare into space",
+      "start": 2489,
+      "end": 2546
+    }
+  ]
+}
