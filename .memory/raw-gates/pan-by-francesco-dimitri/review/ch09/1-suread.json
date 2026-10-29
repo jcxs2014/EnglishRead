@@ -1,0 +1,93 @@
+{
+ "chapter": "ch09",
+ "text_file": "notes/books/novels/pan-by-francesco-dimitri/text/ch09_the_whelp.txt",
+ "text_chars": 40146,
+ "facts": [
+  {
+   "anchor": "Stefano Cavaterra had studied a group of psychiatric patients who had visions linked to a common theme",
+   "offset": 2156,
+   "fact": "父亲 2012 年论文：72 名精神分裂者共享岛与海盗帆船的幻象"
+  },
+  {
+   "anchor": "the boundaries between real and imaginary are ideological",
+   "offset": 5616,
+   "fact": "论文结论：真实与想象的边界是意识形态的"
+  },
+  {
+   "anchor": "These Eight words the Rede fulfil",
+   "offset": 8871,
+   "fact": "父亲的笔记首页是英文 Rede 诗句，内容含 Horned God、Diana/Artemis、Nemi 神庙与 spells"
+  },
+  {
+   "anchor": "He’s coming back.",
+   "offset": 11262,
+   "fact": "Nibs 在 Michele 家墙后涂鸦，字形内藏岛、船、戴礼帽女孩与裸女"
+  },
+  {
+   "anchor": "Dal Mare confiscated Dream (and sleep in general) from him for three nights.",
+   "offset": 25836,
+   "fact": "Wedge 跟丢线索，被 Dal Mare 没收梦与睡眠三夜"
+  },
+  {
+   "anchor": "“What do you think of Peter?”",
+   "offset": 17168,
+   "fact": "Wendy 与 Giada 收养幼崽并命名 Peter；两天内体型翻倍、六指、双排牙"
+  },
+  {
+   "anchor": "“She’s got no shoes on,” Wendy points out.",
+   "offset": 24949,
+   "fact": "Pineto 公园旅行者营地前出现赤脚女孩，孩子们转身敌视二人"
+  },
+  {
+   "anchor": "“didn’t the sails use to be furled?”",
+   "offset": 31051,
+   "fact": "Giovanni 在 Uncle Augusto 家发现石船帆由收变张，认定叔叔说谎"
+  },
+  {
+   "anchor": "Dal Mare extends his stick sharply. The handle becomes a hook",
+   "offset": 38588,
+   "fact": "Dal Mare 夜袭扑空，钩杀 Giancarlo，下令烧掉营地"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "seventy-two",
+   "offset": 2128,
+   "note": "共享幻象的患者数"
+  },
+  {
+   "value": "three or four times",
+   "offset": 4953,
+   "note": "Giovanni 重读父亲文章的次数"
+  },
+  {
+   "value": "three nights",
+   "offset": 25899,
+   "note": "Wedge 被没收睡眠的夜数"
+  },
+  {
+   "value": "six fingers",
+   "offset": 17294,
+   "note": "Peter 每只手的指头数"
+  },
+  {
+   "value": "2012",
+   "offset": 1564,
+   "note": "父亲论文发表年"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Angela Cavaterra",
+   "note": "Giovanni 的姐姐，即 Wondrous Wendy"
+  },
+  {
+   "subject": "Uncle Augusto",
+   "note": "Dal Mare，父亲研究的资助人"
+  },
+  {
+   "subject": "Giancarlo",
+   "note": "Dal Mare 手下少年，因顶嘴被割喉"
+  }
+ ]
+}

@@ -1,0 +1,467 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/ch09 the whelp.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch09_the_whelp.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "In the early ’10s, Papa’s career was at its peak, but soon after the first signs of Alzheimer’s would come, and his care",
+          "ok": true,
+          "pos": 962
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It opens with the description of an image, shared in the form of a dream or hallucination by seventy-two schizophrenics.",
+          "ok": true,
+          "pos": 1996
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But Stefano Cavaterra had—how to put it—bolder ideas",
+          "ok": true,
+          "pos": 3780
+        },
+        {
+          "text": "At the current stage of research this was only anecdotal, Cavaterra admitted, but he insisted that the robust presence o",
+          "ok": true,
+          "pos": 5326
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "In general, he said in conclusion, the boundaries between real and imaginary are ideological, and we must learn how to t",
+          "ok": true,
+          "pos": 5518
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Four days are all that separate Giovanni from his father’s old opponents. Four days and Luisa’s eyes",
+          "ok": true,
+          "pos": 5829
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "In several places it mentions an unspecified Horned God, always capitalized, and a goddess, interchangeably referred to ",
+          "ok": true,
+          "pos": 8959
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He runs four-legged through the city streets, following the trail already laid for him—the smell of trees invading Rome,",
+          "ok": true,
+          "pos": 13544
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "It’s not exactly a sensible idea. But it is a good idea: if this is not Wonder, what is",
+          "ok": true,
+          "pos": 14819
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He has six fingers on each of his little hands, with long, razor sharp claws. He’s learned to open tins with them, makin",
+          "ok": true,
+          "pos": 16971
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“She’s got no shoes on,” Wendy points out. “How can she stand it?”",
+          "ok": true,
+          "pos": 24403
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“Uncle,” he says, “didn’t the sails use to be furled?”",
+          "ok": true,
+          "pos": 30314
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "If it weren’t for the sails of the Galleon, Giovanni would believe him",
+          "ok": true,
+          "pos": 35602
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“Look harder,” repeats Dal Mare, without even looking at the corpse",
+          "ok": true,
+          "pos": 37781
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "“Burn it all,” he orders",
+          "ok": true,
+          "pos": 38933
+        },
+        {
+          "text": "On Roman nights, while this and other horrors take place, people sleep, children travel",
+          "ok": true,
+          "pos": 38957
+        }
+      ],
+      "words": 20
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 97,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.57,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.48,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "09. The Whelp",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 14,
+    "block_median": 14.0,
+    "block_range": [
+      8,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 14,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 6963,
+    "block_target": [
+      13,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 29 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

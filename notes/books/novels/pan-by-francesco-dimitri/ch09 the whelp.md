@@ -25,7 +25,7 @@ modified: "2026-10-29"
 
 > **原句 2:** "It opens with the description of an image, shared in the form of a dream or hallucination by seventy-two schizophrenics. Stefano Cavaterra had studied a group of psychiatric patients who had visions linked to a common theme: a beautiful, frightening island, full of delights but also of awful dangers, populated by (among other things) a tribe of child warriors."
 
-**中文理解**：文章以一幅图像的描述开篇：72 名精神分裂者以梦或幻觉共享同一幅图像。Cavaterra 研究过一组幻视主题相通的病人：一座美丽又可怕、充满极乐也充满大危险的岛，住着（除其他者外）一族儿童战士。
+**中文理解**：文章以一幅图像的描述开篇：72 名精神分裂者以梦或幻觉共享同一幅图像。Cavaterra 研究过一组幻视主题相通的病人：一座美丽又可怕、充满极乐也充满大危险的岛，住着（其中包括）一族儿童战士。
 **关键词**：schizophrenics, visions, island, warriors
 **为什么这样写**：学术语体（精确到 72、visions linked to a common theme、among other things 的谨慎括注）与童话内容并置——全书用论文格式给奇幻上户口；章名 The Whelp 与这里的 child warriors 将在第六节会合（一只被收养的幼崽）。
 **读者视角提示**：括注 among other things 意味着患者图像里还有更多东西——下一块会给出帆船与海盗旗。
@@ -34,7 +34,7 @@ modified: "2026-10-29"
 
 > **原句 3:** "But Stefano Cavaterra had—how to put it—bolder ideas. ... At the current stage of research this was only anecdotal, Cavaterra admitted, but he insisted that the robust presence of the Island in the unconscious could indicate it had a real existence."
 
-**中文理解**：可 Cavaterra 有——该怎么说——更大胆的想法：澳洲原住民信人做梦时访问真实存在的地方，古希腊人不说「have a dream」而说「see a dream」；他萨满可能是对的，岛与帆船或为真实之地。他承认按当时研究阶段这只是轶证（anecdotal），却坚持：岛在无意识中的强健在场，可能表示它真有存在。
+**中文理解**：可 Cavaterra 有——该怎么说——更大胆的想法：澳洲原住民信人做梦时访问真实存在的地方，古希腊人不说「have a dream」而说「see a dream」；他认为萨满可能是对的，岛与帆船或为真实之地。他承认按当时研究阶段这只是轶证（anecdotal），却坚持：岛在无意识中的强健在场，可能表示它真有存在。
 **关键词**：bolder, anecdotal, unconscious
 **为什么这样写**：how to put it 的犹豫是学术人面对越界结论的标准表情；先自承 anecdotal 再 insisted——Cavaterra 的论证姿态恰是本书所有考据者后来的姿态，Giovanni 需要 reread three or four times 才敢信父亲是认真的。
 **读者视角提示**：原文此段之前还列出两类患者（留船欲登岛者／已被锁在地下棚屋受孩童戏弄酷刑者），本文引语省略号之间即此两段的收束。
@@ -100,7 +100,7 @@ modified: "2026-10-29"
 **中文理解**：营地前，Wendy 指出那主导谈话的矮个漂亮女孩没穿鞋：她怎么受得了？
 **关键词**：shoes, stand
 **为什么这样写**：赤脚第三次出现（ch01 身影、ch06 少年、这里的营地女孩），本书的识别特征表已可被读者独立使用；原文紧接女孩抬眼「像听见了」。
-**读者视角提示**：其身份本章未揭晓，挂账至后文（Neverland 一节将有交代）。
+**读者视角提示**：其身份本章未揭晓，挂账至后文才点名。
 
 ---
 
@@ -127,7 +127,7 @@ modified: "2026-10-29"
 **中文理解**：夜袭扑空，周日学校的男孩 Giancarlo 连说「这里没人」；Dal Mare 的手杖柄变钩割开他的喉咙，然后他重复同一句命令：再看仔细——甚至没看尸体。
 **关键词**：repeats, corpse, harder
 **为什么这样写**：without even looking 是全书给恶的精确画像：处决只需一个手势与一次不注视；Look harder 在命令语法上永远正确，因为被质疑的是情报而非他本人。
-**读者视角提示**：Giancarlo 是 Dal Mare 阵营有名有姓的第一例内部处决——船员离心的钉子。
+**读者视角提示**：Giancarlo 是 Dal Mare 手下有名有姓的一个，他的死示范了船长治下的人命价——船员离心的钉子。
 
 ---
 
@@ -143,7 +143,7 @@ modified: "2026-10-29"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| invective | 漫骂性攻击文字 | It was more an invective (courteous only on the surface) than a real reply |
+| invective | 谩骂性攻击文字 | It was more an invective (courteous only on the surface) than a real reply |
 | drivel | 胡言乱语 | it hinted that strange rumours circulated about Professor Cavaterra, and considering the drivel he’d written, it was right that they should. |
 | anecdotal | 轶闻级（证据分量不足） | At the current stage of research this was only anecdotal, Cavaterra admitted, but he insisted that the robust presence of the Island in the unconscious could indicate it had a real existence. |
 | ideological | 意识形态的 | In general, he said in conclusion, the boundaries between real and imaginary are ideological, and we must learn how to transcend them. |
@@ -175,7 +175,7 @@ modified: "2026-10-29"
 | notebook | 笔记本 | He opens the drawer that is becoming his secret vault—first the peach stone, now Papa’s black notebook too. |
 | stern | 船尾 | From the back garden rears the stern of the Galleon. |
 | tins | 罐头 | He’s learned to open tins with them, making cuts as precise as those of a scalpel. |
-| corpses | 尸体 | “Look harder,” repeats Dal Mare, without even looking at the corpse. |
+| corpse | 尸体 | “Look harder,” repeats Dal Mare, without even looking at the corpse. |
 
 ## 一句话总结
 本章把「论文—花园—营地」三处看似无关的地点串成同一条战线：Giovanni 靠童年记忆里一面对不上的船帆看穿了 Dal Mare，Michele 把父亲的异教笔记与新涂鸦收进暗库，Wendy 把 Wonder 抱回家取名 Peter；而 Dal Mare 在同一夜扑空之后杀自己人、烧别人的过去——罗马的夜里人在睡，孩子在旅行，战争已经在点名。
