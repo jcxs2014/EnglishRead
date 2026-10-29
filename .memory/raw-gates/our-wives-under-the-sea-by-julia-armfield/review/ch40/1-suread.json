@@ -1,0 +1,61 @@
+{
+ "chapter": "ch40",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch40_leah.txt",
+ "facts": [
+  {
+   "fact": "他们确实浮上来了：在不知多少小时盯着那只眼睛之后，转身对面板说要把船往上开；她和 Matteo 握住彼此的手，向一个两人都不信的存在祈求允许他们上升。",
+   "anchor": "we turned towards the panel after who knows how many hours spent staring into that eye",
+   "start": 69,
+   "end": 155
+  },
+  {
+   "fact": "那东西没有阻止他们，但在他们退开时，它的眼睛带着一种奇异的、像是期待的表情——如果说「表情」是对的词。",
+   "anchor": "its eye held a strange, anticipatory expression as we receded",
+   "start": 396,
+   "end": 457
+  },
+  {
+   "fact": "上升途中 Matteo 一直攥着 Jelka 的念珠；黑暗之上还有许多英里的光。",
+   "anchor": "Matteo held on to Jelka’s rosary beads as we rocketed upwards",
+   "start": 509,
+   "end": 570
+  },
+  {
+   "fact": "她脑子里终于清空时，sunken thoughts 随着被留在下面的东西一同退去；她心里反复想的是「Miri Miri Miri」，等着海洋结束。",
+   "anchor": "I thought to myself Miri Miri Miri and I waited for the ocean to end",
+   "start": 802,
+   "end": 870
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Leah–Matteo",
+   "kind": "同船同伴，上升时握着手",
+   "anchor": "we turned towards the panel after who knows how many hours spent staring into that eye",
+   "start": 69,
+   "end": 155
+  },
+  {
+   "pair": "Leah–Jelka",
+   "kind": "已死的同伴，Matteo 带着她的念珠",
+   "anchor": "Matteo held on to Jelka’s rosary beads as we rocketed upwards",
+   "start": 509,
+   "end": 570
+  },
+  {
+   "pair": "Leah–Miri",
+   "kind": "思念对象（结尾三呼其名）",
+   "anchor": "I thought to myself Miri Miri Miri and I waited for the ocean to end",
+   "start": 802,
+   "end": 870
+  }
+ ],
+ "numbers": [
+  {
+   "value": "「盯着那只眼睛不知多少小时」",
+   "anchor": "after who knows how many hours spent staring into that eye",
+   "start": 97,
+   "end": 155
+  }
+ ]
+}

@@ -27,6 +27,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 2:** "That we grasped each other’s hands, Matteo and I, and begged a being neither of us believed in to allow us to surface. I don’t remember much about the rest. I know the creature did not stop us, though its eye held a strange, anticipatory expression as we receded, if expression is the word I want."
 
 **中文理解**：她们握住彼此的手，向一个两人都不相信的存在请求让她们上去；其余的事她记得不多。那只生物没有拦她们，退走时它眼里有一种奇怪的、期待的表情——如果「表情」这个词用得对的话。
@@ -39,7 +41,21 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "I know all this, and I know that as my head cleared, finally, of everything, sunken thoughts receding with the thing that we had left below, I thought to myself Miri Miri Miri and I waited for the ocean to end."
+---
+
+> **原句 3:** "I know too that Matteo held on to Jelka’s rosary beads as we rocketed upwards, as we moved up from darkness into further dark, the light so many miles above our heads."
+
+**中文理解**：她还记得，上浮的时候 Matteo 一路攥着 Jelka 的念珠；他们从黑暗升进更深的黑暗，光还在头顶许多英里之上。
+
+**关键词**：held on to Jelka’s rosary beads / as we rocketed upwards / into further dark / so many miles above our heads
+
+**为什么这样写**：句子用两个 `as` 从句把「上升」拉长成一段时间：先向上冲，再从黑暗进入更深的黑暗。`the light so many miles above our heads` 是独立结构，把光推到极远处——他们正在往光去，而光还远得很。念珠在这里第一次出现，Jelka 已经死了，她的东西被活着的人攥着。
+
+**读者视角提示**：`I know too` 与前一句的 `I know` 并排，全段都是「我记得/我知道」——她给不出别的证据，只剩这些记忆。
+
+---
+
+> **原句 4:** "I know all this, and I know that as my head cleared, finally, of everything, sunken thoughts receding with the thing that we had left below, I thought to myself Miri Miri Miri and I waited for the ocean to end."
 
 **中文理解**：她记得意识终于清空、那些「沉下去的念头」随留在下面的东西一起退去时，她心里想的是「Miri，Miri，Miri」，然后她等着海洋结束。
 
