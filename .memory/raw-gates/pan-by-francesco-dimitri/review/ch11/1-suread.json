@@ -1,0 +1,119 @@
+{
+ "chapter": "ch11",
+ "file": "text/ch11_michele_s_journey.txt",
+ "text_chars": 46874,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "Michele 高烧病梦中先见荒诞梦境（坠落、牛仔、扑克赌徒、漫画狼人、Blues Brothers），再进入 Enchantment：空校舍变成海滩，父亲 Stefano 以病前模样现身，父子相触确认「不是 Flesh 也不是 Dream」",
+   "anchor": "and this isn’t Dream. This is Enchantment.",
+   "offset": 3486
+  },
+  {
+   "id": "F2",
+   "fact": "Stefano 说明这是 Peter Pan 的岛（Neverland），铁律：只有孩子、被拣选者、濒死者能踏足；Michele 是被 Called 来受启蒙，不是将死",
+   "anchor": "You’ve been Called. This is your initiation.",
+   "offset": 9810
+  },
+  {
+   "id": "F3",
+   "fact": "Stefano 承认已停止抗争、正在死去，把余生定价（五六年不值半小时谈话），并交代战争将至、角神归位、外公之事",
+   "anchor": "I’ve stopped fighting, Michele. I’m dying.",
+   "offset": 12807
+  },
+  {
+   "id": "F4",
+   "fact": "红发短发的女子把 Michele 从玻璃海面推下洞，坠入 Dream 的废弃地铁隧道，自称 Eris（纷争女神之名）",
+   "anchor": "From Enchantment to Dream.",
+   "offset": 17104
+  },
+  {
+   "id": "F5",
+   "fact": "Eris 报城市灵体名册：家暴、污染、速度、城市植被、鸽鼠狗猫，最上是罗马母亲城；她是城市派来的引路者",
+   "anchor": "Spirits of Steel and Glass",
+   "offset": 19601
+  },
+  {
+   "id": "F6",
+   "fact": "Eris 袒胸授乳，称 Michele 为儿子，乳汁改造并唤醒他（启蒙的两步）",
+   "anchor": "“You’re my son,” she murmurs.",
+   "offset": 21756
+  },
+  {
+   "id": "F7",
+   "fact": "Michele 裸身在绝对黑暗中沿站台走了数小时，出隧道进废车场；鼠群叠成两米巨鼠把他分食（喉、眼、鼻、腹），他死亡",
+   "anchor": "it reaches two metres high",
+   "offset": 27548
+  },
+  {
+   "id": "F8",
+   "fact": "死后灵魂见母亲城内部：混凝土子宫、无时无空、众灵向他行礼；他登上 Square Colosseum 顶跳入台伯河",
+   "anchor": "The City has awoken, the City is dying.",
+   "offset": 36833
+  },
+  {
+   "id": "F9",
+   "fact": "台伯河以第一人称讲旧案：雨夜 Wedge 与 PsyKlops 欺凌偷钱包的尼日利亚男孩，男孩坠河溺死；次年主显节 Lost Children 选他们传信给 Hook，Wedge 成 Dreamhound",
+   "anchor": "He made Wedge into his own Dreamhound",
+   "offset": 43445
+  },
+  {
+   "id": "F10",
+   "fact": "Eris 用气砖、后视镜、钢缆重塑尸体，宣布 Michele 重生为萨满、罗马第一位 cognisant；最后揭示 Stefano 的阿尔茨海默是 Hook 所为",
+   "anchor": "Stefano’s Alzheimer’s wasn’t natural. It was his doing.",
+   "offset": 46424
+  }
+ ],
+ "numbers": [
+  {
+   "value": "nine",
+   "what": "本章分 I–IX 九节",
+   "anchor": "\nIX\n",
+   "offset": 44112
+  },
+  {
+   "value": "two metres",
+   "what": "巨鼠高度",
+   "anchor": "reaches two metres high",
+   "offset": 27551
+  },
+  {
+   "value": "three",
+   "what": "Stefano 有三个勇敢的孩子",
+   "anchor": "he has had three courageous children",
+   "offset": 15688
+  },
+  {
+   "value": "five, six years",
+   "what": "Stefano 本可再活的年数",
+   "anchor": "Perhaps I’d have lived another five, six years",
+   "offset": 13237
+  },
+  {
+   "value": "three",
+   "what": "Eris 给的三件法器（镜、石、钢）",
+   "anchor": "three powerful magical artifacts",
+   "offset": 45192
+  }
+ ],
+ "relations": [
+  {
+   "who": "Stefano Cavaterra",
+   "what": "Michele 的父亲，阿尔茨海默患者，在 Enchantment 中清醒赴死",
+   "anchor": "Stefano Cavaterra is beside him",
+   "offset": 3146
+  },
+  {
+   "who": "Eris",
+   "what": "城市之母派来的引路人，自称纷争女神之名，授乳并重塑 Michele",
+   "anchor": "You can call me Eris",
+   "offset": 19104
+  },
+  {
+   "who": "Wedge",
+   "what": "ch01 桥下欺凌者之一，被 Hook 变成 Dreamhound",
+   "anchor": "He made Wedge into his own Dreamhound",
+   "offset": 43445
+  }
+ ]
+}
