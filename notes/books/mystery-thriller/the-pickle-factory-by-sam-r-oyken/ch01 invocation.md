@@ -32,19 +32,11 @@ modified: "2026-10-29"
 **读者视角提示**：看到出处才知道开篇誓言是戏仿，读者会意识到这本书的每一页都可能藏着类似的文化梗。
 
 ## 本章词汇
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | similarly | 同样地；类似地 | And, similarly, may St. Anthony’s fire burn you |
 | Composed | 由……撰写；创作 | Composed by the late M. Alcofribas, Abstractor of the Quintessence, aka François Rabelais, Doctor of Medicine |
-
-### ⭐ 常用
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 
 ## 一句话总结
 开篇借拉伯雷的毒誓立下「叙述者绝不说谎」的荒唐保证，为整部 CIA 荒诞史挂上「句句皆谎」的招牌。
