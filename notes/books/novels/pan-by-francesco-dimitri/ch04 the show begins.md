@@ -116,7 +116,7 @@ modified: "2026-10-29"
 > **原句 12:** "You’re cheating on your girlfriend with Simonetta from debate club,” she whispers softly."
 
 **中文理解**：Wendy 贴着他的耳朵低声说：你背着女朋友，跟辩论社的 Simonetta 搞在一起。
-**关键词**：cheating, whispers, bullshit
+**关键词**：cheating, whispers, debate club
 **为什么这样写**：whispers softly 与内容的杀伤力成反比——最伤人的话用最小的音量说，这句同时是魔术、敲诈和社交凶器。她的情报来自进场前的观察与截听，所谓「照片」不过是讲得漂亮的胡说——威慑不需要证据，只需要风格。
 **读者视角提示**：她的情报来源下一段会交代（厨房外的截听），请把这两句连起来读成一次「合法偷窃」。
 
