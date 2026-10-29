@@ -91,7 +91,7 @@ modified: "2026-10-29"
 **为什么这样写**：新机构的地点不是租写字楼，而是接管一座冷战核掩体；「地下城镇 + 25 吨防爆门」把重建计划写成末日后的重新开局，也解释了后文书里数百人「迁往 White Sulphur Springs」的去向。
 **读者视角提示**：注意这段问答把「Project Greek Island」从旧项目名变成新址：同一个名字先指核掩体，再指新腌菜厂，名与实的错位正是本章的主题。
 
-> **原句 10:** "“Right,” said BUTTONFLY. “Well, that was Project Greek Island. And that’s where we’re going to be working on Project Greek Island 2.0, at least at the start. We’ll be covered by the National Archives as a TSA body-scan repository. In a couple years, after we get up and running and Chairman Skinner retires, we’ll relocate to Providence, Rhode Island, where I hail from."
+> **原句 9:** "“Right,” said BUTTONFLY. “Well, that was Project Greek Island. And that’s where we’re going to be working on Project Greek Island 2.0, at least at the start. We’ll be covered by the National Archives as a TSA body-scan repository. In a couple years, after we get up and running and Chairman Skinner retires, we’ll relocate to Providence, Rhode Island, where I hail from."
 
 **中文理解**：BUTTONFLY 确认此前的猜测，说那就是 Project Greek Island；新机构起步阶段将在那里做“Project Greek Island 2.0”，对外挂靠 National Archives，伪装成 TSA 的人体扫描资料库；等运转起来、Chairman Skinner 退休后，再迁往他的家乡 Providence, Rhode Island。
 
@@ -101,7 +101,7 @@ modified: "2026-10-29"
 
 **读者视角提示**：注意地点是“at least at the start”，说明这里只是起步阶段；读者可留意“2.0”这个说法如何把旧项目变成可迭代产品。
 
-> **原句 9:** "“Yep. Sorry to break it to you cold like that. Senator Robert Byrd grabbed off the original when he annexed the National Archives and shipped the Declaration of Independence over to Morgantown, along with the Constitution of the United States and the Bill of Rights. They don’t tell that to the tourists who line up here. Don’t want to disappoint them. Especially the ones from West Virginia.”"
+> **原句 10:** "“Yep. Sorry to break it to you cold like that. Senator Robert Byrd grabbed off the original when he annexed the National Archives and shipped the Declaration of Independence over to Morgantown, along with the Constitution of the United States and the Bill of Rights. They don’t tell that to the tourists who line up here. Don’t want to disappoint them. Especially the ones from West Virginia.”"
 
 **中文理解**：BUTTONFLY 先道歉说消息来得太冷，然后解释：参议员 Robert Byrd 在把 National Archives 并入自己管辖时拿走了原件，把《独立宣言》连同《美国宪法》和《权利法案》一起运到 Morgantown；这些事不告诉排队游客，尤其不告诉西弗吉尼亚来的游客。
 
