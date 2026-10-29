@@ -1,0 +1,148 @@
+{
+  "chapter": "ch22",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch22_leah.txt",
+  "facts": [
+    {
+      "fact": "马泰奥先睡着，随后莉娅也睡了；她做了极其压缩的梦——梦见长廊、自己的脊椎、米莉用手指顺着她脖子划下又停住；醒来时视野缩成两个针孔，一切要过好几分钟才调回正常。",
+      "anchor": "a couple of pinholes and everything took several minutes to adjust. We",
+      "start": 353,
+      "end": 423
+    },
+    {
+      "fact": "两人一遍遍重试通讯面板，把主舱一件件拆开找故障，还讨论各种不现实的求救方案：施压让艇体翻滚、制造可控爆炸好让余震被水面看见。",
+      "anchor": "we took apart the main deck piece by piece in search of",
+      "start": 463,
+      "end": 518
+    },
+    {
+      "fact": "莉娅常在醒来时听见耶尔卡在厨房、洗漱间或主舱门口喃喃自语，要过几秒才反应过来她是在祈祷；马泰奥当面说“你的上帝把我们丢进了烂处境”。",
+      "anchor": "“has put us in a shitty situation.” His voice had taken on",
+      "start": 1130,
+      "end": 1188
+    },
+    {
+      "fact": "马泰奥从此变得多疑尖刻、话里带刺，反复念叨想吃正常食物——一颗鸡尾酒橄榄、一张披萨、一包梅尔巴吐司，还想伸展腿脚、看看鬼天气；莉娅想说自己也一样怕，但觉得说出来既刻薄又不吉利。",
+      "anchor": "I want to see some fucking weather.” I wanted to tell him",
+      "start": 1501,
+      "end": 1558
+    },
+    {
+      "fact": "莉娅把自己在船上的角色当成和事佬，用讲故事填满沉默：童年每月一次父亲开沃尔沃带她去海滩捡海玻璃和宝贝贝壳，靠海滩小屋的颜色判断走了多远，再下水吃三明治、找搁浅的桶水母。",
+      "anchor": "my father would pack up the Volvo, throw me into the passenger",
+      "start": 2088,
+      "end": 2150
+    },
+    {
+      "fact": "耶尔卡一句“这些我都知道，但谢谢你的生物课”打断了她；莉娅这才意识到这故事她一向是讲给米莉听的——她习惯把见闻存起来留着以后讲给她，可此刻写下来又拿不准是否真想让她知道。",
+      "anchor": "often telling Miri stories, logging away information or things I’ve seen in",
+      "start": 3476,
+      "end": 3551
+    },
+    {
+      "fact": "那种声响退去后又间歇回来、后来变得频繁；她只能靠响声的起止分辨时间段，声音像地板吱嘎、像绷紧的绳索、像有东西裹住船体往里压。",
+      "anchor": "winnowed out around the sides of the craft, creaked like floorboards, like",
+      "start": 4245,
+      "end": 4319
+    },
+    {
+      "fact": "马泰奥把脸颊贴在窗上并非向外看，而是为了取凉，说感觉像腿麻之前那种怪异；窗外永远什么都没有，黑水没有方向，看久了便难以相信身边真有水。",
+      "anchor": "“I just feel weird – you know the feeling right before your",
+      "start": 4795,
+      "end": 4854
+    }
+  ],
+  "relations": [
+    {
+      "pair": "莉娅–马泰奥",
+      "kind": "同被困在潜水器里的同伴：他变得尖刻难缠时由她化解，她却不肯对他说出自己的恐惧，因为“说出口太不吉利”。",
+      "anchor": "made him curt and difficult. “I want,” he said a lot, “to",
+      "start": 1330,
+      "end": 1387
+    },
+    {
+      "pair": "莉娅–耶尔卡",
+      "kind": "同舱同伴：耶尔卡靠祈祷撑着、被莉娅的科普故事惹烦，莉娅夹在两人之间做和事佬。",
+      "anchor": "all of that,” Jelka interrupted, “but thank you for the biology lesson.”",
+      "start": 3258,
+      "end": 3330
+    },
+    {
+      "pair": "莉娅–米莉",
+      "kind": "分离中的伴侣（米莉不在场）：米莉是莉娅心里默认的听众，她记得米莉用手抚过她的头发、记得米莉描述想领养的猫。",
+      "anchor": "Miri brushing her hand over my hair in the way she often",
+      "start": 7655,
+      "end": 7711
+    },
+    {
+      "pair": "马泰奥–耶尔卡",
+      "kind": "同舱的另外两人：并不真吵，只是彼此摩擦、互相蹭刮，需要莉娅在中间调停。",
+      "anchor": "scratching about one another in a manner I sought to defuse. I",
+      "start": 1901,
+      "end": 1963
+    },
+    {
+      "pair": "莉娅–父亲",
+      "kind": "父女：童年每月一次由父亲开车带她去海滩，捡海玻璃、宝贝贝壳、看桶水母，是她讲给别人的温情故事。",
+      "anchor": "walk the length of the beach, marking our progress via these beach",
+      "start": 2283,
+      "end": 2349
+    },
+    {
+      "pair": "中心女职员–三人",
+      "kind": "参观向导兼推销者：她用卖车般的口吻介绍船舱——灯光促进维生素D代谢、天花板制造空间错觉，敲着舱壁说“不会沉”又马上改口。",
+      "anchor": "rapping her knuckles against one of the lockers. Designed that way. Space",
+      "start": 5611,
+      "end": 5684
+    }
+  ],
+  "numbers": [
+    {
+      "value": "一个月一次（Once a month）",
+      "anchor": "“Once a month,” I said, “when I was little, my father would",
+      "start": 2044,
+      "end": 2103
+    },
+    {
+      "value": "两个针孔（a couple of pinholes）",
+      "anchor": "a couple of pinholes and everything took several minutes to adjust. We",
+      "start": 353,
+      "end": 423
+    },
+    {
+      "value": "好几分钟（several minutes）",
+      "anchor": "several minutes to adjust. We tried the comms panel again and again,",
+      "start": 394,
+      "end": 462
+    },
+    {
+      "value": "四分之三点（the three-quarter point）",
+      "anchor": "the three-quarter point, and so on. When we’d walked far enough, we’d",
+      "start": 2595,
+      "end": 2664
+    },
+    {
+      "value": "中点/中途点（the midway point）",
+      "anchor": "the midway point between car park and headland, the hut striped white",
+      "start": 2512,
+      "end": 2581
+    },
+    {
+      "value": "某一刻、一瓶葡萄酒（at one point / a bottle of wine）",
+      "anchor": "at one point I unearthed a bottle of wine in one of",
+      "start": 5406,
+      "end": 5457
+    },
+    {
+      "value": "几天、几周（Days, weeks）",
+      "anchor": "Days, weeks, I couldn’t tell you. We ate and slept and tried",
+      "start": 6186,
+      "end": 6246
+    },
+    {
+      "value": "在太阳下几小时（a few hours in the sun）",
+      "anchor": "starts to evaporate. It only takes a few hours in the sun.”",
+      "start": 3184,
+      "end": 3243
+    }
+  ]
+}

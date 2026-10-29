@@ -27,7 +27,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "“Your God,” Matteo said to her once, “has put us in a shitty situation.” His voice had taken on a tone of disbelief that seemed to follow him about our shared space, a disbelief that stoppered up the other aspects of his personality and made him curt and difficult."
+> **原句 2:** "We discussed unreasonable ways of orchestrating a rescue, imagined exerting enough pressure on the hull that the craft began to roll, imagined causing a controlled explosion whose aftershocks might be seen from the surface."
+
+**中文理解**：她们讨论过一些不现实的求救办法：设想给艇体施加足够的压力让它翻滚起来，设想制造一次可控爆炸，让余震能被水面上的人看见。在此之前，她们已把主舱一件件拆开找故障，通讯面板试了一次又一次。
+
+**关键词**：orchestrating a rescue / exerting enough pressure / the craft began to roll / a controlled explosion / seen from the surface
+
+**为什么这样写**：这一段用三个 imagine 串起一串不可能的方案，动词全是被动语态的假设（imagined exerting / imagined causing）：她们不是在计划，是在**列举**。句子的长度和并列结构本身就模仿了这种「说到无话可说、只能不断加码」的状态，而最后一句把落点收回水面——「might be seen」，可能被看见，语气到此为止，没有一句「于是我们这么做了」。
+
+**读者视角提示**：作者在这里第一次让「求救」变成物理方案：翻滚、爆炸、水面。它们全都没有施行，但「怎样让上面注意到我们」这个问题从此留在了舱里。
+
+---
+
+> **原句 3:** "“Your God,” Matteo said to her once, “has put us in a shitty situation.” His voice had taken on a tone of disbelief that seemed to follow him about our shared space, a disbelief that stoppered up the other aspects of his personality and made him curt and difficult."
 
 **中文理解**：Matteo 对她说，她的上帝把他们丢进一个烂摊子；那种难以置信的语调跟着他在共用空间里走动，把他性格的其他部分堵住，让他变得简短、难相处。
 
@@ -39,7 +51,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "I came to regard my role onboard as something akin to peacemaker, although Matteo and Jelka were never exactly fighting, only scratching about one another in a manner I sought to defuse. I tried to fill silences, told stories to drown out the madness of the situation."
+> **原句 4:** "I came to regard my role onboard as something akin to peacemaker, although Matteo and Jelka were never exactly fighting, only scratching about one another in a manner I sought to defuse. I tried to fill silences, told stories to drown out the madness of the situation."
 
 **中文理解**：Leah 把自己在船上的角色看成近似和事佬：Matteo 和 Jelka 并没有真的吵架，只是彼此刮擦，而她就去化解；她用讲故事填满沉默，把处境的荒唐压下去。
 
@@ -51,7 +63,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "I looked at her, blinked, looked away. It hadn’t occurred to me that this was a story I was more used to telling Miri. In my head, I think I’m often telling Miri stories, logging away information or things I’ve seen in order to tell her about them later."
+> **原句 5:** "I looked at her, blinked, looked away. It hadn’t occurred to me that this was a story I was more used to telling Miri. In my head, I think I’m often telling Miri stories, logging away information or things I’ve seen in order to tell her about them later."
 
 **中文理解**：她看了对方一眼，眨眼，把视线移开；这时才想到，这个故事她更习惯讲给 Miri 听。她在脑子里常常给 Miri 讲故事，把见闻一条条记下来，为的是日后讲给她。
 
@@ -63,7 +75,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "When it came, it winnowed out around the sides of the craft, creaked like floorboards, like straining rope, like something wrapped around our hull and pressing inwards. Sometimes I thought about what it might be but more often I didn’t."
+> **原句 6:** "When it came, it winnowed out around the sides of the craft, creaked like floorboards, like straining rope, like something wrapped around our hull and pressing inwards. Sometimes I thought about what it might be but more often I didn’t."
 
 **中文理解**：声音来的时候，贴着艇体两侧碾开，响得像地板、像绷紧的绳，也像有什么东西裹住船壳往里压。她有时会想那是什么，但多数时候不想。
 
@@ -75,7 +87,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "When I couldn’t think about Miri any more, I gave up and thought instead about the imprints of deliquesced jellyfish, the brown and pink remainders – only imprints – fading to nothing on a white expanse of shore."
+> **原句 7:** "Once, I came through to the main deck to find Matteo with his cheek against the window, not looking outwards, staring at the floor. When I asked him what he was doing he told me he’d been trying to get cool, gestured to the cheek not touching the window as if inviting me to touch."
+
+**中文理解**：有一次她走进主舱，看见 Matteo 把脸颊贴在窗上，却不是往外看，而是盯着地板。她问他在做什么，他说是想凉快一点，还指了指没贴窗的那半边脸，像是请她来摸一下。
+
+**关键词**：his cheek against the window / not looking outwards / trying to get cool / as if inviting me to touch
+
+**为什么这样写**：这一段的动作全在否定里：脸贴窗却不看窗外、盯着地板、她说「想凉快」却并不觉得热（下一句）。作者让身体做出一个指向「外面」的姿势，同时把这个姿势的目的抽空——他不是在看海，只是在借玻璃的温度。窗外的黑因此不是背景，而是一个被反复确认「什么也没有」的平面。
+
+**读者视角提示**：注意「请她摸一下」这个邀请：在三人的舱里，身体接触几乎只剩下这种功能性的、测试性的触碰。
+
+---
+
+> **原句 8:** "When I couldn’t think about Miri any more, I gave up and thought instead about the imprints of deliquesced jellyfish, the brown and pink remainders – only imprints – fading to nothing on a white expanse of shore."
 
 **中文理解**：当她再也想不下去 Miri，她就放弃，转而去想那些消融的水母留下的印子——褐色和粉色的残迹，只是印子——在白色海滩上褪到没有。
 
