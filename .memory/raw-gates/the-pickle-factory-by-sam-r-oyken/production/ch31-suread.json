@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch31",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch31_in_which_kandinsky_slips_kray_a_sweater.txt",
+ "facts": [
+  {
+   "fact": "Veronica 命令 Nick 闭眼伸手，把藏在背后的礼物递给他",
+   "anchor": "“Close your eyes and stick out your hands,” Veronica commanded",
+   "start": 45,
+   "end": 107
+  },
+  {
+   "fact": "Veronica 说毛衣是她亲手织的，作为生日礼物",
+   "anchor": "“I knitted it for you,” said Veronica. “Happy Birthday, my honey.”",
+   "start": 1048,
+   "end": 1114
+  },
+  {
+   "fact": "Veronica 说早上在办公桌前读情报流量时织毛衣，免得脑子另一部分无聊",
+   "anchor": "“I knit at my desk in the morning while I read the traffic,” she said.",
+   "start": 1395,
+   "end": 1465
+  },
+  {
+   "fact": "她赶在 Nick 出行前织完，并说加德满都会冷得要命",
+   "anchor": "“It’s going to be fucking cold in Kathmandu.”",
+   "start": 1673,
+   "end": 1718
+  },
+  {
+   "fact": "Nick 有把衣物落在酒店房间的历史，Veronica 说丢了毛衣就要重新考虑爱他",
+   "anchor": "Nick had a history of leaving various items of clothing behind in hotel rooms",
+   "start": 1975,
+   "end": 2052
+  },
+  {
+   "fact": "Veronica 说前方作战基地的自杀式炸弹袭击改变了一切，并承认 Nick 是对的",
+   "anchor": "the suicide bombing at Forward Operating Base ███████ changed everything",
+   "start": 3400,
+   "end": 3472
+  },
+  {
+   "fact": "Nick 订好了回来后的位子，地点是 The Inn at Little Washington，还要去 Monkey Bar、骑摩托车",
+   "anchor": "“I made that reservation we talked about, for when I get back.”",
+   "start": 4486,
+   "end": 4549
+  },
+  {
+   "fact": "两人做好烤鸡配红土豆、炒菠菜和面包，烛光下边吃边听 Kind of Blue",
+   "anchor": "a roasted chicken with red potatoes",
+   "start": 4862,
+   "end": 4897
+  }
+ ]
+}
