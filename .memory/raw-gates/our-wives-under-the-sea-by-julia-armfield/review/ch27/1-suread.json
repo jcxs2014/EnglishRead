@@ -1,0 +1,141 @@
+{
+ "chapter": "ch27",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch27_miri.txt",
+ "facts": [
+  {
+   "fact": "午夜电话响，Miri 不接——她在浴室陪着泡澡的 Leah；一点电话又响，两人还在原处，Leah 已在水里泡了一整天，Miri 在旁边读一本她当年送她的书。",
+   "anchor": "The phone rings at midnight and I do not answer it.",
+   "start": 8,
+   "end": 59
+  },
+  {
+   "fact": "Leah 用那种「讲课式」的恍惚声音讲人体里带着海：血液基本由钠、钾、钙构成，与海水大致相同，万物都留着一丝海的盐。",
+   "anchor": "we all carry the ocean in our bodies, just a little bit",
+   "start": 731,
+   "end": 786
+  },
+  {
+   "fact": "Miri 一再劝 Leah 上床，被拒后恼起来，抓住她的手硬拽，用力到她半站出浴缸；Leah 说「I don't want to」，随即眼窝、耳内、嘴角都漏出水，双腿撑不住，Miri 从腋下抱住她，只想让这一刻不是自己的错。",
+   "anchor": "she is leaking water from the beds of her eyes",
+   "start": 2610,
+   "end": 2656
+  },
+  {
+   "fact": "Miri 本可以做一项检测，得知自己是否易患与母亲相同的病；她预约了，提前十五分钟走到门口，却转身走回家，在沙发上看电视几个小时后才意识到自己干了什么。",
+   "anchor": "booked a test and walked through town in a thin and drifting rain",
+   "start": 3275,
+   "end": 3340
+  },
+  {
+   "fact": "她的自省：人宁愿相信生活取之不尽——不是机会无限，而是每件乏味日常都会重来无数次；给最琐碎的事（还能买几次咖啡、化几次冰箱）设上限，等于承认现实，形同折磨。",
+   "anchor": "To stamp a limit on even the most tedious of things",
+   "start": 4103,
+   "end": 4154
+  },
+  {
+   "fact": "6am 电话第三次响；Miri 已把 Leah 留在浴缸里（这是她嘴里水排干、能说话时要求的），她接起电话，来电者自称是 Jelka 的姐妹。",
+   "anchor": "the caller identifies herself as the sister of Jelka",
+   "start": 4905,
+   "end": 4957
+  },
+  {
+   "fact": "Jelka 就是 Leah 所乘那艘船沉没时同在船上的人；来电者说若不太麻烦想谈谈，有些事她认为应该说一说。",
+   "anchor": "There are some things I think we ought to discuss",
+   "start": 5079,
+   "end": 5128
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Miri–Leah",
+   "kind": "伴侣/照护者：Miri 守在浴缸边陪她、读书给她听、劝她上床，最后抱住在水里瘫软的她",
+   "anchor": "Leah is in the bath and I am in the bathroom with her",
+   "start": 60,
+   "end": 113
+  },
+  {
+   "pair": "Leah–Miri",
+   "kind": "亲密日常：Leah 曾买书送 Miri，如今 Miri 把这本书读给她听",
+   "anchor": "reading to Leah from a book she bought me once",
+   "start": 347,
+   "end": 393
+  },
+  {
+   "pair": "Miri–母亲",
+   "kind": "血缘恐惧：母亲患有某种病，Miri 可能遗传，检测因此存在",
+   "anchor": "the same condition as my mother",
+   "start": 2989,
+   "end": 3020
+  },
+  {
+   "pair": "Jelka–Leah",
+   "kind": "同船遇难者：Jelka 与 Leah 同在那艘沉没的 craft 上",
+   "anchor": "who was on the craft with Leah when it went down",
+   "start": 4959,
+   "end": 5007
+  },
+  {
+   "pair": "Jelka 的姐妹–Miri",
+   "kind": "陌生来电者主动接触：以「有些事该谈谈」为由建立联系",
+   "anchor": "There are some things I think we ought to discuss",
+   "start": 5079,
+   "end": 5128
+  }
+ ],
+ "numbers": [
+  {
+   "value": "午夜（midnight）",
+   "anchor": "The phone rings at midnight and I do not answer it.",
+   "start": 8,
+   "end": 59
+  },
+  {
+   "value": "一点（one，即凌晨 1 点）",
+   "anchor": "The phone rings again at one and we are in the same position",
+   "start": 275,
+   "end": 335
+  },
+  {
+   "value": "早上 6 点（6am）",
+   "anchor": "The phone rings again at 6am",
+   "start": 4731,
+   "end": 4759
+  },
+  {
+   "value": "提前十五分钟（fifteen minutes）",
+   "anchor": "fifteen minutes early",
+   "start": 3472,
+   "end": 3493
+  },
+  {
+   "value": "几个小时（several hours）",
+   "anchor": "watching television for several hours",
+   "start": 3652,
+   "end": 3689
+  },
+  {
+   "value": "人名 Miri（叙述者）",
+   "anchor": "Miri.",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "value": "人名 Leah",
+   "anchor": "Leah is in the bath",
+   "start": 60,
+   "end": 79
+  },
+  {
+   "value": "人名 Jelka",
+   "anchor": "the caller identifies herself as the sister of Jelka",
+   "start": 4905,
+   "end": 4957
+  },
+  {
+   "value": "化学元素：钠、钾、钙（sodium, potassium, calcium）",
+   "anchor": "sodium, potassium, calcium",
+   "start": 818,
+   "end": 844
+  }
+ ]
+}

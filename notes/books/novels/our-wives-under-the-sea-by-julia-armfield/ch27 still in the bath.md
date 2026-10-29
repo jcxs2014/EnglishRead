@@ -63,7 +63,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "I answer the phone and the caller identifies herself as the sister of Jelka, who was on the craft with Leah when it went down. “I’d love to speak,” she says, “if that wouldn’t be too much trouble. There are some things I think we ought to discuss.”"
+> **原句 5:** "To stamp a limit on even the most tedious of things – the number of times you have left to buy a coffee, the number of times you will defrost the fridge – is to acknowledge reality in a way that amounts to torture."
+
+**中文理解**：给哪怕最无聊的事盖上「次数上限」——你还能买多少次咖啡、还会给冰箱解多少次冻——就等于以最像酷刑的方式承认现实。
+
+**关键词**：stamp a limit / the most tedious of things / the number of times you have left / acknowledge reality / amounts to torture
+
+**为什么这样写**：这一句是本章的道理所在，却写得像一句格言：主语是动词不定式（To stamp a limit…），谓语是「等于酷刑」，中间两个破折号塞进两个日常例子——咖啡、解冻冰箱。例子越琐碎，「酷刑」这个词就越重；作者让抽象命题经由最平庸的家务落地，读者才明白她为什么不去做那个检测。
+
+**读者视角提示**：注意这不是关于死亡的感慨，而是关于**计数**：她拒绝的是「知道自己还剩多少次」。这一句解释了她此前的逃避，也预告了后面她开始数日子时的崩塌。
+
+---
+
+> **原句 6:** "I answer the phone and the caller identifies herself as the sister of Jelka, who was on the craft with Leah when it went down. “I’d love to speak,” she says, “if that wouldn’t be too much trouble. There are some things I think we ought to discuss.”"
 
 **中文理解**：电话接通，对方先交代自己是 Jelka 的姐姐，而 Jelka 当时跟 Leah 在同一条沉下去的船上。她说想谈谈，问这样会不会太麻烦，接着说有些事她觉得应该商量。
 
