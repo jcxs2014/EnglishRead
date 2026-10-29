@@ -1,0 +1,55 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch10",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch10_chap10.txt",
+ "facts": [
+  {
+   "fact": "Molly 一早敲门盛赞 Jessica 的书稿，夸感情写得真实",
+   "anchor": "It felt so lived-in. It was like you really knew what it was like to be in love!",
+   "start": 1189,
+   "end": 1269
+  },
+  {
+   "fact": "Molly 把书中恋人与她们类比后，Jessica 心跳漏拍、装作冷静",
+   "anchor": "Jessica’s heart skipped a beat, but she needed to play it cool.",
+   "start": 3072,
+   "end": 3135
+  },
+  {
+   "fact": "农场主 Rowan 出场外貌：酒浸红鼻、白胡茬、鸭舌帽",
+   "anchor": "The family patriarch, Rowan Downythistle, was a thickset man with a red gin-soaked nose, a day’s worth of whiskers on his cheeks, and a fringe of white hair poking out from under his flatcap.",
+   "start": 4250,
+   "end": 4441
+  },
+  {
+   "fact": "儿子们为 Tigglestide 庆典把一个兄弟缝进巨熊装",
+   "anchor": "Rowan led them behind the barn, where several more sons were sewing one of their number into a massive bear suit.",
+   "start": 5520,
+   "end": 5633
+  },
+  {
+   "fact": "羔羊泪眼特写：凸眼水汪汪、长睫毛不停滴泪",
+   "anchor": "The lambs had enormous, goggling eyes, so dewy that tears continuously dripped from their long, long lashes.",
+   "start": 7810,
+   "end": 7918
+  },
+  {
+   "fact": "少女顶撞父亲后坚称自己的名字是 George",
+   "anchor": "No one calls me Georgette! Everyone calls me George!",
+   "start": 9511,
+   "end": 9563
+  },
+  {
+   "fact": "Lady Tuppence 出场形象：棉花糖蓝高发髻、镶钻猫眼镜",
+   "anchor": "She was an older woman with a tower of cotton candy–blue hair on her head, a pair of bedazzled cat-eye spectacles perched on her beaky nose",
+   "start": 16319,
+   "end": 16458
+  },
+  {
+   "fact": "面对不祥的树干兔脸，Jessica 出口只有一句好可爱",
+   "anchor": "But out loud, she only said “How cute!” as they continued on their way.",
+   "start": 26293,
+   "end": 26364
+  }
+ ]
+}

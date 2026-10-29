@@ -1,0 +1,55 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch11",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch11_chap11.txt",
+ "facts": [
+  {
+   "fact": "Sandy 早餐后看到电视播真人剧 The Stealthy Seven：六个少年侦探加一只叫 Toby 的狗，在村绿地野餐时撞破国际钻石走私团伙",
+   "anchor": "about six teenage sleuths and a dog named Toby who stumbled across an international diamond-smuggling ring while having a picnic on the village green",
+   "start": 650,
+   "end": 799
+  },
+  {
+   "fact": "Sandy 确信阁楼密室与 Percival 讲 Round Robin 时的惊恐之间必有联系，只是说不清是什么联系",
+   "anchor": "Sandy felt that there must be some connection between the secret room and Percival’s terrified tales of Round Robin",
+   "start": 1441,
+   "end": 1556
+  },
+  {
+   "fact": "Sandy 偷走 H. Hollyoak 的日记，并从其旧藏中拿走熏香与蜡烛，理由是宇宙会在紧要关头通融、自己的法器都在美国",
+   "anchor": "They shoved the diary under their arm and filled their pockets with incense and candles from H. Hollyoak’s old stash",
+   "start": 2856,
+   "end": 2972
+  },
+  {
+   "fact": "当天下午 Sandy 在下沉花园中央铺毯设坛：摆蜡烛、点熏香、摊开塔罗牌、把日记放在面前，并关掉手机",
+   "anchor": "arranged some candles and lit the incense, fanned their tarot cards out upon the ground, and placed the H. Hollyoak diary before them",
+   "start": 4571,
+   "end": 4704
+  },
+  {
+   "fact": "雾中黑影开口说 Crackers 后现形：是个棕发凌乱、雀斑脸上横贴橡皮膏的年轻女人",
+   "anchor": "it was a young woman with mussy brown hair and a plaster bandage across the left cheek of her freckled face",
+   "start": 8362,
+   "end": 8469
+  },
+  {
+   "fact": "来人自报家门：没人召唤得了 Georgette Downythistle，但大家都叫她 George；她只是雾天出门散步撞见傻坐在地里的怪人",
+   "anchor": "No one summons Georgette Downythistle—though no one calls me Georgette, everyone calls me George",
+   "start": 9216,
+   "end": 9312
+  },
+  {
+   "fact": "George 约定：明天是 Tigglestide 前夜的前一天，明早雾起时她来接 Sandy、带其亲眼去见 Round Robin",
+   "anchor": "But tomorrow is the day before Tigglestide Eve. I’ll come get you tomorrow morning, when the fog rolls in",
+   "start": 15142,
+   "end": 15247
+  },
+  {
+   "fact": "结尾 George 骂 Sandy 又疯又痴之后，倒退着走回雾中，把 Sandy 一个人留在花园里",
+   "anchor": "She stepped backward and faded back into the mist, leaving Sandy all alone in the garden",
+   "start": 15805,
+   "end": 15893
+  }
+ ]
+}

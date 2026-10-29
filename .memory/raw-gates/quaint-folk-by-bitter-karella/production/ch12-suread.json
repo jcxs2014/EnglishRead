@@ -1,0 +1,55 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch12",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch12_chap12.txt",
+ "facts": [
+  {
+   "fact": "教堂墓园的墓碑刻着杰西卡在岛上听过的家族姓氏",
+   "anchor": "The tombstones bore familiar names that Jessica had already heard around the island—Hickoryhollow, Downythistle, Bumblesnatch",
+   "start": 1013,
+   "end": 1138
+  },
+  {
+   "fact": "教堂彩窗画的不是耶稣而是野兔，与她见过的谷仓壁画、树上刻痕同款",
+   "anchor": "Instead, it featured the same stylized hare that she had seen upon Rowan Downythistle’s barn and the Lady Tuppence’s trees",
+   "start": 2406,
+   "end": 2528
+  },
+  {
+   "fact": "修会于十六世纪的分裂中与罗马母教会决裂",
+   "anchor": "They broke from the mother church in Rome during the schisms of the sixteenth century",
+   "start": 5049,
+   "end": 5134
+  },
+  {
+   "fact": "牧师把 Round Robin 定性为远古异教神的民俗记忆",
+   "anchor": "Round Robin is obviously a folk memory of some ancient pagan deity whom they rediscovered",
+   "start": 5566,
+   "end": 5655
+  },
+  {
+   "fact": "杰西卡用「上帝是嫉妒的神」质疑此地万神并立",
+   "anchor": "our God is a jealous god and he specifically said not to put any other gods before him",
+   "start": 5905,
+   "end": 5991
+  },
+  {
+   "fact": "牧师讲解玻璃罩里的泥炭头颅：可能死于谋杀、部族争端乃至人祭",
+   "anchor": "He was probably murdered, possibly in a clan dispute, possibly even as a human sacrifice",
+   "start": 9233,
+   "end": 9321
+  },
+  {
+   "fact": "莫莉回忆童年大人用「坏孩子被 Round Robin 带走」吓唬她",
+   "anchor": "the heads of the bad children who got taken by Round Robin",
+   "start": 12334,
+   "end": 12392
+  },
+  {
+   "fact": "结尾 Pip 站在 quagmire 边缘，刷子全新，对两人毫无反应",
+   "anchor": "His brush was pristine, as if it had never been used",
+   "start": 12946,
+   "end": 12998
+  }
+ ]
+}
