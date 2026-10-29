@@ -1,0 +1,484 @@
+{
+  "chapter": 28,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/ch28 it s me or hook.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch28_it_s_me_or_hook.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The blast of air is hot as a July wind. The Wondrous Wendy feels an internal shudder with the boom of the explosion, as ",
+          "ok": true,
+          "pos": 54
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Five explosions, five centres of the WCLC destroyed, dozens of victims. The secret services are on the alert, because th",
+          "ok": true,
+          "pos": 2659
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Today as before, Pan is everywhere; today as before, the god grows stronger. This too nourishes him—and as Rome refused ",
+          "ok": true,
+          "pos": 3488
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“It’s not worthy of a god of terror, rape, and violence, who gave his name to panic? One of your scholars, James Hillman",
+          "ok": true,
+          "pos": 6482
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“This is a time of new gods. The whole city has a soul, it pulses with life: once we fairies were spirits of nature, now",
+          "ok": true,
+          "pos": 7909
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The life you had before is over. I can take you to a Fairy Fort, and you will live for thousands of years, revered and r",
+          "ok": true,
+          "pos": 9219
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“We’re staying,” announces Wendy in a tone that leaves no room for reply. “We don’t trust Peter, but we’ll stay.”",
+          "ok": true,
+          "pos": 9749
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He could find her if he questioned the spirits, spreading the word into Enchantment. But that seemed like an intrusion, ",
+          "ok": true,
+          "pos": 10550
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The sword is reborn at Dagon’s touch. There’s still a small nick where it struck Augusto Dal Mare, but now the blade ref",
+          "ok": true,
+          "pos": 22244
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "She knows upsetting things, things that can save many lives. When she parks the scooter, far from the punk’s house, her ",
+          "ok": true,
+          "pos": 22678
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Temidorus pauses. “Basically I was born when Time killed Heaven. In other words, when the age of the gods’ greatest powe",
+          "ok": true,
+          "pos": 25935
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Without taking his eyes off him, Hook sheathes his weapon and picks up Michele’s. “Your father’s sabre,” he says. “Did y",
+          "ok": true,
+          "pos": 28828
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Dagon gasps, gathering enough strength to talk. “Greyface took him,” he manages to say. He has to struggle for breath ev",
+          "ok": true,
+          "pos": 30883
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Seeing herself reflected in the Wondrous Wendy’s eyes, Giada realises that this is the climax: of the last few weeks, of",
+          "ok": true,
+          "pos": 31097
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "“It’s me or Hook, this time,” she says",
+          "ok": true,
+          "pos": 31550
+        }
+      ],
+      "words": 8
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.25
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.19
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.26
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.19
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.34
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.22
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.27
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 12,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.55
+      }
+    }
+  ],
+  "form": {
+    "h1": "28. It’s Me or Hook, This Time",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 14.0,
+    "block_range": [
+      8,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5768,
+    "block_target": [
+      10,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 29 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

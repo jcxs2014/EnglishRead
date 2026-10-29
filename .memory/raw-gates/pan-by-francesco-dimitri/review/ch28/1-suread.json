@@ -1,0 +1,125 @@
+{
+ "chapter": "ch28",
+ "file": "text/ch28_it_s_me_or_hook.txt",
+ "text_chars": 32705,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "五处 WCLC 一夜被炸：黄绿火焰从五楼漫开，气浪热如七月风，Wendy 体内一震",
+   "anchor": "The blast of air is hot as a July wind.",
+   "offset": 70
+  },
+  {
+   "id": "F2",
+   "fact": "情报部门定性恐怖主义、断言凶手是阿拉伯人；社媒把五处传成三处、九处，有人发誓看见圣母飞走",
+   "anchor": "the culprits must be the Arabs, who else?",
+   "offset": 2848
+  },
+  {
+   "id": "F3",
+   "fact": "Pan 靠恐惧与狂喜壮大，Barrie 给他上的锁链几近断裂",
+   "anchor": "The chains laid on him by James Barrie have nearly broken",
+   "offset": 3840
+  },
+  {
+   "id": "F4",
+   "fact": "Tinker Bell 以 panic 词源与 James Hillman 驳 Giada，并说 Peter 只做了装点门面",
+   "anchor": "He’s done some window-dressing, Giada.",
+   "offset": 7953
+  },
+  {
+   "id": "F5",
+   "fact": "她主张城市有新灵魂：仙灵如今生在水泥搅拌机与地铁线里，沥青会抚摸赤脚",
+   "anchor": "born in cement mixers and metro lines",
+   "offset": 8215
+  },
+  {
+   "id": "F6",
+   "fact": "Peter 许以仙灵堡垒、几千年寿命与女王之位；Wendy 答「我们留下」，Giada 说这是革命不是战争",
+   "anchor": "“This is a revolution.”",
+   "offset": 10197
+  },
+  {
+   "id": "F7",
+   "fact": "Michele 拒绝用精灵神通查 Greta 下落：那像从钥匙孔偷看，力量不给他加重她负担的权利",
+   "anchor": "like spying on her through a keyhole",
+   "offset": 10953
+  },
+  {
+   "id": "F8",
+   "fact": "Greta 归还家传军刀，Dagon 以圣水洗净锈剑使之重生；她认定这伙人疯了，拨通 WCLC 电话告发",
+   "anchor": "The sword is reborn at Dagon’s touch.",
+   "offset": 23011
+  },
+  {
+   "id": "F9",
+   "fact": "Temidorus 报出真名 Silenus——Dionysus 之师，生于 Time 杀死 Heaven、诸神时代终结之时",
+   "anchor": "My name is Silenus",
+   "offset": 26138
+  },
+  {
+   "id": "F10",
+   "fact": "Hook 闯入公寓：收剑、捡起 Michele 的军刀、以钩砸碎，「Hope breaks along with it」",
+   "anchor": "Hope breaks along with it",
+   "offset": 31290
+  },
+  {
+   "id": "F11",
+   "fact": "Dagon 负伤报信：Greyface 抓走 Michele，要他的血脱身",
+   "anchor": "Greyface took him",
+   "offset": 32033
+  },
+  {
+   "id": "F12",
+   "fact": "Giada 在 Wendy 眼里看见一生高潮；Wendy 抿唇说出章名句",
+   "anchor": "It’s me or Hook, this time",
+   "offset": 32666
+  }
+ ],
+ "numbers": [
+  {
+   "value": "thirteen",
+   "what": "本章十三节（I–XIII）",
+   "anchor": "\nXIII\n",
+   "offset": 31318
+  },
+  {
+   "value": "five explosions",
+   "what": "被炸的 WCLC 中心数",
+   "anchor": "Five explosions",
+   "offset": 2217
+  },
+  {
+   "value": "fifth floor",
+   "what": "Wendy 面前那栋楼起火的楼层",
+   "anchor": "fifth floor of the building",
+   "offset": 249
+  },
+  {
+   "value": "thousands of years",
+   "what": "Peter 许诺的寿命",
+   "anchor": "live for thousands of years",
+   "offset": 9518
+  }
+ ],
+ "relations": [
+  {
+   "who": "Tinker Bell",
+   "what": "公开批评 Peter 只做装点门面，仍宣布留在他身边",
+   "anchor": "He’s done some window-dressing",
+   "offset": 7953
+  },
+  {
+   "who": "Greta",
+   "what": "归还军刀后又向 WCLC 告发这伙人",
+   "anchor": "She takes out her phone.",
+   "offset": 23719
+  },
+  {
+   "who": "Temidorus / Silenus",
+   "what": "Dionysus 之师，创世级辈分",
+   "anchor": "The tutor of Dionysus",
+   "offset": 26379
+  }
+ ]
+}
