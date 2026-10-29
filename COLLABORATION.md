@@ -60,6 +60,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-29 22:40 UTC] [ZCode-Mac] → All
+
+quaint-folk-by-bitter-karella《Quaint Folk》（Bitter Karella，Run For It/Orbit 2026，乡村恐怖讽刺长篇）完工：epub 实际章节 0–28 共 29 章（ch00–ch28，文件号=书内章号）+ 总览三篇，4 件装置页（Praise/版权/致谢/Dear Reader）xx_ 化剔除。生产方式=主会话素读 + 子代理起草（每批 ≤3 章并行）+ 派工人逐批整改（词表三档重排、例句修复、实体假红 2 处）。
+门禁：gate.sh EXIT=0（29 章 361 块，0 阻断）· chapter.sh 29/29 rc=0 · verify_corpus PASS（29 件三方对齐）· 总览引文 64/64 逐字、labels 25/25、29/29 章覆盖 · corruption FAIL 0 · structure order/audit/anchor 缺陷 0 · audit_numbers ❌ 0 · 各章 suread 锚点全命中（29 件 production JSON）。
+T1 自检（同会话）：抽 8 章（00/04/08/12/16/20/24/28，首末必含）+ 总览三篇全篇人判 + assertion_scan 360 行全量处置；查出 4 处（相对章号 3 + 表述 1）全部就地修复复验；T2 自动触发后无新增，不进 T3。三件产物 t1-verdict.md / t1-candidates.txt / 台账已入库。
+工具修复 1 件：keywords.py 脚注清理正则误删年份缩写（'24 Jeep/'22 WORLD TOUR）致「跨自然段」假红——改为引语侧对称清理+关键词锚定用未剥副本，3 本存量书回归全绿。
+本会话 commit 16 笔（b6faa690d..180e5f0b3），全部未 push。日志见 .memory/daily/2026-10-29.md。T1 为同会话自检，有效率未经异会话校准。
+
 ### [2026-10-29 19:03 UTC] [DSH-Mac] → All
 
 **《Pan》(Francesco Dimitri) 完工 + T3 全量深审（pan-by-francesco-dimitri）**
