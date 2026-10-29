@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch48",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch48_in_which_the_world_finally_learns_what_kryptos_says.txt",
+ "facts": [
+  {
+   "fact": "总部星巴克没有空椅子，KRAY 与 BUTTONFLY 端着咖啡走到自助餐厅旁的中庭。",
+   "anchor": "There were no empty chairs down at the Headquarters Starbucks, so KRAY and BUTTONFLY took their coffees out to the interior courtyard beside the cafeteria.",
+   "start": 57,
+   "end": 212
+  },
+  {
+   "fact": "两人走到十二英尺高的 Kryptos 雕塑旁，雕塑上藏着许多加密讯息。",
+   "anchor": "They walked over to the twelve-foot-high Kryptos sculpture, with its many secret messages hidden in code.",
+   "start": 213,
+   "end": 318
+  },
+  {
+   "fact": "中情局在 1990 年以 25 万美元从美国艺术家 Jim Sanborn 手中买下这件作品。",
+   "anchor": "the Agency had bought the piece from American artist Jim Sanborn back in 1990 for $250,000",
+   "start": 1375,
+   "end": 1465
+  },
+  {
+   "fact": "雕塑文字包含四段独立密讯，外界所知只有三段被破解。",
+   "anchor": "The texts comprised four separate secret messages, only three of which had been solved, at least so far as anybody knew.",
+   "start": 2035,
+   "end": 2155
+  },
+  {
+   "fact": "BUTTONFLY 自称早在 1992 年就解出了整座雕塑。",
+   "anchor": "I solved this thing back in ’92, by the way",
+   "start": 6906,
+   "end": 6949
+  },
+  {
+   "fact": "KRAY 的线人全都说从未听说任何 GOOWIKI 部署，一个都没有。",
+   "anchor": "They told me they’d never heard of any GOOWIKI deployments. Not one.",
+   "start": 3470,
+   "end": 3538
+  },
+  {
+   "fact": "接头三人中 STUCCO 未能见面、VESUVIUS 爽约，KRYSTE 在马德里酒吧被找到。",
+   "anchor": "STUCCO couldn’t meet. VESUVIUS was a no-show. I found KRYSTE at the Madrid Bar.",
+   "start": 4995,
+   "end": 5074
+  },
+  {
+   "fact": "第五段也是最后一段密文其实是一则敲门笑话。",
+   "anchor": "the fifth and final Kryptos Text, the riddle within a riddle, was in fact a knock-knock joke",
+   "start": 8889,
+   "end": 8981
+  }
+ ]
+}

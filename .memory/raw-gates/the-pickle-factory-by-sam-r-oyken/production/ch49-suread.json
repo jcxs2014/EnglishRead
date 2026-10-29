@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch49",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch49_in_which_we_find_buttonfly_s_list_of_his_favorite_palindromes_along_with_his_list_of_french_words_related_to_prostitution.txt",
+ "facts": [
+  {
+   "fact": "第一部分的小标题只有四个词，后面没有任何叙述句，正文直接从回文条目开始。",
+   "anchor": "A Few Favorite Palindromes",
+   "start": 129,
+   "end": 155
+  },
+  {
+   "fact": "清单第一条把狗、惊慌和佛塔压成一句七词回文，是全章最短的条目之一。",
+   "anchor": "A dog! A panic in a pagoda!",
+   "start": 157,
+   "end": 184
+  },
+  {
+   "fact": "最长的一条回文用六十多个人名连成一句，句尾落在 sinned，整行只有这一句话。",
+   "anchor": "Dennis, Nell, Edna, Leon, Nedra, Anita, Rolf, Nora, Alice, Carol, Leo, Jane, Reed, Dena, Dale, Basil, Rae, Penny, Lana, Dave, Denny, Lena, Ida, Bernadette, Ben, Ray, Lila, Nina, Jo, Ira, Mara, Sara, Mario, Jan, Ina, Lily, Arne, Bette, Dan, Reba, Diane, Lynn, Ed, Eva, Dana, Lynne, Pearl, Isabel, Ada, Ned, Dee, Rena, Joel, Lora, Cecil, Aaron, Flora, Tina, Arden, Noel, and Ellen sinned.",
+   "start": 596,
+   "end": 982
+  },
+  {
+   "fact": "清单中段有一整行被方块字符遮盖，位置在 No lemons, no melon. 与 Nomists reign at Tangier, St. Simon. 之间。",
+   "anchor": "█████████████████████████████████████████",
+   "start": 2124,
+   "end": 2165
+  },
+  {
+   "fact": "一条回文后面加了方括号说明，指出这一行其实由两个回文并排组成。",
+   "anchor": "Was it a rat I saw? / No, Miss, it is Simon. [Two palindromes.]",
+   "start": 3210,
+   "end": 3273
+  },
+  {
+   "fact": "第二部分的小标题写明主题是与卖淫相关的法语词，其后是四十四个单条词目。",
+   "anchor": "Some French Words Related To Prostitution",
+   "start": 3354,
+   "end": 3395
+  },
+  {
+   "fact": "词表在字母 H 段夹进一位画家的姓名，与其余单词条目完全并列。",
+   "anchor": "Henri de Toulouse-Lautrec",
+   "start": 3624,
+   "end": 3649
+  },
+  {
+   "fact": "词表在 p 段连续排到 putain、pute、putophobie，最后一个是带后缀的现代造词。",
+   "anchor": "putophobie",
+   "start": 3877,
+   "end": 3887
+  }
+ ]
+}
