@@ -1,0 +1,55 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch17",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch17_chap17.txt",
+ "facts": [
+  {
+   "fact": "Jessica 采买 crunkle、elk's blood 与 Tigglestide 装饰品，为 Tigglestide Eve 晚餐备料",
+   "anchor": "Jessica returned from the market with a string of crunkle, a crate of elk’s blood, and a box of Tigglestide decorations",
+   "start": 263,
+   "end": 382
+  },
+  {
+   "fact": "Jessica 在玩具店买大兔子玩偶，只取耳朵做 makeshift bunny costume，想让 Greg 惊喜",
+   "anchor": "purchased a large rabbit plush, which she planned to strip for her makeshift bunny costume. She only needed the ears.",
+   "start": 1701,
+   "end": 1818
+  },
+  {
+   "fact": "Sandy 冲进厨房报信：在 bog 见到 Round Robin，并断言 Helena Hollyoak 是女巫",
+   "anchor": "We saw him in the bog! Round Robin! And also Helena Hollyoak was a witch!",
+   "start": 2950,
+   "end": 3023
+  },
+  {
+   "fact": "Molly 上门指控：她的孩子说被 Sandy 打了",
+   "anchor": "My children tell me that your Sandy attacked them today.",
+   "start": 5326,
+   "end": 5382
+  },
+  {
+   "fact": "Molly 以 Tigglestide 陪家人为由宣布不再来往，Jessica 大受打击",
+   "anchor": "I think I shouldn’t come over anymore.",
+   "start": 7085,
+   "end": 7123
+  },
+  {
+   "fact": "Greg 宣布明天 Tigglestide Eve 要通宵赶工，可能赶不上晚餐",
+   "anchor": "I’m going to have to pull an all-nighter tomorrow.",
+   "start": 8591,
+   "end": 8641
+  },
+  {
+   "fact": "Jessica 凝视画像疑心那动物根本不是 hare：吻部扁平成近乎人脸，只能靠 slipper-like 耳朵辨认",
+   "anchor": "the snout flattened into an almost human face with a blankly serene stare",
+   "start": 14794,
+   "end": 14867
+  },
+  {
+   "fact": "第三场梦中兔子许诺修好一切，Jessica 顺从地把修理权交出去",
+   "anchor": "All will be well. Let me fix this.",
+   "start": 16784,
+   "end": 16818
+  }
+ ]
+}
