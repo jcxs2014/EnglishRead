@@ -51,7 +51,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "The morning it works, I am already planning the rest of my day: idle pile-up of tea and spoons and gummy vitamins, unread emails and post left unopened and linens changed, salt hidden, residue scrubbed from the sides of the bath."
+> **原句 4:** "When three weeks had passed and Leah did not return, the Centre called to tell me there had been a delay. How exactly can a submarine be delayed, I asked – imagined underwater toll roads, found myself on the precipice of a laugh. It was nothing, so they said, to be concerned about."
+
+**中文理解**：三周过去、Leah 没有回来，Centre 打来说行程延误了。她问：一艘潜艇到底怎么「延误」——她甚至在脑子里看见了水下的收费站，差一点笑出来。对方说没什么可担心的。
+
+**关键词**：there had been a delay / can a submarine be delayed / underwater toll roads / nothing to be concerned about
+
+**为什么这样写**：荒诞感先由一个反问承担：潜艇不是火车，延误这个词在这里没有对应的物理。她想象水下收费站，是全书最轻的一笔幽默，而它恰好长在恐怖开始的地方——差一点笑出来，说明她还没把「不回来」当回事。最后一句是机构的口径，作者只转述，不评论，让读者自己去称它的重量。
+
+**读者视角提示**：注意「三周」这个数字：这正是 Leah 本该离开的时长。机构用「延误」这个中性的词，把一次失踪变成了日程问题。
+
+---
+
+> **原句 5:** "The morning it works, I am already planning the rest of my day: idle pile-up of tea and spoons and gummy vitamins, unread emails and post left unopened and linens changed, salt hidden, residue scrubbed from the sides of the bath."
 
 **中文理解**：电话终于接通的那天早上，她没写接电话，先写自己已经在排布一天：茶、勺子、维生素、没拆的信、换床单、把盐藏起来、刷掉浴缸边的垢。
 
@@ -63,7 +75,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "I remember the slip of the craft across the water, long metal nose and sculpted conning tower, the way it seemed to dip and slink, eel-like, white lights along its spine and finial. I watched it float, not bobbing, seeming less to sit upon the water than to hang within it, half submerged and threatening to sink."
+> **原句 6:** "I remember the slip of the craft across the water, long metal nose and sculpted conning tower, the way it seemed to dip and slink, eel-like, white lights along its spine and finial. I watched it float, not bobbing, seeming less to sit upon the water than to hang within it, half submerged and threatening to sink."
 
 **中文理解**：她记得一次送 Leah 出海：潜艇滑出去，长长的金属船首和雕出的指挥塔，像鳗鱼那样一沉一潜，脊背和顶端亮着白灯；它浮着却不像在浮，更像悬在水里，半沉，随时要沉下去。
 
@@ -75,7 +87,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "But even so, this is what I remember, and short of getting in contact with the other wives on board the viewing deck that day, none of whose names I even recall, there is no way of checking this scenario for accuracy. What I remember, then, becomes what happened: Leah leaving like the summer from the ocean, not by degrees but all at once."
+> **原句 7:** "But even so, this is what I remember, and short of getting in contact with the other wives on board the viewing deck that day, none of whose names I even recall, there is no way of checking this scenario for accuracy. What I remember, then, becomes what happened: Leah leaving like the summer from the ocean, not by degrees but all at once."
 
 **中文理解**：她先把核对的路摆出来，又立刻堵死：除非去联系那天在观景台上的其他妻子，可她连一个名字都想不起来。于是她记住的版本就成了发生过的事——Leah 像夏天从海面上撤走，不是渐渐，是一下子。
 
@@ -87,7 +99,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "I looked at her hands around the two cups and missed Leah, hard – missed the fact of saved spaces, of saying something in unison, of turning to one another afterwards as if to say thank god it was you."
+> **原句 8:** "I looked at her hands around the two cups and missed Leah, hard – missed the fact of saved spaces, of saying something in unison, of turning to one another afterwards as if to say thank god it was you."
 
 **中文理解**：她看着 Sam 两只手圈着那两只杯子，猛烈地想念 Leah——想念的不是人，是被留出来的位置、两个人同时说出同一句话、事后转头对视像在说「幸好是你」。
 
@@ -99,19 +111,31 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 8:** "They say it’s all standard, I replied. Did you know that submarines are able to produce their own indefinite supply of air? The only limitations are the amount of food on board, or sustaining some sort of major technological defect. I had looked this information up online some moments earlier and hoped quite keenly that she didn’t realise this."
+> **原句 9:** "She sat beside me on the windowsill and asked me how I was, which no one had exactly done up to this point. I told her it was difficult and she nodded at me, tipped her plastic cup against mine. I hear you, she said, and I wondered idly why she and Leah had never dated."
+
+**中文理解**：Leah 的朋友 Allegra 坐到窗台上问「你还好吗」——到这时为止，还没有谁真正这样问过。她说很难，Allegra 点点头，把塑料杯轻轻碰了一下她的杯，说「我听见了」；她心里却在一旁纳闷：Allegra 和 Leah 怎么从来没在一起过。
+
+**关键词**：on the windowsill / which no one had exactly done / tipped her plastic cup against mine / I hear you
+
+**为什么这样写**：这一段的重量全在 which no one had exactly done up to this point：三个月的沉默里，朋友的关心都绕着走，只有这个几乎不熟的人直接问出口。作者让她坐在窗台上——不高、不平，两个人在同一高度说话；碰杯这个动作比任何安慰都轻，正好合适。留意前一句她还在想「为什么她和 Leah 没在一起过」，那种琐碎的嫉妒与此刻的感激并排着，人在悲伤里就是这样不体面的。
+
+**读者视角提示**：Allegra 是这条线上少见的一个不回避的人；「你随时可以打给我」这句在她嘴里说得最轻，也最像真的。
+
+---
+
+> **原句 10:** "They say it’s all standard, I replied. Did you know that submarines are able to produce their own indefinite supply of air? The only limitations are the amount of food on board, or sustaining some sort of major technological defect. I had looked this information up online some moments earlier and hoped quite keenly that she didn’t realise this."
 
 **中文理解**：她回 Sam 说「他们说都算标准」，又补一句潜艇能自己造出无限量的空气，限制只有船上食物和重大技术故障；这条是她刚上网查的，她希望 Sam 没听出来。
 
 **关键词**：produce their own indefinite supply of air / the amount of food on board / hoped quite keenly
 
-**为什么这样写**：前两句是短信口吻的转述（They say it's all standard, I replied），第三句忽然切成说明文：indefinite supply of air 与 the only limitations 都是技术短语，句法跟着变硬。最后一句用 "I had looked this information up online some moments earlier" 把刚才的知识姿态翻回焦虑——她在用资料压住自己，又怕被看出在压。
+**为什么这样写**：前两句是短信口吻的转述（They say it’s all standard, I replied），第三句忽然切成说明文：indefinite supply of air 与 the only limitations 都是技术短语，句法跟着变硬。最后一句用 "I had looked this information up online some moments earlier" 把刚才的知识姿态翻回焦虑——她在用资料压住自己，又怕被看出在压。
 
 **读者视角提示**：indefinite 与 the amount of food on board 摆在一起，是一句自相矛盾的安慰：空气无限，食物有限，这句话等于替她把「还能等多久」算了一遍。
 
 ---
 
-> **原句 9:** "Are you just now realising that people die, Leah had said to me when I voiced this thought, tucked up beside her on the sofa with my knees pressed tight into the backs of hers. Not people, I had said, just you."
+> **原句 11:** "Are you just now realising that people die, Leah had said to me when I voiced this thought, tucked up beside her on the sofa with my knees pressed tight into the backs of hers. Not people, I had said, just you."
 
 **中文理解**：她记得 Leah 在沙发上问过她：你是不是到现在才明白人都会死。她回答：不是人，只是你。
 
@@ -123,7 +147,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 10:** "Once I’d finished, I drank several glasses of wine in quick succession and typed in the comment box that Pluto was no longer a planet. fURTHERMORE, I added, unaware I had clicked on all caps, iF YOU PEOPLE DON’T WANT YOUR HUSBANDS THEN WHY DO YOU GO TO THE TROUBLE OF MAKING THEM UP IN THE FIRST PLACE."
+> **原句 12:** "Once I’d finished, I drank several glasses of wine in quick succession and typed in the comment box that Pluto was no longer a planet. fURTHERMORE, I added, unaware I had clicked on all caps, iF YOU PEOPLE DON’T WANT YOUR HUSBANDS THEN WHY DO YOU GO TO THE TROUBLE OF MAKING THEM UP IN THE FIRST PLACE."
 
 **中文理解**：她花大约一小时读完整个帖子，然后连喝几杯酒，在评论框里打「冥王星已经不是行星了」，又用大写补上一句：你们要是不想要丈夫，何必费劲把他们编出来。
 
@@ -135,7 +159,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 11:** "One night, I dreamed a congregation: fifty women in formal hats declaring themselves the acolytes of the Church of the Blessed Sacrament of Our Wives Under the Sea. The church was tall, a plunging upward streak of ceiling that leered into the distant vaulted rafters, then fell beneath our feet to corresponding depths."
+> **原句 13:** "One night, I dreamed a congregation: fifty women in formal hats declaring themselves the acolytes of the Church of the Blessed Sacrament of Our Wives Under the Sea. The church was tall, a plunging upward streak of ceiling that leered into the distant vaulted rafters, then fell beneath our feet to corresponding depths."
 
 **中文理解**：她梦见一场聚会：五十个戴礼帽的女人宣布自己是「我们海中妻子」圣事教派的信徒。教堂很高，天花板向上冲进远处的拱梁，又在她脚下落到相应的深处。
 
@@ -147,7 +171,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 12:** "In the fifth month, I began to assume she was dead, which made things both easier and harder. I felt nothing and then utterly kneecapped by it, wanted so desperately to know what her last thought had been and whether it had been about me."
+> **原句 14:** "In the fifth month, I began to assume she was dead, which made things both easier and harder. I felt nothing and then utterly kneecapped by it, wanted so desperately to know what her last thought had been and whether it had been about me."
 
 **中文理解**：第五个月她开始认定 Leah 死了，这让事情既容易些也更难；她先是毫无感觉，随后被这件事彻底击垮，只想弄清 Leah 最后的念头是不是关于她。
 

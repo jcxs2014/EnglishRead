@@ -1,0 +1,195 @@
+{
+  "chapter": "ch13",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch13_miri.txt",
+  "facts": [
+    {
+      "fact": "Leah 在夜里用念单词的方式安抚 Miri 的恐慌，一直念到她睡着",
+      "anchor": "muttered redolent and pelt and chicanery until I fell asleep",
+      "start": 861,
+      "end": 921
+    },
+    {
+      "fact": "Miri 打给 Centre 的电话终于接通，对方说他们已有全部资料，不必再报编号",
+      "anchor": "but the voice interrupts to assure me they already have all the details they need",
+      "start": 3500,
+      "end": 3581
+    },
+    {
+      "fact": "Miri 回忆第一次送 Leah 出海：她转头说话时错过了潜艇下沉，回头看只剩空海面",
+      "anchor": "I moved my eyes away from the water long enough to miss the ship going down",
+      "start": 5689,
+      "end": 5764
+    },
+    {
+      "fact": "Centre 的送别会后 Leah 没有跟 Miri 回家，当晚起她再没回来",
+      "anchor": "After the Centre threw their going-away party I went home and Leah didn’t",
+      "start": 6578,
+      "end": 6651
+    },
+    {
+      "fact": "三周过后 Centre 来电称行程延误，并说艇上物资够撑几个月、氧气会持续再生",
+      "anchor": "the Centre called to tell me there had been a delay",
+      "start": 7162,
+      "end": 7213
+    },
+    {
+      "fact": "在 Poppy 家的派对上，Leah 的朋友 Allegra 坐到 Miri 身边说需要谈随时可以打给她",
+      "anchor": "You know you can call me if you need to talk about anything",
+      "start": 14361,
+      "end": 14420
+    },
+    {
+      "fact": "Miri 在“太空丈夫”论坛读完吵架帖后用全大写回帖，指出冥王星已不是行星",
+      "anchor": "that Pluto was no longer a planet",
+      "start": 21732,
+      "end": 21765
+    },
+    {
+      "fact": "第五个月 Miri 开始认定 Leah 已死；她哭着打给 Sam，先说寄养的猫死了，随后承认那是编的",
+      "anchor": "I began to assume she was dead",
+      "start": 23704,
+      "end": 23734
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "anchor": "by the time Leah and I were serious enough for the issue to arise",
+      "start": 88,
+      "end": 153,
+      "kind": "伴侣（妻子）"
+    },
+    {
+      "pair": "Miri–母亲",
+      "anchor": "my mother was already quite ill",
+      "start": 155,
+      "end": 186,
+      "kind": "母女"
+    },
+    {
+      "pair": "Leah–Centre",
+      "anchor": "long before she was working for the Centre",
+      "start": 3967,
+      "end": 4009,
+      "kind": "雇员（被 Centre 派去潜水）"
+    },
+    {
+      "pair": "Miri–Sam",
+      "anchor": "I called Sam crying",
+      "start": 23923,
+      "end": 23942,
+      "kind": "朋友"
+    },
+    {
+      "pair": "Miri–Allegra",
+      "anchor": "Leah’s friend Allegra",
+      "start": 13819,
+      "end": 13840,
+      "kind": "Leah 的朋友／派对上的熟人"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three or four",
+      "anchor": "three or four of the other wives",
+      "start": 4543,
+      "end": 4575
+    },
+    {
+      "value": "three weeks",
+      "anchor": "three weeks had passed",
+      "start": 7114,
+      "end": 7136
+    },
+    {
+      "value": "several months",
+      "anchor": "the vessel was stocked for several months",
+      "start": 7407,
+      "end": 7448
+    },
+    {
+      "value": "two-month",
+      "anchor": "two-month mark",
+      "start": 8722,
+      "end": 8736
+    },
+    {
+      "value": "three months",
+      "anchor": "three months without Leah",
+      "start": 12360,
+      "end": 12385
+    },
+    {
+      "value": "four minutes",
+      "anchor": "four minutes of silence",
+      "start": 19257,
+      "end": 19280
+    },
+    {
+      "value": "over twenty thousand feet",
+      "anchor": "over twenty thousand feet",
+      "start": 23199,
+      "end": 23224
+    },
+    {
+      "value": "one hundred and forty-one",
+      "anchor": "one hundred and forty-one",
+      "start": 23402,
+      "end": 23427
+    },
+    {
+      "value": "three hundred and twenty seven-strong crew",
+      "anchor": "three hundred and twenty seven-strong crew",
+      "start": 23444,
+      "end": 23486
+    },
+    {
+      "value": "At least ninety",
+      "anchor": "At least ninety",
+      "start": 23499,
+      "end": 23514
+    },
+    {
+      "value": "fifty women",
+      "anchor": "fifty women in formal hats",
+      "start": 22331,
+      "end": 22357
+    },
+    {
+      "value": "fifth month",
+      "anchor": "In the fifth month",
+      "start": 23684,
+      "end": 23702
+    },
+    {
+      "value": "Six years and counting",
+      "anchor": "Six years and counting",
+      "start": 16779,
+      "end": 16801
+    },
+    {
+      "value": "SEVEN YEARS",
+      "anchor": "SEVEN YEARS",
+      "start": 20746,
+      "end": 20757
+    },
+    {
+      "value": "about an hour",
+      "anchor": "about an hour",
+      "start": 21617,
+      "end": 21630
+    },
+    {
+      "value": "ten or eleven o’clock",
+      "anchor": "ten or eleven o’clock",
+      "start": 19018,
+      "end": 19039
+    },
+    {
+      "value": "woke at three",
+      "anchor": "woke at three",
+      "start": 6697,
+      "end": 6710
+    }
+  ]
+}
