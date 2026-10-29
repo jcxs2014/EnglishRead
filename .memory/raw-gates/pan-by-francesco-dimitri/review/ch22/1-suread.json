@@ -1,0 +1,119 @@
+{
+ "chapter": "ch22",
+ "file": "text/ch22_temidorus.txt",
+ "text_chars": 28809,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "二月凌晨两点 Nemi 湖畔别墅区，Michele 与满身血污的外公（satyr/faun）同行；居民关在屋里看电视、错过从花园旁跑过的 satyr",
+   "anchor": "it’s two o’clock on a cold February morning",
+   "offset": 139
+  },
+  {
+   "id": "F2",
+   "fact": "外公名 Temidorus；他解释 Enchantment 的树林随「看的方式」涨缩（想成柯南漫画巨林则树多影长）",
+   "anchor": "The woods are always thicker in Enchantment.",
+   "offset": 1400
+  },
+  {
+   "id": "F3",
+   "fact": "湖边两个 nymphs 睡着，外公说「我把她们累坏了」；他下湖洗掉血、脑浆、骨渣，出水像狗抖水",
+   "anchor": "brain matter, and bone",
+   "offset": 3305
+  },
+  {
+   "id": "F4",
+   "fact": "外公从树下挖出铁盒，内装 Stefano 的信；Michele 读到天亮：父亲曾用「戴高帽的男人」给的剑正面击败 Augusto 却饶了他；Michele 意识到那剑就是送给 Greta 的那把",
+   "anchor": "the sword the Man in the Top Hat gave him",
+   "offset": 5425
+  },
+  {
+   "id": "F5",
+   "fact": "信里病情三级：先搞混日期事件、迅速恶化、最后一封几乎读不懂，停在 2018 年 5 月；Michele 问「Dal Mare 怎么让父亲病的」——无答案",
+   "anchor": "goes back to May of 2018",
+   "offset": 5832
+  },
+  {
+   "id": "F6",
+   "fact": "族谱：Michele 只有四分之一 faun；Lazio 该叫 faun 不叫 satyr；五十年代经济奇迹与工业化把两界分开，同类只剩三十来个",
+   "anchor": "It was the ’50s.",
+   "offset": 7967
+  },
+  {
+   "id": "F7",
+   "fact": "魔法经济学：Enchantment 不是被献祭喂近的，是人不再有强烈感受而漂走；要看见它得真的怒、怕、被激起",
+   "anchor": "Enchantment drifted away when humans stopped experiencing intense sensations",
+   "offset": 11935
+  },
+  {
+   "id": "F8",
+   "fact": "城市恐惧回潮、新灵体重生；Pan 本地叫 Faunus，已有罗马凡人组成的 Retinue；fauns 无法力，只有大屌、歌喉与暴怒",
+   "anchor": "us fauns have fuck-all going on in terms of cool powers",
+   "offset": 15892
+  },
+  {
+   "id": "F9",
+   "fact": "问怎么杀神，外公只答「要下很多功夫」；天亮他决定跟孙子进城，偷一件毛衣盖羊腿搭车",
+   "anchor": "With a lot of work, beloved grandson.",
+   "offset": 14255
+  },
+  {
+   "id": "F10",
+   "fact": "搭车遇 Manuela——她在 Dal Mare 创办的「失踪儿童接待中心」做志愿者；Michele 现编 faun 与盲女的故事，故事撬开她的现实，她看见羊腿后失禁尖叫；章末外公揭底：Barrie 把 Faunus 与 Greyface 关进一个故事里",
+   "anchor": "He caged them inside a story.",
+   "offset": 28778
+  }
+ ],
+ "numbers": [
+  {
+   "value": "three",
+   "what": "本章三节（I–III）",
+   "anchor": "\nIII\n",
+   "offset": 16659
+  },
+  {
+   "value": "two o’clock",
+   "what": "开章时刻",
+   "anchor": "it’s two o’clock",
+   "offset": 139
+  },
+  {
+   "value": "thirty or so",
+   "what": "faun 剩余数",
+   "anchor": "only thirty or so",
+   "offset": 8360
+  },
+  {
+   "value": "May of 2018",
+   "what": "最后一封信日期",
+   "anchor": "May of 2018",
+   "offset": 5845
+  },
+  {
+   "value": "a quarter",
+   "what": "Michele 的 faun 血统比例",
+   "anchor": "Just a quarter",
+   "offset": 6313
+  }
+ ],
+ "relations": [
+  {
+   "who": "Temidorus",
+   "what": "Michele 的外公，faun，血洗后救场并带来 Stefano 的信",
+   "anchor": "You’re my grandfather.",
+   "offset": 6198
+  },
+  {
+   "who": "Manuela",
+   "what": "WCLC 志愿者，被故事撬开现实看见 faun",
+   "anchor": "The Welcome Centre for Lost Children",
+   "offset": 18821
+  },
+  {
+   "who": "Faunus/Pan",
+   "what": "本地名 Faunus，被 Barrie 关进故事",
+   "anchor": "Faunus and Greyface",
+   "offset": 28757
+  }
+ ]
+}
