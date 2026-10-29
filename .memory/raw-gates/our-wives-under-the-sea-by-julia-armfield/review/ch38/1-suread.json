@@ -1,0 +1,160 @@
+{
+  "chapter": "ch38",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch38_leah.txt",
+  "facts": [
+    {
+      "fact": "莱娅回想起米里曾讲过：恐怖片总会按你预知的方式收场（狼人／吸血鬼／鬼片的英雄最终自己变成那东西）；在“一切的尽头”，她把手按在玻璃上，确认自己一直知道的事——他们在海里，不可能孤身一人。",
+      "anchor": "Every horror movie ends the way you know it will.",
+      "start": 35,
+      "end": 84
+    },
+    {
+      "fact": "传感器读数推翻了目视判断：看似平缓的凹地其实是一道巨大断裂，玄武岩碎块层层向下崩落，那道深渊约在他们所在位置下方一百英尺。",
+      "anchor": "a chasm that appeared to fall some hundred feet beneath the point at which we currently sat",
+      "start": 944,
+      "end": 1035
+    },
+    {
+      "fact": "她一直半知半觉地感到那股伴随水下旅程的焦味，以及长久缠绕艇身的声音、以及声音里的那个“嗓音”，却始终没有把它拼成一个解释，也无法预知自己在做什么。",
+      "anchor": "the burning smell which had dogged so much of our time below the water",
+      "start": 1408,
+      "end": 1478
+    },
+    {
+      "fact": "那只眼睛从下方深渊升起，眼睛之后还有一张脸，一直升到填满舷窗、填满她的视野，仿佛独自填满整个海洋；她想起水族馆的章鱼、童年与父亲在潮池见过的带刺小生物，并生出一份确定：这生物一直都在这里。",
+      "anchor": "the way it rose up from the chasm below us and kept rising",
+      "start": 2098,
+      "end": 2156
+    },
+    {
+      "fact": "她试着真正去听那生物在对她说什么，把“有声音”这一事实与话语本身分开，但记不清自己究竟有没有听懂。",
+      "anchor": "to separate the fact of the voice from the words themselves",
+      "start": 3220,
+      "end": 3279
+    },
+    {
+      "fact": "眼睛逼得更近，马泰奥在她身旁往后退；她自己并非动弹不得，而是没有力气动；一种沉得撑不住自身的疲惫让她认定：永远无法知道他们是有意来此，还是被拉下来或推下来的。",
+      "anchor": "whether we had come here intentionally, whether we had been pulled down or pushed",
+      "start": 3962,
+      "end": 4043
+    },
+    {
+      "fact": "她把手抚过控制面板上那个刻着的小眼睛图案——那不是中心的标志，也似乎不代表任何东西。",
+      "anchor": "the small etched image of an eye, which was not the Centre’s logo",
+      "start": 4104,
+      "end": 4169
+    },
+    {
+      "fact": "她从中央控制台下方取出一直未动过的皮革日志本和笔，不假思索地在首页写下自己的名字，把它按在窗上，好让那生物看见。",
+      "anchor": "I wrote my name on the first page of the log book and pressed it to the window",
+      "start": 4401,
+      "end": 4479
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Leah–Miri",
+      "kind": "同伴／朋友；米里曾对莱娅讲过“恐怖片必然结局”的理论，莱娅在一切的尽头想起它。",
+      "anchor": "Miri said this to me once: Every horror movie ends the way you know it will.",
+      "start": 8,
+      "end": 84
+    },
+    {
+      "pair": "Leah–Matteo",
+      "kind": "同艇同伴；巨眼逼近时他在莱娅身旁后退，可能发出声音或对她说话，而莱娅当时已无力分辨。",
+      "anchor": "Somewhere beside me, Matteo might have made a sound, might have spoken to me",
+      "start": 2894,
+      "end": 2970
+    },
+    {
+      "pair": "Leah–Jelka",
+      "kind": "同伴；耶尔卡曾告诉莱娅，她听到的东西“不可能是鬼”，莱娅在巨物前回想这句话。",
+      "anchor": "I thought about Jelka telling me the thing she was hearing simply couldn’t be a ghost",
+      "start": 2997,
+      "end": 3082
+    },
+    {
+      "pair": "Leah–父亲",
+      "kind": "父女；童年时父亲带她在潮池边看那些退潮时奔向水里的带刺小生物。",
+      "anchor": "the creatures I had seen in tide pools with my father as a child",
+      "start": 2403,
+      "end": 2467
+    },
+    {
+      "pair": "Leah–水族馆章鱼",
+      "kind": "照看者与被照看者；多年前她在水族馆照料过一只章鱼，此刻成了她理解眼前巨物的参照。",
+      "anchor": "I remember thinking of the octopus I had cared for, years ago at the aquarium",
+      "start": 2301,
+      "end": 2378
+    },
+    {
+      "pair": "Leah–巨眼生物",
+      "kind": "目击者与被目击者；她写下名字、隔着窗把本子按给那生物看，等于向它自我介绍。",
+      "anchor": "pressed it to the window, so that the creature could see",
+      "start": 4455,
+      "end": 4511
+    }
+  ],
+  "numbers": [
+    {
+      "value": "数米（原文 some metres）",
+      "anchor": "widening out for some metres before stopping sharply at what, on sight, resembled a valley",
+      "start": 592,
+      "end": 682
+    },
+    {
+      "value": "约一百英尺（原文 some hundred feet）",
+      "anchor": "a chasm that appeared to fall some hundred feet beneath the point at which we currently sat",
+      "start": 944,
+      "end": 1035
+    },
+    {
+      "value": "片刻／数刻（原文 For several moments）",
+      "anchor": "For several moments I tried to make sense of this, the idea that there could be somewhere deeper still",
+      "start": 1037,
+      "end": 1139
+    },
+    {
+      "value": "多年前（原文 years ago）",
+      "anchor": "I remember thinking of the octopus I had cared for, years ago at the aquarium",
+      "start": 2301,
+      "end": 2378
+    },
+    {
+      "value": "第一页（原文 the first page）",
+      "anchor": "I wrote my name on the first page of the log book and pressed it to the window",
+      "start": 4401,
+      "end": 4479
+    },
+    {
+      "value": "Miri（人名）",
+      "anchor": "Miri said this to me once: Every horror movie ends the way you know it will.",
+      "start": 8,
+      "end": 84
+    },
+    {
+      "value": "Matteo（人名）",
+      "anchor": "Somewhere beside me, Matteo might have made a sound, might have spoken to me",
+      "start": 2894,
+      "end": 2970
+    },
+    {
+      "value": "Jelka（人名）",
+      "anchor": "I thought about Jelka telling me the thing she was hearing simply couldn’t be a ghost",
+      "start": 2997,
+      "end": 3082
+    },
+    {
+      "value": "Leah（人名，叙述者；正文以第一人称，名字仅出现在章首标题与本子首页）",
+      "anchor": "Leah.\n\n\nMiri said this to me once: Every horror movie ends the way you know it will.",
+      "start": 0,
+      "end": 84
+    },
+    {
+      "value": "the Centre（机构名，Centre’s logo）",
+      "anchor": "the small etched image of an eye, which was not the Centre’s logo",
+      "start": 4104,
+      "end": 4169
+    }
+  ]
+}

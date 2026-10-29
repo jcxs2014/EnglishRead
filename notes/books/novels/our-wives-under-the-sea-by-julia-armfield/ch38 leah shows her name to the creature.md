@@ -27,6 +27,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 2:** "If you’re watching a movie about vampires, same thing. Ghosts too, I think, if the hero wasn’t already a ghost to begin with. I thought about this a little, at the end of things. I pressed my hands into the glass and knew the thing I’d always known: that we were in the ocean and that we couldn’t be alone."
 
 **中文理解**：吸血鬼片同理，鬼片也一样——除非主角一开始就已经是鬼。Leah 说自己在「事情的末段」把这话想了一遍，然后把双手按进玻璃，确认那件她一直知道的事：她们在海里，而且不可能只有她们。
@@ -36,6 +38,8 @@ modified: "2026-10-29"
 **为什么这样写**：三个片种用同一句式排下去，一句比一句短，到 Ghosts too 只剩三个词，节奏在这里收住；I think 插在中间，把断言松了一格。Ghosts too, I think, if the hero wasn’t already a ghost to begin with 用条件从句把「鬼」推给主角自己，等于给下一句 Leah 的处境留好了口子。随后 at the end of things 把时间钉死，动作只剩 press 与 knew 两个；knew 后面接 the thing I’d always known，用 know 的重复做成句法上的回声，确认感是重复出来的，不是形容词堆出来的。
 
 **读者视角提示**：这一块没有写海、没有写深度，只有玻璃和两只手；we were in the ocean 是用 that 从句说出的判断，不是景物描写，读的时候要把它当成 Leah 在给自己定位。
+
+---
 
 ---
 
@@ -51,6 +55,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 4:** "You have to understand this, understand the way I sensed these things getting closer – the smell and the sound – or rather our growing closer to them, and yet did not put together an explanation for any of this."
 
 **中文理解**：Leah 直接对读者下命令：你得明白这一点——明白她是怎样感到焦味和声音在靠近，或者更准确地说，是她们在向那两样东西靠近；但她没有为这些拼出一个解释。
@@ -60,6 +66,8 @@ modified: "2026-10-29"
 **为什么这样写**：两句都用 You have to understand，第二句把 this 换成具体内容，命令重复一次，等于把读者按在原地不许走开。中间用破折号插进 the smell and the sound，再用 or rather 当场改口，把「它们靠近她们」翻成「她们靠近它们」——方向一颠倒，主动与被动就分不清了。and yet did not put together an explanation 里，yet 把前后两半拧开：感觉齐全，解释缺席。
 
 **读者视角提示**：这是本章唯一直接对「你」说话的一段；or rather 那种自我修正是 Leah 一贯的说话方式，读者要跟着她改口，而不是只取第一个说法。
+
+---
 
 ---
 
@@ -75,7 +83,33 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "I pulled these out and, without pausing to consider what I was doing, I wrote my name on the first page of the log book and pressed it to the window, so that the creature could see."
+---
+
+> **原句 6:** "I looked into that eye, now filling the entire view of the windows, and I felt, with an exhaustion which sat down inside me as though unable to support its own weight, that there would never be any way of knowing whether we had come here intentionally, whether we had been pulled down or pushed."
+
+**中文理解**：她看着那只眼睛——它此刻填满整扇窗——感到一种沉重得自己都撑不住的疲惫：他们永远不会知道，究竟是自己有意来这里的，还是被拽下来、被推下来的。
+
+**关键词**：filling the entire view of the windows / an exhaustion which sat down inside me / whether we had come here intentionally / pulled down or pushed
+
+**为什么这样写**：`sat down inside me as though unable to support its own weight` 把疲惫写成一个坐下的人，比任何形容词都重。后半句用 `whether… whether…` 并置两种可能，却不说哪个对——这正是全书对「自愿还是被选」最后的悬置：她连问题都问不完。
+
+**读者视角提示**：注意「exhaustion」不是害怕。她此刻已经没有力气恐惧，所以下一句还能动手写字。
+
+---
+
+> **原句 7:** "I felt all this and then I passed my hand over the panel – the small etched image of an eye, which was not the Centre’s logo, which did not appear to stand for anything at all – and reached for the leather log book and pen which we kept beneath the central console, thus far untouched."
+
+**中文理解**：她想着这一切，手抚过面板——上面刻着一只小眼睛，那不是中心的标志，似乎也不代表任何东西——然后伸手去拿他们一直放在中央操作台底下、至今没人动过的皮面日志和笔。
+
+**关键词**：the small etched image of an eye / was not the Centre’s logo / stand for anything at all / the leather log book and pen / thus far untouched
+
+**为什么这样写**：两个插入语把最重要的怀疑塞进括号里：`not the Centre’s logo`、`did not appear to stand for anything at all`。作者让她的手在标志上停一拍，再让她去拿笔——怀疑与动作同一句完成，不做解释。`thus far untouched` 是全章唯一暗示「这件事从没被记录过」的句子。
+
+**读者视角提示**：记住这个「不是中心标志的眼睛」。她随后把名字写在第一页——写名的冲动和这个无主标志是同一件事的两面。
+
+---
+
+> **原句 8:** "I pulled these out and, without pausing to consider what I was doing, I wrote my name on the first page of the log book and pressed it to the window, so that the creature could see."
 
 **中文理解**：她把东西抽出来，没有停下来想自己在做什么，就在日志本第一页写下自己的名字，然后把本子贴到窗上，让那生物能看见。
 
