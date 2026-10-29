@@ -737,6 +737,19 @@ def check(md: Path, book: Path):
         # 归一串以 `"` 开头 ⇒ 在原文里查不到 ⇒ 报「引语跨自然段」。
         # 处置：**剥掉首尾所有引号字符**（而不是成对剥），顺序无关、结果唯一。
         q = q.strip().strip('"“‘”’').strip()
+        # ⚠️ 2026-10-29（quaint-folk ch02 原句3/8 实测假红，AGENTS「假红型先修工具」）：
+        #   本脚本下方对参照侧 text/ 做脚注号清理 `(?<=[.”’])\d+(?=\s*[A-Z“]|\s*$)`，
+        #   但引语侧不做同样清理 ⇒ 本书真实的年份缩写（`’24 Jeep Grand Manitou`、
+        #   `HOT SNOT ’22 WORLD TOUR`）被参照侧剥成 `’ Jeep` / `’ WORLD`，而引语侧
+        #   还带着 `’24`/`’22` ⇒ 整串查无 ⇒ 逐字正确的引语被报「引语跨自然段」。
+        #   该清理不能收紧：The French Revolution 的 `.’11 But`/`.’22 The` 是
+        #   「所有格+脚注」，与年份缩写正则不可分。修法＝**对称化**：引语侧对**子串
+        #   判据用的副本**施加同一条清理（md 展示文本不动）；关键词锚定仍用**未剥**
+        #   的 `qn_kw`——关键词对着读者看到的引语判定（`HOT SNOT ’22 WORLD TOUR`
+        #   必须在引语内成立）。
+        _FOOTNOTE_STRIP = r'(?<=[.”’])\d+(?=\s*[A-Z“]|\s*$)'
+        qn_kw = norm(q)
+        q = re.sub(_FOOTNOTE_STRIP, '', q)
         qn = norm(q)
         # ⚠️ 2026-10-02 修正（Bird of a Thousand Stories 终验实测，10 条假红）：
         # 原实现拿**整串**（含 `…`）去判 `qn not in tn`。但带省略号的引语按定义
@@ -875,7 +888,7 @@ def check(md: Path, book: Path):
         # 破折号并折叠空白、**不剥句点与逗号** ⇒ 引语里逐字存在的词被报「不在块内」
         # （实测 5 条假红）。判据不变（每个关键词仍须能在本块引语内找到），
         # 只把两侧都归一到字母数字，与 check_chapter_quotes / sweep_full 同口径。
-        _qflat = _flat(qn)
+        _qflat = _flat(qn_kw)
         miss = [k for k in kws
                 if not _kw_in_quote(k, _qflat)
                 and not _kw_in_quote(_BRACKET.sub("", k), _qflat)]
