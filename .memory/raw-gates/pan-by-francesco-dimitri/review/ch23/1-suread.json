@@ -1,0 +1,119 @@
+{
+ "chapter": "ch23",
+ "file": "text/ch23_return_to_rome.txt",
+ "text_chars": 24489,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "飞行首先是技术问题：行人只有前后，飞者有上下；新手常把「向上」当「向前」，落地时同理",
+   "anchor": "The difficulty of flight is primarily technical.",
+   "offset": 321
+  },
+  {
+   "id": "F2",
+   "fact": "Wendy 与 Giada 在礁石上与 Tinker Bell 度过两小时、学会飞行；Tinker Bell 的性伦理：性只是 play 的一种，孩子不感兴趣（他们玩飞盘/PS）",
+   "anchor": "Children play with their friends, I don’t see why adults should stop.",
+   "offset": 2828
+  },
+  {
+   "id": "F3",
+   "fact": "Wendy 一夜三得：发现自己被女人吸引、真爱 Giada、学会飞；在 Flesh 她会不安，在 Enchantment 她只是快乐",
+   "anchor": "Here in Enchantment she’s happy.",
+   "offset": 3550
+  },
+  {
+   "id": "F4",
+   "fact": "由小女孩 Giulia 领航飞回罗马；三人各带一把剑、戴飞行护目镜；Giulia 脸上褐斑随接近 Flesh 扩大",
+   "anchor": "Now half her face is blighted by a brown mark.",
+   "offset": 9700
+  },
+  {
+   "id": "F5",
+   "fact": "降落 Labaro/Saxa Ruba 立交桥下废弃停车场：纸箱、破毯、歪天线旧电视放 Yu-Gi-Oh!；营地干爽干净无尿味，有热咖啡与烤面包香；十五个孩子迎接，自称 Secret Base",
+   "anchor": "Welcome to the Secret Base.",
+   "offset": 10731
+  },
+  {
+   "id": "F6",
+   "fact": "Giovanni 每夜哭、梦 Luisa；父母之死属过去，Luisa 是未来（他想绕着她生长的树干），那个未来的自己再不会存在",
+   "anchor": "a man he will now never be",
+   "offset": 11398
+  },
+  {
+   "id": "F7",
+   "fact": "Giovanni 恢复拳击训练，在甲板临时拳台打死陪练 Tiger 立威，禁止任何人再提 Luisa",
+   "anchor": "he killed him",
+   "offset": 16119
+  },
+  {
+   "id": "F8",
+   "fact": "Hook 的兵源：多数海盗在 Flesh 里过着正常生活，随时被 Galleon 召唤；入伙仪式叫 Breaking Enchantment（弃养父母、剥削实习生、做无灵魂的艺术、向弱者动手）",
+   "anchor": "Breaking Enchantment",
+   "offset": 13825
+  },
+  {
+   "id": "F9",
+   "fact": "Smee＝Fatty Bolger：加入三周；Hook 的班底有数十名记者、教授、政客、编辑；纲领＝把 Enchantment 永逐出 Flesh，让 Dream 变成单纯心理过程",
+   "anchor": "drive Enchantment away from Flesh forever",
+   "offset": 17841
+  },
+  {
+   "id": "F10",
+   "fact": "Secret Base 看新闻：Campo de' Fiori 后中心区八点后禁酒、家长组织促成电视台改版（no more anime）、Nemi 血案归为「不明动物」与撒旦教、Cavaterra 家被写成邪教受害者、六十万撒旦教徒、焚书（Carter/Valiente/Crowley/King/两版 Necronomicon）；Giada：We have to hit back. Blow for blow.",
+   "anchor": "We have to hit back",
+   "offset": 24440
+  }
+ ],
+ "numbers": [
+  {
+   "value": "three",
+   "what": "本章三节（I–III）",
+   "anchor": "\nIII\n",
+   "offset": 18434
+  },
+  {
+   "value": "two hours",
+   "what": "与 Tinker Bell 的时长",
+   "anchor": "after two hours of sex",
+   "offset": 1640
+  },
+  {
+   "value": "fifteen",
+   "what": "Secret Base 的孩子数",
+   "anchor": "fifteen in total",
+   "offset": 10610
+  },
+  {
+   "value": "three weeks",
+   "what": "Smee 入伙时长",
+   "anchor": "Three weeks",
+   "offset": 17073
+  },
+  {
+   "value": "six hundred thousand",
+   "what": "意大利撒旦教徒普查数",
+   "anchor": "six hundred thousand Satanists",
+   "offset": 23373
+  }
+ ],
+ "relations": [
+  {
+   "who": "Giulia",
+   "what": "领航的小女孩，脸上褐斑随接近 Flesh 扩大",
+   "anchor": "Giulia will be their guide",
+   "offset": 4389
+  },
+  {
+   "who": "Smee/Fatty Bolger",
+   "what": "Hook 的跟班，讲出反派纲领",
+   "anchor": "I’m the only Smee",
+   "offset": 17198
+  },
+  {
+   "who": "Augusto Dal Mare",
+   "what": "以儿童保护为名的舆论战操盘手",
+   "anchor": "Young people should follow the stewardship of those who know better",
+   "offset": 21281
+  }
+ ]
+}

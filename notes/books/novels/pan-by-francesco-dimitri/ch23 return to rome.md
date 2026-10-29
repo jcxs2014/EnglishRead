@@ -10,7 +10,7 @@ modified: "2026-10-29"
 - **情感弧线位置**：全书最松的一章紧接 ch22 Temidorus 揭出「Barrie 把 Faunus 与 Greyface 关进故事里」的重锤之后——本章不推进神话主线，而是给两个阵营各一次「安顿」：Wendy 一侧是甜的（性、飞行、同伴），Giovanni 一侧是硬的（眼泪、拳台、纲领）。甜的那半让读者记起这场战争要保卫什么，硬的那半让读者看清对手的规模；章末的新闻把两半缝在一起，情绪由舒展转冷怒，为 ch24 的反攻上弦。
 - **Tropes 兑现/反转**：飞行 tropes 兑现后被技术化——仙尘与快乐念头只是燃料，真正的难题是三维导航（"a flyer can move up and down too"）；性启蒙 trope 反写，羞耻不是被克服的，而是被 Tinker Bell 一句「性只是 play 的一种」直接取消，可她事后 "as if nothing has happened"，仙子的无承诺把浪漫叙事的尾巴剪掉；归乡 trope 不打「回到安全」的牌，而是让 Giada 在罗马上空发现 "there's Enchantment here too"，同时用「没人抬头看天」解释魔法为何一直藏得住；反派纲领 trope 正面陈述——Hook 的「无神论秩序」被写成一份保护儿童的进步宣言，恐怖藏在合理里；宣传战 trope 在新闻蒙太奇里收网：ch16 的 Campo de' Fiori 之夜、ch20 的 Nemi 屠杀全部被改写成「撒旦教」叙事。
 - **人物弧线**：Wendy（从 "I think we were embarrassed" 到 "Not at all"，一夜三得：欲望、爱、飞行；开始替不在场的 Giovanni 担心）；Giada（把复仇的归属从 Peter 与 Cavaterra 家改成自己——"for herself, for what was done to her"，章末第一个说打回去）；Giulia（称职的向导，脸上的褐斑是她的价钱：越靠近 Flesh，越像人）；Giovanni（眼泪—纪律—杀人三段式完成；把海盗叫 cannon fodder，把 Luisa 定为「未来」，于是未来的自己随她一起死）；Smee／Fatty Bolger（从 Neverland 的学者变成 Hook 的跟班，"we were both wrong, about Neverland" 是他给自己的判决）；Hook／Dal Mare（首次把终极目标说全：把 Enchantment 逐出 Flesh）；Tinker Bell（游戏论者，理论解放、伦理不欠账）。
-- **叙事手法**：罗马数字三节制。第一节先用泛指人称写「飞行手册」（a pedestrian／a flyer 的类指对照），规则讲完人物才进场，于是魔法读起来像技能而非奇迹；第二节切 Giovanni 的限知视角，短句、拳击节奏、尸体的处理权，最后用 Smee 的酒后独白把政治纲领一次性倾出；第三节是新闻转播体——引述、数据、口号、书单，叙述者一句评论都不给，只让孩子们的沉默与 "solemn air" 做反应镜头；全章以一句对话收束，把宣战从 ch17 的集体口号落到具体的人。（原文第 156 行把 Giulia 拼作 "Giula"，此处照录不改。）
+- **叙事手法**：罗马数字三节制。第一节先用泛指人称写「飞行手册」（a pedestrian／a flyer 的类指对照），规则讲完人物才进场，于是魔法读起来像技能而非奇迹；第二节切 Giovanni 的限知视角，短句、拳击节奏、尸体的处理权，最后用 Smee 的酒后独白把政治纲领一次性倾出；第三节是新闻转播体——引述、数据、口号、书单，叙述者一句评论都不给，只让孩子们的沉默与 "solemn air" 做反应镜头；全章以一句对话收束，把宣战从 ch17 的集体口号落到具体的人。
 
 ## 精读
 
