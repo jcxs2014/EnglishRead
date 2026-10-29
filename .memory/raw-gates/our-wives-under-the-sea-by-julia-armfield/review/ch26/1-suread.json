@@ -1,0 +1,154 @@
+{
+ "chapter": "ch26",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch26_leah.txt",
+ "facts": [
+  {
+   "fact": "耶尔卡趴在地板上，耳朵紧贴逃生舱口倾听；莉亚问她在做什么，她抬头看莉亚，脸在刺目的荧光灯下颜色发暗（“像泡在牛奶里的东西”）。",
+   "anchor": "Jelka on the floor with her ear against the escape hatch",
+   "start": 8,
+   "end": 64
+  },
+  {
+   "fact": "耶尔卡说鬼是不会说话的：人以为被鬼缠身时听见有人说话，其实多数时候那“不是鬼，而是更糟的东西”；她引神父的说法——恶魔伪装成鬼来引诱人犯罪，并引《申命记》说不可与死者交谈，那等于绕过上帝、不信上帝的计划。",
+   "anchor": "demons masquerade as ghosts to try to tempt us",
+   "start": 1138,
+   "end": 1184
+  },
+  {
+   "fact": "耶尔卡自述十八岁时在母亲家楼梯下（原先放鞋的地方）半夜见到一个陌生身影，它说自己需要帮助、想跟她说话；她告诉神父后，神父断言那不可能是鬼，因为鬼不会说话。",
+   "anchor": "When I was eighteen, I thought I saw a ghost",
+   "start": 758,
+   "end": 802
+  },
+  {
+   "fact": "莉亚一言不发，在她身旁的舱口边坐下，极轻地碰她的手臂；她想到耶尔卡很久没吃东西，马泰奥不知在哪儿（她只是“推想”在主甲板，并非确知）；四周完全无声，连惯常环绕他们的海声都没有，只有耶尔卡出声追问舱口那边“到底是什么”。",
+   "anchor": "I said nothing, only sitting down beside her by the hatch",
+   "start": 1766,
+   "end": 1823
+  },
+  {
+   "fact": "莉亚回忆：父亲在她十九岁时去世，此前只有长期的恼人咳嗽和偶发气短，并不显得危急；死后数周她屡次看见他（床尾、母亲家花园两次）；母亲宽慰她说“看见你想要看见的东西完全自然”，那段时间常拥抱她，而莉亚自知一向与父亲更亲。",
+   "anchor": "When my father died, I was in the other room",
+   "start": 2707,
+   "end": 2751
+  },
+  {
+   "fact": "母亲十年后去世，莉亚哭得比父亲去世时更凶，缺失感更猛烈也更持久；她此后没有像看见父亲那样再看见母亲——“一旦走了，我妈妈就一直走了”。",
+   "anchor": "When she died, ten years later, I cried harder than I had over my father",
+   "start": 3496,
+   "end": 3568
+  },
+  {
+   "fact": "她只把看见父亲的事告诉过母亲和后来的米里；米里瞪大眼睛说“我还以为你是科学家”，又说不信鬼——语气本该无礼却并不无礼，还承认“我其实很羡慕”。",
+   "anchor": "Miri widened her eyes at me and said I thought you were a scientist",
+   "start": 4060,
+   "end": 4127
+  },
+  {
+   "fact": "莉亚继承父亲大部分遗物并卖掉许多，只留下本就“像自己的”东西：书、潜水年鉴、成箱杂志和那件在海滩散步时父亲总借给她的大衣；她多次看见父亲，只挥手从不交谈，因为“没有未了之事”所以不觉得可怕，只觉得是一种“延续”，直到某天他不再出现，她也坦然。",
+   "anchor": "the books and the diving almanac, the boxes of magazines",
+   "start": 4470,
+   "end": 4526
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Jelka–Leah",
+   "kind": "同船同伴；莉亚是倾听与照护的一方（坐下、碰手臂、留意她没吃东西）",
+   "anchor": "I said nothing, only sitting down beside her by the hatch",
+   "start": 1766,
+   "end": 1823
+  },
+  {
+   "pair": "Jelka–神父（priest）",
+   "kind": "告解/受教关系——她“停止上教堂之前”的最后一位神父，她的鬼怪观来自他",
+   "anchor": "demons masquerade as ghosts to try to tempt us",
+   "start": 1138,
+   "end": 1184
+  },
+  {
+   "pair": "Leah–父亲",
+   "kind": "父女；莉亚自认一向与父亲更亲近，父亲死后她见其身影而不惧",
+   "anchor": "When my father died, I was in the other room",
+   "start": 2707,
+   "end": 2751
+  },
+  {
+   "pair": "Leah–母亲",
+   "kind": "母女；母亲以“看见想见的东西很正常”宽慰她，母亲死后她反而哭得更凶",
+   "anchor": "My mum was actually pretty good about it when I told her",
+   "start": 3111,
+   "end": 3167
+  },
+  {
+   "pair": "Leah–Miri",
+   "kind": "朋友／除母亲外唯一的倾诉对象；米里不信鬼却羡慕她会“看见”",
+   "anchor": "Miri widened her eyes at me and said I thought you were a scientist",
+   "start": 4060,
+   "end": 4127
+  },
+  {
+   "pair": "Matteo–Leah／Jelka",
+   "kind": "同船第三人，本章全程缺席，莉亚只能“推想”他在主甲板",
+   "anchor": "Matteo was somewhere else, presumably on the main deck",
+   "start": 1912,
+   "end": 1966
+  }
+ ],
+ "numbers": [
+  {
+   "value": "十八岁（eighteen）",
+   "anchor": "When I was eighteen, I thought I saw a ghost",
+   "start": 758,
+   "end": 802
+  },
+  {
+   "value": "十九岁（nineteen）",
+   "anchor": "I was nineteen and I saw him a lot in the weeks immediately following his death",
+   "start": 2894,
+   "end": 2973
+  },
+  {
+   "value": "十年后（ten years later）",
+   "anchor": "When she died, ten years later, I cried harder than I had over my father",
+   "start": 3496,
+   "end": 3568
+  },
+  {
+   "value": "两次（twice，母亲家花园）",
+   "anchor": "at the end of my bed, twice in the garden at my mum",
+   "start": 2975,
+   "end": 3026
+  },
+  {
+   "value": "《申命记》（Deuteronomy）",
+   "anchor": "There shall not be found among you any one who burns his son",
+   "start": 1297,
+   "end": 1357
+  },
+  {
+   "value": "耶尔卡（Jelka）",
+   "anchor": "Jelka on the floor with her ear against the escape hatch",
+   "start": 8,
+   "end": 64
+  },
+  {
+   "value": "马泰奥（Matteo）",
+   "anchor": "Matteo was somewhere else, presumably on the main deck",
+   "start": 1912,
+   "end": 1966
+  },
+  {
+   "value": "米里（Miri）",
+   "anchor": "Miri widened her eyes at me and said I thought you were a scientist",
+   "start": 4060,
+   "end": 4127
+  },
+  {
+   "value": "主／上帝（the Lord；God）",
+   "anchor": "For whoever does these things is an abomination to the Lord",
+   "start": 1524,
+   "end": 1583
+  }
+ ]
+}

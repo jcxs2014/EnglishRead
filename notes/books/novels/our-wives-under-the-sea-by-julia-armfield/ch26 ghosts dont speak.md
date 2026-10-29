@@ -27,7 +27,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "They think that when you’re haunted you hear someone speaking but you don’t. Or not usually. Most of the time, if you hear something speaking, it’s not a ghost – it’s something worse."
+> **原句 2:** "I said nothing, only sitting down beside her by the hatch and touching her arm very gently. She hadn’t eaten, it occurred to me, in however long. Matteo was somewhere else, presumably on the main deck, though I wasn’t aware of this as fact, just as something that had to be."
+
+**中文理解**：她什么也没说，只在舱口边坐下，很轻地碰了碰 Jelka 的手臂。她忽然想到，Jelka 已经不知道多久没吃东西了。Matteo 在别处，大概在主舱，可这不是她确认过的事实，只是「只能如此」的推断。
+
+**关键词**：sitting down beside her / touching her arm very gently / hadn’t eaten / just as something that had to be
+
+**为什么这样写**：这一段把三件事按「知道的程度」排开：坐着、碰她（确定的动作）；她没吃东西（刚想到）；Matteo 在哪（只是推断）。第三句用「I wasn’t aware of this as fact, just as something that had to be」明说自己在猜——叙事者在这里承认她的世界已经开始靠推论运转。随后 Jelka 那句话才是重点：「如果不是鬼，那是什么？」
+
+**读者视角提示**：注意「她没吃东西」是本章唯一一次有人想到另一个人的身体需要；而三人的位置关系已经只能靠「想必」来维持。
+
+---
+
+> **原句 3:** "They think that when you’re haunted you hear someone speaking but you don’t. Or not usually. Most of the time, if you hear something speaking, it’s not a ghost – it’s something worse."
 
 **中文理解**：她先纠正一个通行的看法：人以为闹鬼就是听见有谁在说话，她说其实听不见，或者不常听见。真听见有东西在说话的时候，那多半不是鬼，是比鬼更糟的东西。
 
@@ -39,7 +51,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "But when I told my priest, he said that it couldn’t have been a ghost because a ghost wouldn’t have spoken. He said that demons masquerade as ghosts to try to tempt us, to drag us into sinning."
+> **原句 4:** "But when I told my priest, he said that it couldn’t have been a ghost because a ghost wouldn’t have spoken. He said that demons masquerade as ghosts to try to tempt us, to drag us into sinning."
 
 **中文理解**：神父把她的看见否掉了：鬼不会说话，所以那不可能是鬼。他给出的解释是恶魔扮成鬼，为的是引诱人，把人拖进罪里。
 
@@ -51,7 +63,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "I was nineteen and I saw him a lot in the weeks immediately following his death: at the end of my bed, twice in the garden at my mum’s house, though at that point they hadn’t been on speaking terms for several years."
+> **原句 5:** "I was nineteen and I saw him a lot in the weeks immediately following his death: at the end of my bed, twice in the garden at my mum’s house, though at that point they hadn’t been on speaking terms for several years."
 
 **中文理解**：父亲刚死那几周，十九岁的 Leah 常看见他：在床尾，在母亲家的花园里两次。她顺手补了一句，父母到那时已经好几年不讲话。
 
@@ -63,7 +75,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "There was really no unfinished business, which I think is what stopped that whole thing being frightening – that and the fact that, ghost or not, it was still only ever my father. There was no sense of haunting, to be honest, only ongoingness, until one day he ceased to appear and I really felt fine about that too."
+> **原句 6:** "When she died, ten years later, I cried harder than I had over my father and felt the drag of her loss in a fiercer and somehow more desperate way. It surprised me, the ache of my missing her and how long it lasted. I didn’t see her afterwards the way I had seen my father."
+
+**中文理解**：十年后母亲去世，她哭得比父亲那次更凶，觉得那份失去拽得更紧、更绝望。令她意外的是想念的疼，以及它持续了那么久。她后来没有像看见父亲那样看见母亲。
+
+**关键词**：ten years later / cried harder / the drag of her loss / how long it lasted / didn’t see her afterwards
+
+**为什么这样写**：这一段是上一段的**反转**：父亲死后她反复看见他、甚至觉得关系变好了；母亲死后她哭得更凶，却一次也没看见她。作者用三个比较级串起来（harder / fiercer / more desperate），把「更爱」与「看不见」放在同一段里，紧接着的一句是全章最冷的话——原文作 `Once gone, my mum stayed gone.`（紧随引语之后），一句话抹掉了「鬼会回来」的全部安慰。
+
+**读者视角提示**：这一段的落点不是悲伤的强度，而是「谁能回来、谁不能」。记住母亲没有再出现——后面 Miri 自己的母亲也会以另一种方式被提起。
+
+---
+
+> **原句 7:** "There was really no unfinished business, which I think is what stopped that whole thing being frightening – that and the fact that, ghost or not, it was still only ever my father. There was no sense of haunting, to be honest, only ongoingness, until one day he ceased to appear and I really felt fine about that too."
 
 **中文理解**：她给这段经历一个很干脆的解释：没有未了的事，所以不怕；而且不管那是不是鬼，那始终只是她父亲。她说那不像闹鬼，只像延续，直到某天他不再出现，她也觉得没什么。
 
