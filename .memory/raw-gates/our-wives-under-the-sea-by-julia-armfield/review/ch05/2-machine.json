@@ -1,0 +1,430 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/ch05 authorised personnel.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch05_miri.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I could put the phone down and call you back and do a different voice, if you liked? I’ll say it’s Leah from the start, ",
+          "ok": true,
+          "pos": 1099
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "There is a curious noise on the line – I can’t tell if the real person is sighing, or crying, or eating a sandwich. “I’m",
+          "ok": true,
+          "pos": 1318
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A thin, needling rain, like someone is throwing pins from the rooftops. On the sofa, Leah pours Cherry Coke into a plast",
+          "ok": true,
+          "pos": 1467
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "It’ll go away, she says, not so much to me as to herself. Just another reaction, a thing to be dismissed, like the bleed",
+          "ok": true,
+          "pos": 1978
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She doesn’t know that the first time I noticed the change in her skin, I was so alarmed that I called 111 and hung on th",
+          "ok": true,
+          "pos": 2257
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“I guess it must be weird,” she says – the sweet plum of her voice, the way her vowels seem to take up more space than t",
+          "ok": true,
+          "pos": 5397
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Before she transferred to the Centre, Leah used to take the train each morning, an hour at least to run her out through ",
+          "ok": true,
+          "pos": 7376
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "A thousand years ago, Leah held a hand over my mouth in the bathroom at the wedding of a mutual friend. We’d gone into t",
+          "ok": true,
+          "pos": 8256
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Instead, embedded inside the growth, they found the bodies of twelve tiny organisms, squirmed with suckers, each a littl",
+          "ok": true,
+          "pos": 13563
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Do you think she felt better with those things out of her,” Leah asks and I look at her – tight, piercing thrill of her",
+          "ok": true,
+          "pos": 15271
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "I want to tell her that it has to feel better to be rid of it. In the end, however, I only shrug, still squinting at the",
+          "ok": true,
+          "pos": 15902
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "The first time Leah stayed over at mine, we watched Jaws and afterwards talked so long about how Hooper and Brody were o",
+          "ok": true,
+          "pos": 17146
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "I watch movies alone now – Leah’s concentration is not what it used to be. When I can’t sleep, which is often, I take my",
+          "ok": true,
+          "pos": 18420
+        }
+      ],
+      "words": 64
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 147,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 118,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.91
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Chapter Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 6.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3627,
+    "block_target": [
+      7,
+      11
+    ],
+    "block_hint": "块数 13 偏离本书常见区间 3–9（本书 39 章中位 6、最高 12（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 6、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "chapter": "ch05",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch05_miri.txt",
+  "facts": [
+    {
+      "fact": "电话客服坚持只与“授权人”谈公司事务、拒绝听 Miri 说 Leah 的事，最后却直接叫出她的名字“Miri”。",
+      "anchor": "I’m afraid I can’t do that, Miri.",
+      "start": 1484,
+      "end": 1517
+    },
+    {
+      "fact": "Leah 的肘弯和脖颈皮肤变成银灰色、像覆了一层贝壳，她说这只是反应、会退掉。",
+      "anchor": "She is silvered over, oystered at her elbow creases and around the neck.",
+      "start": 1758,
+      "end": 1830
+    },
+    {
+      "fact": "第一次发现 Leah 皮肤变色时 Miri 惊慌到打 111，在线上等了半小时，只换来对方问她有没有听过脓疱疮。",
+      "anchor": "I called 111 and hung on the line for thirty minutes",
+      "start": 2412,
+      "end": 2464
+    },
+    {
+      "fact": "为躲开两人之间的沉默，Miri 谎称出门做某件具体的事，实际只走到某个固定地点站着，直到无聊才回家。",
+      "anchor": "instead simply walk to some fixed point and stand there until I get bored enough to return",
+      "start": 3478,
+      "end": 3568
+    },
+    {
+      "fact": "Carmen 在咖啡馆把她的处境理解成“重新与人同住、要分享空间”，Miri 想说不是这样却没出口。",
+      "anchor": "having to share your space.”",
+      "start": 5771,
+      "end": 5799
+    },
+    {
+      "fact": "婚礼闪回：两人躲进洗手间隔间，Leah 用手捂住 Miri 的嘴，压住她听伴娘哭诉时的笑。",
+      "anchor": "Leah held a hand over my mouth in the bathroom at the wedding of a mutual friend",
+      "start": 8447,
+      "end": 8527
+    },
+    {
+      "fact": "Miri 在报纸上读到韩国女子吃下未去内脏的鱿鱼，医生从她颊内取出十二只鱿鱼幼体。",
+      "anchor": "they found the bodies of twelve tiny organisms",
+      "start": 13816,
+      "end": 13862
+    },
+    {
+      "fact": "Leah 问“要是你嘴里发现这种东西会怎么办”，Miri 答“我会吐出来”。",
+      "anchor": "If I found something like that in my mouth, I’d spit it out.",
+      "start": 16816,
+      "end": 16876
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "kind": "妻妻／伴侣：Miri 以“她是我妻子”为由要求代办；现实中两人同住却陷入沉重沉默，Leah 身体在变异",
+      "anchor": "But she’s my wife.",
+      "start": 874,
+      "end": 892
+    },
+    {
+      "pair": "Miri–Carmen",
+      "kind": "大学至今的挚友：靠互相疑病、彼此把人从悬崖边劝回来的玩笑维系，Carmen 视力近一年急降",
+      "anchor": "We’ve been friends since university",
+      "start": 4250,
+      "end": 4285
+    },
+    {
+      "pair": "Leah–伴娘（婚礼上的陌生女孩）",
+      "kind": "陌生人—受助者：Leah 先停下笑，再听她哭了二十分钟",
+      "anchor": "Leah told her not to worry and then listened to her sob for twenty minutes",
+      "start": 10415,
+      "end": 10489
+    },
+    {
+      "pair": "Carmen–Tom",
+      "kind": "前任情侣：Tom 是社工兼周末 DJ，后来离开她；Carmen 谈他像谈一段必须熬完的学位",
+      "anchor": "Carmen’s ex-boyfriend Tom was a social worker and weekend DJ",
+      "start": 6482,
+      "end": 6542
+    },
+    {
+      "pair": "Leah–研究中心（the Centre）",
+      "kind": "通勤研究者：转去 Centre 前每天坐火车至少一小时，穿过褐色沼泽去海边研究设施",
+      "anchor": "Leah used to take the train each morning, an hour at least",
+      "start": 7577,
+      "end": 7635
+    }
+  ],
+  "numbers": [
+    {
+      "value": "六次尝试 / 六天（six separate attempts on six different days）",
+      "anchor": "six separate attempts on six different days",
+      "start": 487,
+      "end": 530
+    },
+    {
+      "value": "三十分钟（thirty minutes）",
+      "anchor": "hung on the line for thirty minutes",
+      "start": 2429,
+      "end": 2464
+    },
+    {
+      "value": "七年（seven years）",
+      "anchor": "the first-floor flat we have shared for seven years",
+      "start": 7486,
+      "end": 7537
+    },
+    {
+      "value": "至少一小时（an hour at least）",
+      "anchor": "an hour at least",
+      "start": 7619,
+      "end": 7635
+    },
+    {
+      "value": "十二只 / 一打（a dozen squid paralarva）",
+      "anchor": "a dozen squid paralarva",
+      "start": 14128,
+      "end": 14151
+    },
+    {
+      "value": "一厘米多一点（a little over a centimetre）",
+      "anchor": "each a little over a centimetre in length",
+      "start": 13887,
+      "end": 13928
+    },
+    {
+      "value": "五点钟 / 七点半 / 六点（five o’clock / seven thirty / six）",
+      "anchor": "It was roughly five o’clock, fireworks planned for seven thirty and rain forecast for six.",
+      "start": 8737,
+      "end": 8827
+    },
+    {
+      "value": "二十分钟（twenty minutes）",
+      "anchor": "listened to her sob for twenty minutes",
+      "start": 10451,
+      "end": 10489
+    },
+    {
+      "value": "一英镑（a pound）",
+      "anchor": "a pound for the tampon machine",
+      "start": 10534,
+      "end": 10564
+    },
+    {
+      "value": "八岁生日（eighth birthday）",
+      "anchor": "my eighth birthday",
+      "start": 15057,
+      "end": 15075
+    }
+  ]
+}

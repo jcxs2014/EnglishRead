@@ -27,7 +27,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "A thin, needling rain, like someone is throwing pins from the rooftops. On the sofa, Leah pours Cherry Coke into a plastic glass patterned with hamburgers and then does not drink it, glides her fingers down the skin of her left arm. She is silvered over, oystered at her elbow creases and around the neck."
+> **原句 2:** "There is a curious noise on the line – I can’t tell if the real person is sighing, or crying, or eating a sandwich. “I’m afraid I can’t do that, Miri.”"
+
+**中文理解**：电话那头传来一种奇怪的声音——她说不好那个人是在叹气、在哭，还是在吃三明治。然后对方说：「这个我做不到，Miri。」
+
+**关键词**：a curious noise on the line / eating a sandwich / can’t do that, Miri
+
+**为什么这样写**：这一章标题里的「授权人员」到这里才真正落地：机构先拒绝了她的身份，最后又叫出了她的名字——拒绝她的话和确认她是谁的话出自同一个人、同一次通话。作者不给她的反应，只给声音（叹气/哭/吃三明治三种可能并列），把小职员的为难写成第三种不确定，读者于是不知道该站在哪一边。叫出名字是整章最软也最狠的一刀：对方认得她，仍然不能跟她谈她的妻子。
+
+**读者视角提示**：注意「Miri」出现的位置——它不在电话开头，而在对方第三次说「做不到」之后。这一章后面所有「说真话被打断」的场面，都从这里起音。
+
+---
+
+> **原句 3:** "A thin, needling rain, like someone is throwing pins from the rooftops. On the sofa, Leah pours Cherry Coke into a plastic glass patterned with hamburgers and then does not drink it, glides her fingers down the skin of her left arm. She is silvered over, oystered at her elbow creases and around the neck."
 
 **中文理解**：雨被写成从屋顶扔下来的针；Leah把樱桃可乐倒进印着汉堡的塑料杯，倒完不喝，手指顺着左臂的皮肤往下滑；她手肘的褶皱和脖子上覆着一层银，像长出了蚝壳。三个动作并排放着，一个也不解释。
 
@@ -39,7 +51,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "It’ll go away, she says, not so much to me as to herself. Just another reaction, a thing to be dismissed, like the bleeding, like the way she sometimes sleepwalks to the bathroom and holds her head under the water, having first filled the bath to a point just shy of overflowing."
+> **原句 4:** "It’ll go away, she says, not so much to me as to herself. Just another reaction, a thing to be dismissed, like the bleeding, like the way she sometimes sleepwalks to the bathroom and holds her head under the water, having first filled the bath to a point just shy of overflowing."
 
 **中文理解**：Leah说这些会消失，这句话不是说给Miri听，是说给自己听；她把变色的皮肤归进「又一种反应」，与出血并列，然后给出更具体的画面：半夜梦游进浴室，先把浴缸放到离溢出只差一点，再把头埋进水里。
 
@@ -51,7 +63,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "“I guess it must be weird,” she says – the sweet plum of her voice, the way her vowels seem to take up more space than the shape of her mouth allows – “living with someone again after such a long absence. I guess it must be weird,” she says, “having to share your space.”"
+> **原句 5:** "She doesn’t know that the first time I noticed the change in her skin, I was so alarmed that I called 111 and hung on the line for thirty minutes, only for someone to finally come on and ask if I’d ever heard of impetigo."
+
+**中文理解**：Leah 不知道的是：Miri 第一次发现她皮肤变了的时候，惊慌到打了 111，在电话线上等了整整三十分钟，最后终于有人接起来，问她有没有听说过脓疱疮。
+
+**关键词**：called 111 / hung on the line for thirty minutes / heard of impetigo
+
+**为什么这样写**：这一句把「她不知道」放在最前面：Miri 为这件事做过什么，Leah 全不知情，连她打过急救电话都不知道。三十分钟的等候与一句「你听说过脓疱疮吗」构成整章最冷的落差——她拿到的不是一个答案，是一次归类错误。作者用「她不知道」这个句式，也顺手交代了两人此刻的关系：照料是单方面的、且不被看见的。
+
+**读者视角提示**：记住「三十分钟」和「脓疱疮」。此后凡是 Miri 想求助的场面（中心、朋友、治疗师），都会重复这个形状：等、被接起、被归到另一类里去。
+
+---
+
+> **原句 6:** "“I guess it must be weird,” she says – the sweet plum of her voice, the way her vowels seem to take up more space than the shape of her mouth allows – “living with someone again after such a long absence. I guess it must be weird,” she says, “having to share your space.”"
 
 **中文理解**：卡门猜Miri过得别扭，理由是「隔了这么久又跟人同住」「得分享你的空间」；这句猜测她说了两遍，两遍之间插进对她嗓音的描写——李子一样的甜，元音占的地方比嘴形允许的还大。
 
@@ -63,7 +87,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "Before she transferred to the Centre, Leah used to take the train each morning, an hour at least to run her out through brown uncertain marshlands to the research facility, minutes from the sea. An hour back in again at night, her clothes salt-glazed, her skin scoured smooth by coastal weather. Strange, to live in such proximity to an ocean that I almost never see."
+> **原句 7:** "Before she transferred to the Centre, Leah used to take the train each morning, an hour at least to run her out through brown uncertain marshlands to the research facility, minutes from the sea. An hour back in again at night, her clothes salt-glazed, her skin scoured smooth by coastal weather. Strange, to live in such proximity to an ocean that I almost never see."
 
 **中文理解**：Leah调去中心之前，每天早上坐一小时火车，穿过褐色、说不清的沼泽地去海边的研究机构；晚上再坐一小时回来，衣服上结着盐，皮肤被海边的天气磨得光滑。叙述者补一句：住得离海这么近，她却几乎没见过海。
 
@@ -75,7 +99,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "A thousand years ago, Leah held a hand over my mouth in the bathroom at the wedding of a mutual friend. We’d gone into the stall together because I needed help with the buttons up the back of my jumpsuit and had ended up trapped when one of the bridesmaids came in and started sobbing to someone on the phone."
+> **原句 8:** "A thousand years ago, Leah held a hand over my mouth in the bathroom at the wedding of a mutual friend. We’d gone into the stall together because I needed help with the buttons up the back of my jumpsuit and had ended up trapped when one of the bridesmaids came in and started sobbing to someone on the phone."
 
 **中文理解**：多年以前一场朋友的婚礼上，Leah在洗手间隔间里捂住Miri的嘴；两人躲进去，是为了让Miri转过身、有人替她扣连体裤背后的扣子，结果一个伴娘进来打电话哭诉，把她们困在隔间里。
 
@@ -87,7 +111,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "Instead, embedded inside the growth, they found the bodies of twelve tiny organisms, squirmed with suckers, each a little over a centimetre in length. So it transpired, the squid that this woman had eaten had been prepared without first having its organs removed."
+> **原句 9:** "Instead, embedded inside the growth, they found the bodies of twelve tiny organisms, squirmed with suckers, each a little over a centimetre in length. So it transpired, the squid that this woman had eaten had been prepared without first having its organs removed."
 
 **中文理解**：医生原以为切下来的是囊肿或纤维瘤，打开却找不到癌，只有十二只带吸盘的小生物，每只刚过一厘米。原因查出来是那只鱿鱼下锅前没有去掉内脏，女子的颊黏膜成了这些幼体的寄主。
 
@@ -99,7 +123,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 8:** "“Do you think she felt better with those things out of her,” Leah asks and I look at her – tight, piercing thrill of her saying something, like a needle forced through skin."
+> **原句 10:** "“Do you think she felt better with those things out of her,” Leah asks and I look at her – tight, piercing thrill of her saying something, like a needle forced through skin."
 
 **中文理解**：Leah问，那些东西从她身上取出来之后，她会不会好受些；Miri听见的是「Leah开口说话了」这件事本身，把它写成一根针硬穿过皮肤，紧、尖，还带一点快意。
 
@@ -111,7 +135,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 9:** "I want to tell her that it has to feel better to be rid of it. In the end, however, I only shrug, still squinting at the photo of the woman with her jar of tiny bodies – the tight bouquets of tentacles and fleshy white mantles, a convention of sheeted ghosts."
+> **原句 11:** "I want to tell her that it has to feel better to be rid of it. In the end, however, I only shrug, still squinting at the photo of the woman with her jar of tiny bodies – the tight bouquets of tentacles and fleshy white mantles, a convention of sheeted ghosts."
 
 **中文理解**：Miri想说那些东西都该取出来，取出来一定会好受些；但她最后只耸了耸肩，眼睛还停在照片上——罐子里泡着的触手和白色外套膜，像一群裹着床单的鬼。
 
@@ -123,7 +147,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 10:** "The first time Leah stayed over at mine, we watched Jaws and afterwards talked so long about how Hooper and Brody were obviously in love that we forgot to have sex and simply fell asleep together, Leah’s ankle hooked over my hip."
+> **原句 12:** "The first time Leah stayed over at mine, we watched Jaws and afterwards talked so long about how Hooper and Brody were obviously in love that we forgot to have sex and simply fell asleep together, Leah’s ankle hooked over my hip."
 
 **中文理解**：Leah第一次在Miri家过夜那晚，两人看《大白鲨》，之后长时间争论胡珀和布罗迪显然是一对，争到忘了做爱，就那么睡着，Leah的脚踝搭在Miri的髋上。
 
@@ -135,7 +159,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 11:** "I watch movies alone now – Leah’s concentration is not what it used to be. When I can’t sleep, which is often, I take myself out of the spare room and watch movies on the living room floor until the sky grows light beyond the telegraph poles and my back starts to hump from sitting so long with my arms curled over my knees."
+> **原句 13:** "I watch movies alone now – Leah’s concentration is not what it used to be. When I can’t sleep, which is often, I take myself out of the spare room and watch movies on the living room floor until the sky grows light beyond the telegraph poles and my back starts to hump from sitting so long with my arms curled over my knees."
 
 **中文理解**：现在她一个人看电影，因为Leah的注意力不如从前；睡不着时她从备用房间出来，坐在客厅地板上，看到天光爬上电线杆，背因为抱着膝盖坐太久而弓起来。
 
