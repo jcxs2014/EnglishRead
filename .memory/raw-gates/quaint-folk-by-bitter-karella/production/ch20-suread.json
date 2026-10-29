@@ -1,0 +1,55 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch20",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch20_chap20.txt",
+ "facts": [
+  {
+   "fact": "Jessica 深夜从 Tigglestide 狂欢烂醉归家：头发散乱、睫毛膏晕开、兔耳滑到额头，手里抓着半瓶来路不明的鹿血。",
+   "anchor": "She stumbled into the cold foyer, her hair wild, her mascara running, her bunny ears sliding down her forehead.",
+   "start": 577,
+   "end": 688
+  },
+  {
+   "fact": "面对 Sandy 问出的「是不是要离婚」，Jessica 毫无感情地确认离婚。",
+   "anchor": "“That’s right, sweetie,” said Jessica without emotion. “We sure are.”",
+   "start": 2237,
+   "end": 2306
+  },
+  {
+   "fact": "Sandy 直接点名 Molly，Jessica 震惊孩子竟然知道这个名字。",
+   "anchor": "“Is it because of Molly?”",
+   "start": 2309,
+   "end": 2334
+  },
+  {
+   "fact": "Jessica 借酒嘲讽 Sandy 的魔法，还拿「Molly 的孩子多正常、我是哪里做错了」自伤。",
+   "anchor": "“Go ahead and cast a spell then. Hocus-pocus! Abracadabra!”",
+   "start": 6339,
+   "end": 6398
+  },
+  {
+   "fact": "决裂顶点：Sandy 高喊恨妈妈、跑出房间。",
+   "anchor": "“I hate you, Mom! I hate you!” cried Sandy and they ran from the room.",
+   "start": 8662,
+   "end": 8732
+  },
+  {
+   "fact": "Greg 深夜未归，Jessica 明白局面已无可挽回。",
+   "anchor": "It was late and she still had not heard Greg return home.",
+   "start": 12337,
+   "end": 12394
+  },
+  {
+   "fact": "Molly 深夜回到床边，说不能就这样丢下 Jessica 不管。",
+   "anchor": "“I had to, luv. I couldn’t leave you like this.”",
+   "start": 13010,
+   "end": 13058
+  },
+  {
+   "fact": "Molly 正色宣讲：Hasenhurst 的一切美好都系于 Round Robin，想要她那样的生活就必须去见他。",
+   "anchor": "If you want what I have, you know what you must do: You must go to Round Robin.",
+   "start": 15249,
+   "end": 15328
+  }
+ ]
+}

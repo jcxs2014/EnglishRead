@@ -1,0 +1,61 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch21",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch21_chap21.txt",
+ "facts": [
+  {
+   "fact": "Molly 向 Jessica 解释门前多出的松木棺材是 Round Robin 的善意信号，不必害怕",
+   "anchor": "That’s just Round Robin giving you a little peek behind the veil, luv. It’s a good sign. It means he likes you.",
+   "start": 994,
+   "end": 1105
+  },
+  {
+   "fact": "开门的老头衰变严重，Jessica 没认出来，直到 Molly 问候才知道是 Winston",
+   "anchor": "He looked like a skeleton coated in pancake batter, and he smelled like sour milk.",
+   "start": 1726,
+   "end": 1808
+  },
+  {
+   "fact": "小屋内景：蜡烛与 Hummel 瓷偶挤满每一处，空气里还有霉味，Winston 崩瘫在厨房椅上不再应答",
+   "anchor": "Every table, every shelf, every surface was crowded with candles and porcelain Hummel figures of doe-eyed moppets.",
+   "start": 2220,
+   "end": 2334
+  },
+  {
+   "fact": "远处房间飘来极轻的耳语让 Jessica 进去；帐幔后又说 Come closer",
+   "anchor": "Come in, it said, if it said anything at all.",
+   "start": 4241,
+   "end": 4286
+  },
+  {
+   "fact": "Lady Tuppence 婉拒 crunkle 和 jam baps，讨一口 elk’s blood，Jessica 亲手喂她",
+   "anchor": "I’m past the point that crunkle can help me. But I’d give my left tit for just a finger of elk’s blood.",
+   "start": 11493,
+   "end": 11596
+  },
+  {
+   "fact": "Lady Tuppence 点破：上次鹦鹉搅翻黄瓜三明治是刻意调开注意力的便利干扰",
+   "anchor": "Last time we spoke, deary, remember when that wretched bird of mine plowed right through the cucumber sandwiches? A convenient distraction, wasn’t it?",
+   "start": 12752,
+   "end": 12902
+  },
+  {
+   "fact": "Lady Tuppence 逼问：上次你正要说一件很重要的事，现在愿意说了吗",
+   "anchor": "Before that, you were just about to tell me something very, very important. Are you ready to tell me now?",
+   "start": 12979,
+   "end": 13084
+  },
+  {
+   "fact": "Jessica 终于开口自白：Greg 不再碰她，她认定这是对 Morgan 那段往事的惩罚，而这一切都是为了 Sandy",
+   "anchor": "Greg won’t touch me.",
+   "start": 13570,
+   "end": 13590
+  },
+  {
+   "fact": "收尾钩子：Lady Tuppence 笑着说 Helena Hollyoak 并不古老——她本人认识 Helena",
+   "anchor": "She’s not so ancient as you think. Because, you see, I knew Helena Hollyoak.",
+   "start": 18515,
+   "end": 18591
+  }
+ ]
+}

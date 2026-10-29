@@ -1,0 +1,55 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch19",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch19_chap19.txt",
+ "facts": [
+  {
+   "fact": "杰西卡在大厅墙上逐行查目录，找到市长办公室的房间号",
+   "anchor": "running her finger over a long list of obscure foreign bureaucratic titles until she reached LORD MAYOR—ROOM 004A",
+   "start": 1358,
+   "end": 1471
+  },
+  {
+   "fact": "门外偷听到市长在电话里限令设备必须在 Tigglestide 前夜（格林尼治时间）就绪",
+   "anchor": "the agreement was that your infernal device should be ready to roll out by Tigglestide Eve Greenwich Mean Time",
+   "start": 3298,
+   "end": 3408
+  },
+  {
+   "fact": "Stan 的告别式惋惜被杰西卡当场解读成 Greg 要被开除",
+   "anchor": "There was only one way to interpret that. Greg was going to be fired.",
+   "start": 4014,
+   "end": 4083
+  },
+  {
+   "fact": "市长办公室软木板上钉着画满测量记号与潦草批注的陌生巨石环照片",
+   "anchor": "There was a corkboard with a blown-up photograph of an unfamiliar stone henge, covered in measurements and yellow Post-it notes with indecipherable scrawl.",
+   "start": 5099,
+   "end": 5254
+  },
+  {
+   "fact": "终端上的机器人自曝是假地灵，什么都做不了",
+   "anchor": "REAL TALK, I CAN’T ACTUALLY DO ANYTHING.",
+   "start": 8586,
+   "end": 8626
+  },
+  {
+   "fact": "机器提及 Morgan McKinley 并限令她今夜向 Round Robin 祈请",
+   "anchor": "TONIGHT, YOU WILL SUPPLICATE ROUND ROBIN.",
+   "start": 10955,
+   "end": 10996
+  },
+  {
+   "fact": "街头争执中杰西卡踢翻高跷小丑的架子",
+   "anchor": "kicked the stilts out from under the harlequin",
+   "start": 20139,
+   "end": 20185
+  },
+  {
+   "fact": "章末杰西卡承认自己没被驯化，只是被关进了笼子",
+   "anchor": "She wasn’t domesticated; she was merely caged.",
+   "start": 21497,
+   "end": 21543
+  }
+ ]
+}
