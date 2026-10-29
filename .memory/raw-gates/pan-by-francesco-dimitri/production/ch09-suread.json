@@ -1,0 +1,355 @@
+{
+ "book": "pan-by-francesco-dimitri",
+ "chapter": "ch09",
+ "text": "notes/books/novels/pan-by-francesco-dimitri/text/ch09_the_whelp.txt",
+ "facts": [
+  {
+   "fact": "Giovanni 通宵反复读父亲 2012 年的文章，又回地下室取后续期刊",
+   "anchor": "He spent the night reading and rereading his father’s article",
+   "start": 210,
+   "end": 271
+  },
+  {
+   "fact": "学界只有一篇一页的回应，把 Cavaterra 的理论斥为空想与幼稚",
+   "anchor": "there was only one response, a slight, one-page article that dismissed Professor Cavaterra’s theories as fantastical and puerile",
+   "start": 517,
+   "end": 645
+  },
+  {
+   "fact": "但那篇辱骂性的回应让 Giovanni 阴沉地承认自己看出其逻辑",
+   "anchor": "he has to gloomily admit that he sees the logic",
+   "start": 933,
+   "end": 980
+  },
+  {
+   "fact": "文章开篇描述 72 名精神分裂症患者共同以梦或幻觉看见的意象",
+   "anchor": "It opens with the description of an image, shared in the form of a dream or hallucination by seventy-two schizophrenics",
+   "start": 2035,
+   "end": 2154
+  },
+  {
+   "fact": "那意象是美丽而可怖的岛，住着一族儿童战士",
+   "anchor": "a beautiful, frightening island, full of delights but also of awful dangers, populated by (among other things) a tribe of child warriors",
+   "start": 2260,
+   "end": 2396
+  },
+  {
+   "fact": "多数患者想登岛却怕被孩子们攻击，于是留在挂海盗旗的大帆船上，由一个模糊的男人统领",
+   "anchor": "they stayed on board a galleon that bore a pirate flag, led by a vaguely defined man",
+   "start": 2833,
+   "end": 2917
+  },
+  {
+   "fact": "也有患者自称到过岛上：被锁在地下棚屋，受孩子们恶作剧与酷刑（两者不加区分）",
+   "anchor": "prisoners in underground hovels, chained to the rocks and tormented by children who subjected them to pranks and tortures",
+   "start": 3121,
+   "end": 3242
+  },
+  {
+   "fact": "文章第二部分：澳洲原住民相信人做梦时访问真实存在的地方",
+   "anchor": "Indigenous Australians, Cavaterra explains, believe that when human beings dream, they visit actual places",
+   "start": 3963,
+   "end": 4069
+  },
+  {
+   "fact": "Cavaterra 认为萨满可能是对的：梦境与帆船或为真实之地，因精神分裂者的意识状态改变而可进入",
+   "anchor": "Cavaterra thought the shamans might be right",
+   "start": 4266,
+   "end": 4310
+  },
+  {
+   "fact": "文章结论：真实与想象的边界是意识形态的，人必须学会超越它",
+   "anchor": "the boundaries between real and imaginary are ideological, and we must learn how to transcend them",
+   "start": 5616,
+   "end": 5714
+  },
+  {
+   "fact": "四天之差让 Giovanni 站在父亲旧敌的位置上——只是 Luisa 的眼睛把他也变了",
+   "anchor": "Four days are all that separate Giovanni from his father’s old opponents",
+   "start": 5896,
+   "end": 5968
+  },
+  {
+   "fact": "Giovanni 查通讯簿发现自己留着 Augusto 叔叔的号码",
+   "anchor": "He kept Uncle Augusto’s number",
+   "start": 6516,
+   "end": 6546
+  },
+  {
+   "fact": "Michele 觉得 Greta 把父亲说成 normal 值得亲吻：此前无人做到",
+   "anchor": "No one before her, absolutely no one, has ever managed to define Papa as normal",
+   "start": 7847,
+   "end": 7926
+  },
+  {
+   "fact": "Michele 的抽屉暗库现在有桃核与父亲的黑笔记本",
+   "anchor": "first the peach stone, now Papa’s black notebook too",
+   "start": 8637,
+   "end": 8689
+  },
+  {
+   "fact": "笔记本首页是两行英文诗句（Wiccan 诫律）",
+   "anchor": "These Eight words the Rede fulfil / An Ye harm none, do what Ye will",
+   "start": 8871,
+   "end": 8939
+  },
+  {
+   "fact": "笔记本反复提到未具名的 Horned God 与 Diana/Artemis 女神，还有 Nemi 的 Diana 神庙描写",
+   "anchor": "In several places it mentions an unspecified Horned God, always capitalized, and a goddess, interchangeably referred to as Diana or Artemis",
+   "start": 9116,
+   "end": 9255
+  },
+  {
+   "fact": "笔记里 2007 年的条目说 Irene 从水中看见 Silvia 将再有孩子——早于 Michele 出生",
+   "anchor": "Irene saw in the water that Silvia will have another child",
+   "start": 9906,
+   "end": 9964
+  },
+  {
+   "fact": "Michele 家墙后发现 Nibs 的新涂鸦：与 EUR 那件杰作同一作者",
+   "anchor": "the same artist who did the graffiti in EUR",
+   "start": 10634,
+   "end": 10677
+  },
+  {
+   "fact": "涂鸦的整行文字是 He's coming back，图样里有岛、船、顶帽女孩、拄杖男人、从台伯河而出的裸女孩",
+   "anchor": "He’s coming back",
+   "start": 11262,
+   "end": 11278
+  },
+  {
+   "fact": "Giovanni 在台伯岛上等下夜班的 Luisa——父亲行医、Luisa 当护士的医院",
+   "anchor": "He’s on the island in the Tiber, right in the middle of the river",
+   "start": 11599,
+   "end": 11664
+  },
+  {
+   "fact": "Giovanni 犹豫未上前，Luisa 没发现他就走远了",
+   "anchor": "Luisa passes, without noticing him, and recedes into the distance",
+   "start": 12919,
+   "end": 12984
+  },
+  {
+   "fact": "医生断言 Wedge 的身体将永远瘫痪在床上",
+   "anchor": "according to the doctors, it’ll stay there forever",
+   "start": 13072,
+   "end": 13122
+  },
+  {
+   "fact": "Dal Mare 在梦中被告知：不能飞，飞行是敌人的特权",
+   "anchor": "You will not fly, Dal Mare, the Captain, had told him, because that is the vile privilege of our enemies",
+   "start": 13345,
+   "end": 13449
+  },
+  {
+   "fact": "Wedge 四足奔跑追踪入侵罗马的树木气味——入侵将至的预兆",
+   "anchor": "He runs four-legged through the city streets, following the trail already laid for him—the smell of trees invading Rome",
+   "start": 13757,
+   "end": 13876
+  },
+  {
+   "fact": "气味浓到物理性地把他击倒，像麻袋摔地",
+   "anchor": "The smell strikes him, lifts from the ground, and drops him to the earth like a rubbish sack",
+   "start": 14323,
+   "end": 14415
+  },
+  {
+   "fact": "第六节：Wendy 与 Giada 收养了那个长角的怪胎幼崽，取名 Peter",
+   "anchor": "The whelp is snoring on the floor",
+   "start": 14778,
+   "end": 14811
+  },
+  {
+   "fact": "幼崽吞牛奶鸡蛋连同容器蛋壳，连放了十五天的沙拉都吞了",
+   "anchor": "it was guzzling milk and eggs, devouring even the containers, shells, and everything else within reach",
+   "start": 15284,
+   "end": 15386
+  },
+  {
+   "fact": "Wendy 以自己的戏法台词决定留下 Peter：奇想现身就不放行",
+   "anchor": "Those who let Wonder pass unseen, shall soon hear Death’s clock strike thirteen",
+   "start": 17049,
+   "end": 17128
+  },
+  {
+   "fact": "两天里 Peter 长成：每只手六指带剃刀利爪，能开罐如手术刀",
+   "anchor": "He has six fingers on each of his little hands, with long, razor sharp claws",
+   "start": 17287,
+   "end": 17363
+  },
+  {
+   "fact": "Peter 咬穿了 Giada 自行车的橡胶轮胎",
+   "anchor": "he seems to love that of rubber tires, going by how he’s gnawed through the wheels of Giada’s bike",
+   "start": 17664,
+   "end": 17762
+  },
+  {
+   "fact": "Giada 事故后发誓不坐任何少于四轮的机动车，开一辆旧 Panda",
+   "anchor": "Giada vowed not to place her behind on anything that had a motor and less than four wheels",
+   "start": 18675,
+   "end": 18765
+  },
+  {
+   "fact": "两女的目的地是 Giada 捡到 Peter 的 Pineto 公园",
+   "anchor": "Their goal was the Pineto Park where she found Peter",
+   "start": 19330,
+   "end": 19382
+  },
+  {
+   "fact": "她们靠近主入口旁的绿色垃圾斗",
+   "anchor": "They approach a green skip near one of the main entrances",
+   "start": 19585,
+   "end": 19642
+  },
+  {
+   "fact": "垃圾斗后是被防护网围住的危楼，像全世界最闹鬼的房子",
+   "anchor": "the most haunted house in the world",
+   "start": 19973,
+   "end": 20008
+  },
+  {
+   "fact": "一个流浪汉昨天在 Termini 对 Angela 嘶喊 he's coming back 然后哭了",
+   "anchor": "He wheezed in my face and shouted he’s coming back! Then he started crying",
+   "start": 22418,
+   "end": 22492
+  },
+  {
+   "fact": "公园里有截雕成人形的树桩，粗臂厚指，似要挣脱大地",
+   "anchor": "a sculpted stump",
+   "start": 23426,
+   "end": 23442
+  },
+  {
+   "fact": "公园洼地里是锡棚旅行者营地；圣彼得穹顶—板楼—赤贫三景同框",
+   "anchor": "there’s a travellers’ camp, made up of shacks with tin roofs",
+   "start": 24326,
+   "end": 24386
+  },
+  {
+   "fact": "Wendy 提醒 Giada：营前那几个旅行者孩子带着刀剑",
+   "anchor": "“Swords and daggers, Giada. Those children were armed",
+   "start": 25586,
+   "end": 25639
+  },
+  {
+   "fact": "Dal Mare 判定 Wedge 丢了踪迹，罚他三夜不得入梦（连睡眠一起没收）",
+   "anchor": "Wedge, that simpleton, has lost the trail",
+   "start": 25722,
+   "end": 25763
+  },
+  {
+   "fact": "Dal Mare 在公园确证：敌人就是在此抵达 Flesh",
+   "anchor": "It is here that it happened, that his enemy arrived",
+   "start": 27220,
+   "end": 27271
+  },
+  {
+   "fact": "Dal Mare 称 Wedge 为 his Hound",
+   "anchor": "his Hound",
+   "start": 25953,
+   "end": 25962
+  },
+  {
+   "fact": "Giovanni 打车去 La Bufalotta 的 Uncle Augusto 豪宅，只为问父亲的事",
+   "anchor": "a quick chat about Papa is worth the cost of a taxi",
+   "start": 27740,
+   "end": 27791
+  },
+  {
+   "fact": "Augusto 后花园立着一比一石雕大帆船 Galleon，细节精到如真船",
+   "anchor": "From the back garden rears the stern of the Galleon",
+   "start": 28489,
+   "end": 28540
+  },
+  {
+   "fact": "Giovanni 发现花园帆船的帆与儿时记忆不符：原本是收帆的",
+   "anchor": "“Uncle,” he says, “didn’t the sails use to be furled?”",
+   "start": 31033,
+   "end": 31087
+  },
+  {
+   "fact": "Augusto 称收帆是投降的象征",
+   "anchor": "A symbol of surrender.",
+   "start": 31408,
+   "end": 31430
+  },
+  {
+   "fact": "Augusto 说那篇文章他烂熟于心",
+   "anchor": "I know it by heart, one might say",
+   "start": 33326,
+   "end": 33359
+  },
+  {
+   "fact": "Augusto 说那篇文章同样终结了他与 Stefano 的友谊",
+   "anchor": "“It also marked the end of our friendship.”",
+   "start": 34641,
+   "end": 34684
+  },
+  {
+   "fact": "Augusto 称 Stefano 曾警告儿子远离他，并发誓对方会听",
+   "anchor": "He swore to me that he would",
+   "start": 34926,
+   "end": 34954
+  },
+  {
+   "fact": "Augusto 曾斥巨资资助 Stefano 的研究，目标是用药帮助病人，不能资助「告诉疯子他是对的」的研究",
+   "anchor": "I spent considerable sums on Stefano’s research",
+   "start": 35230,
+   "end": 35277
+  },
+  {
+   "fact": "Giovanni 几乎相信 Augusto 的沉痛，唯独那改过的帆让他存疑",
+   "anchor": "If it weren’t for the sails of the Galleon, Giovanni would believe him",
+   "start": 36629,
+   "end": 36699
+  },
+  {
+   "fact": "Giovanni 走后 Augusto 踱步懊恼：又是 Cavaterra 家的血",
+   "anchor": "Again the Cavaterra blood!",
+   "start": 36861,
+   "end": 36887
+  },
+  {
+   "fact": "Augusto 庆幸 Giovanni 低估自己：低估你的敌人宝贵如盟友",
+   "anchor": "an enemy that underestimates you is as precious as an ally",
+   "start": 37043,
+   "end": 37101
+  },
+  {
+   "fact": "Augusto 自陈：正是 Stefano 的研究给了船长准备、壮大与升级帆船的时间",
+   "anchor": "It had been his studies that gave the Captain time to prepare",
+   "start": 37320,
+   "end": 37381
+  },
+  {
+   "fact": "Augusto 认出公园里的女孩是 Angela Cavaterra",
+   "anchor": "He’s worked out who that slip of a girl he saw in the park was: Angela Cavaterra",
+   "start": 37625,
+   "end": 37705
+  },
+  {
+   "fact": "夜袭 Pineto：敌人不在；Giancarlo 顶嘴后被 Dal Mare 手杖钩割喉杀死，Dal Mare 头也不看尸体重复 Look harder",
+   "anchor": "“Look harder,” repeats Dal Mare, without even looking at the corpse",
+   "start": 38862,
+   "end": 38929
+  },
+  {
+   "fact": "船长亲搜：棚屋里有笑脸儿童照片、项链、档案，但没有孩子、没有 Peter",
+   "anchor": "In one hovel he finds a photo of a smiling child",
+   "start": 39072,
+   "end": 39120
+  },
+  {
+   "fact": "是 Lost Boys 先到，提醒旅行者撤离并带走了 Peter",
+   "anchor": "The Lost Boys got here before him",
+   "start": 39516,
+   "end": 39549
+  },
+  {
+   "fact": "Dal Mare 下令烧掉一切：得不到旅行者的现在，就剥他们的过去",
+   "anchor": "“Burn it all,” he orders",
+   "start": 40029,
+   "end": 40053
+  }
+ ]
+}
