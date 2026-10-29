@@ -1,0 +1,322 @@
+{
+  "chapter": 33,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/ch33 salt in the bathwater.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch33_miri.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "I take to reminding Leah of things, inconsequential things: the way she always used to say SMILE aloud when someone phot",
+          "ok": true,
+          "pos": 6
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Remember,” I tell her, “the time that we met. In the bar where they were playing I’ve Got a Feeling. And then you came ",
+          "ok": true,
+          "pos": 451
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I have taken to filling up glass ramekins with table salt and ferrying them into the bathroom, pouring the salt into the",
+          "ok": true,
+          "pos": 805
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Miri,” Carmen is saying, and I’m unsure how long I’ve been silent, whether I have missed her saying something else, “yo",
+          "ok": true,
+          "pos": 2064
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Carmen calls me to tell me about her eye surgery. The after-effects are peculiar, she says, everything tinted a pale tan",
+          "ok": true,
+          "pos": 1163
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "When they took my mother to the hospice, I spent a weekend alone at her house, packing things away. At the time I didn’t",
+          "ok": true,
+          "pos": 2361
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "There were Tupperware boxes in the fridge, steamed broccoli and an untouched chicken kiev that my mother’s nurse must ha",
+          "ok": true,
+          "pos": 3095
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Later on, I sat in my mother’s chair near the windows and thought about the curious way she sometimes had of speaking to",
+          "ok": true,
+          "pos": 3366
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I hope you’re OK, Leah messaged, and then sent me a picture of a cat she had seen on the pavement outside her building, ",
+          "ok": true,
+          "pos": 4928
+        }
+      ],
+      "words": 60
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 110,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 68,
+        "为什么这样写": 72,
+        "关键词": 0,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "为什么这样写": 0.45,
+        "关键词": 0.0,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.92
+      }
+    }
+  ],
+  "form": {
+    "h1": "33. Chapter Thirty-Three",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 8.0,
+    "block_range": [
+      3,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 979,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 8、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

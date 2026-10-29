@@ -1,0 +1,183 @@
+{
+  "chapter": "ch33",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch33_miri.txt",
+  "facts": [
+    {
+      "fact": "Miri 养成向 Leah 复述无关紧要往事的习惯——她拍照时总要先念出 SMILE、两人常为梦里谁做了糊涂事争吵；Leah 在水外已很难呼吸，Miri 不确定她能听见几句，甚至想把头埋进水里把这些回忆说进她耳朵。",
+      "anchor": "the way she always used to say SMILE aloud when someone photographed her",
+      "start": 68,
+      "end": 140
+    },
+    {
+      "fact": "Miri 把食盐装进玻璃小烤盅端进浴室，倒进浴缸水里让它溶化；她说不清自己为何开始这样做，但把 Leah 从水里抬起的手势当作道谢。",
+      "anchor": "filling up glass ramekins with table salt and ferrying them into the bathroom",
+      "start": 838,
+      "end": 915
+    },
+    {
+      "fact": "Carmen 来电讲眼部手术的余波：视野里一切泛着淡橘色，视野角落还有不可能为真的身影在旋转；医生说这属正常、会逐日好转并持续一周。",
+      "anchor": "everything tinted a pale tangerine, the shades of figures that cannot be real",
+      "start": 1276,
+      "end": 1353
+    },
+    {
+      "fact": "Carmen 质问 Miri 从未告知实情——只留过一条『她延误了、后来回来了、然后就没事了』的口信，那是她第一次听说出过问题；Miri 则暗自担心自己会怎样出现在她『卸下负担』的新视野里、还会不会被看见。",
+      "anchor": "you never told me anything. You told me she was delayed",
+      "start": 2230,
+      "end": 2285
+    },
+    {
+      "fact": "闪回：母亲被送进临终关怀院后，Miri 在母亲家独自过了一个周末收拾打包；那时她与 Leah 还不够熟，却整周末不停发短信，极想她在场。",
+      "anchor": "When they took my mother to the hospice, I spent a weekend alone at her house",
+      "start": 2420,
+      "end": 2497
+    },
+    {
+      "fact": "母亲冰箱里留着护工热过、却没能劝她吃的西兰花和原封未动的鸡肉基辅卷；Miri 觉得吃掉它们恶心，全部扔掉。",
+      "anchor": "that my mother’s nurse must have heated but then failed to convince her to eat",
+      "start": 3250,
+      "end": 3328
+    },
+    {
+      "fact": "Miri 回想母亲只在坏天气里才肯多说心里话（她概括为『有雨，才有谈话』），事后又否认自己说过，常以『我觉得那不像我会说的』岔开，转谈天气或邻居乱停车。",
+      "anchor": "she sometimes had of speaking to me more freely in bad weather",
+      "start": 3520,
+      "end": 3582
+    },
+    {
+      "fact": "Leah 发来『I hope you’re OK』和一段她在楼下对猫发亲吻声却被无视的视频；Miri 却回问她『你爸死的时候是什么感觉』，随即自斥这问题愚蠢——『她还没死』。",
+      "anchor": "When your dad died, I replied, what did that feel like",
+      "start": 5181,
+      "end": 5235
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "kind": "伴侣/爱人：Leah 病中在水外呼吸困难，Miri 以盐水浴、不停絮语与旧事照料她，把她的手势读作道谢。",
+      "anchor": "She is finding it hard to breathe outside of the water now",
+      "start": 247,
+      "end": 305
+    },
+    {
+      "pair": "Miri–Carmen",
+      "kind": "朋友：Carmen 术后兴奋地报喜，Miri 被她的快乐噎住，既怕自己在她新视野里不被看见，又被她指出一直隐瞒 Leah 出事的实情。",
+      "anchor": "Carmen calls me to tell me about her eye surgery",
+      "start": 1184,
+      "end": 1232
+    },
+    {
+      "pair": "Miri–母亲",
+      "kind": "母女：母亲进了临终关怀院，Miri 独自在她空屋里打包、坐在她的椅子上看潮，却不下到海滩。",
+      "anchor": "Later on, I sat in my mother’s chair near the windows",
+      "start": 3432,
+      "end": 3485
+    },
+    {
+      "pair": "母亲–护工",
+      "kind": "照护关系：护工把饭热好却劝不动她进食，饭菜原样留在冰箱里。",
+      "anchor": "There were Tupperware boxes in the fridge, steamed broccoli and an untouched chicken kiev",
+      "start": 3160,
+      "end": 3249
+    },
+    {
+      "pair": "Miri–Leah（初遇）",
+      "kind": "相识/定情故事：两人在播放 I’ve Got a Feeling 的酒吧相遇，Leah 上前搭话时音乐转成 Horny；Miri 强调这就是发生过的事、无法改写。",
+      "anchor": "the time that we met. In the bar where they were playing I’ve Got a Feeling",
+      "start": 481,
+      "end": 556
+    }
+  ],
+  "numbers": [
+    {
+      "value": "一周（a week）——医生说服术后视力会逐日好转、持续一周",
+      "anchor": "they said it should get better every day for a week",
+      "start": 1537,
+      "end": 1588
+    },
+    {
+      "value": "一个周末（a weekend）——Miri 独自在母亲家打包的那段时间",
+      "anchor": "a weekend alone at her house, packing things away",
+      "start": 2469,
+      "end": 2518
+    },
+    {
+      "value": "一半（halfway）——邻居总把车横停在她车道一半，母亲为此恼火",
+      "anchor": "the way a neighbour had of parking their car halfway across her drive",
+      "start": 4369,
+      "end": 4438
+    },
+    {
+      "value": "第一次（the first）——Carmen 头一回听说 Leah 出过事",
+      "anchor": "that was the first I’d heard of anything being wrong",
+      "start": 2359,
+      "end": 2411
+    },
+    {
+      "value": "Miri——本章叙述者",
+      "anchor": "“Miri,” Carmen is saying, and I’m unsure how long I’ve been silent",
+      "start": 2112,
+      "end": 2178
+    },
+    {
+      "value": "Leah——Miri 的伴侣，本章卧病、在水外难以呼吸",
+      "anchor": "I take to reminding Leah of things, inconsequential things",
+      "start": 8,
+      "end": 66
+    },
+    {
+      "value": "SMILE——Leah 被拍照时必先念出的词",
+      "anchor": "used to say SMILE aloud when someone photographed her",
+      "start": 87,
+      "end": 140
+    },
+    {
+      "value": "I’ve Got a Feeling——两人初遇时酒吧放的第一首歌",
+      "anchor": "In the bar where they were playing I’ve Got a Feeling",
+      "start": 503,
+      "end": 556
+    },
+    {
+      "value": "Horny——初遇时音乐转成的歌（Mousse T.）",
+      "anchor": "They played Horny by Mousse T. in a bar full of straight people",
+      "start": 719,
+      "end": 782
+    },
+    {
+      "value": "Mousse T.——歌曲 Horny 的演唱者",
+      "anchor": "They played Horny by Mousse T. in a bar full of straight people",
+      "start": 719,
+      "end": 782
+    },
+    {
+      "value": "Ad meliora——Carmen 引用的拉丁语，意为『向着更好的方向』",
+      "anchor": "but they said it should get better every day for a week. Ad meliora, et cetera",
+      "start": 1533,
+      "end": 1611
+    },
+    {
+      "value": "Tupperware——母亲冰箱里装剩饭的保鲜盒",
+      "anchor": "Tupperware boxes in the fridge, steamed broccoli and an untouched chicken kiev",
+      "start": 3171,
+      "end": 3249
+    },
+    {
+      "value": "chicken kiev——母亲未动的鸡肉基辅卷",
+      "anchor": "Tupperware boxes in the fridge, steamed broccoli and an untouched chicken kiev",
+      "start": 3171,
+      "end": 3249
+    },
+    {
+      "value": "hospice——母亲被送去的临终关怀院",
+      "anchor": "When they took my mother to the hospice",
+      "start": 2420,
+      "end": 2459
+    },
+    {
+      "value": "quartz-veined rocks——通往海滩的崖壁上带石英脉的岩石",
+      "anchor": "Once down, you clamber across quartz-veined rocks that run down from the cliff face",
+      "start": 4592,
+      "end": 4675
+    }
+  ]
+}

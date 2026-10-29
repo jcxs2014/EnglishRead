@@ -27,6 +27,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 2:** "“Remember,” I tell her, “the time that we met. In the bar where they were playing I’ve Got a Feeling. And then you came up and spoke to me and the music changed to Horny, and that’s something I can’t change now."
 
 **中文理解**：她把两人相识的经过讲成一个改不动的定本：酒吧里放着 I’ve Got a Feeling，Leah 走过来跟她搭话，音乐正好换成 Horny，她把这桩巧合认作故事本身。
@@ -36,6 +38,8 @@ modified: "2026-10-29"
 **为什么这样写**：这一段几乎是口语转录：Remember 起头，Like 插在句子中间，两个 that’s 短句重复同一个判断——that’s just the story、that’s what happened。重复不为加重语气，而是把记忆钉成不容修改的版本；越像随口讲述，越显出听的人已经接不住话。句末把 can’t change 放在 now 前面，时间被压成一个点。
 
 **读者视角提示**：换歌本是偶然，她却说成 the story of how we met；把偶然写成命定，是这段话正在做的事。
+
+---
 
 ---
 
@@ -51,6 +55,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 4:** "“Miri,” Carmen is saying, and I’m unsure how long I’ve been silent, whether I have missed her saying something else, “you never told me anything. You told me she was delayed and then she came back and then it was fine."
 
 **中文理解**：Carmen 在电话那头说着话，Miri 走了神，说不准自己已经沉默多久、是否错过了什么；Carmen 便点破她什么都没讲过，只报过 Leah 延误、回来、没事这三段。
@@ -63,7 +69,45 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "Later on, I sat in my mother’s chair near the windows and thought about the curious way she sometimes had of speaking to me more freely in bad weather, as though the rattle of sleet against the window panes might have served as a cover for her confidences. I used to think of it this way: with the rain, conversation."
+---
+
+> **原句 5:** "Carmen calls me to tell me about her eye surgery. The after-effects are peculiar, she says, everything tinted a pale tangerine, the shades of figures that cannot be real rotating in the corners of her vision."
+
+**中文理解**：Carmen 打电话来跟她讲自己做眼部手术的事。她说术后反应很怪：眼前的一切都染成淡橘色，视野角落里还有些不可能是真的shape 在转。
+
+**关键词**：her eye surgery / The after-effects are peculiar / tinted a pale tangerine / figures that cannot be real
+
+**为什么这样写**：这一段形式上是寒暄电话，内容却是「看见不该看见的东西」。作者把它放在照料 Leah 的间隙里：一个朋友的眼睛刚被修好、正在产生幻觉；另一个人的眼睛已经变成水。`cannot be real` 和 `pale tangerine` 让整段像隔着有色玻璃看，也替本章染了色。
+
+**读者视角提示**：注意 Miri 没有对 Carmen 说 Leah 的事（下文 Carmen 直接质问她「你什么都没告诉我」）。
+
+---
+
+> **原句 6:** "When they took my mother to the hospice, I spent a weekend alone at her house, packing things away. At the time I didn’t really know Leah well enough to ask her to do this with me, though I remember wanting her there desperately and texting her almost without cease the entire weekend."
+
+**中文理解**：母亲被送进临终关怀院时，她一个人在她家过了一个周末，把东西收起来。那时她和 Leah 还没熟到能开口请她来帮忙，可她记得自己非常想让她在，整个周末几乎不停地给她发短信。
+
+**关键词**：took my mother to the hospice / a weekend alone at her house / didn’t really know Leah well enough / texting her almost without cease
+
+**为什么这样写**：两个句子分属两个时间：当时（收拾屋子）与现在（回看那时的关系）。`didn’t really know Leah well enough` 是现在的判断，`wanting her there desperately` 是当时的感受——作者把两者并排放，不说哪个对，只让「不够熟」和「几乎不停地发短信」互相拆台。
+
+**读者视角提示**：这是全章唯一给出「她们关系多早开始」的坐标：母亲还在世时，Leah 还只是「不够熟」的人。
+
+---
+
+> **原句 7:** "There were Tupperware boxes in the fridge, steamed broccoli and an untouched chicken kiev that my mother’s nurse must have heated but then failed to convince her to eat. I thought about eating these myself but found the idea of it somehow distasteful and threw them away."
+
+**中文理解**：冰箱里有几个保鲜盒，装着蒸西兰花和一块没人动过的鸡肉基辅卷——大概是母亲的护工热过、却没能劝她吃下去的。她想过自己吃掉，可又觉得莫名恶心，就把它们扔了。
+
+**为什么这样写**：这一段的狠处全在 `untouched` 与 `must have heated but then failed to convince her` 上：护工热过、劝过、失败了，食物还留着，说明时间停在哪一天。她想过吃掉、又觉得 distasteful、扔了——三个动作把「哀悼」写成一桩家务，而 `somehow` 一词让她自己也不明白为什么恶心。
+
+**关键词**：Tupperware boxes in the fridge / an untouched chicken kiev / failed to convince her to eat / found the idea of it somehow distasteful
+
+**读者视角提示**：注意她说的是「母亲的护工」，不是「我」——她那时已经不在日常照护里了，这一点与她后来照顾 Leah 的方式正好相反。
+
+---
+
+> **原句 8:** "Later on, I sat in my mother’s chair near the windows and thought about the curious way she sometimes had of speaking to me more freely in bad weather, as though the rattle of sleet against the window panes might have served as a cover for her confidences. I used to think of it this way: with the rain, conversation."
 
 **中文理解**：她坐在母亲窗边的椅子上，想起母亲只在坏天气里才说得更坦白，仿佛雨雪敲打窗玻璃的声音可以替她把话盖住；她把这种关系说成「有雨，才有谈话」，而坦白始终隔着一层雨声。
 
@@ -75,7 +119,9 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "I hope you’re OK, Leah messaged, and then sent me a picture of a cat she had seen on the pavement outside her building, a video of her making kissing noises at it and being ignored. When your dad died, I replied, what did that feel like, and then, She’s not dead, so this is a stupid thing to ask."
+---
+
+> **原句 9:** "I hope you’re OK, Leah messaged, and then sent me a picture of a cat she had seen on the pavement outside her building, a video of her making kissing noises at it and being ignored. When your dad died, I replied, what did that feel like, and then, She’s not dead, so this is a stupid thing to ask."
 
 **中文理解**：Leah 发消息问她好不好，又发来路边一只猫的照片，还有一段她对着猫发出亲吻声却被无视的视频；Miri 回问 Leah 父亲去世时是什么感觉，随即自己撤回，说母亲还没死，这问题问得蠢。
 
