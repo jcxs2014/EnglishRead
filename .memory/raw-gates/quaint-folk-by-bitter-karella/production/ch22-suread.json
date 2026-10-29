@@ -1,0 +1,55 @@
+{
+ "book": "quaint-folk-by-bitter-karella",
+ "chapter": "ch22",
+ "text": "notes/books/novels/quaint-folk-by-bitter-karella/text/ch22_chap22.txt",
+ "facts": [
+  {
+   "fact": "暴雨毫无预兆地砸向宅子与花园，Tigglestide Eve 夜里全屋被雨围住",
+   "anchor": "The storm came without warning, and great bucketloads of rain pelted the house and drenched the gardens.",
+   "start": 249,
+   "end": 353
+  },
+  {
+   "fact": "Sandy 独自坐在只剩手机屏光照亮的黑房间里",
+   "anchor": "Inside Hollyoak House, Sandy was all alone, sitting in a dark room illuminated only by the glow from the screen of their phone.",
+   "start": 475,
+   "end": 602
+  },
+  {
+   "fact": "Sandy 反复念着爸爸一定会回家，靠这个念头撑着",
+   "anchor": "Dad’s coming home,” Sandy told themself. “Dad’s got to come home.",
+   "start": 1398,
+   "end": 1463
+  },
+  {
+   "fact": "手机反复刷新，等来的始终是没有信号",
+   "anchor": "They hit REFRESH again and waited for the signal to time out again.",
+   "start": 1196,
+   "end": 1263
+  },
+  {
+   "fact": "George 冒雨到窗下扔石子求 Sandy 放自己进屋",
+   "anchor": "When Sandy went to investigate, they saw that George was below, throwing pebbles.",
+   "start": 2645,
+   "end": 2726
+  },
+  {
+   "fact": "Sandy 怒斥 George 曾给自己下药，质问对方懂不懂同意",
+   "anchor": "You dosed me! Don’t you know anything about consent?",
+   "start": 2926,
+   "end": 2978
+  },
+  {
+   "fact": "George 自白从来没真信过 Round Robin，昨天亲眼所见后不知道该信什么",
+   "anchor": "I never believed in Round Robin, not for real.",
+   "start": 4186,
+   "end": 4232
+  },
+  {
+   "fact": "两人摊牌补读第三张，翻出的是 Devil",
+   "anchor": "They pulled the third and final card. It was the Devil.",
+   "start": 8370,
+   "end": 8425
+  }
+ ]
+}
