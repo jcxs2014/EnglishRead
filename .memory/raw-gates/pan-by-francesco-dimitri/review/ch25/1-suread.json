@@ -1,0 +1,137 @@
+{
+ "chapter": "ch25",
+ "file": "text/ch25_lupercalia.txt",
+ "text_chars": 50117,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "Giada 在罗马中央图书馆查证：罗马的 Pan 即 Faunus/Silvanus，Lupercalia 在 2 月 15 日；普鲁塔克《神谕的终止》说 Pan 是 demon；她推不出 Hook 是哪位神",
+   "anchor": "Plutarch’s message is a mirror version of the one Tinker Bell left",
+   "offset": 3571
+  },
+  {
+   "id": "F2",
+   "fact": "Peter 在 Secret Base 动员：大人碾碎 Enchantment、偷走 Dream；点名 Giulia 的父母恨她、Simone 的父亲打母亲、Wendy 的经纪人、Babette 修女将付账",
+   "anchor": "They took our lives",
+   "offset": 6472
+  },
+  {
+   "id": "F3",
+   "fact": "狂欢从 Trastevere 的 Santa Maria 广场开始：吉他炸响、Retinue 与 Lost Children 落地、路人被卷入跳舞与性爱",
+   "anchor": "The Lost Children offer you the greatest party of your lives!",
+   "offset": 14133
+  },
+  {
+   "id": "F4",
+   "fact": "Joshua（七十岁、二十年失去性能力）与 Mary 在广场重燃；Wendy 与 Giada 当众裸身相爱",
+   "anchor": "it’s been twenty years since he lost his virility",
+   "offset": 16707
+  },
+  {
+   "id": "F5",
+   "fact": "Michele 在 Greta 家看电视：Trastevere 的狂欢被当新闻播报，画面里 Temidorus 在喷泉里",
+   "anchor": "In the fountain of Piazza Santa Maria in Trastevere, Temidorus is splashing around",
+   "offset": 20710
+  },
+  {
+   "id": "F6",
+   "fact": "地铁站入口，Peter 向仙灵借地；仙灵称「Good Folk」，说 Barrie 的陷阱「只差几英寸就要破了」",
+   "anchor": "The human’s trap is just inches from destruction.",
+   "offset": 22960
+  },
+  {
+   "id": "F7",
+   "fact": "Peter 拒绝撤去 glamour：「我要 Hook 知道我在」；Wendy 首次承认回不去",
+   "anchor": "You still think you can go back?",
+   "offset": 24065
+  },
+  {
+   "id": "F8",
+   "fact": "站内 Peter 与 Metro 之灵争执：他不肯请求许可；随后以机油涂身把 Wendy 与 Giada 祝圣为第一代 Luperci 女祭司，自身变回山羊神",
+   "anchor": "you are my priestesses, the first Luperci of the new generation",
+   "offset": 28241
+  },
+  {
+   "id": "F9",
+   "fact": "两人持自行车链条在 Flesh 街头抽打路人：被抽中者想起少年贝斯、《星球大战》、Diaz 学校旧事",
+   "anchor": "They laugh like madwomen.",
+   "offset": 31680
+  },
+  {
+   "id": "F10",
+   "fact": "书店：Dal Mare 以「疫苗」论谈出版（微量越轨维持秩序），用 Flesh 语言致辞、用 Enchantment 语言下令（Angela 是活饵，杀她者喂角鲨）",
+   "anchor": "They are vaccines",
+   "offset": 34667
+  },
+  {
+   "id": "F11",
+   "fact": "混战：Giada 被海盗棍棒打倒；Wendy 杀该海盗，把 Aldo Miglio 吊上夜空后松手摔死",
+   "anchor": "And she lets go.",
+   "offset": 47174
+  },
+  {
+   "id": "F12",
+   "fact": "决斗：Hook 以「这不是你的时代」压过 Pan，钩子插入其背；朋克从背后捅穿 Hook（「我是个无神论者，蠢货」），Peter 被带走撤退",
+   "anchor": "I’m an atheist, dickhead.",
+   "offset": 49158
+  },
+  {
+   "id": "F13",
+   "fact": "章末：Giada 活着，派对继续，「终结的种子已种下」",
+   "anchor": "The seeds of the end have been planted",
+   "offset": 50038
+  }
+ ],
+ "numbers": [
+  {
+   "value": "fourteen",
+   "what": "本章十四节（I–XIV）",
+   "anchor": "\nXIV\n",
+   "offset": 49507
+  },
+  {
+   "value": "15th of February",
+   "what": "Lupercalia 日期",
+   "anchor": "held on the 15th of February",
+   "offset": 2956
+  },
+  {
+   "value": "seventy / twenty years",
+   "what": "Joshua 年龄与失去性能力年数",
+   "anchor": "seventy years old",
+   "offset": 16684
+  },
+  {
+   "value": "a dozen",
+   "what": "书店里混入的海盗数",
+   "anchor": "there are a dozen",
+   "offset": 36189
+  },
+  {
+   "value": "five foot",
+   "what": "仙灵身高",
+   "anchor": "five foot, like Tinker Bell",
+   "offset": 21877
+  }
+ ],
+ "relations": [
+  {
+   "who": "Peter Pan / Faunus",
+   "what": "以 Lupercalia 为战争开幕，祝圣两女祭司",
+   "anchor": "I am the great god Pan, and I have returned",
+   "offset": 8018
+  },
+  {
+   "who": "Augusto Dal Mare / Hook",
+   "what": "以新书发布会为伏击场，Angela 是活饵",
+   "anchor": "Angela Cavaterra is coming",
+   "offset": 37659
+  },
+  {
+   "who": "朋克",
+   "what": "从背后捅穿 Hook，自称无神论者",
+   "anchor": "I’m an atheist",
+   "offset": 49158
+  }
+ ]
+}

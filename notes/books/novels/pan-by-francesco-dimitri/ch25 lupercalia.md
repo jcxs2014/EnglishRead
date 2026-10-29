@@ -6,7 +6,7 @@ modified: "2026-10-29"
 # 25. Lupercalia
 
 ## 本章导航
-- **一句话概括**：Giada 在图书馆里查到普鲁塔克说「Pan 是 demon」，把这尊神从神坛上拽下来一截；同一天夜里 Peter 在 Secret Base 完成动员演说，把 Lupercalia 搬进 Trastevere 的广场——仙灵、海盗、消防员、酒鬼与警察一起被卷进一场通宵狂欢；队伍借地铁之灵的领地举行仪式，Peter 把 Wendy 与 Giada 变成第一代女祭司，自己变回山羊神，让她们抓着自行车链条在 Flesh 的街头抽打路人，被抽中的人会想起自己被偷走的东西；与此同时 Dal Mare 在新书发布会上用「疫苗」理论谈文化、用 Enchantment 的语言给海盗下令（Angela 是活饵）；书店一战里 Giada 被警棍打倒，Wendy 第一次杀人，把 Aldo Miglio 吊上夜空再松手；Hook 的钩子插进 Pan 的背，一个朋克从背后捅穿 Hook，喊出「我是个无神论者，蠢货」；章末派对还在继续，败仗已经算清，终结的种子种下。
+- **一句话概括**：Giada 在图书馆里查到普鲁塔克说「Pan 是 demon」，把这尊神从神坛上拽下来一截；同一天夜里 Peter 在 Secret Base 完成动员演说，把 Lupercalia 搬进 Trastevere 的广场——仙灵、海盗、吐火艺人、酒鬼与警察一起被卷进一场通宵狂欢；队伍借地铁之灵的领地举行仪式，Peter 把 Wendy 与 Giada 变成第一代女祭司，自己变回山羊神，让她们抓着自行车链条在 Flesh 的街头抽打路人，被抽中的人会想起自己被偷走的东西；与此同时 Dal Mare 在新书发布会上用「疫苗」理论谈文化、用 Enchantment 的语言给海盗下令（Angela 是活饵）；书店一战里 Giada 被海盗的棍棒打倒，Wendy 第一次杀人，把 Aldo Miglio 吊上夜空再松手；Hook 的钩子插进 Pan 的背，一个朋克从背后捅穿 Hook，喊出「我是个无神论者，蠢货」；章末派对还在继续，败仗已经算清，终结的种子种下。
 - **情感弧线位置**：全书唯一一场「节日章」，也是全书最大的转折点：此前是逃亡与筹备，此后是反攻与清算。Wendy 与 Giada 的关系在本章从并肩变成公开的相爱；Michele 缺席整场战斗（他在电视前看着外公出现在新闻里），这条缺席线在下一章才收账。
 - **Tropes 兑现/反转**：Lupercalia（牧神节）作为「狂欢即仪式」的 tropes 被完整兑现：裸奔、链条抽打、山羊神、女祭司；「节日之夜」tropes 反转——派对不是逃避现实，而是战争的第一阶段；「英雄救美」tropes 被 Wendy 亲手改写：她救下 Giada 的方式是杀人和把一个老人扔下高空。
 - **人物弧线**：Giada（从考据者变成女祭司，第一次亲手打人，也第一次被警棍打倒）；Wendy（告白、杀人、复仇，从「想回家的人」变成「回不去也不打算回的人」）；Peter（神性全开却打不过 Hook，第一次在正面战场落败）；Hook（用「这不是你的时代」赢下决斗，却被一个不信神的人捅穿）；Dal Mare（不出手，只用语言与布置操控全场）；Aldo Miglio（全书最完整的「庸人」样本，死于只看得见 Flesh）。
@@ -55,13 +55,13 @@ modified: "2026-10-29"
 **中文理解**：Josh 看见少女们在安息日的狂热里脱掉衣服；有人开始吻男孩，或者（恐怖！奇迹！）互相亲吻。他沉睡的器官猛地一跳，Joshua 抓住 Mary，她由他去。
 **关键词**：frenzy, jolts, grips
 **为什么这样写**：七十岁、二十年失去性能力的 Joshua 在圣夜里被重新点亮——本书把「更新」写得既滑稽又温柔；括号里的「恐怖！奇迹！」是叙述者替读者喊出的那一声。
-**读者视角提示**：前一天是情人节，「死去的圣徒的节日」，而这对老夫妻在广场上重演了一次婚礼之夜的欲望——节日的意义由他们两人扛住。
+**读者视角提示**：前一天是情人节，「死去的灵魂的节日」，而这对老夫妻在广场上重演了一次婚礼之夜的欲望——节日的意义由他们两人扛住。
 
 ---
 
 > **原句 6:** "Wendy doesn’t answer. She’s flown, had sex with a fairy, fought pirates in another Aspect from reality. But she’s always taken for granted that sooner or later there would be a return. Sooner or later she’d take back her flat, with the neighbour who moons after her, and her work (David Copperfield, eat your heart out, I know how to fly for real) and family lunches and everything else."
 
-**中文理解**：Wendy 没有回答。她飞过，跟一个仙子做过爱，在现实的另一个面向里跟海盗打过仗。但她一直理所当然地以为迟早会有一次回归：迟早她会收回自己的公寓、那个暗恋她的邻居、她的工作（狄更斯，你羡慕去吧，我真会飞）和家庭午餐，以及别的一切。
+**中文理解**：Wendy 没有回答。她飞过，跟一个仙子做过爱，在现实的另一个面向里跟海盗打过仗。但她一直理所当然地以为迟早会有一次回归：迟早她会收回自己的公寓、那个暗恋她的邻居、她的工作（大卫·科波菲尔，你羡慕去吧，我真会飞——她指的是那位魔术师，不是狄更斯的小说）和家庭午餐，以及别的一切。
 **关键词**：flown, return, flat
 **为什么这样写**：全章的情感转折藏在内心独白里：在 Peter 那句「你还以为你回得去？」之后，Wendy 第一次承认 Flesh 的生活已经结束——这比任何战斗都更像「入伙」。
 **读者视角提示**：紧接着她对自己说「停下来想，就等于承认那种生活永远结束了」——作者用一句被截断的内心话完成了她的转身。
@@ -124,7 +124,7 @@ modified: "2026-10-29"
 
 > **原句 13:** "Hook parries the blow. He lands a strike with his stick on the back of Pan’s neck, sending him to the ground. “But I am stronger. Soon you will be gone, and Enchantment with you.” He plunges the hook into Pan’s back, drawing out a scream."
 
-**中文理解**：Hook 挡开这一击。他用钩子手柄击打 Pan 的后颈，把他打倒。「但我更强。很快你就会消失，魅惑也会随你而去。」他把钩子插进 Pan 的背，拽出一声惨叫。
+**中文理解**：Hook 挡开这一击。他用手里的象牙手杖击打 Pan 的后颈，把他打倒。「但我更强。很快你就会消失，魅惑也会随你而去。」他把钩子插进 Pan 的背，拽出一声惨叫。
 **关键词**：stronger, hook, scream
 **为什么这样写**：胜负被写成一句神学判断：不是谁更会打，而是谁属于这个时代；钩子插进的是「构成 Pan 身体的神性物质」，这一击是本体性的，不只是外伤。
 **读者视角提示**：此前 Hook 说「这不是你的时代，人们不想要魅惑，他们在 Flesh 里很快乐」，Pan 回「那是没有火的生活」——两种价值观在刀刃上对撞。
@@ -193,4 +193,4 @@ modified: "2026-10-29"
 | priestesses | 女祭司 | you are my priestesses, the first Luperci of the new generation. |
 
 ## 一句话总结
-图书馆里的一句考据（Pan 是 demon）给 Giada 递上了弑神的许可证；Trastevere 的广场上，Peter 把 Lupercalia 办成了一场裹着狂欢外衣的战争——裸女、链条、仙灵、海盗与警察同处一地，被链条抽中的人想起自己少年时的贝斯与电影。仪式之后是书店里的混战：Giada 被警棍打倒，Wendy 第一次杀人、把 Aldo Miglio 吊上夜空再松手；Hook 用「这不是你的时代」把 Pan 打穿，一个朋克用「我是无神论者」把 Hook 捅穿。派对没有停，败仗已经算清，终结的种子种下了。
+图书馆里的一句考据（Pan 是 demon）给 Giada 递上了弑神的许可证；Trastevere 的广场上，Peter 把 Lupercalia 办成了一场裹着狂欢外衣的战争——裸女、链条、仙灵、海盗与警察同处一地，被链条抽中的人想起自己少年时的贝斯与电影。仪式之后是书店里的混战：Giada 被海盗的棍棒打倒，Wendy 第一次杀人、把 Aldo Miglio 吊上夜空再松手；Hook 用「这不是你的时代」把 Pan 打穿，一个朋克用「我是无神论者」把 Hook 捅穿。派对没有停，败仗已经算清，终结的种子种下了。
