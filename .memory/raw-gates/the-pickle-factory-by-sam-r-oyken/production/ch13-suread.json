@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch13",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch13_in_which_kray_has_coffee_with_the_ghost_of_cia_past.txt",
+ "facts": [
+  {
+   "fact": "KRAY 在回到电脑屏幕前，顺路去总部星巴克买一杯 Tall Bold With Room。",
+   "anchor": "KRAY, hands scrubbed clean, decided to stop by the Headquarters Starbucks for a Tall Bold With Room before heading back to his computer screen",
+   "start": 57,
+   "end": 199
+  },
+  {
+   "fact": "小个子男人自称 Howard W. BUTTONFLY，化名 Pseudo's BUTTONFLY。",
+   "anchor": "“Pseudo’s BUTTONFLY,” he said. “Howard W. BUTTONFLY.”",
+   "start": 1232,
+   "end": 1285
+  },
+  {
+   "fact": "KRAY 说自己即将满十年，此前主要以外派单干身份在远处看总部。",
+   "anchor": "I’m coming up on ten years. But I’ve been out mainly as a singleton, looking at Headquarters from far away through a telescope",
+   "start": 2566,
+   "end": 2692
+  },
+  {
+   "fact": "BUTTONFLY 说 CIA 已变成附带情报收集机构的官僚体制。",
+   "anchor": "We turned into a bureaucracy with an intelligence collection outfit attached to it as an appendage",
+   "start": 4694,
+   "end": 4792
+  },
+  {
+   "fact": "BUTTONFLY 1963 年报到的第一天就被 McCone 局长派往加州 Burbank 参与 OXCART 项目。",
+   "anchor": "As soon as I showed up at Headquarters for my first day on the job back in ’63, Director McCone sent me off to Burbank, California",
+   "start": 9894,
+   "end": 10024
+  },
+  {
+   "fact": "KRAY 的部门主管是 Ignatius Q. HECKFETTER。",
+   "anchor": "“My Division Chief. Ignatius Q. HECKFETTER.”",
+   "start": 14106,
+   "end": 14150
+  },
+  {
+   "fact": "BUTTONFLY 认为 CIA 百分之九十三的员工不应动。",
+   "anchor": "Nothing should be done with ninety-three percent of the Agency’s workforce.",
+   "start": 17880,
+   "end": 17955
+  },
+  {
+   "fact": "KRAY 说这是他在 CIA 以来与同事最好的一次谈话。",
+   "anchor": "this has been the single best conversation I’ve had with a colleague since I joined CIA",
+   "start": 22975,
+   "end": 23062
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch12",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch12_in_which_evershag_the_hr_lady_explains_that_hr_is_here_to_help.txt",
+ "facts": [
+  {
+   "fact": "本章开场：EVERSHAG 坐在杂乱难寻的办公室里，用毫无表情的眼睛盯着 KRAY。",
+   "anchor": "EVERSHAG sat behind her cluttered desk in her cluttered, hard-to-find office, staring at KRAY with inexpressive eyes.",
+   "start": 70,
+   "end": 187
+  },
+  {
+   "fact": "EVERSHAG 告诉 KRAY，人力资源部不负责招聘，招聘归 Hiring Division 管。",
+   "anchor": "“HR doesn’t do hiring,” EVERSHAG said.",
+   "start": 946,
+   "end": 984
+  },
+  {
+   "fact": "EVERSHAG 说这是政府机构，所以没人会被解雇。",
+   "anchor": "“It’s the government nobody gets fired.”",
+   "start": 1797,
+   "end": 1837
+  },
+  {
+   "fact": "KRAY 回忆七个月前在塞浦路斯执行线人解聘：DQFLOPSWEAT/7 是希腊族塞浦路斯人，入册两年只领小额月薪，没提供过俄罗斯黑钱情报。",
+   "anchor": "DQFLOPSWEAT/7, a Greek Cypriot recruited to report on movements of Russian mob money in and out of the island, hadn’t panned out after two years on the books collecting a small monthly stipend.",
+   "start": 2105,
+   "end": 2298
+  },
+  {
+   "fact": "KRAY 自掏两百美元，把最终付款加到四百美元。",
+   "anchor": "“Look, I’ll make it four hundred,” said KRAY. “Including two hundred of my own money.",
+   "start": 4056,
+   "end": 4141
+  },
+  {
+   "fact": "EVERSHAG 说中情局十一年内换过七套不同的考核系统。",
+   "anchor": "the Agency has had seven different evaluation systems in the last eleven years",
+   "start": 7114,
+   "end": 7192
+  },
+  {
+   "fact": "EVERSHAG 当面说 KRAY 给人傲慢、居高临下的印象。",
+   "anchor": "“You come across as arrogant and condescending.”",
+   "start": 8302,
+   "end": 8350
+  },
+  {
+   "fact": "KRAY 离开时顺走了 EVERSHAG 桌上的银色拆信刀。",
+   "anchor": "KRAY walked out, admiring the silver letter opener he had purloined from EVERSHAG’s messy desk.",
+   "start": 8557,
+   "end": 8652
+  }
+ ]
+}

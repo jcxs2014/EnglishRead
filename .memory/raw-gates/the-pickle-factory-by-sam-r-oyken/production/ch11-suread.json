@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch11",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch11_in_which_kray_learns_how_agency_budgeting_works.txt",
+ "facts": [
+  {
+   "fact": "KRAY 早上八点敲 Wacker 的门。",
+   "anchor": "KRAY knocked on Wacker’s door at 8:00 a.m.",
+   "start": 52,
+   "end": 94
+  },
+  {
+   "fact": "Wacker 开门时脸颊发红。",
+   "anchor": "When Wacker opened it, his cheeks appeared flushed.",
+   "start": 275,
+   "end": 326
+  },
+  {
+   "fact": "KRAY 在文件末页写下 “TOO MUCH MONEY”。",
+   "anchor": "At the bottom of the last page, over a triple underscore, KRAY had written “TOO MUCH MONEY.”",
+   "start": 1003,
+   "end": 1095
+  },
+  {
+   "fact": "计划派出一千名 NOC 当变革人力资源顾问，预算是两百亿美元。",
+   "anchor": "we need to get out a thousand NOCs as Transformational Human Resources consultants and have twenty billion dollars to do it with",
+   "start": 1342,
+   "end": 1470
+  },
+  {
+   "fact": "Wacker 澄清两百亿是年度预算。",
+   "anchor": "Twenty billion is the annual budget.",
+   "start": 2069,
+   "end": 2105
+  },
+  {
+   "fact": "运营资金每年只有几亿美元，是零头。",
+   "anchor": "That’s small potatoes anyway, just a few hundred million a year.",
+   "start": 2246,
+   "end": 2310
+  },
+  {
+   "fact": "Wacker 让 KRAY 有 HR 问题就去找 EVERSHAG。",
+   "anchor": "If you get stuck on any HR issues, go and see EVERSHAG.",
+   "start": 3959,
+   "end": 4014
+  },
+  {
+   "fact": "KRAY 离开时听到 Wacker 在身后关门上锁。",
+   "anchor": "He heard Wacker shut and lock the door behind him.",
+   "start": 4412,
+   "end": 4462
+  }
+ ]
+}
