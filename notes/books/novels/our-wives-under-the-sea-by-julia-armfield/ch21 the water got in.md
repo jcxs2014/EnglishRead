@@ -29,7 +29,7 @@ modified: "2026-10-29"
 
 > **原句 2:** "“I’m fine,” I tell her, and she nods and continues to scratch at her arm. I’m surprised when she leans back against me, her towelling shoulder touching mine again, her head dipping into the crook of my neck and holding there."
 
-**中文理解**：她只回一句「我没事」，Leah 点头，手指继续抓自己的手臂；随后 Leah 忽然向后靠住她，浴袍的毛巾布肩头重新贴上她的肩，头低进她颈窝，停在那里不动。
+**中文理解**：她只回一句「我没事」，Leah 点头，手指继续抓自己的手臂；随后 Leah 忽然向后靠住她，浴袍的毛巾布肩头重新贴上她的肩，头低进她颈窝，停在那里不动。（紧接着她又说，自己身上「有很严重的问题」，总想起 Jelka，想起「我们在下面以为自己在做什么」；她追问那是什么意思，Leah 只摇头。）
 
 **关键词**：I’m fine / nods / towelling shoulder / crook of my neck
 

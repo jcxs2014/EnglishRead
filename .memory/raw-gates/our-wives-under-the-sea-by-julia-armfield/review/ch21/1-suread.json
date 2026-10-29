@@ -1,0 +1,141 @@
+{
+  "chapter": "ch21",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch21_miri.txt",
+  "facts": [
+    {
+      "fact": "Miri 在卧室里走动，地上积满掉发，她没打扫，因为这里已明确是 Leah 的空间；她自认一向比 Leah 整洁，回想过去自己叹气收杯子、常说“这又不难”，Leah 便道歉去放肥皂水，如今她觉得那全是浪费生命。",
+      "anchor": "I haven’t been cleaning in here – it feels so specifically Leah’s space now",
+      "start": 241,
+      "end": 316
+    },
+    {
+      "fact": "Leah 从浴室无声出来站在她身后，Miri 半转身瞥见影子吓得跳起来，脱口骂“Fucking hell”；Leah 只皱眉，走到床边坐下。",
+      "anchor": "I don’t realise that Leah has emerged from the bathroom and is standing behind me",
+      "start": 823,
+      "end": 904
+    },
+    {
+      "fact": "Leah 说独占这间卧室对 Miri 不公平、愿意换房，Miri 只说“我没事”；随后 Leah 靠上来把头埋进她颈窝，Miri 发现自己已记不起如何回应亲昵，只想哭。",
+      "anchor": "I sit beside her on the bed and let our shoulders brush",
+      "start": 1408,
+      "end": 1463
+    },
+    {
+      "fact": "Leah 说她身上“有很严重的问题”，老想着 Jelka 和“我们在下面以为自己在做什么”；Miri 追问，她只摇头不说。",
+      "anchor": "that there’s something that’s seriously wrong with me. I keep thinking about Jelka",
+      "start": 3085,
+      "end": 3167
+    },
+    {
+      "fact": "Leah 卷起袖子、解开浴袍给她看：从小腿到上臂、身侧与胸口，皮肤由白转蓝再转绿，像浮在肉体表面；Miri 说该带她看医生，她几乎没反应。",
+      "anchor": "white to blue to green – her skin a drifting texture",
+      "start": 4603,
+      "end": 4655
+    },
+    {
+      "fact": "Leah 说自己感觉不好，认为“下面水太多了，我们让它进来了”；她的声音像溺水、眼里的虹膜像要溢出来、脉搏乱跳。Miri 由此想起母亲当年平伸手掌颤抖、说“我觉得不对劲”。",
+      "anchor": "that there was too much water. When we were down there. I think we let it get in",
+      "start": 5056,
+      "end": 5136
+    },
+    {
+      "fact": "Miri 把她放回浴缸，Leah 在水里显得平静些，喉腕的搏动隐去；Miri 明白这变化自她归来便已存在，并想通海不是先汹涌再平息——是表层之下的东西先动，才引起上面的连锁反应。",
+      "anchor": "this change, this dragging tide beneath her surface",
+      "start": 6760,
+      "end": 6811
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miri–Leah",
+      "kind": "同居伴侣（恋人/妻子），Leah 归来后两人分睡，日常亲昵已变得难以回应。",
+      "anchor": "“I’m fine,” I tell her, and she nods and continues to scratch at her arm",
+      "start": 2348,
+      "end": 2420
+    },
+    {
+      "pair": "Miri–Leah",
+      "kind": "照护者与被照护者：她替 Leah 擦血、扶住她吐水，触碰多带着处置性质。",
+      "anchor": "blood mopped up and hair held back as she vomited water",
+      "start": 2770,
+      "end": 2825
+    },
+    {
+      "pair": "Leah–Jelka",
+      "kind": "一同“在下面”的同伴；Jelka 下落未明，Leah 反复想到她，语气里带着自责与困惑。",
+      "anchor": "I keep thinking about what we thought we were doing down there",
+      "start": 3169,
+      "end": 3231
+    },
+    {
+      "pair": "Miri–母亲",
+      "kind": "母女；母亲曾双手平伸、颤抖不止、说自己“觉得不对劲”，Miri 当时想扑上去抱住她。",
+      "anchor": "The tremor that wouldn’t subside when she willed it",
+      "start": 5399,
+      "end": 5450
+    },
+    {
+      "pair": "Miri–Jelka",
+      "kind": "只是听 Leah 提起的名字：Miri 不知道她在说什么，信息被 Leah 的摇头截断。",
+      "anchor": "“What are you talking about?” I say, but she only shakes her head",
+      "start": 3236,
+      "end": 3301
+    }
+  ],
+  "numbers": [
+    {
+      "value": "一会儿／一分钟（for a minute）",
+      "anchor": "where I stand for a minute, picking things up",
+      "start": 73,
+      "end": 118
+    },
+    {
+      "value": "一只手臂（one arm）",
+      "anchor": "scratching idly at the inside of one arm",
+      "start": 1872,
+      "end": 1912
+    },
+    {
+      "value": "归来最初那几周（the first long weeks of her return）",
+      "anchor": "in the first long weeks of her return",
+      "start": 4084,
+      "end": 4121
+    },
+    {
+      "value": "小腿中段到大腿上部（mid-calf to upper thigh）",
+      "anchor": "Now, from mid-calf to upper thigh, along her sides",
+      "start": 4411,
+      "end": 4461
+    },
+    {
+      "value": "前臂中段（mid-forearm）",
+      "anchor": "along her sides and then across her breasts and up along her arms to mid-forearm",
+      "start": 4446,
+      "end": 4526
+    },
+    {
+      "value": "许多个早晨（so many mornings）",
+      "anchor": "so many mornings of bleeding that have since petered out",
+      "start": 4303,
+      "end": 4359
+    },
+    {
+      "value": "Miri（叙述者名）（Miri）",
+      "anchor": "Miri.",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "value": "Leah（Miri 的伴侣）（Leah）",
+      "anchor": "I have always been neater than Leah, although in the old days",
+      "start": 379,
+      "end": 440
+    },
+    {
+      "value": "Jelka（下潜同伴，Leah 反复想起的人）（Jelka）",
+      "anchor": "Jelka. I keep thinking about what we thought we were doing",
+      "start": 3162,
+      "end": 3220
+    }
+  ]
+}
