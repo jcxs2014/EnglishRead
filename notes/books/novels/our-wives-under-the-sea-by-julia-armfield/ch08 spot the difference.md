@@ -31,7 +31,7 @@ modified: "2026-10-29"
 
 **中文理解**：这一切她都想到了，但只在一个「隔开」的距离上想到：就像出门时忘了关灯——不幸，但算不上灾难。她记得的不是「我们会死」，而是「我们回不去了」；不是「我们能修好」，而只是「接下来会怎样」。
 
-**关键词**：at a kind of remove / hardly a disaster / come back up again / what would happen next
+**关键词**：dispassionate realisation / hardly a disaster / come back up again / what would happen next
 
 **为什么这样写**：全章最狠的一句在这里：恐惧被写成一次疏忽的记账。作者用「忘了关灯」这种家居级的小失误来类比舱体外壳可能被六英里海水压裂，落差本身就是恐怖——不是她不怕，而是她的怕被翻译成了一种平静。两个 I don’t remember 的排比把「死」与「修好」都否定掉，只剩「回不去」和「接下来」：一个已经发生，一个还没发生，中间没有救援的位置。
 

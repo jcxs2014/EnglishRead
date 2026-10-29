@@ -27,7 +27,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "We were still descending when the system went out and already too deep to evacuate. Our CO2 scrubbers, for whatever reason, appeared to have remained intact, but with no way to control the ballast tanks, there was nothing we could do but continue to drop."
+> **原句 2:** "The problem, of course, is that sending a distress call relies on your system being online, which ours was not. I remember Matteo at the comms panel, moving his hands over the console for a moment and then looking at me."
+
+**中文理解**：她把规程拆成前提来写：发求救信号这件事，取决于系统是否在线；他们的问题是系统不在线。接着才给画面——Matteo 站在通讯面板前，手在控制台上移动了一会儿，然后转头看她。
+
+**关键词**：distress call / being online / comms panel / looking at me
+
+**为什么这样写**：The problem, of course 是给结论的口气，可她给的结论不是「我们完了」，而是「前提不成立」——把灾难写成一条逻辑上的断链。后半句换成 I remember，镜头从规程移到人：手在控制台上移动是检查的动作，「然后看我」是放弃检查的动作。她没有写 Matteo 说了什么，也没有写自己怎么回应，那半秒的空白留给读者。of course 这三个词还替她说了一句：她早知道会这样。
+
+**读者视角提示**：注意这一块与前一块的分工：前一块是身体里的六十秒，这一块是身体外的流程。规程写得越像常识（越早发越好、越靠近水面越好），后面「系统不在线」这五个字就越冷。
+
+---
+
+> **原句 3:** "We were still descending when the system went out and already too deep to evacuate. Our CO2 scrubbers, for whatever reason, appeared to have remained intact, but with no way to control the ballast tanks, there was nothing we could do but continue to drop."
 
 **中文理解**：这一段只交代方位与设备：系统断电时他们还在下沉；断电时已经深到撤不出去；二氧化碳吸收器看上去还完好，但压载水舱没有控制办法，于是除了继续往下掉，做什么都无用。
 

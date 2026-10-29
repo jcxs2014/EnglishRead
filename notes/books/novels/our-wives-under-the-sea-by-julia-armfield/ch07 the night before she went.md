@@ -43,7 +43,7 @@ modified: "2026-10-29"
 
 **中文理解**：她从慈善店淘来一本人体解剖学教科书，翻着它，盼能遇到前任主人留下的批注——这是她最喜欢做的事。她念出的那一段被前主人划了线：感觉受器分三类，游离神经末梢、有被囊的神经末梢和特化细胞；而痛、热、冷，全都由游离神经末梢感知。
 
-**关键词**：notes made by previous owners / free nerve endings / specialized cells / Pain, heat, and cold
+**关键词**：three classes of sensory receptors / free nerve endings / specialized cells / Pain, heat, and cold
 
 **为什么这样写**：这一段表面是闲读，实际是给全章装了一块说明书：痛、热、冷都靠「裸露的神经末梢」感知——没有东西包着的部分最敏感。Miri 偏偏把这一句挑出来念，说明她的注意力已经被 Leah 的身体占住了。前一句「为了遇到前任主人的批注」也不白写：她习惯通过别人留在物件上的痕迹去认识一个不在场的人，而她现在正是这样面对自己的妻子。
 
@@ -55,7 +55,7 @@ modified: "2026-10-29"
 
 **中文理解**：她照例起身，拿水槽下的海绵去擦浴缸——Leah 回来之后，缸壁常结一层黏滑物，搓开有点涩，白光下泛粉。看着它，她想到满是带刺生物的潮池，用力擦掉、再放水冲走碎屑：那是某个东西留下的、像贝壳又像皮肤、也可能什么都不是的残渣。
 
-**关键词**：a scrim of some curiously viscous material / oddly gritty / pinkish / might be shell or might be skin
+**关键词**：spiny creatures / scrub at it hard / clear the debris / might be shell or might be skin
 
 **为什么这样写**：这是全章最直接的一次身体恐怖，处理得却极干净：不写「她在蜕皮」，只写一层需要擦掉的残留物，并且一次给出三种可能（壳、皮肤、别的什么）而拒绝选一个。Miri 的反应不是惊叫，是清洁——她把无法理解的东西换算成家务，这是她在这本书里最稳定的应对方式。scrub、clear、squeeze、stow 四个动作连成一串，节奏像日常，越日常越冷。
 
@@ -67,7 +67,7 @@ modified: "2026-10-29"
 
 **中文理解**：母亲临终前，Miri 想把她搬离原来的地方，想让她离开那扇每天早晨涌进房间的、开阔明亮的海景——因为在当时的她看来，那景色正把母亲逼疯。
 
-**关键词**：too much sky / wished her away / wide bright vista / undeniably mad
+**关键词**：spilled into her room / wished her away / wide bright vista / undeniably mad
 
 **为什么这样写**：这段忽然插进来，把「海」从 Leah 的故事挪进 Miri 自己的来处：她的母亲也住在海边，也被过量的天空推到了某种失控。于是海在这本书里不只是一处地点，而是反复出现在两个女人生命里的同一种条件。wished her away 是双关——既想让她搬走，也想她消失；而 Miri 立刻用 as I felt at the time 把这个念头隔开，等于给内疚留了一条退路。
 
@@ -103,8 +103,8 @@ modified: "2026-10-29"
 | banal | 平庸乏味的、琐碎的 | What we’d argued about had been something banal, impossible to recall and easy enough to guess at |
 | appease | 安抚、平息 | too quick to appease and to declare ourselves the ones at fault |
 | misconstrual | 误解、曲解 | Birthday presents bore about a fifty-fifty chance of misconstrual |
-| viscous | 黏稠的 | Leah is prone to ring the bath with a scrim of some curiously viscous material |
-| gritty | 有颗粒感的、沙砾般的 | oddly gritty when rolled between finger and thumb |
+| viscous | 黏稠的 | I have found that since returning, Leah is prone to ring the bath with a scrim of some curiously viscous material, oddly gritty when rolled between finger and thumb and pinkish in the white bathroom light. |
+| gritty | 有颗粒感的、沙砾般的 | I have found that since returning, Leah is prone to ring the bath with a scrim of some curiously viscous material, oddly gritty when rolled between finger and thumb and pinkish in the white bathroom light. |
 
 ### ⭐ 常用
 

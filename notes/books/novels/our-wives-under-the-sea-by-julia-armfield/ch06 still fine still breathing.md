@@ -19,7 +19,7 @@ modified: "2026-10-29"
 
 **中文理解**：Jelka 祈祷，因为她就是那样的人；Matteo 什么也不说，只是反复检查氧气系统，每次都说他们没事、还好、还在呼吸；Leah 说自己不太确定当时在做什么。
 
-**关键词**：Jelka prayed / checked and rechecked / still fine, still breathing / not entirely sure what I did
+**关键词**：Jelka prayed / checked and rechecked / still fine, still breathing / announced every time
 
 **为什么这样写**：作者用三个并列的动作把一场灾难拆成三种性格：信神的、信仪表的、什么也不信的。Matteo 那句「fine, still fine, still breathing」三重递进像念咒，越念越短，越念越像在给自己下保证，而不是给别人。最狠的是最后一句：Leah 说自己不确定做了什么——在一屋子忙着应付的人里，她的反应是失语。这句把叙述者也放进了被观察的位置，读者因此知道她并不比另外两个人镇定，只是没有动作可做。
 

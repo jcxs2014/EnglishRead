@@ -43,7 +43,7 @@ modified: "2026-10-29"
 
 **中文理解**：Miri 已经明白，这类话并不是说给她听的，而是 Leah 停不下来的一场自我对话，问题在她脑子里某个封闭的角落被提出来。紧接着 Leah 又说：你必须明白，东西能在难以想象的条件里活得好，它们只需要一副对的皮肤。
 
-**关键词**：not really meant for me / closed-off part of her head / thrive in unimaginable conditions / the right sort of skin
+**关键词**：questions asked in some closed-off part / closed-off part of her head / thrive in unimaginable conditions / the right sort of skin
 
 **为什么这样写**："closed-off part of her head" 把听话的人从丈夫挪到了她自己内部——Miri 被降级成旁听者，这一句同时解释了上一段她为什么不接话。而 "the right sort of skin" 是全章最冷的一句：它把「活下来」的条件说成一件外衣，皮肤成了可以更换的装备，不是身体的一部分。放在这本书的语境里，这句话一半是深海生物学，一半是关于 Leah 自己的说法，但作者此刻不让任何人点破，只让 Miri 把话记下来。
 
