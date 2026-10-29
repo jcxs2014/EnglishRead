@@ -75,7 +75,31 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "The latter was a mistake – it seemed to haunt me about the flat as I tried to find a suitable place to put it, appearing at times to reflect not me but my mother’s empty house, as though on a time delay. I tapped the second knuckle of a finger lightly against the glass and it sounded like something knocking to be let in."
+> **原句 6:** "When we first moved in together, Toby and Sam helped us with the boxes and afterwards sat on the floor and drank wine and ate oven pizzas off mismatched plastic plates. Sam was wearing dungarees, which was odd, as she typically didn’t dress that way."
+
+**中文理解**：刚搬到一起住时，Toby 和 Sam 来帮忙搬箱子，之后坐在地板上喝葡萄酒，用不成套的塑料盘吃烤披萨。Sam 穿着背带裤，这有点奇怪，她平时不是这样穿的。
+
+**关键词**：first moved in together / helped us with the boxes / drank wine / mismatched plastic plates / Sam was wearing dungarees
+
+**为什么这样写**：这一段用一连串家务动作来写「开始」：搬箱、坐地板、喝酒、吃披萨。没有一句写感情，只有清单式的物：不成套的塑料盘、烤箱披萨、背带裤。Sam 那条背带裤被写成「奇怪，她平时不这么穿」，是全段唯一一处人物观察——作者让 Miri 记住朋友的衣服，而不是自己的心情，恰好说明那天的情绪被家务和热闹盖住了。
+
+**读者视角提示**：注意这段的「以后回看」语气：邻居的电视声被写成「只当它是小事」，而它后来成了常驻。
+
+---
+
+> **原句 7:** "I call the Centre to talk about the therapy bill and find that once again, I can’t get through. I put the phone down and think, in a blunt and ugly manner, that I do not have the patience for this."
+
+**中文理解**：她打电话到 Centre 想谈治疗账单，发现又一次打不通。她放下电话，以一种粗鲁而难看的想法承认：她对这件事没有耐心了。
+
+**关键词**：call the Centre / once again, I can’t get through / blunt and ugly manner / do not have the patience for this
+
+**为什么这样写**：两个句子，一句写动作（打不通），一句写念头，中间用「in a blunt and ugly manner」这个自我判词隔开——她不是在抱怨机构，而是在审判自己的不耐烦。「once again」把这次失败放进一串失败里；「I put the phone down」是个干脆的、不加修饰的收句动作，作者不给她任何解释或补救的机会。
+
+**读者视角提示**：Centre 这条线到这一章已经只剩「打不通」；注意她把不耐烦说成「ugly」，这个形容词此后会经常用在她对自己的描述上。
+
+---
+
+> **原句 8:** "The latter was a mistake – it seemed to haunt me about the flat as I tried to find a suitable place to put it, appearing at times to reflect not me but my mother’s empty house, as though on a time delay. I tapped the second knuckle of a finger lightly against the glass and it sounded like something knocking to be let in."
 
 **中文理解**：那句「the latter was a mistake」里的东西，要读到后半句「reflect not me」才认得出是镜子。它像在公寓里到处跟着她，她找不到合适的地方安置，有时映出的不是她，而是母亲空掉的房子，仿佛隔着一段时间差。她用食指第二个指节轻轻敲了敲玻璃，听上去像有谁在敲门，要求进来。
 
@@ -87,7 +111,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "In the candle-dark, then, we got married, and came out afterwards to gentle rain and no plans for the rest of the day, which felt like a miracle. Leah suggested we find something to eat and walked us over the road to a place that sold burgers, her hand in my hand like something obvious, something grown from the fabric of my own body and pressing out."
+> **原句 9:** "In the candle-dark, then, we got married, and came out afterwards to gentle rain and no plans for the rest of the day, which felt like a miracle. Leah suggested we find something to eat and walked us over the road to a place that sold burgers, her hand in my hand like something obvious, something grown from the fabric of my own body and pressing out."
 
 **中文理解**：就在那样的烛光暗里，她们结了婚；出来时下着细雨，那天剩下的时间没有任何安排，这件事感觉像个奇迹。Leah 提议去找点吃的，牵着她的手过马路，去一家卖汉堡的店；那只手握在她手里像一件理所当然的事，像从她自己身体的组织里长出来、正往外顶。
 

@@ -1,0 +1,208 @@
+{
+ "chapter": "ch23",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch23_miri.txt",
+ "facts": [
+  {
+   "fact": "多年前，Leah 带 Miri 连去两家酒吧、看深夜场烂片（六十年代怪兽惊悚片），黑暗中两人接吻，Miri 脱口说“我觉得你很完美”。",
+   "anchor": "Leah took me out to a bar and then to another bar and then to a late-night movie",
+   "start": 43,
+   "end": 123
+  },
+  {
+   "fact": "午夜出门后 Leah 把外套给 Miri、话说到“一切都再也不会一样”，Miri 说“这讲不通”，Leah 就在街上吻了她。",
+   "anchor": "That makes no sense, I told her, and she kissed me in the street.",
+   "start": 1554,
+   "end": 1619
+  },
+  {
+   "fact": "治疗师寄来 Leah 缺席那次的账单并询问是否继续；The Centre 只肯为出席的场次付钱。Leah 在泡澡，门没锁——这是新变化。",
+   "anchor": "The therapist sends us a bill for the session Leah missed and a note requesting clarity",
+   "start": 1626,
+   "end": 1713
+  },
+  {
+   "fact": "浴缸边的对话里 Leah 拒绝看医生，坚称“不会变糟”“我今天基本还好”；她语气通情达理却底下空冷，Miri 知道她只是被逼着说话。",
+   "anchor": "“I don’t want a doctor,” she says, anticipating my suggesting it again.",
+   "start": 2311,
+   "end": 2382
+  },
+  {
+   "fact": "Miri 看着水里的 Leah，认定昨夜那个 Leah 是“我的 Leah”，而眼前这个几乎肯定不是；她生出被独自留下的巨大恐惧，随即压下，改口问要不要替她洗头。",
+   "anchor": "this one almost certainly isn’t. If I cut her, I’m not altogether sure she would bleed",
+   "start": 3576,
+   "end": 3662
+  },
+  {
+   "fact": "回忆刚同居：Toby 与 Sam 帮忙搬箱子，之后坐地上喝红酒吃烤披萨，Sam 发表“爱没什么特别、你只是还没轮到”的长论；家具多来自三个月前去世的母亲，椭圆镜像在映母亲空屋。",
+   "anchor": "Toby and Sam helped us with the boxes and afterwards sat on the floor and drank wine",
+   "start": 3880,
+   "end": 3964
+  },
+  {
+   "fact": "Miri 再打 The Centre 仍打不通，索性给泡澡的 Leah 端去一杯盐水；她坐在空房用手机查皮肤病资料，直到电池耗尽。",
+   "anchor": "I call the Centre to talk about the therapy bill and find that once again",
+   "start": 7601,
+   "end": 7674
+  },
+  {
+   "fact": "结婚只用二十分钟、进进出出；Miri 求婚时 Leah 哭了，市政厅因电钻打断电缆而停电，登记员点了电池蜡烛，两人冒着细雨出来。",
+   "anchor": "Getting married was easy – twenty minutes, in and out.",
+   "start": 8181,
+   "end": 8235
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Miri–Leah",
+   "kind": "伴侣／妻子：本章的“我们”，一方在异变，一方在旁守看",
+   "anchor": "In the dark, I kissed her and she tasted like popcorn.",
+   "start": 622,
+   "end": 676
+  },
+  {
+   "pair": "Miri–Toby",
+   "kind": "朋友（帮忙搬家的好友），说话没遮拦",
+   "anchor": "Do you think, Toby said over the pizza, that this is your forever place?",
+   "start": 6550,
+   "end": 6622
+  },
+  {
+   "pair": "Miri–Sam",
+   "kind": "朋友／Toby 的妻子，搬家帮手，爱发议论",
+   "anchor": "Sam snorted, leant back on her elbows and surveyed me upside down.",
+   "start": 6832,
+   "end": 6898
+  },
+  {
+   "pair": "Toby–Sam",
+   "kind": "夫妻（Sam 自称有“母老虎妻子”，Toby 向她要“永远的家”）",
+   "anchor": "Haven’t I got a bitch of a wife? she said, and laughed.",
+   "start": 6899,
+   "end": 6954
+  },
+  {
+   "pair": "Miri–Carmen",
+   "kind": "朋友／熟人，对 Miri 主动求婚感到吃惊，随即用力拥抱道贺",
+   "anchor": "I didn’t mean that the way it came out, she said, I meant to say congratulations",
+   "start": 8526,
+   "end": 8606
+  },
+  {
+   "pair": "Miri–母亲",
+   "kind": "母女，母亲已于三个月前去世，遗下的家具与镜子跟着 Miri 进了新家",
+   "anchor": "Much of the furniture we had was my mother’s.",
+   "start": 5648,
+   "end": 5693
+  }
+ ],
+ "numbers": [
+  {
+   "value": "多年前（Years ago）",
+   "anchor": "Years ago, when we were still new, Leah took me out to a bar and then",
+   "start": 8,
+   "end": 77
+  },
+  {
+   "value": "六十年代（a sixties thriller）",
+   "anchor": "The movie was a sixties thriller; the mutineering crew of a tramp steamer",
+   "start": 178,
+   "end": 251
+  },
+  {
+   "value": "午夜（midnight）",
+   "anchor": "We came back out into the open air around midnight and Leah gave me her coat",
+   "start": 780,
+   "end": 856
+  },
+  {
+   "value": "三个月前（three months previously）",
+   "anchor": "She had died three months previously and people were still not past the point of tilting their heads",
+   "start": 5694,
+   "end": 5794
+  },
+  {
+   "value": "三个平板书架中的两个（two of the three flat-pack bookcases）",
+   "anchor": "still had to construct two of the three flat-pack bookcases we had bought in a panic",
+   "start": 4550,
+   "end": 4634
+  },
+  {
+   "value": "第二瓶红酒（a second bottle of wine）",
+   "anchor": "Toby uncorked a second bottle of wine, told a long story about running into Poppy",
+   "start": 4704,
+   "end": 4785
+  },
+  {
+   "value": "二十分钟（twenty minutes）",
+   "anchor": "Getting married was easy – twenty minutes, in and out.",
+   "start": 8181,
+   "end": 8235
+  },
+  {
+   "value": "一半（half of it）",
+   "anchor": "drinks half of it down in a way which makes me feel vaguely nauseated",
+   "start": 7926,
+   "end": 7995
+  },
+  {
+   "value": "Miri（章节标题，叙述者名）",
+   "anchor": "Miri.\n\n\nYears ago, when we were still new,",
+   "start": 0,
+   "end": 42
+  },
+  {
+   "value": "Leah（人名）",
+   "anchor": "Leah is in the bath when I get the invoice, though she has left the door unlocked",
+   "start": 1853,
+   "end": 1934
+  },
+  {
+   "value": "Toby（人名）",
+   "anchor": "Toby tied a bandana around his forehead, made a jokingly chivalrous point of carrying the heaviest pieces",
+   "start": 4098,
+   "end": 4203
+  },
+  {
+   "value": "Sam（人名）",
+   "anchor": "Sam was wearing dungarees, which was odd, as she typically didn’t dress that way",
+   "start": 4016,
+   "end": 4096
+  },
+  {
+   "value": "Poppy（人名）",
+   "anchor": "told a long story about running into Poppy at the train station, about all the issues",
+   "start": 4743,
+   "end": 4828
+  },
+  {
+   "value": "Dan（Poppy 的男友，人名）",
+   "anchor": "about all the issues she seemed to be having with her boyfriend Dan",
+   "start": 4808,
+   "end": 4875
+  },
+  {
+   "value": "Carmen（人名）",
+   "anchor": "Carmen said she was quite startled to know that I’d been the one to do the asking",
+   "start": 8405,
+   "end": 8486
+  },
+  {
+   "value": "The Centre（机构名）",
+   "anchor": "The Centre, apparently, are willing to bankroll sessions attended but not sessions skipped",
+   "start": 1746,
+   "end": 1836
+  },
+  {
+   "value": "Welsh dresser（威尔士碗柜）",
+   "anchor": "I had brought a Welsh dresser from my mother’s house, a wine rack, a large oval mirror",
+   "start": 5871,
+   "end": 5957
+  },
+  {
+   "value": "herbs de Provence（普罗旺斯香草，专名）",
+   "anchor": "mixed up my table salt with Leah’s jars of nutmeg and rosemary and herbs de Provence",
+   "start": 6323,
+   "end": 6407
+  }
+ ]
+}
