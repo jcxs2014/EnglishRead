@@ -1,0 +1,91 @@
+{
+  "chapter": "ch06",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch06_leah.txt",
+  "facts": [
+    {
+      "fact": "Jelka 在故障中祈祷，因为祈祷就是她的一贯反应",
+      "anchor": "Jelka prayed, because that was what Jelka did.",
+      "start": 8,
+      "end": 54
+    },
+    {
+      "fact": "Matteo 一言不发，只反复检查氧气系统，并每次都宣布“我们没事，仍然没事，仍在呼吸”",
+      "anchor": "Matteo said nothing, only checked and rechecked the oxygen systems and announced every time that we were fine, still fine, still breathing.",
+      "start": 55,
+      "end": 194
+    },
+    {
+      "fact": "叙述者 Leah 每隔十秒把手指按上发射键，每一次都只收到死信号",
+      "anchor": "held my finger against the transmission button at ten-second intervals and registered dead signal each time",
+      "start": 509,
+      "end": 616
+    },
+    {
+      "fact": "Leah 几次想把“这不过是下潜本该做的事、有什么好担心”说出口，但终究没说",
+      "anchor": "What are we worried about, this is just what we’re supposed to be doing!",
+      "start": 401,
+      "end": 473
+    },
+    {
+      "fact": "Leah 想到触底后若无法操控压载水舱，就无法再上浮",
+      "anchor": "what would happen when we hit the bottom and couldn’t control the ballast tanks to bring us up again",
+      "start": 839,
+      "end": 939
+    },
+    {
+      "fact": "Leah 强烈地（且自觉这念头有些错位地）希望自己带了扑克牌",
+      "anchor": "that I had thought to bring a deck of cards with me",
+      "start": 1113,
+      "end": 1164
+    },
+    {
+      "fact": "灯熄灭后 Leah 尽力把视线避开车窗，想象有牙齿的深海生物在窗外窥视",
+      "anchor": "I did my best to keep my gaze away from the windows",
+      "start": 1363,
+      "end": 1414
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Jelka–Matteo",
+      "kind": "同舱同伴，同一困境下反应相反：Jelka 祈祷，Matteo 沉默检修",
+      "anchor": "Jelka prayed, because that was what Jelka did. Matteo said nothing",
+      "start": 8,
+      "end": 74
+    },
+    {
+      "pair": "Leah–Matteo",
+      "kind": "Leah 反复听到 Matteo 的“没事”通报，却仍自行每十秒验证一次死信号（依赖与不信任并存）",
+      "anchor": "announced every time that we were fine, still fine, still breathing",
+      "start": 126,
+      "end": 193
+    },
+    {
+      "pair": "Leah–Jelka",
+      "kind": "同行者；Leah 以旁观者视角记录 Jelka 的祈祷",
+      "anchor": "Jelka prayed",
+      "start": 8,
+      "end": 20
+    }
+  ],
+  "numbers": [
+    {
+      "value": "ten-second intervals",
+      "anchor": "held my finger against the transmission button at ten-second intervals",
+      "start": 509,
+      "end": 579
+    },
+    {
+      "value": "three and four hours",
+      "anchor": "anywhere between three and four hours to reach the deepest point in the ocean",
+      "start": 671,
+      "end": 748
+    },
+    {
+      "value": "three of us",
+      "anchor": "I imagined the three of us sitting at the bottom of the ocean",
+      "start": 1166,
+      "end": 1227
+    }
+  ]
+}

@@ -27,9 +27,21 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 2:** "I wondered, in a fairly distant way, what would happen when we hit the bottom and couldn’t control the ballast tanks to bring us up again. I wondered how it was that the system had cut out in all meaningful ways except when it came to the CO2 scrubbers. I wished, with a vehemence which felt vaguely misplaced, that I had thought to bring a deck of cards with me."
+> **原句 2:** "It occurred to me several times in a mildly hysterical manner that a submarine going down was not in itself a terrible thing. It occurred to me several times to say this – What are we worried about, this is just what we’re supposed to be doing! I didn’t say this, of course, only held my finger against the transmission button at ten-second intervals and registered dead signal each time."
 
-**中文理解**：她以一种相当疏离的方式琢磨：等他们触底、又无法控制压载水舱把自己带上去的时候会怎样；她强烈地、又隐约觉得不合时宜地希望自己带了副扑克来。
+**中文理解**：好几次她近乎歇斯底里地想：一艘潜艇下沉，本身并不是什么可怕的事；也好几次想说出口——我们担什么心，这不就是我们要做的事吗。当然她没说，只是每隔十秒把手指按在发射键上，每次都收到死信号。
+
+**关键词**：mildly hysterical manner / What are we worried about / ten-second intervals / registered dead signal
+
+**为什么这样写**：这一段的重心在「想说」和「没说」之间：她要说的其实是最理智的一句（下潜本来就是任务的一部分），可这句最理智的话在她嘴里变成了自我劝解，所以说不出来。说完念头，作者立刻用「当然」把话掐断，转向手指——十秒一次、每次都是死信号。动作的规律与结果的重复，替她说了那句没说的话：她不是不害怕，是没空害怕。
+
+**读者视角提示**：注意「十秒一次」这个频率——它是本章唯一一个由她主动重复的动作。到后面几章，按键、监听、等待会一再回到她手里。
+
+---
+
+> **原句 3:** "I wondered, in a fairly distant way, what would happen when we hit the bottom and couldn’t control the ballast tanks to bring us up again. I wondered how it was that the system had cut out in all meaningful ways except when it came to the CO2 scrubbers. I wished, with a vehemence which felt vaguely misplaced, that I had thought to bring a deck of cards with me."
+
+**中文理解**：她以一种相当疏离的方式琢磨：等他们触底、又无法控制压载水舱把自己带上去的时候会怎样；也琢磨系统为什么在所有要紧的地方都停了，偏偏二氧化碳吸收器还在工作；最后她强烈地、又隐约觉得不合时宜地希望自己带了副扑克来。
 
 **关键词**：when we hit the bottom / the ballast tanks / a deck of cards / vaguely misplaced
 
@@ -39,7 +51,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 3:** "The deep sea is dark, particularly when the lights on your submersible craft have cut out for reasons unknown. I did my best to keep my gaze away from the windows, thought of strange-shaped ocean creatures peering in at the three of us and smiling with all of their teeth."
+> **原句 4:** "The deep sea is dark, particularly when the lights on your submersible craft have cut out for reasons unknown. I did my best to keep my gaze away from the windows, thought of strange-shaped ocean creatures peering in at the three of us and smiling with all of their teeth."
 
 **中文理解**：深海是黑的，尤其当艇上的灯因为不明原因全部熄灭时。她尽力把目光从舷窗移开，想着那些形状古怪的海洋生物正贴着玻璃看他们三个，咧开满嘴的牙笑。
 
