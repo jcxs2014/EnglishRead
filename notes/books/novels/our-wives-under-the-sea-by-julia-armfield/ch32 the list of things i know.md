@@ -27,6 +27,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 2:** "Almost everything that lives in the ocean is also made up of the ocean, to some degree, rather like the way we inherit mitochondrial DNA from our mothers, and our cells likewise hang around in our mothers’ bloodstreams for years after we’re born."
 
 **中文理解**：第五条讲海水与河水的化学比例几乎相反，末尾忽然拐到「海里几乎一切都由海水构成」，再拐到线粒体 DNA 与母亲血液里残留的细胞。
@@ -36,6 +38,8 @@ modified: "2026-10-29"
 **为什么这样写**：这是全章最漂亮的一次跳。前半句还在讲钙与氯的比例，后半句用 `rather like` 把化学换成血缘——海与人、母与子被放进同一个「构成」的句式里。清单在这里第一次不中性了。
 
 **读者视角提示**：注意 `likewise` 与 `for years after we’re born`：她讲的是「我们身上一直留着别人的东西」，这句在几页之后会变成她自己的处境。
+
+---
 
 ---
 
@@ -51,6 +55,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 4:** "Matteo went down into the escape trunk once it had closed again, when the drain valve had expelled the residual water from the compartment. I didn’t go down with him to look. When he came back, his face was odd, unpleasant."
 
 **中文理解**：Matteo在舱门关好、排水阀放掉余水之后下到逃生筒里去看；莱娅没跟下去。他上来时脸色不对，手是湿的。
@@ -63,7 +69,23 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "As he slept, I went out onto the main deck and looked towards the windows, willing something to appear and seeing nothing, the way I always saw nothing, and this briefly felt worse than the fact of what Jelka had done."
+---
+
+> **原句 5:** "His hands were wet, as though he had run them across the still-damp interior of the compartment. I went to fetch a towel from the shower stall and dried his hands for him, and afterwards I made coffee, and afterwards he fell asleep."
+
+**中文理解**：Matteo 上来时脸色古怪、两手是湿的，像是他刚摸过逃生舱里还没干的内壁。她从淋浴间拿来毛巾，替他擦干手，然后煮了咖啡，之后他睡着了。
+
+**关键词**：His hands were wet / the still-damp interior / fetch a towel from the shower stall / afterwards he fell asleep
+
+**为什么这样写**：这一段全靠「之后、之后、之后」推进：擦手、煮咖啡、他睡着。没有一句写她在想什么，可顺序本身就是反应——先处理手（湿的、别人的），再处理气味与热度（咖啡），最后对方终于不省人事。`as though he had run them across` 是关键限定：她不知道他摸过什么，只能从湿度反推，这正是全章「只知道痕迹、不知道事实」的缩影。
+
+**读者视角提示**：他下舱之后**没有汇报**，她也没问。注意 `I didn’t go down with him to look` 一句在前——她留在了外面。
+
+---
+
+---
+
+> **原句 6:** "As he slept, I went out onto the main deck and looked towards the windows, willing something to appear and seeing nothing, the way I always saw nothing, and this briefly felt worse than the fact of what Jelka had done."
 
 **中文理解**：他睡着后，她走到主甲板上朝窗户看，想让什么东西出现，结果什么也没看见——和往常一样；而这种空等，短暂地比「Jelka做过的事」更让她难受。
 
@@ -75,7 +97,9 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "Later on, I found St Brendan of Clonfert in my bunk again and I held him up underneath the kitchen lights to look at him, his sculpted beard and the miniature galleon he cradled in one arm."
+---
+
+> **原句 7:** "Later on, I found St Brendan of Clonfert in my bunk again and I held him up underneath the kitchen lights to look at him, his sculpted beard and the miniature galleon he cradled in one arm."
 
 **中文理解**：后来她又在铺位上发现圣布伦丹的小像，举到厨房灯下看：雕出来的胡须，怀里抱着的微型帆船。
 
@@ -87,7 +111,23 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "He travels for months on end, encountering demons, sea monsters, every kind of creature you can imagine, and then one night he comes upon a man chained to a pillar of rock, in the middle of the sea – just there, just there in the ocean like this great, tall fang rising from the waves, this thing that shouldn’t be there, a man at the mercy of the elements."
+---
+
+> **原句 8:** "He travels for months on end, encountering demons, sea monsters, every kind of creature you can imagine, and then one night he comes upon a man chained to a pillar of rock, in the middle of the sea – just there, just there in the ocean like this great, tall fang rising from the waves, this thing that shouldn’t be there, a man at the mercy of the elements."
+
+**中文理解**：圣布伦丹在海上走了几个月，遇见恶魔、海怪、各种想得到的生物；某一夜他撞见一个人被锁在石柱上，就在海中央——就在那儿，在海水里像一根高高竖起的獠牙，一个本不该在那里出现的东西，一个任凭风浪摆布的人。
+
+**关键词**：travels for months on end / a man chained to a pillar of rock / like this great, tall fang / this thing that shouldn’t be there / at the mercy of the elements
+
+**为什么这样写**：这是 Jelka 多年前讲的故事，被转述进本章。作者让句子越走越长：先群像（魔鬼、海怪、各种生物），再收束到一个具体的人；`just there, just there` 重复两次，模仿当场指给人看的手势。`like this great, tall fang rising from the waves` 与 `shouldn’t be there` 把「不该出现的东西」写成一个可见的形状——正是本章标题所说、她列不出却一直在找的那种东西。
+
+**读者视角提示**：被锁在石柱上的是犹大。记住「星期日与圣日可以暂离」这个条件，它会在本章结尾与「声音里的那个人」对上。
+
+---
+
+---
+
+> **原句 9:** "He travels for months on end, encountering demons, sea monsters, every kind of creature you can imagine, and then one night he comes upon a man chained to a pillar of rock, in the middle of the sea – just there, just there in the ocean like this great, tall fang rising from the waves, this thing that shouldn’t be there, a man at the mercy of the elements."
 
 **中文理解**：布伦丹渡海的夜里撞见海中一根石柱，柱上锁着一个人——出卖耶稣的犹大。这一段把那根柱子写成从浪里升起的一颗巨牙。
 
@@ -99,7 +139,9 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 8:** "At some point, the sound started up again, only this time, when it did, I heard the voice inside it. I mean by this, of course, that I heard the voice that Jelka had told us about, the voice I hadn’t heard before, the voice she had claimed couldn’t possibly be a ghost."
+---
+
+> **原句 10:** "At some point, the sound started up again, only this time, when it did, I heard the voice inside it. I mean by this, of course, that I heard the voice that Jelka had told us about, the voice I hadn’t heard before, the voice she had claimed couldn’t possibly be a ghost."
 
 **中文理解**：那声音又响起来了，这一次她听见了里面的「人声」——正是Jelka说过的那种、她此前没听见过的、Jelka坚称不可能是鬼的声音。
 

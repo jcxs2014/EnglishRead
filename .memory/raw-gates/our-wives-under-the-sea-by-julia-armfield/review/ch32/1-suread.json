@@ -1,0 +1,207 @@
+{
+ "chapter": "ch32",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch32_leah.txt",
+ "facts": [
+  {
+   "fact": "马泰奥（Matteo）在舱门重新闭合、排水阀把舱内残水排空之后，独自下到逃生舱（escape trunk）查看；莉娅没有跟他下去看。",
+   "anchor": "when the drain valve had expelled the residual water from the compartment",
+   "start": 2656,
+   "end": 2729
+  },
+  {
+   "fact": "马泰奥上来后脸色古怪而难看，双手湿着，像是抹过舱内还湿的内壁；莉娅去淋浴间拿了毛巾替他擦干手，又煮了咖啡，随后他睡着了。",
+   "anchor": "I went to fetch a towel from the shower stall and dried his hands",
+   "start": 2912,
+   "end": 2977
+  },
+  {
+   "fact": "趁他睡着，莉娅走上主甲板朝舷窗张望，一心盼着有什么东西出现，却什么也没看见；这种“什么都没有”的感觉，一时竟比“耶尔卡做过的事”这一事实更让她难受。",
+   "anchor": "this briefly felt worse than the fact of what Jelka had done",
+   "start": 3205,
+   "end": 3265
+  },
+  {
+   "fact": "莉娅又在自己的铺位上找到圣布伦丹（St Brendan of Clonfert）小雕像，举到厨房灯下细看他的雕须和他一臂抱着的微型帆船。",
+   "anchor": "I found St Brendan of Clonfert in my bunk again and I held him up underneath the kitchen lights",
+   "start": 3279,
+   "end": 3374
+  },
+  {
+   "fact": "她由此想起多年前出任务时，耶尔卡连着好几晚给她讲圣布伦丹的远航：圣徒在海上遇见被锁在石柱上的犹大，得知犹大因主的怜悯而在星期日与圣日暂离地狱之苦、被放逐到海上吹风；圣布伦丹陪了他一整夜才继续上路。",
+   "anchor": "the trials of St Brendan, recounted over any number of nights on assignment years ago",
+   "start": 3512,
+   "end": 3597
+  },
+  {
+   "fact": "本章开场她列出五条自己“觉得相当有趣”的知识（潮汐成因、七海一说的出处、海底文物、尼亚加拉瀑布的形成、海水与河水的化学成分差异），随后承认这些都不重要：她原以为知道得够多就能免于“无知带来的恐慌”，如今明白永远学不到足以自保。",
+   "anchor": "you can never learn enough to protect yourself, not really",
+   "start": 2525,
+   "end": 2583
+  },
+  {
+   "fact": "结尾那声音又响起来，而这一次莉娅听见了声音里面的“人声”——正是耶尔卡讲过的那个声音，她此前从未听见，而耶尔卡曾断言那不可能是一个鬼。",
+   "anchor": "the sound started up again, only this time, when it did, I heard the voice inside it",
+   "start": 4652,
+   "end": 4736
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Leah–Matteo",
+   "kind": "同一条深潜艇上的船员/同伴（推断：本章只写她为他擦手、煮咖啡、守他入睡，未明说职务与亲疏）",
+   "anchor": "His hands were wet, as though he had run them across the still-damp interior",
+   "start": 2815,
+   "end": 2891
+  },
+  {
+   "pair": "Leah–Jelka",
+   "kind": "同船船员/旧日任务搭档；耶尔卡已死，且做过某件让莉娅难以面对的事，曾长夜给她讲圣布伦丹的传说",
+   "anchor": "the voice that Jelka had told us about",
+   "start": 4778,
+   "end": 4816
+  },
+  {
+   "pair": "St Brendan–Judas",
+   "kind": "传说中圣徒与被罚锁在海中石柱上的犹大：圣布伦丹整夜守着他，直到他暂离苦刑的时辰结束",
+   "anchor": "St Brendan stays all night, until Judas’ respite from his torments is over",
+   "start": 4533,
+   "end": 4607
+  },
+  {
+   "pair": "Jelka–那个声音",
+   "kind": "耶尔卡是声音的转述者与断言者：她说那声音不可能是鬼；莉娅当时没听见，如今听见了",
+   "anchor": "the voice she had claimed couldn’t possibly be a ghost",
+   "start": 4851,
+   "end": 4905
+  },
+  {
+   "pair": "Leah–圣布伦丹雕像",
+   "kind": "她把小雕像收在自己铺位上、反复取出端详，当作私人的信物/寄托（推断）",
+   "anchor": "I held him up underneath the kitchen lights to look at him",
+   "start": 3331,
+   "end": 3389
+  }
+ ],
+ "numbers": [
+  {
+   "value": "第一至第五条编号清单（1–5）",
+   "anchor": "1. The tides are the natural response of water",
+   "start": 57,
+   "end": 103
+  },
+  {
+   "value": "公元前 2300 年（2300 BC）",
+   "anchor": "although it appears in various ancient Sumerian, Indian and Roman texts, apparently as far back as 2300 BC",
+   "start": 622,
+   "end": 728
+  },
+  {
+   "value": "“七海”一语（the seven seas）",
+   "anchor": "the origin of the phrase “the seven seas”",
+   "start": 579,
+   "end": 620
+  },
+  {
+   "value": "苏美尔、印度、罗马文献（Sumerian, Indian, Roman）",
+   "anchor": "in various ancient Sumerian, Indian and Roman texts",
+   "start": 642,
+   "end": 693
+  },
+  {
+   "value": "尼亚加拉瀑布及其峡谷（Niagara Falls and its gorge）",
+   "anchor": "Niagara Falls and its gorge, for example, date back to the Silurian period",
+   "start": 1056,
+   "end": 1130
+  },
+  {
+   "value": "志留纪（the Silurian period）",
+   "anchor": "date back to the Silurian period when a vast recess",
+   "start": 1098,
+   "end": 1149
+  },
+  {
+   "value": "北冰洋（the Arctic sea）",
+   "anchor": "a vast recess of the Arctic sea moved southwards",
+   "start": 1136,
+   "end": 1184
+  },
+  {
+   "value": "白云岩层（dolomite beds）",
+   "anchor": "deposited dolomite beds along what would in time become",
+   "start": 1189,
+   "end": 1244
+  },
+  {
+   "value": "尼亚加拉陡崖（the Niagara escarpment）",
+   "anchor": "along what would in time become the Niagara escarpment",
+   "start": 1213,
+   "end": 1267
+  },
+  {
+   "value": "页岩（shale）",
+   "anchor": "wearing away at the shale beneath the dolomite",
+   "start": 1379,
+   "end": 1425
+  },
+  {
+   "value": "数百万年（Millions of years）",
+   "anchor": "Millions of years later, water released from melting glaciers",
+   "start": 1269,
+   "end": 1330
+  },
+  {
+   "value": "钙约为氯化物的四倍（four times as much calcium as chloride）",
+   "anchor": "In rivers, for instance, you’re likely to find something like four times as much calcium",
+   "start": 1701,
+   "end": 1789
+  },
+  {
+   "value": "线粒体 DNA（mitochondrial DNA）",
+   "anchor": "rather like the way we inherit mitochondrial DNA from our mothers",
+   "start": 2082,
+   "end": 2147
+  },
+  {
+   "value": "圣布伦丹（St Brendan of Clonfert）",
+   "anchor": "I found St Brendan of Clonfert in my bunk again",
+   "start": 3279,
+   "end": 3326
+  },
+  {
+   "value": "犹大（Judas）",
+   "anchor": "So St Brendan calls out to him and he learns that the man is Judas",
+   "start": 4098,
+   "end": 4164
+  },
+  {
+   "value": "耶稣（Jesus）",
+   "anchor": "Judas who gave Jesus up for dead, Judas the failed apostle",
+   "start": 4167,
+   "end": 4225
+  },
+  {
+   "value": "星期日与圣日（Sundays and Holy Days）",
+   "anchor": "to free him from hell on Sundays and Holy Days",
+   "start": 4364,
+   "end": 4410
+  },
+  {
+   "value": "耶尔卡（Jelka）",
+   "anchor": "the voice that Jelka had told us about",
+   "start": 4778,
+   "end": 4816
+  },
+  {
+   "value": "马泰奥（Matteo）",
+   "anchor": "Matteo went down into the escape trunk once it had closed again",
+   "start": 2591,
+   "end": 2654
+  },
+  {
+   "value": "满月或新月时潮差最大（full or new moon）",
+   "anchor": "The difference between a high and low tide will be at its greatest",
+   "start": 286,
+   "end": 352
+  }
+ ]
+}
