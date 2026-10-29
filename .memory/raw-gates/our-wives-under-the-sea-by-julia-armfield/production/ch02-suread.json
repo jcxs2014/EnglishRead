@@ -1,0 +1,49 @@
+{
+ "book": "our-wives-under-the-sea-by-julia-armfield",
+ "chapter": "ch02",
+ "text": "notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch02_leah.txt",
+ "facts": [
+  {
+   "fact": "Leah 说直到不久之前，去过月球的人比下潜超过六千米的人还多。",
+   "anchor": "more people had been to the moon than had dived beyond depths of six thousand metres",
+   "start": 47,
+   "end": 131
+  },
+  {
+   "fact": "月球上的脚印几乎可以无限期留存；海不一样，海会把自己的痕迹盖掉。",
+   "anchor": "The ocean is different, the ocean covers its tracks",
+   "start": 418,
+   "end": 469
+  },
+  {
+   "fact": "她把下潜说成一次奇特的投降；沉下去仍然只是沉下去，溺水只需要张嘴。",
+   "anchor": "It’s a curious act of surrender, when you think about it, the act of going under",
+   "start": 1061,
+   "end": 1141
+  },
+  {
+   "fact": "Miri 从前把她沉默时的走神叫作「沉下去的念头」，用平手拍她后脑勺。",
+   "anchor": "Miri used to call these my sunken thoughts",
+   "start": 1304,
+   "end": 1346
+  },
+  {
+   "fact": "她会抓住 Miri 的手掌按住不放，再把另一只手贴到自己太阳穴，像把「保持头颅完整」交出去。",
+   "anchor": "I would often catch her palm and keep it there",
+   "start": 1598,
+   "end": 1644
+  },
+  {
+   "fact": "失联前二十分钟，Jelka 说她闻到肉味，Leah 也闻到了；Matteo 让她捏住鼻子。",
+   "anchor": "Jelka told me she thought she smelled meat",
+   "start": 2027,
+   "end": 2069
+  },
+  {
+   "fact": "通讯不像信号衰减，更像是被关掉；十分钟后整艘船的系统离线。",
+   "anchor": "the comms hadn’t faded like a wavering signal so much as been switched off",
+   "start": 3019,
+   "end": 3093
+  }
+ ]
+}

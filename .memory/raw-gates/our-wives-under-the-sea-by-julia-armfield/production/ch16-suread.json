@@ -1,0 +1,55 @@
+{
+ "book": "our-wives-under-the-sea-by-julia-armfield",
+ "chapter": "ch16",
+ "text": "notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch16_leah.txt",
+ "facts": [
+  {
+   "fact": "耶尔卡不知何时取出一尊圣布伦丹的塑料小雕像，把它放在一支火把旁边，随后在雕像前席地而坐，像凑在壁炉前取暖。",
+   "anchor": "a small plastic figurine of St Brendan of Clonfert",
+   "start": 42,
+   "end": 92
+  },
+  {
+   "fact": "她低头低得厉害，颈后一节节椎骨像白色大理石珠子那样凸出来，看上去像有什么东西要从皮肤里钻出去。",
+   "anchor": "the bulging white marbles of her vertebrae",
+   "start": 257,
+   "end": 299
+  },
+  {
+   "fact": "她说向圣徒祈求，是请圣徒替自己向上帝说情；打个比方，这在灵性上就像潜水时身边有个同伴。",
+   "anchor": "it’s like diving with a buddy",
+   "start": 744,
+   "end": 773
+  },
+  {
+   "fact": "她小时候在哈勒姆市中心的教堂当辅祭，长大后坚信教会会随时代松动，准许她受训成为神父。",
+   "anchor": "she had been an altar server at her church in central Haarlem",
+   "start": 1719,
+   "end": 1780
+  },
+  {
+   "fact": "被问海洋是否有宗教意味时，她摇头说，自己只是气得发疯，因为做不成想做的事，而在没有教堂的地方反而好受些。",
+   "anchor": "I’m fucking furious I can’t do the thing that I wanted to do",
+   "start": 2435,
+   "end": 2495
+  },
+  {
+   "fact": "她十三岁时特别迷恋荷兰神秘主义者圣莉德维娜：此人滑冰摔断肋骨后半个身子瘫痪，此后一生受病痛折磨。",
+   "anchor": "she had conceived a particular passion for Saint Lidwina",
+   "start": 3308,
+   "end": 3364
+  },
+  {
+   "fact": "圣布伦丹渡海寻找伊甸园，途中遇到魔鬼、狮鹫与海怪；另一个版本里他犯了错，天使罚他在海上漂九年。",
+   "anchor": "makes him sail for nine years",
+   "start": 5100,
+   "end": 5129
+  },
+  {
+   "fact": "潜艇里靠二十四小时值班表和明暗轮换维持作息；如今艇里没有电，昼夜节律很快会乱，几天就够。",
+   "anchor": "the circadian rhythms can swiftly begin to break down",
+   "start": 5706,
+   "end": 5759
+  }
+ ]
+}

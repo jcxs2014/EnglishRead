@@ -1,0 +1,55 @@
+{
+ "book": "our-wives-under-the-sea-by-julia-armfield",
+ "chapter": "ch20",
+ "text": "notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch20_leah.txt",
+ "facts": [
+  {
+   "fact": "叙述者开篇承认不知道这份记录写给谁看，只觉得必须把发生的事讲清楚，而难处在于很多事都发生在黑暗里。",
+   "anchor": "I don’t know who I’m writing this for, really.",
+   "start": 8,
+   "end": 54
+  },
+  {
+   "fact": "声响最初在夜里出现——所谓夜里只是白天那段随意长度过去很久之后的一段，船体最南侧忽然响起一声长长的嘎吱。",
+   "anchor": "The noise first started at night",
+   "start": 346,
+   "end": 378
+  },
+  {
+   "fact": "我早先去查看洗漱间的淋浴，发现它还能用、水在流而且没有咸味，Jelka 听说后侧身进去开水仰头。",
+   "anchor": "I had checked the shower in the wash stall",
+   "start": 841,
+   "end": 883
+  },
+  {
+   "fact": "噪声初起时 Matteo 提出可能是鲸，Jelka 反驳说鲸绝不会潜到这么深，还用手拢了拢耳际仍湿的头发。",
+   "anchor": "Matteo suggested whales",
+   "start": 1325,
+   "end": 1348
+  },
+  {
+   "fact": "我想到 Miri 以前爱看把深海怪声渲染成谜团的美国纪录片，听完我的解释还会一本正经点头说我没意思。",
+   "anchor": "Miri used to watch programmes",
+   "start": 3005,
+   "end": 3034
+  },
+  {
+   "fact": "Jelka 推开长凳走到下部舱门，用脚尖敲了敲手轮并皱眉，随后又踮脚退开站定。",
+   "anchor": "Pushing back her bench, Jelka stood",
+   "start": 3948,
+   "end": 3983
+  },
+  {
+   "fact": "逃生筒按气闸原理装设，可在此深度若打开外门，筒里的人会被水压瞬间压碎，而这次任务本就不打算派人出舱。",
+   "anchor": "as opening the outer door to deep-sea water-pressure",
+   "start": 4374,
+   "end": 4426
+  },
+  {
+   "fact": "Jelka 忽然说“别傻了”，可当时并没有人开口，说完她回到桌边坐下，把背对着那道舱门。",
+   "anchor": "Don’t be daft",
+   "start": 5072,
+   "end": 5085
+  }
+ ]
+}

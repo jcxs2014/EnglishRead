@@ -1,0 +1,55 @@
+{
+ "book": "our-wives-under-the-sea-by-julia-armfield",
+ "chapter": "ch14",
+ "text": "notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch14_leah.txt",
+ "facts": [
+  {
+   "fact": "第一人称叙述者在本章开头自陈喜欢水，却从来不算喜欢黑暗，把「深」先写成感官上的不安。",
+   "anchor": "I’ve never been particularly keen on the dark",
+   "start": 66,
+   "end": 111
+  },
+  {
+   "fact": "Jelka 指着自己的手腕说他们是在正午下潜的，可她的表坏了，指针一直停在两点四十五。",
+   "anchor": "We submerged at noon",
+   "start": 256,
+   "end": 276
+  },
+  {
+   "fact": "舱里没人明显饥饿、口渴或想睡，Leah 和 Matteo 都没有表，断电后主控台上的表盘与计时器全都无用。",
+   "anchor": "none of us were very hungry",
+   "start": 450,
+   "end": 477
+  },
+  {
+   "fact": "Matteo 说也许已经过了好几天，随即像要把耳朵里的水甩出去那样摇头，又说这话其实没什么用。",
+   "anchor": "Could have been days",
+   "start": 692,
+   "end": 712
+  },
+  {
+   "fact": "Leah 问待了这么久却什么都没看见是否奇怪，说这话时眼睛一直盯着灯，只用头示意舷窗。",
+   "anchor": "that we haven’t seen anything yet",
+   "start": 899,
+   "end": 932
+  },
+  {
+   "fact": "Matteo 的笑声在舱顶响起，像金属一样；他说盯着那支火把看几个钟头，不知道她想看见什么。",
+   "anchor": "just staring at that torch for hours",
+   "start": 1228,
+   "end": 1264
+  },
+  {
+   "fact": "深海鱼为应付黑暗与水压，从不寻常的部位长出触须，长出大得超出身形的吞食性下颚，还自己制造化学光。",
+   "anchor": "they sprout feelers from unfamiliar places",
+   "start": 1494,
+   "end": 1536
+  },
+  {
+   "fact": "叙述者收束说深海也许黑，却不能说没有生物；奇怪的是停止下沉以后，玻璃外他们一样东西也没看见。",
+   "anchor": "we had not seen a single thing beyond the glass",
+   "start": 2837,
+   "end": 2884
+  }
+ ]
+}

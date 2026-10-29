@@ -1,0 +1,55 @@
+{
+ "book": "our-wives-under-the-sea-by-julia-armfield",
+ "chapter": "ch04",
+ "text": "notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch04_leah.txt",
+ "facts": [
+  {
+   "fact": "开篇一句把恐慌称作氧气的误用；紧接着说潜水第一课学的是如何呼吸，而这正是每个人最先学会的事。",
+   "anchor": "Panic is a misuse of oxygen",
+   "start": 8,
+   "end": 35
+  },
+  {
+   "fact": "控制台指示灯熄灭时，她把呼吸屏住整整六十秒，同时想着自己肺的样子，原文把它写成湿的翅膀的形状。",
+   "anchor": "I held my breath for a full sixty seconds",
+   "start": 130,
+   "end": 171
+  },
+  {
+   "fact": "原文说她想到北欧神话里的一种做法：把肋骨从脊柱上割开，再把肺从背后取出，好让受刑的人据说还能呼吸。",
+   "anchor": "severing of the ribs from the spinal column",
+   "start": 274,
+   "end": 317
+  },
+  {
+   "fact": "她自己也承认这在活人身上做不到：肺离开身体不工作，就算能工作，受刑的人大概也会休克并自行停止呼吸。",
+   "anchor": "the lungs wouldn’t function outside of the body",
+   "start": 679,
+   "end": 726
+  },
+  {
+   "fact": "她明说不知道为什么要提这件事，只因为这就是从系统死掉到她能吸下一口气之间那六十秒里她想的东西。",
+   "anchor": "this is what I thought about in the sixty seconds",
+   "start": 1036,
+   "end": 1085
+  },
+  {
+   "fact": "她补一句说那时他们多少还在照规程走；潜艇沉没其实很少见，但规程里备着这种情形，最要紧的一条是立刻发求救信号。",
+   "anchor": "we were still following protocol",
+   "start": 1373,
+   "end": 1405
+  },
+  {
+   "fact": "问题在于发求救信号要靠系统在线，而他们的系统不在线；她记得 Matteo 在通讯面板上摸了一下，然后抬头看她。",
+   "anchor": "sending a distress call relies on your system being online",
+   "start": 1863,
+   "end": 1921
+  },
+  {
+   "fact": "系统断电时他们还在下沉，而且已经深到没法撤离；吸收器看着完好，但压载水舱控制不了，只能继续往下掉。",
+   "anchor": "nothing we could do but continue to drop",
+   "start": 2609,
+   "end": 2649
+  }
+ ]
+}

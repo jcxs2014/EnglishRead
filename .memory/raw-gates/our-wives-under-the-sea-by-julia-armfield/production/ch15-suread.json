@@ -1,0 +1,55 @@
+{
+ "book": "our-wives-under-the-sea-by-julia-armfield",
+ "chapter": "ch15",
+ "text": "notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch15_miri.txt",
+ "facts": [
+  {
+   "fact": "治疗师开口就说两个人听得都不够仔细，Miri 认定这句是在讲她，一开口辩白又被判成好斗，练习只能从头再来一遍。",
+   "anchor": "I don’t think that either of you are listening hard enough.",
+   "start": 49,
+   "end": 108
+  },
+  {
+   "fact": "电话那头把 Leah 的变化叫作「重新上浮故障」，说长时间下潜什么问题都可能冒出来，语气轻快得让追问的 Miri 觉得自己不识趣。",
+   "anchor": "We call it the resurfacing glitch",
+   "start": 868,
+   "end": 901
+  },
+  {
+   "fact": "罗夏墨迹卡上 Miri 报精灵、冰淇淋勺和辣酱卷饼，还质疑测验早被推翻，Leah 盯着每张卡只说看见眼睛，一只又一只。",
+   "anchor": "is an eye, and an eye and an eye and an eye and an eye.",
+   "start": 1321,
+   "end": 1376
+  },
+  {
+   "fact": "治疗师要两人互相提问，Miri 把问题写在索引卡上再折起来藏好，写的是「他们早说过会这样，你为什么还去」和「下面什么值得你不回来」。",
+   "anchor": "I write my questions on index cards",
+   "start": 2183,
+   "end": 2218
+  },
+  {
+   "fact": "早上很难把 Leah 劝出门，她说布料贴着皮肤就疼；回家后 Miri 在靴子里发现一整片脱落的脚趾甲，Leah 不觉，Miri 往水里加了一勺食盐。",
+   "anchor": "a toenail has come clean off inside her walking boots",
+   "start": 2953,
+   "end": 3006
+  },
+  {
+   "fact": "Sam 提着锡纸包的热鸡上门，说自己在网上查过减压病：压力下降时氮气泡在血液和组织里生成，会引起头晕、皮疹、疲劳、失忆甚至性情改变。",
+   "anchor": "decompression sickness",
+   "start": 4202,
+   "end": 4224
+  },
+  {
+   "fact": "Miri 独自在浴室擦浴缸边，海绵刮下的污垢发粉、比前几周更稠，她说不出这和 Leah 有没有关系，也分不清是蜕皮还是瓦解。",
+   "anchor": "the scrim that comes away with each stroke is pinkish",
+   "start": 5847,
+   "end": 5900
+  },
+  {
+   "fact": "那天在核电站旁的海滩，Leah 教她「海肺」这个水手老词：气温骤降时海面结起一层薄冰，远看像能走上去的平台，踩上去就会塌。",
+   "anchor": "“sea lung” was an ancient term once used by sailors",
+   "start": 8342,
+   "end": 8393
+  }
+ ]
+}

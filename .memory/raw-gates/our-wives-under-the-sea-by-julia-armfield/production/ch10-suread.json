@@ -1,0 +1,55 @@
+{
+ "book": "our-wives-under-the-sea-by-julia-armfield",
+ "chapter": "ch10",
+ "text": "notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch10_leah.txt",
+ "facts": [
+  {
+   "fact": "叙述者回忆十二岁时第一次读到挑战者深渊，称它是当时已知海洋最深处，位于西太平洋马里亚纳海沟的一端。",
+   "anchor": "I remember when I was twelve and I first read about the Challenger Deep",
+   "start": 8,
+   "end": 79
+  },
+  {
+   "fact": "一九六〇年特里雅斯特号由皮卡尔与沃尔什驾驶下潜近五小时，只在海底待了二十分钟，据报因舷窗外窗下潜时开裂。",
+   "anchor": "took almost five hours, resulted in a grand total of twenty minutes spent on the ocean floor",
+   "start": 440,
+   "end": 532
+  },
+  {
+   "fact": "她从父亲书架上反复抽走的那本书内封被父亲印上姓名，并写明长期租借给女儿 Leah。",
+   "anchor": "Property of Michael Henry Frayne, on long lease to his daughter Leah",
+   "start": 1147,
+   "end": 1215
+  },
+  {
+   "fact": "她十二岁喜欢那本书谈论深海的口吻：不把深海写成要幸存或征服的东西，只写成可供航行的空间。",
+   "anchor": "not as something to be survived or conquered but simply navigated",
+   "start": 1317,
+   "end": 1382
+  },
+  {
+   "fact": "她先在心里说够了，再出声重复一遍确认，让 Jelka 留在原处，带 Matteo 去后舱查看情况。",
+   "anchor": "I told Jelka to stay where she was and took Matteo through to the rear chamber",
+   "start": 2196,
+   "end": 2274
+  },
+  {
+   "fact": "Matteo 在后舱毫无来由地说想要一份三分熟的牛排，还要一杯酒。",
+   "anchor": "“I’d like a rare steak,” he said, apropos of nothing.",
+   "start": 3379,
+   "end": 3432
+  },
+  {
+   "fact": "Matteo 左手只剩三根手指，右手持手电筒的姿势别扭，那是少年时与父亲在锡姆科湖冰钓冻伤所致。",
+   "anchor": "He had only three fingers on his left hand",
+   "start": 3920,
+   "end": 3962
+  },
+  {
+   "fact": "两人在后舱站了很久，不知自己希望看到什么，她先感到轻微震动，由 Matteo 指出他们正在减速。",
+   "anchor": "we were slowing down",
+   "start": 6009,
+   "end": 6029
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "our-wives-under-the-sea-by-julia-armfield",
+ "chapter": "ch01",
+ "text": "notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch01_miri.txt",
+ "facts": [
+  {
+   "fact": "开篇第一句把深海比作鬼屋：一个不该存在之物在其中移动的黑暗之所。",
+   "anchor": "The deep sea is a haunted house",
+   "start": 8,
+   "end": 39
+  },
+  {
+   "fact": "Leah 用来形容这片海的词是 unstill（不静止）；她边说边侧头，像在应答某种声音。",
+   "anchor": "Unstill, is the word Leah uses",
+   "start": 117,
+   "end": 147
+  },
+  {
+   "fact": "Miri 与 Leah 每晚并排坐在沙发上，这是 Leah 上个月回家以后养成的习惯。",
+   "anchor": "since she returned last month",
+   "start": 995,
+   "end": 1024
+  },
+  {
+   "fact": "Miri 认为自己错在把「独自」当成可以前往的地方，而它其实是被留下的处境。",
+   "anchor": "alone was somewhere you could go, rather than somewhere you had to be left",
+   "start": 2124,
+   "end": 2198
+  },
+  {
+   "fact": "早上六点 Leah 醒来就流鼻血；Miri 睡在对门房间，靠习惯预判她的作息。",
+   "anchor": "At around six this morning, Leah woke and immediately had a nosebleed",
+   "start": 5083,
+   "end": 5152
+  },
+  {
+   "fact": "Leah 把出血解释为与压力有关，与压力突然消失有关；血不再认得从前的边界。",
+   "anchor": "it’s something to do with the pressure, the sudden lack thereof",
+   "start": 5614,
+   "end": 5677
+  },
+  {
+   "fact": "镜中 Leah 的皮肤像从水里打捞上来的东西，眼睛是溺死者的那种黄。",
+   "anchor": "The yellow eyes of someone drowned",
+   "start": 8257,
+   "end": 8291
+  },
+  {
+   "fact": "Miri 打给 Centre 被自动语音要求输入 Leah 的人员编号，而她正是为了拿到这个编号才打电话。",
+   "anchor": "demand that I enter Leah’s personnel number",
+   "start": 8580,
+   "end": 8623
+  }
+ ]
+}

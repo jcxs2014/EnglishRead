@@ -1,0 +1,55 @@
+{
+ "book": "our-wives-under-the-sea-by-julia-armfield",
+ "chapter": "ch11",
+ "text": "notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch11_miri.txt",
+ "facts": [
+  {
+   "fact": "秋天将至，莉娅回家已近两个月，屋里到处是蜘蛛；邻居在古怪的钟点放美式橄榄球，莉娅反复开着水龙头。",
+   "anchor": "Leah has been back nearly two months",
+   "start": 222,
+   "end": 258
+  },
+  {
+   "fact": "母亲葬礼前一早，她吞下六片止痛药，又喝了一摊做菜用的白兰地；两样东西叠出多普勒效应，感觉的次序被打乱。",
+   "anchor": "I’d taken six Nurofen together with a spill of cooking brandy",
+   "start": 504,
+   "end": 565
+  },
+  {
+   "fact": "冷柠檬水是莉娅少数肯稳定喝下的东西，米里却撞见她往杯子里舀食盐，只好把杯子端走。",
+   "anchor": "spooning table salt into the mixture",
+   "start": 2934,
+   "end": 2970
+  },
+  {
+   "fact": "争吵时她心里排出一串「这是我的选择」：搬进客房，每天早晨走进浴室，明知会看到什么还是走进去。",
+   "anchor": "Say it was my choice to move into the spare room",
+   "start": 5523,
+   "end": 5571
+  },
+  {
+   "fact": "莉娅给她看少女时代的照片：十七岁的莉娅蹲在圆柱形水缸边，缸里是她叫作帕梅拉的巨型太平洋章鱼。",
+   "anchor": "a giant Pacific octopus named Pamela",
+   "start": 6791,
+   "end": 6827
+  },
+  {
+   "fact": "米里把故事里那个女朋友涂掉、换上自己；可十八岁时帕梅拉已经死了，她也还没吻过女孩。",
+   "anchor": "Pamela was dead and I had yet to kiss a girl",
+   "start": 8976,
+   "end": 9020
+  },
+  {
+   "fact": "三十岁生日，米里送莉娅一叠旧水族馆宣传卡；倒数第二张印着橘色章鱼，标签写明帕梅拉、约三到四岁。",
+   "anchor": "The last card but one showed a tangerine-coloured octopus",
+   "start": 10673,
+   "end": 10730
+  },
+  {
+   "fact": "夜里莉娅尖叫，米里进房发现床是湿的、水从莉娅身上来；她抽搐着朝床上吐出一片水，被摇醒后不认得米里。",
+   "anchor": "she vomits a shower of water across the bed",
+   "start": 14774,
+   "end": 14817
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "our-wives-under-the-sea-by-julia-armfield",
+ "chapter": "ch03",
+ "text": "notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch03_miri.txt",
+ "facts": [
+  {
+   "fact": "Leah 回家已满三周，Miri 说自己大体习惯了：早上她吃饭、Leah 不吃，她回半小时邮件，不去看 Leah 牙龈上塞着纸巾来回走。",
+   "anchor": "She’s been home three weeks and I’m mostly used to everything.",
+   "start": 8,
+   "end": 70
+  },
+  {
+   "fact": "Miri 靠替非营利机构写资助申请为生，一直在家办公；Leah 走后她才被迫与自己更贴近。",
+   "anchor": "I write grant applications for non-profit organisations for a living",
+   "start": 264,
+   "end": 332
+  },
+  {
+   "fact": "她为窗台上剩半杯的水和没倒的垃圾大动干戈，长期口腔溃疡，抱怨没吸尘的地板，夜里梦见咬牙把牙咬断。",
+   "anchor": "I make heavy weather over glasses left half empty",
+   "start": 600,
+   "end": 649
+  },
+  {
+   "fact": "她上楼捶门无人应，才想到住这么久从未真正见过邻居，只凭脚步声、闷住的音乐和夜里挪家具的刮擦声认定其存在。",
+   "anchor": "I have never actually laid eyes on the neighbours",
+   "start": 4396,
+   "end": 4445
+  },
+  {
+   "fact": "她离开仅六分钟，回来时 Leah 已从客厅角落挪进浴室并开着两个水龙头；近来她常在凌晨四点听见浴缸放水。",
+   "anchor": "I’m only gone a total of six minutes",
+   "start": 4985,
+   "end": 5021
+  },
+  {
+   "fact": "Leah 把睡觉用的电子盒拿进浴室，那是 Centre 寄来的告别礼物，无寄件地址，同包裹还有减压袜和 PVC 装订的格言书。",
+   "anchor": "the electric box she uses to sleep into the bathroom",
+   "start": 6050,
+   "end": 6102
+  },
+  {
+   "fact": "她在沙发睡着后被楼上纪录片旁白惊醒：加州猪笼草的叶缘湿润，把觅食昆虫引进腔内，淹死在消化液里逐渐溶解。",
+   "anchor": "Foraging insects are attracted to the cavity",
+   "start": 2298,
+   "end": 2342
+  },
+  {
+   "fact": "她记得最后一次：Leah 本该离开三周却消失了六个月，没人知道出了什么事，Centre 来电说法前后矛盾，后来不再打。",
+   "anchor": "the fact that she was supposed to be gone for three weeks",
+   "start": 8409,
+   "end": 8466
+  }
+ ]
+}
