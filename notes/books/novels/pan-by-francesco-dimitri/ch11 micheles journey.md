@@ -183,7 +183,7 @@ modified: "2026-10-29"
 | parka | 连帽厚外套 | Stefano Cavaterra is beside him, brown trousers and a parka, his favourite outfit for going to Nemi in winter. |
 | balance | 平衡 | Afraid, famished, and alone, the child lost his balance, and fell into me. |
 | grandfather | 外公 | A war is coming, the Horned God is returned to Flesh, and there’s something about your grandfather that you ought to know sooner or later. |
-| unconscious | 无意识的 | Michele’s consciousness winks out, life abandons him. |
+| consciousness | 意识 | Michele’s consciousness winks out, life abandons him. |
 | screaming | 尖叫 | Somebody’s screaming. |
 
 ## 一句话总结

@@ -170,8 +170,8 @@ modified: "2026-10-29"
 |---|---|---|
 | satyr | 萨堤尔（半人半羊的好色精灵） | Angela gently pushes the satyr behind her. |
 | chit | （轻蔑语）小丫头 | Even if he finds Peter, Hook does not intend to leave the young chit alive. |
-| escapism | 逃脱术（舞台魔术门类） | Except she uses it to go upwards, giving the guy a header in the nose. |
-| flailing | 乱挥乱打 | Giada flails her fists furiously to try to defend herself, but she is below and he is above, he is strong, she is scared. |
+| escapism | 逃脱术（舞台魔术门类） | watch the Wondrous Wendy performing a classic example of escapism! |
+| flails | 乱挥乱打 | Giada flails her fists furiously to try to defend herself, but she is below and he is above, he is strong, she is scared. |
 | limp | 跛行 | He leaves calmly, limping with his walking stick, leaving the pirates to their fate. |
 | gleaming | 发亮的 | Only Dal Mare retains a certain elegance, with a red overcoat, gleaming boots, and hair curled in black ringlets. |
 | sprawled | 瘫倒 | Covered in bruises and blood, but without having shed a single tear, Angela is sprawled on the floor. |

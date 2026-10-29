@@ -1,0 +1,397 @@
+{
+ "book": "pan-by-francesco-dimitri",
+ "chapter": "ch15",
+ "text": "notes/books/novels/pan-by-francesco-dimitri/text/ch15_interlude_stefano_augusto.txt",
+ "facts": [
+  {
+   "fact": "1975 年 9 月信：小 Stefano 开学，喜欢老师和朋友",
+   "anchor": "scool started again",
+   "start": 829,
+   "end": 848
+  },
+  {
+   "fact": "女老师因男友死于战争穿黑丧服",
+   "anchor": "her boyfriend died in the war and she said she has to wear blak forever",
+   "start": 978,
+   "end": 1049
+  },
+  {
+   "fact": "Mama 的生死观：走了的要放手，活着的要享受",
+   "anchor": "people who go need to be let go, and people who stay have to enjoy life",
+   "start": 1107,
+   "end": 1178
+  },
+  {
+   "fact": "Stefano 自述能清楚看见火焰、疑心自己出过体，Mama 提醒人常出错",
+   "anchor": "I can see the flame real well and yesterday I think I even went out",
+   "start": 1525,
+   "end": 1592
+  },
+  {
+   "fact": "1977 年 3 月信：Mama 称那位先生为礼帽男/伯爵",
+   "anchor": "Mama calls him the Man in the Top Hat, or Count",
+   "start": 1771,
+   "end": 1818
+  },
+  {
+   "fact": "礼帽男赠 Stefano 一柄闪亮的军刀 sabre",
+   "anchor": "he gave me something, a kind of little sword, all shiny, he called it a sabre",
+   "start": 2340,
+   "end": 2417
+  },
+  {
+   "fact": "Mama 评价：礼帽男不算坏人但必须小心",
+   "anchor": "Mama said that the Man in the Top Hat is a person you have to be careful with",
+   "start": 2572,
+   "end": 2649
+  },
+  {
+   "fact": "Mama 逼他保证永不与礼帽男打牌",
+   "anchor": "she made me promise that I would never play cards with him",
+   "start": 2753,
+   "end": 2811
+  },
+  {
+   "fact": "1979 年 12 月冬至信：Mama 与王（Leo）布置了 Diana 神庙",
+   "anchor": "Mama and the King, that is Leo, had prepared the Temple of Diana",
+   "start": 3083,
+   "end": 3147
+  },
+  {
+   "fact": "冬至仪式全员裸体在林中（英国人 Gardner 称 skyclad）",
+   "anchor": "We were all naked in the wood",
+   "start": 3304,
+   "end": 3333
+  },
+  {
+   "fact": "仪式中想象圆周为蓝色球体",
+   "anchor": "We had to see, with our imagination, the circle as if it was a blue sphere",
+   "start": 4082,
+   "end": 4156
+  },
+  {
+   "fact": "Leo 念诵的祷句首行：The centre holds",
+   "anchor": "The centre holds.",
+   "start": 4215,
+   "end": 4232
+  },
+  {
+   "fact": "1979 年 12 月：苏联入侵阿富汗，众人结力锥限制伤害",
+   "anchor": "the Soviets invading Afghanistan. In fact we made a cone of power to limit the damage",
+   "start": 5859,
+   "end": 5944
+  },
+  {
+   "fact": "Stefano 在 Yule 节认识同龄女孩 Irene，两人将满十四岁一起受启蒙",
+   "anchor": "I met a really nice girl at Yule, she’s called Irene",
+   "start": 5321,
+   "end": 5373
+  },
+  {
+   "fact": "1987 年信：朋友与警察冲突、邀他加入，他没兴趣",
+   "anchor": "They tried to persuade me to join in, but the whole thing didn’t interest me",
+   "start": 11330,
+   "end": 11406
+  },
+  {
+   "fact": "1987 年：Stefano 读美国人 Wilson 与 Leary 论致幻与性爱自由",
+   "anchor": "I started reading some Americans, like Robert Anton Wilson and Timothy Leary",
+   "start": 11575,
+   "end": 11651
+  },
+  {
+   "fact": "Stefano 最终入读医学",
+   "anchor": "I did matriculate in Medicine, in the end",
+   "start": 12341,
+   "end": 12382
+  },
+  {
+   "fact": "1991 年 2 月信：Stefano 爱上同车去 Nemi 的法课女生 Silvia",
+   "anchor": "Her name is Silvia",
+   "start": 13119,
+   "end": 13137
+  },
+  {
+   "fact": "Silvia 的信仰缺陷清单：公教、反对离婚堕胎毒品",
+   "anchor": "she’s Catholic",
+   "start": 14576,
+   "end": 14590
+  },
+  {
+   "fact": "一位非洲主教的文章说天主教本不在受难而在复活",
+   "anchor": "the true meaning of the Gospels isn’t in the death of Jesus, but in his resurrection",
+   "start": 15317,
+   "end": 15401
+  },
+  {
+   "fact": "Stefano 判意大利：无真实替代，连无神论者内核都是公教徒",
+   "anchor": "in Italy we lack a real alternative. Even the atheists are just Catholics at the core",
+   "start": 15546,
+   "end": 15631
+  },
+  {
+   "fact": "1992 年 2 月信：Stefano 结识奥古斯托·达尔·马雷",
+   "anchor": "He’s called Augusto Dal Mare",
+   "start": 16261,
+   "end": 16289
+  },
+  {
+   "fact": "Leo 带 Dal Mare 参加上届牧神节使其入 Would 会",
+   "anchor": "Leo brought him to the last Lupercalia, to initiate him into the Coven",
+   "start": 16361,
+   "end": 16431
+  },
+  {
+   "fact": "Dal Mare 自称家族在 Would 会之外习巫术数百年",
+   "anchor": "His family has practiced the Art for centuries, outside any coven",
+   "start": 17279,
+   "end": 17344
+  },
+  {
+   "fact": "1992 年 9 月：Equinox 节上 Stefano「杀死」Leo 继任林中之王",
+   "anchor": "I’m the new King of the Woods!",
+   "start": 17709,
+   "end": 17739
+  },
+  {
+   "fact": "Dal Mare 剑术出色常用军刀与手杖剑",
+   "anchor": "Augusto is a brilliant swordsman",
+   "start": 18324,
+   "end": 18356
+  },
+  {
+   "fact": "1996 年 4 月：婚礼仪式本身糟糕，但夫妇情深足矣",
+   "anchor": "the ceremony was horrendous",
+   "start": 19234,
+   "end": 19261
+  },
+  {
+   "fact": "Dal Mare 当伴郎无可挑剔并帮他挑西装",
+   "anchor": "Augusto was an impeccable best man",
+   "start": 19812,
+   "end": 19846
+  },
+  {
+   "fact": "1988 年（原文 2001 年 8 月）信：女儿出生，Stefano 用 wondrous 形容",
+   "anchor": "She’s wondrous, there’s nothing else to say",
+   "start": 20392,
+   "end": 20435
+  },
+  {
+   "fact": "女儿取名 Angela 随母名",
+   "anchor": "Silvia wants to call her Angela, after her mother",
+   "start": 20437,
+   "end": 20486
+  },
+  {
+   "fact": "女儿出生后 Stefano 开始研究共同的岛之梦",
+   "anchor": "research on dreams, and one in particular, experienced by many different people regarding an island",
+   "start": 21163,
+   "end": 21262
+  },
+  {
+   "fact": "Stefano 与父亲仅见过一面，那句话最珍贵",
+   "anchor": "The advice you gave me the only time we met is the most precious I’ve ever received",
+   "start": 21575,
+   "end": 21658
+  },
+  {
+   "fact": "2005 年 11 月：Stefano 确信岛在本体论上真实",
+   "anchor": "I’m convinced that the Island is ontologically real",
+   "start": 22000,
+   "end": 22051
+  },
+  {
+   "fact": "三领域之名由父亲（收信人）所定：Aspects",
+   "anchor": "You called them the Aspects: Flesh, Enchantment, and Dream",
+   "start": 22277,
+   "end": 22335
+  },
+  {
+   "fact": "Stefano 的框架：岛在 Enchantment，经由 Dream 抵达",
+   "anchor": "the Island is in Enchantment, but may be reached through Dream",
+   "start": 22343,
+   "end": 22405
+  },
+  {
+   "fact": "2008 年 12 月：流浪汉 Carlo 被送急诊，讲述岛上被孩童锁洞穴的经历",
+   "anchor": "A vagrant arrived in the emergency room, half-frozen and stinking of alcohol and worse",
+   "start": 24411,
+   "end": 24497
+  },
+  {
+   "fact": "Carlo 腕上锁链痕清晰可见，急诊同事仍不愿承认",
+   "anchor": "The vagrant still had the marks of a chain on his wrists, red and quite visible",
+   "start": 26575,
+   "end": 26654
+  },
+  {
+   "fact": "Carlo 行踪：1989 年球赛后失踪一年，妻子家暴受害者",
+   "anchor": "he disappeared around a year ago, and he was seen for the last time after the match",
+   "start": 27181,
+   "end": 27264
+  },
+  {
+   "fact": "2009 年 10 月信：Stefano 肉身登岛",
+   "anchor": "I have been to the Island",
+   "start": 28537,
+   "end": 28562
+  },
+  {
+   "fact": "登岛法近似星体投射，用整个身体",
+   "anchor": "it was very similar to astral projection, except that you do it with your whole body",
+   "start": 28750,
+   "end": 28834
+  },
+  {
+   "fact": "仙子告知：角神被流放、正准备近期回归",
+   "anchor": "told me that he had been exiled, but he is preparing to return in the near future",
+   "start": 29619,
+   "end": 29700
+  },
+  {
+   "fact": "2012 年 2 月：Stefano 转向濒死体验研究",
+   "anchor": "I mean to embark on a new line of inquiry: NDEs, Near Death Experiences",
+   "start": 30150,
+   "end": 30221
+  },
+  {
+   "fact": "同信末行独立成句：奥古斯托不同意",
+   "anchor": "Augusto disagrees",
+   "start": 31343,
+   "end": 31360
+  },
+  {
+   "fact": "2012 年 7 月：岛上的孩子说 Peter 未归，反派 Hook 从未离开、随意穿梭领域",
+   "anchor": "the children gave me chills, they say that Peter Pan is still not there, but the villain, Captain Hook, never left",
+   "start": 31661,
+   "end": 31775
+  },
+  {
+   "fact": "Stefano 的结论：Peter 是角神/Pan 的一面",
+   "anchor": "Peter Pan is one face of the Horned God, Pan himself",
+   "start": 31931,
+   "end": 31983
+  },
+  {
+   "fact": "Dal Mare 半真半笑引一首 Bennato 旧歌质疑 Peter 是英雄",
+   "anchor": "He quoted to me, half-serious and half-joking, an old Bennato song",
+   "start": 32397,
+   "end": 32463
+  },
+  {
+   "fact": "2012 年 11 月信：好友即虎克克",
+   "anchor": "Augusto Dal Mare, my best friend, is Captain Hook",
+   "start": 33212,
+   "end": 33261
+  },
+  {
+   "fact": "独立成段的两词判决",
+   "anchor": "He is a god.",
+   "start": 33321,
+   "end": 33333
+  },
+  {
+   "fact": "最初疑点：岛上孩子沙滩画出的帆船与 Dal Mare 花园雕塑无异",
+   "anchor": "a child drew Hook’s Galleon in the sand",
+   "start": 33736,
+   "end": 33775
+  },
+  {
+   "fact": "Dal Mare 摊牌自陈：我是控制历史者",
+   "anchor": "“I am the one that keeps history under control,” he said",
+   "start": 34570,
+   "end": 34626
+  },
+  {
+   "fact": "Dal Mare 的招揽方案：阻止 Peter 回归、一切照旧",
+   "anchor": "We will avoid Peter Pan’s return",
+   "start": 34801,
+   "end": 34833
+  },
+  {
+   "fact": "Stefano 用非常手段说服期刊发表岛的论文",
+   "anchor": "desperate times call for desperate measures",
+   "start": 35920,
+   "end": 35963
+  },
+  {
+   "fact": "论文于 13 日刊出（呼应 ch09：Nov 2012, p23）",
+   "anchor": "The article was published today, on the 13th",
+   "start": 36353,
+   "end": 36397
+  },
+  {
+   "fact": "赴会前 Stefano 藏军刀于夹克内袋（Irene 缝的）",
+   "anchor": "I hid the sabre under my jacket",
+   "start": 36590,
+   "end": 36621
+  },
+  {
+   "fact": "只有礼帽男所赠之刃能伤传说",
+   "anchor": "An ordinary sword, forged simply in Flesh, wouldn’t hurt a legend",
+   "start": 36766,
+   "end": 36831
+  },
+  {
+   "fact": "Dal Mare 邀他做二把手",
+   "anchor": "“and we will take every decision together.”",
+   "start": 38459,
+   "end": 38502
+  },
+  {
+   "fact": "Stefano 质问：你说你是虎克克，钩子在哪",
+   "anchor": "where’s the Hook?",
+   "start": 39259,
+   "end": 39276
+  },
+  {
+   "fact": "Dal Mare 答：太久远了，神也会变",
+   "anchor": "“That was so long ago,” he said. “Even gods change.”",
+   "start": 39280,
+   "end": 39332
+  },
+  {
+   "fact": "Dal Mare 自称最想消灭的恰是暴力",
+   "anchor": "Violence is a means, not an end",
+   "start": 40018,
+   "end": 40049
+  },
+  {
+   "fact": "谈判破裂：Dal Mare 率先掷刀偷袭",
+   "anchor": "that bastard threw a knife at me!",
+   "start": 40573,
+   "end": 40606
+  },
+  {
+   "fact": "决斗中场景在书房与海上礁岩间切换",
+   "anchor": "we were in his studio, then we were on a rock in the open sea",
+   "start": 41443,
+   "end": 41504
+  },
+  {
+   "fact": "Stefano 一剑刺穿左大腿并上挑致其跪地",
+   "anchor": "I placed a decisive blow, piercing the muscle of his left thigh",
+   "start": 41962,
+   "end": 42025
+  },
+  {
+   "fact": "未杀理由自供：不是高尚，是没胆",
+   "anchor": "It wasn’t any noble sentiment that stopped me. It was lack of courage",
+   "start": 42274,
+   "end": 42343
+  },
+  {
+   "fact": "不后悔的根据：顺了自己的本性",
+   "anchor": "I followed my nature",
+   "start": 42715,
+   "end": 42735
+  },
+  {
+   "fact": "间章末句：写结局的或许是孙辈",
+   "anchor": "Perhaps they will be the ones to write the ending",
+   "start": 42988,
+   "end": 43037
+  }
+ ]
+}
