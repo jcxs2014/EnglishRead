@@ -1,0 +1,467 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/ch15 interlude the story of stefano and augusto.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch15_interlude_stefano_augusto.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Mama said that isn’t, that people who go need to be let go, and people who stay have to enjoy life because it’s so nice",
+          "ok": true,
+          "pos": 1060
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "And then he gave me something, a kind of little sword, all shiny, he called it a sabre",
+          "ok": true,
+          "pos": 2289
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The centre holds",
+          "ok": true,
+          "pos": 4147
+        }
+      ],
+      "words": 3
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "I met a really nice girl at Yule, she’s called Irene, and she’s beautiful, she has eyes that make you feel like she’s ki",
+          "ok": true,
+          "pos": 5229
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "if you’ve climbed a hill and you’re thirsty, you don’t want a diamond, you want water. And so what’s worth more, the dia",
+          "ok": true,
+          "pos": 7140
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "While I was inside her I understood for the first time the difference between sex, magic, and religion. There is none, i",
+          "ok": true,
+          "pos": 9033
+        },
+        {
+          "text": "well, these days sex is defined as an obscene act, you know",
+          "ok": true,
+          "pos": 9265
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He’s called Augusto Dal Mare",
+          "ok": true,
+          "pos": 16009
+        },
+        {
+          "text": "Leo brought him to the last Lupercalia, to initiate him into the Coven",
+          "ok": true,
+          "pos": 16106
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I’m the new King of the Woods! Watch out, villain",
+          "ok": true,
+          "pos": 17435
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "You called them the Aspects: Flesh, Enchantment, and Dream. Well, the Island is in Enchantment, but may be reached throu",
+          "ok": true,
+          "pos": 21921
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Augusto disagrees",
+          "ok": true,
+          "pos": 30894
+        }
+      ],
+      "words": 2
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Augusto Dal Mare, my best friend, is Captain Hook. And Captain Hook is not a man, nor a mysterious entity. He is a god",
+          "ok": true,
+          "pos": 32737
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“I am the one that keeps history under control,” he said. “Why would we ever let it get out of line?”",
+          "ok": true,
+          "pos": 34074
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "I hid the sabre under my jacket, before I went. I suspect that the Man in the Top Hat foresaw everything, or at least im",
+          "ok": true,
+          "pos": 36049
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "It wasn’t any noble sentiment that stopped me. It was lack of courage. How could I kill a man who had been at my side fo",
+          "ok": true,
+          "pos": 41619
+        }
+      ],
+      "words": 28
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.33
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.42,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.51,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.26,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.4
+      }
+    }
+  ],
+  "form": {
+    "h1": "15. Interlude. The Story of Stefano and Augusto",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 14,
+    "block_median": 14.0,
+    "block_range": [
+      8,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 14,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 8013,
+    "block_target": [
+      15,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 29 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

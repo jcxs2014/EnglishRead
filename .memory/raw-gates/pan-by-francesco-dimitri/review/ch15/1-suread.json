@@ -1,0 +1,131 @@
+{
+ "chapter": "ch15",
+ "file": "text/ch15_interlude_stefano_augusto.txt",
+ "text_chars": 43039,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "1975 年首信：Mama 让 Stefano 把信压在林中的大平石下；家训是走了的人要被放手、留下的人要享受生命",
+   "anchor": "people who go need to be let go",
+   "offset": 1107
+  },
+  {
+   "id": "F2",
+   "fact": "1977 年 3 月：礼帽男在纳沃纳广场旁的宅子里赠他一柄 sabre，Mama 事后警告小心此人、绝不与他打牌",
+   "anchor": "she made me promise that I would never play cards with him",
+   "offset": 2753
+  },
+  {
+   "id": "F3",
+   "fact": "1979 年冬至：Diana 神庙的 skyclad 仪式、Leo 的祷词 The centre holds、认识 Lorenzo 之女 Irene（同龄，十四岁一起受启蒙）",
+   "anchor": "The centre holds.",
+   "offset": 4215
+  },
+  {
+   "id": "F4",
+   "fact": "1982 年水与钻石之辩；1983 年 11 月与 Irene 受启蒙并共行 Great Rite，写下性/魔法/宗教无区别",
+   "anchor": "There is none",
+   "offset": 9289
+  },
+  {
+   "id": "F5",
+   "fact": "1987 年：读 Wilson 与 Leary、入学医学院，感叹美国「萨满回来了」",
+   "anchor": "the shamans have made their comeback",
+   "offset": 11853
+  },
+  {
+   "id": "F6",
+   "fact": "1991 年 2–3 月：在去罗马的长途车上认识 Silvia（天主教、一张反对清单），自陈爱到害怕",
+   "anchor": "And I’m Silvia.",
+   "offset": 13578
+  },
+  {
+   "id": "F7",
+   "fact": "1992 年 2 月 Leo 在 Lupercalia 带 Dal Mare 入 Coven；同年 9 月 Stefano「杀死」Leo 继任林中之王，与 Dal Mare 每日练剑互认对手",
+   "anchor": "I’m the new King of the Woods!",
+   "offset": 17709
+  },
+  {
+   "id": "F8",
+   "fact": "2005 年提出三领域 Aspects 与「岛正逼近 Flesh」；2008 年确证岛在靠近，并记录流浪汉 Carlo De Masi 的登岛证词与腕上链痕",
+   "anchor": "the Island is ontologically real",
+   "offset": 22019
+  },
+  {
+   "id": "F9",
+   "fact": "2009 年 10 月肉身登岛（精灵告知角神被放逐、即将回归）；2012 年 2 月决意发表，7 月与 Dal Mare 激烈争执",
+   "anchor": "I have been to the Island.",
+   "offset": 28537
+  },
+  {
+   "id": "F10",
+   "fact": "2012 年 11 月两信：识破 Dal Mare 即 Captain Hook 且是神；藏刀赴会、书房与海岩间决斗、刺穿其大腿后因「缺乏勇气」未杀",
+   "anchor": "He is a god.",
+   "offset": 33321
+  }
+ ],
+ "numbers": [
+  {
+   "value": "twenty-one",
+   "what": "信件总数（含首封）",
+   "anchor": "First letter from Stefano Cavaterra to his father, July 1975",
+   "offset": 51
+  },
+  {
+   "value": "1975-2012",
+   "what": "信件跨年",
+   "anchor": "November 2012",
+   "offset": 36219
+  },
+  {
+   "value": "several million",
+   "what": "军刀的估价",
+   "anchor": "it’s worth several million",
+   "offset": 18574
+  },
+  {
+   "value": "five years older",
+   "what": "Claudia 比 Stefano 大五岁",
+   "anchor": "she’s five years older than me",
+   "offset": 7756
+  },
+  {
+   "value": "fourteen",
+   "what": "受启蒙年龄",
+   "anchor": "We’ll be initiated together when we’re fourteen.",
+   "offset": 5737
+  },
+  {
+   "value": "three times",
+   "what": "登岛次数（2012 年 2 月时）",
+   "anchor": "it’s already been three times",
+   "offset": 30403
+  },
+  {
+   "value": "twenty years",
+   "what": "与 Dal Mare 的友谊年数",
+   "anchor": "at my side for twenty years",
+   "offset": 37811
+  }
+ ],
+ "relations": [
+  {
+   "who": "Irene",
+   "what": "Leo 之弟 Lorenzo 的女儿，与 Stefano 同龄，共行 Great Rite、缝刀袋",
+   "anchor": "Irene is the daughter of Lorenzo, Leo’s brother",
+   "offset": 5670
+  },
+  {
+   "who": "Augusto Dal Mare",
+   "what": "即 Captain Hook，且是神；由 Leo 引入 Coven",
+   "anchor": "Augusto Dal Mare, my best friend, is Captain Hook.",
+   "offset": 33212
+  },
+  {
+   "who": "Man in the Top Hat",
+   "what": "1977 年赠 Stefano 军刀的人，疑为布局者",
+   "anchor": "the Man in the Top Hat foresaw everything",
+   "offset": 36653
+  }
+ ]
+}

@@ -6,8 +6,8 @@ modified: "2026-10-29"
 # 15. Interlude. The Story of Stefano and Augusto
 
 ## 本章导航
-- **一句话概括**：以 Stefano Cavaterra 写给亡父的十七封信（1975–2012）重述全书前史：母亲带他在 Nemi 的 Diana 神庙里长大（冬至、牧神节、巫会），1977 年礼帽男赠他一柄军刀并换来母亲「别跟他打牌」的告诫；1992 年他继任林中之王、同年结识 Augusto Dal Mare 并把这位「习巫数百年家族」的作家引为挚友；2005–2012 他确认岛在本体论上真实、肉身登岛、得知角神（Peter）即将回归，而好友逐一否认、招揽、摊牌——2012 年 11 月他写下「我最好的朋友是虎克克，而虎克克是神」；末两封信详记他藏刀赴会、书房与海岩间切换的决斗、刺穿对方大腿后因「没有勇气」而未杀，收束在「或许写结局的会是孩子们」。
-- **情感弧线位置**：Book 2 的基座：把 ch09/ch13/ch14 的所有对立（Hook vs Peter、控制 vs 自由、论文 vs 启示）移到三十年的友情里重新讲一遍；读者此前认识的所有道具——军刀、花园帆船、第 23 页论文、 巫会、灯柱——在本章获得出厂记录。
+- **一句话概括**：以 Stefano Cavaterra 写给亡父的二十一封信（1975–2012）重述全书前史：母亲带他在 Nemi 的 Diana 神庙里长大（冬至、牧神节、巫会），1977 年礼帽男赠他一柄军刀并换来母亲「别跟他打牌」的告诫；1992 年他继任林中之王、同年结识 Augusto Dal Mare 并把这位「习巫数百年家族」的作家引为挚友；2005–2012 他确认岛在本体论上真实、肉身登岛、得知角神（Peter）即将回归，而好友逐一否认、招揽、摊牌——2012 年 11 月他写下「我最好的朋友是虎克，而虎克是神」；末两封信详记他藏刀赴会、书房与海岩间切换的决斗、刺穿对方大腿后因「没有勇气」而未杀，收束在「或许写结局的会是孩子们」。
+- **情感弧线位置**：Book 2 的基座：把 ch09/ch13/ch14 的所有对立（Hook vs Peter、控制 vs 自由、论文 vs 启示）移到三十年的友情里重新讲一遍；读者此前认识的所有道具——军刀、花园帆船、第 23 页论文、巫会、灯柱——在本章获得出厂记录。
 - **Tropes 兑现/反转**：成长回忆录 tropes——童言文法（scool/blak/thow）与仪式记录并写；「挚友即宿敌」tropes 在信中分两次揭晓（先异见、后神性）；决斗 tropes 反转——主角占上风却因「缺乏勇气而非高尚」放走反派，全书的悲剧发动机是这次留手；书信 tropes 的极限运用：收信人是亡者，回信永远缺席。
 - **人物弧线**：Stefano（从看见火焰的孩子到国王到「天真之子」的自我判词，最终以违心不杀完成人品定格）；Augusto/Dal Mare（礼帽男的学徒、完美的伴郎、真诚的恶神——他在本章始终被同一支笔写暖又写冷）；Mama（放手的生死观与「小心礼帽男」的直觉构成全书最早的防御体系）；Silvia（以反对清单被爱着，她的不信魔法解释子女的分裂）；Irene（缝内袋、共启蒙、执行者）。
 - **叙事手法**：按日期分格的信件体，年与年之间跳切（每信自成篇）；童年期句子短、错拼保留；成年期转入论文式长句与设问；两处祷词与歌词逐行独立成段；关键判词用最短文段（Augusto disagrees. / He is a god. / I didn’t.）；末句把叙事权让给孙辈。
@@ -37,7 +37,7 @@ modified: "2026-10-29"
 
 > **原句 4:** "I met a really nice girl at Yule, she’s called Irene, and she’s beautiful, she has eyes that make you feel like she’s kissing you when she looks at you."
 
-**中文理解**：Stefano 在冬至节认识 Irene：眼睛看人时像在用嘴亲吻；她踢了他一脚，大人们都笑了。她与他是叔伯之女，同龄，将在十四岁一起受启蒙。
+**中文理解**：Stefano 在冬至节认识 Irene：眼睛看人时像在用嘴亲吻；她踢了他一脚，大人们都笑了。她是 Leo 的兄弟 Lorenzo 的女儿，与 Stefano 同龄，两人将在十四岁一起受启蒙。
 **关键词**：Yule, eyes, beautiful
 **为什么这样写**：把「吻」的隐喻放在性的开端、又把表亲关系写成制度内的安排；Irene 此后是缝内袋的人、共行大仪的人——她在本章的存在解释了为什么武器能出现在正确的时间。
 **读者视角提示**：ch09 黑笔记本上那句「Irene saw in the water that Silvia will have another child」即出自此人——占水之术与本书的预言体系在此挂线。
@@ -46,7 +46,7 @@ modified: "2026-10-29"
 
 **中文理解**：1982 年信：小时候他因不如朋友阔而难过，进山林就懂了——爬上山口口渴时，你不要钻石，你要水。那么更值钱的到底是钻石还是水？
 **关键词**：diamond, thirsty, worth
-**为什么这样写**：这段价值观自问在三十后由 Hook 复写为政治修辞（人需要秩序与面包），Stefano 的水/钻辩证因此变成两派的分界；Also 同信他写下「希望我别忘了水的善」——全书主角的道德基线。
+**为什么这样写**：这段价值观自问在三十年后由 Hook 复写为政治修辞（人需要秩序与面包），Stefano 的水/钻辩证因此变成两派的分界；同信他还写下「希望我别忘了水的善」——全书主角的道德基线。
 **读者视角提示**：紧接同信记他失去童贞（Claudia 年长五岁）、并刻意保护她不受小镇流言——他反正是「别用道德毁人乐趣」这一脉的家教传人。
 
 > **原句 6:** "While I was inside her I understood for the first time the difference between sex, magic, and religion. There is none, it’s only that we don’t know that because we’ve given up on magic, religion has become a business affair, and sex … well, these days sex is defined as an obscene act, you know."
@@ -58,9 +58,9 @@ modified: "2026-10-29"
 
 > **原句 7:** "He’s called Augusto Dal Mare. ... Leo brought him to the last Lupercalia, to initiate him into the Coven."
 
-**中文理解**：1992 年 2 月信：他结识一位迷人的人，名叫 Augusto Dal Mare，比 Stefano 年长却对年龄含糊；Leo 在上届牧神节（Lupercalia）带他入 巫会。
+**中文理解**：1992 年 2 月信：他结识一位迷人的人，名叫 Augusto Dal Mare，比 Stefano 年长却对年龄含糊；Leo 在上届牧神节（Lupercalia）带他入巫会。
 **关键词**：Lupercalia, initiate, Coven
-**为什么这样写**：全书大反派的入场登记是「第一印象极好」；同信写明他家习巫数百年在 巫会之外、父亲死于战争、教育残缺——这套身世将被 2012 年的话证实为半真（他确实是神，也确实成长于人间）。
+**为什么这样写**：全书大反派的入场登记是「第一印象极好」；同信写明他家习巫数百年在巫会之外、父亲死于战争、教育残缺——这套身世将被 2012 年的话证实为半真（他确实是神，也确实成长于人间）。
 **读者视角提示**：注意信中那句「Silvia 会喜欢他，但她还没见过他」——兄弟与恋人两条线自此起分叉，本章后半的一切背叛都绕不开这句轻描淡写。
 
 > **原句 8:** "I’m the new King of the Woods! Watch out, villain!"
@@ -82,11 +82,11 @@ modified: "2026-10-29"
 **中文理解**：2012 年 2 月信的最后独立成行：奥古斯托不同意。前文刚写下「我必须告诉世界……我拿我的职业生涯冒险」。
 **关键词**：disagrees
 **为什么这样写**：两个词的段落是全书节奏控制最狠的一次——长信倾尽论证后由一句旁人的反对收口；不同意在此不是学术分歧，是立场宣战，下一封信直接揭晓他反对的代价。
-**读者视角提示**：与 ch09 那篇论文（Nov 2012 第 23 页）对读：Stefano 不顾反对照样发表——「论文」在他手里本就是行动，不是陈述。
+**读者视角提示**：与 ch06 那篇论文（Nov 2012 第 23 页，`text/ch06:448`）对读：Stefano 不顾反对照样发表——「论文」在他手里本就是行动，不是陈述。
 
 > **原句 11:** "Augusto Dal Mare, my best friend, is Captain Hook. And Captain Hook is not a man, nor a mysterious entity. He is a god."
 
-**中文理解**：2012 年 11 月信的开篇自我判词（愚蠢、无用、天真、自负之子），随后宣布：最好的朋友是虎克克，而虎克克不是人、不是神秘存在——他是神。
+**中文理解**：2012 年 11 月信的开篇自我判词（愚蠢、无用、天真、自负之子），随后宣布：最好的朋友是虎克，而虎克不是人、不是神秘存在——他是神。
 **关键词**：best friend, entity, god
 **为什么这样写**：He is a god. 两词独立成段，与上一段的破折号长句形成落差——信体在此用尽标点做惊堂木；同信自问神为何要选衰老（I saw him grow and age），这个问题直到 ch14 都还悬着。
 **读者视角提示**：识破路径极具体：岛上孩子沙地画的帆船与 Dal Mare 花园雕塑无异——ch09 那面「改过的帆」在本章有了正典版本，也预告了 ch14 决斗后他仍不肯下杀手。
@@ -95,7 +95,7 @@ modified: "2026-10-29"
 
 **中文理解**：摊牌时 Dal Mare 的自陈：我是控制历史的人，我们凭什么让它脱轨？随后他盛赞旧谊，招揽：我们阻止 Peter 回归，一切照旧——你、我、Silvia、巫会。
 **关键词**：history, control, out of line
-**为什么这样写**：反派纲领用最行政化的措辞（keeps / under control / out of line）写出治理欲，与 ch13 的电视布道同一人设；而 Stefano 回击的焦点不在纲领而在产权：你没有资格提 巫会，你背叛了我们所有人。
+**为什么这样写**：反派纲领用最行政化的措辞（keeps / under control / out of line）写出治理欲，与 ch13 的电视布道同一人设；而 Stefano 回击的焦点不在纲领而在产权：你没有资格提巫会，你背叛了我们所有人。
 **读者视角提示**：同封信还录了 Dal Mare 那句「这年头人们需要 Pan」的反方陈词——作者让神学辩论两边都有理，是本章作为间章最重要的叙事承诺。
 
 > **原句 13:** "I hid the sabre under my jacket, before I went. I suspect that the Man in the Top Hat foresaw everything, or at least imagined a great deal of it, when he gave me that weapon. An ordinary sword, forged simply in Flesh, wouldn’t hurt a legend."
@@ -156,4 +156,4 @@ modified: "2026-10-29"
 | divorce | 离婚 | She’s against divorce and abortion, and she’s against drug use |
 
 ## 一句话总结
-本章用十七封信把整场战争还原成一段三十年的友谊：礼帽男赠的儿童军刀与「别跟他打牌」的告诫、Diana 神庙的冬至祷词、继任林中之王时的「小心，坏蛋！」、由亡父命名的三领域学说，一路推到「我最好的朋友是虎克克，他是神」；而全书最深的裂缝也在这段家史里铸成——他在能杀神的位置上承认自己只是没胆杀朋友，于是结局被让给了正在飞快长大的孩子们。
+本章用二十一封信把整场战争还原成一段三十年的友谊：礼帽男赠的儿童军刀与「别跟他打牌」的告诫、Diana 神庙的冬至祷词、继任林中之王时的「小心，坏蛋！」、由亡父命名的三领域学说，一路推到「我最好的朋友是虎克，他是神」；而全书最深的裂缝也在这段家史里铸成——他在能杀神的位置上承认自己只是没胆杀朋友，于是结局被让给了正在飞快长大的孩子们。
