@@ -1,0 +1,178 @@
+{
+  "chapter": "ch30",
+  "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/our-wives-under-the-sea-by-julia-armfield/text/ch30_leah.txt",
+  "facts": [
+    {
+      "fact": "全章以“三天”为单位追述：Leah 醒来发现 St Brendan 小雕像躺在自己被褥里，Jelka 不在后舱，最终被发现穿着衣服站在淋浴间，仰着脸、张嘴喝淋浴水。",
+      "anchor": "We found her in the wash stall, under the showerhead in her clothes",
+      "start": 375,
+      "end": 442
+    },
+    {
+      "fact": "第一天：Jelka 抓住 Leah 的手腕说“我听腻了那个声音”，大海般的巨响只是“干扰”，还有别的东西在说话——她想让 Leah 也去听。",
+      "anchor": "I’m tired of hearing it,” she said to me then, grasped my wrist",
+      "start": 817,
+      "end": 880
+    },
+    {
+      "fact": "Matteo 打断了这段倾诉：他把 Leah 推开，狠狠扇了 Jelka 一记耳光，第一天就此结束。",
+      "anchor": "Matteo ruined everything by pushing me aside and slapping her, hard, across the face",
+      "start": 1557,
+      "end": 1641
+    },
+    {
+      "fact": "第二天：主甲板一块控制板正中被打裂、三个按钮碎裂，Matteo 火把圈里的一支反射镜也裂了；Matteo 提出他们也许掉进了海里“早已死去的一块”，并以儿时与父亲冰钓、冰下仍有活物作对比；Leah 相信身边有看不见的东西，却说不出口——她不愿说得像 Jelka。",
+      "anchor": "Did you ever think that maybe this is just a dead part",
+      "start": 2676,
+      "end": 2730
+    },
+    {
+      "fact": "Jelka 又湿着衣服靠在桌边伸手够她，Leah 躲开了，径直去烧水；她事后说，这是全章最让她难受的一处。",
+      "anchor": "I feel bad about that now. Of everything, this is the thing",
+      "start": 4883,
+      "end": 4942
+    },
+    {
+      "fact": "第三天早上：Jelka 从淋浴间出来，双手夹住 Matteo 的头往桌上压，拇指顶进他的太阳穴，说“我停不下来了”“像脑子里凝了水擦不掉”“鬼不说话，但有东西在跟我说话”。",
+      "anchor": "Ghosts don’t speak,” she said, again, the way she had before",
+      "start": 7605,
+      "end": 7665
+    },
+    {
+      "fact": "Matteo 连说抱歉、表示愿意祈祷，Jelka 才松手；随后两人先后说出“现在会好起来了”，Leah 去掖被角时捡起掉在地上的 St Brendan 雕像。",
+      "anchor": "“I’m sorry,” he said, “I’m sorry. I’ll pray if you want me to.”",
+      "start": 7873,
+      "end": 7936
+    },
+    {
+      "fact": "第三天傍晚：Leah 睡在主甲板，被撞击声和 Matteo 的喊叫惊醒——Jelka 已自行进入逃生舱；手轮转不动，两人只能砸门；指示灯亮起（舱内注水）、内部机构响动、短暂静默，随后外门打开，海水压下来。",
+      "anchor": "the brief silence before the sound of the external doors opening",
+      "start": 10602,
+      "end": 10666
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Leah–Jelka",
+      "kind": "同船同伴：Leah 是唯一还试图照料她的人（把她从淋浴间扶出来、给她掖被角），却在她伸手时本能躲开",
+      "anchor": "I let her hold my wrist and look at me as if she was willing me to understand",
+      "start": 1243,
+      "end": 1320
+    },
+    {
+      "pair": "Matteo–Jelka",
+      "kind": "同船同伴，冲突最烈的一对：她逼他“听”，他动手打她耳光；她夹住他的头，他道歉并答应祈祷才被放开",
+      "anchor": "she placed her hands on either side of his head, pushing him back against the table",
+      "start": 6853,
+      "end": 6936
+    },
+    {
+      "pair": "Leah–Matteo",
+      "kind": "同船同伴：Matteo 用暴力打断 Jelka，又向 Leah 倾诉“死海”与冰钓往事，两人互相守着这段等待",
+      "anchor": "“When I went ice fishing with my dad,” Matteo said, holding up his hand with its missing fingers",
+      "start": 3149,
+      "end": 3245
+    },
+    {
+      "pair": "Leah–Miri",
+      "kind": "恋人（第三或第四次约会时已互诉好感）：Leah 在深海等待中反复用 Miri 的声音回想往事",
+      "anchor": "Miri leaning towards me across the table in a bar – our third or fourth date",
+      "start": 968,
+      "end": 1044
+    },
+    {
+      "pair": "Jelka–St Brendan",
+      "kind": "信仰关系：圣布伦丹小雕像属于 Jelka，掉在地上由 Leah 捡起，Jelka 失踪前它先出现在 Leah 被褥里",
+      "anchor": "I bent down to pick up her figurine of St Brendan",
+      "start": 8683,
+      "end": 8732
+    },
+    {
+      "pair": "Leah–父亲",
+      "kind": "父女：父亲借给她讲 Trieste 与 Challenger Deep 的书，并教她“别闲着”，这两件事撑着她度过等待",
+      "anchor": "My father had always told me it was better to keep busy",
+      "start": 5966,
+      "end": 6021
+    }
+  ],
+  "numbers": [
+    {
+      "value": "三天（原文 I don’t know how long the next bit took, so let’s call it three days）",
+      "anchor": "I don’t know how long the next bit took, so let’s call it three days",
+      "start": 8,
+      "end": 76
+    },
+    {
+      "value": "第三日分 morning / evening 两半（原文 The third day came in two parts）",
+      "anchor": "The third day came in two parts, which I will call morning and evening",
+      "start": 4971,
+      "end": 5041
+    },
+    {
+      "value": "三个裂开的按钮（原文 three buttons cracked）",
+      "anchor": "three buttons cracked as though they had been hit",
+      "start": 2354,
+      "end": 2403
+    },
+    {
+      "value": "第三或第四次约会（原文 our third or fourth date）",
+      "anchor": "Miri leaning towards me across the table in a bar – our third or fourth date",
+      "start": 968,
+      "end": 1044
+    },
+    {
+      "value": "Trieste 号与 Challenger Deep（原文 the Trieste and the Challenger Deep）",
+      "anchor": "the book about the Trieste and the Challenger Deep",
+      "start": 4073,
+      "end": 4123
+    },
+    {
+      "value": "St Brendan（圣布伦丹，Jelka 的小雕像）",
+      "anchor": "I bent down to pick up her figurine of St Brendan",
+      "start": 8683,
+      "end": 8732
+    },
+    {
+      "value": "ee cummings（原文 ee cummings poem）",
+      "anchor": "the ubiquity of a straight woman reading an ee cummings poem at a wedding",
+      "start": 5740,
+      "end": 5813
+    },
+    {
+      "value": "Catholicism（天主教）",
+      "anchor": "I’ve been trained to think of Catholicism as a sort of winnable game",
+      "start": 5647,
+      "end": 5715
+    },
+    {
+      "value": "Matteo（同船者，缺几根手指）",
+      "anchor": "where I found Matteo sitting in his circle of torches",
+      "start": 2227,
+      "end": 2280
+    },
+    {
+      "value": "Jelka（同船者，穿湿衣、听声者）",
+      "anchor": "Jelka had once again been in the wash stall",
+      "start": 4433,
+      "end": 4476
+    },
+    {
+      "value": "Miri（Leah 的恋人）",
+      "anchor": "Miri placing her hands either side of my face to shake me",
+      "start": 2987,
+      "end": 3044
+    },
+    {
+      "value": "Leah（本章叙述者，章节标题即其名）",
+      "anchor": "Leah.\n\n\nI don’t know how long the next bit took",
+      "start": 0,
+      "end": 47
+    },
+    {
+      "value": "miles and miles（形容压顶的海水量）",
+      "anchor": "miles and miles of it on top of our heads",
+      "start": 10701,
+      "end": 10742
+    }
+  ]
+}

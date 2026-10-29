@@ -51,7 +51,19 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "I let her hold my wrist and look at me as if she was willing me to understand. “You know what I mean, don’t you?” she said. “I know you’d have to hear it, a little bit – if you tried. The big sound, like the ocean, that’s just a distraction. There’s something else, if you listen properly, if you try—”"
+> **原句 4:** "“When I went ice fishing with my dad,” Matteo said, holding up his hand with its missing fingers as if to remind me, “it was so still and bleak – temperatures below freezing, of course – but you still knew there was life down there, just under the ice."
+
+**中文理解**：Matteo 讲他跟父亲去冰钓：天又静又荒凉，气温当然在冰点以下，可你知道冰底下有活的东西。
+
+**关键词**：ice fishing with my dad / its missing fingers / so still and bleak / just under the ice
+
+**为什么这样写**：他讲这段时**举起缺了指头的手**，像是提醒听者他是谁——这是全章唯一一次主动展示伤处。句子里「静」与「荒凉」都带着限定语（temperatures below freezing, of course），把一个可忍受的冷与眼前的冷分开；「just under the ice」把「有生命」放在一层薄冰之下，几乎是在给读者一个对照物，因为紧接着他就会说这里不像那样。
+
+**读者视角提示**：注意他说的是「你仍然知道」——那是**知道**，不是看见。这个区别在后文 Jelka 反复要求「听见/知道」时会被推翻。
+
+---
+
+> **原句 5:** "I let her hold my wrist and look at me as if she was willing me to understand. “You know what I mean, don’t you?” she said. “I know you’d have to hear it, a little bit – if you tried. The big sound, like the ocean, that’s just a distraction. There’s something else, if you listen properly, if you try—”"
 
 **中文理解**：Leah 任她握着自己的手腕、任她用那种「想让我懂」的眼神看；Jelka 说她知道 Leah 只要肯试就能听到一点，那团像海一样的大声音只是挡在前面的东西，后面还有别的。
 
@@ -63,7 +75,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 5:** "It’s like there’s something on the inside,” she pressed her thumbs upwards into his temples, “like water condensed on the inside of my brain and I can’t wipe it away. Ghosts don’t speak,” she said, again, the way she had before, “but something is speaking to me.”"
+> **原句 6:** "It’s like there’s something on the inside,” she pressed her thumbs upwards into his temples, “like water condensed on the inside of my brain and I can’t wipe it away. Ghosts don’t speak,” she said, again, the way she had before, “but something is speaking to me.”"
 
 **中文理解**：她把两只手扣在 Matteo 头上，拇指顶进他的太阳穴，说那东西像凝在脑内侧的水、擦不掉；又说鬼是不说话的，可确实有东西在跟她说话。
 
@@ -75,7 +87,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "I felt rather than saw her reach out for me and dodged her, drew back my elbow and edged towards the sink. At that moment, I felt unable to tolerate the thought of her asking me once again if I heard some noise I couldn’t hear. I feel bad about that now. Of everything, this is the thing that makes me feel worst."
+> **原句 7:** "I felt rather than saw her reach out for me and dodged her, drew back my elbow and edged towards the sink. At that moment, I felt unable to tolerate the thought of her asking me once again if I heard some noise I couldn’t hear. I feel bad about that now. Of everything, this is the thing that makes me feel worst."
 
 **中文理解**：她是感到、而不是看见 Jelka 伸手过来，就躲开了，收回胳膊肘，一点点挪到水槽边；她说当时连「她再问一次我听不听得见」这个念头都受不了，而现在为这件事最难受。
 
@@ -87,7 +99,7 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "I remember the light above the hatch blinking on, to indicate the trunk was being flooded. I remember the clattering on of the internal mechanism that would cause the air in the chamber to change. I remember, too, the brief silence before the sound of the external doors opening, and then the rush of the water – miles and miles of it on top of our heads."
+> **原句 8:** "I remember the light above the hatch blinking on, to indicate the trunk was being flooded. I remember the clattering on of the internal mechanism that would cause the air in the chamber to change. I remember, too, the brief silence before the sound of the external doors opening, and then the rush of the water – miles and miles of it on top of our heads."
 
 **中文理解**：她记得舱门上方的灯亮起、表示逃生筒正在灌水，记得内部机构咔哒启动、要换掉筒里的空气，也记得外门打开之前那一小段安静，然后是水压下来的声音——头顶上有很多很多英里。
 
