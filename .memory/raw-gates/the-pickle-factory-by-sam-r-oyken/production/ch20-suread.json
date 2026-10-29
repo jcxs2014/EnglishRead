@@ -1,0 +1,55 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch20",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch20_in_which_no_one_has_the_time_to_sing_happy_birthday.txt",
+ "facts": [
+  {
+   "fact": "约旦三面间谍（一名医生）在爆炸中第一个死亡。",
+   "anchor": "The Jordanian triple agent, a medical doctor, died first",
+   "start": 183,
+   "end": 239
+  },
+  {
+   "fact": "两名军官（前特种部队士兵与前海豹队员）站得离他最近。",
+   "anchor": "Two officers, one a former Special Forces soldier and the other a former Navy SEAL, were standing closest to him",
+   "start": 329,
+   "end": 441
+  },
+  {
+   "fact": "基地负责人（三个孩子的母亲）面部与躯干直接中弹。",
+   "anchor": "The Chief of Base, a mother of three, took ball bearings directly in the face and torso",
+   "start": 786,
+   "end": 873
+  },
+  {
+   "fact": "她捧着的柠檬海绵生日蛋糕被汽化。",
+   "anchor": "The lemon sponge birthday cake she was carrying was vaporized",
+   "start": 875,
+   "end": 936
+  },
+  {
+   "fact": "Subaru 的阿富汗司机被误认为恐怖分子的美军士兵射杀。",
+   "anchor": "the Afghan driver of the Subaru, shot by a U.S. soldier who mistook him for a terrorist",
+   "start": 1455,
+   "end": 1542
+  },
+  {
+   "fact": "未具名官员把反间谍失误的责任推给基地负责人。",
+   "anchor": "blame for the counterintelligence screwup was pinned on the Chief of Base",
+   "start": 1609,
+   "end": 1682
+  },
+  {
+   "fact": "站长 ARISTOTLE 被立即免职、召回并降级。",
+   "anchor": "ARISTOTLE, the Chief of Station, was immediately removed from his position, recalled, demoted",
+   "start": 2066,
+   "end": 2159
+  },
+  {
+   "fact": "BLUEBELL 与 MUCHADOO 数月后退休，在政府承包商处获得体面工作，薪水翻倍以上。",
+   "anchor": "They both took retirement after a few months, then got pretty decent jobs with government contractors, more than doubling their previous salaries",
+   "start": 3195,
+   "end": 3340
+  }
+ ]
+}
