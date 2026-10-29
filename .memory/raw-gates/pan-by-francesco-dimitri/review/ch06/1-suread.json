@@ -1,0 +1,142 @@
+{
+ "chapter": "ch06",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch06_the_smell_of_trees.txt",
+ "facts": [
+  {
+   "fact": "Testaccio 旅行者营地里七岁的 Mateo 梦见自己当铁匠学徒，锻一枚用来钉死「说谎先知 Yehoshua」的钉子；火熄后钉子变成剑，影子化成的人按他肩说「To war. To the Island!」，他举剑起飞。",
+   "anchor": "Here, Mateo is a blacksmith, a little apprentice forging a heavy nail",
+   "start": 508,
+   "end": 577
+  },
+  {
+   "fact": "Wedge 在止痛药的睡眠里入梦：废弃仓库中 Dal Mare 拄杖逼近，宣布「You are guilty」「You have Broken Enchantment, and I claim you」，以复仇为条件招募，最后把钩杖抵到他喉前说「Then you will do it for fear」，Wedge 闭眼点头。",
+   "anchor": "“Indeed. You have Broken Enchantment, and I claim you.”",
+   "start": 2605,
+   "end": 2660
+  },
+  {
+   "fact": "Giada 五年前失去父母：十一月某个周四早上八点，父亲骑摩托载母亲在 Via Nomentana 被侧街冲出的车逼倒，车轮在湿叶上打滑，两人摔车后被后面的车碾死。",
+   "anchor": "She lost them five years ago, in the stupidest accident possible.",
+   "start": 3874,
+   "end": 3939
+  },
+  {
+   "fact": "父亲 2008 年金融危机里赔光投资；肇事者是警察，赔偿几乎没有；Giada 退学、当垃圾清运工，如今住 Prenestina 一间小公寓。",
+   "anchor": "Five years on, she lives in a flat on the Prenestina.",
+   "start": 6149,
+   "end": 6202
+  },
+  {
+   "fact": "Giada 给 Wendy 看四年来从垃圾里捡的收藏：带捻缝痕迹、有海味的船板；封住嘴的布偶（用来让受害者说不出话）；烧焦的断刃匕首；写三个天使名（Senoy, Sansenoy, Semangelof）的羊皮纸（驱 Lilith）；腐烂的曼德拉草根；半截羊脚人偶。",
+   "anchor": "“That means it was part of a boat.”",
+   "start": 9071,
+   "end": 9106
+  },
+  {
+   "fact": "Giada 说她见过一只长着五十来岁男人头的黑狗翻垃圾，同事说那是影子把戏；她还听见空街上有人吹笛、在 Via Merulana 闻到树林味——「有东西在变」。",
+   "anchor": "when it lifted its head to look at me, I swear, it had a human face.",
+   "start": 12560,
+   "end": 12628
+  },
+  {
+   "fact": "Michele 拿桃核追问父亲，父亲毫无反应；随后突然尖叫，但这次目光越过 Michele 看向他身后——Michele 觉得有东西动，回头却什么都没有，接着闻到树的味道。",
+   "anchor": "The smell of trees.",
+   "start": 18587,
+   "end": 18606
+  },
+  {
+   "fact": "Giovanni 在 Sapienza 人类学图书馆查仙灵（Robert Kirk《The Secret Commonwealth》）；草地上一个赤脚、浅金发的少年搭话，说他母亲「相信」仙灵；少年临走报出「International Journal of Psychology, November 2012, article on page 23」，拒绝握手说「My name isn’t」，然后走远。",
+   "anchor": "“Mine isn’t,” the boy responds, without taking it.",
+   "start": 24680,
+   "end": 24730
+  }
+ ],
+ "numbers": [
+  {
+   "value": "七岁（Mateo）",
+   "anchor": "and he is only seven years old",
+   "start": 1296,
+   "end": 1326
+  },
+  {
+   "value": "五年前（父母去世）",
+   "anchor": "She lost them five years ago",
+   "start": 3874,
+   "end": 3902
+  },
+  {
+   "value": "早上八点、十一月某个周四",
+   "anchor": "It was eight in the morning on a Thursday in November.",
+   "start": 3940,
+   "end": 3994
+  },
+  {
+   "value": "时速二十五英里（摔车速度）",
+   "anchor": "at the pitiful speed of twenty-five miles per hour",
+   "start": 5052,
+   "end": 5102
+  },
+  {
+   "value": "2008 年（金融危机）",
+   "anchor": "lost everything in the crash of 2008",
+   "start": 5331,
+   "end": 5367
+  },
+  {
+   "value": "五十平方米的露台（旧公寓）",
+   "anchor": "a fifty-square-metre terrace",
+   "start": 5946,
+   "end": 5974
+  },
+  {
+   "value": "四年（收集怪物的年头）",
+   "anchor": "I’ve been collecting it for four years.",
+   "start": 8185,
+   "end": 8224
+  },
+  {
+   "value": "五十来岁（狗头上那张人脸）",
+   "anchor": "The head of an ordinary man, in his fifties",
+   "start": 12629,
+   "end": 12672
+  },
+  {
+   "value": "1848 年（Marvellous Island 文章）",
+   "anchor": "there’s an article from 1848 about the ‘Marvellous Island,’",
+   "start": 23313,
+   "end": 23372
+  },
+  {
+   "value": "1659 年（Duchess of Montpensier 提到 Imaginary Island）",
+   "anchor": "which the Duchess of Montpensier mentions in 1659",
+   "start": 23608,
+   "end": 23657
+  },
+  {
+   "value": "2012 年 11 月第 23 页（少年给 Giovanni 的线索）",
+   "anchor": "International Journal of Psychology, November 2012, article on page 23.",
+   "start": 24746,
+   "end": 24817
+  }
+ ],
+ "relations": [
+  {
+   "note": "Giada 的父母是 Giuseppe 与 Lavinia Speziali。",
+   "anchor": "Giuseppe Speziali was driving his scooter through the traffic of Via Nomentana",
+   "start": 3995,
+   "end": 4073
+  },
+  {
+   "note": "Carmilla 是 Giada 在跑团里的角色名。",
+   "anchor": "next steps for Carmilla, Giada’s character",
+   "start": 7640,
+   "end": 7682
+  },
+  {
+   "note": "Senoy、Sansenoy、Semangelof 是三个天使的名字，用于驱赶 Lilith、保护孩子。",
+   "anchor": "they’re supposed to keep the demon Lilith away from children",
+   "start": 10842,
+   "end": 10902
+  }
+ ]
+}
