@@ -1,0 +1,61 @@
+{
+ "book": "the-pickle-factory-by-sam-r-oyken",
+ "chapter": "ch38",
+ "text": "notes/books/mystery-thriller/the-pickle-factory-by-sam-r-oyken/text/ch38_in_which_kray_sits_on_a_pyramid.txt",
+ "facts": [
+  {
+   "fact": "开罗这一趟彻底落空，是本章的开场判词",
+   "anchor": "Cairo was a bust.",
+   "start": 37,
+   "end": 54
+  },
+  {
+   "fact": "BUTTONFLY 派来的对接人 VESUVIUS 根本没到场",
+   "anchor": "BUTTONFLY’s guy Vito J. VESUVIUS was a total no-show.",
+   "start": 371,
+   "end": 424
+  },
+  {
+   "fact": "KRAY 在 Café St. Germain 拿着黄色文件夹枯等了一个半小时",
+   "anchor": "he sat there with his yellow file folder for a good hour and a half",
+   "start": 485,
+   "end": 552
+  },
+  {
+   "fact": "VESUVIUS 赴约途中疑心被跟踪，于是取消了会面，而他确实被跟踪了",
+   "anchor": "he thought he spotted surveillance following him, so he aborted",
+   "start": 1745,
+   "end": 1808
+  },
+  {
+   "fact": "VESUVIUS 在亚历山大已培养了四个月的朝鲜线人",
+   "anchor": "had been developing a North Korean up in Alexandria for four months",
+   "start": 2270,
+   "end": 2337
+  },
+  {
+   "fact": "KRAY 在露天博物馆假借系鞋带，把刻着荷鲁斯的石块塞进袜子",
+   "anchor": "slipped the artifact into his sock",
+   "start": 3884,
+   "end": 3918
+  },
+  {
+   "fact": "KRAY 在吉萨大金字塔一带逛了三个小时，被小贩反复兜售",
+   "anchor": "He spent three hours there wandering around",
+   "start": 4212,
+   "end": 4255
+  },
+  {
+   "fact": "KRAY 沿花岗岩爬上门卡乌拉金字塔顶，从日落待到暮色散尽",
+   "anchor": "he stayed until the crepuscule had long since faded",
+   "start": 5519,
+   "end": 5570
+  },
+  {
+   "fact": "VESUVIUS 被总部紧急撤出埃及，据他自己说藏在汽车后备箱里用吸管呼吸逃出",
+   "anchor": "VESUVIUS, he got out of Egypt in the trunk of a car, breathing through a straw.",
+   "start": 7250,
+   "end": 7329
+  }
+ ]
+}
