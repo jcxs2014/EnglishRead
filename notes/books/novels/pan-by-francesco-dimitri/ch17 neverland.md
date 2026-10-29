@@ -18,7 +18,7 @@ modified: "2026-10-29"
 
 **中文理解**：全章以第二人称开门：你也曾在那里，你也梦见它，或曾在垂死朋友脸上见过它——你不记得了吗？
 **关键词**：once, dreamed, dying
-**为什么这样写**：把梦幻岛的所有权交给读者，并用「垂死的朋友脸上见过」这条暗线预设全书的死亡语法（ch11 的父亲、ch13 的母亲）；问句 Don’t you remember? 是全节的反复修辞，直到末句才允许我们承认。
+**为什么这样写**：把梦幻岛的所有权交给读者，并用「垂死的朋友脸上见过」这条暗线预设全书的死亡语法（ch12 的父亲、ch13 的母亲）；问句 Don’t you remember? 是全节的反复修辞，直到末句才允许我们承认。
 **读者视角提示**：这一节通篇如此——作者把巴利的「每个孩子都要长大」改写成「每个大人都撒过谎」。
 
 ---
@@ -117,7 +117,7 @@ modified: "2026-10-29"
 
 **中文理解**：一切将在城中终结——Pan 断定终局不在梦幻岛，而在罗马；他说这次无论如何都要把门打开。
 **关键词**：city, end
-**为什么这样写**：把战场从神话岛屿搬回都市，是 Book 2 的结构宣告（题名 Flesh, Enchantment, Dream 的次序也由此展开）；isolation 的岛就此降级为前哨。
+**为什么这样写**：把战场从神话岛屿搬回都市，是 Book 2 的结构宣告；岛就此降级为前哨，终局留给罗马。
 **读者视角提示**：同节末句写这位复生的大神在昏暗星光下终于微笑——随后镜头硬切回草地上的两位女人，规模与家常在同一节内对撞。
 
 ---
@@ -135,7 +135,7 @@ modified: "2026-10-29"
 
 **中文理解**：Wendy 的方法论：要情报别去问，让他们自己说；她指指额头——这才是魔术。
 **关键词**：information, talk
-**为什么这样写**：把 ch06 的心理术与 ch14 的「让你看别处」正式升级为情报学；Giada 由此立誓永不再低估她——本书里最弱装备（观察与话术）被确认成一项战力。
+**为什么这样写**：把 ch06 的观察术与 ch16「把演出变成魔法只需一点点胆量」正式升级为情报学；Giada 由此立誓永不再低估她——本书里最弱装备（观察与话术）被确认成一项战力。
 **读者视角提示**：同节末 Peter 曾提醒林中有 Wild People、仙女给的是不麻醉只松弛的甜烟斗：全书的战备清单在此夜清点完毕，下一章即攻船。
 
 ## 本章词汇
@@ -146,7 +146,7 @@ modified: "2026-10-29"
 | impositions | 强加的规条 | The slavery of work has replaced that of school, and the impositions of the world are much harder than those of your parents. |
 | stagnates | 淤积不散 | The bitter taste of a hangover stagnates in his mouth, while his stocky body stretches on the makeshift mattress. |
 | proportioned | 比例合宜的 | They’re leaning against the trunk of a tree, a huge oak proportioned to make them look like a couple of lazy squirrels. |
-| intervenes | 插话介入 | “Uncle Augusto?” / “Captain Hook,” Giada intervenes. “He is Captain Hook.” |
+| intervenes | 插话介入 | “Captain Hook,” Giada intervenes. “He is Captain Hook.” |
 | lacerated | 割裂、撕裂 | He lacerated her and he gutted her and he abandoned her on our beach, that worm, that coward! |
 | sentinels | 哨兵 | Two Native American sentinels watch from the tree, without letting the children notice their presence. |
 | sanctuaries | 圣所 | The world is changing, new sanctuaries arise. |
@@ -154,7 +154,7 @@ modified: "2026-10-29"
 | weightlessly | 无重力地 | So Giovanni swims in the dark, floating weightlessly in an enveloping nothingness. |
 | incarnating | 化身投胎 | Arcadia is lost, thinks Pan, and it is the first real thought he’s formulated since incarnating. |
 | imperturbable | 不可撼动的、平静的 | Even Tinker Bell watched the show with delight, as far as Wendy could understand from her alien, imperturbable beauty. |
-| slaughtered | 屠杀 | However, Aragorn slaughtered a whole bunch of people.” |
+| slaughtered | 屠杀 | “However, Aragorn slaughtered a whole bunch of people.” |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -166,7 +166,7 @@ modified: "2026-10-29"
 | nibbling | 轻咬 | It’s impossible that Giovanni hasn’t heard her coming: she’s so close that she’s already nibbling on his ear. |
 | crumbles | 瓦解 | As Giovanni’s will crumbles, one of the girls seizes his hand and brings it to her breast. |
 | narcotic | 麻醉性的 | It doesn’t have narcotic effects; it’s just very relaxing. |
-| fertiliser | 肥料 | Noose is already fertiliser for the ferns.” |
+| fertiliser | 肥料 | “Noose is already fertiliser for the ferns.” |
 | willpower | 意志力 | Giovanni envies her willpower. |
 | underestimate | 低估 | Giada promises herself that never, never again will she underestimate the Wondrous Wendy. |
 

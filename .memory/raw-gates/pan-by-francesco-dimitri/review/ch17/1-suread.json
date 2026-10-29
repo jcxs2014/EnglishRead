@@ -1,0 +1,119 @@
+{
+ "chapter": "ch17",
+ "file": "text/ch17_neverland.txt",
+ "text_chars": 28803,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "第一节以第二人称请读者回忆梦幻岛：坠落变飞行、无父母老师神父、虎鲨与人、双头八脚兽 Baddy Long Legs、第一次赌命与识美同地",
+   "anchor": "Welcome back.",
+   "offset": 4186
+  },
+  {
+   "id": "F2",
+   "fact": "Giovanni 宿醉在草棚醒来，气味→声音→视觉依次恢复；Weirdo 送培根并抱怨总错过冒险；Wendy 说父亲教过看光影辨时",
+   "anchor": "From the play of light and shadows.",
+   "offset": 6612
+  },
+  {
+   "id": "F3",
+   "fact": "Giada 当面说自己被海盗强奸、已亲手杀了他；Wendy 说 Augusto 掳走 Luisa，Giada 点明他就是 Captain Hook",
+   "anchor": "“I was raped,” Giada says.",
+   "offset": 6068
+  },
+  {
+   "id": "F4",
+   "fact": "沙滩柴堆葬 Stefano 与 Silvia：底层粗木、中间干草、顶部遗体，高逾两米；Lost 共六十人围成半圆，两名原住民哨兵在树上旁观",
+   "anchor": "The Lost—sixty of them in total",
+   "offset": 9692
+  },
+  {
+   "id": "F5",
+   "fact": "Peter Pan 自空中降临、落在 Tinker Bell 与 Retinue 之间，发表悼词与宣战演说：唯 Flesh 偶然死、Dream 与 Enchantment 靠守护而永恒；Nemi 王统断绝；明日夺回 Luisa",
+   "anchor": "Tomorrow we go to take back our living one.",
+   "offset": 12627
+  },
+  {
+   "id": "F6",
+   "fact": "Tinker Bell 点柴堆；Giovanni 在火里看见 Luisa 的脸，决意不让她成为第三个死者；他决定救出 Luisa 后也带她离开 Peter Pan",
+   "anchor": "There won’t be a third.",
+   "offset": 13260
+  },
+  {
+   "id": "F7",
+   "fact": "夜里 Giovanni 裸身入海，三名美人鱼/塞壬围攻；他自问「背叛的阈值」，摸到鱼尾鳞片；Tinker Bell 悬空喝止，称她们「以整个身体唱欲望之歌」",
+   "anchor": "Their song is Desire",
+   "offset": 19804
+  },
+  {
+   "id": "F8",
+   "fact": "Tinker Bell 解释：孩子对她们无害，成人则会被「做到死」；她们对不欲之人施加更坏的死法；明日帮他找干净衣服",
+   "anchor": "They would have fucked you until they killed you",
+   "offset": 20252
+  },
+  {
+   "id": "F9",
+   "fact": "第五节进入 Pan 的内心：肉身沉重、派对令他厌倦、阿卡迪亚已失、新纪元属于 Hook、终局在罗马、这次要把门打开",
+   "anchor": "the city is where everything will end",
+   "offset": 23269
+  },
+  {
+   "id": "F10",
+   "fact": "尾声 Wendy 与 Giada 草地传烟斗夜谈：Giada 承认「我知道我能杀，这是巨大的权力」、为 Noose 可能存在的母亲设想、拒绝给 Peter 开空白支票；Wendy 说情报不用问、让他们自己说",
+   "anchor": "you don’t ask, you let them talk",
+   "offset": 28623
+  }
+ ],
+ "numbers": [
+  {
+   "value": "five",
+   "what": "本章五节（I–V）",
+   "anchor": "\nV\n",
+   "offset": 21635
+  },
+  {
+   "value": "two metres",
+   "what": "柴堆高度",
+   "anchor": "more than two metres high",
+   "offset": 8861
+  },
+  {
+   "value": "sixty",
+   "what": "Lost Children 人数",
+   "anchor": "sixty of them in total",
+   "offset": 9701
+  },
+  {
+   "value": "three",
+   "what": "围攻 Giovanni 的美人鱼人数",
+   "anchor": "there are so many of us",
+   "offset": 16542
+  },
+  {
+   "value": "sixteen or seventeen",
+   "what": "被 Giada 杀死的海盗 Noose 年龄",
+   "anchor": "He was sixteen, seventeen years old",
+   "offset": 26455
+  }
+ ],
+ "relations": [
+  {
+   "who": "Augusto Dal Mare",
+   "what": "即 Captain Hook，掳走 Luisa",
+   "anchor": "“Captain Hook,” Giada intervenes. “He is Captain Hook.”",
+   "offset": 7981
+  },
+  {
+   "who": "Tinker Bell",
+   "what": "喝止塞壬、解说岛规、点柴堆",
+   "anchor": "“Leave him alone,” says Tinker Bell.",
+   "offset": 17987
+  },
+  {
+   "who": "Stefano Cavaterra",
+   "what": "最后一任林中之王，火葬于岛上；王统断绝",
+   "anchor": "the line of succession is broken",
+   "offset": 11388
+  }
+ ]
+}
