@@ -1,0 +1,112 @@
+{
+ "chapter": "ch02",
+ "text": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch02_future_friends_standstill.txt",
+ "facts": [
+  {
+   "fact": "Michele 恨学校；九月对他等于死亡：海滨小镇空了、点心变冷、丧钟宣布新学年。",
+   "anchor": "He hates school more than anything else, and the whole year revolves around it.",
+   "start": 134,
+   "end": 213
+  },
+  {
+   "fact": "一月六日早晨 Michele 在客厅看见父亲裤子上着火，母亲用父亲送她的绿披肩扑灭。",
+   "anchor": "The first thing he sees is a flame on Papa’s trousers.",
+   "start": 2382,
+   "end": 2436
+  },
+  {
+   "fact": "父亲发抖、低声叫，地上有没熄的烟；Michele 叫他毫无反应，他对母亲说父亲连他都不认得了。",
+   "anchor": "“He doesn’t even recognise me.”",
+   "start": 3085,
+   "end": 3116
+  },
+  {
+   "fact": "Michele 的得意被愧疚冲掉（披肩毁了），但他不道歉，因为「在父母面前必须坚强」。",
+   "anchor": "And the triumph is swept away by guilt, as he thinks how this morning has cost Mama even that little token of love",
+   "start": 3760,
+   "end": 3874
+  },
+  {
+   "fact": "同一早晨罗马的孩子全醒着，San Basilio 街上一个富家孩子六点被发现死亡，另一个被打得可能再也走不了路。",
+   "anchor": "The children are awake and not one of them is dreaming—but that is not why wonder dies.",
+   "start": 5811,
+   "end": 5898
+  },
+  {
+   "fact": "Giovanni 与 Luisa 在地下室做爱后吃早餐；他在分析 172 张打哈欠照片写论文，导师 Fatty 说他的题目只是文学母题。",
+   "anchor": "The differences in yawning posture in the generation of the ’70s and ’80s, and all the political implications. I still have 172 photos of yawns to analyse.",
+   "start": 8888,
+   "end": 9043
+  },
+  {
+   "fact": "Luisa 警告他别把自己扔掉；Giovanni 沉默喝完牛奶，说服自己哈欠比他的传说、比 Neverland 更有意思。",
+   "anchor": "He finishes his milk in silence, trying to convince himself that yawns really are an intriguing subject, more so than his legend. More than Neverland.",
+   "start": 11789,
+   "end": 11939
+  },
+  {
+   "fact": "Luca 被陌生人处理伤口，父亲带着妻子与小儿子 Renzo 到场；他问 Giulio，得到的口气意味着 Giulio 死了；一个小个子男人问话，他逐字复述「Tell them he’s coming back」，对方没听懂。",
+   "anchor": "“Tell them he’s coming back,” Luca repeats, word for word.",
+   "start": 13071,
+   "end": 13129
+  }
+ ],
+ "numbers": [
+  {
+   "value": "一月六日",
+   "anchor": "Waking on the morning of the 6th of January, Michele thinks about the vortex.",
+   "start": 1377,
+   "end": 1454
+  },
+  {
+   "value": "172 张打哈欠照片",
+   "anchor": "I still have 172 photos of yawns to analyse.",
+   "start": 8999,
+   "end": 9043
+  },
+  {
+   "value": "三十平方米的地下室",
+   "anchor": "Within these thirty square metres, only two light fittings work",
+   "start": 6805,
+   "end": 6868
+  },
+  {
+   "value": "四十瓦的床头灯",
+   "anchor": "if not for the forty watts from the bedside lamp",
+   "start": 6985,
+   "end": 7033
+  },
+  {
+   "value": "三年（Luisa 牵他跨过性与爱之间的深渊）",
+   "anchor": "three years ago Luisa took Giovanni by the hand and guided him across it",
+   "start": 7604,
+   "end": 7676
+  },
+  {
+   "value": "六点（富家孩子被发现死亡的时间）",
+   "anchor": "a rich kid has been found dead at six in the morning",
+   "start": 5986,
+   "end": 6038
+  }
+ ],
+ "relations": [
+  {
+   "note": "Silvia（Mama）是 Stefano 的妻子、Michele 的母亲，全天照顾病人。",
+   "anchor": "“Easy, Stefi,” she says, now speaking in her soothing voice.",
+   "start": 4150,
+   "end": 4210
+  },
+  {
+   "note": "Luisa 是 Giovanni 的女友；Fatty Bolger 是他的导师兼论文合作者。",
+   "anchor": "It was Luisa who first gave Giovanni’s supervisor a nickname based on a hobbit",
+   "start": 8474,
+   "end": 8552
+  },
+  {
+   "note": "Renzo 是 Luca 的弟弟（父亲带来的是妻子与小儿子）。",
+   "anchor": "their younger son—fucking Renzo who doesn’t even pretend to cry",
+   "start": 12188,
+   "end": 12251
+  }
+ ]
+}

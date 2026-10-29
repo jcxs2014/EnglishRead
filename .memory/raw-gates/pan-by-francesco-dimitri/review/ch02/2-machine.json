@@ -1,0 +1,295 @@
+{
+  "chapter": 2,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/ch02 the lives of some of our future friends reach a standstill.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/pan-by-francesco-dimitri/text/ch02_future_friends_standstill.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He hates school more than anything else, and the whole year revolves around it. For example: June is the best month, bec",
+          "ok": true,
+          "pos": 120
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The first thing he sees is a flame on Papa’s trousers. Papa is in his favourite chair and Mama is throwing a once-luxuri",
+          "ok": true,
+          "pos": 2351
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "And the triumph is swept away by guilt, as he thinks how this morning has cost Mama even that little token of love, and ",
+          "ok": true,
+          "pos": 3685
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The children are awake and not one of them is dreaming—but that is not why wonder dies. The forensics team is taking sam",
+          "ok": true,
+          "pos": 5706
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "His naked body, joined with Luisa’s, rises and falls on the creaking camp bed, and his mind is drowning in pleasure alon",
+          "ok": true,
+          "pos": 7289
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He knows that Luisa’s fears are well-founded, but he can’t admit it. He finishes his milk in silence, trying to convince",
+          "ok": true,
+          "pos": 11436
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Luca asks about Giulio, and they say, he’s badly injured. They use the tone that means, he’s badly dead, dude. None of h",
+          "ok": true,
+          "pos": 11960
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Tell them he’s coming back,” Luca repeats, word for word",
+          "ok": true,
+          "pos": 12761
+        }
+      ],
+      "words": 10
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 91,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 72
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.85
+      }
+    }
+  ],
+  "form": {
+    "h1": "02. The Lives of Some of Our Future Friends Reach a Standstill",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 14.0,
+    "block_range": [
+      8,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2331,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 29 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
