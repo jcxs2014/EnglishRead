@@ -27,6 +27,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 2:** "We used to order it,” she says, “mattar paneer and pilau, from the place that took your name and made you sit on a bench while they made it. And they’d always ask you if you wanted jalebi while you waited, even though it always seemed wrong, to eat the sweet thing first.”"
 
 **中文理解**：Leah 没头没脑地问她还记不记得豌豆奶酪，见她没应声又问一遍，然后自己把细节说出来：mattar paneer 和 pilau，那家店会拿走你的名字、让你坐在长凳上等；等的时候总问要不要 jalebi，虽说先吃甜的这件事一直显得不对。
@@ -36,6 +38,8 @@ modified: "2026-10-29"
 **为什么这样写**：整段都是 Leah 的话，句子用 `and` 一路加下去，像照着单子念。`the place that took your name` 把一家外卖店写成会收走名字的地方，一句话把两个人的旧日常钉在某个柜台前；最后那句「先吃甜的这件事一直不对」是全段唯一的评价，说的人把判断留在甜点上，没有去碰别处。
 
 **读者视角提示**：`out of nowhere` 是 Miri 加的。她先给这段记忆贴一个「不知从哪来」，才允许自己继续听。
+
+---
 
 ---
 
@@ -51,19 +55,9 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 4:** "I think about this and I feel that it is suddenly my Leah again, my Leah in the bath behind me, and I am seized with a stark and immediate panic – a panic that I know I have allowed to wander on a leash for so long, mainly keeping it at a wary distance though always at least partially in view."
-
-**中文理解**：她一边想着从前那些琐事，一边忽然觉得身后浴缸里的人**又是她的 Leah 了**，随即被一阵赤裸而即刻的恐慌攫住——那恐慌她其实已经用皮带拴着放了很久，始终让它隔着一点距离，却总还留在视线里。
-
-**关键词**：my Leah again / a stark and immediate panic / wander on a leash / at least partially in view
-
-**为什么这样写**：一句里把「认出」与「恐慌」焊在一起：认出不是安慰，倒像触发。`my Leah` 重复两次，第一次是判断，第二次加了 `in the bath behind me` 变成位置确认。后面用「皮带上的恐慌」这个比喻把几个月的精神状态写成一条被牵着的狗——它没走远，只是被允许在视野边缘走动；认出的一刻，牵引绳松了。
-
-**读者视角提示**：注意她说「又是」（again）——这等于承认有一段时间她认不出、或不敢认。紧接着的原文写她转身跪下吻她，几个月没有这样吻过。
-
 ---
 
-> **原句 5:** "“You’ll be OK in here with me,” she says and I don’t ask her what she means by that. “I should have touched Jelka,” she says, “before, I mean. I should have tried when she reached for me.”"
+> **原句 4:** "“You’ll be OK in here with me,” she says and I don’t ask her what she means by that. “I should have touched Jelka,” she says, “before, I mean. I should have tried when she reached for me.”"
 
 **中文理解**：Leah 说「你跟我待在这里会没事的」，Miri 没有追问她指的是什么；接着她说自己早该在 Jelka 伸手过来的时候去碰她，「我是说，之前」。
 
@@ -75,7 +69,9 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 6:** "Juna calls and asks if I want to talk to her and I tell her to give me more time. I call Carmen instead, but I have lost track of the days and she is having her eye operation."
+---
+
+> **原句 5:** "Juna calls and asks if I want to talk to her and I tell her to give me more time. I call Carmen instead, but I have lost track of the days and she is having her eye operation."
 
 **中文理解**：Juna 打电话来问她要不要谈，她说再给她一点时间。她改打给 Carmen，却已经记不清日子，而那天正赶上 Carmen 做眼部手术。
 
@@ -87,7 +83,9 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 7:** "When something bad is actually happening, it’s easy to underreact, because a part of you is wired to assume it isn’t real. When you stop underreacting, the horror is unique because it is, unfortunately, endless."
+---
+
+> **原句 6:** "When something bad is actually happening, it’s easy to underreact, because a part of you is wired to assume it isn’t real. When you stop underreacting, the horror is unique because it is, unfortunately, endless."
 
 **中文理解**：叙述在这里转成一句泛论：坏事真在发生的时候人反而容易反应不足，因为身体里有一部分被设定成「这不是真的」；等到不再反应不足，那种恐惧之所以特别，是因为它没有尽头。
 
@@ -99,7 +97,9 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 8:** "Problem is, I read, that ultimately you’re really the one who has to kill them. Or not them but the idea of them – you have to make a choice to let it end."
+---
+
+> **原句 7:** "Problem is, I read, that ultimately you’re really the one who has to kill them. Or not them but the idea of them – you have to make a choice to let it end."
 
 **中文理解**：她读到一句：「问题在于，最终得由你亲手杀死他们。或者说不是他们，而是关于他们的那个念头——你得做出选择，让它结束。」
 
@@ -111,7 +111,9 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 9:** "As I look, I see that the skin across her ribs is pulling, clearing, growing transparent like a window wiped of mist. I see her ribs through her skin and then her lungs, expanding, retracting, the whole of her sheer in the water, translucent, transparent and breathing easily, though – submerged as she is – she has no recourse to the air."
+---
+
+> **原句 8:** "As I look, I see that the skin across her ribs is pulling, clearing, growing transparent like a window wiped of mist. I see her ribs through her skin and then her lungs, expanding, retracting, the whole of her sheer in the water, translucent, transparent and breathing easily, though – submerged as she is – she has no recourse to the air."
 
 **中文理解**：她俯身看水：肋上的皮肤在拉薄、变清，像一扇擦掉雾气的窗；她看见肋骨，也看见肺在扩张、收缩，整个人在水里是透明的，而且呼吸得很轻松——尽管整张脸都埋在水下，她并没有空气可用。
 

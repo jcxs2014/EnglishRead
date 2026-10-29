@@ -29,6 +29,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 2:** "Almost everything that lives in the ocean is also made up of the ocean, to some degree, rather like the way we inherit mitochondrial DNA from our mothers, and our cells likewise hang around in our mothers’ bloodstreams for years after we’re born."
 
 **中文理解**：第五条讲海水与河水的化学比例几乎相反，末尾忽然拐到「海里几乎一切都由海水构成」，再拐到线粒体 DNA 与母亲血液里残留的细胞。
@@ -38,6 +40,8 @@ modified: "2026-10-29"
 **为什么这样写**：这是全章最漂亮的一次跳。前半句还在讲钙与氯的比例，后半句用 `rather like` 把化学换成血缘——海与人、母与子被放进同一个「构成」的句式里。清单在这里第一次不中性了。
 
 **读者视角提示**：注意 `likewise` 与 `for years after we’re born`：她讲的是「我们身上一直留着别人的东西」，这句在几页之后会变成她自己的处境。
+
+---
 
 ---
 
@@ -57,6 +61,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 4:** "Matteo went down into the escape trunk once it had closed again, when the drain valve had expelled the residual water from the compartment. I didn’t go down with him to look. When he came back, his face was odd, unpleasant."
 
 **中文理解**：Matteo在舱门关好、排水阀放掉余水之后下到逃生筒里去看；莱娅没跟下去。他上来时脸色不对，手是湿的。
@@ -66,6 +72,8 @@ modified: "2026-10-29"
 **为什么这样写**：三个短句，主语连续换：他下、我没下、他回来。`didn’t` 是全章唯一一次明写她拒绝去看，而她的反应不是问，是去拿毛巾。
 
 **读者视角提示**：他的手「wet」而舱内只是「still-damp」——湿度对不上人的手，这个细节后面没有解释，也不需要解释。
+
+---
 
 ---
 
@@ -85,6 +93,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 6:** "As he slept, I went out onto the main deck and looked towards the windows, willing something to appear and seeing nothing, the way I always saw nothing, and this briefly felt worse than the fact of what Jelka had done."
 
 **中文理解**：他睡着后，她走到主甲板上朝窗户看，想让什么东西出现，结果什么也没看见——和往常一样；而这种空等，短暂地比「Jelka做过的事」更让她难受。
@@ -94,6 +104,8 @@ modified: "2026-10-29"
 **为什么这样写**：`willing something to appear and seeing nothing` 两个分词并列，把「希望」与「没有」压进同一句；`the way I always saw nothing` 是同位语式的自我纠正，等于说：我不是今天才看不见。
 
 **读者视角提示**：`briefly` 是关键限定词——这种难受只持续了一小会儿，然后她回去煮咖啡；她连痛苦都要按时收起来。
+
+---
 
 ---
 
@@ -113,6 +125,8 @@ modified: "2026-10-29"
 
 ---
 
+---
+
 > **原句 8:** "He travels for months on end, encountering demons, sea monsters, every kind of creature you can imagine, and then one night he comes upon a man chained to a pillar of rock, in the middle of the sea – just there, just there in the ocean like this great, tall fang rising from the waves, this thing that shouldn’t be there, a man at the mercy of the elements."
 
 **中文理解**：圣布伦丹在海上走了几个月，遇见恶魔、海怪、各种想得到的生物；某一夜他撞见一个人被锁在石柱上，就在海中央——就在那儿，在海水里像一根高高竖起的獠牙，一个本不该在那里出现的东西，一个任凭风浪摆布的人。
@@ -127,21 +141,9 @@ modified: "2026-10-29"
 
 ---
 
-> **原句 9:** "He travels for months on end, encountering demons, sea monsters, every kind of creature you can imagine, and then one night he comes upon a man chained to a pillar of rock, in the middle of the sea – just there, just there in the ocean like this great, tall fang rising from the waves, this thing that shouldn’t be there, a man at the mercy of the elements."
-
-**中文理解**：布伦丹渡海的夜里撞见海中一根石柱，柱上锁着一个人——出卖耶稣的犹大。这一段把那根柱子写成从浪里升起的一颗巨牙。
-
-**关键词**：encountering demons / a pillar of rock / at the mercy of the elements
-
-**为什么这样写**：`just there, just there` 连说两遍，像她自己也难以置信；`this thing that shouldn’t be there` 用否定句给那个形体定性——不是岛、不是生物，是一个「不该在」的位置。整段不用引号，让复述听起来像她亲眼见过。
-
-**读者视角提示**：在故事里犹大被允许在周日与圣日离开地狱、漂在海上，理由正是「慈悲」；莱娅记住的是「风能吹到脸上」这件事，而不是刑罚。
-
 ---
 
----
-
-> **原句 10:** "At some point, the sound started up again, only this time, when it did, I heard the voice inside it. I mean by this, of course, that I heard the voice that Jelka had told us about, the voice I hadn’t heard before, the voice she had claimed couldn’t possibly be a ghost."
+> **原句 9:** "At some point, the sound started up again, only this time, when it did, I heard the voice inside it. I mean by this, of course, that I heard the voice that Jelka had told us about, the voice I hadn’t heard before, the voice she had claimed couldn’t possibly be a ghost."
 
 **中文理解**：那声音又响起来了，这一次她听见了里面的「人声」——正是Jelka说过的那种、她此前没听见过的、Jelka坚称不可能是鬼的声音。
 
