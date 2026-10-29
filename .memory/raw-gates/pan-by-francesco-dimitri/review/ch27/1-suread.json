@@ -1,0 +1,143 @@
+{
+ "chapter": "ch27",
+ "file": "text/ch27_the_dreamhound.txt",
+ "text_chars": 32550,
+ "facts": [
+  {
+   "id": "F1",
+   "fact": "Mortal Line 在城另一头；Temidorus 提议偷一辆白色 Vespa，车灵乐意帮忙，另偷两顶头盔",
+   "anchor": "before the distancing of Flesh and Enchantment",
+   "offset": 478
+  },
+  {
+   "id": "F2",
+   "fact": "开门的是穿黑束胸与超短 vinyl 裙的年轻女人；员工室里 Dagon 听 Bela Lugosi’s Dead、抽大麻、能看见 Temidorus 的羊腿",
+   "anchor": "Bela Lugosi’s Dead",
+   "offset": 2394
+  },
+  {
+   "id": "F3",
+   "fact": "Dagon 说 Irene 提过 Michele、欠她人情（朋友被强物所害进了疯人院，Irene 帮捞出来）；罗马地下圈一半在谈 Michele，称其父为 Nemi 最后的林中王",
+   "anchor": "The last King of the Woods of Nemi",
+   "offset": 5729
+  },
+  {
+   "id": "F4",
+   "fact": "Dagon 自称只扫街、不打神的仗，但两害相权取平衡：「不想让疯神在我城市里溜达」",
+   "anchor": "a mad god strolling around my city",
+   "offset": 6858
+  },
+  {
+   "id": "F5",
+   "fact": "Dagon 教入梦：别当真（只是提纲）、看手会变、Artemisia vulgaris 茶、Vishudda 喉轮、红三叉戟、把梦定在这间房",
+   "anchor": "the dreamers’ herb",
+   "offset": 12494
+  },
+  {
+   "id": "F6",
+   "fact": "Temidorus 讲出 Dream 战术要点（神灵精怪在那里力量最大、召家灵护 Dreaming Self），随后拒绝陪孙子下梦，要他自己打",
+   "anchor": "they will protect the arcane matter",
+   "offset": 11592
+  },
+  {
+   "id": "F7",
+   "fact": "入梦判定：一只手四指、另一只化成粉色黏液；Dagon 在 Dream 里是纹章闪光的骑士，Temidorus 是猪鼻厚唇白须的怪物，旁边一头驴驮酒罐、酒香有形",
+   "anchor": "It has four fingers.",
+   "offset": 17619
+  },
+  {
+   "id": "F8",
+   "fact": "Wedge 一吼把 Michele 掀到墙上；吼声有牙齿，他的尖叫一出口就逃；他瞥见 Flesh 里的身体几乎没动",
+   "anchor": "his cries of panic flee",
+   "offset": 21171
+  },
+  {
+   "id": "F9",
+   "fact": "挨打时他想通：父亲的阿尔茨海默是一连串小中风，是 Dal Mare 夜夜趁其无清醒梦时偷脑所致；愤怒成武器把 Wedge 砸穿墙",
+   "anchor": "he harvested it one cluster of neurons at a time",
+   "offset": 22078
+  },
+  {
+   "id": "F10",
+   "fact": "墙外黑暗里有高个黄眼生物，以目光咬伤他的右臂，被 Wedge 一句「他是船长的猎物」赶走",
+   "anchor": "He’s my Captain’s prey.",
+   "offset": 22841
+  },
+  {
+   "id": "F11",
+   "fact": "Rearview 找到 Wedge 的肉身（Santa Lucia 诊所）；Michele 靠「假装已经会了」醒来",
+   "anchor": "Found found.",
+   "offset": 24445
+  },
+  {
+   "id": "F12",
+   "fact": "诊所：对 Gate 说「我要取一个灵魂」，许人情或当场挑战；摄像头灵答应不声张；Temidorus 一拳打倒警卫",
+   "anchor": "I have a soul to take",
+   "offset": 26198
+  },
+  {
+   "id": "F13",
+   "fact": "病房里 Wedge＝Luca；他供出 Hook 要拿 Michele 的血破牢、剑的事被命令「忘掉」",
+   "anchor": "He needs you for a kind of magic ritual",
+   "offset": 29524
+  },
+  {
+   "id": "F14",
+   "fact": "Michele 用枕头闷死 Luca：在 Flesh 里他身体坏了、无法反抗；他学会杀人有多容易",
+   "anchor": "the shaman learns how easy it is to kill",
+   "offset": 32508
+  }
+ ],
+ "numbers": [
+  {
+   "value": "six",
+   "what": "本章六节（I–VI）",
+   "anchor": "\nVI\n",
+   "offset": 25464
+  },
+  {
+   "value": "1964",
+   "what": "一头 satyr 被 basilisk 杀死之年",
+   "anchor": "killed by a basilisk in 1964",
+   "offset": 3685
+  },
+  {
+   "value": "ninety-nine",
+   "what": "法师裸奔上阵的比例",
+   "anchor": "Ninety-nine times out of a hundred",
+   "offset": 9378
+  },
+  {
+   "value": "sixteen years",
+   "what": "Michele 过去十六年都是普通入睡",
+   "anchor": "as he’s done for sixteen years",
+   "offset": 16060
+  },
+  {
+   "value": "four fingers",
+   "what": "Dream 里第一只手的指头数",
+   "anchor": "It has four fingers.",
+   "offset": 17619
+  }
+ ],
+ "relations": [
+  {
+   "who": "Dagon",
+   "what": "欠 Irene 人情的朋克，教 Michele 入梦并陪他去诊所",
+   "anchor": "Irene mentioned you",
+   "offset": 4436
+  },
+  {
+   "who": "Wedge / Luca",
+   "what": "Hook 的梦猎犬，肉身在 Santa Lucia 诊所，被 Michele 闷死",
+   "anchor": "you must be Wedge",
+   "offset": 27983
+  },
+  {
+   "who": "Temidorus",
+   "what": "拒绝陪孙子下梦，逼他自己面对猎犬",
+   "anchor": "you’re dealing with the puppy by yourself",
+   "offset": 16813
+  }
+ ]
+}
