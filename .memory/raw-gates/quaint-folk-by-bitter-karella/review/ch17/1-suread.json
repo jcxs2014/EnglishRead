@@ -1,0 +1,88 @@
+{
+ "chapter": "ch17",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[271:344]",
+   "anchor": "returned from the market with a string of crunkle, a crate of elk's blood",
+   "fact": "采买：crunkle/elk's blood 箱/装饰盒"
+  },
+  {
+   "range": "[896:971]",
+   "anchor": "his rightful place as paterfamilias, and slice the crunkle with a big smile",
+   "fact": "完美晚餐幻想：paterfamilias 切 crunkle/举杯"
+  },
+  {
+   "range": "[1701:1791]",
+   "anchor": "purchased a large rabbit plush, which she planned to strip for her makeshift bunny costume",
+   "fact": "兔玩偶只取耳朵做 bunny costume"
+  },
+  {
+   "range": "[2495:2535]",
+   "anchor": "\"Mom, we need to leave this island now!\"",
+   "fact": "Sandy 冲进厨房喊离岛"
+  },
+  {
+   "range": "[2950:3023]",
+   "anchor": "We saw him in the bog! Round Robin! And also Helena Hollyoak was a witch!",
+   "fact": "报信逐字"
+  },
+  {
+   "range": "[3027:3142]",
+   "anchor": "\"Hmm, so you say.\" Jessica ran her thumb over the corn dolly's dress, smoothing the dark material. \"Just like you?\"",
+   "fact": "Jessica 敷衍+Just like you?；Sandy 抗辩 eclectic folkloric witch"
+  },
+  {
+   "range": "[4221:4333]",
+   "anchor": "Sandy stormed off in an impotent teenage huff, and Jessica waited patiently until she heard the predictable slam",
+   "fact": "fights again/elk's blood 味归咎/摔门"
+  },
+  {
+   "range": "[5325:5383]",
+   "anchor": "\"My children tell me that your Sandy attacked them today.\"",
+   "fact": "Molly 反常来访：不笑/不带 luv/指控"
+  },
+  {
+   "range": "[7085:7122]",
+   "anchor": "I think I shouldn't come over anymore",
+   "fact": "绝交宣布逐字"
+  },
+  {
+   "range": "[7279:7382]",
+   "anchor": "told her that they would not be running away to San Francisco together and that she should just go home",
+   "fact": "最孤独=Morgan 拒私奔那天对照；Sandy 毁了她唯一的朋友"
+  },
+  {
+   "range": "[8591:8681]",
+   "anchor": "I'm going to have to pull an all-nighter tomorrow. I might not be back in time for dinner.",
+   "fact": "Greg 通宵宣布；It's tradition vs It's not our tradition"
+  },
+  {
+   "range": "[11277:11338]",
+   "anchor": "desperately trying to figure out how to mix a tequila sunrise",
+   "fact": "办公室派对回忆：tequila sunrise/Boy Scout/逃离父母家如出水呼吸"
+  },
+  {
+   "range": "[13796:13879]",
+   "anchor": "would come up in complaints to a therapist as the Rosetta stone to Sandy's troubles",
+   "fact": "therapist 预感+It all started when my mom 原话"
+  },
+  {
+   "range": "[14794:14867]",
+   "anchor": "the snout flattened into an almost human face with a blankly serene stare",
+   "fact": "画像凝视：medieval tapestry/almost human face/slipper-like ears"
+  },
+  {
+   "range": "[16784:16818]",
+   "anchor": "All will be well. Let me fix this.",
+   "fact": "第三场梦：入画像/绅士兔/许诺/needed to feed"
+  },
+  {
+   "range": "[17501:17576]",
+   "anchor": "She was going to make Tigglestide absolutely magical even if it killed her.",
+   "fact": "结尾句逐字"
+  }
+ ]
+}

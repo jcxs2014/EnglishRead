@@ -1,0 +1,364 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch15 round robin has got sandy.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch15_chap15.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "There were twelve obelisks of irregular limestone, blooming with gray-green lichen, all arranged in a ring around a thir",
+          "ok": true,
+          "pos": 1064
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The central obelisk was marked with the same abstract patterns, nearly vanished beneath the moss and lichen, but at its ",
+          "ok": true,
+          "pos": 1526
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Oi, welcome to the den o' sin. Make yourself at home",
+          "ok": true,
+          "pos": 2566
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "\"That's Jocko,\" said George, noticing Sandy's attention as she leafed through a box of old vinyl records",
+          "ok": true,
+          "pos": 3472
+        },
+        {
+          "text": "Back when he was alive, we didn't have no trouble with rabbits on the farm. My da sent him down a hole and he'd always c",
+          "ok": true,
+          "pos": 3612
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "George didn't wait for an answer. \"The church said that this is where those nuns were seduced by the devil. They said th",
+          "ok": true,
+          "pos": 5723
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I know that those nuns didn't make no deal with the devil. They met something much older, something that's been on this ",
+          "ok": true,
+          "pos": 7230
+        },
+        {
+          "text": "This is where Helena Hollyoak met him too",
+          "ok": true,
+          "pos": 7649
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "George grinned. \"It's specially consecrated to Round Robin.\"",
+          "ok": true,
+          "pos": 9044
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Ever since Sandy had learned about Round Robin from Percival and Prudence, they had secretly longed to see Round Robin f",
+          "ok": true,
+          "pos": 10716
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "There were multiple things out there. Round Robin and—the tent flap burst open and a hairy hand reached in and grabbed S",
+          "ok": true,
+          "pos": 11799
+        },
+        {
+          "text": "The arm yanked Sandy from the tent",
+          "ok": true,
+          "pos": 12143
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "It's got me, thought Sandy. Round Robin has got me",
+          "ok": true,
+          "pos": 12179
+        }
+      ],
+      "words": 10
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.39,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 11,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.33,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "15. Chapter Fifteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2164,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

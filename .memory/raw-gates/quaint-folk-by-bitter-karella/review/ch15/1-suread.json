@@ -1,0 +1,78 @@
+{
+ "chapter": "ch15",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "14/14 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[1087:1219]",
+   "anchor": "There were twelve obelisks of irregular limestone, blooming with gray-green lichen, all arranged in a ring around a thirteenth stone",
+   "fact": "十二石绕第十三石；与梦中同款石阵"
+  },
+  {
+   "range": "[1698:1775]",
+   "anchor": "The face possessed blank, staring eyes and a cleft palate full of bared teeth",
+   "fact": "中央石顶端的脸：空眼/裂腭/露牙"
+  },
+  {
+   "range": "[1971:2019]",
+   "anchor": "I must not fear, thought Sandy. I must not fear.",
+   "fact": "Sandy 默念两遍；酒精上头"
+  },
+  {
+   "range": "[2681:2756]",
+   "anchor": "George had built a simulacrum of a cozy little den out of scavenged garbage",
+   "fact": "den o' sin：床垫/扶手椅/显像管电视/doilies"
+  },
+  {
+   "range": "[3409:3503]",
+   "anchor": "Instead of the little black beady eyes of an animal, it had human eyes, big glassy yellow ones",
+   "fact": "Jocko=普通雪貂标本、换人样黄玻璃眼像卡通"
+  },
+  {
+   "range": "[4097:4141]",
+   "anchor": "Hot Snot’s seminal 1987 album Lyzzrd Innyrds",
+   "fact": "Hot Snot 1987 专辑 Lyzzrd Innyrds"
+  },
+  {
+   "range": "[4898:4990]",
+   "anchor": "an old ’70s pulp titled Sizzle! and the cover sported a photograph of a young Fiona Richmond",
+   "fact": "70s 色情杂志 Sizzle!（Fiona Richmond 封面）"
+  },
+  {
+   "range": "[5870:5941]",
+   "anchor": "The church said that this is where those nuns were seduced by the devil",
+   "fact": "修女故事教会版开场句逐字"
+  },
+  {
+   "range": "[7431:7520]",
+   "anchor": "They met something much older, something that’s been on this island for a long, long time",
+   "fact": "George 真正主张：远更古老之物、早于基督徒与罗马人；这里=修女相会处"
+  },
+  {
+   "range": "[9227:9287]",
+   "anchor": "George grinned. “It’s specially consecrated to Round Robin.”",
+   "fact": "下药揭底：elk's blood 特为 RR 祝圣"
+  },
+  {
+   "range": "[9636:9686]",
+   "anchor": "“You dosed me?” shouted Sandy. “This is not cool!”",
+   "fact": "Sandy 质问 dosed/consent；George 叫冷静"
+  },
+  {
+   "range": "[10024:10128]",
+   "anchor": "a lilting Tigglestide carol that was almost soothing enough to counteract the sudden fear in their heart",
+   "fact": "帐外多影+低语+轻柔颂歌"
+  },
+  {
+   "range": "[12114:12186]",
+   "anchor": "a hairy hand reached in and grabbed Sandy by the front of their tank top",
+   "fact": "帐帘爆开：多毛手抓背心前襟；唱片碎裂；被拽出"
+  },
+  {
+   "range": "[12413:12464]",
+   "anchor": "It’s got me, thought Sandy. Round Robin has got me.",
+   "fact": "内心独白逐字收尾"
+  }
+ ]
+}

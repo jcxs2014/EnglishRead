@@ -1,0 +1,484 @@
+{
+  "chapter": 16,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch16 percival under the hedgehog mask.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch16_chap16.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Now Sandy was on the ground outside the tent, sprawled in the bog mud and lying among the empty glass bottles. A fox tow",
+          "ok": true,
+          "pos": 266
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Ooooh, have you been drinking? Naughty, naughty . . . What would Round Robin think of that, boy?” It bared sharp white ",
+          "ok": true,
+          "pos": 525
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "All around Sandy, there were animals. Deer and badgers and wolves, all tottering upon two legs, all wearing clothes, all",
+          "ok": true,
+          "pos": 650
+        }
+      ],
+      "words": 89
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "There was a brief scuffle inside the tent. When the fox emerged, it was dragging George by her wrist, and it fixed Sandy",
+          "ok": true,
+          "pos": 2459
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Bugger Round Robin!” George pounded the fox on its chest with her free hand. “It’s all rubbish! I don’t even believe in",
+          "ok": true,
+          "pos": 2984
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "It was a person wearing a mask. Sandy could see glimpses of pale skin around the eyes, where the mask didn’t quite fit r",
+          "ok": true,
+          "pos": 4227
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Sandy felt their gorge rising, their shoulders heaved, and suddenly a spray of bile and elk’s blood exploded from their ",
+          "ok": true,
+          "pos": 4623
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Sandy didn’t have the breath to say the words, charging blindly through the roiling mist, their feet plunging deep into ",
+          "ok": true,
+          "pos": 6298
+        }
+      ],
+      "words": 76
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "That was when a final straggler staggered by. Lucky number thirteen, by Sandy’s count. The straggler wore a hedgehog hea",
+          "ok": true,
+          "pos": 13492
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Fuck you!” snapped Sandy. Their fingers instinctively reached for something, anything, and fell upon a stone, thank the",
+          "ok": true,
+          "pos": 14919
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "It was hard to believe that hiding his face behind a mask was all that it took to transform this kid into an insane murd",
+          "ok": true,
+          "pos": 16476
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“Prudence said we needed to put you in your place.” Percival sank to his knees, plopping into the mucky water, blubberin",
+          "ok": true,
+          "pos": 17064
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "A shape hovered in the fog, just at the edge of visibility, a dark specter in the vague form of a human, its edges blurr",
+          "ok": true,
+          "pos": 18142
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Sandy could also discern, just barely in the gray gloom, the outlines of long, slipper-like ears. Maybe it was a trick o",
+          "ok": true,
+          "pos": 18417
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Sandy, however, knew something else. They had commanded a spirit and the spirit had obeyed. That was only something a re",
+          "ok": true,
+          "pos": 22473
+        }
+      ],
+      "words": 24
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 94,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.45,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.41,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "16. Chapter Sixteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4050,
+    "block_target": [
+      7,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

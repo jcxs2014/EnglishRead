@@ -1,0 +1,88 @@
+{
+ "chapter": "ch16",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[276:345]",
+   "anchor": "Now Sandy was on the ground outside the tent, sprawled in the bog mud",
+   "fact": "醒来：泥地+空瓶间、鼻血、左腕发圈备战"
+  },
+  {
+   "range": "[473:533]",
+   "anchor": "It wore a top hat and a waistcoat, and it leaned upon a cane",
+   "fact": "狐狸：高帽马甲手杖；What would Round Robin think of that, boy?"
+  },
+  {
+   "range": "[909:990]",
+   "anchor": "A hedgehog in an apron, snorting and snuffling, quills protruding from its bonnet",
+   "fact": "动物清单逐字（deer/badgers/wolves/bullfrog/hedgehog/ferret/bear/dragonfly 人形）"
+  },
+  {
+   "range": "[1428:1494]",
+   "anchor": "an essential disconnect between the fox’s voice and its appearance",
+   "fact": "voice 与外观的本质断裂；tainted elk's blood 搅乱判断"
+  },
+  {
+   "range": "[2644:2697]",
+   "anchor": "It held the cracked Hot Snot record in its other hand",
+   "fact": "狐狸拖出 George+摔裂唱片 What a scandal"
+  },
+  {
+   "range": "[3326:3363]",
+   "anchor": "Or Round Robin puts you in the grave!",
+   "fact": "George 反抗（Bugger RR/我不信）+动物合唱 puts you in the grave"
+  },
+  {
+   "range": "[4398:4474]",
+   "anchor": "glimpses of pale skin around the eyes, where the mask didn’t quite fit right",
+   "fact": "面具下 pale skin/fursuit 判断；其余动物皆人装"
+  },
+  {
+   "range": "[4824:4881]",
+   "anchor": "a spray of bile and elk’s blood exploded from their mouth",
+   "fact": "呕吐反击+I curse you in Round Robin's name；You've ruined my nice clean Tigglestide suit!"
+  },
+  {
+   "range": "[6722:6795]",
+   "anchor": "With sighing and sorrow and meckle care, I go forth in the form of a hare",
+   "fact": "逃亡默念咒语（心声，没气力念出声）"
+  },
+  {
+   "range": "[13929:13986]",
+   "anchor": "The straggler wore a hedgehog head and a posh blue blazer",
+   "fact": "posse 至少 a dozen+第十三名 straggler（hedgehog 头+posh 蓝西装）"
+  },
+  {
+   "range": "[15565:15632]",
+   "anchor": "SMASHED it against the straggler’s hedgehog face until it fell back",
+   "fact": "石头连砸 hedgehog 面；I found 'em"
+  },
+  {
+   "range": "[17505:17553]",
+   "anchor": "Prudence said we needed to put you in your place",
+   "fact": "认出 Percival+供词（scare you/put the fear/broke my nose/Prudence 指使）"
+  },
+  {
+   "range": "[18773:18842]",
+   "anchor": "widely spaced but front-facing eyes gleaming in its head like marbles",
+   "fact": "真 RR 现形：front-facing eyes+slipper-like ears；Percival 匍匐"
+  },
+  {
+   "range": "[20532:20584]",
+   "anchor": "Heaven help me, Round Robin has marked me for death!",
+   "fact": "Sandy 喝退 Begone! Get lost!→身影消失；marked me for death"
+  },
+  {
+   "range": "[21153:21221]",
+   "anchor": "What on God’s green earth are you doing? You step away from Percival",
+   "fact": "Prudence 到场：You're a menace/just having a laugh/tattletales"
+  },
+  {
+   "range": "[22389:22462]",
+   "anchor": "George’s voice quavered just enough to betray the confidence of her words",
+   "fact": "George 解释但声音发颤；结尾 They had commanded a spirit…real witch could do"
+  }
+ ]
+}

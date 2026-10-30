@@ -1,0 +1,450 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch17 the hare needs to feed.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch17_chap17.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Jessica returned from the market with a string of crunkle, a crate of elk’s blood, and a box of Tigglestide decorations",
+          "ok": true,
+          "pos": 251
+        },
+        {
+          "text": "Greg would sit at the head of the table, his rightful place as paterfamilias, and slice the crunkle with a big smile on ",
+          "ok": true,
+          "pos": 842
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She had also stopped by the village toy shop",
+          "ok": true,
+          "pos": 1474
+        },
+        {
+          "text": "and purchased a large rabbit plush, which she planned to strip for her makeshift bunny costume. She only needed the ears",
+          "ok": true,
+          "pos": 1679
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“We saw him in the bog! Round Robin! And also Helena Hollyoak was a witch!”",
+          "ok": true,
+          "pos": 2900
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Hmm, so you say.” Jessica ran her thumb over the corn dolly’s dress, smoothing the dark material. “Just like you?”",
+          "ok": true,
+          "pos": 2974
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Later that afternoon, Jessica responded to a knock on the door. It was Molly, which was already odd because Molly genera",
+          "ok": true,
+          "pos": 4440
+        },
+        {
+          "text": "She had her children with her; Percival clutched her leg, whimpering, and Prudence stood stiffly beside her mother, a na",
+          "ok": true,
+          "pos": 4909
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“I think maybe I should be spending some more time with my own family,” said Molly, patting Percival on the head. “Seein",
+          "ok": true,
+          "pos": 6763
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "That was the most devastating thing that Molly could have said. Jessica was alone now, and she had not been so alone sin",
+          "ok": true,
+          "pos": 6950
+        },
+        {
+          "text": "There was nothing to do but wait, and think about how Sandy had cost her the one friend she had",
+          "ok": true,
+          "pos": 7286
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Greg put his fork down on the table, cleared his throat, and dropped a bombshell on all of Jessica’s carefully laid out ",
+          "ok": true,
+          "pos": 8129
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "She was sitting in the portrait, wearing the black gown and clutching the leather-bound book and the hare was sitting in",
+          "ok": true,
+          "pos": 15863
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Jessica nearly swooned, giddy with the memory of their previous encounter, and started to weep. The hare looked up at he",
+          "ok": true,
+          "pos": 16240
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "All will be well. Let me fix this",
+          "ok": true,
+          "pos": 16444
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "The hare needed to feed",
+          "ok": true,
+          "pos": 16781
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Jessica beamed with radiant joy to know that the hare had spoken truth. Everything was going to be fine. Everything was ",
+          "ok": true,
+          "pos": 17024
+        }
+      ],
+      "words": 35
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 83,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.45,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 95,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.4,
+        "关键词": 0.0,
+        "为什么这样写": 0.92,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 89,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.48,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "17. Chapter Seventeen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 17,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3099,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
