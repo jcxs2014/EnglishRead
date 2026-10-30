@@ -122,7 +122,6 @@ modified: "2026-10-29"
 ### ⭐⭐⭐ 高级
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| Tigglestide | 书中虚构节日名；Tigglestide Eve 指其前夜 | “It’s Tigglestide Eve,” said Molly when she noticed Jessica’s gaze lingering on the casket. |
 | lugubrious | 阴郁悲戚的，凄凄切切的 | Somewhere, in the dark, the metronome of a clock kept lugubrious minutes. |
 | sweltering | 酷热难当的，闷热逼人的 | The room was so hot it was sweltering and the candlelight threw wild, dancing shadows across the bare walls. |
 | foreboding | （不祥的）预感，凶兆临头之感 | Jessica felt an overwhelming sense of foreboding, a queasy certainty that nothing good awaited her beyond those gently rustling curtains. |
@@ -131,7 +130,6 @@ modified: "2026-10-29"
 | squabbling | （为小事）拌嘴，争吵不休 | But they couldn’t put up a unified front for Sandy if they were squabbling. |
 | mirthlessly | 无笑意地，冷冰冰地 | Jessica laughed mirthlessly. |
 | inextricably | 不可分割地，难解难分地 | “The story of Round Robin is inextricably linked with that of Helena Hollyoak.” |
-| Hasenhurst | 地名：Round Robin 看守的村庄 | They think that because Round Robin minds Hasenhurst so well, that he’s the one to solve all their problems. |
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |

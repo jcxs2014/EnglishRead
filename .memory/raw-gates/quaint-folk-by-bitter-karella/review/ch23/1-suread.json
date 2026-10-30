@@ -1,0 +1,88 @@
+{
+ "chapter": "ch23",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[608:664]",
+   "anchor": "the bestselling children’s book of 1903 in all of the UK",
+   "fact": "Helena 畅销史：1903 最畅销/1914 Queen's Regard/board game"
+  },
+  {
+   "range": "[534:576]",
+   "anchor": "Remember that; it will be important later.",
+   "fact": "Remember that ×2（想象力后/写作本行后）"
+  },
+  {
+   "range": "[821:872]",
+   "anchor": "The thing about her writing was, it was so positive",
+   "fact": "so positive/nothing bad would happen"
+  },
+  {
+   "range": "[2210:2280]",
+   "anchor": "she had become a recluse and rarely left the grounds of Hollyoak House",
+   "fact": "战后隐士/吃人谣言"
+  },
+  {
+   "range": "[2947:3003]",
+   "anchor": "you could purchase a surplus of cheap Slavs and Irishmen",
+   "fact": "cheap Slavs and Irishmen 逐字；Tuppence 应聘 scullery maid"
+  },
+  {
+   "range": "[3343:3414]",
+   "anchor": "The cook was called Spunkie, though her real name was something foreign",
+   "fact": "厨娘 Spunkie（真名外国）/Tuppence 是宠儿"
+  },
+  {
+   "range": "[3960:4011]",
+   "anchor": "she still retained a certain grand dignity in decay",
+   "fact": "grand dignity in decay 逐字；晚年转向时论"
+  },
+  {
+   "range": "[4793:4869]",
+   "anchor": "welcome whores, fairies, and loonies simply because that was the new fashion",
+   "fact": "年轻人忘旧俗/moor 冥想/new faith/make up some new ones"
+  },
+  {
+   "range": "[6195:6245]",
+   "anchor": "a creature that up until that moment did not exist",
+   "fact": "画像坐定日：添画此前不存在的生物"
+  },
+  {
+   "range": "[6727:6790]",
+   "anchor": "He’s the very spirit of Hasenhurst, of the land and the harvest",
+   "fact": "Helena 原话：spirit of Hasenhurst/主保/庇护则安宁"
+  },
+  {
+   "range": "[7795:7866]",
+   "anchor": "Helena Hollyoak held a series of lectures right there in Hollyoak House",
+   "fact": "The Plan：讲座/moor 集会/教堂翻新/立节/巨石做旧/报界大学放料/few short years"
+  },
+  {
+   "range": "[9318:9385]",
+   "anchor": "Do you think that just because something is made up, it isn’t real?",
+   "fact": "It's all fake?→反问+Look at Hasenhurst"
+  },
+  {
+   "range": "[10246:10322]",
+   "anchor": "Beneath the name were written the additional words: The Story of Round Robin",
+   "fact": "抽屉真书：The Story of Round Robin/not quite the same/触封皮被传送"
+  },
+  {
+   "range": "[11560:11612]",
+   "anchor": "The ritual was an afterthought, a bit of showmanship",
+   "fact": "触书入幻：The Plan/crib/标本兔入 crib/仪式是 showmanship/写作写进现实"
+  },
+  {
+   "range": "[12620:12667]",
+   "anchor": "Tigglestide is when Round Robin comes to visit!",
+   "fact": "书中故事开头：安静可爱的 Hasenhurst/想不想住进去"
+  },
+  {
+   "range": "[15865:15903]",
+   "anchor": "He can tear out her sin with his teeth",
+   "fact": "书中收尾：醒着的陌生人=wrong sort/撕罪嚼碎/三连 Don't you wish…Look…Why don't you let Round Robin in?"
+  }
+ ]
+}

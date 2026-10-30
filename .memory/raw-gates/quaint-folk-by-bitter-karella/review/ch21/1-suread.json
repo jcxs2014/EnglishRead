@@ -1,0 +1,88 @@
+{
+ "chapter": "ch21",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[642:691]",
+   "anchor": "pinewood casket propped up next to the front door",
+   "fact": "门前杉木棺材（上次没有）"
+  },
+  {
+   "range": "[994:1063]",
+   "anchor": "That’s just Round Robin giving you a little peek behind the veil, luv",
+   "fact": "Molly：窥帷幕之后=好兆头、他喜欢你"
+  },
+  {
+   "range": "[1209:1257]",
+   "anchor": "Some crunkle and jam baps.” Molly patted the top",
+   "fact": "Tupperware 礼物"
+  },
+  {
+   "range": "[1743:1807]",
+   "anchor": "skeleton coated in pancake batter, and he smelled like sour milk",
+   "fact": "Winston 衰变：面糊骷髅/馊奶味/白内障"
+  },
+  {
+   "range": "[2409:2465]",
+   "anchor": "TICK TICK TICK. There was a musty mildew odor in the air",
+   "fact": "小屋：蜡烛+Hummel 瓷偶+霉味+垃圾地板"
+  },
+  {
+   "range": "[4241:4285]",
+   "anchor": "Come in, it said, if it said anything at all",
+   "fact": "耳语 Come in→Come closer×2；Molly 说没听见"
+  },
+  {
+   "range": "[6077:6125]",
+   "anchor": "stained, yellow dentures, teeth like rotten corn",
+   "fact": "卧室：假牙泡杯/wig 在模特头/汽油铜钱味/帐帘微动"
+  },
+  {
+   "range": "[9825:9885]",
+   "anchor": "there was a flash of yellow from deep within those dark pits",
+   "fact": "holographic sticker 对照；黑坑深处黄光一闪"
+  },
+  {
+   "range": "[11542:11595]",
+   "anchor": "I’d give my left tit for just a finger of elk’s blood",
+   "fact": "left tit 句+clown 妆/sores；Jessica 倒血喂她"
+  },
+  {
+   "range": "[12557:12592]",
+   "anchor": "You’ve seen the casket on the porch",
+   "fact": "price too high/I won't live forever/casket"
+  },
+  {
+   "range": "[12820:12902]",
+   "anchor": "plowed right through the cucumber sandwiches? A convenient distraction, wasn’t it?",
+   "fact": "鹦鹉揭底：convenient distraction"
+  },
+  {
+   "range": "[13055:13084]",
+   "anchor": "Are you ready to tell me now?",
+   "fact": "逼问上次没说完的重要事"
+  },
+  {
+   "range": "[13982:14051]",
+   "anchor": "He treats me like I’m fine porcelain, like he’s afraid of breaking me",
+   "fact": "自白：Greg won't touch me/fine porcelain/punishment for Morgan"
+  },
+  {
+   "range": "[15095:15138]",
+   "anchor": "pretty soon you realize you’re living a lie",
+   "fact": "living a lie/为 Sandy 装一辈子/parents' revenge/Sandy isn't a bad kid"
+  },
+  {
+   "range": "[17997:18074]",
+   "anchor": "And now you’re here. It all brought you here. Do you know of Helena Hollyoak?",
+   "fact": "It all brought you here+Helena 抛出+inextricably linked"
+  },
+  {
+   "range": "[18515:18590]",
+   "anchor": "She’s not so ancient as you think. Because, you see, I knew Helena Hollyoak",
+   "fact": "结句逐字（genuine mirth）"
+  }
+ ]
+}

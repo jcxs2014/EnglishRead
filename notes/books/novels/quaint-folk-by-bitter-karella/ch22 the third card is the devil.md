@@ -22,7 +22,7 @@ modified: "2026-10-29"
 
 > **原句 2:** "Sandy was trying not to think about the obvious truth of the matter, which was that Mom and Dad only stayed together because it was expected for Sandy’s sake. It was so obvious. Sandy was certain they were disappointed that they didn’t have a son, not a proper one."
 
-**中文理解**：Sandy 一直逼自己别去想的真相是：爸妈硬撑着不分开，只是为了"为了 Sandy"这个样子；他们想要一个"正经的儿子"，而 Sandy 打小就让他们失望。紧接引语之后的独白里，Sandy 用最恶毒的词骂自己，把父母婚姻失败归到自己头上（该句按规则不引）。
+**中文理解**：Sandy 一直逼自己别去想的真相是：爸妈硬撑着不分开，只是为了"为了 Sandy"这个样子；他们想要一个"正经的儿子"，而 Sandy 打小就让他们失望。紧接引语之后的独白里，Sandy 用最恶毒的词骂自己，把父母婚姻失败归到自己头上（此句未引）。
 **关键词**：trying not to think / obvious / stayed together / expected for Sandy’s sake / not a proper one
 **为什么这样写**：作者不让 Sandy 哭诉，先写"努力不去想"——trying not to think 和 It was so obvious 顶在一起，把自我欺骗写成一个费力气的动作；not a proper one 把性别期待直接钉在失望的位置上。
 **读者视角提示**：注意全段都是 Sandy 替父母拟的口吻（certain、so obvious），其实拿不出证据——受伤害的孩子常把大人的失败揽成自己的罪，这正是后面那串自骂的入口。
@@ -80,7 +80,6 @@ modified: "2026-10-29"
 | underlying | 潜藏的；表面之下的 | Dad could say “champ” and Mom could say “sweetie,” but Sandy could always sense the underlying revulsion. |
 | vegetarianism | 素食主义 | Sandy had pushed them too far, with the purple hair and magyck and the vegetarianism and the they/them shit, and they had finally snapped. |
 | investigate | 查看；探查 | When Sandy went to investigate, they saw that George was below, throwing pebbles. |
-| Tigglestide | 书中虚构的节日名（-tide＝节期） | “My da and brothers all went down to the Tigglestide Eve revel,” said George. |
 | troublesome | 作祟的；麻烦的 | Despite everything, they still believed in the power of the Hamsa and the rabbit skull to ward off troublesome spirits. |
 | taxidermized | 被制成标本的 | She attempted to pry open the mouth of a taxidermized deer head on the parlor wall without success. |
 | functioned | 运作；起作用 | That was how magic functioned. |

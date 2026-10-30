@@ -31,7 +31,7 @@ modified: "2026-10-29"
 **中文理解**：宅子成了怪谈的中心——疯女人、闯进花园就可能被吃掉；谣言吓退本地用人，她只好从外地雇工，讲述者还顺口说出那句冷血的话：当年斯拉夫人和爱尔兰人便宜又管够。
 **关键词**：rumors / mad woman / eat you / trespassing / cheap Slavs and Irishmen
 **为什么这样写**：谣言与用人荒缝在同一口气里：吃人传闻把宅子围起来，也把劳动力让给了外乡人；"便宜又管够"的措辞把剥削说成常识，讲述者的偏见全藏在用词里，她自己毫无察觉。
-**读者视角提示**：（跨章联想，写明非本章内容）这批"外地雇来的仆人"容易让读者想起第十四章 potter's field 里那枚刻着 Spunkie 之名的十字架——土地把外乡人的名字留在了边缘。
+**读者视角提示**：（跨章联想）这批"外地雇来的仆人"容易让读者想起第十四章 potter's field 里那枚刻着 Spunkie 之名的十字架——土地把外乡人的名字留在了边缘。
 
 > **原句 4:** "The Helena Hollyoak that I knew was much like the house that today bears her name—she still retained a certain grand dignity in decay. She was a proud woman, and to simply be in her presence was to bask in the refracted light of greatness!"
 **中文理解**：讲述者把她认识的赫莲娜比作那座以她命名的宅子：衰败仍在，气派未倒；走近她像站在"折射出来的伟大光辉"里——崇拜的措辞早已越过仆人对主人的分寸。
@@ -49,7 +49,7 @@ modified: "2026-10-29"
 **中文理解**：画像揭幕那天，做洗碗女佣的讲述者忍不住问画上添的是什么，自己也知道这是逾矩；女主人却笑着反问——孩子，你总听说过 Round Robin 吧？
 **关键词**：Lady Hollyoak / breach of etiquette / scullery maid / smiled / surely you’ve heard
 **为什么这样写**：先自陈"逾矩"再放问句，把阶级张力垫在底下；对方不答而反问，把陌生的东西说成人尽皆知——用"你肯定听过"去推销一个名字，这份从容比画本身更吓人。
-**读者视角提示**：（跨句对照，本块未引出的前一句）画师被要求在膝上添一只"此前并不存在"的生物——与"你肯定听过"连读，反问的底气从哪来就清楚了。
+**读者视角提示**：（跨句对照）画师被要求在膝上添一只"此前并不存在"的生物——与"你肯定听过"连读，反问的底气从哪来就清楚了。
 
 > **原句 7:** "Why, Round Robin is the most wonderful thing. He’s the very spirit of Hasenhurst, of the land and the harvest, the patron of the farmer and the beekeeper and the bootblack, the steward of our way of life. So long as Round Robin protects us, Hasenhurst will remain ever quiet and peaceful, unvexed by the troubles that plague other towns."
 **中文理解**：这是 Round Robin 的"官方定义"：土地与丰收之灵、农人蜂农擦鞋匠的主保、"我们这种生活方式"的总管；只要他庇佑，Hasenhurst 就安宁如常，不受别镇的麻烦侵扰。
@@ -67,7 +67,7 @@ modified: "2026-10-29"
 **中文理解**：塔彭丝不接"真假"的二分，反问编造与真实何干，并让对方去看 Hasenhurst 本身——村庄的太平被她当作神明实存的海报。
 **关键词**：made up / real / foolish / Look at Hasenhurst
 **为什么这样写**：拿眼前的村庄当证据，是把"造出来的神"与"真实运转的秩序"焊在一起——既然安宁是真的，造神的手艺就被追认为功；反问句式逼听者自我怀疑，比任何辩解都省力。
-**读者视角提示**：（跨句对照，未入引语）上一段是杰西卡脱口而出的"都是假的？"，本块引语正是它的回声——一个用常识质疑，一个用村庄的存在反驳，两种"真实观"正面相撞。
+**读者视角提示**：（跨句对照）上一段是杰西卡脱口而出的"都是假的？"，本块引语正是它的回声——一个用常识质疑，一个用村庄的存在反驳，两种"真实观"正面相撞。
 
 > **原句 10:** "Inside the dresser drawer, Jessica found a book, bound in soft leather, with the words H. Hollyoak upon the cover. Beneath the name were written the additional words: The Story of Round Robin."
 **中文理解**：梳妆台抽屉里，杰西卡翻出一本软皮面书，封皮上是 H. Hollyoak 的署名，下面另有一行小字：The Story of Round Robin——造神者的原稿就躺在卧室家具里。

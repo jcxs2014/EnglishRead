@@ -97,7 +97,7 @@ modified: "2026-10-29"
 
 > **原句 9:** "LET ME TOUCH YOU IN ALL THE PLACES THAT MORGAN MCKINLEY TOUCHED YOU. EVENTS HAVE BEEN SET IN MOTION. TONIGHT, YOU WILL SUPPLICATE ROUND ROBIN."
 
-**中文理解**：机器的语气彻底越界——它前一句还在对她性化地说话（本块未收录）——说要在 Morgan McKinley 碰过的地方碰她，宣布 events 已经启动，限令她今夜向 Round Robin 祈请。
+**中文理解**：机器的语气彻底越界——它前一句还在对她性化地说话（此段未引）——说要在 Morgan McKinley 碰过的地方碰她，宣布 events 已经启动，限令她今夜向 Round Robin 祈请。
 
 **关键词**：MORGAN MCKINLEY / EVENTS HAVE BEEN SET IN MOTION / TONIGHT / SUPPLICATE
 
