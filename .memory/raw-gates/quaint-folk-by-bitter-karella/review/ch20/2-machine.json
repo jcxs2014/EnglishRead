@@ -1,0 +1,477 @@
+{
+  "chapter": 20,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch20 molly comes back.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch20_chap20.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She stumbled into the cold foyer, her hair wild, her mascara running, her bunny ears sliding down her forehead. She clut",
+          "ok": true,
+          "pos": 565
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“Are you getting divorced?” Sandy asked the question like it was something they had expected for a long time, something ",
+          "ok": true,
+          "pos": 1956
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "They’re just like me, thought Jessica miserably. I passed it on to them. They were supposed to fix things, but things ar",
+          "ok": true,
+          "pos": 3104
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Go ahead and cast a spell then. Hocus-pocus! Abracadabra!” She waved her arms drunkenly. “Okay, Harry Potter, how about",
+          "ok": true,
+          "pos": 6220
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“I hate you, Mom! I hate you!” cried Sandy and they ran from the room",
+          "ok": true,
+          "pos": 8519
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Her parents had fucked her up with their Catholicism, the ritual cannibalism of drinking Jesus’s blood and eating Jesus’",
+          "ok": true,
+          "pos": 10322
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "The hare was more a son than Sandy ever was, more a husband than Greg ever was. The revelation frightened her, and she w",
+          "ok": true,
+          "pos": 11717
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "It was late and she still had not heard Greg return home",
+          "ok": true,
+          "pos": 12165
+        },
+        {
+          "text": "But he wasn’t doing it this time, and there was no surer indication that things were irrevocably fucked now",
+          "ok": true,
+          "pos": 12348
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Jessica never cried, but tonight she did. Everything was completely and absolutely fucked, but Molly had come back for h",
+          "ok": true,
+          "pos": 13145
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Molly looked her dead in the eye and spoke with sudden authority. “You wish you lived my life, do you, luv? You know tha",
+          "ok": true,
+          "pos": 14598
+        },
+        {
+          "text": "If you want what I have, you know what you must do: You must go to Round Robin.”",
+          "ok": true,
+          "pos": 15013
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“I’m not the right sort of person,” wailed Jessica. “If only you knew!”",
+          "ok": true,
+          "pos": 15404
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“You’ll need to see the Lady Tuppence. I remember, when I was a girl, she used to do card readings at the Tigglestide Ev",
+          "ok": true,
+          "pos": 15860
+        },
+        {
+          "text": "Do you know how to play Scrotes, luv?”",
+          "ok": true,
+          "pos": 16092
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“The Lady Tuppence is a great lover of that game, and we never gave her that round she requested",
+          "ok": true,
+          "pos": 16205
+        },
+        {
+          "text": "I must warn you, Jessica: You may see many strange and frightening things tonight, for it is Tigglestide Eve. One must e",
+          "ok": true,
+          "pos": 16327
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Jessica mused that Molly, like her, was a strong, independent woman who was also intelligent. They were really so well m",
+          "ok": true,
+          "pos": 17032
+        }
+      ],
+      "words": 28
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.92
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.5,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.39,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.49,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.48
+      }
+    }
+  ],
+  "form": {
+    "h1": "20. Chapter Twenty",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 14,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 14,
+    "quote_long": 0,
+    "segments": 18,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3159,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

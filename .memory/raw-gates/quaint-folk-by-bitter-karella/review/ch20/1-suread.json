@@ -1,0 +1,88 @@
+{
+ "chapter": "ch20",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[611:687]",
+   "anchor": "her hair wild, her mascara running, her bunny ears sliding down her forehead",
+   "fact": "狼狈归家三件+半瓶酒不记得来处"
+  },
+  {
+   "range": "[1706:1748]",
+   "anchor": "“Go to your room, Sandy,” snapped Jessica.",
+   "fact": "Mom, what are you wearing→呵斥回房"
+  },
+  {
+   "range": "[2237:2306]",
+   "anchor": "“That’s right, sweetie,” said Jessica without emotion. “We sure are.”",
+   "fact": "离婚确认+Is it because of Molly"
+  },
+  {
+   "range": "[3171:3243]",
+   "anchor": "They’re just like me, thought Jessica miserably. I passed it on to them.",
+   "fact": "passed it on to them 逐字"
+  },
+  {
+   "range": "[3693:3751]",
+   "anchor": "Did Mommy’s little wizard cast a spell to learn the truth?",
+   "fact": "Mommy's little wizard 嘲讽"
+  },
+  {
+   "range": "[6340:6397]",
+   "anchor": "Go ahead and cast a spell then. Hocus-pocus! Abracadabra!",
+   "fact": "hocus-pocus 句+Molly's got such normal kids"
+  },
+  {
+   "range": "[8662:8732]",
+   "anchor": "“I hate you, Mom! I hate you!” cried Sandy and they ran from the room.",
+   "fact": "I hate you 逐字+眼里恨意"
+  },
+  {
+   "range": "[9760:9857]",
+   "anchor": "the house would just collapse and bury her in rubble and then that the earth would swallow her up",
+   "fact": "壁纸里母亲的笑+房塌地吞幻想"
+  },
+  {
+   "range": "[11887:11966]",
+   "anchor": "The hare was more a son than Sandy ever was, more a husband than Greg ever was.",
+   "fact": "主题句逐字"
+  },
+  {
+   "range": "[10538:10624]",
+   "anchor": "the ritual cannibalism of drinking Jesus’s blood and eating Jesus’s flesh every Sunday",
+   "fact": "Catholic 仪式食人段（概括）"
+  },
+  {
+   "range": "[12558:12627]",
+   "anchor": "there was no surer indication that things were irrevocably fucked now",
+   "fact": "Greg 未归=irrevocably fucked"
+  },
+  {
+   "range": "[13010:13058]",
+   "anchor": "“I had to, luv. I couldn’t leave you like this.”",
+   "fact": "Molly 回归原话；more than Morgan McKinley had ever done"
+  },
+  {
+   "range": "[14214:14277]",
+   "anchor": "“I wish I had what you have. I wish I had what Hasenhurst has.”",
+   "fact": "I wish 句+Luv, you can+她又叫我 luv"
+  },
+  {
+   "range": "[14941:15023]",
+   "anchor": "You know that Round Robin is him that keeps everything in Hasenhurst so wonderful.",
+   "fact": "Molly 宣讲：him that keeps/real Round Robin/right sort/I do know, luv"
+  },
+  {
+   "range": "[16636:16719]",
+   "anchor": "You may see many strange and frightening things tonight, for it is Tigglestide Eve.",
+   "fact": "Lady Tuppence/Scrotes 之约+strange and frightening things 警告"
+  },
+  {
+   "range": "[17431:17502]",
+   "anchor": "They were really so well matched. If only the world had been different.",
+   "fact": "结尾 well matched 逐字"
+  }
+ ]
+}

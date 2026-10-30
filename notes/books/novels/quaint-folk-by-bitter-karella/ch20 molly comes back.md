@@ -77,7 +77,7 @@ modified: "2026-10-29"
 
 > **原句 7:** "The hare was more a son than Sandy ever was, more a husband than Greg ever was. The revelation frightened her, and she wished it had not wormed, unbidden, into her thoughts, but it was there now, perched in her brain like a parasite and she was stuck with it."
 
-**中文理解**：醉卧床上的回放始终找不到让她厌恶的角度——中文层概括：梦境回放滑向献祭式的快感。落点是这样一句题眼：这只野兔比 Sandy 更像儿子、比 Greg 更像丈夫；这个认知不请自来，像寄生虫一样栖在脑子里，甩不掉了。
+**中文理解**：醉卧床上的回放始终找不到让她厌恶的角度——梦境回放滑向献祭式的快感。落点是这样一句题眼：这只野兔比 Sandy 更像儿子、比 Greg 更像丈夫；这个认知不请自来，像寄生虫一样栖在脑子里，甩不掉了。
 
 **关键词**：hare / revelation / parasite
 
@@ -172,7 +172,6 @@ modified: "2026-10-29"
 | irrevocably | 不可挽回地 | But he wasn’t doing it this time, and there was no surer indication that things were irrevocably fucked now. |
 | supplication | 祈求；祷告 | You go to him and you give supplication to him and he’ll sort it out, jiggery jam. |
 | mirthlessly | 无笑意地；闷闷不乐地 | Jessica laughed mirthlessly, wiping away her tears. |
-| Tigglestide | 蒂格尔斯泰德（书中的节庆名） | I must warn you, Jessica: You may see many strange and frightening things tonight, for it is Tigglestide Eve. |
 
 ### ⭐⭐ 进阶
 

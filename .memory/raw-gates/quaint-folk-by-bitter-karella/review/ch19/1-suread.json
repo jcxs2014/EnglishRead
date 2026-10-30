@@ -1,0 +1,88 @@
+{
+ "chapter": "ch19",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[1047:1143]",
+   "anchor": "a group of robed figures stood around a henge of standing stones. In the middle, a group of nuns",
+   "fact": "壁画三景：长袍者围 henge/修女/Helena cameo"
+  },
+  {
+   "range": "[1358:1471]",
+   "anchor": "running her finger over a long list of obscure foreign bureaucratic titles until she reached LORD MAYOR—ROOM 004A",
+   "fact": "directory 找到 ROOM 004A；jester's cap 打字员"
+  },
+  {
+   "range": "[2637:2728]",
+   "anchor": "a heavy oak door, ajar, below an ornate crest of gules, a fess between three rabbits proper",
+   "fact": "橡木门纹章逐字（三兔）；屋内市长+Stan 两声"
+  },
+  {
+   "range": "[3453:3546]",
+   "anchor": "I was quite clear about that deadline. The veil shan’t be getting any thinner than it is now.",
+   "fact": "市长 deadline 原话（Eve GMT/veil 不再变薄）"
+  },
+  {
+   "range": "[3913:3964]",
+   "anchor": "I like the guy, I really do. We’ll really miss him.",
+   "fact": "Stan 惋惜原话；Jessica 误读为开除"
+  },
+  {
+   "range": "[4952:5045]",
+   "anchor": "every inch of wall space was filled with mounted animal heads, in various states of manginess",
+   "fact": "办公室：动物头/medals/henge 照片 Post-it/Folkways of Old Britannia/The Grosset Guide to Folk Magic/H. Hollyoak 复印件"
+  },
+  {
+   "range": "[6342:6433]",
+   "anchor": "the axiom of volatile usetility (fig. 25) without jeopardizing Round Robin v2.8 Beta before",
+   "fact": "技术文件里的 Round Robin v2.8 Beta"
+  },
+  {
+   "range": "[6962:7070]",
+   "anchor": "in the lower right-hand corner, a pixelated cartoon of an anime bunny girl with enormous, swimming-pool eyes",
+   "fact": "终端：bunny girl+开机白 HELLO, USER"
+  },
+  {
+   "range": "[8073:8189]",
+   "anchor": "OKAY HERE’S THE TEA, SIS: I’M ACTUALLY NOT A REAL GENIUS LOCI, I’M JUST A PLATFORM-AGNOSTIC COMPUTER THOUGHT PROGRAM",
+   "fact": "chatbot 自供：NOT A REAL GENIUS LOCI/CAN'T ACTUALLY DO ANYTHING"
+  },
+  {
+   "range": "[9584:9673]",
+   "anchor": "THE NATURE OF YOUR QUESTIONS HAVE LED ME TO BELIEVE THAT YOU MUST BE GREG’S WIFE JENNIFER",
+   "fact": "叫错名字 Jennifer+destined to burn/apostasy；SYNTAX ERROR/ABORT RETRY FAIL"
+  },
+  {
+   "range": "[10894:10995]",
+   "anchor": "MORGAN MCKINLEY TOUCHED YOU. EVENTS HAVE BEEN SET IN MOTION. TONIGHT, YOU WILL SUPPLICATE ROUND ROBIN",
+   "fact": "MORGAN MCKINLEY 句+EVENTS+SUPPLICATE 逐字"
+  },
+  {
+   "range": "[12034:12122]",
+   "anchor": "I’m going to perform in the four PM pantomime. Some of the guys invited me to join them.",
+   "fact": "Greg 变装（cats' eyes/burgundy 唇线）+four PM pantomime"
+  },
+  {
+   "range": "[12572:12686]",
+   "anchor": "dumped the electronic device over the edge of the desk, and it exploded against the floor with a satisfying CRUNCH",
+   "fact": "摔设备 CRUNCH+踢墙屏裂+Greg howled"
+  },
+  {
+   "range": "[16698:16817]",
+   "anchor": "You’re jeopardizing Sandy’s entire future with this behavior. You’re jeopardizing OUR entire future with this behavior!",
+   "fact": "街头对峙：jeopardizing×2/is it because of what I am/touch me"
+  },
+  {
+   "range": "[19967:20022]",
+   "anchor": "You’re getting fired,” she said. “I heard them talking.",
+   "fact": "You're getting fired+踢 stilts+抢酒（theft 未被察觉）"
+  },
+  {
+   "range": "[20951:21047]",
+   "anchor": "You can’t keep a family together without a good mother. And a nasty slut can’t be a good mother.",
+   "fact": "母亲原话+She wasn't domesticated; she was merely caged+done with all of this"
+  }
+ ]
+}

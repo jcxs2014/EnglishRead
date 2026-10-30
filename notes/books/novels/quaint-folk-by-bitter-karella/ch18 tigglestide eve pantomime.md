@@ -112,7 +112,6 @@ modified: "2026-10-29"
 
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| Tigglestide | 书中虚构节日（提格斯节）名 | On the morning of Tigglestide Eve, Jessica awoke with a new sense of purpose. |
 | conspicuously | 显眼地；明摆着地 | Jessica’s own family was conspicuously absent. |
 | momentarily | 短暂地；一瞬 | But then the crowd surged momentarily, blocking her view of the couple. |
 | fascination | 出神；着迷 | Jessica paused in stupefied fascination, lingering at the back of the crowd. |

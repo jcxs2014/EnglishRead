@@ -1,0 +1,78 @@
+{
+ "chapter": "ch18",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "14/14 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[484:545]",
+   "anchor": "The kitchen was empty when Jessica descended from her bedroom",
+   "fact": "厨房空、Molly 缺席的 sinking feeling；自 Morgan 后未这样孤单"
+  },
+  {
+   "range": "[1629:1685]",
+   "anchor": "the lord mayor was being a right proper Ebenezer Scrooge",
+   "fact": "Scrooge 比喻+三幽灵句+自己动手"
+  },
+  {
+   "range": "[4450:4494]",
+   "anchor": "Beneath her coat, she wore just her negligee",
+   "fact": "兔耳发箍+大衣下只穿 negligee；Lady Tuppence 先例"
+  },
+  {
+   "range": "[3065:3142]",
+   "anchor": "There were foxes in top hats and rabbits in waistcoats, clowns and harlequins",
+   "fact": "集市装束逐字"
+  },
+  {
+   "range": "[3390:3478]",
+   "anchor": "she had spotted revelers in the crowd dressed as Princess Kayla and Dargonna the Warrior",
+   "fact": "瞥见 Kayla/Dargonna 扮者（粉裙+hennin/filigree 盔甲）→人群过后消失→不敢确定是否想象"
+  },
+  {
+   "range": "[6066:6140]",
+   "anchor": "Plucked chicken carcasses dangled by strings from the rafters of his stall",
+   "fact": "Rowan 摊：鸡胴/羊羔如龙虾被端详/屠夫工具与血渍台面"
+  },
+  {
+   "range": "[5591:5662]",
+   "anchor": "assembled around him, clapping and chanting “Drunk Steve! Drunk Steve!”",
+   "fact": "Drunk Steve 骑锯木马、人群齐喊"
+  },
+  {
+   "range": "[6959:7007]",
+   "anchor": "Welcome to the All Souls’ Priory, I’m the abbess",
+   "fact": "Pete 变装 abbess 开场白（Discalced Silurian/正常修女事务=偶像崇拜渎神魔鬼崇拜 fornication）"
+  },
+  {
+   "range": "[7411:7455]",
+   "anchor": "She had a false mustache pasted onto her lip",
+   "fact": "inspector=果酱商（假胡子/comical baritone/Holy See）"
+  },
+  {
+   "range": "[8563:8604]",
+   "anchor": "going to stick my fingers into every hole",
+   "fact": "stick fingers 逐字+women lying with women 最重罪"
+  },
+  {
+   "range": "[8358:8410]",
+   "anchor": "this pantomime was calculated to put her on the spot",
+   "fact": "Jessica flinch：没人知道她的事但觉得被针对"
+  },
+  {
+   "range": "[9191:9277]",
+   "anchor": "as if there were two people under the sheet both trying unsuccessfully to move in time",
+   "fact": "RR 出场：白床单/头十英尺/杆状头如焦糖苹果/人脸戴兔面罩/黑油皮肤/两人不齐步"
+  },
+  {
+   "range": "[11143:11189]",
+   "anchor": "it vomited a deluge of candy upon the children",
+   "fact": "He's behind you ×2/踢果酱商/摘胡子声明闹剧/呕糖果+CRUNCH"
+  },
+  {
+   "range": "[11699:11768]",
+   "anchor": "a rare mélange of fear and arousal that made her feel physically sick",
+   "fact": "mélange 句+抢进 civic center+结尾 I'm here for Greg 逐字"
+  }
+ ]
+}
