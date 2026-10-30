@@ -157,7 +157,6 @@ modified: "2026-10-29"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Tigglestide | 蒂格尔斯蒂德（本书虚构的村庄年度节日） | And there were Princess Kayla and Dargonna, still in their Tigglestide finery, meeting up with Willow Wintersnow the Old Witch. |
 | sonorously | 鸣响得低沉洪亮地；庄重地 | A church bell tolled sonorously in the distance, calling the faithful for morning mass. |
 | ordinarily | 通常地；按惯例 | Now ordinarily, I would agree, but she hasn’t tried my crunkle. |
 | apparently | 看上去，显然（暗示仅是表象） | They were apparently in the middle of a friendly argument. |

@@ -106,7 +106,7 @@ modified: "2026-10-29"
 **为什么这样写**：同义反复故意露馅："It had to be the case. It simply had to be the case." 用重复顶替论证，把信仰的内部结构摊开——它不靠证据，靠别无选择；句子逻辑越空，处境越实。
 **读者视角提示**：读者要同时握着两件事：这句话的逻辑是空的，而说话的人已无路可退——悬念不在咒语灵不灵，在信本身够不够。
 
-> **原句 14:** "With sighing and sorrow and meckle care, … I go forth in the form of a hare! … And I go forth in the devil's name, … E'er that I come back again!"
+> **原句 14:** "With sighing and sorrow and meckle care, I go forth in the form of a hare! And I go forth in the devil's name, E'er that I come back again!"
 
 **中文理解**：咒语说：怀着叹息、忧愁与大烦忧，我以野兔之形出行；我以魔鬼之名出行，直到我再度归来。
 **关键词**：sighing、sorrow、hare

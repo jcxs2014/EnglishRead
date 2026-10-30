@@ -1,0 +1,88 @@
+{
+ "chapter": "ch27",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[740:786]",
+   "anchor": "“They’re going to kill us,” said Sandy blankly",
+   "fact": "Devil 牌后判断：要杀我们+Not as long as my magic works"
+  },
+  {
+   "range": "[1369:1428]",
+   "anchor": "They were going to get burned at the stake by a peasant mob",
+   "fact": "灯笼游行+stake 句+jack-o'-the-skins never in my time"
+  },
+  {
+   "range": "[1930:1977]",
+   "anchor": "Tigglestide isn’t my tradition. I’m an American",
+   "fact": "invite them in 争论逐字"
+  },
+  {
+   "range": "[3182:3220]",
+   "anchor": "How could anything so charming be bad?",
+   "fact": "carol 催眠：童年记忆链+棉花糖脑袋"
+  },
+  {
+   "range": "[4915:4961]",
+   "anchor": "once you invited something inside, that was it",
+   "fact": "敲门→opened it→Please come in→逐字铁律"
+  },
+  {
+   "range": "[5459:5512]",
+   "anchor": "you might just be the right sort of person, after all",
+   "fact": "市长摸头进门（avuncular）"
+  },
+  {
+   "range": "[5920:5960]",
+   "anchor": "an alien presence said, in Sandy’s voice",
+   "fact": "异己之声 Do make yourself at home；Rowan 夸 manners"
+  },
+  {
+   "range": "[7849:7883]",
+   "anchor": "Feels like the whole town is here.",
+   "fact": "全村涌入+琥珀困虫+passive-aggressive"
+  },
+  {
+   "range": "[9346:9404]",
+   "anchor": "a sucking void ringed with the pegs of little rotted teeth",
+   "fact": "RR 入座：白床单/兔面罩/plaited hair 残缕/rictus/眼洞空洞"
+  },
+  {
+   "range": "[9960:10010]",
+   "anchor": "the wave of guffaws that rippled through the crowd",
+   "fact": "This house is protected…You can't be here→哄笑"
+  },
+  {
+   "range": "[10881:10941]",
+   "anchor": "I forgive you, lass. Round Robin doesn’t gotta take you too.",
+   "fact": "Rowan 赦免演说逐字（tent/rock music 点名）"
+  },
+  {
+   "range": "[11360:11420]",
+   "anchor": "Only your parents have that power. It’s all out of our hands",
+   "fact": "市长补刀+decision has been made+No one makes decisions for me"
+  },
+  {
+   "range": "[13721:13784]",
+   "anchor": "I AM THE VERY SPIRIT OF HASENHURST, OF THE LAND AND THE HARVEST",
+   "fact": "屏幕大字逐字+born from human desire so recently+设备卡死争吵"
+  },
+  {
+   "range": "[17004:17034]",
+   "anchor": "I go by they/them,” said Sandy",
+   "fact": "代词宣告+摔机+Take that! Fuck you!+USA!"
+  },
+  {
+   "range": "[23991:24031]",
+   "anchor": "pushed the suit of armor down the stairs",
+   "fact": "混战：刀/beekeeper/RR 头滚落/市长中刀/George 喊逃/扯紫发/破甲上楼"
+  },
+  {
+   "range": "[26418:26451]",
+   "anchor": "I go forth in the form of a hare!",
+   "fact": "widow's walk 俯瞰+one hundred percent faith+四行咒语全文+jumped from the tower and took flight"
+  }
+ ]
+}

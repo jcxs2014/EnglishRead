@@ -1,0 +1,78 @@
+{
+ "chapter": "ch28",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "14/14 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[991:1043]",
+   "anchor": "the destruction of her family, the loss of her child",
+   "fact": "醒来：培根香+最坏的噩梦不敢说出口+摸床单确认现实"
+  },
+  {
+   "range": "[1746:1835]",
+   "anchor": "the world felt fresh and young and pregnant with infinite possibilities. She felt reborn.",
+   "fact": "negligee 非棉睡衣+She felt reborn+想再写几章"
+  },
+  {
+   "range": "[2036:2131]",
+   "anchor": "a visit to the Downythistle farm for eggs and vegetables, a visit to the jam monger for jellies",
+   "fact": "当日 errand 清单逐字"
+  },
+  {
+   "range": "[2909:2962]",
+   "anchor": "theorized that Postman Pete was already on his rounds",
+   "fact": "窗下村庄：Pete/constable/jam monger 各自早课"
+  },
+  {
+   "range": "[3229:3351]",
+   "anchor": "there were Princess Kayla and Dargonna, still in their Tigglestide finery, meeting up with Willow Wintersnow the Old Witch",
+   "fact": "童话人物混入邻居行列（Bartholomew/Albert the Bold/cockatrice/mage 逐字）"
+  },
+  {
+   "range": "[3903:3989]",
+   "anchor": "A church bell tolled sonorously in the distance, calling the faithful for morning mass",
+   "fact": "my neighbors 独白+新家"
+  },
+  {
+   "range": "[4314:4378]",
+   "anchor": "Greg and Molly were both in the kitchen, bustling over the stove",
+   "fact": "Greg+Molly 同灶+crunkle 之争（ parsley/sage vs butter）"
+  },
+  {
+   "range": "[6090:6132]",
+   "anchor": "I dreamed you had to work over Tigglestide",
+   "fact": "迷信：早餐前不说噩梦→只说这一句+两人大笑"
+  },
+  {
+   "range": "[6209:6275]",
+   "anchor": "nothing would keep me from spending Tigglestide Day with my family",
+   "fact": "Greg 的承诺+Molly 附和留时间写作"
+  },
+  {
+   "range": "[6833:6920]",
+   "anchor": "Sandy and George were lounging on the floor of the parlor, playing with Lord Palmerston",
+   "fact": "Sandy+George 逗猫+fake witches 句+jiggery jam 句"
+  },
+  {
+   "range": "[7446:7540]",
+   "anchor": "is a little romance blossoming? Is that what I hear?” She ruffled Sandy’s brown hair playfully",
+   "fact": "romance 打趣+揉 brown hair（发色已棕）"
+  },
+  {
+   "range": "[7796:7844]",
+   "anchor": "Sandy was HER child, there was no doubt about it",
+   "fact": "HER 大写逐字+真的没事对吧+I forgive you, Now git"
+  },
+  {
+   "range": "[8893:8988]",
+   "anchor": "notable for its size and its erect posture, and it stared back at Jessica with wild yellow eyes",
+   "fact": "兔群中褐色野兔（体型/直立/黄眼回望）→拉百叶窗即跳走"
+  },
+  {
+   "range": "[9217:9271]",
+   "anchor": "at the sunken garden now regaining its former splendor",
+   "fact": "结尾长句：沉园重焕旧彩/修剪齐整/雾从不散尽/second chance"
+  }
+ ]
+}

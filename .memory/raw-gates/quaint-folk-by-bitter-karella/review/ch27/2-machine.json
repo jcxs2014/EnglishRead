@@ -1,0 +1,504 @@
+{
+  "chapter": 27,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch27 sandy jumps from the tower.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch27_chap27.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "They're going to kill us,\" said Sandy blankly. \"They're going to try. They can't do anything, though. Not as long as my ",
+          "ok": true,
+          "pos": 719
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Shit. Sandy could not for one second believe this was happening—the exact thing they had been expecting since the moment",
+          "ok": true,
+          "pos": 1122
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "and youthful days, when Sandy was a literal child, and Mom and Dad were the entire world and Sandy could do no wrong in ",
+          "ok": true,
+          "pos": 2950
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "There was nothing to be done after all. Everyone knew that once you invited something inside, that was it",
+          "ok": true,
+          "pos": 4731
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "It had to be Round Robin. It did not look like the figure that Sandy had glimpsed in their dream, nor did it look like t",
+          "ok": true,
+          "pos": 8145
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "The rabbit mask hid its nose and everything above, so that only the mouth and chin were visible. Its skin was oily and b",
+          "ok": true,
+          "pos": 8984
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Georgette, come home,\" said Rowan. \"This doesn't concern you. I know we haven't always seen eye to eye. I know you got t",
+          "ok": true,
+          "pos": 10452
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The lord mayor clapped",
+          "ok": true,
+          "pos": 10761
+        },
+        {
+          "text": "Georgette, you know as well as I do what Round Robin does to naughty children. But tonight you've been given a rare gift",
+          "ok": true,
+          "pos": 10816
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I AM THE VERY SPIRIT OF HASENHURST, OF THE LAND AND THE HARVEST, THE PATRON OF THE FARMER AND THE BEEKEEPER AND THE BOOT",
+          "ok": true,
+          "pos": 13420
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I go by they/them,\" said Sandy",
+          "ok": true,
+          "pos": 16567
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "They threw the device to the floor; it shattered upon impact with a loud crunch. It was very bad form, but Sandy was not",
+          "ok": true,
+          "pos": 16598
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "From this vantage point, Sandy could see everything. They could see the lights of Hasenhurst to the west and they could ",
+          "ok": true,
+          "pos": 24434
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "So if they said the words, if they said the words and they really meant them, the words would come true. It had to be th",
+          "ok": true,
+          "pos": 25538
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "With sighing and sorrow and meckle care",
+          "ok": true,
+          "pos": 25802
+        },
+        {
+          "text": "I go forth in the form of a hare",
+          "ok": true,
+          "pos": 25843
+        },
+        {
+          "text": "And I go forth in the devil's name",
+          "ok": true,
+          "pos": 25877
+        },
+        {
+          "text": "E'er that I come back again",
+          "ok": true,
+          "pos": 25912
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "The trapdoor burst open and the villagers erupted up onto the widow's walk. Sandy jumped from the tower and took flight",
+          "ok": true,
+          "pos": 25940
+        }
+      ],
+      "words": 21
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.43,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.38,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 7,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.3,
+        "关键词": 0.0,
+        "为什么这样写": 0.93,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.83
+      }
+    }
+  ],
+  "form": {
+    "h1": "27. Chapter Twenty-Seven",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 19,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4643,
+    "block_target": [
+      8,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
