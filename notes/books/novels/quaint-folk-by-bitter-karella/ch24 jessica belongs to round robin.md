@@ -68,7 +68,7 @@ modified: "2026-10-29"
 
 **中文理解**：问询的第二组把价码挑明：弃绝基督教的圣信仰，弃绝对「那位反常女性」的敬拜——杰西卡没听懂 anomalous woman 是谁，夫人才挑明：说的是 Virgin Mary。下一自然段里她答得笔直：I will（此句未引）。
 
-**关键词**：abjure / holy Christian faith / anomalous woman / Virgin Mary
+**关键词**：abjure / holy Christian faith / anomalous woman
 
 **为什么这样写**：契约在宗教条款处亮出真身——前一组条款还是家政清单，这一组直接要求叛教；anomalous woman 这种绕口的措辞把圣母说成一个需要澄清的陌生称号，老信仰在这里成了待注销的户口。两个问句结构对称，弃誓被办成了签字流程里的另一栏。
 
