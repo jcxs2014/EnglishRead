@@ -1,0 +1,293 @@
+{
+  "chapter": 26,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/ch26 the jack o the skins.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/quaint-folk-by-bitter-karella/text/ch26_chap26.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Percival and Prudence, sitting on the floor of the living room and quietly playing a round of Wimbly Withershins’s Bramb",
+          "ok": true,
+          "pos": 470
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It was not until later, when she was pulling a tray of fresh-baked jam baps from the oven, that she first heard the soun",
+          "ok": true,
+          "pos": 1611
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "You mustn’t go outside when they play the jack-o’-the-skins, Molly’s mother had said while she tucked her daughter into ",
+          "ok": true,
+          "pos": 2362
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "And little Molly, who never expected that she would actually hear the beat of the jack-o’-the-skins within her lifetime",
+          "ok": true,
+          "pos": 2623
+        },
+        {
+          "text": "simply accepted it as the obvious truth",
+          "ok": true,
+          "pos": 2786
+        },
+        {
+          "text": "That, on the single night of the year when the veil between worlds was thinnest, when Round Robin could walk freely amon",
+          "ok": true,
+          "pos": 2899
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Henry John Temple,” she said, and now the cat stood at attention because Molly only used his full, proper name when she",
+          "ok": true,
+          "pos": 6174
+        },
+        {
+          "text": "I shan’t ever let anything bad happen to you.”",
+          "ok": true,
+          "pos": 6429
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "It began at the pub",
+          "ok": true,
+          "pos": 7437
+        },
+        {
+          "text": "where the body of Greg even now sprawled across the floor in a spreading pool of blood",
+          "ok": true,
+          "pos": 7585
+        },
+        {
+          "text": "It was death, they knew, or something worse, if the procession were to pause before their doorstep, if the chanting and ",
+          "ok": true,
+          "pos": 8250
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Round Robin led the procession, four feet in perfect sync, his puppet head bobbing ten feet over the crowd and his ghost",
+          "ok": true,
+          "pos": 8811
+        }
+      ],
+      "words": 61
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 92,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 85,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.75
+      }
+    }
+  ],
+  "form": {
+    "h1": "26. Chapter Twenty-Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 14,
+    "block_range": [
+      3,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1626,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 28 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

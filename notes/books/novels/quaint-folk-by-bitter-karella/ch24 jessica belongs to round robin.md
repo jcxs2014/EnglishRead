@@ -64,14 +64,24 @@ modified: "2026-10-29"
 **为什么这样写**：契约条款其实是一份郊区家政清单：tidy house、open smile、不 make a fuss。作者让邪教偷渡进中产礼仪手册，再给整套琐碎盖上帝王规模的印章——"since the dawn of time" 的宏大时间感，罩住的偏偏是最平庸的内容，落差即讽刺。
 **读者视角提示**：问句一个接一个，不给犹豫留缝；她的应答在原文里短得出奇，问询随后还会加码、往弃誓的方向去。把契约读完，再看它拐向哪里。
 
-> **原句 8:** "It was like in the painting, a sleek white hare with long, slipper-like ears. Its muzzle was flattened like a Persian cat’s, and its insane staring yellow eyes faced front above a pointed nose. Its face was too human for a dumb animal. Its ears brushed the ceiling."
+> **原句 8:** "“And would you abjure the holy Christian faith? And the worship of the anomalous woman?”"
+
+**中文理解**：问询的第二组把价码挑明：弃绝基督教的圣信仰，弃绝对「那位反常女性」的敬拜——杰西卡没听懂 anomalous woman 是谁，夫人才挑明：说的是 Virgin Mary。下一自然段里她答得笔直：I will（此句未引）。
+
+**关键词**：abjure / holy Christian faith / anomalous woman / Virgin Mary
+
+**为什么这样写**：契约在宗教条款处亮出真身——前一组条款还是家政清单，这一组直接要求叛教；anomalous woman 这种绕口的措辞把圣母说成一个需要澄清的陌生称号，老信仰在这里成了待注销的户口。两个问句结构对称，弃誓被办成了签字流程里的另一栏。
+
+**读者视角提示**：原文紧接的自白把这份「决裂」的分量卸掉——她自称已经 damned for lust、damned for tribadism、damned for apostasy，不差再多一条亵渎；对早被自家教派判过三次的人，弃誓只是补办手续。
+
+> **原句 9:** "It was like in the painting, a sleek white hare with long, slipper-like ears. Its muzzle was flattened like a Persian cat’s, and its insane staring yellow eyes faced front above a pointed nose. Its face was too human for a dumb animal. Its ears brushed the ceiling."
 
 **中文理解**：显形之物与画像一致：皮毛光滑的白兔，长耳朵软塌如拖鞋，口鼻扁得像波斯猫，一双黄色的眼睛直勾勾瞪向前方；脸太像人，耳朵能扫到天花板。
 **关键词**：sleek white hare、slipper-like、Persian cat、too human、ceiling
 **为什么这样写**：描写全靠家养宠物的借喻堆叠——波斯猫的口鼻、拖鞋似的耳朵——再突然拔高到 "too human"：每个喻体都在说它是宠物，每个细节又都在拆这个说法；耳朵抵到天花板又把尺度推回怪物。全程无声，恐怖只由视线与尺寸完成。
 **读者视角提示**："like in the painting" 把画像、第 13 章的梦与眼前的实体串成一条线；此刻它还站在门外走廊——门内的人已经签好了字，进不进来，只是流程。
 
-> **原句 9:** "But the deed was done and she now belonged to Round Robin."
+> **原句 10:** "But the deed was done and she now belonged to Round Robin."
 
 **中文理解**：前文写完死亡过程——喉咙被咬、失血、连尖叫都发不出——到这里只剩一句交代：事已办成，她从此归圆罗宾所有。
 **关键词**：deed、belonged

@@ -1,0 +1,78 @@
+{
+ "chapter": "ch24",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "14/14 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[760:793]",
+   "anchor": "All you need to do is let him in.",
+   "fact": "TICK TICK TICK+let him in 劝进"
+  },
+  {
+   "range": "[1149:1212]",
+   "anchor": "when her mother had implored her to accept Jesus into her heart",
+   "fact": "恐慌发作+童年闪回（couldn't mouth the words/damned either way）"
+  },
+  {
+   "range": "[2479:2531]",
+   "anchor": "God didn’t reject you. This is what you always were.",
+   "fact": "Morgan 原话逐字"
+  },
+  {
+   "range": "[3517:3565]",
+   "anchor": "You can be a follower of Christ or you can burn.",
+   "fact": "父母最后通牒逐字+another offer"
+  },
+  {
+   "range": "[3682:3756]",
+   "anchor": "“You remind me of Spunkie,” said the Lady Tuppence. “She was resistant too",
+   "fact": "Spunkie 对比（resistant too）"
+  },
+  {
+   "range": "[4576:4647]",
+   "anchor": "You can go back to America, with nothing, and try to pick up the pieces",
+   "fact": "二选一+I want Round Robin to fix things（轻得不确定说没说）"
+  },
+  {
+   "range": "[5270:5326]",
+   "anchor": "as if the corners were crowded with invisible spectators",
+   "fact": "invisible spectators+烛火如被吹过"
+  },
+  {
+   "range": "[5559:5619]",
+   "anchor": "Would you live as we do—to be mild and gentle in all things?",
+   "fact": "契约第一组逐字+It was as if she had always known+I would"
+  },
+  {
+   "range": "[6123:6209]",
+   "anchor": "And would you abjure the holy Christian faith? And the worship of the anomalous woman?",
+   "fact": "契约第二组：abjure+Virgin Mary+I will"
+  },
+  {
+   "range": "[7007:7070]",
+   "anchor": "But now that Round Robin favors you, they will be lies no more.",
+   "fact": "lies no more 宣告"
+  },
+  {
+   "range": "[7780:7827]",
+   "anchor": "a sleek white hare with long, slipper-like ears",
+   "fact": "显形：白兔/扁口鼻如波斯猫/黄眼前视/耳朵扫天花板"
+  },
+  {
+   "range": "[8354:8416]",
+   "anchor": "the whimper of a whipped dog, the screams of a mother in labor",
+   "fact": "voice 触发异己记忆清单"
+  },
+  {
+   "range": "[9435:9508]",
+   "anchor": "Round Robin jumped into her lap and tucked its feet under it, like a cat.",
+   "fact": "入怀如猫+think nice thoughts+哺乳期比喻+咬喉（概括）"
+  },
+  {
+   "range": "[11626:11684]",
+   "anchor": "But the deed was done and she now belonged to Round Robin.",
+   "fact": "兔民俗一声叫+not a good death+belonged 逐字"
+  }
+ ]
+}

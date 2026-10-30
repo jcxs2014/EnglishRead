@@ -1,0 +1,128 @@
+{
+ "chapter": "ch26",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "24/24 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[548:622]",
+   "anchor": "quietly playing a round of Wimbly Withershins’s Brambleberry Forest Frolic",
+   "fact": "孩子深夜玩桌游（Eve 特许晚睡）"
+  },
+  {
+   "range": "[674:732]",
+   "anchor": "Lord Palmerston the kitten lay curled up in Prudence’s lap",
+   "fact": "猫蜷在 Prudence 腿上"
+  },
+  {
+   "range": "[1232:1328]",
+   "anchor": "Molly planted a kiss upon the forehead of her son and then one upon the forehead of her daughter",
+   "fact": "Molly 归家吻额头+挠猫下巴+问 jam baps"
+  },
+  {
+   "range": "[1578:1627]",
+   "anchor": "she did not speak of her experiences this evening",
+   "fact": "对今晚经历只字不提"
+  },
+  {
+   "range": "[1785:1880]",
+   "anchor": "too rhythmic to be natural, soaking through the walls and echoing like the heartbeat of a whale",
+   "fact": "鼓声初起逐字（鲸心跳）"
+  },
+  {
+   "range": "[2388:2447]",
+   "anchor": "You mustn’t go outside when they play the jack-o’-the-skins",
+   "fact": "母亲旧警告前半逐字"
+  },
+  {
+   "range": "[2604:2652]",
+   "anchor": "It means that Round Robin is about on his rounds",
+   "fact": "警告后半逐字"
+  },
+  {
+   "range": "[3075:3173]",
+   "anchor": "the people of Hasenhurst would gather in the night to help him accomplish his own brand of justice",
+   "fact": "成年真相：own brand of justice 逐字"
+  },
+  {
+   "range": "[3324:3393]",
+   "anchor": "Stay inside where it’s safe. Stay inside or he might come for you too",
+   "fact": "Stay inside 两连逐字"
+  },
+  {
+   "range": "[4043:4088]",
+   "anchor": "Pack up your game, luvs,” said Molly hoarsely",
+   "fact": "打发孩子上床+乖得像金子"
+  },
+  {
+   "range": "[4636:4684]",
+   "anchor": "Percival started to quake, but Molly shushed him",
+   "fact": "Percival 发抖+I could not ask for a better pair of children"
+  },
+  {
+   "range": "[4978:5032]",
+   "anchor": "Molly thought about Jessica, who was quite a nice lady",
+   "fact": "心中替三家说话（nice lady/good sort Greg/conscientious mother）"
+  },
+  {
+   "range": "[5727:5793]",
+   "anchor": "they seem like a nice family. I’m sure that they’re the right sort",
+   "fact": "nice family/right sort 逐字"
+  },
+  {
+   "range": "[6287:6352]",
+   "anchor": "“Henry John Temple,” she said, and now the cat stood at attention",
+   "fact": "全名唤猫+眼泪涌出"
+  },
+  {
+   "range": "[6512:6592]",
+   "anchor": "You’re such a very, very good boy. I shan’t ever let anything bad happen to you.",
+   "fact": "very very good boy 逐字+猫舔脸"
+  },
+  {
+   "range": "[6760:6827]",
+   "anchor": "Boudicca and Pitt the Elder rubbed against her legs, purring loudly",
+   "fact": "四猫环坐+你们跟我永远安全；indoor cats 庆幸"
+  },
+  {
+   "range": "[7578:7636]",
+   "anchor": "It began at the pub, in the basement of The Stoat and Hare",
+   "fact": "游行始于 pub 地下室"
+  },
+  {
+   "range": "[7732:7812]",
+   "anchor": "the body of Greg even now sprawled across the floor in a spreading pool of blood",
+   "fact": "Greg 尸体血泊逐字"
+  },
+  {
+   "range": "[7917:7980]",
+   "anchor": "All through Hasenhurst, doors were locked and windows shuttered",
+   "fact": "全镇锁门闭窗/坏孩子装睡"
+  },
+  {
+   "range": "[8391:8489]",
+   "anchor": "It was death, they knew, or something worse, if the procession were to pause before their doorstep",
+   "fact": "death or something worse 逐字"
+  },
+  {
+   "range": "[8849:8950]",
+   "anchor": "headed inexorably toward Hollyoak House, where everyone in Hasenhurst knew the Americans were staying",
+   "fact": "队伍朝 Hollyoak House 去"
+  },
+  {
+   "range": "[8954:9011]",
+   "anchor": "Round Robin led the procession, four feet in perfect sync",
+   "fact": "RR 领队：四脚同步/木偶头十英尺/白床单"
+  },
+  {
+   "range": "[9165:9236]",
+   "anchor": "after they crossed Bunnyfluff Bridge onto the grounds of Hollyoak House",
+   "fact": "过 Bunnyfluff Bridge 上山"
+  },
+  {
+   "range": "[9238:9319]",
+   "anchor": "the steady crunch, crunch, crunch of heavy footfalls, lots of them, across gravel",
+   "fact": "结尾 crunch 句逐字"
+  }
+ ]
+}

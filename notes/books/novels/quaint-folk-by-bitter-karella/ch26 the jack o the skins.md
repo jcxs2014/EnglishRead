@@ -14,7 +14,7 @@ modified: "2026-10-29"
 
 ## 精读
 > **原句 1:** "Percival and Prudence, sitting on the floor of the living room and quietly playing a round of Wimbly Withershins’s Brambleberry Forest Frolic, did not react to the noise of the drums at first. Lord Palmerston the kitten lay curled up in Prudence’s lap, tiny paws over his face, as Prudence kneaded the top of the kitten’s head."
-**中文理解**：皮西瓦尔和普露登丝坐在客厅地板上，安静地玩一局「温布利·威瑟欣斯的荆棘森林游乐会」，起初谁也没理会那阵鼓声；小猫帕默斯顿蜷在普露登丝怀里，小爪子盖着脸，任由她揉着自己的头顶。
+**中文理解**：Percival 和 Prudence坐在客厅地板上，安静地玩一局《Wimbly Withershins's Brambleberry Forest Frolic》，起初谁也没理会那阵鼓声；小猫 Lord Palmerston蜷在 Prudence 怀里，小爪子盖着脸，任由她揉着自己的头顶。
 **关键词**：did not react / at first / curled up / kneaded / drums
 **为什么这样写**：深夜客厅写得越暖——桌游、蜷成一团的小猫、被揉的头顶——鼓声一进句就越显得不由分说；did not react 后面紧跟着 at first，作者当场把「暂时没听见」的期限亮给读者，恐怖从开场就在计时。
 **读者视角提示**：盯住 at first 这两个词——孩子们不是胆大，是还不知道今晚该怕什么；再记一下这只被揉头顶的小猫，这份日常的柔软，是后文那场告别用来称重的砝码。

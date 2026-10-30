@@ -1,0 +1,88 @@
+{
+ "chapter": "ch25",
+ "reviewer": "R1 子代理（仅读该章 text）",
+ "date": "2026-10-29",
+ "anchors_checked": "16/16 全命中（Python find 实测偏移）",
+ "facts": [
+  {
+   "range": "[695:746]",
+   "anchor": "tinkering with the remains of Round Robin v2.8 Beta",
+   "fact": "Greg 独修残骸+backups+她的指控反成线索"
+  },
+  {
+   "range": "[1486:1561]",
+   "anchor": "The lads always end the festivities with a few rounds at The Stoat and Hare",
+   "fact": "市长邀 pub（The Stoat and Hare 逐字）"
+  },
+  {
+   "range": "[3220:3309]",
+   "anchor": "dropped money that they didn’t have on hair plugs and red Ferraris (they were always red)",
+   "fact": "中年自省逐字"
+  },
+  {
+   "range": "[5182:5254]",
+   "anchor": "Of course he was going to go back to her. He was always going to return.",
+   "fact": "他当然会回去/无处可去"
+  },
+  {
+   "range": "[6920:6966]",
+   "anchor": "said one shadow as Greg passed. “Fancy a fag?”",
+   "fact": "夜路：街灯 doused/影子共烟/卖关子"
+  },
+  {
+   "range": "[9745:9851]",
+   "anchor": "billiards table with torn green felt and, in a place of honor on the wall, paintings of various dead kings",
+   "fact": "地下 pub：billiards/dead kings/couples pawing"
+  },
+  {
+   "range": "[10340:10424]",
+   "anchor": "The barkeep wore a mask that was red and wet, as if it had just been freshly painted",
+   "fact": "barkeep 面具：红湿/无嘴/双眼凸出；瓶子全无标签"
+  },
+  {
+   "range": "[10720:10804]",
+   "anchor": "Greg spied Postman Pete, still in his dress and makeup, and the vicar, in a dog mask",
+   "fact": "装束点名逐字+drinky bird 意象"
+  },
+  {
+   "range": "[12710:12791]",
+   "anchor": "It burned with the distinctive taste of gasoline and pennies that Greg remembered",
+   "fact": "elk's blood 味道句+市长 unitard/monocle"
+  },
+  {
+   "range": "[14426:14518]",
+   "anchor": "Greg stared at it in confusion until the bartender helpfully offered: “You chew it, squire.”",
+   "fact": "belladonna chaser（You chew it 逐字）+on the house"
+  },
+  {
+   "range": "[15144:15194]",
+   "anchor": "It wasn’t working before. It shouldn’t be working!",
+   "fact": "设备复活+miracle/right sort of people"
+  },
+  {
+   "range": "[15640:15746]",
+   "anchor": "We specifically requested your family, old man, because we wanted them to send us the right sort of people",
+   "fact": "指名要这家+数罪三件（Jessica/Molly/Sandy）"
+  },
+  {
+   "range": "[17259:17346]",
+   "anchor": "The vicar, who tonight wore a brown cassock and a rubber mask to look like Toby the dog",
+   "fact": "vicar Toby 面具+team player+抹圣记号"
+  },
+  {
+   "range": "[18913:19026]",
+   "anchor": "But now we’ve finally taken the human out of the process! We’ve finally joined the twenty-first century for real.",
+   "fact": "taken the human out 逐字"
+  },
+  {
+   "range": "[19506:19565]",
+   "anchor": "There was only one thing under the sheet, and it was no man",
+   "fact": "RR 转变句+is reborn+跪地+屏幕 HELLO USER"
+  },
+  {
+   "range": "[21992:22085]",
+   "anchor": "He blinked in surprise but said nothing. He didn’t even reach for his throat as he went down.",
+   "fact": "割喉（概括）+收尾句逐字"
+  }
+ ]
+}
