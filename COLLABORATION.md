@@ -68,6 +68,13 @@ T1 自检（同会话）：抽 8 章（00/04/08/12/16/20/24/28，首末必含）
 工具修复 1 件：keywords.py 脚注清理正则误删年份缩写（'24 Jeep/'22 WORLD TOUR）致「跨自然段」假红——改为引语侧对称清理+关键词锚定用未剥副本，3 本存量书回归全绿。
 本会话 commit 16 笔（b6faa690d..180e5f0b3），全部未 push。日志见 .memory/daily/2026-10-29.md。T1 为同会话自检，有效率未经异会话校准。
 
+quaint-folk-by-bitter-karella T3 全量深审（用户点名，同会话续接按指定记「异会话」）：29/29 章逐章 R1→R4，**无未审章**；四件套 review/ch00–ch28 各 4 件齐备（1-suread.json / 2-machine.json / 3-diff.md / 4-verdict.md，末尾含「已核实为正确」节）。
+机器层：gate.sh EXIT=0（362 块，0 阻断）· chapter.sh 29/29 rc=0 · quotes.py verbatim 411/411 · fragments 480 片段 0 MISS / 0 拼接未标省略号 · overview quotes 64/64 + labels 25/25 + 29/29 章覆盖 · corruption FAIL 0 · order/audit/anchor 缺陷 0。
+人判覆盖：R1 素读 29/29 章由 10 批独立子代理先读 text 产出（434 条事实锚点全命中，未看 md）；R2–R4 判定全部留主会话串行推进，未按章轮询。
+查出 18 处并全部就地修复复验：内容阻断 4（ch05 提示时序错 / ch20 写作期自述残留 / ch24 契约第二组漏块——补块+顺延编号 / ch27 伪省略号——原文连续四行被插 3 处 …）+ ⑧关键词 1（Virgin Mary 在原文不在引语）+ S4 高级档注水与专名 8 章 29 行 + 口径 5（7j 括注规范化 3、ch26 人名音译统一回英文原名 1、机器层假红 1）。
+判「不修」并留档：各章块数高于词数建议（按同书自校准口径合规）、B2 词带特定义项释义、ch16 等顶格取舍项——依据均写入 4-verdict 与修复指令。
+产物：2026-10-29-复核与修复指令.md（18 条改前→改后）+ 台账一行（档位 深 / 审查方 异会话）；终态整书 gate EXIT=0，本书累计 commit 21 笔（b6faa690d..38750008f）全部未 push。日志见 .memory/daily/2026-10-29.md。
+
 ### [2026-10-29 19:03 UTC] [DSH-Mac] → All
 
 **《Pan》(Francesco Dimitri) 完工 + T3 全量深审（pan-by-francesco-dimitri）**
