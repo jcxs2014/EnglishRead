@@ -1,0 +1,247 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch29",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch29_rubbish_jokes_too_silly_for_any_other_chapter.txt",
+ "facts": [
+  {
+   "fact": "西兰花与鼻屎的区别：小孩不爱吃西兰花——即小孩都爱吃鼻屎，答案把提问引到错误方向",
+   "anchor": "What’s the difference between broccoli and bogies? Children don’t like eating broccoli.",
+   "start": 104,
+   "end": 191
+  },
+  {
+   "fact": "棕色的、听起来像钟声的是什么？DUNG（粪）——与 DING 只差一个元音，先给声音再给实物",
+   "anchor": "What’s brown and sounds like a bell? DUNG!",
+   "start": 245,
+   "end": 287
+  },
+  {
+   "fact": "棕色、黏的是什么？一根树枝——stick 既是\"树枝\"又是\"黏住\"，字面回答",
+   "anchor": "What’s brown and sticky? A stick.",
+   "start": 292,
+   "end": 325
+  },
+  {
+   "fact": "蓝色、毛茸茸的？蓝色绒毛——同义反复（tautology）式答案",
+   "anchor": "What’s blue and fluffy? Blue fluff.",
+   "start": 385,
+   "end": 420
+  },
+  {
+   "fact": "蓝色、不太重？浅蓝色——light 既是\"浅\"又是\"轻\"",
+   "anchor": "What’s blue and not very heavy? Light blue.",
+   "start": 425,
+   "end": 468
+  },
+  {
+   "fact": "绿色、闻起来像红油漆？绿油漆——把\"闻起来像\"的类比直接取消",
+   "anchor": "What’s green and smells like red paint? Green paint.",
+   "start": 473,
+   "end": 525
+  },
+  {
+   "fact": "男孩放学兴奋告诉妈妈：老师提问只有他知道答案",
+   "anchor": "A boy runs home from school and excitedly tells his mum, ‘Mummy! Mummy! Today at school the teacher asked a question and I was the only one who knew the answer!’",
+   "start": 530,
+   "end": 691
+  },
+  {
+   "fact": "原来老师的问题是\"谁放屁了\"——孩子的\"知道答案\"其实是不打自招",
+   "anchor": "‘Who farted?’",
+   "start": 763,
+   "end": 776
+  },
+  {
+   "fact": "我莫名其妙卷进一场关于\"无主呕吐物\"的谈话——不知道是谁\"提出来的\"（brought it up 又指呕吐）",
+   "anchor": "I’ve somehow got into a conversation about ownerless vomit. I don’t know who brought it up.",
+   "start": 783,
+   "end": 874
+  },
+  {
+   "fact": "有人觉得吃鼻孔里掏出来的东西没问题，但那\"不是（acceptable）\"——it’s snot 谐音 it's not",
+   "anchor": "Some people think eating stuff you find up your nose is acceptable, but it’s snot.",
+   "start": 879,
+   "end": 961
+  },
+  {
+   "fact": "怎么让纸巾跳舞？往里放点 boogie（布吉舞曲），boogie 又指鼻屎（booger）",
+   "anchor": "How do you make a tissue dance? Put a little boogie in it.",
+   "start": 966,
+   "end": 1024
+  },
+  {
+   "fact": "便秘的数学家怎么解决？他用铅笔\"算出来\"——work out 既是解算也是排出",
+   "anchor": "How did the constipated mathematician solve his problem? He worked it out with a pencil.",
+   "start": 1029,
+   "end": 1117
+  },
+  {
+   "fact": "兔子和李子的区别？两者都是紫色的，除了兔子——答案声称兔子是紫的",
+   "anchor": "What’s the difference between a rabbit and a plum? They’re both purple except for the rabbit.",
+   "start": 1122,
+   "end": 1215
+  },
+  {
+   "fact": "白色、穿格子裤的是谁？冰箱鲁珀特——纯粹荒诞的命名",
+   "anchor": "What’s white and wears tartan trousers? Rupert the Fridge.",
+   "start": 1220,
+   "end": 1278
+  },
+  {
+   "fact": "路人见围栏里传出\"七十三！\"的齐声呼喊",
+   "anchor": "A man is walking down the road and sees an area with a wooden fence completely surrounding it, and chants coming from inside of, ‘Seventy-three! Seventy-three! Seventy-three!’",
+   "start": 1283,
+   "end": 1458
+  },
+  {
+   "fact": "他凑到洞眼张望，一根手指立刻戳中他的眼睛，呼喊变成\"七十四！\"——计数的是被戳眼的人",
+   "anchor": "A finger immediately pokes him in the eye, and the chant changes to, ‘Seventy-four! Seventy-four! Seventy-four!’",
+   "start": 1558,
+   "end": 1670
+  },
+  {
+   "fact": "要找一群身高都超过六英尺四的修士——\"a tall order\"（难办的事）字面是\"高的订单\"",
+   "anchor": "I’ve been asked to find a group of monks that are all over six foot four. That’s a tall order.",
+   "start": 1675,
+   "end": 1769
+  },
+  {
+   "fact": "苍蝇撞挡风玻璃时最后一个\"穿过它脑子\"的东西？它的屁股",
+   "anchor": "What’s the last thing to go through a fly’s mind when it hits a windscreen? Its bum.",
+   "start": 1774,
+   "end": 1858
+  },
+  {
+   "fact": "一英尺长、滑的东西？拖鞋——slipper 含 slip，字面\"滑的东西\"",
+   "anchor": "What’s a foot long and slippery? A slipper.",
+   "start": 1863,
+   "end": 1906
+  },
+  {
+   "fact": "海滩为什么笑？因为海草——sea weed 谐音 he/she/we 谐音 see weed",
+   "anchor": "Why did the beach laugh? Because the sea weed.",
+   "start": 1911,
+   "end": 1957
+  },
+  {
+   "fact": "字母汤喝多了会制造一次巨大的\"元音运动\"——vowel movement 谐音 bowel movement（排便）",
+   "anchor": "If you eat too much alphabet soup you end up making a huge vowel movement.",
+   "start": 1962,
+   "end": 2036
+  },
+  {
+   "fact": "不会魔法的魔术师叫什么？Ian——名字里藏着\"I ain't\"（我不是）",
+   "anchor": "What do you call a magician who isn’t magic? Ian.",
+   "start": 2041,
+   "end": 2090
+  },
+  {
+   "fact": "医生说“水星在你的天王星里”——Mercury 是水星，Uranus 又指肛门；病人说不懂占星，医生答“我也不懂，我的体温计刚碎了”",
+   "anchor": "Mercury is in Uranus.",
+   "start": 2146,
+   "end": 2167
+  },
+  {
+   "fact": "在电梯里放屁\"在这么多层面都不对\"——levels 又指楼层",
+   "anchor": "Farting in a lift is wrong on so many levels.",
+   "start": 2257,
+   "end": 2302
+  },
+  {
+   "fact": "有人自问自答你不烦吗？我烦——说话者自己就是自问自答",
+   "anchor": "Don’t you hate it when someone answers their own questions? I do.",
+   "start": 2313,
+   "end": 2378
+  },
+  {
+   "fact": "碗里放多少豆子？239，再多就太\"放屁\"了——farty 谐音 forty",
+   "anchor": "How many beans should you put in a bowl? 239. One more would be too farty.",
+   "start": 2383,
+   "end": 2457
+  },
+  {
+   "fact": "腹泻是遗传的——\"在基因里跑\"（runs）又是\"拉肚子\"",
+   "anchor": "Diarrhoea is genetic. It runs in your genes.",
+   "start": 2462,
+   "end": 2506
+  },
+  {
+   "fact": "面包师手为什么臭？他\"揉\"了一坨屎——kneaded 谐音 needed",
+   "anchor": "Why did the baker have smelly hands? He kneaded a poo.",
+   "start": 2511,
+   "end": 2565
+  },
+  {
+   "fact": "穿袜子睡觉的人叫什么？Tiny——toes in（脚趾在里面）谐音",
+   "anchor": "What do you call someone who sleeps in their socks? Tiny.",
+   "start": 2570,
+   "end": 2627
+  },
+  {
+   "fact": "咖啡为什么像泥？因为它是磨碎的（ground 又指地面）",
+   "anchor": "Why does coffee taste like mud? Because it’s ground.",
+   "start": 2634,
+   "end": 2686
+  },
+  {
+   "fact": "高尔夫球手为什么穿两条内裤？以防\"一杆进洞\"（hole in one 又指裤子破洞）",
+   "anchor": "Why did the golfer wear two pairs of underpants? In case he got a hole in one.",
+   "start": 2691,
+   "end": 2769
+  },
+  {
+   "fact": "电话亭里的河马叫什么？卡住了（stuck）——不回答名字而回答状态",
+   "anchor": "What do you call a hippopotamus in a phone box? Stuck.",
+   "start": 2774,
+   "end": 2828
+  },
+  {
+   "fact": "苹果树上有多少苹果？全部——问题看似问数量，答案把范围设为全部",
+   "anchor": "How many apples grow on apple trees? All of them.",
+   "start": 2833,
+   "end": 2882
+  },
+  {
+   "fact": "组合式办公设备与我的屁股的区别？一个有 files and parts——files 既是档案也是锉刀，parts 既是零件也是私处",
+   "anchor": "What’s the difference between a piece of self-assembly office equipment and my bottom? One has files and parts …",
+   "start": 2887,
+   "end": 2999
+  },
+  {
+   "fact": "我拉了一坨进了吉尼斯世界纪录——后悔把书摊开在浴室里（\"拉进书里\"的字面义）",
+   "anchor": "I did a poo that got into the Guinness Book of World Records. I regret leaving the book open in the bathroom.",
+   "start": 3004,
+   "end": 3113
+  },
+  {
+   "fact": "云每天穿什么？Thunderpants 谐音 underpants",
+   "anchor": "What do clouds wear every day? Thunderpants.",
+   "start": 3118,
+   "end": 3162
+  },
+  {
+   "fact": "抱婴儿上公交，司机说这是他见过最丑的婴儿",
+   "anchor": "A woman gets on a bus with her baby. The bus driver says, ‘Whoa, that’s the ugliest baby that I’ve ever seen! Gross!’",
+   "start": 3167,
+   "end": 3284
+  },
+  {
+   "fact": "邻座男子劝她去找司机理论，并说\"我帮你看着猴子\"——把婴儿降格成猴",
+   "anchor": "The man says, ‘Go up there and tell him off. It’s alright, I’ll look after your monkey.’",
+   "start": 3439,
+   "end": 3527
+  },
+  {
+   "fact": "男子在炸鱼薯条店要\"牛排腰子派\"，把 kidney 说成 kidley",
+   "anchor": "A man walks into a chip shop and says, ‘Can I have a steak and kidley pie please?’",
+   "start": 3532,
+   "end": 3614
+  },
+  {
+   "fact": "店员纠正，他说\"我说的就是这个，diddle I\"——把 didn't I 说成 diddle I（diddle 又有\"欺骗/乱搞\"义）",
+   "anchor": "‘Don’t you mean a steak and kidney pie?’ says the woman behind the counter. ‘I said that, diddle I?’",
+   "start": 3615,
+   "end": 3715
+  }
+ ]
+}
