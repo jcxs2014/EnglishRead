@@ -118,7 +118,7 @@ modified: "2026-10-31"
 |---|---|---|
 | lackey | 跟班、帮凶（听人差遣的小角色） | I roll my eyes. Peter, a Candor-born initiate who’s always flanked by his favorite lackeys, has made me uneasy from the start. |
 | antechamber | 前厅、外间（进入正厅前的那间屋子） | The antechamber is round and squat, with a low stone ceiling that sometimes makes me feel like hunching over. |
-| escalate | 升级、一轮比一轮严重 | His behavior keeps escalating, with no one checking his ego. |
+| escalating | 不断升级、一轮比一轮严重（escalate 的现在分词） | His behavior keeps escalating, with no one checking his ego. |
 | clothesline | 横臂锁喉（摔角动作：手臂横过对方喉咙把人放倒） | So I clothesline him with my right arm, swinging it so it comes down right across his throat. |
 | derail | 使偏离、把（一拳）带偏 | He lowers his shoulder for an uppercut aimed at my gut, and this is it, this is the moment—I bring my left arm down on his, to derail his punch, then grab his wrist and twist. |
 | crumple | 揉皱、攥成一团 | I crumple the note and shove it in my pocket. |

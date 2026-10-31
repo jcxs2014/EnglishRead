@@ -130,7 +130,7 @@ modified: "2026-10-31"
 | croak | 沙哑地挤出声音（嗓子久不使用） | I nod and then croak, “Yes.” |
 | flutter | 轻颤、扑动（被风掀得抖） | The plants in the small garden that Robert tended flutter and twitch. |
 | sting | 刺一下、扎心（一句话带来的隐痛） | It stings a little to know that he didn’t keep even that question private. |
-| rummage | 翻找、在抽屉里扒拉 | Somehow I end up counting the initiates, doing some quick calculations, and rummaging in one of the drawers for a measuring cup. |
+| rummaging | 翻找、在抽屉里扒拉（rummage 的现在分词） | Somehow I end up counting the initiates, doing some quick calculations, and rummaging in one of the drawers for a measuring cup. |
 | wince | 缩一下、脸上抽一下（知道自己说错了） | I wince. I shouldn’t have said that. |
 
 ## 一句话总结

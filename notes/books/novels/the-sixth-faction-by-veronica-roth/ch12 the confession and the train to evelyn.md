@@ -113,7 +113,7 @@ modified: "2026-10-31"
 | sluggish | 迟钝的、身子发沉的 | I feel sluggish with fear, stupid with it. |
 | chafing | 磨人的、叫人烦躁的（与 soothing 相对） | The tedium of sorting and packing up bundles of necessities to be dropped throughout the city is both soothing and chafing. |
 | beckon | 招手示意、示意人过来 | She beckons me toward the end of the platform, and we stand together there. |
-| topple | 失去平衡摔下、翻倒 | I’ve seen the Dauntless do this so many times, but I’ve also heard horror stories about people toppling off the train platform and dying, crushed under the train’s weight or falling to the pavement below. |
+| toppling | 失去平衡摔下、翻倒 | I’ve seen the Dauntless do this so many times, but I’ve also heard horror stories about people toppling off the train platform and dying, crushed under the train’s weight or falling to the pavement below. |
 | twitch | 抽动、轻微地抖 | Constance, twitching in her sleep. |
 
 ### ⭐ 常用
