@@ -1,0 +1,56 @@
+{
+  "book": "raising-ai-by-chirag-shah",
+  "chapter": "ch02",
+  "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch02_1_ai_ghosts_and_goblins.txt",
+  "independent_reread": true,
+  "facts": [
+    {
+      "fact": "2004 年夏，作者 Chirag Shah 预算 $3,000 买二手车，在一个周六上午狂跑后超预算 10 percent 买下二手马自达 Protegé，当晚带着它去电影院看《I, Robot》。",
+      "anchor": "a fanatical hustle on a Saturday morning and going 10 percent over my budget",
+      "start": 1016,
+      "end": 1092
+    },
+    {
+      "fact": "《I, Robot》片头闪回里，救援机器人算出 Smith 存活率 45 percent、同车 12 岁女孩仅 11 percent，于是逻辑上选择只救 Smith，这一情节成为全书偏见的核心隐喻。",
+      "anchor": "it calculates that Smith had a 45 percent chance of survival, whereas the girl had only 11 percent",
+      "start": 14372,
+      "end": 14470
+    },
+    {
+      "fact": "2011 年日本科学家 Sachiko Kodama 博士设计的机器人 I- 谱出世界首支机器人交响曲；2018 年 AI 画作《Edmond de Belamy》在纽约佳士得以 $432,500 成交。",
+      "anchor": "In 2011, a robot named I-, designed by Japanese scientist Dr. Sachiko Kodama",
+      "start": 11945,
+      "end": 12021
+    },
+    {
+      "fact": "2018 年初夏，Shah 在 Spotify 纽约曼哈顿办公室错过了一周关于 AI 系统偏见的读书小组，午餐听同事转述后立即冲回工位翻看上周的阅读材料与幻灯片。",
+      "anchor": "Immediately after that lunch, I rushed to my desk and started going through the reading material",
+      "start": 22680,
+      "end": 22776
+    },
+    {
+      "fact": "Spotify 高级研究员 Shelly Plimpton（用 ML 做市场双边公平问题）与 Shah 在四楼咖啡馆喝咖啡时说出「这些系统里有幽灵」，指模型训练后仍有不可预测的意外行为潜入。",
+      "anchor": "“It’s like there are ghosts in these systems,” Shelly started to describe",
+      "start": 26256,
+      "end": 26329
+    },
+    {
+      "fact": "ProPublica 2016 年的一篇调查报道讨论了名为 COMPAS 的 ML 软件被用于评估罪犯重犯可能性，该算法对有肤色者给出更高犯罪概率，而实际获释后白人前科者违法更多。",
+      "anchor": "There was a 2016 article in ProPublica, an issues-driven, investigative journalism publication",
+      "start": 26940,
+      "end": 27034
+    },
+    {
+      "fact": "Georgetown 法学院的一项研究发现：截至 2018 年，117 million 美国成年人处于执法部门使用的人脸识别网络中，其中非裔美国人因在入案照数据库中被不成比例地代表而最易被点名。",
+      "anchor": "Work done at the Georgetown Law School found that 117 million American adults were in face recognition networks used by law enforcement as of 2018",
+      "start": 27714,
+      "end": 27860
+    },
+    {
+      "fact": "MIT Media Lab 的非裔美国学生 Joy Buolamwini 在做人脸识别研究时发现自己的脸不如白人同事被准确识别，原因是训练数据严重偏向白人男性。",
+      "anchor": "Joy Buolamwini, an African American student at MIT Media Lab was working on facial recognition problems",
+      "start": 28050,
+      "end": 28153
+    }
+  ]
+}

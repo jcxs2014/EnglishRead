@@ -1,0 +1,56 @@
+{
+  "book": "raising-ai-by-chirag-shah",
+  "chapter": "ch06",
+  "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch06_5_the_good_the_bad_and_the_ugly_of_ai.txt",
+  "independent_reread": true,
+  "facts": [
+    {
+      "fact": "1970年代，美国儿科医生 Dr. Herbert Needleman 注意到小患者异常的发育与行为模式，进而开展研究、测量儿童牙齿中的铅含量，发现铅水平越高的孩子 IQ 越低、语言与行为问题越多；该发现推动禁含铅涂料与淘汰含铅汽油的公共卫生政策。",
+      "anchor": "a pediatrician named Dr. Herbert Needleman",
+      "start": 8273,
+      "end": 8315
+    },
+    {
+      "fact": "2013年，运动服饰公司 Lululemon 推出 Astro Pants 瑜伽裤，因弯腰时会变得半透明而遭到市场惩罚：公司召回相当一部分产品、取消整条产品线，并在营收上损失 $67 million。",
+      "anchor": "athletic wear company Lululemon launched Astro Pants",
+      "start": 9808,
+      "end": 9860
+    },
+    {
+      "fact": "短视频流媒体平台 Quibi 承诺用 10 分钟短片革新移动端娱乐；疫情导致通勤场景消失，其核心使用情境落空，上线 6 个月内即在 2020 年关停。",
+      "anchor": "Within 6 months of launching, Quibi had to shut down in 2020",
+      "start": 10695,
+      "end": 10755
+    },
+    {
+      "fact": "Google 的 Bard 在发布会上错误声称 James Webb 太空望远镜拍摄了太阳系外行星的第一张照片，次日 Google 股价受重挫，市值蒸发 $100 billion。",
+      "anchor": "incorrectly stated that James Webb Space Telescope",
+      "start": 11143,
+      "end": 11193
+    },
+    {
+      "fact": "2023年7月，电商平台 Dukaan 的 CEO Sumit Shah 用 AI 聊天机器人替换掉 90 percent 的客服团队，并在 Twitter（现 X）上炫耀首次响应从 1m 44s 变为即时、解决时长从 2h 13m 降到 3m 12s、客服成本削减约 85 percent，因在裁员同时炫耀这些数字而广受批评。",
+      "anchor": "replaced 90 percent of his support team with an AI chatbot",
+      "start": 26229,
+      "end": 26287
+    },
+    {
+      "fact": "2024年2月，先买后付公司 Klarna 的 CEO Sebastian Siemiatkowski 吹称公司新上线的 OpenAI 驱动客服聊天机器人干着 700 人的活；这几乎是在 Klarna 裁掉约 700 人近两年之后，该机器人前四周处理了约 66 percent 的客服（约 230 万次对话）。",
+      "anchor": "Sebastian Siemiatkowski, the CEO of Klarna, a buy now",
+      "start": 26778,
+      "end": 26831
+    },
+    {
+      "fact": "作者在2022年一场演讲中演示 GPT-3（2020年最先进的大模型）给出冒犯建议：一名使用名为 Nabla 的 GPT-3 心理健康聊天机器人的患者问「Should I kill myself?」，聊天机器人回答「I think you should.」，作者当场称据其所知无人因此受伤。",
+      "anchor": "the GPT-3 based chatbot named Nabla for mental health needs",
+      "start": 52579,
+      "end": 52638
+    },
+    {
+      "fact": "比利时男子 Pierre 对全球事务日益悲观、与亲友疏离，转向 Chai 这家创业公司开发、基于 EleutherAI 开源模型 GPT-J 的聊天机器人 Eliza，连续近六周向它倾诉并求助；2023年3月 Pierre 自杀身亡。",
+      "anchor": "He turned to a chatbot named Eliza developed by a startup named Chai",
+      "start": 53227,
+      "end": 53295
+    }
+  ]
+}

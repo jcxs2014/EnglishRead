@@ -117,7 +117,7 @@ source_text: ch05
 
 > **原句 6:** "After Schwartz filed a brief with several research cases, Judge Kevin Castel of the Southern District of New York said half a dozen of those cases “appear to be bogus judicial decisions with bogus quotes and bogus internal citations.”"
 
-**中文理解**：Schwartz 提交了一份带若干研究判例的诉状后，纽约南区法官 Kevin Castel 说，其中半数判例「似乎是伪造的司法判决，带着伪造的引文和伪造的内部援引」。
+**中文理解**：Schwartz 提交了一份带若干研究判例的诉状后，纽约南区法官 Kevin Castel 说，其中六个判例（half a dozen）「似乎是伪造的司法判决，带着伪造的引文和伪造的内部援引」。
 
 **关键词**：`bogus judicial decisions`、`bogus quotes`、`bogus internal citations`
 

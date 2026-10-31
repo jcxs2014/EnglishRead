@@ -1,0 +1,56 @@
+{
+  "book": "raising-ai-by-chirag-shah",
+  "chapter": "ch01",
+  "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch01_prologue.txt",
+  "independent_reread": true,
+  "facts": [
+    {
+      "fact": "『我』（作者 Chirag Shah）走进考场参加本科 AI 课的期末考：虽然那门课当时并没有教神经网络，他仍决定用神经网络来做期末项目——一个带多层 Perceptron、跑反向传播算法的简单前馈网络，做模式分类任务。",
+      "anchor": "I had decided to do my final project using neural networks.",
+      "start": 324,
+      "end": 383
+    },
+    {
+      "fact": "当时他在印度古吉拉特邦小城 Nadiad 的大学里无法上网，只能从学校小图书馆里的书自学神经网络，把这当作挑战和爱好；他自评做出来的东西按今天的标准不算惊人，但对大三学生已相当令人满意。",
+      "anchor": "I had no access to the internet at my college in India",
+      "start": 604,
+      "end": 658
+    },
+    {
+      "fact": "室友（也在同一个项目/同一计划中）批评『我』：为什么不做一个正常的东西，比如搭一个基于规则的系统；室友也知道『我』力不从心（in over my head）。",
+      "anchor": "my roommate, also in the same program, criticized.",
+      "start": 1188,
+      "end": 1238
+    },
+    {
+      "fact": "『我』此前从未挂过科，担心这门最喜欢的课的期末项目若在大三挂科将是毁灭性的，还会影响大四找好实习；他把目标放在孟买的印度理工学院（IIT Bombay），在那里可以做更多疯狂的 AI 项目。",
+      "anchor": "I had my eye on Indian Institute of Technology (IIT) in Bombay",
+      "start": 1487,
+      "end": 1549
+    },
+    {
+      "fact": "作者回顾神经网络史：McCulloch 与 Pitts 最早从生物大脑获得灵感并提出人工神经元，1943 年的 McCulloch–Pitts 模型至今仍被教授；直到 1957 年 Frank Rosenblatt 演示了他所称的 Perceptron，《纽约时报》以「New Navy Device Learns by Doing」为标题报道，Rosenblatt 展示单个 Perceptron 经足够训练数据可分类三角形在卡片左侧还是右侧。",
+      "anchor": "Even today we teach the 1943 McCulloch–Pitts model of a neuron.",
+      "start": 2630,
+      "end": 2693
+    },
+    {
+      "fact": "校外考官（external examiner）在『我』展示完期末项目后提问：『你觉得这个网络是怎么学习的？』；『我』回答网络用反向传播算法调整层间连接的权重以降低预测误差，并以 Sir 称呼考官（印度学生总用 sir/madam 称呼老师，这一习惯根深蒂固，到美国当新生后花了很多时间精力才改掉）。",
+      "anchor": "“How do you think this network learns?,” the examiner asked",
+      "start": 3692,
+      "end": 3751
+    },
+    {
+      "fact": "考官最后问『你觉得这是人类学习的方式吗』，『我』冷汗直流、答不上来——在之前的 20 年人生里他有 18 年没说过英语：他从小用古吉拉特语（Gujarati）说话和上学，也能流利说印地语（Hindi），直到大学一年级才开始应对英语，且读写只限于计算机科学与工程专业词汇。",
+      "anchor": "Eighteen out of my 20 years of life until then, I hadn’t spoken English.",
+      "start": 4605,
+      "end": 4677
+    },
+    {
+      "fact": "『我』说出『我不知道，sir』后，考官回答『That’s ok, nobody does!』，『我』在这位严肃考官脸上看到微笑，世界没有像他担心的那样崩塌——他通过了考试。",
+      "anchor": "The world didn’t end for me as I had feared. I passed.",
+      "start": 5703,
+      "end": 5757
+    }
+  ]
+}

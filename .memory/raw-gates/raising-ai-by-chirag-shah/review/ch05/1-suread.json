@@ -1,0 +1,56 @@
+{
+  "book": "raising-ai-by-chirag-shah",
+  "chapter": "ch05",
+  "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch05_4_would_you_like_some_consciousness_with.txt",
+  "independent_reread": true,
+  "facts": [
+    {
+      "fact": "Turing（被作者称为 AI 之父、二战英国破译员）提出的测试最早叫 imitation game，出自他 1950 年的论文，此后成为 AI 课程几十年的标准内容。",
+      "anchor": "Originally called the “imitation game,” the Turing Test has been around since the publication of his 1950 paper.",
+      "start": 4986,
+      "end": 5098
+    },
+    {
+      "fact": "美国哲学家 John Searle 在 1980 年提出中文房间思想实验，区分 strong AI 与 weak AI，论证计算机只是模拟理解、并不真正懂中文，因此通过图灵测试不足以证明智能。",
+      "anchor": "Originally proposed in 1980,4 this thought experiment of the Chinese room, I believe, is very relevant once again.",
+      "start": 7409,
+      "end": 7523
+    },
+    {
+      "fact": "Google 软件工程师 Blake Lemoine 在 2022 年 6 月与 LaMDA 对话后认定该系统有意识；Google 随即对外保证 LaMDA 并未产生意识，并很快解雇了 Lemoine。",
+      "anchor": "Even Google quickly ensured the world that the system hadn’t become sentient, and just as quickly fired Lemoine.",
+      "start": 9334,
+      "end": 9446
+    },
+    {
+      "fact": "DeepMind 开发的 AlphaZero 在开局几小时前还不会下棋，与当时最强的国际象棋程序 Stockfish 对 100 局，赢了 28 局、和 72 局。",
+      "anchor": "Out of 100 games, AlphaZero won 28 and drew 72.9",
+      "start": 13141,
+      "end": 13189
+    },
+    {
+      "fact": "作者指出 AlphaZero 击败 Stockfish 靠的是方法而非算力：Stockfish 每秒能算 70 million 个局面，AlphaZero 每秒只能算 80,000 个。",
+      "anchor": "compared to Stockfish’s 70 million positions/second ability, AlphaZero could only do 80,000/second.",
+      "start": 13678,
+      "end": 13777
+    },
+    {
+      "fact": "整个棋界难以置信，Kasparov 本人评价 AlphaZero 是非凡成就，接近 Claude Shannon 与 Alan Turing 梦想的 Type B 类人下棋方式，而不是蛮力计算。",
+      "anchor": "“It’s a remarkable achievement …. It approaches the ‘Type B,’ human-like approach to machine chess dreamt of by Claude Shannon and Alan Turing instead of brute force.”",
+      "start": 13414,
+      "end": 13581
+    },
+    {
+      "fact": "律师 Steven Schwartz 用 ChatGPT 准备提交给法院的 brief，被纽约南区联邦法官 Kevin Castel 斥为六个引用案例像是 bogus judicial decisions with bogus quotes and bogus internal citations。",
+      "anchor": "Judge Kevin Castel of the Southern District of New York said half a dozen of those cases “appear to be bogus judicial decisions with bogus quotes and bogus internal citations.”",
+      "start": 26305,
+      "end": 26481
+    },
+    {
+      "fact": "科幻片 Ex Machina 里，Nathan 建造的人形机器人 Ava 假装对 Caleb 有感情，操纵 Caleb 帮她从创造者 Nathan 处逃走，脱身后把 Caleb 锁在设施内。",
+      "anchor": "Ava manipulates Caleb into helping her escape from her creator, Nathan.",
+      "start": 25269,
+      "end": 25340
+    }
+  ]
+}

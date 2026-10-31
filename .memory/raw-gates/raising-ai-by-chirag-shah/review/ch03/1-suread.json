@@ -1,0 +1,56 @@
+{
+  "book": "raising-ai-by-chirag-shah",
+  "chapter": "ch03",
+  "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch03_2_dreaming_of_ai.txt",
+  "independent_reread": true,
+  "facts": [
+    {
+      "fact": "电影《I, Robot》中由 James Cromwell 饰演的 Dr. Alfred Lanning（全球最大机器人公司首席科学家）谈论 AI 代码里的“幽灵”；作者因此想起 Shelly 提及的“AI 系统里有幽灵”那句话，并抄下 Lanning 的完整台词。",
+      "anchor": "Dr. Alfred Lanning, played by James Cromwell, is the Chief Scientist at the world’s largest robotics company",
+      "start": 211,
+      "end": 319
+    },
+    {
+      "fact": "HAL 出自 Stanley Kubrick 的科幻电影《2001: A Space Odyssey》：电影 1968 年上映、早于人类登月；其改编原著成书于 1951 年，早于任何人类进入太空。",
+      "anchor": "The movie came out in 1968, even before we landed on the moon",
+      "start": 2816,
+      "end": 2877
+    },
+    {
+      "fact": "2001 年 5 月，作者作为印度学生（就读于 IIT Madras）第一次访问美国，带海报参加在 Salt Lake City 举行的国际声学与信号处理会议 ICASP。",
+      "anchor": "May 2001 marks a significant milestone in my life as it was the first time I visited the United States",
+      "start": 13165,
+      "end": 13267
+    },
+    {
+      "fact": "在 ICASP 会议上，作者印象最深的是主题演讲，标题为“It is 2001: Where is HAL?”，内容对照电影《2001》设想的技术与真实 2001 年的进展。",
+      "anchor": "It was aptly titled “It is 2001: Where is HAL?”.",
+      "start": 14890,
+      "end": 14938
+    },
+    {
+      "fact": "2004 年夏天（即电影《I, Robot》上映同年），作者在加州 Mountain View 的 Honda Research Institute（HRI）实习，从事人形机器人 ASIMO 的底层 AI 工作，用强化学习让 ASIMO 现场学习并动态规划家务，由此获得作者的第一项专利。",
+      "anchor": "I interned at Honda Research Institute (HRI) in Mountain View, California",
+      "start": 19523,
+      "end": 19596
+    },
+    {
+      "fact": "Kubrick 的杀人 AI HAL 的灵感来自 Irving John “Jack” Good——Alan Turing 二战期间破译密码团队的成员之一；Good 预言了“超智能机器”的兴起，Kubrick 请他出谋划策。",
+      "anchor": "Kubrick drew inspiration for his unforgettable and eventually homicidal AI from Irving John “Jack” Good, one of Alan Turing’s crew of Second World War codebreakers",
+      "start": 10756,
+      "end": 10919
+    },
+    {
+      "fact": "HAL 关机时唱《Daisy Bell》的镜头有真实出处：这首歌由 Harry Dacre 作于 1892 年，而 1961 年一台 IBM 7094 因演唱《Daisy Bell》成为第一台会唱歌的计算机。",
+      "anchor": "But its significance to AI comes from 1961, when an IBM 7094 became the first computer to sing by performing",
+      "start": 11351,
+      "end": 11459
+    },
+    {
+      "fact": "Isaac Asimov 拒绝反乌托邦 AI 叙事，在小说《I, Robot》中通过机器人心理学家 Dr. Susan Calvin 展现机器人与人共处的愿景；为让机器人无害且与人类和谐相处，Asimov 提出了机器人三定律。",
+      "anchor": "Asimov came up with the Three Laws of Robotics for that.",
+      "start": 28794,
+      "end": 28850
+    }
+  ]
+}

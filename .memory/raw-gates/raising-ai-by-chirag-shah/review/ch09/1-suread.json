@@ -1,0 +1,56 @@
+{
+  "book": "raising-ai-by-chirag-shah",
+  "chapter": "ch09",
+  "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch09_epilogue_the_game_we_choose_to_play.txt",
+  "independent_reread": true,
+  "facts": [
+    {
+      "fact": "2026年1月的一个早晨，作者坐在西雅图郊区Kenmore的桌前看日出，脑海中回响着1983年电影《WarGames》里那句“唯一的制胜招法是不玩”。",
+      "anchor": "That line from the 1983 movie WarGames echoed in my head as I sat at my desk in Kenmore",
+      "start": 80,
+      "end": 167
+    },
+    {
+      "fact": "在《WarGames》中，军方超级计算机WOPR跑了无数模拟后得出结论：核冲突没有赢家，唯一的制胜招法是不玩。",
+      "anchor": "The computer, WOPR, runs countless simulations and arrives at a profound conclusion",
+      "start": 470,
+      "end": 553
+    },
+    {
+      "fact": "作者在Denis Villeneuve 2016年的电影《Arrival》里找到更好的隐喻：十二艘外星飞船降临地球，各国因恐惧而濒临灾难性冲突。",
+      "anchor": "Denis Villeneuve’s 2016 masterpiece Arrival. In that story, twelve alien spacecraft descend upon Earth",
+      "start": 1027,
+      "end": 1129
+    },
+    {
+      "fact": "语言学家Louise Banks不把外星人当敌人，她学会了它们超越线性时间的圆形文字，发现外星人不是来征服而是来赠礼，它们与人类互相需要。",
+      "anchor": "She learns their language, a circular script that transcends linear time",
+      "start": 1530,
+      "end": 1602
+    },
+    {
+      "fact": "作者列举自己三十年经历：在印度读本科时搭建神经网络、在加州做人形机器人、发现推荐系统中的偏见幽灵、在世界各地教学和为政策制定者提供建议，得出“我们不是与AI作战，而是在养育它”。",
+      "anchor": "after building neural networks as an undergraduate in India, after working on humanoid robots in California",
+      "start": 2831,
+      "end": 2938
+    },
+    {
+      "fact": "作者回忆在印度Nadiad一所工程学院读大三时的口试：他用过时图书馆书籍、没有互联网指导搭出了远超课程的神经网络；考官问他网络是否像人一样学习，他答不上来，考官却说“没关系，没人知道”。",
+      "anchor": "I think back to that oral exam in my junior year at a small engineering college in Nadiad, India",
+      "start": 3256,
+      "end": 3352
+    },
+    {
+      "fact": "作者将近三年（nearly three decades）研究、教学和建设的经历与那个瞬间连起来：当年以为无知是暂时的，如今承认仍没有关于学习、意识与智能的确切答案。",
+      "anchor": "I have carried that moment with me through nearly three decades of research, teaching, and building",
+      "start": 3675,
+      "end": 3774
+    },
+    {
+      "fact": "作者在书中提出的三种 ethos（Conformity、Consultation、Collaboration）对应养育孩子的阶段：对幼儿立严格边界（顺从）、对青少年逐步放权（协商）、在AI接近通用智能时走向真正的协作伙伴关系。",
+      "anchor": "The three ethos I proposed in this book—Conformity, Consultation, and Collaboration—map onto the stages of parenting",
+      "start": 8171,
+      "end": 8287
+    }
+  ]
+}

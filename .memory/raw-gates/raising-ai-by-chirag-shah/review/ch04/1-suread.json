@@ -1,0 +1,56 @@
+{
+  "book": "raising-ai-by-chirag-shah",
+  "chapter": "ch04",
+  "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch04_3_waves_and_winters_of_ai.txt",
+  "independent_reread": true,
+  "facts": [
+    {
+      "fact": "2002年，作者在 IIT Bombay 的实验室与导师 Prof. Pushpak Bhattacharyya（PB Sir）就机器翻译路线大吵一架后夺门而出，第一次对整个 AI 产生怀疑。",
+      "anchor": "The year was 2002 and for the first time, I was having my doubts about this whole AI thing",
+      "start": 724,
+      "end": 814
+    },
+    {
+      "fact": "作者本科时在古吉拉特一所公立大学搭建两台电脑直连的聊天 agent 网络，被系主任（HOD）当场拆掉项目并罚款 Rs. 500；作者靠到电脑商店打几个月工才赔清这笔罚款。",
+      "anchor": "So he fined me Rs. 500. Back then, this much money could pay one month’s rent",
+      "start": 6410,
+      "end": 6487
+    },
+    {
+      "fact": "联合国大学（UNU）委托创建了 UNL（Universal Networking Language）中间语言，作者据此与 Prof. PB 开展机器翻译项目；到 2005 年承诺的落地期限过去，没有一套 enconverter–deconverter 真正工作起来。",
+      "anchor": "they commissioned the creation of UNL or Universal Networking Language",
+      "start": 7504,
+      "end": 7574
+    },
+    {
+      "fact": "ALPAC（Automatic Language Processing Advisory Committee）由美国政府于 1964 年设立，评估计算语言学与机器翻译进展，其 1966 年最终报告认定机器翻译比人工翻译更贵、更不准、更慢，成为第一次 AI 冬天的推手之一。",
+      "anchor": "ALPAC (Automatic Language Processing Advisory Committee) was set up by the US government in 1964",
+      "start": 28834,
+      "end": 28930
+    },
+    {
+      "fact": "Edward Feigenbaum 与 Bruce Buchanan 于 1965 年在斯坦福创建了 DENDRAL 系统，让它像专家化学家一样分析化合物，是最早的专家系统之一。",
+      "anchor": "In 1965 they created a system at Stanford called DENDRAL",
+      "start": 30483,
+      "end": 30539
+    },
+    {
+      "fact": "日本通产省（MITI）1982 年发起第五代计算机项目 FGCS，该项目在 1992 年到达十年节点后被放弃，被一些人视为超前、被另一些人视为无法商业化。",
+      "anchor": "(FGCS) that Japan’s MITI had launched in 1982, reached its ten-year mark in 1992 and then abandoned",
+      "start": 42597,
+      "end": 42696
+    },
+    {
+      "fact": "1997 年，IBM 的 Deep Blue 超级计算机在国际象棋中击败世界冠军 Garry Kasparov，引发轰动。",
+      "anchor": "IBM’s Deep Blue supercomputer beat world champion Garry Kasparov in chess",
+      "start": 43506,
+      "end": 43579
+    },
+    {
+      "fact": "1984 年，Marvin Minsky 与 Roger Schank 首次提出「AI Winter」概念，警告 1980 年代对 AI 的热情失控将导致悲观、撤资与严肃研究终结的连锁反应；三年后 AI 行业几乎按他们描述的方式崩塌。",
+      "anchor": "In 1984, Marvin Minsky and Roger Schank first talked about",
+      "start": 60183,
+      "end": 60241
+    }
+  ]
+}

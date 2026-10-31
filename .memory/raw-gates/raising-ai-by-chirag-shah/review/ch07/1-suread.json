@@ -1,0 +1,56 @@
+{
+  "book": "raising-ai-by-chirag-shah",
+  "chapter": "ch07",
+  "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch07_6_how_to_do_this_better.txt",
+  "independent_reread": true,
+  "facts": [
+    {
+      "fact": "2022 年 3 月，作者乘飞机去赫尔辛基担任博士论文答辩的反对评审人，途中因气流颠簸断网，错过了他在在线会议上与 Emily M. Bender 合著论文的大部分问答环节；这篇写于 2021 年、经同行评审发表的论文详细批评了基于 LLM 的搜索思路（针对 Google 的 LaMDA 与 MUM）。",
+      "anchor": "It was March of 2022 and while the worries for COVID were not",
+      "start": 1061,
+      "end": 1122
+    },
+    {
+      "fact": "作者与 Google 的分歧：Google 在会议及论文发表后的反驳分为两类——Google 方的否认与指责作者过度反应；三个月后（2022 年 6 月），Google 工程师 Blake Lemoine 宣称 LaMDA 有了意识，印证了作者对『连内部工程师都会被误导』的判断。",
+      "anchor": "The story of Google engineer Blake Lemoine claiming that LaMDA had become sentient",
+      "start": 6347,
+      "end": 6429
+    },
+    {
+      "fact": "2015 年，华盛顿大学研究者证明在 Google 图片搜索搜『CEO』照片时女性严重代表性不足：当年美国 27% 的 CEO 是女性，但搜索结果中只有 11% 的图像是女性。",
+      "anchor": "In 2015, researchers at University of Washington showed",
+      "start": 7392,
+      "end": 7447
+    },
+    {
+      "fact": "2021 年前后，作者与博士后 Yunhe Fang 复测 CEO 图片搜索：表面上结果多样了，但搜『CEO United States』『CEO UK』仍多为白人男性、偏离 BLS 数据；他们提出用多样性扰动算法把前 20 结果拉近 BLS 性别分布，且不损失相关性，发表论文并免费放出代码，但 Google、Baidu、Naver、Yandex 均未采纳。",
+      "anchor": "Sometime in 2021, my postdoc Yunhe Fang and I decided to revisit this issue",
+      "start": 8043,
+      "end": 8118
+    },
+    {
+      "fact": "2023 年 4 月，亚利桑那州母亲 Jennifer DeStefano 接到勒索电话，对方用 AI 生成的女儿哭声索价 100 万美元，她谈到 5 万美元；随后家人核实女儿其实安全——那是 AI 仿声。",
+      "anchor": "In April of 2023, an Arizona mother Jennifer DeStefano got a call from an unfamiliar number",
+      "start": 26206,
+      "end": 26297
+    },
+    {
+      "fact": "作者用产品监管作对照：1992 年 2 月 27 日，79 岁的 Stella Liebeck 从麦当劳买热咖啡洒在腿上造成三度烧伤、住院八天；McDonald's 拒绝赔 2 万美元后被诉，陪审团判给她 16 万美元补偿性损害赔偿和 270 万美元惩罚性赔偿——而软件业没有类似产品那样的严格测试、审批与追责惯例。",
+      "anchor": "On February 27, 1992, a 79-year-old woman named Stella Liebeck purchased hot coffee",
+      "start": 31074,
+      "end": 31157
+    },
+    {
+      "fact": "在 AI 立法上，作者认为迄今规模最大的成就是欧盟 AI 法案（European Union's AI Act），2024 年 3 月通过；澳大利亚也推行了 AI 监管，而作者 2023 年访问澳洲时了解到其动因是中小科技公司需要对抗外国大厂的庇护；美中两国缺席，因为把 AI 优势视为国家安全与增长引擎。",
+      "anchor": "the European Union’s AI Act, enacted in March 2024",
+      "start": 37035,
+      "end": 37085
+    },
+    {
+      "fact": "2020 年末疫情期间，作者与两位同事在华盛顿大学创办负责任 AI 中心 RAISE（Zoom 通话中与 Bill Howe、Tanu Mitra 头脑风暴时想到名字）；约一年后 Emily M. Bender 推动把 Responsible 改为 Responsibility in， acronym 不变但含义落到『每个人都要负责』。",
+      "anchor": "I founded a new center on responsible AI with two of my colleagues at University of Washington",
+      "start": 47350,
+      "end": 47444
+    }
+  ]
+}

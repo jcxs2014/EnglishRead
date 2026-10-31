@@ -53,9 +53,9 @@ source_text: ch01
 
 ## 选择性精读
 
-> **原句 1:** "The exam room felt smaller than usual as I walked toward the examiner’s desk, my footsteps echoing in the silence. I could tell my heartbeats were up and the level of anxiety hitting high. It was the final exam for my undergraduate AI class"
+> **原句 1:** "The exam room felt smaller than usual as I walked toward the examiner’s desk, my footsteps echoing in the silence. I could tell my heartbeats were up and the level of anxiety hitting high. It was the final exam for my undergraduate AI class and while we were not taught neural networks in that class at the time, I had decided to do my final project using neural networks."
 
-**中文理解**：他走向考官桌子时觉得教室比平时更小，脚步声在寂静里回响；他能感觉到心跳加快、焦虑升到高点——这是本科 AI 课的最后一次考试。
+**中文理解**：他走向考官桌子时觉得教室比平时更小，脚步声在寂静里回响；他能感觉到心跳加快、焦虑升到高点——这是本科 AI 课的最后一次考试。那门课当时并不教神经网络，期末项目却是他决定用神经网络来做的。
 
 **关键词**：`exam room`、`heartbeats`、`anxiety`、`footsteps echoing`
 
