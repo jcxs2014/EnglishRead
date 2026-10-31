@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch36",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch36_chapter_thirty_six_tilde.txt",
+ "facts": [
+  {
+   "fact": "Tilde 走向宴会厅之前当众吻了 Elise，明知近卫手按剑柄、Nefka 目露警告，仍把这一触当作临死前的私藏。",
+   "anchor": "the warning in Nefka’s gaze",
+   "start": 816,
+   "end": 843
+  },
+  {
+   "fact": "Odon 的话被她读成暗示：他不会指认任何一位王子，也劝她别指认——真正怂恿 Isen 的是 Conrin，兽潮前他还做过手势。",
+   "anchor": "another hint to me",
+   "start": 2429,
+   "end": 2447
+  },
+  {
+   "fact": "Liran 当庭点出她这个 Merogian 女人最先示警，随后又提起城中 Kanaan 猪与看猪人一家失踪，把儿子的死往巫术上引。",
+   "anchor": "It is the strangest thing, Queen Tuathilde",
+   "start": 5733,
+   "end": 5775
+  },
+  {
+   "fact": "她辩称 Merogian 人徒步狩猎，凭脚底而不是眼睛感知地面，所以在马上的诸王子之前察觉兽潮。",
+   "anchor": "I felt the tremor",
+   "start": 7154,
+   "end": 7171
+  },
+  {
+   "fact": "Dagobert 当众把她的兄姐称作「恶人 Colfinn，娼妇 Ebba」，用 Isen 曾处死他们一事把这场审判引向复仇说。",
+   "anchor": "Colfinn the wicked, Ebba the whore",
+   "start": 10344,
+   "end": 10378
+  },
+  {
+   "fact": "Merovin 提出 blooding 验法：她身上无伤本可自证未用 Ways，但她看出这是圈套——他们会带她下去割开，造出伤口再烧死她。",
+   "anchor": "it could be proven that I had not used the Ways",
+   "start": 14633,
+   "end": 14680
+  },
+  {
+   "fact": "Elise 站出来作证：王后曾劝 Isen 不要进峡谷，且提出陪她去见父亲，行为与有罪不符。",
+   "anchor": "She stood, and she stood for me",
+   "start": 16055,
+   "end": 16086
+  },
+  {
+   "fact": "Conrin 见势反口指认 Gundobar 怂恿过 Isen，Liran 当庭举剑把他钉穿在石地上，Gundobar 的叫声随之消失。",
+   "anchor": "He needed a new scapegoat",
+   "start": 23707,
+   "end": 23732
+  }
+ ]
+}

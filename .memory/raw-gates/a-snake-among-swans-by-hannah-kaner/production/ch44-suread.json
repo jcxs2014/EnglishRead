@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch44",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch44_chapter_forty_four_tilde.txt",
+ "facts": [
+  {
+   "fact": "她端酒去见国王，带一盏东方式油灯，冒着浓烟",
+   "anchor": "an oil lantern of the eastern sort",
+   "start": 157,
+   "end": 191
+  },
+  {
+   "fact": "她穿的是本该用于婚礼的 Isabella 的婚袍",
+   "anchor": "Isabella’s dress",
+   "start": 271,
+   "end": 287
+  },
+  {
+   "fact": "她说自己终于怀上了天鹅王的孩子",
+   "anchor": "pregnant with a child of the swan",
+   "start": 6037,
+   "end": 6070
+  },
+  {
+   "fact": "他承认毒死前一位王后，理由是她没用了",
+   "anchor": "We could not sail a sinking ship",
+   "start": 10737,
+   "end": 10769
+  },
+  {
+   "fact": "荣光不在酒里，在烟里——她的血混进香，他必须听她的声音",
+   "anchor": "it was in the smoke",
+   "start": 11751,
+   "end": 11770
+  },
+  {
+   "fact": "她收手不让他亲，那是打过她、掐青她、强迫过她的手",
+   "anchor": "one he had struck me with",
+   "start": 11438,
+   "end": 11463
+  },
+  {
+   "fact": "章末她试着不去想 Elise",
+   "anchor": "I tried not to think of Elise",
+   "start": 12743,
+   "end": 12772
+  },
+  {
+   "fact": "她说总有一天要讲自己怎样让天鹅自己拔掉羽毛",
+   "anchor": "pluck out their own feathers",
+   "start": 12652,
+   "end": 12680
+  }
+ ]
+}
