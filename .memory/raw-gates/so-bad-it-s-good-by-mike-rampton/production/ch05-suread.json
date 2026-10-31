@@ -1,0 +1,61 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch05",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch05_animal_jokes_so_bad_they_re_beastly.txt",
+ "facts": [
+  {
+   "fact": "给奶牛起名那一条把“需要名字”理解成“需要一个叫 Name 的东西”，笑点在名字与普通名词之间",
+   "anchor": "‘We need a name for this cow.’ ‘Annabel?’ ‘No, just a name.’",
+   "start": 86,
+   "end": 146
+  },
+  {
+   "fact": "翼龙上厕所没声音，因为 P 不发音：把拼写规则当生理事实",
+   "anchor": "Why can’t you hear a pterodactyl go to the bathroom? Because the ‘P’ is silent.",
+   "start": 650,
+   "end": 729
+  },
+  {
+   "fact": "水牛与野牛的区别：bison 听起来像 basin（洗手盆），所以“不能在 buffalo 里洗手”",
+   "anchor": "What’s the difference between a buffalo and a bison? You can’t wash your hands in a buffalo.",
+   "start": 734,
+   "end": 826
+  },
+  {
+   "fact": "乌龟被两只蜗牛抢劫后说“一切都发生得太快”，速度对照构成笑点",
+   "anchor": "A tortoise is crossing the road when he’s mugged by two snails.",
+   "start": 831,
+   "end": 894
+  },
+  {
+   "fact": "两条鱼在“tank”里：tank 兼指鱼缸与坦克，鱼把鱼缸当坦克开",
+   "anchor": "Two fish are in a tank. One says, ‘How do you drive this thing?’",
+   "start": 1178,
+   "end": 1242
+  },
+  {
+   "fact": "猫吃了毛线球后“有了手套”：kittens 与 mittens 谐音，猫生出小猫被说成戴手套",
+   "anchor": "What happened to the cat who ate a ball of wool? She had mittens.",
+   "start": 1248,
+   "end": 1313
+  },
+  {
+   "fact": "豹子不擅长捉迷藏：spotted 兼指“有斑点”和“被发现”",
+   "anchor": "Why are leopards so bad at hide and seek? They’re always spotted.",
+   "start": 1892,
+   "end": 1957
+  },
+  {
+   "fact": "逗章鱼发笑要用十根“tickles”：tentacles（触手）与 ten tickles 谐音",
+   "anchor": "How do you make an octopus laugh? With ten tickles.",
+   "start": 3013,
+   "end": 3064
+  },
+  {
+   "fact": "狗不会操作 MRI，猫却会“catscan”：把 CAT scan（CT 扫描）拆成 cat + scan",
+   "anchor": "Dogs can’t operate MRI machines, but catscan.",
+   "start": 2814,
+   "end": 2859
+  }
+ ]
+}
