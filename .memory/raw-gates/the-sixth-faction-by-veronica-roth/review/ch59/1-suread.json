@@ -1,0 +1,82 @@
+{
+  "chapter": "ch59",
+  "pov": "第一人称（Four / Tobias 自述），过去时",
+  "facts": [
+    {
+      "event": "Tobias 删掉模拟数据后与 Caleb 都不动；他判断 Caleb 早已不需要他，而掩盖攻击模拟的任务不允许留下目击者。",
+      "who": "I",
+      "receivers": "the simulation data / Caleb",
+      "start": 40,
+      "end": 334,
+      "text": "In the moments after I delete the simulation data, neither Caleb nor I move. I brace myself for what comes next. Because it should have been obvious from the start: He doesn’t need me anymore, he actually never did, and if his job is to cover up the attack simulation, he can’t leave a witness."
+    },
+    {
+      "event": "Tobias 看穿 Jeanine Matthews 编的叙事：他是孤僻、反复钻恐惧模拟的 Dauntless 男孩，容易操纵模拟、也有攻击 Abnegation 的动机。",
+      "who": "Jeanine Matthews / I",
+      "receivers": "the narrative / me",
+      "start": 339,
+      "end": 560,
+      "text": "Jeanine Matthews is a storyteller. I can see, so clearly, the narrative she’s set up for what happened today. I’m the twisted\nDauntless boy who spends too much time alone, too much time going through his fear simulations."
+    },
+    {
+      "event": "Caleb 声音毫不游移地说「我不认识你」「我认识我父亲」，并说在完成任务与任务失败之间做选择非常容易。",
+      "who": "Caleb",
+      "receivers": "me (Tobias) / my father",
+      "start": 1123,
+      "end": 1301,
+      "text": "“I don’t know you,” Caleb says, his voice unwavering. “I do know my father. It’s unfortunate, but the choice between me accomplishing my mission or me failing it is very simple.”"
+    },
+    {
+      "event": "Tris 在模拟中双臂抱头、张嘴无声尖叫，随后跪倒蜷成一团；Tobias 一度担心自己对她的信心放错了地方。",
+      "who": "Tris",
+      "receivers": "her knees / the fear simulation",
+      "start": 1725,
+      "end": 1953,
+      "text": "Tris falls to her knees, curled up into a tight ball. I worry for just a moment that my faith in her is misplaced. Maybe she’s been through too much, today, to get through this fear simulation as quickly as she did the last one."
+    },
+    {
+      "event": "Tris 的身体像花一样展开，她跪坐着仰头朝天，肌肉放松，先前扭曲她脸的恐惧全都不见了。",
+      "who": "she (Tris)",
+      "receivers": "the sky / her face",
+      "start": 2084,
+      "end": 2292,
+      "text": "And then, just like that, her body unfurls like a flower, blooming. She sits on her heels, and tips her head back to the sky.\nI watch her muscles relax, all the horror that twisted her face a moment ago gone."
+    },
+    {
+      "event": "Tobias 反驳 Caleb：把人当作一个人而不是需要保全的珍贵物品来看，这件事永远重要。",
+      "who": "I",
+      "receivers": "Caleb / someone",
+      "start": 2352,
+      "end": 2495,
+      "text": "“That’s where you’re wrong,” I say. “It always matters, looking at someone as a person instead of a precious object that you need to preserve.”"
+    },
+    {
+      "event": "Tris 猛地扑向她先前放在地上的枪，双手举枪指向 Caleb；Tobias 起身要闪开，但 Caleb 比他想的更快。",
+      "who": "Tris / I",
+      "receivers": "the gun / Caleb",
+      "start": 2500,
+      "end": 2735,
+      "text": "Then in one sudden, fast movement, Tris lunges for the gun she set down on the ground earlier and stands with it in both hands, pointing it at Caleb. I surge to my feet, about to dive out of the way, but Caleb is faster than I thought."
+    },
+    {
+      "event": "Tobias 放松下来，明白自己该做什么：让 Tris 更容易下手——她刚失去母亲，不该再失去任何家人。",
+      "who": "I",
+      "receivers": "her (Tris)",
+      "start": 3465,
+      "end": 3619,
+      "text": "I relax a little as I realize what I have to do. I have to make this easier for her. She just lost her mother. She shouldn’t have to lose any more family."
+    }
+  ],
+  "relations": [
+    "Caleb 是 Tris（Beatrice）的哥哥；他受命掩盖攻击模拟，为救父亲必须在任务与失败之间选择杀掉目击者 Tobias。",
+    "Tris 与 Tobias 是恋人称谓可证的亲密关系；Tobias 认定她认识哥哥更久，于是决定不抵抗、让她容易下手。",
+    "Caleb 一把将 Tobias 拽到身前当盾牌，枪始终抵着 Tobias 的头；Tris 完成恐惧模拟后夺枪指向 Caleb，使枪口的方向与抉择彻底反转。"
+  ],
+  "numbers": [
+    "one｜“no one’s supervising what I do here”（无人监督：人数为零）",
+    "one｜“Then in one sudden, fast movement”（一次连续、迅疾的动作）",
+    "both｜“stands with it in both hands”（双手握枪）",
+    "one｜“as quickly as she did the last one”（上一次模拟）",
+    "both｜“We’ll both help you.”（Tobias 与 Tris 两人）"
+  ]
+}
