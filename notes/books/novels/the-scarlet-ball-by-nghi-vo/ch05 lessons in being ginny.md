@@ -16,7 +16,7 @@ modified: "2026-10-31"
 > **原句 1:** "The dismissed servants were called one at a time to attend Mrs. Howard at her secretary in the parlor. There she paid out the remainder of their wages and removed from them the memories of their time in Howard House, which she threw neatly into the fire; they would be sent for again if it was appropriate, and she hoped that God would bless them in the time to come if it was right that he should do so."
 
 **中文理解**：被遣散的仆人一个个被叫到客厅，在夫人的写字台前领走余薪，他们在 Howard House 的记忆也被取走，被她整整齐齐地扔进火里；日后若合适还会再召他们回来，若上帝应当赐福，她希望上帝赐福他们往后的日子。
-**关键词**：paid out the remainder of their wages / threw neatly into the fire / if it was right that he should do so
+**关键词**：paid out the remainder of their wages / threw neatly into the fire / if it was right
 **为什么这样写**：恐怖走 HR 流程——结薪、离职、销档案一气呵成，"neatly"副词把抹除记忆写成办公习惯。随后的祝福语用最虔诚的口吻给暴行加冕：她连良心都做成了可裁撤的岗位。
 **读者视角提示**：记住"记忆可以入账、可以销毁"这条规则——后面 Tilly 输掉记忆上赌桌、Ginny 的目击情报满天飞，都是同一套经济学的不同账户。
 
@@ -72,7 +72,7 @@ modified: "2026-10-31"
 > **原句 9:** "Then Mrs. Howard took my arm, and she would never take a shopgirl’s arm or a courtesan’s either. I was safe behind a disguise that no amount of money could buy, safer than I had been in years. As Ginny Marshall, I was maybe safer than I had been my entire life, and a stunned laugh caught in my throat."
 
 **中文理解**：然后夫人挽住她的手臂——那种她绝不会给店员、也不会给交际花的挽法。她安全地躲在一个多少钱都买不到的伪装后面，比过去几年都安全。作为 Ginny Marshall，她也许比此生任何时候都安全，一声惊愕的笑卡在喉咙里。
-**关键词**：a shopgirl’s arm or a courtesan’s / a disguise that no amount of money could buy / a stunned laugh
+**关键词**：a shopgirl’s arm or a courtesan’s / no amount of money could buy / a stunned laugh
 **为什么这样写**：安全感的来源倒置——不是钱买来的，是"身份"租来的。stunned laugh 是全章的情绪铰链：她发现压顶的恐惧竟以庇护所的形状到来。
 **读者视角提示**：这是全书最危险的一课：阶级本身是防弹衣。往后每次她动"逃"的念头，都要先回答这一句——出去之后，谁来挽住你的手臂？
 
