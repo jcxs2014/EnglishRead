@@ -1,0 +1,49 @@
+{
+ "book": "red-ants-by-kimberly-blaeser",
+ "chapter": "ch16",
+ "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch16_like_some_old_story.txt",
+ "facts": [
+  {
+   "fact": "叙述者常与一位老人一起打猎：擦枪、磨刀、做三明治，天不亮就出发。",
+   "anchor": "We hunt this way together often now.",
+   "start": 933,
+   "end": 969
+  },
+  {
+   "fact": "老人打趣女儿们「打猎」只会从他的冰箱里取肉。",
+   "anchor": "I spose you gonna hunt just like my girls—out of my freezer.",
+   "start": 2203,
+   "end": 2263
+  },
+  {
+   "fact": "第二节：男孩们进屋时神色古怪、异常安静，默默烧水洗手、倒空口袋里的子弹壳和火柴。",
+   "anchor": "The boys came in looking kind of funny. Awfully quiet, too. No teasing. Just set themselves to cleaning up.",
+   "start": 2820,
+   "end": 2927
+  },
+  {
+   "fact": "男孩们惊动了坟地，遇到了传说中每四十年出现一次的「鹿身人灵」。",
+   "anchor": "It was that man-deer spirit that’s said to appear when them graves have been disturbed.",
+   "start": 3296,
+   "end": 3383
+  },
+  {
+   "fact": "第三节：女人们设局报复——骗丈夫们去「猎」混血女人 Sarah Goes Lightning，两棵树上挂的两头鹿也是她们所为。",
+   "anchor": "how they tricked their husbands into hunting for that half-blood woman Sarah Goes Lightning.",
+   "start": 6537,
+   "end": 6629
+  },
+  {
+   "fact": "老人举着一杆挂着鹿心的棍子，声称与巨兽搏斗才保住这颗心——其实他只是喂了只黄鼠狼。",
+   "anchor": "“Had to fight a great big animal to save this heart for youse girls.”",
+   "start": 7957,
+   "end": 8026
+  },
+  {
+   "fact": "结尾：清晨两人偷偷出门打猎，叙述者压低声音像念老故事的最后一行，等谁应一声「Aho」。",
+   "anchor": "“Going hunting,” I say, dropping my voice like it’s the last line in some old story—like someone is going to answer, Aho.",
+   "start": 10429,
+   "end": 10550
+  }
+ ]
+}
