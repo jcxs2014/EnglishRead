@@ -98,7 +98,19 @@ modified: "2026-10-31"
 
 **表达方式**：ornery cuss 是美式口语「倔老头」；talk the bark off a tree 是夸张的比喻，为 Waboose 的「话痨」立传。
 
-> **原句 8:** "“I’ll keep the girl and the book-boy with me,” he says when Mom takes my arm as if to bring me with her. “Lots of work here,” he says as he gestures to the small camp and the riverbank. Then he repeats the words—Lots of work here—as he places his fist over his heart."
+> **原句 8:** "But when Drew mentions the name Waboose, she freezes, her hands come up to cover her eyes as if she can hide from the name, and her Pollyanna smile deflates."
+
+**中文理解**：但当 Drew 提到 Waboose 这个名字时，她僵住了，双手抬起来捂住眼睛，仿佛想躲开这个名字，脸上乐天派的笑容瘪了下去。
+
+**关键词**：the name Waboose / she freezes / cover her eyes / Pollyanna smile deflates
+
+**为什么这样写**：这个名字让妈妈的「冒险滤镜」瞬间失效——她的反应先于任何解释，暗示她与 Waboose（乃至 Gil 生父的过去）有一段没讲过的历史；这是故事埋得最深的钩子。
+
+**句子结构**：三个连续动词（freezes → come up to cover → deflates）把崩溃过程压缩进一句话，as if 从句点出「躲一个名字」的徒劳。
+
+**表达方式**：Pollyanna smile 借「波莉安娜」式盲目乐观的典故，写出她强撑的积极人设如何瞬间泄气。
+
+> **原句 9:** "“I’ll keep the girl and the book-boy with me,” he says when Mom takes my arm as if to bring me with her. “Lots of work here,” he says as he gestures to the small camp and the riverbank. Then he repeats the words—Lots of work here—as he places his fist over his heart."
 
 **中文理解**：「我把这姑娘和读书的男孩留在身边，」当妈妈抓住我的胳膊想把我带走时，他说。「这里活很多，」他一边说一边朝小小的营地与河岸示意。然后他重复了一遍——这里活很多——同时把拳头放在心口。
 
@@ -110,7 +122,7 @@ modified: "2026-10-31"
 
 **表达方式**：book-boy 是 Waboose 给 Tony 起的绰号；places his fist over his heart 是一个近乎誓言的姿势。
 
-> **原句 9:** "How to build a chimney for a “friendly” fire. Why we greet the sun, who he calls “brother Giizis.” How we should place tobacco when we hear thunder. How to “charm” the bait, neatly harvest the bubbly orange eggs while cleaning fish, flavor the flour you use for frying. Why we need spirit names and how we will have to return for these in another season when we have followed his directions about holding our dreams and learning five new Ojibwe words a day that will remind us of Creator’s gifts."
+> **原句 10:** "How to build a chimney for a “friendly” fire. Why we greet the sun, who he calls “brother Giizis.” How we should place tobacco when we hear thunder. How to “charm” the bait, neatly harvest the bubbly orange eggs while cleaning fish, flavor the flour you use for frying. Why we need spirit names and how we will have to return for these in another season when we have followed his directions about holding our dreams and learning five new Ojibwe words a day that will remind us of Creator’s gifts."
 
 **中文理解**：如何为「友善的」火堆搭烟囱。我们为什么要向太阳致意——他管太阳叫「兄弟 Giizis」。听见雷声时我们该如何放下烟草。如何「哄」鱼饵，清理鱼时利落地取出那些气泡般的橙色鱼卵，给煎鱼用的面粉调味。为什么我们需要灵名，以及如何在另一个季节回来领取——前提是我们照他的指引守住梦境、每天学五个新的奥吉布瓦词，它们会提醒我们造物主的馈赠。
 
@@ -122,7 +134,7 @@ modified: "2026-10-31"
 
 **表达方式**：friendly fire 反用军事术语，把火写成可沟通的存在；brother Giizis 用亲缘称呼太阳，体现万物亲属观。
 
-> **原句 10:** "Drew has even almost admitted his ideas about who and what makes for “civilization” might have been misguided. “Strange place,” he says whenever he encounters someone or something that doesn’t fit his techie expectations. But now, he smiles when he says it. One night Tony and I are sprawled on the grass, Mom and Drew sit in lawn chairs, and we all watch nothing but the night sky, hoping to spot a comet. “Strange place,” Drew repeats. “Strange, but peaceful.”"
+> **原句 11:** "Drew has even almost admitted his ideas about who and what makes for “civilization” might have been misguided. “Strange place,” he says whenever he encounters someone or something that doesn’t fit his techie expectations. But now, he smiles when he says it. One night Tony and I are sprawled on the grass, Mom and Drew sit in lawn chairs, and we all watch nothing but the night sky, hoping to spot a comet. “Strange place,” Drew repeats. “Strange, but peaceful.”"
 
 **中文理解**：Drew 甚至几乎承认了他关于「什么构成文明」的想法可能是错的。「奇怪的地方，」每当遇到不符合他科技预期的某人或某事时，他就会这么说。但现在，他说这话时是笑着的。一天夜里，Tony 和我摊在草地上，妈妈和 Drew 坐在折叠椅里，我们只是望着夜空，希望能看到一颗彗星。「奇怪的地方，」Drew 又说了一遍。「奇怪，但安宁。」
 
