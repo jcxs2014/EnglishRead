@@ -62,19 +62,7 @@ modified: "2026-10-31"
 
 **表达方式**：leaf gold 是「金叶子」的双关（落叶的颜色）；brook-clear 用溪水形容笑声的清澈，Brook 也呼应他名字里的 water 意象。
 
-> **原句 5:** "Aanakwad was only ten that October, but he had grown-up hands—nimble and long like his grown-up hair. You know how all those Blackducks have that Hollywood Indian hair? Well on him it fell like a silk blanket all down his spiny back, and glistened like the fur on a wet otter. It rippled—alive when he moved."
-
-**中文理解**：那年十月 Aanakwad 只有十岁，却有一双大人的手——灵活修长，像他那一头大人的头发。你知道 Blackduck 家都有那种好莱坞印第安人的头发吧？在他身上，那头发像丝绸毯子一样垂满瘦骨嶙峋的背，像湿水獭的皮毛一样发亮。它波动着——他动的时候是活的。
-
-**关键词**：only ten that October / grown-up hands / Hollywood Indian hair / silk blanket / glistened like the fur on a wet otter
-
-**为什么这样写**：「十岁却有大人手」暗示他被迫过早成熟；「好莱坞印第安人的头发」是外界对原住民的刻板印象，却在他身上成为真实的、活的东西。
-
-**句子结构**：先下判断（grown-up hands），再用 You know how… 直接对读者说话，最后用两个比喻（silk blanket / wet otter）描写头发。
-
-**表达方式**：Hollywood Indian 是流行文化的标签，被叙述者半调侃地引用；spiny back 指瘦得脊骨突出的背，暗示营养不良。
-
-> **原句 6:** "He would ask a question: How many Indians does it take to weed a garden? And then he’d say, All of them. And there was always a reason why: One to use the hoe and the rest to smoke the weed! Every question had the same answer. Same laugh or groan, too."
+> **原句 5:** "He would ask a question: How many Indians does it take to weed a garden? And then he’d say, All of them. And there was always a reason why: One to use the hoe and the rest to smoke the weed! Every question had the same answer. Same laugh or groan, too."
 
 **中文理解**：他会问一个问题：多少印第安人能除干净一个花园？然后他会说：所有人。而且总有一个理由：一个人用锄头，其余人抽大麻！每个问题都有同样的答案，也有同样的笑声或哀叹。
 
@@ -85,6 +73,18 @@ modified: "2026-10-31"
 **句子结构**：问答循环（ask / say / reason why），句式高度重复，模拟玩笑的仪式感。
 
 **表达方式**：All of them 是每次的固定答案，既是反讽也是社区意识的暗语；smoke the weed 双关「杂草」与「大麻」。
+
+> **原句 6:** "Aanakwad was only ten that October, but he had grown-up hands—nimble and long like his grown-up hair. You know how all those Blackducks have that Hollywood Indian hair? Well on him it fell like a silk blanket all down his spiny back, and glistened like the fur on a wet otter. It rippled—alive when he moved."
+
+**中文理解**：那年十月 Aanakwad 只有十岁，却有一双大人的手——灵活修长，像他那一头大人的头发。你知道 Blackduck 家都有那种好莱坞印第安人的头发吧？在他身上，那头发像丝绸毯子一样垂满瘦骨嶙峋的背，像湿水獭的皮毛一样发亮。它波动着——他动的时候是活的。
+
+**关键词**：only ten that October / grown-up hands / Hollywood Indian hair / silk blanket / glistened like the fur on a wet otter
+
+**为什么这样写**：「十岁却有大人手」暗示他被迫过早成熟；「好莱坞印第安人的头发」是外界对原住民的刻板印象，却在他身上成为真实的、活的东西。
+
+**句子结构**：先下判断（grown-up hands），再用 You know how… 直接对读者说话，最后用两个比喻（silk blanket / wet otter）描写头发。
+
+**表达方式**：Hollywood Indian 是流行文化的标签，被叙述者半调侃地引用；spiny back 指瘦得脊骨突出的背，暗示营养不良。
 
 > **原句 7:** "Everyone knew Aanakwad’s brother Tyrus had been picked up, charged with battery. Not for the violet fingerprints I saw marking Aanakwad’s flesh—although I’d put those to his tally, too—but for roughing up his girlfriend, Terri. While Aanakwad was sporting the shit-bag’s tattoo, Terri was counting cracked ribs and nursing a withdrawal baby."
 
