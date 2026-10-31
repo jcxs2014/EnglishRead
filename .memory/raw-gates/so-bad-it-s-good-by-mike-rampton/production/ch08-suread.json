@@ -1,0 +1,55 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch08",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch08_unhealthily_horrible_doctor_jokes.txt",
+ "facts": [
+  {
+   "fact": "问丛林里为什么没有阿司匹林，答因为鹦鹉把它们全吃了：parrots eat 'em all 谐音 paracetamol（扑热息痛）",
+   "anchor": "Why are there no aspirins in the jungle? Because the parrots eat ’em all.",
+   "start": 82,
+   "end": 155
+  },
+  {
+   "fact": "牧师、修士和兔子走进血库，兔子说自己大概是 O 型血——type-O 谐音 typo（打字错误）",
+   "anchor": "The rabbit says, ‘I think I’m a type-O’.",
+   "start": 214,
+   "end": 254
+  },
+  {
+   "fact": "病人说自己时而像帐篷时而像大帐篷，精神科医生答“你太紧张了”，two tents 谐音 too tense",
+   "anchor": "‘You’re two tents.’",
+   "start": 424,
+   "end": 443
+  },
+  {
+   "fact": "病人问自己还剩多久，医生说“十……九……八……”，直接把“十年”变成了倒计时",
+   "anchor": "The doctor says, ‘Nine … eight …’",
+   "start": 1913,
+   "end": 1946
+  },
+  {
+   "fact": "失声的小马说自己“一直有点沙哑”，a little horse 谐音 a little hoarse",
+   "anchor": "‘I suppose I’ve always been a little horse.’",
+   "start": 1207,
+   "end": 1251
+  },
+  {
+   "fact": "产房外听见“Toni can’t! Bill won’t!”，其实只是布拉克斯顿-希克斯假宫缩（Braxton Hicks）",
+   "anchor": "Braxton-Hicks contractions.",
+   "start": 1402,
+   "end": 1429
+  },
+  {
+   "fact": "病人说自己只剩六十秒可活，医生说“等一下，我一会儿处理你”",
+   "anchor": "‘Hang on, I’ll deal with you in a minute.’",
+   "start": 3724,
+   "end": 3766
+  },
+  {
+   "fact": "头上长青蛙的人来看病，开口的却是青蛙，它把病因追溯到男人屁股上的一个痘",
+   "anchor": "‘It all started with a spot on my bum,’ says the frog.",
+   "start": 4587,
+   "end": 4641
+  }
+ ]
+}
