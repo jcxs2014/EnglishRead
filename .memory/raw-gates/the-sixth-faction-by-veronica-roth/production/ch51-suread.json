@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch51",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch51_chap51.txt",
+ "facts": [
+  {
+   "fact": "车开动后他走向车厢前端的木箱，箱子大得能装下一个人，掀开木盖里面全是武器。",
+   "anchor": "It’s big enough to fit a person inside it, but when I lift the wooden lid, there are weapons inside.",
+   "start": 192,
+   "end": 292
+  },
+  {
+   "fact": "排队排在最后的 Eric 拒收枪，说自己只是来观察的，还拍了拍他的肩。",
+   "anchor": "Eric, at the back of the line, refuses a gun.",
+   "start": 581,
+   "end": 626
+  },
+  {
+   "fact": "他盯着 Eric 的后脑勺想：这人从没用赞许而不是敌意的目光看过我，更没像哥们一样拍过我的手臂。",
+   "anchor": "He’s never looked at me like that before, with approval instead of hostility.",
+   "start": 1233,
+   "end": 1310
+  },
+  {
+   "fact": "他看着一动不动、面朝敞开门的 Christina 等新兵，断定自己在模拟里，他们也一样。",
+   "anchor": "I’m in a simulation. And so are they.",
+   "start": 2296,
+   "end": 2333
+  },
+  {
+   "fact": "他想到母亲那句「我的梦就要成真」，若那就是 Evelyn 在做的事，会有人受伤、有人死，不止他父亲。",
+   "anchor": "If that’s what Evelyn’s doing, if that’s what’s coming, people will get hurt.",
+   "start": 3695,
+   "end": 3772
+  },
+  {
+   "fact": "他认为代价太高：一队被操纵的 Dauntless 拿着偷来的枪去杀人，就像 Candor 总部那场火。",
+   "anchor": "A troop of Dauntless puppets holding stolen weapons.",
+   "start": 4434,
+   "end": 4486
+  },
+  {
+   "fact": "他认出 Eric 背上的便携信号中继器，因此 Eric 能在任何地方用 Dauntless 的电脑跑这场模拟。",
+   "anchor": "It means he can use the Dauntless computer from anywhere he wants.",
+   "start": 8331,
+   "end": 8397
+  },
+  {
+   "fact": "他说这甚至不算决定，径直走向 A 栋，为 Andrew Prior 而去。",
+   "anchor": "I head straight for Building A, for Andrew Prior.",
+   "start": 9921,
+   "end": 9970
+  }
+ ]
+}

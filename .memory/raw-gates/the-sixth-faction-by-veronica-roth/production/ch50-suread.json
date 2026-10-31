@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch50",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch50_chap50.txt",
+ "facts": [
+  {
+   "fact": "她怕自己半夜醒不来，索性不睡，把能活动开的衣服全穿好，躺下干等",
+   "anchor": "I’m afraid I won’t be able to wake up on time",
+   "start": 137,
+   "end": 182
+  },
+  {
+   "fact": "她身上那件深红 T 恤是 Mender 亲手染的",
+   "anchor": "my deep red T-shirt, dyed by the Mender himself",
+   "start": 313,
+   "end": 360
+  },
+  {
+   "fact": "这几个月学到的事在她脑子里打转，像雨水灌进下水道",
+   "anchor": "Everything I’ve learned over the past few months swirls in my mind like rainwater going down a storm drain.",
+   "start": 643,
+   "end": 750
+  },
+  {
+   "fact": "她过去信父亲那套：Abnegation 在顶端，是因为他们把自己放到最底下",
+   "anchor": "Abnegation at the top because they’re determined to put themselves at the bottom",
+   "start": 1221,
+   "end": 1301
+  },
+  {
+   "fact": "差十分三点，她摸黑穿过博物馆主厅",
+   "anchor": "At ten minutes to three, I creep across the main hall of the Museum.",
+   "start": 1768,
+   "end": 1836
+  },
+  {
+   "fact": "隧道口挡路的不是杂草，是毒芹，剧毒",
+   "anchor": "No, not weeds—hemlock. Deadly poison.",
+   "start": 2160,
+   "end": 2197
+  },
+  {
+   "fact": "她到场时 Tobias 不在，等在那儿的是 Evelyn、Sly、Boots、Jove、Gretchen 和 Mender",
+   "anchor": "Tobias isn’t here.",
+   "start": 2953,
+   "end": 2971
+  },
+  {
+   "fact": "明知要抛下 Tobias，她仍说自己加入",
+   "anchor": "“I’m in,” I say.",
+   "start": 4945,
+   "end": 4961
+  }
+ ]
+}

@@ -31,7 +31,7 @@ modified: "2026-10-31"
 
 > **原句 3:** "Robert grins. We used to shelve books together before school, which is how I discovered that he, like me, loves watching the Dauntless disembark from the train. So now we do it together, a little rebellion."
 
-**中文理解**：Robert 笑了。他们从前一起在放学前整理书架，她就是那样发现他跟自己一样，爱看 Dauntless 从火车上跳下来；于是现在两个人一起看，算是一点小小的叛逆。
+**中文理解**：Robert 笑了。他们从前上学前一起整理书架，她就是那样发现他跟自己一样，爱看 Dauntless 从火车上跳下来；于是现在两个人一起看，算是一点小小的叛逆。
 **关键词**：shelve books, like me, disembark, a little rebellion
 **为什么这样写**：叛逆被限定在 a little 里：不是逃跑，只是每天几分钟的偷看。作者用整理书架这件最规矩的事解释这段友谊的起点，规矩与越界共用同一个地点——书架尽头那扇窗。越界因此显得很小，读者也就明白她离真正的选择还有多远。
 **读者视角提示**：这段友谊建立在「他，像我」这个条件上；这是本章唯一一处她与别人共享的秘密，记住它是谁给她的。
