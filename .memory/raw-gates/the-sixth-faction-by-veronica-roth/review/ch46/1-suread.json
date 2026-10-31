@@ -1,0 +1,83 @@
+{
+  "chapter": "ch46",
+  "pov": "第一人称（Tris 特丽丝视角）＋现在时叙述",
+  "facts": [
+    {
+      "event": "特丽丝与托比亚斯·伊顿（Tobias Eaton）约定当晚在他公寓见面，他把钥匙留在门框顶上，还打趣说她得跳起来才够得着——她真的跳了三次。",
+      "who": "I",
+      "receivers": "the key / the door frame / his apartment",
+      "start": 2039,
+      "end": 2203,
+      "text": "We agreed to meet at his apartment tonight. He left the key for me on top of the door frame, joking that I’d have to jump to get it. And I do, actually—three times."
+    },
+    {
+      "event": "肖娜（Shauna）在托比亚斯公寓里截住特丽丝，先道歉说该早点解释，再自报是 Four（托比亚斯）的朋友，并说托比亚斯本来要在这里见她，但她认为他可能需要特丽丝帮忙。",
+      "who": "She (Shauna)",
+      "receivers": "me (Tris) / her hand",
+      "start": 3219,
+      "end": 3452,
+      "text": "“Sorry, I should have explained.” She closes the door behind her and sticks out her hand. “I’m Shauna. Four’s friend. I know he’s supposed to meet you here, but . . .” She pauses, and bites her lip. “I think he might need your help.”"
+    },
+    {
+      "event": "在靶场，托比亚斯没有回应肖娜叫他“Four”，而是继续开火：一枚针打中靶子、落在靶心外侧；特丽丝起初看不出她为何担心，看久了才发现他手在抖、耳后冒汗。",
+      "who": "He (Tobias)",
+      "receivers": "the target / a needle",
+      "start": 6617,
+      "end": 6866,
+      "text": "He fires, instead. A needle hits the target just shy of the center. At first, I can’t see why she’s so worried. He just looks like himself. But the longer I look, the more the cracks show. The way his hands tremble. The sweat curling behind his ear."
+    },
+    {
+      "event": "托比亚斯告诉特丽丝，珍宁·马修斯（Jeanine Matthews）当天来看过他；说话时他握着她手的那只手，在他肋侧的火焰纹身上抽搐了一下。",
+      "who": "he (Tobias)",
+      "receivers": "my hand",
+      "start": 13802,
+      "end": 13926,
+      "text": "“Jeanine Matthews came to see me today.” His hand convulses where it holds mine, still right against the flames on his side."
+    },
+    {
+      "event": "托比亚斯说珍宁的借口是她需要更新电脑，但他认为真正的原因是要测试他——让他走一遍恐惧模拟。",
+      "who": "he (Tobias)",
+      "receivers": "me (Tris)",
+      "start": 13927,
+      "end": 14079,
+      "text": "“Her excuse was that she needed to update the computer. But I think the real reason might have been to test me. To see me go through a fear simulation.”"
+    },
+    {
+      "event": "托比亚斯说珍宁如今已确认阿布尼格申确有丑闻，就会发布一份点名的报告；而自看穿他真实身份起就一直勒索他的埃里克（Eric），会告诉无畏派那份报告写的就是他。",
+      "who": "he (Tobias)",
+      "receivers": "a report / the Dauntless",
+      "start": 14344,
+      "end": 14666,
+      "text": "“And now,” he says, and his next swallow is labored. “And now, she’ll release a report naming names, now that she has confirmation of a real Abnegation scandal. And Eric, who’s been blackmailing me to keep me in line ever since he figured out who I really am, will tell the Dauntless that I’m the one the report is about.”"
+    },
+    {
+      "event": "托比亚斯要特丽丝去找伊芙琳（Evelyn）谈成交易：给她看那颗子弹、说她要加入她杀马库斯的计划，作为交换，把她想要了很久的东西——他自己——带给她。",
+      "who": "he (Tobias)",
+      "receivers": "Evelyn / the bullet / her son (himself)",
+      "start": 18683,
+      "end": 18897,
+      "text": "“You’ll go to Evelyn and you’ll make a deal. Show her the bullet, tell her you want in on her plan to kill Marcus—and whatever follows. And in exchange, you’ll bring her something she’s wanted for a long time: me.”"
+    },
+    {
+      "event": "托比亚斯应下“行”，一手环住特丽丝的腰把她举起来，惹她笑出声；她任自己去想：若他愿意，会把她抱到哪里去。",
+      "who": "He (Tobias)",
+      "receivers": "me (Tris)",
+      "start": 22079,
+      "end": 22297,
+      "text": "“Yeah, all right.” He puts an arm around my waist and lifts me up, startling a laugh out of me. It’s so easy for him to lift me, and for just a moment I let myself think about where he could carry me, if he decided to."
+    }
+  ],
+  "relations": [
+    "特丽丝（Tris）与托比亚斯·伊顿（Tobias Eaton，无畏派代号 Four）是恋人：她夜里进他的公寓等他，他在末尾把她举起来抱她。",
+    "肖娜（Shauna）是 Four 在无畏派的朋友，也是穿电光绿镶边制服的无畏派急救员；是她把特丽丝从公寓带到靶场。",
+    "珍宁·马修斯（Jeanine Matthews）是博学派领袖，把托比亚斯当作可测试、可控的对象；埃里克（Eric）长期以托比亚斯的真实身份勒索他。",
+    "伊芙琳（Evelyn）是托比亚斯的母亲、无派别激进派的头目；托比亚斯提议用“投奔母亲”替特丽丝换取她的信任。",
+    "马库斯·伊顿（Marcus Eaton）是托比亚斯的父亲，也是特丽丝提议要夺走权力的对象。"
+  ],
+  "numbers": [
+    "three times（她跳起来够门框上钥匙的次数：And I do, actually—three times.）",
+    "second floor（二楼有几个狐狸在低声演奏：on the second floor, a few of them are playing quiet music）",
+    "two of the three arenas（主训练房三块场地中有两块有人在格斗：people sparring in two of the three arenas）",
+    "First tattoo（他肋侧的第一处纹身：First tattoo）"
+  ]
+}
