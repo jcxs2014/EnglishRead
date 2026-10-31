@@ -1,0 +1,106 @@
+{
+  "chapter": 16,
+  "pov": "Tris（Beatrice）第一人称",
+  "facts": [
+    {
+      "event": "Tris 天亮前照计划把水槽下的清洁用品篮挪到隔壁柜子里，自己折进腾出的柜格、关上门，蹲在里面等 Foxes 来开晨会。",
+      "who": "Tris（Beatrice）",
+      "receivers": [
+        "Foxes（未察觉）"
+      ],
+      "start": 3212,
+      "end": 3465,
+      "text": "I go through the atrium to the dining room, and then, just as I planned, I pull the basket of cleaning products out from under the sink, slide it into the next cabinet over, on top of the dish towels, and then I fold myself into the space I left behind."
+    },
+    {
+      "event": "Gretchen 拉开柜门盯着 Tris 看了几秒，抱起手臂只说一句“出来”；Tris 蜷久了腿麻，爬出来站直。",
+      "who": "Gretchen（Foxes）",
+      "receivers": [
+        "Tris"
+      ],
+      "start": 4856,
+      "end": 5014,
+      "text": "The cabinet opens. Gretchen looks at me for a few seconds, then crosses her arms.\n\n\n\n“Out,” she says.\n\n\n\nMy legs are numb from being so curled up for so long."
+    },
+    {
+      "event": "被追问时 Tris 谎称两人昨晚在玩捉迷藏，Gretchen 反问“那你呢？卡住了？”；旁边那个总穿靴子、被叫作 Boots 的男孩端着脏杯子看她。",
+      "who": "Tris",
+      "receivers": [
+        "Gretchen",
+        "Boots",
+        "其他 Foxes"
+      ],
+      "start": 5218,
+      "end": 5395,
+      "text": "“We were playing hide-and-seek last night.”\n\n\n\n\n“And you, what? Got stuck?”\n\n\n\nThe person Gretchen was talking to is a boy, a few years older than I am, the one they call Boots."
+    },
+    {
+      "event": "Gretchen 笑说 Foxes 开会只是商量偷什么、派谁去偷、把消息分派出去，不让人旁听只因为嫌分心——Tris 由此认定清晨偷听不会有料。",
+      "who": "Gretchen",
+      "receivers": [
+        "Tris"
+      ],
+      "start": 6138,
+      "end": 6254,
+      "text": "All we do is talk about what needs to be stolen and who’s going to steal it, and then allocate messages to be sent.”"
+    },
+    {
+      "event": "Tris 问 Foxes 选拔赛何时举行，Colin 说就在几周后；他随即直言她太瘦小，得先练出耐力、力气和自卫本事。",
+      "who": "Tris / Colin",
+      "receivers": [],
+      "start": 9632,
+      "end": 9752,
+      "text": "It’s just . . . you have to get into shape,” he says. “You need good endurance and enough strength to lift heavy things."
+    },
+    {
+      "event": "Tris 断定靠偷听永远拿不到真相，于是决定改走另一条路：让自己成为 Foxes 的一员。",
+      "who": "Tris",
+      "receivers": [],
+      "start": 10400,
+      "end": 10576,
+      "text": "So I’ll just have to become one of them.\n\n\n\n\nWe get off the train—always easier for me than getting on—close to Dauntless headquarters, according to the map I’ve now memorized."
+    },
+    {
+      "event": "水处理中心里 Jove 教 Tris 当“Step One”（搬混凝剂、倒进大罐、按绿键），Carr 则说每个无派系者都该能举起自己的体重，Tris 自认做不到。",
+      "who": "Jove / Carr",
+      "receivers": [
+        "Tris"
+      ],
+      "start": 18226,
+      "end": 18370,
+      "text": "“Every factionless should be able to lift his or her own body weight,” Carr says. “Unless there’s some condition preventing them from doing so.”"
+    },
+    {
+      "event": "Weaver 带哨兵围住众人，指控 Jove 借“带新人”把守卫从拘留所抽走、配合当晚越狱（至少十人），并用枪抵住她胸骨。",
+      "who": "Weaver（Dauntless 哨兵）",
+      "receivers": [
+        "Jove",
+        "Carr",
+        "Tris"
+      ],
+      "start": 20661,
+      "end": 20810,
+      "text": "“At the detention facility—your factionless pals broke at least ten people out of their holding cells, and I know she’s got something to do with it.”"
+    }
+  ],
+  "relations": [
+    "Tris→Jove：Jove 是无派系者的带路人兼劳动督导，明说“Evelyn told me to keep an eye on you anyway”，替 Evelyn 盯着她。",
+    "Jove↔Evelyn：出勤安排与“看着 Tris”都是 Evelyn 的意思，Jove 听命于她。",
+    "Tris↔Colin / Rory：同批自称 faction failures 的新人，一起跑车、学生活技能；Colin 直言她“small. And weak.”。",
+    "Gretchen / Boots（Foxes）→Tris：把她当想入会的 stray，用入会资格吊着她，要她“凭本事进来”。",
+    "Weaver（Dauntless 哨兵）↔Jove：公开敌意，枪口抵胸骨（保险仍关着），并断言无派系者与越狱者是一伙。",
+    "Carr（Fixers，驻 Museum）↔Tris：当班师傅，只认章程，不信 Jove 的辩解。"
+  ],
+  "numbers": [
+    "“the fifth day”（她到 Rookery 后的第五天傍晚）",
+    "“one hundred”（她在 Rookery 数出的椅子数）",
+    "“three people in here a day”（水处理中心每天只需三人当班）",
+    "“once a month”（排班一月一次）",
+    "“at least ten people”（从拘留所被放走的人数）",
+    "“six weeks”（Colin 说练出力量至少要六周）",
+    "“A few weeks from now.”（Foxes 选拔赛的时间）",
+    "“one story over the street”（她悬在街面上方一层楼高）",
+    "“three buttons”（控制盘上绿、红、蓝三个按钮）",
+    "“short a crate today”（Weaver 扣下的一箱纸制品）"
+  ]
+}
