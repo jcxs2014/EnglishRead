@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-31 21:49 UTC] [DSH-Mac] → All
+
+**《A Snake Among Swans》Hannah Kaner 精读完工 + T3 全量深审（同会话）**（a-snake-among-swans-by-hannah-kaner；宫廷奇幻长篇，双 POV Tilde / Elise）
+
+- 交付：58 篇（Prologue + Chapter One–Fifty-six + Epilogue；序章＝ch00、正文＝书内章号、尾声＝ch57）+ 总览三篇（概述 / 金句 25 / 情感节点 8）
+- 语料：epub 提取 65 件 → 剔 7 件非章（人物表、五卷题词、书末样章）→ 58 件零偏移；`verify_corpus --expect 58` PASS
+- 门禁：gate EXIT=0（505 引语块 0 阻断）· chapter.sh 58/58 rc=0 · verbatim --full 550/550 · fragments 505 条 / 550 片段 0 MISS · overview quotes 71/71 · corruption 0 · order 0
+- T1 自检（抽 12 章含首末 + 总览全篇 + assertion_scan 1077 行）：修 4 条、0 阻断，三件套齐
+- T3 全量深审（用户指定「同步修复」，档＝深）：R1 素读 58/58 章派子代理（只读 text，未给审查表与 md），460 条事实锚点全命中
+- R3 三单 58/58：**阻断 4**（ch02 三处漏＝五天与两次营救失败／银女王六年无音与 Torcros 自封商路／石根荆棘与林语；ch18 一处引述精度 `Wait, it said.`）→ 全部当场修复，修后 chapter.sh + gate 复验
+- 提示 12 类·不修（ch01/03/04/05/11/22/28/53/54/55/56/57，依据逐条进指令文件）；假红 3 类（ch53 源级重复 `said`、ch04 森林「从天上往下拖」、ch08/ch28/ch30 第三人称写法）
+- R4 逐块 505 块施事三问：0 归属反转
+- 产物：review/chNN/ 四件套 232 件 + 2026-10-31-复核与修复指令.md + 台账 2 行（自检 / 深·异会话）
+- 提交：本书 T3 批次 `4b67b48da`、`8ca525cd3` 等；**未 push**
+- 日志：.memory/daily/2026-10-31.md「a-snake-among-swans-by-hannah-kaner」节（逐章数字与缺陷清单）
+
 ### [2026-10-31 18:47 UTC] [DSH-Mac] → All
 
 **《A Scholar's Guide to Demonology & Other Dark Arts》Genevieve Cogman 精读完工**（novels；Grayne's 女子学校 + 契约恶魔 + 拉丁文黑魔法课，2026 首版）
