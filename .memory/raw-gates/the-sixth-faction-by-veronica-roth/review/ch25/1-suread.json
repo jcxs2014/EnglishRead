@@ -1,0 +1,82 @@
+{
+ "chapter": "ch25",
+ "pov": "第一人称（Tris 视角）· 现在时",
+ "facts": [
+  {
+   "event": "Tris 在行驶的火车车厢边缘握住把手、把身体探出车外，看脚下掠过的街道，判断自己不害怕靠的是准备与对自己的了解。",
+   "who": "I",
+   "receivers": "buildings, the train car",
+   "start": 40,
+   "end": 235,
+   "text": "The sun is low, its orange rays catching on the windows of passing buildings. I stand at the edge of the train car as it turns, and then on a straightaway, I hold the handle and lean my body out."
+  },
+  {
+   "event": "无派系者把全部家当搬进博物馆只用了 one trip，抵达时展厅已被清空。",
+   "who": "I",
+   "receivers": "the factionless, the Museum’s residents",
+   "start": 935,
+   "end": 1136,
+   "text": "I was surprised by how easily the factionless packed up their entire lives, how it took only one trip, how the Museum’s residents were ready for us when we arrived, an exhibit hall already cleared out."
+  },
+  {
+   "event": "Tris 把无派系者的聚居地看作“城下之城”，并断言没有任何派系知道它存在。",
+   "who": "I",
+   "receivers": "a city beneath the city, the factions",
+   "start": 1710,
+   "end": 1850,
+   "text": "It’s another city, I think. A city beneath the city I lived in my whole life. And none of the factions seem to be aware that it even exists."
+  },
+  {
+   "event": "母亲从捐赠中心后门探头看见 Tris，笑开了，招手叫她进屋。",
+   "who": "My mother",
+   "receivers": "me",
+   "start": 2325,
+   "end": 2435,
+   "text": "The back door opens. My mother peeks into the alley, spots me, and smiles wide. She beckons for me to come in."
+  },
+  {
+   "event": "母亲说明：监护权听证一向在 Abnegation 总部举行，但 Candor 与 Erudite 近来要求改在各自总部。",
+   "who": "she (my mother)",
+   "receivers": "Candor and Erudite, Abnegation",
+   "start": 5974,
+   "end": 6213,
+   "text": "“Custody hearings take place at Abnegation headquarters as a matter of course,” she says. “But recently, Candor and Erudite have begun demanding that their own custody hearings take place at their respective faction headquarters, instead.”"
+  },
+  {
+   "event": "母亲答应转告父亲在听证后、评议期间去找 Jack Kang 谈，并说父亲之后反正要接 Marcus 一起回去。",
+   "who": "she (my mother)",
+   "receivers": "your father, Jack Kang, Marcus",
+   "start": 8121,
+   "end": 8376,
+   "text": "“I’ll tell your father to talk to Jack Kang after the hearing, during deliberations,” she says. “He’ll have to pick up Marcus afterward, anyway. Jack is no doubt aware of certain irregularities with the truth serum, even if the rest of his faction isn’t.”"
+  },
+  {
+   "event": "母亲解开衬衫前两颗纽扣、拉开衣领，露出锁骨下方一枚纹身，说改天再讲含义。",
+   "who": "she (my mother)",
+   "receivers": "her shirt, a tattoo",
+   "start": 9133,
+   "end": 9303,
+   "text": "Then she reaches up and undoes the first two buttons of her shirt and tugs the collar aside to reveal a tattoo just beneath her collarbone. From the outside in, it reads."
+  },
+  {
+   "event": "Evelyn 说自己“想怎样就怎样”，但这次那样做是因为 Tris 帮了她、她要偿还这份人情。",
+   "who": "she (Evelyn)",
+   "receivers": "me (Tris)",
+   "start": 15453,
+   "end": 15574,
+   "text": "“I can do as I please,” she says. “But in this case, I’m doing it because you’ve done me a favor, and I want to repay it."
+  }
+ ],
+ "relations": [
+  "Tris 与母亲在无派系捐赠中心重逢：母亲拥抱她、打量她身上的红色 Amity 上衣，并把监护权听证的派系博弈讲给她。",
+  "母亲（Abnegation 议会成员之妻）承诺让丈夫在 Candor 听证后找代表 Jack Kang 交涉，以此回应 Tris 为 Mae 与 Mender 求情。",
+  "母亲以锁骨下的纹身暗示自己还有未告知的身份/立场，母女间形成“她迟早会讲”的约定。",
+  "Evelyn 以“还人情”为名向 Tris 透露 Fox 旗帜线索，两人的关系由互相试探转向有限合作；Tris 同时决定与 Christina 搭档夺两面旗。"
+ ],
+ "numbers": [
+  "one trip — 无派系者搬家只用了“one trip”（一趟）",
+  "a hundred people in line for food, another hundred eating it — 博物馆早餐排队与就餐各约百人",
+  "the first two buttons — 母亲解开衬衫“the first two buttons”露出纹身",
+  "a dozen outstanding judgments — Evelyn 自称背着“about a dozen outstanding judgments”（约十二条未决判决）"
+ ]
+}
