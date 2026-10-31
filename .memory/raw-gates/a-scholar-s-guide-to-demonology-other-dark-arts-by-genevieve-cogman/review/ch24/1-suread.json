@@ -1,0 +1,95 @@
+{
+ "book": "a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman",
+ "chapter": "ch24",
+ "text": "notes/books/novels/a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman/text/ch24_chapter_twenty_three.txt",
+ "facts": [
+  {
+   "fact": "猫 Alastor 沿 Phil 的身体爬上她的肩头蹲伏。",
+   "anchor": "clambered up Phil’s body in an explosion of claws and speed",
+   "start": 123,
+   "end": 182
+  },
+  {
+   "fact": "Jeffrey 从 Clarissa 手里拿过电击枪，走上前电击最前面的丧尸，没有效果，随即后退。",
+   "anchor": "Jeffrey plucked the taser out of Clarissa’s hand",
+   "start": 3327,
+   "end": 3375
+  },
+  {
+   "fact": "Jeffrey 分派 Jane 去破坏 Anne Bredon 的银行账户。",
+   "anchor": "Jane, you will sabotage Anne Bredon’s bank account in the meantime",
+   "start": 6709,
+   "end": 6775
+  },
+  {
+   "fact": "Phil 指示女孩们在她出门后堵门，把课桌堆到门后。",
+   "anchor": "Put the desks behind it.",
+   "start": 10972,
+   "end": 10996
+  },
+  {
+   "fact": "Phil 命 Alastor 趁她分散 Margot 注意力时溜下楼梯打探。",
+   "anchor": "Sneak past her while I’m distracting her, she ordered Alastor.",
+   "start": 15769,
+   "end": 15831
+  },
+  {
+   "fact": "Margot 对 Phil 说，学校的防护法阵是她炸的，Anne Bredon 是她放进来的。",
+   "anchor": "I blew up the school’s wards and let Miss Bredon in.",
+   "start": 16366,
+   "end": 16418
+  },
+  {
+   "fact": "Margot 接过 Phil 的话后沿走廊跑走。",
+   "anchor": "ran off down the corridor",
+   "start": 25360,
+   "end": 25385
+  },
+  {
+   "fact": "Phil 开始走下通往地窖的楼梯。",
+   "anchor": "She started down the stairs.",
+   "start": 26218,
+   "end": 26246
+  }
+ ],
+ "relations": [
+  {
+   "fact": "Alastor 是 Phil 的恶魔使魔（demon familiar），对她自称 Mistress。",
+   "anchor": "lack of spontaneous offers of assistance from her demon familiar",
+   "start": 13066,
+   "end": 13130
+  },
+  {
+   "fact": "Jeffrey（Mr Smithson）是这所学校的教师，Alice 说他知道反坦克武器放在哪里。",
+   "anchor": "Mr Smithson here is a teacher and knows where the anti-tank weaponry is",
+   "start": 7330,
+   "end": 7401
+  },
+  {
+   "fact": "Phil 对 Margot 处于 in loco parentis（代行家长/监护人）的位置。",
+   "anchor": "Phil was in loco parentis to her",
+   "start": 15018,
+   "end": 15050
+  }
+ ],
+ "numbers": [
+  {
+   "fact": "Phil 说自己当教师才一个多月：“a month and a bit”。",
+   "anchor": "I’ve only been a teacher for a month and a bit",
+   "start": 17188,
+   "end": 17234
+  },
+  {
+   "fact": "学校有四道较小的门：“four lesser doors”。",
+   "anchor": "There were four lesser doors to the school",
+   "start": 11896,
+   "end": 11938
+  },
+  {
+   "fact": "Alastor 说 Anne Bredon 从正门进攻“三次”：“not once, not twice, but three times running”。",
+   "anchor": "not once, not twice, but three times running",
+   "start": 9190,
+   "end": 9234
+  }
+ ]
+}

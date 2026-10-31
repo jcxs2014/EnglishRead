@@ -1,0 +1,95 @@
+{
+ "book": "a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman",
+ "chapter": "ch23",
+ "text": "notes/books/novels/a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman/text/ch23_chapter_twenty_two.txt",
+ "facts": [
+  {
+   "fact": "Phil signals the juniors to stay silent with a zipped-lips gesture when a man's voice comes over the walkie-talkie.",
+   "anchor": "Phil made a hasty zipped-lips gesture",
+   "start": 63,
+   "end": 100
+  },
+  {
+   "fact": "Clarissa proposes charging the intruders with hockey sticks; Phil refuses the charge.",
+   "anchor": "‘We should attack!’ Clarissa said.",
+   "start": 360,
+   "end": 394
+  },
+  {
+   "fact": "Alice kneels beside the biggest fallen man and takes Muriel with her.",
+   "anchor": "Alice said, dropping to her knees next to the biggest man",
+   "start": 2045,
+   "end": 2102
+  },
+  {
+   "fact": "Phil runs down the corridor toward Mrs Vaughan's laboratory and is followed by a mob of second-form girls.",
+   "anchor": "Phil ran down the corridor.",
+   "start": 7157,
+   "end": 7184
+  },
+  {
+   "fact": "Phil breaks the locked laboratory door by hammering the lock with a heavy oak lab stool left in the corridor.",
+   "anchor": "grab the heavy oak lab stool, which someone had left out in the corridor",
+   "start": 10123,
+   "end": 10195
+  },
+  {
+   "fact": "Phil sprays the fire extinguisher up Flauros's chest, throat and mouth as he leaps at her; Flauros implodes and vanishes.",
+   "anchor": "she was already squeezing the fire extinguisher’s handle",
+   "start": 16183,
+   "end": 16239
+  },
+  {
+   "fact": "Jeffrey Smithson enters the hall soaked and muddy and reports that gunpowder caused the blast outside.",
+   "anchor": "Jeffrey Smithson stepped through",
+   "start": 20266,
+   "end": 20298
+  },
+  {
+   "fact": "Jane says she has accessed the intruders' phone data, including payment information.",
+   "anchor": "I’ve been able to access their data.",
+   "start": 23156,
+   "end": 23192
+  }
+ ],
+ "relations": [
+  {
+   "fact": "Alastor is Phil's bound familiar (he calls her ‘Mistress’) and Flauros is Alastor's brother.",
+   "anchor": "Or are you going to order me to fight my brother?",
+   "start": 4873,
+   "end": 4922
+  },
+  {
+   "fact": "Anne Bredon is a renegade Latin teacher who set a demon on Phil to murder her.",
+   "anchor": "a renegade Latin teacher who’d set a demon on Phil to murder her",
+   "start": 10700,
+   "end": 10764
+  },
+  {
+   "fact": "Anne Bredon was a Grayne's teacher and has been thrown out.",
+   "anchor": "‘Ex-Grayne’s teacher,’ Clarissa said, offended.",
+   "start": 24164,
+   "end": 24211
+  },
+  {
+   "fact": "Jane is a teacher who teaches computer crime and online hacking.",
+   "anchor": "Someone who went round teaching computer crime and online hacking",
+   "start": 23312,
+   "end": 23377
+  }
+ ],
+ "numbers": [
+  {
+   "fact": "Ten minutes of time requested by Jane to work on the phones.",
+   "anchor": "Give me just ten minutes",
+   "start": 23769,
+   "end": 23793
+  },
+  {
+   "fact": "A pentagon's five points must be marked to raise the wards.",
+   "anchor": "marking the five points of the pentagon",
+   "start": 25505,
+   "end": 25544
+  }
+ ]
+}

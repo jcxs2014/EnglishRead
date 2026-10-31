@@ -1,0 +1,113 @@
+{
+ "book": "a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman",
+ "chapter": "ch26",
+ "text": "notes/books/novels/a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman/text/ch26_chapter_twenty_five.txt",
+ "text_chars": 21037,
+ "facts": [
+  {
+   "kind": "fact",
+   "fact": "Anne Bredon’s knife sliced into Phil’s wrist and drew blood while Anne was flung backwards.",
+   "anchor": "Her knife sliced into Phil’s wrist as she was flung backwards",
+   "start": 109,
+   "end": 170
+  },
+  {
+   "kind": "fact",
+   "fact": "Hamish grabbed Alastor by the scruff of the neck and hauled him off Anne, tossing him aside.",
+   "anchor": "grab the scruff of Alastor’s neck and hauled him off Anne",
+   "start": 1344,
+   "end": 1401
+  },
+  {
+   "kind": "fact",
+   "fact": "Alastor leapt at Hamish and caught him in the chest; the two rolled through into the next room.",
+   "anchor": "He caught Hamish in the chest.",
+   "start": 2031,
+   "end": 2061
+  },
+  {
+   "kind": "fact",
+   "fact": "Anne pulled a long black steel blade with a ruby-and-rune hilt out of her coat.",
+   "anchor": "there was a long blade shining in it. It was black steel",
+   "start": 3523,
+   "end": 3579
+  },
+  {
+   "kind": "fact",
+   "fact": "Phil seized Anne around the waist just as Anne called on Gaap to transport her away.",
+   "anchor": "grabbing her around the waist",
+   "start": 12406,
+   "end": 12435
+  },
+  {
+   "kind": "fact",
+   "fact": "Phil closed her bloodied left hand on the sword hilt above Anne’s hand and punched her in the stomach.",
+   "anchor": "Her bloodied left hand closed around the hilt of the sword",
+   "start": 15846,
+   "end": 15904
+  },
+  {
+   "kind": "fact",
+   "fact": "Anne called on Andrealphus and left as a raven that burst from her discarded trench coat and flew southwards.",
+   "anchor": "A raven burst from her discarded trench coat, spreading its wings",
+   "start": 17972,
+   "end": 18037
+  },
+  {
+   "kind": "fact",
+   "fact": "Jane said the bank accounts of all Anne’s aliases had been drained and reported to the Inland Revenue and police.",
+   "anchor": "all of those names have had their bank accounts drained",
+   "start": 15071,
+   "end": 15126
+  },
+  {
+   "kind": "relation",
+   "fact": "Anne Bredon was the school’s former Latin teacher.",
+   "anchor": "The erstwhile Latin teacher smiled nastily",
+   "start": 6872,
+   "end": 6914
+  },
+  {
+   "kind": "relation",
+   "fact": "Alastor addresses Phil as “Mistress”, his summoner/bond-partner.",
+   "anchor": "Are you certain, Mistress?",
+   "start": 5293,
+   "end": 5319
+  },
+  {
+   "kind": "relation",
+   "fact": "Anne was privately tutored by her master Blaise, in contrast to Phil’s degree from Dom-Daniel.",
+   "anchor": "private tuition of my master Blaise",
+   "start": 6986,
+   "end": 7021
+  },
+  {
+   "kind": "relation",
+   "fact": "Phil holds a paid post at Grayne’s school (“Since I took the job”).",
+   "anchor": "‘Since I took the job,’ Phil gasped.",
+   "start": 14024,
+   "end": 14060
+  },
+  {
+   "kind": "number",
+   "fact": "Jane lists “half a dozen other names” among Anne’s aliases.",
+   "anchor": "half a dozen other names",
+   "start": 14964,
+   "end": 14988
+  },
+  {
+   "kind": "number",
+   "fact": "Phil compares her exhaustion to running “a five-mile steeplechase”.",
+   "anchor": "a five-mile steeplechase",
+   "start": 10055,
+   "end": 10079
+  },
+  {
+   "kind": "number",
+   "fact": "Two suitcases of explosives remain in the cellars.",
+   "anchor": "the two suitcases sitting there",
+   "start": 19861,
+   "end": 19892
+  }
+ ]
+}

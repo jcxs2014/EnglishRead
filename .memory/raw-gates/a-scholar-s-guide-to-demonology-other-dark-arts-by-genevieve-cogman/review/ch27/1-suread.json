@@ -1,0 +1,91 @@
+{
+  "chapter": "ch27",
+  "source": "text/ch27_chapter_twenty_six.txt",
+  "facts": [
+    {
+      "id": 1,
+      "kind": "action",
+      "fact": "Faith 举着募捐盒凑到 Phil 面前讨捐款，Phil 回她“我是你老师，不是你的目标”。",
+      "evidence": {
+        "anchor": "Faith said hopefully, thrusting a collection box at Phil",
+        "start": 265,
+        "end": 321
+      }
+    },
+    {
+      "id": 2,
+      "kind": "action",
+      "fact": "Jane 走到五年级（Fifth Form）学生 Kirsty Ying 面前，逼她交出一只无标签玻璃瓶，闻过之后没收。",
+      "evidence": {
+        "anchor": "unwillingly produced an unlabelled glass bottle, which Jane sniffed, then confiscated",
+        "start": 2531,
+        "end": 2616
+      }
+    },
+    {
+      "id": 3,
+      "kind": "action",
+      "fact": "Alastor 坚持要跟 Phil 出校，Phil 只好买了宠物背包把他背在背上，只抱怨他的体重。",
+      "evidence": {
+        "anchor": "Alastor had been highly unreasonable about Phil leaving the school grounds",
+        "start": 1194,
+        "end": 1268
+      }
+    },
+    {
+      "id": 4,
+      "kind": "relation",
+      "fact": "校长（the Head，文中亦称 Miss Jagerson）是 Phil 的雇主/上司，明说绝不会放走她这样“正合学校需要”的人。",
+      "evidence": {
+        "anchor": "We certainly wouldn’t want to let go of somebody so well suited",
+        "start": 6468,
+        "end": 6531
+      }
+    },
+    {
+      "id": 5,
+      "kind": "relation",
+      "fact": "Jane 与 Phil 是同事，Phil 把两人的交情看作脆弱的友谊：她一直想问 Anne Bredon 临走对 Jane 说的那句话，又怕一问就毁掉这份友谊。",
+      "evidence": {
+        "anchor": "it might shatter the fragile friendship between her and Jane",
+        "start": 2064,
+        "end": 2124
+      }
+    },
+    {
+      "id": 6,
+      "kind": "number",
+      "fact": "时间：下午四点三刻（quarter to five）天已黑到过路车必须开大灯。",
+      "evidence": {
+        "anchor": "it was only quarter to five in the afternoon, it was already dark enough",
+        "start": 468,
+        "end": 540
+      }
+    },
+    {
+      "id": 7,
+      "kind": "number",
+      "fact": "校长说经费紧张，把两箱（a couple of suitcases）高纯度炸药卖到二手市场也不无小补。",
+      "evidence": {
+        "anchor": "Selling a couple of suitcases of high-grade explosives on the second-hand market",
+        "start": 5833,
+        "end": 5913
+      }
+    },
+    {
+      "id": 8,
+      "kind": "action",
+      "fact": "天上开始落雪，Alastor 立刻声明不是他做的。",
+      "evidence": {
+        "anchor": "Not my doing, Alastor said firmly.",
+        "start": 11771,
+        "end": 11805
+      }
+    }
+  ],
+  "self_check": {
+    "total": 8,
+    "anchors_unique": 8,
+    "anchors_found": 8
+  }
+}

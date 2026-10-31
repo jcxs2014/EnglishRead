@@ -44,7 +44,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：这一段全由无线电术语构成，短促、无人称、带编号，像军队口令。破折号式的停顿把两句话隔开，让读者听见静电里的犹豫，而 Stand by 意味着对方随时会动。
 
-**读者视角提示**：读者会不安：能喊出 Sitrep 的人手上有指挥链；更让人发凉的是“转入 A 号方案”——那说明还有 B 号。
+**读者视角提示**：读者会不安：能喊出 Sitrep 的人手上有指挥链；更让人发凉的是“转入 A 号方案”——方案既然用字母编号，后面就还留着别的牌。
 
 ---
 
@@ -146,7 +146,7 @@ modified: "2026-10-31"
 
 > **原句 11:** "‘What are the conditions of your summoning?’ Phil asked. ‘I may be prepared to negotiate – Melicent Pomphrey put that bit of glass down at once and stay back, we are having a polite conversation here and I do not expect to have to say it twice!’ She coughed."
 
-**中文理解**：Phil 问他召唤的条件是什么，并说可以谈：Melicent Pomphrey 把那块玻璃放下、退后，大家是在客客气气地说话，她不打算说第二遍。说完她咳嗽了一声。
+**中文理解**：Phil 问他召唤的条件是什么，说自己或许愿意谈条件：Melicent Pomphrey，把那块玻璃立刻放下、退后——大家这是在客客气气地说话，她不想说第二遍。说完她咳嗽了一声。
 
 **关键词**：conditions of your summoning / I may be prepared to negotiate / put that bit of glass down at once / polite conversation
 
