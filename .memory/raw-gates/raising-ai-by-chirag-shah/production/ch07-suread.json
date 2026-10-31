@@ -1,0 +1,55 @@
+{
+ "book": "raising-ai-by-chirag-shah",
+ "chapter": "ch07",
+ "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch07_6_how_to_do_this_better.txt",
+ "facts": [
+  {
+   "fact": "本章开篇：航班遇湍流，Wi-Fi 中断，作者正要在机上参加一场国际会议",
+   "anchor": "we’re experiencing some moderate to severe turbulence. Please return to your seats and fasten your seat belts",
+   "start": 65,
+   "end": 174
+  },
+  {
+   "fact": "作者与 Emily M. Bender 合写的论文批评基于 LLM 的搜索方法，在 2022 年 3 月赫尔辛基途中线上发表",
+   "anchor": "my paper co-authored with my colleague Emily M. Bender was being presented",
+   "start": 1546,
+   "end": 1620
+  },
+  {
+   "fact": "2022 年 6 月，Google 工程师 Blake Lemoine 声称 LaMDA 有了知觉，距离他们论文发表仅三个月",
+   "anchor": "The story of Google engineer Blake Lemoine claiming that LaMDA had become sentient2 broke out in June 2022",
+   "start": 6347,
+   "end": 6453
+  },
+  {
+   "fact": "2015 年华盛顿大学研究发现谷歌图片搜索 CEO 时女性代表不足，返回结果中女性仅占 11%",
+   "anchor": "But only 11 percent of the images returned were women",
+   "start": 7900,
+   "end": 7953
+  },
+  {
+   "fact": "电影 Robot & Frank 的设定：退休窃贼 Frank 收到儿子送的服务机器人，却用它入室行窃",
+   "anchor": "Frank is a retired burglar who is not doing well—physically and mentally—in his retirement",
+   "start": 24277,
+   "end": 24367
+  },
+  {
+   "fact": "2023 年 4 月亚利桑那母亲 Jennifer DeStefano 接到 AI 模仿女儿声音的绑架勒索电话，实为骗局",
+   "anchor": "It turned out that the daughter’s voice was AI-generated. It was so real that it fooled the mother",
+   "start": 27326,
+   "end": 27424
+  },
+  {
+   "fact": "1992 年 Stella Liebeck 被麦当劳热咖啡烫伤后起诉，陪审团判给她惩罚性赔偿",
+   "anchor": "On February 27, 1992, a 79-year-old woman named Stella Liebeck purchased hot coffee from a McDonald’s restaurant",
+   "start": 31074,
+   "end": 31186
+  },
+  {
+   "fact": "作者 2023 年提出 AI 发展三精神：一致性（conformity）、咨询（consultation）、协作（collaboration）",
+   "anchor": "sometime in 2023, I came up with three ethos of AI development: conformity, consultation, and collaboration",
+   "start": 44929,
+   "end": 45036
+  }
+ ]
+}
