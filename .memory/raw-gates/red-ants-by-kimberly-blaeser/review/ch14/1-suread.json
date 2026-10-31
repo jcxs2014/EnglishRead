@@ -1,0 +1,55 @@
+{
+  "book": "red-ants-by-kimberly-blaeser",
+  "chapter": "ch14",
+  "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch14_the_elements.txt",
+  "facts": [
+    {
+      "fact": "闹鬼之地是卢顿酒店（Luton Hotel），叙述者对它最熟悉；如今只剩倾斜的残壳，楼址下面是一个大坑。",
+      "anchor": "the one I know best is the Luton Hotel. The shell of the old hotel leans like a forlorn lover.",
+      "start": 38,
+      "end": 132
+    },
+    {
+      "fact": "Redbird 叔叔抱怨酒店“给好色之徒的房间多于给病人的”：医院只有 20 张床，Luton 却有 35 张。",
+      "anchor": "“More rooms for the lecherous than for the sickly,” Uncle Redbird would grumble. The hospital had only twenty beds; the Luton, thirty-five.",
+      "start": 733,
+      "end": 872
+    },
+    {
+      "fact": "三层高的酒店白色护墙板楼身坐在石块加灰浆的地基上，Redbird 把这些石头叫作 Slave rocks（奴隶石）。",
+      "anchor": "Three stories high, the hotel’s white clapboard torso sat on a stone and mortar foundation. Slave rocks, Redbird called them.",
+      "start": 1259,
+      "end": 1384
+    },
+    {
+      "fact": "传闻酒店主雇流浪汉采石：5 个人开工，到发薪日只剩 3 人。",
+      "anchor": "Five men started the job, only three remained on payday.",
+      "start": 1633,
+      "end": 1689
+    },
+    {
+      "fact": "石头离开原生之地后会哭泣；起初它造成的积水被归咎于排水不良。",
+      "anchor": "Away from their natural home, the rocks wept. At first, the flooding they caused was attributed to poor drainage.",
+      "start": 2964,
+      "end": 3077
+    },
+    {
+      "fact": "祖父石（the Grandfathers）最终烧毁了酒店；许多人怀疑是 Redbird，或叙述者“我”——两人互为不在场证明。",
+      "anchor": "THE GRANDFATHERS BURNED the building finally. I know many think it was Redbird. Or me. Because I was his alibi and he mine.",
+      "start": 3990,
+      "end": 4113
+    },
+    {
+      "fact": "Redbird 已去世，给“我”留下他的河畔小屋、汗屋和工具，撬棍还在等待。",
+      "anchor": "Redbird is gone. He left me his river shack, his sweat lodge, his tools. The crowbar waits.",
+      "start": 5111,
+      "end": 5202
+    },
+    {
+      "fact": "结尾叙述者用长满老茧的手指数“所有被移走之物”（all of the removals）。",
+      "anchor": "On my calloused fingers I count all of the removals.",
+      "start": 5403,
+      "end": 5455
+    }
+  ]
+}

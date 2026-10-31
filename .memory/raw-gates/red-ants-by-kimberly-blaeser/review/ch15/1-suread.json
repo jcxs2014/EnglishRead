@@ -1,0 +1,55 @@
+{
+ "book": "red-ants-by-kimberly-blaeser",
+ "chapter": "ch15",
+ "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch15_the_broken_year.txt",
+ "facts": [
+  {
+   "fact": "这一年连着四件大事：缝纫厂倒闭、父亲摔伤、航空公司罢工、一批 AIM 访客到来，玛迪觉得像一期漫长的《人物》杂志。",
+   "anchor": "The entire year—the sewing factory closing, her dad’s fall, the airline strike, and a covey of AIM visitors—seemed like one long issue of People magazine.",
+   "start": 40,
+   "end": 194
+  },
+  {
+   "fact": "她 82 岁的父亲摔下地下室楼梯，他自己形容为“靴子翻过脑袋”（boots over noggin），伤处是骨盆（broken pelvis），此后靠助行器、再到拐杖慢慢重新学走路。",
+   "anchor": "her eighty-two-year-old dad tumbled down the basement stairs—“boots over noggin,” as he described it",
+   "start": 3032,
+   "end": 3132
+  },
+  {
+   "fact": "送父亲去双城看专科医生时，父亲拒绝飞行，说“该死，玛迪，我不能越过纠察线”（航空公司正罢工）；她于是放弃一个半小时车程去 Hector 机场的方案，改开五个半小时夜车直奔明尼阿波利斯–圣保罗。",
+   "anchor": "“Dammit to hell, Maddy. I can’t cross the picket line.”",
+   "start": 6666,
+   "end": 6721
+  },
+  {
+   "fact": "缝纫厂最后一个工作日，最后的拥抱时她的工友（niijikwe）Eileen 说“以后咱们只能用烟雾信号联系了”，两人又哭又笑。",
+   "anchor": "On their last workday, during the last hug, her niijikwe Eileen said, “We’ll have to use smoke signals now,”",
+   "start": 4858,
+   "end": 4966
+  },
+  {
+   "fact": "为求父亲痊愈，她穿梭于各种信仰场所——火堆圈、小教堂、汗屋——给每个小灵送礼，自称“神的荡妇”（a god whore），像玩 blackout bingo 一样狂涂。",
+   "anchor": "She was a god whore. She had entered fire circles, chapels, and sweat lodges.",
+   "start": 14327,
+   "end": 14404
+  },
+  {
+   "fact": "圣灰星期三她不知道那天要领圣灰，礼仪中手忙脚乱，害得优雅的 Reilly 神父把圣灰撒翻，她的额头、鼻子、下巴和胸口全被画上灰。",
+   "anchor": "She fumbled her part in the simple ritual badly and caused graceful Father Reilly to spill ashes. She ended up marked on her forehead, her nose, her chin, and her chest.",
+   "start": 34146,
+   "end": 34315
+  },
+  {
+   "fact": "汗屋由 Chibenashi（Little Big Bird）主持——他是老同学的表亲，从 Horse Lake 来访，而非大家预想中一贯主持仪式的老人们。",
+   "anchor": "He was the cousin of an old schoolmate and had come from Horse Lake for a visit. Chibenashi, Little Big Bird.",
+   "start": 30187,
+   "end": 30296
+  },
+  {
+   "fact": "结尾：她与 Eileen 加入 Chibenashi 一起写《Rez Resistance》通讯，父亲主动提出步行去投递——穿的是她至少补过两次的袜子（她曾把 Chibenashi 那句“让每一步成为祈祷”绣在他的两只袜子上，各绣一半）。",
+   "anchor": "She and Eileen had joined Chibenashi in writing a Rez Resistance newsletter. Her dad had offered to deliver it—by foot, in the special socks she had darned at least twice so far.",
+   "start": 42424,
+   "end": 42602
+  }
+ ]
+}

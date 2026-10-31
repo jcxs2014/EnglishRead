@@ -1,0 +1,55 @@
+{
+  "book": "red-ants-by-kimberly-blaeser",
+  "chapter": "ch17",
+  "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch17_vision_confidence_score.txt",
+  "facts": [
+    {
+      "fact": "叙述者真名不是 Winona 而是 Dell；'Winona' 是绰号、是对她原住民身份的简称，只有她 bureau（联邦机构）生涯里唯一一次越轨的对象——如今失踪、多半已死的男友 Rusty——这样叫她。",
+      "anchor": "You see, my name isn’t Winona—it’s Dell. Winona’s a nickname, used only by my single bureau indiscretion, my now missing—most likely dead—boyfriend Rusty. A shorthand reference to my Native identity.",
+      "start": 2540,
+      "end": 2739
+    },
+    {
+      "fact": "2014 年，Claude 在汉堡（Hamburg）首次出现：半张脸藏在眼镜和兜帽下的黑客；叙述者则是奉政府的正式命令而来——假扮黑客，对混沌计算机俱乐部（Chaos Computer Club）进行监视。",
+      "anchor": "Just a dark shadow cast across a world of code, Claude showed up first in Hamburg in 2014. Another hacker body bent over his PC, fingers melded to keys. Even then his face was half hidden by glasses and hood. His monosyllables—hey, check it out, ciao—revealed little more, but his fierce eyes branded me.\n\n\nI came on an official government dare—to become a fake hacker and run surveillance on Chaos Computer Club.",
+      "start": 275,
+      "end": 688
+    },
+    {
+      "fact": "失踪的男友 Rusty 并没有死：他'做了一点小手术'——换了新脸、微调了声带——因为'死亡是我们这一行唯一的真正退出'；这个戴兜帽的白帽黑客就是他，Rusty 变成了 Claude。",
+      "anchor": "I had a little work done. New face. Tweak to the voice box. You know death is the only true exit from our job. Now you’re in, I’m out. Perfect setup, don’t you think?”\n\n\nI stared. Couldn’t catch up. This, this hooded, sable-eyed—yeah, okay, sexy-voiced and presumably white-hat hacker—was my Rusty?",
+      "start": 4629,
+      "end": 4927
+    },
+    {
+      "fact": "两人的目标：让算法过载——用'眼睛、眼睛、眼睛'（大量生成面孔/超级面孔）转移人脸识别软件的注视。",
+      "anchor": "The goal now is to overload the algorithm. With eyes, eyes, eyes. To divert the gaze of facial recognition software.",
+      "start": 7342,
+      "end": 7458
+    },
+    {
+      "fact": "父亲在她小时候（文中称'第一次'）从家中被带走：长长的灰发从辫子里散出，他回头越过肩膀寻找家人，她看着他的恐惧变成绝望；随后一周，他悲伤的眼睛出现在村里商店的每一份报纸上。",
+      "anchor": "They forgot the first time, too, when my dad was taken from our house. His long grey hair spilling from the strands of his braid, he turned his face back to find us over his shoulder. I saw his fear become hopelessness. For a week his sad eyes stared at me from every newspaper in the village store.",
+      "start": 16676,
+      "end": 16975
+    },
+    {
+      "fact": "Water First 活动者来到宾夕法尼亚大道游行，标语横幅拼出的抵抗口号是：MAKE WATER SAFE AGAIN! / PACK UP THE PIPELINES. / DEFEND THE SACRED. / KEEP IT IN THE GROUND. / WATER IS LIFE.",
+      "anchor": "Water First activists have come to Pennsylvania Avenue chanting for change, our signs and banners spelling out resistance: MAKE WATER SAFE AGAIN! PACK UP THE PIPELINES. DEFEND THE SACRED. KEEP IT IN THE GROUND. WATER IS LIFE.",
+      "start": 14237,
+      "end": 14462
+    },
+    {
+      "fact": "游行途中，她开始在他们沿路设置的视频屏幕上（本应以成千上万只眼睛干扰监控）看到 Claude 的影像：他跪着说 'Please.'，又说 'Please no, no more.'",
+      "anchor": "Then I start seeing Claude on the video screens we’ve posted along the route. Screens meant to confound with more eyes eyes eyes—eyes watching, moving across the thousands of gas-filled cells and refusing to be captured. But I see Claude images. Claude kneeling, saying, “Please.” Saying, “Please no, no more.",
+      "start": 15941,
+      "end": 16250
+    },
+    {
+      "fact": "结尾回到父亲的眼睛：她一直知道自己会再见到它们——'它们说：Please。也许最后所有的眼睛在最后都这样说。'",
+      "anchor": "I always knew I would see them again. They said, Please. Or maybe all the eyes say that at the end.",
+      "start": 17031,
+      "end": 17130
+    }
+  ]
+}

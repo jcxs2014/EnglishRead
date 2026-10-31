@@ -1,0 +1,55 @@
+{
+  "book": "red-ants-by-kimberly-blaeser",
+  "chapter": "ch16",
+  "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch16_like_some_old_story.txt",
+  "facts": [
+    {
+      "fact": "老人讲述当年他们从草莓山（Strawberry Mountain）高处猎得一头鹿，剥皮、宰割后一路背回双子湖（Twin Lakes）。",
+      "anchor": "We got that deer way up by Strawberry Mountain, skinned it, butchered it, and packed it out, all the way back to Twin Lakes.",
+      "start": 113,
+      "end": 237
+    },
+    {
+      "fact": "如今两人常这样一起准备打猎：故事间隙一起擦枪上油、磨刀，老人会从厨房橱柜里取出一盒新子弹。",
+      "anchor": "Between stories, we clean and oil the guns, sharpen the knives. He brings out a new box of shells from the kitchen cabinet.",
+      "start": 972,
+      "end": 1095
+    },
+    {
+      "fact": "第二节：男孩们打猎归来神情古怪、异常安静，没有打闹，只默默烧水清洗，把口袋里的备用子弹和随身带的火柴梗全部倒空。",
+      "anchor": "The boys came in looking kind of funny. Awfully quiet, too. No teasing. Just set themselves to cleaning up. Boiling water to wash, emptying their pockets of spare shells and the matchsticks they always carried.",
+      "start": 2820,
+      "end": 3030
+    },
+    {
+      "fact": "男孩们遇到的是传说中的半人半鹿精灵（man-deer spirit），据说在坟墓被惊动时现身，大约每四十年出现一次。",
+      "anchor": "It was that man-deer spirit that’s said to appear when them graves have been disturbed. Happens every forty years or so.",
+      "start": 3296,
+      "end": 3416
+    },
+    {
+      "fact": "第三节家族故事的底细：女人们施计报复——次日她们争相讲述如何把丈夫们骗去猎那个混血女人 Sarah Goes Lightning（她是苏族人，带着五个孩子），当年从树下被偷走的两头鹿正是出自她们之手。",
+      "anchor": "Next day the women couldn’t tell it enough, how they tricked their husbands into hunting for that half-blood woman Sarah Goes Lightning. She was a Sioux, you know, and had those five kids.",
+      "start": 6493,
+      "end": 6681
+    },
+    {
+      "fact": "第四节：老人在约定地点等候，见面时举起一根棍子，棍上挂着一颗被刺穿的鹿心。",
+      "anchor": "He holds up his stick when we get out and lifts his head toward what’s hanging on it—a deer heart pierced through.",
+      "start": 7842,
+      "end": 7956
+    },
+    {
+      "fact": "黄鼠狼的真相：是一只小黄鼠狼钻出来想偷走棍子上的鹿心，它又气又不肯放弃自己的晚餐，老人最后切了它一小块。",
+      "anchor": "It was a little weasel. Come out and tried to steal that heart right off the stick. You know how them little buggers are. Tough. Sure was mad at me, and didn’t want to give up his supper. So I cut him a little piece.",
+      "start": 8587,
+      "end": 8803
+    },
+    {
+      "fact": "结尾：叙述者压低声音说『去打猎』（Going hunting），像某则老故事的最后一行，仿佛有人在等着应一声 Aho。",
+      "anchor": "Going hunting,” I say, dropping my voice like it’s the last line in some old story—like someone is going to answer, Aho.",
+      "start": 10430,
+      "end": 10550
+    }
+  ]
+}

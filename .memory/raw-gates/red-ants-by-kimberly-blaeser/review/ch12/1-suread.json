@@ -1,0 +1,55 @@
+{
+  "book": "red-ants-by-kimberly-blaeser",
+  "chapter": "ch12",
+  "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch12_leaving_paradise.txt",
+  "facts": [
+    {
+      "fact": "叙述者和表兄弟们住在奶奶（Nookomis）家；父母开别克车带商店买的饼干出现、许诺新工作和校服，然后趁孩子们睡着时离开，孩子们是被遗弃在奶奶家的。",
+      "anchor": "We have parents who appear in Buicks with store-bought cookies, make promises about new jobs and school clothes, then leave while we’re sleeping.",
+      "start": 3330,
+      "end": 3475
+    },
+    {
+      "fact": "Bean 是叙述者 Uncle Walleye 的女儿，十一岁（她有时自称“十一百”）；她平时照顾叙述者，给她的头发编辫子。",
+      "anchor": "Bean’s my Uncle Walleye’s daughter. She’s eleven, or eleven hundred, as she sometimes says.",
+      "start": 1462,
+      "end": 1553
+    },
+    {
+      "fact": "六月叙述者快六岁时，渔猎监督员 Matt Brune 上门，要 Uncle Russell 把那几个男孩找出来交进去，并限定 24 小时，否则他自己来办。",
+      "anchor": "Twenty-four hours or I do it myself, Russell. Your choice. Either way, it’s gonna go down.",
+      "start": 10216,
+      "end": 10306
+    },
+    {
+      "fact": "两个少女前来——一个骑车、一个拉着装有小孩、猎枪和纸袋的红色 wagon；拉车少女把染红的纸袋倒空、揉成一团扔向马路对面的树林，随后开始哭泣。",
+      "anchor": "She emptied the bag, which was stained red, crumpled it up, and threw that toward the woods on the other side of the road.",
+      "start": 13272,
+      "end": 13394
+    },
+    {
+      "fact": "奶奶夜里讲出原委：表兄们做了什么、奶奶如何策划营救、Uncle Russell 的牺牲若被接受就能救他们；正如她所料，Brune 回来拉走了 Russell 的采米独木舟。",
+      "anchor": "What my beloved boy cousins did, how my grandma engineered their rescue, and how my Uncle Russell’s sacrifice could save them if he let it. And just like she knew would happen, just like she tole me that night, Warden Brune came back, loaded up my Uncle Russell’s ricing canoe, and left.",
+      "start": 17314,
+      "end": 17601
+    },
+    {
+      "fact": "第二天 Simonson 兄弟上门，趁叙述者在轮胎秋千上时把独木舟还了回来，笑称“没人要这条破旧的 jiimaan”，这让奶奶也意外落泪。",
+      "anchor": "the Simonson brothers showed up and returned the canoe while I was on the tire swing",
+      "start": 17618,
+      "end": 17702
+    },
+    {
+      "fact": "Nettle 和 James 被警长巡逻车送回；Uncle Russell 从牛仔裤口袋里掏出为罚款凑好的一叠钞票，一言不发地递给 Brune。",
+      "anchor": "Uncle dug in his jeans pocket, brought out the stack of bills he’d collected for the fine, passed it without a word to Brune.",
+      "start": 19338,
+      "end": 19463
+    },
+    {
+      "fact": "结尾议论：猎季外打猎又躲藏本可能被送走；印第安男孩没资格当男孩，他们很小就被打上标记。",
+      "anchor": "Indian boys don’t get to be boys. They get marked young.",
+      "start": 19892,
+      "end": 19948
+    }
+  ]
+}
