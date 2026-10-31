@@ -1,0 +1,83 @@
+{
+  "chapter": "ch48",
+  "pov": "第三人称（Caleb 凯莱布视角）＋现在时叙述",
+  "facts": [
+    {
+      "event": "星期三成了凯莱布一周里最喜欢的一天：这天他去珍宁·马修斯的办公室，帮她做她所谓的“枯燥工作”。",
+      "who": "he (Caleb)",
+      "receivers": "Jeanine Matthews’s office",
+      "start": 41,
+      "end": 232,
+      "text": "It’s Wednesday, which has quickly become Caleb’s favorite day of the week. Wednesday is the day that he goes to Jeanine Matthews’s office to assist with what she likes to call “tedious work.”"
+    },
+    {
+      "event": "凯莱布向珍宁坦白：他一直瞒着一件母亲要他做的事，但他没有做；他承认本该早点告诉她母亲要求了什么。",
+      "who": "Caleb",
+      "receivers": "you (Jeanine)",
+      "start": 2558,
+      "end": 2745,
+      "text": "“I’ve been keeping something from you,” Caleb says. “Something my mother asked me to do— I didn’t do it!” He hastens to add the last part. “But I should have told you what she asked for.”"
+    },
+    {
+      "event": "凯莱布说，母亲要他把过去几年的倾向测试结果与博学派转派人数作比较；他不知道原因，消息是妹妹转达的。",
+      "who": "Caleb",
+      "receivers": "the aptitude test results / the number of Erudite faction transfers",
+      "start": 2867,
+      "end": 3063,
+      "text": "“She asked me to compare the aptitude test results from the past few years to the number of Erudite faction transfers,” Caleb says. “I don’t know why. She delivered the message through my sister.”"
+    },
+    {
+      "event": "珍宁说，对外而言娜塔莉·普莱尔是完美的阿布尼格申妻子与母亲，但她利用自己作为议员妻子的身份去影响别人。",
+      "who": "Jeanine",
+      "receivers": "Natalie Prior / other people",
+      "start": 5023,
+      "end": 5209,
+      "text": "“To the world, Natalie Prior presents the image of the perfect Abnegation wife and mother,” Jeanine says. “But she uses her position as a council member’s wife to influence other people."
+    },
+    {
+      "event": "珍宁说娜塔莉还参与掩盖阿布尼格申流出的最令人不安的报告——关于记忆库的那些，并问凯莱布有没有看过。",
+      "who": "Jeanine",
+      "receivers": "the reports / him (Caleb)",
+      "start": 5747,
+      "end": 5948,
+      "text": "“She has also been complicit in covering up the most troubling reports that have surfaced from Abnegation,” Jeanine says, still in that grave tone. “About the Memory Vault. Have you seen any of those?”"
+    },
+    {
+      "event": "珍宁推论：若他们的记忆库有储存记忆的能力，它就必然还有其他功能；在开始听到“记忆出现空白”的报告之前，他们不确定那些功能是什么，但现在她清楚记忆库被设计来做什么。",
+      "who": "she (Jeanine)",
+      "receivers": "their Memory Vault",
+      "start": 6556,
+      "end": 6842,
+      "text": "So if their Memory Vault has the capacity to store a memory,” she says, “it must have other functions, Caleb. Until we started hearing reports of memory gaps, we weren’t sure exactly what those functions could be. But it seems clear to me, now, what the Memory Vault is designed to do.”"
+    },
+    {
+      "event": "珍宁要凯莱布设想：若他在人生里经历一场重大苦难——失去、创伤或不可能完成的挑战——而她把这段苦难从他的记忆里抹掉，会怎样；他仍会感觉到它，却不知道那感觉附着在什么上。",
+      "who": "Jeanine",
+      "receivers": "him (Caleb) / his memory",
+      "start": 6922,
+      "end": 7202,
+      "text": "“Imagine, if you will, that you endure a great hardship in your life. A loss, or a trauma, or an impossible challenge,” Jeanine says. “Imagine what would happen if I erased it from your memory. You would still feel it, but you would have no idea what that feeling was attached to."
+    },
+    {
+      "event": "珍宁断言阿布尼格申比他们能想象的更强大：能控制人知道或不知道什么，就是控制思想、控制身份、控制一切。",
+      "who": "Jeanine",
+      "receivers": "people / minds / identities",
+      "start": 8505,
+      "end": 8729,
+      "text": "“Abnegation is more powerful than we could ever imagine,” Jeanine says. “The ability to control what information people know or don’t know is the ability to control minds. To control identities. To control . . . everything.”"
+    }
+  ],
+  "relations": [
+    "凯莱布是阿布尼格申出身、转投博学派的转派者，母亲娜塔莉·普莱尔要他刺探倾向测试与转派数据；妹妹特丽丝是他与母亲之间的传话人。",
+    "珍宁·马修斯是博学派领袖，对凯莱布格外优待（课后在书房喝茶、答疑、推荐读物），并借此把他拉近自己。",
+    "娜塔莉·普莱尔表面是完美的阿布尼格申妻子与母亲，实际上按珍宁的判断在利用议员妻子的身份影响他人、并掩盖记忆库相关报告。",
+    "马库斯·伊顿（阿布尼格申议员）未在本章出场，但“council member’s wife”一句把他与娜塔莉的关系写进了背景。",
+    "卡拉（Cara）是珍宁手下负责新式便携信号中继器的技术人员，凯莱布当天旁听了这场汇报。"
+  ],
+  "numbers": [
+    "Wednesday（每周三去珍宁办公室：It’s Wednesday, which has quickly become Caleb’s favorite day of the week.）",
+    "ten minutes（她花十分钟更新对一组脑扫描的观察：then spend ten minutes updating her observations about a set of brain scans）",
+    "every month（各派系被随机选中的人每月去记忆库汇报：report to the Memory Vault every month to share their recollections）",
+    "past few years（母亲要他比较过去几年的倾向测试结果：the aptitude test results from the past few years）"
+  ]
+}
