@@ -166,7 +166,7 @@ modified: "2026-11-01"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| tautology | 同义反复 | 本章多条 "what's…" 笑话的机制 |
+| slippery | 滑的 | What’s a foot long and slippery? A slipper. |
 | tartan | 苏格兰格子呢 | What’s white and wears tartan trousers? |
 | vowel | 元音 | you end up making a huge vowel movement. |
 | constipated | 便秘的 | How did the constipated mathematician solve his problem? |

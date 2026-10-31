@@ -177,7 +177,7 @@ modified: "2026-11-01"
 |---|---|---|
 | tip of the iceberg | 冰山一角 | this is the tip of the iceberg. |
 | whatever | 任何（用于否定强调） | this book doesn’t contain any – nun whatsoever. |
-| go forth | 向前去，出发 | So, go forth … and joke! |
+| go forth | 向前去，出发 | So, go forth (or, if there aren’t three people trying to go before you, just go first) and joke! |
 | eye-roll | 翻白眼 | eye-rolls and reluctant grins |
 
 ### ⭐ 常用

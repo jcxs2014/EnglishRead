@@ -25,13 +25,13 @@ modified: "2026-11-01"
   | 骷髅不打架，因为没有 guts | 双关 | guts＝内脏／胆量，同时命中"没有身体"的设定 |
   | 骷髅不去派对，因为没有 body to go with | 双关 | body＝身体／同伴，把"没人陪"和"没有身体"合成一句 |
   | 住了四百年没见过鬼 | 视角 | 叙述者本人就是鬼，恐怖被降级成日常抱怨 |
-  | neck-romancer ← necromancer | 谐音 | 吸血鬼的进食部位被浪漫化 |
-  | spooktacles ← spectacles | 混成词 | 只换词头，恐怖就变成日用品 |
-  | a ghoul's best friend ← a girl's best friend | 仿写 | 用现成习语承载 ghoul／girl |
+  | neck-romancer（改写 necromancer） | 谐音 | 吸血鬼的进食部位被浪漫化 |
+  | spooktacles（改写 spectacles） | 混成词 | 只换词头，恐怖就变成日用品 |
+  | a ghoul's best friend（仿 a girl's best friend） | 仿写 | 用现成习语承载 ghoul／girl |
   | noooooooooooooooow | 排版 | 狼嚎不靠文字，靠把 now 拉长 |
-  | poultrygeist ← poltergeist | 混成词 | 家禽＋骚灵，两个词各让一步 |
-  | Tomb it may concern ← To whom it may concern | 谐音 | 正式书信格式被坟墓替换 |
-  | reaper cushions ← repercussions | 谐音 | 死神的靠垫＝后果 |
+  | poultrygeist（改写 poltergeist） | 混成词 | 家禽＋骚灵，两个词各让一步 |
+  | Tomb it may concern（改写 To whom it may concern） | 谐音 | 正式书信格式被坟墓替换 |
+  | reaper cushions（谐 repercussions） | 谐音 | 死神的靠垫＝后果 |
   | 蝙蝠撞上路灯柱，却问同伴"看见了吗" | 叙事反转 | 长故事的笑点在"血从哪来"，不在怪物 |
 
 - **论证脉络**：条目顺序基本按怪物分组：骷髅（2）→ 鬼屋（1）→ 鬼（听力、眼镜、谎言）→ 德古拉（2）→ 僵尸（2）→ 狼人（2）→ 女巫 → 综合（木乃伊、食人魔、死神、科学怪人）。每组内部先给一条"身体缺失"的，再给一条"谐音"的，节奏单调到几乎可以预测。最后一条长故事突然改变语速，像给读者一个出口。
@@ -164,3 +164,35 @@ modified: "2026-11-01"
 
 **为什么这样写**：作为压轴，它证明本章的"烂"不只来自谐音，也来自讲故事的手艺——一个没有怪物的怪物笑话，笑点在"它连路灯柱都没看见"。
 
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| possession | 附身，占有 | The Devil has been arrested. They got him on possession. |
+| unconvincing | 不可信的 | Why are ghosts such unconvincing liars? |
+| painstaking | 费力的 | Sure, it sounds easy, but the process is painstaking. |
+| exorcise | 驱邪 | Eat a balanced diet and exorcise a lot. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| unwind | 放松 | Why don’t mummies take time off? They’re afraid to unwind. |
+| honeymoon | 蜜月 | What do you call two spiders on their honeymoon? |
+| cannibal | 食人族，食人者 | What’s a cannibal’s favourite game? |
+| escalators | 自动扶梯 | Why do ghosts like going up escalators? |
+
+### ⭐ 常用
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| guts | 内脏；胆量 | They don’t have the guts. |
+| spirits | 情绪 | It lifts their spirits. |
+| rotten | 腐烂的；糟糕的 | He felt rotten! |
+| enormous | 巨大的 | What’s enormous, terrifying and has three wheels? |
+
+## 一句话总结
+
+恐怖笑话的对象不是怪物，而是怪物身上"缺掉的那部分"：没有内脏所以没有胆量，没有身体所以没人陪，血从哪来——它连路灯柱都没看见。

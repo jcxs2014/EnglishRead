@@ -171,7 +171,7 @@ modified: "2026-11-01"
 | neutron | 中子 | A neutron goes into a bar and orders a drink. |
 | photon | 光子 | ‘No,’ says the photon, ‘I’m travelling light.’ |
 | binary | 二进制 | those that understand binary and those that don’t |
-| superposition | 叠加态（正文以 dead and alive 表达） | is now wanted dead and alive |
+| dead and alive | 半死不活（薛定谔式表述） | is now wanted dead and alive |
 
 ### ⭐⭐ 进阶
 
