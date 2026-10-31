@@ -1,0 +1,43 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch03_three.txt",
+ "facts": [
+  {
+   "fact": "叙述者\"我\"与霍华德太太回到霍华德宅，霍华德太太亲自把\"我\"送回伊菲革涅亚·马歇尔（Ginny）的房间；因走得仓促，衣柜抽屉被拉开、梳妆台上的瓶子翻倒，房间带着被洗劫过的样子。",
+   "anchor": "We returned to Howard House, and Mrs. Howard escorted me herself back to Iphigenia Marshall’s room.",
+   "start": 24,
+   "end": 123
+  },
+  {
+   "fact": "\"我\"想扯下脸上的东西逃走，霍华德太太掀起裙摆、用瘦骨嶙峋的膝盖顶住\"我\"的大腿，抓着\"我\"的头发用小剪刀沿发际线把那张别人的脸整圈剪下；最后\"我\"推开她，缝线撕裂、脖颈渗血，她抓起梳妆台上的布按住伤口，骂\"我\"是荒唐东西并让\"我\"按住直到血止。",
+   "anchor": "put one bony knee into my thigh, I might have fled, tearing it off my skin.",
+   "start": 720,
+   "end": 795
+  },
+  {
+   "fact": "\"我\"醒悟那张脸不是意大利匠人用薄如皮肤的瓷做的工艺品、也不是皮革或纸，而是\"养\"出来的——戴它的女孩在刀、切口与血之前本就美丽；此前霍华德太太已把剪下的面具折成三折放回皮盒，怅然说\"She really was so very beautiful\"。",
+   "anchor": "was not made, but grown, and the girl who had worn it had been beautiful before the knife",
+   "start": 2526,
+   "end": 2615
+  },
+  {
+   "fact": "霍华德太太替\"我\"褪下礼服——扣子解开前\"我\"没意识到它重得吓人、箍得多紧；脱下它像挣出一副大而开裂的壳，\"我\"轻了几年却也没了盔甲；随后\"我\"踢掉鞋、抖掉发针，把散成波浪的长发气恼地重新挽起。",
+   "anchor": "The weight that had been distributed with such grace from my shoulders and my hips felt like some great cracked shell",
+   "start": 3126,
+   "end": 3243
+  },
+  {
+   "fact": "\"我\"宣告\"我要走了\"，霍华德太太当作没听见、只说\"我\"不可能不饿，开门端上黄油抹匀再煎的幼鹌鹑、厚得能立勺的牛肉冻，还有最初惹祸的红樱桃；\"我\"饿得像举玻璃杯般端碗灌下肉冻、差点舔碗；她满足地称\"我\"是\"小野兽\"，说\"睡吧，明天再谈\"，门\"咔哒\"一声合上。",
+   "anchor": "It was young quail rubbed in butter and then fried, a beef aspic so thick you could stand a spoon in it",
+   "start": 4409,
+   "end": 4512
+  },
+  {
+   "fact": "门已上锁，\"我\"穿衬裙光脚捶门、拧把手、踢门，发疯嘶喊到浑身酸痛也无人来救；随后冲到窗前推开百叶，海上来的飓风正面砸下，冻雨把\"我\"从头顶浇到膝盖，狂风把\"我\"掀得倒退数步、抓着椅背才站稳；\"我\"想到洪水会淹死几十人、让四五倍的人无家可归但好过大火，室友们将睡在带烟味的干草里；风歇后\"我\"重新闩上窗，爬进被角已为\"我\"翻开的床。",
+   "anchor": "My strings cut, I latched the window again, and I crawled into the bed where the counterpane had been turned down just for me.",
+   "start": 7896,
+   "end": 8022
+  }
+ ]
+}

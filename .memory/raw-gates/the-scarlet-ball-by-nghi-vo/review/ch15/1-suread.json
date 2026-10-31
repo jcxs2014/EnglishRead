@@ -1,0 +1,49 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch15",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch15_fifteen.txt",
+ "facts": [
+  {
+   "fact": "开篇交代：缝纫女工凯蒂不会回家了，也无人需要被通知——她曾深夜在店里轻描淡写说过自己有个在西部的哥哥、一个她受不了的波士顿母亲（母亲自称养了她十四年该得点回报）；叙述者由此认清自己虽穿得吃得比凯蒂好，同样可有可无、会被轻易遗忘。",
+   "anchor": "She’d spoken of it dismissively late at night in the shop, a brother out West, a mother she couldn’t stand in Boston.",
+   "start": 167,
+   "end": 284
+  },
+  {
+   "fact": "上流社交圈不为战争、火灾、饥荒停下，也不为奥蒂尔·德莱登的失踪停下：对外放出的说法是她去卡彭斯普林斯\"疗养\"，她留在纽约的痕迹只剩德莱登太太红肿的眼睛和一件锁进老收藏家藏品的袖珍画像。",
+   "anchor": "It didn’t even stop for the disappearance of Odile Dryden, who they gave out had gone to take the cure in Capon Springs.",
+   "start": 1594,
+   "end": 1714
+  },
+  {
+   "fact": "塞巴斯蒂安的信每天寄到霍华德家、有时一天三四封（落款 Ninth Avenue 的 Sebastian Rowe），叙述者一概不看，铁了心把它们喂进自己房间的壁炉，捏得离火太近燎到了指尖；米耶尔在她身后注视，虽未听她细说 Herons 之事却多半能猜出其余。",
+   "anchor": "I grimly fed his letters into the hearth in my room, holding them so close to the flame that my fingertips singed.",
+   "start": 4481,
+   "end": 4595
+  },
+  {
+   "fact": "族长舞会请柬寄到霍华德家、直接交进霍华德太太手中；米耶尔给叙述者改白色亮片缎礼服时提出后身与两侧要收，霍华德太太搬出祖辈的板油食谱相威胁、实际给她加肉加浓汤甜点，舞会当晚她撑起白缎礼服随霍华德家抵达 Delmonico's。",
+   "anchor": "the invitations for the Patriarch’s Ball were released and one arrived at Howard House for us, delivered directly to Mrs. Howard’s hand.",
+   "start": 6000,
+   "end": 6136
+  },
+  {
+   "fact": "舞会上叙述者在窗边看花时听到轻敲声，拉帘发现是塞巴斯蒂安站在结冰的阳台玻璃门外——她打听过当晚宾客名单、他并不在列，属不请自来；他隔着玻璃示意\"让我进，否则我自己进来\"，叙述者开闩放行，他进屋后只抖掉发上的水珠。",
+   "anchor": "I moved the curtain to look, and of course it was Sebastian.",
+   "start": 11832,
+   "end": 11892
+  },
+  {
+   "fact": "面对质问塞巴斯蒂安缓缓点头，承认当时确实要吃掉她、那是他\"在全世界最想做的事\"，并否认拉丹（laudanum）之事是他所为；他说起初见：她走出霍华德家门抬头、走得仿佛什么都拦不住、差点砍中一只着火的狗，\"从一开始就是你\"；叙述者最终附耳命他不许同她说话、不许碰她、猩红舞会前不得再见，他躬身退下。",
+   "anchor": "He nodded slowly. “Of course I was. It is what I want to do most in all the world.”",
+   "start": 15364,
+   "end": 15447
+  },
+  {
+   "fact": "章末叙述者看清：她曾存一丝指望借玛莎干净脱身——改名换脸西逃、或南逃融进新奥尔良或亚特兰大——但这条路在罗斯舞会后已关闭，唯一出路是穿过去；此前在女洗手间休息室，玛莎·韦伯斯特自试后请她吸了银瓶里的鼻烟，并点明邀她去 Herons 喂给选中她的恶魔领主是奥蒂尔自己的主意，且罗斯舞会后\"游戏就是我们的了\"。",
+   "anchor": "Now I saw that that route had closed after the Rose Ball, and the only way out was through.",
+   "start": 24838,
+   "end": 24929
+  }
+ ]
+}

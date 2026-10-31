@@ -1,0 +1,55 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch02_two.txt",
+ "facts": [
+  {
+   "fact": "霍华德太太亲手把一件缎面真丝长裙套上\"我\"的头，这裙子的价钱够养活一家六口六个月甚至更久。",
+   "anchor": "Mrs. Howard herself pulled the dress over my head, a rush of satin and silk",
+   "start": 1305,
+   "end": 1380
+  },
+  {
+   "fact": "霍华德先生在镜中打量\"我\"时脸皮快速皱起又复原，露出一口任何人类头骨都容不下的牙齿；他问妻子\"她是给我的吗\"，得到\"她不是\"的回答后被支开，霍华德太太并警告\"我\"他在场时切莫与之独处。",
+   "anchor": "a fast ripple of flesh over unyielding bone, revealing a mouth full of teeth that could never fit in a human skull",
+   "start": 3505,
+   "end": 3619
+  },
+  {
+   "fact": "霍华德太太从腰链上取下弯针穿上粗黑线，再从红色摩洛哥皮匣里抽出一张带眼、鼻、嘴孔洞、口部张大的皮肤面具摊平，随后用丝线给\"我\"缝上了一张连着\"我\"头骨的新脸。",
+   "anchor": "she drew a curved needle from the case off the chatelaine, threading it with coarse black thread",
+   "start": 8852,
+   "end": 8948
+  },
+  {
+   "fact": "赴宴马车上\"我\"意识到自己本是朱迪思·班——在瓦卢瓦夫人店里做工、与另外两个女孩同住马伯里街的勤奋坚决的姑娘——如今脸被换掉、装石头的包也被霍华德太太拿走，但\"我\"的野心未死。",
+   "anchor": "Judith Ban, the industrious determined girl who worked for Madame Valois and lived with two other girls on Mulberry Street",
+   "start": 12226,
+   "end": 12348
+  },
+  {
+   "fact": "晚宴上没有在任何女孩面前摆放食物，而最奇怪的是在座的男人们也一概不吃；\"我\"的席位卡以优雅手迹写着\"伊菲革涅亚·马歇尔小姐\"，霍华德先生自落座起直到端上杏仁烩鸡才叹出第一口气。",
+   "anchor": "The strange thing, the strangest thing, was that none of the men ate either. Not a single one.",
+   "start": 20869,
+   "end": 20963
+  },
+  {
+   "fact": "德朗格太太得意地宣布玩\"兔子兔子\"游戏：兔子见光才能动、在暗处必须静止、扶手椅就是安全的洞穴；她点名叫维奥莱特去守门，维奥莱特呻吟着起身，众人随即听见门外传来饥饿而有利牙之物的低吼。",
+   "anchor": "“We are going to play Rabbit Rabbit,” said Mrs. de Lange in tones of great satisfaction.",
+   "start": 27427,
+   "end": 27515
+  },
+  {
+   "fact": "游戏中黑暗里的东西扑倒了扑向扶手椅的紫水晶女孩——\"我\"瞥见她头被拧转一整圈、鲜血把她的紫水晶染成石榴石色——\"我\"不假思索地纵身跃进扶手椅保住性命，全场灯光恰在此刻亮起。",
+   "anchor": "I got a glimpse of the girl before me, her head twisted all the way around",
+   "start": 32499,
+   "end": 32573
+  },
+  {
+   "fact": "聚会散场，众人改乘雇来的布朗马车而非霍华德家的车离开，同车一个女孩终于忍不住发出尖细的狂叫随车沿街远去；霍华德先生问妻子晚上过得如何，她把玩着他的手指盯着我答：\"比我本该指望的还要好。\"",
+   "anchor": "a for-hire Brown’s carriage this time rather than the Howards’, she lost the battle, and her thin wild cry followed us down the street",
+   "start": 35044,
+   "end": 35178
+  }
+ ]
+}

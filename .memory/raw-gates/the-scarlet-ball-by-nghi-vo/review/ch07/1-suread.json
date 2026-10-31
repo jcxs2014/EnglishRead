@@ -1,0 +1,55 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch07",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch07_seven.txt",
+ "facts": [
+  {
+   "fact": "白球舞会后，霍华德太太命令\"我\"卧床三天，怕脚伤在舞步里落下跛拐；脚踝须绑紧才能行走。",
+   "anchor": "Mrs. Howard ordered me to stay in bed for three days, fearing the damage it might do to my dancing",
+   "start": 445,
+   "end": 543
+  },
+  {
+   "fact": "报上写克莱尔·汉布利病倒、被立即送往马里兰一家疗养院；连同卡尔普尼亚·迈克尔斯、多萝西·古德曼等人的遭遇，开局同来的女孩只剩十三人。",
+   "anchor": "Claire Hambly had been unfortunately struck down by illness and removed immediately to a convalescent home in Maryland.",
+   "start": 2219,
+   "end": 2338
+  },
+  {
+   "fact": "米艾尔转告有个女孩到仆人入口找\"我\"，\"我\"认出是曾在瓦洛伊丝夫人店里同工、起初一起入店的凯蒂·麦克马洪，但摇头没有派人去请她。",
+   "anchor": "That would be Katie McMahon, who worked with me at Madame Valois’s shop.",
+   "start": 2866,
+   "end": 2938
+  },
+  {
+   "fact": "面对休杰特·凯恩斯邀她参加其母莫特街唐人街改良慈善活动的请柬，\"我\"把它揉成紧团扔进火里，赶在霍华德太太看到之前烧成灰。",
+   "anchor": "Decisively, I crumpled the paper into a tight ball and threw it onto the fire.",
+   "start": 11495,
+   "end": 11573
+  },
+  {
+   "fact": "周五在格雷森家的私人舞会上，\"我\"的舞伴把自己 flask 里的酒悄悄倒进给\"我\"的姜汁潘趣；\"我\"随即把杯子放到路过的侍者托盘上。",
+   "anchor": "I put it immediately on the tray of a passing waiter, because I wasn’t stupid.",
+   "start": 23641,
+   "end": 23719
+  },
+  {
+   "fact": "在雕像园最远基座后的丝绒暗处（离门最远、距院墙仅十几英尺），舞伴先摸了\"我\"的脸颊，\"我\"把他拉下来吻他，并主动加深了这个吻。",
+   "anchor": "in the velvet dark I pulled him down for a kiss. He was good at that too",
+   "start": 27000,
+   "end": 27072
+  },
+  {
+   "fact": "\"我\"的舞伴白衬衫中央绽出鲜血，像身体自行裂开，站着死去；一团无形无眼无口、透着饥饿的黑暗之物从他身后升起；\"我\"逃出花园时被玛莎·韦伯斯特一把抱住，得知他叫塞巴斯蒂安·罗。",
+   "anchor": "Red bloomed from the center of his white shirt, not as if he had been stabbed from behind but as if he had simply split.",
+   "start": 28763,
+   "end": 28883
+  },
+  {
+   "fact": "回家后米艾尔在\"我\"闭眼时卸下\"我\"脸上霍华德家的假面，替\"我\"脱衣换上睡衣并松松编辫；\"我\"求她留下，她靠着床头握住\"我\"的手，那一夜\"我\"什么梦也没做。",
+   "anchor": "I stood blind as she removed the Howards’ face from mine, and then as she stripped me down to the skin.",
+   "start": 42016,
+   "end": 42119
+  }
+ ]
+}

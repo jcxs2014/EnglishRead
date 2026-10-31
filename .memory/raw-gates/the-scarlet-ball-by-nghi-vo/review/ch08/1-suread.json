@@ -1,0 +1,55 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch08",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch08_eight.txt",
+ "facts": [
+  {
+   "fact": "去年冬天，女演员 Mrs. John Kerrigan 乘 HMS Corydon 抵美（此前刚在伦敦圣詹姆斯演完 Goneril），开箱发现全部衣物——日装、晚装、戏服乃至睡衣——都被钻出对准心口所在处的破洞，视作对头或旧情人的威胁；她只求立刻修复，于是 Madame Valois 的店里众人连赶三周（夜里睡桌下、自掏腰包付香肠卷钱）把损伤补到后座观众看不出来。",
+   "anchor": "Mrs. John Kerrigan stepped off the HMS Corydon in a magnificently fitted indigo wool traveling dress and heels made of polished mahogany.",
+   "start": 37,
+   "end": 174
+  },
+  {
+   "fact": "修复完成后 Kerrigan 为致谢送全店 Academy of Music 周四夜场戏票；那晚她穿着叙述者补过一条同色丝绒带的毒绿裙登台，观众尖叫不歇终致失控，斗殴从乐队席一路打到顶层画廊，众人堵住本区门苦等，直到近午夜、街上只剩一个头破的汉子呻吟才敢离开。",
+   "anchor": "in thanks, Mrs. Kerrigan sent us all tickets for a Thursday-night performance at the Academy of Music.",
+   "start": 2054,
+   "end": 2156
+  },
+  {
+   "fact": "周五夜叙述者随 Mrs. Howard 赴 Academy of Music 看德国悲剧《特里斯坦与伊索尔德》，由引座员领进 Howard 家包厢；Howard 先生没来（他这外形似野火的男人自寻乐子去了），Howard 夫妇近来失和——没有摔鞋也没有恶言，只有枪响之后（或之前）那种死寂。",
+   "anchor": "We were on our own that night, Mr. Howard off to wherever wildfires that looked like men went to entertain themselves.",
+   "start": 4348,
+   "end": 4466
+  },
+  {
+   "fact": "Mrs. Howard 提到包厢里的 Dorcas Dryden 与 Odile，并说 Odile 的 cousin 正是叙述者与她们初识那晚在 de Langes’ 家晚宴上倒下的女孩；随后 Odile 隔着观众席朝叙述者轻抖手指、勉强一笑，两人以眼神相认——彼此都是可怕游戏里的替补。",
+   "anchor": "It was her cousin who fell at the de Langes’ dinner the night we met. You remember. The amethysts.",
+   "start": 5367,
+   "end": 5465
+  },
+  {
+   "fact": "幕间休息大厅里叙述者撞上 Jean-Philippe——曾以链缠拳头砸碎人头、如今拄银马头手杖扮殷实商人的走私犯；她恐慌会被他认出并拍电报回巴黎，Martha 伸臂箍腰把她整个人拎离现场，带她上楼说去抽烟。",
+   "anchor": "A strong arm looped around my waist, and I was almost lifted off my feet as Martha removed me bodily",
+   "start": 11319,
+   "end": 11419
+  },
+  {
+   "fact": "在每层四个包厢背后的第五道门（Rice 家旧包厢，Martha 的母亲出嫁前姓 Rice）里，Martha 请叙述者抽银盒里的淡绿香烟，否认白球会上绊她的是自己、也说没看见是谁做的；问她尽管出了白球会的事、玫瑰会还可能出事还继不继续，并点破她母亲当年拒绝侍奉领主被吞食，临别叮嘱：任何陷阱都有出路，对我们有些人来说这就是陷阱。",
+   "anchor": "Your mother didn’t,” she pointed out. “She refused to stand for the lords and be eaten.",
+   "start": 16495,
+   "end": 16582
+  },
+  {
+   "fact": "数周后叙述者独自赴 Tolland 家的小型诗朗诵（约三十位客人，青年诗人念 R 与 H 的无尽情诗），邻座女孩 Bethany 央她陪自己离席十五分钟，领她穿过空走廊进 Tolland 家温室；里面竟是穿帆布围裙踱步的 Martha Webster——Bethany 称这是自由：离开这个粪坑，逃离想把她烧成灰的野火、想淹死她的洪水和她的母亲。",
+   "anchor": "it wasn’t Martha Webster, pacing back and forth and wearing a long canvas apron over her burgundy gown.",
+   "start": 23739,
+   "end": 23842
+  },
+  {
+   "fact": "Martha 持刀在 Bethany 前后刺出约二十道短而深的伤口，叙述者也动手把带嫩芽的青枝逐根压进创口；Bethany 皮肤结成树皮、抽枝展叶，化作一行树末的一棵小树。Martha 说她秋叶落尽即可脱身、赶芝加哥 Woman’s Hospital Medical College 第一周开学（Bethany 想学医），并说自己是 Tolland 家的 second cousins、几乎每周都来照看；两人把衣物烧进温室锅炉。散场后 Mrs. Payne 面色惊惶、逢人便问「Have you seen my Bethany?」。",
+   "anchor": "Martha dealt her perhaps twenty wounds, front and back, and by the end, Bethany was wavering on her feet.",
+   "start": 26513,
+   "end": 26618
+  }
+ ]
+}

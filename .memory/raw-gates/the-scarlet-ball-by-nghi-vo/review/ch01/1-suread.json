@@ -1,0 +1,55 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch01_one.txt",
+ "facts": [
+  {
+   "fact": "在纽约生活近两年的女店员叙述者于九月的一个夜晚替瓦洛瓦夫人的帽子店送货，抱着条纹帽盒在第二十三街第四信托银行石柱旁查看字条：东23街14号霍华德府，只能亲手交予伊菲革涅亚·马歇尔小姐本人或其女仆。",
+   "anchor": "I studied the scrap of paper I’d been given and the address spelled out in Madame Valois’s crabbed hand",
+   "start": 1652,
+   "end": 1755
+  },
+  {
+   "fact": "一群二十四只上下的着火野狗冲下街心，领头长毛猎犬扑向一位女士的马车，马车翻倒起火、灰马被压倒在地，三名海军军官救出女士；扑向叙述者的矮壮火狗被她抡起内藏石头的手袋击中头部，一名店主随即将冷水泼向狗身，火狗逃散。",
+   "anchor": "The lurcher at their head, his ruff aflame like a wreath around his neck, lunged at some poor woman’s trap",
+   "start": 3489,
+   "end": 3595
+  },
+  {
+   "fact": "叙述者敲霍华德府后门时，一名穿浆黑制服、哭得几乎看不见路的女仆撞上她后逃入夜色；她怕瓦洛瓦夫人扣工钱仍进屋闩门，在锁死的舞厅门前被腰挂钥匙的女管家拦下，被指往三楼家族层的左数第九扇门等候，并被告诫不得触碰金银。",
+   "anchor": "A girl dressed in starched servant black, weeping so hard she could barely see, barreled into me and caromed off",
+   "start": 10207,
+   "end": 10319
+  },
+  {
+   "fact": "叙述者推门见到深红陈设的奢华闺房，凭门边银盘上收信人均为 Ginny 的已拆邮件确认这是马歇尔小姐的房间；她坐下歇脚，自认已近二十小时未眠：午夜桑树街合租屋因四楼老人想烤吐司失火，众人被烟熏到路边守到天亮，她照常上工。",
+   "anchor": "the opened mail piled on the keepsake silver tray by the door, all addressed to Ginny",
+   "start": 16639,
+   "end": 16724
+  },
+  {
+   "fact": "叙述者在房内桌上发现一只蓝与猩红菱格纹珐琅盖碗，内盛浸糖浆加少许白兰地的糖渍樱桃；她一口气吃光——这是她近三十小时来的第一口食物——吞下最后一颗时，全屋灯光随一声炸雷熄灭，暴雨倾盆落向全城。",
+   "anchor": "They tasted like the first food I had had in almost thirty hours, and before I swallowed the first",
+   "start": 19138,
+   "end": 19236
+  },
+  {
+   "fact": "停电中叙述者走到窗前，借闪电看见街上积水流淌、行人奔逃；她把手放上窗闩，那一刻想放风暴进来，把霍华德府从阁楼毁到厨房；雷声一响她从窗边退开，用袖子擦去玻璃上的呼吸雾气与指印，不留来过的痕迹，随后灯光恢复。",
+   "anchor": "I wanted in that moment to let the storm in to Howard House",
+   "start": 20477,
+   "end": 20536
+  },
+  {
+   "fact": "1890年的这一夜，霍华德夫人（Atalanta Howard，本姓 Van Haan）拎着先前逃走那名女仆的衣领闯进房间，摇着她逼问“告诉我她是怎么做到的”；女仆哭喊不知道——“Ginny 小姐的事从来没人知道”——领口被抓处烧焦冒汽，被打发回房、传唤前不得露面；夫人随即连声逼问叙述者“你究竟是什么”，她答“安南人（Annamese, madame）”。",
+   "anchor": "On that night in 1890, she had lost some of her famous height",
+   "start": 22041,
+   "end": 22102
+  },
+  {
+   "fact": "霍华德夫人拧叙述者脸颊问“安南人是否也知痛”，她答“知道，夫人”；夫人命她走向窗前再走回、转身验其步态，问她饿不饿，她直视对方点头；随后夫人掀开三折镜罩布，露出自勒阿弗尔驶来的轮船抵岸之日起整两年前备下的淡绿丝绒长裙，宣布今晚晚宴需要有人穿上它，先出十美元；叙述者还价二十美元获应允（快得让她后悔要少了），夫人命她把衣服脱了。",
+   "anchor": "“Ten dollars,” she said, and when I countered with twenty, she agreed so fast I knew I should have asked for more",
+   "start": 34189,
+   "end": 34302
+  }
+ ]
+}
