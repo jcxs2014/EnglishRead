@@ -1,0 +1,95 @@
+{
+  "chapter": 2,
+  "text": "text/ch02_chapter_two_tilde.txt",
+  "chars": 18860,
+  "facts": [
+    {
+      "id": 1,
+      "event": "Tilde 任由侍女 Hadiah 清点打包她的珠宝与膏药，准备在婚约刚签时便启程赴敌国宫廷行刺。",
+      "relation": "Hadiah 是 Tilde 的侍女，替她掌管行装",
+      "numbers": "",
+      "interval": [
+        91,
+        158
+      ],
+      "anchor": "Hadiah oversaw the collecting of my things, my jewels, my ointments"
+    },
+    {
+      "id": 2,
+      "event": "Cynghal 统治者禁止 Merogians 进入 kithwood 祖林，违令的 tarns 与国王被处死或鞭刑，穷人被割去肢体。",
+      "relation": "",
+      "numbers": "punishable by death or flogging for the tarns and kings, mutilation for the poor",
+      "interval": [
+        1338,
+        1433
+      ],
+      "anchor": "Not to give thanks to our ancestors, not to gather the fruits and fallen branches, not to hunt."
+    },
+    {
+      "id": 3,
+      "event": "Rivani 在弟妹被折磨后打开城门、降下蛇轮旗，向入侵的 Kanaan 与 Falcan 军队屈膝。",
+      "relation": "Rivani 是 Tilde 的母亲，也是 Ardwen 的末代国王",
+      "numbers": "",
+      "interval": [
+        9293,
+        9354
+      ],
+      "anchor": "the last king of Ardwen bent her knee to the raider’s armies."
+    },
+    {
+      "id": 4,
+      "event": "Colfinn 与 Ebba 被钉在城门外囚车的枷柱上示众受刑，Tilde 连续五天只盼他们早死。",
+      "relation": "Colfinn 与 Ebba 是 Tilde 的兄弟姐妹",
+      "numbers": "five days",
+      "interval": [
+        8774,
+        8817
+      ],
+      "anchor": "I spent five days wishing for their deaths."
+    },
+    {
+      "id": 5,
+      "event": "Rivani 当面质问 Tilde 是否给过 Hadiah 选择，拆穿她借和亲赴死、并未替随从留活路的打算。",
+      "relation": "Hadiah 是 Tilde 的贴身随从，出身双血统王族",
+      "numbers": "",
+      "interval": [
+        5199,
+        5263
+      ],
+      "anchor": "‘Warriors choose their fate; have you given Hadiah that choice?’"
+    },
+    {
+      "id": 6,
+      "event": "Tilde 惊觉母亲真正的意思是让她为天鹅王生下一个孩子，用这血脉把孩子做成敌国宫廷的人质与纽带。",
+      "relation": "Rivani 要 Tilde 生下 Liran 的孩子",
+      "numbers": "",
+      "interval": [
+        13587,
+        13641
+      ],
+      "anchor": "‘You want me to bear his child,’ I gasped, letting go."
+    },
+    {
+      "id": 7,
+      "event": "Rivani 指出表亲银女王已六年没有音讯、Torcros 的商路与港口被自毁，Tilde 所指望的两路援军都来不了。",
+      "relation": "银女王 Argentha 是 Rivani 的表亲（cousin）",
+      "numbers": "six years",
+      "interval": [
+        12846,
+        12893
+      ],
+      "anchor": "We have not heard from our cousin in six years."
+    },
+    {
+      "id": 8,
+      "event": "Rivani 临别把一枚蛇形银戒指按进 Tilde 掌心，戒指蓝宝石根部嵌着一根 kithwood 荆棘，触毒会变色。",
+      "relation": "Rivani 把戒指作为母亲的护身物交给女儿",
+      "numbers": "",
+      "interval": [
+        18668,
+        18726
+      ],
+      "anchor": "It was a thorn, set in the ring, at the base of the stone."
+    }
+  ]
+}

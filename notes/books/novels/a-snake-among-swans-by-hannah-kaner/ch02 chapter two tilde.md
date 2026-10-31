@@ -63,7 +63,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：先给一句「我认得出」，把读者放到家属的位置，紧接着一堆细节又否认这份辨认——「认得出」和「认不出」同时成立，读者被迫在两个判断之间来回。荨麻冠是加冕的反面：王冠换成带刺的野草。Ebba 那段按「她被逼穿什么、失去了什么」排列，裙子在前、舌头在后，羞辱排在伤残之前。两个名字连着出现，一句评价都没有。
 
-**读者视角提示**：这是全章最该慢读的一段。作者没写「他们受了酷刑」，只写身体的具体零件——这是本书处理暴力的固定手法，不给形容词，给清单。
+**读者视角提示**：这是全章最该慢读的一段。作者没写「他们受了酷刑」，只写身体的具体零件——这是本书处理暴力的固定手法，不给形容词，给清单。原文紧接着还有一句没进引语：「I spent five days wishing for their deaths」——她试过放箭、试过夜里送刺客，都被拦下，于是只能盼他们早点死。认出亲人、又盼亲人早死，这两件事被放在同一段里，才是这一段的落点。
 
 > **原句 6:** "It was then that my mother broke. She ordered the gates be opened, my siblings returned, so they could die in our arms. Our flag of the wheeled snake, she lowered herself, and the last king of Ardwen bent her knee to the raider’s armies."
 
@@ -84,6 +84,8 @@ modified: "2026-10-31"
 **为什么这样写**：两个问句都只有两三个词，短得像在清点库存——她要的不是态度，是兵和盟约。后半句把「正义」重新定义成一种后续责任：不是杀得对不对，而是杀完之后谁来收拾。这是她全章的核心论点，也是把女儿的「一刀」降格成「一次冲动」的那句话。
 
 **读者视角提示**：这句是本章的分水岭：在它之前 Tilde 谈的是「我能不能杀」，之后谈的是「杀了之后会怎样」。注意「洗石头上的血」这个画面——它把复仇从英雄行为改写成了清洁工作。
+
+顺带记一句本章没说破的账：她指望的两路援军都不存在。原文里先由她自己许诺「Torcros will come to our aid … the silver queen will send ships from the east」，母亲后面的追问正是把这两句拆掉——银女王已六年没有音信，Torcros 的商路与港口早被它自己封毁。
 
 > **原句 8:** "That hurt her, and I felt ashamed. But I had thought myself brave, to do what my mother could not, to use whatever made me useful to them – my youth, my womb – and turn it in our favour like a warrior would. I had thought she would be proud."
 
@@ -121,7 +123,7 @@ modified: "2026-10-31"
 
 **关键词**：`opened my palm`（摊开手掌）/ `coiled like a snake`（盘成蛇形）/ `the eye of the morning`（清晨的眼睛）/ `a den of knives`（刀丛）
 
-**为什么这样写**：全章以「摊开手掌」收束，和前面那次「松开手」正好相反——一次是放开母亲，一次是接住她给的东西。戒指的三个特征各管一件事：蛇是身份，蓝石是眼睛（她刚忘了另一个人的眼睛），遇毒变色是活命的机关。「a den of knives」把天鹅宫廷写成猎场，也把这枚戒指从纪念品改判为装备。
+**为什么这样写**：全章以「摊开手掌」收束，和前面那次「松开手」正好相反——一次是放开母亲，一次是接住她给的东西。戒指的三个特征各管一件事：蛇是身份，蓝石是眼睛（她刚忘了另一个人的眼睛），遇毒变色是活命的机关。「a den of knives」把天鹅宫廷写成猎场，也把这枚戒指从纪念品改判为装备。原句之后还有一层没进引语：石根处嵌着一根 kithwood 荆棘，她听见林子低声念「Blood in blood, dark hawthorn, with my touch is poison drawn」——戒指不只遇毒会变色，它本身就是林子给她的第一批装备。
 
 **读者视角提示**：戒指里还藏着一根刺，下一段她才听见它发声——本章最后一样东西依旧是「看着像首饰、其实是武器」。从开篇的玫瑰园读到这里，这个规律已经重复过好几回。
 

@@ -1,0 +1,95 @@
+{
+  "chapter": 1,
+  "text": "text/ch01_chapter_one_tilde.txt",
+  "chars": 15516,
+  "facts": [
+    {
+      "id": 1,
+      "event": "Tilde 的母亲在晚宴上把 Tilde 卖给了 warlord（Liran）。",
+      "relation": "Rivani 是 Tilde 的母亲、Merogia 的女王",
+      "numbers": "",
+      "interval": [
+        22,
+        65
+      ],
+      "anchor": "My mother sold me to the warlord at dinner."
+    },
+    {
+      "id": 2,
+      "event": "Isabella 死后不到两周 Liran 的求婚使者就到了，Tilde 让母亲 Rivani 接受条件。",
+      "relation": "Liran 是北方 Cynghal 的 swan king；Isabella 是他刚死于难产的王后",
+      "numbers": "within a fortnight",
+      "interval": [
+        1430,
+        1543
+      ],
+      "anchor": "when his proposals arrived within a fortnight of Isabella’s death, I told my mother, King Rivani, to accept them."
+    },
+    {
+      "id": 3,
+      "event": "使节 Gundobar 当众说 Tilde 只是“一个子宫”，Merogia 还有很多可选的姑娘。",
+      "relation": "Gundobar 是 Liran 派来的 Cynghal 使节，Galen 出身、并非王子",
+      "numbers": "",
+      "interval": [
+        2087,
+        2154
+      ],
+      "anchor": "‘She is but one womb,’ the emissary continued, ‘in a crop of many.’"
+    },
+    {
+      "id": 4,
+      "event": "Rivani 反问 Gundobar：九岁的 Maela of Hallion 更合适吗？她还不能生育。",
+      "relation": "Maela of Hallion 是 Rivani 举出的另一个 Merogia 候选新娘",
+      "numbers": "nine years of age",
+      "interval": [
+        4241,
+        4345
+      ],
+      "anchor": "‘Maela of Hallion, perhaps? She is nine years of age, and cannot bear children till she has her bloods.’"
+    },
+    {
+      "id": 5,
+      "event": "Rivani 提起 Gevera 六年前背叛 kith 之律，Tilde 由此想起死去亲人 Sanafin 的手在她掌中变冷。",
+      "relation": "Sanafin 是 Tilde 已死的亲人（回忆中她握着其变冷的手）",
+      "numbers": "six years ago",
+      "interval": [
+        7448,
+        7487
+      ],
+      "anchor": "They turned on their own six years ago."
+    },
+    {
+      "id": 6,
+      "event": "验贞 priest 用手指检查 Tilde，Tilde 一脚把他的牙踢碎在脸上；Marolyn 趁机把毒草 nightwort 塞进他手里栽赃。",
+      "relation": "Marolyn 是 Tilde 的表亲（cousin），Hadiah 也是",
+      "numbers": "",
+      "interval": [
+        13028,
+        13090
+      ],
+      "anchor": "I had broken his teeth into his face with the sole of my foot."
+    },
+    {
+      "id": 7,
+      "event": "Gundobar 最终让步，答应 Rivani 的条件，婚事谈成。",
+      "relation": "Gundobar 代表 Liran 与 Rivani 谈判",
+      "numbers": "",
+      "interval": [
+        14603,
+        14650
+      ],
+      "anchor": "‘We will agree to your terms,’ he said at last."
+    },
+    {
+      "id": 8,
+      "event": "Tilde 下定决心：不再有失败的叛乱，无论如何都要杀掉国王 Liran。",
+      "relation": "",
+      "numbers": "",
+      "interval": [
+        15402,
+        15472
+      ],
+      "anchor": "No more failed rebellions. One way, or another, I would kill the king."
+    }
+  ]
+}
