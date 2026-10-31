@@ -1,0 +1,95 @@
+{
+ "chapter": 34,
+ "text": "text/ch34_chapter_thirty_four_tilde.txt",
+ "chars": 23913,
+ "facts": [
+  {
+   "id": 1,
+   "event": "两个月过去、盛夏已尽，秋猎开始；Tilde 自陈自偷得一吻后众人皆装作无事。",
+   "relation": "Tilde 与 Elise 的隐秘情愫；宫廷集体沉默",
+   "numbers": "Two months",
+   "interval": [
+    97,
+    176
+   ],
+   "anchor": "Two months, and the great heat of summer had passed, so began the autumn hunts."
+  },
+  {
+   "id": 2,
+   "event": "Merovin 策马与 Tilde 并行，点明她收下了 Widdin 公爵派来的护卫，并劝她闩好门。",
+   "relation": "Merovin 与 Tilde 的试探性同盟",
+   "numbers": "one of the few times",
+   "interval": [
+    2430,
+    2484
+   ],
+   "anchor": "I see you accepted the guard from the ducal of Widdin."
+  },
+  {
+   "id": 3,
+   "event": "Tilde 派 Ziyan 给被鞭打的农奴送药膏与买布养伤的钱；Marolyn 监刑后不再以旧眼光看她。",
+   "relation": "Tilde 与农奴、Marolyn 的关系裂痕",
+   "numbers": "ointment, coin",
+   "interval": [
+    2771,
+    2842
+   ],
+   "anchor": "I had sent Ziyan to her with ointment, coin for her cloth and recovery."
+  },
+  {
+   "id": 4,
+   "event": "猎队出猎，Low Priest Aeswyth 高呼勿深入林中；Elise 告诉 Tilde 只有雄鹿禁猎、雌鹿归她们。",
+   "relation": "Elise 与 Tilde 在猎场上的默契",
+   "numbers": "Only the stags",
+   "interval": [
+    4844,
+    4908
+   ],
+   "anchor": "‘Do not go deep into the woods!’ Low Priest Aeswyth was calling."
+  },
+  {
+   "id": 5,
+   "event": "Tilde 追雌鹿一矛落空（鹿被 Ysel 一组射倒），随后在谷中抢先掷矛，正中野猪侧腹。",
+   "relation": "Tilde 与 Cynghal 诸王子同场竞猎",
+   "numbers": "Good hit, Queen Tilde",
+   "interval": [
+    11346,
+    11406
+   ],
+   "anchor": "My strike slammed true into the boar’s side and it cried out"
+  },
+  {
+   "id": 6,
+   "event": "Conrin 当众讥讽 Isen 怯懦、要女人收尾，Gundobar 附和；Isen 提剑下谷，Tilde 由此认出 Odon 即 General Nefka——曾在 Nandenys 城下指点少年将军折磨孩童。",
+   "relation": "Odon 的真实身份；Conrin 与 Isen 的兄弟敌意",
+   "numbers": "Nandenys; boy-general",
+   "interval": [
+    13041,
+    13108
+   ],
+   "anchor": "‘I told you he was too cowardly,’ said Conrin to Gundobar and Gaisa"
+  },
+  {
+   "id": 7,
+   "event": "Isen 冲上夺回 Tilde 的矛刺穿猪鼻，再一剑深插入颈杀死野猪，随后跪地以头触地，称它‘lord of the wood’。",
+   "relation": "Isen 与 Tilde 由敌意转为短暂敬意",
+   "numbers": "two steps, three",
+   "interval": [
+    17622,
+    17733
+   ],
+   "anchor": "The boar ran, tearing both out of the prince’s hands, but it only made it two steps, three, before it collapsed"
+  },
+  {
+   "id": 8,
+   "event": "猪群惊奔冲垮山谷，Isen 被踩死；Conrin 被 Gundobar 拽住佯装救人却露出笑意，Alar 警告 Tilde‘Not all swans survive’，章末林中出现披狼皮、颈挂 Wing 银坠的男人。",
+   "relation": "Alar 对 Tilde 的威逼利诱；Conrin 的弑兄嫌疑",
+   "numbers": "Not all swans survive",
+   "interval": [
+    22696,
+    22752
+   ],
+   "anchor": "The noise of pigs’ squealing drowned Isen’s into nothing"
+  }
+ ]
+}

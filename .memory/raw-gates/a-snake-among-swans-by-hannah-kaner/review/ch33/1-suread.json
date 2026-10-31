@@ -1,0 +1,95 @@
+{
+ "chapter": 33,
+ "text": "text/ch33_chapter_thirty_three_elise.txt",
+ "chars": 17260,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Elise 独自在房中织天鹅挂毯当作苦修，心里数着离父亲生日还有两个月，把全部世界收窄到指间的线上。",
+   "relation": "Elise 是国王的女儿、众王子的姐妹；织锦是她向父亲赎罪的方式",
+   "numbers": "Thirteen swans; two months till her father’s birthday",
+   "interval": [
+    601,
+    634
+   ],
+   "anchor": "Thirteen swans, all her siblings."
+  },
+  {
+   "id": 2,
+   "event": "Gaisa 的卫兵踹开她的房门，Elise 抓起篮中尖针刺穿一名卫兵的手腕，仍被揪住辫子后扯、踢中膝弯按倒在地。",
+   "relation": "Gaisa 带着自己的浅绿卫队来抓亲姐姐 Elise",
+   "numbers": "",
+   "interval": [
+    1821,
+    1906
+   ],
+   "anchor": "Though she stabbed the wrist of one man, another grabbed her braid and yanked it back"
+  },
+  {
+   "id": 3,
+   "event": "Conrin 质问她为何她的天鹅梭子堵住了通往密道的门，Gaisa 由此推断出是 Elise 放走了本该被毒死的女人。",
+   "relation": "Egil、Gaisa、Conrin 三兄弟合谋用农奴下毒害 Tilde，Elise 暗中救了她",
+   "numbers": "poison enough to kill a boar",
+   "interval": [
+    2518,
+    2595
+   ],
+   "anchor": "Why was your shuttle blocking the door into our secret passages, Sister-hyem?"
+  },
+  {
+   "id": 4,
+   "event": "Conrin 抢上前抓住她的头侧，把她拖到梳毛凳边，将她的脸按在凳子的钢齿上。",
+   "relation": "弟弟 Conrin 对姐姐 Elise 动手施暴",
+   "numbers": "",
+   "interval": [
+    5478,
+    5546
+   ],
+   "anchor": "grabbed the side of her head, dragging her over to her carding stool"
+  },
+  {
+   "id": 5,
+   "event": "Tilde 扶着 Hadiah 的手臂出现在门口喝令放人，卫兵立刻松手听命于王后，她随即宣称自己是国王钦定的王后，把 Conrin 逼退。",
+   "relation": "Tilde 是 Elise 的嫂子兼王后，也是被这几个王子下毒的受害者；卫兵最终效忠王后而非王子",
+   "numbers": "",
+   "interval": [
+    5943,
+    6044
+   ],
+   "anchor": "The voice at the door was low, strong without shouting, and Elise twisted to see Tilde standing there"
+  },
+  {
+   "id": 6,
+   "event": "Tilde 以王后身份逼 Gaisa 承诺惩处动手的卫兵，并暗示用鞭刑，随后派 Hadiah 去盯着行刑。",
+   "relation": "Gaisa 在 Tilde 的施压下低头，卫兵被主子抛弃",
+   "numbers": "flogging",
+   "interval": [
+    9285,
+    9335
+   ],
+   "anchor": "I hear flogging can beat sense back into a person."
+  },
+  {
+   "id": 7,
+   "event": "Tilde 握着 Elise 的手教她专注呼吸、把气沉到腹部，Elise 在静下来后听见森林的低语：绿意、生长、河流与阳光。",
+   "relation": "Tilde 安抚受惊的 Elise，两人肌肤相贴、额头相抵",
+   "numbers": "",
+   "interval": [
+    11404,
+    11468
+   ],
+   "anchor": "Green and the growing and the movement and the warmth of the sun"
+  },
+  {
+   "id": 8,
+   "event": "Elise 讲完第一代 Cynghal 国王烧掉天鹅妻子翅膀的故事后，两人接吻，Elise 先退开，要求她永不提起此事。",
+   "relation": "Elise 与 Tilde 由敌对的姑嫂转为彼此渴望，结尾称二人“生而为敌、因婚成亲、被罪绑在一起”",
+   "numbers": "",
+   "interval": [
+    16240,
+    16304
+   ],
+   "anchor": "Tilde did not resist, she leaned in, pressing her mouth to Elise"
+  }
+ ]
+}
