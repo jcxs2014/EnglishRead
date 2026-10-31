@@ -1,0 +1,55 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch01",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch01_introduction.txt",
+ "facts": [
+  {
+   "fact": "全书开篇立论：比好笑话更好的，是极其糟糕的笑话",
+   "anchor": "The only thing better than a good joke is a really, really bad joke.",
+   "start": 56,
+   "end": 124
+  },
+  {
+   "fact": "作者承认「好笑话」有大量研究支撑：改善社交、情绪乃至免疫",
+   "anchor": "There has been endless research done into the positive effects of humour in social connections, improving one’s mood and even helping to boost one’s immune system.",
+   "start": 165,
+   "end": 328
+  },
+  {
+   "fact": "幽默把人联结起来，正在逗你笑的人你恨不起来",
+   "anchor": "It unites us as humans. You can’t hate someone who is making you laugh.",
+   "start": 413,
+   "end": 484
+  },
+  {
+   "fact": "作者把好笑话比作独木舟：一件有实际功能的家伙",
+   "anchor": "Think of it like a canoe: a functional item that does a job and gets you from A to B.",
+   "start": 513,
+   "end": 598
+  },
+  {
+   "fact": "全书约 700 条笑话，其中很多根本不好",
+   "anchor": "There are 700-ish jokes in this book, and a lot of them aren’t any good at all.",
+   "start": 601,
+   "end": 680
+  },
+  {
+   "fact": "坏笑话分几类：老套可预测、生硬难懂、以及故意写坏",
+   "anchor": "Some are corny and predictable, some are contrived and difficult, and others are wilfully bad.",
+   "start": 681,
+   "end": 775
+  },
+  {
+   "fact": "坏笑话的乐趣来自「兴高采烈的讲法」与「失望或愤怒的反应」之间的错位",
+   "anchor": "the mismatch between a joyful delivery and a disappointed or angry response",
+   "start": 1048,
+   "end": 1123
+  },
+  {
+   "fact": "结尾双关：改写 have your cake and eat it too，落到 kayak（独木舟）与 heat（加热）",
+   "anchor": "you can have your kayak and heat it too.",
+   "start": 1686,
+   "end": 1726
+  }
+ ]
+}
