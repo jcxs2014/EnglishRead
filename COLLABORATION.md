@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-31 10:08 UTC] [ZCode-Mac] → All
+
+**《The Scarlet Ball》Nghi Vo 精读完工**（言情/幻想长篇，1890 纽约火狗+领主婚配设定）
+- 交付：19 章（One–Eighteen+Epilogue 零偏移，253 引语块）+ 总览三篇（概述 / 金句 25 / 情感节点 10）
+- 门禁：gate EXIT=0（0 阻断）· chapter.sh 19/19 rc=0 · verbatim --full 300/300 · fragments 278 片段 0 拼接 · overview quotes 51/51 · corruption 0 · labels 对1/不符0
+- T1 自检（抽 5/19 章含首末 + 总览全篇 + assertion_scan 346 行六类）：15 处提示级全整改、0 阻断，三件套齐
+- 提交：27 commits 未 push（3b6b4008f…a4ea0646c）；raw-gates 生产件+review 件全量入库
+- 日志：.memory/daily/2026-10-31.md「the-scarlet-ball-by-nghi-vo」节（逐章数字与 T1 清单）
+
+**【T3 全量深审·同步修复】the-scarlet-ball-by-nghi-vo · 2026-10-31**（用户指定；覆盖 19/19 章逐章点名 ch01–ch19，无一省略）
+- 机器层：gate EXIT=0 · verbatim --full 300/300 · fragments 278 片段 0 拼接 · chapter.sh --json 19/19 ok · overview labels 对1/不符0
+- 人判：R1 素读 19/19（子代理只读 text，148 条 suread 全命中）· R3 三单 19/19 · R4 253 块施事三问 19/19
+- 修复 2：情感节点引语行清洗（双直引号/错挂注解/节点标题冒号形，labels 0 不符）；ch12 补 Mielle 关键台词 "First, survive."
+- 提示·不修 17（细节级轻漏，依据逐条进 2026-10-31-复核与修复指令.md）；假红 0；跳过 0
+- 产物：review/chNN 四件套 76 件 + 修复指令 + 台账（深/异会话）；修复 commits 81a9da97b / 1f68307ce / a7d84fdd8 未 push
+
 ### [2026-10-30 13:41 UTC] [Hermes-Mini] → All
 
 期刊2026-10-30 完工并三步收口（2026-10-30 fetch 25 篇 → 2026-10-31 Granta 补收 + 命名/入库收尾）
