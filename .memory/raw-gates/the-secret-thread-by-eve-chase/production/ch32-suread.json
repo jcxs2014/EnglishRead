@@ -1,0 +1,37 @@
+{
+ "book": "the-secret-thread-by-eve-chase",
+ "chapter": "ch32",
+ "text": "notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch32_chapter_32.txt",
+ "facts": [
+  {
+   "fact": "本章是一条拍卖标签引出的一封信：写信人是装饰师 Elliot Whipple，写信时间 1969 年 7 月，这封信如今是第 17 号拍品。",
+   "anchor": "Lot 17: Letter from decorator Elliot Whipple, July 1969.",
+   "start": 23,
+   "end": 79
+  },
+  {
+   "fact": "信的开头先表白惦念，随即自认能说的很少、能给的也不多，把姿态压到最低。",
+   "anchor": "You are in my heart. There’s little I can say. I can’t offer much.",
+   "start": 98,
+   "end": 164
+  },
+  {
+   "fact": "写信人递出两条后路：若收信人在伦敦需要一份低薪工作或一个忠诚却反复无常的朋友，可以打信纸上方的号码，或去他在 Belgravia 的小工作室。",
+   "anchor": "in need of work in London (low paid) or a friend (loyal but erratic), you can call the number above or stop by my little studio in Belgravia",
+   "start": 198,
+   "end": 338
+  },
+  {
+   "fact": "信末祝愿收信人的兄弟早日康复——信面文字表明其家中正有人伤重待康复（即 Alf 重伤期）。",
+   "anchor": "wishing your brother a quick recovery",
+   "start": 398,
+   "end": 435
+  },
+  {
+   "fact": "信的收束段直呼 Mimi，命令她勇敢、替 Nancy 活下去，并说 Nancy 也会坚持要她这样——由 cannot 可知 Nancy 已不在人世。",
+   "anchor": "Be brave, Mimi. Live as dear Nancy cannot. Nancy would insist on it.",
+   "start": 439,
+   "end": 507
+  }
+ ]
+}
