@@ -7,7 +7,7 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-**一句话概括**：圣诞前夜，学校师生在城镇广场上募捐，女生们唱着圣诞颂歌，Faith 把募捐箱举到 Phil 面前；下午四点半天已经黑透，Alastor 背着包跟着 Phil 出门，Head 提起上个月的气体泄漏与闯入事件，转而劝 Phil 下学期回来继续任教；Phil 拒绝了 Anne Bredon 留下的那个问题，却在校长提到「学校被闹鬼」时差点追问下去；最后天上真的落了雪，她自言自语说也许偶尔真能等到一个校园故事式的结局。
+**一句话概括**：圣诞前夜，学校师生在城镇广场上募捐，女生们唱着圣诞颂歌，Faith 把募捐箱举到 Phil 面前；下午四点半天已经黑透，Alastor 背着包跟着 Phil 出门，Head 提起上个月的气体泄漏与闯入事件，转而劝 Phil 下学期回来继续任教；Phil 到底没敢问出 Anne Bredon 临别那句话，却在追问「学校被闹鬼」时把话头咽了回去；最后天上真的落了雪，她自言自语说也许偶尔真能等到一个校园故事式的结局。
 
 **情感弧线位置**：全章落在风暴与混乱之后的松弛里，但松弛并不等于放下。开场是节日与善意的暖色，中段被 Head 那句「我们当然不会放你走」推到「留下来」的确认，再被校长的追问拉到两条未解决的暗线——Jane 身上那句没问出口的话，和「she’ll be back」；收束处降雪把未解决的部分轻轻盖住，只留下 Phil 心里那点关于家人与自我之间的撕扯。
 
@@ -26,7 +26,7 @@ modified: "2026-10-31"
 
 > **原句 1:** "‘Donate to charity, Miss?’ Faith said hopefully, thrusting a collection box at Phil. Like the other girls, she was swathed in a dark green overcoat from neck to knees. Her blonde pigtails gleamed in the street lights. Even though it was only quarter to five in the afternoon, it was already dark enough that passing cars were heralded by glaring headlights."
 
-**中文理解**：Faith 满眼期待地把募捐箱推到 Phil 面前，问她要不要捐款。其他女孩跟她一样，都裹在从脖子垂到膝盖的深绿色大衣里；她的金色辫子在路灯下发亮。下午才四点半，天已经黑到路过的车都得靠刺眼的 headlights 来宣告存在。
+**中文理解**：Faith 满眼期待地把募捐箱推到 Phil 面前，问她要不要捐款。其他女孩跟她一样，都裹在从脖子垂到膝盖的深绿色大衣里；她的金色辫子在路灯下发亮。下午才四点半，天已经黑到路过的车都得靠刺眼的车灯来宣告存在。
 
 **关键词**：thrusting a collection box / swathed in a dark green overcoat / quarter to five in the afternoon / heralded by glaring headlights
 
@@ -109,7 +109,7 @@ modified: "2026-10-31"
 | headlights | （汽车的）前灯 | Even though it was only quarter to five in the afternoon, it was already dark enough that passing cars were heralded by glaring headlights. |
 | dolman-sleeved | 宽袖的（一种宽松连肩袖） | She was in a heavy dolman-sleeved black jacket and thick wool trousers, and looked rather more diabolical than angelic. |
 | diabolical | 恶魔似的，凶恶的 | She was in a heavy dolman-sleeved black jacket and thick wool trousers, and looked rather more diabolical than angelic. |
-| confiscate | 没收，充公 | The black-haired young woman unwillingly produced an unlabelled glass bottle, which Jane sniffed, then confiscated. |
+| confiscated | 被没收 | The black-haired young woman unwillingly produced an unlabelled glass bottle, which Jane sniffed, then confiscated. |
 | moderately | 适度地，相当地 | There are those of us who command the weather, as you may remember from Anne Bredon’s storm, and it would be moderately inexpensive. |
 | inexpensive | 不贵的，廉价的 | There are those of us who command the weather, as you may remember from Anne Bredon’s storm, and it would be moderately inexpensive. |
 | materializing | 突然出现，凭空现身 | ‘You look lost in thought, dear,’ the Head said, materializing at her elbow. |

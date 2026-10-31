@@ -89,7 +89,7 @@ modified: "2026-10-31"
 
 **关键词**：shocked and appalled on a scholarly level / such a come-down / put it on your CV / a respectable Latin teacher / the role of the meretrix in Roman drama
 
-**为什么这样写**：她不去碰「你为什么记恨」这个话头，而是把话抬到学术与简历的层面：体面的拉丁文教师不该变成窃贼，更不该在简历上写不清过去十年。几个「你会因此损失什么」的并列问句，让讥讽听上去像一份无害的清单。
+**为什么这样写**：她不去碰「你为什么记恨」这个话头，而是把话抬到学术与简历的层面：体面的拉丁文教师不该变成窃贼，更不该把这事写进简历；随后又拐到罗马戏剧里 meretrix 的角色——话题一滑，讥讽听上去像一份无害的学术闲谈。
 
 **读者视角提示**：读者会听出她回避了哪半句：她没回答为什么记恨，而真正的答案——被一只火焰豹子追过两次——她留在了心里没说。
 
@@ -111,15 +111,15 @@ modified: "2026-10-31"
 ---
 
 
-> **原句 7:** "‘Alice needs to learn a valuable lesson about self-control, alcohol consumption, and not overdoing it on the night before an important event. If she’d woken up in time this morning, she’d be on her way to Brighton, but alas, she didn’t and she isn’t. As the most senior remaining girl, she is the one whom I expect to take charge of all the other girls."
+> **原句 7:** "‘Alice needs to learn a valuable lesson about self-control, alcohol consumption, and not overdoing it on the night before an important event. If she’d woken up in time this morning, she’d be on her way to Brighton, but alas, she didn’t and she isn’t. … As the most senior remaining girl, she is the one whom I expect to take charge of all the other girls"
 
-**中文理解**：「Alice 需要就自制力、饮酒，以及不要在重要行程前一晚放纵这一点，学上一堂宝贵的课。如果她今早能醒过来，她已经在去 Brighton 的路上了，可惜她没有，她也不在。作为留下来的人里年级最高的女生，她就是我要托付去管好其他女生的人，所以你们三位也不必太过操心。」
+**中文理解**：「Alice 需要就自制力、饮酒，以及不要在重要行程前一晚放纵这一点，学上一堂宝贵的课。如果她今早能醒过来，她已经在去 Brighton 的路上了，可惜她没有，她也不在。……作为留下来的人里年级最高的女生，她就是我要托付去管好其他女生的人。」
 
 **关键词**：a valuable lesson about self-control / alcohol consumption / she’d be on her way to Brighton / As the most senior remaining girl / take charge of all the other girls
 
 **为什么这样写**：作者用一顿训话把留校名单写完：Alice 宿醉未醒，于是被留在学校「学一课」。这堂课的措辞（自制力、饮酒、别在大事前一晚过头）与其说是教育，不如说是处分；随后那句「留校女生中年级最高者」把一个宿醉的高年级女生顺手指定成留守负责人。
 
-**读者视角提示**：读者会听出这份「教育」里的算计：Alice 不是被关心，是被罚；而「你们三位也不必太过操心」这句话，则把菲丝等人推到了责任链的末端。
+**读者视角提示**：读者会听出这份「教育」里的算计：Alice 不是被关心，是被罚；而「留校女生中年级最高者」这个身份，则把一个宿醉的人推到了责任链的顶端。
 
 
 ---
