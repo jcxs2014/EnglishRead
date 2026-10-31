@@ -1,0 +1,83 @@
+{
+  "chapter": "ch45",
+  "pov": "第一人称（Four/老四叙述），现在时",
+  "facts": [
+    {
+      "event": "珍宁说系统里有被“擦除”的痕迹，她找不回丢失的数据，并追问最近是否发生过什么异常。",
+      "who": "she (Jeanine)",
+      "receivers": "the system, the lost data",
+      "start": 1697,
+      "end": 1857,
+      "text": "“It seems there have been some erasures,” she says. “I can’t retrieve the lost data, but it leaves a mark. You’re sure nothing irregular has occurred recently?”"
+    },
+    {
+      "event": "老四装作不安地告诉珍宁：系统显示那晚用模拟室的人就是她，所以他认为系统有故障，或许也能解释数据擦除。",
+      "who": "I",
+      "receivers": "her (Jeanine), the system",
+      "start": 2197,
+      "end": 2501,
+      "text": "“That’s the strange thing.” I shift on my feet, like I’m uncomfortable. And I am uncomfortable, but mostly, I want her to see my discomfort. “The system told me it was you. But I know that can’t be the case. So I think there has to be some kind of malfunction. Maybe that accounts for the erasures, too.”"
+    },
+    {
+      "event": "珍宁让卡拉叫凯莱布（Caleb）来装更新，说“他需要练习”。",
+      "who": "she (Jeanine)",
+      "receivers": "Cara, Caleb, the update",
+      "start": 3059,
+      "end": 3204,
+      "text": "“It’s good we’re here to improve your system, then,” Jeanine says. She looks at Cara. “Have Caleb install the update. He could use the practice.”"
+    },
+    {
+      "event": "珍宁笑着说老四必须亲自测试更新后的系统。",
+      "who": "she (Jeanine)",
+      "receivers": "you (Four), our system update",
+      "start": 5175,
+      "end": 5330,
+      "text": "“Impressive.” Jeanine smiles. As the simulated flames start to shift and move again, she adds, “You’ll have to be the one to test our system update, then.”"
+    },
+    {
+      "event": "埃里克替珍宁施压：派系代表提出要求时，老四应当把它当成命令。",
+      "who": "Eric",
+      "receivers": "you (Four)",
+      "start": 5629,
+      "end": 5753,
+      "text": "“I think, when a faction representative makes a request of you, Four . . .” Eric says, “you should think of it as an order.”"
+    },
+    {
+      "event": "老四意识到这是早设好的局：珍宁（或冒充她进系统的人）调过 Al 的记录，也调过他的记录，就为逼他做恐惧模拟。",
+      "who": "they / Jeanine Matthews",
+      "receivers": "Al’s records, mine",
+      "start": 5844,
+      "end": 6094,
+      "text": "This has to have been their plan all along. Trap me here, find some way to pressure me into going through a fear simulation for them. When Jeanine Matthews—or whoever was impersonating her in the system—accessed Al’s records, they also accessed mine."
+    },
+    {
+      "event": "记忆里的马库斯把蓝玻璃雕塑猛砸到墙上，碎片划伤老四的手臂和脸颊，散落满床满地。",
+      "who": "He (Marcus)",
+      "receivers": "the glass sculpture, my arm, my cheek",
+      "start": 10698,
+      "end": 10900,
+      "text": "He turns, and hurls the glass sculpture at the wall so hard it bursts into shards. Blue fragments of glass spray across my room, biting at my arm, my cheek. They litter my blanket, my dresser, my floor."
+    },
+    {
+      "event": "老四看穿珍宁此行无论结果如何都稳赢：要么拿到无派系道德腐败的证据，要么拿到他是分歧者的证据。",
+      "who": "she (Jeanine)",
+      "receivers": "Abnegation, me",
+      "start": 12387,
+      "end": 12651,
+      "text": "I wonder if she knew that if she came here, she would win no matter what. Either she would get proof of Abnegation’s moral corruption, laid out before her in my fear landscape, or she’d get proof that I’m Divergent. Regardless, this is what she’s been waiting for."
+    }
+  ],
+  "relations": [
+    "珍宁·马修斯用“Technician”（技术员）称呼老四，带卡拉（Cara）与她的门生凯莱布（Caleb，崔丝的哥哥）来更新模拟系统。",
+    "老四隐瞒“系统显示昨晚使用者是珍宁”一事没有上报，麦克斯与埃里克因此斥责他；他咬牙认错。",
+    "珍宁借埃里克之口施压：派系代表的要求就是命令，老四没有拒绝的余地，只能走进模拟室。",
+    "老四认定这是设局：珍宁（或冒充她进入系统的人）取过 Al 的记录，也取过他的记录，只为逼他做恐惧模拟。",
+    "模拟重现他的童年记忆：马库斯因母亲留下的蓝玻璃雕塑砸碎它并要动手；珍宁由此要么得到无派系道德腐败的证据，要么得到他是分歧者（Divergent）的证据。",
+    "结尾珍宁改口称他“Mr. Eaton”，表明她已知道他的真实身份。"
+  ],
+  "numbers": [
+    "“twenty-five percent” — 老四估算马库斯在模拟中现身的概率为 25%。",
+    "“the number of fears in my fear landscape” — 绰号 Four 来自他恐惧景观中的恐惧数目（四）。",
+    "“a few seconds” — 模拟结束后他闭眼站了几秒，才敢睁眼看埃里克。"
+  ]
+}
