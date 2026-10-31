@@ -24,7 +24,7 @@ modified: "2026-10-31"
 
 **中文理解**："你要的太多，"她说，呼吸暖在她的唇边。"你永远要更多。更多、更多、更多。要你的全部。起初，撑到下一分钟就算够，然后是下一个小时、第二天、下一周。就算有一刻吃饱了，也只够那一刻。昨天还是陶土，今天就要金子。陶土明明够开头——你为什么非要金子？"
 **关键词**：It is always more with you / it’s only enough for that moment / why must you have gold
-**为什么这样写**：Mielle 的诘问用时间刻度丈量贪婪——分钟到金子，一条饿的进度条。这句也是全书最接近"告白"的时刻（呼吸的距离），被她自己在下一句收回。
+**为什么这样写**：Mielle 的诘问用时间刻度丈量贪婪——分钟到金子，一条饿的进度条。这句也是全书最接近"告白"的时刻（呼吸的距离），被她自己在下一句收回；随后她补上的条款是 "First, survive. Then we can speak about winning."——生存是赢的先决科目，这句在本章后半的血路上逐字兑现。
 **读者视角提示**：注意她问的是"why must you"不是"why do you"——道德质问而非好奇。Mielle 不懂欲望，只懂数量，这段对话是两个物种的词典对不上的现场。
 
 > **原句 3:** "“This is the first lesson that Iphigenia learned. First come the bones, and then comes the flesh. If a thing has bones that are then dressed in flesh, how far might they go?”"
