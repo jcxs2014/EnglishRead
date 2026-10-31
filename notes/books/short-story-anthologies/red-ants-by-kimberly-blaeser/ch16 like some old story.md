@@ -50,19 +50,7 @@ modified: "2026-10-31"
 
 **表达方式**：musta / heppened / S'pose 是方言拼写的口语腔；out of my freezer 把「打猎」的动词嫁接到冰箱上，是全篇最轻快的讽刺。
 
-> **原句 4:** "It was that man-deer spirit that’s said to appear when them graves have been disturbed. Happens every forty years or so. Someone forgets. Gets too cocky. Pretty soon it’s there on the edge of the clearing, antlers catching the early evening light."
-
-**中文理解**：那就是「鹿身人灵」——据说坟地被惊扰时它就会出现。大约每四十年一次。有人忘了规矩，变得太狂妄。很快它就站在林间空地边缘，鹿角接住傍晚最初的光。
-
-**关键词**：man-deer spirit / graves have been disturbed / every forty years / antlers catching the early evening light
-
-**为什么这样写**：灵异故事被讲成一条「规矩」——忘了规矩的人会遇见它；「鹿角接住傍晚的光」把恐怖写出一种庄严的美，警告与诗意并存。
-
-**句子结构**：先命名（man-deer spirit），再给周期与缘由（forty years / too cocky），最后以画面定格。
-
-**表达方式**：antlers catching the early evening light 是全篇最凝练的意象——超自然之物用光影完成现身。
-
-> **原句 5:** "I had sat at the table to shell peas. The boys came in looking kind of funny. Awfully quiet, too. No teasing. Just set themselves to cleaning up. Boiling water to wash, emptying their pockets of spare shells and the matchsticks they always carried."
+> **原句 4:** "I had sat at the table to shell peas. The boys came in looking kind of funny. Awfully quiet, too. No teasing. Just set themselves to cleaning up. Boiling water to wash, emptying their pockets of spare shells and the matchsticks they always carried."
 
 **中文理解**：我原本坐在桌边剥豌豆。男孩们进屋时神情古怪。也异常安静。没人打闹。只是自顾自收拾起来：烧水洗手，倒空口袋里总带着的备用弹壳和火柴。
 
@@ -73,6 +61,18 @@ modified: "2026-10-31"
 **句子结构**：短句排比（Awfully quiet. No teasing.），动作清单（Boiling water / emptying）模仿孩子观察的客观镜头。
 
 **表达方式**：kind of funny 是口语里「不对劲」的说法；matchsticks 是男孩们随身的火种，倒空它们近乎交出少年时代的胆气。
+
+> **原句 5:** "It was that man-deer spirit that’s said to appear when them graves have been disturbed. Happens every forty years or so. Someone forgets. Gets too cocky. Pretty soon it’s there on the edge of the clearing, antlers catching the early evening light."
+
+**中文理解**：那就是「鹿身人灵」——据说坟地被惊扰时它就会出现。大约每四十年一次。有人忘了规矩，变得太狂妄。很快它就站在林间空地边缘，鹿角接住傍晚最初的光。
+
+**关键词**：man-deer spirit / graves have been disturbed / every forty years / antlers catching the early evening light
+
+**为什么这样写**：灵异故事被讲成一条「规矩」——忘了规矩的人会遇见它；「鹿角接住傍晚的光」把恐怖写出一种庄严的美，警告与诗意并存。
+
+**句子结构**：先命名（man-deer spirit），再给周期与缘由（forty years / too cocky），最后以画面定格。
+
+**表达方式**：antlers catching the early evening light 是全篇最凝练的意象——超自然之物用光影完成现身。
 
 > **原句 6:** "Turns out I didn’t have to wait long. Next day the women couldn’t tell it enough, how they tricked their husbands into hunting for that half-blood woman Sarah Goes Lightning. She was a Sioux, you know, and had those five kids."
 
