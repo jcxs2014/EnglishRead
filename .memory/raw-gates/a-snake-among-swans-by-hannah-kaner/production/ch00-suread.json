@@ -1,0 +1,67 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch00",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch00_prologue.txt",
+ "facts": [
+  {
+   "fact": "叙述者生于战争，最后一次 kingsmoot 在 kithwood 阴影下召开时她还未成年，以为那不过是又一场集会。",
+   "anchor": "when the last kingsmoot raised its banners in the kithwood’s shadow",
+   "start": 201,
+   "end": 268
+  },
+  {
+   "fact": "她的女仆 Marolyn 十五岁，比她大一岁，所以生气时仍敢叫她全名 Tuathilde。",
+   "anchor": "She was fifteen, and a year my senior",
+   "start": 1657,
+   "end": 1694
+  },
+  {
+   "fact": "她被树声（TREACHERY）唤醒，接着营中传来一声惨叫，号角刚响一声就被截断。",
+   "anchor": "before being cut out",
+   "start": 2854,
+   "end": 2874
+  },
+  {
+   "fact": "袭营的兵士穿 Gevera 的颜色，却排 Cynghal 的列阵，Gevera 的熊旗上方飘着天鹅旗。",
+   "anchor": "men in Geveran colours but Cynghal formation",
+   "start": 3581,
+   "end": 3625
+  },
+  {
+   "fact": "Sanafin 是 Kanaan 的继承人，红棕色头发，这是她们的第三次见面，此前已接过一次吻。",
+   "anchor": "Sanafin was the heir of Kanaan",
+   "start": 4335,
+   "end": 4365
+  },
+  {
+   "fact": "Sanafin 赶来报信：Geveran 人把 Cynghal 藏在自己人当中，要 Ardweni 在敌军到前退进林子。",
+   "anchor": "The Geverans hid Cynghals amongst them",
+   "start": 6616,
+   "end": 6654
+  },
+  {
+   "fact": "一支箭射穿 Sanafin 的喉咙，她死在叙述者面前，手指伸着却够不到。",
+   "anchor": "An arrow had taken her through the throat",
+   "start": 8241,
+   "end": 8282
+  },
+  {
+   "fact": "Sanafin 的尸身被土里爆出的黑山楂与野蔷薇覆盖带走，那是叙述者第一次真正用出森林的力量。",
+   "anchor": "Black hawthorn, bursting with white flowers and red berries",
+   "start": 10510,
+   "end": 10569
+  },
+  {
+   "fact": "她的父亲死在 Falcan，去年冬天葬在铁土与树根下；那晚她第一次在树声里听出他的声音。",
+   "anchor": "dead in Falcan",
+   "start": 9660,
+   "end": 9674
+  },
+  {
+   "fact": "那年她十四岁，却觉得自己爱得如所能爱的最烈，并以为她们得救了。",
+   "anchor": "It was a silly thing to think at fourteen",
+   "start": 5977,
+   "end": 6018
+  }
+ ]
+}
