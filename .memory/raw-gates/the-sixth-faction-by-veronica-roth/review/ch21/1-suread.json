@@ -1,0 +1,85 @@
+{
+  "chapter": "ch21",
+  "pov": "第一人称，叙述者是 Tris（「我」）；主干现在时（I put on / she says / I walk）",
+  "facts": [
+    {
+      "event": "无派别一方在 Rookery 高层一间没有光的房间里教自卫，时间固定在每天下午、晚饭之前；与晨跑和外出不同，这门课是自愿参加的。",
+      "who": "they",
+      "receivers": "Tris",
+      "start": 40,
+      "end": 240,
+      "text": "Factionless self-defense lessons are held every afternoon, right before dinner, in a lightless room on one of the Rookery’s upper floors. Unlike the morning runs and the field trips, they’re optional."
+    },
+    {
+      "event": "Gretchen 把 Tris 从人群里叫开，说欢迎她来练体能和力量，但不想浪费她的时间——「有些东西是技巧根本克服不了的」，随后问她：若对上比自己大得多、哪怕水平差得多的对手，她会怎么办。",
+      "who": "she",
+      "receivers": "you",
+      "start": 2573,
+      "end": 2753,
+      "text": "There are some things skill just can’t overcome. If I go up against an opponent who’s a lot bigger than I am, even if they’re a lot worse than I am, do you know what I’m gonna do?”"
+    },
+    {
+      "event": "Gretchen 给出的答案是跑，被逼到角落就拼命尖叫；她要 Tris 的目标是「别被逼进角落」，并当面说因为 Tris 而所有人都比她大。",
+      "who": "she",
+      "receivers": "you",
+      "start": 2947,
+      "end": 3206,
+      "text": "“Then you scream as loud as you can,” Gretchen says. “But overall, your goal should be to not get cornered. Be quick, be evasive, don’t get into a position where you have to fight someone who’s bigger than you, because Tris . . . everyone is bigger than you.”"
+    },
+    {
+      "event": "Gretchen 说完就走开，Tris 站在原地被刺伤——她感到 Rory、Colin 等人的目光都在身上；此时回去继续练和就此走掉一样难堪。",
+      "who": "she",
+      "receivers": "I",
+      "start": 4730,
+      "end": 5000,
+      "text": "She walks away, and I stand there, stung. I can feel other people’s eyes on me, Rory and Colin among them. It would be humiliating to return to the exercise after what Gretchen just said; it would be just as humiliating to walk out of here, dismissed as a waste of time."
+    },
+    {
+      "event": "Christina 告诉 Tris：新生 Peter 已针对她好几周，因为他的女友 Molly 排名接近垫底、他必须把别人挤下去才保得住她；昨天 Molly 落到最底、今天就要被淘汰，昨夜 Peter 趁她睡觉用磨尖的食堂黄油刀下手。",
+      "who": "he",
+      "receivers": "me",
+      "start": 7486,
+      "end": 7772,
+      "text": "Anyway, she hit the very bottom yesterday, which meant she’d be kicked out today. So I should have known something was coming. Last night he grabbed me while I was sleeping. He’d sharpened one of the butter knives from the cafeteria, and I don’t know what his original plan for it was.”"
+    },
+    {
+      "event": "Christina 用很小的声音说出自己最在意的竟是「我会变丑」，并自嘲这是所有可以担心的事情里最蠢的一件。",
+      "who": "she",
+      "receivers": "me",
+      "start": 8295,
+      "end": 8408,
+      "text": "“That I’m going to be ugly,” she says, in a small voice. “Isn’t that stupid? Of all the things to be focused on.”"
+    },
+    {
+      "event": "Tris 反驳说，Christina 会成为「戴眼罩的女孩」——没人知道眼罩底下是什么、她是怎么弄来的；一个有故事、有 grit 的女孩。",
+      "who": "I",
+      "receivers": "her",
+      "start": 8868,
+      "end": 9029,
+      "text": "“No, you’re going to be the girl with the eye patch, and who knows what’s under it or how she got it?” I say. “A girl with a story. A girl who’s got . . . grit.”"
+    },
+    {
+      "event": "Christina 承认身材劣势是巨大劣势，但说想伤害 Tris 的人不会料到像她这样的人会反击——surprise 可能就是能不能脱身的分界（随后她提出可以教 Tris 她所会的东西）。",
+      "who": "she",
+      "receivers": "you",
+      "start": 10352,
+      "end": 10679,
+      "text": "“I’m not going to pretend it’s not a huge disadvantage, because it is,” Christina says. “But listen, if someone tries to hurt you, they’re not going to be expecting someone like you to fight back. You have surprise on your side. And surprise can mean the difference between getting away from someone and not quite managing to.”"
+    }
+  ],
+  "relations": [
+    "Gretchen 是 Rookery 自卫课的教练；她认为 Tris 太矮小、教她是浪费时间，只肯让她来练体能。",
+    "Christina 与 Tris 住同一间宿舍、床正对着床；她是刚出院的独眼伤者，伤她的是新生 Peter。",
+    "Peter 的女友 Molly 排名垫底、即将被淘汰；Peter 为保住她便攻击其他新生（Christina 是被他刺瞎一只眼的人）。",
+    "Christina 主动提出「我可以教你我会的东西」，Tris 答应：她将成为 Tris 的自卫教练，这是本章结尾的转向。",
+    "Colin、Rory、Miles 与 Tris 同住一个角落的四张床；Miles 在学养蜂（apiary），Colin 和 Rory 都在自卫课上。",
+    "Colin 曾直接怀疑 Tris 想争取 Foxes 的资格；Gretchen 用「身体每个部位都各司其职」来劝她另找有用的技能。"
+  ],
+  "numbers": [
+    "“every afternoon, right before dinner”（自卫课的时间）",
+    "“today is my first day”（Tris 今天才获准开始练）",
+    "“for weeks”（Peter 已针对 Christina 好几周）",
+    "“yesterday”（Molly 昨天落到排名最底，今天就要被淘汰）",
+    "“a couple girls”（入营时有两个和 Tris 身材差不多的女生，Four 教过她们自卫）"
+  ]
+}
