@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch59",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch59_chap59.txt",
+ "facts": [
+  {
+   "fact": "Four 删完模拟数据后没动，判断 Caleb 的活是掩盖这次袭击模拟，那样就不能留下证人",
+   "anchor": "if his job is to cover up the attack simulation, he can’t leave a witness",
+   "start": 260,
+   "end": 333
+  },
+  {
+   "fact": "Four 认定 Jeanine Matthews 会讲故事，今天的事她已经备好一套叙事",
+   "anchor": "Jeanine Matthews is a storyteller",
+   "start": 339,
+   "end": 372
+  },
+  {
+   "fact": "Four 轻声开口，替 Caleb 把结论说出来——你得杀我，对吧",
+   "anchor": "going to have to kill me, aren’t you",
+   "start": 1081,
+   "end": 1117
+  },
+  {
+   "fact": "Caleb 答自己不认识 Four，但了解自己的父亲",
+   "anchor": "I do know my father",
+   "start": 1178,
+   "end": 1197
+  },
+  {
+   "fact": "对面的 Tris 跪倒在地、蜷成一团，Four 一度担心自己对她的信心放错了地方",
+   "anchor": "Tris falls to her knees, curled up into a tight ball",
+   "start": 1725,
+   "end": 1777
+  },
+  {
+   "fact": "随后 Tris 的身体像花一样舒展开，模拟过去了",
+   "anchor": "her body unfurls like a flower, blooming",
+   "start": 2110,
+   "end": 2150
+  },
+  {
+   "fact": "Tris 举枪对准 Caleb，Four 起身想闪开，被 Caleb 抓住夹克后襟拽到身前",
+   "anchor": "He grabs me by the back of my jacket and wrenches me",
+   "start": 2736,
+   "end": 2788
+  },
+  {
+   "fact": "结尾 Four 说了两遍没事，然后等她放下枪",
+   "anchor": "And I wait for her to put down her gun",
+   "start": 3817,
+   "end": 3855
+  }
+ ]
+}
