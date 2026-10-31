@@ -17,7 +17,7 @@ modified: "2026-10-31"
 
 > **原句 1:** "Tilde had stood as if in ecstatic joy at Liran’s words, but Elise had taught her better than that. Too bold. She was now being spoken to by Gaisa, across Conrin, while Egil stared into his cup."
 
-**中文理解**：Elise 一进场就觉得不对。Tilde 在国王那番话里站得像欣喜若狂，可这份高兴是 Elise 亲手教出来的，太用力了。此刻隔着 Conrin 跟她搭话的是 Gaisa，Egil 低头盯着自己的酒杯。
+**中文理解**：Elise 一进场就觉得不对。Tilde 站在那儿，像是被国王那番话烧起了狂喜，可这份高兴是 Elise 亲手教出来的，太用力了。此刻隔着 Conrin 跟她搭话的是 Gaisa，Egil 低头盯着自己的酒杯。
 
 **关键词**：`as if in ecstatic joy`（像是欣喜若狂） / `taught her better than that`（把她教得比这更懂） / `stared into his cup`（盯着自己的酒杯）
 
@@ -61,7 +61,7 @@ modified: "2026-10-31"
 
 **关键词**：`fewer friends than I thought`（朋友比我以为的少） / `never liked these dances`（从来不喜欢这些舞） / `rules on how to step`（该往哪儿迈步的规矩）
 
-**为什么这样写**：这是全章唯一一段 Isen 主动示弱的话，而他把示弱说成了抱怨：朋友少、舞会烦、老家自在。三项排下来，句句不提朝局，句句都是朝局——他刚在某个决定上被孤立。Cynghal 被拿来当反例也不是乡愁，是他唯一熟的那套规则：战场上没有舞步。
+**为什么这样写**：这是全章唯一一段 Isen 主动示弱的话，而他把示弱说成了抱怨：朋友少、舞会烦、老家自在。三项排下来，句句不提朝局，句句都是朝局——他像在某个决定上被孤立了。Cynghal 被拿来当反例也不是乡愁，是他唯一熟的那套规则：战场上没有舞步。
 
 **读者视角提示**：注意他把「朋友少」放在最前。一个向来靠战功立足的人先谈朋友，等于承认自己最近做了不讨喜的事。而 Elise 听完的第一反应是越过他的肩膀去找 Tilde，她的注意力始终不在他身上。
 
@@ -71,7 +71,7 @@ modified: "2026-10-31"
 
 **关键词**：`did not want to be peaceful`（不想和和气气） / `in her mind’s eye`（在心里的眼睛里） / `favourite brother hesitated`（最喜欢的哥哥迟疑了）
 
-**为什么这样写**：一个 No 单独成句，前后都是长句，它就被空出来，像钉进木头的一枚钉子。母亲皱眉、Isuire 微笑，两个不在场的人同时给表情，一个反对一个赞许，把「说不」变成家族内部的审判。末句是本章最轻也最重要的一次转折：hesitated 之后才是 nodded，哥哥站到这边，用了整整一个 moment。
+**为什么这样写**：一个 No 单独成句，前后都是长句，它就被空出来，像钉进木头的一枚钉子。母亲皱眉、Isuire 微笑，两个不在场的人同时浮出表情，一个反对一个赞许，把「说不」变成家族内部的审判。末句是本章最轻也最重要的一次转折：hesitated 之后才是 nodded，哥哥站到这边，用了整整一个 moment。
 
 **读者视角提示**：Isuire 的微笑出现在她拒绝的瞬间——那个死去的名字既是她此刻的底气，也是她最不敢碰的地方。这一句要慢读。
 
@@ -83,7 +83,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：先给方向，再给脸，最后给身体，三个镜头拼起来，恐惧与服从同时成立。marionette 这个词把「她自己走」解释掉了：走的是她的腿，动的是别人的手。末句用 commanded 这个词，命令的内容仍然空着，读者只能从那只伸出去的手往回推。
 
-**读者视角提示**：这一段要盯住「谁在动」。她伸手不是想自焚，是有人在替她做决定；稍后 Elise 冲上去，抢的就是这只手。
+**读者视角提示**：这一段要盯住「谁在动」。她伸手看着像自焚，其实是有人在替她做决定；稍后 Elise 冲上去，抢的就是这只手。
 
 > **原句 8:** "It was a presentation. When other dances were called, men would see who they liked and approach them as their partners. Tilde hung heavily on their arms, breathing shallowly, and Elise could tell it took all of her will not to break and run."
 
