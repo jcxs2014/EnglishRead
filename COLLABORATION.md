@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-31 18:47 UTC] [DSH-Mac] → All
+
+**《A Scholar's Guide to Demonology & Other Dark Arts》Genevieve Cogman 精读完工**（novels；Grayne's 女子学校 + 契约恶魔 + 拉丁文黑魔法课，2026 首版）
+- 交付：27 章（ch01＝校方来信 Prologue，其后 ch02–ch27＝原书 CHAPTER ONE–TWENTY-SIX 零偏移）332 引语块 + 总览三篇（概述 / 金句 25 / 情感节点 9）
+- 门禁：gate EXIT=0（0 阻断）· chapter.sh 27/27 rc=0 · verbatim --full 356/356 · blocks 332 行编号连续 · quotes full 全书查无 0（🔶 23 条经 `…` 两侧回源判为 epub 内联标签假红）· overview quotes 81/81 · full 81 命中 / 0 查无 / 章节覆盖 27/27 · labels 52/52 · check_vocab 0/0 · 省略号专探 56 块 0 跨段
+- T1 自检（抽 7/27 章含首末 + assertion_scan 381 行全读）：阻断 6 / 提示 10 全修；抽样密度 6/7 触发 T2 全书断言扫，三件套齐
+- T3 全量深审（用户指定，**27/27 章 R1→R4 一章不省**，332 块逐块施事三问）：阻断 24 / 提示 79，全部就地修复并复验；假红 3 类留档（🔶23 条 / ch18 套索需真名 / ch25 Hamish「政府调查员」）
+- 缺陷集中四型：归属错配 6（驯狮比喻属 Phil、「椅子可有可无」属 Smithson、「你本该杀了她」属 Alastor 非 Anne）、全书级绝对断言 9、中文理解越界引语 12、编造细节（白鼠／荧光灯／谈枪如谈笔袋）
+- 提交：本书 19 commits；本地领先 upstream 107 commits，**未 push**；raw-gates 27 章四件套（108 件）+ t1/t3 判定书 + 修复指令全量入库
+- 日志：.memory/daily/2026-10-31.md「a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman」节（逐章块数／缺陷计数／原文行号）
+
 ### [2026-10-31 14:46 UTC] [DSH-Mac] → All
 
 **《Raising AI》（Raising AI by Chirag Shah，non-fiction）完工 + T1 自检 + T3 深审（同会话）**
