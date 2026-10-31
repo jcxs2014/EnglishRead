@@ -1,0 +1,55 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch08",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch08_eight.txt",
+ "facts": [
+  {
+   "fact": "回溯：演员 Kerrigan 夫人抵纽约发现所有礼服（连睡衣）都被钻穿心口位置的洞；Valois 店三周地狱式修补，换来 Academy of Music 的谢票——周四平民场为她的毒绿裙打成一片。",
+   "anchor": "drilled through with gaping holes to where her heart should be",
+   "start": 529,
+   "end": 591
+  },
+  {
+   "fact": "Howards 夫妻近来失和：不摔东西不骂人，只有枪响后（或枪响前）的那种怪异安静；当晚 Mr. Howard 自行外出赴会。",
+   "anchor": "the silence that came just after a gunshot, or maybe the one that came just before",
+   "start": 4617,
+   "end": 4699
+  },
+  {
+   "fact": "包厢里她认出 Odile——紫水晶女孩的表妹顶位而来；两人隔着观众席交换眼神与手指的微动：不是朋友不是盟友，但「认出」是被允许的。",
+   "anchor": "both of us substitutes in a terrible game",
+   "start": 5889,
+   "end": 5930
+  },
+  {
+   "fact": "幕间她撞见 Jean-Philippe——巴黎那个用缠链拳头打死人的走私犯；她胃坠喉锁，Martha Webster 连拖带抱把她捞走：「我本可以把你留在那儿，但我想你可能想抽根烟。」",
+   "anchor": "he would wire right back to Paris",
+   "start": 11267,
+   "end": 11300
+  },
+  {
+   "fact": "Rice 家旧包厢（第五道门把戏）是半真实空间：幕布既闭又开，一出幽灵戏与歌剧同台——王冠幽灵被从背后刺穿、披发女鬼被揪发亮喉；她想起死在巴黎九区的 Alex。",
+   "anchor": "the velvet curtain was at once closed and open",
+   "start": 13131,
+   "end": 13177
+  },
+  {
+   "fact": "Martha 临别留言：任何陷阱都有出口，对她们有些人而言这就是陷阱；Judith 偷看夫人的脸，心想无处不是它——这对所有人都是陷阱。",
+   "anchor": "There are ways out of any trap, and for some of us, this is a trap.",
+   "start": 17509,
+   "end": 17576
+  },
+  {
+   "fact": "Bethany Payne 的逃亡：Martha 备好陶盆，Bethany 脱光、被割约二十道口子、活树枝种进伤口——肉身成树躲过 Rose Ball；秋来叶落自会还原，去芝加哥女子医院医学院入学，Martha 每周来看她。",
+   "anchor": "It’s getting the hell out of this cesspit",
+   "start": 24780,
+   "end": 24821
+  },
+  {
+   "fact": "散场时 Payne 太太挨个追问「见过我的 Bethany 吗」；Martha 自认非圣女——Rose Ball 少一个对手对她有利，她要的是祖母那种「移山改河」的婚事，且要在祖父母在世时到手。",
+   "anchor": "Have you seen my Bethany?",
+   "start": 33178,
+   "end": 33203
+  }
+ ]
+}
