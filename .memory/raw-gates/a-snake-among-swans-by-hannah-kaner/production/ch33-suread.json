@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch33",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch33_chapter_thirty_three_elise.txt",
+ "facts": [
+  {
+   "fact": "她织一幅十三只天鹅的挂毯，连最小的 Alar 也算上",
+   "anchor": "Thirteen swans, all her siblings",
+   "start": 601,
+   "end": 633
+  },
+  {
+   "fact": "Conrin 点破那枚雕天鹅的梭子是她自伤用的",
+   "anchor": "used to hurt herself",
+   "start": 2706,
+   "end": 2726
+  },
+  {
+   "fact": "她当面对三个弟弟预言他们终会互相吃到只剩六人",
+   "anchor": "eat and eat at each other",
+   "start": 5110,
+   "end": 5135
+  },
+  {
+   "fact": "Conrin 把她的脸按在纺凳的钢齿上",
+   "anchor": "pressing her face against its steel spikes",
+   "start": 5548,
+   "end": 5590
+  },
+  {
+   "fact": "Tilde 以王后身份收场时说的粗话",
+   "anchor": "my cock is bigger than yours",
+   "start": 7212,
+   "end": 7240
+  },
+  {
+   "fact": "她在 Tilde 握住手教她呼吸时第一次清楚听见林子的声音",
+   "anchor": "Green and the growing",
+   "start": 11404,
+   "end": 11425
+  },
+  {
+   "fact": "她讲第一代天鹅王用树胶糊窗、烧掉妻子翅膀的故事",
+   "anchor": "pasted it with tree sap",
+   "start": 15523,
+   "end": 15546
+  },
+  {
+   "fact": "章末总结两人：生来为敌、因婚成亲、被罪绑住",
+   "anchor": "bound by sin",
+   "start": 17246,
+   "end": 17258
+  }
+ ]
+}
