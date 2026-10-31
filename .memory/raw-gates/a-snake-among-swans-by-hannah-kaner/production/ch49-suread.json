@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch49",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch49_chapter_forty_nine_elise.txt",
+ "facts": [
+  {
+   "fact": "她拉弓搭箭，回身对上逼近的守卫",
+   "anchor": "She dropped it down to the feathers",
+   "start": 5834,
+   "end": 5869
+  },
+  {
+   "fact": "近距离放箭，箭射进守卫的眼",
+   "anchor": "She loosed at close range",
+   "start": 5962,
+   "end": 5987
+  },
+  {
+   "fact": "她跨过地上扭动的守卫，继续往兵营走",
+   "anchor": "the writhing soldier",
+   "start": 6375,
+   "end": 6395
+  },
+  {
+   "fact": "墙头升起一线灰烟，随即被绿烟吞没",
+   "anchor": "a thin trail of grey smoke",
+   "start": 6465,
+   "end": 6491
+  },
+  {
+   "fact": "黑卫出来看见她满手满身的血",
+   "anchor": "hands and tunic red with blood",
+   "start": 6876,
+   "end": 6906
+  },
+  {
+   "fact": "那些血不是她自己的",
+   "anchor": "not her own",
+   "start": 6908,
+   "end": 6919
+  },
+  {
+   "fact": "她胸前绣着一只天鹅",
+   "anchor": "a swan stitched onto her chest",
+   "start": 6947,
+   "end": 6977
+  },
+  {
+   "fact": "黑卫向她行礼，问她要什么命令",
+   "anchor": "What orders, Princess",
+   "start": 7066,
+   "end": 7087
+  }
+ ]
+}

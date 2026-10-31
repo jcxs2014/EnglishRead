@@ -99,7 +99,7 @@ modified: "2026-10-31"
 | gesticulating | 打手势 | They did not look too concerned, gesticulating instead and arguing with a man who had descended to speak with them. |
 | dismissive | 不以为然的；轻蔑的 | They did not look too concerned, gesticulating instead and arguing with a man who had descended to speak with them, and was making dismissive gestures, shooing them back to the palace. |
 | conspired | 密谋 | He had turned on their father, conspired against him, a sin of the mind, of the tongue, of the body. |
-| intend | 打算；意图 | She intended to strike the inner council, show his strength, pride and power. |
+| stoic | 坚忍的；不动声色的 | Tilde’s guards were stoic and unrelenting. |
 | shattering | 破碎 | Her belly ached, her hand bled, her heart was shattered, but it beat for Tilde. |
 | afoot | 在进行中；有动静 | It seemed someone had warned the king’s guard that something was afoot. |
 
