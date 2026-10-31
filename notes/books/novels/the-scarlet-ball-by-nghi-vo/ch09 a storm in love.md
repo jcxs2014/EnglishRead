@@ -114,7 +114,7 @@ modified: "2026-10-31"
 > **原句 15:** "I could tell he didn’t. So far as any of us knew, the world might have been made for his appetite. He wanted to eat her, possibly for her insolence, possibly because he was merely hungry, but there was something else he wanted more."
 
 **中文理解**：她看得出他没懂。就我们所知，这个世界也许就是为他的胃口造的。他想吃掉她——也许为了她的放肆，也许单纯因为饿——但有另一样东西，他更想要。
-**关键词**：the world might have been made for his appetite / possibly because he was merely hungry / something else he wanted more
+**关键词**：made for his appetite / possibly because he was merely hungry / something else he wanted more
 **为什么这样写**：威胁的语法保持天真的结构——"为了她的放肆，也许单纯因为饿"，动机随便挑。真正的钩子在句尾：他更想要的东西显然不是 Mielle，是窗口里那个人。
 **读者视角提示**：她为 Mielle 立私法（"不许碰她"）而他没有立刻翻脸——这笔"他更想要的"就是谈判筹码。记住这个权力天平：她在用自己担保别人。
 
