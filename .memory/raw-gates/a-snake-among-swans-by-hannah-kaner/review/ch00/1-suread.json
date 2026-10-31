@@ -1,0 +1,95 @@
+{
+  "chapter": 0,
+  "text": "text/ch00_prologue.txt",
+  "chars": 10980,
+  "facts": [
+    {
+      "id": 1,
+      "event": "北方四国（Gevera、Hallion、Falcan、Widdin）的败亡者结队南下，被接应到 Ardwen 海岸安置，再被东送往 Kanaan。",
+      "relation": "",
+      "numbers": "",
+      "interval": [
+        650,
+        766
+      ],
+      "anchor": "Finally, we had gathered a force worth mustering from those fallen in the north: Gevera, Hallion, Falcan and Widdin."
+    },
+    {
+      "id": 2,
+      "event": "侍女 Marolyn 被吵醒后抱怨，叫叙事者全名 Tuathilde 并让她回去睡。",
+      "relation": "Marolyn 是 Tilde 的侍女（maid），十五岁，比 Tilde 大一岁",
+      "numbers": "fifteen; a year my senior",
+      "interval": [
+        1657,
+        1766
+      ],
+      "anchor": "She was fifteen, and a year my senior, which meant she still felt the right to use my full name when annoyed."
+    },
+    {
+      "id": 3,
+      "event": "叙事者的兄姐 Colfinn 与 Ebba 已在与 Cynghals 的小规模交战中赢得名声，此刻仍在帐中酣睡。",
+      "relation": "Colfinn 与 Ebba 是 Tilde 的兄姐；Hadiah 是她的表亲",
+      "numbers": "",
+      "interval": [
+        2049,
+        2153
+      ],
+      "anchor": "Colfinn the bright, Ebba the brave, they had already earned their names in skirmishes with the Cynghals."
+    },
+    {
+      "id": 4,
+      "event": "身穿 Gevera 颜色、却排成 Cynghal 阵形的士兵在月下冲进熟睡的部族营地。",
+      "relation": "",
+      "numbers": "",
+      "interval": [
+        3540,
+        3626
+      ],
+      "anchor": "under the silver-sickle moon I could see men in Geveran colours but Cynghal formation."
+    },
+    {
+      "id": 5,
+      "event": "Tilde 抓起刀跑出帐篷去找 Sanafin；此前两人只在 kingsmoot 前见过两次。",
+      "relation": "Sanafin 是 Kanaan 的继承人（heir）",
+      "numbers": "twice",
+      "interval": [
+        4335,
+        4409
+      ],
+      "anchor": "Sanafin was the heir of Kanaan. We had met only twice before the kingsmoot"
+    },
+    {
+      "id": 6,
+      "event": "Sanafin 告诉 Tilde：Geverans 把 Cynghals 藏在队伍里、听其号令，Ardweni 必须退进森林。",
+      "relation": "",
+      "numbers": "",
+      "interval": [
+        6616,
+        6684
+      ],
+      "anchor": "The Geverans hid Cynghals amongst them, and obey their every squawk."
+    },
+    {
+      "id": 7,
+      "event": "一支箭射穿 Sanafin 的喉咙，Marolyn 把 Tilde 扑倒在地。",
+      "relation": "",
+      "numbers": "",
+      "interval": [
+        8241,
+        8319
+      ],
+      "anchor": "An arrow had taken her through the throat. Her blood mingled with her red hair"
+    },
+    {
+      "id": 8,
+      "event": "Sanafin 死去，黑山楂与荆棘从地面爆开、覆住她的身体并把她拖入土中。",
+      "relation": "",
+      "numbers": "",
+      "interval": [
+        10884,
+        10978
+      ],
+      "anchor": "the thorns covering her over like the shield of a warrior, and took her from me into the earth"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "chapter": 3,
+  "text": "text/ch03_chapter_three_elise.txt",
+  "chars": 12717,
+  "facts": [
+    {
+      "id": 1,
+      "event": "Elise 借口在房中默想晨祷，实则趴到窗台上探身观看夏日比武大会，尽管教团禁止女子观看。",
+      "relation": "",
+      "numbers": "not a decade earlier",
+      "interval": [
+        444,
+        515
+      ],
+      "anchor": "Women were not supposed to watch. It was a sin of the eyes and the body"
+    },
+    {
+      "id": 2,
+      "event": "Conrin（二十一岁）率银灰色「灰卫队」打着灰底折翼天鹅旗入场，争夺与国王单独受冕的时刻。",
+      "relation": "Conrin 是 Elise 的长兄、Gaisa 与 Egil 的兄长；国王 Liran 是他们的父亲",
+      "numbers": "twenty-one",
+      "interval": [
+        2619,
+        2714
+      ],
+      "anchor": "At twenty-one, he led his selected host onto the field all in shades of silver: the grey guard."
+    },
+    {
+      "id": 3,
+      "event": "Egil（十四岁）第三次参加混战，举黄底升翼天鹅旗独立成队，铠甲上还留着上次与兄长冲撞后锤平的凹痕。",
+      "relation": "Egil 是 Elise 的弟弟，Gaisa 的弟弟",
+      "numbers": "fourteen, his third melee",
+      "interval": [
+        2999,
+        3110
+      ],
+      "anchor": "Egil, however, just now old enough to ride in the joust at fourteen, had his own troupe. It was his third melee"
+    },
+    {
+      "id": 4,
+      "event": "Egil 佯装败退，引得 Conrin 全队压上，随即与另一支 Cynghal 贵族队夹击，从侧翼劈开灰卫队阵型。",
+      "relation": "Egil 与 Conrin、Gaisa 是亲兄弟，却在场上联手外人算计兄长",
+      "numbers": "",
+      "interval": [
+        5977,
+        6053
+      ],
+      "anchor": "Egil’s retreat had been false; knowing his brothers would run him down first"
+    },
+    {
+      "id": 5,
+      "event": "Conrin 被逼急后勒马人立（违规动作），马匹失控撞穿旗杆围栏冲进人群，他只得弃马滚落。",
+      "relation": "Conrin 是 Elise 的兄长；她隔窗看出他已从「虔诚的 Conrin」变成「狠毒的 Conrin」",
+      "numbers": "",
+      "interval": [
+        6556,
+        6612
+      ],
+      "anchor": "Conrin kicked his horse up into rearing, an illegal move"
+    },
+    {
+      "id": 6,
+      "event": "Isen 把 Elise 从窗台上生生拖回屋内，脸色惨白，以为她想跳窗自尽。",
+      "relation": "Isen 是 Elise 的二哥、她最喜爱的兄长；兄妹以「hyem」互称",
+      "numbers": "",
+      "interval": [
+        7545,
+        7645
+      ],
+      "anchor": "She heard a step on the reeds behind her, and found herself being dragged bodily back into the room."
+    },
+    {
+      "id": 7,
+      "event": "两人都不敢看墙上挂毯：上面绣着天鹅王的妻子与女儿共四个女人，一个远在流放地，两个已死，Elise 是最小也是最后一个。",
+      "relation": "Elise 是国王最小的女儿，亡姐 Isuire 的妹妹；母亲 Isabella 已死",
+      "numbers": "four women, two dead",
+      "interval": [
+        8419,
+        8503
+      ],
+      "anchor": "four women, the wife and daughters of the swan king. One in distant exile, two dead."
+    },
+    {
+      "id": 8,
+      "event": "Isen 告诉 Elise，父亲（国王）派人召见她，她必须立刻前往。",
+      "relation": "Isen 替父亲传召妹妹；国王是他们的父亲",
+      "numbers": "",
+      "interval": [
+        12311,
+        12401
+      ],
+      "anchor": "Why do you think I’m here in the women’s apartments, Elise?’ said Isen. ‘He sent for you.’"
+    }
+  ]
+}
