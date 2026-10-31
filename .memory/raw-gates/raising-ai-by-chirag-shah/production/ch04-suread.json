@@ -1,0 +1,55 @@
+{
+ "book": "raising-ai-by-chirag-shah",
+ "chapter": "ch04",
+ "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch04_3_waves_and_winters_of_ai.txt",
+ "facts": [
+  {
+   "fact": "作者 2002 年在 IIT Bombay 首次对 AI 产生怀疑。",
+   "anchor": "The year was 2002 and for the first time, I was having my doubts about this whole AI thing.",
+   "start": 724,
+   "end": 815
+  },
+  {
+   "fact": "HOD 罚作者 500 卢比，约等于当时一个月房租。",
+   "anchor": "So he fined me Rs. 500. Back then, this much money could pay one month’s rent.",
+   "start": 6410,
+   "end": 6488
+  },
+  {
+   "fact": "“Ram eats rice” 成了 UNL 项目失败的玩笑梗。",
+   "anchor": "That sentence “Ram eats rice” was so prevalent in our demos that it became the subject of jokes around UNL’s failures.",
+   "start": 15730,
+   "end": 15848
+  },
+  {
+   "fact": "作者结论：规则系统根本无法捕捉自然语言。",
+   "anchor": "It was because fundamentally, it is impossible to capture natural language with a set of rules, no matter how many.",
+   "start": 19571,
+   "end": 19686
+  },
+  {
+   "fact": "图灵 1949 年对《伦敦时报》预言机器终将进入人类智识的所有领域。",
+   "anchor": "I do not see why it (the machine) should not enter any one of the fields normally covered by the human intellect, and eventually compete on equal terms.",
+   "start": 24936,
+   "end": 25088
+  },
+  {
+   "fact": "ALPAC 1966 报告判定机器翻译比人工翻译更贵、更不准、更慢。",
+   "anchor": "“machine translation was more expensive, less accurate and slower than human translation.”",
+   "start": 29098,
+   "end": 29188
+  },
+  {
+   "fact": "AlphaGo 2016 用人类专家没用过的直觉策略击败顶尖棋手。",
+   "anchor": "Their methods powered “AlphaGo” in 2016, created by DeepMind (later acquired by Google), to defeat one of the world’s top players in the famously complex board game Go with intuitive strategies human experts had never tried.",
+   "start": 45973,
+   "end": 46197
+  },
+  {
+   "fact": "作者借《权力的游戏》史塔克家台词警告 AI 寒冬将至。",
+   "anchor": "But also be prepared because to paraphrase House Stark from “Game of Thrones,” AI winter is coming.",
+   "start": 61859,
+   "end": 61958
+  }
+ ]
+}
