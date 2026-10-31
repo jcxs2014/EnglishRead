@@ -1,0 +1,95 @@
+{
+ "chapter": 22,
+ "text": "text/ch22_chapter_twenty_two_elise.txt",
+ "chars": 21138,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Elise 在贵族营地撞见被放逐十年的 Alar 归来，用掌心的梭子刺自己压住尖叫，仍留在 Tilde 身边",
+   "relation": "Elise 与异母兄 Alar（羞耻与恐惧）",
+   "numbers": "no",
+   "interval": [
+    309,
+    391
+   ],
+   "anchor": "she took her desire to scream, and punctured it with her sharp shuttle in her palm"
+  },
+  {
+   "id": 2,
+   "event": "Elise 低声向 Tilde 解释汗帐是 Cynghal 传统，用于洗浴或战事会议，猜父亲是要听她们谏言",
+   "relation": "Elise 与王后 Tilde（依赖/安抚）",
+   "numbers": "no",
+   "interval": [
+    2149,
+    2204
+   ],
+   "anchor": "‘It’s a sweating tent,’ said Elise. Her throat was dry."
+  },
+  {
+   "id": 3,
+   "event": "Tilde 说银王后有自己的‘妻子们’，Elise 斥其不合翼之法，两人之间生出暧昧张力",
+   "relation": "Tilde 与 Elise（信仰冲突/情欲）",
+   "numbers": "no",
+   "interval": [
+    3196,
+    3260
+   ],
+   "anchor": "‘Wives,’ echoed Elise. ‘I thought the silver queen was a woman.’"
+  },
+  {
+   "id": 4,
+   "event": "Elise 意识到 Alar 已被逐出 Merogia 十年，穿南岸风暴赶回绝非只为迎一位王后",
+   "relation": "Alar 与 Merogia 王室（流亡者归来）",
+   "numbers": "a decade",
+   "interval": [
+    8145,
+    8191
+   ],
+   "anchor": "he had been banished from Merogia for a decade"
+  },
+  {
+   "id": 5,
+   "event": "Liran 把 Hein 那桶冷水泼向揪打的 Alar 与 Conrin，骂他们一半是刚破壳的雏鸟",
+   "relation": "Liran 与诸子（父权压制）",
+   "numbers": "no",
+   "interval": [
+    16983,
+    17068
+   ],
+   "anchor": "Liran picked up Hein’s bucket of water and threw the cold liquid over the two of them"
+  },
+  {
+   "id": 6,
+   "event": "Alar 警告 Liran：拷打只能榨出她已说的或他想听的话，还会让他少一位王后",
+   "relation": "Alar 与 Liran、Tilde（护住继母）",
+   "numbers": "no",
+   "interval": [
+    18858,
+    18944
+   ],
+   "anchor": "Torture will extract either what she has told you, or what she thinks you want to know"
+  },
+  {
+   "id": 7,
+   "event": "Liran 采纳 Merovin 的提议，命他护送 Tilde 去营地，定黎明试行和谈",
+   "relation": "Liran 与 Tilde、Ducal Merovin（把王后当筹码）",
+   "numbers": "At dawn",
+   "interval": [
+    20881,
+    20977
+   ],
+   "anchor": "At dawn, we will try this parley, and see if a woman can do what all you men of my blood cannot."
+  },
+  {
+   "id": 8,
+   "event": "Conrin 告知 Ducal Kerrin 已死且被‘swan’，其妻 Lady Henoveva 仍守内墙，Elise 判断内墙粮足只可撑数周",
+   "relation": "叛军与王室（战况/围城）",
+   "numbers": "weeks, not months",
+   "interval": [
+    10488,
+    10554
+   ],
+   "anchor": "‘And swanned,’ said Conrin. ‘Looks like Isen is losing his touch.’"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "chapter": 23,
+ "text": "text/ch23_chapter_twenty_three_tilde.txt",
+ "chars": 13662,
+ "facts": [
+  {
+   "id": 1,
+   "event": "梅罗文叫住留胡子的加莱尼什人佩林队长，要他派武装护卫送她们回女人营地；蒂尔德无法拒绝这道直接下达的命令，跟着梅罗文走出帐篷。",
+   "relation": "梅罗文（Gevera 公爵，叛徒）→ 佩林队长（加莱尼什雇佣军人，下属）→ 蒂尔德（被押送者）",
+   "numbers": "",
+   "interval": [
+    241,
+    341
+   ],
+   "anchor": "‘Captain Perin,’ he called to the moustachioed Galenish man as Muirenn and Elwinde came to dress me."
+  },
+  {
+   "id": 2,
+   "event": "梅罗文请马罗琳夫人去牵马，马罗琳用梅罗吉亚语骂他“你不如去塞—”，被蒂尔德出声制止，她咬牙点头离开。",
+   "relation": "蒂尔德 → 马罗琳夫人（她的侍女/同伴，脾气暴烈，护主）",
+   "numbers": "",
+   "interval": [
+    595,
+    648
+   ],
+   "anchor": "‘Perhaps you could shove—’ Marolyn began in Merogian."
+  },
+  {
+   "id": 3,
+   "event": "埃莉丝从帐篷里出来，像被半关住的人；蒂尔德问她要不要护卫，她低声道谢绝，抓起东西独自走开，大概去找她那杀人的长兄。",
+   "relation": "蒂尔德 ↔ 埃莉丝（同处险境的女子，互不信任但彼此留意）",
+   "numbers": "",
+   "interval": [
+    1041,
+    1122
+   ],
+   "anchor": "‘No thank you,’ she said in a low voice, then grabbed her things and marched away"
+  },
+  {
+   "id": 4,
+   "event": "一行人在男人营地中沉默骑行，哈迪雅与马罗琳步行在后、缪琳与艾尔温德压尾；蒂尔德远远看见盖弗拉人叛盟之处——护住营地的林带被用盐挖开，与主林体裂成两半。",
+   "relation": "蒂尔德 → 哈迪雅/马罗琳/缪琳/艾尔温德（她的随行女眷，被刻意留在听不见的距离）",
+   "numbers": "",
+   "interval": [
+    2140,
+    2242
+   ],
+   "anchor": "The section of forest that had protected our camp was separated now from the main body of the kithwood"
+  },
+  {
+   "id": 5,
+   "event": "梅罗文低声唤她“图阿蒂尔德国王”，蒂尔德当场纠正说自己只是王后：“国王继承，国王领军，王后是妻子。”",
+   "relation": "梅罗文 → 蒂尔德（以旧称/王号试探，暗含政治承认的交换）",
+   "numbers": "",
+   "interval": [
+    2550,
+    2636
+   ],
+   "anchor": "‘I am a queen,’ I told him. ‘A king inherits. A king leads armies. A queen is a wife.’"
+  },
+  {
+   "id": 6,
+   "event": "梅罗文辩称盖弗拉最先陷落是因为辛格哈尔人劫掠时无一族来援，她母亲与卡纳安国王只顾互相偷牛；他要她写信问母亲以证所言为真。",
+   "relation": "梅罗文 → 蒂尔德的母亲（指控其失义，挑拨母女）",
+   "numbers": "",
+   "interval": [
+    4340,
+    4448
+   ],
+   "anchor": "When he moved towards Hallion your mother and the king of the Kanaan were busy thieving each other’s cattle."
+  },
+  {
+   "id": 7,
+   "event": "梅罗文自陈身世：叔父被“天鹅”处死、姑母被木梁压死、姐姐遭加莱尼什骑士奸杀，兄弟们被扣为人质，全靠母亲把他扮成男孩才逃过同样命运——他是唯一活下来的兄弟。",
+   "relation": "梅罗文 ↔ 其母（救命者）、其兄弟姐妹（皆亡）；与蒂尔德（同为暴行的幸存者）",
+   "numbers": "twenty years of this court（第112行）",
+   "interval": [
+    7317,
+    7394
+   ],
+   "anchor": "If my mother had not dressed me as a boy I would have suffered the same fate."
+  },
+  {
+   "id": 8,
+   "event": "梅罗文摊牌：他要一位“孩子能统一梅罗吉亚与辛格哈尔”的王后，劝她在此建功立望，若愿结盟就戴上那枚挂坠；蒂尔德拒绝，但心底已被种下疑影。",
+   "relation": "梅罗文 → 蒂尔德（政治结盟提议，以挂坠为信物）",
+   "numbers": "over two decades（第130行，指与齐扬合著之书）；at least two moons away（第67行，秋日之期）",
+   "interval": [
+    12466,
+    12535
+   ],
+   "anchor": "‘I want a queen whose child will unite Merogia and Cynghal,’ he said."
+  }
+ ]
+}

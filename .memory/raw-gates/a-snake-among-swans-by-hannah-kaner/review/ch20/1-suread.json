@@ -1,0 +1,95 @@
+{
+ "chapter": 20,
+ "text": "text/ch20_chapter_twenty_tilde.txt",
+ "chars": 6519,
+ "facts": [
+  {
+   "id": 1,
+   "event": "在向东南的长途行军中，蒂尔德（Tilde）被众女子施以哈迪亚（Hadiah）所称的“shun”（集体冷遇），无人与她交谈。",
+   "relation": "众女子与Tilde：集体排斥",
+   "numbers": "",
+   "interval": [
+    1032,
+    1101
+   ],
+   "anchor": "I learned what Hadiah called the delicate and vicious art of the shun"
+  },
+  {
+   "id": 2,
+   "event": "哈迪亚说明律法：对王子出言是舌之罪，对王子举械是手之罪；蒂尔德补充说她们为梅罗吉亚人出头是心之罪、在暴乱中弃宫廷是身之罪。",
+   "relation": "Tilde/Hadiah/Marolyn：共担罪名",
+   "numbers": "",
+   "interval": [
+    1872,
+    1973
+   ],
+   "anchor": "‘Speech against the princes is a sin of the tongue, bearing a weapon against them a sin of the hand.’"
+  },
+  {
+   "id": 3,
+   "event": "蒂尔德回想族人赛内菲尔（Cynefel）当众跪下、以唇触国王的皮革、护着孕肚相救，并评断她是按他们的规则出牌、把公主拉到己方而赢。",
+   "relation": "Tilde与Cynefel： Kinswoman 的生存策略",
+   "numbers": "",
+   "interval": [
+    3585,
+    3659
+   ],
+   "anchor": "She played their game by their rules, brought the princess onside, and won"
+  },
+  {
+   "id": 4,
+   "event": "迪尔德被达戈贝尔特（Dagobert）从“巢”的前排贬到后排，但伊莉丝（Elise）仍在她身边留了一个位置，这让蒂尔德暗自受用。",
+   "relation": "Tilde与Elise：脆弱的同盟",
+   "numbers": "",
+   "interval": [
+    3807,
+    3875
+   ],
+   "anchor": "Elise kept a space beside her for me, and in weeks of few kindnesses"
+  },
+  {
+   "id": 5,
+   "event": "两周过去，冷遇毫无松动迹象；米瑞恩（Muirenn）与艾尔温德（Elwinde）仍服侍她，但送来的食物是冷的、炭火无香且半熄。",
+   "relation": "仆从与Tilde：勉强的服侍",
+   "numbers": "two weeks",
+   "interval": [
+    4560,
+    4616
+   ],
+   "anchor": "After two weeks, the shun was showing no sign of lifting"
+  },
+  {
+   "id": 6,
+   "event": "哈迪亚第一千次说“只能等”；蒂尔德按揉胸口与小腹，盼望国王的种子已经着床，并因恶心而疑心是怀孕还是路途与羞耻所致。",
+   "relation": "Tilde与国王：以求子为出路",
+   "numbers": "for the thousandth time",
+   "interval": [
+    5420,
+    5508
+   ],
+   "anchor": "pressing at my breasts, my belly, hoping for a sign that the king’s seed was taking hold"
+  },
+  {
+   "id": 7,
+   "event": "国王的夜间探访并未减少，只是变得冷淡而像做工一般，蒂尔德既恨自己不能长出荆棘与利齿撕开他，也厌恶自己竟能忍受。",
+   "relation": "Tilde与国王：例行而冰冷的侵犯",
+   "numbers": "",
+   "interval": [
+    6145,
+    6249
+   ],
+   "anchor": "his visits had not slowed or ceased, only took on a cold and workmanlike intent that was almost a relief"
+  },
+  {
+   "id": 8,
+   "event": "收尾时蒂尔德悔恨当初没有杀掉那个“满脸松垮的野猪”般的男人。",
+   "relation": "Tilde对国王：杀意",
+   "numbers": "",
+   "interval": [
+    6443,
+    6517
+   ],
+   "anchor": "I wished I had killed that saggy-faced boar of a man when I had the chance"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "chapter": 24,
+ "text": "text/ch24_chapter_twenty_four_tilde.txt",
+ "chars": 15135,
+ "facts": [
+  {
+   "id": 1,
+   "event": "黎明前 Tilde 在女营帐篷里拒绝了 Hadiah 与吟游诗人 Miras 的劝阻，自称“顺从的妻子”，并让 Miras 记下这句话。",
+   "relation": "Hadiah（表妹/同伴）与 Miras（受雇吟游诗人）劝阻 Tilde；Tilde 与丈夫 Liran 的婚姻是她此行的身份外壳。",
+   "numbers": "before dawnsong（黎明歌之前）；candles lit（少数点灯的帐篷）",
+   "interval": [
+    818,
+    856
+   ],
+   "anchor": "I am an obedient wife,’ I said tightly"
+  },
+  {
+   "id": 2,
+   "event": "Tilde 说明规矩只许带一名女子同行，另一人须留在营地受看守；Hadiah 主动请缨随行，以便 Tilde 需要时可用 Marolyn 的刀。",
+   "relation": "Tilde 与 Hadiah、Marolyn（持刀护卫）的同盟关系；Liran 一方限定随行人数。",
+   "numbers": "one woman（只许一名女子）",
+   "interval": [
+    1182,
+    1280
+   ],
+   "anchor": "The order was that I could bring one woman with me, but the other would stay at camp, under guard."
+  },
+  {
+   "id": 3,
+   "event": "Tilde 交代后事：若自己死了，Hadiah 就是她们最后的血脉，须去投奔她母亲并讲述她如何活过。",
+   "relation": "Tilde 把 Hadiah 视为“我们中最后一人”，并把她托付给自己的母亲。",
+   "numbers": "the last of us（最后一人）",
+   "interval": [
+    1495,
+    1558
+   ],
+   "anchor": "you are the last of us, Hadiah.’ I thought of Merovin’s comment"
+  },
+  {
+   "id": 4,
+   "event": "Liran 在距活魔法墙一箭之遥处接见 Tilde，只承诺“遵行神意”：若 Wing 给出机会便进攻，并给她王后葬礼。",
+   "relation": "Liran（丈夫/国王）对 Tilde 的支持是有条件的；Dagobert 与 Hein 等王子、Alar 与 Isen 两位流亡/失势王子在旁列阵。",
+   "numbers": "a crossbow bolt’s flight（一箭之距）",
+   "interval": [
+    2851,
+    2918
+   ],
+   "anchor": "We were a crossbow bolt’s flight away from the wall of living magic"
+  },
+  {
+   "id": 5,
+   "event": "Palati Odon 讥讽 Tilde 穿得像 Merogian 人，Tilde 回敬“我穿得像女王”，并说明外披 Elise 所赠黄斗篷。",
+   "relation": "Odon（无封地却常伴国王的 palati）轻视 Tilde；Elise 与妇女们赠她的黄斗篷成为她与 Cynghal 一方的联结标记。",
+   "numbers": "none",
+   "interval": [
+    4961,
+    5047
+   ],
+   "anchor": "I am dressed like a queen,’ I said. I was wearing a robe not unlike my wedding clothes"
+  },
+  {
+   "id": 6,
+   "event": "Elise 未经邀请骑马赶到阵前；Tilde 在她眼中看到彼此同为棋子的映照，却决心做执棋者。",
+   "relation": "Elise（公主）与 Tilde 相互凝视：既是敌人又彼此吸引；Elise 与 Alar 有仇、惧怕父亲。",
+   "numbers": "none",
+   "interval": [
+    6663,
+    6718
+   ],
+   "anchor": "There were hoofbeats behind us, I turned and saw Elise."
+  },
+  {
+   "id": 7,
+   "event": "贴近荆棘墙时 Tilde 只听到“一个声音”，试着向树墙传念“我被知晓”，却毫无回应。",
+   "relation": "Tilde 与 kithwood 魔法（Ways）的感应；她与 Marolyn 并肩赴死式同行。",
+   "numbers": "none",
+   "interval": [
+    9071,
+    9142
+   ],
+   "anchor": "I am known, I tried, pushing my thoughts towards the blockage. Hear me."
+  },
+  {
+   "id": 8,
+   "event": "墙上守军扔下藤蔓绳网把 Tilde 与 Marolyn 吊上壁垒，Guwetha 自报出身并承认自己是 druidim（持 Ways 之力者）。",
+   "relation": "Guwetha（银发狼相的女首领，Kanaan 出身、因 kith 纽带归 Merogia）与 Tilde 对峙；Marolyn 先替 Tilde 答话，暴露 hannerast 上杀人之事。",
+   "numbers": "none",
+   "interval": [
+    14900,
+    14947
+   ],
+   "anchor": "I am Guwetha,’ said the woman. ‘Kanaan by birth"
+  }
+ ]
+}

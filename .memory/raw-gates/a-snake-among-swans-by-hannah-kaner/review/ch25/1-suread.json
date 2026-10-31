@@ -1,0 +1,95 @@
+{
+ "chapter": 25,
+ "text": "text/ch25_chapter_twenty_five_elise.txt",
+ "chars": 14484,
+ "facts": [
+  {
+   "id": 1,
+   "event": "艾莉丝（Elise）目送蒂尔德（Tilde）翻过荆棘墙消失在墙后，心中像被拽走一块。",
+   "relation": "艾莉丝与蒂尔德：敌对阵营中被掳的王后与对她动情的公主",
+   "numbers": "",
+   "interval": [
+    30,
+    80
+   ],
+   "anchor": "Elise watched Tilde disappear over the thorn wall."
+  },
+  {
+   "id": 2,
+   "event": "奥东（Odon）说那女人有求生的本能，利兰（Liran）接口说且看她能不能撑过这个早晨。",
+   "relation": "奥东、利兰兄弟对蒂尔德处境的冷眼旁观",
+   "numbers": "",
+   "interval": [
+    192,
+    260
+   ],
+   "anchor": "‘That woman has an instinct for survival,’ said Odon after a moment."
+  },
+  {
+   "id": 3,
+   "event": "艾莉丝前一日追上伊森（Isen），质问他把阿拉尔（Alar）放回这片土地、与他同坐、还瞒着自己，伊森只答这不是他能决定的。",
+   "relation": "艾莉丝与长兄伊森：被排除在决策之外的妹妹与执行父命的继承人",
+   "numbers": "",
+   "interval": [
+    979,
+    1091
+   ],
+   "anchor": "‘How could he let Alar back on this land? How could you sit with him? How could you keep another thing from me?’"
+  },
+  {
+   "id": 4,
+   "event": "伊森辩解这是战争的代价、宁愿短痛不愿长败，艾莉丝反问伊斯雷、蒂尔德乃至她自己是不是也是代价。",
+   "relation": "兄妹二人对「天鹅的荣耀」与牺牲的正面冲突",
+   "numbers": "",
+   "interval": [
+    1638,
+    1730
+   ],
+   "anchor": "‘It is the cost of war. I thought you knew that. Better a short pain than a long succumbing’"
+  },
+  {
+   "id": 5,
+   "event": "艾莉丝走到练箭场，拿起原属伊森的硬弓，第一箭被风带偏落在靶心上方，再一箭才射中。",
+   "relation": "艾莉丝与家族武艺传统：女子不习射的禁忌被她自己打破",
+   "numbers": "fifth draw",
+   "interval": [
+    3495,
+    3586
+   ],
+   "anchor": "Elise hefted her bow in her hand as the sunlight bathed she and the targets in liquid gold."
+  },
+  {
+   "id": 6,
+   "event": "埃吉尔（Egil）带着自己的紫杉弓来「加入」她，两人轮流射靶，艾莉丝刻意让着他。",
+   "relation": "埃吉尔与艾莉丝：幼弟与代母的长姊",
+   "numbers": "",
+   "interval": [
+    5302,
+    5408
+   ],
+   "anchor": "He had brought his own bow, a fine make of yew, its limbs carved by master artisans with a flick of wings."
+  },
+  {
+   "id": 7,
+   "event": "埃吉尔警告她：若那梅罗吉亚女人活下来，她就必须远离她，家族必须放在第一位。",
+   "relation": "埃吉尔察觉艾莉丝对蒂尔德的私情并予以警告",
+   "numbers": "",
+   "interval": [
+    7098,
+    7161
+   ],
+   "anchor": "‘If she lives, you need to stay away from that Merogian woman.’"
+  },
+  {
+   "id": 8,
+   "event": "十四岁、比她小八岁的埃吉尔宣称计划已在推进，要她回去织布别挡路；艾莉丝一箭正中靶心，回敬他别对她放肆，她的命运不由他选。",
+   "relation": "姐弟权力反转：长姊对幼弟僭越的当众回击",
+   "numbers": "fourteen; eight years younger; thirty years",
+   "interval": [
+    14256,
+    14310
+   ],
+   "anchor": "‘Do not be so bold with me, little brother,’ she said."
+  }
+ ]
+}

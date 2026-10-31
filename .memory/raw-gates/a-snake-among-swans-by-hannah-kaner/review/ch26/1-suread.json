@@ -1,0 +1,95 @@
+{
+ "chapter": 26,
+ "text": "text/ch26_chapter_twenty_six_tilde.txt",
+ "chars": 9533,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Tilde 抵达 Faoldun 城中，只见约三十名 Merogians 聚集，认出 Ardwen 的铜饰、Hallion 的红长靴、Kanaan 的银耳环、Falcan 的铁胸针与 Gevera 的蓝织线。",
+   "relation": "Tilde 与散居各城的 Merogian 遗民",
+   "numbers": "thirty, at most",
+   "interval": [
+    154,
+    229
+   ],
+   "anchor": "There were thirty, at most. I saw the bronze and brass adornments of Ardwen"
+  },
+  {
+   "id": 2,
+   "event": "人群围住 Tilde，连声唤她 Queen Tilde、Rivani 之女、森林之子并求她救命；她先答“我来帮忙”，随即改口宣布“我来解放你们”，要众人耐心退开。",
+   "relation": "Tilde 与 Faoldun 平民（被围困者）",
+   "numbers": "",
+   "interval": [
+    2627,
+    2690
+   ],
+   "anchor": "‘I am here to free you! Be patient, and leave me to this work.’"
+  },
+  {
+   "id": 3,
+   "event": "Marolyn 拨开抓住 Tilde 的手、伸臂将她环住护在身前，走在前头的 Guwetha 回头才发现两人掉队。",
+   "relation": "Marolyn 对 Tilde 的护卫关系（贴身保护）",
+   "numbers": "",
+   "interval": [
+    2349,
+    2429
+   ],
+   "anchor": "Marolyn brushed some hands off, her arms coming around me as Guwetha looked back"
+  },
+  {
+   "id": 4,
+   "event": "Guwetha 领众人走向要塞外郭与门楼前一字排开的七座仓库；其中三座已被烧毁，另一座留着点火未成的焦痕。",
+   "relation": "Guwetha 作为向导带领 Tilde 一行",
+   "numbers": "seven warehouses / Three were burned",
+   "interval": [
+    2953,
+    3019
+   ],
+   "anchor": "following her towards the seven warehouses that stood all in a row"
+  },
+  {
+   "id": 5,
+   "event": "第五座酒库被改作伤兵营：一名女子被按在桌上、口中塞着木棍，医生正从膝部截去她发黑发臭的腿，助手随后舀酒浇洗伤口、商人记账却未阻拦。",
+   "relation": "Guwetha 与伤兵营众人（她刻意让 Tilde 看代价）",
+   "numbers": "removing her leg at the knee",
+   "interval": [
+    3996,
+    4046
+   ],
+   "anchor": "a physik went to work removing her leg at the knee"
+  },
+  {
+   "id": 6,
+   "event": "Guwetha 说明是 Yoldan 召出了那道墙——他是除她之外仅有的两名通晓 Ways 的 druidim 之一，如今心智迷失在 Ways 里；他自把双臂浸入沸油献祭以护住众人。",
+   "relation": "Guwetha 与 Yoldan（同门 druidim，疑似旧情人）",
+   "numbers": "one of two other druidim",
+   "interval": [
+    6853,
+    6944
+   ],
+   "anchor": "‘Yoldan summoned the wall,’ said Guwetha. ‘He is one of two other druidim who know the Ways"
+  },
+  {
+   "id": 7,
+   "event": "Yoldan 半撑起身大喊“Six lands united!”，Tilde 认出这正是荆棘墙发声时的那个嗓音——墙的声音本是他给的形状。",
+   "relation": "Yoldan 与荆棘墙（他的声音成为墙的voice）",
+   "numbers": "Six lands united!",
+   "interval": [
+    8115,
+    8181
+   ],
+   "anchor": "I recognised his voice, it was the voice the thorn wall spoke with"
+  },
+  {
+   "id": 8,
+   "event": "Tilde 指出 Guwetha 六年前就在 Sanafin 出事现场，Guwetha 点头承认“我当时在场”。",
+   "relation": "Guwetha 与 Tilde／Sanafin 六年前的旧事",
+   "numbers": "Six years ago",
+   "interval": [
+    9457,
+    9499
+   ],
+   "anchor": "‘You were there,’ I said. ‘Six years ago.’"
+  }
+ ]
+}

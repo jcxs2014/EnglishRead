@@ -1,0 +1,95 @@
+{
+ "chapter": 21,
+ "text": "text/ch21_chapter_twenty_one_tilde.txt",
+ "chars": 14556,
+ "facts": [
+  {
+   "id": 1,
+   "event": "马夫在Cynghal城门边向提尔德的车夫高喊失守：叛军自河上来、穿城而过，已占外堡与半城，黑王子据其余。",
+   "relation": "提尔德与路遇的报信马夫（陌生人）",
+   "numbers": "half the city",
+   "interval": [
+    830,
+    902
+   ],
+   "anchor": "The gate guards say rebels came from the river and went through the city"
+  },
+  {
+   "id": 2,
+   "event": "提尔德从车窗看见一名Cynghal骑士与一名Galenish骑士被吊死在城门上，尸身已被乌鸦啄去眼睛，推测死了约一周。",
+   "relation": "提尔德与Cynghal守军/伊森亲王的处刑",
+   "numbers": "about a week",
+   "interval": [
+    1681,
+    1758
+   ],
+   "anchor": "One Cynghal and one Galenish knight were hanging by their necks over the gate"
+  },
+  {
+   "id": 3,
+   "event": "众人闻到焦味、提尔德呕吐，随后看见城中Cynghal占领区有三堆尸体在焚烧。",
+   "relation": "提尔德、Marolyn、Hadiah（同行女眷）",
+   "numbers": "three mounds",
+   "interval": [
+    4674,
+    4746
+   ],
+   "anchor": "three mounds of bodies were burning in the Cynghal-held part of the city"
+  },
+  {
+   "id": 4,
+   "event": "提尔德看清叛军城区不是被石墙而是被活荆棘围住（荆棘自林间延伸过河、穿城成墙），认定这正是他们苦寻不得的魔法。",
+   "relation": "提尔德与被困叛军（未知的魔法持有者）",
+   "numbers": "none",
+   "interval": [
+    5336,
+    5439
+   ],
+   "anchor": "The rebel-held city was encircled not by a wall of stone, but what looked like a tangle of living thorn"
+  },
+  {
+   "id": 5,
+   "event": "她们花了两天在两营间看攻守往来，佣兵和平民仆役被征入城下军队、僵局未破；随后提尔德与公主被召见。",
+   "relation": "提尔德与莉兰（召见者）、公主Elise",
+   "numbers": "two days",
+   "interval": [
+    6166,
+    6241
+   ],
+   "anchor": "We had spent two days watching sallies back and forth between the two camps"
+  },
+  {
+   "id": 6,
+   "event": "提尔德在道上与Elise会合，Elise穿棕色Cynghal短上衣、背弓带箭袋，两人并肩入城。",
+   "relation": "提尔德与公主Elise（由敌转近）",
+   "numbers": "none",
+   "interval": [
+    7917,
+    7977
+   ],
+   "anchor": "she also bore a bow across her back, with a quiver of arrows"
+  },
+  {
+   "id": 7,
+   "event": "穿行军营时士兵有人行礼有人啐骂，提尔德想到Cynghal与Galenish联军把六族中的五族撕碎，自问能否驾驭这样一支军队。",
+   "relation": "提尔德与Cynghal/Galenish军营士兵",
+   "numbers": "five of the six clans",
+   "interval": [
+    11014,
+    11074
+   ],
+   "anchor": "a machine of death that tore five of the six clans to pieces"
+  },
+  {
+   "id": 8,
+   "event": "Elise看见那面红色血心天鹅旗后僵住、手抠掌心，低声警告提尔德小心：被放逐到Suneheim的长子Low King Alar回来了。",
+   "relation": "Elise与父亲/兄长Alar（家族内部），Elise与提尔德（示警）",
+   "numbers": "the eldest son",
+   "interval": [
+    14395,
+    14427
+   ],
+   "anchor": "Low King Alar has returned to us"
+  }
+ ]
+}
