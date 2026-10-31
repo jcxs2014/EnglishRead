@@ -116,7 +116,7 @@ modified: "2026-10-31"
 
 **关键词**：exquisite pipestone carving / perfect replica of her old tattoo / How could he know / The Wintermaker / making time for stories
 
-**为什么这样写**：她把 Wintermaker 的纹身洗掉，试图变成「正常」的 Suzie，而 Waabooz 却用一尊雕像把它还给她——故事没有被消除，只是换了一种形态等待她重新认领。
+**为什么这样写**：她花了两个痛苦疗程把 Wintermaker 纹身改成一只蝴蝶（原文 agonizing sessions），试图变成「正常」的 Suzie，而 Waabooz 却用一尊雕像把原来的它还给她——故事没有被消除，只是换了一种形态等待她重新认领。
 
 **句子结构**：感叹短句（Unbelievable）后紧跟疑问（How could he know?），最后以破折号引出 Wintermaker 的完整定义。
 
@@ -168,4 +168,4 @@ modified: "2026-10-31"
 
 ## 一句话总结
 
-一个拼错神话名字的警长，把一群 powwow 散客拉进一场「追捕 Trickster」的荒诞夜戏；Suzie 和朋友们用一只鱼形醒酒器、一堆编造的咒语和古坟地的鬼火，让执法者乖乖交出枪与尊严——而当 Waabooz 把她的 Wintermaker 纹身雕成石头还给她，她终于明白：天空故事不会因为你洗掉纹身就停止追随，它们只是在等你重新说「All in」。
+一个拼错神话名字的警长，把一群 powwow 散客拉进一场「追捕 Trickster」的荒诞夜戏；Suzie 和朋友们用一只鱼形醒酒器、一堆编造的咒语和古坟地的鬼火，让执法者乖乖交出枪与尊严——而当 Waabooz 把她的 Wintermaker 纹身雕成石头还给她，她终于明白：天空故事不会因为你把纹身改成蝴蝶就停止追随，它们只是在等你重新说「All in」。
