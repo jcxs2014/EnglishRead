@@ -88,14 +88,14 @@ modified: "2026-10-31"
 **中文理解**："这是一场交换，什么都一样，"她说。"它们要吃，我们喂养；而当那样的东西胜过一切地爱上你——你便成了它最爱的食物。话虽如此。每个聪明的女人都懂得割让自己的某些部分去换世界上的位置。我多幸运，Henry 吃得慢，还肯为我移山。"
 **关键词**：you become its favorite food / sacrifice parts of herself / Henry eats slowly
 **为什么这样写**：契约的本质一句讲完：喂养即存在，被爱即菜单。"Henry eats slowly"这个生活化细节收在灾难性比喻后面——恐怖的日常化，正是这个家族的生存技术。
-**读者视角提示**："移动大山"不是修辞——下一章就见分晓（西部山脉被 literal 挪走采矿）。把本书的每个比喻都先当假话听、再当预言读，是它的阅读协议。
+**读者视角提示**："移动大山"不是修辞——本章稍后便见分晓（西部山脉被 literal 挪走采矿）。把本书的每个比喻都先当假话听、再当预言读，是它的阅读协议。
 
 > **原句 12:** "“Of course not,” she said dismissively. “A handful at best. Can you imagine some new-come sea captain’s daughter with the nerve and breeding to do this? Some girl whose family line started with the price of a goat herd and a smile? No. I would say perhaps thirty families are capable of sending a daughter to dance the Scarlet Ball. Perhaps a dozen out of any given generation can do it, perhaps half that. Sometimes two, sometimes none.”"
 
 **中文理解**："当然不是，"她不屑道。"至多一小撮。你能想象哪个新到的船长女儿有这胆识与教养做这个？哪家人的血脉是拿一头羊的价钱和一个微笑起的家？不可能。要我说，大约三十个家族有能力送女儿去跳绯红舞会。任何一代里能真正做到的，至多十二家，也许一半。有时两家，有时一家都没有。"
 **关键词**：thirty families / dance the Scarlet Ball / Sometimes two, sometimes none
 **为什么这样写**：书名在此落地——Scarlet Ball 被报成一个行当的从业人数：三十家有资格、一代十二家、有时绝收。用产能与绝收的口吻谈献祭，行业感代替神秘感，恐怖反而更实。
-**读者视角提示**：记住这几个数字（三十/十二/有时无），它们是全书的社会骨架：Ginny 的逃婚、上一章死掉的紫水晶女孩、以及 Judith 自己，都在同一条产能表上。
+**读者视角提示**：记住这几个数字（三十/十二/有时无），它们是全书的社会骨架：Ginny 的逃婚、ch02 死掉的紫水晶女孩、以及 Judith 自己，都在同一条产能表上。
 
 > **原句 13:** "“She was sweet,” she said, almost to herself. “She told me before I did it that there were people who had loved this face, and that I should take care of it. This is valuable in more ways than one. I should not like to lose it, and if at the end you will not return it to me, it will be a loss that I cannot smooth over with money or friends.”"
 
@@ -108,7 +108,7 @@ modified: "2026-10-31"
 
 **中文理解**：也许昨天还能回头——她问我时装傻、让我走路时摔倒、跳下马车逃进街市；也许那时就已经太迟。今天，我是另一个人了，或者，我不过是变回了曾经的某个人。也许我只是跑累了。
 **关键词**：played stupid when she asked me / I was someone else / just tired of running
-**为什么这样写**：三个 "perhaps" 的递进把选择写成回溯——回头路一段比一段窄，末句把宏大命题（我是谁）压进最平的三个字：跑累了。签约动机不写野心写疲惫，是这个人物最诚实的时刻。
+**为什么这样写**：四个 "perhaps" 的递进把选择写成回溯——回头路一段比一段窄，末句把宏大命题（我是谁）压进最平的三个字：跑累了。签约动机不写野心写疲惫，是这个人物最诚实的时刻。
 **读者视角提示**：这一段是全书的动机自白，值得逐字读：她不是被糖衣骗进来的，她是数完每条路之后选了有樱桃的那条。别急着替她后怕——她自己先算完了。
 
 ## 本章词汇

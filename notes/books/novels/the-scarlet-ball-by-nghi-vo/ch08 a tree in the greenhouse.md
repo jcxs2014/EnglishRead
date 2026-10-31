@@ -32,7 +32,7 @@ modified: "2026-10-31"
 **中文理解**：近来 Howard 夫妻之间有些麻烦。没有摔出的鞋，也没有重话；它只以一阵怪异的安静显形——枪响之后的那种寂静，或者，也许，是枪响之前的那种。
 **关键词**：a strange quiet / just after a gunshot / or maybe the one that came just before
 **为什么这样写**：婚姻的地震仪只用一个比喻，且故意给出两个读数——事后与事前，让你永远不知道爆炸是否已经发生。失和不用事件写，用声学写。
-**读者视角提示**：回想上一章深夜披毯的恩爱——那是枪响前还是枪响后？这本书的婚姻不给答案，只给余震。
+**读者视角提示**：回想 ch06 深夜披毯的恩爱——那是枪响前还是枪响后？这本书的婚姻不给答案，只给余震。
 
 > **原句 4:** "I felt a sudden kinship with Odile, both of us substitutes in a terrible game."
 

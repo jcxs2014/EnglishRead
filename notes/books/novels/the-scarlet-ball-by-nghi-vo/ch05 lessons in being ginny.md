@@ -31,7 +31,7 @@ modified: "2026-10-31"
 
 **中文理解**：她像铁丝扎成、只被衣裳焐软的人形；她忽然明白，这不过是个裁缝人台——用来撑起制服笔挺的线条与纯粹的黑。她不太在意她的长相，在意的是那种凝定的注视：她试图用目光压回去，对方一次也没眨眼。
 **关键词**：built of wire / a dressmaker’s form / the fixedness of her gaze
-**为什么这样写**：人被写成衣架——"dressmaker's form"把 Mielle 的功能属性直接写进身体。不眨眼这个细节承自上一章 Mr. Howard 的定眼：这家的"仆"与"主"在物种上未必有区别，只是型号不同。
+**为什么这样写**：人被写成衣架——"dressmaker's form"把 Mielle 的功能属性直接写进身体。不眨眼这个细节承自 ch02 晚宴上丈夫们的定眼：这家的"仆"与"主"在物种上未必有区别，只是型号不同。
 **读者视角提示**：Judith 对 Mielle 的第一判断是"这东西没有可以勒索的人性"。这个判断后面会被反复考验——记住她此刻的笃定。
 
 > **原句 4:** "“She will not obey you,” Mrs. Howard said. “She is here for one reason and one reason only, and that is to do whatever it will take to prepare you for what lies ahead. As it is, she is already falling behind.”"
@@ -88,7 +88,7 @@ modified: "2026-10-31"
 **中文理解**："你是 Iphigenia Marshall，"她继续道。"John 与 Scylla Marshall 之女，Henry 与 Atalanta Howard 的孙女。我们共用过一位舞蹈教师，两年。你到底认不认识我？"
 **关键词**：the daughter of John and Scylla Marshall / We shared a dance tutor / Do I know you?
 **为什么这样写**：她背家谱、背共师细节，然后问出"你认不认识我"——记忆 damaged 的人用事实倒推亲密。这个问句重复两次，是 Tilly 的求救信号，也是体系吃人的清单。
-**读者视角提示**：Tilly 上一章坐在紫水晶女孩旁边还活着——这一章她只剩家谱可用。想想"知道很多事"救不了她什么，就知道这本书里记忆是何等硬通货。
+**读者视角提示**：Tilly 在 ch02 晚宴上坐在紫水晶女孩旁边还活着——这一章她只剩家谱可用。想想"知道很多事"救不了她什么，就知道这本书里记忆是何等硬通货。
 
 > **原句 12:** "The thing in the basin, which I could now see was feathered, sent up a sweet weak trill before it was silent, and I winced. As another girl patted the now voiceless one on the back, I took a towel from one of the maids and wrapped up the handful of brittle bones and plucked skin tight before rinsing the rest down the drain."
 

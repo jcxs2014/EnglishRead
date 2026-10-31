@@ -66,7 +66,7 @@ modified: "2026-10-31"
 
 **中文理解**："Christine——就是 Rowe 太太——一直太疼那个孩子。她根本没打算让他卷进这些，她可是 Eleanor Janssen 的女儿，那位嫁了冰川洪水的人。但她绝不会想到他不经献祭就能被夺走——他本不该被夺走。他本该是安全的。"
 **关键词**：too fond of that boy / married a glacial flood / He should have been safe
-**为什么这样写**：母亲的政治暴露在名词里——"太疼"是她缺席防备的全部原因。glacial flood 的家史一笔带出：这个圈子没有普通人家的母亲。"He should have been safe"重复两次 like 一记道歉的敲门。
+**为什么这样写**：母亲的政治暴露在名词里——"太疼"是她缺席防备的全部原因。glacial flood 的家史一笔带出：这个圈子没有普通人家的母亲。"should have been"连说两遍，like 一记道歉的敲门。
 **读者视角提示**：Judith 的"没有安全这回事"与夫人的"对我们有"相撞——两种幸存者哲学。记住这一拍：全书的世界观分野就这一句话。
 
 > **原句 9:** "“I do not think you will leave. I think you will stay, and I think you will stand, and I think you will be chosen.”"

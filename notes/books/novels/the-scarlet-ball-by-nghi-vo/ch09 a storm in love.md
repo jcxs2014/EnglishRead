@@ -18,7 +18,7 @@ modified: "2026-10-31"
 **中文理解**：她过去挨着她坐下，把肩上披的毯子分她一半。当她接过时，她感到一种安静的狂喜——像哄一只怕生的猫来蹭你的指尖。她无言地收下毯子，她觉得自己赢到了什么。
 **关键词**：a share of the blanket / coaxing a timid cat / I had won something
 **为什么这样写**：亲近写成驯猫——主动权在猫，人只能等。"won something"的记账口吻让她自己都心虚：对不会道谢的存在，接受即是恩赐。这是她与 Mielle 关系的第一次破冰，工具是最老实的体温。
-**读者视角提示**：记住"分毯子"这个动作级别：本书的善意全部走实物路线，不走语言。下一章她靠近 Mielle 的每一步，都是这次试探的续集。
+**读者视角提示**：记住"分毯子"这个动作级别：本书的善意全部走实物路线，不走语言。此后她靠近 Mielle 的每一步，都是这次试探的续集。
 
 > **原句 2:** "He jumped down from the carriage, and I don’t know what the mob saw in his face, but it was enough to send them running, enough that they trampled each other to get away from him. There was a yellow-white sear, fire and heat that could explode the heart of an oak."
 

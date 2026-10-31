@@ -108,7 +108,7 @@ modified: "2026-10-31"
 
 **中文理解**："留下，"他说，像怕她不肯。"留下，求你留下。我想知道这之后会怎样，我必须看你下一步做什么。我爱你——而我最爱你活着。"
 **关键词**：as if he was afraid I wouldn’t / see what you do next / I love you alive best of all
-**为什么这样写**：怪物的情话第一次把时态从"吃"改到"看"——好奇替换食欲。alive best of all 六个词是全书唯一一次爱被限定在生存上。
+**为什么这样写**：怪物的情话第一次把时态从"吃"改到"看"——好奇替换食欲。alive best of all 四个词是全书唯一一次爱被限定在生存上。
 **读者视角提示**：对照 ch14 的"You cannot starve me"与本章的"Stop"——两次危机两份条款，这次他签了。想想"看你下一步做什么"对一个想赢的女人是多准的情话。
 
 > **原句 15:** "This ring was for the world to see, a promise of everything we were going to have, the things we were going to break, the things we were going to fix, and I nodded at Sebastian, permission granted."

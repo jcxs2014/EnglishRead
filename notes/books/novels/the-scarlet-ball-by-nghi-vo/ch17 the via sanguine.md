@@ -94,7 +94,7 @@ modified: "2026-10-31"
 
 **中文理解**：然后雷开了口，它说的是：胜。
 **关键词**：the thunder spoke / what it said was victory
-**为什么这样写**：全章最短的句子干最重的活——把天战的胜负转译成一句话的天气预报。雷"说话"呼应他所有用雷语传情的段落：这是他第一次说一个词，也是最后一次需要翻译。
+**为什么这样写**：十个词的句子干最重的活——把天战的胜负转译成一句话的天气预报。雷"说话"呼应他所有用雷语传情的段落：这是他第一次说一个词，也是最后一次需要翻译。
 **读者视角提示**：单独读这十个词。全书为这一句铺了十六章的云量。
 
 > **原句 13:** "For a moment, I thought I detected a lessening in the storm, something the size of a city holding its breath, something made of hunger and lightning pausing. Then I realized it was nothing at all, and the thunder roared its victory over the city of New York."

@@ -87,7 +87,7 @@ modified: "2026-10-31"
 
 **中文理解**：Mrs. Howard 不耐烦地把女仆推开，推得她踉跄；Judith 带着无声的恐惧看见她攥过衣领的地方升起一缕缕蒸汽——脑后的发髻挡住了大半，但制服领口已经焦黑、噼啪作响。
 **关键词**：wisps of steam / grasped the maid’s collar / singed black and crackling
-**为什么这样写**：恐怖不用形容词写，用物证写：蒸汽从"攥过的地方"升起来，领口焦黑承接了原句 7 撞出去的那个女孩，把"她为什么逃"的谜面换成了物证。mute dread 三个词：恐惧到连声音都没有。
+**为什么这样写**：恐怖不用形容词写，用物证写：蒸汽从"攥过的地方"升起来，领口焦黑承接了原句 7 撞出去的那个女孩，把"她为什么逃"的谜面换成了物证。mute dread 两个词：恐惧到连声音都没有。
 **读者视角提示**：结合 Mrs. Howard 的逼问（"Tell me how she did it"）与前文女仆的哀鸣（"not with Miss Ginny, no one ever knew"），本章把"谁干的"问得很响；而蒸汽这个物证至少说明那次接触是烫的——烫从谁手里传到谁领口，本章不给答案。
 
 > **原句 12:** "It was my first lesson in names and what they meant, which is that a name is less important than what someone wishes to call you, and how important that person is. Annam is no more An Giang than I am Judith Ban."
@@ -101,7 +101,7 @@ modified: "2026-10-31"
 
 **中文理解**：手指发痒的是那一两码荷叶边蕾丝能换多少钱——但不止于此。她看见那条裙子，想偷它，也想穿它。她此前不知道自己对美的东西饿到了什么地步。
 **关键词**：stole a yard or two / wanted to steal it / wanted to wear it / starved
-**为什么这样写**：三个动词递进——估价（twitched at how much）、偷（steal）、穿（wear），把"贼"与"想要美"两种饥饿并成一排。最后一句用 starvation 写审美，把本章前文二十小时没吃饭的生理饥饿升级成存在性的饥饿。
+**为什么这样写**：三个动词递进——估价（twitched at how much）、偷（steal）、穿（wear），把"贼"与"想要美"两种饥饿并成一排。最后一句用 starvation 写审美，把本章前文近三十小时没吃饭的生理饥饿升级成存在性的饥饿。
 **读者视角提示**：这是第一章最裸露的自白。她能对 Mrs. Howard 装傻、对店主面无表情，但对一条裙子说了实话。"starved"这个词回头看会越来越重——她饿的不止是美。
 
 > **原句 14:** "“I need someone to wear that gown tonight. If you can stand, if you can curtsy when you’re told, if you can be elegant and composed and by God silent, I will pay you. Yes?”"
@@ -116,7 +116,7 @@ modified: "2026-10-31"
 **中文理解**：对方出十美元，她还价二十，对方答应得太快——她立刻知道自己该要得更多。
 **关键词**：countered with twenty / agreed so fast / should have asked for more
 **为什么这样写**：用一句交易心理学收章：成交太顺畅本身就是信息——对方急。"should have asked for more"不懊悔交易，只懊悔定价，这是把自我当资产负债表管理的口吻，与开头的"walked-not-ran"是同一个人。
-**读者视角提示**：结尾三个词是全书第一声钩子：这一晚她"卖"掉了什么、将走进什么，第一章按下不表。命令紧随其后（原文末句是 "Well, what are you waiting for? Get your clothes off."），你翻页就是因为这句话的口气。
+**读者视角提示**：结尾这句命令是全书第一声钩子：这一晚她"卖"掉了什么、将走进什么，第一章按下不表。命令紧随其后（原文末句是 "Well, what are you waiting for? Get your clothes off."），你翻页就是因为这句话的口气。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
