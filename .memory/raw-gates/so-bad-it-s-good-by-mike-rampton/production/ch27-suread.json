@@ -1,0 +1,73 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch27",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch27_how_to_write_your_own_rubbish_joke.txt",
+ "facts": [
+  {
+   "fact": "写笑话的方法和写笑话的人一样多；有时笑话会完整地出现在脑中，有时靠偶然听错，但有时必须下功夫",
+   "anchor": "As with anything creative, there are as many ways of writing a joke as there are people doing it.",
+   "start": 82,
+   "end": 179
+  },
+  {
+   "fact": "写“愉快地烂”的笑话有个办法：倒着来（work backwards）",
+   "anchor": "One way of writing cheerfully bad gags is to work backwards.",
+   "start": 385,
+   "end": 445
+  },
+  {
+   "fact": "第一步“You massive idiom”：从一个听众都熟的短语、习语、电影名开始，例 Everything must go / To be or not to be / Back to the Future / The Cold War",
+   "anchor": "Start off with a phrase, an idiom, a movie title or something else well-known enough that your audience will know what it is.",
+   "start": 472,
+   "end": 597
+  },
+  {
+   "fact": "第二步 Smash it up：拆音节，想押韵、同音异义词、同形同音异义词、spoonerisms（互换辅音，如 a pair of shoes → a share of poos）",
+   "anchor": "Think of rhymes, homophones (words that mean different things but sound the same), homonyms",
+   "start": 945,
+   "end": 1036
+  },
+  {
+   "fact": "第三步 Abandon most of them：概率不利，多数硬造出来的属于“烂到真的糟”那一类",
+   "anchor": "Numbers aren’t on your side. There are jokes that are so bad they’re good, and jokes that are so bad they’re really, really terrible.",
+   "start": 1310,
+   "end": 1443
+  },
+  {
+   "fact": "反例：都铎与斯图亚特王朝为“谁鼻孔更好看”开战？Phwoar of the Noses 谐音 War of the Roses——作者自己说“Doubt it!”",
+   "anchor": "Did the Tudors and Stuarts battle over who had the most attractive nostrils in the Phwoar of the Noses? Doubt it!",
+   "start": 1710,
+   "end": 1823
+  },
+  {
+   "fact": "第四步 Get reverse engineering：倒推铺垫，最好不用包袱里的关键词；可用 what do you get when you cross an X with a Y 等固定问句",
+   "anchor": "Now build out a setup, ideally not using any of the key words from the punchline.",
+   "start": 1860,
+   "end": 1941
+  },
+  {
+   "fact": "著名的包袱 Super calloused fragile mystic vexed by halitosis（谐音 Supercalifragilisticexpialidocious）可以用很多种铺垫抵达",
+   "anchor": "There’s a fairly well-known punchline, ‘Super calloused fragile mystic vexed by halitosis’, which can be reached in a lot of ways.",
+   "start": 2316,
+   "end": 2446
+  },
+  {
+   "fact": "第五步自问：听众会不会根本听不懂？你全程在场，但要站在第一次听的人的角度",
+   "anchor": "Think about whether your joke is just confusing. You’ve been there for the whole process, but put yourself in the shoes of someone hearing it for the first time.",
+   "start": 2653,
+   "end": 2814
+  },
+  {
+   "fact": "反例：农场主最爱的八十年代动作片 The Germinator——germinate 不常用，germ 与 German 常用，作者判定“not a joke as much as a noise”，建议扔掉重来",
+   "anchor": "What’s a farmer’s favourite 1980s action film? The Germinator!",
+   "start": 2865,
+   "end": 2927
+  },
+  {
+   "fact": "第六步 Enjoy the groans：终于写出一条勉强能用的？很好，再写一百条",
+   "anchor": "Have you finally come up with one that just about works? Well done! Now write another hundred!",
+   "start": 3285,
+   "end": 3379
+  }
+ ]
+}
