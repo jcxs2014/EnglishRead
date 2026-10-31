@@ -1,0 +1,61 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch03",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch03_how_to_tell_a_terrible_joke_brilliantly.txt",
+ "facts": [
+  {
+   "fact": "说笑话本身是一门独立技艺，不只是把笑话语念出来",
+   "anchor": "There’s more to making people laugh than just reading a joke out loud.",
+   "start": 92,
+   "end": 162
+  },
+  {
+   "fact": "最败兴的是把笑话拖很久却把包袱砸掉，前面全白讲",
+   "anchor": "Nothing is more frustrating than listening to someone stretch out a joke for ages and then absolutely botch the landing.",
+   "start": 259,
+   "end": 379
+  },
+  {
+   "fact": "包袱一旦讲坏，听众花掉的时间就被白白浪费，作者称之为偷窃",
+   "anchor": "A mangled punchline turns a lot of what you just listened to into wasted time. That’s basically theft.",
+   "start": 380,
+   "end": 482
+  },
+  {
+   "fact": "荒谬设定必须先被当真：熊不会走进酒吧，但讲与听的人都要暂时搁置怀疑",
+   "anchor": "Bears don’t walk into bars, but everyone involved in the joke-telling process needs to suspend their disbelief briefly, just enough to go with it.",
+   "start": 1004,
+   "end": 1150
+  },
+  {
+   "fact": "讲笑话的人知道走向，容易误以为听众也知道，于是赶得过快，听众跟不上",
+   "anchor": "If you know where a joke is going, it’s easy to feel like everyone does, but if you rattle through it like you’ve got a gun to your head, people are going to struggle to follow what’s going on.",
+   "start": 1407,
+   "end": 1600
+  },
+  {
+   "fact": "要留停顿让信息被消化，讲的是故事而不是念条款",
+   "anchor": "Take your time. Leave pauses for information to be digested. You’re telling a story, not running through a set of terms and conditions.",
+   "start": 1601,
+   "end": 1736
+  },
+  {
+   "fact": "铺垫越长，兑现越爽；而笑话独有之处是铺垫越长，完全不给兑现也越爽（为无包袱笑话埋线）",
+   "anchor": "The bigger the buildup, the more satisfying the payoff. But also, uniquely to jokes, the bigger the buildup, the more satisfying the absolute and total lack of a payoff.",
+   "start": 1737,
+   "end": 1906
+  },
+  {
+   "fact": "用《大白鲨》和整本高亮笔作比：脏话这类强效果必须省着用",
+   "anchor": "You barely see the shark through most of Jaws. You can’t write a book completely in highlighter.",
+   "start": 2180,
+   "end": 2276
+  },
+  {
+   "fact": "有时讲砸本身就是最好笑：小孩自己笑到讲不完第一句，技艺上很糟，却极其动人",
+   "anchor": "A kid laughing their head off, unable to get through the first line of a completely rubbish gag because they know what’s coming, is clearly a terrible bit of joke-telling, but it’s absolutely joyous.",
+   "start": 3004,
+   "end": 3203
+  }
+ ]
+}
