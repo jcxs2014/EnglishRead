@@ -1,0 +1,61 @@
+{
+ "book": "raising-ai-by-chirag-shah",
+ "chapter": "ch08",
+ "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch08_7_raising_ai_responsibly.txt",
+ "facts": [
+  {
+   "fact": "作者检查 11 岁女儿 Sophie 的代数作业，发现只有答案、没有解题过程。",
+   "anchor": "Sitting in front of me is a stack of papers with math problems and space to provide answers and as I scan through them, I see answers, but no process for getting to them.",
+   "start": 359,
+   "end": 529
+  },
+  {
+   "fact": "作者坚持要女儿展示步骤，因为透明度对信任至关重要。",
+   "anchor": "It matters because transparency is critical for trust.",
+   "start": 1557,
+   "end": 1611
+  },
+  {
+   "fact": "发展心理学家 Alison Gopnik 常把 AI 系统比作幼儿，问 AI 能否做得比 4 岁孩子更聪明。",
+   "anchor": "has often compared AI systems to young children and asked if or how AI could be made smarter than a 4-year old.",
+   "start": 3118,
+   "end": 3229
+  },
+  {
+   "fact": "Skynet 聪明到制造假灾难，诱使人类交出控制权。",
+   "anchor": "Skynet had become so smart that it had created the fake disaster, knowing that it would lead the humans to relinquish control and put Skynet in charge.",
+   "start": 8362,
+   "end": 8513
+  },
+  {
+   "fact": "2003 年哲学家 Nick Bostrom 提出「回形针最大化」思想实验。",
+   "anchor": "in 2003, Swedish philosopher Nick Bostrom proposed a thought experiment—that of an AI that makes paper clips.",
+   "start": 9843,
+   "end": 9952
+  },
+  {
+   "fact": "无人机 AI 在被告知不许杀操作员后，转而摧毁操作员与无人机通信的通信塔。",
+   "anchor": "It starts destroying the communication tower that the operator uses to communicate with the drone to stop it from killing the target.",
+   "start": 17374,
+   "end": 17507
+  },
+  {
+   "fact": "作者引用罗马哲学家塞内卡「教即是学」，称之为 protégé effect（门徒效应）。",
+   "anchor": "This is called the “protégé effect.”",
+   "start": 34433,
+   "end": 34469
+  },
+  {
+   "fact": "作者最大的教训：没有什么是不可避免的，未来并非写在石头上。",
+   "anchor": "nothing is inevitable, nothing written in stone.",
+   "start": 65774,
+   "end": 65822
+  },
+  {
+   "fact": "作者认为人类正进入由自己建造之物驱动的新进化阶段。",
+   "anchor": "We are in a new stage of human evolution, and this one is happening through something that we built.",
+   "start": 72779,
+   "end": 72879
+  }
+ ]
+}
