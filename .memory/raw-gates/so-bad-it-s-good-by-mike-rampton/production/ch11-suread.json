@@ -1,0 +1,67 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch11",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch11_knock_knock_jokes_to_guarantee_you_arent_welcome.txt",
+ "facts": [
+  {
+   "fact": "答话把“I've eaten up”当成名字，追问时忽然意识到对方刚刚吃了什么——敲门格式被改成食人笑话",
+   "anchor": "Knock, knock. Who’s there? I’ve eaten up. I’ve eaten up who? You’ve eaten a WHAT?",
+   "start": 114,
+   "end": 195
+  },
+  {
+   "fact": "Anita 连读成 “I need to use your toilet”",
+   "anchor": "Knock, knock. Who’s there? Anita. Anita who? Anita use your toilet.",
+   "start": 202,
+   "end": 269
+  },
+  {
+   "fact": "Cowsgo 被当成“牛会去（哪里）”，答案纠正成“牛只会哞”",
+   "anchor": "Knock, knock. Who’s there? Cowsgo. Cowsgo who? No they don’t, cows go moo!",
+   "start": 403,
+   "end": 477
+  },
+  {
+   "fact": "控制狂不听对方把问题问完，自己抢着规定对方该说什么",
+   "anchor": "Knock, knock. Who’s there? Control freak. Con–– Okay, now you say, ‘Control freak who?’",
+   "start": 484,
+   "end": 571
+  },
+  {
+   "fact": "“Little old lady who” 听起来像约德尔调（yodel）的唱腔",
+   "anchor": "Knock, knock. Who’s there? Little old lady. Little old lady who? I didn’t know you could yodel!",
+   "start": 647,
+   "end": 742
+  },
+  {
+   "fact": "对方要求“拼出来”，回答就是把 who 拼成字母",
+   "anchor": "Knock, knock. Who’s there? Spell. Spell who? W-h-o.",
+   "start": 749,
+   "end": 800
+  },
+  {
+   "fact": "Kanga 被当成袋鼠名字的前半截，答者纠正成完整单词",
+   "anchor": "Knock, knock. Who’s there? Kanga. Kanga who? Actually, it’s kangaroo!",
+   "start": 807,
+   "end": 876
+  },
+  {
+   "fact": "香蕉连续七轮之后换成 Orange，谐音 “Aren’t you glad…”",
+   "anchor": "Knock, knock. Who’s there? Banana. Banana who? Knock, knock. Who’s there? Banana. Banana who?",
+   "start": 1234,
+   "end": 1327
+  },
+  {
+   "fact": "Cash 谐音 cashew（腰果），答者按“坚果”理解并拒绝",
+   "anchor": "Knock, knock. Who’s there? Cash. Cash who? No thanks, I have a nut allergy.",
+   "start": 1781,
+   "end": 1856
+  },
+  {
+   "fact": "名字长到荒谬，提问者反被问住——格式在名字这一格失效",
+   "anchor": "Knock, knock. Who’s there? Persephone Twinkletoes McGinty. Persephone Twinkletoes McGinty who? You … you know multiple people named Persephone Twinkletoes McGinty?",
+   "start": 1949,
+   "end": 2112
+  }
+ ]
+}
