@@ -1,0 +1,87 @@
+{
+ "chapter": "ch22",
+ "pov": "第一人称（Tris 叙述）+ 现在时：开篇即为 “I’m not sure when, exactly, my mission to become a Fox becomes Christina’s mission, too.”，通篇以现在时推进，偶有过去时闪回。",
+ "facts": [
+  {
+   "event": "Tris 的「成为 Fox」计划在不知不觉中变成 Christina 的计划：Christina 眼睛未愈不能陪跑，却开始背地图、跟 Colin 比俯卧撑、钻研 Rookery 里仅有的几本派系行为文本。",
+   "who": "I",
+   "receivers": "Christina’s mission",
+   "start": 40,
+   "end": 357,
+   "text": "I’m not sure when, exactly, my mission to become a Fox becomes Christina’s mission, too. She doesn’t join me for runs—she’s not supposed to, with her eye still healing—but she starts memorizing maps, challenging Colin to push-up contests, and studying the few texts on faction behavior that are stored at the Rookery."
+  },
+  {
+   "event": "Tris 对 Christina 断言：只要举着 Fox 的旗子出现，Fox 就必须考虑她们，所以两人得找到两名 Fox；Rory 说 Fox 通常驻在各派系总部，这对他们两人都是好消息。",
+   "who": "I",
+   "receivers": "the Foxes",
+   "start": 1357,
+   "end": 1584,
+   "text": "“Eye or no eye, the Foxes will have to consider us if we show up with their banners,” I say. “So we’ll just have to find two of them. Rory says they’re usually in each faction’s headquarters, which is good news for both of us.”"
+  },
+  {
+   "event": "Colin 拎着一把飞镖枪来找 Tris：无论她跟 Christina 怎么练，Fox 在自卫一项上都会挑剔她，她需要一门技能，他认为射击就是那门技能。",
+   "who": "he",
+   "receivers": "you",
+   "start": 2332,
+   "end": 2508,
+   "text": "“No matter how much you train with Christina, you’re going to be scrutinized by the Foxes on the self-defense front,” he says.\n“You need a skill. And I think this could be it.”"
+  },
+  {
+   "event": "Tris 盯着那支扎进内圈、离靶心约一英寸的飞镖，笑意爬上脸：她来此地后试过各种新技能，从没发现自己擅长什么真本事，一直只是勉强及格或勉强跟上，而这一次她觉得轻松。",
+   "who": "I",
+   "receivers": "the dart",
+   "start": 5484,
+   "end": 5757,
+   "text": "I stare at the dart, a smile creeping across my face. In all the time I’ve been here, trying out new skills, I’ve never discovered something that I’m good at—something real, not a game. I’m either just barely scraping by or I’m only keeping up. But this . . . it felt easy."
+  },
+  {
+   "event": "Jove 当众宣布：几周前几个心怀怨气的 Dauntless 无故少给了他们整整一箱厕纸；话音未落，围在她四周的人开始起哄。",
+   "who": "Jove",
+   "receivers": "us",
+   "start": 7605,
+   "end": 7768,
+   "text": "“A couple weeks ago, some spiteful Dauntless shorted us an entire crate of toilet paper for no apparent reason,” Jove says, and all around me, people start booing."
+  },
+  {
+   "event": "Tris 注意到开饭时还在跟 Jove 开会的 Evelyn 此刻正往二楼走：自从 Tris 应她要求背诵无派系规则那天起她再没回来过，Tris 猜自己给她当跑腿小妹的日子结束了。",
+   "who": "I",
+   "receivers": "Evelyn",
+   "start": 8734,
+   "end": 8994,
+   "text": "I notice that Evelyn, who was meeting with Jove at the start of the meal, is now climbing the stairs to the second level. She hasn’t been back here since the day I recited the factionless rules at her behest. My time as her little errand girl is over, I guess."
+  },
+  {
+   "event": "Mender 一边带 Tris 跳舞一边说：可以跳舞、可以露出手臂、可以把头发放下来；做人、想要东西、在私心里想什么都行；他凑到她耳边像说秘密一样低语「自由是可以的」。",
+   "who": "he",
+   "receivers": "you",
+   "start": 15300,
+   "end": 15542,
+   "text": "It’s okay to dance, and show your arms, and wear your hair down. It’s okay to be a person, to want things, to think whatever you like in your private thoughts.” He leans closer to my ear, like he’s telling me a secret. “It’s okay to be free.”"
+  },
+  {
+   "event": "就在那首歌结束时，一队 Dauntless 哨兵从隧道涌上来，枪口对准了在场众人。",
+   "who": "a group of Dauntless sentries",
+   "receivers": "us",
+   "start": 16769,
+   "end": 16912,
+   "text": "So it seems particularly cruel when, right as the song ends, a group of Dauntless sentries surges up from the tunnel, their guns pointed at us."
+  }
+ ],
+ "relations": [
+  "Tris↔Christina：Christina 主动把自己的目标并进 Tris 的「当 Fox」计划（背地图、练体能、读派系文本），并提议 Candor 而非 Dauntless。",
+  "Tris↔Colin：Colin 从试训搭档变成她的射击教练，给她找了一门能补足力量的技能。",
+  "Tris↔Mender：Mender 用一场舞与「自由是可以的」把 Tris 从戒备里拉出来，随后成为她愿意接受的引导者。",
+  "Tris↔Evelyn：Evelyn 不再派她跑腿；Tris 判断「当上 Fox」是重新引起 Evelyn 注意的唯一办法。",
+  "Rookery（Foxes Guild 会址）↔Dauntless：Rookery 偷走 Dauntless 总部整箱厕纸，构成章末突袭的因果前史。"
+ ],
+ "numbers": [
+  "two of them（必须找到两名 Fox）",
+  "three factions（两人合计知道三个派系的总部：Candor、Dauntless、Abnegation）",
+  "Two weeks until the contest.",
+  "One week until the contest.",
+  "Six days later is a Feast Day",
+  "a row of three targets（屋顶上三个纸靶）",
+  "inside the second-smallest ring（Colin 的飞镖落在倒数第二小的环内）",
+  "just an inch from the bull’s-eye（Tris 的飞镖离靶心一英寸）"
+ ]
+}
