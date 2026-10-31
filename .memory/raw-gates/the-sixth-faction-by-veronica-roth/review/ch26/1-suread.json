@@ -1,0 +1,83 @@
+{
+ "chapter": "ch26",
+ "pov": "第一人称（Four 视角）· 现在时",
+ "facts": [
+  {
+   "event": "Zeke 收枪后一把从 Four 手里拿走咖啡杯，道谢并抱怨墙外供应的东西是“garbage water”。",
+   "who": "Zeke",
+   "receivers": "my (Four’s) hands, the coffee cup",
+   "start": 40,
+   "end": 175,
+   "text": "Zeke holsters his gun and grabs the coffee cup right out of my hands. “Bless you, Four. The stuff they have out here is garbage water.”"
+  },
+  {
+   "event": "Zeke 说今天要做全盘点，因为有人把武器交付数点错，等于整整一箱（an entire crate）枪不见了。",
+   "who": "Zeke",
+   "receivers": "the weapons deliveries, an entire crate full of guns",
+   "start": 1313,
+   "end": 1574,
+   "text": "“The monotony wears on some people,” Zeke says. “Case in point, later today we have to do a full inventory because some idiot miscounted the weapons deliveries. We’re missing an entire crate full of guns is what that means. How do you miscount an entire crate?”"
+  },
+  {
+   "event": "分队时 Eric 先挑 Peter、Edward、Drew、Molly 与 Al；Four 与 Lauren 这队除 Uriah 外得 Lynn、Will、Marlene，因有两个队长而少一人。",
+   "who": "Eric, we (Four and Lauren)",
+   "receivers": "Peter, Edward, Drew, Molly, Al, Uriah, Lynn, Will, Marlene",
+   "start": 6036,
+   "end": 6191,
+   "text": "Eric takes Peter, then Edward, Drew, Molly, and Al. In addition to Uriah we get Lynn, Will, and Marlene. We’re short a player because we have two captains."
+  },
+  {
+   "event": "Tris 指着旗帜说必须再往上，它缠在头顶约 fifty feet 的金属支架上，而梯子已到尽头。",
+   "who": "she (Tris)",
+   "receivers": "the banner, the metal support, the ladder",
+   "start": 18820,
+   "end": 19000,
+   "text": "“I have to go higher than this,” she says, pointing up at the banner. It’s wrapped around a metal support maybe fifty feet above us. And there’s no more ladder to take us up there."
+  },
+  {
+   "event": "一阵风让 Tris 失衡时，Four 本能伸手扣住她的髋部、拇指勾住腰带环，随即把她推回平衡。",
+   "who": "I (Four)",
+   "receivers": "her (Tris’s) hip, belt loop, jacket hem",
+   "start": 16489,
+   "end": 16773,
+   "text": "I reach for her by instinct, my hand closing around her hip. My thumb hooks under one of her belt loops; my first two fingers press into the soft skin just beneath the hem of her jacket. For a second my breath catches, and I stare at my hand on her, suddenly aware of how warm she is."
+  },
+  {
+   "event": "Four 觉得 Tris 与初见时不同：她看得太多，正把他埋了两年的 Tobias Eaton 一点点挖出来。",
+   "who": "she (Tris), I (Four)",
+   "receivers": "Tobias Eaton",
+   "start": 19747,
+   "end": 19939,
+   "text": "She looks different to me now than she did then. Eyes wide and bright and almost glowing in the moonlight. I told her she didn’t know me, and that was a lie. She knows too much, sees too much."
+  },
+  {
+   "event": "两人在轮上远望，只见市中心方向一大股黑烟，像黑云从天而降吞掉一角。",
+   "who": "she (Tris), I (Four)",
+   "receivers": "the city, a huge plume of dark smoke",
+   "start": 20728,
+   "end": 20919,
+   "text": "She’s staring at the city. Our view is obstructed by the big black building at the end of the pier, but I see what she’s looking at anyway: there’s a huge plume of dark smoke in the distance."
+  },
+  {
+   "event": "Tris 厉声说必须下去，因为 Christina、Mae 和父亲都在 Candor 总部，而这场火“很可能是——”（指 Evelyn）。",
+   "who": "she (Tris)",
+   "receivers": "Christina, Mae, my father, the fire",
+   "start": 21448,
+   "end": 21580,
+   "text": "“I have to get down,” she snaps at me. “Christina is at Candor headquarters, and Mae, and my father, and the fire, it was probably—”"
+  }
+ ],
+ "relations": [
+  "Four（Tobias Eaton）与 Tris 在摩天轮下重逢：Tris 因安全屋被袭而怀疑他告密，Four 否认并承诺没告诉任何人，Tris 最终说“I believe you”。",
+  "Four 由“她只是 Evelyn 的跑腿”转为主动伸手护住 Tris、并坦白自己害怕，关系从对峙转向信任。",
+  "Tris 为取 Fox 旗帜独攀摩天轮，Christina 因怕撞上 Peter 而先撤往 Candor；Four 抛下夺旗赛跟上去当 spotter。",
+  "四与 Evelyn 的母子关系通过“Evelyn 可能是纵火者”的猜疑被再次拉紧：Four 说他不信任 Evelyn，但也不想伤害她。"
+ ],
+ "numbers": [
+  "an entire crate — 丢失的是“an entire crate full of guns”（整整一箱枪）",
+  "one a week — 信号中继器巡检分段，“tackle only one a week”（每周一段）",
+  "two captains — 因“we have two captains”而少一名队员",
+  "fifty feet — 旗帜在头顶“maybe fifty feet above us”",
+  "two hundred feet / one hundred and fifty feet — 轮顶两百英尺，Tris 估旗帜在一百五十英尺处"
+ ]
+}
