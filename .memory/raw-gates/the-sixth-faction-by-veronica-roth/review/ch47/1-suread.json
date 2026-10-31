@@ -1,0 +1,83 @@
+{
+  "chapter": "ch47",
+  "pov": "第一人称（Tris 特丽丝视角）＋现在时叙述",
+  "facts": [
+    {
+      "event": "伊芙琳向特丽丝复述她听到的传闻：特丽丝在狐狸们面前脱过衣服、差点在博学派总部被捕、老是偷偷跑去无畏派，还说她在搞狐狸们不知道的事、弄得大家不安。",
+      "who": "she (Evelyn)",
+      "receivers": "me (Tris)",
+      "start": 2293,
+      "end": 2567,
+      "text": "“That you stripped in front of the Foxes. That you almost got arrested in Erudite headquarters. That you’ve been sneaking off to Dauntless all the time.” She raises an eyebrow. “That you’re up to something, and the Foxes don’t know what it is, which makes everyone nervous.”"
+    },
+    {
+      "event": "特丽丝从口袋里掏出那颗子弹，在指间转了几下，然后递向伊芙琳。",
+      "who": "I",
+      "receivers": "the bullet",
+      "start": 2691,
+      "end": 2801,
+      "text": "I reach into my pocket and take out the bullet. I turn it in my fingers a few times before offering it to her."
+    },
+    {
+      "event": "特丽丝告诉伊芙琳，她照吩咐做了：与托比亚斯保持联系、让他确信需要人说话时可以信任她，因此他讲了些关于他父亲的事。",
+      "who": "I",
+      "receivers": "Tobias / her (Evelyn)",
+      "start": 3391,
+      "end": 3576,
+      "text": "“I did what you asked me to,” I say. “I kept in contact with Tobias. I made sure he knew he could trust me if he needed someone to talk to. And he told me some things about his father.”"
+    },
+    {
+      "event": "特丽丝说总得有人把权力从马库斯·伊顿手里夺走，并说她知道除掉马库斯是伊芙琳计划的一部分，而自己能帮上忙。",
+      "who": "I",
+      "receivers": "it (the power) / Marcus",
+      "start": 4561,
+      "end": 4704,
+      "text": "“Someone has to take it from him,” I say. “I know that whatever else you’re planning, getting rid of Marcus is part of it. And I can help you.”"
+    },
+    {
+      "event": "特丽丝说只要伊芙琳让她参与计划，她就会让托比亚斯为她离开无畏派，并把选择交给伊芙琳：要不要儿子回到她的生活里。",
+      "who": "I",
+      "receivers": "him (Tobias) / you (Evelyn)",
+      "start": 6033,
+      "end": 6187,
+      "text": "“Yeah. I am,” I say. “And I’ll do it, if you let me help with whatever you’re planning. So now it’s up to you: Do you want him back in your life, or not?”"
+    },
+    {
+      "event": "特丽丝告诉伊芙琳，她离开阿布尼格申是因为父亲试图抹掉她的记忆却失败了；她决定不提父亲也曾想把她（伊芙琳）从她记忆里抹掉。",
+      "who": "I",
+      "receivers": "my memory / her (Evelyn)",
+      "start": 7370,
+      "end": 7576,
+      "text": "“My mother told you I left Abnegation because I didn’t belong there. But I left because my own father tried and failed to erase my memory.” I decide not to mention that he tried to erase her from my memory."
+    },
+    {
+      "event": "伊芙琳长久地看着特丽丝，随后冷冷地说：他们对自己的称呼是“Hemlock”（毒芹）。",
+      "who": "she (Evelyn)",
+      "receivers": "me (Tris)",
+      "start": 7882,
+      "end": 7999,
+      "text": "Evelyn looks at me for what feels like a long time. Then she says coolly, “The name we use for ourselves is Hemlock.”"
+    },
+    {
+      "event": "伊芙琳叫特丽丝周五凌晨三点到火车场，说到时把她介绍给其他人；若需要说服托比亚斯，就告诉他“我的梦想就要成真了”。",
+      "who": "she (Evelyn)",
+      "receivers": "me (Tris) / Tobias",
+      "start": 8176,
+      "end": 8365,
+      "text": "“Be in the train yard on Friday. Early—three in the morning. I’ll introduce you to the others,” she says. “And if you need to persuade him, tell Tobias that my dream is about to come true.”"
+    }
+  ],
+  "relations": [
+    "伊芙琳是托比亚斯的母亲、无派别激进派（自称 Hemlock）的首领；特丽丝用“把儿子还给她”作为交换条件。",
+    "特丽丝是阿布尼格申出身、如今加入无派别狐狸（Fox）的人，母亲娜塔莉·普莱尔曾替伊芙琳传话。",
+    "马库斯·伊顿是伊芙琳要除掉的目标；特丽丝借父母与他的旧交自荐做内应。",
+    "修理匠（Mender）与梅（Mae）是特丽丝在博物馆的伙伴：她救过梅，修理匠因此把她当朋友。",
+    "斯莱（Sly）曾把博物馆外那种白色花叫作 Hemlock，并警告特丽丝别碰——这名字因此变得不祥。"
+  ],
+  "numbers": [
+    "Friday（伊芙琳约定的日子：Be in the train yard on Friday.）",
+    "three in the morning（约定时间：Early—three in the morning.）",
+    "dozens of other eager young factionless（她说还有几十个急切的年轻无派别人可以帮忙：there are dozens of other eager young factionless）",
+    "a second heartbeat（负罪感像第二颗心跳：Guilt pulses inside me like a second heartbeat.）"
+  ]
+}
