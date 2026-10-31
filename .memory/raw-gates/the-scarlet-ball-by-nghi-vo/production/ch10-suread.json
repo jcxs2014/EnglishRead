@@ -1,0 +1,55 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch10",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch10_ten.txt",
+ "facts": [
+  {
+   "fact": "夫人深夜提灯游荡走廊，反复念叨「你在哪——回来」；最后一句是命令口吻，Judith 躲进闲置琴室目送她经过。",
+   "anchor": "Where are you? Where are you? Come back.",
+   "start": 1532,
+   "end": 1572
+  },
+  {
+   "fact": "中央公园雪晶节（Snowflake Festival）是 Vanderbilt 家的场子，连老纽约都来露面——夫人因此一脸勉强；她严令不许上那些该死的新雪橇。",
+   "anchor": "it was a Vanderbilt affair",
+   "start": 6270,
+   "end": 6296
+  },
+  {
+   "fact": "冰冻池塘里冻着金箔与玫瑰花瓣，岸边穷孩子在凿冰打捞；Tilney 家男孩把她拖上冰面献殷勤，一句「巴黎夏天能滑冰」踩中痛处，被她一掌推了个趔趄。",
+   "anchor": "Gold and roses, frozen for the pleasure of New York",
+   "start": 11250,
+   "end": 11301
+  },
+  {
+   "fact": "她想起巴黎的 Glaciarium：氨水管冻出的人工冰场，有钱即可入场；「我想念它，我想念巴黎，我想念——」话没想完人已迷失。",
+   "anchor": "Perhaps the magic was that there was no magic",
+   "start": 13797,
+   "end": 13842
+  },
+  {
+   "fact": "她误入园中一片真森林：墨黑的狼吐着红舌看她；修道院训诫「怀疑致命」涌上心头，她把怀疑淹进怒气、逼近训话并挥拳——狼化作 Sebastian 接住她的手腕：「你知道我是什么。」",
+   "anchor": "The wolf was as black as an ink spill",
+   "start": 15723,
+   "end": 15760
+  },
+  {
+   "fact": "她看穿他的着迷非性非猎奇，是想把她拆成皮肉骨摊平细看——而那样他也不会满足；「何止？除了更多还有什么？」「更多的我。」",
+   "anchor": "It will never be enough for you, will it?",
+   "start": 20677,
+   "end": 20718
+  },
+  {
+   "fact": "她命令他展示实力：她被抛上半空、贴身炸开闪电、雷声问她「服气了吗」；随后他织出冰宫——容五十对舞者的水晶舞厅、尖塔滴水兽，正是她小时候躲在修道院偷看小说里想象的宫殿。",
+   "anchor": "Show me. Impress me.",
+   "start": 22243,
+   "end": 22263
+  },
+  {
+   "fact": "冰宫在欢好后崩塌、他抱着她坠回林间飞返；黎明从后门归家，夫人锁起卧房门盘问「独自撑过他几小时——怎么做到的」；她反问「你天天在他身边活——你怎么做到」，夫人无言以对。",
+   "anchor": "You survived him alone for what must have been hours. Tell me how.",
+   "start": 37326,
+   "end": 37392
+  }
+ ]
+}
