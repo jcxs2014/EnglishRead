@@ -1,0 +1,95 @@
+{
+ "chapter": 14,
+ "text": "text/ch14_chapter_fourteen_tilde.txt",
+ "chars": 14178,
+ "facts": [
+  {
+   "id": 1,
+   "event": "辛格尔人（Cynghals）在婚礼仪式后把蒂尔德押送到国王寝宫，等着看她的第三次羞辱。",
+   "relation": "蒂尔德 ← 辛格尔宫廷（押送者）",
+   "numbers": "third humiliation",
+   "interval": [
+    27,
+    93
+   ],
+   "anchor": "The Cynghals paraded me to the king’s chambers after the ceremony."
+  },
+  {
+   "id": 2,
+   "event": "蒂尔德在脑中盘算杀利兰王：想用长刀、往耳里下毒或用头发勒喉；毒草就缝在玛洛琳斗篷的衬里。",
+   "relation": "蒂尔德 → 利兰王（夫君兼仇敌）；玛洛琳（侍女）",
+   "numbers": "nightshade, hardsleep, deathcap",
+   "interval": [
+    794,
+    891
+   ],
+   "anchor": "The herbs for it were sewn into the linings of Marolyn’s cloaks: nightshade, hardsleep, deathcap."
+  },
+  {
+   "id": 3,
+   "event": "帕拉蒂·奥东关上寝宫的门；蒂尔德回头看见哈迪亚与玛洛琳眼中的恐惧，以及公主埃莉丝像狼一样饥饿地盯着她。",
+   "relation": "蒂尔德 ← 哈迪亚、玛洛琳（侍女）；埃莉丝公主（觊觎者）",
+   "numbers": "",
+   "interval": [
+    3022,
+    3115
+   ],
+   "anchor": "Then I saw the princess, inscrutable Elise, watching me like a wolf, with hunger in her eyes."
+  },
+  {
+   "id": 4,
+   "event": "利兰王把钝刀塞进蒂尔德手里、抵在自己喉咙上，教她如何割喉，并说人挨刀后要十五次心跳才死。",
+   "relation": "利兰王 → 蒂尔德（试探兼教导）",
+   "numbers": "fifteen heartbeats",
+   "interval": [
+    6902,
+    6942
+   ],
+   "anchor": "it takes a man fifteen heartbeats to die"
+  },
+  {
+   "id": 5,
+   "event": "利兰王数落儿子们，念出阿尔、康林、哈姆、埃吉尔与海因王子，却整个漏掉盖萨，只说伊森还有头脑。",
+   "relation": "利兰王 → 诸子（父评子）；盖萨被漏掉",
+   "numbers": "",
+   "interval": [
+    9580,
+    9617
+   ],
+   "anchor": "He paused, and missed Gaisa entirely."
+  },
+  {
+   "id": 6,
+   "event": "蒂尔德最终下不了手，把刀放回自己膝上，改口向利兰王提出结盟而不是行刺。",
+   "relation": "蒂尔德 → 利兰王（由行刺转为结盟）",
+   "numbers": "",
+   "interval": [
+    10718,
+    10748
+   ],
+   "anchor": "I dropped the knife to my lap."
+  },
+  {
+   "id": 7,
+   "event": "利兰王威胁说若她不肯同房尽妻职，就在她睡着时勒死她或把她当女巫烧死，随后把她拉上床。",
+   "relation": "利兰王 → 蒂尔德（威胁＋强迫同房）",
+   "numbers": "",
+   "interval": [
+    12985,
+    13049
+   ],
+   "anchor": "I will have you strangled in your sleep, or burn you as a witch."
+  },
+  {
+   "id": 8,
+   "event": "蒂尔德感到母亲留下的戒指（蓝石可验毒、底下藏着刺），在低语声中把自己藏进森林与祖先的幻象里。",
+   "relation": "蒂尔德 ← 母亲（遗物与智慧）",
+   "numbers": "",
+   "interval": [
+    13719,
+    13829
+   ],
+   "anchor": "I felt my mother’s ring, warm on my finger, the blue stone for detecting poison, and the thorn buried beneath."
+  }
+ ]
+}

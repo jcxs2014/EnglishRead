@@ -1,0 +1,95 @@
+{
+ "chapter": 16,
+ "text": "text/ch16_chapter_sixteen_tilde.txt",
+ "chars": 15406,
+ "facts": [
+  {
+   "id": 1,
+   "event": "莉兰离开后，蒂尔德披上斗篷下楼，玛洛琳与哈迪亚守在门外，哈迪亚扑上来抱住她，两人在暗室中抱着哭泣的她。",
+   "relation": "蒂尔德 ↔ 玛洛琳、哈迪亚（主仆兼挚友）",
+   "numbers": "",
+   "interval": [
+    526,
+    605
+   ],
+   "anchor": "Hadiah had heard the door click, the cough of one of the guards, and looked up."
+  },
+  {
+   "id": 2,
+   "event": "次日清晨，蒂尔德向玛洛琳低语承认自己有机会却没能下手，玛洛琳只答“我知道”，并问她是否觉得自己是懦夫。",
+   "relation": "蒂尔德 ↔ 玛洛琳（心腹，互不追问）",
+   "numbers": "",
+   "interval": [
+    1328,
+    1399
+   ],
+   "anchor": "‘I didn’t do it,’ I whispered to her, when I was certain we were alone."
+  },
+  {
+   "id": 3,
+   "event": "蒂尔德向哈迪亚表明，她不只要杀莉兰，还要击败他、让他脚下的土地寸草不生。",
+   "relation": "蒂尔德 ↔ 莉兰（受辱王后／仇敌）",
+   "numbers": "",
+   "interval": [
+    1978,
+    2053
+   ],
+   "anchor": "I want to defeat him. I want to salt the earth he stands on. I want to win."
+  },
+  {
+   "id": 4,
+   "event": "首夜之后数日乃至数周，莉兰由卫兵带上她的寝宫，事毕她小便时见血。",
+   "relation": "蒂尔德 ↔ 莉兰（施暴者／受害者）",
+   "numbers": "first night（首夜）/ days and then weeks（延续数日到数周）",
+   "interval": [
+    2486,
+    2581
+   ],
+   "anchor": "In the days and then weeks after that first night, he was brought up to my chamber by his guard"
+  },
+  {
+   "id": 5,
+   "event": "她们从小处播种：送厚礼给吟游诗人米拉斯，让他歌颂她的功绩，再由哈迪亚指点赞助贵妇以笼络其夫。",
+   "relation": "蒂尔德 ↔ 米拉斯（吟游诗人，可为钱转调）",
+   "numbers": "one plum stone / a hazelnut（播种比喻）",
+   "interval": [
+    3170,
+    3210
+   ],
+   "anchor": "a fine gift to a bard to sing my glories"
+  },
+  {
+   "id": 6,
+   "event": "哈迪亚告知蒂尔德，公主赛内菲尔扣着礼物不送，而她才是宫廷中最有权势的女人，若她不亲近其余人也会冷淡。",
+   "relation": "蒂尔德 ↔ 赛内菲尔公主（待争取的盟友）",
+   "numbers": "",
+   "interval": [
+    3677,
+    3760
+   ],
+   "anchor": "‘The princess is withholding a gift,’ Hadiah told me as we returned to my chambers."
+  },
+  {
+   "id": 7,
+   "event": "医师齐扬自荐，左手是刻着藤蔓的锡制假指，并坦言是杰韦拉的梅罗文公爵派他来的；玛洛琳当即斥“我们不与杰韦拉人往来”。",
+   "relation": "齐扬 ↔ 梅罗文公爵（受其派遣）；玛洛琳 ↔ 杰韦拉（世仇）",
+   "numbers": "several vasir（随银女王使团来的贵族）",
+   "interval": [
+    8781,
+    8808
+   ],
+   "anchor": "‘Ducal Merovin, of Gevera.’"
+  },
+  {
+   "id": 8,
+   "event": "蒂尔德以“不能信缺席的盟友，正如不能信杰韦拉人”为由赶走齐扬，章末定计：要讨好公主，先得备一份礼。",
+   "relation": "蒂尔德 ↔ 赛内菲尔公主（谋划送礼结盟）",
+   "numbers": "a hundred questions（阿玛蕾的盘问）",
+   "interval": [
+    15354,
+    15405
+   ],
+   "anchor": "‘To woo a princess,’ I said, ‘we will need a gift.’"
+  }
+ ]
+}

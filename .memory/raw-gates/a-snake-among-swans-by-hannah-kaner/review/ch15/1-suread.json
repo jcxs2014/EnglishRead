@@ -1,0 +1,84 @@
+{
+ "chapter": 15,
+ "text": "text/ch15_chapter_fifteen_elise.txt",
+ "chars": 12805,
+ "facts": [
+  {
+   "id": 1,
+   "event": "吟游诗人米拉斯为蒂尔德王后入场的场景谱写了一首长诗，艾莉丝注意到他戴着旧阿尔根塔式样的银耳环，女仆托尔娜说盐湖城全城都在哼他的新曲。",
+   "relation": "王后蒂尔德与吟游诗人米拉斯（被雇来美化王后）；艾莉丝旁观",
+   "numbers": "two weeks（同床期）/ near thirty（手杖收藏）/ hundreds of young boys",
+   "interval": [
+    315,
+    409
+   ],
+   "anchor": "a bard Elise had not attended to before: Miras, a troubadour, originally from southern Soffian"
+  },
+  {
+   "id": 2,
+   "event": "大祭司达戈贝特公开与音乐为敌，多数早晨讲道痛斥骄傲之罪，哀叹不为翼神颂赞的歌声。",
+   "relation": "大祭司达戈贝特 vs 王后蒂尔德（舆论对抗）",
+   "numbers": "two weeks（同床期）/ near thirty（手杖收藏）/ hundreds of young boys",
+   "interval": [
+    1139,
+    1198
+   ],
+   "anchor": "High Priest Dagobert had set himself in opposition to music"
+  },
+  {
+   "id": 3,
+   "event": "艾莉丝不敢再回蒂尔德的房间，但作为公主仍安排人先尝王后的食物、备足柴火与裁缝，并在她塔楼下设卫兵——因为王后带来的几名随从已被盖萨征入地方民兵。",
+   "relation": "艾莉丝对王后蒂尔德（保护与回避并存）",
+   "numbers": "two weeks（同床期）/ near thirty（手杖收藏）/ hundreds of young boys",
+   "interval": [
+    1835,
+    1892
+   ],
+   "anchor": "She had made sure Queen Tilde’s food was tasted by a serf"
+  },
+  {
+   "id": 4,
+   "event": "艾莉丝在女眷起居室与赛妮菲尔下狐与天鹅棋时走神，随后直接问她为何从不砍伐那片森林。",
+   "relation": "艾莉丝与赛妮菲尔夫人（试探性提问）",
+   "numbers": "two weeks（同床期）/ near thirty（手杖收藏）/ hundreds of young boys",
+   "interval": [
+    3284,
+    3325
+   ],
+   "anchor": "They were playing a game of fox and swans"
+  },
+  {
+   "id": 5,
+   "event": "赛妮菲尔回答其先祖曾统治法尔坎，如今土地由她丈夫按艾莉丝父亲的旨意持有；她解释说旧迷信认为林中住着祖先之灵、树根把梅罗吉亚的土地缝在一起，砍树即拆散大地。",
+   "relation": "赛妮菲尔（辛格尔旧贵族，臣服于加伦王室）",
+   "numbers": "two weeks（同床期）/ near thirty（手杖收藏）/ hundreds of young boys",
+   "interval": [
+    5022,
+    5065
+   ],
+   "anchor": "‘My forebears ruled Falcan, yes,’ she said."
+  },
+  {
+   "id": 6,
+   "event": "哈迪娅通报一名医师被派来为王后诊查、正在寝殿等候，王后听见“他”字微微一颤；艾莉丝主动问是否需要陪伴，被王后以“不用，公主”回绝。",
+   "relation": "王后蒂尔德与艾莉丝（艾莉丝的保护欲被拒）",
+   "numbers": "two weeks（同床期）/ near thirty（手杖收藏）/ hundreds of young boys",
+   "interval": [
+    9142,
+    9179
+   ],
+   "anchor": "A physik has been sent to examine you"
+  },
+  {
+   "id": 7,
+   "event": "阿玛莱追问王后是否喜欢她们合赠的“晨礼”，艾莉丝承认自己忘了送；文中说明新婚“同床期”为两周，期间不办庆典以防婚事被撤销。",
+   "relation": "艾莉丝与阿玛莱等宫中女眷（礼物与礼节摩擦）",
+   "numbers": "two weeks（同床期）/ near thirty（手杖收藏）/ hundreds of young boys",
+   "interval": [
+    10419,
+    10454
+   ],
+   "anchor": "The bedding-in period was two weeks"
+  }
+ ]
+}

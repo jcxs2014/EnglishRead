@@ -1,0 +1,95 @@
+{
+ "chapter": 17,
+ "text": "text/ch17_chapter_seventeen_elise.txt",
+ "chars": 15229,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Elise 穿过王宫的密道，从 Cynefel 的起居室悄悄回自己房间以避开人群",
+   "relation": "Elise 与王族/继母 Cynefel 的宫廷关系",
+   "numbers": "—",
+   "interval": [
+    523,
+    605
+   ],
+   "anchor": "when she used the passages for the simple task of avoiding people as she navigated"
+  },
+  {
+   "id": 2,
+   "event": "Elise 路过教室，看见幼弟 Hein 在矮桌上练字，低阶祭司夸他字迹干净",
+   "relation": "Elise 与弟弟 Hein 的姐弟关系，及她被剥夺读书识字之权",
+   "numbers": "—",
+   "interval": [
+    1221,
+    1279
+   ],
+   "anchor": "‘Oh good work,’ said the low priest who was tutoring Hein."
+  },
+  {
+   "id": 3,
+   "event": "Elise 在密道里听见 Conrin 与 Gaisa 密谋，说父亲“正在失去掌控”，并称“羽翼在我们这边”",
+   "relation": "Conrin、Gaisa 与父亲（国王）之间的权力对立",
+   "numbers": "—",
+   "interval": [
+    2356,
+    2432
+   ],
+   "anchor": "‘The Wing is on our side, Gaisa. Let’s show him we are worthy of our blood.’"
+  },
+  {
+   "id": 4,
+   "event": "Conrin 察觉墙后有人，手按剑柄低声威胁能刺穿木墙",
+   "relation": "Conrin 对 Elise 的敌意与武力压制",
+   "numbers": "—",
+   "interval": [
+    3035,
+    3107
+   ],
+   "anchor": "‘Trust that I can stab through a wooden wall faster than you can blink.’"
+  },
+  {
+   "id": 5,
+   "event": "Elise 主动现身自称“Brother-hyem”，Gaisa 把手中纸条攥进掌心",
+   "relation": "Elise 与两位兄长的紧张关系；Egil 与“鸟”的未明计划",
+   "numbers": "—",
+   "interval": [
+    3686,
+    3760
+   ],
+   "anchor": "He had what looked like a note in his hand, which he balled up in his palm"
+  },
+  {
+   "id": 6,
+   "event": "Conrin 抓住 Elise 手腕把她按在走廊墙上逼问听见了什么，她答“什么也没看见”",
+   "relation": "兄妹关系：Conrin 从手足变为施暴者，Elise 学会隐忍",
+   "numbers": "她九岁、他八岁时反抗曾奏效",
+   "interval": [
+    5477,
+    5522
+   ],
+   "anchor": "It had worked when she was nine and he eight."
+  },
+  {
+   "id": 7,
+   "event": "侍女 Torna 摆好正午饭食（咸鱼、燕麦饼、腌菜、凉麦酒），Elise 挥手让她退下",
+   "relation": "Elise 与唯一能容忍的侍女 Torna 的关系",
+   "numbers": "salted fish, oat cakes, pickled relish and cool ale",
+   "interval": [
+    6900,
+    6951
+   ],
+   "anchor": "salted fish, oat cakes, pickled relish and cool ale"
+  },
+  {
+   "id": 8,
+   "event": "王后的侍女 Lady Hadiah 送来一卷纸和一个木盒；卷轴用王后蛇形印记封缄，盒中是剔净的银鱼骨",
+   "relation": "Elise 与王后 Tilde 的试探性往来",
+   "numbers": "a round snake eating its own tail",
+   "interval": [
+    12664,
+    12750
+   ],
+   "anchor": "The queen had sealed it with her own Ardweni sigil: a round snake eating its own tail."
+  }
+ ]
+}
