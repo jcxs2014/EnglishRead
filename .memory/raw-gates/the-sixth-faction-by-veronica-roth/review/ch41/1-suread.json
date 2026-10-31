@@ -1,0 +1,83 @@
+{
+ "chapter": "ch41",
+ "pov": "第一人称（Tris，「我」；章首标题 \"Tris\"）+ 现在时（present tense）",
+ "facts": [
+  {
+   "event": "Four 向 Tris 解释：Dauntless 入门最终测试叫 fear landscape，是最深恐惧的序列，多数人有十二到二十五个。",
+   "who": "he (Four)",
+   "receivers": "Tris",
+   "start": 191,
+   "end": 388,
+   "text": "“The final test of Dauntless initiation is something called a fear landscape,” he says. “It’s like . . . a sequence of all your deepest fears. Most people have anywhere from twelve to twenty-five.”"
+  },
+  {
+   "event": "Four 继续说：模拟电脑比多数人以为的灵活，不只能带本人走完自己的恐惧模拟、不只能让旁观者看，还能把旁观者纳入模拟。",
+   "who": "he (Four)",
+   "receivers": "the observer / the simulation",
+   "start": 634,
+   "end": 876,
+   "text": "He goes on: “The simulation computer is more flexible than most people realize. It doesn’t just take a person through their own fear simulation, and it doesn’t just allow an observer. It can incorporate the observer into the simulation, too.”"
+  },
+  {
+   "event": "Tris 心知这秘密危险、连听的人都有份；自能力测试日起她独自守着它、疑心自己不按该有的方式运转，此刻忽然不再孤单。",
+   "who": "I (Tris)",
+   "receivers": "this secret",
+   "start": 2803,
+   "end": 3112,
+   "text": "I can’t breathe. It’s dangerous. For you and for every person you tell. Apart from that one conversation with my mother, I’ve been alone with this secret since the day of my aptitude test, wondering what’s wrong with me, why I don’t work the way I’m supposed to. And now, suddenly . . . I’m not alone anymore."
+  },
+  {
+   "event": "Four 每一步都像被牵线般僵硬地走到 Tris 身旁的楼顶边缘，恐惧从轻颤变成全身发抖；Tris 俯视下方，身体却因高度而兴奋。",
+   "who": "he (Four) / I (Tris)",
+   "receivers": "me (Tris)",
+   "start": 3195,
+   "end": 3466,
+   "text": "He walks toward me, and every step looks forced, like he’s resisting the commands of a puppeteer. He stands next to me on the ledge, the tremor of his fear now a full-on shudder. I look down, and I can feel something like it, maybe—but my body thrills at the height, too."
+  },
+  {
+   "event": "Tris 僵在原地，眼看着高大强悍的 Four 走向书桌椅、扶住椅背弓下身，把自己当作一张空白画布呈给他父亲。",
+   "who": "Four",
+   "receivers": "his father (Marcus)",
+   "start": 10169,
+   "end": 10366,
+   "text": "No, no, no, I think, but I’m stuck, watching in horror as Four—tall, strong, fierce Four—walks toward the desk chair and braces himself on the back of it. Presenting his father with a blank canvas."
+  },
+  {
+   "event": "Marcus 举起皮带，Tris 想都没想就冲上去，把身体横扑到 Four 身上。",
+   "who": "Marcus / I (Tris)",
+   "receivers": "the belt / Four",
+   "start": 10371,
+   "end": 10484,
+   "text": "Marcus raises the belt, and I lurch into action before I can even think about it, throwing my body across Four’s."
+  },
+  {
+   "event": "Four 说自己每露出个性都换来后悔，于是选择 Dauntless——那才让他第一次真正存在，不必再属于「他」（父亲）。",
+   "who": "he (Four)",
+   "receivers": "Marcus",
+   "start": 13349,
+   "end": 13477,
+   "text": "I regretted it. So when I chose Dauntless . . . it was like I finally got to exist, for the first time. I didn’t have to be his."
+  },
+  {
+   "event": "Tris 与 Four 在暗处接吻：起初只是嘴唇轻压，随即两人互相迎上去，他一只手抚过她的脸颊、指尖绕到下颌后，另一只手揽住她的腰把她拉近。",
+   "who": "I (Tris) / he (Four)",
+   "receivers": "him / me",
+   "start": 16344,
+   "end": 16610,
+   "text": "It’s tentative, at first. A press of lips in the dark. But it sends a thrill through my entire body. I surge toward him; he surges toward me. One of his hands brushes my cheek, his fingertips curling behind my jaw; his other hand goes to my waist, pulling me closer."
+  }
+ ],
+ "relations": [
+  "Tris 与 Four 彼此都是 Divergent，两人当面点破（“You’re Divergent.” / “So are you.”）",
+  "Four 只有四个恐惧，他的绰号 Four 由此而来（Christina 不知其来历，Tris 当场弄懂）",
+  "Marcus Eaton 是 Four 的父亲、Abnegation 的议会领袖；恐惧景观里 Four 把皮带交到他手上",
+  "Evelyn 是 Four 的母亲，在 Marcus 施暴时独自离开、把 Four 留给他",
+  "Tris 的恐惧景观里那尊无面孔、金发灰衣的女子，是 Four 必须开枪射杀的对象",
+  "Tris 与 Four 在街上散步后接吻，章末她说要带他去见一个人"
+ ],
+ "numbers": [
+  "twelve to twenty-five（多数人的恐惧数量）",
+  "four（Four 的恐惧只有四个，也是他绰号的来源）",
+  "less than a second（从楼顶坠落那段感受的持续时间）"
+ ]
+}
