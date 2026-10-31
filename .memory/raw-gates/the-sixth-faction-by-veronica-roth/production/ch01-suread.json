@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch01_chap1.txt",
+ "facts": [
+  {
+   "fact": "贝阿特丽斯家的镜子藏在楼上墙里的滑动板后，母亲每三个月给她剪一次头发，那时她才被允许照镜子",
+   "anchor": "I’m allowed to stand in front of it once every three months, when my mother cuts my hair.",
+   "start": 117,
+   "end": 206
+  },
+  {
+   "fact": "剪发有一套固定流程：她从走廊壁橱搬出凳子，母亲从浴室抽屉拿来剪刀和梳子，她坐下，母亲拉开面板",
+   "anchor": "It’s the same choreography every time.",
+   "start": 211,
+   "end": 249
+  },
+  {
+   "fact": "她想起哥哥迦勒（Caleb）多年来自己剪头发，母亲的小笑和梳子的拉扯让她觉得自己像个孩子",
+   "anchor": "But today I think of my brother, Caleb, how he’s been cutting his own hair for years, and my mother’s small smile and the tug of the comb make me feel like a child.",
+   "start": 1006,
+   "end": 1170
+  },
+  {
+   "fact": "她开口要自己剪，母亲只犹豫了一瞬，就把剪刀交到她手里",
+   "anchor": "She hesitates for only a moment before putting the scissors in my hand.",
+   "start": 1229,
+   "end": 1300
+  },
+  {
+   "fact": "她盘算把头发剪到下巴的位置，想着那样自己会不会变成另一个人",
+   "anchor": "What if I cut my hair at my chin? Could I be someone different then?",
+   "start": 1444,
+   "end": 1512
+  },
+  {
+   "fact": "她随即告诉自己：换个发型并不会改变一个人",
+   "anchor": "A haircut doesn’t change a person.",
+   "start": 1553,
+   "end": 1587
+  },
+  {
+   "fact": "她真正想要的是成为「适合这里」的人——属于这个派系、这个家，而不是那个不适合的人",
+   "anchor": "Desperate to be the person who fits here, in our faction, in our home, instead of the one who doesn’t.",
+   "start": 1675,
+   "end": 1777
+  },
+  {
+   "fact": "全章以她合拢剪刀、剪下第一缕头发结束",
+   "anchor": "I close the scissors over the first lock of hair, and cut.",
+   "start": 1782,
+   "end": 1840
+  }
+ ]
+}
