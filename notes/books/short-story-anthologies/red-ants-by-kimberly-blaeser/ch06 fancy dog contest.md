@@ -122,7 +122,19 @@ modified: "2026-10-31"
 
 **表达方式**：tornado-force chaos 用气象级别形容混乱；smothered flames 既指被压灭的火，也隐喻被压抑了十八年的亲情。
 
-> **原句 10:** "What I saw then, and now in my dreams, and sometimes in the stories goes like this: Rusty turned to leave and Dollar followed. They walked, each with the same stride, out to Dollar’s truck. Dollar handed over his set of keys to Rusty just like it hadn’t been eighteen years."
+> **原句 10:** "Then we all gathered outside smelling like skunk and singed hair. People offered the Bush brothers drinks and handshakes. Everyone started telling what they saw. The teachers came over and gave all that prize money to the two men, four hundred dollars apiece."
+
+**中文理解**：随后我们全聚到外面，一身的臭鼬味和焦发味。人们给 Bush 兄弟递酒、握手。人人都在讲自己看到了什么。老师走过来，把全部奖金给了这两人——每人四百美元。
+
+**关键词**：smelling like skunk and singed hair / drinks and handshakes / all that prize money / four hundred dollars apiece
+
+**为什么这样写**：比赛的奖金线在这里兑现——开头五百美元的诱饵最终以「全部奖金平分」的形式回到兄弟俩手里，社区的官方认可用钱说出来；「臭鼬味和焦发味」让英雄主义一直带着烟火气。
+
+**句子结构**：三个短句收拢现场（gathered / offered / telling），最后以金额收尾——「四百美元每人」是全场唯一被写下的数字结论。
+
+**表达方式**：singed hair（烧焦的头发）与 drinks and handshakes 并置，狼狈与礼遇同框；all that prize money 的 all 字把「平分」的慷慨交给了那对老师。
+
+> **原句 11:** "What I saw then, and now in my dreams, and sometimes in the stories goes like this: Rusty turned to leave and Dollar followed. They walked, each with the same stride, out to Dollar’s truck. Dollar handed over his set of keys to Rusty just like it hadn’t been eighteen years."
 
 **中文理解**：我当时看到的——现在也出现在梦里，有时出现在故事里——是这样的：Rusty 转身要走，Dollar 跟了上去。他们用同样的步伐走到 Dollar 的卡车旁。Dollar 把他的钥匙递给 Rusty，仿佛中间没有隔着十八年。
 
