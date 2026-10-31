@@ -1,0 +1,103 @@
+{
+ "chapter": 3,
+ "pov": "Beatrice（第一人称）",
+ "facts": [
+  {
+   "event": "Caleb 用胳膊肘碰她示意：巷子里有个无派系女人；Robert 从各人午餐里收集苹果给她，Beatrice 二话不说交出自己那个",
+   "who": "Caleb",
+   "receivers": [
+    "Beatrice",
+    "Robert",
+    "Susan"
+   ],
+   "start": 593,
+   "end": 834,
+   "text": "Caleb nudges me with his elbow. There’s a factionless woman in the alley near us, unkempt and wrapped in fabrics of all colors, all factions. Robert is collecting apples from everyone’s lunches to give her. I hand mine over without argument."
+  },
+  {
+   "event": "公交车上她问 Caleb 是直接去测试还是先去 homeroom，Caleb 答“Straight to the test.”，握横杆的手紧了一紧",
+   "who": "Beatrice",
+   "receivers": [
+    "Caleb"
+   ],
+   "start": 2834,
+   "end": 3106,
+   "text": "“Do we go straight to the test?” I ask Caleb, though we don’t usually speak on the bus. “Or do we have to go to homeroom first?”\n\n\n\n“Straight to the test.” Caleb’s hand tightens around the rail above his head. It’s the first sign of nerves I’ve seen from him this morning."
+  },
+  {
+   "event": "Robert 拖来椅子让她站上去，推开窗，两人一起看 Dauntless 从进站的火车上往下跳",
+   "who": "Robert",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 4077,
+   "end": 4387,
+   "text": "Robert drags a chair over for me to stand on, and cracks the window open so we can both look at the elevated train tracks behind the school.\n\n\n\n\nWe do this every morning.\n\n\n\n“We’re right on time,” he says.\n\n\n\nThe train reaches the platform, slowing but not stopping, and then . . . the Dauntless start jumping."
+  },
+  {
+   "event": "食堂等候时，脖子上纹着鹰的 Dauntless 女测试官喊“Beatrice Prior”，她愣了太久，起身太急撞到膝盖，一瘸一拐跟着进测试室",
+   "who": "Dauntless 测试官（Tori）",
+   "receivers": [
+    "Beatrice",
+    "Susan"
+   ],
+   "start": 7085,
+   "end": 7348,
+   "text": "“Beatrice Prior,” she says, and my name sounds muffled. I sit for so long that Susan nudges me with her elbow, and then I stand too fast, hitting my knee on the table as I rise.\n\n\n\n\nWincing, I limp over to the test administrator and follow her back into the room."
+  },
+  {
+   "event": "Tori 说明流程：针剂把微小发射器与接收器灌进她体内，它们会进大脑安家，测试便由此触发",
+   "who": "Tori",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 8329,
+   "end": 8515,
+   "text": "“Here’s how it works,” she says. “I stick you with this needle, which will flood your system with tiny transmitters and receivers.\nThey’ll all travel to your brain and set up shop there."
+  },
+  {
+   "event": "Tori 翻了个白眼拆穿她的疑问：领袖们用从十六岁起就长在脑中的微小发射器接上一台大型计算机，记忆就是这么进记忆库的",
+   "who": "Tori",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 9072,
+   "end": 9377,
+   "text": "“Well, how did you think they got the memories in there? Did you think your leaders submitted detailed diary entries? No.\nThey interface with a big, powerful computer using the little transmitters and receivers that have lived in their brains since they were sixteen, when they took their aptitude tests.”"
+  },
+  {
+   "event": "Tori 俯身把消毒液擦在她颈侧，答她问说鹰象征太阳、自己从前怕黑，随后拿起注射器拔出针套",
+   "who": "Tori",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 9885,
+   "end": 10160,
+   "text": "She stands over me, and dabs it against the side of my neck.\n\n\n\n“Why the hawk?” I ask her.\n\n\n\nShe smiles a little and tosses the soiled cotton ball onto the table. “The hawk symbolizes the sun. I was afraid of the dark.”\n\n\n\nShe picks up the syringe and unsheathes the needle."
+  },
+  {
+   "event": "针尖朝她脖子来时她没躲开、反而盯着金属上的光，针扎下，疼痛又尖又深，Tori 说“Not anymore,”，随后一切变黑",
+   "who": "Tori",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 10331,
+   "end": 10597,
+   "text": "I should look away, or close my eyes, but instead I watch—watch the light catching on the metal, and Tori’s tattooed finger on the syringe’s plunger.\n\n\n\n\nThe pain is both sharp and deep. Her eyes find mine.\n\n\n\n“Not anymore,” she says, and then everything goes black."
+  }
+ ],
+ "relations": [
+  "Caleb 是 Beatrice 的哥哥；测试当天他显得比她镇定，第一丝紧张只露在握横杆的手上",
+  "Robert 与 Susan 是双胞胎，Robert 是 Beatrice 一起躲进图书馆看 Dauntless 下车的同伴（'he, like me, loves watching the Dauntless disembark from the train'）",
+  "Tori 是 Dauntless 的测试官，喉部纹着鹰、双臂布满火焰与花的纹身；她说鹰象征太阳，她从前怕黑",
+  "Caleb 不赞成 Robert 和 Beatrice 的“小爱好”，但也不阻止（'He doesn’t approve of our little hobby, but he doesn’t stop us, either.'）",
+  "Abnegation 的记忆库存着各派系成员通过脑内发射器上传的记忆，由领袖层用一台大型计算机调取"
+ ],
+ "numbers": [
+  "公交车又颠了十分钟才到中学（原文 'We bump along for ten minutes'）",
+  "与其他派系同校始于六年前、她十岁那年（原文 'six years ago, when I was ten years old'）",
+  "十六岁做出派系选择（原文 'after sixteen, when we make our choices'）",
+  "脑内发射器与接收器从十六岁起永久留在脑中（原文 'since they were sixteen' / 'Forever'）",
+  "Tori 今天已经做过十次测试（原文 'She’s already done this ten times today'）"
+ ]
+}

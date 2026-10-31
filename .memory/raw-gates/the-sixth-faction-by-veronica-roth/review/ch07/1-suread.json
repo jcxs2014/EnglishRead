@@ -1,0 +1,109 @@
+{
+ "chapter": 7,
+ "pov": "Beatrice（第一人称）",
+ "facts": [
+  {
+   "event": "Beatrice 想到那个持枪、作 Amity 打扮、酷似已死的 Evelyn Eaton 的女人，于是开口「If I saw something strange」，问「who would I tell?」；父亲反问「You saw something strange?」",
+   "who": "Beatrice Prior",
+   "receivers": [
+    "Andrew Prior（父亲）"
+   ],
+   "start": 1432,
+   "end": 1694,
+   "text": "I think of the woman with the gun, dressed in Amity clothes. The woman who looked like Evelyn Eaton.\n\n\n\n“If I saw something strange,” I say, “who would I tell?”\n\n\n\n“You saw something strange?” Again, he sounds neutral, like he’s trying not to upset me.\n\n\n\nI nod."
+  },
+  {
+   "event": "父亲告知 Robert 是被枪杀的，而非死于人群挤压；Beatrice 追问针枪能否致命，父亲说针枪不能。",
+   "who": "Andrew Prior",
+   "receivers": [
+    "Beatrice Prior"
+   ],
+   "start": 2616,
+   "end": 2923,
+   "text": "“He was shot,” my father says.\n\n\n\nIt’s not the answer I was expecting. I thought Robert was crushed by the crowd or injured in the chaos—not shot.\n\n\n\n\n“The Dauntless were carrying needle guns,” I say. “Needle guns can’t kill people, can they?”\n\n\n\n“No, they can’t,” my father replies, in a tight, hard voice."
+  },
+  {
+   "event": "父亲说：一名 factionless 从墙头偷走一把枪，在那女人从屋梁坠落后，他们便以暴力报复——「They turned to violence.」",
+   "who": "Andrew Prior",
+   "receivers": [
+    "Beatrice Prior"
+   ],
+   "start": 3430,
+   "end": 3568,
+   "text": "One of those factionless stole a gun from the wall, and after that woman fell from the rafters, they retaliated. They turned to violence.”"
+  },
+  {
+   "event": "父亲越说越激动，摔碎了手里的碗；他撑住水槽、垂着头道歉，说「I shouldn’t lose my temper.」",
+   "who": "Andrew Prior",
+   "receivers": [
+    "Beatrice Prior"
+   ],
+   "start": 4341,
+   "end": 4629,
+   "text": "He spits the words, and in his agitation he drops the soapy bowl he’s holding and it breaks.\n\n\n\n\nI jump back.\n\n\n\n“I’m sorry.” My father plants his hands on the edge of the sink and leans into them, his head hanging. “I’m sorry, Beatrice.\nI shouldn’t lose my temper.”\n\n\n\n\n“It’s all right.”"
+  },
+  {
+   "event": "父亲在早餐桌上宣布：议会认定再合办一次 Choosing Ceremony 不安全，各派今天各自举行；Beatrice 的勺子磕在碗边，Susan 仍照常一口一口吃。",
+   "who": "Andrew Prior",
+   "receivers": [
+    "Caleb Prior",
+    "Beatrice Prior",
+    "Susan Black"
+   ],
+   "start": 7016,
+   "end": 7372,
+   "text": "“As you already know, the Council has decided it’s not safe to gather for another Choosing Ceremony.\nI’ve just been informed that each faction is conducting theirs separately. Today.”\n\n\n\n\nMy spoon clatters against the side of my bowl.\n\n\n\n“What?” Now I know what my father was calling “cruel.”\n\n\n\nSusan, I notice, is still taking bites at regular intervals."
+  },
+  {
+   "event": "新仪式上 Marcus 盯着手里的名册停住，说「This would have been Robert’s turn」，让众人想一想这个失去的年轻人。",
+   "who": "Marcus Eaton",
+   "receivers": [
+    "全体在场者"
+   ],
+   "start": 13070,
+   "end": 13272,
+   "text": "Marcus is staring at the clipboard in his hands.\n\n\n\n“This would have been Robert’s turn,” Marcus says. “So let’s consider the young man we lost.”\n\n\n\nI feel like I swallowed something without chewing it."
+  },
+  {
+   "event": "Caleb 的血落进水盆而不是石上——他选了 Erudite；全场静得她确信别人能听见自己的心跳。",
+   "who": "Caleb Prior",
+   "receivers": [
+    "Beatrice Prior",
+    "全体在场者"
+   ],
+   "start": 14247,
+   "end": 14408,
+   "text": "I stare, uncomprehending, as his blood falls into the water instead.\n\n\n\nCaleb just chose Erudite.\n\n\n\nThe room is so silent I swear they can hear my heart racing."
+  },
+  {
+   "event": "Beatrice 接过刀割开拇指，把血按在象征 Abnegation 的石头上；落血的一刻她就知道这是错的选择，但已经太迟。",
+   "who": "Beatrice Prior",
+   "receivers": [
+    "Marcus Eaton",
+    "Jeanine Matthews",
+    "全体在场者"
+   ],
+   "start": 16248,
+   "end": 16394,
+   "text": "I thrust my hand out, and my blood falls on the stones.\n\n\n\nAnd in that moment I know, I know, I know it’s the wrong choice.\n\n\n\n\nBut it’s too late."
+  }
+ ],
+ "relations": [
+  "Beatrice Prior — Robert Black：自幼相伴的朋友，他总记得替她拖来椅子看 Dauntless 列队；他被枪杀后，餐桌上的空椅子成了她选派时的心结。",
+  "Beatrice Prior — Caleb Prior：兄妹；他当众改选 Erudite，与留在 Abnegation 的她当场分道，她看见哥哥「standing in the shadows, behind Jeanine Matthews, his head bowed」。",
+  "Beatrice Prior — Andrew Prior（父亲，议员）：她开口「If I saw something strange」，问「who would I tell?」，他答「You can always talk to me, Beatrice. No matter what.」，她仍选择隐瞒 Evelyn Eaton 与自己是 Divergent 两件事。",
+  "Beatrice Prior — Susan Black：Robert 的妹妹；葬礼上由 Susan 亲手把骨灰倒进陶土、塑成纪念砖。",
+  "Marcus Eaton — Susan Black：代表议会特别向她致歉（\"We want to especially apologize to you, Susan.\"）。",
+  "Jeanine Matthews — Caleb Prior：她为他递刀，Beatrice 心里称她「My brother’s new leader」。",
+  "Evelyn Eaton — Marcus Eaton：Marcus 的亡妻；Beatrice 在袭击中觉得持枪女人像她，仪式上又疑心自己看错了。"
+ ],
+ "numbers": [
+  "Hours later（母亲递水时的时间跨度）",
+  "They already put it off for two days（新仪式比原定推迟两天）",
+  "My sixteen-year-old classmates（只有十六岁的同学及家人获准参加这场仪式）",
+  "sixteen years is time enough to know the core of yourself（Marcus 语）",
+  "Only Felicity is behind me（按生日排队，她身后只剩 Felicity 一人）",
+  "There’s one light in the room（全场只有一盏灯照在碗上）",
+  "The funeral is in the morning（葬礼在上午）/ At breakfast the morning after（葬礼次日早餐 Tabitha 来访）"
+ ]
+}

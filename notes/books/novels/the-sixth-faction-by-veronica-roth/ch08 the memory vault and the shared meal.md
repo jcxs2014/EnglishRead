@@ -7,7 +7,7 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-- **一句话概括**：选择仪式散场，她跟着留在 Abnegation 的八个新人走进圆形的记忆库，被迫重看 aptitude test 里 Tori 说出 Divergent 的那几分钟；深夜宴会厅，父母和邻居一样样把食物放到她面前，两首歌并排唱起来，她放下叉子闭眼听，眼泪是好的那种。
+- **一句话概括**：选择仪式散场，她跟着留在 Abnegation 的八个新人走进圆形的记忆库，被迫重看 aptitude test 里 Tori 说出 Divergent 的那几分钟，回到现实时 Marcus 盯着她皱了一下眉；深夜宴会厅，父母和邻居一样样把食物放到她面前，两首歌并排唱起来，她放下叉子闭眼听，眼泪是好的那种。
 - **情感弧线位置**：本章是「留下」的落地：前半一直压着（喉咙里的块、不能哭、秘密被抽走），后半一路松开（食物、歌声、好眼泪）；她始终没有说自己后悔留下，但身体先替她认了。
 - **Tropes 兑现/反转**：兑现「入会仪式」与「秘密当众被翻开」；反转「无私」——Marcus 把「接受」说成无私的另一半，记忆库却把她的 aptitude test 变成城市档案；第二次反转在宴会厅：「Abnegation 没有音乐」这句外派系的成见，被两首歌直接推翻。
 - **人物弧线**：从盘算「怎么在这里不难受」（安静的早晨、园子、找一件自己擅长的事），到放下叉子闭眼听歌；选择没变，变的是她对这个选择的想象。
@@ -43,14 +43,21 @@ modified: "2026-10-31"
 **为什么这样写**：三句都用 She’ll 开头，语法是将来时，读起来却像判决书——她把还没发生的事说成已经定好的。最重的一笔在最后半句：危险不只落在她身上，还落在每一个听她讲的人身上。于是这一章的恐惧从「会不会被发现」换成「能不能开口」。
 **读者视角提示**：她在这里只能看、不能改。也要注意这句是「她替 Tori 说」的——连对方会怎么措辞，她都已经背下来了。
 
-> **原句 5:** "The other factions think Abnegation has no games, has no music, has no celebrations. But we just keep them to ourselves. And true, we don’t have the same instruments the other factions do—but a voice is an instrument, too."
+> **原句 5:** "I’m kneeling in front of the table in the Abnegation Memory Vault, lifting my hands from the warm stone. All my fellow initiates appear around me again. Marcus Eaton’s eyes find mine, and then his brow furrows, like I’ve confused him."
+
+**中文理解**：她回到自己身上：跪在 Abnegation 记忆库的石桌前，双手从温热的石面上抬起来；周围的新人也一个个显形。Marcus Eaton 的目光找到她，然后皱起眉，像被她弄糊涂了。
+**关键词**：kneeling in front of the table, lifting my hands, appear around me again, his eyes find mine, his brow furrows, like I’ve confused him
+**为什么这样写**：上一块是她在心里替 Tori 把判决背了一遍，这一块就把那场判决的真身换成了一个表情：没有人念出 Divergent，只有一双眼睛在她脸上多停了半秒。四个句子按「身体—环境—他人—那张脸」推过去，最后一句的 like I’ve confused him 是她的猜测，作者没让 Marcus 说一个字。
+**读者视角提示**：全章最危险的东西在这一段里只有「皱眉」那么大。她把这件事读成「我让他困惑了」，而不是「我被他看见了」。
+
+> **原句 6:** "The other factions think Abnegation has no games, has no music, has no celebrations. But we just keep them to ourselves. And true, we don’t have the same instruments the other factions do—but a voice is an instrument, too."
 
 **中文理解**：别的派系以为 Abnegation 没有游戏、没有音乐、没有庆祝；其实他们只是把这些留给自己人。他们也确实没有别的派系那些乐器——可嗓子也是乐器，一样算。
 **关键词**：no games, has no music, keep them to ourselves, a voice is an instrument
 **为什么这样写**：三个 has no 一口气排开，先把外人的成见摆成一张清单，再用 keep them to ourselves 整张推翻：不是没有，是不给看。最后一句把「缺乐器」翻译成「另有乐器」，一个 too 就把节俭改写成选择。这是全章对 Abnegation 最正面的一句辩护，而且出自她自己的嘴。
 **读者视角提示**：这句辩护的语气不是辩论，是纠正——她用的是 we，把自己算进去了。
 
-> **原句 6:** "The song gets louder as everyone else joins in, every voice finding a place, even the old, creaky ones; even the tuneless ones; even the weak ones. The two songs line up next to each other like a key fitting into a lock, one supplying everything the other one needs in order to move."
+> **原句 7:** "The song gets louder as everyone else joins in, every voice finding a place, even the old, creaky ones; even the tuneless ones; even the weak ones. The two songs line up next to each other like a key fitting into a lock, one supplying everything the other one needs in order to move."
 
 **中文理解**：加入的人越多，歌越响；每个声音都找到了位置——连苍老的、发涩的、连跑调的、连没力气的都算。两首歌并排走，像一把钥匙插进锁孔：一首把另一首缺的东西全补上，另一首才动得起来。
 **关键词**：every voice finding a place, the tuneless ones, like a key fitting into a lock, supplying everything the other one needs

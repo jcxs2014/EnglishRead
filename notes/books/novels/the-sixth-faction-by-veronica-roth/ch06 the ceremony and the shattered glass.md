@@ -7,7 +7,7 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-- **一句话概括**：Choosing Ceremony 在大厅里开场：Marcus Eaton 讲五派的起源与五种缺陷，九十名十六岁孩子在大厅中央排队等念名单；他刚拿起名册，天窗齐碎、有人喊「Death to factions」、五面派系旗被割落、一面绣白花的新旗升起；她在混乱中被一个 Dauntless 男孩推出侧门，在楼侧认出持枪的「死人」Evelyn Eaton；结尾 Caleb 告诉她 Robert 死了。
+- **一句话概括**：Choosing Ceremony 在大厅里开场：Marcus Eaton 讲五派的起源与五种缺陷，九十名十六岁孩子在大厅中央排队等念名单；他刚拿起名册，天窗齐碎、有人喊「Death to factions」、五面派系旗被割落、一面绣白花的新旗升起，一名绿衣女子中针从屋梁坠落、死在几步之外；她在混乱中被一个 Dauntless 男孩推出侧门，在楼侧认出持枪的「死人」Evelyn Eaton；结尾 Caleb 告诉她 Robert 死了。
 - **情感弧线位置**：从 ch05 的「舍不得」推进到「来不及」——仪式前她还能被父亲握一下手、被一句「人人有权选择自己的位置」托住，几分钟后她带着被鞋底碾过的手指、记住哥哥袖子上扎着的玻璃，跑回去找家人；本章第一次出现她保护不了任何人的恐惧。
 - **Tropes 兑现/反转**：兑现「仪式即世界观的展览」——五只金属碗、五面旗、五种缺陷与五种纠正一字排开，制度被摆成可以参观的陈列；反转「选择」：典礼把选择称作权利，同一间大厅里另一些人用玻璃和枪宣布派系该死，而她的选择在结尾连自己的家人都找不回来。
 - **人物弧线**：她从「被保护的人」变成「被推着走的人」：父亲握手、Caleb 回握、陌生的 Dauntless 男孩把她拎起来推给侧门；她主动做的只有两件事——认出 Evelyn 的脸，然后掉头跑回大厅找家人。
@@ -57,21 +57,28 @@ modified: "2026-10-31"
 **为什么这样写**：五个派系被压进一个并列句，落旗的顺序从最温和的一派排到她自己那一派，最后落地的是「伸出的双手」——按落旗顺序与符号顺序一一对应，那是 Abnegation 的符号，也是她自己的。符号写在布皱之前，等于说这些意义只剩这一秒还能读。新旗的比喻是叶子抓着树枝：它挂在那里不是扎根，是随时会掉。整段没有一个人说话，也没有一句解释。
 **读者视角提示**：她认得出每一面旧旗上的东西，却认不出刚升起来的那一面——它没有名字，只有形状。
 
-> **原句 7:** "She turns and raises her weapon in one fluid motion, like some kind of lethal dancer. She looks like no Amity I’ve ever seen, her hair pulled back in a sleek knot, her expression hard, her face bisected with shadow. She shifts so the moonlight glows on her cheekbones, and that’s when I recognize her:"
+> **原句 7:** "A body slams into the floor just a few feet away from me. I’m close enough to see the needle sticking out of the fallen woman’s neck. She’s dressed all in green, her face covered, but from what I can tell by her empty eyes, she’s not much older than I am."
+
+**中文理解**：一具身体砸在她几步外的地上：针还插在那个女人脖子上，她一身绿、蒙着脸，可从那对空掉的眼睛看，她并不比她大多少。
+**关键词**：a body slams into the floor, the needle sticking out, dressed all in green, her empty eyes, not much older than I am
+**为什么这样写**：全章一直在往上看（旗、天窗、屋梁），这一句让她第一次低头。三个细节按「距离—凶器—年纪」排下来：几英尺外，说明这不是远处的新闻；针还在颈上，说明杀她的人没有收走凶器；不比她大多少，把这场袭击从「他们」拉到「我们这一届」。作者不写她哭、不写她喊，只写她「看得够近」。
+**读者视角提示**：这是全章第一具尸体，也是她把「死亡」和「十六岁」放进同一句话的地方。
+
+> **原句 8:** "She turns and raises her weapon in one fluid motion, like some kind of lethal dancer. She looks like no Amity I’ve ever seen, her hair pulled back in a sleek knot, her expression hard, her face bisected with shadow. She shifts so the moonlight glows on her cheekbones, and that’s when I recognize her:"
 
 **中文理解**：她转身，一个连贯的动作就把武器抬起来，像个致命的舞者。她一点也不像她见过的任何一个 Amity：头发在脑后挽成一个利落的髻，表情很硬，脸被阴影劈成两半。她侧了一下身，月光照亮颧骨——就在这时，她认出了她。
 **关键词**：one fluid motion, lethal dancer, no Amity I’ve ever seen, sleek knot, bisected with shadow, recognize her
 **为什么这样写**：顺序是先动作、再「不像谁」、最后才是脸。dancer 和 lethal 并置，把优雅与会杀人压进同一个短语；bisected with shadow 让那张脸上真有一道分界线，一半在月光里，一半不在。直到最后一句 that’s when I recognize her 才交出判断，而且用冒号收住，不写那个名字——名字要留到下一段。
 **读者视角提示**：「不像 Amity」是她的第一个判断，这句话本身就是信息：衣服可以穿，人不必是。
 
-> **原句 8:** "It was on all the news feeds after she died, that picture of the Eaton family: Marcus, his wife, their son, then ten or eleven years old. I remember it because it seemed like such a strange portrait for them to choose: a picture-perfect Abnegation family, but Evelyn’s expression was all wrong for that, with her jaw set and her eyes bright and critical. She looked angry."
+> **原句 9:** "It was on all the news feeds after she died, that picture of the Eaton family: Marcus, his wife, their son, then ten or eleven years old. I remember it because it seemed like such a strange portrait for them to choose: a picture-perfect Abnegation family, but Evelyn’s expression was all wrong for that, with her jaw set and her eyes bright and critical. She looked angry."
 
 **中文理解**：那张 Eaton 一家的合影在她死后上过所有新闻推送：Marcus、他妻子、他们的儿子，当时十岁或十一岁。她记得它，因为这张照片选得奇怪——一个无可挑剔的 Abnegation 家庭合影，可 Evelyn 的表情完全不合这套：下颌绷着，眼睛又亮又挑剔。她看上去在生气。
 **关键词**：news feeds, after she died, ten or eleven years old, picture-perfect, jaw set, bright and critical, looked angry
 **为什么这样写**：句子先把「她死后」摆出来，再给照片，读者就被迫在同一段里同时收下两件事。picture-perfect 是别人替这个家下的评语，后面三个细节（下颌、眼睛、结论）一起拆它。儿子的年龄写成 ten or eleven，记不准——她记住的是一张照片，不是一个人。
 **读者视角提示**：「她在生气」是这张官方合影里唯一没被安排好的东西。一张全家福里，只有一个人不肯配合。
 
-> **原句 9:** "I find them by the doors, ushering people out of the building. I see them through the glass, still inside the Hall, because of course they are. Of course the Abnegation refuse to save themselves."
+> **原句 10:** "I find them by the doors, ushering people out of the building. I see them through the glass, still inside the Hall, because of course they are. Of course the Abnegation refuse to save themselves."
 
 **中文理解**：她在门口找到他们——正在把人往楼外送。隔着玻璃她看见他们还留在厅里，因为他们当然还在：Abnegation 当然不肯先救自己。
 **关键词**：ushering people out, through the glass, of course they are, refuse to save themselves

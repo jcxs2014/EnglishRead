@@ -1,0 +1,95 @@
+{
+ "chapter": 4,
+ "pov": "Beatrice（第一人称）",
+ "facts": [
+  {
+   "event": "在迷宫岔口发现一个穿灰色 Abnegation 衣服、金发盘髻的小女孩，她跑过去扶住对方肩膀查看有没有受伤",
+   "who": "Beatrice",
+   "receivers": [
+    "小女孩"
+   ],
+   "start": 1382,
+   "end": 1666,
+   "text": "At the next place where two walls join is a little girl in gray Abnegation clothes. Her hair is blond like mine and pinned back in a tight knot like mine, but she’s young, just a child. Her cheeks are streaked with tears. I rush toward her, steadying her shoulders as I look her over."
+  },
+  {
+   "event": "她拉着小女孩的手往烟雾反方向跑，女孩脚步慢而笨拙，转过下一个弯却是死路",
+   "who": "Beatrice",
+   "receivers": [
+    "小女孩"
+   ],
+   "start": 2096,
+   "end": 2335,
+   "text": "I take her hand and pull her behind me as I run down the path, away from the smoke. The girl’s footsteps are slow and clumsy, and her hand is sweaty. I can smell fire. I cough, and take the next turn that I can, but it leads to a dead end."
+  },
+  {
+   "event": "她蹲下用双手交叠成踏脚托小女孩上墙，随后自己起跳，却发现自己太矮够不到墙顶",
+   "who": "Beatrice",
+   "receivers": [
+    "小女孩"
+   ],
+   "start": 2543,
+   "end": 2793,
+   "text": "She steps into the cradle of my hands, and I push her up so she can grab the top of the wall. The smoke has reached us, pricking and stinging at my eyes. I take a big breath as the girl scrambles up the wall and perches on top of it, and then I jump."
+  },
+  {
+   "event": "在烟里摸索时她发现有些砖头凸出得比别的远，于是改用砖块当把手一格格往上爬",
+   "who": "Beatrice",
+   "receivers": [],
+   "start": 3165,
+   "end": 3369,
+   "text": "The wall is rough beneath my hands, but as I grope the bricks for stability, I notice that some of them are sticking out farther than the others. I don’t have to jump for the top of the wall; I can climb."
+  },
+  {
+   "event": "她在墙顶张开双臂走过迷宫、几分钟就到缺口，屈膝跳下正落在双开门前",
+   "who": "Beatrice",
+   "receivers": [],
+   "start": 4717,
+   "end": 4964,
+   "text": "It’s easier to find the path through the maze from above. I make it to the exit in just a few minutes, sweat prickling on my shoulders and neck. Then I sit on the edge of the wall and drop down, landing with bent knees right in front of the doors."
+  },
+  {
+   "event": "Tori 说她在测试里做的某些事“本不可能”，比如爬墙、在墙顶行走，这说明她有着不该有的觉察力",
+   "who": "Tori",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 6336,
+   "end": 6581,
+   "text": "“Some of the things you did in that test aren’t supposed to be possible,” she says, her voice quiet. “Scaling the wall, for example. Walking along the top of it. Those suggest . . . a certain level of awareness that you’re not supposed to have.”"
+  },
+  {
+   "event": "Tori 直接告诉她：你是 Divergent——脑子对派系电脑特别抵触的人",
+   "who": "Tori",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 7627,
+   "end": 7776,
+   "text": "“No. I’m saying you’re a Divergent,” she says. “It’s what we call it when someone’s mind is especially resistant to the faction computers. And it’s—”"
+  },
+  {
+   "event": "Tori 判断她该在 Erudite/Dauntless/Abnegation 三派里选，并说自己把结果登记成 Abnegation，要她照此假装",
+   "who": "Tori",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 8358,
+   "end": 8605,
+   "text": "“I’d say you should pick from one of those three. Surely you already have an idea of where you’d like to end up.” Tori’s eyes soften. “There’s something you should know. I logged your result as ‘Abnegation,’ and you should pretend that’s the case."
+  }
+ ],
+ "relations": [
+  "Tori 是 aptitude test 的施测者：测完先离场（丢下一句 Perplexing. Excuse me.），回来时说 had to report an error and enter your result manually",
+  "Beatrice 与 Tori：Tori 要她对同学、朋友、especially with your family 都假装结果是 Abnegation",
+  "Beatrice 与 Uriah：同校（he’s in my math class）的 Dauntless 男孩，穿橘色鞋带，Tori 托他送她回家",
+  "Tori 说 there are some people—powerful people—who find it . . . disconcerting，即有权势者敌视 Divergent",
+  "Beatrice 与梦里的小女孩：金发同她、同样盘紧发髻、穿 Abnegation 灰衣，最后 she seems to have served her purpose，像是测试布下的机关",
+  "Beatrice 与家人派别：她怕自己 did it wrong、don’t fit、get kicked out of the entire faction system before I even get a chance to make a choice"
+ ],
+ "numbers": [
+  "pick from one of those three（三种可能的能力倾向：Erudite、Dauntless、Abnegation）",
+  "I make it to the exit in just a few minutes（从墙顶走到出口只用几分钟）",
+  "one last brick（脚踩到的最后一块凸砖）"
+ ]
+}

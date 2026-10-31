@@ -1,0 +1,102 @@
+{
+ "chapter": 5,
+ "pov": "Beatrice（第一人称）",
+ "facts": [
+  {
+   "event": "公交站已在视野里，她提议自己走；Uriah 说不必，她于是把“让他送回家”说成一次 selflessness 的举动，他配合地装认真",
+   "who": "Beatrice",
+   "receivers": [
+    "Uriah"
+   ],
+   "start": 687,
+   "end": 868,
+   "text": "I hadn’t thought about that. I look at the little curl of his lip and decide to try something. “So are you saying it would be an act of selflessness for me to let you walk me home?”"
+  },
+  {
+   "event": "路过空置楼房时她看见窗里一小簇低火，判断是 factionless 的落脚处，并想起母亲上次估计这类人有 two hundred",
+   "who": "Beatrice",
+   "receivers": [],
+   "start": 1606,
+   "end": 1872,
+   "text": "It must be a factionless haunt; sometimes they live in unoccupied buildings outside their sector. As far as I know, no one has taken a census of the factionless population. My mother’s last estimate was two hundred, based on the ones who come to the donation centers"
+  },
+  {
+   "event": "Uriah 说 Zeke 讲过 Hall 的后门永远开着，提议进去看 Choosing Ceremony 的房间；她点头答应",
+   "who": "Uriah",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 2281,
+   "end": 2398,
+   "text": "“Zeke told me the back door of the Hall is always open,” Uriah says. “Want to go in? See the Choosing Ceremony room?”"
+  },
+  {
+   "event": "两人在 Hall 里看到长桌上摆五只金属碗：玻璃给 Candor、石头给 Abnegation、煤给 Dauntless、土给 Amity、水给 Erudite",
+   "who": "Beatrice",
+   "receivers": [
+    "Uriah"
+   ],
+   "start": 3563,
+   "end": 3877,
+   "text": "under the banners where the faction manifestos hang, is a long table with five metal bowls on top of it. The bowls would be too big for me to wrap my arms around, and there’s something different in each one: glass, for Candor; stones, for Abnegation; coals, for Dauntless; earth, for Amity; and water, for Erudite."
+  },
+  {
+   "event": "Uriah 演示仪式：每人一把小刀割手掌到见血，再把掌心覆在其中一只碗上；他把手伸到 Dauntless 的煤碗上方，说 Kind of brutal",
+   "who": "Uriah",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 3988,
+   "end": 4280,
+   "text": "“Each person choosing gets a knife.” He sounds more serious than he has since I met him. “A small one. You cut into your hand, just enough to draw blood. And then you put your hand over one of the bowls.” He thrusts one hand out over the Dauntless bowl, palm down. “Kind of brutal, actually.”"
+  },
+  {
+   "event": "选前那晚父母给每个孩子各备一盘饭——Robert、Susan、Caleb 和她——让他们端回各自房间",
+   "who": "Beatrice 的父母",
+   "receivers": [
+    "Robert",
+    "Susan",
+    "Caleb",
+    "Beatrice"
+   ],
+   "start": 5894,
+   "end": 6079,
+   "text": "That night, my parents make dinner for everyone. They prepare a plate for each of the children—Robert, Susan, Caleb, and me—and put each one on a tray for us to carry back to our rooms."
+  },
+  {
+   "event": "隔窗夜谈时她几乎把 Tori 说的全告诉 Caleb（receivers 在脑子里、测试中过强的觉察、三种倾向），想起 It’s dangerous 又咽回去",
+   "who": "Beatrice",
+   "receivers": [
+    "Caleb"
+   ],
+   "start": 7987,
+   "end": 8235,
+   "text": "In that moment, I’m desperate to tell him. Caleb has always been a good listener, levelheaded in a crisis. Maybe he can help me think through what Tori said—about the receivers that are now swimming around in my skull, finding a home in my neurons;"
+  },
+  {
+   "event": "Caleb 转述母亲在医院说过的话，并劝她：家人要考虑，但 We’re the ones who have to live with our choices，要选一个自己能与之共处的选择",
+   "who": "Caleb",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 9846,
+   "end": 10102,
+   "text": "He taps his fingers on the windowsill, and looks at me. “We have to think of our family, Beatrice, but . . . we also have to think of ourselves. We’re the ones who have to live with our choices. No one else. So . . . make a choice you can live with. Okay?”"
+  }
+ ],
+ "relations": [
+  "Uriah 的哥哥 Zeke 是 Dauntless 的 wall guard（a prestigious position among the Dauntless），两年前在这里参加过 Choosing Ceremony",
+  "Uriah 的朋友 Marlene 是那天早上在火车上讲笑话、让全车笑弯的人",
+  "Caleb 是 Beatrice 的孪生哥哥，只比她早出生 two minutes，却总像哥哥一样给建议",
+  "Caleb 转述母亲的话 You have to check yourself before you check your sister：那是他摔下楼梯送医后母亲对他说的",
+  "Beatrice 与 Erudite 互相敌视（My faction hates Erudite, and the feeling seems to be mutual），但她的测试有 Erudite 成分",
+  "父亲在选前夜递给她托盘、吻她头顶并低声说 I love you；她怕自己走后父母会 hate me 或 Mourn me like I died",
+  "她想到可以与之争辩的成年人 Marcus Eaton（Erudite 宣言让她想 argue with an adult like Marcus Eaton）"
+ ],
+ "numbers": [
+  "My mother’s last estimate was two hundred（factionless 人口估计）",
+  "I was here two years ago, for Zeke’s ceremony（Uriah 两年前来过）",
+  "five metal bowls（五只金属碗）",
+  "two minutes older than I am（Caleb 只比她大两分钟）"
+ ]
+}

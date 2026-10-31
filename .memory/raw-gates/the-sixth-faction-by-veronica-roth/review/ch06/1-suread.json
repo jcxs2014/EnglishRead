@@ -1,0 +1,101 @@
+{
+ "chapter": 6,
+ "pov": "Beatrice（第一人称）",
+ "facts": [
+  {
+   "event": "Jeanine Matthews 穿蓝西装站在金属碗后看众人入场；这一届共 ninety 人待选，其中只有 twelve 人来自 Abnegation",
+   "who": "Jeanine Matthews",
+   "receivers": [
+    "Beatrice",
+    "Caleb"
+   ],
+   "start": 1750,
+   "end": 2037,
+   "text": "She watches us file into the Hall, expressionless, and then it’s time for Caleb and me to line up behind the other sixteen-year-olds, waiting in line right in the center of the room. There are ninety of us, a smaller class than usual, and of those, there are only twelve from Abnegation."
+  },
+  {
+   "event": "Marcus Eaton 正要按名册点名时，头顶所有天窗同时炸裂，玻璃片像冰雹砸下；Caleb 前臂插着一块玻璃、灰袖被血染红",
+   "who": "Marcus Eaton",
+   "receivers": [
+    "Beatrice",
+    "Caleb"
+   ],
+   "start": 7128,
+   "end": 7385,
+   "text": "Shrieks ring out through the Hall of Factions. Shards of glass pelt us like hailstones. I duck automatically, covering my head with my arms. Beside me, Caleb is staring, wide-eyed, at a piece of glass sticking out of his forearm. Red stains his gray sleeve."
+  },
+  {
+   "event": "五面派旗依次落地（先 Amity，然后 Candor、Erudite、Dauntless、Abnegation），接着一面新旗从椽子上垂下来展开",
+   "who": "袭击者",
+   "receivers": [
+    "在场众人"
+   ],
+   "start": 7855,
+   "end": 8181,
+   "text": "Amity’s is first, rippling as it drops to the floor, and then Candor’s, Erudite’s, Dauntless’s, and Abnegation’s. I see the symbols before the fabric crumples: the tree, the scales, the eye, the flames, and the outstretched hands. Then a new banner unfurls above me, dangling from the rafters like a leaf clinging to a branch."
+  },
+  {
+   "event": "新旗把白线缝在绿布上，图案是一小簇白色小花",
+   "who": "袭击者",
+   "receivers": [
+    "在场众人"
+   ],
+   "start": 8185,
+   "end": 8369,
+   "text": "It’s a symbol that mimics the size and circle-bounded shape of the faction symbols. It’s stitched in white to the green fabric of the banner. It depicts a spray of small white flowers."
+  },
+  {
+   "event": "针枪响后一具身体砸在她几英尺外的地上：绿衣女子颈上插着针，眼睛空着，年纪不比她大多少",
+   "who": "Dauntless 射手",
+   "receivers": [
+    "绿衣女子"
+   ],
+   "start": 8707,
+   "end": 8930,
+   "text": "A body slams into the floor just a few feet away from me. I’m close enough to see the needle sticking out of the fallen woman’s neck. She’s dressed all in green, her face covered, but from what I can tell by her empty eyes,"
+  },
+  {
+   "event": "她被挤倒、手被踩，一个深蓝眼睛的 Dauntless 少年抓住她肩膀把她推向侧面的 emergency door，她跑进安静的庭院",
+   "who": "Dauntless 少年",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 10246,
+   "end": 10457,
+   "text": "When I don’t move right away, the boy grabs my shoulder and shoves me toward the door. It startles me into motion—I run to the side of the room and push through the door, setting off an alarm that I barely hear."
+  },
+  {
+   "event": "绕到楼侧她看见一个拿枪的 Amity 女人，转身抬枪的动作像舞者；她认出那是 Marcus Eaton 已经“死去”的妻子 Evelyn Eaton",
+   "who": "Beatrice",
+   "receivers": [],
+   "start": 10880,
+   "end": 11181,
+   "text": "She turns and raises her weapon in one fluid motion, like some kind of lethal dancer. She looks like no Amity I’ve ever seen, her hair pulled back in a sleek knot, her expression hard, her face bisected with shadow. She shifts so the moonlight glows on her cheekbones, and that’s when I recognize her:"
+  },
+  {
+   "event": "她找到 Caleb、被抱住；Caleb 说父母都平安，然后告诉她 Robert 死了",
+   "who": "Caleb",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 12694,
+   "end": 12924,
+   "text": "“I’m fine,” he says, and he pulls back. His eyes are wet. “You didn’t— You haven’t—”\n\n\n\n“What is it?” I haven’t seen Caleb cry in years. “Is Mom okay? Dad?”\n\n\n\nHe nods. His Adam’s apple bobs.\n\n\n\n“Robert,” he says. “Robert’s dead.”"
+  }
+ ],
+ "relations": [
+  "Marcus Eaton 主持 Choosing Ceremony；Candor 代表 Jack Kang 在他右、Amity 代表 Johanna Reyes 在他左",
+  "Jeanine Matthews 是 Erudite 的领袖兼议会代表；按父亲说法，Erudite 的敌意从她到 advisory board 再 trickle downhill 到全派",
+  "Evelyn Eaton 是 Marcus Eaton 的 dead wife：她死后新闻反复播那张全家福（Marcus、她、约 ten or eleven years old 的儿子），Marcus 还把骨灰倒进湿泥",
+  "深蓝眼睛的 Dauntless 少年救了她，她只记得 his eyes are a strange color—dark blue",
+  "Caleb 手臂被玻璃割伤仍说 I’m fine；Robert 是与她同住的 Abnegation 男孩（ch05 晚饭四盘之一）",
+  "Abnegation 的人不肯先走，仍在门边 ushering people out of the building，即 refuse to save themselves"
+ ],
+ "numbers": [
+  "There are ninety of us, a smaller class than usual（90 人待选）",
+  "only twelve from Abnegation（12 人来自 Abnegation）",
+  "born two minutes later（她排在晚两分钟出生的 Caleb 之后）",
+  "then ten or eleven years old（全家福里 Eaton 家儿子的年纪）",
+  "just a few feet away from me（尸体落点与她相距几英尺）"
+ ]
+}

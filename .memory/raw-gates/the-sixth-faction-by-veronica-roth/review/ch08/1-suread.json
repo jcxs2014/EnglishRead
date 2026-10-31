@@ -1,0 +1,103 @@
+{
+ "chapter": 8,
+ "pov": "Beatrice（第一人称）",
+ "facts": [
+  {
+   "event": "Marcus 向新入会者致意，宣布今年没有任何转派者加入 Abnegation，因此不必等他们到齐；Beatrice 瞥见身旁的 Mary，心想 Abnegation 何曾有过转派者。",
+   "who": "Marcus Eaton",
+   "receivers": [
+    "八名 Abnegation 新入会者"
+   ],
+   "start": 1268,
+   "end": 1512,
+   "text": "“Welcome, new initiates,” he says. “I’ve been told there are no transfers to Abnegation this year, so we don’t have to wait for them to begin.”\n\n\n\n\nI glance at Mary, who’s standing on my left. Abnegation never gets a lot of transfers, but none?"
+  },
+  {
+   "event": "他让众人围跪在圆形石桌边，石头磨着她的膝盖；身旁是近得能听见呼吸的 Susan——全场只有八名新入会者。",
+   "who": "Marcus Eaton",
+   "receivers": [
+    "Beatrice Prior",
+    "Susan Black"
+   ],
+   "start": 2749,
+   "end": 3021,
+   "text": "Marcus directs us to kneel around the edge of it, and I do, so close the stone scrapes my kneecaps through my trousers. Beside me, near enough for me to hear her breaths, is Susan. There are only eight of us, total.\n\n\n\nI realize, then, that I know what this place must be."
+  },
+  {
+   "event": "Marcus 说明 Memory Vault 神圣、藏有全城各派所有人的历史，维护之责只由一人承担（他拍胸示意）。",
+   "who": "Marcus Eaton",
+   "receivers": [
+    "八名新入会者"
+   ],
+   "start": 3399,
+   "end": 3739,
+   "text": "“The Memory Vault is sacred. It contains the history of our city and our people—all our people, across all factions. As such, the responsibility of maintaining it resides with just one person.” He taps his chest to indicate himself. “Accessing the Memory Vault after this point is forbidden to all except those summoned to make an offering."
+  },
+  {
+   "event": "手贴石面后，她的意识被拉回 aptitude test 的小房间：Tori 坐在电脑后盯着她，开口说「Well, that was . . . perplexing. Excuse me」",
+   "who": "Beatrice Prior",
+   "receivers": [
+    "Memory Vault（记忆被录入）"
+   ],
+   "start": 4189,
+   "end": 4467,
+   "text": "I’m in the small room where I took my aptitude test. Sitting in the padded chair. Beside me, the Dauntless woman, Tori, sits at the small table behind the computer, drumming her fingers on her legs as she stares at me.\n\n\n\n\n“Well, that was . . . perplexing. Excuse me,” she says."
+  },
+  {
+   "event": "Tori 没有说出那句会定她罪的话；场景碎裂——Tori 消散、黑暗覆身、顶灯化成月亮，换成她家楼顶的夜色：她穿着睡裙站在边缘，靴带未系。",
+   "who": "Beatrice Prior",
+   "receivers": [
+    "Memory Vault（记忆被录入）"
+   ],
+   "start": 5617,
+   "end": 5946,
+   "text": "But she doesn’t say it.\n\n\n\nInstead, the scene around me changes. Tori disintegrates. Darkness drapes over my body like a blanket. The overhead light turns into the moon.\n\n\n\n\nIn Tori’s place is a dark cityscape, the view from the roof of my family’s apartment building. I’m standing near the edge in my nightgown, my boots untied."
+  },
+  {
+   "event": "她回到 vault，Marcus Eaton 的目光落在她身上，随即皱起眉，像被她弄糊涂了；其他人陆续浮出水面，随后全体走向宴会厅。",
+   "who": "Marcus Eaton",
+   "receivers": [
+    "Beatrice Prior"
+   ],
+   "start": 6188,
+   "end": 6389,
+   "text": "Marcus Eaton’s eyes find mine, and then his brow furrows, like I’ve confused him.\n\n\n\n\nThe others surface one by one. When everyone else is finished, we all walk across the building to the banquet hall."
+  },
+  {
+   "event": "宴会厅里，母亲为她放上盘子、父亲摆好刀叉勺，邻里与朋友一样样上前添菜——热面包、煮熟的谷物、慢炖的蔬菜……",
+   "who": "Abnegation 的家人与邻里",
+   "receivers": [
+    "八名新入会者"
+   ],
+   "start": 6780,
+   "end": 7113,
+   "text": "Then my mother sets a plate in front of me, and my father sets down a fork, a knife, a spoon. Other people—friends, neighbors, people I’ve seen on the street—keep stepping forward with things: a slice of warm bread. A heap of cooked grains. A scoop of slow-roasted vegetables, soft and smoky. A drizzle of dark sauce—a rare addition."
+  },
+  {
+   "event": "有人起唱，第二个声部加入，其他声音再叠上来；第二首歌在第一首之下穿行、补满它的停顿，最后像手指交扣又松开那样缠在一起。",
+   "who": "Abnegation 众人（合唱）",
+   "receivers": [
+    "Beatrice Prior",
+    "八名新入会者"
+   ],
+   "start": 7692,
+   "end": 7953,
+   "text": "One voice starts the round, and another joins in, in harmony with the first. Other voices add to the song, and then another song starts beneath the first one, filling in all its pauses and then twisting together with it, like hands clasping and then unclasping."
+  }
+ ],
+ "relations": [
+  "Beatrice Prior — Marcus Eaton：仪式主持者兼 Memory Vault 的唯一守护者；他察觉她这段记忆不对劲，皱眉看她。",
+  "Beatrice Prior — Tori：aptitude test 的监试者；她的记忆在 vault 里被重放，Beatrice 最怕她说出「Divergent」。",
+  "Beatrice Prior — Susan Black：并肩跪在石桌旁，近到能听见彼此的呼吸；两人同属这八名新入会者。",
+  "Beatrice Prior — 父母（Andrew / Natalie Prior）：宴会上母亲放盘子、父亲摆餐具，两人都在侍奉之列。",
+  "邻里与朋友 — 新入会者：逐样上菜、围看、合唱，让新入会者练习接受他人的服务（受而不取）。"
+ ],
+ "numbers": [
+  "There are only eight of us, total.（今年 Abnegation 新入会者共八人）",
+  "the month of service（明天开始、为期一个月的入会服务期）",
+  "the five girls on one side and the three boys on the other（长桌两侧的分配）",
+  "a ring of dim light（vault 顶上的环形暗光）",
+  "two songs（两首歌同时进行、互相补位）",
+  "there are no transfers to Abnegation this year（今年零转派者）"
+ ]
+}

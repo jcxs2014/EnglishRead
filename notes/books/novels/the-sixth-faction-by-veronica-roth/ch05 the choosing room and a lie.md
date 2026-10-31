@@ -17,9 +17,9 @@ modified: "2026-10-31"
 
 > **原句 1:** "Uriah is all ease. It’s in the way he smiles, like that’s just how his mouth wants to move. … And the way he talks, too, telling me about his older brother, Zeke, who’s a Dauntless wall guard—a prestigious position among the Dauntless—and what his friend Marlene said on the train that morning that made everyone double over in laughter."
 
-**中文理解**：Uriah 整个人是松的：笑的样子像那张嘴自己想那么动，走路像没地方要去。他一路讲他哥 Zeke——Dauntless 的墙卫，在这一派里算体面的职位——还讲朋友 Marlene 早上在火车上说了什么，让一车人笑得直不起腰。
+**中文理解**：Uriah 整个人是松的：笑的样子像那张嘴自己想那么动。他一路讲他哥 Zeke——Dauntless 的墙卫，在这一派里算体面的职位——还讲朋友 Marlene 早上在火车上说了什么，让一车人笑得直不起腰。
 **关键词**：all ease, how his mouth wants to move, wall guard, double over in laughter
-**为什么这样写**：三个「the way」把「松」拆给脸和嘴，没有一句形容心情，全靠动作外形。作者接着让这些动作带出他的社会关系：哥哥有职位、朋友会说笑话——Uriah 的从容不是性格标签，是他从小活在一个不用收着的地方。句子用逗号一路并列下去，读起来也松。
+**为什么这样写**：两个「the way」把「松」拆给笑的形状和说话的调子，没有一句形容心情，全靠动作外形。作者接着让这些动作带出他的社会关系：哥哥有职位、朋友会说笑话——Uriah 的从容不是性格标签，是他从小活在一个不用收着的地方。句子用逗号一路并列下去，读起来也松。
 **读者视角提示**：她看的是别人怎么活。这一段的每个细节都是她在心里记下的样子，不是她拥有的样子。
 
 > **原句 2:** "It must be a factionless haunt; sometimes they live in unoccupied buildings outside their sector. As far as I know, no one has taken a census of the factionless population. My mother’s last estimate was two hundred, based on the ones who come to the donation centers and the ones who agree to work for the city, … in exchange for whatever provisions they need."
