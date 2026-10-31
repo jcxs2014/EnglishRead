@@ -1,0 +1,95 @@
+{
+ "chapter": 43,
+ "text": "text/ch43_chapter_forty_three_tilde.txt",
+ "chars": 15666,
+ "facts": [
+  {
+   "id": 1,
+   "event": "奥顿（内夫卡将军）坐进蒂尔德的房间，死死盯着她，逼问她和侍女刚才在低声嘀咕什么。",
+   "relation": "敌国将军／监视者 ↔ 被囚的年轻王后（人质关系，互相试探）",
+   "numbers": "",
+   "interval": [
+    460,
+    556
+   ],
+   "anchor": "Now he sat before me, and fixed me with a stare, as if I were a knot he wanted to slice through."
+  },
+  {
+   "id": 2,
+   "event": "奥顿自报六十三岁，抱怨自己一生替王子们收拾烂摊子、给他们找仗打找女人睡，结果反把他们养得软弱。",
+   "relation": "老将 ↔ 他一手带大的王子们（家长式管束者）",
+   "numbers": "Sixty-three years",
+   "interval": [
+    3756,
+    3841
+   ],
+   "anchor": "‘Sixty-three years I have walked this earth,’ said Odon, looking down his nose at me."
+  },
+  {
+   "id": 3,
+   "event": "奥顿当面给蒂尔德划下禁令：不许走进树林、不许碰树、不许看树，老老实实待在房里为国王生下健壮的王子。",
+   "relation": "将军 ↔ 王后（施压者 ↔ 被限制行动者）",
+   "numbers": "",
+   "interval": [
+    4720,
+    4805
+   ],
+   "anchor": "‘You will not walk in the trees, you will not touch them, you will not look at them.’"
+  },
+  {
+   "id": 4,
+   "event": "蒂尔德反唇相讥，说自己刚从五天病榻上醒来就被威胁辱骂，并强调自己是王后、不是任人呵斥的侍女。",
+   "relation": "王后 ↔ 将军（位阶之争）",
+   "numbers": "five days",
+   "interval": [
+    6188,
+    6239
+   ],
+   "anchor": "when I have barely woken from five days in sickbed?"
+  },
+  {
+   "id": 5,
+   "event": "奥顿一把抓住她受伤的手臂把她从座位上拖起，佩林拔剑指向他，奥顿反手抽出匕首抵住蒂尔德的喉咙。",
+   "relation": "佩林（护卫）护主 ↔ 奥顿持刀相胁；蒂尔德被夹在两人之间",
+   "numbers": "",
+   "interval": [
+    6675,
+    6771
+   ],
+   "anchor": "He grabbed my wounded arm and dragged me from my seat. Perin drew his sword, levelling it at him"
+  },
+  {
+   "id": 6,
+   "event": "奥顿把她拖进王宫深处一座封闭的庭院——昔日狐族葬王的圣陵，讲一个拒税毁巢的塔恩全族被铁栏封在坟中活埋，围城仅两周、埋了两天之后还听得见惨叫。",
+   "relation": "征服者 ↔ 被征服的塔恩（以灭族故事恐吓王后）",
+   "numbers": "two weeks / Two more days",
+   "interval": [
+    10227,
+    10302
+   ],
+   "anchor": "The siege barely lasted two weeks, for his guards knew god was on our side."
+  },
+  {
+   "id": 7,
+   "event": "蒂尔德当面揭穿自己怀着国王的孩子，并指出其他“天鹅”觊觎父亲的王位、老王毒杀了他们的母亲，把恐惧反种回奥顿心里，奥顿松手退开。",
+   "relation": "王后 ↔ 国王最信任的老将（从此转为互相忌惮的共谋）",
+   "numbers": "",
+   "interval": [
+    12047,
+    12160
+   ],
+   "anchor": "‘You are a weak man, losing your grip on power, and so you shake and degrade a woman carrying your king’s child?’"
+  },
+  {
+   "id": 8,
+   "event": "奥顿走后，蒂尔德伏在绿栏边把手指插进枝土，听见被砍尽的林木亡魂在脚下歌唱，悟出不必进森林也能取用森林之力。",
+   "relation": "蒂尔德 ↔ 被毁的圣林（力量的来源）",
+   "numbers": "",
+   "interval": [
+    15582,
+    15634
+   ],
+   "anchor": "I did not need to enter the wood to reach its power."
+  }
+ ]
+}

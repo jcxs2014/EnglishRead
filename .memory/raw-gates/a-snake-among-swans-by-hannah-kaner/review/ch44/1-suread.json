@@ -1,0 +1,95 @@
+{
+ "chapter": 44,
+ "text": "text/ch44_chapter_forty_four_tilde.txt",
+ "chars": 12774,
+ "facts": [
+  {
+   "id": 1,
+   "event": "蒂尔德备下好酒与东式油灯，穿上国王本要她成婚时穿的伊莎贝拉那身丝绸礼服，在冷得发抖的虚弱中走到国王寝宫门前。",
+   "relation": "蒂尔德—利兰（王后对国王）",
+   "numbers": "",
+   "interval": [
+    212,
+    269
+   ],
+   "anchor": "I wore the dress that he had intended me to be married in"
+  },
+  {
+   "id": 2,
+   "event": "三名衣衫不整、头发未编的女子从国王房里出来向蒂尔德行礼，王子阿拉尔随后跟出、为她受到的失礼道歉，并说此刻把「发言的地板」让给她。",
+   "relation": "阿拉尔—利兰（王子与父王争权）；阿拉尔—蒂尔德（互相利用的暧昧与猜忌）",
+   "numbers": "Three women",
+   "interval": [
+    1906,
+    1932
+   ],
+   "anchor": "You have the floor for now"
+  },
+  {
+   "id": 3,
+   "event": "利兰把她误认作伊莎贝拉，她跪下纠正：伊莎贝拉已经死了，她是新王后蒂尔德。",
+   "relation": "利兰—伊莎贝拉（已死的旧王后）；利兰—蒂尔德（顶替者与被顶替者）",
+   "numbers": "",
+   "interval": [
+    4052,
+    4116
+   ],
+   "anchor": "‘Isabella died,’ I said carefully as the guards closed the door."
+  },
+  {
+   "id": 4,
+   "event": "蒂尔德谎称自己终于怀上了「天鹅的孩子」，利兰神色立刻软化，伸手按她胸口验证，又 thanking the Wing（感谢双翼）。",
+   "relation": "蒂尔德—利兰（以假孕换取庇护与信任）",
+   "numbers": "",
+   "interval": [
+    6037,
+    6070
+   ],
+   "anchor": "pregnant with a child of the swan"
+  },
+  {
+   "id": 5,
+   "event": "利兰桌上摊着作战图，写着军队数目、马匹、牛只，还有引水渠与环港城墙；从形状看那座港口是哈迪亚之兄据守的斯科尔达。",
+   "relation": "利兰—哈迪亚家族（觊觎斯科尔达港）；利兰—辛格尔人（怕其反叛）",
+   "numbers": "army numbers, horses, cattle",
+   "interval": [
+    3459,
+    3514
+   ],
+   "anchor": "with army numbers, horses, cattle, and other structures"
+  },
+  {
+   "id": 6,
+   "event": "利兰把他六年前那场叛乱当成正在进行的事来讲：已有一个格韦兰人被完全驯服，将作为「草中之蛇」混进东部王会。",
+   "relation": "利兰—梅罗文（被驯服的叛方公爵，蒂尔德仍无法原谅却要倚靠的人）",
+   "numbers": "six years ago",
+   "interval": [
+    7631,
+    7677
+   ],
+   "anchor": "he was speaking of the rebellion six years ago"
+  },
+  {
+   "id": 7,
+   "event": "利兰逼她先饮，她不喝，他便一手扳住她后脑把杯子硬塞进她嘴里，酒泼在裙上、磕破她的下唇。",
+   "relation": "利兰—蒂尔德（施暴者与受试者）",
+   "numbers": "",
+   "interval": [
+    9221,
+    9289
+   ],
+   "anchor": "shoving the cup hard into my mouth and splashing wine over my tongue"
+  },
+  {
+   "id": 8,
+   "event": "蒂尔德心中点明真相：威力不在酒里而在烟里——她的血混入香中，所以利兰必须服从的其实是她的声音；旁人只会当作他年老昏聩。",
+   "relation": "蒂尔德—利兰（以血与香控制国王的心智）",
+   "numbers": "",
+   "interval": [
+    11716,
+    11771
+   ],
+   "anchor": "For the glory was not in the wine: it was in the smoke."
+  }
+ ]
+}
