@@ -92,14 +92,21 @@ modified: "2026-10-31"
 **为什么这样写**：先给比例——最高的男人、瘦成一根栏杆——再给颜色。the same shade 强调「同一种」：在一座讲分类的城市里，把全身穿成一个颜色本身就是表态。muted gold flowers 又把刺绣压低，跟他夸张的身高对着来：他不响，可没法不看。
 **读者视角提示**：这是本章第一个不以「失败者」身份出场的人。她打量他的方式和打量 Rory 一样，还是先看衣服。
 
-> **原句 12:** "The systems that the factions have put in place to control or monitor behavior fail against the Divergent. How can Abnegation ensure that whatever information they don’t want to get out is secure if they can’t erase memories? How can the Candor resolve a dispute if they can’t determine with absolute certainty who’s telling the truth and who isn’t?"
+> **原句 12:** "But I know exactly how the Mender’s mother “tricked” the truth serum. The same way I stopped the Memory Vault from erasing my memories. The same way I confounded the aptitude test."
+
+**中文理解**：可她知道 Mender 的母亲是怎么「骗过」真话血清的：跟她自己拦下记忆库抹除时是同一手，跟她骗过倾向测试时也是同一手。
+**关键词**：exactly how / tricked the truth serum / stopped the Memory Vault / erasing my memories / confounded the aptitude test
+**为什么这样写**：Mae 只说了「她骗过了血清」，Mender 只说「我们也不知道怎么做到的」，两句都停在现象上。这一段用三个 the same way 把现象接回她自己身上——不是推理，是认亲：她认得出那种手法，因为她用过。三个短句的重量全在顺序上，先说血清（别人的事），再说记忆库（她做过的），最后说倾向测试（她骗过的）。
+**读者视角提示**：她一句都没有替对方高兴。认出一个同类的同时，她也把自己归进了「会让系统失灵」的那一类人。
+
+> **原句 13:** "The systems that the factions have put in place to control or monitor behavior fail against the Divergent. How can Abnegation ensure that whatever information they don’t want to get out is secure if they can’t erase memories? How can the Candor resolve a dispute if they can’t determine with absolute certainty who’s telling the truth and who isn’t?"
 
 **中文理解**：五个派系为了控制或监视行为所建的制度，在 Divergent 面前都会失灵。Abnegation 若抹不掉记忆，怎么保证不想外泄的东西是安全的？Candor 若不能确定谁在说真话，又怎么断案？
 **关键词**：control or monitor behavior / fail against the Divergent / can’t erase memories / who’s telling the truth
 **为什么这样写**：前一句是断言，后两句用同一个 How can 起头，把这个断言拆成两处具体的失灵：记忆与真话。作者让她用提问代替结论——她没有宣布自己是什么，只在算这套系统的漏洞在哪儿。fail against 是唯一一次点名对象。
 **读者视角提示**：她问的是制度，答的却是自己。那种骗法她认得：她自己拦下过记忆库的抹除，也骗过了倾向测试；骗过真话血清的是 Mender 的母亲。
 
-> **原句 13:** "At least now I know who I need to talk to. The gun that fired at the Choosing Ceremony was stolen from the wall, and this is a guild of factionless thieves. Maybe one of them knows who killed Robert and why—and what it’s supposed to lead to."
+> **原句 14:** "At least now I know who I need to talk to. The gun that fired at the Choosing Ceremony was stolen from the wall, and this is a guild of factionless thieves. Maybe one of them knows who killed Robert and why—and what it’s supposed to lead to."
 
 **中文理解**：至少现在她知道该找谁谈了。选择仪式上开的那一枪，枪是从墙上偷走的；而这正是一伙无派系者小偷的公会。也许他们中有人知道是谁杀了 Robert、为什么杀，以及这件事该通向哪里。
 **关键词**：who I need to talk to / stolen from the wall / a guild of factionless thieves / who killed Robert

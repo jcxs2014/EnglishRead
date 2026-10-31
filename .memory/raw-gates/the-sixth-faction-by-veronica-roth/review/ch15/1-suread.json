@@ -1,0 +1,115 @@
+{
+  "chapter": 15,
+  "pov": "Tris（第一人称“I”，过去时叙述）",
+  "facts": [
+    {
+      "event": "在废弃教堂熬过冷汤长椅的一夜后，日出前 Evelyn 对 Tris 说“你现在回去也没人知道”，Tris 想到昨天打定的主意和留给母亲的字条，答“No”，理由是“I need answers”。",
+      "who": "Evelyn / Tris",
+      "receivers": [
+        "Tris",
+        "Evelyn"
+      ],
+      "start": 2583,
+      "end": 2730,
+      "text": "But then I think about the hard knot of purpose that I tied within myself yesterday, when I decided to leave. My note to my mother. I need answers."
+    },
+    {
+      "event": "Evelyn 边走边讲：城里 factionless 分两种，一种蹲空楼、排队领水和救济；六年前几个人决定不再那样活，在五个派系眼皮底下另建一套秩序。",
+      "who": "Evelyn",
+      "receivers": [
+        "Tris"
+      ],
+      "start": 4056,
+      "end": 4258,
+      "text": "“But there’s another kind,” she says. “Six years ago, a few of us decided we didn’t have to live that way. We came together, and started building something better, right under the five factions’ noses.”"
+    },
+    {
+      "event": "Evelyn 领她进红砖矮楼 the Rookery，并交代城中共三处安全屋：Rookery、Museum、Conservatory，新来的“stray”先住 Rookery 直到定下自己的行当（trade）。",
+      "who": "Evelyn",
+      "receivers": [
+        "Tris"
+      ],
+      "start": 4568,
+      "end": 4676,
+      "text": "“We have three safe houses in the city: one is the Rookery, one is the Museum, and one is the Conservatory.”"
+    },
+    {
+      "event": "穿过破败门厅后是金饰、彩窗、大理石阶梯的中庭；Evelyn 承认昨夜“冷汤加硬长椅”是她故意用来试探 Tris 是否真心投靠。",
+      "who": "Evelyn",
+      "receivers": [
+        "Tris"
+      ],
+      "start": 6064,
+      "end": 6173,
+      "text": "“I’m sorry for the ‘cold soup and a hard bench’ routine. I needed to make sure you were committed,” she says."
+    },
+    {
+      "event": "Evelyn 把 Tris 交给几周前从 Amity 来的 Rory 带路；Rory 讲行会（Healers 医、Travelers 开火车、Makers 手艺、Foxes 机敏）与三条规矩——别被抓、要有用、无派系——Tris 由此意识到自己站在一个把“无派系”当信条的第六个派系总部。",
+      "who": "Evelyn / Rory",
+      "receivers": [
+        "Tris"
+      ],
+      "start": 10380,
+      "end": 10559,
+      "text": "I nod, but what I’m really thinking is that I’m standing in a faction headquarters—a sixth faction, hidden from the others, and the virtue it wraps itself around is “no factions.”"
+    },
+    {
+      "event": "在 Mender 的作坊（满墙衣架、脚踏缝纫机），Tris 背着人脱下 Abnegation 灰外套换上 Dauntless 黑夹克，又拔掉发针散开头发。",
+      "who": "Tris / the Mender",
+      "receivers": [
+        "Tris",
+        "Mender",
+        "Mae"
+      ],
+      "start": 14743,
+      "end": 14992,
+      "text": "With a glance over my shoulder to make sure they aren’t watching, I shrug off my Abnegation jacket and pull the black one on. It’s a sturdy material, with a zipper instead of buttons. The sleeves are too long for me, but the rest of it seems to fit."
+    },
+    {
+      "event": "Mender 叫来 Gretchen，让 Tris 依次扮 Erudite、Dauntless 让她猜出身；Gretchen 凭灰鞋先猜 Abnegation，最后说“我们会盯着她”，Mender 承认自己专门向行会推荐“看不出出身”的人。",
+      "who": "the Mender / Gretchen / Tris",
+      "receivers": [
+        "Tris",
+        "Gretchen",
+        "Mae"
+      ],
+      "start": 18832,
+      "end": 18974,
+      "text": "“Some people only look like where they came from, and some people don’t. When I see the ones who don’t, I tell someone. It’s not a big thing.”"
+    },
+    {
+      "event": "早餐时 Rory 把 Tris 介绍给 Colin（Erudite 出身、选 Dauntless 却因腿抽筋没跳上火车）、Cassandra、Miles；Foxes 行会从 Amity 劫粮归来分发赃物，Tris 认定这就是她要找的贼帮——典礼上那枪是从墙上偷的，她要问出谁杀了 Robert、为了什么。",
+      "who": "Rory / Colin / Foxes",
+      "receivers": [
+        "Tris",
+        "Colin",
+        "Cassandra",
+        "Miles"
+      ],
+      "start": 30588,
+      "end": 30829,
+      "text": "At least now I know who I need to talk to. The gun that fired at the Choosing Ceremony was stolen from the wall, and this is a guild of factionless thieves. Maybe one of them knows who killed Robert and why—and what it’s supposed to lead to."
+    }
+  ],
+  "relations": [
+    "Evelyn 是 factionless 组织者之一，亲自带 Tris 进 Rookery、用一夜苦头试探她的决心；Tris 忘不掉 Evelyn 在 Choosing Ceremony 后持枪指着她。",
+    "Rory 是几周前从 Amity 来的 stray，被指派带 Tris 熟悉环境；她因打架且拒绝“break bread”道歉被 Amity 逐出，一心想进 Foxes。",
+    "the Mender 是 Rookery 的裁缝/改衣师（Candor 出身，与妹妹 Mae 同来），个子极高、全身深李子色衣饰、每指一枚金戒；他提出收 Tris 当学徒。",
+    "Mae 是 Mender 的妹妹，在作坊读书；她说母亲当年骗过了 Candor 的 truth serum，Tris 由此判断其母是 Divergent。",
+    "Gretchen 是行会方面的招募眼线，被 Mender 请来“猜派系”，对 Tris 的评价是“We’ll keep an eye on her”。",
+    "Colin 是红发男孩，Erudite 出身、选 Dauntless，因腿抽筋没跳上火车而流落到此；Cassandra 因太内敛过不了 Candor 的 full disclosure；Miles 是解不出第一道谜题的 Erudite。",
+    "Jove 是 Rookery 的负责人（leader），Tris 只见其分发米袋；Evelyn 与 Foxes 一同出现。",
+    "Tris 的母亲 Natalie 给她准备了装罐头的包，并承诺 factionless 的生活“比她想的好”；Tris 留了字条离家，Robert 在 Choosing Ceremony 上被枪杀，Tori 曾告诉她 Divergent 会“destabilize”体制。"
+  ],
+  "numbers": [
+    "We have three safe houses in the city（三处安全屋：Rookery / Museum / Conservatory）",
+    "Six years ago（六年前开始自建组织）",
+    "There are only three（规矩只有三条）",
+    "groups larger than five（factionless 聚集不得超过五人，哨兵称之为“crowding”）",
+    "we’re not allowed in there for another twenty minutes（Foxes 晨会还要二十分钟）",
+    "She came here from Amity a few weeks ago（Rory 几周前从 Amity 来）",
+    "I’ve been letting you not finish your book for at least five minutes now（Mender 至少五分钟没催 Mae 读书）",
+    "They kick you out for one fight（Amity 一次打架就逐人）",
+    "the end of the day（Mae 当天要读完那本书）"
+  ]
+}
