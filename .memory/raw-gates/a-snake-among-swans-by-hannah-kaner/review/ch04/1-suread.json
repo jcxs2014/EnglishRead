@@ -1,0 +1,95 @@
+{
+ "chapter": 4,
+ "text": "text/ch04_chapter_four_elise.txt",
+ "chars": 22234,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Elise 随兄长 Isen 离开新塔、走向内堡，宫苑因夏季节庆而人马来往繁忙。",
+   "relation": "兄妹：Elise 与 Isen（黑王子）",
+   "numbers": "",
+   "interval": [
+    70,
+    126
+   ],
+   "anchor": "following Isen out of the new towers and toward the keep"
+  },
+  {
+   "id": 2,
+   "event": "国王 Liran 在跑马绿地检视商人献上的鹰，旁人一提婚礼，Elise 便心惊，Isen 却避开她的目光。",
+   "relation": "父女：Elise 与国王 Liran；兄妹：Elise 与 Isen",
+   "numbers": "",
+   "interval": [
+    1115,
+    1194
+   ],
+   "anchor": "considering a hawk that had been placed on his arm by an eager-looking merchant"
+  },
+  {
+   "id": 3,
+   "event": "High Priest Dagobert 以服丧未满一年为由反对国王再娶，Liran 冷回决定已定、婚约已签、新娘已在路上。",
+   "relation": "君臣/政教：Liran 与 High Priest Dagobert",
+   "numbers": "It has not been a year; She is already on her way",
+   "interval": [
+    4158,
+    4180
+   ],
+   "anchor": "It has not been a year"
+  },
+  {
+   "id": 4,
+   "event": "Elise 终于明白父亲要再娶，且这回娶的是 Merogia 的异教徒。",
+   "relation": "父女：Elise 与 Liran",
+   "numbers": "",
+   "interval": [
+    7192,
+    7226
+   ],
+   "anchor": "her father intended to marry again"
+  },
+  {
+   "id": 5,
+   "event": "Isen 拒绝 Synod 的圣战征召，并讥讽弟弟 Conrin 从未打过一场不是为他摆好的仗。",
+   "relation": "兄弟：Isen 与 Conrin；王权与教会：Isen 与 Synod",
+   "numbers": "",
+   "interval": [
+    8048,
+    8128
+   ],
+   "anchor": "he has yet to fight in any battle that has not been staged for his entertainment"
+  },
+  {
+   "id": 6,
+   "event": "Liran 命 Elise 充任 Ardweni 新后的陪伴与宫廷向导，她压下出家之愿，仍答“Yes Father”。",
+   "relation": "父女：Liran 与 Elise；未来的君臣：Elise 与 Ardweni 新后",
+   "numbers": "eight years since he had deigned to give her more than a breath of his time",
+   "interval": [
+    10064,
+    10127
+   ],
+   "anchor": "Elise will ensure the Ardweni woman knows the ways of the court"
+  },
+  {
+   "id": 7,
+   "event": "Isen 安抚她这差事只到新后怀孕安顿为止，并道出实情：Synod 出资东征，Merogia 若不平定国库将被拖垮。",
+   "relation": "兄妹：Isen 与 Elise；王权与教会：Synod 与王室",
+   "numbers": "a few months; five of the Merogian kingdoms",
+   "interval": [
+    17002,
+    17034
+   ],
+   "anchor": "It will only be for a few months"
+  },
+  {
+   "id": 8,
+   "event": "入夜后 Elise 在房中不加纺织，反把骨梭尖按进掌心新伤，末尾梦见自己能听见树木说话。",
+   "relation": "自我/信仰：Elise 与 Wing 的信条",
+   "numbers": "",
+   "interval": [
+    22190,
+    22232
+   ],
+   "anchor": "she dreamed she could hear the trees speak"
+  }
+ ]
+}
