@@ -126,7 +126,7 @@ modified: "2026-10-31"
 
 **中文理解**：Drew 甚至几乎承认了他关于「什么构成文明」的想法可能是错的。「奇怪的地方，」每当遇到不符合他科技预期的某人或某事时，他就会这么说。但现在，他说这话时是笑着的。一天夜里，Tony 和我摊在草地上，妈妈和 Drew 坐在折叠椅里，我们只是望着夜空，希望能看到一颗彗星。「奇怪的地方，」Drew 又说了一遍。「奇怪，但安宁。」
 
-**关键词**：makes for “civilization” / techie expectations / watching nothing but the night sky / Strange, but peaceful
+**关键词**：makes for “civilization” / techie expectations / watch nothing but the night sky / Strange, but peaceful
 
 **为什么这样写**：Drew 的转变是全家融入的标尺——同一个词「奇怪」，从戒备变成了欣赏；「看夜空等彗星」是这家人第一次不靠 GPS、不靠计划，只是待在一起。
 

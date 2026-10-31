@@ -102,7 +102,7 @@ modified: "2026-10-31"
 
 **中文理解**：第二天，我正坐在轮胎秋千上，Simonson 兄弟来了，把独木舟还了回来。「告诉 Russell，没人想要这条破旧的小船，」他们笑着说。这一部分是奶奶没想到的。我知道，因为她剥玉米时不停地用袖子擦眼睛。
 
-**关键词**：returned the canoe / ratty old jiimaan / surprised to Grandma / brushing her sleeve over her eyes
+**关键词**：returned the canoe / ratty old jiimaan / surprise to Grandma / brushing her sleeve over her eyes
 
 **为什么这样写**：Simonson 兄弟用「没人要这条破船」的玩笑把独木舟还回来——村里人用体面的方式拒绝接受 Uncle 的牺牲；奶奶擦眼睛的动作暴露了她的感动。
 
