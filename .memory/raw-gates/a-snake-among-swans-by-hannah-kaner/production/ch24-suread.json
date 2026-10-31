@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch24",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch24_chapter_twenty_four_tilde.txt",
+ "facts": [
+  {
+   "fact": "黎明时分，Tilde 在女营的炊火旁醒来着衣，天未亮、号角未响，她与 Hadiah、吟游诗人 Miras 在帐中说话。",
+   "anchor": "dawn rose chill in the eastern mountains",
+   "start": 55,
+   "end": 95
+  },
+  {
+   "fact": "她清点自己这边的盟友：两个女人、两个契约仆、一个花钱雇来的男人，承认自己这一方单薄。",
+   "anchor": "two indentured serfs and a paid man",
+   "start": 535,
+   "end": 570
+  },
+  {
+   "fact": "王命只许她带一名女子同行，另一名留在营中受看守；Hadiah 自愿留下，好让 Marolyn 随行，以防叛军翻脸。",
+   "anchor": "The order was that I could bring one woman with me",
+   "start": 1182,
+   "end": 1232
+  },
+  {
+   "fact": "她在距活体魔墙一箭之遥处与 Liran 交涉；Liran 说若「Wing」给出机会他就会动手，并许诺给她王后的葬礼。",
+   "anchor": "We were a crossbow bolt’s flight away from the wall of living magic",
+   "start": 2851,
+   "end": 2918
+  },
+  {
+   "fact": "走近荆棘墙时，她告诉 Marolyn 墙里只有一个声音，反复念着「Stop the tide」等短句；这是她第一次从林中感到「意图」。",
+   "anchor": "There’s only one voice.",
+   "start": 8441,
+   "end": 8464
+  },
+  {
+   "fact": "她喊话后荆棘并未分开，墙上的人丢下藤绳，把她和 Marolyn 吊上城垛。",
+   "anchor": "I had expected the thorns to part",
+   "start": 11598,
+   "end": 11631
+  },
+  {
+   "fact": "墙上的银发女子这样称呼她，并提及她们在 hannerast 上杀人的事。",
+   "anchor": "A murderer and a fallen king’s daughter",
+   "start": 13059,
+   "end": 13098
+  },
+  {
+   "fact": "那女子自报姓名 Guwetha，自称 Kanaan 出生、因 kith 关系属 Merogia、不得已而造反、又因某种奇怪的命运成为 druidim。",
+   "anchor": "Kanaan by birth, Merogia by kith ties",
+   "start": 14932,
+   "end": 14969
+  }
+ ]
+}
