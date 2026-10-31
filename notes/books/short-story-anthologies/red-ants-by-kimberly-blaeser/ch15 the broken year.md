@@ -62,7 +62,19 @@ modified: "2026-10-31"
 
 **表达方式**：mapped out 是工程式用语，与父亲「罢工者立场」的非理性选择形成张力。
 
-> **原句 5:** "THE SWEETENING OF her niggling dread had started oddly in a crucifixed building, but spread across the reservation woodlands, prairies, and lake landings. She was a god whore. She had entered fire circles, chapels, and sweat lodges. Made gifts to every little spirit in every little being she could find."
+> **原句 5:** "“Dammit to hell, Maddy. I can’t cross the picket line.”"
+
+**中文理解**：「该死，玛迪，我不能越过纠察线。」
+
+**关键词**：Dammit to hell / cross the picket line
+
+**为什么这样写**：全篇最短的一块，却是父亲的道德支点——一边是等着看专科医生的骨盆，一边是罢工者的警戒线，他用一句脏话宣告了立场；这句话让后文五个半小时的夜车有了重量。
+
+**句子结构**：两个短句、十个词——诅咒加拒绝，没有解释，也没有商量。
+
+**表达方式**：picket line 是工会斗争的圣线，cross（跨越）在工人语汇里等于背叛；他连自己的身体都可以交给女儿，却不交这条线。
+
+> **原句 6:** "THE SWEETENING OF her niggling dread had started oddly in a crucifixed building, but spread across the reservation woodlands, prairies, and lake landings. She was a god whore. She had entered fire circles, chapels, and sweat lodges. Made gifts to every little spirit in every little being she could find."
 
 **中文理解**：她那点挥之不去的恐惧的「变甜」，奇怪地始于一栋挂着十字架的建筑，然后蔓延到保留地的林地、草原和湖畔码头。她是个众神的情人。她进过火圈、小教堂和汗屋。向她能找到的每一个小小存在里的每一个小小精灵献上礼物。
 
@@ -74,7 +86,7 @@ modified: "2026-10-31"
 
 **表达方式**：god whore 是亵渎式的自嘲，与 crucifixed building 的并置制造宗教张力；little spirit / little being 的叠用是原住民万物有灵的语气。
 
-> **原句 6:** "They learned he was Father Adolph Reilly, retired and only filling in while the regular priest was on sabbatical. A sabbatical seemed strange in religion. Did you get to stop believing for a year? Try out evil or agnosticism? Put on some other robes?"
+> **原句 7:** "They learned he was Father Adolph Reilly, retired and only filling in while the regular priest was on sabbatical. A sabbatical seemed strange in religion. Did you get to stop believing for a year? Try out evil or agnosticism? Put on some other robes?"
 
 **中文理解**：他们得知他是 Adolph Reilly 神父——退休了，只是在常规神父休假期间临时补位。宗教里的「休假」听起来很奇怪。难道你可以停止相信一年？试试邪恶或不可知论？换一身袍子穿穿？
 
@@ -86,7 +98,7 @@ modified: "2026-10-31"
 
 **表达方式**：Try out evil or agnosticism 把「休假」的概念推到荒谬的极致；robes 是神父的圣袍。
 
-> **原句 7:** "At one service, her failure to fully participate turned her into spectacle. On Ash Wednesday, the service varied from regular days. She thought she was just pushing Dad up for communion, but it was to receive ashes. For both of them to receive ashes. She fumbled her part in the simple ritual badly and caused graceful Father Reilly to spill ashes. She ended up marked on her forehead, her nose, her chin, and her chest."
+> **原句 8:** "At one service, her failure to fully participate turned her into spectacle. On Ash Wednesday, the service varied from regular days. She thought she was just pushing Dad up for communion, but it was to receive ashes. For both of them to receive ashes. She fumbled her part in the simple ritual badly and caused graceful Father Reilly to spill ashes. She ended up marked on her forehead, her nose, her chin, and her chest."
 
 **中文理解**：在一次礼拜中，她没能完全跟上仪式，反倒成了众人的景观。圣灰星期三，礼拜与平日不同。她以为只是推父亲上去领圣餐，结果那是去领圣灰。他们两个都要领圣灰。她在简单的仪式里笨手笨脚，害得优雅的 Reilly 神父把圣灰洒了。结果她被点在额头、鼻子、下巴和胸口上。
 
@@ -98,7 +110,7 @@ modified: "2026-10-31"
 
 **表达方式**：receive ashes 是圣灰礼仪术语；marked 一词双关「被标记」，呼应她全年在两种信仰间被反复标记的状态。
 
-> **原句 8:** "They didn’t speak on the drive home. Her dad tried to put on a sober face, but by the time they reached the driveway, both of them were ready to burst. “Ashes to ashes, my foot,” she said. “It’s ashes to eyebrows, up your nostrils, in your teeth. God I must look a mess.”"
+> **原句 9:** "They didn’t speak on the drive home. Her dad tried to put on a sober face, but by the time they reached the driveway, both of them were ready to burst. “Ashes to ashes, my foot,” she said. “It’s ashes to eyebrows, up your nostrils, in your teeth. God I must look a mess.”"
 
 **中文理解**：回家的路上他们没说话。父亲努力板着脸，可车一开进自家车道，两个人都快憋爆了。「‘尘归尘土归土’才怪，」她说，「是灰到眉毛、钻进鼻孔、卡在牙缝。天哪，我看起来一定糟透了。」
 
@@ -110,7 +122,7 @@ modified: "2026-10-31"
 
 **表达方式**：my foot 是「才怪」的俚语；eyebrows / nostrils / teeth 的身体清单把仪式圣物喜剧化。
 
-> **原句 9:** "He broke their routine then. Stood, looked long at her as if he were angry, bent slightly, and kissed her, then repeated her words in a low voice, “Like all this.” He walked toward the sweat, not looking back."
+> **原句 10:** "He broke their routine then. Stood, looked long at her as if he were angry, bent slightly, and kissed her, then repeated her words in a low voice, “Like all this.” He walked toward the sweat, not looking back."
 
 **中文理解**：他随即打破了他们之间的惯例。站起来，久久地看着她，仿佛生了气，微微俯身，吻了她，然后低声重复她的话：「就像这一切。」他朝汗屋走去，没有回头。
 
@@ -122,7 +134,7 @@ modified: "2026-10-31"
 
 **表达方式**：as if he were angry 写被触动到近乎恼怒的深情；not looking back 是传统叙事里的离别姿势，留白即余韵。
 
-> **原句 10:** "She and Eileen had joined Chibenashi in writing a Rez Resistance newsletter. Her dad had offered to deliver it—by foot, in the special socks she had darned at least twice so far. She had grown neither growl nor fangs, but amid the cacophony of the year’s competing voices, Maddy had found her own. And she raised it—for family, for tribe, and yes, to every spirit being she could find."
+> **原句 11:** "She and Eileen had joined Chibenashi in writing a Rez Resistance newsletter. Her dad had offered to deliver it—by foot, in the special socks she had darned at least twice so far. She had grown neither growl nor fangs, but amid the cacophony of the year’s competing voices, Maddy had found her own. And she raised it—for family, for tribe, and yes, to every spirit being she could find."
 
 **中文理解**：她和 Eileen 加入了 Chibenashi，一起编写《保留地抵抗》通讯。她父亲主动提出由他投递——靠双脚，穿着她已经补过至少两次的特制袜子。她既没长出咆哮也没长出獠牙，但在这一年众声喧哗的杂音里，Maddy 找到了她自己的声音。而且她把它举了起来——为了家人，为了部落，也的的确确，为了她能找到的每一个精灵。
 
