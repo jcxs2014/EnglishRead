@@ -8,12 +8,12 @@
 | 文件号 | 原文章 | H1 | md 文件名 | 词数 | 建议块数 | 状态 |
 |---|---|---|---|---|---|---|
 | ch01 | 校方来信 | `# 01. Prologue` | `ch01 prologue.md` | 437 | 2–2（实写 4 ⚠️偏离） | ✅ commit 4bee6e4df |
-| ch02 | CHAPTER ONE | `# 02. Chapter One` | `ch02 chapter one.md` | 3206 | 6–12 | 派工中 |
-| ch03 | CHAPTER TWO | `# 03. Chapter Two` | `ch03 chapter two.md` | 3509 | 6–12 | 派工中 |
-| ch04 | CHAPTER THREE | `# 04. Chapter Three` | `ch04 chapter three.md` | 4032 | 6–12 | 派工中 |
-| ch05 | CHAPTER FOUR | `# 05. Chapter Four` | `ch05 chapter four.md` | 4053 | 6–12 | 待写 |
-| ch06 | CHAPTER FIVE | `# 06. Chapter Five` | `ch06 chapter five.md` | 5294 | 8–15 | 待写 |
-| ch07 | CHAPTER SIX | `# 07. Chapter Six` | `ch07 chapter six.md` | 4506 | 8–15 | 待写 |
+| ch02 | CHAPTER ONE | `# 02. Chapter One` | `ch02 chapter one.md` | 3206 | 6–10 | ✅ commit 574e942c6 |
+| ch03 | CHAPTER TWO | `# 03. Chapter Two` | `ch03 chapter two.md` | 3509 | 6–11 | ✅ commit 07809e0ef |
+| ch04 | CHAPTER THREE | `# 04. Chapter Three` | `ch04 chapter three.md` | 4032 | 7–13 | ✅ commit 07809e0ef |
+| ch05 | CHAPTER FOUR | `# 05. Chapter Four` | `ch05 chapter four.md` | 4053 | 6–12 | 派工中 |
+| ch06 | CHAPTER FIVE | `# 06. Chapter Five` | `ch06 chapter five.md` | 5294 | 8–15 | 派工中 |
+| ch07 | CHAPTER SIX | `# 07. Chapter Six` | `ch07 chapter six.md` | 4506 | 8–15 | 派工中 |
 | ch08 | CHAPTER SEVEN | `# 08. Chapter Seven` | `ch08 chapter seven.md` | 4178 | 6–12 | 待写 |
 | ch09 | CHAPTER EIGHT | `# 09. Chapter Eight` | `ch09 chapter eight.md` | 3980 | 6–12 | 待写 |
 | ch10 | CHAPTER NINE | `# 10. Chapter Nine` | `ch10 chapter nine.md` | 4741 | 8–15 | 待写 |
@@ -47,3 +47,6 @@
 | 章 | hash | 备注 |
 |---|---|---|
 | ch01 | 4bee6e4df | 书信体开篇，4 块，chapter.sh rc=0 |
+| ch02 | 574e942c6 | 10 块，chapter.sh rc=0，词表 30 条 |
+| ch03 | 07809e0ef | 11 块，chapter.sh rc=0 |
+| ch04 | 07809e0ef | 12 块，chapter.sh rc=0（子代理收尾时上下文耗尽，但文件与门禁均已通过） |
