@@ -1,0 +1,81 @@
+{
+  "chapter": "ch50",
+  "pov": "第一人称（Tris 叙述），一般现在时",
+  "facts": [
+    {
+      "event": "Tris 当天早些时候把消息留在捐赠中心的墙砖后面给母亲，告知她自己要做的事与时间，只盼母亲下午会去查看。",
+      "who": "I (Tris)",
+      "receivers": "my mother, the brick at the donation center",
+      "start": 444,
+      "end": 638,
+      "text": "I left a message for my mother behind the brick at the donation center earlier today, telling her what I was about to do, and when. I can only hope she remembered to check for it this afternoon."
+    },
+    {
+      "event": "两点五十分，Tris 悄悄穿过博物馆大厅，从隧道前往火车调车场，并向正在扫地的同伴 Trip 挥手。",
+      "who": "I (Tris)",
+      "receivers": "the main hall of the Museum, the tunnel, Trip",
+      "start": 1768,
+      "end": 2022,
+      "text": "At ten minutes to three, I creep across the main hall of the Museum. I can see stars through the skylights above me. I cross the room to the tunnel that will take me to the train yard, waving to Trip, one of my fellow newcomers, who’s sweeping the floor."
+    },
+    {
+      "event": "众人盯着 Tris，她自觉像个孩子；她认为自己的坚持在 Evelyn 听来很可笑，难怪要拿“与她儿子恢复关系”作筹码才肯答应她加入。",
+      "who": "Everyone (the factionless)",
+      "receivers": "me (Tris), Evelyn",
+      "start": 2976,
+      "end": 3191,
+      "text": "Everyone stares at me, and I suddenly feel like a child. My insistence on joining this group must have sounded so ridiculous to Evelyn. No wonder it took promising restoration with her son to get her to agree to it."
+    },
+    {
+      "event": "Evelyn 回应 Mender 对她年龄的质疑：她清楚 Tris 的年纪，但即将发生的事会波及城里每个人，不论成年与否，已没有挑选的余地；随后问“他在哪儿”。",
+      "who": "Evelyn",
+      "receivers": "the Mender, me (Tris), Tobias",
+      "start": 3580,
+      "end": 3801,
+      "text": "“I’m aware of her age,” Evelyn says. “I’m also aware that what’s coming will affect everyone in this city, whether they’re of age or not. There’s no room to pick and choose, not anymore.” She focuses on me. “Where is he?”"
+    },
+    {
+      "event": "Tris 心里补一句：这是轻描淡写——Tobias 通常早到，若他还没出现，必定是出了事，也许是他的 initiates 出了问题。",
+      "who": "I (Tris)",
+      "receivers": "Tobias",
+      "start": 3870,
+      "end": 4022,
+      "text": "It’s an understatement. Tobias is usually early. If he’s not here yet, that means something must have gone wrong. A situation with his initiates, maybe."
+    },
+    {
+      "event": "Evelyn 说没时间了，越过 Tris 的头顶望向巷口，仿佛盼着 Tobias 转过街角，随即说“也许这样更好，他会更安全”，催大家出发。",
+      "who": "Evelyn",
+      "receivers": "me (Tris), Tobias",
+      "start": 4067,
+      "end": 4261,
+      "text": "“I know, I know. There’s no time.” Evelyn sighs, and looks over my head at the end of the alley, as if hoping Tobias will turn the corner. “Maybe it’s better this way. He’ll be safer. Let’s go.”"
+    },
+    {
+      "event": "Evelyn 对 Tris 下最后通牒：现在正是她该做决定的时候，她不会再问第二次——你加入吗？",
+      "who": "Evelyn",
+      "receivers": "me (Tris)",
+      "start": 4678,
+      "end": 4770,
+      "text": "“Now is the time for you to decide,” Evelyn says to me. “I won’t ask you again. Are you in?”"
+    },
+    {
+      "event": "Tris 不愿没有 Tobias 就离开，但若此刻不走便再无机会；她知道必须做出选择——为了答案、为了这座城市、为了她努力过的一切。",
+      "who": "I (Tris)",
+      "receivers": "Tobias, this city",
+      "start": 4774,
+      "end": 4940,
+      "text": "I don’t want to leave here without Tobias. But if it’s now or never, I know what choice I have to make. For my answers, for this city, for everything I’ve worked for."
+    }
+  ],
+  "relations": [
+    "Evelyn 是这场夜会与激进分子的召集人，且是以条件换 Tris 入伙：Tris 拿“与她儿子 Tobias 恢复关系”作交换，Evelyn 才答应（Evelyn 讲明自己的“梦想”）。",
+    "在场的激进派头目包括 Sly（Foxes 首领）、Boots（Sly 的副手）、Jove（Rookery 前负责人）、Gretchen 与 Mender；Mender 以 Tris 只有十六岁为由反对她参与。",
+    "Tris 与 Tobias 约在此处会合，但 Tobias 缺席，Tris 最终独自入伙（“I’m in.”）。",
+    "Tris 与母亲之间以捐赠中心墙砖为暗号传递消息，这说明母女仍保持秘密联络。"
+  ],
+  "numbers": [
+    "ten minutes to three（“At ten minutes to three”，Tris 穿过博物馆大厅的时刻）",
+    "3:05（Jove 再次看表只说“3:05.”，众人已过约定时间）",
+    "sixteen（Mender：“She’s sixteen”；Tris 自述被当成“some sixteen-year-old”）"
+  ]
+}
