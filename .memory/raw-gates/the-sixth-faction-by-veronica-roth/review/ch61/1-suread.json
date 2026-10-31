@@ -1,0 +1,86 @@
+{
+  "chapter": "ch61",
+  "pov": "第一人称（Tobias「Four」叙述，现在时）",
+  "facts": [
+    {
+      "event": "两名 factionless 举枪指着「他们两个」（上文指 Marcus 与 Andrew Prior）；Tobias 推测他们正是看守模拟室门的那两人：一个高瘦、穿裁剪讲究的夹克，另一个更年轻、瘦而凶相，眼下一圈黑。",
+      "who": "two factionless",
+      "receivers": "them both（Marcus 与 Andrew Prior）",
+      "start": 463,
+      "end": 715,
+      "text": "Holding them both at gunpoint are two factionless, I assume the ones who were guarding the door of the simulation room—one is a tall, slim man in a well-tailored jacket, and the other is younger, slim and mean-looking, with dark circles under his eyes."
+    },
+    {
+      "event": "Tobias 拔枪、几大步穿过大厅，把自己挡在 Marcus 身前，正面朝向母亲 Evelyn。",
+      "who": "I",
+      "receivers": "Marcus / my mother",
+      "start": 989,
+      "end": 1104,
+      "text": "So I draw my weapon and cross the room in a few long strides and plant myself in front of Marcus, facing my mother."
+    },
+    {
+      "event": "Tobias 质问母亲：就算当了 Jeanine Matthews 的傀儡也不知道能成什么事，但她绝不能当着他的面杀他父亲，别再假装那真的会发生。",
+      "who": "I",
+      "receivers": "you（Evelyn）",
+      "start": 1560,
+      "end": 1779,
+      "text": "“I’m not sure what you think you’ll accomplish as a goddamn puppet of Jeanine Matthews,” I say. “But what you’re not going to do is kill my father right in front of me. So stop pretending that’s what’s going to happen.”"
+    },
+    {
+      "event": "Tobias 开口叫了一声「Mom」——自她死而复生后第一次这样叫她；这一声既惊到她，也惊到他自己。",
+      "who": "I",
+      "receivers": "her（Evelyn）",
+      "start": 2232,
+      "end": 2373,
+      "text": "“Mom,” I say, and it’s the first time I’ve called her that since she came back from the dead. It seems to startle her; I know it startles me."
+    },
+    {
+      "event": "Tobias 喉咙发紧，继续对她说：如果现在放他们走，他保证帮她找到她要找的东西，只是不在今天。",
+      "who": "I",
+      "receivers": "you（Evelyn）",
+      "start": 2474,
+      "end": 2599,
+      "text": "My throat tight, I go on: “If you let us go now, I promise I’ll help you find what you’re looking for. Just not today. Okay?”"
+    },
+    {
+      "event": "Evelyn 眼里似乎有泪（也可能只是光线），她放下枪，并示意其他人也放下。",
+      "who": "She（Evelyn）",
+      "receivers": "the others",
+      "start": 2603,
+      "end": 2749,
+      "text": "I think she might have tears in her eyes. But it could just be a trick of the light. She lowers her gun and gestures to the others to do the same."
+    },
+    {
+      "event": "Andrew 一手按上腹部、转身背对 Tobias，弓起背像刚被当胸打了一拳，随后发出一种扭曲难听的声音。",
+      "who": "Andrew（Andrew Prior）",
+      "receivers": "me（Tobias）",
+      "start": 3767,
+      "end": 3990,
+      "text": "Andrew presses a hand to his stomach and turns away from me. He hunches over, his body caving in like he was just punched in the gut. I feel the sudden urge to drag Tris away from here as he makes a horrible, twisted sound."
+    },
+    {
+      "event": "火车像潮水一样准时到站；Tobias 原以为要劝 Tris 才肯动身，回头却见她已在回望他，眼神警觉，像被人重新倒回身体里。",
+      "who": "she（Tris）",
+      "receivers": "me（Tobias）",
+      "start": 5607,
+      "end": 5806,
+      "text": "The train comes, reliable as the tide, and when I turn to look at Tris, expecting to have to talk her into moving, she’s already looking back at me. Alert. Like someone poured her back into her body."
+    }
+  ],
+  "relations": [
+    "Tobias（Four）与 Evelyn 是母子：她是他的母亲，他在本章第一次叫她「Mom」。",
+    "Marcus 是 Tobias 的父亲：Tobias 挡在他与 Evelyn 之间，拒绝让母亲当着自己的面杀他。",
+    "Andrew Prior 是 Caleb 的父亲：Tobias 说不出 Caleb 的死讯，Andrew 从他的迟疑里就明白了。",
+    "Evelyn 与 Jeanine Matthews 结盟，Tobias 斥她为 Jeanine 的傀儡。",
+    "Tris 与 Tobias 是恋人：混乱中他守在她身边、握住她的手，带她离开。",
+    "Tris 与 Marcus 敌对：她一开口就喝止 Marcus 碰 Tobias（“Don’t touch him.”）。"
+  ],
+  "numbers": [
+    "two factionless（“Holding them both at gunpoint are two factionless”）",
+    "two other factionless lackeys（“with two other factionless lackeys at her back”）",
+    "a few long strides（“cross the room in a few long strides”）",
+    "first time（“it’s the first time I’ve called her that since she came back from the dead”）",
+    "Years of absence（“Years of absence may separate us”）",
+    "a few yards away（“once we’re a few yards away from Dauntless headquarters”）"
+  ]
+}

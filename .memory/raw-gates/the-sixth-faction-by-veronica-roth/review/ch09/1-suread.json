@@ -1,0 +1,106 @@
+{
+ "chapter": 9,
+ "pov": "Caleb（第三人称）",
+ "facts": [
+  {
+   "event": "入会队伍只剩 Caleb 和另外三人——Felicity、一个他不知名的 Candor 男孩、一个喘不上气的 Erudite 男孩；他热得发昏，灰外套黏在后颈。",
+   "who": "Caleb Prior",
+   "receivers": [
+    "Felicity",
+    "Candor 男孩",
+    "Erudite 男孩"
+   ],
+   "start": 276,
+   "end": 550,
+   "text": "Now it’s just him and three others—Felicity, who chose after his sister did, a Candor boy whose name Caleb didn’t learn, and one Erudite boy who appears to be hyperventilating.\n\n\n\n\nCaleb is overheating. The gray jacket he’s still wearing is sticking to the back of his neck."
+  },
+  {
+   "event": "Caleb 把谜语读了不知多少遍：「It is what separates us from each other」——没有它的人不要它，有它的人不觉察，唯有认出它才能摆脱它。",
+   "who": "Jeanine Matthews",
+   "receivers": [
+    "十名 Erudite 新入会者"
+   ],
+   "start": 1741,
+   "end": 1957,
+   "text": "It is what separates us from each other, he reads, for what must be the hundredth time. Those who don’t have it don’t want it. Those who do have it aren’t aware of it. The only way to be rid of it is to recognize it."
+  },
+  {
+   "event": "Candor 男孩走到石柱尽头的石狮前，弯腰把答案低声说进狮子耳朵；Caleb 不知道答错会怎样——重来一次，还是被迷宫逐出、贬为 factionless。",
+   "who": "Candor 男孩",
+   "receivers": [
+    "Jeanine Matthews",
+    "十名新入会者"
+   ],
+   "start": 2662,
+   "end": 2994,
+   "text": "The Candor boy steps forward, past the stone plinth to the stone lion that waits beyond it. He bends down and whispers his guess into the lion’s ear. Caleb doesn’t know what will happen if he’s wrong—will he simply have to try again, or is one wrong answer enough for the labyrinth to eject someone, exiling them to the factionless?"
+  },
+  {
+   "event": "Felicity 声音发颤地说自己从前喜欢谜语；Caleb 回「We’re not supposed to help each other」——他并不想要她的帮助，想自己解开。",
+   "who": "Felicity",
+   "receivers": [
+    "Caleb Prior"
+   ],
+   "start": 3198,
+   "end": 3507,
+   "text": "“I used to like riddles,” Felicity says, her voice shaking. “Not so much, anymore.”\n\n\n\n“We’re not supposed to help each other,” Caleb replies. He doesn’t want her help, anyway. He wants to solve this on his own; he wants to break through this blankness in his mind and find out what’s on the other side of it."
+  },
+  {
+   "event": "Candor 男孩冲到石狮前喊出「Ignorance!」，随即把身后的 Erudite 男孩甩下。",
+   "who": "Candor 男孩",
+   "receivers": [
+    "Jeanine Matthews"
+   ],
+   "start": 5739,
+   "end": 5961,
+   "text": "The answer unfurls in his mind like the petals of a new flower. He scrambles to his feet and rushes toward the stone lion.\n\n\n\n“Ignorance!” he tells it. “The answer is ‘ignorance.’ ”\n\n\n\nHe leaves the Erudite boy behind him."
+  },
+  {
+   "event": "餐厅里只有一个 Erudite 男孩对他笑——Fernando 报上名字并伸出手；不惯握手的 Caleb 觉得别扭，但庆幸至少知道了一个新名字。",
+   "who": "Fernando",
+   "receivers": [
+    "Caleb Prior"
+   ],
+   "start": 6213,
+   "end": 6435,
+   "text": "Only one of the Erudite boys smiles at him—Fernando, he calls himself, offering Caleb his hand. Caleb, not practiced at shaking hands, feels awkward at the gesture. But he’s relieved to know at least one new person’s name."
+  },
+  {
+   "event": "Cara 一开口就是「We’ve lost one of your number already」：多年入会数据显示，此刻还解不出谜语的人就再也解不出，他们将继续不带他；Caleb 与 Felicity 交换眼神。",
+   "who": "Cara",
+   "receivers": [
+    "Caleb Prior"
+   ],
+   "start": 8532,
+   "end": 8827,
+   "text": "“We’ve lost one of your number already,” Cara says, without preamble. “He hasn’t realized it yet, but years of initiation data suggest that if he hasn’t been able to solve the riddle yet, he won’t be able to. We’ll be continuing without him.”\n\n\n\n\nCaleb exchanges a look with Felicity, eyes wide."
+  },
+  {
+   "event": "Jeanine 当众点评：「your faction of origin is known for its rigid thinking」，「Let’s hope you can improve tomorrow, Mr. Prior.」",
+   "who": "Jeanine Matthews",
+   "receivers": [
+    "Caleb Prior",
+    "十名新入会者"
+   ],
+   "start": 10913,
+   "end": 11209,
+   "text": "“Well, perhaps that’s not surprising, when your faction of origin is known for its rigid thinking,” she says. “Let’s hope you can improve tomorrow, Mr. Prior.”\n\n\n\n\nShe remembers him. Of course she remembers him; she probably remembers everything. Caleb stares down at his plate, his face burning."
+  }
+ ],
+ "relations": [
+  "Caleb Prior — Jeanine Matthews：Erudite 领袖，负责宣读谜语、点名、当众点评「your faction of origin is known for its rigid thinking」。",
+  "Caleb Prior — Felicity：同批 Abnegation 转派者；她主动想和他讨论谜语，他回「We’re not supposed to help each other」，挡了回去。",
+  "Caleb Prior — Fernando：同一批里唯一对他笑的 Erudite 男孩，主动自我介绍并伸手相握。",
+  "Caleb Prior — Candor 男孩：同桌竞争者，解出谜语获 Jeanine 表扬，饭后即被淘汰、位置空出。",
+  "Caleb Prior — Cara：饭后端着剩菜来搭话的 Erudite 女孩，转述「Tonight, you’ve earned the privilege of a hot meal and a roof over your head」。",
+  "Caleb Prior — 父亲（Andrew Prior）：他闭眼时听见的是父亲的声音而非自己的——「he hears his father’s voice instead of his own」。"
+ ],
+ "numbers": [
+  "just him and three others（Abnegation 只剩四人留在 Erudite 队里）",
+  "for what must be the hundredth time（他把谜语重读了许多遍）",
+  "there are nineteen of them, apart from Caleb（Erudite 这边连同他在内共二十人）",
+  "years of initiation data（Cara 提到的入会数据积累年数）",
+  "one wrong answer（一题答错就可能被淘汰）",
+  "the first test of Erudite initiation（第一场入门测验）"
+ ]
+}

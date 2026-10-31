@@ -35,7 +35,7 @@
       "text": "“Someone has to take it from him,” I say. “I know that whatever else you’re planning, getting rid of Marcus is part of it. And I can help you.”"
     },
     {
-      "event": "特丽丝说只要伊芙琳让她参与计划，她就会让托比亚斯为她离开无畏派，并把选择交给伊芙琳：要不要儿子回到她的生活里。",
+      "event": "特丽丝答“是”，并说只要伊芙琳让她参与她的计划，她就会去做那件事；随后把选择丢回给伊芙琳：要不要让儿子回到自己的生活里。",
       "who": "I",
       "receivers": "him (Tobias) / you (Evelyn)",
       "start": 6033,

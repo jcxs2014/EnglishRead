@@ -1,0 +1,109 @@
+{
+ "chapter": 2,
+ "pov": "Beatrice（第一人称）",
+ "facts": [
+  {
+   "event": "母亲压低声音问她是否为明天的能力倾向测试紧张；Beatrice 心里想着测试会告诉她“我是谁、属于哪里”，以及怎么解开胸中那个越收越紧的结",
+   "who": "母亲",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 1682,
+   "end": 1963,
+   "text": "“Are you nervous for tomorrow?” she asks me—quiet, like it’s a secret.\n\n\n\nTomorrow is the aptitude test. It will tell me . . . everything. Who I am. Where I belong. It will tell me what to choose.\nHow to untie this knot inside me that’s been getting tighter and tighter for months."
+  },
+  {
+   "event": "Beatrice 承认“I’m nervous.”，母亲搂住她、捏了捏，说这测试不会告诉她任何她原本不知道的事",
+   "who": "Beatrice",
+   "receivers": [
+    "母亲"
+   ],
+   "start": 2415,
+   "end": 2562,
+   "text": "“Yes,” I admit. “I’m nervous.”\n\n\n\nShe puts an arm around me and squeezes. “Just remember: the test won’t tell you anything you don’t already know.”"
+  },
+  {
+   "event": "Marcus 问起兄妹俩的近况，母亲答 Caleb 还在医院做志愿、Beatrice 跟着她服务无派系者；Marcus 用打量的目光看她，像在衡量之后予以认可",
+   "who": "Marcus Eaton",
+   "receivers": [
+    "母亲",
+    "Beatrice",
+    "Caleb"
+   ],
+   "start": 5423,
+   "end": 5703,
+   "text": "“And your two?” Marcus asks my mother. “Still volunteering at the hospital?”\n\n\n\n“Caleb is,” my mother replies. “Beatrice has been joining me in serving the factionless.”\n\n\n\n“Ah, I see.” Marcus’s voice softens, and he looks at me in a way that seems to measure and then approve me."
+  },
+  {
+   "event": "被那样看着，她自觉像个骗子：她确实跟着母亲去帮无派系者，却痛恨其中的每一秒",
+   "who": "Beatrice",
+   "receivers": [
+    "母亲",
+    "Marcus Eaton"
+   ],
+   "start": 5900,
+   "end": 6146,
+   "text": "But it just makes me feel like a fraud. The factionless—those who were cast out of their factions, or failed their factions’ initiations—are in need. And yes, I’ve been joining my mother in her efforts to help them. But I hate every second of it."
+  },
+  {
+   "event": "新闻简报播出：上周的报道揭露 Dauntless 城墙守卫接连出现记忆缺失，且每一次都发生在造访 Abnegation 记忆库之后",
+   "who": "新闻简报（Erudite 发布）",
+   "receivers": [
+    "Beatrice",
+    "Marcus Eaton",
+    "父亲",
+    "Mrs. Black"
+   ],
+   "start": 7480,
+   "end": 7697,
+   "text": "Last week, a report issued by this office brought to light a concerning pattern of Dauntless wall guards suffering memory lapses. In each incident, these lapses were preceded by a visit to the Abnegation Memory Vault."
+  },
+  {
+   "event": "报道点名 Marcus Eaton 是全城唯一能完全接触记忆库系统的人，他把指控斥为“nonsense”，称那是 Erudite 领袖 Jeanine Matthews 蓄意打击公众对领导层信心的举动",
+   "who": "Marcus Eaton",
+   "receivers": [
+    "Jeanine Matthews",
+    "Beatrice"
+   ],
+   "start": 8093,
+   "end": 8390,
+   "text": "Council Leader Marcus Eaton—notably the only person in the city with full access to the Memory Vault’s systems—dismissed the allegations as “nonsense,” declaring that the report was “a flagrant attempt by Erudite leader Jeanine Matthews to deteriorate the public’s confidence in their leadership.”"
+  },
+  {
+   "event": "Beatrice 冲口质问“If they’re making them up, why would they need a source?”，父亲喝止不及，母亲不动声色地判她“Penalty of Silence until morning.”",
+   "who": "Beatrice",
+   "receivers": [
+    "母亲",
+    "Marcus Eaton",
+    "父亲"
+   ],
+   "start": 9603,
+   "end": 9873,
+   "text": "“If they’re making them up, why would they need a source?”\n\n\n\n\n“Beatrice.” That’s my father this time, but I’m already speaking.\n\n\n\n\n“And if they’re not making all of it up, then—”\n\n\n\n\nMy mother doesn’t raise her voice. She just says, “Penalty of Silence until morning.”"
+  },
+  {
+   "event": "夜里她翻窗爬上防火梯、直到屋顶，朝城市探身、任风把头发吹开，放声尖叫，惊醒一群黑鸟",
+   "who": "Beatrice",
+   "receivers": [],
+   "start": 14144,
+   "end": 14297,
+   "text": "Then I press forward, into the open air, so the wind blows my hair back from my face, and I scream at the top of my lungs.\n\n\n\nThe birds wake and scatter."
+  }
+ ],
+ "relations": [
+  "Beatrice 是 Caleb 的妹妹；两人是双胞胎（原文 'just like me and Caleb' 指 Robert 与 Susan 是双胞胎）",
+  "Marcus Eaton 是 Abnegation 的议会领袖，也是全城唯一能完全接触记忆库系统的人（'notably the only person in the city with full access to the Memory Vault’s systems'）",
+  "Evelyn Eaton 是 Marcus 的妻子，死于第二次怀孕的并发症；他们的儿子在自己的 Choosing Ceremony 上离开了 Abnegation（'he left Abnegation'）",
+  "Robert 与 Susan 是异卵双胞胎（'Robert and Susan are fraternal twins'），两家因孩子配对而常来往",
+  "Andrew Prior（Beatrice 的父亲）是提出记忆库存档计划的议会成员（'Council Member Andrew Prior'）",
+  "Jeanine Matthews 是 Erudite 领袖，报道称其试图打击公众对领导层的信心",
+  "Mrs. Black（Agnes）经营社区菜园（'She runs the community garden'）"
+ ],
+ "numbers": [
+  "Marcus 自儿子离开后每周来吃一次晚饭，已持续两年（原文 'once a week since his son left us—so, for two years'）",
+  "违反沉默处罚的后果是至少被拘押一天（原文 'detainment in Abnegation headquarters for at least a day'）",
+  "供电宵禁是十一点（原文 'the curfew for electricity is at eleven o’clock'）",
+  "她至少爬到十层楼高（原文 'at least ten stories off the ground'）",
+  "反常的暖天持续不过几天（原文 'a false summer that won’t last more than a few days'）"
+ ]
+}

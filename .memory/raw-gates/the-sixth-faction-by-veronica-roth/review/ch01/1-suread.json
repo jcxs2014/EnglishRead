@@ -1,0 +1,92 @@
+{
+ "chapter": 1,
+ "pov": "Beatrice（第一人称）",
+ "facts": [
+  {
+   "event": "家里唯一的镜子藏在上楼墙内的滑动面板后；母亲每三个月给她剪一次头发时，她才获准站到镜前",
+   "who": "Beatrice",
+   "receivers": [
+    "母亲"
+   ],
+   "start": 42,
+   "end": 206,
+   "text": "Our household’s mirror is behind a sliding panel in the wall upstairs, and I’m allowed to stand in front of it once every three months, when my mother cuts my hair."
+  },
+  {
+   "event": "她按老规矩从走廊壁橱搬出凳子，母亲从浴室抽屉拿来剪刀和梳子，她坐下，母亲拉开墙上的滑动面板",
+   "who": "Beatrice",
+   "receivers": [
+    "母亲"
+   ],
+   "start": 211,
+   "end": 412,
+   "text": "It’s the same choreography every time. I take the stool out of the hall closet and carry it over. She brings the scissors and the comb from the drawer in the bathroom. I sit. She slides the panel back."
+  },
+  {
+   "event": "她清楚自己现在获准照镜子却不能沉溺其中，那会算作虚荣，于是移开视线",
+   "who": "Beatrice",
+   "receivers": [],
+   "start": 663,
+   "end": 798,
+   "text": "But even though I’m allowed to look at my reflection right now, I’m not supposed to revel in it. That would be vanity.\n\n\n\n\nI look away."
+  },
+  {
+   "event": "母亲拔掉固定发髻的发针，用手指把她的头发梳开、解开",
+   "who": "母亲",
+   "receivers": [
+    "Beatrice"
+   ],
+   "start": 802,
+   "end": 920,
+   "text": "My mother takes out the pins that are keeping my bun in place and then drags her fingers through my hair to unwind it."
+  },
+  {
+   "event": "她想到哥哥 Caleb 多年来一直自己剪头发，母亲的笑和梳子的拉扯让她觉得自己像个孩子",
+   "who": "Beatrice",
+   "receivers": [
+    "Caleb",
+    "母亲"
+   ],
+   "start": 1006,
+   "end": 1170,
+   "text": "But today I think of my brother, Caleb, how he’s been cutting his own hair for years, and my mother’s small smile and the tug of the comb make me feel like a child."
+  },
+  {
+   "event": "她主动问“Can I do it?”，向母亲要剪刀；母亲只犹豫了一瞬，就把剪刀放到她手里",
+   "who": "Beatrice",
+   "receivers": [
+    "母亲"
+   ],
+   "start": 1175,
+   "end": 1300,
+   "text": "“Can I do it?” I ask her, nodding to the scissors.\n\n\n\nShe hesitates for only a moment before putting the scissors in my hand."
+  },
+  {
+   "event": "她把头发捏在两根手指之间，想着把手指往上移、多剪掉一些，甚至想剪到下巴那里，幻想换个人",
+   "who": "Beatrice",
+   "receivers": [],
+   "start": 1301,
+   "end": 1512,
+   "text": "I pinch my hair between two fingers the way I’ve seen her do it, and I think about shifting them higher, so I trim off more than just an inch. What if I cut my hair at my chin?\nCould I be someone different then?"
+  },
+  {
+   "event": "她合上剪刀，剪下第一缕头发",
+   "who": "Beatrice",
+   "receivers": [],
+   "start": 1592,
+   "end": 1840,
+   "text": "But I’m just so desperate to be different. To be the person I’m supposed to be.\n\n\n\nDesperate to be the person who fits here, in our faction, in our home, instead of the one who doesn’t.\n\n\n\n\nI close the scissors over the first lock of hair, and cut."
+  }
+ ],
+ "relations": [
+  "Beatrice 是 Caleb 的妹妹（原文 'my brother, Caleb'）",
+  "Beatrice 的母亲负责给她剪头发（'when my mother cuts my hair'），并握着家里镜子的使用权",
+  "Caleb 多年来一直自己剪头发（'he’s been cutting his own hair for years'）"
+ ],
+ "numbers": [
+  "每三个月一次（原文 'once every three months'）",
+  "只修剪掉一英寸多（原文 'more than just an inch'）",
+  "想把头发剪到下巴处（原文 'at my chin'）",
+  "Caleb 自己剪头发已持续多年（原文 'for years'）"
+ ]
+}

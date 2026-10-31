@@ -1,0 +1,82 @@
+{
+  "chapter": "ch62",
+  "pov": "第一人称（Tris 叙述，现在时）",
+  "facts": [
+    {
+      "event": "众人乘火车前往 Amity 总部，权当避难所；Tris 靠墙坐在敞开的车门边，看城市边缘的楼房渐渐稀疏，藤蔓杂草与树影把那些建筑盖住，仿佛自然在收回它们。",
+      "who": "I（Tris）",
+      "receivers": "the buildings",
+      "start": 117,
+      "end": 341,
+      "text": "I sit by the open doorway, my back against the wall. From there, I can watch the buildings thin as we get farther and farther away from the city. Out here, they’re all covered in vines, overgrown with weeds, shaded by trees."
+    },
+    {
+      "event": "外面在下雨，Tris 听着雨点敲打车顶的鼓声，想起小时候听雨打窗户、被雨声哄睡。",
+      "who": "I（Tris）",
+      "receivers": "—（无显式受事）",
+      "start": 406,
+      "end": 564,
+      "text": "It’s raining. I hear the drum of the raindrops against the roof, and I think of listening to rain against my window as a child, letting it soothe me to sleep."
+    },
+    {
+      "event": "Tris 一动，母亲留下的挂坠盒滑过胸骨；她皱眉，用拇指勾住链子把它从衣服里拉出来。",
+      "who": "I（Tris）",
+      "receivers": "my mother’s locket",
+      "start": 569,
+      "end": 697,
+      "text": "I shift, and my mother’s locket slides across my sternum. Frowning, I hook my thumb under the chain and pull it out of my shirt."
+    },
+    {
+      "event": "盒里不是照片，而是一只罗盘：四边没有方位刻度，只有一个标签——一颗星，指针正指着它。",
+      "who": "there（盒中之物）",
+      "receivers": "it（the compass）",
+      "start": 788,
+      "end": 937,
+      "text": "But instead there’s a compass. Only instead of directions marking it on every side, there’s only one label: a star. The needle is pointing toward it."
+    },
+    {
+      "event": "母亲（留言）对 Tris 说：可以用它找到她的日记。",
+      "who": "You",
+      "receivers": "it（the compass）",
+      "start": 942,
+      "end": 976,
+      "text": "You can use it to find my journal."
+    },
+    {
+      "event": "Tobias 走到她面前，没有照旧坐到她身边，而是跪下来，双手放在她屈起的膝上；此前他陪她坐了几分钟，又守在门口确认方向。",
+      "who": "Tobias",
+      "receivers": "me（Tris）",
+      "start": 1037,
+      "end": 1296,
+      "text": "Tobias is walking over to me. He sat with me for the first few minutes of our journey, and then stood by the door to make sure we were going the right direction. Now, instead of taking his place beside me, he kneels in front of me, his hands on my bent knees."
+    },
+    {
+      "event": "转眼之间，Tris 脑中的杂音（static）就消失了；她倾身抱住他，把他拉得越来越近，两人的脸颊贴在一起。",
+      "who": "I（Tris）",
+      "receivers": "him（Tobias）",
+      "start": 1472,
+      "end": 1696,
+      "text": "Just like that, the static in my mind is gone. I sit forward and put my arms around him, pulling him close and then closer, so his head is tucked into my shoulder and mine is tucked into his. Our cheeks are pressed together."
+    },
+    {
+      "event": "Tris 还不敢去想自己做了什么，但没有一寸她不感激他活着：Tobias Eaton，懂她、看见她，把世界给他的残忍变成了力量。",
+      "who": "I（Tris）",
+      "receivers": "he（Tobias Eaton）",
+      "start": 1701,
+      "end": 1943,
+      "text": "I can’t quite think about what I did. Not yet. But there’s no part of me that isn’t grateful he’s alive. Tobias Eaton, who knows me. Tobias Eaton, who sees me. Tobias Eaton, who took the cruelty the world gave him and turned it into strength."
+    }
+  ],
+  "relations": [
+    "Tris 与 Tobias 是恋人：他跪在她面前说「I’ll try to be worth what I cost you」，她抱住他答「You already are.」。",
+    "挂坠盒是 Tris 母亲的遗物，贴在她胸骨上；里面不是照片，而是一只只有一颗星作刻度的罗盘。",
+    "Tris 的母亲留话：这只罗盘能带她找到母亲的日记。",
+    "Tris 与 Caleb 是兄妹；她暂时无法面对自己刚做的事（“what I did”）。",
+    "Amity 总部被这群人当作避难所（“as good a haven as any”）。"
+  ],
+  "numbers": [
+    "first few minutes（“He sat with me for the first few minutes of our journey”）",
+    "only one label（“there’s only one label: a star”）",
+    "every side（“instead of directions marking it on every side”）"
+  ]
+}

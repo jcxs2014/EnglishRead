@@ -19,7 +19,7 @@
       "text": "“Sorry, I should have explained.” She closes the door behind her and sticks out her hand. “I’m Shauna. Four’s friend. I know he’s supposed to meet you here, but . . .” She pauses, and bites her lip. “I think he might need your help.”"
     },
     {
-      "event": "在靶场，托比亚斯没有回应肖娜叫他“Four”，而是继续开火：一枚针打中靶子、落在靶心外侧；特丽丝起初看不出她为何担心，看久了才发现他手在抖、耳后冒汗。",
+      "event": "托比亚斯没有回应肖娜叫他“Four”，而是继续开火：一枚针打中靶子、落在靶心外侧；特丽丝起初看不出肖娜为何担心，看久了才发现他手在抖、耳后冒汗。",
       "who": "He (Tobias)",
       "receivers": "the target / a needle",
       "start": 6617,

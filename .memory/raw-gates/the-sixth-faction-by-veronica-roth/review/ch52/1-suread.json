@@ -1,0 +1,84 @@
+{
+  "chapter": "ch52",
+  "pov": "第一人称（Tris 崔丝），现在时",
+  "facts": [
+    {
+      "event": "伊芙琳把枪递给斯莱，随后又伸手取来一把、再取一把；这些枪是纯黑色的，从无畏派墙上守卫处偷来，装的是子弹而不是针剂。",
+      "who": "Evelyn",
+      "receivers": "the gun, Sly",
+      "start": 693,
+      "end": 887,
+      "text": "My stomach turns as she passes the gun to Sly, and then reaches for another one, and another one. They’re plain black, stolen from the Dauntless wall guards and loaded with bullets, not needles."
+    },
+    {
+      "event": "火车接近站台时崔丝走向车门，觉得自己像忘了该怎么做；但肌肉记忆接管了她的身体。",
+      "who": "I (Tris)",
+      "receivers": "the doorway",
+      "start": 1077,
+      "end": 1221,
+      "text": "I feel unsteady as I move to the doorway, like I’ve forgotten how to do this. But muscle memory takes over as the train approaches the platform."
+    },
+    {
+      "event": "这座车站年久失修：无派别者不坐火车，因此没人费心修补腐烂的木板，也没人把围栏重新钉回原处。",
+      "who": "The Abnegation (no one)",
+      "receivers": "the train, the rotten wood, the barriers",
+      "start": 1502,
+      "end": 1657,
+      "text": "This station is in disrepair. The Abnegation don’t use the train, so no one has bothered to patch up the rotten wood or screw the barriers back into place."
+    },
+    {
+      "event": "伊芙琳退后一步，打手势让崔丝走在她前面，并说“带路吧，崔丝，你认得去 B 楼的路”。",
+      "who": "Evelyn",
+      "receivers": "me (Tris), Building B",
+      "start": 1689,
+      "end": 1801,
+      "text": "Evelyn steps back, and gestures for me to go ahead of her. “Lead the way, Tris. You know the way to Building B.”"
+    },
+    {
+      "event": "B 楼是无派别单身者住的地方；马库斯·伊顿虽是城里最有权势的人，却住在他们中间——这是刻意提醒旁人，他自认不比任何人高一等。",
+      "who": "Marcus Eaton",
+      "receivers": "the Abnegation singles, them",
+      "start": 2469,
+      "end": 2663,
+      "text": "It’s where the Abnegation singles live, and though Marcus Eaton is the most powerful man in the city, he lives among them—a pointed reminder that he considers himself no better than anyone else."
+    },
+    {
+      "event": "崔丝不确定走到马库斯公寓后会怎么做，她愿意相信自己会救他的命；她想到母亲敲击的手指，并认定马库斯太重要、不能失去。",
+      "who": "I (Tris)",
+      "receivers": "his apartment, his life, Marcus",
+      "start": 2668,
+      "end": 2834,
+      "text": "I don’t know what I’ll do when I get to his apartment. I want to believe I’ll save his life. I think of my mother’s drumming fingers. Marcus is too important to lose."
+    },
+    {
+      "event": "崔丝认为，想要的东西送到眼前时不拿，可能就再也没有机会；她想要马库斯·伊顿消失。",
+      "who": "I (Tris)",
+      "receivers": "what you want, Marcus Eaton",
+      "start": 3275,
+      "end": 3421,
+      "text": "Someone who knows that if you don’t take what you want when it’s on offer, you might never get a chance at it again. And I want Marcus Eaton gone."
+    },
+    {
+      "event": "客厅里站着的不是她在托比亚斯恐惧场景里见过的那个可怕男人：无畏派青年领袖埃里克站在书架旁，脸上的穿孔映着月光，正举枪对准一个暗处身影。",
+      "who": "Eric",
+      "receivers": "a shadowed figure",
+      "start": 4629,
+      "end": 4878,
+      "text": "But standing in the living room isn’t the menacing man I saw in Tobias’s fear landscape. Instead, Eric, youth leader of Dauntless, stands next to the bookcase, moonlight glinting off the piercings in his face. He’s aiming a gun at a shadowed figure."
+    }
+  ],
+  "relations": [
+    "伊芙琳把偷自无畏派墙上守卫的手枪分发给斯莱等手下，弹夹里装的是子弹而非针剂。",
+    "崔丝由枪与路线判断此行的目的是杀死马库斯·伊顿。",
+    "B 楼是无派别单身者住所，紧邻无派别总部；马库斯身为城里最有权势的人仍与他们同住，以示不比人高。",
+    "崔丝与母亲的立场分裂：母亲认为马库斯太重要不能失去，崔丝却希望他消失，因为他的存在本身就在伤害托比亚斯。",
+    "埃里克（无畏派青年领袖）先一步持枪等在马库斯公寓，枪口对着一个暗处身影；该身影在章末被揭示为崔丝的母亲。"
+  ],
+  "numbers": [
+    "Half of the Hemlocks｜“Half of the Hemlocks went south”＝半数同伙往南",
+    "two blocks away｜“It’s just two blocks away, right next to Abnegation headquarters.”＝两个街区",
+    "the second floor｜“Marcus’s apartment is on the second floor”＝公寓在二楼",
+    "few months｜“over the last few months”＝过去几个月",
+    "another one, and another one｜“reaches for another one, and another one”＝一把接一把地发枪"
+  ]
+}
