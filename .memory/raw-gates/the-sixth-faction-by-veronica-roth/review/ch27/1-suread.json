@@ -1,0 +1,83 @@
+{
+ "chapter": "ch27",
+ "pov": "第一人称（Tris 视角）· 现在时",
+ "facts": [
+  {
+   "event": "Tris 在脑中过撤离路线：沿 Grand Avenue 跑，搭上东行列车。",
+   "who": "I (Tris)",
+   "receivers": "the route, Grand Avenue, the train",
+   "start": 40,
+   "end": 141,
+   "text": "I go over the route, the map unfolding in my mind. Run down Grand Avenue. Catch the train going east."
+  },
+  {
+   "event": "Tris 想到自己把行踪告诉了被指为城里最激进无派系者领袖的 Evelyn，而这场火是“终极掩护”。",
+   "who": "I (Tris)",
+   "receivers": "Evelyn, the fire",
+   "start": 890,
+   "end": 1018,
+   "text": "Evelyn, alleged leader of the most radical factionless in the city, where she would be. And this fire, the ultimate distraction."
+  },
+  {
+   "event": "Four 语气发酸地说“你告诉了她”、楼现在着火了，并追问 Tris 怎么还说不是她的跑腿（errand girl）。",
+   "who": "he (Four)",
+   "receivers": "you (Tris), her (Evelyn)",
+   "start": 1402,
+   "end": 1545,
+   "text": "“You told her,” he says, sounding sour again. “And now the building is on fire.” His lip curls. “Tell me again how you’re not her errand girl?”"
+  },
+  {
+   "event": "Tris 爆粗反驳自己不是 Evelyn 的跑腿，说她只想帮一个小女孩、若女孩被送回母亲身边“不会好”，随即打住。",
+   "who": "I (Tris)",
+   "receivers": "her (Evelyn), a little girl",
+   "start": 1843,
+   "end": 2093,
+   "text": "“For the last time, I am not her goddamn errand girl!” The curse seems to surprise him as much as it surprises me; I can’t remember the last time I said one. “I was trying to help a little girl. If she has to go back to her mother, it’s—” I hesitate."
+  },
+  {
+   "event": "列车进站时两人一起追跑；Four 明明更快却没先上，而是用手按在 Tris 背上催她，她抓把手翻进车厢、他紧随其后。",
+   "who": "we (Four and Tris)",
+   "receivers": "the train, the handle",
+   "start": 2313,
+   "end": 2546,
+   "text": "Almost as one, we both start running alongside it. He’s faster than I am, so I expect him to board before me, but instead I feel the press of his hand against my back, warm and urging me to move. I grab the handle and pull myself in."
+  },
+  {
+   "event": "Tris 进入 Candor 总部一个极高的八角形房间：玻璃板向上延伸如水晶柱，中央立着讲台。",
+   "who": "I (Tris)",
+   "receivers": "the octagonal room, panels of glass, the podium",
+   "start": 6322,
+   "end": 6572,
+   "text": "I’m in an impossibly tall, octagonal room. It’s as if someone took the core out of the center of the building and replaced it with a pillar of crystal. Jagged panels of glass, built to reflect and refract light, stretch above me as high as I can see."
+  },
+  {
+   "event": "烟从八角形房间顶部涌入对面，一个平静的女声从四面八方响起、盖过脉动的警报。",
+   "who": "I (Tris), a calm, feminine voice",
+   "receivers": "the room, the alarm",
+   "start": 6842,
+   "end": 7038,
+   "text": "As I watch, smoke spills into the room from the top of the octagon, right across from me. A calm, feminine voice speaks from nowhere and everywhere, loud enough to be heard over the pulsing alarm."
+  },
+  {
+   "event": "Tris 听见身后一声巨响，回头只见原本玻璃的位置多了一道从天花板落下的金属墙，惊愕地回望 Four。",
+   "who": "I (Tris)",
+   "receivers": "a metal wall, Four",
+   "start": 7402,
+   "end": 7578,
+   "text": "I hear a slam behind me, and turn to see a metal wall where there was glass just a moment ago. It appears to have dropped down from the ceiling. I look back at Four, wide-eyed."
+  }
+ ],
+ "relations": [
+  "Four 与 Tris 在赶往 Candor 的途中再度破裂：Four 用“errand girl”讥讽她，Tris 爆粗反击，随后又因他按背催她上车而缓和。",
+  "Tris 把火灾归因于自己向 Evelyn 泄露 Mae 的行踪，形成“我害了 Christina / Mae / 父亲”的自责链。",
+  "Four 以“我曾在听证上作过证、知道怎么走”领路，暂时成为 Tris 在 Candor 总部内的向导与依靠（她一路握着他的手）。",
+  "Candor 总部（Merchandise Mart）的玻璃八角厅与火控协议把两人困住，章末二人面临被封闭在火场内的处境。"
+ ],
+ "numbers": [
+  "two stops — “Ride two stops to the Merchandise Mart”（坐两站到 Mart）",
+  "one minute — “Fire-containment protocol will go into effect in one minute”",
+  "seventh-floor landing — 两人在“seventh-floor landing”拐离楼梯",
+  "eight glass doors — 八角厅有“eight glass doors”（八扇玻璃门）",
+  "fourth floor / sixth floor — “By the fourth floor”人群变稀，“by the sixth floor”需用外套捂住口鼻"
+ ]
+}
