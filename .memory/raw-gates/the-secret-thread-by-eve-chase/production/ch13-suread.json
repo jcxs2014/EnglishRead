@@ -1,0 +1,43 @@
+{
+ "book": "the-secret-thread-by-eve-chase",
+ "chapter": "ch13",
+ "text": "notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch13_chapter_13.txt",
+ "facts": [
+  {
+   "fact": "拍品 Lot 5 是 1969 年 Wiltshire 郡 Rushwood 的手绘地图：墨笔加水彩，画在 A2 卡纸上。",
+   "anchor": "Lot 5: Hand-drawn map of Rushwood, Wiltshire, 1969. Ink pen and watercolour on A2 card.",
+   "start": 22,
+   "end": 109
+  },
+  {
+   "fact": "入口大厅挂着一张六英尺的装框官制大地图（透过大窗可见、夜间点亮），画图人注意到它省略了劳作区。",
+   "anchor": "grand, framed six-foot map of Rushwood’s house and grounds that hung in the entrance hall",
+   "start": 146,
+   "end": 235
+  },
+  {
+   "fact": "她的版本补上了园头小屋（箭头标注 Unfortunately, you are here）、户外厕所、洗衣房、厨师后厨房等劳作处所，乃至棕榈房与堆肥堆。",
+   "anchor": "adding the head gardener’s cottage (arrowed: ‘Unfortunately, you are here’), the outdoor privy, the laundry room",
+   "start": 387,
+   "end": 499
+  },
+  {
+   "fact": "图上散布的 X 标记在图例里各有解释，其中两处名为 The Saving 与 Beware – Harold roams here。",
+   "anchor": "The marked Xs scattered across the ground are explained in the key, among them ‘The Saving’ and ‘Beware – Harold roams here’.",
+   "start": 595,
+   "end": 720
+  },
+  {
+   "fact": "Mimi 的拼写错误 unfortutly 被她的姐妹 Pamela 改正，Pamela 还在右下角留下一枚泥手指印。",
+   "anchor": "Mimi’s misspelling – ‘unfortutly [sic] – was corrected by her sister Pamela, who also left a muddy fingerprint at the bottom right.",
+   "start": 723,
+   "end": 854
+  },
+  {
+   "fact": "Pamela 怕这张地图给她们俩惹上麻烦，想抢过来毁掉它，但 Mimi 紧抓不放。",
+   "anchor": "Fearing the map might get them into trouble, Pamela tried to snatch it and destroy it, but Mimi held fast.",
+   "start": 855,
+   "end": 961
+  }
+ ]
+}
