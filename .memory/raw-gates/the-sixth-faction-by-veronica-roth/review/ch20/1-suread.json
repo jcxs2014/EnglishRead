@@ -1,0 +1,84 @@
+{
+  "chapter": "ch20",
+  "pov": "第一人称，叙述者是 Tris（「我」）；主干现在时（I follow / He says），回忆与追述用过去时",
+  "facts": [
+    {
+      "event": "Four 把 Christina 带进无派别据点 Rookery，对 Evelyn 说「这是 Christina」，并提醒她曾说过这里是安全港，希望这句话是真的。",
+      "who": "He",
+      "receivers": "Christina",
+      "start": 1303,
+      "end": 1433,
+      "text": "“This is Christina.” He nods to the girl next to him. “You told me, once, that this place was a safe haven. I hope that was true.”"
+    },
+    {
+      "event": "Evelyn 对 Christina 开出条件：这里拒绝以不平等维持自身的派系制度；若她愿意探讨这个想法、愿意遵守几条基本规则，就可以留下——说完点名让 Tris 来讲规则。",
+      "who": "Evelyn",
+      "receivers": "her",
+      "start": 2415,
+      "end": 2629,
+      "text": "“But this is a place that rejects the faction system that sustains itself with inequality. If that’s an idea you can agree to explore, and if you can agree to a few basic rules, you are welcome to stay here. Tris?”"
+    },
+    {
+      "event": "Tris 当众背出三条规则：第一条，别被抓到；第二条，做点有用的事；第三条，没有派系。她极不愿像被训练过的鸟一样背书，但认为向 Evelyn 表忠心很重要。",
+      "who": "I",
+      "receivers": "Christina",
+      "start": 2709,
+      "end": 2994,
+      "text": "“Oh.” The last thing I want to do is recite what Rory told me when I got here like a trained bird. But it’s important that I prove my loyalty to the factionless—to Evelyn. “Um—the first rule is, don’t get caught. The second is, do something useful. And the third is . . . no factions.”"
+    },
+    {
+      "event": "Evelyn 让 Tris 送 Four 出去：理由是确保他离开这一带时不暴露据点位置，并说既然两人无法文明交谈，她只好派「你口中的我的 lackey」去送。",
+      "who": "she",
+      "receivers": "you",
+      "start": 3639,
+      "end": 3869,
+      "text": "“And if I believed you could have a civil conversation with me, I would walk you out myself. But since that doesn’t seem to be possible for us . . .” She shrugs. “I’ll settle for sending you out with my lackey, as you called her.”"
+    },
+    {
+      "event": "Four 自报身份是「入营教官兼模拟技术员」；Tris 在心里说，若她当初按「应该」的选择，他就会是她的老师。",
+      "who": "I",
+      "receivers": "him",
+      "start": 6719,
+      "end": 6864,
+      "text": "A teacher. I swallow a laugh. Not because it’s so unbelievable, but because if I’d chosen what I should have . . . he would have been my teacher."
+    },
+    {
+      "event": "Tris 说出「我姓 Prior」后 Four 神色剧变——他这才想起她曾是他童年家中的 family friend：在他母亲「去世」时到他家吊唁、把花留在桌上、坐在悲痛的 Marcus Eaton 面前。",
+      "who": "he",
+      "receivers": "I",
+      "start": 9484,
+      "end": 9728,
+      "text": "He looks stricken. It’s clear he forgot I was there, a family friend, in his childhood home, leaving a flower on his table in sympathy, sitting with my hands in my lap in front of a grieving Marcus Eaton; there, when his mother supposedly died."
+    },
+    {
+      "event": "Four 说 Tris 比他以为的更是个操纵，叫她「Beatrice」，并警告：你并不了解 Evelyn，若了解就不会这么急着站到她那边。",
+      "who": "he",
+      "receivers": "Beatrice",
+      "start": 9733,
+      "end": 10026,
+      "text": "“You . . . are even more of a manipulation than I thought,” he says unsteadily. “But fine. You know where I’m from, and you think that’s enough. Well, that’s nothing, Beatrice.” He lowers his voice. “And you don’t know Evelyn. If you did, you might not be so eager to align yourself with her.”"
+    },
+    {
+      "event": "出巷前 Tris 听见靴子踩碎石的声响，本能地一手按上 Four 的胸口把他推回墙边、竖指示意他噤声；逼近的是 Dauntless 巡逻队，两人一动不动直到脚步声远去。",
+      "who": "I",
+      "receivers": "him",
+      "start": 10556,
+      "end": 10734,
+      "text": "I touch my finger to my lips, and he goes quiet. I hear voices echoing up ahead. They have to be Dauntless patrols—no factionless would ever be this loud outside of a safe house."
+    }
+  ],
+  "relations": [
+    "Four 就是 Tobias Eaton，Evelyn 的儿子；多年前她让他以为她死了——这正是他与 Evelyn 之间的死结（本章由 Tris 当面点破）。",
+    "Tris 姓 Prior，幼时与 Eaton 家是 family friend，曾在 Marcus Eaton 家为「去世」的 Evelyn 吊唁。",
+    "Four 是 Dauntless 的入营教官兼模拟技术员（负责每年两次的恐惧模拟）；Tris 是新投无派别的成员，在 Four 眼里是 Evelyn 的 lackey。",
+    "Christina 是 Four 从 Dauntless 带来的新生，获 Evelyn 收留；Jove 是 Rookery 门口持枪的守卫，被 Evelyn 一句「I’ll take it from here」撤下。",
+    "Evelyn 对 Four 既说「你随时都欢迎回来」，又在实际交涉中保持派系领袖的强硬；Tris 判断 Four 是她打入无派别计划的一个来源。",
+    "Rory 已经先到无派别一方，是 Tris 早前被告知规则的人；Mae 在 Mender 的工坊里用衣架搭堡垒。"
+  ],
+  "numbers": [
+    "“three”（规则只有三条：There are only three; it’s not that hard）",
+    "“two fear simulations a year”（每个 Dauntless 成员一年必须做两次恐惧模拟）",
+    "“For years”（Evelyn 让他以为她死了许多年）",
+    "“the third”（第三条规则是 no factions）"
+  ]
+}
