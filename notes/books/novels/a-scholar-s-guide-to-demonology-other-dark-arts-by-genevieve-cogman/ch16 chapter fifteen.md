@@ -12,7 +12,7 @@ modified: "2026-10-31"
 **情感弧线位置**：从「情报靠不住」的紧绷起步，中段被 Hamish 抽身离开的死寂压低，再被后门的火光、荒原上的尖叫和甩不掉的豹影推到顶点，最后在校门口那幅「野餐伞、填字游戏、干爽的猫」里回落成劫后余地的疲惫——危险退了，疑心留下了。
 
 **Tropes 兑现/反转**：
-- 「热血警匪片」troper 的**兑现并去魅**：菲丝确实干了一场劫案——搭电、纵火、驾车逃逸——但她手上的武器是猫砂和萝卜，掩护是四个学生扑上去抱人，作者把类型片的每个庄严环节都换成了家务。
+- 「热血警匪片」trope 的**兑现并去魅**：菲丝确实干了一场劫案——搭电、纵火、驾车逃逸——但她手上的武器是猫砂和萝卜，掩护是四个学生扑上去抱人，作者把类型片的每个庄严环节都换成了家务。
 - 「冷面同事其实能打」的**兑现**：Jane 真的从 glove compartment 里掏出一把保养得极好的左轮并且真开了枪，只是子弹对恶魔无效；最终救命的仍是那次急刹车。
 - 「权威者其实全都知道」的**兑现**：校长一句「听你那只猫的话」把她的知情写在明处，却一句也不解释，反而比任何解释都更让人不安。
 
@@ -28,7 +28,7 @@ modified: "2026-10-31"
 
 **关键词**：they’re only juniors / How many of them are there? / Do you know who they might be? / What sort of guns do they have?
 
-**为什么这样写**：菲丝把眼前的事按重要性排成三问，人数、身份、枪的种类一口气抛出，作者用并列疑问句把她的职业训练写成节奏。而开头的「只是低年级生」先把威胁贬低，读者却立刻意识到这三个「低年级生」正是菲丝自己带来的学生——错位在这里制造了第一层不安。
+**为什么这样写**：菲丝把眼前的事按重要性排成三问，人数、身份、枪的种类一口气抛出，作者用并列疑问句把她的职业训练写成节奏。而开头的「只是低年级生」先把威胁贬低，而接着抛出的三个问题问的却是另一伙人：读者这才明白，她真正要打听的和身边这几个女生不是一码事。
 
 **读者视角提示**：读者会在这三问里同时感到安心和发凉：菲丝在向一个教师打听她学生遇上的危险。
 
@@ -66,13 +66,13 @@ modified: "2026-10-31"
 
 **为什么这样写**：菲丝把指令说成一份清单：动作、风险、检查项、禁止项逐条落下，像她在课堂上发指令。作者让最可靠的那个学生去做最危险的一件事（去看守可能守着车的人），又用「不要试着开它」提前堵住最可能发生的擅自行动——这份对人性弱点的预判说明她并不天真。
 
-**读者视角提示**：读者会记下那条被禁止的指令，因为后面 Faith 恰恰做了它；于是这句话变成了一次耐心的等待。
+**读者视角提示**：读者会记下那条被禁止的指令，因为后面 Faith 恰恰把车搭上了电（她只声明「没有试着开」）；于是这条禁止只挡住了半件事。
 
 ---
 
 > **原句 5:** "She’d seated herself in the corner of the room, from where she could watch all directions at once. Unfortunately this meant she was then easily boxed in by people sitting on either side of her, as the men had done. Her laptop was in front of her, closed. Another sign that something was seriously wrong. Neither storm, nor calamity, nor school breakfast could stop Jane from being engrossed in her computer screen."
 
-**中文理解**：她挑了房间角落的位置坐下，从那里能同时看清所有方向。偏偏这也让她像那两个人一样，被两边的人夹在中间。她的笔记本电脑合着放在面前。这本身就是出了大事的另一个迹象——无论风暴、灾祸还是学校早餐，都拦不住 Jane 埋首在屏幕里。
+**中文理解**：她挑了房间角落的位置坐下，从那里能同时看清所有方向。偏偏这也让她轻易就被两边的人夹在中间——那两个男人就是这么干的。她的笔记本电脑合着放在面前。这本身就是出了大事的另一个迹象——无论风暴、灾祸还是学校早餐，都拦不住 Jane 埋首在屏幕里。
 
 **关键词**：watch all directions at once / easily boxed in / Her laptop was in front of her, closed / seriously wrong
 
@@ -168,7 +168,7 @@ modified: "2026-10-31"
 
 > **原句 13:** "As the car finally turned into the school grounds, Phil saw a picnic umbrella had been set up beside the front door. The Head was sitting beneath it, doing the crossword. Faust was sprawled at her feet. Both of them were bone dry."
 
-**中文理解**：车子终于拐进学校的地界，菲丝看见前门边支起了一把野餐伞。校长坐在伞底下做填字游戏，Faust 摊在她脚边。她们两个都是干爽的。
+**中文理解**：车子终于拐进学校的地界，菲丝看见前门边支起了一把野餐伞。校长坐在伞底下做填字游戏，Faust 摊在她脚边。一人一狗都是干爽的。
 
 **关键词**：a picnic umbrella had been set up / doing the crossword / Faust was sprawled at her feet / Both of them were bone dry
 

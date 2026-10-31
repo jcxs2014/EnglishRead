@@ -7,7 +7,7 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-**一句话概括**：菲丝在房间里给恶魔 Alastor 梳毛，借它的口吻把学校 wards 的结构和契约关系问了个底——中心点、五芒星、通讯阻断、召唤惯例，还顺带得知自己上次被 Flauros 抓住却毫发无伤，是因为她用几根香肠欠下了人情；随后五声铃响，教育部检查团到校，校长宣布全校戒备、破例让菲丝带路，Alastor 却在最后一刻警告她：检查团的车司机已从厨房溜进校园，是间谍。
+**一句话概括**：菲丝在房间里给恶魔 Alastor 梳毛，借它的口吻把学校 wards 的结构和契约关系问了个底——中心点、五芒星、通讯阻断、召唤惯例，还顺带得知自己上次被 Flauros 抓住却毫发无伤，是因为她此前给过 Flauros 几根香肠，让对方欠下了一份人情；随后五声铃响，教育部检查团到校，校长宣布全校戒备、破例让菲丝带路，Alastor 却在最后一刻警告她：检查团的车司机已从厨房溜进校园，是间谍。
 
 **情感弧线位置**：从梳毛闲谈的松弛起步，中段被「谁才是主人」的对答和「你想拿世界怎么办」的自白拉出一点心虚，再被五声铃与检查团上门推成一场表面忙乱的紧张，最后以间谍告警收在一声轻而冷的惊呼上——全章的日常感在最末一句被掀开。
 
@@ -72,7 +72,7 @@ modified: "2026-10-31"
 
 > **原句 5:** "‘Have you any idea why Flauros couldn’t harm me when he caught me that time before, even though I was outside the wards?’ Phil had no doubt that the leopard had intended to harm her. It hadn’t been some sort of dramatic threat display in order to terrify her into compliance."
 
-**中文理解**：「你有没有想过，为什么 Flauros 那次抓住我时没能伤害我，尽管当时我在 wards 外面？」她毫不怀疑那头豹子当时确实想烧死她；那不是用来吓唬她、以求她屈服的威胁展示。
+**中文理解**：「你有没有想过，为什么 Flauros 那次抓住我时没能伤害我，尽管当时我在 wards 外面？」她毫不怀疑那头豹子当时确实想伤害她；那不是用来吓唬她、以求她屈服的威胁展示。
 
 **关键词**：why Flauros couldn’t harm me / outside the wards / had intended to harm her / threat display
 
@@ -142,7 +142,7 @@ modified: "2026-10-31"
 
 ---
 
-> **原句 11:** "A complaisant master or mistress makes my life more pleasant, Alastor suggested. We can both be extremely comfortable. You can spend your time studying Latin and gaining your qualifications as a teacher, if you wish."
+> **原句 11:** "A complaisant master or mistress makes my life more pleasant, Alastor suggested. We can both be extremely comfortable. You can spend your time studying Latin and gaining your qualifications as a teacher, if you wish. I will not require you to pursue demonology if you choose otherwise."
 
 **中文理解**：「一个随和的主人或女主人会让我的日子好过些，」Alastor 建议道。「我们可以都过得非常舒服。你可以把时间用来学拉丁语、拿教师资格证，如果你愿意。我不会要求你非去研究恶魔学不可。」
 
@@ -154,7 +154,7 @@ modified: "2026-10-31"
 
 ---
 
-> **原句 12:** "With plots against your school being constantly devised? With you surrounded by schoolgirls? Certainly not. Rest assured, Mistress, I shall be careful and discreet. I shall be the soul of invisibility."
+> **原句 12:** "What? With an attempt to murder you less than two days ago? With plots against your school being constantly devised? With you surrounded by schoolgirls? Certainly not. Rest assured, Mistress, I shall be careful and discreet. I shall be the soul of invisibility."
 
 **中文理解**：「在两天前有人试图杀你的时候？在针对你学校的阴谋不断被策划的时候？在被一群女学生围着的时候？才不。我向你保证我会小心又隐蔽。我会成为隐形的灵魂。」
 

@@ -12,9 +12,9 @@ modified: "2026-10-31"
 **情感弧线位置**：从「被追债的慌张」落到「家常拌嘴」的松弛，再被「学校里谁还知情」和「女儿们的暗线」搅出不安；到教堂前那一段，恐惧短暂升到最高，随即被「他毕竟是她的猫」这句自我说服压回日常，结尾又由 Hamish 的一句话猛地掀回悬念。
 
 **Tropes 兑现/反转**：
-- 「恶魔仆人」troper 的**降格**：Alastor 一登场就讨饭、抱怨脱脂奶，力量被换算成讨价还价的筹码；作者让他先把「剖开 Smithson 吞食内脏」当人情献上，再由 Phil 拒绝，把恐怖收进玩笑里。
-- 「学校藏着秘密」troper 的**分层兑现**：作者不写一个人独知，而是写出一整条知情程度不同的谱系——Mr Smithson 全然不知，Miss Grending 半遮半掩，女学生则各自只掌握一角。
-- 「乖学生装乖」troper 的**反转**：真正最会撒娇、最会催眠的低年级女生，正被 Phil 抓去写罚抄；而被宠着的黑猫反倒成了她要负责的对象。
+- 「恶魔仆人」trope 的**降格**：Alastor 一登场就讨饭、抱怨脱脂奶，力量被换算成讨价还价的筹码；作者让他先把「剖开 Smithson 吞食内脏」当人情献上，再由 Phil 拒绝，把恐怖收进玩笑里。
+- 「学校藏着秘密」trope 的**分层兑现**：作者不写一个人独知，而是写出一整条知情程度不同的谱系——Mr Smithson 全然不知，Miss Grending 半遮半掩，女学生则各自只掌握一角。
+- 「乖学生装乖」trope 的**反转**：真正最会撒娇、最会催眠的低年级女生，正被 Phil 抓去写罚抄；而被宠着的黑猫反倒成了她要负责的对象。
 
 **人物弧线**：Phil 从「我被一只猫缠上了」走到「那也是我的责任」：她替 Alastor 买猫粮、给它取名 Jupiter、盘算怎么用他，同时用他偷听、用他吓退 Smithson；等 Faith 用专业语调求她心软时，她才真正显出教师该有的硬。
 
@@ -35,7 +35,7 @@ modified: "2026-10-31"
 
 > **原句 2:** "Mr Smithson was the first to publicly take notice of Alastor, though Phil had the feeling that all the staff (except Jane, who was typing at machine speed on her laptop) had noticed and were choosing not to comment."
 
-**中文理解**：Mr Smithson 是第一个公开把注意力放到 Alastor 身上的人；除了埋头在电脑上敲字的 Jane，其余教职员其实都看见了，只是集体选择不评论。他还伸手逗猫，刻意学猫咪腔调说话。
+**中文理解**：Mr Smithson 是第一个公开把注意力放到 Alastor 身上的人；除了埋头在电脑上敲字的 Jane，其余教职员其实都看见了，只是集体选择不评论。
 
 **关键词**：publicly take notice / choosing not to comment / all the staff
 
@@ -47,7 +47,7 @@ modified: "2026-10-31"
 
 > **原句 3:** "Was Miss Grending one of those teachers who knew about the demon summoning in more detail? Most probably. Why hadn’t the Head recruited her rather than Phil? Who else here knew too? What crimes did they have on their conscience?"
 
-**中文理解**：Phil 急着抓住任何说得通的解释，顺着同事的思路往下猜：学校里还有别的老师知道召唤恶魔的事，校长为什么挑中了她而不是别人，同事们的良知里藏着什么罪行，她在教室里私下教给女生们的东西，又会留下多大一片废墟。
+**中文理解**：Phil 急着抓住任何说得通的解释，顺着同事的思路往下猜：学校里还有别的老师知道召唤恶魔的事，校长为什么挑中了她而不是别人，同事们的良知里藏着什么罪行。
 
 **关键词**：knew about the demon summoning / recruited her rather than Phil / their conscience
 
@@ -83,7 +83,7 @@ modified: "2026-10-31"
 
 > **原句 6:** "‘Put it next to your desk and leave it alone while we’re working,’ Phil said firmly. ‘No stroking. Jupiter here is only attending the lesson till I can fix up a bed for him in my room.’"
 
-**中文理解**：Phil 让那条蛇放到自己桌边待着、上课期间不许摸，又替猫解释 Jupiter 只是暂来旁听，等房间里的窝安顿好就不再带进教室。她心里还闪过一个念头：这条蛇会不会也是恶魔使徒；但校长说过只教高年级，所以多半只是一只宠物——真要是一只豚鼠，她反倒更担心。
+**中文理解**：Phil 让那条蛇放到自己桌边待着、上课期间不许摸，又替猫解释 Jupiter 只是暂来旁听，等房间里的窝安顿好就不再带进教室。
 
 **关键词**：Put it next to your desk / leave it alone / No stroking
 
@@ -173,7 +173,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：作者让两件事在同一段里互相拆台：她刚说要当恶魔和女生们的道德榜样，做的却是抓低年级学生去写罚抄。Faith 把求情说成治疗式话术，Phil 的回击则直接把这套话术点名。
 
-**读者视角提示**：读者会为 Phil 捏汗：一个十二三岁的孩子已经练熟这套话，说明她是从别的学校带过来的。
+**读者视角提示**：读者会为 Phil 捏汗：一个十二三岁的孩子已经练熟这套话，说明这套话术她早就练熟了。
 
 ---
 

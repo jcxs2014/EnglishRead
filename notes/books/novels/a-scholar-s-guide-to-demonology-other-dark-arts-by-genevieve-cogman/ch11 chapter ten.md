@@ -12,9 +12,9 @@ modified: "2026-10-31"
 **情感弧线位置**：从「一夜惊魂之后的自我怀疑」到「早餐桌上被当众盘问的窘迫」，再到「在书架之间一点点拼出真相的冷静」，最后落到一个近乎轻快的决心——她不再想逃，她要弄清楚。
 
 **Tropes 兑现/反转**：
-- 「平凡世界的裂缝」troper 的**延续**：昨夜的怪事本该在晨光里褪色，作者却让它在白天继续生长——教职员围着早餐桌谈火药、谈七十年代的那场暴动，学校的日常每一件小事都成了「那边还有另一套东西」的侧影。
-- 「强势导师」troper 的**反转**：校长一手指止、一句「不必再说」就掐断了追问，可紧接着又亲手给菲丝派活。她不是要封口，她是要菲丝自己去挖。
-- 「不情愿的学徒」troper：菲丝自称对秘术不感兴趣、只认得早期教父的拉丁文，结果最先被引向的偏偏是图书馆里最不正经的那一格。
+- 「平凡世界的裂缝」trope 的**延续**：昨夜的怪事本该在晨光里褪色，作者却让它在白天继续生长——教职员围着早餐桌谈火药、谈七十年代的那场暴动，学校的日常每一件小事都成了「那边还有另一套东西」的侧影。
+- 「强势导师」trope 的**反转**：校长一手指止、一句「不必再说」就掐断了追问，可紧接着又亲手给菲丝派活。她不是要封口，她是要菲丝自己去挖。
+- 「不情愿的学徒」trope：菲丝自称对秘术不感兴趣、只认得早期教父的拉丁文，结果最先被引向的偏偏是图书馆里最不正经的那一格。
 
 **人物弧线**：菲丝从「想靠一次坦白把事情了结」变成「认定这里有秘密、要去查清」；简则从拒人千里的同僚变成主动示警的同路人——两人是在早餐桌上分开、又在楼梯上合拢的。
 
@@ -48,7 +48,7 @@ modified: "2026-10-31"
 
 > **原句 3:** "She’d never been particularly interested in the occult, even if she could give as good as she got on the early Christian Fathers – at least, when it came to what they’d written in Latin. But fiery leopard creatures and magical protective seals were beyond her."
 
-**中文理解**：她勉强承认这地方确实有些超出常理的东西，可超出的只是员工餐室持械袭击、放火这一类，她仍说不清具体是什么。她向来对秘术不感兴趣——即便在早期教父用拉丁文写下的那些东西上，她还能与人对上一两句。但会喷火的豹子和带魔力的保护印符，都不在她的射程之内。
+**中文理解**：她向来对秘术不感兴趣——即便在早期教父用拉丁文写下的那些东西上，她还能与人对上一两句。但会喷火的豹子和带魔力的保护印符，都不在她的射程之内。
 
 **关键词**：interested in the occult / early Christian Fathers / magical protective seals
 
@@ -84,7 +84,7 @@ modified: "2026-10-31"
 
 > **原句 6:** "‘Now, just to close this subject, my dear Philomela’ – Phil could recognize the use of a full name in order to make a point – ‘if you really have observed some sort of quaint, unusual local phenomenon, I would suggest looking it up in the school library. That’s why we have it. But since this is not Grimpen Mire, and we are not currently expecting the Hound of the Baskervilles, let us get back to gunpowder, hopefully without treason and plot.’"
 
-**中文理解**：校长先说自己记得舍监当时的意见，然后叫出「菲洛梅拉」这个全名——菲丝听得出，用全名是为了把话说重。她建议菲丝若真见过什么古怪的地方现象，就去校图书馆查一查，「我们养这个图书馆就是为了这个」；接着用格里姆潘泥沼和巴斯克维尔的猎犬把话拉回火药和孩子们的答辩上。
+**中文理解**：校长叫出「菲洛梅拉」这个全名——菲丝听得出，用全名是为了把话说重。她建议菲丝若真见过什么古怪的地方现象，就去校图书馆查一查，「我们养这个图书馆就是为了这个」；接着用格里姆潘泥沼和巴斯克维尔的猎犬把话拉回火药和孩子们的答辩上。
 
 **关键词**：my dear Philomela / looking it up in the school library / Grimpen Mire
 
@@ -136,9 +136,9 @@ modified: "2026-10-31"
 
 **关键词**：skylight overhead / there were no windows / devoted to secrets
 
-**为什么这样写**：作者用光的层层递减写这间上层的不可读：荧光灯被省略，天窗半遮，窗户被书封住；最后一句把它定性为「供奉秘密的地方」。空间描写到这里已经不是在介绍图书馆，是在介绍一个机关。
+**为什么这样写**：作者用光的层层递减写这间上层的不可读：顶层没有通排的顶灯，天窗半遮，窗户被书封住；最后一句把它定性为「供奉秘密的地方」。空间描写到这里已经不是在介绍图书馆，是在介绍一个机关。
 
-**读者视角提示**：读者会想起校長让她来查书这件事——如果这里本来就是供奉秘密的，她查到的是不是一个陷阱？
+**读者视角提示**：读者会想起校长让她来查书这件事——如果这里本来就是供奉秘密的，她查到的是不是一个陷阱？
 
 ---
 
@@ -180,7 +180,7 @@ modified: "2026-10-31"
 
 > **原句 14:** "‘She wanted something,’ Jane said without hesitation. ‘No, I don’t know what, but while she was here she was after something. The Head never really trusted her. Anne didn’t think much of the rest of us – but she didn’t see us so much as lesser beings as lesser specialists. We were good enough for what we were, but it wasn’t as important as whatever she had in mind.’"
 
-**中文理解**：简说安妮想要什么——她不知道是什么，但安妮在这儿时一直在找什么；校长从不真正信她。安妮看不上其余的人，却也没把他们当成低人一等，只当成没那么重要的人——够用，但比不上她心里那件事。安妮曾在试探合作的可能，不是那种一起写教案的合作。
+**中文理解**：简说安妮想要什么——她不知道是什么，但安妮在这儿时一直在找什么；校长从不真正信她。安妮看不上其余的人，却也没把他们当成低人一等，只当成没那么重要的人——够用，但比不上她心里那件事。
 
 **关键词**：she was after something / lesser specialists
 

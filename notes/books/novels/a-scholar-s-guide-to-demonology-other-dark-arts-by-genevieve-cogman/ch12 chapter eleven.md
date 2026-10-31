@@ -12,10 +12,10 @@ modified: "2026-10-31"
 **情感弧线位置**：从值夜时拿黑暗当提手电借口的轻松自嘲，到撞见秘密社团时的会心与被起绰号时的别扭，再到偷听教职工密谈时的屏息与震动，末尾停在门前那一瞬——恐惧和好奇几乎同时到达顶点。
 
 **Tropes 兑现/反转**：
-- 「地下禁地」troper 的兑现：地窖、蚯蚓观测室、旧铁处女、断头台斧、无锁孔的橡木门，把老建筑的阴暗一层层铺开。
-- 「间谍 troper」的兑现并加码：真正的间谍既不是学生也不是菲丝，而是那位一直咳嗽的女教师；她自陈是自己把史密斯森招进了学校。
-- 「尽忠职守的好教师」troper 的**反转**：格伦丁太太一边训斥史密斯森不许再逼学生，一边讲自己当年替已故上司写信、盯外勤、替人看后背，却被总部当作人情账一起清退。
-- 「深不可测的校长」troper 的**加码**：校长没出场，她的规矩却处处在场——对肯帮忙补位的离职教师更宽容，对逼学生与勒索的做法「非常坚决」。
+- 「地下禁地」trope 的兑现：地窖、蚯蚓观测室、旧铁处女、断头台斧、无锁孔的橡木门，把老建筑的阴暗一层层铺开。
+- 「间谍 trope」的兑现并加码：真正的间谍既不是学生也不是菲丝，而是那位一直咳嗽的女教师；她自陈是自己把史密斯森招进了学校。
+- 「尽忠职守的好教师」trope 的**反转**：格伦丁太太一边训斥史密斯森不许再逼学生，一边讲自己当年替已故上司写信、盯外勤、替人看后背，却被总部当作人情账一起清退。
+- 「深不可测的校长」trope 的**加码**：校长没出场，她的规矩却处处在场——对肯帮忙补位的离职教师更宽容，对逼学生与勒索的做法「非常坚决」。
 
 **人物弧线**：菲丝从「拿着手电在楼里转悠查线索的教师」变成「偷听到整座学校另一层身份的人」：她起初还抱着查文献的学者做派，中途开始替坚守职责的老师说话，转而追问这秘密怎么被瞒了三年，最后她的姿态从翻资料变成推开一扇门。
 
@@ -25,7 +25,7 @@ modified: "2026-10-31"
 
 > **原句 1:** "Night had closed its wings around the school, and the heavens had decided to make the Yorkshire moors doubly impassable by unleashing the sort of unexpected rainstorm which made weather forecasters go into hiding for fear of being lynched."
 
-**中文理解**：夜像一只合拢翅膀的活物罩住学校，天上把约克郡荒原弄成两倍难以通行，只因为砸下一场来势汹汹的暴雨，气象预报员怕被活活吊死才躲起来。用方言说就是：外面简直在往下倒水。整座学校安静得可疑，仿佛所有女生都已熟睡，正在安安稳稳地做梦。
+**中文理解**：夜像一只合拢翅膀的活物罩住学校，天上把约克郡荒原弄成两倍难以通行，只因为砸下一场来势汹汹的暴雨，气象预报员怕被活活吊死才躲起来。整座学校安静得可疑，仿佛所有女生都已熟睡，正在安安稳稳地做梦。
 
 **关键词**：closed its wings / rainstorm
 
@@ -61,7 +61,7 @@ modified: "2026-10-31"
 
 > **原句 4:** "‘We’re here to decide how best to raise money for the school Christmas donation to the RNLI,’ Faith said. She was clearly a born chairman – well, chairperson. Once she got her hands on a gavel, you’d never get it away from her."
 
-**中文理解**：「我们是来商量怎样为学校给 RNLI 的圣诞捐款筹钱的，」Faith 说。她显然是天生的主席——好吧，主席里带个“员”的那种。她一旦摸到那把槌子，就再也别想让人拿走了。
+**中文理解**：「我们是来商量怎样为学校给 RNLI 的圣诞捐款筹钱的，」Faith 说。她显然天生就是当主席的料——好吧，是当主席的料，不分男女的那种。她一旦摸到那把槌子，就再也别想让人拿走了。
 
 **关键词**：raise money for the school Christmas donation / a born chairman / gavel
 
@@ -89,7 +89,7 @@ modified: "2026-10-31"
 
 **关键词**：not interested in what you think / rasped / won’t be overheard
 
-**为什么这样写**：作者在对话中间插进一声咳嗽，把人物的声音写成有缺损的：破折号和拟声让她的每句话都带着杂音，也让“我不是要跟你吵，只是我呼吸不太好”这层掩饰自然出现。她第一句先取消对方的发言资格，第二句才给出理由。
+**为什么这样写**：作者在对话中间插进一声咳嗽，把人物的声音写成有缺损的：破折号和拟声让她的每句话都带着杂音，也让那种带杂音的语气自然出现。她第一句先取消对方的发言资格，第二句才给出理由。
 
 **读者视角提示**：读者会先被那声咳嗽抓住——一个连说话都费力的人，为什么偏要跑到地下室来把话挑明？
 
@@ -121,7 +121,7 @@ modified: "2026-10-31"
 
 > **原句 9:** "‘But then I’d have to kill you.’ Miss Grending put out her cigarette on one of the tables. ‘I’ll be going back to my rooms now. Don’t wait up. Oh, and if you run across any little secret meetings on your way, do try not to disturb the girls."
 
-**中文理解**：「不过那样我就得杀掉你。」格伦丁太太把烟头摁灭在其中一张桌子上。「我要回自己房间了，别等我了。」
+**中文理解**：「不过那样我就得杀掉你。」格伦丁太太把烟头摁灭在其中一张桌子上。「我要回自己房间了，别等我了。」她想了想，又补一句：「哦，你要是路上撞见什么小秘密集会，尽量别去打扰那些姑娘。」
 
 **关键词**：I’d have to kill you / put out her cigarette / Don’t wait up
 

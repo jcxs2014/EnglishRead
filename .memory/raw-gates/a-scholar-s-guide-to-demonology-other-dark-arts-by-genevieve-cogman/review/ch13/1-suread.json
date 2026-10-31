@@ -1,0 +1,101 @@
+{
+  "book": "a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman",
+  "chapter": "ch13",
+  "text": "notes/books/novels/a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman/text/ch13_chapter_twelve.txt",
+  "facts": [
+    {
+      "fact": "Phil gropes beside the door of the book-lined cellar, finds a light switch and turns it on.",
+      "anchor": "She groped desperately by the side of the door, hoping for a light switch",
+      "start": 266,
+      "end": 339
+    },
+    {
+      "fact": "Phil opens the biscuit tin on the small table and finds only custard creams inside.",
+      "anchor": "When Phil nervously opened it, there was nothing but custard creams inside",
+      "start": 2044,
+      "end": 2118
+    },
+    {
+      "fact": "Examining the shelves, Phil finds every book in the room is about summoning demons.",
+      "anchor": "they were all about summoning demons",
+      "start": 2401,
+      "end": 2437
+    },
+    {
+      "fact": "Phil walks across the room to look closely at a tapestry of a woman holding a book and a flame.",
+      "anchor": "walked across to examine it more closely",
+      "start": 5300,
+      "end": 5340
+    },
+    {
+      "fact": "Phil steps behind the lectern and starts reading aloud the Latin invocation to Alastor.",
+      "anchor": "she stepped behind the lectern and began to read",
+      "start": 8226,
+      "end": 8274
+    },
+    {
+      "fact": "Unable to stop reading, Phil shouts the instruction written in capitals on the page.",
+      "anchor": "she nearly shrieked",
+      "start": 11672,
+      "end": 11691
+    },
+    {
+      "fact": "Phil passes out and later wakes on a bed in an unfamiliar room.",
+      "anchor": "Phil found herself toppling backwards",
+      "start": 12582,
+      "end": 12619
+    },
+    {
+      "fact": "Matron shines a torch into Phil's eyes and tests her for concussion.",
+      "anchor": "shining a torch into her eyes",
+      "start": 16476,
+      "end": 16505
+    }
+  ],
+  "relations": [
+    {
+      "fact": "The Head is the person who keeps the secret cellar of demonology books, and Phil is considering whether it is her business to interfere.",
+      "anchor": "if the Head wanted to keep a secret cellar full of books",
+      "start": 4248,
+      "end": 4304
+    },
+    {
+      "fact": "Matron treats Phil as a teacher under her authority, calling her a bad teacher and asking whether she is a good or bad teacher.",
+      "anchor": "No! Bad teacher! No making it worse!",
+      "start": 15381,
+      "end": 15417
+    },
+    {
+      "fact": "Smithson is the member of staff who found Phil and reported hearing her cat.",
+      "anchor": "Smithson found you. Said he heard your cat mewing.",
+      "start": 14644,
+      "end": 14694
+    },
+    {
+      "fact": "The black cat addresses Phil as its mistress, so the cat is hers.",
+      "anchor": "We need to talk, Mistress.",
+      "start": 19175,
+      "end": 19201
+    }
+  ],
+  "numbers": [
+    {
+      "fact": "The rising bell for the girls is at seven; Matron releases Phil at six o'clock.",
+      "anchor": "It was six o’clock now, and the rising bell for the girls was at seven",
+      "start": 16636,
+      "end": 16706
+    },
+    {
+      "fact": "The biscuit tin is from Queen Elizabeth's Silver Jubilee in the seventies.",
+      "anchor": "Silver Jubilee back in the seventies",
+      "start": 1977,
+      "end": 2013
+    },
+    {
+      "fact": "Four smaller chairs stand in a half-circle in one part of the cellar.",
+      "anchor": "four smaller chairs stood in a more remote half-circle",
+      "start": 1785,
+      "end": 1839
+    }
+  ]
+}

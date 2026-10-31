@@ -12,9 +12,9 @@ modified: "2026-10-31"
 **情感弧线位置**：从「探索者的紧张自嘲」滑向「好奇压过恐惧」，再被「失控的朗读」和「有求必应的疯狂」推到顶点，最后落在一片柔软、荒谬又极度不安的收尾——恐惧没有消失，只是被一件毛茸茸的东西挡住了。
 
 **Tropes 兑现/反转**：
-- 「禁忌密室」troper 的**兑现并去魅**：作者不写血、不写祭坛、不写链条，只写一只带尖刺的读经台、一盒七十年代的饼干和一群锁在链子上的旧书，把恐怖体裁的道具清单逐条否决。
-- 「好奇心害死猫」troper 的**反转**：好奇确实把她害了，可「猫」真的来了，还是她最想要的那一只；招祸的冲动换来的不是灾祸，而是一次愿望成真。
-- 「召唤恶魔」troper 的**反转**：召唤没有仪式、没有契约谈判，代价只是一个早已写好的注记被当众念出声——恐怖来自「念出口就不能收回」，而不是来自任何神秘条款。
+- 「禁忌密室」trope 的**兑现并去魅**：作者不写血、不写祭坛、不写链条，只写一只带尖刺的读经台、一盒七十年代的饼干和一群锁在链子上的旧书，把恐怖体裁的道具清单逐条否决。
+- 「好奇心害死猫」trope 的**反转**：好奇确实把她害了，可「猫」真的来了，还是她最想要的那一只；招祸的冲动换来的不是灾祸，而是一次愿望成真。
+- 「召唤恶魔」trope 的**反转**：召唤没有仪式、没有契约谈判，代价只是一个早已写好的注记被当众念出声——恐怖来自「念出口就不能收回」，而不是来自任何神秘条款。
 
 **人物弧线**：菲丝从一个用学术腔调给自己壮胆、相信「这事跟我无关」的老师，变成一个亲手把边界推过去、又不得不承认「这都是真的」的人；而结尾那只猫把她重新放回被支配的位置——她成了「Mistress」这个词所指向的角色。
 
@@ -84,7 +84,7 @@ modified: "2026-10-31"
 
 > **原句 6:** "The words continued to flow from her mouth, pouring out like an oration, as though her original consent was something which couldn’t now be revoked. Cold air filled the room, colder than the worm observatory, colder than the rain outside, so cold that her breath plumed in the suddenly freezing temperature."
 
-**中文理解**：字句从她嘴里涌出，像一场演说的洪流，仿佛最初的那点同意已经无法收回。冷空气灌满了房间，比天文观测的虫室更冷，比外面的雨更冷，冷得她呼出的气在骤降的温度里结成白雾。
+**中文理解**：字句从她嘴里涌出，像一场演说的洪流，仿佛最初的那点同意已经无法收回。冷空气灌满了房间，比蚯蚓观测室更冷，比外面的雨更冷，冷得她呼出的气在骤降的温度里结成白雾。
 
 **关键词**：continued to flow / couldn’t now be revoked / colder than the worm observatory / her breath plumed
 
@@ -96,7 +96,7 @@ modified: "2026-10-31"
 
 > **原句 7:** "At the bottom was a sentence written in large capitals. The author had put exclamation marks around it and added arrows in red ink. It was like the desperate notes one saw attached to office printers to remind the user to check that paper is present and the printer is turned on before panicking and calling for help. It simply said: COME NOT IN THAT FORM."
 
-**中文理解**：纸页底部有一句用大写字母写成的话。作者在句子外面加了感叹号，又用红墨水画上箭头，那样子就像贴在办公室打印机上的求救便条，提醒用户在惊慌失措、打电话求助之前，先确认纸装好了、打印机开着。上面写着：不要以那种形态降临。
+**中文理解**：纸页底部有一句用大写字母写成的话。写这句话的人在句子外面加了感叹号，又用红墨水画上箭头，那样子就像贴在办公室打印机上的求救便条，提醒用户在惊慌失措、打电话求助之前，先确认纸装好了、打印机开着。上面写着：不要以那种形态降临。
 
 **关键词**：written in large capitals / arrows in red ink / office printers / COME NOT IN THAT FORM
 

@@ -1,0 +1,85 @@
+{
+  "book": "a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman",
+  "chapter": "ch12",
+  "text": "notes/books/novels/a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman/text/ch12_chapter_eleven.txt",
+  "facts": [
+    {
+      "fact": "[动作] 巡逻夜，Phil 带着手电离开原定路线，去查地下室：因为校长（Head）命令她调查，她决定从文献综述转向实地查证。",
+      "anchor": "The Head had told Phil to investigate.",
+      "start": 934,
+      "end": 972
+    },
+    {
+      "fact": "[动作] 二年级女生在地下走廊开“Second Form Secret Society”会议，由 Faith Standon 主持，议题是为学校圣诞捐给 RNLI 的钱款筹款方式。",
+      "anchor": "how best to raise money for the school Christmas donation to the RNLI",
+      "start": 3801,
+      "end": 3870
+    },
+    {
+      "fact": "[动作] Phil 摸进蠕虫观察室（worm observatory），看到墙上嵌着玻璃窗、每扇窗旁挂着记录板，上面写着种植样本的旧记录。",
+      "anchor": "Next to each one hung a clipboard",
+      "start": 6522,
+      "end": 6555
+    },
+    {
+      "fact": "[动作] 走廊传来两串脚步声，Phil 立刻关掉手电、躲到最近的桌子底下；进来的是 Jeffrey Smithson 和 Miss Grending。",
+      "anchor": "Phil flicked off her torch and cowered under the nearest table.",
+      "start": 8440,
+      "end": 8503
+    },
+    {
+      "fact": "[动作] Miss Grending 拒绝解释为何这间屋子安全，点了一支烟；Smithson 追问、在屋里走来走去。",
+      "anchor": "There was the click of a lighter, a momentary flare of light",
+      "start": 9461,
+      "end": 9521
+    },
+    {
+      "fact": "[动作] Miss Grending 说自己的“Old Man”十年前就死了，那之后 Service 不要她这个秘书，把她推去领公务员养老金。",
+      "anchor": "Mine died ten years ago. Remember?",
+      "start": 10750,
+      "end": 10784
+    },
+    {
+      "fact": "[动作] Miss Grending 暗示当年是她一手安排 Smithson 被派进 Grayne’s（并让他拿到这里的职位），并要他别再招募/勒索在校女生。",
+      "anchor": "Set the whole thing up? I might be implying a tiny bit.",
+      "start": 12684,
+      "end": 12739
+    },
+    {
+      "fact": "[动作] 两人先后离开后，Phil 又等了一会儿才爬出来，继续往下走，最后握住一扇无锁孔橡木门的铁把手拉开，门无声开了。",
+      "anchor": "Without a sound the door swung open.",
+      "start": 20065,
+      "end": 20101
+    },
+    {
+      "fact": "[关系] Miss Jagerson（“Jaggers”/Head）是本校长，也是 Phil 的雇主——女生们据此推断 Phil 身上必有把柄。",
+      "anchor": "or Jaggers wouldn’t be employing her",
+      "start": 5191,
+      "end": 5227
+    },
+    {
+      "fact": "[关系] Smithson 与 Miss Grending 是旧日同一系统的人：她曾在“外勤”中看顾他，并帮他拿到这里的教职。",
+      "anchor": "You helped me get a position here, after all",
+      "start": 11786,
+      "end": 11830
+    },
+    {
+      "fact": "[关系] Smithson 是奉命潜入 Grayne’s 的卧底，下令者是“the Old Man”。",
+      "anchor": "you were given orders to infiltrate Grayne’s",
+      "start": 12805,
+      "end": 12849
+    },
+    {
+      "fact": "[数字] 记录板原文：2 号地块、深 3 米、1980 年 1 月 7 日种下样本。",
+      "anchor": "Plot 2, depth 3 metres: sample planted 07/01/1980",
+      "start": 6650,
+      "end": 6699
+    },
+    {
+      "fact": "[数字] Phil 在桌下躲了整整五分钟才爬出来（时间量词照抄）。",
+      "anchor": "Phil waited a full five minutes",
+      "start": 15419,
+      "end": 15450
+    }
+  ]
+}
