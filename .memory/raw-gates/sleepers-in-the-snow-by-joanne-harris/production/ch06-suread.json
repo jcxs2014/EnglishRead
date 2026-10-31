@@ -1,0 +1,49 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch06",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "连日暴雨冲毁通往房子的土路，车辆无法通行",
+   "anchor": "a hot, hard rain that ravaged the dirt track",
+   "start": 64,
+   "end": 108
+  },
+  {
+   "fact": "男主幻想自己身处荒岛，千里无人",
+   "anchor": "I could be on an island, he thought. A desert island",
+   "start": 1027,
+   "end": 1079
+  },
+  {
+   "fact": "他在口袋里发现一条旧狗链",
+   "anchor": "a dog’s lead, the leather worn and cracked with age",
+   "start": 4177,
+   "end": 4228
+  },
+  {
+   "fact": "笔记本扉页写着 ARTHUR WILLIAM SANDERSON",
+   "anchor": "On the inside cover, he read: ARTHUR WILLIAM SANDERSON",
+   "start": 4888,
+   "end": 4942
+  },
+  {
+   "fact": "Arthur 的日记跨越 2013 至 2020 年",
+   "anchor": "Entries spanning almost five years, dated from 2013 to 2020",
+   "start": 5195,
+   "end": 5254
+  },
+  {
+   "fact": "Arthur 在日记中记录在读 Adrian Warner 的书",
+   "anchor": "I am reading THE LIGHTNING CHASERS, by Adrian Warner",
+   "start": 6023,
+   "end": 6075
+  },
+  {
+   "fact": "他读到一半才意识到自己拿的是 Arthur 在读的那本书",
+   "anchor": "he realised that the book was The Lightning Chasers",
+   "start": 12278,
+   "end": 12329
+  }
+ ]
+}

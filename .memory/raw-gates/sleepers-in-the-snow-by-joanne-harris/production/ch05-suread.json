@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch05",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "Caroline 日记 2017-12-28：Arthur 带着已故狗 Bailey 的牵引绳和网球出门",
+   "anchor": "Arthur’s gone out with Bailey’s lead",
+   "start": 615,
+   "end": 651
+  },
+  {
+   "fact": "Caroline 劝 Arthur 再养一条狗，他只是盯着她像她疯了",
+   "anchor": "I’ve tried to get him to think about getting another dog",
+   "start": 758,
+   "end": 814
+  },
+  {
+   "fact": "八年间子女 Greg 和 Lucy 只来看望过一次",
+   "anchor": "even their children had only stayed with them once",
+   "start": 1680,
+   "end": 1730
+  },
+  {
+   "fact": "山间道路被雪封了几周，Lucy 说可能三个月后才能再来",
+   "anchor": "the road has been cut off for weeks",
+   "start": 1869,
+   "end": 1904
+  },
+  {
+   "fact": "男主亲手把 Caroline 的衣物全部送去了衣物回收站",
+   "anchor": "He’d taken them all to the clothing bank",
+   "start": 4879,
+   "end": 4919
+  },
+  {
+   "fact": "回归的衣物里包括 Burberry 雨衣、晚礼服和被虫蛀的丝绸羊绒",
+   "anchor": "the Burberry raincoat",
+   "start": 5899,
+   "end": 5920
+  },
+  {
+   "fact": "短信与衣柜低语都用同一句话你就这样躲着是不行的",
+   "anchor": "You can’t just hide away like this",
+   "start": 3369,
+   "end": 3403
+  },
+  {
+   "fact": "结尾 Caroline 的声音直接呼唤 Arthur 的名字问他能否听见",
+   "anchor": "Arthur? Can you hear me?",
+   "start": 7298,
+   "end": 7322
+  }
+ ]
+}
