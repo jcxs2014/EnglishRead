@@ -1,0 +1,83 @@
+{
+  "chapter": "ch44",
+  "pov": "第一人称（Four/老四叙述），现在时",
+  "facts": [
+    {
+      "event": "与娜塔莉·普莱尔会面后，老四一直没睡好、头痛，觉得自己像两个人在一具身体里抢空间，其中一个满脑子都是崔丝。",
+      "who": "I",
+      "receivers": "Tris, Natalie Prior",
+      "start": 40,
+      "end": 307,
+      "text": "My head is throbbing. I haven’t been sleeping much since that meeting with Natalie Prior. I feel like two people fighting for space in one body. One of those people can’t stop thinking about Tris. What she’s doing. What she’s thinking. How it would feel to touch her."
+    },
+    {
+      "event": "埃里克问老四的新生近况如何，点出一个月内出了一次随机刺伤和一次自杀，还问有没有别的灾祸要提防。",
+      "who": "Eric",
+      "receivers": "your initiates, you",
+      "start": 1777,
+      "end": 1961,
+      "text": "“To find out how your initiates are doing, obviously,” Eric says. “You’ve had a random stabbing and a suicide in the span of a month. Any other calamities I should be looking out for?”"
+    },
+    {
+      "event": "老四第一次意识到：无畏派乃至整座城的食物、布料和技术都依赖博学派，一旦被断供就完蛋。",
+      "who": "I",
+      "receivers": "Erudite",
+      "start": 1520,
+      "end": 1742,
+      "text": "For the first time, I realize how dependent we must be on Erudite, not just in Dauntless but in the city as a whole. Our food, our fabric, our technology. If they decided to cut us off, for any reason, we would be screwed."
+    },
+    {
+      "event": "埃里克说他一直盯着老四、知道老四常消失，并质疑这样心不在焉的人是否该掌管新生。",
+      "who": "He (Eric)",
+      "receivers": "you (Four), our initiates",
+      "start": 2795,
+      "end": 3053,
+      "text": "“I’ve been keeping an eye on you. I know you’ve been disappearing. No one seems to know where you’re going. So I’m starting to wonder . . . should someone so inattentive really be in charge of our initiates? Someone whose behavior is so . . . unpredictable?”"
+    },
+    {
+      "event": "埃里克告诉老四：今天珍宁·马修斯要来模拟室更新系统，由麦克斯、埃里克和她一起。",
+      "who": "Eric",
+      "receivers": "the simulation room, our system",
+      "start": 4908,
+      "end": 5027,
+      "text": "“Jeanine Matthews is stopping by the simulation room today to update our system. She’ll be with Max and me,” Eric says."
+    },
+    {
+      "event": "埃里克威胁老四：要做模范无畏派、说话守本分，否则就改口叫他全名。",
+      "who": "Eric",
+      "receivers": "you (Four)",
+      "start": 5489,
+      "end": 5698,
+      "text": "Do that, and you and I won’t have a problem. But if you don’t . . . well. I’m not going to just let your insubordination reflect poorly on me, am I? I’ll just have to start referring to you by your full name.”"
+    },
+    {
+      "event": "埃里克走后老四羞愤交加，说服自己必须忍耐，只为留在这里、做自己而不是马库斯·伊顿的儿子。",
+      "who": "I",
+      "receivers": "myself",
+      "start": 5983,
+      "end": 6177,
+      "text": "He picks up his tray and walks away. I burn with shame, with embarrassment, with rage. I quake with it. I had to, I tell myself. I want to stay here; I want to be myself, not Marcus Eaton’s son."
+    },
+    {
+      "event": "威尔的恐惧模拟里，一只灰鸽落在他掌心后死去，他跪倒在地。",
+      "who": "he (Will)",
+      "receivers": "a dove, Will’s palm",
+      "start": 8851,
+      "end": 9006,
+      "text": "It’s a soft gray, with a delicate neck and dark, gentle eyes. A dove. Its wings flutter against Will’s palm, and then it goes still. He falls to his knees."
+    }
+  ],
+  "relations": [
+    "埃里克握有老四的把柄：他早知老四是马库斯·伊顿（Marcus Eaton）之子，威胁要公开他的全名。",
+    "老四被迫低头说出“Yes, sir.”，因而羞愤；他选择留下、隐姓埋名做自己。",
+    "珍宁·马修斯当天要来无畏派模拟室更新系统，随行麦克斯与埃里克——老四怀疑这与博学派线人在他恐惧模拟里看到的东西有关。",
+    "老四仍不断想起崔丝（“can’t stop thinking about Tris”），并已与崔丝的母亲娜塔莉·普莱尔见过面。",
+    "威尔是博学派转投无畏派的新生，在入门期有两个朋友：一个被刺伤、一个已死（Al）；其恐惧模拟里出现鸽子，象征和平。"
+  ],
+  "numbers": [
+    "“in the span of a month” — 埃里克说一个月内出了一次随机刺伤和一次自杀。",
+    "“two friends” — 威尔在无畏派入门时有两个朋友：一个被刺伤，另一个死了。",
+    "“two people fighting for space in one body” — 老四形容自己像两个人争一具身体。",
+    "“the last fear simulation of the day” — 这是当天最后一场恐惧模拟。"
+  ]
+}
