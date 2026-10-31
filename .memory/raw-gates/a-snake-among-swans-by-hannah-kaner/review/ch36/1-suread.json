@@ -1,0 +1,95 @@
+{
+ "chapter": 36,
+ "text": "text/ch36_chapter_thirty_six_tilde.txt",
+ "chars": 27786,
+ "facts": [
+  {
+   "id": 1,
+   "event": "奥东把王后蒂尔德与公主埃莉丝领进宴会厅（已改作“丧天鹅之庭”），利兰王手握出鞘长剑坐在高台上，剑尖抵着台阶，石面上已有多处先前劈出的缺口。",
+   "relation": "奥东—蒂尔德/埃莉丝（押送兼护卫）；利兰—亡子伊森（丧子之父）",
+   "numbers": "multiple chips of the same on the floor",
+   "interval": [
+    3148,
+    3216
+   ],
+   "anchor": "Liran sat as I had first seen him, on a raised dais, a carved throne"
+  },
+  {
+   "id": 2,
+   "event": "达戈贝尔特、埃斯威思与另外两名低阶祭司（一来自城镇、一来自仆役）唱起挽歌，歌声随香炉的烟绕着卡纳尼特式屋梁回荡，全场仅余此声。",
+   "relation": "达戈贝尔特（高祭司）—埃斯威思（低阶祭司）—利兰（听丧的君王）",
+   "numbers": "two more low priests, one from the town, one from the servants",
+   "interval": [
+    3845,
+    3912
+   ],
+   "anchor": "The only sound was from Dagobert, Aeswyth, and two more low priests"
+  },
+  {
+   "id": 3,
+   "event": "利兰当众质问蒂尔德：众人一致的说法是“这个梅罗吉亚女人”比任何男人都先察觉危险、先警告了伊森，并说卡纳尼特的猪与其驯手、家眷都已从城中消失。",
+   "relation": "利兰—蒂尔德（君对臣/夫对妻的审讯）；利兰—伊森（追索死因）",
+   "numbers": "A few of the courtiers laughed nervously",
+   "interval": [
+    5777,
+    5870
+   ],
+   "anchor": "They said you, a Merogian woman, warned Isen first, before any other man saw signs of danger."
+  },
+  {
+   "id": 4,
+   "event": "蒂尔德辩称梅罗吉亚人徒步狩猎、以脚底感知地面震动，故先觉出兽群；阿拉尔随即作证说她的长矛刺伤了野猪、等于给伊森递了第二件武器，绝非害他。",
+   "relation": "阿拉尔—蒂尔德（为她开脱的红天鹅王子）；蒂尔德—伊森（被指为凶手却曾救他）",
+   "numbers": "gave my dear brother another weapon",
+   "interval": [
+    8986,
+    9053
+   ],
+   "anchor": "Her spear injured the boar, and gave my dear brother another weapon"
+  },
+  {
+   "id": 5,
+   "event": "达戈贝尔特要她“证明”自己没召来野兽，康林顺势提议由祭司验身放血（blooding），达戈贝尔特应下：只要在她身上找到伤口，便可知她行了何术。",
+   "relation": "达戈贝尔特/康林—蒂尔德（合谋构陷的祭司与王子）",
+   "numbers": "not a mark on me",
+   "interval": [
+    15389,
+    15453
+   ],
+   "anchor": "when we find a wound on her body, we will know what she has done"
+  },
+  {
+   "id": 6,
+   "event": "被利兰误唤作“伊苏伊雷”的埃莉丝当众纠正父王并起身作证：是王后劝伊森别进峡谷，且王后曾主动提出陪她去请父王，言行与“有罪”不符。",
+   "relation": "埃莉丝—利兰（女儿当众抗父）；埃莉丝—蒂尔德（唯一挺身作证者）",
+   "numbers": "not one other person in this room had dared",
+   "interval": [
+    15792,
+    15841
+   ],
+   "anchor": "‘It is Elise, Father,’ she said, her voice clear."
+  },
+  {
+   "id": 7,
+   "event": "蒂尔德拒绝私下受检，当庭自行解下斗篷、外袍、皮甲与腰饰直至衬衣，以证明身上无伤；康林喝令侍卫拿人，两名侍卫上前却被奥东一个转身逼停，奥东随后把自己的斗篷披在她身上。",
+   "relation": "蒂尔德—利兰（妻当众抗夫）；奥东—蒂尔德（护她体面）；康林—蒂尔德（下令擒她）",
+   "numbers": "Two moved forward, but when Odon turned to them, they stopped in their tracks.",
+   "interval": [
+    19389,
+    19478
+   ],
+   "anchor": "My tunic was on the floor. My fine jerkin was next, its padded stripes of pink and cream."
+  },
+  {
+   "id": 8,
+   "event": "蒂尔德反手指控贡多巴尔当年如何激伊森入谷、见危不救；康林为自保当场倒戈，抓住贡多巴尔的手把猎刀捅进他双唇之间割断舌头，利兰随即举巨剑自其背脊劈下、剑锋直嵌入石地，将其处死。",
+   "relation": "康林—贡多巴尔（王子弃卖盟友）；利兰—贡多巴尔（君王亲自行刑）；利兰—伊森（以血还血）",
+   "numbers": "before the sun has set on his corpse",
+   "interval": [
+    24764,
+    24857
+   ],
+   "anchor": "He grabbed the hand and drew his hunting knife, thrusting its point between the palati’s lips"
+  }
+ ]
+}

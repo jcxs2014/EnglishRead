@@ -1,0 +1,95 @@
+{
+ "chapter": 35,
+ "text": "text/ch35_chapter_thirty_five_elise.txt",
+ "chars": 13988,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Elise 召集猎手、持矛侍从和父亲的贵族，把他们带回 Isen 所去的山谷。",
+   "relation": "Elise 与 Isen 的兄妹关系；与父亲 Liran 的君臣/父女关系",
+   "numbers": "Chapter Thirty-five（章号）",
+   "interval": [
+    154,
+    206
+   ],
+   "anchor": "rallying them back to the valley where Isen had gone"
+  },
+  {
+   "id": 2,
+   "event": "Elise 赶到时只见 Isen 的残躯：左腿扭断、满脸是血、一条手臂已断落远处。",
+   "relation": "Elise 与 Isen 的兄妹关系",
+   "numbers": "One arm was gone；left leg",
+   "interval": [
+    1147,
+    1212
+   ],
+   "anchor": "One arm was gone. It lay some distance from him amongst the green"
+  },
+  {
+   "id": 3,
+   "event": "Conrin 在谷底抱着 Isen 哭喊“Brother-hyem”，这是他自婴儿后再没叫过的称呼。",
+   "relation": "Conrin 与 Isen 的兄弟关系",
+   "numbers": "since he was a babe",
+   "interval": [
+    1337,
+    1415
+   ],
+   "anchor": "‘Brother-hyem!’ cried Conrin, though he had not said that since he was a babe."
+  },
+  {
+   "id": 4,
+   "event": "Liran 嘶吼着 Isen 的名字，跌跪在爱子身旁，称他为“我的战士孩子”。",
+   "relation": "Liran 与 Isen 的父子关系（最宠爱的儿子）",
+   "numbers": "My warrior child",
+   "interval": [
+    2031,
+    2114
+   ],
+   "anchor": "His voice cracked as he fell to his knees beside his favourite. ‘My warrior child!’"
+  },
+  {
+   "id": 5,
+   "event": "Isen 咽气；Egil 扑进 Elise 怀里，低声说没有 Isen 一切都会变。",
+   "relation": "Egil 与 Elise 的姐弟关系；Egil 与 Isen 的兄弟关系",
+   "numbers": "everything will change",
+   "interval": [
+    2778,
+    2815
+   ],
+   "anchor": "‘Without him everything will change.’"
+  },
+  {
+   "id": 6,
+   "event": "众人不吹号、不庆功，把黑王子遗体运回堡垒；Alar 接管指挥，命女人把尸体送往河边的冷屋。",
+   "relation": "Alar 与 Isen 的兄弟关系；Alar 与 Elise 的兄妹关系",
+   "numbers": "the cold house down beside the river",
+   "interval": [
+    3510,
+    3606
+   ],
+   "anchor": "Alar took command, telling the women to take Isen’s body to the cold house down beside the river"
+  },
+  {
+   "id": 7,
+   "event": "女人们为 Isen 洗尸；Ysel 拿鞣革针，小心地把王子的断臂缝接回去。",
+   "relation": "Ysel 与 Isen 的亲属/侍从关系",
+   "numbers": "a tanning needle",
+   "interval": [
+    7434,
+    7535
+   ],
+   "anchor": "always pragmatic as she took a tanning needle and, very carefully, began to reattach the prince’s arm"
+  },
+  {
+   "id": 8,
+   "event": "Tilde 私下告诉 Elise 自己曾叫 Isen 往上爬、试图警告他，并否认是林中巫术所为。",
+   "relation": "Tilde 与 Elise 的继母/王后与公主关系，兼有旧情",
+   "numbers": "I tried to warn him; the forest doesn’t have a will of its own",
+   "interval": [
+    10136,
+    10180
+   ],
+   "anchor": "‘The forest doesn’t have a will of its own.’"
+  }
+ ]
+}
