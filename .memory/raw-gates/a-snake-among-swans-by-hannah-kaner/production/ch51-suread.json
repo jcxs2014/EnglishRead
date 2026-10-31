@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch51",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch51_chapter_fifty_one_tilde.txt",
+ "facts": [
+  {
+   "fact": "Merovin 在入城途中向她报告政变一役损失惨重",
+   "anchor": "We suffered heavy losses",
+   "start": 29,
+   "end": 53
+  },
+  {
+   "fact": "Merovin 说 Cynghal 不接受女人掌权",
+   "anchor": "Cynghal does not accept women in positions of power",
+   "start": 909,
+   "end": 960
+  },
+  {
+   "fact": "她笑着回敬：她如今也是 Cynghal 人",
+   "anchor": "I am Cynghal now",
+   "start": 1003,
+   "end": 1019
+  },
+  {
+   "fact": "Dagobert 戴枷跪在集市广场受辱",
+   "anchor": "Dagobert was held in penance",
+   "start": 1798,
+   "end": 1826
+  },
+  {
+   "fact": "东门与城中的叛卫被钉穿双手钉在木板上",
+   "anchor": "nailed by their hands to boards",
+   "start": 2365,
+   "end": 2396
+  },
+  {
+   "fact": "她引用旧规矩拒绝由自己审判",
+   "anchor": "Women do not pass judgement",
+   "start": 3888,
+   "end": 3915
+  },
+  {
+   "fact": "她下令随从当众斩首同谋",
+   "anchor": "behead the conspirators",
+   "start": 4331,
+   "end": 4354
+  },
+  {
+   "fact": "她决定把 Dagobert 交给 Synod 审判",
+   "anchor": "sent to the Synod for their judgement",
+   "start": 6036,
+   "end": 6073
+  }
+ ]
+}
