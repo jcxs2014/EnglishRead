@@ -1,0 +1,67 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch15",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch15_historically_bad_jokes_laden_with_eras.txt",
+ "facts": [
+  {
+   "fact": "有人递上十三世纪中美洲羊皮纸合同，作者说“不必把印加纸扯进来”——Incan paper 谐音“in Cain paper”？实为 inking／incan 双关，指不必要的介入",
+   "anchor": "I said, ‘We don’t need to bring Incan paper into this!’",
+   "start": 187,
+   "end": 242
+  },
+  {
+   "fact": "罗马人竖两根手指要五杯啤酒——罗马数字 II 与五的计数法错位",
+   "anchor": "A Roman walks into a bar, holds up two fingers and says, ‘Five beers please.’",
+   "start": 327,
+   "end": 404
+  },
+  {
+   "fact": "弗拉德三世（穿刺公）与维尼熊的共同点：中间名相同（都是“the”）",
+   "anchor": "What do Vlad the Impaler and Winnie the Pooh have in common? The same middle name.",
+   "start": 465,
+   "end": 547
+  },
+  {
+   "fact": "亚历山大大帝把军队藏在哪儿：slee vies，sleeve（袖子）的儿语化",
+   "anchor": "Where did Alexander the Great keep his armies? Up his sleevies.",
+   "start": 552,
+   "end": 615
+  },
+  {
+   "fact": "克利奥帕特拉看见金字塔说“妈妈回家了”——mummy 双关木乃伊／妈妈",
+   "anchor": "What did Cleopatra say when she saw the pyramids? Mummy’s home!",
+   "start": 620,
+   "end": 683
+  },
+  {
+   "fact": "路易十四付完凡尔赛宫的钱后破产了：Baroque 谐音 broke",
+   "anchor": "What was Louis XIV after he paid for the Palace of Versailles? Baroque.",
+   "start": 688,
+   "end": 759
+  },
+  {
+   "fact": "马克思为什么喝咖啡：all property is theft（一切财产都是盗窃）被换成 proper tea",
+   "anchor": "Why did Karl Marx drink coffee? Because all proper tea is theft.",
+   "start": 821,
+   "end": 885
+  },
+  {
+   "fact": "南军知不知道自己在历史错误一边：Not General Lee，谐音 not generally／将军李",
+   "anchor": "Did the Confederate army in the American Civil War know they were on the wrong side of history? Not General Lee.",
+   "start": 952,
+   "end": 1064
+  },
+  {
+   "fact": "海盗打耳洞收多少钱：a buck an ear，谐音 buccaneer（海盗）",
+   "anchor": "What do pirates charge for piercings? A buck an ear.",
+   "start": 2560,
+   "end": 2612
+  },
+  {
+   "fact": "海盗最爱的字母是 P：没有它海盗就 irate（愤怒），谐音 a pirate",
+   "anchor": "What’s actually a pirate’s favourite letter? ‘P’: without it, a pirate’s irate!",
+   "start": 2805,
+   "end": 2884
+  }
+ ]
+}
