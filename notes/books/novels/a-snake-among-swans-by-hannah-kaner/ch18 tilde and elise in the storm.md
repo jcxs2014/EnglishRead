@@ -63,7 +63,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：三个短句，一句一个动作，句号砸得很实，模仿的是机关弹开那一瞬的手感。卷纸不与尺子比，而与母亲的戒指比——这枚戒指是上一册里全书的信物，作者用它做尺度，等于把这个发现接到母亲那条线上。
 
-**读者视角提示**：这一块的机关在下一段才解：纸上是乱码般的梅洛吉亚文，开头一句是「The apple is the tree」，她据此推出「A is T」，再转码盘读出「Wait. The swans must fall from the sky.」——一句命令，也是一个约定。
+**读者视角提示**：这一块的机关在下一段才解：纸上是乱码般的梅洛吉亚文，开头一句是「The apple is the tree」，她据此推出「A is T」，再转码盘读出「Wait, it said. The swans must fall from the sky.」——一句命令，也是一个约定。
 
 > **原句 6:** "They were long bands of parchment, inked with depictions of children, wombs, swans and the Wing, and prayers in Galenish. They were big enough to fit around a woman’s back and pregnant belly while she was birthing. There were thirteen of them."
 

@@ -1,0 +1,95 @@
+{
+ "chapter": 19,
+ "text": "text/ch19_chapter_nineteen_elise.txt",
+ "chars": 22800,
+ "facts": [
+  {
+   "id": 1,
+   "event": "一周后，Elise 仍被王后 Tilde 那番以言语和圈套引诱她的举动冒犯，却始终甩不掉那场密谈里王后贴近的记忆，决意只按父亲的要求行事、不多做一分。",
+   "relation": "Elise 与王后 Tilde（被引诱者与引诱者，君臣兼暧昧对象）",
+   "numbers": "A week later",
+   "interval": [
+    27,
+    97
+   ],
+   "anchor": "A week later, Elise was still affronted by the sheer gall of the woman"
+  },
+  {
+   "id": 2,
+   "event": "队伍入城时无人欢呼，Merogian 妇女带一儿一女把插满绣线菊与常春藤的尸架抬到国王马前，当街指认 Conrin 杀了她表姐的儿子、小马夫 Falhin。",
+   "relation": "女死者家属（Falhin 的姑母）与 Conrin（被指控的凶手，天鹅王子）",
+   "numbers": "one dead boy",
+   "interval": [
+    5482,
+    5532
+   ],
+   "anchor": "A bier had been raised of branches and riverstones"
+  },
+  {
+   "id": 3,
+   "event": "女孩从口袋里掏出鸡蛋全力掷出，没砸中 Liran 却砸在 Gaisa 肩上，蛋液溅上 Conrin 的灰斗篷；Gaisa 当即大喊卫兵，绿卫与灰卫破队冲入人群。",
+   "relation": "Gaisa 与 Conrin（兄弟王子）、掷蛋女孩与王廷（冲突双方）",
+   "numbers": "an egg",
+   "interval": [
+    6568,
+    6624
+   ],
+   "anchor": "Gaisa, gaping, took it on the shoulder, where it cracked"
+  },
+  {
+   "id": 4,
+   "event": "暴乱蔓延到盐湖畔的集市，摊桌翻倒、鱼在地上挣命，Elise 在一摊血里看见三颗人牙。",
+   "relation": "Elise 与暴民/王廷（目击者与混战双方）",
+   "numbers": "three human teeth",
+   "interval": [
+    9755,
+    9800
+   ],
+   "anchor": "In a red puddle, Elise saw three human teeth."
+  },
+  {
+   "id": 5,
+   "event": "Conrin 命人从人群边缘拖出一名无辜男子，把剑搁在他肩上逼问袭击其弟的女人下落，随即转腕割开他的喉咙，血喷在岩石上。",
+   "relation": "Conrin 与无辜 Merogian 男子（审判者与被处决者）",
+   "numbers": "one man",
+   "interval": [
+    12248,
+    12315
+   ],
+   "anchor": "The innocent man’s throat gaped open, spraying blood onto the rock."
+  },
+  {
+   "id": 6,
+   "event": "Tilde 的侍女 Marolyn 冲到女王与持剑逼近的 Gaisa 之间，从裙下拔出长刀，被贵族视为「手上的罪」，Tilde 按住她的肩才没让刀挥向王子。",
+   "relation": "Marolyn 与女王 Tilde（侍女与主人，护主关系）",
+   "numbers": "a long knife",
+   "interval": [
+    12581,
+    12656
+   ],
+   "anchor": "She planted herself between the queen and the prince who strode towards her"
+  },
+  {
+   "id": 7,
+   "event": "怀孕的 Cynefel 徒步穿过贵族人群，跪在 Liran 的马镫下亲吻他的靴子，请求把本该落在 Merogian 妇女身上的惩罚给她。",
+   "relation": "Cynefel 与 Liran（臣属/孕妻与国王）、Cynefel 与丈夫 Uhtren",
+   "numbers": "with my child",
+   "interval": [
+    17493,
+    17551
+   ],
+   "anchor": "It was Cynefel who had spoken, holding her swollen stomach"
+  },
+  {
+   "id": 8,
+   "event": "Elise 下马跪在石板上，以「慈悲也是翼的讯息」进言，Liran 反问她「你要我怎么做，女儿？」，最终耸肩放人、命集市复工，说死人赚不了钱。",
+   "relation": "Elise 与父王 Liran（父女，也是臣与君）",
+   "numbers": "Dead men make no money",
+   "interval": [
+    22197,
+    22265
+   ],
+   "anchor": "‘Let the market go back to work,’ he said. ‘Dead men make no money.’"
+  }
+ ]
+}

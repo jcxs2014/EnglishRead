@@ -1,0 +1,95 @@
+{
+ "chapter": 18,
+ "text": "text/ch18_chapter_eighteen_tilde.txt",
+ "chars": 19244,
+ "facts": [
+  {
+   "id": 1,
+   "event": "哈迪雅质疑用嘲讽试探艾莉丝是否妥当，并指出艾莉丝没有来参加晚祷。",
+   "relation": "哈迪雅—蒂尔德：表姐妹／顾问，哈迪雅对蒂尔德的手段持保留",
+   "numbers": "",
+   "interval": [
+    27,
+    100
+   ],
+   "anchor": "‘I am not sure mockery was the right idea,’ said Hadiah, chewing her lip."
+  },
+  {
+   "id": 2,
+   "event": "蒂尔德拆开齐扬送的包裹，里面除草药外还有一本伪装成草药书的默罗吉亚诗歌与歌谣抄本，众人说这近乎违法。",
+   "relation": "齐扬—蒂尔德：赠礼者与被赠者；马洛琳、哈迪雅为在场共谋",
+   "numbers": "",
+   "interval": [
+    1448,
+    1549
+   ],
+   "anchor": "But with them was a small book. It was decorated like a herbal and the first page declared it as such"
+  },
+  {
+   "id": 3,
+   "event": "蒂尔德发现吊坠有第三层暗格，旋开后掉出小卷与法尔坎铁制密码盘，译出“苹果即树”“等，天鹅必须从天上坠落”。",
+   "relation": "梅罗文—蒂尔德：送礼者与受礼者，暗藏联络信号",
+   "numbers": "",
+   "interval": [
+    4195,
+    4247
+   ],
+   "anchor": "A click. A third layer was revealed beneath the map."
+  },
+  {
+   "id": 4,
+   "event": "敲门声响起，艾莉丝公主抱着大篮子前来“为礼物作答”，马洛琳把手按在内腰带缝的刀上。",
+   "relation": "艾莉丝—蒂尔德：公主与王后，送礼答礼的对手",
+   "numbers": "",
+   "interval": [
+    5716,
+    5770
+   ],
+   "anchor": "‘It is Princess Elise, come to answer for your gifts.’"
+  },
+  {
+   "id": 5,
+   "event": "蒂尔德当面点破床垫缝线的盐粒恶作剧，说她只花两天就查了出来，并提到桌上十三条孕妇祈祷羊皮带。",
+   "relation": "艾莉丝—蒂尔德：恶作剧者与被作弄者，蒂尔德以此立威",
+   "numbers": "two days; thirteen birthing prayer bands",
+   "interval": [
+    7489,
+    7561
+   ],
+   "anchor": "It had only taken me two days to find that a prank had been played on me"
+  },
+  {
+   "id": 6,
+   "event": "艾莉丝讲述母亲伊莎贝拉并非死于生产，而是产后第三天头痛、无出血无发热便死去；蒂尔德直接问她是否被毒死。",
+   "relation": "艾莉丝—伊莎贝拉：母女；蒂尔德借机试探王室旧案",
+   "numbers": "the third day",
+   "interval": [
+    10328,
+    10374
+   ],
+   "anchor": "‘It was not,’ said Elise. ‘It was days after.’"
+  },
+  {
+   "id": 7,
+   "event": "艾莉丝献上宫廷女眷合制的晨礼斗篷：藏红花染色的布、每名女眷至少绣一根羽毛、貂皮来自加伦。",
+   "relation": "宫廷女眷—蒂尔德：臣属献礼；艾莉丝为转交人",
+   "numbers": "at least one feather",
+   "interval": [
+    15886,
+    15981
+   ],
+   "anchor": "‘The dye is saffric,’ said Elise, looking at the cloth she had revealed with some satisfaction."
+  },
+  {
+   "id": 8,
+   "event": "蒂尔德追问艾莉丝淤肿的右腕，艾莉丝谎称练箭时扭伤。",
+   "relation": "艾莉丝—蒂尔德：蒂尔德识破谎言却不点破",
+   "numbers": "",
+   "interval": [
+    18276,
+    18323
+   ],
+   "anchor": "‘I twisted it,’ she said. ‘Practising archery.’"
+  }
+ ]
+}
