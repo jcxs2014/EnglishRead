@@ -78,19 +78,7 @@ source_text: ch02
 
 **表达方式**：三个 more 排比制造「只差资源」的错觉，最后用四个词的短句一把推翻；先铺后砸，节奏本身就是论证。
 
-> **原句 3:** "That small computer in our pocket, what we call a phone, is able to converse with us in natural language, do translation of almost any language to any other language through its camera, and do object detection and tracking in real time—things that even the largest supercomputers in the world couldn’t do when I, Robot came out."
-
-**中文理解**：口袋里那台叫手机的小电脑，能用自然语言跟人对话、用摄像头把几乎任何语言互译、实时做物体识别与追踪；而这些事在《我，机器人》上映时，世界上最大的超级计算机也做不到。
-
-**关键词**：`in our pocket`、`real time`、`supercomputers`
-
-**为什么这样写**：全章最有说服力的一段对比，重点不是「AI 变强了」，而是「原本要一间机房的能力被塞进口袋」。用超级计算机作参照物，不懂技术的读者也能感到落差；时间差因此有了体积。
-
-**句子结构**：主干是 That small computer is able to converse, do translation, and do object detection；what we call a phone 是插入的同位成分；things that even the largest supercomputers... 是同位语加定语从句；句末 when I, Robot came out 是时间状语从句。
-
-**表达方式**：三个动词短语连排，模拟一份功能清单；末尾用超级计算机反衬，把进步写成「降维」而不是「升级」。
-
-> **原句 4:** "Sure enough, our protagonist doesn’t have a good comeback. If creating a symphony or painting a picture is what defines us, then those things are no longer unique to us."
+> **原句 3:** "Sure enough, our protagonist doesn’t have a good comeback. If creating a symphony or painting a picture is what defines us, then those things are no longer unique to us."
 
 **中文理解**：主角果然接不上话。如果写交响乐、画画就是人的定义，那这些事已经不再专属于人。
 
@@ -102,19 +90,7 @@ source_text: ch02
 
 **表达方式**：用「如果……那么……」把一句台词变成命题；no longer 这个时间副词是关键，它不说机器人像人，只说「专属」已经失效。
 
-> **原句 5:** "It’s like I, Robot had a coded message that gets decoded and becomes meaningful as time passes, leading us all the way to 2035. Perhaps in 2035, one could make a prequel to this movie and show how we came to be in that Chicago of 2035—except that this movie won’t be a sci-fi."
-
-**中文理解**：这部电影像一封加密的信，随时间被解码、变得有意义，一路把人带到 2035；也许到那时可以拍一部前传，讲我们怎样走到那个芝加哥——只不过那部片子不再是科幻。
-
-**关键词**：`coded message`、`prequel`、`won’t be a sci-fi`
-
-**为什么这样写**：作者要论证「电影不是预言而是镜子」，所以用解码这个比喻：意义不在片子里，在观众所处的时代。最后一句是全章论证的枢纽——如果前传只能用真实素材拍，说明现实已经追上了想象。
-
-**句子结构**：第一句主语 It 指电影，had a coded message 是比喻性的表语，that gets decoded and becomes meaningful 是定语从句，leading us all the way to 2035 是现在分词作结果状语。第二句 Perhaps 开头，one could make a prequel 是虚拟语气，to show how we came to be... 是目的状语，破折号后 except that 引出转折从句。
-
-**表达方式**：先给比喻，再给一个可检验的设想，最后收在「won’t be a sci-fi」四个词上；抒情被一句冷话截断，反而更有力。
-
-> **原句 6:** "The first law talks about not harming a human, but what if your action of saving one human harms the other? In cases like what that robot encountered with saving the victims of a car crash, when an impossible choice is given about whom to save, how do you decide?"
+> **原句 4:** "The first law talks about not harming a human, but what if your action of saving one human harms the other? In cases like what that robot encountered with saving the victims of a car crash, when an impossible choice is given about whom to save, how do you decide?"
 
 **中文理解**：第一定律说的是不伤害人类，可如果救一个人就会伤到另一个人呢？像那台机器人遇到的车祸现场，当必须在两个人之间二选一时，你凭什么决定？
 
@@ -126,7 +102,7 @@ source_text: ch02
 
 **表达方式**：连续两个问句都不给答案；impossible choice 与 whom to save 把抽象伦理压成一个具体的二选一。
 
-> **原句 7:** "While we humans like to rationalize and optimize things whether it’s our bets on the stock market or the selection of college majors, we still go with our heart and moral values while making many decisions. Caring and sacrificing for our loved ones aren’t a calculated decision for us; it’s an emotional and a social one."
+> **原句 5:** "While we humans like to rationalize and optimize things whether it’s our bets on the stock market or the selection of college majors, we still go with our heart and moral values while making many decisions. Caring and sacrificing for our loved ones aren’t a calculated decision for us; it’s an emotional and a social one."
 
 **中文理解**：我们会在股票、择校这类事上精打细算，但许多决定仍然跟着心与道德走；为亲人付出与牺牲不是算出来的，它是情感性的、社会性的。
 
@@ -138,7 +114,7 @@ source_text: ch02
 
 **表达方式**：用「不是……而是……」的对举给价值下定义；分号把两种性质并置，语气笃定。
 
-> **原句 8:** "But how do you express this value system in a way that an artificial entity can understand and implement it? Not everything can be codified and some things require experience, reasoning, and compromises to understand and internalize."
+> **原句 6:** "But how do you express this value system in a way that an artificial entity can understand and implement it? Not everything can be codified and some things require experience, reasoning, and compromises to understand and internalize."
 
 **中文理解**：可你要怎样把这套价值系统表达成机器能懂、能执行的形式？不是所有东西都能写成条文，有些东西要靠经验、推理与妥协才能理解并内化。
 
@@ -150,7 +126,7 @@ source_text: ch02
 
 **表达方式**：先问「怎么表达」，再答「有些表达不了」；用部分否定避免绝对化，同时保住结论的力度。
 
-> **原句 9:** "Killer robots and AI taking over the world may catch our attention more, but perhaps they are less likely to happen. What is more likely to happen is a lot less direct and in a lot more subtle way."
+> **原句 7:** "Killer robots and AI taking over the world may catch our attention more, but perhaps they are less likely to happen. What is more likely to happen is a lot less direct and in a lot more subtle way."
 
 **中文理解**：杀手机器人、AI 接管世界这类事更能抓住注意力，但也许更不可能发生；更可能发生的事要间接得多，也隐蔽得多。
 
@@ -162,7 +138,7 @@ source_text: ch02
 
 **表达方式**：用「更抓眼球 / 更不可能」对「更可能 / 更隐蔽」两组对照，把戏剧性与概率拆开；比较级的滑动感让结论显得谨慎而不是耸动。
 
-> **原句 10:** "There was a 2016 article in ProPublica, an issues-driven, investigative journalism publication that I read when I can, that discussed using an ML-based software called COMPAS, which stood for Correctional Offender Management Profiling for Alternative Sanctions, in determining the likelihood of a convicted felon to recommit a crime if released."
+> **原句 8:** "There was a 2016 article in ProPublica, an issues-driven, investigative journalism publication that I read when I can, that discussed using an ML-based software called COMPAS, which stood for Correctional Offender Management Profiling for Alternative Sanctions, in determining the likelihood of a convicted felon to recommit a crime if released."
 
 **中文理解**：2016 年 ProPublica 上有一篇文章，讨论一款叫 COMPAS 的机器学习软件——全称是「替代性制裁的矫正罪犯管理画像」——用它来判断已定罪者获释后再犯罪的可能性。
 
@@ -174,19 +150,7 @@ source_text: ch02
 
 **表达方式**：名词堆叠显出新闻从业者的口吻；把缩写展开成全称，让「替代性制裁」这个词本身的算计意味露出来。
 
-> **原句 11:** "It turns out that the data used to train AI systems for facial recognition was heavily biased toward white males. So it would do a great job for that class of subjects and do poorly for minority classes, yet achieving overall high performance marks."
-
-**中文理解**：用于训练人脸识别的数据严重偏向白人男性；所以系统对这一类人表现很好，对少数群体很差，整体指标却依然漂亮。
-
-**关键词**：`heavily biased`、`minority classes`、`overall high performance marks`
-
-**为什么这样写**：这一句把「平均值陷阱」说穿：高分与公平可以同时不成立。作者紧接着在下一段引入 Simpson's Paradox 与伯克利录取数据，这句是那条统计线索的入口。
-
-**句子结构**：第一句 It turns out that 引导主语从句，从句为被动语态。第二句 So 引出结果，would do a great job for... and do poorly for... 并列，yet achieving overall high performance marks 是现在分词短语作让步状语。
-
-**表达方式**：great、poorly、high 三个评价词放在同一句里互相拆台；yet 一词让「整体优秀」变成反讽。
-
-> **原句 12:** "There are no killer robots or superintelligent AI that are out to destroy the world. It is a whole bunch of everyday systems with different levels of AI embedded in them doing harm in everyday situations."
+> **原句 9:** "There are no killer robots or superintelligent AI that are out to destroy the world. It is a whole bunch of everyday systems with different levels of AI embedded in them doing harm in everyday situations."
 
 **中文理解**：没有杀手机器人，也没有要毁灭世界的超级智能；有的是一大堆嵌着不同程度 AI 的日常系统，在日常情境里造成伤害。
 
@@ -198,19 +162,7 @@ source_text: ch02
 
 **表达方式**：几乎不用形容词，只靠名词的日常性（systems、situations）降温；把「毁灭世界」与「日常伤害」并置，制造尺度上的不适。
 
-> **原句 13:** "Many have lost their jobs and will continue losing their jobs because someone figured out a way to replace them with AI for cost-cutting and other efficiency measures without enough testing of those AI systems for potential for bias or hallucination—a form of fabricated responses that are untrue or unaccountable."
-
-**中文理解**：许多人已经失业，还会继续失业，因为有人找到了用 AI 替代他们的办法来省钱提效，却没有充分测试这些系统在偏见或幻觉上的风险——幻觉就是编造出不真实、无法追责的回答。
-
-**关键词**：`cost-cutting`、`hallucination`、`unaccountable`
-
-**为什么这样写**：作者把「部署动机」与「测试缺失」并置：不是有人恶意，而是省钱的压力跳过了验证。这句同时给出全书对 hallucination 的定义，说明他要谈的不只是偏见。
-
-**句子结构**：主句是 Many have lost their jobs and will continue losing their jobs；because 从句说明原因，someone figured out a way to replace them with AI for... 是宾语从句；without enough testing of those AI systems for... 是介词短语作状语；破折号后 a form of fabricated responses... 是 hallucination 的同位语。
-
-**表达方式**：现在完成时与将来进行时叠用（have lost / will continue losing），写出持续感；破折号后的定义句当场解释术语，避免读者掉队。
-
-> **原句 14:** "The evil forces are not some external entities, but things intertwined with our everyday living. The good guys are not some heroes riding in with a good heart and might, but all of us who could recognize our role and responsibilities at this crossroads."
+> **原句 10:** "The evil forces are not some external entities, but things intertwined with our everyday living. The good guys are not some heroes riding in with a good heart and might, but all of us who could recognize our role and responsibilities at this crossroads."
 
 **中文理解**：恶的力量不是外部的实体，而是缠在我们日常里的东西；好人也不是带着善心与武力赶来的英雄，而是所有能在这个路口认出自己角色与责任的人。
 
