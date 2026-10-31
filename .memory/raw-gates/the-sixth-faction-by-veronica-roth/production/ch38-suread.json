@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch38",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch38_chap38.txt",
+ "facts": [
+  {
+   "fact": "开场 Four 刚从和 Tris 的相处里走开，人在发懵；他说要回公寓，其实只是拿它当借口，好多拖一点两人剩下的时间。",
+   "anchor": "I’m dazed, walking back to my apartment.",
+   "start": 40,
+   "end": 80
+  },
+  {
+   "fact": "石坑边半班新生聚着举杯，纪念他们的入门教官 Amar，他死了快两年。",
+   "anchor": "It’s been almost two years since Amar—our initiation instructor—died.",
+   "start": 1693,
+   "end": 1762
+  },
+  {
+   "fact": "官方说他跳下去了，Four 不信这个说法。",
+   "anchor": "They claimed he jumped, but I’m not convinced.",
+   "start": 1823,
+   "end": 1869
+  },
+  {
+   "fact": "Amar 死前不久才亲口告诉 Four 自己是 Divergent，说的时候还挺高兴，像不知道这句话的分量。",
+   "anchor": "He died right after he told me—cheerful, like he didn’t know what it meant—that he was Divergent.",
+   "start": 1874,
+   "end": 1971
+  },
+  {
+   "fact": "Four 在食堂找 Tori 打听白天那个女孩，Tori 说她给 Tris 做过能力倾向测试。",
+   "anchor": "Tori raises an eyebrow. “I administered her aptitude test.”",
+   "start": 4830,
+   "end": 4889
+  },
+  {
+   "fact": "Tori 建议他把那份记录清掉，别让一个无派别的人的名字留在数据里。",
+   "anchor": "“If I were you, I’d clean up the log anyway,” Tori says.",
+   "start": 6398,
+   "end": 6454
+  },
+  {
+   "fact": "不该有人在没有观察员的情况下跑恐惧模拟；有权限这么做的只有 Harrison、Max、Eric 三个领导。",
+   "anchor": "No one is supposed to run a fear simulation without an observer.",
+   "start": 7615,
+   "end": 7679
+  },
+  {
+   "fact": "他让模拟器投出上一个进入者的影像，站在厨房场景里的正是 Erudite 的领袖 Jeanine Matthews。",
+   "anchor": "She’s Jeanine Matthews. Leader of Erudite.",
+   "start": 9418,
+   "end": 9460
+  }
+ ]
+}

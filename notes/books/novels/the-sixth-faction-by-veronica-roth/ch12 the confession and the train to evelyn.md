@@ -19,7 +19,7 @@ modified: "2026-10-31"
 
 **中文理解**：那天夜里很热，所以窗全开着，可空气一动不动，开着也等于关着。她听着 Mary 的鼾声，指望这声音把自己哄睡，但没用。
 **关键词**：all the windows are open, the air is so still, Mary’s snores, there’s no point
-**为什么这样写**：第一句就把「开」和「关」拉平成同一件事——窗户开着，效果等于关着，环境白给了她一个出口。第二句重复同样的结构：她抓住鼾声当安眠药，随即用四个词判它无效（there’s no point）。两个句子都是「做了一件事 + 它不成立」，失眠因此不是情绪，而是一种反复落空的机制。
+**为什么这样写**：第一句就把「开」和「关」拉平成同一件事——窗户开着，效果等于关着，环境白给了她一个出口。第二句重复同样的结构：她抓住鼾声当安眠药，随即用三个词判它无效（there’s no point）。两个句子都是「做了一件事 + 它不成立」，失眠因此不是情绪，而是一种反复落空的机制。
 **读者视角提示**：注意 she 没有说自己焦虑。她把原因全推给天气和别人，读者只能从「指望」这个词里听见她其实在求什么东西把她按下去。
 
 > **原句 2:** "It’s like my mother said: The council thinks the people who attacked the Choosing Ceremony are just a group of upstarts, the kind to randomly fire into a crowd. And maybe they’re right—but what if they’re not?"
@@ -54,7 +54,7 @@ modified: "2026-10-31"
 
 **中文理解**：「我了解到她对无派系者很重要。而且我曾经帮过她做一件跟你现在做的完全一样的事，所以她欠我一个人情。她答应照看你。」
 **关键词**：important to the factionless, the exact same thing, she owes me a favor, look out for you
-**为什么这样写**：I’m given to understand 是句绕开来源的说法——她知道，但不说怎么知道。接着 the exact same thing 把二十年前的自己叠到女儿身上：母亲也叛逃过。最后一句从人情债转到承诺，托付被写成一次结算，而不是一次请求。
+**为什么这样写**：I’m given to understand 是句绕开来源的说法——她知道，但不说怎么知道。接着 the exact same thing 把当年的自己叠到女儿身上：母亲也叛逃过。最后一句从人情债转到承诺，托付被写成一次结算，而不是一次请求。
 **读者视角提示**：她说的是「她欠我」，不是「我求她」。这一句把她从「无助的母亲」变成「有账可收的人」。
 
 > **原句 7:** "I sit up, dazed, to see my mother swinging into the same car, her hand still on one of the handles next to the door. Her hair isn’t even out of place. I feel like I’m looking at a woman I’ve never met before, one who just happens to be wearing my mother’s skin."

@@ -97,7 +97,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：一句里摆了两个 either/or，两条都是她的收获，没有一条是他的出路。laid out before her 是陈列的语气：他的恐惧被摊开，供人观看。Abnegation’s moral corruption 是对方那一派的口径，作者让他用她的词去想这件事，说明他已经站进对方的语法里了。
 
-**读者视角提示**：这块是整章的结算。他原以为事情只是系统，站到这儿才明白自己被当成两种证据之一。no matter what 这四个词一落下，后面所有对话都成了走过场。
+**读者视角提示**：这块是整章的结算。他原以为事情只是系统，站到这儿才明白自己被当成两种证据之一。no matter what 这三个词一落下，后面所有对话都成了走过场。
 
 > **原句 9:** "“And in that memory, you behaved exactly as you did in the past,” she says. “I suppose, in order for the pattern to be broken, a person has to undergo significant change before they’ll make different choices in their memory. That is, if they’re not aware during the simulation.”"
 

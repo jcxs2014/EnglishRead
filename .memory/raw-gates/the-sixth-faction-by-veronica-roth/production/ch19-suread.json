@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch19",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch19_chap19.txt",
+ "facts": [
+  {
+   "fact": "他在 Zeke 家待到深夜：Zeke 硬要教他打扑克，Zeke 与 Uriah 把他当筹码的豆子赢了个精光；他抄近路穿过 The Pit 回家，图的是探视日那片地方人少。",
+   "anchor": "Zeke insisted on teaching me how to play poker",
+   "start": 98,
+   "end": 144
+  },
+  {
+   "fact": "新兵宿舍里 Christina 仰面倒地、双手抓着自己的脸，一只眼睛里插着黄油刀的刀柄；他闯进去时她正躺在地上扭动、一声声地哭。",
+   "anchor": "is the handle of a butter knife",
+   "start": 1221,
+   "end": 1252
+  },
+  {
+   "fact": "他不许她把刀拔出来，攥住她手腕，说必须先送医院、他会陪她去；她只抽泣了几秒，吸一口气答了 Okay。",
+   "anchor": "we have to get you to the hospital first",
+   "start": 2175,
+   "end": 2215
+  },
+  {
+   "fact": "他让 Lynn 去叫 Shauna；Will 问要不要通知 Eric，他摇头改口要 Max，又交代 Uriah 在 Max 听到经过之前不许任何人离开。",
+   "anchor": "Don’t let anyone leave until Max hears what happened",
+   "start": 4715,
+   "end": 4767
+  },
+  {
+   "fact": "医院里 Eric 站在床尾，说 Christina 已经「无法继续参加 Dauntless 的入门训练」；若她弃权最后一场，排名就会落到淘汰线以下。",
+   "anchor": "unable to continue in Dauntless initiation",
+   "start": 6398,
+   "end": 6440
+  },
+  {
+   "fact": "Christina 打断他，说不想再做 Dauntless 了，让他把 Eric 赶出去；Eric 走后她问父母能不能收留她一阵。",
+   "anchor": "I don’t want to be Dauntless anymore",
+   "start": 7160,
+   "end": 7196
+  },
+  {
+   "fact": "他提出「我知道一个可以去的地方」——无派系者的安全屋；他很清楚 Evelyn 会照办，哪怕只是为了将来利用他。",
+   "anchor": "I know a place you can go",
+   "start": 8703,
+   "end": 8728
+  },
+  {
+   "fact": "大厅对面站着 Tris；她隔着静下来的房间开口，问要不要她去叫 Evelyn。",
+   "anchor": "Do you want me to go get Evelyn",
+   "start": 12725,
+   "end": 12756
+  }
+ ]
+}

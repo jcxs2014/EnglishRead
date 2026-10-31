@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch16",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch16_chap16.txt",
+ "facts": [
+  {
+   "fact": "Tris 连着几天去找那群把偷来的食物带进 Rookery 食堂的 Foxes，再没碰上他们。",
+   "anchor": "I look for the Foxes I saw bring stolen food into the Rookery dining room",
+   "start": 64,
+   "end": 137
+  },
+  {
+   "fact": "每天日出前她先跟众人跑步，跑完帮 Rory 做早饭；随后学太阳能板、净水器、蜂场、堆肥堆这些活。",
+   "anchor": "After I run I help Rory make breakfast",
+   "start": 641,
+   "end": 679
+  },
+  {
+   "fact": "每天傍晚 Jove 带他们去看无派系者建起来的各处设施：沼泽边的玻璃温室和半毁的博物馆。",
+   "anchor": "Jove leads mandatory field trips every evening",
+   "start": 1443,
+   "end": 1489
+  },
+  {
+   "fact": "她唯一想得下去的是 Foxes、Evelyn 在择派仪式上握的枪，以及那颗子弹若不是为 Robert 又是为谁。",
+   "anchor": "the gun in Evelyn’s hand at the Choosing Ceremony",
+   "start": 2107,
+   "end": 2156
+  },
+  {
+   "fact": "第五天傍晚她在无派系者宿舍走廊的水槽边连喝两杯水，想起每年生日前夜和 Caleb 轮流喝一杯水的旧例。",
+   "anchor": "I stand at the sink down the hall from the faction failures’ dormitory",
+   "start": 2259,
+   "end": 2329
+  },
+  {
+   "fact": "她把自己折进洗碗槽下腾空的柜子偷听 Foxes 的晨会，被 Gretchen 打开柜门当场发现。",
+   "anchor": "The cabinet opens. Gretchen looks at me for a few seconds, then crosses her arms.",
+   "start": 4856,
+   "end": 4937
+  },
+  {
+   "fact": "Colin 直言她又小又弱，说练出力气至少要六周。",
+   "anchor": "It takes six weeks to build strength",
+   "start": 9894,
+   "end": 9930
+  },
+  {
+   "fact": "Weaver 指控 Jove 带新人来是为了把拘留所的警力调走，并称无派系者放走了至少十个人；她还扣下一箱纸制品当报复。",
+   "anchor": "broke at least ten people out of their holding cells",
+   "start": 20710,
+   "end": 20762
+  }
+ ]
+}

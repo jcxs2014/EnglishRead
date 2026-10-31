@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch06",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch06_chap6.txt",
+ "facts": [
+  {
+   "fact": "Beatrice 在公交站就能看见派系大厅，手在出汗，开场即紧张的生理反应。",
+   "anchor": "My hands are sweaty. I can see the Hall of Factions from the bus stop",
+   "start": 42,
+   "end": 111
+  },
+  {
+   "fact": "今年参加 Choosing Ceremony 的十六岁孩子共九十人，比往年都少；其中 Abnegation 只占十二人。",
+   "anchor": "There are ninety of us, a smaller class than usual, and of those, there are only twelve from Abnegation.",
+   "start": 1933,
+   "end": 2037
+  },
+  {
+   "fact": "排队等仪式开始时，父亲伸手握了握她的手。",
+   "anchor": "I feel a warm hand squeeze mine: my father’s.",
+   "start": 2042,
+   "end": 2087
+  },
+  {
+   "fact": "Marcus Eaton 在仪式演说里讲：创始人认为人类因共有的深重缺陷而联合，缺陷必须被纠正。",
+   "anchor": "Human beings are united in that they are deeply flawed.",
+   "start": 4549,
+   "end": 4604
+  },
+  {
+   "fact": "演说进行到一半，头顶所有天窗同时碎裂。",
+   "anchor": "And then all the skylights above us shatter at once.",
+   "start": 7072,
+   "end": 7124
+  },
+  {
+   "fact": "黑暗中有人高喊「Death to factions」，五面派系旗被割落，一面新旗升起来。",
+   "anchor": "“Death to factions!” a voice shouts",
+   "start": 7549,
+   "end": 7584
+  },
+  {
+   "fact": "她在楼侧认出场中那个持枪的女人：Marcus 已经死去的妻子 Evelyn Eaton，如今活着。",
+   "anchor": "Evelyn Eaton. Marcus Eaton’s dead wife.",
+   "start": 11186,
+   "end": 11225
+  },
+  {
+   "fact": "结尾 Caleb 抱住她，告诉她 Robert 死了。",
+   "anchor": "“Robert,” he says. “Robert’s dead.”",
+   "start": 12889,
+   "end": 12924
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch35",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch35_chap35.txt",
+ "facts": [
+  {
+   "fact": "Tris 被送出 Erudite 总部时问时间，得知已是六点，她在楼里待了一小时",
+   "anchor": "he tells me it’s six o’clock—an hour after I first arrived in Erudite headquarters",
+   "start": 297,
+   "end": 379
+  },
+  {
+   "fact": "巷子尽头转身走开的那个人影是 Eric，Dauntless 的领袖",
+   "anchor": "It’s Eric, the Dauntless leader.",
+   "start": 703,
+   "end": 735
+  },
+  {
+   "fact": "Tris 看不出 Eric 刚收进枪套的枪是麻醉针枪，还是从墙上取走的致命武器",
+   "anchor": "the gun he’s now holstering has the iridescent stripe of a needle gun",
+   "start": 1149,
+   "end": 1218
+  },
+  {
+   "fact": "她第一次想到，能拿到墙边武器的并不只有 factionless",
+   "anchor": "I never considered that the factionless aren’t the only ones with access to the weapons at the wall.",
+   "start": 1428,
+   "end": 1528
+  },
+  {
+   "fact": "她追着第四节车厢跑，因为 factionless 的应急包放在那一节",
+   "anchor": "I run alongside the fourth car, since it’s the one that will have the factionless emergency bag inside it.",
+   "start": 2679,
+   "end": 2785
+  },
+  {
+   "fact": "Eric 在前面上了第一节车厢，比她先上车",
+   "anchor": "He gets on ahead of me, in the first car.",
+   "start": 3578,
+   "end": 3619
+  },
+  {
+   "fact": "Eric 对那个看不见的人说他们有一个硬性的截止期限",
+   "anchor": "We have a hard deadline",
+   "start": 5180,
+   "end": 5203
+  },
+  {
+   "fact": "在通往下层 Pit 的石路上，一只手抓住她的肩膀把她扳过来",
+   "anchor": "Then a hand grabs my shoulder and wrenches me around.",
+   "start": 6366,
+   "end": 6419
+  }
+ ]
+}

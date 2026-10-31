@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch36",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch36_chap36.txt",
+ "facts": [
+  {
+   "fact": "开篇：Eric 把 Tris 按在 Dauntless 总部墙上，压得她喘不上气，她越过他肩膀叫出 Uriah 的名字求救。",
+   "anchor": "He’s pushing so hard against my chest that it’s hard for me to breathe.",
+   "start": 40,
+   "end": 111
+  },
+  {
+   "fact": "她抢在 Uriah 之前撒谎：自己十五岁、还没选派系，所以出现在这里不算违规。",
+   "anchor": "“Fifteen,” I say, interrupting him. “I’m fifteen. I haven’t chosen yet.”",
+   "start": 863,
+   "end": 935
+  },
+  {
+   "fact": "Eric 只肯说他看见她下火车，不敢当众承认自己是在 Erudite 总部撞见她。",
+   "anchor": "I just saw you get off a train. Where were you?",
+   "start": 1127,
+   "end": 1174
+  },
+  {
+   "fact": "她的第二个谎：说自己是想哥哥想得受不了，才偷溜进 Erudite 总部去看刚选了派的 Caleb。",
+   "anchor": "I went to see my brother",
+   "start": 1363,
+   "end": 1387
+  },
+  {
+   "fact": "脱身之后她谢 Uriah；Uriah 说他帮她是因 Eric 讨人厌，但她若不说实话，他就把她送出楼。",
+   "anchor": "“Thanks for that,” I say to Uriah.",
+   "start": 2516,
+   "end": 2550
+  },
+  {
+   "fact": "她本想编第三个谎，最后说是来找 Four；Uriah 自己想到两人都出自 Abnegation，指她去纹身店。",
+   "anchor": "“I’m here to”—Lie faster",
+   "start": 3191,
+   "end": 3215
+  },
+  {
+   "fact": "她把在 Erudite 看到的事告诉 Four：Eric 是在和 Jeanine Matthews 会面，而 Dauntless 的代表本应是 Max Young。",
+   "anchor": "He was meeting with Jeanine Matthews",
+   "start": 11369,
+   "end": 11405
+  },
+  {
+   "fact": "章末她决定不再隐瞒：既然他能在恐惧模拟里看见别人的恐惧，她就把自己交出去，以信任换取对等。",
+   "anchor": "Because I’m going to trust you",
+   "start": 13412,
+   "end": 13442
+  }
+ ]
+}

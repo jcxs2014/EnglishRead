@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch03_chap3.txt",
+ "facts": [
+  {
+   "fact": "开场：Beatrice 和哥哥 Caleb 与 Robert、Susan 及几个更小的 Abnegation 一起穿过无人派系区，走去公交站上学，她因为今天的倾向测试而胃里发沉。",
+   "anchor": "I step closer to Caleb as we enter the factionless sector",
+   "start": 42,
+   "end": 99
+  },
+  {
+   "fact": "巷子里有个裹着各派系颜色布料的无派系女人，Robert 替她收集大家午餐盒里的苹果，Beatrice 没争辩就交出了自己的那份。",
+   "anchor": "Robert is collecting apples from everyone’s lunches to give her",
+   "start": 735,
+   "end": 798
+  },
+  {
+   "fact": "公交司机是 Abnegation 的志愿者，发型与炭灰色裤子都和 Beatrice 一样，让她觉得「她简直就是我」；她说全天只有公交上各派系才会这样混在一起。",
+   "anchor": "The driver is an Abnegation volunteer, her hair pinned back just like mine",
+   "start": 1934,
+   "end": 2008
+  },
+  {
+   "fact": "六年前、Beatrice 十岁起各派系的学生才同校（此前由本派系自己教），现在是十六岁，当天直接去考倾向测试，不必先回班级。",
+   "anchor": "We only started going to school with the other factions six years ago, when I was ten years old",
+   "start": 3199,
+   "end": 3294
+  },
+  {
+   "fact": "Robert 与 Beatrice 每天早晨躲进图书馆、爬上椅子推开窗，看 Dauntless 从不停站的列车上跳下站台；她承认自己不够无私，也不确定该属于哪里。",
+   "anchor": "The train reaches the platform, slowing but not stopping",
+   "start": 4286,
+   "end": 4342
+  },
+  {
+   "fact": "在食堂等待叫号时，Beatrice 观察各派系玩的游戏：Erudite 玩六角形策略棋，Candor 玩吵嚷的文字游戏，Amity 画画互评，Dauntless 玩拍手游戏，Abnegation 只是坐着等。",
+   "anchor": "In between those moments, I watch the factions play their favorite games",
+   "start": 5711,
+   "end": 5783
+  },
+  {
+   "fact": "测试管理员是黑发高个女人，喉咙上纹着鹰；她自称 Tori，让 Beatrice 坐上扶手椅，用注射器把微型收发器与接收器打进她体内。",
+   "anchor": "a tall black-haired woman with a hawk tattooed on her throat",
+   "start": 6924,
+   "end": 6984
+  },
+  {
+   "fact": "Tori 解释：这些微型收发器十六岁考试时就被打进脑内并终身留在那里，领导者靠它们与大型计算机对接，把记忆存进 Memory Vault。",
+   "anchor": "They interface with a big, powerful computer",
+   "start": 9194,
+   "end": 9238
+  }
+ ]
+}

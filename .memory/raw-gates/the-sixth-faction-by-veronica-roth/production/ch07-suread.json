@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch07",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch07_chap7.txt",
+ "facts": [
+  {
+   "fact": "父亲在厨房洗碗时告诉 Beatrice，Robert 是被枪杀的，不是被人群挤死或在混乱中受伤。",
+   "anchor": "“He was shot,” my father says.",
+   "start": 2616,
+   "end": 2646
+  },
+  {
+   "fact": "父亲说不是墙卫带错枪，而是无派系者从墙上偷了一把枪，在那个女人从梁上掉下来之后动手报复。",
+   "anchor": "One of those factionless stole a gun from the wall, and after that woman fell from the rafters, they retaliated. They turned to violence.",
+   "start": 3430,
+   "end": 3567
+  },
+  {
+   "fact": "Abnegation 葬礼的固定流程：火化入瓮、邻里送饭陪坐、宗教仪式、家人做纪念砖。",
+   "anchor": "The body is cremated and placed in an urn; people bring food to the family of the deceased and sit with them; there’s a religious service, and then the family makes a memorial stone.",
+   "start": 4951,
+   "end": 5133
+  },
+  {
+   "fact": "追悼队伍走到工坊，Mrs. Black 抖得帮不上手，由 Susan 把 Robert 的骨灰倒进黏土、帮父亲搅拌并亲手压成砖。",
+   "anchor": "Susan is the one who pours Robert’s ashes into the clay and helps her father mix it and forms the stone with her small, delicate hands.",
+   "start": 5822,
+   "end": 5957
+  },
+  {
+   "fact": "早餐后一位叫 Tabitha 的女人带来口信：议会认定不宜再集中举行选择仪式，各派系当天分别举行。",
+   "anchor": "each faction is conducting theirs separately. Today.",
+   "start": 7146,
+   "end": 7198
+  },
+  {
+   "fact": "Susan 看着 Robert 的空椅子说，草长、花开、果熟，都不问人什么时候该来。",
+   "anchor": "Weeds grow, flowers bloom, fruit ripens.",
+   "start": 7700,
+   "end": 7740
+  },
+  {
+   "fact": "Caleb 在仪式上割破手指，血落进水里——他选了 Erudite，不是 Abnegation。",
+   "anchor": "as his blood falls into the water instead.",
+   "start": 14273,
+   "end": 14315
+  },
+  {
+   "fact": "Beatrice 上前割手，血落在石头上（Abnegation），随即知道自己选错了。",
+   "anchor": "I thrust my hand out, and my blood falls on the stones.",
+   "start": 16248,
+   "end": 16303
+  }
+ ]
+}

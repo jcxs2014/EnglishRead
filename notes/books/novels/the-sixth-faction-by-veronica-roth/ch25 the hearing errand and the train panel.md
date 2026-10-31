@@ -27,7 +27,7 @@ modified: "2026-10-31"
 **中文理解**：这一整天都花在搬去 Museum 上。Museum 和 Rookery 一样，好看，但破。让她意外的是无派系者收拾自己全部家当有多容易——只跑了一趟；到的时候，Museum 原本的住户已经准备好，腾出了一间展厅。
 **关键词**：spent moving to the Museum / beautiful, though decrepit / packed up their entire lives / how it took only one trip / an exhibit hall already cleared out
 **为什么这样写**：第三句连着三个 how 从句，都是她没料到的部分：收得快、跑得少、对方还提前腾了地方。三个从句里没有一个形容词，全是动作和数量，惊讶因此落在事实上而不是感叹上。beautiful, though decrepit 这半句也值得留意：她夸一个地方时习惯先夸再打折，这个句式后面还会出现很多次。
-**读者视角提示**：上一章 Weaver 限他们两天搬空，这一章一天就搬完了。「全部家当只要一趟」这件事，比任何描写都更能说明这群人剩下多少东西。
+**读者视角提示**：ch23 里 Weaver 限他们两天搬空，这一章一天就搬完了。「全部家当只要一趟」这件事，比任何描写都更能说明这群人剩下多少东西。
 
 > **原句 3:** "The smell of the place—clean cardboard, white vinegar, and laundry detergent—brings tears to my eyes. It’s so familiar and so far from me. Then I’m enveloped in my mother’s arms, my head tucked into her shoulder."
 
@@ -41,7 +41,7 @@ modified: "2026-10-31"
 **中文理解**：今天早上，Mender 把一只袋子甩上肩、走去新住处的时候，手在抖。决定他命运——也决定他妹妹命运——的听证就在明天。
 **关键词**：the Mender’s hands shook / heaved a bag over his shoulder / the new safe house / determine his fate / his sister’s fate
 **为什么这样写**：先给身体，再给原因。手抖放在 heaved 之后，说明他连搬东西都在硬撑；fate 用了两次，中间夹一个破折号，把两个人的命绑在同一场听证上，也把「他」和「她」摆成同一件事。safe house 这个词本身是反讽：房子是安全的，人不是。
-**读者视角提示**：上一章这双手还伸向过哨兵腿上的枪。此刻它在抖，做的事是搬家——同一双手，隔了一天，落在完全不同的场合。
+**读者视角提示**：ch23 里这双手还伸向过哨兵腿上的枪。此刻它在抖，做的事是搬家——同一双手，隔了一天，落在完全不同的场合。
 
 > **原句 5:** "At first, my only interest in joining them was about Robert and the gun and the factionless plan. But the more I learn about them, the more I think I might actually enjoy being one of them. I’m still bursting at the seams with questions about how the city works and what’s really going on inside it."
 

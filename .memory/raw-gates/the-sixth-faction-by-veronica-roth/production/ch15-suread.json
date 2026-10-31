@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch15",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch15_chap15.txt",
+ "facts": [
+  {
+   "fact": "Evelyn 下火车后把 Tris 领进一座废弃教堂，里面黑到看不清路，地板中央塌陷，她让 Tris 贴着边走。",
+   "anchor": "Evelyn takes us to an abandoned church",
+   "start": 68,
+   "end": 106
+  },
+  {
+   "fact": "Evelyn 用腰上那把刀撬开汤罐的铁盖，就着破口喝冷汤，嘴唇贴住参差的金属。",
+   "anchor": "She uses the knife at her hip to carve the lid open, then sips it, cold",
+   "start": 477,
+   "end": 548
+  },
+  {
+   "fact": "日出前 Evelyn 说现在回去也没人知道；Tris 承认这提议诱人，「是」几乎停在舌尖，但她想到自己留下的字条和想要的答案，最后答 No。",
+   "anchor": "you could go back now and no one would be the wiser",
+   "start": 2248,
+   "end": 2299
+  },
+  {
+   "fact": "Evelyn 把城里的无派系者分成两类，说六年前几个人决定不再那样活，凑到一起在五个派系眼皮底下建更好的东西；她们有三处安全屋：Rookery、Museum、Conservatory。",
+   "anchor": "Six years ago, a few of us decided we didn’t have to live that way",
+   "start": 4095,
+   "end": 4161
+  },
+  {
+   "fact": "Evelyn 为中庭那场戏道歉，承认冷汤加硬板凳那一夜是为了确认 Tris 是否真的下定决心。",
+   "anchor": "I needed to make sure you were committed",
+   "start": 6121,
+   "end": 6161
+  },
+  {
+   "fact": "Tris 意识到自己站在一个隐藏的第六个派系总部里，而这个组织奉为德性的正是「无派系」；Rory 给她的三条规矩是不被抓、要有用、放下旧制度。",
+   "anchor": "the virtue it wraps itself around is",
+   "start": 10508,
+   "end": 10544
+  },
+  {
+   "fact": "Mender 说母亲骗过了真话血清，他们也不知道她怎么做到的；Tris 立刻明白那是 Divergent 的手法，跟她自己做过的一样。",
+   "anchor": "But I know exactly how the Mender’s mother",
+   "start": 21451,
+   "end": 21493
+  },
+  {
+   "fact": "Foxes 公会从 Amity 抢粮回来，Colin 说他们只偷派系、从不偷彼此；Tris 由此把这伙小偷和选择仪式上那把被从墙上偷走的枪连起来。",
+   "anchor": "They only steal from the factions",
+   "start": 27124,
+   "end": 27157
+  }
+ ]
+}

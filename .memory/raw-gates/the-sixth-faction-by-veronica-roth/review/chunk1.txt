@@ -1,0 +1,192 @@
+
+=== ①相对章号：33 行 ===
+00_情感节点.md:10 **叙事概括：** 全书的情感起点不在任何一场冲突里，而在一个不许被看见的动作里：Abnegation 禁止照镜子，她把镜子藏在楼上滑门后，用母亲的手势给自己剪头发。她想变得不一样，而这个「不一样」在她心里长成的样子，是「配得上这个家」。第
+ch01 the mirror and the scissors.md:57 **为什么这样写**：全章最短的句子留给动作本身：没有犹豫、没有后悔、没有描写头发落地。前面所有的自我劝阻（「换个发型不会改变一个人」）在这一刀面前全部失效，而作者偏不写结果——剪成什么样，要等下一章。
+ch11 stay late in the alley.md:11 - **情感弧线位置**：紧接上一章的假胜利，本章从「只需点头」的疲惫滑到后巷的摊牌，再滑到哭完之后的空：不是被救，是终于有人替她把话说出来，而那个人手里还有一整套她不知道的事。
+ch12 the confession and the train to evelyn.md:43 **为什么这样写**：整段没有一个动词表示「交给她」——纸条只是「夹在翻领下」，动作被藏进被动式（Tucked under）。这是她第一次用母亲教的方式说话：不宣布，只留东西。四个词的纸条既是请求，也是她给母亲的答复——上一章母亲给的两条路
+ch15 the rookery and the sixth faction.md:50 **为什么这样写**：another kind 三个词就把读者上一章形成的印象掰成两半：无派系者不是一种人，是两种处境。Six years ago 给这个组织一个具体起点，building 用的又是盖房子的动词，正好接住下一段她要看的那栋楼
+ch17 the recruit called four.md:13 - **人物弧线**：Tris 这一章从查案的人变成被派出去的人：她想用一次帮忙换 Evelyn 的信任，结果这次帮忙本身也是别人安排好的。她的本事在长——上一章还挂在车厢外，这一章已经能算准冲刺的时机，抓住把手把自己带进去。她对父亲的态度
+ch17 the recruit called four.md:22 **为什么这样写**：三句的落点一句比一句远：先是一个人不出声，然后是一个指控被谁采信，最后跳到「我们是什么」。despite Jove’s denial 把上一章 Jove 的否认压成一个状语——否认确实发生过，但它没起作用。末句用问句收
+ch17 the recruit called four.md:23 **读者视角提示**：她问的不是事实，是身份。上一章结尾她还在替 Jove 不平，这一句里她已经把「犯罪天才」这个词放到自己头上掂了掂。
+ch20 the tunnel and the name prior.md:11 - **情感弧线位置**：接上一章末尾那句「告诉她我会考虑」。全章从最低处往上走：她站在 Rookery 的亮光里看 Four 走进来，自己只是被点名背规矩的人；被叫 lackey 那一下是全章最疼的地方，她的反应不是反驳，是承认了一半。隧
+ch20 the tunnel and the name prior.md:12 - **Tropes 兑现/反转**：兑现「护送」——Evelyn 派她去送一个不肯被送的人，一路都在这条任务上打转。兑现「身份揭穿」——她靠两张脸的相似把 Tobias 认出来，对方当场否认这个名字。兑现「敌人变同伙」——巷口那一下两个人
+ch20 the tunnel and the name prior.md:22 **为什么这样写**：这一块只给外形和两个事实，不给她一句评价，可上一句刚说过他在月光里是「striking」、到了亮处变成「intimidating」——光的切换替她做了判断。didn’t even flinch 是全段唯一的结论性细节：
+ch20 the tunnel and the name prior.md:37 **读者视角提示**：这句话和上一章 Weaver 说的「犯罪天才组成的第六派系」是同一件事的两面。Evelyn 从不否认自己在体制外，她只是换了个更体面的说法。
+ch22 the dart gun and the feast raid.md:11 - **情感弧线位置**：接上一章她给自己找的那条路。前半程一路往上：从 Christina 那句「会不会收一个独眼姑娘」的自疑，到靶心内圈那一枪，是她在这本书里第一次尝到「擅长」的手感；盛宴把她抬到最高处，她笑得没有理由，还伸手把头发上的
+ch25 the hearing errand and the train panel.md:12 - **Tropes 兑现/反转**：兑现「回家一趟」——但回的是捐衣站后巷，不是家；母女抱在一起的味道是纸板和白醋。兑现「Mentor 给行头」——Evelyn 不是递武器，是掀开墙板给她看一整包换身份的家当。反转「母亲软弱」——母亲先道
+ch25 the hearing errand and the train panel.md:30 **读者视角提示**：上一章 Weaver 限他们两天搬空，这一章一天就搬完了。「全部家当只要一趟」这件事，比任何描写都更能说明这群人剩下多少东西。
+ch25 the hearing errand and the train panel.md:44 **读者视角提示**：上一章这双手还伸向过哨兵腿上的枪。此刻它在抖，做的事是搬家——同一双手，隔了一天，落在完全不同的场合。
+ch28 the fire and the transom window.md:51 **读者视角提示**：上一章母亲说要找人去谈的那场听证，到这里变成了一间具体的屋子。读者比人物更早看出其中的难堪：本该当庭争孩子的地方，先把孩子关了进去。
+ch29 the hospital and the fire confession.md:23 **读者视角提示**：上一章读者跟着 Tris 在火里爬，这一章换成躺在病床上的他。同一个夜晚，一个在疼，一个被困住。
+ch29 the hospital and the fire confession.md:50 **为什么这样写**：笑和咳挤在同一句里，情绪刚起就被身体接管——这一章他想说的话几乎都遇到类似的阻挡。throat burning 让人想起前一章的火，只不过这次火在他自己身上。他没解释为什么笑，读者得自己接上：母亲那句「没想到你这么在乎
+ch30 the errand and the ferris wheel.md:11 - **情感弧线位置**：Factionless 这一部的最后一章，也是全书里少数「没有火、没有追兵」的章。开头是等待与一条干净的巷子，气压低而稳；中段母亲提出请求，「My Dauntless girl」的暖意还没散，「I need you
+ch33 the erudite disguise and jeanines summons.md:64 **为什么这样写**：先写「最多的一次」，把尺度交出来，读者才知道接下来有多难。镜头这才转到肩膀：从脊柱到手臂，一个精确的范围；shiny pink skin，一个不好看的颜色。全句的分量落在最后一个短语上——the burn I got 
+ch35 eric the gun and the deadline.md:14 - **Tropes 兑现/反转**：兑现「跟踪者视角」——整章她都在别人背后：巷尾、第四节车厢、后楼梯下、石阶上方；连最关键的那把枪都因为「太远」而看不清（"I can’t see the gun from this distance"）
+ch36 the tattoo shop and the trust.md:14 - **Tropes 兑现/反转**：兑现「熟人救场」——Eric 问 “You know this girl? She’s Dauntless?”，Uriah 只答 “Of course”，刚说到 “She’s—” 就被 Tris 自己抢
+ch37 the fear simulation and the almost trust.md:18 - **叙事手法**：第一人称现在时，全章只走三个地方（总部走廊、模拟室、街上），进模拟靠一句「房间消失」完成，中间不给过渡句。模拟内部的句子越来越短，到 “I scream.” 只剩两个词；出模拟之后句子重新变长，节奏跟着她的呼吸回来。作
+ch40 the body in the chasm and the bullet.md:18 - **叙事手法**：第一人称现在时，五个场景靠走路串起来（公寓→坑底→模拟室→葬礼→回公寓），每换一次场景就换一次信息来源：身体的自动反应、别人的嘴、系统的回放、Tris 手里的实物。模拟器在这一章被用满两次：先放别人的恐惧，再放「谁来看
+ch40 the body in the chasm and the bullet.md:110 **读者视角提示**：这一块把上一章那份怀疑接到母子关系上。他怀疑的不是某个陌生人，是那个约他「在最安全的那天见面」的人——所以那颗子弹落地时，他没说话。
+ch42 tobias and tea with natalie.md:120 **读者视角提示**：这一块是他在心里对 Natalie 的还击，但他没说出口。全章他真正承认的事都发生在独白里，说出口的只有安排和交易——这条界线一直守到章末，也守到下一章。
+ch43 a shooting gallery and the roof.md:14 - **Tropes 兑现/反转**：兑现「训练场即道场」——她练的不是枪法，是面对父亲那一幕的胆量，针射出去一次，画面就回来一次。反转「派别归属」——她最后不是被谁收留，而是「我凿出来的地方」；说「我们」的时候她把自己算进 faction
+ch45 the trap in the simulation room.md:12 - **情感弧线位置**：接在 ch44 章末他坐在石头上等 Max、Eric、Jeanine 的那一刻。上一章是收紧，这一章是落地：他等的人到了，来的不是一场冲突，是一次检查。弧线从「站好、点头、别出错」开始，中间被一句 It won’t
+ch53 the countdown and the shield.md:12 - **情感弧线位置**：第三部的收束段，上一章是母亲在公寓里被枪指着被撞见，这一章把这笔账当场算清。开头是一张熟悉又陌生的脸——发髻、灰衣、锐利的眼睛；中段是谈判和倒计时，母亲的手指数到七、六、五，Eric 的枪口从头顶挪到肩膀；最低处不
+ch54 peter at the door and tris.md:12 - **情感弧线位置**：接在 ch51 章末他脱出模拟、听见 Eric 点名 Andrew Prior 之后（ch52–53 是 Tris 那条线：Eric 在 Marcus 公寓、Natalie 被枪指、Abigail Baker 被杀
+ch55 grief the roof and the gun.md:12 - **情感弧线位置**：全书六十二章里的第五十五章，紧接母亲替她挡枪的那一夜（上一章末尾 Tobias 在教堂里找到她）。这一段是全书从「失去」转向「反攻」的转轴：开头她还站在教堂门口确认自己的手指能不能动，结尾她已经带着四个人穿过半个城
+ch61 the word mom and a truce.md:12 - **情感弧线位置**：上一章是 Tris 的视角（她开枪、被带出去、听见 Caleb 瘫倒），本章切回 Four。整章是一条移动路线：门厅（对峙）→ 玻璃门外几码（Andrew 那一问）→ 台阶（Marcus 的手）→ 铁轨边（火车）。
+
+=== ②绝对断言：255 行 ===
+00_情感节点.md:52 **叙事概括：** 废弃教堂的长椅上睡满了人，冷汤罐头是入会测试；她在红砖楼八角玻璃顶的中庭里听见「第六派系」这个词，听见三条规矩与四个公会，也第一次看见有人把「没有派系」当成德性来守。她在这里遇见 Gretchen、Jove 和十三岁的 
+00_概述.md:36 **三、爱是可以被当作武器的。** Evelyn 用儿子对她的感情逼他回来，Jeanine 用「救父亲」这句话把一个儿子变成持枪的人，Caleb 用「守约」把枪口抵在朋友头上："Jeanine Matthews is a storytell
+00_概述.md:43 - 转向："“You chose the wrong faction, or you think you did,” I say. “You don’t quite fit no matter where you are. And the 
+00_概述.md:51 - 落点："“Mom,” I say, and it’s the first time I’ve called her that since she came back from the dead. It seems to startle 
+00_概述.md:66 - 她要的自由是真的，她要的复仇也是真的，两样东西她从来没有分开过。
+00_金句精选.md:19 **为什么重要**：一句话把「谣言」与「掩盖」区分开；她因此被罚沉默一整天，也第一次发现真话在这个家里是有价格的。
+00_金句精选.md:25 **上下文**：ch04 能力测试结束，Tori 关上门，把这个词第一次交给她。
+00_金句精选.md:38 **中文**：Amity 的最先落，像水波一样垂到地上，然后是 Candor 的、Erudite 的、Dauntless 的、Abnegation 的。布料皱起来之前我看清了那些符号：树、天平、眼睛、火焰，还有伸出的手。然后一面新旗在我头顶
+00_金句精选.md:54 **为什么重要**：她把即将发生的事一句一句预演出来——这是全书唯一一次她在记忆里「提前写好」台词，也是她唯一一次成功骗过机器。
+00_金句精选.md:75 **为什么重要**：全书唯一一次改名，而且是被别人的 bitterness 授权的；名字换了，别人才开始认她。
+00_金句精选.md:96 **为什么重要**：全书第一次有人当着她的面否掉一个派系，而且否得毫无戏剧性——只是为了不争了。
+00_金句精选.md:103 **为什么重要**：全书写「被允许」写得最轻的一段，也是她第一次听见有人把自由说成一种许可，而不是一种代价。
+00_金句精选.md:110 **为什么重要**：全书唯一一次她把「因果关系」当成动作来用：不是讲道理，是按下一只手。
+00_金句精选.md:117 **为什么重要**：全书唯一一次由 Four 自己承认「Tobias Eaton」还活着，而且是被一个刚认识几周的人挖出来的。
+00_金句精选.md:124 **为什么重要**：全书唯一一次她主动把「身体」当成证据使用：不是展示伤，是展示伤疤长在谁身上。
+00_金句精选.md:131 **为什么重要**：全书唯一一份对等的契约，而它的条款不是「爱我」，是「相信我」。
+00_金句精选.md:145 **为什么重要**：全书对「归属」唯一一次正面回答：不是被接纳，是自己凿。
+ch01 the mirror and the scissors.md:13 - **人物弧线**：Beatrice 从「照规矩看镜子」到「拿过剪刀」，第一次把关于自己的决定握在自己手里。
+ch01 the mirror and the scissors.md:23 **读者视角提示**：记住这个「滑动板」——本章最后一次剪发，面板是开着的；镜子的开合节奏，就是 Beatrice 在家中被允许看见自己的次数。
+ch01 the mirror and the scissors.md:51 **读者视角提示**：这是全章唯一直接说出 faction 的地方；「适合这里」与「成为另一个人」被她当成同一件事，这个等式后面会被书里的事件逐一检验。
+ch02 a question at dinner.md:13 - **人物弧线**：母亲从「让一切都显得不难」的人变成宣判的人；父亲从饭桌上的沉默变成厨房里承认自己最常被罚的同盟；Beatrice 从想成为母亲那样的人，到承认自己恨那份差事，最后在屋顶上第一次发声。
+ch02 a question at dinner.md:55 **中文理解**：被问到 Dauntless 军官那些令人不安的认知症状与进出记忆库之间的关联时，议会领袖 Marcus Eaton——顺带一提，他是全市唯一能完全进入记忆库系统的人——把指控斥为「胡扯」，并称这篇报道是 Erudite 领
+ch02 a question at dinner.md:57 **为什么这样写**：这是全章唯一一段「外面世界」的文字，而且刻意写成新闻稿的口气：被动语态（"when asked about"）、完整头衔、只给两个引号里的词（nonsense / a flagrant attempt）。最关键的信息被
+ch02 a question at dinner.md:78 **为什么这样写**：全章唯一一次说出「面具」，而且是给自己戴上的：mask slipping 不是被谁揭穿，是她自己没按住。分号后面那句把「自私」从道德判断改成生理事实——不是她选择自私，是她拦不住。承认到这一步，喊叫才有可能。
+ch02 a question at dinner.md:85 **为什么这样写**：全章最后一个动作没有宾语：scream 后面不接喊什么，也不接谁听见。前面所有的话——罚则、辩解、母亲的警告——都是被规定、被评价的言语，这一声不是话。作者用鸟代替人作反应：唯一被惊动的东西，也是唯一离场的见证者。
+ch03 the aptitude test.md:37 **读者视角提示**：这段友谊建立在「他，像我」这个条件上；这是本章唯一一处她与别人共享的秘密，记住它是谁给她的。
+ch03 the aptitude test.md:65 **读者视角提示**：她说这些是在替 Abnegation 算账，语气是嫌弃而不是讲解；听的人第一次知道这些，信息差本身就是权力差。
+ch04 divergent.md:13 - **人物弧线**：Beatrice 从被测试的人变成被要求保密的人；关于自己的真相，第一次成了要藏起来的东西。
+ch04 divergent.md:65 **读者视角提示**：这是全章唯一一处把这个词讲清楚的地方；讲完定义，Tori 没有接着解释「所以会怎么样」，这个空白是有意的。
+ch05 the choosing room and a lie.md:11 - **情感弧线位置**：测试之后的第一次「落地」——不再被针扎、被登记，而是被一个男孩陪着走、被父亲吻、被哥哥放过；越接近选择，越舍不得，也越不能说实话。
+ch05 the choosing room and a lie.md:44 **读者视角提示**：小刀、刚好见血：仪式不想真伤人，只想留下一个看得见的记号。血是这里唯一的证物。
+ch05 the choosing room and a lie.md:57 **为什么这样写**：全章最轻的动作被放在最重的位置：明天她就要做那个决定。作者只写「每晚都这样」，不写这是最后一次，读者自己会替她想到。父亲的话被压成 whispers，要贴着头皮才听得见——在这个家里，爱是每天重复的动作，不是宣言。
+ch05 the choosing room and a lie.md:108 一段回家的路让她提前看见了明天的仪式——五只碗、一把小刀、一句「平凡的勇敢」；而父亲落在她头顶的一个吻和哥哥放过的一句谎，让她第一次尝到非瞒不可的滋味。
+ch06 the ceremony and the shattered glass.md:11 - **情感弧线位置**：从 ch05 的「舍不得」推进到「来不及」——仪式前她还能被父亲握一下手、被一句「人人有权选择自己的位置」托住，几分钟后她带着被鞋底碾过的手指、记住哥哥袖子上扎着的玻璃，跑回去找家人；本章第一次出现她保护不了任何人
+ch06 the ceremony and the shattered glass.md:51 **读者视角提示**：血第一次出现不在她身上，在 Caleb 的袖子上。她看见了，但这一秒她还不知道该做什么。
+ch06 the ceremony and the shattered glass.md:72 **读者视角提示**：「她在生气」是这张官方合影里唯一没被安排好的东西。一张全家福里，只有一个人不肯配合。
+ch07 robert shot and caleb chooses erudite.md:29 **为什么这样写**：破折号卡在 Robert 后面，她第一次说不下去，那个字被吞掉了。接着两句用两个近义词把追问压平（the specifics / the particulars），给的理由却是「反正人已经没了」。作者让她先自责「我早该
+ch07 robert shot and caleb chooses erudite.md:50 **为什么这样写**：全章唯一一句像谚语的话，出自刚送走哥哥的女孩。她不说自己难过，只说三样东西各自按时发生；最后半句把「不问」摆在前面、「该来」留在最后，重音因此落在人身上。作者不解释这句是什么意思，只让场面停下来。
+ch08 the memory vault and the shared meal.md:34 **中文理解**：Marcus 说，在场有些人这是最后一次进这间屋子；记忆库是神圣的，里面存着这座城市的历史，也存着所有人的历史，所有派系的人。
+ch08 the memory vault and the shared meal.md:36 **为什么这样写**：他先给「最后一次」，再说这间屋子是什么——顺序决定分量：听众先知道自己被允许过一次，然后才知道被允许的是什么。all our people 被重复一遍，把「我们」从一派扩到全城；sacred 与 last time 并
+ch08 the memory vault and the shared meal.md:37 **读者视角提示**：「for some of you」给「最后一次」留了例外：不是所有人都只来这一回。这句例外没有解释缘由，只说明有人会被再叫进来一次。
+ch09 the answer is ignorance.md:11 - **情感弧线位置**：全书第一次离开 Beatrice 的视角。这一章不是「换边」的仪式，是换边的账单开始送到：前半是能力上的难堪（解不出、被落下），中段靠父亲的声音和一次倒读过关，后半立刻接上身份上的难堪。情绪从窒息到松一口气再到当众
+ch09 the answer is ignorance.md:43 **为什么这样写**：这一段最见功夫的是跑题。他要的是「什么都不想」，脑子却自动给石头做起分类——花岗岩、这一带最常见的石头、火成岩，接着就该轮到岩浆冷却。分类本身就是他此刻要关掉的那套思维方式：他把「清空头脑」做成了另一道题，还得自己把这
+ch09 the answer is ignorance.md:48 **中文理解**：这一次，他想着自己呼气走的那条路，把谜题倒过来读：摆脱它的唯一办法是认出它；有它的人，并不知道自己有。
+ch09 the answer is ignorance.md:50 **为什么这样写**：答案不是新知识，是同一块石头上同样的字换一个方向。他挑的参照物是呼气——气有明确的走向，从身体里出去；句子的走向也就跟着被倒过来。倒读之后最先撞上的是 recognize it：要做的不是消灭它，是把它认出来。而紧跟着
+ch10 the month of silence and the excision.md:11 - **情感弧线位置**：本章是她第一次把局面扳回来：前半是压抑（沉默、重复、Everything’s the same as it’s always been），中段是发现（Evelyn 活着），后段是审讯与切除；落点不是解脱，是明白这件
+ch10 the month of silence and the excision.md:13 - **人物弧线**：从「十六年没找到一个能忍的爱好」的窒息，到在记忆里把抬起的脚跟放回去、反而向前一步——她第一次不是被推着走；结尾她学会的第二件事是演（Pretend），而她把这份演技的示范归给父亲。
+ch10 the month of silence and the excision.md:20 **中文理解**：Eleanor 让新人把话讲完，因为跨出这间屋子之后，剩下的一个月都得闭嘴；唯一的开口条件是有人身处危险，而且没有例外。
+ch10 the month of silence and the excision.md:22 **为什么这样写**：一句话分两截：前半是许可（把话说完），后半是期限（rest of the month）。期限后面补一个唯一例外，再补三个词的否决——No exceptions——把刚打开的缝又焊死。作者让讲师用最平的语调宣布最严的规矩
+ch10 the month of silence and the excision.md:93 **读者视角提示**：这是她的第一次伪装。她演的不是「没事」，是「刚交完记忆的人该有的样子」。
+ch10 the month of silence and the excision.md:138 沉默的一个月把她按在原地，直到她在阅读室的相册里认出一个已经下葬的人；父亲要她把那段记忆切掉，她在记忆里把抬起的脚跟放下、反而向前一步，第一次自己决定要记住什么——然后学会了对父亲撒谎。
+ch11 stay late in the alley.md:13 - **人物弧线**：Beatrice 从「庆幸自己只要点头」走到自己说出第三条路，中间隔着两句认输：留下＝一辈子假装，而且假装的不只是父亲动过她的脑子，还有假装自己不好奇。母亲从父亲身边的沉默者变成有情报、有上线的人，第一次让她看见「Ab
+ch11 stay late in the alley.md:30 **读者视角提示**：全章唯一标明派系的衣服是 Erudite 衬衫，她的手在做的只是把它折出硬褶——她替别人整理，替自己什么都做不了。
+ch11 stay late in the alley.md:36 **为什么这样写**：整段没有一句「母亲要跟她说话」。传信被拆成三件东西：一摞衣服（正当理由）、一片纸（内容）、「看起来像垃圾」的外观（掩护）。unfold 是全段唯一的主动词，说明她已经接下这个约。
+ch12 the confession and the train to evelyn.md:11 - **情感弧线位置**：这是 Abnegation 部分的收束章。前半是「假装也能过」的自我说服（她一整夜在院子里把同一批念头翻来覆去），中段被 Susan 的坦白和一句「没人能永远装下去」戳破，后半转成行动：跳车那一下是全章唯一一次她不
+ch12 the confession and the train to evelyn.md:132 她原以为自己可以靠假装留在 Abnegation，是 Susan 半夜破掉的沉默誓和一句「没人能永远装下去」让她看清了这一点；她把「我需要答案」夹在衣服里交给母亲，当晚被带上行驶中的火车，见到本该死去、如今领着无派系者的 Evelyn Ea
+ch13 the mirror maze and the penalty of silence.md:13 - **人物弧线**：从「怕自己是队里最弱的一环」，到「接受帮忙、把视野缩到两只脚那么宽」，再到「在书架前第一次不必按用处挑书」。他对 Erudite 的态度在这一章从「选择」变成「享用」；对妹妹，他停在「希望她没事」，还没有动作。
+ch13 the mirror maze and the penalty of silence.md:43 **为什么这样写**：这一段借「一样的鞋」写出他童年理解集体的方式：不从脸上认人，从脚下认，因为脚是唯一整齐的部分。这个画面既好笑又准——一个把所有人看成一体的孩子，后来正是从这一体里走出来的。合唱这件事在他身上没有断，只是换了用途。
+ch13 the mirror maze and the penalty of silence.md:64 **为什么这样写**：这是新闻稿的句式：先给名目，再给时长，再给适用范围，句子之间没有过渡。最冷的一处在括号式的补充里——报道替听众翻译自家的黑话，把一件说不出口的事标成「委婉语」；于是惩罚的荒唐和报道的体面同时成立。six hours o
+ch13 the mirror maze and the penalty of silence.md:72 **读者视角提示**：「Beatrice, not as much」只有四个词，却是他第一次承认两人不一样。承认的内容不是谁对，是谁更听话。
+ch14 the roof the fight and the note.md:11 - **情感弧线位置**：这是本书第一次由 Four 的视角来写，也是 Dauntless 这条线的开场。弧线是「控制—被抽掉控制—缩回私人空间」：屋顶上他把恐惧当例行程序（他自己说恐惧过一阵子就会变得平常），训练室里一句 Excuse m
+ch14 the roof the fight and the note.md:14 - **叙事手法**：第一人称现在时，叙述者几乎不解释自己：恐惧全用身体写（脸和手发麻、腿不听使唤、胃往下坠、心跳加快），判断用短句给。全章按场景硬切：楼顶—模拟室与走廊—训练室—小练习室—公寓，中间只留一个动作过渡。训练室与练习室两场几乎
+ch14 the roof the fight and the note.md:22 **为什么这样写**：头两句用方位词铺开城市（North of me、right beside it），视线由远及近，第三句一个 But 把镜头从整座城收到一栋楼。garden lattice 是整齐的，marsh 是乱的，两种秩序并排摆着
+ch14 the roof the fight and the note.md:37 **读者视角提示**：一个怕高的人把消灭恐惧称作自己的使命。读者第一次看见他的自相矛盾：他不是不怕，他是把怕当差事。
+ch14 the roof the fight and the note.md:64 **为什么这样写**：第一句只有四个词，是结论；第二句补原理，第三句才是动作——预判、拆解、兑现，一场架在他还没出手时就已经赢完。末半句的 step back 是全场唯一一次群众动作，白线成了分界：线内两个人，线外所有人。他的权威不靠嗓门，
+ch15 the rookery and the sixth faction.md:14 - **叙事手法**：第一人称现在时，几乎不解释情绪，只给动作和清单：塌陷的地板、罐头的铁口、靴子的鞋带、衣服的来处。信息靠对白推进——Evelyn 的两段说明（两类无派系者、三处安全屋）一次铺开世界观，Rory 的三条规矩用数手指的方式报
+ch15 the rookery and the sixth faction.md:23 **读者视角提示**：她只报告看不清，没有报告怕。整章第一次真正的惊吓要等下一句那个睡在长椅上的人，而她连一句评论都省了。
+ch15 the rookery and the sixth faction.md:86 **读者视角提示**：这是全章的题眼，也是书名第一次落到实处。她没说这算不算虚伪，只把这个矛盾摆出来。
+ch15 the rookery and the sixth faction.md:99 **为什么这样写**：前一句是断言，后两句用同一个 How can 起头，把这个断言拆成两处具体的失灵：记忆与真话。作者让她用提问代替结论——她没有宣布自己是什么，只在算这套系统的漏洞在哪儿。fail against 是唯一一次点名对象。
+ch15 the rookery and the sixth faction.md:145 下火车第一夜，Evelyn 用一座废弃教堂、一罐冷汤和一张硬长椅给 Tris 上了一课：她哭到只剩贴着清醒的浅眠，又在日出前被问要不要回头，答了 No。天亮后她走进 Rookery——外面是钉着胶合板的砖楼，里面是八角玻璃顶、金丝墙面和一个
+ch16 the cabinet the foxes and the water shift.md:10 - **一句话概括**：这一章 Tris 在 Rookery 学着过无派系者的日子：日出前跟队跑步、帮 Rory 做早饭，接着搬太阳能灯上屋顶、刷厕所，傍晚由 Jove 领着去看沼泽边的玻璃温室和半毁的博物馆，也第一次听全了公会——治病的、
+ch16 the cabinet the foxes and the water shift.md:11 - **情感弧线位置**：这是「生存」转向「归属」的一章，也是她第一次在无派系者中间松下来。前半章是劳动的节奏：搬、刷、搅、拧，句子越平，日子越实。中段被 Gretchen 从柜子里揪出来，恐慌让位给难堪，难堪又被一句玩笑拆掉。火车那一跳是
+ch16 the cabinet the foxes and the water shift.md:23 **读者视角提示**：她第一次把对手当研究对象，不是恨，是分析。注意她用的是「作为一个群体」，说明她已经在按组织的规矩去猜他们。
+ch16 the cabinet the foxes and the water shift.md:30 **读者视角提示**：三句里没有一句抱怨，她数的是活，不是委屈。读者在这里第一次意识到：她以前的「辛苦」是训练，这里的辛苦是维持。
+ch16 the cabinet the foxes and the water shift.md:44 **读者视角提示**：她写的是「我们」，读的人得自己补上「他」。这是全章最轻的一块，也是她第一次承认自己在想谁。
+ch16 the cabinet the foxes and the water shift.md:50 **为什么这样写**：一句话四个动作，全靠 and then 串起来，读起来就是一次不许停顿的操作：拖、塞、折、关。just as I planned 提前告诉读者这不是碰巧藏进去的。末句 a tight squeeze 之后接 but I
+ch16 the cabinet the foxes and the water shift.md:72 **读者视角提示**：她在 Dauntless 之外第一次尝到跳上车的滋味，而这个滋味是从无派系者的车把手上来的。「本该选择的派系」到这一句变得复杂。
+ch17 the recruit called four.md:11 - **情感弧线位置**：这是从「观察」转向「接触」的一章，也是她明知被安排了却不反对的一章。前三分之一是仰视：Evelyn 被人围着，她连靠近都要算角度，心里那句「我算什么呢」是全章最低点。中段她把「你只能听」说出口，说完自己先觉得不够—
+ch17 the recruit called four.md:72 **读者视角提示**：她说的每一句都能套在自己身上。这是她第一次不靠身份、只靠处境去说服一个人。
+ch17 the recruit called four.md:79 **读者视角提示**：这句「我正在消失」是全章她给自己下的唯一定义，也是她第一次不用「Stiff」或「叛逃者」来说自己。
+ch17 the recruit called four.md:86 **读者视角提示**：全章她第一次承认有人被她留在身后，也第一次把「离开」算成有代价的事。代价她认，但不认欠。
+ch17 the recruit called four.md:129 她带着 Weaver 那句指控回到 Rookery，在举杯的中庭里够不着被人围住的 Evelyn，却被她带出教堂、派去劝一个信念动摇的新兵。火车上等着她的是择派仪式上扶过她一把的哨兵，外号 Four；他不记得她，也不信她是自己来的。她用一段
+ch18 visiting day the threat and the bread.md:11 - **情感弧线位置**：整章没有一次打架，最激烈的动作是别人拍的栏杆，他只是往后退。弧线是两段下坠加一次落地：废墟上他把「杀」这个字听进耳朵，身体先退、声音变平、人像从自己身上滑出去；厨房里三个家务的声响把他按回地面，喉咙一紧，那是他全天
+ch18 visiting day the threat and the bread.md:13 - **人物弧线**：Four 从「用身份挡回去」走到「承认自己可能坏了」。前半章他的武器是清单——名字、工作、生活，一条条数给母亲听，证明自己属于某处；后半章 Hana 提起他总泡在恐惧模拟里，又直说别拿自律当刑罚，这套清单就撑不住了。E
+ch18 visiting day the threat and the bread.md:51 **读者视角提示**：全章他唯一一次后退，退在比他矮一头的人面前。这个动作比任何心理描写都直接。
+ch18 visiting day the threat and the bread.md:72 **读者视角提示**：她是他朋友们的母亲，也是本章唯一一个见他不图他任何东西的成年人。
+ch18 visiting day the threat and the bread.md:85 **为什么这样写**：三句是一条斜坡：先下判决（不合身），再摆反证（我什么都做得好），最后落到两个选项——世界不对，或者你坏了。is too much to bear 是全章唯一一次把「受不了」说出口，而且说的不是一件事，是一个念头。注意人
+ch18 visiting day the threat and the bread.md:93 **读者视角提示**：这一整天他都在拒绝别人递来的位置，最后一次没有拒绝，而且是自己走过去的。
+ch19 the knife in christinas eye.md:11 - **情感弧线位置**：这一章从最松的一处开始——输光一把豆子——然后一路往下：尖叫、血、被缝上的眼睑、一句 gentle 说出的判决。Four 的情绪几乎全被压进动作里：握手腕的力度、放平的脸、深吸的一口气、把枪递回去的那一下。真正的位
+ch19 the knife in christinas eye.md:12 - **Tropes 兑现/反转**：兑现「排名即命」——名单刚贴出、淘汰就在几天后，刀跟着就来了；凶器是一把黄油刀，餐具而已，制度不必出场，暴力自己会找到人。兑现「硬汉教官」——他确实冷静：读得出枪里装的是针、看得出刀在替她止血、知道该叫
+ch19 the knife in christinas eye.md:13 - **人物弧线**：Four 从「我该守着他们」的自责，走到「我认得这种镇定」的同类相认，再走到「我知道一个地方」——第一次拿母亲的资源去救一个新人。他对 Eric 的敌意没变成拳头，变成了一个选择：要 Max，不要 Eric。Chris
+ch19 the knife in christinas eye.md:22 **为什么这样写**：全章最松的一段被放在最紧的一段前面：豆子当筹码、输得精光，叙事者记的是「输」而不是「玩了多久」，语气像在报账。Visiting Day 在这里第一次出现，却只用来说明街上人多——他躲的不是节日，是节日里的人。近路既是地
+ch19 the knife in christinas eye.md:23 **读者视角提示**：他在数自己输掉的豆子，轻松得近乎愉快。这是本章最后一次轻松，而且是他自己挑的近路。
+ch19 the knife in christinas eye.md:27 **中文理解**：排名早些时候已经贴出去了，第一次淘汰就在几天后。他本该料到会出事。他本该守在他们身边，盯着他们——
+ch19 the knife in christinas eye.md:58 **读者视角提示**：他把她的镇定读成「不安」，其实是在说自己。全章他唯一一次承认自己不正常，用的还是玩笑的口气。
+ch19 the knife in christinas eye.md:85 **为什么这样写**：先给判断（像穿过一道门），再给证据（玻璃、地砖、人）——顺序是「我不信」到「我看见了」。这栋楼从外面看该是座废墟，里面却有人在小桌旁吃饭，落差本身就是这群人的论点：他们没散，只是藏起来了。全章到此都在窄处（宿舍、病房、
+ch19 the knife in christinas eye.md:93 **读者视角提示**：他刚从一场暴力里出来，第一次抬眼找的人是她。这一章到最后一句话，才允许自己有这样的视线。
+ch20 the tunnel and the name prior.md:13 - **人物弧线**：Tris 这一章从「该消失的人」变成「动手的人」：中段她想退场不能退，只能在原地当家具；结尾她听见靴子声就伸手按人，没有先问自己有没有资格。她对 Evelyn 的忠诚第一次和判断撞在一起——她背规矩背得不情愿，却还是背
+ch20 the tunnel and the name prior.md:58 **读者视角提示**：这是她第一次对进 Dauntless 动心，动心的理由却不是派系，是一场能让她照见自己的模拟。这个念头整章没有下文，分量却比任何表态都重。
+ch20 the tunnel and the name prior.md:64 **为什么这样写**：破折号后面连说两个 stupid，重复本身就是她反应的速度。她没有写「我明白了」，只写两张脸对在一起的样子，让读者跟她同时看见。Their jaws set, their brows furrowed 是全章唯一一次把
+ch20 the tunnel and the name prior.md:65 **读者视角提示**：答案要到下一块才浮上来。这一块的分量在于：不是谁告诉她的，是她自己看出来的——全章她唯一一次真正「读到」什么。
+ch20 the tunnel and the name prior.md:78 **为什么这样写**：三个动作一口气写完，中间没有留给犹豫的位置，on instinct 就是全部的解释。as solid as a wall 表面写他的体格，实际写的是她手底下第一次有了确定的东西——这一整章她都在猜人，只有这一下是摸得着
+ch20 the tunnel and the name prior.md:79 **读者视角提示**：她按住的这个人几分钟前还在说她被人安排。护住他不需要先信他，这是本章唯一给出的答案。
+ch21 everyone is bigger than you.md:11 - **情感弧线位置**：接 ch20 深夜巷口那一幕之后的第二天下午。全章是一条先落底再抬头的线：进门时她只是第一天报到的新人，被 Gretchen 一句「小间谍」点出来；那番劝退把她从「不够格」推到「不配占用时间」，她躲进空宿舍哭是全章
+ch21 everyone is bigger than you.md:13 - **人物弧线**：Tris 这一章从「等资格的人」变成「被拒的人」，再变成「被接住的人」：她进门时还在数别人练了几道工序，出门时是被一句「我不浪费你的时间」打发走的；她在空屋里哭，第一次把「被困住」这件事从派系挪到自己身上——这回关她的
+ch21 everyone is bigger than you.md:30 **读者视角提示**：注意她数的是别人的工序，不是自己的长进。这个视角直到本章结尾才第一次翻转：有人主动说要教她。
+ch21 everyone is bigger than you.md:57 **为什么这样写**：她把「谁说的」和「说的是什么」分开算账，这是全章最清醒的一笔。misalignment 是个装零件的词：两个尺寸不合，不是谁坏了。and I let it 是她这一段里唯一主动做的事。
+ch21 everyone is bigger than you.md:64 **为什么这样写**：decent at them 是这段最冷的一刀：不是因为差被挡在门外，是因为「还行」被人替她安排好了去处。defect 在这个世界里是换派的意思，她说身体是唯一换不掉的那样东西，一句话把制度的出口也堵死。
+ch22 the dart gun and the feast raid.md:10 - **一句话概括**：Christina 把 Tris 想当 Fox 的事接了过去：她背地图、找 Colin 比俯卧撑、读派系行为的书，还问出一句「他们会要一个独眼姑娘吗」。两人算好了路——举着 Foxes 的旗子去各派系总部找人，Col
+ch22 the dart gun and the feast raid.md:13 - **人物弧线**：Tris 从「勉强过关、只是跟得上」走到「这件事我做得来」，中间靠的是把 Abnegation 的晨间冥想挪来当瞄准法；她也第一次允许自己在目的之外享受当下。Christina 把伤处理成计划的一部分，不问能不能，只问
+ch22 the dart gun and the feast raid.md:65 **读者视角提示**：这是本章唯一一次她给自己下判断。往下她会立刻提醒自己这只是手段——先记住这份得意有多短。
+ch22 the dart gun and the feast raid.md:86 **读者视角提示**：这是全章唯一一次有人告诉她「可以」。他没有要她拿什么来换。
+ch22 the dart gun and the feast raid.md:137 Christina 把 Tris 想当 Fox 的事接了过去：她背地图、比俯卧撑、读派系行为的书，还问出一句「他们会要一个独眼姑娘吗」。两人算好了路——举着 Foxes 的旗子去 Candor 或 Abnegation 的总部找人；Coli
+ch23 the raid and the custody deal.md:11 - **情感弧线位置**：第三部 Stray 的收尾章，也是「这里可以待下去」这个念头被拆掉的一章。开头是半秒走神——她先觉得队形好看，才想起自己被围住；接着是膝盖下的瓷砖、举到头顶的手，和一条她从来没问过的规矩。枪口指到 Mae 身上时，
+ch23 the raid and the custody deal.md:14 - **叙事手法**：第一人称现在时，靠身体与声音推进：膝盖下的瓷砖、举到头上的手、耳朵里的鸣响、满屋的尖叫。关键处时间被拉慢（「everything around me is slowing down, going quiet」），事后又
+ch23 the raid and the custody deal.md:29 **为什么这样写**：一句话把三个人的位置摆定：指的人、被指的人、护着被指的人。投降和护住同时出现在同一句里，两只手做的是两件事，这比任何辩解都先说明他是谁。金戒指是这屋里唯一值钱的东西，也让「绑架犯」这个称呼显得不对劲。
+ch23 the raid and the custody deal.md:43 **为什么这样写**：上一块他还在讲道理，这一块手先失控。terrorize 是他第一次不用对方的词——不是「带走」、不是「执行任务」，是吓唬。最后一句停在破折号上，话没说完，指控却已经落地。
+ch23 the raid and the custody deal.md:58 **读者视角提示**：针和子弹在这里第一次被她说成同一条因果。这不是比喻，是她在这个城市里学到的最实用的一条规律。
+ch24 the doors and the patient binary.md:11 - **情感弧线位置**：全章几乎没有外放的情绪：慌，他自己按下去；赢了，他只笑了一声就爬起来；被人当面夸，他「试着不脸红」。真正的抬升只有两处，都很短——认出 BE PATIENT 时笑出声，以及被夸时胸口发胀。落点在「Simulatio
+ch24 the doors and the patient binary.md:13 - **人物弧线**：Caleb 从「抢时间、怕垫底」走到「先坐下看」；他第一次靠观察而不是靠服从过关，也第一次在别人面前承认自己前面慌过。他把「会二进制」讲成小时候和妹妹搞暗号的副产品，等于把天赋说成习惯。被夸时他没有推辞，只是「试着不脸
+ch24 the doors and the patient binary.md:72 **读者视角提示**：他对 Jeanine 说的是实话，而且是最不体面的那部分实话。这也是他第一次在别人面前承认前两关的失败。
+ch25 the hearing errand and the train panel.md:10 - **一句话概括**：搬完家的第二天，Tris 一个人坐火车回 Abnegation 区，去捐衣站后巷见母亲。她要问的是明天那场监护听证：Candor 与 Erudite 近来把这类听证从 Abnegation 总部挪到自己总部，Mae 
+ch25 the hearing errand and the train panel.md:11 - **情感弧线位置**：全书里少见的「喘息章」，位置在突袭之后、听证与 Foxes 夺旗赛之前。前半段是回家：车厢边缘的风、熟悉的味道、母亲的手臂，情绪是往下沉的安稳。中段转成谈判——她第一次用「我需要你帮忙」开口，也第一次被母亲当作可以
+ch25 the hearing errand and the train panel.md:13 - **人物弧线**：Tris 从「被派去传话的人」变成「自己决定去谈的人」：她自己写明 Evelyn sent me—or maybe I sent myself。她学会把情报当筹码（先给消息，再要人情），也学会在被夸奖时不解释。母亲这一
+ch26 the ferris wheel and the smoke.md:11 - **情感弧线位置**：整章从「岗位上的闲」滑向「跟着她跑」。前半段他还在自己的秩序里：巡逻、中继器、抱怨、分队、战术。抬升只有两处，都落在身体上——第一次是他把双手放上梯子，第二次是风把她吹偏、他一把扶住她。真正的转折不在任何一句对白里
+ch26 the ferris wheel and the smoke.md:23 **读者视角提示**：这是全章唯一一段彻底松弛的文字。记住它有多闲，后面他要在风里抓着钢梁往上爬。
+ch26 the ferris wheel and the smoke.md:27 **中文理解**：中继器唯一的麻烦是：走进它范围的如果换成 Dauntless 自己的墙头守卫，而不是入侵者，模拟照样对他生效。于是他们回来讲一堆野话，说在那片空地里看见了什么，却不知道自己看见的只是脑子造出来的东西。
+ch26 the ferris wheel and the smoke.md:62 **中文理解**：他想到自己那场恐惧模拟——站在 Hub 的楼顶边缘，风迎面冲上来。那个场面不是真的，可恐惧是真的；从他母亲第一次带他上去看这座城起，就是真的。
+ch26 the ferris wheel and the smoke.md:78 **为什么这样写**：整段用触觉写：胯、腰带环、皮肤、温度。动作名义上是救人（风把她吹偏了），落笔却全在「他感觉到了什么」——手的位置记得这么细，说明注意力并不在平衡上。breath catches 是唯一的内心描写，而且仍然只写身体。
+ch26 the ferris wheel and the smoke.md:99 **为什么这样写**：一句里塞了两个 supposed to，再用省略号把它们挂起来，然后一句 don’t even hesitate 把它们全放下。省略号落下的地方正是犹豫该出现的位置，而那里什么都没有。running after her
+ch27 the fire at candor headquarters.md:12 - **Tropes 兑现/反转**：兑现「倒计时赶路」——换乘、先坐反方向、看着目标越来越远，全章的地图都是用来计时的。反转「救人者」——她一路想的是把 Mae 和父亲从火里带出来，结果自己先被关进楼里。兑现「玻璃等于真相」——Cando
+ch27 the fire at candor headquarters.md:13 - **人物弧线**：Tris 从被 Four 领着跑的人，走到抓着他的手不放的人；半小时里她对 Four 走完一轮示好—被刺—爆发—和解。Four 从「怕高却硬撑的帮手」，变回眼神发硬、被悲伤磨苦的审判者，又在推她上车、把她拽进玻璃厅这两
+ch27 the fire at candor headquarters.md:36 **为什么这样写**：全章唯一一次她主动抬高音量，落点在一个脏字上，不在辩解上。goddamn 和 errand girl 连用，等于把他刚给的标签原样掷回去。后半句把两个人的反应并进同一句（him / me），敌意于是变成一次共同的意外：
+ch27 the fire at candor headquarters.md:43 **为什么这样写**：一段话被「方向」撑满：先 wrong，再 right，中间夹一个 agonizing，路线因此变成倒计时——每远一寸，读者都知道时间在走。结尾三个 to 并列，把三份牵挂压进半句，重心落在最后一个词上：她要救的不只是火
+ch27 the fire at candor headquarters.md:57 **为什么这样写**：三个动作挤进两句话：发现，然后该松，然后没松。中间用破折号塞进一段冷静的现场评估——楼梯还挤、但不至于走散——等于先替自己备好理由，再把理由搁下。keeping me steady 是全章她第一次承认需要支撑，而这个承
+ch27 the fire at candor headquarters.md:64 **为什么这样写**：换场只用一句话：大理石和旧式柱子「让位」给玻璃。三处玻璃按墙、顶、地的顺序排列，视线从平视抬到仰望再落到脚下，读者跟着她一起被这层材料包住。最后半句「太厚，看不清下面」是这一段唯一的不安，也是下一段八角厅的入场券。
+ch27 the fire at candor headquarters.md:71 **为什么这样写**：顺序严格按感知走：先声音，再回头，再判断材质，最后才给表情。玻璃到金属的替换在一句里完成，读者和她同时发现出口没了。wide-eyed 是唯一一处情绪描写，而且落点给 Four——她要看的是他怎么解释，不是墙。
+ch28 the fire and the transom window.md:13 - **人物弧线**：Tris 这一章第一次完整地当了「救人的那一个」：定方向（朝喊声走）、下判断（门后是 Mae）、分工（你踩我肩膀）、带路（她领头爬）。她对 Mae 说话的口气是从 Four 与 Christina 那里学来的：给步骤、
+ch28 the fire and the transom window.md:22 **为什么这样写**：开篇不交代火从哪儿来，先给三个身体反应：伏低、刺眼、听见。整段唯一一句解释是 presumably 引出的，而这个词恰好在说她自己也不确定——她只是听出那声响在做什么。这种边逃命边给建筑分功能的习惯，是受训留下的。隔断
+ch28 the fire and the transom window.md:58 **读者视角提示**：Mae 立刻接了一句「像数字那个？」，这是本章唯一一处近乎玩笑的对话，紧到极点的空气在这里松了半口气。名字在这一刻比任何保证都管用。
+ch29 the hospital and the fire confession.md:11 - **情感弧线位置**：紧接火场那一夜，是全书里 Four 第一次单独面对母亲、并且不给她台阶下的一章。开头是失眠与器械的束缚，气压低但安静；中段从「被关心」滑向「被盘问」——她夸他救人，他立刻把功劳推掉；转折在她承认放火之后，空气变硬，
+ch29 the hospital and the fire confession.md:13 - **人物弧线**：Four 从「被救的人」变成「审问的人」：先推掉功劳，再把问题递回去，最后拒绝给母亲一个她想要的答案。他对母亲的判断也走了一步——从「我以为了解她」到「人总比我们以为的大」。Evelyn 在两种身份之间来回：Amity
+ch29 the hospital and the fire confession.md:51 **读者视角提示**：这是全章唯一一次身体抢在语言前面反应。笑没笑成，话也就没说出口。
+ch30 the errand and the ferris wheel.md:13 - **人物弧线**：Tris 这一章几乎没有体力戏，全是判断：她判断母亲在「收账」，判断自己这次真是跑腿的，判断摩天轮不该爬而该修。她对母亲的称呼在心里滑过一次——「My mother—no, Natalie Prior」——母亲摸她脸颊
+ch30 the errand and the ferris wheel.md:22 **为什么这样写**：火场之后第一次回到日常，作者先给一个没被烧到的地方，连垃圾都还分好类——秩序还在，只是维持秩序的人不是她。真正在动的只有蒲公英：它按自己的钟点走，还没结籽，等于替读者标了时间刻度，离那场火只过了两天。她站着等，两手不动
+ch30 the errand and the ferris wheel.md:57 **为什么这样写**：修东西被写成摸黑的手感，不写电路知识。blind and one-handed 是两个限制同时上：一个来自黑暗，一个来自她此刻只剩一只手。她不说自己懂机械，只说「试了几次」，成功被拆成一串失败。按钮亮是唯一的回报，也是
+ch30 the errand and the ferris wheel.md:64 **为什么这样写**：解法不是爬，是让机器把目标送下来——她把摩天轮当成一道能解的题，而不是一面要翻的墙。inch 让轮子显得慢，也让她第一次有余裕去等。绿衬着蓝是两种最普通的颜色，却和开头巷子里那片亮黄、结尾那只橙色狐狸连成一条暖色线，正
+ch31 the locked lab and the control group.md:11 - **情感弧线位置**：全章大部分时间是钝的：开头两段就把状态定成 lonely tedium，中间没有一件事真正发生在他身上，只有念头在转。唯一的起伏是怒气，两级：先冲着 Cara 的隐瞒，再冲着自己从 Abnegation 带来的无知
+ch31 the locked lab and the control group.md:13 - **人物弧线**：Caleb 从「熟练到不用想」走到「自己去查」。前面几章他都是被考的那个，这一章他第一次主动伸手去拿不该拿的东西，用的还是第三座迷宫教他的本事。他对 Fernando 是仰视，对自己的出身是怨，对 Jeanine 是又
+ch31 the locked lab and the control group.md:50 **为什么这样写**：三个否定连着来——只有几盏灯、门锁着、里面是黑的——把「进不去」写成一片具体的黑。冷白的圆圈是这一块里唯一的形状，光被切成一小块一小块，正合他等一下要一间间摸过去。设备在玻璃后成了怪兽的影子，因为此刻没有人用它。
+ch32 the failure sim and the buried record.md:10 - **一句话概括**：Four 在模拟室看新生 Al 过恐惧模拟——一场他私下叫 failure sim 的戏：厨房桌边、一盏灯、一个从阴影里走出来指着他骂的母亲。Al 在模拟里喊出「你不会真这么说」，等于当场指出眼前不真实；Four 喊
+ch32 the failure sim and the buried record.md:14 - **Tropes 兑现/反转**：兑现「导师一眼看穿学生的秘密」——Al 在模拟里识破假母亲，Four 立刻明白程序没能压住他，这是 Divergent 的信号，也是全章唯一一次出现这个词。反转「保护就是警告」——他的本能是照父亲的办法
+ch32 the failure sim and the buried record.md:60 **读者视角提示**：「我父亲的警告」这半句是本章唯一提到他家人的地方，而且只给了方式，没给内容。读者可以自己决定那是什么样的警告——它被他叫作 instinct，就是出事时的第一反应。
+ch32 the failure sim and the buried record.md:116 Four 在模拟室看新生 Al 过恐惧模拟：Al 坐在厨房桌边，被一个从阴影里走出来的女人指着骂，他哭着喊「你不会真这么说」，等于识破了模拟不真实。Four 喊停把他拉出来，明白程序没能压住这个新生——去年他一个 Divergent 都没遇
+ch33 the erudite disguise and jeanines summons.md:10 - **一句话概括**：晨会照旧先给新人起外号，她叫 Priss。Sly 派下当天的考核：自己挑一个派系总部，进去待满一小时不被抓。Tris 挑了 Erudite——母亲要她给 Caleb 带话——并在众人面前第一次换衣服：脱下上衣时左肩的

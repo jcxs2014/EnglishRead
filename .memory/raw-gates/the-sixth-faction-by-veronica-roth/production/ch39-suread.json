@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch39",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch39_chap39.txt",
+ "facts": [
+  {
+   "fact": "Tris 换回自己的状态、赤脚登上回博物馆的火车，说再也不穿 Erudite 的鞋",
+   "anchor": "When I board the train that will take me back to the Museum, I do it barefoot.",
+   "start": 40,
+   "end": 118
+  },
+  {
+   "fact": "车厢里灯没亮，她看见黑暗里的人影时胃一沉，据此认定同车者是 factionless",
+   "anchor": "My stomach lurches when I see the dark shapes",
+   "start": 187,
+   "end": 232
+  },
+  {
+   "fact": "眼睛适应黑暗后她认出坐在大木箱上、抱膝蜷着的是 Sly，旁边还有 Gretchen 和一个她不认识的 Fox",
+   "anchor": "Sitting on top of a big crate, hunched over her knees, is Sly.",
+   "start": 441,
+   "end": 503
+  },
+  {
+   "fact": "Sly 说箱子里是某种设备，要送去给 Makers，而 Makers 在博物馆里作业",
+   "anchor": "Some kind of equipment. We’re taking it to the Makers.",
+   "start": 1214,
+   "end": 1268
+  },
+  {
+   "fact": "Christina（绰号 Eye Patch）准时返回，整整一小时待在庭院花园，没人跟她说话",
+   "anchor": "Apparently she spent her entire hour in some kind of courtyard garden and no one even spoke to her.",
+   "start": 1712,
+   "end": 1811
+  },
+  {
+   "fact": "Sly 纠正入口的白花不是 Queen Anne’s lace，而是剧毒的 hemlock",
+   "anchor": "it’s hemlock. Very poisonous",
+   "start": 3538,
+   "end": 3566
+  },
+  {
+   "fact": "她事后回铁轨捡起那个掉落的小东西，借月光判断那可能是一颗子弹（她从没见过实物）",
+   "anchor": "I think it’s a bullet.",
+   "start": 4319,
+   "end": 4341
+  },
+  {
+   "fact": "见过 Eric 拿枪之后在她心里鼓起来的那点希望，因为这颗子弹泄了气",
+   "anchor": "Whatever hope was ballooning inside me after I saw Eric with the gun . . . deflates.",
+   "start": 4345,
+   "end": 4429
+  }
+ ]
+}

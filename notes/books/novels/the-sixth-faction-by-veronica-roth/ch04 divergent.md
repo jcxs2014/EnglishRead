@@ -62,7 +62,7 @@ modified: "2026-10-31"
 **中文理解**：她先否掉「坏了」这个说法，然后给出那个词：Divergent——指一个人的头脑对派系电脑格外抗拒；话到「而且它——」就断了。
 **关键词**：No, a Divergent, especially resistant, the faction computers, And it’s—
 **为什么这样写**：三步都在收窄：先否定她的自责（No），再给一个名字，名字后面紧跟一句定义；定义刚落地，破折号就把话切断。断在 And it’s— 上，读者和她一起被留在半句里，只能自己去想那个「而且」。
-**读者视角提示**：这是全章唯一一处把这个词讲清楚的地方；讲完定义，Tori 没有接着解释「所以会怎么样」，这个空白是有意的。
+**读者视角提示**：这是全章唯一一处把这个词讲清楚的地方；她刚说到「而且它——」就被抢断，后面的解释又被别的话岔开，这个词始终没有一次说完整。
 
 > **原句 8:** "“Solving the maze that quickly was very Erudite. But you never froze up, which means you acted like a Dauntless,” she says. “But you also saved the girl, which suggests Abnegation. So if I had to guess—”"
 

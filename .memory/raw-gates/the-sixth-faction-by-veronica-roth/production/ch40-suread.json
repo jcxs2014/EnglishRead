@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch40",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch40_chap40.txt",
+ "facts": [
+  {
+   "fact": "清晨 Lynn 敲开 Four 的门，说石坑深渊里发现一具尸体，而 Al 不在宿舍。",
+   "anchor": "They found a body in the chasm, and Al’s not in the dormitory.",
+   "start": 567,
+   "end": 629
+  },
+  {
+   "fact": "尸体从水里捞上来，Four 凭体型和那份年轻认出那就是 Al。",
+   "anchor": "Even like this—skin whitened and thickened by hours in the water, eyes empty as marbles—it’s obvious that this is Al.",
+   "start": 1513,
+   "end": 1630
+  },
+  {
+   "fact": "Four 把 Al 的死算成自己的失败，并追到当初没能拦住 Peter 伤害 Christina 那一次。",
+   "anchor": "I failed first with Christina, when I couldn’t control Peter, couldn’t stop him from attacking her.",
+   "start": 1711,
+   "end": 1810
+  },
+  {
+   "fact": "跑去石坑的路上，他怕看见两年前那一幕重演：Amar，一个 Divergent，死在地上。",
+   "anchor": "I’m afraid it’ll be the same as two years ago: Amar, a Divergent dead on the ground.",
+   "start": 922,
+   "end": 1006
+  },
+  {
+   "fact": "Hana 当面点破：他挑模拟室，是为了靠近别人又不让别人靠近自己。",
+   "anchor": "You chose the simulation room because it allows you to get closer to people without letting them get close to you.",
+   "start": 5178,
+   "end": 5292
+  },
+  {
+   "fact": "Hana 说他一直管她叫 ma’am，尽管他已经做了她儿子（Zeke）两年的好朋友。",
+   "anchor": "It’s why you keep calling me ‘ma’am’ even though you’ve been my son’s best friend for two years.",
+   "start": 5021,
+   "end": 5117
+  },
+  {
+   "fact": "Four 认定 Al 是 Divergent、Jeanine 调过他的模拟记录、然后他就死了，这三件事不可能是巧合。",
+   "anchor": "and Jeanine Matthews accessed his simulation log, and now he’s dead",
+   "start": 4469,
+   "end": 4536
+  },
+  {
+   "fact": "Tris 掏出一颗子弹，说它来自无派别者正在运送的一只木箱。",
+   "anchor": "It was in a crate,” she says. “A crate being transported by the factionless.",
+   "start": 11525,
+   "end": 11601
+  }
+ ]
+}

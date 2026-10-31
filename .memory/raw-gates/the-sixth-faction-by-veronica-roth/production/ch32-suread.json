@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch32",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch32_chap32.txt",
+ "facts": [
+  {
+   "fact": "Four 把 Al 这场恐惧模拟归类为「失败模拟」：Al 又高又笨拙，坐在自家厨房桌边。",
+   "anchor": "This simulation is what I call a failure sim.",
+   "start": 577,
+   "end": 622
+  },
+  {
+   "fact": "模拟里从阴影中走出的女人是 Al 的母亲，指着他责骂。",
+   "anchor": "And creeping out of the shadows is a woman who I’m pretty sure is his mom, pointing a finger at him and berating him.",
+   "start": 797,
+   "end": 914
+  },
+  {
+   "fact": "Al 哭着对母亲喊「你不会真这么说」，等于当场指出模拟不真实。",
+   "anchor": "You’d never actually say this! You wouldn’t!",
+   "start": 1389,
+   "end": 1433
+  },
+  {
+   "fact": "是 Four 的意志（而非 Al）把两人拉出程序，他是观察者不是参与者。",
+   "anchor": "It’s my will that pulls us out of the program",
+   "start": 1453,
+   "end": 1498
+  },
+  {
+   "fact": "Four 解释程序本该压制察觉逻辑矛盾的那部分大脑，并说这叫 dream logic。",
+   "anchor": "The program is designed to suppress the part of your brain that’s aware of logical incongruities",
+   "start": 2182,
+   "end": 2278
+  },
+  {
+   "fact": "Four 去年没遇到 Divergent 新生，这套解释他是第一次讲。",
+   "anchor": "I didn’t encounter any Divergent initiates last year, so I’ve never had to have this conversation before.",
+   "start": 2647,
+   "end": 2752
+  },
+  {
+   "fact": "他的直觉是照父亲当年的做法，狠狠警告 Al 不要对任何人说。",
+   "anchor": "My instinct is to warn him as fiercely as I can against revealing this to anyone, the way my father warned me.",
+   "start": 2753,
+   "end": 2863
+  },
+  {
+   "fact": "他给 Al 的办法是下次装作眼前一切都合理，不去想现实会怎样。",
+   "anchor": "Next time, I want you to pretend that what you’re seeing makes perfect sense to you, no matter what it is.",
+   "start": 3373,
+   "end": 3479
+  }
+ ]
+}

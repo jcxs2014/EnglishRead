@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch25",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch25_chap25.txt",
+ "facts": [
+  {
+   "fact": "全屋白天从 Rookery 搬进 Museum，Museum 原有住户提前腾出一间展厅，一次搬运就搬完",
+   "anchor": "The day was spent moving to the Museum.",
+   "start": 835,
+   "end": 874
+  },
+  {
+   "fact": "Tris 在 Museum 看见百人排队领饭、另有百人在吃，判断无派系者人数远超她原先设想",
+   "anchor": "there are a hundred people in line for food, another hundred eating it",
+   "start": 1413,
+   "end": 1483
+  },
+  {
+   "fact": "Mender 与妹妹 Mae 命运的监护听证就在明天，早上他背袋子去新住处时手在抖",
+   "anchor": "The hearing that will determine his fate—and his sister’s fate—is tomorrow.",
+   "start": 3262,
+   "end": 3337
+  },
+  {
+   "fact": "母亲说监护听证按惯例在 Abnegation 总部举行，但 Candor 与 Erudite 近来要求改在自己总部",
+   "anchor": "Custody hearings take place at Abnegation headquarters as a matter of course",
+   "start": 5975,
+   "end": 6051
+  },
+  {
+   "fact": "母亲为最近施加的「沉默处罚」道歉，说那是为了让她闭嘴以求保护",
+   "anchor": "I recently imposed the Penalty of Silence on you",
+   "start": 6870,
+   "end": 6918
+  },
+  {
+   "fact": "母亲答应让父亲在听证后的评议阶段去找 Candor 代表 Jack Kang 谈",
+   "anchor": "I’ll tell your father to talk to Jack Kang after the hearing, during deliberations",
+   "start": 8122,
+   "end": 8204
+  },
+  {
+   "fact": "Evelyn 在火车上告诉 Tris，Foxes 的一面旗在摩天轮，算是还她的人情",
+   "anchor": "One of the Foxes’ banners is at the Ferris wheel",
+   "start": 15325,
+   "end": 15373
+  },
+  {
+   "fact": "Evelyn 提醒明天是 Dauntless 新兵的年度夺旗赛，届时 Dauntless 会到处都是",
+   "anchor": "tomorrow is the annual game of capture the flag that the Dauntless initiates do",
+   "start": 15636,
+   "end": 15715
+  }
+ ]
+}

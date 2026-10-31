@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch10",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch10_chap10.txt",
+ "facts": [
+  {
+   "fact": "Benjamin 在庭院里宣布 Abnegation 入门的一个月要在完全沉默中进行。",
+   "anchor": "“And ours is that your month of service will be conducted in complete silence.”",
+   "start": 1649,
+   "end": 1728
+  },
+  {
+   "fact": "入门第三夜她失眠乱走，发现一间从没见过的阅读室。",
+   "anchor": "I find a reading room I’ve never seen before.",
+   "start": 10839,
+   "end": 10884
+  },
+  {
+   "fact": "阅读室里议会成员相册上，Marcus 与儿子旁边站着 Evelyn Eaton。",
+   "anchor": "Beside them both is Evelyn Eaton.",
+   "start": 12347,
+   "end": 12380
+  },
+  {
+   "fact": "她借照片确认自己在仪式后看到的 Amity 女人就是 Evelyn，因此 Evelyn 还活着。",
+   "anchor": "She could only ever be Evelyn Eaton.",
+   "start": 12675,
+   "end": 12711
+  },
+  {
+   "fact": "父亲在记忆库把手按上石桌，要求做一次 “excision”。",
+   "anchor": "I need an excision.",
+   "start": 21585,
+   "end": 21604
+  },
+  {
+   "fact": "在记忆里反向倒退到一半，她停住，卡在忘掉与记得之间。",
+   "anchor": "frozen between forgetting and remembering",
+   "start": 24071,
+   "end": 24112
+  },
+  {
+   "fact": "她改为把记忆往前推，把 Evelyn 那段记忆保住。",
+   "anchor": "I force the memory forward instead of back.",
+   "start": 24410,
+   "end": 24453
+  },
+  {
+   "fact": "出门前父亲随口问她有没有去过三楼阅读室。",
+   "anchor": "“Have you ever been to the reading room on the third floor?”",
+   "start": 26753,
+   "end": 26813
+  }
+ ]
+}

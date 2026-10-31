@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch08",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch08_chap8.txt",
+ "facts": [
+  {
+   "fact": "Marcus 当众宣布今年没有转派者加入 Abnegation，所以仪式不必等转派者到场就开始。",
+   "anchor": "no transfers to Abnegation this year",
+   "start": 1329,
+   "end": 1365
+  },
+  {
+   "fact": "跪在圆形石室石桌周围的精读新生一共只有八个人。",
+   "anchor": "There are only eight of us, total.",
+   "start": 2930,
+   "end": 2964
+  },
+  {
+   "fact": "Beatrice 认出这间圆室就是 Abnegation 的记忆库，存放城市档案的地方。",
+   "anchor": "The Abnegation Memory Vault. This is where the city’s records are kept.",
+   "start": 3022,
+   "end": 3093
+  },
+  {
+   "fact": "记忆重演里，她预知 Tori 将回来告诉她测试结果无法判定（inconclusive）。",
+   "anchor": "my results were inconclusive",
+   "start": 4687,
+   "end": 4715
+  },
+  {
+   "fact": "她预知 Tori 会点名她是 Divergent，并说明这对她和听她讲的人都危险。",
+   "anchor": "She’ll call me Divergent",
+   "start": 4788,
+   "end": 4812
+  },
+  {
+   "fact": "记忆放完后回到石室，Marcus 与她对视，随即皱眉，像被她弄糊涂了。",
+   "anchor": "Marcus Eaton’s eyes find mine, and then his brow furrows, like I’ve confused him.",
+   "start": 6188,
+   "end": 6269
+  },
+  {
+   "fact": "宴会厅的长桌按性别分坐：五个女生一边，三个男生一边。",
+   "anchor": "the five girls on one side and the three boys on the other",
+   "start": 6682,
+   "end": 6740
+  },
+  {
+   "fact": "两首歌之一讲帮助邻居、并相信对方也会帮你，是教给孩子的标准 Abnegation 歌曲。",
+   "anchor": "about helping your neighbor and trusting that he’ll help you",
+   "start": 8395,
+   "end": 8455
+  }
+ ]
+}

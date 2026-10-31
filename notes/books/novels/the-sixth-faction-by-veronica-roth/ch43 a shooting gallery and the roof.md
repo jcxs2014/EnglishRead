@@ -61,17 +61,17 @@ modified: "2026-10-31"
 
 > **原句 5:** “My brother stole it from the school library, and we read it together,” I say. “Believe me, we didn’t know how bad an idea that was until it was too late to go back. I’m not sure when Abnegation members learn about it, but it’s not at age ten, from a textbook.”
 
-**中文理解**：她说，那本书是她哥哥从学校图书馆偷出来的，两个人一起读。信她一句：等他们发现这主意有多糟，已经退不回去了。她不确定无派别者的人几岁才学这事，反正不是十岁，也不是从教科书上。
+**中文理解**：她说，那本书是她哥哥从学校图书馆偷出来的，两个人一起读。信她一句：等他们发现这主意有多糟，已经退不回去了。她不确定 Abnegation 的人几岁才学这事，反正不是十岁，也不是从教科书上。
 
 **关键词**：stole it from the school library / we read it together / too late to go back / from a textbook
 
-**为什么这样写**：一段自曝里塞了三样东西：一个哥哥、一次偷书、一个来不及回头的时刻。她评价的不是那本书，是那个决定——bad idea，配一句 too late to go back，这七个字在整本书里都成立。末句靠年龄和「教科书」两个具体坐标，顺手交代了无派别者的教育方式，也把十岁的她和哥哥定格在一间图书馆里。全章她只叫他「我哥哥」，没给名字，这个省略本身就是分寸。
+**为什么这样写**：一段自曝里塞了三样东西：一个哥哥、一次偷书、一个来不及回头的时刻。她评价的不是那本书，是那个决定——bad idea，配一句 too late to go back，这七个字在整本书里都成立。末句靠年龄和「教科书」两个具体坐标，顺手交代了 Abnegation 的教育方式，也把十岁的她和哥哥定格在一间图书馆里。全章她只叫他「我哥哥」，没给名字，这个省略本身就是分寸。
 
 **读者视角提示**：这是她第一次在朋友面前讲家里的事，挑的还是最好笑的一件。笑声底下的那句「退不回去」，跟她这一路做的每个决定都对得上。
 
 > **原句 6:** "We, I think. I wanted to belong to Dauntless, before I really knew what that meant. And then I wanted to belong to Abnegation, wanted it so badly I convinced myself I could be something I’m not."
 
-**中文理解**：我们——她心里说。从前她想属于 Dauntless，那时她还不懂那意味着什么；后来她想属于无派别者，想得太狠，狠到说服自己可以变成另一个人。
+**中文理解**：我们——她心里说。从前她想属于 Dauntless，那时她还不懂那意味着什么；后来她想属于 Abnegation，想得太狠，狠到说服自己可以变成另一个人。
 
 **关键词**：I wanted to belong to Dauntless / before I really knew / wanted to belong to Abnegation / something I’m not
 

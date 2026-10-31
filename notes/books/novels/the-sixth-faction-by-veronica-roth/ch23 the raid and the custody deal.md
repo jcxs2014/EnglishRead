@@ -10,7 +10,7 @@ modified: "2026-10-31"
 - **一句话概括**：Dauntless 的小队从隧道冲进 Rookery，一句「On your knees!」把所有人按到地上——他们来抓 Mender，罪名是把妹妹 Mae 从母亲身边偷走。Jove 说这是和平聚会，Weaver 回一句「你们窝藏绑架犯」；Mender 把「她不想跟母亲住」「家里不安全」一条条摆出来，Weaver 不再听，直接下令把人抢走。场面炸开，Mender 伸手去够一个哨兵腿上的枪，Tris 一掌按下他的肘。Evelyn 从楼梯上走下来，靠「听证要有委员在场」把突袭拖回程序，陪 Mender 与 Mae 去拘留所，并限两天清空这栋楼。事后 Jove 决定全屋搬去 Museum；Rory 胸口中针，Colin 用镊子把针取出来又打了一针镇静剂。Tris 在 Mender 的作坊里叠了一晚布料，认清 Dauntless 并不比别的派系好；Evelyn 请她去跟自己母亲谈这场听证，她没有迟疑就答应。
 - **情感弧线位置**：第三部 Stray 的收尾章，也是「这里可以待下去」这个念头被拆掉的一章。开头是半秒走神——她先觉得队形好看，才想起自己被围住；接着是膝盖下的瓷砖、举到头顶的手，和一条她从来没问过的规矩。枪口指到 Mae 身上时，她第一次不是旁观者，而是伸手拦人。Evelyn 把局面从暴力拽回谈判之后，她的情绪并没有跟着松：Rory 胸口的那根针、Colin 手上的血、屋里那种更重的静，把「我们赢了」写成清点损失。最后落在她答应替 Evelyn 去说话——她来这里是查探的，此刻却已经站到了这一边。
 - **Tropes 兑现/反转**：兑现「半夜突袭」——两列纵队分左右包抄，一排排推进，直到大厅被围住。兑现「限期搬离」——Weaver 限两天清空，把人赶去北边的无派系者区。反转「救孩子」——来「救」的人抓的是哥哥，孩子缩在他怀里尖叫；把孩子留在身边的反而是被指为绑架犯的 Mender。反转「强者救场」——Evelyn 手上没有枪，救场靠的是把「听证」这个词塞进对方的流程，让对方拒绝她显得不讲理。
-- **人物弧线**：Tris 从跪在地上数瓷砖的人，变成按住 Mender 手肘的人；她拦的不是一个坏人，是一条她认得的连锁反应。她也头一次承认自己同情这群人，而这份同情是拿对 Dauntless 的失望换来的：她本可能选的派系，放走了伤 Christina 的人。Evelyn 露出另一副面孔——council leader's wife 的嗓音、摊开的空手掌、把「不」变成失礼的问法。Mender 从护着妹妹的人变成被带走的人，一路上没再争。Jove 在 Rory 中针之后没有逞强，把镊子递了出去；Colin 接过来说自己的手稳。
+- **人物弧线**：Tris 从跪在地上、膝下瓷砖冰凉的人，变成按住 Mender 手肘的人；她拦的不是一个坏人，是一条她认得的连锁反应。她也头一次承认自己同情这群人，而这份同情是拿对 Dauntless 的失望换来的：她本可能选的派系，放走了伤 Christina 的人。Evelyn 露出另一副面孔——council leader's wife 的嗓音、摊开的空手掌、把「不」变成失礼的问法。Mender 从护着妹妹的人变成被带走的人，一路上没再争。Jove 在 Rory 中针之后没有逞强，把镊子递了出去；Colin 接过来说自己的手稳。
 - **叙事手法**：第一人称现在时，靠身体与声音推进：膝盖下的瓷砖、举到头上的手、耳朵里的鸣响、满屋的尖叫。关键处时间被拉慢（「everything around me is slowing down, going quiet」），事后又被压成一句「I go through the next hour in a daze」。全章几乎不给她评论的余地，唯一的判断留到叠衣服时——三个 It's the faction that 排下来，把失望说完。结尾是一句请求加一个条件句，把决定权交回给她。
 
 ## 精读
@@ -54,7 +54,7 @@ modified: "2026-10-31"
 
 **中文理解**：那本来只是一股直觉，随即变成一件确定的事：只要 Mender 抢下那把枪，眼下这一切只会更暴力。就像 Choosing Ceremony 上的那次——扎死那个无派系者女人的针，最后引到了打死 Robert 的那颗子弹。
 **关键词**：an instinct that turns into a certainty / steals that gun / Like the Choosing Ceremony / the needle that killed the factionless woman / the bullet that killed Robert
-**为什么这样写**：她把「直觉」升级成「确定」，靠的不是勇气，是一条她亲眼见过的链条：针→子弹。两个死者的名字被串进一句里，中间只隔一个破折号。这也说明她按他手肘的真正理由——不是信 Dauntless，是怕再来一轮。
+**为什么这样写**：她把「直觉」升级成「确定」，靠的不是勇气，是一条她亲眼见过的链条：针→子弹。一个无名死者和 Robert 被串进同一句，破折号落在「选择仪式」与「那根针」之间。这也说明她按他手肘的真正理由——不是信 Dauntless，是怕再来一轮。
 **读者视角提示**：针和子弹在这里第一次被她说成同一条因果。这不是比喻，是她在这个城市里学到的最实用的一条规律。
 
 > **原句 7:** "“Well, we have no formal system of organization, as I’m sure you’re aware, but I’m the oldest person here, so I’m comfortable acting as a spokesperson,” Evelyn says, still in that calm voice. Her hands are up, her palms facing Weaver. “What can I help you with?”"
@@ -68,7 +68,7 @@ modified: "2026-10-31"
 
 **中文理解**：事情严重到她连笑都想不到。他俯身到 Rory 上方，一点没犹豫，把镊子的尖扎进肉里；尖叫太响，我耳朵嗡嗡作响。
 **关键词**：I don’t even think about laughing / without hesitating / the points of the tweezers / my ears ring
-**为什么这样写**：第一句先把笑的路堵掉，后面两个动作才站得住。down 字连着用了两处，digging 和 yanking 都是短促的动作词，读者跟不上的时候事情已经做完了。收尾不收在伤口上，收在「我耳朵嗡嗡响」——她离得太近，只能当按住人的那只手。
+**为什么这样写**：第一句先把笑的路堵掉，后面两个动作才站得住。down 只出现一处，digging 和 yanking 都是短促的动作词，读者跟不上的时候事情已经做完了。收尾不收在伤口上，收在「我耳朵嗡嗡响」——她离得太近，只能当按住人的那只手。
 **读者视角提示**：上一句他还在拿「拔过木刺算不算」打岔，这一句镊子已经进去了。同一双手，前后隔了不到一分钟。
 
 > **原句 9:** "Some part of me hoped that Dauntless, the faction I should have chosen, the faction I wanted to choose, would be better than the rest. Instead it’s the faction that exiled Christina while her attacker goes free."

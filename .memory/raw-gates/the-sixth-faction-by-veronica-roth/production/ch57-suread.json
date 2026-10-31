@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch57",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch57_chap57.txt",
+ "facts": [
+  {
+   "fact": "Caleb 最初把枪管抵到 Four 头上时枪管是冷的，此刻已经变温；Four 觉得不对：死亡离头骨只有几厘米，该是冷的、并一直冷下去。",
+   "anchor": "The barrel was cold when Caleb first pressed it to my head",
+   "start": 40,
+   "end": 98
+  },
+  {
+   "fact": "他看着 Tris 的眼睛蒙上雾，模拟把她带走。",
+   "anchor": "I watch Tris’s eyes glaze over as the simulation takes her",
+   "start": 447,
+   "end": 505
+  },
+  {
+   "fact": "Caleb 不知道她是 Divergent，模拟抓她没有抓别人那么紧；Four 认为对方从没想到她可能特别、可能做得到他做不到的事。",
+   "anchor": "He doesn’t know she’s Divergent, and simulations don’t grip her as tightly",
+   "start": 545,
+   "end": 619
+  },
+  {
+   "fact": "Four 此刻的命系于 Tris 多快能走完恐惧模拟，而他认为做得到的人就是对面那个女孩。",
+   "anchor": "My life now rests in her ability to face her fear simulation quickly",
+   "start": 754,
+   "end": 822
+  },
+  {
+   "fact": "他必须拖时间，好让 Tris 走完恐惧模拟并浮上来。",
+   "anchor": "I have to stall",
+   "start": 1093,
+   "end": 1108
+  },
+  {
+   "fact": "他开口说「对」，把整套栽赃剧本念出来：Marcus Eaton 那个坏掉的儿子用模拟技术员身份与无派系者的关系向 Abnegation 复仇。",
+   "anchor": "Because there’s a whole elaborate plan to frame me for all of this",
+   "start": 1211,
+   "end": 1277
+  },
+  {
+   "fact": "他不确定，但觉得 Caleb 握枪的手松了一点；随后 Caleb 扳起击锤说「Do it」。",
+   "anchor": "I can’t be sure, but I think his grip on the gun falters a little",
+   "start": 1714,
+   "end": 1779
+  },
+  {
+   "fact": "删完记录后火焰短暂变蓝——请求的日志找不到时就会这样；模拟数据没了，Tris 仍蒙着眼站在对面。",
+   "anchor": "The flames turn briefly blue, as they do whenever a requested log isn’t found",
+   "start": 2561,
+   "end": 2638
+  }
+ ]
+}

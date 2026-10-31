@@ -1,0 +1,61 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch02_chap2.txt",
+ "facts": [
+  {
+   "fact": "母亲只在做饭时哼歌；这天她在切胡萝卜做汤，Beatrice 把最后几颗洋葱滑下砧板丢进锅里。",
+   "anchor": "She only ever hums when she cooks.",
+   "start": 67,
+   "end": 101
+  },
+  {
+   "fact": "议会领袖 Marcus Eaton 每周来家里吃一次晚饭，从他儿子离开 Abnegation 起，已持续两年。",
+   "anchor": "Marcus has been coming over for dinner once a week since his son left us—so, for two years.",
+   "start": 4038,
+   "end": 4129
+  },
+  {
+   "fact": "Marcus 的妻子 Evelyn Eaton 死于第二次怀孕的并发症；她的儿子数年后在选择仪式上离开 Abnegation，此后 Marcus 独居。",
+   "anchor": "Evelyn Eaton died from complications with her second pregnancy.",
+   "start": 3520,
+   "end": 3583
+  },
+  {
+   "fact": "Abnegation 的孩子在饭桌上不许说话；Beatrice 分心搅汤，直到察觉 Susan 在看她才开始吃。",
+   "anchor": "Children aren’t allowed to talk at the dinner table in Abnegation",
+   "start": 2683,
+   "end": 2748
+  },
+  {
+   "fact": "Beatrice 陪母亲服务无派系者，却厌恶每一秒；有人当面叫她 Stiff，她不还口。",
+   "anchor": "But I hate every second of it.",
+   "start": 6116,
+   "end": 6146
+  },
+  {
+   "fact": "议会领袖叫 Marcus Eaton，长相与父亲相仿（高个、短棕发、灰衣），但脸上什么都读不出来。",
+   "anchor": "The council leader’s name is Marcus Eaton.",
+   "start": 2990,
+   "end": 3032
+  },
+  {
+   "fact": "新闻简报称 Dauntless 城墙守卫出现记忆缺失、且事前都去过记忆库；Marcus 是全市唯一能完全进入记忆库系统的人，他把指控斥为 nonsense，反指 Erudite 领袖 Jeanine Matthews。",
+   "anchor": "notably the only person in the city with full access to the Memory Vault’s systems",
+   "start": 8121,
+   "end": 8203
+  },
+  {
+   "fact": "母亲没有提高声音，只判她「沉默之刑至明早」；违反者至少被关在 Abnegation 总部一天。",
+   "anchor": "Penalty of Silence until morning.",
+   "start": 9839,
+   "end": 9872
+  },
+  {
+   "fact": "夜里她穿上靴子爬消防梯上屋顶，离地至少十层，最后对着城市放声大喊，惊起一群黑鸟。",
+   "anchor": "I’m at least ten stories off the ground now",
+   "start": 13132,
+   "end": 13175
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch31",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch31_chap31.txt",
+ "facts": [
+  {
+   "fact": "Caleb 已把测试说明念到不用过脑子；本轮是这一版面孔识别流程的第 64 轮，受试者是一名 19 岁、身材像砖块垒起来的 Amity 志愿者。",
+   "anchor": "the sixty-fourth round of this particular version of the facial recognition protocol",
+   "start": 197,
+   "end": 281
+  },
+  {
+   "fact": "Jeanine 因他「对模拟有兴趣」把他派进实验室，他本以为会做点燃自己的事，结果 9B 实验室只有孤独的枯燥。",
+   "anchor": "Instead what he’s discovered in Laboratory 9B is lonely tedium.",
+   "start": 1122,
+   "end": 1185
+  },
+  {
+   "fact": "他多数早晨和 Fernando 吃早饭开读书会，读博弈论；Fernando 脑子快又肯等他，他则怨 Abnegation 的成长没给他底子。",
+   "anchor": "they’re reading about game theory",
+   "start": 1303,
+   "end": 1336
+  },
+  {
+   "fact": "他夜里穿拖鞋上五楼，用从 Cara 背后看来的 1351317（一组质数）开锁盒拿钥匙。",
+   "anchor": "types the access code—1351317, an arrangement of prime numbers",
+   "start": 5585,
+   "end": 5647
+  },
+  {
+   "fact": "他自认懂得不如 Erudite 出身的人多，但他是「敏锐的观察者」，第三关迷宫教会他的东西他一直拿来用。",
+   "anchor": "He may not know as much as everyone who was raised Erudite, but Caleb is a keen observer.",
+   "start": 5927,
+   "end": 6016
+  },
+  {
+   "fact": "他在 Cara 电脑上搜 objectives，读到第 4 轮的实验目标：为 4B 轮做对照组。",
+   "anchor": "OBJECTIVES: a control group for Round 4B",
+   "start": 6579,
+   "end": 6619
+  },
+  {
+   "fact": "他当着 Jeanine 承认自己不知道原来自己就是对照组，一边压着火气说他知道对照组怎么运作。",
+   "anchor": "I didn’t know that I was the control group.",
+   "start": 9247,
+   "end": 9290
+  },
+  {
+   "fact": "Jeanine 说挫折感来自好奇心，好奇心像饥饿口渴一样应当被满足，并问他要不要多听些实验的事。",
+   "anchor": "Frustration arises from curiosity",
+   "start": 9583,
+   "end": 9616
+  },
+  {
+   "fact": "惩罚是入门期内每周三协助 Jeanine 和 Cara；Caleb 心里清楚这根本不像惩罚，嘴上说「that sounds fair」。",
+   "anchor": "assisting me and Cara every Wednesday for the rest of your initiation period",
+   "start": 12488,
+   "end": 12564
+  }
+ ]
+}

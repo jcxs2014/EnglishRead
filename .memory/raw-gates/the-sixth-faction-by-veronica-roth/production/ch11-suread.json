@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch11",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch11_chap11.txt",
+ "facts": [
+  {
+   "fact": "母亲把一张写着 STAY LATE 的纸片留在衣堆上，Beatrice 折好收进口袋",
+   "anchor": "“STAY LATE,” it reads.",
+   "start": 2933,
+   "end": 2955
+  },
+  {
+   "fact": "后巷里母亲先开口，问切除是不是没成功",
+   "anchor": "“It didn’t work, did it?” she asks me. “The excision, I mean.”",
+   "start": 3952,
+   "end": 4014
+  },
+  {
+   "fact": "母亲说她在 Evelyn 的葬礼之前就已经知道这件事",
+   "anchor": "“I’ve known since before Evelyn’s funeral,” she says, looking grave.",
+   "start": 4727,
+   "end": 4795
+  },
+  {
+   "fact": "母亲警告：身份被人知道的人最后都死了，并逼她回答听懂了没有",
+   "anchor": "Those who have . . . they end up dead. Do you understand?",
+   "start": 6397,
+   "end": 6454
+  },
+  {
+   "fact": "母亲说无派系者分两类：她见过的，和她从没见过的",
+   "anchor": "There are two types of factionless, Beatrice. The kind you’ve seen . . . and the kind you’ve never seen.",
+   "start": 11352,
+   "end": 11456
+  },
+  {
+   "fact": "母亲说她知道一个可以去的地方，并说自己在无派系者中间有联系人",
+   "anchor": "“I know a place you can go. I have a contact among the factionless,” she says.",
+   "start": 10990,
+   "end": 11068
+  },
+  {
+   "fact": "母亲暗示开枪的人目标可能不是 Robert",
+   "anchor": "“Maybe,” she says delicately, “they weren’t aiming for Robert.”",
+   "start": 12961,
+   "end": 13024
+  },
+  {
+   "fact": "Beatrice 自己把「叛逃」这条没说出口的路说出来",
+   "anchor": "I can defect.",
+   "start": 8770,
+   "end": 8783
+  }
+ ]
+}

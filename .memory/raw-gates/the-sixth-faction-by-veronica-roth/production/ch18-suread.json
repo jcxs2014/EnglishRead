@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch18",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch18_chap18.txt",
+ "facts": [
+  {
+   "fact": "今天是探视日：各派系的家庭在 The Pit 团聚，抱女儿、搂儿子、扶老人爬坡；Four 说这「就是一场噩梦」，一早出城跑步，随后搭上西行的火车。",
+   "anchor": "Today is Visiting Day.",
+   "start": 40,
+   "end": 62
+  },
+  {
+   "fact": "他每季度要去城墙检查 signal repeaters，让 Dauntless 的电脑把模拟投射到城外——这是他往西走的实际差事。",
+   "anchor": "Every quarter I have to go to the wall that surrounds our city",
+   "start": 641,
+   "end": 703
+  },
+  {
+   "fact": "他在 Amity 之前的最后一站下车，母亲 Evelyn 全身黑衣、梳着辫子，已经在栏杆边等，眼睛是难过的。",
+   "anchor": "Evelyn is standing at the railing, looking down at the pond below us.",
+   "start": 1419,
+   "end": 1488
+  },
+  {
+   "fact": "他当面说母亲是骗子（liar），她像挨了一拳；他几乎有点难受，但那句话他是认真的。",
+   "anchor": "She flinches like the word was a punch",
+   "start": 2602,
+   "end": 2640
+  },
+  {
+   "fact": "Evelyn 一掌拍在栏杆上、转身逼近，说要杀了「他」（Marcus），而且那只是开始。",
+   "anchor": "Is that specific enough for you?",
+   "start": 4645,
+   "end": 4677
+  },
+  {
+   "fact": "他丢下一句 Goodbye 转身走，她在背后留话：改变主意就来 Rookery 找她，她需要他帮忙处理「之后」的事。",
+   "anchor": "you can always find me at the Rookery",
+   "start": 5488,
+   "end": 5525
+  },
+  {
+   "fact": "回总部路上他撞见 Zeke 与 Uriah 的母亲 Hana；她当场点破「我知道你在哪工作」，他还是六点去了她家，带了一条用牛皮纸包的面包。",
+   "anchor": "Hana is her name.",
+   "start": 6269,
+   "end": 6286
+  },
+  {
+   "fact": "他想起 Beatrice（Tris）的话：在哪儿都不合身；另一种可能是「坏掉的是你自己」，这种想法受不了。",
+   "anchor": "is too much to bear",
+   "start": 12558,
+   "end": 12577
+  }
+ ]
+}

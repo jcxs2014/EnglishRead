@@ -34,7 +34,7 @@ modified: "2026-10-31"
 **中文理解**：今天 Evelyn 穿得像个 Dauntless：一身黑，厚头发编成辫子。看见他，她直起身来。「今天是探视日，」她说，笑意只到最浅的一层。
 **关键词**：dressed like a Dauntless / all in black / the barest hint of a smile / She straightens up when she sees me
 **为什么这样写**：三个信息按看的顺序给：先看她穿什么，再看她怎么站起来，最后听她说什么。dressed like a Dauntless 是全章最省力的一处人物交代——无派系者那边的人，穿着对手阵营的制服来见儿子，这身衣服既是伪装也是宣言。the barest hint of a smile 把笑量化到最小单位：她给的不是笑，是笑的许可。她开口只是报日期，等于替这场私会找一个公共理由。
-**读者视角提示**：她连坐姿都先调整好才让他看见。这不是母亲见到儿子，是谈判方先摆好位置。
+**读者视角提示**：她连站姿都先调整好才让他看见。这不是母亲见到儿子，是谈判方先摆好位置。
 
 > **原句 4:** "“Sentries are my people, you know,” I say. “I’ve got a Dauntless name and a Dauntless job and a whole Dauntless life. I’m not just going to leave it because of a vague pronouncement from you.”"
 
@@ -68,7 +68,7 @@ modified: "2026-10-31"
 
 **中文理解**：她叫 Hana。个子小——又矮又窄——比 Dauntless 日常见到的大多数人都更娴静。她当然也穿黑，可衣服是裁过的，衬衫领子熨得平。
 **关键词**：Hana is her name / more demure than most of the Dauntless / her clothes are tailored
-**为什么这样写**：三个细节全朝「收」的方向走：窄、娴静、裁过的衣服、熨平的领子。Dauntless 用纹身和伤疤标记自己，她用针脚和熨斗。这段没有一句评价，却把他熟悉的派系制服拆给人看：同一身黑，穿法不同就是另一种人。名字被单独放在第一句，只有三个词，像在一张名单上登记。
+**为什么这样写**：三个细节全朝「收」的方向走：窄、娴静、裁过的衣服、熨平的领子。Dauntless 用纹身和伤疤标记自己，她用针脚和熨斗。这段没有一句评价，却把他熟悉的派系制服拆给人看：同一身黑，穿法不同就是另一种人。名字被单独放在第一句，只有四个词，像在一张名单上登记。
 **读者视角提示**：她是他朋友们的母亲，也是本章唯一一个见他不图他任何东西的成年人。
 
 > **原句 9:** "For a few long seconds I’m listening to the chopping, and the bubbling of the pot on the stove, and the hiss of water as Hana rinses something in the sink, and it reminds me of home. And thinking about home makes my throat tighten."

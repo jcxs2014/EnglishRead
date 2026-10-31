@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch24",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch24_chap24.txt",
+ "facts": [
+  {
+   "fact": "第四部第一章开场：Caleb 的入门最终测试又是一座迷宫。",
+   "anchor": "The final initiation test is another labyrinth.",
+   "start": 41,
+   "end": 88
+  },
+  {
+   "fact": "他改练 Erudite 教的、以观察为核心的冥想法，而不是 Abnegation 那套静心法。",
+   "anchor": "a distinct form of meditation taught by Erudite practitioners that centers around observation",
+   "start": 227,
+   "end": 320
+  },
+  {
+   "fact": "Fernando 拿带三角支撑的金属楔子去卡门，被门碾成碎片。",
+   "anchor": "the doors crush the wedge he made into fragments",
+   "start": 2776,
+   "end": 2824
+  },
+  {
+   "fact": "他发现自己一直在记的开关序列其实是二进制。",
+   "anchor": "He’s writing in binary.",
+   "start": 3809,
+   "end": 3832
+  },
+  {
+   "fact": "他认出重复出现的短语，笑出声。",
+   "anchor": "Caleb laughs when he recognizes the repeating phrase",
+   "start": 3981,
+   "end": 4033
+  },
+  {
+   "fact": "他从模拟里出来，站在院中水池里，脚踝边有一片睡莲叶。",
+   "anchor": "He’s standing in the courtyard pool, a lily pad near his bare ankle.",
+   "start": 5828,
+   "end": 5896
+  },
+  {
+   "fact": "只有最先完成最终迷宫的前三名才能直接见到 Jeanine Matthews。",
+   "anchor": "only the first three to finish the final labyrinth get to meet with Jeanine Matthews",
+   "start": 6878,
+   "end": 6962
+  },
+  {
+   "fact": "他申请的方向是模拟技术。",
+   "anchor": "I want to learn about the simulations",
+   "start": 11423,
+   "end": 11460
+  }
+ ]
+}

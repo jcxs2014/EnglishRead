@@ -61,7 +61,7 @@ modified: "2026-10-31"
 
 **中文理解**：可他眼里没有认出她的意思。他多半不记得她，而这怪不得他：择派仪式上他扶她起来的时候，她只是个 Abnegation 女孩，和别的 Abnegation 女孩没有分别。
 **关键词**：no recognition in his eyes / must not remember me / can I blame him / helped me to my feet / identical to every other Abnegation girl
-**为什么这样写**：先给事实（没有认出），再替对方找理由（can I blame him），最后用 identical 把自己解释成可以互换的一个。三层递进，越解释越把自己抹掉。at the Choosing Ceremony 把两个场景接上：那一次她需要人扶，这一次她坐到了他对面。
+**为什么这样写**：先给事实（没有认出），再替对方找理由（can I blame him），最后用 identical 把自己解释成可以互换的一个。三层递进，越解释越把自己抹掉。at the Choosing Ceremony 把两个场景接上：那一次她需要人扶，这一次他走到她对面的门框边站住。
 **读者视角提示**：她真正在意的不是他忘了，而是「那时候的我确实不值得记住」。这一句替她后面那段自述铺了台阶。
 
 > **原句 8:** "“You chose the wrong faction, or you think you did,” I say. “You don’t quite fit no matter where you are. And the more you learn about the world, about this city, about all the things you were told, the more confused you feel about where to go, what to do.”"

@@ -1,0 +1,61 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch12",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch12_chap12.txt",
+ "facts": [
+  {
+   "fact": "夜里闷热、空气不动，Beatrice 听着 Mary 的鼾声指望能睡着，但没用，最后穿上拖鞋走进院子。",
+   "anchor": "all the windows are open",
+   "start": 69,
+   "end": 93
+  },
+  {
+   "fact": "Susan Black 半夜在门口破了自己立的沉默誓，告诉 Beatrice：Robert 在能力测试之后说，他原本打算选 Amity，而且他想要一个 Abnegation 的结果。",
+   "anchor": "Robert was planning on choosing Amity",
+   "start": 1648,
+   "end": 1685
+  },
+  {
+   "fact": "Susan 说仪式那天她还在生 Robert 的气，几乎没跟他说话；他对她说他爱她，她没有回那句话。",
+   "anchor": "I didn’t say it back",
+   "start": 2162,
+   "end": 2182
+  },
+  {
+   "fact": "第二天她把一叠衣服送去捐赠中心交给母亲，外套翻领下夹着一张写着「I need answers」的纸条。",
+   "anchor": "I need answers",
+   "start": 5287,
+   "end": 5301
+  },
+  {
+   "fact": "宵禁后母亲在走廊里等她，一手一只包，带她走出 Abnegation 总部，说要去赶一列火车，并答应教她怎么上。",
+   "anchor": "We’re going to catch a train",
+   "start": 6786,
+   "end": 6814
+  },
+  {
+   "fact": "母亲在木站台上发令：她喊跑就跑向站台另一端，她喊跳就把身体使劲向右扑——最不优雅、但最不取巧的上车方式。",
+   "anchor": "you’re going to throw your body to the right",
+   "start": 9026,
+   "end": 9070
+  },
+  {
+   "fact": "母亲说车厢里要见的人对无派系者很重要；她当年帮过那人做一模一样的事，所以对方欠她人情，答应照看 Beatrice。",
+   "anchor": "she owes me a favor",
+   "start": 9706,
+   "end": 9725
+  },
+  {
+   "fact": "Evelyn Eaton 在车厢里听完她说该选 Dauntless，笑着说「有其母必有其女」，点破母亲当年也是 Dauntless 出身。",
+   "anchor": "Like mother, like daughter",
+   "start": 12943,
+   "end": 12969
+  },
+  {
+   "fact": "母亲跳下车、绕过弯道消失后，Beatrice 对 Evelyn 说不许再叫她 Beatrice，并给自己取名 Tris。",
+   "anchor": "Call me Tris",
+   "start": 14700,
+   "end": 14712
+  }
+ ]
+}

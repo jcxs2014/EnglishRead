@@ -34,7 +34,7 @@ modified: "2026-10-31"
 **中文理解**：Marcus 说，在场有些人这是最后一次进这间屋子；记忆库是神圣的，里面存着这座城市的历史，也存着所有人的历史，所有派系的人。
 **关键词**：the last time you ever enter this room, sacred, history of our city, all our people, across all factions
 **为什么这样写**：他先给「最后一次」，再说这间屋子是什么——顺序决定分量：听众先知道自己被允许过一次，然后才知道被允许的是什么。all our people 被重复一遍，把「我们」从一派扩到全城；sacred 与 last time 并排放着，等于说今晚看见的东西，明天起就轮不到你看。
-**读者视角提示**：「for some of you」给「最后一次」留了例外：不是所有人都只来这一回。这句例外没有解释缘由，只说明有人会被再叫进来一次。
+**读者视角提示**：「for some of you」给「最后一次」留了例外：不是所有人都只来这一回。缘由就写在同一段：各界都有人被召来献东西，有人不止一次，有人一次也没有。
 
 > **原句 4:** "In a few seconds Tori will come back in here and tell me that my results were inconclusive. She’ll point out that I’m not supposed to be aware during simulations. She’ll call me Divergent and tell me it’s dangerous for me and everyone I tell."
 

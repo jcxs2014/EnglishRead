@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch34",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch34_chap34.txt",
+ "facts": [
+  {
+   "fact": "Tris 走进 Jeanine Matthews 的办公室：地砖、墙、天花板全是白的，门对面是一整排望向沼泽的窗。",
+   "anchor": "Everything in Jeanine Matthews’s office is white.",
+   "start": 40,
+   "end": 89
+  },
+  {
+   "fact": "她进门时一个穿全黑的男孩正往外走，满脸穿孔；她起初不知道这个 Dauntless 男孩为什么在 Erudite 总部，随后靠 Christina 的描述认出是 Eric，Dauntless 的年轻领袖。",
+   "anchor": "a boy is walking out. He’s dressed head to toe in black",
+   "start": 340,
+   "end": 395
+  },
+  {
+   "fact": "Jeanine 站在左侧实验台前，墙上投着一张她看不懂的图（数字、尺寸、细线、古怪标记），图底部写着 “portable signal repeater”。",
+   "anchor": "Written at the bottom of it is the phrase “portable signal repeater.”",
+   "start": 1150,
+   "end": 1219
+  },
+  {
+   "fact": "她注意到 Erudite 的衣料最好，因为有一屋子 fabricator（三维打印机）；还听到传言说有 Fox 成员想在年底前偷一台。",
+   "anchor": "The Erudite always have the best fabric, thanks to their rooms full of fabricators",
+   "start": 1612,
+   "end": 1694
+  },
+  {
+   "fact": "Jeanine 抬头请她坐下，称她 Miss Prior；Tris 站着不坐，直到 Jeanine 回到桌后。",
+   "anchor": "“Have a seat, please, Miss Prior.”",
+   "start": 1253,
+   "end": 1287
+  },
+  {
+   "fact": "Jeanine 说自己记得她，上次见面是在补办的 Choosing Ceremony 上她选了 Abnegation，并说 Caleb 提到过她、担心她。",
+   "anchor": "you were choosing Abnegation at the makeup Choosing Ceremony",
+   "start": 2219,
+   "end": 2279
+  },
+  {
+   "fact": "她改了说法，编第二个谎：告诉 Jeanine 自己的测试结果是 Dauntless，因为不敢那样对父母，才求测试官手动登记成假结果。",
+   "anchor": "“I got Dauntless.” I look at my fingers twisted together in my lap.",
+   "start": 4437,
+   "end": 4504
+  },
+  {
+   "fact": "Jeanine 让 Shawn 送她出去，提醒她不准再进这栋楼，并为她的遭遇表示遗憾；最后一句 “I’ll keep an eye out for you” 听起来像威胁。",
+   "anchor": "“I’ll have Shawn escort you out,”",
+   "start": 5905,
+   "end": 5938
+  }
+ ]
+}

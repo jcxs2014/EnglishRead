@@ -20,7 +20,7 @@ modified: "2026-10-31"
 **中文理解**：她庆幸这一回只需要点头；真让她开口，她怕整件事会从嘴里泼出去——Evelyn Eaton 还活着，而 Abnegation 的领袖们不想让任何人知道，尽管那个人当时和杀 Robert 的人站在一起。
 **关键词**：the whole truth would come spilling out, Evelyn Eaton is alive, the Abnegation leaders don’t want anyone to know, the people who killed Robert
 **为什么这样写**：先把动作降到最低（nod），再让开口变成危险动作：spilling out 是泼、是兜不住，不是「说出」，说明那些话在她体内已经满了。接着三个事实挤在一句里——活着的 Evelyn、不想让人知道的领袖、杀 Robert 的人——她一个人同时握着三头，任何一头漏出去都够她死，所以第一个动作是闭嘴。
-**读者视角提示**：她说的是「庆幸」，不是「难过」；先有这层庆幸，后面母亲说「你什么都不用说」时那种松一口气才成立。
+**读者视角提示**：她说的是「庆幸」，不是「难过」；先有这层庆幸，后面母亲开口第一句是「excision 没成功，对吧」，那种松一口气才成立。
 
 > **原句 2:** "But the next day, as I press an Erudite shirt flat to the table and fold in each side with a sharp crease, I think I’m getting nowhere. How many times can I remember the relief in my father’s eyes when he thought he’d successfully scrubbed my memory clean? Or the way Marcus Eaton, council leader, nodded at him like this was something they’d done a dozen times before?"
 
@@ -40,7 +40,7 @@ modified: "2026-10-31"
 
 **中文理解**：她说自己没有答案，只有猜测：Evelyn Eaton 是议会领袖的妻子，能接触到只有议会领袖才知道的信息；如果领导层决定假装她死了，多半是不想让人追问她为什么出走。
 **关键词**：only guesses, the council leader’s wife, information that only the council leader would know, pretend she was dead, why she fled
-**为什么这样写**：开头先交底（only guesses），再用两个「只有议会领袖」把推理拧紧：她的身份就是一条信息通道，所以处理她的方式只能是让通道不存在。整段用 If…it was likely because 收尾，把指控说成推测——母亲在教她怎么想，也在教她别把话说满。
+**为什么这样写**：开头先交底（only guesses），再用「她是议会领袖的妻子」和「那等于能拿到只有议会领袖才知道的信息」两点把推理拧紧：她的身份就是一条信息通道，所以处理她的方式只能是让通道不存在。整段用 If…it was likely because 收尾，把指控说成推测——母亲在教她怎么想，也在教她别把话说满。
 **读者视角提示**：她给的是推理链不是内幕：妻子→信息→必须消失。承认「只能猜到这一步」，比全知更让人发冷。
 
 > **原句 5:** "It’s just the way you were born. But what you are, what you can do . . .” Her hand cups the back of my head, and she bends down to look into my eyes. “You can never let anyone know."
@@ -54,14 +54,14 @@ modified: "2026-10-31"
 
 **中文理解**：她说可以假装切除生效了，把入门期走完，把这些全忘掉，继续在 Abnegation 过日子——那会是最安全的一条路。
 **关键词**：pretend that the memory excision worked, finish your initiation, continue your life in Abnegation, the safest path
-**为什么这样写**：三个动词排成流水线：pretend → finish → continue，每一步都不需要她做决定，只需要她往下走。最后一句单独成句，把「安全」从建议升成判词——通篇没有一个字提到「对不对」，因为这条路的好处就是不问对错。
+**为什么这样写**：四个动词排成流水线：pretend → finish → forget → continue，每一步都不需要她做决定，只需要她往下走。最后一句单独成句，把「安全」从建议升成判词——通篇没有一个字提到「对不对」，因为这条路的好处就是不问对错。
 **读者视角提示**：注意「安全」是说话人给的评价；这条路的代价写在动词里：忘掉、继续，两件事都得她一个人做。
 
 > **原句 7:** "And I know, deep down where the truth lives in my body, that she’s right. A life here would be a life of pretending, and not just pretending my father didn’t try to take away my memories, or that the faction doesn’t do that routinely—but pretending not to be curious. Pretending to be quiet."
 
 **中文理解**：她心里最深处知道对方说得对：留在这里就是一辈子演——不只是演父亲没想拿走她的记忆、演这个派系不常这么干，还要演自己不好奇，演安静。
 **关键词**：deep down where the truth lives, a life of pretending, the faction doesn’t do that routinely, pretending not to be curious, Pretending to be quiet
-**为什么这样写**：句子一层层加码：先否掉「只是那一件事」，再用 not just…but 把范围从事件推到性格。两个 Pretending 各自独立成句、一个比一个短，最后只剩三个词，节奏跟着呼吸一起收窄。deep down where the truth lives in my body 给「真相」配了住址，它不在脑子里，在身体里。
+**为什么这样写**：句子一层层加码：先否掉「只是那一件事」，再用 not just…but 把范围从事件推到性格。两个 Pretending 各自独立成句，前一句四个词、后一句五个词，第二句反而更长，节奏跟着呼吸一起收窄。deep down where the truth lives in my body 给「真相」配了住址，它不在脑子里，在身体里。
 **读者视角提示**：她认下的不是「我该走」，而是「留下＝长期扮一个不是我的人」。这是全章真正掉头的一句，后面的哭是这句的结果。
 
 > **原句 8:** "“I’ve been trying to build trust with some of the factionless who come to the donation center, and what I’ve learned is this: There are two types of factionless, Beatrice. The kind you’ve seen . . . and the kind you’ve never seen.”"

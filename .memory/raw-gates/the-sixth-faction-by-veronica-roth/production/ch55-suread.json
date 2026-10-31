@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch55",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch55_chap55.txt",
+ "facts": [
+  {
+   "fact": "Tris 进教堂圣所前先关上门，靠这个动作确认手指还在动——她感觉不到自己的手。",
+   "anchor": "I close the door behind me before I move into the church sanctuary",
+   "start": 68,
+   "end": 134
+  },
+  {
+   "fact": "父亲两手按在她肩上，她退开不是因为臂上的伤口疼，而是那份把她往下拽的重量。",
+   "anchor": "The weight of his hands, dragging me down when I’m already so heavy, is unbearable.",
+   "start": 394,
+   "end": 477
+  },
+  {
+   "fact": "父亲明白妻子已死，脸垮下来，嘴张开、眼睛空掉，像他的偶人。",
+   "anchor": "His face falls. Mouth gone slack, eyes empty.",
+   "start": 1091,
+   "end": 1136
+  },
+  {
+   "fact": "Tobias 从黑暗里出现，把她从父亲和 Caleb 身边带走，让她坐下。",
+   "anchor": "Tobias materializes from the dark, like I dreamed him into being.",
+   "start": 1364,
+   "end": 1429
+  },
+  {
+   "fact": "Marcus 递出的是自己身上那件衬衫，Tobias 接过撕成布条给她绑伤口。",
+   "anchor": "It’s his shirt—he still has an undershirt on, with his gray jacket over it",
+   "start": 2919,
+   "end": 2993
+  },
+  {
+   "fact": "Tobias 检查伤口，说子弹应该是穿透了，又点她的肩说那是出口。",
+   "anchor": "I think the bullet went right through you",
+   "start": 2574,
+   "end": 2615
+  },
+  {
+   "fact": "她以策划者的思路推断模拟室不会无人看守，于是带人贴墙靠近廊角。",
+   "anchor": "But if I was Jeanine Matthews, planning this kind of attack, I wouldn’t leave the simulation unguarded.",
+   "start": 11538,
+   "end": 11641
+  },
+  {
+   "fact": "章末 Caleb 脱下夹克掏出枪，枪口对准 Tobias 的后脑。",
+   "anchor": "He points it at the back of Tobias’s head.",
+   "start": 15950,
+   "end": 15992
+  }
+ ]
+}

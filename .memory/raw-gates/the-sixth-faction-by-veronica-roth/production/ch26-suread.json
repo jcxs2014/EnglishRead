@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch26",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch26_chap26.txt",
+ "facts": [
+  {
+   "fact": "清晨的墙头岗上，Zeke 收枪，直接从 Four 手里把咖啡杯拿走。",
+   "anchor": "Zeke holsters his gun and grabs the coffee cup right out of my hands.",
+   "start": 40,
+   "end": 109
+  },
+  {
+   "fact": "墙头巡逻是有身份的任务，只给最可信最能打的 Dauntless，但也无聊到让人发木。",
+   "anchor": "Wall patrol is a high-status detail, only for the most trustworthy and skilled Dauntless, but it’s also mind-numbingly boring.",
+   "start": 445,
+   "end": 571
+  },
+  {
+   "fact": "因为 Dauntless 的电脑够不到这么远，所以墙上固定着信号中继器，把恐惧模拟转发、向外投射。",
+   "anchor": "So there are signal repeaters fixed to the wall to channel the computer’s simulations and project them outward.",
+   "start": 2979,
+   "end": 3090
+  },
+  {
+   "fact": "Zeke 抱怨上午要全盘清点：有人数错了武器送货，整整一箱枪不见了。",
+   "anchor": "We’re missing an entire crate full of guns is what that means.",
+   "start": 1474,
+   "end": 1536
+  },
+  {
+   "fact": "夺旗夜被 Eric 推迟到第一轮淘汰之后才办。",
+   "anchor": "Eric wanted to delay it until after the first round of cuts.",
+   "start": 4937,
+   "end": 4997
+  },
+  {
+   "fact": "分队：Eric 先挑 Peter，再挑 Edward、Drew、Molly、Al；Four 这边除 Uriah 外得到 Lynn、Will、Marlene。",
+   "anchor": "Eric takes Peter, then Edward, Drew, Molly, and Al. In addition to Uriah we get Lynn, Will, and Marlene.",
+   "start": 6036,
+   "end": 6140
+  },
+  {
+   "fact": "明知自己怕高，Four 还是把手放上梯子，跟着 Tris 往上爬。",
+   "anchor": "Then my hands are on the rungs, and I’m following her.",
+   "start": 15247,
+   "end": 15301
+  },
+  {
+   "fact": "看见河边火光冲天，Tris 说那大概是 Evelyn 放的火，说得很不情愿。",
+   "anchor": "“Probably Evelyn,” she says, with obvious reluctance.",
+   "start": 21607,
+   "end": 21660
+  }
+ ]
+}

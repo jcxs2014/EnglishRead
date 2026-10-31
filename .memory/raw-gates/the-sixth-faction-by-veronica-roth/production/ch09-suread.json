@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch09",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch09_chap9.txt",
+ "facts": [
+  {
+   "fact": "同批新人一个接一个解开谜题、低声报给迷宫守卫，再穿过树叶门进入 Erudite 总部；最后只剩 Caleb、选择仪式上排在他妹妹之后的 Felicity、一个名字没记住的 Candor 男孩和一个过度换气的 Erudite 男孩。",
+   "anchor": "his fellow initiates have solved the riddle in front of them",
+   "start": 107,
+   "end": 167
+  },
+  {
+   "fact": "谜题刻在迷宫一棵密树下方的石基座上，一共四句，Caleb 已经读了一百遍：它把人彼此隔开，没有的人不想要，有的人不知道自己有，摆脱它的唯一办法是认出它。",
+   "anchor": "It is what separates us from each other",
+   "start": 1741,
+   "end": 1780
+  },
+  {
+   "fact": "Felicity 声音发抖地说自己从前喜欢谜题、现在不了；Caleb 回说规则不允许互相帮忙，他也不想接受帮助，只按了按选择仪式上被玻璃划伤、还缠着绷带的手臂，疼痛并没有让他集中。",
+   "anchor": "We’re not supposed to help each other",
+   "start": 3286,
+   "end": 3323
+  },
+  {
+   "fact": "他跪到石基座前闭眼做深呼吸，耳边响起的不是自己的声音而是父亲的声音；他一边默念这块石头大概是花岗岩、由岩浆冷却而成，一边纠正自己该想的是「什么都不想」。",
+   "anchor": "he hears his father’s voice instead of his own",
+   "start": 4598,
+   "end": 4644
+  },
+  {
+   "fact": "睁眼后他顺着自己呼气的方向把谜题倒着读一遍，答案像新开的花一样在脑中展开，他冲到石狮前喊出「Ignorance」，把那个 Erudite 男孩留在了身后。",
+   "anchor": "he reads it backward",
+   "start": 5544,
+   "end": 5564
+  },
+  {
+   "fact": "Cara 在 Exchange 餐厅宣布已经少了一个人：多年的入会数据显示，到这时还解不出谜题的人之后也解不出，所以队伍不再等他。",
+   "anchor": "We’ve lost one of your number already",
+   "start": 8533,
+   "end": 8570
+  },
+  {
+   "fact": "除 Caleb 之外有十九名新人，正在议论他；只有 Fernando 朝他笑并伸手自我介绍，Caleb 不习惯握手，但至少记住了一个新名字。",
+   "anchor": "there are nineteen of them, apart from Caleb",
+   "start": 5977,
+   "end": 6021
+  },
+  {
+   "fact": "Jeanine Matthews 走进 Exchange，问谁是第一个解出谜题的人，Fernando 举手；她又问除那个失败者外谁是最后一个，Caleb 举手，随后被告知明天最好有所长进。",
+   "anchor": "Who was the first one to solve the riddle",
+   "start": 10277,
+   "end": 10318
+  }
+ ]
+}

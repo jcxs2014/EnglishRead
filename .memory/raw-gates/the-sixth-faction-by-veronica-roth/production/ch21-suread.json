@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch21",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch21_chap21.txt",
+ "facts": [
+  {
+   "fact": "Rookery 上层一间没有光的房间，每天下午晚饭前开无派系者的防身课，跟早晨跑步和外出不同，这门课可以不上。",
+   "anchor": "Factionless self-defense lessons are held every afternoon, right before dinner",
+   "start": 40,
+   "end": 118
+  },
+  {
+   "fact": "Tris 一直没被允许开始上课，条件是她能比较稳地上下列车，所以今天才是她的第一天。",
+   "anchor": "I wasn’t allowed to start until I could get on and off a train",
+   "start": 419,
+   "end": 481
+  },
+  {
+   "fact": "Gretchen 把她叫到窗边，直言技巧救不了体格差，她自己的办法是跑，越快越好。",
+   "anchor": "best bet is to be as quick as possible",
+   "start": 2826,
+   "end": 2864
+  },
+  {
+   "fact": "Gretchen 说这里不是 Dauntless，不看花哨的技术展示，唯一目标是活下来，并劝她换个擅长的事练。",
+   "anchor": "we don’t care about flashy displays of technique here",
+   "start": 3508,
+   "end": 3561
+  },
+  {
+   "fact": "她回宿舍哭，刺到她的不是那句话本身，而是她要的东西与她是的东西对不上。",
+   "anchor": "a misalignment of what I want and what I am",
+   "start": 6152,
+   "end": 6195
+  },
+  {
+   "fact": "Christina 讲昨夜被 Peter 用食堂黄油刀磨尖后刺中眼睛，起因是 Molly 排名垫底要被淘汰。",
+   "anchor": "He’d sharpened one of the butter knives from the cafeteria",
+   "start": 7660,
+   "end": 7718
+  },
+  {
+   "fact": "Tris 说 Christina 真正难过的不是好看不好看，而是失去了自己以为会有的那种人生。",
+   "anchor": "It’s about not having the life you thought you would.",
+   "start": 8629,
+   "end": 8682
+  },
+  {
+   "fact": "Christina 说 initiation 时 Four 教过和她一样矮的姑娘，并提出把自己会的那点东西教给她。",
+   "anchor": "But I can teach you what I know, if you want.",
+   "start": 10766,
+   "end": 10811
+  }
+ ]
+}

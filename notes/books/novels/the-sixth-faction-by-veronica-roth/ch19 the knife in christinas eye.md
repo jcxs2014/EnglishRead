@@ -68,7 +68,7 @@ modified: "2026-10-31"
 
 **中文理解**：「我不想再做 Dauntless 了，」她说。「所以跟他吵没有意义。你要真想帮忙，就把他给我弄出去。」
 **关键词**：I don’t want to be Dauntless anymore / no point in fighting with him / get him the hell out of here
-**为什么这样写**：三句话把主动权从两个男人手里拿走：她宣布退出，判定争吵无意义，然后派活。章前半他一直替她做决定——不许拔刀、送去哪、该叫谁来；这里她自己做了最大的那个决定，顺手把 Eric 从他的位置上撤掉。三个动词全是命令式，get him the hell out of here 里的 hell 只是把语气压重，真正用力的是那个 get。
+**为什么这样写**：三句话把主动权从两个男人手里拿走：她宣布退出，判定争吵无意义，然后派活。章前半他一直替她做决定——不许拔刀、送去哪、该叫谁来；这里她自己做了最大的那个决定，顺手把 Eric 从他的位置上撤掉。三句里只有最后一句是命令式，get him the hell out of here 里的 hell 只是把语气压重，真正用力的是那个 get。
 **读者视角提示**：她刚从「合格」那一栏退出来，退得比谁都快。他替她不服，她已经不打算要那个位置了。
 
 > **原句 9:** "I may not be eager to join the factionless, but I’m not going to withhold help from Christina. And Evelyn will make sure Christina is safe if I ask her to, even if it’s just to manipulate me."

@@ -8,8 +8,8 @@ modified: "2026-10-31"
 ## 本章导航
 
 - **一句话概括**：Four 带着头上缠绷带的 Christina 走进 Rookery 正门，Evelyn 收下这个姑娘，还要 Tris 当面把三条规矩背给她听。Four 拒绝由 Tris 送他出去，说她是 Evelyn 拿来牵他的手段，那声「lackey」她听着还是刺了一下。两人一前一后进隧道，他讥她这么快就成了 Evelyn 的心头锡兵，她回敬说论锡兵你也算一个。他自报是新兵教官兼模拟技术员，她想起择派仪式上扶她起来的那只手；从他绷紧的下巴和皱起的眉，她认出他是 Tobias Eaton——Evelyn 的儿子。她只回一句「我姓 Prior」，他知道自己被看穿了，骂这又是一次安排，摔门出巷。巷口传来巡逻队的说话声，她一把把他按回墙上，贴着墙等脚步走远，最后答应替他照看 Christina。
-- **情感弧线位置**：接上一章末尾那句「告诉她我会考虑」。全章从最低处往上走：她站在 Rookery 的亮光里看 Four 走进来，自己只是被点名背规矩的人；被叫 lackey 那一下是全章最疼的地方，她的反应不是反驳，是承认了一半。隧道里是唯一平视的一段，两个人互相验货，她第一次从对方嘴里听到对方向她下的判断。认出身份后落差最大，他把她当第二次安排，她连辩解的机会都没有。结尾两人并肩贴墙，不靠信任，靠同一件危险的事。
-- **Tropes 兑现/反转**：兑现「护送」——Evelyn 派她去送一个不肯被送的人，一路都在这条任务上打转。兑现「身份揭穿」——她靠两张脸的相似把 Tobias 认出来，对方当场否认这个名字。兑现「敌人变同伙」——巷口那一下两个人一起躲巡逻，谁都没说要合作。反转「安全庇护所」——Four 拿 Evelyn 当年那句话来验货，Evelyn 认下这句话，却先追问他为什么没敲门就进了门。反转「说客」——上一章他嫌她是说客，这一章他把这层嫌弃升级成「安排」。
+- **情感弧线位置**：接 ch17 末尾那句「告诉她我会考虑」。全章从最低处往上走：她站在 Rookery 的亮光里看 Four 走进来，自己只是被点名背规矩的人；被叫 lackey 那一下是全章最疼的地方，她的反应不是反驳，是承认了一半。隧道里是唯一平视的一段，两个人互相验货，她第一次从对方嘴里听到对方向她下的判断。认出身份后落差最大，他把她当第二次安排，她连辩解的机会都没有。结尾两人并肩贴墙，不靠信任，靠同一件危险的事。
+- **Tropes 兑现/反转**：兑现「护送」——Evelyn 派她去送一个不肯被送的人，一路都在这条任务上打转。兑现「身份揭穿」——她靠两张脸的相似把 Tobias 认出来，对方当场否认这个名字。兑现「敌人变同伙」——巷口那一下两个人一起躲巡逻，谁都没说要合作。反转「安全庇护所」——Four 拿 Evelyn 当年那句话来验货，Evelyn 认下这句话，却先追问他为什么没敲门就进了门。反转「说客」——ch17 他嫌她是说客，这一章他把这层嫌弃升级成「安排」。
 - **人物弧线**：Tris 这一章从「该消失的人」变成「动手的人」：中段她想退场不能退，只能在原地当家具；结尾她听见靴子声就伸手按人，没有先问自己有没有资格。她对 Evelyn 的忠诚第一次和判断撞在一起——她背规矩背得不情愿，却还是背了。Four 出场即防御，先借 Christina 的处境开口，再逐条否认她给他贴的标签，直到「Tobias」三个字把他点炸。Evelyn 只做三件事：收人、立规矩、送客；对 Christina 她给得大方，对 Four 她给得小心，小心到像在还债。
 - **叙事手法**：第一人称现在时，全章的推进靠对话和一次推理——她问「你们俩之间是什么」，问到一半自己停住，答案从两张脸上看出来。光线被当作分段器：Rookery 的亮、隧道的黑、隧道口的日光、巷子里的冷空气，每换一次光，两人的距离就变一次。她几乎不写「我决定」，只写身体先做了什么：挪不动脚、把手缩回来、抬手按人。
 
@@ -34,14 +34,14 @@ modified: "2026-10-31"
 **中文理解**：Evelyn 对 Christina 说，你怎么落到这儿的，故事归你自己，想讲、什么时候讲都由你。但这地方不要那套靠不平等养活自己的派系制度。
 **关键词**：your own to tell / if and when you want to tell it / rejects the faction system / sustains itself with inequality
 **为什么这样写**：她先交出去一样东西——不问来历，然后才提条件。这个顺序让后半句的 rejects 不像审问，像邀请函上的小字。真正锋利的是 sustains itself with inequality：她把派系制度说成一台靠不平等维持自己的机器，不是一句「不公平」。这种话只有在这里说得出口，因为说这话的人正是被那台机器筛掉的那批。
-**读者视角提示**：这句话和上一章 Weaver 说的「犯罪天才组成的第六派系」是同一件事的两面。Evelyn 从不否认自己在体制外，她只是换了个更体面的说法。
+**读者视角提示**：这句话和 ch16 里 Jove 说的「犯罪天才组成的第六派系」是同一件事的两面。Evelyn 从不否认自己在体制外，她只是换了个更体面的说法。
 
 > **原句 4:** "The air feels suddenly tense, like the moment before it starts to rain, or the last second of unsteadiness before a building collapses. I’m aware that I shouldn’t be here anymore—I got Evelyn, I helped defuse the situation, and now I should disappear. But moving now would only call attention to me, so I stay as still as possible."
 
 **中文理解**：空气忽然绷紧，像下雨前的那一刻，或者一栋楼塌掉之前最后那点摇晃。她清楚自己该退场了：人已经带到，场面也压下去了，接下来最好消失。可这时候一动，目光就全落到她身上，她只好尽量一动不动。
 **关键词**：suddenly tense / the moment before it starts to rain / unsteadiness before a building collapses / I helped defuse the situation / as still as possible
 **为什么这样写**：两个比喻都不写冲突本身，只写冲突之前的物理征兆——雨没落、楼没塌，人先绷住了。中间那句把她的账算得很清楚：带来的人、压下的场面，然后才是「我该消失」。末句是本段的转轴：想走而不能走，于是把自己变成一件家具。
-**读者视角提示**：「我该消失」这个念头在本章出现两回，这是头一回。注意她选的从来不是退，是等——她在这地方的生存方式就是等一个能用的时机。
+**读者视角提示**：「我该消失」这个念头在本章只出现这一回。注意她选的从来不是退，是等——她在这地方的生存方式就是等一个能用的时机。
 
 > **原句 5:** "He has no reason to think I’m anything but Evelyn’s “lackey,” but it still stings a little, hearing that he sees me that way. I know there’s not much to see when people look at me, just some factionless girl with the remnants of Abnegation clinging to me like dew. But I keep hoping that one day, there’ll be more."
 

@@ -26,7 +26,7 @@ modified: "2026-10-31"
 
 **中文理解**：铁轨底下她看见一扇窗里有低低的一点火，猜那是无人派系的落脚处——他们有时住在自己区域以外的空楼里。她说没人给这群人做过人口统计；母亲上次的估计是两百，算的是来捐赠中心领东西的人，和愿意替城里开火车、修水电来换物资的人。
 **关键词**：unoccupied buildings, factionless haunt, census, two hundred, provisions
-**为什么这样写**：一点火就把整条空街变成有人住的地方，紧接着一句「没人做过统计」又把这群人从账面上抹掉。两百这个数字是母亲从捐赠名单和用工名单里数出来的，读者于是看清：被数到的都是还在跟城里打交道的人。作者不动声色，让一个数字自己带上道德重量。
+**为什么这样写**：一点火就把整条空街变成有人住的地方，紧接着一句「没人做过统计」又把这群人从账面上抹掉。两百这个数字是母亲按「来捐赠中心的人」和「同意替城里干活的人」估出来的，读者于是看清：被数到的都是还在跟城里打交道的人。作者不动声色，让一个数字自己带上道德重量。
 **读者视角提示**：这两百是「还来领东西、还来干活的人」，不是全部。谁既不来领、也不来干，谁就连这个数字都不算。
 
 > **原句 3:** "In the middle of the room, under the banners where the faction manifestos hang, is a long table with five metal bowls on top of it. The bowls would be too big for me to wrap my arms around, and there’s something different in each one: glass, for Candor; stones, for Abnegation; coals, for Dauntless; earth, for Amity; and water, for Erudite."

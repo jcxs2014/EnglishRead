@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch13",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch13_chap13.txt",
+ "facts": [
+  {
+   "fact": "本章是 Erudite 入会第二关：镜子宫迷宫（不是 ch09 那道石基座谜题）。",
+   "anchor": "And the second labyrinth is made of mirrors.",
+   "start": 102,
+   "end": 146
+  },
+  {
+   "fact": "Cara 当天早上把新人随机分组，带进举行第二关的庭院（浅水池、睡莲）。",
+   "anchor": "Cara divided them into random groups before ushering them into the courtyard",
+   "start": 542,
+   "end": 618
+  },
+  {
+   "fact": "三人组 Caleb、Fernando、Quinn 在入口看地图记路：Quinn 用指尖找出路线，Erudite 出身的 Fernando 把它编成口诀，三人各背一段。",
+   "anchor": "Quinn was the one who found the path with her fingertip",
+   "start": 1086,
+   "end": 1141
+  },
+  {
+   "fact": "进迷宫先漆黑全静，Fernando 抓住两人的手，靠触觉带队往前走。",
+   "anchor": "At first, everything went black and utterly silent. Fernando was undeterred, grabbing both Caleb’s and Quinn’s hands",
+   "start": 1409,
+   "end": 1525
+  },
+  {
+   "fact": "Caleb 走自己那一段用的时间是另外两人的两倍，但全队走完，而且不是最后一名。",
+   "anchor": "It takes him twice as long as the other two to get through his section of the maze",
+   "start": 3801,
+   "end": 3883
+  },
+  {
+   "fact": "过关奖励是宿舍床位（已有一半被占），Caleb 挑了靠窗那张；每张床自带高柜、书桌和书架。",
+   "anchor": "He claims one next to the windows so he can look out at the street beyond.",
+   "start": 4216,
+   "end": 4290
+  },
+  {
+   "fact": "走廊屏幕播报的新闻里有 factionless 袭击市民、Hall of Factions 闯入案被 Erudite 安全系统拦下。",
+   "anchor": "There’s a report about attacks on citizens by the factionless.",
+   "start": 5928,
+   "end": 5990
+  },
+  {
+   "fact": "报道提到 Abnegation 的「沉默惩罚」（每次六小时以上）后，其他新人全盯着 Caleb；Quinn 追问是否属实，他答体罚他不知、其余基本属实；对 Fell 同样的问题他说「我不知道」，其实心里清楚。",
+   "anchor": "as he realizes the other initiates are all staring at him",
+   "start": 7447,
+   "end": 7504
+  }
+ ]
+}

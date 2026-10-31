@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch29",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch29_chap29.txt",
+ "facts": [
+  {
+   "fact": "Four 不想在医院过夜，但 Shauna 说不答应就把她锁起来，他其实没有选择",
+   "anchor": "I don’t want to spend the night at the hospital, but Shauna threatens to lock me in",
+   "start": 40,
+   "end": 123
+  },
+  {
+   "fact": "氧气面罩的松紧带勒进他的头皮，口鼻周围的塑料让他觉得自己被困住",
+   "anchor": "the elastic of the oxygen mask is digging into my scalp",
+   "start": 199,
+   "end": 254
+  },
+  {
+   "fact": "他听出是 Evelyn 的脚步声：轻得不像护士，也不像医生",
+   "anchor": "The creep of her footsteps is too quiet for a nurse or a doctor",
+   "start": 414,
+   "end": 477
+  },
+  {
+   "fact": "Evelyn 今天穿成 Amity 派的样子：红裙、披发，穿过医院不容易引人注意",
+   "anchor": "She’s dressed as an Amity today, in a red dress, her hair down",
+   "start": 871,
+   "end": 933
+  },
+  {
+   "fact": "Evelyn 说 John——那个妹妹被他救下的人——把营救和替他对抗母亲的事都告诉了她",
+   "anchor": "that’s the man whose sister you saved",
+   "start": 1418,
+   "end": 1455
+  },
+  {
+   "fact": "Evelyn 承认火是她放的，说她只想造够多的烟做掩护，火失控了",
+   "anchor": "my intention was only to create enough smoke for a diversion",
+   "start": 2111,
+   "end": 2171
+  },
+  {
+   "fact": "Four 不确定母亲会不会为一杀一人而烧楼，只知道想相信不等于事实",
+   "anchor": "wanting to believe something doesn’t make it true",
+   "start": 2631,
+   "end": 2680
+  },
+  {
+   "fact": "她握住他的手、捏他的手指；他睁眼时人已经走了，门敞着",
+   "anchor": "I feel her hand on mine, squeezing my fingers",
+   "start": 3146,
+   "end": 3191
+  }
+ ]
+}
