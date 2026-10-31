@@ -1,0 +1,127 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch28",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch28_criminally_bad_police_jokes.txt",
+ "facts": [
+  {
+   "fact": "警局失窃：厕所全被偷，警察说\"没有线索可循\"——nothing to go on 既指没线索又指没东西可坐/踩",
+   "anchor": "The police station has been broken into and all the toilets stolen. Officers say they have nothing to go on.",
+   "start": 70,
+   "end": 178
+  },
+  {
+   "fact": "警车轮胎被偷，警察将\"不辞辛劳\"（tirelessly，字面\"无轮胎地\"）追查",
+   "anchor": "All the police cars in the area have had their wheels stolen, so officers will be working tirelessly to find the culprits.",
+   "start": 183,
+   "end": 305
+  },
+  {
+   "fact": "宠物店被窃，警察说\"没有线索\"——leads 又指狗绳",
+   "anchor": "The pet shop nearest the police station has been burgled. Officers say they have no leads.",
+   "start": 310,
+   "end": 400
+  },
+  {
+   "fact": "警局灯全被偷，警察说\"很高兴\"——因为终于\"有亮点/bright side\"或\"看清了\"",
+   "anchor": "All the lamps have been stolen from the police station. Officers say they are delighted.",
+   "start": 405,
+   "end": 493
+  },
+  {
+   "fact": "裸体营围栏破了个洞，警察说\"正在调查\"——look into 字面\"往里看\"",
+   "anchor": "A hole has been found in the fence of a nudist colony. Police say they are looking into it.",
+   "start": 496,
+   "end": 587
+  },
+  {
+   "fact": "假发厂三吨头发被窃，警察\"在梳理该地区\"——comb 既是梳理也是搜捕",
+   "anchor": "Three tons of hair has been stolen from a wig factory. Police are combing the area.",
+   "start": 592,
+   "end": 675
+  },
+  {
+   "fact": "霸王龙因卖枪被捕，罪名是 small arms dealing——既指\"小型武器交易\"，又指\"小短手\"",
+   "anchor": "A Tyrannosaurus rex has been arrested for selling guns, and charged with small arms dealing.",
+   "start": 896,
+   "end": 988
+  },
+  {
+   "fact": "警方新得一万只蜜蜂，用于 sting operation（钓鱼执法，sting 又指蜇）",
+   "anchor": "Local police have recently acquired 10,000 bees. They are to be used in a sting operation.",
+   "start": 1179,
+   "end": 1269
+  },
+  {
+   "fact": "运红漆与蓝漆的两船相撞，两船船员都 marooned（困在荒岛，maroon 又指栗红色）",
+   "anchor": "A ship carrying red paint and a ship carrying blue paint have collided in the middle of the ocean. Both crews are marooned.",
+   "start": 1274,
+   "end": 1397
+  },
+  {
+   "fact": "警方寻找穿狼人装的嫌犯；若找不到，就\"继续穿平常制服找\"——把 in a werewolf costume 误接到警察身上",
+   "anchor": "Police are looking for a criminal in a werewolf costume. And if they don’t find him, they’ll keep looking in their normal uniforms.",
+   "start": 1863,
+   "end": 1994
+  },
+  {
+   "fact": "宠物店丢了两只兔子，却找回六十八只——数字荒谬（源自\"两兔繁殖\"的荒谬算术）",
+   "anchor": "Two rabbits were stolen from a pet shop last week. Only sixty-eight have been recovered.",
+   "start": 2136,
+   "end": 2224
+  },
+  {
+   "fact": "偷电池与烟花两人被捕，一个被 charge（充电/起诉）、一个被 let off（放电/释放）",
+   "anchor": "Two men have been arrested for stealing batteries and fireworks. Police charged one and let the other one off.",
+   "start": 2229,
+   "end": 2339
+  },
+  {
+   "fact": "一帮香肠被控共谋，警察\"在烤问\"——grill 既是审讯又是烧烤",
+   "anchor": "A gang of sausages have been charged with criminal conspiracy. Police are grilling the suspects.",
+   "start": 2412,
+   "end": 2508
+  },
+  {
+   "fact": "监狱里犯人喊编号代替讲笑话，全场大笑——因为大家都熟记笑话清单",
+   "anchor": "A man gets sent to prison and is amazed when, during lunch, a prisoner stands up and shouts, ‘Seventy-two!’ and everyone falls about laughing.",
+   "start": 2679,
+   "end": 2821
+  },
+  {
+   "fact": "狱友解释：待得太久，所有笑话都记住了，只消报编号",
+   "anchor": "‘We’ve all been here for so long that we know all the jokes,’ says his cellmate.",
+   "start": 2986,
+   "end": 3066
+  },
+  {
+   "fact": "新犯人终于喊出\"三十八号\"，全场死寂",
+   "anchor": "One lunchtime he stands up and says, ‘Thirty-eight!’ There is stony silence.",
+   "start": 3361,
+   "end": 3437
+  },
+  {
+   "fact": "狱友摇头说\"问题在你讲的腔调\"——把 ch03\"怎么讲比讲什么重要\"的笑点放进监狱元笑话",
+   "anchor": "His cellmate looks at him, shakes his head and says, ‘It’s the way you told it.’",
+   "start": 3483,
+   "end": 3563
+  },
+  {
+   "fact": "偷斯特拉迪瓦里小提琴书的贼，警方警告勿靠近——\"他有小提琴前科\"，history of violins 谐音 history of violence",
+   "anchor": "Police hunting a robber who stole a book about Stradivarius have warned the public not to approach him. He has a history of violins.",
+   "start": 3862,
+   "end": 3994
+  },
+  {
+   "fact": "别对偷了你院门的罪犯说话，他可能\"take a fence\"（take offence 生气）",
+   "anchor": "What do you say to a dangerous criminal who’s stolen your gate? Nothing. He might take a fence.",
+   "start": 4195,
+   "end": 4290
+  },
+  {
+   "fact": "咖啡杯被窃，警方公布 mugshots（嫌犯照，mug 又指杯子）",
+   "anchor": "All the police station’s coffee cups have been stolen. They have released some mugshots.",
+   "start": 4295,
+   "end": 4383
+  }
+ ]
+}
