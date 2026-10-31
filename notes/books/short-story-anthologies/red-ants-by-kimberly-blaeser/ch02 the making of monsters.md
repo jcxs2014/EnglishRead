@@ -86,7 +86,19 @@ modified: "2026-10-31"
 
 **表达方式**：Me Tarzan. You see, Jane? 是经典电影式的断句英语，被用来模仿「丛林之王」，暗含对白人刻板印象的反讽——真正在丛林般末日求生的是他们。
 
-> **原句 7:** "“It is true,” she said. “I don’t go to the gambler for riches as have many before me. I want one prize—his child.” A roar went up in the room when she stated this flatly. “Think of it,” she commanded. “I could bear a child who might grow big enough to banish the misaabe who now terrorizes our people. We might even be able to breed a race of holy giants.”"
+> **原句 7:** "As his body repeatedly hit the hard ground and his flesh tore, Uncle Jon’s screams of pain rose like dust in his wake. Then they stopped. He began singing his death song, a haunting lament and farewell."
+
+**中文理解**：去 June Bug 家老宅搜罐头时 Waabizii 尖叫示警，众人抄起罐头和破枪冲向工棚；巨兽揪住 Uncle Jon 的辫子把他当拖拽玩具，身体一次次砸在硬地上、皮肉撕裂，惨叫声像扬尘一样升起来又戛然而止——他开始唱起死亡之歌，一曲萦绕的哀哭与告别。
+
+**关键词**：Uncle Jon’s screams of pain / his flesh tore / death song / haunting lament and farewell
+
+**为什么这样写**：惨叫声「停止」不是死亡的静默，而是歌声的开始——作者把一场拖拽致死的暴行翻转成仪式性的退场；全篇两次正面死亡（Lu 与 Uncle Jon）都以「表演」面对巨兽，舞蹈与死亡之歌是同一种尊严。
+
+**句子结构**：三个短句递进（screams rose → they stopped → He began singing），Then they stopped 的极短句制造声音真空，再由歌声填满。
+
+**表达方式**：death song 是原住民传统中临终者为自己唱的告别歌；rose like dust 把惨叫写成扬起的尘土——声音有了重量与消散的形态。
+
+> **原句 8:** "“It is true,” she said. “I don’t go to the gambler for riches as have many before me. I want one prize—his child.” A roar went up in the room when she stated this flatly. “Think of it,” she commanded. “I could bear a child who might grow big enough to banish the misaabe who now terrorizes our people. We might even be able to breed a race of holy giants.”"
 
 **中文理解**：「这是真的，」母亲说。「我不像以前那些人一样去赌徒那里求财富。我只想要一个奖品——他的孩子。」当她平静地说出这句话时，屋里响起一片哗然。「想想看，」她命令道，「我可以生一个长得足够大、能赶走如今威胁我们族人的巨兽的孩子。我们甚至可能培育出一支神圣巨人的种族。」
 
@@ -98,7 +110,7 @@ modified: "2026-10-31"
 
 **表达方式**：misaabe 是奥吉布瓦语「巨人」，此处指变大的 Mishibizhii；flatly 一词点出她平静到近乎冷酷的语调，与屋里的 roar 形成对照。
 
-> **原句 8:** "Before that moment in council, I could not have imagined the world might turn yet farther on its axis, farther away from the sunny sane days of my childhood. Yet here was my mother asking the tribal leaders to let her become an adulteress, asking for permission to mate with what had previously been the most evil being any of us could imagine."
+> **原句 9:** "Before that moment in council, I could not have imagined the world might turn yet farther on its axis, farther away from the sunny sane days of my childhood. Yet here was my mother asking the tribal leaders to let her become an adulteress, asking for permission to mate with what had previously been the most evil being any of us could imagine."
 
 **中文理解**：在族会上那一刻之前，我无法想象世界还会在它的轴上转得更远，离我童年那些阳光、正常的时日更远。然而此刻，我的母亲正在请求部落首领允许她成为一个通奸者，请求允许她与我们从前的想象中最邪恶的存在交配。
 
@@ -110,7 +122,7 @@ modified: "2026-10-31"
 
 **表达方式**：turn farther on its axis 用地球自转比喻世界偏离常态的幅度；adulteress 是带有历史道德审判色彩的古词，用在这里格外刺耳。
 
-> **原句 9:** "You who hear this story know a truth about the making of monsters that we could not discern in those past days. Yes, a misaabe can spit and harass, Mishibizhii can spear and eat and digest our pitiful bodies. But the most terrible monster any of us met in those years or these came in the form of the big unanswerable questions. Who should sacrifice for whom? Who matters more?"
+> **原句 10:** "You who hear this story know a truth about the making of monsters that we could not discern in those past days. Yes, a misaabe can spit and harass, Mishibizhii can spear and eat and digest our pitiful bodies. But the most terrible monster any of us met in those years or these came in the form of the big unanswerable questions. Who should sacrifice for whom? Who matters more?"
 
 **中文理解**：听这个故事的人，你们知道一个关于怪物如何被造出来的真相，那是我们当年看不清的。没错，巨兽会喷吐、会骚扰，Mishibizhii 会刺穿、吞吃、消化我们可怜的身体。但那些年里我们遇到的最可怕的怪物，是以那些无法回答的大问题的形式出现的：谁该为谁牺牲？谁更重要？
 
@@ -122,7 +134,7 @@ modified: "2026-10-31"
 
 **表达方式**：making of monsters 呼应标题，把「怪物」变成被环境与选择「制造」出来的东西；unanswerable questions 以抽象概念作为最终恐怖，完成从神话到哲思的升维。
 
-> **原句 10:** "Monsters roam the earth; sometimes they live inside us."
+> **原句 11:** "Monsters roam the earth; sometimes they live inside us."
 
 **中文理解**：怪物在大地上游荡；有时它们就活在我们心里。
 
