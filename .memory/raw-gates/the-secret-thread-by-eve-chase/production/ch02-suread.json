@@ -1,0 +1,55 @@
+{
+ "book": "the-secret-thread-by-eve-chase",
+ "chapter": "ch02",
+ "text": "notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "Jo 到场即摘下 AirPods，把门牌号与手机里那个越读越不懂的邮件地址核对，清晨冷空气里呼气成雾。",
+   "anchor": "Jo plucks out her AirPods and checks the building number against the improbable address on her phone",
+   "start": 54,
+   "end": 154
+  },
+  {
+   "fact": "Jo 压下逃回地铁的冲动走上台阶按响门铃，在锃亮黄铜上留下一枚潮湿指纹涡；自报姓名 Jo O’Mara 时把话问成了疑问句。",
+   "anchor": "presses the buzzer, leaving a damp fingerprint whorl on the polished brass",
+   "start": 1723,
+   "end": 1797
+  },
+  {
+   "fact": "门内女声说她迟到还不到三十秒，口音是讲究的英音、带沙哑的戏剧腔；Jo 一时不确定这是不是 Mimi 本人（Is that her?）。",
+   "anchor": "Well-spoken English, with a husky, thespian depth",
+   "start": 1946,
+   "end": 1995
+  },
+  {
+   "fact": "开门人 Woody 体格壮硕、深色卷发、rough-hewn 面相、三十五岁上下，穿便装西装配白 T 恤，Jo 起初猜他是某种保镖；他先说 Good morning, Jo 再自报 I’m Woody。",
+   "anchor": "She wonders if he’s some sort of bodyguard.",
+   "start": 2738,
+   "end": 2781
+  },
+  {
+   "fact": "Jo 走进门厅，看到一幅黄粉双色的方形丝网印，是 Mimi 的安迪·沃霍尔签名作品。",
+   "anchor": "Mimi. Warhol. Signed. Jeez.",
+   "start": 3375,
+   "end": 3402
+  },
+  {
+   "fact": "Mimi 本尊出场：比预期更娇小又气场更大，是 Pinterest 看板、谷歌搜索与邪典纪录片《Mimi’s Rooms》里那个形象的三维版，朝 Jo 大步走来。",
+   "anchor": "Mimi Mott is both tinier than expected and larger than life.",
+   "start": 4003,
+   "end": 4063
+  },
+  {
+   "fact": "Jo 称呼 Ms Mott 后被纠正叫 Mimi；握手快而有力、皮肤出奇柔软，Jo 握着多停了片刻，想看出 Mimi 的心是装着金钱锦缎还是更人性的东西。",
+   "anchor": "‘Mimi, please.’ Her handshake is quick, firm, her skin surprisingly soft.",
+   "start": 5175,
+   "end": 5248
+  },
+  {
+   "fact": "章末 Jo 猛然惊觉：Mimi 马蜂窝般的过去多半不该去戳，尤其轮不到她自己来戳；此前 Mimi 已让 Jo 到里屋谈话（Shall we chat in here?）。",
+   "anchor": "Mimi Mott’s hornet’s nest of a past probably shouldn’t be prodded. Least of all by herself.",
+   "start": 6112,
+   "end": 6203
+  }
+ ]
+}
