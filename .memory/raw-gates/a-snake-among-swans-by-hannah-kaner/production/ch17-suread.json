@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch17",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch17_chapter_seventeen_elise.txt",
+ "facts": [
+  {
+   "fact": "Elise 走王宫密道抄近路，密道是 Odon 建议在每座驻跸城堡里加建的",
+   "anchor": "secret routes of the palace",
+   "start": 51,
+   "end": 78
+  },
+  {
+   "fact": "建完密道的工匠被割了舌头，Elise 知道却装作不知道",
+   "anchor": "Their architects’ tongues had been removed",
+   "start": 364,
+   "end": 406
+  },
+  {
+   "fact": "她贪看 Hein 练字，嫉妒像一只早被驯服的鸟抬起头",
+   "anchor": "Elise’s jealousy raised its head",
+   "start": 1399,
+   "end": 1431
+  },
+  {
+   "fact": "她在空屋听见 Conrin 对 Gaisa 说父亲正在失去掌控，别人也这么想",
+   "anchor": "He’s losing his grip and he knows it",
+   "start": 1940,
+   "end": 1976
+  },
+  {
+   "fact": "Gaisa 说 Egil 拿着指令，她的「鸟」随时可以放出去",
+   "anchor": "my bird is ready to deploy them",
+   "start": 2663,
+   "end": 2694
+  },
+  {
+   "fact": "Conrin 把她撞在墙上、掐着腕骨逼问，她答什么都没看见",
+   "anchor": "I saw nothing",
+   "start": 6351,
+   "end": 6364
+  },
+  {
+   "fact": "她把无力感比作一颗里面有鸟在啄壳的蛋",
+   "anchor": "like an egg",
+   "start": 6071,
+   "end": 6082
+  },
+  {
+   "fact": "王后送来一盒她缝进床垫的银鱼骨，摆在丝绒上，她最后笑了",
+   "anchor": "the fine bones of the silver fish",
+   "start": 15081,
+   "end": 15114
+  }
+ ]
+}
