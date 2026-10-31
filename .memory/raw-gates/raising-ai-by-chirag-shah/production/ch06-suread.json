@@ -1,0 +1,55 @@
+{
+ "book": "raising-ai-by-chirag-shah",
+ "chapter": "ch06",
+ "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch06_5_the_good_the_bad_and_the_ugly_of_ai.txt",
+ "facts": [
+  {
+   "fact": "车载导航根据去过哪里、去得多频繁、多在中午到访来推断午餐去处，妻子惊呼“Creepy!”，作者总结 We are very predictable!",
+   "anchor": "It knows the history of places that we have been to, including a list of restaurants. It knows that some of these places are more frequently visited than others.",
+   "start": 1319,
+   "end": 1480
+  },
+  {
+   "fact": "儿科医生 Herbert Needleman 发现血铅高的儿童智商更低、语言更差、行为问题更多，这项研究推动了无铅汽油与无铅涂料的公共健康政策。",
+   "anchor": "He discovered that children with higher lead levels exhibited lower IQ scores, had poorer language skills, and displayed more behavioral issues.",
+   "start": 8566,
+   "end": 8710
+  },
+  {
+   "fact": "2026 年初六家美国科技巨头（英伟达/苹果/谷歌/微软/亚马逊/Meta）市值合计约 22 万亿美元，超过欧盟 27 国总经济产出、约等于美国 GDP 的 70%。",
+   "anchor": "the combined market value of just six American tech giants—Nvidia, Apple, Alphabet, Microsoft, Amazon, and Meta—stands at roughly $22 trillion.",
+   "start": 12494,
+   "end": 12637
+  },
+  {
+   "fact": "谷歌翻译应用把外语文字以同样的字体、颜色、大小叠加回原物上，帮作者一家在意大利、布拉格解决购物与就医的翻译难题。",
+   "anchor": "All you do is open the app and have it look at the package or the sign you are looking at it through the phone camera and in an instant, it will not only translate that message to English, but also superimpose it on the item you were looking at in the same font, color, and size.",
+   "start": 20181,
+   "end": 20460
+  },
+  {
+   "fact": "Dukaan CEO Sumit Shah 用 AI 聊天机器人替换 90% 客服并公开宣称“艰难？是的。必要？绝对必要。”，随后因吹嘘数据而受批评。",
+   "anchor": "In July of 2023, Sumit Shah, the CEO of the e-commerce platform Dukaan, replaced 90 percent of his support team with an AI chatbot and exclaimed, “Tough? Yes. Necessary? Absolutely.”",
+   "start": 26157,
+   "end": 26339
+  },
+  {
+   "fact": "作者有了 GPS 后越来越依赖设备、越来越少用自己的方向感，以此例说明放弃控制与认知能力意味着什么。",
+   "anchor": "Then I got a GPS and things were never the same. Over the years, like most others, I started relying more and more on that device and less and less on my sense of direction.",
+   "start": 34261,
+   "end": 34434
+  },
+  {
+   "fact": "比利时人 Pierre 越来越悲观并与亲友疏离，转而与 Chai 公司开发的聊天机器人 Eliza（基于开源模型 GPT-J）交谈，2023 年 3 月自杀。",
+   "anchor": "A Belgian man Pierre had become increasingly pessimistic about global affairs and feeling isolated from friends and family. He turned to a chatbot named Eliza developed by a startup named Chai.",
+   "start": 53103,
+   "end": 53296
+  },
+  {
+   "fact": "作者总结自己其实是 AI 支持者，正因如此想把 AI 做对；机器人接管的担忧与陨石撞地球、外星人奴役同属不必恐慌的类别，真正要紧的是气候、疫情与核武器。",
+   "anchor": "In fact, I am pro-AI. And because of that, I want to make sure we do it right. Of course, I am also concerned about robots taking over, but that concern is in the same category as a meteor destroying the earth or the aliens coming to enslave us.",
+   "start": 64756,
+   "end": 65001
+  }
+ ]
+}
