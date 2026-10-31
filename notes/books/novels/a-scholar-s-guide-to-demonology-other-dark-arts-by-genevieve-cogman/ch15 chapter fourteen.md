@@ -23,9 +23,9 @@ modified: "2026-10-31"
 ## 精读
 > **原句 1:** "You promised me food, Alastor said inexorably."
 
-**中文理解**：楼梯上，Alastor 用不容商量的口气向 Phil 讨食，开口就点明她答应过要给他东西吃；紧接着他又说已经原谅她手边没有合适的食物，但不许再滥用他的宽容。
+**中文理解**：楼梯上，Alastor 用不容商量的口气向 Phil 讨食，开口就点明她答应过要给他东西吃。
 
-**关键词**：promised me food / inexorably / generosity
+**关键词**：promised me food / inexorably / Alastor said
 
 **为什么这样写**：一段只占两行的短促独白就把讨债关系摆上台面：主语省到只剩一个名字，句尾用副词把语气钉死成不可商量。作者让这只黑猫一开口就是命令口吻，Phil 那句「可这是学校早餐」还没出口，读者就知道她已经欠了债。
 
@@ -37,7 +37,7 @@ modified: "2026-10-31"
 
 **中文理解**：Mr Smithson 是第一个公开把注意力放到 Alastor 身上的人；除了埋头在电脑上敲字的 Jane，其余教职员其实都看见了，只是集体选择不评论。他还伸手逗猫，刻意学猫咪腔调说话。
 
-**关键词**：publicly take notice / choosing not to comment / head rub
+**关键词**：publicly take notice / choosing not to comment / all the staff
 
 **为什么这样写**：作者把「只有一个人说破」写成一条对照线：Smithson 孩子气的搭话被满桌人的沉默围着，真正的压力不来自他，而来自那一片装聋。作者还特意点出唯一没参与装聋的是忙到没空抬头的 Jane，把例外摆进例外里。
 
@@ -47,9 +47,9 @@ modified: "2026-10-31"
 
 > **原句 3:** "Was Miss Grending one of those teachers who knew about the demon summoning in more detail? Most probably. Why hadn’t the Head recruited her rather than Phil? Who else here knew too? What crimes did they have on their conscience?"
 
-**中文理解**：Phil 顺着 Miss Grending 那句「大概是从荒野跑进来的宠物」往下猜：学校里还有别的老师知道召唤恶魔的事，校长为什么挑中了她而不是别人，同事们的良知里藏着什么罪行，她在教室里私下教给女生们的东西，又会留下多大一片废墟。
+**中文理解**：Phil 急着抓住任何说得通的解释，顺着同事的思路往下猜：学校里还有别的老师知道召唤恶魔的事，校长为什么挑中了她而不是别人，同事们的良知里藏着什么罪行，她在教室里私下教给女生们的东西，又会留下多大一片废墟。
 
-**关键词**：knew about the demon summoning / recruited her rather than Phil / crimes on their conscience
+**关键词**：knew about the demon summoning / recruited her rather than Phil / their conscience
 
 **为什么这样写**：作者用一串自问自答把一个安全的解释立刻撑爆成一张怀疑名单。清单式追问比直接的指控更冷：她还没找到任何证据，光靠「谁是内行」这一问就已经把全校重排了一遍。
 
@@ -71,7 +71,7 @@ modified: "2026-10-31"
 
 > **原句 5:** "He must have caught Phil’s flare of surprise. Indeed. They intend to smuggle potatoes in to do it. My sense of hearing is better than yours, Mistress, and I overheard them whispering. See how useful I can be to you?"
 
-**中文理解**：Alastor 告诉她，第三组女生打算晚上溜进地下室酿伏特加，办法是偷运土豆进去；他说自己听力比她好，偷听到了她们的窃窃私语，还趁势提议她学会用不出声的方式跟自己讲话。
+**中文理解**：Alastor 告诉她，那几个女生打算偷运土豆进学校。他随即报上自己的本事：他的听力比她好，偷听到了她们的窃窃私语；说完还趁势提议她学会用不出声的方式跟自己讲话。
 
 **关键词**：smuggle potatoes in / sense of hearing / overheard them whispering
 
@@ -83,7 +83,7 @@ modified: "2026-10-31"
 
 > **原句 6:** "‘Put it next to your desk and leave it alone while we’re working,’ Phil said firmly. ‘No stroking. Jupiter here is only attending the lesson till I can fix up a bed for him in my room.’"
 
-**中文理解**：Anne 带来一个上锁的金属盒，说盒子里是自己的宠物蛇，盒里有东西在动。Phil 让它放到桌边、不要碰，说明 Jupiter 只上完这节课就要带回房间安顿。
+**中文理解**：Phil 让那条蛇放到自己桌边待着、上课期间不许摸，又说明 Jupiter 只上完这节课就要带回房间安顿。她心里还闪过一个念头：这条蛇会不会也是恶魔使徒；但校长说过只教高年级，所以多半只是一只宠物——真要是一只豚鼠，她反倒更担心。
 
 **关键词**：Put it next to your desk / leave it alone / No stroking
 
@@ -107,11 +107,11 @@ modified: "2026-10-31"
 
 > **原句 8:** "‘Well, Miss Bredon was a qualified teacher,’ Margot said, and even the kindest person could not have described her tone as anything other than spiteful. ‘She’d actually got all the proper degrees and everything. She wasn’t just someone who was desperate for a job and didn’t have any sort of training at all. So I suppose no, she wouldn’t teach the same way you do. Miss.’"
 
-**中文理解**：Margot 说 Anne Bredon 是拿了正规学位的合格教师，而 Phil 不是——她话说得恶意十足，还在句尾补一声 Miss。教室里的其他人沉默旁观，作者点明那沉默是机会主义的，不是支持。
+**中文理解**：Margot 说 Anne Bredon 是拿了正规学位的合格教师，而 Phil 不是——她话说得恶意十足，还在句尾补一声 Miss。
 
 **关键词**：was a qualified teacher / spiteful / proper degrees
 
-**为什么这样写**：作者把攻击拆成两个动作：先立资质，再贬动机（她只是急着找到一份工作）。而全班人的沉默被作者单独定性，让恶意不必喊出来也能成立。
+**为什么这样写**：作者把攻击拆成两个动作：先立资质，再贬动机（她只是急着找到一份工作）。而句尾那声孤零零的 Miss 像补上一刀，把整段话钉成当众羞辱。
 
 **读者视角提示**：读者会替 Phil 难受——她最怕的那句「只是在装」，被一个学生当众说了出来。
 
@@ -131,7 +131,7 @@ modified: "2026-10-31"
 
 > **原句 10:** "‘Point is,’ the third girl said, ‘if we get the right spread on the odds, we should make enough for a new server.’ Her black hair was clubbed back from her slender face, giving her the look of a bird of prey as she hunched forward over her screen. ‘And if we can get this line into the betting working …’"
 
-**中文理解**：Jane 的几个学生正在攻一家博彩公司的登录系统，想在女子学校的曲棍球比赛上押对赔率，赢一台新服务器；只要找对关系、给够钱，博彩点就肯接女校的比赛盘口。
+**中文理解**：Jane 的几个学生正在攻一家博彩公司的登录系统，想在女子学校的曲棍球比赛上押对赔率，赢一台新服务器；只要能把一条线塞进博彩系统里，这事就成了。
 
 **关键词**：right spread on the odds / enough for a new server
 
@@ -143,7 +143,7 @@ modified: "2026-10-31"
 
 > **原句 11:** "And she’d always wanted a cat. She wanted him to purr in appreciation as she rubbed his stomach, to pounce on the cat toys as she waved them for him, to curl up in her lap in a puddle of warm sympathy, to nestle against her when he was cold."
 
-**中文理解**：Phil 把自己买猫的动机摊开来看：她想要的不是给恶魔准备的奢华供品，而是一只会呼噜、会扑猫玩具、会在她腿上蜷成一团的普通猫，一份不掺杂任何东西的亲昵。
+**中文理解**：Phil 把自己买猫的动机摊开来看：她想要的不多，只要一只会呼噜、会扑猫玩具、会在她腿上蜷成一团的普通猫，一份不掺杂任何东西的亲昵。
 
 **关键词**：always wanted a cat / purr in appreciation / nestle against her
 
@@ -167,7 +167,7 @@ modified: "2026-10-31"
 
 > **原句 13:** "Yes, certainly Alastor would be in favour of letting the children run amok and distil vodka. But Phil had just resolved she was going to be a good influence on Alastor. And possibly even on these girls as well, heaven help her. She shook her head briskly. ‘Faith Standon, how many times do I have to tell you not to try to hypnotize me?’"
 
-**中文理解**：Phil 刚认定 Alastor 大概会赞成让孩子们胡闹着酿酒，转头就撞上 Faith 用那种专业而柔和的语调求她免罚、承诺会好好干活；Phil 干脆拒绝，说过多少遍不许再对她用催眠这一套。
+**中文理解**：Phil 刚认定 Alastor 大概会赞成让孩子们胡闹着酿酒，转头就发现自己要当恶魔和女生们的道德榜样，做的却是抓低年级学生去写罚抄；她干脆拒绝 Faith，说过多少遍不许再对她用催眠这一套。
 
 **关键词**：children run amok / influence on Alastor / not to try to hypnotize me
 
