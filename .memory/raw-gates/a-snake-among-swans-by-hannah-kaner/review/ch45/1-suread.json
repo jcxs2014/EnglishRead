@@ -1,0 +1,95 @@
+{
+ "chapter": 45,
+ "text": "text/ch45_chapter_forty_five_elise.txt",
+ "chars": 16752,
+ "facts": [
+  {
+   "id": 1,
+   "event": "埃莉斯收拾好行囊——金币、手织机、纺锤和书——决心离开这个让她受尽折磨的王庭。",
+   "relation": "埃莉斯与父亲利兰国王、死去兄长的关系；自我放逐的决心",
+   "numbers": "无数字",
+   "interval": [
+    237,
+    299
+   ],
+   "anchor": "Elise had packed a bag, some gold, her hand loom, her distaff."
+  },
+  {
+   "id": 2,
+   "event": "埃莉斯在王后寝宫等候，蒂尔德带着五名卫兵归来，唇上带伤、披着埃莉斯母亲的酒渍旧裙。",
+   "relation": "埃莉斯与王后蒂尔德（恋人）；蒂尔德与埃莉斯之父利兰（夫妻）",
+   "numbers": "a guard of five; her mother's wine-stained dress",
+   "interval": [
+    1824,
+    1915
+   ],
+   "anchor": "She was alone, which seemed foolish until Elise saw the guard of five that stopped outside."
+  },
+  {
+   "id": 3,
+   "event": "埃莉斯从背后抱住窗前的蒂尔德，吻她的脖颈，提出两人一起逃走。",
+   "relation": "埃莉斯对蒂尔德的爱情告白",
+   "numbers": "无数字",
+   "interval": [
+    3923,
+    4001
+   ],
+   "anchor": "She turned her head down and pressed her lips to the bareness of Tilde’s neck."
+  },
+  {
+   "id": 4,
+   "event": "蒂尔德拒绝了私奔的请求，低声告诉埃莉斯自己已怀上她父亲的孩子，因此无法离开。",
+   "relation": "蒂尔德怀有利兰国王的孩子——埃莉斯的情人与她父亲的关系",
+   "numbers": "with child; your father's child",
+   "interval": [
+    7201,
+    7272
+   ],
+   "anchor": "‘I am with child, Elise,’ she said in a whisper. ‘Your father’s child.’"
+  },
+  {
+   "id": 5,
+   "event": "小王子海因闯入寝宫，随即走廊上靴声与刀剑声大作，一名围灰围巾的刺客冲进来行刺王后。",
+   "relation": "海因是埃莉斯的弟弟；刺客奉新国王（埃莉斯的兄长）之命",
+   "numbers": "无数字",
+   "interval": [
+    11248,
+    11348
+   ],
+   "anchor": "The swords clashed in the corridor, and a man came running through wearing a grey scarf at his neck."
+  },
+  {
+   "id": 6,
+   "event": "埃莉斯扑上去揪住刺客的围巾把他拖开，蒂尔德趁机用短矛刺穿他的脸和喉咙。",
+   "relation": "埃莉斯救下蒂尔德，二人并肩御敌",
+   "numbers": "无数字",
+   "interval": [
+    11954,
+    12061
+   ],
+   "anchor": "grabbing him by the shoulders and dragging him back by his scarf before his blow could even reach the queen"
+  },
+  {
+   "id": 7,
+   "event": "佩林逼问被俘的灰巾骑士，得知刺杀定在明日的议会上；骑士随即被割喉。",
+   "relation": "佩林是蒂尔德的卫队长；阴谋主使为埃莉斯的兄长们",
+   "numbers": "Tomorrow! At council. Tomorrow.",
+   "interval": [
+    12997,
+    13041
+   ],
+   "anchor": "‘Tomorrow!’ he said. ‘At council. Tomorrow.’"
+  },
+  {
+   "id": 8,
+   "event": "蒂尔德下令以康林之名软禁海因王子，让佩林对外宣称自己已死，并把埃莉斯一并关押。",
+   "relation": "蒂尔德与埃莉斯决裂；蒂尔德选择权力而非爱情",
+   "numbers": "thrice（第三次行刺）",
+   "interval": [
+    14224,
+    14315
+   ],
+   "anchor": "Take the prince Hein into custody. Confine him to his rooms and say it was Conrin’s orders."
+  }
+ ]
+}

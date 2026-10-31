@@ -1,0 +1,95 @@
+{
+ "chapter": 46,
+ "text": "text/ch46_chapter_forty_six_tilde.txt",
+ "chars": 7744,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Tilde 在黎明时观看阳光切过城市、落向红色港口，回想 Widdin 在她能说完整句子之前就已陷落，她只想象过那座北方城池与著名河流。",
+   "relation": "Tilde—Widdin/Merogia（故乡记忆）",
+   "numbers": "",
+   "interval": [
+    28,
+    86
+   ],
+   "anchor": "I watched the dawn come in, cutting bright across the city"
+  },
+  {
+   "id": 2,
+   "event": "她望见 Daostet 城中广场上那尊以 Liran 面孔铸成的巨像，手指指向天空。",
+   "relation": "Tilde—Liran（效忠对象）",
+   "numbers": "",
+   "interval": [
+    591,
+    648
+   ],
+   "anchor": "the gleaming statue I could see from the sprawling palace"
+  },
+  {
+   "id": 3,
+   "event": "今日 Cynghal 帝国的权力归属将见分晓：Galen 与 Wing 所爱的 Conrin、凶悍的 Alar，或 Merogia 血统的女王 Tilde。",
+   "relation": "Conrin/Alar/Tilde 三方争位",
+   "numbers": "",
+   "interval": [
+    744,
+    809
+   ],
+   "anchor": "Today, the swing of power in the Cynghal empire would be decided."
+  },
+  {
+   "id": 4,
+   "event": "Ziyan 向 Tilde 报告他已替换国王寝宫里的香炉，说国王很安静、提过她一次和一个孩子，随后谈起圣战。",
+   "relation": "Tilde—Ziyan（physik／谋士）",
+   "numbers": "",
+   "interval": [
+    2324,
+    2362
+   ],
+   "anchor": "I have replaced the censer in the king"
+  },
+  {
+   "id": 5,
+   "event": "Ziyan 说 Conrin 昨天要求议会到 blue chamber 集合，那是离东门最远的厅，而那个厅不会随 Liran，她的影响力可能消退。",
+   "relation": "Conrin—议会／Tilde（对立）",
+   "numbers": "yesterday",
+   "interval": [
+    2630,
+    2697
+   ],
+   "anchor": "Conrin yesterday asked the council to gather in the chamber of blue"
+  },
+  {
+   "id": 6,
+   "event": "Tilde 不顾 Hadiah 的抗议，把她连同困惑的 Muirenn 与 Helwinde 一起送进城中的私室，好让她们远离王宫并延续血脉。",
+   "relation": "Tilde—Hadiah（姐妹／血脉继承）",
+   "numbers": "",
+   "interval": [
+    3444,
+    3520
+   ],
+   "anchor": "Hadiah, despite her protests, I had sent with a baffled Muirenn and Helwinde"
+  },
+  {
+   "id": 7,
+   "event": "远处城门响起 Galenish 号角，她们出发，与等在房外的六名护卫会合——全是 Captain Perin 挑选的精锐。",
+   "relation": "Tilde—Perin（护卫队长）",
+   "numbers": "six of my guards",
+   "interval": [
+    6735,
+    6796
+   ],
+   "anchor": "joined the six of my guards who were waiting outside my rooms"
+  },
+  {
+   "id": 8,
+   "event": "东门升起灰旗，Marolyn 说 Dagobert 来了、Merovin 会去迎他；Tilde 命人警告 Palati Odon 新旗已升起，并判断国王卫队会有话说。",
+   "relation": "Tilde—Marolyn／Dagobert—Merovin",
+   "numbers": "",
+   "interval": [
+    6889,
+    6925
+   ],
+   "anchor": "The east gate has raised a grey flag"
+  }
+ ]
+}
