@@ -1,0 +1,55 @@
+{
+ "book": "the-secret-thread-by-eve-chase",
+ "chapter": "ch07",
+ "text": "notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "Pamela 打给年轻人无人接听，随后决定不把医生昨天下午说的情况转告 Jo",
+   "anchor": "Why don’t young people ever answer their phones?",
+   "start": 32,
+   "end": 80
+  },
+  {
+   "fact": "医生推测她的膝痛或与髋部僵硬有关、是「会迁移的问题」，Pamela 脱口说「就像我妹妹」，医生笑得有点不安",
+   "anchor": "Just like my sister, she’d blurted, and he’d smiled, a little uneasily.",
+   "start": 765,
+   "end": 836
+  },
+  {
+   "fact": "昨夜妹妹 Miriam 侵入 Pamela 的梦：像一团薄纱、拿窗帘当翅膀飞；她警告自己别让妹妹再主宰白天",
+   "anchor": "Miriam invaded her dreams last night, flying through them in a cloud of tulle, curtains for wings.",
+   "start": 903,
+   "end": 1001
+  },
+  {
+   "fact": "亡夫 Tony 去世已四年，Pamela 对着他的照片微笑、在照片前吃饭，想他想得要命",
+   "anchor": "Four years since he passed, and she misses him something rotten.",
+   "start": 2289,
+   "end": 2353
+  },
+  {
+   "fact": "苗圃和破旧房屋无人出价；Tony 生前瞒着她贷款（不想让她担心），她以债养债，除国家养老金外身无分文",
+   "anchor": "Apart from the state pension, she’s flat broke.",
+   "start": 3537,
+   "end": 3584
+  },
+  {
+   "fact": "自从在《每日邮报》网上读到那场「sensational」的 life-in-objects 拍卖，过去又开始渗回、漫进现在",
+   "anchor": "Since she’d read in the Daily Mail online about the ‘sensational’ life-in-objects auction",
+   "start": 5681,
+   "end": 5770
+  },
+  {
+   "fact": "直到 Miriam 的丈夫在楠塔基特外海的游艇上心脏病发作去世，Pamela 才第一次为妹妹担心",
+   "anchor": "A heart attack on some yacht off the coast of Nantucket.",
+   "start": 8367,
+   "end": 8423
+  },
+  {
+   "fact": "Pamela 写了八封吊唁信，每封都被攥成一团扔进火里；那封信最终没有寄出——她不能冒接触之险",
+   "anchor": "Pamela wrote eight letters of condolence; each one balled in the fist and tossed into the fire.",
+   "start": 9102,
+   "end": 9197
+  }
+ ]
+}

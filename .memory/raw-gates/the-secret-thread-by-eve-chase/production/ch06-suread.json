@@ -1,0 +1,55 @@
+{
+ "book": "the-secret-thread-by-eve-chase",
+ "chapter": "ch06",
+ "text": "notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "面试次日清晨，Jo 在 Harlesden 天未亮就醒，刷新收件箱等黄裙拍品文案的回复，暂无音讯、心往下沉。",
+   "anchor": "The day after the job interview, Jo snaps awake at dawn in Harlesden",
+   "start": 19,
+   "end": 87
+  },
+  {
+   "fact": "Jo 抓起向旅居澳洲的 Uncle Sam 长期借用的锈壳雷诺车钥匙，刮霜、反复打火，带着久违的自由感一路向西。",
+   "anchor": "then she’s off, buzzing with a rare feeling of freedom, driving west",
+   "start": 944,
+   "end": 1012
+  },
+  {
+   "fact": "乔刹住车、认定那便是 Rushwood：拱形熟铁门缠满旋花、被水瓶大的挂锁锁住，围墙太高，宅子完全看不见。",
+   "anchor": "She brakes abruptly, then steers towards what must be, surely, Rushwood.",
+   "start": 2119,
+   "end": 2191
+  },
+  {
+   "fact": "9 月在自家废弃的萨福克谷仓，乔打开一只积尘的短饼干锡，在最底层的信封里翻到 1969-07-28《Wiltshire Gazette》\"Manor House Party Horror\" 剪报：Rushwood 一场 Caswell 家夏日派对上一名身份不明客人死亡；锡内另有 70 年代末关于 Mimi Mott 的剪报与 Mimi’s House 布样。",
+   "anchor": "she found the oldest newspaper clipping: the Wiltshire Gazette, 28 July 1969. Headlined ‘Manor House Party Horror’, it reported on the death of an unidentified guest at a house called Rushwood, a summer bash hosted by the Caswell family.",
+   "start": 5226,
+   "end": 5463
+  },
+  {
+   "fact": "视频追问下，Uncle Sam 确认 Mimi Mott 就是家里讳莫如深、疏远多年的那位姐妹 Miriam（Granny 的姐妹），多年前改用母姓 Mott；他告诫乔这是禁区、\"把锡盖回去\"。",
+   "anchor": "Mimi Mott was Miriam, yes, yes, that Miriam, the estranged sister. Years ago, she’d taken their mother’s maiden name, Mott.",
+   "start": 6763,
+   "end": 6886
+  },
+  {
+   "fact": "乔钻进宅子附着的温室（conservatory/orangery）残骸，蹭开腐土露出黑白棋盘地砖，胃部一沉；调出剪报快照放大——匿名宾客称在露台看烟花时听见尖叫、\"Thank God I wasn’t in the orangery\"。",
+   "anchor": "scuffs the mulchy ground with her boot, revealing a black-and-white chequerboard tile floor. Hang on … Her stomach drops. She swipes through her phone, finds her snap of the Wiltshire Gazette cutting and zooms in:",
+   "start": 11784,
+   "end": 11997
+  },
+  {
+   "fact": "Woody 留言：收到拍卖文案，并转述 Mimi 的问话\"Are you sure you weren’t there too?\"；随后乔得知 Mimi 很满意、工作到手，如释重负又被恐惧追上。",
+   "anchor": "‘Hey, Jo. Woody here. Thanks for emailing over the auction copy last night. Just to let you know, Mimi says, “Are you sure you weren’t there too?”’",
+   "start": 12451,
+   "end": 12598
+  },
+  {
+   "fact": "章末手机再度响起，乔看见来电者名字（读者不知道是谁）后一惊，不接电话，被恐慌推着循原路逃离 Rushwood。",
+   "anchor": "Seeing the caller’s name, Jo flinches. Not now. Not from Rushwood. She can’t take this call.",
+   "start": 13418,
+   "end": 13510
+  }
+ ]
+}
