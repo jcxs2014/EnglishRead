@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch30",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch30_chapter_thirty_elise.txt",
+ "facts": [
+  {
+   "fact": "Tilde 在国王宣布时的欣喜是演出来的，Elise 认为她演得太过。",
+   "anchor": "Tilde had stood as if in ecstatic joy at Liran’s words",
+   "start": 46,
+   "end": 100
+  },
+  {
+   "fact": "Gaisa 只说了一句话，Tilde 脸上就裂开一个近乎癫狂的笑。",
+   "anchor": "a grin cracked across Tilde’s face",
+   "start": 606,
+   "end": 640
+  },
+  {
+   "fact": "Conrin 与 Gundobar 把 Tilde 带向壁炉，她把手伸进了火里。",
+   "anchor": "They were leading her towards the fireplace",
+   "start": 7639,
+   "end": 7682
+  },
+  {
+   "fact": "Elise 当场叫起「女人的舞」，借此把 Tilde 从火边带走。",
+   "anchor": "‘Call a woman’s dance,’ she said, releasing Isen.",
+   "start": 7949,
+   "end": 7998
+  },
+  {
+   "fact": "Elise 用母亲雕成天鹅形状的骨梭卡住暗门，不让 Gaisa 推开。",
+   "anchor": "Her fingers found her carved bone shuttle",
+   "start": 17870,
+   "end": 17911
+  },
+  {
+   "fact": "暗门另一侧与 Gaisa 同行的是 Suneish 女孩 Muirenn。",
+   "anchor": "It was the Suneish girl, and beside her was Gaisa",
+   "start": 16632,
+   "end": 16681
+  },
+  {
+   "fact": "Elise 判定 Tilde 中的是血魔法，他们叫它「荣光」。",
+   "anchor": "‘It’s old magic. Blood magic. They call it the glory.’",
+   "start": 20762,
+   "end": 20816
+  },
+  {
+   "fact": "被问「这会要她的命吗」，Elise 只答了一句「也许」。",
+   "anchor": "‘It might.’",
+   "start": 22201,
+   "end": 22212
+  }
+ ]
+}
