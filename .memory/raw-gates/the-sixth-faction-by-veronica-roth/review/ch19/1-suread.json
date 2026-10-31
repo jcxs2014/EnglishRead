@@ -1,0 +1,86 @@
+{
+  "chapter": "ch19",
+  "pov": "第一人称，叙述者是 Four（「我」）；主干现在时（I shove / I say / I step），追述旧事用过去时与过去完成时",
+  "facts": [
+    {
+      "event": "深夜 Four 抄近路穿过 Pit 时听见尖叫，冲进新生营房，认出仰躺在地上、双手抓脸的是 Christina；一把黄油刀的刀柄直直插在她眼眶里，她身下的地面溅着鲜红的血。",
+      "who": "They",
+      "receivers": "Christina",
+      "start": 1053,
+      "end": 1253,
+      "text": "They take shape. Long legs, bare brown arms, hair in braids. Christina. She’s on her back, her hands clutching at her face. And sticking out of her eye, silver-bright, is the handle of a butter knife."
+    },
+    {
+      "event": "Four 让 Christina 别拔刀，承诺「我们先把刀弄出来，但得先送你去医院，我会陪你去，好吗？」；她只又抽泣了几秒就吸一口气说「Okay」——Four 因此认定她的 Dauntless 资质。",
+      "who": "she",
+      "receivers": "I",
+      "start": 2251,
+      "end": 2447,
+      "text": "If I had any doubts about Christina’s Dauntless aptitude before now, they’re disappearing by the second, because she only sobs for a few more seconds before she sucks in a breath and says, “Okay.”"
+    },
+    {
+      "event": "几小时后，一位声音冷硬的 Erudite 女医生告诉 Christina：眼睛保不住了，但已在她的眼部肌肉上装了植入物，并把她的眼皮缝合起来；Christina 的反应冷静得反常。",
+      "who": "the doctor",
+      "receivers": "Christina",
+      "start": 5225,
+      "end": 5528,
+      "text": "It’s morning. A few hours ago, the doctor—a hard-voiced Erudite woman—told Christina they couldn’t save her eye, but they’d attached an implant to her eye muscles and stitched her eyelid closed. Christina’s reaction was stoic. Unsettling, actually, but I’m not exactly a paragon of mental health myself."
+    },
+    {
+      "event": "Eric 来到病房「表示慰问」，随即宣布 Christina「无法继续参加 Dauntless 的新生训练」；Four 深吸一口气才忍住没揍他那张镶着金属钉的嘴。",
+      "who": "Eric",
+      "receivers": "Christina",
+      "start": 6376,
+      "end": 6586,
+      "text": "“What she is . . . is unable to continue in Dauntless initiation.” His voice is gentle, like he’s talking to a child after a bad dream. I take a deep breath to keep from punching him in his metal-studded mouth."
+    },
+    {
+      "event": "Christina 打断 Four 与 Eric 的争执，说「我不想再做 Dauntless 了」，并表示跟他吵没意义，让 Four 把 Eric 赶出病房——本章的转折。",
+      "who": "she",
+      "receivers": "him",
+      "start": 7159,
+      "end": 7311,
+      "text": "“I don’t want to be Dauntless anymore,” she says. “So there’s no point in fighting with him. If you want to help, you can get him the hell out of here.”"
+    },
+    {
+      "event": "Christina 问父母能否暂时收留她（她知道这违反规定、会连累他们）；Four 说他们多半愿意，但若她不想让父母为难，「我知道一个你可以去的地方」——Evelyn 的无派别安全屋。",
+      "who": "I",
+      "receivers": "Christina",
+      "start": 8621,
+      "end": 8730,
+      "text": "“I’m sure they would,” I say. “But if you’d rather not put them in that position, I know a place you can go.”"
+    },
+    {
+      "event": "在无派别据点的大厅里，一个黑发女孩用装 needle 的枪顶住 Four 的头；Four 一手扣她的手腕、一手夺枪，猛拧到她脱手，反转枪口对准她，再把枪倒转递还。",
+      "who": "I",
+      "receivers": "her",
+      "start": 12053,
+      "end": 12293,
+      "text": "I’m raising my hands to show I’m not armed, and then one hand is on her wrist and the other is on the weapon. I twist her wrist hard enough that she has to let go of the gun—which I grab, and flip around so I have it trained on her instead."
+    },
+    {
+      "event": "大厅静下来后，Four 看见对面的 Tris——她比在火车暗处时显得更小；Tris 隔着寂静的房间问他是否要她去叫 Evelyn，他答「要，那会有帮助」。",
+      "who": "I",
+      "receivers": "Tris",
+      "start": 12512,
+      "end": 12720,
+      "text": "Then I see Tris standing across the room. She looks different today than she did in the dark of the train. Smaller, surrounded by so many people who are taller than she is, but my eye still goes right to her."
+    }
+  ],
+  "relations": [
+    "Four 是 Dauntless 的入营教官（initiation instructor）；Christina 是他手下的 Dauntless 新生，被人刺伤后留在医院。",
+    "Eric 是 Four 的同僚兼上级，用「放弃最后一场比赛就会被排到淘汰线（cut line）以下」把 Christina 剔出训练；Four 拒绝叫 Eric，改让 Will 通知 Max。",
+    "Evelyn 是无派别一方的人；Four 知道她安全屋的地址和联络方式，却并不想加入无派别，仍愿为 Christina 去求她。",
+    "Tris 在安全屋内、听命于 Evelyn；Four 与她在火车上已见过一面（本章她说“in the dark of the train”）。",
+    "Peter 在营房后排双臂交叉、脸藏在阴影里，位置与 Four 所说「像一条缩回洞里的蛇」的施害者相符（动机在 ch21 由 Christina 说明）。",
+    "Al 蹲在墙边、双手蜷在胸前哭；Will 在门口；Lynn 穿一件过大的黑 T 恤、光着腿；Shauna 是赶来处理的 paramedic（急救员）。"
+  ],
+  "numbers": [
+    "“a few days”（排名已公布，第一次淘汰 the first cut 将在几天后到来）",
+    "“only one place”（Pit 这一带只可能有一个地方传出尖叫：the initiate barracks）",
+    "“a few more seconds”（Christina 又抽泣了几秒便答 Okay）",
+    "“A few hours ago”（医生在几小时前告知眼睛保不住）",
+    "“two different directions”（大厅里两个人从两个不同方向冲向他们）",
+    "“nonlethal rounds—needles”（顶住 Four 的枪装的是非致命弹 needle）"
+  ]
+}
