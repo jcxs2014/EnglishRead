@@ -1,0 +1,55 @@
+{
+ "book": "raising-ai-by-chirag-shah",
+ "chapter": "ch03",
+ "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch03_2_dreaming_of_ai.txt",
+ "facts": [
+  {
+   "fact": "作者本科在印度，大三时在既无正式教学也无互联网的条件下建成了自己的第一个神经网络。",
+   "anchor": "I built my first neural network in my junior year despite a lack of formal teaching or the internet at the time.",
+   "start": 2451,
+   "end": 2563
+  },
+  {
+   "fact": "HAL 是库布里克《2001太空漫游》中的 AI；电影 1968 年上映，早于人类登月。",
+   "anchor": "HAL is the famous AI machine in Stanley Kubrick’s sci-fi movie 2001: A Space Odyssey. The movie came out in 1968, even before we landed on the moon.",
+   "start": 2730,
+   "end": 2878
+  },
+  {
+   "fact": "2001 年 5 月作者首次赴美，在盐湖城 ICASP 会议展示用对话式语音交互检索印度语言语料库的研究海报。",
+   "anchor": "My poster was based on my work with searching in Indian language corpora using a conversation-style spoken interaction.",
+   "start": 13610,
+   "end": 13729
+  },
+  {
+   "fact": "作者 2004 年在加州本田研究所实习，研究 ASIMO 背后的驱动 AI，而非其人形外观。",
+   "anchor": "My own work on ASIMO was not about the humanoid aspect of the robot; it was more about the underlying AI that would drive this automaton.",
+   "start": 20315,
+   "end": 20452
+  },
+  {
+   "fact": "作者认为人类痴迷人形机器，是因为想在自造的系统中看见自己的倒影。",
+   "anchor": "We want to see our reflection in these artificial systems we create.",
+   "start": 21854,
+   "end": 21922
+  },
+  {
+   "fact": "机器人三定律是阿西莫夫「和平共处」愿景的核心。",
+   "anchor": "The Three Laws of Robotics are the core of Asimov’s vision for peaceful coexistence.",
+   "start": 28853,
+   "end": 28937
+  },
+  {
+   "fact": "《星际穿越》中的机器人 TARS 没有自我保存本能，作者视其为善意 AI 的设计样板。",
+   "anchor": "TARS has no sense of self-preservation!",
+   "start": 38838,
+   "end": 38877
+  },
+  {
+   "fact": "章末预告：AI 的真实历史与虚构故事一样迷人。",
+   "anchor": "facts turned out to be just as fascinating as fiction!",
+   "start": 52953,
+   "end": 53007
+  }
+ ]
+}
