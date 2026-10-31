@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch12",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch12_chapter_twelve_elise.txt",
+ "facts": [
+  {
+   "fact": "婚礼前的傍晚，Elise 没有留在室内看新娘更衣，而是在 Nest 外等候。",
+   "anchor": "Elise waited outside the Nest.",
+   "start": 25,
+   "end": 55
+  },
+  {
+   "fact": "她私下认为 Conrin 当年挨父亲那一巴掌是活该，且她亲眼看见他举起了战马。",
+   "anchor": "Conrin had deserved it. That was Elise’s secret thought.",
+   "start": 836,
+   "end": 892
+  },
+  {
+   "fact": "她于是与宫中女眷一起拾枯枝，站在 Nest 的尖顶前，晚祷的钟正响。",
+   "anchor": "So, she had busied herself in gathering branches",
+   "start": 1947,
+   "end": 1995
+  },
+  {
+   "fact": "举枝由女人来做，她们总是最后进 Nest，把枝靠在门的 V 形拱上。",
+   "anchor": "The branch raising was done by the women",
+   "start": 2321,
+   "end": 2361
+  },
+  {
+   "fact": "Daegmar 抱怨脚痛；Cynefel 提议给她披风或凳子，Daegmar 想起对方也怀着孕，便推辞了。",
+   "anchor": "‘My feet ache,’ said Daegmar",
+   "start": 3705,
+   "end": 3733
+  },
+  {
+   "fact": "Falcan 的夫人低声说明新娘身上那件墨绿长袍是 Merogian 的婚服。",
+   "anchor": "are Merogian marriage robes",
+   "start": 7617,
+   "end": 7644
+  },
+  {
+   "fact": "Cynefel 说 Ardweni 人行婚仪时手执镰刀与匕首，但 Nest 内禁止携带兵器。",
+   "anchor": "Ardweni carry a sickle and dagger in their hands",
+   "start": 12555,
+   "end": 12603
+  },
+  {
+   "fact": "新娘最终没有逃，她抬手敲门，本章到此结束。",
+   "anchor": "Tilde did not run. She raised her hand, and knocked.",
+   "start": 14154,
+   "end": 14206
+  }
+ ]
+}
