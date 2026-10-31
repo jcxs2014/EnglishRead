@@ -1,0 +1,67 @@
+{
+ "book": "raising-ai-by-chirag-shah",
+ "chapter": "ch02",
+ "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch02_1_ai_ghosts_and_goblins.txt",
+ "facts": [
+  {
+   "fact": "2004 年 7 月作者在加州 Cinemark Century 16 看《I, Robot》首映周末场；当天上午刚以超预算 10% 买下二手 Mazda Protegé，date 只是看电影的借口",
+   "anchor": "the movie that I was so excited about was I, Robot",
+   "start": 2919,
+   "end": 2969
+  },
+  {
+   "fact": "2004 年作者在 Mountain View 的 Honda Research Institute 实习，接触到的 ASIMO 能走能说，但不能真对话、不能做片中那些真实任务",
+   "anchor": "the closest to having a humanoid we had was Honda’s ASIMO robot",
+   "start": 9341,
+   "end": 9404
+  },
+  {
+   "fact": "电影设定：机器人按存活概率选择救 Smith（45%）而不是 12 岁女孩（11%），这是三定律的第一处裂缝",
+   "anchor": "it calculates that Smith had a 45 percent chance of survival, whereas the girl had only 11 percent",
+   "start": 14372,
+   "end": 14470
+  },
+  {
+   "fact": "2018 年 Spotify 高级研究员 Shelly Plimpton 用 ghosts 形容模型训练完成后冒出的、无法预测与控制的意外行为，并强调这些幽灵和系统一样老",
+   "anchor": "It’s like there are ghosts in these systems",
+   "start": 26257,
+   "end": 26300
+  },
+  {
+   "fact": "ProPublica 2016 年报道：COMPAS 给有色人种更高的再犯概率，而实际释放后白人前科者违法更多",
+   "anchor": "this software often gave higher chances of criminality for people of color",
+   "start": 27302,
+   "end": 27376
+  },
+  {
+   "fact": "Georgetown Law 2018 年统计：1.17 亿美国成年人被收进执法人脸识别网络，非裔因在 mug-shot 数据库中占比过高而被过度匹配",
+   "anchor": "117 million American adults were in face recognition networks",
+   "start": 27764,
+   "end": 27825
+  },
+  {
+   "fact": "Joy Buolamwini 在 MIT Media Lab 发现自己的脸识别准确率低于白人同事，因为训练数据偏白人男性，整体指标却仍很高",
+   "anchor": "she couldn’t get her face identified as accurately as her white colleagues",
+   "start": 28169,
+   "end": 28243
+  },
+  {
+   "fact": "Berkeley 研究生录取总体男生 44%、女生 35%；分系看女生更多申请录取率 25%–35% 的难系、男生更多申请约 65% 的易系，即 Simpson's Paradox",
+   "anchor": "44 percent vs. 35 percent",
+   "start": 35317,
+   "end": 35342
+  },
+  {
+   "fact": "有人用 AI 当选美评委，结果只挑白皮肤，主办方道歉撤项；作者判断这类部署的真正理由是 Because they could",
+   "anchor": "the AI found only those with white skin “beautiful.”",
+   "start": 36619,
+   "end": 36671
+  },
+  {
+   "fact": "章末引 OpenAI 对十年内出现超智能的预测作为紧迫性依据；作者结论是不存在可杀的单一实体、可剪的一根红线，敌人就缠在日常里",
+   "anchor": "superintelligence will arrive in ten years",
+   "start": 39861,
+   "end": 39903
+  }
+ ]
+}
