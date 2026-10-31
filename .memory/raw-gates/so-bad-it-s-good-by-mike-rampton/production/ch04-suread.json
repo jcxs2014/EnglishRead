@@ -1,0 +1,61 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch04",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch04_refreshingly_terrible_walks_into_a_bar_jokes.txt",
+ "facts": [
+  {
+   "fact": "北极熊点酒时被问“为什么停顿这么久”，回答“我是北极熊”：pause 与 paws（熊掌）同音",
+   "anchor": "The barman says, ‘Why the big pause?’ The polar bear says, ‘I’m a polar bear.’",
+   "start": 189,
+   "end": 267
+  },
+  {
+   "fact": "骨架点一品脱拉格还要一把拖把：骨架喝下去会漏，笑点靠物品清单而不是台词",
+   "anchor": "A skeleton walks into a bar and says, ‘I’ll have a pint of lager and a mop.’",
+   "start": 273,
+   "end": 349
+  },
+  {
+   "fact": "汉堡走进酒吧被拒：酒保说的“我们不供应食物”把汉堡从顾客变成食材",
+   "anchor": "‘Sorry, we don’t serve food.’",
+   "start": 707,
+   "end": 736
+  },
+  {
+   "fact": "屎壳郎问“这张凳子有人坐吗”：stool 兼指凳子与粪便",
+   "anchor": "‘Is this stool taken?’",
+   "start": 1402,
+   "end": 1424
+  },
+  {
+   "fact": "Times New Roman 字体被赶出去：“我们不欢迎你这种字体”，type 兼指字体与类型",
+   "anchor": "We don’t want your type in here!",
+   "start": 1577,
+   "end": 1609
+  },
+  {
+   "fact": "螺丝刀问“有款酒以你命名？”，回答“你是说有一款酒叫 Melanie？”：把 screwdriver 误当人名",
+   "anchor": "‘You have a drink called Melanie?’",
+   "start": 2464,
+   "end": 2498
+  },
+  {
+   "fact": "绳子第二次登门自称“a frayed knot”，谐音 afraid not（恐怕不行）",
+   "anchor": "‘No!’ says the string. ‘I’m a frayed knot.’",
+   "start": 4941,
+   "end": 4984
+  },
+  {
+   "fact": "长颈鹿倒地死了，酒保说不许把尸体留在店里，客人回答“那不是狮子，是长颈鹿”：lying there 与 lion 谐音",
+   "anchor": "‘It’s not a lion. It’s a giraffe.’",
+   "start": 3911,
+   "end": 3945
+  },
+  {
+   "fact": "时间旅行者那一条把两句顺序倒过来：酒保的拒绝在前，人走进酒吧在后",
+   "anchor": "The bartender says, ‘We don’t serve time travellers in here.’ A time traveller walks into a bar.",
+   "start": 1615,
+   "end": 1711
+  }
+ ]
+}
