@@ -1,0 +1,61 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch01_1_king_orko_borko.txt",
+ "facts": [
+  {
+   "fact": "醉酒的 Beppe 披着毯子扮“山妖之王 Orko-Borko”撞进大车，Hostian 被吵醒、Rufis 翻身骂他",
+   "anchor": "The door of the wagon banged open",
+   "start": 25,
+   "end": 58
+  },
+  {
+   "fact": "Beppe 哭着指控全团把他落在酒馆，实际是他自己钻到桌子底下抱着酒壶，没人看见",
+   "anchor": "I was under the table",
+   "start": 2022,
+   "end": 2043
+  },
+  {
+   "fact": "十岁的 Daley 是团里最小的，也是 Beppe 清醒时唯一敢欺负的对象，他选择不掺和",
+   "anchor": "Daley knew better than to involve himself",
+   "start": 2505,
+   "end": 2546
+  },
+  {
+   "fact": "剧团靠赶集日演出收二十三十个铜板维生，市集稀少，春末回首都 Hernysadharc 待夏",
+   "anchor": "Passing the hat around after a successful show",
+   "start": 4079,
+   "end": 4125
+  },
+  {
+   "fact": "母亲 Ardis 在楼上与班主 Yuval 对质，说出他在 Nabban 另有妻子",
+   "anchor": "Hostian told me! He told me about your wife back in Nabban.",
+   "start": 9344,
+   "end": 9403
+  },
+  {
+   "fact": "母亲喊出这句后，阳台栏杆断裂（原文未写是否被推），她坠落院中石板地",
+   "anchor": "Take your hands off me! I won’t be silenced!",
+   "start": 12065,
+   "end": 12109
+  },
+  {
+   "fact": "Daley 从屋顶探头，看见母亲四肢不正常摊开的尸体，随即爬下屋顶",
+   "anchor": "Much farther below, splayed unnaturally",
+   "start": 12803,
+   "end": 12842
+  },
+  {
+   "fact": "Daley 拿火把烧了两辆大车，把 Rufis 与 Hostian 赶下车",
+   "anchor": "Daley leaned in just long enough to set flame",
+   "start": 16159,
+   "end": 16204
+  },
+  {
+   "fact": "被忘在车里的 Beppe 在火中惨叫，Daley 折返把他拖出来，然后逃进 Salt Hill 区",
+   "anchor": "the drunken dwarf had awakened to find himself surrounded by leaping flames",
+   "start": 18126,
+   "end": 18201
+  }
+ ]
+}
