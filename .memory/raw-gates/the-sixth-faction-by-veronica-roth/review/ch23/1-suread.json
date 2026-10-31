@@ -1,0 +1,83 @@
+{
+ "chapter": "ch23",
+ "pov": "第一人称（Tris 叙述）+ 过去时：以 “For a split second after the first few Dauntless storm into the Rookery, I marvel…” 开篇，全程过去时叙述。",
+ "facts": [
+  {
+   "event": "Dauntless 冲进 Rookery：Tris 一时惊叹他们配合之整齐——两人一排涌进大厅后左右分开，逐排推进，直到把整个大厅围住。",
+   "who": "they",
+   "receivers": "the hall",
+   "start": 60,
+   "end": 325,
+   "text": "For a split second after the first few Dauntless storm into the Rookery, I marvel at how well-choreographed they are. They rush into the room in two even lines, then divide, one of them going right and the other going left, row by row, until the hall is surrounded."
+  },
+  {
+   "event": "带队的女守卫 Weaver（曾在水处理厂刁难她们）打断 Jove 的话，指控这里窝藏一名绑匪，以及他从孩子母亲那里偷走的孩子。",
+   "who": "Weaver",
+   "receivers": "you",
+   "start": 1827,
+   "end": 1968,
+   "text": "“No reason?” Weaver says, cutting her off. “You’re harboring a kidnapper and the child he stole from her mother. That reason enough for you?”"
+  },
+  {
+   "event": "Mender 隔着垂到眼前的一绺黑发瞪视 Dauntless：Mae 是他妹妹，她不想跟母亲住，不信可以问她本人。",
+   "who": "the Mender",
+   "receivers": "the Dauntless",
+   "start": 2563,
+   "end": 2741,
+   "text": "“She’s my sister,” the Mender says, glaring at the Dauntless through the lock of dark hair that’s fallen in his eyes. “She doesn’t want to live with our mother; you can ask her.”"
+  },
+  {
+   "event": "Mender 用空着的那只手去够一名 Dauntless 大腿枪套里的枪；Tris 立刻反应，一掌砸在他手肘上把他挡回去。",
+   "who": "I",
+   "receivers": "the Mender",
+   "start": 4288,
+   "end": 4406,
+   "text": "The Mender reaches for the gun with his spare hand, and I react, slamming my hand down on his elbow to knock him back."
+  },
+  {
+   "event": "Evelyn 从楼梯上下来喝止：所有无派系者定住，Dauntless 随之停手；Tris 说不清为何奏效，只猜她的嗓音与语调本身比旁人更有分量。",
+   "who": "Evelyn",
+   "receivers": "the factionless",
+   "start": 4832,
+   "end": 5164,
+   "text": "I’m not sure why it works. Maybe there are just some people whose voices are more powerful than others. Maybe the factionless recognize her exact timbre and cadence. Maybe anyone who spoke at that volume and in that tone could have stalled the fight at that point. But all the factionless freeze, and with them, so do the Dauntless."
+  },
+  {
+   "event": "Evelyn 先逼 Weaver 承认被告应受听证，随即宣布她将陪被告与孩子前往 Dauntless 的拘留处、与其主管商谈，并反问「这样算公平吗」。",
+   "who": "Evelyn",
+   "receivers": "the accused and the child",
+   "start": 6411,
+   "end": 6579,
+   "text": "“Very well,” Evelyn says. “Then I will accompany the accused and the child to your detention facility to discuss the matter with your supervisor. Does that sound fair?”"
+  },
+  {
+   "event": "Weaver 撤走前下令：所有人必须离开这栋楼，不许这么多人擅自占住；北边无派系区有地方安置他们，她两天后会派人回来确认人已走空。",
+   "who": "Weaver",
+   "receivers": "All of you",
+   "start": 7157,
+   "end": 7441,
+   "text": "“All of you better clear out of here,” Weaver calls out. “You’re not allowed to squat in this building, especially not in such large numbers. There’s space for all of you in the factionless sector north of here. I’ll be sending someone back here in two days to make sure you’re gone.”"
+  },
+  {
+   "event": "夜里 Evelyn 在楼梯口告诉 Tris：监护听证一律要有议会成员在场；她问 Tris 是否愿意就此事去跟她母亲说。",
+   "who": "Evelyn",
+   "receivers": "you",
+   "start": 12240,
+   "end": 12393,
+   "text": "“Custody hearings are always conducted with a council member present,” Evelyn says. “If I asked you to speak to your mother about this, would you do it?”"
+  }
+ ],
+ "relations": [
+  "Weaver↔Rookery 众人：指控方与被指控方；Weaver 曾在水处理厂与 Tris 一方交手，此次以队长身份带队清剿。",
+  "Evelyn↔Dauntless：Evelyn 用「最年长者＝发言人」的身份把一次突袭改造成程序谈判，成功换出 Mender 与 Mae。",
+  "Tris↔Mender/Mae：Tris 挡下 Mender 夺枪，避免重演「针→子弹→Robert」式的连锁暴力；随后她为这家人的命运出力。",
+  "Tris↔Evelyn：Evelyn 交给 Tris 一个通向母亲（议会成员）的任务，两人由上下级转为合作。",
+  "Jove↔Rookery：Jove 交出决策权（不拔枪、听 Evelyn 交涉），事后下令次日搬去 Museum。"
+ ],
+ "numbers": [
+  "two even lines（Dauntless 分两列纵队涌入）",
+  "ten feet away（Rory 在十英尺外中针挣扎）",
+  "two days（Weaver 限两天内清空 Rookery）",
+  "the first few Dauntless（最先冲进来的一小批）"
+ ]
+}

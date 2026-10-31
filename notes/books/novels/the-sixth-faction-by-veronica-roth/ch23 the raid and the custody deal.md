@@ -68,8 +68,8 @@ modified: "2026-10-31"
 
 **中文理解**：事情严重到她连笑都想不到。他俯身到 Rory 上方，一点没犹豫，把镊子的尖扎进肉里；尖叫太响，我耳朵嗡嗡作响。
 **关键词**：I don’t even think about laughing / without hesitating / the points of the tweezers / my ears ring
-**为什么这样写**：第一句先把笑的路堵掉，后面两个动作才站得住。down 只出现一处，digging 和 yanking 都是短促的动作词，读者跟不上的时候事情已经做完了。收尾不收在伤口上，收在「我耳朵嗡嗡响」——她离得太近，只能当按住人的那只手。
-**读者视角提示**：上一句他还在拿「拔过木刺算不算」打岔，这一句镊子已经进去了。同一双手，前后隔了不到一分钟。
+**为什么这样写**：第一句先把笑的路堵掉，后面两个动作才站得住。digs 和 screams 都是短促的动词，读者跟不上的时候事情已经做完了。收尾不收在伤口上，收在「我耳朵嗡嗡响」——她离得太近，只能当按住人的那只手。
+**读者视角提示**：他一点没犹豫就下镊子——这间屋子里没有人有余裕演给谁看。
 
 > **原句 9:** "Some part of me hoped that Dauntless, the faction I should have chosen, the faction I wanted to choose, would be better than the rest. Instead it’s the faction that exiled Christina while her attacker goes free."
 
