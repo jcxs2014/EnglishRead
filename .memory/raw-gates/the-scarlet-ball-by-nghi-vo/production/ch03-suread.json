@@ -1,0 +1,43 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch03_three.txt",
+ "facts": [
+  {
+   "fact": "回到 Howard House，Mrs. Howard 拿出小剪要拆脸上的皮；Judith 恐惧爆发想撕脸逃跑，被夫人用膝盖顶住大腿、揪着头发剪完一圈。",
+   "anchor": "Will you let me do my work, or are you prepared to sleep in that face",
+   "start": 445,
+   "end": 514
+  },
+  {
+   "fact": "Judith 推开夫人扯裂最后几针，丝线像绞索一样割进皮肤，脖子淌血；夫人按布止血，骂她可笑，又把破面具修边拭血、折成三折放回皮匣。",
+   "anchor": "the silk thread cutting like a garrote through skin",
+   "start": 1595,
+   "end": 1646
+  },
+  {
+   "fact": "夫人近乎惆怅地说「她真的很美」；Judith 话卡在喉咙里——她意识到那皮不是意大利瓷面那样的造物，而是长出来的，戴它的女孩在刀与血之前就美。",
+   "anchor": "She really was so very beautiful",
+   "start": 2180,
+   "end": 2212
+  },
+  {
+   "fact": "礼服脱下像裂壳离身，轻了几岁却没了甲胄：有对的脸与裙她就有纽约给白富少女的全部保护，没有就是狗食。",
+   "anchor": "The weight that had been distributed with such grace",
+   "start": 3126,
+   "end": 3178
+  },
+  {
+   "fact": "夫人假装没听见她要走的宣言，端出黄油炸鹌鹑、厚得能立勺的牛肉冻汁、还有那把她卷进这一切的樱桃；恐惧压不住饥饿，她像举杯一样把冻汁喝干。",
+   "anchor": "the cherries again, the gorgeous red impossible cherries",
+   "start": 4518,
+   "end": 4574
+  },
+  {
+   "fact": "手停在樱桃上方时，夫人在门口纵容地夸她是小野兽，说明天再谈；门锁死，她开窗想投风暴却被飓风推回，最后闩上窗爬进床罩为她翻开的床。",
+   "anchor": "My, such a little beast you are",
+   "start": 5946,
+   "end": 5977
+  }
+ ]
+}

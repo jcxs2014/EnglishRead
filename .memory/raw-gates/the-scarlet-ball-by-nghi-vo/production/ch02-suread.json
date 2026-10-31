@@ -1,0 +1,55 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch02_two.txt",
+ "facts": [
+  {
+   "fact": "镜中 Mr. Howard 的脸皱起、皮肉滚过硬骨，露出一口人类头骨里排不下的牙，随即复原成微笑；他问「她是给我的吗」，被 Mrs. Howard 喝退去别处觅食，还叮嘱 Judith 别与他独处。",
+   "anchor": "mouth full of teeth that could never fit in a human skull",
+   "start": 3562,
+   "end": 3619
+  },
+  {
+   "fact": "Judith 凑近梳妆台圆镜，看见镜中的嘴唇未经她同意在笑；Mrs. Howard 只嗤了一声，说这面老镜子喜欢耍花招。",
+   "anchor": "my lips move in a smile without my intent",
+   "start": 5100,
+   "end": 5141
+  },
+  {
+   "fact": "Mrs. Howard 取出弯针穿上粗黑线，又从皮匣抖出一件开着眼鼻唇孔、嘴呈哭相的「皮之物」，托着 Judith 的下巴说她顶着这样一张脸哪儿也去不了。",
+   "anchor": "threading it with coarse black thread",
+   "start": 8911,
+   "end": 8948
+  },
+  {
+   "fact": "马车中 Judith 陷入热麻，仿佛牙被拔光却不在乎；她记得（也许是梦）牙齿被摆上景泰蓝托盘两排待验，两颗不合格的被换成珍珠。",
+   "anchor": "as if someone had pulled out all of my teeth",
+   "start": 10563,
+   "end": 10607
+  },
+  {
+   "fact": "收走石包后 Judith 在车里想看这场局会走向什么：棉丝皮肤之下她仍是自己，把「我从未无助」咬在牙间等马车到站。",
+   "anchor": "I have never been helpless",
+   "start": 13147,
+   "end": 13173
+  },
+  {
+   "fact": "晚宴长桌上她的席位卡写着 Iphigenia Marshall 小姐——她顶替的是 Howard 家孙女；夫人用鞋跟碾她的脚背警告她别轻举妄动。",
+   "anchor": "The place card before me had been inscribed in an elegant hand, Miss Iphigenia Marshall",
+   "start": 17285,
+   "end": 17372
+  },
+  {
+   "fact": "de Lange 太太宣布玩童年游戏 Rabbit Rabbit：兔子看得见才能动、黑暗中必须静止、回到扶手椅这个「洞」才安全，并叫 Violet 守门；门开后黑暗里有东西走来嗅她们。",
+   "anchor": "“We are going to play Rabbit Rabbit,”",
+   "start": 27427,
+   "end": 27464
+  },
+  {
+   "fact": "紫水晶女孩死在离扶手椅半步处，头被拧转、发髻仍美、项链的血把紫水晶染成石榴石；Judith 在无决定之下纵身跃进椅中活下，Mrs. Howard 脸上闪过胜利。",
+   "anchor": "her head twisted all the way around",
+   "start": 32538,
+   "end": 32573
+  }
+ ]
+}
