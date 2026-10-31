@@ -55,10 +55,10 @@ modified: "2026-10-31"
 **为什么这样写**：夫人的出身处世用一场冻灾写出——牛的眼神是她的第一课。"farmed the people"一语完成阶级的换算：她家的生意是人上叠人。冷酷不是嫁给怪物才学会的，是嫁妆。
 **读者视角提示**：这段是全书最重要的一份家世档案：夫人握锤的手比婚姻早几十年。想想她"移山"谈判桌上的底气从哪来。
 
-> **原句 7:** "“You call, and we come, and at first it seems like the greatest game.” He smiled slightly. “We love games before we know to love anything else. Isn’t it always the way of it with you women? You play such games. You show us how skilled and clever you are, what beautiful trophies you would be to gratify our vanity. You dance with us and prove yourselves brave, you follow the rules to show us how fair you are; if you are bound, then we must be as well if we wish to have you, and by God and all His saints, we do want to have you.”"
+> **原句 7:** "“You call, and we come, and at first it seems like the greatest game.” He smiled slightly. “We love games before we know to love anything else. Isn’t it always the way of it with you women? … You dance with us and prove yourselves brave, you follow the rules to show us how fair you are; if you are bound, then we must be as well if we wish to have you, and by God and all His saints, we do want to have you.”"
 
 **中文理解**："你们召唤，我们就来——起初像一场顶好玩的游戏。"他微微一笑。"在懂得爱别的东西之前，我们先爱上游戏。你们女人向来如此，不是吗？你们玩这些游戏：让我们看你们多灵巧、多聪明，看你们做我们虚荣心多美的战利品。你们与我们共舞证明勇敢，守规则证明公平；你们受缚，那我们若想要你们，也必得受缚——上帝与诸位圣徒作证，我们确实想要你们。"
-**关键词**：We love games before we know to love anything else / beautiful trophies / we do want to have you
+**关键词**：We love games / beautiful trophies / we do want to have you
 **为什么这样写**：婚约制度的怪方视角自白——把三场舞会读成一场大型驯兽游戏。"if you are bound, then we must be as well"是全书对婚姻契约最坦白的一次报价：锁链双向，饥饿也双向。
 **读者视角提示**：这是 Mr. Howard 的核心证词，值得与前文夫人版本对照（她叫"驯狼"）。同一制度，怪物口述版连浪漫的糖衣都不撒。
 
