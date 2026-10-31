@@ -1,0 +1,95 @@
+{
+ "chapter": 40,
+ "text": "text/ch40_chapter_forty_tilde.txt",
+ "chars": 28252,
+ "facts": [
+  {
+   "id": 1,
+   "event": "天亮后 Tilde 与 Cynghal 宫廷在 kithwood 中醒来，她听见 Ways 与祖先的喧哗，确认叛军不在近处，认定结界的升起是警告与报复",
+   "relation": "Tilde—叛军/kithwood（被针对的闯入者）",
+   "numbers": "days now of naught but sour meat and ale",
+   "interval": [
+    24,
+    91
+   ],
+   "anchor": "The morning came blue, and broke golden over the tops of the trees."
+  },
+  {
+   "id": 2,
+   "event": "Liran 伸手扶 Tilde 上马，口称 my queen，暂时对她温和，随后要众人重新祈祷",
+   "relation": "Tilde—Liran（王与后；她假意顺从以自保）",
+   "numbers": "",
+   "interval": [
+    4945,
+    5006
+   ],
+   "anchor": "He offered his hand to me. ‘Come, my queen, let me help you.’"
+  },
+  {
+   "id": 3,
+   "event": "八岁的王子 Hein 抢先放箭，一箭射穿白兔的眼睛，Egil 称赞他好箭法，Tilde 暗暗皱眉",
+   "relation": "Hein—Egil（兄弟，互相鼓劲）",
+   "numbers": "eight year old",
+   "interval": [
+    3853,
+    3945
+   ],
+   "anchor": "another arrow flew, cutting through my secret wish, and struck the creature through the eye."
+  },
+  {
+   "id": 4,
+   "event": "Tilde 当场断定那只白兔是 kithwood 设的试探，而宫廷已经失败，林子开始发出 ours 的嘶声",
+   "relation": "Tilde—kithwood（被试探者/试炼者）",
+   "numbers": "",
+   "interval": [
+    5557,
+    5609
+   ],
+   "anchor": "It had been a test. I had known as soon as I saw it."
+  },
+  {
+   "id": 5,
+   "event": "Merovin 几天前递给 Tilde 一张纸条，对照他挂坠盒里的密信，纸上只有两个词：Be ready",
+   "relation": "Tilde—Merovin（Merogian 旧识，她恨他但仍倚为内应）",
+   "numbers": "two words",
+   "interval": [
+    7645,
+    7702
+   ],
+   "anchor": "Measured against Merovin’s locket, it only had two words."
+  },
+  {
+   "id": 6,
+   "event": "队伍在鹿径中撞上手臂粗的荆棘丛，玫瑰与蔷薇果同时开放，Tilde 立刻想到 Sanafin，Marolyn 伸手握住她的手",
+   "relation": "Tilde—Marolyn（同伴，无声支持）；Tilde—Sanafin（亡故恋人）",
+   "numbers": "",
+   "interval": [
+    8124,
+    8197
+   ],
+   "anchor": "in the middle of it had grown a thicket of briars, branches thick as arms"
+  },
+  {
+   "id": 7,
+   "event": "林子发动：所有火把同时熄灭，一头狼把掉队者拖进黑暗，马匹惊跳，Egil 被掀下马，恐慌蔓延",
+   "relation": "Egil—Ysel/Ademar（宫廷众人各自奔逃）",
+   "numbers": "",
+   "interval": [
+    14706,
+    14773
+   ],
+   "anchor": "I saw a shot of silver as a wolf dragged a straggler into the dark."
+  },
+  {
+   "id": 8,
+   "event": "Tilde 抓住一根荆棘枝缠上手臂放血立约，献出 Sanafin 那个夏日之吻的记忆，换来一条通路并高唱 Cynghal 歌谣把宫廷带出林子",
+   "relation": "Tilde—kithwood（立约者）；Tilde—Sanafin（献出的记忆）",
+   "numbers": "four years before",
+   "interval": [
+    21037,
+    21102
+   ],
+   "anchor": "I took hold of a branch of thorns, dragging them out of the wood."
+  }
+ ]
+}

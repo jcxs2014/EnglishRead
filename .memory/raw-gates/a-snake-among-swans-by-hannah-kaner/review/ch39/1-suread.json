@@ -1,0 +1,95 @@
+{
+ "chapter": 39,
+ "text": "text/ch39_chapter_thirty_nine_elise.txt",
+ "chars": 20899,
+ "facts": [
+  {
+   "id": 1,
+   "event": "送葬队伍把伊森王子的松木棺材驮在马背上再次登上哈纳拉斯特大道，棺木塞满香草并盖上黑色天鹅旗。",
+   "relation": "伊森（阵亡王子）与王室送葬队；艾莉丝自责参与了家族的破碎",
+   "numbers": "",
+   "interval": [
+    551,
+    616
+   ],
+   "anchor": "the pine case was stuffed with herbs to hide the inevitable smell"
+  },
+  {
+   "id": 2,
+   "event": "艾莉丝一路凝视蒂尔德被民众欢呼为“破围者”“法尔敦的救主”，欲念与罪恶感同时翻涌。",
+   "relation": "艾莉丝—蒂尔德（姑嫂，且有过一夜私情）",
+   "numbers": "",
+   "interval": [
+    1450,
+    1529
+   ],
+   "anchor": "the proud way she lifted her chin as the local folk came to cheer her departure"
+  },
+  {
+   "id": 3,
+   "event": "第二天前哨驰回报信，前方又出现一道城墙高的荆棘墙，断枝上吊着一只剖腹的死天鹅。",
+   "relation": "叛军/德鲁伊与王室队伍（新出现的第二个德鲁伊）",
+   "numbers": "on the second day",
+   "interval": [
+    3447,
+    3491
+   ],
+   "anchor": "The vanguard saw it first, on the second day"
+  },
+  {
+   "id": 4,
+   "event": "达戈贝尔特力主穿林绕行并宣称这是神意，利兰王应下挑战带队入林，蒂尔德与阿德马的退兵之议被压下。",
+   "relation": "达戈贝尔特（大祭司）—利兰王；对立于蒂尔德与阿德马公爵",
+   "numbers": "A loop of a few trees at most",
+   "interval": [
+    5667,
+    5710
+   ],
+   "anchor": "‘We will go through the wood,’ he declared."
+  },
+  {
+   "id": 5,
+   "event": "乌赫特伦坚持让西妮菲尔带传令官、仆从与卫兵折返法尔敦，去预警下一场袭击。",
+   "relation": "乌赫特伦—西妮菲尔（母子）；西妮菲尔与丈夫泰德梅尔疏离",
+   "numbers": "",
+   "interval": [
+    9168,
+    9229
+   ],
+   "anchor": "Cynefel alone went back at Uhtren’s insistence, with a herald"
+  },
+  {
+   "id": 6,
+   "event": "达戈贝尔特再也找不回大道，队伍只能按他的估算朝西北的法尔坎推进。",
+   "relation": "达戈贝尔特与整支宫廷队伍（受其领路）",
+   "numbers": "",
+   "interval": [
+    12331,
+    12381
+   ],
+   "anchor": "they would head directly northwest, towards Falcan"
+  },
+  {
+   "id": 7,
+   "event": "海因发现林中垂下的梨与坚果，蒂尔德制止他摘食，并提议以辛格尔战歌压住林中的低语。",
+   "relation": "蒂尔德—海因（王后与幼王子）；蒂尔德对艾莉丝的庇护",
+   "numbers": "",
+   "interval": [
+    14372,
+    14454
+   ],
+   "anchor": "‘Don’t touch the fruit,’ said Tilde, just as Hein almost broke towards the bounty."
+  },
+  {
+   "id": 8,
+   "event": "夜祷进行到一半，林中百兽的嘶鸣盖过歌声，阿德马与骑士拔剑，蒂尔德最终下令点火过夜。",
+   "relation": "阿德马/骑士与蒂尔德（危急时刻众人转向王后）",
+   "numbers": "",
+   "interval": [
+    20076,
+    20127
+   ],
+   "anchor": "Ademar had drawn his sword, and several knights too"
+  }
+ ]
+}
