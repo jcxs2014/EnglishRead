@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch26",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch26_chapter_twenty_six_tilde.txt",
+ "facts": [
+  {
+   "fact": "自 kingsmoot 后她再没见过这样杂的梅洛吉亚人聚集，实际只来三十人左右",
+   "anchor": "such a motley gathering of Merogians",
+   "start": 44,
+   "end": 80
+  },
+  {
+   "fact": "Guwetha 带她走向外堡墙前一排七座仓库，其中三座被烧",
+   "anchor": "the seven warehouses that stood all in a row",
+   "start": 2975,
+   "end": 3019
+  },
+  {
+   "fact": "第五座仓库被改成伤兵营，空气中是血、发酵葡萄与醋的刺鼻味",
+   "anchor": "This is the infirmary",
+   "start": 3782,
+   "end": 3803
+  },
+  {
+   "fact": "Guwetha 说林子不会只给不取，代价极重，Yoldan 给得太多已属于林子",
+   "anchor": "The wood cannot give without taking",
+   "start": 7010,
+   "end": 7045
+  },
+  {
+   "fact": "林子取走让它觉得自己活着的东西：痛苦与记忆",
+   "anchor": "Pain and memory",
+   "start": 7484,
+   "end": 7499
+  },
+  {
+   "fact": "Yoldan 为召出荆棘墙把双臂浸进沸油，人已迷失在 Ways 里",
+   "anchor": "a vat of boiling oil",
+   "start": 7765,
+   "end": 7785
+  },
+  {
+   "fact": "Guwetha 说 Yoldan 是另外两个通晓 Ways 的 druidim 之一",
+   "anchor": "He is one of two other druidim",
+   "start": 6896,
+   "end": 6926
+  },
+  {
+   "fact": "Guwetha 承认六年前 kingsmoot 那夜她在场",
+   "anchor": "I was there",
+   "start": 9519,
+   "end": 9530
+  }
+ ]
+}
