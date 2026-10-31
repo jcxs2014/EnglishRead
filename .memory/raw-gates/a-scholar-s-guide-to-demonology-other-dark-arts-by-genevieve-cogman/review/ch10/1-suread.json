@@ -1,0 +1,112 @@
+{
+  "book": "a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman",
+  "chapter": "ch10",
+  "text": "notes/books/novels/a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman/text/ch10_chapter_nine.txt",
+  "facts": [
+    {
+      "kind": "action",
+      "fact": "Phil walks the moor road towards Wroxborough in fog and rain, and her phone starts downloading texts once she is past the school's signal-null area.",
+      "anchor": "She must have emerged from the weird null area in which the school lay.",
+      "start": 1385,
+      "end": 1456
+    },
+    {
+      "kind": "action",
+      "fact": "At a crossroads that should not exist, Phil sees Margot Hamilton standing under a street lamp with a stranger, later named Anne Bredon.",
+      "anchor": "one of them was Margot Hamilton. The other was a stranger.",
+      "start": 5564,
+      "end": 5622
+    },
+    {
+      "kind": "action",
+      "fact": "Anne Bredon tells Phil she wants her to break the wards, suggesting midnight as the time.",
+      "anchor": "I want you to break the wards.",
+      "start": 13853,
+      "end": 13883
+    },
+    {
+      "kind": "action",
+      "fact": "Anne sends Margot back along the road to school before stating her business, so the girl will not overhear.",
+      "anchor": "watched the small figure slouch along the road back towards school.",
+      "start": 13284,
+      "end": 13351
+    },
+    {
+      "kind": "action",
+      "fact": "Phil refuses Anne's offer of money, citing her duty of care to the pupils.",
+      "anchor": "I do have a duty of care",
+      "start": 18472,
+      "end": 18496
+    },
+    {
+      "kind": "action",
+      "fact": "Phil walks away; when she turns back, Anne Bredon, her mouse and the crossroads are all gone.",
+      "anchor": "the road swept on to the horizon, serene and uncrossed by any other highway.",
+      "start": 21314,
+      "end": 21390
+    },
+    {
+      "kind": "action",
+      "fact": "A flaming leopard-like creature charges Phil, recoils when she throws up her hands, and speaks before vanishing.",
+      "anchor": "Tell him that his seal will not protect you next time.",
+      "start": 25355,
+      "end": 25409
+    },
+    {
+      "kind": "action",
+      "fact": "Phil backs away step by step past the gorse thicket, the creature stops following, and she heads back to the school.",
+      "anchor": "She stumbled backwards, past the bushes",
+      "start": 25062,
+      "end": 25101
+    },
+    {
+      "kind": "relation",
+      "fact": "Anne Bredon is the Latin mistress whose post Phil now holds - Phil's predecessor.",
+      "anchor": "the people who try to fill your shoes",
+      "start": 6907,
+      "end": 6944
+    },
+    {
+      "kind": "relation",
+      "fact": "Margot Hamilton is a pupil at the school and a former Latin pupil of Anne Bredon.",
+      "anchor": "looking forward to having you teaching us again, Miss",
+      "start": 13041,
+      "end": 13094
+    },
+    {
+      "kind": "relation",
+      "fact": "Jane Worth is the school's maths teacher and had refused to drive Phil into Wroxborough.",
+      "anchor": "Maths teacher, somewhat prickly, not very enthusiastic about teaching",
+      "start": 10546,
+      "end": 10615
+    },
+    {
+      "kind": "relation",
+      "fact": "Margot is an adolescent schoolgirl living under the Head's (Miss Jagerson's) authority.",
+      "anchor": "Miss Jagerson will have taken precautions.",
+      "start": 14127,
+      "end": 14169
+    },
+    {
+      "kind": "number",
+      "fact": "Anne Bredon is described as about ten years older than Phil and half a foot taller.",
+      "anchor": "looked about ten years older than Phil, and half a foot taller",
+      "start": 5909,
+      "end": 5971
+    },
+    {
+      "kind": "number",
+      "fact": "The night is in November; Anne sets the task at midnight, any midnight.",
+      "anchor": "Midnight would be good. Any midnight.",
+      "start": 14243,
+      "end": 14280
+    },
+    {
+      "kind": "number",
+      "fact": "Phil has walked twenty minutes and expects at least another half-hour to Wroxborough's outskirts.",
+      "anchor": "Phil had been walking for twenty minutes or so now",
+      "start": 4155,
+      "end": 4205
+    }
+  ]
+}

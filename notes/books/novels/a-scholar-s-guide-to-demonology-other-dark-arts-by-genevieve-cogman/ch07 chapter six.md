@@ -7,9 +7,9 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-**一句话概括**：菲丝给四、五年级的女生上拉丁文课，露西把卡图卢斯的献辞误译成「美味的麻雀」逗笑全班；教室后排的玛格特带头发难，要求改学「有意思的诗」，拿「布伦登小姐说过校长会让我们全部通过」当挡箭牌；菲丝拒绝让步，课后在饭厅从沃思太太和事务长霍斯福尔太太嘴里问出玛格特的来历——在原校因试图组建工会并罢工被开除，如今正打算「搞一场大对抗」。
+**一句话概括**：菲丝给四、五年级的女生上拉丁文课，露西把卡图卢斯那首咏麻雀的诗译成「美味的麻雀」逗笑全班；教室后排的玛格特带头发难，先搬出「布伦登小姐教我们有意思的东西」，再甩一句「老贾格斯会保证我们全部通过」；菲丝拒绝让步，课后在饭厅从科学老师沃恩太太和事务长霍斯福尔太太嘴里问出玛格特的来历——在原校因试图组建工会并罢工被开除，如今正打算「搞一场大对抗」。
 
-**情感弧线位置**：从「教学受挫」到「正面迎战」再到「摸到威胁的形状」——前半章是轻松的课堂闹剧，后半章的饭厅却一层层变冷：玛格特不是普通难管的学生，她有过对抗学校的前科，而且伯索尔形容她「正在为一场大对抗蓄力」。
+**情感弧线位置**：从「教学受挫」到「正面迎战」再到「摸到威胁的形状」——前半章是轻松的课堂闹剧，后半章的饭厅却一层层变冷：玛格特不是普通难管的学生，她有过对抗学校的前科，而且事务长形容她「正在为一场大对抗蓄力」。
 
 **Tropes 兑现/反转**：
 - 「难搞的转校生」troper 的**兑现并加码**：玛格特被写成新来的、带头的、有前科的角色，连她进校的渠道都被解释成「最后 resort 类型」——靠一位姑婆是旧生才勉强进来。
@@ -157,7 +157,7 @@ modified: "2026-10-31"
 
 > **原句 12:** "it was the usual sort of situation – got the boot from her previous place for a whole range of activities which basically boiled down to insubordination. Though I think the one that really rankled was when Margot tried to form a union and go on strike."
 
-**中文理解**：事情就是老样子那一套——因为一整套行径被原学校开除，归根结底是不服管教。不过据她说，真正让校方记恨的是玛格特那次试图组建工会并罢工。
+**中文理解**：事情就是老样子那一套——因为一整套行径被原学校开除，归根结底是不服管教。不过依她看，真正让校方记恨的是玛格特那次试图组建工会并罢工。
 
 **关键词**：got the boot / boiled down to insubordination / form a union and go on strike
 
@@ -169,7 +169,7 @@ modified: "2026-10-31"
 
 > **原句 13:** "‘Reckless? Dangerous? Homicidal?’ the Head suggested. Miss Jagerson had moved on to coffee, and was apparently now taking an interest in the conversation down-table. ‘My dear, you are confusing their determination and their judgement. The one without the other is extremely dangerous. Very few girls have good judgement when they’re younger; it’s something we grow into."
 
-**中文理解**：「鲁莽？危险？杀人狂？」校长提议道。贾杰森小姐已经喝上了咖啡，显然开始对邻桌的谈话产生兴趣。「亲爱的，你把她们的决心和她们的判断力混为一谈了。两者缺一都极其危险。年轻女孩很少有好的判断力，那是我们慢慢长出来的东西。」
+**中文理解**：「鲁莽？危险？杀人狂？」校长替她把话说完。这位贾杰森小姐已经喝上咖啡，这会儿显然对桌子那头的谈话起了兴趣。「亲爱的，你把她们的决心和她们的判断力混为一谈了。两者缺一都极其危险。年轻女孩很少有好的判断力，那是我们慢慢长出来的东西。」
 
 **关键词**：determination and their judgement / one without the other / we grow into
 

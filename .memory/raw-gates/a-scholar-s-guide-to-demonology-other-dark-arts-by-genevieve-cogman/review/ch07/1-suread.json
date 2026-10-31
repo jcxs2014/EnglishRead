@@ -1,0 +1,55 @@
+{
+  "book": "a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman",
+  "chapter": "ch07",
+  "text": "notes/books/novels/a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman/text/ch07_chapter_six.txt",
+  "facts": [
+    {
+      "fact": "拉丁语课上，Phil 点名让 Lucy 翻译卡图卢斯的诗，Lucy 照着课本念“Delicious sparrow”，随即被 Phil 纠正名词配属错误：Deliciae 应与 meae puellae 一致，而非 passer。",
+      "anchor": "Deliciae agrees with meae puellae, not passer",
+      "start": 608,
+      "end": 653
+    },
+    {
+      "fact": "Margot Hamilton 在课堂上要求改学她们自己想读的卡图卢斯诗篇，Phil 以“不是你们的指定课文”为由拒绝，并坚持仍要覆盖指定文本。",
+      "anchor": "not your set texts",
+      "start": 6240,
+      "end": 6258
+    },
+    {
+      "fact": "Margot 当众说没人关心考试，并称“老 Jaggers”会保证所有人通过；Phil 追问她这个说法从何而来，Margot 回答是 Miss Bredon 说的。",
+      "anchor": "Nobody gives a toss about the exams",
+      "start": 7724,
+      "end": 7759
+    },
+    {
+      "fact": "Phil 查阅过 Miss Bredon 给四年级、五年级写的教案，指出其中有两周时间用来观看整部《I, Claudius》。",
+      "anchor": "you spent two weeks watching the whole of I, Claudius",
+      "start": 8890,
+      "end": 8943
+    },
+    {
+      "fact": "Phil 带的中间组是四年级和五年级的女生，年龄在十四到十六岁之间，她们在第五学年结束时考 GCSE。",
+      "anchor": "aged between fourteen and sixteen",
+      "start": 2940,
+      "end": 2973
+    },
+    {
+      "fact": "Margot 是上学期中途才入学的新生，属于“最后选择”类学生：她的一位姑祖母是该校 Old Girl，她才得以被考虑录取，此前则因不服从（包括试图组织工会、发动罢课）被原学校开除。",
+      "anchor": "one of her great-aunts is an Old Girl",
+      "start": 18333,
+      "end": 18370
+    },
+    {
+      "fact": "同在教工餐桌上的 Jane Worth 自从那次在酒吧的夜晚之后就一直刻意不理睬 Phil。",
+      "anchor": "She had been pointedly ignoring Phil ever since the evening at the pub",
+      "start": 14189,
+      "end": 14259
+    },
+    {
+      "fact": "食堂里一名女生尖叫后，校长 Jagerson 按下电铃让全场安静，并吩咐把 Peggy Wills 送去 Matron 处缝针、打破伤风针，还要六年级的 Alice 多留意自己那一桌。",
+      "anchor": "Will someone please take Peggy Wills to Matron",
+      "start": 21469,
+      "end": 21515
+    }
+  ]
+}

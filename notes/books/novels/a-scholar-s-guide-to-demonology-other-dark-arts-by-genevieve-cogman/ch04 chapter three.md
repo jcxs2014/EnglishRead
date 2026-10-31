@@ -49,11 +49,11 @@ modified: "2026-10-31"
 
 > **原句 3:** "‘The laboratories are this way, though do check with Mrs Vaughan if you’re ever going in there. Sometimes experiments are left standing overnight and I’d hate for you to be caught in an accident which might raise our insurance rates any higher. … And the school library’s along that way, up the stairs. Some of the contents are under lock and key, but teachers can request access, of course.’"
 
-**中文理解**：实验室在这边，不过你要进去的话记得先跟沃思太太说一声。有时候实验会留过夜，我可不愿意你被卷进一场事故，把我们的保险费再抬上去。……学校的图书馆在那边上楼就是，里面有些东西上了锁，不过教师可以申请进入，当然。
+**中文理解**：实验室在这边，不过你要进去的话记得先跟沃恩太太说一声。有时候实验会留过夜，我可不愿意你被卷进一场事故，把我们的保险费再抬上去。……学校的图书馆在那边上楼就是，里面有些东西上了锁，不过教师可以申请进入，当然。
 
 **关键词**：check with Mrs Vaughan / experiments are left standing overnight / raise our insurance rates / under lock and key
 
-**为什么这样写**：这段一口气交代三处设施，同时塞进三种不同层级的信息：规矩（先找沃思太太）、借口（保险费）与事实（图书馆有上锁的部分）。校长的动机永远落在钱或风险管理上，连关心都写成保费计算——听起来像体贴，落点却是费率。被锁起来的东西属于图书馆，而访问权只给教师；芬明明是新来的，却已被称作教师，这句 teachers can request access 悄悄把她放进了有钥匙的那一侧。
+**为什么这样写**：这段一口气交代三处设施，同时塞进三种不同层级的信息：规矩（先找沃恩太太）、借口（保险费）与事实（图书馆有上锁的部分）。校长的动机永远落在钱或风险管理上，连关心都写成保费计算——听起来像体贴，落点却是费率。被锁起来的东西属于图书馆，而访问权只给教师；芬明明是新来的，却已被称作教师，这句 teachers can request access 悄悄把她放进了有钥匙的那一侧。
 
 **读者视角提示**：读者会注意到校长从没解释锁的是什么，只是反复强调「按题材不设限」。等她自己补上「珍本、历史文件」这个猜测、又顺口提到黑市时，那份从容才显出份量。
 

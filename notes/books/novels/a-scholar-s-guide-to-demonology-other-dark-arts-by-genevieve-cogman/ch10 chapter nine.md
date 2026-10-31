@@ -24,11 +24,11 @@ modified: "2026-10-31"
 
 > **原句 1:** "Mist was rolling in across the moors, thick and heavy; it was enough to make Phil think she was in an old black-and-white horror movie, with fog machines hidden behind the nearest clump of trees. Fortunately there was only the single road running towards civilization, so she didn’t need to worry about getting lost."
 
-**中文理解**：雾从荒野上滚滚压来，厚得让菲丝觉得自己像进了老式黑白恐怖片，最近的树丛后面藏着造雾机。幸好通往文明只有这一条路，她不用担心迷路。可惜又冷又潮，十一月的空气带刺，本该是二月才配得上的天气。
+**中文理解**：雾从荒野上滚滚压来，厚得让菲丝觉得自己像进了老式黑白恐怖片，最近的树丛后面藏着造雾机。幸好通往文明只有这一条路，她不用担心迷路。
 
 **关键词**：black-and-white horror movie / fog machines / single road
 
-**为什么这样写**：作者先用电影比喻给这段路定调：旧黑白片、藏在树丛后的道具、无人看见的角落，全部指向不真实，也指向被人摆布。接着用 Fortunately 和 Unfortunately 一对转折，把唯一一条路同时写成幸事与威胁——不会迷路，却也无处可去。
+**为什么这样写**：作者先用电影比喻给这段路定调：旧黑白片、藏在树丛后的道具、无人看见的角落，全部指向不真实，也指向被人摆布。接着用一个 Fortunately 把唯一一条路写成幸事：不会迷路——也正因为只有这一条路，她没有别处可去。
 
 **读者视角提示**：读者会先笑这段自嘲，紧接着意识到她是一个人走在荒郊夜路上，雾越来越浓；不安是从轻松里一点点渗出来的。
 
@@ -36,7 +36,7 @@ modified: "2026-10-31"
 
 > **原句 2:** "Phil shoved her hands into the pockets of her coat as she hurried along. Perhaps, if she reached town and Margot had already left on the train, she could stop for dinner at one of the local restaurants, and then she wouldn’t have to eat the school supper."
 
-**中文理解**：她把手插进大衣口袋赶路。也许等她走到镇上，玛格特已经坐火车走了，那她就能在镇上的餐馆吃顿晚饭，也就不用吃学校那顿晚餐了。两全其美！
+**中文理解**：她把手插进大衣口袋赶路。也许等她走到镇上，玛格特已经坐火车走了，那她就能在镇上的餐馆吃顿晚饭，也就不用吃学校那顿晚餐了。
 
 **关键词**：shoved her hands / stop for dinner / school supper
 
@@ -72,11 +72,11 @@ modified: "2026-10-31"
 
 > **原句 5:** "Panic waned as a much more reasonable explanation suggested itself. It was the girls trying to frighten her. This whole thing – Margot ‘running away’, Lucy tearfully bringing her the letter, all of it – had just been an excuse to decoy her out here, so they could terrify her into running back to school screaming her head off in panic."
 
-**中文理解**：恐慌渐渐退去，一个合理得多的解释自己浮了上来：是那些女生在吓她。这一整件事——玛格特「逃跑」、露西哭啼啼把信送来——不过是把她诱到这儿的借口，好吓她尖叫着跑回学校。管她们呢，她才不会被吓到。
+**中文理解**：恐慌渐渐退去，一个合理得多的解释自己浮了上来：是那些女生在吓她。这一整件事——玛格特「逃跑」、露西哭啼啼把信送来——不过是把她诱到这儿的借口，好吓她尖叫着跑回学校。
 
 **关键词**：Panic waned / reasonable explanation / decoy her out here
 
-**为什么这样写**：作者让恐惧被一个平淡的解释收编，语气从鬼故事降到女生的恶作剧；叙述者随即用一句狠话把虚惊消解成傲气。可是紧接着的路还长，读者会比她更早意识到：恶作剧不需要在雾里安排狮子和豹子。
+**为什么这样写**：作者让恐惧被一个平淡的解释收编，语气从鬼故事降到女生的恶作剧，叙述者的镇定也就这样回来了。可是路还长，读者会比她更早意识到：恶作剧不需要在雾里安排狮子和豹子。
 
 **读者视角提示**：读者会跟着她放松，然后被后面的动物声重新绷紧——她放松得太早了一点。
 
@@ -84,11 +84,11 @@ modified: "2026-10-31"
 
 > **原句 6:** "Ahead of her lay a crossroads. This road shouldn’t have any other roads crossing it at this point – well, unless she’d drastically mistaken her geography and got so lost that she might as well be in Lancashire – yet there was another road crossing it at right angles. A single street light stood in the far-right corner of the intersection, and the light which fell from it had a sultry yellow tinge."
 
-**中文理解**：她面前是一个十字路口。这条路在这个位置本不该有别的路横过——除非她把地理记错、迷路到像身在兰开夏那样；可确实有一条路以直角横过来。路口远角上立着一盏路灯，灯光落下来，带着一股暖昧的黄色调。
+**中文理解**：她面前是一个十字路口。这条路在这个位置本不该有别的路横过——除非她把地理记错、迷路到像身在兰开夏那样；可确实有一条路以直角横过来。路口远角上立着一盏路灯，灯光落下来，带着一股暧昧的黄色调。
 
 **关键词**：crossroads / shouldn’t have any other roads / sultry yellow tinge
 
-**为什么这样写**：作者先用「本不该」立起地理常识，再用一个直角路口把它推翻，最后补上暖昧的黄灯——这不是普通路灯，是布置好的舞台；地点第一次被写成有人刻意安排的场所。
+**为什么这样写**：作者先用「本不该」立起地理常识，再用一个直角路口把它推翻，最后补上暧昧的黄灯——这不是普通路灯，是布置好的舞台；地点第一次被写成有人刻意安排的场所。
 
 **读者视角提示**：读者会跟着她怀疑自己走错了路，也会隐约觉得哪里不对：雾里的十字路口，本来就是某种约定俗成的所在。
 
@@ -160,7 +160,7 @@ modified: "2026-10-31"
 
 **关键词**：wasn’t there any longer / Nor were the crossroads / serene and uncrossed
 
-**为什么这样写**：作者用三句排比，一句比一句短，把人、物、场地依次撤走，最后落在「安详」上——刚才那场交易像从未发生过。可读者刚见过那只白鼠，也听见她在耳边嘀咕，没法真的当成没发生。
+**为什么这样写**：作者用三句排比，一句比一句短，把人、物、场地依次撤走，最后落在「安详」上——刚才那场交易像从未发生过。可读者刚见过她发间那只老鼠，也听见布伦登那句「sister in the art」，没法真的当成没发生。
 
 **读者视角提示**：读者会比菲丝更相信刚才那一切是真的：她能走，多半也能让别人走。
 

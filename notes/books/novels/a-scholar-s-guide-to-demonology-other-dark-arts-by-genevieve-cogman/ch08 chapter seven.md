@@ -7,17 +7,17 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-**一句话概括**：菲丝在教工室批改作业时，从作业本里掉出一张只画着大黑圆的纸，英文老师 Dr Tregennis 认出那是学生发出的「黑斑」警告；课堂上 Anne Bredon 又放出一条珊瑚蛇吓她；两天后第一次夜间巡查，菲丝被引进塔楼锁在房里，靠校长那只名叫 Faust 的柯基犬转开门锁才脱身，章末她自己承认这一回合只是「有人相助才免于判罚」。
+**一句话概括**：菲丝在教工室批改作业时，从作业本里掉出一张只画着大黑圆的纸，英文老师 Dr Tregennis 认出那是学生发出的「黑斑」警告；课堂上学生安妮又放出一条珊瑚蛇吓她；两个晚上后的第一次夜间巡查，菲丝被那股雪茄味引上外墙的螺旋石梯，推进一间空房、反锁在里面，靠校长那只名叫 Faust 的柯基犬转开门锁才脱身，章末她自己承认这一回合只是「有人相助才免于判罚」。
 
 **情感弧线位置**：从日常的松弛到被警告的不安，再到独自被困的愤怒与侥幸，最后落回「还早着呢」的悬心——整章是一根被人一寸寸收紧的绳子，先松后紧，结尾却没有真正解开。
 
 **Tropes 兑现/反转**：
-- 「学生小动作整蛊老师」的 troper **兑现并升级**：从课堂上的蛇、办公室里的黑斑，到夜里被锁在塔楼，玩笑一路从烦人变成真正的威胁。
+- 「学生小动作整蛊老师」的 troper **兑现并升级**：从课堂上的蛇、教工室里的黑斑，到夜里被反锁在楼上的空房，玩笑一路从烦人变成真正的威胁。
 - 「老教师对职场新手提示规矩」的 troper **兑现**：Tregennis 给出的建议是别把背对着学生、别真以为她们会动手，因为校长会不高兴——他自己却想不出一句贴切的名言来收尾。
 - 「资深女教师冷嘲新人」的 troper **部分反转**：Jane Worth 一开口就劝菲丝辞职，菲丝当场拒绝；她那句「我们可警告过你了」随即兑现。
 - 「深夜巡查查学生」的 trope **反转成被查**：守夜不再是抓学生作祟，而是她自己被引进死路；救星不是人，而是一只不该会开锁的狗。
 
-**人物弧线**：菲丝——从批作业时的放松，到听见「黑斑」时的警觉、课堂上顶回蛇时的小胜，再到塔楼里独自发怒、最后承认逃脱多亏那条狗。她把「别把背对着学生」记在心里，却正是自己被锁在房里；她的强硬与她的粗心在同一章里互相拆台。
+**人物弧线**：菲丝——从批作业时的放松，到听见「黑斑」时的警觉、课堂上顶回蛇时的小胜，再到空房里独自发怒、最后承认逃脱多亏那条狗。她把「别把背对着学生」记在心里，却正是自己被锁在房里；她的强硬与她的粗心在同一章里互相拆台。
 
 **叙事手法**：第一人称限知＋多场景对照。前半章是教工室的三人对话，靠玩笑与打断推进；中间插入一段课堂蛇戏，把威胁从纸面挪到眼前；后半章转为夜间巡查的独角戏，靠气味、门轴声与手电光推进，读者和菲丝一起被关在黑屋子里。幽默与不安始终压在同一根线上。
 
@@ -25,7 +25,7 @@ modified: "2026-10-31"
 
 > **原句 1:** "The staff room window was open to allow a thin thread of fresh air inside, stirring the accumulated miasma of dust, over-stewed tea, coffee, ink, lavender and Hobnobs. … The only abstainers were Jane Worth, who apparently lived off dark chocolate and black coffee, and the Head, who preferred custard creams."
 
-**中文理解**：教工室的窗子开着，放进一线新鲜空气，把积攒的尘土、泡得过浓的茶、咖啡、墨水、薰衣草和燕麦饼的混合气味搅动起来。不吃这一套的只有两个人：Jane Worth 靠黑巧克力和黑咖啡过活，校长则偏爱蛋奶饼干。
+**中文理解**：教工室的窗子开着，放进一线新鲜空气，把积攒的尘土、泡得过浓的茶、咖啡、墨水、薰衣草和燕麦饼的混合气味搅动起来。唯独两个人不碰饼干：Jane Worth 靠黑巧克力和黑咖啡过活，校长则偏爱蛋奶饼干。
 
 **关键词**：thin thread of fresh air / accumulated miasma / the only abstainers
 
@@ -73,7 +73,7 @@ modified: "2026-10-31"
 
 > **原句 5:** "‘Yes, yes,’ Jane said. ‘Quite. We’re all a load of obsessive philistines who fail to appreciate anything outside our own subject. If you’ve quite finished having the pot call the kettle black, would you please explain to us what the full situation is? Some of us never watched the Muppets.’"
 
-**中文理解**：「好吧好吧，」Jane 说。「确实。我们都是一群执迷的庸人，除了自己这门课以外什么都欣赏不了。如果你说够了 pot call the kettle black 的那套，请给我们讲讲到底是怎么回事？我们有些人可没看过木偶戏。」
+**中文理解**：「好吧好吧，」Jane 说。「确实。我们都是一群执迷的庸人，除了自己这门课以外什么都欣赏不了。如果你说够了「锅嫌壶黑」的那套，请给我们讲讲到底是怎么回事？我们有些人可没看过木偶戏。」
 
 **关键词**：obsessive philistines / the pot call the kettle black / what the full situation is
 
@@ -224,8 +224,8 @@ modified: "2026-10-31"
 | door | 门 | No piles of books above the door. |
 | building | 建筑，楼房 | Midnight had been and gone, the chimes from various disagreeing clocks resounding through the building. |
 | agreement | 同意，应允 | It almost sounded like an agreement. |
-| assisted lack | 受人帮助才得以免除 | For she could hardly claim victory in this round, merely an assisted lack of penalties. |
+| an assisted lack of penalties | 有人相助才得以免于判罚 | For she could hardly claim victory in this round, merely an assisted lack of penalties. |
 
 ## 一句话总结
 
-一张画着大黑圆的作业纸把「黑斑」警告送进菲丝手里，课堂上的珊瑚蛇和夜里塔楼上那六支雪茄一步步兑现它，而把她放出来的偏偏是校长那只会自己转锁的柯基犬 Faust——这一回合她只是「有人相助才免于判罚」，接下来还有别的惊喜在等着她。
+一张画着大黑圆的作业纸把「黑斑」警告送进菲丝手里，课堂上的珊瑚蛇和夜里楼上那六支雪茄一步步兑现它，而把她放出来的偏偏是校长那只会自己转锁的柯基犬 Faust——这一回合她只是「有人相助才免于判罚」，接下来还有别的惊喜在等着她。
