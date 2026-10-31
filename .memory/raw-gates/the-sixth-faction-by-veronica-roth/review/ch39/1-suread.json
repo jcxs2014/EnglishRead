@@ -1,0 +1,81 @@
+{
+  "chapter": "ch39",
+  "pov": "第一人称（Tris 视角）+ 一般现在时",
+  "facts": [
+    {
+      "event": "Tris 赤脚登上那趟回 Museum 的火车，宣称再也不穿 Erudite 的鞋。",
+      "who": "I (Tris)",
+      "receivers": "the train",
+      "start": 40,
+      "end": 157,
+      "text": "When I board the train that will take me back to the Museum, I do it barefoot. I’m never wearing Erudite shoes again."
+    },
+    {
+      "event": "车厢里不止她一人：车头那盏本该提示已有 Dauntless 乘客的灯是暗的，她胃里一沉，断定这些黑影是 factionless。",
+      "who": "I (Tris)",
+      "receivers": "the dark shapes (factionless)",
+      "start": 161,
+      "end": 380,
+      "text": "I’m not alone in the car. My stomach lurches when I see the dark shapes—the light on the front of the train car, which is supposed to alert me to any existing Dauntless passengers, was dark. So they must be factionless."
+    },
+    {
+      "event": "眼睛适应黑暗后她认出他们：Sly 抱着膝盖蜷坐在一只大木箱上，旁边是 Gretchen 和一个她不认识的 Fox。",
+      "who": "I (Tris)",
+      "receivers": "Sly / Gretchen / one of the Foxes",
+      "start": 385,
+      "end": 559,
+      "text": "When my eyes adjust to the dark, I realize I know them. Sitting on top of a big crate, hunched over her knees, is Sly. With her is Gretchen and one of the Foxes I don’t know."
+    },
+    {
+      "event": "Makers Guild 从 Museum 运作，造的东西从床架、椅子这类简单家具，到水过滤系统、太阳能板这类复杂机械。",
+      "who": "The Makers Guild",
+      "receivers": "things / the Museum",
+      "start": 1273,
+      "end": 1456,
+      "text": "The Makers Guild builds things—from simple furniture, like bed frames and chairs, to complex machinery, like water filtration systems and solar panels. They operate out of the Museum."
+    },
+    {
+      "event": "Sly 说 Christina（Eye Patch）「非常准时」，整整一小时都待在某个庭院花园里，没人跟她说话。",
+      "who": "Sly",
+      "receivers": "Christina",
+      "start": 1668,
+      "end": 1812,
+      "text": "“Oh, yeah, she was very prompt,” Sly says. “Apparently she spent her entire hour in some kind of courtyard garden and no one even spoke to her.”"
+    },
+    {
+      "event": "Sly 倒数，几个人一起抬起箱子；箱子虽重，真正麻烦的是穿过车厢与站台之间的缝隙、再抬下楼梯时它太笨重。",
+      "who": "we (Tris, Sly, Gretchen, the Fox)",
+      "receivers": "the crate",
+      "start": 2565,
+      "end": 2767,
+      "text": "Sly counts down, and then we all lift. It’s heavy, but the real problem is how cumbersome the crate is as we navigate the gap between the train and the platform and then try to carry it down the stairs."
+    },
+    {
+      "event": "Sly 接着讲了个「唤醒此地鬼魂」的笑话，众人只顾笑，没人注意到一件小而亮的东西从箱子里掉出来；Tris 看着它弹落到地上，滚向铁轨边的草丛。",
+      "who": "Sly / something small and shiny",
+      "receivers": "the crate / the weeds at the edge of the tracks",
+      "start": 3579,
+      "end": 3842,
+      "text": "Then she makes a joke about waking up the ghosts that haunt this place, and the others are too busy chuckling at it to notice as something small and shiny falls out of the crate. I watch it bounce on the ground and roll toward the weeds at the edge of the tracks."
+    },
+    {
+      "event": "Tris 没去厨房，而是独自回到铁轨边那件发光小物滚落的地方，把它捡起来举到月光下。",
+      "who": "I (Tris)",
+      "receivers": "the shiny object",
+      "start": 4141,
+      "end": 4258,
+      "text": "Instead I go back out to the tracks, where I saw the shiny object roll. I pick it up and hold it up to the moonlight."
+    }
+  ],
+  "relations": [
+    "Sly、Gretchen 与一名 Fox 是 factionless，正把一只大木箱运往 Museum，交给 Makers Guild。",
+    "Christina（绰号 Eye Patch）已安全返回；Tris 曾教她去 Robert 生前打理的庭院花园，好不引人注意地耗掉那一小时。",
+    "Tris 捡起的那件发光小物是一颗子弹（原文：“but I think it’s a bullet.”）——这让它在见到 Eric 持枪后膨胀起来的希望瘪了下去。",
+    "Tris 与 Christina 互相交换了「如何在本派出身地不引人注意地耗时间」的建议。"
+  ],
+  "numbers": [
+    "an entire hour（Christina 在庭院花园待满整整一小时，无人搭话）",
+    "one of the Foxes（车上第三个 factionless 是 Tris 不认识的 Fox）",
+    "a big crate（Sly 蜷腿坐在一只大木箱上）"
+  ]
+}
