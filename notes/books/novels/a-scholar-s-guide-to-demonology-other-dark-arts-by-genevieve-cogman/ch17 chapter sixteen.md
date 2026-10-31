@@ -146,7 +146,7 @@ modified: "2026-10-31"
 
 **中文理解**：「一个随和的主人或女主人会让我的日子好过些，」Alastor 建议道。「我们可以都过得非常舒服。你可以把时间用来学拉丁语、拿教师资格证，如果你愿意。我不会要求你非去研究恶魔学不可。」
 
-**关键词**：A complaisant master or mistress makes my life more pleasant / both be extremely comfortable / gaining your qualifications as a teacher / will not require you to pursue demonology
+**关键词**：A complaisant master or mistress makes my life more pleasant / both be extremely comfortable / gaining your qualifications as a teacher
 
 **为什么这样写**：作者让恶魔以体贴的姿态谈交易，条件只有一个：别管我做什么。把自主权当作让步来给，读来是体贴，细想却是彻底的放手。
 
@@ -158,7 +158,7 @@ modified: "2026-10-31"
 
 **中文理解**：「在两天前有人试图杀你的时候？在针对你学校的阴谋不断被策划的时候？在被一群女学生围着的时候？才不。我向你保证我会小心又隐蔽。我会成为隐形的灵魂。」
 
-**关键词**：an attempt to murder you less than two days ago / plots against your school being constantly devised / I shall be careful and discreet / the soul of invisibility
+**关键词**：plots against your school being constantly devised / I shall be careful and discreet / the soul of invisibility
 
 **为什么这样写**：作者用三个反问排比把「留在房间」的劝告顶了回去，句子越短越像质问；最后那句自我标榜的俏皮话，把一场即将到来的危机一笔带过。
 

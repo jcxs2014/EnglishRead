@@ -27,7 +27,7 @@ modified: "2026-10-31"
 
 **中文理解**：菲丝小时候的幻想：她曾幻想过被宠物、填充玩偶和精怪搭话，常常是被召唤去拯救仙境、纳尼亚或全世界，最后要么加冕为王，要么英勇赴死、众人事后才说没好好感激她，有时两样都有。
 
-**关键词**：daydreamed about being talked to / stuffed animals, fairies / being summoned to save Fairyland / dying tragically saving everyone’s lives
+**关键词**：daydreamed about being talked to / stuffed animals, fairies / being summoned to save Fairyland
 
 **为什么这样写**：作者先用一串「童年幻想」清单把这份愿望摊开：搭话者不是人，任务不是学业而是拯救仙境，结局还允许同时成立。她把这份愿望写成可回放、可修改的东西——白日梦的好处是可以退回去重演自己的英雄行为和临终演说。这份清单正好是她后来愿意相信一只猫开口的前提：她早在很久以前就替这只猫准备好了台词。
 

@@ -26,7 +26,7 @@ modified: "2026-10-31"
 
 **中文理解**：能收到一封正式的书信，而不是一封电子邮件，来应聘本校的拉丁文教师位置，对我而言实在是一桩乐事。我本以为现代世界早已忘了怎样把笔落在纸上；很高兴知道仍有人记得该怎么写。格雷恩一向极重传统。
 
-**关键词**：formal letter / forgotten how to apply pen to paper / respect for tradition
+**关键词**：formal letter / forgotten how to apply pen to paper
 
 **为什么这样写**：全章第一句先夸「写信而不是发邮件」这件在今天毫无实用价值的小事，把校长的价值标准立在一九〇〇年代之前；而「modern world has forgotten how to apply pen to paper」这层判断同时给全书定下了一个反现代的底色，后面每出现一次现代事物（维基百科、电邮、外卖），都会与这句形成对照。
 

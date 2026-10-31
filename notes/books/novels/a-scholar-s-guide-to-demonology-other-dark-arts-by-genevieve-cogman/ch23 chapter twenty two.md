@@ -64,7 +64,7 @@ modified: "2026-10-31"
 
 **中文理解**：“不。”Phil 说，用她能挤出来的全部决断力。接着她想起自己读过的军事史：正面冲锋要留到对方已经被削弱、人数被超过、正准备逃窜的时候；最要紧的是，绝不能在对方有导弹类武器时这么干——在这里就是毒气弹和电击枪。正确做法是把敌人诱到一个拉长队形的位置，再从侧翼打击。所以她需要的是一个诱饵。
 
-**关键词**：decisive authority / military history / gas bombs and tasers / lure the enemy
+**关键词**：decisive authority / lure the enemy
 
 **为什么这样写**：否决只有一个词，随后却跟着一整段军事推理，作者用长度落差制造分量：那个“No”只有一个词，后面却跟着一整段推演，读者就知道这不是情绪而是想清楚了。最后落到一个具体的词——诱饵，把抽象的谨慎变成下一步动作。
 
@@ -112,7 +112,7 @@ modified: "2026-10-31"
 
 **中文理解**：既然不在意留下痕迹，砸开那把锁就简单得多：抄起走廊里有人留下没收走的沉重橡木实验凳，照着锁砸下去。
 
-**关键词**：locked door / leaving evidence / heavy oak lab stool / hammer the lock
+**关键词**：hammer the lock / leaving evidence / heavy oak lab stool / hammer the lock
 
 **为什么这样写**：作者把破门写成一件家务活，顺手夹进一句括号里的“回头跟 Mrs Vaughan 谈谈走廊别乱放东西”，让一件生死攸关的事被日常琐事挤了一下脚；这种冷静的琐碎反而显得她慌到只能想小事。
 

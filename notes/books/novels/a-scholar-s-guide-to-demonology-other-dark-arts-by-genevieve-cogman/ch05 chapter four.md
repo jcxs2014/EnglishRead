@@ -37,7 +37,7 @@ modified: "2026-10-31"
 
 **中文理解**：「不过叫我 Phil 就好，」芬赶紧打圆场地补了一句。她还没摸清这栋楼的地理布局，却特意记住了这间屋子的位置——教工室，她将在那里吸收同事们的智慧与建议，活像一盆放在浴室里的盆栽，接着所有人身上滴下来的水珠。「大家下午好。我希望自己能做一个有用而多产的同事。」
 
-**关键词**：do call me Phil / hasty appeasement / the geography of the building / a useful and productive colleague
+**关键词**：do call me Phil / hasty appeasement / the geography of the building
 
 **为什么这样写**：校长那句介绍刚把芬摆上展台，芬的反应是抢着加一句「叫我 Phil」，那个 in hasty appeasement（匆忙地求和）暴露了她真正的处境：她在赔小心。作者随即把她安置进一个可笑的比喻里——教工室是一间浴室盆栽的容器，接的是所有同事身上滴下来的水珠。这句比喻把「向同事学习」的谦辞翻成了「被人俯视、被动淋到」：在这个位置上，芬唯一的自主动作就是赶紧改小自己的名字。
 

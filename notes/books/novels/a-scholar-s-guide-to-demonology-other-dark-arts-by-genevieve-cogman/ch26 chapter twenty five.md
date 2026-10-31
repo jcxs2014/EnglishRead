@@ -53,7 +53,7 @@ modified: "2026-10-31"
 
 **中文理解**：Anne 嗤笑一声，一只手又伸进大衣里。「召唤恶魔的诀窍——这是你永远没机会学到的东西——就是提前布置好一切：一枚从 Gaap 那里求来的保命护符，一句 Andrealphus 在紧急时刻的承诺，再加上一桩与 Andras 的交易，请它帮忙杀掉自己的敌人。」
 
-**关键词**：to do it well in advance / A talisman from Gaap for safe escape / A promise from Andrealphus for emergencies / a bargain with Andras
+**关键词**：to do it well in advance / A talisman from Gaap for safe escape / a bargain with Andras
 
 **为什么这样写**：作者让对手把规则讲出来，而讲解本身就是一份威胁清单：三样东西分别对应逃、救、杀，全部提前备好。这也让 Phil 刚才那句「你的恶魔不在这里」被反将一军——Anne 从一开始就没打算临场发挥。
 
@@ -89,7 +89,7 @@ modified: "2026-10-31"
 
 **中文理解**：「用剑对剑跟 Anne 打几乎没有意义，因为她那柄刀只要 Phil 第一次招架就会把曲棍球棍削成两截。她又退了一步，一边往后退一边回忆身后那间屋子里有什么。大木箱、运动器材……」
 
-**关键词**：very little point trying to fight / slice Phil’s hockey stick in half / remember what had been in the room / Trunks, sports equipment
+**关键词**：very little point trying to fight / slice Phil’s hockey stick in half / remember what had been in the room
 
 **为什么这样写**：作者让 Phil 自己算战力差距，而且算得毫不含糊：她的武器在对方面前会被一刀两断。承认打不过之后，她的注意力转回环境——「大木箱、运动器材……」这个省略号是思路正在扫描房间的声音，也是这一战里唯一像样的战术。
 
@@ -125,7 +125,7 @@ modified: "2026-10-31"
 
 **中文理解**：「我只是想告诉你，你那些名字名下的银行账户全被清空了。」Jane 笑起来，那笑容看着可怕。「另外还报了给税务局和各家警察部门，还有别的机构，你不会想知道是哪些。我讲究一网打尽，女士，而你挡了我的路。」
 
-**关键词**：bank accounts drained / reported to the Inland Revenue / I believe in overkill / you have got in my way
+**关键词**：bank accounts drained / reported to the Inland Revenue
 
 **为什么这样写**：反击的方式不是动手，而是行政手段：清空账户、举报税务与警方。作者让一个平时冷静的人露出可怕的笑，又添上「我讲究一网打尽」这句自夸，于是威胁既具体又带刺，还带着一丝愉快。
 
@@ -137,7 +137,7 @@ modified: "2026-10-31"
 
 **中文理解**：Phil 从地上站起来，像有个地下的神明把手托在她身下，往上往前推。她那只沾血的左手握住剑柄，正好压在 Anne 的手之上；右拳收拢，正正捶在对方腹部，用的力气超过她以为自己拥有的。她脚边的影子翻涌沸腾，不像人的形状，她决定不去看它。
 
-**关键词**：some chthonic deity had his hand beneath her / closed around the hilt of the sword / more strength than Phil had ever thought / The shadow around her feet rippled and boiled / decided not to look at it
+**关键词**：some chthonic deity had his hand beneath her / closed around the hilt of the sword / more strength than Phil had ever thought
 
 **为什么这样写**：这一拳的力量来源被作者含糊处理：地下神明、共同账户，究竟是什么没有说明，反而更吓人。Phil 拒绝去看自己的影子是这一段最冷静的一笔——她清楚自己此刻不像人，于是选择不去确认。
 

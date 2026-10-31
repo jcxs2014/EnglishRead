@@ -183,7 +183,7 @@ modified: "2026-10-31"
 
 **中文理解**：「当然，费用都已经付清了。有代金券，分批的女孩子可以去伦敦的环球剧院、伦敦动物园、大英博物馆、布赖顿的皇家穹顶宫、索尔兹伯里大教堂，还有——我确实是这么想的——爱丁堡城堡。当然是分开成批，我们不可能把所有人都送到所有地方去。」
 
-**关键词**：All paid for already / vouchers for groups of girls / the Globe Theatre in London / Edinburgh Castle / In separate groups, of course
+**关键词**：All paid for already / vouchers for groups of girls / the Globe Theatre in London / Edinburgh Castle
 
 **为什么这样写**：作者让一位检查者用一串官方辞令宣布一件明显是放风的安排：六个目的地全是这群女孩可能顺手牵走东西的场所——剧院、动物园、博物馆、王宫、教堂、城堡。而分开成批更狠，人少的批次既更好看管，也更好出事。
 

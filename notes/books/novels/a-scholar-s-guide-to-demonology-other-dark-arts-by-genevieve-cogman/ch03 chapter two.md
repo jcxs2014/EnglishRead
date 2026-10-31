@@ -110,7 +110,7 @@ modified: "2026-10-31"
 
 **中文理解**：「现在账目是 Mamma 在管，她告诉我，家里已经供不起我继续做独立学者了。」……「Cressida 的学费当然得付——她还没满十八岁——可给我继续做学术研究的经费？没有了。」
 
-**关键词**：Mamma’s in charge of the accounts / independent scholar / Cressida’s school fees must be paid / not eighteen yet / continuing academic research
+**关键词**：Mamma’s in charge of the accounts / independent scholar / Cressida’s school fees must be paid / wasn’t eighteen yet / continuing academic research
 
 **为什么这样写**：母亲的算盘写得毫不含糊：妹妹的学费是义务，姐姐的研究是奢侈品。作者用一句问话加一个断句的否定把取舍钉死，读者和 Phil 同时被这个算式说服——她不是不想做学问，是没有人替她付钱。
 
