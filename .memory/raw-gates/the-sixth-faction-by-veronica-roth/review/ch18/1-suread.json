@@ -1,0 +1,102 @@
+{
+  "chapter": 18,
+  "pov": "Four（Tobias）第一人称",
+  "facts": [
+    {
+      "event": "Visiting Day：Four 说 Pit 里尽是父女相拥、母子相抱、祖孙爬坡，一句“换句话说：是场噩梦”，随即在日出后出门跑步、搭上西行的列车。",
+      "who": "Four",
+      "receivers": [],
+      "start": 40,
+      "end": 359,
+      "text": "Today is Visiting Day.\n\n\n\nOn Visiting Day, families—even families of different factions—can reunite and spend time together. The Pit is full of fathers hugging their daughters, and mothers embracing their sons, and siblings joking around with each other, and grandparents hiking up the steep path to the building above."
+    },
+    {
+      "event": "Four 在 Amity 前一站的破街上见到 Evelyn，开门见山叫她别再派手下来劝他叛派；Evelyn 辩称那姑娘不是“lackey”，他顶回去“你是觉得她当工具好使”。",
+      "who": "Four / Evelyn",
+      "receivers": [
+        "彼此"
+      ],
+      "start": 2065,
+      "end": 2232,
+      "text": "That’s what I wanted to talk to you about. I made my feelings about becoming factionless pretty clear, so you can stop sending your lackeys to talk me into defecting.”"
+    },
+    {
+      "event": "Evelyn 抛出“一个大变化就要来了”，劝他别站错边；Four 反问她说的就是 Choosing Ceremony 上喊“Death to factions”的那帮人。",
+      "who": "Evelyn",
+      "receivers": [
+        "Four"
+      ],
+      "start": 3339,
+      "end": 3467,
+      "text": "“A big change is coming, and when it does, you don’t want to find yourself on the wrong side, with the wrong people around you.”"
+    },
+    {
+      "event": "Evelyn 一掌拍在栏杆上转身，说“我要杀了他，而这只是个开始”，Four 不问也知道“他”是谁，只把表情和身体都绷住。",
+      "who": "Evelyn",
+      "receivers": [
+        "Four"
+      ],
+      "start": 4582,
+      "end": 4718,
+      "text": "“I’m going to kill him, and that’s just the start,” she says. “Is that specific enough for you?”\n\n\n\nI don’t need her to say who “he” is."
+    },
+    {
+      "event": "Four 丢下一句“再见，Evelyn”就走；她在背后喊，说事后需要他帮忙，改了主意就到 Rookery 找她。",
+      "who": "Four / Evelyn",
+      "receivers": [
+        "彼此"
+      ],
+      "start": 5346,
+      "end": 5462,
+      "text": "“Goodbye, Evelyn,” I say.\n\n\n\nI’m walking away when she calls after me: “I could use your help with what comes after."
+    },
+    {
+      "event": "回到 Dauntless，Four 撞见 Zeke 与 Uriah 的母亲 Hana：个子小、比多数 Dauntless 端整，黑衣裁得体、衣领熨平、头发齐下颌。",
+      "who": "Four / Hana",
+      "receivers": [
+        "Hana"
+      ],
+      "start": 6221,
+      "end": 6387,
+      "text": "And then I run into Zeke and Uriah’s mother.\n\n\n\nHana is her name. She’s small—both short and narrow—and more demure than most of the Dauntless I see on a daily basis."
+    },
+    {
+      "event": "厨房里 Zeke 把洋葱立起来举刀要切，Four 一句“把刀给我”接过刀，替他切洋葱。",
+      "who": "Four / Zeke",
+      "receivers": [
+        "Zeke",
+        "Hana",
+        "Uriah"
+      ],
+      "start": 9351,
+      "end": 9477,
+      "text": "“Hand over the knife.”\n\n\n\nZeke sets down the knife and backs away from the counter, his hands up like I’m about to arrest him."
+    },
+    {
+      "event": "Hana 一边切肉一边说，他“很自律不是坏事”，但要小心别拿自律来惩罚自己；Four 随即想起 Tris 说过的“你到哪里都不合适”，承认她也在说他。",
+      "who": "Hana",
+      "receivers": [
+        "Four"
+      ],
+      "start": 12021,
+      "end": 12146,
+      "text": "You’re very disciplined,” she says. “That’s not a bad thing. But be careful that you don’t use discipline to punish yourself."
+    }
+  ],
+  "relations": [
+    "Evelyn↔Four：招募者与被招募者；他当面叫她 liar，她回“我从未给过你理由把我看成操纵一切的幕后主使”，随后仍抛出“我要杀他”并留 Rookery 这条后路。",
+    "Evelyn↔Tris（提及）：Evelyn 说 Tris“wasn’t a ‘lackey’”，Four 反讥“you thought she’d make a good tool”。",
+    "Four↔Hana（Zeke、Uriah 之母）：长辈式照看，识破他的托辞仍留他吃饭，并点破他总泡在恐惧模拟里、没人可担心他。",
+    "Four↔Zeke / Uriah：朋友兼教官；Uriah 嘴角因昨天与 Dauntless-born（Brett / Brody，他记不清）打架而裂开。",
+    "Four↔Beatrice（心中）：反复想起她的话“You don’t quite fit no matter where you are”，并承认“she was talking about me, too”。",
+    "Zeke↔猫 Trouble：新养的灰猫，据 Zeke 说“He’s earned it”。"
+  ],
+  "numbers": [
+    "“Visiting Day”（一年一度的探亲日）",
+    "“every quarter”（他每季度去城墙检查 signal repeaters）",
+    "“an hour or so”（他离场的时间）",
+    "“see you at six, then”（Hana 定的晚饭时间；六小时后他带着面包上门）",
+    "“six hours later”（他带面包上门的时点）",
+    "“a few months”（他几个月没这样切过洋葱）"
+  ]
+}

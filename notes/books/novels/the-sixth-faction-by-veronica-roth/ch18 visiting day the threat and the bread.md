@@ -18,7 +18,7 @@ modified: "2026-10-31"
 > **原句 1:** "On Visiting Day, families—even families of different factions—can reunite and spend time together. The Pit is full of fathers hugging their daughters, and mothers embracing their sons, and siblings joking around with each other, and grandparents hiking up the steep path to the building above."
 
 **中文理解**：探视日这天，不同派系的家庭也能团聚、待在一起。The Pit 里到处是抱女儿的父亲、搂儿子的母亲、互相打趣的兄弟姐妹，还有拄着腿往坡上那栋楼爬的祖父母。
-**关键词**：In other words: It’s a nightmare / families of different factions / grandparents hiking up the steep path
+**关键词**：families of different factions / The Pit is full of fathers / siblings joking around / grandparents hiking up the steep path
 **为什么这样写**：前两句用同一套句法连缀四组人——父亲抱女儿、母亲搂儿子、兄妹打趣、祖父母爬坡，排比先把场面写到无可指摘；翻面留给紧接的下一段，只用六个词：In other words: It’s a nightmare。转折不靠形容词，靠一次「翻译」：把全城的喜事译成他一个人的处境。特意点出 different factions，说明这场景跨过了派系边界——而跨边界恰恰是他做不到的事。读者先被塞了一嘴温情，再被这六个词呛住。
 **读者视角提示**：他没说「我不喜欢」，他说的是「这是噩梦」——把外部世界直接写成自己的症状，这是 Four 一贯的说话方式。
 
