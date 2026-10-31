@@ -1,0 +1,43 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch11",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch11_eleven.txt",
+ "facts": [
+  {
+   "fact": "Sebastian 派珠宝匠 Anil Lal 上门量指、镶黑蛋白石戒指；Judith 端详后婉拒——按礼数他只该送花或糖果，连 Mrs. Howard 也卧床无法替她守规矩。",
+   "anchor": "“Black opal,” Mr. Lal said with satisfaction.",
+   "start": 1255,
+   "end": 1300
+  },
+  {
+   "fact": "礼物攻势每日不断：会用人舌唱歌的机械鸟、会眨眼的珐琅眼睛胸针、想缠上手臂的珠宝蛇，最后是装“记忆”的篮子——指尖一探便是意大利马戏团在飞奔马背间腾跃的一生；她婉拒，此后礼物绝迹，她自称松了口气。",
+   "anchor": "the memories of an Italian adventuress",
+   "start": 3982,
+   "end": 4020
+  },
+  {
+   "fact": "病榻问对：夫人亮出祖传“好经”（grimoire，de Lange 讥称 studbook）——历代记下每个领主的名目底细以救女儿，但手边几本书里都找不到类似 Sebastian 的记载；「我们在未知水域」。",
+   "anchor": "can I find a mention of anything like Sebastian Rowe",
+   "start": 6149,
+   "end": 6201
+  },
+  {
+   "fact": "仪式科普：White Ball 是以血把领主召来如驱野狼出林——祖先驯狼为犬的第一步；Rose Ball 是表明心意，必须“完整地、毫不犹豫地”让自己被选中；未被选中者能走就瘸着回家、舔伤、另配婚事或彻底退场——钱和房子照付。",
+   "anchor": "The White Ball was the summoning.",
+   "start": 7186,
+   "end": 7219
+  },
+  {
+   "fact": "「妓女不放账；放账的是其他所有人」——有时被骗、被毁，有时嫁领主、成为女王并统治；领主白球后离此界最近，无女之家以血与名结盟、献出“最好的”儿子。",
+   "anchor": "Sometimes they become queens, and they rule.",
+   "start": 9156,
+   "end": 9200
+  },
+  {
+   "fact": "收尾：夫人首次叫出她的名字 Judith——真正的 Sebastian 是把她从雪晶节带回来、用她一直拒收的珍宝砸门的那个；他本该是安全的（“不，没有安全这回事”／“对我们有”）；「我不认为你会走。我认为你会留下、会站出去、会被选中。」",
+   "anchor": "I do not think you will leave.",
+   "start": 12026,
+   "end": 12056
+  }
+ ]
+}
