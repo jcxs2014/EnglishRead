@@ -1,0 +1,95 @@
+{
+ "chapter": 47,
+ "text": "text/ch47_chapter_forty_seven_elise.txt",
+ "chars": 5908,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Elise 一夜未眠，在麻木与暴怒间反复，用拳头砸门，但 Tilde 的守卫始终不为所动；她为 Hein 和 Tilde 担惊。",
+   "relation": "Elise 与 Tilde 的守卫对立；她牵挂在押的 Hein 与 Tilde",
+   "numbers": "no numbers/dates",
+   "interval": [
+    30,
+    92
+   ],
+   "anchor": "Elise had not slept. She had veered between numbness and rage."
+  },
+  {
+   "id": 2,
+   "event": "Elise 认定弟弟 Conrin 背叛父亲、密谋夺权，并意识到真正被蒙蔽、被自己的痛苦弄瞎的是她自己。",
+   "relation": "姐弟：Elise 看穿 Conrin 的谋反",
+   "numbers": "‘a sin of the mind, of the tongue, of the body’",
+   "interval": [
+    597,
+    668
+   ],
+   "anchor": "He had turned on their father, conspired against him, a sin of the mind"
+  },
+  {
+   "id": 3,
+   "event": "Elise 握着天鹅梭子来回踱步，骂 Tilde 是‘愚蠢、愚蠢的姑娘’，她腹痛、手在流血、心已碎。",
+   "relation": "Elise 与 Tilde：女王/敌人/情人/朋友四重关系",
+   "numbers": "‘You stupid, stupid girl’",
+   "interval": [
+    1271,
+    1370
+   ],
+   "anchor": "‘You stupid, stupid girl,’ Elise hissed, pacing with her swan shuttle clutched between her fingers."
+  },
+  {
+   "id": 4,
+   "event": "Elise 看见低矮宫墙上竖起一面灰旗，主街上一小队披 Galen 甲、着灰罩袍的骑士在父亲的胜利雕像下集结。",
+   "relation": "Galen 骑士团 / 灰旗与父亲雕像",
+   "numbers": "‘a small band of gleaming knights’",
+   "interval": [
+    2294,
+    2345
+   ],
+   "anchor": "a grey flag had been raised on the low palace walls"
+  },
+  {
+   "id": 5,
+   "event": "祭司 Dagobert 骑着过大的白马、举着折翼天鹅旗，罩袍外披锁甲，指挥众人收集木柴准备点信号火。",
+   "relation": "Dagobert 祭司：曾斥责 Elise、向 Conrin 进谗言",
+   "numbers": "‘a shining white stallion of ridiculous size’",
+   "interval": [
+    2554,
+    2673
+   ],
+   "anchor": "riding a shining white stallion of ridiculous size, carrying the banner of the swan with the folded wings, was Dagobert"
+  },
+  {
+   "id": 6,
+   "event": "Elise 在狂怒中用梭子划过挂毯，割断蓝白丝线与天鹅的喙和羽翼，多年忍辱与期盼尽毁。",
+   "relation": "挂毯＝家族（母亲/兄弟/父亲）的象征，被 Elise 亲手毁掉",
+   "numbers": "Years; ‘a dead mother, a murdered brother and a broken heart’",
+   "interval": [
+    3097,
+    3170
+   ],
+   "anchor": "In a flash of agonised fury, Elise swiped the shuttle across the threads."
+  },
+  {
+   "id": 7,
+   "event": "Elise 听见喊声跑到窗边：东门蓝衣卫兵正与人争执，一名年轻侍从指着灰旗高喊，随即被城门上射下的一箭射倒。",
+   "relation": "国王的蓝衣卫 vs 城墙上灰衣守卫；侍从示警被杀",
+   "numbers": "‘One young squire’; ‘Another.’",
+   "interval": [
+    4896,
+    4973
+   ],
+   "anchor": "An arrow felled him from the top of the gates, and his warning was cut short."
+  },
+  {
+   "id": 8,
+   "event": "Elise 推断 Conrin 会把黑卫队等对手关进营房，于是不再躲藏，抄起织毯凳砸碎自己卧室的窗玻璃。",
+   "relation": "Elise 由旁观者转为行动者；Conrin 关押竞争者",
+   "numbers": "‘The barracks.’",
+   "interval": [
+    5774,
+    5850
+   ],
+   "anchor": "She picked up her carding stool, littered with pieces of the broken tapestry"
+  }
+ ]
+}

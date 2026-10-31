@@ -1,0 +1,95 @@
+{
+ "chapter": 48,
+ "text": "text/ch48_chapter_forty_eight_tilde.txt",
+ "chars": 7505,
+ "facts": [
+  {
+   "id": 1,
+   "event": "佩林派出的斥候报告蓝厅门口只有两名卫兵（一个戴灰围巾、一个腕上系红丝带），蒂尔德据此断定会议守备异常单薄。",
+   "relation": "蒂尔德—佩林（女王与其斥候/护卫）",
+   "numbers": "only two men",
+   "interval": [
+    77,
+    159
+   ],
+   "anchor": "only two men as the nobles came to their conference. Perin’s scout had told us so."
+  },
+  {
+   "id": 2,
+   "event": "佩林说黑卫只剩最后一批、蓝卫大多不在营房，推测有人故意调开兵力以隐藏真实人数；蒂尔德由此怀疑主军布置里有内应。",
+   "relation": "蒂尔德—佩林—马洛琳（三人核心圈）",
+   "numbers": "the last of the black guard",
+   "interval": [
+    585,
+    672
+   ],
+   "anchor": "The only ones remaining are the last of the black guard. The blue are mostly elsewhere."
+  },
+  {
+   "id": 3,
+   "event": "蒂尔德不顾佩林与马洛琳劝阻，决定亲自走进议事厅，扬言要看康林亲王见到她时的脸色。",
+   "relation": "蒂尔德—佩林/马洛琳（建言与决断）",
+   "numbers": "无明确数字",
+   "interval": [
+    1215,
+    1296
+   ],
+   "anchor": "I will go join the council,’ I smiled. ‘And see the look on Prince Conrin’s face."
+  },
+  {
+   "id": 4,
+   "event": "蒂尔德在阳台望见利兰雕像脚下升起一道浓灰烟柱，认定这是信号，并期待梅罗文会把它改成绿色。",
+   "relation": "蒂尔德—梅罗文（同盟暗号）",
+   "numbers": "无明确数字",
+   "interval": [
+    2129,
+    2221
+   ],
+   "anchor": "I noted a plume of smoke rising around the feet of Liran’s statue, thick and grey. A signal."
+  },
+  {
+   "id": 5,
+   "event": "蒂尔德与马洛琳身藏长矛和短刃走近议事厅，灰衣卫兵先拦后怯，最终两人听命推开厅门。",
+   "relation": "蒂尔德—马洛琳—守门卫兵（对峙到屈服）",
+   "numbers": "无明确数字",
+   "interval": [
+    4267,
+    4358
+   ],
+   "anchor": "The two moved to my order, grabbing the handles of the chamber doors and heaving them open."
+  },
+  {
+   "id": 6,
+   "event": "厅内国王瘫坐椅上、手抖眼散，奥东在旁忧虑；康林一见蒂尔德进门立刻脸色灰白，阿拉尔从窗边起身。",
+   "relation": "蒂尔德—利兰王—奥东—康林—阿拉尔（王室与两兄弟）",
+   "numbers": "无明确数字",
+   "interval": [
+    5049,
+    5156
+   ],
+   "anchor": "The king himself sat on a stool before a table of papers, a cup in his trembling hand, his eyes unfocussed."
+  },
+  {
+   "id": 7,
+   "event": "蒂尔德当众唤利兰为“丈夫”要求受迎，利兰低声应“欢迎，妻子”，奥东挪身挡在国王身前，埃吉尔因盖萨握剑而起疑。",
+   "relation": "蒂尔德—利兰（夫妻名分）／埃吉尔—盖萨（兄弟识破）",
+   "numbers": "无明确数字",
+   "interval": [
+    6127,
+    6174
+   ],
+   "anchor": "‘Be welcome, wife,’ he muttered after a moment."
+  },
+  {
+   "id": 8,
+   "event": "蒂尔德以天鹅女王与王储之母的身份宣布有军队正朝东门开进，康林骂她撒谎并拔剑号召众人拥立“新天鹅王”。",
+   "relation": "蒂尔德—康林（公开决裂）／康林—阿拉尔（兄弟反目）",
+   "numbers": "eastern gate",
+   "interval": [
+    6772,
+    6820
+   ],
+   "anchor": "There are soldiers marching on the eastern gate."
+  }
+ ]
+}
