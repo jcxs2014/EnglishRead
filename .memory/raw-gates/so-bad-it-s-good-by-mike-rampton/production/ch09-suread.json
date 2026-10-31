@@ -1,0 +1,55 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch09",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch09_unemployably_terrible_work_jokes.txt",
+ "facts": [
+  {
+   "fact": "开场笑话：躲开铁路员工蹭车去上班，工作是教人朝乐团挥小棒，答案是“列车员／指挥”（conductors 一词两义）",
+   "anchor": "‘I’m hiding from railway staff members to get a free journey into my job teaching people how to wave batons at orchestras.’ ‘Train conductors?’ ‘Yes.’",
+   "start": 78,
+   "end": 228
+  },
+  {
+   "fact": "被日历厂开除，理由“请假太多”：days off 既是请假又是日历上撕掉的日子",
+   "anchor": "I got fired from the calendar factory. Apparently I took too many days off.",
+   "start": 233,
+   "end": 308
+  },
+  {
+   "fact": "马戏团铲象粪的人向酒保抱怨浑身是屎，被问为何不辞职，答“离开演艺圈？！”",
+   "anchor": "It gets in my hair, in my beard, under my nails, everywhere.",
+   "start": 2011,
+   "end": 2071
+  },
+  {
+   "fact": "农夫带牧羊犬看兽医，兽医说只能“put down”（安乐死／放下来），因为它“实在太重”",
+   "anchor": "I’m afraid I’m going to have to put this dog down.",
+   "start": 2368,
+   "end": 2418
+  },
+  {
+   "fact": "请殡葬业者吃圣诞晚餐，问火鸡上浇什么，答“肉汁”（gravy），他要求对方“clarify”（澄清／澄清黄油）",
+   "anchor": "I said, ‘I’m going to have to ask you to clarify.’",
+   "start": 3377,
+   "end": 3427
+  },
+  {
+   "fact": "雇来的杂工只干了清单上第 1、3、5、7、9 项，因为他只做“零活”（odd jobs 双关奇数项）",
+   "anchor": "It turned out he only did odd jobs.",
+   "start": 3609,
+   "end": 3644
+  },
+  {
+   "fact": "宇航员最爱吃什么？Launch（发射／午餐 lunch 的谐音）",
+   "anchor": "What’s an astronaut’s favourite meal? Launch.",
+   "start": 3946,
+   "end": 3991
+  },
+  {
+   "fact": "text 末尾孤立着一条脚注，讲“噪音是什么”，和本章内容对不上，像是前文某条笑话的残件",
+   "anchor": "* What was the noise, you ask? We can’t tell you, you’re not a monk.",
+   "start": 4761,
+   "end": 4829
+  }
+ ]
+}
