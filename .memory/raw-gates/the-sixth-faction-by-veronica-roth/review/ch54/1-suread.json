@@ -1,0 +1,83 @@
+{
+  "chapter": "ch54",
+  "pov": "第一人称（Four／Tobias 托比亚斯），现在时",
+  "facts": [
+    {
+      "event": "四人组按下十楼按钮；电梯门合上时，他看见彼得正大步朝入口走来。",
+      "who": "I (Four)",
+      "receivers": "the button, Peter",
+      "start": 434,
+      "end": 546,
+      "text": "I jab the button for the tenth floor, and as the elevator doors close, I see Peter marching toward the entrance."
+    },
+    {
+      "event": "门把转动、门被推开时，四人组用一只手接住门板猛地前推，正撞在彼得肩上。",
+      "who": "I (Four)",
+      "receivers": "the door, Peter",
+      "start": 1937,
+      "end": 2055,
+      "text": "The knob turns, and the door opens. I catch it in one hand and shove it forward so it hits Peter hard in the shoulder."
+    },
+    {
+      "event": "四人组抓住彼得的手腕往侧面拧、想逼他松开枪，但彼得另一只手空着，先打他的手臂、又用指节打中他的嘴。",
+      "who": "I (Four)",
+      "receivers": "his wrist, the gun, me",
+      "start": 2110,
+      "end": 2307,
+      "text": "I grab for his wrist and wrench it to the side, trying to get him to release the gun. But his other hand is free; he punches me in the arm and then in the face, catching my mouth with his knuckles."
+    },
+    {
+      "event": "彼得弯下身，四人组趁他分神再次把他推进走廊，随后在两人之间把门关上并锁住。",
+      "who": "I (Four)",
+      "receivers": "him (Peter), the door",
+      "start": 3020,
+      "end": 3162,
+      "text": "He hunches over, and I use his moment of distraction to push him into the hallway again. Then I bring the door closed between us, and lock it."
+    },
+    {
+      "event": "四人组说必须把他们弄出去，强迫自己看向马库斯，问他们两个人消防梯在哪里。",
+      "who": "I (Four)",
+      "receivers": "you (Andrew and Marcus), Marcus",
+      "start": 4363,
+      "end": 4477,
+      "text": "“We have to get you out of here,” I say. I force myself to look at Marcus. “Both of you. Where’s the fire escape?”"
+    },
+    {
+      "event": "凯勒布从众人藏身的卧室走出来，身上叠穿蓝色衣物，带着在模拟室里那种神情——像在努力显得比实际年龄更大、更老练。",
+      "who": "Caleb",
+      "receivers": "the bedroom, them",
+      "start": 3992,
+      "end": 4196,
+      "text": "Caleb steps out of the bedroom where they were all hiding. He’s in layers of blue, still with that look he had in the simulation room, like someone trying to be older and more sophisticated than they are."
+    },
+    {
+      "event": "四人组打中玛琳的腿；她尖叫着跌向墙壁、双腿发软，但枪仍在她手里，她抬起了枪。",
+      "who": "I (Four)",
+      "receivers": "Marlene, her leg, the gun",
+      "start": 6087,
+      "end": 6232,
+      "text": "I hit Marlene in the leg. She screams and staggers into a wall, her legs giving way beneath her. But the gun is still in her hand. She raises it."
+    },
+    {
+      "event": "四人组举枪指向门口，脚步声越来越近；随后是一闪金发和一双被泪水浸湿的亮蓝色眼睛——崔丝。",
+      "who": "I (Four)",
+      "receivers": "my gun, the door, Tris",
+      "start": 7523,
+      "end": 7671,
+      "text": "I hold up my gun, pointing it at the door as the footsteps come closer and closer. Then: a flash of gold hair, and bright blue eyes, wet with tears."
+    }
+  ],
+  "relations": [
+    "四人组（Four／托比亚斯）跑得比威尔快，甩开他后穿过无派别街巷回到 A 楼十层的普莱尔家。",
+    "安德鲁·普莱尔与马库斯都藏在普莱尔家；安德鲁说他是先被妻子、后被儿子凯勒布警告的。",
+    "凯勒布站到家人一边，提供了无畏派将袭击议会的预警；马库斯却拒绝在派别最危急时离开。",
+    "彼得受模拟控制，眼中没有认出四人组的痕迹、只有疼痛；四人组把他锁在公寓门外。",
+    "逃亡途中四人组射伤玛琳的腿以阻止她开枪，并扑倒父亲躲过子弹；章末崔丝在教堂出现。"
+  ],
+  "numbers": [
+    "a couple months｜“Will has only been Dauntless for a couple months”＝威尔入派才几个月",
+    "the tenth floor｜“I jab the button for the tenth floor”＝电梯十楼",
+    "a few seconds｜“only by a few seconds”＝只快几秒",
+    "a foot to our left｜“The bullet hits the brick a foot to our left”＝子弹偏左一英尺"
+  ]
+}
