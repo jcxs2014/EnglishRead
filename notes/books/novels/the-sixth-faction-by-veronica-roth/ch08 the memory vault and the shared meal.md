@@ -46,7 +46,7 @@ modified: "2026-10-31"
 > **原句 5:** "I’m kneeling in front of the table in the Abnegation Memory Vault, lifting my hands from the warm stone. All my fellow initiates appear around me again. Marcus Eaton’s eyes find mine, and then his brow furrows, like I’ve confused him."
 
 **中文理解**：她回到自己身上：跪在 Abnegation 记忆库的石桌前，双手从温热的石面上抬起来；周围的新人也一个个显形。Marcus Eaton 的目光找到她，然后皱起眉，像被她弄糊涂了。
-**关键词**：kneeling in front of the table, lifting my hands, appear around me again, his eyes find mine, his brow furrows, like I’ve confused him
+**关键词**：kneeling in front of the table, lifting my hands, appear around me again, Marcus Eaton’s eyes find mine, his brow furrows, like I’ve confused him
 **为什么这样写**：上一块是她在心里替 Tori 把判决背了一遍，这一块就把那场判决的真身换成了一个表情：没有人念出 Divergent，只有一双眼睛在她脸上多停了半秒。四个句子按「身体—环境—他人—那张脸」推过去，最后一句的 like I’ve confused him 是她的猜测，作者没让 Marcus 说一个字。
 **读者视角提示**：全章最危险的东西在这一段里只有「皱眉」那么大。她把这件事读成「我让他困惑了」，而不是「我被他看见了」。
 
