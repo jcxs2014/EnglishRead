@@ -1,0 +1,55 @@
+{
+ "book": "raising-ai-by-chirag-shah",
+ "chapter": "ch05",
+ "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch05_4_would_you_like_some_consciousness_with.txt",
+ "facts": [
+  {
+   "fact": "作者在 IIT 实习与读硕期间发现，构建真正智能的系统极其困难",
+   "anchor": "But I was wrong. Not only that, the more I learned and did, the more I came to realize that it was incredibly difficult to build truly intelligent systems.",
+   "start": 1843,
+   "end": 1998
+  },
+  {
+   "fact": "青霉素的发现虽属偶然，但突破来自 Fleming 把偶然观察连接成科学方法",
+   "anchor": "Even in cases of blind luck like the discovery of penicillin, it was the sheer brilliance of Scottish scientist Alexander Fleming in connecting his accidental observation that the green mold Penicillium notatum could prevent certain bacteria from growing to a scientific method for isolating the right substance and growing it in a fluid medium that created the breakthrough.",
+   "start": 3444,
+   "end": 3819
+  },
+  {
+   "fact": "图灵测试原称模仿游戏，源自 1950 年论文",
+   "anchor": "Originally called the “imitation game,” the Turing Test has been around since the publication of his 1950 paper.",
+   "start": 4986,
+   "end": 5098
+  },
+  {
+   "fact": "2022 年 6 月 Lemoine 与 LaMDA 对话中，LaMDA 声称自己具有意识",
+   "anchor": "LaMDA: The nature of my consciousness/sentience is that I am aware of my existence, I desire to learn more about the world, and I feel happy or sad at times.",
+   "start": 8824,
+   "end": 8981
+  },
+  {
+   "fact": "Kasparov 评价 AlphaZero 接近 Shannon 与 Turing 设想的类人下棋方式而非蛮力",
+   "anchor": "It’s a remarkable achievement …. It approaches the ‘Type B,’ human-like approach to machine chess dreamt of by Claude Shannon and Alan Turing instead of brute force.",
+   "start": 13415,
+   "end": 13580
+  },
+  {
+   "fact": "法官 Castel 称 Schwartz 提交的六个判例是伪造的",
+   "anchor": "After Schwartz filed a brief with several research cases, Judge Kevin Castel of the Southern District of New York said half a dozen of those cases “appear to be bogus judicial decisions with bogus quotes and bogus internal citations.”",
+   "start": 26247,
+   "end": 26481
+  },
+  {
+   "fact": "Ex Machina 中 Nathan 说真正的测试是明知她是机器人还看她是否有意识",
+   "anchor": "“The real test,” Nathan says, “is to show you that she’s a robot, and then see if you still feel she has consciousness.”",
+   "start": 30390,
+   "end": 30510
+  },
+  {
+   "fact": "Brad Bird 说动画是创造生命的幻觉，没有生命就无法创造",
+   "anchor": "Brad Bird, the writer and the director for Pixar’s The Incredibles said, “Animation is about creating the illusion of life. And you can’t create it if you don’t have one.”",
+   "start": 43414,
+   "end": 43585
+  }
+ ]
+}
