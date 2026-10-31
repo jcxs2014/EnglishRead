@@ -7,18 +7,18 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-**一句话概括**：Philomela Fen 坐出租车到格雷恩女校应聘拉丁文教师，一路被司机的闲话、围墙内翻的碎玻璃、远处窗口窜出的火舌与学生狂奔的尖叫声搅得心神不宁；进门后被 Head Girl Elizabeth James 训斥又获礼遇，秘书 Miss Day 用一整套看似合理的说辞为上锁的办公室、防火斧与刺骨枪药味作解释，把这一切包裹进一种近乎体贴的体面里。
+**一句话概括**：Philomela Fen 坐出租车到格雷恩女校应聘拉丁文教师，一路被司机的闲话、围墙内翻的碎玻璃、远处窗口窜出的火舌与学生狂奔的尖叫声搅得心神不宁；进门后被那位自报姓名的「Head Girl」伊丽莎白·詹姆斯训斥又获礼遇，秘书 Miss Day 用一整套看似合理的说辞为上锁的办公室、防火斧与刺鼻的枪药味作解释，把这一切包裹进一种近乎体贴的体面里。
 
 **情感弧线位置**：开篇入场——从外部的荒诞恐惧（司机、玻璃、爆炸）推进到内部的秩序恐惧（学生、锁、斧头）。情绪不是由高到低，而是由「不安全」换成「说不清哪里不对」，落点是 Phil 心里那把被按下去的斧头。
 
 **Tropes 兑现/反转**：
-- 「阴森寄宿学校」的**兑现**：黑木黑石黑铁、塔楼圆顶、像地牢的门、近期烧焦的玫瑰藤——恐怖片布景逐项落实
+- 「阴森寄宿学校」的**兑现**：黑木黑石黑铁、塔楼圆顶、像地牢的门、门前烧焦的玫瑰与藤蔓——恐怖片布景逐项落实
 - 「深藏不露的黑暗组织」的**先声**：校长正在开「conference call」，与国内最要紧的若干 Head 商议政策，学校被摆在权力位阶上
 - 「胆小的老师被吓跑」的**反转**：前一位面试者的尖叫被当成笑谈，司机的口吻既像警告也像取乐
 
 **人物弧线**：Phil——从「求一份工」到「在门口就开始说服自己一切合理」；她反复用自嘲与职业术语（if/then、conditional mood、data security）压住恐惧，恐惧并没有消失，只是被改写成了措辞。Elizabeth James——以训斥开场、以握手和祝福收场，两个动作都出于她「Head Girl」的职务，不出于善意。
 
-**叙事手法**：**第一人称限制视角 + 通勤式布景**——所有不安都经由 Phil 的分类癖呈现；作者让她在每处异常后立刻找一个理性解释（碎石是防贼、门锁是数据安全、斧头是防火），读者被迫和她一起把证据解释掉，而证据本身一样没少。
+**叙事手法**：**第一人称限制视角 + 通勤式布景**——所有不安都经由 Phil 的分类癖呈现；作者让她在每处异常后立刻找一个理性解释（门锁是数据安全、斧头是防火），读者被迫和她一起把证据解释掉，而证据本身一样没少。
 
 ## 精读
 
@@ -34,7 +34,7 @@ modified: "2026-10-31"
 
 ---
 
-> **原句 2:** "‘Now, remember, love,’ the taxi driver said, not for the first time, ‘you’ll be wanting to call me from the Headmistress’s own phone line. That phone of yours won’t work. This whole place is in some sort of dead zone, and they can’t get no reception out here.’"
+> **原句 2:** "‘Now, remember, love,’ the taxi driver said, not for the first time, ‘you’ll be wanting to call me from the Headmistress’s own phone line. That phone of yours won’t work. This whole place is in some sort of dead zone, and they can’t get no reception out here."
 
 **中文理解**：「记住啊，亲爱的」——司机不是第一次这样说了——「你到时候得从女校长办公室那部电话打给我。你自己那部手机用不了。这里整片地方像是处在什么死区里，外头一点信号也收不到。」
 
@@ -46,7 +46,7 @@ modified: "2026-10-31"
 
 ---
 
-> **原句 3:** "‘Last person but one who came here,’ the driver said helpfully. ‘Stayed in there half the day and came out with this twitch, see, all across her forehead. There were scorch marks on her briefcase too, and she was that shook up she didn’t even remember to tip me till I kept the doors locked and reminded her.’"
+> **原句 3:** "‘Last person but one who came here,’ the driver said helpfully. ‘Stayed in there half the day and came out with this twitch, see, all across her forehead. There were scorch marks on her briefcase too, and she was that shook up she didn’t even remember to tip me till I kept the doors locked and reminded her."
 
 **中文理解**：「倒数第二个来这里的人嘛，」司机热心地说道，「在里面待了半天，出来时额头上一阵一阵地抽动。她公文包上也有焦痕，吓成那样，连给小费都忘了，还是我把车门锁上提醒了她。」
 
@@ -102,7 +102,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：训诫的语言层层替换——从「行为不妥」到法语「comme il faut」，最后落到一句纯粹的权力说明：校长不高兴，我就会对所有人不高兴；一句话里既有教养，也有威胁。
 
-**读者视角提示**：你会发现她护的是「来访家长」这个身份，而 Phil 并非家长——这意味着她连挨骂的理由都没有，接下来那句「You’re not?」才会那么冷。
+**读者视角提示**：你会发现她护的是「来访家长」这个身份——而 Phil 并非家长；这意味着她这句训诫连个正当理由都没有，落点处只剩冷冰冰的盘问。
 
 ---
 
@@ -118,25 +118,25 @@ modified: "2026-10-31"
 
 ---
 
-> **原句 9:** "‘You’ve probably realized that a number of the girls here are from excessively—’ She paused and corrected herself. ‘That is, exceedingly important families. The children of VIPs, ambassadors, some of the noblest lines in the country, and all that sort of thing. Now I can’t say I like observing this level of security, but we feel we owe it to their parents.’"
+> **原句 9:** "‘You’ve probably realized that a number of the girls here are from excessively—’ She paused and corrected herself. ‘That is, exceedingly important families. The children of VIPs, ambassadors, some of the noblest lines in the country, and all that sort of thing. Now I can’t say I like observing this level of security, but we feel we owe it to their parents."
 
 **中文理解**：「你大概已经看出，这里有不少女生出身于非同一般——」她停了一下，改了口，「也就是说，极其重要的家庭。VIP 的子女、大使、国家最显赫门第里的孩子，诸如此类。我不能说喜欢看到这种安保级别，但我们觉得这是欠他们父母的。」
 
 **关键词**：exceedingly important families / the children of VIPs / owe it to their parents
 
-**为什么这样写**：秘书先说了一个过火的词（excessively），然后硬生生改口为「exceedingly」——一个自我审查的停顿，把她真正想说的话（这些学生过分重要，多到需要关起来）留在了替换掉的那个词里。
+**为什么这样写**：她先说了一个过火的词（excessively），然后硬生生改口为「exceedingly」——一个自我审查的停顿，把她真正想说的话（这些学生重要到需要用锁、门闩与斧头来围住）留在了被替换掉的那个词里。
 
-**读者视角提示**：你会注意到她改口的那一刻——一个用「data security」来解释一切的人，偏偏在这里第一次说不顺，说明她要掩盖的东西比她愿意承认的更重。
+**读者视角提示**：你会注意到她改口的那一刻——一个把安保解释得头头是道的人，偏偏在这里第一次说不顺，说明她要掩盖的东西比她愿意承认的更重。
 
 ---
 
-> **原句 11:** "The back of her mind, which had been taking horrified notes for the past few minutes, finally managed to raise its voice loud enough to point out that an axe was not part of normal data security. Yet it seemed so reasonable …"
+> **原句 10:** "The back of her mind, which had been taking horrified notes for the past few minutes, finally managed to raise its voice loud enough to point out that an axe was not part of normal data security. Yet it seemed so reasonable …"
 
 **中文理解**：过去几分钟里一直在默默记笔记的后脑勺，终于把声音抬到足以指出：斧头不属于常规的数据安防。可它看上去又是那么合情合理……
 
 **关键词**：horrified notes / normal data security / it seemed so reasonable
 
-**为什么这样写**：主角的理智被写成另一个有自己声音的「后脑勺」，它提出的只有一条最朴素的反驳——防火斧不属于数据安全——而这一条反驳也被随即化解掉。
+**为什么这样写**：主角的理智被写成另一个有自己声音的「后脑勺」，它提出的只有一条最朴素的反驳——斧头不属于常规的数据安防——而这一条反驳也被随即化解掉。
 
 **读者视角提示**：这一句让读者和 Phil 同时卸了力——她一旦接受「合情合理」，你也跟着接受，而那把保养良好的斧头就留在了画面里，不再被追问。
 
