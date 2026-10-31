@@ -1,0 +1,84 @@
+{
+  "chapter": "ch32",
+  "pov": "第一人称（Four）；一般现在时",
+  "facts": [
+    {
+      "event": "Four 把这场模拟称作“failure sim”：受试是又大又有点笨拙的 Al，坐在自家厨房桌边，屋里只有一盏吊在桌上方的灯泡。",
+      "who": "I (Four)",
+      "receivers": "Al / the simulation",
+      "start": 577,
+      "end": 773,
+      "text": "This simulation is what I call a failure sim. The initiate is Al, big and a little clumsy, sitting at his kitchen table. There’s only one light in the room, dangling over the table, a single bulb."
+    },
+    {
+      "event": "Four 正认真考虑趁这个空档离开，抽泣的 Al 却对脸涨红的母亲喊：这话你现实中绝不会说。",
+      "who": "a sobbing Al",
+      "receivers": "his red-faced mother",
+      "start": 1312,
+      "end": 1434,
+      "text": "I’m strongly considering it when a sobbing Al says to his red-faced mother: “You’d never actually say this! You wouldn’t!”"
+    },
+    {
+      "event": "Four 解释：程序本该压住大脑里察觉逻辑矛盾的那部分，做梦时人遇到怪事不会质疑，这就是“dream logic”。",
+      "who": "I (Four)",
+      "receivers": "the part of your brain that’s aware of logical incongruities",
+      "start": 2181,
+      "end": 2515,
+      "text": "“The program is designed to suppress the part of your brain that’s aware of logical incongruities,” I say. “When you’re in a dream, strange things happen to you and you don’t question them. In fact, your brain finds ways to explain them to you—that’s what we call ‘dream logic.’ That’s what’s supposed to happen in a fear simulation.”"
+    },
+    {
+      "event": "Four 去年没遇到过任何 Divergent 启蒙者，因此从没进行过这番谈话；他本能想照父亲当年警告他的方式狠狠警告 Al。",
+      "who": "I (Four)",
+      "receivers": "him (Al)",
+      "start": 2647,
+      "end": 2863,
+      "text": "I didn’t encounter any Divergent initiates last year, so I’ve never had to have this conversation before. My instinct is to warn him as fiercely as I can against revealing this to anyone, the way my father warned me."
+    },
+    {
+      "event": "Four 不能把这场模拟从记录里删掉——删了会因缺席而引人注意（官方日程里所有启蒙者的场次都在他手上），他只能删未列入计划的场次。",
+      "who": "I (Four)",
+      "receivers": "this simulation / the records",
+      "start": 3078,
+      "end": 3282,
+      "text": "I can’t just delete this simulation from the records. I would draw attention to its absence, since I have all the initiates’ slots in the official schedule. I can only delete sessions that aren’t planned."
+    },
+    {
+      "event": "Four 教 Al 下次装作眼前一切都完全合理，不管看到什么，别去想现实会怎样：在模拟里所见即现实。",
+      "who": "I (Four)",
+      "receivers": "him (Al)",
+      "start": 3351,
+      "end": 3606,
+      "text": "“It happens,” I say. “Next time, I want you to pretend that what you’re seeing makes perfect sense to you, no matter what it is. Don’t think about what would happen in reality—while you’re in the simulation, whatever you’re seeing is reality. Understand?”"
+    },
+    {
+      "event": "Four 提醒 Al 别把这件事告诉其他启蒙者，说那会给他们、也给他自己惹麻烦。",
+      "who": "I (Four)",
+      "receivers": "Al / your fellow initiates",
+      "start": 4032,
+      "end": 4154,
+      "text": "“And, Al?” I say. “I wouldn’t mention this to any of your fellow initiates. It could cause trouble for them. And for you.”"
+    },
+    {
+      "event": "Four 靠墙启动下一场恐惧模拟，押 Will 怕的是某种生物，也许是蜘蛛。",
+      "who": "I (Four)",
+      "receivers": "Will / the fear simulation",
+      "start": 5655,
+      "end": 5828,
+      "text": "I lean my head back against the wall and cue the fear simulation. I’m betting Will is afraid of some kind of creature. Spiders, maybe. A lot of people are afraid of spiders."
+    }
+  ],
+  "relations": [
+    "Four→Al：担任其恐惧模拟的观察者，可随时把他拉出程序；这次替他遮掩并给出伪装建议",
+    "Al→模拟中的母亲：识破她“不是真的”，等于没被 dream logic 压住逻辑矛盾",
+    "Four 由此把 Al 归入 Divergent 一类（去年没遇到任何 Divergent 启蒙者，故从未需要这番谈话）",
+    "Four→Will／Al／Christina：自从帮过 Christina，这三人似乎开始信任他",
+    "Will→Al：Al 刚在切线之上，Will 担心启蒙期结束时再少一个朋友",
+    "Al→其他启蒙者：Four 要求他别提此事，否则会连累众人"
+  ],
+  "numbers": [
+    "last year（Four 去年带过的那名启蒙者，其首场恐惧模拟把两人沉入海底）",
+    "one light / a single bulb（Al 的模拟厨房里只有一盏吊灯、一个灯泡）",
+    "a moment（Four 考虑暂时离开一会儿，让 Al 自己应付）",
+    "for a moment（Four 打量 Al 片刻才回答）"
+  ]
+}
