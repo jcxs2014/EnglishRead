@@ -1,0 +1,95 @@
+{
+ "chapter": 51,
+ "text": "text/ch51_chapter_fifty_one_tilde.txt",
+ "chars": 6517,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Merovin 在维迪什都城的马上对 Tilde 说他们“损失惨重”，国王与王后的卫队（蓝绿两色）环护在侧。",
+   "relation": "Merovin—Tilde 的策士；国王 Liran 与王后的卫队",
+   "numbers": "blue and green",
+   "interval": [
+    56,
+    132
+   ],
+   "anchor": "said Merovin at my elbow as we walked our horses through the Widdish capital"
+  },
+  {
+   "id": 2,
+   "event": "Tilde 的入城队列是两名梅洛吉亚人骑马、Uhtren 殿后，外加 Merovin 挑的一名不问政事的地方 markal。",
+   "relation": "Tilde—Merovin—Lord Uhtren 的扈从关系；与地方贵族 markal",
+   "numbers": "two Merogians",
+   "interval": [
+    599,
+    663
+   ],
+   "anchor": "We were on horseback, two Merogians, flanked by Uhtren behind us"
+  },
+  {
+   "id": 3,
+   "event": "Tilde 骑灰马、披缀满天鹅的蓝氅、戴玫瑰冠，Miras 在前唱她的婚歌，民众高呼“图阿蒂尔德圣母”“羽翼女王”“辛格尔的救主”。",
+   "relation": "Tilde 与歌者 Miras；Tilde 与梅洛吉亚/辛格尔民众的拥戴",
+   "numbers": "blue and green",
+   "interval": [
+    1172,
+    1254
+   ],
+   "anchor": "my blue cloak sewn with swans, stretching over the back in a sea of shining velvet"
+  },
+  {
+   "id": 4,
+   "event": "Dagobert 被锁在颈手枷中示众，满脸是灰、膝边烂菜；当初为 Conrin 政变点起的篝火只剩灰烬，灰里凝着 Merovin 用来给 Perin 一伙把信号变绿的焦铜矿石。",
+   "relation": "Dagobert（祭司/叛首）与 Conrin、Perin 的政变集团",
+   "numbers": "none",
+   "interval": [
+    1798,
+    1847
+   ],
+   "anchor": "Dagobert was held in penance, his hands in stocks"
+  },
+  {
+   "id": 5,
+   "event": "东门、城与宫的叛卫被铁钉把手钉在地上木板上，无人敢动那穿骨裂指的尖钉；而向他们宣誓效忠 Tilde 与 Liran 王的人，正是钉钉者。",
+   "relation": "叛卫与倒戈宣誓的守卫（敌我倒转）；Tilde、Liran 为效忠对象",
+   "numbers": "eastern gate",
+   "interval": [
+    2351,
+    2410
+   ],
+   "anchor": "They had been nailed by their hands to boards on the ground"
+  },
+  {
+   "id": 6,
+   "event": "Elise 未被囚禁——她曾放出营房守卫、救了众人也救了 Tilde，Tilde 没有借口关她，却仍忌惮残余黑卫与她所知之事，也怕自己的渴望。",
+   "relation": "Elise—Tilde 的盟友兼情愫对象；Elise 与其兄父、黑卫",
+   "numbers": "black guard",
+   "interval": [
+    3207,
+    3281
+   ],
+   "anchor": "Elise had not been imprisoned. I had no excuse to confine her to her rooms"
+  },
+  {
+   "id": 7,
+   "event": "Tilde 为当好摄政宁可显得冷酷，向 Merovin 点头后喝令带来的四名手下从队尾开始斩首阴谋者，人群随每颗头落下狂呼，Dagobert 大骂“骗子！疯子！”。",
+   "relation": "Tilde—Merovin 共谋行刑；Dagobert 与 Geveran/Conrin 旧盟",
+   "numbers": "four men",
+   "interval": [
+    4222,
+    4277
+   ],
+   "anchor": "drawing their blades, they began at the end of the line"
+  },
+  {
+   "id": 8,
+   "event": "Uhtren 用丝巾堵住 Dagobert 的嘴；Tilde 决定不杀祭司，把他送交 Synod 审判，让教会知道自己人中出了自封的造王者、杀天鹅者，而她还须等 Liran 神志与议会归顺。",
+   "relation": "Lord Uhtren—Tilde 的随从；Tilde 与 Synod（教会法庭）及发狂的 Liran 王的摄政关系",
+   "numbers": "none",
+   "interval": [
+    4736,
+    4806
+   ],
+   "anchor": "Lord Uhtren came forward with a silk rag, and stuffed it in the priest"
+  }
+ ]
+}
