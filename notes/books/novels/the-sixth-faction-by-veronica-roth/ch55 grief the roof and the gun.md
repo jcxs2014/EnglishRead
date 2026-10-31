@@ -75,7 +75,7 @@ modified: "2026-10-31"
 
 **关键词**：feels like I’m dreaming / racing down the street / Marcus Eaton at my heels / a bullet wound in my arm / screaming at him to jump
 
-**为什么这样写**：一个 There can’t be a reality 后面挂两个 Or where，把现实挡在外面，用的全是否定句。清单一项比一项荒唐：仇人跟在身后、枪伤、枪；第二句干脆换成自己的家人。她列这些不是为了感慨，是在给自己留一条「这不是真的」的缝。三件事按空间排开——街、站台、楼缝间的日出——像一段还没醒的梦在换场景。
+**为什么这样写**：一个 There can’t be a reality 后面挂两个 Or where，把现实挡在外面，用的全是否定句。清单一项比一项荒唐：仇人跟在身后、枪伤、枪；第二句干脆换成自己的家人。她列这些不是为了感慨，是在给自己留一条「这不是真的」的缝。两个 Or where 顺着街和站台铺开，像一段还没醒的梦在换场景。
 
 **读者视角提示**：她越列得具体，越说明她清醒。做梦的人不会去数自己手里有没有枪、脚后跟后面跟着谁。
 

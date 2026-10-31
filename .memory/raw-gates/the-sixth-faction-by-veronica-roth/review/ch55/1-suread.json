@@ -1,0 +1,83 @@
+{
+  "chapter": "ch55",
+  "pov": "第一人称（Tris 叙述，用“I”），主干过去时，夹杂现在时短句（如“I can’t feel my fingers.”）",
+  "facts": [
+    {
+      "event": "父亲 Andrew 走到 Tris 面前、双手按住她的肩膀；她被碰到臂上伤口而吸气，但让她退开的不是疼痛，而是那双手的重量——她已经太沉，这份重量让她受不了。",
+      "who": "My father",
+      "receivers": "me（Tris）",
+      "start": 203,
+      "end": 477,
+      "text": "My father steps in front of me, and sets his hands on my shoulders. I hiss as he makes contact with the wound in my arm, but the pain isn’t what makes me pull away from him; it’s the weight. The weight of his hands, dragging me down when I’m already so heavy, is unbearable."
+    },
+    {
+      "event": "Tris 觉得父亲的提问（也许还有答案）里藏着危险：说出口就会让母亲之死变成真的，可她不得不说，因为她一个人扛不住。",
+      "who": "I（Tris）",
+      "receivers": "him（父亲 Andrew）",
+      "start": 588,
+      "end": 790,
+      "text": "There’s something dangerous in the question. Or maybe in the answer. I can’t tell him what happened, because that will make it real. But I have to tell him what happened, because I can’t carry it alone."
+    },
+    {
+      "event": "Tobias 检查伤口后说子弹从她手臂直穿过去，站起来拍了拍她的肩膀，指出出口伤在哪里。",
+      "who": "he（Tobias）",
+      "receivers": "you（Tris）",
+      "start": 2573,
+      "end": 2684,
+      "text": "“I think the bullet went right through you,” he says. He stands, tapping my shoulder. “There’s the exit wound.”"
+    },
+    {
+      "event": "Marcus Eaton 站在一旁，递出一团布——那是他的衬衫（他外面仍穿灰外套、里面还有内衣），他脱掉了中间那一层。",
+      "who": "Marcus Eaton",
+      "receivers": "me（Tris）",
+      "start": 2831,
+      "end": 3039,
+      "text": "I look up to see Marcus Eaton standing off to the side, holding out a bundle of fabric. It’s his shirt—he still has an undershirt on, with his gray jacket over it, but he must have taken off his middle layer."
+    },
+    {
+      "event": "远处又传来一声枪响；Tris 想到躺在床上、手臂伸直的 Abigail Baker，以及二十五名议员——在被模拟控制的无畏派追杀下，还有几个活着、几个能活下去。",
+      "who": "I（Tris）",
+      "receivers": "Abigail Baker; the council members",
+      "start": 3429,
+      "end": 3698,
+      "text": "I hear, off in the distance, another gunshot. I think of Abigail Baker, lying on the bed, her arm outstretched. There are twenty-five council members. How many of them are still alive? How many of them will stay alive, with simulation-bound Dauntless hunting them down?"
+    },
+    {
+      "event": "Tris 说必须去无畏派总部：如果模拟只影响无畏派新生，那源头一定在那里。",
+      "who": "I（Tris）",
+      "receivers": "we（Tris、Tobias、Caleb、Andrew、Marcus）",
+      "start": 3954,
+      "end": 4115,
+      "text": "“No, I mean . . . we need to go to Dauntless headquarters,” I say. “That’s where the simulation must be coming from, if it’s affecting only Dauntless initiates.”"
+    },
+    {
+      "event": "Tris 与 Tobias 从楼顶跃下后被网接住，紧绷的纤维裹住两人又摊平；她手臂作痛，憋出一声笑。",
+      "who": "the net",
+      "receivers": "us（Tris 与 Tobias）",
+      "start": 8655,
+      "end": 8791,
+      "text": "Then the net swallows us both, wrapping around us with taut, hard fibers and then flattening. My arm aches. I let out a strangled laugh."
+    },
+    {
+      "event": "Tris 注意到 Caleb 脱下外套，从外套下的枪套里拔出一把枪。",
+      "who": "Caleb（Tris 注意到）",
+      "receivers": "his jacket; a gun",
+      "start": 15853,
+      "end": 15946,
+      "text": "And then I notice Caleb taking off his jacket, and drawing a gun that’s holstered beneath it."
+    }
+  ],
+  "relations": [
+    "Tris 与 Andrew 是父女：她称他“my father”，他为她愿意开枪（“If my daughter is at risk”）。",
+    "Tobias 与 Marcus Eaton 是父子：Tobias 走过屋顶时“像在假装 Marcus 不存在”，Tris 也照做。",
+    "Caleb 与 Tris 是兄妹：章末 Caleb 拔枪指向 Tobias 后脑，完成背叛。",
+    "Caleb 与 Jeanine Matthews 关系亲近：他直呼“Jeanine”，Tris 与父亲都注意到（不是“Ms. Matthews”）。",
+    "Tobias 是 Tris 最信任的人：教堂里替她查看伤口、撕衬衫包扎，她认为只有他真正懂她。",
+    "Marcus 与 Evelyn 曾联手（Tris 推断 Evelyn 拿 Marcus 换武器与运输），Hemlock 参与其中。",
+    "Tris 与 Tobias 是恋人：她伸手要他牵、说“See you at the bottom”，落地后他扶住她的腰与颈侧。"
+  ],
+  "numbers": [
+    "twenty-five council members（议员共 25 名）",
+    "another hour（大约再过一小时才会有人知道 Abnegation 出了事）"
+  ]
+}
