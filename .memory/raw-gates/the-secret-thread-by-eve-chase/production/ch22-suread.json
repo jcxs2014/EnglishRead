@@ -1,0 +1,55 @@
+{
+ "book": "the-secret-thread-by-eve-chase",
+ "chapter": "ch22",
+ "text": "notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch22_chapter_22.txt",
+ "facts": [
+  {
+   "fact": "登月日凌晨，Miriam 一家人在收音机前听 BBC 直播，听宇航员在月面迈出第一步（阿波罗 11 号）。",
+   "anchor": "We woke up before dawn, tuned into the BBC on the wireless and listened, rapt, as a man took the first steps on the moon",
+   "start": 432,
+   "end": 552
+  },
+  {
+   "fact": "距派对只剩四夜，Rushwood 全宅筹备，忙乱底下压着低低的慌。",
+   "anchor": "Four sleeps until the party, and Rushwood was a hive of activity, with a low hiss of panic",
+   "start": 928,
+   "end": 1018
+  },
+  {
+   "fact": "古董吊灯在 Spitalfields 工坊花大钱修好，重新吊回门厅，像一颗华丽的行星。",
+   "anchor": "the antique chandelier had been fixed at great expense in a Spitalfields workshop and finally hauled up, a magnificent planet hanging in the hall",
+   "start": 1385,
+   "end": 1530
+  },
+  {
+   "fact": "Rafe 从牛仔裤兜里抽出纸、抓过 Whipple 的钢笔涂写——那张纸是印着 Celia Caswell 名头与肯辛顿地址的信笺。",
+   "anchor": "He pulled a bit of paper from his jeans pocket, swiped Whipple’s pen and scrawled something",
+   "start": 4503,
+   "end": 4594
+  },
+  {
+   "fact": "Rafe 点明 Lawrence 近来在帮 Alf 和 Pamela 干园里的活。",
+   "anchor": "Helping out Alf and Pamela in the grounds?",
+   "start": 5322,
+   "end": 5364
+  },
+  {
+   "fact": "Rafe 轻声说这（帮园里的活）是他父亲的主意，并注意到 Miriam 脸色垮了下来。",
+   "anchor": "His old man’s idea, I think",
+   "start": 5577,
+   "end": 5604
+  },
+  {
+   "fact": "Lawrence 当着 Whipple 主动请缨带 Miriam 去海边找化石（Lyme Regis）。",
+   "anchor": "How about I take Miriam?",
+   "start": 7617,
+   "end": 7641
+  },
+  {
+   "fact": "Whipple 推挡几番后终于放行：带回化石、贝壳、好石头，助手别太晚、最好完好无损。",
+   "anchor": "And my assistant, not too late, and preferably in one piece.",
+   "start": 9042,
+   "end": 9102
+  }
+ ]
+}
