@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch50",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch50_chapter_fifty_tilde.txt",
+ "facts": [
+  {
+   "fact": "Conrin 的灰衣派在蓝厅内向邻座动手，政变当场爆开",
+   "anchor": "Conrin’s grey-clad faction turned on their neighbours",
+   "start": 67,
+   "end": 120
+  },
+  {
+   "fact": "绿卫队长 Perin 提着 Ademar 公爵的头进场，宣布倒戈",
+   "anchor": "the captain was carrying Ducal Ademar’s head",
+   "start": 5542,
+   "end": 5586
+  },
+  {
+   "fact": "Perin 明说投靠 Alar 是因为大哥给的钱更多",
+   "anchor": "The older brother paid better",
+   "start": 5749,
+   "end": 5778
+  },
+  {
+   "fact": "Elise 两箭射穿 Perin 喉咙，血溅在她的天鹅罩袍上",
+   "anchor": "Like Sanafin, his blood flew out",
+   "start": 8192,
+   "end": 8224
+  },
+  {
+   "fact": "一群穿黑衣、不披甲的老兵跟着 Elise 冲进来，喊着为 Isen 复仇",
+   "anchor": "For Isen! For Isen!",
+   "start": 8595,
+   "end": 8614
+  },
+  {
+   "fact": "Liran 抓住 Alar 的头骨把他摔向砖地，当众砸碎",
+   "anchor": "throwing his son by the skull to the floor",
+   "start": 11339,
+   "end": 11381
+  },
+  {
+   "fact": "她下令抓捕灰衣与红衣两派，只留自己的近卫",
+   "anchor": "Arrest all other than my own personal guards",
+   "start": 12687,
+   "end": 12731
+  },
+  {
+   "fact": "满厅各族贵族跪在血里向她鞠躬，只有 Elise 站着",
+   "anchor": "they bowed to me",
+   "start": 13381,
+   "end": 13397
+  }
+ ]
+}

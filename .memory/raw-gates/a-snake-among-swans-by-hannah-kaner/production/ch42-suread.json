@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch42",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch42_chapter_forty_two_tilde.txt",
+ "facts": [
+  {
+   "fact": "Tilde 自认是她选择把众人带出林子，而不是任他们在黑暗里自相残杀。",
+   "anchor": "I had chosen to bring them out of the woods.",
+   "start": 286,
+   "end": 330
+  },
+  {
+   "fact": "Hadiah 告诉她，她已在 Widdin 宫中昏迷五天，几乎死掉。",
+   "anchor": "It has been five days. Five days, Tilde. You almost died.",
+   "start": 1953,
+   "end": 2010
+  },
+  {
+   "fact": "Hadiah 说 Dagobert 两天前失踪了。",
+   "anchor": "Dagobert is gone, disappeared two days ago.",
+   "start": 3055,
+   "end": 3098
+  },
+  {
+   "fact": "Isen 的葬礼就在当天上午已经办完。",
+   "anchor": "‘It was this morning,’ Hadiah told me.",
+   "start": 3394,
+   "end": 3432
+  },
+  {
+   "fact": "Merovin 的密信说鸟群惊慌、即将行动，要她做好准备。",
+   "anchor": "The birds are panicked, they will move soon. When they come for you, be ready.",
+   "start": 3790,
+   "end": 3868
+  },
+  {
+   "fact": "她笑，是因为大王子 Alar 打算娶她。",
+   "anchor": "because the eldest prince intends to marry me",
+   "start": 5854,
+   "end": 5899
+  },
+  {
+   "fact": "她断言 Alar 才是得知血魔法之后重新打开那道门的人。",
+   "anchor": "He was the one who reopened the gates to their blood magic after he learned of it.",
+   "start": 8668,
+   "end": 8750
+  },
+  {
+   "fact": "敲门的人是国王的将军 Palati Odon，不是普通来客。",
+   "anchor": "Not just any man. Palati Odon.",
+   "start": 10164,
+   "end": 10194
+  }
+ ]
+}
