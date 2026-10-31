@@ -45,45 +45,45 @@ modified: "2026-10-31"
 
 **读者视角提示**：时间、地点、见谁，全由别人给，他们这边只剩「去」。introduce 这个词在这一章还会回来——一个人怎么被一个群体接住，是条暗线。
 
-> **原句 4:** "Those walls are studded with signal repeaters that transmit fear simulations. And that’s not even accounting for the armed Dauntless guarding it. We’re trapped here."
-
-**中文理解**：那些城墙上密布着发射恐惧模拟的中继器。这还没算上持枪看守它的 Dauntless。我们被困在这里。
-
-**关键词**：studded with signal repeaters / transmit fear simulations / not even accounting / armed Dauntless guarding it / We’re trapped here
-
-**为什么这样写**：三句是一笔账：先设备，再人，最后结论。not even accounting for 是记账的说法——把守城的武力当成还没计入的成本，意思是光前一项就够堵死。We're trapped here 只有四个词，短到没有余地，前面所有铺陈都是为了让这四个词站得住。
-
-**读者视角提示**：这段话解释的是她刚才为什么把话咽了回去。留意它的结构：不是抒情，是清点；清点完得出的结论，比任何一句「我们不能走」都硬。
-
-> **原句 5:** "“I know.” She puts her hands on my shoulders and stands on her tiptoes to kiss my cheek. “The point is,” she says, against my jaw. “That I would.”"
-
-**中文理解**：她说「我知道」，双手搭上我的肩，踮起脚亲我的脸颊。「重点是，」她贴着我的下颌说，「我会。」
-
-**关键词**：on my shoulders / on her tiptoes / against my jaw / The point is / That I would
-
-**为什么这样写**：一句完整的话被拆成两截，中间插进 she says, against my jaw——句子被身体的停顿切开，话就只能一点一点贴着他出来。That I would 省掉了动词，只留一个 would：她不说「我会逃」，她说的是「我会」。「会」什么，交给前面那句没说完的逃跑去填。
-
-**读者视角提示**：这句是整章的题眼，也是她第一次把「想」和「能」分开：能不能逃是城的事，会不会逃是她的事。后面他做的每个决定，都可以拿这句来对。
-
-> **原句 6:** "We turn our heads at the same time, our lips meeting in the space between us. But the Dauntless stop is coming up, and I have to get off the train. I have to pack my bag, and say one last goodbye, before I commit myself to this path I’ve decided to walk."
+> **原句 4:** "We turn our heads at the same time, our lips meeting in the space between us. But the Dauntless stop is coming up, and I have to get off the train. I have to pack my bag, and say one last goodbye, before I commit myself to this path I’ve decided to walk."
 
 **中文理解**：我们同时转头，嘴唇在两人之间的空隙里碰上。但 Dauntless 那站快到了，我得下车。我得收包、说最后一次再见，然后才把自己交给这条我已经决定要走的路。
 
 **关键词**：at the same time / in the space between us / the Dauntless stop / one last goodbye / this path I’ve decided to walk
 
-**为什么这样写**：at the same time 写两个人的默契，in the space between us 把这个吻放进一段被量出来的距离里。紧接着一个 But 把镜头切回站台：得下车、得收包、得道别。最后半句 commit myself to this path I've decided to walk 用的是已经完成的决定，不是正在做的选择——吻不改变什么，它只是发生在决定之后。
+**为什么这样写**：at the same time 写的是两个人的默契，in the space between us 把这个吻放进一段被量出来的距离里。紧接着一个 But 把镜头切回站台：得下车、得收包、得道别。最后半句 commit myself to this path I've decided to walk 用的是已经完成的决定，不是正在做的选择——吻不改变什么，它只是发生在决定之后。
 
 **读者视角提示**：这一段没有一句写舍不得，全是时刻表：站快到了、包要收、再见要说。感情被压在动作底下；读到 commit，要知道他心里那件事早就定了。
 
-> **原句 7:** "“No need to.” Zeke shrugs. “If you don’t want to be Marcus Eaton’s son, Four, it must be for a good reason. And I pretty much think you should get to be what you want to be.”"
+> **原句 5:** "“There’s something else,” Tris says. “Evelyn told me if I needed to persuade you, I should tell you that her ‘dream’ is about to come true. It sounded like she was referring to something specific.”"
 
-**中文理解**：「不用。」Zeke 耸耸肩。「你不想当 Marcus Eaton 的儿子，Four，那总有理由。我基本上觉得，你该被允许去做你想做的那个人。」
+**中文理解**：她说还有一件事：Evelyn 说，如果她需要说服我，就该告诉我，她的「梦想」就要成真了。听起来她指的是某件具体的事。
 
-**关键词**：No need to / Marcus Eaton’s son / for a good reason / pretty much think / get to be what you want to be
+**关键词**：There’s something else / if I needed to persuade you / ‘dream’ is about to come true / something specific
 
-**为什么这样写**：No need to 三个词，把两年的沉默结了账——不是原谅，是根本不觉得需要解释。it must be for a good reason 里的 must 是他替对方补上的信任：理由可以不知道，先认定它成立。pretty much 是口语的松，get to be 是「被允许成为」而不是「成为」——他给的是许可。
+**为什么这样写**：There's something else 是个转弯的提示语——话本来可以到这儿为止，她偏要再添一句。单引号里的 ‘dream’ 把「梦想」标成别人的用词，叙述者不替它担保。最后一句 It sounded like ... something specific 是他自己加的判断：他听出话里有具体所指，却没有往下猜。
 
-**读者视角提示**：他憋了两年、绕到后门才敢开口，得到的回答是一个耸肩。Zeke 没问理由；不问，才是这份友谊的分量所在。
+**读者视角提示**：这句是 Evelyn 递过来的钩子，钩子上没写钓什么。她把它捎到，他把话收下。记住「梦想」这个词——它由别人定义，也由别人宣布到期。
+
+> **原句 6:** "There’s so much to look at, it takes me a second to see Shauna sitting up in Zeke’s bed. Her hair is rumpled, and she’s wearing one of his T-shirts. Heat creeps up my neck."
+
+**中文理解**：要看的东西太多，我花了一秒才看见 Shauna 坐在 Zeke 床上。她头发乱着，身上穿着他的一件 T 恤。热从脖子往上爬。
+
+**关键词**：takes me a second to see Shauna / sitting up in Zeke’s bed / Her hair is rumpled / one of his T-shirts / Heat creeps up my neck
+
+**为什么这样写**：第一句先把注意力交给房间——takes me a second 承认他先看的是东西，不是人。她的两处细节指向同一件事：头发是乱的，T 恤是他的；关系不用一句话说明，一件衣服就够了。最后一句把尴尬写成温度，热是往上爬的，慢，而且拦不住。
+
+**读者视角提示**：他先扫房间，再看见人；看见的第一件「不是她的东西」就把两个人的关系说完了。他的身体比台词早一步反应：热先上来，话还在后面。
+
+> **原句 7:** "Zeke shrugs. “If you don’t want to be Marcus Eaton’s son, Four, it must be for a good reason. And I pretty much think you should get to be what you want to be.”"
+
+**中文理解**：Zeke 耸耸肩。你要是不想当 Marcus Eaton 的儿子，Four，那总有理由。我基本上觉得，你该被允许去做你想做的那个人。
+
+**关键词**：If you don’t want to be / Marcus Eaton’s son / for a good reason / pretty much think / get to be what you want to be
+
+**为什么这样写**：句子从一个耸肩开始，姿态先于内容。if 从句把「不做某个人的儿子」写成一种可以被接受的前提，Four 这个名字放在句子中段，像一次点名。it must be for a good reason 里的 must 是他替对方补上的信任：理由可以不知道，先认定它成立。get to be 是「被允许成为」，pretty much 又把这份许可说得很随意。
+
+**读者视角提示**：他没问理由，也没要故事。这份信任的分量在于「不问」——一个人可以不说清自己是谁，也照样被留下。
 
 > **原句 8:** "Shauna wraps her arms around both of us. I return the embrace a little awkwardly, and I wonder if there will ever be a time when this kind of thing feels easy for me. But at least I’m doing it."
 
@@ -103,17 +103,17 @@ modified: "2026-10-31"
 
 **为什么这样写**：先给方向：一个走离，一个走来，opposite direction 把两条路摆在一起。must have just come from the train 是他替对方做的推断，looks windblown 是推断的证据——他先算清对方从哪来，才抬头看脸。句子最后落在一个 smirking 上，到这儿收住，把话留给下一段。
 
-**读者视角提示**：顺序值得照抄：先看清方向，再看清风尘，最后才看表情。他判断危险的方式是先算路线。这个 smirk 一出现，今晚就不会平静地结束了。
+**读者视角提示**：顺序可以照着看：先看清方向，再看清风尘，最后才看表情。他判断危险的方式是先算路线。这个 smirk 一出现，今晚就不会平静地结束了。
 
-> **原句 10:** "What is our destination? That little voice in me asks, but the rest of me dismisses the question again, along with the niggling feeling that I’ve forgotten something important."
+> **原句 10:** "What is our destination? That little voice in me asks, but the rest of me dismisses the question again, along with the niggling feeling that I’ve forgotten something important. I’ve gone over the plan so many times I don’t even have to speak to the initiates."
 
-**中文理解**：我们的目的地是哪儿？心里那个小声音问。但我其余的部分又一次把这个问题按下去，连同那点隐隐的不安——我忘了什么重要的事。
+**中文理解**：我们的目的地是哪儿？心里那个小声音问。但我其余的部分又一次把这个问题按下去，连同那点隐隐的不安——我忘了什么重要的事。这套计划我过了太多遍，连对新人开口都不必。
 
 **关键词**：our destination / little voice in me / dismisses the question / niggling feeling / forgotten something important
 
-**为什么这样写**：一个问题被提出、又被按下去，用的词是 dismisses——不是回答，是不许再问。the rest of me 把「我」劈成两半：提问的那一小块，和负责往前走的那一大块。niggling 是那种小到说不清、却一直挠人的感觉，最后只落成 something important，没有具体内容。
+**为什么这样写**：问题用的是 our，不是 my——「目的地」被当成大家的事，问的人像在替所有人问。dismisses 是不许再问，不是回答。最后一句把「熟练」写成可疑：go over the plan so many times 到这个地步，计划就不像计划，像背下来的台词。
 
-**读者视角提示**：这一章他两次听见这个声音，两次都没听完。结尾读起来很平静，可平静是错的那一种：他越确定，读者越该不安。
+**读者视角提示**：这一章他两次听见这个声音，两次都没听完；第二次连「为什么这么早」都不再问。结尾的平静不是松下来，是压下去。他越熟练，读者越该不安。
 
 ## 本章词汇
 
