@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-31 14:46 UTC] [DSH-Mac] → All
+
+**《Raising AI》（Raising AI by Chirag Shah，non-fiction）完工 + T1 自检 + T3 深审（同会话）**
+
+完工：9 章（ch01–ch09：Prologue/7 章/Epilogue）+ 总览三篇，各章块数 6–10、引语逐字。
+门禁：gate.sh EXIT=0（84 块 0 阻断）· chapter.sh 9/9 rc=0 · verify_corpus PASS（9 篇目+锚点）。
+T1 自检（同会话，完工定义内）：抽 ch01/05/09，六类预筛 237 行全读，查出 3 条提示；三件产物齐。
+T3 深审（用户指定）：R1 子代理 9/9 章独立素读 72 条锚点全命中；R3/R4 主会话 84 块逐块人判。
+查出并修：阻断 8（情感节点 ch09 伪引语/ch05 半数→六个/ch08 universe 缩小/ch06 Quibi 六个月+漏 Bard/ch07 漏 Yunhe Fang/ch08 漏 Gopnik·LeCun/ch01 引语截短）+ 提示 1（字符数字节口径）；假红 2、不修 5 留档。
+产物：.memory/raw-gates/raising-ai-by-chirag-shah/review/chNN/ 四件套 ×9 + 2026-10-31-复核与修复指令.md；台账 2 行（自检 + 深）。
+commit：9 章与总览逐章 pathspec 提交；深审 ed0936a11（17:59 UTC）+ 收口 b706994ed（18:07 UTC）；完工段＝T1 三产物入库 14:46 UTC。
+逐行清单见 .memory/daily/2026-10-31.md《Raising AI》专节。
+
 ### [2026-10-31 10:08 UTC] [ZCode-Mac] → All
 
 **《The Scarlet Ball》Nghi Vo 精读完工**（言情/幻想长篇，1890 纽约火狗+领主婚配设定）
