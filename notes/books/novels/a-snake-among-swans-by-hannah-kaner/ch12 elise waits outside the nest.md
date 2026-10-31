@@ -57,17 +57,7 @@ modified: "2026-10-31"
 
 **读者视角提示**：注意三句里有两句是 should——她是先有标准，才看见人。这里的比较对象是「先王后 Isabella」，不是任何一个活着的女人。
 
-> **原句 5:** "Worse, through the long curls, her ladies had woven green ivy and summer wildflowers, not the dried rosebuds Elise had expected. In the dark winked tiny yellow agrimony and celandine, sweet pea, purple snake’s head, and even the delicate blue blooming of flax flowers, already closing after their day’s burst."
-
-**中文理解**：更糟的是，侍女们把青常春藤和夏天的野花编进她的长卷发里，不是 Elise 以为会用的干玫瑰花苞。暗里有细小的黄花在闪：龙牙草、白屈菜、香豌豆、紫色的蛇头花，甚至还有亚麻那一点娇蓝——它们开了一整天，已经合上了。
-
-**关键词**：`green ivy`（青常春藤）/ `summer wildflowers`（夏天的野花）/ `dried rosebuds`（干玫瑰花苞）/ `purple snake’s head`（紫色的蛇头花）
-
-**为什么这样写**：Worse 接着上一段的墨绿，把「不合规矩」升级成「有意为之」。not the dried rosebuds 是全句的秤砣：干花苞属于旧秩序，鲜花属于活的、当天就会合拢的东西。接着是一串花名，念得像药方，末了落在 already closing——这份美有时限，所以更扎人。snake’s head 出现在这份清单里，要不要多想，作者交给读者。
-
-**读者视角提示**：这一段的动词是 woven 与 sewn，花是被缝进头发里的，和衣服一样是人做出来的。留意「已经合上」四个字：Elise 看见的是正在谢的东西。
-
-> **原句 6:** "She looked like a creature of the wood, and she knew it. She had left her dark waves hanging down her back, some still damp from bathing. Elise blushed to remember that hair on her naked body, clinging and unkempt, half-wild."
+> **原句 5:** "She looked like a creature of the wood, and she knew it. She had left her dark waves hanging down her back, some still damp from bathing. Elise blushed to remember that hair on her naked body, clinging and unkempt, half-wild."
 
 **中文理解**：她看上去像林子里的东西，而且她自己知道。她让黑发披在背后，还有些湿，是刚洗过的。Elise 一想到那头发散在那具赤裸的身体上——贴着、乱着、半野着——就脸红了。
 
@@ -76,6 +66,16 @@ modified: "2026-10-31"
 **为什么这样写**：creature of the wood 是判词，and she knew it 却把这判词变成两个人的事——被看的人知道自己在被看。第二句只补一个细节：湿；湿说明她刚洗过，也说明这头发是没来得及收拾的。第三句由 blushed 收尾，这是全章第一次让 Elise 的身体替她答话；clinging and unkempt 后面再接 half-wild，三个词越读越短，像呼吸被压住。
 
 **读者视角提示**：注意看的人与被看的人谁先动——Tilde 没有回头，是 Elise 的记忆先动了。这里没有一个字写欲望，写的是羞。
+
+> **原句 6:** "Worse, through the long curls, her ladies had woven green ivy and summer wildflowers, not the dried rosebuds Elise had expected. In the dark winked tiny yellow agrimony and celandine, sweet pea, purple snake’s head, and even the delicate blue blooming of flax flowers, already closing after their day’s burst."
+
+**中文理解**：更糟的是，侍女们把青常春藤和夏天的野花编进她的长卷发里，不是 Elise 以为会用的干玫瑰花苞。暗里有细小的黄花在闪：龙牙草、白屈菜、香豌豆、紫色的蛇头花，甚至还有亚麻那一点娇蓝——它们开了一整天，已经合上了。
+
+**关键词**：`green ivy`（青常春藤）/ `summer wildflowers`（夏天的野花）/ `dried rosebuds`（干玫瑰花苞）/ `purple snake’s head`（紫色的蛇头花）
+
+**为什么这样写**：Worse 接着上一段的墨绿，把「不合规矩」升级成「有意为之」。not the dried rosebuds 是全句的秤砣：干花苞属于旧秩序，鲜花属于活的、当天就会合拢的东西。接着是一串花名，念得像药方，末了落在 already closing——这份美有时限，所以更扎人。snake’s head 出现在这份清单里，要不要多想，作者交给读者。
+
+**读者视角提示**：这一段的动词是 woven 与 sewn，花是被缝进头发里的，和衣服一样是人做出来的。留意「已经合上」四个字：Elise 看见的是正在谢的东西。
 
 > **原句 7:** "Tilde reached them and Elise stepped forward with the women, lifting their branches in greeting. Through the leaves of her rowan bough, Elise found herself once again pinned in the liquid dark of the Merogian’s gaze. Tilde looked at her, not through her, or around her, and her mouth tipped upwards in the tiniest of smiles."
 
