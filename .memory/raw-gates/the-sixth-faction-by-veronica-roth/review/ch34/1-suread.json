@@ -1,0 +1,83 @@
+{
+ "chapter": "ch34",
+ "pov": "第一人称（Tris 叙述，“我”）+ 一般现在时（场景与对话均为现在时）",
+ "facts": [
+  {
+   "event": "Tris 凭 Christina 先前的描述，认出那个 Dauntless 少年是 Eric——Dauntless 众首领之一，而且是年轻的那个。",
+   "who": "I",
+   "receivers": "that Dauntless boy",
+   "start": 630,
+   "end": 780,
+   "text": "A moment later I realize I know who that Dauntless boy is, based on Christina’s description of him: Eric. One of the Dauntless leaders. The young one."
+  },
+  {
+   "event": "Jeanine Matthews 站在白色办公室左侧的实验台旁，墙上投着一幅满是数字与测量的图，图的下方写着“portable signal repeater”（便携信号中继器）。",
+   "who": "Jeanine herself",
+   "receivers": "a diagram projected on the wall",
+   "start": 919,
+   "end": 1219,
+   "text": "Jeanine herself is standing at one of the lab tables on the left side of the white room, a diagram projected on the wall in front of her. I can’t make sense of it—it’s all numbers and measurements, fine lines and obscure markings. Written at the bottom of it is the phrase “portable signal repeater.”"
+  },
+  {
+   "event": "Tris 想到 Erudite 的好布料来自成排的 fabricator（三维打印机），并记起曾见 Carr 把凝固剂（coagulant）倒进水箱；传闻有个 Foxes 成员年底前想偷一台 fabricator。",
+   "who": "The Erudite",
+   "receivers": "fabricators",
+   "start": 1612,
+   "end": 1927,
+   "text": "The Erudite always have the best fabric, thanks to their rooms full of fabricators—three-dimensional printers that produce all kinds of materials, including the coagulant I watched Carr pour into the water tank. I heard a rumor that one of the Foxes is going to try to steal a fabricator before the end of the year."
+  },
+  {
+   "event": "Jeanine 说 Tris“看着非常可信”并坦言这让她意外；她记得上一次见 Tris 是在“补办的 Choosing Ceremony”上，Tris 当时选了 Abnegation。",
+   "who": "she (Jeanine)",
+   "receivers": "I (Tris)",
+   "start": 2118,
+   "end": 2295,
+   "text": "“You look very convincing,” she says. “I admit that I find that surprising. The last time I saw you, you were choosing Abnegation at the makeup Choosing Ceremony, were you not?”"
+  },
+  {
+   "event": "Jeanine 逐层说出 Tris 的异常：那女孩没在“失败不可能”的那一派完成 initiation、aptitude test 出现异常、结果只能手动录入，并直接要她解释。",
+   "who": "she (Jeanine)",
+   "receivers": "you (Tris) / her aptitude test",
+   "start": 3188,
+   "end": 3477,
+   "text": "But then, dig a little deeper and you find that the same girl didn’t complete initiation in a faction where failure is impossible. Dig deeper than that and you find out that there was an anomaly with her aptitude test, and her result had to be logged manually. Can you tell me about that?”"
+  },
+  {
+   "event": "Tris 说：她测出的是 Dauntless，因不愿这样对待父母，便求测试官说谎、手动录入结果，好让父母查不到她真正的样子。",
+   "who": "I",
+   "receivers": "my test administrator",
+   "start": 4437,
+   "end": 4701,
+   "text": "“I got Dauntless.” I look at my fingers twisted together in my lap. “And I knew I couldn’t choose Dauntless, couldn’t do that to my parents. So I begged my test administrator to lie. Log the results manually so my parents wouldn’t find out what I was really like.”"
+  },
+  {
+   "event": "Tris 说自己父亲是 council member，她不确定父亲能否看到自己的结果，所以“怕惹麻烦”，又补一句“怕再来一次惩罚”。",
+   "who": "I",
+   "receivers": "my father / Jeanine",
+   "start": 4769,
+   "end": 4946,
+   "text": "“My father’s a council member,” I say. “I didn’t know whether he could access my results or not. I was . . . afraid of getting in trouble.” I pause. “Afraid of another penalty.”"
+  },
+  {
+   "event": "Jeanine 让门边的 Erudite 男子 Shawn 送她出去，并申明她有义务提醒 Tris 不得再进这栋楼，最后为她“所受的苦”表示歉意。",
+   "who": "she (Jeanine)",
+   "receivers": "Shawn / you (Tris)",
+   "start": 5905,
+   "end": 6107,
+   "text": "“I’ll have Shawn escort you out,” she says, nodding to the Erudite man by the door. “I am obligated to remind you that you are not allowed in this building again. But I’m sorry for what you’ve endured.”"
+  }
+ ],
+ "relations": [
+  "Eric（Dauntless 首领之一，年轻的那个）出现在 Jeanine Matthews 的办公室，而 Tris 认不出他为何来 Erudite 总部。",
+  "Jeanine 的办公室桌上/墙上涉及“portable signal repeater”，是 Tris 看不懂的技术图。",
+  "Jeanine 记得 Tris 在补办的 Choosing Ceremony 上选了 Abnegation，并认为 Tris 如今装扮“看着非常可信”这件事令人意外。",
+  "Jeanine 掌握 Tris 的 aptitude test 异常与手动录入记录，并当面追问。",
+  "Tris 用“测出 Dauntless、求测试官改记录”的谎话覆盖异常，把动机归为怕父母与怕受罚（Penalty of Silence 的暗示）。",
+  "Jeanine 结束会面：命 Shawn 送出、宣布 Tris 不得再进入该楼，并称会“留意”她（Tris 听来像威胁）。"
+ ],
+ "numbers": [
+  "one（“One of the Dauntless leaders. The young one.”——Eric 只是 Dauntless 众首领之一，且是年轻的那个）",
+  "three-dimensional（“three-dimensional printers”——Erudite 的 fabricator 即三维打印机）",
+  "one of the Foxes（“one of the Foxes is going to try to steal a fabricator before the end of the year”——传闻某 Foxes 成员年底前偷 fabricator）"
+ ]
+}

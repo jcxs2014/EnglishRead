@@ -1,0 +1,92 @@
+{
+  "chapter": "ch33",
+  "pov": "第一人称（Tris）；一般现在时为主（开头一句为过去时回忆）",
+  "facts": [
+    {
+      "event": "Tris 决定今天不一样：她厌倦了把“Abnegation 出身”当石头挂在脖子上、被人只看成拘谨被动；Sly 递来衣服、旁人又嘶声等着她出门换衣时，她做了自己害怕做的那件事。",
+      "who": "I (Tris)",
+      "receivers": "my Abnegationness / the stack of clothes",
+      "start": 7346,
+      "end": 7647,
+      "text": "I’m tired of carrying my Abnegationness like a stone around my neck. I’m tired of people seeing only that—uptight, quiet, passive—when they look at me. So when Sly offers me the stack of clothes, and the hisses start again as the others anticipate me leaving the room, I do the thing I’m afraid to do."
+    },
+    {
+      "event": "Tris 里面穿紧身背心，这是她当众露过最多皮肤的一次；左肩从脊柱延伸到手臂的一片发亮粉色皮肤，是火灾留下的烧伤。",
+      "who": "I (Tris)",
+      "receivers": "her own body / the burn",
+      "start": 7838,
+      "end": 8066,
+      "text": "Beneath it, I wear a tight tank top, but it’s still the most skin I’ve ever showed in public. And rippling across my left shoulder, in a patch of shiny pink skin that spans from my spine to my arm, is the burn I got in the fire."
+    },
+    {
+      "event": "Tris 没有移开视线、没有换重心、没有清嗓子或向别处找认可，尽量干脆地反问：我为什么要腰带？",
+      "who": "I (Tris)",
+      "receivers": "Sly / the belt",
+      "start": 10249,
+      "end": 10406,
+      "text": "I don’t look away. I don’t shift my weight, or clear my throat, or look for validation anywhere else. I say, as crisply I can manage: “Why would I need one?”"
+    },
+    {
+      "event": "一名二十出头、面色严厉的男子指着房间一侧，质问 Tris 是否真以为能冒充十六岁以上，叫她回座位等到被准许。",
+      "who": "a stern-looking man (in his early twenties)",
+      "receivers": "Tris / her seat",
+      "start": 13341,
+      "end": 13553,
+      "text": "Behind me is a stern-looking man, maybe in his early twenties, who points toward the side of the room. “Did you really think you could pass as any older than sixteen? Go back to your seat until you’re dismissed.”"
+    },
+    {
+      "event": "Tris 对 Caleb 说自己不在 Abnegation：她没想过要承认自己失败了，低头看交叠在腹部的手，说“我离开了”。",
+      "who": "I (Tris)",
+      "receivers": "Caleb",
+      "start": 15695,
+      "end": 15884,
+      "text": "“I’m not in Abnegation.” I feel a lump in my throat. I didn’t think about this part—about having to admit to Caleb that I failed. I look down at my hands, clasped over my stomach. “I left.”"
+    },
+    {
+      "event": "Tris 告诉 Caleb：Candor 总部一个半星期前差点烧毁，父亲当时在里面，被烧伤但人没事。",
+      "who": "I (Tris)",
+      "receivers": "Caleb / Dad",
+      "start": 18640,
+      "end": 18758,
+      "text": "“Candor headquarters almost burned down a week and a half ago,” I say. “Dad was inside. He got burned, but he’s okay.”"
+    },
+    {
+      "event": "Tris 转达母亲的传话：去查才能测试的结果，把它和派系转换对照，找出规律。",
+      "who": "she (Mom / Natalie Prior)",
+      "receivers": "the aptitude test results / faction transfers",
+      "start": 19668,
+      "end": 19779,
+      "text": "“She said to look into the aptitude test results and compare them to faction transfers. To look for a pattern.”"
+    },
+    {
+      "event": "蓝夹克男子把 Tris 带进电梯，她回头看见 Caleb 只是站在电梯厅里、在 Jeanine Matthews 画像下方垂着双手；门关上，他根本没试着帮她。",
+      "who": "the man (in the blue jacket)",
+      "receivers": "Tris / Caleb",
+      "start": 21993,
+      "end": 22213,
+      "text": "I look back at Caleb as the man steers me into the elevator. He’s just standing in the elevator bank, beneath the portrait of Jeanine Matthews, his hands limp at his sides. The doors close. He didn’t even try to help me."
+    }
+  ],
+  "relations": [
+    "Sly→Tris：以“不带腰带”作试探，Tris 答“Why would I need one?”后说“今晚见，recruit”（通过）",
+    "Tris→Foxes：当众换衣、露出火伤，换来一片沉默（她猜那是敬意，因 Mender 就在身后）",
+    "Tris→Caleb：兄妹重逢，她坦承自己已离开 Abnegation（即 factionless），但对 Foxes 的身份只字未提",
+    "Caleb→Tris：指责她“还回去看他们”，并说自己是被 Erudite 的人点醒“过去有多糟”",
+    "Natalie Prior→Tris→Caleb：传话让查 aptitude test 结果与 faction transfers 的规律（她自称有理论要证明）",
+    "Caleb→Tris：怀疑母亲“一直在不动声色地操纵所有人”（Dad、Mrs. Black、Marcus Eaton）",
+    "Jeanine Matthews→Tris：派蓝夹克男子“立即”带她去见她；Caleb 全程未阻拦",
+    "Tris 的选择：本可扮 Dauntless 去看其总部，因母亲要她找 Caleb 谈而选了 Erudite"
+  ],
+  "numbers": [
+    "two steps（Tris 刚进门两步，嘶声就起来了）",
+    "one hour（今日任务：在派系总部待满至少一小时不被捕）",
+    "early twenties / sixteen（严厉男子约二十出头；质问 Tris 是否以为能冒充十六岁以上）",
+    "two stories high（博物馆主厅高两层）",
+    "a couple weeks ago（Sly 等人几周前从拘留中心逃出）",
+    "half the people in Amity（一半 Amity 人以为 Sly 是本派成员）",
+    "in about a minute（Christina 约一分钟就扮成端庄的 Abnegation 女子）",
+    "a week and a half ago（Candor 总部差点烧毁的时间）",
+    "less than two months（距选择仪式不到两个月，Caleb 已换了一身习惯）",
+    "a few minutes older（Caleb 只比 Tris 大几分钟）"
+  ]
+}
