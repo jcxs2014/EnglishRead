@@ -1,0 +1,95 @@
+{
+ "chapter": 31,
+ "text": "text/ch31_chapter_thirty_one_tilde.txt",
+ "chars": 7050,
+ "facts": [
+  {
+   "id": 1,
+   "event": "蒂尔德在康林的命令下试图自焚、跳舞，几乎被那股冲动吞没。",
+   "relation": "蒂尔德与康林（被其命令支配）",
+   "numbers": "",
+   "interval": [
+    919,
+    994
+   ],
+   "anchor": "When they said to burn, I tried to burn, when they said to dance, I danced."
+  },
+  {
+   "id": 2,
+   "event": "另一个如铁般确定的声音喝令“听我的”，蒂尔德抓住它当作救命绳。",
+   "relation": "蒂尔德与神秘声音（母亲留下的护佑）",
+   "numbers": "",
+   "interval": [
+    1193,
+    1258
+   ],
+   "anchor": "Then another voice, as certain as iron, and cut through the rest."
+  },
+  {
+   "id": 3,
+   "event": "玛洛琳把一杯难喝的药水灌到蒂尔德嘴边，她吐出了肉、面包和酒。",
+   "relation": "蒂尔德与玛洛琳（朋友施救）",
+   "numbers": "",
+   "interval": [
+    1408,
+    1471
+   ],
+   "anchor": "My friend was pressing a cup of foul-tasting liquid to my mouth"
+  },
+  {
+   "id": 4,
+   "event": "蒂尔德想起穆伊伦的酒壶，承认自己轻信了她，被下了毒。",
+   "relation": "蒂尔德与穆伊伦（信任转为背叛）",
+   "numbers": "",
+   "interval": [
+    2688,
+    2755
+   ],
+   "anchor": "Muirenn. The wine goblet, her jug. I had trusted her. I was a fool."
+  },
+  {
+   "id": 5,
+   "event": "艾莉丝抢过玛洛琳那把还沾着蒂尔德血的匕首，撬开戒托取出宝石，露出底下藏着的山楂刺。",
+   "relation": "蒂尔德与艾莉丝（敌对方的救援者）",
+   "numbers": "",
+   "interval": [
+    4505,
+    4603
+   ],
+   "anchor": "Elise grabbed Marolyn’s dagger, still crusted with my blood, and thrust its point beneath the band"
+  },
+  {
+   "id": 6,
+   "event": "山楂刺一离开宝石便开口说话，那是蒂尔德母亲的声音，给出祝福与一段关于丈夫之手的记忆。",
+   "relation": "蒂尔德与母亲（赠戒者，隐瞒了力量）",
+   "numbers": "",
+   "interval": [
+    4742,
+    4811
+   ],
+   "anchor": "Its voice rang clear to me as well, released from the stifling stone."
+  },
+  {
+   "id": 7,
+   "event": "玛洛琳明白过来，要艾莉丝把刺扎进蒂尔德的舌头；艾莉丝咬唇照做。",
+   "relation": "蒂尔德与玛洛琳、艾莉丝（合力解毒）",
+   "numbers": "",
+   "interval": [
+    5737,
+    5796
+   ],
+   "anchor": "said Marolyn, understanding, still holding my bleeding arm."
+  },
+  {
+   "id": 8,
+   "event": "毒解之后蒂尔德重新深吸一口气，听见“道”与树的心跳，明白了这两件事：母亲骗了她，而艾莉丝也能听见林子。",
+   "relation": "蒂尔德与母亲、艾莉丝（双重认知）",
+   "numbers": "two things",
+   "interval": [
+    6897,
+    6968
+   ],
+   "anchor": "I heard the Ways, the beating hearts of the trees, and knew two things."
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "chapter": 30,
+ "text": "text/ch30_chapter_thirty_elise.txt",
+ "chars": 22213,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Liran 第二次宣告“To dancing!”，众人合力把长桌抬到墙边清出舞池，Tilde 被他拉下舞池。",
+   "relation": "Liran（国王）与 Tilde（王后）、Elise 及全体廷臣",
+   "numbers": "无",
+   "interval": [
+    1284,
+    1362
+   ],
+   "anchor": "in tradition, the men put their hands beneath the table, and Elise joined them"
+  },
+  {
+   "id": 2,
+   "event": "Alar 向 Isen 索要妹妹共舞，Elise 冷拒，Isen 挡在中间说“She said no”，第一次替她顶住长兄。",
+   "relation": "Elise、Isen（同母弟）、Alar（长兄）三兄妹；Isen 护妹",
+   "numbers": "无",
+   "interval": [
+    7366,
+    7427
+   ],
+   "anchor": "‘She said no,’ said Isen. ‘Time you learned what that means.’"
+  },
+  {
+   "id": 3,
+   "event": "Conrin 与 Gundobar 把 Tilde 架到壁炉边，在她耳边下令，Tilde 便伸手探入火焰；Elise 立刻喊“女人的舞”打断。",
+   "relation": "Conrin（王弟）与 Gundobar（Palati）合谋对付 Tilde；Elise 出手救人",
+   "numbers": "无",
+   "interval": [
+    7801,
+    7863
+   ],
+   "anchor": "commanded something and she reached out her hand to the flame."
+  },
+  {
+   "id": 4,
+   "event": "Tilde 在舞中含糊求救“How to die”，Elise 由此断定她中的不是酒，而是血魔法“the glory”。",
+   "relation": "Tilde 向 Elise 求救；Elise 是唯一看懂的人",
+   "numbers": "无",
+   "interval": [
+    12368,
+    12442
+   ],
+   "anchor": "Elise knew the truth of what Tilde had been given. Blasphemy. Blood magic."
+  },
+  {
+   "id": 5,
+   "event": "Hadiah 把戴着银蓝戒指的手凑到 Tilde 唇边，戒指宝石由蓝转灰再转黑，Marolyn 据此断定为毒，并追问 Muirenn 在哪。",
+   "relation": "Hadiah、Marolyn（Tilde 的 Merogian 女官）忠于王后；众人怀疑失踪的 cupbearer Muirenn",
+   "numbers": "无",
+   "interval": [
+    14888,
+    14938
+   ],
+   "anchor": "its clear stone went from blue, to grey, to black."
+  },
+  {
+   "id": 6,
+   "event": "Elise 掀开新挂的壁毯按下暗门，把 Tilde 三人藏进密道，又用母亲刻的天鹅骨梭卡住门框，把追来的 Gaisa 挡在门外；她在门缝里看见 Muirenn 正与 Gaisa 私会。",
+   "relation": "Elise 与 Gaisa（王弟）、Muirenn（Suneish 女仆）对立；Elise 护 Tilde、Marolyn、Hadiah",
+   "numbers": "无",
+   "interval": [
+    15921,
+    16016
+   ],
+   "anchor": "She took two steps forward, reaching behind a new-hung tapestry of a couple kissing in a garden"
+  },
+  {
+   "id": 7,
+   "event": "Elise 借血魔法的服从规则命令 Tilde 闭嘴，Tilde 立刻安静；她掰开王后下唇，见舌与唇尽黑。",
+   "relation": "Elise 以施术者身份压制 Tilde；Tilde 沦为被操控者",
+   "numbers": "无",
+   "interval": [
+    20237,
+    20312
+   ],
+   "anchor": "‘Queen Tilde, you will be silent,’ she commanded. ‘I order you to heed me.’"
+  },
+  {
+   "id": 8,
+   "event": "Elise 讲出“the glory”的配方（天鹅肝加血与金，在月影下炼制），并推算上一次月影月是围城后两周。",
+   "relation": "Elise 向 Marolyn、Hadiah 吐露家族秘术；施毒者指向她的兄弟或 Muirenn",
+   "numbers": "two weeks after the siege",
+   "interval": [
+    20954,
+    21031
+   ],
+   "anchor": "Distilled from a swan’s liver, mixed with blood and gold under a shaded moon."
+  }
+ ]
+}

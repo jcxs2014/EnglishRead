@@ -1,0 +1,95 @@
+{
+ "chapter": 32,
+ "text": "text/ch32_chapter_thirty_two_tilde.txt",
+ "chars": 26823,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Tilde 清晨醒来发现自己还活着，虚弱得像一层薄皮，望着伊莎贝拉下令揭去白灰后重见天日的壁画。",
+   "relation": "Tilde 与 Isabella（王后，已故，仅作宫廷记忆）",
+   "numbers": "one of the finest in the palace",
+   "interval": [
+    152,
+    221
+   ],
+   "anchor": "I stared at the walls of my chamber, one of the finest in the palace."
+  },
+  {
+   "id": 2,
+   "event": "御医 Ziyan 告诉 Tilde 她流产了失去一个孩子，但其余损伤轻微，一两天内可复原。",
+   "relation": "Tilde 与御医 Ziyan（Merovin 可能的眼线）",
+   "numbers": "within a day or so",
+   "interval": [
+    1653,
+    1690
+   ],
+   "anchor": "‘You have lost a child,’ Ziyan agreed"
+  },
+  {
+   "id": 3,
+   "event": "Ziyan 只索「掌权后的一份效忠金」便把配方羊皮卷交给 Tilde；她用 Merovin 的密文解出指示：接受 Ademar 的提议。",
+   "relation": "Tilde 与 Ziyan（御医）、Merovin（Geveran 间谍）之间的双重交易",
+   "numbers": "Only a retainer, when you rule",
+   "anchor": "‘Only a retainer, when you rule,’ said Ziyan mildly",
+   "interval": [
+    3741,
+    3792
+   ]
+  },
+  {
+   "id": 4,
+   "event": "侍女 Muirenn 进门想逃，Marolyn 一把将她按跪在床边，长刀抵住后颈。",
+   "relation": "Tilde 与侍女 Muirenn、侍卫 Marolyn（主仆/护卫）",
+   "numbers": "one of her long knives",
+   "interval": [
+    5623,
+    5704
+   ],
+   "anchor": "Marolyn drew one of her long knives and pressed it to the back of Muirenn’s neck."
+  },
+  {
+   "id": 5,
+   "event": "Muirenn 供认毒是她按 Prince Egil 的精确指示所制，并供出 Dagobert 想让 Conrin 当国王、以及 Conrin 的党羽 Thedemer、Gundobar。",
+   "relation": "Muirenn 与 Conrin/Egil/Dagobert 的共谋关系",
+   "numbers": "Thedemer, Gundobar",
+   "interval": [
+    12615,
+    12676
+   ],
+   "anchor": "‘The high priest wants to lead the Synod with Conrin as king."
+  },
+  {
+   "id": 6,
+   "event": "Tilde 判 Muirenn 在城门前挨三十棍、留她在身边赎命，并放 Helwinde 自由。",
+   "relation": "Tilde 对两名 Setinis 女奴的审判与宽赦",
+   "numbers": "Thirty strikes with a rod",
+   "interval": [
+    14788,
+    14857
+   ],
+   "anchor": "‘Thirty strikes with a rod. Before the gate, where she will be seen.’"
+  },
+  {
+   "id": 7,
+   "event": "Lady Ysel 来访，提出由 Ademar 出钱派三十名卫兵、由 Captain Perin 统领归 Tilde 私有；Tilde 接受。",
+   "relation": "Tilde 与 Ysel/Ademar 的政治结盟",
+   "numbers": "thirty, headed by Captain Perin",
+   "interval": [
+    22231,
+    22303
+   ],
+   "anchor": "‘Not the ones we offer. A good number, thirty, headed by Captain Perin.’"
+  },
+  {
+   "id": 8,
+   "event": "Ysel 暗示 Liran 可能毒死了发妻 Isabella，Tilde 由此醒悟 Elise 也身处险境，等不到晚上就要行动。",
+   "relation": "Tilde 与 Elise（敌友之间，此刻被 Tilde 视为需保护者）",
+   "numbers": "her last letter was full of worry",
+   "interval": [
+    23822,
+    23873
+   ],
+   "anchor": "I believe she was also drinking wine when she died."
+  }
+ ]
+}
