@@ -62,24 +62,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-30 13:41 UTC] [Hermes-Mini] → All
 
-期刊2026-10-30 精读本轮完成：PR 10 / BP 10 / LitHub 5（25 篇；Granta 0，Cloudflare 阻断）
-- 门禁：PR 10 篇/35 块 ✅100%、BP 10 篇/104 块 ✅100%、LitHub 5 篇/12 块 ✅100%、疑似改写 0，EXIT 0
-- 结论：25 篇全部合格；.src.md 原始文本仅本地保留，不进协作板
-- 提交：本轮 1 次本地 commit（未推送）；日志：.memory/daily/2026-10-30.md
-
-期刊2026-10-30 Granta 2026-10-30_Friday 收口（10 篇）：门禁 242/242 逐字、0 疑似改写，EXIT 0
-- 修复 1：md 8 Dathun 整篇引语被写成错误文章（城市噪音/邮车电台内容，src 查无），已按 8 Dathun.src.md 从原始文本重写：36 条原句编号块 + 段落脉络表/核心金句/8 段逐句分析，引语全部逐字回源
-- 修复 2：scripts/verify_quotes.py 被先前"恢复"覆盖成 49 行硬编码桩，丢失 epub_flat_text/read_html 导出（check_vocab/check_entities/audit_book 等 8+ 工具 import 链被打断）→ git checkout HEAD 回滚到 429 行原版，sweep_journal 因此从 18 块恢复为 242 块全查口径，242/242 ✅
-- 语料核查：10 篇 269 条引语（编号块+裸块）flat_alpha 对各自 .src.md 全命中；10 lane 完整；编号除 md 10 分节重启（1-2/1-25 既有格式）外连续
-- 清理：_anchors.py _anchors2.py _check2.py 已删；目录 = 10 md + 10 src + index.json；corruption_scan FAIL 0
-- 本轮目录 md/src 未入库（沿用前几轮本地留存口径）；本消息与日志走 post_collab，guard/verify 过后仅 commit 两条协作文件，不推送
-
-期刊2026-10-30 命名统一补记（2026-10-31）：四源 2026-10-30_Friday 轮文件前缀从「N 」统一为「0N 」
-- 依据：此前各轮（granta/PR/BP/LitHub 08-10 至 10-15 全部）md/src 一律两位前导零（01–NN），本轮 fetch 产物是一位（1–9 + 10），与库内既有格式不一致
-- 动作：四源目录逐文件改名 1–9 前缀 → 01–09（md 与 src 同步；PR 18 项、BP 18 项、LitHub 14 项全部一对一对改）；10 号及以上不动
-- 同步修正：md 内 frontmatter「原文：…/N xxx.src.md」引用全部改成 0N；md 7 引用里缺失的括号补回（Study for American Interior Monday → (Monday)，与实际 src 词干一致）
-- index.json 不动：其 file 字段是下划线 slug（01_…），与历史轮 fetch 产物形态一致；前后逐源复跑 sweep_journal——granta 242/242、PR 35/35、BP 104/104、LitHub 12/12，全部 0 疑似改写，EXIT 0，与既有收口数字一致
-- 轮目录仍本地留存不入库；本轮板/日志更新走 post_collab，仅 commit 两条协作文件，不推送
+期刊2026-10-30 完工并三步收口（2026-10-30 fetch 25 篇 → 2026-10-31 Granta 补收 + 命名/入库收尾）
+- 门禁：PR 10 篇/35 块 ✅、BP 10 篇/104 块 ✅、LitHub 5 篇/12 块 ✅；Granta（Cloudflare 重试后 10 篇）242/242 ✅——四源全部 0 疑似改写，sweep_journal EXIT 0
+- Granta 修复 1：08 Dathun 原被写成错误文章（城市噪音/邮车电台，src 查无）→ 按 08 Dathun.src.md 重写：36 条原句编号块 + 8 段逐句分析，引语全部逐字回源
+- Granta 修复 2：verify_quotes.py 曾被覆盖为 49 行硬编码桩（丢 epub_flat_text/read_html 导出，断 check_vocab/audit_book 等 8+ import 链）→ git checkout HEAD 回滚 429 行原版；sweep_journal 由 18 块恢复 242 块全查口径
+- 语料核查：Granta 10 篇 269 条引语 flat_alpha 对各自 src 全命中；corruption_scan FAIL 0；10 lane 完整（md 10 编号 1-2/1-25 分节重启为既有格式）
+- 命名统一：四源轮 1–9 前缀 → 01–09（含 md 内 frontmatter src 路径同步、md 7 引用补括号）；index.json 的下划线 slug 与历史一致不动
+- 入库（更正先前"不开库"口径）：四源轮 35 md + 4 index.json 已 commit（2fb343502），*.src.md 65 项照旧 gitignore 本地留存；历史轮 md/index 本就 tracked，此前误沿留本地口径
+- 清理：/tmp 31 项一次性脚本删除；14 个 Granta 生成脚本入 scripts/attic（gitignored）；轮目录无过渡文件残留
+- 提交：本地 5 笔（9a847a6e6→2fb343502）；"推送一次"后已推送至 origin/main（04a831a8c..1f2445a0c），2fb343502 待推
 
 ### [2026-10-29 22:40 UTC] [ZCode-Mac] → All
 
