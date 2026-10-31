@@ -16,11 +16,11 @@ modified: "2026-10-31"
 - 「外来者被集体排外」的**兑现方式异常**：排外不靠恶意，靠沉默——一屋子人同时移开视线、压低声音接着说话，酒保的手在发抖。
 - 「神秘绅士搭讪」的**反转**：起手是主动讲故事的人，中途失手打翻酒杯，可赔回来的那杯大了一倍，芬据此断定他另有所图。
 - 「可疑的导师」的**未兑现**：Smithson 用一句反问制造阴影，Jane 在芬的怀疑刚成形时就赶来接人，两人都不肯把话说全。
-- 「管理严格」的**部分兑现**：校长的驯狮人比喻里没有提到棍子，芬替读者问的那句被挡回去。
+- 「管理严格」的**部分兑现**：校长把管束比作驯狮人，芬追问驯狮人是不是要举把椅子，得到的回答是那把椅子可有可无，别的什么也没说。
 
-**人物弧线**：芬——从用「乐观加几加仑油漆」来开解自己的破屋，到在密信面前承认「有些东西根本没有词汇可译」，再到在酒馆主动泼掉自己的酒来结束对话、却在车上说自己不过是想找个饭碗；她的锋利始终收在不动声色地脱身里，好奇心总走在害怕前面一步。
+**人物弧线**：芬——从用「乐观加几加仑油漆」来开解自己的破屋，到在密信面前承认「有些东西根本没有词汇可译」，再到在酒馆主动把自己的酒泼到对方腿上结束对话；她的锋利始终收在不动声色地脱身里，好奇心总走在害怕前面一步。这一晚真正透露底牌的是对面的人：Jane 急着把她按回学校，还自嘲不过是想要一份薪水。
 
-**叙事手法**：第一人称限知，先用一串物件清单交代环境（地毯、床、书桌、弹孔、塞窗缝的纸团），再靠几段转述把学校旧事从本地人的闲话升级成有调查、有档案的事件（银行劫案、实弹战棋、Agincourt 的自制火箭），最后让一个新进场的陌生人用「我听说过你们学校」的话头把这份闲话引向她本人。
+**叙事手法**：第一人称限知，先用一串物件清单交代环境（地毯、床、书桌、弹孔、塞窗缝的纸团），再靠几段转述把学校旧事从本地人的闲话升级成有调查、有档案的事件（银行劫案、实弹战棋、Agincourt 的自制火箭），最后让一个新进场的陌生人用「one hears things」这种含糊话头把这份闲话引向她本人。
 
 ## 精读
 
@@ -122,7 +122,7 @@ modified: "2026-10-31"
 
 > **原句 9:** "Phil blinked. ‘I hadn’t even heard about Grayne’s until about a week ago, so that’s an awfully weak threat. Or is it a warning? Or an insinuation? It sounds more like an insinuation to me.’"
 
-**中文理解**：「你有没有想过，」他轻声说，「为什么你从来没听说过离开 Grayne’s 的教师后来怎样了？」
+**中文理解**：「我连 Grayne’s 都是大约一周前才听说的，所以这实在算不上什么像样的威胁。还是说这是警告？还是某种影射？听起来更像影射。」
 
 **关键词**：an awfully weak threat / Or is it a warning? / more like an insinuation
 
@@ -134,7 +134,7 @@ modified: "2026-10-31"
 
 > **原句 10:** "He smoothed his tie. ‘I don’t think Miss Bredon was quite the scholar you are, Phil – I may call you Phil, I hope? Do call me Jeffrey. Miss Bredon had … shall we say, other reasons to learn Latin.’"
 
-**中文理解**：他抹了抹领带。「我不认为 Miss Bredon 像你这样有学问，芬——我可以叫你芬吧？叫我 Jeffrey 就好。Miss Bredon 嘛……这么说吧，她学拉丁文还有别的原因。」
+**中文理解**：他抹了抹领带。「我不认为 Miss Bredon 像你这样有学问，Phil——我可以叫你 Phil 吧？叫我 Jeffrey 就好。Miss Bredon 嘛……这么说吧，她学拉丁文还有别的原因。」
 
 **关键词**：Do call me Jeffrey / Miss Bredon had … shall we say / other reasons to learn Latin
 
@@ -158,11 +158,11 @@ modified: "2026-10-31"
 
 > **原句 12:** "‘Agincourt.’ He raised a hand. ‘Yes, I know Agincourt only had bows and arrows. The official story was they were recreating Agincourt if they’d had modern artillery. But when the investigators got there, there were no cannons or mortars on site, and a lot of fast talking about how they’d been using homemade rockets."
 
-**中文理解**：「阿金库尔。」他抬起一只手。「对，我知道阿金库尔只有弓箭。官方说法是她们在重演一场拥有现代火力的阿金库尔。但等调查人员赶到，现场并没有大炮或迫击炮，只有一番关于她们用的是自制火箭的 fast talking。」
+**中文理解**：「阿金库尔。」他抬起一只手。「对，我知道阿金库尔只有弓箭。官方说法是她们在重演一场拥有现代火力的阿金库尔。但等调查人员赶到，现场并没有大炮或迫击炮，只剩下一番关于她们用的是自制火箭的巧言。」
 
 **关键词**：Agincourt / if they’d had modern artillery / no cannons or mortars / a lot of fast talking
 
-**为什么这样写**：这段把一件旧事讲成三层：学校的官方说法（重演一场带现代火力的阿金库尔）、调查人员看到的现场（没有大炮迫击炮），以及随后那番 fast talking。而叙述者还预先替知情人堵了一句「我知道阿金库尔只有弓箭」——先承认对方说得有道理，再把结论推到火箭上。这套「先让步再改口」的说服结构，和芬在学校走廊上听到的校长的说法同型。
+**为什么这样写**：这段把一件旧事讲成三层：学校的官方说法（重演一场带现代火力的阿金库尔）、调查人员看到的现场（没有大炮迫击炮），以及随后那番 fast talking。而叙述者还预先替知情人堵了一句「我知道阿金库尔只有弓箭」——先承认对方说得有道理，再把结论推到火箭上。这套「先让步再改口」的说服结构，和本章里 Smithson 转述的校长那套「冷静、严格地管束」的说法同型。
 
 **读者视角提示**：读者听得出这个人对学校的了解不像道听途说，倒像念过卷宗。
 
@@ -182,13 +182,15 @@ modified: "2026-10-31"
 
 > **原句 14:** "‘The Department doesn’t like Grayne’s. They’d be delighted to have an excuse to close us down. I’m going to have to tell the Head about this.’ They’d arrived at Jane’s car, a subdued but sleek number in dark grey. Jane thumbed a control from her pocket and the car door swung open. ‘Get in.’"
 
-**中文理解**：「他明显是教育部派来的探子。这些年他们改叫 Education and Skills，可还是同一窝虫子。」
+**中文理解**：「教育部不喜欢 Grayne’s。他们巴不得有个借口把我们关掉。这件事我得告诉 Head。」他们到了 Jane 的车边——一辆深灰色、低调却流线型的新车。Jane 从口袋里按了个遥控，车门应声弹开。「上车。」
 
 **关键词**：have an excuse to close us down / tell the Head about this / the car door swung open
 
-**为什么这样写**：Jane 先给了一句不留余地的定性（他是教育部派来的探子），到这里才把真正的理由补上：教育部不喜欢 Grayne’s，巴不得有个借口把它关掉。这条理由把「有人在打听 Grayne’s」从可疑升级成有利益冲突——有人想吞掉它，于是先来摸底，而摸底的人还得由部长来收网。芬这才把那个赔来的大一号酒杯、那次假失手、那句「我听说过你们学校的闲话」串成一条线，而这条线的终点正指向学校本身。句末一个「Get in」把话收成命令：她不需要说服芬，只需要把芬塞进车里。
+**为什么这样写**：Jane 先给了一句不留余地的定性（他是教育部派来的探子），到这里才把真正的理由补上：教育部不喜欢 Grayne’s，巴不得有个借口把它关掉。这条理由把「有人在打听 Grayne’s」从可疑升级成有利益冲突——有人想吞掉它，于是先来摸底，而摸底这件事最后还得由教育部来收网。芬这才把那个赔来的大一号酒杯、那次假失手、那句「Just common gossip」串成一条线，而这条线的终点正指向学校本身。句末一个「Get in」把话收成命令：她不需要说服芬，只需要把芬塞进车里。
 
 **读者视角提示**：读者会重新回想那个自称做医疗信息的男人问过的每一个问题，忽然明白他问的不是学校，是学校还能撑多久。
+
+---
 
 > **原句 15:** "‘She was the one who sent me to collect you. And I shall tell her exactly what I saw and heard,’ Jane said coldly. She twisted the car key and the dashboard lit up."
 
@@ -216,7 +218,7 @@ modified: "2026-10-31"
 | vocabulary | 词汇，术语 | It was like attempting a translation when one didn’t have any of the vocabulary. |
 | insinuated | 溜进来；insinuate oneself into 指不动声色地挤进 | Mr Smithson insinuated himself into the room. |
 | unmemorable | 记不住的，毫无特征的 | He looked precisely the same as he had done two days ago – which was to say, completely unmemorable. |
-| bibliographical | 书目学的，文献目录的 | It’s our standard bibliographical tool for research – collects everything that’s been published in books and journals and so on. |
+| bibliographical | 书目学的，文献目录的 | ‘It’s our standard bibliographical tool for research – collects everything that’s been published in books and journals and so on. |
 | scrupulously | 严谨地，严格地 | Well, almost everything,’ she added scrupulously. |
 | unspeakably | 无法言说地，极其 | ‘You know, I never did find out, and that infuriates me unspeakably. |
 | self-fulfilling | 自我实现的，自我应验的 | Which was the sort of self-fulfilling prophecy that came up so often in Classical oracles. |
@@ -247,7 +249,7 @@ modified: "2026-10-31"
 | school | 学校 | ‘It’s just a school. |
 | cider | 苹果酒 | ‘Just moved here,’ Phil explained, and took a swig of the cider. |
 | comment | 评论，评价 | ‘It’s a comment. |
-| job | 工作，职位 | I needed a job; the school needed a Latin teacher. |
+| job | 工作，职位 | ‘I needed a job; the school needed a Latin teacher. |
 | moment | 片刻，霎时 | Phil allowed herself to speculate for a moment. |
 | bar | 吧台 | The light from the bar gleamed on her glasses. |
 | barman | 酒保 | The barman’s hand shook, and beer splashed from the glass he’d been filling. |
