@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch34",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch34_chapter_thirty_four_tilde.txt",
+ "facts": [
+  {
+   "fact": "距她在 ch33 偷的那个吻已两个月",
+   "anchor": "since I had stolen a kiss",
+   "start": 189,
+   "end": 214
+  },
+  {
+   "fact": "这片林地老根处埋过盐，林子的声音几乎哑了",
+   "anchor": "Salt had been buried where the old roots had been",
+   "start": 1959,
+   "end": 2008
+  },
+  {
+   "fact": "她在猎场上问 Merovin 一个 Geveran 人下几边棋",
+   "anchor": "How many sides does a Geveran play",
+   "start": 3290,
+   "end": 3324
+  },
+  {
+   "fact": "她认出近卫 Odon 就是当年在 Nandenys 城下督刑的 Nefka",
+   "anchor": "the gates of Nandenys",
+   "start": 14892,
+   "end": 14913
+  },
+  {
+   "fact": "Odon 说宫廷把王子们血里的分裂越挖越深",
+   "anchor": "their own gobbet of power",
+   "start": 15720,
+   "end": 15745
+  },
+  {
+   "fact": "Isen 杀死野猪后向它低头致敬",
+   "anchor": "lord of the wood",
+   "start": 18092,
+   "end": 18108
+  },
+  {
+   "fact": "一群野猪与家猪冲进峡谷把 Isen 踩死",
+   "anchor": "A stampede of boars and pigs",
+   "start": 20949,
+   "end": 20977
+  },
+  {
+   "fact": "Alar 对她低声说不是所有天鹅都能活下来",
+   "anchor": "Not all swans survive",
+   "start": 23405,
+   "end": 23426
+  }
+ ]
+}
