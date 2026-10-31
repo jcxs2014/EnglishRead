@@ -1,0 +1,67 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch26",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch26_technology_jokes_that_need_a_reboot.txt",
+ "facts": [
+  {
+   "fact": "用点和划写成的道歉叫什么？Remorse code——remorse（悔恨）与 Morse code（摩斯码）同音",
+   "anchor": "What do you call an apology written in dots and dashes? Remorse code.",
+   "start": 84,
+   "end": 153
+  },
+  {
+   "fact": "直升机发明俱乐部的成员讨论打扫分工，我说“也许该搞个 rota system（轮值表）”，众人齐喊“我们知道！”——rota 谐音 rotor（旋翼），直升机的事他们当然懂",
+   "anchor": "All of us at Try To Invent A Helicopter Club have been attempting to figure out how best to make sure everyone does their fair share of cleaning. I said, ‘Perhaps we should have a rota system,’ and they all said, ‘YES WE KNOW.’",
+   "start": 158,
+   "end": 385
+  },
+  {
+   "fact": "外号“人形电脑”：不是因为聪明，而是一没人理就十分钟内睡着——电脑待机休眠",
+   "anchor": "My nickname is ‘the human computer’. Not because I’m smart, but because I go to sleep if left alone for ten minutes.",
+   "start": 390,
+   "end": 506
+  },
+  {
+   "fact": "爱尔兰技术为什么用双重认证？To be sure, to be sure——爱尔兰口音的强调说法，也字面指“两次确认”",
+   "anchor": "Why does Irish technology involve two-factor authorization? To be sure, to be sure.",
+   "start": 511,
+   "end": 594
+  },
+  {
+   "fact": "在梵蒂冈最好的付款方式是 PayPal decree——papal decree（教皇诏令）被换成 PayPal",
+   "anchor": "The best way to pay for things in Vatican City is by PayPal decree.",
+   "start": 679,
+   "end": 746
+  },
+  {
+   "fact": "别用 beef stew 当密码：它 isn’t stroganoff——strong enough 谐音 Stroganoff（奶油蘑菇牛肉）",
+   "anchor": "Why shouldn’t you use ‘beef stew’ as a computer password? It isn’t stroganoff.",
+   "start": 1867,
+   "end": 1945
+  },
+  {
+   "fact": "初学打字的人为什么摘不下帽子？caps lock 开着——大写锁定／帽子（caps）锁住",
+   "anchor": "Why couldn’t the beginner typists remove their hats? They had caps lock on.",
+   "start": 2113,
+   "end": 2188
+  },
+  {
+   "fact": "手机为什么戴眼镜？它丢了 contacts——联系人／隐形眼镜",
+   "anchor": "Why was the mobile phone wearing glasses? Because it lost its contacts.",
+   "start": 2193,
+   "end": 2264
+  },
+  {
+   "fact": "在网上买了深色酸味面包：a site for sour ryes——site for sore eyes（让人看了舒服的东西）谐音，sour rye 是酸黑麦面包",
+   "anchor": "I bought some dark, vinegary bread online. Boy, was that a site for sour ryes.",
+   "start": 2344,
+   "end": 2422
+  },
+  {
+   "fact": "手机电脑确实一直监视你，但最糟的不是它们：你的吸尘器已经收集你的脏东西好多年——gather dirt 双关“收集灰尘／收集黑料”",
+   "anchor": "Sure, your phone and computer spy on you all the time, but they’re not the worst. Your hoover has been gathering dirt on you for years.",
+   "start": 2811,
+   "end": 2946
+  }
+ ]
+}
