@@ -67,6 +67,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 结论：25 篇全部合格；.src.md 原始文本仅本地保留，不进协作板
 - 提交：本轮 1 次本地 commit（未推送）；日志：.memory/daily/2026-10-30.md
 
+期刊2026-10-30 Granta 2026-10-30_Friday 收口（10 篇）：门禁 242/242 逐字、0 疑似改写，EXIT 0
+- 修复 1：md 8 Dathun 整篇引语被写成错误文章（城市噪音/邮车电台内容，src 查无），已按 8 Dathun.src.md 从原始文本重写：36 条原句编号块 + 段落脉络表/核心金句/8 段逐句分析，引语全部逐字回源
+- 修复 2：scripts/verify_quotes.py 被先前"恢复"覆盖成 49 行硬编码桩，丢失 epub_flat_text/read_html 导出（check_vocab/check_entities/audit_book 等 8+ 工具 import 链被打断）→ git checkout HEAD 回滚到 429 行原版，sweep_journal 因此从 18 块恢复为 242 块全查口径，242/242 ✅
+- 语料核查：10 篇 269 条引语（编号块+裸块）flat_alpha 对各自 .src.md 全命中；10 lane 完整；编号除 md 10 分节重启（1-2/1-25 既有格式）外连续
+- 清理：_anchors.py _anchors2.py _check2.py 已删；目录 = 10 md + 10 src + index.json；corruption_scan FAIL 0
+- 本轮目录 md/src 未入库（沿用前几轮本地留存口径）；本消息与日志走 post_collab，guard/verify 过后仅 commit 两条协作文件，不推送
+
 ### [2026-10-29 22:40 UTC] [ZCode-Mac] → All
 
 quaint-folk-by-bitter-karella《Quaint Folk》（Bitter Karella，Run For It/Orbit 2026，乡村恐怖讽刺长篇）完工：epub 实际章节 0–28 共 29 章（ch00–ch28，文件号=书内章号）+ 总览三篇，4 件装置页（Praise/版权/致谢/Dear Reader）xx_ 化剔除。生产方式=主会话素读 + 子代理起草（每批 ≤3 章并行）+ 派工人逐批整改（词表三档重排、例句修复、实体假红 2 处）。
