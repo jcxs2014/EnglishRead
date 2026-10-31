@@ -1,0 +1,95 @@
+{
+ "chapter": 10,
+ "text": "text/ch10_chapter_ten_tilde.txt",
+ "chars": 26280,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Tilde 一行被 Gundobar 催促着推进宫中大厅，只见庭上三大派系（Galenish 贵族、Cynghal 武士、Merogian tarn）正吵成一片，为两桩人命案互相叫骂。",
+   "relation": "Tilde 与 Gundobar：Gundobar 是把她引进这场审判的宫廷侍从，明为护送实为设局；Tilde 与 Liran：尚未照面的未婚夫兼杀父仇人。",
+   "numbers": "",
+   "interval": [
+    22,
+    90
+   ],
+   "anchor": "We entered a court in uproar. Ushered ahead by an insistent Gundobar"
+  },
+  {
+   "id": 2,
+   "event": "High Priest Dagobert 代表控方在高等法庭陈述，指控 Grey Prince Conrin 在夏季比武（summer melee）中致一名 Cynghal 自耕农死亡，并称 Merogian 马妇之死也一并归案。",
+   "relation": "Dagobert 与 Conrin：高祭司替亲王起诉又暗中护他；Dagobert 与国王 Liran：祭司的权柄须看国王脸色。",
+   "numbers": "summer melee；Cynghal yeoman；Merogian horsewife",
+   "interval": [
+    7152,
+    7239
+   ],
+   "anchor": "You have been accused of causing the death of a Cynghal yeoman during the summer melee."
+  },
+  {
+   "id": 3,
+   "event": "马夫家的男孩当庭作证：马是被亲王勒起后正面踢中自耕农，并非后蹄；亲王冲回场内时直接从倒地起身的姑母身上碾过，连头都没回。",
+   "relation": "男孩与 Merogian tarn（他的房东/雇主，替他担保诚实）；男孩与 Conrin：加害者与孤儿证人。",
+   "numbers": "front on / hinds（front-on kick vs hind kick）",
+   "interval": [
+    12136,
+    12172
+   ],
+   "anchor": "The horse kicked the yeoman front on"
+  },
+  {
+   "id": 4,
+   "event": "Gundobar 以一句“Perhaps the new queen-to-be can settle the matter.”把 Tilde 推到全场注目之下；众人随即讥讽她像仆人、满身尘土血污，国王 Liran 冷眼盯住她。",
+   "relation": "Gundobar 与 Tilde：当众推她入局以求羞辱；Liran 与 Tilde：君王以目光把她钉在原地，如蛇被刀刃钉住。",
+   "numbers": "",
+   "interval": [
+    13734,
+    13786
+   ],
+   "anchor": "‘Perhaps the new queen-to-be can settle the matter.’"
+  },
+  {
+   "id": 5,
+   "event": "Tilde 被迫开口，反问全场：若亲王的刀捅穿了一个人的心，他算不算自己下的手，还是要怪那把刀？——以此逼 Conrin 无法再把责任推给马。",
+   "relation": "Tilde 与 Conrin：她当庭以比喻指控他卸责；Tilde 与 Liran：他先怒后笑，转而拿这话去问儿子。",
+   "numbers": "",
+   "interval": [
+    17816,
+    17871
+   ],
+   "anchor": "if the prince’s blade struck through the heart of a man"
+  },
+  {
+   "id": 6,
+   "event": "Liran 当庭宣判：赔自耕农家一枚金币、其 erl 三枚银币（因他是战士），马妇家两枚银币，马匹归 Ducal Uhtren，赔偿从亲王的赛事彩头里出。",
+   "relation": "Liran 与 Conrin：父亲以判决当众削儿子的脸面与财产；Liran 与 Uhtren：以赐马安抚 Cynghal 封臣。",
+   "numbers": "one gold；three silver；two silver；One gold will be paid to the Cynghal yeoman’s family, three silver to his erl",
+   "interval": [
+    23864,
+    23941
+   ],
+   "anchor": "One gold will be paid to the Cynghal yeoman’s family, three silver to his erl"
+  },
+  {
+   "id": 7,
+   "event": "Conrin 抗辩说马比那两条命还值钱，Liran 以不合年龄的迅疾反手一记重掌掴在他脸上，把他打得踉跄后退，由弟弟 Gaisa 扶住。",
+   "relation": "Liran 与 Conrin：父子在王座前公开决裂；Gaisa 与 Conrin：弟弟护兄。",
+   "numbers": "",
+   "interval": [
+    24529,
+    24573
+   ],
+   "anchor": "Liran struck his son, hard, across the face."
+  },
+  {
+   "id": 8,
+   "event": "章末 Tilde 看着被囚于自身牢笼般的公主，想起母亲的话：这从来不是一场狩猎，而必须是一场屠杀——她要在王朝的裂缝里种下种子，把它撑裂。",
+   "relation": "Tilde 与母亲（Rivani 式的教诲）：母亲的话是她行动的准则；Tilde 与公主：她窥见对方笼中鸟般的处境。",
+   "numbers": "",
+   "interval": [
+    26215,
+    26279
+   ],
+   "anchor": "This is not a hunt, my mother had said. This must be a massacre."
+  }
+ ]
+}

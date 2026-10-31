@@ -1,0 +1,95 @@
+{
+ "chapter": 9,
+ "text": "text/ch09_chapter_nine_elise.txt",
+ "chars": 13716,
+ "facts": [
+  {
+   "id": 1,
+   "event": "海因拉着伊莉丝穿过内堡去二层露台，说伊森让他们去直视敌人的眼睛。",
+   "relation": "弟弟海因与姐姐伊莉丝",
+   "numbers": "an eight-year-old boy",
+   "interval": [
+    34,
+    120
+   ],
+   "anchor": "Hein pulled Elise back through the keep, skirting around servants, nobles and priests."
+  },
+  {
+   "id": 2,
+   "event": "康林在露台上说「那婊子来了」，把到来的王后一行称作贱货，并嘲讽赛妮菲尔夫人；达格玛夫人听了脸红低头。",
+   "relation": "兄长康林与到来的王后、达格玛",
+   "numbers": "",
+   "interval": [
+    2847,
+    2925
+   ],
+   "anchor": "Yes the bitch is come,’ muttered Conrin, waving his hand out towards the town."
+  },
+  {
+   "id": 3,
+   "event": "艾玛尔是康林的长期订婚对象，她父亲是本国公爵、叔父是国王的高祭司，但父亲规定儿子必须赢下不止一场比武才能成婚。",
+   "relation": "康林的未婚妻艾玛尔与康林",
+   "numbers": "one of their father’s only rules",
+   "interval": [
+    9077,
+    9149
+   ],
+   "anchor": "her father a ducal in her homeland, her uncle the king’s own high priest"
+  },
+  {
+   "id": 4,
+   "event": "达格玛年仅十五岁且怀有身孕，她丈夫马尔卡尔·泰德默靠统治林道、对毛皮与瓦片出口征重税，把她打扮成展示货物的样子。",
+   "relation": "达格玛与其丈夫马尔卡尔",
+   "numbers": "being barely fifteen",
+   "interval": [
+    4731,
+    4802
+   ],
+   "anchor": "her husband, Markal Thedemer took a rich tax on either of those exports"
+  },
+  {
+   "id": 5,
+   "event": "埃吉尔说明康林被传唤到庭，是因为他在比武场上失控，导致一名男子坠马。",
+   "relation": "弟弟埃吉尔与兄长康林",
+   "numbers": "",
+   "interval": [
+    8418,
+    8459
+   ],
+   "anchor": "He lost his temper on the jousting field,"
+  },
+  {
+   "id": 6,
+   "event": "伊森出现在楼梯阴影里，说梅洛吉亚人徒步狩猎，他们的役畜是矮马与牛，只用于劳作不用于战争。",
+   "relation": "兄长伊森与众弟妹",
+   "numbers": "ponies and oxen",
+   "interval": [
+    11612,
+    11689
+   ],
+   "anchor": "Their native beasts are ponies and oxen,’ he added. ‘For labour, not for war."
+  },
+  {
+   "id": 7,
+   "event": "艾玛尔请求随同去法庭旁观未婚夫受审，伊森说她需要一位高等级贵妇作陪；伊莉丝这才意识到身为国王的女儿自己就能充当引路人。",
+   "relation": "艾玛尔与伊莉丝",
+   "numbers": "",
+   "interval": [
+    12505,
+    12556
+   ],
+   "anchor": "Or the king’s daughter, Elise realised with a jolt."
+  },
+  {
+   "id": 8,
+   "event": "阿尔德维尼（新王后）抵达内堡，两名侍女一高一矮一黑一金地夹护着她；她抬头与露台上的伊莉丝对视，伊莉丝握住骨梭仍止不住腹中不安，觉得那是恐惧。",
+   "relation": "伊莉丝与新王后（父亲的妻子、她的监护对象）",
+   "numbers": "two braids",
+   "interval": [
+    13303,
+    13382
+   ],
+   "anchor": "That gaze was dark, as dark as the forest shadows that whispered to her dreams."
+  }
+ ]
+}

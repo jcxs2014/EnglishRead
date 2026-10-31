@@ -1,0 +1,95 @@
+{
+ "chapter": 7,
+ "text": "text/ch07_chapter_seven_elise.txt",
+ "chars": 6222,
+ "facts": [
+  {
+   "id": 1,
+   "event": "埃莉丝走进法尔坎宫中西向俯瞰盐湖的塔楼房间，认定这里是母亲生前最爱的庇护所。",
+   "relation": "埃莉丝—母亲伊莎贝拉（母女）",
+   "numbers": "",
+   "interval": [
+    148,
+    200
+   ],
+   "anchor": "Elise knew this was her mother’s favourite sanctuary"
+  },
+  {
+   "id": 2,
+   "event": "八岁的弟弟海因站在门口不敢跨过香草芦苇，手里捧着偷来的银鱼催姐姐动手。",
+   "relation": "海因—埃莉丝（姐弟）",
+   "numbers": "He was eight, and she twenty-two.",
+   "interval": [
+    2238,
+    2271
+   ],
+   "anchor": "He was eight, and she twenty-two."
+  },
+  {
+   "id": 3,
+   "event": "埃莉丝提醒海因：赛内菲尔夫人本身就是梅洛吉亚人，乌赫特伦公爵奉父命娶她以缔结西部和平。",
+   "relation": "赛内菲尔夫人—乌赫特伦公爵（夫妻）；赛内菲尔—梅洛吉亚王国",
+   "numbers": "sealing the peace with the mid-western Merogian kingdom",
+   "interval": [
+    2424,
+    2473
+   ],
+   "anchor": "‘Lady Cynefel is a Merogian,’ Elise reminded him."
+  },
+  {
+   "id": 4,
+   "event": "埃莉丝用小线刀割开床垫缝线，把银鱼塞进羽毛稻草中，再细密缝合并拉回被褥掩盖痕迹。",
+   "relation": "埃莉丝—海因（姐弟合谋）",
+   "numbers": "",
+   "interval": [
+    3280,
+    3340
+   ],
+   "anchor": "Using her fine blade, she slit apart the threads at the seam"
+  },
+  {
+   "id": 5,
+   "event": "埃莉丝忆起父亲因她“诽谤”而下令夺书焚书、不许她再读一字，发誓从此不再违抗父亲。",
+   "relation": "埃莉丝—父亲（父女/君臣）",
+   "numbers": "",
+   "interval": [
+    4685,
+    4743
+   ],
+   "anchor": "Take her books! Burn them! She is not to read another word"
+  },
+  {
+   "id": 6,
+   "event": "埃莉丝的手指抚过母亲藏书的书脊后缩回，悲恸攫住心口，呼吸发紧、胸口发颤。",
+   "relation": "埃莉丝—母亲遗物（藏书）",
+   "numbers": "",
+   "interval": [
+    5122,
+    5156
+   ],
+   "anchor": "grief set its claws into her heart"
+  },
+  {
+   "id": 7,
+   "event": "海因把手伸进口袋掏出宠物鼠莫格，告诉她莫格为她感到骄傲。",
+   "relation": "海因—莫格（宠物鼠）；海因—埃莉丝",
+   "numbers": "",
+   "interval": [
+    6001,
+    6036
+   ],
+   "anchor": "‘Mog is proud of you,’ he told her."
+  },
+  {
+   "id": 8,
+   "event": "城门号角骤然吹响，海因慌忙把莫格塞回口袋，众人齐惊——新王后到了。",
+   "relation": "新王后—宫廷（到来）",
+   "numbers": "",
+   "interval": [
+    6068,
+    6120
+   ],
+   "anchor": "Then the gate horns blasted, loud through the window"
+  }
+ ]
+}

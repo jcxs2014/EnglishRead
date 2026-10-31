@@ -1,0 +1,95 @@
+{
+ "chapter": 6,
+ "text": "text/ch06_chapter_six_tilde.txt",
+ "chars": 26046,
+ "facts": [
+  {
+   "id": 1,
+   "event": "三人同车离开 Nandenys，Gundobar 刻意绕过 Ardwen 的贸易城镇，夜里锁门睡在马车里、开舱迎雨。",
+   "relation": "Tilde 与侍女 Marolyn、表亲 Hadiah 同行，Gundobar 是押送的 Galenish 领主。",
+   "numbers": "three of us",
+   "interval": [
+    78,
+    167
+   ],
+   "anchor": "It carried the three of us away from Nandenys, through the shadowed valleys of the hills."
+  },
+  {
+   "id": 2,
+   "event": "抵达森林关卡：Liran 每夺一处氏族地便筑铁石堡垒，Ardwen 关前立起两座新凿石灰岩塔，挂暴君的天鹅结；Merogian 商贩的货车被翻、衣服被撕、通行证被毁。",
+   "relation": "关卡由 Galenish 守军把守；被拦下的多是 Merogian（Ardweni），Cynghal、Galenish 与少数东方商人可通行。",
+   "numbers": "two towers of fresh cut limestone",
+   "interval": [
+    1700,
+    1793
+   ],
+   "anchor": "Their carts had been ransacked, their clothes torn; one man’s barley grain was still spilling"
+  },
+  {
+   "id": 3,
+   "event": "Marolyn 跳下车顶查看，回报一棵树倒在路上——hannerast 上树从不自倒，三人疑为凶兆。",
+   "relation": "Marolyn 是 Tilde 的贴身侍女兼护卫，Hadiah 是通晓宫廷礼节的表亲。",
+   "numbers": "three-carriage road",
+   "interval": [
+    8591,
+    8623
+   ],
+   "anchor": "‘A tree has fallen on the road.’"
+  },
+  {
+   "id": 4,
+   "event": "Tilde 被林声吸引，一步步走进 kithwood 两树深处与祖先对话，被 Gundobar 当场喝问；她谎称采催孕草药（lady’s mantle）遮掩。",
+   "relation": "Gundobar 是 Cynghal 法律的看守者（Palati），他憎恶 Tilde，却也怕带着残损的新娘回宫交不了差。",
+   "numbers": "two trunks deep; a boy-child",
+   "interval": [
+    13995,
+    14079
+   ],
+   "anchor": "Gundobar was standing on the road behind me. I was two trunks deep into the kithwood"
+  },
+  {
+   "id": 5,
+   "event": "叛军劫车：箭矢破空，Tilde 拽倒 Hadiah，Gundobar 臂上中箭；约十五名 Merogian 叛军持镰刀、scramasax、木矛冲出林缘，与披甲守卫混战。",
+   "relation": "叛军是 Merogian 抵抗者，Tilde 一方是 Cynghal/Galenish 护卫队。",
+   "numbers": "perhaps fifteen men and women",
+   "interval": [
+    18689,
+    18773
+   ],
+   "anchor": "I grabbed Hadiah’s hand and dragged her to the ground just as arrows hissed overhead"
+  },
+  {
+   "id": 6,
+   "event": "叛军头目钻进车厢，自称知道“真正的古道”（the Ways、druidim），要带 Tilde 入林；Tilde 为不再有失败的叛乱而拒绝救援。",
+   "relation": "头目操 Kanaaan 东部口音（与 Sanafin 相同），视 Tilde 为可劫走的公主；Tilde 反视自己为未来的殉道者。",
+   "numbers": "only fifteen fighters",
+   "interval": [
+    22411,
+    22449
+   ],
+   "anchor": "‘We don’t need saving,’ I said at last"
+  },
+  {
+   "id": 7,
+   "event": "头目反手扇倒 Tilde，又将 Marolyn 推撞长凳，举青铜镰刀劈下；Tilde 摸出 Marolyn 斗篷里藏的剑往上挡，镰刀砍进剑鞘，Marolyn 随即从颈窝刺入将他杀死。",
+   "relation": "Marolyn 对 Tilde 的忠诚压过迟疑，第一次真正杀人；此时 Cynghal 甲士破门而入。",
+   "numbers": "one sickle; bronze-blade",
+   "interval": [
+    23766,
+    23819
+   ],
+   "anchor": "she slammed her knife into the soft crook of his neck"
+  },
+  {
+   "id": 8,
+   "event": "Tilde 冲到路上，见六人仍在厮杀，遂发出 Merogian 哭丧的 keening，Marolyn 与 Hadiah 应和；残存叛军遁入林中，她又以“Wing 庇佑此路”的言辞拦住追兵，守卫反高呼“新女王”。",
+   "relation": "Tilde 以哭丧放走叛军、以神意话术安抚 Cynghal 守卫；母亲的疑虑在她心里生根。",
+   "numbers": "six still brawling",
+   "interval": [
+    24693,
+    24735
+   ],
+   "anchor": "I let out a cry, a keening, deep and loud."
+  }
+ ]
+}

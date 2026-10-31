@@ -1,0 +1,95 @@
+{
+ "chapter": 5,
+ "text": "text/ch05_chapter_five_tilde.txt",
+ "chars": 5104,
+ "facts": [
+  {
+   "id": 1,
+   "event": "蒂尔德最后一次走出家门踏上马车，母亲没有哭，她自己也没有哭",
+   "relation": "母女：母亲是国王里瓦尼（King Rivani），女儿蒂尔德即将被王使带离南德尼斯（Nandenys）",
+   "numbers": "无",
+   "interval": [
+    23,
+    127
+   ],
+   "anchor": "My mother did not weep as I stepped out of our home for the last time and into the long light of evening"
+  },
+  {
+   "id": 2,
+   "event": "母亲双手捧住蒂尔德的手、把头抵在她额上，低声叮嘱她要“甜如蜜、利如刺、绿如新玫瑰”，暗示藏起蛇性",
+   "relation": "母女间的暗语：母亲用花园比喻教女儿隐忍与反击",
+   "numbers": "无",
+   "interval": [
+    699,
+    784
+   ],
+   "anchor": "‘Be sweet as honey, sapling,’ she said. I knew what she meant. Be sharp as the sting."
+  },
+  {
+   "id": 3,
+   "event": "哈迪娅穿着旅行装站在门口，盘发用天鹅绒缠成冠，冲蒂尔德鼓励地一笑；蒂尔德险些当场命她回城堡",
+   "relation": "主仆：哈迪娅是蒂尔德的女侍（lady-in-waiting），其兄长在斯科尔达港",
+   "numbers": "无",
+   "interval": [
+    1061,
+    1150
+   ],
+   "anchor": "Hadiah stood at the door in her travelling clothes, her tightly coiled hair finely locked"
+  },
+  {
+   "id": 4,
+   "event": "蒂尔德得知自己只被准许带五名由国王使节挑选的护卫，于是坚持让马洛琳穿与自己同等精致的衣裳，把她当贴身利刃",
+   "relation": "主仆兼护卫：马洛琳出身非贵族（父亲是武士与医师），誓死效忠蒂尔德",
+   "numbers": "a guard of five",
+   "interval": [
+    1803,
+    1898
+   ],
+   "anchor": "I would only be allowed a guard of five, selected by the king’s emissary from my mother’s ranks"
+  },
+  {
+   "id": 5,
+   "event": "蒂尔德一手握住哈迪娅与马洛琳的手，一只脚刚踏上脚凳，风掀开阳光、照亮宫墙上并挂的蛇旗与天鹅旗，她停住了",
+   "relation": "两个随行女子分列两侧，与蒂尔德同乘一车",
+   "numbers": "无",
+   "interval": [
+    2242,
+    2334
+   ],
+   "anchor": "I took their hands as I reached the carriage, and as I put one foot on the stool to enter it"
+  },
+  {
+   "id": 6,
+   "event": "在众人屏息注视下，蒂尔德低声念“Ways，给我力量”，踏进车厢、亲手剪断那根线，随后三人关上车门",
+   "relation": "蒂尔德自认是家族血脉的最后一人，离开祖地等同背叛",
+   "numbers": "无",
+   "interval": [
+    3553,
+    3643
+   ],
+   "anchor": "‘Ways, give me strength,’ I murmured, so quietly that only Hadiah would hear my blasphemy."
+  },
+  {
+   "id": 7,
+   "event": "马车一动，母亲便唱起被暴君与议会禁绝的古语林子歌，哈迪娅掩口落泪、马洛琳推开窗让光进来",
+   "relation": "母亲以违禁的歌为女儿送行，祭司克努尔在身后低头却不敢制止",
+   "numbers": "无",
+   "interval": [
+    3809,
+    3881
+   ],
+   "anchor": "But then, as the carriage lurched into movement, I heard my mother sing."
+  },
+  {
+   "id": 8,
+   "event": "马车穿过城门、越过护城河，田里的雇农、掏粪人、宫中酿酒师与铁匠聚在城外，听见母亲的歌声便跟着合唱起来",
+   "relation": "民众以古调应和“最后一位阿德温国王”，违禁而歌",
+   "numbers": "无",
+   "interval": [
+    4750,
+    4837
+   ],
+   "anchor": "We passed through the gate, over the moat, and outside waited farmhands from the fields"
+  }
+ ]
+}
