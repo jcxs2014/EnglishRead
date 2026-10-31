@@ -1,0 +1,80 @@
+{
+  "chapter": "ch58",
+  "pov": "第一人称（Tris / Beatrice 自述），现在时",
+  "facts": [
+    {
+      "event": "Tris（第一人称叙述者）说自己的生命一直是城市混凝土、金属与玻璃；童年在 Amity 见到的 Abnegation 田地整齐成行、留出步道，而眼前这片田地是野生的。",
+      "who": "I",
+      "receivers": "Amity / the Abnegation (their fields)",
+      "start": 119,
+      "end": 373,
+      "text": "My life has been a cityscape, concrete and metal and glass. Even as a child, when\nI visited Amity with other Abnegation, their fields were orderly, the crops planted in tidy lines with enough space to walk between the plants. This field, though, is wild."
+    },
+    {
+      "event": "Tris 见天是暴雨将至的蜡黄色、云里压着雨，风把衣服吹得贴住身体；她听见鸦叫，转头看见一只乌鸦停在枯枝上。",
+      "who": "I",
+      "receivers": "a crow / the dead tree branches",
+      "start": 492,
+      "end": 745,
+      "text": "The sky is the sickly yellow color of an approaching storm, the clouds heavy with rain. Wind blows hard against my face, pressing my clothes tight to my body. I hear a bird cawing, and turn my head to see a crow perched on one of the dead tree branches."
+    },
+    {
+      "event": "Tris 判断这次恐惧模拟与上一次不同：四周静止无声，她却像被手掐住喉咙般恐慌，只知道有坏事要来。",
+      "who": "I",
+      "receivers": "panic / this fear simulation",
+      "start": 807,
+      "end": 1032,
+      "text": "This fear simulation isn’t like the other one. I feel panic clawing at me like a hand around my throat, but I don’t know why.\nEverything around me is still and quiet. But I know something is coming, and I know it will be bad."
+    },
+    {
+      "event": "鸦群俯冲，Tris 把双臂举过头顶护脸；喙啄她的手臂，爪抓住她的手、肩膀与后颈，刺进皮肤。",
+      "who": "they (the crows)",
+      "receivers": "my arms / my hands / my shoulders / the back of my neck",
+      "start": 1296,
+      "end": 1468,
+      "text": "Then they dive. I throw my arms over my head to shield my face. A beak pecks at my arms; talons cling to my hands, my shoulders, the back of my neck. They prick at my skin."
+    },
+    {
+      "event": "羽毛拂过 Tris 的手臂、一只鸟钻到她肘下啄她的头；她再尖叫、跪下蜷成更紧的一团，知道自己正在恐慌、必须思考。",
+      "who": "I",
+      "receivers": "my head / my knees",
+      "start": 1651,
+      "end": 1866,
+      "text": "Feathers brush against my arms, and a bird wriggles beneath my elbow to peck at my head. I scream again, and fall to my knees, wrapping myself into an even tighter ball. I know I’m panicking. I know I need to think."
+    },
+    {
+      "event": "Tris 对自己说这一切不是真的、却不知怎么办：没有枪可射、没有逃生舱可开，摆脱不了这些蠕动啄刺抓挠的鸟。",
+      "who": "I",
+      "receivers": "these birds / this place",
+      "start": 2029,
+      "end": 2248,
+      "text": "It’s not real, but I don’t know what to do. There’s no gun to shoot, no escape hatch to open to get me away from this place and away from the wriggling, pecking, poking, clawing of these birds. There’s nothing I can do."
+    },
+    {
+      "event": "Tris 念「你什么也做不了」，强行把双臂从头前解开；鸟抓她的脸颊、啄她的眼角、羽毛戳进她的耳朵。",
+      "who": "I",
+      "receivers": "my arms / my cheeks / my eye / my ears",
+      "start": 2338,
+      "end": 2501,
+      "text": "There’s nothing you can do. I force my arms to unwind from my head. Birds scratch at my cheeks, they peck at the corner of my eye, their feathers jab into my ears."
+    },
+    {
+      "event": "Tris 再对自己念「你什么也做不了」，深吸一口气仰头朝天；睁开眼时她只看见羽毛。",
+      "who": "I",
+      "receivers": "my head / the sky",
+      "start": 2506,
+      "end": 2631,
+      "text": "There’s nothing you can do. I breathe deep, and tip my head back to the sky. All I can see, when I open my eyes, is feathers."
+    }
+  ],
+  "relations": [
+    "Tris 是第一人称叙述者，全章发生在她自己的恐惧模拟内部；攻击她的鸦群是模拟生成的幻象，不是现实中的对手。",
+    "她童年在 Amity 随其他 Abnegation 见过的田地整齐成行，与眼前这片杂草、蓟、矮丛与枯树疯长的野地构成对照。",
+    "转折点在于她不再找枪、找逃生舱，而是承认「你什么也做不了」并仰头承受：痛觉随即「远离」她，膝盖下出现石头，模拟就此结束。"
+  ],
+  "numbers": [
+    "one｜“This fear simulation isn’t like the other one.”（另一次模拟，作对比指代）",
+    "one｜“a crow perched on one of the dead tree branches”（枯枝之一）",
+    "one｜“trying to throw one of them off”（鸟群中的一只）"
+  ]
+}
