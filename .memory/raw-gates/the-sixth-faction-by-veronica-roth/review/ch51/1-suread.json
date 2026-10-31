@@ -1,0 +1,82 @@
+{
+  "chapter": "ch51",
+  "pov": "第一人称（Four 叙述），一般现在时",
+  "facts": [
+    {
+      "event": "火车开动后，Four 把车头木箱里的枪逐一递给 Edward 等 initiates，直到人人有枪；队尾的 Eric 拒接，说自己只是来“观察”。",
+      "who": "I (Four)",
+      "receivers": "Edward, the initiates, Eric",
+      "start": 383,
+      "end": 626,
+      "text": "That sounds right to me, so I grab one and pass it to Edward, who’s standing close to me. The others line up behind him, and\nI give each of them a gun when they step forward, until we’re all armed. Eric, at the back of the line, refuses a gun."
+    },
+    {
+      "event": "Four 呼吸变急：他在一场模拟里，却不知道是哪一种——他不像在恐惧模拟里那样害怕。",
+      "who": "I (Four)",
+      "receivers": "the simulation, the fear simulations",
+      "start": 2337,
+      "end": 2467,
+      "text": "My breath quickens. I’m in a simulation, and I don’t know what kind it is. I don’t feel afraid, like I do in the fear simulations."
+    },
+    {
+      "event": "Four 深呼吸：若这就是 Evelyn 在做、即将发生的事，人们会受伤、会死，而且不只他父亲；他必须脱身，而脱身的办法是集中意志。",
+      "who": "I (Four)",
+      "receivers": "Evelyn, people, my father",
+      "start": 3640,
+      "end": 3935,
+      "text": "I breathe in through my nose and out through my mouth. If that’s what Evelyn’s doing, if that’s what’s coming, people will get hurt. People will die, and not just my father. I have to get out of this. And I know how to get out of simulations, don’t I? It’s through a concentrated effort of will."
+    },
+    {
+      "event": "Four 眨了眨眼：什么都没变，可一切都变了——胸口的急切感消失，他不再确信自己要去向何方。",
+      "who": "I (Four)",
+      "receivers": "the simulation, the urgency in my chest",
+      "start": 4745,
+      "end": 4890,
+      "text": "I blink, and nothing’s changed, but everything’s changed. I no longer feel that urgency in my chest; I no longer feel certain of where I’m going."
+    },
+    {
+      "event": "Will 向“长官”报告：他已侦察过大部分议事会成员，却还没摸到议事会领袖的位置——昨夜没见他进公寓楼，他的公寓看上去是黑的。",
+      "who": "Will",
+      "receivers": "the council members, the council leader, Eric",
+      "start": 5679,
+      "end": 5897,
+      "text": "“I’ve scouted out most of the council members, sir,” he says. “But I haven’t gotten a location on the council leader yet.\nI didn’t see him enter his apartment building last night, and his apartment appears to be dark.”"
+    },
+    {
+      "event": "Eric 说 Will 讲的是一个“更好的故事”：一个受虐、有情绪不稳前科的儿子去追杀让他受苦的派系领袖，“新闻简报几乎自己就写好了”。",
+      "who": "Eric",
+      "receivers": "Will, me (Four), Jeanine",
+      "start": 7231,
+      "end": 7419,
+      "text": "“He tells a better story,” Eric says. “Abused son with history of instability goes after the leaders of the faction that caused him so much grief—the news brief practically writes itself.”"
+    },
+    {
+      "event": "Four 走出 initiate 队列随 Will 走，身后 Eric 正向队列里每个 initiate 点名议事会成员：Elizabeth Winslow、Ernest Thompson、Andrew Prior。",
+      "who": "I (Four), Eric",
+      "receivers": "the line of initiates, the council members, Will",
+      "start": 8487,
+      "end": 8720,
+      "text": "I step out of the line of initiates, and turn to follow Will as he walks down the platform. Behind me, I can hear Eric calling out names of council members to each initiate in line. “Elizabeth Winslow! Ernest Thompson! Andrew Prior!”"
+    },
+    {
+      "event": "在本该右转的路口前，Four 拐进一条小巷，撒腿奔跑。",
+      "who": "I (Four)",
+      "receivers": "an alley, the corner",
+      "start": 9714,
+      "end": 9816,
+      "text": "Right before the corner where we’re supposed to turn right, I duck into an alley and burst into a run."
+    }
+  ],
+  "relations": [
+    "Eric 背着的那只黑箱（橙色光心）是便携式信号中继器，能把 Dauntless 计算机的操纵范围扩到 Abnegation 区边缘——模拟正是他远程运行的。",
+    "Four 是被特意留下当替罪羊的人选：Eric 说 Jeanine 原本要排除他（因他与无派别者领袖的关系），是 Eric 说服她“值得冒险”，因为“受虐的儿子报复派系领袖”这个故事更好用。",
+    "Four 认定母亲 Evelyn 的“梦想”就是终结派系制度，因此这场模拟会死人、且不只死他父亲。",
+    "Will 在模拟中看到的 Four 是 Jeanine Matthews（镜像仍在生效），故 Four 必须装作仍被控制。",
+    "Andrew Prior 是 Tris 的父亲，也在 Eric 点名的名单上；Four 最终放弃先去救自己的父亲 Marcus，直奔 Building A 找 Andrew Prior。"
+  ],
+  "numbers": [
+    "yesterday（Eric：“Confirmed yesterday that he’s not Divergent”，指 Four 被确认不是 Divergent 的时间）",
+    "two blocks（“We go straight for two blocks and then turn right”，由此去 Abnegation 总部的路线）",
+    "a few seconds（“It takes me a few seconds to identify where it’s coming from”，Four 察觉 Eric 身上那股“痒”的时间）"
+  ]
+}
