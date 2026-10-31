@@ -1,0 +1,83 @@
+{
+  "chapter": "ch38",
+  "pov": "第一人称（Four 视角）+ 一般现在时",
+  "facts": [
+    {
+      "event": "Zeke 说大家是在为 Amar 举杯，这句话把 Four 猛地拉回现实：Amar——他们的入会教官——已经死了将近两年，尸体在最终入会测试前被发现，官方说他跳崖，Four 不信。",
+      "who": "Zeke / they",
+      "receivers": "Amar / me (Four)",
+      "start": 1640,
+      "end": 1869,
+      "text": "That, more than anything, jolts me back into myself. It’s been almost two years since Amar—our initiation instructor—died.\nThey found his body right before the final initiation test. They claimed he jumped, but I’m not convinced."
+    },
+    {
+      "event": "Four 回想：Amar 死前刚高高兴兴地告诉他自己是 Divergent；他没有去查真相，而是被吓跑了——拒绝接受 Dauntless 领导层的训练邀请，挑了一份没人会多看他一眼的孤立工作。",
+      "who": "he (Amar) / I (Four)",
+      "receivers": "me (Four)",
+      "start": 1874,
+      "end": 2191,
+      "text": "He died right after he told me—cheerful, like he didn’t know what it meant—that he was Divergent. And instead of finding out what really happened to him, I ran scared. I turned down the invitation to train for Dauntless leadership and picked a strange, isolated job where no one was likely to give me a second glance."
+    },
+    {
+      "event": "Tori 告诉 Four：Tris 的能力倾向测试期间出过系统错误，结果只能手工录入，除此之外那次测试「平平无奇」。",
+      "who": "she (Tori)",
+      "receivers": "her test (Tris’s)",
+      "start": 4956,
+      "end": 5085,
+      "text": "She shrugs. “There was a system error during her test, and the results had to be logged manually. Otherwise it was unremarkable.”"
+    },
+    {
+      "event": "Tori 反过来建议 Four 把日志清理干净，说不能让一个来路不明的 factionless 弄乱数据——两人都明白 Tris 有问题。",
+      "who": "she (Tori)",
+      "receivers": "the log / a random factionless",
+      "start": 6398,
+      "end": 6512,
+      "text": "“If I were you, I’d clean up the log anyway,” Tori says. “Can’t have a random factionless cluttering up the data.”"
+    },
+    {
+      "event": "Edward 告诉 Four：他本想进去做一次模拟练习，但模拟室里已经有人；他以为是 Four，就没进去打扰。",
+      "who": "he (Edward)",
+      "receivers": "the simulation room / me (Four)",
+      "start": 7333,
+      "end": 7601,
+      "text": "“I was going to see if I could get a simulation practice session in.” He runs a hand through his hair, and I see that the tattoo on his arm is an elaborate geometric spiral. “But someone was already in there. I thought it was you. I didn’t want to interrupt, so . . .”"
+    },
+    {
+      "event": "Four 发现模拟室对面的紧急出口门关着却没与两侧石墙齐平：最近有人从这里出去，且没把门拉紧，那人就是这样绕过他离开的。",
+      "who": "I (Four)",
+      "receivers": "the emergency exit / the door",
+      "start": 8129,
+      "end": 8334,
+      "text": "It’s closed, but not flush with the stone on either side of it—someone passed through it recently and didn’t pull it shut hard enough. That’s how they got out of here without passing me, whoever they were."
+    },
+    {
+      "event": "Four 说明恐惧模拟器还有旁人不清楚的本事：能带他回放旧的模拟日志，能把两个人甚至更多人放进同一场模拟，还能投影出访问过它的人的影像。",
+      "who": "it (the fear simulator)",
+      "receivers": "me (Four) / images of the people who access it",
+      "start": 8974,
+      "end": 9211,
+      "text": "There are a lot of things the fear simulator can do that people aren’t aware of. It can take me through old simulation logs.\nIt can bring two people—or more—into the same simulation. And it can project images of the people who access it."
+    },
+    {
+      "event": "回放里厨房场景淡去，取而代之的是一个高个金发女人，衣着整洁合身；她若不是一动不动，Four 会以为她真的站在房间里。",
+      "who": "she (the woman)",
+      "receivers": "me (Four)",
+      "start": 9216,
+      "end": 9413,
+      "text": "The kitchen scene fades, and in its place is a woman. She’s tall and blond, her clothes neat and tailored. If she wasn’t standing perfectly still, I’d think she was really here in the room with me."
+    }
+  ],
+  "relations": [
+    "Amar 是 Four 与 Zeke 等人的入会教官，已死将近两年，死前刚向 Four 承认自己是 Divergent。",
+    "Tori 主持了 Tris 的能力倾向测试，却对 Four 谎称结果「平平无奇」，并暗示他去清理日志。",
+    "未经观察者不得独自运行恐惧模拟；能这么做的只有 Dauntless 的领导者 Harrison、Max 或 Eric。",
+    "Four 已经怀疑 Tris 是 Divergent（原文：“And doesn’t it make sense, that someone like Tris is Divergent?”）。",
+    "结尾被投影出的高个金发女人是 Jeanine Matthews，Erudite 的领袖——即那个未登记就进入模拟室、调看 Al 模拟日志的人。"
+  ],
+  "numbers": [
+    "almost two years（Amar 死后约两年）",
+    "maybe ten words（Four 与 Amity 转来的 Mia 两年里说过的话大概不超过十词）",
+    "Two minutes（Four 求 Tori 只占她两分钟）",
+    "a single lightbulb（Al 的模拟厨房里唯一一盏灯泡）"
+  ]
+}
