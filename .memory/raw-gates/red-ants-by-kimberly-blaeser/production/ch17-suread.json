@@ -1,0 +1,55 @@
+{
+ "book": "red-ants-by-kimberly-blaeser",
+ "chapter": "ch17",
+ "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch17_vision_confidence_score.txt",
+ "facts": [
+  {
+   "fact": "叙述者总在噩梦中醒来：小丑的脸变成特朗普，父亲的脸变成 Rusty、再变成 Claude。",
+   "anchor": "I always wake when the Joker’s face changes to Trump’s, when Dad’s changes to Rusty’s to Claude’s.",
+   "start": 26,
+   "end": 124
+  },
+  {
+   "fact": "她奉政府之命伪装成黑客，潜入混沌计算机俱乐部大会做监控——代号 Winona 的她真名叫 Dell。",
+   "anchor": "I came on an official government dare—to become a fake hacker and run surveillance on Chaos Computer Club.",
+   "start": 582,
+   "end": 688
+  },
+  {
+   "fact": "男友 Rusty 假死整容，化身黑客 Claude Brisbois——「死亡是我们这行唯一的退场」。",
+   "anchor": "I had a little work done. New face. Tweak to the voice box. You know death is the only true exit from our job. Now you’re in, I’m out.",
+   "start": 4629,
+   "end": 4763
+  },
+  {
+   "fact": "两人现在的目标：用「眼睛眼睛眼睛」的人脸图案布料过载算法，迷惑人脸识别。",
+   "anchor": "The goal now is to overload the algorithm. With eyes, eyes, eyes. To divert the gaze of facial recognition software.",
+   "start": 7342,
+   "end": 7458
+  },
+  {
+   "fact": "Standing Rock 抗议中 Vanessa Dundon 失明、Sophia Wilansky 手臂被震荡弹炸残——这提醒她为什么不能退出。",
+   "anchor": "Vanessa Dundon’s eye. Light gone forever. Sophia Wilansky’s arm mangled by a concussion grenade.",
+   "start": 7914,
+   "end": 8010
+  },
+  {
+   "fact": "童年时父亲被从家里带走，长灰发辫从他肩头回望——那双眼睛从此追踪她。",
+   "anchor": "No one ever told me not to look. They forgot the first time, too, when my dad was taken from our house.",
+   "start": 16643,
+   "end": 16746
+  },
+  {
+   "fact": "华盛顿大道游行中，屏幕上突然出现被折磨的 Claude——有人黑进了他们的僵尸网络。",
+   "anchor": "But then one of the marchers stops and screams, “What are they doing to him? Isn’t that Brisbois?”",
+   "start": 16331,
+   "end": 16429
+  },
+  {
+   "fact": "结尾：父亲的眼睛、屏幕上 Claude 的眼睛都在说「求你们了」——也许所有的眼睛最后都在说这句话。",
+   "anchor": "They said, Please. Or maybe all the eyes say that at the end.",
+   "start": 17069,
+   "end": 17130
+  }
+ ]
+}
