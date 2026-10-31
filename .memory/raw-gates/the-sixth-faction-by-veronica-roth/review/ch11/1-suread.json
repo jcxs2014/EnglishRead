@@ -1,0 +1,109 @@
+{
+  "chapter": 11,
+  "pov": "Beatrice（第一人称）",
+  "facts": [
+    {
+      "event": "母亲把一张皱纸条压在交给她的衣物堆上，上面写着「STAY LATE」；她把纸条塞进口袋，照常折衣服。",
+      "who": "母亲",
+      "receivers": [
+        "Beatrice"
+      ],
+      "start": 2731,
+      "end": 3007,
+      "text": "I’m reaching for the pile when I notice a scrap of paper resting on top of it. She left it behind. It’s small and a little crumpled, so it almost looks like a bit of garbage, but I unfold it anyway.\n\n\n\n“STAY LATE,” it reads.\n\n\n\nI tuck it into my pocket and go back to folding."
+    },
+    {
+      "event": "母亲看穿她（「She sees me . . . even when my father doesn’t」）：Beatrice 声音沙哑地承认 excision 没起作用——「No」，母亲说她早就料到了。",
+      "who": "母亲",
+      "receivers": [
+        "Beatrice"
+      ],
+      "start": 4274,
+      "end": 4417,
+      "text": "But this is my mother. She sees me . . . even when my father doesn’t.\n\n\n\n“No,” I say, my voice rough.\n\n\n\n“I didn’t think so.” Her brow furrows."
+    },
+    {
+      "event": "母亲承认从 Evelyn 的葬礼之前就知道她还活着；她猜测议长层要人相信 Evelyn 死了，是因为 Evelyn 掌握只有议长才会知道的信息，怕人追问她为什么逃走。",
+      "who": "母亲",
+      "receivers": [
+        "Beatrice",
+        "Evelyn Eaton",
+        "Marcus Eaton"
+      ],
+      "start": 4727,
+      "end": 4938,
+      "text": "“I’ve known since before Evelyn’s funeral,” she says, looking grave.\n\n\n\n“How is she— Why did they pretend she was dead?” I realize my hands are in fists. I force them to relax. “Why didn’t they want me to know?”"
+    },
+    {
+      "event": "母亲捧住她的头，逼她看清：这不是她的错，是她的天赋，但绝不能让任何人知道——「Those who have . . . they end up dead」，Beatrice 这才明白 Tori 的警告是要她命。",
+      "who": "母亲",
+      "receivers": [
+        "Beatrice"
+      ],
+      "start": 6175,
+      "end": 6455,
+      "text": "“There’s nothing wrong with you. It’s just the way you were born. But what you are, what you can do . . .” Her hand cups the back of my head, and she bends down to look into my eyes. “You can never let anyone know. Never. Those who have . . . they end up dead. Do you understand?”"
+    },
+    {
+      "event": "母亲说「That’s up to you」，给出两条路：装作 excision 成功、完成 initiation、安心留在 Abnegation（safest path）；或者留下但不再装，而是致力于从派内部找出答案。",
+      "who": "母亲",
+      "receivers": [
+        "Beatrice"
+      ],
+      "start": 7346,
+      "end": 7700,
+      "text": "You can pretend that the memory excision worked. You can finish your initiation, and forget all of this, and continue your life in Abnegation. That would be the safest path.” She pauses, considering, before going on. “You can also do all that, but instead of pretending it didn’t happen, you can commit yourself to finding answers from inside Abnegation."
+    },
+    {
+      "event": "母亲把要说的第三种选项留给她自己，Beatrice 替她说出来：她可以彻底离开 Abnegation——可以 defecting；母亲随后同意替她联系 factionless 的熟人。",
+      "who": "Beatrice",
+      "receivers": [
+        "Beatrice",
+        "母亲"
+      ],
+      "start": 8619,
+      "end": 8783,
+      "text": "I know what she’s about to say, and I say it for her.\n\n\n\n\n“Or,” I say, “there’s another option, isn’t there?”\n\n\n\nI can leave Abnegation completely.\n\n\n\nI can defect."
+    },
+    {
+      "event": "Beatrice 脱口说「I failed」；母亲抓住她的肩反驳「You did not fail; Abnegation failed you」，说她一直在把自己缩小去塞进这个派的小盒子。",
+      "who": "母亲",
+      "receivers": [
+        "Beatrice"
+      ],
+      "start": 9291,
+      "end": 9517,
+      "text": "I don’t decide to speak. The words just launch from my body: “I failed.”\n\n\n\nMy mother takes me by the shoulders, holding me tightly enough that I have to look at her.\n\n\n\n“Listen to me. You did not fail; Abnegation failed you.”"
+    },
+    {
+      "event": "母亲说 factionless 有两类——她见过的，和她从没见过的那类；她从没见过的那些「better off」，Beatrice 可以去那里做自己。",
+      "who": "母亲",
+      "receivers": [
+        "Beatrice",
+        "factionless"
+      ],
+      "start": 11226,
+      "end": 11457,
+      "text": "“I’ve been trying to build trust with some of the factionless who come to the donation center, and what I’ve learned is this:\nThere are two types of factionless, Beatrice. The kind you’ve seen . . . and the kind you’ve never seen.”"
+    }
+  ],
+  "relations": [
+    "Beatrice–母亲：母亲看穿她（「She sees me . . . even when my father doesn’t」），早已知道 excision 失败，且掌握女儿的去路；她提出「Abnegation won’t expand to fit you」。",
+    "Beatrice–父亲（Andrew Prior）：母亲说他「a man of rules」——他下手是因为「it’s been deemed the correct procedure by the correct authorities」。",
+    "母亲–Evelyn Eaton：母亲自 Evelyn 葬礼前就知道真相，还曾帮 Evelyn 做同样的事（脱离 Abnegation），因此 Evelyn 欠她人情；但前一天她一个字也没提。",
+    "Beatrice–Evelyn Eaton：她现在知道 Evelyn 拿着真枪、和杀 Robert 的人在一起，而领导层宁可掩盖她活着也不查 Robert 的死。",
+    "Beatrice–Tori：Tori 曾警告 Divergent 危险，她现在才懂那意味着会死。",
+    "Beatrice–Robert Black：她拿「Robert 是我朋友」当作自己去查真相的理由。",
+    "Beatrice–《新闻简报》/Dauntless 墙卫：母亲沉默的瞬间她想起简报「A concerning pattern of Dauntless wall guards suffering memory lapses」，于是问「How often do they do it?」。",
+    "母亲–factionless：她在 donation center 与 factionless 建立信任，认识「the kind you’ve never seen」，并准备把女儿交给他们。",
+    "Beatrice–Eleanor：指导员只当她因作证难受，让她休息、下午再归队；Beatrice 庆幸只需点头，否则真相会全说出来。",
+    "Beatrice–Mary：同岗位，回来路上同行；她独自吃饭、自己洗碗，把孤立当作思考时间。"
+  ],
+  "numbers": [
+    "three and a half weeks：\"Just three and a half weeks left and then we’ll all be free to speak again.\"",
+    "the past two days：\"The past two days, it’s felt like the only thing keeping me together.\"",
+    "eight years：\"It’s been eight years,\" I say.",
+    "the month of silence：\"When Eleanor and Benjamin first announced the month of silence, it felt like a hand around my throat.\"",
+    "a few inches（选派仪式上挪手的距离）：\"move my hand just a few inches to the side to bleed on the coals instead\""
+  ]
+}

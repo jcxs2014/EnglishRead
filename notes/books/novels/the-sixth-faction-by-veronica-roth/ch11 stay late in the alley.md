@@ -7,7 +7,7 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-- **一句话概括**：切除之后的第二天，她在捐赠中心折衣服，母亲把一张写着「STAY LATE」的纸片压在衣堆上；关店后两人在后巷摊牌——母亲说她在 Evelyn Eaton 下葬之前就知道这件事，又给出「假装切除生效、把入门期走完」与「留在 Abnegation 慢慢往上爬」两条路；Beatrice 自己接上第三条：叛逃。母亲承认自己在无派系者中间有联系人，并说出「无派系者有两种：你见过的，和你从没见过的」。
+- **一句话概括**：切除之后的第二天，她在捐赠中心折衣服，母亲把一张写着「STAY LATE」的纸片压在衣堆上；关店后两人在后巷摊牌——母亲说她在 Evelyn Eaton 下葬之前就知道这件事，又给出「假装切除生效、把入门期走完」与「留在 Abnegation 慢慢往上爬」两条路；Beatrice 自己接上第三条：叛逃。母亲承认自己在无派系者中间有联系人，也第一次把话说到死上——「那些有这种脑子的人……最后都死了」，并说出「无派系者有两种：你见过的，和你从没见过的」。
 - **情感弧线位置**：紧接上一章的假胜利，本章从「只需点头」的疲惫滑到后巷的摊牌，再滑到哭完之后的空：不是被救，是终于有人替她把话说出来，而那个人手里还有一整套她不知道的事。
 - **Tropes 兑现/反转**：兑现「家里人早就知道」——母亲不用她解释，自己说出 Evelyn 还活着；反转「保护＝隐瞒」：母亲给的保护是「永远别让人知道你是谁」，代价是她继续演下去；兑现「仪式选择」母题——章末她把眼前的路比作选派系时那排要血的碗，等于把叛逃写成第二次仪式。
 - **人物弧线**：Beatrice 从「庆幸自己只要点头」走到自己说出第三条路，中间隔着两句认输：留下＝一辈子假装，而且假装的不只是父亲动过她的脑子，还有假装自己不好奇。母亲从父亲身边的沉默者变成有情报、有上线的人，第一次让她看见「Abnegation 失败的不是她」。
@@ -57,21 +57,28 @@ modified: "2026-10-31"
 **为什么这样写**：四个动词排成流水线：pretend → finish → forget → continue，每一步都不需要她做决定，只需要她往下走。最后一句单独成句，把「安全」从建议升成判词——通篇没有一个字提到「对不对」，因为这条路的好处就是不问对错。
 **读者视角提示**：注意「安全」是说话人给的评价；这条路的代价写在动词里：忘掉、继续，两件事都得她一个人做。
 
-> **原句 7:** "And I know, deep down where the truth lives in my body, that she’s right. A life here would be a life of pretending, and not just pretending my father didn’t try to take away my memories, or that the faction doesn’t do that routinely—but pretending not to be curious. Pretending to be quiet."
+> **原句 7:** "“Listen to me. You did not fail; Abnegation failed you.” Her voice is all edges. “Even before the excision, you were trying to make yourself smaller to fit into this faction’s little box, and I could hardly stand it.”"
+
+**中文理解**：母亲抓着她的肩膀，让她听着：失败的不是她，是 Abnegation；而且在切除之前，她就已经在把自己缩小、往这个派系的小盒子里塞，母亲看着几乎受不了。
+**关键词**：Listen to me, You did not fail, Abnegation failed you, her voice is all edges, make yourself smaller, this faction’s little box
+**为什么这样写**：三句把责任从个人挪到制度，再挪回她自己身上的一件旧事：不是「你没做错」，而是「你早就在做一件更慢的错事」。all edges 只说声音，不说情绪，读者却听得出她也在这套盒子里活了半辈子。
+**读者视角提示**：这句话回应的是她脱口而出的「I failed」；母亲没有安慰她，而是把「失败」这个词的宾语换掉了。
+
+> **原句 8:** "And I know, deep down where the truth lives in my body, that she’s right. A life here would be a life of pretending, and not just pretending my father didn’t try to take away my memories, or that the faction doesn’t do that routinely—but pretending not to be curious. Pretending to be quiet."
 
 **中文理解**：她心里最深处知道对方说得对：留在这里就是一辈子演——不只是演父亲没想拿走她的记忆、演这个派系不常这么干，还要演自己不好奇，演安静。
 **关键词**：deep down where the truth lives, a life of pretending, the faction doesn’t do that routinely, pretending not to be curious, Pretending to be quiet
 **为什么这样写**：句子一层层加码：先否掉「只是那一件事」，再用 not just…but 把范围从事件推到性格。两个 Pretending 各自独立成句，前一句四个词、后一句五个词，第二句反而更长，节奏跟着呼吸一起收窄。deep down where the truth lives in my body 给「真相」配了住址，它不在脑子里，在身体里。
 **读者视角提示**：她认下的不是「我该走」，而是「留下＝长期扮一个不是我的人」。这是全章真正掉头的一句，后面的哭是这句的结果。
 
-> **原句 8:** "“I’ve been trying to build trust with some of the factionless who come to the donation center, and what I’ve learned is this: There are two types of factionless, Beatrice. The kind you’ve seen . . . and the kind you’ve never seen.”"
+> **原句 9:** "“I’ve been trying to build trust with some of the factionless who come to the donation center, and what I’ve learned is this: There are two types of factionless, Beatrice. The kind you’ve seen . . . and the kind you’ve never seen.”"
 
 **中文理解**：她说自己一直在跟来捐赠中心的无派系者慢慢建立信任，学到的是这么一件事：无派系者有两种，Beatrice——你见过的那种，和你从没见过的那种。
 **关键词**：build trust, two types of factionless, The kind you’ve seen, the kind you’ve never seen
 **为什么这样写**：先交代情报来源（build trust，是攒出来的，不是听来的），再给分类。两个从句结构完全对称，中间那串省略号就是分界线：见过的一边是她熟悉的病与穷，没见过的一边连描述都不给。信息停在「有两种」，比讲全更让人后背发凉。
 **读者视角提示**：这句话把「无派系者」从被怜悯的对象改成有内部结构的世界；而她一次都没进去过。
 
-> **原句 9:** "These new choices ahead of me are like the bowls at the ceremony that demanded my blood. Just like those bowls, they offer me the lives I can bear to live, and the lives I can’t. … Go, and find out the truth."
+> **原句 10:** "These new choices ahead of me are like the bowls at the ceremony that demanded my blood. Just like those bowls, they offer me the lives I can bear to live, and the lives I can’t. … Go, and find out the truth."
 
 **中文理解**：她把这些新选择比作仪式上那几只等着她滴血的碗：和那些碗一样，它们摆出她能忍受的活法，也摆出她不能忍受的活法；省略号之后只剩一句方向——走，去把真相找出来。
 **关键词**：like the bowls at the ceremony, demanded my blood, the lives I can bear to live, find out the truth
@@ -115,4 +122,4 @@ modified: "2026-10-31"
 
 ## 一句话总结
 
-切除没能抹掉记忆，母亲用一张纸条把她约到后巷，坦白自己早就知道 Evelyn 活着；「假装没事」与「留在里面往上爬」都被她越过去，是她说出「我得走」之后，母亲才交出无派系者的两个版本和一个联系人——而她要去找的，是 Robert 死的那件事。
+切除没能抹掉记忆，母亲用一张纸条把她约到后巷，坦白自己早就知道 Evelyn 活着；「假装没事」与「留在里面往上爬」都被她越过去，是她说出「我得走」之后，母亲才交出无派系者的两个版本和一个联系人——而她要去找的，是这个派系一直在瞒的那件事。

@@ -71,21 +71,28 @@ modified: "2026-10-31"
 **为什么这样写**：先写身体（身高、头发、嘴），再写衣服，最后写刀——从最无害的信息排到最有威胁的信息。三件衣服各自标明出处，等于把「不属于任何一派」写成了可以逐件拆开的证据；刀单列成一句，短到没有形容词。
 **读者视角提示**：一个不穿自己派系制服的人，在这个世界里等于没有身份。她偏把三派的衣服各穿一件，这是宣言，不是邋遢。
 
-> **原句 9:** "It’s not shock I feel when I look at her next, but the sensation of fitting a puzzle piece into its place. This explains what I’ve been seeing. What she’s finally let me see."
+> **原句 9:** "“You’ll take her in,” my mother says, and it’s not a question, it’s a command. “You’ll keep her safe. And then I’ll consider your debt to me repaid.”"
+
+**中文理解**：母亲说「你收下她」——不是问句，是命令；接着是第二句：你保她安全；然后才是第三句：到那时，我就算你还清了欠我的。
+**关键词**：You’ll take her in, not a question, it’s a command, You’ll keep her safe, your debt to me repaid
+**为什么这样写**：三句都是将来时，都是第二人称，没有一个请字。第一句把「收留」定成义务，第二句把义务加重成「安全」，第三句才亮出底牌——这不是托孤，是结账。叙述者在中间插一句 not a question, it’s a command，等于替读者把语气翻译了一遍。
+**读者视角提示**：她把女儿交出去的方式，和她教女儿跳车的方式是同一种：先给指令，再解释。区别是她这次没有解释。
+
+> **原句 10:** "It’s not shock I feel when I look at her next, but the sensation of fitting a puzzle piece into its place. This explains what I’ve been seeing. What she’s finally let me see."
 
 **中文理解**：再看向母亲时，她感到的不是震惊，而是一块拼图嵌回原位的那种感觉。这解释了她这些天看在眼里的东西——也解释了母亲终于肯让她看见的东西。
 **关键词**：It’s not shock I feel, fitting a puzzle piece into its place, This explains what I’ve been seeing, What she’s finally let me see
 **为什么这样写**：先否认一个预期（不是震惊），再换成一个手上的动作（拼图归位）——认知被写成触觉，不是情绪。后两句都用 This / What 起头，句式跟着「归位」一起变整齐，三个短句接连落定，最后一句把「她肯让我看」和「我一直在看」并成同一件事。
 **读者视角提示**：她没有惊呼，也没有追问。这个发现对她的分量是「终于对上了」，不是「被骗了」——两种反应里，作者选了更冷的那个。
 
-> **原句 10:** "The train is pulling up to the station. It slows as it approaches, but it’s still moving too fast, my last few minutes with my mother disappearing. She throws her arms around me and holds me so tightly I can’t breathe; then she jumps out of the train without warning."
+> **原句 11:** "The train is pulling up to the station. It slows as it approaches, but it’s still moving too fast, my last few minutes with my mother disappearing. She throws her arms around me and holds me so tightly I can’t breathe; then she jumps out of the train without warning."
 
 **中文理解**：火车正进站。它减速了，可还是太快，她和母亲最后的几分钟正在消失。母亲张开手臂抱住她，抱得她喘不过气；然后毫无预警地跳下了车。
 **关键词**：my last few minutes with my mother, holds me so tightly I can’t breathe, jumps out of the train without warning
 **为什么这样写**：时间被写成和车速同步的东西——车慢下来，剩下的时间也在少。抱得「喘不过气」既是力度的写实，也预告了下一句的分离；without warning 把告别做成突然断线，不给她准备台词的机会。
 **读者视角提示**：母亲没有说再见。她选择在女儿还在被抱着的时候消失，这样最后一秒还是拥抱。
 
-> **原句 11:** "“Don’t call me that,” I say, and I’m not sure what gives me the audacity. Maybe it’s my anger at the people who killed my friend and upended my life, or maybe it’s the bitterness in Evelyn’s voice— it gives me permission to be bitter, too."
+> **原句 12:** "“Don’t call me that,” I say, and I’m not sure what gives me the audacity. Maybe it’s my anger at the people who killed my friend and upended my life, or maybe it’s the bitterness in Evelyn’s voice— it gives me permission to be bitter, too."
 
 **中文理解**：「别那么叫我，」她说，自己也不确定哪来的胆子。也许是恨那些杀了她朋友、把她的生活掀翻的人；也许是 Evelyn 声音里的那股苦味——它允许她也苦。
 **关键词**：Don’t call me that, what gives me the audacity, the people who killed my friend, permission to be bitter

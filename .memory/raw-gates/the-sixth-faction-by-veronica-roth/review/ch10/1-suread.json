@@ -1,0 +1,119 @@
+{
+  "chapter": 10,
+  "pov": "Beatrice（第一人称）",
+  "facts": [
+    {
+      "event": "Benjamin 向 Abnegation 新任者宣布：为期一个月的服务月必须在完全静默中完成，「除非有人处于危险中」； Eleanor 补充说完这句就再不许出声。",
+      "who": "Benjamin（男新任者指导员）",
+      "receivers": [
+        "Abnegation 新任者：Beatrice、Susan、Mary、Constance、Martha、Eustace 等"
+      ],
+      "start": 1594,
+      "end": 1728,
+      "text": "“Every faction’s initiation has its secrets,” he says. “And ours is that your month of service will be conducted in complete silence.”"
+    },
+    {
+      "event": "Beatrice 被分配到 factionless donation center——她已在那儿做了一年志愿者，所以心里想尖叫。",
+      "who": "Beatrice",
+      "receivers": [
+        "Beatrice",
+        "Mary（同一岗位）"
+      ],
+      "start": 6762,
+      "end": 6902,
+      "text": "Which is why, when I get assigned to the factionless donation center, where I’ve been volunteering for the past year . . .\nI want to scream."
+    },
+    {
+      "event": "她照着自己记忆里的脸去比对相册，确认那个像 Evelyn Eaton 的女人不是幻觉：「她还活着」——于是开始追问骨灰瓮里是谁的骨灰。",
+      "who": "Beatrice",
+      "receivers": [
+        "Beatrice",
+        "Evelyn Eaton",
+        "Marcus Eaton"
+      ],
+      "start": 12527,
+      "end": 12792,
+      "text": "But looking at her face now, I know I couldn’t have. Strong brow, hooked nose, wry mouth—she’s too striking for me to mistake her for someone else. She could only ever be Evelyn Eaton.\n\n\n\n\nWhich means I really saw her. Which means Evelyn Eaton must really be alive."
+    },
+    {
+      "event": "Abigail Baker 在 Memory Vault 里说明：各派都要派见证人把记忆存入 vault，供城市存档与 Candor 调查员查阅，而父亲说 Beatrice 有独特视角。",
+      "who": "Abigail Baker（议事员）",
+      "receivers": [
+        "Beatrice",
+        "Andrew Prior（父亲）",
+        "Marcus Eaton"
+      ],
+      "start": 14683,
+      "end": 14916,
+      "text": "All the factions are sending witnesses to offer their memories of the event to the vault, for the city’s records as well as the perusal of our Candor investigators, and your father told us you may have a unique perspective to offer.”"
+    },
+    {
+      "event": "Beatrice 说破那个持枪女人是 Evelyn Eaton，并偷看 Marcus 的反应；Marcus 既没生气，反而笑了一下。",
+      "who": "Beatrice",
+      "receivers": [
+        "Marcus Eaton",
+        "Andrew Prior",
+        "Abigail Baker"
+      ],
+      "start": 17366,
+      "end": 17526,
+      "text": "“It was . . . it was Evelyn Eaton,” I say, and I can’t help but look at Marcus to gauge his reaction.\n\n\n\nBut he doesn’t seem angry. Instead, he laughs a little."
+    },
+    {
+      "event": "父亲把双手压上石桌，对 Memory Vault 说「I need an excision」——要求切除这段记忆；Beatrice 不解，仍照做把手放上桌子。",
+      "who": "Andrew Prior（父亲）",
+      "receivers": [
+        "Beatrice",
+        "Evelyn Eaton（被切掉的记忆对象）"
+      ],
+      "start": 21536,
+      "end": 21714,
+      "text": "He puts his hands on the stone table, and says, “I need an excision.”\n\n\n\nAn excision? I think, but when he nods to me, I lift my hands and press them to the table in front of me."
+    },
+    {
+      "event": "记忆被倒放着拆解时，Beatrice 在「遗忘」与「记得」之间把抬起的脚跟放回地面、反而向前一步，硬是把记忆留住——她由此断定：只有 Divergent 的大脑能拦住 Memory Vault。",
+      "who": "Beatrice",
+      "receivers": [
+        "Beatrice",
+        "Andrew Prior",
+        "Marcus Eaton"
+      ],
+      "start": 24036,
+      "end": 24289,
+      "text": "I pause there with my heel lifted, frozen between forgetting and remembering. Then I put my foot back down. I step forward, instead, closer to the woman whose ashes I watched Marcus pack into clay. She turns to look at me again. Raises her weapon again."
+    },
+    {
+      "event": "面对父亲的追问，Beatrice 假装记忆已被切除，只说自己记得跑出 Hall of Factions 后 Caleb 找到她、告诉她 Robert 死了；父亲则随口提了一句三楼的 reading room。",
+      "who": "Beatrice",
+      "receivers": [
+        "Andrew Prior"
+      ],
+      "start": 25865,
+      "end": 26052,
+      "text": "“I . . .” Pretend, I tell myself again. My heart is racing. “It all happened so fast. I was in the courtyard and then—I was in front of the\nHall. Caleb found me. He told me about Robert.”"
+    }
+  ],
+  "relations": [
+    "Beatrice–Eleanor：Eleanor 是她的 initiation 指导员，只比她大一点、高一点；Eleanor 的未婚夫是 Amity 转来的，两人在医院刷便盆时认识、之后三周没说话。",
+    "Beatrice–Benjamin：男新任者指导员，负责宣布静默月规则，并说「busy hands lead to quiet minds」。",
+    "Beatrice–Andrew Prior（父亲）：他主张带女儿去作证（「you argued for bringing your daughter here」），随后亲手要求 excision；结尾她认定「Casually erasing my memory」。",
+    "Beatrice–母亲：母亲在 donation center，把整理衣物的活儿派给她——她读出的是「Nothing has changed」。",
+    "Beatrice–Marcus Eaton：议长。听到 Evelyn 的名字只是笑，随后与父亲无声交换眼神、拍板「Yes, it does」，压过父亲「doesn’t rise to the level」的话。",
+    "Beatrice–Abigail Baker：议事员，主持问话，并在 Marcus 施压时替她缓冲（「the past week has been traumatic for our young ones」）。",
+    "Beatrice–Evelyn Eaton：她确认 Evelyn 活着，且看见她手里那把是真枪——就在 Robert 被杀之后。",
+    "Beatrice–Caleb：他已去 Erudite，她夜里想他是否睡在书堆上；记忆里他袖口带血、抱住她告诉她 Robert 死了。",
+    "Beatrice–Robert Black：她只惦记 Robert，却始终没去想那个从梁上摔死的 factionless 女人。",
+    "Beatrice–Mary/Eustace/Susan/Constance/Martha：同届新任者。Eustace 与 Mary 玩手指游戏，她看出那是 Abnegation 式的求偶；Susan 替她收碗，Constance 在墙上贴日历划掉第一天。"
+  ],
+  "numbers": [
+    "four weeks：\"You’ll each be assigned to a new post every week for four weeks.\"",
+    "a month of service：\"You’ve heard this month is a month of service\"",
+    "an hour of meditation：\"Abnegation initiates start the day with an hour of meditation\"",
+    "two days（Penalty of Silence 上限）：\"parents aren’t allowed to impose it for more than two days\"",
+    "three weeks（Eleanor 与未婚夫互不说话）：\"We didn’t say a word to each other for three weeks after that.\"",
+    "sixteen years：\"I spent sixteen years in Abnegation rotating through the acceptable list of hobbies\"",
+    "the past year：\"where I’ve been volunteering for the past year\"",
+    "third night：\"On the third night, I find a reading room I’ve never seen before.\"",
+    "no more than ten years old：\"His son, no more than ten years old, stands in front of him\""
+  ]
+}

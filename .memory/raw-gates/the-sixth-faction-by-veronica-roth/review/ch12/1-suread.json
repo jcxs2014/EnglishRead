@@ -1,0 +1,109 @@
+{
+  "chapter": 12,
+  "pov": "Beatrice（第一人称）",
+  "facts": [
+    {
+      "event": "Susan Black 在院子里主动开口，破了静默誓言——她的理由是「A vow isn’t as important as a friend in need」。",
+      "who": "Susan Black",
+      "receivers": [
+        "Beatrice"
+      ],
+      "start": 934,
+      "end": 1139,
+      "text": "“Couldn’t sleep?” she asks me, and I stare at her.\n\n\n\nShe just broke her vow of silence. Susan. And for what? To talk to me?\n\n\n\n\n“A vow isn’t as important as a friend in need,” she says, with a half shrug."
+    },
+    {
+      "event": "Susan 说出没人知道的秘密：Robert 本打算选 Amity，且 aptitude test 后他哭着回来——他想要一个 Abnegation 的结果。",
+      "who": "Susan Black",
+      "receivers": [
+        "Beatrice",
+        "Robert Black（已死）"
+      ],
+      "start": 1647,
+      "end": 1889,
+      "text": "“Robert was planning on choosing Amity. He told me after the aptitude test.” Her eyes sparkle with tears. “When he came back afterward, he was crying. He wanted an Abnegation result. He wanted the test to tell him something new about himself."
+    },
+    {
+      "event": "Susan 说「No one can pretend forever」，一句话点破 Beatrice 已在盘算离开——她反问「When I go?」。",
+      "who": "Susan Black",
+      "receivers": [
+        "Beatrice"
+      ],
+      "start": 4157,
+      "end": 4300,
+      "text": "“When I go?” I say, wondering what I said, what I did, to make her see what I was planning.\n\n\n\n“Come on, Beatrice. No one can pretend forever.”"
+    },
+    {
+      "event": "第二天她把一张纸条压在交给母亲的衣物翻领下：「I need answers」——正式向母亲表示要走查真相那条路。",
+      "who": "Beatrice",
+      "receivers": [
+        "母亲"
+      ],
+      "start": 5137,
+      "end": 5303,
+      "text": "The next day, I carry a stack of clothes over to my mother in the donation center. Tucked under the lapel of a jacket is a slip of paper that reads: “I need answers.”"
+    },
+    {
+      "event": "过宵禁后她穿好衣服、出门前最后看一眼熟睡的 Susan、Constance、Mary；母亲在走廊等她，一手一个包，母女一起走出 Abnegation 总部。",
+      "who": "Beatrice",
+      "receivers": [
+        "母亲",
+        "Susan",
+        "Constance",
+        "Mary"
+      ],
+      "start": 6441,
+      "end": 6657,
+      "text": "I slip out of the dormitory and close the door quietly behind me. My mother waits for me in the hallway with a bag in each hand. She passes one of them to me and nods. We walk out of Abnegation headquarters together."
+    },
+    {
+      "event": "月台上母亲喊跑、喊跳，Beatrice 照做，纵身扑向疾驰的车厢，肩膀撞疼，落进铁皮车底——她第一次靠跳车上了火车。",
+      "who": "Beatrice",
+      "receivers": [
+        "Beatrice",
+        "母亲"
+      ],
+      "start": 10075,
+      "end": 10349,
+      "text": "But then I do.\n\n\n\n“Jump!”\n\n\n\nI don’t think; I just trust her. I jump to the right. I’m half convinced I’m going to hit a wall of metal. I fall, weightless for just a moment before I hit something hard enough to make my shoulder ache.\n\n\n\n\nIt’s the metal floor of a train car."
+    },
+    {
+      "event": "车厢角落站着的女人原来是 Evelyn Eaton；母亲不是请求而是命令：「You’ll take her in」「You’ll keep her safe」，用来抵 Evelyn 欠她的人情。",
+      "who": "母亲",
+      "receivers": [
+        "Evelyn Eaton",
+        "Beatrice"
+      ],
+      "start": 12494,
+      "end": 12642,
+      "text": "You’ll take her in,” my mother says, and it’s not a question, it’s a command. “You’ll keep her safe. And then I’ll consider your debt to me repaid.”"
+    },
+    {
+      "event": "Evelyn 让她另取一个名字；她把「Beatrice」——那个没失去过任何人、不知道父亲与派系真相的人——留在身后，只求做「gets answers」的人，自称 Tris。",
+      "who": "Beatrice",
+      "receivers": [
+        "Evelyn Eaton",
+        "母亲",
+        "Beatrice（旧身份）"
+      ],
+      "start": 14490,
+      "end": 14714,
+      "text": "“Beatrice” didn’t know the truth about her father, or about the faction she chose.\n\n\n\n\nI know exactly what kind of person I want to be now: the kind who gets answers to all of her questions.\n\n\n\n“Tris,” I say. “Call me Tris.”"
+    }
+  ],
+  "relations": [
+    "Beatrice–Susan Black：Robert 的妹妹，与她像双胞胎（同款睡裙拖鞋、同样的蓝眼睛）；Susan 破戒只为陪她，最后一句「No one can pretend forever」促成她下决心。",
+    "Susan–Robert Black：兄妹。Robert 想选 Amity 却没告诉她为什么；仪式当天她还在生气、几乎没跟他说话，「He told me he loved me, and I didn’t say it back」。",
+    "Beatrice–母亲：母亲深夜提两只包带她出总部、教她跳火车、把她交给 Evelyn；她跳车时「her hair isn’t even out of place」，Beatrice 像看见一个披着母亲皮囊的陌生人。",
+    "母亲–Evelyn Eaton：母亲曾帮 Evelyn 做「the exact same thing」（脱离 Abnegation），Evelyn 因此欠她人情；Evelyn 一句「Like mother, like daughter」暗示母亲出身 Dauntless。",
+    "Beatrice–Evelyn Eaton：第一次正面相对；Evelyn 语气 sour and dark（「Too strong for you, Stiff?」），只问一句「What’s the faction you should have chosen?」。",
+    "Beatrice–父亲：她要留下的「Beatrice」是「didn’t know the truth about her father」的那个人。",
+    "Beatrice–Mary/Constance/Susan：她没告别就离营——「maybe it’s easier this way」。",
+    "Beatrice–Tris：改名是她给自己划的界线（「I have to leave “Beatrice” behind」）。"
+  ],
+  "numbers": [
+    "three different factions：\"She’s wearing an array of clothing from three different factions: deep red pants from Amity, a white shirt from Candor, a black Dauntless jacket.\"",
+    "a bag in each hand：\"My mother waits for me in the hallway with a bag in each hand.\"",
+    "the next station：\"You’d better get off at the next station.\"（Evelyn 让母亲下车的地点，非数字但为原文时间/地点用语）"
+  ]
+}

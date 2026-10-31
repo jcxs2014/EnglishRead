@@ -7,7 +7,7 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-- **一句话概括**：Abnegation 的入门是「完全沉默的一个月」，她却被分回做了一整年的无派系捐赠中心，白天分拣旧衣、夜里失眠乱走；第三夜她在阅读室的议会相册里认出照片上的 Evelyn Eaton，确认仪式那天看见的活人不是幻觉；次日清晨父亲把她叫进记忆库，当着 Abigail Baker 与 Marcus 问完话，再支开两人，把手按上石桌要一次 excision——她在记忆里倒着走，停在忘与记之间，然后把记忆推回原处，睁眼装作什么都没发生。
+- **一句话概括**：Abnegation 的入门是「完全沉默的一个月」，她却被分回那个她做了一年志愿者的无派系捐赠中心，白天分拣旧衣、夜里失眠乱走；第三夜她在阅读室的议会相册里认出照片上的 Evelyn Eaton，确认仪式那天看见的活人不是幻觉；她在记忆库里说破时，Marcus 听完只是笑了一下；次日清晨父亲把她叫进记忆库，当着 Abigail Baker 与 Marcus 问完话，再支开两人，把手按上石桌要一次 excision——她在记忆里倒着走，停在忘与记之间，然后把记忆推回原处，睁眼装作什么都没发生。
 - **情感弧线位置**：本章是她第一次把局面扳回来：前半是压抑（沉默、重复、Everything’s the same as it’s always been），中段是发现（Evelyn 活着），后段是审讯与切除；落点不是解脱，是明白这件事从此只能自己扛。
 - **Tropes 兑现/反转**：兑现「入会仪式的隐藏规则」——一个月的沉默；兑现「照片里的死人」——相册坐实 Evelyn 还活着；反转「无私的家长」：父亲亲自要求切除女儿的记忆，且说「理由现在还不能告诉你」；兑现「记忆可被删改」，只是这一次删改没成。
 - **人物弧线**：从「十六年没找到一个能忍的爱好」的窒息，到在记忆里把抬起的脚跟放回去、反而向前一步——她第一次不是被推着走；结尾她学会的第二件事是演（Pretend），而她把这份演技的示范归给父亲。
@@ -43,56 +43,63 @@ modified: "2026-10-31"
 **为什么这样写**：三个短语给五官（brow / nose / mouth），从骨到肉，最后落在 wry mouth 这个带性格的词上。前面用 couldn’t have 否掉「做梦」，后面用 could only ever be 关掉「认错」这条退路——一次辨认被写成排除法，剩下的只有一个名字。
 **读者视角提示**：这是本章的证词。她给的不是感觉，是三条可以拿去复核的特征。
 
-> **原句 5:** "“It was her,” I say. I didn’t know how sure I was about what I saw until they all questioned it, questioned me. But now I know: I saw Evelyn Eaton, and I saw her carrying a gun, right after Robert Black was shot."
+> **原句 5:** "“We have been tasked with collecting information about what happened last week at the first Choosing Ceremony,” Abigail says. “All the factions are sending witnesses to offer their memories of the event to the vault, for the city’s records as well as the perusal of our Candor investigators, and your father told us you may have a unique perspective to offer.”"
+
+**中文理解**：Abigail 说，他们的任务是收集上周第一次选择仪式上发生了什么；各派系都会派见证人来，把各自的记忆交给记忆库，供城市存档，也供 Candor 的调查员查阅——而她父亲说，她也许能提供一种独特的视角。
+**关键词**：collecting information, sending witnesses, the city’s records, our Candor investigators, your father told us, a unique perspective
+**为什么这样写**：一句话里叠了三层：她为什么在这里（收集信息）、这套制度的形状（各派送见证人、记忆入库）、以及谁把她放进来（她父亲）。前两层把她变成证人，最后半句把父亲从「带她来的人」变成「举荐她的人」——她刚才还以为那件事过去了。
+**读者视角提示**：这一段说清记忆库不是私人档案，而是可以调阅的公共证物室。下一段她交出去的东西，就落进这套流程里。
+
+> **原句 6:** "“It was her,” I say. I didn’t know how sure I was about what I saw until they all questioned it, questioned me. But now I know: I saw Evelyn Eaton, and I saw her carrying a gun, right after Robert Black was shot."
 
 **中文理解**：「就是她，」她说。她说自己原本并不确定，是他们一遍遍质疑那段记忆、质疑到她本人身上，她才确定；现在她知道了：她看见的是 Evelyn Eaton，手里拿着枪，就在 Robert Black 被击中的那一刻之后。
 **关键词**：It was her, questioned it, questioned me, carrying a gun, Robert Black was shot
 **为什么这样写**：这句的因果是反的：不是先确信再作证，而是被质疑之后才确信。questioned it, questioned me 把「怀疑那段记忆」与「怀疑她这个人」并成一句，压力成了证人。最后半句把枪与 Robert 中枪钉在同一条时间轴上，是全章最重的一次并置。
 **读者视角提示**：她说的是 "It was her"，不是 "It was Evelyn"：先确认「是同一个人」，名字是第二步。
 
-> **原句 6:** "“If you could give us the room,” he says, and at first I think he’s asking me to leave, but it’s Abigail and Marcus who come to their feet. All I hear is the shuffling of their clothes as they walk out of the Memory Vault and close the door behind them."
+> **原句 7:** "“If you could give us the room,” he says, and at first I think he’s asking me to leave, but it’s Abigail and Marcus who come to their feet. All I hear is the shuffling of their clothes as they walk out of the Memory Vault and close the door behind them."
 
 **中文理解**：「如果可以，请把房间留给我们，」他说——她起初以为是在赶自己出去，站起来走开的却是 Abigail 和 Marcus；她只听见衣料摩擦的窸窣声，两个人出了记忆库，把门带上。
 **关键词**：give us the room, asking me to leave, Abigail and Marcus, close the door behind them
 **为什么这样写**：整段不写她的情绪，只写她听错了对象（以为要她走），再写随后听见的声音（shuffling of their clothes）。判断失误先出场，声音后到场，读者跟她一起在门关上的那一刻才明白：接下来的话不能有第三个人听见。
 **读者视角提示**：门是这段真正的主语。它一关，屋里的关系就从「议会问话」变成了别的东西。
 
-> **原句 7:** "“I understand,” my father says. “I’d like you to put your hands on the stone, as you did a few days ago, and focus first on your memory of the Choosing Ceremony, and second, on your memory of looking up that photograph of the council leader. Can you do that for me?”"
+> **原句 8:** "“I understand,” my father says. “I’d like you to put your hands on the stone, as you did a few days ago, and focus first on your memory of the Choosing Ceremony, and second, on your memory of looking up that photograph of the council leader. Can you do that for me?”"
 
 **中文理解**：父亲说他明白，然后请她把手放到石头上，像几天前那样，先想选择仪式，再想她翻看议会领袖那张照片的那一刻——问她能不能做到。
 **关键词**：put your hands on the stone, your memory of the Choosing Ceremony, that photograph of the council leader, Can you do that for me
 **为什么这样写**：他要的两段记忆被排了序：先是当天的仪式，再是「翻照片」那一夜。第二段跟仪式毫无关系，却是他真正要的——顺序把目的藏在礼节后面。末句是疑问句，用请求的语气办一件命令的事，她已经没有拒绝的位置。
 **读者视角提示**：他要的是「你看着照片的那一刻」，不是「你看见了谁」。删掉的是她确认的现场，不是结论。
 
-> **原句 8:** "Too late, I think of that news brief that earned me a Penalty of Silence the other day. The headline is burned in my mind: ABNEGATION LEADERSHIP STRENUOUSLY DENIES ALLEGATIONS OF MEMORY TAMPERING."
+> **原句 9:** "Too late, I think of that news brief that earned me a Penalty of Silence the other day. The headline is burned in my mind: ABNEGATION LEADERSHIP STRENUOUSLY DENIES ALLEGATIONS OF MEMORY TAMPERING."
 
 **中文理解**：太迟了，她想起前几天让她吃了一次沉默惩罚的那条新闻简报；标题烙在她脑子里：ABNEGATION 领导层坚决否认一切记忆篡改的指控。
 **关键词**：Too late, news brief, Penalty of Silence, burned in my mind, ALLEGATIONS OF MEMORY TAMPERING
 **为什么这样写**：句子从 Too late 起步，先交代「来不及」，再交代来不及的是什么。标题用全大写闯进叙述，像一张贴在墙上的公告；而它矢口否认的那个词——tampering——正被这间屋子里的几个人做着。否认写得越响，反讽越冷。
 **读者视角提示**：她为读这条新闻付过代价（一次沉默惩罚），所以这条标题对她不是新闻，是旧账。
 
-> **原句 9:** "She’s stepping back, too, in what would seem like an odd dance if I didn’t now realize what was happening: The Memory Vault is unwinding my memory, like it’s tugging a snagged thread from a sewing machine, unthreading the needle, then unwrapping it from the take-up lever, then unwrapping it from the thread guide—"
+> **原句 10:** "She’s stepping back, too, in what would seem like an odd dance if I didn’t now realize what was happening: The Memory Vault is unwinding my memory, like it’s tugging a snagged thread from a sewing machine, unthreading the needle, then unwrapping it from the take-up lever, then unwrapping it from the thread guide—"
 
 **中文理解**：她也在往后退，看上去像一支古怪的舞；她现在明白那是什么：记忆库正在把她的记忆一点点退回去，像从缝纫机里抽一根挂住的线——先退出针，再从挑线杆上绕下来，再从导线器上绕下来。
 **关键词**：stepping back, too, unwinding my memory, snagged thread, take-up lever
 **为什么这样写**：比喻选的是拆线的动作，不是剪断：snagged thread 是「挂住」，unthreading 是「退出」，unwrapping 重复两次，一个动作一个零件地来。作者给删除配了工序，读者才感到它有多慢——慢到人来得及反抗。
 **读者视角提示**：线是从机器上退下来的，不是被烧掉的。这个区别决定了她后面还能不能把线穿回去。
 
-> **原句 10:** "I pause there with my heel lifted, frozen between forgetting and remembering. Then I put my foot back down. I step forward, instead, closer to the woman whose ashes I watched Marcus pack into clay."
+> **原句 11:** "I pause there with my heel lifted, frozen between forgetting and remembering. Then I put my foot back down. I step forward, instead, closer to the woman whose ashes I watched Marcus pack into clay."
 
 **中文理解**：她停在那里，脚跟还抬着，卡在忘掉与记得之间；然后她把脚放回去，反倒向前一步，走近那个她看着 Marcus 把灰装进陶土里的女人。
 **关键词**：my heel lifted, frozen between forgetting and remembering, I put my foot back down, Marcus pack into clay
 **为什么这样写**：一只抬起的脚跟承担了全部张力——身体已经在往回走，动作停在半空。frozen between forgetting and remembering 把两个抽象动词放成一条可以站人的缝。接着是两个相反的动作：put my foot back down 与 step forward，她两样都做了。
 **读者视角提示**：她不是靠力气赢的，是靠多停了半秒。这半秒里没有人帮她。
 
-> **原句 11:** "I keep my eyes closed and my body still. Like the surface of a pond, and beneath it is my kicking feet, the tight grip of my horror at what my father just tried to do, the rush of relief that I have again managed to wriggle away from danger, the confusion at what it all means—about Abnegation, about the Memory Vault, about my Divergent brain."
+> **原句 12:** "I keep my eyes closed and my body still. Like the surface of a pond, and beneath it is my kicking feet, the tight grip of my horror at what my father just tried to do, the rush of relief that I have again managed to wriggle away from danger, the confusion at what it all means—about Abnegation, about the Memory Vault, about my Divergent brain."
 
 **中文理解**：她闭着眼，让身体一动不动；像一片池塘的水面，底下是踢动的脚——父亲刚才想做的事带来的恐惧、又一次从危险里溜掉的松一口气、以及这一切到底意味着什么的困惑：关于 Abnegation，关于记忆库，关于她这颗 Divergent 的脑子。
 **关键词**：my eyes closed and my body still, the surface of a pond, kicking feet, Divergent brain
 **为什么这样写**：先给一个完全没有动作的外壳（闭眼、不动），再用池塘的比喻把内外劈开：水面平，水下踢。三个名词短语排开（horror / relief / confusion），情绪没有主次，全在底下同时动；最后三个 about 把范围一级级推大，从派系推到她自己。
 **读者视角提示**：这是她的第一次伪装。她演的不是「没事」，是「刚交完记忆的人该有的样子」。
 
-> **原句 12:** "All I can do is marvel at how good an actor he is. He sounds so casual. Casually mentioning the reading room where I saw a picture of Evelyn Eaton."
+> **原句 13:** "All I can do is marvel at how good an actor he is. He sounds so casual. Casually mentioning the reading room where I saw a picture of Evelyn Eaton."
 
 **中文理解**：她只能佩服他演得真好：语气那么随口，随口提到那间阅读室——她就是在那里看见 Evelyn Eaton 的照片。
 **关键词**：how good an actor he is, He sounds so casual, the reading room, a picture of Evelyn Eaton
