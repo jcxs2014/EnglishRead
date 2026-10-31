@@ -1,0 +1,82 @@
+{
+ "chapter": "ch36",
+ "pov": "第一人称（Tris 叙述，“我”）+ 一般现在时",
+ "facts": [
+  {
+   "event": "Eric 压得 Tris 胸口几乎无法呼吸，他唇环发亮；越过他肩头 Tris 看见一张熟悉的脸，未及多想就喊出“Uriah！”。",
+   "who": "he (Eric)",
+   "receivers": "me (Tris) / Uriah",
+   "start": 40,
+   "end": 249,
+   "text": "He’s pushing so hard against my chest that it’s hard for me to breathe. “I—” The rings in his lip are gleaming. Over his shoulder\nI see a familiar face, and I call out before I can think better of it. “Uriah!”"
+  },
+  {
+   "event": "Uriah 离开同行的两名女生（Tris 认出是同学 Marlene 与 Lynn），一边喊她“Beatrice”一边跑过来问出了什么事。",
+   "who": "he (Uriah)",
+   "receivers": "me (Tris) / Marlene and Lynn",
+   "start": 599,
+   "end": 755,
+   "text": "“Beatrice,” he says, leaving the group he’s with—I recognize the two girls with him from school, Marlene and Lynn—and jogging over to us. “What’s going on?”"
+  },
+  {
+   "event": "Eric 从 Tris 胸前收手却没有后退；他不能当着 Uriah 承认刚在 Erudite 见过她，只得盯着她的衣服改口，说刚看见她下火车，问她去了哪里。",
+   "who": "Eric",
+   "receivers": "me (Tris)",
+   "start": 939,
+   "end": 1175,
+   "text": "Eric takes his arm away from my chest, but he doesn’t step back. “I just saw you—” He pauses. He can’t admit to where he just saw me, not in front of Uriah. His gaze drops to my clothes. “I just saw you get off a train. Where were you?”"
+  },
+  {
+   "event": "Eric 翻了个白眼，说自己为这个派别的未来感到绝望，警告 Tris 别再被他抓到违规。",
+   "who": "he (Eric)",
+   "receivers": "me (Tris)",
+   "start": 1966,
+   "end": 2089,
+   "text": "He rolls his eyes. “I despair for the future of this faction. Don’t let me catch you breaking the rules again, understand?”"
+  },
+  {
+   "event": "Uriah 说半小时前看见 Four 去了纹身店、现在大概还在那里，于是叫 Tris 跟他走。",
+   "who": "Uriah",
+   "receivers": "me (Tris) / Four",
+   "start": 3603,
+   "end": 3708,
+   "text": "“I just saw him go to the tattoo shop a half hour ago,” Uriah says. “He’s probably still there. Come on.”"
+  },
+  {
+   "event": "帘后小间里，一名长发女子坐在凳上、手持纹身针；旁边一个男孩反坐在椅子上、头侧向一边，他赤裸的胸臂让 Tris 过了一瞬才认出那是 Four。",
+   "who": "I",
+   "receivers": "Four",
+   "start": 5111,
+   "end": 5361,
+   "text": "Beside her is a boy sitting backward on a chair, his arms on the backrest and his head turned to the side.\nHis chest and arms are bare, and I’m so distracted by the suddenness of all that skin that it takes me a moment to realize\nI’m looking at Four."
+  },
+  {
+   "event": "Four 背上的纹身是一整片黑墨，沿脊椎爬成连续的一幅图——Tris 过了一拍才认出那是五大派别符号彼此缠绕。",
+   "who": "The tattoo",
+   "receivers": "his spine",
+   "start": 8472,
+   "end": 8653,
+   "text": "The tattoo is a shock of black ink on pale skin. It crawls all the way up his spine, one continuous image that I recognize a beat later as the faction symbols woven into each other."
+  },
+  {
+   "event": "站在他面前，Tris 意识到：自从她查出他的真名，两人就一直站在不平等的位置上——她知道他经历过的最糟的事，而他对她所知仅限她说过的话。",
+   "who": "I",
+   "receivers": "him (Four)",
+   "start": 12817,
+   "end": 13045,
+   "text": "It occurs to me, standing before him, that we’ve been on unequal footing ever since I figured out his real name. From that moment on, I knew the worst thing that ever happened to him. All he knows about me is what I’ve told him."
+  }
+ ],
+ "relations": [
+  "Uriah 用“Beatrice”称呼 Tris，并当着 Eric 的面把她当作 Dauntless 的人，替她解了围（Eric 因此收手）。",
+  "Eric 不能当众说出刚在 Erudite 总部见过 Tris，只能改口问她为何下火车，最后只警告她别再违规便放她走。",
+  "Uriah 把 Tris 带到纹身店找 Four，并说明 Four 半小时前去了那里。",
+  "Tris 隔帘看见 Four 赤裸上身让 Tori 补纹身，认出他背上五大派别符号交织的图案。",
+  "Four 与 Tris 之间因“真名/身世”形成信息不对等：她知道他最痛的过去，他只知道她自述的部分。"
+ ],
+ "numbers": [
+  "Fifteen（“Fifteen,” I say, interrupting him. “I’m fifteen. I haven’t chosen yet.”——Tris 抢在 Uriah 之前，谎称自己十五岁、尚未选派）",
+  "two girls（“the two girls with him from school, Marlene and Lynn”——与 Uriah 同行的两名女生）",
+  "a half hour ago（“I just saw him go to the tattoo shop a half hour ago”——Uriah 说半小时前看见 Four 去纹身店）"
+ ]
+}
