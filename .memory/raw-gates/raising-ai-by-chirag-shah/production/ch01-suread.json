@@ -1,0 +1,61 @@
+{
+ "book": "raising-ai-by-chirag-shah",
+ "chapter": "ch01",
+ "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch01_prologue.txt",
+ "facts": [
+  {
+   "fact": "叙述者在本科 AI 课的最后口试上走向考官桌子，教室显得比平时小，脚步声在寂静中回响。",
+   "anchor": "The exam room felt smaller than usual as I walked toward the examiner",
+   "start": 11,
+   "end": 80
+  },
+  {
+   "fact": "他的期末项目是一个简单前馈网络：多层感知机加反向传播，做模式分类；当时课上不教神经网络，学院也没有网络。",
+   "anchor": "a simple feed forward network with multiple layers of Perceptrons running backpropagation algorithm to do a pattern classification task",
+   "start": 400,
+   "end": 535
+  },
+  {
+   "fact": "他的学院在印度西部古吉拉特邦的小镇 Nadiad，只能靠校内小图书馆的旧书自学。",
+   "anchor": "named Nadiad in the western state of Gujarat",
+   "start": 833,
+   "end": 877
+  },
+  {
+   "fact": "同专业的室友批评他：为什么不做个正常的规则系统，还断定他超出了自己的能力。",
+   "anchor": "Why couldn’t you have done something normal like building a rule-based system",
+   "start": 1108,
+   "end": 1185
+  },
+  {
+   "fact": "他盯上孟买 IIT，想在那里继续做更疯的 AI 项目；这门课挂掉会毁掉大四实习。",
+   "anchor": "Indian Institute of Technology (IIT) in Bombay",
+   "start": 1503,
+   "end": 1549
+  },
+  {
+   "fact": "早期灵感来自生物大脑的想法出自 McCulloch 与 Pitts，二人 1943 年的神经元模型今天仍在教。",
+   "anchor": "Sturgis McCulloch and Walter Pitts",
+   "start": 2487,
+   "end": 2521
+  },
+  {
+   "fact": "1957 年 Rosenblatt 演示他称为 Perceptron 的新型神经元，《纽约时报》标题写「New Navy Device Learns by Doing」。",
+   "anchor": "Frank Rosenblatt did his famous demonstration of a new kind of neuron",
+   "start": 2714,
+   "end": 2783
+  },
+  {
+   "fact": "二十岁之前有十八年没说过英语：母语是古吉拉特语，也能流利讲印地语，进大学才被迫用英语。",
+   "anchor": "Eighteen out of my 20 years of life until then, I hadn",
+   "start": 4605,
+   "end": 4659
+  },
+  {
+   "fact": "考官对「人类是否也这样学习」的回答是「没关系，没人知道」，他因此通过了考试。",
+   "anchor": "That’s ok, nobody does",
+   "start": 5578,
+   "end": 5600
+  }
+ ]
+}
