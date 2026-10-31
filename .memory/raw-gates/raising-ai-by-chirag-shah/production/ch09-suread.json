@@ -1,0 +1,55 @@
+{
+ "book": "raising-ai-by-chirag-shah",
+ "chapter": "ch09",
+ "text": "notes/books/non-fiction/raising-ai-by-chirag-shah/text/ch09_epilogue_the_game_we_choose_to_play.txt",
+ "facts": [
+  {
+   "fact": "章首引语出自 1983 年电影 WarGames，回响在 2026 年 1 月一个清晨作者 Kenmore 书房",
+   "anchor": "The only winning move is not to play",
+   "start": 40,
+   "end": 76
+  },
+  {
+   "fact": "军事超算 WOPR 推演无数遍后得出：核冲突没有赢家",
+   "anchor": "in nuclear conflict, there are no winners",
+   "start": 555,
+   "end": 596
+  },
+  {
+   "fact": "Arrival（2016，Denis Villeneuve）中十二艘外星飞船降临地球",
+   "anchor": "twelve alien spacecraft descend upon Earth",
+   "start": 1087,
+   "end": 1129
+  },
+  {
+   "fact": "外星人到来的不是征服而是礼物，他们需要人类如同人类需要他们",
+   "anchor": "Their survival, centuries hence, depends on humanity’s flourishing now.",
+   "start": 1782,
+   "end": 1853
+  },
+  {
+   "fact": "作者三十年（印度本科神经网络、加州人形机器人、推荐系统偏见幽灵）后总结的信念",
+   "anchor": "We are not at war with AI. We are raising it.",
+   "start": 3080,
+   "end": 3125
+  },
+  {
+   "fact": "大三口头考试时考官对作者「你的网络像人一样学习吗」的回应",
+   "anchor": "That’s ok, nobody does",
+   "start": 3649,
+   "end": 3671
+  },
+  {
+   "fact": "作者从「无知」进步到「知道自己无知」——这也是一种进步",
+   "anchor": "I have moved from not knowing to knowing what I do not know",
+   "start": 4914,
+   "end": 4973
+  },
+  {
+   "fact": "结尾句：唯一的输法就是假装这场游戏不由我们塑造",
+   "anchor": "The only losing move is to pretend the game is not ours to shape.",
+   "start": 12361,
+   "end": 12426
+  }
+ ]
+}
