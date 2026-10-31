@@ -1,0 +1,67 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch22",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch22_ho_ho_horribly_bad_christmas_jokes.txt",
+ "facts": [
+  {
+   "fact": "圣诞老人买雪橇花了多少钱？没花钱：on the house 既指“免费”又指“在屋顶上”，雪橇正停在屋顶",
+   "anchor": "How much did Santa pay for his sleigh? Nothing, it was on the house.",
+   "start": 84,
+   "end": 152
+  },
+  {
+   "fact": "有六块腹肌的雪人叫 abdominal snowman——abdominal 谐音 abominable（雪人＝abominable snowman）",
+   "anchor": "What do you call a snowman with a six pack? An abdominal snowman!",
+   "start": 157,
+   "end": 222
+  },
+  {
+   "fact": "朋友送来德国圣诞果脯面包，我问 Is this stollen？（是偷来的吗）她答“不是，我自己做的”——stollen 与 stolen 同音",
+   "anchor": "I said, ‘Is this stollen?’ She said ‘No, I made it.’",
+   "start": 581,
+   "end": 633
+  },
+  {
+   "fact": "以为对方是雪橇广告模特：说 I think you’ve been misled（你被误导了），我听成 Miss Sled（雪橇小姐）",
+   "anchor": "She said, ‘I think you’ve been misled.’ I said, ‘Oh, I thought you’d been Miss Sled.’",
+   "start": 726,
+   "end": 811
+  },
+  {
+   "fact": "三博士逐个谐音：金＝gold guy、乳香＝frankincense fellow、没药＝myrrh man，三句都以“我是 X 人”收尾",
+   "anchor": "I said to the first one, ‘Wow, you’re dressed so ostentatiously, covered in precious metals!’ He said, ‘Yeah, I’m a gold guy.’",
+   "start": 854,
+   "end": 980
+  },
+  {
+   "fact": "收到的礼物完全不像芳香常绿香草：no thyme like the present——thyme（百里香）谐音 time，no time like the present（机不可失）",
+   "anchor": "There’s no thyme like the present.",
+   "start": 1330,
+   "end": 1364
+  },
+  {
+   "fact": "买错圣诞日历：本该是 advent calendar（有门的日历），买成 advent colander（碗状滤盆，满是孔）——两词形近",
+   "anchor": "Silly me, I’d accidentally bought an advent colander.",
+   "start": 1512,
+   "end": 1565
+  },
+  {
+   "fact": "圣诞老人的助手为什么害羞？low elf-esteem——self-esteem（自尊）换成 elf-esteem",
+   "anchor": "Why was Santa’s assistant so shy? He had low elf-esteem.",
+   "start": 1656,
+   "end": 1712
+  },
+  {
+   "fact": "斯克鲁奇怎么进的球？The Ghost of Christmas passed——past（过去之灵）换成 passed（传球）",
+   "anchor": "How did Ebeneezer Scrooge score a goal? The Ghost of Christmas passed.",
+   "start": 2083,
+   "end": 2153
+  },
+  {
+   "fact": "我说滑雪橇时听七十年代华丽摇滚乐队的圣诞歌，对方猜 Slade（乐队名），我改口把 sledded 说成 sleighed——Slade 与 sleighed 同音",
+   "anchor": "‘Slade?’ ‘Okay fine, I sleighed down a hill listening to my favourite Christmas song by seventies glam rock band, Wizzard!’",
+   "start": 2705,
+   "end": 2828
+  }
+ ]
+}
