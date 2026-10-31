@@ -1,0 +1,67 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch18",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch18_terrible_travel_jokes.txt",
+ "facts": [
+  {
+   "fact": "穿凉鞋的法国人叫 Phillipe Floppe——flip-flop（人字拖）",
+   "anchor": "What do you call a Frenchman in sandals? Phillipe Floppe.",
+   "start": 113,
+   "end": 170
+  },
+  {
+   "fact": "俄罗斯套娃很自信：里面装满自己（full of themselves＝自负／装满自己）",
+   "anchor": "Russian dolls are overconfident. They’re so full of themselves.",
+   "start": 178,
+   "end": 241
+  },
+  {
+   "fact": "瑞士最好的地方：国旗上一个大十字（plus＝加号／优点）",
+   "anchor": "What’s the best thing about Switzerland? Well, the flag’s a big plus.",
+   "start": 246,
+   "end": 315
+  },
+  {
+   "fact": "飞机上与占座的人争执，最后对方起身说“行，你开飞机吧”——他其实是飞行员",
+   "anchor": "Eventually he stood up and said, ‘Fine, you fly the plane!’",
+   "start": 423,
+   "end": 482
+  },
+  {
+   "fact": "想让朋友玩从北方开始圈加拿大领地的游戏，她说没兴趣：Nunavut 谐音 none of it",
+   "anchor": "She was having Nunavut.",
+   "start": 603,
+   "end": 626
+  },
+  {
+   "fact": "在克罗地亚第二大城吃香蕉冰淇淋，对方问“Split？”（城名），答“不，就是普通香蕉冰淇淋”",
+   "anchor": "‘Split?’ ‘No, just a regular banana ice-cream.’",
+   "start": 795,
+   "end": 842
+  },
+  {
+   "fact": "在密歇根湖附近见到自己的分身，对方说“Eerie”（伊利湖），答“不，绝对是密歇根”",
+   "anchor": "‘I saw my doppelganger once, near Lake Michigan.’ ‘Eerie.’ ‘No, it was definitely Michigan.’",
+   "start": 847,
+   "end": 939
+  },
+  {
+   "fact": "以前从路易斯安那买洗衣粉，现在改用 non-bayou（不含河口沼泽）／non-buy?",
+   "anchor": "I used to buy my washing powder from Louisiana, but recently I’ve switched to non-bayou.",
+   "start": 1132,
+   "end": 1220
+  },
+  {
+   "fact": "在俄罗斯餐巾厂工作，加入了 serviette union——谐音 Soviet Union",
+   "anchor": "I used to work in a napkin factory in Russia. I was in the serviette union.",
+   "start": 2867,
+   "end": 2942
+  },
+  {
+   "fact": "罗马尼亚晚上不能看书：该让 Bucharest（书休息）——book a rest",
+   "anchor": "Why can’t you read at night in Romania? It’s time to give the Bucharest.",
+   "start": 3007,
+   "end": 3079
+  }
+ ]
+}
