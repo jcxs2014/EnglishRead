@@ -1,0 +1,84 @@
+{
+ "chapter": 13,
+ "text": "text/ch13_chapter_thirteen_tilde.txt",
+ "chars": 10122,
+ "facts": [
+  {
+   "id": 1,
+   "event": "达戈伯特应门，用苦涩的声音质问来者是谁，蒂尔德答称自己是“翼之羽”，前来做新娘。",
+   "relation": "达戈伯特（祭司）与蒂尔德（梅洛吉亚新娘）在盐湖巢穴门口对峙",
+   "numbers": "",
+   "anchor": "Dagobert answered my knock. ‘Who is it that comes to the Nest?’",
+   "interval": [
+    27,
+    90
+   ]
+  },
+  {
+   "id": 2,
+   "event": "祭司从银碗取一粒盐投入蒂尔德口中并朝她脸上吹气除罪，随后放她跨过石门槛进入巢穴。",
+   "relation": "巢穴祭司为蒂尔德行入门礼，蒂尔德心知自己带着杀意而来",
+   "numbers": "a grain of salt",
+   "anchor": "He almost threw the grain at my open mouth, then blew in my face",
+   "interval": [
+    1429,
+    1493
+   ]
+  },
+  {
+   "id": 3,
+   "event": "蒂尔德走进盐湖巢穴，看见里兰穿蓝袍配貂皮站在祭坛旁，诸子着白衣列立，康林脸上带伤。",
+   "relation": "里兰（国王）在祭坛等候新娘；其子康林、海因、伊森随侍",
+   "numbers": "his sons in white",
+   "anchor": "There stood Liran, waiting by the pulpit in a cloak of vivid blue",
+   "interval": [
+    3000,
+    3065
+   ]
+  },
+  {
+   "id": 4,
+   "event": "里兰从祭坛跃下冲到蒂尔德面前，用手猛击她的喉咙，逼问她为何不穿规定的礼服、伊莉丝在哪里。",
+   "relation": "里兰对蒂尔德施暴；这是她第二次未按他的要求着装",
+   "numbers": "the second time; second time in one day",
+   "anchor": "I did not move as his hand slammed into my throat.",
+   "interval": [
+    5243,
+    5293
+   ]
+  },
+  {
+   "id": 5,
+   "event": "绿眼的格韦兰与持杖老者奥东先后出声，提醒里兰巢穴内不许动武，伊森与乌特倫的呼唤最终让他松手。",
+   "relation": "格韦兰（公爵）、奥东（帕拉蒂）、伊森（王子）、乌特倫（大臣）共同制衡里兰",
+   "numbers": "",
+   "anchor": "‘Violence is not permitted in the Nest.’",
+   "interval": [
+    5601,
+    5641
+   ]
+  },
+  {
+   "id": 6,
+   "event": "蒂尔德跪下却拒绝起身，声称只听从国王的命令，借祭司与王权之争自保，达戈伯特气怒、里兰则稍显满意。",
+   "relation": "蒂尔德在达戈伯特（祭司权威）与里兰（王权）之间挑动裂隙",
+   "numbers": "",
+   "anchor": "‘I will rise when the king tells me to rise,’ I said.",
+   "interval": [
+    9152,
+    9205
+   ]
+  },
+  {
+   "id": 7,
+   "event": "里兰命她起身并背对达戈伯特离去，蒂尔德站起，暗下决心要露出毒牙刺进暴君的心脏。",
+   "relation": "里兰暂时压下冲突；蒂尔德伪装顺从、实则蓄意复仇",
+   "numbers": "",
+   "anchor": "‘Rise,’ said Liran, turning his back on Dagobert.",
+   "interval": [
+    9718,
+    9767
+   ]
+  }
+ ]
+}

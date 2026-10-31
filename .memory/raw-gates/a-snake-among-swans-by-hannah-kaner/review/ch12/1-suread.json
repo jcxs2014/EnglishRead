@@ -1,0 +1,95 @@
+{
+ "chapter": 12,
+ "text": "text/ch12_chapter_twelve_elise.txt",
+ "chars": 14207,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Elise 在 Nest 外等候，心里清楚自己本该留下看新后更衣，却因羞愤离场。",
+   "relation": "Elise—Tilde（王妃与公主，敌对又暗自吸引）；Elise—父亲 Liran（服从与恐惧）",
+   "numbers": "第一章场景：evensong 钟响前",
+   "interval": [
+    25,
+    55
+   ],
+   "anchor": "Elise waited outside the Nest."
+  },
+  {
+   "id": 2,
+   "event": "回忆中 Liran 当众掌掴儿子 Conrin；Elise 私下认为 Conrin 活该，因为他确实举枪纵马、罔顾旁人。",
+   "relation": "Liran—Conrin（父子，国王当众羞辱王储）；Elise—Conrin（姐弟，隐秘的评判）",
+   "numbers": "first time / one time",
+   "interval": [
+    671,
+    728
+   ],
+   "anchor": "Steadily, his rages had worsened, his restraint lessened."
+  },
+  {
+   "id": 3,
+   "event": "Elise 忆及两个姐妹的结局：Erelle 两年内如愿出嫁，Isuire 已死。",
+   "relation": "Elise—Erelle / Isuire（姐妹）",
+   "numbers": "In two years",
+   "interval": [
+    8247,
+    8320
+   ],
+   "anchor": "In two years, Erelle was married, just as she had hoped. Isuire was dead."
+  },
+  {
+   "id": 4,
+   "event": "等待的妇女中 Daegmar 抱怨脚痛，同样怀孕且月份更大的 Lady Cynefel 主动提出给她披肩或搬凳子。",
+   "relation": "Daegmar—Cynefel（同为孕妇的宫廷贵妇，彼此客套）",
+   "numbers": "her second",
+   "interval": [
+    3721,
+    3787
+   ],
+   "anchor": "said Daegmar, shifting from foot to foot as she held up her branch"
+  },
+  {
+   "id": 5,
+   "event": "Tilde 现身庭院：没穿 Cynghal 低领束腰亚麻礼服，而是一袭 enker 绿长袍，散发披肩，发间编入常春藤与野花。",
+   "relation": "Tilde—Elise（被凝视者与凝视者）；Tilde—Cynghal 宫廷（以异族婚服示众）",
+   "numbers": "enker green",
+   "interval": [
+    6190,
+    6235
+   ],
+   "anchor": "Instead, she wore a long robe of enker green."
+  },
+  {
+   "id": 6,
+   "event": "Lady Cynefel 低声解释这是 Merogian 婚服：新人被引到林中不同路径、须彼此寻得，绿色让寻找更难。",
+   "relation": "Cynefel—Merogia（出身 Merogian 却已归化）；Cynefel—Elise（被追问者与提问者）",
+   "numbers": "two pathways",
+   "interval": [
+    7617,
+    7644
+   ],
+   "anchor": "are Merogian marriage robes"
+  },
+  {
+   "id": 7,
+   "event": "Cynefel 说 Ardweni 持镰刀与匕首，但 Nest 内禁携武器；Elise 随即高声警告若 Tilde 在 Nest 行凶全体 Merogian 连坐，话出口又为自己的迁怒羞愧。",
+   "relation": "Elise—Cynefel（公主威胁归化的 Merogian 贵妇）；Elise—Tilde（以连坐施压）",
+   "numbers": "sickle and dagger",
+   "interval": [
+    12555,
+    12603
+   ],
+   "anchor": "Ardweni carry a sickle and dagger in their hands"
+  },
+  {
+   "id": 8,
+   "event": "Elise 率先俯身把绿枝铺在地上，众女随之铺成 hedge-birch、rowan 与 pine 的枝毯；Tilde 踏枝走到 Nest 门前，抬手敲门，没有逃。",
+   "relation": "众女—Tilde（以铺枝礼迎 queen）；Tilde—Nest/宫廷（主动入门受礼）",
+   "numbers": "hedge-birch, rowan and pine",
+   "interval": [
+    14154,
+    14206
+   ],
+   "anchor": "Tilde did not run. She raised her hand, and knocked."
+  }
+ ]
+}

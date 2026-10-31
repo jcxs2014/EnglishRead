@@ -1,0 +1,95 @@
+{
+ "chapter": 11,
+ "text": "text/ch11_chapter_eleven_tilde.txt",
+ "chars": 21859,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Hadiah 替 Tilde 敷上冷敷布，Marolyn 一边替她梳头一边咒骂 Gundobar、篡位者、傲慢王子与不敢直视她的 tarns。",
+   "relation": "Marolyn 是 Tilde 的贴身女伴，Hadiah 是她的表姐",
+   "numbers": "",
+   "interval": [
+    26,
+    98
+   ],
+   "anchor": "That bastard,’ Marolyn hissed as Hadiah put a cold compress on my elbow."
+  },
+  {
+   "id": 2,
+   "event": "Hadiah 断言 Liran 一死诸子必起战，并逐一点明长子只得 Suneheim、次子 Isen 有黑卫、Cynghal 之军靠劫掠而财源已枯。",
+   "relation": "Hadiah 是 Tilde 的表姐兼宫廷情报顾问，向 Tilde 分析 Cynghal 三王子",
+   "numbers": "the eldest / the second, Isen",
+   "interval": [
+    2872,
+    2910
+   ],
+   "anchor": "There would be war,’ she said at last."
+  },
+  {
+   "id": 3,
+   "event": "Hadiah 讲述 Liran 少年时叔父们为夺盐与改宗弑其父，他逃过政变、聚兵回来夺回王冠。",
+   "relation": "Liran 是被弑君者之子、以复仇起家的王",
+   "numbers": "Half a century ago",
+   "interval": [
+    5455,
+    5542
+   ],
+   "anchor": "Liran’s uncles killed his father for taking the salt and converting to the Wing’s faith"
+  },
+  {
+   "id": 4,
+   "event": "一群女仆抬着大小礼箱、铜浴盆与热水涌进房间，称这些是宫廷贵族送来的 morgengabe。",
+   "relation": "女仆与 serf 属于公主/后宫主管 Morwynna 管辖",
+   "numbers": "morgengabe（新娘礼）",
+   "interval": [
+    7896,
+    7946
+   ],
+   "anchor": "These are morgengabe,’ said the servant to Hadiah."
+  },
+  {
+   "id": 5,
+   "event": "Morwynna 自报是后宫女眷居所的主管，并冷然纠正 Marolyn：她是 Cynghal 人，不是 Merogian。",
+   "relation": "Morwynna 是公主 Elise 手下的后宫主管，与 Merogian 俘虏身份切割",
+   "numbers": "",
+   "interval": [
+    8653,
+    8700
+   ],
+   "anchor": "No,’ she said, her tone cooling. ‘I am Cynghal."
+  },
+  {
+   "id": 6,
+   "event": "公主 Elise 闯入斥责 Tilde 当众裸浴不知遮掩，随后宣布晚祷后在 Nest 由大祭司为她主婚，并指定用其亡母的婚纱。",
+   "relation": "Elise 是 Cynghal 公主、被派来监管 Tilde 的婚礼",
+   "numbers": "twenty-two years",
+   "interval": [
+    14328,
+    14374
+   ],
+   "anchor": "There the high priest has agreed to marry you."
+  },
+  {
+   "id": 7,
+   "event": "Tilde 从梁上绳圈与书架上认出这是已故王后 Isabella 的寝殿，那绳是她的生育绳，而 Elise 被命令服侍母亲的替代者。",
+   "relation": "Isabella 是 Liran 已故王后、Elise 之母；Tilde 是她的替代者",
+   "numbers": "",
+   "interval": [
+    16557,
+    16613
+   ],
+   "anchor": "Elise had been ordered to serve her mother’s replacement"
+  },
+  {
+   "id": 8,
+   "event": "Hadiah 坦白早已看穿 Tilde 求死之心并告知其母，随后三人相拥发誓无论痛苦或死亡都与她同担。",
+   "relation": "Hadiah、Marolyn 是 Tilde 的两位女伴，发誓共赴生死",
+   "numbers": "",
+   "interval": [
+    20506,
+    20549
+   ],
+   "anchor": "I told your mother you intended to die here"
+  }
+ ]
+}
