@@ -86,19 +86,7 @@ modified: "2026-10-31"
 
 **表达方式**：copper traces 一词双关「铜导线」与「痕迹」；solder（焊料）与河流、泥土这些原生意象并置，把现代制造重新神圣化。
 
-> **原句 7:** "He pulled the curtain back on the pyramid scheme of mining companies. No, there will not always be more and more. He blue-jeaned their three-piece banquets, spray-painted their extract-and-frack lifestyles with environmental truths. In letter after letter, speech after speech, he called “extract and frack for continued prosperity” a failed plan."
-
-**中文理解**：他揭开了矿业公司金字塔骗局的幕布。不，资源不会总是源源不断。他闯入他们三件套西装的宴会，用环境真相喷绘他们「开采与压裂」的生活方式。在一封封信、一场场演讲里，他把「开采与压裂换取持续繁荣」称作失败的方案。
-
-**关键词**：pyramid scheme of mining companies / blue-jeaned their three-piece banquets / extract-and-frack / a failed plan
-
-**为什么这样写**：用「金字塔骗局」定义矿业经济的本质，用 blue-jeaned 这个动词（穿牛仔裤闯入）写出 Ishko 的草根行动风格——他不是写论文，而是直接闯进权力现场。
-
-**句子结构**：连续三个动作句（pulled the curtain / blue-jeaned / spray-painted），最后以 In letter after letter, speech after speech 的排比收束他的战斗方式。
-
-**表达方式**：blue-jeaned 是作者自造的名词动用，画面感极强；three-piece banquets 指穿三件套西装的精英饭局，与牛仔裤形成阶级对撞。
-
-> **原句 8:** "As I watch this wolf, something about the irregular shag on his right foreleg draws my eye. Tufts of copper and then a gap. A scar shaped like a curved dish or child’s paper moon. The kind that will save you when you hang it with string by your window smudge. Sweetly there and fading as months change. A curl of hope, a promise. Waiting like an unbaited fish hook. Or a bay named escape."
+> **原句 7:** "As I watch this wolf, something about the irregular shag on his right foreleg draws my eye. Tufts of copper and then a gap. A scar shaped like a curved dish or child’s paper moon. The kind that will save you when you hang it with string by your window smudge. Sweetly there and fading as months change. A curl of hope, a promise. Waiting like an unbaited fish hook. Or a bay named escape."
 
 **中文理解**：我看着这只狼，他右前腿上不规则的乱毛吸引了我的目光。一簇铜色毛，然后是一道缺口。一道伤疤，形状像弯盘或孩子用纸剪的月亮——那种用线挂在窗边、挂在熏香上能保佑你的纸月亮。它温柔地在那里，随月份更替渐渐淡去。一缕希望的卷边，一个承诺，像没有挂饵的鱼钩一样等待。或是一个名叫「逃脱」的海湾。
 
@@ -109,6 +97,18 @@ modified: "2026-10-31"
 **句子结构**：短句碎片化（Tufts of copper and then a gap. / Sweetly there and fading…），最后用 Waiting like… Or a bay named escape 的双重比喻收束。
 
 **表达方式**：copper 是全文的核心颜色词，连接电路、狼毛与希望；unbaited fish hook 是「未挂饵的鱼钩」，等待却不强求。
+
+> **原句 8:** "He pulled the curtain back on the pyramid scheme of mining companies. No, there will not always be more and more. He blue-jeaned their three-piece banquets, spray-painted their extract-and-frack lifestyles with environmental truths. In letter after letter, speech after speech, he called “extract and frack for continued prosperity” a failed plan."
+
+**中文理解**：他揭开了矿业公司金字塔骗局的幕布。不，资源不会总是源源不断。他闯入他们三件套西装的宴会，用环境真相喷绘他们「开采与压裂」的生活方式。在一封封信、一场场演讲里，他把「开采与压裂换取持续繁荣」称作失败的方案。
+
+**关键词**：pyramid scheme of mining companies / blue-jeaned their three-piece banquets / extract-and-frack / a failed plan
+
+**为什么这样写**：用「金字塔骗局」定义矿业经济的本质，用 blue-jeaned 这个动词（穿牛仔裤闯入）写出 Ishko 的草根行动风格——他不是写论文，而是直接闯进权力现场。
+
+**句子结构**：连续三个动作句（pulled the curtain / blue-jeaned / spray-painted），最后以 In letter after letter, speech after speech 的排比收束他的战斗方式。
+
+**表达方式**：blue-jeaned 是作者自造的名词动用，画面感极强；three-piece banquets 指穿三件套西装的精英饭局，与牛仔裤形成阶级对撞。
 
 > **原句 9:** "“Environmental Media Darling Self-Destructs” was the Fox News headline. “Caught Embezzling” was a popular tagline for photos showing Ishko at a casino. I’ve printed the articles, assembled them in a poly envelope, and hidden them in the linen closet between carefully folded floral sheets."
 
