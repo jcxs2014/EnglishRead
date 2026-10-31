@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch48",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch48_chapter_forty_eight_tilde.txt",
+ "facts": [
+  {
+   "fact": "蓝厅门口只有两名守卫",
+   "anchor": "guarded by only two men",
+   "start": 66,
+   "end": 89
+  },
+  {
+   "fact": "Conrin 的人戴灰围巾，Alar 的人腕系红带",
+   "anchor": "One in a grey scarf",
+   "start": 161,
+   "end": 180
+  },
+  {
+   "fact": "远处 Liran 雕像脚下升起一股浓灰烟，是信号",
+   "anchor": "a plume of smoke",
+   "start": 2137,
+   "end": 2153
+  },
+  {
+   "fact": "Conrin 回头看见她，脸色灰得像自己的旗",
+   "anchor": "he went as grey as his flag",
+   "start": 5498,
+   "end": 5525
+  },
+  {
+   "fact": "她说没有什么比混乱更能瓦解一支军队",
+   "anchor": "And nothing dismantles an army",
+   "start": 2366,
+   "end": 2396
+  },
+  {
+   "fact": "她以天鹅王后与梅洛吉亚继承人之母的身份自陈来救场",
+   "anchor": "I am come to save you",
+   "start": 6592,
+   "end": 6613
+  },
+  {
+   "fact": "Alar 当众讥 Conrin「牌出得太早」",
+   "anchor": "Showed your hand too soon",
+   "start": 7177,
+   "end": 7202
+  },
+  {
+   "fact": "章末 Conrin 拔剑高喊拥护新天鹅王",
+   "anchor": "rally to the new swan king",
+   "start": 7476,
+   "end": 7502
+  }
+ ]
+}

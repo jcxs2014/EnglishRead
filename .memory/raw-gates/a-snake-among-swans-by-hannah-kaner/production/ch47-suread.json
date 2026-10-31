@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch47",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch47_chapter_forty_seven_elise.txt",
+ "facts": [
+  {
+   "fact": "她一夜未眠，在麻木与暴怒之间来回，砸门无人应",
+   "anchor": "Elise had not slept",
+   "start": 30,
+   "end": 49
+  },
+  {
+   "fact": "她这些年求的赦免，罪由只是替姐姐说了话",
+   "anchor": "the crime of speaking for her sister",
+   "start": 3208,
+   "end": 3244
+  },
+  {
+   "fact": "她自问：女人不能有权力、不能统治、不能改变",
+   "anchor": "Women could not have power",
+   "start": 1793,
+   "end": 1819
+  },
+  {
+   "fact": "窗外低墙上已升起一面灰旗",
+   "anchor": "a grey flag had been raised",
+   "start": 2294,
+   "end": 2321
+  },
+  {
+   "fact": "Dagobert 披甲戴帽，骑白马在雕像下载人聚木点火",
+   "anchor": "was Dagobert",
+   "start": 2661,
+   "end": 2673
+  },
+  {
+   "fact": "她把织了数月的天鹅挂毯割成碎片",
+   "anchor": "The threads were in pieces",
+   "start": 3869,
+   "end": 3895
+  },
+  {
+   "fact": "她想到兵营——那才是此刻的关键",
+   "anchor": "The barracks.",
+   "start": 5653,
+   "end": 5666
+  },
+  {
+   "fact": "她抄起纺凳砸穿自己房间的窗玻璃",
+   "anchor": "smashed it through the glass",
+   "start": 5856,
+   "end": 5884
+  }
+ ]
+}
