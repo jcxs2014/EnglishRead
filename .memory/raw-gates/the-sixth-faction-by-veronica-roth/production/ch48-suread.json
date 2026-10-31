@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch48",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch48_chap48.txt",
+ "facts": [
+  {
+   "fact": "Caleb 每周三去 Jeanine Matthews 的办公室替她处理她口中的「tedious work」，他自己几乎不觉得这活枯燥。",
+   "anchor": "Wednesday is the day that he goes to Jeanine Matthews’s office",
+   "start": 116,
+   "end": 178
+  },
+  {
+   "fact": "他给笔记按颜色分类：蓝为 Erudite 事务、红为城市事务、绿为短期价值实验、紫为长期价值实验，且还在不断加新标签。",
+   "anchor": "Blue for Erudite business, red for city business, green for experiments with short-term value, purple for experiments with long-term value",
+   "start": 1121,
+   "end": 1259
+  },
+  {
+   "fact": "一天结束后她进紧挨实验室的私人图书室泡茶；窗边种着花和香草，叶子由她自己晒干，然后请他坐下陪她。",
+   "anchor": "she grows flowers and herbs along the windows, and dries the leaves herself in the sun",
+   "start": 1456,
+   "end": 1542
+  },
+  {
+   "fact": "母亲要他把近几年的倾向测试结果与 Erudite 转派人数作比较，消息由妹妹转达，他没有做。",
+   "anchor": "She asked me to compare the aptitude test results from the past few years to the number of Erudite faction transfers",
+   "start": 2868,
+   "end": 2984
+  },
+  {
+   "fact": "Jeanine 说不怪他：对家庭的忠诚很难一下摆脱，派别高于血缘只是口号；她叫他坐下，并说这场谈话会很难，但不是他以为的那种难。",
+   "anchor": "a mantra is not a reality",
+   "start": 4108,
+   "end": 4133
+  },
+  {
+   "fact": "Jeanine 认为 Natalie 劝女儿脱离 Abnegation 去当无派系者，动机不是为 Beatrice 好，而是要有人替她盯着那边。",
+   "anchor": "she’s the one who encouraged your sister to defect from Abnegation and become factionless",
+   "start": 5239,
+   "end": 5328
+  },
+  {
+   "fact": "Jeanine 指 Natalie 还参与掩盖从 Abnegation 浮出的最令人不安的报告，也就是 Dauntless 墙卫从 Memory Vault 出来后失忆那些。",
+   "anchor": "She has also been complicit in covering up the most troubling reports that have surfaced from Abnegation",
+   "start": 5748,
+   "end": 5852
+  },
+  {
+   "fact": "末了她盯着他，说任何单一群体握有这种控制都过头，并问他是否也这么想。",
+   "anchor": "too much control for any one group to have",
+   "start": 8842,
+   "end": 8884
+  }
+ ]
+}
