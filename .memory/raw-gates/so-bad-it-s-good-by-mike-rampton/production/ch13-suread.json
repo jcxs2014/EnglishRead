@@ -1,0 +1,67 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch13",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch13_hauntingly_terrible_spooky_jokes.txt",
+ "facts": [
+  {
+   "fact": "骷髅为什么不打架：没有胆子（也没有内脏），guts 双关",
+   "anchor": "Why don’t skeletons fight each other? They don’t have the guts.",
+   "start": 78,
+   "end": 141
+  },
+  {
+   "fact": "叙述者反驳室友说房子闹鬼：我在这儿住了四百年，从没见过鬼——他自己就是鬼",
+   "anchor": "My housemates keep saying our house is haunted. That’s ridiculous – I’ve lived here for 400 years and never seen a ghost.",
+   "start": 218,
+   "end": 339
+  },
+  {
+   "fact": "德古拉爱咬人脖子，因为他是“脖子浪漫者”，谐音 necromancer（死灵法师）",
+   "anchor": "Because he’s a neck-romancer.",
+   "start": 450,
+   "end": 479
+  },
+  {
+   "fact": "近视的鬼戴什么？spooktacles，spectacles（眼镜）与 spook 的合成",
+   "anchor": "What do short-sighted ghosts wear? Spooktacles!",
+   "start": 723,
+   "end": 770
+  },
+  {
+   "fact": "恶魔和食尸鬼总在一起，因为“恶魔是食尸鬼最好的朋友”，仿“狗是人类最好的朋友”＋ghoul／girl 谐音",
+   "anchor": "Because demons are a ghoul’s best friend!",
+   "start": 970,
+   "end": 1011
+  },
+  {
+   "fact": "我以前是狼人，现在好了——句尾的 now 被拉成狼嚎",
+   "anchor": "I used to be a werewolf but I’m alright noooooooooooooooow.",
+   "start": 1016,
+   "end": 1075
+  },
+  {
+   "fact": "鬼鸡叫 poultrygeist，poultry（家禽）＋poltergeist（骚灵）",
+   "anchor": "What do you call a ghost chicken? A poultrygeist.",
+   "start": 1156,
+   "end": 1205
+  },
+  {
+   "fact": "吸血鬼写信开头是“Tomb it may concern”，仿 To whom it may concern，tomb（坟墓）",
+   "anchor": "How do vampires begin letters? ‘Tomb it may concern …’",
+   "start": 1210,
+   "end": 1264
+  },
+  {
+   "fact": "别跟死神打枕头仗：你承受不起“死神靠垫”，谐音 repercussions（后果）",
+   "anchor": "You’re not prepared for the reaper cushions.",
+   "start": 2476,
+   "end": 2520
+  },
+  {
+   "fact": "满身血的蝙蝠带同伴飞到树前，问“看见那根路灯柱了吗”，众蝠点头，它说“我没看见”——血是自己撞的",
+   "anchor": "He flies off, face still covered in blood, and the rest of the bats excitedly follow him across the forest. He lands in a tree and says, ‘Do you see that lamp post?’ The other bats nod hungrily. ‘Well, I didn’t.’",
+   "start": 2993,
+   "end": 3205
+  }
+ ]
+}
