@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch03",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "9月22日男主把前主人的衣服送到市政垃圾场的旧衣银行，那时快关门了",
+   "anchor": "He took the clothes to the clothing bank at the municipal dump site.",
+   "start": 43,
+   "end": 111
+  },
+  {
+   "fact": "职员又老又阴沉，冷眼看他拆开垃圾袋，一言不发也不帮忙，他离开时感到莫名的不满",
+   "anchor": "The staff member there was surly and old, and watched him unpack the rubbish bags without a word or an offer of help.",
+   "start": 140,
+   "end": 257
+  },
+  {
+   "fact": "他在储藏室找到意面圈罐头，烤面包沏茶，自嘲这是「单身汉的伙食」；前妻本不太会做饭，惯吃速食外卖",
+   "anchor": "He found a tin of spaghetti hoops in the pantry and made toast and a pot of tea.",
+   "start": 475,
+   "end": 555
+  },
+  {
+   "fact": "电视噪音中三次浮现同一句指控：我知道你干了什么",
+   "anchor": "I know what you did.",
+   "start": 1593,
+   "end": 1613
+  },
+  {
+   "fact": "他来 Kirkhill 是为了逃离、躲开 unwanted intimacy，但即使在这里他也并非独处",
+   "anchor": "He’d come to Kirkhill to escape, he thought; to avoid unwanted intimacy. But even here he wasn’t alone.",
+   "start": 2423,
+   "end": 2526
+  },
+  {
+   "fact": "夜行回头时，电塔如怪物般升起：超出尺度、无法测量",
+   "anchor": "It rose above him, monstrous; stark; a thing beyond scale, beyond measurement.",
+   "start": 4396,
+   "end": 4474
+  },
+  {
+   "fact": "他想起一个潜水员的故事：独自钻进熔岩隧道，被自己激起的沙尘迷途而死",
+   "anchor": "He suddenly remembered a story he’d heard about a scuba diver who had gone exploring into some lava tunnels.",
+   "start": 4555,
+   "end": 4663
+  },
+  {
+   "fact": "他告诉自己没有狗、那只是影子，却仍锁上门锁并插上上下两道门闩",
+   "anchor": "There was no dog, he told himself. That was your shadow on the ground. You were racing your shadow, he said, that’s why it was on your heels. But although he knew it to be true, he locked the door behind him and shot the bolts, top and bottom.",
+   "start": 8445,
+   "end": 8688
+  }
+ ]
+}

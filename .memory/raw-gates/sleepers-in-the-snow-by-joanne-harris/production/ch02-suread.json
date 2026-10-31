@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch02",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "他计划清空衣柜里前主人留下的女装，饭后开车捐给慈善店",
+   "anchor": "That morning he told himself that he would go through the wardrobe, taking out the unwanted clothes.",
+   "start": 43,
+   "end": 143
+  },
+  {
+   "fact": "衣柜门内斑驳的镜子里，他看见自己 80、90、100 岁的模样",
+   "anchor": "showing him his reflection at eighty, ninety, a hundred years old.",
+   "start": 1113,
+   "end": 1179
+  },
+  {
+   "fact": "抽屉底部发现一个用丝带捆在一起的日记盒",
+   "anchor": "And at the bottom he found a box containing a bundle of diaries bound together with ribbon.",
+   "start": 1797,
+   "end": 1888
+  },
+  {
+   "fact": "2019 年 10 月 20 日的日记：生日，他又忘了",
+   "anchor": "My birthday. He forgot again.",
+   "start": 2106,
+   "end": 2135
+  },
+  {
+   "fact": "2011 年 1 月 1 日的日记：新一年在新家 Kirkhill 度过，房子因附近曾有一座教堂而得名",
+   "anchor": "A new year in our new house. It’s called Kirkhill, because there was once a church near the site.",
+   "start": 2902,
+   "end": 2999
+  },
+  {
+   "fact": "2017 年 4 月 8 日的日记：丈夫找不到 Bailey 的牵绳就砸碎露台椅，她觉得他精神失常",
+   "anchor": "Today he smashed a patio chair because he couldn’t find Bailey’s lead. I sometimes think he’s losing his mind.",
+   "start": 3473,
+   "end": 3583
+  },
+  {
+   "fact": "慈善店女人说：她以前偶尔来村里，起初与丈夫同来，后来独自前来",
+   "anchor": "She used to come into the village, sometimes. At first, her husband came with her. After that, she came alone.",
+   "start": 7752,
+   "end": 7862
+  },
+  {
+   "fact": "他在咖啡馆大声询问前主人的拉布拉多 Bailey，所有人都停下来盯着他，无人回答",
+   "anchor": "Everyone stopped to stare at him. No one answered his question.",
+   "start": 11006,
+   "end": 11069
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch04",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch04_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "男主清晨黎明即醒，心神不宁；他保留了在床头书架上找到的女人的日记，本想烧掉却忘了",
+   "anchor": "He woke at dawn, feeling restless",
+   "start": 43,
+   "end": 76
+  },
+  {
+   "fact": "日记写于 2017 年 9 月 9 日：Caroline 当天记下爱犬 Bailey 死去，她独自把它埋在松树下并种了一株粉杜鹃，觉得 Arthur 甚至没注意到",
+   "anchor": "September 9th, 2017 Dear old Bailey died today",
+   "start": 736,
+   "end": 784
+  },
+  {
+   "fact": "他为这条素不相识的狗感到尖锐意外的悲伤，并想象她种杜鹃时穿着步行靴和秋季夹克",
+   "anchor": "The sting of grief was sharp and unexpected",
+   "start": 964,
+   "end": 1007
+  },
+  {
+   "fact": "他从日记中得知男人的名字是 Arthur，随后在日记里找到女人的名字 Caroline，两个名字第一次并列出现",
+   "anchor": "And Arthur. Now he knew the man’s name",
+   "start": 1464,
+   "end": 1502
+  },
+  {
+   "fact": "他打开 Arthur 那边的衣柜，挑了裤子与开领衬衫；衣柜里有 Burberry 雨衣、三打丝绸领带和绣字母 A 的手帕",
+   "anchor": "three-dozen silk ties. A little drawer of handkerchiefs, monogrammed with the letter A",
+   "start": 2581,
+   "end": 2667
+  },
+  {
+   "fact": "他收到陌生号码的短信「你没事吗，收到就回电」，他不打算回电，关掉手机留在书架上日记旁",
+   "anchor": "Are you okay? Call me as soon as you get this",
+   "start": 4014,
+   "end": 4059
+  },
+  {
+   "fact": "他在松林间的空地找到那株粉杜鹃，昨晚所见的网球不见了，他以为被什么动物叼走",
+   "anchor": "He found the pink azalea in a glade between the pines",
+   "start": 5171,
+   "end": 5224
+  },
+  {
+   "fact": "他赤脚走回 Kirkhill，眼角余光里一道影子般的颤动一路跟随；回屋见门板油漆添了新鲜凿痕，网球自己回到路边，他把球掷进黑暗",
+   "anchor": "The shadow at the tail of his eye followed him all the way to Kirkhill",
+   "start": 9298,
+   "end": 9368
+  }
+ ]
+}
