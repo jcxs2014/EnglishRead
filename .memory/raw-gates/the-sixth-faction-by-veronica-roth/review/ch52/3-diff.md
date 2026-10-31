@@ -20,3 +20,7 @@
 - 无编造、无错配。核对项：`Half of the Hemlocks went south…went north`（text:21）、`Evelyn pushes the wall panel open`（26）、`stolen from the Dauntless wall guards and loaded with bullets, not needles`（30）、`I launch myself from the car`（48）、`The rusted metal pricks at my fingers`（101）、`fresh-baked bread and musty paper and the white vinegar`（106）、`Eric, youth leader of Dauntless`（115）。
 - 「她带头跳下车」有原文支撑（她先跳、Sly 紧随其后，48）✅。
 - md 未把 Eric 写成袭击者以外的角色；他举枪对着的是**暗处的人影**，人影走进光里才认出是母亲 ✅。
+
+## 补记（R1 清单对账，2026-11-01）
+
+`1-suread.json` 到达后逐条复核：8 条与上表一致，`I know where we’re going: to kill Marcus Eaton.`（text:40）与「她带路」`“You first, Tris,” Evelyn says to me.`（text:70）两处原文均已核；末条揭示（母亲喊出她的名字）在 facts 里落在 relations，md 的收束与之一致。

@@ -1,0 +1,84 @@
+{
+  "chapter": "ch53",
+  "pov": "第一人称（Tris 崔丝），现在时",
+  "facts": [
+    {
+      "event": "母亲梳着整齐的发髻、穿着灰而无形的旧衣，但崔丝觉得她皮肤里像住着另一个人：眼神锐利、毫不畏惧。",
+      "who": "my mother (Natalie)",
+      "receivers": "her hair, her clothes, her skin",
+      "start": 98,
+      "end": 274,
+      "text": "Her hair is in its neat bun, smooth and pinned. Her clothes are the same, gray and shapeless. But it’s as if there’s someone else standing in her skin, sharp-eyed and unafraid."
+    },
+    {
+      "event": "伊芙琳说她把崔丝带来当“保险”，以防撞见母亲；既然母亲把女儿送到她那里当间谍，她认为那种可能性更大。",
+      "who": "Evelyn",
+      "receivers": "her (Tris), you (Natalie)",
+      "start": 837,
+      "end": 958,
+      "text": "“I brought her as insurance,” Evelyn replies. “Just in case we ran into you. And since you sent her to me as a spy . . .”"
+    },
+    {
+      "event": "埃里克说他是来确保伊芙琳守信：马库斯·伊顿的死对他们的共同成功至关重要；他眯眼看崔丝，说他原以为这个人是伊芙琳的间谍。",
+      "who": "Eric",
+      "receivers": "you (Evelyn), Marcus Eaton, this one (Tris)",
+      "start": 2022,
+      "end": 2200,
+      "text": "“I’m ensuring that you keep your word,” Eric says. “Marcus Eaton’s death is critical to our mutual success.” His eyes narrow as he looks at me. “I thought this one was your spy.”"
+    },
+    {
+      "event": "少年报告：消防梯上没有他的踪影，床铺得很整齐，说明他不是匆忙离开——一定有人事先警告了他。",
+      "who": "the boy",
+      "receivers": "him (Marcus), the bed",
+      "start": 2468,
+      "end": 2596,
+      "text": "“No sign of him on the fire escape. Bed’s made, so he didn’t leave in a hurry,” the boy reports. “Someone must have warned him.”"
+    },
+    {
+      "event": "母亲身侧一闪，双手摊得很开；崔丝看着她把一根手指、又一根手指地往下压。",
+      "who": "my mother",
+      "receivers": "her hands, one finger, another",
+      "start": 5436,
+      "end": 5573,
+      "text": "I see a flash of movement at my mother’s side—both of her hands splayed wide. I watch as she lowers one finger, and another, and another."
+    },
+    {
+      "event": "埃里克说这是浪费时间，得给她一个真正开口的理由；他转身把枪口从崔丝的头部移向她的肩膀。",
+      "who": "Eric",
+      "receivers": "his gun, my head, my shoulder",
+      "start": 5766,
+      "end": 5915,
+      "text": "“This is a waste of time. You need to give her a real reason to talk,” Eric says, and he turns, pointing his gun, not at my head, but at my shoulder."
+    },
+    {
+      "event": "崔丝已在动：全身被肾上腺素刺得发麻，她一手抓住格蕾琴的手腕、一手狠狠肘击；她打中格蕾琴的脸颊，格蕾琴踉跄后退、惊慌中松了枪，崔丝矮身夺枪，把手落到门把上。",
+      "who": "I (Tris)",
+      "receivers": "Gretchen’s wrist, Gretchen, the gun, the door handle",
+      "start": 5983,
+      "end": 6272,
+      "text": "But I’m already moving. My entire body prickles with adrenaline as I turn, grabbing Gretchen’s wrist with one hand as I elbow her hard with the other. I hit her in the cheek, and she lurches back, releasing the gun in her panic. I duck low and grab it, then get my hand on the door handle."
+    },
+    {
+      "event": "崔丝看见母亲倒下，像被打了一拳似地往后踉跄；母亲“走。现在。”的话在她脑中回响，那名少年盯着倒在地上的母亲，她双臂以奇怪的角度摊开。",
+      "who": "my mother",
+      "receivers": "her (my mother), the boy",
+      "start": 15587,
+      "end": 15768,
+      "text": "I see her fall, staggering back like she’s been punched. Her words echo in my mind, “Go. Now.” The boy is staring at my mother, lying on the ground with her arms at a strange angle."
+    }
+  ],
+  "relations": [
+    "伊芙琳把崔丝扣作人质，并怀疑娜塔莉把女儿派来当间谍；娜塔莉当面否认（I did no such thing）。",
+    "埃里克与伊芙琳的交易是“武器和火车换马库斯·伊顿”；他到场是为确保伊芙琳守约，因为马库斯之死关乎他们的共同成功。",
+    "马库斯已被人警告而先行离开：消防梯无人、床铺整齐，少年因此断定有人通风报信。",
+    "娜塔莉用三根手指倒数（七、六、五……）向崔丝发出动手信号，崔丝在埃里克开枪的同一刻反击格蕾琴并夺枪。",
+    "娜塔莉为掩护崔丝中枪倒地；她先前已把路线定为“往上再翻过去”，用身体作盾牌把崔丝推向楼梯间。"
+  ],
+  "numbers": [
+    "Seven, six, five｜“It’s a countdown. Seven, six, five.”＝倒数从七开始",
+    "Four, three｜“Four, three.”＝倒数继续",
+    "level three｜“through the door on level three”＝三层楼的门",
+    "an hour ago｜“Caleb came to us an hour ago”＝一小时前报信",
+    "two Dauntless｜“just before two Dauntless rush past us”＝两名无畏派冲过"
+  ]
+}
