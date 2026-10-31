@@ -1,0 +1,61 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch20",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch20_chapter_twenty_tilde.txt",
+ "facts": [
+  {
+   "fact": "开头用设问把悲伤写成身体里洗不掉的印、像被砍倒的树心里的年轮",
+   "anchor": "the shape of grief",
+   "start": 37,
+   "end": 55
+  },
+  {
+   "fact": "悲伤在大灾之后给身体留印，改变过去而什么也没长出来",
+   "anchor": "grieving leaves an indelible mark in the body",
+   "start": 134,
+   "end": 179
+  },
+  {
+   "fact": "往东南的长路上，Hadiah 把全庭女眷对她的冷遇叫作「shun」这门精微而恶毒的手艺",
+   "anchor": "the delicate and vicious art of the shun",
+   "start": 1061,
+   "end": 1101
+  },
+  {
+   "fact": "Hadiah 把对王子的言语冲撞算作舌头的罪，举刀算手的罪",
+   "anchor": "a sin of the tongue",
+   "start": 1903,
+   "end": 1922
+  },
+  {
+   "fact": "Tilde 自己补一句：替 Merogian 人说话是心的罪",
+   "anchor": "a sin of the mind",
+   "start": 2004,
+   "end": 2021
+  },
+  {
+   "fact": "再加一句：在暴乱里弃庭而去是身体的罪",
+   "anchor": "a sin of the body",
+   "start": 2069,
+   "end": 2086
+  },
+  {
+   "fact": "她把 Cynefel 一跪重算成胜局：按对方的规则打，把公主拉到这边，赢了",
+   "anchor": "She played their game by their rules",
+   "start": 3585,
+   "end": 3621
+  },
+  {
+   "fact": "她看见 Elise 在 Nest 里给自己留了位置，觉得两人之间有一线，脆得像初春的太阳",
+   "anchor": "a tentative thread between us",
+   "start": 4057,
+   "end": 4086
+  },
+  {
+   "fact": "她自己承认对 Cynefel 是负担，破坏了对方辛苦换来的安全",
+   "anchor": "I was a liability",
+   "start": 3361,
+   "end": 3378
+  }
+ ]
+}
