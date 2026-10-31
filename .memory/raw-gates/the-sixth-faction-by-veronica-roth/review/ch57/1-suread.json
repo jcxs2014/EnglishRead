@@ -1,0 +1,83 @@
+{
+  "chapter": "ch57",
+  "pov": "第一人称（Four／Tobias 叙述，用“I”），主干过去时",
+  "facts": [
+    {
+      "event": "Caleb 最初把枪管抵到 Four 头上时它是冷的，现在变热了；他觉得不对劲——死亡如此贴近（离头骨只有几厘米），本该是冷的、并且一直冷着。",
+      "who": "The barrel（Caleb 抵枪）",
+      "receivers": "me（Four 的头）",
+      "start": 40,
+      "end": 236,
+      "text": "The barrel was cold when Caleb first pressed it to my head, but it’s warm now. It feels wrong, somehow. The nearness of death—just centimeters from my skull, in fact—should be cold, and stay cold."
+    },
+    {
+      "event": "Four 看着 Tris 眼睛发直、被模拟带走；但 Caleb 不像他那样了解她——不知道她是分歧者，模拟抓不牢她，也没想到她可能以他做不到的方式胜任。",
+      "who": "I（Four）",
+      "receivers": "Tris；Caleb",
+      "start": 447,
+      "end": 749,
+      "text": "I watch Tris’s eyes glaze over as the simulation takes her. But Caleb doesn’t know her like I do. He doesn’t know she’s Divergent, and simulations don’t grip her as tightly as they grip everyone else. It never occurred to him that she might be special, that she might be capable in a way that he isn’t."
+    },
+    {
+      "event": "Caleb 命令 Four 从系统里删掉这次攻击的模拟数据，让过去几小时没有记录。",
+      "who": "Caleb",
+      "receivers": "you（Four）",
+      "start": 969,
+      "end": 1089,
+      "text": "“You need to delete the attack simulation data from the system, so there’s no record of the past few hours,” Caleb says."
+    },
+    {
+      "event": "Four 反讽地复述那套陷害自己的计划：Marcus Eaton 那个有问题的儿子，用模拟技术员身份和无派系关系向无私派复仇——“故事就是这样，对吧？”",
+      "who": "I（Four）",
+      "receivers": "me（被陷害的 Four 自己）",
+      "start": 1194,
+      "end": 1447,
+      "text": "“Right,” I say. “Because there’s a whole elaborate plan to frame me for all of this. Marcus Eaton’s messed-up son exacts revenge on Abnegation using his position as a simulation technician and his connections to the factionless—that’s the story, right?”"
+    },
+    {
+      "event": "Caleb 说不知道，把枪更用力顶进他脑袋；他说自己的任务只是把父亲弄出去、再回来抹掉记录，仅此而已。",
+      "who": "Caleb",
+      "receivers": "my head（Four）",
+      "start": 1451,
+      "end": 1606,
+      "text": "“I don’t know.” Caleb pushes the gun harder into my head. “My job was to get my father out and then find my way back here to scrub the record. That’s all.”"
+    },
+    {
+      "event": "Four 命令删除过去两小时的全部记录，电脑照常认出他；他清楚日后查日志会看到数据被删、且是他删的——这又会成为陷害他的证据。",
+      "who": "I（Four）",
+      "receivers": "the computer; its logs",
+      "start": 2156,
+      "end": 2423,
+      "text": "“Delete all records from the past two hours,” I say, and the computer recognizes me, as usual. Later, when they look at its logs, they’ll see that data was deleted from the system, and they’ll see that I did it. Just another piece of evidence they’ll use to frame me."
+    },
+    {
+      "event": "模拟数据已经消失；Tris 仍站在他对面，眼睛发直，困在她自己的恐惧模拟里。",
+      "who": "the simulation data",
+      "receivers": "Tris",
+      "start": 2643,
+      "end": 2758,
+      "text": "The simulation data is gone. Tris is still standing across from me, her eyes glazed, caught in her fear simulation."
+    },
+    {
+      "event": "Four 已照 Caleb 的命令做完，但枪仍抵在他头上。",
+      "who": "I（Four）",
+      "receivers": "me（Four）",
+      "start": 2762,
+      "end": 2834,
+      "text": "I’m done with what he told me to do. And there’s still a gun to my head."
+    }
+  ],
+  "relations": [
+    "Four（Tobias）与 Tris 是恋人/同伴：他的命押在她多快走完恐惧模拟上。",
+    "Caleb 与 Four：Caleb 用枪顶着 Four 的头下令，Four 只能拖延。",
+    "Caleb 与 Andrew 是父子：Caleb 说任务是把父亲救出去。",
+    "Four 与 Marcus Eaton 是父子：陷害叙事把“Marcus 那个有问题的儿子”（即 Four 本人）写成向无私派复仇的嫌犯。",
+    "Four 与 Evelyn／无派系：他的“connections to the factionless”被写进陷害故事。",
+    "Tris 是分歧者（Divergent）：模拟抓不牢她，而 Caleb 不知道这一点。"
+  ],
+  "numbers": [
+    "centimeters（“just centimeters from my skull”，枪口离头骨只有几厘米）",
+    "the past few hours（Caleb 要删掉“过去几小时”的记录）",
+    "the past two hours（Four 命令删除“过去两小时”的全部记录）"
+  ]
+}
