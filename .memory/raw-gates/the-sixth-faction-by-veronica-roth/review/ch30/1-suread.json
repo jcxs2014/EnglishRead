@@ -1,0 +1,82 @@
+{
+  "chapter": "ch30",
+  "pov": "第一人称（Tris）· 现在时",
+  "facts": [
+    {
+      "event": "两天后，Tris 站在捐赠中心后巷等母亲；巷子仍整洁、垃圾分类堆放，砖缝里长出黄花蒲公英，还没结籽——时间标记是“两天后”。",
+      "who": "I",
+      "receivers": "my mother",
+      "start": 40,
+      "end": 323,
+      "text": "Two days later I stand in the alley behind the donation center, waiting for my mother to arrive. The alley is still tidy, the trash neatly stacked and sorted, but there are dandelions growing from the cracks in the pavement, their flowers bright yellow, not yet turned to seed heads."
+    },
+    {
+      "event": "Tris 仍在喘：过去几天靠吸氧和药物让肺快点愈合，全由 Conservatory 的一位医者提供——火场后的身体代价延续到本章。",
+      "who": "I",
+      "receivers": "my lungs",
+      "start": 328,
+      "end": 509,
+      "text": "I’m still catching my breath. I’ve been on oxygen for the past few days and pumped full of medicine that will help my lungs heal faster, all courtesy of a medic at the Conservatory."
+    },
+    {
+      "event": "母亲要 Tris 给哥哥 Caleb 递口信：她在 Visiting Day 想亲口说，却被拒进入 Erudite 总部——那是 Jeanine Matthews 的新命令之一。",
+      "who": "she",
+      "receivers": "a message to your brother",
+      "start": 2633,
+      "end": 2815,
+      "text": "“I’d like you to get a message to your brother. I tried to tell him myself, on Visiting Day, but I was refused entry to Erudite headquarters. One of Jeanine Matthews’s new mandates.”"
+    },
+    {
+      "event": "母亲要 Caleb 找规律：把 aptitude 测验结果与 faction 转籍对照；测验数据只有 Erudite 内部可取，她要验证一个理论。",
+      "who": "she",
+      "receivers": "a pattern",
+      "start": 2959,
+      "end": 3206,
+      "text": "“I want to ask him to look for a pattern—to compare aptitude test results to faction transfers,” she says. “Aptitude test results are only accessible from within Erudite, so I can’t get that information for myself. And I need to confirm a theory.”"
+    },
+    {
+      "event": "母亲说 Tris 不必给理由，只需开口求助；她抚她的脸，一下子又变回温柔的母亲，说“Trust me”——母亲与 Natalie Prior 两个身份在此切换。",
+      "who": "she",
+      "receivers": "my cheek",
+      "start": 3579,
+      "end": 3762,
+      "text": "“No, I would have had to give him a reason. You won’t. All you need to do is ask for his help.” She touches my cheek, and just like that, my mother is back. Soft and kind. “Trust me.”"
+    },
+    {
+      "event": "Tris 绕过讲台找到一个控制台：多数按钮与开关的标签已磨掉，她按下一个试，毫无反应——摩天轮早已停摆。",
+      "who": "I",
+      "receivers": "a control panel",
+      "start": 6425,
+      "end": 6595,
+      "text": "I walk around the podium and find a control panel. The labels are worn away from most of the buttons and switches. I press one to see if anything will happen; it doesn’t."
+    },
+    {
+      "event": "拉杆后车厢开始移动，Tris 笑了：绿色旗子在蓝天里翻动，轮子转着把旗子一寸寸降到她够得着的高度，她再把杆拉回。",
+      "who": "I",
+      "receivers": "the banner",
+      "start": 7181,
+      "end": 7419,
+      "text": "I grin as the cars start to move. The banner is flapping in the wind, green against a blue sky. The wheel turns, and I watch the banner inch closer to the ground until I’m sure it’s close enough for me to grab. Then I pull the lever back."
+    },
+    {
+      "event": "落地后 Tris 取出旗子抖开，看中央绣的图案：一只明亮橘色的狐狸，正眨着一只眼——她终于拿到属于自己的 Fox 旗。",
+      "who": "I",
+      "receivers": "the banner",
+      "start": 7844,
+      "end": 7990,
+      "text": "At the bottom, I take the banner out and shake it to see the image stitched into the middle of it. It’s a bright orange fox, with one eye winking."
+    }
+  ],
+  "relations": [
+    "Natalie Prior 是 Tris 的母亲，她请女儿替她给 Caleb 传话，态度已把 Tris 当作成年人而非孩子。",
+    "Caleb 在 Erudite 总部；Abnegation 家属因 Jeanine Matthews 的新命令被拒探视。",
+    "Tris 与 Four 之间：Four 曾讥她是 Evelyn 的“跑腿女孩”，她如今觉得自己更像母亲的跑腿。",
+    "Christina 已有一面 Fox 旗；Tris 在火灾那夜为救 Christina 与父亲放弃了旗子，此时独自补回。",
+    "Tris 已无 faction（factionless），Dauntless 对她不再是荣誉：那阵营抄了 Mender 家、带走 Mae、因 Christina 被袭而逐出她。"
+  ],
+  "numbers": [
+    "Two days later — 开篇时间“Two days later”",
+    "a month ago — “the same badge of honor that it would have a month ago”",
+    "a week or so — Fox 旗会留在原处“for a week or so”"
+  ]
+}
