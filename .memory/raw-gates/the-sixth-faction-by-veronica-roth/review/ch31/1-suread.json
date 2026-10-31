@@ -1,0 +1,88 @@
+{
+  "chapter": "ch31",
+  "pov": "第三人称有限视角（Caleb）；一般现在时",
+  "facts": [
+    {
+      "event": "第64轮面部识别协议测试开场：本轮受试是一名19岁的Amity志愿者，个子高、身板结实得像码起来的砖。",
+      "who": "The test subject for this round (an Amity volunteer)",
+      "receivers": "the sixty-fourth round of the facial recognition protocol",
+      "start": 165,
+      "end": 382,
+      "text": "The test subject for this round—the sixty-fourth round of this particular version of the facial recognition protocol—is an\nAmity volunteer, nineteen years old, tall and built like he was made out of a stack of bricks."
+    },
+    {
+      "event": "Caleb 走到走廊尽头那间蓝墙小办公室，在锁盒上输入他偷看 Cara 时记下的访问码 1351317（一组质数）。",
+      "who": "He (Caleb)",
+      "receivers": "the lock box / the key",
+      "start": 5484,
+      "end": 5728,
+      "text": "He goes down to the small office at the end of the hallway, the one with the blue-painted walls, and types the access code—1351317, an arrangement of prime numbers that was easy enough to memorize as he looked over her shoulder—on the lock box."
+    },
+    {
+      "event": "Caleb 在 Cara 的电脑里搜“objectives”，只找到标着“Round 4”的文件里的一段文字——那正是他们这一版实验。",
+      "who": "He (Caleb)",
+      "receivers": "a file marked “Round 4”",
+      "start": 6267,
+      "end": 6572,
+      "text": "He searches for the word “objectives,” hoping to find a file name that corresponds, and several pop up—one for each round of the experiment. He doesn’t find any files with that title, but he does find a segment of text in a file marked “Round 4,” which is the version of the experiment they’re conducting."
+    },
+    {
+      "event": "Jeanine Matthews 站在实验室门口，一只眉毛傲慢地挑起；她穿着蓝色实验裤（让他想起医院工人的制服）和白色实验袍，头发一丝不乱。",
+      "who": "Jeanine Matthews",
+      "receivers": "him (Caleb)",
+      "start": 6934,
+      "end": 7195,
+      "text": "Jeanine Matthews stands there, one eyebrow arched imperiously. She’s dressed more casually than she usually is, in blue laboratory pants that remind him of the hospital workers’ uniforms, and a white laboratory coat. Her hair is pulled back, not a strand amiss."
+    },
+    {
+      "event": "Jeanine 让 Caleb 跳过“为自己下班后动别人电脑编借口”那一段，称那完全没必要。",
+      "who": "she (Jeanine)",
+      "receivers": "Caleb / his excuse",
+      "start": 7280,
+      "end": 7454,
+      "text": "“Let’s skip the part where you try to come up with an excuse for what you’re doing here, after hours, on a computer that isn’t your own,” she says. “It’s wholly unnecessary.”"
+    },
+    {
+      "event": "Jeanine 告诉 Caleb：他做的是对照组，所以结果显而易见、可预测是可以接受甚至有利的，别人可用可靠基准来衡量新发现；她问他是否明白。",
+      "who": "she (Jeanine)",
+      "receivers": "Caleb / the control group",
+      "start": 8864,
+      "end": 9095,
+      "text": "You are working on the control group, so it’s acceptable—even advantageous—for the results of your study to be obvious and predictable. That way, whatever we discover can be measured against a reliable standard. Do you understand?”"
+    },
+    {
+      "event": "Jeanine 说明实验目的是判定梭状回（fusiform gyrus）的活动能否被抑制、尤其能否被选择性压抑，这将用于才能测试的进一步开发——那是本实验室的目标。",
+      "who": "she (Jeanine)",
+      "receivers": "the fusiform gyrus’s activity / the aptitude test",
+      "start": 10501,
+      "end": 10752,
+      "text": "“Our aim with this experiment is to determine if the fusiform gyrus’s activity can be suppressed, especially selectively repressed,” she says. “This will be significant in further development of the aptitude test, which is the goal of this laboratory."
+    },
+    {
+      "event": "Jeanine 说 Caleb 的智力需要出口，宣布惩罚是：剩余启蒙期内每周三协助她和 Cara，并问他听起来如何。",
+      "who": "she (Jeanine)",
+      "receivers": "Caleb (assisting her and Cara)",
+      "start": 12331,
+      "end": 12587,
+      "text": "“Now, I can tell that you need an outlet for all your intellectual energy, Mr. Prior,” Jeanine says. “So I think your punishment for this infraction will be assisting me and Cara every Wednesday for the rest of your initiation period. How does that sound?”"
+    }
+  ],
+  "relations": [
+    "Jeanine Matthews→Caleb：亲自把他分到实验室，又深夜当场抓住他越权翻看 Cara 的电脑",
+    "Cara→Caleb：每周见他谈进度并批评他；Caleb 偷记了她的钥匙码与电脑密码",
+    "Caleb→Round 4 文件：读到“设对照组”的目标文字后才知道自己是 control group",
+    "Jeanine→Caleb：惩罚＝启蒙期剩余时间每周三协助她与 Cara（名为惩罚，实为提拔）",
+    "Caleb→Fernando：早晨一起吃早饭、办读书会（读博弈论）；Caleb→Fell：下棋，但拒绝回望 Abnegation 往事"
+  ],
+  "numbers": [
+    "sixty-fourth round（第64轮，此版面部识别协议的测试轮次）",
+    "nineteen years old（本轮 Amity 志愿者的年龄）",
+    "twenty minutes（受试者盯屏幕看人脸滚过的时长）",
+    "Laboratory 9B（Caleb 被分到的实验室）",
+    "six years of Abnegation schooling（Caleb 与 Fell 共同的 Abnegation  schooling 年数）",
+    "access code 1351317（蓝墙小办公室锁盒的密码，质数排列）",
+    "fourth-floor landing / fifth floor（夜间从四楼平台走上五楼实验室）",
+    "Round 4 / Round 4B（实验版本；Caleb 做的是 4B 的对照组）",
+    "every Wednesday（惩罚的执行频率）"
+  ]
+}
