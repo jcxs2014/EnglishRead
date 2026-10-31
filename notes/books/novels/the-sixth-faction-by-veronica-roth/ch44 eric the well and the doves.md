@@ -59,15 +59,15 @@ modified: "2026-10-31"
 
 **读者视角提示**：记住这个顺序：先看见汤，再看见城。作者不解释政治，只让他低头看碗。再读到食物的时候，那碗汤就不是汤了。
 
-> **原句 5:** "My throat feels tight at the mention of Marcus. It always does. This is the well Eric draws from when I’ve really pissed him off. The threat he’s been holding over my head since the day he figured out who I really am—and that I was desperate to keep it quiet."
+> **原句 5:** "This is the well Eric draws from when I’ve really pissed him off. The threat he’s been holding over my head since the day he figured out who I really am—and that I was desperate to keep it quiet."
 
-**中文理解**：一提到 Marcus，他喉咙就发紧，每次都这样。这是他把 Eric 真正惹火时对方会打的那口井：从 Eric 看穿「他是谁」那天起就悬在他头上的威胁，而当时他拼命想把这件事瞒住。
+**中文理解**：这就是他把 Eric 真正惹火之后，对方会来打水的那口井：从 Eric 看穿「他是谁」那天起，就一直悬在他头上的威胁——而当年他拼命想把这件事瞒住。
 
-**关键词**：My throat feels tight / at the mention of Marcus / the well Eric draws from / holding over my head / who I really am / desperate to keep it quiet
+**关键词**：the well Eric draws from / really pissed him off / holding over my head / who I really am / desperate to keep it quiet
 
-**为什么这样写**：生理反应放在最前面，比任何心理描写都直接；It always does 三个词说明这是旧伤，不是这一次才有。well 的比喻把威胁写成水源：Eric 不必造新东西，只要在旧井里打水。破折号后补的半句是关键——他怕的不只是身份被说出去，还有自己当年拼命瞒住这件事的样子被人看见。
+**为什么这样写**：well 的比喻把威胁写成水源：Eric 不必造新东西，只要在这口旧井里打水，随时取用。破折号后补的半句是关键——他怕的不只是身份被说出去，还有自己当年拼命瞒住这件事的样子被人看见。整段没有一句对白，全是被抵押的账。
 
-**读者视角提示**：这一块没有一句对白，全是他心里的账。注意「井」是别人家的井：连他恐惧的原料都由 Eric 保管。
+**读者视角提示**：注意这口「井」是别人家的井：连他恐惧的原料都由 Eric 保管，取用权在对方手上。
 
 > **原句 6:** "He’s standing in a field. I recognize it as one of the Amity wheat fields, only I can’t see the city skyline from here, or Amity headquarters—it’s just wheat in every direction."
 

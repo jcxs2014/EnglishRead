@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch45",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch45_chap45.txt",
+ "facts": [
+  {
+   "fact": "Jeanine Matthews 带人进模拟室「更新系统」，金发一丝不乱、高领蓝裙没有一个褶。",
+   "anchor": "Jeanine Matthews is a careful person. It shows in her smooth blond hair, not a strand out of place.",
+   "start": 40,
+   "end": 139
+  },
+  {
+   "fact": "她开口管他叫 Technician，不用 Dauntless 的绰号 Four。",
+   "anchor": "I’m sorry to intrude on your domain, Technician",
+   "start": 307,
+   "end": 354
+  },
+  {
+   "fact": "她把手探进模拟器的火焰后说系统里有东西被抹掉了，只留下痕迹。",
+   "anchor": "It seems there have been some erasures",
+   "start": 1698,
+   "end": 1736
+  },
+  {
+   "fact": "他说系统显示夜里用模拟室的人就是 Jeanine 本人，又说这不可能，把线索引向系统故障。",
+   "anchor": "The system told me it was you. But I know that can’t be the case.",
+   "start": 2339,
+   "end": 2404
+  },
+  {
+   "fact": "Jeanine 让 Caleb 动手装更新，说正好让他练手。",
+   "anchor": "Have Caleb install the update. He could use the practice.",
+   "start": 3146,
+   "end": 3203
+  },
+  {
+   "fact": "到这一刻他才把门边那个蓝外套男孩认成 Tris 的哥哥。",
+   "anchor": "Caleb is Tris’s brother.",
+   "start": 3596,
+   "end": 3620
+  },
+  {
+   "fact": "被推进模拟室前他祈祷，别让模拟里出现 Marcus。",
+   "anchor": "Please don’t let it be Marcus. Please, please, please.",
+   "start": 6840,
+   "end": 6894
+  },
+  {
+   "fact": "收尾她改口叫他 Mr. Eaton，说就到这里。",
+   "anchor": "Thank you . . . Mr. Eaton",
+   "start": 13404,
+   "end": 13429
+  }
+ ]
+}
