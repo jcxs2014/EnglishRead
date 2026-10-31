@@ -1,0 +1,55 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch02",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch02_what_actually_is_a_joke.txt",
+ "facts": [
+  {
+   "fact": "作者给笑话下的定义：一条笑话里同时有两个故事，你以为在听的和实际在听的",
+   "anchor": "One way of thinking about a joke is as two stories: the one you think you’re being told, and the one you’re actually being told.",
+   "start": 62,
+   "end": 190
+  },
+  {
+   "fact": "「走进酒吧」那类笑话的转折：bar 不是酒吧，而是一根长金属条",
+   "anchor": "it wasn’t the kind of bar you drink at, it was a long metal thing",
+   "start": 472,
+   "end": 537
+  },
+  {
+   "fact": "knock-knock 笑话同样靠「Who’s there」后的词在结尾被换成另一件事",
+   "anchor": "It wasn’t ‘Police’, the crime-fighters, it was ‘Police let me in, I need a poo’: an entirely different tale.",
+   "start": 773,
+   "end": 881
+  },
+  {
+   "fact": "Groucho Marx 的名句被当作两句式笑话的范例：先让你以为在讲打猎，第二句才揭示荒诞的真相",
+   "anchor": "One morning I shot an elephant in my pyjamas. How he got into my pyjamas, I’ll never know",
+   "start": 1061,
+   "end": 1150
+  },
+  {
+   "fact": "作者归纳：多数笑话靠意外的转折或揭示成立",
+   "anchor": "most jokes hinge on an unexpected turn or revelation",
+   "start": 1416,
+   "end": 1468
+  },
+  {
+   "fact": "连冒犯性笑话也靠惊喜：你没想到会糟到这个地步",
+   "anchor": "you weren’t expecting it to be this messed up!",
+   "start": 1904,
+   "end": 1950
+  },
+  {
+   "fact": "笑话也能被恶意使用：作为权力的展示、划清群内群外的界线、以及仇恨的潜台词",
+   "anchor": "Jokes can be used as a display of power",
+   "start": 2601,
+   "end": 2640
+  },
+  {
+   "fact": "全章以一条谐音双关（weigh / way）收尾",
+   "anchor": "where do you weigh a whale? At a whale weigh station.",
+   "start": 3168,
+   "end": 3221
+  }
+ ]
+}
