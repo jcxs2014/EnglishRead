@@ -1,0 +1,95 @@
+{
+ "chapter": 42,
+ "text": "text/ch42_chapter_forty_two_tilde.txt",
+ "chars": 10217,
+ "facts": [
+  {
+   "id": 1,
+   "event": "蒂尔德从飞天鹅的梦中醒来，闻到烟味、听见雨打玻璃，发现自己又被关在一座宫殿的房间里。",
+   "relation": "蒂尔德—马洛琳—哈迪亚（同伴）",
+   "numbers": "",
+   "interval": [
+    28,
+    127
+   ],
+   "anchor": "I woke from a dream of flying swans to the sound of rain pattering on glass and the scent of smoke."
+  },
+  {
+   "id": 2,
+   "event": "哈迪亚告诉蒂尔德：她们在维丁的宫殿，即阿德玛与伊瑟尔的家，已经过了五天，蒂尔德差点死掉。",
+   "relation": "蒂尔德—哈迪亚（侍女/盟友）；维丁宫—阿德玛与伊瑟尔",
+   "numbers": "five days",
+   "interval": [
+    1887,
+    1975
+   ],
+   "anchor": "‘We’re in Widdin’s palace,’ said Hadiah. ‘Ademar and Ysel’s home. It has been five days."
+  },
+  {
+   "id": 3,
+   "event": "哈迪亚告知达戈贝尔特两天前失踪，众人猜他乘船回了圣岛；伊森的葬礼就在当天早上举行。",
+   "relation": "达戈贝尔特（盟友/可疑者）—伊森（已故王子）—蒂尔德",
+   "numbers": "two days ago; this morning",
+   "interval": [
+    3055,
+    3098
+   ],
+   "anchor": "Dagobert is gone, disappeared two days ago."
+  },
+  {
+   "id": 4,
+   "event": "梅罗文来信警告：群鸟已惊慌、即将出动，‘当他们来找你时，要准备好’——蒂尔德把它读作必然而非可能。",
+   "relation": "梅罗文（信使/盟友）—蒂尔德（受警告者）",
+   "numbers": "",
+   "interval": [
+    3790,
+    3868
+   ],
+   "anchor": "The birds are panicked, they will move soon. When they come for you, be ready."
+  },
+  {
+   "id": 5,
+   "event": "第二封信以血心天鹅为封蜡，出自阿拉尔之手；蒂尔德笑着宣布：大王子打算娶她。",
+   "relation": "阿拉尔（大王子/求娶者）—蒂尔德（被求婚者）",
+   "numbers": "",
+   "interval": [
+    5829,
+    5901
+   ],
+   "anchor": "‘I am smiling,’ I said, ‘because the eldest prince intends to marry me.’"
+  },
+  {
+   "id": 6,
+   "event": "马洛琳掏出装满黑色液体的蓝水晶小瓶，质问蒂尔德为何与一个格韦兰人及其医师合谋制毒、为何说谎、为何让族人送命。",
+   "relation": "马洛琳（昔日挚友/质问者）—蒂尔德（被质问者）—齐扬（制毒者）",
+   "numbers": "",
+   "interval": [
+    6787,
+    6855
+   ],
+   "anchor": "She pulled out a blue crystal vial, filled inside with black liquid."
+  },
+  {
+   "id": 7,
+   "event": "蒂尔德解释阿拉尔的诗：他打算反叛父王与兄弟，让王室自相残杀，她们可坐收渔利。",
+   "relation": "阿拉尔—其兄弟利兰、康林—蒂尔德（谋划者）",
+   "numbers": "",
+   "interval": [
+    8115,
+    8156
+   ],
+   "anchor": "Because he means to turn on his brothers."
+  },
+  {
+   "id": 8,
+   "event": "蒂尔德决定用血魔法毒药‘救下但束缚’利兰王；此时三下砸门声响起，国王的将军帕拉蒂·奥登到来。",
+   "relation": "蒂尔德—哈迪亚—马洛琳；帕拉蒂·奥登（国王的将军/威胁）",
+   "numbers": "three slams",
+   "interval": [
+    9541,
+    9589
+   ],
+   "anchor": "‘Then we will save him,’ I said. ‘But bind him.’"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "chapter": 41,
+ "text": "text/ch41_chapter_forty_one_elise.txt",
+ "chars": 12973,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Elise 抱着 Hein 冲出森林，来到 Widdin 海边的高草地，认出这片故乡的景色（木屋、彩绘山墙、黏土坑）。",
+   "relation": "Elise 与 Hein 是姐弟（同父：国王 Liran）；Widdin 是 Elise 熟悉的故土。",
+   "numbers": "three? (她自问 \"How many days had it been? Three?\")",
+   "interval": [
+    185,
+    264
+   ],
+   "anchor": "They broke beyond the boughs on to a field of grass above a great grey-blue sea"
+  },
+  {
+   "id": 2,
+   "event": "Tilde 的马侧腹流血、Tilde 受伤，Ducal Uhtren 上前扶她下马，Elise 与 Hadiah 一起把她扶住。",
+   "relation": "Tilde 是王后；Hadiah 是她的侍女/近侍；Uhtren 是公爵。",
+   "numbers": "",
+   "interval": [
+    1093,
+    1163
+   ],
+   "anchor": "Ducal Uhtren came forward, reaching up to Tilde, who rallied a little."
+  },
+  {
+   "id": 3,
+   "event": "祭司 Dagobert 指认 Tilde 是招来森林的女巫，Hein 反驳说她只是把怪物收了起来，Uhtren 说那是 Cynghal 的「翼之歌」。",
+   "relation": "Dagobert 是祭司，与王后 Tilde 敌对；Hein 站在 Tilde 一边。",
+   "numbers": "",
+   "interval": [
+    1740,
+    1809
+   ],
+   "anchor": "‘She didn’t,’ Hein protested, shivering. ‘She put the monsters away!’"
+  },
+  {
+   "id": 4,
+   "event": "Miras 指出 Dagobert 被猫头鹰抓伤见血，而猫头鹰是「翼」的五大信条之一（智慧），众人由此转而起哄反对 Dagobert。",
+   "relation": "Miras 借神意打击 Dagobert；Alar 顺势嘲笑 Conrin。",
+   "numbers": "five great tenets of the Wing",
+   "interval": [
+    3861,
+    3944
+   ],
+   "anchor": "he has been marked and bloodied by an owl. One of the five great tenets of the Wing"
+  },
+  {
+   "id": 5,
+   "event": "Liran 国王只对 Dagobert 露出胜利的微笑、不认错，对 Elise 则毫无表示；Elise 看穿他故意让 Conrin 与 Dagobert 把宫廷带进森林以削弱祭司。",
+   "relation": "Liran 是 Elise 与 Hein 的父亲、国王；Elise 对他的崇拜转为厌恶。",
+   "numbers": "",
+   "interval": [
+    4772,
+    4839
+   ],
+   "anchor": "He had allowed Conrin and Dagobert to lead the court into the woods"
+  },
+  {
+   "id": 6,
+   "event": "军医 Ziyan 报出他们在林中待了「五天」并称不可能；Hein 断臂，Ziyan 用银制假手固定、把骨头复位，Hein 惨叫。",
+   "relation": "Ziyan 是宫廷军医，为王子 Hein 治伤；Tilde 用故事安抚 Hein。",
+   "numbers": "Five days; three? (Elise 估三天)",
+   "interval": [
+    6521,
+    6573
+   ],
+   "anchor": "‘Five days,’ he said at last. ‘That’s not possible.’"
+  },
+  {
+   "id": 7,
+   "event": "Tilde 一边讲 Merogian 的 lichwyrm 故事（公主三次亲吻蛇首解咒），一边让 Ziyan 完成夹板包扎，Hein 被故事分神。",
+   "relation": "Tilde 以讲故事的方式照顾 Hein，Elise 与她默契（同读一本书）。",
+   "numbers": "three kisses",
+   "interval": [
+    10986,
+    11060
+   ],
+   "anchor": "She walked straight up to him, and planted three kisses on his scaly head."
+  },
+  {
+   "id": 8,
+   "event": "众人发现 Tilde 手腕伤口里嵌着一根白如骨、指尖长的刺，拔出后她呕吐，说了句「我忘了什么」便昏倒，Elise 接住她。",
+   "relation": "Elise 全程扶持 Tilde，二人关系进一步紧密；Marolyn 帮忙处理伤口。",
+   "numbers": "as long as fingertip（长度比喻，非数字）",
+   "interval": [
+    12607,
+    12682
+   ],
+   "anchor": "the thorn was long, not brown or black, but white as bone beneath the blood"
+  }
+ ]
+}
