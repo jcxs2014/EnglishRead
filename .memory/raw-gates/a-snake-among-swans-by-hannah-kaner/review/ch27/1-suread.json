@@ -1,0 +1,95 @@
+{
+ "chapter": 27,
+ "text": "text/ch27_chapter_twenty_seven_tilde.txt",
+ "chars": 25385,
+ "facts": [
+  {
+   "id": 1,
+   "event": "蒂尔德随古韦塔穿过绞死的辛格尔公爵尸体下方，进入叛军占领的城门楼，古韦塔称他们动手时那人已死",
+   "relation": "蒂尔德—古韦塔（叛军女巫首领）；蒂尔德—辛格尔公爵（敌方尸体）",
+   "numbers": "已死（when we did it）",
+   "interval": [
+    31,
+    120
+   ],
+   "anchor": "We passed beneath the Cynghal ducal’s mutilated body to reach the rebel-claimed gatehouse"
+  },
+  {
+   "id": 2,
+   "event": "古韦塔解释进攻时机：收割开始、堡内守军变少，是约尔丹的主意，他们用‘道’弄瞎了门卫，随后被黑王子的黑衣卫击退",
+   "relation": "古韦塔—约尔丹（同伙/师生）；叛军—黑王子（敌对）",
+   "numbers": "收割开始（harvest beginning）；仅数名守卫",
+   "interval": [
+    1932,
+    1989
+   ],
+   "anchor": "With harvest beginning, the guards at the keep were fewer"
+  },
+  {
+   "id": 3,
+   "event": "蒂尔德从城门楼高处望见辛格尔军已近千人、旗号招展，判断叛军即使拿下内堡也熬不过冬天",
+   "relation": "叛军—辛格尔王庭（力量悬殊）",
+   "numbers": "almost a thousand",
+   "interval": [
+    6643,
+    6705
+   ],
+   "anchor": "The Cynghal army was almost a thousand now, its banners flying"
+  },
+  {
+   "id": 4,
+   "event": "古韦塔拒绝教马洛琳‘道’，说这既非血缘继承也非贵族出身所致，并暗示蒂尔德因被里瓦尼人养大也未必学得会",
+   "relation": "古韦塔—马洛琳（拒绝传授）；古韦塔—蒂尔德（同类/审视）",
+   "numbers": "无（非继承、非血统）",
+   "interval": [
+    5504,
+    5571
+   ],
+   "anchor": "Not inherited from parent to child, nor guided by nobility of birth"
+  },
+  {
+   "id": 5,
+   "event": "新出场的女巫拉德芙背对众人坐在桌上，凭黄色斗篷认出蒂尔德，出口辱骂她是‘天鹅操的’、问她来这里做什么",
+   "relation": "拉德芙—蒂尔德（敌意/羞辱）；拉德芙—古韦塔（师生）",
+   "numbers": "无",
+   "interval": [
+    7074,
+    7121
+   ],
+   "anchor": "I could see that ugly yellow cloak from up here"
+  },
+  {
+   "id": 6,
+   "event": "蒂尔德注意到古韦塔缺了两片指甲、指尖肿胀，意识到这是叛军为施法付出的代价；拉德芙同样缺甲",
+   "relation": "古韦塔/拉德芙—‘道’（以身体与记忆为代价）",
+   "numbers": "two of her fingernails；two fingernails（拉德芙）",
+   "interval": [
+    2303,
+    2364
+   ],
+   "anchor": "I noted two of her fingernails were missing, the tips swollen"
+  },
+  {
+   "id": 7,
+   "event": "蒂尔德向二人提出残酷方案：叛军不可能全部活下来，但借他们的帮助她可以活下去——即要他们投降、留少数人顶罪换多数人逃入森林",
+   "relation": "蒂尔德—叛军（交易/牺牲）；蒂尔德—马洛琳（理念冲突）",
+   "numbers": "无（‘not all of you’）",
+   "interval": [
+    19140,
+    19195
+   ],
+   "anchor": "You cannot all survive this, but with your help I might"
+  },
+  {
+   "id": 8,
+   "event": "马洛琳激烈反对后冷嘲称她‘蒂尔德国王’并退让，古韦塔最终请求拉德芙允许她向‘天鹅群中的蛇’投降，以救约尔丹和部分人",
+   "relation": "马洛琳—蒂尔德（决裂/屈服）；古韦塔—拉德芙（学生向老师请求）；古韦塔—蒂尔德（结盟）",
+   "numbers": "无",
+   "interval": [
+    25337,
+    25382
+   ],
+   "anchor": "Let us surrender to the snake among the swans"
+  }
+ ]
+}

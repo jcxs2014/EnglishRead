@@ -1,0 +1,95 @@
+{
+ "chapter": 28,
+ "text": "text/ch28_chapter_twenty_eight_elise.txt",
+ "chars": 8531,
+ "facts": [
+  {
+   "id": 1,
+   "event": "米拉斯（Miras）在叛军首领跪着死去时高唱蒂尔德的胜利之歌，埃莉丝心里清楚攻城并非“一百天”而只有三周，蒂尔德肩上也没有月亮，只有一件她本想送给母亲的黄斗篷。",
+   "relation": "歌者与胜者；埃莉丝旁观并暗自校正颂歌",
+   "numbers": "a hundred days; barely three weeks",
+   "interval": [
+    106,
+    153
+   ],
+   "anchor": "‘Lonely white wings, she swims into dark waters"
+  },
+  {
+   "id": 2,
+   "event": "蒂尔德归来三日后，宫中女眷们结伴前去观看受降，达格玛（Daegmar）虽不愿也随行，因为不愿独自留在高台上。",
+   "relation": "女眷与斯万王后的追随关系；达格玛的犹疑",
+   "numbers": "three days after Tilde returned",
+   "interval": [
+    814,
+    886
+   ],
+   "anchor": "the women came to watch the surrendering three days after Tilde returned"
+  },
+  {
+   "id": 3,
+   "event": "伊瑟尔（Ysel）当众说蒂尔德只需被人“推一把”就能成为宫廷的资产，埃莉丝附和并自问为何曾把她当作敌人。",
+   "relation": "伊瑟尔转向支持蒂尔德；埃莉丝由敌意转为认同",
+   "numbers": "",
+   "interval": [
+    3011,
+    3095
+   ],
+   "anchor": "she needs a nudge in the right direction. She could be quite an asset to this court."
+  },
+  {
+   "id": 4,
+   "event": "蒂尔德独自空手站在帝国军阵与叛军壁垒之间喝令叛军下跪，无人应答，随即荆棘墙里响起女人的咒语，整面树墙由绿转红、焦枯剥落。",
+   "relation": "蒂尔德与叛军对峙；德鲁伊德以咒语拆墙",
+   "numbers": "",
+   "interval": [
+    3648,
+    3691
+   ],
+   "anchor": "Wither to winter, go to earth, time to rot."
+  },
+  {
+   "id": 5,
+   "event": "伊森（Isen）无视投降高喊“抓活的”，而墙倒后露出二十名席地而坐、放下武器的战士，为首的老妇已用梅罗吉亚短刀自剖腹部，血从伤口涌出。",
+   "relation": "伊森与蒂尔德处置相悖；古维莎以自残逼迫对方守信",
+   "numbers": "Barely twenty",
+   "interval": [
+    5189,
+    5266
+   ],
+   "anchor": "pouring from the slit she had made in her own belly with a Merogian scramasax"
+  },
+  {
+   "id": 6,
+   "event": "老妇自称德鲁伊德·古维莎（Druidim Guwetha），说她是筑起荆棘墙、率领叛军到此的人，要求按投降条件给她们“速死”，而这条件是埃莉丝的父亲利兰决意要推翻的。",
+   "relation": "古维莎与利兰王的约定被王方背弃",
+   "numbers": "a quick death",
+   "interval": [
+    5668,
+    5726
+   ],
+   "anchor": "We commit ourselves to the queen’s justice: a quick death."
+  },
+  {
+   "id": 7,
+   "event": "古维莎挥手催动缠在同伴喉间的常春藤，藤蔓收紧，二十名投降的叛军一个接一个被绞死，如同被套索拖入死亡的兔子。",
+   "relation": "古维莎与部下同死；她以法术替他们免除酷刑",
+   "numbers": "one by one",
+   "interval": [
+    6258,
+    6328
+   ],
+   "anchor": "The ivy that bound her companions twisted, hardening at their throats."
+  },
+  {
+   "id": 8,
+   "event": "古维莎把荆棘拧成矛尖刺向利兰王，蒂尔德抢先扑到王与矛之间，肩头被荆棘击中并被掀飞，阿拉尔（Alar）抢先赶到扶起她并举手高呼“斯万王后”，埃莉丝只能呆坐马上。",
+   "relation": "蒂尔德救利兰；阿拉尔借机表忠并抬举蒂尔德；埃莉丝被排除在外",
+   "numbers": "",
+   "interval": [
+    8365,
+    8446
+   ],
+   "anchor": "Elise sat on her horse, stupid and alone as Alar took Tilde’s hand and raised it."
+  }
+ ]
+}

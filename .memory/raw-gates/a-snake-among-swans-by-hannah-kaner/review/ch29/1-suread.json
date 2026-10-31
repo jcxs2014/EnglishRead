@@ -1,0 +1,95 @@
+{
+ "chapter": 29,
+ "text": "text/ch29_chapter_twenty_nine_tilde.txt",
+ "chars": 19880,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Tilde 在修复 Faoldun 城耗时一个月里，尽量不去想阵亡的 Guwetha，而 Ladbh 早已躲进森林。",
+   "relation": "Tilde—Guwetha（旧日同伴，已死）／Tilde—Ladbh（女巫，逃亡）",
+   "numbers": "during the month it took",
+   "interval": [
+    62,
+    153
+   ],
+   "anchor": "I thought about Guwetha as little as I could during the month it took to bring Faoldun city"
+  },
+  {
+   "id": 2,
+   "event": "守城贵妇 Lady Henoveva 主动让出自己的居室给 Tilde，Tilde 拒绝了。",
+   "relation": "Tilde—Henoveva（降臣／被征服的贵妇）",
+   "numbers": "her own chambers, which I refused",
+   "interval": [
+    350,
+    434
+   ],
+   "anchor": "Lady Henoveva, who had held the castle, offered me her own chambers, which I refused"
+  },
+  {
+   "id": 3,
+   "event": "Ysel 用 Tilde 给的 Ardweni 木样做成一根蛇头手杖，带来献给她以示敬意。",
+   "relation": "Tilde—Ysel（侍从／拥戴者）",
+   "numbers": "the Ardweni wood samples",
+   "interval": [
+    599,
+    687
+   ],
+   "anchor": "come to show me the staff she had designed from the Ardweni wood samples I had given her"
+  },
+  {
+   "id": 4,
+   "event": "红王子（自封国王的 Alar）处处跟随 Tilde，微笑鞠躬、送诗集、送《翼之言》与 Cynghal 史书，再问她读完没有。",
+   "relation": "Tilde—Alar（继子／追求者兼政治操盘者）",
+   "numbers": "books of poems, the word of the Wing",
+   "interval": [
+    1110,
+    1202
+   ],
+   "anchor": "bowing with a smile, sending me books of poems, the word of the Wing, the history of Cynghal"
+  },
+  {
+   "id": 5,
+   "event": "Tilde 需要 Elise，便让她教自己 Galenish 女子的仪态、发式与礼数，并借她掩饰自己的心思。",
+   "relation": "Tilde—Elise（继女／暧昧对象）",
+   "numbers": "teach me Galenish femininity",
+   "interval": [
+    2920,
+    2999
+   ],
+   "anchor": "I needed her, and she came to me, so I used her to teach me Galenish femininity"
+  },
+  {
+   "id": 6,
+   "event": "入秋转冷、新谷入仓、尸堆清完之后，众人备好庆功宴；Tilde 在偏殿换装，Muirenn 请求上高桌侍奉获准。",
+   "relation": "Tilde—Muirenn（贴身侍女）",
+   "numbers": "the first breath of autumn",
+   "interval": [
+    3652,
+    3751
+   ],
+   "anchor": "as the first breath of autumn came cold, fresh grain brought in and the charnel mounds were cleared"
+  },
+  {
+   "id": 7,
+   "event": "宴上 Gaisa 讥讽 Tilde 是“战士文化的女王”并嘲笑 Elise 不识字，Isen 反手打了 Gaisa 的头，警告他们别拿妹妹的名声说嘴。",
+   "relation": "Isen—Gaisa（兄弟，Isen 护妹）／Isen—Elise（兄妹）",
+   "numbers": "Keep our sister",
+   "interval": [
+    14210,
+    14295
+   ],
+   "anchor": "Keep our sister’s name out of your mouths if you have nothing good to say,’ said Isen"
+  },
+  {
+   "id": 8,
+   "event": "Tilde 饮下被做手脚的酒，腹中灼烧、视线发黑，Liran 一声“Stand”便使她四肢不听使唤地自行站起。",
+   "relation": "Liran—Tilde（夫妻／国王与王后，下毒者与受害者）",
+   "numbers": "The wine burned in me, settling strange",
+   "interval": [
+    16787,
+    16863
+   ],
+   "anchor": "The wine burned in me, settling strange, and I felt wrong, rotten in my skin"
+  }
+ ]
+}
