@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch27",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch27_chapter_twenty_seven_tilde.txt",
+ "facts": [
+  {
+   "fact": "她穿过挂在胸墙上的辛格尔公爵残尸进入叛军门楼",
+   "anchor": "the Cynghal ducal’s mutilated body",
+   "start": 49,
+   "end": 83
+  },
+  {
+   "fact": "Guwetha 辩称动手时那人已死",
+   "anchor": "He was already dead, when we did it",
+   "start": 352,
+   "end": 387
+  },
+  {
+   "fact": "她唯一记不起来的是 Sanafin 的眼睛的颜色",
+   "anchor": "I could not remember",
+   "start": 2468,
+   "end": 2488
+  },
+  {
+   "fact": "Guwetha 说教 Ladbh 的人是 Owk，他记得战前的事",
+   "anchor": "The one who taught her",
+   "start": 11215,
+   "end": 11237
+  },
+  {
+   "fact": "她说自己身在敌巢、够得着他的权力，她就是他们的未来",
+   "anchor": "I am within the nest of our enemy",
+   "start": 13279,
+   "end": 13312
+  },
+  {
+   "fact": "Guwetha 第一个听出她要叛军投降",
+   "anchor": "You want us to surrender",
+   "start": 19419,
+   "end": 19443
+  },
+  {
+   "fact": "Marolyn 拒绝用自己人的死换胜利",
+   "anchor": "I will not wash my hands",
+   "start": 24368,
+   "end": 24392
+  },
+  {
+   "fact": "Guwetha 最后答应投降，称她为天鹅群里的蛇",
+   "anchor": "Let us surrender to the snake among the swans",
+   "start": 25337,
+   "end": 25382
+  }
+ ]
+}
