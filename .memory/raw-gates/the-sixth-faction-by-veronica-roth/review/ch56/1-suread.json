@@ -1,0 +1,79 @@
+{
+  "chapter": "ch56",
+  "pov": "第一人称（Tris 叙述，用“I”），主干过去时，对话为现在时引语",
+  "facts": [
+    {
+      "event": "Tris 用与内心完全相反的低声、冷静语气叫 Caleb，问他到底在做什么。",
+      "who": "I（Tris）",
+      "receivers": "Caleb",
+      "start": 40,
+      "end": 138,
+      "text": "“Caleb,” I say in a low, calm voice that’s the exact opposite of how I feel. “What are you doing?”"
+    },
+    {
+      "event": "Caleb 手里那把枪全黑、装的是子弹而不是针剂，他握枪的样子像握过枪的人；这在 Tris 脑中像拉响火警，一阵尖叫般的惊慌传遍全身。",
+      "who": "Caleb（the gun）",
+      "receivers": "me（Tris）",
+      "start": 142,
+      "end": 352,
+      "text": "The gun is all black—loaded with bullets, not needles—and he holds it like he’s held one before. It’s as if he set off a fire alarm in my mind. A shrieking, pulsing kind of panic that takes over my entire body."
+    },
+    {
+      "event": "Caleb 厉声喊她“Beatrice”要她照做；他不像当年在无私派总部旁小巷差点杀了她的那个男孩那样发抖，而是很稳。",
+      "who": "Caleb",
+      "receivers": "me（Tris）",
+      "start": 481,
+      "end": 688,
+      "text": "“Just do it, Beatrice!” Caleb snaps, and there’s something in his voice that makes me listen. He’s not trembling, like that boy who almost killed me in the alley next to Abnegation headquarters. He’s steady."
+    },
+    {
+      "event": "Tobias 跪在她哥哥面前、双手仍浸在模拟火焰里，整个人完全僵住。",
+      "who": "Tobias",
+      "receivers": "（无受事；状态描写）",
+      "start": 800,
+      "end": 921,
+      "text": "Tobias, kneeling in front of my brother with his hands still immersed in the simulated flames, has gone completely still."
+    },
+    {
+      "event": "Caleb 平静承认自己确实不想伤人，但说他为救父亲的命与 Jeanine 做了交易、打算履约；他把枪管顶进 Tobias 的头骨，命令把妹妹置于模拟之下。",
+      "who": "Caleb",
+      "receivers": "Tobias（枪管顶头骨）；me（妹妹 Tris）",
+      "start": 998,
+      "end": 1266,
+      "text": "“I don’t, that’s correct,” Caleb says evenly. “But I made a deal with Jeanine to save our father’s life, and I intend to keep my end of it.” He pushes the barrel of the gun into Tobias’s skull. “Put my sister under a simulation. She doesn’t need to be a part of this.”"
+    },
+    {
+      "event": "Tris 自省：她不知道母亲除了虔诚的无私派妻子与母亲之外还有别的样子，不知道父亲能操控她的头脑，不知道 Marcus 会施暴、Evelyn 会为逼母亲开口而威胁杀她，也不知道哥哥竟是这样的人。",
+      "who": "I（Tris）",
+      "receivers": "my mother; my father; Marcus; Evelyn; my brother",
+      "start": 1703,
+      "end": 1993,
+      "text": "I didn’t know my mother was anything more than a devoted Abnegation wife and mother. I didn’t know my father was capable of manipulating my mind. I didn’t know Marcus was violent, or that Evelyn would threaten to kill me just to get my mother to talk. And I didn’t know my brother was this."
+    },
+    {
+      "event": "Tris 觉得自己本该看出端倪：她去博学派总部探望 Caleb 时，他没帮她、没阻止他们把她带走，见到她也几乎不高兴。",
+      "who": "I（Tris）",
+      "receivers": "him（Caleb）",
+      "start": 1998,
+      "end": 2180,
+      "text": "But I should have, shouldn’t I? When I went to visit him in Erudite headquarters, he didn’t try to help me. He didn’t stop them from taking me away. He barely seemed happy to see me."
+    },
+    {
+      "event": "Tris 被模拟整个吞没。",
+      "who": "the simulation",
+      "receivers": "me（Tris）",
+      "start": 2458,
+      "end": 2495,
+      "text": "And the simulation swallows me whole."
+    }
+  ],
+  "relations": [
+    "Caleb 与 Tris 是兄妹：他叫她“Beatrice”，并坚持让 Jeanine 把她置于模拟中，“她不必参与这件事”。",
+    "Caleb 与 Jeanine 有交易：以救父亲性命为条件，替她做事。",
+    "Caleb 与 Andrew 是父子：他声称做交易是为“save our father’s life”。",
+    "Tobias 与 Tris 是恋人/同伴：他被枪顶着头仍为她的苏醒争取时间。",
+    "Tris 与母亲：母亲已死，Tris 承认自己从不知道母亲不只是无私派主妇。",
+    "Tris 与父亲：她不知道父亲有能力操控她的记忆（Memory Vault 一事）。"
+  ],
+  "numbers": []
+}
