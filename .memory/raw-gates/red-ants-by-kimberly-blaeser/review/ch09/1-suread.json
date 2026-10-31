@@ -1,0 +1,55 @@
+{
+  "book": "red-ants-by-kimberly-blaeser",
+  "chapter": "ch09",
+  "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch09_a_tally_in_birch.txt",
+  "facts": [
+    {
+      "fact": "过去在保留地的夏天她数蚊子包：她在 Bass Lake 七月钓鱼赛上记下个人纪录——五条 crappies、一条细长的 northern、七道之字形伤痕（像腕上一道闪电），一条手臂上共数出 28 处痒。",
+      "anchor": "I notched my record during a Bass Lake fishing derby in July. Five crappies, one eel-thin northern, and seven zigzagged welts—a lightning bolt across my wrist. Other punctures clustered like tracks on the pale fish belly of my forearm. I counted twenty-eight total itches on a single appendage.",
+      "start": 86,
+      "end": 380
+    },
+    {
+      "fact": "她现在做的数学很残酷：Crane Lake Hospital 四月有 13 名印第安婴儿出生即有毒瘾，五月有 14 名；按两个月共 27 名推算，一年该有多少？",
+      "anchor": "At the Crane Lake Hospital, thirteen Indian babies were born addicted to drugs in April; fourteen Indian babies were born addicted in May. Make it a story problem if you like: If twenty-seven Indian babies are born addicted to drugs at one hospital in two months’ time, how many Indian babies are born addicted to drugs at that hospital during a single year?",
+      "start": 1870,
+      "end": 2228
+    },
+    {
+      "fact": "她数过自己打过 17 份工作（受雇、被炒或辞职；女侍三处、缝纫、杂货店、养老院、马厩等都做过）；正是在被部落第三次开除的那年秋天，她遇见了那个来自 Blackduck 的小男孩。",
+      "anchor": "Seventeen jobs. My fault, their fault, too boring, not my talent, job needed for someone else, someone making it look like it was my fault—I should have counted up the reasons not just the jobs. The jobs—waitressing (multiplied by three locations), home sewing, working in the dime store, the nursing home, the horse barn. Pretty much any no-degree-needed job there is I have held or applied for at some point.\n\n\nI MET THAT little Blackduck boy the fall I got fired by the tribe for the third time.",
+      "start": 4715,
+      "end": 5213
+    },
+    {
+      "fact": "两人玩“多少印第安人”问答游戏：他问“多少印第安人才能给菜园除草？”然后答 All of them——一个人拿锄头，其余的人抽“草”。",
+      "anchor": "How many Indians does it take to weed a garden? And then he’d say, All of them. And there was always a reason why: One to use the hoe and the rest to smoke the weed!",
+      "start": 8847,
+      "end": 9012
+    },
+    {
+      "fact": "那年十月 Aanakwad 只有十岁，却已长出一双灵巧修长的、大人的手。",
+      "anchor": "Aanakwad was only ten that October, but he had grown-up hands",
+      "start": 10237,
+      "end": 10298
+    },
+    {
+      "fact": "人人都知道 Aanakwad 的哥哥 Tyrus 被抓、被控殴击罪（battery）——罪名不是她看到的 Aanakwad 身上那些青紫指印（但她也把它们记进了账），而是他对女友 Terri 动粗；Terri 数着自己裂开的肋骨，并照料一个有毒瘾退断症状的婴儿。",
+      "anchor": "Everyone knew Aanakwad’s brother Tyrus had been picked up, charged with battery. Not for the violet fingerprints I saw marking Aanakwad’s flesh—although I’d put those to his tally, too—but for roughing up his girlfriend, Terri. While Aanakwad was sporting the shit-bag’s tattoo, Terri was counting cracked ribs and nursing a withdrawal baby.",
+      "start": 15461,
+      "end": 15802
+    },
+    {
+      "fact": "新年夜 Aanakwad 受伤：她赶到诊所，他躺在小担架上，喉咙肿胀、带着手印淤青；他用沾满干血的手掏出一个小包递给她——她打开红头巾，里面是他编得整整齐齐、两端扎好的那头长发。",
+      "anchor": "On a little stretcher, all covered up so I couldn’t really see what was wrong. His breath came out raspy like the hiss of a teapot. Then when he shifted to smile up at me, I spotted handprint bruises on his swollen throat.\n\n\nHe was hooked up to some of them machines and his hand was caked in dried blood when he took out a little package and gave it to me. He wet his lips. “Open it,” he mouthed softly. I unwrapped the tissue to find his red bandanna. I looked at him to say miigwech, but he mouthed again, “Open it.” So I unfolded the bandanna. Then my mouth bit air, but nothing came out. Heat spread through my hands as if they cupped fire. His Hollywood hair all braided neatly and tied at both ends.",
+      "start": 19509,
+      "end": 20215
+    },
+    {
+      "fact": "结尾：她不再需要招工广告——她有了一份谁也开除不了她的新工作，教一种“新数学”：不是数咬人的虫子，而是关于人造毒液的难题、生存的统计、如何搅动概率；她的注视之下不再有发抖的白杨，不再有被偷走的生命。",
+      "anchor": "need no want ads to give me direction. I’ve got me a new job and it ain’t one no one is ever going to fire me from. So here I am teaching this new math. Not a simple accounting of biting insects. The hard problems—about human-made venom. Statistics of survival. And how to mess with probability. No more trembling aspens on my watch. No stolen lives.",
+      "start": 22974,
+      "end": 23324
+    }
+  ]
+}

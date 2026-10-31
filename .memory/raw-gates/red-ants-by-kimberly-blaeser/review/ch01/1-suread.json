@@ -1,0 +1,55 @@
+{
+  "book": "red-ants-by-kimberly-blaeser",
+  "chapter": "ch01",
+  "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch01_river_dreams.txt",
+  "facts": [
+    {
+      "fact": "叙述者的叔叔（她称 nizhishenh，绰号 Smoke Man）独居 Windigo Island 当草药师和隐士，死于河上；Green Lake Times 上的简短讣告只写“被过路船民发现”“死因判定为溺水”，对任何他杀嫌疑只字未提。",
+      "anchor": "Found by a passing boater … death has been ruled a drowning.",
+      "start": 1581,
+      "end": 1641
+    },
+    {
+      "fact": "叙述者 Bineshi LaFronde 从明尼苏达大学商科与预法专业毕业、回家仅一周时，表哥 C-Span 开车来接她并警告：人人都知道 Smoke 叔叔之死有蹊跷，但站出来追究只会“把靶子放到另一个人背上”。",
+      "anchor": "my cousin C-Span told me when he stopped by to pick me up during my first week back.",
+      "start": 3630,
+      "end": 3714
+    },
+    {
+      "fact": "Twin Ports Manufacturing 此前曾承认向苏必利尔湖排放化学品、缴纳 $15,000 罚款并发誓五年内不再违规；若在 Smoke River 再被抓住将按“明知违规”论处、每天最高罚款 $50,000——公司因此容不得 Smoke Man（Matthew LaFronde）这样的较真人。",
+      "anchor": "acknowledged spewing chemicals into Lake Superior, paid a $15,000 fine",
+      "start": 5410,
+      "end": 5480
+    },
+    {
+      "fact": "她与姐妹表亲 Sherri 翻看叔叔的账本，发现 2017 年 10 月两笔圣保罗法律咨询记录（半小时咨询费合计 $140，两周后又有一笔，之后直到次年二月才再有）；叔叔 2018 年春联系明尼苏达污染控制署、公开质疑 Twin Ports 的水质报告——咨询费正是他申诉前“把鸭子排好”的准备。",
+      "anchor": "Legal Consultation, St. Paul, gas, food, half-hour LC fee, total $140.",
+      "start": 32771,
+      "end": 32841
+    },
+    {
+      "fact": "她进城复印 RBC 会议记录、把 Sherri 独自留在岛上；回来时发现拴好的小船被人故意解开、搁浅在几百码外的河泥中，电话接通后 Sherri 哭着低声说“有人来过”——来者不止一人且不刻意压低声音，她当时一直躲在衣柜后面。",
+      "anchor": "There sat the boat in river muck a few hundred yards away.",
+      "start": 38547,
+      "end": 38605
+    },
+    {
+      "fact": "Sherri 在裤袋里（用密封袋护着）发现一封写给 Uncle Smoke 的信——想“达成交易”的贿赂或威胁，信封上有叔叔亲笔写的 “Chief of Pirates”；旁边还有一份带公章的官方样式报告，即叔叔自费委托、能证明 Twin Ports 篡改监测的关键证据。",
+      "anchor": "Uncle had written on the outside envelope of the letter—Chief of Pirates.",
+      "start": 45649,
+      "end": 45722
+    },
+    {
+      "fact": "证据交到部落警方手中后，逮捕、罚款与判刑接连发生，相关新闻三度登上 Green Lake Times 与 State Journal 头版；警长 Nate Johnson（Nate the Snake）与 Twin Ports 头目 Walter Byerly 被判刑——Byerly 在认罪协议中供出：开春冰尚未化尽时，警长借口“紧急事件”把叔叔叫出，那晚叔叔身亡。",
+      "anchor": "Once when Nate the Snake and Walter Byerly, the Twin Ports’ honcho, were sentenced.",
+      "start": 48429,
+      "end": 48512
+    },
+    {
+      "fact": "守岛那夜黎明，河（nibi）以叔叔当年为两人所取的灵名呼唤她们；河“像一具身体一样升起”、向她们起舞唱歌，Bineshi 与 Sherri 放下 asemaa 领受歌声；如今她仍想进入部落法院系统工作，并相信河也爱着她们。",
+      "anchor": "The river rose up like a body.",
+      "start": 52234,
+      "end": 52264
+    }
+  ]
+}

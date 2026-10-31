@@ -1,0 +1,55 @@
+{
+  "book": "red-ants-by-kimberly-blaeser",
+  "chapter": "ch06",
+  "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch06_fancy_dog_contest.txt",
+  "facts": [
+    {
+      "fact": "政府项目起因：一些官员开始说村里的杂种狗是公害和隐患、携带疾病且危险，于是政府照老一套启动了项目，要给所有狗打针并办执照，但每条可能要十五美元，没人愿意认领两三条狗。",
+      "anchor": "some officials started saying the mongrels were a nuisance and a hazard, carried diseases, and were dangerous. So they did what the government does best and started a program. They wanted all the dogs to get shots and licenses. But nobody wanted to claim two or three animals when it might cost fifteen dollars a head.",
+      "start": 5408,
+      "end": 5726
+    },
+    {
+      "fact": "一两年后某机构启动第二阶段（Phase Two），办了带大额奖金的比赛：第一名五百美元、第二名二百美元、第三名一百美元。",
+      "anchor": "Five hundred dollars for first place, two hundred for second, and one hundred for third.",
+      "start": 6596,
+      "end": 6684
+    },
+    {
+      "fact": "两兄弟恩怨起因（那辆皮卡）：Bush 兄弟刚从部队退伍回家时，弟弟把哥哥的皮卡连夜开进了 Pickerel Lake；他费事把车拖出来，却扔在树林里任其生锈，还骗大哥说车是自己跟 Roy Laker 打赌输掉的，真相过了半年才传开。",
+      "anchor": "It happened because of what the one brother did to the other one’s pickup when they had just come home from the service—drove it into Pickerel Lake one night. He did go through the trouble of towing it out, but then he just left it in the woods to rust. And he convinced his big brother that he had lost the truck himself in a bet with a Roy Laker. It took half a year before the truth got out.",
+      "start": 10434,
+      "end": 10828
+    },
+    {
+      "fact": "机构最聪明的一招是设法让 Bush 兄弟俩都带着狗报名参赛——这两人已经十八年互不说话，人们开始涌到社区中心，就想看他们俩同时在场会发生什么。",
+      "anchor": "their smartest move, somehow got the two Bush brothers to enter their dogs. Those guys hadn’t talked to one another for eighteen years and people started coming to the community center just to see what would happen with them both there at the same time.",
+      "start": 6746,
+      "end": 6999
+    },
+    {
+      "fact": "比赛日臭鼬与火灾：决赛做八字步法时，一只麻袋从窗户飞进来，臭鼬挣脱出来；狗群发疯、臭鼬尾巴竖起，众人夺门而逃；慌乱逃命中大概有人丢了熏烟或点燃的烟蒂，结果起了火，几只狗的服装着火，狗痛得尖叫狂奔。",
+      "anchor": "Suddenly a gunnysack flew in through a window and a skunk fought its way out. Dogs went crazy, the skunk’s tail went up, and everyone raced for the door. That would have been a pretty good trick, one a person could claim after a month or so had passed. But someone must have dumped a smudge or dropped a lit cigarette in the mad dash to escape, because somehow a fire got started. Soon a couple of the dogs’ costumes caught fire. The poor creatures yelped and ran in panic.",
+      "start": 16003,
+      "end": 16476
+    },
+    {
+      "fact": "谁救了狗：Bush 兄弟从尖叫声和纷乱色彩中走出来，平静地走进这场龙卷风般混乱的中心——也许是军旅训练、本能或旧日情谊唤醒了力量，两人像双生精灵一样各抱起一只着火的狗，用身体裹住打滚闷灭火焰。",
+      "anchor": "Out of the screaming and whirling colors the brothers stepped, seeming calm and walking into the very center of that tornado-force chaos. Maybe their army training, an instinct, or the old bond they shared woke some power and stirred in them the same response. Like twin spirits, they each grabbed an animal, tucked their body around them, and rolled.",
+      "start": 16479,
+      "end": 16830
+    },
+    {
+      "fact": "赛后众人聚在外面满身臭鼬味和焦发味，人们给 Bush 兄弟递酒、握手；老师走过来把全部奖金给了这两人，每人四百美元。",
+      "anchor": "The teachers came over and gave all that prize money to the two men, four hundred dollars apiece.",
+      "start": 17128,
+      "end": 17225
+    },
+    {
+      "fact": "事后和解的标志物：Rusty 转身离开时 Dollar 跟了上去，两人迈着一样的步子走到 Dollar 的皮卡前，Dollar 把自己那串车钥匙交给 Rusty，就像十八年从没发生过一样。",
+      "anchor": "They walked, each with the same stride, out to Dollar’s truck. Dollar handed over his set of keys to Rusty just like it hadn’t been eighteen years.",
+      "start": 17698,
+      "end": 17845
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "book": "red-ants-by-kimberly-blaeser",
+  "chapter": "ch05",
+  "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch05_waiting_a_quintet.txt",
+  "facts": [
+    {
+      "fact": "傍晚游乐场上，Melmo 在旋转木盘上垂头呕吐，留下被草莓味 Boone's Farm 果酒染成粉色的呕吐物；一圈穿牛仔裤的腿下意识推着木盘继续转，没人愿意靠近他。",
+      "anchor": "He leaves a trail of puke—pink from the strawberry Boone’s Farm.",
+      "start": 1186,
+      "end": 1250
+    },
+    {
+      "fact": "与妈妈缝被子时，Lanie 陷入「如果当初」的自问：若没爱上 Mel、没用 X-Acto 雕刻刀割开自己吸毒成瘾的血管会怎样——她曾爱上 Mel，并曾用 X-Acto 刀割腕。",
+      "anchor": "What if I hadn’t fallen for Mel? What if I hadn’t used an X-Acto knife to slit my drug-loving veins?",
+      "start": 10643,
+      "end": 10743
+    },
+    {
+      "fact": "Wally 撕下速写递给 Lanie 的漫画风画像中，她手腕上的疤痕完全可见——像火、像一柄点燃的剑（正是她割腕留下的自杀疤）。",
+      "anchor": "Except for the scar fully visible on my wrist—a triumphant scar that looks like fire, like a lit sword.",
+      "start": 9085,
+      "end": 9188
+    },
+    {
+      "fact": "Melmo 在黎明前冻醒，发现火堆原处、祖父石（Grandfather Stones）旁蜷着一具身体，凑近看清那正是他的双胞胎（Twin）。",
+      "anchor": "When I look closer, I see it is my twin.",
+      "start": 11240,
+      "end": 11280
+    },
+    {
+      "fact": "两轨土路上驶来的男人们打着手电、架起火把查看尸体：触摸 Twin、拍照、测量，最后用一条军毯盖住了他的尸体；Melmo 躲在沟里目睹全程。",
+      "anchor": "They touch Twin, take pictures, measurements. They cover his body with an army blanket.",
+      "start": 14437,
+      "end": 14524
+    },
+    {
+      "fact": "在辅导员 Walsh 的办公室里，Wally 代四人对游乐场事件撇清：「我们对这事一无所知」「我们不跟 Melmo 混」，随后又改口把 hang 说成过去式 didn't。",
+      "anchor": "“We know nothing about it,” Wally speaks for all of us. “We don’t hang with Melmo.”",
+      "start": 19856,
+      "end": 19939
+    },
+    {
+      "fact": "在 Mel 被谋杀当晚，农舍灯火全灭，Wally 从窗后目击返回车队——警车、Melmo 的皮卡，以及一辆他不认识的蓝色雪佛兰；他看不清车牌，却记住了那车后门的锈迹，时间是凌晨 3:00。",
+      "anchor": "On the night of Mel’s murder, all the farmhouse lights were off when I watched the return procession—the cop car, Melmo’s pickup, and a blue Chevy I didn’t recognize. I couldn’t see the plate, but I memorized the rust pattern on the rear door. It was 3:00 a.m.",
+      "start": 23641,
+      "end": 23901
+    },
+    {
+      "fact": "看着周报将写成的标题「Another Tragic Teen Suicide」，Wally 在结尾自问：自己是否唯一醒着质疑这一说法的人，是否唯一知道以后还会有更多（这样的事）的人。",
+      "anchor": "Was I the only one awake enough to question that? Was I the only one who knew there would be more?",
+      "start": 24043,
+      "end": 24141
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "book": "red-ants-by-kimberly-blaeser",
+  "chapter": "ch02",
+  "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch02_the_making_of_monsters.txt",
+  "facts": [
+    {
+      "fact": "开篇：叙述者与表亲 June Bug、Ziib 等同伴在 Gichigami 湖岸篝火旁讲水怪故事互相吓唬，June Bug 形容怪物的咬“像鳄龟咬腿”。",
+      "anchor": "my cousin June Bug said of the monster’s storied bite",
+      "start": 481,
+      "end": 534
+    },
+    {
+      "fact": "转折：湖水退去后，水下豹怪 Mishibizhii 先亮出高耸的角，从神话洞穴中走出，踏过干涸湖泥登上陆地。",
+      "anchor": "THE TOWERING HORNS emerged first. Mishibizhii walked slowly from the mythic caverns where he had once made his home.",
+      "start": 5330,
+      "end": 5446
+    },
+    {
+      "fact": "转折：族中两名女性 Cold Shell 与 Lu 在巨兽面前起舞，Lu 击鼓唱歌时巨兽突然甩头，一支尖角刺穿 Lu 的腹部，她身体像串在签子上般挂在角上死去。",
+      "anchor": "Then suddenly the animal flicked his head and a single sharp horn pierced the soft flesh of Lu’s belly.",
+      "start": 7545,
+      "end": 7648
+    },
+    {
+      "fact": "部落挖出埋尖刺的陷阱、用氏族私藏的熏鱼气味引诱巨兽；次日 Ziib 腿缠渗血布条来接叙述者，自称扮泰山测试尖刺时掉进坑里，“尖刺好使”。",
+      "anchor": "Tarzan fall in pit to test spikes. Spikes work.",
+      "start": 14898,
+      "end": 14945
+    },
+    {
+      "fact": "守夜时叙述者本想朝天鸣枪求援又放下，最终把手枪举向自己头顶准备自尽以保住藏身点；巨兽被来人引开后，他握枪的手里多了一只带 makwa 灵体标记的药袋——他此后明白这是熊灵 Makwa 的救援。",
+      "anchor": "in the hand that had held the pistol was a medicine bag. It had the mark of a makwa manidoo on the leather",
+      "start": 13692,
+      "end": 13798
+    },
+    {
+      "fact": "转折：去 June Bug 家老宅搜罐头时，Mishibizhii 抓住 Uncle Jon 的辫子把他当玩具拖走，肉体撕裂、惨叫声停歇，他唱起死亡之歌作最后的告别与祈祷后死去。",
+      "anchor": "He began singing his death song, a haunting lament and farewell.",
+      "start": 19139,
+      "end": 19203
+    },
+    {
+      "fact": "转折：议会上母亲 Mikwam 提出计划——她愿去与邪恶赌徒 Windigo 赌局相交配，不要财物、只要“他的孩子”作奖品，想生养能驱逐 Mishibizhii 的孩子，甚至培育一支圣巨人家族。",
+      "anchor": "I could bear a child who might grow big enough to banish the misaabe who now terrorizes our people. We might even be able to breed a race of holy giants.",
+      "start": 24407,
+      "end": 24560
+    },
+    {
+      "fact": "结尾：幸存的“我们”重新围坐火边，Nibi（水）重回为邻，叙述者颈上仍戴着破旧药袋，点题——怪物漫游大地，有时就住在我们心里。",
+      "anchor": "Monsters roam the earth; sometimes they live inside us.",
+      "start": 27790,
+      "end": 27845
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "book": "red-ants-by-kimberly-blaeser",
+  "chapter": "ch04",
+  "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch04_red_ants.txt",
+  "facts": [
+    {
+      "fact": "开头：州教育部门派来一名真人讲师（高个、挂着贴纸式微笑、别着名牌的女子），在改造的 Quonset 活动屋里向 Red Earth 高中的高二年级（junior class）全班讲授标准化考试备考。",
+      "anchor": "the voice from the state education department instructs us—the junior class from Red Earth High School—on how to prepare for standardized tests",
+      "start": 199,
+      "end": 342
+    },
+    {
+      "fact": "人物关系与年龄：叙述者「我」与挚友 Chimook 都是十六岁；自十岁那年当地选举再度变得可怕起，两人便一直被灌输谨慎行事。",
+      "anchor": "My best friend, Chimook, and I are sixteen and have been fed on caution since we were ten, when elections got scary here again",
+      "start": 1653,
+      "end": 1779
+    },
+    {
+      "fact": "身份差异：在围绕部落宪法与成员资格的最新争端中，Chimook 是 descendant（后裔），叙述者「我」则是 enrolled（在册成员）。",
+      "anchor": "Chimook is a descendant. I’m enrolled.",
+      "start": 4217,
+      "end": 4255
+    },
+    {
+      "fact": "中段转折·运动发起：两人自认多年观察已够老练，决定打造自己的 campaign——三月糖枫汁季巡回、六月去草莓采摘地，一起爬上去发声：边吃边聊、唱歌、围火旁观，向族人散布对成员规则的不满。",
+      "anchor": "Chimook and I figure over the years we’ve become savvy enough to build a campaign of our own. In March, while she dreams about getting out in Joeboy’s boat and I sew clothes for my summer trip, together we also finally climb up and have our say. First, Chimook and I make the sugar bush rounds. Then in June, the strawberry picking patches.",
+      "start": 8083,
+      "end": 8423
+    },
+    {
+      "fact": "手段（线上）：Chimook 模仿奥巴马在 Facebook 和 Instagram 上加遍好友、发布迷你视频，其中幼童 T-ball 队身穿印有 Unclaimed by My Nation 字样 T 恤跳怪异舞步的视频走红。",
+      "anchor": "She does her best Obama imitation, friending everyone on Facebook and Instagram, and posting all these mini videos. You probably saw the one that went viral of the tiny tots T-ball team doing that weird running man dance while wearing shirts that said Unclaimed by My Nation",
+      "start": 10678,
+      "end": 10952
+    },
+    {
+      "fact": "族会大对决：那种呼喊连着跺脚与大声咕哝，搅乱了任何回到正常议程的尝试；没有部落代表想显得软弱而让步，他们随即把公民权故事接过来当作自己的主张。",
+      "anchor": "Together with feet shuffling and loud mumblings, that chant disrupted any attempt to return to regular agenda items. Like a territorial red ant who will attack to protect habitat and food, it promised a future. Of course, no tribal rep wanted to seem weak and just concede to demands, so they rapidly took up the citizenship story as their own.",
+      "start": 15384,
+      "end": 15728
+    },
+    {
+      "fact": "运动见效：明年新的部落注册规则生效后，Chimook 和「我」将一起参加那个项目（do the skin thing—together）。",
+      "anchor": "After all, next year when new tribal enrollment rules kick in, Chimook and I will both do the skin thing—together.",
+      "start": 15753,
+      "end": 15867
+    },
+    {
+      "fact": "结尾：ACT 成绩放榜出人意料——这个不起眼的保留地竟是聪明与潜在奖学金学生的温床，「我」和 Chimook 都在其中；生活时有惊喜，就像得知有些蚂蚁会游泳。",
+      "anchor": "Take the ACT results. Who knew this Podunk rez was a breeding ground for smarts or potential scholarship students—me and Chimook among them? Who knows what new rez story we might write together? Sometimes life surprises you. Like learning some ants can swim.",
+      "start": 15925,
+      "end": 16183
+    }
+  ]
+}

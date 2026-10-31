@@ -1,0 +1,55 @@
+{
+  "book": "red-ants-by-kimberly-blaeser",
+  "chapter": "ch03",
+  "text": "notes/books/short-story-anthologies/red-ants-by-kimberly-blaeser/text/ch03_launch_pad.txt",
+  "facts": [
+    {
+      "fact": "开场：叙述者好友的“油滑表兄”压低声音命令两人冷静，说“他们会听见我们”；叙述者想喊“这才是你担心的事？”，同时正像送东西离开地球那样向后倒数（10、9、8）。",
+      "anchor": "Calm down. They’ll hear us.",
+      "start": 62,
+      "end": 89
+    },
+    {
+      "fact": "转折：一场爆炸把最好朋友的鞋炸掉了——也许脚趾、也许跟腱没了；她想起科学课背过“每只脚有二十六块骨头”，但看不见骨头，只见溅开的血在茶色莫卡辛鞋上画成一张地图。",
+      "anchor": "An explosion removed my best friend’s shoe, maybe her toes, maybe her Achilles tendon. I am trying to remember the parts of the foot.\n\n\nEach foot has twenty-six bones. A surprising fact I memorized in science class.\n\n\nBut I can’t see bones. Only blood. Splattered blood. A map on her tawny moccasin.",
+      "start": 291,
+      "end": 590
+    },
+    {
+      "fact": "包扎：表兄脱下衬衫撕成布条，像包礼物一样笨拙地裹她那只脚；再用皮带（她的？他的？）绕了五圈，并说“帮帮我，我们得把血止住”。",
+      "anchor": "He is taking off his shirt, tearing it. He is wrapping her foot like a present. Wrapping it awkwardly like a child who fumbles with the ribbon.\n\n\n5\n\n\nFive times around with a belt. Hers? His? “Help me,” he says. “We have to stop the bleeding.",
+      "start": 699,
+      "end": 941
+    },
+    {
+      "fact": "撤离命令：表兄说“我们得安静、得抬走她、得离开”，扛起那具身体——他的表妹、长着“木乃伊脚”的那位——嘶声催“现在，给我他妈起来”；即伤者既是叙述者的挚友，也是这位表兄的表妹。",
+      "anchor": "We need to be quiet. We need to carry her. We need to leave.” He hoists the body—his cousin with the mummy foot. He wobbles, but he doesn’t grunt. “Now,” he hisses. “Get the fuck up.”",
+      "start": 1274,
+      "end": 1457
+    },
+    {
+      "fact": "倒数回避：她不敢数过 1、怕数到“BLASTOFF!”，改数“一百只瓶子”；数到 48 瓶时，日后会被称作“事故现场”的地点已被甩在身后一个街区之外。",
+      "anchor": "When I am at forty-eight bottles, what they will call the accident scene is already a city block behind us.",
+      "start": 2181,
+      "end": 2288
+    },
+    {
+      "fact": "编造故事计划：表兄将向人谎称“我们把人从房子抬出一个街区、穿过旷野、之后被树林挡住”；因听者认识（或知道其父辈名字）制造爆炸的人，案件将被冠以“不幸情形”“不稳定的人”“事故”这类字眼。",
+      "anchor": "He will feed them his invented story and, because they know the fathers or the names of the fathers of those who have made the explosion, they will use terms like unfortunate circumstances, unstable individual, and accident.",
+      "start": 2483,
+      "end": 2707
+    },
+    {
+      "fact": "改写记忆：他的故事里没有小包粉末，重新讲述里也没有他掏枪这一段（而现场明明有过枪）；他反复灌输“记住没人逼你来”“记住她想参加派对”“我救了你们”，她却毫不觉得被救、也不觉安全。",
+      "anchor": "His story doesn’t have little packets of powder. He doesn’t pull a gun in the shuffle.",
+      "start": 3225,
+      "end": 3311
+    },
+    {
+      "fact": "结尾：她用七秒弯腰、捏住好友的手、低语“快到了，你能行”；全篇以课堂儿歌式倒数收束——“Ten little, nine little, eight little”，“一首消解印第安人的歌”。",
+      "anchor": "Seven seconds—this is how long it takes me to bend, squeeze her hand, and whisper, “Almost there. You’ve got this.”\n\n\n8\n\n\n9\n\n\n10 Ten little, nine little, eight little—like the classroom rhyme they taught us. A countdown—a song unmaking ind’ins.",
+      "start": 4071,
+      "end": 4315
+    }
+  ]
+}
