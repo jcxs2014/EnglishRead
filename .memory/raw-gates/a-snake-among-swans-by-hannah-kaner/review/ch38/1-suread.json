@@ -1,0 +1,95 @@
+{
+ "chapter": 38,
+ "text": "text/ch38_chapter_thirty_eight_tilde.txt",
+ "chars": 16782,
+ "facts": [
+  {
+   "id": 1,
+   "event": "清晨蒂尔蒂回房，侍卫队长佩兰守在门口，耳上戴着新赢来的加莱尼什金耳环，抱怨找不到她。“王后与侍卫长（护卫兼调侃）”",
+   "relation": "Tilde（王后）↔ Perin（侍卫队长，护卫兼调侃）",
+   "numbers": "in the morning; a fine new gold earring",
+   "interval": [
+    122,
+    190
+   ],
+   "anchor": "Captain Perin was standing guard, a fine new gold earring in his ear"
+  },
+  {
+   "id": 2,
+   "event": "玛洛琳告知：吟游诗人米拉斯被打得很惨、手指被折断，是佩兰救了他；蒂尔蒂立刻想到有人不愿他再唱拥戴她的歌。",
+   "relation": "Tilde ↔ Marolyn（心腹侍女）; Miras（吟游诗人，被警告的对象）",
+   "numbers": "—",
+   "interval": [
+    1995,
+    2035
+   ],
+   "anchor": "They broke his fingers. Perin saved him."
+  },
+  {
+   "id": 3,
+   "event": "哈迪雅报信：国王清晨召见，召令盖着“翼”的印记，即大祭司达戈贝尔特。",
+   "relation": "Tilde ↔ Hadiah（侍女）; Dagobert（大祭司，主要敌手）",
+   "numbers": "in the morning",
+   "interval": [
+    2841,
+    2881
+   ],
+   "anchor": "It was sealed with the sign of the Wing."
+  },
+  {
+   "id": 4,
+   "event": "蒂尔蒂由佩兰护送进国王寝殿，内廷重臣梅罗文、奥东、阿德玛、乌赫特伦、特德梅俱在，诸王子一个未到。",
+   "relation": "Tilde ↔ Liran（国王丈夫）及枢密诸臣; Odon（退役将领，暗中护她）",
+   "numbers": "None of the princes",
+   "interval": [
+    4123,
+    4203
+   ],
+   "anchor": "Many of the king’s inner counsel were there too: Merovin, Odon of course, Ademar"
+  },
+  {
+   "id": 5,
+   "event": "达戈贝尔特以“忏悔者之菜”——醋泡冷脾脏——作她的早餐，蒂尔蒂假借试热度用蓝石验毒，石色未变，确认无毒。",
+   "relation": "Tilde ↔ Dagobert（以信仰压她的审判者）",
+   "numbers": "a plate of cold spleen, doused in vinegar",
+   "interval": [
+    6152,
+    6187
+   ],
+   "anchor": "The stone stayed clear. Unpoisoned."
+  },
+  {
+   "id": 6,
+   "event": "达戈贝尔特罚她两周只许吃肉、随驾前往维丁；特德梅称行程需四周，并拒绝为待产的妻子 Daegmar 留城，乌赫特伦出言反对。",
+   "relation": "Dagobert / Thedemer（主张迁葬）↔ Uhtren（反对者）; Tilde 以“照管宫中女眷”之名介入",
+   "numbers": "fortnight; Four weeks; on the north sea",
+   "interval": [
+    7324,
+    7374
+   ],
+   "anchor": "You will have meat and only meat for the fortnight"
+  },
+  {
+   "id": 7,
+   "event": "利兰掀翻酒杯与餐盘、喝令众人退出，蒂尔蒂出言回护后，他竟当众向乌赫特伦道歉并自陈丧子之痛。",
+   "relation": "Liran ↔ Uhtren（旧日同袍）; Tilde 居中调停以维系贵族与国王的纽带",
+   "numbers": "—",
+   "interval": [
+    10217,
+    10299
+   ],
+   "anchor": "Liran swept his hand aside, throwing his goblet and plate clattering to the floor."
+  },
+  {
+   "id": 8,
+   "event": "独处后利兰说此前低估了她，警告她随时可像死肉一样被割去；蒂尔蒂温顺应允、主动宽衣，心里盘算要在“下一个孩子”降生前怀上子嗣。",
+   "relation": "Tilde ↔ Liran（夫妻间的角力与交易）; Elise（国王之女，私情作为她夺回自身的凭据）",
+   "numbers": "—",
+   "interval": [
+    13744,
+    13783
+   ],
+   "anchor": "I seem to have underestimated you, wife"
+  }
+ ]
+}

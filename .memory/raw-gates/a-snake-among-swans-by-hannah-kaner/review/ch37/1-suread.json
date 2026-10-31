@@ -1,0 +1,95 @@
+{
+ "chapter": 37,
+ "text": "text/ch37_chapter_thirty_seven_elise.txt",
+ "chars": 16792,
+ "facts": [
+  {
+   "id": 1,
+   "event": "艾莉丝把父亲送回房间，途中父亲喊错她的名字叫伊莎贝拉，到门口又命她去找伊森。",
+   "relation": "艾莉丝与父亲（国王）——从短暂的父女温情跌回被忽视",
+   "numbers": "three breaths",
+   "interval": [
+    194,
+    260
+   ],
+   "anchor": "But still she led her father to his room, away from further danger"
+  },
+  {
+   "id": 2,
+   "event": "她得知伊森已死，又想到若达戈贝尔特把蒂尔德带走，她就再也见不到蒂尔德，才决意反抗兄长。",
+   "relation": "艾莉丝与蒂尔德（爱）／与达戈贝尔特等兄长（对立）",
+   "numbers": "—",
+   "interval": [
+    538,
+    613
+   ],
+   "anchor": "Isen was dead. Had ceased to be. Her brothers were corrupt and ungovernable"
+  },
+  {
+   "id": 3,
+   "event": "艾莉丝从自己房里取出佩剑，不顾托尔娜阻拦冲进暴风雨，到演武场用练剑猛砍插满箭的草人。",
+   "relation": "艾莉丝与仆人托尔娜（劝阻）",
+   "numbers": "—",
+   "interval": [
+    2588,
+    2679
+   ],
+   "anchor": "Elise wrenched off the sheath of her child’s practice sword, the blade kept carefully sharp"
+  },
+  {
+   "id": 4,
+   "event": "蒂尔德循着暴风雨找到她，抓住她流血的手，责问她道歉是为哪桩——羞辱、指控，还是吻了她又抛下她。",
+   "relation": "艾莉丝与蒂尔德（恋人，指责与和解）",
+   "numbers": "—",
+   "interval": [
+    4691,
+    4779
+   ],
+   "anchor": "Sorry for letting them humiliate and accuse me? Sorry for kissing me then abandoning me?"
+  },
+  {
+   "id": 5,
+   "event": "艾莉丝坦白：她曾把伊苏瓦尔的信带进父亲的私密议事厅读出并要求公道，父亲当场打她、掐她、踢她，是伊森拉开了父亲。",
+   "relation": "艾莉丝与父亲（施暴）／与伊森（相救）",
+   "numbers": "—",
+   "interval": [
+    5696,
+    5766
+   ],
+   "anchor": "He struck me, choked me, kicked me. I thought he was going to kill me."
+  },
+  {
+   "id": 6,
+   "event": "她说出真相：阿拉尔用血魔法求娶伊苏瓦尔，想靠她怀孕与天鹅之血夺取王位；父亲知情却只把阿拉尔封作低等国王悄悄送走。",
+   "relation": "阿拉尔与伊苏瓦尔（施害者与受害者）／父亲包庇",
+   "numbers": "It’s been years",
+   "interval": [
+    7071,
+    7172
+   ],
+   "anchor": "Alar thought the marriage would make him a king, and that if she was pregnant they could not deny him"
+  },
+  {
+   "id": 7,
+   "event": "蒂尔德劝她“那就碎掉吧”，说需要不等于想要，并主动吻她，两人在雨中相吻后回到艾莉丝的寝殿。",
+   "relation": "艾莉丝与蒂尔德（情欲确立）",
+   "numbers": "—",
+   "interval": [
+    10031,
+    10097
+   ],
+   "anchor": "They crept quietly to Elise’s chambers, where Torna had set a fire"
+  },
+  {
+   "id": 8,
+   "event": "蒂尔德说自己的寝殿今晚不安全，留下来，两人在炉火前发生关系。",
+   "relation": "艾莉丝与蒂尔德（身体结合）",
+   "numbers": "—",
+   "interval": [
+    10603,
+    10643
+   ],
+   "anchor": "I do not think my chambers safe tonight."
+  }
+ ]
+}
