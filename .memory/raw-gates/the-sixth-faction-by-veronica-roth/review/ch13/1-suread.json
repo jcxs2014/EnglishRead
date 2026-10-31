@@ -1,0 +1,121 @@
+{
+  "chapter": 13,
+  "pov": "Caleb（第三人称限知，过去时叙述；非 Four 的第一人称）",
+  "facts": [
+    {
+      "event": "Cara 把新晋者随机分组，领进第二关所在的庭院（浅水池、浮着睡莲），第二关是镜子迷宫。",
+      "who": "Cara（Erudite 引导者）",
+      "receivers": [
+        "Caleb",
+        "Fernando",
+        "Quinn",
+        "Anna",
+        "Felicity（Fell）"
+      ],
+      "start": 528,
+      "end": 653,
+      "text": "This morning, Cara divided them into random groups before ushering them into the courtyard where the second test takes place."
+    },
+    {
+      "event": "Caleb 与 Fernando、Quinn 三人组队：先记地图，Quinn 用指尖找出路线，Erudite 出身的 Fernando 把它编成口诀，三人各背一段。",
+      "who": "Caleb / Fernando / Quinn",
+      "receivers": [
+        "Caleb",
+        "Fernando",
+        "Quinn"
+      ],
+      "start": 1035,
+      "end": 1337,
+      "text": "They had to memorize the map to navigate the maze. Quinn was the one who found the path with her fingertip, and Fernando, a born Erudite with an array of memorization techniques at his disposal, turned her solution into a chant. Each of them was responsible for memorizing a section of the chant. Easy."
+    },
+    {
+      "event": "进迷宫后先是全黑全静，Fernando 抓住两人的手改用手感领路；到 Quinn 那一段灯亮了却响起刺耳警报，Caleb 捂耳朵。",
+      "who": "Fernando / Quinn / Caleb",
+      "receivers": [
+        "Caleb",
+        "Quinn"
+      ],
+      "start": 1409,
+      "end": 1710,
+      "text": "At first, everything went black and utterly silent. Fernando was undeterred, grabbing both Caleb’s and Quinn’s hands to lead them through by touch instead of by sight or sound. In Quinn’s section the lights came on again, but so did a blaring alarm, so loud Caleb had to stick his fingers in his ears."
+    },
+    {
+      "event": "轮到 Caleb 的镜厅段：他往前走一头撞上墙，第二次以为找到墙沿，结果撞进死路，随即自咒“自己就是个可悲的失败者”。",
+      "who": "Caleb",
+      "receivers": [
+        "Caleb",
+        "Fernando",
+        "Quinn"
+      ],
+      "start": 2273,
+      "end": 2520,
+      "text": "He walks forward and smacks right into a wall. His face heats. He tries again, ignoring his pink-cheeked reflection. This time, he finds the edge of the wall, and strides forward with a confidence he doesn’t feel . . . only to confront a dead end."
+    },
+    {
+      "event": "Fernando 不作声把他领回起点，Quinn 在后头轻声哼口诀递帮助；Caleb 不服却认下，跟着哼，并靠盯自己鞋子（地板也是镜面）判断墙的尽头，多花一倍时间走完，但全队没垫底。",
+      "who": "Fernando / Quinn / Caleb",
+      "receivers": [
+        "Caleb"
+      ],
+      "start": 2717,
+      "end": 2963,
+      "text": "Fernando and Quinn are kind enough not to say anything about it. Fernando just guides them back to where they started, and\nCaleb begins again. Behind him, he hears soft humming, almost too faint to be audible. Quinn is reminding him of the chant."
+    },
+    {
+      "event": "通过第二关的奖赏是宿舍一个铺位；Caleb 抢到窗边那张，书架已塞满书——侦探小说、短篇集、派系史、心理学教材、自然随笔，全不为实用，他第一次感到这样的解脱。",
+      "who": "Caleb",
+      "receivers": [
+        "Fernando",
+        "Quinn"
+      ],
+      "start": 4811,
+      "end": 5000,
+      "text": "They don’t need to be practical, or useful. He doesn’t need to evaluate them according to the contribution they can help him make to the community. He can just read what sounds interesting."
+    },
+    {
+      "event": "走廊墙上的屏幕播报新闻，最后一条讲 Abnegation：前成员揭发“Penalty of Silence”（剥夺孩子说话权，通常六小时以上）、Erudite 心理学家 Ashley Day 的评估，以及一名未点名的显要议事会成员涉嫌体罚的指控。",
+      "who": "新闻播报（Erudite 广播）",
+      "receivers": [
+        "Caleb",
+        "Fernando",
+        "Quinn",
+        "Anna",
+        "Felicity（Fell）"
+      ],
+      "start": 6580,
+      "end": 6821,
+      "text": ". . . has uncovered disturbing reports from former Abnegation about harsh disciplinary practices, including the so-called\nPenalty of Silence, wherein a child’s right to speak is taken away for a set period of time, usually six hours or more."
+    },
+    {
+      "event": "Quinn 当众问他报道是否属实，Caleb 只否认体罚部分、承认其余“基本属实”；他想起能力测试前夜 Beatrice 顶撞 Marcus Eaton 后整晚低头噤声，Anna 直斥这种惩罚残忍，Caleb 暗自担心妹妹。",
+      "who": "Quinn / Caleb / Anna",
+      "receivers": [
+        "Caleb",
+        "Quinn",
+        "Anna",
+        "Fernando",
+        "Felicity（Fell）"
+      ],
+      "start": 7587,
+      "end": 7729,
+      "text": "“I don’t know about the physical discipline,” he replies, and he’s aware of how weak that sounds. “But yes, the rest is essentially accurate.”"
+    }
+  ],
+  "relations": [
+    "Caleb 与 Fernando、Quinn 是同一组的新晋者（Quinn 是 Amity 出身、鼻音重；Fernando 是土生 Erudite），三人靠分工口诀过镜厅迷宫。",
+    "Cara 是 Erudite 一方的引导者/研究者，公开邀请 Caleb 进实验室，并主动提出给他开研究书单，对他明显青眼。",
+    "Anna 与 Felicity（要求大家叫她 Fell）同为新晋者；Anna 当场谴责“Penalty of Silence”残忍，Fell 则动摇地问他“是不是真有害”。",
+    "Caleb 的妹妹是 Beatrice（Tris）；他回忆她曾在能力测试前夜与 Marcus Eaton 争论新闻是否属实，之后整晚被压得低头不语。",
+    "Caleb 的父母是 Abnegation 成员，报道里说的“Penalty of Silence”就是他家的管教方式（他承认“其余基本属实”，但说自己从未违规）。",
+    "报道提到“一名未点名的显要议事会成员”涉嫌体罚；Caleb 由 Beatrice 与 Marcus Eaton 的冲突联想到此人，但报道本身没有点名。"
+  ],
+  "numbers": [
+    "the second stage of Erudite initiation / the second labyrinth / the second test（第二关＝镜子迷宫）",
+    "usually six hours or more（Penalty of Silence 通常六小时以上）",
+    "It takes him twice as long as the other two（走完自己那段花了两倍时间）",
+    "half the spots are already taken（宿舍床位已被占一半）",
+    "she keeps at least one laboratory studying them（Jeanine Matthews 至少保留一间实验室研究模拟）",
+    "all five factions（Fernando 主张研究要纳入全部五个派系）",
+    "the night before the aptitude test（Beatrice 顶撞 Marcus Eaton 的那晚）"
+  ]
+}

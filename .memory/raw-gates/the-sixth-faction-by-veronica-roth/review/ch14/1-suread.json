@@ -1,0 +1,112 @@
+{
+  "chapter": 14,
+  "pov": "Four（第一人称“I”，现在时叙述；不是 Caleb 的第三人称）",
+  "facts": [
+    {
+      "event": "Four 在恐惧模拟里站上 Hub 楼顶（全城最高楼、他自小恐高），逼自己走五步到檐边、向下看，然后纵身跳下，落地睁眼已在 Dauntless 总部的模拟室。",
+      "who": "Four（Tobias）",
+      "receivers": [],
+      "start": 729,
+      "end": 947,
+      "text": "I force myself to walk to the ledge. Five steps, and I’m on the edge of it, my toes sticking out over the building’s steel-and-glass side. The wind blows my black shirt away from my body and sticks my jeans to my legs."
+    },
+    {
+      "event": "Uriah 跑进模拟室喊他去训练室：出事了。",
+      "who": "Uriah",
+      "receivers": [
+        "Four"
+      ],
+      "start": 2628,
+      "end": 2797,
+      "text": "I hear running footsteps, and a second later Uriah bursts into the room. He gives the flames an uneasy look. No surprise—most people feel nervous in the simulation room."
+    },
+    {
+      "event": "路上 Uriah 说明缘由：Peter 逼另一个 Candor 出身的女生跟他打，人家说不也不放过，把人堵住了。",
+      "who": "Uriah（转述 Peter 的行为）",
+      "receivers": [
+        "Four"
+      ],
+      "start": 4595,
+      "end": 4759,
+      "text": "Uriah goes on: “Peter challenged one of the girls—that other Candor—to fight him, and wouldn’t take no for an answer. Cornered her. That’s when I went to find you.”"
+    },
+    {
+      "event": "最大训练室里 Peter 站在倒地的 Christina 上方（她吐着血、四根粗辫子），Molly 与 Drew 拦住想插手的人；Peter 正要抬脚踹她肋骨时 Four 出声“Excuse me”，随后把 Christina 扶起、命 Uriah 送她去医务室。",
+      "who": "Peter / Christina / Four",
+      "receivers": [
+        "Christina",
+        "Uriah",
+        "Molly",
+        "Drew"
+      ],
+      "start": 5280,
+      "end": 5522,
+      "text": "Peter—tall and pale, with dark brown hair and a perpetual smirk—stands over the fallen form of Christina—also tall, her skin dark brown and her black hair in four thick braids against her scalp—who’s spitting blood on the training room floor."
+    },
+    {
+      "event": "Four 当众把 Peter 逼进白圈：说他从没见 Peter 打过和自己同样量级的对手，“不如先从我打起”。",
+      "who": "Four",
+      "receivers": [
+        "Peter",
+        "其余新晋者"
+      ],
+      "start": 7479,
+      "end": 7589,
+      "text": "I say, “Come to think of it, I’ve never seen you fight someone your own size. Maybe you should start with me.”"
+    },
+    {
+      "event": "交手时 Four 先拧住 Peter 的手腕把他锁死，再在 Peter 挥空拳时贴身、用右臂横劈他喉咙把他放倒，抬脚悬在他脖子上警告“再动同级一次我就不留手”。",
+      "who": "Four",
+      "receivers": [
+        "Peter"
+      ],
+      "start": 9896,
+      "end": 10160,
+      "text": "He punches wide and wild at my left side, and instead of evading him, I step in close and bring my left arm down hard against his shoulder. He’s off-balance, on one foot. So I clothesline him with my right arm, swinging it so it comes down right across his throat."
+    },
+    {
+      "event": "Eric（Dauntless 青年领袖、十八岁、Erudite 出身，曾是 Four 同期）在门口看完，事后在小练习室警告：若发现 Four 教新晋者“软弱可接受”，就把他从教官职位上撤掉；Four 只能答“Yeah”。",
+      "who": "Eric",
+      "receivers": [
+        "Four"
+      ],
+      "start": 14766,
+      "end": 14882,
+      "text": "“If I find out you’re teaching them that it is,” Eric says, “I’ll ensure you’re removed from your post. Understood?”"
+    },
+    {
+      "event": "在 Four 的公寓，Shauna 与 Zeke 拿 Eric 编故事取乐；一张纸从橱柜掉出，Shauna 念出“Last train, where and when we last met”“On the safest day”，Four 抢过揉进兜里、谎称是梦话记录——那纸条其实来自 factionless，他们在招募他。",
+      "who": "Shauna / Zeke / Four",
+      "receivers": [
+        "Four",
+        "Shauna",
+        "Zeke"
+      ],
+      "start": 18642,
+      "end": 18757,
+      "text": "She’s not quite convinced, but I’m sure as hell not going to tell her the truth: That note is from the factionless."
+    }
+  ],
+  "relations": [
+    "Four 是 Dauntless 的转派新晋者教官，本名 Tobias；本章只说 Eric“知道他这个绰号的来历”且每次都带讥讽地叫，并未解释来历。",
+    "Uriah 是 Four 最好的朋友的弟弟（eager and clumsy as a puppy），也是把他叫去处理训练室冲突的人。",
+    "Christina 是 Candor 出身的女新晋者，被 Peter 打倒在地；Four 扶她起来、让她去医务室，并暗想“该让她升一个名次”。",
+    "Peter 是 Candor 出身的新晋者头目，Molly（女生里最强）与 Drew（神经质、易爆）是他两个跟班；他先针对 Will（Erudite，反击有一手好拳），再是 Myra（与 Erudite 男友 Edward 形影不离），现在轮到 Christina。",
+    "Eric 是 Dauntless 三位领袖中的 youth leader（须二十五岁以下），十八岁、Erudite 出身，与 Four 同届；Max 曾推 Four 接这个位置，Four 拒绝，Eric 因此记恨。",
+    "Dauntless 三领袖：Max 管多数派（二十五至五十岁），Harrison 管长者（五十岁以上），另有一位青年领袖。",
+    "Amar 是 Four 当年的入门教官，已死；Eric 用“What would Amar say?”刺他。",
+    "Shauna（急救员，黑制服配荧光绿边）与 Zeke（墙卫，当天休息）是 Four 的朋友；Shauna 经过 Zeke 时手指与他交缠，两人关系不止普通朋友。",
+    "factionless 通过纸条（细斜的秀气连笔字）约 Four“最后一班列车、上次见面的地方、最安全的那天”，试图招募他。"
+  ],
+  "numbers": [
+    "Five steps, and I’m on the edge of it（五步走到檐边）",
+    "go back to the simulation room twice a year（每个 Dauntless 每年回模拟室两次）",
+    "for the three months of Dauntless initiation（三个月的 Dauntless 入门期）",
+    "eighteen years old（Eric 十八岁）",
+    "anyone between age twenty-five and fifty / Dauntless over fifty / under twenty-five（三领袖的年龄界限）",
+    "three white circles painted on the ground（三个白圈格斗区）",
+    "her black hair in four thick braids（Christina 四根粗辫）",
+    "There are maybe six feet between us（两人相距约六英尺）",
+    "Peter’s been targeting other people for weeks（Peter 已针对他人数周）"
+  ]
+}
