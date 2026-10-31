@@ -1,0 +1,55 @@
+{
+ "book": "the-scarlet-ball-by-nghi-vo",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-scarlet-ball-by-nghi-vo/text/ch01_one.txt",
+ "facts": [
+  {
+   "fact": "叙述者自报身份：越南（安南）出身、在 Madame Valois 帽店做工的 Judith Ban，替店里的差事送一只条纹帽盒去 Howard House。",
+   "anchor": "Annam is no more An Giang than I am Judith Ban",
+   "start": 27075,
+   "end": 27121
+  },
+  {
+   "fact": "去程路上遇约二十四只染火野狗袭翻一位女士的马车，与她同辈的店主泼冷水驱狗，把她也浇了个透湿，见她是外国人便悻悻走开。",
+   "anchor": "A shopkeeper about my own age swung his bucket over his shoulder",
+   "start": 5970,
+   "end": 6034
+  },
+  {
+   "fact": "后门应声而开，一个哭到看不见路的女仆撞进她怀里又弹开，径直逃进夜色；Judith 仍进屋把门闩上继续送件。",
+   "anchor": "weeping so hard she could barely see, barreled into me and caromed off",
+   "start": 10249,
+   "end": 10319
+  },
+  {
+   "fact": "在 Miss Marshall 房间等候时，Judith 吃掉托盘上糖渍樱桃——近三十小时来的第一口食物——吞下最后一颗时全屋灯灭、雷声炸响。",
+   "anchor": "the first food I had had in almost thirty hours",
+   "start": 19155,
+   "end": 19202
+  },
+  {
+   "fact": "她一度想开窗放暴风雨进来毁掉房子，从玻璃倒影里看见自己眼中有种空虚，随即擦掉呼吸雾气与指印，斩断念头。",
+   "anchor": "wiped the vapor of my breath from the glass as well as the small prints I had left there",
+   "start": 21071,
+   "end": 21159
+  },
+  {
+   "fact": "Mrs. Howard 拎着方才逃走的那名女仆的衣领进屋逼问「她是怎么做到的」，被攥过的领口焦黑冒汽。",
+   "anchor": "her uniform’s collar was singed black and crackling",
+   "start": 24500,
+   "end": 24551
+  },
+  {
+   "fact": "Mrs. Howard 反复逼问 Judith「你到底是什么」，突然拧她的脸颊、问她安南人知不知道痛，又命她走向窗口再走回，像相马一样打量她。",
+   "anchor": "She pinched my cheek suddenly, grabbing flesh between two fingers and twisting hard",
+   "start": 27915,
+   "end": 27998
+  },
+  {
+   "fact": "Mrs. Howard 出十美元雇 Judith 今晚穿上那件淡绿天鹅绒礼服赴宴，她还价二十美元立刻成交，随后便命她把衣服脱了。",
+   "anchor": "when I countered with twenty, she agreed so fast I knew I should have asked for more",
+   "start": 34218,
+   "end": 34302
+  }
+ ]
+}
