@@ -1,0 +1,67 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch16",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch16_maths_and_science_jokes_that_just_dont_add_up.txt",
+ "facts": [
+  {
+   "fact": "遇到一个由冰组成、核心温度零下的人，结论是“看起来是个冰家伙”——ice guy 谐音 nice guy",
+   "anchor": "I’ve just met a man who appears to be made out of frozen water and has a core temperature of below 0 degrees Celsius. Seems like an ice guy.",
+   "start": 105,
+   "end": 245
+  },
+  {
+   "fact": "中子进酒吧点酒，问多少钱，酒保说“对你免费”——no charge 双关无电荷／不收费",
+   "anchor": "A neutron goes into a bar and orders a drink. ‘How much do I owe you?’ it asks. ‘For you?’ says the barman, ‘No charge.’",
+   "start": 250,
+   "end": 370
+  },
+  {
+   "fact": "科学家不信原子：它们构成一切（make up）又全是编造（make up）",
+   "anchor": "Why don’t scientists trust atoms? Because they make up everything.",
+   "start": 375,
+   "end": 441
+  },
+  {
+   "fact": "光子办登机，说没有行李：I’m travelling light，光子以光速旅行＋轻装",
+   "anchor": "‘No,’ says the photon, ‘I’m travelling light.’",
+   "start": 663,
+   "end": 709
+  },
+  {
+   "fact": "原子丢了电子，另一个问确定吗，它说“我确定”（正电／positive）",
+   "anchor": "‘Yep,’ says the first one, ‘I’m positive.’",
+   "start": 837,
+   "end": 879
+  },
+  {
+   "fact": "薛定谔的猫犯罪被通缉：死活同时成立（wanted dead or alive 被改成 dead and alive）",
+   "anchor": "Schrödinger’s Cat recently went on a crime spree and is now wanted dead and alive.",
+   "start": 948,
+   "end": 1030
+  },
+  {
+   "fact": "平行线有那么多共同点，可惜永远不能相遇",
+   "anchor": "Parallel lines have so much in common. It’s a shame they’ll never meet.",
+   "start": 1035,
+   "end": 1106
+  },
+  {
+   "fact": "猎户座的腰带：浪费空间——waist（腰）谐音 waste",
+   "anchor": "Orion’s belt: what a waist of space.",
+   "start": 1113,
+   "end": 1149
+  },
+  {
+   "fact": "世上有 10 种人：懂二进制的和不懂的——10 在二进制里是 2",
+   "anchor": "There are 10 types of people in the world: those that understand binary and those that don’t.",
+   "start": 1154,
+   "end": 1247
+  },
+  {
+   "fact": "程序员把万圣节和圣诞节搞混：八进制 31 等于十进制 25",
+   "anchor": "Why do computer programmers mix up Halloween and Christmas? Because Oct 31 = Dec 25.",
+   "start": 4041,
+   "end": 4125
+  }
+ ]
+}
