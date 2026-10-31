@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch28",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch28_chapter_twenty_eight_elise.txt",
+ "facts": [
+  {
+   "fact": "Miras 编的歌把三个星期唱成一百天围城",
+   "anchor": "a hundred days long",
+   "start": 281,
+   "end": 300
+  },
+  {
+   "fact": "Dagobert 抗议由一个女人接受投降",
+   "anchor": "She is sinning with her pride",
+   "start": 642,
+   "end": 671
+  },
+  {
+   "fact": "Guwetha 用这句咒语让荆棘墙枯萎",
+   "anchor": "Wither to winter, go to earth, time to rot",
+   "start": 3648,
+   "end": 3690
+  },
+  {
+   "fact": "叛军首领当众用短刀剖开自己的腹部召墙",
+   "anchor": "the slit she had made in her own belly",
+   "start": 5202,
+   "end": 5240
+  },
+  {
+   "fact": "她自陈是召出荆棘墙、带领叛军的人",
+   "anchor": "I am Druidim Guwetha",
+   "start": 5503,
+   "end": 5523
+  },
+  {
+   "fact": "每名伏地叛军喉上都缠着一根常春藤",
+   "anchor": "wrapped tightly around their throats",
+   "start": 5935,
+   "end": 5971
+  },
+  {
+   "fact": "Isen 扑向父亲之前，Tilde 已先挡在荆棘矛与国王之间",
+   "anchor": "Tilde had moved first",
+   "start": 7212,
+   "end": 7233
+  },
+  {
+   "fact": "人群跟着 Alar 喊天鹅王后，梅洛吉亚女人赢了他们的心",
+   "anchor": "the Merogian woman won their hearts",
+   "start": 8494,
+   "end": 8529
+  }
+ ]
+}
