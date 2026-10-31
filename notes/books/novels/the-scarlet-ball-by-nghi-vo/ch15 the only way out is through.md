@@ -114,7 +114,7 @@ modified: "2026-10-31"
 > **原句 15:** "There had been a small hope in the back of my head when I saw Martha, I realized. I didn’t want to be a tree like Bethany, but perhaps Martha could have gotten me away clean. I could have run west with a new name and a new face, I could have run south and melted into the riot of New Orleans or Atlanta. Now I saw that that route had closed after the Rose Ball, and the only way out was through."
 
 **中文理解**：她意识到，看见 Martha 时自己心底存着一点小希望。她不想像 Bethany 那样变成一棵树，但也许 Martha 本可以带她干净脱身——往西跑，换个名字换张脸；往南跑，溶进新奥尔良或亚特兰大的喧腾。现在她明白：那条路在 Rose Ball 之后关闭了，唯一的出路是穿过去。
-**关键词**：gotten me away clean / melted into the riot of New Orleans / the only way out is through
+**关键词**：gotten me away clean / melted into the riot of New Orleans / the only way out was through
 **为什么这样写**：逃亡清单的清算是本章的落点——地理的出口逐一盖章作废。through 一个介词扛起全书后半部的行动纲领：不绕行，直行。
 **读者视角提示**：这是"选择"的最终形态：她连"逃跑"这个选项也失去了。此后她的每一步都是进攻——为这句话记一笔。
 
