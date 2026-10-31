@@ -19,7 +19,7 @@ modified: "2026-10-31"
 
 **中文理解**：走廊太窄，仆人的耳语太近，她离尖叫只差三口气——是喜是惧，她自己也分不清。可她还是把父亲送回房间，把他从更大的危险里带走；就在这一段路上，她觉得一辈子想要的东西全到手了。
 
-**关键词**：`closeness of the halls`（走廊逼得过近） / `three breaths from screaming`（离尖叫只差三口气） / `everything she dreamed of`（她做过的一切梦）
+**关键词**：`closeness of the halls`（走廊逼得过近） / `three breaths from screaming`（离尖叫只差三口气） / `she felt everything`（她觉得自己什么都得到了）
 
 **为什么这样写**：前两句把感官压到极窄，closeness 与 whispers 都是贴着皮肤的量词，读者先跟着被闷住。第三句靠语序硬转——she still led，把「快要炸开的人」和「还在尽女儿本分的人」按进同一句，连转折连词都省了。最后 everything she had ever dreamed of 是许愿的口气，作者把它摆在段末，不让它落地。
 
@@ -49,7 +49,7 @@ modified: "2026-10-31"
 
 **中文理解**：风暴压下来，风嚎着把她的呼吸从嘴里撕走，雨水替她洗脸。母亲曾告诉她，Wing 发怒时风就打得狠；可这一次她觉得这场风暴是从自己的呼吸、自己的心里出来的，仿佛她才是造出它的那个神。
 
-**关键词**：`rush of howling air`（一阵嚎叫的风） / `the Wing was wrathful`（Wing 发怒） / `god that made it`（造出它的那个神）
+**关键词**：`rush of howling air`（一阵嚎叫的风） / `the Wing was wrathful`（Wing 发怒） / `she was the god`（她就是造出它的那个神）
 
 **为什么这样写**：先写风怎么对待她的身体——tearing、washing，动词都带抢的意味；再搬出母亲给过的解释；最后把这个解释顶掉：不是神发怒，是她自己。两个 as if 递进，第一个连着 breath 与 heart，第二个直接说她是那个 god，这是她最接近僭越的一刻，而它只发生在没有旁人的雨里。
 
@@ -95,7 +95,7 @@ modified: "2026-10-31"
 
 **读者视角提示**：她说的不是「他强暴了她」，而是「他求过婚、被拒、然后算计」。这个说法把罪放到血统这套制度上，也让紧跟着的 blood magic 三个字变得可怖：用的是自家的魔法。
 
-> **原句 9:** "‘Then be broken,’ said Tilde. There was a desperation in her face that Elise felt like a fire in her body. … ‘Let yourself exist as you are!’"
+> **原句 9:** "‘Then be broken,’ said Tilde. There was a desperation in her face that Elise felt like a fire in her body. … She reached up and grasped Elise’s shoulders, her thumbs pressing into the bone. ‘Let yourself exist as you are!’"
 
 **中文理解**：「那就碎掉吧，」Tilde 说。她脸上有一种绝望，Elise 觉得那绝望像火一样烧在自己身体里。她伸手抓住 Elise 的肩膀，拇指压进骨头里。「让你自己按你本来的样子活着！」
 
@@ -151,7 +151,7 @@ modified: "2026-10-31"
 | queen | 王后 | Elise took the queen’s hands, pulling her to the fire. |
 | letter | 信 | ‘But she left me a letter, telling me what happened. |
 | swan | 天鹅 | ‘He wanted a child of the swan,’ said Elise. |
-| acknowledgement | 认可；承认 | His acknowledgement, his pride, his love. His forgiveness. |
+| sword | 剑 | She was rusty, her stance unfounded, the sword too short. |
 | moment | 一刻；瞬间 | She pulled back a moment; Tilde let her. |
 | fighter | 斗士；能打的人 | She had been a brave child once, a fighter. |
 | chambers | 寝殿；房间 | She grabbed her sword from her chambers – she did not feel safe here – and walked into the storm despite Torna’s protests. |

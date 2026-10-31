@@ -40,16 +40,16 @@
    "end": 4181
   },
   {
-   "fact": "她说出 Isuire 那件事是 Alar 做的",
-   "anchor": "Alar happened, Tilde.",
-   "start": 6852,
-   "end": 6873
-  },
-  {
    "fact": "Isuire 死前留下信说明原委，Elise 把信读给父亲听，换来一顿毒打与禁读",
    "anchor": "she left me a letter, telling me what happened",
    "start": 5371,
    "end": 5417
+  },
+  {
+   "fact": "她说出 Isuire 那件事是 Alar 做的",
+   "anchor": "Alar happened, Tilde.",
+   "start": 6852,
+   "end": 6873
   }
  ]
 }

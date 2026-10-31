@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch46",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch46_chapter_forty_six_tilde.txt",
+ "facts": [
+  {
+   "fact": "天亮照着全城与红港，像一道敞开的伤口",
+   "anchor": "exposing it like an open wound",
+   "start": 113,
+   "end": 143
+  },
+  {
+   "fact": "城广场立着一尊长着 Liran 脸的巨像，手指指天",
+   "anchor": "a great colossus with Liran’s face",
+   "start": 675,
+   "end": 709
+  },
+  {
+   "fact": "Ziyan 报告已把王寝的香炉换过",
+   "anchor": "replaced the censer",
+   "start": 2331,
+   "end": 2350
+  },
+  {
+   "fact": "她不顾 Hadiah 反对，把她和两个 serf 送出宫",
+   "anchor": "Hadiah, despite her protests",
+   "start": 3444,
+   "end": 3472
+  },
+  {
+   "fact": "她设想一个没有天鹅的世界，也许会爱 Sanafin",
+   "anchor": "a world free of swans",
+   "start": 6152,
+   "end": 6173
+  },
+  {
+   "fact": "她承认结局必然痛苦，但至少握刀的是自己",
+   "anchor": "At least I was the one holding the knife",
+   "start": 6424,
+   "end": 6464
+  },
+  {
+   "fact": "东门升起灰旗，Perin 报信",
+   "anchor": "The east gate has raised a grey flag",
+   "start": 6889,
+   "end": 6925
+  },
+  {
+   "fact": "她判断城墙守卫被买通，但 Conrin 没钱包下所有人",
+   "anchor": "hasn’t the coin for all of them",
+   "start": 7430,
+   "end": 7461
+  }
+ ]
+}
