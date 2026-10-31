@@ -1,0 +1,67 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch20",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch20_literally_terrible_book_jokes.txt",
+ "facts": [
+  {
+   "fact": "裸体营里两人，问“你读过马克思吗”，答“读过，是这些藤椅（留下的红印）”——read Marx 谐音 red marks",
+   "anchor": "‘Have you read Marx?’ The other replies, ‘Yes, it’s these wicker chairs.’",
+   "start": 161,
+   "end": 234
+  },
+  {
+   "fact": "在图书馆大喊要一品脱拉格，被提醒后改成耳语，句子内容不变只是音量变了",
+   "anchor": "‘Ah,’ he says, then whispers, ‘A pint of lager please.’",
+   "start": 444,
+   "end": 499
+  },
+  {
+   "fact": "妻子刚读完《看得见风景的房间》，对方问 Forster？（福斯特），答“不，她自己想读的”——Forster 谐音 forced her",
+   "anchor": "‘My wife just read A Room With a View.’ ‘Forster?’ ‘No, she read it of her own accord.’",
+   "start": 504,
+   "end": 591
+  },
+  {
+   "fact": "对福尔摩斯大喊有案子，他低声说“Lo, a case”（小写字母），我于是用全小写回答——大小写双关",
+   "anchor": "He looked at me and said ‘Lo, a case.’ ‘i have a mystery for you, mr holmes,’ i replied.",
+   "start": 809,
+   "end": 897
+  },
+  {
+   "fact": "新同义词词典很烂，而且它也很烂——thesaurus 本应提供同义词，却只重复同一个词",
+   "anchor": "My new thesaurus is rubbish. Not only that, but it’s also rubbish.",
+   "start": 902,
+   "end": 968
+  },
+  {
+   "fact": "最喜欢的词是 saliva（唾液）：它从舌头上滚下来——roll off the tongue 双关顺口／流口水",
+   "anchor": "My favourite word is ‘saliva’. It just rolls off the tongue.",
+   "start": 973,
+   "end": 1033
+  },
+  {
+   "fact": "在读造船的书：riveting，铆接／引人入胜",
+   "anchor": "I’m reading a book about how ships are built. It’s riveting!",
+   "start": 1040,
+   "end": 1100
+  },
+  {
+   "fact": "在写百万字小说，讲一头大毛象在高速左道超车：a mammoth undertaking，庞然大物／艰巨工程",
+   "anchor": "I’m currently writing a million-word novel about a big hairy elephant passing in the left-hand lane of the motorway. It’s a mammoth undertaking.",
+   "start": 1325,
+   "end": 1469
+  },
+  {
+   "fact": "看见白女巫提着公文包，问她做什么，她说 Narnia business——谐音 none of your business",
+   "anchor": "I saw the White Witch carrying a briefcase and asked her what she was doing. She said, ‘Narnia business.’ I only asked!",
+   "start": 2882,
+   "end": 3001
+  },
+  {
+   "fact": "写浪漫哥特小说的恐龙：Brontësaurus，勃朗特三姐妹＋恐龙",
+   "anchor": "What kind of dinosaur writes romantic, slightly Gothic novels? A Brontësaurus.",
+   "start": 3006,
+   "end": 3084
+  }
+ ]
+}
