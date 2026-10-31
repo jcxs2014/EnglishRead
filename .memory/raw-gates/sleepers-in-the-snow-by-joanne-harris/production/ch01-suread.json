@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch01",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "他（无名男主）因房价便宜而冲动买下 Kirkhill 小屋，经房产公司 Rombold and Wade 购入，连看房都没有",
+   "anchor": "He bought the house because it was cheap.",
+   "start": 43,
+   "end": 84
+  },
+  {
+   "fact": "小屋上方悬着一座巨型电塔（pylon），他明白这就是房子便宜的原因——没人愿意住得离那座怪物这么近",
+   "anchor": "No one wanted to live so close to that monster.",
+   "start": 2019,
+   "end": 2066
+  },
+  {
+   "fact": "房产经纪说小屋自原主搬走后基本没人动过，里面东西全归他",
+   "anchor": "‘It’s been largely untouched since the owners vacated the property,’",
+   "start": 3915,
+   "end": 3983
+  },
+  {
+   "fact": "前厅家具齐全且旧：皮椅凹陷出「已不在此处之人」的形状，沙发留着狗毛，像踏入陌生人的人生回忆",
+   "anchor": "the leather chair had adapted to the familiar shape of someone who was no longer there",
+   "start": 6297,
+   "end": 6383
+  },
+  {
+   "fact": "他在空屋里替当年的儿子说话——妻子嫌十二岁的儿子只看 Judge Dredd 漫画；这段对话只存在于他的想象里",
+   "anchor": "‘He’s twelve. Be glad he’s reading.’",
+   "start": 11113,
+   "end": 11149
+  },
+  {
+   "fact": "门口有一只崭新的荧光绿网球——很可能是前主人的狗的，但球是全新未用过的",
+   "anchor": "There was a tennis ball by the door. A bright green, luminous tennis ball.",
+   "start": 11534,
+   "end": 11608
+  },
+  {
+   "fact": "凌晨两点他被客厅座机的铃声惊醒，但电话线早已切断——铃声只存在于梦里",
+   "anchor": "At two o’clock in the morning he awoke with a start to a ringing phone.",
+   "start": 17114,
+   "end": 17185
+  },
+  {
+   "fact": "厨房窗玻璃的倒影里，他看见一个白发张口的老汉在窗外盯视，开窗的瞬间老汉消失",
+   "anchor": "he thought he saw someone looking in. A man with white hair and open mouth",
+   "start": 20258,
+   "end": 20332
+  }
+ ]
+}
