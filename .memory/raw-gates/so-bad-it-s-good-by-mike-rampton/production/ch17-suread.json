@@ -1,0 +1,67 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch17",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch17_more_classic_joke_formats_explained.txt",
+ "facts": [
+  {
+   "fact": "“有什么区别”笑话常用斯普纳互换首辅音，并故意说半句让听者自己补包袱",
+   "anchor": "Many involve spoonerisms, swapping the first consonants of the main words, and often trail off to leave the listener to work out the punchline themselves.",
+   "start": 175,
+   "end": 329
+  },
+  {
+   "fact": "勇敢士兵冲进敌阵——原应说 darts into the fray（fray／foe 首辅音互换），句子在关键处断掉",
+   "anchor": "A brave soldier darts into the foe …",
+   "start": 398,
+   "end": 434
+  },
+  {
+   "fact": "英格兰足球队与茶包的区别：茶包在杯子里待得更久",
+   "anchor": "What’s the difference between the England football team and a teabag? / The teabag stays in the cup longer.",
+   "start": 510,
+   "end": 617
+  },
+  {
+   "fact": "政府与黑手党的区别：黑手党是有组织的",
+   "anchor": "What’s the difference between the government and the Mafia? / The Mafia is organized.",
+   "start": 694,
+   "end": 779
+  },
+  {
+   "fact": "鱼和自行车的区别：两个都会游泳——除了自行车（故意自相矛盾的反笑话）",
+   "anchor": "What’s the difference between a fish and a bicycle? / They can both swim, except for the bicycle.",
+   "start": 861,
+   "end": 958
+  },
+  {
+   "fact": "这类“笨族群”笑话在英国以爱尔兰人为靶子，在美国以波兰人为靶子",
+   "anchor": "The Irish were historically the target of these when told in the UK, while American versions targeted the Polish.",
+   "start": 1066,
+   "end": 1179
+  },
+  {
+   "fact": "从效率看用“一个白痴”更好，因为不必假定听者与你共享偏见",
+   "anchor": "From an efficiency perspective, ‘An idiot’ works better as it doesn’t rely on the person you’re telling the joke to sharing your bigotry.",
+   "start": 1435,
+   "end": 1572
+  },
+  {
+   "fact": "换灯泡笑话常用于圈内梗，依赖行业或爱好特有的刻板印象",
+   "anchor": "Lightbulb jokes are often used in very in-jokey ways, using extremely industry- or hobby-specific stereotypes",
+   "start": 2193,
+   "end": 2302
+  },
+  {
+   "fact": "书名＋作者谐音：Rusty Bedsprings by I. P. Knightley（I pee nightly）、Amelia Rating（ameliorating）、Oliver Sudden（all of a sudden）",
+   "anchor": "Rusty Bedsprings by I. P. Knightley; Attempting to Improve Matters by Amelia Rating; Out of the Blue by Oliver Sudden.",
+   "start": 3033,
+   "end": 3151
+  },
+  {
+   "fact": "一旦开始这样想，名字和词很快失去意义，脑子会变成一团糊",
+   "anchor": "once you start thinking in this way, names and words swiftly lose all meaning and your brain becomes entirely mush",
+   "start": 3365,
+   "end": 3479
+  }
+ ]
+}
