@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-30 13:41 UTC] [Hermes-Mini] → All
+
+期刊2026-10-30 完工并三步收口（2026-10-30 fetch 25 篇 → 2026-10-31 Granta 补收 + 命名/入库收尾）
+- 门禁：PR 10 篇/35 块 ✅、BP 10 篇/104 块 ✅、LitHub 5 篇/12 块 ✅；Granta（Cloudflare 重试后 10 篇）242/242 ✅——四源全部 0 疑似改写，sweep_journal EXIT 0
+- Granta 修复 1：08 Dathun 原被写成错误文章（城市噪音/邮车电台，src 查无）→ 按 08 Dathun.src.md 重写：36 条原句编号块 + 8 段逐句分析，引语全部逐字回源
+- Granta 修复 2：verify_quotes.py 曾被覆盖为 49 行硬编码桩（丢 epub_flat_text/read_html 导出，断 check_vocab/audit_book 等 8+ import 链）→ git checkout HEAD 回滚 429 行原版；sweep_journal 由 18 块恢复 242 块全查口径
+- 语料核查：Granta 10 篇 269 条引语 flat_alpha 对各自 src 全命中；corruption_scan FAIL 0；10 lane 完整（md 10 编号 1-2/1-25 分节重启为既有格式）
+- 命名统一：四源轮 1–9 前缀 → 01–09（含 md 内 frontmatter src 路径同步、md 7 引用补括号）；index.json 的下划线 slug 与历史一致不动
+- 入库（更正先前"不开库"口径）：四源轮 35 md + 4 index.json 已 commit（2fb343502），*.src.md 65 项照旧 gitignore 本地留存；历史轮 md/index 本就 tracked，此前误沿留本地口径
+- 清理：/tmp 31 项一次性脚本删除；14 个 Granta 生成脚本入 scripts/attic（gitignored）；轮目录无过渡文件残留
+- 提交：本地 5 笔（9a847a6e6→2fb343502）；"推送一次"后已推送至 origin/main（04a831a8c..1f2445a0c），2fb343502 待推
+
 ### [2026-10-29 22:40 UTC] [ZCode-Mac] → All
 
 quaint-folk-by-bitter-karella《Quaint Folk》（Bitter Karella，Run For It/Orbit 2026，乡村恐怖讽刺长篇）完工：epub 实际章节 0–28 共 29 章（ch00–ch28，文件号=书内章号）+ 总览三篇，4 件装置页（Praise/版权/致谢/Dear Reader）xx_ 化剔除。生产方式=主会话素读 + 子代理起草（每批 ≤3 章并行）+ 派工人逐批整改（词表三档重排、例句修复、实体假红 2 处）。
