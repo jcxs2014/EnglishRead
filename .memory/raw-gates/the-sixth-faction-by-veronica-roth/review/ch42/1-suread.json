@@ -1,0 +1,86 @@
+{
+ "chapter": "ch42",
+ "pov": "第一人称（Four，「我」；章首标题 \"Four\"）+ 现在时（present tense）",
+ "facts": [
+  {
+   "event": "Four 在火车上见她：第四节车厢、沿沼泽向北；她比 Four 后上车，动作轻松得让他忍不住多看几眼，随后只是盯着她。",
+   "who": "I (Four) / she (Tris)",
+   "receivers": "her",
+   "start": 1665,
+   "end": 1853,
+   "text": "I meet her on the train. Fourth car back, heading north along the marsh. She boards after me, and I take a moment to admire how easy she makes it look. And then to just . . . stare at her."
+  },
+  {
+   "event": "距上次见面已过三天；Tris 说必须等到周一才见那个人，Four 这些天忙着带刚开始恐惧模拟训练、情绪翻腾的学徒。",
+   "who": "she (Tris) / I (Four)",
+   "receivers": "the initiates",
+   "start": 2211,
+   "end": 2478,
+   "text": "It’s been three days since we last saw each other. She told me we had to wait until Monday to meet . . . whoever it is she wants me to meet. And I’ve been busy with the initiates, who are experiencing the usual emotional upheaval of starting fear simulation training."
+  },
+  {
+   "event": "门后站着一位女子：头发比 Tris 更深、梳得整整齐齐，穿灰毛衣配灰色长裙。",
+   "who": "a woman (Natalie Prior)",
+   "receivers": "me (Four) / Tris",
+   "start": 9573,
+   "end": 9720,
+   "text": "A woman stands on the other side of it. Her hair is darker than Tris’s and neatly pulled back. She’s wearing a gray sweater over a long gray skirt."
+  },
+  {
+   "event": "Natalie 说：一小撮激进无派系者正在谋划极端之事，企图拆掉现有派系制度，她认为 Four 的母亲是领头人。",
+   "who": "she (Natalie)",
+   "receivers": "your mother (Evelyn)",
+   "start": 14670,
+   "end": 14892,
+   "text": "Instead I’ll tell you what I know: a small group of radical factionless are planning something extreme, something that will attempt to dismantle the faction system as we know it. I believe your mother is at the head of it."
+  },
+  {
+   "event": "Natalie 说她因此让 Tris 去问哥哥能力测试结果与转派数据：若能证明 Erudite 型能力者转入其它派系的比例高于常态，就能缩小「安插者」的名单。",
+   "who": "she (Natalie)",
+   "receivers": "your brother (Caleb) / these plants",
+   "start": 15182,
+   "end": 15465,
+   "text": "“That’s why I asked you to talk to your brother about the aptitude test results and faction transfers. I thought if I could prove there was a higher than normal proportion of people with Erudite aptitude transferring to other factions, I could narrow down who those plants might be.”"
+  },
+  {
+   "event": "Four 抬头对 Tris 说：Al 是他的学徒、就是死的那个；有人在他尸体被发现的前一天看过他的模拟记录。",
+   "who": "I (Four)",
+   "receivers": "Tris / Al",
+   "start": 16949,
+   "end": 17073,
+   "text": "“Al.” I look up at Tris. “My initiate, the one who died. Someone watched his simulations the day before they found his body."
+  },
+  {
+   "event": "Natalie 修正自己先前的话：各派系代表能进入每个派系的电脑，唯独 Abnegation 的不能；那份权限只归一个人。",
+   "who": "she (Natalie)",
+   "receivers": "faction representatives / Abnegation’s computer",
+   "start": 22480,
+   "end": 22726,
+   "text": "“I told you faction representatives have deeper access to each faction’s computer,” Natalie says. “Well, that’s not entirely accurate. They can access every faction’s computer except Abnegation’s. That honor belongs to one man and one man alone.”"
+  },
+  {
+   "event": "Four 对 Natalie 承诺：他会查出 Eric 在 Dauntless 内部跟谁合作；那类人大概年轻，更容易被劝出实话。",
+   "who": "I (Four)",
+   "receivers": "Eric / Natalie",
+   "start": 24476,
+   "end": 24610,
+   "text": "“I’ll find out who Eric is working with in Dauntless,” I say. “They’ll likely be young. Easier to persuade to tell me what they know.”"
+  }
+ ],
+ "relations": [
+  "Tris 是 Natalie Prior 之女；Natalie 认出 Four 是 Marcus 之子，脱口称他 “Mr. Eaton”",
+  "Marcus 是 Abnegation 议会领袖，是唯一能进 Abnegation 电脑的人；Evelyn 的权限已被他撤销",
+  "Natalie 怀疑 Erudite 在其它派系安插人员，并怀疑有人在利用恐惧模拟挑人",
+  "Al 是 Four 的学徒、Divergent，死前一日其模拟记录被 Jeanine Matthews 查看",
+  "Evelyn 想要 Marcus 死；Four 说这不是猜测，是她亲口告诉他的",
+  "Four 与 Natalie 达成合作：他去查 Eric 在 Dauntless 的同伙；他也允许 Tris 叫他 Tobias"
+ ],
+ "numbers": [
+  "Fourth car back（Four 与 Tris 约见的火车车厢位置）",
+  "three days（距两人上次见面的天数）",
+  "Monday（约定见面的日子，也是议会开会日）",
+  "10E（Natalie 家的门牌号）",
+  "Tenth floor（Building A 里 Natalie 所住的楼层）",
+  "an hour（Natalie 给出的谈话时限）"
+ ]
+}
