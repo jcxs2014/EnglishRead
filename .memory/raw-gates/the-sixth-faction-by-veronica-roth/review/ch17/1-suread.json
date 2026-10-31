@@ -1,0 +1,100 @@
+{
+  "chapter": 17,
+  "pov": "Tris（Beatrice）第一人称",
+  "facts": [
+    {
+      "event": "Tris 凑近偷听，只接到 Jove 对 Evelyn 的末句“你也许该补偿他”，Evelyn 答“记下了”，随即补一句“不过那值得”。",
+      "who": "Jove / Evelyn",
+      "receivers": [
+        "彼此",
+        "Tris（偷听）"
+      ],
+      "start": 1445,
+      "end": 1605,
+      "text": "“—might want to make it up to him.”\n\n\n\n“Noted,” Evelyn replies. “It was worth it, though.”\n\n\n\nI’m sure she’s talking about the attack on the detention facility."
+    },
+    {
+      "event": "Evelyn 把 Tris 借出餐厅、带进隧道通到隔壁空楼，说要她帮忙给一个“recruit”出主意；Tris 诧异她也招人，Evelyn 说通常不招，但会让不快乐的人知道还有别的选择。",
+      "who": "Evelyn",
+      "receivers": [
+        "Tris"
+      ],
+      "start": 3416,
+      "end": 3578,
+      "text": "“Advice. For a recruit.”\n\n\n\n“A recruit?” I say. “I didn’t know you . . . recruited.”\n\n\n\n\n“Not usually. But as you can imagine, we can use all the help we can get."
+    },
+    {
+      "event": "Tris 只给出“你不能逼他，你只要听”，被 Evelyn 一句冷笑顶回；她随即改口自荐：他不肯跟她说，也许肯跟我谈，Evelyn 当场应下“也许他会”。",
+      "who": "Tris",
+      "receivers": [
+        "Evelyn"
+      ],
+      "start": 6168,
+      "end": 6255,
+      "text": "“Then send someone else,” I say. “If he won’t talk to you . . . maybe he’d talk to me.”"
+    },
+    {
+      "event": "两人不回合 Rookery，走到 Quincy 站台上车；Evelyn 交代对方会先上车别惊慌，并说他“叫 Four，Dauntless 的绰号”。",
+      "who": "Evelyn",
+      "receivers": [
+        "Tris"
+      ],
+      "start": 6934,
+      "end": 7042,
+      "text": "“He goes by Four. Dauntless nickname.”\n\n\n\nFour. I wonder why a Dauntless boy would have a number for a name."
+    },
+    {
+      "event": "Tris 在车厢里认出这个 recruit 正是 Choosing Ceremony 上扶她起身的 sentry，而他眼里没有半点认出她的意思。",
+      "who": "Tris",
+      "receivers": [],
+      "start": 7849,
+      "end": 8028,
+      "text": "He’s the sentry who helped me at the Choosing Ceremony.\n\n\n\nI stare at him, suddenly tongue-tied, and the train turns, shuddering on its rails as it switches to the elevated track."
+    },
+    {
+      "event": "Four 一口回绝，断言是 Evelyn 派她来游说他叛派，并说“我肯定也是她的主意，她让你以为是你自己的”。",
+      "who": "Four",
+      "receivers": [
+        "Tris"
+      ],
+      "start": 9242,
+      "end": 9357,
+      "text": "“No. Absolutely not.” He paces away from me. “She sent you here to talk me into something, and I’m not interested.”"
+    },
+    {
+      "event": "Tris 拿“我说点新的、你听完，不成你下一站就下车”换来的二十秒里，讲“你选错了派系……你以为只有你在假装”；车过站，Four 没有跳下去。",
+      "who": "Tris",
+      "receivers": [
+        "Four"
+      ],
+      "start": 10917,
+      "end": 11022,
+      "text": "“You chose the wrong faction, or you think you did,” I say. “You don’t quite fit no matter where you are."
+    },
+    {
+      "event": "Four 只留一句“告诉她我会考虑”，随即跳下车厢落在站台上消失；此前他说 Evelyn“猜了一次，猜对了”。",
+      "who": "Four",
+      "receivers": [
+        "Tris",
+        "（转达 Evelyn）"
+      ],
+      "start": 14485,
+      "end": 14637,
+      "text": "“She took a guess, and she guessed right.”\n\n\n\nThe train is slowing again. Four grabs the handle next to the door while I’m still too stunned to respond."
+    }
+  ],
+  "relations": [
+    "Evelyn↔Four：她亲自出面试图招募他叛派；他断言她只是把他当工具（“you thought she’d make a good tool”），并承认“she guessed right”。",
+    "Evelyn↔Tris：Evelyn 以“I need your help”把她借走，Tris 主动加码（自荐去谈）以换取她的信任。",
+    "Jove↔Evelyn：Jove 私下提醒她“might want to make it up to him”，Evelyn 认下但说“It was worth it”。",
+    "Tris↔Four：单向旧识——她记得 Choosing Ceremony 上他扶她起身，他完全不记得她。",
+    "Tris↔Rory：Tris 试探“是不是在庆祝胜利”，Rory 一脸茫然“什么胜利”，说明越狱并未在 Rookery 公开。",
+    "Mender→Mae（次要）：他把睡着的 Mae 抱上楼。"
+  ],
+  "numbers": [
+    "“twenty seconds”（Four 给她的说话时间）",
+    "“a few hours later”（回到 Rookery 的时间）",
+    "“Quincy”（上车的那一站）",
+    "“Four”（Dauntless 的绰号，她当时不知其来历）"
+  ]
+}
