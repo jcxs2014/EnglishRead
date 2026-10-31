@@ -1,0 +1,86 @@
+{
+ "chapter": "ch24",
+ "pov": "第三人称（限知 Caleb）+ 过去时：以 “The final initiation test is another labyrinth.” 起，转述为 “Caleb assumed it would be.” 后全程过去时。",
+ "facts": [
+  {
+   "event": "Caleb 早料到终测也是迷宫：这些天他练的不是 Abnegation 的静心术，而是 Erudite 从业者所教、以「观察」为核心的一种冥想。",
+   "who": "He",
+   "receivers": "a distinct form of meditation",
+   "start": 92,
+   "end": 321,
+   "text": "No surprises there. Caleb assumed it would be. He’s been practicing, not the trance of calm fostered by his Abnegation techniques, but a distinct form of meditation taught by Erudite practitioners that centers around observation."
+  },
+  {
+   "event": "Anna 朝走廊尽头迈出一步，两扇巨大金属门当即在她面前砸落——速度与重量足以削掉她的鼻子，只因她及时后跳才躲开。",
+   "who": "Two huge metal doors",
+   "receivers": "her",
+   "start": 1510,
+   "end": 1635,
+   "text": "Two huge metal doors slam in front of her, fast and heavy enough to have taken off her nose, if she didn’t jump back in time."
+  },
+  {
+   "event": "Fernando 把带三角支架的金属楔子塞进第一道门前，指望它够硬能挡住门；门却把他的楔子碾成碎片、金属四散飞溅，他骂着猛抽手跳开。",
+   "who": "He",
+   "receivers": "it",
+   "start": 2595,
+   "end": 2906,
+   "text": "He puts it in the path of the first set of doors, obviously hoping it will be strong enough to keep them from slamming. He has to yank his hand back to keep it from getting caught; the doors crush the wedge he made into fragments, sending bits of metal flying in every direction. Fernando curses and jumps back."
+  },
+  {
+   "event": "Caleb 看着 Fernando 那堆碎片判断：凡是他徒手造得出的东西都扛不住那些门的力道，所以那堆废料是障眼法。",
+   "who": "Caleb",
+   "receivers": "the scrap heap",
+   "start": 2911,
+   "end": 3146,
+   "text": "Caleb looks at the bits and pieces of what Fernando made, and it seems clear to him that anything he could construct with his bare hands is not going to stand up to the strength of those doors. So the scrap heap must be a misdirection."
+  },
+  {
+   "event": "Caleb 用 O 记「开」、C 记「关」，纸面快写满时改用竖线记号代替 C——也正是在那一刻他看出了名堂。",
+   "who": "He",
+   "receivers": "hash marks",
+   "start": 3691,
+   "end": 3805,
+   "text": "He’s running out of space on the page, so he starts writing hash marks instead of C’s, and that’s when he sees it."
+  },
+  {
+   "event": "Caleb 认出反复出现的那句话是「BE PATIENT」：他笑出声，跳起身站到第一道门前。",
+   "who": "Caleb",
+   "receivers": "the repeating phrase",
+   "start": 3981,
+   "end": 4126,
+   "text": "Caleb laughs when he recognizes the repeating phrase: “BE PATIENT.” He scrambles to his feet and stands right in front of the first set of doors."
+  },
+  {
+   "event": "Caleb 推开 Jeanine Matthews 办公室的门时她明显一惊：作为第一个通过终测的新人，他的奖励是直接面见派系代表，好让本人提出自己的实习去向。",
+   "who": "Jeanine Matthews",
+   "receivers": "he",
+   "start": 6512,
+   "end": 6741,
+   "text": "Jeanine Matthews looks startled when he opens the door to her office. As the first initiate to pass his final test, his reward is to meet with the faction’s representative directly so that he can request his internship placement."
+  },
+  {
+   "event": "Jeanine 对 Caleb 说他们「有共同点」，并称她恰好知道适合他去的那个地方。",
+   "who": "she",
+   "receivers": "you",
+   "start": 11494,
+   "end": 11599,
+   "text": "“You and I have something in common, then,” she says. “And as it happens, I know just the place for you.”"
+  }
+ ],
+ "relations": [
+  "Caleb↔Erudite 转派身份：他用 Erudite 的观察式冥想与二进制知识赢下终测，反过来压过本派出身者。",
+  "Caleb↔Anna/Fernando：同场竞争者兼先行试错者——Anna 触发门禁、Fernando 的楔子被碾碎，两人的失败成为 Caleb 判断「废料是障眼法」的证据。",
+  "Caleb↔Jeanine Matthews：从「被接见的新人」变为被她主动招揽的对象，她以「我们有共同点」把他纳入自己的资源。",
+  "Caleb↔Beatrice（Tris）：他自述兄妹俩幼年为瞒过 Robert 与 Susan 而自创密码，因此去图书馆自学二进制。",
+  "Caleb↔Abnegation：他承认自己藏起书本、被派系限制，并在 Jeanine 面前把这段经历当作「有价值的知识」交出去。"
+ ],
+ "numbers": [
+  "one of the dozen books（过去几天他读掉的十来本书之一）",
+  "two possible answers（每个岔口只有两个答案）",
+  "01000101（第二道门对应的二进制字母）",
+  "the third and the final letter in the sequence（第三道门只在第三个与最后一个字母处关闭）",
+  "the fifth set of doors（他在第五道门犯下第一个错）",
+  "the first three to finish the final labyrinth（只有前三名能见 Jeanine）",
+  "their first three months in the faction（实习期为入派系头三个月）"
+ ]
+}
