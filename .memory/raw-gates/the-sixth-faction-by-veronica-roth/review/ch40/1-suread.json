@@ -1,0 +1,85 @@
+{
+ "chapter": "ch40",
+ "pov": "第一人称（Four，「我」；章首标题 \"Four\"）+ 现在时（present tense）",
+ "facts": [
+  {
+   "event": "Four 掀开被子、半睡半醒地摸到门口开门，见 Lynn 站在门阶上。",
+   "who": "I",
+   "receivers": "my apartment door / Lynn",
+   "start": 135,
+   "end": 372,
+   "text": "I throw back the quilt that’s covering me and stumble over to the door, still half asleep, pins and needles prickling in the hand that always finds its way above my head when I sleep. I open my door and find Lynn standing on my doorstep."
+  },
+  {
+   "event": "Four 与 Lynn 赶到 Pit 底部时人群已聚集；一队 Dauntless 排队抓绳合力把水中的尸体往上吊，尸体很沉。",
+   "who": "a group of Dauntless",
+   "receivers": "the body",
+   "start": 1010,
+   "end": 1286,
+   "text": "By the time we reach the bottom of the Pit, a crowd has gathered, and a group of Dauntless is hoisting the body out of the water. They stand in a short line, hands on the rope, heaving in unison as the first of them sets the rhythm. Whatever body they’re lifting is a big one."
+  },
+  {
+   "event": "尸体抬上岸后 Four 认出是 Al：皮肤在水里泡了数小时而发白发胀，眼睛空得像弹珠；他身量比多数人大，年纪很轻。",
+   "who": "I",
+   "receivers": "Al",
+   "start": 1513,
+   "end": 1681,
+   "text": "Even like this—skin whitened and thickened by hours in the water, eyes empty as marbles—it’s obvious that this is Al. He’s bigger than most people, and young. So young."
+  },
+  {
+   "event": "Four 自责：他第一次失败是没能管住 Peter、让他袭击 Christina；这一次他失败得更严重。",
+   "who": "I",
+   "receivers": "Christina / Peter",
+   "start": 1711,
+   "end": 1848,
+   "text": "I failed first with Christina, when I couldn’t control Peter, couldn’t stop him from attacking her. And now I’ve failed much, much worse."
+  },
+  {
+   "event": "Hana 对 Four 说：那名学徒的死不是他的错，他没必要留在这里赎罪。",
+   "who": "she (Hana)",
+   "receivers": "me (Four)",
+   "start": 3424,
+   "end": 3538,
+   "text": "“That initiate’s death wasn’t your fault,” she says to me. “So there’s no need for you to be here paying penance.”"
+  },
+  {
+   "event": "Four 对模拟系统下指令：Jeanine Matthews 前一晚在这里调取不属于她的模拟记录，调出她看过的全部模拟。",
+   "who": "I (Four)",
+   "receivers": "Jeanine Matthews / simulation logs",
+   "start": 6153,
+   "end": 6286,
+   "text": "“Jeanine Matthews was here last night, accessing simulation logs that weren’t her own,” I say. “Show me all the simulations she saw.”"
+  },
+  {
+   "event": "Four 想起自己忘了删除这段记录：当初 Uriah 来叫他去训练室，他再没回来清理；于是 Jeanine Matthews 看见了他走到楼顶边缘、任自己坠落的模拟。",
+   "who": "I (Four)",
+   "receivers": "this record / Jeanine Matthews",
+   "start": 7005,
+   "end": 7292,
+   "text": "I forgot to delete this one from the system. Uriah came to get me, told me there was trouble in the training room, and I never came back here to scrub this record from the system. So Jeanine Matthews watched me do this—watched me walk to the edge of the building and let myself fall off."
+  },
+  {
+   "event": "Four 从她手里接过子弹：他从没碰过真弹药、只碰过针头，只见过 Zeke 在墙边装枪半打次数。",
+   "who": "I (Four) / her (Tris)",
+   "receivers": "a bullet",
+   "start": 11208,
+   "end": 11363,
+   "text": "“A bullet?” I say, taking it from her. I’ve never handled real ammunition, only needles. But I’ve watched Zeke load his gun at the wall half a dozen times."
+  }
+ ],
+ "relations": [
+  "Lynn 是 Dauntless 学徒；学徒本不该知道 Four 的住址，是 Uriah 告诉了她",
+  "Al 是 Four 带的学徒、Candor 转派者，尸体从 Pit 的水里被吊上岸",
+  "Hana 是 Uriah 的母亲；Four 做了她儿子两年好友，却一直称她 “ma’am”",
+  "Jeanine Matthews 前一晚在 Dauntless 调取了不属于她的模拟记录，包括 Al 的和 Four 自己的",
+  "Tris 带着一颗来自无派系者运输木箱的子弹进入 Four 的公寓",
+  "Four 的母亲 Evelyn 与无派系者激进组织有关；他的父亲是议会领袖（council leader）"
+ ],
+ "numbers": [
+  "two years ago（Four 回忆 Amar 之死的那一年）",
+  "hours（Al 的尸体在水中浸泡的时间）",
+  "a couple hours（Four 走出模拟室、见到 Hana 之前过去的时间）",
+  "half a dozen times（Four 见过 Zeke 在墙边装枪的次数）",
+  "two years（Four 与 Uriah 做朋友的年数）"
+ ]
+}

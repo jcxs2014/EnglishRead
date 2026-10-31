@@ -107,7 +107,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：一颗子弹和一封字条被放进同一段，中间只用 and think of 连着——这是他此刻能想到的两样「母亲留下的东西」。On the safest day 是整段最刺人的地方：一句只有他们两个懂的暗语，被他当成了亲密的证据；紧接着 Like she and I were still close，一个 like 就把这份亲密改回假设。叹气的比喻（burden I can't help but set down）放在段首，等于先卸力，再让他去碰这些他不愿碰的东西。
 
-**读者视角提示**：这一块把上一章那份怀疑接到母子关系上。他怀疑的不是某个陌生人，是那个约他「在最安全的那天见面」的人——所以那颗子弹落地时，他没说话。
+**读者视角提示**：这一块把前文那份怀疑接到母子关系上。他怀疑的不是某个陌生人，是那个约他「在最安全的那天见面」的人——所以那颗子弹落地时，他没说话。
 
 > **原句 10:** "I’ve been holding Tris’s association with my mother like a shield between us. But I don’t think it’s the real reason I’m holding her at a distance. I think I’m afraid that if I did try—if I did give her something of myself, I’m afraid of all the things she’d know about me then."
 
