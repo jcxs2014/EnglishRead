@@ -1,0 +1,95 @@
+{
+ "chapter": 50,
+ "text": "text/ch50_chapter_fifty_tilde.txt",
+ "chars": 13693,
+ "facts": [
+  {
+   "id": 1,
+   "event": "孔林（Conrin）的灰衣党羽倒戈，蒂尔德拔矛高呼护王，随后镶砖墙里突然涌出十五名藏匿的灰衣人。",
+   "relation": "Conrin 与 Tilde 敌对；灰衣党羽是 Conrin 的伏兵",
+   "numbers": "fifteen men in grey",
+   "interval": [
+    550,
+    620
+   ],
+   "anchor": "a panel in the tiled wall burst open, spilling out fifteen men in grey"
+  },
+  {
+   "id": 2,
+   "event": "孔林直取父王利兰（Liran），奥顿（Odon）横身挡在中间，把年轻的孔林连人带剑击退。",
+   "relation": "Odon 护主 vs Conrin 弑父；二人非父子但以命相搏",
+   "numbers": "",
+   "interval": [
+    892,
+    992
+   ],
+   "anchor": "Odon stood between him, and in a breath he was charging into the young swan, batting his blade aside"
+  },
+  {
+   "id": 3,
+   "event": "盖萨（Gaisa）挥剑扑向阿拉尔（Alar），埃吉尔（Egil）扑上去把盖萨从兄长身上扯开。",
+   "relation": "三兄弟 Alar / Gaisa / Egil 自相残杀；Egil 摇摆后选边",
+   "numbers": "",
+   "interval": [
+    1708,
+    1799
+   ],
+   "anchor": "threw himself bodily at Gaisa, tearing him away from Alar while their older brother laughed"
+  },
+  {
+   "id": 4,
+   "event": "佩林（Perin）率绿卫入场，却在罩袍上涂了红痕，手里提着阿德玛公爵（Ademar）的头颅，声称“兄长出价更高”。",
+   "relation": "Perin 背叛 Tilde 与 Ademar，转投 Alar",
+   "numbers": "",
+   "interval": [
+    5536,
+    5598
+   ],
+   "anchor": "I saw the captain was carrying Ducal Ademar’s head in his hand"
+  },
+  {
+   "id": 5,
+   "event": "佩林逼近逼降，蒂尔德以矛格开其剑；随后埃莉丝（Elise）两箭射穿佩林后背与咽喉，黑衣战士高喊“For Isen”入场。",
+   "relation": "Elise 救 Tilde 并倒向 Isen 一派；Tilde 与 Perin 决裂",
+   "numbers": "",
+   "interval": [
+    8045,
+    8113
+   ],
+   "anchor": "He stumbled, the feathers of an arrow shaft sprouting from his back."
+  },
+  {
+   "id": 6,
+   "event": "蒂尔德挺矛从背后刺穿特德默（Thedemer），马洛琳（Marolyn）补上一刀自其下巴贯入颅侧。",
+   "relation": "Tilde 与 Marolyn 联手杀 Thedemer；Marolyn 护卫 Tilde",
+   "numbers": "",
+   "interval": [
+    8731,
+    8805
+   ],
+   "anchor": "charging into Thedemer and skewering him through while his back was turned"
+  },
+  {
+   "id": 7,
+   "event": "利兰抓住阿拉尔的头颅，把他整个人摔向地面并反复砸向瓷砖，将长子杀死。",
+   "relation": "Liran 杀亲子 Alar；Elise 目睹后尖叫",
+   "numbers": "",
+   "interval": [
+    11339,
+    11417
+   ],
+   "anchor": "throwing his son by the skull to the floor and slamming his head into the tile"
+  },
+  {
+   "id": 8,
+   "event": "蒂尔德下令乌特伦（Uhtren）送王回寝殿并召医师齐扬（Ziyan），逮捕灰红两派，众贵族跪拜，唯埃莉丝昂首挑战。",
+   "relation": "Tilde 夺权；Elise 由盟友转为对手",
+   "numbers": "four of them left",
+   "interval": [
+    12645,
+    12732
+   ],
+   "anchor": "Arrest the factions wearing grey and red. Arrest all other than my own personal guards."
+  }
+ ]
+}

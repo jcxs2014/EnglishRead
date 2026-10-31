@@ -1,0 +1,95 @@
+{
+ "chapter": 49,
+ "text": "text/ch49_chapter_forty_nine_elise.txt",
+ "chars": 7102,
+ "facts": [
+  {
+   "id": 1,
+   "event": "守卫撞开房门冲入时，Elise 已躲在床幔后抓起猎弓和箭袋。",
+   "relation": "Elise 与王宫守卫（敌对）",
+   "numbers": "two guards",
+   "interval": [
+    29,
+    116
+   ],
+   "anchor": "At the breaking of her window, Elise’s door slammed open and the two guards ran inside."
+  },
+  {
+   "id": 2,
+   "event": "Elise 从床后射中一名守卫膝后，又射中另一人腹部，随后背上箭袋冲向门口。",
+   "relation": "Elise 与守卫（交战）",
+   "numbers": "one man / the other",
+   "interval": [
+    298,
+    362
+   ],
+   "anchor": "She fired from behind the bed, catching one man behind the knee."
+  },
+  {
+   "id": 3,
+   "event": "Elise 在厨房见到两名系银围巾的守卫，偷拿一只乌鸦莓果挞，假称在为下次狩猎练习，从容走出。",
+   "relation": "Elise 与守卫（伪装蒙混）",
+   "numbers": "two guards",
+   "interval": [
+    1154,
+    1261
+   ],
+   "anchor": "Elise slowed her pace, thinking quickly, and plucked up a crowberry tart that was cooling by an open window"
+  },
+  {
+   "id": 4,
+   "event": "Elise 绕到兵营另一侧，攀上高窗窥见室内两具尸体和十五名 Isen 黑卫被三名 Galenish 骑士用长矛看押。",
+   "relation": "Isen 黑卫 vs Conrin 的 Galenish 骑士（囚禁关系）",
+   "numbers": "two dead men, fifteen, three",
+   "interval": [
+    3208,
+    3295
+   ],
+   "anchor": "Inside, there were two dead men, and fifteen of Isen’s black guard sitting cross-legged"
+  },
+  {
+   "id": 5,
+   "event": "Elise 决定不再旁观等待，选择出手，自认终究是父亲的女儿。",
+   "relation": "Elise 与父亲（认同/继承）",
+   "numbers": "",
+   "interval": [
+    3775,
+    3863
+   ],
+   "anchor": "No. She was done waiting. The shell of herself was broken, and it would not be resealed."
+  },
+  {
+   "id": 6,
+   "event": "Elise 假装惊呼扑上一名 Cynghal 守卫的脖子，用箭镞刺入其喉咙，再把他拖到空地上引另一名守卫靠近。",
+   "relation": "Elise 与自家 Cynghal 守卫（背叛/杀戮）",
+   "numbers": "",
+   "interval": [
+    5284,
+    5353
+   ],
+   "anchor": "With her other hand, she drove the head of the arrow into his throat."
+  },
+  {
+   "id": 7,
+   "event": "第二名守卫追来，Elise 在近距离开弓，箭射中他的眼睛。",
+   "relation": "Elise 与守卫（追杀）",
+   "numbers": "",
+   "interval": [
+    5962,
+    6073
+   ],
+   "anchor": "She loosed at close range. Her grip hadn’t been strong, but her aim was true enough for it to lodge in his eye."
+  },
+  {
+   "id": 8,
+   "event": "黑卫趁乱反扑看守，Liran 的蓝卫从城墙推进；一名黑卫向满身血污的 Elise 行礼并问「有何命令，公主？」。",
+   "relation": "Elise 与 Isen 黑卫（归附/受命）",
+   "numbers": "",
+   "interval": [
+    7065,
+    7101
+   ],
+   "anchor": "‘What orders, Princess?’ they asked."
+  }
+ ]
+}
