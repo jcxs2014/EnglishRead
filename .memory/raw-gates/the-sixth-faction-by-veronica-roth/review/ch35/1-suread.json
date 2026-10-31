@@ -1,0 +1,85 @@
+{
+ "chapter": "ch35",
+ "pov": "第一人称（Tris 叙述，“我”）+ 一般现在时",
+ "facts": [
+  {
+   "event": "Shawn 带 Tris 走后部货梯出楼；离开时他告诉她当时是六点（six o’clock），距她抵达 Erudite 总部正好一小时。",
+   "who": "he (Shawn)",
+   "receivers": "me (Tris)",
+   "start": 111,
+   "end": 380,
+   "text": "Instead he takes me to a freight elevator at the back of the building, which lets me out in a hallway that will take me to the alley. When he turns to leave, I ask him for the time, and he tells me it’s six o’clock—an hour after I first arrived in Erudite headquarters."
+  },
+  {
+   "event": "Tris 所在的走廊气味像垃圾；她快步走进巷子，看见巷尾一个黑影，那人转身走向街道时露出侧脸——是 Dauntless 首领 Eric。",
+   "who": "I",
+   "receivers": "a dark figure (Eric)",
+   "start": 533,
+   "end": 735,
+   "text": "The hallway I’m in smells like garbage. I hurry into the alley and see a dark figure at the end of it. When he turns to walk down the street, I see the side of his face. It’s Eric, the Dauntless leader."
+  },
+  {
+   "event": "Tris 再次疑惑：为何一名 Dauntless 首领——且不是官方代表 Max Young——独自去见 Jeanine Matthews；随即她发现 Eric 手上多了原先没有的东西。",
+   "who": "I",
+   "receivers": "Eric / Jeanine Matthews",
+   "start": 740,
+   "end": 1063,
+   "text": "I wonder, again, what he’s doing here. Why is a Dauntless leader—a Dauntless leader other than Max Young, their official representative—meeting with Jeanine Matthews by himself? This falls outside my mission to get close to Evelyn, but a moment later my breath catches as I realize he’s carrying something he wasn’t before."
+  },
+  {
+   "event": "Tris 看不出 Eric 正插回枪套的枪是不是侧面带珠光条纹的 needle gun，还是从武器墙取走的致命武器；Dauntless 带枪本身并不稀奇。",
+   "who": "I",
+   "receivers": "the gun (needle gun or lethal weapon)",
+   "start": 1078,
+   "end": 1285,
+   "text": "It’s not unusual for a Dauntless to be armed. But I can’t tell whether the gun he’s now holstering has the iridescent stripe of a needle gun on its side . . . or if it’s a lethal weapon, taken from the wall."
+  },
+  {
+   "event": "Tris 承认自己一直假定 Choosing Ceremony 袭击与“即将到来的一切”背后是 factionless，却从未想过能接触到武器墙的人不止 factionless。",
+   "who": "I",
+   "receivers": "the factionless / the weapons at the wall",
+   "start": 1289,
+   "end": 1528,
+   "text": "I’ve been assuming it was the factionless at the heart of the Choosing Ceremony attack, at the heart of whatever’s coming, the whole time. I never considered that the factionless aren’t the only ones with access to the weapons at the wall."
+  },
+  {
+   "event": "Tris 走到车厢前端，敲开凹陷的墙板；里面的应急包几乎空了，唯一的黑色衣物是一件巨大的黑色 T 恤。",
+   "who": "I",
+   "receivers": "the wall panel / the bag",
+   "start": 2930,
+   "end": 3125,
+   "text": "I head straight for the front of the car, then pound on the dented wall panel so it opens. The bag inside it is almost empty, and the only black clothing I find inside it is a huge black T-shirt."
+  },
+  {
+   "event": "Eric 与另一人交谈时停顿；对方开口时 Tris 完全听不见——她推断那人声音更高，也许是女孩，或只是说话没这么大声。",
+   "who": "he (Eric)",
+   "receivers": "the other person",
+   "start": 4765,
+   "end": 4927,
+   "text": "He pauses as the other person speaks. I can’t hear them at all, which must mean they have a higher voice—a girl, maybe? Or just someone who’s not talking as loud."
+  },
+  {
+   "event": "一只手抓住 Tris 的肩把她拽转过来；Eric 将她推到石墙上，手臂像铁条横在她胸前，近得她能闻到他呼吸的气味。",
+   "who": "Eric",
+   "receivers": "me (Tris)",
+   "start": 6366,
+   "end": 6590,
+   "text": "Then a hand grabs my shoulder and wrenches me around. I gasp at the pain of the movement, and then Eric is shoving me up against the stone wall, his arm like a metal bar across my chest. He’s so close I can smell his breath."
+  }
+ ],
+ "relations": [
+  "Shawn 从后部货梯送 Tris 出 Erudite 总部，时间是六点，距她抵达正好一小时。",
+  "Tris 在一条气味像垃圾的巷子里看见 Eric，并发现他手上多了一件东西（随后确认是枪）。",
+  "Eric 独自与 Jeanine Matthews 会面，而 Dauntless 的官方代表本应是 Max Young。",
+  "Tris 无法断定 Eric 的枪是 needle gun 还是从武器墙取走的致命武器。",
+  "由此 Tris 动摇原先的判断：能接触武器墙的不止 factionless，Choosing Ceremony 袭击未必是 factionless 所为。",
+  "Tris 在第四节车厢（存有 factionless 应急包）取走一件巨大黑 T 恤换装，把 Erudite 蓝裙塞进包里。",
+  "Eric 与一名声音更高、听不清的第三人密谈，Tris 只能听到 Eric 的话。",
+  "Eric 在 Pit 边把 Tris 按在石墙上并质问她在那里做什么。"
+ ],
+ "numbers": [
+  "six o’clock（“he tells me it’s six o’clock—an hour after I first arrived in Erudite headquarters”——Shawn 告知的钟点）",
+  "an hour（同上句：在 Erudite 总部待了一小时）",
+  "the fourth car（“I run alongside the fourth car, since it’s the one that will have the factionless emergency bag inside it”——存有应急包的第四节车厢）"
+ ]
+}
