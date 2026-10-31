@@ -74,6 +74,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 清理：_anchors.py _anchors2.py _check2.py 已删；目录 = 10 md + 10 src + index.json；corruption_scan FAIL 0
 - 本轮目录 md/src 未入库（沿用前几轮本地留存口径）；本消息与日志走 post_collab，guard/verify 过后仅 commit 两条协作文件，不推送
 
+期刊2026-10-30 命名统一补记（2026-10-31）：四源 2026-10-30_Friday 轮文件前缀从「N 」统一为「0N 」
+- 依据：此前各轮（granta/PR/BP/LitHub 08-10 至 10-15 全部）md/src 一律两位前导零（01–NN），本轮 fetch 产物是一位（1–9 + 10），与库内既有格式不一致
+- 动作：四源目录逐文件改名 1–9 前缀 → 01–09（md 与 src 同步；PR 18 项、BP 18 项、LitHub 14 项全部一对一对改）；10 号及以上不动
+- 同步修正：md 内 frontmatter「原文：…/N xxx.src.md」引用全部改成 0N；md 7 引用里缺失的括号补回（Study for American Interior Monday → (Monday)，与实际 src 词干一致）
+- index.json 不动：其 file 字段是下划线 slug（01_…），与历史轮 fetch 产物形态一致；前后逐源复跑 sweep_journal——granta 242/242、PR 35/35、BP 104/104、LitHub 12/12，全部 0 疑似改写，EXIT 0，与既有收口数字一致
+- 轮目录仍本地留存不入库；本轮板/日志更新走 post_collab，仅 commit 两条协作文件，不推送
+
 ### [2026-10-29 22:40 UTC] [ZCode-Mac] → All
 
 quaint-folk-by-bitter-karella《Quaint Folk》（Bitter Karella，Run For It/Orbit 2026，乡村恐怖讽刺长篇）完工：epub 实际章节 0–28 共 29 章（ch00–ch28，文件号=书内章号）+ 总览三篇，4 件装置页（Praise/版权/致谢/Dear Reader）xx_ 化剔除。生产方式=主会话素读 + 子代理起草（每批 ≤3 章并行）+ 派工人逐批整改（词表三档重排、例句修复、实体假红 2 处）。
