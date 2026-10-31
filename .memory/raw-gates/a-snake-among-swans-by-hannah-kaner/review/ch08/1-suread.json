@@ -1,0 +1,95 @@
+{
+ "chapter": 8,
+ "text": "text/ch08_chapter_eight_tilde.txt",
+ "chars": 13493,
+ "facts": [
+  {
+   "id": 1,
+   "event": "自 hannerast 起已过两周，被杀的 Merogian 反叛者的血仍渗进木板缝里；Marolyn 反复用拇指摩挲掌心，低声哼着 Merogian 挽歌",
+   "relation": "Marolyn—Tilde：贴身同伴，两人共同背负杀死 Merogian 反叛者的阴影",
+   "numbers": "a fortnight",
+   "interval": [
+    24,
+    55
+   ],
+   "anchor": "A fortnight since the hannerast"
+  },
+  {
+   "id": 2,
+   "event": "Hadiah 一边挑核桃一边宣布车队已离开商道，Marolyn 说快到目的地了，Tilde 心头一阵恐惧",
+   "relation": "Hadiah—Tilde：侍女兼挚友；Marolyn—Tilde：同伴",
+   "numbers": "",
+   "interval": [
+    1167,
+    1191
+   ],
+   "anchor": "We must be getting close"
+  },
+  {
+   "id": 3,
+   "event": "Tilde 拉开帘子打开窗板，看见的不再是小村而是人流、手推车与新建房屋的城市——Anailmor 如今被叫作 Salt Lake",
+   "relation": "Tilde—Merogia 故土：归来的女王面对被改名的旧城",
+   "numbers": "",
+   "interval": [
+    2122,
+    2168
+   ],
+   "anchor": "But she fell silent as I drew back the curtain"
+  },
+  {
+   "id": 4,
+   "event": "路旁一位 Cynghal 老木匠认出 Ardweni 马车，烟斗掉地，起身高喊 Princess Ardweni / the new queen，人群随即骚动欢呼",
+   "relation": "平民—Tilde：Merogian 新女王在 Cynghal 街头被认出",
+   "numbers": "",
+   "interval": [
+    4457,
+    4483
+   ],
+   "anchor": "I haven’t seen the like in"
+  },
+  {
+   "id": 5,
+   "event": "Tilde 不听 Gundobar 的喝令，自行下车步行入城，Marolyn 如盾牌般护在她身侧",
+   "relation": "Gundobar—Tilde：护送队伍的骑士长，管不住女王；Marolyn—Tilde：护卫",
+   "numbers": "",
+   "interval": [
+    5632,
+    5718
+   ],
+   "anchor": "I pretended not to hear him. I was on Merogian soil, and would not let him command me."
+  },
+  {
+   "id": 6,
+   "event": "人群中一名穿 Galen 深腰长袍的商人妇女低声骂 Ardweni whore，她的同伴追着喊 Barbarian witch，Hadiah 只怕闹成暴乱",
+   "relation": "部分市民—Tilde：敌视 Ardweni 的外来女王",
+   "numbers": "",
+   "interval": [
+    6433,
+    6483
+   ],
+   "anchor": "I ignored her, but her companion shouted after us."
+  },
+  {
+   "id": 7,
+   "event": "出城后 Tilde 看着麦麻田与城堡上 Liran 的鎏金天鹅旗，向 Hadiah 说起十年前随父王来此送父出征，惊问 How could it have changed so much in ten years，并说这一片原都是 kithwood",
+   "relation": "Tilde—父王/故国：十年前送父北征，如今故土尽失",
+   "numbers": "ten years",
+   "interval": [
+    7155,
+    7202
+   ],
+   "anchor": "How could it have changed so much in ten years?"
+  },
+  {
+   "id": 8,
+   "event": "一名皮围裙的女铁匠当街高喊 Make them pay for Rhiannor，Galenish 骑士转向她时，Tilde 假装绊倒大叫，把骑士从人群前引开，那女人和女孩趁隙消失",
+   "relation": "骑士—Tilde：名义上护卫实则不受她节制；市民—Tilde：敢怒不敢留",
+   "numbers": "",
+   "interval": [
+    7948,
+    8023
+   ],
+   "anchor": "Instead, I feigned a fall, stumbling over my knees, hitting the ground hard"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "chapter": 57,
+ "text": "text/ch57_epilogue.txt",
+ "chars": 1666,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Tilde 在尾声给母亲（Rivani 王太后）写信，说两人分别还不到六个「月」，世事却已大变",
+   "relation": "女儿 Tilde → 母亲、Merogia 的 Rivani 女王",
+   "numbers": "Not six moons have passed（未满六个月）",
+   "interval": [
+    71,
+    141
+   ],
+   "anchor": "Not six moons have passed since we parted, and yet so much has changed"
+  },
+  {
+   "id": 2,
+   "event": "Tilde 向母亲宣告自己已经夺权，并用 Ways 的魔法除掉了国王的儿子们",
+   "relation": "Tilde 与国王之子（她丈夫的儿子们）为敌，已将其清除",
+   "numbers": "无",
+   "interval": [
+    253,
+    348
+   ],
+   "anchor": "Mother, I have done it. I have taken command, and have rid his sons with the magic of the Ways."
+  },
+  {
+   "id": 3,
+   "event": "Tilde 说自己怀着国王的孩子（一个王子），日日祈祷他强壮，并盼国王随之好转、Cynghal 免于倾覆",
+   "relation": "Tilde 怀着丈夫（国王）的继承人",
+   "numbers": "无（a.pray daily 为频率表述）",
+   "interval": [
+    351,
+    407
+   ],
+   "anchor": "I am blessed, at least, by his growing prince inside me."
+  },
+  {
+   "id": 4,
+   "event": "她称一些叛乱的 markals 趁国王病弱封锁了 Hallion 与通往 Falcan 的要道，但 Cynghal、Galen、Merogia 三国合力将逼其投降",
+   "relation": "叛乱的 markals 对阵 Cynghal／Galen／Merogia 联盟",
+   "numbers": "无",
+   "interval": [
+    669,
+    785
+   ],
+   "anchor": "Some rebellious markals take advantage of the king’s distress, closing off cold Hallion, and the hannerest to Falcan"
+  },
+  {
+   "id": 5,
+   "event": "她宣告 Marolyn 已归于神恩、众人哀悼这位「我们族人真正的战士、至忠的侍女」",
+   "relation": "Marolyn 是 Tilde 身边忠心的侍女／同族战士，已死",
+   "numbers": "无",
+   "interval": [
+    1256,
+    1296
+   ],
+   "anchor": "Marolyn has been taken into god’s grace."
+  },
+  {
+   "id": 6,
+   "event": "她提到公主已出逃且至今未被找到，随后以「天鹅女王 Tilde」的身份落款",
+   "relation": "Tilde 与出逃的公主（王位对手）；落款自称天鹅女王",
+   "numbers": "无",
+   "interval": [
+    1391,
+    1441
+   ],
+   "anchor": "The princess has fled, and has not yet been found."
+  }
+ ]
+}

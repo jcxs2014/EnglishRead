@@ -1,0 +1,95 @@
+{
+ "chapter": 55,
+ "text": "text/ch55_chapter_fifty_five_tilde.txt",
+ "chars": 3295,
+ "facts": [
+  {
+   "id": 1,
+   "event": "蒂尔德去探视丈夫（天鹅王利兰），这是她第一次不再感到恐惧的紧箍与未知的危险。",
+   "relation": "蒂尔德—利兰（夫妻）",
+   "numbers": "the first time",
+   "interval": [
+    29,
+    115
+   ],
+   "anchor": "When I went to see my husband, it was the first time I did not feel the clench of fear"
+  },
+  {
+   "id": 2,
+   "event": "她独自走进天鹅王的寝殿，殿内昏暗、窗帘紧闭，几碟草药烧得又甜又呛人。",
+   "relation": "蒂尔德—天鹅王（探视者与被探视的病人）",
+   "numbers": "several dishes",
+   "interval": [
+    511,
+    609
+   ],
+   "anchor": "I went alone into the swan king’s chamber. It was dark, the curtains closing in the healing scents"
+  },
+  {
+   "id": 3,
+   "event": "她想起离开时表亲不肯看她，而埃莉丝看见了、也知道了，因此她不再信任埃莉丝。",
+   "relation": "蒂尔德—埃莉丝（亲族/知情者，互不信任）",
+   "numbers": "—",
+   "interval": [
+    388,
+    456
+   ],
+   "anchor": "My cousin would not look at me as I left. Elise had seen, Elise knew"
+  },
+  {
+   "id": 4,
+   "event": "蒂尔德盘算让齐严每天往国王的补药里滴一滴荣耀液，只要天鹅肝的存货还够撑。",
+   "relation": "蒂尔德—齐严（主谋与执行者）",
+   "numbers": "a daily drop",
+   "interval": [
+    797,
+    890
+   ],
+   "anchor": "Ziyan could slip a daily drop into his tonics, as long as his supply of swan liver would last"
+  },
+  {
+   "id": 5,
+   "event": "蒂尔德靠近追问国王是否还记得她，国王瞪着空洞的蓝眼睛，只唤她‘妻子’。",
+   "relation": "蒂尔德—利兰（夫妻；她只要他的头衔）",
+   "numbers": "—",
+   "interval": [
+    1266,
+    1343
+   ],
+   "anchor": "‘Do you remember me?’ I asked, coming closer. He stared, his blue eyes vacant"
+  },
+  {
+   "id": 6,
+   "event": "蒂尔德当面告诉国王她怀着王的孩子，并自问她除了王妻与王子之母还是什么。",
+   "relation": "蒂尔德—未出生的孩子/利兰（母子与夫妻）",
+   "numbers": "another prince",
+   "interval": [
+    1703,
+    1795
+   ],
+   "anchor": "I bear your child, King of Cynghal. Another prince to destroy perhaps, or princess to break."
+  },
+  {
+   "id": 7,
+   "event": "国王嘴唇发抖、闭眼唤着‘温’与母亲，说自己不知道——他困在旧日记忆里。",
+   "relation": "利兰—温与其母（旧日记忆中的亲人）",
+   "numbers": "—",
+   "interval": [
+    2219,
+    2280
+   ],
+   "anchor": "‘Oh Wing,’ he said. ‘Oh Wing, oh Wing. Father, I do not know."
+  },
+  {
+   "id": 8,
+   "event": "蒂尔德逼问国王是否愿服从她、替她报复，国王答‘是，我的王后’。",
+   "relation": "蒂尔德—利兰（操控者与被操控者）",
+   "numbers": "—",
+   "interval": [
+    3188,
+    3237
+   ],
+   "anchor": "‘Will you obey me then, and give me retribution?’"
+  }
+ ]
+}

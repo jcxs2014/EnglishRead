@@ -1,0 +1,95 @@
+{
+ "chapter": 54,
+ "text": "text/ch54_chapter_fifty_four_elise.txt",
+ "chars": 4225,
+ "facts": [
+  {
+   "id": 1,
+   "event": "蒂尔德的双手、手腕、手臂与脖颈长出羽毛，而马洛琳已死在她脚下，埃莉斯无法理解眼前的景象。",
+   "relation": "埃莉斯—蒂尔德（情人/施术者）；蒂尔德—马洛琳（杀人者与死者）",
+   "numbers": "—",
+   "interval": [
+    73,
+    148
+   ],
+   "anchor": "Tilde had stood, her hand outstretched, feathers sprouting from her fingers"
+  },
+  {
+   "id": 2,
+   "event": "埃莉斯的兄弟们尖叫着被变成怪物飞走，其中最小的海因只有八岁，羽毛从他衣服里爆出。",
+   "relation": "埃莉斯—海因（姐弟）；埃莉斯—盖萨/康林/埃吉尔（兄妹）",
+   "numbers": "Eight years old",
+   "interval": [
+    845,
+    932
+   ],
+   "anchor": "Little Hein! Eight years old. Feathers taking root in him, bursting through his clothes"
+  },
+  {
+   "id": 3,
+   "event": "埃莉斯跑回自己房间推开门，侍女托娜正补着一条磨破的裙子，惊得跳起来。",
+   "relation": "埃莉斯—托娜（主仆）",
+   "numbers": "—",
+   "interval": [
+    2086,
+    2181
+   ],
+   "anchor": "Elise went back to her room, threw open the door and Torna leapt up from darning a frayed dress"
+  },
+  {
+   "id": 4,
+   "event": "托娜不再多问，扔下针线打开箱子，把衬衫、裤子、衣物和素金首饰塞进旅行袋，埃莉斯则披上斗篷、拿起儿时的剑与弓。",
+   "relation": "埃莉斯—托娜（主仆，托娜助其出逃）",
+   "numbers": "—",
+   "interval": [
+    2443,
+    2541
+   ],
+   "anchor": "she threw down her work and opened a chest, dragging out a travelling sack and stuffing in a shirt"
+  },
+  {
+   "id": 5,
+   "event": "两名穿绿罩袍的骑士进门传召，说国王要见公主，埃莉斯认出父亲已多日神志不清。",
+   "relation": "埃莉斯—父亲（国王与公主）；埃莉斯—两名骑士（被传召者与传召者）",
+   "numbers": "two knights",
+   "interval": [
+    3370,
+    3475
+   ],
+   "anchor": "The door opened, and two knights stepped in. Elise did not recognise them, they wore unnerved expressions"
+  },
+  {
+   "id": 6,
+   "event": "骑士称王子们“跑了”，而埃莉斯知道他们是被王后变成天鹅飞走的。",
+   "relation": "埃莉斯—王子们（姐弟）；埃莉斯—王后/蒂尔德（知情者与施术者）",
+   "numbers": "—",
+   "interval": [
+    3656,
+    3689
+   ],
+   "anchor": "The princes … They have run away."
+  },
+  {
+   "id": 7,
+   "event": "埃莉斯终究没有告发情人，她怕自己显得发疯、被祭司烧死，也怕连累蒂尔德。",
+   "relation": "埃莉斯—蒂尔德（情人，选择包庇）",
+   "numbers": "—",
+   "interval": [
+    3884,
+    3945
+   ],
+   "anchor": "But even now she could not bring herself to betray her lover."
+  },
+  {
+   "id": 8,
+   "event": "埃莉斯决定抓住父亲召见的机会，希望说服他、让他终于听她说话。",
+   "relation": "埃莉斯—父亲（女儿求告父亲）",
+   "numbers": "—",
+   "interval": [
+    4169,
+    4224
+   ],
+   "anchor": "Perhaps he would at last listen to what she had to say."
+  }
+ ]
+}

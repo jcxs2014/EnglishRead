@@ -5,20 +5,20 @@
  "facts": [
   {
    "id": 1,
-   "event": "Elise 不再被任何人拦下：她带着书、腰佩剑、背挎弓穿行宫中，第一次与兄弟姐妹平起平坐。",
-   "relation": "Elise 与宫廷／兄弟姐妹：从边缘旁观者变为平等者",
+   "event": "Elise 从昔日站在母亲与 Tilde 身后、从不被行礼的旁观者，变成无人敢拦的平等者：她抱着书、腰佩剑、背挎弓穿行宫中。",
+   "relation": "Elise 与宫廷／兄妹：由边缘人升为平等者",
    "numbers": "",
    "interval": [
-    262,
-    324
+    184,
+    208
    ],
-   "anchor": "no one removed the sword from her waist, the bow from her back"
+   "anchor": "She was their equal now."
   },
   {
    "id": 2,
-   "event": "Egil 不肯看她，Gaisa 一见她进“叛徒的绿厅”就走开；Tilde 下令把兄弟们关在一起学手足之情，那是唯一够大的房间。",
-   "relation": "Elise 与 Egil／Gaisa 疏远；Tilde 是下命者",
-   "numbers": "唯一个（the only room）",
+   "event": "Egil 不肯看她，Gaisa 一见她走进长满常春藤的“叛徒绿厅”就走开；Tilde 下令把兄弟们安置在一起学手足之情，因为那是唯一够大的房间。",
+   "relation": "Elise 遭 Egil／Gaisa 排斥；Tilde 是安置命令的下达者",
+   "numbers": "唯一（the only room）",
    "interval": [
     597,
     663
@@ -28,7 +28,7 @@
   {
    "id": 3,
    "event": "Elise 忍受兄弟的恶言与 Conrin 的辱骂，只为照顾 Hein；Hein 扑进她怀里，拿走她带给他和老鼠的糖。",
-   "relation": "Elise 与 Hein 亲近（她护着幼弟）；Conrin 敌意",
+   "relation": "Elise 护着幼弟 Hein；Conrin 对她敌意",
    "numbers": "",
    "interval": [
     866,
@@ -39,8 +39,8 @@
   {
    "id": 4,
    "event": "Alar 的尸体已在花园里私下火化，Elise 没有为他流泪；兄弟们只问过一次他的下落。",
-   "relation": "Elise 与已死的 Alar：无哀悼",
-   "numbers": "只问过一次（Only once）",
+   "relation": "Elise 与死去的 Alar：不哀悼；兄弟们仅过问一次",
+   "numbers": "只一次（Only once）",
    "interval": [
     1032,
     1104
@@ -49,9 +49,9 @@
   },
   {
    "id": 5,
-   "event": "Elise 预演 Tilde 会召见她、彼此求恕；她将跪下吻她指尖，为 Egil 与 Hein 求宽恕，也希望惠及 Gaisa 与失魂依附 Tilde 的父亲。",
+   "event": "Elise 预演 Tilde 会召她、彼此求恕：她将跪下吻她指尖，至少为 Egil 与 Hein 求宽恕，也希望惠及 Gaisa，并善待已失魂、近乎执拗地依附 Tilde 的父亲。",
    "relation": "Elise 与 Tilde：爱恨交织的求和；父亲沦为 Tilde 的依附者",
-   "numbers": "",
+   "numbers": "至少（at least）",
    "interval": [
     1260,
     1319
@@ -60,19 +60,19 @@
   },
   {
    "id": 6,
-   "event": "她想到 Tilde 本是“献礼”却慢慢把牙齿嵌进宫廷生活，只有她尝到甜味；她告诫自己这不是情人争吵而是谈判，还想把 Conrin 也要回来。",
-   "relation": "Elise 与 Tilde：权力与欲望的纠缠；Conrin 是她想保住的手足",
+   "event": "她看穿 Tilde 当初几乎像一件“献礼”，却把牙齿嵌进宫廷生活的每一处，慢得无人察觉痛楚，只有 Elise 尝到那份快意。",
+   "relation": "Elise 与 Tilde：欲望与权力的缠绕",
    "numbers": "",
    "interval": [
-    1966,
-    1988
+    1506,
+    1598
    ],
-   "anchor": "this was a negotiation"
+   "anchor": "Tilde had come almost as an offering, but sunk her teeth into every part of the court’s life"
   },
   {
    "id": 7,
-   "event": "她说不能一年之内失去所有兄弟，要让他们见识她的“软权力，且强硬”；随后动身去绿厅告诉他们自己的计划。",
-   "relation": "Elise 对兄弟的庇护意图",
+   "event": "她告诫自己这不是情人争吵而是谈判：若够温柔，Tilde 也许连 Conrin 也给她；她不能一年之内失去所有兄弟，要让他们见识她“柔韧而强硬”的权力。",
+   "relation": "Elise 对兄弟的庇护；Conrin 是她想保住的人",
    "numbers": "一年之内（in one year）",
    "interval": [
     2062,
@@ -82,14 +82,14 @@
   },
   {
    "id": 8,
-   "event": "她从高处阳台俯看：兄弟们围着一小堆火挤成一团，Hein 膝上坐着老鼠 Mog，没有卫兵看守；但她发现王后 Tilde 正与 Hadiah、Marolyn 一同俯视王子们，她本能地缩进墙里，听见常春藤的低语变成脉搏与歌声。",
-   "relation": "Elise 与 Tilde 的对峙前夜；Tilde 与 Hadiah、Marolyn 同谋监视",
-   "numbers": "",
+   "event": "她前往绿厅告知计划；先从高处阳台俯看，兄弟们围着一小堆火挤作一团，Hein 膝上坐着老鼠 Mog，没有卫兵看守；她随即发现王后正与 Hadiah、Marolyn 一同俯视王子们，本能地缩进墙里，并听见常春藤的低语这次像脉搏、像歌。",
+   "relation": "Elise 与 Tilde 的暗中对峙；Tilde 与 Hadiah、Marolyn 同立监视",
+   "numbers": "一小堆火（a small fire）",
    "interval": [
-    2937,
-    3008
+    2835,
+    2877
    ],
-   "anchor": "Tilde was standing with Hadiah and Marolyn, gazing down on the princes."
+   "anchor": "But there was someone watching: the queen."
   }
  ]
 }

@@ -7,7 +7,7 @@
    "id": 1,
    "event": "Merovin 在维迪什都城的马上对 Tilde 说他们“损失惨重”，国王与王后的卫队（蓝绿两色）环护在侧。",
    "relation": "Merovin—Tilde 的策士；国王 Liran 与王后的卫队",
-   "numbers": "blue and green",
+   "numbers": "none",
    "interval": [
     56,
     132
@@ -29,7 +29,7 @@
    "id": 3,
    "event": "Tilde 骑灰马、披缀满天鹅的蓝氅、戴玫瑰冠，Miras 在前唱她的婚歌，民众高呼“图阿蒂尔德圣母”“羽翼女王”“辛格尔的救主”。",
    "relation": "Tilde 与歌者 Miras；Tilde 与梅洛吉亚/辛格尔民众的拥戴",
-   "numbers": "blue and green",
+   "numbers": "none",
    "interval": [
     1172,
     1254

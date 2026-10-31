@@ -1,0 +1,95 @@
+{
+ "chapter": 56,
+ "text": "text/ch56_chapter_fifty_six_elise.txt",
+ "chars": 6601,
+ "facts": [
+  {
+   "id": 1,
+   "event": "Elise 被卫兵带进父亲 Liran 的昏暗寝殿，她颤身行礼，先称 Tilde 为“Queen Tilde”，再唤父亲“My King”“Father-hyem”",
+   "relation": "Elise 是 Liran 与 Isabella 的女儿；Tilde 曾是她的情人，如今是 Liran 的王后、她的继母",
+   "numbers": "Chapter Fifty-six",
+   "interval": [
+    28,
+    119
+   ],
+   "anchor": "In her father’s dark chamber, Tilde stood like a sentinel, her hair loose, her hands empty."
+  },
+  {
+   "id": 2,
+   "event": "Liran 认不出女儿，反问“Who is that?”，Elise 只好自报“I am your daughter … Princess Elise. Isabella’s child.”",
+   "relation": "父女：Liran 已遗忘女儿 Elise（不是第一次忘）",
+   "numbers": "",
+   "interval": [
+    1234,
+    1332
+   ],
+   "anchor": "‘Who is that?’ He looked at her at last, and there was no recognition in the sea blue of his eyes."
+  },
+  {
+   "id": 3,
+   "event": "Liran 把手按在 Tilde 腹部宣示占有，Tilde 微微一颤、厌恶地绷紧身体却仍由着他",
+   "relation": "夫妻：Liran 与怀孕的 Tilde；Elise 由此对 Tilde 生出一丝怜悯",
+   "numbers": "",
+   "interval": [
+    1779,
+    1893
+   ],
+   "anchor": "then put a possessive hand over her belly. She flinched, slightly, but let him, holding herself tense with disgust"
+  },
+  {
+   "id": 4,
+   "event": "Elise 求 Tilde 认她，Tilde 却低声否认“She is no one. We do not know her.”，Liran 像狗一样跟着复述",
+   "relation": "情人反目：Tilde 当众否认与 Elise 的关系",
+   "numbers": "",
+   "interval": [
+    2565,
+    2635
+   ],
+   "anchor": "‘No,’ Tilde whispered, and Elise felt the word like ice in her breast."
+  },
+  {
+   "id": 5,
+   "event": "Elise 想通真相：Tilde 除 Merogian 魔法外还用了她家族 Cynghal 的血魔法，对当年把魔法教给 Alar 的 Liran 下了毒",
+   "relation": "Tilde 是下毒者/篡位者；受害者是她的丈夫 Liran",
+   "numbers": "",
+   "interval": [
+    3808,
+    3922
+   ],
+   "anchor": "the blood magic too of Cynghal, of Elise’s family. And she had used it on the man who had first taught it to Alar."
+  },
+  {
+   "id": 6,
+   "event": "Tilde 诬称众子皆已逃亡背叛，Elise 冲上前喊“No!”，被 Tilde 的卫兵扭住双臂按倒在地",
+   "relation": "继母女对立；卫兵听命于 Tilde 而非国王",
+   "numbers": "",
+   "interval": [
+    4309,
+    4420
+   ],
+   "anchor": "running forward, but Tilde’s guards took hold of her, twisting her arms behind her and forcing her to her knees"
+  },
+  {
+   "id": 7,
+   "event": "Tilde 说“It is not love that will save us … It is power.”，给 Elise 一条“生路”：卫兵押她去港口任选一条船远走",
+   "relation": "旧情人以“仁慈”为名放逐 Elise",
+   "numbers": "",
+   "interval": [
+    5763,
+    5829
+   ],
+   "anchor": "my guards will take you far from the castle, to the harbour’s edge"
+  },
+  {
+   "id": 8,
+   "event": "Tilde 说完“Freedom is my last gift to you … Take it, Princess, and run.”，Elise 后脑即遭重击，眼前先白后黑",
+   "relation": "Tilde 的“馈赠”实为击昏押走",
+   "numbers": "",
+   "interval": [
+    6436,
+    6486
+   ],
+   "anchor": "Elise felt the sharp pain to the back of her head."
+  }
+ ]
+}

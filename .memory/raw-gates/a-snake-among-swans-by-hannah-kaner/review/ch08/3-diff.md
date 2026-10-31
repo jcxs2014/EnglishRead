@@ -17,3 +17,7 @@ R1：`1-suread.json`（8 条，intervals_ok 8/8）
 
 ## 小结
 阻断 0 ｜ 提示 1（块 4「Galen 骑士」措辞过窄）。块数 8 对 2437 词（建议 4–8）合规。
+
+## R1 补录（时序说明）
+
+本章 `1-suread.json` 由 R1 素读员在 R4 表写成之后才落盘（生产期我读过原文并据此写了 R4）。补录后逐条比对：素读 8 条与 R4 表的引用位置一致（`A fortnight since the hannerast`、Anailmor→Salt Lake、`I feigned a fall`、`Liran's swan, crowned in gold`、`They were not waiting.`、`Do not cut off the swan's head`）；素读另补两条此前未入表的事实：`I haven't seen the like in`（老木匠认出 Ardweni 车）与 `ten years`（十年前随父王北征）。二者不影响任何断言的成立，故 R4 结论不变。

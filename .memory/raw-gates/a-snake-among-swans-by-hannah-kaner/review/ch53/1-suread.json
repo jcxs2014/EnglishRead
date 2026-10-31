@@ -1,0 +1,95 @@
+{
+ "chapter": 53,
+ "text": "ch53_chapter_fifty_three_tilde.txt",
+ "chars": 20924,
+ "facts": [
+  {
+   "id": 1,
+   "event": "哈迪雅在阳台边低声劝阻蒂尔黛：不能杀那些王子，否则他们会被奉为殉道者。",
+   "relation": "哈迪雅—蒂尔黛（谋士/女王）",
+   "numbers": "",
+   "interval": [
+    79,
+    116
+   ],
+   "anchor": "Hadiah murmured, standing at my elbow"
+  },
+  {
+   "id": 2,
+   "event": "玛洛琳攥紧短剑，主张把踏上梅罗吉亚土地的王子全部杀光。",
+   "relation": "玛洛琳—蒂尔黛（侍女/战士）",
+   "numbers": "",
+   "interval": [
+    558,
+    608
+   ],
+   "anchor": "‘Then kill them too,’ said Marolyn, her voice low."
+  },
+  {
+   "id": 3,
+   "event": "蒂尔黛把手按上绿叶，向先祖之音求力量，要把这些「天鹅」送上天空。",
+   "relation": "蒂尔黛—基斯伍德（德鲁伊/神木）",
+   "numbers": "",
+   "interval": [
+    4466,
+    4529
+   ],
+   "anchor": "Give me power, I said. The power to send these swans to the sky"
+  },
+  {
+   "id": 4,
+   "event": "群声开出化形代价：四条命、四具身体、四个脖颈；四张喙、八只眼、八只翅膀。",
+   "relation": "神木之声—四王子（献祭对象）",
+   "numbers": "Four lives, four bodies, four necks. Four beaks, eight eyes, eight wings.",
+   "interval": [
+    6948,
+    6984
+   ],
+   "anchor": "Four lives, four bodies, four necks."
+  },
+  {
+   "id": 5,
+   "event": "古薇莎的声音提醒她：代价可以是她自己的命、爱人的命，或她腹中已扎根的种。",
+   "relation": "古薇莎—蒂尔黛（亡者/继承者）",
+   "numbers": "",
+   "interval": [
+    7419,
+    7466
+   ],
+   "anchor": "It could be your own, Guwetha’s voice whispered"
+  },
+  {
+   "id": 6,
+   "event": "玛洛琳把刀尖抵在自己喉头，要求蒂尔黛把她献给基斯伍德以终结诸王子。",
+   "relation": "玛洛琳—蒂尔黛（自愿献祭者/爱人）",
+   "numbers": "",
+   "interval": [
+    11369,
+    11395
+   ],
+   "anchor": "her eyes alight and daring"
+  },
+  {
+   "id": 7,
+   "event": "蒂尔黛握住玛洛琳的手按上绿叶，四名王子当场化作野天鹅破窗飞去，玛洛琳气绝。",
+   "relation": "蒂尔黛—四王子/玛洛琳（施法者/牺牲者）",
+   "numbers": "four swans",
+   "interval": [
+    19400,
+    19452
+   ],
+   "anchor": "And then there were no more princes. Only four swans"
+  },
+  {
+   "id": 8,
+   "event": "楼上阳台的埃莉丝满脸惊恐与遭背叛之色，直直看着蒂尔黛。",
+   "relation": "埃莉丝—蒂尔黛（被囚者之妹/女王）",
+   "numbers": "",
+   "interval": [
+    20871,
+    20903
+   ],
+   "anchor": "And her face was full of horror."
+  }
+ ]
+}
