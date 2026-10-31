@@ -1,0 +1,82 @@
+{
+  "chapter": "ch28",
+  "pov": "第一人称（Tris）· 现在时",
+  "facts": [
+    {
+      "event": "Tris 与 Four 在烟雾中双双俯身到空气较清新的低处；远处金属墙接连落下，把空间隔开以防火势穿透——两人是并肩闯火场的同伴。",
+      "who": "We",
+      "receivers": "the fresher air",
+      "start": 40,
+      "end": 266,
+      "text": "The air is hazy with smoke. We both duck down low, where the fresher air is. My eyes sting. I hear slamming in the distance as other metal walls come down, presumably partitioning the space so that fire can’t break through it."
+    },
+    {
+      "event": "墙另一侧有人喊：有个女孩被锁在你们那侧的 safe room，墙落下前他们正想找人放她出来——喊话者把 Mae 的下落托付给墙这边的 Tris 与 Four。",
+      "who": "the voice",
+      "receivers": "a girl",
+      "start": 862,
+      "end": 1013,
+      "text": "“There’s a girl!” the voice says. “Stuck in the safe room on your side! We were trying to find someone who could let her out when the walls came down.”"
+    },
+    {
+      "event": "Four 解释自己为何认得这地方：恐惧模拟有时会透露犯罪行为的信息，他因此须出庭作证，至今只发生过两次——这是他记得路的理由。",
+      "who": "he",
+      "receivers": "information about criminal behavior",
+      "start": 1164,
+      "end": 1374,
+      "text": "“Sometimes fear simulations are revealing,” he says. “When they reveal information about criminal behavior, I have to testify about what I’ve seen. It’s only happened twice, but it’s hard to forget this place.”"
+    },
+    {
+      "event": "两人到达那扇厚重牢门；Tris 几乎听不见门后的尖声哭喊，却断定 Mae 就在里面：除了等着听证会的人，谁会被锁在 safe room？",
+      "who": "I",
+      "receivers": "Mae",
+      "start": 2609,
+      "end": 2835,
+      "text": "We reach the door, which is solid and sturdy. I can barely hear the high-pitched screaming behind it, but Mae’s in there; I know she is. Who else would have been locked in a safe room right where the hearing is supposed to be?"
+    },
+    {
+      "event": "Four 说要找东西破门，Tris 否决：门上方靠天花板有个 transom 小窗，多数人钻不过去——但她钻得过去。",
+      "who": "I",
+      "receivers": "a small transom window",
+      "start": 3110,
+      "end": 3261,
+      "text": "“Not the door.” I point up at the wall, closer to the ceiling. Above the door is a small transom window. It’s too small for most people to fit through."
+    },
+    {
+      "event": "Tris 自己跃起做引体向上，把胸口撑上窗框；身后热浪扑来，白热剧痛灼进肩头，她再次尖叫——左肩的重伤就是这一下。",
+      "who": "I",
+      "receivers": "the window frame",
+      "start": 7730,
+      "end": 8020,
+      "text": "I jump as high as I can, and pull. My head is over the frame. I scream into my teeth, and wrench myself forward, so my chest is right on top of the window frame. Behind me, a wave of heat flares against my back. White-hot pain sears into my shoulder, and I scream again, this time in agony."
+    },
+    {
+      "event": "Four 接住从窗口跌出的 Tris，手臂牢牢环住她的背、把她按在胸前；她感到他心跳的撞击和那抓握里的绝望，随后烧伤的肩又涌起一阵痛。",
+      "who": "He",
+      "receivers": "me",
+      "start": 8235,
+      "end": 8511,
+      "text": "He catches me, his arm firm around my back. He holds me against his chest, his sternum hard against my cheek. I feel the pounding of his heart. I feel the desperation in his grip. And then I feel a wave of pain in my burned shoulder, and I make an involuntary, pathetic sound."
+    },
+    {
+      "event": "Mender 抱着 Mae 向出口急走，Christina 与 Tris 随后；走到大厅中途 Tris 回头，仍拦住那女人、不让她追上来的 Four 也回望她。",
+      "who": "The Mender",
+      "receivers": "the exit",
+      "start": 13062,
+      "end": 13266,
+      "text": "The Mender hurries toward the exit, followed by Christina and then me. I look over my shoulder when we’re halfway across the lobby, and Four, still preventing the woman from pursuing us, looks back at me."
+    }
+  ],
+  "relations": [
+    "Tris 与 Four 是并肩闯火场的搭档：她钻窗救 Mae、左肩烧伤，他垫肩、破窗、接住她。",
+    "Mender（John）是 Mae 的哥哥，白裙女人是 Mae 与 Mender 的母亲；Four 挡在那女人身前，让 Mender 带 Mae 脱身。",
+    "Tris 的父亲在大火中手臂受伤（绷带、袖子剪到肘上），父女在大厅隔空相望，她却因他同意 Memory Vault 取走她的记忆而转身走开。",
+    "Christina 戴着 Mender 给她的素黑眼罩（不是彩绘眼睛的那只），并已把 Fox 旗缝在衣内。",
+    "Four 用恐惧模拟里见到的地形带路：他为犯罪案作证过两次，所以记得这栋楼的路。"
+  ],
+  "numbers": [
+    "twice — Four 出庭作证“It’s only happened twice”（只两次）",
+    "a few weeks — 她离家的时间“it’s only been a few weeks”",
+    "Four — Mae 问“Like the number?”（像数字那个）"
+  ]
+}
