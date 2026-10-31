@@ -1,0 +1,73 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch06",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch06_deliciously_terrible_food_jokes.txt",
+ "facts": [
+  {
+   "fact": "装满泡泡糖的火车叫 chew-chew train：choo-choo（火车汽笛）被换成嚼东西的声音",
+   "anchor": "What do you call a train filled with bubblegum? A chew-chew train.",
+   "start": 78,
+   "end": 144
+  },
+  {
+   "fact": "被亨氏工厂开除的原因不能说，对方却说“把豆子倒出来吧”：spill the beans（说出秘密）在豆子工厂变成字面动作",
+   "anchor": "‘I’m not going to tell you what I did to get sacked from the Heinz factory.’ ‘Spill the beans?’",
+   "start": 149,
+   "end": 244
+  },
+  {
+   "fact": "佛教徒买热狗说“给我一个与万物合一的”：make me one with everything 兼指“什么配料都要”",
+   "anchor": "What did the Buddhist say to the hot dog seller? ‘Make me one with everything.’",
+   "start": 353,
+   "end": 432
+  },
+  {
+   "fact": "牡蛎不肯借钱，因为它们 shellfish：shellfish（贝类）与 selfish（自私）同音",
+   "anchor": "Why won’t oysters ever lend you money? They’re shellfish.",
+   "start": 500,
+   "end": 557
+  },
+  {
+   "fact": "假面条叫 impasta：impostor（冒牌货）与 pasta 拼合",
+   "anchor": "What do you call a fake noodle? An impasta.",
+   "start": 751,
+   "end": 794
+  },
+  {
+   "fact": "两只手都能拿糖：ambidextrous（双手灵巧）被换成 ambidextrose（dextrose 葡萄糖）",
+   "anchor": "I can hold sugar in either hand. I’m ambidextrose.",
+   "start": 801,
+   "end": 851
+  },
+  {
+   "fact": "甜瓜坚持在教堂结婚，因为它们 cantaloupe：can’t elope（不能私奔）同音",
+   "anchor": "Why do melons insist on traditional church weddings? Because they cantaloupe.",
+   "start": 1104,
+   "end": 1181
+  },
+  {
+   "fact": "玉米饼电影拍完了，说 That’s a wrap：wrap 兼指“收工”与“卷饼”",
+   "anchor": "They’ve just finished shooting Tortilla: The Movie. That’s a wrap!",
+   "start": 1272,
+   "end": 1338
+  },
+  {
+   "fact": "两根香肠在锅里聊天，第二根惊讶的不是热而是“香肠会说话”：元笑话，把荒诞点放在错的地方",
+   "anchor": "Two sausages are sizzling in a pan. One says, ‘Wow, it’s hot in here!’ The other says, ‘WHOA! A TALKING SAUSAGE!’",
+   "start": 2131,
+   "end": 2244
+  },
+  {
+   "fact": "谁的奶酪？nacho cheese 听起来像 not your cheese（不是你的）",
+   "anchor": "What cheese is someone else’s? Nacho cheese!",
+   "start": 2922,
+   "end": 2966
+  },
+  {
+   "fact": "哪种奶酪是倒着做的？Edam 倒过来拼就是 made",
+   "anchor": "What cheese is made backwards? Edam.",
+   "start": 2811,
+   "end": 2847
+  }
+ ]
+}
