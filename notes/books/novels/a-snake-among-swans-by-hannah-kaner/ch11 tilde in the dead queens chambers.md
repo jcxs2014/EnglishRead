@@ -85,27 +85,17 @@ modified: "2026-10-31"
 
 **读者视角提示**：as if 是蒂尔德的推测，不是事实——原文只说她「像是」没见过。这点暧昧别急着定性：可以读成羞怯，也可以读成别的（推断）。
 
-> **原句 8:** "That rankled. It had not been so long since women were kings here, since they spoke the law and held it. Yet in this world of the Wing it was as if we had never existed."
-
-**中文理解**：那句话扎人。这里女人做王的日子并不算久远，她们曾口述律法、执掌律法；可在这个 Wing 的世界里，仿佛她们从未存在过。
-
-**关键词**：`That rankled`（那句话扎人） / `women were kings here`（女人曾在此做王） / `spoke the law and held it`（口述律法并执掌它） / `as if we had never existed`（仿佛我们从未存在）
-
-**为什么这样写**：三句三个时间层：现在（扎人）、不久前（女人做王）、如今（仿佛从未存在）。not so long 这个说法把整段历史压扁——不是远古，是「不算太久」，所以抹除才显得下作。最后那个 we 既是 Merogia 的女人，也是她自己；她把「失礼」这笔账从自己身上挪回征服者身上。
-
-**读者视角提示**：「That」指紧接上文 Elise 那句要拿传统衣服补上她「在庭上的失礼」（同段前文）。Wing 是国教，swan 是王家旗徽，两个符号在这一章反复合流。
-
-> **原句 9:** "Such a curious creature. My mother had resisted being supplanted by a ducal chosen by Liran in the name of a peaceful transition to Cynghal rule. He had allowed it, but I imagined if a man or woman came, and wore her clothes, her rings, I would have wanted to put out their eyes."
+> **原句 8:** "Such a curious creature. My mother had resisted being supplanted by a ducal chosen by Liran in the name of a peaceful transition to Cynghal rule. He had allowed it, but I imagined if a man or woman came, and wore her clothes, her rings, I would have wanted to put out their eyes."
 
 **中文理解**：真是个奇怪的造物。她母亲当年抗拒被 Liran 指派的公爵取代，名义是「和平过渡到 Cynghal 治下」。他准了；可换了她，若有人来穿她的衣服、戴她的戒指，她会想挖掉那人的眼睛。
 
 **关键词**：`Such a curious creature`（真是个奇怪的造物） / `being supplanted`（被取代） / `a peaceful transition`（一次和平过渡） / `put out their eyes`（挖掉他们的眼睛）
 
-**为什么这样写**：从「好奇」跳到「挖眼睛」，中间只隔一个假设。作者先让共情成立——curious creature，再用母亲的历史把它打断：她设身处地想的不是 Elise，是自己的母亲。a peaceful transition 是官方辞令，被放进一个被取代者的女儿嘴里嚼了一遍，味道就变了。这一块也解释了婚纱为什么烫手：穿它的人不是新娘，是占位的人。
+**为什么这样写**：从「好奇」跳到「挖眼睛」，中间只隔一个假设。作者先让共情成立——curious creature，再用母亲的历史把它打断：她设身处地想的不是 Elise，是自己的母亲。a peaceful transition 是官方辞令，被放进一个被取代者的女儿嘴里嚼了一遍，味道就变了。这一块也解释了婚纱为什么烫手：穿它的人不是新娘，是占位的人。她前面刚记下这地方女人做王的日子并不算久远，母亲的遭遇就是那句「不算久远」的注脚——被取代的从来不只是一个人，是一整套资格。
 
 **读者视角提示**：「他准了」的他是 Liran（同段前文）。这里像是在说，蒂尔德对 Elise 的敌意其实是替母亲发的（推断）；原文只写她 imagined。
 
-> **原句 10:** "It had been kept here for the new queen. For me. And Elise had been ordered to serve her mother’s replacement before she was truly finished mourning."
+> **原句 9:** "It had been kept here for the new queen. For me. And Elise had been ordered to serve her mother’s replacement before she was truly finished mourning."
 
 **中文理解**：（上一句是她的断定：这是已故 Isabella 的寝殿。）这根绳是为新王后留在这儿的。为她。而 Elise 是奉命来伺候母亲的替代者的，那时她还没真正服完丧。
 
@@ -113,9 +103,9 @@ modified: "2026-10-31"
 
 **为什么这样写**：三个短句，一句比一句短，最后只剩两个词 For me——句子的缩短就是她明白过来的过程。前面所有物件在这里结算：绳、书、房间的整洁，全是给下一位王后预备的。最后一笔落在 Elise 身上：被派来的人自己也在丧期里，作者把两个人的处境并排放了一次，不评论。
 
-**读者视角提示**：这一块回答了上一块那根绳为什么「像一个问题，也像一句警告」。Elise 的敌意从此有了第二种解释：她不是来羞辱新娘的，是被派来的。
+**读者视角提示**：这一块回答了第 2 块那根绳为什么「像一个问题，也像一句警告」。Elise 的敌意从此有了第二种解释：她不是来羞辱新娘的，是被派来的。
 
-> **原句 11:** "Its sleeves were an older style, made to hang narrowly at the elbow and show the wrists, and the cut and fabric was so close and fine that it would show my whole body beneath it, every slip and curve. A presentation for my betrothed."
+> **原句 10:** "Its sleeves were an older style, made to hang narrowly at the elbow and show the wrists, and the cut and fabric was so close and fine that it would show my whole body beneath it, every slip and curve. A presentation for my betrothed."
 
 **中文理解**：它的袖子是旧式样，窄窄地垂到肘部，露出腕子；剪裁与料子又贴又细，会把她整个身体透出来，每一处滑动和曲线。这是给未婚夫看的一件展示品。
 
@@ -125,7 +115,7 @@ modified: "2026-10-31"
 
 **读者视角提示**：这件衣服是死人穿过的，章末还会被比作裹尸布、警告和翅膀，三个比喻一件比一件轻，也一件比一件难脱。注意她说的是 my betrothed，不是 my husband——婚还没结。
 
-> **原句 12:** "‘Tuathilde,’ warned Marolyn as Hadiah stepped back, looking between us. I went to the window, breathing in to settle my nerves, stuff down my emotions, cut off my mother’s sprouting doubt. I had spent so long confronting the knowledge that I must die, that I had never considered what would happen if I lived."
+> **原句 11:** "‘Tuathilde,’ warned Marolyn as Hadiah stepped back, looking between us. I went to the window, breathing in to settle my nerves, stuff down my emotions, cut off my mother’s sprouting doubt. I had spent so long confronting the knowledge that I must die, that I had never considered what would happen if I lived."
 
 **中文理解**：玛洛琳喊了一声「Tuathilde」，哈迪亚退开，看看她们两个。她走到窗边，吸气稳住神经，把情绪压下去，把母亲那点正在发芽的怀疑割掉。她花了那么久去面对「我必须死」这件事，从没想过万一她活下来会怎样。
 
@@ -133,9 +123,9 @@ modified: "2026-10-31"
 
 **为什么这样写**：三个动作连成一串指令：吸气、压住、割掉，一个比一个狠，像她在给自己下命令。sprouting doubt 把母亲的怀疑写成会发芽的东西，必须割，不然会长。最后一句才是全章的枢轴：她准备了这么久的死，从没准备过活，前面所有的勇气都建立在「不会发生」上。
 
-**读者视角提示**：Marolyn 这里只喊了一个词，她的全名——是拦阻，也是把她从「王后」叫回一个人。窗口这个位置不是随便选的：这一章里她两次走到窗边，另一次在看见那个「Us」的时候。
+**读者视角提示**：Marolyn 这里只喊了一个词，她的全名——是拦阻，也是把她从「王后」叫回一个人。窗口这个位置不是随便选的：她不是第一次把目光交给窗外，上一次正是在吐出那个「Us」的时候。
 
-> **原句 13:** "I tightened my hand around hers, tears rising to my eyes, then spilling over. My thoughts were in tangles, doubts and hopes and fury breaking my heart into pieces. I had not thought Hadiah strong enough to bear this, and I was wrong."
+> **原句 12:** "I tightened my hand around hers, tears rising to my eyes, then spilling over. My thoughts were in tangles, doubts and hopes and fury breaking my heart into pieces. I had not thought Hadiah strong enough to bear this, and I was wrong."
 
 **中文理解**：她把她的手握紧，眼泪涌上来，然后掉下去。她的念头乱成一团，怀疑、指望和怒气把她的心掰成几块。她原以为哈迪亚扛不住这件事，她错了。
 
