@@ -1,0 +1,85 @@
+{
+  "chapter": "ch43",
+  "pov": "第一人称（Tris/崔丝叙述），现在时",
+  "facts": [
+    {
+      "event": "崔丝对克里斯蒂娜说，她练针枪是因为自己天生擅长；她射下一针时不用看就知道这一针正中靶心。",
+      "who": "I",
+      "receivers": "Christina, the next needle, the board",
+      "start": 1158,
+      "end": 1433,
+      "text": "“I think it’s because I’m good at it,” I say to Christina, and I fire the next needle. I can feel that this one is right before I even look at where it hit the board. Right in the middle. It feels simple and clear when I do it right. It’s doing it wrong that feels confusing."
+    },
+    {
+      "event": "狐狸们没有开除克里斯蒂娜，而是把她转去做秘密行动训练；她如今潜入无声，崔丝没听见她进来。",
+      "who": "they (the Foxes)",
+      "receivers": "her (Christina)",
+      "start": 1984,
+      "end": 2230,
+      "text": "But they haven’t kicked her out. Instead they’ve switched her over to covert training. Not all Foxes have to be good actors—some of them just have to be good at sneaking around. And she seems to be getting good at that. I didn’t hear her come in."
+    },
+    {
+      "event": "克里斯蒂娜汇报她的测试成绩：没被察觉就扒了一名博学派成员的口袋，偷出一副金属丝框眼镜。",
+      "who": "she (Christina)",
+      "receivers": "an Erudite, a pair of glasses",
+      "start": 2235,
+      "end": 2359,
+      "text": "“Not bad,” she says. “I picked an Erudite’s pocket without him realizing it.” She holds up a pair of glasses with wire rims."
+    },
+    {
+      "event": "崔丝与克里斯蒂娜带着食物和水去 Hub，为科林通过治疗师公会入学测试庆祝，他将受训成为医护兵。",
+      "who": "We / Christina",
+      "receivers": "Colin",
+      "start": 2700,
+      "end": 2980,
+      "text": "We leave the Museum and walk to the Hub. Christina has a backpack stuffed with food, and I have the water. The Hub isn’t far from us, and Christina said she had a surprise for us, to celebrate Colin passing the entrance test for the Healers Guild. He’ll be training to be a medic."
+    },
+    {
+      "event": "罗瑞得意地展示她从一名诚实派医院管理者的办公室里偷来的棕色烈酒，当时那人就在走廊上。",
+      "who": "she (Rory)",
+      "receivers": "the office of a Candor hospital administrator, a bottle of brown liquor",
+      "start": 4442,
+      "end": 4581,
+      "text": "“This,” she says triumphantly, “I stole from the office of a Candor hospital administrator, even though he was right there in the hallway!”"
+    },
+    {
+      "event": "科林从克里斯蒂娜手里拿过酒瓶、拔开软木塞放到圈子中央，说自己在派系入门中失败了。",
+      "who": "He (Colin)",
+      "receivers": "the bottle, Christina, our little circle",
+      "start": 6107,
+      "end": 6275,
+      "text": "He takes the bottle from Christina and pops the cork out of it. Then he sets it in the middle of our little circle and says,\n“I . . . failed out of faction initiation.”"
+    },
+    {
+      "event": "科林惊问：崔丝说的“Four”是不是她的前教官、曾从 Jove 手里一把夺下枪的那个 Four。",
+      "who": "Colin",
+      "receivers": "Four (your ex-instructor)",
+      "start": 9871,
+      "end": 9990,
+      "text": "“Four? You mean your ex-instructor Four?” Colin says. “The guy who took that gun right out of Jove’s hands, that Four?”"
+    },
+    {
+      "event": "崔丝领悟：她没有把自己任何一部分交出去；她是完整的自己、是自由的，归属是她自己凿出来的位置。",
+      "who": "I",
+      "receivers": "myself, a place for myself",
+      "start": 11750,
+      "end": 11934,
+      "text": "I haven’t given any part of myself away. I’m the whole me, and I’m free, and I belong because I’ve carved out a place for myself instead of waiting for someone else to let me into one."
+    }
+  ],
+  "relations": [
+    "崔丝与克里斯蒂娜是“狐狸”（the Foxes，无派系者）同伴，同在博物馆后厅的射击靶场练枪、并继续接受狐狸的训练。",
+    "克里斯蒂娜因太容易被记住，被狐狸们从伪装训练改派去接受秘密行动（covert）训练，但并没有被开除。",
+    "科林通过治疗师公会（the Healers Guild）的入学测试，将受训成为医护兵（medic）；罗瑞、克里斯蒂娜、崔丝在 Hub 顶层为他举杯庆祝。",
+    "科林是诚实派（Candor）出身、未能通过本派入门的人，转投无畏派；他在真心话游戏里承认“failed out of faction initiation”。",
+    "崔丝与老四（Four/Tobias）的关系被同伴当场点破：克里斯蒂娜说曾与无畏派男孩亲热后，崔丝也喝了酒，科林随即问出“Four”。"
+  ],
+  "numbers": [
+    "“one hundred and eight stories” — 罗瑞说没人想徒步爬 108 层楼。",
+    "“one hundred stories above the ground” — 罗瑞调侃在一百层楼高处喝烈酒。",
+    "“age ten” — 崔丝说无派系者不是十岁就从课本里学那件事。",
+    "“the third day of initiation” — 罗瑞说那男孩在入门第三天说了那句话，她就动手了。",
+    "“One round, that’s all I ask” — 科林只要求玩一轮。",
+    "“Four” — 老四的绰号，崔丝的前教官；科林用“that Four?”确认是他。"
+  ]
+}
