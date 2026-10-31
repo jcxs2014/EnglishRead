@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch43",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch43_chapter_forty_three_tilde.txt",
+ "facts": [
+  {
+   "fact": "Nefka 屠尽 Widdin 旧议会并焚城",
+   "anchor": "slaughtered Widdin’s old council",
+   "start": 277,
+   "end": 309
+  },
+  {
+   "fact": "她回他：我不是男人，我会把恨带过坟墓",
+   "anchor": "I am not a man",
+   "start": 2270,
+   "end": 2284
+  },
+  {
+   "fact": "Odon 要她只管生下肥胖结实的王子",
+   "anchor": "Stay in your rooms, do your job",
+   "start": 5262,
+   "end": 5293
+  },
+  {
+   "fact": "他们把异教巨柱砍倒、填平坟墓",
+   "anchor": "We cut down the great heathen pillar",
+   "start": 9330,
+   "end": 9366
+  },
+  {
+   "fact": "他把不肯低头的领主一家活埋并架起铁栏",
+   "anchor": "laid bars of iron above their heads",
+   "start": 10450,
+   "end": 10485
+  },
+  {
+   "fact": "她当面说出自己怀着王的孩子",
+   "anchor": "carrying your king’s child",
+   "start": 12132,
+   "end": 12158
+  },
+  {
+   "fact": "旧王陵地下仍有树根",
+   "anchor": "the roots of the wood were still there",
+   "start": 15503,
+   "end": 15541
+  },
+  {
+   "fact": "她不必进林子，林子已在宫里",
+   "anchor": "The forest was already here",
+   "start": 15637,
+   "end": 15664
+  }
+ ]
+}
