@@ -1,0 +1,76 @@
+{
+  "chapter": "ch60",
+  "pov": "第一人称（Tris / Beatrice 自述），现在时",
+  "facts": [
+    {
+      "event": "Tris 凝视 Tobias 的眼睛，觉得那像日落后仍是深蓝的夜空，也像她想象中阳光几乎透不进去的深海的深处。",
+      "who": "Tobias",
+      "receivers": "his eyes / me (the narrator)",
+      "start": 40,
+      "end": 240,
+      "text": "Tobias’s eyes are so dark. Like the night sky after sunset, when it’s still a deep blue. Like how I imagine the deeper parts of the ocean look, so far from the sun that its light only just penetrates."
+    },
+    {
+      "event": "Tobias 对她说「没关系」；Tris 明白他的意思是：可以拒绝做这个选择、可以让哥哥去做他认为必须做的事、可以像刚才在模拟里那样让出控制。",
+      "who": "he (Tobias)",
+      "receivers": "me (Tris)",
+      "start": 334,
+      "end": 621,
+      "text": "“It’s okay,” he tells me, and I know what he means. It’s okay to refuse to make this choice. It’s okay to let my brother do what he thinks he has to. It’s okay to give in, the way I just did in the fear simulation. There’s nothing you can do. Sometimes it’s all right to give up control."
+    },
+    {
+      "event": "Tris 发现这里其实有她能做的事：心跳虽快、几乎喘不上气，双手仍稳稳握着枪，她记得枪的重量、也知道开火后如何抵住后坐力。",
+      "who": "I",
+      "receivers": "the gun",
+      "start": 626,
+      "end": 851,
+      "text": "Only there is something I can do here. Even though my heart is racing, even though I can barely breathe, my hands are steady on the gun. I remember its weight and I know how to brace myself against the kickback once it fires."
+    },
+    {
+      "event": "Tris 把注意力放在她能看见的那一线 Caleb 身上：头发梳向脑后、蓝衬衫，那个总先想到别人的哥哥、模范的 Abnegation 男孩。",
+      "who": "I",
+      "receivers": "Caleb / my brother",
+      "start": 947,
+      "end": 1141,
+      "text": "I focus, then, on the sliver of Caleb that I can see. His hair slicked back, his blue shirt. My brother, who always thought of everyone else before himself. My brother, the model Abnegation boy."
+    },
+    {
+      "event": "Tobias 闭上眼、低下头；在他让出的空隙里，Tris 看见哥哥的脸，并发现这个选择并非不可能。",
+      "who": "Tobias / I",
+      "receivers": "his eyes / my brother’s face",
+      "start": 1363,
+      "end": 1504,
+      "text": "Tobias closes his eyes and his head drops, and in the space he creates, I see my brother’s face, and I discover the choice is not impossible."
+    },
+    {
+      "event": "Tris 闭上眼，却仍听见：一具身体重重倒在地板上的声音，以及武器落在石头上的脆响。",
+      "who": "I",
+      "receivers": "the sound / Caleb’s body / the weapon",
+      "start": 1521,
+      "end": 1652,
+      "text": "I close my eyes, but I still hear it. The sound of a body falling heavy to the floor. The clatter of a dropped weapon on the stone."
+    },
+    {
+      "event": "有双手抓住 Tris 的手臂，握得轻；她睁眼看见 Tobias 站在她面前，占满她整个视野。",
+      "who": "Tobias",
+      "receivers": "my arms / me",
+      "start": 1692,
+      "end": 1814,
+      "text": "There are hands on my arms. Gripping me. Gentle. I open my eyes to see Tobias standing in front of me. He’s all I can see."
+    },
+    {
+      "event": "抽泣在 Tris 喉间响到一半变成尖叫；Tobias 的手轻放在她后脑，停下脚步任她叫，任她把他的夹克抓得指节发疼、再叫一次。",
+      "who": "I",
+      "receivers": "his jacket / my knuckles",
+      "start": 2804,
+      "end": 3042,
+      "text": "A sob breaks in my throat. Halfway through, it turns into a scream. Tobias’s hand is gentle on the back of my head. He stops walking and lets me scream. Lets me grab fistfuls of his jacket, so tight it hurts my knuckles, and scream again."
+    }
+  ],
+  "relations": [
+    "Caleb 是 Tris 的亲哥哥：她曾把他看作总先想到别人的模范 Abnegation 男孩，此刻他却是逼她做不可能选择的人。",
+    "Caleb 把 Tobias 挡在身前当盾牌、枪口抵着他的头；Tobias 因此选择退让，让 Tris 不必对他下手。",
+    "转折点：Tris 违逆「放弃控制」的诱惑开枪；Caleb 倒地身亡，Tobias 拿走她的枪、用手捂住她的眼睛，带她走出隧道。"
+  ],
+  "numbers": []
+}
