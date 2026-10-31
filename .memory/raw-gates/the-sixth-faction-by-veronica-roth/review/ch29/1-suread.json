@@ -1,0 +1,81 @@
+{
+  "chapter": "ch29",
+  "pov": "第一人称（Four）· 现在时",
+  "facts": [
+    {
+      "event": "Four 不想在医院过夜，但 Shauna 威胁说他不答应就把她锁在里面，他其实别无选择，只能留下。",
+      "who": "I",
+      "receivers": "the night at the hospital",
+      "start": 40,
+      "end": 174,
+      "text": "I don’t want to spend the night at the hospital, but Shauna threatens to lock me in if I don’t agree, so I don’t really have a choice."
+    },
+    {
+      "event": "这倒成了好事：Four 听出是 Evelyn 的脚步——轻得不像护士、医生，也不像 Dauntless；她推门进屋、随手关门，他并不吃惊。",
+      "who": "I",
+      "receivers": "Evelyn",
+      "start": 362,
+      "end": 587,
+      "text": "It works out, though, because I hear Evelyn coming. The creep of her footsteps is too quiet for a nurse or a doctor—or a Dauntless, for that matter. I’m not startled when she steps into my room and closes the door behind her."
+    },
+    {
+      "event": "Evelyn 靠门坐下；她今天装扮成 Amity：红裙、披发，好让他在医院里走动时不引人注意——她换阵营像换戏服。",
+      "who": "She",
+      "receivers": "a red dress",
+      "start": 834,
+      "end": 1017,
+      "text": "Evelyn slumps back against the door. She’s dressed as an Amity today, in a red dress, her hair down—probably makes it easier to walk through the hospital without attracting attention."
+    },
+    {
+      "event": "Evelyn 说 John——那个妹妹被 Four 救下的男人——把 Four 为他做的事都告诉了她：既指冒险救人，也指他出面挡下他们的母亲。",
+      "who": "she",
+      "receivers": "what you did",
+      "start": 1412,
+      "end": 1581,
+      "text": "“John—that’s the man whose sister you saved—told me what you did for him,” she says. “Both your daring rescue and your intervention on his behalf, against their mother.”"
+    },
+    {
+      "event": "Evelyn 承认对 Tris 说了实话：她本意只是造足够的烟作掩护，火却失控了——这是本章的转折（纵火者自陈动机）。",
+      "who": "she",
+      "receivers": "the truth",
+      "start": 2054,
+      "end": 2199,
+      "text": "“I told her the truth,” she says levelly, “which is that my intention was only to create enough smoke for a diversion. The fire got out of hand.”"
+    },
+    {
+      "event": "Four 讥讽地追问：那人那天恰好在楼里，难道与放火无关？他不接受“纯属意外”的说法。",
+      "who": "I",
+      "receivers": "the building",
+      "start": 2204,
+      "end": 2302,
+      "text": "“Oh, I’m sure. And the fact that he was in the building that day, that had nothing to do with it.”"
+    },
+    {
+      "event": "Four 不回答，因为他自己也不确定：他希望母亲不是会为杀一个人而烧掉整栋楼的人，希望她顾全大局，但他学到的教训是想相信一件事并不使它成真。",
+      "who": "I",
+      "receivers": "my mom",
+      "start": 2409,
+      "end": 2681,
+      "text": "I don’t answer, because the truth is, I’m not sure. I want to think my mom isn’t someone who would burn a building just to kill one man. I want to think she cares about the greater good. But I’ve learned the hard way that wanting to believe something doesn’t make it true."
+    },
+    {
+      "event": "Four 喘匀后回她：这事与那个人无关；她以为有关，正说明她多么不了解他——母子间的隔阂在此定形。",
+      "who": "I",
+      "receivers": "him",
+      "start": 2934,
+      "end": 3071,
+      "text": "“This isn’t about him,” I say, when I can finally breathe easily again. “And the fact that you think it is shows how little you know me.”"
+    }
+  ],
+  "relations": [
+    "Evelyn 是 Four 的母亲，也是那场火的实际点火者；她自称只为制造烟幕，火势失控。",
+    "Four 救了 John 的妹妹 Mae，并挡下他们的母亲，因而被 John 视为恩人；Evelyn 由此知道儿子做了什么。",
+    "Four 与 Evelyn 的母子关系紧绷：他同时感到惯常的怒、失去的痛与深深的宽慰，却怀疑她为威胁一个男人不惜烧楼。",
+    "Evelyn 几小时前刚与 Tris 谈过；Tris 已怀疑她纵火，Evelyn 对她说了“实话”。"
+  ],
+  "numbers": [
+    "a few hours ago — Evelyn 说“I spoke to her a few hours ago”",
+    "one man — “burn a building just to kill one man”",
+    "that many lives — “put that many lives at risk”"
+  ]
+}
