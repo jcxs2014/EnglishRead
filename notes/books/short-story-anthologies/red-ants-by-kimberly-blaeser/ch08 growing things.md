@@ -18,7 +18,7 @@ modified: "2026-10-31"
 
 **中文理解**：她觉得很难直视那个男人的眼睛，于是用脚趾拨弄着小石块，一边分心找化石。她不时抬头看看那棵老橡树——七十五到一百年树龄，他告诉她的。因为不了解土壤、气候和虫害情况，她请来了这位树木医生。
 
-**关键词**：hard to meet the man’s eyes / turning small rocks / old oak / arborist
+**关键词**：hard to meet the man’s eyes / turned small rocks over / old oak / arborist
 
 **为什么这样写**：开篇用「不敢直视 + 用脚趾拨石头」的细节写 Spanish 的回避型性格——她熟悉石头和树，却不习惯人；老橡树的年龄立刻赋予这棵树时间深度，让它值得等待。
 
