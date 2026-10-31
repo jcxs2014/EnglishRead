@@ -98,7 +98,19 @@ modified: "2026-10-31"
 
 **表达方式**：youse 是方言化的「你们」，让表哥的底层口音带着威压；out of it 是口语化的「不清醒」，恰恰否定她此刻异常清醒的事实。
 
-> **原句 8:** "10 Ten little, nine little, eight little—like the classroom rhyme they taught us. A countdown—a song unmaking ind’ins."
+> **原句 8:** "7 Seven seconds—this is how long it takes me to bend, squeeze her hand, and whisper, “Almost there. You’ve got this.”"
+
+**中文理解**：七秒——这就是我弯下腰、捏紧她的手、低声说「快到了，你可以的」所需要的全部时间。
+
+**关键词**：Seven seconds / bend / squeeze her hand / Almost there. You’ve got this
+
+**为什么这样写**：表哥在用语言改写她的记忆，她却在用身体传递真实——七秒的精确计时延续了全篇的计数框架，但这一次数字不是逃避，而是抵抗：她把倒计时变成了给朋友的补给站。
+
+**句子结构**：破折号前的数字与破折号后的动作清单（bend → squeeze → whisper）把一个瞬间拆成可数的步骤，冷静的计时口吻裹着滚烫的内容。
+
+**表达方式**：Almost there 一语双关——既是撤离快要完成，也是「我们快要活下来了」；You've got this 是此刻全篇唯一一句不加引述装饰的鼓励。
+
+> **原句 9:** "10 Ten little, nine little, eight little—like the classroom rhyme they taught us. A countdown—a song unmaking ind’ins."
 
 **中文理解**：十个小，九个小，八个小——像教室里教我们的童谣。一场倒计时——一首正在拆解我们的歌。
 
