@@ -1,0 +1,82 @@
+{
+  "chapter": "ch37",
+  "pov": "第一人称（Tris 视角）+ 一般过去时",
+  "facts": [
+    {
+      "event": "在 Dauntless 的模拟室里，Four 把手伸进那团假火中，让 Tris 对着缠在他手上的「火」先做自我介绍。",
+      "who": "he (Four)",
+      "receivers": "you (Tris)",
+      "start": 966,
+      "end": 1092,
+      "text": "“Aren’t you going to introduce yourself?” he asks, nodding to the convincing imitation of fire that’s wrapped around his hand."
+    },
+    {
+      "event": "Four 先警告 Tris：模拟一旦启动，她不面对自己的恐惧就出不来，而且过程令人痛苦，连他这旁观者有时都受不了。",
+      "who": "he (Four)",
+      "receivers": "me (Tris)",
+      "start": 1387,
+      "end": 1601,
+      "text": "“Are you sure you want to do this?” he asks me. “Once I initiate the simulation, you won’t be able to escape it until you face your fear. And it’s . . . distressing. Even for me, sometimes, and I’m just observing.”"
+    },
+    {
+      "event": "模拟开始：Tris 面前出现一张桌子，桌上放着一把枪；她父亲站在对面，脸色苍白、冷汗黏腻、惊恐万分，双手被绳子捆在身前。",
+      "who": "my father / a single gun",
+      "receivers": "me (Tris)",
+      "start": 1938,
+      "end": 2160,
+      "text": "Then a table appears in front of me, and on it is a single gun, pointed away from me. My father stands across from me. He looks pale and sick, clammy with sweat and terrified. His hands are bound in front of him with rope."
+    },
+    {
+      "event": "Weaver 手里那把抵着 Tris 太阳穴的枪不是针枪：更大、更沉、没有发光条纹，装的是实弹，与桌上那把一样致命。",
+      "who": "this gun (Weaver’s)",
+      "receivers": "me (Tris)",
+      "start": 2365,
+      "end": 2523,
+      "text": "It’s not a needle gun. This one is bigger, more solid. No luminous stripe. No—this gun is full of lethal ammunition, like the one on the table in front of me."
+    },
+    {
+      "event": "Weaver 没有开枪，而是恼火地把枪从 Tris 头上扯开，绕到桌子对面，把 Tris 的父亲挡在她与自己之间，改为用枪指着他后脑。",
+      "who": "she (Weaver)",
+      "receivers": "my father / me (Tris)",
+      "start": 3440,
+      "end": 3657,
+      "text": "But instead of shooting me, she yanks her weapon away from my head with a frustrated noise and walks around the table to my father. She puts him between her and me, and points the gun at the back of his head, instead."
+    },
+    {
+      "event": "Tris 开枪却打偏，击中父亲肩膀，血涌出来浸透他的衬衫；Weaver 随即朝她父亲后脑开枪，他眼睛像玩偶一样空掉、嘴松垮地张开，随即倒下。",
+      "who": "I (Tris) / Weaver",
+      "receivers": "my father",
+      "start": 4557,
+      "end": 4807,
+      "text": "I fire, but my aim is off. I hit my father in the shoulder, and blood gushes from the wound, spreading over his shirt. Weaver fires, too, right into the back of my father’s head. His eyes turn empty as a doll’s, and his mouth drops open, slack-jawed."
+    },
+    {
+      "event": "Tris 突然明白症结所在：她敢让那女人开枪，真正的理由是她知道模拟不是真的——因为她是 Divergent；这个真相她没告诉 Four。",
+      "who": "I (Tris)",
+      "receivers": "that woman (Weaver) / Four",
+      "start": 7448,
+      "end": 7623,
+      "text": "I realize, suddenly, what the problem is. My real explanation for telling that woman to go ahead and shoot me is that I knew the simulation wasn’t real. Because I’m Divergent."
+    },
+    {
+      "event": "Four 说「Come back sometime」，抽身离开时嘴唇正贴着她的下颌边缘移动。",
+      "who": "he (Four)",
+      "receivers": "me (Tris)",
+      "start": 11043,
+      "end": 11156,
+      "text": "“Come back sometime,” he says, before he pulls away. I can feel his lips moving right against the edge of my jaw."
+    }
+  ],
+  "relations": [
+    "Four 是 Dauntless 的恐惧模拟观察员，带 Tris 进入模拟室并全程观察她的恐惧模拟。",
+    "模拟中的施暴者是穿 Dauntless 制服的女人 Weaver（眉骨穿孔、喉部有纹身），受事是 Tris 与她的父亲。",
+    "Tris 是 Divergent：她明知模拟不真实，仍对 Weaver 说「你不会开枪」，并用「我死了她就达不到目的」把真实原因瞒过 Four。",
+    "Four 与 Tris 达成口头约定：她不再试图劝他脱离 factionless，他则相信她做事有自己的理由。",
+    "Four 承认「我几乎信任你」，并在她颧骨上落下一吻，要她以后再来。"
+  ],
+  "numbers": [
+    "Five / Four / Three / Two / One（Weaver 的倒计时，原文逐字为 “Five,” “Four.” “Three,” “Two.” “One.”）",
+    "a single gun（桌上唯一一把枪，枪口朝外）",
+    "a single bulb（头顶唯一一盏灯泡，Four 最后消失在其光下）"
+  ]
+}
