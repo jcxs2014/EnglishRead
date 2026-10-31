@@ -147,7 +147,7 @@ modified: "2026-10-31"
 
 **关键词**：accurately and scrupulously / nearest buried treasure / Yorkshire moors / an hour of my life
 
-**为什么这样写**：作者让一个十六岁的学生背下一次性的契约条款，而且背得很像样：accurately and scrupulously 是一份听起来郑重的要求，a gift of my energy equal to an hour of my life 则是被压进日常计量单位（一个小时）的代价。作者还特意让菲丝在旁追问一句价格——把交易从仪式拉回算账。
+**为什么这样写**：作者让一个 Upper Sixth 的学生背下一次性的契约条款，而且背得很像样：accurately and scrupulously 是一份听起来郑重的要求，a gift of my energy equal to an hour of my life 则是被压进日常计量单位（一个小时）的代价。作者还特意让菲丝在旁追问一句价格——把交易从仪式拉回算账。
 
 **读者视角提示**：读者会在「一小时」这里停一下：听起来很便宜；然后想起刚才那本书说过「被绑着的时候死去是坏主意」，便宜的感觉就开始变质。
 

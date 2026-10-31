@@ -7,19 +7,19 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-**一句话概括**：校长把新来的拉丁文教师芬带进教工室，一屋子同事用闲话、吹嘘和互相拆台的方式围着她转——有人在背后打量她，有人在她眼前掩饰，有人在她看不见的地方藏着一把枪；女孩们随即用抓钩砸碎教工室的窗户、往里扔瓶子，芬第一次出手回击，也第一次听见校长把管理学生说成「驯狮」。
+**一句话概括**：校长把新来的拉丁文教师芬带进教工室，一屋子同事用闲话、吹嘘和互相拆台的方式围着她转——有人在背后打量她，有人在她眼前掩饰，有人若无其事地把一把小手枪塞回手提包；女孩们随即用抓钩砸碎教工室的窗户、往里扔瓶子，芬第一次出手回击，也第一次听见校长把管理学生说成「驯狮」。
 
 **情感弧线位置**：从「被端上台面介绍」到「在陌生同事间当隐形人」再到「第一次面对暴力的实感」——本该是职场新人的普通一天，落点却是一次实打实的袭击。压住恐惧的不是勇气，而是芬心里那句「她喜欢发现秘密」：好奇心比怕更先把钉子钉住。
 
 **Tropes 兑现/反转**：
-- 「女校日常」troper 的**兑现方式**：日常不是课程表，而是同事之间交换前一位老师的死因、拿人体当成楼梯扶手装饰、墙外的女孩随时准备砸窗。
+- 「女校日常」troper 的**兑现方式**：日常不是课程表，而是同事之间打听前一位老师为何突然离开、墙角一幅《屠杀无辜者》的复制品、墙外的女孩随时准备砸窗。
 - 「可疑的导师」troper 的**部分兑现**：校长在袭击之后没有惊怒，而是给出「像驯狮一样」的管理说明，把暴力纳入校规。
 - 「胆小的新教师」troper 的**反转**：真正出手的是芬自己——她抓起一只靠垫砸回窗口，把玻璃瓶打翻在地。
-- 「黯淡无奇的最危险的人」troper 的**兑现**：现代语言老师史密斯森把自己形容得毫无记忆点（连他领带条纹朝哪边都记不住），却正是他最先动手把女孩打落、也是他一路给芬通风报信的人。
+- 「黯淡无奇的最危险的人」troper 的**兑现**：现代语言老师史密斯森一张脸平淡到「连对警察都描述不出来」（连领带条纹朝哪边都记不住），却正是他最先动手把女孩打落、也是他一路给芬通风报信的人。
 
 **人物弧线**：芬——从自我介绍时急着说「叫我 Phil」的小心翼翼，到窗破时退无可退的第一次还手，再到听见校长说「你只要不把背对着那些小东西」时心里那句「像驯狮」；她没有走，但走的念头已经具体到「去当 waitress 或 shop assistant，或者回家照看父亲」。
 
-**叙事手法**：第一人称限知＋密集直接引语。教工室里的交锋全部靠对话推进，芬的判断夹在引语之间的心理活动里（她要一个翻译、她数着人头、她把史密斯森的样貌形容成「连警察都说不出来」）。张力的来源不是事件本身，而是所有人口中的反常平静：谈前同事的死像谈天气，谈枪就像谈笔袋。
+**叙事手法**：第一人称限知＋密集直接引语。教工室里的交锋全部靠对话推进，芬的判断夹在引语之间的心理活动里（她要一个翻译、她环视整间屋子、她把史密斯森的样貌形容成「连警察都说不出来」）。张力的来源不是事件本身，而是所有人口中的反常平静：谈前同事的突然离开像谈天气，谈枪就像谈笔袋。
 
 ## 精读
 
@@ -35,7 +35,7 @@ modified: "2026-10-31"
 
 > **原句 2:** "‘But do call me Phil,’ Phil added in hasty appeasement. She still hadn’t worked out the geography of the building, but she’d taken pains to memorize where this room was. The staff room, where she would absorb the wisdom and advice of her fellow teachers, much like a bathroom potted plant picking up the drips of condensation from everyone’s showers."
 
-**中文理解**：「不过叫我 Phil 就好，」芬赶紧打圆场地补了一句。她还没摸清这栋楼的地理布局，却特意记住了这间屋子的位置——教工室，她将在那里吸收同事们的智慧与建议，活像一盆放在浴室里的盆栽，接着所有人身上滴下来的水珠。「大家下午好。我希望自己能做一个有用而多产的同事。」
+**中文理解**：「不过叫我 Phil 就好，」芬赶紧打圆场地补了一句。她还没摸清这栋楼的地理布局，却特意记住了这间屋子的位置——教工室，她将在那里吸收同事们的智慧与建议，活像一盆放在浴室里的盆栽，接着所有人身上滴下来的水珠。
 
 **关键词**：do call me Phil / hasty appeasement / the geography of the building
 
@@ -181,7 +181,7 @@ modified: "2026-10-31"
 | housekeeping | 内务，杂务管理 | Then there’s our Bursar, who doubles as head of housekeeping and manages the household staff, who keep the place clean and feed us. |
 | unarmed combat | 无器械格斗 | Netball, cricket, lacrosse, gymnastics, unarmed combat – purely for self-defence, of course, the world is so dangerous these days. |
 | detention | 留堂惩罚 | Not everyone’s present at the moment – Mrs Vaughan, our science teacher, is taking a detention for a few of her tardier pupils. |
-| qualification | 资历，资格证 | Besides which, she was going to have enough of her time taken up with Latin, as well as some home studying on teaching qualifications. |
+| qualifications | 资历，资格证 | Besides which, she was going to have enough of her time taken up with Latin, as well as some home studying on teaching qualifications. |
 | librarian | 图书管理员 | And our school librarian, Miss Telfer, is currently on compassionate leave due to her grandparent’s death. |
 | games mistress | 体育女教师 | Our games mistress. |
 
@@ -198,4 +198,4 @@ modified: "2026-10-31"
 
 ## 一句话总结
 
-校长把芬领进教工室，让一群各怀心思的同事围着她评头论足，话题始终绕着前一任拉丁文老师布伦登的死因打转；窗外砸进抓钩和玻璃瓶时，芬第一次出手反击，也第一次听见有人告诉她：这里管学生，像驯狮。
+校长把芬领进教工室，让一群各怀心思的同事围着她评头论足，话题始终绕着前一任拉丁文老师布伦登的突然离开打转；窗外砸进抓钩和玻璃瓶时，芬第一次出手反击，也第一次听见有人告诉她：这里管学生，像驯狮。

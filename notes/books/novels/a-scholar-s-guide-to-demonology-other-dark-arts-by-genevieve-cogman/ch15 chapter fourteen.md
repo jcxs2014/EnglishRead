@@ -83,7 +83,7 @@ modified: "2026-10-31"
 
 > **原句 6:** "‘Put it next to your desk and leave it alone while we’re working,’ Phil said firmly. ‘No stroking. Jupiter here is only attending the lesson till I can fix up a bed for him in my room.’"
 
-**中文理解**：Phil 让那条蛇放到自己桌边待着、上课期间不许摸，又说明 Jupiter 只上完这节课就要带回房间安顿。她心里还闪过一个念头：这条蛇会不会也是恶魔使徒；但校长说过只教高年级，所以多半只是一只宠物——真要是一只豚鼠，她反倒更担心。
+**中文理解**：Phil 让那条蛇放到自己桌边待着、上课期间不许摸，又替猫解释 Jupiter 只是暂来旁听，等房间里的窝安顿好就不再带进教室。她心里还闪过一个念头：这条蛇会不会也是恶魔使徒；但校长说过只教高年级，所以多半只是一只宠物——真要是一只豚鼠，她反倒更担心。
 
 **关键词**：Put it next to your desk / leave it alone / No stroking
 
