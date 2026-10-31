@@ -1,0 +1,55 @@
+{
+ "book": "the-sixth-faction-by-veronica-roth",
+ "chapter": "ch52",
+ "text": "notes/books/novels/the-sixth-faction-by-veronica-roth/text/ch52_chap52.txt",
+ "facts": [
+  {
+   "fact": "半队 Hemlock 从机车场往南，她跟着的另一半往北。",
+   "anchor": "Half of the Hemlocks went south from the train yard, and the other half—the half that I’m now with—went north.",
+   "start": 110,
+   "end": 220
+  },
+  {
+   "fact": "Evelyn 推开墙板，把装衣服鞋子的包挪到一边，掏出另一样东西。",
+   "anchor": "Only she just shoves it aside and takes out something else:",
+   "start": 619,
+   "end": 678
+  },
+  {
+   "fact": "那些枪是从 Dauntless 墙卫手上偷的，装子弹，不装针剂。",
+   "anchor": "stolen from the Dauntless wall guards and loaded with bullets, not needles",
+   "start": 812,
+   "end": 886
+  },
+  {
+   "fact": "她断定这一趟的目的就是杀 Marcus Eaton。",
+   "anchor": "I know where we’re going: to kill Marcus Eaton.",
+   "start": 985,
+   "end": 1032
+  },
+  {
+   "fact": "跳下车后她有个怪念头：她若想跑，Sly 会追上来。",
+   "anchor": "I have the strangest feeling that if I tried to run, she would chase me.",
+   "start": 1357,
+   "end": 1429
+  },
+  {
+   "fact": "她不用规划路线，这一片城区她熟得不能再熟。",
+   "anchor": "I don’t need to plan our route; I know this part of the city backward and forward.",
+   "start": 2129,
+   "end": 2211
+  },
+  {
+   "fact": "她认定 Marcus 光是存在着就在伤害 Tobias。",
+   "anchor": "and he hurts him just by existing",
+   "start": 3483,
+   "end": 3516
+  },
+  {
+   "fact": "月光照在 Eric 脸上的穿孔上反光。",
+   "anchor": "moonlight glinting off the piercings in his face",
+   "start": 4789,
+   "end": 4837
+  }
+ ]
+}

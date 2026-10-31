@@ -25,7 +25,7 @@ modified: "2026-10-31"
 
 **关键词**：know what to do / a crate waiting for me / fit a person inside it / the wooden lid / weapons inside
 
-**为什么这样写**：三个动作一句一拍：知道、走过去、掀开，没有一句迟疑，也没有一句解释「为什么知道」。箱子先被写成容器——big enough to fit a person inside it——尺寸先把人装了进去，然后才轮到武器；这半句在这一段里没有被用上，却悬在那儿。but 把全段唯一一次意外交出来：装人的箱子，开出来的是枪。
+**为什么这样写**：三个动作一句一拍：知道、走过去、掀开，没有一句迟疑，也没有一句解释「为什么知道」。箱子先被写成容器——big enough to fit a person inside it——尺寸先把人装了进去，然后才轮到内容物；这一句在本段没有下文，但「装得下人」这个尺寸已经说出口了。but 把全段唯一一次意外交出来：装人的箱子，开出来的是枪。
 
 **读者视角提示**：留意他「知道该做什么」这件事本身。一个刚上车的人不需要找路、不需要问人，这不是熟练，是有人替他把这一步写好了。
 
@@ -35,9 +35,9 @@ modified: "2026-10-31"
 
 **关键词**：the back of his head / black hair blowing in the wind / approval instead of hostility / patted my arm / like we’re pals
 
-**为什么这样写**：两个 never 立出一条基线：敌意才是常态。approval instead of hostility 把两种态度并排放，读者不用回忆前文也知道哪个反常。patted my arm like we’re pals 更狠——亲昵比敌意更难解释，因为它需要一个理由，而理由不在这段里。他盯着后脑勺看，而不是看脸，说明他不敢正面对视，只能从背后确认这个人变了。
+**为什么这样写**：两个 never 立出一条基线：敌意才是常态。approval instead of hostility 把两种态度并排放，哪个是默认、哪个反常，一眼看得出。patted my arm like we’re pals 更狠——亲昵比敌意更难解释，因为它需要一个理由，而理由不在这段里。他盯着后脑勺看，而不是看脸，说明他不敢正面对视，只能从背后确认这个人变了。
 
-**读者视角提示**：把这次拍肩记住。这一章里 Eric 的手会第二次落到他身上，而两次他都得站着不动；第一次他还在模拟里，第二次他得装还在。
+**读者视角提示**：赞许和亲昵同时出现在一个一贯敌意的人身上，可疑的地方不是他变好了，是这变化需要一个理由，而这段里没有。他盯着后脑勺而不是脸，也说明他自己不敢信。
 
 > **原句 3:** "I’m in a simulation, and I don’t know what kind it is. I don’t feel afraid, like I do in the fear simulations. I feel, instead, the way I did during the aptitude test."
 
@@ -57,7 +57,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：先给一个四拍的呼吸，把自己按住，再让三个分句一层层往前推：有人受伤、有人死、死的名单不止一个人。两个 if 并列，都不带答案，说明他手上的信息只够推出后果，不够推出全貌。People will die 单独成句，是这一段唯一不带条件的主句——不管她做的是哪一件，这一句都成立。
 
-**读者视角提示**：这是全章唯一一次他把母亲的名字和「会死人」放在同一句里。他没有替她辩解，也没有指控她，只把两件事摆在一起让读者自己算。
+**读者视角提示**：他把母亲的名字和「会死人」放在同一句里，没有替她辩解，也没有指控她，只把两件事摆在一起让读者自己算；先吸气再推句子的顺序，说明这句话他自己也不太想说出口。
 
 > **原句 5:** "But just like with the fire in Candor headquarters, the cost of this, whatever it is, is too high. A troop of Dauntless puppets holding stolen weapons. A troop of Dauntless puppets on their way to commit murder, if the weight of the gun in my hand is any indication."
 
@@ -67,7 +67,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：同一个短语出现两次，A troop of Dauntless puppets，第一次只挂 stolen weapons，第二次才接 on their way to commit murder——重复不是啰嗦，是把分量压到第二次上再放开。whatever it is 承认他还不清楚全貌，紧接着仍然下了判断，说明这个结论不依赖细节。if the weight of the gun in my hand is any indication 把推理落在手上：他不知道命令内容，只知道弹药多重。
 
-**读者视角提示**：注意「偷来的」这个词。武器不是发的，是偷的；这一句把整支队伍的性质改了，也把前面发枪那段重新解释了一遍。
+**读者视角提示**：注意 stolen 这个词。武器不是配发的，是偷来的；同一个句头重复两遍，第二遍才让它接上 murder——句子的重量是被重复推上去的，不是被形容词堆上去的。
 
 > **原句 6:** "That’s how the device he’s carrying is so familiar—it’s a signal repeater, like the ones that are in the wall, extending the reach of the Dauntless computer. But this one is portable. It means he can use the Dauntless computer from anywhere he wants."
 
@@ -77,17 +77,17 @@ modified: "2026-10-31"
 
 **为什么这样写**：认出发生在破折号里：前半句只说 so familiar，后半句才给名字。like the ones that are in the wall 把它接到一整套他熟悉的基础设施上——不是新发明，是老东西被改了尺寸。But this one is portable 一个转折就把设备从墙里搬了出来；最后一句不是描写，是推论的落点，from anywhere he wants 说明这场模拟不需要机房，只需要一个人背着一台机器。
 
-**读者视角提示**：这一块解释了前面那件「黑色、中心透深橙光」的东西。他到这一刻才明白，自己是被一台可以背着走的机器关住的。
+**读者视角提示**：他先认出「眼熟」，才认出名字；顺序反过来读一遍，会看出他一直在拿旧东西给新东西找位置。from anywhere he wants 这句里没有墙，也没有房间，只有一个人和他的机器。
 
-> **原句 7:** "I step out of the line of initiates, and turn to follow Will as he walks down the platform. Behind me, I can hear Eric calling out names of council members to each initiate in line. “Elizabeth Winslow! Ernest Thompson! Andrew Prior!”"
+> **原句 7:** "I wince at the sound of Andrew Prior’s name. I forgot that it’s not just my father who’s in danger here; it’s Tris’s father, too. And though I know he’s done some things to her she hates, I also know that he was her first thought when she saw Candor headquarters on fire."
 
-**中文理解**：他走出新兵的队列，转身跟着 Will 沿站台走。身后，Eric 正把议员的名字一个个喊给队列里的新兵。Elizabeth Winslow！Ernest Thompson！Andrew Prior！
+**中文理解**：听到 Andrew Prior 这个名字，他缩了一下。他忘了：身处险境的不是只有他父亲，还有 Tris 的父亲。他也知道这人做过一些她恨的事，可同样知道她看见 Candor 总部起火时，第一个想到的是他。
 
-**关键词**：the line of initiates / walks down the platform / names of council members / each initiate in line / Andrew Prior
+**关键词**：the sound of Andrew Prior’s name / not just my father / Tris’s father / things to her she hates / her first thought
 
-**为什么这样写**：三个名字用感叹号连着喊出来，像点名，也像分发任务；前面还是 names of council members 这样的公文说法，后面直接变成三声喊，抽象的词立刻有了具体的人。Behind me 是这句的位置感：他背对这一切往前走，听见了，但不能回头。名单里第三个名字没有任何铺垫，它和另外两个排在一起，被同一个语气喊出来。
+**为什么这样写**：先给一个身体反应（wince），再给理由。forgot 承认这一步是漏算的——他一直在算自己的父亲，名单上别的人是后到的。though…also 这一组不取消前一句，只把两件事并排放：她恨他，和她在火里先想到他，同时成立。句尾的 Candor headquarters on fire 把另一场火也搬进来，于是两处险境落在同一张名单上。
 
-**读者视角提示**：读这三个名字的时候慢一点。前面所有关于「代价」的计算，在这一段变成了三声喊；喊到一个名字时，他正在往另一个方向走。
+**读者视角提示**：这一块是「谁值得救」第一次松动。判断没被推翻，事实也没被抹掉，两样一起留在句子里，等他下一步自己选。
 
 > **原句 8:** "If I attacked him now, I could try to knock him out, disable him before he does any more damage. But it would take time, and the other initiates are behind me, on their own missions."
 
@@ -97,7 +97,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：两个分句都在算账：能打，但要花时间，而时间已经被分派出去了。any more damage 里的 more 承认损害已经发生过，不是还没发生。if…could…But 这个两段式把一次冲动算完就收，落点落在 it would take time 上——不是不忍心，是来不及。整段没有一个情绪词，只有一个成本判断。
 
-**读者视角提示**：他放过 Will，不是因为 Will 无辜，而是因为动手会拖住他。这一块之后，他选的路就只有「悄悄走开」这一条。
+**读者视角提示**：他放过带路的这个人，不是因为对方无辜，而是因为动手会拖住他；any more damage 里的 more 也在说，损害不是从这一刻才开始的。整段没有一句「我不想」，只有一个来不及。
 
 ## 本章词汇
 
