@@ -1,0 +1,55 @@
+{
+ "book": "a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman",
+ "chapter": "ch02",
+ "text": "notes/books/novels/a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman/text/ch02_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "出租车司机在 Grayne's 校门外停车，让 Phil 自己下车走进校门（\"You can walk from here.\"）。",
+   "anchor": "You can walk from here.",
+   "start": 1792,
+   "end": 1815
+  },
+  {
+   "fact": "Phil 推开车门、从出租车里爬出来看爆炸。",
+   "anchor": "Phil pushed open the door and scrambled out of the taxi",
+   "start": 3159,
+   "end": 3214
+  },
+  {
+   "fact": "Phil 伸手自我介绍，报出全名 Philomela Fen。",
+   "anchor": "‘Fen,’ Phil said, offering her hand, ‘Philomela Fen.’",
+   "start": 11888,
+   "end": 11941
+  },
+  {
+   "fact": "Elizabeth James 与 Phil 握手并自报姓名。",
+   "anchor": "‘Elizabeth James.’ The girl shook her hand.",
+   "start": 11944,
+   "end": 11987
+  },
+  {
+   "fact": "Elizabeth 介绍 Anne 与 Casey 是自己的两名 prefect（级长）。",
+   "anchor": "And these are Anne and Casey, two of my prefects.",
+   "start": 12122,
+   "end": 12171
+  },
+  {
+   "fact": "Elizabeth 告诉 Phil：Miss Day 是 Miss Jagerson 的秘书，找她即可。",
+   "anchor": "She’s Miss Jagerson’s secretary. You’ll want to speak to her.",
+   "start": 12492,
+   "end": 12553
+  },
+  {
+   "fact": "叙述交代 Elizabeth 的年龄是 eighteen，或明显的 seventeen。",
+   "anchor": "She was clearly eighteen – or a notably mature seventeen",
+   "start": 9844,
+   "end": 9900
+  },
+  {
+   "fact": "Miss Day 对电话说 Miss Jagerson 到了，并称校长要求 Phil 一到就直接送进去。",
+   "anchor": "the Headmistress did ask me to send you in directly you arrived",
+   "start": 15619,
+   "end": 15682
+  }
+ ]
+}

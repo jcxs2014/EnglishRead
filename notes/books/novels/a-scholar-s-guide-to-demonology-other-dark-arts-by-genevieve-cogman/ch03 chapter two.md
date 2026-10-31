@@ -7,7 +7,7 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-**一句话概括**：校长在自家书房（原是一位富人的私人书房）里接见来应聘拉丁文教师的 Philomela Fen——她像宣读学期成绩报告一样叫出这个全名，随即拆穿 Phil 缺钱的处境，逼她把父亲破产的真相和盘托出，最后当场宣布要她给女生上一节试听课。
+**一句话概括**：校长在自家书房（Phil 从陈设推断，这间原是那位富人的私人书房）里接见来应聘拉丁文教师的 Philomela Fen——她像宣读学期成绩报告一样叫出这个全名，随即拆穿 Phil 缺钱的处境，逼她把父亲破产的真相和盘托出，最后当场宣布要她给女生上一节试听课。
 
 **情感弧线位置**：求职线的开端位置。情绪从「被宣读成绩」的压迫，转到「被念出账单」的难堪，再转到「坦白之后」的松弛，最后落到「当场考试」的紧绷——Phil 在这一场谈话里从客人变成了候选人，而候选人还没拿到任何承诺，职位还得靠一节课去换。
 
@@ -18,7 +18,7 @@ modified: "2026-10-31"
 
 **人物弧线**：Phil——从用漂亮话应付面试（「scientia is Latin」那段是全场最流利的一次表演），到承认父亲把家产输光；她说出口时心里松了一口气——原文写的是「It was a strange relief to confess it」，这场坦白像卸下一件行李。校长——从握成绩单的考官，变成收买真相的谈判者，再亲自走下场子要试讲，两面都拿捏得极稳。
 
-**叙事手法**：**单一封闭场景**——整场谈话锁在一间书房里，靠对话推进，场景几乎不换。**第一人称回顾**——整章由 Phil 本人追述，母亲的话、父亲的借口是她转述出来的二手版本，天然带着她的情绪；校长的话则是当面一来一回的直录。喜剧外壳与惊悚节拍交替：柯基、旧手表、「小市侩」这些轻快笔法之后，紧跟着一句让人停住的话。
+**叙事手法**：**单一封闭场景**——整场谈话锁在一间书房里，靠对话推进，场景几乎不换。**第一人称回顾**——整章由 Phil 本人追述，母亲的话、父亲的借口是她转述出来的二手版本，天然带着她的情绪；校长的话则是当面一来一回的直录。喜剧外壳与惊悚节拍交替：柯基、旧手表、「小市侩」这些轻快笔法之后，紧跟着一句让人停住的话。另有一处轻描淡写的伏笔——校长听说 Phil 会开车，就说地下室还堆着几件旧器械，让她有空去收拾，那间「cellars」此后要占去许多篇幅。
 
 ## 精读
 
@@ -70,9 +70,9 @@ modified: "2026-10-31"
 
 ---
 
-> **原句 5:** "‘There’s nothing wrong with pride,’ the Headmistress said. ‘It’s one of our most useful tools in helping us achieve things. … But, my dear Philomela – Phil – we both want me to offer you a job, don’t we? … Especially when I can always make some phone calls after you’ve left and find out the truth anyhow?"
+> **原句 5:** "‘There’s nothing wrong with pride,’ the Headmistress said. ‘It’s one of our most useful tools in helping us achieve things. But, my dear Philomela – Phil – we both want me to offer you a job, don’t we? … Especially when I can always make some phone calls after you’ve left and find out the truth anyhow?"
 
-**中文理解**：「骄傲没什么不对，它是我们最能拿来成事的工具之一。可是，亲爱的 Philomela——Phil——你我都希望我给你这个职位，不是吗？你真要为这件事固执下去吗？……何况你一走，我随时可以打几个电话，把真相查出来。」
+**中文理解**：「骄傲没什么不对，它是我们最能拿来成事的工具之一。可是，亲爱的 Philomela——Phil——你我都希望我给你这个职位，不是吗？……何况你一走，我随时可以打几个电话，把真相查出来。」
 
 **关键词**：nothing wrong with pride / one of our most useful tools / offer you a job / make some phone calls / find out the truth anyhow
 
@@ -114,7 +114,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：母亲的算盘写得毫不含糊：妹妹的学费是义务，姐姐的研究是奢侈品。作者用一句问话加一个断句的否定把取舍钉死，读者和 Phil 同时被这个算式说服——她不是不想做学问，是没有人替她付钱。
 
-**读者视角提示**：读到那个「No.」读者心里会一沉。这就是她非来不可的理由，也是她之后越来越难在自己家里守住秘密的原因。
+**读者视角提示**：读到那个「No.」读者心里会一沉。这就是她非来不可的理由：这份薪水不是零花，是她往后几年的活路。
 
 ---
 
@@ -136,7 +136,7 @@ modified: "2026-10-31"
 
 **关键词**：required subject / first three years / optional following that / beating the basics / unappreciative little philistines
 
-**为什么这样写**：必修制解释了为什么一所女校死守拉丁文，可校长对「为什么」只肯用一句「校规传统」挡回去——她在这件事上刻意留白。而「unappreciative little philistines」把嫌弃与心疼写进了同一个词组里，她骂的是自己学校的学生。
+**为什么这样写**：这句话把课程的硬性规定和课堂的真实处境摆在一起：前三年谁都躲不掉，所以 Phil 的大部分力气要花在不情愿的学生身上。「unappreciative little philistines」把嫌弃与心疼写进同一个词组里，她骂的是自己学校的学生。
 
 **读者视角提示**：读者读到「小市侩」会心一笑：这是一位恨自己学生、却仍然坐在校长椅子上的人。这句之后，全章那种阴森的味道才第一次允许读者放松半口气。
 
@@ -144,7 +144,7 @@ modified: "2026-10-31"
 
 > **原句 11:** "‘Oh, tut, tut, my dear. It’s only the second year – they’re in the middle of the Cambridge Latin Course. You remember those volumes, I’m sure? … Nothing to it.’ Her eyes narrowed. ‘After all, you do want to convince me you can do this job, don’t you?’"
 
-**中文理解**：「哎呀，哎呀，亲爱的。只是二年级——她们正学到《剑桥拉丁文教程》的中段。那些卷子你总还记得吧？……没什么难的。」她眯起眼睛。「毕竟，你是想让我相信你能胜任这份工作，不是吗？」
+**中文理解**：「哎呀，哎呀，亲爱的。只是二年级——她们正学到《剑桥拉丁文教程》的中段。那几册书你总还记得吧？……没什么难的。」她眯起眼睛。「毕竟，你是想让我相信你能胜任这份工作，不是吗？」
 
 **关键词**：Oh, tut, tut / only the second year / middle of the Cambridge Latin Course / Nothing to it / convince me you can do this job
 

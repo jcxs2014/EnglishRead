@@ -1,0 +1,55 @@
+{
+  "book": "a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman",
+  "chapter": "ch04",
+  "text": "notes/books/novels/a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman/text/ch04_chapter_three.txt",
+  "facts": [
+    {
+      "fact": "Miss Jagerson（校长）领着来求职的 Phil 穿过学校走廊，一路介绍校舍：初级宿舍与高级宿舍分开、高级宿舍在三、四楼，通往“蠕虫观测台”的楼梯如今改作储藏室。",
+      "anchor": "the way up to the junior dormitories",
+      "start": 330,
+      "end": 366
+    },
+    {
+      "fact": "Miss Jagerson 把 Phil（Miss Philomela Fen）介绍给数学教师 Miss Jane Worth，并说明 Phil 此行是来面试拉丁语教师一职。",
+      "anchor": "Miss Fen here is interviewing for the post of Latin teacher",
+      "start": 5098,
+      "end": 5157
+    },
+    {
+      "fact": "Jane Worth 抓住 Phil 的手低声警告她趁早离开，说这里的女孩是小野人、这地方是监狱，一旦签了字就会被困住。",
+      "anchor": "Get out of here while you can",
+      "start": 6028,
+      "end": 6057
+    },
+    {
+      "fact": "Jane Worth 是该校教师（教数学），说自己正是被这里的教书经历变得愤世嫉俗，随即离开去上 Sixth Form 的课。",
+      "anchor": "I have a Sixth Form class to take charge of",
+      "start": 8733,
+      "end": 8776
+    },
+    {
+      "fact": "Miss Jagerson 把一册 Cambridge Latin Course 第三卷（1970 年初版）塞给 Phil，让她进教室，说自己一小时后回来接她，然后一把将她推进教室并关上门。",
+      "anchor": "first edition, dating back to 1970",
+      "start": 9205,
+      "end": 9239
+    },
+    {
+      "fact": "Phil 发现讲台椅子上有人朝上放了图钉，把图钉捡起放到桌上，全班发出失望的叹息。",
+      "anchor": "Phil scooped the drawing pins off the chair",
+      "start": 10668,
+      "end": 10711
+    },
+    {
+      "fact": "Phil 走到后排，发现面色苍白、黑发浓妆的 Melicent Pomphrey 正把金属抛光液倒在刀上擦刀，Phil 夺下银刀并教她正确擦银器的方法。",
+      "anchor": "was sloshing liquid polish onto a knife",
+      "start": 16287,
+      "end": 16326
+    },
+    {
+      "fact": "Faith Standon 反复对 Phil 说“你不想给我们留作业”，Phil 摸到课本后拒绝让步，改为让大家准备“毒酒杯”那一节；Miss Jagerson 随后出现在门口叫她出去。",
+      "anchor": "One is not simply let off preparation",
+      "start": 20488,
+      "end": 20525
+    }
+  ]
+}

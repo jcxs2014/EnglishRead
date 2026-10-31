@@ -1,0 +1,55 @@
+{
+ "book": "a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman",
+ "chapter": "ch03",
+ "text": "notes/books/novels/a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman/text/ch03_chapter_two.txt",
+ "facts": [
+  {
+   "fact": "Headmistress Miss Jagerson greets the applicant as “Miss Philomela Fen” and asks her to shake hands instead of standing on ceremony.",
+   "anchor": "Please do shake my hand, my dear. Let’s not stand on ceremony.",
+   "start": 259,
+   "end": 321
+  },
+  {
+   "fact": "Phil tells Miss Jagerson that her father (Papa) lost all the family's money.",
+   "anchor": "It’s my Papa,’ she confessed. ‘He’s lost all our money.",
+   "start": 8043,
+   "end": 8098
+  },
+  {
+   "fact": "Phil states that Cressida is her little sister and that Mamma was busy looking after her.",
+   "anchor": "with looking after Cressida – she’s my little sister",
+   "start": 9066,
+   "end": 9118
+  },
+  {
+   "fact": "Phil says Papa went big game hunting in Africa and an elephant stood on him.",
+   "anchor": "An elephant stood on him. Possibly several elephants.",
+   "start": 9251,
+   "end": 9304
+  },
+  {
+   "fact": "Miss Jagerson tells Phil that Latin is a required subject for the first three years.",
+   "anchor": "Latin is a required subject here for the first three years",
+   "start": 14462,
+   "end": 14520
+  },
+  {
+   "fact": "Phil says Mamma had power of attorney while Papa was unconscious in hospital.",
+   "anchor": "while he was unconscious she had power of attorney",
+   "start": 9591,
+   "end": 9641
+  },
+  {
+   "fact": "Miss Jagerson asks Phil to take a class of the girls for a sample lesson.",
+   "anchor": "I’d like to see you take a class of the girls for a sample lesson.",
+   "start": 18984,
+   "end": 19050
+  },
+  {
+   "fact": "Phil says she can no longer confine herself to her own research now that she has got her PhD.",
+   "anchor": "confine myself to my own research any longer, now that I’ve got my PhD",
+   "start": 3655,
+   "end": 3725
+  }
+ ]
+}

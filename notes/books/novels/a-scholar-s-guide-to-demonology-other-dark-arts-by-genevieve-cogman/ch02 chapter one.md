@@ -7,7 +7,7 @@ modified: "2026-10-31"
 
 ## 本章导航
 
-**一句话概括**：Philomela Fen 坐出租车到格雷恩女校应聘拉丁文教师，一路被司机的闲话、围墙内翻的碎玻璃、远处窗口窜出的火舌与学生狂奔的尖叫声搅得心神不宁；进门后被那位自报姓名的「Head Girl」伊丽莎白·詹姆斯训斥又获礼遇，秘书 Miss Day 用一整套看似合理的说辞为上锁的办公室、防火斧与刺鼻的枪药味作解释，把这一切包裹进一种近乎体贴的体面里。
+**一句话概括**：Philomela Fen 坐出租车到格雷恩女校应聘拉丁文教师，一路被司机的闲话、围墙内翻的碎玻璃、远处窗口窜出的火舌与学生狂奔的尖叫声搅得心神不宁；进门后目睹那位自报姓名的「Head Girl」伊丽莎白·詹姆斯当众训斥冲撞她的女生、随即又对她以礼相待，秘书 Miss Day 用一整套看似合理的说辞为上锁的办公室、防火斧与刺鼻的枪药味作解释，把这一切包裹进一种近乎体贴的体面里。
 
 **情感弧线位置**：开篇入场——从外部的荒诞恐惧（司机、玻璃、爆炸）推进到内部的秩序恐惧（学生、锁、斧头）。情绪不是由高到低，而是由「不安全」换成「说不清哪里不对」，落点是 Phil 心里那把被按下去的斧头。
 
@@ -90,7 +90,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：这是全章最冷的一句事实，因为它把一个看错方向的细节纠正过来：碎玻璃不是防御工事，而是围栏的一部分。前一句的「jagged」还在写形状，这一句把形状翻成用途。
 
-**读者视角提示**：读到「keep the pupils inside」，你会有一个很具体的念头——那这些学生是被谁关在这里的？而后文没有任何人回答这个问题。
+**读者视角提示**：读到「keep the pupils inside」，你会有一个很具体的念头——那这些学生是被谁关在这里的？本章没有回答这个问题。
 
 ---
 
@@ -166,7 +166,7 @@ modified: "2026-10-31"
 | edgeways | 插话，插嘴（edgeways in） | Phil entertained a moment’s envy of this unknown would-be teacher who’d actually managed to get a word in edgeways. |
 | screaming | 尖叫 | I mean, you can’t expect me to pick someone up when all they’re doing is screaming. |
 | explosion | 爆炸 | He was interrupted by an explosion. |
-| pointing | 指向，朝……朝 | It was then she realized that the jagged glass edges on top of the surrounding walls were pointing inwards. |
+| pointing | 指向；朝向 | It was then she realized that the jagged glass edges on top of the surrounding walls were pointing inwards. |
 | intruders | 闯入者 | They weren’t to keep intruders out. |
 | boarding houses | 寄宿公寓楼 | The school itself wasn’t a cheerful red-brick establishment with lines of boarding houses. |
 | ominosity | 阴森可怖之处 | There was just something about the whole place which screamed ominosity, with overtones of decay, lurking menace and threatened murder. |

@@ -1,0 +1,14 @@
+{
+ "book": "a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman",
+ "chapter": "ch01",
+ "text": "notes/books/novels/a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman/text/ch01_chap1.txt",
+ "facts": [
+  {"fact": "Harriet Jagerson, Headmistress of Grayne's School for Girls, writes a letter to Miss Fen (she signs herself as headmistress at the end).", "anchor": "Headmistress of Grayne’s School for Girls", "start": 2478, "end": 2519},
+  {"fact": "The letter carries the date 10th October 2003 and the school address Grayne's School for Girls, North Yorkshire Moors, Yorkshire.", "anchor": "10th October 2003", "start": 66, "end": 83},
+  {"fact": "Miss Fen has applied for a position as Latin teacher at Grayne's School for Girls.", "anchor": "your application for a position as Latin teacher here at Grayne’s", "start": 193, "end": 258},
+  {"fact": "Jagerson writes that she has noticed certain deficiencies in Fen's paperwork and references, and says they can be discussed at Fen's interview.", "anchor": "I have noticed certain deficiencies in your paperwork and references", "start": 463, "end": 531},
+  {"fact": "Fen's letter states a lifelong interest in Latin and a wish to share it with her pupils.", "anchor": "Your letter speaks of a lifelong interest in Latin", "start": 654, "end": 704},
+  {"fact": "Jagerson answers Fen's request about the school's history by saying the school does not feature on Wikipedia or other modern sources.", "anchor": "I fear we do not feature on Wikipedia", "start": 1789, "end": 1826},
+  {"fact": "Jagerson claims that many of the school's Old Girls have played vital parts in the nation's history.", "anchor": "many of our Old Girls have played vital parts in our nation’s history", "start": 1919, "end": 1988}
+ ]
+}
