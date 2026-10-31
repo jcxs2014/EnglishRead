@@ -1,0 +1,61 @@
+{
+ "book": "so-bad-it-s-good-by-mike-rampton",
+ "chapter": "ch07",
+ "text": "notes/books/non-fiction/so-bad-it-s-good-by-mike-rampton/text/ch07_the_oldest_jokes_in_the_world.txt",
+ "facts": [
+  {
+   "fact": "笑话长期靠口耳相传，在酒馆与篝火边被反复讲述，并不总被认为值得写下来",
+   "anchor": "Historically, jokes have been passed around orally, told and retold in taverns and around campfires, and not always seen as worth preserving in written form.",
+   "start": 72,
+   "end": 229
+  },
+  {
+   "fact": "已知最古老的笑话距今仅四千年",
+   "anchor": "the oldest that historians are aware of dates back a mere 4,000 years",
+   "start": 303,
+   "end": 372
+  },
+  {
+   "fact": "公元前 1900 年苏美尔的“最古老笑话”：一个年轻女子没在丈夫腿上放屁，作者承认它性别歧视且并不好笑",
+   "anchor": "‘Something which has never occurred since time immemorial; a young woman did not fart in her husband’s lap.’",
+   "start": 526,
+   "end": 634
+  },
+  {
+   "fact": "作者对古埃及那条（公元前 1600 年，法老、渔网、尼罗河）的评价同样是“很烂”",
+   "anchor": "It is, again, pretty rubbish",
+   "start": 901,
+   "end": 929
+  },
+  {
+   "fact": "公元前 1200 年苏美尔有一条包袱失传的笑话，译者成了真正的笑柄",
+   "anchor": "There’s the text of a joke surviving from that era that has the punchline missing",
+   "start": 1416,
+   "end": 1497
+  },
+  {
+   "fact": "马其顿的腓力二世曾让人把雅典一个俱乐部的笑话全部记下，但同样失传",
+   "anchor": "Philip II of Macedon (in modern-day Greece) arranged for a members’ club in Athens to write down all their jokes for him",
+   "start": 1760,
+   "end": 1880
+  },
+  {
+   "fact": "现存最早的笑话集 Philogelos（“爱笑”）编于公元 250–400 年，收 264 条编号笑话",
+   "anchor": "The earliest surviving joke book, Philogelos (which translates from Greek as ‘Love of Laughter’) was compiled sometime between 250 and 400 CE.",
+   "start": 1927,
+   "end": 2069
+  },
+  {
+   "fact": "古书里生菜笑话特别多，因为古人相信生菜是春药",
+   "anchor": "due to the ancient belief that it was an aphrodisiac",
+   "start": 2415,
+   "end": 2467
+  },
+  {
+   "fact": "印刷术发明后出现真正出版的笑话书，Poggio Bracciolini 1470 年代的 Facetiae 被认为是最早一本",
+   "anchor": "with 1470s Facetiae by Poggio Bracciolini thought to be the first",
+   "start": 2743,
+   "end": 2808
+  }
+ ]
+}
