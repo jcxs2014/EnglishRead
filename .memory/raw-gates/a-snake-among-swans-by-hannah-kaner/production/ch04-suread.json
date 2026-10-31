@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch04",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch04_chapter_four_elise.txt",
+ "facts": [
+  {
+   "fact": "Liran 当众把 Elise 派给即将到来的 Ardweni 女子：教她宫廷与 Nest 的规矩，并做她的伴侍。",
+   "anchor": "Elise will ensure the Ardweni woman knows the ways of the court",
+   "start": 10064,
+   "end": 10127
+  },
+  {
+   "fact": "父亲上一次肯正经给她时间，距今已八年；这次他叫了她的名字，她才答应得下这个差事。",
+   "anchor": "It had been eight years since he had deigned to give her more than a breath of his time",
+   "start": 14131,
+   "end": 14218
+  },
+  {
+   "fact": "父亲开口叫错了名字，叫的是「Isuire」——她死去的姐姐的名字。",
+   "anchor": "Isuire. Her dead sister’s name.",
+   "start": 8991,
+   "end": 9022
+  },
+  {
+   "fact": "提到「长子」时点的是哥哥 Alar：他如今是 Suneheim 的国王，被放逐在一块荒石上。",
+   "anchor": "Her older brother was king of Suneheim now",
+   "start": 11259,
+   "end": 11301
+  },
+  {
+   "fact": "已有五个 Merogia 王国向 Liran 屈膝，承认他是国王。",
+   "anchor": "five of the Merogian kingdoms have bent the knee",
+   "start": 17908,
+   "end": 17956
+  },
+  {
+   "fact": "母亲难产去世前，Synod 召 Isen 领兵东征，他拒绝了；Dagobert 当场拿这件事挤他。",
+   "anchor": "Isen had been called on to lead an army east, and he had refused",
+   "start": 7732,
+   "end": 7796
+  },
+  {
+   "fact": "Isen 私下告诉 Elise：Merogia 若不平定，Synod 会把国库拖垮，再逼他们去打下一场圣战。",
+   "anchor": "the Synod will bankrupt us",
+   "start": 20087,
+   "end": 20113
+  },
+  {
+   "fact": "少年 Isen 在宫廷面前奉父命行刑：把刀慢慢送进那个失职贵族的喉咙，全场听见「王之正义」的声响。",
+   "anchor": "slid the knife, slowly, into his throat",
+   "start": 16665,
+   "end": 16704
+  }
+ ]
+}

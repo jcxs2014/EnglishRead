@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch19",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch19_chapter_nineteen_elise.txt",
+ "facts": [
+  {
+   "fact": "巡游进卡纳安镇时没有花、没有旗、没有欢呼与钟声，只有加莱人与辛格尔人出来挥手",
+   "anchor": "there were no flowers or flags",
+   "start": 4727,
+   "end": 4757
+  },
+  {
+   "fact": "一座用枝条与河石搭成的尸床拦在国王路上，垫着银桦枝躺着一个男孩",
+   "anchor": "A bier had been raised of branches and riverstones",
+   "start": 5482,
+   "end": 5532
+  },
+  {
+   "fact": "女人喊出男孩名叫 Falhin，指责是 Cynghal 的野天鹅杀了他",
+   "anchor": "Killed by the wild swans of Cynghal",
+   "start": 6034,
+   "end": 6069
+  },
+  {
+   "fact": "Liran 把街市骚乱误听成海战，喊出船上口令",
+   "anchor": "Fire in the sails",
+   "start": 7850,
+   "end": 7867
+  },
+  {
+   "fact": "Conrin 当场割开一个被抓来的无辜男人的喉咙",
+   "anchor": "The innocent man’s throat gaped open",
+   "start": 12248,
+   "end": 12284
+  },
+  {
+   "fact": "Cynefel 跪下吻国王的靴子，请求替梅洛吉亚人受罚",
+   "anchor": "let me answer for them",
+   "start": 17440,
+   "end": 17462
+  },
+  {
+   "fact": "Elise 下马跪下，对父亲说仁慈也是翼的讯息",
+   "anchor": "Mercy, too is a message of the Wing",
+   "start": 19223,
+   "end": 19258
+  },
+  {
+   "fact": "她感到自己心口那道裂缝变宽，心里真正的活物向着光探头",
+   "anchor": "the true creature of her inner heart",
+   "start": 22735,
+   "end": 22771
+  }
+ ]
+}

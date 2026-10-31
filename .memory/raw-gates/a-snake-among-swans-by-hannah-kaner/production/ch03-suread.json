@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch03",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch03_chapter_three_elise.txt",
+ "facts": [
+  {
+   "fact": "本章叙述者是 Elise：她是 swan king（the great swan）的女儿、Cynghal 帝国的公主，母亲已死。",
+   "anchor": "Princess Elise, daughter of the great swan, princess of the Cynghal empire, daughter to a dead queen",
+   "start": 24,
+   "end": 124
+  },
+  {
+   "fact": "Synod 在不到十年前裁定：比武的残暴会损害女人的健康，所以女人不该看。",
+   "anchor": "for the Synod had declared not a decade earlier that the brutality might damage a woman’s health",
+   "start": 517,
+   "end": 613
+  },
+  {
+   "fact": "幼时她被允许和弟弟 Conrin、Gaisa 一起坐在 Galenish 看台看比武，如今不再被允许。",
+   "anchor": "she had been allowed to sit with her younger brothers, Conrin and Gaisa, to watch in the Galenish stands",
+   "start": 1157,
+   "end": 1261
+  },
+  {
+   "fact": "长兄 Conrin 二十一岁，率自己挑选的队伍上场，全队用银色系，即 grey guard。",
+   "anchor": "At twenty-one, he led his selected host onto the field",
+   "start": 2619,
+   "end": 2673
+  },
+  {
+   "fact": "Egil 的撤退是假动作：他算准哥哥们会先追他，事先与另一队想夺荣耀的 Cynghal 贵族结盟，从侧翼夹击 Conrin 与 Gaisa。",
+   "anchor": "Egil’s retreat had been false",
+   "start": 5977,
+   "end": 6006
+  },
+  {
+   "fact": "把她从窗台拽回房里的是她最喜欢的哥哥 Isen，排行第二。",
+   "anchor": "Isen, the second-eldest.",
+   "start": 7804,
+   "end": 7828
+  },
+  {
+   "fact": "Elise 蓝底织锦上有十三只天鹅，代表 Liran 王所有活着的与死去的子女；这幅织锦绣了两年。",
+   "anchor": "There were thirteen swans on her blue canvas.",
+   "start": 11176,
+   "end": 11221
+  },
+  {
+   "fact": "父亲八年仍未原谅她；她自认从来就不该是做王后的人，而这一点父亲也知道，甚至几乎记不得她。",
+   "anchor": "‘I was never meant to be a queen,’ said Elise softly, rubbing the stone dust from the side of her skirts. ‘And father knows it. It’s been eight years, Isen, and he still has not forgiven me.’",
+   "start": 11868,
+   "end": 12059
+  }
+ ]
+}

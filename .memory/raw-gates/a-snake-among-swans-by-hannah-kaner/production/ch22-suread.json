@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch22",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch22_chapter_twenty_two_elise.txt",
+ "facts": [
+  {
+   "fact": "Elise 在汗帐外看见被放逐十年的 Alar 回到 Merogian 的土地，惊疑且愤怒",
+   "anchor": "What was Alar doing back on Merogian soil?",
+   "start": 60,
+   "end": 102
+  },
+  {
+   "fact": "她把想尖叫的冲动用掌心的梭子戳破，借此稳住胆气与舌头，留在王后身边",
+   "anchor": "punctured it with her sharp shuttle in her palm",
+   "start": 344,
+   "end": 391
+  },
+  {
+   "fact": "Elise 断定 Isen 本想在他们抵达前破城，所以才用了那么酷烈的手段",
+   "anchor": "Isen had fully intended to have the siege broken before they arrived",
+   "start": 784,
+   "end": 852
+  },
+  {
+   "fact": "Tilde 抓住她的手腕发抖，Elise 才想起王后比自己还年轻，一生都在战争的另一边",
+   "anchor": "the queen was even younger than she",
+   "start": 2057,
+   "end": 2092
+  },
+  {
+   "fact": "Elise 推算航程与月份，认定 Alar 此行不可能只为向新后道贺",
+   "anchor": "he had been banished from Merogia for a decade",
+   "start": 8145,
+   "end": 8191
+  },
+  {
+   "fact": "「swanning」是把肺取出架在肩上如双翼的酷刑，曾被施于 Widdin 之王",
+   "anchor": "his lungs were cracked out and laid on his shoulders as wings",
+   "start": 10693,
+   "end": 10754
+  },
+  {
+   "fact": "Elise 报出内堡存粮可撑数周而非数月，说明是母亲教她安排仓廪，声音却越说越小",
+   "anchor": "her voice shrinking",
+   "start": 11947,
+   "end": 11966
+  },
+  {
+   "fact": "Liran 命 Merovin 护送 Tilde 去营地，定下次日黎明试行谈判",
+   "anchor": "At dawn, we will try this parley",
+   "start": 20881,
+   "end": 20913
+  }
+ ]
+}
