@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch32",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch32_chapter_thirty_two_tilde.txt",
+ "facts": [
+  {
+   "fact": "Ziyan 告知她中毒导致流产，其余损伤很小",
+   "anchor": "You have lost a child",
+   "start": 1654,
+   "end": 1675
+  },
+  {
+   "fact": "药方里若干字母大写藏密文，开首即此句",
+   "anchor": "This Tonic is Unequivocal",
+   "start": 4223,
+   "end": 4248
+  },
+  {
+   "fact": "她用 Merovin 的密码盘译出这句指示",
+   "anchor": "Accept the offer from Ademar",
+   "start": 4484,
+   "end": 4512
+  },
+  {
+   "fact": "Muirenn 自陈生来自由，是辛格尔人入侵时被掳的战利品",
+   "anchor": "I was born free, like you",
+   "start": 9412,
+   "end": 9437
+  },
+  {
+   "fact": "Muirenn 供出毒药的配方由 Egil 交给她",
+   "anchor": "Prince Egil had instructions",
+   "start": 12279,
+   "end": 12307
+  },
+  {
+   "fact": "Muirenn 说 Dagobert 想借 Conrin 之手上位",
+   "anchor": "The high priest wants to lead the Synod",
+   "start": 12616,
+   "end": 12655
+  },
+  {
+   "fact": "她判 Muirenn 在城门前受三十下杖刑",
+   "anchor": "Thirty strikes with a rod",
+   "start": 14789,
+   "end": 14814
+  },
+  {
+   "fact": "Ysel 暗示 Isabella 死时也在饮酒，Liran 可能下毒",
+   "anchor": "I believe she was also drinking wine when she died",
+   "start": 23822,
+   "end": 23872
+  }
+ ]
+}
