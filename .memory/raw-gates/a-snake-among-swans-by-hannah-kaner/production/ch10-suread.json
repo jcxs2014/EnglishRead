@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch10",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch10_chapter_ten_tilde.txt",
+ "facts": [
+  {
+   "fact": "Gundobar 执意把 Tilde 一行领进王宫正门，她们身不由己被塞进那座已经闹翻的大厅。",
+   "anchor": "Ushered ahead by an insistent Gundobar",
+   "start": 52,
+   "end": 90
+  },
+  {
+   "fact": "被控致人死亡的 Conrin 王子当庭抗辩：杀人的是那匹马，不是他；一蹄子踢不死人，死者必定心脏不好。",
+   "anchor": "‘I hold that it was the horse that killed them!’ stated Conrin over the noise.",
+   "start": 8545,
+   "end": 8623
+  },
+  {
+   "fact": "Conrin 提出用 trial of advocacy 了结此案：十二名贵族或教士宣誓担保他的品行，指控即可撤销。",
+   "anchor": "Advocacy. Twelve noblemen or priests had only to stand with him",
+   "start": 13202,
+   "end": 13265
+  },
+  {
+   "fact": "Gundobar 当众把 Tilde 推出来「裁定此案」，天鹅国王的蓝眼睛随即落到她身上。",
+   "anchor": "Perhaps the new queen-to-be can settle the matter.",
+   "start": 13735,
+   "end": 13785
+  },
+  {
+   "fact": "Liran 判赔：自耕农家一枚金币、其领主三枚银币、马妇家两枚银币，理由是自耕农是打仗的人。",
+   "anchor": "One gold will be paid to the Cynghal yeoman’s family, three silver to his erl",
+   "start": 23864,
+   "end": 23941
+  },
+  {
+   "fact": "Liran 当众掌掴儿子 Conrin，宣称他必须服从自己为维系王国而定下的法律。",
+   "anchor": "‘You are my subject, Prince Conrin!’ snarled his father, lowering his hand.",
+   "start": 24650,
+   "end": 24725
+  },
+  {
+   "fact": "章末 Tilde 断定这座宫廷的硬壳下有裂缝，并想着如何把一颗种子种进去撑裂它。",
+   "anchor": "There was a frailty here, cracks under the hard surface.",
+   "start": 25992,
+   "end": 26048
+  },
+  {
+   "fact": "全章最后一句是母亲说过的话：这不是狩猎，必须是屠杀。",
+   "anchor": "This is not a hunt, my mother had said. This must be a massacre.",
+   "start": 26215,
+   "end": 26279
+  }
+ ]
+}
