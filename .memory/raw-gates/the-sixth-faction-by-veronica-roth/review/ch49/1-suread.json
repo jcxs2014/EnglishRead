@@ -1,0 +1,84 @@
+{
+  "chapter": "ch49",
+  "pov": "第一人称（Four / Tobias 叙述），一般现在时",
+  "facts": [
+    {
+      "event": "Tris 在火车上转达 Evelyn 的答复：她答应了，约他们凌晨三点在博物馆后面的火车调车场见她和其余激进分子，由她把他们介绍给大家。",
+      "who": "Tris",
+      "receivers": "Evelyn, the rest of the radicals, Four",
+      "start": 614,
+      "end": 813,
+      "text": "“Evelyn said yes,” Tris says. “We’re supposed to meet her—and the rest of the radicals, I assume—in the train yard behind the Museum at three in the morning. She said she’d introduce us to everyone.”"
+    },
+    {
+      "event": "Tris 说她会给母亲留一条消息，好让母亲去警告 Marcus；并让 Four 做好准备离开 Dauntless。",
+      "who": "Tris",
+      "receivers": "my mother, Marcus, Four",
+      "start": 1085,
+      "end": 1212,
+      "text": "“I’ll leave a message for my mother, so she knows to warn Marcus,” she says. “You . . . get ready to leave Dauntless, I guess.”"
+    },
+    {
+      "event": "Tris 转述 Evelyn 的话：若需要说服 Four，就告诉他她的“梦想”即将成真；Tris 觉得那指的是某件具体的事。",
+      "who": "Tris",
+      "receivers": "Four, Evelyn",
+      "start": 2282,
+      "end": 2479,
+      "text": "“There’s something else,” Tris says. “Evelyn told me if I needed to persuade you, I should tell you that her ‘dream’ is about to come true. It sounded like she was referring to something specific.”"
+    },
+    {
+      "event": "Four 回答“是也不是”：母亲仍活着，是在他选择 Dauntless 之后才告诉他的；她对无派别者很重要，曾邀他在 Dauntless 不快时去投奔；而 Eric 即将让他在 Dauntless 非常不快。",
+      "who": "I (Four)",
+      "receivers": "Zeke, Shauna, my mom, the factionless, Eric",
+      "start": 5742,
+      "end": 5943,
+      "text": "“Yes. And no,” I say. “My mom’s still alive. She told me after I chose Dauntless. She’s alive, and she’s important to the factionless, and she invited me to join her if I was ever unhappy in Dauntless."
+    },
+    {
+      "event": "Zeke 起身示意 Four 也起来，随后抱住他，下巴顶到他的锁骨；Shauna 把两人一起环抱，Four 有些笨拙地回抱。",
+      "who": "Zeke, Shauna",
+      "receivers": "Four",
+      "start": 7336,
+      "end": 7514,
+      "text": "Shauna laughs. Zeke gets up and gestures for me to get up, too. Then he throws his arms around me, his chin jabbing me in the collarbone. Shauna wraps her arms around both of us."
+    },
+    {
+      "event": "Eric 讥讽地感谢 Tobias 早些时候的“小表演”，说现在明白他为什么喜欢在模拟室工作，称那“真是迷人的东西”。",
+      "who": "Eric",
+      "receivers": "Tobias (Four), the simulation room",
+      "start": 8097,
+      "end": 8246,
+      "text": "“Thanks for the little show earlier, Tobias,” he says. “Now I understand why you like working in the simulation room. It’s really fascinating stuff.”"
+    },
+    {
+      "event": "Four 原以为会因期待与仇恨而难以入睡，但他把闹钟拨到两点、拉上被子之后，立刻就睡着了。",
+      "who": "I (Four)",
+      "receivers": "my alarm, the quilt",
+      "start": 9958,
+      "end": 10248,
+      "text": "I expect it to be hard to sleep, with the anticipation of meeting Tris and the factionless so early, and my hatred of Eric, of Marcus, and this whole goddamn nightmare scenario buzzing in my brain. But after I set my alarm for two and pull the quilt up over my shoulder, I’m out right away."
+    },
+    {
+      "event": "Four 在站台上列队，自己站最前、其余人在身后；随后他登上火车。",
+      "who": "I (Four), the others",
+      "receivers": "the platform, the train",
+      "start": 12254,
+      "end": 12351,
+      "text": "We line up on the platform, with me at the front and the others behind me. And I board the train."
+    }
+  ],
+  "relations": [
+    "Tris 是 Evelyn 与 Four 之间的传话人；Evelyn 答应的条件是 Four 一起加入，并要 Tris 用“我的梦想即将成真”去说服他。",
+    "Zeke 与 Shauna 早已知道 Four 就是 Marcus Eaton 的儿子，仍接纳他（Shauna 睡在 Zeke 床上、穿着他的 T 恤，说明两人的伴侣关系）。",
+    "Four 的母亲是 Evelyn，她在无派别者中地位重要，并邀他随时投奔；Four 因此决定永远离开 Dauntless。",
+    "Eric 是 Four 在 Dauntless 的对头，且与模拟室相关；他临走时警告 Four“会后悔，而且很快”。",
+    "本章结尾 Four 出现不属于自己的“急切感”、并感到忘了什么重要的事，说明他登车时已受人操控、并非自主决定。"
+  ],
+  "numbers": [
+    "Thursday morning（“early on Thursday morning”，Tris 与 Four 在火车上碰面的时间）",
+    "Fourth car back（“Fourth car back”，两人初次相遇时所在的同一节车厢）",
+    "three in the morning（“at three in the morning”，在博物馆后火车调车场与 Evelyn 及激进分子会合的时间）",
+    "two years（“the conversation I’ve been avoiding for two years”，Four 一直回避的那场谈话拖了两年）",
+    "two（“I set my alarm for two”，Four 定的闹钟时间）"
+  ]
+}
