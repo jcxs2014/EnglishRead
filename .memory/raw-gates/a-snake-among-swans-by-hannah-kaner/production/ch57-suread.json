@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch57",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch57_epilogue.txt",
+ "facts": [
+  {
+   "fact": "全信以此问候母亲 Rivani 的收成开头",
+   "anchor": "I hope you had good harvest",
+   "start": 42,
+   "end": 69
+  },
+  {
+   "fact": "她说丈夫在儿子们背叛后病倒",
+   "anchor": "My husband, Wing grace him, has taken ill",
+   "start": 143,
+   "end": 184
+  },
+  {
+   "fact": "她向母亲宣告自己已经掌权",
+   "anchor": "I have taken command",
+   "start": 277,
+   "end": 297
+  },
+  {
+   "fact": "她怀着国王的孩子，盼望他长大后带来转机",
+   "anchor": "by his growing prince inside me",
+   "start": 375,
+   "end": 406
+  },
+  {
+   "fact": "她在信里直接问母亲「你为什么骗我」",
+   "anchor": "why have you lied",
+   "start": 1235,
+   "end": 1252
+  },
+  {
+   "fact": "信中说 Marolyn 已死，称她为真正的战士",
+   "anchor": "Marolyn has been taken into god’s grace",
+   "start": 1256,
+   "end": 1295
+  },
+  {
+   "fact": "她承认自己爱过公主，也亲手毁了她，但不后悔",
+   "anchor": "I loved her, I undid her",
+   "start": 1508,
+   "end": 1532
+  },
+  {
+   "fact": "落款自称天鹅女王，最后一个头衔是 Druidim",
+   "anchor": "The Swan Queen Tilde",
+   "start": 1573,
+   "end": 1593
+  }
+ ]
+}

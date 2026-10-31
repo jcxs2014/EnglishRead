@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch55",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch55_chapter_fifty_five_tilde.txt",
+ "facts": [
+  {
+   "fact": "Tilde 去看丈夫，第一次没有那种恐惧的紧箍，但仍感到 kithwood 的搏动",
+   "anchor": "When I went to see my husband, it was the first time I did not feel the clench of fear",
+   "start": 29,
+   "end": 115
+  },
+  {
+   "fact": "她仍听得见 Hadiah 的哭声，也仍感到 Marolyn 冰冷的手压在自己手下",
+   "anchor": "I could still hear Hadiah’s sobs",
+   "start": 292,
+   "end": 324
+  },
+  {
+   "fact": "她断定 Elise 看见了、知道了，因此不信任她，认定必须做点什么",
+   "anchor": "Elise had seen, Elise knew. And I did not trust her. Something had to be done.",
+   "start": 430,
+   "end": 508
+  },
+  {
+   "fact": "她独自走进天鹅王的寝殿，殿里挂帘闭着，草药烧得又甜又呛",
+   "anchor": "I went alone into the swan king’s chamber.",
+   "start": 511,
+   "end": 553
+  },
+  {
+   "fact": "只要天鹅肝还够，Ziyan 每天往他的补药里滴一滴即可，不必再烧 glory",
+   "anchor": "Ziyan could slip a daily drop into his tonics",
+   "start": 797,
+   "end": 842
+  },
+  {
+   "fact": "国王认不出名字，只叫她「妻子」这个被给予的头衔",
+   "anchor": "‘Wife,’ he said.",
+   "start": 1572,
+   "end": 1588
+  },
+  {
+   "fact": "她问国王是否愿意服从她、替她复仇",
+   "anchor": "‘Will you obey me then, and give me retribution?’",
+   "start": 3188,
+   "end": 3237
+  },
+  {
+   "fact": "国王答「是，我的王后」，把服从交了出去",
+   "anchor": "‘Yes, my queen.’",
+   "start": 3278,
+   "end": 3294
+  }
+ ]
+}

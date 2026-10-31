@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch52",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch52_chapter_fifty_two_elise.txt",
+ "facts": [
+  {
+   "fact": "很少有人向 Elise 行礼，她一直站在光外",
+   "anchor": "Elise had rarely been bowed to",
+   "start": 28,
+   "end": 58
+  },
+  {
+   "fact": "政变后没人再拦她、收她的剑与弓",
+   "anchor": "no one removed the sword from her waist",
+   "start": 262,
+   "end": 301
+  },
+  {
+   "fact": "兄弟们被关在常春藤疯长的内厅「叛徒的绿厅」",
+   "anchor": "the traitors’ green",
+   "start": 503,
+   "end": 522
+  },
+  {
+   "fact": "Tilde 命兄弟们同住一处，学着讲兄弟情",
+   "anchor": "learn brotherly care",
+   "start": 643,
+   "end": 663
+  },
+  {
+   "fact": "Alar 的尸体在花园里私下火化，Elise 没有为他哭",
+   "anchor": "He had been burned privately in the gardens",
+   "start": 1032,
+   "end": 1075
+  },
+  {
+   "fact": "她对 Tilde 的感情是伤害恐惧羞耻骄傲欲望渴望的乱麻",
+   "anchor": "a tangle of hurt and fear",
+   "start": 1751,
+   "end": 1776
+  },
+  {
+   "fact": "她打算为 Egil 与 Hein 求宽宥",
+   "anchor": "ask for leniency",
+   "start": 1274,
+   "end": 1290
+  },
+  {
+   "fact": "她听见常春藤的低语，如今像脉搏与一支歌",
+   "anchor": "the muttering of the ivy",
+   "start": 3113,
+   "end": 3137
+  }
+ ]
+}

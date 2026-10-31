@@ -1,0 +1,55 @@
+{
+ "book": "a-snake-among-swans-by-hannah-kaner",
+ "chapter": "ch56",
+ "text": "notes/books/novels/a-snake-among-swans-by-hannah-kaner/text/ch56_chapter_fifty_six_elise.txt",
+ "facts": [
+  {
+   "fact": "Tilde 站在国王暗室里像哨兵，头发散着、两手空着",
+   "anchor": "Tilde stood like a sentinel",
+   "start": 58,
+   "end": 85
+  },
+  {
+   "fact": "Liran 看着女儿，眼里没有一点认得她的意思",
+   "anchor": "there was no recognition in the sea blue of his eyes",
+   "start": 1279,
+   "end": 1331
+  },
+  {
+   "fact": "Tilde 对国王说「我们不认识她」",
+   "anchor": "She is no one. We do not know her",
+   "start": 2675,
+   "end": 2708
+  },
+  {
+   "fact": "Elise 判断这不是失智，是被驯服的服从",
+   "anchor": "This was obedience",
+   "start": 3299,
+   "end": 3317
+  },
+  {
+   "fact": "她看清 Tilde 已经成了篡位者，也是下毒的人",
+   "anchor": "This was a usurper",
+   "start": 3645,
+   "end": 3663
+  },
+  {
+   "fact": "Tilde 低声说救我们的不是爱",
+   "anchor": "It is not love that will save us",
+   "start": 4974,
+   "end": 5006
+  },
+  {
+   "fact": "Tilde 把「自由」当作给 Elise 的最后一件礼物",
+   "anchor": "Freedom is my last gift to you",
+   "start": 6359,
+   "end": 6389
+  },
+  {
+   "fact": "她被击晕，视野先白如天鹅羽毛，再黑如林中阴影",
+   "anchor": "then turned as dark as the shadows",
+   "start": 6541,
+   "end": 6575
+  }
+ ]
+}
