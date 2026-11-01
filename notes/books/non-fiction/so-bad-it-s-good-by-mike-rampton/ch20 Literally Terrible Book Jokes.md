@@ -10,9 +10,9 @@ modified: "2026-11-01"
 - **出处**：*So Bad It's Good: The Art of the Terrible Joke*，Mike Rampton 著，Pavilion（HarperCollins 旗下）2026 年出版
 - **作者**：Mike Rampton
 - **章节定位**：正文第 19 篇，类型笑话章；主题是书、阅读、图书馆与作家，是全书唯一大量使用"作者名／作品名"作为谐音材料的一章
-- **字符数**：约 3,800（提取件 `text/ch20_literally_terrible_book_jokes.txt`，正文 660 词，约 35 条）
+- **字符数**：约 3,800（提取件 `text/ch20_literally_terrible_book_jokes.txt`，正文 660 词，37 条）
 - **一句话主旨**：书 jokes 把"阅读"这个词的字面义当真：riveting 是铆接，can't put it down 是拿不下来，rolls off the tongue 是流口水；作者名则被读成普通短语（Forster／forced her，Brontë／Brontësaurus）。
-- **结构**：约 35 条，前段是图书馆与阅读场景（借书、喊话、词典），中段是"我在读一本关于 X 的书"句式，后段是作家名字的谐音。无小节标题。
+- **结构**：37 条，前段是图书馆与阅读场景（借书、喊话、词典），中段是"我在读一本关于 X 的书"句式，后段是作家名字的谐音。无小节标题。
 
 ## 论证结构
 

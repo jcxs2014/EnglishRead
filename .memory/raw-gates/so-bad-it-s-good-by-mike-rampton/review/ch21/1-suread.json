@@ -1,0 +1,113 @@
+{
+ "chapter": "ch21",
+ "text_file": "text/ch21_the_christmas_cracker_connection.txt",
+ "facts": [
+  {
+   "id": 1,
+   "claim": "作者主张圣诞晚餐什么都能省，唯独不能省拉炮里的笑话。",
+   "quote": "Any other component of the meal can be removed and it’s still a Christmas dinner, but take away cracker jokes and you’ve just got some people eating food.",
+   "char_range": [
+    219,
+    373
+   ]
+  },
+  {
+   "id": 2,
+   "claim": "作者演示一条标准拉炮笑话的演法：先卖关子，再抛出 Elf and safety。",
+   "quote": "‘Why did Santa have to wear a helmet in his workshop?’ you deliver with all the gravitas you can muster. ‘Elf and safety.’",
+   "char_range": [
+    504,
+    626
+   ]
+  },
+  {
+   "id": 3,
+   "claim": "作者交代起源：早期拉炮里装的是浪漫诗，不是笑话。",
+   "quote": "In the early days of Christmas crackers, they contained romantic poetry rather than jokes.",
+   "char_range": [
+    767,
+    857
+   ]
+  },
+  {
+   "id": 4,
+   "claim": "作者给出转折年代：一战后笑话才开始出现。",
+   "quote": "It was only in the years following the First World War that jokes began showing up.",
+   "char_range": [
+    1028,
+    1111
+   ]
+  },
+  {
+   "id": 5,
+   "claim": "作者归纳拉炮笑话的三条标准：语言简单、文字游戏基础、不晦涩。",
+   "quote": "That means simple language, basic wordplay and nothing too intellectual or esoteric.",
+   "char_range": [
+    1658,
+    1742
+   ]
+  },
+  {
+   "id": 6,
+   "claim": "作者以 1960 年代“来一段”的派对文化作对照：那时人人都有拿手的歌或段子。",
+   "quote": "as recently as the 1960s, when most entertainment was still fairly rubbish, people would often have a song they knew they could make a decent go of, or a gag they knew would do well",
+   "char_range": [
+    2092,
+    2273
+   ]
+  },
+  {
+   "id": 7,
+   "claim": "作者给害怕上台的人一个出口：演砸了就怪拉炮厂商，且戴纸皇冠的人没资格笑你。",
+   "quote": "And if it goes terribly, you have an escape clause (the second-best festive Claus)",
+   "char_range": [
+    2979,
+    3061
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "浪漫诗 / 笑话",
+   "relation": "载体更换的原因是娱乐方式变多：有了唱片机，没人愿意听一桌人念蹩脚诗，笑话更快也更大众。",
+   "quote": "once you had a record player, you weren’t going to sit through a table’s worth of people reciting dreadful poetry."
+  },
+  {
+   "pair": "家庭场合 / 多代可懂",
+   "relation": "圣诞是家庭场合，所以笑话必须跨代可懂；作者用“前任装饰品”这种需要背景知识的梗作反例。",
+   "quote": "Christmas is a family occasion, so a good cracker joke needs to be understood by multiple generations of people."
+  },
+  {
+   "pair": "doing a turn / cringe",
+   "relation": "1960 年代的派对表演文化早于“社交尴尬”与 cringe 这类概念，作者以此解释今天为什么没人敢演。",
+   "quote": "This was long before concepts like social awkwardness or ‘cringe’"
+  },
+  {
+   "pair": "escape clause / Santa Claus",
+   "relation": "结尾用 escape clause 与 Claus 的谐音收束，再用 elf-esteem 叠一层圣诞双关。",
+   "quote": "why is it nice to make people feel good about themselves at Christmas? To boost their elf-esteem."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "First World War",
+   "meaning": "笑话进入拉炮的时间分界：一战之后。",
+   "quote": "It was only in the years following the First World War"
+  },
+  {
+   "value": "1960s",
+   "meaning": "作者把“人人表演一段”的黄金期定在晚至 1960 年代。",
+   "quote": "as recently as the 1960s, when most entertainment was still fairly rubbish"
+  },
+  {
+   "value": "century-old",
+   "meaning": "百年前拉炮里的早期笑话，有些今天仍成立。",
+   "quote": "some of the earliest ones found in century-old crackers would just about work today"
+  },
+  {
+   "value": "once a year",
+   "meaning": "作者主张每年至少练一次当众表演的胆量。",
+   "quote": "there’s surely something to be said for stretching your public-performance bones once a year"
+  }
+ ]
+}

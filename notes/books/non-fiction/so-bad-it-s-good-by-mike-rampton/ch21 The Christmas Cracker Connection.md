@@ -12,7 +12,7 @@ modified: "2026-11-01"
 - **章节定位**：正文第 20 篇，论述章（"Connection" 系列第三篇，前有 Dad Joke、Christmas Cracker 同属"某个场合为什么需要烂笑话"）；本章讲圣诞彩包（Christmas cracker）里的笑话
 - **字符数**：约 3,430（提取件 `text/ch21_the_christmas_cracker_connection.txt`，正文 578 词）
 - **一句话主旨**：彩包笑话是英国圣诞晚餐的"表演"环节：它要求几代人都能同时听懂，所以必须简单到近乎笨拙；而这种"当众演一段"的传统正在消失，作者为此惋惜。
-- **结构**：纯论述，五段递进：场景（拉彩包）→ 历史（诗歌→笑话）→ 规则（要几代人都懂）→ 社会变迁（doing a turn 的消亡）→ 收束（elf-esteem 包袱）。正文只有三处出现完整笑话（Elf and safety／Lawsuits／ex's tinsel crisis），其余都是议论。
+- **结构**：纯论述，七个自然段递进（可归为五步）：场景（拉彩包）→ 历史（诗歌→笑话）→ 规则（要几代人都懂）→ 社会变迁（doing a turn 的消亡）→ 收束（elf-esteem 包袱）。正文只有四处出现完整笑话（Elf and safety／Lawsuits／ex's tinsel crisis／elf-esteem），其余都是议论。
 
 ## 论证结构
 

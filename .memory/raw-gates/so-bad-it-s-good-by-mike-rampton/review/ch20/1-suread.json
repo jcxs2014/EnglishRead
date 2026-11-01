@@ -1,0 +1,108 @@
+{
+ "chapter": "ch20",
+ "text_file": "text/ch20_literally_terrible_book_jokes.txt",
+ "facts": [
+  {
+   "id": 1,
+   "claim": "作者以共产主义者与裸体营的对话开场，把“读过马克思”压成椅子上留下的痕。",
+   "quote": "One turns to the other and asks, ‘Have you read Marx?’ The other replies, ‘Yes, it’s these wicker chairs.’",
+   "char_range": [
+    128,
+    234
+   ]
+  },
+  {
+   "id": 2,
+   "claim": "莎士比亚进酒吧，门卫以 Bard（诗人/ barred 被拦）回敬。",
+   "quote": "William Shakespeare walks into a bar. The bouncer shouts, ‘You’re Bard!’",
+   "char_range": [
+    239,
+    311
+   ]
+  },
+  {
+   "id": 3,
+   "claim": "作者用 E. M. Forster 的姓氏做“自愿/主动”的双关。",
+   "quote": "‘My wife just read A Room With a View.’ ‘Forster?’ ‘No, she read it of her own accord.’",
+   "char_range": [
+    504,
+    591
+   ]
+  },
+  {
+   "id": 4,
+   "claim": "福尔摩斯段子靠大写（喊）与小写（低声）的排版差，把 Lo, a case 读成 low, a case。",
+   "quote": "‘I HAVE A MYSTERY FOR YOU, MR HOLMES!’ He looked at me and said ‘Lo, a case.’ ‘i have a mystery for you, mr holmes,’ i replied.",
+   "char_range": [
+    770,
+    897
+   ]
+  },
+  {
+   "id": 5,
+   "claim": "同义词词典笑话以重复同一句 rubbish 来自我演示“没有同义词”。",
+   "quote": "My new thesaurus is rubbish. Not only that, but it’s also rubbish.",
+   "char_range": [
+    902,
+    968
+   ]
+  },
+  {
+   "id": 6,
+   "claim": "造船书笑话把 riveting（铆接）与“引人入胜”叠在一词上。",
+   "quote": "I’m reading a book about how ships are built. It’s riveting!",
+   "char_range": [
+    1040,
+    1100
+   ]
+  },
+  {
+   "id": 7,
+   "claim": "收尾用 Jane Austen 的小说名 Persuasion 兼指“被说服”。",
+   "quote": "My friend said she had never read anything by Jane Austen and probably never would. However, she was open to Persuasion.",
+   "char_range": [
+    3699,
+    3819
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Marx / marks",
+   "relation": "“读马克思”与“藤椅在皮肤上留下的印子”同音，裸体营的设定让 marks 有了着落。",
+   "quote": "‘Have you read Marx?’ The other replies, ‘Yes, it’s these wicker chairs.’"
+  },
+  {
+   "pair": "221B 段落 / 大小写音量",
+   "relation": "叙述者大喊用全大写，福尔摩斯低声回话用全小写，字形本身承担了“小声”的语义。",
+   "quote": "‘Lo, a case.’ ‘i have a mystery for you, mr holmes,’ i replied."
+  },
+  {
+   "pair": "thesaurus / 同义词堆叠",
+   "relation": "条目式的同义词罗列替代了叙事，让“词典”成为笑话主体。",
+   "quote": "A thesaurus walks into a bar, pub, alehouse, saloon, tavern, watering hole, lounge and taproom."
+  },
+  {
+   "pair": "stories / 楼层",
+   "relation": "stories 在图书馆语境里指楼层，作者用它冒充“故事”来贬低这家图书馆。",
+   "quote": "The library in town has three stories. Not a great library really."
+  }
+ ],
+ "numbers": [
+  {
+   "value": "three",
+   "meaning": "图书馆只有三层，stories 的双关由此成立。",
+   "quote": "The library in town has three stories. Not a great library really."
+  },
+  {
+   "value": "a million-word",
+   "meaning": "百万词小说写猛犸，mammoth undertaking 兼指“巨大工程”。",
+   "quote": "I’m currently writing a million-word novel about a big hairy elephant passing in the left-hand lane of the motorway."
+  },
+  {
+   "value": "at least two",
+   "meaning": "作者拿 Williams 姐妹（Serena、Venus）与剧作家 Tennessee Williams 比拼“网球味”。",
+   "quote": "There are at least two, Serena and Venus, that are way more tennisy."
+  }
+ ]
+}

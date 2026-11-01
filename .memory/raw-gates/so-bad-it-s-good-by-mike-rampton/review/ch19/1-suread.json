@@ -1,0 +1,113 @@
+{
+ "chapter": "ch19",
+ "text_file": "text/ch19_music_jokes_that_are_hideously_out_of_tune.txt",
+ "facts": [
+  {
+   "id": 1,
+   "claim": "作者开篇即用 George Michael 挑染头发与精选集的双关笑话定调本章（Highlights reel）。",
+   "quote": "‘The blonde bits in George Michael’s hair looked great in that best-of compilation I watched.’ ‘Highlights reel?’",
+   "char_range": [
+    99,
+    212
+   ]
+  },
+  {
+   "id": 2,
+   "claim": "作者用四首曲子替代签饼（fortune cookies），造出 four-tune cookies 的谐音笑话。",
+   "quote": "I’ve got some Chinese biscuits that can play ‘Hot Cross Buns’, ‘Merrily We Roll Along’, ‘She Loves You’ and ‘God Save the King’. They are, of course, four-tune cookies.",
+   "char_range": [
+    286,
+    454
+   ]
+  },
+  {
+   "id": 3,
+   "claim": "作者把第二套架子鼓说成“后果”（repercussions），利用“敲击/回响”与“后果”的双义。",
+   "quote": "Give me a drum kit, great. Give me another drum kit, and there’ll be repercussions.",
+   "char_range": [
+    457,
+    540
+   ]
+  },
+  {
+   "id": 4,
+   "claim": "作者用 seedy（低俗/有籽）与发行介质的对话制造一个空的谐音笑话。",
+   "quote": "‘Seedy?’ ‘No. It’s only on vinyl, cassette, streaming or download.’",
+   "char_range": [
+    627,
+    694
+   ]
+  },
+  {
+   "id": 5,
+   "claim": "作者把贝多芬与鸡联系起来，鸡叫被读成 Bach（作曲家）。",
+   "quote": "Why did Beethoven get rid of his chickens? All they said was ‘Bach, Bach, Bach …’",
+   "char_range": [
+    699,
+    780
+   ]
+  },
+  {
+   "id": 6,
+   "claim": "钢琴掉进矿井的笑话把降 A（A flat）与矿工（miner）压成一个词。",
+   "quote": "What do you get if you drop a piano down a mineshaft? A flat miner.",
+   "char_range": [
+    845,
+    912
+   ]
+  },
+  {
+   "id": 7,
+   "claim": "本章以 bandstand（演奏台/乐队站起）的拆词笑话收尾。",
+   "quote": "How do you make a bandstand? Take away their chairs.",
+   "char_range": [
+    3257,
+    3309
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Highlights reel / 头发挑染",
+   "relation": "同一短语在“精选集”与“挑染”两义间滑动，听者先答前者、说话人再纠正。",
+   "quote": "‘Highlights reel?’ ‘I presume they were, yeah, I don’t think it could have been a wig.’"
+  },
+  {
+   "pair": "piano / tuna fish",
+   "relation": "tune 与 tuna 的谐音把乐器与鱼并置，句子结构照搬“A 与 B 有何不同”的经典模板。",
+   "quote": "What’s the difference between a piano and a fish? You can tune a piano, but you can’t tuna fish."
+  },
+  {
+   "pair": "A flat miner / A flat, minor",
+   "relation": "音乐调名（降 A 小调）与矿井里的矿工同音，双关靠把两个短语并成一个。",
+   "quote": "What do you get if you drop a piano down a mineshaft? A flat miner."
+  },
+  {
+   "pair": "metal fan / 风力发电机",
+   "relation": "风扇与重金属乐迷共用 metal fan，让两台风机的约会笑话成立。",
+   "quote": "Two wind turbines are on a date. One says, ‘What kind of music do you like?’ The other says, ‘I’m a big metal fan.’"
+  }
+ ],
+ "numbers": [
+  {
+   "value": "3 a.m.",
+   "meaning": "邻居凌晨三点敲门，笑点在说话人自己当时还在打鼓。",
+   "quote": "The neighbour knocked on my door at 3 a.m. last night."
+  },
+  {
+   "value": "Two",
+   "meaning": "两台风力发电机约会，构成 metal fan 双关的场景。",
+   "quote": "Two wind turbines are on a date. One says, ‘What kind of music do you like?’"
+  },
+  {
+   "value": "Middle C, E flat and G",
+   "meaning": "三个音构成小三和弦，才配得上“不接待 minors（未成年人/小调）”的梗。",
+   "quote": "Middle C, E flat and G walk into a bar."
+  },
+  {
+   "value": "Two drums and a cymbal",
+   "meaning": "三件打击乐器坠崖，落地声正是笑话的鼓点 Ba-dum-tssh。",
+   "quote": "Two drums and a cymbal fall off a cliff."
+  }
+ ]
+}
