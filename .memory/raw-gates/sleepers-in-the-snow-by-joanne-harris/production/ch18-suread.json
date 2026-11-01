@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch18",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch18_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "2024-10-26 日记首句：Caroline 在电线里",
+   "anchor": "Caroline is in the wires.",
+   "start": 44,
+   "end": 69
+  },
+  {
+   "fact": "Lucy 来电之后三天他翻遍整栋房子找 Caroline",
+   "anchor": "For the three days that followed the phone call, he searched the house for Caroline, through her clothes, her cosmetics, her diaries.",
+   "start": 111,
+   "end": 244
+  },
+  {
+   "fact": "Caroline 的生日是 10 月 20 日",
+   "anchor": "Caroline’s birthday: October 20th.",
+   "start": 383,
+   "end": 417
+  },
+  {
+   "fact": "2020-12-01 Caroline 日记：Arthur 已第十四天不与她说话",
+   "anchor": "Arthur is on his fourteenth day of not speaking to me.",
+   "start": 2306,
+   "end": 2360
+  },
+  {
+   "fact": "2020-12-24 Caroline 日记里出现「花园里的一只网球」",
+   "anchor": "A tennis ball in the garden.",
+   "start": 3709,
+   "end": 3737
+  },
+  {
+   "fact": "小屋得名来自屋后的小教堂废墟，如今该位置立着终端电线塔",
+   "anchor": "Behind it stood the ruins of the chapel for which they had named it Kirkhill",
+   "start": 8372,
+   "end": 8448
+  },
+  {
+   "fact": "房子原名 Firefleet，改名 Kirkhill 是为了安抚深信诅咒的村民",
+   "anchor": "Once known as Firefleet, the name was later changed to Kirkhill to satisfy local villagers",
+   "start": 8630,
+   "end": 8720
+  },
+  {
+   "fact": "1825 年 Foxton 夫妇年幼的女儿 Lucy 冻死在屋旁结冰的小溪里",
+   "anchor": "their young daughter, Lucy, perished in a frozen stream",
+   "start": 9235,
+   "end": 9290
+  }
+ ]
+}

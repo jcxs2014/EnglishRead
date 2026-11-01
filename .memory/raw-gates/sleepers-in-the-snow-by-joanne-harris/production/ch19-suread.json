@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch19",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch19_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "男主把相机和胶卷留在修理店时心里涌起奇怪的不情愿，觉得它们本就属于这栋房子",
+   "anchor": "He left the camera and film with an odd reluctance. They belong in the house, he thought. It feels wrong to take them away.",
+   "start": 585,
+   "end": 708
+  },
+  {
+   "fact": "男主查 Lyke 的教堂、图书馆与墓地，关于 Arthur 和 Caroline 的线索一无所获",
+   "anchor": "Neither yielded anything regarding Arthur and Caroline.",
+   "start": 1016,
+   "end": 1071
+  },
+  {
+   "fact": "男主找到 Howling Man 石碑，上面粗糙地刻着像是狗群袭击人的图案",
+   "anchor": "including the one called the Howling Man: a saddle of stone pushing out of the ground, with a rough carving of what might have been dogs, attacking a human figure",
+   "start": 1225,
+   "end": 1387
+  },
+  {
+   "fact": "Howling Man 石碑上的圆圈让男主想起网球，以及它们曾如何令他不安",
+   "anchor": "That made him think of the tennis balls, and how they had disturbed him",
+   "start": 1542,
+   "end": 1613
+  },
+  {
+   "fact": "Lucy 告诉男主 Barguest 是死亡的预兆，专袭击孤独的旅人",
+   "anchor": "A great black dog – a portent of death – that preys on lonely travellers",
+   "start": 2732,
+   "end": 2804
+  },
+  {
+   "fact": "Lucy 说 Howling Man 展示的是 Barguest 与它的猎物，以及 Gabble Ratchet（尸犬群）",
+   "anchor": "Some people think the Howling Man shows the Barguest and his prey, with the Gabble Ratchet – his pack of corpse-hounds",
+   "start": 2806,
+   "end": 2924
+  },
+  {
+   "fact": "Lucy 叫男主 Arthur，说「没关系，它相信你」",
+   "anchor": "She shook her head, still smiling, saying over her shoulder: ‘That’s okay, Arthur. It believes in you.’",
+   "start": 3307,
+   "end": 3410
+  },
+  {
+   "fact": "结尾外面 Gabble Ratchet 嚎叫，但男主知道那只是风",
+   "anchor": "Outside, the Gabble Ratchet howled – though that, he knew, was just the wind.",
+   "start": 7533,
+   "end": 7610
+  }
+ ]
+}
