@@ -1,0 +1,150 @@
+{
+  "chapter": "ch44",
+  "source": "text/ch44_chapter_forty_four.txt",
+  "char_total": 13552,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Kesath 舰队被削到十二艘后，当天午后决定再牺牲两艘风暴船。",
+      "quote": "In the late afternoon, Kesath decided to sacrifice two more.",
+      "start": 297,
+      "end": 357
+    },
+    {
+      "i": 2,
+      "summary": "Gaheris 亲自驾风暴船升空、率军冲锋，把从西岸撤退的 Valisante 舰队打了回去。",
+      "quote": "they’d been driven back when Gaheris finally took to the skies on his own stormship and led the charge against them",
+      "start": 689,
+      "end": 804
+    },
+    {
+      "i": 3,
+      "summary": "六座浮动堡垒齐放 Firewarren，黑盾挡下后炸成数十枚抓钩，Shadowforged Legion 分六组强行登上浮动堡垒。",
+      "quote": "The black sphere shuddered and burst into dozens of grappling hooks, one for each legionnaire.",
+      "start": 3818,
+      "end": 3912
+    },
+    {
+      "i": 4,
+      "summary": "Alaric 右掌被烧成水泡，仍双手握战争镰刀劈下，砍落两名 Firedancer 的头。",
+      "quote": "He gripped it in both hands and swung, because the burn didn’t matter, because the Shadowforged were used to pain.",
+      "start": 6052,
+      "end": 6166
+    },
+    {
+      "i": 5,
+      "summary": "Bieshimma 以弩射 Alaric，Alaric 因对方是 Talasyn 的指挥官而犹豫，Nisene 从背后以影矛刺穿其胸膛。",
+      "quote": "Bieshimma’s eyes suddenly went wide and his body gave a violent spasm as a shadowy lance pierced through his chest from behind.",
+      "start": 7025,
+      "end": 7152
+    },
+    {
+      "i": 6,
+      "summary": "Nautilus 升起后，Alaric 下令全军团撤回九艘 Kesath 风暴船护卫的南线壁垒。",
+      "quote": "As soon as he saw it, Alaric heard himself give the Legion the order to fall back—to return to the safety provided by the nine Kesathese stormships stationed above the southern barricade.",
+      "start": 8343,
+      "end": 8530
+    },
+    {
+      "i": 7,
+      "summary": "Alaric 怒斥扬言愿为他赴死的年轻军团兵 Bryne，威胁让她终身削土豆。",
+      "quote": "“If I ever hear you talk like that again,” Alaric snapped at Bryne, “you will be on kitchen duty peeling potatoes for the rest of your life.”",
+      "start": 9427,
+      "end": 9568
+    },
+    {
+      "i": 8,
+      "summary": "Talasyn 下令后，Siuk 鸣枪为号，Dominion 舰队所有舷船的炮口一齐从 Night Empire 转向 Sardovia Allfold。",
+      "quote": "And, as one, every single outrigger in the Dominion fleet swung their cannons away from the Night Empire.",
+      "start": 13413,
+      "end": 13518
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "夫妻，如今分属交战双方；她不会原谅他在战场上对她部属的作为",
+      "quote": "It would be another thing that she would never forgive him for.",
+      "start": 6959,
+      "end": 7022
+    },
+    {
+      "a": "Alaric",
+      "b": "Nisene",
+      "relation": "君臣兼战友，Nisene 察觉他在阵前失神并直接质问",
+      "quote": "Nisene stared at Alaric, the remnants of shadow magic still sparking in her brown eyes.",
+      "start": 7328,
+      "end": 7415
+    },
+    {
+      "a": "Alaric",
+      "b": "Bryne",
+      "relation": "君臣；Bryne 是他最年轻、刚从见习提拔的军团兵，愿为他赴死",
+      "quote": "“Your Majesty!” cried Bryne, one of his youngest legionnaires, a girl who had been hastily promoted from the initiate ranks only days ago.",
+      "start": 8533,
+      "end": 8671
+    },
+    {
+      "a": "Talasyn",
+      "b": "Elaryen Siuk",
+      "relation": "Talasyn 为 Dominion 的 Harlikaan，Siuk 是 Grand Magindam，二人并肩指挥",
+      "quote": "the Dominion’s Grand Magindam, Elaryen Siuk, turned to Talasyn, who was standing beside her",
+      "start": 12507,
+      "end": 12598
+    },
+    {
+      "a": "Gaheris",
+      "b": "他的妻子",
+      "relation": "夫妻反目：妻子已离他出逃回母国，他却在战场上痛击该国派来的军队",
+      "quote": "against these forces that had been sent by his wife’s country, where she’d fled after she left him",
+      "start": 805,
+      "end": 903
+    }
+  ],
+  "numbers": [
+    {
+      "value": "30",
+      "context": "Kesath 有三十艘虚空风暴船凭空消失",
+      "quote": "Aside from the thirty void stormships that had vanished into thin air and the damaged five that remained out of commission, Kesath had lost three in battle.",
+      "start": 69,
+      "end": 225
+    },
+    {
+      "value": "12",
+      "context": "Kesath 原有五十艘的舰队被削到只剩十二艘",
+      "quote": "What was once a fifty-strong fleet had been whittled down to twelve.",
+      "start": 226,
+      "end": 294
+    },
+    {
+      "value": "6",
+      "context": "六座 Midzul 浮动堡垒围住 Lisu 的铁甲舰",
+      "quote": "Six floating fortresses circled Lisu’s ship. They unleashed the Firewarren all at the same time.",
+      "start": 3467,
+      "end": 3563
+    },
+    {
+      "value": "9",
+      "context": "Kesath 在南线壁垒上方驻有九艘风暴船",
+      "quote": "to return to the safety provided by the nine Kesathese stormships stationed above the southern barricade.",
+      "start": 8425,
+      "end": 8530
+    },
+    {
+      "value": "500",
+      "context": "Nenavar Dominion 开来五百艘舷船，另有无数蛾形小艇",
+      "quote": "There were five hundred of them, accompanied by countless swarms of moth coracles, all flowing effortlessly into the space between the Allfold and the Night Empire.",
+      "start": 12008,
+      "end": 12172
+    },
+    {
+      "value": "18",
+      "context": "Bryne 年纪不超过十八岁",
+      "quote": "a burn mark splashed across her neck. She couldn’t have been older than eighteen.",
+      "start": 9181,
+      "end": 9262
+    }
+  ],
+  "notes": "原文含大量空行（保留）；引文含弯引号与弯撇号，均逐字保留；“seven moons” 等跨章指涉未计入 numbers。章内数字多为舰队/人数，已择要收录。"
+}

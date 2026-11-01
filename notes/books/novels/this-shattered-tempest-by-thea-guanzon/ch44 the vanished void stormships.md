@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：上一段已经交代凯萨斯决定再牺牲两艘，这一段只是执行。留意作者一次也没用「攻击」，他用的动词是「sacrifice」——在这本书的战争语法里，舰只是可以支付的。
 
-> **原句 3:** "Six floating fortresses circled Lisu’s ship. They unleashed the Firewarren all at the same time. But the Legion had been expecting this, and the waves of flickering red magic crashed uselessly against a sphere of inky black that encased the ironclad in a protective barrier."
+> **原句 3:** "Thus Gaheris had assumed command of the west. He had pummeled Valisa with his stormship, with his ironclads, with his wolves and his shadow-spun chimeras. It had sapped the Regent’s strength and so, while he hung back to commune with the first active Shadow Sever he could find, his son took both their regiments south."
+
+- **中文理解**：于是盖赫里斯接掌了西线。他用他的风暴舰、他的铁甲舰、他的狼形小艇、他影子纺出的嵌合兽，把瓦利萨一路猛揍。这耗尽了他的力气，所以当他退到后方，去与他能找到的第一道活跃的暗影界裂沟通时，他儿子带着两支军团南下。
+
+- **关键词**：assumed command · pummeled Valisa · south
+
+- **为什么这样写**：三句话把一场战役的指挥权写得像交接班：先是「接掌」，然后是四样兵器连缀而成的排比（风暴舰、铁甲舰、狼艇、嵌合兽，从大到小），最后一句转出代价与后果——「耗尽了力气」「退到后方」「儿子带着军团南下」。
+
+- **读者视角提示**：这一段交代的正是他此刻能站在米祖尔浮堡上的前提：父亲替他打掉了西面的舰队，也替他花光了力气。而他接下来做的事，父亲并不知道。
+
+> **原句 4:** "Six floating fortresses circled Lisu’s ship. They unleashed the Firewarren all at the same time. But the Legion had been expecting this, and the waves of flickering red magic crashed uselessly against a sphere of inky black that encased the ironclad in a protective barrier."
 
 - **中文理解**：六座浮空堡垒围住利苏的舰。它们同时放出火晶。但军团早已料到这一手，一波波闪动的红色魔法徒劳地撞在一层墨黑的球体上——那层黑把铁甲舰整个包进了护罩。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：救下铁甲舰的是预判，不是护罩。记住这一点——下一段同一团黑会改变形状，那时它不再挡，而是抓。
 
-> **原句 4:** "The black sphere shuddered and burst into dozens of grappling hooks, one for each legionnaire. The barbed ends fanned outward, latching onto the railings of the Midzuli ships. The Shadowforged Legion split into six groups, leaping off the ironclad’s deck and forcibly boarding the floating fortresses."
+> **原句 5:** "The black sphere shuddered and burst into dozens of grappling hooks, one for each legionnaire. The barbed ends fanned outward, latching onto the railings of the Midzuli ships. The Shadowforged Legion split into six groups, leaping off the ironclad’s deck and forcibly boarding the floating fortresses."
 
 - **中文理解**：黑球一颤，炸成数十枚抓钩，每个军团士兵一枚。带倒钩的钩尖向外张开，扣住米祖尔舰只的栏杆。影铸军团分成六组，跃下铁甲舰甲板，强行登上浮空堡垒。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：一行之内连着 shuddered、burst、fanned、latching、split、leaping、boarding，动作之间没有留出观察的空隙——那就是混战里人所能感到的时间。
 
-> **原句 5:** "Topaz eyes locked on to his and filled with crimson light. The Midzuli woman’s bare elbow burst into flames. Behind his mask, Alaric’s teeth clenched at the oppressive heat that consumed his gauntlet, leaving him no choice but to let go of her and tug it off before his hand could be grievously damaged."
+> **原句 6:** "Topaz eyes locked on to his and filled with crimson light. The Midzuli woman’s bare elbow burst into flames. Behind his mask, Alaric’s teeth clenched at the oppressive heat that consumed his gauntlet, leaving him no choice but to let go of her and tug it off before his hand could be grievously damaged."
 
 - **中文理解**：黄玉色的眼睛锁住他的，随即被绯红的光填满。那名米祖尔女子裸露的手肘燃起火焰。面具后，阿拉里克咬紧牙关——灼人的高热吞掉了他的护手，他别无选择，只能松开她，在右手被彻底毁掉之前把护手扯下来。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她连兵器都没亮，皮肤本身就是兵器。这一点解释了紧接其后的那句交代——火舞者与普通以太术师的区别不在强弱，在魔法的形状。
 
-> **原句 6:** "Bieshimma’s eyes suddenly went wide and his body gave a violent spasm as a shadowy lance pierced through his chest from behind. His body was lifted slightly, skewered on that sharp and crackling point, and then the lance disappeared and his limp and lifeless form landed with a thud at Alaric’s feet."
+> **原句 7:** "Bieshimma’s eyes suddenly went wide and his body gave a violent spasm as a shadowy lance pierced through his chest from behind. His body was lifted slightly, skewered on that sharp and crackling point, and then the lance disappeared and his limp and lifeless form landed with a thud at Alaric’s feet."
 
 - **中文理解**：比希马的眼睛骤然睁大，身体剧烈抽搐——一柄影矛从背后刺穿了他的胸膛。他被微微挑离地面，串在那枚尖锐爆响的矛尖上；接着长矛消失，他瘫软无生气的躯体砰的一声落在阿拉里克脚边。
 
@@ -75,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「lifted slightly」「skewered」都是屠宰房的语汇，人被当成可以串起来的东西。而尸体落在「at Alaric’s feet」，不是落在战场上——这个介词先把责任摆到他脚边。
 
-> **原句 7:** "Nisene stared at Alaric, the remnants of shadow magic still sparking in her brown eyes. Her bewilderment made it clear that she’d seen him freeze with indecision. “What’s wrong with you?” she demanded."
+> **原句 8:** "Nisene stared at Alaric, the remnants of shadow magic still sparking in her brown eyes. Her bewilderment made it clear that she’d seen him freeze with indecision. “What’s wrong with you?” she demanded."
 
 - **中文理解**：尼塞娜盯着阿拉里克，影术的余烬还在她褐色的眼里跳。她的错愕说明她看见了他僵住、拿不定主意的那一瞬。「你怎么了？」她质问。
 
@@ -85,7 +95,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她眼里的影术余烬还没散，刚才那一矛从何而来，作者用这个细节补上了。紧接着她问的不是战况，是「你怎么了」——战功在这一问里立刻变成需要解释的东西，部下开始需要理解他，而不只是服从他。
 
-> **原句 8:** "Behind her, the other legionnaires looked just as eager. Just as resolute. “There is not a single one of us who wouldn’t gladly give our lives for you, Emperor Alaric,” she said, a fervent light in her eyes, a burn mark splashed across her neck."
+> **原句 9:** "Several miles away, the Nautilus rose up from behind Sardovian ranks. As soon as he saw it, Alaric heard himself give the Legion the order to fall back—to return to the safety provided by the nine Kesathese stormships stationed above the southern barricade."
+
+- **中文理解**：几英里外，鹦鹉螺号从萨多维亚阵列后方升了起来。他一看见它，就听见自己在下令：让军团后撤——退回南线壁垒上方那九艘凯萨斯风暴舰提供的庇护里。
+
+- **关键词**：miles away · rose up · fall back
+
+- **为什么这样写**：视线先被拉到「几英里外」，再落回他身上，中间那句「他听见自己在下令」把他从指挥官变成了听见自己说话的人——命令是他的，执行命令的却不是此刻的他。
+
+- **读者视角提示**：这里是他整段攻势的转折：六座浮堡刚夺下，他却在看见对方另一艘主力舰升空时立刻收手。紧接着那一段，一个十八岁的新兵请战，要他拿这六座堡垒去打鹦鹉螺号。
+
+> **原句 10:** "Behind her, the other legionnaires looked just as eager. Just as resolute. “There is not a single one of us who wouldn’t gladly give our lives for you, Emperor Alaric,” she said, a fervent light in her eyes, a burn mark splashed across her neck."
 
 - **中文理解**：她身后，其他军团士兵看上去同样热切。同样决绝。「我们中没有一个人不愿意为您去死，阿拉里克陛下，」她说，眼里一片炽烈的光，脖子上溅着一块烧伤。
 
@@ -95,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她年纪很轻，这句话说得毫无负担；正因毫无负担，才让人发凉。阿拉里克听见的不是忠诚，而是下一代已经排好队准备顶上来——他要挡的正是这件事。
 
-> **原句 9:** "There were five hundred of them, accompanied by countless swarms of moth coracles, all flowing effortlessly into the space between the Allfold and the Night Empire. They arranged themselves into a formation of rows and columns that neatly boxed the Night Empire’s forces in, cannons at the ready, leaving the latter with nowhere to go but the mainland, which would have been as good as a surrender."
+> **原句 11:** "There were five hundred of them, accompanied by countless swarms of moth coracles, all flowing effortlessly into the space between the Allfold and the Night Empire. They arranged themselves into a formation of rows and columns that neatly boxed the Night Empire’s forces in, cannons at the ready, leaving the latter with nowhere to go but the mainland, which would have been as good as a surrender."
 
 - **中文理解**：它们有五百艘，还伴着数不清的蛾形小艇，毫不费力地流进全盟与夜帝国之间的那片空域。它们排成一行行、一列列的阵形，把夜帝国的兵力整整齐齐地框住，炮口就位，让后者除了退回大陆本土之外无处可去——而那与投降无异。
 
@@ -105,7 +125,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：欢呼声在上一段就响起来了，萨多维亚人在为援军喝彩。请把这份欢呼记住：此刻它是救援的声响。
 
-> **原句 10:** "Talasyn surveyed the field of combat, her soldiers’ anxious gazes leveled on her as she thought about who she could trust and what it meant to trust someone. In this moment, she remembered something that Urduja had told her once."
+> **原句 12:** "Talasyn surveyed the field of combat, her soldiers’ anxious gazes leveled on her as she thought about who she could trust and what it meant to trust someone. In this moment, she remembered something that Urduja had told her once."
 
 - **中文理解**：塔拉辛扫视战场，她士兵焦虑的目光全落在她身上；她在想自己能信谁，以及信一个人到底意味着什么。就在这一刻，她想起了乌尔杜佳曾经对她说过的一句话。
 
@@ -115,7 +135,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：紧接着的一句是乌尔杜佳的原话——在毒蛇窝里，人也得是毒蛇。这句旧训马上要被她拿去用，可用在哪里，作者偏不说；她先在心里顶了一句「我不是毒蛇」。
 
-> **原句 11:** "Siuk nodded to one of her men, who unslung his void musket from his shoulder and fired a single shot into the air. The plume of amethyst magic wafted upward, a signal so bright and sharp."
+> **原句 13:** "Siuk nodded to one of her men, who unslung his void musket from his shoulder and fired a single shot into the air. The plume of amethyst magic wafted upward, a signal so bright and sharp."
 
 - **中文理解**：修克朝她的一名手下点头，那人从肩上卸下虚空火枪，朝空中放了一枪。紫水晶色的魔法烟柱袅袅上升，是一道极亮、极锐的信号。
 
