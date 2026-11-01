@@ -45,7 +45,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「my lady」这个称呼出现在交出主动权之后，而不是之前。称呼在这里不是礼貌，是让位：他把说话的位置让给她，然后才把「牌全在你手里」说出来。
 
-> **原句 4:** "“For everything I ever did that has hurt you. For every word I said while I was angry. I will spend the rest of my life making it up to you.”"
+> **原句 4:** "“Right,” Talasyn said. “This one will have to be brought back to Nenavar.” She reached out to pet it but, spooked, the bird took flight once again, nestling into the branches of the linden tree in the garden."
+
+- **中文理解**：「好吧，」塔拉辛说。「这一只得送回内纳瓦伦去。」她伸手想摸摸它，可鸟受了惊，又一次飞走，钻进花园里那棵椴树的枝叶间。
+
+- **关键词**：brought back · reached out · linden tree
+
+- **为什么这样写**：她要把它送回去，它却不肯被摸——句子让「人伸手」和「鸟飞走」紧挨着发生，一个动作接一个动作，中间只隔一个逗号。谁也没错，但谁也没留住谁。
+
+- **读者视角提示**：前一段（不在本块引语内）它落在阳台栏杆上叫着，看上去有点瘦、但没受伤；后一段写气氛转沉——这只鸟本身就是他们一路走来的提醒。
+
+> **原句 5:** "“For everything I ever did that has hurt you. For every word I said while I was angry. I will spend the rest of my life making it up to you.”"
 
 - **中文理解**：「为我做过的每一件伤到你的事。为我生气时说过的每一句话。我会用余生把它补回来。」
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：同一段开头还有更短的一截，「I am sorry,」said Alaric.——三个词先落地，后面才是明细。把这句和引语连起来听，顺序是先认罪、再列账、最后押上余生；缺了开头那四个词，这三行会显得像条款。
 
-> **原句 5:** "For his part, Alaric truly had no idea how he would react to seeing Sancia Ossinast—now back to Sancia Elidan—again. Aside from wrestling with the intricacies of diplomacy in a world after the war, he and his mother would also have to contend with forgiving each other."
+> **原句 6:** "For his part, Alaric truly had no idea how he would react to seeing Sancia Ossinast—now back to Sancia Elidan—again. Aside from wrestling with the intricacies of diplomacy in a world after the war, he and his mother would also have to contend with forgiving each other."
 
 - **中文理解**：就他这边而言，阿拉里克完全不知道自己再见到桑西亚·奥西纳斯特——如今已改回桑西亚·埃利丹——会是什么反应。除了要应付战后世界外交的种种繁难，他和母亲还得面对彼此的原谅。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「For his part」把视角从她交给他：前面一直是她在做梦、在哭、在打量四周，从这里起心事由他来担。读者跟着她的眼泪走了大半章，到这句才发现，他要处理的旧账并不比她的轻。
 
-> **原句 6:** "She shook her head, clearly exasperated by her husband’s strange ways, but she was smiling a little as she took his hand and led him away from the balcony and into the dawn of a new age—one where whatever storms still lurked would not pass unconquered. Where the winds would always carry them back to each other."
+> **原句 7:** "She shook her head, clearly exasperated by her husband’s strange ways, but she was smiling a little as she took his hand and led him away from the balcony and into the dawn of a new age—one where whatever storms still lurked would not pass unconquered. Where the winds would always carry them back to each other."
 
 - **中文理解**：她摇了摇头，显然被丈夫这些古怪做派弄得没了脾气，却还是带着一点笑，牵起他的手，把他从阳台领走，领进一个新时代的黎明——在那个时代里，还在暗处徘徊的风暴没有一场会被放过。而风，总会把他们送回彼此身边。
 

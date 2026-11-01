@@ -1,0 +1,136 @@
+{
+  "chapter": "ch55",
+  "source": "text/ch55_chapter_fifty_five.txt",
+  "char_total": 6062,
+  "events": [
+    {
+      "n": 1,
+      "summary": "塔拉辛在丈夫怀里做梦：金色天穹、白色巨龙，以及新月形船上伸手相迎的黑发女人。",
+      "quote": "It was a sky as radiant as spun gold tangled up with turquoise gossamer, the light so pure that even the air seemed to crystallize within it.",
+      "start": 186,
+      "end": 327
+    },
+    {
+      "n": 2,
+      "summary": "塔拉辛醒来时眼中有泪，悄悄下床走到阿拉里克的阳台，因为当天正是和谈开始的日子。",
+      "quote": "When Talasyn opened her eyes, there were tears in them. She nuzzled into the crook of Alaric’s neck for a few moments, then got out of bed before she ended up waking him as well.",
+      "start": 575,
+      "end": 753
+    },
+    {
+      "n": 3,
+      "summary": "塔拉辛承认没把握促成萨尔达维亚与凯萨斯的和谈，阿拉里克说只要两人在一起就无所不能。",
+      "quote": "As long as we’re with each other, we can do anything,” he told her.",
+      "start": 1966,
+      "end": 2033
+    },
+    {
+      "n": 4,
+      "summary": "塔拉辛说出计划：等「鹦鹉螺号」与「魔鬼鱼号」解除武装，她就要求把剩余的虚空心归还自治领。",
+      "quote": "when the Nautilus and the Manta are disarmed, I’ll insist that the remaining void hearts be returned to the Dominion",
+      "start": 2416,
+      "end": 2532
+    },
+    {
+      "n": 5,
+      "summary": "萨里曼鸟落在阳台栏杆上，塔拉辛说要把它带回尼纳瓦，鸟受惊飞进花园的椴树；阿拉里克笑她得自己去抓。",
+      "quote": "The sariman alighted on the balcony railing, chirping at them. It looked a little straggly but, otherwise, unharmed.",
+      "start": 2790,
+      "end": 2906
+    },
+    {
+      "n": 6,
+      "summary": "阿拉里克为过去伤害过她的言行道歉，塔拉辛则要求他也让她同样补偿。",
+      "quote": "For everything I ever did that has hurt you. For every word I said while I was angry.",
+      "start": 3543,
+      "end": 3628
+    },
+    {
+      "n": 7,
+      "summary": "阿拉里克想起瓦莉萨将派使者观察「全体」与夜帝国的和谈，并意识到自己还得与母亲桑西娅互相原谅。",
+      "quote": "Valisa was sending an envoy to observe the negotiations between the Allfold and the Night Empire.",
+      "start": 4075,
+      "end": 4172
+    },
+    {
+      "n": 8,
+      "summary": "阿拉里克用瓦莉桑特语念出母亲教他的求婚诗句，塔拉辛调侃他竟会作诗，随后牵他回房。",
+      "quote": "“The stars guide me home to your heart,” he murmured. “The sun rises in the kingdom I found in your eyes.”",
+      "start": 5430,
+      "end": 5536
+    }
+  ],
+  "relations": [
+    {
+      "a": "塔拉辛",
+      "b": "阿拉里克",
+      "relation": "夫妻：她在丈夫怀中醒来，两人共用「我们的人民」这一说法",
+      "quote": "Cocooned in her husband’s arms under a pile of soft blankets, her world still smelling like crushed rose petals, Talasyn had a dream.",
+      "start": 50,
+      "end": 183
+    },
+    {
+      "a": "阿拉里克",
+      "b": "桑西娅·埃利丹（Sancia Ossinast，其母）",
+      "relation": "母子长期不睦，战后必须互相原谅，阿拉里克对此不抱高期望",
+      "quote": "he and his mother would also have to contend with forgiving each other",
+      "start": 4430,
+      "end": 4500
+    },
+    {
+      "a": "瓦莉萨",
+      "b": "「全体」与夜帝国",
+      "relation": "瓦莉萨派使者观察双方和谈，她的回归将引起震动",
+      "quote": "Valisa was sending an envoy to observe the negotiations between the Allfold and the Night Empire.",
+      "start": 4075,
+      "end": 4172
+    },
+    {
+      "a": "塔拉辛",
+      "b": "尼纳瓦（自治领）",
+      "relation": "她统辖尼纳瓦舰队，是仅存的大舰队，因此握有谈判桌上的全部筹码",
+      "quote": "Nenavar is the last grand fleet in this corner of Lir. You hold all the cards, my lady.",
+      "start": 2287,
+      "end": 2374
+    },
+    {
+      "a": "萨尔达维亚诸邦",
+      "b": "夜帝国",
+      "relation": "加赫里斯在位初期被吞并的萨尔达维亚诸邦，对是否留在夜帝国意见分裂",
+      "quote": "the Sardovian states annexed during the early days of Gaheris’s reign were torn about whether or not to stay with the Night Empire",
+      "start": 1729,
+      "end": 1859
+    }
+  ],
+  "numbers": [
+    {
+      "value": "five（5 分钟）",
+      "context": "阿拉里克赖床，要求再抱五分钟再准备和谈",
+      "quote": "So endearing, in fact, that Alaric curved an arm around the small of her back, drawing her close once more. “Five more minutes,” he said, nuzzling into her.",
+      "start": 5084,
+      "end": 5240
+    },
+    {
+      "value": "sennight（七个夜晚，即一周前）",
+      "context": "阿拉里克一周前收到瓦莉萨派使者的消息",
+      "quote": "He thought about a message he’d received last sennight. Valisa was sending an envoy to observe the negotiations between the Allfold and the Night Empire.",
+      "start": 4019,
+      "end": 4172
+    },
+    {
+      "value": "both（两支军团）",
+      "context": "萨尔达维亚与凯萨斯两支军团都被打残，尼纳瓦成为该区域仅存的大舰队",
+      "quote": "With both the Sardovian and Kesathese regiments decimated, Nenavar is the last grand fleet",
+      "start": 2228,
+      "end": 2318
+    },
+    {
+      "value": "two（两艘旗舰）",
+      "context": "「鹦鹉螺号」与「魔鬼鱼号」两艘旗舰将解除武装，之后归还虚空心",
+      "quote": "“I think,” Talasyn said slowly, “that when the Nautilus and the Manta are disarmed, I’ll insist that the remaining void hearts be returned to the Dominion.",
+      "start": 2378,
+      "end": 2533
+    }
+  ],
+  "notes": "原文由 epub 提取，正文前有重复章标题与多行空行；正文首段为梦境段，弯引号/弯撇号（’ “ ”）需原样保留。文件末尾无缺字，第 90 行为本章收束句。"
+}

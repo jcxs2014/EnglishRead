@@ -41,7 +41,7 @@ modified: "2026-11-01"
 - **中文理解**：阿拉里克正要出门去找塔拉辛，她却从走廊里蹦了进来，冲他露出一个心照不宣的笑。「猜我看见谁在我的花园里亲嘴了！我正要上楼，碰巧往窗外一看，他们就在那儿。」
 - **关键词**：conspiratorial grin · in my garden
 - **为什么这样写**：她进门的第一件事不是汇报和谈的准备，而是分享一桩八卦：bounded in 与 conspiratorial grin 两个词把她的雀跃写成同谋。引号里的句子短、感叹号多，跟她平时作为女王说话的腔调完全不同，于是读者看到的是她在丈夫面前可以不当女王。
-- **读者视角提示**：这一块是全章气压最高、也最容易被读快的地方。留意 my garden：她说的是「我的花园」，不是「那座花园」，像是把那片地当成自己的东西在讲。
+- **读者视角提示**：这一块是全章气压最高、也最容易被读快的地方。留意 my garden：她说的是「我的花园」，不是「那座花园」，像是把那片地当成自己的东西在讲。同一场对话里（不在本块引语内）还有两句：他问「萨多维亚代表团到了以后，你把埃拉格比王子引见给卡埃德了吗」；她答「引见了」，并说今天才知道里尔上有一个人对内纳瓦伦的魅力免疫。
 
 > **原句 5:** "These days, Bakun’s passing and the toll that the war had taken occasionally crossed over Talasyn’s features like a shadow, but she seemed determined to push through it. That was all anyone could do, really: move forward."
 

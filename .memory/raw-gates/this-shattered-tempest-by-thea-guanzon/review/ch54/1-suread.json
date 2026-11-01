@@ -1,0 +1,135 @@
+{
+  "chapter": "ch54",
+  "source": "text/ch54_chapter_fifty_four.txt",
+  "char_total": 13886,
+  "events": [
+    {
+      "n": 1,
+      "summary": "阿拉里克在寝宫等塔拉辛回来，天已日落她仍未归。",
+      "quote": "The afternoon before the peace talks found the Night Emperor moping in his bedchamber. It was already sunset, but his wife hadn’t come back yet.",
+      "start": 324,
+      "end": 468
+    },
+    {
+      "n": 2,
+      "summary": "阿拉里克告知巴昆的死讯后，塔拉辛痛哭不止，他只能抱着她。",
+      "quote": "When Alaric broke the news of Bakun’s death, Talasyn had wept so hard and for so long that he’d feared she would lose consciousness once more.",
+      "start": 817,
+      "end": 959
+    },
+    {
+      "n": 3,
+      "summary": "塔拉辛冲进房间，告诉阿拉里克她看见有人在她花园里接吻。",
+      "quote": "she bounded in from the hallway, shooting him a conspiratorial grin. “Guess who I saw kissing in my garden! I was heading up the stairs when I happened to glance out the window and there they were.”",
+      "start": 1272,
+      "end": 1470
+    },
+    {
+      "n": 4,
+      "summary": "塔拉辛回答已把埃拉格比王子引见给卡埃德，并说发现有人对涅纳瓦雷魅力免疫。",
+      "quote": "“Yes,” she said. “And, coincidentally, today I learned that there is one person on Lir who’s immune to Nenavarene charm.”",
+      "start": 2997,
+      "end": 3118
+    },
+    {
+      "n": 5,
+      "summary": "阿拉里克把塔拉辛抱进浴室，正在撒花瓣的仆人见状立刻逃走。",
+      "quote": "A group of servants were in the middle of sprinkling something into the steaming tub. They took one look at their emperor carrying his consort in his arms and immediately fled.",
+      "start": 5152,
+      "end": 5328
+    },
+    {
+      "n": 6,
+      "summary": "塔拉辛说要以口答谢丈夫救命，并动手解开他的裤子。",
+      "quote": "“Thanking my husband for saving me.” Her lithe fingers undid the fastenings of his trousers with some difficulty, because he’d been hard ever since she kissed him back in the bedchamber.",
+      "start": 7152,
+      "end": 7338
+    },
+    {
+      "n": 7,
+      "summary": "塔拉辛用嘴服侍阿拉里克，他按着她的头在她口中高潮。",
+      "quote": "And soon his breathing was harsher than she’d ever heard it before and he was cupping the back of her head, pressing in close, and he was coming in her mouth.",
+      "start": 11110,
+      "end": 11268
+    },
+    {
+      "n": 8,
+      "summary": "塔拉辛在浴缸中骑乘阿拉里克，两人相继高潮，以太随之鸣唱。",
+      "quote": "And she did, and he followed, and the aether sang.",
+      "start": 13835,
+      "end": 13885
+    }
+  ],
+  "relations": [
+    {
+      "a": "阿拉里克",
+      "b": "塔拉辛",
+      "relation": "夫妻（夜帝与龙后），同浴共处",
+      "quote": "when Alaric settled into it with his wife in his lap. His gloriously naked wife, although he’d been sad to see the brassiere go.",
+      "start": 11541,
+      "end": 11669
+    },
+    {
+      "a": "塔拉辛",
+      "b": "巴昆",
+      "relation": "哀悼者与被哀悼者（巴昆之死令她痛哭）",
+      "quote": "These days, Bakun’s passing and the toll that the war had taken occasionally crossed over Talasyn’s features like a shadow, but she seemed determined to push through it.",
+      "start": 2094,
+      "end": 2263
+    },
+    {
+      "a": "阿拉里克",
+      "b": "苏拉奎尔",
+      "relation": "不睦；塔拉辛建议二人学会相处",
+      "quote": "“If Surakwel commits to staying at court now that he has a reason to, the two of you will be seeing a lot more of each other. I suggest learning how to get along.”",
+      "start": 1609,
+      "end": 1772
+    },
+    {
+      "a": "埃拉格比王子",
+      "b": "卡埃德",
+      "relation": "经塔拉辛引见而相识",
+      "quote": "“Now that the Sardovian delegation has arrived, were you able to introduce Prince Elagbi to Khaede?” he asked.",
+      "start": 2884,
+      "end": 2994
+    }
+  ],
+  "numbers": [
+    {
+      "value": "one",
+      "context": "塔拉辛称利尔上有一人对涅纳瓦雷魅力免疫",
+      "quote": "there is one person on Lir who’s immune to Nenavarene charm",
+      "start": 3057,
+      "end": 3116
+    },
+    {
+      "value": "five seconds",
+      "context": "阿拉里克心想若她不在五秒内重新含住他，他就要昏过去",
+      "quote": "He was going to pass out if she didn’t put her mouth back on him within the next five seconds.",
+      "start": 8714,
+      "end": 8808
+    },
+    {
+      "value": "a couple more inches",
+      "context": "她尽量放松下颌，他又滑入数英寸",
+      "quote": "He slipped in by a couple more inches and her eyes fluttered at the sensation.",
+      "start": 10448,
+      "end": 10526
+    },
+    {
+      "value": "a handful of times",
+      "context": "她的牙齿有几次不小心刮到他，他倒吸一口气",
+      "quote": "and there were a handful of times when her teeth accidentally grazed him and he hissed.",
+      "start": 10015,
+      "end": 10102
+    },
+    {
+      "value": "the past few days",
+      "context": "过去几天他们只接吻、交谈、安静相伴",
+      "quote": "Kissing was all they’d done in the past few days—kissing and talking and just quietly basking in each other’s presence.",
+      "start": 4119,
+      "end": 4238
+    }
+  ],
+  "notes": "原文开头重复一次章节标题（第1行与第12行），第2–14行大量空行；正文按自然段切分。第105段含大段外貌描写，第117–180段为明确的性描写，引语照录未删节。所有引语均含弯引号/弯撇号（如 “ ” ’ ），逐字取自原文；未跨自然段。本章无对话标记之外的人名变体，注意原文有一处拼写异体 “Talaysn”（第120段），非引语采录范围。"
+}

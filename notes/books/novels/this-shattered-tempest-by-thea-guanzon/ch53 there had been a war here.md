@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：crush her lungs 写的是身体感受，不是想法。读到这里可以停一下：一个人在梦里连自己是谁都不知道，却对「爱是什么」毫不迟疑——这份笃定本身，比冰湖更冷也更暖。
 
-> **原句 3:** "He wasn’t wearing any gauntlets, and the apprehension in Talasyn’s chest eased at the sight of the wedding band on his ring finger. It came back to her in fragments, everything that he had said while she’d floated through the depths of some dark sea. Those words of his that had pulled her up to the surface at long last."
+> **原句 3:** "She drifted in and out of consciousness over the next two days; whenever she was lucid, she would be too tired to talk or even keep her eyes open for long, but her husband was always in the room with her."
+
+- **中文理解**：接下来两天里她时昏时醒；清醒的时候也累得说不出话，连眼睛都睁不久，但她丈夫一直待在房间里陪着她。
+
+- **关键词**：drifted · two days · the room
+
+- **为什么这样写**：整句用分号串起三件事，一件比一件更靠外：先是她的状态（时昏时醒），再是她的力气（说不出话），最后才落到房间里那个人。前两件都是否定式的，最后一件是唯一一个「一直在」的肯定。
+
+- **读者视角提示**：紧随的几句（不在本块引语内）是三个「有时候」：握她的手、蜷在太小的椅子里睡、跟医师或军官低声说话。三个画面都在同一间屋子里，谁也没离开。
+
+> **原句 4:** "He wasn’t wearing any gauntlets, and the apprehension in Talasyn’s chest eased at the sight of the wedding band on his ring finger. It came back to her in fragments, everything that he had said while she’d floated through the depths of some dark sea. Those words of his that had pulled her up to the surface at long last."
 
 - **中文理解**：他没戴护手，塔拉辛看见他无名指上的婚戒，胸口的忐忑就松了下来。他那些话一点一点回来了，碎片似的——那是她在某片黑色海域深处漂浮时，他对着她说过的。正是那些话，终于把她从水底托回了水面。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：gauntlets 不只是装束。护手是凯萨斯军人的外壳，他脱下它、把戴戒指的那只手露出来，这个动作没有写进句子，却由「没戴护手」四个字替你补上了。
 
-> **原句 4:** "Alaric’s hands balled into fists at his sides. “I don’t expect you to have any desire to remain married to me. Not after everything that I’ve put you through,” he said stiffly."
+> **原句 5:** "Alaric’s hands balled into fists at his sides. “I don’t expect you to have any desire to remain married to me. Not after everything that I’ve put you through,” he said stiffly."
 
 - **中文理解**：阿拉里克的手在身侧攥成了拳。「我不指望你还愿意跟我做夫妻。在我让你受了这一切之后。」他生硬地说。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：他说的是「不指望」，不是「不希望」。两个词之间隔着整个人的自尊，读的时候别把它们混成一个意思。
 
-> **原句 5:** "I want a proper honeymoon. It will have to be after the peace talks—and we probably can’t take more than a few days off—but I don’t mind, as long as it’s somewhere nice and quiet and just the two of us."
+> **原句 6:** "I want a proper honeymoon. It will have to be after the peace talks—and we probably can’t take more than a few days off—but I don’t mind, as long as it’s somewhere nice and quiet and just the two of us."
 
 - **中文理解**：我要一场像样的蜜月。得等到和谈之后——我们大概也抽不出超过几天——不过我不介意，只要是安静的好地方，只有我们两个人。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：他许下的是婚约、领土与赔偿，她要的是一场蜜月。这个落差不是玩笑，是她把「和好」翻译成了一件可以排进日程的小事——越具体，越是真的。
 
-> **原句 6:** "Alaric cradled her face in one large palm, tipping her chin up so that their eyes met. “I love you.” He crushed his lips to hers, tender and possessive all at once."
+> **原句 7:** "Alaric cradled her face in one large palm, tipping her chin up so that their eyes met. “I love you.” He crushed his lips to hers, tender and possessive all at once."
 
 - **中文理解**：阿拉里克用一只大手掌捧住她的脸，抬起她的下巴，让两个人的目光对上。「我爱你。」他把嘴唇压到她的唇上，温柔与占有同时在场。
 

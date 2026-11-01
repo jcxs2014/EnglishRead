@@ -1,0 +1,143 @@
+{
+  "chapter": "ch53",
+  "source": "text/ch53_chapter_fifty_three.txt",
+  "char_total": 8018,
+  "events": [
+    {
+      "n": 1,
+      "summary": "塔拉辛独自站在隆冬的冰湖中央，四周是密林，七个月亮悬在布满星座的夜空。",
+      "quote": "She was alone in the heart of winter, standing in the middle of a frozen lake surrounded by dense forests.",
+      "start": 52,
+      "end": 158
+    },
+    {
+      "n": 2,
+      "summary": "她朝远处岸边那个背对她的黑色身影走去，冰面在赤裸的脚下开裂，她喊出他的名字。",
+      "quote": "She walked toward him. The ice cracked beneath her bare feet but she didn’t care",
+      "start": 834,
+      "end": 914
+    },
+    {
+      "n": 3,
+      "summary": "她终于走到近前再次呼唤，他听见了，转过身来。",
+      "quote": "At last, he heard. At last, he turned to her.",
+      "start": 1783,
+      "end": 1828
+    },
+    {
+      "n": 4,
+      "summary": "从昏迷中醒来后，塔拉辛在接下来的两天里时醒时睡，阿拉里克始终守在她房中。",
+      "quote": "She drifted in and out of consciousness over the next two days",
+      "start": 1989,
+      "end": 2051
+    },
+    {
+      "n": 5,
+      "summary": "南岸之战八天后的清晨，塔拉辛真正清醒过来，看见阿拉里克站在窗边，手上没戴护手、婚戒清晰可见。",
+      "quote": "Alaric was standing by the window, turned to her in profile, his tall, black-clad frame etched in golden light.",
+      "start": 2904,
+      "end": 3015
+    },
+    {
+      "n": 6,
+      "summary": "阿拉里克说他不指望她还愿意维持婚姻，若她想要废除婚约他会配合，并承诺她开口要什么就给什么。",
+      "quote": "I don’t expect you to have any desire to remain married to me. Not after everything that I’ve put you through",
+      "start": 5705,
+      "end": 5814
+    },
+    {
+      "n": 7,
+      "summary": "塔拉辛提出要一场蜜月、彼此坦诚、不带着怒气过夜，还说起幻象中那个像他但有她眼睛的孩子。",
+      "quote": "I want a proper honeymoon. It will have to be after the peace talks",
+      "start": 6454,
+      "end": 6521
+    },
+    {
+      "n": 8,
+      "summary": "阿拉里克抱住她，反复说我爱你。",
+      "quote": "“I love you, I love you, I love you,” he said hoarsely, punctuating each fervent declaration with a blistering kiss.",
+      "start": 7877,
+      "end": 7993
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻；他守在她病床边",
+      "quote": "whenever she was lucid, she would be too tired to talk or even keep her eyes open for long, but her husband was always in the room with her",
+      "start": 2053,
+      "end": 2192
+    },
+    {
+      "a": "Talasyn",
+      "b": "her father",
+      "relation": "父女；父亲为她忧心，留在要塞",
+      "quote": "Your father has been beside himself. I’ll have a runner sent to him right away.",
+      "start": 3883,
+      "end": 3962
+    },
+    {
+      "a": "Talasyn",
+      "b": "Vela",
+      "relation": "朋友；阿拉里克提议送信让她来见",
+      "quote": "“Shall I send a message to Vela?” he repeated blandly. “I’m sure you wish to see her and Khaede.”",
+      "start": 4805,
+      "end": 4902
+    },
+    {
+      "a": "Talasyn",
+      "b": "her unborn/future child",
+      "relation": "母子（幻象中的未来孩子）",
+      "quote": "I saw a child who looks like you but has my eyes. I want to meet that child one day.",
+      "start": 7140,
+      "end": 7224
+    },
+    {
+      "a": "Night Empire",
+      "b": "Sardovian Allfold",
+      "relation": "交战双方，正式和约尚未签订",
+      "quote": "given that no formal peace treaty has been signed as of yet",
+      "start": 4214,
+      "end": 4273
+    }
+  ],
+  "numbers": [
+    {
+      "value": "seven",
+      "context": "七个月亮悬在夜空",
+      "quote": "All seven moons hung in a sky studded with thousands of constellations",
+      "start": 159,
+      "end": 229
+    },
+    {
+      "value": "two days",
+      "context": "昏迷后两天里时醒时睡",
+      "quote": "She drifted in and out of consciousness over the next two days",
+      "start": 1989,
+      "end": 2051
+    },
+    {
+      "value": "eight days",
+      "context": "南岸之战后第八天清晨",
+      "quote": "Eight days after the battle of the southern shore, the morning sun pierced through Talasyn’s lids",
+      "start": 2722,
+      "end": 2819
+    },
+    {
+      "value": "six days",
+      "context": "和谈将在六天后举行",
+      "quote": "The peace negotiations between the Night Empire and the Sardovian Allfold will be held here in six days.",
+      "start": 5282,
+      "end": 5386
+    },
+    {
+      "value": "a year",
+      "context": "她在宫廷待了一年，学会听弦外之音",
+      "quote": "Over the past year at court, she’d had to learn how to listen carefully to what was unspoken, and now there was a flicker of anxiety curling in her stomach.",
+      "start": 5475,
+      "end": 5631
+    }
+  ],
+  "notes": "原文首尾各有一行 \"Chapter Fifty-Three\" 标题重复（第1行与第12行），中间为空行；正文含弯引号与省略号（. . .），引语均按原样逐字截取。"
+}
