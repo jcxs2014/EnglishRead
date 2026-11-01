@@ -16,7 +16,7 @@ modified: "2026-11-01"
 > **原句 1:** "At one point, several large booms rang out overhead, and I yelled and jumped, put in mind of the bangs that had killed and burned the giants who raided the camel-riding Wostrans. But instead of fire and carnage, these booms rained the whole mob with flower petals. Some of these were on fire, mind, and I did hear some yips of pain by those who’d gotten touched with an ember—but the petals, in violet and pink, were mostly a fabulous success."
 
 **中文理解**：走到一半，头顶炸响几声巨轰——我惊叫着跳起来，满脑子都是那些炸死烧死袭扰骑驼 Wostran 人的巨人的 BANG。可这次没有火与残骸，巨响给整群人洒下花瓣雨。有的花瓣还带着火星——我也确实听见被烬点着的人吱吱叫——但紫的粉的花瓣，大体上是一场辉煌的成功。
-**关键词**：several large booms / put in mind of the bangs / rained the whole mob with flower petals / a fabulous success
+**关键词**：several large booms / put in mind of the bangs / flower petals / a fabulous success
 **为什么这样写**：庆典的烟花用创伤做底色——他听见轰鸣的第一反应是 ch17 的雷炸，恐惧的记忆让庆祝自带余震；「mostly a fabulous success」的账目口吻把「有人被烫伤」也一并入账，帝国的快乐从不完美但从不记亏损。
 **读者视角提示**：花瓣炮=雷尘的民用版——同一种「从天而降的轰鸣」既能杀人也能撒花，这个帝国的技术只有一个用途变量：给谁。
 
