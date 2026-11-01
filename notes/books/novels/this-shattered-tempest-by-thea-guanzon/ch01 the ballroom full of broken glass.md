@@ -174,7 +174,7 @@ modified: "2026-11-01"
 | blade | n. 刃、刀锋 | The crescent-shaped blade sliced through the air in a lethal arc, and the last assassin collapsed with a scream, joining his hapless comrades in the still sea of glass and roses at Alaric Ossinast’s feet. |
 | armor | n. 铠甲、战甲 | As Alaric pulled on his armor from the trunk that Sevraim had lugged downstairs, the sounds of the infirmary enveloped him. |
 | poison | n. 毒物、毒药 | the majority of the beds were occupied by Iantas’s soldiers, whose injuries were far more grievous, most of whom were wracked by the effects of the poison that had lain the castle’s defenses low |
-| wound | n. 伤口 | “What I need”—every syllable trembled with rage, the dread beast inside him howling—“is to find my wife!” |
+| wound | n. 伤口 | Only then did he recall Gao mentioning something about a wound moments ago. |
 
 ## 一句话总结
 

@@ -1,0 +1,55 @@
+{
+ "book": "this-shattered-tempest-by-thea-guanzon",
+ "chapter": "ch04",
+ "text": "notes/books/novels/this-shattered-tempest-by-thea-guanzon/text/ch04_chapter_four.txt",
+ "facts": [
+  {
+   "fact": "暗门在红披山体一侧留下一道破坏的痕迹，阿拉里克一行必须尽快离开敌方领地。",
+   "anchor": "The Shadowgate had carved a path of destruction along one side of the red-draped mountain.",
+   "start": 38,
+   "end": 128
+  },
+  {
+   "fact": "阿拉里克派伊莱丝取回她的狼形小艇、返回伊安塔斯盯住局势。",
+   "anchor": "Alaric dispatched Ileis to retrieve her wolf coracle and return to Iantas in order to keep an eye on things.",
+   "start": 261,
+   "end": 369
+  },
+  {
+   "fact": "塔拉辛在船舱里单独告诉阿拉里克，欧雅尔趁她倒地时给她注射了血清，夺走了光织，她已无法施展以太魔法。",
+   "anchor": "As I was lying there, on the floor, she injected me with—something. A type of serum. It took the Lightweave away. I can’t aethermance.",
+   "start": 3279,
+   "end": 3413
+  },
+  {
+   "fact": "无月之暗前一个月，阿拉里克从父亲手中救回了被偷走的萨里曼鸟。",
+   "anchor": "In the month before the Moonless Dark, Alaric had rescued the stolen sariman from his father’s clutches.",
+   "start": 4251,
+   "end": 4355
+  },
+  {
+   "fact": "高上尉向塔拉辛建议烧掉山间旅舍与周边，不留任何证据。",
+   "anchor": "That we torch the lodge and its surroundings, Lachis’ka. Leave no evidence.",
+   "start": 7048,
+   "end": 7123
+  },
+  {
+   "fact": "塔拉辛以火树需三十年成材为由拒绝纵火，说丝兰地人靠这片森林为生。",
+   "anchor": "It takes a single fire tree thirty years to mature.",
+   "start": 7752,
+   "end": 7803
+  },
+  {
+   "fact": "塔拉辛想到，一旦说出乌尔杜贾杀她母亲的事，就会牵出哈南·伊夫拉利斯曾促成内纳瓦伦战舰援救日庭光织者。",
+   "anchor": "It would come out that Hanan Ivralis had been instrumental in the Nenavarene warships sailing to the Sunstead Lightweavers’ aid.",
+   "start": 10862,
+   "end": 10990
+  },
+  {
+   "fact": "塔拉辛压低声音要苏拉克威尔替她联络全fold、安排一次会面。",
+   "anchor": "I need you to contact the Allfold for me. Set up a meeting.",
+   "start": 15179,
+   "end": 15238
+  }
+ ]
+}
