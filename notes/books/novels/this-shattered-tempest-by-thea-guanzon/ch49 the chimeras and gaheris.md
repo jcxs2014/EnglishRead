@@ -35,7 +35,27 @@ modified: "2026-11-01"
 
 - **读者视角提示**：三句全是从塔拉辛的位置看过去的：她看得见武器、看得见抖动，却看不见他的整张脸。这个「看不清」正是她此刻的处境——她只能靠碎片判断这个人还在不在里面。
 
-> **原句 3:** "“Regent Gaheris is dead,” said the commodore. “He was massacred in his stateroom on the Exalted by his own son. Alaric Ossinast is a traitor to Kesath—and Alunsina Ivralis is his willing accomplice.”"
+> **原句 3:** "She took him by the wrist and they ran for it. They ran out of the stateroom without looking back. They ran past the startled soldiers who’d been waiting outside, ignoring the wailing that rose up when Gaheris’s body was discovered."
+
+- **中文理解**：她抓住他的手腕，两人往外跑。他们跑出议事厅，没有回头。他们跑过那些一直守在外头、被惊住的士兵，没有理会盖赫里斯的尸体被发现时响起的那片哭喊。
+
+- **关键词**：took him · wrist · looking back
+
+- **为什么这样写**：三句话全用同一个动词开头，主语从「她」变成「他们」，动作却一模一样。三个「跑」把三段时间压成一个连续的镜头，最后那个「没有回头」是被讲出来的，而不是被演的。
+
+- **读者视角提示**：紧随的两段（不在本块引语内）交代了目的地：按他低声指的方向，她把他拖进走廊另一头摄政的私人机库——那里只有一艘小船，够坐两个人，是为「快速脱身」准备的。
+
+> **原句 4:** "Following Alaric’s tensely uttered directions, Talasyn dragged him into the Regent’s private hangar bay farther down the hall. It housed a lone bowrider—a sleek Kesathese vessel only big enough for two, meant for quick escapes."
+
+- **中文理解**：按阿拉里克紧张地低声指出的方向，塔拉辛把他拖进走廊另一头摄政的私人机库。机库里只停着一艘艏帆船——一艘流线型的凯萨斯小船，只坐得下两个人，是为快速脱身准备的。
+
+- **关键词**：tensely uttered · private hangar · big enough
+
+- **为什么这样写**：整段的意思是「这本不该存在」：机库是摄政的私产，船是「只为脱身」造的，而此刻要用它脱身的，正是刚被这个摄政下令杀掉的人。
+
+- **读者视角提示**：同段最后一句（不在本块引语内）才是这艘船的分量：「它有几面帆，但没有弩；当预定的乘客是盖赫里斯·奥西纳斯特时，就不需要武器。」
+
+> **原句 5:** "“Regent Gaheris is dead,” said the commodore. “He was massacred in his stateroom on the Exalted by his own son. Alaric Ossinast is a traitor to Kesath—and Alunsina Ivralis is his willing accomplice.”"
 
 - **中文理解**：利苏准将在凯萨斯的全舰队频道上报丧：摄政死在自己的舱室里，动手的是他的亲生儿子；阿拉里克是凯萨斯的叛徒，而阿伦西娜·伊弗拉利斯是自愿的同谋。
 
@@ -45,7 +65,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这是广播，不是密谈，同一句话在成百上千个舱室里同时响。留意 was massacred 这个被动式：尸体先出场，凶手退到句尾，愤怒因此跑在判断前面。同一段的末尾只剩两个词，Open fire——定性与开火之间没有留任何缓冲。
 
-> **原句 4:** "The Lightweave spiraled out of her in the form of seven snarling dragons. Tethered to her, they lashed through the air from the bowrider’s well in all directions, disintegrating every single iron bolt in their path before their golden jaws closed around the wolf coracles. The whole squadron crumbled in the onslaught."
+> **原句 6:** "Several things happened all at once. Ironclads began launching their bolts at the Nenavarene fleet. Several wolf squadrons made a beeline for the Deliverance."
+
+- **中文理解**：几件事同时发生了。铁甲舰开始向内纳瓦伦舰队发射弩矢。几支狼形小队径直扑向拯救号。
+
+- **关键词**：at once · bolts · beeline
+
+- **为什么这样写**：三句话三个动作，一句比一句具体：先是「同时发生」，再分出两类目标（舰队与旗舰），语法上全是进行体——事情不是「发生了」，而是「正在发生」。
+
+- **读者视角提示**：同一段还有第四句（不在本块引语内）：另一支小队朝他们那艘艏帆船压下来，一片黑银帆影。
+
+> **原句 7:** "The Lightweave spiraled out of her in the form of seven snarling dragons. Tethered to her, they lashed through the air from the bowrider’s well in all directions, disintegrating every single iron bolt in their path before their golden jaws closed around the wolf coracles. The whole squadron crumbled in the onslaught."
 
 - **中文理解**：光织从她体内旋出来，化成七条咆哮的龙；它们被拴在她身上，从小艇的舱井朝四面八方抽打，先把射来的铁弩箭一一化掉，再让金色的下颚咬住那些狼形小艇；整个中队在这一击里散了架。
 
@@ -55,7 +85,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一块里她始终是主语：spiraled out of her、Tethered to her、their golden jaws，写的都是她做了什么，而不是她遭遇了什么。整章写到这里，她才第一次拿回句子的主语位置。
 
-> **原句 5:** "It was a nightmare of white wings and colossal fangs. Its reptilian eyes gleamed with the amethyst light of another plane, slitted black pupils sliding over the field of combat before locking on to the Exalted. It lunged, wrapping its opalescent body around the stormship until the entire frame of steel and metalglass was completely trapped within its coils."
+> **原句 8:** "With all the Kesathese vessels so close together, none of the nine stormships poised over the southern barricade could join the fray. This wasn’t the case for the late Regent’s vessel, which was directly above the Nenavarene fleet. Glowing whorls of emerald magic from the Squallfast dimension cut through the twilight as wind turbines activated, catching several Dominion outriggers and scores of moth coracles in a vicious gale."
+
+- **中文理解**：因为凯萨斯的舰只挤得太近，压在南部壁垒上方的九艘风暴舰哪一艘都插不进这场混战。但已故摄政的那艘舰不在这个限制里——它就悬在内纳瓦伦舰队正上方。风轮机启动时，从飓风道维度透出的翡翠色魔力涡流切过暮色，卷走几艘内纳瓦伦舷外支架舰和无数蛾形小艇。
+
+- **关键词**：close together · late Regent · emerald magic
+
+- **为什么这样写**：三句话完成一次「谁被规则困住、谁没有」的对照：前两句先说九艘动不了，再说那一艘能动；第三句才让那种能力显形（翡翠色涡流、风轮机、被卷走的船）。
+
+- **读者视角提示**：这一段的落点不在战术，而在势力对比：能救场的九艘被自己的密集队形卡住，唯一能出手的那艘，挂的是刚死的那个人留下的旗。
+
+> **原句 9:** "It was a nightmare of white wings and colossal fangs. Its reptilian eyes gleamed with the amethyst light of another plane, slitted black pupils sliding over the field of combat before locking on to the Exalted. It lunged, wrapping its opalescent body around the stormship until the entire frame of steel and metalglass was completely trapped within its coils."
 
 - **中文理解**：那是一团由白翼和巨齿构成的噩梦；爬行动物的眼睛亮着另一个位面的紫晶色光，竖着的黑瞳扫过整个战场，然后锁住「至尊号」；它扑下去，用泛着乳白光晕的身体把风暴舰一圈圈缠住，钢与金属玻璃的整副骨架都被困进它的盘绕里。
 
@@ -65,7 +105,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一段不写任何人的反应，镜头整个交给龙。视角的抽离本身就是信息：此刻甲板上所有人都一样小，谁刚说过什么、谁刚被定了什么罪，都不再重要。
 
-> **原句 6:** "A Kesathese iron bolt smashed into blue-and-gold armor, blood spattering the outrigger’s deck. The Dominion soldier collapsed. Miles below, as though in response, the dark waters of the Eversea churned."
+> **原句 10:** "A Kesathese iron bolt smashed into blue-and-gold armor, blood spattering the outrigger’s deck. The Dominion soldier collapsed. Miles below, as though in response, the dark waters of the Eversea churned."
 
 - **中文理解**：一支凯萨斯的铁弩箭击穿蓝金甲，血溅在舷外支架飞艇的甲板上；那名内纳瓦伦士兵倒下。几英里之下，仿佛是在回应，越海深色的海水开始翻涌。
 

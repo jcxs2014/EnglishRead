@@ -1,0 +1,136 @@
+{
+  "chapter": "ch49",
+  "source": "text/ch49_chapter_forty_nine.txt",
+  "char_total": 10981,
+  "events": [
+    {
+      "n": 1,
+      "summary": "嵌合兽群扑向加赫里斯，先击穿他的太阳穴使其无法施展以太术，随后刺穿肩腹将他杀死。",
+      "quote": "Shadow-spun jaws sank into his temple first—a head wound, making it impossible for him to aethermance.",
+      "start": 123,
+      "end": 225
+    },
+    {
+      "n": 2,
+      "summary": "塔拉辛抓住阿拉里克的手腕，拉他跑出议事厅逃走。",
+      "quote": "She took him by the wrist and they ran for it. They ran out of the stateroom without looking back.",
+      "start": 2401,
+      "end": 2499
+    },
+    {
+      "n": 3,
+      "summary": "塔拉辛把阿拉里克拖进摄政王的私人机库，那里停着一艘只能载两人的小型艏帆船。",
+      "quote": "Talasyn dragged him into the Regent’s private hangar bay farther down the hall. It housed a lone bowrider—a sleek Kesathese vessel only big enough for two, meant for quick escapes.",
+      "start": 2683,
+      "end": 2863
+    },
+    {
+      "n": 4,
+      "summary": "利苏的嗓音经暴风道向克萨瑟全舰队广播。",
+      "quote": "Lisu’s voice rolled in over the Tempestroad, broadcast to all ships on the Kesathese frequency.",
+      "start": 3704,
+      "end": 3799
+    },
+    {
+      "n": 5,
+      "summary": "铁甲舰开始向涅纳瓦舰队发射弩矢，数个狼群中队扑向“拯救号”。",
+      "quote": "Ironclads began launching their bolts at the Nenavarene fleet. Several wolf squadrons made a beeline for the Deliverance.",
+      "start": 4307,
+      "end": 4428
+    },
+    {
+      "n": 6,
+      "summary": "塔拉辛以光织术放出七条咆哮的龙，将整支狼群中队撕碎。",
+      "quote": "Tethered to her, they lashed through the air from the bowrider’s well in all directions, disintegrating every single iron bolt in their path before their golden jaws closed around the wolf coracles.",
+      "start": 6374,
+      "end": 6572
+    },
+    {
+      "n": 7,
+      "summary": "“尊崇号”启动风轮机，以翡翠色飓风卷走多艘自治领外架船与大量蛾形小艇。",
+      "quote": "Glowing whorls of emerald magic from the Squallfast dimension cut through the twilight as wind turbines activated, catching several Dominion outriggers and scores of moth coracles in a vicious gale.",
+      "start": 7205,
+      "end": 7403
+    },
+    {
+      "n": 8,
+      "summary": "巴昆撕裂以太空间现身，用身躯缠住“尊崇号”。",
+      "quote": "Bakun came tearing in from aetherspace with a grating scream that shook the stars.",
+      "start": 8252,
+      "end": 8334
+    }
+  ],
+  "relations": [
+    {
+      "a": "阿拉里克",
+      "b": "加赫里斯",
+      "relation": "父子；儿子在自己的议事厅里被父亲的嵌合兽撕碎，实为阿拉里克所为",
+      "quote": "He was massacred in his stateroom on the Exalted by his own son.",
+      "start": 3849,
+      "end": 3913
+    },
+    {
+      "a": "阿拉里克",
+      "b": "塔拉辛",
+      "relation": "夫妻；她唤回失神的他并带他逃离",
+      "quote": "Only then did her husband look up. The war scythe faded as the light of aetherspace vanished from his gray eyes.",
+      "start": 2085,
+      "end": 2197
+    },
+    {
+      "a": "利苏",
+      "b": "阿拉里克",
+      "relation": "克萨瑟准将公开宣布新帝为叛徒",
+      "quote": "Alaric Ossinast is a traitor to Kesath—and Alunsina Ivralis is his willing accomplice.",
+      "start": 3914,
+      "end": 4000
+    },
+    {
+      "a": "塔拉辛",
+      "b": "涅纳瓦舰队",
+      "relation": "她为救阿拉里克，把本族舰队摆在最不利的位置",
+      "quote": "Her people were about to die right before her eyes because she’d placed them in the least strategic of locations in order to save him from himself.",
+      "start": 7480,
+      "end": 7627
+    },
+    {
+      "a": "巴昆",
+      "b": "尊崇号",
+      "relation": "巨龙以蛇缠之姿困住整艘风暴船",
+      "quote": "It lunged, wrapping its opalescent body around the stormship until the entire frame of steel and metalglass was completely trapped within its coils.",
+      "start": 8548,
+      "end": 8696
+    }
+  ],
+  "numbers": [
+    {
+      "value": "seven",
+      "context": "光织术化出的龙的数量：七条咆哮的龙",
+      "quote": "The Lightweave spiraled out of her in the form of seven snarling dragons.",
+      "start": 6300,
+      "end": 6373
+    },
+    {
+      "value": "nine",
+      "context": "南侧壁垒上空原有九艘风暴船，因舰船过近无法参战",
+      "quote": "With all the Kesathese vessels so close together, none of the nine stormships poised over the southern barricade could join the fray.",
+      "start": 6973,
+      "end": 7106
+    },
+    {
+      "value": "a thousand years",
+      "context": "巴昆本不该再醒千年",
+      "quote": "We put it back to sleep, was all he could think. It wasn’t due to wake for another thousand years.",
+      "start": 9090,
+      "end": 9188
+    },
+    {
+      "value": "two",
+      "context": "机库里那艘艏帆船最多只能载两人",
+      "quote": "It housed a lone bowrider—a sleek Kesathese vessel only big enough for two, meant for quick escapes.",
+      "start": 2763,
+      "end": 2863
+    }
+  ],
+  "notes": "语料问题：①章题重复出现两次（第1行与第12行均为“Chapter Forty-Nine”），第1行后跟约10个空行，第12行后仍有两个空行；②正文段落间普遍夹双空行（提取件排版），char_total=10981 含这些空行；③首句自“There was a certain cruel logic…”直接起叙，承接 ch48 结尾的屠杀现场，本章无场景/时地标注；④末尾“And the dragons rose.”为断章式收束，句子停在悬念处，原书或下一页续接，此处无“※”之类分节符可作章末确证；⑤“aethermance”作动词用（“impossible for him to aethermance”），为本书自造术语，非 OCR 误字，引用时须保留；⑥弯引号、破折号（—）与省略号（. . .）为原样，已逐字保留；⑦本章唯一出现的数字均为英文拼写（seven/nine/two/thousand），无阿拉伯数字。"
+}
