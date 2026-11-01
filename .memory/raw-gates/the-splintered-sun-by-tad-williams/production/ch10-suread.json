@@ -1,0 +1,67 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch10",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch10_10_pilgrimage.txt",
+ "facts": [
+  {
+   "fact": "Pegeen 盘算两天后决定：带 Vedra 与 Daley 随她去 Crannhyr 的 Holy Mircha 大神庙朝圣，次日出发。",
+   "anchor": "declare that the children should come with her on pilgrimage",
+   "start": 1005,
+   "end": 1065
+  },
+  {
+   "fact": "Pegeen 教给孩子的教义开头：初代 Mircha 是天神 Brynioch 的姐妹兼妻子，海是她的领域。",
+   "anchor": "the first Mircha had been sister and wife to great Brynioch",
+   "start": 3932,
+   "end": 3991
+  },
+  {
+   "fact": "Mircha 亲口预言：女儿出生之时，她自己将不复存在。",
+   "anchor": "When my daughter is born, I will cease to be.",
+   "start": 6230,
+   "end": 6275
+  },
+  {
+   "fact": "Vedra 逃得仓促，把 Pegeen 给的一笔铜板落在藏钱处，身上只剩第一笔酬金。",
+   "anchor": "The coppers that Pegeen gave us—I left them behind!",
+   "start": 9221,
+   "end": 9272
+  },
+  {
+   "fact": "朝圣第一夜宿在 Killro 的 Oymos 神庙，Daley 要买徽章，Vedra 花掉一枚铜板。",
+   "anchor": "Daley wanted a badge, and though Vedra knew",
+   "start": 12472,
+   "end": 12515
+  },
+  {
+   "fact": "林间空地两端各起一道火墙，把整支朝圣队困在路中间。",
+   "anchor": "a river of flame suddenly swept across the road",
+   "start": 20251,
+   "end": 20298
+  },
+  {
+   "fact": "Flann 隔火喊话：路两侧林中各埋伏三十分（60）名弓手。",
+   "anchor": "there are three score of them on either side of you",
+   "start": 21065,
+   "end": 21116
+  },
+  {
+   "fact": "随行\"修士\"当场揭穿绑匪头目的身份：Flann Alderwood，强盗与杀手。",
+   "anchor": "You are Flann Alderwood, bandit and killer!",
+   "start": 23574,
+   "end": 23617
+  },
+  {
+   "fact": "Flann 说明：Crannhyr 的里夫 Hagan 借这支朝圣队偷运 Hernysadharc 国库的银子。",
+   "anchor": "has used your pilgrimage to cloak a delivery of riches",
+   "start": 29988,
+   "end": 30042
+  },
+  {
+   "fact": "章末 Flann 转身走开，Vedra 发现 Daley 不见了。",
+   "anchor": "Daley was gone.",
+   "start": 33740,
+   "end": 33755
+  }
+ ]
+}

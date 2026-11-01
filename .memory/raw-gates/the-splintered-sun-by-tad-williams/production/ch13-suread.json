@@ -1,0 +1,61 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch13",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch13_13_the_scryer.txt",
+ "facts": [
+  {
+   "fact": "守卫把占卜师领进 Lady Bellicent 的内室，一得许可就退出去，门关上之前能听见他一直憋着的那口气。",
+   "anchor": "The scryer was ushered into Lady Bellicent’s retiring room",
+   "start": 21,
+   "end": 79
+  },
+  {
+   "fact": "Vespillis 不肯自己说出夫人召他来的原因，要夫人亲口讲，好确认自己的职责。",
+   "anchor": "I would rather hear it from you, Lady Bellicent",
+   "start": 1043,
+   "end": 1090
+  },
+  {
+   "fact": "Bellicent 说别的占卜师都不顶用：一个农家女孩尖叫昏倒，更早的一个死了。",
+   "anchor": "shrieked and fell down, insensible",
+   "start": 1760,
+   "end": 1794
+  },
+  {
+   "fact": "夫人要回 Abaingeat 的儿子家，因为姐姐的儿子第一领主 Phelan 有个决定要做；她还说这所宅子里有要紧东西被偷。",
+   "anchor": "First Lord Phelan, has a decision to make",
+   "start": 1922,
+   "end": 1963
+  },
+  {
+   "fact": "等两人被送走之后，守卫才说看见那小孩在失窃的塔附近，可那时他们已经逃走。",
+   "anchor": "the little wretch had been seen near the tower",
+   "start": 2756,
+   "end": 2802
+  },
+  {
+   "fact": "占卜师从袍里取出小布袋，倒出一面灰白框的圆镜，框材是象牙、角或骨，请夫人对着镜面呼气。",
+   "anchor": "a gray-white frame of etched ivory, horn, or bone",
+   "start": 4067,
+   "end": 4116
+  },
+  {
+   "fact": "占卜时屋子里的影子变长、烛火乱跳，他仰头翻白眼、脸上冒汗，最后喊了一声，镜子落在毯子上。",
+   "anchor": "beads of sweat had begun to form on his face",
+   "start": 5179,
+   "end": 5223
+  },
+  {
+   "fact": "他说镜中看见一根怪形石头从海里立起、基部被白浪打白，那地方叫 Goblin Rock，在 Crannhyr 港口外。",
+   "anchor": "It is called Goblin Rock",
+   "start": 7435,
+   "end": 7459
+  },
+  {
+   "fact": "夫人让他去 Phelan 的管家处领赏，他推说身体不适改日再来，出门时像个刚逃过一劫的人。",
+   "anchor": "I will come back another time to be paid",
+   "start": 8249,
+   "end": 8289
+  }
+ ]
+}
