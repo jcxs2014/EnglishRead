@@ -75,7 +75,27 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这是一次没有见证人的命名——他没说出口，所以这份失落也没有见证人。读完这三行，再回头看他此刻站在空笼前的位置，才明白他数的是同一笔账。
 
-> **原句 7:** "But, long after he left the shadow-laced hall and returned to his post on his freshly recharged stormship, he was still thinking about Gaheris’s incongruous statement. Who was the she that the Regent had been referring to? If not Talasyn, then . . ."
+> **原句 7:** "He hadn’t lost her; he’d let her go. He’d killed his men so she could safely flee Mahagir’s Rest with the friend who meant so much to her. He’d done it because at some point he’d let his guard down and his greatest enemy had become his weakness."
+
+- **中文理解**：他不是失去了她，是他放她走的。他杀了自己的部下，好让她能带着那个对她意义重大的朋友，从马哈吉尔憩地安全逃走。他之所以这么做，是因为不知什么时候起他松了防线，而他最大的敌人成了他的软肋。
+
+- **关键词**：lost her · his men · weakness
+
+- **为什么这样写**：这一段在给自己换一个说法：不是「消失」（thwarted 的被动），而是「我放的」。三个 he'd 开头的句子一个接一个，把责任一层层往自己身上加——先承认放她走，再承认杀了自己人，最后给出原因：他松了防线。全段没有一句在骂她。
+
+- **读者视角提示**：注意这一段是紧接在「她是不是早就计划好了」那一串猜测之后（不在本块引语内）。叙述先让他把她想成背叛者，再让他自己承认真正松动的是自己——这两步之间的落差，就是他此刻的处境。
+
+> **原句 8:** "His debrief with Gaheris in the Regent’s hall was a combination of half-truths and lying through his teeth. He had received the letter from Zawye, which roused his suspicions, and he’d arrived at Mahagir’s Rest too late to stop Talasyn. The Allfold had been with her and they’d killed Commodore Darius and his troops, mostly with ceramic shells, and had already piled into their escape vessel when Alaric reached them."
+
+- **中文理解**：他在摄政厅向盖赫里斯复命，那份汇报半真半假，另一半是当着他的面睁眼说瞎话。他确实收到了扎维耶的信、也确实因此起了疑，他也确实赶到马哈吉尔憩地时已经太晚、拦不住塔拉辛。全盟那帮人跟她在一起，达里乌斯准将与他的部下是他们杀的——多半用的是陶壳炸弹——等他赶到时，那些人已经挤进逃生艇了。
+
+- **关键词**：half-truths · lying through · killed Commodore
+
+- **为什么这样写**：这段把「真话」和「假话」按同一节奏排出来：前半句都是真的（收到信、起疑、来迟），最后一句是假的（杀达里乌斯的是他，不是陶壳炸弹）。读者知道真相，所以这段读起来不像撒谎，更像他自己在心里把谎话排练了一遍。
+
+- **读者视角提示**：注意除了这句谎话，他连一个字都没有替自己辩解。同一场觐见的后三段（不在本块引语内）才是真正的条件：盖赫里斯说他的失败是「我国历史上的污点」，又说「下次见到拉奇斯卡，你要把她的头带回来给我，以证明你自己」，而阿拉里克只点了一下头。
+
+> **原句 9:** "But, long after he left the shadow-laced hall and returned to his post on his freshly recharged stormship, he was still thinking about Gaheris’s incongruous statement. Who was the she that the Regent had been referring to? If not Talasyn, then . . ."
 
 - **中文理解**：可是离开那道缠满阴影的大厅很久之后，回到刚充能完毕的风暴舰上自己的岗位，他仍在想盖赫里斯那句前后不搭的话。摄政王说的那个「她」，到底是谁？如果不是塔拉辛，那么……
 

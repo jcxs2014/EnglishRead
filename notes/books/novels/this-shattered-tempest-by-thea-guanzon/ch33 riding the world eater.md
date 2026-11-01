@@ -71,21 +71,31 @@ modified: "2026-11-01"
 - **为什么这样写**：一场长谈被压成三个镜头：时间（火低了）、听者的沉默、身体的泄密。沉默前面加「致命」这个形容词，火星才有了重量——越是不出声，越说明压着的东西多。
 - **读者视角提示**：作者一句也没写卡希尔说了什么，只写她没说什么；金色虹膜与火星是这套魔法里情绪的物证，读者据此知道她听懂了哪一段。
 
-> **原句 9:** "“You are my sister’s daughter, so you will make it through. I have every faith. I haven’t walked the path myself; the best advice I can give you is not to look back, no matter what."
+> **原句 9:** "When that child comes of age, they can choose to walk the Path of the Sun, all the way to the highest summit, where the Light Severs are oldest and strongest. If you undertake this pilgrimage, I believe that you might be able to find what you seek."
+
+- **中文理解**：等那个孩子成年，他们可以选择走「太阳之路」，一路走到最高峰——那里的光之界裂最古老、也最强。如果你去走这趟朝圣，我相信你也许能找到你要找的东西。
+
+- **关键词**：the Path · highest summit · pilgrimage
+
+- **为什么这样写**：这是一个「可以」加一个「也许」：卡希尔没有许诺，只给了条件和最弱的保证（might be able）。两句话把一件近乎不可能的事说得像一条已经有人走过的路——用祈使句收尾，等于把决定权推回给她。
+
+- **读者视角提示**：注意「最高峰」和「最古老最强的界裂」被绑在同一处——越往上，力量越纯粹，风险也越大。这一段之前的几句（不在本块引语内）解释了为什么还有希望：她在月食里烧起来过，龙还能看见她的心。
+
+> **原句 10:** "“You are my sister’s daughter, so you will make it through. I have every faith. I haven’t walked the path myself; the best advice I can give you is not to look back, no matter what."
 
 - **中文理解**：你是我妹妹的女儿，所以你过得去；我完全相信。那条路我自己没走过，能给的忠告只有一句——无论发生什么都别回头。
 - **关键词**：sister’s daughter · every faith · look back
 - **为什么这样写**：安慰分三层递进：先拿血缘作保，再给信念背书，最后才落到唯一可执行的动作上。「别回头」表面是登山的规矩，落在她耳里更像一句许可：过去不必清算，只许往前走。
 - **读者视角提示**：说这话的人自己承认没走过那条路；正因如此，前面那句「我完全相信」听起来更像硬撑出来的温柔，而不是保证。
 
-> **原句 10:** "“There’s an eclipse in a few hours,” Cahyir explained. She retrieved a corked vial from the medicine chest at the foot of the bed and thrust it into Talasyn’s hands. “This is the strongest draught we have for relieving pain from aethermanced injuries."
+> **原句 11:** "“There’s an eclipse in a few hours,” Cahyir explained. She retrieved a corked vial from the medicine chest at the foot of the bed and thrust it into Talasyn’s hands. “This is the strongest draught we have for relieving pain from aethermanced injuries."
 
 - **中文理解**：几小时后会有一次月食，卡希尔解释说；她从床脚的药箱里取出一只塞着软木塞的小瓶，塞进塔拉辛手里。这是他们手上最烈的一剂药，专缓以太术造成的伤痛。
 - **关键词**：corked vial · medicine chest · strongest draught
 - **为什么这样写**：预报灾祸的句子和递药的动作用同一个「解释」串起来，关心因此不落成煽情；「最烈」两个字提前把接下来的痛定了量级，读者心里先有一把尺。
 - **读者视角提示**：药是治「以太术所伤」的，可她身上的伤从哪来，这句并没有交代——答案被先塞进手里，问题留着。
 
-> **原句 11:** "“I see,” said a cold, dry voice, as dear to her as her own heartbeat. “So this is what happens when there’s an eclipse and we’re not with each other. How incredibly irritating.”"
+> **原句 12:** "“I see,” said a cold, dry voice, as dear to her as her own heartbeat. “So this is what happens when there’s an eclipse and we’re not with each other. How incredibly irritating.”"
 
 - **中文理解**：「原来如此。」一个又冷又干的声音说，那声音对她而言亲得像自己的心跳。「所以月食来的时候我们不在一处，就会变成这样。真是烦人得要命。」
 - **关键词**：dry voice · own heartbeat · incredibly irritating

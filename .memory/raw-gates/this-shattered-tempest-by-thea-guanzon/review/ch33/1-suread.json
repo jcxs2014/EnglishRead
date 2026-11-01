@@ -1,0 +1,135 @@
+{
+  "chapter": "ch33",
+  "source": "text/ch33_chapter_thirty_three.txt",
+  "char_total": 20660,
+  "events": [
+    {
+      "i": 1,
+      "summary": "巴昆载着塔拉辛与奥里亚尔冲破火山口飞上天空，奥里亚尔开始尖叫。",
+      "quote": "But it wasn’t until Bakun suddenly shot up—through the darkness, out of the abyss, great wings unfolding once they’d slid past the rim of the crater—that Oryal began to scream.",
+      "start": 456,
+      "end": 632
+    },
+    {
+      "i": 2,
+      "summary": "两人穿过一处银丝般的维度裂缝，塔拉辛认出那是联结世界的以太。",
+      "quote": "This was aether. The threads that bound the world. This was a place that was not a place, a crack between dimensions.",
+      "start": 5095,
+      "end": 5212
+    },
+    {
+      "i": 3,
+      "summary": "巴昆在山脚硬着陆，力竭的塔拉辛只能向前爬行。",
+      "quote": "The landing was rough. Bakun hit the base of the mountain range like an earthquake, sending up veritable blizzards of dust.",
+      "start": 6008,
+      "end": 6131
+    },
+    {
+      "i": 4,
+      "summary": "一队身着虹彩鳞甲、手持光织长矛的人从丛林中现身。",
+      "quote": "Each one was clad in iridescent armor crafted with the same type of reptile scale, predominantly green but mottled with glints of amber and cerulean.",
+      "start": 7219,
+      "end": 7368
+    },
+    {
+      "i": 5,
+      "summary": "戴羽饰头冠的老妇用塔拉辛的本名“阿伦西娜”称呼她，并说他们一直在等她。",
+      "quote": "“Alunsina.” Her voice was dry and weathered and familiar. Her eyes were the same eyes that Talasyn had once seen in a dream, and the eyes that she saw whenever she looked into a mirror. “We were waiting for you.”",
+      "start": 7869,
+      "end": 8081
+    },
+    {
+      "i": 6,
+      "summary": "塔拉辛向姨妈卡希尔和盘托出，包括乌尔杜贾·西利姆杀害哈南一事。",
+      "quote": "“First things first, you have to know—Urduja Silim killed Hanan Ivralis,” she blurted out, and then she was telling her aunt everything.",
+      "start": 10932,
+      "end": 11068
+    },
+    {
+      "i": 7,
+      "summary": "卡希尔告诉她，只要徒步登上太阳之路最高峰，就可能找回以太术。",
+      "quote": "If you undertake this pilgrimage, I believe that you might be able to find what you seek. There on the spine of the world.",
+      "start": 13358,
+      "end": 13480
+    },
+    {
+      "i": 8,
+      "summary": "月食之夜塔拉辛痛得无法醒来，在心中呼唤阿拉里克，随后一个声音回应了她。",
+      "quote": "“I see,” said a cold, dry voice, as dear to her as her own heartbeat. “So this is what happens when there’s an eclipse and we’re not with each other. How incredibly irritating.”",
+      "start": 20482,
+      "end": 20659
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Cahyir Ivralis",
+      "relation": "姨甥（Cahyir 是 Hanan 的姐姐，塔拉辛的姨妈兼族人首领）",
+      "quote": "“You are my sister’s daughter, so you will make it through. I have every faith.",
+      "start": 14484,
+      "end": 14563
+    },
+    {
+      "a": "Cahyir Ivralis",
+      "b": "Hanan Ivralis",
+      "relation": "姐妹（Hanan 是 Cahyir 的妹妹，随多米尼恩王子离去后再未归来）",
+      "quote": "“My headstrong little sister. When she left with the Dominion prince—as soon as their ship vanished into the sky—I knew that I would never see her again in this life.”",
+      "start": 10265,
+      "end": 10432
+    },
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻（塔拉辛称其为丈夫，二人在月食中相隔两地）",
+      "quote": "Why do all that for me, she asked her husband, wherever he was, when you were just going to take away my magic and hold me hostage",
+      "start": 17611,
+      "end": 17741
+    },
+    {
+      "a": "Talasyn",
+      "b": "Oryal Ferasai",
+      "relation": "俘虏与押送者（奥里亚尔曾绑架王储，如今被塔拉辛带在龙背上）",
+      "quote": "“Of the two people on this dragon, I’m not the one who abducted the heir to the throne, Daya Ferasai,” Talasyn pointed out.",
+      "start": 2586,
+      "end": 2709
+    }
+  ],
+  "numbers": [
+    {
+      "value": "7（七座山峰）",
+      "context": "太阳之路山脉由七座覆满丛林的山峰组成",
+      "quote": "The mountain range was known as the Path of the Sun, comprising seven peaks carpeted in thick jungle.",
+      "start": 8704,
+      "end": 8805
+    },
+    {
+      "value": "1000 米（巨龙体长）",
+      "context": "塔拉辛形容所骑的巨龙长达千米",
+      "quote": "Leave it to a Dominion noble to be a pain in the neck while riding a thousand-meter-long creature straight out of legend.",
+      "start": 3451,
+      "end": 3572
+    },
+    {
+      "value": "几小时（距离月食）",
+      "context": "卡希尔说几小时后将发生月食，并从药箱取出一瓶止痛药水",
+      "quote": "“There’s an eclipse in a few hours,” Cahyir explained. She retrieved a corked vial from the medicine chest at the foot of the bed and thrust it into Talasyn’s hands.",
+      "start": 16730,
+      "end": 16895
+    },
+    {
+      "value": "数周与数小时",
+      "context": "塔拉辛觉得像在海上漂了数周，而实际只过了几小时",
+      "quote": "She felt as though she’d been sailing for sennights, not hours.",
+      "start": 6422,
+      "end": 6485
+    },
+    {
+      "value": "数十上百（dozens upon dozens）",
+      "context": "黑暗中同时炸开的银色光丝数量",
+      "quote": "It was so sudden, that darkness, blacker than black for a heartbeat before streaks of lightning burst all around, dozens upon dozens, flashing all at once . . .",
+      "start": 4656,
+      "end": 4816
+    }
+  ],
+  "notes": "标题重复：第 1 行与第 12 行各有一处「Chapter Thirty-Three」；第 3–11 行为连续空行（原文提取残留）。本章正文自第 15 行起。"
+}

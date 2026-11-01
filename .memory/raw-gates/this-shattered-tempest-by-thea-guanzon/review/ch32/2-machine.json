@@ -86,6 +86,30 @@
       "no": 7,
       "segments": [
         {
+          "text": "He hadn’t lost her; he’d let her go. He’d killed his men so she could safely flee Mahagir’s Rest with the friend who mea",
+          "ok": true,
+          "pos": 6676
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "His debrief with Gaheris in the Regent’s hall was a combination of half-truths and lying through his teeth. He had recei",
+          "ok": true,
+          "pos": 7908
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
           "text": "But, long after he left the shadow-laced hall and returned to his post on his freshly recharged stormship, he was still ",
           "ok": true,
           "pos": 12141
@@ -188,6 +212,36 @@
     {
       "block": "原句7",
       "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 127,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 100
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
         "中文理解": 71,
         "关键词": 0,
         "为什么这样写": 83,
@@ -216,10 +270,10 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 7,
-    "block_median": 8.5,
+    "blocks": 9,
+    "block_median": 9.0,
     "block_range": [
-      4,
+      5,
       13
     ],
     "profile": "novels",
@@ -235,9 +289,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 7,
+    "blocks": 9,
     "quote_long": 0,
-    "segments": 8,
+    "segments": 10,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,

@@ -1,0 +1,150 @@
+{
+  "chapter": "ch31",
+  "source": "text/ch31_chapter_thirty_one.txt",
+  "char_total": 19793,
+  "events": [
+    {
+      "i": 1,
+      "summary": "塔拉辛驾驶狼形小艇俯冲进死火山口，因洞中骤然全黑而盲摸开关点亮两盏火灯。",
+      "quote": "The coracle’s hull shuddered and groaned all around her as she plunged from the sky, to where the crater of the dead volcano was waiting.",
+      "start": 93,
+      "end": 230
+    },
+    {
+      "i": 2,
+      "summary": "她在巨洞深处看见沉睡的巨龙巴昆，并发现靠坐在龙身侧、静静望着她的奥里亚尔还活着。",
+      "quote": "Then she saw, etched faintly in this same lamplight, the huddled silhouette on the cavern floor, leaning against the beast’s great side.",
+      "start": 3150,
+      "end": 3286
+    },
+    {
+      "i": 3,
+      "summary": "奥里亚尔说明自己靠父母多年逐步培养的抗毒力活了下来，逃出后躲了数周才来到此洞。",
+      "quote": "So I fought off the poison and I fled, and for sennights I hid, and eventually I came here.",
+      "start": 5321,
+      "end": 5412
+    },
+    {
+      "i": 4,
+      "summary": "塔拉辛把手按在巴昆鼻上低声唤它的名字，龙右眼睁开，她开口请它带她去一个地方。",
+      "quote": "“World-Eater,” she said, “I need you to take me somewhere.”",
+      "start": 8886,
+      "end": 8945
+    },
+    {
+      "i": 5,
+      "summary": "阿拉里克率“拯救号”加入东线战场，命令东防军官排成单列全速直冲敌军阵形中央。",
+      "quote": "“Yes,” he confirmed into the transceiver, in an icy tone that left no room for argument. “Straight down the middle at full speed.”",
+      "start": 11472,
+      "end": 11602
+    },
+    {
+      "i": 6,
+      "summary": "此役结束后，萨尔多维亚军东线的进攻力量被彻底消灭，化为碎片散落空中并沉入海中。",
+      "quote": "And, by the time it was over, there was nothing left of the Sardovians’ eastern offensive.",
+      "start": 12981,
+      "end": 13071
+    },
+    {
+      "i": 7,
+      "summary": "副官诺尔达耶报告西面出现萨尔多维亚军联军、其帆上绘着黑玫瑰，阿拉里克听罢发出干笑。",
+      "quote": "“W-we have eyes on the Sardovian coalition approaching from the west, Your Majesty,” quavered the unfortunate aide.",
+      "start": 16772,
+      "end": 16887
+    },
+    {
+      "i": 8,
+      "summary": "阿拉里克脱下婚戒扔给塞弗拉伊姆，命他把它处理掉，称自己不再需要它。",
+      "quote": "Alaric tugged off his wedding ring and tossed it to Sevraim from across the room.",
+      "start": 19530,
+      "end": 19611
+    }
+  ],
+  "relations": [
+    {
+      "a": "塔拉辛",
+      "b": "阿拉里克",
+      "relation": "夫妻，但已反目成仇、注定要在战场上相见",
+      "quote": "They were back to where they’d started. Only one of them could win. The next time he saw her, he would have to strike her down.",
+      "start": 19400,
+      "end": 19527
+    },
+    {
+      "a": "塔拉辛",
+      "b": "奥里亚尔",
+      "relation": "旧日对手（ Dominion 贵族/ daya ），此刻同处一洞、彼此提防",
+      "quote": "“You would have no doubt preferred it to be so, Lachis’ka.” She sounded the way Talasyn felt, wrung out and hollow.",
+      "start": 3684,
+      "end": 3799
+    },
+    {
+      "a": "阿拉里克",
+      "b": "塞弗拉伊姆",
+      "relation": "君臣，且自幼相识、彼此绝对效忠",
+      "quote": "Give the order, his dark eyes said. I will follow it. I will follow you.",
+      "start": 14837,
+      "end": 14909
+    },
+    {
+      "a": "阿拉里克",
+      "b": "利苏",
+      "relation": "君臣；新任准将进言，被皇帝一句话赶回岗位",
+      "quote": "“Lisu,” Alaric interrupted, “what are you still doing here? Go back to your post.”",
+      "start": 16229,
+      "end": 16311
+    },
+    {
+      "a": "阿拉里克",
+      "b": "瓦利桑特（其母之国）",
+      "relation": "血亲之国转为敌国，已举起黑玫瑰旗与夜帝国为敌",
+      "quote": "his long-lost mother’s country had taken up arms against his own",
+      "start": 17694,
+      "end": 17758
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three",
+      "context": "死火山内部洞窟之大，足以容纳三艘风暴舰",
+      "quote": "a cavern so large that it could have accommodated three stormships",
+      "start": 2169,
+      "end": 2235
+    },
+    {
+      "value": "a thousand years",
+      "context": "传说中巴昆每一千年苏醒一次",
+      "quote": "There were deep scratches along the walls and she pictured Bakun waking, once every thousand years",
+      "start": 1453,
+      "end": 1551
+    },
+    {
+      "value": "twenty / fifteen / five",
+      "context": "风暴舰舰队从原数减半后仅剩二十艘，其中五艘受损，若修不好只剩十五艘",
+      "quote": "the twenty that were left—the fifteen, if the five damaged ones couldn’t be repaired in time",
+      "start": 10521,
+      "end": 10613
+    },
+    {
+      "value": "fifty",
+      "context": "阿拉里克命塞弗拉伊姆带五十名军团兵南下",
+      "quote": "He and Sevraim had known each other since they were boys. They had carried out what was expected of them as sons of Kesath their whole lives. “Take fifty legionnaires with you.”",
+      "start": 15039,
+      "end": 15216
+    },
+    {
+      "value": "two",
+      "context": "小艇船首装着两盏注入 Firewarren 的火灯",
+      "quote": "her grasping fingers tripped the right switch, and the two Firewarren-infused lamps affixed to the vessel’s prow flared to life",
+      "start": 730,
+      "end": 857
+    },
+    {
+      "value": "sevenfold",
+      "context": "塔拉辛担心龙的魔力只被绑定在七重月食那一刻（sevenfold eclipse）",
+      "quote": "What if the dragon’s magic bound it only to the sevenfold eclipse?",
+      "start": 7545,
+      "end": 7611
+    }
+  ],
+  "notes": "原文文件开头有重复标题：第1行与第12行各出现一次 \"Chapter Thirty-One\"，中间夹9个空行；正文起始前亦有空行残留。以上 char_total 含这些头部与空行（len(open().read()) 实测）。本章后半转入阿拉里克视角（东线海战与舰队调度），与前半塔拉辛线为两段并置叙事。"
+}

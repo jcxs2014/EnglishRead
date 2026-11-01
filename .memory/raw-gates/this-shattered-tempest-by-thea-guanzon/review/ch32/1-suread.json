@@ -1,0 +1,143 @@
+{
+  "chapter": "ch32",
+  "source": "text/ch32_chapter_thirty_two.txt",
+  "char_total": 13795,
+  "events": [
+    {
+      "i": 1,
+      "summary": "塔拉辛爬上巴昆的鼻梁，艰难地攀到它的左角旁并抓住象牙般的角。",
+      "quote": "It was tricky to balance on the ledges of that craggy hide, like navigating the rooftops and rope bridges of Hornbill’s Head, but she made it to Bakun’s left horn without incident",
+      "start": 1036,
+      "end": 1215
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛骑在龙头上向奥莉雅尔给出三个选择：拿她的皮筏去刑场、留在此地等死、或跟她走。",
+      "quote": "“You can take my coracle and sail it all the way to the executioner’s block. You can stay here until your body gives out. Or you can come with me.”",
+      "start": 2917,
+      "end": 3064
+    },
+    {
+      "i": 3,
+      "summary": "阿拉里克回到首都，发现都城秩序井然，反而为此感到失望。",
+      "quote": "It was damning evidence of his utterly wretched state of mind that Alaric was somewhat disappointed to not find the Citadel in complete disarray when he arrived.",
+      "start": 3681,
+      "end": 3842
+    },
+    {
+      "i": 4,
+      "summary": "阿拉里克冲进南侧附楼的塔室，只看到笼门被打开、鸟已不见。",
+      "quote": "He was standing at the threshold, chest heaving, staring at an empty cage. Someone had unlatched the door and flung it wide open. The sariman was gone.",
+      "start": 5586,
+      "end": 5737
+    },
+    {
+      "i": 5,
+      "summary": "阿拉里克自认是他放走了塔拉辛，还为此杀了自己的部下。",
+      "quote": "He’d killed his men so she could safely flee Mahagir’s Rest with the friend who meant so much to her.",
+      "start": 6813,
+      "end": 6914
+    },
+    {
+      "i": 6,
+      "summary": "阿拉里克向加赫里斯汇报马哈吉尔驿站的经过，真假参半。",
+      "quote": "His debrief with Gaheris in the Regent’s hall was a combination of half-truths and lying through his teeth.",
+      "start": 8030,
+      "end": 8137
+    },
+    {
+      "i": 7,
+      "summary": "加赫里斯下令阿拉里克下次见到拉奇斯喀时把她的头带回来。",
+      "quote": "“The next time you see the Lachis’ka, you will bring me her head to prove it.”",
+      "start": 12253,
+      "end": 12331
+    },
+    {
+      "i": 8,
+      "summary": "阿拉里克察觉到加赫里斯话里的「她」可能不是塔拉辛，并开始担心她的处境。",
+      "quote": "But now he felt uneasy. If what he was starting to suspect was true, then Talasyn was in danger from a source that, while not entirely surprising, was completely unexpected.",
+      "start": 13153,
+      "end": 13326
+    }
+  ],
+  "relations": [
+    {
+      "a": "塔拉辛",
+      "b": "阿拉里克",
+      "relation": "夫妻（已反目，各为其方）",
+      "quote": "His wife had chosen her side and, if that meant that she’d dug her own grave, so be it.",
+      "start": 13619,
+      "end": 13706
+    },
+    {
+      "a": "阿拉里克",
+      "b": "加赫里斯",
+      "relation": "父子兼君臣（雷根特与夜之皇帝）",
+      "quote": "“Ask yourself this, my son,” the Regent interrupted, tilting his head",
+      "start": 11657,
+      "end": 11726
+    },
+    {
+      "a": "塔拉辛",
+      "b": "奥莉雅尔",
+      "relation": "敌对（奥莉雅尔曾绑架她并夺走她的魔法）",
+      "quote": "the woman who’d abducted her and taken away her magic",
+      "start": 3266,
+      "end": 3319
+    },
+    {
+      "a": "塔拉辛",
+      "b": "巴昆",
+      "relation": "骑者与世界吞噬者之龙（呼应伊亚拉姆）",
+      "quote": "she wondered if it had been Iyaram’s hand that the dragon felt, reaching out to it across oceans of time",
+      "start": 260,
+      "end": 364
+    },
+    {
+      "a": "阿拉里克",
+      "b": "凯德",
+      "relation": "敌对（藏在他眼皮底下的叛军，他曾寻她未果）",
+      "quote": "The same woman he’d once foolishly searched for out of some misplaced sense of compassion for the viper he’d married.",
+      "start": 4810,
+      "end": 4927
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three",
+      "context": "塔拉辛给奥莉雅尔的三个选择",
+      "quote": "“As I see it, you have three choices, Daya Ferasai,” Talasyn announced from her place atop the World-Eater.",
+      "start": 2809,
+      "end": 2916
+    },
+    {
+      "value": "two days",
+      "context": "阿拉里克两天前还在父亲面前为塔拉辛辩护",
+      "quote": "His cheeks colored with humiliation as he remembered how fiercely he’d defended Talasyn to his father only two days ago.",
+      "start": 9147,
+      "end": 9267
+    },
+    {
+      "value": "months",
+      "context": "当前局面是数月筹划的结果",
+      "quote": "Everything that was happening now had been planned with utmost care and perfect timing, had been the work of months.",
+      "start": 7493,
+      "end": 7609
+    },
+    {
+      "value": "this past year",
+      "context": "萨尔多瓦残部在过去一年里一直保有行动基地",
+      "quote": "But they must have maintained a base of operations all throughout this past year",
+      "start": 10285,
+      "end": 10365
+    },
+    {
+      "value": "the one time",
+      "context": "阿拉里克唯一一次试图不当天鹅之剑便以毁灭收场",
+      "quote": "the one time Alaric had tried to be anything else, it had ended in ruin.",
+      "start": 13544,
+      "end": 13616
+    }
+  ],
+  "notes": "原文标题「Chapter Thirty-Two」在第1行与第12行重复出现，两行之间有9个空行残留；正文段落之间普遍夹两个空行。其余无异常。"
+}

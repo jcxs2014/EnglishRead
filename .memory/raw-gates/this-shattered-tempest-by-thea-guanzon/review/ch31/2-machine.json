@@ -105,6 +105,18 @@
       "no": 9,
       "segments": [
         {
+          "text": "And, by the time it was over, there was nothing left of the Sardovians’ eastern offensive. They had turned into mountain",
+          "ok": true,
+          "pos": 12779
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
           "text": "While Alaric and the commodore talked, Sevraim had been leaning against the wall in his usual insouciant manner, arms cl",
           "ok": true,
           "pos": 14017
@@ -113,8 +125,8 @@
       "words": 63
     },
     {
-      "block": "原句10",
-      "no": 10,
+      "block": "原句11",
+      "no": 11,
       "segments": [
         {
           "text": "Alaric let out a humorless laugh—no small feat for someone who suddenly felt as though he were underwater. But neither c",
@@ -125,8 +137,8 @@
       "words": 53
     },
     {
-      "block": "原句11",
-      "no": 11,
+      "block": "原句12",
+      "no": 12,
       "segments": [
         {
           "text": "Alaric tugged off his wedding ring and tossed it to Sevraim from across the room. The legionnaire reflexively caught it,",
@@ -261,6 +273,21 @@
     {
       "block": "原句9",
       "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
         "中文理解": 83,
         "关键词": 0,
         "为什么这样写": 73,
@@ -274,7 +301,7 @@
       }
     },
     {
-      "block": "原句10",
+      "block": "原句11",
       "cjk": {
         "中文理解": 77,
         "关键词": 0,
@@ -289,7 +316,7 @@
       }
     },
     {
-      "block": "原句11",
+      "block": "原句12",
       "cjk": {
         "中文理解": 54,
         "关键词": 0,
@@ -319,10 +346,10 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 11,
-    "block_median": 8.5,
+    "blocks": 12,
+    "block_median": 9.0,
     "block_range": [
-      4,
+      5,
       13
     ],
     "profile": "novels",
@@ -338,9 +365,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 11,
+    "blocks": 12,
     "quote_long": 0,
-    "segments": 11,
+    "segments": 12,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,
@@ -360,7 +387,7 @@
   "block_limit": {
     "lo": 2,
     "hi": 15,
-    "basis": "本书 55 章中位 8、最高 13（同类书按本书分布判）"
+    "basis": "本书 55 章中位 9、最高 13（同类书按本书分布判）"
   },
   "issues": {
     "struct": [],

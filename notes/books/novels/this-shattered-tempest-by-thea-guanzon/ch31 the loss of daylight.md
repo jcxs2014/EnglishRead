@@ -95,7 +95,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这块引语里没有一个人名，也没有一句命令。读者看到的是一艘船本身成为武器，而对手的反应只被写成动作：散开、慌忙避让。
 
-> **原句 9:** "While Alaric and the commodore talked, Sevraim had been leaning against the wall in his usual insouciant manner, arms clasped loosely together and ankles crossed. Alaric turned to him. At first, with nothing more than the brisk resolve that came of duty, but—once he looked upon the other man’s face—the command that he thought he was prepared to give died in his throat."
+> **原句 9:** "And, by the time it was over, there was nothing left of the Sardovians’ eastern offensive. They had turned into mountains of debris, slowly dispersing through the air, slowly sinking into the ocean."
+
+- **中文理解**：等一切结束，萨多维亚人的东线攻势已经什么都不剩了。他们变成了一堆堆碎片，慢慢在空中散开，慢慢沉进海里。
+
+- **关键词**：nothing left · eastern offensive · debris
+
+- **为什么这样写**：这一块只用两个短句办完两件事：先宣判（nothing left），再描写（变成碎片、散开、下沉）。两个 slowly 叠在一起，把「消失」拖成一段很长的时间——战果是用慢镜头交代的。
+
+- **读者视角提示**：注意方位——碎片是「散在空中」的，这场仗从头到尾发生在天上。同段前半（不在本块引语内）写拯救号一进场就把敌阵撞散，正是这一句的因果。
+
+> **原句 10:** "While Alaric and the commodore talked, Sevraim had been leaning against the wall in his usual insouciant manner, arms clasped loosely together and ankles crossed. Alaric turned to him. At first, with nothing more than the brisk resolve that came of duty, but—once he looked upon the other man’s face—the command that he thought he was prepared to give died in his throat."
 
 - **中文理解**：阿拉里克与准将说话时，塞夫雷姆照旧懒散地靠着墙，双臂松松抱着，脚踝交叠。阿拉里克转向他，起初只是出于职责的干脆决心；可一看清对方的脸，他自以为准备好了的那道命令就卡在喉咙里，没能出口。
 
@@ -105,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意塞夫雷姆那副姿态始终没有变：靠着、抱着手、交叠脚踝。命令卡住的不是他的服从，是阿拉里克自己看清那张脸之后才浮上来的东西。
 
-> **原句 10:** "Alaric let out a humorless laugh—no small feat for someone who suddenly felt as though he were underwater. But neither could he have held it in. His wife had betrayed him, his empire was teetering precariously on the verge of downfall, and his long-lost mother’s country had taken up arms against his own."
+> **原句 11:** "Alaric let out a humorless laugh—no small feat for someone who suddenly felt as though he were underwater. But neither could he have held it in. His wife had betrayed him, his empire was teetering precariously on the verge of downfall, and his long-lost mother’s country had taken up arms against his own."
 
 - **中文理解**：阿拉里克笑了一声，没有笑意——对一个突然觉得自己像沉在水下的人来说，这不容易；可他也憋不住。妻子背叛了他，帝国摇摇欲坠，而他失散多年的母亲的国家已经对自己的国家举起了武器。
 
@@ -115,7 +125,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意三个分句的排列：妻子、帝国、母亲的国家。他把最私人的放在最前，把最像国事的放在最后，读者读到的顺序正是他心里的轻重。
 
-> **原句 11:** "Alaric tugged off his wedding ring and tossed it to Sevraim from across the room. The legionnaire reflexively caught it, then blinked down at the object that was now in his palm."
+> **原句 12:** "Alaric tugged off his wedding ring and tossed it to Sevraim from across the room. The legionnaire reflexively caught it, then blinked down at the object that was now in his palm."
 
 - **中文理解**：阿拉里克把婚戒从手指上褪下来，隔着房间扔给塞夫雷姆。军团兵条件反射地接住，然后低头眨眼，看着此刻躺在自己掌心里的东西。
 

@@ -105,6 +105,18 @@
       "no": 9,
       "segments": [
         {
+          "text": "When that child comes of age, they can choose to walk the Path of the Sun, all the way to the highest summit, where the ",
+          "ok": true,
+          "pos": 12958
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
           "text": "“You are my sister’s daughter, so you will make it through. I have every faith. I haven’t walked the path myself; the be",
           "ok": true,
           "pos": 14219
@@ -113,8 +125,8 @@
       "words": 36
     },
     {
-      "block": "原句10",
-      "no": 10,
+      "block": "原句11",
+      "no": 11,
       "segments": [
         {
           "text": "“There’s an eclipse in a few hours,” Cahyir explained. She retrieved a corked vial from the medicine chest at the foot o",
@@ -125,8 +137,8 @@
       "words": 43
     },
     {
-      "block": "原句11",
-      "no": 11,
+      "block": "原句12",
+      "no": 12,
       "segments": [
         {
           "text": "“I see,” said a cold, dry voice, as dear to her as her own heartbeat. “So this is what happens when there’s an eclipse a",
@@ -261,6 +273,21 @@
     {
       "block": "原句9",
       "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 75
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
         "中文理解": 47,
         "关键词": 0,
         "为什么这样写": 66,
@@ -274,7 +301,7 @@
       }
     },
     {
-      "block": "原句10",
+      "block": "原句11",
       "cjk": {
         "中文理解": 65,
         "关键词": 0,
@@ -289,7 +316,7 @@
       }
     },
     {
-      "block": "原句11",
+      "block": "原句12",
       "cjk": {
         "中文理解": 56,
         "关键词": 0,
@@ -319,10 +346,10 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 11,
-    "block_median": 8.5,
+    "blocks": 12,
+    "block_median": 9.0,
     "block_range": [
-      4,
+      5,
       13
     ],
     "profile": "novels",
@@ -338,9 +365,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 11,
+    "blocks": 12,
     "quote_long": 0,
-    "segments": 11,
+    "segments": 12,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,
@@ -360,7 +387,7 @@
   "block_limit": {
     "lo": 2,
     "hi": 15,
-    "basis": "本书 55 章中位 8、最高 13（同类书按本书分布判）"
+    "basis": "本书 55 章中位 9、最高 13（同类书按本书分布判）"
   },
   "issues": {
     "struct": [],
