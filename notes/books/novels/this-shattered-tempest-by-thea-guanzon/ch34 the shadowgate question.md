@@ -7,8 +7,8 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：月食把她和他一起卷进影门的间隙，两个人把一年来各自藏着的账摊开对质，他否认签过那份法令，她则终于把「可以选择」握在手里，最后在黎明群岛的山径起点与姑母告别。
-- **情感弧线位置**：本章是情绪最紧的一次正面摊牌，走向由惊惶到指控、由指控到一句否认把地基抽空，再滑到告别的平静——从紧到松，从怒到倦，落点不在和解，而在放手。
+- **一句话概括**：月食把她和他一起卷进影门的间隙，两个人把各自藏着的账摊开对质，他否认签过那份法令，她则终于把「可以选择」握在手里，最后在黎明群岛的山径起点与姑母告别。
+- **情感弧线位置**：一场由惊惶到指控、由指控到一句否认把地基抽空、再滑到告别的平静的正面摊牌，从紧到松，从怒到倦，落点不在和解，而在放手。
 - **Tropes 兑现/反转**：兑现的是「被迫同处一地说真话」与「以为你只是在利用我」这两套对质套路；反转在于真话说尽之后两人离得更远——他自证清白，紧接着又用一句讥讽把自己推回原地。
 - **人物弧线**：阿拉里克从审判者变成自辩者，再退回面具后面；塔拉辛从跪着结巴，到站直反问，最后在山径起点用「我必须」而不是「我被派去」讲自己的去向。
 - **叙事手法**：月食充当开关，月食起她被卷走、月食落她被送回；冲突全靠对话承担，叙述只给身体信号（发抖、退缩、指尖擦过袖口），而魔法的归属——暗贴着他、金离她很远——替关系作了陈述。
@@ -17,13 +17,13 @@ modified: "2026-11-01"
 
 > **原句 1:** "When Talasyn lifted her head, it was to find her husband looming over her. Despite the sullen calm of his initial statement, he was staring down at her with burning eyes. The Shadowgate shivered, echoing his fury and his resentment."
 
-- **中文理解**：塔拉辛抬头，看见她的丈夫就站在面前。他开口时语气是闷着火的平静，眼睛却在烧；连影门都跟着他的怒意与怨气发抖。她感到的是这个人的怒意正在改写周围的空气，而她自己还站在原地。
+- **中文理解**：塔拉辛抬头，看见她的丈夫就站在面前。他开口时语气是闷着火的平静，眼睛却在烧；连影门都跟着他的怒意与怨气发抖。这份怒气不必他说出口，空间已经替他说了。
 
 - **关键词**：her husband · burning eyes · Shadowgate shivered
 
 - **为什么这样写**：先把人摆成俯视的姿态，再特写眼睛，最后才让空间本身打颤——他的愤怒不是由叙述者命名的，而是由影门的反应替他说出来。开场那句「sullen calm」与「burning eyes」并排，克制的语气和失控的目光同时成立，读者比塔拉辛早半步感到不对。
 
-- **读者视角提示**：这一块里，声音和眼睛是两份互相打架的证据。她说的话她听见了，她看见的东西她还没敢承认；阅读时不妨把注意力放在「Despite」这个词上，它标记的正是两者的落差。
+- **读者视角提示**：这一块里，声音和眼睛是两份互相打架的证据。他说的那句话她听见了，他眼睛里的东西她还没敢承认；阅读时不妨把注意力放在「Despite」这个词上，它标记的正是两者的落差。
 
 > **原句 2:** "“Where—” Talasyn wildly scanned the area. They were surrounded by threads of intertwined light and darkness; it reminded her of being inside the same shield they’d made to defeat Bakun. But the gold didn’t cling to Talasyn the way the shadows did to Alaric; it was wholly separate from her and it glowed only dully, as though overwhelmed by the opposing magic."
 
@@ -31,7 +31,7 @@ modified: "2026-11-01"
 
 - **关键词**：intertwined light · wholly separate · opposing magic
 
-- **为什么这样写**：同一个空间里，两种力量各有归属：暗贴着他，光离她很远。这是把两人的婚姻状况翻译成看得见的物理事实——从前能合在一处的力量，如今只是并置。「dully」这个词比任何控诉都直接，它写的不是亮度，是势头。
+- **为什么这样写**：同一个空间里，两种力量各有归属：暗贴着他，光离她很远。这是把两人此刻的处境写成看得见的物理事实——曾经能合在一处的力量，如今只是并排亮着。「dully」这个词比任何控诉都直接，它写的不是亮度，是势头。
 
 - **读者视角提示**：注意「the same shield they’d made to defeat Bakun」是塔拉辛的联想，而不是叙述者的判定。她用来理解眼前景象的参照物，恰恰是两人并肩的那段经历；她一边被他的怒气逼着，一边还在拿旧日作尺子。
 
@@ -41,7 +41,7 @@ modified: "2026-11-01"
 
 - **关键词**：Alaric countered · work together · your plans
 
-- **为什么这样写**：他追问的不是背叛这件事，而是动机——他把她的亲近读成一套让他放松戒备的手段，等于把两人之间所有真实的可能性一次抽走。更重的一笔是「He wasn’t looking at her」：连愤怒都懒得对准她，说明她已经不值得他动怒，这比吼叫更伤人。
+- **为什么这样写**：他追问的不是背叛这件事，而是动机——他把她的亲近读成一套让他放松戒备的手段，等于把两人之间所有真实的可能性一次抽走。更重的一笔是「He wasn’t looking at her」：话是对着她说的，目光却落在别处——不看，本身就是一种判断。
 
 - **读者视角提示**：顺着他的推论走一遍：同床、降低戒心、便于操控。这条链在事实上断在哪一环，读者手里有他没有的材料；但他此刻需要的不是真相，是一个能让自己不疼的版本。
 
@@ -55,13 +55,13 @@ modified: "2026-11-01"
 
 - **读者视角提示**：他切开的是「计划」与「执行」两层：父亲定盘子，马蒂尔动手，他事后才知情。真正该被追问的是他知情之后做了什么，那半句落在本块引语之外——他把失去法力的她带在了身边。
 
-> **原句 5:** "“I didn’t sign it,” Alaric repeated. “It wasn’t just because of you,” he added sullenly. “While I agree with you that people need something to believe in other than fear, I also had to prove to myself that I’m capable of defying my father. Especially when he is so clearly in the wrong.”"
+> **原句 5:** "“I didn’t sign it,” Alaric repeated. “It wasn’t just because of you,” he added sullenly. “While I agree with you that people need something to believe in other than fear, I also had to prove to myself that I’m capable of defying my father."
 
-- **中文理解**：阿拉里克重复了一遍：他没有签署那份法令。他又闷闷地补上一句，说不只是为了她——他也同意人需要别的东西可信仰、不能只靠恐惧，但他也需要向自己证明，他能够违抗父亲，尤其是在父亲明显做错的时候。
+- **中文理解**：阿拉里克重复了一遍：他没有签署那份法令。他又闷闷地补上一句，说不只是为了她——他也同意人需要恐惧之外的东西去相信，但他还需要向自己证明，他能够违抗父亲。
 
 - **关键词**：Alaric repeated · added sullenly · my father
 
-- **为什么这样写**：她的整个世界在这一刻往下沉，而他说这话的语气是「sullenly」——像被冤枉的人，不像在争取她。一句话同时干了两件事：推翻她「你永远不会违抗父亲」的指控，也暴露他此举的动机里掺着自尊。真相在这里不是礼物，是另一种距离。
+- **为什么这样写**：「I didn’t sign it」只有四个词，却把两人刚才互相扣上的罪名拆掉一半；他说这话的语气是「sullenly」——像被冤枉的人，不像在争取她。这一句同时干了两件事：推翻她「你永远不会违抗父亲」的指控（她的原话在本块之前），也暴露他此举的动机里掺着自尊。真相在这里不是礼物，是另一种距离。
 
 - **读者视角提示**：引语里的「it」承接她方才的质问——她指控他让那份法令通过（法令全名见本章稍前她自己的话）。紧接着的下一段，他问自己的品格在她眼里够不够高，又问她能不能别再假装在乎他。先自证、再自伤，这两步连着读才不会误判：这不是和解的开端，是防御的加固。
 
@@ -71,19 +71,19 @@ modified: "2026-11-01"
 
 - **关键词**：shimmering net · rightful places · windswept shoreline
 
-- **为什么这样写**：这场对峙的收场不由任何人宣布，而由天象宣布：月食一结束，空间就把她吐出来。三个意象依次归位——月回天上、网散掉、人独留海岸。刚才还能擦到他袖口的人，现在连梦里也只剩自己一个。
+- **为什么这样写**：这场对峙的收场不由任何人宣布，而由天象宣布：双月一归位，空间就把她吐出来。三个意象依次归位——月回天上、网散掉、人独留海岸。刚才还能擦到他袖口的人，现在连梦里也只剩自己一个。
 
-- **读者视角提示**：「alone」是上一段那个动作的答案：她再次伸手，他立刻挪开；随后空间把她送回一个没有他的地方。注意顺序，是拒绝先发生，天象才跟上。
+- **读者视角提示**：「alone」是本块之前那两段的答案：她再次伸手，他立刻挪开（见本块之前的两段）；随后空间把她送回一个没有他的地方。注意顺序，是拒绝先发生，天象才跟上。
 
-> **原句 7:** "Something in Talasyn’s soul gave a throb at that promise. She’d been following orders her whole life. It felt so rare and precious, to be given the gift of choice. To be assured that she could shake off the weight of the world and rest, and there were people who would not fault her for it."
+> **原句 7:** "Something in Talasyn’s soul gave a throb at that promise. She’d been following orders her whole life. It felt so rare and precious, to be given the gift of choice."
 
-- **中文理解**：那句承诺让她的灵魂一颤。她这辈子都在听命行事，所以「可以选择」这件事显得稀有而贵重：有人向她保证，她可以卸下整个世界的重量歇一歇，而且不会有人因此怪她。
+- **中文理解**：那句承诺让她的灵魂一颤。她这辈子都在听命行事，所以「可以选择」这件事显得稀有而贵重——它被当成一份礼物递到她面前。
 
 - **关键词**：following orders · Talasyn’s soul · whole life
 
-- **为什么这样写**：引语里的「that promise」承接本块之前族长卡希尔许她的那句话——一个永远为她留着的炉边位置（原句不在本块引语内）。叙述者不复述承诺的内容，只写她听见之后的生理反应「gave a throb」；一个身体动作把「自由」这种大词按回肉身，读者才知道它有多重。
+- **为什么这样写**：引语里的「that promise」承接本块之前族长卡希尔许她的那句话——一个永远为她留着的炉边位置（原句不在本块引语内）。叙述者不复述承诺的内容，只写她听见之后的生理反应「gave a throb」；一个身体动作把「可以选」这种大词按回肉身，还替它标了价——礼物。
 
-- **读者视角提示**：这一段全是内心，但起点是一个极轻的动作。读的时候留意「rare and precious」后面接的不是欢呼，而是「rest」——她想要的第一样东西不是胜利，是能停一下。
+- **读者视角提示**：这一段全是内心，但起点是一个极轻的动作。读的时候留意顺序：先有身体的一颤，才有「rare and precious」的判断。她不是先想明白再感动，而是先被击中，再替这份感受找词。
 
 > **原句 8:** "“I have to end the war, Aunt.” Talasyn placed her fingers over Cahyir’s, where they were still resting against her cheek. She gripped them tightly, pouring twenty years’ worth of unsaid words and missed moments into that touch."
 
@@ -91,7 +91,7 @@ modified: "2026-11-01"
 
 - **关键词**：twenty years’ · unsaid words · missed moments
 
-- **为什么这样写**：一整场伸手落空之后，这一握终于落在人身上，而且落在姑母而不是丈夫身上。「twenty years’ worth」把漫长的时间折进一个动作，句子却不给任何煽情的形容词；紧接着的「I have to」是她自己下的判断，不是谁派给她的任务。
+- **为什么这样写**：她方才几次伸手都落了空，这一握却实实在在落在卡希尔手上。「twenty years’ worth」把漫长的时间折进一个动作，句子不给她任何煽情的形容词；紧接着的「I have to」是她自己下的判断，不是谁派给她的任务。
 
 - **读者视角提示**：她道谢时说的是「没能更早相见」，不是「没能留下」。这两句的差别决定了她后面的每一步：她接受这份温暖，但不打算把留下演成牺牲。
 
@@ -135,4 +135,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-月食把塔拉辛与阿拉里克关进影门的间隙，一年的隐瞒在几句话里被摊平：他否认签署法令，她把「原来你可以选择」这句话握进手里；月食落下时两人各自归位，她在黎明群岛的山径起点与姑母握手告别，带着自己的判断往山上走。
+月食把塔拉辛与阿拉里克关进影门的间隙，各自藏着的隐瞒在几句话里被摊平：他否认签署法令，她把「原来你可以选择」这句话握进手里；月食落下时两人各自归位，她在黎明群岛的山径起点与姑母握手告别，带着自己的判断往山上走。
