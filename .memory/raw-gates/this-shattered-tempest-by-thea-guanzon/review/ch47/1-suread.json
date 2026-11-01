@@ -1,0 +1,128 @@
+{
+  "chapter": "ch47",
+  "source": "text/ch47_chapter_forty_seven.txt",
+  "char_total": 7822,
+  "events": [
+    {
+      "n": 1,
+      "summary": "塔拉辛与阿拉里克一同走到摄政盖赫里斯面前，盖赫里斯说这一幕早该发生。",
+      "quote": "He blinked at Talasyn’s greeting, but quickly recovered from his surprise as she and Alaric stopped in unison a short distance away from him.",
+      "start": 167,
+      "end": 308
+    },
+    {
+      "n": 2,
+      "summary": "盖赫里斯讥问塔拉辛是否还把“女皇”算作自己的头衔。",
+      "quote": "“Do you still count Empress among those titles, I wonder?” Gaheris asked, and the beginnings of a satisfied smile bloomed on his withered lips when she went tense but said nothing.",
+      "start": 1144,
+      "end": 1324
+    },
+    {
+      "n": 3,
+      "summary": "盖赫里斯伸手放出墨色锁链，却被隐形之物抽出血痕而缩手。",
+      "quote": "But Gaheris abruptly snatched back his hand with an intake of breath. Blood dripped down his nails, as though something invisible had lashed at him like a whip.",
+      "start": 2477,
+      "end": 2637
+    },
+    {
+      "n": 4,
+      "summary": "阿拉里克承认自己故意没警告父亲，好让塔拉辛有反抗的机会。",
+      "quote": "Alaric had wanted to give Talasyn a fighting chance if she were ever to go up against his father.",
+      "start": 3155,
+      "end": 3252
+    },
+    {
+      "n": 5,
+      "summary": "塔拉辛散掉魔法，独自走到盖赫里斯的爪脚椅前逼视他。",
+      "quote": "And, as Alaric watched, his wife marched right up to the claw-foot chair, stopping only once she was within arm’s reach of his father, staring Gaheris down with an air of quiet menace.",
+      "start": 4225,
+      "end": 4409
+    },
+    {
+      "n": 6,
+      "summary": "塔拉辛怒斥盖赫里斯在毁掉一个他自己也活不久的世界。",
+      "quote": "“You’re destroying a world you’re not even going to live in much longer,” she snarled at him.",
+      "start": 5215,
+      "end": 5308
+    },
+    {
+      "n": 7,
+      "summary": "盖赫里斯释放暗门，把塔拉辛抬离地面折磨。",
+      "quote": "Then the Shadowgate erupted into being, a sudden, jagged cloud of midnight, surrounding her and lifting her off the floor.",
+      "start": 6129,
+      "end": 6251
+    },
+    {
+      "n": 8,
+      "summary": "塔拉辛在痛苦中听见先祖女声说“他不过是个男人”，随后睁眼放出光。",
+      "quote": "an unbroken line of clan matriarchs and Dominion queens, speaking into the chasms of aetherspace, speaking to her and through her. But, daughter—he is just a man.",
+      "start": 7605,
+      "end": 7767
+    }
+  ],
+  "relations": [
+    {
+      "a": "塔拉辛",
+      "b": "盖赫里斯",
+      "relation": "敌对／言语交锋，她要求他以正式头衔称呼自己",
+      "quote": "“I have several titles,” she replied stiffly, “and I’d appreciate it if you offered me the courtesy of using at least one of them, Regent Gaheris.”",
+      "start": 399,
+      "end": 546
+    },
+    {
+      "a": "盖赫里斯",
+      "b": "阿拉里克",
+      "relation": "父子；父亲以轻蔑的口吻夸他“把人及时带来”",
+      "quote": "His icy gaze darted to Alaric over her shoulder. “You did well, bringing her to me so promptly.",
+      "start": 1325,
+      "end": 1420
+    },
+    {
+      "a": "塔拉辛",
+      "b": "阿拉里克",
+      "relation": "夫妻；她早前在礁岛上肯定过他的价值",
+      "quote": "It was such a different sentiment from what Talasyn had expressed on the skerry—You have always been worthy. To me, you are worth everything—that Alaric very nearly couldn’t suppress a shudder.",
+      "start": 1543,
+      "end": 1736
+    },
+    {
+      "a": "塔拉辛",
+      "b": "先祖女声（女族长与自治领女王一脉）",
+      "relation": "血脉召唤，众声唤她“女儿”",
+      "quote": "that was one voice and yet hundreds upon hundreds of voices, a multitude of images racing together like comets in the night, their splinters spiraling backward into rivers of time",
+      "start": 7400,
+      "end": 7579
+    }
+  ],
+  "numbers": [
+    {
+      "value": "two",
+      "context": "盖赫里斯把塔拉辛与阿拉里克比作两只被困的啮齿动物",
+      "quote": "like a predator lazily switching its attention back and forth between two trapped rodents",
+      "start": 1902,
+      "end": 1991
+    },
+    {
+      "value": "half",
+      "context": "盖赫里斯原以为儿子会反抗",
+      "quote": "I was half expecting that you’d put up a fight",
+      "start": 1421,
+      "end": 1467
+    },
+    {
+      "value": "seven",
+      "context": "先祖记忆中出现的七个月亮",
+      "quote": "young sun, seven moons, an unbroken line of clan matriarchs and Dominion queens",
+      "start": 7581,
+      "end": 7660
+    },
+    {
+      "value": "hundreds upon hundreds",
+      "context": "附身于塔拉辛的无数声音",
+      "quote": "that was one voice and yet hundreds upon hundreds of voices, a multitude of images racing together like comets in the night",
+      "start": 7400,
+      "end": 7523
+    }
+  ],
+  "notes": "原文段间以 3 个空行分隔（部分 10 个），首个段落为重复的章题行；提取件首部有 10 个空行占位。所有引语为连续单段片段，含弯引号与破折号原样。"
+}
