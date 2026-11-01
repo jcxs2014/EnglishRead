@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch26",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch26_chapter_26.txt",
+ "facts": [
+  {
+   "fact": "叙述者想与 Tamsin 复盘昨夜的经过（她何时离开、去了哪、几点），她拒绝。",
+   "anchor": "I wanted to go over everything again with Tamsin",
+   "start": 32,
+   "end": 80
+  },
+  {
+   "fact": "她用手捂住叙述者的嘴，压低而异常平静地要他集中注意听她说。",
+   "anchor": "She covered my mouth with her hand",
+   "start": 283,
+   "end": 317
+  },
+  {
+   "fact": "她预判上门的警员多半会是 Lundy，而 Lundy 会怀疑她身上有事。",
+   "anchor": "The constable will probably be Lundy",
+   "start": 418,
+   "end": 454
+  },
+  {
+   "fact": "她说 Lundy 以前就审问过她——就在她母亲死后不久。",
+   "anchor": "Because he’s questioned me before",
+   "start": 508,
+   "end": 541
+  },
+  {
+   "fact": "她的母亲是在荒原上被发现的，死因是被人勒死。",
+   "anchor": "They found her on the moor. She’d been strangled",
+   "start": 730,
+   "end": 778
+  },
+  {
+   "fact": "那个凶手后来死于一场火灾；正是在那之后 Lundy 审问了她。",
+   "anchor": "Then he died in a fire. That’s when Lundy questioned me",
+   "start": 896,
+   "end": 951
+  },
+  {
+   "fact": "她下达口径令：无论谁来盘问都不多说一个字，只说那晚两人照常睡觉。",
+   "anchor": "No matter who comes from the police, don’t say a word more than you have to",
+   "start": 1180,
+   "end": 1255
+  },
+  {
+   "fact": "至少一小时后，叙述者听见车道上的轮胎声——来的不止一辆而是两辆——便去敲 Tamsin 的门说「他们来了」。",
+   "anchor": "I heard the crunch of tires on the drive",
+   "start": 1821,
+   "end": 1861
+  }
+ ]
+}
