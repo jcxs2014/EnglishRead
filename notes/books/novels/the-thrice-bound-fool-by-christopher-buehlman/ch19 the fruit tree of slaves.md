@@ -41,7 +41,7 @@ modified: "2026-11-01"
 **为什么这样写**：安慰的解剖学在两个比喻里换位——他用「拍牛」的力度让巨人感觉到人，巨人用「拍孩子」的轻让侏儒感到安全；力量差被翻译成两种温柔（重与轻的对位），人与巨的友谊在身高悬殊里找到了互相够得着的部位。
 **读者视角提示**：记住 Birch——花冠少年在这里有了名字与一段互拍之谊；这段「牛与孩子」的手势语言后面会救急。
 
-> **原句 5:** "This one, named Azdra-Kopt, or Star-Taker, is like the symbol of Tinthrax; mascot, weapon, and wonder all at once. He stood twenty-two feet tall if an inch, barrelish like the true giants, with a great square beard on him all matted near the mouth from the grainy purplish slop he drank six times a day to fuel those massive limbs."
+> **原句 5:** "This one, named Azdra-Kopt, or Star-Taker, was like the symbol of Tinthrax; mascot, weapon, and wonder all at once. He stood twenty-two feet tall if an inch, barrelish like the true giants, with a great square beard on him all matted near the mouth from the grainy purplish slop he drank six times a day to fuel those massive limbs."
 
 **中文理解**：这位名叫 Azdra-Kopt、或称「摘星者」的，就是 Tinthrax 的活体城徽——吉祥物、武器与奇观三合一。他站高足有二十二尺，体型像真巨人一样桶状，方方正正的大胡子在嘴边结成一团——那是一种粒状紫色浆糊的痕迹，他一天灌六次，好给那两条巨臂供能。
 **关键词**：mascot, weapon, and wonder / twenty-two feet tall / a great square beard / drank six times a day
