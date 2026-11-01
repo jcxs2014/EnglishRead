@@ -43,7 +43,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：镜头先给鳞、再给人。龙先被写成一片有体积的地形，读者的视线跟着她一级一级往上爬；等人出现时，它只是一个不具名、不动的剪影，辨认的工作被交给读者。蛋白石的比喻顺手解决两件事：说明光从哪来，也说明这片黑暗里有颜色。
 
-- **读者视角提示**：剪影「靠着龙身」这个位置本身就是信息：它不是刚闯进来的，是在这里待了很久的人。
+- **读者视角提示**：剪影「靠着龙身」这个位置本身就是信息：那是一个已经在黑暗里坐定的人，而不是刚闯进来的闯入者——至于坐了多久，文本没有给。
 
 > **原句 4:** "I am a daughter of the Silklands, which lies in the heart of the territory that once waged civil war against Urduja Silim. The Tempestroad flows in my veins. I was the only heir to House Ferasai."
 
