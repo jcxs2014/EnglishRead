@@ -1,0 +1,55 @@
+{
+ "book": "the-secret-thread-by-eve-chase",
+ "chapter": "ch40",
+ "text": "notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch40_chapter_40.txt",
+ "facts": [
+  {
+   "fact": "Woody 冷脸为 Jo 开门，前夜的温柔已凝固成僵硬；Jo 带着不祥预感走进门厅。",
+   "anchor": "Woody holds open Mimi’s apartment door. Everything tender in his face the night before is now set, hard-etched.",
+   "start": 21,
+   "end": 132
+  },
+  {
+   "fact": "Woody 开门见山：问题不在稿子而在 Jo 本人，是个「大问题」；他也没怎么睡，手抹过未刮的脸颊。",
+   "anchor": "‘There’s a problem with you.’ He looks like he hasn’t slept much either, raking a hand down his unshaven cheek. ‘A massive problem.’",
+   "start": 468,
+   "end": 600
+  },
+  {
+   "fact": "Woody 一早复查了 Pamela 的地址并做了调查，起因是昨晚河边 Jo 的脸色。",
+   "anchor": "‘I double-checked Pamela’s address first thing and did some digging because … well, your face by the river last night.’",
+   "start": 1243,
+   "end": 1362
+  },
+  {
+   "fact": "Woody 查出 Jo 七年前登记的住址就是 Mimi 姐妹的地址。",
+   "anchor": "‘I found out you were registered as living at Mimi’s sister’s address seven years ago.’",
+   "start": 1684,
+   "end": 1771
+  },
+  {
+   "fact": "Jo 亲口承认 Pamela 是自己的祖母，并说一直很想告诉他。",
+   "anchor": "‘Pamela is my grandmother,’ she says, trying not to crumple into a snivelling heap on the floor.",
+   "start": 1818,
+   "end": 1914
+  },
+  {
+   "fact": "Jo 快速解释发现经过：铁盒里的旧剪报让她震惊地认出著名 Mimi Mott 就是祖母疏远的姐妹 Miriam。",
+   "anchor": "So Jo tells him, rapid-fire, about her discovery of old press cuttings in a tin, the shocking realization that the famous Mimi Mott was Granny’s estranged sister, Miriam.",
+   "start": 3115,
+   "end": 3285
+  },
+  {
+   "fact": "Woody 宣告最后一批文稿已送 Lordats，Jo 与 Mimi 的 sessions 已经结束。",
+   "anchor": "‘Jo, the last bit of copy’s gone to Lordats. Your sessions with Mimi are over. Finished.’",
+   "start": 4730,
+   "end": 4819
+  },
+  {
+   "fact": "章末 Woody 压低声音发出警告：Mimi 已经知道了。",
+   "anchor": "He lowers his voice, heavy with warning: ‘Mimi already knows.’",
+   "start": 5453,
+   "end": 5515
+  }
+ ]
+}
