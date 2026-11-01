@@ -35,17 +35,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一段把「住破旅馆」从穷讲成了选择。读者由此知道他并非没钱，只是这笔钱本身会招眼；后面老板多问一句家乡，分量就重了一层。
 
-> **原句 3:** "No, he couldn’t tell her that. Instead, he’d made the mistake of saying they were for “hypertension,” hoping that would put the matter to rest, but her face, already pale, had gone white, her eyes widening with worry. “Are you okay?”"
-
-**中文理解**：不行，这话他说不出口。他换了个说法，说那些药是治高血压的，本想就此把话带过去；可她的脸本来就白，这下更白了，眼睛睁大，问他：「你没事吧？」
-
-**关键词**：couldn’t tell her · gone white
-
-**为什么这样写**：说不出口、换个说法、看她的反应，三样东西挤在三句短句里。谎话只占几个字，代价全写在脸上——已经白、更白、眼睛睁大。收尾是她的原话，只有三个词，把问题原样递回来，他不接，段落就断在这里。
-
-**读者视角提示**：读者知道他在撒谎，也知道她听出来了。他真正想说的那几句（错投一注、暗网上买来的药）在前文已经摆给读者看过，所以「高血压」这个词落下来时，比它本身更重。
-
-> **原句 4:** "Used to be a destination town, what with the giant mall that way, and the theme park over there, even some farmland tours. But the farmland got bought off, and the mall closed ten years back, and the theme park shuttered last year, and now it’s just the kind of place you pull off when your eyes get tired."
+> **原句 3:** "Used to be a destination town, what with the giant mall that way, and the theme park over there, even some farmland tours. But the farmland got bought off, and the mall closed ten years back, and the theme park shuttered last year, and now it’s just the kind of place you pull off when your eyes get tired."
 
 **中文理解**：这儿以前是个目的地：那边有个大商场，这头有主题公园，还有农场游。后来农场被买走了，商场十年前关了，主题公园去年也关了门，现在就剩这种地方——开车开到眼睛累了，拐下来睡一晚。
 
@@ -54,6 +44,16 @@ modified: "2026-11-01"
 **为什么这样写**：老板这段话是一个完整的起落：先列三样曾把人招来的东西，再用三个「被买走／关了／关了门」一样样划掉，句式几乎重复，每重复一次就少一样。最后一句把镇子归成「眼睛累了就拐下来」的去处，等于顺手替这家旅馆下了定义。全章唯一的长台词放在这里，说话的人并不觉得自己在讲什么大事。
 
 **读者视角提示**：读者刚看完米奇为什么挑最不起眼的地方住，接着听本地人把这种地方讲成被剩下的。两条线在这一段并到一起，谁都不用点破。
+
+> **原句 4:** "No, he couldn’t tell her that. Instead, he’d made the mistake of saying they were for “hypertension,” hoping that would put the matter to rest, but her face, already pale, had gone white, her eyes widening with worry. “Are you okay?”"
+
+**中文理解**：不行，这话他说不出口。他换了个说法，说那些药是治高血压的，本想就此把话带过去；可她的脸本来就白，这下更白了，眼睛睁大，问他：「你没事吧？」
+
+**关键词**：couldn’t tell her · gone white
+
+**为什么这样写**：说不出口、换个说法、看她的反应，三样东西挤在三句短句里。谎话只占几个字，代价全写在脸上——已经白、更白、眼睛睁大。收尾是她的原话，只有三个词，把问题原样递回来，他不接，段落就断在这里。
+
+**读者视角提示**：读者知道他在撒谎，也知道她听出来了。他真正想说的那几句（错投一注、暗网上买来的药）在前文已经摆给读者看过，所以「高血压」这个词落下来时，比它本身更重。
 
 ## 本章词汇
 

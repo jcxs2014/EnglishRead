@@ -39,17 +39,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者由此知道自己站在一场已经降温的追捕里。主任为什么松手，这一句不说；她能做的只是跑得更快一点。
 
-> **原句 3:** "Should have. The EO was a walking, talking voodoo doll, able to not only shapeshift, but deflect pain onto those she mimicked. It was EON’s job—Rios’s job—to stop her before anyone got hurt."
-
-**中文理解**：她本可以那样做，也本该那样做。那个 EO 是个会走会说话的巫毒娃娃：不但能变形，还能把疼痛转到她模仿过的人身上。在有人受伤之前拦住她，是 EON 的职责，也是里奥斯的职责。
-
-**关键词**：a walking, talking voodoo doll
-
-**为什么这样写**：「Should have.」独立成句，是判词，不用叙述者开口。中间一句把这个 EO 的本事逐条摆开，变形、转痛，一样不落；末句用同位语把机构职责压到她个人头上——EON 的活，就是她的活。职责说得越清楚，前面那两个字就越像认罪。
-
-**读者视角提示**：读者到这里才拿到 EON 对这名 EO 的评估，也才明白她手里压着一件多大的事。她为什么没有动手，本章要往后翻才给理由。
-
-> **原句 4:** "The same hum she’d felt before the blast went off on that last op, and the building came crashing down on top of her. A hum that followed her to the gym and onto the track, building charge until, out of nowhere, she found herself thinking about June."
+> **原句 3:** "The same hum she’d felt before the blast went off on that last op, and the building came crashing down on top of her. A hum that followed her to the gym and onto the track, building charge until, out of nowhere, she found herself thinking about June."
 
 **中文理解**：同样的嗡鸣，她上一次行动时在爆炸响起之前就听到过，紧接着整栋楼塌在她身上。那声音跟着她到健身房、到跑道上，一点点积蓄，直到她在毫无来由的一刻想起琼。
 
@@ -58,6 +48,16 @@ modified: "2026-11-01"
 **为什么这样写**：先给声音，再给后果，两句挨着落下，读者读到的顺序和她当时经历的顺序一致：先有预感，后有灾难。第二句把同一股声音搬进健身房，让它在跑道上继续积蓄；「毫无来由」四个字掐掉了因果，落点却是一个人名——预感最后指向一个人，不指向一场爆炸。
 
 **读者视角提示**：原文写上一次那栋楼塌在她身上；这一次嗡鸣要预告什么，读者还不知道。它把她推向琼，而琼与 EON 的瓜葛，这个句子一个字也没有交代。
+
+> **原句 4:** "Should have. The EO was a walking, talking voodoo doll, able to not only shapeshift, but deflect pain onto those she mimicked. It was EON’s job—Rios’s job—to stop her before anyone got hurt."
+
+**中文理解**：她本可以那样做，也本该那样做。那个 EO 是个会走会说话的巫毒娃娃：不但能变形，还能把疼痛转到她模仿过的人身上。在有人受伤之前拦住她，是 EON 的职责，也是里奥斯的职责。
+
+**关键词**：a walking, talking voodoo doll
+
+**为什么这样写**：「Should have.」独立成句，是判词，不用叙述者开口。中间一句把这个 EO 的本事逐条摆开，变形、转痛，一样不落；末句用同位语把机构职责压到她个人头上——EON 的活，就是她的活。职责说得越清楚，前面那两个字就越像认罪。
+
+**读者视角提示**：读者到这里才拿到 EON 对这名 EO 的评估，也才明白她手里压着一件多大的事。她为什么没有动手，本章要往后翻才给理由。
 
 > **原句 5:** "The soldier quickened her pace until she couldn’t breathe, couldn’t think, couldn’t feel anything but the dull throb in her lungs and legs. And when she showered, and dressed, and checked her EON-issued phone, she was relieved to find a new message. A new mission."
 
