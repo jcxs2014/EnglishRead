@@ -61,7 +61,7 @@ modified: "2026-10-31"
 
 **关键词**：run / watercolour / ankle / heath / sharp
 
-**为什么这样写**：watercolour in the mist 是逃跑途中的反常比喻：奔命的人不该有心情看风景，但雾把房子画成了水彩——距离被审美化，说明他已经开始用「看」来逃避「跑」。misjudged / ankle turn over / clumsily 三个词完成一次不体面的跌倒：哥特恐怖里的人物通常优雅奔逃，他是踩空、扭伤、摔得四仰八叉——身体失控是本章恐怖的新维度（前文「feet were encased in concrete」是动不了，这里是动得太糟）。the bite of something sharp – a stone? 把伤口写成「被咬」：钝的、动物的、带问号的——他不知道是什么割了他，伤口成了悬念，而问号是作者留给读者的钩子。
+**为什么这样写**：watercolour in the mist 是逃跑途中的反常比喻：奔命的人不该有心情看风景，但雾把房子画成了水彩——距离被审美化，说明他已经开始用「看」来逃避「跑」。misjudged / ankle turn over / clumsily 三个词完成一次不体面的跌倒：哥特恐怖里的人物通常优雅奔逃，他是踩空、扭伤、摔得四仰八叉——身体失控是本章恐怖的新维度（前文「feet were encased in concrete」是动不了，这里是动得太糟）。the bite of something sharp – a stone? 把伤口写成「被咬」：钝的、动物的、带问号的——他不知道是什么割了他，伤口成了悬念，而问号是作者留给读者的钩子。奔跑途中他还想起 Caroline——「who had wanted to leave, but hadn't managed to escape even as far as the village」：她当年想逃，却连村子都没逃到；此刻他在逃，方向相反，终点同样是这座房子。
 
 **读者视角提示**：注意「a watercolour in the mist」——请与本章开头的「cauldron of white」对照：同一团雾，开头是吞没万物的白锅，逃跑时是柔焦的水彩。雾的质地没变，他与雾的距离变了。另注意「a stone?」的问号——本章后面他找到的不是石头，是半只咖啡杯；这个问号在说「不是石头」，但此刻他不知道，读者也不知道。
 
