@@ -1,0 +1,87 @@
+{
+  "chapter": "ch33",
+  "text_file": "text/ch33_chapter_33.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Nancy 葬礼次日清晨，Mimi 从厨房门边听到美国口音的女人说出 untenable 与 Harold，母亲回应 I understand, and I am so very sorry for your loss, Mrs Caswell——来访的是 Celia；两位母亲因共同悲剧决裂：一家回到被要求搬离的湿冷小屋，一家回到拉上窗帘、琴声停歇的宅邸。",
+      "anchor": "I understand, and I am so very sorry for your loss, Mrs Caswell.",
+      "byte_offset": 589,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "前一晚尤其糟糕：Pa 抓住 Pamela 带回的激动消息（Alf 曾咕哝 Lawrence 的名字），把天台一幕编成 Lawrence 因被 Alf 点破其母与其友私通而动手教训 gardener，越编越亢奋直至面色发紫、口沫横飞，最后猛踢踢脚板；当晚他的教堂是 Feathers，后来被两个本地人抬回家，烂醉失禁。",
+      "anchor": "he kicked the skirting board with an almighty crunch",
+      "byte_offset": 1959,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Celia 来访半小时后，系着地址标签的 Doris 房门钥匙出现在后台阶，Pa 由怒转泣、像孩子般在 Ma 怀里痛哭；全家数小时内打包搬离 Rushwood 小屋——碗碟裹进报纸、Ma 爬上椅子取下墙上十字架与马掌铁、拆掉 Alf 打的卧室写字台，Bramley 一家的痕迹被抹得像擦掉的黑板粉笔字。",
+      "anchor": "every trace of the Bramleys was wiped like chalk from a board",
+      "byte_offset": 3163,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "打包间隙 Mimi 溜去 Rushwood 道别，在喷泉边与早已等在那里的 Lawrence（淡金头发）对望；Celia 一身黑从屋里冲出，把 Lawrence 拽回屋内并摔上门。",
+      "anchor": "dragged Lawrence back inside and slammed the door",
+      "byte_offset": 4158,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "全家搬进距 Rushwood 十英里、Doris 位于小村落的屋子：没有商店，一条巷子里一个公交站、一座农场、五座小屋；只有两间卧室，Mimi 与 Pamela 头脚相对挤一张单人床，Pamela 侧身向墙不说话，父母的争吵顺着地板缝传上来。",
+      "anchor": "Ten miles from Rushwood",
+      "byte_offset": 4211,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "安顿期：无业的 Pa 从午饭起就喝，某天冲进最近的警察局指控警方掩盖、偏袒富有的 Caswells，Doris 来劝（Celia 悲恸、Harold 认识有权势的人）也堵不住他；Ma 在邻村牧师宅做清洁、围着探视时间排班，并拒绝 Mimi 为 Whipple 打工挣的钱（嫌那钱 tainted）；Mackie 开 Reliant Robin 来访，从 Rushwood 偷带出土豆、洋蓟、李子和消息——Lawrence 已提前去牛津，Celia 与 Harold 分乘两车回伦敦；Mimi 因拒 blame Lawrence 被全家侧目，Pa 在餐桌上反覆数落她不该越过本分为 Whipple 干活。",
+      "anchor": "Lawrence had left early for Oxford",
+      "byte_offset": 5902,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "八月转入九月再到十月：Alf 没有好转，开始在床上枯萎——肌肉萎缩、夏天的晒黑褪尽、嘴唇干裂，Mimi 可耻地开始害怕去探视，连 Pamela 对他康复的坚定信心也在退潮；医生郑重解释他可能这样维持数周、数月甚至数年，康复几率很小；验尸官裁定 Nancy 之死为 misadventure，这份无意义击垮了 Mimi——她感到 Mimi 这个自己像土一样从根上剥落，只剩 Miriam，随后 Miriam 也消失了。",
+      "anchor": "A coroner ruled Nancy’s death misadventure",
+      "byte_offset": 9100,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "初霜的十月中旬雾晨，Mimi 惊醒于一个觉悟——没有人会来救她，她必须自救，但先得处理 Alf：她趁天未亮去医院，贴着 Alf 耳边求原谅、说爱他、吻他脸颊，回家后抓紧行装（外祖父的旧皮箱、几件好衣裳、Whipple 的信与其宝贵的伦敦电话号码、微薄积蓄）；早餐桌上她宣布去伦敦找 Whipple 谋职并寄钱回家，Pamela 怒斥 Shame on you, Miriam（你造成了这一切却一走了之），Pa 威胁 Put that bag down now, Miriam Bramley / 否则永远别再进我的家，Ma 却捧起她的脸说这可能是个可怕的错误、但它是你自己的错误——Mimi 重新提起行李走出雾巷，自知此去不返。",
+      "anchor": "You may be making the most terrible mistake, but it is yours to make, Miriam.",
+      "byte_offset": 11971,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Mimi（Miriam）是本章叙述者；Pamela 是她的姐妹（my sister turned on her side），Alf 是她的兄弟（Pamela 斥责时说 Alf is alive. Alf is your brother.）",
+    "Pa 名 Ambrose（Ma 劝他时唤 Ambrose），失业酗酒、瘫在沙发上；Ma 是母亲，靠牧师宅清洁工撑家",
+    "Celia Caswell 是 Lawrence 的母亲（Pa 的版本：Alf 告诉 Lawrence 其母与其友私通），美国口音，丈夫/同行的 Harold 有权势（Doris：Harold knew powerful people）；葬礼次日她来访，后与 Harold 分车回伦敦",
+    "Lawrence 是 Caswell 家的少爷（entitled young man），与 Alf 的天台坠落有关（Pa 强行归罪于他），Mimi 拒绝把 Alf 的意外归罪于他，因此被家人记恨；他先去了牛津",
+    "Mackie 在 Rushwood 干活（偷运出农产品与消息），开 Reliant Robin，与 Pamela 牵手长距离散步，是她的安慰来源与温和陪衬",
+    "Whipple 是 Mimi 曾为之工作的人（男性，his precious London phone number），Mimi 此行去伦敦投奔；Ma 视其报酬为 tainted，Pa 认定这份工作毁了 Mimi 的本分",
+    "Doris 把自家小屋借给 Bramley 一家（钥匙系地址标签留在后台阶），也来劝 Pa 别与 Caswells 作对",
+    "Nancy 之死（葬礼已办、验尸官裁定 misadventure）与 Alf 的重伤是 Bramley 家与 Caswell 家共同的悲剧：We’d ruined the Caswells’ and they ours",
+    "外祖父的姓名首字母 M. B. 刻在皮箱盖上，Mimi 与外祖父共用这组首字母（which she shared）"
+  ],
+  "numbers_dates": [
+    "Lot 18：拍卖品编号——A small leather suitcase, circa 1930（黄铜包角、双皮搭带扣、中央锁扣、帆布衬里）",
+    "皮箱盖上刻的首字母 ‘M. B.’（Mimi 与外祖父共用）",
+    "Half an hour after Celia’s visit——Doris 的钥匙出现在后台阶",
+    "搬家当天几小时内完成打包（Within a few hours）",
+    "Ten miles from Rushwood；No shop. One bus stop down the lane. A farm. A huddle of five cottages. Only two bedrooms in ours",
+    "I was nineteen, soon twenty（Mimi 自述年龄）",
+    "August tipped into September → October landed hard → The first frost. A foggy mid-October morning（时间线三站）",
+    "医生：Alf could persist in this state for weeks, months, even years（康复几率很小）",
+    "验尸官裁定 Nancy 之死为 misadventure",
+    "The Feathers（Pa 当晚买醉处，酒吧/教堂双关）",
+    "Mimi 的画稿词汇：jacquard, flocking, sightline, seam allowance（old sketchbooks）"
+  ],
+  "turning_point": "初霜的十月中旬雾晨，Mimi 先向病床上的 Alf 耳语求恕吻别，再顶着 Pa 的逐门令与 Pamela 的 Shame on you，在母亲『错误也由你犯』的放行下提起外祖父的旧皮箱走向伦敦——跨进雾巷那一刻她已知道此去不返。"
+}

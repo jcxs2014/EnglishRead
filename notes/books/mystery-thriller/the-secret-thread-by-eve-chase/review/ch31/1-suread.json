@@ -1,0 +1,200 @@
+{
+  "chapter": "ch31",
+  "text_file": "text/ch31_chapter_31.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Bramley 家未被邀请；Mimi 独自徒步赴 Nancy 的葬礼，戴着 Nancy 所赠的白框 Biba 太阳镜作致意，抄农田与河边小径、避开村里人视线，躲进教堂石门厅的角落听完全场仪式。",
+      "anchor": "wearing Nancy’s white-framed sunglasses in homage, cutting across the farmer’s fields",
+      "byte_offset": 315,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "仪式半小时后，Nancy 的白棺被放入湿土下葬；Celia 往棺上撒土，送葬人群随即缓缓散去。",
+      "anchor": "But half an hour later, she was buried, her white coffin lowered into soft wet ground.",
+      "byte_offset": 1598,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "葬礼人群中不见 Rafe——他已在派对后两三天离开或被逐出；Nancy 的伦敦友人 Doris、Mackie、Whipple 等到场。",
+      "anchor": "who’d apparently left, or been thrown out, a couple of days after the party.",
+      "byte_offset": 2247,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Doris 避人耳目告知 Mimi：全家即将被逐出工作、小屋与 Rushwood（Harold 仍归罪 Alf，Mimi 的父亲归罪 Lawrence）；她提出让全家暂住自家两上两下的空屋（离医院更近），备用钥匙连地址放在后门台阶，但 Caswells 绝不能知道。",
+      "anchor": "‘Harold still blames Alf for Nancy’s death.’",
+      "byte_offset": 5397,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Doris 透露自己战时未婚先孕、当年蒙陌生人收留才渡过难关（如今儿子成了教师）；她转交 Whipple 托付的封缄信，并告知律师已禁止 Lawrence 与其家接触，但 Lawrence 问起了 Mimi。",
+      "anchor": "Whipple wants me to give you this.",
+      "byte_offset": 7848,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Alf 撞到头部、脑内出血（坠落由 Nancy 缓冲），自派对以来未真正恢复意识超过一两秒，状态危急；Pamela 每天最早到 ICU、带着书面问题清单、查脑损伤资料，数小时对昏迷的 Alf 讲花园与水獭，几乎不离病榻。",
+      "anchor": "hadn’t properly regained consciousness for more than a second or two. His state was critical.",
+      "byte_offset": 10939,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Harold 曾试图让 Alf 以过失杀人罪名被捕（未遂）；警方定调为悲剧事故，橙室外的警戒带刚撤，全家人都接受过警方问询。",
+      "anchor": "Harold tried to get Alf arrested for manslaughter?",
+      "byte_offset": 11883,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Alf 突然睁眼、动唇吐出 \"Law … Lawren …\" 后再度失去意识；护士转述昨夜有金发男子在护士站为 Alf 留下一本英文鸟类指南；Pamela 由此断定 Miriam 恋着 Lawrence，喝令她离开；Mimi 奔出医院痛哭，直到想起口袋里的 Whipple 信才渐渐止住。",
+      "anchor": "‘Law … Lawren …’ he mumbled, then drifted off again.",
+      "byte_offset": 13777,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Mimi ↔ Nancy Caswell",
+      "rel": "Nancy 生前把白框 Biba 太阳镜赠给 Mimi（拍卖品 Lot 16 说明注明）；Mimi 戴它赴葬致意、视为护身符。",
+      "anchor": "A gift to Mimi from Nancy Caswell.",
+      "byte_offset": 80,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela ↔ Alf",
+      "rel": "Pamela 不离 ICU 病榻、握着他的手；Mimi 相信比起医生，更能把 Alf 拉回来的是 Pamela。",
+      "anchor": "But it did belong in Pamela’s.",
+      "byte_offset": 9951,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela ↔ Mimi",
+      "rel": "Alf 坠落后姐妹互相怨责，有些日子冷淡得像躲雨的陌路人；点破 Miriam 恋情后当面翻脸赶人。",
+      "anchor": "as if Pamela and I were just acquaintances sharing a shelter in the drizzle",
+      "byte_offset": 10597,
+      "hits": 1
+    },
+    {
+      "pair": "Mimi ↔ Alf",
+      "rel": "Mimi 深感自责：Alf 上屋顶是因为她撺掇他留下看烟花，又因她传 Rafe 与 Celia 的闲话引燃他与 Lawrence 的争执——『一切指向我』。",
+      "anchor": "because I’d cajoled him into staying at the party to watch the fireworks",
+      "byte_offset": 4672,
+      "hits": 1
+    },
+    {
+      "pair": "Harold / Caswells ↔ Bramley 家",
+      "rel": "Harold 归罪 Alf 并要把全家逐出；Caswell 律师禁止 Lawrence 与 Bramley 家有任何接触。",
+      "anchor": "The Caswell lawyer has advised against any contact with you or your family.",
+      "byte_offset": 8253,
+      "hits": 1
+    },
+    {
+      "pair": "Pa ↔ Lawrence（Margo 作证）",
+      "rel": "父亲归罪 Lawrence；Margo 目击坠落全程并向警方宣誓作证，Mimi 据此坚持 Lawrence 没做错任何事。",
+      "anchor": "Margo witnessed all of it, and she’s given a sworn statement to the police.",
+      "byte_offset": 13133,
+      "hits": 1
+    },
+    {
+      "pair": "Doris ↔ Bramley 家",
+      "rel": "Rushwood 管家 Doris 冒险私援——报信、收留、代传 Whipple 信、留钥匙，以报答战时自己受助之恩。",
+      "anchor": "someone offered me a roof over my head at the time I needed it most.",
+      "byte_offset": 6589,
+      "hits": 1
+    },
+    {
+      "pair": "Lawrence ↔ Mimi / Alf",
+      "rel": "律师禁令之下仍向 Doris 问起 Mimi、祈祷 Alf 康复；Mimi 认定昨夜留鸟书的金发男子是 Lawrence（『他不是怪物』）。",
+      "anchor": "A blond chap dropped it off for Alf at the nurses’ station last night.",
+      "byte_offset": 14725,
+      "hits": 1
+    },
+    {
+      "pair": "Lawrence ↔ 牧师 / Margo",
+      "rel": "葬礼上 Margo 母性般揉着 Lawrence 的背、与牧师一左一右夹着他；牧师握手施慰被他摇头拒绝。",
+      "anchor": "Lawrence shook his head, refusing solace.",
+      "byte_offset": 2777,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "value": "Lot 16；1960s",
+      "context": "拍卖品编号 16：Biba 出品的 1960 年代白框超大号太阳镜（Nancy 赠 Mimi）。",
+      "anchor": "Lot 16: White-framed 1960s oversized sunglasses by Biba",
+      "byte_offset": 23,
+      "hits": 1
+    },
+    {
+      "value": "ten days",
+      "context": "派对之后连下十天大雨，山谷被浸透。",
+      "anchor": "ten days of heavy rain",
+      "byte_offset": 638,
+      "hits": 1
+    },
+    {
+      "value": "half an hour",
+      "context": "葬礼仪式开始约半小时后 Nancy 下葬。",
+      "anchor": "But half an hour later",
+      "byte_offset": 1598,
+      "hits": 1
+    },
+    {
+      "value": "a couple of days",
+      "context": "Rafe 在派对后两三天即离开或被逐。",
+      "anchor": "a couple of days after the party",
+      "byte_offset": 2292,
+      "hits": 1
+    },
+    {
+      "value": "twenty years",
+      "context": "Harold 在葬礼上看上去老了二十岁。",
+      "anchor": "Harold, aged twenty years, stoically marching",
+      "byte_offset": 2536,
+      "hits": 1
+    },
+    {
+      "value": "two up, two down；a few miles",
+      "context": "Doris 自家两上两下小屋、离医院几英里，作临时安置。",
+      "anchor": "A two up, two down, a few miles away",
+      "byte_offset": 6068,
+      "hits": 1
+    },
+    {
+      "value": "Six minutes；on the hour",
+      "context": "去医院的巴士整点从邮局外发车，Doris 提醒 Mimi 还剩六分钟。",
+      "anchor": "Six minutes. You’d better scoot.",
+      "byte_offset": 8564,
+      "hits": 1
+    },
+    {
+      "value": "a second or two",
+      "context": "Alf 自派对以来未真正清醒超过一两秒。",
+      "anchor": "for more than a second or two",
+      "byte_offset": 10980,
+      "hits": 1
+    },
+    {
+      "value": "During the war",
+      "context": "Doris 战时未婚先孕（不知士兵姓名与团号），蒙人收留才渡过难关。",
+      "anchor": "Family way, yes. During the war.",
+      "byte_offset": 6751,
+      "hits": 1
+    },
+    {
+      "value": "before Christmas",
+      "context": "Doris 的儿子已成年、圣诞节前不能来探望（房子因此空着）。",
+      "anchor": "can’t visit before Christmas",
+      "byte_offset": 6257,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Alf 在昏迷中喃出\"Law … Lawren …\"、护士又转述金发男子留书之后，Pamela 点破 Miriam 恋着 Lawrence 并把她逐出病房——Bramley 姐妹在 Alf 命悬一线时公开决裂，而 Mimi 手里还攥着未拆的 Whipple 信。"
+}

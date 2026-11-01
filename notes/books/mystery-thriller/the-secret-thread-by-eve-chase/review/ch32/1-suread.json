@@ -1,0 +1,80 @@
+{
+  "chapter": "ch32",
+  "text_file": "text/ch32_chapter_32.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "本章物证为拍卖第17号拍品：装饰师（decorator）Elliot Whipple 写于1969年7月的一封信，信件本体被挂牌拍卖（现代拍卖线拿到 Whipple 亲笔信）。",
+      "anchor": "Lot 17: Letter from decorator Elliot Whipple, July 1969.",
+      "byte_offset": 23,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Whipple 在信中向收信人提供实际援手：若需要伦敦的低薪工作，或需要一位「忠诚但反复无常」的朋友，可拨打信号码或到他在 Belgravia 的小工作室找他。",
+      "anchor": "in need of work in London (low paid) or a friend (loyal but erratic)",
+      "byte_offset": 202,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Whipple 表示挂念收信人全家，并祝其兄弟（brother）早日康复——佐证信写就时 Mimi 的兄弟伤病在身、尚未痊愈。",
+      "anchor": "wishing your brother a quick recovery",
+      "byte_offset": 404,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "信中「像亲爱的 Nancy 那样活着——而她做不到」直证 Nancy 已死；Whipple 称 Nancy 也会坚持要 Mimi 这样勇敢活下去。",
+      "anchor": "Live as dear Nancy cannot. Nancy would insist on it.",
+      "byte_offset": 461,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "信末直接点名收信人 Mimi 并嘱其「勇敢」，落款 Yours, Whipple——确认这是 Elliot Whipple 写给 Mimi 的亲笔信（与 Lot 17 拍品说明互证）。",
+      "anchor": "Be brave, Mimi",
+      "byte_offset": 445,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "a": "Elliot Whipple",
+      "rel": "亲笔写信鼓励并提供工作/友情援助",
+      "b": "Mimi",
+      "evidence": "Be brave, Mimi / in need of work in London (low paid) or a friend (loyal but erratic)"
+    },
+    {
+      "a": "Nancy",
+      "rel": "已死（Mimi 被嘱替她活下去）",
+      "b": "Mimi",
+      "evidence": "Live as dear Nancy cannot. Nancy would insist on it."
+    },
+    {
+      "a": "Mimi 的兄弟",
+      "rel": "伤病在身、正在康复期",
+      "b": "Mimi",
+      "evidence": "wishing your brother a quick recovery"
+    },
+    {
+      "a": "Whipple 1969年7月的信",
+      "rel": "作为第17号拍品进入拍卖",
+      "b": "Lot 17",
+      "evidence": "Lot 17: Letter from decorator Elliot Whipple, July 1969."
+    }
+  ],
+  "numbers_dates": [
+    {
+      "item": "Lot 17",
+      "context": "信件的拍卖编号（第17号拍品）",
+      "anchor": "Lot 17:"
+    },
+    {
+      "item": "July 1969",
+      "context": "信件落款时间",
+      "anchor": "July 1969"
+    }
+  ],
+  "turning_point": "Lot 17 拍出的 Whipple 1969年7月信件以「Live as dear Nancy cannot」一句直证 Nancy 已死，同时透露他当年给 Mimi 留了伦敦工作与友情的退路。"
+}
