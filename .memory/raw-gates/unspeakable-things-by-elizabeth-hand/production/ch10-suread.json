@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch10",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch10_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "叙述者回到自己房间，用几束荆豆和一块拳头大的泥炭在壁炉里生火。",
+   "anchor": "I made a fire in the hearth from a few bundles of furze and a fist-size chunk of peat",
+   "start": 49,
+   "end": 134
+  },
+  {
+   "fact": "叙述者感到自己人生的幕布被拉开，看清了被对自己隐瞒十八年的事。",
+   "anchor": "The curtain had been pulled back on my life, and I saw what had been kept hidden from me for eighteen years",
+   "start": 282,
+   "end": 389
+  },
+  {
+   "fact": "叙述者得知 Tamsin Griggs 的母亲在叙述者出生时救过其命。",
+   "anchor": "mother had saved my life at birth",
+   "start": 409,
+   "end": 442
+  },
+  {
+   "fact": "叙述者自问 Tamsin 是否早在两人在 Carn Kerys 偶然相遇前就已知情，并觉得那不可能。",
+   "anchor": "we met by chance at Carn Kerys",
+   "start": 480,
+   "end": 510
+  },
+  {
+   "fact": "叙述者回放 Tamsin 的形象：平静复述可怕之事，以及曾用折刀袭击自己的突然暴力。",
+   "anchor": "her calm recitation of terrible things; her sudden violence in attacking me with the penknife",
+   "start": 852,
+   "end": 945
+  },
+  {
+   "fact": "叙述者补上 Tamsin 父母双亡、身为孤儿的一笔。",
+   "anchor": "the tragedy of her parents’ deaths. She was an orphan",
+   "start": 962,
+   "end": 1015
+  },
+  {
+   "fact": "叙述者觉得这一切像自己父亲的情节剧活生生上演。",
+   "anchor": "one of my father’s melodramas come to life",
+   "start": 1029,
+   "end": 1071
+  },
+  {
+   "fact": "叙述者自认几天前还不知道 Tamsin Griggs 存在，如今觉得没有她宁愿去死。",
+   "anchor": "Now I would sooner die than live without her",
+   "start": 1123,
+   "end": 1167
+  }
+ ]
+}
