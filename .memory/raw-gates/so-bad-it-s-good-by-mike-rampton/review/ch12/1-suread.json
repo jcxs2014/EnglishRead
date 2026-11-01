@@ -1,0 +1,104 @@
+{
+  "chapter": "ch12",
+  "text_file": "text/ch12_shaggy_dog_stories_that_need_putting_down.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者用 Britpop 一条开场：朋友反复下达「去做第三受欢迎的 Britpop 乐队」这道荒诞指令，叙述者一路拒绝，重复本身撑起全篇。",
+      "quote": "I kept saying no, no, no, no, and he kept on saying it, kept on demanding I should be the third most popular Britpop band.",
+      "char_range": [
+        1114,
+        1236
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者的玉米片故事让「自觉的玉米片」每到一处容器翻转就重新爬回顶层，用同一动作的机械循环推进，而不是靠情节转折。",
+      "quote": "When the packet was opened and poured into a bowl, being at the top meant the conscientious cornflake was now at the bottom.",
+      "char_range": [
+        2914,
+        3038
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者写修士院一条：推销员为听到那个声音熬了几十年、捐款、出家，受戒当天方丈终于要讲，作者却用星号把答案整个抽掉。",
+      "quote": "The day he is ordained, the abbot tells him about the noise. ‘Wow!’ he says. ‘I’d never have guessed!’*",
+      "char_range": [
+        4876,
+        4979
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者在婚礼一条里把排队名单越堆越长，用一、二、三……十的数目递进把铺垫撑到荒谬。",
+      "quote": "There was a curry table, and a big line for that: a motorcyclist, two guitarists, three accountants, four entrepreneurs, five designers, six ballerinas, seven chauffeurs, eight miners, nine gardeners and ten pirates.",
+      "char_range": [
+        6047,
+        6263
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者给这场婚礼的收尾是「有 punchbowl，但没有 punch line」，把「没有 punchline」直接说成 punchline。",
+      "quote": "And there was a punchbowl, but no punch line.",
+      "char_range": [
+        6266,
+        6311
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者写绿色乒乓球一条：Jimmy 几十年只说想要一个绿色乒乓球，Billy 每次都送别的；临终前 Billy 追问原因，作者只写「Jimmy 告诉他了」，不转述内容。",
+      "quote": "So Jimmy told him, and Billy gave him a green ping-pong ball.",
+      "char_range": [
+        8371,
+        8432
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Britpop 一条 / 玉米片一条",
+      "relation": "两条都以机械重复为引擎，重复到极处再用一句短话收束，落差来自篇幅与收尾的不成比例。",
+      "quote": "saying it, saying it, saying it, saying it, saying it …"
+    },
+    {
+      "pair": "修士院一条 / 绿色乒乓球一条",
+      "relation": "两条都把关键答案留白：一条用星号省掉声音的真面目，一条只交代「他说了」而不写说了什么。",
+      "quote": "So Jimmy told him, and Billy gave him a green ping-pong ball."
+    },
+    {
+      "pair": "婚礼队列 / 婚礼的 punchbowl 收尾",
+      "relation": "前文名单越长、数目越整齐，最后「没有 punch line」这句自指才越有效，铺垫与取消互为条件。",
+      "quote": "And there was a punchbowl, but no punch line."
+    },
+    {
+      "pair": "玉米片一条 / 修士院一条",
+      "relation": "两条都把极小的事抻到荒诞长度：麦片为了到顶反复爬回上层，推销员为了听清一个声音等到出家受戒；而结局都不兑现（麦片被吃掉，答案被星号省略）。",
+      "quote": "When it was lifted onto the spoon, the lateral movement placed the conscientious cornflake at the bottom of the spoonful of cereal."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "third",
+      "meaning": "朋友反复要求叙述者去当「第三受欢迎」的 Britpop 乐队，这个序数本身就是笑点的荒诞来源。",
+      "quote": "‘No, but what you should really do,’ he said, ‘is be the third most popular Britpop band.’"
+    },
+    {
+      "value": "twenty",
+      "meaning": "牛排摊队伍的人数，紧接着被二十个具体人名逐一填满。",
+      "quote": "There was a steak table, but in the queue for that were twenty people: Dennis, Maria, Sharon, Jessica, Holly, Katherine, Simon, Jeremy, David, Stephen, Bruce, Sarah, Henry, Tim, Tom, Terry, Terrence, Diane, Diana and Dionne."
+    },
+    {
+      "value": "ten",
+      "meaning": "咖喱队伍数目递进的终点：十名海盗。",
+      "quote": "seven chauffeurs, eight miners, nine gardeners and ten pirates."
+    },
+    {
+      "value": "ninety",
+      "meaning": "Jimmy 将满的岁数，也是绿色乒乓球铺垫的终点，紧接着作者让他病危。",
+      "quote": "Just before turning ninety, Jimmy fell ill, and it was clear he was going to die."
+    }
+  ]
+}

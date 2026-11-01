@@ -1,0 +1,87 @@
+{
+  "chapter": "ch11",
+  "text_file": "text/ch11_knock_knock_jokes_to_guarantee_you_arent_welcome.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者用「我全吃光了」这条开场，把对方照例的追问「who?」变成一句惊恐的「你吃了什么？」。",
+      "quote": "Knock, knock. Who’s there? I’ve eaten up. I’ve eaten up who? You’ve eaten a WHAT?",
+      "char_range": [
+        114,
+        195
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者收的 Anita 一条把名字谐音成「I need a」，笑点落在借用厕所上。",
+      "quote": "Knock, knock. Who’s there? Anita. Anita who? Anita use your toilet.",
+      "char_range": [
+        202,
+        269
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者收录的控制狂一条抢在对方提问前就命令对方「现在你说 control freak who?」，把格式的对话契约本身当笑点。",
+      "quote": "Con–– Okay, now you say, ‘Control freak who?’",
+      "char_range": [
+        526,
+        571
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者收录的 Spell 一条让答案就是拼写本身，问答到此闭环。",
+      "quote": "Knock, knock. Who’s there? Spell. Spell who? W-h-o.",
+      "char_range": [
+        749,
+        800
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者收的口齿不清一条让 Panther 谐音成「panth」，punchline 是一句含混的「我要去游泳」。",
+      "quote": "Panther who? Panther no panth, I’m goin’ thwimmin’.",
+      "char_range": [
+        1114,
+        1165
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者用香蕉一条拖长形式：先照旧问一轮 banana，再突然换成 orange，punchline 变成「还好我没说 banana」，笑点落在前面的重复上。",
+      "quote": "Knock, knock. Who’s there? Banana. Banana who? Knock, knock. Who’s there? Orange. Orange who? Orange you glad I didn’t say banana?",
+      "char_range": [
+        1469,
+        1599
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者用 Persephone Twinkletoes McGinty 一条放弃谐音机制，笑点改为「你怎么会认识好几个叫这名的人」。",
+      "quote": "You … you know multiple people named Persephone Twinkletoes McGinty?",
+      "char_range": [
+        2044,
+        2112
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "香蕉一条 / 其余单条笑话",
+      "relation": "其余各条一次问答即收，香蕉这条把同一问句连着重放多次才换成 orange，长度本身成了笑料。",
+      "quote": "Knock, knock. Who’s there? Banana. Banana who? Knock, knock. Who’s there? Banana. Banana who? Knock, knock. Who’s there? Banana. Banana who? Knock, knock. Who’s there? Orange. Orange who? Orange you glad I didn’t say banana?"
+    },
+    {
+      "pair": "Control freak 一条 / Spell 一条",
+      "relation": "两条都把「who」这一步当作靶子：一条抢先替对方说，一条把答案退化成拼写。",
+      "quote": "Okay, now you say, ‘Control freak who?’"
+    },
+    {
+      "pair": "Anita 一条 / Persephone 一条",
+      "relation": "前者完全依赖名字谐音，后者明确放弃谐音、改用名字的荒谬长度，构成本章两种相反的取名策略。",
+      "quote": "Persephone Twinkletoes McGinty who?"
+    }
+  ],
+  "numbers": []
+}

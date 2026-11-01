@@ -1,0 +1,112 @@
+{
+  "chapter": "ch10",
+  "text_file": "text/ch10_classic_joke_formats_explained.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者把 knock-knock 归为「最持久却最烂」的格式，说它原本围绕有人在门口的情境，并用 Shaun 一条演示名字要被转成「忘带钥匙」的句子。",
+      "quote": "One of the most enduring joke formats, despite being absolutely rubbish, knock-knock jokes were originally based around the idea of someone being at a door",
+      "char_range": [
+        95,
+        250
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者判定 knock-knock 最好的一条其实是对形式的颠覆，并以此反推这类笑话整体质量之低。",
+      "quote": "It says a lot about the low quality of most knock-knock jokes that the best one out there is a subversion of the form",
+      "char_range": [
+        680,
+        797
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者把 shaggy dog stories 定义为很长、结尾极平淡或干脆没有结尾的笑话。",
+      "quote": "Shaggy dog stories are long, long jokes, usually with incredibly anticlimactic punchlines or a total lack of them.",
+      "char_range": [
+        908,
+        1022
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者交代 Mark Twain 据说是拥趸，但「shaggy dog」这个名字到 1930 年代才因一条多毛猎犬的长笑话出现，punchline 是「It’s not that shaggy」。",
+      "quote": "Mark Twain was said to be a fan, although the shaggy dog name only came about in the 1930s, with a popular long joke about a hairy hound with the punchline, ‘It’s not that shaggy.’",
+      "char_range": [
+        1135,
+        1315
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者说明这类故事不靠逐字背诵，而是给讲者一个松散框架，可以塞跑题、旁白、不必要的细节和文学典故。",
+      "quote": "They’re not meant to be recited word for word – they exist as loose frames for the teller to do what they want with.",
+      "char_range": [
+        1425,
+        1541
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者把 walks-into-a-bar 解释成极高效的 setup：一进门的人与店里工作的人互不相识，却被情境绑定必须对话。",
+      "quote": "You immediately have two characters who don’t know one another – the person that’s just walked in and the person that works there – and are bound by the situation to have a dialogue.",
+      "char_range": [
+        2085,
+        2267
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者用「马走进酒吧」那条点明：最受喜爱的酒吧笑话其实可以发生在任何地方，只是放在酒吧更好笑。",
+      "quote": "could take place anywhere, but is just funnier in a bar.",
+      "char_range": [
+        2601,
+        2657
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "作者指出「鸡为什么过马路」作为笑话讲不通，却照样成了世界最著名的笑话。",
+      "quote": "doesn’t really make sense as a joke, which somehow hasn’t stopped it becoming arguably the best-known joke in the world",
+      "char_range": [
+        2744,
+        2863
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Shaun 一条 / knock-knock 的悬念机制",
+      "relation": "幽默（如果有）全押在悬念上：读者等着看一个普通名字怎么被扭成一句关于进门的陈述。",
+      "quote": "The humour, such that there is any, lies in the suspense – how is this normal-sounding name going to be transformed into a statement about getting through a door?"
+    },
+    {
+      "pair": "Interrupting cow / knock-knock 格式",
+      "relation": "作者拿这唯一一条作为「颠覆形式」的样本，说明正统 knock-knock 已经烂到只能靠打破自己取胜。",
+      "quote": "the best one out there is a subversion of the form"
+    },
+    {
+      "pair": "马的酒吧笑话 / 酒吧这个场景",
+      "relation": "笑话与酒吧并无必然关系，地点只是让它更好笑的加成，说明该格式的核心是 setup 效率而非酒。",
+      "quote": "could take place anywhere, but is just funnier in a bar."
+    },
+    {
+      "pair": "鸡过马路 / 学界的两种解读",
+      "relation": "作者把「刻意平淡」与「涉及鸡之死的宗教寓言」并置，显示这条笑话的效果取决于解释而非文本。",
+      "quote": "are divided, in fact, as to whether it’s deliberately anticlimactic or some sort of confusing religious allegory involving the chicken dying."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "1930s",
+      "meaning": "「shaggy dog」这一名称出现的年代，晚于马克·吐温被传为粉丝的时间。",
+      "quote": "although the shaggy dog name only came about in the 1930s"
+    },
+    {
+      "value": "two",
+      "meaning": "酒吧 setup 提供的角色数量：互不相识的顾客与店员。",
+      "quote": "You immediately have two characters who don’t know one another"
+    }
+  ]
+}
