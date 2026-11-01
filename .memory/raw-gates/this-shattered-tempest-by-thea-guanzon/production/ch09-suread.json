@@ -1,0 +1,55 @@
+{
+ "book": "this-shattered-tempest-by-thea-guanzon",
+ "chapter": "ch09",
+ "text": "notes/books/novels/this-shattered-tempest-by-thea-guanzon/text/ch09_chapter_nine.txt",
+ "facts": [
+  {
+   "fact": "伊安塔斯与王室其他封地一样全岛封锁，城堡不许任何人进出，岛屿上空由悬浮风暴舰严密看守。",
+   "anchor": "Iantas was in lockdown, like the royal house’s other holdings. No one in or out of the castle",
+   "start": 38,
+   "end": 131
+  },
+  {
+   "fact": "吊着绷带的拉詹当众喊「这不合规矩」，要求立刻放行；塔拉辛以调查未完、怕凶手偷渡为由拒绝，阿拉里克站到她身边把话顶回去。",
+   "anchor": "“Lachis’ka, this is most irregular!” cried a rajan with his arm in a sling.",
+   "start": 1286,
+   "end": 1361
+  },
+  {
+   "fact": "有拉詹抱怨城堡被「新房客」挤满，塔拉辛当众说明村民的家人与牲畜死于虚空闪焰、农田也因此无法耕种，是她请他们住下，命令贵族再忍一两天。",
+   "anchor": "“The villagers were here first,” Talasyn hissed at the presumptuous rajan.",
+   "start": 3242,
+   "end": 3316
+  },
+  {
+   "fact": "乌桑吉特交代：伊安塔斯本是夏宫，阿伦西娜·伊夫拉利斯殿下入住后才从埃斯卡亚调来十艘蛾形小艇、三艘单桅船、一艘舷外支架式战舰与两个排。",
+   "anchor": "we relocated ten moth coracles, three sloops, and one outrigger warship from Eskaya",
+   "start": 6716,
+   "end": 6799
+  },
+  {
+   "fact": "埃克利交代：袭击前约一小时，一名厨子给值夜的人分发红薯粥，粥里放了蟹眼果，药效在陶壳炸弹引爆后发作，发粥的厨子已不见踪影。",
+   "anchor": "it contained crab-eyes, which are a kind of berry with debilitating effects",
+   "start": 7389,
+   "end": 7464
+  },
+  {
+   "fact": "凶手没有坐飞艇，岸边留下几条渔船，若从最近的大陆瓦西亚斯出发至少走了一天半，并趁女王上楼、宾客散场、警戒松懈时动手。",
+   "anchor": "They must have traveled for a day and a half, at the very least",
+   "start": 8030,
+   "end": 8093
+  },
+  {
+   "fact": "埃克利与乌桑吉特抢着领罪，塔拉辛想起被贬去山中哨所的扬梅·拉帕特与戴镣铐的伊尚·瓦伊卡尔，心里说「我不是乌尔杜佳」，只给感谢、不罚。",
+   "anchor": "There is no penalty to bestow. Only gratitude.",
+   "start": 9783,
+   "end": 9829
+  },
+  {
+   "fact": "十三岁的厨房男孩韦奈哭着供出厨子迪仓：迪仓的哥哥就是阿拉里克在贝利安营房外打倒的那名守卫，那人七天后死去。",
+   "anchor": "his brother was the guard the Night Emperor killed outside his cell at the Belian garrison",
+   "start": 14331,
+   "end": 14421
+  }
+ ]
+}

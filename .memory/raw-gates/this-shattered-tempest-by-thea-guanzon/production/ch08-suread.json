@@ -1,0 +1,55 @@
+{
+ "book": "this-shattered-tempest-by-thea-guanzon",
+ "chapter": "ch08",
+ "text": "notes/books/novels/this-shattered-tempest-by-thea-guanzon/text/ch08_chapter_eight.txt",
+ "facts": [
+  {
+   "fact": "天穹宫进入最高戒备，每座白塔即每个可能的入口都有人把守，一艘舷外支架式战舰悬在宫殿上方。",
+   "anchor": "the Roof of Heaven was on high alert",
+   "start": 984,
+   "end": 1020
+  },
+  {
+   "fact": "塔拉辛判断黄龙想动手是因为阿拉里克威胁乌尔杜佳，按住不发则是因为她在场。",
+   "anchor": "It wants to attack because you threaten Urduja",
+   "start": 2283,
+   "end": 2329
+  },
+  {
+   "fact": "两名长矛手交叉长矛拦下塔拉辛，只允许两位陛下进王座厅，随行人员留在门外。",
+   "anchor": "Only Their Majesties are permitted in the throne hall",
+   "start": 4095,
+   "end": 4148
+  },
+  {
+   "fact": "被两名多米尼昂士兵反剪双臂、双手用铁镣铐在身后的人，是阿希姆桑附魔师首领伊尚·维卡尔。",
+   "anchor": "was Ishan Vaikar",
+   "start": 7458,
+   "end": 7474
+  },
+  {
+   "fact": "乌尔杜佳说王室已查封相关领地、将向反对派家族派使者，但拒绝在无确凿证据时对整个南半部宣战。",
+   "anchor": "The crown has seized all the relevant domains",
+   "start": 8429,
+   "end": 8474
+  },
+  {
+   "fact": "伊尚跪伏在地哭诉自己对增幅器外流毫不知情，接连以祖先、龙和她母亲起誓。",
+   "anchor": "I don’t know how the enemy acquired the amplifiers",
+   "start": 10943,
+   "end": 10993
+  },
+  {
+   "fact": "塔拉辛提议由她与阿拉里克回伊安塔斯主持调查，最迟次日夜前把结果报给乌尔杜佳。",
+   "anchor": "by tomorrow night, at the latest",
+   "start": 15544,
+   "end": 15576
+  },
+  {
+   "fact": "阿拉里克逼问乌尔杜佳后，王座两侧十名拉奇斯-达洛同时举枪瞄准他。",
+   "anchor": "The ten Lachis-dalo flanking the throne raised their muskets",
+   "start": 14056,
+   "end": 14116
+  }
+ ]
+}

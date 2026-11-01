@@ -1,0 +1,55 @@
+{
+ "book": "this-shattered-tempest-by-thea-guanzon",
+ "chapter": "ch10",
+ "text": "notes/books/novels/this-shattered-tempest-by-thea-guanzon/text/ch10_chapter_ten.txt",
+ "facts": [
+  {
+   "fact": "开篇点明这一天本就糟糕，伊莱丝的到来只是雪上加霜。",
+   "anchor": "It hadn’t been a great day, not by a long shot, and Ileis’s presence only served to further ruin it.",
+   "start": 36,
+   "end": 136
+  },
+  {
+   "fact": "吉的母亲来信，请求放吉回家一趟，哪怕只借她两周。",
+   "anchor": "She’s asking if I might be able to send you home for a while. Even for just a fortnight, if I can spare you.",
+   "start": 1285,
+   "end": 1393
+  },
+  {
+   "fact": "塔拉辛以拉奇斯卡的权威命吉乘船回家，等所有叛徒被清算完再回来。",
+   "anchor": "I think you should sail home, and stay there until all traitors have been dealt with.",
+   "start": 2031,
+   "end": 2116
+  },
+  {
+   "fact": "当晚塔拉辛扶着阳台栏杆，看吉的飞艇拖着翠绿尾焰离岛。",
+   "anchor": "hands wrapped around the railing as she watched Jie’s airship sail away from the island on emerald-green fumes",
+   "start": 3255,
+   "end": 3365
+  },
+  {
+   "fact": "阿拉里克宣布次日启程去大陆，并强调是「你和我」一起走。",
+   "anchor": "“We are leaving,” he repeated. “As in, you and me.”",
+   "start": 4291,
+   "end": 4342
+  },
+  {
+   "fact": "争执中塔拉辛把贝利安卫士的死甩到阿拉里克脸上，越过了不该越的线。",
+   "anchor": "As a killer yourself—",
+   "start": 7075,
+   "end": 7096
+  },
+  {
+   "fact": "她的情绪从水里召来三条龙，湿鳞映月，爪子在沙上刨出深沟。",
+   "anchor": "Three dragons, wet scales glistening in the moonlight, their claws raking deep gouges into the sand",
+   "start": 10794,
+   "end": 10893
+  },
+  {
+   "fact": "阿拉里克不再看龙，只盯着她的脸，叫她收拾行李。",
+   "anchor": "Pack your bags, wife.",
+   "start": 11730,
+   "end": 11751
+  }
+ ]
+}
