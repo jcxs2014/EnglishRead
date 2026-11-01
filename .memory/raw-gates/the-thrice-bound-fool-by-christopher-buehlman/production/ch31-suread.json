@@ -1,0 +1,73 @@
+{
+ "book": "the-thrice-bound-fool-by-christopher-buehlman",
+ "chapter": "ch31",
+ "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch31_31_a_kitten_by_night.txt",
+ "facts": [
+  {
+   "fact": "首夜独行：pin+钉开锁（不动 Hasp 的钥匙）、出门反锁；黑猫 Butter（肚皮如热锅黄油滑）勾爪讨摸",
+   "anchor": "picked the door lock using the pin and the nail",
+   "start": 174,
+   "end": 221
+  },
+  {
+   "fact": "墙上跑：光脚两步上墙抓梁、脚跟勾梁平躺进影——walltouchery（Guild 术语）是他最强的技能；Butter 被甩掉（「彻底走开、没停留告状」）",
+   "anchor": "I ran two steps up the wall",
+   "start": 3193,
+   "end": 3220
+  },
+  {
+   "fact": "Zherit-Nassk 的历史课：这干燥 landscape 曾属于独眼族——「很久以前山用火谋杀了我们。所以 Thumos 之座把脸藏进云里赎罪。他坐得像祖父般安详，却是个乐在其中的杀手」",
+   "anchor": "the mountain murdered us with fire",
+   "start": 5758,
+   "end": 5792
+  },
+  {
+   "fact": "黑glass 课：钢与玻璃的午夜杂种——敲击有巧劲的弹性；「锤、石、东方法术都碎不了我的孩子；地狱的墙、缚囚的链都是它。你被诅咒了吗，小家伙？」",
+   "anchor": "The midnight bastard child of steel and glass",
+   "start": 6415,
+   "end": 6460
+  },
+  {
+   "fact": "独眼生理：白的部分是金的（金属金、反光、有猫样纹理）；其实有两只眼但一次只露一只；夜眼无需日月烛",
+   "anchor": "gold like the metal",
+   "start": 7775,
+   "end": 7794
+  },
+  {
+   "fact": "交易：Zherit「书解我的奴役」——他递蜡刻钥匙模（Prank 级的手法接住）；「nassk=夜」——昼名 Zherit 另是一个人（dual nature）",
+   "anchor": "I am mad for books",
+   "start": 9192,
+   "end": 9210
+  },
+  {
+   "fact": "神谱：Medrena 海神在南城是双尾鱼女（叉沉船网拖人）、在此是「锁链+瓮」的奴像——「海在此为奴、被 Thumos 驯服，如其他所有神」；Geryat 从鹰变翼女带踝链；Thara 被 Umos 吞并合成 Thumos",
+   "anchor": "The sea is in bondage here",
+   "start": 12479,
+   "end": 12505
+  },
+  {
+   "fact": "神泪与密道：王座厅走廊一滴水落颊——咸（海或泪）；天花板上的暗门（Low School 的找门训练）——六扇门的安全通道网（厨房/大厅/升降房/客房/水房）",
+   "anchor": "tasted salt",
+   "start": 14093,
+   "end": 14104
+  },
+  {
+   "fact": "偷神眼：黄油刀挖出 Thumos 像（十尺黑身 citrine 眼）的眼做手电——火犬 Magmas「连哼都没哼、还让他站背上——懒狗」；六扇门开路",
+   "anchor": "I had his eye out",
+   "start": 16079,
+   "end": 16096
+  },
+  {
+   "fact": "Hasp 之死：房间里安静而冷——「你自私的老混蛋。你没带上我就回家了」——「最温柔的朋友走了，世界要是笑声比金币值钱该多甜」",
+   "anchor": "“You went home without me.”",
+   "start": 17890,
+   "end": 17917
+  },
+  {
+   "fact": "火葬与铃：Hasp（Mainann Dorann 村人）火葬——火花舔天、盐池倒映；铃被编进公主发辫——「她的拖沓叮当与 Hasp 的轻响不像同一只铃。但它是。多亏它我知道怪物在哪。谢谢，Hasp——真谢谢一切」",
+   "anchor": "one little bell sewn into the royal brat’s braid",
+   "start": 19369,
+   "end": 19417
+  }
+ ]
+}
