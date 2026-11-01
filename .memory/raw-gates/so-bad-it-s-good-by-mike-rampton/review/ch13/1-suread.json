@@ -1,0 +1,117 @@
+{
+  "chapter": "ch13",
+  "text_file": "text/ch13_hauntingly_terrible_spooky_jokes.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者把骨架类笑话放在章节最前，第一条就用 guts 同时指“内脏”与“胆量”的双关收尾",
+      "quote": "Why don’t skeletons fight each other? They don’t have the guts.",
+      "char_range": [
+        78,
+        141
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "紧接着是“鬼屋”第一人称段子：说者自称住了四百年没见过鬼，反转点是说者自己才是鬼",
+      "quote": "My housemates keep saying our house is haunted. That’s ridiculous – I’ve lived here for 400 years and never seen a ghost.",
+      "char_range": [
+        218,
+        339
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "鬼魂类笑话靠同音替换（ear → eeriest）把“听力好”字面化，机制是一条谐音梗",
+      "quote": "What kind of ghost has the best hearing? The eeriest.",
+      "char_range": [
+        344,
+        397
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "吸血鬼/德古拉一类被归在“脖子”意象上，用 neck-romancer 谐音 necromancer 作笑点",
+      "quote": "Why does Dracula like biting women’s throats? Because he’s a neck-romancer.",
+      "char_range": [
+        404,
+        479
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者也收“职业 + 鬼”的复合词笑话，把 ghost writer 当成字面身份来问",
+      "quote": "What’s the spookiest kind of author? A ghost writer.",
+      "char_range": [
+        484,
+        536
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "狼人笑话用拖长的嚎叫拼写收尾，把变身恐怖降格成一句含糊的自我安慰",
+      "quote": "I used to be a werewolf but I’m alright noooooooooooooooow.",
+      "char_range": [
+        1016,
+        1075
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "全章以一则吸血蝙蝠长故事压轴，短笑话清单由此切换到一句话长段子",
+      "quote": "A colony of vampire bats are struggling to find enough blood, and keep going out hunting and coming back with no success.",
+      "char_range": [
+        2657,
+        2778
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "长故事的落点是把“看不见”当证据：蝙蝠指着一根灯柱说自己撞上去，血由此而来",
+      "quote": "He lands in a tree and says, ‘Do you see that lamp post?’ The other bats nod hungrily. ‘Well, I didn’t.’",
+      "char_range": [
+        3101,
+        3205
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "skeleton / ghost",
+      "relation": "两条都拿“身体缺席”作字面答案：一个没有 guts，一个能被看穿，双关都落在“鬼没有实体”上",
+      "quote": "Why are ghosts such unconvincing liars? Because you can see right through them."
+    },
+    {
+      "pair": "ghost hearing / ghost writer",
+      "relation": "同属“把一个常用词换成鬼词根”的造词法：ear→eeriest 是同音，writer→ghost writer 是复合",
+      "quote": "What kind of ghost has the best hearing? The eeriest."
+    },
+    {
+      "pair": "werewolf howl / werewolf comb",
+      "relation": "两条狼人笑话都把恐怖形象日常化：一条用拖长元音模拟嚎叫，一条让妈妈叫狼人梳脸而不是梳头",
+      "quote": "‘Mum, am I a werewolf?’ ‘Oh, stop asking questions and comb your face.’"
+    },
+    {
+      "pair": "短笑话清单 / 结尾蝙蝠长故事",
+      "relation": "章末的蝙蝠故事与前面的单句笑话形成长短对照，作者用它当压轴而不是再列一条短梗",
+      "quote": "He lands in a tree and says, ‘Do you see that lamp post?’"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "400 years",
+      "meaning": "鬼屋段子里说者自称在这屋里住了四百年，暗示他就是鬼",
+      "quote": "I’ve lived here for 400 years and never seen a ghost."
+    },
+    {
+      "value": "13",
+      "meaning": "钟敲十三下，笑话给的建议是“该换钟了”，用不存在的时刻当由头",
+      "quote": "What time is it when the clock strikes 13? Time to get a new clock."
+    },
+    {
+      "value": "three wheels",
+      "meaning": "弗兰肯斯坦的怪物骑三轮车，靠“庞大恐怖 + 三轮”的落差出笑点",
+      "quote": "What’s enormous, terrifying and has three wheels? Frankenstein’s monster riding a tricycle."
+    }
+  ]
+}

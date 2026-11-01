@@ -1,0 +1,122 @@
+{
+  "chapter": "ch15",
+  "text_file": "text/ch15_historically_bad_jokes_laden_with_eras.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "开篇第一条就把年代钉在十三世纪中美洲羊皮纸，用 Incan paper 谐音 ink and paper 起梗",
+      "quote": "I was recently offered a contract to sign on some thirteenth-century Central American parchment.",
+      "char_range": [
+        90,
+        186
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "年代顺序并不严格递进，而是按朝代/年代自由串烧：罗马段用两根手指当五杯啤酒，靠手势与数字的错位出笑点",
+      "quote": "A Roman walks into a bar, holds up two fingers and says, ‘Five beers please.’",
+      "char_range": [
+        327,
+        404
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "历史人物段拿亚历山大大帝的军队开涮，把 sleeves 说成 sleevies 与 arm 双关",
+      "quote": "Where did Alexander the Great keep his armies? Up his sleevies.",
+      "char_range": [
+        552,
+        615
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "近世/思想史段用马克思与“财产”梗：proper tea 谐音 property，接 all property is theft 的旧口号",
+      "quote": "Why did Karl Marx drink coffee? Because all proper tea is theft.",
+      "char_range": [
+        821,
+        885
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "美国内战段把“站在历史错误一边”落到李将军身上，用 General Lee 谐音 generally",
+      "quote": "Did the Confederate army in the American Civil War know they were on the wrong side of history? Not General Lee.",
+      "char_range": [
+        952,
+        1064
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "恐龙与博物馆段是一则长故事：守卫把“七千一百万零四年半”说成精确到月，靠入职时间加总",
+      "quote": "Without a moment’s hesitation, the guard replies, ‘It’s 71,000,004 years and six months.’",
+      "char_range": [
+        1166,
+        1255
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "中世纪段落在亚瑟王的圆桌上做文章，把“最圆的骑士”拗成圆周谐音 Sir Cumference",
+      "quote": "Who was the roundest knight at King Arthur’s table? Sir Cumference.",
+      "char_range": [
+        2323,
+        2390
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "章末并入 Pirates! 小节（标题重复两次），笑话从年代梗改成海盗口音的字母/同音梗",
+      "quote": "What’s actually a pirate’s favourite letter? ‘P’: without it, a pirate’s irate!",
+      "char_range": [
+        2805,
+        2884
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Roman five beers / Emperor Constant-teen",
+      "relation": "两条都把数字当笑点：一条把两指读成五杯，一条把 constantine 拆出 teen，靠数字与词的错位",
+      "quote": "What ancient Roman leader never turned twenty? Emperor Constant-teen."
+    },
+    {
+      "pair": "Alexander sleevies / Sir Cumference",
+      "relation": "都靠把专名硬拗成谐音：armies 藏进 sleeves，圆桌骑士变成圆周，机制是“先有谐音再补故事”",
+      "quote": "Who was the roundest knight at King Arthur’s table? Sir Cumference."
+    },
+    {
+      "pair": "历史年代段 / Pirates! 小节",
+      "relation": "并入的海盗小节不再按年代排列，笑点全在海盗口音的同音词（buck an ear、irate），与前面历史梗的机制不同",
+      "quote": "What do pirates charge for piercings? A buck an ear."
+    },
+    {
+      "pair": "archaeologist broke / archaeologist ruins",
+      "relation": "同一条“考古学家事业成废墟”的笑话在本章出现两次，一次作问句一次作定义，是全章唯一重复的梗",
+      "quote": "What is an archaeologist? Someone whose career is in ruins."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "71,000,004 years and six months",
+      "meaning": "博物馆守卫报出的恐龙骨龄，精确到月，由“入职时七千万年”加“四年半”凑出",
+      "quote": "the guard replies, ‘It’s 71,000,004 years and six months.’"
+    },
+    {
+      "value": "71 million years old / four and a half years ago",
+      "meaning": "守卫算法的两个加数：骨头入职时七千万岁，他本人在此工作了四年半",
+      "quote": "They were 71 million years old when I started working here, and that was four and a half years ago."
+    },
+    {
+      "value": "3,000-year-old",
+      "meaning": "一则古希腊油渍笑话把年代具体到三千年，用“古”本身当笑点",
+      "quote": "I saw a 3,000-year-old oil stain. It was from Ancient Greece."
+    },
+    {
+      "value": "seventy-ninth birthday",
+      "meaning": "海盗笑话里的年龄：七十九岁生日一年后，他说 Aye, matey（谐音 eighty）",
+      "quote": "What did the pirate say a year after his seventy-ninth birthday? ‘Aye, matey!’"
+    }
+  ]
+}
