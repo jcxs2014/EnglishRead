@@ -23,7 +23,7 @@ modified: "2026-11-01"
 > **原句 2:** "I’m just afraid if I stop talking, I’ll start crying, and then what will you think of me? Will you think I’m weak for crying over my friend, or a coward for crying about what’s going to happen to me? Well, either way, I’m not having it, so you’ll just have to listen to me blather."
 
 **中文理解**：「我就是怕一停下来就要哭——那你又会怎么看我？为朋友哭，你觉得我弱；为将死的我自己哭，你觉得我怂？好，哪种我都不要，所以你就得听我贫嘴。」
-**关键词**：if I stop talking / weak for crying over my friend / a coward for crying about what’s going to happen / listen to me blather
+**关键词**：if I stop talking / weak for crying over my friend / a coward for crying / listen to me blather
 **为什么这样写**：防哭机制被拆成两份问卷——他把自己的眼泪预审了两遍（弱/怂），然后用「贫嘴许可证」锁死出口；对话的对象是一只不说话的猫，这场独白的诚实全靠对方不会回答。
 **读者视角提示**：记住「两种哭的分类学」——它跟「骨头/肠子」（ch36）同属一门课程：情绪在他这里是分科目管理的。
 
