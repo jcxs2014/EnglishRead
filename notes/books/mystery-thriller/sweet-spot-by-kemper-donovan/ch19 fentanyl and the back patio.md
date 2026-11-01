@@ -43,7 +43,7 @@ modified: "2026-11-01"
 **为什么这样写**：查案查到指甲上，本来是最冷的一步——指缝里能看出什么，关系到这案子往哪个方向走。她却从取证滑到审美，再滑到一点说不出口的欣慰。这几句里没有一处提到同情，可那个「奇怪吗」已经把同情交出来了。替人写传记的人，对陌生人的生平有一种职业性的怜惜，这里露了一次。
 **读者视角提示**：注意 released 这个词：它提醒你这个人几天前才从监狱出来，而这副指甲是她出来后做的头一件事。她替一具尸体的体面操心，说明对方在她眼里已经是一个人，不是一个案子。
 
-> **原句 5:** "“No phone,” Kay replied with a regretful shake of her head. “But now that I know—thanks to you!—where she was staying for the night, I’ll have someone head over to La Dorada to check out her room.”"
+> **原句 5:** "“No phone,” Kay replied with a regretful shake of her head. “But now that I know—thanks to you!—where she was staying for the night, I’ll have someone head over to La Dorada to check out her room."
 
 **中文理解**：手机不见了。Kay 摇头，语气里带着惋惜；但她随即把这条坏消息翻了个面：既然知道死者昨夜落脚在 La Dorada，就派人去那间房里搜。她还特意把功劳记在叙述者头上，一句「thanks to you」插在破折号中间。
 **关键词**：No phone / La Dorada / check out her room / regretful shake of her head
