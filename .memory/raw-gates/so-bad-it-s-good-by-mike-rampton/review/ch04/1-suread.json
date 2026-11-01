@@ -1,0 +1,127 @@
+{
+  "chapter": "ch04",
+  "text_file": "text/ch04_refreshingly_terrible_walks_into_a_bar_jokes.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者把整章编成清一色的「走进酒吧」笑话，每条只换角色与一句话机关，如白蚁问「这里有酒保吗」",
+      "quote": "A termite walks into a bar and says, ‘Is the bar tender here?’",
+      "char_range": [
+        4550,
+        4612
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者用北极熊的停顿作双关（pause／paws），由酒保一句追问点破",
+      "quote": "The barman says, ‘Why the big pause?’ The polar bear says, ‘I’m a polar bear.’",
+      "char_range": [
+        189,
+        267
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者把酒保写成固定捧哏，先示好再被顾客用酒价反将一军",
+      "quote": "‘You know, we don’t get many gorillas in here.’ The gorilla says, ‘At nine quid a pint I’m not surprised.’",
+      "char_range": [
+        550,
+        656
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者用同一条「走进酒吧」句式连缀互不相关的角色，如只会点酒与拖把的骷髅",
+      "quote": "A skeleton walks into a bar and says, ‘I’ll have a pint of lager and a mop.’",
+      "char_range": [
+        273,
+        349
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者让酒保以「本店不供应」为由拒绝非人顾客，靠字面义与引申义错位出包袱",
+      "quote": "A ghost walks into a bar. The barman says, ‘Sorry, we don’t serve spirits.’",
+      "char_range": [
+        1281,
+        1356
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者把马的笑话写两次，第二次让马把招呼语‘Hey’听成干草（hay）",
+      "quote": "A horse walks into a bar. The barman says, ‘Hey.’ The horse says, ‘No thanks, a pint of lager please.’",
+      "char_range": [
+        5765,
+        5867
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者以时态双关收束全章：过去、现在、未来同处一室，所以‘气氛紧张’",
+      "quote": "Past, present and future walked into a bar. It was tense.",
+      "char_range": [
+        5976,
+        6033
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "作者 / 读者",
+      "relation": "作者全程不出面解说，把笑料按序摆出，双关（stool 兼指凳子与粪便）留给读者自己补出",
+      "quote": "A dung beetle walks into a bar and says, ‘Is this stool taken?’",
+      "char_range": [
+        1361,
+        1424
+      ]
+    },
+    {
+      "pair": "酒保 / 顾客（北极熊）",
+      "relation": "酒保以一句追问充当捧哏，把顾客的停顿从口吃转成身体特征",
+      "quote": "The barman says, ‘Why the big pause?’",
+      "char_range": [
+        189,
+        226
+      ]
+    },
+    {
+      "pair": "酒保 / 顾客（大猩猩）",
+      "relation": "酒保先报价再搭话，顾客用同一价格反过来解释‘本店为何少见大猩猩’",
+      "quote": "‘Sure,’ says the barman, pouring the pint. ‘Nine quid.’",
+      "char_range": [
+        417,
+        472
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "Nine quid",
+      "meaning": "大猩猩那杯拉格的标价，也是它吐槽‘难怪这儿没大猩猩’的理由",
+      "quote": "The gorilla says, ‘At nine quid a pint I’m not surprised.’",
+      "char_range": [
+        598,
+        656
+      ]
+    },
+    {
+      "value": "20p",
+      "meaning": "醉汉连灌四杯双份威士忌后给出的理由：他身上只剩 20 便士",
+      "quote": "The man downs his fourth double whisky and says, ‘20p.’",
+      "char_range": [
+        2298,
+        2353
+      ]
+    },
+    {
+      "value": "Three",
+      "meaning": "三个阴谋论者一起走进酒吧，这句陈述本身就是‘不可能是巧合’的笑点",
+      "quote": "Three conspiracy theorists walk into a bar. There’s no way that’s a coincidence.",
+      "char_range": [
+        1429,
+        1509
+      ]
+    }
+  ]
+}

@@ -10,7 +10,7 @@ modified: "2026-11-01"
 - **出处**：*So Bad It's Good: The Art of the Terrible Joke*，Mike Rampton 著，Pavilion（HarperCollins 旗下）2026 年出版
 - **作者**：Mike Rampton；本章按题材收食物类笑话，末尾另附一小节 "Cheese jokes"
 - **章节定位**：正文第 5 篇，与 ch05 的动物章并列；区别是食物名在英语里更像"半成品双关"——它天然带着做法、形状、产地与品牌等可被误读的属性
-- **字符数**：约 3,219（提取件 `text/ch06_deliciously_terrible_food_jokes.txt`），正文 31 条，Cheese jokes 小节 6 条（其中一条是长对话）
+- **字符数**：约 3,219（提取件 `text/ch06_deliciously_terrible_food_jokes.txt`），正文 30 条，Cheese jokes 小节 6 条（共 36 条）（其中一条是长对话）
 - **一句话主旨**：食物笑话几乎全靠"把烹饪词汇当成生活词汇"：shellfish 听成 selfish，impasta 听成 impostor，a wrap 听成收工。
 - **结构**：纯目录体；最后以 "Cheese jokes" 作二级小节，专收奶酪系列，末尾一条把"闲聊"（shooting the breeze）与"射箭"接在一起
 
@@ -193,4 +193,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-食物笑话的原料不是食物而是词：把 choo 换成 chew，把 shellfish 听成 selfish，把 impostor 的尾巴接上 pasta，把收工的 wrap 当成卷饼——本章三十七条几乎全在词与词的接缝处做手术，而两根香肠那条则承认：这一切都发生在一个香肠会说话的世界上。
+食物笑话的原料不是食物而是词：把 choo 换成 chew，把 shellfish 听成 selfish，把 impostor 的尾巴接上 pasta，把收工的 wrap 当成卷饼——本章三十六条几乎全在词与词的接缝处做手术，而两根香肠那条则承认：这一切都发生在一个香肠会说话的世界上。

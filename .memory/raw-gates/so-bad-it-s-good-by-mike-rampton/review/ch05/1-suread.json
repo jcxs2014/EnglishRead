@@ -1,0 +1,127 @@
+{
+  "chapter": "ch05",
+  "text_file": "text/ch05_animal_jokes_so_bad_they_re_beastly.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者把整章编成动物笑话集，从家畜、宠物到野生动物都收，如宠物店买一打蜜蜂",
+      "quote": "I went into a pet shop and asked for a dozen bees.",
+      "char_range": [
+        1573,
+        1623
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者开篇即用谐音误解：把‘一个名字’听成母牛的名字 Annabel",
+      "quote": "‘We need a name for this cow.’ ‘Annabel?’ ‘No, just a name.’",
+      "char_range": [
+        86,
+        146
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者大量使用「What do you call…?」命名式问句来承载谐音造词（labracadabrador）",
+      "quote": "What do you call a magic dog? A labracadabrador.",
+      "char_range": [
+        597,
+        645
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者用拼写层面的机关：翼龙（pterodactyl）的 P 不发音，所以听不见它上厕所",
+      "quote": "Why can’t you hear a pterodactyl go to the bathroom? Because the ‘P’ is silent.",
+      "char_range": [
+        650,
+        729
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者先长段铺陈求职场景，再用职业错位翻包袱：会说话的狗其实是建筑师",
+      "quote": "‘The circus?’ says the dog, ‘What would the circus want with an architect?’",
+      "char_range": [
+        2364,
+        2439
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者把惯用语字面化当机制：spotted 既指‘有斑点’也指‘被看见’",
+      "quote": "Why are leopards so bad at hide and seek? They’re always spotted.",
+      "char_range": [
+        1892,
+        1957
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者以体重双关收尾：肥胖的鹦鹉死了，作者说‘肩上轻了不少’",
+      "quote": "I was sad when my obese parrot died, but it was a huge weight off my shoulders.",
+      "char_range": [
+        3438,
+        3517
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "作者 / 读者",
+      "relation": "作者不解释谐音，直接抛问句，让读者在答案处自己撞上双关（fsh＝fish 去掉 i）",
+      "quote": "What do you call a fish with no eyes? A fsh.",
+      "char_range": [
+        1461,
+        1505
+      ]
+    },
+    {
+      "pair": "宠物店主 / 顾客",
+      "relation": "顾客当场指出多了一只，店主把多出的那只改口称作‘赠品’",
+      "quote": "‘That’s one too many!’ I said. The shopkeeper said, ‘It’s a freebie.’",
+      "char_range": [
+        1687,
+        1756
+      ]
+    },
+    {
+      "pair": "职业咨询师 / 求职的狗",
+      "relation": "咨询师只听见‘会说话的狗’，立刻想到马戏团，忽略狗自述的专业身份",
+      "quote": "‘Wow!’ says the careers guidance counsellor. ‘A talking dog! You could get a job with the circus!’",
+      "char_range": [
+        2265,
+        2363
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "13 bees",
+      "meaning": "店主数出 13 只蜜蜂，比顾客要的一打多一只，多出的被称作 freebie",
+      "quote": "The shopkeeper carefully counted out 13 bees onto the counter.",
+      "char_range": [
+        1624,
+        1686
+      ]
+    },
+    {
+      "value": "ten tickles",
+      "meaning": "章鱼本有八腕，作者写成‘十次挠痒’，靠 ten-tickles／tentacles 谐音",
+      "quote": "How do you make an octopus laugh? With ten tickles.",
+      "char_range": [
+        3013,
+        3064
+      ]
+    },
+    {
+      "value": "three legs",
+      "meaning": "挤奶凳只有三条腿，因为牛自己提供了 udder（乳房，谐音 other）",
+      "quote": "Why do milking stools have three legs? The cow has the udder.",
+      "char_range": [
+        1962,
+        2023
+      ]
+    }
+  ]
+}

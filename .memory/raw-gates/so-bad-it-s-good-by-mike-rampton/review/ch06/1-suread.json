@@ -1,0 +1,136 @@
+{
+  "chapter": "ch06",
+  "text_file": "text/ch06_deliciously_terrible_food_jokes.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者把整章编成食物笑话集，从正餐、零食到饮料都要挨一句双关，如冰淇淋厂那条",
+      "quote": "I got sacked from my job at the ice cream factory for refusing to work on sundaes.",
+      "char_range": [
+        1655,
+        1737
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者用 spill the beans（说漏嘴／撒豆子）开场，让亨氏工厂被解雇的原因始终悬着",
+      "quote": "‘I’m not going to tell you what I did to get sacked from the Heinz factory.’ ‘Spill the beans?’ ‘I’ve already said, I’m not going to tell you.’",
+      "char_range": [
+        149,
+        292
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者把宗教套话叠到热狗点单上：make me one with everything 既是‘全料’也是‘与万物合一’",
+      "quote": "What did the Buddhist say to the hot dog seller? ‘Make me one with everything.’",
+      "char_range": [
+        353,
+        432
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者在食物笑话之后另开奶酪小节，用 debris／de camembert 的谐音作该节开场",
+      "quote": "‘Debris everywhere?’ ‘Yes, and de camembert’s scattered around too.’",
+      "char_range": [
+        2735,
+        2803
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者反复用「What do you call…?」造词式问句（impasta 即 impostor／pasta）",
+      "quote": "What do you call a fake noodle? An impasta.",
+      "char_range": [
+        751,
+        794
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者用两件食物对话的形式，让‘会说话’本身取代谐音成为反转",
+      "quote": "Two sausages are sizzling in a pan. One says, ‘Wow, it’s hot in here!’ The other says, ‘WHOA! A TALKING SAUSAGE!’",
+      "char_range": [
+        2131,
+        2244
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者把沙漠不缺食物解释成‘到处都是三明治’，靠 sandwich 的字面‘沙’义",
+      "quote": "Why do people never go hungry in the desert? Because of all the sandwiches there.",
+      "char_range": [
+        1186,
+        1267
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "作者以奶酪小节收尾，用 shooting the breeze／cheddar 双关结束全章",
+      "quote": "‘Shooting the breeze?’ ‘Yes, and firing arrows at the cheddar.’",
+      "char_range": [
+        3155,
+        3218
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "作者 / 读者",
+      "relation": "作者把双关藏在答句里，读者须自己完成谐音还原（chew-chew／choo-choo）",
+      "quote": "What do you call a train filled with bubblegum? A chew-chew train.",
+      "char_range": [
+        78,
+        144
+      ]
+    },
+    {
+      "pair": "朋友 / 叙述者",
+      "relation": "朋友提出‘苹果是黄色且弯的’这一荒谬前提，叙述者用水果名回敬其荒唐",
+      "quote": "My friend told me apples are yellow and bendy. I said, ‘That’s bananas!’",
+      "char_range": [
+        1961,
+        2033
+      ]
+    },
+    {
+      "pair": "一只盘子 / 另一只盘子",
+      "relation": "一只盘子用 on me 请客，既指‘我付账’也指‘菜在我身上’",
+      "quote": "What did one plate say to the other? ‘Dinner is on me!’",
+      "char_range": [
+        1901,
+        1956
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "four-wheel-drive",
+      "meaning": "四驱车被说成能碾过 pâté 状物，靠 all-terrine／all-terrain 谐音",
+      "quote": "I’ve got a four-wheel-drive car that can easily cross coarse, pâté-like substances. It’s an all-terrine vehicle.",
+      "char_range": [
+        939,
+        1051
+      ]
+    },
+    {
+      "value": "half a worm",
+      "meaning": "比咬到整条虫更糟的是咬到半条，答案把‘更糟’落到剩余部分",
+      "quote": "What’s worse than biting into an apple and finding a worm? Biting into an apple and finding half a worm.",
+      "char_range": [
+        2373,
+        2477
+      ]
+    },
+    {
+      "value": "one monkey",
+      "meaning": "作者称人吃的香蕉比猴子多，因为大多数人连一只猴子都没吃过",
+      "quote": "It sounds unbelievable, but people eat more bananas than monkeys. It’s true, most people never even eat one monkey.",
+      "char_range": [
+        2482,
+        2597
+      ]
+    }
+  ]
+}

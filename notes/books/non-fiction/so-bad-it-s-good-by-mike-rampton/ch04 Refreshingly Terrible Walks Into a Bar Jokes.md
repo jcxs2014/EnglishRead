@@ -102,7 +102,7 @@ modified: "2026-11-01"
 
 > **原句 6:** "A man and a giraffe walk into a bar. After a few drinks, the giraffe falls over and dies. The man gets up and leaves. ‘Hey, you can’t leave that lying there!’ yells the bartender. The man turns around and says, ‘It’s not a lion. It’s a giraffe.’"
 
-**中文理解**：一个人和一头长颈鹿走进酒吧，喝了几杯后长颈鹿倒地死了，那人起身要走；酒保喊"你不能把那东西就那么扔在这儿"，那人回头说："那不是狮子，是长颈鹿。"
+**中文理解**：一个人和一头长颈鹿走进酒吧，喝了几杯后长颈鹿倒地死了，那人起身就走；酒保喊"你不能把那东西就那么 lying（躺着）扔在这儿"——lying 听上去就是 lion（狮子）——那人回头纠正："那不是狮子，是长颈鹿。"
 
 **句子结构**：五句叙事，前四句按时间推进，最后一句用否定—更正结构（It's not X, it's Y）收尾；yells 与 says 两个动词把双方情绪分开。
 
