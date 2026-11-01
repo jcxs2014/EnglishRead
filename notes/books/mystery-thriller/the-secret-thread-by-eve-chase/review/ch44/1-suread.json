@@ -1,0 +1,171 @@
+{
+  "chapter": "ch44",
+  "text_file": "text/ch44_chapter_44.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "牧羊犬 Dolly 蜷在 Granny 身边替她保暖御寒，听到 Jo 的车声后从狗门跑回屋内；Jo 随后打电话请有钥匙的邻居赶来喂狗、安抚这条立功的狗。",
+      "anchor": "curled against Granny’s body to keep her from freezing",
+      "byte_offset": 403,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Jo 与急救员拼时间线，推断 Granny 摔倒时正要去前门拿快递：四点刚过送达，包裹仍留在门廊——『拍卖图录差点要了 Granny 的命』。",
+      "anchor": "a delivery arrived shortly after four, and the package was still in the porch",
+      "byte_offset": 1847,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "救护车驶往有 ICU 的大医院，Granny 半昏迷、心电监护慢而不均；先嘶声说『Cold …』，随后低声呢喃『Mim … snow.』。",
+      "anchor": "in a faint, halting voice, she murmurs, ‘Mim … snow.’",
+      "byte_offset": 2578,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "五天后，Granny 在 ICU 留观、心脏一度令人担忧之后转入 Ward Six，日渐好转；护士说再晚一点发现她很可能已冻死。",
+      "anchor": "Much longer outside and she’d likely have succumbed to the cold",
+      "byte_offset": 2948,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "一位太热心的邻居进屋遛 Dolly 时，把厨房桌上的校样连同信件杂志一起送到 Granny 床边——Jo 原打算等 Granny 出院再谈的坦白时刻提前到来。",
+      "anchor": "picked up the proof along with a wodge of mail and magazines from the kitchen table",
+      "byte_offset": 5802,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Jo 坦白自己参与写书、在为 Miriam 工作；Granny 从难以置信垮塌成赤裸的被背叛感，恸哭到 Jo 从未见过的地步，说自己做了一切去阻止（『I even went to the auction house.』），并吼『Go back to her – just go』。",
+      "anchor": "until disbelief collapses into naked betrayal and she covers her mouth with her hand",
+      "byte_offset": 7060,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Granny 命令 Jo 朗读校样（『Jo, read.』），读到 Mimi 数月前写给 Leni 的信（信中自称『your mother’s sister』、邀她去纽约 Carlyle 或八月去 Nantucket Sconset）；Granny 没有否认本想把雪地里那封 Mimi 回信烧进篝火。",
+      "anchor": "I am indeed your mother’s sister",
+      "byte_offset": 8599,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Granny 承认 Jo 的父母当年可能为了看一眼 Rushwood 而改道（Tony 说漏过宅子的事，Leni 起了好奇；否则他们不会进入拖拉机的路径，并提到『The Caswells』）；朗读进行到 Alf 试图说『Lawrence』时，Granny 抓住 Jo 的手要讲『真正原因』，却被逼近的茶水车和有人喊 Jo 的名字打断。",
+      "anchor": "I think they may have changed their route to have a peek at Rushwood, yes",
+      "byte_offset": 11963,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Jo – Granny（Pamela）",
+      "rel": "祖孙；Jo 陪护并最终坦白自己受雇于 Miriam 写书"
+    },
+    {
+      "pair": "Pamela – Mimi（Miriam）",
+      "rel": "姐妹；Pamela 隐藏这位姐妹的存在多年，Mimi 求探望被 Jo 以『太具爆炸性、Granny 还太脆弱』劝阻"
+    },
+    {
+      "pair": "Mimi – Leni",
+      "rel": "姨母—外甥女：Mimi 信中自述『I am indeed your mother’s sister』，即 Leni 母亲的姐妹"
+    },
+    {
+      "pair": "Leni – Pamela",
+      "rel": "母女；同住苗圃 onsite 同一屋，故 Granny 能截下 Mimi 写给 Leni 的信"
+    },
+    {
+      "pair": "Leni – Jo",
+      "rel": "母女；Jo 说『I know Mum wrote to Mimi in New York』，Leni 与 Jo 父死于拖拉机路径上的车祸"
+    },
+    {
+      "pair": "Jo – Woody",
+      "rel": "『almost-a-thing』的暧昧对象；Jo 以公事化的礼貌回绝 preview night"
+    },
+    {
+      "pair": "Jo – Scott",
+      "rel": "Jo 转租的租客提前返回，Scott 却当起英雄帮她拆 Billy 书架、装箱暂存自己房间"
+    },
+    {
+      "pair": "Pamela – Dolly",
+      "rel": "主人与立功牧羊犬；Dolly 蜷身为主人保暖救了她一命"
+    }
+  ],
+  "numbers_dates": [
+    {
+      "quote": "shortly after four",
+      "context": "快递送达时间（推断 Granny 摔倒时间线）",
+      "byte_offset": 1866,
+      "hits": 1
+    },
+    {
+      "quote": "Five days later",
+      "context": "摔倒到病房朗读场景的时间跨度",
+      "byte_offset": 2640,
+      "hits": 1
+    },
+    {
+      "quote": "Ward Six",
+      "context": "Granny 转入的病房；全章出现两次",
+      "byte_offset": 3123,
+      "hits": 2
+    },
+    {
+      "quote": "One hundred per cent",
+      "context": "Jo 确定不去 Woody 的 preview night",
+      "byte_offset": 4598,
+      "hits": 1
+    },
+    {
+      "quote": "a month ago",
+      "context": "Jo 自认面对这场对话比一个月前毫无更充分的准备",
+      "byte_offset": 6310,
+      "hits": 1
+    },
+    {
+      "quote": "a few months before Jo’s parents’ accident",
+      "context": "Mimi 写信给 Leni 的时间",
+      "byte_offset": 8379,
+      "hits": 1
+    },
+    {
+      "quote": "Dearest Leni,",
+      "context": "Mimi 信件开头（收信人 Leni）",
+      "byte_offset": 8583,
+      "hits": 1
+    },
+    {
+      "quote": "the Carlyle right now",
+      "context": "Mimi 夫妇现居纽约 Carlyle 饭店，可订同楼酒店房",
+      "byte_offset": 8806,
+      "hits": 1
+    },
+    {
+      "quote": "Sconset, Nantucket in August",
+      "context": "Mimi 邀 Leni 八月去楠塔基特 Sconset 小住",
+      "byte_offset": 8917,
+      "hits": 1
+    },
+    {
+      "quote": "An hour later",
+      "context": "Jo 朗读一小时后嗓音沙哑，全病房病人围观点评",
+      "byte_offset": 10172,
+      "hits": 1
+    },
+    {
+      "quote": "the eighties",
+      "context": "病友回忆自己八十年代的卧室墙纸",
+      "byte_offset": 10426,
+      "hits": 1
+    },
+    {
+      "quote": "Now the real reason Alf was saying",
+      "context": "Granny 被打断的半句话（本章结尾悬念）",
+      "byte_offset": 14549,
+      "hits": 1
+    }
+  ],
+  "turning_point": "太热心的邻居把校样提前送到 Granny 床边，逼出 Jo 的坦白——她在为 Miriam 写书；藏了几十年的家族秘密就此破口，Granny 从驱逐转为命令 Jo 把书读下去，直至 Alf 那句被茶水车打断的『真正原因』。"
+}

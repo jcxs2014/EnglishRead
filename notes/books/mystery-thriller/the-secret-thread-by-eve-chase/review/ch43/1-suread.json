@@ -1,0 +1,158 @@
+{
+  "chapter": "ch43",
+  "text_file": "text/ch43_chapter_43.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Jo凌晨开着叔叔那辆锈废雷诺向东行驶，出伦敦后轮胎在未撒盐的结冰小路上打滑；奶奶仍无音讯、电话无人接。",
+      "anchor": "as Jo drives east, through the early-morning dark in her uncle’s rust-bucket Renault",
+      "byte_offset": 62,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "昨晚奶奶未接电话，Jo焦灼后决定先给奶奶空间（她生气时会夜里去园艺、次日早晨才故作轻快地回消息）；凌晨四点醒来不安加剧，再拨直接转语音信箱，遂起身穿衣出发，此时天色开始放亮。",
+      "anchor": "But when Jo woke at four, disquiet set in, sharpening as the minutes ticked past. She tried again.",
+      "byte_offset": 724,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Jo在服务区停留（咖啡、洗手间、给奶奶买了她最爱的姜汁软饼），过服务区几英里、村外拐进通往奶奶家的小巷；屋里有灯亮着——「她起来了」。",
+      "anchor": "A few miles after the services – coffee, toilet, Granny’s favourite stem-ginger biscuits from the farm shop",
+      "byte_offset": 942,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "门廊下Jo发现塞在车尾架下的包裹——上有熟悉的专横笔迹手写标签「Deliveries HERE if no answer! Thank you!」；拿起看到寄件人标签先是一阵释然（「Granny还没看到——她来得及！」），随即生疑：快递昨天下午已确认发货，为何奶奶还没见到？",
+      "anchor": "a parcel tucked under the boot rack, hand-labelled in a familiar bossy cursive",
+      "byte_offset": 1597,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Jo按门铃，屋内Dolly疯狂吠叫；她抓起陶盆下藏得蹩脚的备用钥匙自己开门进屋，Dolly扑跳、躁动不安，毛是湿的。",
+      "anchor": "Grabbing the spare key, badly hidden under a terracotta pot, she lets herself in.",
+      "byte_offset": 2019,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "厨房灯亮着但没有新煮咖啡或早饭的迹象；Jo发现Dolly的水碗已干，把包裹放到桌上一摞园艺杂志上，添满狗碗喊「Granny, it's me!」——回应她的只有浓重的寂静。",
+      "anchor": "refills the dog bowl and shouts, ‘Granny, it’s me!’ A thick silence beats back.",
+      "byte_offset": 2409,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Dolly从狗门钻出去又叫又哼；Jo打开（没锁的）后门走进冰冻的空气，闻到淡淡的篝火味；Dolly用鼻子顶她膝弯，把她往花园里赶，经过园艺棚朝菜园（potager）去。",
+      "anchor": "Dolly noses the back of her knee, herding her into the garden, past the potting shed, towards the potager.",
+      "byte_offset": 2678,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "堆肥堆旁——小路上一条被雪盖住的腿、一截扭弯的铁丝网、摔碎的手机、散落的报纸杂志页与信件（薄薄的蓝色航空信纸）、还有那只酥饼铁罐；Jo惊叫出声，摸奶奶的脸：灰色、皮肤异样坚实、嘴唇青紫，下巴有伤口、血干在眉毛与睫毛里——她在这里有一阵子了；想抱起奶奶但太重，便把奶奶的头抱在膝上拨打999。",
+      "anchor": "near the compost heap … a snow-covered leg on the path, a twist of chicken wire, a shattered phone",
+      "byte_offset": 2807,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "entities": ["Jo", "Granny"],
+      "relation": "Granny是Jo的祖母/外婆（her grandmother）：Jo赶往her grandmother's house，最终抱着her grandmother's head拨打999。",
+      "anchor": "towards her grandmother’s house",
+      "byte_offset": 1116,
+      "hits": 1
+    },
+    {
+      "entities": ["Jo", "uncle"],
+      "relation": "她开的车是Jo叔叔/舅舅的（her uncle's）锈废雷诺。",
+      "anchor": "her uncle’s rust-bucket Renault",
+      "byte_offset": 115,
+      "hits": 1
+    },
+    {
+      "entities": ["Jo", "Mimi"],
+      "relation": "近几周Jo沉浸在Mimi的奢华世界里（她自觉在Chelsea待得太久），并因此对奶奶心生愧疚。",
+      "anchor": "she’s been so wrapped up in Mimi’s luxurious world these last few weeks",
+      "byte_offset": 1385,
+      "hits": 1
+    },
+    {
+      "entities": ["Dolly", "Granny"],
+      "relation": "Dolly是奶奶家的狗（屋内有狗门与狗碗，Jo唤它Dolls）；奶奶失联时它独自在屋内躁动、毛湿、水碗已干。",
+      "anchor": "Dolly pushes her way through the dog flap and starts barking, then whining.",
+      "byte_offset": 2497,
+      "hits": 1
+    },
+    {
+      "entities": ["Granny", "old family house"],
+      "relation": "奶奶住的老宅是「old family house」：破败凄凉、窗框朽坏，车道上的古旧VW几乎不能上路。",
+      "anchor": "the old family house looks bleak, the window frames rotten, the ancient VW in the drive barely roadworthy",
+      "byte_offset": 1240,
+      "hits": 1
+    },
+    {
+      "entities": ["parcel label", "Granny"],
+      "relation": "（推断）门廊包裹上的收件指引以Jo熟悉的专横笔迹手写，语境指向Granny所写（「Deliveries HERE if no answer!」）。",
+      "anchor": "‘Deliveries HERE if no answer! Thank you!’",
+      "byte_offset": 1677,
+      "hits": 1
+    },
+    {
+      "entities": ["parcel", "Jo"],
+      "relation": "（推断）包裹与Jo相熟：她一见寄件人标签便释然「Granny还没看到——她来得及」，且她知道快递昨天下午已确认发货——疑似Jo寄给奶奶的包裹；正因奶奶迟迟未取件才令她起疑。",
+      "anchor": "sees the sender label, and feels a rush of relief. Granny’s not seen it yet – she’s in time!",
+      "byte_offset": 1754,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "value": "43",
+      "note": "章首编号（Chapter 43）。",
+      "anchor": "43",
+      "byte_offset": 11,
+      "hits": 1
+    },
+    {
+      "value": "four",
+      "note": "Jo凌晨四点醒来（woke at four），不安由此加剧。",
+      "anchor": "But when Jo woke at four",
+      "byte_offset": 724,
+      "hits": 1
+    },
+    {
+      "value": "Yesterday evening",
+      "note": "昨晚奶奶未接电话——Jo担忧的起点。",
+      "anchor": "Yesterday evening, when she hadn’t answered",
+      "byte_offset": 383,
+      "hits": 1
+    },
+    {
+      "value": "yesterday afternoon",
+      "note": "快递确认发货的时间（昨日午后），与奶奶未取件构成疑点。",
+      "anchor": "the courier confirmed dispatch yesterday afternoon",
+      "byte_offset": 1870,
+      "hits": 1
+    },
+    {
+      "value": "the last few hours",
+      "note": "Jo数小时来积累的焦虑（the last few hours）。",
+      "anchor": "The anxiety of the last few hours knots in her belly",
+      "byte_offset": 276,
+      "hits": 1
+    },
+    {
+      "value": "999",
+      "note": "章末Jo为奶奶拨打的英国急救电话。",
+      "anchor": "dials 999",
+      "byte_offset": 3448,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Jo循着Dolly走进花园，在堆肥堆旁发现倒在雪地里、灰脸紫唇带伤的奶奶——最坏的担忧成真，她抱不动奶奶，只能抱其头于膝上拨打999。"
+}

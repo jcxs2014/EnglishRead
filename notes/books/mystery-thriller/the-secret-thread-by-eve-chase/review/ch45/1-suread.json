@@ -1,0 +1,137 @@
+{
+  "chapter": "ch45",
+  "text_file": "text/ch45_chapter_45.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Pamela 意识到药物松动了她的舌头、把沉底的事带出了水面；她必须撑住神智，不能承认自己其实不信「Alf 坠落前想指认归罪之人」——那是她先让 Pa 信、直到硬化成事实、连她自己都几乎信了的版本。",
+      "anchor": "The meds must have loosened her tongue, Pamela realizes, brought things to the surface.",
+      "byte_offset": 98,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "与 Miriam 不同，Pamela 亲眼目睹 Alf 坠落前关键一秒：他像幼儿般突然失衡、眨眼间绊倒，原地只剩烟火点点的夜空；她认定 Lawrence 没有推 Alf、却把烂醉的他诱到边缘，因此仍把他算作有罪「……还有别的事」。",
+      "anchor": "Lawrence didn’t push Alf but he did lure him, completely plastered, to the edge",
+      "byte_offset": 681,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "为防自己再乱插话，Pamela 装出极度疲惫、倒回枕头闭眼——结果假寐成了真昏睡；昏睡中听见压低的关切人声与一声猪鼾（可能是自己的），人飘过历年记忆：Rushwood、金翅雀/啄木鸟/仓鸮、手绘地图、Miriam 的速写本、Pa 的断指、Ma 的眼睛、Alf（她缺失的那部分）、Miriam（童年最后的活见证）。",
+      "anchor": "a show of crushing exhaustion and flops back onto the pillows, eyes shut. Only to find the conk-out is real.",
+      "byte_offset": 944,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Pamela 多年处于心理战备（预备难题信件、电话、对峙、探访，圣诞因缺席者而心痛），却没料到这一手：以 Miriam 的视角重看她们的 Rushwood 之夏，且自己的名字被公开写进 Miriam 令人瞠目的、不像 Bramley 做派的成功里——这记妙招把她搅入 turmoil。",
+      "anchor": "a public insertion of her name into her sister’s eye-watering, un-Bramley-like success.",
+      "byte_offset": 2030,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Pamela 重施她的「蝴蝶效应」理论，第一下振翅是 The Saving：河中获救一幕她记得每一秒（隧道视野、发麻的黑、冷水把她冲往下游、缠住双腿），直到趴在岸上、透过湿睫毛望见这位希腊神像般的救人者（喘息、滴发、苔绿色虹膜、巨大黑瞳）；其后数日反复回放这场「欲望的洗礼」，以致 Mackie 在草地贴上来时她身体已被唤起。",
+      "anchor": "when Mackie pressed against her in the meadow grass, her body was primed, open, slick.",
+      "byte_offset": 3228,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "她终究没圆了白色教堂婚礼梦：挺着孕肚、乳房胀痛走进灰色登记处，自觉像利维坦、微泛恶心、想上厕所；时髦纤细的妹妹（现代 Twiggy 剪裁、颈间心形祖母绿闪着光）在一旁观看，而她满脑烧灼的羞耻念头是「Lawrence 选择了你。而你选择了逃、自由、大概是避孕药。我却困在这生活里——跟一个我爱的好人，但终究被困」。",
+      "anchor": "She’d waddled into that grey register office pregnant, with aching breasts.",
+      "byte_offset": 3380,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "嫉妒再度袭来：Pamela 想到 Jo 与 Miriam 为写下那些拍卖品故事必已共处了许多小时，Jo 提到姨婆名字时嗓音里的暖意像已与她结成同盟；她随即自我清算——Jo 从未提出过要记录祖母的生平？可她自己也没给过：从未讲 Rushwood，还把 Miriam 排除在她们的生活之外。",
+      "anchor": "The warmth in Jo’s voice when she says her great-aunt’s name",
+      "byte_offset": 4192,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "「绕开妹妹的远路反把 Jo 直引到 Miriam 门口」的讽刺如刀绞，让 Pamela 猛然睁眼坐起；Ward Six 少见地安静，窗外雪如杯垫、天色墨黑、时间比她想得晚，托盘上全褐色的乏味餐食没人动，Jo 已走而那本「煽动性册子」还在；她一边扒温吞食物一边如扑火飞蛾般与它对峙，终究一把抓过、翻开、戴上为避开蟾蜍样淤青而戴歪的老花镜，用唯一未肿的眼睛读——心上一处封存的部分打开，心底小声自问「Oh, Pamela Mackie, what have you done?」。",
+      "anchor": "Pamela snatches the thing, cracks it open, slips on her reading glasses",
+      "byte_offset": 5948,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Pamela / Miriam",
+      "relation": "亲姐妹、Rushwood 童年的共同亲历者；Miriam 是「活着的见证」。Pamela 数十年绕道回避妹妹、把 Miriam 排除在她与 Jo 的生活之外，本章却被迫以 Miriam 的视角重看童年。",
+      "evidence": "Miriam: all that’s left, the living witness to their childhood",
+      "byte_offset": 1502,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela / Jo",
+      "relation": "祖母抚养 Jo 长大（历经丧亲与青春期风暴），却从未向 Jo 讲述 Rushwood、也从未提出让 Jo 记录自己的故事。",
+      "evidence": "she’s never offered Jo her story, never told her about Rushwood",
+      "byte_offset": 4610,
+      "hits": 1
+    },
+    {
+      "pair": "Jo / Miriam",
+      "relation": "姨婆与侄孙女：Jo 与 Miriam 已为拍卖品故事共处多时、语气含暖意（似已结盟）；Pamela 的逃避之路反把 Jo 直引到 Miriam 门前。",
+      "evidence": "has led Jo straight to Miriam’s door",
+      "byte_offset": 5087,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela / Mackie",
+      "relation": "河畔 The Saving 的获救记忆引出「欲望的洗礼」，紧接 Mackie 在草地的亲密、随后挺孕在登记处成婚——即她「爱着却自觉被困」的那个好人（文中脉络与章末称谓 Pamela Mackie 相连）。",
+      "evidence": "A baptism of desire. An awakening, that’s what it was.",
+      "byte_offset": 3087,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela / Lawrence",
+      "relation": "Lawrence 选择了妹妹 Miriam（婚礼上 Pamela 的刺痛念头）；Pamela 目击他把烂醉的 Alf 诱到边缘，虽未推仍判其有罪「还有别的事」。",
+      "evidence": "Lawrence didn’t push Alf but he did lure him, completely plastered, to the edge",
+      "byte_offset": 681,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela / Alf",
+      "relation": "Alf 是她「缺失的那部分」（兄弟姐妹），其坠落 Pamela 在场目睹而 Miriam 不在场；「Alf 想指认归罪者」是她让 Pa 信以为真的说法。",
+      "evidence": "Alf: the missing part of her",
+      "byte_offset": 1472,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela / Tony",
+      "relation": "共同抚育 Jo 的同伴：两人都怕 Miriam 与 Lawrence 用金钱、魅力、著名海滨别墅把 Jo 抢走（故给 Jo 稳定、不添波澜）。",
+      "evidence": "she and Tony were terrified of Miriam and Lawrence stealing her away",
+      "byte_offset": 4821,
+      "hits": 1
+    },
+    {
+      "pair": "Miriam+Lawrence / Leni",
+      "relation": "他们当年曾对 Leni 用过同一套抢人手法，Jo 是第二次目标。",
+      "evidence": "Just as they’d once tried with Leni.",
+      "byte_offset": 4953,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "value": "45",
+      "note": "章节编号标题（POV 标记 Pamela 之前）",
+      "anchor": "45",
+      "byte_offset": 11,
+      "hits": 1
+    },
+    {
+      "value": "Ward Six",
+      "note": "Pamela 所在病房（编号 Six）",
+      "anchor": "Ward Six",
+      "byte_offset": 5304,
+      "hits": 1
+    }
+  ],
+  "turning_point": "回避妹妹数十年的 Pamela 在「能忍受不知道吗」的煎熬中终于亲手抓过并翻开 Miriam 的册子——封存的心打开一角，心底自问「Oh, Pamela Mackie, what have you done?」，从对抗转向直面过去。"
+}
