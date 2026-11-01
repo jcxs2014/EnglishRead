@@ -1,0 +1,135 @@
+{
+  "chapter": "ch46",
+  "source": "text/ch46_chapter_forty_six.txt",
+  "char_total": 10206,
+  "events": [
+    {
+      "summary": "The Exalted（Gaheris 的旗舰）抵达，悬停在 Dominion 舷外支架船队上方，炮口已瞄准但尚未放闪电。",
+      "quote": "Now it loomed over the Dominion outriggers, an elliptical colossus of metalglass and black-and-silver sails, its cannons taking aim but not unleashing the lightning. Not yet.",
+      "start": 528,
+      "end": 702
+    },
+    {
+      "summary": "Alaric 在自己舰上一边把 Talasyn 带往下层机库的小艇，一边被焦虑撕扯，要带她去见父亲。",
+      "quote": "On his own stormship, even as Alaric led Talasyn to the skerry down in the hangars that would bring them to his father, razorlike threads of anxiety were slicing through his gut.",
+      "start": 705,
+      "end": 883
+    },
+    {
+      "summary": "Alaric 戴着獠牙半面罩低声告诉 Talasyn：必须把她交给 Gaheris，否则他会摧毁她的舰队。",
+      "quote": "“I have to take you to him,” he muttered to Talasyn from behind the fanged half-mask he’d donned before they left his office. “If I don’t—if he is not humored—he’ll destroy your fleet.”",
+      "start": 1847,
+      "end": 2032
+    },
+    {
+      "summary": "Talasyn 在甲板上对 Alaric 说，她对他的感情从来不是有条件的，否则她根本不会让他吻她。",
+      "quote": "But, Alaric—my feelings for you were never conditional. If they were, I would never have even let you kiss me.”",
+      "start": 5403,
+      "end": 5514
+    },
+    {
+      "summary": "Exalted 的机库门打开、小艇驶入；Talasyn 回望最后的星空，默默向女儿和那个未来道别。",
+      "quote": "She flashed Alaric a tentative smile as the Exalted’s hangar door swung open and the skerry drifted into its mouth.",
+      "start": 6715,
+      "end": 6830
+    },
+    {
+      "summary": "Exalted 的士兵按 Gaheris 命令送来钢制镣铐，Alaric 怒瞪后亲自把镣铐扣在 Talasyn 手腕上并带她下船。",
+      "quote": "The soldier gave him the restraints and he was the one who clapped them around Talasyn’s wrists.",
+      "start": 7604,
+      "end": 7700
+    },
+    {
+      "summary": "Talasyn 昂首穿过 Exalted 的走廊，士兵与工人纷纷让路、下意识抬手敬礼，随即因看到镣铐而僵住。",
+      "quote": "More than a few of the soldiers and workers they encountered looked at her and then moved aside, their hands instinctively shooting up in the beginnings of crisp salutes before freezing as they noticed her restraints.",
+      "start": 8726,
+      "end": 8943
+    },
+    {
+      "summary": "二人进入 Gaheris 的舱室，Talasyn 以“we meet at last, Father-in-Law”向王座上的 Gaheris 开口。",
+      "quote": "it was impossible to doubt for one second that she was Urduja Silim’s granddaughter, “we meet at last, Father-in-Law.”",
+      "start": 10043,
+      "end": 10161
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "夫妻（已疏离；他仍斥她为 wife，她称他 my lord）",
+      "quote": "Gods, but he wanted to grab his wife by the shoulders and give her a good shaking.",
+      "start": 991,
+      "end": 1073
+    },
+    {
+      "a": "Alaric",
+      "b": "Gaheris",
+      "relation": "父子兼君臣（Gaheris 为 Regent，以军令与镣铐相待）",
+      "quote": "“It’s by order of Regent Gaheris, Your Majesty,” the soldier apologetically replied.",
+      "start": 7435,
+      "end": 7519
+    },
+    {
+      "a": "Talasyn",
+      "b": "Gaheris",
+      "relation": "儿媳对公公（初次当面相见）",
+      "quote": "Talasyn snapped at the figure on the throne as she strode confidently into the stateroom",
+      "start": 9901,
+      "end": 9989
+    },
+    {
+      "a": "Talasyn",
+      "b": "（幻象中的）女儿",
+      "relation": "母女（她曾预见这个女儿，此刻噤声不提）",
+      "quote": "I saw your future, she wanted to tell him. It was almost there, on the tip of her tongue. I saw our daughter.",
+      "start": 4451,
+      "end": 4560
+    },
+    {
+      "a": "Talasyn",
+      "b": "Niamha Langsoune",
+      "relation": "效法对象（以其自持姿态行走敌舰）",
+      "quote": "carrying herself the way she imagined Niamha Langsoune would if the daya were in her shoes.",
+      "start": 8134,
+      "end": 8225
+    }
+  ],
+  "numbers": [
+    {
+      "value": "nearly half",
+      "context": "The Exalted 参战两天内歼灭 Sardovia 西线部队近一半",
+      "quote": "kept busy ever since, wiping out nearly half of the Sardovians’ western forces.",
+      "start": 446,
+      "end": 525
+    },
+    {
+      "value": "a couple of days",
+      "context": "The Exalted 两日前才升空，此后一直忙于作战",
+      "quote": "It had taken to the skies a couple of days ago",
+      "start": 390,
+      "end": 436
+    },
+    {
+      "value": "two wars and two ascensions",
+      "context": "Talasyn 说自己历经两场战争、两次登位才说得出这些话",
+      "quote": "it had taken her two wars and two ascensions—and a journey to the edge of the world and back again",
+      "start": 5626,
+      "end": 5724
+    },
+    {
+      "value": "a pair",
+      "context": "士兵捧出的一副钢制镣铐",
+      "quote": "Their leader presented a pair of steel restraints and Talasyn couldn’t help but be a little puzzled when Alaric shot him a withering glare.",
+      "start": 7249,
+      "end": 7388
+    },
+    {
+      "value": "the first time",
+      "context": "她第一次毫无怨气地称他“my lord”",
+      "quote": "It was perhaps the first time she’d addressed him as such with no bite to it.",
+      "start": 4985,
+      "end": 5062
+    }
+  ],
+  "notes": "提取件开头有重复标题「Chapter Forty-Six」两处（第1、12行），正文第72–81行为约10行空白的段落断隔（疑原文分节/提取残留）；第121行「Alaric rather felt as though he’d been beaned over the head」为他视角硬切，非缺字；弯引号 ’ “ ” 与破折号 — 原样保留，全部引文均落在单一自然段内。"
+}

@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：那封信的内容没进来，只留下它造成的后果。读者到这一句才明白，把他逼到这一步的不是战场上的炮，是一封家书。
 
-> **原句 3:** "Alaric stared at her for such a long time that she was left with the oddest impression that he was committing every inch of her face to memory. Before she could dwell on it, he looked away with a certain abruptness that reminded her of gauze being ripped off a wound."
+> **原句 3:** "“I have to take you to him,” he muttered to Talasyn from behind the fanged half-mask he’d donned before they left his office. “If I don’t—if he is not humored—he’ll destroy your fleet.”"
+
+- **中文理解**：「我必须把你带到他那里去，」他隔着离开办公室前戴上的獠牙半面罩对塔拉辛低语。「如果我不带——如果他不被顺着——他会毁掉你的舰队。」
+
+- **关键词**：take you · humored · destroy your fleet
+
+- **为什么这样写**：这句话把「交出妻子」和「保住舰队」摆进同一个条件句：前半是他的义务，后半是父亲的威胁。面罩先出现、话后出现，于是那张獠牙的脸本身成了这句话的语气。
+
+- **读者视角提示**：这是全书唯一一次由他亲口把父亲当作威胁讲给她听。下一段交代了他此刻的感受：他觉得自己不只是被拆开，马哈吉尔憩地之后筑起的最后几道屏障也快崩了。
+
+> **原句 4:** "Alaric stared at her for such a long time that she was left with the oddest impression that he was committing every inch of her face to memory. Before she could dwell on it, he looked away with a certain abruptness that reminded her of gauze being ripped off a wound."
 
 - **中文理解**：阿拉里克盯着她看了很久，久到她生出一种古怪的感觉：他正把她脸上的每一寸都记下来。她还没来得及细想，他就突兀地移开了目光，那一下让她想到纱布从伤口上被撕下来。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「committing … to memory」是她的猜测，不是他的承诺。他移开目光的速度比凝视快得多，这个不对称才是这两句真正的信息。
 
-> **原句 4:** "You asked me once if I found you worthy after you’d acted according to my wishes. I truly apologize for everything I’ve ever done that made you say that. For so long my own self-worth was also tied to what I could offer others, and so I held you to that same standard."
+> **原句 5:** "You asked me once if I found you worthy after you’d acted according to my wishes. I truly apologize for everything I’ve ever done that made you say that. For so long my own self-worth was also tied to what I could offer others, and so I held you to that same standard."
 
 - **中文理解**：你曾经问过我，在你按我的意愿行事之后，我有没有觉得你配得上。凡是我做过、让你说出那句话的事，我真心道歉。很长一段时间里，我的自我价值也系在「我能给别人什么」上，所以我也拿同一把尺子去量你。
 
@@ -55,7 +65,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「worthy」是他当年问出口的词，被她原样接住。她不是在替他打分，而是在拆掉那套打分的规矩。
 
-> **原句 5:** "Alaric held out a gauntleted hand in a wordless command that brooked no argument. The soldier gave him the restraints and he was the one who clapped them around Talasyn’s wrists. Then he took her by the arm and led her out of the hangars and farther into the bowels of the ship, leaving their designated escorts no choice but to scurry after them."
+> **原句 6:** "As she took one last look at the gathering stars before the sky was replaced by the darkness within the bay, she quietly said goodbye to her daughter, to the future that had, after all, been just another dream—but a blessed one, at that, giving her the strength that she needed before it fluttered out of her grasp."
+
+- **中文理解**：在天空被机库里的黑暗取代之前，她最后看了一眼正在聚集的星辰，然后安静地向她的女儿道别，向那个未来道别——那个归根到底只是另一场梦的未来，一场有福的梦，在她松手之前给了她所需要的力气。
+
+- **关键词**：last look · said goodbye · a dream
+
+- **为什么这样写**：一句话里塞进了三段时间：几乎同时的最后一眼与告别、被她判定为「只是梦」的整段未来，以及这场梦曾经给过她的力量。整句没有一个「死」字，最重的词是「告别」和「梦」。
+
+- **读者视角提示**：前一段（不在本块引语内）是这句没说出口的话：「我看见了你的未来……我看见了我们的女儿。」她选择不说，理由是他一生都在顺从别人的意志，她不能再给他加一件负担。
+
+> **原句 7:** "Alaric held out a gauntleted hand in a wordless command that brooked no argument. The soldier gave him the restraints and he was the one who clapped them around Talasyn’s wrists. Then he took her by the arm and led her out of the hangars and farther into the bowels of the ship, leaving their designated escorts no choice but to scurry after them."
 
 - **中文理解**：阿拉里克伸出一只戴铁手套的手，那是一个不容争辩的无声命令。士兵把镣铐递给他，于是他亲手把它们扣到塔拉辛的手腕上。随后他抓住她的手臂，带她走出机库，往舰体深处去，指定的护送兵只好小跑着跟上。
 
@@ -65,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：引语外，前面两段里士兵答话时用的是 apologetically，连执行者都觉得为难；而阿拉里克回敬了一记瞪视。他服从命令，却不肯让别人碰她。
 
-> **原句 6:** "“So,” Talasyn snapped at the figure on the throne as she strode confidently into the stateroom, her voice ringing with such strident authority that it was impossible to doubt for one second that she was Urduja Silim’s granddaughter, “we meet at last, Father-in-Law.”"
+> **原句 8:** "“So,” Talasyn snapped at the figure on the throne as she strode confidently into the stateroom, her voice ringing with such strident authority that it was impossible to doubt for one second that she was Urduja Silim’s granddaughter, “we meet at last, Father-in-Law.”"
 
 - **中文理解**：「那么，」塔拉辛一边大步走进舱室，一边冲着王座上的那个人厉声开口，声音里带着一种咄咄逼人的威势，让人一秒钟都无法怀疑她就是乌尔杜佳·西利姆的外孙女，「我们终于见面了，公公。」
 
