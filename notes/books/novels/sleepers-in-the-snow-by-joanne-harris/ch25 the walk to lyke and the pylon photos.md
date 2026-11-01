@@ -31,7 +31,7 @@ modified: "2026-10-31"
 
 **关键词**：local writer / Benn / local history / novel / strange / popular
 
-**为什么这样写**：管理员对 Benn 的态度是"敬而远之"——承认他"是个人物""满肚子故事"，却对他唯一的小说摇头说"太奇怪"。这句评价从图书管理员嘴里说出来格外有分量，因为他是天天和书打交道的人。"His real love was local history"把 Benn 的本职（民俗学）与这本小说分开，暗示 The Lightning Chasers 只是他的兴趣外溢，而非主业——这让小说里写的超自然内容更像是一位专业民俗学家的"私货"而非胡编。管理员说"Bit too strange for me, though"的 though，与 ch22 里男主读 Benn 书时越来越投入形成镜像：别人觉得"怪"的东西，正是男主正在被吸引的东西。
+**为什么这样写**：管理员对 Benn 的态度是"敬而远之"——承认他"是个人物""满肚子故事"，却对他唯一的小说摇头说"太奇怪"。这句评价从图书管理员嘴里说出来格外有分量，因为他是天天和书打交道的人。"His real love was local history"把 Benn 的本职（民俗学）与这本小说分开，暗示 The Lightning Chasers 只是他的兴趣外溢，而非主业——这让小说里写的超自然内容更像是一位专业民俗学家的"私货"而非胡编。管理员说"Bit too strange for me, though"的 though，与 ch22 里男主读 Benn 书时越来越投入形成镜像：别人觉得"怪"的东西，正是男主正在被吸引的东西。而作者简介一锤定音："Adrian Warner is the pseudonym of distinguished folklorist Dr Micheal Benn"——他一路追的两本书出自同一人之手，虚构的 Warner 就是实的 Benn，两条线索在这一页合为一条。
 
 **读者视角提示**：注意这句话与 ch21 Benn 来信的关系——Benn 在信里警告 Arthur 离开 Firefleet，而管理员口中的 Benn 是一个"常来图书馆""满肚子故事"的老人，两种形象拼在一起：一个是写小说的民俗学家，一个是写信警告的前房主朋友。管理员说 Benn 后来"搬进了某种养老院"（some kind of home），"年纪很大了"——这条信息为后续男主寻找 Benn 本人埋下伏笔。The Lightning Chasers 在八十年代是"一阵狂热"（craze），呼应 ch22 Arthur 日记里 2019 年还在读这本书——同一本书从八十年代的畅销到 2019 年的"私人遗物"，时间跨度本身就是一条暗线。
 
