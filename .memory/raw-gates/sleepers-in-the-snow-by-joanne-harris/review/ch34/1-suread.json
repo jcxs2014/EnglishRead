@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch34",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch34_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "章首日期为 \"December 8th, 2024\"：他自认已直面铁塔并获胜（\"He had faced the pylon and won\"），打算独自在 Kirkhill 挨过这个冬天。",
+   "anchor": "December 8th, 2024",
+   "start": 23,
+   "end": 41
+  },
+  {
+   "fact": "房子与 Dr Benn 的著作曾让他自我怀疑；Dr Benn 把世界读成不祥寓意（old gods 对 new、发掘古老能量），而他认为真相更平淡。",
+   "anchor": "That, and Dr Benn’s writings.",
+   "start": 201,
+   "end": 230
+  },
+  {
+   "fact": "Caroline 已不在人世，对他只剩衣柜里的余香与浴缸里玫瑰香皂的气息；他告诉自己 \"I can survive this winter\"。",
+   "anchor": "Even Caroline was just a faint scent from the wardrobe",
+   "start": 1005,
+   "end": 1059
+  },
+  {
+   "fact": "夜里屋侧有东西 \"knocked and knocked\" 闹得他睡不好；他想起 Arthur 的日记里零碎反常的晚期条目：\"She knocks and knocks. She wants to leave.\"",
+   "anchor": "Arthur’s diary and those odd, disjointed late entries",
+   "start": 2711,
+   "end": 2764
+  },
+  {
+   "fact": "他发现原先立在屋前小径旁的雪人不见了，雪面平整无痕；但小径上有他不记得踩过的脚印（\"There were footprints on the path\"）。",
+   "anchor": "no snowman by the path; the snow was clear and even",
+   "start": 3348,
+   "end": 3399
+  },
+  {
+   "fact": "雾中远处的人影穿着 Caroline 的大衣、围着她的头巾，红苹果嘴是方圆数英里唯一的颜色，让他想起夜里拖拽死羊羊毛的鹿。",
+   "anchor": "Caroline’s overcoat; Caroline’s scarf. Caroline’s smile.",
+   "start": 4480,
+   "end": 4536
+  },
+  {
+   "fact": "归途离家还有五十码（\"the house was still fifty yards away\"）时，他听见身后与自己重合的脚步声，电线里的声音先唤 \"Arthur. Look at me. Arthur.\"，再威胁 \"I know what you did\"。",
+   "anchor": "I know what you did, hissed the voice from the wires",
+   "start": 6918,
+   "end": 6970
+  },
+  {
+   "fact": "结尾转折：他转身高喊 \"Look! Nothing!\" 后，雪人却已回到小径顶端原位——背对房屋面向荒原，红头巾映雪。",
+   "anchor": "snowman was back in its place at the top of the footpath",
+   "start": 7993,
+   "end": 8049
+  }
+ ]
+}

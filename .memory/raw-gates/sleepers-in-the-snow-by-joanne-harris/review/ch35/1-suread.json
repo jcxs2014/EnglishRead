@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch35",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch35_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "框架（2024-12-09 日记）：住屋男人自述今天有访客，她以为他是凶手。",
+   "anchor": "I had a visitor today. She thought I was a murderer.",
+   "start": 44,
+   "end": 96
+  },
+  {
+   "fact": "他逃进屋关门、自嘲想多了之后，门上传来三声巨响敲门，门外有个女人哭喊着 Arthur。",
+   "anchor": "BOOM, BOOM, BOOM, came the knocking again",
+   "start": 1668,
+   "end": 1709
+  },
+  {
+   "fact": "他没锁门，门自己开了——进来的不是还魂的 Caroline 而是 Lucy；她说只是来看他、抱歉吓到了他。",
+   "anchor": "‘Lucy. What are you doing here?’",
+   "start": 2996,
+   "end": 3028
+  },
+  {
+   "fact": "他要求 Lucy 别叫他 Arthur，说 Arthur 曾住此屋、现在只剩自己；Lucy 却开玩笑喊他 Dad。",
+   "anchor": "‘Arthur did live here. Now it’s just me.’",
+   "start": 4069,
+   "end": 4110
+  },
+  {
+   "fact": "他确信自己堆的雪人曾沿小径往下移动，此刻又回到原位、距屋不足二十英尺、带着红苹果般的笑。",
+   "anchor": "no more than twenty feet from the house",
+   "start": 4900,
+   "end": 4939
+  },
+  {
+   "fact": "他自称离异，有两个孩子但很少见面，觉得孩子们不想见他。",
+   "anchor": "Two. I don’t see very much of them, though.",
+   "start": 5376,
+   "end": 5419
+  },
+  {
+   "fact": "Lucy 自报姓氏 Fox；他想到此前住户姓 Foxton，起疑她为何自称不认识 Sandersons。",
+   "anchor": "‘Fox,’ said Lucy. ‘Why do you ask?’",
+   "start": 6479,
+   "end": 6514
+  },
+  {
+   "fact": "他说前几天见到死羊；Lucy 否认是她的狗所为，先说 Bailey 又改口 Billy，他被「Bailey」一词击中。",
+   "anchor": "She shook her head. ‘Not my Bailey.’",
+   "start": 7063,
+   "end": 7099
+  }
+ ]
+}

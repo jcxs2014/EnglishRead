@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch36",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch36_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "本章日记日期为 2024 年 12 月 12 日；主角被狐狸吵醒半宿，雾虽散去天边仍留黄色霾。",
+   "anchor": "December 12th, 2024",
+   "start": 23,
+   "end": 42
+  },
+  {
+   "fact": "Lucy 曾答应过两天再来拜访却没有来电，主角耐心耗尽，决定不再等：穿上登山靴、大衣、毛线帽，背上背包徒步进 Lyke 村（图书馆的书须在圣诞节前归还）。",
+   "anchor": "Lucy’s promise to visit again in a couple of days",
+   "start": 1504,
+   "end": 1553
+  },
+  {
+   "fact": "雪中迷路时迎面遇一名行者；主角自称住在电塔旁的房子、“I’ve been snowed in for days and days”（被雪困多日）、三个月前才搬来。",
+   "anchor": "I only moved in three months ago.’",
+   "start": 7074,
+   "end": 7108
+  },
+  {
+   "fact": "主角走了近两小时仍未见到去 Lyke 的大路——上次进村只花两小时，连 turbines、水库、主路等地标都被黄霾吞没，他开始不安。",
+   "anchor": "he had been walking for nearly two hours",
+   "start": 5038,
+   "end": 5078
+  },
+  {
+   "fact": "来者是穿蓝色尼龙夹克、戴耳防寒帽、背帆布背包、拄金属登山杖的中年男子，在二十英尺外停住；主角问路，他却说这里没有路口。",
+   "anchor": "The walker was a middle-aged man in a blue nylon jacket",
+   "start": 5929,
+   "end": 5984
+  },
+  {
+   "fact": "行者道出悲剧：那座房子 “It’s been standing empty for years”，自一个杀死结婚三十年妻子的男人之后无人敢住——把她关在门外寒冬中冻死、双手因敲门血肉模糊；凶手以精神不健全 “Got off scot-free”，被送进一日四餐带有线电视的高级养老院。",
+   "anchor": "Man killed his wife of thirty years.",
+   "start": 7212,
+   "end": 7248
+  },
+  {
+   "fact": "主角震惊地把传闻与身边物证对上（Arthur 的拖鞋、阅读眼镜、贴身的扶手椅、电线里的 “Please, Arthur. Let me in.”、夜里敲门的雪人），确信 Arthur 害死了妻子 Caroline——雪人穿的正是 Caroline 的衣服，负片影像与 Arthur 书中的隐晦忏悔全都有着落。",
+   "anchor": "Arthur had caused the death of his wife?",
+   "start": 7623,
+   "end": 7663
+  },
+  {
+   "fact": "主角明白 Sandersons 弃屋而去、Lyke 村人态度怪异的缘由，打算进村在酒馆租房间、彻底摆脱 Kirkhill；但结尾行者否认 Lyke 存在（“There’s no place of that name near here.’”），当日日记只剩 “I am alone. Nothing here but ghosts and snow.”",
+   "anchor": "This was why the Sandersons had left,",
+   "start": 8816,
+   "end": 8853
+  }
+ ]
+}

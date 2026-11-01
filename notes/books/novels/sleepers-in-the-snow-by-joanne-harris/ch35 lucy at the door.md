@@ -87,7 +87,7 @@ modified: "2026-11-01"
 
 > **原句 8:** "and dreamed of the snow woman at the door, knocking and knocking and knocking."
 
-**中文理解**：他梦见门口的雪女人，敲啊敲啊敲。本章以他的梦收束：Lucy 走了，雪人「看着」她走，他夜里梦见雪女人在门口敲门。三个 knocking 的重复是声音的延续——ch34 雾夜敲门声、本章 BOOM BOOM BOOM、结尾梦里的 knocking and knocking and knocking，敲门声从现实进入梦境。
+**中文理解**：他梦见门口的雪女人，敲啊敲啊敲。本章以他的梦收束：Lucy 走了，雪人「看着」她走；而此前他明明记得雪人曾在雾中不见、被他认定已走远——此刻它又「回到原位，离房子不到二十英尺，带着那副大红苹果般的笑」，像一次自觉的归位。三个 knocking 的重复是声音的延续——ch34 雾夜敲门声、本章 BOOM BOOM BOOM、结尾梦里的 knocking and knocking and knocking，敲门声从现实进入梦境。
 
 **关键词**：dreamed / snow woman / door / knocking
 
