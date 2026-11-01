@@ -1,0 +1,55 @@
+{
+  "book": "sleepers-in-the-snow-by-joanne-harris",
+  "chapter": "ch05",
+  "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch05_chapter_5.txt",
+  "facts": [
+    {
+      "fact": "本章日期 September 23rd, 2024：他花整个下午读 Caroline 的日记，到天黑已读完她住在 Kirkhill 的八年（\"eight years of her life at Kirkhill\"）；他想象若娶的是 Caroline 会怎样——\"No arguments; no thrown crockery\"——暗示他并非 Caroline 的丈夫、且自己的婚姻充满争吵摔碗。",
+      "anchor": "spent the rest of the afternoon reading Caroline’s diaries",
+      "start": 46,
+      "end": 104
+    },
+    {
+      "fact": "日记 July 4th, 2012：Arthur 照书上的配方试做酸奶——表明日记主角是 Arthur、Caroline 是执笔的妻子；成品难吃他仍坚持，自以为能省钱实则 \"costing us a fortune\"。",
+      "anchor": "Arthur’s trying to make yoghurt from a recipe",
+      "start": 262,
+      "end": 307
+    },
+    {
+      "fact": "日记 December 28th, 2017：Arthur 带着狗 Bailey 的狗绳和网球出门；Caroline 起初以为他在哀悼、如今觉得另有隐情；劝他再养一只狗，他只当她疯了似的瞪她。",
+      "anchor": "Arthur’s gone out with Bailey’s lead and a tennis ball",
+      "start": 615,
+      "end": 669
+    },
+    {
+      "fact": "日记 January 5th, 2018：Caroline 写 Kirkhill 死寂得可怕，只有荒原之声与头顶电塔（pylon）的嗡鸣，\"Time has no meaning any more. The outside world doesn’t even exist.\"——时间失去意义、外面的世界不复存在。",
+      "anchor": "The outside world doesn’t even exist.",
+      "start": 1082,
+      "end": 1119
+    },
+    {
+      "fact": "Caroline 参加了本地历史研究组、山谷步行组、教堂志愿组，日记写 \"Arthur refuses to come with me. Says he prefers his own company.\"；八年里连子女也只来住过一次——圣诞期间山路雪封数周，Lucy 说 \"it might be three months\" 才能再请假，Greg 因 \"what happened with Arthur last year\"（日记未提何事）不肯独自前来。",
+      "anchor": "only stayed with them once over the course of eight years",
+      "start": 1704,
+      "end": 1761
+    },
+    {
+      "fact": "他确信已关机的手机在楼上响，屏幕显示两条新短信：八小时前的 \"Now I’m worried. Call me.\" 与不到一分钟前的 \"You can’t just hide away like this.\"；他对空屋出声 \"Why the hell shouldn’t I hide away?\"",
+      "anchor": "The screen showed two more text messages.",
+      "start": 3223,
+      "end": 3264
+    },
+    {
+      "fact": "衣柜左半边竟装满女装——他称已清走、全送去 clothing bank 的衣物原样回来（Burberry 风衣、晚礼服、蛀损的丝与羊绒；记得当初分装四袋：针织、鞋、大衣、晚装）；他怀疑前夜 clothing bank 的粗暴老汉或厨房窗外的老汉所为，但明白无人能不被察觉地进屋。",
+      "anchor": "He’d taken them all to the clothing bank.",
+      "start": 4879,
+      "end": 4920
+    },
+    {
+      "fact": "电塔之声低语他也许从未离开过房子（\"Never left the house at all.\"），他举当日行程反驳：开车去 Lyke、进慈善店、咖啡馆吃胡萝卜蛋糕、见过法国斗牛犬 Gaston；他唤出 \"Caroline\"，女声轻笑答 \"It’s been so long. So long, and so lonely.\"，衣橱并逐字复述短信 \"You can’t just hide away like this.\"；章末该女声直接唤他 \"Arthur? Can you hear me?\"。",
+      "anchor": "Arthur? Can you hear me?",
+      "start": 7298,
+      "end": 7322
+    }
+  ]
+}
