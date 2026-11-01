@@ -9,7 +9,7 @@ modified: "2026-11-01"
 
 - **一句话概括**：客厅里，叙述者把 Genevieve 家的人一个一个过了一遍——抢琴的 Dan、咄咄逼人的小提琴家 Marilyn、穿长裙的 Rose Tillohash；她刚被 Genevieve 的坦白拉近，转身要上楼时，Rose 口袋里的一通电话把 Deirdre Gregory 带到了大门外。
 - **情感弧线位置**：全章走的是「评头论足 → 被信任 → 骤然降温」。她以为自己在做人物功课，一边给人打分一边被一句「这是我的工作」顶回来；等到她真的喜欢上这家人，事件才从门口进来。
-- **线索结构**：三条线在同一个客厅里并行——Marilyn 对 Seth 的训练施压（明早音乐室的约）、Rose 与 Cheryl Spruce 的旧账（Spruce 一家在摩门社区里信天主教、Rose 说自己「被救」）、以及 Deirdre Gregory 出狱后直奔大门。另有一件小事：她的行李箱在她看不见的时候被人搬进了房间。
+- **线索结构**：三条线在同一个客厅里并行——Marilyn 对 Seth 的训练施压（明早音乐室的约）、Rose 与 Cheryl Spruce 的旧账（Spruce 一家在摩门社区里信天主教、Rose 说自己「被救」）、以及 Deirdre Gregory 直接找上门来。另有一件小事：她的行李箱在她看不见的时候被人搬进了房间。
 - **人物弧线**：叙述者从凭发色给人定罪，到被 Rose 一句话按住；Genevieve 从自嘲的女主人变成会当场发号施令的母亲；Marilyn 被当成漫画式反派写了一路，最后靠「她从不问我」翻了案。
 - **叙事手法**：人物速写式的清单，房间陈设、发色、衣服逐项登记；消息先落在身体上（Rose 的脸、Genevieve 的步态、Abi 的抽气），后落在台词里；结尾用一句极短的对白收束，不作解释。
 
@@ -73,16 +73,16 @@ modified: "2026-11-01"
 
 > **原句 9:** "If I were being kind, I’d call it a maxi-dress. Less kind, I’d say it was the sort of billowy, high-necked, long-sleeved, multi-buttoned garment preferred by the female members of polygamous sects and other fundamentalist cults, though of course the preferring in these societies is done by the men in power, not the women who submit to being clothed by them."
 
-**中文理解**：她试着厚道一点，把它叫成长裙；刻薄一点说，那是多妻教派和其他原教旨团体里女性常穿的那种宽大、高领、长袖、多扣的袍子——不过在那些团体里，挑这种衣服的是掌权的男人，不是被他们这样装点的女人。
+**中文理解**：她试着厚道一点，把它叫成长裙；刻薄一点说，那是多妻教派和其他原教旨团体里女性常穿的那种宽大、高领、长袖、多扣的袍子——不过在那些团体里，挑这种衣服的是掌权的男人，不是那些任凭他们给自己穿衣服的女人。
 **关键词**：maxi-dress / fundamentalist cults / the men in power
 **为什么这样写**：一句「如果我厚道一点」先把刀收回鞘，再抽出来。真正扎人的不是衣服，是那句补充：这身打扮的「偏好」由男人作主。她用一句社会观察把玩笑按住，也顺手挡住了自己那点刻薄。
-**读者视角提示**：Rose 的第一次出场是被当作一件衣服来读的。这个叙述者靠外观认人，而她不只错过一次。
+**读者视角提示**：Rose 第一次被看清，是从一件衣服开始的。这个叙述者靠外观认人，而她已经错过不止一次。
 
 > **原句 10:** "“You’re not putting me out,” said Rose—but not in the courteous way this phrase tends to be uttered. She was irritated with me, an emotion that became clearer when she added: “It’s my job.”"
 
 **中文理解**：Rose 说「你没有麻烦我」，可这句客套话没有按客套的调子出来。她在生气，这情绪在补上「这是我的工作」时更清楚。
 **关键词**：putting me out / courteous way / It’s my job
-**为什么这样写**：作者先写「语气不对」，再让台词自己解释。叙述者递过去的体贴被原样退回：在这个家里，客气也是一种居高临下。她随即乖乖点头，这是她全章唯一一次没有回嘴。
+**为什么这样写**：作者先写「语气不对」，再让台词自己解释。叙述者递过去的体贴被原样退回：在这个家里，客气也是一种居高临下。她随即乖乖点头——这一次她没有回嘴。
 **读者视角提示**：这是全章的语气转折。前面她一直在给人打分，这里第一次被人打分，而且对方判得比她准。
 
 > **原句 11:** "There was something peculiar about the way she moved across the room, however. Her gait was no longer smooth, but jerky—more harried than when she had covered the same distance to greet me. I watched as Genevieve beckoned to Abi, who met her halfway, the two best friends huddling in the middle of this big empty space, their heads nearly touching."
@@ -97,7 +97,7 @@ modified: "2026-11-01"
 **中文理解**：Abi 咬着牙说出名字：Deirdre Gregory，人就在外面，在大门口；而且她要进来。
 **关键词**：Deirdre Gregory / at the gate / wants in
 **为什么这样写**：全章最狠的一句用了最短的句子。名字、地点、要求，三样东西排成三级台阶，一级比一级更逼近门口；最后三个词把「要不要开门」变成一个必须当场回答的问题。
-**读者视角提示**：到这一句为止，这座庄园的所有描写都还是形容词。她要求进来——门里的人刚刚还在讨论孩子、发色和裙子。
+**读者视角提示**：在这一句之前，这座庄园还只是一堆形容词。她要求进来——门里的人刚刚还在讨论孩子、发色和裙子。
 
 ## 本章词汇
 
@@ -133,4 +133,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-一场客厅里的社交夜：叙述者逐一登记这家人——抢儿子琴的 Dan、把儿子的事办成通知的 Marilyn、穿得像教派信徒却由她一句话定住场面的 Rose——她刚被 Genevieve 的坦白焐热，转身要上楼时，电话来了，Deirdre Gregory 站在门外，要求进来。
+一场客厅里的社交夜：叙述者逐一登记这家人——抢儿子琴的 Dan、把儿子的事办成通知的 Marilyn、穿得像教派信徒、一句话就把叙述者按住的 Rose——她刚被 Genevieve 的坦白焐热，转身要上楼时，电话来了，Deirdre Gregory 站在门外，要求进来。
