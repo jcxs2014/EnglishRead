@@ -1,0 +1,256 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch09 jo.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch09_chapter_9.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "‘Cut!’ Mimi slaps the folded square of Nana’s quilt, puffing fibres into the cone of light cast by the craning Anglepois",
+          "ok": true,
+          "pos": 9
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Mimi puts on her tortoiseshell Celine glasses, scans the cluttered table and reaches for a crocodile-leather box file, s",
+          "ok": true,
+          "pos": 1183
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘Lawrence, of course! Reeled in my sister like a big, beautiful trout",
+          "ok": true,
+          "pos": 2269
+        },
+        {
+          "text": "’ Mimi’s voice trails off. She’s distracted by the contents of the box file. ‘Goodness, this lot is a blast from the pas",
+          "ok": true,
+          "pos": 2340
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "So, no, it’s not the right time to reveal that Pamela is her grandmother, the big-hearted woman who raised her from the ",
+          "ok": true,
+          "pos": 3649
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘We notice the lines, not the shape of the empty space, equally important. Do you see?’",
+          "ok": true,
+          "pos": 6077
+        }
+      ],
+      "words": 16
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Darling, it’s all personal.’ Mimi walks back with a swish of wide trousers, navy cashmere sweater slung, just so, over ",
+          "ok": true,
+          "pos": 8195
+        },
+        {
+          "text": "‘The great luxury of age, and its tragedy since you long to return to youth but as you are now, I might add, is seeing t",
+          "ok": true,
+          "pos": 8401
+        },
+        {
+          "text": "Oh, wait, now there’s an idea.’",
+          "ok": true,
+          "pos": 8656
+        }
+      ],
+      "words": 82
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 21,
+        "为什么这样写": 75,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.25,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 22,
+        "为什么这样写": 45,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.21,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 25,
+        "为什么这样写": 69,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.25,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 30,
+        "为什么这样写": 80,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.28,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 33,
+        "为什么这样写": 53,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.32,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 33,
+        "为什么这样写": 73,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.25,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.5
+      }
+    }
+  ],
+  "form": {
+    "h1": "09. Jo",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1667,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

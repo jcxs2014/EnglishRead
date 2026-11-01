@@ -1,0 +1,193 @@
+{
+  "chapter": "ch07",
+  "text_file": "text/ch07_chapter_7.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Pamela 盯着皲裂的保鲜膜包屏手机，抱怨年轻人从不接电话——Jo 没接；她随即决定：最好别把医生昨天下午告知的话转告给 Jo。",
+      "anchor": "Probably best she doesn’t relay to Jo what the doctor told her yesterday afternoon",
+      "byte_offset": 340,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "医生（年轻得不像话）推断她左膝作痛可能连着髋部僵硬、是会『迁移』的毛病；她脱口而出『就像我妹妹』，医生略感不安地笑了笑；他还想『处理』她的 BMI，被她以『女人到一定岁数只能在鸟和公交车之间二选一』顶回。她的白发是当年一夜变白的——『惊吓会这样』——她从不染发、从不假装 The Bad Things 没发生过。",
+      "anchor": "Just like my sister, she’d blurted, and he’d smiled, a little uneasily.",
+      "byte_offset": 769,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Miriam 前夜闯进 Pamela 的梦——裹在一片薄纱云里、以窗帘为翅膀飞过；她勒令自己别再想妹妹，却发现自己如今总在对狗（『Mimi，更该叫 Me-Me』）乃至冬甘蓝自言自语。",
+      "anchor": "Miriam invaded her dreams last night, flying through them in a cloud of tulle, curtains for wings.",
+      "byte_offset": 911,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Tony 去世四年，Pamela 想他『想得厉害』：对着他的照片吃饭。当年创业从无正假、从未出国，说好日后去意大利漂游、吃橄榄和 gelato、喝便宜的葡萄酒，Tony 梦想坐游轮——都未成行。",
+      "anchor": "Four years since he passed, and she misses him something rotten.",
+      "byte_offset": 2311,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "疫情重创的苗圃、破败的 1930 年代老屋与坍圮的库房至今无人出价；她独自偿还 Tony 背着她借下的商业贷款（他不想让她担心）、拆东墙补西墙，除国家养老金外身无分文——但她拒绝自怜，细数自己仍有的乐子（扦插苗的第一片子叶、Jo、Sam、教堂志工的主事角色）。",
+      "anchor": "Apart from the state pension, she’s flat broke.",
+      "byte_offset": 3587,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "自读到 Daily Mail online 上那场『轰动性』的『人生之物』拍卖，过去开始渗出、漫进现在；她疑心 Miriam 是痴呆先兆，或只是长不大的求关注，并深知 Miriam 一旦认定什么，『除了核战争没什么拦得住』——家族秘史将被陌生人翻检、示众。",
+      "anchor": "the past has started seeping out and lapping into the present again",
+      "byte_offset": 5890,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Miriam 的丈夫在 Nantucket 外海某艘游艇上心脏病发身亡；噩耗传来时 Pamela 竟在 Lidl 冷柜走道落泪——丧夫琐忆翻涌（葬礼音乐的沉闷、切角三明治、抱着亡夫旧衬衫入睡、闻他的旧鞋）。",
+      "anchor": "A heart attack on some yacht off the coast of Nantucket.",
+      "byte_offset": 8510,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "她写下八封吊唁信，每一封都攥成一团扔进火里；最终定稿只剩一句『I was very sorry to read about your news, Pamela』，连落款（『kind regards, your sister』还是『with condolences, Pamela x』）都拿捏不定，终未寄出——多年来与 Miriam 无信无礼，因为她『不能冒险接触。尤其现在』。",
+      "anchor": "Pamela wrote eight letters of condolence; each one balled in the fist and tossed into the fire.",
+      "byte_offset": 9257,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Pamela ↔ Miriam",
+      "relation": "亲姐妹，多年断联（多年无信无礼）；Miriam 在纽约过着『防腐』于昂贵面霜的日子。两人不会、也不能见面（『First, they won’t meet. They cannot.』）；Pamela 不能冒险接触——『尤其现在』。",
+      "anchor": "because she can’t risk contact. Especially not now.",
+      "byte_offset": 9628,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela ↔ Tony",
+      "relation": "Tony 是她亡夫（四年前去世），死于 hospice——『不像 Miriam 丈夫那样死得戏剧化』；两人自 mid-seventies 共同经营苗圃，从未休假、从未出国。",
+      "anchor": "Not for him dying prosaically in a hospice, like Tony.",
+      "byte_offset": 8567,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela ↔ Jo",
+      "relation": "Jo 是她的孩子（『dear sweet Jo』），属于不接电话的年轻人；Pamela 不打算把医生昨天下午的话转告 Jo。",
+      "anchor": "Jo, dear sweet Jo, of course.",
+      "byte_offset": 3821,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela ↔ Sam",
+      "relation": "Sam 是她的『man-boy』儿子，移居澳大利亚；她有时疑心他是为了在两人之间拉开尽可能多的距离。",
+      "anchor": "though she sometimes wonders if he moved to Australia to put as many miles between them as possible",
+      "byte_offset": 3873,
+      "hits": 1
+    },
+    {
+      "pair": "Miriam ↔ 其亡夫",
+      "relation": "Miriam 的丈夫死于 Nantucket 外海游艇上的心脏病发作；葬礼极尽豪华——Wallis Simpson 式面纱、细如花撑的高跟，宾客全是退休政要、银幕明星、老摇滚明星、慈善家——『not one Bramley』（没有一个 Bramley 家的人）。",
+      "anchor": "A heart attack on some yacht off the coast of Nantucket.",
+      "byte_offset": 8510,
+      "hits": 1
+    },
+    {
+      "pair": "Dolly ↔ Pamela",
+      "relation": "Dolly 是她的老牧羊犬（scruffy old collie），随她进出花房、睡在 Tony 的蜡布夹克上；Pamela 如今总对它说话，唤它『Mimi／更该叫 Me-Me』。",
+      "anchor": "Dolly darts between her legs, a streak of scruffy old collie.",
+      "byte_offset": 1301,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela ← Miriam（身心阴影）",
+      "relation": "任何 Miriam 消息都会引发 Pamela 的生理反应（体内像起一场争吵／斗殴）；她认定自己的高血压『是 Miriam 造成的』；Miriam 前夜还闯入她的梦。",
+      "anchor": "her high blood pressure is down to Miriam",
+      "byte_offset": 5505,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela & Miriam ↔ Nana（童年）",
+      "relation": "童年共床嬉闹，用 Nana 的拼布被在倒扣的椅子上搭『姐妹宫殿』的屋顶；Pamela 出麻疹半昏沉时，Miriam 握着她起泡的手，许诺一起环游世界（看冰山、老虎，躺不用穿风衣的白沙滩）。",
+      "anchor": "Nana’s patchwork quilt slung over upturned chairs to create a roof to their ‘sister palace’",
+      "byte_offset": 6973,
+      "hits": 1
+    },
+    {
+      "pair": "Miriam → Pamela（旧物）",
+      "relation": "多年前 Miriam 从美国寄来绿蜡面外套（土狼毛衬里）带来的『惊吓』；Pamela 把它捐给本地流浪者收容所——好歹让那牲口的命没白死。",
+      "anchor": "Pamela donated it to the local homeless shelter",
+      "byte_offset": 8260,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela ↔ 教会／社区",
+      "relation": "她在志工中『全力开动』、大权在握：组织流浪者施粥所、食物银行排班、读书会，其他教会志工看得敬畏——这是她拒绝自怜时列出的『乐子』之一。",
+      "anchor": "organizing the soup kitchen for the homeless, the food-bank rota, the book group",
+      "byte_offset": 4068,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "value": "7",
+      "context": "章号（场景页眉）",
+      "anchor": "7",
+      "byte_offset": 10,
+      "hits": 1
+    },
+    {
+      "value": "Four years",
+      "context": "Tony 去世已四年",
+      "anchor": "Four years since he passed, and she misses him something rotten.",
+      "byte_offset": 2311,
+      "hits": 1
+    },
+    {
+      "value": "mid-seventies",
+      "context": "苗圃创业年代（以种子供应商起家，后兼营蔬菜、植物，再转花材：大丽花、菊）",
+      "anchor": "started in the mid-seventies as a seed supplier",
+      "byte_offset": 2453,
+      "hits": 1
+    },
+    {
+      "value": "1930s",
+      "context": "破败的 1930 年代老屋（与苗圃、库房一同挂牌出售）",
+      "anchor": "dilapidated 1930s house",
+      "byte_offset": 3222,
+      "hits": 1
+    },
+    {
+      "value": "one offer",
+      "context": "出售苗圃／老屋／库房：连『一个报价』都没有",
+      "anchor": "haven’t had one offer",
+      "byte_offset": 3349,
+      "hits": 1
+    },
+    {
+      "value": "eight letters",
+      "context": "八封吊唁信，逐封攥团烧掉，无一寄出",
+      "anchor": "Pamela wrote eight letters of condolence; each one balled in the fist and tossed into the fire.",
+      "byte_offset": 9257,
+      "hits": 1
+    },
+    {
+      "value": "yesterday afternoon",
+      "context": "医生问诊时间（内容对 Jo 隐而不报）",
+      "anchor": "yesterday afternoon",
+      "byte_offset": 405,
+      "hits": 1
+    },
+    {
+      "value": "last night",
+      "context": "Miriam 闯入 Pamela 梦境的时间",
+      "anchor": "Miriam invaded her dreams last night, flying through them in a cloud of tulle, curtains for wings.",
+      "byte_offset": 911,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Daily Mail online 上 Miriam 那场『轰动性』的人生之物拍卖把压了多年的过去再度漫进现在——Pamela 断定 Miriam 认定的事连核战争都拦不住、家族秘史将当众被陌生人翻检，于是连一封吊唁信都不能寄：『she can’t risk contact. Especially not now.』"
+}

@@ -1,0 +1,144 @@
+{
+  "chapter": "ch09",
+  "text_file": "text/ch09_chapter_9.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Mimi 拍响 Nana 的拼布被喊“Cut！”宣布换场，叮嘱 Jo 记下来：河上那一刻之后一切都变了——正是那一刻把 Caswells 与 Bramleys 两家连到了一起。",
+      "anchor": "That moment on the river brought us together. The Caswells. The Bramleys",
+      "byte_offset": 335,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Jo 问当年是谁救了 Pamela；Mimi 脱口答是 Lawrence——“像钓起一条大而美的鳟鱼那样把妹妹拉上岸”，随即被文件盒里的旧物分了神。",
+      "anchor": "Lawrence, of course! Reeled in my sister like a big, beautiful trout",
+      "byte_offset": 2440,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Mimi 打开鳄鱼皮文件盒，抽出 Elliot Whipple Ltd（Belgravia）信封里的便条边读边让 Jo 随便看；Jo 翻见 Eden Roc、The Carlyle、牙买加 Rockhouse 等酒店信纸与印度、肯尼亚、摩洛哥研究笔记本。",
+      "anchor": "Elliot Whipple Ltd, Belgravia stamped on the back",
+      "byte_offset": 2688,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Jo 强烈想向 Mimi 坦白“Pamela 是她的外婆”——从她九岁起抚养她、给她种向日葵的那位外婆——但认定此刻不是时候，话到嘴边咽了回去。",
+      "anchor": "to reveal that Pamela is her grandmother, the big-hearted woman who raised her from the age of nine",
+      "byte_offset": 3938,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Mimi 复盘河上时刻：那是“人生本可能转错弯却没有”的滑动门时刻，意义只在回望中可见；又说那天是酷暑、Pamela 只是“有个奇怪瞬间”，并猜“也许 Pamela 只是想被救”。",
+      "anchor": "Maybe Pamela just wanted to be saved.",
+      "byte_offset": 7295,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Woody 在邻屋工作、不时进来向 Mimi 汇报美国遗产拍卖等事务；两人之间是明显的敬重与更深的忠诚乃至友谊，但 Jo 担心他留在近处是因为不信任自己。",
+      "anchor": "worries he stays close because he doesn’t trust her",
+      "byte_offset": 2284,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Mimi 宣布拼布被段落收工、要 Jo 今晚写完（Jo 只得再次取消卡姆登的姑娘夜——墨西哥卷与鸡尾酒）；Jo 摸着被面劝她别放手——“太私人”，Mimi 回答“亲爱的，一切都私人，这正是意义所在”。",
+      "anchor": "You can write it up tonight, no?",
+      "byte_offset": 8078,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Mimi 由“一切后期创作的素材”起意，从纸箱翻出书脊带编号的小硬壳自然图册（Shells、Roses、Woodland Birds）；Jo 满怀敬意捧起《Woodland Birds》小心翻开，旧书气味令她仿佛重回 Rushwood。",
+      "anchor": "the sylvan world of Rushwood rising to meet her again",
+      "byte_offset": 9931,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "no": 1,
+      "fact": "Mimi 是 Pamela 的妹妹（“my sister”）；Jo 严守的秘密是 Pamela 即她外婆——故 Mimi 是 Jo 外婆的妹妹一辈的长辈。",
+      "anchor": "Pamela is her grandmother",
+      "byte_offset": 3953,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "河上溺水获救事件是两家结缘之点：Mimi 说“那一刻把我们连在了一起——Caswells 与 Bramleys”。",
+      "anchor": "That moment on the river brought us together. The Caswells. The Bramleys",
+      "byte_offset": 335,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Lawrence 把落水的 Pamela 救了上来——她并未淹死；Mimi 事后总拿这次救美打趣，Pamela 对此深恶痛绝。",
+      "anchor": "As Pamela didn’t drown, it didn’t seem significant.",
+      "byte_offset": 6830,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Woody 与 Mimi 互相敬重、彼此忠诚，甚至像是一对不像话的朋友；他常驻 Mimi 公寓邻屋办事。",
+      "anchor": "respect between him and Mimi is evident",
+      "byte_offset": 2176,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Jo 的父母 Steve 与 Leni 早亡于一场事故（“如同小行星撞击”）；此后 Jo 由外婆 Pamela 与外公 Tony 照看，全家同住 Suffolk 育苗场大院。",
+      "anchor": "Their accident was an asteroid hit.",
+      "byte_offset": 5083,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Bramley 家族有一道极深的裂痕——Jo 知道 Mimi 曾做过“可怕的事”，并自问“什么样的女人会背弃这样的姐妹”。",
+      "anchor": "the Bramley family rift that must cut painfully deep",
+      "byte_offset": 3738,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "no": 1,
+      "fact": "周六 Jo 从 Rushwood 返程堵车，比 Woody 的召唤电话晚六小时才到 Chelsea；但 Mimi（和 Woody）一直等她。",
+      "anchor": "she’d arrived in Chelsea six hours after Woody’s summoning call",
+      "byte_offset": 1614,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Pamela 自 Jo 九岁起抚养她。",
+      "anchor": "who raised her from the age of nine",
+      "byte_offset": 4002,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Jo 出生时她那未婚的父母“荒唐地年轻——比现在的 Jo 还小”。",
+      "anchor": "absurdly young when she was born – younger than she is now",
+      "byte_offset": 4718,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Mimi 打趣躺获救后的 Pamela：“六成维纳斯、四成 Faye Dunaway”；Pamela 冷回“至少这次你加法加对了，Miriam”。",
+      "anchor": "sixty per cent Venus, forty per cent Faye Dunaway",
+      "byte_offset": 7479,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "本章场景时间：一个潮湿黑暗的周一，在“not-just-stuff room”里录口述。",
+      "anchor": "in the not-just-stuff room on a wet, dark Monday",
+      "byte_offset": 448,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Mimi 点破救起 Pamela 的是 Lawrence、并暗示“也许 Pamela 只是想被救”，河上惊魂由一段插曲升格为牵动 Caswell/Bramley 两家命运的全书枢纽。"
+}
