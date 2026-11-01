@@ -94,7 +94,7 @@ modified: "2026-11-01"
 | mangled | 被撕烂的，损毁到变形的 | They left behind a blackened corpse, mangled beyond recognition. |
 | grisly | 骇人的，血腥的 | It was a grisly tableau of a snake about to bite down on the skull of its hapless prey. |
 | hurtle | 疾冲，飞驰 | As the bowrider hurtled through the air in a desperate bid to reach the Deliverance’s side of the barricade, the aetherwave transceiver embedded in its well flared to life with an incoming transmission. |
-| rally | 重整，重新集结 | After the initial shock, they rallied, firing at the coup’s forces, closing ranks around the Deliverance. |
+| rallied | 重整，重新集结（原形 rally） | After the initial shock, they rallied, firing at the coup’s forces, closing ranks around the Deliverance. |
 | insurgent | 叛乱者，叛军 | Alaric’s forces were too far away, penned in by Lisu’s insurgents. |
 
 ### ⭐ 常用

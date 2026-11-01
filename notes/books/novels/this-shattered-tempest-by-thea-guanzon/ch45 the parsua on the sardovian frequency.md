@@ -110,7 +110,7 @@ modified: "2026-11-01"
 | flagship | 旗舰 | Even now, the Amirante was nothing more than a figure in the distance, on the deck of her own flagship that was miles away. |
 | staggering | 惊人的，巨大的 | If you engage here, the losses will be staggering for everyone involved. |
 | shrug | 耸肩 | He gave a small, barely perceptible shrug. |
-| grumble | 咕哝，低声抱怨 | Grumbling under his breath, Sevraim held the door for Talasyn, then closed it behind her while remaining outside. |
+| grumbling | 咕哝，低声抱怨（原形 grumble） | Grumbling under his breath, Sevraim held the door for Talasyn, then closed it behind her while remaining outside. |
 | bandage | 绷带 | There was a bandage wound around his right palm. |
 | weariness | 疲惫，倦意 | There was an ill-concealed weariness to the stiff set of his strong shoulders. |
 | snarl | 低吼，龇牙喝道 | “Get her out of there,” he snarled, turning to his stormship’s crew. |
