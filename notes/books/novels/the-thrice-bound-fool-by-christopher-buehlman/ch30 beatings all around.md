@@ -37,7 +37,7 @@ modified: "2026-11-01"
 > **原句 4:** "She raised her arm to give me a couple more, but Hasp, seeing I’d been really hurt, stood between us and took a couple of hard ones across the back."
 
 **中文理解**：她举臂要再补几下，可 Hasp 看见我是真伤了——站到我们中间，用背结结实实挨了几记。
-**关键词**：raised her arm / seeing I’d been really hurt / stood between us / took a couple of hard ones across the back
+**关键词**：raised her arm / seeing I’d been really hurt / stood between us / hard ones across the back
 **为什么这样写**：全章的师承在一句里完成——「挡背」没有台词，只有身体的站位；玩笑的壳（放屁抱腿）褪掉之后，剩下的骨头是「我替你疼」——愚人的义气从不说出口。
 **读者视角提示**：记住这个「站中间」——Hasp 的每次挡鞭都在给「兄弟情」这个词充利息，直到他真的付不起。
 
