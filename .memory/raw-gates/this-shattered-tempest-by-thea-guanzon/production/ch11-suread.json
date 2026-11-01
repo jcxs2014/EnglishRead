@@ -1,0 +1,55 @@
+{
+ "book": "this-shattered-tempest-by-thea-guanzon",
+ "chapter": "ch11",
+ "text": "notes/books/novels/this-shattered-tempest-by-thea-guanzon/text/ch11_chapter_eleven.txt",
+ "facts": [
+  {
+   "fact": "一只鹰随日出飞入，捎来苏拉克威尔的信。",
+   "anchor": "An eagle flew in with the rising sun, bearing a message from Surakwel.",
+   "start": 42,
+   "end": 112
+  },
+  {
+   "fact": "阿拉里克因这场紧急撤离正好给了他一个不带塔拉辛回凯萨斯的借口而松了气。",
+   "anchor": "Alaric had been relieved that the emergency necessitated an abrupt departure",
+   "start": 1740,
+   "end": 1816
+  },
+  {
+   "fact": "乌尔杜佳告知：奥莉尔的尸体至今没有找到。",
+   "anchor": "Oryal’s body still hadn’t been found.",
+   "start": 5648,
+   "end": 5685
+  },
+  {
+   "fact": "上一场震动了乌尔杜佳那份传奇般的镇定，如今她身体上显出裂纹。",
+   "anchor": "It seemed that the rattling of Urduja’s legendary composure the other day had uncovered fault lines along her physical form.",
+   "start": 5126,
+   "end": 5250
+  },
+  {
+   "fact": "她一直服用女智者的丁香树皮作避孕之用，而乌尔杜佳一句话就点破了。",
+   "anchor": "She’d been taking the bark of the wisewoman’s lilac as a preventive.",
+   "start": 9787,
+   "end": 9855
+  },
+  {
+   "fact": "以反应和武技自负的她，从没料到阿拉里克·奥西纳斯特会这样攻进心里。",
+   "anchor": "She, who prided herself on her reflexes, on her skill in combat, had never seen Alaric Ossinast coming.",
+   "start": 12731,
+   "end": 12834
+  },
+  {
+   "fact": "她把话挑明：你和我同在这一个陷阱里。",
+   "anchor": "We are in this trap together, you and I.",
+   "start": 14302,
+   "end": 14342
+  },
+  {
+   "fact": "乌尔杜佳临走留下的话：在毒蛇窝里，也得做一条毒蛇。",
+   "anchor": "In a nest of vipers, one must be a viper, too.",
+   "start": 16697,
+   "end": 16743
+  }
+ ]
+}
