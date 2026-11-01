@@ -1,0 +1,132 @@
+{
+ "chapter": 9,
+ "source": "text/ch09_chapter_nine.txt",
+ "char_total": 17127,
+ "events": [
+  {
+   "i": 1,
+   "summary": "阿拉里克封锁伊安塔斯岛后与塔拉辛同寝，醒来发现妻子已先行离开；他在城堡一层撞见她正面对一群刚出医务室的贵族。",
+   "quote": "He found her on the first floor of the castle, facing off against an irate group of nobles who, judging by the looks of them, had recently been discharged from the infirmary.",
+   "start": 1109,
+   "end": 1283
+  },
+  {
+   "i": 2,
+   "summary": "塔拉辛坚持调查结束前任何船只不得离岛，以防凶手混作偷渡者逃走，贵族们激烈抗议。",
+   "quote": "“As I have already explained, my lord,” Talasyn said through gritted teeth, “in light of the security situation, no ship may depart Iantas until inquiries have concluded.",
+   "start": 1391,
+   "end": 1561
+  },
+  {
+   "i": 3,
+   "summary": "一名贵族抱怨被迫与人合住，塔拉辛厉声回击：村民的地与牲畜被虚空陨焰毁掉，是她请他们住进城堡，不许再被驱赶。",
+   "quote": "“The villagers were here first,” Talasyn hissed at the presumptuous rajan. “Their families and livestock were killed by a Voidfell flare, one that also made their farmlands inarable.",
+   "start": 3242,
+   "end": 3424
+  },
+  {
+   "i": 4,
+   "summary": "埃克利与乌桑吉特向阿拉里克逐条交代防务漏洞：一名厨子在下手前约一小时分发掺了蟹眼果的番薯粥，令守军中毒。",
+   "quote": "But this time it contained crab-eyes, which are a kind of berry with debilitating effects. These effects set in shortly after the ceramic shells were detonated.",
+   "start": 7375,
+   "end": 7535
+  },
+  {
+   "i": 5,
+   "summary": "乌桑吉特说明刺客并非乘飞艇而来，而是乘渔船、至少走了一天半，推测自最近的大陆瓦西亚斯出发。",
+   "quote": "“We found several fishing boats on the shore. They must have traveled for a day and a half, at the very least, assuming they set off from the nearest mainland, which is Vasiyas.",
+   "start": 7984,
+   "end": 8161
+  },
+  {
+   "i": 6,
+   "summary": "塔拉辛拒绝效仿乌尔都佳惩处败将，宣布两位卡普坦无过可罚、只有感激，令阿拉里克不满。",
+   "quote": "“The two of you did your best,” Talasyn said. “Without the Lachis-dalo, the Night Emperor and I would have been overwhelmed in the ballroom, and more civilians would have died.",
+   "start": 9506,
+   "end": 9682
+  },
+  {
+   "i": 7,
+   "summary": "阿拉里克把会议厅变成审讯室，仆役哭着出来；塔拉辛当面斥他待人苛刻，他仍命乌桑吉特继续。",
+   "quote": "“What kind of man are you,” Talasyn burst out, “that you think it’s coddling someone to treat them like a person?”",
+   "start": 12973,
+   "end": 13087
+  },
+  {
+   "i": 8,
+   "summary": "十三岁的厨房小厮韦奈哭诉：发粥的厨子迪仓，其兄正是被夜皇在贝利安驻地牢外打伤的守卫，因复仇而通敌。",
+   "quote": "“Ditsang, the—the cook.” Wenai hiccupped. “With the porridge. His brother—his brother was the guard the Night Emperor killed outside his cell at the Belian garrison!”",
+   "start": 14257,
+   "end": 14423
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Alaric—Talasyn",
+   "claim": "夫妻，但阿拉里克因未能阻止袭击而自认不配触碰她，两人之间隔着一层未消的愧疚与怒气。",
+   "quote": "He longed to fold her into his arms, but he didn’t deserve to even touch her. Not after what he’d failed to stop.",
+   "start": 4443,
+   "end": 4556
+  },
+  {
+   "pair": "Talasyn—Ekli／Usangit",
+   "claim": "主君与两名卡普坦：二人请罪待罚，塔拉辛却免罚并称只有感激，与乌尔都佳旧例相反。",
+   "quote": "And, Kaptan Usangit, you and your troops were poisoned in the line of duty, while watching over us. There is no penalty to bestow. Only gratitude.",
+   "start": 9683,
+   "end": 9829
+  },
+  {
+   "pair": "Ditsang—Alaric",
+   "claim": "厨子迪仓因兄长之死仇恨夜皇夫妇，与刺客串通；阿拉里克则始终以为那守卫只是被打昏。",
+   "quote": "Now she understood that he had hated her for marrying his brother’s killer. He had hated her and Alaric enough to conspire with their assassins.",
+   "start": 15496,
+   "end": 15640
+  },
+  {
+   "pair": "Talasyn—Wenai",
+   "claim": "女君与厨房小厮：男孩一开口她便蹲下安抚，把他当人而非嫌犯。",
+   "quote": "Talasyn rushed to the boy’s side, crouching in front of him and rubbing his back.",
+   "start": 14019,
+   "end": 14100
+  }
+ ],
+ "numbers": [
+  {
+   "value": "ten moth coracles, three sloops, one outrigger warship, two platoons",
+   "quote": "we relocated ten moth coracles, three sloops, and one outrigger warship from Eskaya to serve as her protection, along with two platoons.",
+   "start": 6716,
+   "end": 6852
+  },
+  {
+   "value": "about an hour before the attack",
+   "quote": "About an hour before the attack, one of the cooks went around the castle doling out bowls of sweet potato porridge.",
+   "start": 7132,
+   "end": 7247
+  },
+  {
+   "value": "a day and a half",
+   "quote": "They must have traveled for a day and a half, at the very least, assuming they set off from the nearest mainland, which is Vasiyas.",
+   "start": 8030,
+   "end": 8161
+  },
+  {
+   "value": "two decades ago",
+   "quote": "The Nenavarene are not used to war. Their last conflict was two decades ago. What is Kesath’s excuse?",
+   "start": 10474,
+   "end": 10575
+  },
+  {
+   "value": "thirteen",
+   "quote": "It was a kitchen boy by the name of Wenai. He was thirteen, sparrow-like, with brown hair that stuck up every which way.",
+   "start": 13451,
+   "end": 13571
+  },
+  {
+   "value": "a sennight",
+   "quote": "the guard you struck never woke up. The garrison’s healers couldn’t do anything for him. He passed after a sennight.",
+   "start": 14853,
+   "end": 14969
+  }
+ ],
+ "notes": "none"
+}

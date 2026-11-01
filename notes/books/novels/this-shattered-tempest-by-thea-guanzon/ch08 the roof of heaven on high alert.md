@@ -55,7 +55,27 @@ modified: "2026-11-01"
 
 - **读者视角提示**：叙述者没有替她绕开「vindictive」这个词；读者被邀着跟她一起享受这一刻，然后才跟她一起被常识拽回来。
 
-> **原句 5:** "However, standing before the banded-marble platform on which the winged throne was perched, her arms caught in vise grips by two Dominion soldiers on either side of her, her colorful masquerade attire bedraggled and her hands bound by iron manacles behind her back, was Ishan Vaikar."
+> **原句 5:** "As she turned into the corridor where the throne hall was located, Talasyn drew to an abrupt halt, the way blocked by the flattened, diamond-section blades of two tall spears that their respective pikemen had crossed inches from her nose."
+
+- **中文理解**：拐进去王座厅的那条走廊时，塔拉辛猛地停住——两杆长矛的扁平菱形矛刃被各自的长矛手交叉着，停在她鼻尖前几寸。
+
+- **关键词**：diamond-section blades · drew to · crossed inches
+
+- **为什么这样写**：全章第一次「被拦住」用的是纯物件：矛刃、菱形截面、几寸。叙述不写规矩是什么，只写它离她的脸有多近——后面所有关于礼仪、缴械、放行的争执，都从这几寸开始。
+
+- **读者视角提示**：这一拦之后才有人把规矩说出来（只有两位陛下可入内、随行须留在原地）。注意她此刻没有拔剑，也没有喊——她一路的克制从这里开始计。
+
+> **原句 6:** "“Hang your protocols,” he snapped. “My wife and I were attacked in our own home by people who almost succeeded in killing us because they shut off our aethermancy. We are not about to walk into another enclosed room full of Nenavarene with no way to protect ourselves if another sariman cage pops up out of nowhere. So you may kindly invite Queen Urduja to shove—”"
+
+- **中文理解**：「去你的规矩，」他厉声道。「我和我妻子在自己家里遭到袭击，那些人差点杀了我们，因为他们切断了我们的以太术。我们绝不打算再走进一间满是内纳瓦伦人的封闭屋子、毫无自保之力，只等着再冒出一个萨里曼的笼子。所以你大可以替我请乌尔杜佳女王去——」
+
+- **关键词**：Hang your protocols · sariman cage · shove
+
+- **为什么这样写**：他把「规矩」直接换成一个动词开头的祈使句，然后连摆三条事实（家中遇袭、被切断以太术、无处自保）——这是谈判里最硬的一种讲法：不谈立场，只列风险。句子最后被叙述掐断在破折号上，粗话没说出口，怒气却已经在场。
+
+- **读者视角提示**：这段是全书里他少见地当面顶撞内纳瓦伦的规矩，且顶的理由不是身份而是「她差点死」。读的时候留意：他护的是她的命，她护的是他的剑——两人在同一件事上各让一步。
+
+> **原句 7:** "However, standing before the banded-marble platform on which the winged throne was perched, her arms caught in vise grips by two Dominion soldiers on either side of her, her colorful masquerade attire bedraggled and her hands bound by iron manacles behind her back, was Ishan Vaikar."
 
 - **中文理解**：然而，在那座供着带翼王座的条纹大理石台前站着的，是伊尚·维卡尔：两名内纳瓦伦士兵一左一右把她的手臂像台钳一样钳住，她那身鲜艳的化装舞会衣裳已经狼狈不堪，双手用铁镣铐在背后。
 
@@ -65,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：留意「masquerade attire」——她还穿着昨夜舞会的那身衣服；这身衣裳把「宴会」和「审讯」缝在了同一具身体上。
 
-> **原句 6:** "“Harlikaan, please!” Ishan sobbed. “I swear on my life that I had nothing to do with it, I swear by the ancestors, I swear by the dragons, I swear by my mother’s hanging heart, I am loyal to you.”"
+> **原句 8:** "“Harlikaan, please!” Ishan sobbed. “I swear on my life that I had nothing to do with it, I swear by the ancestors, I swear by the dragons, I swear by my mother’s hanging heart, I am loyal to you.”"
 
 - **中文理解**：「哈里坎，求您了！」伊尚哭着说。「我以性命起誓这件事与我毫无关系，我以祖先起誓，我以龙起誓，我以我母亲那颗悬着的心起誓，我忠于您。」
 
@@ -75,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她求的是「Harlikaan」这个称呼所代表的君臣名分，换回来的却是一句「轮到你说话再说话」；称呼与回应之间的落差，比哭诉本身更冷。
 
-> **原句 7:** "“How dare you?” Talasyn shouted at Urduja, her eyes blazing. She rushed over to Ishan and helped her to her feet, even as she continued castigating her grandmother. “Without Daya Vaikar, none of us would have made it through the Night of the World-Eater! Is this how you treat your allies, like criminals? Where is your gratitude, you cruel, evil—”"
+> **原句 9:** "“How dare you?” Talasyn shouted at Urduja, her eyes blazing. She rushed over to Ishan and helped her to her feet, even as she continued castigating her grandmother. “Without Daya Vaikar, none of us would have made it through the Night of the World-Eater! Is this how you treat your allies, like criminals? Where is your gratitude, you cruel, evil—”"
 
 - **中文理解**：「你怎么敢？」塔拉辛冲着乌尔杜佳喊，眼睛发亮。她冲到伊尚身边把人扶起来，一边扶一边接着数落外祖母。「没有达雅·维卡尔，我们谁都熬不过噬世者之夜！你就是这样对待盟友的，当罪犯办？你的感激呢，你这个残忍、恶毒的——」
 
@@ -85,7 +105,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一喊把「谁在保护谁」翻了个面：被锁着的人要她扶，而她也正需要这样一个可以正当发火的场合。
 
-> **原句 8:** "For once, the scales of power had tipped in Talasyn’s favor. She knew it from the way the gazes of her grandmother’s guards flitted anxiously between her and the throne. She could tell from the frozen look on the Dragon Queen’s face."
+> **原句 10:** "Figuring that she might as well press the advantage while she had it, Talasyn took a deep breath and offered up her proposal. “Emperor Alaric and I will facilitate the inquiries back home at Iantas, Harlikaan. I’ll send word to you of our findings—by tomorrow night, at the latest.”"
+
+- **中文理解**：想着既然手里有这点优势，不如趁势用掉，塔拉辛深吸一口气，把她的提议递了出去。「阿拉里克陛下和我会回伊安塔斯主持追查，哈里坎。我会把查到的结果报给您——最迟明晚。」
+
+- **关键词**：press the advantage · facilitate · by tomorrow
+
+- **为什么这样写**：这一块是全场唯一由她主动出价的地方，句子里带两个具体承诺：回伊安塔斯、明晚之前回话。前一句「趁势用掉」是叙述替她记账——她清楚自己刚才是靠情绪赢的，所以立刻把它兑成程序。
+
+- **读者视角提示**：明晚这个期限在全章收束时被再次提起；也正是它把她从「被审的人」变成「去查的人」。乌尔杜佳随后挥手让卫兵放下火枪（这道命令不在本块引语里，在紧随的下一段）。
+
+> **原句 11:** "For once, the scales of power had tipped in Talasyn’s favor. She knew it from the way the gazes of her grandmother’s guards flitted anxiously between her and the throne. She could tell from the frozen look on the Dragon Queen’s face."
 
 - **中文理解**：这一次，权力的天平倒向了她；她是从外祖母那些卫兵的眼神里看出来的——目光在她与王座之间不安地来回跳；也是从「龙女王」脸上那副凝固的表情里看出来的。
 

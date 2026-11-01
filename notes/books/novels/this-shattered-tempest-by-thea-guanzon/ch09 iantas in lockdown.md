@@ -45,6 +45,8 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意说话人把「Her Grace」的封号与全名一并摆出来，这是她的辩护也是她的认罪：一位殿下的安危，只按「十、三、一、两」这样的数目配保护。
 
+  （说这份账的是高死后新升任卡普坦的埃克利——上文交代过她是仅剩的三名拉奇斯-达洛之一；她与胡克特拉统领乌桑吉特一同来报。）
+
 > **原句 4:** "About an hour before the attack, one of the cooks went around the castle doling out bowls of sweet potato porridge. No one thought anything of it, because it is customary for the kitchens to make this porridge for those on a late-night shift. But this time it contained crab-eyes, which are a kind of berry with debilitating effects."
 
 - **中文理解**：有人把查到的经过报了上来：袭击前大约一小时，一名厨子端着红薯粥在城堡里挨处分发。没人起疑，因为厨房给值夜的人做这种粥是老规矩。可这一回的粥里加了蟹眼果，一种让人虚弱的浆果——值夜的人先被卸掉力气，一小时后才轮到炸弹。
@@ -95,7 +97,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意那只「gauntleted」的手：护手是战斗装备，用它去拍一个孩子的肩，温柔与铁硬落在同一只手上。
 
-> **原句 9:** "He was as much responsible for Rajan Wempuq’s death as the assassin who’d pulled the trigger. As much responsible for Talasyn losing her magic as the person who had placed the serum in Oryal’s hands."
+> **原句 9:** "“That night, on Belian, after you escaped your cell,” she told Alaric, “the guard you struck never woke up. … He passed after a sennight. His brother, Ditsang, was so angry when Queen Urduja announced my betrothal to you."
+
+- **中文理解**：「那天夜里在贝利安，你逃出牢房之后，」她对阿拉里克说，「你打的那名守卫再没醒过来。……他撑了一个星期就死了。他的弟弟迪仓，在乌尔杜佳女王宣布我与你的婚约时气得要命。」
+
+- **关键词**：woke up · after a sennight · Ditsang
+
+- **为什么这样写**：她把两件事放在同一个句子里说：一名守卫死于一击，一个厨子因此成了别人的刀。中间那句（驻军医者束手无策）被省略号跳过，因为它只说明死因的技术细节；留下的两句一说「没醒」、一说「过了一个星期」，把「谁害了谁」的因果拉成一条最短的线。
+
+- **读者视角提示**：这一段解释的是本章前半那个名字为什么突然冒出来：十三岁的厨房童仆韦奈在审讯里供出「发粥的厨子迪仓」（那段在上一块之后、同一场审讯里，不在本块引语之内），而这一块把动机补上。读到这里要停一下：她说这话时并没有指控自己的丈夫，她只是在给他一条时间线。
+
+> **原句 10:** "He was as much responsible for Rajan Wempuq’s death as the assassin who’d pulled the trigger. As much responsible for Talasyn losing her magic as the person who had placed the serum in Oryal’s hands."
 
 - **中文理解**：他把拉詹·温普克的死算在自己账上，分量与扣扳机的凶手一样；也把塔拉辛失去魔法算在自己账上，分量与把血清交到奥莉尔手里的人一样。
 

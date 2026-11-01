@@ -17,7 +17,7 @@ modified: 「2026-11-01」
 
 > **原句 1:** "The schooner and Surakwel’s yacht peeled away from the Silklands in opposite directions. Talasyn felt marginally better at the prospect of a meeting with Ideth Vela. The Amirante would provide her with much-needed guidance amidst all this turmoil and they could discuss their next steps."
 
-- **中文理解**：双桅船和苏拉克威尔的游艇朝相反方向驶离丝兰地。想到要去见伊德丝·维拉，塔拉辛心里略微好受了一些。这位女海军上将能在这团乱麻里给她必要的指点，两人也能商量下一步。
+- **中文理解**：双桅船和苏拉克威尔的游艇朝相反方向驶离丝兰地。想到要去见伊德丝·维拉，塔拉辛心里略微好受了一些。这位阿米兰特能在这团乱麻里给她必要的指点，两人也能商量下一步。
 
 - **关键词**：Ideth Vela · next steps
 
@@ -67,7 +67,7 @@ modified: 「2026-11-01」
 
 > **原句 6:** "And Talasyn could only watch. The schooner was in overdrive, bearing her farther and farther away from the scene of the bloodbath, and she could only watch until—in what felt like barely any time at all—the brigantine tipped forward, a conflagration of foundering magic and tattered sails, and crashed through the surface of the Eversea."
 
-- **中文理解**：塔拉辛只能看着。双桅船已经开到极限，载着她离那片屠杀现场越来越远，她只能看着，直到——感觉上几乎没过去多少时间——那艘双桅横帆船向前倾，带着一团下沉的魔法与撕碎的帆，砸穿了永海的表面。
+- **中文理解**：塔拉辛只能看着。双桅船已经开到极限，载着她离那片屠杀现场越来越远，她只能看着，直到——感觉上几乎没过去多少时间——那艘双桅横帆船向前倾，带着一团下沉的魔法与撕碎的帆，砸穿了越海的表面。
 
 - **关键词**：only watch · in overdrive · foundering magic
 

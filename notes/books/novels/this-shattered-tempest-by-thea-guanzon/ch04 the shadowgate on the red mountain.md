@@ -83,7 +83,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：她的反驳不是道德宣言，是换算：先给一个具体到可以核对的数字（一棵树、三十年），再把它乘成「世代」与「未来」。数字这样小，问题才这样大——三十年是她未必活得到的时间，所以她问的不是自己这一代要不要忍，是后面几代要不要替她收拾。收尾的动作 lifting her chin 把话从算术拉回身体：她刚丢了魔法，抬下巴是她此刻唯一还做得出的动作。
 
-- **读者视角提示**：这是全章唯一一次用数字去谈代价：一棵树、三十年。她谈政治用的是树的生长期，不是领土与面子——这就是她与高说不到一起的地方。
+- **读者视角提示**：这是全章唯一一次用数字去谈代价：一棵树、三十年。她谈政治用的是树的生长期，不是领土与面子——这就是她与高说不到一起的地方。紧随的下一段里她补了两道命令：先去找幸存者，再通知龙女王「我们正在回去的路上」。
 
 > **原句 8:** "She went in search of him, her heartbeat achingly slow and her stomach twisted into knots. She had been on the verge of revealing Urduja’s crime to Alaric, but something had stopped her: fear."
 

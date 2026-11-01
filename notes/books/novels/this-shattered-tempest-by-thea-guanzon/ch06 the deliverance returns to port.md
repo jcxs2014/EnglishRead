@@ -37,7 +37,7 @@ modified: "2026-11-01"
 
 > **原句 3:** "“I instructed Gao to tell the Roof of Heaven that we were on our way,” Talasyn continued, still in those same colorless accents. “It’s protocol for anyone coming within an inch of the Dragon Queen, especially with this new security threat. The kaptan would have informed them what route we’d be using to approach Eskaya. There’s a traitor at the royal palace.”"
 
-- **中文理解**：她继续用同样没有颜色的声调说：她曾让高通知「天穹之顶」他们正在赶来，这是任何靠近龙王的人都要走的程序，何况眼下还有新的安全威胁；卡普坦会把进场航线报上去——所以王宫里有人通敌。
+- **中文理解**：她继续用同样没有颜色的声调说：她曾让高通知「天穹宫」他们正在赶来，这是任何靠近龙王的人都要走的程序，何况眼下还有新的安全威胁；卡普坦会把进场航线报上去——所以王宫里有人通敌。
 
 - **关键词**：Roof of Heaven · colorless accents
 
@@ -87,7 +87,7 @@ modified: "2026-11-01"
 
 > **原句 8:** "The Huktera coracles scattered, clearing the path for a volley of gigantic ballista bolts that the Parsua’s crew had launched from its decks. They’d fired every ballista on board, leaving them vulnerable to their foes that wasted no time in swarming upon them, but the tactic served its purpose, breaking the conspirators’ defensive ring."
 
-- **中文理解**：胡克特拉的小艇散开，为帕苏亚号船员从甲板上打出的一轮巨型弩箭让出通道。他们把船上每一具弩炮都打空了，因此门户大开，敌人立刻扑上来；但这一手达到了目的，打散了阴谋者的防御圈。
+- **中文理解**：胡克特拉的小艇散开，为帕苏阿号船员从甲板上打出的一轮巨型弩箭让出通道。他们把船上每一具弩炮都打空了，因此门户大开，敌人立刻扑上来；但这一手达到了目的，打散了阴谋者的防御圈。
 
 - **关键词**：gigantic ballista bolts · defensive ring
 
@@ -140,4 +140,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-她带着一支借来的小队撞向一艘更大的船，把「我还能做什么」变成了唯一还答得上的问题：拯救号离港之后，阿拉里克在铁桥甲板上清点这一趟的亏空，高与大部分拉奇斯-达洛都没能带回来，他只能把注意力放在「妻子安全」这一件事上；塔拉辛用没有起伏的声调把航线的去向推成一桩内鬼案，又在他笨拙的安慰面前保持沉默，到了马普隆号上，她差点把乌尔杜佳的罪说给父亲听，话却在喉咙里停住。战场没有给她犹豫的时间：她带着十九艘蛾形小艇冲向五艘指挥舰，借帕苏亚号打空全部弩炮换来的一刻破口，把班特格家族的卡拉纳特号定为自己那一队的目标；帆与以太之心被打穿之后，她仍然把操纵杆推到底，让那艘狼形小艇撞上对方的后甲板。
+她带着一支借来的小队撞向一艘更大的船，把「我还能做什么」变成了唯一还答得上的问题：拯救号离港之后，阿拉里克在铁桥甲板上清点这一趟的亏空，高与大部分拉奇斯-达洛都没能带回来，他只能把注意力放在「妻子安全」这一件事上；塔拉辛用没有起伏的声调把航线的去向推成一桩内鬼案，又在他笨拙的安慰面前保持沉默，到了马普隆号上，她差点把乌尔杜佳的罪说给父亲听，话却在喉咙里停住。战场没有给她犹豫的时间：她带着十九艘蛾形小艇冲向五艘指挥舰，借帕苏阿号打空全部弩炮换来的一刻破口，把班特格家族的卡拉纳特号定为自己那一队的目标；帆与以太之心被打穿之后，她仍然把操纵杆推到底，让那艘狼形小艇撞上对方的后甲板。

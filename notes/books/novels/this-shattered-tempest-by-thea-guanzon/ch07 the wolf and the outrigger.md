@@ -35,6 +35,8 @@ modified: "2026-11-01"
 
 - **读者视角提示**：一个发抖的士兵喊出一句「Lachis’ka」，整场战斗的性质就换了。注意这里的因果被写成士兵的处境，不是她的魅力：他们不是被她打动，是被两套规矩夹住。
 
+  （同一场对峙里她心里还问过一句：Oryal 的尸体不在红山那批死者当中——那位达雅会不会没被毒死，悄悄逃了。班特格答不上来，只把这个话题撇开。）
+
 > **原句 3:** "The lightning cannons on the port side discharged, waves of brilliant white heat coursing through nearly all of the enemy vessels that had outflanked the Huktera. Masts were incinerated, various emblems going up in smoke."
 
 - **中文理解**：左舷的闪电炮一齐开火，白热的光浪扫过几乎全部包抄胡克特拉的敌舰。桅杆烧成灰烬，各家的徽记随烟散掉。
@@ -45,7 +47,19 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这是全章杀伤最大的一屏，而她一句命令都没下。她的胜利从这一刻起不由她操作，这件事会在结尾变成她的心事。
 
-> **原句 4:** "And the truly horrible thing was that she didn’t feel completely horrible about it. That she wasn’t regretful enough. There was a faint ember of vindictive satisfaction sparking in her veins, humming along with the lightning cannons."
+>
+
+> **原句 4:** "“Kneel,” she told Rajan Banteg. Fury and regret carved her voice into ragged fragments even as she raised it to be heard above rain and wind. Above all that everyone had sacrificed. “Kneel, my lord, or this storm takes you. And everything you hold dear.”"
+
+- **中文理解**：「跪下，」她对拉詹·班特格说。愤怒与悔意把她的声音削成参差的碎片，她还是把它抬到风雨之上。抬到所有人已经付出的代价之上。「跪下，大人，否则这场风暴会带走你。还有你所珍视的一切。」
+
+- **关键词**：Kneel · carved her voice · takes you
+
+- **为什么这样写**：命令短得只剩一个动词，前后两次重复；真正被写出来的不是威势，而是「愤怒与悔意」同时把声音削碎——她赢下这一仗靠的是名分和天时，不是魔法，所以这句话里没有一句在炫耀力量，只有「否则」和「一切」。
+
+- **读者视角提示**：降服不在这一块里：紧随其后约二十行，班特格的剑落在木板上、他跪下去、士兵们跟着伏首。这一块只写她在风雨里喊出那两个字——注意她给的条件是「保你性命」，而她真正想保的其实是这些人的命。
+
+> **原句 5:** "And the truly horrible thing was that she didn’t feel completely horrible about it. That she wasn’t regretful enough. There was a faint ember of vindictive satisfaction sparking in her veins, humming along with the lightning cannons."
 
 - **中文理解**：真正可怕的地方在于，她并不觉得自己全然可怕；她的悔意不够。有一小簇报复的快意在她血管里亮着，和闪电炮一起低鸣。
 
