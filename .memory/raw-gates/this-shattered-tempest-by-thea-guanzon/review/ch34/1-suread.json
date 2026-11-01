@@ -1,0 +1,135 @@
+{
+  "chapter": "ch34",
+  "source": "text/ch34_chapter_thirty_four.txt",
+  "char_total": 13643,
+  "events": [
+    {
+      "summary": "塔拉辛在“其间”（In-Between）抬头，发现丈夫阿拉里克正俯视着她，暗影门随他的怒意颤动。",
+      "quote": "When Talasyn lifted her head, it was to find her husband looming over her. Despite the sullen calm of his initial statement, he was staring down at her with burning eyes.",
+      "start": 52,
+      "end": 222
+    },
+    {
+      "summary": "阿拉里克冷笑说，即便在“其间”他也永远摆脱不了她。",
+      "quote": "“Even in the In-Between,” he continued with a scowl, “it seems that I’ll never be free of you.”",
+      "start": 1049,
+      "end": 1144
+    },
+    {
+      "summary": "塔拉辛伸手想触碰他确认不是幻觉，阿拉里克后退躲开，指尖只擦到他的袖边，她哭了起来。",
+      "quote": "She brought her hand up and he recoiled, taking a step back so that her fingertips only grazed the edge of his sleeve.",
+      "start": 2200,
+      "end": 2318
+    },
+    {
+      "summary": "阿拉里克指控她当初接近他是为了让他放松警惕、便于操纵。",
+      "quote": "“The truth is that you sought to lower my guard. So that I wouldn’t suspect your duplicity.”",
+      "start": 3736,
+      "end": 3828
+    },
+    {
+      "summary": "阿拉里克辩称血清与入侵都是父亲加赫里斯的计划，sariman 是马蒂尔准将偷走的，他婚后回城堡才知道。",
+      "quote": "The serum, the invasion—that was all my father’s plan, not mine. Commodore Mathire stole the sariman and I didn’t find out until I returned to the Citadel after the wedding.",
+      "start": 4871,
+      "end": 5044
+    },
+    {
+      "summary": "阿拉里克透露他没有签署《强化安全法令》，并说他要向自己证明能违抗父亲。",
+      "quote": "“I didn’t sign it,” Alaric repeated. “It wasn’t just because of you,” he added sullenly.",
+      "start": 6532,
+      "end": 6620
+    },
+    {
+      "summary": "月食结束，塔拉辛在黎明醒来；卡希尔在早餐时告诉她这是一种全新的魔法，她与阿拉里克的星辰永远交织。",
+      "quote": "“It truly is a new kind of magic,” Cahyir told her niece over shrimp-flecked rice cakes and tangles of grapefruit and seaweed. “Perhaps what it means for Lir already came to pass when you held back the World-Eater’s night.",
+      "start": 9066,
+      "end": 9288
+    },
+    {
+      "summary": "卡希尔送塔拉辛到聚落东门，塔拉辛握住姨母的手表示自己必须结束战争并道谢；卡希尔最后叮嘱她上山不要回头。",
+      "quote": "“I have to end the war, Aunt.” Talasyn placed her fingers over Cahyir’s, where they were still resting against her cheek.",
+      "start": 12775,
+      "end": 12896
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻（已决裂；她称他 husband，他唤她 Lachis’ka）",
+      "quote": "When Talasyn lifted her head, it was to find her husband looming over her.",
+      "start": 52,
+      "end": 126
+    },
+    {
+      "a": "Cahyir",
+      "b": "Talasyn",
+      "relation": "姨母与外甥女（Cahyir 称她 niece，并唤她 Alunsina）",
+      "quote": "“It truly is a new kind of magic,” Cahyir told her niece over shrimp-flecked rice cakes and tangles of grapefruit and seaweed.",
+      "start": 9066,
+      "end": 9192
+    },
+    {
+      "a": "Alaric",
+      "b": "Gaheris",
+      "relation": "父子（阿拉里克仍把自己与父亲加赫里斯视为一体）",
+      "quote": "He was still lumping himself in with Gaheris, and this ripped open an old wound that had been festering inside her for months.",
+      "start": 5558,
+      "end": 5684
+    },
+    {
+      "a": "Talasyn",
+      "b": "Sardovia",
+      "relation": "有条件的合作/同盟（她以保全阿拉里克性命为合作条件）",
+      "quote": "“I told Sardovia that I’d cooperate only if they spared your life—”",
+      "start": 7228,
+      "end": 7295
+    },
+    {
+      "a": "Talasyn",
+      "b": "Oryal",
+      "relation": "看管者与俘虏（daya 俘虏受守卫监视，等她从山顶回来再处置）",
+      "quote": "she was picking at her food without much enthusiasm, under the watchful eyes of several guards.",
+      "start": 9701,
+      "end": 9796
+    }
+  ],
+  "numbers": [
+    {
+      "value": "二十年",
+      "context": "塔拉辛与姨母分别时，把二十年未说出口的话与错过的时光都倾注在握手里",
+      "quote": "She gripped them tightly, pouring twenty years’ worth of unsaid words and missed moments into that touch.",
+      "start": 12897,
+      "end": 13002
+    },
+    {
+      "value": "数千年",
+      "context": "巴昆（World-Eater）已有数千年未入水",
+      "quote": "Bakun hadn’t taken to the water in thousands of years, so Talasyn figured that it was probably enjoying itself.",
+      "start": 11162,
+      "end": 11273
+    },
+    {
+      "value": "几步",
+      "context": "塔拉辛上山只走了几步便脚步迟疑",
+      "quote": "Talasyn had gone up only a few steps when her pace began to falter.",
+      "start": 13251,
+      "end": 13318
+    },
+    {
+      "value": "数根（several）",
+      "context": "一根 Sever 光柱熄灭，便有数根补上",
+      "quote": "Whenever one Sever deactivated, several more took its place, a constant flow of magic",
+      "start": 10894,
+      "end": 10979
+    },
+    {
+      "value": "一年",
+      "context": "过去一年她在双重身份间走钢丝的记忆",
+      "quote": "rooted to the spot by the harrowing memories of the past year’s balancing act, by the inevitability of him, and of this.",
+      "start": 3144,
+      "end": 3264
+    }
+  ],
+  "notes": "标题重复：第1行与第12行各出现一次 “Chapter Thirty-Four”，第2–11行为连续空行（提取残留）；正文段落之间普遍为双空行。文件为 LF 换行、UTF-8，共 165 行，末尾无多余空行。正文止于塔拉辛上山，无后记。"
+}

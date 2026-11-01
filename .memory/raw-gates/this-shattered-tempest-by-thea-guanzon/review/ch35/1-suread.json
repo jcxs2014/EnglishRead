@@ -1,0 +1,143 @@
+{
+  "chapter": "ch35",
+  "source": "text/ch35_chapter_thirty_five.txt",
+  "char_total": 13270,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Talasyn 独自走进歪树丛林，半小时后听见群山对她“歌唱”。",
+      "quote": "Half an hour into her trek—half an hour after she bade farewell to Cahyir and vanished into the jungle of crooked trees—Talasyn heard the mountains sing to her.",
+      "start": 52,
+      "end": 212
+    },
+    {
+      "i": 2,
+      "summary": "一头粗鬃弯牙的野猪从灌木中冲出，Talasyn 等它扑来后用匕首刺穿它的头骨。",
+      "quote": "Talasyn waited until it lunged and then thrust her dagger forward, driving the fanged blade through its skull.",
+      "start": 1182,
+      "end": 1292
+    },
+    {
+      "i": 3,
+      "summary": "一个沙哑的女声在她身后用多米尼恩语说她打得像不知道自己想要什么。",
+      "quote": "“You fight like someone who doesn’t know what she wants,” a husky feminine voice remarked behind her, speaking in the Dominion tongue.",
+      "start": 1798,
+      "end": 1932
+    },
+    {
+      "i": 4,
+      "summary": "最大的一头野猪用獠牙割开她的髋部，再以全身重量把她撞倒在地。",
+      "quote": "the lethal end of one tusk slicing into her hip before the beast kicked off the ground and slammed its whole weight into her",
+      "start": 2582,
+      "end": 2706
+    },
+    {
+      "i": 5,
+      "summary": "Talasyn 赤手抓住獠牙猛拧，拧断了野猪的脖子，随后捡回匕首。",
+      "quote": "Talasyn gritted her teeth and gripped those tusks and twisted, with a hoarse shout, with all her might. The boar’s neck snapped.",
+      "start": 3087,
+      "end": 3215
+    },
+    {
+      "i": 6,
+      "summary": "黑发女人现身在朝圣路上，自称是第一位 Zahiya-lachis 的 Iyaram，称 Talasyn 为“女儿”。",
+      "quote": "“Yes,” said the black-haired woman. Iyaram, the first Zahiya-lachis. The World-Eater’s great, devouring love. “I bring you greetings, daughter, from all those who came before.”",
+      "start": 4234,
+      "end": 4410
+    },
+    {
+      "i": 7,
+      "summary": "Alaric 在 Ashenheath 上空击毁一艘 Valisante 运载舰，残骸坠入被焚的城市。",
+      "quote": "Alaric felt no sense of triumph as the Valisante carrier disintegrated in the evening sky overhead.",
+      "start": 4413,
+      "end": 4512
+    },
+    {
+      "i": 8,
+      "summary": "在 In-Between 中，Alaric 警告 Talasyn 明天别出现在战场上，并说自己已摧毁 Valisa 一艘舰队母舰。",
+      "quote": "“I had better not catch you on the battlefield tomorrow, Talasyn,” he warned. “I’ve already destroyed one of Valisa’s fleet carriers. Your tactics aren’t going to work.”",
+      "start": 8210,
+      "end": 8379
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻（已反目、分属敌国的 estranged wife/husband）",
+      "quote": "After meeting his estranged wife in the In-Between, however, Alaric was out for blood.",
+      "start": 5339,
+      "end": 5425
+    },
+    {
+      "a": "Iyaram",
+      "b": "Talasyn",
+      "relation": "先祖与后裔（Iyaram 称她为 daughter）",
+      "quote": "“I bring you greetings, daughter, from all those who came before.”",
+      "start": 4344,
+      "end": 4410
+    },
+    {
+      "a": "Iyaram",
+      "b": "World-Eater",
+      "relation": "伴侣／爱侣（“The World-Eater’s great, devouring love”）",
+      "quote": "“Yes,” said the black-haired woman. Iyaram, the first Zahiya-lachis. The World-Eater’s great, devouring love.",
+      "start": 4234,
+      "end": 4343
+    },
+    {
+      "a": "Talasyn",
+      "b": "Khaede",
+      "relation": "同袍／被保护者（她为保 Khaede 的卧底身份而隐瞒）",
+      "quote": "I had to protect Khaede. If her cover had been blown, she would have been put to death.",
+      "start": 9955,
+      "end": 10042
+    },
+    {
+      "a": "Alaric",
+      "b": "his mother",
+      "relation": "母子（母亲临终的话在他耳边回响）",
+      "quote": "His mother’s last words to him rang in his ears over the chaos, across the ocean of memory.",
+      "start": 5777,
+      "end": 5868
+    }
+  ],
+  "numbers": [
+    {
+      "value": "half an hour",
+      "context": "Talasyn 进入丛林后半小时听见山鸣",
+      "quote": "Half an hour into her trek—half an hour after she bade farewell to Cahyir",
+      "start": 52,
+      "end": 125
+    },
+    {
+      "value": "the past hour",
+      "context": "过去一小时里 Alaric 的 Shadowgate 在战场上不断变形厮杀",
+      "quote": "For the past hour the Shadowgate had raged through the battlefield",
+      "start": 5426,
+      "end": 5492
+    },
+    {
+      "value": "two frigates",
+      "context": "Ashenheath 守住了，代价是两艘护卫舰",
+      "quote": "Ashenheath had been successfully defended at the cost of two frigates",
+      "start": 6033,
+      "end": 6102
+    },
+    {
+      "value": "over half my fleet",
+      "context": "Alaric 称因 Talasyn 损失了过半舰队",
+      "quote": "I killed my own men to help you escape. I lost over half my fleet because of you.",
+      "start": 12679,
+      "end": 12760
+    },
+    {
+      "value": "several of Valisa’s divisions",
+      "context": "Valisa 数支分队脱离主力舰队向内陆推进",
+      "quote": "Several of Valisa’s divisions had splintered off from the main allied fleet",
+      "start": 4677,
+      "end": 4752
+    }
+  ],
+  "notes": "原文首行与第 12 行重复出现标题 \"Chapter Thirty-Five\"，标题与正文之间残留多处空行；正文分两条线：Talasyn 在 Path of the Sun 遭野猪幻象并遇 Iyaram，Alaric 在 Ashenheath 战后与 Talasyn 于 In-Between 对峙。"
+}

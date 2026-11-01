@@ -75,7 +75,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：幻影刚走，声音就来，两件事挨得太近。读者有理由怀疑这是同一种东西换了张脸。
 
-> **原句 7:** "We’ve all done terrible things; such is the nature of warfare. The difference in character comes down to whether or not we lose sight of why we did them. If you allow yourself to forget what you were fighting for in the first place, it will all have been for nothing."
+> **原句 7:** "“You had a poisoned knife with you when we fled Eskaya,” she whispered. “That’s how you were able to kill the two Lachis-dalo with us. They didn’t deem you a threat because you were just a nursemaid."
+
+- **中文理解**：「我们从埃斯凯亚逃走的时候，你身上带着一把淬毒的刀，」她低声说。「你就是这么杀掉跟我们同行的两名拉奇斯-达洛的。他们没把你当威胁，因为你只是个奶妈。」
+
+- **关键词**：poisoned knife · two Lachis-dalo · nursemaid
+
+- **为什么这样写**：这一段是塔拉辛在把二十年前那件事重新算一遍，而算法是「一件物证 + 一句反推」：先点出那把刀，再点出死者，最后给出他们为什么没防备——因为她只是个奶妈。三个短句，一句比一句更接近「你早就不是我以为的那个人」。
+
+- **读者视角提示**：紧随其后的两段（不在本块引语内）才把整件事补完：奶妈说她留在了大草原、在邻城终老，又说「风暴舰开过来的时候我已经死了」；她还说辛坦亲王是「两害中较轻的那个」，因为她相信每场革命都需要一个领袖。同章更早处还有一头 biyak-sang 巨蜥的第三度袭击（她把握柄连刃推进它的眼窝），那是本章唯一一处她没有同伴的战斗。引语在对白中途收住，内层引号依原文未闭合（原话在她被留下那句之后才收口）。
+
+> **原句 8:** "We’ve all done terrible things; such is the nature of warfare. The difference in character comes down to whether or not we lose sight of why we did them. If you allow yourself to forget what you were fighting for in the first place, it will all have been for nothing."
 
 - **中文理解**：说话的人不替自己辩解：大家都做过可怕的事，战争就是这样；人与人之间的分别，只在于有没有忘记当初为什么去做。
 
@@ -85,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她开口说的是「我们」而不是「我」，把自己算进同一批人里。所以她的话听起来不像说教，像交代。
 
-> **原句 8:** "That is almost the last straw. The Zahiya-lachis begins to make plans, just in case. Should Hanan Ivralis defy her again—well, if a wild thing cannot be tamed, then necessity dictates that it must be put down."
+> **原句 9:** "That is almost the last straw. The Zahiya-lachis begins to make plans, just in case. Should Hanan Ivralis defy her again—well, if a wild thing cannot be tamed, then necessity dictates that it must be put down."
 
 - **中文理解**：这是「几乎」的最后一根稻草：扎希亚-拉奇斯开始做最坏的打算——哈南·伊弗拉利斯若再违逆她一次，那么按她的逻辑，驯不服的野东西就该被除掉。
 
@@ -95,7 +105,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「almost」。她此刻还留着一线，决定尚未落地；这一线悬着，比已经下手更让人不安。
 
-> **原句 9:** "“He let me go,” she said slowly. The endpoint of exhaustion was clarity and her head spun with it at this great height, amidst the icy stars. “It wasn’t the right decision for his people, but he let me go, anyway.”"
+> **原句 10:** "“He let me go,” she said slowly. The endpoint of exhaustion was clarity and her head spun with it at this great height, amidst the icy stars. “It wasn’t the right decision for his people, but he let me go, anyway.”"
 
 - **中文理解**：力竭反而带来清醒。她一字一字地说：放她走对他的子民并不是正确的决定，可他还是放了——同一句话说了两遍，末尾添了一个「还是」。
 
@@ -105,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：紧接着的下一段只补了一句判词：在崩塌开始的那一刻，他选了她。本章到这里，才把「放她走」和「选择她」并成同一件事。
 
-> **原句 10:** "A better world. A dream of peace. Wielding the Lightweave once more. Gaheris’s defeat. Urduja’s comeuppance. All these were nobler aims, but one eclipsed them all within the labyrinth that was Talasyn’s heart."
+> **原句 11:** "A better world. A dream of peace. Wielding the Lightweave once more. Gaheris’s defeat. Urduja’s comeuppance. All these were nobler aims, but one eclipsed them all within the labyrinth that was Talasyn’s heart."
 
 - **中文理解**：更好的世界、和平的梦、重新握起光织、盖赫里斯败亡、乌尔杜佳遭报——这些都算高尚，但塔拉辛心里有一个答案，把它们的份量全压了下去。
 
@@ -115,7 +125,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：清单越正确，后面那个答案就越私心。这个落差就是全章的落点。
 
-> **原句 11:** "Her arms opened wide and she flew into the embrace of the man who had bent to pick her up. Although his back was turned to Talasyn, she would know that tall frame and those broad shoulders anywhere, clad in high-collared black silk."
+> **原句 12:** "Her arms opened wide and she flew into the embrace of the man who had bent to pick her up. Although his back was turned to Talasyn, she would know that tall frame and those broad shoulders anywhere, clad in high-collared black silk."
 
 - **中文理解**：画面里一个更年幼的她张开手臂，扑进弯腰抱她的男人怀里。他背对着塔拉辛，可那副高肩宽背她认得，穿的是高领黑绸。
 
@@ -125,7 +135,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：辨认由「她认得」完成，读者被放在与她相同的位置上：我们看见的也只是一个背影。
 
-> **原句 12:** "“Rest now, Lachis’ka,” murmured Iyaram as Talasyn collapsed onto the soft, grassy earth, breath emerging in ragged gasps. “This is as far as I go. Rest now, and wake with the sunrise.”"
+> **原句 13:** "“Rest now, Lachis’ka,” murmured Iyaram as Talasyn collapsed onto the soft, grassy earth, breath emerging in ragged gasps. “This is as far as I go. Rest now, and wake with the sunrise.”"
 
 - **中文理解**：伊亚拉姆让她歇下，说这里就是自己能送到的最远处，然后叫她随日出醒来。
 

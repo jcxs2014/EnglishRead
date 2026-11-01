@@ -43,7 +43,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：他追问的不是背叛这件事，而是动机——他把她的亲近读成一套让他放松戒备的手段，等于把两人之间所有真实的可能性一次抽走。更重的一笔是「He wasn’t looking at her」：话是对着她说的，目光却落在别处——不看，本身就是一种判断。
 
-- **读者视角提示**：顺着他的推论走一遍：同床、降低戒心、便于操控。这条链在事实上断在哪一环，读者手里有他没有的材料；但他此刻需要的不是真相，是一个能让自己不疼的版本。
+- **读者视角提示**：顺着他的推论走一遍：同床、降低戒心、便于操控。这条链在事实上断在哪一环，读者手里有他没有的材料；但他此刻需要的不是真相，是一个能让自己不疼的版本。紧随其后的段落（不在本块引语内）才是她的回答，也是本章第一处翻转：她说自己不是装的，并交代「我告诉萨多维亚人，他们放过你的命，我才合作」——话一出口她就知道又多犯了一次错。
 
 > **原句 4:** "“It was to keep you safe,” Alaric interrupted, still refusing to meet her eyes. “The serum, the invasion—that was all my father’s plan, not mine. Commodore Mathire stole the sariman and I didn’t find out until I returned to the Citadel after the wedding."
 
@@ -75,7 +75,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「alone」是本块之前那两段的答案：她再次伸手，他立刻挪开（见本块之前的两段）；随后空间把她送回一个没有他的地方。注意顺序，是拒绝先发生，天象才跟上。
 
-> **原句 7:** "Something in Talasyn’s soul gave a throb at that promise. She’d been following orders her whole life. It felt so rare and precious, to be given the gift of choice."
+> **原句 7:** "“It truly is a new kind of magic,” Cahyir told her niece over shrimp-flecked rice cakes and tangles of grapefruit and seaweed. “Perhaps what it means for Lir already came to pass when you held back the World-Eater’s night. What it means for you and Alaric Ossinast—that’s harder to say. Though it’s clear that your stars and his are forever intertwined.”"
+
+- **中文理解**：「这确实是一种全新的魔法，」卡希尔一边把虾仁拌进米糕、一边对侄女说，桌上还摆着西柚与海藻缠成的凉菜。「它对里尔意味着什么，也许在你挡住噬世者那一夜时就已经应验了。可它对你和阿拉里克·奥西纳斯特意味着什么，就难说了。不过有一点很清楚：你的星辰和他的，从此永远缠在一起。」
+
+- **关键词**：new kind · came to pass · intertwined
+
+- **为什么这样写**：这是全章唯一一段「由别人替这段婚姻下定义」的话，而它的说法很克制：先承认是新东西（truly），再把它对世界的意义推给过去（already came to pass），只剩最难说的那一半留给他们两个人；最后一句才给出一句确定的判断（forever intertwined）——而且是用星辰说的，不是用感情说的。
+
+- **读者视角提示**：注意这段话是在一张饭桌上讲的，桌上摆的是虾仁米糕、西柚和海藻——叙述没有为「星辰」腾出任何仪式感，反而让它听起来像饭后随口的一句总结。紧随其后的两段（不在本块引语内）把她的另一句话补上：走这条路「也许」能拿回她要的东西，以及「别回头，回头路会扭曲」。
+
+> **原句 8:** "Something in Talasyn’s soul gave a throb at that promise. She’d been following orders her whole life. It felt so rare and precious, to be given the gift of choice."
 
 - **中文理解**：那句承诺让她的灵魂一颤。她这辈子都在听命行事，所以「可以选择」这件事显得稀有而贵重——它被当成一份礼物递到她面前。
 
@@ -85,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一段全是内心，但起点是一个极轻的动作。读的时候留意顺序：先有身体的一颤，才有「rare and precious」的判断。她不是先想明白再感动，而是先被击中，再替这份感受找词。
 
-> **原句 8:** "“I have to end the war, Aunt.” Talasyn placed her fingers over Cahyir’s, where they were still resting against her cheek. She gripped them tightly, pouring twenty years’ worth of unsaid words and missed moments into that touch."
+> **原句 9:** "“I have to end the war, Aunt.” Talasyn placed her fingers over Cahyir’s, where they were still resting against her cheek. She gripped them tightly, pouring twenty years’ worth of unsaid words and missed moments into that touch."
 
 - **中文理解**：塔拉辛把手覆在卡希尔仍贴着她脸颊的手指上，用力握紧，把二十年分量的未说之词与错过的时刻全压进这一握。她告诉姑母，这场战争必须由她来终结。
 

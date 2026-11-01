@@ -1,0 +1,143 @@
+{
+  "chapter": "ch36",
+  "source": "text/ch36_chapter_thirty_six.txt",
+  "char_total": 22270,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Iyaram 怂恿 Talasyn 干脆杀掉 Alaric，Talasyn 用吃干粮来拒绝回应。",
+      "quote": "“You know,” the first Zahiya-lachis said conversationally, “I think you should just kill him.”",
+      "start": 513,
+      "end": 607
+    },
+    {
+      "i": 2,
+      "summary": "Iyaram 把两种胜负结局都推演一遍，断言这段故事没有好结局；Talasyn 只答走一步看一步。",
+      "quote": "Either way, there is no happy ending to this story. Not for you and him.",
+      "start": 1758,
+      "end": 1830
+    },
+    {
+      "i": 3,
+      "summary": "山道上 Alaric 的声音在身后唤她，Talasyn 谨记 Cahyir 的告诫不回头，继续上行。",
+      "quote": "But she couldn’t turn around. She had to keep moving forward. There was no way out but through.",
+      "start": 8230,
+      "end": 8325
+    },
+    {
+      "i": 4,
+      "summary": "当天第三头 biyak-sang 巨蜥扑倒她，Talasyn 把匕首推入其脑内将它杀死。",
+      "quote": "She pushed, and the lethal end sank into the brain. The monitor lizard emitted one last shrill scream and then dissolved into a flock of—",
+      "start": 6457,
+      "end": 6594
+    },
+    {
+      "i": 5,
+      "summary": "巨蜥化作秃鹫，她回到角鸮头城；乳母 Indusa Dei 一边替她编发，一边讲自己当年留下她的选择。",
+      "quote": "“I used to do this for your mother. Your hair is exactly like hers.”",
+      "start": 7745,
+      "end": 7813
+    },
+    {
+      "i": 6,
+      "summary": "Talasyn 攀上西城墙，aetherspace 向她展开旧事：Urduja 得知儿媳 Hanan 反叛后打算除掉她。",
+      "quote": "Should Hanan Ivralis defy her again—well, if a wild thing cannot be tamed, then necessity dictates that it must be put down.",
+      "start": 15242,
+      "end": 15366
+    },
+    {
+      "i": 7,
+      "summary": "Iyaram 在城垛上伸手追问她到底想要什么，Talasyn 随后说出她要的是丈夫回来。",
+      "quote": "“Well?” Iyaram prompted. Her hand reached out low from the battlement like an offering. “Have you figured out what you want yet?”",
+      "start": 17916,
+      "end": 18045
+    },
+    {
+      "i": 8,
+      "summary": "Iyaram 让她看见王座上的幼女（可能是她与 Alaric 的女儿）后消失，Talasyn 登上太阳之路的峰顶倒下。",
+      "quote": "“This is one of many possible futures.” Iyaram’s voice was staticky and faraway.",
+      "start": 19782,
+      "end": 19862
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Iyaram",
+      "relation": "引导者／第一任 Zahiya-lachis 的幻影，时来时去",
+      "quote": "For all that Iyaram styled herself Talasyn’s guide, she came and went with the wind.",
+      "start": 50,
+      "end": 134
+    },
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻，如今分属敌对阵营、彼此疏离",
+      "quote": "It wasn’t him. It was daytime and there was no lunar eclipse, and he would never say her name like that, the way things were between them now.",
+      "start": 4616,
+      "end": 4758
+    },
+    {
+      "a": "Talasyn",
+      "b": "Indusa Dei",
+      "relation": "乳母，当年把她丢在角鸮头城孤儿院台阶上",
+      "quote": "It had told her to be strong before its owner deposited her on the steps of the orphanage in Hornbill’s Head.",
+      "start": 7853,
+      "end": 7962
+    },
+    {
+      "a": "Urduja Silim",
+      "b": "Hanan Ivralis",
+      "relation": "君主与儿媳，儿媳一入宫就被视为麻烦",
+      "quote": "Hanan Ivralis is a problem from the moment she arrives at the Roof of Heaven.",
+      "start": 13220,
+      "end": 13297
+    },
+    {
+      "a": "Urduja Silim",
+      "b": "Talasyn",
+      "relation": "祖母与外孙女，单方面宣布她为 Lachis’ka 继承人",
+      "quote": "Alunsina will rule the Nenavar Dominion one day. She is my only female descendant. It is her fate.",
+      "start": 14655,
+      "end": 14753
+    }
+  ],
+  "numbers": [
+    {
+      "value": "fourteen years",
+      "context": "Talasyn 在角鸮头城挨过的饥荒与孤苦年数",
+      "quote": "All those years of hunger and loneliness and drought. Fourteen years’ worth of misery.",
+      "start": 7071,
+      "end": 7157
+    },
+    {
+      "value": "eleven",
+      "context": "王座上幼女的最大年龄",
+      "quote": "The child sitting on the throne couldn’t have been older than eleven.",
+      "start": 19450,
+      "end": 19519
+    },
+    {
+      "value": "third",
+      "context": "当天袭击 Talasyn 的 biyak-sang 已是第三头",
+      "quote": "It was the third of its kind to attack Talasyn today",
+      "start": 5790,
+      "end": 5842
+    },
+    {
+      "value": "two",
+      "context": "乳母当年用毒刀杀死的 Lachis-dalo 人数",
+      "quote": "That’s how you were able to kill the two Lachis-dalo with us.",
+      "start": 8401,
+      "end": 8462
+    },
+    {
+      "value": "seven moons",
+      "context": "城墙顶上空的七个月亮",
+      "quote": "the light of the seven moons were so much like Urduja’s",
+      "start": 15728,
+      "end": 15783
+    }
+  ],
+  "notes": "源文件开头 11 行为空行加重复标题（第 1 行与第 12 行均为 “Chapter Thirty-Six”），正文自第 15 行起；段间保留双空行。结尾无章节分隔标记。"
+}

@@ -15,17 +15,7 @@ modified: "2026-11-01"
 
 ## 精读
 
-> **原句 1:** "They weren’t—normal, for lack of a better word. She wasn’t even sure if they were real, suppressing the temptation to look back to see if their carcasses were still there. Somehow, she knew they wouldn’t be."
-
-- **中文理解**：她找不到更合适的说法，只能说这些东西「不正常」；她甚至不确定它们是不是真的，还得压住回头看一眼的冲动——想确认尸体还在不在。而「不知怎么，她就是知道」：它们不会在。
-
-- **关键词**：look back · still there · better word
-
-- **为什么这样写**：三个短句完成一次怀疑的升级：先是否定判断，破折号把 normal 顶在句子中间，读起来像临时改口；再给出一个具体到可以执行的冲动，回头去查尸体；最后用 Somehow 跳过全部证据，直接给结论。作者不解释这座山为什么能造出假兽，只让她确认「假的」，读者于是和她一样，除了往前走没有别的选择。
-
-- **读者视角提示**：这一块的分量在「她没有回头」。作者故意不给不回头的理由，只给那股被压下去的冲动；于是后面每一场打斗都不像狩猎，更像过关。
-
-> **原句 2:** "It was a wild rush, more feeling than actual sound, layered within birdsong and the chatter of insects and the roar of distant waterfalls as though it existed in the heart of all these things. It reminded her of the call of the Light Sever at the ruins of the Belian shrine."
+> **原句 1:** "It was a wild rush, more feeling than actual sound, layered within birdsong and the chatter of insects and the roar of distant waterfalls as though it existed in the heart of all these things. It reminded her of the call of the Light Sever at the ruins of the Belian shrine."
 
 - **中文理解**：那是一股扑面而来的猛流——与其说是声音，不如说是感觉，它嵌在鸟鸣、虫声与远处瀑布的轰鸣之中，仿佛这些东西的心脏就是它。这让她想起贝利安神祠废墟上光之界裂的召唤。
 
@@ -34,6 +24,16 @@ modified: "2026-11-01"
 - **为什么这样写**：先铺三种环境音（鸟、虫、瀑布），再用一句「more feeling than actual sound」把它们全部推翻，读者于是明白这不是风景描写，而是有意志的东西在叫她。第二句拿一处已知的界裂作比，让这座山不再只是地形，而是一道会呼吸的裂口。同一自然段后半还写树叶与翅膀「边缘薄得像羊皮纸，在那里又不完全在」，那是这个比喻在视觉上的落地。
 
 - **读者视角提示**：留意「她想起」这三个字。认出一个东西，往往意味着她此前见过它；作者把熟悉感摆在恐惧前面，比直接写害怕更让人不安。
+
+> **原句 2:** "They weren’t—normal, for lack of a better word. She wasn’t even sure if they were real, suppressing the temptation to look back to see if their carcasses were still there. Somehow, she knew they wouldn’t be."
+
+- **中文理解**：她找不到更合适的说法，只能说这些东西「不正常」；她甚至不确定它们是不是真的，还得压住回头看一眼的冲动——想确认尸体还在不在。而「不知怎么，她就是知道」：它们不会在。
+
+- **关键词**：look back · still there · better word
+
+- **为什么这样写**：三个短句完成一次怀疑的升级：先是否定判断，破折号把 normal 顶在句子中间，读起来像临时改口；再给出一个具体到可以执行的冲动，回头去查尸体；最后用 Somehow 跳过全部证据，直接给结论。作者不解释这座山为什么能造出假兽，只让她确认「假的」，读者于是和她一样，除了往前走没有别的选择。
+
+- **读者视角提示**：这一块的分量在「她没有回头」。作者故意不给不回头的理由，只给那股被压下去的冲动；于是后面每一场打斗都不像狩猎，更像过关。也正是这个「不回头」有具体出处：紧随其后的一段（不在本块引语内）里，一个沙哑的女声在她背后用内纳瓦伦语说，「你打起来像个不知道自己要什么的人」，又说「那在这里帮不了你」。
 
 > **原句 3:** "Talasyn gritted her teeth and gripped those tusks and twisted, with a hoarse shout, with all her might. The boar’s neck snapped. It went limp and collapsed, a musky, slobber-coated deadweight that she threw off with a grunt."
 
@@ -75,7 +75,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「for all the world like」这种老派说法，它给句子抹上一层黑色幽默。读者会先于他本人发现：他第一眼注意到的是她的头发和眼睛，不是她手里的刀。
 
-> **原句 7:** "I killed my own men to help you escape. I lost over half my fleet because of you. You were never able to separate me from the war during our marriage, and I will never be able to separate you from that moment."
+> **原句 7:** "“I had better not catch you on the battlefield tomorrow, Talasyn,” he warned. “I’ve already destroyed one of Valisa’s fleet carriers. Your tactics aren’t going to work.”"
+
+- **中文理解**：「明天最好别让我在战场上碰到你，塔拉辛，」他警告道。「我已经打掉一艘瓦利萨的舰队母舰了。你们那套打法行不通。」
+
+- **关键词**：battlefield tomorrow · fleet carriers · tactics
+
+- **为什么这样写**：两句话里没有一句在问她过得好不好。第一句是命令式的担心（had better not），第二句立刻把担心换算成战果（已经打掉一艘母舰）。他把「别去」说成「打不过」，这样就不必承认自己在求她。
+
+- **读者视角提示**：同段前半（不在本块引语内）写他坐在一片并不存在的地板上、抬头看她时眼神「纯冰」。这个姿势很关键：他坐得比她低，说的却全是硬话。
+
+> **原句 8:** "I killed my own men to help you escape. I lost over half my fleet because of you. You were never able to separate me from the war during our marriage, and I will never be able to separate you from that moment."
 
 - **中文理解**：我为了帮你逃走，杀了自己的人；因为你，我折了过半舰队；婚后你从来没能把我从战争里分出来，而我也永远没法把你从那一刻里分出来。
 
