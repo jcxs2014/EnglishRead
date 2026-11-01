@@ -1,0 +1,43 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch41",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch41_epilogue.txt",
+ "facts": [
+  {
+   "fact": "全书最后一页：Kirkhill 安养院《临终关怀与姑息治疗登记册》上的病人报告，2025 年 1 月 1 日",
+   "anchor": "Patient report: Arthur Sanderson Date: January 1st, 2025 Kirkhill Hospice Patient Information Supportive and Palliative Care Register",
+   "start": 38,
+   "end": 177
+  },
+  {
+   "fact": "病人身份三字段：出生日期、编号 911900276、紧急联络人 Lucy Fox 与 Greg Sanderson",
+   "anchor": "DOB: 12/04/1939 Patient Number: 911900276 Next of kin: Lucy Fox, Greg Sanderson",
+   "start": 180,
+   "end": 263
+  },
+  {
+   "fact": "临床备注：病人大部分时间无法说话，只有短暂的清醒间歇",
+   "anchor": "Notes: Patient remains largely non-verbal, with brief intervals of lucidity.",
+   "start": 266,
+   "end": 342
+  },
+  {
+   "fact": "对访客无反应",
+   "anchor": "No response to visitors.",
+   "start": 343,
+   "end": 367
+  },
+  {
+   "fact": "站立需两人搀扶",
+   "anchor": "Requires two-person assist to stand.",
+   "start": 368,
+   "end": 404
+  },
+  {
+   "fact": "每日睡 18–22 小时；DNR（不予复苏）状态：无——书名逐字兑现",
+   "anchor": "Sleeps 18–22 hours a day. DNR status: Nil.",
+   "start": 405,
+   "end": 449
+  }
+ ]
+}
