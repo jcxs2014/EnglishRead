@@ -1,0 +1,150 @@
+{
+  "chapter": "ch43",
+  "source": "text/ch43_chapter_forty_three.txt",
+  "char_total": 14732,
+  "events": [
+    {
+      "i": 1,
+      "summary": "塔拉辛午夜后离开新居，不许守卫跟随，独自在宫殿走廊游荡并登上屋顶塔基",
+      "quote": "She left her new quarters, expressly forbidding the guards stationed outside from following her. They balked at that but she was firm in wanting to be alone.",
+      "start": 265,
+      "end": 422
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛要出征，命巴昆不要随行、回阿卡塔马索克去，心里明白这是个大错",
+      "quote": "“I’m off to war soon,” Talasyn said. “Don’t come with me. You should return to Aktamasok.”",
+      "start": 2051,
+      "end": 2141
+    },
+    {
+      "i": 3,
+      "summary": "塔拉辛再无动作前跪低，额头抵住世界吞噬者闭着的唇，说自己是她的后代却不是她",
+      "quote": "Standing there atop the gilded Roof of Heaven, beneath the seven moons, she bowed, resting her forehead against the World-Eater’s closed lips.",
+      "start": 2984,
+      "end": 3126
+    },
+    {
+      "i": 4,
+      "summary": "巴昆展翅飞走，方向却不是阿卡塔马索克；天亮后派出的人回报各族巡逻队都没见它回巢",
+      "quote": "Talasyn watched it fly off, and soon her lips tilted in a confused frown as she realized that the dragon was heading in the opposite direction of Aktamasok.",
+      "start": 3535,
+      "end": 3691
+    },
+    {
+      "i": 5,
+      "summary": "塔拉辛恢复二十一年前被免职的拉帕特上尉军职，任命其为将军",
+      "quote": "But the civil war has long been over and it is high time for us to lay its ghosts to rest. Today I am reinstating you.”",
+      "start": 5758,
+      "end": 5877
+    },
+    {
+      "i": 6,
+      "summary": "埃克利回报迪仓逃到利达加特岛高脚村后落湖溺死、已验尸，塔拉辛命宫里供养其家人",
+      "quote": "When I arrived there, however, they said he had fallen into the lake and drowned. I had the body exhumed and it did look to be him, Your Majesty.”",
+      "start": 7479,
+      "end": 7625
+    },
+    {
+      "i": 7,
+      "summary": "塔拉辛撤销王室对尼安哈与拉詹·埃斯蒂马婚约的认可，命她即刻退婚",
+      "quote": "“I am rescinding the royal house’s approval of this betrothal. Break it off.",
+      "start": 9806,
+      "end": 9882
+    },
+    {
+      "i": 8,
+      "summary": "首次大议事会上群臣吵成一团，塔拉辛宣称与凯萨斯的同盟早已破裂，逼众人表态",
+      "quote": "“If we do nothing,” Talasyn concluded, “then we don’t get to complain about the outcome. So now we must choose.”",
+      "start": 14619,
+      "end": 14731
+    }
+  ],
+  "relations": [
+    {
+      "a": "塔拉辛",
+      "b": "巴昆",
+      "relation": "龙与其人类羁绊的继承者（非原主，仅是其回响）",
+      "quote": "“I’m the first aethermancer to be her descendant and that’s why you and I can see each other’s hearts. But I’ll never be her.”",
+      "start": 2773,
+      "end": 2899
+    },
+    {
+      "a": "塔拉辛",
+      "b": "亚内·拉帕特",
+      "relation": "君臣：新女王免其旧罪、擢升将军，拉帕特宣誓效忠",
+      "quote": "He saluted fervently, clicking his heels together, his head held high. “I shall serve you well, Your Majesty,” he vowed, choked with emotion.",
+      "start": 6111,
+      "end": 6252
+    },
+    {
+      "a": "塔拉辛",
+      "b": "埃克利",
+      "relation": "君臣：塔拉辛将其从队长擢升为皇家卫队统领，埃克利向她复命",
+      "quote": "Ekli, who had risen overnight from kaptan of Her Grace’s surviving Lachis-dalo to the commander of Her Majesty’s royal guard",
+      "start": 6947,
+      "end": 7071
+    },
+    {
+      "a": "尼安哈",
+      "b": "苏拉奎尔",
+      "relation": "亲密/疑似恋人（她退婚后他追出走廊）",
+      "quote": "It sounded as though he was unceremoniously cut off by something pressing over his lips, and mercifully the door closed before Talasyn could hear the rest of it.",
+      "start": 10441,
+      "end": 10602
+    },
+    {
+      "a": "尼安哈",
+      "b": "拉詹·埃斯蒂马",
+      "relation": "政治婚约（由亡母在乌尔都贾建议下安排，被塔拉辛撤销）",
+      "quote": "“Quite so, Harlikaan,” Niamha replied brightly. “It was arranged by my late mother at Queen Urduja’s suggestion.",
+      "start": 9058,
+      "end": 9170
+    }
+  ],
+  "numbers": [
+    {
+      "value": "20–21 年",
+      "context": "拉帕特被乌尔都贾剥夺军衔距今的时间",
+      "quote": "“Kaptan Rapat,” Talasyn said, “twenty years ago—almost twenty-one, now—my grandmother stripped you of your rank for failing to stop Sintan Silim’s forces from breaching the Dominion capital.",
+      "start": 5567,
+      "end": 5757
+    },
+    {
+      "value": "一千年",
+      "context": "巴昆每千年只苏醒一次且为时极短",
+      "quote": "But Bakun was supposed to wake only once and only briefly every thousand years. Talasyn had disrupted its life cycle out of sheer desperation.",
+      "start": 2476,
+      "end": 2618
+    },
+    {
+      "value": "七",
+      "context": "照亮塔拉辛穿行宫殿走廊的月亮数量",
+      "quote": "The seven moons lit her path as she wandered the royal palace’s marble hallways, her heavy steps eventually taking her up one staircase after another",
+      "start": 425,
+      "end": 574
+    },
+    {
+      "value": "近一年",
+      "context": "全体国民躲进 dominion 境内躲避夜帝国的时长",
+      "quote": "The Sardovians spent nearly a year hiding from the Night Empire in Dominion space, while at the same time gathering resources and allies.",
+      "start": 12506,
+      "end": 12643
+    },
+    {
+      "value": "第一次",
+      "context": "阿伦西娜·伊夫拉利斯治下的首次大议事会",
+      "quote": "the heads of every noble house scattered throughout the Dominion archipelago descended upon the Roof of Heaven for the first grand assembly of Alunsina Ivralis’s reign",
+      "start": 10703,
+      "end": 10870
+    },
+    {
+      "value": "数千年",
+      "context": "塔拉辛的婚姻终结的 Nenavar 孤立主义持续时长",
+      "quote": "My marriage brought an end to thousands of years of Nenavarene isolationism.",
+      "start": 14300,
+      "end": 14376
+    }
+  ],
+  "notes": "原文开头有重复标题：第1行与第12行各出现一次 “Chapter Forty-Three”，中间夹约10个空行，属提取件残留。个别引语跨句成段（如第171段把 “My marriage… contend with it.” 整段包在引号内、说话人归属落在段中），不影响逐字取片。第87段 “Lachis-dalo” 用连字符，与全书他处 “Lachis’ka” 的写法不一致，疑为原文/排版差异，照录。第120段 “I don’t like him” 后紧跟无引号叙述再起引号，引号配对略乱，照录。"
+}

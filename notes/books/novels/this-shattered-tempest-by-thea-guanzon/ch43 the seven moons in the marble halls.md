@@ -48,7 +48,7 @@ modified: "2026-11-01"
 - **中文理解**：巴昆退开，眼睛睁开时短暂地亮了一下。它展开白翼升空，巨大的影子遮住了王宫上方的月光。塔拉辛看着它飞走，很快嘴唇拧出一个困惑的皱眉——她发现龙正朝阿克塔马索克的反方向去。
 - **关键词**：white wings · vast shadow · confused frown
 - **为什么这样写**：前两句全是庄严：亮眼、展翼、影子盖住月光，读起来像告别的高潮。第三句用「confused frown」把庄严拆掉——她放它回山，它却去了别处。整段的分量都压在最后那个方向上。
-- **读者视角提示**：「blocking the moonlight」是一个极短的月食意象：光被挡住的那一瞬，正好也是她看不清它去向的时候。
+- **读者视角提示**：「blocking the moonlight」是一个极短的月食意象：光被挡住的那一瞬，正好也是她看不清它去向的时候。紧随的两段（不在本块引语内）交代了它飞去的方向：她随即发现它并没有朝阿卡塔马索克去；天亮后派出的几名信使回报，霍克特拉的各支巡逻队都没见它回巢。
 
 > **原句 6:** "“Kaptan Rapat,” Talasyn said, “twenty years ago—almost twenty-one, now—my grandmother stripped you of your rank for failing to stop Sintan Silim’s forces from breaching the Dominion capital. But the civil war has long been over and it is high time for us to lay its ghosts to rest. Today I am reinstating you.”"
 
@@ -57,14 +57,24 @@ modified: "2026-11-01"
 - **为什么这样写**：她先把旧账算得一丝不差——二十年、快二十一年、辛坦·西利姆、都城失守——用的是宣判的语气；再说「该把鬼魂安顿下来」，一句话把宣判换成赦免。数字越精确，赦免越像是算过的，而不是一时心软。
 - **读者视角提示**：「lay its ghosts to rest」是葬礼用语，她给内战办的是葬礼，不是庆功。注意她说的不是「我原谅你」，而是「时候到了」。
 
-> **原句 7:** "“I am rescinding the royal house’s approval of this betrothal. Break it off. Your mother will simply have to take me to task when I meet her in the spirit world.”"
+> **原句 7:** "In truth, it wasn’t entirely surprising. Lueve Rasmey would have made sure to wrap up loose ends, all lowly accomplices included. “Relay the news to Ditsang’s family,” Talasyn instructed Ekli. “If he was the breadwinner, the palace shall offer support.”"
+
+- **中文理解**：说实话，这并不太意外。卢埃韦·拉斯梅一定会把尾巴收拾干净，连最不起眼的从犯也不会留下。「把消息转告迪仓的家人，」塔拉辛吩咐埃克利。「如果他是家里的顶梁柱，宫里要给予供养。」
+
+- **关键词**：loose ends · Ditsang’s family · offer support
+
+- **为什么这样写**：三段话里有三个主语在较劲：先是一句冷静的推断（卢埃韦会灭口），接着是两道具体的命令（转告、供养），中间没有一句感叹。**这一段的重量全在「供养」这个动词上**——上一章她刚用毒针指控过卢埃韦，这里她却替凶手的家人出钱。
+
+- **读者视角提示**：同段后半（不在本块引语内）写埃克利「有点吃惊，像是以为对迪仓的亲属会有更重的处置」，以及叙述给出的理由：迪仓是为被阿拉里克打死的兄长复仇，塔拉辛不愿把扎希亚-拉奇斯的报复落到他家人身上。另：更早的两段交代埃克利一夜之间从幸存的拉奇斯-达洛卡普坦升为皇家卫队统领，以及迪仓逃到利达加特岛高脚村后落湖溺死的经过。
+
+> **原句 8:** "“I am rescinding the royal house’s approval of this betrothal. Break it off. Your mother will simply have to take me to task when I meet her in the spirit world.”"
 
 - **中文理解**：「我要撤销王室对这桩婚约的认可。退掉它。等我到了灵界见到你母亲，她尽管来找我算账。」
 - **关键词**：spirit world · Break it · to task
 - **为什么这样写**：三句三个动作：撤销、退掉、预先承担后果。最后一句把责任推给一个她此刻还见不到的人，既是玩笑也是担当——她清楚自己越了权，却先把账认下来。短句连打，一句解释都没有。
 - **读者视角提示**：紧接在本段之前的那句里，她给的理由只有「I don’t like him」，而她连自己有没有见过对方都记不清；「spirit world」则提醒读者，替这桩婚事做主的人已经不在了，所以现在只能由她来做主。
 
-> **原句 8:** "“The alliance with Kesath was broken before it was even forged.” As soon as Talasyn spoke, everyone else stopped talking and it was her voice alone that echoed through the hall."
+> **原句 9:** "“The alliance with Kesath was broken before it was even forged.” As soon as Talasyn spoke, everyone else stopped talking and it was her voice alone that echoed through the hall."
 
 - **中文理解**：「与凯萨斯的同盟，在结成之前就已经破了。」她一开口，所有人都住了嘴，大厅里只剩她一个人的声音在回响。
 - **关键词**：broken before · everyone else · voice alone
