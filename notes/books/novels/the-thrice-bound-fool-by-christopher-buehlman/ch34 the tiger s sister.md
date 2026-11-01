@@ -83,7 +83,7 @@ modified: "2026-11-01"
 **为什么这样写**：她安于角斗的三重理由（训练、信仰、捡来的命）把「home」这个字放进了牢笼——幸存者的时间观让她在刀口上找到了日常；「sisters」的结拜把虎提升成家人，与守卫的误读（ch08 的虎妹梗）完成闭环。
 **读者视角提示**：记住「她到家了」——这是逃亡计划最深的裂缝：他要把一个「在家」的人带走；她的配合从此是恩情而不是本能。
 
-> **原句 11:** "I mean goblins from the Horde, from their imperatrix, come in embassy. The implications of friendly contact between the goblin hordes with their numbers and magic and hunger for manflesh and these big western karks with their cloud-ships, thunderdust, and blackglass were clear, and fucked, and would now lurk behind my every thought like a gallows."
+> **原句 11:** "I mean goblins from the Horde, from their imperatrix, come in embassy.” I closed my eyes, took a deep breath, and nodded. The implications of friendly contact between the goblin hordes with their numbers and magic and hunger for manflesh and these big western karks with their cloud-ships, thunderdust, and blackglass were clear, and fucked, and would now lurk behind my every thought like a gallows."
 
 **中文理解**：「我说的是 Horde 的地精——奉 imperatrix 之命，来使团的。」两大地精群落——带着它们的人口、魔法和食人欲——跟这些西部大个子——带着云船、雷尘和黑glass——友好接触的后果一目了然：操蛋透顶，而且从此会像一副绞架一样悬在我每个念头后面。
 **关键词**：from their imperatrix / come in embassy / numbers and magic and hunger for manflesh / like a gallows
