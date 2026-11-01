@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch55",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch55_55_a_not_so_private_grudge.txt",
+ "facts": [
+  {
+   "fact": "往 Crannhyr 还要走好几天，这段路让一行人后悔此前把大部分马都放走了。",
+   "anchor": "regret having set most of their horses free",
+   "start": 128,
+   "end": 171
+  },
+  {
+   "fact": "Flann 从 Father Gwynn 的积蓄里取了几枚小银币，向低地 Dillathi 的农夫买了一辆破车。",
+   "anchor": "bought a rickety wagon from a farmer",
+   "start": 491,
+   "end": 527
+  },
+  {
+   "fact": "Liam 腿上有箭伤，虽执意不肯，仍被禁止再骑马，只能与 Xaniko 一起坐车。",
+   "anchor": "Long Liam and his arrow-wounded leg were not allowed on horseback any longer",
+   "start": 330,
+   "end": 406
+  },
+  {
+   "fact": "Flann 答应 Mearna：等他把 Hagan 的头从身上砍下那天，会带来给她。",
+   "anchor": "bring you Hagan’s head on the day I finally",
+   "start": 1938,
+   "end": 1981
+  },
+  {
+   "fact": "Vedra 追问 Daley：他走了近两个整月，却什么也不肯说。",
+   "anchor": "You were gone for near two full moons",
+   "start": 2449,
+   "end": 2486
+  },
+  {
+   "fact": "Mud Boy 侦察回来说 Threadbare Hall 的院子里全是人，但看着不像士兵。",
+   "anchor": "The hall’s gateyard is full of people",
+   "start": 10716,
+   "end": 10753
+  },
+  {
+   "fact": "Xaniko 在车斗里睁开眼，嗓音干得像 Nascadu 的沙丘，说听得见 Vedra。",
+   "anchor": "in a voice as dry as the Nascadu dunes",
+   "start": 12931,
+   "end": 12969
+  },
+  {
+   "fact": "Hagan 在信里说他认为 Scaeth 找到了新盟友，想亲自来向 First Lord 说明。",
+   "anchor": "He says that he thinks Scaeth has found some new ally",
+   "start": 19821,
+   "end": 19874
+  }
+ ]
+}

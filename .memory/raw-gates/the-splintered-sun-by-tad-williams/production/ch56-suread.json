@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch56",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch56_56_no_small_honor.txt",
+ "facts": [
+  {
+   "fact": "清晨一名仆人来传话，说 Lord Xaniko 要见 Vedra 和 Daley 两个。",
+   "anchor": "Lord Xaniko has asked for you two",
+   "start": 26,
+   "end": 59
+  },
+  {
+   "fact": "Vedra 在他被抬进 Threadbare Hall 的卧房后睡了一整段时间，被叫醒时慌忙起身。",
+   "anchor": "had slept deeply through the hours since",
+   "start": 445,
+   "end": 485
+  },
+  {
+   "fact": "Xaniko 要她把这面龙鳞镜留在 Threadbare Hall，说她学得更多之前自己带着不安全。",
+   "anchor": "a dragonscale mirror is not a safe thing",
+   "start": 3961,
+   "end": 4001
+  },
+  {
+   "fact": "女管家只肯说这宅子「是他的地方」，再多她也不知道，并说主人康复要时间。",
+   "anchor": "I cannot tell you more because I do not know more",
+   "start": 5967,
+   "end": 6016
+  },
+  {
+   "fact": "家庭教师 Rumon 神父说王子和他要回 Cashelrigg，扮装搭一位船长的船走。",
+   "anchor": "Prince Ewain and I are leaving",
+   "start": 6798,
+   "end": 6828
+  },
+  {
+   "fact": "Scaeth 拒不让母亲 Bellicent 与他同骑，要她在队伍里另找位置。",
+   "anchor": "under no circumstances ride with me",
+   "start": 11089,
+   "end": 11124
+  },
+  {
+   "fact": "Flann 说两个孩子当然要跟他们走，眼下先去 High Oak Camp。",
+   "anchor": "they must go with us, of course",
+   "start": 14313,
+   "end": 14344
+  },
+  {
+   "fact": "Mearna 抱住 Vedra，说做 Crows 不是小荣誉。",
+   "anchor": "that is no small honor, dear child",
+   "start": 16839,
+   "end": 16873
+  }
+ ]
+}
