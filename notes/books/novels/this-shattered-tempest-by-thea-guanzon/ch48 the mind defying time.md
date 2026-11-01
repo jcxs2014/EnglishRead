@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「as though she were the heart of a Sever」值得停一停。界裂是隔开世界与其间的裂口，把她比作它的核心，不只是形容她亮，而是形容她能把自己身上的围困从内部撕开——紧接着碎掉的正是「the restraints around her wrists」。
 
-> **原句 3:** "I have to try, Alaric thought. Some part of him felt as though it were falling through this moment, into the depths of Talasyn’s eyes. I’ll keep trying, like she did for me."
+> **原句 3:** "“You know what must happen next, my son,” Gaheris intoned from behind Alaric. “Before you kneels the woman who almost cost you your empire."
+
+- **中文理解**：「你知道接下来该发生什么，我的儿子，」盖赫里斯在阿拉里克身后吟诵般地说。「跪在你面前的，是那个几乎毁掉你帝国的女人。」
+
+- **关键词**：must happen · almost cost · your empire
+
+- **为什么这样写**：两句话都只交代「该发生什么」：一句是父亲替他把结论说出口，一句是给出理由。真正的那两个字的命令还没出现，所以这段的压迫感来自它的留白。
+
+- **读者视角提示**：同一段后半（不在本块引语内）才是命令本身：「Do it. Avenge yourself. Protect what we have built together.」——「我们」这个词，正是他下一句要反驳的东西。
+
+> **原句 4:** "I have to try, Alaric thought. Some part of him felt as though it were falling through this moment, into the depths of Talasyn’s eyes. I’ll keep trying, like she did for me."
 
 - **中文理解**：他先给自己下命令——「我得试试」；接着他说不清为什么，只觉得整个人正穿过这一刻往下坠，坠进塔拉辛眼睛的深处；然后是第二遍承诺：「我会一直试下去，就像她为我试过那样。」
 
@@ -45,7 +55,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：留意动词的时与体：「I have to try」是此刻的逼迫，「I’ll keep trying」是拉长的将来。他许诺的不是「救下她」，而是「一直试」；这一层区别说明他手里此刻其实还没有办法。
 
-> **原句 4:** "This time, she was still and unresisting. She searched Alaric’s impassive features, overlain with the jaws of the wolf, for any sign of leniency. For the man that she had so often glimpsed in the past, existing side by side with his nation’s blade."
+> **原句 5:** "“Father,” he called out to the man behind him, “if Alunsina Ivralis dies today, the Nenavarene will fight to the last soldier standing.”"
+
+- **中文理解**：「父亲，」他朝身后那个人喊，「如果阿伦西娜·伊夫拉利斯今天死了，内纳瓦伦人会打到最后一个士兵倒下。」
+
+- **关键词**：called out · dies today · last soldier
+
+- **为什么这样写**：全句只有一个引号里的话，而且他不回头——「朝身后那个人喊」这五个字，把这场父子对话的姿态定死了。
+
+- **读者视角提示**：接下来两段（不在本块引语内）是这段对话的继续：父亲答「让他们来」，并说要把内纳瓦伦像当年的光织者一样碾碎；他则接着说「她今天死，月食魔法就随她一起死」。父亲对后一句的回答是「那是一千年以后的事」。
+
+> **原句 6:** "This time, she was still and unresisting. She searched Alaric’s impassive features, overlain with the jaws of the wolf, for any sign of leniency. For the man that she had so often glimpsed in the past, existing side by side with his nation’s blade."
 
 - **中文理解**：这一次她不动，也不挣。她在阿拉里克那张没有表情的脸上找松动的迹象——那张脸覆着狼的上下颚——她在找那个她屡次瞥见过的人：那个人一直和他国之刃并排站着。
 
@@ -55,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「overlain with the jaws of the wolf」是这一段最要紧的介词：狼颚盖在他脸上，她要找的那张脸在下面。所以整段读起来像隔着面具认人；而「glimpsed」（瞥见）说明她见过他，却从没有机会久看。
 
-> **原句 5:** "The dark chains transmuted into chimeras, those long-gone creatures that now existed only on the Kesathese flag. They galloped through the air on cloven hooves, their eel-like bodies lashing through the space between the three aethermancers. They thundered, shrieking, past Alaric, who didn’t so much as move, not even to raise his head."
+> **原句 7:** "The dark chains transmuted into chimeras, those long-gone creatures that now existed only on the Kesathese flag. They galloped through the air on cloven hooves, their eel-like bodies lashing through the space between the three aethermancers. They thundered, shrieking, past Alaric, who didn’t so much as move, not even to raise his head."
 
 - **中文理解**：缠住她的暗链变成了嵌合兽——那种早已绝迹、如今只画在凯萨斯旗上的生物。它们踏着偶蹄在空中奔跑，鳗一样的长身抽过三个以太术师之间的空隙；它们嘶鸣着从阿拉里克身边冲过去，而他连动都没动，连头都没抬。
 

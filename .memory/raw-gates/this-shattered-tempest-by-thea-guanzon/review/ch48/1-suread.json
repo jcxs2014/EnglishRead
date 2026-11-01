@@ -1,0 +1,143 @@
+{
+  "chapter": "ch48",
+  "source": "text/ch48_chapter_forty_eight.txt",
+  "char_total": 7215,
+  "events": [
+    {
+      "n": 1,
+      "summary": "塔拉辛体内的光织（Lightweave）涌出，震碎她腕上的束缚、劈开午夜旋风，她先救了自己。",
+      "quote": "The Lightweave flowed out of her as though she were the heart of a Sever. It shattered the restraints around her wrists, it cut through the midnight whirlwind.",
+      "start": 710,
+      "end": 869
+    },
+    {
+      "n": 2,
+      "summary": "塔拉辛一拳正打在加赫里斯下巴上，他后仰撞上椅背，暗影消散，她落地时肘部先着地。",
+      "quote": "Gaheris reeled back, the base of his skull colliding with the backrest. The last of the shadows disappeared and Talasyn dropped to the floor, freed. But she landed badly, on her elbow",
+      "start": 1110,
+      "end": 1293
+    },
+    {
+      "n": 3,
+      "summary": "加赫里斯起身再发一道墨色魔法把塔拉辛击退，她最终跪在阿拉里克脚前，被影门（Shadowgate）缠住躯干和脚踝。",
+      "quote": "the Shadowgate coiled around her torso and her ankles, trapping her in place.",
+      "start": 1596,
+      "end": 1673
+    },
+    {
+      "n": 4,
+      "summary": "加赫里斯在阿拉里克身后命令他动手杀她、为自己复仇。",
+      "quote": "“You know what must happen next, my son,” Gaheris intoned from behind Alaric. “Before you kneels the woman who almost cost you your empire. Do it. Avenge yourself.",
+      "start": 1705,
+      "end": 1868
+    },
+    {
+      "n": 5,
+      "summary": "阿拉里克反问父亲：若阿伦西娜·伊夫拉利斯今日死去，内纳瓦瑞尼人（Nenavarene）会战至最后一人。",
+      "quote": "“Father,” he called out to the man behind him, “if Alunsina Ivralis dies today, the Nenavarene will fight to the last soldier standing.”",
+      "start": 2692,
+      "end": 2828
+    },
+    {
+      "n": 6,
+      "summary": "加赫里斯把千年之期斥为与他二人无关，坚持今天必须取胜。",
+      "quote": "“It is not your concern or mine. Here, today, we need to win.”",
+      "start": 3430,
+      "end": 3492
+    },
+    {
+      "n": 7,
+      "summary": "阿拉里克夺取了父亲的魔法，束缚塔拉辛的暗影链化作凯萨瑟旗上的嵌合兽（chimera），扑向加赫里斯将他撕碎。",
+      "quote": "They sank their leonine fangs into Gaheris and ripped him apart in a maelstrom of starlight and obsidian. And empire’s end.",
+      "start": 6033,
+      "end": 6156
+    },
+    {
+      "n": 8,
+      "summary": "阿拉里克第一次以意志夺控另一名影铸者的魔法，是在塔拉辛加冕宴会那一夜；他靠思念她获得力量，最终没有看父亲死去，只看着塔拉辛流泪。",
+      "quote": "The first time Alaric had bent another Shadowforged’s aethermancy to his will, it was the night of Talasyn’s coronation banquet.",
+      "start": 6159,
+      "end": 6287
+    }
+  ],
+  "relations": [
+    {
+      "a": "阿拉里克",
+      "b": "塔拉辛",
+      "relation": "夫妻：他是她的丈夫，也是伤她最深的人",
+      "quote": "His strong, brave wife, whom he had hurt so much.",
+      "start": 2255,
+      "end": 2304
+    },
+    {
+      "a": "阿拉里克",
+      "b": "加赫里斯",
+      "relation": "父子：他既畏惧又崇拜父亲，这畏惧是他留下的原因",
+      "quote": "His father, whom he both feared and worshipped. Had, ever since he was a child. And that was why he’d stayed.",
+      "start": 2307,
+      "end": 2416
+    },
+    {
+      "a": "加赫里斯",
+      "b": "塔拉辛",
+      "relation": "施缚者与被缚者：影门缠住她躯干与脚踝，使她跪在阿拉里克脚前",
+      "quote": "Gaheris was quick to take advantage of the break in her concentration. He stood up and stretched out his arm and another wave of inky magic slammed into Talasyn",
+      "start": 1299,
+      "end": 1459
+    },
+    {
+      "a": "阿拉里克",
+      "b": "加赫里斯",
+      "relation": "魔法支配关系：阿拉里克夺取了父亲的魔法并反用于他",
+      "quote": "It took much too long for her to realize that Alaric had somehow seized control of Gaheris’s magic",
+      "start": 5568,
+      "end": 5666
+    },
+    {
+      "a": "塔拉辛",
+      "b": "阿拉里克",
+      "relation": "师徒/情感源：他自认是向她学会夺控他人魔法",
+      "quote": "I learned how to do this because of you, he thought",
+      "start": 7017,
+      "end": 7068
+    }
+  ],
+  "numbers": [
+    {
+      "value": "a matter of seconds",
+      "context": "叙述者说这一切只发生在几秒之内",
+      "quote": "had to have happened in a matter of seconds. That was simply the nature of time.",
+      "start": 85,
+      "end": 165
+    },
+    {
+      "value": "a thousand years",
+      "context": "几个瞬间被拉长成千年的清醒梦境",
+      "quote": "until you lived and died between the now and the after, and a few moments became a waking dream of a thousand years.",
+      "start": 350,
+      "end": 466
+    },
+    {
+      "value": "a thousand years",
+      "context": "加赫里斯说巴昆（Bakun）下次苏醒是千年之后",
+      "quote": "“That is a thousand years from now!” Gaheris interrupted. The shadows encasing Talasyn shivered violently, reflecting their wielder’s spike in temper.",
+      "start": 3279,
+      "end": 3429
+    },
+    {
+      "value": "two pairs",
+      "context": "父子两双虹膜同时闪银",
+      "quote": "Two pairs of irises were flashing silver, and Talasyn wondered if this was fated to be the last thing she ever saw.",
+      "start": 4835,
+      "end": 4950
+    },
+    {
+      "value": "three aethermancers",
+      "context": "嵌合兽在三名以太术士之间穿行",
+      "quote": "They galloped through the air on cloven hooves, their eel-like bodies lashing through the space between the three aethermancers.",
+      "start": 5808,
+      "end": 5936
+    }
+  ],
+  "notes": "原文为小说正文，单章含重复标题行（开头两处 \"Chapter Forty-Eight\"）与多处空行；引语含弯引号 ’ “ ”、em dash — 与省略号 . . .，均按原文逐字保留。第 7 条事件的“夺取父魔法→暗影化兽”跨两个自然段，故 quote 只取同段内的撕碎句。第 8 条 quote 为同段首句，后文（依靠思念她获得力量、不看父亲死去）为摘述补充，未计入 quote。"
+}
