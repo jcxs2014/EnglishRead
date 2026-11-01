@@ -7,11 +7,11 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：2024 年 12 月 4 日，男主确认 Arthur 还活着（Ravenscar 记忆护理）——「那意味着痴呆」；他走向电塔，把它当作「唯一的真相」，听到 Caroline 的声音说「它睡着了，你现在为什么要唤醒它」，又听到 Benn 的声音说「如果它让你失去理智呢」；他在 Dylan Thomas 的诗句里读懂 Arthur 的挣扎，摔倒在电塔脚下看见「上帝之眼」，狂笑着喊「这里什么都没有！」——而真的什么都没有发生。
+- **一句话概括**：2024 年 12 月 4 日，男主确认 Arthur 还活着（Ravenscar 记忆护理）——「那意味着痴呆」；他走向电塔，把它当作「唯一的真相」，听到 Caroline 的声音说「它睡着了，你现在为什么要唤醒它」，又听到 Benn 的声音说「如果它让你失去理智呢」；他在那位威尔士诗人的诗句里读懂 Arthur 的挣扎，摔倒在电塔脚下看见「上帝之眼」，狂笑着喊「这里什么都没有！」——而真的什么都没有发生。
 - **情感弧线位置**：全书「接触电塔」的顶点章。前 32 章他对电塔的态度经历了：敬畏（ch01 螳螂）→ 厌恶（ch13 雾中）→ 习惯（ch22）→ 恐惧（ch29 梦中骨架行走）→ 本章走向它、触摸它、与它对话。这是他与「真相」的第一次物理接触，而真相是「无」——电塔什么都不说。
-- **Tropes 兑现/反转**：兑现「走向电塔」——从 ch01 第一次看见它到本章第一次走到它脚下，28 章的悬念在此物理兑现；反转「真相」——全书所有超自然线索（网球、声音、照片、日记）全部指向电塔，而电塔什么都没给：「no whispering; no wrath; no revelation」；兑现「Dylan Thomas」——Arthur 照片背面的「their words had forked no lightning」原来是一首著名诗的断句；反转「Caroline 与 Benn 的声音」——他们同时劝阻他（「it's asleep」「if it costs you your sanity」），而他的回应是大笑。
-- **人物弧线**：男主：从「调查者」变成「献祭者」——他明知危险仍走向电塔，「Whatever it costs」；而电塔的沉默让他的献祭变得荒诞——他准备了 28 章的恐惧，等来的是没有任何东西。Arthur：从「痴呆病人」变成「拒绝平静死去的人」——Dylan Thomas 的诗把 Arthur 的暴躁、情绪波动、写作全部重新定性为「a man refusing to go gentle」；Caroline 与 Benn：第一次以「劝阻者」身份同时出现——他们的声音在电塔脚下交汇，像一场跨越生死的电话会议。
-- **叙事手法**：本章是全书的「朝圣章」——空间移动（房子→电塔→摔倒→回家）即情节；三种声音的交替（Caroline 耳语、Benn 质问、他自己大笑）构成声音的三重奏；Dylan Thomas 的诗以独立段落嵌入，用诗歌原文完成「Arthur 形象」的重塑；结尾的狂笑是全书唯一一次「他笑了」——恐怖的极点是笑声。
+- **Tropes 兑现/反转**：兑现「走向电塔」——从 ch01 第一次看见它到本章第一次走到它脚下，28 章的悬念在此物理兑现；反转「真相」——全书所有超自然线索（网球、声音、照片、日记）全部指向电塔，而电塔什么都没给：「no whispering; no wrath; no revelation」；兑现「威尔士诗人之诗」——Arthur 照片背面的「their words had forked no lightning」原来是一首著名诗的断句；反转「Caroline 与 Benn 的声音」——他们同时劝阻他（「it's asleep」「if it costs you your sanity」），而他的回应是大笑。
+- **人物弧线**：男主：从「调查者」变成「献祭者」——他明知危险仍走向电塔，「Whatever it costs」；而电塔的沉默让他的献祭变得荒诞——他准备了 28 章的恐惧，等来的是没有任何东西。Arthur：从「痴呆病人」变成「拒绝平静死去的人」——那位威尔士诗人的诗把 Arthur 的暴躁、情绪波动、写作全部重新定性为「a man refusing to go gentle」；Caroline 与 Benn：第一次以「劝阻者」身份同时出现——他们的声音在电塔脚下交汇，像一场跨越生死的电话会议。
+- **叙事手法**：本章是全书的「朝圣章」——空间移动（房子→电塔→摔倒→回家）即情节；三种声音的交替（Caroline 耳语、Benn 质问、他自己大笑）构成声音的三重奏；那位威尔士诗人的诗以独立段落嵌入，用诗歌原文完成「Arthur 形象」的重塑；结尾的狂笑是全书唯一一次「他笑了」——恐怖的极点是笑声。
 
 ## 精读
 
@@ -94,7 +94,7 @@ modified: "2026-11-01"
 | delirium | n. 谵妄、神志恍惚 | ‘There’s nothing here!’ he shouted in a kind of delirium |
 | retribution | n. 报应、惩罚 | For a time he just lay there, waiting for retribution |
 | laboriously | adv. 费力地 | his steps laboriously slow |
-| uncanny | adj. 诡异的、不自然的 | There was nothing natural about the thing. |
+| monstrous | adj. 巨大的、可怖的 | In the snow it looked even more monstrous than it had before. |
 
 ### ⭐ 常用
 
@@ -108,4 +108,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-2024 年 12 月 4 日，男主确认 Arthur 还活着——在 Ravenscar 的记忆护理病房，那意味着痴呆；他走向电塔，把它当作「唯一的真相」，途中认出 Caroline 在照片背面写下的「their words had forked no lightning」是 Dylan Thomas《Do not go gentle into that good night》的断句——Arthur 的暴躁与写作被重新读成「拒绝平静死去」；他听到 Caroline 的声音说「它睡着了，你现在为什么要唤醒它」，又听到 Benn 的声音说「如果它让你失去理智呢」；他走到电塔脚下，仰头看见可怕的对称性像上帝之眼般旋转，仰面摔倒，雪松得站不起来，他狂笑着喊「这里什么都没有！」——而真的什么都没有：没有低语、没有怒火、没有启示，只有电塔无目的地立在天空下；他走回家，路上只有他堆的雪人在等他。
+2024 年 12 月 4 日，男主确认 Arthur 还活着——在 Ravenscar 的记忆护理病房，那意味着痴呆；他走向电塔，把它当作「唯一的真相」，途中认出 Caroline 在照片背面写下的「their words had forked no lightning」是那位威尔士诗人《Do not go gentle into that good night》的断句——Arthur 的暴躁与写作被重新读成「拒绝平静死去」；他听到 Caroline 的声音说「它睡着了，你现在为什么要唤醒它」，又听到 Benn 的声音说「如果它让你失去理智呢」；他走到电塔脚下，仰头看见可怕的对称性像上帝之眼般旋转，仰面摔倒，雪松得站不起来，他狂笑着喊「这里什么都没有！」——而真的什么都没有：没有低语、没有怒火、没有启示，只有电塔无目的地立在天空下；他走回家，路上只有他堆的雪人在等他。

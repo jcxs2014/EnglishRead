@@ -152,7 +152,7 @@ modified: "2026-11-01"
 |---|---|---|
 | dread | n. 恐惧、战栗 | He found himself trembling, not with cold, but with an existential dread. |
 | magician | n. 魔术师 | Along with his good friend, Dr Benn, a scholar and a magician, he thought up a plan to escape his fate. |
-| terminal | n. 终点站、驿站 | It was a place of convergence between the old gods and the new. |
+| terminal | n. 终点站、驿站 | a passing-place on a nameless moor; a way station. A terminal. |
 | stoat | n. 鼬、白鼬 | She watches through the eyes of the fox, and the deer, and the stoat, and the starling. |
 | whinny-moor | n.（地名）荒原（whipney 意为荒凉之地） | And so, forgetting everything, he fled to this house on the whinny-moor. |
 
@@ -163,7 +163,7 @@ modified: "2026-11-01"
 | insulator | n. 绝缘子 | the insulators on the ground like a broken necklace |
 | spilt | v. 溢出、洒出（spill 的过去式） | Water and some kind of glitter had spilt out onto the hearthrug. |
 | cross-legged | adj. 盘腿而坐的 | he saw a familiar figure there, sitting cross-legged in front of the fire. |
-| flee | v. 逃走、逃亡 | And so, forgetting everything, he fled to this house on the whinny-moor. |
+| fled | v. 逃走、逃亡（flee 的过去式） | And so, forgetting everything, he fled to this house on the whinny-moor. |
 
 ## 一句话总结
 

@@ -10,7 +10,7 @@ modified: "2026-11-01"
 - **一句话概括**：2024 年 12 月 12 日，男主去 Lyke 还书，在雪中走了很久，遇到一位徒步者；徒步者说那座房子空了很多年——「没有人住，自从那场悲剧。男人杀了他三十年的妻子」；Arthur 把 Caroline 关在门外冻死，她的手「血肉模糊、全是敲门敲烂的」；徒步者最后说「Can't say I've ever heard of it」——他不认识 Lyke，这座村子不存在。
 - **情感弧线位置**：全书「真相降临」章。前 35 章 Arthur 的下落有无数版本（冻死、失踪、自杀），本章路人用两句话给出「唯一合理」的版本：杀妻。而这个版本与所有线索吻合（Caroline 的敲门声、雪人的敲门、电线里的「Please, Arthur, let me in」）。真相不是安慰，是更重的诅咒。
 - **Tropes 兑现/反转**：兑现「路人即真相」——荒原上的陌生人（ch13 的潜水员故事、ch25 的店员）都成为真相载体；反转「Lyke」——他走了两个月的村子，路人说「Can't say I've ever heard of it」；兑现「敲门」——Caroline 的手「all bloody and torn from knocking and knocking at the door」把 ch02 的日记条目、ch29 的电话、ch34 的雾夜敲门全部收束为一个事实。
-- **人物弧线**：男主：从「调查者」变成「被真相击中的人」——路人的话让他「an icy hand reached for his heart」：他想到自己穿着 Arthur 的拖鞋、用着 Arthur 的眼镜、坐在 Arthur 的扶手椅里。他的调查变成了对尸衣的穿着。Arthur：从「痴呆病人」变成「杀妻者」——「Not of sound mind. Didn't even know what he'd done」把痴呆与杀妻缝在一起：他杀了人，而他不记得。Caroline：从「死在雪里的妻子」变成「被关在门外敲烂双手的妻子」——她的敲门声有了物理的终点：血肉模糊的手。
+- **人物弧线**：男主：从「调查者」变成「被真相击中的人」——路人的话让他「an icy hand reached for his heart」：他想到自己穿着 Arthur 的拖鞋、用着 Arthur 的眼镜、坐在 Arthur 的扶手椅里。他的调查变成了对尸衣的穿着。Arthur：从「痴呆病人」变成「杀妻者」——「They said he wasn't of sound mind. Didn't even know what he'd done」把痴呆与杀妻缝在一起：他杀了人，而他不记得。Caroline：从「死在雪里的妻子」变成「被关在门外敲烂双手的妻子」——她的敲门声有了物理的终点：血肉模糊的手。
 - **叙事手法**：本章是「行走章」——情节全靠空间移动推进（家→荒原→遇人→对话→空无）；路人的对话用短句分行（「There's no turn here. Only this path.」「There's no one in that house」），每句都否定他认知的一个组件（路、房子、名字）；结尾用三个「否定句」收束（「Can't say I've ever heard of it」「There's no place of that name near here」「I am alone. Nothing here but ghosts and snow」），把真相、村子、他的存在全部否定。
 
 ## 精读

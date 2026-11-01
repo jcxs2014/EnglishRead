@@ -7,7 +7,7 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：2024 年 12 月 13 日，男主回家发现雪人被破坏——Caroline 的大衣围巾被堆在路边，网球放在上面「像生日蛋糕上的樱桃」；他报警，警察对「雪人被破坏」报以嘲笑；电线里传来众声（Whitby 的往事、Lucy 的警告、堆石堆的指令、Dylan Thomas 的诗句）；他打电话给前妻，录音变成 Arthur 的声音：「Tread softly, she is near. Oh, Caroline. My Caroline.」，然后是失真的声音哭喊着「Do not go gentle. Caroline.」——他怀疑那是 Arthur 意识到自己杀妻的那一刻。
+- **一句话概括**：2024 年 12 月 13 日，男主回家发现雪人被破坏——Caroline 的大衣围巾被堆在路边，网球放在上面「像生日蛋糕上的樱桃」；他报警，警察对「雪人被破坏」报以嘲笑；电线里传来众声（Whitby 的往事、Lucy 的警告、堆石堆的指令、那位威尔士诗人的诗句）；他打电话给前妻，录音变成 Arthur 的声音：「Tread softly, she is near. Oh, Caroline. My Caroline.」，然后是失真的声音哭喊着「Do not go gentle. Caroline.」——他怀疑那是 Arthur 意识到自己杀妻的那一刻。
 - **情感弧线位置**：十二月篇后段的「众声章」。本章他把电视和收音机开到最大声（用噪音压噪音），而电线里的声音反而变多——他从「听一个声音」变成「听一场合唱」。恐怖的形态从「点」变成「面」。
 - **Tropes 兑现/反转**：兑现「雪人被破坏」——ch34 雾夜雪人消失、ch35 Lucy 评论「cute snowman」、ch36 苹果嘴消失，本章雪人被推倒、衣服被堆起来、网球放在上面；反转「报警」——他把闯入者报警，警察的反应是嘲笑（「A snowman? Who is this guy?」）；兑现「众声」——ch11 的电线声音、ch18 的 Lyke Wake Dirge、ch22 Arthur 日记的「我们都相连」在本章汇成一场声音的狂欢。
 - **人物弧线**：男主：从「调查者」变成「失控者」——他试图用噪音（电视、收音机）压制噪音，试图用电话（前妻）找回人间，两次尝试都失败；他的自我认知开始崩塌（「no longer sure who he was, or whose life he was living」）。Arthur：通过电话录音第一次「开口」——「Oh, Caroline. My Caroline.」是全书 Arthur 最长的直接引语，也是他杀妻后唯一的忏悔；Caroline：通过 Whitby 的回忆（「Lucy, oh my darling girl, stay away from the river!」）在场——她在电线里保护她的女儿，而她自己的女儿（Lucy？）可能就站在门外。
@@ -113,7 +113,7 @@ modified: "2026-11-01"
 | trespasser | n. 闯入者、侵入者 | Someone has been here. A trespasser. |
 | scuffle | n. 扭打、混乱的脚印 | nothing in the snow but a scuffle of dirty footprints |
 | squeal | n. 尖啸、尖叫 | Then came a squeal of distortion, so abrupt that he dropped the mobile onto the floor |
-| distortion | n. 失真、扭曲 | the distorted voice went on sobbing and pleading |
+| distortion | n. 失真、扭曲 | Then came a squeal of distortion, so abrupt that he dropped the mobile onto the floor. |
 | disconnected | adj. 断线的、注销的 | This number has been disconnected |
 
 ### ⭐ 常用
@@ -128,4 +128,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-2024 年 12 月 13 日，男主回家发现雪人被破坏——Caroline 的大衣围巾被堆在路边，网球放在上面「像生日蛋糕上的樱桃」；他报警，警察对「雪人被破坏」报以嘲笑（「A snowman? Who is this guy?」）；电线里传来众声：Whitby 的家庭往事、Caroline 警告 Lucy 远离河流、堆石堆的指令、Dylan Thomas 的诗句、Arthur 的呢喃；他打电话给前妻，录音变成 Arthur 的声音哭喊着「Oh, Caroline. My Caroline.」「Do not go gentle. Caroline.」——他怀疑那是 Arthur 意识到自己杀妻的那一刻。
+2024 年 12 月 13 日，男主回家发现雪人被破坏——Caroline 的大衣围巾被堆在路边，网球放在上面「像生日蛋糕上的樱桃」；他报警，警察对「雪人被破坏」报以嘲笑（「A snowman? Who is this guy?」）；电线里传来众声：Whitby 的家庭往事、Caroline 警告 Lucy 远离河流、堆石堆的指令、那位威尔士诗人的诗句、Arthur 的呢喃；他打电话给前妻，录音变成 Arthur 的声音哭喊着「Oh, Caroline. My Caroline.」「Do not go gentle. Caroline.」——他怀疑那是 Arthur 意识到自己杀妻的那一刻。

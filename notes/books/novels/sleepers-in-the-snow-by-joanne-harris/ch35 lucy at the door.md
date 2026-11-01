@@ -69,7 +69,7 @@ modified: "2026-11-01"
 
 **中文理解**：「Arthur 以前住在这里。现在只有我了。」这是他第一次向别人完整陈述 Arthur 的下落——不是「死了」，是「以前住在这里，现在只有我」。这个句式把 Arthur 从「死者」变成「前任住户」，从「鬼」变成「人」。
 
-**关键词**：Arthur / lived / now / me
+**关键词**：Arthur / live / now / me
 
 **为什么这样写**：「did live」的过去式助动词是时间切割：Arthur 的「住」被明确划入过去，而现在属于「me」。这是全书他最完整的身份陈述——他既不是 Arthur（「Now it's just me」），又住在 Arthur 的房子里。而 Lucy 的回应（下一块）是「Where did you bury him?」——他的完整陈述换来她的杀人怀疑。
 

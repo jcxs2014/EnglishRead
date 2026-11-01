@@ -102,7 +102,7 @@ modified: "2026-11-01"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | threshold | n. 门槛 | Two policemen were standing on the threshold. ‘Mr Sanderson?’ |
-| suspect | adj. 可疑的 | ‘I see.’ The man’s tone of voice was neutral, and yet he sounded as if a suspicion had somehow been confirmed. |
+| suspicion | n. 怀疑、疑心 | The man’s tone of voice was neutral, and yet he sounded as if a suspicion had somehow been confirmed. |
 | practical joke | 恶作剧 | ‘It sounds to me as if you’ve been the victim of a practical joke.’ |
 | intimidate | v. 恐吓、威吓 | Leaving things. Trying to intimidate me. |
 | senile | adj. 衰老的、糊涂的 | ‘I’m not senile, officer.’ |

@@ -7,10 +7,10 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：2024 年 12 月 17 日，又下雪了——男主在荒原上找回网球，在松林边回想「Maybe I'm the offering」；他回到家，房子在沉默中反问「Isn't he? I see a man in Arthur's clothes… Who else but Arthur could it be?」；他喊「I know who I am」却声音虚弱；傍晚，一个穿红大衣的陌生老妇人在电塔边游荡，无视他、直视电塔——「eyes barred with reflections」；她消失在房子侧面。
+- **一句话概括**：2024 年 12 月 17 日，又下雪了——男主在荒原上找回网球，在松林边回想「Maybe I'm the offering」；他回到家，房子在沉默中反问「Isn't he? it whispered. I see a man in Arthur's clothes. Living here in Arthur's house. Sleeping here in Arthur's bed. Who else but Arthur could it be?」；他喊「I know who I am」却声音虚弱；傍晚，一个穿红大衣的陌生老妇人在电塔边游荡，无视他、直视电塔——「eyes barred with reflections」；她消失在房子侧面。
 - **情感弧线位置**：十二月篇的「身份危机」章。ch36 路人说出杀妻真相、ch37 电话里 Arthur 的声音哭喊「Do not go gentle」，本章他走到屋外喊「I know who I am」——全书唯一一次他主动确认自己的身份，而房子的低语在那一刻响起。
 - **Tropes 兑现/反转**：兑现「网球回收」——ch34 雾夜、ch37 雪人破坏、ch38 他把路边的网球收进箱子，网球线收束；反转「Lucy」——「There was a figure in red by the house. 'Lucy,' he said.」但他走近发现不是 Lucy，是一个更老的女人；兑现「房子低语」——ch01 房子的沉默在本章变成反问（「Isn't he?」）；反转「喊话」——他喊「I know who I am」，声音却「weak and uncertain」。
-- **人物弧线**：男主：从「藏身者」变成「确认者」——他第一次公开喊出自己的身份，而房子的低语在他的喊声之后响起；他开始怀疑「Maybe I'm the offering」——他意识到自己可能是被召唤来的祭品。Arthur 与 Caroline：通过「presence filled it like a clam in a shell」在场——他们的气息、家具、衣服、杯子填满房子，「all this knowing what Arthur had done」让他无法居住。红衣女人：新角色——不是 Lucy、不是路人、不是狐狸，是一个无视他、直视电塔的沉默者。
+- **人物弧线**：男主：从「藏身者」变成「确认者」——他第一次公开喊出自己的身份，而房子的低语在他的喊声之后响起；他开始怀疑「Maybe I'm the offering」——他意识到自己可能是被召唤来的祭品。Arthur 与 Caroline：通过「The presence of Arthur and Caroline – whatever the truth of their story had been – filled it like a clam in a shell」在场——他们的气息、家具、衣服、杯子填满房子，「all this knowing what Arthur had done」让他无法居住。红衣女人：新角色——不是 Lucy、不是路人、不是狐狸，是一个无视他、直视电塔的沉默者。
 - **叙事手法**：本章是「内心独白章」——对话极少（他对红衣女人的所有喊话都被无视），恐怖来自他的内心：房子的低语、他的自我怀疑、他的喊话；三个段落结构：「荒原独行—回家—红衣女人」；红衣女人「eyes barred with reflections」是电塔意象的人格化——她的眼睛像绝缘子（barred with reflections）。
 
 ## 精读
@@ -103,7 +103,7 @@ modified: "2026-11-01"
 |---|---|---|
 | sceptical | adj. 怀疑的、持疑的 | But in its sceptical silence, the house seemed to convey its doubt. |
 | devastation | n. 废墟、毁灭 | The devastation he had found on his earlier visit – the fallen tree; the root plate; even the bone among the roots |
-| labourious | adj. 费力的、吃力的 | Her steps were laborious as she approached |
+| laborious | adj. 费力的、吃力的 | Her steps were laborious as she approached |
 | shambling | adj. 蹒跚的、拖着脚步的 | With a curious, shambling gait, she started to walk around the house. |
 
 ### ⭐⭐ 进阶

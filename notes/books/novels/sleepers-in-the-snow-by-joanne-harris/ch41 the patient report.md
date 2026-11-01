@@ -73,7 +73,7 @@ modified: "2026-11-01"
 | visitor | n. 访客、探视者 | No response to visitors. |
 | status | n. 状态 | DNR status: Nil. |
 | DNR | （缩写）不予复苏 | DNR status: Nil. |
-| Epilogue | n. 尾声 | Epilogue |
+| response | n. 回应、反应 | No response to visitors. |
 
 ## 一句话总结
 
