@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch31",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch31_31_under_the_horns_of_hern.txt",
+ "facts": [
+  {
+   "fact": "Lochrin 是 Dunn 的大祭司兼 First Lord Phelan 的首席顾问，不愿面对当天的接见。",
+   "anchor": "Starling Lochrin, archpriest of Dunn",
+   "start": 34,
+   "end": 70
+  },
+  {
+   "fact": "Phelan 召 Crannhyr 的 Reeve Hagan 前来，召令只有这一句，简短而不容推托。",
+   "anchor": "Come to me in Hernysadharc with all haste",
+   "start": 305,
+   "end": 346
+  },
+  {
+   "fact": "Lady Bellicent 声称她的占卜师 Vespillis 看见偷走 Scaeth 信件与戒指的两个孩子逃到了 Crannhyr。",
+   "anchor": "her scryer, Vespillis, had a vision",
+   "start": 782,
+   "end": 817
+  },
+  {
+   "fact": "Phelan 曾说 Hagan 的头像一枚拇指，因为他秃顶无须、相貌平平。",
+   "anchor": "a head like a thumb",
+   "start": 1862,
+   "end": 1881
+  },
+  {
+   "fact": "Phelan 当面提醒 Hagan：Crannhyr 是他给的，他也能收回。",
+   "anchor": "I gave you Crannhyr and I can take it away",
+   "start": 5445,
+   "end": 5487
+  },
+  {
+   "fact": "Phelan 威胁说，若 Hagan 帮助 Scaeth 或 Ewain，就把他交给城堡地窖里的人。",
+   "anchor": "I will give you to my underground men",
+   "start": 5629,
+   "end": 5666
+  },
+  {
+   "fact": "Hagan 提议由自己在东境「碰巧」截住 Ewain 并押送给 Phelan，等于戳 Scaeth 的眼睛。",
+   "anchor": "a finger in Scaeth’s eye",
+   "start": 6792,
+   "end": 6816
+  },
+  {
+   "fact": "Scaeth 要 Vespillis 查明那场战斗里喊出「王子死了」的男孩究竟是谁。",
+   "anchor": "I would know who the boy is",
+   "start": 25028,
+   "end": 25055
+  }
+ ]
+}

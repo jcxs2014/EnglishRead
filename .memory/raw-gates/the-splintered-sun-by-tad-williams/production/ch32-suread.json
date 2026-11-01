@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch32",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch32_32_the_howling_night.txt",
+ "facts": [
+  {
+   "fact": "黑暗中那东西始终没有靠近，Xaniko 整夜坐着不睡，其余人挤在火边睡。",
+   "anchor": "Xaniko sat up all night",
+   "start": 115,
+   "end": 138
+  },
+  {
+   "fact": "Xaniko 写信说明放弃头衔与继承，自认是一封诚实的信；女王 Utuk’ku 与她的 Hamakha 族视之为叛国，于是放狗追他。",
+   "anchor": "renouncing my titles and heritage",
+   "start": 836,
+   "end": 869
+  },
+  {
+   "fact": "Xaniko 想不通这些狗为何出现在离 Nakkiga 数百里格之外，怀疑 Scaeth 与 Utuk’ku 结成了同盟。",
+   "anchor": "hundreds of leagues from Nakkiga",
+   "start": 1769,
+   "end": 1801
+  },
+  {
+   "fact": "第二夜嚎叫同时来自两个方向，全队被惊醒；嚎声反复却没有再靠近。",
+   "anchor": "it came from two directions at once",
+   "start": 5242,
+   "end": 5277
+  },
+  {
+   "fact": "梦里 Ewain 被一支带羽的箭射穿后背，双腿一软倒地；男孩蹲到他身上，喊王子被杀了。",
+   "anchor": "the feathered shaft jutting from his back",
+   "start": 8601,
+   "end": 8642
+  },
+  {
+   "fact": "夜里爬上 Mullachi Hills 时 Xaniko 喊停，说队伍散得太开、少了一支火把，Mearna 不见了。",
+   "anchor": "we are short one torch",
+   "start": 15713,
+   "end": 15735
+  },
+  {
+   "fact": "他们找到 Mearna 的斑点马倒毙在地，一匹白得像盐的巨犬前腿搭在马尸上，长吻带血。",
+   "anchor": "limbs a-splay, motionless as a stone",
+   "start": 18614,
+   "end": 18650
+  },
+  {
+   "fact": "石上又探出一张惨白的吻部，但这一匹脸上没有伤，不是刚才那一匹，它朝 Vedra 扑下。",
+   "anchor": "this creature’s face was unmarked",
+   "start": 24025,
+   "end": 24058
+  }
+ ]
+}

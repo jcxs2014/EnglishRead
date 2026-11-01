@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch29",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch29_29_aboard_the_slipper.txt",
+ "facts": [
+  {
+   "fact": "Daley 站在 The Lady’s Slipper 的船尾栏杆边看海，海鸥在船尾的浪迹上盘旋、俯冲。",
+   "anchor": "Daley stood at the stern rail of the cog",
+   "start": 29,
+   "end": 69
+  },
+  {
+   "fact": "Diarban 讲 Tethtain 迁往 Dun Ard 的由来：占卜者说留在 Hernystir 会是他的末日。",
+   "anchor": "a scryer told him it would be his doom",
+   "start": 2476,
+   "end": 2514
+  },
+  {
+   "fact": "Diarban 说两天后停靠 Abaingeat，那地方属 Scaeth 领主，他的人正在搜捕 Ewain。",
+   "anchor": "Abaingeat belongs to Lord Scaeth",
+   "start": 3054,
+   "end": 3086
+  },
+  {
+   "fact": "Ewain 叫 Daley 去取水，Daley 拒绝，Ewain 压低声提醒自己是他的王子。",
+   "anchor": "I am your prince, boy",
+   "start": 5005,
+   "end": 5026
+  },
+  {
+   "fact": "Rumon 警告：Lonn 可能上船，受辱、被罚款、被嘲笑 Tethtain 的流亡都不许动怒。",
+   "anchor": "we may be visited by the harbormaster, Lonn",
+   "start": 12068,
+   "end": 12111
+  },
+  {
+   "fact": "Minchin 船长的舱单写着「A royal party bound for Dun Ard」，Lonn 当面质问这句胡话。",
+   "anchor": "A royal party bound for Dun Ard",
+   "start": 18854,
+   "end": 18885
+  },
+  {
+   "fact": "Diarban 弹唱时 Daley 取来皮鼓，站在他身后打出节拍，两人合到一处。",
+   "anchor": "Daley had gone to fetch his skin-drum",
+   "start": 28362,
+   "end": 28399
+  },
+  {
+   "fact": "Lonn 走后，Daley 说这首 Aislin’s Lament 是他母亲最喜欢的曲子。",
+   "anchor": "It was my mother’s favorite",
+   "start": 32253,
+   "end": 32280
+  }
+ ]
+}
