@@ -1,0 +1,136 @@
+{
+  "chapter": "ch26",
+  "source": "text/ch26_chapter_twenty_six.txt",
+  "char_total": 16574,
+  "events": [
+    {
+      "i": 1,
+      "summary": "行刑之后阿拉里克本能地转向塔拉辛，想跟她走，但因还要处置尸体善后而留在原地",
+      "quote": "He wanted to follow her as she left. He would have, but there was work to be carried out still. He had handed down the sentence and, thus, he needed to take charge of the aftermath.",
+      "start": 1055,
+      "end": 1236
+    },
+    {
+      "i": 2,
+      "summary": "塞弗瑞姆上前挡住尸体、劝阿拉里克先回要塞，说他脸色不好",
+      "quote": "“Perhaps it would be best to return to the Citadel, Your Majesty,” Sevraim was suggesting, was standing before him, blocking his view of the corpses. “You’re looking a bit peaked.”",
+      "start": 2767,
+      "end": 2947
+    },
+    {
+      "i": 3,
+      "summary": "阿拉里克当面拒绝签署《强化安全法令》，称条款不合理、需再修，甚至不如整份废除",
+      "quote": "“I will not sign it in its current state,” he told his father. “The proposed measures are unreasonable. The decree needs further revisions. It might even be wise to scrap it altogether.”",
+      "start": 5699,
+      "end": 5885
+    },
+    {
+      "i": 4,
+      "summary": "阿拉里克召出战镰扑向父亲，动作自然如呼吸，直到最后一刻才收住",
+      "quote": "Alaric’s war scythe materialized in his hands and he lunged at his father. It was an act as natural as breathing.",
+      "start": 7353,
+      "end": 7466
+    },
+    {
+      "i": 5,
+      "summary": "阿拉里克宣布不再替父亲打仗，将撤销对奥福尔德腹地基地的围攻并返航要塞",
+      "quote": "“I’m done fighting your wars for you, Father,” said Alaric. He would call off the siege on the Allfold’s Hinterland base and set course back to the Citadel",
+      "start": 8927,
+      "end": 9082
+    },
+    {
+      "i": 6,
+      "summary": "塔拉辛踢掉高跟鞋、脱去斗篷与长裙，换上束腰上衣和马裤",
+      "quote": "she ran to her wardrobe anyway, kicking off her heeled shoes and peeling away her cloak and dress. The delicate fabric of the latter ripped with her less-than-careful tugs",
+      "start": 11318,
+      "end": 11489
+    },
+    {
+      "i": 7,
+      "summary": "塔拉辛跟着卡艾德穿过走廊、下楼梯、从后门出去，一路避开士兵与仆人",
+      "quote": "It was the same cacophony that rang in Talasyn’s ears as she followed her friend into the hallway and down the stairs and out the back.",
+      "start": 11868,
+      "end": 12003
+    },
+    {
+      "i": 8,
+      "summary": "塔拉辛推开一扇门，看见沙里曼琴，世界仿佛碎成百万片",
+      "quote": "She pushed one door open, and her world shattered into a million pieces as she beheld the sariman.",
+      "start": 16475,
+      "end": 16573
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric",
+      "b": "Gaheris",
+      "relation": "父子兼君臣：盖瑞斯是摄政王、阿拉里克的父亲，阿拉里克是皇帝却受其辖制",
+      "quote": "“Then trust me now, Father.” Alaric thought about all the prisoners he had killed today, how so many had met their fate with anger in their eyes rather than terror.",
+      "start": 6720,
+      "end": 6884
+    },
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "夫妻：阿拉里克为妻子落泪而动摇，公开宣称她不是敌人",
+      "quote": "“Talasyn is not my enemy.” Alaric had never spoken to his father with such cold fury before.",
+      "start": 7895,
+      "end": 7987
+    },
+    {
+      "a": "Talasyn",
+      "b": "Khaede",
+      "relation": "朋友兼起义同盟：卡艾德按约定带塔拉辛撤离要塞",
+      "quote": "Talasyn followed Khaede’s lead because she had promised that she would. Because she understood that all the rebels and sympathizers who had infiltrated the Citadel were now blowing their covers left and right.",
+      "start": 13310,
+      "end": 13519
+    },
+    {
+      "a": "Alaric",
+      "b": "Sevraim",
+      "relation": "君臣：塞弗瑞姆是阿拉里克麾下的军团士兵，只能进言不能违令",
+      "quote": "“Let’s move out,” he told Sevraim curtly, ignoring the legionnaire’s assessment of his condition.",
+      "start": 3610,
+      "end": 3707
+    },
+    {
+      "a": "Gaheris",
+      "b": "Talasyn",
+      "relation": "公媳而敌对：盖瑞斯视塔拉辛为牵制阿拉里克的软肋，扬言要把她召来",
+      "quote": "“It seems that the Lightweaver is a terrible influence on you,” Gaheris proclaimed with a sneer. “How can you bring the Continent to heel when you can’t even control your own wife?”",
+      "start": 7078,
+      "end": 7259
+    }
+  ],
+  "numbers": [
+    {
+      "value": "两小时",
+      "context": "塔拉辛回到夜皇寝殿不到两小时，变故就爆发了",
+      "quote": "Talasyn had been back in the Night Empress’s chambers not even two hours before all hell broke loose.",
+      "start": 10114,
+      "end": 10215
+    },
+    {
+      "value": "数小时",
+      "context": "“拯救号”抵达新暴露的奥福尔德基地还需几个小时",
+      "quote": "It would be a couple of hours yet before they reached the newly exposed Allfold base and he would have to do battle once more.",
+      "start": 4161,
+      "end": 4287
+    },
+    {
+      "value": "一英寸",
+      "context": "阿拉里克的镰刃停在盖瑞斯喉前一英寸处",
+      "quote": "and he went still with the edge of the crescent-shaped blade humming at Gaheris’s throat, the barest inch away from a deadly collision",
+      "start": 7559,
+      "end": 7693
+    },
+    {
+      "value": "数月",
+      "context": "这场里应外合的行动筹划了数月，没有备用方案",
+      "quote": "This was a plan months in the making. There were no other contingencies. There was no coming back from it if it failed.",
+      "start": 13661,
+      "end": 13780
+    }
+  ],
+  "notes": "原文开头标题行重复两次（“Chapter Twenty-Six” 连续出现，中间夹 9 个空行/8 个换行残留）；正文段落间普遍存在多余空行；未见乱码或截断，末尾句子完整（“…as she beheld the sariman.”）。"
+}

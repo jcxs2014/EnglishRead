@@ -81,6 +81,18 @@
       "no": 7,
       "segments": [
         {
+          "text": "Inside the chest were seven metalglass spheres a little smaller in diameter than ceramic shells. Each perfectly crafted ",
+          "ok": true,
+          "pos": 9095
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
           "text": "“That’s because it’s not only from the sarimans. There’s spectral blood in there as well.” Khaede’s brow knitted as she ",
           "ok": true,
           "pos": 9865
@@ -89,8 +101,8 @@
       "words": 56
     },
     {
-      "block": "原句8",
-      "no": 8,
+      "block": "原句9",
+      "no": 9,
       "segments": [
         {
           "text": "Eventually I reached a part of the world that was just ocean. There was no land in sight, no other vessels, nowhere to r",
@@ -101,8 +113,20 @@
       "words": 38
     },
     {
-      "block": "原句9",
-      "no": 9,
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "My son came too early. It was only thanks to House Elidan and their healers that we both survived. I left him in Valisa ",
+          "ok": true,
+          "pos": 14905
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句11",
+      "no": 11,
       "segments": [
         {
           "text": "Crying, by definition, needed to involve tears. Her face remained dry even as strangled sounds clawed their way out of h",
@@ -113,8 +137,8 @@
       "words": 35
     },
     {
-      "block": "原句10",
-      "no": 10,
+      "block": "原句12",
+      "no": 12,
       "segments": [
         {
           "text": "“My son’s name is Nisandros. It means ‘victory’ in the language of Valisa. Into that name I poured all my hope. So don’t",
@@ -219,6 +243,21 @@
     {
       "block": "原句7",
       "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
         "中文理解": 79,
         "关键词": 0,
         "为什么这样写": 82,
@@ -232,7 +271,7 @@
       }
     },
     {
-      "block": "原句8",
+      "block": "原句9",
       "cjk": {
         "中文理解": 48,
         "关键词": 0,
@@ -247,7 +286,22 @@
       }
     },
     {
-      "block": "原句9",
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句11",
       "cjk": {
         "中文理解": 52,
         "关键词": 0,
@@ -262,7 +316,7 @@
       }
     },
     {
-      "block": "原句10",
+      "block": "原句12",
       "cjk": {
         "中文理解": 54,
         "关键词": 0,
@@ -292,10 +346,10 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 10,
-    "block_median": 8.5,
+    "blocks": 12,
+    "block_median": 9.0,
     "block_range": [
-      4,
+      5,
       13
     ],
     "profile": "novels",
@@ -311,9 +365,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 10,
+    "blocks": 12,
     "quote_long": 0,
-    "segments": 10,
+    "segments": 12,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,
@@ -333,7 +387,7 @@
   "block_limit": {
     "lo": 2,
     "hi": 15,
-    "basis": "本书 55 章中位 8、最高 13（同类书按本书分布判）"
+    "basis": "本书 55 章中位 9、最高 13（同类书按本书分布判）"
   },
   "issues": {
     "struct": [],

@@ -75,7 +75,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「seemingly…but」这一转：说给谁听与看着谁，是两件事；他们知道自己等不到胜利，才要先把话交出去。
 
-> **原句 7:** "“That’s because it’s not only from the sarimans. There’s spectral blood in there as well.” Khaede’s brow knitted as she summoned the technical explanation from memory. “Vaikar thinks that whatever is allowing the Night Empire to spin an unlimited supply of death magic from the few cores in their possession, we can turn it against them."
+> **原句 7:** "Inside the chest were seven metalglass spheres a little smaller in diameter than ceramic shells. Each perfectly crafted circle contained a molten core of aether magic, that familiar combination of sapphire swirled with ruby-red blood and streaks of silver lightning."
+
+- **中文理解**：箱子里是七颗金属玻璃球，直径比陶壳炸弹小一点。每一个都做得圆得没有瑕疵，里面封着一团熔融的以太魔法——可辨认的老配方：蓝宝石色里卷着血一样的红，还有银色的闪电在窜。
+
+- **关键词**：metalglass spheres · molten core · sapphire
+
+- **为什么这样写**：这段读起来像一份说明书：尺寸（比陶壳小）、数量（七）、结构（外圈与内核）、成色（蓝、红、银三种）。可它写的是杀器，用的却全是手工艺的词——perfectly crafted、swirled、streaks；上一段刚说这批东西来自「别人的礼物」，这段就把礼物拆给你看。
+
+- **读者视角提示**：注意比照对象是「陶壳炸弹」，也就是她见过、用过、并在这场战争里被炸过的那种东西。作者让读者先凭旧经验估出大小，再告诉你里面装的是完全不同的东西。
+
+> **原句 8:** "“That’s because it’s not only from the sarimans. There’s spectral blood in there as well.” Khaede’s brow knitted as she summoned the technical explanation from memory. “Vaikar thinks that whatever is allowing the Night Empire to spin an unlimited supply of death magic from the few cores in their possession, we can turn it against them."
 
 - **中文理解**：凯德说，这血不只取自萨里曼，里面还掺了幽影之血；她皱着眉，凭记忆把技术解释一点点召回来：维卡尔认为，夜帝国既然能靠手里那几颗核心无限榨取死亡魔法，那么这套东西也能被反过来用。
 
@@ -85,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「we can turn it against them」里的「we」：说这话的不是萨多维亚的将军，是内纳瓦伦的附魔师；战争已经不只属于全盟。
 
-> **原句 8:** "Eventually I reached a part of the world that was just ocean. There was no land in sight, no other vessels, nowhere to recharge. I flew until the magic gave out, and my coracle crashed into the Eversea."
+> **原句 9:** "Eventually I reached a part of the world that was just ocean. There was no land in sight, no other vessels, nowhere to recharge. I flew until the magic gave out, and my coracle crashed into the Eversea."
 
 - **中文理解**：她一路向西，最后到的地方只剩海：看不见陆地，没有别的船，也没有地方补充魔法；她一直飞到魔力耗尽，小艇坠进越海。
 
@@ -95,7 +105,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意这段自述里没有形容词：越是把最险的一段讲得干，越说明她已经能把它当往事；她的冷是从这里练出来的。
 
-> **原句 9:** "Crying, by definition, needed to involve tears. Her face remained dry even as strangled sounds clawed their way out of her chest. This, apparently, was how it felt for one’s being to shatter like bone."
+> **原句 10:** "My son came too early. It was only thanks to House Elidan and their healers that we both survived. I left him in Valisa and returned to the Continent to win the next war for him."
+
+- **中文理解**：我儿子来得太早。全靠埃利丹家族和他们的医者，我们两个才活下来。我把他留在瓦利萨，自己回大陆去替他打下一场战争。
+
+- **关键词**：too early · House Elidan · left him
+
+- **为什么这样写**：三句话把一件极重的事压成了行军记录：早产、活下来、走。没有一个形容词写她的心情，唯一的情绪痕迹是把孩子留在哪里这件事本身——她连「留」都说得像一道命令。
+
+- **读者视角提示**：这段解释了她为什么会在敌国的城塞里当侍女：她不是被人派来的，是自己选择回来的。而她回来的理由被压成最后那个状语——for him。
+
+> **原句 11:** "Crying, by definition, needed to involve tears. Her face remained dry even as strangled sounds clawed their way out of her chest. This, apparently, was how it felt for one’s being to shatter like bone."
 
 - **中文理解**：先把「哭」的定义摆出来：按定义得有眼泪。她脸是干的，胸口却有被勒住的声音硬挤出来。原来一个人像骨头一样碎掉，是这种感觉。
 
@@ -105,7 +125,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「Her face remained dry」：前面她一直在忍，忍到身体替她出声；这不是煽情段落，是她终于承认自己撑不住。
 
-> **原句 10:** "“My son’s name is Nisandros. It means ‘victory’ in the language of Valisa. Into that name I poured all my hope. So don’t give up on me now, because—I promise you—we will win.”"
+> **原句 12:** "“My son’s name is Nisandros. It means ‘victory’ in the language of Valisa. Into that name I poured all my hope. So don’t give up on me now, because—I promise you—we will win.”"
 
 - **中文理解**：她儿子的名字叫尼桑德罗斯，在瓦利萨语里意为「胜利」；她把自己全部的希望都倒进了这个名字；所以现在别放弃她——她保证，她们会赢。
 

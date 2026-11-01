@@ -1,0 +1,150 @@
+{
+  "chapter": "ch27",
+  "source": "text/ch27_chapter_twenty_seven.txt",
+  "char_total": 18128,
+  "events": [
+    {
+      "i": 1,
+      "summary": "凯黛德告诉塔拉辛，凯萨正筹备入侵涅纳瓦，并说自己一周前就发现了作战室。",
+      "quote": "“Kesath is preparing to invade Nenavar, Talasyn,” Khaede announced softly. “I found the war room a sennight ago while we were marking suitable areas to blow up.",
+      "start": 1322,
+      "end": 1482
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛推断阿拉里克以“保护”为名把她带回大陆，实为入侵涅纳瓦时的人质。",
+      "quote": "Alaric had needed an excuse to bring her back with him to the Continent. That was why he’d forced her to come, under the pretext of keeping her safe. She was to be a hostage",
+      "start": 2361,
+      "end": 2534
+    },
+    {
+      "i": 3,
+      "summary": "凯黛德主张放走萨里曼鸟，塔拉辛打开笼门，鸟却不敢飞出。",
+      "quote": "Talasyn swallowed, faced with yet another heart-wrenching truth. She walked over to the cage and flung its door open wide.",
+      "start": 3872,
+      "end": 3994
+    },
+    {
+      "i": 4,
+      "summary": "塔拉辛从窗台跃上萨多维安人的双体飞艇甲板，留守的同伴留下赴死。",
+      "quote": "Talasyn bit her lip and she leapt, from the ledge to the airship’s deck, and for a brief moment the world was a blur of air and sky.",
+      "start": 7127,
+      "end": 7259
+    },
+    {
+      "i": 5,
+      "summary": "凯黛德打开木箱，取出多明尼安提供的七颗玻璃金属球。",
+      "quote": "Inside the chest were seven metalglass spheres a little smaller in diameter than ceramic shells.",
+      "start": 9249,
+      "end": 9345
+    },
+    {
+      "i": 6,
+      "summary": "凯黛德说明计划：用这些球引爆虚空泉源，共鸣会把凯萨战舰拖入以太空间。",
+      "quote": "“It will create a resonance,” said Khaede. “The spectrals’ magic will affect all the Kesathese warships armed with void cannons. They’ll be pulled into aetherspace with no way out.”",
+      "start": 11340,
+      "end": 11521
+    },
+    {
+      "i": 7,
+      "summary": "凯黛德讲述自己驾狼形小艇西逃、坠海后被桑西亚·埃利丹家族收留救治。",
+      "quote": "I passed out, then I washed up on the shore of a coastal estate that belonged to Sancia Ossinast’s family.",
+      "start": 14609,
+      "end": 14715
+    },
+    {
+      "i": 8,
+      "summary": "凯黛德说儿子取名尼桑德罗斯（意为“胜利”），并要塔拉辛不要放弃。",
+      "quote": "“My son’s name is Nisandros. It means ‘victory’ in the language of Valisa. Into that name I poured all my hope.",
+      "start": 17952,
+      "end": 18063
+    }
+  ],
+  "relations": [
+    {
+      "a": "凯黛德",
+      "b": "塔拉辛",
+      "relation": "旧友/同盟（自幼相识的萨多维安战友，凯黛德曾以为她叛国）",
+      "quote": "The part that was achingly aware she was here now with her oldest friend who had been widowed on her wedding night.",
+      "start": 12285,
+      "end": 12400
+    },
+    {
+      "a": "塔拉辛",
+      "b": "阿拉里克",
+      "relation": "夫妻/敌对（她是他妻子，也是他计划中的人质）",
+      "quote": "She was to be a hostage once the Night Empire turned its warships southeast. That had been her husband’s plan all along.",
+      "start": 2511,
+      "end": 2631
+    },
+    {
+      "a": "凯黛德",
+      "b": "尼桑德罗斯",
+      "relation": "母子（她把儿子留在瓦利萨，为他回去打下一场战争）",
+      "quote": "I left him in Valisa and returned to the Continent to win the next war for him.",
+      "start": 15257,
+      "end": 15336
+    },
+    {
+      "a": "凯黛德",
+      "b": "桑西亚·埃利丹",
+      "relation": "受助者/恩人（桑西亚家族与医者救了母子二人）",
+      "quote": "It was only thanks to House Elidan and their healers that we both survived.",
+      "start": 15181,
+      "end": 15256
+    },
+    {
+      "a": "凯黛德",
+      "b": "萨多维安叛军（南翼十人）",
+      "relation": "主从/同盟（部下称她“将军”，受命留下断后）",
+      "quote": "“Bring us victory, General,” one of the rebels in guard uniform said.",
+      "start": 6732,
+      "end": 6801
+    }
+  ],
+  "numbers": [
+    {
+      "value": "1（a sennight，一周）",
+      "context": "凯黛德发现作战室距今的时间",
+      "quote": "I found the war room a sennight ago while we were marking suitable areas to blow up.",
+      "start": 1398,
+      "end": 1482
+    },
+    {
+      "value": "7",
+      "context": "木箱内玻璃金属球的颗数",
+      "quote": "Inside the chest were seven metalglass spheres a little smaller in diameter than ceramic shells.",
+      "start": 9249,
+      "end": 9345
+    },
+    {
+      "value": "10",
+      "context": "塔楼房间里萨多维安人的数量",
+      "quote": "None of the ten Sardovians holed up inside looked particularly happy to see her even as they lowered their weapons.",
+      "start": 5300,
+      "end": 5415
+    },
+    {
+      "value": "一半（half）",
+      "context": "暗影铸军团随阿拉里克外出的比例",
+      "quote": "Alaric and half of the Shadowforged Legion were absent from the Citadel while most of the other half had been sent out by Gaheris",
+      "start": 8285,
+      "end": 8414
+    },
+    {
+      "value": "1（a year，一年）",
+      "context": "仅一年前还认为不可能得到的援助规模",
+      "quote": "More nations are helping us than what we thought possible only a year ago.",
+      "start": 17575,
+      "end": 17649
+    },
+    {
+      "value": "2（two separate elements，两股元素）",
+      "context": "血丝看起来像两股同色元素编成",
+      "quote": "as though it consisted of two separate elements that just happened to be of the same color.",
+      "start": 9937,
+      "end": 10028
+    }
+  ],
+  "notes": "原文首行与第 12 行重复出现章节标题「Chapter Twenty-Seven」；正文自第 15 行起，标题与正文之间残留 10 余个空行；正文段间普遍为双空行，末尾无多余空白。"
+}

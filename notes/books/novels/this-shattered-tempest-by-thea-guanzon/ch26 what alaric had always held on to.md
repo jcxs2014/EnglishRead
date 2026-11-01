@@ -55,7 +55,27 @@ modified: "2026-11-01"
 
 - **读者视角提示**：留意那个比较：他没有否认这是屠杀，只是把做这件事的理由从国家换成了她。承认事实、调换动机，比矢口否认更让人不安。
 
-> **原句 5:** "“It seems that the Lightweaver is a terrible influence on you,” Gaheris proclaimed with a sneer. “How can you bring the Continent to heel when you can’t even control your own wife?” He shook his head. “I should have sent for her sooner. Perhaps that may be rectified yet.”"
+> **原句 5:** "“Perhaps it would be best to return to the Citadel, Your Majesty,” Sevraim was suggesting, was standing before him, blocking his view of the corpses. “You’re looking a bit peaked.”"
+
+- **中文理解**：「陛下，或许最好先回城塞。」塞夫雷姆正这样建议，人已经站到他面前，挡住了他看尸体的视线。「您脸色不太好。」
+
+- **关键词**：was suggesting · blocking his view · peaked
+
+- **为什么这样写**：这段的动词时态是坏的——was suggesting，一个还没说完的劝告；紧接着又是一个 was，塞夫雷姆「正站在那儿、正挡着」。两个进行时把画面定在一个还没结束的动作上，而最后那句「您脸色不太好」才是他真正想说的。
+
+- **读者视角提示**：注意他来挡的是「视线」而不是「人」。塞夫雷姆知道他会一直看下去，所以先站到他和尸体之间——这是在替他做决定。
+
+> **原句 6:** "“I will not sign it in its current state,” he told his father. “The proposed measures are unreasonable. The decree needs further revisions. It might even be wise to scrap it altogether.”"
+
+- **中文理解**：「按现在这一版，我不会签。」他对父亲说。「这些条款不合理。法令需要再修。也许干脆整份废掉才是明智的。」
+
+- **关键词**：current state · further revisions · scrap it
+
+- **为什么这样写**：三句话一句比一句狠：不签（针对这一版）→ 不合理（针对内容）→ 干脆废掉（针对整份法令）。他没有用「我需要时间」这种缓冲，而是把台阶一级一级抽掉，最后那句 might even be wise 用的是商量口吻，说的却是最不留余地的话。
+
+- **读者视角提示**：这是他第一次当面驳回父亲的命令，而驳回的对象不是一场战役，是一份已经在推行中的法令——也就是说，他反对的是已经发生的事，不是将来要发生的事。
+
+> **原句 7:** "“It seems that the Lightweaver is a terrible influence on you,” Gaheris proclaimed with a sneer. “How can you bring the Continent to heel when you can’t even control your own wife?” He shook his head. “I should have sent for her sooner. Perhaps that may be rectified yet.”"
 
 - **中文理解**：盖赫里斯先把光织者说成带坏他的坏影响，再把话挑明：连自己妻子都管不住，怎么让大陆屈服；最后一句「我该早点把她召来，也许还来得及纠正」，把责备升级成了动手预告。
 
@@ -65,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「rectified」（纠正）用在一个活人身上，等于把人当成一份待改的文件。听见这个词，下一段的镰刀就不突然了。
 
-> **原句 6:** "“Talasyn is not my enemy.” Alaric had never spoken to his father with such cold fury before. He didn’t feel like himself—this moment truly didn’t feel like it was happening to him, but to someone else, someone he watched from across the room. “You may have done with me as you pleased in the past, but I will not let you touch her.”"
+> **原句 8:** "“Talasyn is not my enemy.” Alaric had never spoken to his father with such cold fury before. He didn’t feel like himself—this moment truly didn’t feel like it was happening to him, but to someone else, someone he watched from across the room. “You may have done with me as you pleased in the past, but I will not let you touch her.”"
 
 - **中文理解**：他先否认「她是我的敌人」，再用一种自己都陌生的冷怒告诉父亲：过去你怎么处置我都行，但她不能碰。
 
@@ -75,7 +95,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：上一段（引语之外）他的镰刀已经架到父亲喉前，靠最后关头一点理性才停住；这一块是刀停住之后的话。让这句话有分量的，是那把还没收起来的刀。
 
-> **原句 7:** "It started with a sound she hadn’t heard in a while, but the reaction to it would always be instinctive. An explosion. She reached out one palm to weave a shield, remembered that she didn’t have her magic anymore, and threw up both arms to protect her head instead. Another explosion, followed by several more like fireworks in the . . . distance?"
+> **原句 9:** "“I’m done fighting your wars for you, Father,” said Alaric. He would call off the siege on the Allfold’s Hinterland base and set course back to the Citadel, and he and Talasyn would figure out what to do from there."
+
+- **中文理解**：「我不再替你打仗了，父亲。」阿拉里克说。他要撤掉对全盟腹地基地的围攻、调头回城塞，剩下的他和塔拉辛再想怎么办。
+
+- **关键词**：done fighting · call off · figure out
+
+- **为什么这样写**：一句宣告（done fighting）之后紧跟一句调度（call off the siege、set course），「不打了」立刻被翻译成三件具体军务：撤围、改航向、回去再商量。叙述用的是 would——不是「我打算」，而是「他要」，把决心写成已经发生的安排。
+
+- **读者视角提示**：这是他第一次把「不打」说成命令而不是请求；注意他没有辞职、没有交出兵权，只是把这场战争从「父亲的」改成了「不打了」。紧接着的下一句（不在本块引语内）才是禁令：「今天不会再有人死了。」
+
+> **原句 10:** "It started with a sound she hadn’t heard in a while, but the reaction to it would always be instinctive. An explosion. She reached out one palm to weave a shield, remembered that she didn’t have her magic anymore, and threw up both arms to protect her head instead. Another explosion, followed by several more like fireworks in the . . . distance?"
 
 - **中文理解**：爆炸先到，身体先动——她伸手要织盾，才想起以太术已经不在，只好把两条手臂抬起来护头；再炸几声，最后一句把「距离」拖成一个疑问，她这才开始判断远近。
 
@@ -85,7 +115,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「. . . distance?」（……远处？）里的省略号是原文写法，它把「远」这个判断拖慢半拍；那半拍正好是她还没反应过来的时间。
 
-> **原句 8:** "“This is where they’ll fetch us.” Khaede escorted Talasyn through a side entrance. “There’s no landing grid, so we’ll have to jump out the tower window. I hope you still remember how to jump out of tower windows, Lachis’ka.”"
+> **原句 11:** "Talasyn had no idea what was going on but she ran to her wardrobe anyway, kicking off her heeled shoes and peeling away her cloak and dress. The delicate fabric of the latter ripped with her less-than-careful tugs, but it was hardly of consequence as she changed into a tunic and breeches. She refused to fight her way out in a beaded skirt ever again."
+
+- **中文理解**：塔拉辛完全不知道外面在发生什么，可她还是跑向衣柜，踢掉高跟的鞋、扯下斗篷和长裙。那条料子精细的裙子被她拉得裂了，可她顾不上——她换上了束腰上衣和马裤。她再也不要穿着一条缀满珠子的裙子拼命逃出去了。
+
+- **关键词**：her wardrobe · heeled shoes · beaded skirt
+
+- **为什么这样写**：这段写的是「不知道发生了什么，但先换衣服」——动作全在身体上：踢、扯、换。裙子被撕坏这件事只用 hardly of consequence 一句带过，真正的分量落在最后一句：她把上一回逃亡的教训记成了穿衣标准。
+
+- **读者视角提示**：注意「再也不要」（ever again）这个词组——它把这一章的爆炸和更早某一次逃亡缝在一起，也说明她此刻已在按最坏的情况准备。
+
+> **原句 12:** "“This is where they’ll fetch us.” Khaede escorted Talasyn through a side entrance. “There’s no landing grid, so we’ll have to jump out the tower window. I hope you still remember how to jump out of tower windows, Lachis’ka.”"
 
 - **中文理解**：凯德把她领到南翼侧门，顺口交代接应：这里没有着陆网，只能从塔窗跳出去；末了还用半开玩笑的口气问她，「跳塔窗」这门手艺是不是还记得，并且改用「拉奇斯卡」这个尊号唤她。
 
@@ -95,7 +135,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这句玩笑默认她干过这事——「还记得怎么跳」本身就在提醒她：你从前有过这条路，只是这次跳的方向是往外。
 
-> **原句 9:** "Talasyn stumbled toward the sound, her entire being weighed down with disbelief. She pushed one door open, and her world shattered into a million pieces as she beheld the sariman."
+> **原句 13:** "Talasyn stumbled toward the sound, her entire being weighed down with disbelief. She pushed one door open, and her world shattered into a million pieces as she beheld the sariman."
 
 - **中文理解**：她循着声音往那扇门走，整个人被「不可能」压着；门一推开，她看见了萨里曼，句子在这里断掉，只剩「世界碎成一百万片」。
 

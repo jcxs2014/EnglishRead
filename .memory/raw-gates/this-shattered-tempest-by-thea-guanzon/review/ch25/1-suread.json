@@ -1,0 +1,143 @@
+{
+  "chapter": "ch25",
+  "source": "text/ch25_chapter_twenty_five.txt",
+  "char_total": 17322,
+  "events": [
+    {
+      "i": 1,
+      "summary": "塔拉辛当面拒绝出席处决，说她绝不坐着看同胞被集体处死。",
+      "quote": "“I’m not going to watch a mass execution,” she said, shaking her head. “No, you can’t make me.”",
+      "start": 907,
+      "end": 1002
+    },
+    {
+      "i": 2,
+      "summary": "阿拉里克回答说，若他违抗盖赫里斯，父亲的怒火就会落到塔拉辛身上。",
+      "quote": "“If I refuse him,” said Alaric, “he will take his anger out on you. That is something I cannot allow.”",
+      "start": 1424,
+      "end": 1526
+    },
+    {
+      "i": 3,
+      "summary": "阿拉里克承诺会让她的人死得干脆，只求她别做出引人注目的举动。",
+      "quote": "“I can’t let them live. You are aware of this,” he said hoarsely. “But I’ll make it quick. I promise. Just don’t do anything to catch attention.”",
+      "start": 3390,
+      "end": 3535
+    },
+    {
+      "i": 4,
+      "summary": "凯德在浴室替塔拉辛更衣时，报告了《强化安全法令》的内容与即将生效。",
+      "quote": "“I managed to learn more about the Enhanced Security Decree while you were in Grand Bight,” Khaede said, fastening the ruby-studded clasps at the back of Talasyn’s dress.",
+      "start": 6408,
+      "end": 6578
+    },
+    {
+      "i": 5,
+      "summary": "凯德转述宫女的传闻，说南翼有人听见前夜皇后的歌声。",
+      "quote": "“They hear someone singing on occasion. They think it’s the former Night Empress.”",
+      "start": 8390,
+      "end": 8472
+    },
+    {
+      "i": 6,
+      "summary": "刑场上塔拉辛站在前排，五十名被绑的萨多维安俘虏跪在地上。",
+      "quote": "Alaric was only a few feet away from her, and so were the prisoners—all fifty of them, kneeling on the ground, hands tied behind their backs.",
+      "start": 10695,
+      "end": 10836
+    },
+    {
+      "i": 7,
+      "summary": "阿拉里克没有发表任何仪式性讲话，直接放出影刃处死了全部俘虏。",
+      "quote": "Without uttering a single word of the ceremonial speech that was expected of him, Alaric sent the inky knives flying in all directions.",
+      "start": 14520,
+      "end": 14655
+    },
+    {
+      "i": 8,
+      "summary": "塔拉辛泪流满面，转身逃回飞艇离开平原。",
+      "quote": "Talasyn turned and fled back to the airship that would ferry her across the plains to the Citadel.",
+      "start": 17006,
+      "end": 17104
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "夫妻（夜皇与他的皇后，她实为萨多维安光织者）",
+      "quote": "If only he could hold his wife and let her smooth all the bad memories away.",
+      "start": 2448,
+      "end": 2524
+    },
+    {
+      "a": "Alaric",
+      "b": "Gaheris",
+      "relation": "父子兼君臣；阿拉里克始终不敢公开违抗父亲",
+      "quote": "if my father tries to hurt you, I will have no choice but to stop him.",
+      "start": 3559,
+      "end": 3629
+    },
+    {
+      "a": "Talasyn",
+      "b": "Khaede",
+      "relation": "女友兼密谋同伴；凯德不肯把全部计划告诉她",
+      "quote": "“By the way, Tal—after you get back from the plains, follow my lead, all right?”",
+      "start": 9667,
+      "end": 9747
+    },
+    {
+      "a": "Ileis",
+      "b": "Talasyn",
+      "relation": "监视者/护卫；以萨多维安旧称 Lachis’ka 称呼她并警告她不许移开视线",
+      "quote": "“You can’t look away, Lachis’ka,” Ileis muttered as soon as she caught the turn of Talasyn’s head out of the corner of her eye.",
+      "start": 11752,
+      "end": 11879
+    },
+    {
+      "a": "Alaric",
+      "b": "Sancia Ossinast",
+      "relation": "母子；母亲多年前弃他而去",
+      "quote": "This was how his mother had looked in the months before she left him.",
+      "start": 5441,
+      "end": 5510
+    }
+  ],
+  "numbers": [
+    {
+      "value": "50",
+      "context": "在平原上被处决的萨多维安俘虏人数",
+      "quote": "all fifty of them, kneeling on the ground, hands tied behind their backs.",
+      "start": 10763,
+      "end": 10836
+    },
+    {
+      "value": "hundreds",
+      "context": "聚集在刑场围观的士兵、平民与整支影锻军团人数",
+      "quote": "The execution site was eerily silent despite the hundreds of people who had converged upon it.",
+      "start": 10294,
+      "end": 10388
+    },
+    {
+      "value": "dozens",
+      "context": "阿拉里克的影魔法凝成的弯刀数量",
+      "quote": "collapsing into themselves to form dozens of curved blades, their serrated edges crackling with the silver static of aetherspace.",
+      "start": 14388,
+      "end": 14517
+    },
+    {
+      "value": "several feet",
+      "context": "刑场上阿拉里克与塔拉辛之间的距离",
+      "quote": "The distance of several feet might as well have been an insurmountable chasm between them.",
+      "start": 13667,
+      "end": 13757
+    },
+    {
+      "value": "two",
+      "context": "塔拉辛被称呼的两套头衔（Lachis’ka 与夜国皇后）",
+      "quote": "Two different titles. Two roles she couldn’t fulfill without letting go of something else—a murdered mother, a former allegiance.",
+      "start": 15841,
+      "end": 15970
+    }
+  ],
+  "notes": "语料问题：①标题重复——第1行与第12行都是“Chapter Twenty-Five”；②第2–11行及第130–141行为连续空行残留，正文实际从第15行开始；③第131–140行（鬼魂传闻段之后）有一大段空行把同一段落语境隔开；④本章含集体处决场面，摘要只记事实不复述暴力细节。"
+}

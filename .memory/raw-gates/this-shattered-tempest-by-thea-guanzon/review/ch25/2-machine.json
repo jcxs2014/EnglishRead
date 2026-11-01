@@ -93,6 +93,30 @@
       "no": 8,
       "segments": [
         {
+          "text": "Flanked by Ileis and Nisene, Talasyn stood up front, wrapped in a black cloak that fluttered as the cold breeze of early",
+          "ok": true,
+          "pos": 10286
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“You can’t look away, Lachis’ka,” Ileis muttered as soon as she caught the turn of Talasyn’s head out of the corner of h",
+          "ok": true,
+          "pos": 11475
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
           "text": "It was only for the briefest of seconds, his irises blazing like moonlight as they slid in her direction above the jagge",
           "ok": true,
           "pos": 13566
@@ -101,8 +125,8 @@
       "words": 55
     },
     {
-      "block": "原句9",
-      "no": 9,
+      "block": "原句11",
+      "no": 11,
       "segments": [
         {
           "text": "Without uttering a single word of the ceremonial speech that was expected of him, Alaric sent the inky knives flying in ",
@@ -113,8 +137,8 @@
       "words": 41
     },
     {
-      "block": "原句10",
-      "no": 10,
+      "block": "原句12",
+      "no": 12,
       "segments": [
         {
           "text": "Talasyn turned and fled back to the airship that would ferry her across the plains to the Citadel. So what if she was le",
@@ -132,13 +156,13 @@
         "中文理解": 55,
         "关键词": 0,
         "为什么这样写": 71,
-        "读者视角提示": 54
+        "读者视角提示": 126
       },
       "cjk_ratio": {
         "中文理解": 0.69,
         "关键词": 0.0,
         "为什么这样写": 0.76,
-        "读者视角提示": 0.61
+        "读者视角提示": 0.73
       }
     },
     {
@@ -162,13 +186,13 @@
         "中文理解": 53,
         "关键词": 0,
         "为什么这样写": 82,
-        "读者视角提示": 41
+        "读者视角提示": 100
       },
       "cjk_ratio": {
         "中文理解": 0.57,
         "关键词": 0.0,
         "为什么这样写": 0.87,
-        "读者视角提示": 0.49
+        "读者视角提示": 0.66
       }
     },
     {
@@ -234,6 +258,36 @@
     {
       "block": "原句8",
       "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 82,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 76,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
         "中文理解": 62,
         "关键词": 0,
         "为什么这样写": 67,
@@ -247,7 +301,7 @@
       }
     },
     {
-      "block": "原句9",
+      "block": "原句11",
       "cjk": {
         "中文理解": 53,
         "关键词": 0,
@@ -262,7 +316,7 @@
       }
     },
     {
-      "block": "原句10",
+      "block": "原句12",
       "cjk": {
         "中文理解": 60,
         "关键词": 0,
@@ -292,10 +346,10 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 10,
-    "block_median": 8.5,
+    "blocks": 12,
+    "block_median": 9.0,
     "block_range": [
-      4,
+      5,
       13
     ],
     "profile": "novels",
@@ -311,9 +365,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 10,
+    "blocks": 12,
     "quote_long": 0,
-    "segments": 10,
+    "segments": 12,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,
@@ -333,7 +387,7 @@
   "block_limit": {
     "lo": 2,
     "hi": 15,
-    "basis": "本书 55 章中位 8、最高 13（同类书按本书分布判）"
+    "basis": "本书 55 章中位 9、最高 13（同类书按本书分布判）"
   },
   "issues": {
     "struct": [],

@@ -23,7 +23,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：把两个人的抗拒塞进同一句里，用「if not more so」这种追加式比较，让他的痛苦压过她的痛苦一头，却不给他一句辩解的机会。她的话全是短句和否定，没有一个「求你」，因为一求情，位置就变了。
 
-- **读者视角提示**：本章开头那段已经写过他闭眼就能看见沉船峡的塌方与惨叫；这里「just as suffocated now」是那口气的延续。读的时候把重音放在「watch」上——她拒绝的不是死，是看。
+- **读者视角提示**：本章开头那段已经写过他闭眼就能看见沉船峡的塌方与惨叫；这里「just as suffocated now」是那口气的延续。读的时候把重音放在「watch」上——她拒绝的不是死，是看。他给出的理由在紧接着的下一段（不在本块引语内），只有一句：「如果我拒绝他，他会把怒气撒到你身上。这是我不能容许的。」——把父命换算成她的风险，是他这一章唯一一次直说立场。
 
 > **原句 2:** "“I’ve already explained why it has to happen,” Alaric snarled. “Why do you even care about the deaths of the same people who tried to kill you?” This, for him, was the heart of the matter—Talasyn’s continued sympathy for the Allfold."
 
@@ -43,7 +43,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：她只陈述位置，不请求赦免，于是这段话不像求情，更像一份她无法改写的名单。整段的感官归他（刀割般的缺席），说出口的却是她最短、最不容辩驳的几句——视角与台词分给两个人，争吵才不至于变成独白。
 
-- **读者视角提示**：注意「you were my enemy」是过去时。她没有说「你现在是」，这个时态替她把门留了一条缝，也让下一句「I can’t help how I feel」同时指向过去和现在。
+- **读者视角提示**：注意「you were my enemy」是过去时。她没有说「你现在是」，这个时态替她把门留了一条缝，也让下一句「I can’t help how I feel」同时指向过去和现在。他对她的让步落在同一段的末尾（不在本块引语内）：「但我会让他们死得干脆。我保证。你只要别做引人注目的事。」她争到的最好条件，是死得快一点。
 
 > **原句 4:** "“I refuse to let anyone else die for me!” She was on the verge of panic, shaking in his arms. “All this bloodshed, all this terror—there’s always going to be someone who will, in the end, decide that enough is enough. If you don’t give them anything to believe in other than fear, people will always start fighting back.”"
 
@@ -85,7 +85,27 @@ modified: "2026-11-01"
 
 - **读者视角提示**：真正被说的是阿拉里克小时候由谁哄睡，而不是宫里有没有鬼。留意「ran away to」——传言里她是逃走的，不是被杀的；这一句和凯德的笑放在一起，值得多停两秒。
 
-> **原句 8:** "It was only for the briefest of seconds, his irises blazing like moonlight as they slid in her direction above the jagged rim of his mask. So short a time, yet it was enough to strike her where she stood, the world brought into sharp relief and her bones laid bare by a fleeting illumination."
+> **原句 8:** "Flanked by Ileis and Nisene, Talasyn stood up front, wrapped in a black cloak that fluttered as the cold breeze of early morning wove through it. Alaric was only a few feet away from her, and so were the prisoners—all fifty of them, kneeling on the ground, hands tied behind their backs."
+
+- **中文理解**：塔拉辛在伊莱丝与尼塞娜之间站在最前排，裹着一件黑斗篷，清晨的冷风穿过时斗篷一直在飘。阿拉里克离她只有几步远，俘虏也是——整整五十个人，跪在地上，双手反绑在背后。
+
+- **关键词**：flanked · a few feet · all fifty
+
+- **为什么这样写**：这段只做定位，但每个定位都带重量：flanked（被夹在中间）、up front（最前排）、a few feet away（几步远）、all fifty（五十个）、kneeling（跪着）、tied。她不是观众席上的人，她被安排在看得最清楚的位置上；「几步远」这个说法同时量了她和丈夫、她和俘虏——三者在同一段距离里。
+
+- **读者视角提示**：注意斗篷。全章没有别的地方花笔墨写她穿什么，只有这里：一件被风吹得不停动的黑斗篷，正是她最不该穿的颜色的衣服，被风一直提醒着。
+
+> **原句 9:** "“You can’t look away, Lachis’ka,” Ileis muttered as soon as she caught the turn of Talasyn’s head out of the corner of her eye. “You must keep watching, because people are watching you. I would prefer that you not add to Emperor Alaric’s troubles.”"
+
+- **中文理解**：「你不能移开视线，拉奇斯卡。」伊莱丝一从眼角瞥见她转头就低声说。「你必须一直看下去，因为别人都在看你。我希望你别再给阿拉里克陛下添麻烦。」
+
+- **关键词**：look away · keep watching · add to
+
+- **为什么这样写**：这句劝告里没有一个字提到痛苦，全是位置：不能移开、必须一直看、别人在看你、别给他添麻烦。伊莱丝用内纳瓦伦旧头衔叫她（Lachis’ka），随后又用「他的麻烦」把她归到夜帝这一边——一句话里两种归属。
+
+- **读者视角提示**：她连转头都被「眼角」抓住，说明这一排人从头到尾都在互相盯着。这里第一次出现「别人在看你」这种把观看变成义务的说法，与上一段「站最前排」是同一套安排。
+
+> **原句 10:** "It was only for the briefest of seconds, his irises blazing like moonlight as they slid in her direction above the jagged rim of his mask. So short a time, yet it was enough to strike her where she stood, the world brought into sharp relief and her bones laid bare by a fleeting illumination."
 
 - **中文理解**：行刑前他朝她看了一眼，只有极短的一瞬，虹膜在面具锯齿边缘之上亮如月光；短得不能再短，却把她钉在原地，世界被照得棱角分明，连骨头都露了出来。
 
@@ -95,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一眼之后他没有说话，下一段直接是影刀出鞘。发亮与发令之间没有过渡，正是这个省略，让随后的杀戮像一件私人的事，而不是国事。
 
-> **原句 9:** "Without uttering a single word of the ceremonial speech that was expected of him, Alaric sent the inky knives flying in all directions. They moved toward the captive Sardovians as swiftly as swarms of crumpled black leaves in a stiff wind."
+> **原句 11:** "Without uttering a single word of the ceremonial speech that was expected of him, Alaric sent the inky knives flying in all directions. They moved toward the captive Sardovians as swiftly as swarms of crumpled black leaves in a stiff wind."
 
 - **中文理解**：他一句众人等着听的仪式性演说都没有，直接让墨色的刀四散飞出；刀奔向被俘的萨多维亚人，快得像疾风里成群的、揉皱的黑叶。
 
@@ -105,7 +125,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：夜谈里他答应过她「会很快」（I’ll make it quick），这一块就是那句承诺的兑现。兑现得越利落，她欠下的那部分就越重：她没法说他不守信用。
 
-> **原句 10:** "Talasyn turned and fled back to the airship that would ferry her across the plains to the Citadel. So what if she was leaving as unceremoniously as how Alaric had killed her comrades? So what if she could hear the whispers among the crowd and feel the smirks aimed at her retreating form?"
+> **原句 12:** "Talasyn turned and fled back to the airship that would ferry her across the plains to the Citadel. So what if she was leaving as unceremoniously as how Alaric had killed her comrades? So what if she could hear the whispers among the crowd and feel the smirks aimed at her retreating form?"
 
 - **中文理解**：她转身逃回那艘渡她过平原、回城塞的飞艇。走得和阿拉里克杀她战友一样不体面，又怎样？听得见人群的低语、感觉得到落在她背影上的笑，又怎样？
 
