@@ -1,0 +1,143 @@
+{
+  "chapter": "ch41",
+  "source": "text/ch41_chapter_forty_one.txt",
+  "char_total": 17455,
+  "events": [
+    {
+      "i": 1,
+      "summary": "苏拉奎尔当众作证：昨夜他跟踪露维进入地窖，亲眼见她摆弄阿伦西娜·伊夫拉利斯的王冠。",
+      "quote": "“I followed you down into the vaults last night, my lady,” he told Lueve in a voice that was steady and clear to all those listening.",
+      "start": 868,
+      "end": 1001
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛当面指出：W’taida 爆炸后所有廷臣都冲回王座厅，唯独露维不在人群中，且她的珊瑚舟最先离船。",
+      "quote": "After I left the throne room, all the courtiers rushed back in—all except you, Daya Rasmey. I didn’t see you in the crowd anymore.",
+      "start": 1719,
+      "end": 1849
+    },
+    {
+      "i": 3,
+      "summary": "塔拉辛出示登舰记录：出发前夜露维持王太后手令登上 W’taida，奉命更换茶与寝具。",
+      "quote": "The night before departure, you were recorded as having boarded the W’taida. You had written permission from my grandmother, since she’d ordered you to replace the tea and beddings in her stateroom.",
+      "start": 2415,
+      "end": 2613
+    },
+    {
+      "i": 4,
+      "summary": "露维沙哑地供认：她用定时炮弹，由混在船员中的手下点燃引信。",
+      "quote": "“Timed shells,” she hoarsely confessed. “My men among the crew lit the fuses.”",
+      "start": 3131,
+      "end": 3209
+    },
+    {
+      "i": 5,
+      "summary": "塔拉辛收起光织与毒针，下令将露维带走、处以流放而非处死。",
+      "quote": "“Take her away,” Talasyn ordered the Lachis-dalo, her eyes never leaving Lueve’s face. “She will have plenty of time to think on her sins in exile.”",
+      "start": 5016,
+      "end": 5164
+    },
+    {
+      "i": 6,
+      "summary": "阿拉里克在 Deliverance 号卸下染血铠甲后，于光影交界向塔拉辛通报：大湾城已被虚空炮夷为平地。",
+      "quote": "“Grand Bight has been decimated,” he brusquely informed her. “The Allfold leveled it with their frigates, then they deployed the Nautilus’s void cannons on its fleeing civilian populace.",
+      "start": 10894,
+      "end": 11080
+    },
+    {
+      "i": 7,
+      "summary": "塔拉辛告诉阿拉里克那是一场加冕礼，并说她的外祖母已经死了。",
+      "quote": "“It was a coronation.” That simple statement, the rules of his world—they formed the shape of the immediate future. He knew what she was going to say before she said it. “My grandmother is dead.”",
+      "start": 13144,
+      "end": 13339
+    },
+    {
+      "i": 8,
+      "summary": "阿拉里克散掉暗影长剑欲起身离开，塔拉辛散去光剑、双臂环住他脖颈把他拉回，两人相拥。",
+      "quote": "He banished his weapon and started to get up—to get away from her—but she stopped him. Her own sword disappeared and she wound her arms around his neck, pulling him back down.",
+      "start": 14082,
+      "end": 14257
+    }
+  ],
+  "relations": [
+    {
+      "a": "Lueve Rasmey",
+      "b": "Talasyn",
+      "relation": "君臣（露维是塔拉辛的 Daya Rasmey）转为叛徒与审判者",
+      "quote": "After I left the throne room, all the courtiers rushed back in—all except you, Daya Rasmey. I didn’t see you in the crowd anymore.",
+      "start": 1719,
+      "end": 1849
+    },
+    {
+      "a": "Surakwel",
+      "b": "Lueve Rasmey",
+      "relation": "姑侄（苏拉奎尔敬爱这位姑母，却出面指证她）",
+      "quote": "Surakwel genuinely treasured his aunt, held her in all the awe and respect that a child would a caring older relative.",
+      "start": 435,
+      "end": 553
+    },
+    {
+      "a": "Niamha",
+      "b": "Surakwel",
+      "relation": "同盟/伴侣（尼亚姆哈以细微动作给他支撑）",
+      "quote": "Niamha was standing next to him. She quietly latched her fingers into the cuff of his sleeve.",
+      "start": 687,
+      "end": 780
+    },
+    {
+      "a": "Alaric Ossinast",
+      "b": "Talasyn",
+      "relation": "夫妻（分居的皇帝与女皇，交战中仍相互牵系）",
+      "quote": "When his estranged wife came into view, she was in the process of sitting up. The In-Between had apparently engulfed her while she lay in bed.",
+      "start": 9498,
+      "end": 9640
+    },
+    {
+      "a": "Talasyn",
+      "b": "Urduja Silim",
+      "relation": "祖孙（外祖母已死，塔拉辛对外只对阿拉里克承认恨她）",
+      "quote": "“It was a coronation.” That simple statement, the rules of his world—they formed the shape of the immediate future. He knew what she was going to say before she said it. “My grandmother is dead.”",
+      "start": 13144,
+      "end": 13339
+    }
+  ],
+  "numbers": [
+    {
+      "value": "seven",
+      "context": "大陆入夜，七个月亮以各自相位悬在黑色天幕上",
+      "quote": "Night fell over the Continent. The seven moons wreathed the black sky in their various phases, shining a pale, cold light on the hulking form of the Deliverance",
+      "start": 5167,
+      "end": 5327
+    },
+    {
+      "value": "thirty / one",
+      "context": "大湾城之毁仅一艘虚空风暴船所致；被塔拉辛弄消失的三十艘若还在，凯萨斯早已取胜",
+      "quote": "What had happened to Grand Bight today had been the effect of one void stormship alone. The thirty that Talasyn had made vanish . . .",
+      "start": 8157,
+      "end": 8290
+    },
+    {
+      "value": "sennight",
+      "context": "连续一周不间断的战争让阿拉里克的魔力变弱",
+      "quote": "It seemed to Alaric that the golden threads were more vibrant than they had been during the previous eclipses, but perhaps his magic was weaker after a sennight of ceaseless warfare.",
+      "start": 9313,
+      "end": 9495
+    },
+    {
+      "value": "the Eclipse of the Fifth",
+      "context": "他记得第五次月食之夜她在他床上说过的话",
+      "quote": "He remembered when she’d told him, the night they lay in her bed after the Eclipse of the Fifth.",
+      "start": 14943,
+      "end": 15039
+    },
+    {
+      "value": "several inches",
+      "context": "她裙摆的喇叭形下摆高出数英寸，金龙纹饰盘绕至腰",
+      "quote": "Gold in the form of snarling dragons that covered her breasts—barely—and snaked down to coil around her slim waist, trailing off several inches above the slightly flared hem of a skirt fitted at the hips.",
+      "start": 10293,
+      "end": 10497
+    }
+  ],
+  "notes": "标题重复：第1行与第12行各有一行“Chapter Forty-One”（首行为题名残留）；文件开头（第3–11行）与第123–132行各有大段连续空行，属提取残留。正文使用弯引号“ ”与弯撇号’，省略号为带空格的“. . .”。第105行“sennight”为生僻词（＝七日/一周），非语料错误。"
+}

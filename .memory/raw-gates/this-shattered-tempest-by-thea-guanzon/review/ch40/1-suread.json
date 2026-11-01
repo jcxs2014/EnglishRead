@@ -1,0 +1,150 @@
+{
+  "chapter": "ch40",
+  "source": "text/ch40_chapter_forty.txt",
+  "char_total": 20417,
+  "events": [
+    {
+      "i": 1,
+      "summary": "塔拉辛即位后第一小时待在埃拉格比王子的书房，拼凑外祖母乌尔杜雅临终前最后时刻的经过。",
+      "quote": "Talasyn spent her first hour as queen in Prince Elagbi’s study, piecing together her grandmother’s last moments.",
+      "start": 534,
+      "end": 646
+    },
+    {
+      "i": 2,
+      "summary": "伊珊回报调查结论：爆炸起于“W’taida”号船底，引爆物被混入驱动飞船的风魔法之中。",
+      "quote": "The consensus is that the explosion started from the W’taida’s base. The catalyst must have been introduced into the wind magic powering the ship—something with a fuse that ran its course between takeoff and the explosion.",
+      "start": 2016,
+      "end": 2238
+    },
+    {
+      "i": 3,
+      "summary": "塔拉辛想起乌尔杜雅出航前嘱咐她“若出事就查出谁先离开”，并转述给众人。",
+      "quote": "“Queen Urduja told me to find out who left first if anything happened,” Talasyn said. “I didn’t understand what she meant. She told me that as I was heading out.",
+      "start": 4363,
+      "end": 4524
+    },
+    {
+      "i": 4,
+      "summary": "埃拉格比王子笑着流泪，说明他们始终没查出假面舞会阴谋的主使，母亲是用巡游作饵逼对方现身。",
+      "quote": "“We never learned who was truly behind the masquerade conspiracy,” the Dominion prince eventually regained enough composure to say.",
+      "start": 4743,
+      "end": 4874
+    },
+    {
+      "i": 5,
+      "summary": "乌尔杜雅次日黄昏被安葬于埃斯喀亚的星光塔，棺中只余那顶破损的冰冠。",
+      "quote": "Urduja was laid to rest in Eskaya’s Starlight Tower at sunset of the following afternoon.",
+      "start": 7611,
+      "end": 7700
+    },
+    {
+      "i": 6,
+      "summary": "卢埃芙领塔拉辛看女王寝殿，指认相连的育儿室并说将来会把塔拉辛的旧摇篮取出来放进去。",
+      "quote": "“The nursery,” Lueve explained. “When the time comes, Harlikaan, your old cradle shall be taken from storage and placed here.”",
+      "start": 10089,
+      "end": 10215
+    },
+    {
+      "i": 7,
+      "summary": "加冕礼上塔拉辛用光织术把王冠悬空，从冠中抽出数根毒针，令它们呈半圆展开。",
+      "quote": "And, finally, several long, thin needles were extracted from their hiding places inside that miniature sun, nudged along by the Lightweave’s currents to splay out in a half-circle of glittering silver rays.",
+      "start": 17587,
+      "end": 17793
+    },
+    {
+      "i": 8,
+      "summary": "塔拉辛当着众人以祖先为证，指控卢埃芙谋杀乌尔杜雅·西林。",
+      "quote": "And, lastly, as the ancestors are my witness, I charge her with the murder of Urduja Silim.",
+      "start": 20324,
+      "end": 20415
+    }
+  ],
+  "relations": [
+    {
+      "a": "塔拉辛",
+      "b": "乌尔杜雅·西林",
+      "relation": "外祖母与外孙女（塔拉辛曾深恨她）",
+      "quote": "As much as Talasyn had hated her grandmother, it was still an abstraction that floated around in the net of passing time, refusing to settle into something real.",
+      "start": 3046,
+      "end": 3207
+    },
+    {
+      "a": "埃拉格比",
+      "b": "乌尔杜雅·西林",
+      "relation": "母子（埃拉格比称乌尔杜雅为 Inang，即母亲）",
+      "quote": "She knew, and that was why she ordered me to stay in Eskaya.” He looked over at Talasyn, his features contorting with pain.",
+      "start": 5283,
+      "end": 5406
+    },
+    {
+      "a": "塔拉辛",
+      "b": "埃拉格比",
+      "relation": "父女（埃拉格比是塔拉辛的父亲）",
+      "quote": "Elagbi’s laughter turned to sobs. Talasyn was paralyzed; she had never heard her father refer to Urduja as Inang before.",
+      "start": 5745,
+      "end": 5865
+    },
+    {
+      "a": "卢埃芙·拉斯梅",
+      "b": "乌尔杜雅·西林",
+      "relation": "君臣/心腹（卢埃芙任乌尔杜雅副手数十年）",
+      "quote": "She had been Urduja’s right hand for decades; all throughout the last rites, everyone had been eyeing her as sympathetically as they eyed Elagbi and Talasyn.",
+      "start": 11017,
+      "end": 11174
+    },
+    {
+      "a": "塔拉辛",
+      "b": "卢埃芙·拉斯梅",
+      "relation": "敌对（塔拉辛指控其通敌叛国并谋杀乌尔杜雅）",
+      "quote": "formally charge Lady Lueve of House Rasmey, the Daya of Cenderwas, with treason for spearheading the conspiracy that aimed to overthrow the ruling royal house.",
+      "start": 20001,
+      "end": 20160
+    }
+  ],
+  "numbers": [
+    {
+      "value": "一小时",
+      "context": "塔拉辛即位后用于拼凑外祖母死因的时间",
+      "quote": "That was the unthinkable part. Urduja Silim had always seemed larger than life. Immortal. Talasyn spent her first hour as queen in Prince Elagbi’s study, piecing together her grandmother’s last moments.",
+      "start": 444,
+      "end": 646
+    },
+    {
+      "value": "一年",
+      "context": "塔拉辛担任多米尼昂 Lachis’ka 的时长",
+      "quote": "She needed him. She had lived for a year as the Dominion’s Lachis’ka, and the nebulous promise inherent to that title had been fulfilled. She Who Will Come After was now She Who Hung the Earth Upon the Waters.",
+      "start": 11971,
+      "end": 12180
+    },
+    {
+      "value": "两倍（twice）",
+      "context": "女王寝殿比塔拉辛当 Lachis’ka 时的房间大一倍",
+      "quote": "Twice the size of the room that had been assigned to Talasyn when she was the Lachis’ka, the queen’s bedchamber boasted alabaster walls, lushly woven blue-and-gold tapestries, and furniture carved from rainbow gum",
+      "start": 9254,
+      "end": 9467
+    },
+    {
+      "value": "七座主岛",
+      "context": "王冠每道金芒上一颗星，对应多米尼昂七座主岛",
+      "quote": "It was designed to curve around the head like a halo, and it bore on every golden ray a star for each of the seven main islands in the Dominion.",
+      "start": 16534,
+      "end": 16678
+    },
+    {
+      "value": "七个月亮",
+      "context": "塔拉辛宣誓时的第二句誓词“以七个月亮起誓”",
+      "quote": "“I swear it by the seven moons,” Talasyn replied. She sounded earnest and capable enough, but inwardly she was hoping and praying—with every fiber of her being—that she hadn’t gotten the order of the vows wrong.",
+      "start": 15665,
+      "end": 15876
+    },
+    {
+      "value": "数英尺",
+      "context": "王冠被光织术托起悬空的高度",
+      "quote": "The sage gave a start as the crown was pried loose from her grip and sent hovering several feet in the air, suspended in currents of golden magic.",
+      "start": 17118,
+      "end": 17264
+    }
+  ],
+  "notes": "标题“Chapter Forty”重复出现（文件开头第 1 行与第 12 行各一次），两标题之间残留 9 行空行；正文段落之间普遍夹两行空行，属提取件空行残留。对话引号多为弯引号（“ ” ’），且存在跨行未收尾的引号（如 “…as I was heading out. 之后接叙述句）。第 210、216 行等长段为整段单行，无换行断句。本章为全书终章，正文以塔拉辛对卢埃芙的正式控诉收束，无后续叙述。"
+}

@@ -45,6 +45,18 @@
       "no": 4,
       "segments": [
         {
+          "text": "At first, she’d attempted to venture closer to the site of the explosion, only for the two outriggers to brave the drago",
+          "ok": true,
+          "pos": 1313
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
           "text": "“This world has asked too much of you both,” her father said gently. “More still might yet be taken. I don’t know what h",
           "ok": true,
           "pos": 4398
@@ -53,8 +65,8 @@
       "words": 43
     },
     {
-      "block": "原句5",
-      "no": 5,
+      "block": "原句6",
+      "no": 6,
       "segments": [
         {
           "text": "They looked somewhat shaken, a far cry from their usual elegance. Before they were within arm’s length of Talasyn, they ",
@@ -114,6 +126,21 @@
     {
       "block": "原句4",
       "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
         "中文理解": 66,
         "关键词": 0,
         "为什么这样写": 123,
@@ -127,7 +154,7 @@
       }
     },
     {
-      "block": "原句5",
+      "block": "原句6",
       "cjk": {
         "中文理解": 78,
         "关键词": 0,
@@ -157,10 +184,10 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 5,
-    "block_median": 8.5,
+    "blocks": 6,
+    "block_median": 9.0,
     "block_range": [
-      4,
+      5,
       13
     ],
     "profile": "novels",
@@ -176,9 +203,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 5,
+    "blocks": 6,
     "quote_long": 0,
-    "segments": 5,
+    "segments": 6,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,

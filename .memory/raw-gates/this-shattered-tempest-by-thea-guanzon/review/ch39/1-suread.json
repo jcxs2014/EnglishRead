@@ -1,0 +1,143 @@
+{
+  "chapter": "ch39",
+  "source": "text/ch39_chapter_thirty_nine.txt",
+  "char_total": 6582,
+  "events": [
+    {
+      "i": 1,
+      "summary": "塔拉辛推开王座厅大门，在门外候了许久的朝臣从她身边匆匆溜走，她不理身后的惊呼径直离开。",
+      "quote": "courtiers who’d spent the last several minutes twiddling their thumbs in the hallway gingerly scurried past Talasyn after she’d flung open the throne room’s ornate doors",
+      "start": 56,
+      "end": 225
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛骑上巴昆飞离，忽有巨爆震空，她立刻掉转龙身回头。",
+      "quote": "They had almost disappeared back into the clouds when the shockwaves of some immense explosion slammed through the air and Talasyn whipped around, steering the dragon into a sharp about-face.",
+      "start": 676,
+      "end": 867
+    },
+    {
+      "i": 3,
+      "summary": "爆炸过后，乌尔杜佳的旗舰「W’taida」荡然无存，只剩残骸坠落在多明尼恩群岛上。",
+      "quote": "By the time it was over, nothing remained of Urduja’s flagship, save for fractures of debris that rained down over the Dominion islands",
+      "start": 1049,
+      "end": 1184
+    },
+    {
+      "i": 4,
+      "summary": "两艘舷外支架船拦住龙身，甲板船员恳求「拉奇斯卡」回都城避险，塔拉辛照办，巴昆降落在埃斯卡亚。",
+      "quote": "only for the two outriggers to brave the dragon by blocking its path, the crew on the decks imploring their Lachis’ka to return to the safety of the capital",
+      "start": 1413,
+      "end": 1569
+    },
+    {
+      "i": 5,
+      "summary": "她与父亲埃拉格比并肩坐在长沙发上，手被父亲握着，等待消息。",
+      "quote": "Now she and Elagbi were sitting side by side on the couch, his hand over hers as they waited for news.",
+      "start": 1949,
+      "end": 2051
+    },
+    {
+      "i": 6,
+      "summary": "塔拉辛向父亲讲了部分实情，却隐瞒乌尔杜佳与盖赫里斯的交易，以及哈南之死的真正原因。",
+      "quote": "But she’d made no mention of Urduja’s deal with Gaheris or of Hanan’s death being due to anything other than illness.",
+      "start": 2635,
+      "end": 2752
+    },
+    {
+      "i": 7,
+      "summary": "苏拉奎尔·曼特斯与尼亚姆哈·朗苏内进书房后停步，前者单膝跪地、后者深行屈膝礼。",
+      "quote": "Before they were within arm’s length of Talasyn, they stopped in their tracks. Surakwel dropped to one knee at the same time that Niamha sank into a deep curtsy",
+      "start": 5927,
+      "end": 6087
+    },
+    {
+      "i": 8,
+      "summary": "尼亚姆哈含泪抬头，打破死寂，唤塔拉辛为「Harlikaan」。",
+      "quote": "There was the shimmer of barely held-back tears in her dark eyes as she looked up at Talasyn and called her—",
+      "start": 6355,
+      "end": 6463
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Elagbi",
+      "relation": "父女（Talasyn 唤他 Amya）",
+      "quote": "“Once all of this is over, let’s visit the Dawn Isles, Amya,” she suggested.",
+      "start": 4104,
+      "end": 4180
+    },
+    {
+      "a": "Talasyn",
+      "b": "Urduja",
+      "relation": "君臣/继承关系（女王评她「she shall suit」）",
+      "quote": "She said, ‘Your daughter is too impetuous and, despite my best efforts, much too in love with her husband. But she shall suit.’",
+      "start": 4773,
+      "end": 4900
+    },
+    {
+      "a": "Elagbi",
+      "b": "Cahyir",
+      "relation": "姻亲（Cahyir 是 Elagbi 亡妻 Hanan 的姐妹）",
+      "quote": "“So, you met Cahyir.” Elagbi patted Talasyn’s hand. “If she is the matriarch, then that means my mother-in-law has passed.",
+      "start": 3498,
+      "end": 3620
+    },
+    {
+      "a": "Surakwel",
+      "b": "Talasyn",
+      "relation": "臣属向主君跪拜（侍卫与 Elagbi 一同跪下）",
+      "quote": "Movement rippled all around her as the guards knelt like Surakwel—and so did Elagbi, pale-faced yet resolute.",
+      "start": 6196,
+      "end": 6305
+    },
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻（Elagbi 提议也带上她丈夫）",
+      "quote": "But, yes, that sounds lovely. We shall have to do that.” He hesitated, and then— “Let’s bring your husband, too.”",
+      "start": 4292,
+      "end": 4405
+    }
+  ],
+  "numbers": [
+    {
+      "value": "last several minutes",
+      "context": "朝臣在门外等候的时长",
+      "quote": "The courtiers who’d spent the last several minutes twiddling their thumbs in the hallway",
+      "start": 52,
+      "end": 140
+    },
+    {
+      "value": "two outriggers",
+      "context": "拦阻龙身、劝她回都城的舷外支架船数量",
+      "quote": "only for the two outriggers to brave the dragon by blocking its path",
+      "start": 1413,
+      "end": 1481
+    },
+    {
+      "value": "several",
+      "context": "守在书房里的 Lachis-dalo 侍卫人数",
+      "quote": "There were several Lachis-dalo in the room with them, some stationed by the door and others by the far windows",
+      "start": 2052,
+      "end": 2162
+    },
+    {
+      "value": "another half-hour",
+      "context": "又等待了半小时才有敲门声",
+      "quote": "It wasn’t until another half-hour later that someone came knocking.",
+      "start": 5519,
+      "end": 5586
+    },
+    {
+      "value": "two",
+      "context": "进书房通报的两名年轻贵族人数",
+      "quote": "The two young nobles had spent all afternoon overseeing the search-and-rescue operation.",
+      "start": 5772,
+      "end": 5860
+    }
+  ],
+  "notes": "标题「Chapter Thirty-Nine」在文件开头连续出现两次（第 1 行与第 12 行），中间夹 9 个空行；正文从第 15 行起，属重复标题+空行残留的提取噪声。全章以「after she’d flung open…」切入，缺少前情铺陈，开头突兀；结尾「“Harlikaan.”」为单行孤立的引号单词段落，前后另有被长破折号切成独立段的对白碎片（“…called her—”“—in a quiet voice…”），排版断裂但未见文字丢失。弯引号（’ “ ” ‘ ’）、长破折号（—）与省略号（. . .）原样保留。"
+}

@@ -21,6 +21,18 @@
       "no": 2,
       "segments": [
         {
+          "text": "“We questioned the soldiers on the outrigger decks, as well as the coracle helmsmen,” Ishan, newly arrived from her own ",
+          "ok": true,
+          "pos": 1827
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
           "text": "“None of the W’taida’s crew appear to have survived,” said Surakwel, “but that doesn’t mean that one or more among their",
           "ok": true,
           "pos": 2271
@@ -29,8 +41,8 @@
       "words": 58
     },
     {
-      "block": "原句3",
-      "no": 3,
+      "block": "原句4",
+      "no": 4,
       "segments": [
         {
           "text": "“I had wondered why she’d decided on a royal progress through the islands now, of all times. She knew that her hidden en",
@@ -41,8 +53,8 @@
       "words": 43
     },
     {
-      "block": "原句4",
-      "no": 4,
+      "block": "原句5",
+      "no": 5,
       "segments": [
         {
           "text": "“It was an enormous gamble,” Niamha murmured, “but Her late Majesty was very ill. She must have chosen to leave on her o",
@@ -53,8 +65,8 @@
       "words": 41
     },
     {
-      "block": "原句5",
-      "no": 5,
+      "block": "原句6",
+      "no": 6,
       "segments": [
         {
           "text": "Talasyn watched all of them, a feeling not unlike suffocation pressing around her rib cage. Just like her father, no one",
@@ -65,8 +77,8 @@
       "words": 38
     },
     {
-      "block": "原句6",
-      "no": 6,
+      "block": "原句7",
+      "no": 7,
       "segments": [
         {
           "text": "Urduja was laid to rest in Eskaya’s Starlight Tower at sunset of the following afternoon. The same stained-glass structu",
@@ -77,8 +89,8 @@
       "words": 47
     },
     {
-      "block": "原句7",
-      "no": 7,
+      "block": "原句8",
+      "no": 8,
       "segments": [
         {
           "text": "She needed him. She had lived for a year as the Dominion’s Lachis’ka, and the nebulous promise inherent to that title ha",
@@ -89,8 +101,8 @@
       "words": 39
     },
     {
-      "block": "原句8",
-      "no": 8,
+      "block": "原句9",
+      "no": 9,
       "segments": [
         {
           "text": "The sage gave a start as the crown was pried loose from her grip and sent hovering several feet in the air, suspended in",
@@ -101,8 +113,8 @@
       "words": 46
     },
     {
-      "block": "原句9",
-      "no": 9,
+      "block": "原句10",
+      "no": 10,
       "segments": [
         {
           "text": "The aghast crowd stirred and mumbled among themselves but immediately fell into silence when Talasyn stood up. The light",
@@ -113,8 +125,8 @@
       "words": 50
     },
     {
-      "block": "原句10",
-      "no": 10,
+      "block": "原句11",
+      "no": 11,
       "segments": [
         {
           "text": "Talasyn turned to a white-faced Lueve. “And now, my first act as the Zahiya-lachis of the Nenavar Dominion is to formall",
@@ -144,6 +156,21 @@
     {
       "block": "原句2",
       "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 136
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
         "中文理解": 70,
         "关键词": 4,
         "为什么这样写": 44,
@@ -157,7 +184,7 @@
       }
     },
     {
-      "block": "原句3",
+      "block": "原句4",
       "cjk": {
         "中文理解": 65,
         "关键词": 0,
@@ -172,7 +199,7 @@
       }
     },
     {
-      "block": "原句4",
+      "block": "原句5",
       "cjk": {
         "中文理解": 55,
         "关键词": 0,
@@ -187,7 +214,7 @@
       }
     },
     {
-      "block": "原句5",
+      "block": "原句6",
       "cjk": {
         "中文理解": 51,
         "关键词": 0,
@@ -202,7 +229,7 @@
       }
     },
     {
-      "block": "原句6",
+      "block": "原句7",
       "cjk": {
         "中文理解": 92,
         "关键词": 0,
@@ -217,7 +244,7 @@
       }
     },
     {
-      "block": "原句7",
+      "block": "原句8",
       "cjk": {
         "中文理解": 50,
         "关键词": 0,
@@ -232,7 +259,7 @@
       }
     },
     {
-      "block": "原句8",
+      "block": "原句9",
       "cjk": {
         "中文理解": 65,
         "关键词": 0,
@@ -247,7 +274,7 @@
       }
     },
     {
-      "block": "原句9",
+      "block": "原句10",
       "cjk": {
         "中文理解": 69,
         "关键词": 0,
@@ -262,7 +289,7 @@
       }
     },
     {
-      "block": "原句10",
+      "block": "原句11",
       "cjk": {
         "中文理解": 75,
         "关键词": 0,
@@ -292,10 +319,10 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 10,
-    "block_median": 8.5,
+    "blocks": 11,
+    "block_median": 9.0,
     "block_range": [
-      4,
+      5,
       13
     ],
     "profile": "novels",
@@ -311,9 +338,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 10,
+    "blocks": 11,
     "quote_long": 0,
-    "segments": 10,
+    "segments": 11,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,
@@ -333,7 +360,7 @@
   "block_limit": {
     "lo": 2,
     "hi": 15,
-    "basis": "本书 55 章中位 8、最高 13（同类书按本书分布判）"
+    "basis": "本书 55 章中位 9、最高 13（同类书按本书分布判）"
   },
   "issues": {
     "struct": [],

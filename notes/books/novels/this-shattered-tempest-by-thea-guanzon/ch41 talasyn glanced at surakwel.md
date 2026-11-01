@@ -95,7 +95,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：剑停在她喉前几寸，这距离是谁让出来的？他的手，还是她的剑？
 
-> **原句 9:** "It was only then that Alaric realized Talasyn had built a wall between herself and her emotions in order to successfully navigate the political turmoil that had to have ensued after her grandmother’s passing. He noticed that wall only once it was gone, collapsing the moment their bodies touched. She trembled beneath him like a leaf that was being ripped off its stem by a violent wind."
+> **原句 9:** "“Your informants must not have reached you yet,” she said over the high hum of the Lightweave and the guttural shriek of the Shadowgate. “It was a coronation.” That simple statement, the rules of his world—they formed the shape of the immediate future."
+
+- **中文理解**：「你的探子大概还没把消息送到，」她在光织的高鸣与影门那粗粝的尖啸里说。「那是一场加冕礼。」这句再简单不过的话，他那个世界的规矩——它们一起圈定了接下来会发生什么。
+
+- **关键词**：informants · coronation · immediate future
+
+- **为什么这样写**：两个声音在前（光织的高鸣、影门的尖啸），一句话在后，而「a coronation」只有四个词——把整章的政治动静压成四个词，是这段最狠的地方。紧接着的叙述把主语换成「他那个世界的规矩」，说明这句话之所以致命，不是因为说了什么，而是因为它落在一个有规矩可循的位置上。
+
+- **读者视角提示**：同段后半（不在本块引语内）还有两句：他「在她开口之前就知道了她要说什么」，以及那句「我外祖母死了」。这两句在这里不是解释，是把上面那句的后果补齐。
+
+> **原句 10:** "It was only then that Alaric realized Talasyn had built a wall between herself and her emotions in order to successfully navigate the political turmoil that had to have ensued after her grandmother’s passing. He noticed that wall only once it was gone, collapsing the moment their bodies touched. She trembled beneath him like a leaf that was being ripped off its stem by a violent wind."
 
 - **中文理解**：直到这时阿拉里克才明白，塔拉辛在自己和情绪之间砌了一堵墙，好撑过外祖母死后必然掀起的那场政局。他是等墙没了才看见那堵墙的——两人的身体一接触，它就塌了。她在他身下抖得像一片被狂风从枝上撕下来的叶子。
 
@@ -105,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一章上半部她当众审人、当众判人流放，到这里才第一次露出撑不住的样子。
 
-> **原句 10:** "“I feel too much when it comes to you, Lightweaver.” He tugged, more gently than he would have liked, and her head tipped back, exposing the column of her throat to his narrowed eyes."
+> **原句 11:** "“I feel too much when it comes to you, Lightweaver.” He tugged, more gently than he would have liked, and her head tipped back, exposing the column of her throat to his narrowed eyes."
 
 - **中文理解**：「一碰上你，我感受得太多，光织者。」他拽了一下，力道比他愿意的轻，她的头向后仰，把那段咽喉暴露在他眯起的眼下。
 

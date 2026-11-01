@@ -45,7 +45,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：Dominion islands 是复数，碎屑不落在「一座岛」上；这一段写的是规模，不是伤亡，全章没有给出任何死亡数字。读者不必替它补人数——作者把注意力全放在材质的清单上，正是要人先感到「没了」而不是「死了多少」。紧接着的下一段第一句把镜头收回她身上：「Talasyn went through the rest of the afternoon as though moving through a dream.」。
 
-> **原句 4:** "“This world has asked too much of you both,” her father said gently. “More still might yet be taken. I don’t know what happens next, but for now . . . for now, I choose to believe that there will be an after."
+> **原句 4:** "At first, she’d attempted to venture closer to the site of the explosion, only for the two outriggers to brave the dragon by blocking its path, the crew on the decks imploring their Lachis’ka to return to the safety of the capital."
+
+- **中文理解**：起先她想往爆炸的中心飞近些，结果两艘舷外支架舰硬着头皮挡住龙的路，甲板上的船员哀求他们的拉奇斯卡回都城去、那里才安全。
+
+- **关键词**：venture closer · two outriggers · the capital
+
+- **为什么这样写**：这一句里所有人都在做同一件事——不让她靠近：船挡路，人喊话，而「brave the dragon」这个说法把挡在龙面前写成需要勇气的事，于是劝阻本身成了本章唯一一次「有人替她拿主意却站得住脚」。
+
+- **读者视角提示**：她为什么掉头，原文给的理由是「她远远地明白了那种绝望从哪来」；紧接着同一段后半（不在本块引语内）写她照做了，巴昆落在埃斯凯亚天穹宫的石灰岩崖上，卫兵把她一路护到父亲书房。
+
+> **原句 5:** "“This world has asked too much of you both,” her father said gently. “More still might yet be taken. I don’t know what happens next, but for now . . . for now, I choose to believe that there will be an after."
 
 - **中文理解**：父亲说，这个世界向你们两个索要得太多；还可能再拿走一些。他不知道接下来会怎样，但「眼下，眼下，我选择相信会有『之后』」。三句一层层往后退，最后落在一个「选」字上。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「her father said gently」只给了声音和语气，没给表情。紧接着的下一句，他转去讲乌尔杜佳今早送行时说的话；那段转述里有一句对女儿的评判，先落到读者耳朵里，而她只能听着。这种「读者先知道」的安排，比让她自己说破更让人难受。
 
-> **原句 5:** "They looked somewhat shaken, a far cry from their usual elegance. Before they were within arm’s length of Talasyn, they stopped in their tracks. Surakwel dropped to one knee at the same time that Niamha sank into a deep curtsy that spread the panels of her wide skirts across the floor."
+> **原句 6:** "They looked somewhat shaken, a far cry from their usual elegance. Before they were within arm’s length of Talasyn, they stopped in their tracks. Surakwel dropped to one knee at the same time that Niamha sank into a deep curtsy that spread the panels of her wide skirts across the floor."
 
 - **中文理解**：这两个年轻贵族看上去有些失魂，与平日那份体面差得很远。还没走到能伸手够到她的距离，两人就停了脚：苏拉克威尔单膝跪地，尼亚姆哈同时行了个深屈膝礼，宽裙的裙片在身前铺开一地。
 
