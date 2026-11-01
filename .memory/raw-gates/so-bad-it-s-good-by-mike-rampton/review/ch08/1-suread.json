@@ -1,0 +1,145 @@
+{
+  "chapter": "ch08",
+  "text_file": "text/ch08_unhealthily_horrible_doctor_jokes.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者用‘丛林里没有阿司匹林’这则谐音笑话开篇，靠parrots eat ’em all读成paracetamol",
+      "quote": "Why are there no aspirins in the jungle? Because the parrots eat ’em all.",
+      "char_range": [
+        82,
+        155
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者收录一则精神科笑话，把two tents谐音成too tense，让诊断本身成为双关",
+      "quote": "‘I know your problem,’ says the psychiatrist. ‘You’re two tents.’",
+      "char_range": [
+        378,
+        443
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者大量采用‘Doctor, doctor’对话体，让病人陈述症状、医生用一句话把语义掰到别处",
+      "quote": "‘Doctor, doctor, I think I have déjà vu.’ ‘Not you again!’",
+      "char_range": [
+        448,
+        506
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者用‘还能活多久’的死亡问题做倒数计时笑话，把‘10’拆成10、9、8的秒数",
+      "quote": "The doctor says, ‘Ten …’ ‘Ten what?’ asks the patient. ‘Years? Months?’ The doctor says, ‘Nine … eight …’",
+      "char_range": [
+        1841,
+        1946
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者收录牙医笑话，用Two-thirty谐音tooth hurty回答‘看牙最好的时间’",
+      "quote": "What’s the best time to visit the dentist? Two-thirty.",
+      "char_range": [
+        689,
+        743
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者把产房里的喊声当作Braxton-Hicks宫缩的谐音材料，用‘Toni can’t! Bill won’t!’消解紧张",
+      "quote": "There was nothing to worry about, they were just Braxton-Hicks contractions.",
+      "char_range": [
+        1353,
+        1429
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者以症状互换收尾，让手抖的抱怨落到‘我大部分都洒了’这种饮酒借口上",
+      "quote": "‘Doctor, doctor, my hands won’t stop shaking.’ ‘Do you drink a lot?’ ‘Not really, I spill most of it.’",
+      "char_range": [
+        4890,
+        4992
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "作者 / 读者",
+      "relation": "作者几乎不加解释地把谐音梗接连抛出，把读者当成一读就懂pun的同类",
+      "quote": "Why are there no aspirins in the jungle? Because the parrots eat ’em all.",
+      "char_range": [
+        82,
+        155
+      ]
+    },
+    {
+      "pair": "作者 / 医生角色",
+      "relation": "作者笔下的医生总能一句话把病人的主诉改写成另一个意思，冷静而不共情",
+      "quote": "‘Doctor, doctor, I think I’m a bridge.’ ‘What’s come over you?’",
+      "char_range": [
+        2485,
+        2548
+      ]
+    },
+    {
+      "pair": "作者 / 病人角色",
+      "relation": "作者让病人永远听不懂医生的双关，把误解固定在问答的错位上",
+      "quote": "‘Doctor, doctor, I keep seeing pink and green spots in front of my eyes.’ ‘Have you ever seen an optician?’ ‘No, just the pink and green spots.’",
+      "char_range": [
+        3270,
+        3414
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "Two-thirty",
+      "meaning": "看牙医的最佳时间，谐音tooth hurty",
+      "quote": "What’s the best time to visit the dentist? Two-thirty.",
+      "char_range": [
+        689,
+        743
+      ]
+    },
+    {
+      "value": "sixty seconds",
+      "meaning": "病人声称自己只剩六十秒可活",
+      "quote": "‘Doctor, doctor, I have sixty seconds to live.’",
+      "char_range": [
+        3676,
+        3723
+      ]
+    },
+    {
+      "value": "three places",
+      "meaning": "病人说手臂在三处骨折，医生叫他别去那些地方",
+      "quote": "‘Doctor, doctor, I’ve broken my arm in three places!’",
+      "char_range": [
+        3179,
+        3232
+      ]
+    },
+    {
+      "value": "Three lorries, fourteen cars and twenty-six pedestrians",
+      "meaning": "自称是桥的病人报出身上通过的车辆与行人数",
+      "quote": "‘Three lorries, fourteen cars and twenty-six pedestrians.’",
+      "char_range": [
+        2549,
+        2607
+      ]
+    },
+    {
+      "value": "7 o’clock",
+      "meaning": "病人每天早晨七点准时排便，却八点才起床",
+      "quote": "Every morning at 7 o’clock I have a great big, firm, regular bowel movement.",
+      "char_range": [
+        2798,
+        2874
+      ]
+    }
+  ]
+}

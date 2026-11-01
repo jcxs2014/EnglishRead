@@ -1,0 +1,154 @@
+{
+  "chapter": "ch09",
+  "text_file": "text/ch09_unemployably_terrible_work_jokes.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者用train与conductor的双重义开篇，让‘教人挥指挥棒’与‘查票员’撞在同一个词上",
+      "quote": "‘I’m hiding from railway staff members to get a free journey into my job teaching people how to wave batons at orchestras.’ ‘Train conductors?’ ‘Yes.’",
+      "char_range": [
+        78,
+        228
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者收录大量第一人称‘我quit/我lost my job’式失业笑话，让每条失业理由都来自该行业术语的双关",
+      "quote": "I got fired from the calendar factory. Apparently I took too many days off.",
+      "char_range": [
+        233,
+        308
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者用log的双义（日志／圆木）让伐木工报出精确到个位的伐木数",
+      "quote": "A lumberjack is having a retirement party. In his speech, he says that during his career he cut down exactly 38,612 trees.",
+      "char_range": [
+        768,
+        890
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者把压易拉罐的工作写成soda pressing，靠谐音soul-destroying收梗",
+      "quote": "I lost my job crushing fizzy drink cans. I didn’t mind, it was soda pressing.",
+      "char_range": [
+        1172,
+        1249
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者用odd jobs双关，让只做奇数编号任务的杂工被识破",
+      "quote": "I hired a handyman for a list of tasks, but discovered he hadn’t done numbers 2, 4, 6, 8 or 10 on the list. It turned out he only did odd jobs.",
+      "char_range": [
+        3501,
+        3644
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者把宇航员最爱的一餐写成launch，用发射与午餐同音收尾",
+      "quote": "What’s an astronaut’s favourite meal? Launch.",
+      "char_range": [
+        3946,
+        3991
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者让铲象粪的马戏团工人以‘离开演艺圈’为由拒绝辞职，把行业自豪感写成荒诞",
+      "quote": "‘What? And leave showbiz?!’",
+      "char_range": [
+        2222,
+        2249
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "作者在脚注里直接拒答读者关于‘那是什么声音’的提问，理由听者不是修士",
+      "quote": "* What was the noise, you ask? We can’t tell you, you’re not a monk.",
+      "char_range": [
+        4761,
+        4829
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "作者 / 读者",
+      "relation": "作者在脚注里直接对读者说‘不能告诉你’，把读者划到知情圈之外",
+      "quote": "* What was the noise, you ask? We can’t tell you, you’re not a monk.",
+      "char_range": [
+        4761,
+        4829
+      ]
+    },
+    {
+      "pair": "作者 / 各行业打工人",
+      "relation": "作者把辞职与被解雇写成一类人：总能替失业找到一个荒谬却自洽的行业术语理由",
+      "quote": "I quit my job as a lift operator. There were too many ups and downs.",
+      "char_range": [
+        313,
+        381
+      ]
+    },
+    {
+      "pair": "作者 / 马戏团铲粪工",
+      "relation": "作者让最脏的岗位以‘演艺圈’自居，讽刺从业者对行业的盲目认同",
+      "quote": "‘What? And leave showbiz?!’",
+      "char_range": [
+        2222,
+        2249
+      ]
+    },
+    {
+      "pair": "作者 / 求职者",
+      "relation": "作者让求职者用‘我能为餐桌带来很多’同时说面试与上菜，把求职话术变成双关",
+      "quote": "I applied for a job as a waiter and told them I bring a lot to the table.",
+      "char_range": [
+        1522,
+        1595
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "38,612",
+      "meaning": "伐木工自称职业生涯砍倒的树数",
+      "quote": "he cut down exactly 38,612 trees",
+      "char_range": [
+        857,
+        889
+      ]
+    },
+    {
+      "value": "£50,000",
+      "meaning": "买加长轿车花掉的钱，因无司机而闲置",
+      "quote": "I spent £50,000 on a limousine",
+      "char_range": [
+        2872,
+        2902
+      ]
+    },
+    {
+      "value": "numbers 2, 4, 6, 8 or 10",
+      "meaning": "杂工漏做的清单编号，用来点出‘只做零活（奇数活）’",
+      "quote": "he hadn’t done numbers 2, 4, 6, 8 or 10 on the list",
+      "char_range": [
+        3556,
+        3607
+      ]
+    },
+    {
+      "value": "four wheels",
+      "meaning": "谜面‘四轮又会飞’的答案是一辆垃圾车",
+      "quote": "What kind of vehicle has four wheels and flies? A bin lorry.",
+      "char_range": [
+        4170,
+        4230
+      ]
+    }
+  ]
+}

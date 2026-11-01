@@ -1,0 +1,145 @@
+{
+  "chapter": "ch02",
+  "text_file": "text/ch02_what_actually_is_a_joke.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者提出笑话的“两个故事”模型：你以为在被讲的那个，和实际在讲的那个",
+      "quote": "One way of thinking about a joke is as two stories: the one you think you’re being told, and the one you’re actually being told.",
+      "char_range": [
+        62,
+        190
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者拆解“走进酒吧”类笑话：听众期待的酒吧其实是根长条金属，故事二由此揭开",
+      "quote": "it wasn’t the kind of bar you drink at, it was a long metal thing.",
+      "char_range": [
+        472,
+        538
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者用敲门笑话里的 Police 说明同一机制：名字被揭穿成另一句话",
+      "quote": "It wasn’t ‘Police’, the crime-fighters, it was ‘Police let me in, I need a poo’: an entirely different tale.",
+      "char_range": [
+        773,
+        881
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者分析 Groucho Marx 的双行笑话：第二行把第一行的场景整个推翻",
+      "quote": "One morning I shot an elephant in my pyjamas. How he got into my pyjamas, I’ll never know",
+      "char_range": [
+        1061,
+        1150
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者限定该模型并非万能，但断言多数笑话仍靠意外转折或揭露成立",
+      "quote": "Not all do this – sometimes the idea is just to make a point or seem really cool – but most jokes hinge on an unexpected turn or revelation.",
+      "char_range": [
+        1329,
+        1469
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者声明本书所收笑话大多依赖双关或同音词",
+      "quote": "But most of the jokes in this book involve some kind of wordplay.",
+      "char_range": [
+        1953,
+        2018
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者指出笑话也能被用于恶意：群体内部的黏合可反过来用来排挤外人",
+      "quote": "The way jokes can strengthen a group can also be used to make it clear to other people that they aren’t part of that group.",
+      "char_range": [
+        2765,
+        2888
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "作者以鲸鱼称重（weigh/whale）的双关突然收尾，把话题从严肃拽回烂笑话",
+      "quote": "Talking of weighty, where do you weigh a whale? At a whale weigh station.",
+      "char_range": [
+        3148,
+        3221
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "作者 / 读者",
+      "relation": "作者用“你以为在被讲的故事”这种第二人称框架，直接把读者拉进拆解过程。",
+      "quote": "A lot of great one- and two-line jokes are pretty much a setup followed by the revelation that what you thought was going on wasn’t going on at all.",
+      "char_range": [
+        884,
+        1032
+      ]
+    },
+    {
+      "pair": "作者 / 本书的笑话",
+      "relation": "作者为全书选材划界：主体是双关型烂笑话，而非所有类型。",
+      "quote": "But most of the jokes in this book involve some kind of wordplay.",
+      "char_range": [
+        1953,
+        2018
+      ]
+    },
+    {
+      "pair": "作者 / 恶意用笑话的人",
+      "relation": "作者把以笑话伤人定性为对正面事物的滥用，并以止咳糖浆砸眼睛作比。",
+      "quote": "This is a horrible misuse of a positive thing, like throwing a bottle of cough medicine at someone’s eye.",
+      "char_range": [
+        2495,
+        2600
+      ]
+    },
+    {
+      "pair": "作者 / 严肃话题",
+      "relation": "作者承认“为何有人要用笑话作恶”值得更厚重的书，随即用一句双关把自己拉回轻佻。",
+      "quote": "Why anyone would choose to use jokes like that when they can use them to bring joy is a subject for a weightier and less fun book than this.",
+      "char_range": [
+        3007,
+        3147
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "两个故事",
+      "meaning": "作者把每个笑话拆成两层故事（误认的与真实的）",
+      "quote": "One way of thinking about a joke is as two stories: the one you think you’re being told, and the one you’re actually being told.",
+      "char_range": [
+        62,
+        190
+      ]
+    },
+    {
+      "value": "one- and two-line",
+      "meaning": "作者称大量优秀笑话只有一到两行，结构即“铺垫 + 反转”",
+      "quote": "A lot of great one- and two-line jokes are pretty much a setup followed by the revelation that what you thought was going on wasn’t going on at all.",
+      "char_range": [
+        884,
+        1032
+      ]
+    },
+    {
+      "value": "eight and ten",
+      "meaning": "德式香肠笑话里，“Nein”被反转成“八到十根”的数量",
+      "quote": "and they said, ‘Nein’, then clarified that they’d eaten between eight and ten sausages.",
+      "char_range": [
+        2270,
+        2357
+      ]
+    }
+  ]
+}

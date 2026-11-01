@@ -1,0 +1,145 @@
+{
+  "chapter": "ch03",
+  "text_file": "text/ch03_how_to_tell_a_terrible_joke_brilliantly.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者开宗明义：逗人笑不只是把笑话念出来，讲法本身就是一门艺术",
+      "quote": "There’s more to making people laugh than just reading a joke out loud.",
+      "char_range": [
+        92,
+        162
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者在“Know where you’re going”一节要求讲者先知道落点，否则拖长后砸掉收尾等于浪费听众时间",
+      "quote": "Nothing is more frustrating than listening to someone stretch out a joke for ages and then absolutely botch the landing.",
+      "char_range": [
+        259,
+        379
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者警告讲者不要在人群面前第一次试讲一个笑话",
+      "quote": "Try never to be in a situation where the first time you’re experiencing a joke is hearing yourself read it out loud to a crowd.",
+      "char_range": [
+        635,
+        762
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者在“Embrace internal logic”一节要求把荒诞前提当作成立来演，否则笑点崩塌",
+      "quote": "A lot of jokes involve some kind of inherently absurd question or situation from the get-go, but these have to be treated as though they make sense for the payoff of a joke to function.",
+      "char_range": [
+        818,
+        1003
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者认为铺垫越厚，回报越满足；并补充说铺垫越厚，彻底没有回报也越满足",
+      "quote": "The bigger the buildup, the more satisfying the payoff.",
+      "char_range": [
+        1737,
+        1792
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者在“Restrain yourself”一节承认脏话有用，但强调必须节制使用才有效",
+      "quote": "Swearing is a useful linguistic tool for emphasis and surprise, and when used well is the funniest thing in the world.",
+      "char_range": [
+        1987,
+        2105
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者在“Build, improvise and have fun”一节建议给多个角色之一配上蠢到家的嗓音",
+      "quote": "If you’re telling a joke with multiple characters, perhaps one can have a really stupid, annoying voice.",
+      "char_range": [
+        2524,
+        2628
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "作者在末节承认讲砸本身可以是最欢乐的事：孩子笑到讲不完第一句",
+      "quote": "A kid laughing their head off, unable to get through the first line of a completely rubbish gag because they know what’s coming, is clearly a terrible bit of joke-telling, but it’s absolutely joyous.",
+      "char_range": [
+        3004,
+        3203
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "讲者 / 听众",
+      "relation": "讲者必须为听众留出消化信息的停顿，而不是像念条款一样赶完。",
+      "quote": "You’re telling a story, not running through a set of terms and conditions.",
+      "char_range": [
+        1662,
+        1736
+      ]
+    },
+    {
+      "pair": "讲者 / 笑话的前提",
+      "relation": "讲者与听众需共同短暂搁置怀疑，把“熊走进酒吧”当作合理来演。",
+      "quote": "Bears don’t walk into bars, but everyone involved in the joke-telling process needs to suspend their disbelief briefly, just enough to go with it.",
+      "char_range": [
+        1004,
+        1150
+      ]
+    },
+    {
+      "pair": "作者 / 想讲笑话的读者",
+      "relation": "作者给出反直觉建议：铺垫越长，彻底落空反而越好笑。",
+      "quote": "But also, uniquely to jokes, the bigger the buildup, the more satisfying the absolute and total lack of a payoff.",
+      "char_range": [
+        1793,
+        1906
+      ]
+    },
+    {
+      "pair": "作者 / 讲砸了的人",
+      "relation": "作者把失败的讲述者视为潜在的最佳笑料来源。",
+      "quote": "Sometimes, someone failing to tell a joke is the funniest thing in the world.",
+      "char_range": [
+        2926,
+        3003
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "first time（第一次）",
+      "meaning": "作者警告讲者不要第一次开口就在人群前试讲一个笑话",
+      "quote": "Try never to be in a situation where the first time you’re experiencing a joke is hearing yourself read it out loud to a crowd.",
+      "char_range": [
+        635,
+        762
+      ]
+    },
+    {
+      "value": "first line（第一句）",
+      "meaning": "作者描述孩子笑到连烂笑话的第一句都念不完",
+      "quote": "A kid laughing their head off, unable to get through the first line of a completely rubbish gag because they know what’s coming",
+      "char_range": [
+        3004,
+        3131
+      ]
+    },
+    {
+      "value": "one character（一个角色）",
+      "meaning": "作者建议让其中一个角色起个毫无意义的长名字，并且每次都要念全",
+      "quote": "One character could have a pointlessly long name that you insist on going through in its entirety every time.",
+      "char_range": [
+        2691,
+        2800
+      ]
+    }
+  ]
+}

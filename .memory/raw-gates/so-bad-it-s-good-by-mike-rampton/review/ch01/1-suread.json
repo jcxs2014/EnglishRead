@@ -1,0 +1,136 @@
+{
+  "chapter": "ch01",
+  "text_file": "text/ch01_introduction.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者开篇立论：一本正经的好笑话不如一个极烂的笑话",
+      "quote": "The only thing better than a good joke is a really, really bad joke.",
+      "char_range": [
+        56,
+        124
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者援引关于幽默正面作用的研究，称幽默能改善情绪乃至增强免疫系统",
+      "quote": "There has been endless research done into the positive effects of humour in social connections, improving one’s mood and even helping to boost one’s immune system.",
+      "char_range": [
+        165,
+        328
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者把好笑话比作独木舟：一件能把你从 A 点送到 B 点的实用工具",
+      "quote": "Think of it like a canoe: a functional item that does a job and gets you from A to B.",
+      "char_range": [
+        513,
+        598
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者交读书中收录约 700 个笑话，并声明其中许多并不好",
+      "quote": "There are 700-ish jokes in this book, and a lot of them aren’t any good at all.",
+      "char_range": [
+        601,
+        680
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者把书中的坏笑话分成三类：老套可预测、生硬难讲、故意为之",
+      "quote": "Some are corny and predictable, some are contrived and difficult, and others are wilfully bad.",
+      "char_range": [
+        681,
+        775
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者论证讲成一个烂笑话比讲成一个好笑话更需要智力",
+      "quote": "How unfunny a joke is can be hilarious; making a rubbish joke that gets a laugh is much more intellectually complex than a mere funny one.",
+      "char_range": [
+        1126,
+        1264
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者把坏笑话的“坏”追加为独木舟里的热水袋，声称它让整趟旅程更暖",
+      "quote": "if a joke is a canoe, the badness of a bad joke is a luxurious hot water bottle that makes your canoeing journey warmer and more pleasant.",
+      "char_range": [
+        1469,
+        1607
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "作者用 kayak/heat it 的双关收束全章，改写“having your cake and eating it”",
+      "quote": "Or, to put it another way, you can have your kayak and heat it too.",
+      "char_range": [
+        1659,
+        1726
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "作者 / 好笑话",
+      "relation": "作者先把好笑话定性为有用的工具（独木舟），以此为后文抬高坏笑话搭好对照基线。",
+      "quote": "So a good joke is useful. Think of it like a canoe: a functional item that does a job and gets you from A to B.",
+      "char_range": [
+        487,
+        598
+      ]
+    },
+    {
+      "pair": "作者 / 坏笑话",
+      "relation": "作者不把坏笑话当缺陷，而当成叠加在笑话之上的额外一层体验。",
+      "quote": "But a bad joke brings a whole extra level to the experience.",
+      "char_range": [
+        778,
+        838
+      ]
+    },
+    {
+      "pair": "作者 / 读者",
+      "relation": "作者用第二人称与读者共享一条“生活法则”：听众的呻吟与狂喜本是同一件事。",
+      "quote": "People groan in agony, sure, but they also moan in ecstasy. They’re basically the same thing! A rule to live by.",
+      "char_range": [
+        1286,
+        1398
+      ]
+    },
+    {
+      "pair": "作者 / 讲笑话的人",
+      "relation": "作者替讲笑话者辩护：明知烂还肯投入时间精力，这份胆量本身就是笑点。",
+      "quote": "The audacity or misguidedness of the teller putting time and energy into something so rubbish, the mismatch between a joyful delivery and a disappointed or angry response … How unfunny a joke is can be hilarious",
+      "char_range": [
+        953,
+        1164
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "700-ish",
+      "meaning": "作者声称本书收录约七百个笑话",
+      "quote": "There are 700-ish jokes in this book, and a lot of them aren’t any good at all.",
+      "char_range": [
+        601,
+        680
+      ]
+    },
+    {
+      "value": "3 类",
+      "meaning": "作者把书中坏笑话归纳为三类（老套可预测 / 生硬难讲 / 故意为之）",
+      "quote": "Some are corny and predictable, some are contrived and difficult, and others are wilfully bad.",
+      "char_range": [
+        681,
+        775
+      ]
+    }
+  ]
+}

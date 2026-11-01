@@ -1,0 +1,172 @@
+{
+  "chapter": "ch07",
+  "text_file": "text/ch07_the_oldest_jokes_in_the_world.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者指出笑话长期靠口耳相传、不被当作值得保存的东西，故现存最古老者也只有约四千年历史",
+      "quote": "jokes have been passed around orally, told and retold in taverns and around campfires, and not always seen as worth preserving in written form",
+      "char_range": [
+        86,
+        228
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "作者把已知最古老的笑话定位在约公元前1900年的苏美尔（今伊拉克），并直言它带性别歧视",
+      "quote": "It’s from around 1900 BC in ancient Sumer (modern-day Iraq), and goes like this",
+      "char_range": [
+        445,
+        524
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者把另一则笑话归给约公元前1600年的古埃及，说明它出自一篇讽刺短篇小说",
+      "quote": "Another, from about 1600 BCE, comes from ancient Egypt and appears as part of a satirical short story",
+      "char_range": [
+        798,
+        899
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "作者指出公元前1200年苏美尔的一则笑话文本缺失了punchline，译者反而成了笑话的受害者",
+      "quote": "There’s the text of a joke surviving from that era that has the punchline missing",
+      "char_range": [
+        1416,
+        1497
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者记载马其顿的腓力二世曾让雅典一个会员俱乐部把笑话写下来给他，但这份记录同样失传",
+      "quote": "Philip II of Macedon (in modern-day Greece) arranged for a members’ club in Athens to write down all their jokes for him",
+      "char_range": [
+        1760,
+        1880
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者说明现存最早的笑话集《Philogelos》（希腊语意为‘爱笑’）成书于公元250至400年之间",
+      "quote": "The earliest surviving joke book, Philogelos (which translates from Greek as ‘Love of Laughter’) was compiled sometime between 250 and 400 CE",
+      "char_range": [
+        1927,
+        2068
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者解释古笑话集里生菜段子特别多，是因为古人相信生菜是催情物",
+      "quote": "due to the ancient belief that it was an aphrodisiac",
+      "char_range": [
+        2415,
+        2467
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "作者把1470年代Poggio Bracciolini的《Facetiae》定为印刷术之后第一部真正出版的笑话集",
+      "quote": "With the invention of the printing press, properly published joke books became a thing, with 1470s Facetiae by Poggio Bracciolini thought to be the first",
+      "char_range": [
+        2655,
+        2808
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "作者 / 读者",
+      "relation": "作者讲完埃及笑话后插入一句木乃伊层层包裹的旁白，直接向读者挤眉弄眼",
+      "quote": "(Mummies dating from that era famously had many layers.)",
+      "char_range": [
+        1273,
+        1329
+      ]
+    },
+    {
+      "pair": "作者 / 译者",
+      "relation": "作者把因文本残缺而束手无策的译者称为这则笑话真正的笑柄",
+      "quote": "leaving frustrated translators as the real butt of the joke",
+      "char_range": [
+        1602,
+        1661
+      ]
+    },
+    {
+      "pair": "作者 / 本书自身",
+      "relation": "作者称古笑话集是‘这本书的不够好的版本’，把自家作品立为衡量古代笑话集的标尺以自嘲",
+      "quote": "Joke books, like not-as-good versions of this one, didn’t appear for another millennium or so",
+      "char_range": [
+        1665,
+        1758
+      ]
+    },
+    {
+      "pair": "作者 / 现代读者",
+      "relation": "作者承认埃及笑话对现代耳朵已难讲通，把古今接受差异摆明",
+      "quote": "doesn’t make a whole lot of sense to modern ears",
+      "char_range": [
+        1114,
+        1162
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "1900 BC",
+      "meaning": "已知最古老笑话的年代，苏美尔（今伊拉克）",
+      "quote": "It’s from around 1900 BC in ancient Sumer (modern-day Iraq)",
+      "char_range": [
+        445,
+        504
+      ]
+    },
+    {
+      "value": "1600 BCE",
+      "meaning": "古埃及讽刺短篇故事中那则笑话的年代",
+      "quote": "Another, from about 1600 BCE, comes from ancient Egypt",
+      "char_range": [
+        798,
+        852
+      ]
+    },
+    {
+      "value": "250 and 400 CE",
+      "meaning": "《Philogelos》成书年代区间",
+      "quote": "was compiled sometime between 250 and 400 CE",
+      "char_range": [
+        2024,
+        2068
+      ]
+    },
+    {
+      "value": "264",
+      "meaning": "《Philogelos》收录的编号笑话条数",
+      "quote": "It contains 264 numbered jokes",
+      "char_range": [
+        2070,
+        2100
+      ]
+    },
+    {
+      "value": "1470s",
+      "meaning": "《Facetiae》出版年代，被推为第一部出版笑话集",
+      "quote": "with 1470s Facetiae by Poggio Bracciolini thought to be the first",
+      "char_range": [
+        2743,
+        2808
+      ]
+    },
+    {
+      "value": "273",
+      "meaning": "《Facetiae》收录的笑话条数",
+      "quote": "It contains 273 jokes ranging from one-liners to full-page stories",
+      "char_range": [
+        2810,
+        2876
+      ]
+    }
+  ]
+}
