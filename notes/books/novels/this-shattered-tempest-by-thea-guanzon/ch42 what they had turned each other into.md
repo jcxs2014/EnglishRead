@@ -29,28 +29,48 @@ modified: "2026-11-01"
 - **为什么这样写**：在最私密的时刻插进一段沼泽会谈的回忆，是为了让「和平」这个词和身体同时在场——她此刻正在做的，正是她当年给和平开出的条件。三个 that 从句一层压一层（不会有和平 → 人民要复仇 → 循环不止），句子的形状本身就是那个循环。
 - **读者视角提示**：「lose herself in this」的 this 既是身体，也是遗忘；紧接的回忆说明她要躲开的是什么——她自己那套讲得通、也算得清的逻辑。
 
-> **原句 3:** "From the very beginning, the Sardovian Allfold had never intended for Kesath to make it through this new war. Perhaps they would keep their word to Talasyn and spare Alaric, but as for the rest of it . . ."
+> **原句 3:** "The Amirante had given her a very strange look then, opening her mouth to say something before appearing to think better of it. Talasyn had wondered at the time, and now she understood. Now that Alaric had told her about the new modifications to the Nautilus, she knew what Vela had been about to say."
+
+- **中文理解**：当时阿米兰特用一种很奇怪的眼神看她，张了张嘴像是要说什么，随后又改变了主意。塔拉辛那会儿没想明白，现在她懂了：阿拉里克把「鹦鹉螺号」的新改装告诉她之后，她就知道维拉当时没说出来的是什么。
+
+- **关键词**：strange look · now she understood · modifications
+
+- **为什么这样写**：这一段整篇是事后补上的一层解释，而它的顺序正好相反：先给一个当时读不懂的表情，再给「现在她懂了」，最后才点出让她读懂的是什么。信息被压到句尾，于是「懂了」这件事本身比懂了的内容更响。
+
+- **读者视角提示**：同一段的上下文（不在本块引语内）才是那层含义：她一直以为维拉要的是收复失地与停战，现在才知道那些改装意味着「让凯萨斯连打完这场战争的资格都不剩」。
+
+> **原句 4:** "From the very beginning, the Sardovian Allfold had never intended for Kesath to make it through this new war. Perhaps they would keep their word to Talasyn and spare Alaric, but as for the rest of it . . ."
 
 - **中文理解**：从一开始，萨多维亚全盟就从未打算让凯萨斯挺过这场新的战争。他们或许会守信，对塔拉辛留下阿拉里克的性命，但至于其余的部分……
 - **关键词**：Sardovian Allfold · new war · spare Alaric
 - **为什么这样写**：「never intended」把背信从某个人的临时决定，改写成这场战争一开始就已经定下的打算，责任因此不再落在某一次谈判上。「Perhaps」一句是唯一的退让，只保住阿拉里克一个人，剩下的全交给省略号——不是作者省掉了信息，而是让读者自己把那半句补完，补出来的东西比写出来的更冷。
 - **读者视角提示**：注意人称从「the Sardovians」滑到「they」：指代一放宽，责任就从「某些萨多维亚人」扩到整个全盟。
 
-> **原句 4:** "The beautiful city of Grand Bight, with all those smiling faces and the petals raining down on her—it was all gone. They were all dead. They had cheered for her and trusted her, and she had brought about the amethyst light that had come for them and rotted them even as they tried to run from it."
+> **原句 5:** "The beautiful city of Grand Bight, with all those smiling faces and the petals raining down on her—it was all gone. They were all dead. They had cheered for her and trusted her, and she had brought about the amethyst light that had come for them and rotted them even as they tried to run from it."
 
 - **中文理解**：美丽的大湾城，那些笑脸，那些落在她身上的花瓣——全都没了。他们都死了。他们曾为她欢呼、信任她，而她却招来了那道紫晶色的光；光在他们奔逃时追上来，把他们烧烂。
 - **关键词**：beautiful city · all gone · amethyst light
 - **为什么这样写**：三个短句连着砸下来（全都没了／他们都死了），到第三句才把因果摊开：欢呼和信任在前，rotted 在后，中间不留缓冲。破折号插在「落在她身上的花瓣」之后，把庆典的画面一刀切断，读者的视线跟着断在半空，再接上「it was all gone」，落差是靠标点做出来的。
 - **读者视角提示**：「她招来的光」用的正是本章反复出现的 light 词汇——她自己的力量以最难堪的方式回到她身上。
 
-> **原句 5:** "Guilt spiraled through Talasyn, cutting her insides like she’d swallowed glass. It was too immense to bear, on top of everything else that had happened in the span of a few short days. She wanted to forget all of it."
+> **原句 6:** "Guilt spiraled through Talasyn, cutting her insides like she’d swallowed glass. It was too immense to bear, on top of everything else that had happened in the span of a few short days. She wanted to forget all of it."
 
 - **中文理解**：愧疚在塔拉辛体内盘旋，像她吞下了玻璃一样割着她的内里。它太巨大，她承受不住，何况短短几天里还发生了那么多别的事。她想把这一切都忘掉。
 - **关键词**：swallowed glass · too immense · everything else
 - **为什么这样写**：把愧疚写成「吞下玻璃」，是给看不见的情绪换一副体内的实体伤口，与本章一路写下来的身体感受走同一条通道；「on top of everything else」又把它和别的灾难并列，说明这不是某一件事的后遗症，而是叠到了临界点。
 - **读者视角提示**：紧随的下一句，她把「忘掉」的指望放在这片光暗交织的网里——这也解释了后面那场性事在叙事里的功能：不是亲密，是止痛。
 
-> **原句 6:** "“I’ll see you on the battlefield,” he said at last. He sounded tired, although his voice was laced with the same resentment that he’d been steeped in throughout this whole heartsick mess."
+> **原句 7:** "Talasyn pushed herself up and rolled them both over, pinning Alaric’s arms above his head. She gathered threads of her magic from their surroundings, plumes of golden light wafting up from beneath his gauntlets and then circling his wrists, chaining them together. Chaining him to the floor."
+
+- **中文理解**：塔拉辛支起身，把两人一起翻过来，把阿拉里克的双臂按在头顶。她从四周收拢魔法的丝线，金色的光羽从他臂铠底下涌起、绕上他的手腕，把它们锁在一起。把他锁在地板上。
+
+- **关键词**：golden light · chaining them · the floor
+
+- **为什么这样写**：三个句子对应三个动作层级：翻身（体位）、收魔法（手段）、锁住（结果），而最后那个不完整的分句再把结果从「手腕」扩大到「全身」——只加三个词，力量关系就翻了一次。
+
+- **读者视角提示**：紧随其后的两段（不在本块引语内）把这层翻转顶回去：他咬牙说「这改变不了什么」，她答「是改变不了」「一直都是你」；再过一段，影门吞掉金色的束缚，他从下面翻上来。整场角力因此没有赢家——每一次占上风都被下一次抵掉。
+
+> **原句 8:** "“I’ll see you on the battlefield,” he said at last. He sounded tired, although his voice was laced with the same resentment that he’d been steeped in throughout this whole heartsick mess."
 
 - **中文理解**：「战场上见。」他终于说。他听起来很累，尽管他的声音里缠着同一种怨恨——这场令人心碎的乱局里，他一直浸在里面。
 - **关键词**：see you · sounded tired · heartsick mess

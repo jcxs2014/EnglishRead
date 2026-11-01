@@ -1,0 +1,128 @@
+{
+  "chapter": "ch42",
+  "source": "text/ch42_chapter_forty_two.txt",
+  "char_total": 10611,
+  "events": [
+    {
+      "i": 1,
+      "summary": "塔拉辛回想起在锡格瓦德红树林与维拉的密会：她当时论证，若萨尔多维亚人杀死阿拉里克，与凯萨斯便不可能有真正的和平。",
+      "quote": "She was thinking about a clandestine meeting amidst the mangrove swamps of Sigwad, when she had explained to Vela that there could never be a true peace with Kesath if the Sardovians killed Alaric",
+      "start": 627,
+      "end": 823
+    },
+    {
+      "i": 2,
+      "summary": "阿拉里克把「鹦鹉螺号」的新改装告诉她之后，她才明白维拉当时欲言又止的内容。",
+      "quote": "Now that Alaric had told her about the new modifications to the Nautilus, she knew what Vela had been about to say.",
+      "start": 1126,
+      "end": 1241
+    },
+    {
+      "i": 3,
+      "summary": "塔拉辛断定维拉的目标不止收复「全折」领地，还要把凯萨斯从地图上抹去。",
+      "quote": "Ideth Vela wasn’t aiming to just reclaim the Allfold territories. She planned to wipe Kesath from the map as well.",
+      "start": 1598,
+      "end": 1712
+    },
+    {
+      "i": 4,
+      "summary": "塔拉辛为大湾城的死者自责：那些人曾为她欢呼，却被她引来的紫晶之光所毁。",
+      "quote": "They had cheered for her and trusted her, and she had brought about the amethyst light that had come for them and rotted them even as they tried to run from it.",
+      "start": 1905,
+      "end": 2065
+    },
+    {
+      "i": 5,
+      "summary": "阿拉里克提起储藏室那一次，问她若换成这只臂铠会怎样。",
+      "quote": "“That time in the storage closet . . . I wondered what you would do if it was this gauntlet. If you could take it.”",
+      "start": 3075,
+      "end": 3190
+    },
+    {
+      "i": 6,
+      "summary": "塔拉辛翻身把阿拉里克压住，用金色光线缚住他的双腕、把他锁在地上。",
+      "quote": "Talasyn pushed herself up and rolled them both over, pinning Alaric’s arms above his head. She gathered threads of her magic from their surroundings, plumes of golden light wafting up from beneath his gauntlets",
+      "start": 3937,
+      "end": 4147
+    },
+    {
+      "i": 7,
+      "summary": "阿拉里克咬牙说「这改变不了什么」，塔拉辛应和，并说「一直都是你」。",
+      "quote": "“This changes nothing,” he snarled, baring his teeth at her through kiss-bitten lips.",
+      "start": 6236,
+      "end": 6321
+    },
+    {
+      "i": 8,
+      "summary": "事后阿拉里克说「战场上见」，声音疲惫而含怨。",
+      "quote": "“I’ll see you on the battlefield,” he said at last. He sounded tired, although his voice was laced with the same resentment that he’d been steeped in throughout this whole heartsick mess.",
+      "start": 10359,
+      "end": 10546
+    }
+  ],
+  "relations": [
+    {
+      "a": "塔拉辛（Talasyn）",
+      "b": "阿拉里克（Alaric）",
+      "relation": "彼此纠缠的宿敌与情人：互相伤害又互相渴求",
+      "quote": "A war without a victor. An endless cycle of damnation and desire.",
+      "start": 5007,
+      "end": 5072
+    },
+    {
+      "a": "塔拉辛（Talasyn）",
+      "b": "伊德斯·维拉（Ideth Vela）",
+      "relation": "表面盟友：维拉隐瞒了灭绝凯萨斯的计划，而塔拉辛使她更接近这个目标",
+      "quote": "And Talasyn had helped her get closer to that goal.",
+      "start": 1715,
+      "end": 1766
+    },
+    {
+      "a": "塔拉辛（Talasyn）",
+      "b": "凯德（Khaede）",
+      "relation": "凯德曾当面对她说「他们都该死」，与维拉未说出口的话同调",
+      "quote": "Something along the same lines as what Khaede had told Talasyn that night on the balcony of her room at the Citadel.",
+      "start": 1244,
+      "end": 1360
+    },
+    {
+      "a": "塔拉辛（Talasyn）",
+      "b": "大湾城民众",
+      "relation": "曾拥戴她的人被她卷入的战争所灭",
+      "quote": "All those smaller lives, crushed beneath the wheel of her own machinations.",
+      "start": 2068,
+      "end": 2143
+    }
+  ],
+  "numbers": [
+    {
+      "value": "decades",
+      "context": "她警告维拉：杀死阿拉里克只会让沾血的循环延续数十年",
+      "quote": "that his people would demand vengeance, that they would only be perpetuating a cycle of decades soaked in blood.",
+      "start": 825,
+      "end": 937
+    },
+    {
+      "value": "a few short days",
+      "context": "数日之内接连发生诸多变故，愧疚沉重到难以承受",
+      "quote": "It was too immense to bear, on top of everything else that had happened in the span of a few short days.",
+      "start": 2298,
+      "end": 2402
+    },
+    {
+      "value": "half（半声）",
+      "context": "她的惊呼只发出半声，余下的被阿拉里克的吻堵住",
+      "quote": "Talasyn could only let out half of a gasp; Alaric stifled the rest with another punishing kiss.",
+      "start": 7416,
+      "end": 7511
+    },
+    {
+      "value": "both（两人）",
+      "context": "两人都已汗湿、气息短促",
+      "quote": "She met him thrust for thrust, both of them sweat-stained and short of breath.",
+      "start": 9266,
+      "end": 9344
+    }
+  ],
+  "notes": "语料问题：①章题「Chapter Forty-Two」在文件内重复出现两次（第 1 行与第 12 行），两者之间夹 10 个空行；②正文段落之间普遍为双空行，个别为多空行，行号与段落不一一对应；③省略号排印为空格点「. . .」（如 storage closet 一处），非「…」；④引号与撇号为弯体（“ ” ’），检索/比对时须逐字匹配；⑤本章含直白性描写，摘要只记事实、不转述露骨细节，引语尽量选取非露骨句；⑥文件末尾有换行符。⑦char_total 为 len(open(...).read()) 实测值（含全部空行与空白）。"
+}
