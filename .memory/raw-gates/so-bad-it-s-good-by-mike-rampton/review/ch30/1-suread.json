@@ -1,0 +1,112 @@
+{
+  "chapter": "ch30",
+  "text_file": "text/ch30_afterword.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "后记先向读完全书的人道贺，说他们已接近‘字词句子不再有意义’的状态，并随手甩出三个无意义词作证。",
+      "quote": "You must be approaching the point where words and sentences barely make sense anymore anchor, floorboard, wildebeest.",
+      "char_range": [
+        162,
+        279
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "对先翻到后记的读者，作者用‘跳到结论’的字面义警告别先看结尾。",
+      "quote": "If you’ve come to this page first, do be careful: no good can come from jumping to conclusions.",
+      "char_range": [
+        282,
+        377
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "用‘推倒一棵生菜’接‘冰山一角’，把两个不相干的比喻硬拼成混合比喻。",
+      "quote": "But just like pushing over a lettuce, this is the tip of the iceberg.",
+      "char_range": [
+        380,
+        449
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "接着把‘只抓到皮毛’换成‘只挠到冲浪者’，继续故意错配比喻。",
+      "quote": "Like a naked cat attacking beachgoers, you’ve barely scratched the surfers.",
+      "char_range": [
+        450,
+        525
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "说修女笑话有数千则而本书一则未收，用 nun/none 同音收尾。",
+      "quote": "There are thousands of jokes about nuns, for instance, and this book doesn’t contain any – nun whatsoever.",
+      "char_range": [
+        620,
+        726
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "用‘电工电了德国女人的儿子’来讲‘力量在你手上’，靠 Hans/hands 同音。",
+      "quote": "as the electrician said when he electrocuted a German woman’s son, the power is in your Hans.",
+      "char_range": [
+        757,
+        850
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "作者给出烂笑话的正面价值：翻白眼与勉强的笑能跨越分歧、让人变得成熟，并以 immature/fully groan 双关收束。",
+      "quote": "Before a bad joke we’re immature, but afterwards? Fully groan.",
+      "char_range": [
+        979,
+        1041
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "结尾催读者去讲笑话，并把 go forth（出发）改成排队语境下的 go first（先来）。",
+      "quote": "So, go forth (or, if there aren’t three people trying to go before you, just go first) and joke!",
+      "char_range": [
+        1044,
+        1140
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "无意义三词 / nun whatsoever",
+      "relation": "都以语言失效或同音（nun/none）作笑点，收束全书对‘烂笑话’的自我指涉。",
+      "quote": "There are thousands of jokes about nuns, for instance, and this book doesn’t contain any – nun whatsoever."
+    },
+    {
+      "pair": "推倒生菜+冰山一角 / 裸猫+只挠到冲浪者",
+      "relation": "后记连续用两个故意错配的混合比喻（malaphor），把‘本书只是一小部分’这句陈词说歪。",
+      "quote": "Like a naked cat attacking beachgoers, you’ve barely scratched the surfers."
+    },
+    {
+      "pair": "jumping to conclusions / go first 排队",
+      "relation": "把‘跳’与‘先’的字面义延伸到插队玩笑，与开头的字面义玩笑首尾呼应。",
+      "quote": "So, go forth (or, if there aren’t three people trying to go before you, just go first) and joke!"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "hundreds",
+      "meaning": "全书笑话总量被说成数百则，且同时冠以 terrible 与 excellent。",
+      "quote": "well done for making it through hundreds of consistently terrible excellent jokes"
+    },
+    {
+      "value": "thousands",
+      "meaning": "修女笑话有数千则，本书一则未收。",
+      "quote": "There are thousands of jokes about nuns, for instance, and this book doesn’t contain any – nun whatsoever."
+    },
+    {
+      "value": "three",
+      "meaning": "结尾设想排队时前面有三个人，才配用 go forth。",
+      "quote": "if there aren’t three people trying to go before you, just go first"
+    }
+  ]
+}

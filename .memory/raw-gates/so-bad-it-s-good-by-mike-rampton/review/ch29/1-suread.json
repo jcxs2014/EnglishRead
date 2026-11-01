@@ -1,0 +1,117 @@
+{
+  "chapter": "ch29",
+  "text_file": "text/ch29_rubbish_jokes_too_silly_for_any_other_chapter.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "本章定位是别的章放不下的杂碎笑话收容所，开篇用西兰花/鼻屎的‘区别’问句，把答案落回‘小孩不爱吃西兰花’这种平铺事实。",
+      "quote": "What’s the difference between broccoli and bogies? Children don’t like eating broccoli.",
+      "char_range": [
+        104,
+        191
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "随后一组‘棕色+声音/质地’的童谣式问句靠拟声词收尾，不给双关也不给转折。",
+      "quote": "What’s brown and sounds like a bell? DUNG!",
+      "char_range": [
+        245,
+        287
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "反笑话的另一路是答案完全照字面直译：蓝而不重就是浅蓝。",
+      "quote": "What’s blue and not very heavy? Light blue.",
+      "char_range": [
+        425,
+        468
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "便秘数学家把‘解题’落到用铅笔算出来，让委婉语与字面同时成立。",
+      "quote": "How did the constipated mathematician solve his problem? He worked it out with a pencil.",
+      "char_range": [
+        1029,
+        1117
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "字母汤笑话用 vowel movement 影射 bowel movement，把排泄笑话伪装成语言笑话。",
+      "quote": "If you eat too much alphabet soup you end up making a huge vowel movement.",
+      "char_range": [
+        1962,
+        2036
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "魔术师笑话不给包袱，只把‘不神通的魔术师’命名为普通人名 Ian。",
+      "quote": "What do you call a magician who isn’t magic? Ian.",
+      "char_range": [
+        2041,
+        2090
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "篱笆小洞的‘七十三’吟唱用重复口号加戳眼把手指数本身变成笑点。",
+      "quote": "A finger immediately pokes him in the eye, and the chant changes to, ‘Seventy-four! Seventy-four! Seventy-four!’",
+      "char_range": [
+        1558,
+        1670
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "章末两则是长叙事笑话，靠对白误会收尾；公交车上陌生人答应照看‘猴子’即指那个婴儿。",
+      "quote": "The man says, ‘Go up there and tell him off. It’s alright, I’ll look after your monkey.’",
+      "char_range": [
+        3439,
+        3527
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "西兰花/鼻屎 / 蓝而不重",
+      "relation": "同为‘问句+一个不作转折的平铺答案’的反笑话结构，笑点在于拒绝给出预期的双关。",
+      "quote": "What’s blue and not very heavy? Light blue."
+    },
+    {
+      "pair": "便秘数学家 / 字母汤",
+      "relation": "两则都把排泄包装成语言或数学问题的‘解答’：worked it out with a pencil 与 vowel/bowel 同音。",
+      "quote": "If you eat too much alphabet soup you end up making a huge vowel movement."
+    },
+    {
+      "pair": "七十三吟唱 / 239 颗豆子",
+      "relation": "都用荒谬而精确的数字代替包袱，数字本身成为唯一的笑点。",
+      "quote": "A finger immediately pokes him in the eye, and the chant changes to, ‘Seventy-four! Seventy-four! Seventy-four!’"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "239",
+      "meaning": "一碗该放几颗豆的答案，多一颗就‘太屁’，用精确数字反衬 farty 双关。",
+      "quote": "How many beans should you put in a bowl? 239. One more would be too farty."
+    },
+    {
+      "value": "Seventy-three",
+      "meaning": "围栏里传出的口号数字，戳眼后改为七十四。",
+      "quote": "chants coming from inside of, ‘Seventy-three! Seventy-three! Seventy-three!’"
+    },
+    {
+      "value": "six foot four",
+      "meaning": "要找的僧人身高门槛，撑起 tall order（难办/高个订单）双关。",
+      "quote": "I’ve been asked to find a group of monks that are all over six foot four. That’s a tall order."
+    },
+    {
+      "value": "two pairs",
+      "meaning": "高尔夫球手穿两条内裤的数量，为 hole in one 双关铺垫。",
+      "quote": "Why did the golfer wear two pairs of underpants? In case he got a hole in one."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "chapter": "ch28",
+  "text_file": "text/ch28_criminally_bad_police_jokes.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "本章开篇把警局失窃笑话建立在把 nothing to go on（没有线索）坐实为字面义上：厕所被偷，于是真的没有可坐/可依据之物。",
+      "quote": "The police station has been broken into and all the toilets stolen. Officers say they have nothing to go on.",
+      "char_range": [
+        70,
+        178
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "紧接着的车轮被偷笑话用 tirelessly（不倦/没有轮胎）双关，同一招把办案用语按字面读。",
+      "quote": "All the police cars in the area have had their wheels stolen, so officers will be working tirelessly to find the culprits.",
+      "char_range": [
+        183,
+        305
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "裸体营地篱笆破洞被归入警方例行表态，靠 looking into it（往里看/调查）的字面义取笑。",
+      "quote": "A hole has been found in the fence of a nudist colony. Police say they are looking into it.",
+      "char_range": [
+        496,
+        587
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "假发厂三吨头发失窃，把 combing the area（地毯式搜查/梳理）的字面义直接演出来。",
+      "quote": "Three tons of hair has been stolen from a wig factory. Police are combing the area.",
+      "char_range": [
+        592,
+        675
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "高尔夫球杆杀夫笑话把‘打了几下’答成‘给我记六杆’，把凶案换算成高尔夫计分。",
+      "quote": "‘I don’t remember,’ she says. ‘Put me down for a six.",
+      "char_range": [
+        1606,
+        1659
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "监狱编号笑话整段讲‘笑话被编号、只报数字’，最后以‘是你说的方法不对’点出笑话的表演性。",
+      "quote": "‘We’ve all been here for so long that we know all the jokes,’ says his cellmate.",
+      "char_range": [
+        2986,
+        3066
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "偷斯特拉迪瓦里琴书的小偷被写成‘有小提琴前科’，靠 violins/violence 同音。",
+      "quote": "Police hunting a robber who stole a book about Stradivarius have warned the public not to approach him. He has a history of violins.",
+      "char_range": [
+        3862,
+        3994
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "章末把偷门/栅栏写成 take a fence（take offence 冒犯），劝人别对危险罪犯开口。",
+      "quote": "What do you say to a dangerous criminal who’s stolen your gate? Nothing. He might take a fence.",
+      "char_range": [
+        4195,
+        4290
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "厕所失窃 / 宠物店失窃",
+      "relation": "两则都以警方‘没有线索’收尾，分别把 nothing to go on 与 no leads（没有牵狗绳）按字面坐实，是同一双关机制的连续演示。",
+      "quote": "The pet shop nearest the police station has been burgled. Officers say they have no leads."
+    },
+    {
+      "pair": "香肠团伙 / 霸王龙军火商",
+      "relation": "把执法动词与食材、体型并置：grilling（烤问）落到香肠上，small arms（小型武器）落到短手霸王龙身上。",
+      "quote": "A gang of sausages have been charged with criminal conspiracy. Police are grilling the suspects."
+    },
+    {
+      "pair": "甜甜圈案 / 汽水击头",
+      "relation": "用物品的物理属性（有洞/是软饮）把犯罪与伤害消解为无害，案情本身成了双关材料。",
+      "quote": "A suspect arrested for stealing a box of doughnuts has been released. The case was full of holes."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "10,000",
+      "meaning": "警局新得的蜜蜂数量，为 sting operation（蜇人/钓鱼执法）双关提供规模依据。",
+      "quote": "Local police have recently acquired 10,000 bees. They are to be used in a sting operation."
+    },
+    {
+      "value": "Three tons",
+      "meaning": "假发厂被偷头发的重量，撑起 combing（梳理/搜查）双关。",
+      "quote": "Three tons of hair has been stolen from a wig factory. Police are combing the area."
+    },
+    {
+      "value": "sixty-eight",
+      "meaning": "被偷两只却找回六十八只，用数字错位制造荒诞。",
+      "quote": "Two rabbits were stolen from a pet shop last week. Only sixty-eight have been recovered."
+    },
+    {
+      "value": "£2,000",
+      "meaning": "电影院小卖部被劫金额，与两份汽水、三份爆米花、一个热狗的清单并列。",
+      "quote": "Criminals robbed the snack counter at the local cinema and got away with over £2,000 worth of goods: two large fizzy drinks, three medium popcorns and a hot dog."
+    }
+  ]
+}
