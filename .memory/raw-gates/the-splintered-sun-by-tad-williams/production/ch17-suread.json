@@ -1,0 +1,61 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch17",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch17_17_two_brown_spotted_eggs.txt",
+ "facts": [
+  {
+   "fact": "Xaniko 派来的男仆找遍宅子与庭院都没找到男孩，只发现大门没关严，并说屋前能清楚望见通往 Crannhyr-town 的路。",
+   "anchor": "the front door of the house not quite closed",
+   "start": 1150,
+   "end": 1194
+  },
+  {
+   "fact": "慌了神的 Vedra 找到 Mearna；Mearna 说她会带上 Ivar 到前庭与她会合，但请她不要告诉 Flann 或 Xaniko。",
+   "anchor": "But please don’t tell Flann or Xaniko.",
+   "start": 1702,
+   "end": 1740
+  },
+  {
+   "fact": "Mearna 拦住想冲下山去的 Vedra：若 Hernysadharc 已发出警报，要找的是同行的两个孩子，沿街问「你见过我弟弟吗」最不可取。",
+   "anchor": "it will be for two children traveling together",
+   "start": 2197,
+   "end": 2243
+  },
+  {
+   "fact": "Mearna 指着带角楼的 Tach Tulach（小丘之屋）说它原是 Flann 家的，如今住着国王的 Reeve Hagan，并朝地上吐了口唾沫。",
+   "anchor": "That accursed thief Hagan, the First Lord’s Reeve",
+   "start": 6164,
+   "end": 6213
+  },
+  {
+   "fact": "Mearna 说腐败坐上王座，规矩就没有意义：Tethtain 王多年不问 Hernystir 的日常，只要 Phelan 不烧地杀人就由他为所欲为。",
+   "anchor": "then the rules are meaningless",
+   "start": 8975,
+   "end": 9005
+  },
+  {
+   "fact": "在 Mircha 神庙前 Pegeen 认出 Vedra 并抱住她，说不到一星期她们就回 Hernysadharc，届时欢迎她与弟弟住到她家。",
+   "anchor": "It’s less than a sennight until we return to Hernysadharc",
+   "start": 13022,
+   "end": 13079
+  },
+  {
+   "fact": "Mearna 打量 Daley 捧来的海鸥窝：一团草茎与麦秆，宽檐帽大小，里面有两枚带褐色斑点的蛋，并问他打算拿它怎么办。",
+   "anchor": "a mass of sticks and straw the size of a wide-brimmed hat",
+   "start": 16820,
+   "end": 16877
+  },
+  {
+   "fact": "Mearna 说这个季节还没孵出来多半是死的；Daley 脸上没了表情，把窝放在神庙外墙边，一枚蛋滚出来也没捡，随后走开去望空地。",
+   "anchor": "One of the eggs rolled out, but Daley did not replace it.",
+   "start": 17400,
+   "end": 17457
+  },
+  {
+   "fact": "Vedra 拒绝 Pegeen 带她回去的提议，说 Daley 犯了错，现在她们得帮忙把这个错补好。",
+   "anchor": "and now we have to help make it better",
+   "start": 18561,
+   "end": 18599
+  }
+ ]
+}

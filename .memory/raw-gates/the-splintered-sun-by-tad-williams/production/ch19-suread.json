@@ -1,0 +1,61 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch19",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch19_19_the_silver_mine.txt",
+ "facts": [
+  {
+   "fact": "Xaniko 在 Threadbare Hall 正门口送 Flann、Mearna、Diarban、Ivar 四人出发，警告“年轻杂种”与其母可能已听到劫案消息，第一领主的兵也会循同一消息搜寻他们的营地。",
+   "anchor": "Xaniko said to Flann, Mearna, Diarban, and Ivar",
+   "start": 54,
+   "end": 101
+  },
+  {
+   "fact": "途中 Flann 讲 Xaniko 的来历：很久以前与 Nakkiga 的诺恩女王闹翻，离开后再不能回去，Sitha 也不接纳他，他先在北方山里住了很久，后来才到 Crannhyr。",
+   "anchor": "Xaniko had a falling out with the Norn Queen",
+   "start": 4161,
+   "end": 4205
+  },
+  {
+   "fact": "Flann 在山道上突然停步，退回队伍低语：山脊上有人，很多，而且他认为是兵。",
+   "anchor": "There are men on the hillcrest",
+   "start": 7752,
+   "end": 7782
+  },
+  {
+   "fact": "Flann 爬上沟壁的一棵梣树观察后回报：士兵正像围猎的赶兽人一样散开下坡搜寻，他看见 Holly 徽记，判断来人是第一领主的兵，不是 Scaeth 的。",
+   "anchor": "I believe I saw the Holly badge",
+   "start": 8957,
+   "end": 8988
+  },
+  {
+   "fact": "Flann 想起 Tethtain 祖父在世时这附近有一座旧铜矿，他要的不是矿里的金属，而是能躲藏或据守的掩体。",
+   "anchor": "there was an old copper mine near here",
+   "start": 10722,
+   "end": 10760
+  },
+  {
+   "fact": "四人钻进矿洞前室，Diarban 估量这间石室只有两口并排的棺材那么宽，顶又低，连挥剑的地方都没有。",
+   "anchor": "about the width of two coffins laying side by side",
+   "start": 15518,
+   "end": 15568
+  },
+  {
+   "fact": "一只獒犬从洞口挤进来时，Diarban 看见从 Mearna 害怕的侧向坑道里涌出一片两脚、圆眼、老鼠大小却具人形的活物，Ivar 喊“Bukken”，又改用通用语喊“Goblins”。",
+   "anchor": "a horde of tiny creatures",
+   "start": 20445,
+   "end": 20470
+  },
+  {
+   "fact": "Flann 把剑塞给 Diarban、独自攀上塌石堆后，从上方垂下一根几股藤编成的粗索，四人靠它爬出矿洞。",
+   "anchor": "a long, slender object dropped down from above",
+   "start": 28330,
+   "end": 28376
+  },
+  {
+   "fact": "Flann 说他们是从一处半塌的通风竖井出来的，众人合力滚来一块长石堵住洞口，山下的追兵已不见踪影。",
+   "anchor": "A half-collapsed airshaft.",
+   "start": 31734,
+   "end": 31760
+  }
+ ]
+}
