@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch41",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch41_41_words_as_weapons.txt",
+ "facts": [
+  {
+   "fact": "Vedra 在营地醒来，有人正往她嘴里滴温热的东西，她第一反应是被下了毒。",
+   "anchor": "something wet and disturbingly warm",
+   "start": 139,
+   "end": 174
+  },
+  {
+   "fact": "Xaniko 说 Daley 从梦道上掉了下去，他没能同时拉住他、又照看昏过去的 Vedra。",
+   "anchor": "He fell away from the Road",
+   "start": 1672,
+   "end": 1698
+  },
+  {
+   "fact": "Xaniko 探到 Daley 与王子的位置，却还没告诉他们该在哪里安全渡河。",
+   "anchor": "only a few leagues from the River Baraillean",
+   "start": 2178,
+   "end": 2222
+  },
+  {
+   "fact": "Crows 把连夜赶来的 Conal 连人带马拉进营地中央，Ivar 接住了从鞍上滑落的他。",
+   "anchor": "leading a horse and its rider",
+   "start": 2864,
+   "end": 2893
+  },
+  {
+   "fact": "Conal 报信：Lady Mearna 被 Hagan 抓走，Flann 要众人赶去 Ardkillan 救她。",
+   "anchor": "Lady Mearna. She’s been captured.",
+   "start": 4723,
+   "end": 4756
+  },
+  {
+   "fact": "Tynon 拒绝强攻，说合兵之后既无兵力也无时间去救 Mearna，那只会送死。",
+   "anchor": "neither the numbers nor the time",
+   "start": 6193,
+   "end": 6225
+  },
+  {
+   "fact": "Xaniko 当众宣布自己与 Vedra 不能跟 Crows 走，必须留下找到 Daley 传话。",
+   "anchor": "I cannot leave here yet and neither can Vedra",
+   "start": 11076,
+   "end": 11121
+  },
+  {
+   "fact": "Diarban 用威胁逼 Daley 再去试一次，末了自承残忍，求神宽恕。",
+   "anchor": "we must use them as weapons",
+   "start": 21283,
+   "end": 21310
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch44",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch44_44_a_storm_of_fire_and_shadows.txt",
+ "facts": [
+  {
+   "fact": "Mearna 被 Hagan 认出后关进空村舍已六天，除早晚送稀粥外无人理她，连羞辱她的人都没来。",
+   "anchor": "Six days had passed for Mearna since Hagan",
+   "start": 40,
+   "end": 82
+  },
+  {
+   "fact": "Mearna 自己弄塌屋里唯一的桌子，用守卫搜身时漏掉的一枚铜币锯出一根三掌长的木刺，磨尖后藏在草铺底下，打算至少能刺一个人。",
+   "anchor": "she had managed to split off a narrow wooden sliver",
+   "start": 1739,
+   "end": 1790
+  },
+  {
+   "fact": "Hagan 怀疑她藏了一面「仙镜」，命两名守卫剥光她仔细搜身，她羞愤到想扑去取木刺刺他。",
+   "anchor": "Strip her of those foul rags and search her carefully",
+   "start": 4588,
+   "end": 4641
+  },
+  {
+   "fact": "搜身没有搜到仙镜，却搜出了那根木刺；Hagan 连里衣和毯子也一并收走，防她自尽。",
+   "anchor": "They found no fairy glass, but they did find her makeshift dagger",
+   "start": 5212,
+   "end": 5277
+  },
+  {
+   "fact": "Hagan 开出条件：说出 Flann 的住处，就安排她在押往 Hernysadharc 途中「逃走」，并给她一处 Phelan 不知道的藏身处。",
+   "anchor": "I want to know the whereabouts of Flann Alderwood",
+   "start": 7499,
+   "end": 7548
+  },
+  {
+   "fact": "Mearna 拒绝交易，骂他连 Bagba 都不如，啐在地上，说他拿到东西后照样会把她送去 Phelan。",
+   "anchor": "The favor of betraying Flann",
+   "start": 8081,
+   "end": 8109
+  },
+  {
+   "fact": "夜里营地遭袭，栅栏多处起火，士兵边跑边系甲；她盼是南军开拔，又怕来的是 Scaeth 的人。",
+   "anchor": "flames were billowing high into the sky",
+   "start": 10728,
+   "end": 10767
+  },
+  {
+   "fact": "一个穿红蛇纹外袍、黑胡子的大汉用剑挑开草铺，开口先问胡子如何——来人正是染了胡子的 Flann，他拉她出门，在火与影里撤走。",
+   "anchor": "his black surcoat bore Scaeth’s twisting red serpent",
+   "start": 14024,
+   "end": 14076
+  }
+ ]
+}
