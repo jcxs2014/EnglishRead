@@ -13,7 +13,7 @@ modified: "2026-11-01"
 - **叙事手法**：山的拟人化 taunt（「说不定你会遇见自己从对面来」）延续三体创伤；故事接龙的猜谜结构让民间故事自己走进对话；抢劫戏的生理细节（满嘴粪、喷溅、尖叫庆祝）维持 chapter 式的耻感幽默；「Fuck, I was thirsty」五词收章，把宏大冒险钉回喉干舌燥。
 
 ## 精读
-> **原句 1:** "Yes, my darlings, come back into our arms. We have brigands and snow owls and avalanches. We have strange gods and stranger devils. And who knows? You may even meet yourselves / coming the other way."
+> **原句 1:** "Yes, my darlings, come back into our arms. We have brigands and snow owls and avalanches. We have strange gods and stranger devils. And who knows? You may even meet yourselves coming the other way."
 
 **中文理解**：是啊，亲爱的们，回到我们怀里来吧。我们有强盗、有雪枭、有雪崩。我们有怪神和更怪的魔。谁知道呢？说不定你们还会遇见自己从对面走过来。
 **关键词**：come back into our arms / strange gods and stranger devils / meet yourselves / coming the other way
@@ -44,7 +44,7 @@ modified: "2026-11-01"
 > **原句 5:** "“And in the morning, he woke up to discover that he was a bear, and later, he tried to warn another man, but he could only make bear sounds, and the geezer drew a sword on him.” “You’ve heard this story, then?” “No, I fucking haven’t. You fucking told me this was about a witch who turned her lovers into bears, didn’t you?”"
 
 **中文理解**：「第二天早上他醒来发现自己成了熊，后来他想警告另一个人，却只能发出熊叫，那家伙拔剑指着他。」「这故事你以前听过？」「操，没有。是你他妈亲口说这是讲女巫把情人变熊的，不是吗？」
-**关键词**：he woke up to discover that he was a bear / could only make bear sounds / You’ve heard this story / drew a sword on him
+**关键词**：woke up / he was a bear / make bear sounds / drew a sword on him
 **为什么这样写**：猜穿故事的反转用最省事的方法——他复述了结局，她的「听过？」与他的反驳构成完美的逻辑闭环：标题即剧透；「只能发出熊叫」的恐怖细节藏在这个喜剧拍子里，无法言说的困兽状态恰好是两个主角的镜像（一个被封在狗里、一个被封在任务里）。
 **读者视角提示**：记住「女巫变熊」这个故事的形状——它跟 Norrigal 的怀孕之谜、跟「遇见自己」的预兆同族：身体不由自主的变形，是这个系列反复叩响的门。
 
