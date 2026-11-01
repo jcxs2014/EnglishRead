@@ -1,0 +1,150 @@
+{
+  "chapter": "ch38",
+  "source": "text/ch38_chapter_thirty_eight.txt",
+  "char_total": 16629,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Talasyn 下到 Ivralis 族东门，族长 Cahyir 把龙牙匕首送给她，自称姑母、说欠她二十年生日礼物。",
+      "quote": "“Keep it,” insisted the matriarch. “As your aunt, I owed you two decades’ worth of birthday presents, anyway.”",
+      "start": 952,
+      "end": 1062
+    },
+    {
+      "i": 2,
+      "summary": "Cahyir 问 Oryal 该如何处置，Talasyn 说 Nenavar 已无她容身之处，Cahyir 同意让她留下。",
+      "quote": "“I’ll allow it.” The matriarch shrugged. “But it’s your decision.”",
+      "start": 2363,
+      "end": 2429
+    },
+    {
+      "i": 3,
+      "summary": "山脚下 Talasyn 逼问 Oryal，Oryal 供出是 Urduja 以揭发她 Thunderstruck 身份相胁、并给了她血清。",
+      "quote": "“It was Urduja,” she mumbled. “She threatened to expose the fact that I was Thunderstruck and banish me for it if I didn’t do what she wanted. She was the one who gave me the serum.”",
+      "start": 3548,
+      "end": 3730
+    },
+    {
+      "i": 4,
+      "summary": "Bakun 用身躯盘住旗舰 W’taida，Talasyn 登船走向王座厅，Lueve Rasmey 挡在门口被她推开。",
+      "quote": "Before Talasyn could order the guards to open the doors of the airship’s throne room, they swung outward and Lueve Rasmey was daintily blocking her path in a flutter of gemstones and silk.",
+      "start": 5168,
+      "end": 5356
+    },
+    {
+      "i": 5,
+      "summary": "Talasyn 放出金链套住 Urduja 的脖子，把她从高台上拖到地上。",
+      "quote": "Talasyn’s arm shot out, unleashing a chain of golden light that sang through the air, the end of it wrapping around Urduja’s neck.",
+      "start": 7282,
+      "end": 7412
+    },
+    {
+      "i": 6,
+      "summary": "Urduja 咳血，承认自己命不久矣，并说当年在 Citadel 与 Gaheris 周旋是为争取时间。",
+      "quote": "“Yes, I am dying.” Urduja lowered the now crimson-streaked handkerchief. “I am dying, and when Gaheris sought me out at the Citadel, you were not ready to rule.",
+      "start": 9492,
+      "end": 9652
+    },
+    {
+      "i": 7,
+      "summary": "Talasyn 的碎光即将刺中 Urduja 时她收手，让光片消散，宣布自己要离开。",
+      "quote": "Around and around we go. The shards of light began to dissolve as Talasyn loosened her mind’s grasp on them, bit by bit until they had vanished completely.",
+      "start": 15234,
+      "end": 15389
+    },
+    {
+      "i": 8,
+      "summary": "Talasyn 走到门口时 Urduja 叫住她，吩咐她「查清是谁先离开的」。",
+      "quote": "“Find out who left first,” the Zahiya-lachis instructed. “If anything happens.”",
+      "start": 16342,
+      "end": 16421
+    }
+  ],
+  "relations": [
+    {
+      "a": "Cahyir",
+      "b": "Talasyn",
+      "relation": "姑母与外甥女（Ivralis 族长）",
+      "quote": "“Keep it,” insisted the matriarch. “As your aunt, I owed you two decades’ worth of birthday presents, anyway.”",
+      "start": 952,
+      "end": 1062
+    },
+    {
+      "a": "Urduja",
+      "b": "Talasyn",
+      "relation": "祖母与孙女（Zahiya-lachis 与继承人）",
+      "quote": "She raised an eyebrow at her granddaughter’s entrance and held up a palm to bid her courtier to desist.",
+      "start": 6612,
+      "end": 6715
+    },
+    {
+      "a": "Oryal",
+      "b": "Urduja",
+      "relation": "被胁迫的下属／共谋者",
+      "quote": "“It was Urduja,” she mumbled. “She threatened to expose the fact that I was Thunderstruck and banish me for it if I didn’t do what she wanted.",
+      "start": 3548,
+      "end": 3690
+    },
+    {
+      "a": "Urduja",
+      "b": "Gaheris",
+      "relation": "暗中交易的对立方（停战交易）",
+      "quote": "I am dying, and when Gaheris sought me out at the Citadel, you were not ready to rule. I had to buy time—make him see you as less of a threat.",
+      "start": 9566,
+      "end": 9708
+    },
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻",
+      "quote": "And Talasyn thought about her husband, who had let her go even after she betrayed him.",
+      "start": 12691,
+      "end": 12777
+    }
+  ],
+  "numbers": [
+    {
+      "value": "two decades",
+      "context": "Cahyir 说欠 Talasyn 二十年的生日礼物",
+      "quote": "“Keep it,” insisted the matriarch. “As your aunt, I owed you two decades’ worth of birthday presents, anyway.”",
+      "start": 952,
+      "end": 1062
+    },
+    {
+      "value": "a few hours",
+      "context": "从日出到抵达 Ivralis 东门只过了几个小时",
+      "quote": "When Talasyn reached the Ivralis clan’s eastern gate, only a few hours had passed since sunrise.",
+      "start": 191,
+      "end": 287
+    },
+    {
+      "value": "five minutes",
+      "context": "Talasyn 回到本国不到五分钟就厌倦了社交礼数",
+      "quote": "Not even five minutes back in this accursed country and its social graces were already wearing thin on her.",
+      "start": 5519,
+      "end": 5626
+    },
+    {
+      "value": "a sennight",
+      "context": "Hanan Ivralis 撑了一周才死去",
+      "quote": "It took Hanan Ivralis a sennight to pass—and you weren’t expecting that, were you?",
+      "start": 14201,
+      "end": 14283
+    },
+    {
+      "value": "two outriggers",
+      "context": "W’taida 由两艘舷外支架船与蛾形小船护卫",
+      "quote": "Escorted by two outriggers and swarms of moth coracles, it was the flagship of the Zahiya-lachis",
+      "start": 4017,
+      "end": 4113
+    },
+    {
+      "value": "dozens of courtiers",
+      "context": "王座厅内侍奉 Dominion 女王的朝臣有数十人",
+      "quote": "There were dozens of courtiers attending to the Dominion queen and a hush fell over all of them as Talasyn stormed into the throne room",
+      "start": 5944,
+      "end": 6079
+    }
+  ],
+  "notes": "原文开头标题“Chapter Thirty-Eight”重复出现两次（首行一次，若干空行后再次出现）；两处标题之间残留多个空行。正文含一行无引号的孤立短句“You know what the price is for staying here.”（疑为原文斜体内心语）；省略号作“ . . . ”（空格分隔）保留原样。本章含对峙、胁迫与暴力场面，摘要只记事实。"
+}

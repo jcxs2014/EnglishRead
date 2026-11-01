@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「barely」：他不是从容回去的，是险险赶上。一个刚打完仗的人拼命赶回一间空屋子，只为赴一场无法拒绝的会面，这个画面比大段心理描写更直接。
 
-> **原句 3:** "“We’ve wronged each other, yes, but I will say this, Alaric: I was less lonely when I was with you. For the longest time, I thought that was my curse. And now—now it’s what I choose to believe in."
+> **原句 3:** "“For so long I thought you were a monster,” Talasyn continued. “I couldn’t stand the idea of being married to you, of having to tolerate your presence. And then . . .”"
+
+- **中文理解**：「有很长一段时间，我都觉得你是个怪物，」塔拉辛接着说。「我受不了『嫁给你』这个念头，受不了必须容忍你在身边。后来……」
+
+- **关键词**：thought you · couldn't stand · And then
+
+- **为什么这样写**：这是她第一次把「怪物」这个称呼亲口说出来，而它出现的位置很关键：不是控诉，而是自陈——三段话的主语全是「我」。最后那半个「后来……」把结论留空，句子的重量就压在那个未完的省略号上。
+
+- **读者视角提示**：她说到「后来」就停了，接话的是他（不在本块引语内）；而她没能说完的那半句，在更早的一段里已经交代过：她看见过他待她温柔，于是后悔当初因为害怕而没有抓住那次机会。
+
+> **原句 4:** "“We’ve wronged each other, yes, but I will say this, Alaric: I was less lonely when I was with you. For the longest time, I thought that was my curse. And now—now it’s what I choose to believe in."
 
 - **中文理解**：她先认下两人互相亏欠，然后把话锋转到底：和他在一起时她没那么孤独；长久以来她把这份「不孤独」当成诅咒，如今她选择把它当成信念。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她说的是「选择相信」，不是「知道」。这份信念没有任何证据撑着——他仍是敌军统帅，她仍要回内纳瓦伦的宫廷。要留意的是：她把「不那么孤独」从诅咒改写成信念，靠的不是他改变，而是她自己改口。
 
-> **原句 4:** "But there was only a gentle light in Talasyn’s eyes. There was only a trembling softness to her lips. “You hold my heart forever,” she told him, and then she was gone."
+> **原句 5:** "But there was only a gentle light in Talasyn’s eyes. There was only a trembling softness to her lips. “You hold my heart forever,” she told him, and then she was gone."
 
 - **中文理解**：他等着看她眼里浮出胜利的神色，等来的只是两点柔光：眼里一点温和的光，唇上一丝发颤的软。她只留下一句「你永远握着我的心」，人就不见了。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这句托付没有承诺任何未来，只陈述一个她现在认定的事实。注意她说的是「你握着」，不是「我属于你」——主动与归属被她拆成了两件事。
 
-> **原句 5:** "The raksa—the kings of earth—wrapped their serpentine bodies around the pillars and spread their endless wings, horned heads thrown back in high-pitched shrieks that echoed down into the valley and through the marrow of Talasyn’s bones. The rising sun glinted on their wickedly curved ivory fangs, which were identical to the blade of Talasyn’s dagger. Some part of her had known all along."
+> **原句 6:** "The raksa—the kings of earth—wrapped their serpentine bodies around the pillars and spread their endless wings, horned heads thrown back in high-pitched shrieks that echoed down into the valley and through the marrow of Talasyn’s bones. The rising sun glinted on their wickedly curved ivory fangs, which were identical to the blade of Talasyn’s dagger. Some part of her had known all along."
 
 - **中文理解**：七条巨龙把蛇一样的身子盘上石柱，展开无边翼展，长角的头向后仰起，尖啸顺着山谷一路钻进她的骨头；朝阳照在它们弯而白的獠牙上，那形状和她匕首的刃一模一样。她心里有一部分一直都知道。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「identical」这个词很重——她的武器不是仿制品，是原件。读到这句可以想一想：她一路带着的那把匕首，刃是谁的牙。
 
-> **原句 6:** "It slammed into her from all sides, a tidal wave of radiance. She closed her eyes and it seared through her shut lids. It didn’t hurt at all; rather, the magic flowed into her veins like honey, like a summer afternoon."
+> **原句 7:** "It slammed into her from all sides, a tidal wave of radiance. She closed her eyes and it seared through her shut lids. It didn’t hurt at all; rather, the magic flowed into her veins like honey, like a summer afternoon."
 
 - **中文理解**：光从四面撞上来，像一道光的潮水；她闭上眼，光还是烧穿了眼皮；可她一点都不疼——那股法力像蜂蜜、像夏日午后一样流进她的血管。
 
@@ -75,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「flowed into her veins」——不是覆在皮肤上，是进了血里。从这一刻起，光织不再是她身上的一件东西，而是她身体的一部分。
 
-> **原句 7:** "Hanan Ivralis smiled back and wrapped her arms around her sobbing daughter. The dragons raised their heads and flew off into the clouds, but the swirling golden radiance remained. It was coming from Talasyn’s form as she shook in her mother’s embrace."
+> **原句 8:** "Hanan Ivralis smiled back and wrapped her arms around her sobbing daughter. The dragons raised their heads and flew off into the clouds, but the swirling golden radiance remained. It was coming from Talasyn’s form as she shook in her mother’s embrace."
 
 - **中文理解**：哈南回她一个笑，把哭得发抖的女儿抱进怀里；七条龙抬起头飞进云里，可那团旋转的金光没有散——光是从塔拉辛自己身上发出来的。
 

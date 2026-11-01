@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「two decades’ worth」这个数目既是礼物的份数，也是这个家族错过她的年数——「欠」字里藏着的其实是缺席的长度。注意她先「studied」了好一会儿才点头：点头之前那几秒的打量，才是这段话真正的重量。
 
-> **原句 3:** "“It was Urduja,” she mumbled. “She threatened to expose the fact that I was Thunderstruck and banish me for it if I didn’t do what she wanted. She was the one who gave me the serum.”"
+> **原句 3:** "“Then I truly have an idiot for a nephew-in-law,” Cahyir huffed, “and you know what you must do. But also”—she pointed at Oryal, who was being led out of the longhouse by several Lightweavers—“what do you want me to do about this one? She has expressed her desire to stay.”"
+
+- **中文理解**：「那我这侄女婿可真是个白痴，」卡希尔哼了一声，「你也知道你必须做什么。不过——」她指了指正被几名光织者带出长屋的奥莉尔，「这一个，你要我怎么办？她说过想留下。」
+
+- **关键词**：idiot · must do · desire to stay
+
+- **为什么这样写**：一句玩笑先把「侄女婿」的位置定好，紧接着就用破折号把话题拐到别人身上——长辈的权威在这里是靠「转到下一个议题」体现的：她替塔拉辛认下了那个骂名，却把处置权原封不动递回去。
+
+- **读者视角提示**：注意她把奥莉尔说成「这一个」，像在说一件需要处理的遗留物；而「她说过想留下」这半句，是这一整段里唯一提到奥莉尔本人意愿的地方。塔拉辛的答案在紧随的几段里（不在本块引语内）：内纳瓦伦已经没有她的位置，于是这位前达雅留在了黎明群岛。
+
+> **原句 4:** "“It was Urduja,” she mumbled. “She threatened to expose the fact that I was Thunderstruck and banish me for it if I didn’t do what she wanted. She was the one who gave me the serum.”"
 
 - **中文理解**：奥莉尔开口，语气平得没有起伏：「是乌尔杜佳。她威胁说，如果我不照她的意思做，就揭穿我是雷击者、把我流放。血清是她给我的。」
 
@@ -45,7 +55,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：三个句子的主语换过两次：It 指认，She 威胁，She 给血清。同一个「她」连做两件事，读者不需要旁白也能算出乌尔杜佳伸进来的手有多深。
 
-> **原句 4:** "Talasyn’s arm shot out, unleashing a chain of golden light that sang through the air, the end of it wrapping around Urduja’s neck. With a vicious tug, she hauled the Zahiya-lachis down from the dais and dragged her across the marble tiles until she rested in a crumpled heap inches away from Talasyn, the two of them still connected by the radiant chain."
+> **原句 5:** "Lueve’s rings clinked together as her fingers fidgeted in distress. “The Zahiya-lachis is terribly busy at the moment. We are mopping up in the aftermath of the ouster plot, you know, so perhaps some other— Your Grace!” She cut off with a wail as Talasyn shouldered past her."
+
+- **中文理解**：卢埃韦的戒指随着她不安的手指碰得叮当响。「扎希亚-拉奇斯此刻忙得不可开交。我们正在清理那场逼宫阴谋的余波，您知道的，所以也许可以另找——陛下！」她一声哀叫，因为塔拉辛已经用肩膀把她顶开了。
+
+- **关键词**：rings clinked · terribly busy · shouldered past
+
+- **为什么这样写**：拦路的人不是用身体挡，而是用「日程」挡——一句话里塞了三层推托（她很忙、我们在善后、您改天再来），结果被一个动作全部作废。宝石与丝绸的响动在前，哀叫在后，中间那个破折号就是她话没说完的那一瞬。
+
+- **读者视角提示**：这是全章唯一一次「守门人」挡路，而她挡的是刚从龙背上下来的人；紧随的一句「陛下！」之后，叙述再没给卢埃韦任何镜头——她在这章的功能到此为止，但这个名字在后面的加冕礼上还会出现。
+
+> **原句 6:** "Talasyn’s arm shot out, unleashing a chain of golden light that sang through the air, the end of it wrapping around Urduja’s neck. With a vicious tug, she hauled the Zahiya-lachis down from the dais and dragged her across the marble tiles until she rested in a crumpled heap inches away from Talasyn, the two of them still connected by the radiant chain."
 
 - **中文理解**：塔拉辛手臂一伸，甩出一道金色光链，链梢缠上乌尔杜佳的脖子。她狠狠一拽，把这位扎希亚-拉奇斯从高台上拖下来，横过大理石地面，直到人瘫成一团、停在离她几寸远的地方；两人仍被那条发光的链子连着。
 
@@ -55,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「crumpled heap」和「inches away」量的不是距离，是分寸：她要的不是杀掉，是让对方近到能听清问话。「the two of them still connected」把两个人绑在同一根光里，谁也没法先松开。
 
-> **原句 5:** "“Yes, I am dying.” Urduja lowered the now crimson-streaked handkerchief. “I am dying, and when Gaheris sought me out at the Citadel, you were not ready to rule. I had to buy time—make him see you as less of a threat.”"
+> **原句 7:** "“Yes, I am dying.” Urduja lowered the now crimson-streaked handkerchief. “I am dying, and when Gaheris sought me out at the Citadel, you were not ready to rule. I had to buy time—make him see you as less of a threat.”"
 
 - **中文理解**：「是的，我快死了。」乌尔杜佳放下那条已经染上血痕的手帕。「我快死了，而盖赫里斯在城塞找上我的时候，你还没准备好执政。我得争取时间——让他觉得你没那么大威胁。」
 
@@ -65,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意她给出的理由是「you were not ready to rule」，把剥夺魔法这件事安放在时机上，而不是恶意上。这是全章最容易被人放过的一句自我辩护：她要听的人相信，错的不是她，是时间。
 
-> **原句 6:** "And in so doing you forget that all these smaller lives are connected to one another—that everyone has something they dream about, or mourn, or want to protect. That’s why, even though you fancy yourself a strategist, you keep getting blindsided by how far people are willing to go for the ones they love.”"
+> **原句 8:** "And in so doing you forget that all these smaller lives are connected to one another—that everyone has something they dream about, or mourn, or want to protect. That’s why, even though you fancy yourself a strategist, you keep getting blindsided by how far people are willing to go for the ones they love.”"
 
 - **中文理解**：「你这样做，就忘了所有这些更小的性命是彼此相连的——每个人都有自己梦想的、哀悼的、想要护住的东西。所以你就算自命谋略家，也总被同一件事打得措手不及：人为了所爱能走多远。」
 
@@ -75,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：句子的着力点落在最后五个词「for the ones they love」。前面铺了那么多「更小的性命」，只为把这五个词顶出来；她说的不是「人人都有软肋」，而是「人人都在为某个具体的人做事」。
 
-> **原句 7:** "The shards of light began to dissolve as Talasyn loosened her mind’s grasp on them, bit by bit until they had vanished completely. If I strike her down now, nothing changes. We will always be like this."
+> **原句 9:** "The shards of light began to dissolve as Talasyn loosened her mind’s grasp on them, bit by bit until they had vanished completely. If I strike her down now, nothing changes. We will always be like this."
 
 - **中文理解**：光片开始消散——塔拉辛一点点松开意念对它们的抓握，直到它们彻底不见。「我现在要是把她杀了，什么都不会变。我们永远都会是这样。」
 
@@ -85,7 +105,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：留意人称的滑动：句子的主语从「the shards of light」换到「I」，最后落到「We」。三个人称走完，她的决定也走完了——最后那个「we」已经把祖母算进了自己这一边，尽管她正准备离开。
 
-> **原句 8:** "“I’m leaving,” she announced, fixing a cold stare on the woman collapsed on the floor. The Zahiya-lachis had never looked as defenseless—as small—as she had in this moment. It was both beautiful and terrible, how the aether could cut someone down to size."
+> **原句 10:** "“I’m leaving,” she announced, fixing a cold stare on the woman collapsed on the floor. The Zahiya-lachis had never looked as defenseless—as small—as she had in this moment. It was both beautiful and terrible, how the aether could cut someone down to size."
 
 - **中文理解**：「我要走了。」她冷冷盯着瘫在地上的那个女人。扎希亚-拉奇斯从来没有像此刻这样毫无防备、这样小。以太能把一个人削回原本的尺寸，这件事既美又可怕。
 
@@ -95,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一段真正被描述的不是乌尔杜佳，是塔拉辛眼里的「尺寸」。她不再是孙女，也不以继承人的身份看这个人，而是以一个能决定对方大小的人的身份——那个「cold stare」就是身份换位的瞬间。
 
-> **原句 9:** "Talasyn scowled at those enigmatic, frustrating words. She had no idea what they meant, but she’d had enough of games. She walked out of the throne room, and Urduja Silim was left alone in the half-light."
+> **原句 11:** "Talasyn scowled at those enigmatic, frustrating words. She had no idea what they meant, but she’d had enough of games. She walked out of the throne room, and Urduja Silim was left alone in the half-light."
 
 - **中文理解**：塔拉辛对着「那些谜一样、让人恼火的话」皱起眉。她完全不明白那是什么意思，但她已经受够了这些游戏。她走出王座厅，乌尔杜佳·西利姆一个人被留在半明半暗里。
 

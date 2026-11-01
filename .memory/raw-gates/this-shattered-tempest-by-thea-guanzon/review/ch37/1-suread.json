@@ -1,0 +1,150 @@
+{
+  "chapter": "ch37",
+  "source": "text/ch37_chapter_thirty_seven.txt",
+  "char_total": 12914,
+  "events": [
+    {
+      "i": 1,
+      "summary": "阿历克接连数日攻掠各定居点、强登敌舰，都没能找到塔拉辛。",
+      "quote": "Talasyn wasn’t on the front lines at any of the settlements that Alaric stormed through over the next few days.",
+      "start": 54,
+      "end": 165
+    },
+    {
+      "i": 2,
+      "summary": "他从最后一座内陆城市撤返，勉强赶在月食前回到营房，在 In-Between 见到伤痕比上次更多的塔拉辛。",
+      "quote": "After the Valisante retreated from the last inland city on the agenda, Alaric barely made it back to the barracks in time for the eclipse.",
+      "start": 608,
+      "end": 746
+    },
+    {
+      "i": 3,
+      "summary": "塔拉辛当面声明自己并不在 Allfold 一方，阿历克说自己对她一无所知。",
+      "quote": "“You know I’m not with the Allfold,” Talasyn said. Alaric hated how easily she could read his thoughts on his face.",
+      "start": 1291,
+      "end": 1406
+    },
+    {
+      "i": 4,
+      "summary": "塔拉辛坦白曾视他为怪物，后来看到他待她温柔，后悔当年因恐惧没能抓住那次机会。",
+      "quote": "She blinked as though holding back tears—as though, he realized with a pang, she was afraid that he’d accuse her once again of trying to manipulate him with them. “It will always be my greatest regret.”",
+      "start": 2717,
+      "end": 2919
+    },
+    {
+      "i": 5,
+      "summary": "阿历克说两人从一开始就是错误，临别叮嘱她提防乌尔杜嘉，塔拉辛留下“你永远拥有我的心”便消失。",
+      "quote": "But there was only a gentle light in Talasyn’s eyes. There was only a trembling softness to her lips. “You hold my heart forever,” she told him, and then she was gone.",
+      "start": 5561,
+      "end": 5728
+    },
+    {
+      "i": 6,
+      "summary": "塔拉辛在黎明群岛的山顶醒来，见太阳之路峰顶被七根巨大岩柱围成一圈。",
+      "quote": "The summit of the Path of the Sun was encircled within seven rock pillars—although she wasn’t even sure if pillar was the correct term.",
+      "start": 7539,
+      "end": 7674
+    },
+    {
+      "i": 7,
+      "summary": "地震中七条巨龙从各自洞穴爬出，一齐向她吐出光织。",
+      "quote": "The dragons shrieked again, beating their wings, lowering their heads from the pillars until Talasyn was surrounded by a ring of open jaws. Then, as one, they breathed out the Lightweave.",
+      "start": 10277,
+      "end": 10464
+    },
+    {
+      "i": 8,
+      "summary": "她浮空，母亲的幻影现身抱住她，她第一次用涅纳瓦雷语唤出“Inang”。",
+      "quote": "She called out a Nenavarene word that she’d learned but had never before had any occasion to use. “Inang.”",
+      "start": 12365,
+      "end": 12471
+    }
+  ],
+  "relations": [
+    {
+      "a": "阿历克",
+      "b": "塔拉辛",
+      "relation": "夫妻（分属敌对阵营，仍彼此牵挂）",
+      "quote": "That was the moment Alaric realized that something had changed. Somewhere along the line, while he hadn’t been there to bear witness, his wife had changed.",
+      "start": 3902,
+      "end": 4057
+    },
+    {
+      "a": "塔拉辛",
+      "b": "哈南·伊夫拉利斯",
+      "relation": "母女（亡母于幻象中现身相拥）",
+      "quote": "Hanan Ivralis smiled back and wrapped her arms around her sobbing daughter.",
+      "start": 12583,
+      "end": 12658
+    },
+    {
+      "a": "塔拉辛",
+      "b": "乌尔杜嘉",
+      "relation": "君臣（扎希亚-拉奇斯与她，彼此猜忌）",
+      "quote": "What had Alaric meant when he told her to be careful around Urduja? He clearly suspected something, although he had no concrete evidence.",
+      "start": 7033,
+      "end": 7170
+    },
+    {
+      "a": "阿历克",
+      "b": "加赫里斯",
+      "relation": "主从（加赫里斯与军官们约束他的决断）",
+      "quote": "I saw for myself how your father treated you and how you had genuinely good ideas on meeting people’s needs, but you were constrained by what Gaheris and your officers wanted.",
+      "start": 2310,
+      "end": 2485
+    },
+    {
+      "a": "塔拉辛",
+      "b": "伊亚拉姆",
+      "relation": "同盟／告知者（告知她“自己的家人”或已不可及）",
+      "quote": "Even if Iyaram had said that it might not be within reach anymore, the hope of it would have to sustain Talasyn in the days to come.",
+      "start": 6820,
+      "end": 6952
+    }
+  ],
+  "numbers": [
+    {
+      "value": "7",
+      "context": "太阳之路峰顶围成圈的岩柱数量",
+      "quote": "The summit of the Path of the Sun was encircled within seven rock pillars—although she wasn’t even sure if pillar was the correct term.",
+      "start": 7539,
+      "end": 7674
+    },
+    {
+      "value": "1 英里",
+      "context": "每根岩柱底部的宽度约一英里",
+      "quote": "They were enormous, every single one of them almost a mile across.",
+      "start": 7675,
+      "end": 7741
+    },
+    {
+      "value": "6",
+      "context": "除首条外陆续出洞的巨龙数量（共七条）",
+      "quote": "It was joined by six others, each one clambering out from its respective cave in eerie unison.",
+      "start": 9160,
+      "end": 9254
+    },
+    {
+      "value": "几夜",
+      "context": "距下一次月食还要再等几夜",
+      "quote": "There wouldn’t be another one for a few more nights.",
+      "start": 4958,
+      "end": 5010
+    },
+    {
+      "value": "一千",
+      "context": "她感到仿佛同时经历一千次“光裂”",
+      "quote": "It was like stepping into a thousand Light Severs all at once, the sensation that she’d only ever felt on Belian unfolding through her here on the western spine of the world.",
+      "start": 10899,
+      "end": 11073
+    },
+    {
+      "value": "第八",
+      "context": "她的灵魂如第八月亮的碎片般明亮锋利",
+      "quote": "each facet of her soul as bright and sharp as the shards of the eighth moon.",
+      "start": 11111,
+      "end": 11187
+    }
+  ],
+  "notes": "原文开头标题「Chapter Thirty-Seven」重复出现两次（第 1 行与第 12 行），其间夹 9 个空行；正文段落之间普遍残留双空行。文末以换行结束，无截断。文件 13120 字节 / 12914 字符。"
+}
