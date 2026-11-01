@@ -19,7 +19,7 @@ modified: "2026-11-01"
 
 - **中文理解**：在死火山的腹地深处，噬世者动了。热气从它鼻孔的裂隙里一阵阵涌出来，湿而霉，扑在塔拉辛身上。她的手从它的鼻吻上移开，同时冒出一个念头：这头龙感到的那只手，会不会其实是伊亚拉姆的手——隔着大片的时间之海伸过来的。
 
-- **关键词**：dead volcano · musty waves · her hand
+- **关键词**：dead volcano · musty waves · the dragon
 
 - **为什么这样写**：全段的重心不在龙，而在「她的手」与「伊亚拉姆的手」的替换。作者先写触感（damp and musty waves），再把触感交还给一个不在场的人，唤醒这件事就从物理接触变成了两代人的接力。oceans of time 把时间当作可以横渡的水面，龙因此不是被启动的机关，而是一头记得旧主人的活物。
 
@@ -41,7 +41,7 @@ modified: "2026-11-01"
 
 - **关键词**：umber hair · pinched features · rail-thin frame
 
-- **为什么这样写**：作者不写奥莉尔在想什么，只让那件裙子自己交代结局。同一件 dress 被拉回假面舞会的记忆里展开一次，再落回 grimy tatters，身份垮塌因此有了物证——不是「她变惨了」，是「她的衣服变成了破布」。
+- **为什么这样写**：作者不写奥莉尔在想什么，只让那件裙子自己交代结局。同一条裙子被拉回假面舞会的记忆里展开一次，再落回 grimy tatters，身份垮塌因此有了物证——不是「她变惨了」，是「她的衣服变成了破布」。
 
 - **读者视角提示**：almost unrecognizable 是塔拉辛的判断，不是客观陈述。读者该意识到自己正借着一个胜利者的眼睛打量败者，这份打量本身就带着立场。
 
@@ -83,7 +83,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：疑问句被直接放进他的意识里，句末的省略号把答案悬在半空，读者和他一起被卡在「如果不是塔拉辛」这个转折上。freshly recharged 这类军务细节夹在思绪中间，说明他是一边备战一边起疑，两条线在同一个人身上并行。
 
-- **读者视角提示**：incongruous statement 是回指，读者要自己回到本章前面那场复命里去找那句话——他回想的时候，她也得跟着回想。这份信息差正是本章收尾处的钩子——被怀疑的对象换了人，而他还不知道是谁。
+- **读者视角提示**：incongruous statement 是回指，读者手里没有那句原话，只能跟着他一起回想那场复命。这份信息差正是本章收尾处的钩子——被怀疑的对象换了人，而他还不知道是谁。
 
 ## 本章词汇
 
@@ -105,7 +105,7 @@ modified: "2026-11-01"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | crevices | 裂缝，缝隙 | Hot breath wafted out from the crevices of its nostrils, washing over Talasyn in damp and musty waves. |
-| wafted | 飘荡，一阵阵送来 | Hot breath wafted out from the crevices of its nostrils. |
+| resentment | 怨恨，怨气 | As sunken as they were, they still managed to glare up at Talasyn with a resentment that was not at all difficult to parse. |
 | matted | 缠结成团 | That thick, glossy umber hair had matted into a snarl. |
 | haggard | 憔悴的，形容枯槁的 | Her pinched features were set in haggard lines |
 | parse | 解读，理清含义 | they still managed to glare up at Talasyn with a resentment that was not at all difficult to parse. |
