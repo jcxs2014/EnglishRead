@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch03",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "母亲埃尔丝佩斯在「我」十六岁时死于一种发作迅速的癌症，从患病到去世只有几个月。",
+   "anchor": "died when I was sixteen from some swift-acting cancer",
+   "start": 696,
+   "end": 749
+  },
+  {
+   "fact": "「我」在母亲病后只见过她一次：她瘦得像穿粉红丝绸床袍的骷髅，染黑的头发像不合头号的假发，舌头被药水染成绿色；马丁轻轻把「我」领到床前让她吻别。",
+   "anchor": "A skeleton in a pink silk piqué bed jacket",
+   "start": 823,
+   "end": 865
+  },
+  {
+   "fact": "母亲带来的嫁妆钱已经耗尽，只剩一笔在「我」满十八岁时交给「我」的小额遗产；她的死让父母名为夫妻实为形式婚姻的真相彻底暴露。",
+   "anchor": "a small inheritance that came to me when I turned eighteen",
+   "start": 1864,
+   "end": 1922
+  },
+  {
+   "fact": "《彼得·潘》在约克公爵剧院首演几年后，父亲是杰拉德·杜·莫里耶所演虎克船长的替补；杜·莫里耶休假两周时父亲顶替登台大获成功，此后每年都接演该角色一段时间。",
+   "anchor": "my father was understudying the role of Captain Hook",
+   "start": 2750,
+   "end": 2802
+  },
+  {
+   "fact": "母亲带年幼的「我」去看日场，在包厢里介绍父亲的服装师马丁·塞尔斯；马丁微笑着说害怕可以握他的手，「我」因被当小孩而生气，答称不会怕。",
+   "anchor": "This is your father’s dresser, Martin Sayles",
+   "start": 3500,
+   "end": 3544
+  },
+  {
+   "fact": "剧终前父亲打破第四堵墙直直盯住「我」，「我」在他虚张声势之下窥见绝望的恐惧——肚里装着滴答时钟的鳄鱼从不远处逼近；长大后「我」明白对他而言鳄鱼是真实存在的。",
+   "anchor": "my father broke the fourth wall to stare directly at me",
+   "start": 3861,
+   "end": 3916
+  },
+  {
+   "fact": "看戏那天「我」第一次自觉既是奥利维娅又是奥利弗，心从不分裂，自我在两个腔室间流动；波希米亚父母纵容「我」穿男装，朋友们以为「我」会跟着父亲登台。",
+   "anchor": "thought of myself as both Olivia and Oliver",
+   "start": 4573,
+   "end": 4616
+  },
+  {
+   "fact": "父亲与马丁的恋情让他丢工作、招流言，他害怕同道朋友暴露自己，借口康沃尔空气对「我」好而租出汉普斯特德住宅，从莱森勋爵手里租下凯里斯，又请母亲的女权参政派朋友艾琳·伊里科斯来做家庭教师。",
+   "anchor": "leased Kerrith from Lord Llayson",
+   "start": 5740,
+   "end": 5772
+  }
+ ]
+}
