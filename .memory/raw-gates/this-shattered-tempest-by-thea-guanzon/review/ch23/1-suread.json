@@ -1,0 +1,136 @@
+{
+  "chapter": "ch23",
+  "source": "text/ch23_chapter_twenty_three.txt",
+  "char_total": 16999,
+  "events": [
+    {
+      "i": 1,
+      "summary": "一天后，阿拉里克与塔拉辛同乘敞篷马车驶过大比格特的鹅卵石街道。",
+      "quote": "He hadn’t really been expecting his wife to say yes but here they were a day later, in an open carriage that rattled slowly down the cobblestone streets of Grand Bight.",
+      "start": 54,
+      "end": 222
+    },
+    {
+      "i": 2,
+      "summary": "盖里斯下令让塔拉辛抛头露面，以打击全fold（Allfold）的士气。",
+      "quote": "Gaheris also wanted to target the Allfold’s morale by having their former Lightweaver parade around on his son’s arm. Yet another conquest.",
+      "start": 596,
+      "end": 735
+    },
+    {
+      "i": 3,
+      "summary": "仪仗队以五十名暗锻军团士兵在马车四周围成护卫队形开道。",
+      "quote": "followed by a precisely marching mass of no less than fifty members of the Shadowforged Legion in full battle regalia, arranged into a protective formation around the imperial carriage in their midst",
+      "start": 1719,
+      "end": 1918
+    },
+    {
+      "i": 4,
+      "summary": "阿拉里克从胸袋取出修好的婚戒，套回塔拉辛的手指。",
+      "quote": "His other hand fumbled with his breast pocket, extracting her wedding ring that had been delivered to his office shortly before they left for Grand Bight.",
+      "start": 5396,
+      "end": 5550
+    },
+    {
+      "i": 5,
+      "summary": "人群改喊「夜之女皇万岁」，向马车抛撒花瓣。",
+      "quote": "People were crying out joyfully at the sight of her, their faces beaming as they tossed handfuls of petals in the air.",
+      "start": 10682,
+      "end": 10800
+    },
+    {
+      "i": 6,
+      "summary": "阿拉里克告诉她，民众因她在无月之夜与加冕日救世而敬重她。",
+      "quote": "“You saved the world with me the night of the Moonless Dark,” he reminded her. “You saved me the day of your coronation. They know that. They honor you for it. As do I.”",
+      "start": 10929,
+      "end": 11098
+    },
+    {
+      "i": 7,
+      "summary": "宴会上，市参事扎维凑到阿拉里克身边，打听驻在 Mahagir’s Rest 的女儿的消息。",
+      "quote": "“Beg pardon, Your Majesty,” Zawye mumbled. “My daughter is stationed at Mahagir’s Rest and I’m getting a little worried . . .”",
+      "start": 13052,
+      "end": 13178
+    },
+    {
+      "i": 8,
+      "summary": "塔尔辛整晚回避后终于起身走向扎维，决心为凯德与维拉执行背叛。",
+      "quote": "No more excuses. She had to do it now. For Khaede. For Vela. For everyone who had waited in the Storm God’s Eye trusting her to see them through.",
+      "start": 15378,
+      "end": 15523
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "夫妻（夜之皇帝 / 夜之女皇）",
+      "quote": "It glowed in the daylight as Talasyn let Alaric slip it onto her finger.",
+      "start": 5624,
+      "end": 5696
+    },
+    {
+      "a": "Gaheris",
+      "b": "Alaric",
+      "relation": "父子（父亲下令、儿子执行）",
+      "quote": "This had largely been his father’s idea. Were Alaric to have his way, Talasyn wouldn’t so much as step one toe out of the safety of the Citadel",
+      "start": 225,
+      "end": 368
+    },
+    {
+      "a": "Talasyn",
+      "b": "Zawye",
+      "relation": "女皇与被暗中监视的市参事（潜在线人/背叛对象）",
+      "quote": "Zawye lingered at the edge of her awareness all evening. She tracked his movements throughout the reception room because she needed to, and she hated herself for it all the while.",
+      "start": 14196,
+      "end": 14375
+    },
+    {
+      "a": "Talasyn",
+      "b": "Khaede、Vela",
+      "relation": "战友 / 同盟（全fold 一方）",
+      "quote": "For Khaede. For Vela. For everyone who had waited in the Storm God’s Eye trusting her to see them through.",
+      "start": 15417,
+      "end": 15523
+    },
+    {
+      "a": "Talasyn",
+      "b": "Erith",
+      "relation": "女皇与侍从女仆",
+      "quote": "He could hardly expect a chambermaid like Erith to rival a Nenavarene lady-in-waiting’s skill at hairstyling.",
+      "start": 3789,
+      "end": 3898
+    }
+  ],
+  "numbers": [
+    {
+      "value": "600th",
+      "context": "大比格特建城特许状六百周年庆典",
+      "quote": "It was a beautiful old city, currently celebrating the 600th anniversary of its charter.",
+      "start": 1322,
+      "end": 1410
+    },
+    {
+      "value": "fifty",
+      "context": "护卫御驾的暗锻军团士兵人数",
+      "quote": "no less than fifty members of the Shadowforged Legion in full battle regalia",
+      "start": 1760,
+      "end": 1836
+    },
+    {
+      "value": "a day later",
+      "context": "塔拉辛答应出行后隔一天",
+      "quote": "but here they were a day later, in an open carriage that rattled slowly down the cobblestone streets of Grand Bight",
+      "start": 106,
+      "end": 221
+    },
+    {
+      "value": "a thousand",
+      "context": "回忆婚礼时彩窗洒下的颜色数量",
+      "quote": "amidst stained glass, a thousand colors raining over her as she walked down the aisle",
+      "start": 5983,
+      "end": 6068
+    }
+  ],
+  "notes": "原文开头标题「Chapter Twenty-Three」重复出现两次（第 1 行与第 12 行），中间夹 10 个空行，属提取残留；正文段落之间均为双空行。"
+}

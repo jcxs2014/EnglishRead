@@ -1,0 +1,143 @@
+{
+  "chapter": "ch22",
+  "source": "text/ch22_chapter_twenty_two.txt",
+  "char_total": 15478,
+  "events": [
+    {
+      "i": 1,
+      "summary": "塔拉辛在起居室的胡桃木书桌前起草《刑事责任措施》的替代方案，凯德质疑此举是否有必要。",
+      "quote": "Khaede loomed on the other side of the walnut-wood escritoire in the solar, her elbows perched atop its shelves as she looked down her nose at Talasyn outlining a counterproposal to the criminal liability measure.",
+      "start": 89,
+      "end": 302
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛对凯德说，内纳瓦雷人教过她写政策，且国王陛下要求在她明日上会前先审阅这份方案。",
+      "quote": "“The Nenavarene taught me how to write policy,” she said, addressing Khaede’s remark.",
+      "start": 1774,
+      "end": 1859
+    },
+    {
+      "i": 3,
+      "summary": "凯德告知塔拉辛：她已联系上级，奥尔福尔德对加赫里斯·奥西纳斯在玛哈吉尔安息岛建基地一事毫无情报。",
+      "quote": "“I’ll check if the servants have any clue,” said Khaede. “Also, Tal—I contacted my superiors after you mentioned that Gaheris Ossinast built a base on Mahagir’s Rest.",
+      "start": 5430,
+      "end": 5596
+    },
+    {
+      "i": 4,
+      "summary": "塔拉辛据新基地的隐秘性与建成时间推断，虚空源可能就在玛哈吉尔安息岛上。",
+      "quote": "A new military base in a remote location, kept confidential, built after the war . . . “The Voidfell source could be on Mahagir’s Rest.”",
+      "start": 6087,
+      "end": 6223
+    },
+    {
+      "i": 5,
+      "summary": "塔拉辛向凯德坦白自己的以太术已消失，她不再是大陆最后一位光织者。",
+      "quote": "“My aethermancy is gone.” It hurt to say it. It would never not hurt. Talasyn had been the Continent’s last Lightweaver.",
+      "start": 6786,
+      "end": 6906
+    },
+    {
+      "i": 6,
+      "summary": "凯德为一开始就怀疑塔拉辛道歉，并称自己会永远是她的朋友。",
+      "quote": "While I’m not at liberty to give you all the details yet, for what it’s worth—” Khaede cleared her throat. “I am sorry. For being suspicious of you right away.”",
+      "start": 10176,
+      "end": 10336
+    },
+    {
+      "i": 7,
+      "summary": "阿拉里克夜里在塔拉辛房中审阅她的方案，承认若在相识前他会毫不犹豫批准该措施。",
+      "quote": "“Before we met, I probably wouldn’t have,” he admitted. “I’d have signed off on it without a second thought.",
+      "start": 13358,
+      "end": 13466
+    },
+    {
+      "i": 8,
+      "summary": "阿拉里克邀请塔拉辛出席邻城次日下午的节庆，作为她以夜之女皇身份的首次公开露面。",
+      "quote": "“Your first public appearance as the Night Empress,” said Alaric. “We’ve put that off long enough.",
+      "start": 14591,
+      "end": 14689
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Khaede",
+      "relation": "主仆兼同盟：凯德被指派为塔拉辛的侍女，同时受奥尔福尔德之命试探其忠诚",
+      "quote": "“Once I was designated your lady’s maid, my first objective was to gauge whether you really were still loyal to the Sardovian Allfold,”",
+      "start": 9724,
+      "end": 9859
+    },
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻：塔拉辛正谋划背叛丈夫，阿拉里克却信任她",
+      "quote": "But Talasyn had to distract herself from her impending betrayal of her husband.",
+      "start": 438,
+      "end": 517
+    },
+    {
+      "a": "Talasyn",
+      "b": "Khaede",
+      "relation": "朋友：二人和解，塔拉辛感到凯德真正回到了她身边",
+      "quote": "she felt, for the first time, that Khaede had truly come back to her.",
+      "start": 10799,
+      "end": 10868
+    },
+    {
+      "a": "Khaede",
+      "b": "Allfold superiors",
+      "relation": "上下级：凯德向奥尔福尔德上级汇报并请示",
+      "quote": "“Also, Tal—I contacted my superiors after you mentioned that Gaheris Ossinast built a base on Mahagir’s Rest.",
+      "start": 5487,
+      "end": 5596
+    },
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "政治联姻背景：凯萨思与内纳瓦的联盟是这段婚姻的现实基础",
+      "quote": "it was all too easy to trace his possessiveness and protectiveness back to his lonesome childhood and the political necessity of the alliance between Kesath and Nenavar.",
+      "start": 4017,
+      "end": 4186
+    }
+  ],
+  "numbers": [
+    {
+      "value": "once per day",
+      "context": "塔拉辛与凯德每天只上阳台密谈一次，以免暴露",
+      "quote": "They limited their forays here to once per day because it was better to be safe than sorry.",
+      "start": 4546,
+      "end": 4637
+    },
+    {
+      "value": "1（one shot）",
+      "context": "凯德强调摧毁虚空源只有一次机会",
+      "quote": "“We’ll only get one shot at this. You need to confirm it.”",
+      "start": 6314,
+      "end": 6372
+    },
+    {
+      "value": "1 year（the past year）",
+      "context": "塔拉辛在过去一年里学会了把心里话讲出来",
+      "quote": "But Talasyn had learned over the past year that there were occasions wherein the heaviness in one’s heart could only be diminished by giving words wings.",
+      "start": 8871,
+      "end": 9024
+    },
+    {
+      "value": "2（the two of them）",
+      "context": "塔拉辛与凯德并肩背靠栏杆而立",
+      "quote": "After a while, Khaede turned with her, the two of them with their backs to the railing, standing side by side and almost close enough to touch.",
+      "start": 9578,
+      "end": 9721
+    },
+    {
+      "value": "tomorrow afternoon",
+      "context": "节庆定在次日下午，议会结束后前往邻城",
+      "quote": "“We have been invited to a festival tomorrow afternoon,” he told the blanket draped over his lap.",
+      "start": 14364,
+      "end": 14461
+    }
+  ],
+  "notes": "原文开头重复出现两次“Chapter Twenty-Two”（第 1 行与第 12 行），中间夹 9 个空行，属提取残留；正文首段前另有连续空行。除此之外无乱码、无截断。"
+}

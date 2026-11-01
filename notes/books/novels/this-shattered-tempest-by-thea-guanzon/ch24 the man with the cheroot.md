@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「it wouldn’t have worked」是虚拟语气——她自己明白这是一次侥幸，不是本事。
 
-> **原句 3:** "Ghosts of kisses. She felt rather like a ghost herself, here in this shadowed world of glass and moonlight. Some unearthly phantom summoned into being by the invisible chains of desire."
+> **原句 3:** "“His Majesty is simply carrying out the Night Emperor’s mandate to keep us safe. That means protecting our new weaponry.” Zawye regarded Talasyn with eager hope. “But perhaps if Her Majesty could prevail upon him to check in on my daughter . . .?”"
+
+- **中文理解**：「陛下只是在执行夜帝的旨意，保我们平安。也就是说，要护住我们的新式武器。」扎维耶用恳切的目光望着塔拉辛。「不过，也许皇后陛下能劝动他，去看一眼我的女儿……？」
+
+- **关键词**：new weaponry · eager hope · prevail upon
+
+- **为什么这样写**：她本来在骗他，他却在替她干活：一句 mandate、一句 keep us safe，就把「岛上在造什么」交了出来，还顺带把自己的软肋（女儿）递到她手上。叙述只补了一个细节——eager hope——让这次交换的重量全落在他这一边。
+
+- **读者视角提示**：注意他问的是「能不能劝动他去看一眼我的女儿」，而不是「我女儿怎么样」。他要的不是消息，是一次探视；这也说明他其实已经猜到那边不会太平。
+
+> **原句 4:** "Ghosts of kisses. She felt rather like a ghost herself, here in this shadowed world of glass and moonlight. Some unearthly phantom summoned into being by the invisible chains of desire."
 
 - **中文理解**：吻的影子。她觉得自己也成了影子，在这片玻璃与月光的幽暗世界里，是被欲望的无形锁链召来的幽魂。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：紧接在本块之前的一句里，他还在低声逗她，问是不是觉得被冷落（本章原文，本块引语之前的一句）；不过几句，她就把自己写成了幽魂，甜与怕之间没有过渡。
 
-> **原句 4:** "Had he been watching her? The spell broke as soon as that possibility sank in, tension stringing up her spine and a desolate chill burrowing into her bones. Had Alaric seen her talking to Zawye?"
+> **原句 5:** "Had he been watching her? The spell broke as soon as that possibility sank in, tension stringing up her spine and a desolate chill burrowing into her bones. Had Alaric seen her talking to Zawye?"
 
 - **中文理解**：他是不是一直在看着她？这个念头一沉下去，方才的魔法就散了：脊背绷成一根弦，一股荒凉的寒意钻进骨头。阿拉里克看见她和扎维耶说话了吗？
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：紧接在本块之后的一句又把问题推远一层：他会不会马上就猜到她的目的（本章原文，本块引语之后的一句）；她的第一反应始终是猜他看见了什么，而不是解释。
 
-> **原句 5:** "There it was again, that painful throb that threatened to split her heart in half. The deceit of all these months, crashing down in an instant. The tightrope she’d been walking, snapping beneath her feet."
+> **原句 6:** "There it was again, that painful throb that threatened to split her heart in half. The deceit of all these months, crashing down in an instant. The tightrope she’d been walking, snapping beneath her feet."
 
 - **中文理解**：那阵熟悉的抽痛又来了，像要把心劈成两半；几个月的欺瞒在一瞬间塌下来，她一直踩着的那根钢丝在脚下断了。
 
@@ -65,7 +75,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一段里没有出现阿拉里克的名字，只有「几个月的欺瞒」；她把这段关系本身写成了罪证。
 
-> **原句 6:** "The door to the passageway burst open. The legionnaires whom Alaric had unceremoniously dismissed moments ago rushed inside, led by Sevraim—who would normally have made a gleeful show of catching the imperial couple in such a compromising position, but instead his expression was taut and grim, eyes fixed solely on Alaric."
+> **原句 7:** "Alaric took the initiative, pushing forward, kissing her hungrily up against the windowsill. The circle of his arms was the only home Talasyn had ever known. What she was feeling right now was madness—desire and despair rolled into one unforgiving whole. She finally had information to use against him. But she wasn’t going to. She would tell him the truth."
+
+- **中文理解**：阿拉里克主动压过来，就着窗台贪婪地吻她。他双臂围出的那个圈，是塔拉辛这辈子唯一认过的家。她此刻的感觉是疯的——欲望与绝望被卷成一整块，谁也别想把它分开。她终于握住了能用来对付他的情报。可她不会用了。她要把真相告诉他。
+
+- **关键词**：hungrily · windowsill · tell the truth
+
+- **为什么这样写**：这一段的转折靠三个短句完成，一个比一个短：she finally had information（她拿到了）——but she wasn't going to（她不用）——she would tell him the truth（她要说了）。句子越短，决心越硬；而前面那段把「家」和「疯」并排放着，等于先让她感到这个东西有多重，再让她放手。
+
+- **读者视角提示**：她说出这句决心的时候，两个人正抱在一起；下一块门就被撞开了。叙述把「决定」与「被打断」排得这么近，正是全章最残忍的地方——她这辈子第一次打算说实话，时间只够她说给自己听。
+
+> **原句 8:** "The door to the passageway burst open. The legionnaires whom Alaric had unceremoniously dismissed moments ago rushed inside, led by Sevraim—who would normally have made a gleeful show of catching the imperial couple in such a compromising position, but instead his expression was taut and grim, eyes fixed solely on Alaric."
 
 - **中文理解**：走廊的门被撞开，刚被阿拉里克草草赶走的军团士兵冲了进来，领头的塞夫雷姆平日若撞见帝后这副模样，必定要幸灾乐祸地演上一场，这次却脸色紧绷阴沉，眼睛只盯着阿拉里克。
 
@@ -75,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：他连看都没看她一眼；这条消息与她无关，却要决定她往后的一切。
 
-> **原句 7:** "Behind her, Khaede was speaking in a dull monotone. “Our comrades littered that whole section of the Shipsbane with traps. At the very least, they’ll take several Shadowforged with them.”"
+> **原句 9:** "Behind her, Khaede was speaking in a dull monotone. “Our comrades littered that whole section of the Shipsbane with traps. At the very least, they’ll take several Shadowforged with them.”"
 
 - **中文理解**：在她身后，凯德用平板无波的声音说：同志们在那一段沉船峡里布满了陷阱，至少能带走几个影铸军团的士兵。
 
@@ -85,7 +105,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这句话在凯德那里是战果，在她那里是宣判——她爱的人正在那片埋了陷阱的峡谷里。
 
-> **原句 8:** "His father hadn’t damaged him beyond repair and the ravine hadn’t taken him somewhere she couldn’t follow. Talasyn’s knees almost gave way from the sheer force of the relief that slammed through her, sweet and terrifying in the intensity of its sweetness all at once."
+> **原句 10:** "His father hadn’t damaged him beyond repair and the ravine hadn’t taken him somewhere she couldn’t follow. Talasyn’s knees almost gave way from the sheer force of the relief that slammed through her, sweet and terrifying in the intensity of its sweetness all at once."
 
 - **中文理解**：父亲没有把他伤到无法挽回，峡谷也没有把他带到她跟不去的地方；她的双膝几乎撑不住，那股松下来的力道又甜又可怕。
 
@@ -95,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：本块引语之前的几句说，看不见伤口，所以那不是他的血（本章原文，本块引语之前的几句）。她确认的第一件事不是伤在哪里，而是这血不是他的——从头到尾她怕的都是他出事。
 
-> **原句 9:** "He was shaking, his spiked shoulders hunched. The color had drained from his face—from what she could see of it, anyway. Then he leaned in as though collapsing in the aftermath of a war waged and lost against his own self, bowing his head into the crook of her neck."
+> **原句 11:** "He was shaking, his spiked shoulders hunched. The color had drained from his face—from what she could see of it, anyway. Then he leaned in as though collapsing in the aftermath of a war waged and lost against his own self, bowing his head into the crook of her neck."
 
 - **中文理解**：他在发抖，带尖刺的肩甲耸了起来，脸上褪得几乎看不出血色；然后他俯身靠过来，像在一场对自己开战、并且输掉的仗之后整个人塌下去，把头埋进她的颈窝。
 
@@ -105,7 +125,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：本块引语之前的那一段里，他把她从塔前一路拖走，路人都四散避开；这里他连站直都费劲——同一场戏里换了两次气。
 
-> **原句 10:** "“The execution will be carried out on the plains at first light,” Alaric continued tersely. She watched his fist clench; she listened to him with dawning horror. “Regent Gaheris has required that you attend.”"
+> **原句 12:** "“The execution will be carried out on the plains at first light,” Alaric continued tersely. She watched his fist clench; she listened to him with dawning horror. “Regent Gaheris has required that you attend.”"
 
 - **中文理解**：处决明日拂晓在平原上执行；她看着他握紧的拳头，越听越冷；最后一句把刀递出来：摄政盖赫里斯要求她到场。
 

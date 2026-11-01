@@ -1,0 +1,150 @@
+{
+  "chapter": "ch24",
+  "source": "text/ch24_chapter_twenty_four.txt",
+  "char_total": 18788,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Talasyn 在窗边主动接近阿德尔·扎维耶，用关切的语气问起他女儿，套取消息。",
+      "quote": "“I couldn’t help overhearing a bit of your conversation with my husband. You seemed nervous. I hope everything is all right with your daughter.”",
+      "start": 720,
+      "end": 864
+    },
+    {
+      "i": 2,
+      "summary": "扎维耶放下戒心，说皇帝只是在执行夜皇帝的旨意、保护新式武器，并求皇后替他打听女儿下落。",
+      "quote": "Zawye regarded Talasyn with eager hope. “But perhaps if Her Majesty could prevail upon him to check in on my daughter . . .?”",
+      "start": 1896,
+      "end": 2021
+    },
+    {
+      "i": 3,
+      "summary": "Talasyn 与 Alaric 回到大角城官邸的居住翼，他遣散卫兵，在窗廊里把她抵在墙边亲吻。",
+      "quote": "he crowded her up against the wall, caging her between the windowsill and his big body.",
+      "start": 3892,
+      "end": 3979
+    },
+    {
+      "i": 4,
+      "summary": "Talasyn 想到 Alaric 可能看见她和扎维耶说话而惊慌，决定不再欺瞒、要把真相告诉他。",
+      "quote": "She finally had information to use against him. But she wasn’t going to. She would tell him the truth.",
+      "start": 6722,
+      "end": 6824
+    },
+    {
+      "i": 5,
+      "summary": "Sevraim 闯进廊道报告：Ileis 与 Nisene 在 Shipsbane 峡谷发现叛军基地，要 Alaric 立刻前往。",
+      "quote": "“Your Majesty, we’ve received word from Ileis and Nisene,” he announced. “They found a rebel base. You’re needed there at once.”",
+      "start": 7332,
+      "end": 7460
+    },
+    {
+      "i": 6,
+      "summary": "次日 Talasyn 在阳台咬指甲自责；Khaede 冷淡地说峡谷里布满陷阱，至少能带走数名影铸者。",
+      "quote": "“Our comrades littered that whole section of the Shipsbane with traps. At the very least, they’ll take several Shadowforged with them.”",
+      "start": 9428,
+      "end": 9563
+    },
+    {
+      "i": 7,
+      "summary": "Talasyn 赶到 Gaheris 塔前与 Ileis、Nisene 对峙等候；Alaric 出来后不停步，抓住她的手臂把她一路拖走。",
+      "quote": "He didn’t stop walking even when he reached Talasyn, instead grabbing her by the arm so that she had no choice but to scramble to keep up",
+      "start": 14760,
+      "end": 14897
+    },
+    {
+      "i": 8,
+      "summary": "Alaric 在小巷里承认怕她不安全，并告知已俘获五十名叛军、次日处决，且 Regent Gaheris 要求她到场。",
+      "quote": "“Talasyn,” he said, “we captured fifty of the rebels. Their execution is slated for tomorrow.”",
+      "start": 17117,
+      "end": 17211
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻（耐纳瓦雷皇后与凯萨斯的夜皇帝）；她实为萨尔达维亚的双面间谍",
+      "quote": "“They’ll be sorely disappointed. I’ve grown much too used to the Nenavarene tradition.” He squeezed her hand. Lingering, affectionate.",
+      "start": 3350,
+      "end": 3484
+    },
+    {
+      "a": "Talasyn",
+      "b": "Zawye",
+      "relation": "君臣（皇后与阿德尔）；她利用他对女儿的牵挂套出军情",
+      "quote": "If Zawye loved his daughter a little less, it wouldn’t have worked. His guard wouldn’t have been lowered.",
+      "start": 1625,
+      "end": 1730
+    },
+    {
+      "a": "Zawye",
+      "b": "Agria",
+      "relation": "父女；女儿因驻地性质不能写信回家，父母因此不安",
+      "quote": "But she is my only daughter, so her mother and I confess ourselves anxious.",
+      "start": 1228,
+      "end": 1303
+    },
+    {
+      "a": "Talasyn",
+      "b": "Khaede",
+      "relation": "旧日挚友，如今分属敌对阵营，形同陌路",
+      "quote": "she spun around to gaze, stricken, at her first friend—for such a long time her only friend—who was more like a stranger now.",
+      "start": 9761,
+      "end": 9886
+    },
+    {
+      "a": "Gaheris",
+      "b": "Alaric",
+      "relation": "父子（Regent 与皇帝）；父亲曾把他伤得遍体淤青裂伤，如今仍能命令皇后到场",
+      "quote": "the bruises and lacerations that his own father had inflicted on him.",
+      "start": 12169,
+      "end": 12238
+    }
+  ],
+  "numbers": [
+    {
+      "value": "fifty（五十名）",
+      "context": "Alaric 称此役俘获五十名叛军",
+      "quote": "we captured fifty of the rebels. Their execution is slated for tomorrow.",
+      "start": 17138,
+      "end": 17210
+    },
+    {
+      "value": "Dozens（数十名）",
+      "context": "此役阵亡的凯萨斯军团士兵人数",
+      "quote": "“Dozens of legionnaires died during the skirmish,” said Alaric. “It’s the biggest loss Kesath has suffered since the end of the Hurricane Wars.",
+      "start": 17802,
+      "end": 17945
+    },
+    {
+      "value": "first light / tomorrow（次日黎明）",
+      "context": "五十名俘军的处决时间与地点（平原上）",
+      "quote": "“The execution will be carried out on the plains at first light,” Alaric continued tersely.",
+      "start": 18579,
+      "end": 18670
+    },
+    {
+      "value": "two（两扇）",
+      "context": "官邸走廊尽头并排、同样华丽的卧房门数",
+      "quote": "Her gaze flickered to the two doors at the end of the passage, of equal size and splendor.",
+      "start": 3134,
+      "end": 3224
+    },
+    {
+      "value": "several（数名）",
+      "context": "Khaede 预计陷阱至少能带走的影铸者人数",
+      "quote": "At the very least, they’ll take several Shadowforged with them.",
+      "start": 9499,
+      "end": 9562
+    },
+    {
+      "value": "the past year（过去一年）",
+      "context": "Talasyn 与 Alaric 相处、逐渐相熟的时长",
+      "quote": "This was not the man she’d come to know over the past year in the quiet moments",
+      "start": 18201,
+      "end": 18280
+    }
+  ],
+  "notes": "原文开头第1行与第12行重复出现章标题「Chapter Twenty-Four」，第2–11行为连续空行残留；处决场景的五十名俘军与「次日黎明」为章末悬念，本章未写到执行；含亲吻/情欲暗示段落，摘要只记事实。全文使用弯引号（’ “ ”）与省略号「. . .」，引文已原样保留。"
+}

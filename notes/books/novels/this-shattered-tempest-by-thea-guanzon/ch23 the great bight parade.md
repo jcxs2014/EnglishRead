@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：nothing but ashes 把人写成清点后的灰，而这个比喻出自他自己口中，说明他并不觉得这话有什么残忍。
 
-> **原句 3:** "He heard himself laugh. It was so odd, how she could make him do that. Upon hearing this indisputable evidence of the Night Emperor’s mirth, one of the legionnaires marching right beside the carriage nearly tripped over his own two feet in shock."
+> **原句 3:** "Gaheris’s order for Alaric to parade Talasyn around was being carried out in the most literal sense. In the lead was a flock of drumbeaters and the red-clad dancers prancing to their tune, followed by a precisely marching mass of no less than fifty members of the Shadowforged Legion in full battle regalia, arranged into a protective formation around the imperial carriage in their midst."
+
+- **中文理解**：盖赫里斯让阿拉里克把塔拉辛拉出去游行的命令，被最字面地执行了。走在最前头是一群鼓手，还有和着鼓点蹦跳的红衣舞者；后面跟着一整队至少五十名的影铸军团兵，全副战甲、步伐精确，在中间的帝后马车四周排出护卫队形。
+
+- **关键词**：literal sense · fifty members · protective formation
+
+- **为什么这样写**：这段最狠的地方是 most literal sense 这个说法。命令与执行之间没有任何翻译损耗：鼓手、舞者、五十个全副武装的人、护卫队形——全是字面。节日的气氛由鼓和舞者负责，安全的压力由五十副战甲负责，两者被并排放在同一句里，谁也不压过谁。
+
+- **读者视角提示**：注意「护卫队形」这个词的位置：它出现在句子最末，也就是说这段读到最后才知道这其实是军事部署。马车上的一对夫妻被围在队形正中，这个画面本身就是本章的处境。
+
+> **原句 4:** "He heard himself laugh. It was so odd, how she could make him do that. Upon hearing this indisputable evidence of the Night Emperor’s mirth, one of the legionnaires marching right beside the carriage nearly tripped over his own two feet in shock."
 
 - **中文理解**：他听见自己笑出声来；她总有办法让他这样。旁边一名随行的军团士兵听到夜帝真的在笑，惊得差点被自己的两只脚绊倒。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：全章最松的一处就在这几句，之后婚戒、人群、宴会一层层压回来。
 
-> **原句 4:** "He reached out to clasp black-gloved fingers around her wrist. His other hand fumbled with his breast pocket, extracting her wedding ring that had been delivered to his office shortly before they left for Grand Bight. The vulana stone had been reset, the chips in its surface polished away."
+> **原句 5:** "He reached out to clasp black-gloved fingers around her wrist. His other hand fumbled with his breast pocket, extracting her wedding ring that had been delivered to his office shortly before they left for Grand Bight. The vulana stone had been reset, the chips in its surface polished away."
 
 - **中文理解**：他伸手用戴黑手套的手指扣住她的手腕，另一只手在胸前口袋里摸索，取出那枚出发前不久才送到他办公室的婚戒；巫拉纳石已经重新镶好，石面上磕出的缺口也磨平了。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她没有出声，紧随的下一句只写宝石的光映在她褐色的眼睛里，代替了回答。
 
-> **原句 5:** "Of course his people love him, Talasyn realized with a throb in her chest. He was a son of Kesath. Their young emperor who had led them to victory in the Hurricane Wars, who had protected their nation from all external threats."
+> **原句 6:** "Of course his people love him, Talasyn realized with a throb in her chest. He was a son of Kesath. Their young emperor who had led them to victory in the Hurricane Wars, who had protected their nation from all external threats."
 
 - **中文理解**：塔拉辛忽然明白，这些人爱他是真的——他是凯萨斯之子，是带他们打赢飓风之战、替这个国家挡住一切外敌的年轻皇帝。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一段把「杀了他就没有和平」从她说过的话，变成她此刻的定论——说出口和想明白是两件事。
 
-> **原句 6:** "People were crying out joyfully at the sight of her, their faces beaming as they tossed handfuls of petals in the air. The breeze caused them to drift over the carriage in a sweet-scented cloud. Talasyn turned to Alaric, absolutely dumbfounded."
+> **原句 7:** "People were crying out joyfully at the sight of her, their faces beaming as they tossed handfuls of petals in the air. The breeze caused them to drift over the carriage in a sweet-scented cloud. Talasyn turned to Alaric, absolutely dumbfounded."
 
 - **中文理解**：人群一见她就欢叫着抛撒花瓣，风把花瓣吹成一片带香气的云，罩住整辆马车；她转头看向阿拉里克，彻底愣住。
 
@@ -75,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她愣住不是因为花好看，而是因为被欢呼的那个人是她自己。
 
-> **原句 7:** "These questions ran through her mind in a torturous loop. It wasn’t until well into the night that the paralysis she was suffocating under finally broke. Some of the attendees had already taken their leave and Zawye didn’t seem likely to last much longer, stifling a yawn into one cupped palm as Talasyn watched from across the room."
+> **原句 8:** "These questions ran through her mind in a torturous loop. It wasn’t until well into the night that the paralysis she was suffocating under finally broke. Some of the attendees had already taken their leave and Zawye didn’t seem likely to last much longer, stifling a yawn into one cupped palm as Talasyn watched from across the room."
 
 - **中文理解**：这些问题在她脑子里一圈圈打转；直到夜深，那层把她闷住的瘫痪才终于裂开——部分宾客已经告辞，扎维耶看样子也撑不了多久，正把呵欠压进掌心。
 
@@ -85,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她在房间另一头看着他——观察的位置本身就是距离，决定还没做出，人已经先站远了。
 
-> **原句 8:** "It was ill-fated from the start, Talasyn thought, her gaze tracing the furrow in Alaric’s pale brow and the stray locks of dark hair that fell into his gray eyes. They were who they were because of a past that could never be rewritten and allegiances that could never be broken. I feel like I’ve been missing you all my life."
+> **原句 9:** "It was ill-fated from the start, Talasyn thought, her gaze tracing the furrow in Alaric’s pale brow and the stray locks of dark hair that fell into his gray eyes. They were who they were because of a past that could never be rewritten and allegiances that could never be broken. I feel like I’ve been missing you all my life."
 
 - **中文理解**：她想，这段关系从一开始就注定不成；她的目光描过他苍白眉间的竖纹和垂进灰眼睛里的碎发。他们之所以是他们，是因为一段改不了的过去和一身背弃不了的效忠。「我这一辈子好像都在错过你。」
 
@@ -93,9 +103,9 @@ modified: "2026-11-01"
 
 - **为什么这样写**：前半是冷静的判词，中间用两个 could never 把责任推给不可更改之物，末尾忽然切成第一人称的告白；叙述人称的断裂，就是她心里那道裂缝。
 
-- **读者视角提示**：那句「错过你」没有人听见，也不是对谁说的——同一段里没有回应。
+- **读者视角提示**：那句「错过你」没有人听见，也不是对谁说的——同一段里没有回应。这条线的起点在更早的两段（不在本块引语内）：市参事**扎维耶**凑到阿拉里克肩边，低声说「求陛下恕罪……我的女儿驻在马哈吉尔憩地，我有点担心……」；她听不全那段悄悄话，但她听懂了——这才有了整晚的坐立不安。
 
-> **原句 9:** "Perhaps she would have taken that excuse, however flimsy it was. But he didn’t, and so she went, walking away from him with steps that would always belong to a traitor no matter which direction she chose."
+> **原句 10:** "Perhaps she would have taken that excuse, however flimsy it was. But he didn’t, and so she went, walking away from him with steps that would always belong to a traitor no matter which direction she chose."
 
 - **中文理解**：那份借口再薄，她也会接住；可他没有给她，于是她走了——无论朝哪个方向，这双脚都属于叛徒。
 

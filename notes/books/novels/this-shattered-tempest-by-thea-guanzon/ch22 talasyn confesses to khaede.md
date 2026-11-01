@@ -35,7 +35,17 @@ modified: 「2026-11-01」
 
 - **读者视角提示**：注意「said husband」这种带距离的叫法——她嘴上把阿拉里克推远成「那位丈夫」，恰是因为心里推不开。
 
-> **原句 3:** "Talasyn scratched uneasily at the high collar of her powder-blue day dress. She was little used to the stiffness of the fabric and the scratch of its embroidery around her neck. There’d been no help for it, however; the other day in his office, Alaric had littered her throat and clavicles with furious red love bites."
+> **原句 3:** "“The Nenavarene taught me how to write policy,” she said, addressing Khaede’s remark. “It would be a shame to let all that time and effort go to waste. Besides, His Majesty asked to review this before I present it at council tomorrow.”"
+
+- **中文理解**：「内纳瓦伦人教过我怎么起草政策。」她接下凯德的话说。「把那些时间和功夫白白浪费掉太可惜了。再说，陛下要求我在明天上议事会之前先把这份东西交给他过目。」
+
+- **关键词**：Nenavarene taught · go to waste · besides
+
+- **为什么这样写**：她在替自己辩解，可三个理由一个比一个不像辩解：先摆出身（内纳瓦伦人教过她），再说可惜（浪费），最后才亮出真正的靠山（陛下要我交给他）。顺序本身就是她的处境——这份文件既是替凯德写的，也是替丈夫写的，她说给凯德听的那半句只是最不重要的那半句。
+
+- **读者视角提示**：凯德上一块问的是「有必要费这个劲吗」，她的回答里没有一句直接说「有必要」，而是把「必要性」拆成了三样东西。注意她用的是过去式 taught me——这门手艺来自她已经背叛过一次的故乡。
+
+> **原句 4:** "Talasyn scratched uneasily at the high collar of her powder-blue day dress. She was little used to the stiffness of the fabric and the scratch of its embroidery around her neck. There’d been no help for it, however; the other day in his office, Alaric had littered her throat and clavicles with furious red love bites."
 
 - **中文理解**：塔拉辛不安地挠着淡蓝色日装的高领，她不习惯料子的硬挺，也不习惯领口刺绣的刺痒；可这也没别的办法——前几天在他的办公室里，阿拉里克在她喉颈和锁骨上留下了一片发红的吻痕。
 
@@ -45,7 +55,7 @@ modified: 「2026-11-01」
 
 - **读者视角提示**：别把「uneasily」只当成衣料扎人——她挠的是领口，躲的是旁人的目光。
 
-> **原句 4:** "“Also, Tal—I contacted my superiors after you mentioned that Gaheris Ossinast built a base on Mahagir’s Rest. The Allfold has no intelligence regarding any Kesathese activity on that island. It must be top secret if even our agents were kept in the dark.”"
+> **原句 5:** "“Also, Tal—I contacted my superiors after you mentioned that Gaheris Ossinast built a base on Mahagir’s Rest. The Allfold has no intelligence regarding any Kesathese activity on that island. It must be top secret if even our agents were kept in the dark.”"
 
 - **中文理解**：凯德告诉塔拉辛，她已经就盖赫里斯·奥西纳斯特在马哈吉尔憩地修建基地一事联系了上级；全盟对那座岛上的凯萨斯活动毫无情报，连自己的探员都被蒙在鼓里，可见此事极度保密。
 
@@ -55,7 +65,17 @@ modified: 「2026-11-01」
 
 - **读者视角提示**：「after you mentioned」是关键：线索是塔拉辛自己交出去的，她越出力，越坐实了背叛。
 
-> **原句 5:** "The ache deepened as Talasyn told her friend the whole story. At first, Khaede only listened stock-still, with a frozen expression. By the end of the tale, however, her fingers had fisted into her gray pinafore."
+> **原句 6:** "She fought back the nausea that came crashing in on an icy tide of guilt. She followed Khaede’s logic, each step a death knell, bringing her closer and closer to the end. A new military base in a remote location, kept confidential, built after the war . . . “The Voidfell source could be on Mahagir’s Rest.”"
+
+- **中文理解**：她压住那阵涌上来的恶心——愧疚像一股冰冷的水拍上来。她顺着凯德的推理一步步走，每一步都像丧钟，把她推得离终点更近一点。一处偏远地点的新建军事基地、全程保密、战后才动工……「虚空坠焰的源头可能就在马哈吉尔憩地。」
+
+- **关键词**：icy tide · death knell · remote location
+
+- **为什么这样写**：整段是一个人不愿意得出结论却已经得出结论的过程。三个短句把身体反应（nausea）、方法（followed Khaede's logic）、比喻（death knell）排好队，最后用省略号把话咽了一下，才让那句话自己冒出来——结论不是她想出来的，是被推到嘴边的。
+
+- **读者视角提示**：她推的是别人的逻辑，落点却是自己将要背叛的人。上一句（不在本块引语内）交代了这个基地是阿拉里克在午餐时亲口告诉她的，因为他信任她——这句在分析里不能漏，否则读不出「恶心」的来源。
+
+> **原句 7:** "The ache deepened as Talasyn told her friend the whole story. At first, Khaede only listened stock-still, with a frozen expression. By the end of the tale, however, her fingers had fisted into her gray pinafore."
 
 - **中文理解**：塔拉辛把整件事讲给朋友听的时候，心里的痛更深了一层；凯德起初一动不动地听着，脸上没有表情，等故事讲完，她的手指已经攥紧了灰色罩裙。
 
@@ -65,7 +85,7 @@ modified: 「2026-11-01」
 
 - **读者视角提示**：「however」是这一块的重心，读到这里要把前两句的静止重新理解成克制的震动。
 
-> **原句 6:** "But you have been doing your best to help. While I’m not at liberty to give you all the details yet, for what it’s worth—” Khaede cleared her throat. “I am sorry. For being suspicious of you right away.”"
+> **原句 8:** "But you have been doing your best to help. While I’m not at liberty to give you all the details yet, for what it’s worth—” Khaede cleared her throat. “I am sorry. For being suspicious of you right away.”"
 
 - **中文理解**：凯德承认塔拉辛一直在尽力帮忙，说自己还不便透露全部细节，但值得说的是——她清了清嗓子——她为一开始就怀疑塔拉辛而道歉。
 
@@ -75,7 +95,7 @@ modified: 「2026-11-01」
 
 - **读者视角提示**：清嗓子这个动作比台词更说明问题——她得先给自己找一级台阶，才走得下来说这三个字。
 
-> **原句 7:** "You had no other option but to steal food in order to survive. Learning about your childhood has made me realize that seeing justice done is important, but so is ensuring that people don’t have to resort to acts of violence in the first place. A world where everyone has equal opportunities—I think that, too, is a form of justice.”"
+> **原句 9:** "You had no other option but to steal food in order to survive. Learning about your childhood has made me realize that seeing justice done is important, but so is ensuring that people don’t have to resort to acts of violence in the first place. A world where everyone has equal opportunities—I think that, too, is a form of justice.”"
 
 - **中文理解**：阿拉里克说塔拉辛当年除了偷食物活下去别无选择；了解她的童年让他明白，伸张正义固然重要，让人不必先诉诸暴力同样重要；而人人机会均等的世界，在他看来也是一种正义。
 
@@ -85,7 +105,7 @@ modified: 「2026-11-01」
 
 - **读者视角提示**：他没有否认「seeing justice done is important」，只是添了一个并列项；正因如此，这个转变才可信，而不是被爱情一键改写。
 
-> **原句 8:** "“Your first public appearance as the Night Empress,” said Alaric. “We’ve put that off long enough. People are on edge because of rebel activity and it’s up to us—as the imperial couple—to assure them that there’s nothing to fear."
+> **原句 10:** "“Your first public appearance as the Night Empress,” said Alaric. “We’ve put that off long enough. People are on edge because of rebel activity and it’s up to us—as the imperial couple—to assure them that there’s nothing to fear."
 
 - **中文理解**：阿拉里克说，这是塔拉辛作为夜后的第一次公开露面，已经拖得够久了；叛军的活动让人心不安，而安定人心正是他们这对帝后该做的事。
 
