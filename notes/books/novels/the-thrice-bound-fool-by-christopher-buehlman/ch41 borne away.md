@@ -129,7 +129,7 @@ modified: "2026-11-01"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| tentacle | 触手 | …which it fed to him with its tentacles as sweetly and generously. |
+| tentacles | 触手（复数；此处烟的卷须） | …it towered over the landscape in the shape of a hammer, with wee tentacles of smoke reaching down to trace where the mad goddie Thumos had pitched rocks and spears of blackglass. |
 | shallows | 浅水（复数） | And maybe I’ll linger near, in the shallows, as long as I’m allowed. |
 | farglass | 望远镜 | I’ll just put this farglass down and close those brave, fierce eyes of yours. |
 
