@@ -10,7 +10,7 @@ modified: "2026-11-01"
 - **一句话概括**：塔拉辛在帕苏阿号上切入萨多维亚频率，用「凯萨斯只剩一半战力」说服阿米兰特·维拉同意停火；阿拉里克随即把她单独召上拯救号，两人在办公室里把婚姻和战争一起摊在桌面上，最后被摄政盖赫里斯的一道传召打断。
 - **情感弧线位置**：从「把自家炮口横在两国舰队之间」的孤注一掷，落到「隔着办公桌被人当面点破只有一个人还戴着婚戒」的钝痛；所有私人的话都没说完，第三个人就推门进来了。
 - **Tropes 兑现/反转**：敌对双方隔着以太波谈判（兑现在塔拉辛把炮口对准盟友的悖论姿势里）；破镜重圆的谈判桌（反转为「这间屋子里只有一个人戴婚戒」）；忠仆当众责难（塞夫雷姆把私人的失望摊成一场质问）。
-- **人物弧线**：塔拉辛从「向阿米兰特汇报的部下」变成「把阿米兰特逼到没有选择的一方」；阿拉里克在这一章里以恐惧而非威压的形态出现，能下令却按不住手下所有炮口；塞夫雷姆从插科打诨的副官变成拒绝对视的审判者。
+- **人物弧线**：塔拉辛从「向阿米兰特汇报的部下」变成「把阿米兰特逼到没有选择的一方」；阿拉里克在这一章里以恐惧与刻薄而非威压的形态出现；塞夫雷姆从插科打诨的副官变成拒绝对视的审判者。
 - **叙事手法**：全章用「频率」和「门」两种介质调度距离——先用电波把两个女人放在数英里之外，再用机库、走廊、门槛、办公桌一段段缩到一室之内；视角在塔拉辛与阿拉里克之间切换，却不给任何一方的内心留下安稳处。
 
 ## 精读
@@ -21,9 +21,9 @@ modified: "2026-11-01"
 
 - **关键词**：Ideth Vela · own flagship · miles away
 
-- **为什么这样写**：开场先不写谈判，先写「看不清」——维拉被压成一个远处的小身影，两个女人各据一舰，中间隔着整片空域；「Even now」又把时间拉长，说明塔拉辛的记忆仍停在从前那个能收留她的人身上。要紧的话还没出口，读者已经先被放到一个必须踮脚去望的位置。
+- **为什么这样写**：开场先不写谈判，先写「看不清」——维拉被压成一个远处的小身影，两个女人各据一舰，中间隔着整片空域；「Even now」又把时间拉长，说明塔拉辛的记忆仍停在从前那个能收留她的人身上。要紧的话还没出口，读者先被放到一个必须踮脚去望的位置。
 
-- **读者视角提示**：「her own flagship」里的 her 是维拉，不是塔拉辛——这两个人此刻在两条船上，而这一章要做的正是把这段距离一级一级拆掉，直到只剩一张办公桌的宽度。
+- **读者视角提示**：「her own flagship」里的 her 是维拉，不是塔拉辛——两个人此刻在两条船上，而这一章要做的正是把这段距离一级一级拆掉，直到只剩一张办公桌的宽度。
 
 > **原句 2:** "“Kesath is operating at half of its former capacity,” Talasyn continued, “but that only puts your respective forces on an equal footing. If you engage here, the losses will be staggering for everyone involved."
 
@@ -45,17 +45,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她喊的是「哈里坎」而不是名字。这是对女王的正式尊称，也是她退开半步的姿势：可以让步，但亲昵收起来。
 
-> **原句 4:** "They only realized he was there when he cleared his throat. The sound cut through the moment like a knife. “Regent Gaheris has sent a message, Your Majesty,” he informed Alaric, quiet and tense. “He instructs that you bring the Zahiya-lachis to him.”"
-
-- **中文理解**：他们直到他清了清嗓子，才发觉他站在屋里。那一声像刀一样把当下的气氛切开。「摄政盖赫里斯来消息了，陛下，」他压低声音、绷着身子向阿拉里克禀报，「他吩咐您把扎希亚-拉奇斯带过去。」
-
-- **关键词**：only realized · his throat · a message
-
-- **为什么这样写**：这场争吵没有输赢，是因为它被外力掐断的——作者不给和解，也不给决裂，只给一声清嗓和一句转达。塞夫雷姆上一分钟还在门外骂她，这一分钟以公事口吻把两人一起押去见父亲；「像刀一样切开」的比喻提醒读者，这间办公室里剩下的时间本来就不多。
-
-- **读者视角提示**：传召用的是「扎希亚-拉奇斯」这个头衔，而不是「你妻子」——从门口传进来的那句话，已经把她重新定义成一份要交出去的东西。
-
-> **原句 5:** "It was Sevraim who came to fetch Talasyn from the Deliverance’s hangar bay. The legionnaire said nothing as he marched her through the stormship’s corridors, her every move observed by cold and hostile soldiers, a far cry from the deference they’d shown her as the Night Empress."
+> **原句 4:** "It was Sevraim who came to fetch Talasyn from the Deliverance’s hangar bay. The legionnaire said nothing as he marched her through the stormship’s corridors, her every move observed by cold and hostile soldiers, a far cry from the deference they’d shown her as the Night Empress."
 
 - **中文理解**：来拯救号的机库接塔拉辛的是塞夫雷姆。这名军团士兵一言不发地领着她穿过风暴舰的走廊，她的一举一动都被冷淡而敌视的士兵盯着，这与她身为夜帝后时受到的恭敬相去甚远。
 
@@ -65,15 +55,25 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她注意到的是「谁来接她」，而不是「有多少人看着她」。这个注意力的落点说明她此刻计较的是私人关系上的亏欠，而不只是政治账。
 
-> **原句 6:** "“I see.” His gaze drifted to her clasped hands as he shifted his more fully into view over the desk. “Well, I regret to inform you that there’s only one person wearing a wedding band in this room.”"
+> **原句 5:** "“I see.” His gaze drifted to her clasped hands as he shifted his more fully into view over the desk. “Well, I regret to inform you that there’s only one person wearing a wedding band in this room.”"
 
 - **中文理解**：「我明白了。」他的目光落到她交握的手上，同时把自己的手更完整地移进桌面上的视野里。「那么，我很遗憾地告诉你，这间屋子里只有一个人还戴着婚戒。」
 
 - **关键词**：clasped hands · wedding band · one person
 
-- **为什么这样写**：他不回答「复合算不算我的优先事项」，而是用两只手的对照来回答：她十指交握，他把手摊到桌面，让戒指自己开口。「I regret to inform you」是公文腔，用在一句极其私人的羞辱上，比发火更冷；「only one person」则把「我们」当场拆成两个人。
+- **为什么这样写**：他不回答「复合算不算我的优先事项」，而是用两只手的对照来回答：她十指交握，他把手摊到桌面，让戒指自己开口。「I regret to inform you」是公文腔，用在一句极其私人的羞辱上，比发火更冷；「only one person」把「我们」当场拆成两个人。
 
-- **读者视角提示**：注意他把手「shifted his more fully into view」这个动作——他是主动把手送进她的视野，让她自己数那上面少了什么。这一句之后，房间里还剩多少余地，全看她怎么接。
+- **读者视角提示**：注意他把手「shifted his more fully into view」这个动作——他是主动把手送进她的视野，让她自己数那上面少了什么。
+
+> **原句 6:** "“I remember everything you’ve said to me since the day we met. And most of that has caused me to second-guess nearly all my decisions and stray from the path. Because you, Talasyn, are a blight on my peace.”"
+
+- **中文理解**：「从我们见面的那天起，你说过的每一句话我都记得。而其中大部分都让我几乎推翻了自己所有的决定，偏离了原定的路。因为你，塔拉辛，就是我安宁上的一道伤。」
+
+- **关键词**：stray from · the path · my peace
+
+- **为什么这样写**：他先承认自己记得一切——这是他在整章里仅有的一次承认对方的话确实进过自己心里；可他紧接着把这份影响说成「让我偏离了原路」，听上去像在认账，其实是在归罪。最后那句把「和平」与「她」摆成一对反义词：和平本是他的目标，而她成了和平的反面。
+
+- **读者视角提示**：注意时间起点是「since the day we met」，不是成婚那天——他把这笔账从相遇算起，等于说这段关系从一开始就不该发生。
 
 ## 本章词汇
 
@@ -118,4 +118,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-这一章的全部动作都发生在两种介质里：以太波和门。塔拉辛先在萨多维亚频率上把自己的舰队变成一道算术题——凯萨斯只剩一半战力，打起来两边都会血流成河——逼得维拉笑着承认「你没给我留多少余地」，也让那句「你外祖母会为你骄傲」成了整章唯一一句不带算计的软话。可算术题解决不了私事：她单独乘蛾形小艇穿过凯萨斯的战线，迎接她的是塞夫雷姆的一路沉默和整条走廊的冷眼；到了办公桌前，阿拉里克不谈条件，只把两只手摆出来，让她自己数这间屋子里还剩几个人戴着婚戒。她把「我在这里是因为想看看我们还有没有可能」说出口，他把「你就是我安宁上的一道伤」还回来，两个人谁都没有退，也谁都没有往前走一步。最后推门进来的不是和解，是盖赫里斯的传召——私人的账还没算完，下一场就已经在门口等着了。
+这一章的全部动作都发生在两种介质里：以太波和门。塔拉辛先在萨多维亚频率上把自己的舰队变成一道算术题——凯萨斯只剩一半战力，打起来两边都会血流成河——逼得维拉笑着承认「你没给我留多少余地」，也让那句「你外祖母会为你骄傲」成了整章唯一一句不带算计的软话。可算术题解决不了私事：她单独乘蛾形小艇穿过凯萨斯的战线，迎接她的是塞夫雷姆的一路沉默和整条走廊的冷眼；到了办公桌前，阿拉里克不谈条件，只把两只手摆出来，让她自己数这间屋子里还剩几个人戴着婚戒。她把「我在这里是因为想看看我们还有没有可能」说出口，他把「你就是我安宁上的一道伤」还回来，两个人谁都没有退，也谁都没有往前走一步。最后推门进来的不是和解，是盖赫里斯的传召——私人的账还没算完，下一场已经在门口等着了。
