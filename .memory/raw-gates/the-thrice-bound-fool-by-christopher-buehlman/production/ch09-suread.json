@@ -1,0 +1,67 @@
+{
+ "book": "the-thrice-bound-fool-by-christopher-buehlman",
+ "chapter": "ch09",
+ "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch09_9_a_wrestle_at_the_faire.txt",
+ "facts": [
+  {
+   "fact": "集市梦（Goblin Wars 前的 Gallardia）：战马五色俱全——运酒桶的挽马、骑士的 palfrey、眼睛想踩婴儿的火红战马",
+   "anchor": "a knight rode a palfrey",
+   "start": 814,
+   "end": 837
+  },
+  {
+   "fact": "他发现自己是 Malk Na Brannyck（Grevitsa 被地精撕碎的老友）——只在膝裤里 greased up 站在乞儿擂场中央，对面是 greased 的 other-Kinch",
+   "anchor": "there I stood, in the middle of the beggar’s round",
+   "start": 2180,
+   "end": 2230
+  },
+  {
+   "fact": "other-Kinch 开场黄段子挑衅：骗 Malk 他妈的铜币还「thump her in the stinker」——逼他为了借来的母亲应战",
+   "anchor": "I cheated yer ma out of the copper shave",
+   "start": 2755,
+   "end": 2795
+  },
+  {
+   "fact": "顿悟：不是 Malk 打自己，是自己打书——人群里的 girleen 是钥匙（哪怕通往更深的迷宫）",
+   "anchor": "I was myself fighting the book",
+   "start": 4475,
+   "end": 4505
+  },
+  {
+   "fact": "回头看见蟹脸怪骑在死 Malk 身上用钳撕碎他，人群欢呼喝啤酒——他第二次看 Malk 死，但第一次更糟",
+   "anchor": "a crab-faced horror mounted on dead Malk",
+   "start": 6657,
+   "end": 6697
+  },
+  {
+   "fact": "Filaine 自白：书有时借她的脸——皮做封面革、骨粉入纸、油脂入胶、血与烧发之灰入墨（部分墨来自更糟的东西）——The fucking Guild",
+   "anchor": "It uses my skin for leather",
+   "start": 7164,
+   "end": 7191
+  },
+  {
+   "fact": "谈判：free me→烧书？他要它的秘密交换——「帮我找到它们我就照办」；她哭喊 PLEASE / I SUFFER HERE / They make everyone suffer",
+   "anchor": "“PLEASE!” she said, desperate",
+   "start": 7618,
+   "end": 7647
+  },
+  {
+   "fact": "蟹夹抓起他时他大喊 IRON!!!——天降铁钉雨砸毁集市与城堡（ strangely familiar 的毁灭景象），摔跤蟹弃他而逃",
+   "anchor": "a hammerhead the size of a small merchant cog",
+   "start": 8739,
+   "end": 8784
+  },
+  {
+   "fact": "Galva 感恩坦白：她在 Goltay 之前病重欲死，是个叫 Inocenta 的女人这样照料她——Inocenta 把她带到 Dalgatha，「先是神，后是鸟」；「maybe I will tell you, another time」",
+   "anchor": "Her name was Inocenta.",
+   "start": 11124,
+   "end": 11146
+  },
+  {
+   "fact": "结尾领悟：Filaine 既是受难少女也是蟹头怪物——「只有人才捕食人的灵魂。至少我那时是这么想的」",
+   "anchor": "she was both the suffering girl and the terrible crab-headed monster",
+   "start": 12925,
+   "end": 12993
+  }
+ ]
+}
