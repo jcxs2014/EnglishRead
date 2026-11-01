@@ -57,7 +57,7 @@ modified: "2026-11-01"
 
 > **原句 5:** "They looked somewhat shaken, a far cry from their usual elegance. Before they were within arm’s length of Talasyn, they stopped in their tracks. Surakwel dropped to one knee at the same time that Niamha sank into a deep curtsy that spread the panels of her wide skirts across the floor."
 
-- **中文理解**：这两个年轻贵族看上去有些失魂，与平日那份体面差得很远。还没走到能伸手够到她的距离，两人就停了脚：苏拉克威尔单膝跪地，尼娅姆哈同时行了个深屈膝礼，宽裙的裙片在身前铺开一地。
+- **中文理解**：这两个年轻贵族看上去有些失魂，与平日那份体面差得很远。还没走到能伸手够到她的距离，两人就停了脚：苏拉克威尔单膝跪地，尼亚姆哈同时行了个深屈膝礼，宽裙的裙片在身前铺开一地。
 
 - **关键词**：somewhat shaken · usual elegance · deep curtsy
 

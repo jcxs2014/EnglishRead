@@ -107,7 +107,7 @@ modified: "2026-11-01"
 
 > **原句 10:** "Niamha sprang out of bed. “Your Majesty, I know what you’re thinking, but there is no possible way that Lord Surakwel could have had a hand in this.” It was the most earnest that the canny and sophisticated Daya Langsoune of Catanduc had ever sounded, the remnants of a formerly sleek updo hanging around her fine-boned face in scraggly jet-black strands."
 
-- **中文理解**：尼亚姆哈从床上弹起来：「陛下，我知道您在想什么，但苏拉克威尔勋爵绝不可能参与此事。」这大概是精于世故的卡特塔杜克达雅·朗索妮从未有过的诚恳语气——她原本利落的发髻散成几缕乌黑发丝，垂在削瘦的脸上。
+- **中文理解**：尼亚姆哈从床上弹起来：「陛下，我知道您在想什么，但苏拉克威尔勋爵绝不可能参与此事。」这大概是精于世故的卡特塔杜克达雅·朗苏恩从未有过的诚恳语气——她原本利落的发髻散成几缕乌黑发丝，垂在削瘦的脸上。
 
 - **关键词**：no possible way · the most earnest · canny and sophisticated Daya Langsoune · remnants of a formerly sleek updo
 
