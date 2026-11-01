@@ -1,0 +1,143 @@
+{
+  "chapter": "ch10",
+  "source": "text/ch10_chapter_ten.txt",
+  "char_total": 11753,
+  "events": [
+    {
+      "i": 1,
+      "summary": "晚宴上，一只信鹰飞进餐厅，落在 Talasyn 椅子的扶手上送来一封信。",
+      "quote": "Halfway through the dessert course, a messenger eagle arrived, gliding through the dining room window to perch on the armrest of Talasyn’s chair.",
+      "start": 566,
+      "end": 711
+    },
+    {
+      "i": 2,
+      "summary": "Talasyn 把 Jie 叫到角落，告知信是 Jie 母亲所写，请求放 Jie 回家一段时间。",
+      "quote": "“This is from your mother,” Talasyn told Jie once they were out of earshot. “She’s asking if I might be able to send you home for a while.",
+      "start": 1208,
+      "end": 1346
+    },
+    {
+      "i": 3,
+      "summary": "Talasyn 以 Lachis’ka 身份下令 Jie 回家，Jie 含泪逃离餐厅。",
+      "quote": "“I’ll manage,” Talasyn said firmly. By the World-Father’s pustules, why did she also feel like crying? “Go home, my lady. I command you as the Lachis’ka. I’m not changing my mind.”",
+      "start": 2712,
+      "end": 2892
+    },
+    {
+      "i": 4,
+      "summary": "Talasyn 在阳台看着 Jie 的飞艇喷着绿雾驶离小岛。",
+      "quote": "The ocean crashed in her ears from where she stood outside her chambers, hands wrapped around the railing as she watched Jie’s airship sail away from the island on emerald-green fumes.",
+      "start": 3182,
+      "end": 3366
+    },
+    {
+      "i": 5,
+      "summary": "Talasyn 拒绝在危险初现时逃往丈夫的国土藏身。",
+      "quote": "“I won’t flee to my husband’s realm at the first sign of danger,” she snapped at Alaric. “I know how to fight, even without my magic.",
+      "start": 5408,
+      "end": 5541
+    },
+    {
+      "i": 6,
+      "summary": "Alaric 称不会再让 Oryal 有接近她的机会，宣布要带她回大陆、不留余地。",
+      "quote": "“She was able to get access to you once. I won’t risk it again, Talasyn,” Alaric said. “I’m taking you back with me to the Continent, and that’s final.”",
+      "start": 6160,
+      "end": 6312
+    },
+    {
+      "i": 7,
+      "summary": "Talasyn 情急之下拿 Belian 卫兵之死刺向 Alaric，越过了不该越的线。",
+      "quote": "Talasyn knew as soon as she threw the Belian guard’s death in Alaric’s face that she’d crossed a line, even in this battle of wills that they were forever waging with each other.",
+      "start": 7248,
+      "end": 7426
+    },
+    {
+      "i": 8,
+      "summary": "Talasyn 的情绪与恐惧召来三条巨龙，围住城堡一侧并对 Alaric 龇牙。",
+      "quote": "Three dragons, wet scales glistening in the moonlight, their claws raking deep gouges into the sand as they lumbered and coiled and surrounded this side of the granite castle.",
+      "start": 10794,
+      "end": 10969
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Jie",
+      "relation": "主仆/贴身侍女（lady-in-waiting）—— Jie 自称“我的位置在您身边”",
+      "quote": "Jie shook her head, dark curls whirling. “I’m not going anywhere. My place is with you, Your Grace.”",
+      "start": 1638,
+      "end": 1738
+    },
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻/政治同盟—— 私下关系紧绷，本章由争执走向威胁",
+      "quote": "Also, her husband was a different man around Ileis. More tense and guarded, his masklike expression even blanker.",
+      "start": 236,
+      "end": 349
+    },
+    {
+      "a": "Talasyn",
+      "b": "Ileis",
+      "relation": "敌对/相互敌意—— 军团使节在餐桌上出言讥刺",
+      "quote": "“I was just thinking that this sticky rice could have done with a sprinkle of bird shit,” Ileis sniped.",
+      "start": 714,
+      "end": 817
+    },
+    {
+      "a": "Alaric",
+      "b": "Gaheris Ossinast",
+      "relation": "父子—— Alaric 动怒时被看成“Gaheris Ossinast 之子”",
+      "quote": "his fists clenched at his sides and a change came over him. His eyes glinted in the moonlight. And suddenly she was looking at Gaheris Ossinast’s son.",
+      "start": 7888,
+      "end": 8038
+    },
+    {
+      "a": "Alaric",
+      "b": "Ileis/Sevraim",
+      "relation": "君臣/受命护送—— Gaheris 派二人接 Alaric 回大陆",
+      "quote": "That was the reason Ileis and Sevraim had arrived during the masquerade; Gaheris had tasked them to escort Alaric back to the Continent",
+      "start": 4770,
+      "end": 4905
+    }
+  ],
+  "numbers": [
+    {
+      "value": "17",
+      "context": "Talasyn 上战场时的年龄（她说“十七岁就在打仗”）",
+      "quote": "Yes, Talasyn thought. At seventeen, she’d been fighting a war.",
+      "start": 2276,
+      "end": 2338
+    },
+    {
+      "value": "14 天（a fortnight）",
+      "context": "Jie 母亲请求的准假时长",
+      "quote": "She’s asking if I might be able to send you home for a while. Even for just a fortnight, if I can spare you.",
+      "start": 1285,
+      "end": 1393
+    },
+    {
+      "value": "2 天",
+      "context": "自化装舞会袭击至今经过的天数",
+      "quote": "She reached for that thread amidst the labyrinthine snarl of the past two days’ events and revelations.",
+      "start": 4666,
+      "end": 4769
+    },
+    {
+      "value": "3 条",
+      "context": "被 Talasyn 情绪召来、围住城堡的巨龙数量",
+      "quote": "Three dragons, wet scales glistening in the moonlight, their claws raking deep gouges into the sand",
+      "start": 10794,
+      "end": 10893
+    },
+    {
+      "value": "3 对",
+      "context": "巨龙盯着 Alaric 的眼睛对数（另有三个吻部喷汽）",
+      "quote": "Three pairs of jeweled reptilian eyes fixed on Alaric, three great snouts snarling wisps of steam.",
+      "start": 11067,
+      "end": 11165
+    }
+  ],
+  "notes": "提取件开头连续两次出现 “Chapter Ten”（第 1 行与第 12 行），中间夹 10 个空行，系重复标题残留；正文段落之间普遍空两行，文件末尾另有空行。全文无脚注、无插图标记。"
+}

@@ -47,13 +47,15 @@ modified: 「2026-11-01」
 
 > **原句 4:** "Oryal’s body still hadn’t been found. It was possible that Kaptan Gao had taken her alive, only for them both to perish onboard the brigantine. Still, the manhunt was on—and, in happier news, most of the imprisoned nobles had cracked, divulging the names of their fellow conspirators."
 
-- **中文理解**：奥莉尔的尸体仍未找到。有可能高船长把她活着带走了，结果两人一起葬身在那艘双桅横帆船上。搜捕仍在继续——而按「更好的消息」来说，被关押的贵族大多已经开口，供出了同党的名字。
+- **中文理解**：奥莉尔的尸体仍未找到。有可能高卡普坦把她活着带走了，结果两人一起葬身在那艘双桅横帆船上。搜捕仍在继续——而按「更好的消息」来说，被关押的贵族大多已经开口，供出了同党的名字。
 
 - **关键词**：manhunt · cracked · brigantine
 
 - **为什么这样写**：三句情报，三个层级：一个不确定的人、两种互相取消的解释、一件确实在推进的事。乌尔杜佳把「更好的消息」塞进同一个句子里，用 in happier news 三个词完成情绪换挡——这是统治者的报账方式，坏消息先落地，好消息立刻折算成筹码。
 
 - **读者视角提示**：这是全章唯一的硬情报，别让后面的唇枪舌剑把它冲走：人没找到、名单在扩、主谋没开口。往后谁宣布「案子结了」，回到这三句来对。
+
+  （紧接着的一段还补了这些死者的来历：乌尔杜佳说他们都是「达雅·维卡尔的旧日学徒」，而且都出自内战战败方的领地——所以才会懂这门手艺。）
 
 > **原句 5:** "She’d been taking the bark of the wisewoman’s lilac as a preventive. She’d been going down to the castle kitchens for a dose every time she and Alaric slept together."
 

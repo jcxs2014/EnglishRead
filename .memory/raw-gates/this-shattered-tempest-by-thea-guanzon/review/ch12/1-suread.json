@@ -1,0 +1,136 @@
+{
+  "chapter": "ch12",
+  "source": "text/ch12_chapter_twelve.txt",
+  "char_total": 19188,
+  "events": [
+    {
+      "i": 1,
+      "summary": "达雅·拉斯梅（Lueve）再次劝阿拉里克留在 Nenavar，阿拉里克以本国要务与塔拉辛的安全为由拒绝。",
+      "quote": "I’m afraid I’ve made up my mind, Daya Rasmey,” he said. “There are pressing matters I must attend to in my own realm.",
+      "start": 949,
+      "end": 1066
+    },
+    {
+      "i": 2,
+      "summary": "送行时 Lueve 失言说两国君主都从内战中受了伤，阿拉里克当场追问她所指为何。",
+      "quote": "How good it is that even the wounds that were inflicted by the civil war on Your Majesties can heal—",
+      "start": 2948,
+      "end": 3048
+    },
+    {
+      "i": 3,
+      "summary": "塔拉辛在庭院对聚集的城堡仆从讲话，宣布不再容忍向天顶宫通风报信的耳目。",
+      "quote": "I know that some of you report to the Roof of Heaven. That ends today. I will no longer tolerate spies in this household.",
+      "start": 5583,
+      "end": 5704
+    },
+    {
+      "i": 4,
+      "summary": "在 Deliverance 号舰桥上，阿拉里克叫住塔拉辛要求谈话，并转述 Lueve 那句关于内战创伤的话。",
+      "quote": "We need to talk, Talasyn,” Alaric finally said. His tone was so formal that anxiety surged through her. “Daya Rasmey mentioned—a slip of the tongue on her part, perhaps, but that doesn’t make it any less concerning.",
+      "start": 8383,
+      "end": 8598
+    },
+    {
+      "i": 5,
+      "summary": "塔拉辛供出母亲哈南·伊芙拉利斯曾与辛坦·西林等人合谋，用魔法放走支援桑多维亚的船队。",
+      "quote": "So she formulated a plan with Sintan Silim and a few other Dominion nobles. She used her magic to enable the flotilla to leave port.",
+      "start": 10688,
+      "end": 10820
+    },
+    {
+      "i": 6,
+      "summary": "阿拉里克低声指责塔拉辛一直隐瞒此事，说她明知桑斯泰德对凯萨斯的所作所为却从未开口。",
+      "quote": "You kept this from me.” Cold accusation laced Alaric’s words, pitched so low that Talasyn would have scarcely heard them over the bridge’s controlled hubbub had she not been staring at his face.",
+      "start": 11435,
+      "end": 11629
+    },
+    {
+      "i": 7,
+      "summary": "阿拉里克拒绝把塔拉辛送回 Iantas，声明不会因恼怒而危及她的安全。",
+      "quote": "I’m not doing that, Talasyn. I might find the sight of you difficult to bear, but you won’t aggravate me into compromising your safety.",
+      "start": 15444,
+      "end": 15579
+    },
+    {
+      "i": 8,
+      "summary": "独自留在舱房里的塔拉辛定下神，摘下了自己的婚戒。",
+      "quote": "Talasyn opened her eyes, steeled herself, and took off her wedding band.",
+      "start": 19115,
+      "end": 19187
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn Ivralis",
+      "b": "Alaric",
+      "relation": "夫妻（政治联姻，本章公开决裂、仍维持同舱安置）",
+      "quote": "I’m not doing that, Talasyn. I might find the sight of you difficult to bear, but you won’t aggravate me into compromising your safety.",
+      "start": 15444,
+      "end": 15579
+    },
+    {
+      "a": "Urduja Silim",
+      "b": "Talasyn Ivralis",
+      "relation": "祖孙兼君臣（Zahiya-lachis 与继承人，塔拉辛自认暂为其棋子）",
+      "quote": "She might be her grandmother’s pawn for now, as it was impossible to beat the woman at her own game",
+      "start": 5382,
+      "end": 5481
+    },
+    {
+      "a": "Hanan Ivralis",
+      "b": "Talasyn Ivralis",
+      "relation": "母女（母亲已死，其旧事成为本章冲突核心）",
+      "quote": "M-my mother wasn’t much for politics when my father brought her to court, but she was there when the Sardovian Allfold tried to establish an alliance with Nenavar during the Cataclysm.",
+      "start": 10038,
+      "end": 10222
+    },
+    {
+      "a": "Sintan Silim",
+      "b": "Urduja Silim",
+      "relation": "叛乱者与君主（谋夺 Nenavar 王位、借船队事件发动内战）",
+      "quote": "What my mother didn’t realize was that Sintan was already planning to seize the Nenavarene throne from Queen Urduja.",
+      "start": 12711,
+      "end": 12827
+    },
+    {
+      "a": "Daya Rasmey（Lueve）",
+      "b": "Alaric",
+      "relation": "外交对手兼盟约方（Nenavar  dominion 与 Kesath 的共同防御 pact）",
+      "quote": "Lueve flashed an apologetic smile. “I could, of course, invoke our mutual defense pact.”",
+      "start": 1236,
+      "end": 1324
+    }
+  ],
+  "numbers": [
+    {
+      "value": "two nations",
+      "context": "阿拉里克曾替两国斡旋成婚约",
+      "quote": "a marriage treaty between two nations on the brink of war",
+      "start": 87,
+      "end": 144
+    },
+    {
+      "value": "two",
+      "context": "塔拉辛身后站着两名戴面具的军团兵",
+      "quote": "Kesathese colors. Standing beside her was the Night Emperor, and standing behind them were the two masked legionnaires.",
+      "start": 4712,
+      "end": 4831
+    },
+    {
+      "value": "several minutes",
+      "context": "Lueve 已花好几分钟劝阿拉里克留下",
+      "quote": "Lueve had just spent the last several minutes waging a one-woman campaign to convince him to stay in Nenavar.",
+      "start": 836,
+      "end": 945
+    },
+    {
+      "value": "three days",
+      "context": "抵达 Kesath 港还需三天",
+      "quote": "Her ears would be filled with it until they made port at Kesath three days from now.",
+      "start": 16652,
+      "end": 16736
+    }
+  ],
+  "notes": "原文首部标题重复（第 1 行与第 12 行各有一处 “Chapter Twelve”），标题后及段间残留大量空行；无脚注、无插图说明。人名并用敬称/本名（Daya Rasmey = Lueve、Lachis’ka = Alunsina Ivralis = Talasyn），属正常称谓而非语料错误。"
+}

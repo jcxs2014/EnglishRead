@@ -1,0 +1,143 @@
+{
+  "chapter": "ch11",
+  "source": "text/ch11_chapter_eleven.txt",
+  "char_total": 16883,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Talasyn 读到 Surakwel 派鹰送来的信，信中以日程不便为由推掉当天的下午茶，她由此明白 Vela 不肯与她见面。",
+      "quote": "An eagle flew in with the rising sun, bearing a message from Surakwel. Talasyn read it while Alaric slept, each word piercing her.",
+      "start": 42,
+      "end": 172
+    },
+    {
+      "i": 2,
+      "summary": "Alaric 回想当初 Sevraim 与 Ileis 带着 Gaheris 的命令赶来、要他回国处理越狱一事时，他正因这场紧急撤离能让他有借口不带 Talasyn 回 Kesath 而松一口气。",
+      "quote": "When Sevraim and Ileis arrived during the masquerade with orders from Gaheris to sail home and deal with the prison breakout, Alaric had been relieved that the emergency necessitated an abrupt departure",
+      "start": 1614,
+      "end": 1816
+    },
+    {
+      "i": 3,
+      "summary": "Alaric 望见一艘白色纵帆船驶近，认出那是 Urduja 的船，于是告知 Talasyn 她祖母来了。",
+      "quote": "Alaric’s brow furrowed at the sight of a pale white schooner gliding toward the island. As it drew nearer, he tensed, realizing whose ship it was.",
+      "start": 3879,
+      "end": 4025
+    },
+    {
+      "i": 4,
+      "summary": "Urduja 向 Talasyn 通报近况：Oryal 的尸身仍未找到，Kaptan Gao 可能将她活捉、两人一同死在那艘双桅横帆船上。",
+      "quote": "Oryal’s body still hadn’t been found. It was possible that Kaptan Gao had taken her alive, only for them both to perish onboard the brigantine.",
+      "start": 5648,
+      "end": 5791
+    },
+    {
+      "i": 5,
+      "summary": "Urduja 说明那些死去的 Enchanter 都是 Daya Vaikar 昔日的学徒，且都出身内战战败方的领地。",
+      "quote": "“Daya Vaikar’s former apprentices,” said Urduja. “All from territories that were on the losing side during the civil war.",
+      "start": 6040,
+      "end": 6161
+    },
+    {
+      "i": 6,
+      "summary": "Talasyn 表示局势既已在 Urduja 掌控之中，她便按 Night Emperor 的要求启程，待祖母施刑完毕再回来。",
+      "quote": "“Besides, you appear to have the situation well in hand, Harlikaan. I will return when you have finished meting out your justice.”",
+      "start": 6648,
+      "end": 6778
+    },
+    {
+      "i": 7,
+      "summary": "Talasyn 意识到 Urduja 早就知道她在服用 wisewoman 的丁香树皮避孕，且每次与 Alaric 同房前都去城堡厨房取药。",
+      "quote": "She’d been taking the bark of the wisewoman’s lilac as a preventive. She’d been going down to the castle kitchens for a dose every time she and Alaric slept together.",
+      "start": 9787,
+      "end": 9953
+    },
+    {
+      "i": 8,
+      "summary": "Talasyn 挺直身子回击，并要 Urduja 离开她的城堡。",
+      "quote": "“Now,” she concluded, low and deadly, a snarl of ice, “get out of my castle.”",
+      "start": 14924,
+      "end": 15001
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Alaric Ossinast",
+      "relation": "夫妻（政治联姻，彼此都可能拿这段关系当筹码）",
+      "quote": "This is simply the reality of a political marriage: whatever lies between you and Alaric Ossinast, one of you will use it to your advantage sooner or later.",
+      "start": 16433,
+      "end": 16589
+    },
+    {
+      "a": "Talasyn",
+      "b": "Urduja（Zahiya-lachis）",
+      "relation": "外孙女与祖母；同时是仇敌——Urduja 是杀害 Talasyn 母亲之人",
+      "quote": "Yet not even that hilarious memory could lessen the lightning storm of wariness and loathing as she sat across from her mother’s killer.",
+      "start": 4987,
+      "end": 5123
+    },
+    {
+      "a": "Lueve Rasmey（Daya of Cenderwas，Surakwel 的姑母）",
+      "b": "Urduja",
+      "relation": "同盟/援军：派私兵协助 Huktera 围捕谋反者家眷与部众，并陪同 Urduja",
+      "quote": "Surakwel’s aunt, the Daya of Cenderwas, had dispatched her private army to assist the Huktera in rounding up the conspirators’ families and their forces.",
+      "start": 4473,
+      "end": 4626
+    },
+    {
+      "a": "Alaric Ossinast",
+      "b": "Gaheris",
+      "relation": "父子兼君臣：父亲下令，Alaric 以\"她已不是 Lightweaver\"为由替 Talasyn 挡下",
+      "quote": "After he confirmed to his father that Talasyn was no longer a Lightweaver, Gaheris might leave her alone.",
+      "start": 2192,
+      "end": 2297
+    },
+    {
+      "a": "Talasyn",
+      "b": "Surakwel",
+      "relation": "同盟 intermediaries：Surakwel 替 Vela 传话，以推掉邀约暗示 Vela 不肯赴约",
+      "quote": "Talasyn had never extended such an invitation to Surakwel. He was telling her that Vela couldn’t meet.",
+      "start": 313,
+      "end": 415
+    }
+  ],
+  "numbers": [
+    {
+      "value": "sennight（一周）",
+      "context": "Urduja 说未来一周 Dominion 各地将举行不少葬礼，Talasyn 若在场会更好",
+      "quote": "“Quite a few funerals will be held throughout the Dominion over the course of the next sennight,” Urduja said carefully.",
+      "start": 6781,
+      "end": 6901
+    },
+    {
+      "value": "two fronts（两条战线）",
+      "context": "Kesath 无力两线作战——越狱事件表明 Sardovia 游击队不可小觑",
+      "quote": "Kesath could not afford to fight a war on two fronts.",
+      "start": 2455,
+      "end": 2508
+    },
+    {
+      "value": "an entire afternoon（整整一个下午）",
+      "context": "Alaric 花了一整个下午反复权衡，才认定带 Talasyn 回 Kesath 是当下最优解",
+      "quote": "Alaric was not in the least bit sorry for the methods he’d employed to arrive at what he realized—after carefully deliberating for an entire afternoon—was the best possible solution",
+      "start": 1378,
+      "end": 1559
+    },
+    {
+      "value": "every time（每一次）",
+      "context": "Talasyn 每次与 Alaric 同房后都去厨房取一次丁香树皮，作为预防",
+      "quote": "She’d been going down to the castle kitchens for a dose every time she and Alaric slept together.",
+      "start": 9856,
+      "end": 9953
+    },
+    {
+      "value": "several steps ahead（抢先好几步）",
+      "context": "Urduja 总能比 Talasyn 抢先数步，Talasyn 无处可逃",
+      "quote": "But the Zahiya-lachis was always several steps ahead. There was no escape.",
+      "start": 10015,
+      "end": 10089
+    }
+  ],
+  "notes": "标题重复：文件第 1 行与第 12 行各有一个 “Chapter Eleven”（章首重复一次），两处标题之间夹 10 行空行，属提取残留。正文段落之间普遍为两行空行（部分为多行），排版空行较多，未影响引语连续性。全篇对话使用弯引号 “ ” 与弯撇号 ’（如 had not → hadn't），引语已逐字保留原字符；破折号—为 em dash（U+2014）。本章无脚注、无插图占位、无 OCR 乱码字符；POV 在 Talasyn 与 Alaric 之间切换（开头 Alaric 段落为他的内视角）。"
+}

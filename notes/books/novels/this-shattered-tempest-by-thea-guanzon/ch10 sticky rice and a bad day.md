@@ -25,7 +25,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「around Ileis」这个介词——变化只在伊莱丝在场时发生，触发点是人而不是场合；这一桌的敌意不在菜里，在座次上。
 
-> **原句 2:** "Talasyn bit her lip. So far, Jie had survived the Sardovian ambush on the Citadel, the Night of the World-Eater, and the masquerade attack. Her continued proximity to Talasyn hadn’t done her any favors, and things were only going to get worse from here on out."
+> **原句 2:** "“I’ll manage,” Talasyn said firmly. By the World-Father’s pustules, why did she also feel like crying? “Go home, my lady. I command you as the Lachis’ka. I’m not changing my mind.”"
+
+- **中文理解**：「我能应付，」塔拉辛硬着声说。凭世界之父的脓疮起誓，她为什么也想哭？「回家去，我的女士。我以拉奇斯卡的身份命令你。我不会改主意。」
+
+- **关键词**：manage · pustules · changing my mind
+
+- **为什么这样写**：命令是用身份（Lachis’ka）下的，可句子里先漏出两处失守：一句骂人的赌咒、一个「为什么我也像要哭」的自问。作者把最硬的一道命令和最低的一次自嘲压在同一个句子里，读的人因此知道这不是赶人，是护人。
+
+- **读者视角提示**：先说清楚前因：那封信是吉的母亲写的，请求让女儿回家住一阵（上一段的动作，不在本块引语里）。这一块之后，吉含着泪跑出餐厅，随后就是她的小飞艇拖着绿尾气离岛。
+
+> **原句 3:** "Talasyn bit her lip. So far, Jie had survived the Sardovian ambush on the Citadel, the Night of the World-Eater, and the masquerade attack. Her continued proximity to Talasyn hadn’t done her any favors, and things were only going to get worse from here on out."
 
 - **中文理解**：塔拉辛咬着嘴唇，在心里替吉数了一遍劫难：城塞遇袭、噬世者之夜、化装舞会那场厮杀，吉一次都没躲开。她认定吉跟在自己身边没讨到半点好处，而往后只会更糟。
 
@@ -35,7 +45,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这是塔拉辛自己的判断，不是叙述者给的事实。她把危险全部记在自己账上，读者不妨反问一句：这些袭击真是冲她来的吗？
 
-> **原句 3:** "The Lachis-dalo had beseeched Talasyn to steer clear of Iantas’s balconies, but tonight she was in no mood to cower. The ocean crashed in her ears from where she stood outside her chambers, hands wrapped around the railing as she watched Jie’s airship sail away from the island on emerald-green fumes."
+> **原句 4:** "The Lachis-dalo had beseeched Talasyn to steer clear of Iantas’s balconies, but tonight she was in no mood to cower. The ocean crashed in her ears from where she stood outside her chambers, hands wrapped around the railing as she watched Jie’s airship sail away from the island on emerald-green fumes."
 
 - **中文理解**：拉奇斯-达洛（王家卫队）求过她别靠近伊安塔斯的阳台，可今晚她不想躲。她站在寝殿外的栏杆前，海声灌满耳朵，双手扣着栏杆，看吉的飞艇拖着翠绿尾气离岛。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她挑的位置恰恰是别人劝她别去的地方——悲伤和逞强在同一根栏杆上发生，这个重合不是巧合。
 
-> **原句 4:** "A muscle in his pale jaw clenched. “It was always part of the deal that we’d return to the Night Empire. I have other responsibilities and I can’t keep on neglecting them. But neither can I let you stay here when we’ve yet to neutralize the threat on your life.”"
+> **原句 5:** "A muscle in his pale jaw clenched. “It was always part of the deal that we’d return to the Night Empire. I have other responsibilities and I can’t keep on neglecting them. But neither can I let you stay here when we’ve yet to neutralize the threat on your life.”"
 
 - **中文理解**：阿拉里克下颌的一块肌肉绷紧。他提醒她，回夜帝国本来就是交易的一部分；他还有别的职责，不能一直撂着。可他也无法把她留在这座岛上——要她命的人还没解决。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：留意时态——他说「we’d return」，把决定推给当初说好的约定，而不是此刻的意愿；谁在引用旧账，谁就在回避当下的请求。
 
-> **原句 5:** "And these were the kind of words that, uttered in the heat of the moment, uttered in a desperate bid to win an argument, could never be taken back. Talasyn knew as soon as she threw the Belian guard’s death in Alaric’s face that she’d crossed a line, even in this battle of wills that they were forever waging with each other."
+> **原句 6:** "And these were the kind of words that, uttered in the heat of the moment, uttered in a desperate bid to win an argument, could never be taken back. Talasyn knew as soon as she threw the Belian guard’s death in Alaric’s face that she’d crossed a line, even in this battle of wills that they were forever waging with each other."
 
 - **中文理解**：有些话一旦在气头上出口、只为赢下一场争吵，就再也收不回来。塔拉辛把贝利安卫士的死摔到阿拉里克脸上那一刻就知道自己越了线——哪怕在他们两人长期互不相让的较劲里，这条线也算数。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她赢了吗？句子只说她「知道越线」，没写她后悔。这份空白正好落在他那声像抽泣的吸气之前。
 
-> **原句 6:** "She turned around, and there they were. Summoned from the water by her agitation, by her fear of him and for him. Three dragons, wet scales glistening in the moonlight, their claws raking deep gouges into the sand as they lumbered and coiled and surrounded this side of the granite castle."
+> **原句 7:** "She turned around, and there they were. Summoned from the water by her agitation, by her fear of him and for him. Three dragons, wet scales glistening in the moonlight, their claws raking deep gouges into the sand as they lumbered and coiled and surrounded this side of the granite castle."
 
 - **中文理解**：她转身，它们就在那里。是她的躁动、她对他的怕与替他怕，把龙从水里叫了上来。三条龙，湿鳞在月光下发亮，爪子刨进沙里拖出深沟，笨重地挪动、盘绕，围住了花岗岩城堡的这一侧。
 

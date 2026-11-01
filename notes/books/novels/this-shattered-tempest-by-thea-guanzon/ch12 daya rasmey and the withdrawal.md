@@ -95,7 +95,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：全章最伤人的一句没有提高音量。读者由此记住，在这个人物身上，声量下降等于怒意上升。
 
-> **原句 9:** "There was a small, jagged cut, parchment thin and angry red. It had bled at some point but she hadn’t noticed, dry, rust-colored stains dotting the flesh of her palm. She didn’t need to search too far for the culprit; the chipped vulana stone on her ring finger glinted in the sunlight, an accusation wrought in arctic radiance."
+> **原句 9:** "Alaric shook his head, issuing a scrape of laughter that was as mirthless as it was short-lived. “I’m not doing that, Talasyn. I might find the sight of you difficult to bear, but you won’t aggravate me into compromising your safety.” He passed a weary hand over his face. “I think it best that I show you to our quarters.”"
+
+- **中文理解**：阿拉里克摇头，笑得像刮擦声，干而短。「我不做那种事，塔拉辛。看见你也许让我难受，但你不会气我到拿你的安全去换。我想最好还是我带你去看我们的舱房。」
+
+- **关键词**：laughter · difficult to bear · quarters
+
+- **为什么这样写**：她给出的是一条体面的退路（把我送回去吧），他把它原话退回，退回的理由不是「我原谅你」，而是「我不拿你的安全换我的难受」——第一次出现的让步对象是安全、不是感情。最后一句换掉整段的重心：不送回，那就「我们的舱房」，冷淡与同居在同一句里。
+
+- **读者视角提示**：前一段是她提的（「现在把我送回伊安塔斯也不迟」），只有一句、不在本块引语里。读这一块要抓两个词：`compromising`（他拒绝的是拿她冒险）和 `our quarters`（他让步的方式）。后文她关上舱门、发现掌心那道被崩口婚戒割出的伤口，就在这之后。
+
+> **原句 10:** "There was a small, jagged cut, parchment thin and angry red. It had bled at some point but she hadn’t noticed, dry, rust-colored stains dotting the flesh of her palm. She didn’t need to search too far for the culprit; the chipped vulana stone on her ring finger glinted in the sunlight, an accusation wrought in arctic radiance."
 
 - **中文理解**：掌心有一道羊皮纸薄、红得发怒的锯齿伤口，出过血而她毫无察觉，锈色的干渍散在掌肉上。凶器不必找——无名指上那颗崩口的巫拉纳石在阳光里发亮，像一份用极地光辉铸成的控诉。
 
@@ -105,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：读者会自己追问这道伤是什么时候落下的。引语只给出「出过血而她没有察觉」，把时间空着，这一个空处比任何解释都更像她此刻的状态。
 
-> **原句 10:** "Consider this a wake-up call, my dear. The Zahiya-lachis’s words pierced her memories and Talasyn squeezed her eyes shut, surrendering to the dark behind them, crackling with the splinters of her hopelessness, her helpless rage."
+> **原句 11:** "Consider this a wake-up call, my dear. The Zahiya-lachis’s words pierced her memories and Talasyn squeezed her eyes shut, surrendering to the dark behind them, crackling with the splinters of her hopelessness, her helpless rage."
 
 - **中文理解**：扎希亚-拉奇斯那句「就当是一次叫醒」从记忆里刺出来。她闭上眼，任由眼前的黑把自己接住——黑里噼啪作响的，是无望与无能为力的愤怒碎成的渣。
 
