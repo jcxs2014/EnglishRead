@@ -17,83 +17,83 @@ modified: 「2026-11-01」
 
 > **原句 1:** "Khaede loomed on the other side of the walnut-wood escritoire in the solar, her elbows perched atop its shelves as she looked down her nose at Talasyn outlining a counterproposal to the criminal liability measure. The meaning behind her falsely innocent tone was clear: there was no need to bother, because the measure would never be implemented."
 
-**中文理解**：凯德站在起居室那张胡桃木书桌的另一侧，双肘搭在架子上，居高临下地看着塔拉辛起草一份针对刑事责任法案的替代方案；她那句假装无辜的问话意思很清楚——不必费这个劲，因为那项法案根本不会落地。
+- **中文理解**：凯德站在起居室那张胡桃木书桌的另一侧，双肘搭在架子上，居高临下地看着塔拉辛起草一份针对刑事责任法案的替代方案；她那句假装无辜的问话意思很清楚——不必费这个劲，因为那项法案根本不会落地。
 
-**关键词**：escritoire / counterproposal / measure
+- **关键词**：escritoire · counterproposal · measure
 
-**为什么这样写**：作者先用身体高度把场面定住：一个站着俯视，一个坐着低头写字。凯德的问句被标成「falsely innocent」，读者因此知道她不是在关心，而是在下判断。两人对同一份文件的态度正好相反——一个当成可能生效的政策，一个当成废纸——这层分歧不靠争吵，靠姿态和语气就成立了。
+- **为什么这样写**：作者先用身体高度把场面定住：一个站着俯视，一个坐着低头写字。凯德的问句被标成「falsely innocent」，读者因此知道她不是在关心，而是在下判断。两人对同一份文件的态度正好相反——一个当成可能生效的政策，一个当成废纸——这层分歧不靠争吵，靠姿态和语气就成立了。
 
-**读者视角提示**：「looked down her nose」既是字面动作，也是轻蔑的固定说法；读到「no need to bother」时，把它当作凯德对局势的判断，而不是对塔拉辛的体贴。
+- **读者视角提示**：「looked down her nose」既是字面动作，也是轻蔑的固定说法；读到「no need to bother」时，把它当作凯德对局势的判断，而不是对塔拉辛的体贴。
 
 > **原句 2:** "But Talasyn had to distract herself from her impending betrayal of her husband. And, if the Allfold lost this final gamble—if Kesath were to emerge victorious and said husband had her clapped in chains and banished from his sight forevermore—then she would at least have left a record of her thoughts for him to consider."
 
-**中文理解**：塔拉辛写这份方案，是为了把心思从「即将背叛丈夫」这件事上挪开；她还设想，万一全盟输掉这最后一搏、凯萨斯得胜、丈夫把她锁上镣铐永远逐出视线，那么这份文件至少能留下她的想法供他参看。
+- **中文理解**：塔拉辛写这份方案，是为了把心思从「即将背叛丈夫」这件事上挪开；她还设想，万一全盟输掉这最后一搏、凯萨斯得胜、丈夫把她锁上镣铐永远逐出视线，那么这份文件至少能留下她的想法供他参看。
 
-**关键词**：betrayal / gamble / record
+- **关键词**：betrayal · gamble · record
 
-**为什么这样写**：一段话里叠了两层假设：写文件是分心，也是留言。作者把「背叛」和「留给他看」放进同一句，矛盾就摆在明面上——她为全盟做的每一分准备，同时是对丈夫的亏欠和对他的交代。「final gamble」把全盟的处境压缩成一次下注，她的分心因此有了重量，而不只是闺中情绪。
+- **为什么这样写**：一段话里叠了两层假设：写文件是分心，也是留言。作者把「背叛」和「留给他看」放进同一句，矛盾就摆在明面上——她为全盟做的每一分准备，同时是对丈夫的亏欠和对他的交代。「final gamble」把全盟的处境压缩成一次下注，她的分心因此有了重量，而不只是闺中情绪。
 
-**读者视角提示**：注意「said husband」这种带距离的叫法——她嘴上把阿拉里克推远成「那位丈夫」，恰是因为心里推不开。
+- **读者视角提示**：注意「said husband」这种带距离的叫法——她嘴上把阿拉里克推远成「那位丈夫」，恰是因为心里推不开。
 
 > **原句 3:** "Talasyn scratched uneasily at the high collar of her powder-blue day dress. She was little used to the stiffness of the fabric and the scratch of its embroidery around her neck. There’d been no help for it, however; the other day in his office, Alaric had littered her throat and clavicles with furious red love bites."
 
-**中文理解**：塔拉辛不安地挠着淡蓝色日装的高领，她不习惯料子的硬挺，也不习惯领口刺绣的刺痒；可这也没别的办法——前几天在他的办公室里，阿拉里克在她喉颈和锁骨上留下了一片发红的吻痕。
+- **中文理解**：塔拉辛不安地挠着淡蓝色日装的高领，她不习惯料子的硬挺，也不习惯领口刺绣的刺痒；可这也没别的办法——前几天在他的办公室里，阿拉里克在她喉颈和锁骨上留下了一片发红的吻痕。
 
-**关键词**：love bites / high collar / embroidery
+- **关键词**：love bites · high collar · embroidery
 
-**为什么这样写**：一件衣服同时办了两件事：身体的难受是真的，遮掩的理由也是真的。高领既是礼服的规矩，也是私情的证据；「furious」形容吻痕，把前一晚的激烈折进布料底下，读者不必看现场也知道发生过什么。作者不写她回味，只写她挠痒，克制反而更响。
+- **为什么这样写**：一件衣服同时办了两件事：身体的难受是真的，遮掩的理由也是真的。高领既是礼服的规矩，也是私情的证据；「furious」形容吻痕，把前一晚的激烈折进布料底下，读者不必看现场也知道发生过什么。作者不写她回味，只写她挠痒，克制反而更响。
 
-**读者视角提示**：别把「uneasily」只当成衣料扎人——她挠的是领口，躲的是旁人的目光。
+- **读者视角提示**：别把「uneasily」只当成衣料扎人——她挠的是领口，躲的是旁人的目光。
 
 > **原句 4:** "“Also, Tal—I contacted my superiors after you mentioned that Gaheris Ossinast built a base on Mahagir’s Rest. The Allfold has no intelligence regarding any Kesathese activity on that island. It must be top secret if even our agents were kept in the dark.”"
 
-**中文理解**：凯德告诉塔拉辛，她已经就盖赫里斯·奥西纳斯特在马哈吉尔憩地修建基地一事联系了上级；全盟对那座岛上的凯萨斯活动毫无情报，连自己的探员都被蒙在鼓里，可见此事极度保密。
+- **中文理解**：凯德告诉塔拉辛，她已经就盖赫里斯·奥西纳斯特在马哈吉尔憩地修建基地一事联系了上级；全盟对那座岛上的凯萨斯活动毫无情报，连自己的探员都被蒙在鼓里，可见此事极度保密。
 
-**关键词**：Mahagir’s Rest / intelligence / top secret
+- **关键词**：Mahagir’s Rest · intelligence · top secret
 
-**为什么这样写**：塔拉辛随口提过的一句话，在这里被换成了战略线索。凯德用「连我们的探员都」来强调保密级别，重音其实不在岛上有什么，而在情报的稀缺——稀缺意味着机会只有一次。她先叫一声「Tal」再报消息，亲昵的称呼与内容的分量形成落差。
+- **为什么这样写**：塔拉辛随口提过的一句话，在这里被换成了战略线索。凯德用「连我们的探员都」来强调保密级别，重音其实不在岛上有什么，而在情报的稀缺——稀缺意味着机会只有一次。她先叫一声「Tal」再报消息，亲昵的称呼与内容的分量形成落差。
 
-**读者视角提示**：「after you mentioned」是关键：线索是塔拉辛自己交出去的，她越出力，越坐实了背叛。
+- **读者视角提示**：「after you mentioned」是关键：线索是塔拉辛自己交出去的，她越出力，越坐实了背叛。
 
 > **原句 5:** "The ache deepened as Talasyn told her friend the whole story. At first, Khaede only listened stock-still, with a frozen expression. By the end of the tale, however, her fingers had fisted into her gray pinafore."
 
-**中文理解**：塔拉辛把整件事讲给朋友听的时候，心里的痛更深了一层；凯德起初一动不动地听着，脸上没有表情，等故事讲完，她的手指已经攥紧了灰色罩裙。
+- **中文理解**：塔拉辛把整件事讲给朋友听的时候，心里的痛更深了一层；凯德起初一动不动地听着，脸上没有表情，等故事讲完，她的手指已经攥紧了灰色罩裙。
 
-**关键词**：whole story / frozen expression / gray pinafore
+- **关键词**：whole story · frozen expression · gray pinafore
 
-**为什么这样写**：作者不写凯德说了什么，只写她的手。前两句把反应压到零——「stock-still」「frozen」——最后用一个攥紧的动作把压住的东西放出来，情绪没有台词，只有布料上的褶皱。塔拉辛的「ache」与凯德的手指并排出现，两个人的痛被放在同一段里称量。
+- **为什么这样写**：作者不写凯德说了什么，只写她的手。前两句把反应压到零——「stock-still」「frozen」——最后用一个攥紧的动作把压住的东西放出来，情绪没有台词，只有布料上的褶皱。塔拉辛的「ache」与凯德的手指并排出现，两个人的痛被放在同一段里称量。
 
-**读者视角提示**：「however」是这一块的重心，读到这里要把前两句的静止重新理解成克制的震动。
+- **读者视角提示**：「however」是这一块的重心，读到这里要把前两句的静止重新理解成克制的震动。
 
 > **原句 6:** "But you have been doing your best to help. While I’m not at liberty to give you all the details yet, for what it’s worth—” Khaede cleared her throat. “I am sorry. For being suspicious of you right away.”"
 
-**中文理解**：凯德承认塔拉辛一直在尽力帮忙，说自己还不便透露全部细节，但值得说的是——她清了清嗓子——她为一开始就怀疑塔拉辛而道歉。
+- **中文理解**：凯德承认塔拉辛一直在尽力帮忙，说自己还不便透露全部细节，但值得说的是——她清了清嗓子——她为一开始就怀疑塔拉辛而道歉。
 
-**关键词**：sorry / suspicious / details
+- **关键词**：sorry · suspicious · details
 
-**为什么这样写**：道歉被拆成两截，中间塞进一声清嗓子。作者不让她一口气说完，因为凯德不是擅长示弱的人；「for what it's worth」先给这句话降了价，后面那句「对不起」才显得是真话。同段里她还承认自己「not at liberty」，信任是有边界的，而这份有限并没有被说成无限。
+- **为什么这样写**：道歉被拆成两截，中间塞进一声清嗓子。作者不让她一口气说完，因为凯德不是擅长示弱的人；「for what it's worth」先给这句话降了价，后面那句「对不起」才显得是真话。同段里她还承认自己「not at liberty」，信任是有边界的，而这份有限并没有被说成无限。
 
-**读者视角提示**：清嗓子这个动作比台词更说明问题——她得先给自己找一级台阶，才走得下来说这三个字。
+- **读者视角提示**：清嗓子这个动作比台词更说明问题——她得先给自己找一级台阶，才走得下来说这三个字。
 
 > **原句 7:** "You had no other option but to steal food in order to survive. Learning about your childhood has made me realize that seeing justice done is important, but so is ensuring that people don’t have to resort to acts of violence in the first place. A world where everyone has equal opportunities—I think that, too, is a form of justice.”"
 
-**中文理解**：阿拉里克说塔拉辛当年除了偷食物活下去别无选择；了解她的童年让他明白，伸张正义固然重要，让人不必先诉诸暴力同样重要；而人人机会均等的世界，在他看来也是一种正义。
+- **中文理解**：阿拉里克说塔拉辛当年除了偷食物活下去别无选择；了解她的童年让他明白，伸张正义固然重要，让人不必先诉诸暴力同样重要；而人人机会均等的世界，在他看来也是一种正义。
 
-**关键词**：equal opportunities / justice / violence
+- **关键词**：equal opportunities · justice · violence
 
-**为什么这样写**：这段话把「正义」从一个事后的判决，改成一件事先的安排，而改动的理由是具体的人——她偷过食物。作者让他先陈述她的处境，再给出推论，这个顺序本身就是论证：先有她的童年，才有他对政策的重新理解。「too」保住了他原来的立场，不是推翻，是加了一层。
+- **为什么这样写**：这段话把「正义」从一个事后的判决，改成一件事先的安排，而改动的理由是具体的人——她偷过食物。作者让他先陈述她的处境，再给出推论，这个顺序本身就是论证：先有她的童年，才有他对政策的重新理解。「too」保住了他原来的立场，不是推翻，是加了一层。
 
-**读者视角提示**：他没有否认「seeing justice done is important」，只是添了一个并列项；正因如此，这个转变才可信，而不是被爱情一键改写。
+- **读者视角提示**：他没有否认「seeing justice done is important」，只是添了一个并列项；正因如此，这个转变才可信，而不是被爱情一键改写。
 
 > **原句 8:** "“Your first public appearance as the Night Empress,” said Alaric. “We’ve put that off long enough. People are on edge because of rebel activity and it’s up to us—as the imperial couple—to assure them that there’s nothing to fear."
 
-**中文理解**：阿拉里克说，这是塔拉辛作为夜后的第一次公开露面，已经拖得够久了；叛军的活动让人心不安，而安定人心正是他们这对帝后该做的事。
+- **中文理解**：阿拉里克说，这是塔拉辛作为夜后的第一次公开露面，已经拖得够久了；叛军的活动让人心不安，而安定人心正是他们这对帝后该做的事。
 
-**关键词**：Night Empress / rebel activity / imperial couple
+- **关键词**：Night Empress · rebel activity · imperial couple
 
-**为什么这样写**：他把一场节庆说成公务：露面是职责，安抚是任务，「拖得够久」则透露出这段婚姻一直没被摆到人前。作者让他用「we」和「us」把两个人捆成一个单位，这既是在要求她配合，也是在向外界宣布她属于这个位置。理由是政治，语气却近乎请求。
+- **为什么这样写**：他把一场节庆说成公务：露面是职责，安抚是任务，「拖得够久」则透露出这段婚姻一直没被摆到人前。作者让他用「we」和「us」把两个人捆成一个单位，这既是在要求她配合，也是在向外界宣布她属于这个位置。理由是政治，语气却近乎请求。
 
-**读者视角提示**：留意「put that off」——被推迟的不只是行程，还有她作为夜后的身份本身。
+- **读者视角提示**：留意「put that off」——被推迟的不只是行程，还有她作为夜后的身份本身。
 
 ## 本章词汇
 
