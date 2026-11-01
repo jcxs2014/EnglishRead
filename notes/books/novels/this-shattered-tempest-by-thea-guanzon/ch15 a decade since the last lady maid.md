@@ -65,7 +65,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：记住这个称呼问题：她在私下怎么叫他，会被当作政治表态来读。这里只是一个音节，代价却是一顶通敌的帽子。
 
-> **原句 6:** "The casual declaration brought Talasyn up short. How could she argue that point, when Khaede had lost her village to the Night Empire’s stormships and her husband to their crossbow bolts? What else had she endured since the Sardovians’ defeat at Lasthaven?"
+> **原句 6:** "“The Amirante fears that you’re compromised.” Khaede shrugged, without the slightest hint of apology. “You did insist that we spare Ossinast’s life.” Her lips twisted in a sneer. “Or Alaric’s, if you were to have it your way, I take it.”"
+
+- **中文理解**：「阿米兰特担心你已经被策反了。」凯德耸了耸肩，没有半点要道歉的意思。「你确实坚持过要留奥西纳斯特一命。」她嘴角一撇，冷笑。「或者按你的叫法——阿拉里克。」
+
+- **关键词**：Amirante fears · compromised · Ossinast’s life
+
+- **为什么这样写**：这条指控不是凯德自己的判断，她把它挂在「阿米兰特」名下说出来——于是它变成一份正式的政治账单，而不是朋友之间的埋怨。指控的依据只有一条：她坚持留夜帝一命。写法上更狠的是结尾那半句：把「奥西纳斯特」换成「阿拉里克」，等于把她私下的叫法当场当作证据。
+
+- **读者视角提示**：这一段之前，她已经把自己的越狱经过交代完了（同一场谈话里）：凯德承认靠她提供的监狱布局与安保情报才逃出来，也承认阿米兰特参与策划了那次劫狱——那几句不在本块引语内，是同一段对话的前半。
+
+> **原句 7:** "The casual declaration brought Talasyn up short. How could she argue that point, when Khaede had lost her village to the Night Empire’s stormships and her husband to their crossbow bolts? What else had she endured since the Sardovians’ defeat at Lasthaven?"
 
 - **中文理解**：那句漫不经心的宣判把塔拉辛噎住了。她凭什么反驳？凯德的村子毁在夜帝国的风暴舰下，丈夫死在他们的弩箭上；从萨多维亚人在拉斯港战败算起，她究竟还熬过些什么，塔拉辛并不知道。
 
@@ -75,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：留意 casual 这个词：那句狠话是随口说的。正因为随口，它不像气话，更像这些年的常态。
 
-> **原句 7:** "“You have done well, Emperor.” A faint smile played at the corners of Gaheris’s lips. If Alaric had been nursing any hope that there was no Kesathese involvement in Talasyn losing her magic, it died a swift and withering death right then and there."
+> **原句 8:** "“You have done well, Emperor.” A faint smile played at the corners of Gaheris’s lips. If Alaric had been nursing any hope that there was no Kesathese involvement in Talasyn losing her magic, it died a swift and withering death right then and there."
 
 - **中文理解**：「你干得很好，陛下。」盖赫里斯嘴角浮起一点笑。如果阿拉里克心里还存着「凯萨斯没有插手塔拉辛失掉魔法」的指望，那点指望就在这一刻迅速而彻底地枯死了。
 
@@ -85,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意笑的部位，只有嘴角，不是整张脸。同一段后半他随即把儿子派去高地，把塞夫雷姆留在城塞看着皇后。
 
-> **原句 8:** "“You would be surprised, Your Majesty,” came Gaheris’s dry voice in the gathered dark. “As long as your intent is noble and your cause just, the gods will often ensure that help arrives from unexpected quarters.”"
+> **原句 9:** "“You would be surprised, Your Majesty,” came Gaheris’s dry voice in the gathered dark. “As long as your intent is noble and your cause just, the gods will often ensure that help arrives from unexpected quarters.”"
 
 - **中文理解**：「你会吃惊的，陛下。」盖赫里斯干巴巴的声音从聚拢的暗处传来。「只要你的意图高尚、你的事业正当，神明常常会让援助从意想不到的地方到来。」
 

@@ -105,7 +105,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：紧接着的下一段只有一行，是她没说出口的回答：「I think the world of you.」那句话留在心里，他听不见。
 
-> **原句 10:** "A shock of black hair had escaped the wide brim of her mobcap when she curtsied. It trailed down the side of a face that was leaner than it had been the last time Talasyn saw it, but still the same ebony complexion, the same strong chin. The same eyes, dark brown and piercing enough to cut through metalglass, hardened by war."
+> **原句 10:** "These chambers had once belonged to Alaric’s mother. And yet there were no portraits, no trinkets, no trace of Sancia Ossinast. Had his idea of refurbishment also involved dismantling any personal touches she’d left behind?"
+
+- **中文理解**：这间寝宫从前属于阿拉里克的母亲。可这里没有肖像、没有小摆设、没有桑西亚·奥西纳斯特留下的任何痕迹。他所谓的「翻新」，是不是也顺手把她留下的所有私人物件都拆掉了？
+
+- **关键词**：chambers · Sancia Ossinast · personal touches
+
+- **为什么这样写**：三连否定（no portraits, no trinkets, no trace）把一间「刚翻新过」的屋子写成一处被清空的遗址。最后那句是她的猜测，不是叙述者的判断——作者用问号把「他到底知不知道自己住的是什么地方」悬在那里。
+
+- **读者视角提示**：上一段他只说了一句「夜皇后寝宫，最近翻新过」，语气是木的（`in a wooden tone`）。至于这间屋子原本是谁的、为什么一点私物都没有，文本没有给答案，只给了这三重否定和一个问句。
+
+> **原句 11:** "A shock of black hair had escaped the wide brim of her mobcap when she curtsied. It trailed down the side of a face that was leaner than it had been the last time Talasyn saw it, but still the same ebony complexion, the same strong chin. The same eyes, dark brown and piercing enough to cut through metalglass, hardened by war."
 
 - **中文理解**：她行屈膝礼的时候，一绺黑发从软帽的宽檐下溜了出来。那绺头发垂在一张脸的侧边——比塔拉辛上回见她时瘦了些，可肤色仍旧乌黑，下巴仍旧硬朗。眼睛也一样：深棕，尖得能穿透金属玻璃，被战争磨硬了。
 

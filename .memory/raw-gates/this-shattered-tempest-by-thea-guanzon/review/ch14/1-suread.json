@@ -1,0 +1,143 @@
+{
+  "chapter": "ch14",
+  "source": "text/ch14_chapter_fourteen.txt",
+  "char_total": 18806,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Alaric 梦见母亲 Sancia 走进金色光墙、被光吞没。",
+      "quote": "But in this dream, Sancia Ossinast vanished not into the darkness but into a wall of golden light. She walked into it willingly and it consumed her",
+      "start": 755,
+      "end": 902
+    },
+    {
+      "i": 2,
+      "summary": "Talasyn 摇醒做噩梦的 Alaric，他喘着气醒来。",
+      "quote": "Slim, strong hands were shaking him, their callused fingertips hot on his clammy arms. He woke up gasping for breath",
+      "start": 1754,
+      "end": 1870
+    },
+    {
+      "i": 3,
+      "summary": "Alaric 为夜里撕破 Talasyn 的睡衣道歉，并问她是否受伤。",
+      "quote": "“I apologize,” he said at once. His nausea worsened. “Did I hurt you?”",
+      "start": 2806,
+      "end": 2876
+    },
+    {
+      "i": 4,
+      "summary": "Talasyn 为隐瞒真相道歉，Alaric 只回一句“We’ll see”便转身背对她。",
+      "quote": "“We’ll see.” It was all he could say. All he could bear to part with. He let go of her wrist at last and the narrow bed creaked as he turned on his side, his back to her.",
+      "start": 7190,
+      "end": 7360
+    },
+    {
+      "i": 5,
+      "summary": "Ileis 与 Sevraim 在改成训练室的 coracle 舱里对练消磨航程。",
+      "quote": "One of the coracle bays had been repurposed into a training room, and here the two legionnaires whiled away the hours of downtime by sparring.",
+      "start": 9172,
+      "end": 9314
+    },
+    {
+      "i": 6,
+      "summary": "Talasyn 意识到自己已不再需要学控制，因为她已没有任何 aethermancy 可用。",
+      "quote": "She didn’t need to learn control anymore. She no longer had any aethermancy to channel it into.",
+      "start": 10558,
+      "end": 10653
+    },
+    {
+      "i": 7,
+      "summary": "抵达 Citadel 后，Alaric 把新修缮的“夜皇后寝宫”指给 Talasyn。",
+      "quote": "“The Night Empress’s chambers,” he announced in a wooden tone, showing her inside. “Recently refurbished.”",
+      "start": 14688,
+      "end": 14794
+    },
+    {
+      "i": 8,
+      "summary": "侍女 Erith 抬头，Talasyn 认出她是旧日战友 Khaede。",
+      "quote": "A shock of black hair had escaped the wide brim of her mobcap when she curtsied. It trailed down the side of a face that was leaner than it had been the last time Talasyn saw it",
+      "start": 18406,
+      "end": 18583
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "夫妻（Kesath 皇帝与夜皇后）；当下互相冷战，但他仍承诺不让她独自面对父亲。",
+      "quote": "“Whatever issues you and I have at present, I won’t let you face my father by yourself. I won’t take my anger out on you like that.",
+      "start": 16881,
+      "end": 17012
+    },
+    {
+      "a": "Talasyn",
+      "b": "Gaheris",
+      "relation": "公媳／君臣之敌；Talasyn 失去 aethermancy 后极度畏惧这位摄政王。",
+      "quote": "Facing the Regent without her aethermancy . . . She might as well have jumped headfirst into the World-Eater’s mouth.",
+      "start": 16439,
+      "end": 16556
+    },
+    {
+      "a": "Talasyn",
+      "b": "Ileis",
+      "relation": "同盟／战友；Ileis 曾参与把她从 Oryal 手中救出，并受 Alaric 器重。",
+      "quote": "The other woman had been instrumental in her rescue from Oryal’s clutches, and she was clearly friends with Sevraim and held in high regard by Alaric.",
+      "start": 12978,
+      "end": 13128
+    },
+    {
+      "a": "Ileis",
+      "b": "Sevraim",
+      "relation": "同袍（Shadowforged Legion 军团兵），航程中以对练消磨时间。",
+      "quote": "here the two legionnaires whiled away the hours of downtime by sparring",
+      "start": 9242,
+      "end": 9313
+    },
+    {
+      "a": "Talasyn",
+      "b": "Khaede",
+      "relation": "旧日战友；Khaede 化名 Erith 以侍女身份出现在 Citadel。",
+      "quote": "The same eyes, dark brown and piercing enough to cut through metalglass, hardened by war. The war that Talasyn had fought with her, at her side.",
+      "start": 18644,
+      "end": 18788
+    }
+  ],
+  "numbers": [
+    {
+      "value": "quarter past midnight",
+      "context": "抵达 Citadel 的时间：午夜过一刻（00:15）。",
+      "quote": "They arrived at a quarter past midnight. Only one of Lir’s seven moons had deigned to make an appearance, and the inky sky draped over the obsidian buildings in a wash of darkness",
+      "start": 13327,
+      "end": 13506
+    },
+    {
+      "value": "seven",
+      "context": "Lir 共有七个月亮，当晚只出现一个。",
+      "quote": "Only one of Lir’s seven moons had deigned to make an appearance",
+      "start": 13368,
+      "end": 13431
+    },
+    {
+      "value": "miles",
+      "context": "Citadel 外围的黑暗绵延数英里。",
+      "quote": "The velvet black rolled on for miles, threaded through with the flashing mastlights of roving wolf coracles and the golden lamps borne by soldiers patrolling the labyrinthine streets.",
+      "start": 13633,
+      "end": 13816
+    },
+    {
+      "value": "several paces",
+      "context": "Talasyn 倚墙旁观对练时所站的距离（数步之外）。",
+      "quote": "Several paces away from where Talasyn stood leaning against the wall",
+      "start": 10666,
+      "end": 10734
+    },
+    {
+      "value": "one",
+      "context": "船上有一个 coracle 舱被改作训练室。",
+      "quote": "One of the coracle bays had been repurposed into a training room",
+      "start": 9172,
+      "end": 9236
+    }
+  ],
+  "notes": "1) 章标题重复：第 1 行与第 12 行各有一处 “Chapter Fourteen”，两处之间是第 2–11 行共 10 个空行（提取残留）。2) 另外两处连续空行：第 124–135 行（12 行）、第 179–181 行（3 行），对应原文换节位置。3) 无脚注、无插图说明；弯引号 “ ” 与省略号 “. . .” 为原文样式，所有引语按原样保留。"
+}

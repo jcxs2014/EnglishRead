@@ -1,0 +1,143 @@
+{
+  "chapter": "ch13",
+  "source": "text/ch13_chapter_thirteen.txt",
+  "char_total": 17069,
+  "events": [
+    {
+      "i": 1,
+      "summary": "阿拉里克整日躲着妻子，在自己的船上巡视过道、为琐事训斥船员，以避开她。",
+      "quote": "driven from his own stateroom, spending the day terrorizing his crew over inconsequential matters and haunting the passageways of his own ship",
+      "start": 200,
+      "end": 342
+    },
+    {
+      "i": 2,
+      "summary": "阿拉里克、塔拉辛、塞夫雷姆与伊莱斯在军官餐厅与船长及其下属同桌用晚餐；塞夫雷姆喋喋不休，塔拉辛几乎不答。",
+      "quote": "Supper was in the officers’ mess, where Alaric, Talasyn, Sevraim, and Ileis crowded around the lone table with the stormship’s captain and his subordinates.",
+      "start": 1710,
+      "end": 1866
+    },
+    {
+      "i": 3,
+      "summary": "伊莱斯当众指出塔拉辛在小屋遇袭时没有施展以太术，暗示她训练不足或魔力不再本能。",
+      "quote": "“You didn’t aethermance in the lodge,” Ileis pointed out. “I can only assume that you haven’t trained enough to be able to draw on your magic, however briefly, when physically taxed.",
+      "start": 4807,
+      "end": 4989
+    },
+    {
+      "i": 4,
+      "summary": "塔拉辛背对丈夫伸手按住最上面那颗扣子，示意要阿拉里克帮她解开裙装。",
+      "quote": "Her gaze still trained on her husband’s reflection, she reached behind her after she spoke, touching the topmost button to make her meaning clear.",
+      "start": 9632,
+      "end": 9778
+    },
+    {
+      "i": 5,
+      "summary": "阿拉里克发现她左肩的雀斑形似星团（像那口“饭锅”星座）。",
+      "quote": "“I never realized until now that it looks like a star cluster. The cooking pot, maybe.”",
+      "start": 12849,
+      "end": 12936
+    },
+    {
+      "i": 6,
+      "summary": "塔拉辛告诉他两人婚戒上的宝石叫“vulana”，是被巴昆咬碎的第八个月亮的碎片。",
+      "quote": "The stones on our rings—they’re called vulana. There’s a folktale for them, too.",
+      "start": 13954,
+      "end": 14034
+    },
+    {
+      "i": 7,
+      "summary": "阿拉里克回答说不觉得用悲伤的宝石做婚戒不吉利：悲伤是爱仍存在的证明。",
+      "quote": "“Grief is proof that love remains. And what the World-Eater has, it’s a love everlasting. A love powerful enough to destroy islands.”",
+      "start": 15409,
+      "end": 15542
+    },
+    {
+      "i": 8,
+      "summary": "衣服解完后阿拉里克退开一步，把塔拉辛独自留在寒冷里。",
+      "quote": "Then he was stepping back. Stepping away from her. Leaving her cold all over.",
+      "start": 16991,
+      "end": 17068
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "夫妻（凯萨瑟与涅纳瓦雷的政治联姻，彼此猜忌）",
+      "quote": "were he given free reign over the entirety of Lir, it still wouldn’t be big enough to escape his wife.",
+      "start": 472,
+      "end": 574
+    },
+    {
+      "a": "Alaric",
+      "b": "Gaheris",
+      "relation": "父子兼君臣（阿拉里克惧怕被父亲视为软弱）",
+      "quote": "He must not make any more concessions, else he prove once and for all that he was as weak as Gaheris believed him to be.",
+      "start": 3609,
+      "end": 3729
+    },
+    {
+      "a": "Talasyn",
+      "b": "Elagbi",
+      "relation": "父女（在婚约谈判桌上互有心照不宣的隐瞒）",
+      "quote": "Talasyn had cast a helpless look at Elagbi, whose own gaze had dropped to the table, keeping well clear of everyone else’s.",
+      "start": 2698,
+      "end": 2821
+    },
+    {
+      "a": "Ileis",
+      "b": "Talasyn",
+      "relation": "敌对的同盟（帝国军团士兵与涅纳瓦雷皇后，互相试探）",
+      "quote": "“I don’t require your gratitude. You know what I’m capable of and I know what you’re capable of. We learned that about each other during the war.",
+      "start": 4480,
+      "end": 4625
+    },
+    {
+      "a": "Alaric",
+      "b": "Ileis",
+      "relation": "君臣（伊莱斯是“夜帝”麾下最得力的军人）",
+      "quote": "the Night Emperor’s consort and his finest soldier arguing at every meal",
+      "start": 7019,
+      "end": 7091
+    }
+  ],
+  "numbers": [
+    {
+      "value": "午夜将近（near midnight）",
+      "context": "塔拉辛在午夜前站在金属玻璃前等丈夫回舱",
+      "quote": "It was near midnight. The Firewarren-infused lamps along the Deliverance’s masthead cut glowing swaths through the inky clouds",
+      "start": 7760,
+      "end": 7886
+    },
+    {
+      "value": "第八个月亮（the eighth moon）",
+      "context": "vulana 宝石传说：伊亚拉姆死后巴昆咬碎的第八月碎片",
+      "quote": "Each stone is a shard of the eighth moon, which Bakun crushed between its jaws when Iyaram died.",
+      "start": 14281,
+      "end": 14377
+    },
+    {
+      "value": "两次（both occasions，指伊安塔斯卧室与城堡两次）",
+      "context": "她两次都在他崩溃时给予安慰，却从未提起自家参与其事",
+      "quote": "On both occasions, she had offered him consolation and reprieve.",
+      "start": 1312,
+      "end": 1376
+    },
+    {
+      "value": "数千年（thousands of years later）",
+      "context": "凡人民间故事与星空“饭锅”轮廓的先后，引出数千年后这一幕",
+      "quote": "it had led to this—to Alaric tracing the constellation with her freckles, thousands of years later.",
+      "start": 13424,
+      "end": 13523
+    },
+    {
+      "value": "一千点光（a thousand dancing lights）",
+      "context": "他拇指抚过肩头雀斑时，她心口下方仿佛炸开千点光",
+      "quote": "it was as though the space below her heart erupted into a thousand dancing lights",
+      "start": 12722,
+      "end": 12803
+    }
+  ],
+  "notes": "原文件开头有两处重复的「Chapter Thirteen」标题：第1行为独立标题行，第12行又重复一次，其后接 10 个空行（行 2–11 中 9 个空行 + 行 13 空行），属提取残留；正文自第15行起。文本使用弯引号 ’’ 与 em dash ——，引用时须原样保留。无脚注、无页码残留。结尾停在阿拉里克退开一节，无章末分隔符。"
+}

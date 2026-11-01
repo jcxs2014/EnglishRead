@@ -1,0 +1,143 @@
+{
+  "chapter": "ch15",
+  "source": "text/ch15_chapter_fifteen.txt",
+  "char_total": 14969,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Alaric 告诉 Talasyn 他已从 Nordaye 寻来一名叫 Erith 的女仆充任她的侍女，并承诺若不合适就换人。",
+      "quote": "“A decade has gone by since we last had need of a lady’s maid here,” Alaric said. “I wrote to Nordaye via skua while we were shipbound and had him interview the serving girls and chambermaids.",
+      "start": 44,
+      "end": 236
+    },
+    {
+      "i": 2,
+      "summary": "Khaede 在 Alaric 面前压住脾气，以仆从口吻自称“能为王室效劳是荣幸”，替两人遮掩旧识关系。",
+      "quote": "Khaede’s left eyebrow twitched. Don’t roll your eyes, Talasyn silently pleaded, and, to the other woman’s credit, she managed not to, instead saying, “I am honored to be of service to the crown.”",
+      "start": 1378,
+      "end": 1573
+    },
+    {
+      "i": 3,
+      "summary": "Alaric 让 Khaede 帮“女主人”收拾行李，Khaede 顺从应下。",
+      "quote": "“You should get some rest,” said Alaric. “It was a long trip.” He glanced at Khaede. “Help your mistress unpack.”",
+      "start": 1854,
+      "end": 1967
+    },
+    {
+      "i": 4,
+      "summary": "Khaede 告诉 Talasyn 孩子是个男孩、长得像父亲、已被安置在远方安全之处，Talasyn 听后几乎站不稳。",
+      "quote": "“A boy,” Khaede said. “Looks like his father. He’s safe. Far away from here.”",
+      "start": 4465,
+      "end": 4542
+    },
+    {
+      "i": 5,
+      "summary": "Talasyn 说出从 Alaric 处听来的经过——Khaede 在 Lasthaven 战后被俘、在押往 Citadel 前乘狼形 coracle 逃出拘留营。",
+      "quote": "“You were captured after the battle of Lasthaven,” Talasyn said heavily. “But you escaped from the internment camp before they could bring you to the Citadel. You flew off in a wolf coracle.”",
+      "start": 5286,
+      "end": 5477
+    },
+    {
+      "i": 6,
+      "summary": "Khaede 承认越狱是靠 Talasyn 提供的监狱布局与安保情报，Vela 与她合谋了这次劫狱。",
+      "quote": "“Your intelligence was solid,” Khaede admitted, somewhat reluctantly. “We never could have done it without your knowledge of the prison layout and its security measures.”",
+      "start": 7111,
+      "end": 7281
+    },
+    {
+      "i": 7,
+      "summary": "Khaede 转告 Talasyn：Amirante 怀疑她已被对方收买，理由是她坚持留 Ossinast（Alaric）一命。",
+      "quote": "“The Amirante fears that you’re compromised.” Khaede shrugged, without the slightest hint of apology. “You did insist that we spare Ossinast’s life.”",
+      "start": 8137,
+      "end": 8286
+    },
+    {
+      "i": 8,
+      "summary": "Gaheris 命 Alaric 当日与 Ileis 赴高地会同 Nisene 搜捕逃犯，留 Sevraim 在 Citadel 监视 Talasyn。",
+      "quote": "You and Ileis will join her there today. She will be glad to see her sister again, I wager. Sevraim will remain in the Citadel to keep an eye on your empress.",
+      "start": 14004,
+      "end": 14162
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Khaede",
+      "relation": "旧日战友/挚友，如今一方为后、一方为潜入的间谍，靠假装素不相识保命",
+      "quote": "Khaede’s continued survival hung on Talasyn’s ability to pretend that they’d never met before.",
+      "start": 1088,
+      "end": 1182
+    },
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻（由 Amirante 批准的联姻），但 Talasyn 向 Khaede 强调这桩婚事“并非表面那样”",
+      "quote": "“Khaede, listen to me. My marriage isn’t what it seems. The Amirante signed off on it.”",
+      "start": 6047,
+      "end": 6134
+    },
+    {
+      "a": "Khaede",
+      "b": "Vela（Amirante）",
+      "relation": "上下级/同盟，Vela 与 Khaede 共同策划劫狱，并对 Talasyn 保密",
+      "quote": "Floating pieces fell into place in Talasyn’s mind. “The Amirante planned the prison breakout with you, didn’t she?”",
+      "start": 6993,
+      "end": 7108
+    },
+    {
+      "a": "Alaric",
+      "b": "Gaheris",
+      "relation": "父子兼君臣：Gaheris 为摄政、实际掌权者，Alaric 虽称帝仍须听其调遣",
+      "quote": "“Very well. It seems that for once I must bow to my son’s wisdom.”",
+      "start": 13025,
+      "end": 13091
+    },
+    {
+      "a": "Gaheris",
+      "b": "Talasyn",
+      "relation": "俘获者与人质：Gaheris 视失去光织的 Talasyn 为战利品，并派人监视",
+      "quote": "Gaheris was content. He had gotten what he wanted. Talasyn without the Lightweave, and a hostage, to boot.",
+      "start": 13246,
+      "end": 13352
+    }
+  ],
+  "numbers": [
+    {
+      "value": "a decade（十年）",
+      "context": "Alaric 说 Citadel 已有十年不需要侍女，故此次是破例新设",
+      "quote": "“A decade has gone by since we last had need of a lady’s maid here,” Alaric said.",
+      "start": 44,
+      "end": 125
+    },
+    {
+      "value": "almost a year（将近一年）",
+      "context": "自 Sardovian Allfold 战败、Khaede 怀孕至今的时间跨度",
+      "quote": "Khaede had been pregnant when the Sardovian Allfold lost the war and now she wasn’t, obviously—almost a year had passed—and Talasyn waited for the response with trepidation.",
+      "start": 4210,
+      "end": 4383
+    },
+    {
+      "value": "two fronts（两条战线）",
+      "context": "Alaric 反对此刻攻打 Nenavar，理由是同时与 Sardovia 作战无法两线开战",
+      "quote": "And we shouldn’t exhaust our resources on the Nenavarene while we contend with the Sardovians. We can’t fight a war on two fronts, Father.",
+      "start": 12883,
+      "end": 13021
+    },
+    {
+      "value": "two sails short of a fleet（少两面帆，习语）",
+      "context": "Talasyn 笑出声后，Khaede 以航海习语形容她“脑子缺根弦”",
+      "quote": "But Khaede was staring at her as though Talasyn were two sails short of a fleet, and that was enough to sober her.",
+      "start": 4018,
+      "end": 4132
+    },
+    {
+      "value": "one hand（一只手）",
+      "context": "Khaede 结束密谈、以一只手按在阳台门闩上准备回屋",
+      "quote": "“I have a job to do. So do you, if you care to remember it.” Khaede turned, placing one hand on the latch of the balcony door.",
+      "start": 10443,
+      "end": 10569
+    }
+  ],
+  "notes": "原文首行与第 12 行重复出现标题“Chapter Fifteen”，两标题间夹 10 个空行（\\n×11 的连续空行段），是提取件残留；正文各段之间普遍为 2–3 个换行（空行冗余），段数 75。文末无脚注、无译者注，末行以换行结束。全章无章节内小标题。"
+}
