@@ -1,0 +1,73 @@
+{
+  "chapter": "ch04",
+  "text_file": "text/ch04_chapter_4.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Jo走进Mimi那间塞满杂物的高天花板房间（not-just-stuff room），闻到旧床单、褪色香水与烟味，目光扫过书架、衣架上的礼服和桌上的箱子",
+      "anchor": "Everyone’s past has its own distinct scent. Walking into the not-just-stuff room, Jo catches the trace of old linen",
+      "byte_offset": 19,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Mimi说自己已从美国储物仓库运来部分物件，早年生活的零碎物件通常藏在这里（Chelsea），并叹息她故事的核心就藏在这堆杂物里某处",
+      "anchor": "but the ephemera of my early years, not so easy to live with, I usually squirrelled away here in Chelsea",
+      "byte_offset": 1507,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Mimi定下工作流程：先挑一件拍卖品并讲其背后故事，Jo回家把它写成一面文字、今晚六点前电邮给她，再由Mimi定夺",
+      "anchor": "Then email it to me by six this evening. I’ll make the call from there.",
+      "byte_offset": 2480,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Jo脱口提议从『当Miriam变成Mimi』讲起，Mimi听到Miriam这个名字时肌肉微颤、吃了一惊，说『有人做过功课』",
+      "anchor": "The name Miriam registers with a minuscule muscular flinch. ‘Someone’s done their research,’",
+      "byte_offset": 3330,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Jo硬撑过去，暗自庆幸自己没有同时说出她研究到的另一个秘密——位于Wiltshire、名叫Rushwood的乡村宅邸",
+      "anchor": "relieved she didn’t also mention a country house in Wiltshire called Rushwood",
+      "byte_offset": 3472,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Mimi走向衣架翻拨衣架，Jo看见Oscar de la Renta、Yves Saint Laurent、Dior、Carolina Herrera等名牌标签，还认出每次搜索都出现的深红Met Gala礼服，但真正让她轻呼出声的是叶绿色Halston长裙",
+      "anchor": "Oscar de la Renta, Yves Saint Laurent, Dior, Carolina Herrera",
+      "byte_offset": 3738,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Mimi翻过那件Halston和那些玩乐夜晚，却抽出一件朴素的褪色黄色迷你裙、线头垂在裙摆，说『就是它』",
+      "anchor": "plucks out a plain, faded yellow mini dress, threads dangling from its hem. ‘This,’ she breathes.",
+      "byte_offset": 4202,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "本章结尾Mimi低声吩咐Jo打开录音笔、摊开笔记本，宣布『我们进去了』，开始正式录制口述",
+      "anchor": "‘Recorder on, Jo. Notebook out,’ Mimi murmurs. ‘We’re going in.’",
+      "byte_offset": 4511,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Mimi是口述者与雇主：她定流程（挑拍卖品、讲故事、审稿），Jo负责把故事写成文字并在今晚六点前电邮给她",
+    "Miriam是Mimi的本名/早年名字（『当Miriam变成Mimi』），如今被叫做Miriam会让她反应剧烈",
+    "Jo私下研究过Mimi的过去，握有Mimi不知道她知晓的信息（Miriam之名、Wiltshire的乡村宅邸Rushwood），并刻意隐瞒"
+  ],
+  "numbers_dates": [
+    "c65（文件头部标记）",
+    "4（章号）",
+    "six this evening（交稿期限：今晚六点前电邮）"
+  ],
+  "turning_point": "Mimi略过 glamour 的Met Gala深红礼服与Halston长裙，抽出一件朴素的褪色黄色迷你裙说『就是它』——她故事的起点不在光鲜的名牌人生，而在早年那件旧裙里"
+}

@@ -1,0 +1,87 @@
+{
+  "chapter": "ch06",
+  "text_file": "text/ch06_chapter_6.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "面试次日清晨，Jo 在 Harlesden 醒来刷收件箱：关于黄裙子批次样稿的应聘文案（截止前 3 分钟发出）仍无回复，她心一沉。",
+      "anchor": "The day after the job interview, Jo snaps awake at dawn in Harlesden",
+      "byte_offset": 19,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Jo 开着 Uncle Sam 永久借她的破旧 Renault 一路向西驶出伦敦进入 Wiltshire 乡间，看到 Bobcombe 村路牌后脉搏加速，最终急刹车停在必是 Rushwood 的大门前——拱形铁门两侧石猫头鹰、挂锁锁死。",
+      "anchor": "Is that …? She brakes abruptly, then steers towards what must be, surely, Rushwood.",
+      "byte_offset": 2120,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Jo 凭从 ramblers Reddit 论坛链接打印的庄园地图，走到东缘铁丝网上剪开的豁口，弯腰钻进荒废的庄园。",
+      "anchor": "she ducks, steps onto a crunchy mattress of needles and red berries",
+      "byte_offset": 8873,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "（倒叙）去年九月在自家 Suffolk 废谷仓里，Jo 从饼干铁盒底翻出最旧的一张剪报——Wiltshire Gazette 1969 年 7 月 28 日《Manor House Party Horror》，报道 Caswell 家在 Rushwood 办夏日派对时一名身份不明客人死亡；事后视频通话中 Uncle Sam 证实 Mimi Mott 就是 Granny 断绝往来的姐姐 Miriam（取了母亲的娘家姓 Mott），并警告她别再挖。",
+      "anchor": "she found the oldest newspaper clipping: the Wiltshire Gazette, 28 July 1969",
+      "byte_offset": 5300,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Jo 步行探园时被灌木丛里的「裸男」吓得叫出声，随即发现是常春藤缠绕的带角雕像；她在清澈见底的 chalk-stream 河边流连，随后一片林间空地让她第一次看清整座废宅。",
+      "anchor": "a naked man in the undergrowth makes her yelp before she realizes her mistake",
+      "byte_offset": 9649,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Jo 在残存温室（orangery）里用靴尖蹭开腐叶土，露出黑白棋盘格地砖，随即放大手机里拍的剪报照片：当年一名匿名宾客说自己在露台看烟花时听到尖叫，“Thank God I wasn’t in the orangery”，她头皮发麻。",
+      "anchor": "revealing a black-and-white chequerboard tile floor",
+      "byte_offset": 11990,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "未知号码来电被语音信箱接住：Woody 留言说 Mimi 很喜欢拍卖文案（“Are you sure you weren’t there too?”），叫她今天继续开工；Jo 掩住嘴，如释重负之后紧跟着一阵恐惧。",
+      "anchor": "Mimi says, “Are you sure you weren’t there too?”",
+      "byte_offset": 12737,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "手机再次震动响起，Jo 一看来电人姓名就一缩——现在不行、不能在 Rushwood 接这通电话——她顾不上接听，循原路匆匆往回走。",
+      "anchor": "Seeing the caller’s name, Jo flinches.",
+      "byte_offset": 13640,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Mimi Mott 就是 Miriam——Jo 的 Granny 断绝往来多年的亲姐姐，多年前的她取了两人母亲的娘家姓 Mott。",
+    "Uncle Sam 是 Jo 的舅舅（两年前移居澳洲），他的旧 Renault 长期借给 Jo；正是他在视频通话中证实 Mimi Mott＝Miriam，并劝 Jo 别再挖这段家事。",
+    "Woody 是 Jo 与 Mimi 拍卖项目之间的联系人：Jo 前晚把拍卖文案邮件发给他，本章由他留言反馈结果并通知今天继续。",
+    "Leni 是 Jo 已故的母亲，生前曾试着问起 Miriam，结果“didn’t go down too well”；Jo 九岁时父母遭遇摩托车事故，成为家里“前后”的分界。",
+    "Jo 的祖父母年轻时曾在英格兰西南某大宅做工时相识，但从不提 Rushwood 这个名字。",
+    "Callum 是 Jo 的前男友——她搬出他的住处后，才在自家 Suffolk 谷仓翻出了那只铁盒。",
+    "Caswell 家三十年代买下 Rushwood，并于 1969 年 hosting 那场出了人命的夏日派对。"
+  ],
+  "numbers_dates": [
+    "three minutes before the six p.m. deadline",
+    "best-before January 2010",
+    "dating back to the late seventies",
+    "the Wiltshire Gazette, 28 July 1969",
+    "bought by the Caswell family in the thirties",
+    "uninhabited since the late sixties",
+    "eighteenth-century origins",
+    "moved to Oz two years earlier",
+    "motorbike accident when she was nine",
+    "After seven years in the capital",
+    "After twenty minutes, she reaches a stony path",
+    "a good three hours from London",
+    "until the new year"
+  ],
+  "turning_point": "Woody 的语音留言恰在 Jo 站进 1969 年出事的 orangery 时抵达：Mimi 很满意文案、录用落定，却附上一句“Are you sure you weren’t there too?”——如释重负瞬间转为对这份工作意味着什么的恐惧（对应事实 7）。"
+}

@@ -1,0 +1,295 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch06 jo.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch06_chapter_6.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "She dresses quickly, shovels down a bowl of muesli with on-the-turn milk, then grabs the keys to her rust-bucket Renault",
+          "ok": true,
+          "pos": 660
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "A pair of enormous stone owls perch on the gateposts, either side of the arched wrought-iron gate, laced with bindweed, ",
+          "ok": true,
+          "pos": 2168
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Jo’s heart had kicked harder when, at the very bottom of the tin, folded inside an envelope, she found the oldest newspa",
+          "ok": true,
+          "pos": 5071
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Excited, Jo pressed harder. His answer knocked the air from her lungs: Mimi Mott was Miriam, yes, yes, that Miriam, the ",
+          "ok": true,
+          "pos": 6609
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She swipes through her phone, finds her snap of the Wiltshire Gazette cutting and zooms in: ‘One Rushwood party guest, w",
+          "ok": true,
+          "pos": 11758
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Hey, Jo. Woody here. Thanks for emailing over the auction copy last night. Just to let you know, Mimi says, “Are you su",
+          "ok": true,
+          "pos": 12290
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Overwhelmed, Jo covers her mouth with her hand, relief chased by a twist of fear about what getting the job might mean. ",
+          "ok": true,
+          "pos": 12484
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Seeing the caller’s name, Jo flinches. Not now. Not from Rushwood. She can’t take this call. Sped along by sparking pani",
+          "ok": true,
+          "pos": 13221
+        }
+      ],
+      "words": 38
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 103,
+        "关键词": 63,
+        "为什么这样写": 82,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.43,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 56,
+        "为什么这样写": 68,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.34,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 86,
+        "关键词": 39,
+        "为什么这样写": 74,
+        "读者视角提示": 75
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.25,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 40,
+        "为什么这样写": 76,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.33,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 45,
+        "为什么这样写": 65,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.39,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 43,
+        "为什么这样写": 75,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.36,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 41,
+        "为什么这样写": 83,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.3,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 41,
+        "为什么这样写": 70,
+        "读者视角提示": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.33,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "06. Jo",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2307,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "chapter": "ch05",
+  "text_file": "text/ch05_chapter_5.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Mimi 无视待剥的蚕豆，赶在天黑前照堆肥上捡来的杂志款型、用黄桌布当布料赶缝舞会连衣裙（章首）。",
+      "anchor": "Ignoring the pile of broad beans waiting to be podded, I raced dusk and sewed faster",
+      "byte_offset": 1122,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Mimi 提议与姐姐共用这条黄裙遭 Pamela 拒绝——Bramley 家根本没被邀请参加 Caswells 家的夏宴。",
+      "anchor": "‘No point dressing for a life that doesn’t exist, Miriam.’",
+      "byte_offset": 3416,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Alf 从园里进屋，Mimi 穿上裙子请他品评（Ta-dah），他心不在焉夸了一句便四处张望找 Pamela。",
+      "anchor": "‘Very nice,’ he said distractedly, glancing around for Pamela.",
+      "byte_offset": 7516,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "主宅方向传来急促犬吠，Mimi 拿着茶壶盖怔住，压低声音问 Alf 会不会是年轻 Caswells 回来避暑。",
+      "anchor": "I lowered my voice. ‘Alf, what if it’s them?’",
+      "byte_offset": 8847,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "一辆银色敞篷跑车驶近，Mimi 从紫杉树篱缺口望见乘客座上的女子：夹着香烟、赤脚搭在仪表板、丝巾加墨镜。",
+      "anchor": "A silver sports car, roof rolled down. A glimpse of a woman in the passenger seat",
+      "byte_offset": 12659,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Nancy 下车时迷你裙几乎遮不住内裤，Pamela 看得失声惊呼；Mimi 目击后猛然醒悟自己手缝的裙子老气、全家还困在 1950 年代。",
+      "anchor": "‘Good God. That skirt barely covers her underwear.’",
+      "byte_offset": 13603,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Celia 穿网球白装出来迎接，给女儿 Nancy 一个敷衍的拥抱，随即缠住 Lawrence 亲吻双颊、挽住手臂，把他占有性地领进屋。",
+      "anchor": "She gave her daughter a perfunctory hug, then wrapped herself around Lawrence",
+      "byte_offset": 14747,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Lawrence 进屋前回望树篱方向（分不清看的是谁），Mimi 回到厨房桌前抓起剪刀把过时的长裙剪成迷你裙，并在内缝用乳粉色线绣上姐妹俩的姓名缩写（章末）。",
+      "anchor": "I grabbed the scissors and chopped at the outdated dress, cutting it into a mini.",
+      "byte_offset": 15243,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "叙述者 Mimi 本名 Miriam Bramley，19 岁，裙内缝的缩写 M.B. 是她自己的；P.B. 是她姐姐 Pamela 的。",
+    "Pamela 是 Mimi 的姐姐，Alf 是她的双胞胎弟弟，姐弟俩比 Mimi 年长十六个月。",
+    "Pa 是 Caswell 家的首席园丁（head gardener），全家因此住进 Rushwood 的园丁小屋（已住两个月）；Ma 操持家务并信教。",
+    "Celia Caswell 是来自佛罗里达的美国女主人、Harold 之妻，七月要办盛大宴会；Lawrence 与 Nancy 是她的子女。",
+    "Lawrence Caswell 在牛津读数学（Doris 说他非常出色），妹妹 Nancy 更小，在伦敦读艺术学校。",
+    "Doris 是宅子的 housekeeper，绰号 Partridge，曾警告员工 Celia 很“particular”、喜欢员工“隐形”。",
+    "旧雇主 Lady Mellors（Northamptonshire 庄园）被培根三明治噎死后，遗产税迫使继承人急售庄园，Bramley 一家被欠九个月工资又无家可归，才来到 Rushwood。"
+  ],
+  "numbers_dates": [
+    "Lot 1",
+    "nineteen-year-old Mimi – née Miriam Bramley – July 1969",
+    "M.B., and her sister’s, P.B.",
+    "Rushwood, Wiltshire, England, 1969",
+    "It was still June",
+    "a 1940s guide to home-front vegetable-growing",
+    "the twins, sixteen months older than me",
+    "Instead, nineteen years old",
+    "leaving school at fourteen and the three of us by sixteen",
+    "still owed nine months’ wages",
+    "the Bobcombe church-hall dance wasn’t until October",
+    "inherited from Harold’s parents ten years ago",
+    "in the hinterland of their early forties",
+    "she lives or dies by one night in July",
+    "the seven-foot-deep yew hedge",
+    "three storeys high",
+    "Lawrence is at Oxford. Maths.",
+    "coffee, a boiled egg, two cigarettes",
+    "Our family was stuck in the 1950s"
+  ],
+  "turning_point": "银色跑车载着年轻 Caswells 兄妹到来——Mimi 从树篱缺口目睹 Nancy 的迷你裙与 Lawrence 本人，世界“从灰度炸成棱镜色”，随即抓起剪刀把自缝的老式长裙剪成迷你裙并在内缝绣上两人缩写（对应 facts 5、6、8）。"
+}

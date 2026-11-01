@@ -1,0 +1,295 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch05 mimi.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch05_chapter_5.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Lot 1: Yellow cotton dress, hand-sewn by nineteen-year-old Mimi – née Miriam Bramley – July 1969. Mimi’s initials, M.B.,",
+          "ok": true,
+          "pos": 11
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It was still June, and nothing terrible had happened. Only later would it feel as if I’d hacked at the fabric of our liv",
+          "ok": true,
+          "pos": 234
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "In our gloomy kitchen, the last brass stair rod of sunlight stretched across the table. Ignoring the pile of broad beans",
+          "ok": true,
+          "pos": 984
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Also, she pointed out, we had no need of such a frock since we weren’t invited to the Caswells’ summer party – not that ",
+          "ok": true,
+          "pos": 3058
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘Working hard on those broad beans, eh, Miriam?’ Alf strode through the back door, sweating, his sandy hair flattened by",
+          "ok": true,
+          "pos": 6846
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Awe-struck by Nancy’s glorious, ungodly mini, I suddenly knew lots of new things at once. My homemade dress was frumpy a",
+          "ok": true,
+          "pos": 13021
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Lawrence nudged Nancy and nodded in our direction. Nancy plucked the cigarette from her brother’s fingers and took a dra",
+          "ok": true,
+          "pos": 13800
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Back at the kitchen table, I grabbed the scissors and chopped at the outdated dress, cutting it into a mini. Then, to te",
+          "ok": true,
+          "pos": 14515
+        }
+      ],
+      "words": 44
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 13,
+        "为什么这样写": 78,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.49,
+        "关键词": 0.28,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 11,
+        "为什么这样写": 89,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.18,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 18,
+        "为什么这样写": 94,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.26,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 18,
+        "为什么这样写": 89,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.21,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 20,
+        "为什么这样写": 89,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.25,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 17,
+        "为什么这样写": 81,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.3,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 16,
+        "为什么这样写": 83,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.25,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 17,
+        "为什么这样写": 92,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.21,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.78
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Mimi",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2529,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
