@@ -43,7 +43,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「conspire」与「devised」挨在一起值得留意：血清不是「用」的，是「配制」出来的。一个动词把阴谋挪进实验室，冷却了整件事的温度——她面对的不是情敌，是配方。
 
-> **原句 4:** "There were flags everywhere, rippling in the breeze and—like the gigantic crab-claw sails attached to the towering masts—fashioned from bright red cloth, bearing the same symbol: a golden salamander twisting in a bed of flames."
+> **原句 4:** "When Talasyn exited the catamaran, she found herself in an unfamiliar hangar bay. There was a wolf coracle docked there as well, no doubt commandeered by another Sardovian. She listlessly followed Khaede up the ladder and out onto the bustling deck of a type of capital airship that she had never seen before."
+
+- **中文理解**：塔拉辛走下双体船，发现自己站在一个陌生的机库里。那儿也停着一艘狼形小艇，无疑是被另一个萨多维亚人征用的。她无精打采地跟着凯德爬上梯子，走到一艘她从未见过的巨型战舰的甲板上，甲上一片忙碌。
+
+- **关键词**：unfamiliar hangar bay · wolf coracle · ladder
+
+- **为什么这样写**：这段里她的动作全是「跟上、爬上、走出去」——没有一处是她自己决定的。三样东西依次给出：不认识的机库、眼熟的小艇、没见过的大船；前者说明她不知道自己在哪里，后两者说明这里的人把敌人留下的东西直接用上了。
+
+- **读者视角提示**：注意 listlessly（无精打采）这一个副词的位置——它出现在她「跟着」这个动作前，把整段的被动感先定好调子。
+
+> **原句 5:** "There were flags everywhere, rippling in the breeze and—like the gigantic crab-claw sails attached to the towering masts—fashioned from bright red cloth, bearing the same symbol: a golden salamander twisting in a bed of flames."
 
 - **中文理解**：这一段只给颜色和纹样：到处是旗，在风里起伏；像高桅上那几张巨大的蟹爪形帆一样，全用鲜红的布做成，印着同一个记号——一条在火焰中扭动的金色蝾螈。
 
@@ -53,7 +63,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：红色在这里不是喜庆色，是军色。同一种红铺满旗与帆，说明这支舰队的布料与工艺是统一配给的；国力不需要报数字，用颜色就写完了。
 
-> **原句 5:** "Perhaps he’d been expecting a warmer reunion; he undoubtedly deserved it for tirelessly working in the shadows for an entire year, brokering the much-needed alliances that would secure the Continent’s freedom from tyranny. But, in her current state, she couldn’t muster even the barest pretense of joy. There was a dead season screaming inside her."
+> **原句 6:** "Perhaps he’d been expecting a warmer reunion; he undoubtedly deserved it for tirelessly working in the shadows for an entire year, brokering the much-needed alliances that would secure the Continent’s freedom from tyranny. But, in her current state, she couldn’t muster even the barest pretense of joy. There was a dead season screaming inside her."
 
 - **中文理解**：重逢写得像一次失礼。对方显然在等一个更热的相认，而他也确实配得上——整整一年在暗处奔走，谈成那些让大陆摆脱暴政的同盟。可她此刻连最薄的一层喜悦都装不出来：她心里有一个死去的季节在尖叫。
 
@@ -63,7 +73,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「he undoubtedly deserved it」这半句：叙述者亲口承认他应得热情，却仍然不给他。读者被同一句话逼着同时做两件事——敬重这位功臣，又看见她的失能。
 
-> **原句 6:** "While part of Talasyn hoped that most of Kesath’s stormships had been reconfigured and were thus no longer in the equation, that hope was a mere candle to the fierce and blazing sun of her relief that the Deliverance had gone unscathed. She wouldn’t have been able to survive it had Alaric vanished forever, too."
+> **原句 7:** "“It might be easier than you think.” Bieshimma flashed a grin, which only served to mystify Talasyn further as she’d never seen such a thing on his face before. “The scouts we dispatched from this fleet have sent word. They saw five stormships vanish before their very eyes—along with the void ironclads.”"
+
+- **中文理解**：「这事也许比你想象的容易。」比希马笑了一下——塔拉辛更糊涂了，她从没在那张脸上见过这种表情。「我们从这个舰队派出去的斥候传回了消息。他们亲眼看着五艘风暴舰凭空消失——连带那些虚空铁甲舰一起。」
+
+- **关键词**：scouts dispatched · five stormships · vanish
+
+- **为什么这样写**：消息本身是坏的（五艘主力舰没了），可说话的人在笑；这段的张力就在于「她看不懂这个笑容」和「消息里的数字」被放在同一个句子里——先记表情，再记战果。
+
+- **读者视角提示**：vanish 这个词很关键：不是被击沉，是「在眼前消失」。这恰好对应她昨夜在马哈吉尔憩地做的那个动作，所以比希马才说「比你想象的容易」。
+
+> **原句 8:** "While part of Talasyn hoped that most of Kesath’s stormships had been reconfigured and were thus no longer in the equation, that hope was a mere candle to the fierce and blazing sun of her relief that the Deliverance had gone unscathed. She wouldn’t have been able to survive it had Alaric vanished forever, too."
 
 - **中文理解**：她有一部分希望凯萨斯的风暴舰多半已被改装、退出了这场算式；可这点希望在「拯救号毫发无伤」的庆幸面前，不过是一支蜡烛对一轮烈日。她承认：如果阿拉里克也永远消失，她撑不下来。
 
@@ -73,7 +93,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一句里有两个「hope」，却不是同一种东西：前一个属于战争，后一个属于婚姻。作者把它们塞进同一句里比大小，等于把秤交给读者。
 
-> **原句 7:** "“Come back,” she repeated, even though she knew Alaric wouldn’t, even though she knew that there was no changing what had happened and she would have to live with the weight of this until her last breath. She kept saying it, anyway—to him, to the Eversea. “Come back.”"
+> **原句 9:** "“The Amirante has one more task for you. You are to return to Nenavar—and come back to us with warships. Your grandmother has apparently refused to directly involve the Huktera, but you must convince her."
+
+- **中文理解**：「阿米兰特还有一件任务交给你。你要回内纳瓦伦去——然后带着战舰回来见我们。你祖母显然拒绝让胡克特拉直接参战，但你得去说服她。」
+
+- **关键词**：more task · return to Nenavar · convince
+
+- **为什么这样写**：三句话把一件难事拆成三个动词：回去、带回来、说服。全段没有一处提到她愿不愿意，也没提她刚刚才从哪边逃出来——命令的口吻从头到尾没有松动。
+
+- **读者视角提示**：这段紧接在比希马正式改称她「Your Grace」之后（不在本块引语内）——那个称呼的转变，才是他把「任务」说得这么硬的原因。引语在对白中途收住，内层引号依原文未闭合。
+
+> **原句 10:** "“Come back,” she repeated, even though she knew Alaric wouldn’t, even though she knew that there was no changing what had happened and she would have to live with the weight of this until her last breath. She kept saying it, anyway—to him, to the Eversea. “Come back.”"
 
 - **中文理解**：「回来。」她重复着，尽管她知道阿拉里克不会回来，尽管她知道已经发生的事改不了，这份重量她得一直背到最后一口气。她还是说，对他说，也对越海说：「回来。」
 
@@ -83,7 +113,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「Come back」在本块引语里出现两次，中间夹着「to him, to the Eversea」——听众被扩大到一整片海。祈祷的对象越空，越说明她已经无处可投。
 
-> **原句 8:** "She couldn’t bear to face Urduja Silim—her mother’s murderer—with a bowed head and pleas for aid. Not on the heels of betraying Alaric, which the Zahiya-lachis had been training her for all throughout this past year."
+> **原句 11:** "She couldn’t bear to face Urduja Silim—her mother’s murderer—with a bowed head and pleas for aid. Not on the heels of betraying Alaric, which the Zahiya-lachis had been training her for all throughout this past year."
 
 - **中文理解**：她没法低着头去见乌尔杜佳·西利姆——杀害她母亲的人——去求援兵；尤其是在刚刚背叛阿拉里克之后，而扎希亚-拉奇斯整整一年都在训练她做这件事。
 
@@ -93,7 +123,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「which the Zahiya-lachis had been training her for」这一句最冷：背叛被写成一门被教出来的技艺。她不是失手，是学成了——于是她随后改掉的那个航向，多少带一点自罚的味道。
 
-> **原句 9:** "One of the Dominion archipelago’s Severs had activated. Rather than the column as bright and molten as sunbeams that she’d been thinking of, plumes of violet magic wafted out from Aktamasok, the highest peak on the island of Vasiyas, beneath which Bakun lay sleeping, breathing out his song of rot."
+> **原句 12:** "One of the Dominion archipelago’s Severs had activated. Rather than the column as bright and molten as sunbeams that she’d been thinking of, plumes of violet magic wafted out from Aktamasok, the highest peak on the island of Vasiyas, beneath which Bakun lay sleeping, breathing out his song of rot."
 
 - **中文理解**：空气的颜色变了。内纳瓦伦群岛的一座界裂开启了，可涌出来的并不是她记忆里那种像日光一样明亮熔热的光柱，而是从瓦西亚斯岛最高峰阿克塔马索克飘出的紫色魔法烟柱——山下沉睡的巴昆正呼出他那首腐坏之歌。
 
@@ -103,7 +133,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「Bakun lay sleeping」既是拟人也是威胁：睡着的东西最危险，因为醒来只是时间问题。这一句同时替她后面的航向转变铺好了理由——她需要「时间」这件事变得可弯曲。
 
-> **原句 10:** "This was the conclusion that Talasyn drew after being put through the wringer. It was hard to tell if it would have made sense had she been any less heartsick, any less exhausted. This was yet another wild hope she clung to, with a resolve that tasted more like desperation, as she set course for Bakun’s lair."
+> **原句 13:** "This was the conclusion that Talasyn drew after being put through the wringer. It was hard to tell if it would have made sense had she been any less heartsick, any less exhausted. This was yet another wild hope she clung to, with a resolve that tasted more like desperation, as she set course for Bakun’s lair."
 
 - **中文理解**：这是她被反复折腾之后得出的结论；很难说，若她少几分心碎、少几分疲惫，这结论是否还讲得通。可她还是攥住这又一个疯狂的希望，带着一种尝起来更像绝望的决意，把航向定在巴昆的巢穴。
 

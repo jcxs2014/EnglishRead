@@ -1,0 +1,150 @@
+{
+  "chapter": "ch28",
+  "source": "text/ch28_chapter_twenty_eight.txt",
+  "char_total": 19593,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Alaric 在 Deliverance 舰桥听取各地暴动报告，判定这是声东击西，下令把风暴船、虚空铁甲舰及配属团派去守海岸。",
+      "quote": "“The whole thing is a distraction,” said Alaric. “They want our forces scattered. Send out all the stormships, the void ironclads, and their attached regiments to guard the coasts.”",
+      "start": 1729,
+      "end": 1910
+    },
+    {
+      "i": 2,
+      "summary": "助手 Nordaye 抱着一叠公文冲上舰桥，报告 Citadel 与平原遭轰炸、五艘风暴船受重创。",
+      "quote": "“Bombings—in the Citadel,” he wheezed, stopping in front of his liege. “The plains, too. Five stormships heavily damaged—”",
+      "start": 3355,
+      "end": 3477
+    },
+    {
+      "i": 3,
+      "summary": "Alaric 一想到妻子 Talasyn 所在的 Citadel 遭袭便不再权衡，当即命舰长改航 Citadel。",
+      "quote": "But his mind had already blanked at the mention of bombings where his wife was. He turned to the Deliverance’s captain who had been standing by waiting for instructions. “Set course for the Citadel.”",
+      "start": 3954,
+      "end": 4153
+    },
+    {
+      "i": 4,
+      "summary": "捡起 Alder Zawye 的谢函、意识到 Talasyn 从未向他转达该请求后，Alaric 再次改令航向 Mahagir’s Rest。",
+      "quote": "“I changed my mind,” Alaric snarled at the Deliverance’s captain. “Set course for Mahagir’s Rest.”",
+      "start": 6331,
+      "end": 6429
+    },
+    {
+      "i": 5,
+      "summary": "Talasyn 与 Khaede 换上两名阵亡女军团兵的盔甲，乘双体船混入 Kesath 在 Mahagir’s Rest 的基地。",
+      "quote": "The catamaran’s crew had snuck into the Shipsbane in the early hours and retrieved the bodies of two female legionnaires, all so that Talasyn and Khaede could slip through the enemy ranks during the Sardovians’ siege on Mahagir’s Rest.",
+      "start": 7690,
+      "end": 7925
+    },
+    {
+      "i": 6,
+      "summary": "两人循 Voidfell 的轰鸣找到中央石室，室内有十枚从 alindari 炮上拆下的虚空之心，悬在 Tempestroad 电流中。",
+      "quote": "In the center of the room were the void hearts that the Kesathese had pried from the alindari’s cannons—ten in all, sparkling aether crystals that had been cut, in the Nenavarene style, into the shape of stars.",
+      "start": 12019,
+      "end": 12229
+    },
+    {
+      "i": 7,
+      "summary": "Khaede 与 Talasyn 制伏室内六名 Enchanters，Talasyn 随后去追爬走的最后一名。",
+      "quote": "Once four of the Enchanters were lifeless at their feet, Talasyn left her friend to handle the wounded lone survivor who was attempting to crawl away.",
+      "start": 14764,
+      "end": 14914
+    },
+    {
+      "i": 8,
+      "summary": "Talasyn 把七枚幽灵球逐一投入 Voidfell，Nenavar 的魔法化开并与 Kesath 的法阵合流。",
+      "quote": "Once all traces of glass had vanished, the magic of Nenavar spilled out and integrated itself fully into the Kesathese stream.",
+      "start": 18823,
+      "end": 18949
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻",
+      "quote": "But he knew his wife too well. The compassion that lurked beneath her quick temper and sharp tongue.",
+      "start": 5913,
+      "end": 6013
+    },
+    {
+      "a": "Talasyn",
+      "b": "Khaede",
+      "relation": "同盟/战友",
+      "quote": "“Swear to me that, after this, the Sardovian Allfold will keep their word and spare my husband’s life.”",
+      "start": 17116,
+      "end": 17219
+    },
+    {
+      "a": "Alaric",
+      "b": "Nordaye",
+      "relation": "主从（君臣与近侍）",
+      "quote": "“Emperor Alaric!” Nordaye’s scrawny arms were laden down with a pile of correspondence that was dwindling in size as more and more of it was dislodged by his panicked pace",
+      "start": 3134,
+      "end": 3305
+    },
+    {
+      "a": "Alaric",
+      "b": "Valisa",
+      "relation": "母族/敌对",
+      "quote": "How would Alaric feel when he learned that his mother’s country was attacking his?",
+      "start": 10005,
+      "end": 10087
+    },
+    {
+      "a": "Alaric",
+      "b": "Gaheris",
+      "relation": "君臣/同盟",
+      "quote": "He had privately considered it overkill, but Gaheris had insisted that the Night Empire have this ace up their sleeve.",
+      "start": 3721,
+      "end": 3839
+    }
+  ],
+  "numbers": [
+    {
+      "value": "30 / 50（风暴船）",
+      "context": "Kesath 五十艘风暴船中有三十艘已改装为可用虚空魔法的炮舰。",
+      "quote": "Over the last several months, thirty vessels in Kesath’s fifty-strong stormship fleet had been gradually remodeled to incorporate void magic into their cannons.",
+      "start": 3560,
+      "end": 3720
+    },
+    {
+      "value": "a dozen times（约十二倍）",
+      "context": "地下装置的体量约为普通 aetherwave 收发器的十二倍。",
+      "quote": "The lightning originated from a device set into the floor that looked very much like an aetherwave transceiver, albeit a dozen times the usual size.",
+      "start": 12457,
+      "end": 12605
+    },
+    {
+      "value": "20 feet（二十英尺）",
+      "context": "第六名 Enchanter 站在二十英尺高的黑钢梯上观察 Voidfell 与 Tempestroad 的交互。",
+      "quote": "A sixth was up on a twenty-foot-tall black steel ladder, carefully observing the interplay of Voidfell and Tempestroad below him with knitted brow.",
+      "start": 13320,
+      "end": 13467
+    },
+    {
+      "value": "7（七枚幽灵球）",
+      "context": "Talasyn 一行携七枚幽灵球，投出前六枚后她在最后一枚上停手。",
+      "quote": "But, as she prepared to throw the last of the seven spheres, something made her pause.",
+      "start": 16271,
+      "end": 16357
+    },
+    {
+      "value": "3/4（四分之三）",
+      "context": "Mahagir’s Rest 全岛约四分之三是未开发的灌木荒地。",
+      "quote": "From the air, about three-quarters of Mahagir’s Rest was a riot of undeveloped scrubland.",
+      "start": 8315,
+      "end": 8404
+    },
+    {
+      "value": "5（五名 Enchanter）",
+      "context": "装置旁聚着五名 Enchanter，另有第六名在梯上。",
+      "quote": "There were five Enchanters gathered around the device, industriously puttering over levers and dials.",
+      "start": 13218,
+      "end": 13319
+    }
+  ],
+  "notes": "标题重复：第1行与第12行均为 “Chapter Twenty-Eight”，正文前有大量空行残留（第2–11行、第14行等）。原文含弯引号 “ ” 与弯撇号 ’，引语按原样保留。Zawye 信件的三行引文各自独立成段，故未跨段取引。本章有战斗场面，摘要只记事实，不复述暴力细节。"
+}

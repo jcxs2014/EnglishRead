@@ -1,0 +1,150 @@
+{
+  "chapter": "ch30",
+  "source": "text/ch30_chapter_thirty.txt",
+  "char_total": 18523,
+  "events": [
+    {
+      "i": 1,
+      "summary": "萨多维安船员驾驶双体船冲出玛哈吉尔之栖的狂风，飞越永恒海前往与盟军舰队的会合点。",
+      "quote": "Before long the vessel had torn itself free of the gale and was speeding over the Eversea, toward its rendezvous point with the allied fleet.",
+      "start": 312,
+      "end": 453
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛一直待在甲板下，与凯德和船员利亚皮斯一起，只能从船身摇晃和急转中拼凑外界发生的事。",
+      "quote": "She only pieced together what was happening from the swaying and the sharp turns as she stayed below deck with Khaede and a crewman named Liapis",
+      "start": 495,
+      "end": 639
+    },
+    {
+      "i": 3,
+      "summary": "塔拉辛在心里反复承认自己犯下大错，背叛了阿拉里克。",
+      "quote": "I made a mistake. The thought took root in Talasyn’s chest and crept up her throat, rendering the act of speech unattainable, growing branches that fogged her mind.",
+      "start": 2200,
+      "end": 2364
+    },
+    {
+      "i": 4,
+      "summary": "塔拉辛走出双体船，进入一个陌生机库，看见一艘被萨多维安人征用的狼形小船。",
+      "quote": "When Talasyn exited the catamaran, she found herself in an unfamiliar hangar bay. There was a wolf coracle docked there as well, no doubt commandeered by another Sardovian.",
+      "start": 2798,
+      "end": 2970
+    },
+    {
+      "i": 5,
+      "summary": "比希马将军从人群中走出，向两人打招呼。",
+      "quote": "A round-faced man with an oil-black horseshoe mustache stepped out from the throng. He was dressed in a painstakingly mended Sardovian officer’s uniform.",
+      "start": 5065,
+      "end": 5218
+    },
+    {
+      "i": 6,
+      "summary": "比希马转述斥候消息：五艘风暴船连同虚空铁甲舰一起在眼前消失。",
+      "quote": "The scouts we dispatched from this fleet have sent word. They saw five stormships vanish before their very eyes—along with the void ironclads.",
+      "start": 6583,
+      "end": 6725
+    },
+    {
+      "i": 7,
+      "summary": "比希马传达阿米兰特的新命令：塔拉辛须回内纳瓦尔说服祖母派出战舰。",
+      "quote": "The Amirante has one more task for you. You are to return to Nenavar—and come back to us with warships.",
+      "start": 10272,
+      "end": 10375
+    },
+    {
+      "i": 8,
+      "summary": "塔拉辛放弃前往黎明群岛，改道飞向巴昆的巢穴。",
+      "quote": "This was yet another wild hope she clung to, with a resolve that tasted more like desperation, as she set course for Bakun’s lair.",
+      "start": 18392,
+      "end": 18522
+    }
+  ],
+  "relations": [
+    {
+      "a": "塔拉辛",
+      "b": "阿拉里克（奥西纳斯特）",
+      "relation": "夫妻，如今重新分处敌对阵营",
+      "quote": "They were firmly, irrevocably on opposite sides once more, but she needed him to make it through this war.",
+      "start": 9713,
+      "end": 9819
+    },
+    {
+      "a": "塔拉辛",
+      "b": "凯德",
+      "relation": "战友与挚友",
+      "quote": "Khaede dropped a hand on her shoulder and, in any other situation, it would have been a comforting weight.",
+      "start": 2525,
+      "end": 2631
+    },
+    {
+      "a": "比希马",
+      "b": "塔拉辛",
+      "relation": "上级军官对拉奇斯’卡（向她传达阿米兰特的命令）",
+      "quote": "“Your Grace,” Bieshimma said formally, in a way that made her feel strange and worse all at once.",
+      "start": 10082,
+      "end": 10179
+    },
+    {
+      "a": "塔拉辛",
+      "b": "乌尔杜贾·西利姆",
+      "relation": "外祖母与孙女（且为杀母仇人）",
+      "quote": "She couldn’t bear to face Urduja Silim—her mother’s murderer—with a bowed head and pleas for aid.",
+      "start": 13965,
+      "end": 14062
+    },
+    {
+      "a": "塔拉辛",
+      "b": "米兹乌利人",
+      "relation": "他们所效忠的龙女王继承人",
+      "quote": "To them, she was the Dragon Queen’s heir—not a traitor or a soldier, but a member of a foreign royal house.",
+      "start": 7336,
+      "end": 7443
+    }
+  ],
+  "numbers": [
+    {
+      "value": "five（五艘）",
+      "context": "消失的风暴船数量",
+      "quote": "They saw five stormships vanish before their very eyes—along with the void ironclads.",
+      "start": 6640,
+      "end": 6725
+    },
+    {
+      "value": "fifty（五十座）",
+      "context": "米兹乌利承诺提供的浮空堡垒数量，实到数量相同",
+      "quote": "Talasyn counted fifty floating fortresses, which was the exact number that Midzul had promised.",
+      "start": 7916,
+      "end": 8011
+    },
+    {
+      "value": "a month（一个月）",
+      "context": "乘飞船前往黎明群岛所需时间",
+      "quote": "It would take her a month to get to the Dawn Isles via airship.",
+      "start": 16516,
+      "end": 16579
+    },
+    {
+      "value": "seven（七轮）",
+      "context": "夜空中悬挂的月亮数量",
+      "quote": "Until the daylight was swallowed up by the purple dusk, until the seven moons hung in the sky.",
+      "start": 13613,
+      "end": 13707
+    },
+    {
+      "value": "an hour（一小时）",
+      "context": "双体船最终停下前又过了多久",
+      "quote": "It was a thought that refused to diminish even when the catamaran had glided to a stop an hour later.",
+      "start": 2383,
+      "end": 2484
+    },
+    {
+      "value": "a couple of hours（两三个小时）",
+      "context": "预计望见凯萨斯南岸的时间",
+      "quote": "I estimate that we should sight Kesath’s southern shore in a couple of hours or so.",
+      "start": 6057,
+      "end": 6140
+    }
+  ],
+  "notes": "语料问题：标题「Chapter Thirty」在文件开头重复出现两次（第1行与第12行）；标题之后及段落之间残留大量连续空行（第3–11行等），正文被过多空白分隔。"
+}

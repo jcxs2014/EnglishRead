@@ -35,7 +35,27 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她逃出的是建筑，不是战场。抬头这个动作本身就是坏消息：天空已经不属于她们。留意句首那个「又」字，它让读者的期待先落空一次。
 
-> **原句 3:** "There was no hope in fighting back, not when there was no room to maneuver, not when there were so many crossbows taking aim. There was a special kind of pain in being captured by Darius, Ideth Vela’s former second-in-command who had turned traitor in the final days of the war."
+> **原句 3:** "Talasyn dodged the first volley. Khaede was not as fortunate; one iron bolt grazed the side of her helmet with a sickening crack. Talasyn screamed her friend’s name and her heart froze in its beating."
+
+- **中文理解**：塔拉辛躲过了第一轮齐射。凯德没那么走运：一支铁弩箭擦过她的头盔侧面，发出一声让人反胃的裂响。塔拉辛尖叫着喊出朋友的名字，心跳当场停住。
+
+- **关键词**：sickening crack · grazed · heart froze
+
+- **为什么这样写**：这一段的镜头顺序是「她躲开 → 朋友没躲开 → 声音 → 她的反应」。作者没有写箭射中哪里，只给声音（sickening crack）和身体反应（heart froze），把凯德伤得多重这个问题先扣住，读者只能跟着她一起屏息。
+
+- **读者视角提示**：注意这一块里凯德一句话也没有，她的处境全部由塔拉辛的反应写出来。下一段（不在本块引语内）才交代她自己把头盔扯下来砸向射手——伤是浅的，可这几秒是实打实的。
+
+> **原句 4:** "More soldiers were swarming into the spire. Fourteen in all, barricading the archway through which Talasyn and Khaede had entered. Some had the two women in the sights of their crossbows; others had unsheathed their blades."
+
+- **中文理解**：更多士兵涌进尖塔。总共十四个人，把她们进来的那道拱门堵死。有人用弩瞄着这两个女人，有人已经拔出刀。
+
+- **关键词**：Fourteen in all · barricading · crossbows
+
+- **为什么这样写**：这段做的是清点：多少人（十四）、堵住哪里（拱门）、拿什么（弩与刀）。数字先给，退路后给，武器分两类——一条一句，中间没有形容词，读起来像把出口一个个划掉。
+
+- **读者视角提示**：注意被堵住的是「她们进来的那道拱门」。来的路和去的路是同一个口子，这一句在物理上就完成了合围。
+
+> **原句 5:** "There was no hope in fighting back, not when there was no room to maneuver, not when there were so many crossbows taking aim. There was a special kind of pain in being captured by Darius, Ideth Vela’s former second-in-command who had turned traitor in the final days of the war."
 
 - **中文理解**：反抗已经没有指望：没有腾挪的空间，又有那么多弩箭对着她们。而被达里乌斯抓住另有一种特别的痛——他曾是伊德丝·维拉的副手，在战争的最后日子里倒向了另一边。
 
@@ -45,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这里的痛不是怕死，是「被谁抓住」。作者没有写达里乌斯此刻的表情，只写他曾经是谁——过去越具体，他现在的沉默越重。
 
-> **原句 4:** "All the veins in Talasyn’s body turned to ice. Every single thing that she had been refusing to let herself feel came crashing down on her all at once as the soldiers parted to make way for Alaric, who strode into the spire with flashing silver eyes, brandishing his scythe of smoke and midnight."
+> **原句 6:** "All the veins in Talasyn’s body turned to ice. Every single thing that she had been refusing to let herself feel came crashing down on her all at once as the soldiers parted to make way for Alaric, who strode into the spire with flashing silver eyes, brandishing his scythe of smoke and midnight."
 
 - **中文理解**：塔拉辛全身的血管都结了冰。她一路压着不肯让自己感觉的东西，在士兵向两边分开、为阿拉里克让路的那一瞬间全部塌下来；他银色的眼睛闪着光，手里提着那柄烟与午夜的镰刀。
 
@@ -55,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：留意「一直拒绝让自己感觉」这个说法：她路上不是没感觉，是在押着。押住的东西一松手，就是下一块那滴水的来处。
 
-> **原句 5:** "A droplet of water moving over moon-kissed skin caught her attention. She thought at first that it was the rain, which had tangled with the ends of Alaric’s black hair, but she soon realized that it was a lone tear, trickling from the corner of an eye that blazed with the starlight of aetherspace, streaming down the charcoal-etched line of his scar."
+> **原句 7:** "A droplet of water moving over moon-kissed skin caught her attention. She thought at first that it was the rain, which had tangled with the ends of Alaric’s black hair, but she soon realized that it was a lone tear, trickling from the corner of an eye that blazed with the starlight of aetherspace, streaming down the charcoal-etched line of his scar."
 
 - **中文理解**：一滴水从月光似的皮肤上滑过，抓住了她的注意。她起初以为那是雨，是雨缠在了阿拉里克黑发的末端；但她很快明白那是一滴单独的眼泪，从一只燃着以太空间星光的眼角淌出来，顺着那道炭笔一样刻下的疤往下流。
 
@@ -65,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：哭的人没有一句台词。注意那个误认：她之所以先想到雨，是因为她此刻不敢往「他在哭」这个方向想。
 
-> **原句 6:** "Before anyone else could react to Talasyn’s unmasking, a shiver ran through the scythe in Alaric’s grasp. It lost its form and unfolded outward, like a bottle of ink exploding. And then its waves roared throughout the interior of the spire, slamming into Darius and his men."
+> **原句 8:** "Before anyone else could react to Talasyn’s unmasking, a shiver ran through the scythe in Alaric’s grasp. It lost its form and unfolded outward, like a bottle of ink exploding. And then its waves roared throughout the interior of the spire, slamming into Darius and his men."
 
 - **中文理解**：还没等任何人对她被揭面作出反应，阿拉里克手里的镰刀先抖了一下。它失去形状，向外翻卷开来，像一瓶墨水炸开；接着那些波涌遍塔楼内部，砸向达里乌斯和他的人。
 
@@ -75,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：留意「失去形状」：这柄镰刀一直有确定的轮廓。形状没了，意味着握着它的那个人也不在形状里了。这一击没有方向，所以砸中的是自己人。
 
-> **原句 7:** "But he didn’t. He turned around and walked away—walked back out into the raging storm—leaving the bodies of his troops scattered through the spire. Leaving her and Khaede to their escape."
+> **原句 9:** "But he didn’t. He turned around and walked away—walked back out into the raging storm—leaving the bodies of his troops scattered through the spire. Leaving her and Khaede to their escape."
 
 - **中文理解**：但他没有。他转过身，走开了，走回那场暴风雨里，把自己部下的尸体留在塔楼中，把她和凯德留给她们的逃跑。
 

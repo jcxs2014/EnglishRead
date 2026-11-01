@@ -25,7 +25,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「It would all be over soon」是一句谁都不必负责的安慰，说的人不需要证据。读完本章再回看这句，它所指的「结束」与舰上众人以为的「结束」并不是同一件事。
 
-> **原句 2:** "But his mind had already blanked at the mention of bombings where his wife was. He turned to the Deliverance’s captain who had been standing by waiting for instructions. “Set course for the Citadel.”"
+> **原句 2:** "“Emperor Alaric!” Nordaye’s scrawny arms were laden down with a pile of correspondence that was dwindling in size as more and more of it was dislodged by his panicked pace, sheets of vellum scattering all over the floor. “Bombings—in the Citadel,” he wheezed, stopping in front of his liege. “The plains, too. Five stormships heavily damaged—”"
+
+- **中文理解**：「夜帝陛下！」诺尔达耶两条细胳膊抱着一摞公文，他慌乱的脚步把那些纸一路颠得越来越少，羊皮信纸散了一地。「城塞被炸了，」他喘着说，站到君主面前。「平原也是。五艘风暴舰受重创——」
+
+- **关键词**：laden down · Bombings · heavily damaged
+
+- **为什么这样写**：这一段的信息全是边跑边掉的：公文在掉、句子被喘气切断、最后一句连话都没说完（dash 收尾）。三句里有三样东西在往下掉——纸、他的镇定、句子本身。
+
+- **读者视角提示**：注意先给的是「城塞被炸」，然后才是「五艘风暴舰受重创」。前者是他的软肋，后者是帝国的损失；而这个顺序就是阿拉里克接下来所有决定的依据。
+
+> **原句 3:** "But his mind had already blanked at the mention of bombings where his wife was. He turned to the Deliverance’s captain who had been standing by waiting for instructions. “Set course for the Citadel.”"
 
 - **中文理解**：战报里刚出现「他妻子所在的地方也挨了炸」这一句，他脑子里那套还在运转的部署就空了。他转向一直候命的舰长，下令改航城塞。
 
@@ -35,7 +45,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：他给出的理由是城塞被炸，真正驱动他的是那个定语从句。留意它的位置：它不修饰轰炸，只交代地点，却把前面整段关于海岸与内陆的权衡变成了废纸。
 
-> **原句 3:** "Talasyn had spoken to Zawye during the banquet. She had promised to get Alaric to look into the welfare of the man’s daughter, who was stationed on Mahagir’s Rest. But she hadn’t brought it up to Alaric at all."
+> **原句 4:** "Talasyn had spoken to Zawye during the banquet. She had promised to get Alaric to look into the welfare of the man’s daughter, who was stationed on Mahagir’s Rest. But she hadn’t brought it up to Alaric at all."
 
 - **中文理解**：宴会上塔拉辛和扎维耶说过话，她答应让阿拉里克去过问那位参事女儿的境况，姑娘就驻在马哈吉尔憩地；可她一个字也没向阿拉里克提。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意这个地名的出现方式：它不是战报里的坐标，而是一个父亲托人打听女儿下落时留下的住址。记住这一点：这个地名此刻还只是一个父亲留下的地址，而叙述者已经把它摆到了阿拉里克眼前。
 
-> **原句 4:** "But he knew his wife too well. The compassion that lurked beneath her quick temper and sharp tongue. A father’s concern for his daughter, when she herself had longed to find her family all her life. It would have been foremost on Talasyn’s mind and she would have brought it up to Alaric the very second they were alone."
+> **原句 5:** "But he knew his wife too well. The compassion that lurked beneath her quick temper and sharp tongue. A father’s concern for his daughter, when she herself had longed to find her family all her life. It would have been foremost on Talasyn’s mind and she would have brought it up to Alaric the very second they were alone."
 
 - **中文理解**：他太了解自己的妻子：急脾气和利嘴底下藏着软心肠；一个父亲挂念女儿，而她自己一辈子都在找家人。这样的事必定压在她心头，只要两人单独相处，她一定会开口。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一段由爱意推出指控，杀伤力全在被省掉的那个「所以」。注意他手里握着的其实不是证据，是一个丈夫对妻子的了解；这种证据无法出示，也无法反驳。
 
-> **原句 5:** "It was incredible, what the human mind could make space for in the rightness of things as long as it wore the correct uniform. It didn’t matter that the Shadowforged didn’t usually carry physical swords into battle—or leather packs slung over their shoulders."
+> **原句 6:** "It was incredible, what the human mind could make space for in the rightness of things as long as it wore the correct uniform. It didn’t matter that the Shadowforged didn’t usually carry physical swords into battle—or leather packs slung over their shoulders."
 
 - **中文理解**：人脑能给「穿对了制服」这件事腾出多大的地方，简直难以想象。影铸军团平时并不带实体刀剑上阵，也不背皮包，可这些都不重要。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这句解释的不是两个女人运气好，而是帝国自身怎样运转：制服一穿，疑问自动让路。守军并非失职，他们只是照规矩办事，而规矩在这里恰好是漏洞。
 
-> **原句 6:** "The Night Empire’s Enchanters had managed to multiply their limited Voidfell stores by riding on the Tempestroad’s ability to travel through aetherspace over great distances. Storm magic could relay one voice to scores of transceivers on the same frequency; now it was being used to transmit the energy in the ten void hearts to the hundreds of aether crystals distributed throughout the ironclad fleet."
+> **原句 7:** "The Night Empire’s Enchanters had managed to multiply their limited Voidfell stores by riding on the Tempestroad’s ability to travel through aetherspace over great distances. Storm magic could relay one voice to scores of transceivers on the same frequency; now it was being used to transmit the energy in the ten void hearts to the hundreds of aether crystals distributed throughout the ironclad fleet."
 
 - **中文理解**：帝国的附魔师把有限的虚空坠焰存量放大了：借风暴道跨越以太空间远距离传送的本事，原本只用来把一个人的声音送到同频的几十台收发器，如今改成把十颗虚空之心里的能量送进整支铁甲舰队的数百块以太晶体。
 
@@ -75,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这段读起来像工程说明，但它给出的是本章暴力的乘数：要破坏的不是十颗宝石，是靠它们供能的整支舰队。记住这个十比数百的比例，本章收尾时那句「永远漂流」才有重量。
 
-> **原句 7:** "It wasn’t a battle, what happened next. That would have implied that the opponents stood a chance. Aside from being caught unawares, no Continental Enchanter had any significant experience in active combat, and—what was more—Khaede lashed out with a ferocity that even Talasyn would have been hard-pressed to counter, had it turned on her."
+> **原句 8:** "It wasn’t a battle, what happened next. That would have implied that the opponents stood a chance. Aside from being caught unawares, no Continental Enchanter had any significant experience in active combat, and—what was more—Khaede lashed out with a ferocity that even Talasyn would have been hard-pressed to counter, had it turned on her."
 
 - **中文理解**：接下来发生的事不能叫战斗——那会意味着对手还有机会。除了被打了个措手不及，大陆的附魔师根本没有实战经验；更要紧的是凯德下手之狠，连塔拉辛都未必招架得住。
 
@@ -85,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：叙述者没有给这场屠杀留退路，却也没有谴责——它只冷静地说明对手没有资格被称作敌人。判断被交回读者手里：这算战场，还是处决？
 
-> **原句 8:** "“Promise me,” Talasyn said as calmly as she could manage even as she also raised her voice to be heard over the din of magic. “Swear to me that, after this, the Sardovian Allfold will keep their word and spare my husband’s life.”"
+> **原句 9:** "“Promise me,” Talasyn said as calmly as she could manage even as she also raised her voice to be heard over the din of magic. “Swear to me that, after this, the Sardovian Allfold will keep their word and spare my husband’s life.”"
 
 - **中文理解**：在魔法的轰鸣里她提高声音，尽量平静地要凯德许诺：这一仗之后，全盟要守约，饶她丈夫一命。
 
@@ -95,7 +105,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这句话把她从「自己人」挪到了「谈判对手」的位置：她在替敌方要价，而且知道对方会听出不信任。她要保的是丈夫的命，不是帝国的舰队——这两件事在同一句话里被分开，代价留到后面结算。
 
-> **原句 9:** "It appeared to fall in slow motion, although in reality it must have happened in the blink of an eye. Perhaps it was the weight of her choice that dragged down time itself. The glass caught the Voidfell’s glow, sending shards of amethyst throughout the shadowed air, and then it sank into the lightning field, where it joined its fellows in their steady splintering."
+> **原句 10:** "It appeared to fall in slow motion, although in reality it must have happened in the blink of an eye. Perhaps it was the weight of her choice that dragged down time itself. The glass caught the Voidfell’s glow, sending shards of amethyst throughout the shadowed air, and then it sank into the lightning field, where it joined its fellows in their steady splintering."
 
 - **中文理解**：那颗球落下去像是慢动作，实际上只在一眨眼之间。也许是这个选择的重量把时间本身拖慢了。玻璃接住虚空坠焰的光，把紫晶色的碎片撒进昏暗的空气，然后沉进闪电场里，和前面几颗一起慢慢裂开。
 
@@ -105,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：留意「joined its fellows」这个说法：它把毁灭写成归队，好像那颗球只是回到了该在的位置。真正的账要到下一段才结，而这一段故意只写美——这种美本身就是压力。
 
-> **原句 10:** "Talasyn’s vision filled with stormy radiance as the inside of her head filled with horror at what she’d done—the mental images, vivid in their accusation, of all those Night Empire ships and their crew sailing toward the enemy as a new war dawned, only to be brutally yanked out of the material world and into weightless nothing, lost, doomed to wander forever"
+> **原句 11:** "Talasyn’s vision filled with stormy radiance as the inside of her head filled with horror at what she’d done—the mental images, vivid in their accusation, of all those Night Empire ships and their crew sailing toward the enemy as a new war dawned, only to be brutally yanked out of the material world and into weightless nothing, lost, doomed to wander forever"
 
 - **中文理解**：风暴的光塞满她的视野，脑子里塞满的是她刚做过的事：那些夜帝国的舰船和船员正驶向敌阵，新的战争刚刚开始，就被硬生生拽出物质世界，扔进没有重量的虚无，从此失散，注定永远漂流。
 

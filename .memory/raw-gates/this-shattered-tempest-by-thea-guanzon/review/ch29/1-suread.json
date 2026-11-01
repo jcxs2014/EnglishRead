@@ -1,0 +1,128 @@
+{
+  "chapter": "ch29",
+  "source": "text/ch29_chapter_twenty_nine.txt",
+  "char_total": 12343,
+  "events": [
+    {
+      "i": 1,
+      "summary": "塔拉辛确认 Dominion 装置已经生效，进入密室的士兵发现附魔师全部死亡。",
+      "quote": "His mouth snapped shut and he went pale as he realized that they were all dead.",
+      "start": 1175,
+      "end": 1254
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛与凯德冲出 Voidfell 密室，朝西门尖塔的接应点奔逃，士兵随后追赶。",
+      "quote": "They bolted out of the Voidfell chamber and headed in that general direction while the soldiers gave chase.",
+      "start": 1404,
+      "end": 1511
+    },
+    {
+      "i": 3,
+      "summary": "塔拉辛在露天通道上抬头，看见夜帝国风暴舰 Deliverance 正悬在堡垒上空。",
+      "quote": "Talasyn’s pace faltered as rain spattered her lashes and she looked up—looked right at the underbelly of a Night Empire stormship.",
+      "start": 2027,
+      "end": 2157
+    },
+    {
+      "i": 4,
+      "summary": "西门尖塔内弩箭齐射，一支铁弩箭擦过凯德头盔侧面，她受了浅伤仍继续战斗。",
+      "quote": "Khaede was not as fortunate; one iron bolt grazed the side of her helmet with a sickening crack.",
+      "start": 3319,
+      "end": 3415
+    },
+    {
+      "i": 5,
+      "summary": "接应的双体船没有出现，十四名士兵封住尖塔拱门，两人被堵在塔内。",
+      "quote": "More soldiers were swarming into the spire. Fourteen in all, barricading the archway through which Talasyn and Khaede had entered.",
+      "start": 5871,
+      "end": 6001
+    },
+    {
+      "i": 6,
+      "summary": "达瑞斯准将认出凯德，下令把塔拉辛与凯德铐起并压跪在地。",
+      "quote": "Darius nodded to his men and several rushed forward to cuff Talasyn and Khaede, forcing them to their knees.",
+      "start": 6714,
+      "end": 6822
+    },
+    {
+      "i": 7,
+      "summary": "塔拉辛的头盔被强行摘掉，她与阿拉里克对视，看见他脸上一滴泪沿疤痕流下。",
+      "quote": "She thought at first that it was the rain, which had tangled with the ends of Alaric’s black hair, but she soon realized that it was a lone tear",
+      "start": 9944,
+      "end": 10088
+    },
+    {
+      "i": 8,
+      "summary": "阿拉里克失控释放 Shadowgate，杀死达瑞斯与全部士兵、解开两人束缚，随后独自转身走进暴风雨。",
+      "quote": "He turned around and walked away—walked back out into the raging storm—leaving the bodies of his troops scattered through the spire.",
+      "start": 12170,
+      "end": 12302
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻（塔拉辛已嫁阿拉里克，此刻被他解救）",
+      "quote": "She stared at her husband as Darius and all the other Kesathese soldiers died",
+      "start": 11076,
+      "end": 11153
+    },
+    {
+      "a": "Khaede",
+      "b": "Talasyn",
+      "relation": "战友／密友（一同潜入、并肩突围）",
+      "quote": "Talasyn screamed her friend’s name and her heart froze in its beating.",
+      "start": 3416,
+      "end": 3486
+    },
+    {
+      "a": "Darius",
+      "b": "Talasyn",
+      "relation": "前上级变 captor（曾收留提携她，如今将她上铐）",
+      "quote": "There was a special kind of pain in being captured by Darius, Ideth Vela’s former second-in-command who had turned traitor in the final days of the war.",
+      "start": 6951,
+      "end": 7103
+    },
+    {
+      "a": "Darius",
+      "b": "Alaric",
+      "relation": "下属与君主（夜帝国军官向其禀报并听令）",
+      "quote": "“Her real name is Khaede, Your Majesty,” Darius hastily corrected.",
+      "start": 8181,
+      "end": 8247
+    }
+  ],
+  "numbers": [
+    {
+      "value": "14",
+      "context": "封住尖塔拱门的士兵人数",
+      "quote": "More soldiers were swarming into the spire. Fourteen in all, barricading the archway through which Talasyn and Khaede had entered.",
+      "start": 5871,
+      "end": 6001
+    },
+    {
+      "value": "3",
+      "context": "按住塔拉辛的士兵人数",
+      "quote": "Her hands were bound behind her back and there were three soldiers holding her down, their grips like iron.",
+      "start": 8688,
+      "end": 8795
+    },
+    {
+      "value": "2",
+      "context": "被困的两名女子（塔拉辛与凯德）",
+      "quote": "Some had the two women in the sights of their crossbows; others had unsheathed their blades.",
+      "start": 6002,
+      "end": 6094
+    },
+    {
+      "value": "1（once before）",
+      "context": "阿拉里克此前失控的次数（在 Silklands）",
+      "quote": "She had only seen Alaric lose control like this once before, in the Silklands",
+      "start": 11266,
+      "end": 11343
+    }
+  ],
+  "notes": "原文标题“Chapter Twenty-Nine”在第 1 行与第 12 行重复出现，其间为 10 行连续空行（第 2–11 行），第 13–14 行另有空行残留；正文自第 15 行起。原文使用弯引号与弯撇号（如“’”““””），引用片段已原样保留。本章有战斗与死亡场面，摘要只记事实、未复述细节。"
+}
