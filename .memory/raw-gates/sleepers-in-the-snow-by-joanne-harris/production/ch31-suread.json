@@ -1,0 +1,43 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch31",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch31_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "48 小时暴风雪，雷声比任何听过的都响，闪电炫目，雪没过客厅窗户",
+   "anchor": "Big snowstorm, lasting 48 hours. Thunder louder than I’ve ever heard.",
+   "start": 45,
+   "end": 114
+  },
+  {
+   "fact": "他自问：我的故事是什么？我现在在哪里？我会追逐闪电吗",
+   "anchor": "But what is my story? Where am I now? And will I chase the lightning?",
+   "start": 269,
+   "end": 338
+  },
+  {
+   "fact": "噩梦回归：天花板湿斑在梦里长成巨物，吞掉整栋房子，把他拖进充满树根与通道的黑暗",
+   "anchor": "Worst of all, the dreams were back. Bad dreams of the damp patch of the bedroom ceiling now grown enormous, engulfing the house",
+   "start": 1228,
+   "end": 1355
+  },
+  {
+   "fact": "梦里 Arthur 与 Caroline 在雪里互相追逐",
+   "anchor": "Dreams of Arthur and Caroline, chasing each other in the snow.",
+   "start": 1429,
+   "end": 1491
+  },
+  {
+   "fact": "梦里电塔骨骼嶙峋、以钢铁之腿大步行走，Rombold 与 Wade 以闪电为盾相击",
+   "anchor": "the pylon, skeletal; striding the moor on legs of steel; and of the old gods, Rombold and Wade, clashing shields of lightning.",
+   "start": 1506,
+   "end": 1632
+  },
+  {
+   "fact": "他梦见 Caroline，醒来时唇边是 Wilde 的诗句，带着玫瑰的香气",
+   "anchor": "and awoke with the scent of roses and the words of Wilde’s poem on his lips",
+   "start": 1864,
+   "end": 1939
+  }
+ ]
+}
