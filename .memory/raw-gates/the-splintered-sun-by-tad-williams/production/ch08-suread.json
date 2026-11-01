@@ -1,0 +1,61 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch08",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch08_8_a_long_way_home.txt",
+ "facts": [
+  {
+   "fact": "Vedra 在两周内第二次于陌生之地醒来：这次是 Knockbeg 大厅的硬石地，一圈人低头看她，没人伸手扶。",
+   "anchor": "For the second time in a fortnight, Vedra woke up",
+   "start": 25,
+   "end": 74
+  },
+  {
+   "fact": "Lady Bellicent 冷冷开口，说她“还没死”，随即追问她占卜时看见了什么。",
+   "anchor": "the cold voice of Lady Bellicent",
+   "start": 351,
+   "end": 383
+  },
+  {
+   "fact": "Vedra 决定不说出那个火光与血的幻象，只答“记不得了”；Bellicent 骂她 all promise, no porridge。",
+   "anchor": "I cannot remember, my lady.",
+   "start": 2005,
+   "end": 2032
+  },
+  {
+   "fact": "卫兵带 Daley 进来前已搜过衣服，只有一段绳子和几枚榛子壳；当众脱光再搜也一无所获。",
+   "anchor": "a piece of string and a few hazelnut shells",
+   "start": 6475,
+   "end": 6518
+  },
+  {
+   "fact": "Bellicent 拒付报酬、威胁抽鞭子，命管家把两个孩子送到大门；管家警告他们别逗留，否则就从客人变成闯入者。",
+   "anchor": "you will not be receiving a single copper",
+   "start": 7067,
+   "end": 7108
+  },
+  {
+   "fact": "Daley 在大门外的草坡上弯腰捡了东西，回仓库后才摊开手：一枚金蛇衔大红宝石的戒指，他以为是母亲的。",
+   "anchor": "glinted like a smoldering ember",
+   "start": 13459,
+   "end": 13490
+  },
+  {
+   "fact": "次日清晨两人去市场打探，Vedra 在鱼贩 Nula 摊后的阴影里看见 Knockbeg 那个尖脸管事，随后两名戴冬青徽记的卫兵来问他话。",
+   "anchor": "It was the pinch-faced steward from Knockbeg.",
+   "start": 17967,
+   "end": 18012
+  },
+  {
+   "fact": "脚步声到楼下，两人从窗口翻上屋顶，追了近一个钟头，才在 River Gate 一带的密集屋顶间甩掉追兵。",
+   "anchor": "The chase went on for the best part of an hour.",
+   "start": 27371,
+   "end": 27418
+  },
+  {
+   "fact": "两人过 Temple Bridge 到 Dog Alley 投奔 Mistress Pegeen；Vedra 谎称 Daley 是弟弟，Pegeen 答应收留到三日后她出发去 Crannhyr 朝圣。",
+   "anchor": "Three days until we leave.",
+   "start": 36101,
+   "end": 36127
+  }
+ ]
+}
