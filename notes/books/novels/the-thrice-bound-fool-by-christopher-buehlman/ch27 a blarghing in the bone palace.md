@@ -44,7 +44,7 @@ modified: "2026-11-01"
 > **原句 5:** "But one feature of the Bone Palace that bears mention was a pair of giant hands in white stone by the one part of the stadium that was open. This was the view east. These hands were open, palms east, the way your own hands would look if you held them up making a triangle of the two thumbs and pointer fingers."
 
 **中文理解**：但骨宫有一处必须提：球场唯一的开放口旁边，立着一对白石巨手。那是朝东的视野。这两只手张开、掌心向东——就像你举起双手、用两个拇指和食指搭出一个三角时那样。
-**关键词**：a pair of giant hands / the one part that was open / palms east / a triangle of the two thumbs and pointer fingers
+**关键词**：a pair of giant hands / the one part that was open / palms east / thumbs and pointer fingers
 **为什么这样写**：建筑的伏笔用「手势」埋设——三角取景器的姿势既是雕塑语言也是观察动作，掌心的朝向就是这座城的心事方向；「I didn't realize the significance until evening」的延迟揭示把伏笔的利息留到黄昏。
 **读者视角提示**：记住这对「掌心朝东的巨手」——它们指着的正是 Thralls 的方向，Part IV 的 Glassfall 会从那个三角框里进来。
 
