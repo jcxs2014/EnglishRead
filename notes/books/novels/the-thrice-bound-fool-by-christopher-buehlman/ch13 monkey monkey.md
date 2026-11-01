@@ -13,10 +13,10 @@ modified: "2026-11-01"
 - **叙事手法**：山的拟人化 taunt（「说不定你会遇见自己从对面来」）延续三体创伤；故事接龙的猜谜结构让民间故事自己走进对话；抢劫戏的生理细节（满嘴粪、喷溅、尖叫庆祝）维持 chapter 式的耻感幽默；「Fuck, I was thirsty」五词收章，把宏大冒险钉回喉干舌燥。
 
 ## 精读
-> **原句 1:** "Yes, my darlings, come back into our arms. We have brigands and snow owls and avalanches. We have strange gods and stranger devils. And who knows? You may even meet yourselves coming the other way."
+> **原句 1:** "Yes, my darlings, come back into our arms. We have brigands and snow owls and avalanches. We have strange gods and stranger devils. And who knows? You may even meet yourselves / coming the other way."
 
 **中文理解**：是啊，亲爱的们，回到我们怀里来吧。我们有强盗、有雪枭、有雪崩。我们有怪神和更怪的魔。谁知道呢？说不定你们还会遇见自己从对面走过来。
-**关键词**：come back into our arms / strange gods and stranger devils / meet yourselves coming the other way
+**关键词**：come back into our arms / strange gods and stranger devils / meet yourselves / coming the other way
 **为什么这样写**：山的诱惑用旅馆拉客的口吻写成—— inventory 式报货（强盗/雪枭/雪崩/神/魔），末句的「遇见自己」把三体分裂的创伤变成天气预报；这段 Taunt 出自 Kinch 自己的脑内，山的恶意其实是他不敢回头的自供。
 **读者视角提示**：「遇见自己」不只是三体余波——它与 ch04「GOES BACK」的那一对、与第三本书的下落共享同一个悬念池。
 
