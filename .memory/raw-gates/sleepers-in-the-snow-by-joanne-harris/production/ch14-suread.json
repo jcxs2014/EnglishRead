@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch14",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch14_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "本章开篇三连词顺序为 Walkers. Watchers. Witches.，与 ch12 日记里的 Witches. Watchers. Walkers. 顺序相反",
+   "anchor": "There are walkers on these moors. Walkers. Watchers. Witches.",
+   "start": 44,
+   "end": 105
+  },
+  {
+   "fact": "雾中人影显形为约 19-20 岁女孩，穿派克大衣与步行靴",
+   "anchor": "The ghostly figure resolved itself into the figure of a girl, aged maybe nineteen or twenty, wearing a parka and walking boots.",
+   "start": 358,
+   "end": 485
+  },
+  {
+   "fact": "男主盘问女孩为何出现在私人土地上",
+   "anchor": "This is private land",
+   "start": 819,
+   "end": 839
+  },
+  {
+   "fact": "女孩说他们都认识 Kirkhill，但并非住在这栋屋里",
+   "anchor": "we all knew Kirkhill",
+   "start": 1230,
+   "end": 1250
+  },
+  {
+   "fact": "女孩解释 pylon 一词源自希腊语，意为门或入口",
+   "anchor": "Pylon comes from the Greek, you know. It means a gate or doorway.",
+   "start": 1374,
+   "end": 1439
+  },
+  {
+   "fact": "搜救队发现 Kirkhill 原主人手牵手躺在距屋百码外的雪中",
+   "anchor": "A search party found them, hand in hand, a hundred yards away from the house.",
+   "start": 2415,
+   "end": 2492
+  },
+  {
+   "fact": "女孩说 Kirkhill 原名 Firefleet，源自一首歌",
+   "anchor": "The original name was Firefleet.",
+   "start": 2766,
+   "end": 2798
+  },
+  {
+   "fact": "男主最终告诉女孩可以叫他 Arthur",
+   "anchor": "You can call me Arthur.",
+   "start": 5437,
+   "end": 5460
+  }
+ ]
+}

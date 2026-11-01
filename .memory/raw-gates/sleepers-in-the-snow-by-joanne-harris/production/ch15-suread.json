@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch15",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch15_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "日记日期为 2024 年 10 月 17 日",
+   "anchor": "October 17th, 2024",
+   "start": 23,
+   "end": 41
+  },
+  {
+   "fact": "他把真名 Arthur 告诉了 Lucy，事后觉得像发出邀请",
+   "anchor": "he shouldn’t have told her that his name was Arthur",
+   "start": 313,
+   "end": 364
+  },
+  {
+   "fact": "邮差名叫 Greg，出自 Caroline 日记",
+   "anchor": "The postman’s name was Greg. Greg, from Caroline’s diaries.",
+   "start": 786,
+   "end": 845
+  },
+  {
+   "fact": "箱中网球从一只变成三只，多出两只崭新",
+   "anchor": "And there were two more beside it, both brand new",
+   "start": 1526,
+   "end": 1575
+  },
+  {
+   "fact": "Caroline 日记写圣诞节不宜 Greg 和 Lucy 来访，山上雪大、路断数周",
+   "anchor": "Christmas isn’t a good time for Greg and Lucy to visit",
+   "start": 1910,
+   "end": 1964
+  },
+  {
+   "fact": "厨房架上只剩三只杯子，其余全部消失",
+   "anchor": "only three mugs left on the shelf",
+   "start": 3272,
+   "end": 3305
+  },
+  {
+   "fact": "Arthur 日记末页写 Caroline 在电线里",
+   "anchor": "Caroline is in the wires",
+   "start": 4918,
+   "end": 4942
+  },
+  {
+   "fact": "他回屋锁门，坐在黑暗中听电塔的声音",
+   "anchor": "He went back into the house, and locked and bolted the door",
+   "start": 7575,
+   "end": 7634
+  }
+ ]
+}

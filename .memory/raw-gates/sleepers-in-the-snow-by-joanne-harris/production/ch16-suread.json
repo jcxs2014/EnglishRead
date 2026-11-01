@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch16",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch16_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "日记日期 2024-10-20，开头写天气转好、散步看见鹿",
+   "anchor": "Better weather this week. I saw some deer on my walk today.",
+   "start": 44,
+   "end": 103
+  },
+  {
+   "fact": "他放下笔想起 Arthur 的日记，「鹿是好动物」是句古怪的话",
+   "anchor": "He put down the pen, remembering Arthur’s journal. Deer are good animals. What an odd phrase.",
+   "start": 107,
+   "end": 200
+  },
+  {
+   "fact": "自 10-17（ch15）狗叫那日后没有新网球出现",
+   "anchor": "No more tennis balls had appeared since the day of the barking dog.",
+   "start": 348,
+   "end": 415
+  },
+  {
+   "fact": "他开车去 Lyke 买深红天鹅绒窗帘，像童年电影院座椅，把窗户完全遮住",
+   "anchor": "And he had driven into Lyke and bought some living-room curtains; they were a dark-red velvet, like the cinema seats of his childhood",
+   "start": 623,
+   "end": 756
+  },
+  {
+   "fact": "「Fire, fleet and candle-light」谐音梗，引出 Lucy 说过的小屋原名 Firefleet",
+   "anchor": "That was all he needed, he thought. Fire, fleet and candle-light. For a moment he wondered at the phrase, then he remembered what Lucy had said. The original name was Firefleet.",
+   "start": 942,
+   "end": 1119
+  },
+  {
+   "fact": "他弃 Kirkhill 取 Firefleet：前者冷、清教、像没有窗帘的房子",
+   "anchor": "And he liked it better than Kirkhill, which sounded cold and Protestant, the name of a house with no curtains.",
+   "start": 1223,
+   "end": 1333
+  },
+  {
+   "fact": "Caroline 死在雪里，却仍在书、日记、摆设与门厅靴子里在场",
+   "anchor": "He knew that wasn’t possible: Caroline was dead in the snow. And yet, she was present; in her books; her diaries; her ornaments; in her boots in the hallway.",
+   "start": 2273,
+   "end": 2430
+  },
+  {
+   "fact": "当晚他从头做蘑菇意饭、摆两副餐具；结尾对空椅说「生日快乐，Caroline……我记得」——她生日是 10-20（ch18 有载），而 Arthur 在 ch02 日记里忘了她的生日（「My birthday. He forgot again.」）",
+   "anchor": "That evening he cooked dinner from scratch. No more bachelor food, he thought; he needed to stay healthy. He made a mushroom risotto from a cookery book he found on the shelves, and set two places for dinner.",
+   "start": 2784,
+   "end": 2992
+  }
+ ]
+}
