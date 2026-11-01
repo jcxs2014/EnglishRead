@@ -19,7 +19,7 @@ modified: "2026-11-01"
 
 - **中文理解**：事情算是办成了——只算办成一部分。他嫌自己的风暴船来得太慢：若早一步，高和大部分拉奇斯-达洛就不会丢，那些本可以供出情报的俘虏也不会白白死掉。
 
-- **关键词**：to some extent · stormship had arrived sooner · most of the Lachis-dalo · valuable information
+- **关键词**：to some extent · valuable information
 
 - **为什么这样写**：第一句先给一个勉强及格的结论，破折号后立刻把「及格」削掉一截，句子的重量随即落到 he wished 上——他不庆祝成功，只清点亏空。第二句把「早到」设成唯一变量，好像时间本身可以被追责。第三句按人头数损失：高、大部分护卫、能开口的俘虏，最后一样最贵，因为它换来的不是人命而是情报。三句连起来是一份内部结算单，语气越冷静，越说明他在压着什么。
 
@@ -29,7 +29,7 @@ modified: "2026-11-01"
 
 - **中文理解**：直到那一刻他才明白，自己有多盼望跟她吵一架——盼望任何能透出她从前的火气的东西。他受得住她的怒气，受不住这种空白的冷淡。
 
-- **关键词**：hoping for a fight · former fire · take her anger · blank dispassion
+- **关键词**：former fire · blank dispassion
 
 - **为什么这样写**：这句把「希望她发火」写成一种自私的期待：他要的不是和解，是她还愿意跟他较劲，因为较劲证明她心里还有东西。第二句只有一个短语，独立成句，像话咽回去又忍不住补上。末句用 could take ... but not 的对照分出等级：怒气有对象，他能接住；dispassion 连对象都撤走了，他接不住。判断词 blank 放在最后，等于给这种状态下了定义。
 
@@ -39,7 +39,7 @@ modified: "2026-11-01"
 
 - **中文理解**：她继续用同样没有颜色的声调说：她曾让高通知「天穹之顶」他们正在赶来，这是任何靠近龙王的人都要走的程序，何况眼下还有新的安全威胁；卡普坦会把进场航线报上去——所以王宫里有人通敌。
 
-- **关键词**：Roof of Heaven · colorless accents · what route we’d be using · a traitor at the royal palace
+- **关键词**：Roof of Heaven · colorless accents
 
 - **为什么这样写**：整段是一份复盘，句句都是程序词：protocol、the kaptan would have informed them、what route we’d be using。她不给情绪，只给链条，最后一句把钉子钉在链条末端。用 colorless accents 形容她的声音，等于说她正在用最省力的方式讲话，力气要留给别处。这一段真正可怕的地方不在指控本身，而在她把「有人出卖我们」讲成一条可以一步步推出来的结论。
 
@@ -49,7 +49,7 @@ modified: "2026-11-01"
 
 - **中文理解**：一阵刺痛穿过他的胸口，正从中间扎下去。他不知道自己能做什么，整个人陷在自己的羞愧里。最后他挤出一句：「有没有魔法，你都是难对付的对手。」每个字他都是真心的。
 
-- **关键词**：A pang lanced · wrapped up in his own shame · formidable with or without · meaning every word
+- **关键词**：A pang lanced · meaning every word
 
 - **为什么这样写**：前两句极短，第二句只有四个词，把一下生理上的痛拆成两拍，仿佛那一下需要单独占一行才说得清。第三句马上转到无能：他不知道做什么，因为羞耻占满了注意力，而注意力的对象是他自己，不是她。于是那句安慰来得太晚，也太像给自己的交代；meaning every word 替这句话的真伪作保，却保不住时机。
 
@@ -59,7 +59,7 @@ modified: "2026-11-01"
 
 - **中文理解**：「我们收到消息，说拯救号救出你之后正驶向艾斯卡亚。」埃拉格比在他那艘舷外浮杆战舰马普隆号的指挥甲板上踱步，塔拉辛赶来见他。「我赌你们不会离得太远，赌你们能帮上……这个。」
 
-- **关键词**：outrigger warship · the Mapulon · rushed to meet him · help with . . . this
+- **关键词**：outrigger warship · the Mapulon
 
 - **为什么这样写**：他先报消息来源，再解释自己为什么在这里，把求援说成一次下注：took a chance。末尾那个 this 前面停了三次点，话到嘴边绕开了「这场仗」，因为一开口就得承认家门口正在烧。同一段里，人的动作是 paced 而不是站定，脚在动、话在绕，两处都在回避正题，回避的方向一致。
 
@@ -69,7 +69,7 @@ modified: "2026-11-01"
 
 - **中文理解**：她差点把乌尔杜佳做过的事说出来，话到喉咙中途停住了。埃拉格比已经受了太多苦、失去太多。乌尔杜佳杀的不只是塔拉辛的母亲，还有她儿子心爱的妻子。
 
-- **关键词**：stopped halfway up her throat · suffered so much · murdered not only · her son’s beloved wife
+- **关键词**：suffered so much · murdered not only
 
 - **为什么这样写**：第一句把「没说」写成一个身体事件：话走到喉咙一半停住，不是她改了主意，是身体先拦下。第二句给理由，用的是最朴素的计量——受了多少苦、失去了多少。第三句把受害者并排摆出：母亲、儿媳，两条命压在同一个人身上，而那个人正是他效忠的女王。整段几乎不用形容词，只靠名字与亲属关系，越平越重。
 
@@ -79,7 +79,7 @@ modified: "2026-11-01"
 
 - **中文理解**：她可以把这归结为睡眠不足——她居然向一个早已不在的男孩求助。她旧日中队里的指挥官。凯德只做了几个小时的丈夫。
 
-- **关键词**：a boy long gone · her old squadron · Khaede’s husband · only a few hours
+- **关键词**：her old squadron · Khaede’s husband
 
 - **为什么这样写**：先用 chalk it up to lack of sleep 给这个举动找一个体面的解释，再用后面两个短语把解释一点点拆掉：他不是抽象的神，是有军衔、有妻子、有服役记录的人。三个短语并列，像点名。of only a few hours 是整段最疼的地方——一段婚姻的长度被写成一个可以数出来的小时数，他的死有多快，全在这几个字里。
 
@@ -89,7 +89,7 @@ modified: "2026-11-01"
 
 - **中文理解**：胡克特拉的小艇散开，为帕苏亚号船员从甲板上打出的一轮巨型弩箭让出通道。他们把船上每一具弩炮都打空了，因此门户大开，敌人立刻扑上来；但这一手达到了目的，打散了阴谋者的防御圈。
 
-- **关键词**：gigantic ballista bolts · fired every ballista · leaving them vulnerable · defensive ring
+- **关键词**：gigantic ballista bolts · defensive ring
 
 - **为什么这样写**：这一段的语序就是战术的次序：先散开，再让路，再发射，读者跟着小艇的视线看那条空出来的通道。第二句自己跟自己算账：fired every ballista 换来 leaving them vulnerable，再用 but 把代价和收益摆平。作者不评价这决定勇不勇敢，只写它 served its purpose——道德问题被压成一个效能判断，这也是全章战场段落的语气基调。
 
@@ -99,7 +99,7 @@ modified: "2026-11-01"
 
 - **中文理解**：铁弩箭撕开她狼形小艇的帆，扎进它的以太之心。世界在一团蓝天与白岸的模糊里旋转，她疯狂打转，每半秒都像慢镜头，每个念头都被推到最前面，清晰得刺人。
 
-- **关键词**：iron bolts tore through · sank into its aether hearts · each half-second · sharp clarity
+- **关键词**：each half-second · sharp clarity
 
 - **为什么这样写**：动词选得很硬：tore through、sank into，都是穿透与嵌入，没有缓冲，也没有「险些」。第二句起视角转进她体内：世界不是变慢，是被切成半秒一格，每格里只剩一个念头。末句把濒死写成注意力反而变尖的状态——不是空白，是过量的清楚。句子越往后越长，正对应下坠时时间被拉长的那种错觉。
 

@@ -19,7 +19,7 @@ modified: 「2026-11-01」
 
 - **中文理解**：双桅船和苏拉克威尔的游艇朝相反方向驶离丝兰地。想到要去见伊德丝·维拉，塔拉辛心里略微好受了一些。这位女海军上将能在这团乱麻里给她必要的指点，两人也能商量下一步。
 
-- **关键词**：peeled away from the Silklands · in opposite directions · Ideth Vela · next steps
+- **关键词**：Ideth Vela · next steps
 
 - **为什么这样写**：三句各管一层：先给两条船分开走，再给她为什么宽心，最后说宽心的内容具体是什么。peeled away 这个词选得冷，像剥掉一层皮，船不是启航，是从一块正在发炎的地方被撕下来。给她的安慰不是「你安全了」，是「有人可以问」——希望被寄在一个还没露面的人身上，读者因此明白这份宽心是赊来的。marginally 又把它压回去一档，只是略微。
 
@@ -29,7 +29,7 @@ modified: 「2026-11-01」
 
 - **中文理解**：他没戴回护手，也没戴面具，可护肩上的尖刺、绷得笔直的身姿、日光里发亮的灰眼睛，让他仍旧十足是个统帅。没有光织，她拿什么护住他？又要拿什么替他挡住接下来的一切？
 
-- **关键词**：every inch a commander · spiked pauldrons · without the Lightweave · shield him
+- **关键词**：spiked pauldrons · shield him
 
 - **为什么这样写**：这一段的转向只靠一个 but：前半句在清点他卸下的东西，后半句宣布他照样是统帅——卸掉的装备越多，剩下的那部分越像他本人。接着两个问句连发，主语都是 she，动词从 protect 换到 shield，问的却不是他的安危，是她自己还有没有用。她怕的不是他死，是自己在场却什么都做不了。
 
@@ -39,7 +39,7 @@ modified: 「2026-11-01」
 
 - **中文理解**：贼鸥飞走之后，阿拉里克把那张羊皮纸递给近旁的一名塞夫雷姆，那人用长着褐色长指的手放出墨色的暗门烟气，干脆利落地把它绞碎。塔拉辛心里一酸，因为她明白了阿拉里克为什么不自己动手——假面舞会之战、丝兰地那场遭遇之后，他的以太术已经所剩无几。他一夜没睡。
 
-- **关键词**：scrap of vellum · on its last legs · aethermancy · He had not slept at all
+- **关键词**：scrap of vellum · aethermancy
 
 - **为什么这样写**：因果是倒着给的：先写别人代劳，再写她「明白为什么」，最后才交出原因。读者跟着她一步步看懂，而不是被直接告知。shredded it with fumes of inky Shadowgate 把销毁写成一门手艺，动作越熟练，越显得阿拉里克连抬手都难。末尾「He had not slept at all.」独立成句、只有六个词，是整段的落点：前面所有关于战备的推算，最后压回一件最普通的事。
 
@@ -49,7 +49,7 @@ modified: 「2026-11-01」
 
 - **中文理解**：她低下头，看着自己指间那块空处——一秒钟前他的手还在那里。失去的感觉像冲击波一样从她身上穿过去。等她回过神，才发现婚戒上的巫拉纳石已经从镶座里翘起一点，边缘也崩了口。
 
-- **关键词**：empty space between her fingers · like a shockwave · vulana stone · chipped at the rim
+- **关键词**：like a shockwave · vulana stone
 
 - **为什么这样写**：手抽走之后，作者不写她的表情，先写她「低头看」——视线替她承受了这一下。第二句用 shockwave 形容失去，把情绪写成一次物理冲击，配得上上一段那只「钢铁般」的手。第三句忽然转向物件：石头翘起、边缘崩口。人的裂痕不许写，就写戒指的裂痕，情绪只从金属与宝石上透出来。
 
@@ -59,7 +59,7 @@ modified: 「2026-11-01」
 
 - **中文理解**：是蛾形小艇——不属于内纳瓦伦的胡克特拉，帆是七拼八凑的，没有任何徽记。没有归属。它们正在追赶那艘运俘船，趁它徒劳躲闪的工夫迅速压了下去。
 
-- **关键词**：moth coracles · without emblems · Without allegiance · prisoner transport
+- **关键词**：moth coracles · without emblems · Without allegiance
 
 - **为什么这样写**：破折号后面是两次否定：没有徽记，没有归属。第二句只剩两个词，单独成句，把「不知道是谁」写成一种比敌人更难受的东西——敌人至少有名有姓，可以谈，可以恨。第三句才给动作：追、压。信息给得极省，不安全来自那些被省略的旗号。
 
@@ -69,7 +69,7 @@ modified: 「2026-11-01」
 
 - **中文理解**：塔拉辛只能看着。双桅船已经开到极限，载着她离那片屠杀现场越来越远，她只能看着，直到——感觉上几乎没过去多少时间——那艘双桅横帆船向前倾，带着一团下沉的魔法与撕碎的帆，砸穿了永海的表面。
 
-- **关键词**：could only watch · the scene of the bloodbath · conflagration of foundering magic · crashed through the surface of the Eversea
+- **关键词**：only watch · in overdrive · foundering magic
 
 - **为什么这样写**：这一段的主角是「看」：could only watch 在同一句里出现两次，中间夹着的全是船在加速。她能做的动作被缩到零，景物的动词却越来越猛——tipped forward、crashed through。破折号里那句「感觉上几乎没过去多少时间」是主观计时，把漫长的沉没压成一瞬，正好对上她来不及哀悼的状态。
 
@@ -79,7 +79,7 @@ modified: 「2026-11-01」
 
 - **中文理解**：是的，她想，雨浇在她身上，耀眼的闪电吞掉了最后一只蛾形小艇。她已经没有耐心，也没有慈悲。夜帝是愤怒与冰，而她——
 
-- **关键词**：rain washed over her · the last moth coracle · out of patience, out of mercy · wrath and ice
+- **关键词**：rain washed · moth coracle · brilliant lightning
 
 - **为什么这样写**：三句都是短句，主谓宾干净得像在结算。第一句由 Yes 起头，先认下这场屠杀，再开口说话；第二句是两个并列的否定，耐心与慈悲一起交出去；第三句把她与「夜帝」并排摆好，只差一个 and she— 就完成对照，句子却在这里断掉。断口本身就是内容：她没说完的那个词，比说出来的更狠。
 

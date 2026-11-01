@@ -39,7 +39,7 @@ modified: "2026-11-01"
 > **原句 4:** "Just as Alaric was about to go looking for Talasyn, she bounded in from the hallway, shooting him a conspiratorial grin. “Guess who I saw kissing in my garden! I was heading up the stairs when I happened to glance out the window and there they were.”"
 
 - **中文理解**：阿拉里克正要出门去找塔拉辛，她却从走廊里蹦了进来，冲他露出一个心照不宣的笑。「猜我看见谁在我的花园里亲嘴了！我正要上楼，碰巧往窗外一看，他们就在那儿。」
-- **关键词**：conspiratorial grin · in my garden · out the window
+- **关键词**：conspiratorial grin · in my garden
 - **为什么这样写**：她进门的第一件事不是汇报和谈的准备，而是分享一桩八卦：bounded in 与 conspiratorial grin 两个词把她的雀跃写成同谋。引号里的句子短、感叹号多，跟她平时作为女王说话的腔调完全不同，于是读者看到的是她在丈夫面前可以不当女王。
 - **读者视角提示**：这一块是全章气压最高、也最容易被读快的地方。留意 my garden：她说的是「我的花园」，不是「那座花园」，像是把那片地当成自己的东西在讲。
 

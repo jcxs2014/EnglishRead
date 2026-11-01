@@ -19,7 +19,7 @@ modified: "2026-11-01"
 
 - **中文理解**：塔拉辛的意识忽明忽暗，拍打着某种抽象现实的岸边，又退回去——就像以太海的蔚蓝潮水在伊安塔斯的沙滩上涨落，而那片沙滩，她已经称作故乡。
 
-- **关键词**：faded in and out · the shores of some abstract reality · azure tide of the Eversea · come to call home
+- **关键词**：Talasyn faded · abstract reality · azure tide
 
 - **为什么这样写**：全章第一句就把「意识的边界」写成一条海岸线：清醒是潮水涨上来的那一刻，昏沉是退潮。一个比喻同时交代了三件事——她此刻半昏迷、她熟悉潮汐、她把伊安塔斯叫作故乡。最轻的是句尾那个从句「which she had come to call home」：一个被绑在异乡猎屋里的人，先在心里认了一片土地是家，这个认领发生在被俘之前，所以它比任何一句控诉都更像伤口。另外，faded、ebbed、flowed 全是过去式，而且 ebbed and flowed 写的是反复发生的事——整句真正一次的只有开头那个 faded in and out。
 
@@ -29,7 +29,7 @@ modified: "2026-11-01"
 
 - **中文理解**：接着，她置身于一间巨大的长屋，炉火与走来走去的人影把它烘得温热。那些人似乎没有察觉她在场，他们的脸是模糊的，仿佛她与他们之间——仿佛她被隔在他们之外——隔着一层半透明的玻璃。
 
-- **关键词**：cavernous longhouse · cooking fires · their faces were blurred · walls of translucent glass
+- **关键词**：cavernous longhouse · cooking fires
 
 - **为什么这样写**：这句话的重心在那对破折号上：「as though she were seeing them—was separated from them—by walls of translucent glass」。叙述者先说她「看见」，随即改口说她「被隔开」，一个插入成分把「看」修正成「隔窗看」。玻璃因此不是布景，而是她与世界的关系：能看见，摸不到。模糊的脸正是这种关系的证据——她认得那种温暖，却认不出那些人。长屋越暖，隔膜越冷。
 
@@ -39,7 +39,7 @@ modified: "2026-11-01"
 
 - **中文理解**：那一刻玻璃似乎变薄了，塔拉辛看清了一副矮壮的身架、栗色的长发，和一双警觉得令人心惊的褐色眼睛——那里面烧着光织不受约束的力量。她的心跳快了起来，一种奇异的熟悉感涌上来，就像听见一首自己曾经深爱、却已忘记歌词的歌。
 
-- **关键词**：The glass seemed to thin · stocky frame · unbridled power of the Lightweave · once-beloved song
+- **关键词**：stocky frame · once-beloved song
 
 - **为什么这样写**：玻璃「变薄」是这一章最像魔法的一个动作，但它做的事只是让辨认成为可能。作者把辨认写成听觉经验——「一首曾经深爱、却已忘记歌词的歌」——而不是视觉确认，于是「想不起来」本身成了重点：她认得这个人，却说不出为什么。那双眼睛里烧着光织的力量，等于提前说明这个陌生人与她同源；读者比她先一步猜到答案，这份领先正是本章的张力所在。
 
@@ -49,7 +49,7 @@ modified: "2026-11-01"
 
 - **中文理解**：她的手臂酸疼，几乎动不了；低头看自己，双手被反剪在身后，麻绳把它们紧紧绑在床柱上。至于她体内的那片空——光织曾经盘踞的那个张着口的深坑——那已经无法描述，几乎无法忍受。她失去了自己灵魂的一部分。
 
-- **关键词**：abaca ropes · around a bedpost · the yawning pit · an integral part of her soul
+- **关键词**：abaca ropes · around a bedpost
 
 - **为什么这样写**：这一段把「失去魔法」写成身体上的一个洞。前两句还是外部的、可测量的：手臂发麻、麻绳、床柱；第三句忽然转进体内，给出一处没有尺寸的伤。yawning 本来说的是打哈欠，用在这里，那个坑像张着嘴在等东西落进去。最后一句最短，也最狠——「她失去了自己灵魂的一部分」——把绳子的束缚与存在的缺口压进同一个段落，读者才知道绑住她的不只是麻绳。
 
@@ -59,7 +59,7 @@ modified: "2026-11-01"
 
 - **中文理解**：「扎希亚-拉奇斯不需要喜欢你，这件事也能成，」奥莉尔答道。「她只需要做一个没有继承人的女王。在你认回自己的出身之前，宫廷本就不安；至于那之后发生的事……这么说吧，乌尔杜佳把你嫁给夜帝、失去她子民信任的那一刻，西利姆王朝就已经倒了。」
 
-- **关键词**：a queen without an heir · the court was already uneasy · the Silim dynasty fell · married you off to the Night Emperor
+- **关键词**：queen without · dynasty fell · the court
 
 - **为什么这样写**：奥莉尔把一场政变讲成一道继承法习题：不必杀死女王，只要让她「没有继承人」。这句台词的冷，在于它把塔拉辛从一个人换算成一个位置——heir。而「married you off」这个动词组更狠：marry off 说的是把女儿像货物一样嫁出去，说话的人把它用在自己效忠的王室身上，等于承认这桩婚约从头到尾是一笔交易。整段没有一个威胁词，却句句在宣布她已经可以被删除。
 
@@ -69,7 +69,7 @@ modified: "2026-11-01"
 
 - **中文理解**：「前厅门外那两个人，是我这辈子杀的第一批人。他们守在那儿，是防你从那条路逃走；可我把闪电送进了他们身体里，因为我愤怒，因为我在哀悼。只有爱才唤得出那样的魔法。」
 
-- **关键词**：the first people I ever killed · sent the lightning through them · angry and grieving · called that kind of magic forth
+- **关键词**：first people · standing guard · love could
 
 - **为什么这样写**：奥莉尔用「爱」来解释杀人，这是本章对她最不客气的一笔：她不是不痛，她是把痛直接换算成暴力，并且认为这笔换算成立。前一句还在讲战术——那两个人守着逃路——后一句忽然跳到「只有爱才唤得出那样的魔法」，因果关系被她自己改写了：不是我杀了人，是爱杀了人。而「the first people I ever killed」这半句才是真正的证词：在此之前她没杀过人，而这一夜她杀了两个。
 
@@ -79,7 +79,7 @@ modified: "2026-11-01"
 
 - **中文理解**：「我亲爱的奥莉尔夫人，这太不成体统了，」拉莉亚·穆萨尔一边进门一边没好气地说，凯·吉塔布跟在她身后。「我们本该按兵不动，等确认她死亡的消息，究竟有什么急事，非得在这个——」她的目光落在被绑在床柱上的内纳瓦伦拉奇斯身上，眼珠几乎要从眼眶里弹出来。
 
-- **关键词**：most irregular · lying low · confirmation of her death · popped out of her head
+- **关键词**：most irregular · lying low
 
 - **为什么这样写**：这句台词本身就是一次泄密。拉莉亚先抱怨「不合规矩」，接着说漏「等确认她死亡的消息」——她以为自己在跟同谋说话，忘了屋里还绑着当事人。作者还让句子断在半途（「在这个……」），用那个没能说完的时间词承载她看见塔拉辛时的失语：一个惯于讲究体统的人，被自己撞见的东西噎住了。本章的政治信息大多是这样漏出来的，不是有人交代，而是有人失口。
 
@@ -89,7 +89,7 @@ modified: "2026-11-01"
 
 - **中文理解**：拉莉亚的靴跟敲过地板，她逼近奥莉尔，一巴掌扇在她脸上，奥莉尔的头被这一下的力道打得偏向一边。摊开的手掌撞上瘦削脸颊的那一声之后，是一阵可怕而令人窒息的死寂；死寂里，奥莉尔抬起下巴，阴沉而挑衅地迎上她的瞪视。
 
-- **关键词**：struck Oryal across the face · the force of the blow · suffocating stillness · sullen defiance
+- **关键词**：suffocating stillness · sullen defiance
 
 - **为什么这样写**：这一巴掌是本章唯一一次同盟内部的暴力，而作者写它用的是声音的顺序：先是靴跟敲地板，再是掌与颊相撞，然后忽然全停。三个声音由远及近，最后落进「an awful, suffocating stillness」——这一停比巴掌更响，因为它说明这巴掌不是意外，而是这个同盟里早就存在的上下级。紧接着的动作是奥莉尔抬起下巴（lifted her chin in sullen defiance）：她挨了打，但没有服。
 
@@ -99,7 +99,7 @@ modified: "2026-11-01"
 
 - **中文理解**：她小心地把自己的表情收束成一片彻底的空白，尽管兴奋正在她体内奔流。她直直盯着争吵中的贵族们，把戒指往绳子里按，用宝石的棱角去啃那些起毛的麻纤维。那是第八月亮的碎片，比莫桑石更亮，比钻石更利。
 
-- **关键词**：school her features into total blankness · exhilaration coursed through her · fraying abaca threads · brighter than moissanite
+- **关键词**：fraying abaca threads · brighter than moissanite
 
 - **为什么这样写**：这一段同时写两张脸：一张是她给敌人看的（total blankness），一张是她不给他们看的（exhilaration）。越狱被写成一场表演——她必须让所有人的目光留在她脸上，好让手在背后工作。最后两句突然变短，比较级连用（brighter than / sharper than），语速跟着手的动作加快：石头先被夸成宝石，再被当成锉刀。救她的不是魔法，是她婚姻的物证。
 
@@ -109,7 +109,7 @@ modified: "2026-11-01"
 
 - **中文理解**：她会从那个注定不光彩的土坑里爬起来，缠住他。她真的会。可那股怒火很快退成一片空茫的灰暗：吉塔布的话挖出了她一直知道的、无法回避的真相——阿拉里克娶她是出于责任；而一旦领地易主，责任同样会要求他保住凯萨瑟在那里的政治立足点。
 
-- **关键词**：ignoble dirt grave · hollow bleakness · married her out of duty · political foothold
+- **关键词**：hollow bleakness · political foothold
 
 - **为什么这样写**：这是本章对婚约最冷静的一次清算。前半还是闹鬼式的狠话——她要爬出土坑去缠着他——一个「Yet」之后，狠话自己塌了：怒火不成立，因为对方的行为可以被「责任」完整解释。作者让塔拉辛自己完成这次推理（the inescapable truth that she’d always known），所以这不是别人告诉她的结论，是她一直知道、只是一直不肯去想的那一条。
 
@@ -119,7 +119,7 @@ modified: "2026-11-01"
 
 - **中文理解**：她那时投向塔拉辛的目光，令人不安地像鲨鱼。「她从来就不想统治，那正是她的败因。而且我相信，」她津津有味地收尾，「那正是乌尔杜佳决定你母亲必须死的原因。」
 
-- **关键词**：unnervingly sharklike · never wanted to rule · her undoing · with relish · your mother had to die
+- **关键词**：unnervingly sharklike · her undoing · with relish
 
 - **为什么这样写**：全章最后一句不是威胁，是一个解释，而且是一个带着兴味的解释。作者让奥莉尔用「I do believe」开头，把一桩谋杀说成一条可以推演的道理：不想统治的人，就是可以被杀掉的人。这一句同时替读者补上了开头的梦——玻璃后面那个说出「哈南」的人，就是塔拉辛的母亲；而她的死因不是阴谋，是「不想要权力」。sharklike 那个形容词则提前替这句话定了调：这不是忏悔，是猎食者的判断。
 
