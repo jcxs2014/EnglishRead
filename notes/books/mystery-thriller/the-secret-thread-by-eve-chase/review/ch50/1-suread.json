@@ -1,0 +1,84 @@
+{
+  "chapter": "ch50",
+  "text_file": "text/ch50_chapter_50.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Pamela 在 Ward Six 病房清晨重读 Miriam 那本由 Jo 执笔的人生记事（catalogue），感叹其回忆与勇气、又指出几处失实，决意不再带着秘密进坟墓——按她自述，上周她差点真的进了坟墓。",
+      "anchor": "I can’t go to my grave with secrets, as I so nearly did last week.",
+      "byte_offset": 905,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Miriam 与 Lawrence 去 Lyme Regis 的当天，Pamela 傍晚透过紫杉树篱缺口目送两人乘银色跑车归来；之后她进 Miriam 房间（去扔洗好的衣物），把桌上单独摆放的心形海玻璃（她『不知怎的知道』是 Lawrence 送的，嫉妒使然）揣进自己口袋——Miriam 随后疯狂寻找，她始终没有承认，本打算放回原处让其发现却终究没做。",
+      "anchor": "I’m not sure exactly what made me slip it into my pocket.",
+      "byte_offset": 2611,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Pamela 与 Mackie 此前几度热吻爱抚但始终克制，派对后不久终于越界发生关系（『when nothing seemed to matter any more』）；她对 Mackie 谎称自己是处女——其实不是。",
+      "anchor": "I pretended I was a virgin. I wasn’t.",
+      "byte_offset": 3722,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "派对前一天（Miriam 在宅内与 Whipple 干活、Alf 把苗圃新花移进长花境时），独处棕榈屋的 Pamela 在教 Lawrence 修剪海枣棕榈时把他的手引向自己胸口，两人在铁格栅上发生了关系——很快结束，她记得蒙雾的玻璃窗和自己按在玻璃上的手，然后是懊悔。",
+      "anchor": "We did it on the iron grille, steam puffing up.",
+      "byte_offset": 4593,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "事发后两人尴尬地整理衣衫、互道抱歉，并认定这是『a terrible mistake that must never happen again』（Lawrence 的话）、决不外传；但 Alf 撞见 Pamela 衣衫不整、满面潮红地离开棕榈屋，Doris 看到她按在蒙雾玻璃上的手印、又看见 Lawrence 从后侧服务门溜走，遂告诉 Alf，劝他对自己的姐妹多加看管。",
+      "anchor": "If Doris hadn’t spotted my hand splayed on the steamed glass",
+      "byte_offset": 5309,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Alf 逼问时（那场罕见争吵与冷战，Pamela 当时无法解释），她起初让他少管闲事，被逼到最后撒谎：称 Lawrence 强行求欢、不肯罢休、被她推开，一切已经了结遗忘。",
+      "anchor": "In the end, I lied and said Lawrence had made a pass",
+      "byte_offset": 5731,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "派对当晚屋顶上，Pamela 确信 Alf 正在指责 Lawrence 曾对她动手——甚至可能扣上性侵的帽子，尽管那时他们还没有这样的语言。",
+      "anchor": "on the roof at the party, I’m certain he was accusing Lawrence",
+      "byte_offset": 5927,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "信末，Pamela 把当年偷走的海玻璃心归还 Miriam，并连同献上自己的心；落款『Love always, Pamela』，PS 补记茶水车终于来到——『又一个小奇迹』。",
+      "anchor": "here is your lost sea-glass heart. And with it, I humbly offer you my own.",
+      "byte_offset": 8078,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Pamela 与 Alf 为双胞胎兄妹（『Twins know, or they think they do.』）；Miriam 是两人之下的小妹（『you’ll always be my little Mim – and Alf’s』）；Pamela 自问『当姐姐的理应先经历世事』（『big sister’s right to experience things first』）",
+    "收信人『Dear M』＝Miriam（信中唤『Mim』）；Pamela 自述从未停止爱与思念：收集她历年全部剪报、写过多封信又揉团投火，且因羞耻多年不敢让 Miriam 与 Lawrence 上门（『How could I have you and Lawrence over?』）",
+    "Lawrence→Miriam：带她去 Lyme Regis；初夏曾与她下河夜游、她摸黑回屋（Pamela 的想象还原）；送她心形海玻璃；Miriam 后来深爱他并嫁给他",
+    "Pamela→Lawrence：棕榈屋把初夜给了他（『I’d casually given Lawrence my virginity』）；他事后称之为『must never happen again』（她无法原谅这句话）；他从未用看 Miriam 的眼神看过她——『He rejected me. But he wanted you. He married you.』",
+    "Pamela→Mackie：写这封信时她正爱着 Mackie；派对后不久与 Mackie 越界并谎称初夜；多年共享『Mackie’s love and the joy we always shared beneath our sheets』；信头版权署名『Copyright: Pamela Mackie』",
+    "Alf→Pamela：棕榈屋事发后逼问双胞胎姐姐，引发两人罕见的争吵与冷战（Miriam 或还记得）",
+    "Doris→Alf：报信人——目击蒙雾玻璃上的手印与 Lawrence 从后侧服务门溜走，劝 Alf 看紧自己的姐妹",
+    "Alf→Lawrence：因 Pamela 的谎言而认定其强行求欢；派对屋顶上（Pamela 确信）指责 Lawrence 对她动手、甚至可能指为性侵——『though we didn’t have the language for that then』",
+    "秘密→Alf 的 fall：Pamela 承认这桩丑闻如未爆弹埋在她（与 Miriam）的生活之下，首次承认其在 Alf 堕落中必有一份（『the part it must have played in Alf’s fall』）；过去怪罪 Lawrence 更容易，而把棕榈屋那几分钟追到 Alf 的黑暗对她而言『too boggling to survive』",
+    "Jo→Miriam：catalogue（人生记事）的执笔者，Pamela 调侃『让 Jo 代笔有点作弊』（『getting Jo to write it is cheating a bit?』）"
+  ],
+  "numbers_dates": [
+    "『Ward Six』——写信地点：六号病房；PS：茶水车最终来到，『Another small miracle』",
+    "『even with one eye』——Pamela 自述单眼仍是快读者，『at dawn』又再读一遍",
+    "『last week』——『as I so nearly did last week』：上周差点进坟墓；与『Years later, no wonder I almost froze to death.』相扣——她自嘲一生只偷过 Miriam 一样东西（『I only ever wanted one thing of yours, snatching it in that heady summer heat.』），难怪多年后几乎冻死，并视之为上主的黑色幽默",
+    "『the day before the party』——棕榈屋事发＝派对前一天（信中原话回跳：『I’m afraid we need to go back to the day before the party』）；『on the roof at the party』＝派对当晚屋顶对质",
+    "『shortly after the party』——与 Mackie 越界的时间点",
+    "『one pile, fossils and stones. Set apart, the sea glass.』——Lyme Regis 收获摊在桌上：一堆化石与石头，海玻璃单独摆放（『Salt-misted, smooth as soap. Heart-shaped.』）",
+    "『that Rushwood summer』——全部往事的时间坐标：Rushwood 的那个夏天，多年被她锁在『心里的棚屋』（『locked away in a mental shed all these years』）"
+  ],
+  "turning_point": "本章即揭底转折（章题『Sea-glass heart (the missing auction lot)』）：病榻上的 Pamela 交出藏了一生的秘密——偷走 Miriam 的海玻璃心、派对前一天在棕榈屋与 Lawrence 失身、事发后对 Alf 撒谎——并首次承认这桩丑事很可能才是 Alf 堕落的推手（而非 Lawrence），最后归还海玻璃心并附上自己的心。"
+}

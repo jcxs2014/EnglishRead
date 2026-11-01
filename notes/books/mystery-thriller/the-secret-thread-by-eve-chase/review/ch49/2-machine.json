@@ -1,0 +1,289 @@
+{
+  "chapter": 49,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch49 jo.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch49_chapter_49.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Granny’s theft of the sea-glass heart is so out of character she wants to believe there’s an innocent explanation. But w",
+          "ok": true,
+          "pos": 393
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘As there was only one Lawrence.’ Margo pats the back of her perfectly set hair, then runs her palm over its neat tuck. ",
+          "ok": true,
+          "pos": 1541
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "He clears his throat with a smoker’s crackle. ‘Look, I think Alf accused Lawrence of hitting on Pamela.’",
+          "ok": true,
+          "pos": 3645
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘Triangle’. For a moment, she can hear it too, the husky vocals, the melodic unrequited longing, the sultry sexy heat of",
+          "ok": true,
+          "pos": 2397
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The snow falls like shredded tulle. Jo and Woody stand on Lordats’ steps, scanning the Mayfair street, the matter of cat",
+          "ok": true,
+          "pos": 6573
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Given you and sensible parted ways some time ago",
+          "ok": true,
+          "pos": 11584
+        },
+        {
+          "text": "’ Mimi quips with spiky affection. ‘As for your granddaughter, my great-niece,’ she says, with a pride that tweaks Jo’s ",
+          "ok": true,
+          "pos": 11635
+        },
+        {
+          "text": "She’s a courageous, tough Bramley woman. Like you. Like Ma. Like Leni. With fabulous hair, a big heart, and a profound u",
+          "ok": true,
+          "pos": 11909
+        },
+        {
+          "text": "no stranger to desire.’",
+          "ok": true,
+          "pos": 12153
+        }
+      ],
+      "words": 100
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘Darling, it’s been steaming off you and Woody since the day you met.’ She turns back to Granny – bigger matters – and h",
+          "ok": true,
+          "pos": 12219
+        }
+      ],
+      "words": 72
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 73,
+        "关键词": 19,
+        "为什么这样写": 76,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.23,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 9,
+        "为什么这样写": 87,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.24,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 10,
+        "为什么这样写": 69,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.24,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 16,
+        "为什么这样写": 63,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.23,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 94,
+        "关键词": 19,
+        "为什么这样写": 63,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.23,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 127,
+        "关键词": 17,
+        "为什么这样写": 73,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.23,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.31
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 106,
+        "关键词": 20,
+        "为什么这样写": 76,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.24,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "49. Jo",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2236,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句1",
+        "kw": "theft（偷窃）· out of character（与一贯性格不符）· fresh hell（新的地狱）· lurk",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "chapter": "ch49",
+  "text_file": "text/ch49_chapter_49.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Jo 在拥挤的派对房间里穿行寻找外婆；她本以为外婆见到失散的妹妹会震惊失措，没想到外婆竟拿麦克风当众宣讲，还偷走了海玻璃心，Jo 意识到必须拦截那封信，却连 Mimi 也找不到。",
+      "anchor": "Searching for her grandmother, Jo weaves through the crowded room",
+      "byte_offset": 44,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Jo 问 Rafe 和 Margo 当年 Rushwood 派对上 Alf 坠楼前与 Lawrence 的争吵；两人俱是一颤，Rafe 说争吵由 Rafe 和 Celia 之事点燃、随后升级——Alf 指控 Lawrence 勾引 Pamela，并让她去问外婆。",
+      "anchor": "I think Alf accused Lawrence of hitting on Pamela.",
+      "byte_offset": 3998,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Woody 送来印好的拍卖图录：与 Mimi 发给 Pamela 的校样完全不同，Jo 苦心写的长篇故事尽失、只剩脚注，Reception 整摞图录皆同；Will 说 Mimi 在最后一次访谈后赶在关头签发、只交了脚注，Lordats 拉队核查赶印，且拍卖图录绝不会登长篇告白文字。",
+      "anchor": "Signed off by Mimi last week, right to the wire.",
+      "byte_offset": 5671,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Jo 恍然：读过她全部心血（数十小时录音的成果）的只有她自己、Mimi 和 Pamela——自己的骗局反被 Mimi 将了一军，牌一直握在 Mimi 手里。",
+      "anchor": "outplayed by Mimi",
+      "byte_offset": 7078,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "两位老姐妹失踪超过四十分钟：Mimi 最后被目击没穿大衣、追着一个牵狗的女人；开往 Suffolk 的火车近半停运；Jo 与 Woody 冒雪先后搜查 Claridge's 与 Brown's Hotel。",
+      "anchor": "coatless, charging after a woman with a dog",
+      "byte_offset": 7478,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "循着一声狗叫，两人在 Brown's 酒吧最暗的角落找到 Mimi 和外婆：桌上两杯鸡尾酒和那本磨损的校样，Dolly 蜷在脚边啃狗零食，最惊人的是外婆的丁香紫马海毛开衫披在 Mimi 肩上；Mimi 已拿回海玻璃心，说『早该如此』。",
+      "anchor": "lilac mohair cardigan rests over Mimi",
+      "byte_offset": 9512,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Mimi 平静道出：外婆一直守着一个秘密，却不知 Lawrence 早在 2005 年就告诉了 Mimi；Mimi 称自己几十年前就已原谅 Pamela，只是那些年的沉默伤人更深；外婆却说不出口。",
+      "anchor": "not knowing Lawrence told me in 2005",
+      "byte_offset": 11434,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Mimi 夸 Jo 是勇敢坚韧的 Bramley 女人、不必再受保护，见外婆不敢阻拦，便从亮片手包里抽出那封信，用指甲尖把它推过桌面，送到 Jo 面前。",
+      "anchor": "draws the letter from her sequined clutch like a pistol from a holster",
+      "byte_offset": 13461,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Granny（Pamela）与 Mimi（Miriam Mott）是失散多年、刚借拍卖会重逢的亲姐妹；Mimi 当众称 Jo 为 my great-niece，即 Mimi 是 Jo 的姨婆一辈。",
+    "Jo 是 Granny（Pamela）的孙女：外婆教她游泳时托着她的肚子、摇桶里的贝壳、指认 Alf 最爱的鸟（云雀、金翅雀、仓鸮）、教她播种。",
+    "Alf 与 Lawrence 在 Rushwood 派对屋顶坠落前当众争吵，起因先涉 Rafe 与 Celia，升级后是 Alf 指控 Lawrence 勾引 Pamela。",
+    "Lawrence 当时与 Margo 是一对（Lawrence was with Margo），Rafe 以 sex and love 之别暗示 Lawrence 与 Pamela 另有私情，让 Jo 去问外婆。",
+    "Rafe 是被宾客认出的老摇滚歌手，把这场三角恋写成名曲 Triangle（自嘲 I'm living proof）。",
+    "Mimi 与 Jo 既是亲眷也是访谈对象与执笔人：Mimi 坚持亲自处理 Jo 的副本、拉长访谈深度，实则只把 Jo 的脚注付印，让长篇校样只留给家人；她称 Jo 是 courageous, tough Bramley woman，并点破 Jo 与 Woody 的情愫（steaming off you and Woody since the day you met）。",
+    "Lawrence 在 2005 年（Jo 父母去世之年）已把外婆守了多年的秘密告诉了 Mimi；Mimi 说几十年前就原谅了 Pamela。",
+    "Dolly 是两姐妹身边的牧羊犬（collie），也在 Brown's 酒吧靠一声狗叫暴露了她们的行踪。"
+  ],
+  "numbers_dates": [
+    {
+      "raw": "1969",
+      "context": "Rafe 反问年代：Erm, it was 1969?（Rushwood 派对之夏）"
+    },
+    {
+      "raw": "Six weeks on the Billboard",
+      "context": "Rafe 的歌 Triangle 曾在 Billboard 榜上六周"
+    },
+    {
+      "raw": "sixty years too late",
+      "context": "Rafe 对 Jo 说：You're sixty years too late, doll. 错误早已铸成"
+    },
+    {
+      "raw": "More than forty minutes have passed",
+      "context": "两位老姐妹失踪已超过四十分钟"
+    },
+    {
+      "raw": "Half the Suffolk-bound trains are cancelled",
+      "context": "Jo 查手机：开往 Suffolk 的火车近半停运"
+    },
+    {
+      "raw": "two mature ladies with a collie",
+      "context": "Claridge's 门房没见过两位带牧羊犬的年长女士"
+    },
+    {
+      "raw": "not knowing Lawrence told me in 2005",
+      "context": "Mimi：Lawrence 早在 2005 年告诉她外婆的秘密；同年 Jo 父母去世"
+    },
+    {
+      "raw": "the life of a single reader",
+      "context": "Mimi：I only ever needed my story to change the life of a single reader."
+    }
+  ],
+  "turning_point": "Brown's 酒吧里两姐妹和解后，Mimi 说出外婆的秘密其实 Lawrence 早在 2005 年已告诉她，并当着说不出口的 Pamela 之面把那封信从亮片手包里抽出、推到 Jo 面前——真相只差一次阅读。"
+}

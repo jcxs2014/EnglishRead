@@ -1,0 +1,109 @@
+{
+  "chapter": "ch51",
+  "text_file": "text/ch51_chapter_51.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "专栏《The Londoner @AroundTown》报道：室内设计界女王 Mimi Mott 公开悼念其姐妹 Pamela Mackie——Pamela 上个月在意大利自然死亡（natural causes，非他杀）。",
+      "anchor": "has paid tribute to her sister, Pamela Mackie, who died of natural causes in Italy last month",
+      "byte_offset": 83,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "姐妹俩当时距完成“毕生之旅”——环游欧洲最顶级园林——只差几天。",
+      "anchor": "days from completing the trip of a lifetime, a grand tour of Europe’s finest gardens",
+      "byte_offset": 200,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Mott 称：Pamela 是在两人参观威尼斯 Giardino Storico di Palazzo Soranzo Cappello（她一直梦想造访的花园）之后，在睡梦中安详离世；“我会永远感激我们的同游，我们把数年过成了数周。”",
+      "anchor": "passed peacefully in her sleep after our visit to Venice’s Giardino Storico di Palazzo Soranzo Cappello",
+      "byte_offset": 300,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Mackie 去年 12 月在 Mott 的“ A Life in Objects”预展之夜爆红（疏远多年的姐妹在此重逢）：她与她的狗掀起 #SoPamelaMackie 梗图浪潮、收获大批粉丝——起因是她在 Lordats 活动上发表“终极手足搅局者”演讲，煽动远超估价的狂热线上竞价，拍卖为慈善筹得巨款。",
+      "anchor": "shot to viral fame last December at Mott’s A Life in Objects preview night, where the long-estranged sisters reunited",
+      "byte_offset": 827,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Mott 现在要回美国（想念曼哈顿和闺蜜们）：为 Nancy Caswell Foundation 筹款，并在多年后重新开始设计；她引 Pamela 的话“人生是循环的，不是线性的”，自称“我远没有结束，我的故事还在继续，直到最后一口气”。",
+      "anchor": "fundraising for the Nancy Caswell Foundation and, after many years, designing again",
+      "byte_offset": 1403,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Mott 表示：余下的夏天都想在威尔特郡与家人度过——吃草莓、下河游泳——“知道妹妹也在那里，总在前面几划”。",
+      "anchor": "Whatever summers remain, I hope to spend in Wiltshire with family",
+      "byte_offset": 1684,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "no": 1,
+      "relation": "Mimi Mott 与 Pamela Mackie 是姐妹，且曾“长期疏远”（long-estranged）——去年 12 月在 Mott 的预展之夜重逢；本专栏即重逢之后姐妹线的收束篇。",
+      "anchor": "long-estranged sisters reunited",
+      "byte_offset": 915,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "relation": "时间因果：Pamela 死于参观梦想花园（威尼斯）之后、距旅程终点只差几天时——旅程尾声的自然死亡。",
+      "anchor": "days from completing the trip of a lifetime, a grand tour of Europe’s finest gardens",
+      "byte_offset": 200,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "relation": "行动链：Pamela 的演讲直接煽动线上竞价远超估价 → 拍卖为慈善筹得巨款——她的爆红产生了实际公益结果。",
+      "anchor": "stoking feverish online bidding that far exceeded estimates",
+      "byte_offset": 1119,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "relation": "Pamela 的口头禅“人生是循环的，不是线性的”成为 Mott 回美国重启设计与筹款的依据；结尾“总在前面几划”把余生威尔特郡的夏天与亡妹的记忆绑在一起。",
+      "anchor": "life is circular, not linear",
+      "byte_offset": 1279,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "no": 1,
+      "item": "2025 年 6 月 2 日——专栏署期（The Londoner @AroundTown 栏）。",
+      "anchor": "The Londoner @AroundTown | 2 June 2025",
+      "byte_offset": 16,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "item": "“last month”（相对专栏即 2025 年 5 月）——Pamela 在意大利去世的时间表述。",
+      "anchor": "last month",
+      "byte_offset": 166,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "item": "“last December”（相对专栏即 2024 年 12 月）——Mackie 在 A Life in Objects 预展夜爆红的时间。",
+      "anchor": "last December",
+      "byte_offset": 846,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "item": "话题标签 #SoPamelaMackie——Pamela 与她的狗引发的梗图浪潮标签。",
+      "anchor": "#SoPamelaMackie",
+      "byte_offset": 995,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Pamela Mackie 在欧洲园林之旅接近尾声（威尼斯之后）于睡梦中安然离世；Mimi Mott 以悼念专栏宣告姐妹线收束，并携“人生是循环的”信念回美国重启设计与筹款，余夏将与亡妹的记忆留在威尔特郡。"
+}
