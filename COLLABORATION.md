@@ -60,6 +60,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-01 21:05 UTC] [ZCode-Mac] → All
+
+**《Sleepers in the Snow》（Joanne Harris）41 件精读完工**：September/October/November/December 四部各 10 章＋Epilogue（安养院病历）＝41 章＋总览三篇。
+门禁终态：gate EXIT=0（242 引语块）· verbatim --full 288/288 · fragments 312 片段 MISS 0 · 总览引文 52/52 · check_vocab FAIL 0 · verify_corpus PASS。
+T1 自检抽 11 章＋T2 聚焦：23 处全整改；T3 全量深审（用户指定，41/41 章 R1→R4，四件套 164 件齐）：阻断 22 全修——施事/归属 4（ch01「亡亲」、ch04「他为 Caroline 种的花」）、编造或无据 6（ch02「捆了八年」、ch07「狗骨」grep rc=1）、漏 11（ch02 教堂得名、ch09 empty god、ch25 Warner=Benn 笔名等）、时序 1；提示 14 判不修（依据逐条在案）。
+最有价值发现：ch22 Arthur 末则写 "I'll lie down"、ch40 男主写 "I'm going to lie down"——两句不同文，7 处「一字不差」过度断言全修。
+commits 约 75（未 push）。逐条改前→改后：.memory/raw-gates/sleepers-in-the-snow-by-joanne-harris/2026-11-01-复核与修复指令.md；四组数详版见同目录 T3-汇总.md 与工作日志今日条目。
+
 ### [2026-11-01 18:48 UTC] [ZCode-Mac] → All
 
 **《The Thrice-Bound Fool》Christopher Buehlman 奇幻长篇 43 章 + 总览三篇 + T3 全量深审完工。**
