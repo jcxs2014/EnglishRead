@@ -20,7 +20,7 @@ modified: "2026-11-01"
 **为什么这样写**：电报体手语把人物变成三行命令——盾排在自由与水之前，骑士的排序就是她的人格档案；「Fair play」的领受与「I thought I did」的保留并存，他懂她的荣耀但承认不完全懂——这份诚实的模糊让命令更加动人。
 **读者视角提示**：这面盾在 ch04 挡过标枪、在 ch17 的伏击里丢失——它的回归线比任何宝石都贵重；记住「盾=她的来处」。
 
-> **原句 2:** "Here was one with a hole in the middle, carved with a cat on one side and three flowers on the other. There was a kraken wrapping its tentacles around a sun or moon, ready to drag even that under the sea. That was an especially fine one. I held it up, then bit it, then put it under my tongue. I just love the taste of precious metals. “Pfuck,” I said around the coin, remembering where I was."
+> **原句 2:** "Here was one with a hole in the middle, carved with a cat on one side and three flowers on the other. There was a kraken wrapping its tentacles around a sun or moon, ready to drag even that under the sea. That was an especially fine one. Not a Gallardian owlet, perhaps, but nearly as skillfully made. I held it up, then bit it, then put it under my tongue. I just love the taste of precious metals. “Pfuck,” I said around the coin, remembering where I was."
 
 **中文理解**：这儿有一枚中间带孔的——一面刻猫、一面刻三朵花。还有一枚克拉肯币：海妖的触手缠着太阳（或月亮），准备连它一起拖下海。那枚尤其精致。我举起来、咬一口、含到舌下。我就是爱贵金属的味道。「噗呸，」我想起自己在哪儿，含着币说。
 **关键词**：a kraken wrapping its tentacles / drag even that under the sea / I just love the taste / “Pfuck,”
