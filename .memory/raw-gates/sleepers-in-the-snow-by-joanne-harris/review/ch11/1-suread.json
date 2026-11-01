@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch11",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch11_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "本章日期逐字为 October 1st, 2024：叙述者已两天没出家门、不想见人，自认为在哀悼。",
+   "anchor": "I haven’t been out of the house for two days.",
+   "start": 44,
+   "end": 89
+  },
+  {
+   "fact": "两周前 Arthur 与 Caroline（桑德森夫妇，the Sandersons）还只是登记册上的名字，如今两人都已死；他承认这过度的哀悼其实是给他自己的——他破裂的婚姻与孩子。",
+   "anchor": "Arthur and Caroline were just names on a register",
+   "start": 331,
+   "end": 380
+  },
+  {
+   "fact": "三天后他又读完了 Caroline 的另外三本笔记；日记显示三十年（thirty-year）婚姻正在破裂：Caroline 绝望、Arthur 日益古怪寡言，对痴呆（dementia）的恐惧两人绝口不提。",
+   "anchor": "Three days later, and he’d read another three",
+   "start": 1906,
+   "end": 1951
+  },
+  {
+   "fact": "日期逐字 May 30th, 2017 的日记：Caroline 写 Arthur 情绪波动越来越糟，请他就医被拒，他反说她太敏感；偶尔「旧的 Arthur」会回来一小时、一天。",
+   "anchor": "Arthur’s mood swings are getting worse.",
+   "start": 2322,
+   "end": 2361
+  },
+  {
+   "fact": "他把那封写给 Arthur 的信一直未拆封地留在壁炉台上，不忍看也不忍毁，并把 Caroline 的日记视作「来自死者的信」。",
+   "anchor": "He’d kept the letter to Arthur unopened",
+   "start": 1708,
+   "end": 1747
+  },
+  {
+   "fact": "电线杂音里传出如真似幻的声音：悲伤的女声（他认作 Caroline）说出儿子的名字 Greg，他反问「像邮差 Greg？」；此前一个愤怒的年轻男声正冲「母亲」吼叫。",
+   "anchor": "Greg. His name is Greg, said Caroline’s voice.",
+   "start": 5085,
+   "end": 5131
+  },
+  {
+   "fact": "他断定那个愤怒男声是圣诞节都没回来的儿子；另有第三个女孩声音轻嘲他冲母亲吼。他怀疑这一家——Arthur、Caroline、Lucy、Greg——是否都死了，想到 Howes 这个名字便打寒颤。",
+   "anchor": "the son, the one who had not come for Christmas",
+   "start": 4933,
+   "end": 4980
+  },
+  {
+   "fact": "他向那个声音追问夫妇俩的死：「你们当时在雪里做什么？」回应是如线路干扰般的抽泣；当晚电线再无讯息，只有电话短暂响了一声，他赶到客厅时线路上只剩像雨声的嘶嘶声。",
+   "anchor": "What were you doing, out in the snow?",
+   "start": 3719,
+   "end": 3756
+  }
+ ]
+}

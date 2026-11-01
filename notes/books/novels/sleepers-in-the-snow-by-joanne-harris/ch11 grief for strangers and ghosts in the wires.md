@@ -33,7 +33,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：「what did it matter?」是自我许可的句式：他明知借陌生人当出口不妥，仍先给自己批了通行证，后面紧接的「Grief was grief」用同词复现把这笔糊涂账抹平——拒绝区分为谁而哭，等于承认哭的其实是自己。Caroline 那句「so I could mourn him properly」因此成为镜像：她曾想等丈夫死后再好好哀悼，此刻男主正在这座房子里替她做这件事——日记里的句子像提前写给现在的他。
 
-**读者视角提示**：注意「Grief was grief」——两个一模一样的词并置，是自我说服也是放弃追问。后半句 Caroline 的引语是全书第一次出现「希望对方死」的真心话：此前男主一度觉得她的话刻薄（本章前段「her words did not seem as cruel as he’d first thought」印证），此刻他读到了这句。请留意主语的切换：前半段是「他」在给自己开释，后半段变成「Caroline」在渴望——哀悼者的位置在两句之间被交了出去。
+**读者视角提示**：注意「Grief was grief」——两个一模一样的词并置，是自我说服也是放弃追问。后半句 Caroline 的引语是第二次出现（ch09 男主初读时已见过）——「希望对方死」的真心话：此前男主一度觉得她的话刻薄（本章前段「her words did not seem as cruel as he’d first thought」印证），此刻他读到了这句。请留意主语的切换：前半段是「他」在给自己开释，后半段变成「Caroline」在渴望——哀悼者的位置在两句之间被交了出去。
 
 > **原句 3:** "And then, sometimes, the old Arthur comes back – for an hour, for a day. And it’s good. But all I can think is: when will the other one be back?"
 
@@ -63,7 +63,7 @@ modified: "2026-10-31"
 
 **为什么这样写**：「the one who had not come for Christmas」用一次缺席定义一个儿子：人没来，声音却来了——缺席与在场被同一句话钉住。「somehow」是叙述者给自己留的退路：他知道「全家都在电线里」说不通，但他接受。「Everyone, but Arthur」两个短语独立成句、没有动词：它让一个全家在场的画面出现缺口，而缺口恰好落在死者身上——本章前段 Caroline 刚说过 Arthur 在「睡觉」，这句因此读上去像一张全家福合影，唯独缺了父亲。
 
-**读者视角提示**：注意「Everyone, but Arthur」——逗号隔开两个短语，节奏像一次点名：母亲在、儿子在、女儿在（本章前段已先后出声），唯独点到 Arthur 时名字后面什么都没有。「but」在这里不是转折，是缺席本身。请把这句与本章开头对照：开头他哀悼的是「strangers」——两个登记册上的陌生人；到这里，哀悼的对象变成了一个全员在场的家庭，而他被这个家庭围在了中间。
+**读者视角提示**：注意「Everyone, but Arthur」——逗号隔开两个短语，节奏像一次点名：母亲在、儿子在、女儿在（本章前段已先后出声），唯独点到 Arthur 时名字后面什么都没有。「but」在这里不是转折，是缺席本身。而他对着电线问出的那句「What were you doing, out in the snow?」——你们当时在雪里做什么——是全书书名的第一次口头扣题：答案整本书都没有人给。请把这句与本章开头对照：开头他哀悼的是「strangers」——两个登记册上的陌生人；到这里，哀悼的对象变成了一个全员在场的家庭，而他被这个家庭围在了中间。
 
 ## 本章词汇
 
