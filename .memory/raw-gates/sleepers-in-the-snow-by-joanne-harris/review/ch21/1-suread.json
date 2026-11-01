@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch21",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch21_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "开篇日期：本章叙事始于2024年11月1日，主角独自宿于Kirkhill，夜里无事发生，九点半被鸟声唤醒。",
+   "anchor": "November 1st, 2024",
+   "start": 24,
+   "end": 42
+  },
+  {
+   "fact": "他醒来望向窗外，看见椋鸟群（murmuration）——hundreds, maybe thousands of birds——沿电线与天空起伏飞舞。",
+   "anchor": "a murmuration of starlings – hundreds",
+   "start": 331,
+   "end": 368
+  },
+  {
+   "fact": "他在狗坟石堆边俯身发现凿刻石片（scrollwork、fluting），推断Kirkhill教堂石料被一块块搬走挪用，并想象是Caroline独自搬石堆成狗坟。",
+   "anchor": "how the church at Kirkhill had vanished so completely",
+   "start": 5776,
+   "end": 5829
+  },
+  {
+   "fact": "归途他先在道上见一只死椋鸟，几步外又一只、草丛里两只，共四只死椋鸟，石楠地上还散落着至少一打。",
+   "anchor": "Four dead starlings on the ground",
+   "start": 7619,
+   "end": 7652
+  },
+  {
+   "fact": "椋鸟群突然集体坠落：数百上千只无声落入石楠地，如黑雨般落向Kirkhill，有的落在他身后的小径、屋顶与车上。",
+   "anchor": "Hundreds, maybe thousands of birds, soundlessly",
+   "start": 8860,
+   "end": 8907
+  },
+  {
+   "fact": "一颗网球随死鸟从天而降击中他肩膀，他惊叫逃回屋内反锁；事后窗外见死鸟上千、网球数十散落花园小径。",
+   "anchor": "a glancing blow on the shoulder",
+   "start": 9732,
+   "end": 9763
+  },
+  {
+   "fact": "他打开藏Arthur日记与网球的箱子，取出Greg于9月送达的未拆信：邮戳模糊但dated from 2020，信封屋名写的是百年未用的旧名Firefleet而非Kirkhill。",
+   "anchor": "delivered by Greg in September",
+   "start": 12608,
+   "end": 12638
+  },
+  {
+   "fact": "信文催Arthur赶在落雪前立刻逃走（once the snow sets in, it will be too late），署名Micheal Benn——他记起这是1951年印行的《A History of Lyke and its Environs》作者之名，但不确定是否同一人。",
+   "anchor": "by Dr Micheal Benn",
+   "start": 14320,
+   "end": 14338
+  }
+ ]
+}
