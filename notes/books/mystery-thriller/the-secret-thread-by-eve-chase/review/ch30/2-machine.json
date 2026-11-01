@@ -1,0 +1,278 @@
+{
+  "chapter": 30,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch30 pamela.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch30_chapter_30.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "‘Surprise!’ Pamela rises from Jo’s bed, a gunshot crack in her left knee. Seeing her granddaughter blanch in the doorway",
+          "ok": true,
+          "pos": 15
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "All embargoed until preview night, the woman said. Pamela began making her case for cancelling the auction",
+          "ok": true,
+          "pos": 3066
+        },
+        {
+          "text": "Then a smart security man appeared and, before she knew it, she’d been politely steered outside",
+          "ok": true,
+          "pos": 3267
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "After forty-two minutes, the front door of the building had swung open. Pamela had frozen. But it was only a little girl",
+          "ok": true,
+          "pos": 4752
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "They smiled, offered her a space to shelter but Pamela just kept walking, marching, her left knee twingeing, not knowing",
+          "ok": true,
+          "pos": 5604
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘Rushwood.’ Carnations bloom on Jo’s cheeks but she’s unapologetic. ‘I drove down to Wiltshire a couple of weeks ago, Gr",
+          "ok": true,
+          "pos": 8462
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘My ma, your great-granny Irene, always told me Rushwood was inspired by a garden in Venice. Tony and I hoped to visit o",
+          "ok": true,
+          "pos": 9893
+        },
+        {
+          "text": "’ Her voice trails away",
+          "ok": true,
+          "pos": 10053
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Later, sitting numbly by the train window with a scalding cup of takeaway tea, she tries not to think about Jo’s noteboo",
+          "ok": true,
+          "pos": 12053
+        }
+      ],
+      "words": 77
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 19,
+        "为什么这样写": 89,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.28,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 27,
+        "为什么这样写": 57,
+        "读者视角提示": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.28,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 14,
+        "为什么这样写": 73,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.18,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 22,
+        "为什么这样写": 95,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.22,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 23,
+        "为什么这样写": 52,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.49,
+        "关键词": 0.24,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 15,
+        "为什么这样写": 85,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.27,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 17,
+        "为什么这样写": 68,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.21,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.74
+      }
+    }
+  ],
+  "form": {
+    "h1": "30. Pamela",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2229,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

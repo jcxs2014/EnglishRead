@@ -1,0 +1,80 @@
+{
+  "chapter": "ch29",
+  "text_file": "text/ch29_chapter_29.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Mimi 讲完 Caswell 家派对之夜后，Jo 出于尊重关掉录音机；脑中重演坠落画面：Alf 穿着父亲过紧的葬礼西装压在 Nancy 身上，两人一动不动躺在棋盘格地板上，Jo 三周前才走过那里",
+      "anchor": "Jo switches off the recorder out of respect",
+      "byte_offset": 149,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Jo 记起从 shortbread tin 翻出的皱巴巴 Wiltshire Gazette 剪报只报一起死亡、死者未具名，便在笔记本写下「Nancy – dead?」提醒之后上网查证",
+      "anchor": "Nancy – dead? in her notebook as a reminder to dig online later",
+      "byte_offset": 1348,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Jo 劝 Mimi 这段不必收录、不欠公众一个解释，Mimi 声音发抖却坚定地说这从来不只是拍卖（It was never just an auction），随后请 Jo 离开片刻独自冷静",
+      "anchor": "It was never just an auction",
+      "byte_offset": 2555,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Woody 通报：Lordats 催要剩余拍品；一位老妇人刚到拍卖行向接待员追问 Mimi 的拍卖（还提到摄影棚），身份未明即被保安迅速带走",
+      "anchor": "grilling the receptionist about Mimi’s sale",
+      "byte_offset": 7285,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Woody 亮出日程难题：制作方只给两天——全部文案要交印刷厂、所有拍品在 Mayfair 定妥入库，回旋余地已用尽；Jo 表示愿意全力以赴",
+      "anchor": "Two days, the production guy says.",
+      "byte_offset": 8305,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Woody 点破 Jo 私闯 Rushwood（地图从她包里掉出、外套沾芒刺）并警告那是擅闯 Mimi 产业；Jo 惊悉房子归 Mimi——Lawrence 多年前继承，从不想再住也不肯卖",
+      "anchor": "Lawrence inherited it years ago.",
+      "byte_offset": 9950,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Kaia 身份揭晓：她是 Woody 六岁的女儿，Mimi 一早特意带 Jo 去河边见她好缓和沉重访谈；Jo 曾担心 darling Kaia 是热恋女友，实为乖女儿（妈妈即 Woody 前妻因工作被叫走、学校逢 inset day）",
+      "anchor": "Kaia, Woody’s six-year-old daughter, whom Mimi took her to meet by the river early that morning",
+      "byte_offset": 3126,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Mimi 发消息提前收工（明天一早再续、Jo 回家干活），Jo 冒着两天死限赶回公寓撞见 Scott，被告知奶酪发霉、欠水费、转租女孩要收房，且一位访客刚到、已被送上楼",
+      "anchor": "a visitor just arrived. He’s sent her upstairs.",
+      "byte_offset": 14036,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Kaia 是 Woody 六岁的女儿；她妈妈（Woody 的前妻）因工作被叫走，Kaia 学校当天放假（inset day），Woody 此前从未向 Jo 提过女儿",
+    "Mimi 清晨带 Jo 到河边见 Kaia，有意让这孩子充当今天漫长沉重访谈的解药",
+    "Rushwood 属 Mimi 所有：Lawrence 多年前继承，却从不想去住也不肯卖；Celia 和 Harold Caswell 自那个夏天后再没在那里住过",
+    "Woody 和 Kaia 也去过 Rushwood（巨石阵之后绕道），为让 Kaia 看她 great-great-granny Doris 工作过的地方；Jo 那里同样有家族史却忍住没说",
+    "Alf 的旧照片（年轻、工装裤、草帽踩锹）多年来插在 Granny 梳妆台镜子的右角；Granny 从不轻易谈 Alf，Jo 一贯回避此话题，如今后悔",
+    "厨房墙上挂着 Nancy 的黑白 Rushwood 泳池照片（黑暗降临前的那个夏天）；Jo 对拍 Rushwood 的难过几乎不亚于拍卖 Nana 的被子",
+    "Jo 心里承认 Woody 是她第一个「看得上眼的爸爸」（the first dad she's fancied），两人目光相钩、空气颤动",
+    "Scott 与 Jo 同住：报奶酪发霉、催水费欠款、转租女孩要收回房间，并已把到访客人送上楼"
+  ],
+  "numbers_dates": [
+    "only three weeks earlier —— Jo 上次走过那棋盘格地板（Alf 与 Nancy 坠落处）距此仅三周",
+    "six-year-old —— Kaia，Woody 六岁的女儿",
+    "Three weeks / three auction lots ago —— 清晨河边见 Kaia 距今已隔「many intense hours and three auction lots ago」",
+    "Two days —— 制作方最后期限：全部文案交印、所有拍品定妥存于 Mayfair；Jo 也惊呼「Two days, Woody.」",
+    "a single fatality —— Wiltshire Gazette 剪报报道的死亡人数（死者未具名）"
+  ],
+  "turning_point": "Jo 私闯 Rushwood 被 Woody 点破并得知房子属 Mimi（Lawrence 继承后从不肯卖），同日一位身份不明的老妇人到拍卖行追问 Mimi 的拍卖被保安带走，Mimi 又突然中止当天访谈改明日再续；Jo 在两天死限下回到公寓，却发现已有一位访客被送上楼。"
+}

@@ -1,0 +1,83 @@
+{
+  "chapter": "ch28",
+  "text_file": "text/ch28_chapter_28.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "开篇拍卖图录：1969年7月26日七人合影由社会摄影师 Greg Bradford-Jones 拍摄，Nancy 坚持把 Bramley 一家拉进原为 Tatler 社交页拍的合影，照片反而登上全国报纸，Daily Mail 配图说明「Doomed Young Things」。",
+      "anchor": "the Daily Mail ran it with the caption: ‘Doomed Young Things’",
+      "byte_offset": 361,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "回溯四十分钟前刚到场时：Alf 把香槟当苹果酒一口干掉、又抓了一杯马提尼；Mimi 尝了生平第一颗橄榄；Mimi 和 Pamela 埋怨自己的方跟凉鞋「与年龄不符」，Pamela 还没从 Mimi 的 Mary Quant 黑短裙带来的震惊里缓过来。",
+      "anchor": "Alf had downed his like a pint of cider, then grabbed a martini",
+      "byte_offset": 2173,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Mimi 注意到 Margo 的冷眼追着 Lawrence、落到 Rafe 身上时变硬，随即心生一阵刺痛般的后悔——她把 Rafe 从 Celia 卧室里衣衫不整出来的丑事告诉了家人，而 Lawrence 和 Nancy 都还被蒙在鼓里。",
+      "anchor": "I felt a sharp pang of regret for telling my family about his sordid emergence from Celia’s bedroom.",
+      "byte_offset": 3638,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "树下单独相处时 Pamela 向 Mimi 坦白：她觉得自己「迷失」、其实不怎么喜欢人群，宁愿去除草或读书，并急切地问这是不是让她成了怪胎；Mimi 回答「这只是让你成为 Pamela，请千万别变」，Pamela 答应「尽力」。",
+      "anchor": "I’d honestly rather be weeding. Or reading.’ She paused, asked searchingly, ‘Does that make me a freak?’",
+      "byte_offset": 6751,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "风暴在山谷对岸明灭逼近，Harold 抓过麦克风打嗝宣布烟花提前燃放、以免风暴扫兴，挥手招呼宾客到泳池边草坪；随后大家在 marquee 口发现 Alf——脸颊口红斑驳、眼神因醉酒而迷离，自称喝下「好几加仑」并反问「难道你怪我？」。",
+      "anchor": "We’ve brought the fireworks forward, so the storm doesn’t steal our fun.",
+      "byte_offset": 9470,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "屋顶上：Margo 划分「姑娘们左、小伙子们右」，拔掉手套开香槟（瓶塞落到下方暖房玻璃顶上）；Rafe 把朗姆酒瓶戳到 Alf 脸前劝酒，Alf 不顾 Lawrence 的阴沉劝阻抢过酒瓶连灌两口、目光挑衅地直瞪 Lawrence，随即挑衅逼问：「那你是怎么报答的？跟 Celia？Lawrence 的母亲」——Rafe 转身瞪 Mimi，意识到是他的秘密被她抖出去的。",
+      "anchor": "‘Yeah, and how are you repaying it? With Celia?’ Alf dared, then took another swig. ‘Lawrence’s mother.’",
+      "byte_offset": 13933,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Lawrence 跳起来把走上屋檐边缘旋转（芭蕾式单脚旋）的 Rafe 粗暴按倒、骂「Don’t be a prick」；Alf 醉嘲「今晚屋顶上不止他一个混蛋」把矛头也转向 Lawrence；Lawrence 站到过近的檐边两次招手，Alf 才借醉劲硬撑上去，Lawrence 搭上示好的手臂被 Alf 甩开，两人锁进激烈争执，话被烟花的爆炸声淹没。",
+      "anchor": "When Lawrence slung a truce-like arm over his shoulder, Alf threw it off and they locked into a heated exchange",
+      "byte_offset": 15701,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "坠楼：Mimi 眼角瞥见有东西翻倾——一条猫黑般疾坠的影子；Pamela 尖叫前扑、被 Mimi 双手按肩拦住；先是冰面碎裂般的脆响，随后一声闷响与毛骨悚然的尖叫——暖房玻璃顶破了个大洞、一整块玻璃消失；Alf 四肢摊开一动不动躺在棋盘格地砖上，身下积着飞燕草蓝的丝绸，一只摊开的手掌里握着相机。",
+      "anchor": "Below, on the chequerboard tiles, lay Alf, starfished and still.",
+      "byte_offset": 16399,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Alf 与 Pamela 是双胞胎：Nancy 把 Pamela 拉回站位、按到 Alf 身边时说「Twins should be together」，且对双胞胎之间「未化解的别扭电流」毫无察觉。",
+    "Celia 是 Lawrence 的母亲：Alf 屋顶挑衅原话「With Celia? Lawrence’s mother」。",
+    "Rafe 与 Celia 有私情：Mimi 曾目睹 Rafe 从 Celia 卧室出来并把此事告诉了家人；此刻 Rafe 转身瞪 Mimi，意识到秘密是她泄露的。",
+    "Margo 以未婚妻自居对待 Lawrence：称呼「Lawrence, dear」仿佛已经结婚；目光像追野兔一样追着他，落到 Rafe 身上时变硬——她已把 Rafe 标记为坏影响（但有多坏，她和 Lawrence、Nancy 都不知道）。",
+    "Lawrence 对 Mimi 有暧昧动作与邀约：领众人上屋顶时摸她的后腰让她触电般一激灵，低声问「你没事吧」，说「找了你一整天」「晚点来找你行吗」；Mimi 因 Margo 发间的 Rosa mundi 玫瑰（她自己浇了一夏天的花）「和一个她说不清是什么的人」生出领地式的嫉妒。",
+    "Pamela 心上人是 Mackie：听到他名字脸色转软，说 Mackie 宁愿擦他的工具也不屑来这种场合；Mimi 断言「你俩是天生一对」。",
+    "宴会上 Celia 与 Rafe 共舞：Celia 从 Rafe 手中旋转入场、顾忌全无，两人目光贪恋地锁在一起。",
+    "Margo 与 Lawrence 手牵手走向码头时高声质问：跟园丁伙计谈得那么火药味十足、Alf 还醉醺醺——这番话被躲在暗处的 Mimi 和 Pamela 听见，两人立刻进 marquee 找 Alf。"
+  ],
+  "numbers_dates": [
+    "拍卖品编号 Lot 15（Nancy、Alf、Pamela、Mimi、Margo、Lawrence、Rafe 七人合影）。",
+    "照片日期：26 July 1969。",
+    "合影从左到右七人：Nancy, Alf, Pamela, Mimi, Margo, Lawrence and Rafe。",
+    "「四十分钟前」抵达宴会（四十分钟后回溯叙述）。",
+    "暖房（orangery）在屋顶正下方两层。",
+    "屋顶檐口呈锯齿纹、分成两段浅格，中间隔一道矮墙。",
+    "摄影师带着勉强的魅力倒数「One, two …」。",
+    "烟花三连爆「Bang, bang, bang」照亮天空，随后软而肥的雨点开始落下。"
+  ],
+  "turning_point": "屋顶夜谈崩盘：Alf 酒后当众抖出 Rafe 与 Celia（Lawrence 之母）的私情、并与 Lawrence 在檐边争执之际，一条黑影坠穿暖房玻璃顶——Alf 四肢摊开一动不动躺在地砖上，身下积着飞燕草蓝丝绸、摊开的手掌里是相机（Alf 坠楼生死未卜，收束全章）。"
+}

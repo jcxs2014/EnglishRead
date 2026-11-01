@@ -1,0 +1,80 @@
+{
+  "chapter": "ch30",
+  "text_file": "text/ch30_chapter_30.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Pamela 躲在 Jo 床上搞突袭，Jo 进门脸色发白；随即放下塞得鼓胀的棕色皮包（半包东西散落）扑上前吻她的脸颊。",
+      "anchor": "‘Surprise!’ Pamela rises from Jo’s bed, a gunshot crack in her left knee.",
+      "byte_offset": 25,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Pamela 此行先到 Lordats 想探拍卖品清单并劝停拍卖（免得 Jo 得知），前台称一切保密至预展夜，随后保安把她礼貌请出门外。",
+      "anchor": "All embargoed until preview night, the woman said.",
+      "byte_offset": 3306,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Pamela 按 Miriam 旧信上的地址到切尔西，坐在西藏樱桃树下的长椅上等了四十二分钟，门开的只是穿红外套的小女孩和父亲；遇雨狼狈后一路走到泰晤士河边。",
+      "anchor": "After forty-two minutes, the front door of the building had swung open.",
+      "byte_offset": 5035,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "在泰晤士河边 Pamela 情难自禁，往事涌上：Rushwood 的白垩溪流、Nana 的被子、漂在水面的草莓梗、躺在码头上的 Nancy Caswell。",
+      "anchor": "Nancy Caswell lying on the jetty.",
+      "byte_offset": 6265,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Pamela 认出 Jo 书桌上方墙上的 A4 皱地图是 Rushwood 房舍庭园图；Jo 承认两周前开车去威尔特郡、溜进了园区。",
+      "anchor": "I drove down to Wiltshire a couple of weeks ago, Granny. I snuck inside the grounds.",
+      "byte_offset": 9000,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Jo 低声确认 Rushwood 就是 Pamela 与 Tony 相识、当年全家做工的地方——和 Alf、Miriam 在一起。",
+      "anchor": "It’s where you and Grandpa Tony met, isn’t it?",
+      "byte_offset": 9360,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Jo 提议带 Pamela 一起回 Rushwood 看看，被 Pamela 拒绝（她怕继续谈下去会扯出那个可怕的夏天）。",
+      "anchor": "No, love. I can’t go back.",
+      "byte_offset": 10914,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Jo 去洗手间时，Pamela 偷看她露在包外的记者笔记本最后一页，认出两个词 “Nancy – dead?”，大惊失色，随即推说疲惫婉拒喝茶，径直赶去火车站。",
+      "anchor": "large and clear: Nancy – dead? She reels back.",
+      "byte_offset": 12371,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {"from": "Pamela", "relation": "祖母", "to": "Jo"},
+    {"from": "Pamela", "relation": "夫妻（Tony 已故，‘Not without my Tony’；两人当年在 Rushwood 相识）", "to": "Tony"},
+    {"from": "Pamela", "relation": "姐妹（‘her famous sister’，Miriam 又被称 Mimi；正筹划在 Lordats 的拍卖）", "to": "Miriam"},
+    {"from": "Pamela（与 Tony）", "relation": "据 Jo 之口：当年一家子在 Rushwood 做工，与二人共事", "to": "Alf、Miriam"},
+    {"from": "Irene", "relation": "Pamela 的母亲（Jo 的 great-granny），曾说 Rushwood 灵感来自威尼斯的庭园", "to": "Pamela"},
+    {"from": "Nancy Caswell", "relation": "Pamela 记忆中躺在 Rushwood 码头上；Jo 的记者笔记本写着 ‘Nancy – dead?’", "to": "Pamela／Jo"},
+    {"from": "Sam", "relation": "送 Pamela 珠饰耳坠作生日礼；Jo 开他‘不可靠的雷诺’去了威尔特郡", "to": "Pamela／Jo"},
+    {"from": "Dolly", "relation": "Pamela 伦敦之行时托给‘好心的农夫’照看", "to": "Pamela"}
+  ],
+  "numbers_dates": [
+    {"value": "forty-two minutes", "note": "Pamela 在切尔西长椅上蹲守的时长"},
+    {"value": "five-pound note", "note": "Pamela 施舍给流浪汉与他的獒犬混血狗的钱"},
+    {"value": "five weeks", "note": "Pamela 感觉久未见 Jo——‘far more than five weeks’"},
+    {"value": "a couple of weeks ago", "note": "Jo 开车去威尔特郡、溜进 Rushwood 的时间"},
+    {"value": "A4", "note": "Jo 书桌上方墙上皱巴巴地图的尺寸"}
+  ],
+  "turning_point": "Jo 去洗手间的空当，Pamela 偷看她露出的记者笔记本最后一页，读到 ‘Nancy – dead?’ 两个词——孙女已在追查 Nancy 之死，她惊惧之下推说疲惫婉拒喝茶，径直赶回火车站。"
+}
