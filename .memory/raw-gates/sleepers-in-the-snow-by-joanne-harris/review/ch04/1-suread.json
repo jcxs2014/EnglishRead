@@ -1,0 +1,55 @@
+{
+  "book": "sleepers-in-the-snow-by-joanne-harris",
+  "chapter": "ch04",
+  "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch04_chapter_4.txt",
+  "facts": [
+    {
+      "fact": "2024年9月23日（本章纪日）：他黎明醒来，觉出有什么不对劲。",
+      "anchor": "September 23rd, 2024",
+      "start": 20,
+      "end": 40
+    },
+    {
+      "fact": "他前夜本想烧掉在书架上找到的女人日记却没烧；这天他随手翻开标着2017的那本。",
+      "anchor": "He picked up the one marked 2017",
+      "start": 678,
+      "end": 710
+    },
+    {
+      "fact": "2017年9月9日日记：老狗Bailey去世，她亲手把狗埋在松树下、种上一株粉红杜鹃，Arthur竟没察觉。",
+      "anchor": "Dear old Bailey died today.",
+      "start": 758,
+      "end": 785
+    },
+    {
+      "fact": "他由日记联系人页猜出女主人叫Caroline、男主人叫Arthur，不知二人为何弃屋而去、如今何在。",
+      "anchor": "Arthur and Caroline. Where were they now?",
+      "start": 1823,
+      "end": 1864
+    },
+    {
+      "fact": "衣柜属Arthur：麻西装、花呢、Burberry雨衣、三打真丝领带；他挑了裤子和开领衬衫穿上，鞋袜竟都合身，视作己有。",
+      "anchor": "three-dozen silk ties",
+      "start": 2581,
+      "end": 2602
+    },
+    {
+      "fact": "陌生号码发来短信催他回电；他猜或是“她”改了号、或是孩子们发的，但无意回复，关机把手机留在书架上。",
+      "anchor": "Are you okay? Call me as soon as you get this.",
+      "start": 4014,
+      "end": 4060
+    },
+    {
+      "fact": "他走到松间空地找到那株粉红杜鹃（已与人齐高），但前夜见到的网球不见了，疑被动物叼走。",
+      "anchor": "He found the pink azalea in a glade between the pines.",
+      "start": 5171,
+      "end": 5225
+    },
+    {
+      "fact": "回屋时发现门板漆面有新砍砸痕；消失的亮绿网球又原位出现，他捡起奋力扔远，看它消失在黑暗中。",
+      "anchor": "And the tennis ball was back, just where it had been before",
+      "start": 9809,
+      "end": 9868
+    }
+  ]
+}

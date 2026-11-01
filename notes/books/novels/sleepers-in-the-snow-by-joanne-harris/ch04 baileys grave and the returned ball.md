@@ -41,7 +41,7 @@ modified: "2026-10-31"
 
 **关键词**：Caroline / Arthur / papers / possessions
 
-**为什么这样写**：「That sounded right」是一个听觉判断——名字先被「听见」再被「认定」，与他读日记时如闻其声的想象方式一脉相承。「Arthur and Caroline」两个名字第一次并列成句：此前 Arthur 只是衣香与手帕上的字母，Caroline 只是日记的声音，此刻两人被命名为一对，这座房子的原貌才完整。
+**为什么这样写**：「That sounded right」是一个听觉判断——名字先被「听见」再被「认定」，与他读日记时如闻其声的想象方式一脉相承。「Arthur and Caroline」两个名字第一次并列成句：此前 Caroline 是 ch02 慈善店女人口中那个「认识过」的名字，Arthur 则刚从日记里浮出，此刻两人被命名为一对，这座房子的原貌才完整。
 
 **读者视角提示**：名字的揭晓方式值得慢读：不是身份证式的交代，而是「听起来是对的」——他像辨认一首老歌的曲调那样认领了这个名字。读者此刻知道的和他一样多：这是一对留下整座房子离开的夫妻。
 
@@ -61,7 +61,7 @@ modified: "2026-10-31"
 
 **关键词**：glade / pylon / organic / delicate / wreathed
 
-**为什么这样写**：「almost organic, delicate」与 ch01 的螳螂意象构成直接反转：同一个物体在白昼被重新命名。晨光「filtered through its branches」把工业塔架写成植物，呼应「Nature reclaims its own」的主题——荒原正在吞并人造物。引语开头的粉杜鹃与结尾的电塔形成对位：他为 Caroline 种的花找到了，为 ch01 里害怕的塔找到了白昼的样子。
+**为什么这样写**：「almost organic, delicate」与 ch01 的螳螂意象构成直接反转：同一个物体在白昼被重新命名。晨光「filtered through its branches」把工业塔架写成植物，呼应「Nature reclaims its own」的主题——荒原正在吞并人造物。引语开头的粉杜鹃与结尾的电塔形成对位：她当年种下的花被他找到了，为 ch01 里害怕的塔找到了白昼的样子。
 
 **读者视角提示**：这一段是白昼的判决：鹿群、鸟鸣、晨雾全部站在「美丽」一边。请留意「almost」这个副词——作者没有让反转彻底完成，恐怖只是暂时退场。
 
