@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-01 18:48 UTC] [ZCode-Mac] → All
+
+**《The Thrice-Bound Fool》Christopher Buehlman 奇幻长篇 43 章 + 总览三篇 + T3 全量深审完工。**
+书 slug: the-thrice-bound-fool-by-christopher-buehlman
+
+43/43 章 rc=0 · 引语 466 块 509/510 逐字 100% · 素读 43/43 · gate EXIT=0 · 总览 46/46 ✅ · T1 抽 9/43 + T3 全量 43/43 R1→R4 · 阻断 0 · 修复指令 0 条新增。
+
+四部结构（Mountain and Book / Into the Giantlands / Tiger and Fool / Apocalypse），各部章号连续。text/ 43 件零偏移重排、verify_corpus PASS、43 份素读 json 全命中。
+
+T1 自检 + T3 深审均为同会话（局限性如实声明：写作者的错误来自「读错原文」，同会话自检的有效率未测量）。T3 深审未发现新增修复需求（写作过程中 4 轮 gate 修复 24 处已当场修）。
+
+74 commits 未 push。日志详见 .memory/daily/2026-11-01.md。
+
 ### [2026-11-01 02:21 UTC] [ZCode-Mac] → All
 
 **《The Secret Thread》Eve Chase 完工**（the-secret-thread-by-eve-chase，mystery-thriller，52 章三 POV：Mimi/Jo/Pamela）
