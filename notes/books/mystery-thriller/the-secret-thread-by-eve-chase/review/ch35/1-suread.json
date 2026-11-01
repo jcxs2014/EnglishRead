@@ -1,0 +1,90 @@
+{
+  "chapter": "ch35",
+  "text_file": "text/ch35_chapter_35.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Alf 死于一个周日上午十一点半——突发性、灾难性的脑溢血，临终时手牵着 Pamela，距『我』（Mimi/Miriam）离家仅八天。",
+      "anchor": "Alf died on a Sunday. Half past eleven in the morning, his hand in Pamela",
+      "byte_offset": 240,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "葬礼在村里教堂举行：Caswell 家无人到场、Lawrence 也没来；家人隐约认为『我』对 Alf 之死负有部分责任（连同 Lawrence），父亲不肯与我对视；Doris 悄声转达口信——Lawrence 知道自己不受欢迎，但心里惦记着我们。",
+      "anchor": "But Doris passed on a message, under her breath",
+      "byte_offset": 1281,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "葬礼夜『我』宿在 Doris 家沙发上（Pamela 借口肠胃炎避免任何身体亲近），一夜无眠，次日返回伦敦；家人无人开口说『Miriam，我们需要你，再多待会儿』。",
+      "anchor": "No one said, ‘Miriam, love, we need you home, stay a bit longer.’",
+      "byte_offset": 2766,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "在伦敦『我』弃用本名 Miriam、改称 Mimi，工作用姓 Mott（母亲的娘家姓，经 Whipple 一句 Here be Mimi Mott! 敲定）；Rafe 从圈内风闻『我』在找房，让『我』住进 Ladbroke Grove 一栋合租屋的阁楼间，还自己多付钱暗中压低『我』的房租。",
+      "anchor": "I could be Mimi, not Miriam. And for work, Mott.",
+      "byte_offset": 7233,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "葬礼六周后、十一月末的一个周日早晨，Rafe 敲门报信：Lawrence 正在楼下（Tilda 先来给 Rafe 通风报信），并慌张交代若他问起就说『我』不在、或已搬走。",
+      "anchor": "‘Lawrence,’ he hissed, his eyes wide.",
+      "byte_offset": 10610,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Lawrence 坦白：已从牛津退学、不想回去也不知如何重新开始，Margo 在他退学时甩了他；他说家人禁止他与她们接触，并誓言自己没推也没碰 Alf——『我』轻触他手臂答 I do（我相信）；『我』问派对上他想私下说的话，他只说 I can't …，『我』便不再追问。",
+      "anchor": "I didn’t push him or touch him.’",
+      "byte_offset": 16999,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Lawrence 赠『我』一条项链：18K 金、金质心形吊坠内嵌小颗祖母绿、维多利亚时期（章首图录 Lot 19，1969 年由 Lawrence Caswell 购于伦敦 Notting Hill 的 Portobello Road 珠宝商）；他说昨天在该市集摊位看见它、当天也来寻『我』却临阵胆怯（见『我』与另一女孩说笑着出门）；他说项链归『我』、冲进马桶也随『我』，『我』说 I love it 并道谢。",
+      "anchor": "Lot 19: Eighteen-carat gold necklace with a small heart-shaped emerald set in a gold heart-shaped pendant, Victorian.",
+      "byte_offset": 23,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Lawrence 告辞下楼后，『我』冲到楼梯栏干边叫住他，他跑回阁楼；在唯一不用弯腰处他握住我的手、含泪唤 Miriam，两人做爱——除那条项链外全身赤裸。",
+      "anchor": "naked but for that necklace",
+      "byte_offset": 21210,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Pamela 是『我』（Mimi/Miriam）的姐妹（逐字 my sister）；她已与 Mackie 订婚，Alf 临终手牵着她",
+    "Mackie 已离开 Rushwood，随『我』全家迁入 Bantam End，与 Pa 一起干活",
+    "Lawrence Caswell：与『我』重逢的旧情人；被『我』家禁止接触、家人视其对 Alf 之死负有部分责任；赠项链并与『我』同床",
+    "Lawrence 与 Rafe 的友谊已破裂未复；Lawrence 上楼时 Rafe 躲进浴室",
+    "Margo 在 Lawrence 退学时甩了他（Sensibly dropped me when I dropped out）",
+    "Rafe 是『我』的合租室友，对『我』兄长般照拂并暗中补贴房租；他曾与 Celia 有染（早已结束）；他有乐队（键盘手跑调）",
+    "Whipple 是『我』工作上跟随的人（his plus one），其男友是 Rupert；Mimi Mott 之名出自 Whipple",
+    "Tilda 向 Rafe 通风报信说 Lawrence 来了",
+    "Doris 是村里有小屋的邻里：葬礼夜『我』宿其沙发，她替 Lawrence 转达口信",
+    "Ma、Pa、Pamela、Mackie 已迁入 Bantam End——Suffolk 一座属于 Lady Mellors 好心老亲戚的庄园（Pamela 的信促成）；Pa 在那里找到园艺工作",
+    "Nancy 与 Alf 均已亡故；Lawrence 说 Nancy 和 Alf（还打赌 Pamela）会为『我』骄傲"
+  ],
+  "numbers_dates": [
+    "Lot 19（章首拍卖图录编号）",
+    "in 1969（图录：Lawrence Caswell 购项链年份）",
+    "Half past eleven in the morning（Alf 死亡时刻）",
+    "eight days after I left home（离家八天后 Alf 去世）",
+    "Sunday morning, late November, six weeks later（重逢时点：葬礼六周后、十一月末的周日晨）",
+    "Eighteen-carat gold（项链材质，逐字）",
+    "eight housemates（合租室友八人）",
+    "five floors below（阁楼窗距街面五层）",
+    "one black, one navy（Lawrence 左右脚的怪袜子）",
+    "last at least an hour（雨日下午一杯浓茶撑至少一小时）",
+    "worked seven days a week（『我』情愿一周做工七天）",
+    "two parallel versions of my Saturday morning（昨日他来寻而『我』不知，恍若两个平行的周六早晨）"
+  ],
+  "turning_point": "Lawrence 告辞走下楼梯时，『我』追到楼梯口叫住他——他含泪跑回、握手唤 Miriam，两人做爱（仅戴那条祖母绿心形项链）：被 Alf 之死与 Rushwood 阴霾隔开的两人重新连结。"
+}

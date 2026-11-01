@@ -1,0 +1,247 @@
+{
+  "chapter": "ch34",
+  "text_file": "text/ch34_chapter_34.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "访谈开场：Mimi 调整椅上条纹靠垫、啜一口加冰气泡水，定调当年出走——『说到底就一句：我没有回头』；乔却自知从接活起就一直在绕圈、换方向换忠诚，摸不清她、故事与拍卖会正走向何方。",
+      "anchor": "I didn’t turn back, Jo. That’s all it comes down to in the end.",
+      "byte_offset": 24,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "乔仍被祖母昨日突然到访搅得心神难安：地图上墙后祖母先遭『重拳般』震惊、随即流露渴望（且并非渴望 Rushwood），还回避了咖啡馆之行——那里乔本想提 Alf；她事后上网深挖 Caswells 家派对：查无 Alf 之名，Nancy 的死讯则见于多处记载。",
+      "anchor": "searching for more details about the Caswells’ party. No mention of Alf’s name in relation to it",
+      "byte_offset": 1430,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Mimi 续述出走：一路哭到公交站、又哭上开往伦敦的火车，宣称『可我自由了』；乔赞她勇敢（心里补一句『胆大得要命』），她纠正说留下来——像 Pamela 那样——才更需勇气，并叮嘱乔把这句写进本子。",
+      "anchor": "I sobbed all the way to the bus stop, then on the train to London",
+      "byte_offset": 1688,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "还不到四点半 Mimi 便起身宣布『就到这里收尾』，称此处收束正与她的『美国岁月』实物资料衔接；乔指出 Lordats 要求明天下班前交齐全部稿子，慌乱抗辩『我们才讲了一个夏天』『故事没完，Mimi——它也没跟我们完』；Mimi 以『那个夏天种下了一切』回应，僵持后让步：『问吧，快一点。』",
+      "anchor": "Lordats want everything wrapped end of day tomorrow. Shouldn’t we just keep going?",
+      "byte_offset": 3373,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "乔追问名流派对（尤其八九十年代的 A-list）为何没触发创伤；Mimi 称宾客混搭才有意思、待客办得好极利生意（Whipple 所授），并转述纽约治疗师朋友 Gloria 的判断：最狂热的办派对岁月是在重演 Rushwood 那一夜、想给它换个结局。",
+      "anchor": "trying to recast the past, playing that night at Rushwood over and over to give it a different ending",
+      "byte_offset": 6011,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Mimi 自曝旧痛清单（八十年代末股灾、麦道夫、2008 年损失数百万）后主动坦白 Lawrence 九十年代初与芭蕾舞者的婚外情，乔的『童话』破灭、瘫坐椅中；Mimi 力挺逾五十年婚姻——Lawrence 极有魅力但『受伤』、是她最大的拥趸、『我们从没丢掉火花』；又说自己婚外的『情』其实是工作，Lawrence 戏称之为『三角同床』。",
+      "anchor": "Lawrence’s ballerina. Early nineties. Very painful. Humiliating, of course.",
+      "byte_offset": 7414,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Mimi 点出『真正的悲伤是失去的活人』，乔低声确认『Pamela？』并试探劝她主动联络（声音都劈了）；Mimi 透露多年来屡次示好——礼物、信件、纽约圣诞邀约——与『Mimi 抛弃了 Bramley 一家』的家族口径相抵，但『只会把她推得更远』。",
+      "anchor": "I’ve tried many, many times over the years. Presents. Letters. Invitations to New York for Christmas",
+      "byte_offset": 9947,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Mimi 戳破乔的引导（『我看穿你在干什么了，Jo O’Mara！』）；乔认账并允诺连夜写稿、明早把稿子发进她邮箱；Mimi 端详乔后把织物样册推到一边，起身取出黄铜搭扣刻着 MM 的玳瑁小首饰盒，用指尖推给乔：『那还等什么？打开这该死的首饰盒。』乔迟疑后掀开盒盖——章在此悬停。",
+      "anchor": "Well, what are you waiting for? Open the goddamn jewellery box.",
+      "byte_offset": 11247,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Mimi 是 Jo 的祖母（乔称呼 Granny；昨日突然到访，着装讲究，见到墙上的地图先震惊后流露渴望，令乔觉得两人正站在『全新对话』的最薄边缘）",
+      "anchor": "her grandmother’s unexpected visit yesterday",
+      "byte_offset": 733,
+      "hits": 1
+    },
+    {
+      "relation": "Mimi 与 Pamela 是姐妹：Mimi 出走后留下『姐妹形空洞』，如彗星般灼烧沿途一切",
+      "anchor": "Mimi had left behind a sister-shaped gap",
+      "byte_offset": 960,
+      "hits": 1
+    },
+    {
+      "relation": "Mimi 与 Lawrence 结缡逾五十年：他从不要聚光灯、是她最大的拥趸，夫妻始终是团队、吵得像野猫也『从没丢掉火花』",
+      "anchor": "we were married for over fifty years",
+      "byte_offset": 7593,
+      "hits": 1
+    },
+    {
+      "relation": "Lawrence 曾与一位芭蕾舞者婚外情（乔惊呼确认：『他出轨了？』）",
+      "anchor": "He had an affair?",
+      "byte_offset": 7504,
+      "hits": 1
+    },
+    {
+      "relation": "Harold 与 Celia 是 Lawrence 的父母，以一场『糟糕的离婚』收场（Lawrence 的『受伤』与此有关）",
+      "anchor": "His parents’ horrible divorce didn’t help matters.",
+      "byte_offset": 7782,
+      "hits": 1
+    },
+    {
+      "relation": "Celia 把自己的黑色素瘤戏命名为 Harold（以夫之名恨之）",
+      "anchor": "Celia named her melanoma after Harold.",
+      "byte_offset": 7872,
+      "hits": 1
+    },
+    {
+      "relation": "Harold 酗酒、嗜赌、患早老性痴呆，至死不原谅 Lawrence 娶了 Mimi",
+      "anchor": "He never forgave Lawrence for marrying me.",
+      "byte_offset": 8056,
+      "hits": 1
+    },
+    {
+      "relation": "Celia（Cee-Cee）离开 Harold 回 Palm Beach，晚年反与 Mimi 交好：在 Nantucket 沙发上端着薄荷朱丽普『垂帘听政』、指点室内软装",
+      "anchor": "she and I grew pretty close in the end",
+      "byte_offset": 8234,
+      "hits": 1
+    },
+    {
+      "relation": "Mimi 的『婚外情』对象其实是她的工作，Lawrence 戏称之 ménage à trois",
+      "anchor": "My extramarital affair was my work",
+      "byte_offset": 8930,
+      "hits": 1
+    },
+    {
+      "relation": "Woody 在走廊另一端工作、不时过来向 Mimi 提来不及等的问题；乔见着他的身影便心口发紧、思维发亮，如被灌入新鲜氧气",
+      "anchor": "makes her belly tighten, her mind sharpen and spark",
+      "byte_offset": 2926,
+      "hits": 1
+    },
+    {
+      "relation": "Gloria 是 Mimi 在纽约的治疗师朋友，常赴她的派对；其判断：狂热办派对岁月是想给 Rushwood 那一夜换个结局",
+      "anchor": "Gloria, my therapist friend in New York",
+      "byte_offset": 5925,
+      "hits": 1
+    },
+    {
+      "relation": "Alf：乔本打算在咖啡馆向祖母提起的人（被回避）；上网查 Caswells 派对也查无此名——或因他进了医院、或因非名门",
+      "anchor": "raise the subject of Alf",
+      "byte_offset": 1291,
+      "hits": 1
+    },
+    {
+      "relation": "Nancy：死讯见于多处记载（乔叹『可怜的 Nancy』）",
+      "anchor": "Nancy’s death was recorded in a couple of places",
+      "byte_offset": 1619,
+      "hits": 1
+    },
+    {
+      "relation": "Bramleys：家族口径一直是『Mimi 抛弃了 Bramley 一家』——与 Mimi 自述多年反复示好相矛盾",
+      "anchor": "Mimi abandoned the Bramleys",
+      "byte_offset": 10160,
+      "hits": 1
+    },
+    {
+      "relation": "Whipple：教会 Mimi『待客办得好极利生意』的人",
+      "anchor": "as Whipple taught me",
+      "byte_offset": 5735,
+      "hits": 1
+    },
+    {
+      "relation": "Rushwood：Mimi 当年出走的雾中小径所在、『那一夜』的发生地，她后来借派对反复重演的创伤核心",
+      "anchor": "that night at Rushwood",
+      "byte_offset": 6046,
+      "hits": 1
+    },
+    {
+      "relation": "失落的海玻璃心（sea-glass heart）：乔心中闪现、『大概也在 Mimi 心中』的信物/母题",
+      "anchor": "The lost sea-glass heart winks in Jo’s mind",
+      "byte_offset": 4643,
+      "hits": 1
+    },
+    {
+      "relation": "Jo O’Mara：乔的全名，Mimi 点破她的小算盘时喊出",
+      "anchor": "Jo O’Mara",
+      "byte_offset": 10320,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "item": "Not even four thirty——收工提议时还不到四点半（乔原预期在 Chelsea 干到深夜）",
+      "anchor": "Not even four thirty",
+      "byte_offset": 3273,
+      "hits": 1
+    },
+    {
+      "item": "end of day tomorrow——Lordats 的交稿死线：明天下班前",
+      "anchor": "end of day tomorrow",
+      "byte_offset": 3405,
+      "hits": 1
+    },
+    {
+      "item": "one summer——『我们才讲了一个夏天』（乔的进度抗辩）",
+      "anchor": "only covered one summer",
+      "byte_offset": 4291,
+      "hits": 1
+    },
+    {
+      "item": "eighties and nineties——Mimi 名流派对的全盛年代",
+      "anchor": "Especially in the eighties and nineties",
+      "byte_offset": 5260,
+      "hits": 1
+    },
+    {
+      "item": "late eighties stock-market crash——八十年代末股灾（Mimi 自述旧痛之一）",
+      "anchor": "the late eighties stock-market crash was nasty",
+      "byte_offset": 6992,
+      "hits": 1
+    },
+    {
+      "item": "Madoff——麦道夫（Mimi：『混蛋』）",
+      "anchor": "Then Madoff. Bastard.",
+      "byte_offset": 7040,
+      "hits": 1
+    },
+    {
+      "item": "millions in 2008——2008 年损失数百万",
+      "anchor": "We lost millions in 2008, of course",
+      "byte_offset": 7062,
+      "hits": 1
+    },
+    {
+      "item": "Early nineties——Lawrence 与芭蕾舞者婚外情的时间",
+      "anchor": "Early nineties",
+      "byte_offset": 7438,
+      "hits": 1
+    },
+    {
+      "item": "over fifty years——Mimi 与 Lawrence 的婚姻时长",
+      "anchor": "over fifty years",
+      "byte_offset": 7613,
+      "hits": 1
+    },
+    {
+      "item": "decades ago——Mimi 数十年前穿着朴素、走过雾中小径离家",
+      "anchor": "down a foggy country lane decades ago",
+      "byte_offset": 2112,
+      "hits": 1
+    },
+    {
+      "item": "MM——首饰盒黄铜搭扣上的刻字",
+      "anchor": "the brass clasp engraved with the letters MM",
+      "byte_offset": 11045,
+      "hits": 1
+    },
+    {
+      "item": "tonight / by morning——乔允诺连夜写稿、明早交进 Mimi 邮箱",
+      "anchor": "I’ll write it all up tonight. The copy will be in your inbox by morning.",
+      "byte_offset": 10698,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Mimi 被戳穿乔的引导后不再回避，主动取出黄铜搭扣刻 MM 的玳瑁首饰盒推给乔并命她打开——访谈由『就此收尾』急转为『开盒』悬念，章末停在乔掀盖一刻。"
+}

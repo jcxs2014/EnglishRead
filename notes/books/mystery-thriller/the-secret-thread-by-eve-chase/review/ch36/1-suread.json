@@ -1,0 +1,81 @@
+{
+  "chapter": "ch36",
+  "text_file": "text/ch36_chapter_36.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "章首是拍卖目录条目：Lot 20 为 Asprey 纯银马蹄铁手链，Mimi 于 1969 年购作妹妹 Pamela 的结婚礼物，后被退回，未佩戴，附原盒。",
+      "anchor": "Lot 20: Sterling silver horseshoe charm bracelet, Asprey.",
+      "byte_offset": 23,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Mimi 乘伦敦—萨福克火车穿过十二月浓雾到站；Ma 在站台第一句话就问『你一个人？你没把他带来吧？』，Mimi 答自己还是『你的 Miriam』。",
+      "anchor": "The London–Suffolk train burrowed through soupy December fog",
+      "byte_offset": 229,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "拥抱时 Mimi 觉得 Ma 更虚弱了；Ma 打量并挑剔她的精灵短发与裙装，看见翡翠心形项链时嘴角抽动、一言不发。",
+      "anchor": "her mouth twitched. She didn’t need to say anything.",
+      "byte_offset": 1969,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Ma 招手叫出租车——少有的奢侈，Mimi 判断更多出于 Ma 的自尊（怕女儿习惯了阔气），且 Ma 不让她付钱；随后到红砖市政风格的登记处。",
+      "anchor": "She lifted her hand for a taxi, a rare extravagance.",
+      "byte_offset": 3303,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "见到 Pa 时 Mimi 顿时紧绷：想起他拳砸厨房餐桌、吼她永远别想回家、Alf 葬礼上不与她对视；Pa 只以生硬客气的“Good afternoon”相迎，两人互不原谅。",
+      "anchor": "I heard him shout that I’d never be welcome home again",
+      "byte_offset": 3762,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Mimi 突然担心 Mackie 不愿她在场，但 Mackie 一看见她就咧嘴大笑——他这份热情是那天家人中稀缺的巨大宽慰。",
+      "anchor": "But Mackie caught sight of me and cracked a wide smile.",
+      "byte_offset": 4868,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Pamela 挽着 Pa 入场，目光立刻找向 Mimi、在翡翠心项链上顿了一拍，随即报以小而得体的微笑，稳步走向『父母都喜爱的大块头好心园丁』Mackie；她穿老式收腰蓬裙、珠饰白披肩，捧绢花，如冬日女王。",
+      "anchor": "Pamela’s gaze sought me out immediately, snagged on my emerald-heart necklace.",
+      "byte_offset": 5337,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Pamela 在登记台前转身握 Mackie 的手时披肩移位，Mimi 看见她胸部涨了两三个罩杯、紧束腰身仍粗成小孕肚；她屏息看向 Ma，Ma 极轻的一点头就是回答。",
+      "anchor": "her neat waist had thickened, rounding into a small bump",
+      "byte_offset": 6152,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Mimi 与 Pamela：姐妹；Lot 20 手链即 Mimi 1969 年送 Pamela 的结婚礼物（后被退回、未戴）；Pamela 今日嫁 Mackie，见 Mimi 的项链先顿了一拍再微笑。",
+    "Mimi 与 Lawrence：恋人；Mimi 心里称其为灵魂伴侣、最好的朋友，但始终没对母亲说出口；Ma 见面第一句就是怕她把 Lawrence 带来。",
+    "Mimi 与 Ma：疏离未断——Ma 是唯一打电话来的人，仍寄纸绳包裹（针线包、Nana 的被子、Tetley 茶包）；对女儿新造型不满；且早已知道 Pamela 有孕（极轻点头作答）。",
+    "Mimi 与 Pa：决裂未解——他曾拳砸餐桌、吼她永远不欢迎回家，Alf 葬礼上不与她对视，两人互不原谅；当日他仍以生硬客气相待并挽 Pamela 入场。",
+    "Pamela 与 Mackie（Tony Mackie）：当日成婚；他是『我父母都喜爱的大块头好心园丁』；宾客仅 Mackie 亲友一排椅子，礼成后只去酒馆吃香肠卷，属小型『现代式』登记处婚礼。",
+    "Mimi 与 Mackie：Mimi 担心他不欢迎自己，Mackie 却咧嘴大笑示好——那天家人中稀罕的热情。",
+    "翡翠心项链：Ma 与 Pamela 见之都反应异常（嘴角抽动／目光顿住），文中未说明其来历。",
+    "Alf：已故（Alf 之死与葬礼被提及；Mimi 猜想这动摇了 Ma 的信仰，故婚礼未在教堂举行）。",
+    "Mimi 几乎未进宾客名单：她自嘲『能上宾客名单算我幸运』，Ma 目光一滑暗示她差点没被邀请。"
+  ],
+  "numbers_dates": [
+    "Lot 20（拍卖批号 20）",
+    "1969（手链购于 1969 年，作 Pamela 结婚礼物）",
+    "December（十二月浓雾，冬季婚礼）",
+    "a cup size or three（Pamela 胸围涨了两三个罩杯）",
+    "one row of chairs（宾客仅 Mackie 亲友一排椅子）"
+  ],
+  "turning_point": "登记台前披肩一移，Pamela 的身孕当场显形（胸涨、腰粗成小孕肚），Ma 极轻的点头表明母亲早已知情——这场小型『现代式』婚礼上无人言说的真相被 Mimi 亲眼识破。"
+}
