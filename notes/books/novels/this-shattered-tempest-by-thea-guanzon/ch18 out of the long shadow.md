@@ -25,7 +25,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：留意 "all of five hours" 里的那个 all of，它带着自嘲，说明他清楚这数字有多荒唐。把这个数字记住，等他嘴上说“我没事”的时候，就有东西可以对。
 
-> **原句 2:** "He jerked awake feeling as though he’d taken a spear of ice to the chest. The cold consumed his veins, an endless winter. His gaze fell on the evening sky beyond the windows, where Lir’s fifth moon had turned blood-red."
+> **原句 2:** "“Nisene’s instincts are usually never awry,” he heard Sevraim say as though from a great distance. “And with you back on the front lines, I was certain we’d have found the escaped prisoners by now . . . Good gods, man, you’re swaying.”"
+
+- **中文理解**：「妮塞娜的直觉几乎没有错过。」塞夫雷姆的声音像是从很远的地方传来。「而且你都回到前线了，我以为我们早该抓到那些逃犯了……天哪，你站都站不稳了。」
+
+- **关键词**：Nisene’s instincts · never awry · swaying
+
+- **为什么这样写**：这一段的重点是「听不清」：叙述先给 he heard … as though from a great distance，才把话递进来——话是从远处飘过来的，人已经快撑不住了。塞夫雷姆说的是战况，落在纸上的却是他的身体：`you're swaying` 这一句由别人替读者看见，比任何自我描写都准。
+
+- **读者视角提示**：本块引语之前还有一小段对话（不在本块引语内）：塞夫雷姆先夸皇后身边的侍女「是位可爱的姑娘」，阿拉里克头也不抬地回一句「别碰她」，理由是「我不想让妻子因为你管不住自己而换侍女」。到这一段，劝他休息的话才从战况拐到身体上。
+
+> **原句 3:** "He jerked awake feeling as though he’d taken a spear of ice to the chest. The cold consumed his veins, an endless winter. His gaze fell on the evening sky beyond the windows, where Lir’s fifth moon had turned blood-red."
 
 - **中文理解**：他猛地惊醒，胸口像被一柄冰矛捅穿。寒气灌满血管，是一个走不到头的冬天。视线落到窗外的夜空——里尔的第五轮月亮已经变成血红色。
 
@@ -35,7 +45,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：血红的月亮解释了他为什么从椅子上弹起来往塔拉辛的房间走——这一趟不是心血来潮，是被月亮叫去的。
 
-> **原句 3:** "He had hoped that, with her aethermancy gone, she would no longer suffer the effects of eclipse magic. He would have done anything to spare her that pain. But she was on her knees on the floor when he burst in, one hand clawing at the bedpost as the rest of her doubled over in agony."
+> **原句 4:** "He had hoped that, with her aethermancy gone, she would no longer suffer the effects of eclipse magic. He would have done anything to spare her that pain. But she was on her knees on the floor when he burst in, one hand clawing at the bedpost as the rest of her doubled over in agony."
 
 - **中文理解**：他原本指望她的以太术被拿走之后，月食的效力就再也伤不到她；为了免掉她这份疼，他什么都肯做。可他冲进门时，她正跪在地上，一只手抠住床柱，身子其余的部分痛得折了下去。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她抓住的是床柱，不是他。同一个句子里，这个细节已经把“她不再主动伸手”写完了，不必另找解释。
 
-> **原句 4:** "Before, they had instinctively reached for each other, seeking that comfort without a second thought. Now, however, even in the depths of immense suffering, a tremor of hesitation ran through Talasyn’s frame, her lips parting in helpless indecision as she turned almost as pale as her flimsy white nightdress."
+> **原句 5:** "Before, they had instinctively reached for each other, seeking that comfort without a second thought. Now, however, even in the depths of immense suffering, a tremor of hesitation ran through Talasyn’s frame, her lips parting in helpless indecision as she turned almost as pale as her flimsy white nightdress."
 
 - **中文理解**：从前，两个人会本能地朝对方伸手，连想都不用想。如今，哪怕痛到这个地步，塔拉辛身上仍先过了一阵迟疑的颤，嘴唇张开却拿不定主意，脸色白得几乎和她那件薄薄的白睡裙一样。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：别急着判定她在赌气。tremor 这个词的重点是“不肯听话的身体”：想伸手，又怕落空。
 
-> **原句 5:** "Alaric closed the distance between him and Talasyn, stepping out from the long shadow that his childhood had cast over his whole life. He knelt beside her, wrapped his arms around her, and pressed his lips to hers."
+> **原句 6:** "Alaric closed the distance between him and Talasyn, stepping out from the long shadow that his childhood had cast over his whole life. He knelt beside her, wrapped his arms around her, and pressed his lips to hers."
 
 - **中文理解**：阿拉里克缩短两人之间的距离，一步从童年投在他整条命上的那道长影里走了出来。他跪到她身边，双臂把她圈住，把嘴唇压到她的唇上。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意 shadow 的归属。这道影是“童年投下的”，不是她投下的；他跨过去的时候，跨的是自己家里带出来的东西。
 
-> **原句 6:** "It felt like coming home. Like he had, in steps the reverse of hers, walked into daylight for the first time, her hand in his while the sun gilded his skin and she took refuge in the shadow that he cast."
+> **原句 7:** "It felt like coming home. Like he had, in steps the reverse of hers, walked into daylight for the first time, her hand in his while the sun gilded his skin and she took refuge in the shadow that he cast."
 
 - **中文理解**：那感觉像回家。像他沿着与她相反的次序，走进了日光：她把手放进他手里，太阳给他的皮肤镀上金色，而她就此躲进他投下的那片影子里。
 

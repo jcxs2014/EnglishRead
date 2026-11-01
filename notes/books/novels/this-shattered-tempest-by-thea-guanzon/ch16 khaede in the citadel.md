@@ -43,7 +43,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：开头一句「Their Majesties」就把夫妻失和说成了公开的常识，等于替整座城塞定好了看这场婚姻的调子。接着他把「礼物」两个字塞进来：泼出去的是可可，被点到的却是丈夫的心意，打趣和指控压在同一口气里。真正要送到的信息在最后半句——亲自下厨房，他要塔拉辛知道这份体贴的来处，也要她欠下这份人情。
 
-- **读者视角提示**：塞夫雷姆是来传话的，不是来劝架的。他把礼物和「亲自」两处都摆出来，一边替阿拉里克说话，一边在试这位新皇后的反应；她怎么接这句玩笑，会被他记下来。
+- **读者视角提示**：塞夫雷姆是来传话的，不是来劝架的。他把礼物和「亲自」两处都摆出来，一边替阿拉里克说话，一边在试这位新皇后的反应；她怎么接这句玩笑，会被他记下来。紧接着的几段把这场试探走完（那几句不在本块引语内）：她先矢口否认，说「我只是笨手笨脚」「陛下与我十分和睦」；塞夫雷姆随即自陈是奉命来盯着「他眼里的酸苹果」；最后她把杯子放下，直接点出「陛下是出去搜捕那些逃犯了吧」——一句装作早就知道的反问，把情报要了回来。
 
 > **原句 4:** "It would be nice, Talasyn thought, if she could someday be allowed to feel just one emotion, rather than several all at once, conflicting with one another as they spilled through her in a muddle much like the cocoa currently dribbling down the tablecloth. She was horrified that Sevraim had basically intimated that she and Alaric were in a lovers’ spat in front of Khaede."
 

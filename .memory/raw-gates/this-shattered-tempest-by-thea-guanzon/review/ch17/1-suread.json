@@ -1,0 +1,135 @@
+{
+  "chapter": "ch17",
+  "source": "text/ch17_chapter_seventeen.txt",
+  "char_total": 18462,
+  "events": [
+    {
+      "i": 1,
+      "summary": "阿拉里克自任务失败而归，塔拉辛在水下暗自松口气：军团落空意味着她的同伴又安全一天。",
+      "quote": "Hidden beneath the water, Talasyn’s hammering heart slowed. The Shadowforged Legion’s failure meant that her comrades were safe for one more day.",
+      "start": 552,
+      "end": 697
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛邀阿拉里克一同泡澡，说浴缸容得下两个人。",
+      "quote": "“Were you also planning on taking a bath?” Her voice was low with loneliness, rough with yearning. “There’s enough room.”",
+      "start": 1911,
+      "end": 2032
+    },
+    {
+      "i": 3,
+      "summary": "阿拉里克跪在浴缸边抱住塔拉辛，求她等他准备好。",
+      "quote": "“For the sake of my own sanity, I hope it’s someday soon. I just need some time. Wait for me.”",
+      "start": 2656,
+      "end": 2750
+    },
+    {
+      "i": 4,
+      "summary": "议事厅里十区总督抱怨黑市芒果泛滥，阿拉里克拒绝加运芒果，只答应派几名军团兵。",
+      "quote": "A black market was flourishing in his territory. People could not get enough of Nenavarene mangoes",
+      "start": 5804,
+      "end": 5902
+    },
+    {
+      "i": 5,
+      "summary": "两天后塔拉辛走上阳台，看见阿拉里克为她种下的小花园。",
+      "quote": "It was a modest garden by Nenavarene standards, but Alaric had planted it for her.",
+      "start": 11543,
+      "end": 11625
+    },
+    {
+      "i": 6,
+      "summary": "凯德当面质问塔拉辛，说全境都在怀疑她当年动手的理由。",
+      "quote": "“But I wonder if your reasons were sound. Talasyn”—her voice hardened—“everyone in the Allfold is wondering.”",
+      "start": 12600,
+      "end": 12709
+    },
+    {
+      "i": 7,
+      "summary": "凯德转达维拉的新命令：由塔拉辛协助找出并瘫痪凯萨斯虚空炮的能量源。",
+      "quote": "“Vela gave me new orders. I am to help you find the power source for Kesath’s void cannons and disable it.”",
+      "start": 14632,
+      "end": 14739
+    },
+    {
+      "i": 8,
+      "summary": "塔拉辛比对露埃芙两次泄密，判定这不是巧合，怀疑背后是乌尔杜雅下的令。",
+      "quote": "Once was an honest mistake. Twice was not a coincidence.",
+      "start": 17053,
+      "end": 17109
+    }
+  ],
+  "relations": [
+    {
+      "a": "塔拉辛",
+      "b": "阿拉里克",
+      "relation": "夫妻（起于政治联姻，如今已有真感情）",
+      "quote": "anyone would be irked to come home to their wife of political convenience lurking in the bathtub covered in soapsuds",
+      "start": 168,
+      "end": 284
+    },
+    {
+      "a": "凯德",
+      "b": "塔拉辛",
+      "relation": "旧日战友，如今是她的贴身侍女，彼此试探、互不信任",
+      "quote": "“I knew you during the war,” Khaede said flatly. “I don’t know you as the Nenavarene Lachis’ka or the Kesathese Night Empress.",
+      "start": 13868,
+      "end": 13994
+    },
+    {
+      "a": "露埃芙",
+      "b": "乌尔杜雅（Zahiya-lachis）",
+      "relation": "主仆，露埃芙的效忠对象始终是乌尔杜雅而非塔拉辛",
+      "quote": "And Lueve would have done it with nary a qualm, because—no matter how much she and Talasyn liked each other—her loyalty would always be to Urduja, first and foremost.",
+      "start": 17682,
+      "end": 17848
+    },
+    {
+      "a": "阿拉里克父子",
+      "b": "十七区总督",
+      "relation": "主从，总督由皇帝父子挑选并服从其命令",
+      "quote": "each one administered by governors that had all been carefully selected by Alaric and his father for their work ethic and total lack of ambition.",
+      "start": 4797,
+      "end": 4942
+    }
+  ],
+  "numbers": [
+    {
+      "value": "seventeen",
+      "context": "大陆被新划分为十七个大区",
+      "quote": "The new and improved Continent had been divided into seventeen regions",
+      "start": 4725,
+      "end": 4795
+    },
+    {
+      "value": "five",
+      "context": "五位区域总督赶在皇帝回国后立即求见",
+      "quote": "the five regional governors who had promptly scheduled a meeting upon hearing that the Night Emperor had returned from his wife’s homeland",
+      "start": 5570,
+      "end": 5708
+    },
+    {
+      "value": "a month ago",
+      "context": "峡谷通航提案是阿拉里克一个月前写的",
+      "quote": "“It’s the proposal to open the ravine between Regions Eleven and Twelve to airship traffic, Your Majesty,” Lisu said slowly. “It’s your proposal. You authored it a month ago.”",
+      "start": 8886,
+      "end": 9061
+    },
+    {
+      "value": "two days",
+      "context": "塔拉辛两天后才再上阳台",
+      "quote": "Two days crawled by before Talasyn ventured out onto her balcony again.",
+      "start": 9753,
+      "end": 9824
+    },
+    {
+      "value": "before noon",
+      "context": "阿拉里克天亮即出、正午前就回宫",
+      "quote": "For him to return from a mission before noon—he’d had to have been scouting since sunrise.",
+      "start": 951,
+      "end": 1041
+    }
+  ],
+  "notes": "标题重复：文件开头连续出现两次「Chapter Seventeen」；正文段落间普遍为两个空行（部分三空行），属提取残留；无脚注/页码残留。场景在两处视角间切换（塔拉辛浴室—阿拉里克议事厅），中间以「Two days crawled by」跳时。"
+}

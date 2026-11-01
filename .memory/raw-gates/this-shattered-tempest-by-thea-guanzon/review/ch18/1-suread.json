@@ -1,0 +1,128 @@
+{
+  "chapter": "ch18",
+  "source": "text/ch18_chapter_eighteen.txt",
+  "char_total": 11618,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Sevraim 在 Alaric 的办公室闲坐，向他汇报夜皇后的侍女 Erith 把皇后伺候得不错。",
+      "quote": "“The Night Empress’s maid appears to be treating her well,” Sevraim reported, lounging in an armchair in Alaric’s office.",
+      "start": 46,
+      "end": 167
+    },
+    {
+      "i": 2,
+      "summary": "Alaric 头也不抬地下令 Sevraim 不许碰 Erith，免得妻子频繁换侍女。",
+      "quote": "“Off-limits,” Alaric said without looking up from his desk. “I won’t have my wife cycling through lady’s maids because you can’t keep it in your pants.”",
+      "start": 197,
+      "end": 349
+    },
+    {
+      "i": 3,
+      "summary": "Sevraim 说 Nisene 的直觉从不出错，本以为 Alaric 回到前线后早该抓到逃犯，并指出 Alaric 站都站不稳。",
+      "quote": "“And with you back on the front lines, I was certain we’d have found the escaped prisoners by now . . . Good gods, man, you’re swaying.”",
+      "start": 1008,
+      "end": 1144
+    },
+    {
+      "i": 4,
+      "summary": "Alaric 望向窗外，见 Lir 的第五颗月亮变成血红色，意识到月食来临。",
+      "quote": "His gaze fell on the evening sky beyond the windows, where Lir’s fifth moon had turned blood-red.",
+      "start": 2102,
+      "end": 2199
+    },
+    {
+      "i": 5,
+      "summary": "Alaric 踉跄穿过相连的浴室闯进 Talasyn 的房间，发现她跪在地上、抓着床柱痛得弯下腰。",
+      "quote": "But she was on her knees on the floor when he burst in, one hand clawing at the bedpost as the rest of her doubled over in agony.",
+      "start": 2599,
+      "end": 2728
+    },
+    {
+      "i": 6,
+      "summary": "Alaric 走到 Talasyn 身边跪下，抱住她并吻她。",
+      "quote": "Alaric closed the distance between him and Talasyn, stepping out from the long shadow that his childhood had cast over his whole life. He knelt beside her, wrapped his arms around her, and pressed his lips to hers.",
+      "start": 3597,
+      "end": 3811
+    },
+    {
+      "i": 7,
+      "summary": "Talasyn 放松下来，双臂环住他的脖子回吻。",
+      "quote": "And, finally, the soft flames began to move against him, with him. Bit by bit, she relaxed, looping her slim arms around his neck.",
+      "start": 4926,
+      "end": 5056
+    },
+    {
+      "i": 8,
+      "summary": "月食耗尽 Alaric 的力气，但他仍把 Talasyn 抱起放到床上。",
+      "quote": "The eclipse had sapped his strength, but nothing in the world could have stopped him from lifting her up and carrying her to the bed.",
+      "start": 5267,
+      "end": 5400
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "夫妻（夜皇帝与夜皇后）",
+      "quote": "How could it not? She was his wife and she needed him.",
+      "start": 3540,
+      "end": 3594
+    },
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "彼此是世上唯一能在月食时替对方解痛的人（互相依存）",
+      "quote": "they were the only two people in the world who could take away each other’s pain whenever this happened",
+      "start": 2955,
+      "end": 3058
+    },
+    {
+      "a": "Alaric",
+      "b": "Sevraim",
+      "relation": "君臣／同僚（Alaric 统领 Legion，Sevraim 在其麾下办事并直言相劝）",
+      "quote": "“You loiter about nibbling on teacakes all day while the rest of us in the Legion traipse through rough terrain searching for rebels,” Alaric countered.",
+      "start": 431,
+      "end": 583
+    },
+    {
+      "a": "Talasyn",
+      "b": "Erith",
+      "relation": "主仆（Erith 是夜皇后的侍女）",
+      "quote": "The Night Empress’s maid appears to be treating her well",
+      "start": 47,
+      "end": 103
+    }
+  ],
+  "numbers": [
+    {
+      "value": "five hours",
+      "context": "Alaric 从 Nenavar 回来后总共只睡了五个小时",
+      "quote": "He’d slept all of five hours since he arrived from Nenavar.",
+      "start": 784,
+      "end": 843
+    },
+    {
+      "value": "fifth moon",
+      "context": "Lir 的第五颗月亮转为血红色，即月食",
+      "quote": "His gaze fell on the evening sky beyond the windows, where Lir’s fifth moon had turned blood-red.",
+      "start": 2102,
+      "end": 2199
+    },
+    {
+      "value": "two people",
+      "context": "世上只有两个人能在月食发作时互相消除痛苦",
+      "quote": "they were the only two people in the world who could take away each other’s pain",
+      "start": 2955,
+      "end": 3035
+    },
+    {
+      "value": "once",
+      "context": "Alaric 此前只做过这种事一次，且只与 Talasyn",
+      "quote": "Alaric had only done this once before—and only with her, only ever with her",
+      "start": 8123,
+      "end": 8198
+    }
+  ],
+  "notes": "语料问题：①标题重复——第1行与第12行各有一个 “Chapter Eighteen”，中间夹约10个空行；②正文段落间普遍是双空行（提取残留），非单空行分段；③本章末段止于 “she took refuge in the shadow that he cast.”，无脚注、无分隔符、无页码残留；④全章为 Alaric 与 Talasyn 月食之夜的单一场景，事实密度低：可记事件集中在前半（约0–5400字符），后半（约5400–11618字符）几乎全是亲密描写，无可抽事实。"
+}

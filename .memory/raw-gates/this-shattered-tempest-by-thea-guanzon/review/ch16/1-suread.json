@@ -1,0 +1,143 @@
+{
+  "chapter": "ch16",
+  "source": "text/ch16_chapter_sixteen.txt",
+  "char_total": 12843,
+  "events": [
+    {
+      "i": 1,
+      "summary": "塔拉辛醒来后，侍女凯德（化名埃里斯）询问她要在床上还是在起居室用早餐。",
+      "quote": "“Does my lady wish to break her fast in bed or in her solar?” Khaede asked.",
+      "start": 44,
+      "end": 119
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛在起居室看到凯德一改平日的尖刻，笑着与其他仆人闲谈。",
+      "quote": "she watched, much to her disbelief, as Khaede pasted on a sunny smile and joked and giggled with the other servants.",
+      "start": 2402,
+      "end": 2518
+    },
+    {
+      "i": 3,
+      "summary": "凯德倒进杯中的不是茶，而是阿拉里克特意为她准备的热可可。",
+      "quote": "Only . . . it wasn’t tea. Instead of a thin herbal liquid, what tumbled into Talasyn’s porcelain cup was a rich, dark concoction. The sweet and mildly earthy scent of hot cocoa filled the solar.",
+      "start": 4241,
+      "end": 4435
+    },
+    {
+      "i": 4,
+      "summary": "塞夫拉伊姆进门，看到桌上的可可渍，取笑塔拉辛在与丈夫闹别扭、拿御用桌布出气。",
+      "quote": "“I realize that Their Majesties are not exactly in each other’s good graces right now, Lachis’ka, but there’s no call to hurl your husband’s gifts at the poor, innocent textiles.",
+      "start": 5022,
+      "end": 5200
+    },
+    {
+      "i": 5,
+      "summary": "塔拉辛对塞夫拉伊姆谎称自己只是笨手笨脚，并声称与陛下完全和睦。",
+      "quote": "“You are mistaken. I am merely clumsy, that’s all,” she told Sevraim, lifting her chin. “His Majesty and I are in perfect accord.”",
+      "start": 6245,
+      "end": 6375
+    },
+    {
+      "i": 6,
+      "summary": "塞夫拉伊姆说是奉君主之命，在阿拉里克外出期间替他看住“他眼里的酸苹果”。",
+      "quote": "He chuckled, grabbing a raisin-studded sweet roll from the bread basket. “I have been instructed by my liege to keep an eye on the crab apple of his eye while he is away.”",
+      "start": 7964,
+      "end": 8135
+    },
+    {
+      "i": 7,
+      "summary": "塔拉辛用乌尔杜佳所授的套话技巧，向塞夫拉伊姆套出阿拉里克正在外搜捕逃犯。",
+      "quote": "Talasyn put her cup down. “His Majesty is out searching for the escaped prisoners, isn’t he?”",
+      "start": 9622,
+      "end": 9715
+    },
+    {
+      "i": 8,
+      "summary": "塔拉辛沐浴时，浴室另一端门把手转动，阿拉里克走了进来。",
+      "quote": "As though in response to her noticing it, the brass handle on the door turned. The door swung open, and Alaric stepped into the bathroom.",
+      "start": 12687,
+      "end": 12824
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Khaede",
+      "relation": "旧日同袍兼挚友，如今凯德以侍女身份随侍，且已不再完全信任她",
+      "quote": "It was painfully apparent that Khaede didn’t fully trust Talasyn anymore, and perhaps she never would again.",
+      "start": 3110,
+      "end": 3218
+    },
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻，仍处冷战但彼此牵挂（他记得她爱喝可可）",
+      "quote": "She was touched that Alaric had let go of his anger long enough to consider her preference for cocoa over tea.",
+      "start": 5763,
+      "end": 5873
+    },
+    {
+      "a": "Khaede (Erith)",
+      "b": "Sevraim",
+      "relation": "旧日主仆：她曾为他打扫房间，如今以侍女身份相见",
+      "quote": "“I know the legionnaires in His Majesty’s inner circle,” she informed him. “Before this, I used to clean your room.”",
+      "start": 7173,
+      "end": 7289
+    },
+    {
+      "a": "Ideth Vela (Amirante)",
+      "b": "Talasyn",
+      "relation": "上级对下属的失望与不信任；她曾警告塔拉辛不要同情阿拉里克",
+      "quote": "The Amirante’s furious words emerged from the maelstrom of the past, raking Talasyn over the coals of Vela’s disappointment and disgust once more.",
+      "start": 3351,
+      "end": 3497
+    },
+    {
+      "a": "Talasyn",
+      "b": "Urduja",
+      "relation": "敌对但师承：塔拉辛憎恶龙女王，却沿用其权谋教导",
+      "quote": "Talasyn despised Urduja, but she couldn’t deny that the Dragon Queen’s tutelage had helped her navigate many a sticky situation in the past.",
+      "start": 6061,
+      "end": 6201
+    }
+  ],
+  "numbers": [
+    {
+      "value": "twenty-four hours",
+      "context": "塔拉辛入住夜之帝国皇宫不到二十四小时就毁了御用桌布",
+      "quote": "She was alarmed that she’d destroyed the Night Emperor’s table linens not even twenty-four hours into her stay.",
+      "start": 5651,
+      "end": 5762
+    },
+    {
+      "value": "two washbasins",
+      "context": "浴室里嵌着两个洗脸盆",
+      "quote": "Come to think of it, there were two washbasins as well, embedded into the lava-rock paneling in front of a mirror that ran along the length of the wall.",
+      "start": 12408,
+      "end": 12560
+    },
+    {
+      "value": "big enough for two",
+      "context": "大理石浴缸大得可容两人",
+      "quote": "fashioned out of white-veined, bitumen-black marble sunk into the granite floor. It was big enough for two.",
+      "start": 12298,
+      "end": 12405
+    },
+    {
+      "value": "a couple of times",
+      "context": "夜里她起夜过两三次",
+      "quote": "She had used the facilities a couple of times throughout the night, but it had been dark and she’d been half-asleep.",
+      "start": 11965,
+      "end": 12081
+    },
+    {
+      "value": "the past sennight",
+      "context": "过去一周的种种变故让她疲惫",
+      "quote": "She’d woken up shockingly late, yet she still felt tired. All wrung out by the various upheavals of the past sennight.",
+      "start": 1122,
+      "end": 1240
+    }
+  ],
+  "notes": "标题“Chapter Sixteen”在文件开头连续出现两次（第1行与第12行），中间夹 9 个空行，疑为 epub 抽取残留；正文使用弯引号与“ . . . ”式分隔省略号；无脚注。"
+}
