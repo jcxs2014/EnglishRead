@@ -79,7 +79,7 @@ modified: "2026-11-01"
 > **原句 10:** "At once, I understand that she was both the suffering girl and the terrible crab-headed monster. The Guild had well and truly fucked her, in the very worst ways. As bad as goblins were to us, we could be worse to each other. I mean, a goblin would eat or poison your body, even destroy your mind. But only a human will prey on your soul. Or so I thought."
 
 **中文理解**：刹那间我懂了：她既是那个受难的少女，也是那只可怕的蟹头怪物。Guild 把她糟蹋得彻彻底底，用最坏的种种方式。Goblin 待我们再狠，我们对自己人也能更狠。我是说，goblin 会吃你的身体、下毒、甚至毁你的神智。但只有人，才会捕食你的灵魂。至少我那时是这么想的。
-**关键词**：both the suffering girl and the terrible crab-headed monster / worse to each other / prey on your soul / Or so I thought
+**关键词**：the suffering girl / the crab-headed monster / worse to each other / prey on your soul / Or so I thought
 **为什么这样写**：全章的题旨在五行里收拢——受害者与怪物同一人，罪行与种族解绑（不是 goblin 狠，是人狠）；「prey on your soul」把恶的等级从肉身抬到灵魂，而「Or so I thought」五个词在他自己的论断后面轻轻插一刀：这个世界还有比「人祸灵魂」更糟的东西，全书会一件件给他看。
 **读者视角提示**：Filaine 的双重性从此定案——同情她，但别忘她也是那只蟹；这个「受害者兼怪物」的结构是书的一切行为的钥匙。
 
