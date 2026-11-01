@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "为省马力，Flann 从 Father Gwynn 的积蓄里拿了几个小银币，从低地 Dillathi 的农夫手里买了辆摇摇晃晃的马车，让腿上有箭伤的 Long Liam 和几乎不能动的 Xaniko 坐车回 Threadbare Hall。",
+    "anchor": "Instead, Flann borrowed a couple of small silvers from Father Gwynn’s nest-egg and bought a rickety wagon",
+    "start": 408,
+    "end": 513,
+    "type": "event"
+  },
+  {
+    "fact": "Vedra 问 Daley 为何不肯说梦道上的事，Daley 只答王子活着、草原人死了、他们赢了；Vedra 指出 Scaeth 和 First Lord 都没死，那个东西还知道她的名字。",
+    "anchor": "The prince is alive. The grasslanders are dead. We won.",
+    "start": 2835,
+    "end": 2890,
+    "type": "event"
+  },
+  {
+    "fact": "他们的争执中，Vedra 说自己被派出去将近两个满月（near two full moons），意指 Daley 离家之久。",
+    "anchor": "You were gone for near two full moons",
+    "start": 2449,
+    "end": 2486,
+    "type": "number"
+  },
+  {
+    "fact": "Daley 打定主意要找到并杀掉那个 Nabban 人 Yuval，认定是他害死了自己母亲；Vedra 说不能仅凭“可能”就去杀人。",
+    "anchor": "Daley still did not look at her. “Find Yuval. Kill him.”",
+    "start": 3378,
+    "end": 3434,
+    "type": "event"
+  },
+  {
+    "fact": "Daley 声称自己对 Hagan 的仇恨不是私怨，而是向全世界宣告的立场；Mearna 则说 Hagan 也许比 Scaeth 更让她担心。",
+    "anchor": "But it is no private grudge, my lady",
+    "start": 2191,
+    "end": 2227,
+    "type": "relation"
+  },
+  {
+    "fact": "Flann 派 Mud Boy 去查看 Xaniko 的宅子，回报说院子 gateyard 里挤满了人，但那些人不像士兵，三个水手正和他们在一起。",
+    "anchor": "The hall’s gateyard is full of people,” the youth said",
+    "start": 10716,
+    "end": 10770,
+    "type": "event"
+  },
+  {
+    "fact": "Xaniko 在马车里苏醒，说自己走不了路、要 Liam 抬他上台阶；结果由宽肩的 Rimmersman Ivar 把他像一捆枯柴那样抱在胸前。",
+    "anchor": "the broad-shouldered Rimmersman eased Xaniko out of the wagon",
+    "start": 13516,
+    "end": 13577,
+    "type": "event"
+  },
+  {
+    "fact": "在 Taig 的王座厅，Starling Lochrin 向 First Lord Phelan 禀报 Crannhyr 的 Reeve Hagan 来信；Phelan 听完认为这是场灾难，质问 Hagan 怎会在荒野折损那么多人却一无所获。",
+    "anchor": "How could Hagan lose so many men in the wilderness and gain absolutely nothing?",
+    "start": 19737,
+    "end": 19816,
+    "type": "event"
+  }
+]

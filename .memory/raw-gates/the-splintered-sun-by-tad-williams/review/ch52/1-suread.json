@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Tynon 说一百年前 Greenwrack 还有许多人居住，如今天然堤道无人维护，整片沼泽已成死亡陷阱。",
+    "anchor": "A hundred years ago, perhaps, when many people still lived here",
+    "start": 2345,
+    "end": 2408,
+    "type": "number"
+  },
+  {
+    "fact": "Crows 决定在 Greenwrack 大部分地段弃马步行，只留少数马匹驮行李、必要时把人从泥坑里拉出来。",
+    "anchor": "So we must set them free. We will keep a few to carry baggage",
+    "start": 1677,
+    "end": 1738,
+    "type": "event"
+  },
+  {
+    "fact": "Flann 的全名是 Flannery Alderwood，Mearna 说只有多年老友才敢这样叫他，并当场戳穿他自称熟悉此地的话。",
+    "anchor": "You are a terrible liar, Flannery Alderwood,” said Mearna, not without fondness",
+    "start": 2827,
+    "end": 2906,
+    "type": "relation"
+  },
+  {
+    "fact": "Vedra 提议把 Daley 手上的 Amber 交给昏迷的 Xaniko，自己用龙晶 Witness 经 Dream Road 求他指路。",
+    "anchor": "Daley still has the Amber. And I still have Xaniko’s dragonglass Witness.",
+    "start": 4749,
+    "end": 4822,
+    "type": "event"
+  },
+  {
+    "fact": "Olant 等三名草甸雇佣兵说奉命带 Tace Alastar 去山谷，实际却押着他走向俯瞰 Silverway 的崖顶。",
+    "anchor": "they seemed to be taking Alastar in quite the wrong direction",
+    "start": 13123,
+    "end": 13184,
+    "type": "event"
+  },
+  {
+    "fact": "一队佩戴 Latterban 蓝鹰徽的骑兵冲进营地（众人推测是 Tace 之子 Aidan 的人），把 Alastar 从雇佣兵手里带走并护送回帐。",
+    "anchor": "they all wore the Blue Eagle of Latterban",
+    "start": 13796,
+    "end": 13837,
+    "type": "event"
+  },
+  {
+    "fact": "在 Dream Road 上，Xaniko 的幽影把 Vedra 当成他从未见过面的孙女 Ela，并提起妻子 Ona。",
+    "anchor": "You never saw Ravensperch. And you never knew your grandmother, Ona",
+    "start": 25006,
+    "end": 25073,
+    "type": "relation"
+  },
+  {
+    "fact": "Vedra 顺势以“Grandfather”相称，骗出穿越沼泽的路线，事后自认更像个贼而不是救星。",
+    "anchor": "We are trapped in the Greenwrack, Grandfather, and we are being chased by bad men",
+    "start": 25532,
+    "end": 25613,
+    "type": "event"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Flann 要 Diarban 唱《Cormach the Lame and the Valley of Death》，意在让 Sir Aidan 想起本乡的历史。",
+    "anchor": "Do you remember how to play ‘Cormach the Lame and the Valley of Death’?",
+    "start": 4294,
+    "end": 4365,
+    "type": "event"
+  },
+  {
+    "fact": "Flann 与 Tynon 从马背上卸下两只用粗山羊毛布包着的重物，拆开是涂着沥青的木桶，里面装的是 rock oil。",
+    "anchor": "worked to free their bundles from their wrappings, revealing two pitch-smeared wooden barrels",
+    "start": 9341,
+    "end": 9434,
+    "type": "event"
+  },
+  {
+    "fact": "Tynon 把整桶油倒进烟囱岩与山脊之间的裂隙，Flann 往空桶里丢进燃着的布包，连桶掷下后浓烟腾起（烟粉出自 Tika 之手）。",
+    "anchor": "Tynon tipped the opened barrel over the huge gap between the chimney-rock and the ridge",
+    "start": 13072,
+    "end": 13159,
+    "type": "event"
+  },
+  {
+    "fact": "峡谷另一端的出口被一块巨石堵住，Crows 全数已到巨石之外。",
+    "anchor": "a huge, rounded shape appeared just beyond the narrow, opposite end of the valley",
+    "start": 12349,
+    "end": 12430,
+    "type": "event"
+  },
+  {
+    "fact": "地下 pucai 大巢被激怒，蚁群般从岩壁涌出，把雇佣兵的后卫成片吞没。",
+    "anchor": "Goblins! And by all the gods in Heaven, they are endless!",
+    "start": 16177,
+    "end": 16234,
+    "type": "event"
+  },
+  {
+    "fact": "逃亡队伍此时已近 two score（约四十人），仍远不足以对抗两百名草甸雇佣兵。",
+    "anchor": "they numbered almost two score, but they were still far too few",
+    "start": 5337,
+    "end": 5400,
+    "type": "number"
+  },
+  {
+    "fact": "Flann 说 Hagan 与 Phelan 夺走了他家族的遗产却夺不走他的记忆，所以这山里乃至地下会动的一切他都清楚。",
+    "anchor": "Hagan and Phelan stole my heritage but not my memories",
+    "start": 14083,
+    "end": 14137,
+    "type": "relation"
+  },
+  {
+    "fact": "Sir Aidan 与纹身草甸雇佣兵头目在谷口争吵之后，他的 Latterban 家兵始终没有跟进，最后掉头回沼泽。",
+    "anchor": "Aidan and his Latterban household guard did not follow",
+    "start": 10539,
+    "end": 10593,
+    "type": "relation"
+  }
+]

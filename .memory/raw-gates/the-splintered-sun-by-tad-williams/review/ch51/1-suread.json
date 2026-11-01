@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "维德拉死握住达雷的手，不肯再失去他。",
+    "anchor": "Daley tried to tug himself loose but she held on. Whatever happened, she would not lose him again.",
+    "start": 2726,
+    "end": 2824,
+    "type": "relation"
+  },
+  {
+    "fact": "出阿赫乌法斯前，弗兰恩刮掉了染色的假胡须。",
+    "anchor": "in utter mystification, as Flann had scraped the dyed whiskers from his face",
+    "start": 16596,
+    "end": 16672,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩潜入帐篷，刀抵在艾丹喉头，命迪亚班绑住仆从。",
+    "anchor": "Flann was standing on a sleeping pallet with his knife at the throat of a large young man",
+    "start": 21205,
+    "end": 21294,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩自称曾与艾丹之父塔斯·阿拉斯达并肩为泰特坦作战。",
+    "anchor": "he and I fought side by side for Tethtain when we pushed the Imperium out of Hernystir",
+    "start": 25098,
+    "end": 25184,
+    "type": "relation"
+  },
+  {
+    "fact": "弗兰恩不杀艾丹，宁愿多一个可能的盟友而非一具尸体。",
+    "anchor": "I would rather have a possible ally than another corpse",
+    "start": 29766,
+    "end": 29821,
+    "type": "event"
+  },
+  {
+    "fact": "蒂卡取出箭头清理伤口后断言埃温会活下来。",
+    "anchor": "Tika had removed the arrowhead and cleaned it, then declared he would live",
+    "start": 15637,
+    "end": 15711,
+    "type": "event"
+  },
+  {
+    "fact": "阿赫乌法斯村约五十年前有六十名男女老少在床上被杀。",
+    "anchor": "Three score men, women, and children were all killed in their beds here, scarcely half a century ago.",
+    "start": 7032,
+    "end": 7133,
+    "type": "number"
+  },
+  {
+    "fact": "科纳尔报称山上有斯卡斯的草原人至少八到十“score”在搜寻他们。",
+    "anchor": "Scaeth’s grasslanders from Glennafar, looking for us. I’d guess there are at least eight or ten score.",
+    "start": 13123,
+    "end": 13225,
+    "type": "number"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "乐师们出发去邓阿德的次日，弗兰·奥尔德伍德与萨尼科带韦德拉和余下的“乌鸦”北上，把线厅（Threadbare Hall）交给莫莉与科伦打理。",
+    "anchor": "The day after the musicians set out for Dun Ard, Flann Alderwood and Xaniko headed north with Vedra",
+    "start": 22,
+    "end": 121,
+    "type": "event"
+  },
+  {
+    "fact": "韦德拉把驴换成栗色小马吉希（Jishi）；第四天下午弗兰叫队伍停下扎营。",
+    "anchor": "Late afternoon on their fourth day, Flann brought the procession to a halt.",
+    "start": 908,
+    "end": 983,
+    "type": "number"
+  },
+  {
+    "fact": "萨尼科让韦德拉握住他的手、闭上眼睛，两人一同借“见证镜”（Witness）与达利在梦之大道上通话。",
+    "anchor": "Daley, Vedra is here with me. Can you feel her?",
+    "start": 10051,
+    "end": 10098,
+    "type": "event"
+  },
+  {
+    "fact": "达利在梦道上说“有东西在跟着你、在猎你”，萨尼科起初隐瞒，被韦德拉逼问才说出。",
+    "anchor": "He said that something was following you. Hunting for you.",
+    "start": 13265,
+    "end": 13323,
+    "type": "event"
+  },
+  {
+    "fact": "穿越绿沼（Greenwrack）时梅尔娜质疑：即便泰农（Tynon）聚齐余下的乌鸦，他们仍要以十敌一。",
+    "anchor": "we must still be outnumbered by ten to one",
+    "start": 16259,
+    "end": 16301,
+    "type": "number"
+  },
+  {
+    "fact": "弗兰解释计划：他们与最痛恨的仇敌、克兰赫尔（Crannhyr）的里夫哈根（Reeve Hagan）结盟，好挑动斯凯斯与哈根互斗。",
+    "anchor": "That is why we have made common cause with my most hated enemy, Reeve Hagan of Crannhyr.",
+    "start": 20328,
+    "end": 20416,
+    "type": "event"
+  },
+  {
+    "fact": "萨尼科说亡妻奥娜（Ona）出自海洋之子（Tinukeda’ya）中最高贵的世家——领航者鲁扬·维（Ruyan Vé）一脉，他们还有一个孩子。",
+    "anchor": "she was of their very highest family, the line of the Navigator himself",
+    "start": 33442,
+    "end": 33513,
+    "type": "relation"
+  },
+  {
+    "fact": "夜里响起长嚎，萨尼科说那不是狼，而是纳基加（Nakkiga）犬舍里的猎犬，人称“白死”（The White Death），是他那位受诅女王的猎犬。",
+    "anchor": "What is out there—hunting—is a hound from the kennels of Nakkiga. The White Death, they are called.",
+    "start": 38929,
+    "end": 39028,
+    "type": "event"
+  }
+]

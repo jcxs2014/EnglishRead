@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Crows 已在 Greenwrack 里走了整整两天，第二夜宿在土丘上时听见了追兵的声音。",
+    "anchor": "They had been crossing the Greenwrack for two full days",
+    "start": 24,
+    "end": 79,
+    "type": "number"
+  },
+  {
+    "fact": "Caden 估计追击的草甸雇佣兵约 ten score（两百人），并自嘲若估得离谱就得向 Bagba the Deceiver 献祭。",
+    "anchor": "You said you counted Scaeth’s grasslanders as ten score? How sure is that number?",
+    "start": 4168,
+    "end": 4249,
+    "type": "number"
+  },
+  {
+    "fact": "王子 Ewain 在栈道上向 Daley 道谢，谢他陪自己去 Dun Ard、又在 Glennafar 相救，说不想未说出口就死。",
+    "anchor": "then I want to say that I owe you my thanks",
+    "start": 7096,
+    "end": 7139,
+    "type": "event"
+  },
+  {
+    "fact": "Vedra 为一遍遍假扮 Ela 欺骗 Xaniko 而痛苦，Tynon 却说不能因感情用事。",
+    "anchor": "I am lying to him, over and over, pretending to be this Ela",
+    "start": 3026,
+    "end": 3085,
+    "type": "relation"
+  },
+  {
+    "fact": "Liam 抱住一棵三倍于他身高的树连根拔起、扛上肩，独自沿栈道冲向追兵。",
+    "anchor": "wrapped his arms around a tree three times his height",
+    "start": 12099,
+    "end": 12152,
+    "type": "event"
+  },
+  {
+    "fact": "Liam 大腿中箭仍不倒，把整棵树掷出，砸断栈道，压死约半打草甸雇佣兵、毁掉十步长的栈道。",
+    "anchor": "obliterating the wooden path and crushing half a dozen bearded mercenaries",
+    "start": 19211,
+    "end": 19285,
+    "type": "event"
+  },
+  {
+    "fact": "Flann 说 Liam 掷出的是一棵 black alder，正合自家姓氏 Alderwood，借此宣称神明站在他这边。",
+    "anchor": "It was a black alder. Like my family name—Alderwood",
+    "start": 21654,
+    "end": 21705,
+    "type": "relation"
+  },
+  {
+    "fact": "登上 Chimney Ridge 后，Flann 只带 Tynon、竖琴手 Diarban 与一匹马去 Chimney Rock，要 Diarban 弹琴唱歌。",
+    "anchor": "Diarban! Come to me. Do you have your harp still?",
+    "start": 27318,
+    "end": 27367,
+    "type": "event"
+  }
+]

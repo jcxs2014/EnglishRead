@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "白犬扑向最近的一名雇佣兵，一口撕开他的喉咙。",
+    "anchor": "the beast leaped at the nearest of the mercenaries, knocked him to the ground, and tore out his throat",
+    "start": 1049,
+    "end": 1151,
+    "type": "event"
+  },
+  {
+    "fact": "埃温王子背部中箭，扑倒在地上。",
+    "anchor": "He tried to rise, swayed, then fell forward onto his face. An arrow jutted from his back.",
+    "start": 2531,
+    "end": 2620,
+    "type": "event"
+  },
+  {
+    "fact": "达雷认出持剑者是弗兰恩，脸上粘着假胡须。",
+    "anchor": "The swordsman was Flann, Daley realized, but wearing a strange, false beard.",
+    "start": 5003,
+    "end": 5079,
+    "type": "relation"
+  },
+  {
+    "fact": "第三箭射穿白犬头骨，巨犬倒地。",
+    "anchor": "A scant few heartbeats later a third arrow pierced its skull and the great hound folded to the ground.",
+    "start": 5684,
+    "end": 5786,
+    "type": "event"
+  },
+  {
+    "fact": "半打蓄须雇佣兵围住埃温，达雷跳下巨石相助。",
+    "anchor": "Half a dozen bearded mercenaries, wreathed by the smoke of their own fires",
+    "start": 331,
+    "end": 405,
+    "type": "number"
+  },
+  {
+    "fact": "蒂卡从萨尼科胸口取出一掌长的木箭杆连铁箭头。",
+    "anchor": "holding a handspan of wooden arrow-shaft with a bloody iron arrowhead at the end of it",
+    "start": 10626,
+    "end": 10712,
+    "type": "event"
+  },
+  {
+    "fact": "塔斯·阿拉斯达求贝丽森特同去见斯卡斯，因她在场时主人较有耐心。",
+    "anchor": "Because . . . in truth, my lady, Lord Scaeth is more patient with us when you are present.",
+    "start": 19299,
+    "end": 19389,
+    "type": "relation"
+  },
+  {
+    "fact": "斯卡斯命艾丹率十“score”草原人追杀埃温，要活的。",
+    "anchor": "You will take ten score of the barbarians with the hawk-nosed one as dead Hrinvart’s replacement",
+    "start": 25383,
+    "end": 25479,
+    "type": "number"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "薇德拉发现弗拉恩（Flann）的“乌鸦帮”并不散乱：高橡营像一座村子，弗拉恩更像村长或里正，常听战略家泰农（Tynon）与梅尔娜（Mearna）的意见。",
+    "anchor": "Flann ruled it less like a bandit-king and more like a mayor or reeve",
+    "start": 304,
+    "end": 373,
+    "type": "event"
+  },
+  {
+    "fact": "弗拉恩的三名首席斥候是当过水手的三兄弟：科纳尔（Conal）最年长、最严肃，瑟巴尔（Cerball）最年轻、最多话，卡登（Caden）居中。",
+    "anchor": "Conal was the oldest, precisely as serious, unsmiling, and cautious as she had suspected",
+    "start": 1581,
+    "end": 1669,
+    "type": "relation"
+  },
+  {
+    "fact": "每年冬季乌鸦帮迁往西尔科尔（Circoille）森林边缘的深穴营，人数缩到约“两 score”（some two-score）常驻成员，需向当地人换取部分必需品。",
+    "anchor": "the band shrank to some two-score permanent members",
+    "start": 2671,
+    "end": 2722,
+    "type": "number"
+  },
+  {
+    "fact": "竖琴手迪亚班（Diarban）像他父亲一样，曾为弗拉恩的父亲、奥尔德伍德的塔斯·罗南（Tace Ronann）做宫廷乐师。",
+    "anchor": "Diarban had been a court musician for Flann’s father, Tace Ronann of Alderwood",
+    "start": 3418,
+    "end": 3496,
+    "type": "relation"
+  },
+  {
+    "fact": "泰斯泰恩（Tethtain）是卡舍尔里格（Cashelrigg）岛堡之主，自称末代国王图塔尔（Tuthal）家族后裔，率众在卡恩托巴（Carntobar）之战击败帝国总督、赶走纳巴奈人。",
+    "anchor": "Tethtain, lord of the island fortress of Cashelrigg, who claimed descent from the family line of Tuthal",
+    "start": 4838,
+    "end": 4941,
+    "type": "event"
+  },
+  {
+    "fact": "泰斯泰恩把里默斯人逐出北赫尔尼斯提尔，这是自两个世纪前“诺克之战”（battle of the Knock）惨败于芬吉尔·红手（Fingil Red-Hand）以来的第一次。",
+    "anchor": "the disastrous battle of the Knock two centuries earlier",
+    "start": 5704,
+    "end": 5760,
+    "type": "number"
+  },
+  {
+    "fact": "泰斯泰恩有合法继承人：他与纽伊斯伯爵之女克丽娅（Cria）所生的儿子埃温（Ewain）；克丽娅死于难产，婴儿被留在卡舍尔里格。",
+    "anchor": "his son Ewain by Cria, daughter of the Count of Newyth",
+    "start": 7383,
+    "end": 7437,
+    "type": "relation"
+  },
+  {
+    "fact": "第一领主费兰没收了弗拉恩的土地，把最大部分给了亲信、克兰希尔的第一领主里正哈根（Hagan）；弗拉恩打了信使后带迪亚班、泰农等忠仆逃入西尔科尔森林。",
+    "anchor": "Phelan confiscated Flann’s lands and gave the largest part of them to one of his closest allies, Hagan",
+    "start": 8149,
+    "end": 8251,
+    "type": "event"
+  }
+]

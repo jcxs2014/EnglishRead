@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "次日清晨众人离开黑岩（Black Crags），梅尔娜（Mearna）放慢马速与两个孩子同行。",
+    "anchor": "They left the Black Crags early the following morning.",
+    "start": 26,
+    "end": 80,
+    "type": "event"
+  },
+  {
+    "fact": "梅尔娜问韦德拉（Vedra）与达利（Daley）的来历：她来自南方群岛，男孩却是赫尼斯提里人（Hernystiri），言行都像。",
+    "anchor": "You come from the southern islands, but the boy is Hernystiri—or at least he looks and talks like one.",
+    "start": 685,
+    "end": 787,
+    "type": "relation"
+  },
+  {
+    "fact": "迪亚班（Diarban）把在码头市场买的皮鼓送给达利，又给他一根管家莫莉（Mollie）煮净磨光的鹿骨鼓槌。",
+    "anchor": "Diarban revealed what he had been concealing and handed it to Daley. It was a skin-drum, round and shallow.",
+    "start": 1816,
+    "end": 1923,
+    "type": "event"
+  },
+  {
+    "fact": "萨尼科（Xaniko）解释为何选达利而不选韦德拉：男孩对梦之大道毫无成见、几乎没有经验，因而更安全。",
+    "anchor": "Daley has no preconceptions about the Dream Road and almost no experience of it.",
+    "start": 12975,
+    "end": 13055,
+    "type": "relation"
+  },
+  {
+    "fact": "韦德拉当面指责萨尼科说谎，萨尼科否认曾把“送她同去”说成定论。",
+    "anchor": "“You lied to me,” was the first thing Vedra said to Xaniko as he approached.",
+    "start": 9196,
+    "end": 9272,
+    "type": "relation"
+  },
+  {
+    "fact": "梅尔娜告诉韦德拉：斯凯斯（Scaeth）至少下过一次毒要害埃文王子，下毒的仆从却把毒弄到自己手上，死在厨房。",
+    "anchor": "Scaeth tried to poison Ewain at least once, but the servant who betrayed the prince",
+    "start": 14753,
+    "end": 14836,
+    "type": "number"
+  },
+  {
+    "fact": "萨尼科把钻了孔、系上皮绳的琥珀（Amber）挂到达利脖子上，嘱他每日日落取出来握在手中听他的声音。",
+    "anchor": "once a day at sunset, starting as soon as you pass out of Abaingeat, you must take it out",
+    "start": 18570,
+    "end": 18659,
+    "type": "event"
+  },
+  {
+    "fact": "梅尔娜对韦德拉说，弗兰（Flann）与萨尼科同是被自己族人放逐、失去一切的亡命者。",
+    "anchor": "Both lost everything they had, were made outlaws by their own people, and then driven away",
+    "start": 16897,
+    "end": 16987,
+    "type": "relation"
+  }
+]

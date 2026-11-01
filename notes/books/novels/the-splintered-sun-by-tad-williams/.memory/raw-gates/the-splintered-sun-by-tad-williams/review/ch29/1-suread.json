@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "达利站在齿轮帆船“淑女拖鞋号”（The Lady’s Slipper）的船尾栏杆边望海，因与韦德拉分离而持续难受。",
+    "anchor": "Daley stood at the stern rail of the cog The Lady’s Slipper, staring out at the restless sea.",
+    "start": 29,
+    "end": 122,
+    "type": "event"
+  },
+  {
+    "fact": "迪亚班说两天后停靠阿班盖特（Abaingeat）——那是斯凯斯的领地，城堡就俯瞰港口。",
+    "anchor": "We will stop in Abaingeat in two days.",
+    "start": 2868,
+    "end": 2906,
+    "type": "number"
+  },
+  {
+    "fact": "埃文王子叫达利去取水，达利当场顶撞：“我说了，你自己去。我不是你的仆人。”",
+    "anchor": "I said, get it yourself. I’m not your servant.",
+    "start": 4702,
+    "end": 4748,
+    "type": "event"
+  },
+  {
+    "fact": "鲁蒙神父（Father Rumon）是埃文王子的师保，把一生都献给培养和支持泰泰恩（Tethtain）王位的继承人。",
+    "anchor": "he had dedicated that life to educating and supporting the heir to Tethtain’s throne",
+    "start": 7765,
+    "end": 7849,
+    "type": "relation"
+  },
+  {
+    "fact": "埃文骂斯凯斯是“小杂种”（The Younger Bastard），说他除了名分什么都像君主。",
+    "anchor": "The Younger Bastard thinks he is a monarch in all but name",
+    "start": 9713,
+    "end": 9771,
+    "type": "relation"
+  },
+  {
+    "fact": "迪亚班说：有占卜师告诉泰泰恩，留在赫尼斯提尔将是他的死劫，所以他才迁往古堡邓阿德（Dun Ard）。",
+    "anchor": "a scryer told him it would be his doom to remain in Hernystir",
+    "start": 2476,
+    "end": 2537,
+    "type": "number"
+  },
+  {
+    "fact": "港口税官洛恩（Lonn）登船，船单上写着“一支前往邓阿德的王家队伍”，迪亚班只得冒名罗斯科尔恩的多万（Dowan of Roscolne）。",
+    "anchor": "‘A royal party bound for Dun Ard?’ What nonsense is that?",
+    "start": 18853,
+    "end": 18910,
+    "type": "event"
+  },
+  {
+    "fact": "洛恩要听曲，迪亚班自弹《艾斯琳的哀歌》（Aislin’s Lament），达利取来皮鼓伴奏并唱和声；洛恩临走赏了他一枚金币（gold sancellan）。",
+    "anchor": "It was a gold sancellan—a most impressive sum of money.",
+    "start": 31512,
+    "end": 31567,
+    "type": "event"
+  }
+]

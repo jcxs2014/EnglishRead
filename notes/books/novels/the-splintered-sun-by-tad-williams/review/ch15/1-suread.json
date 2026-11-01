@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "在高橡营住了约一周（a sennight）后，迪亚班来叫薇德拉与梅尔娜夫人去见弗拉恩，只叫薇德拉、不带男孩。",
+    "anchor": "One day, after she and Daley had spent about a sennight in High Oak Camp",
+    "start": 36,
+    "end": 108,
+    "type": "number"
+  },
+  {
+    "fact": "弗拉恩介绍泰农是他的“战争头领”，此行期间留守高橡营；秃顶大胡子伊瓦尔（Ivar）是帮里的厨子，被称作“我们的小团体的母亲”。",
+    "anchor": "My war chieftain, as it were. He will be in charge of High Oak Camp while we go to Crannhyr.",
+    "start": 2825,
+    "end": 2917,
+    "type": "relation"
+  },
+  {
+    "fact": "弗拉恩定下次日黎明出发去克兰希尔，查明男孩从诺克贝格偷来的信究竟是什么；出行者为他、薇德拉、戴利、梅尔娜、迪亚班、伊瓦尔，全程步行，出营后不得提他的名字，因为哈根的耳目遍地。",
+    "anchor": "once out of camp, my name is not to be mentioned. Hagan will have his spies everywhere.",
+    "start": 7111,
+    "end": 7198,
+    "type": "event"
+  },
+  {
+    "fact": "梅尔娜告诉薇德拉：弗拉恩不喜与女人同床，偏爱高大健壮的男人；伊瓦尔与他“除了一件事以外”就像老夫老妻，且弗拉恩喜新厌旧，伊瓦尔因此痛苦。",
+    "anchor": "In all ways but one, they are an old married couple.",
+    "start": 10472,
+    "end": 10524,
+    "type": "relation"
+  },
+  {
+    "fact": "下山途中薇德拉的脚卡在横在路中的巨石与土壁之间；弗拉恩把脚蹬石、背抵土壁，发力把石头推开一线，让她抽出脚，脚踝被刮破。",
+    "anchor": "He put his feet against the stone and his back against the earthen wall of the track.",
+    "start": 15705,
+    "end": 15790,
+    "type": "event"
+  },
+  {
+    "fact": "薇德拉脱困后望见下方克兰希尔只有“两三点灯火”（two or three lights），心里一沉，担心这地方太小难以藏身过夜。",
+    "anchor": "Two or three lights, anyway, and her heart sank to think of a place so small",
+    "start": 15060,
+    "end": 15136,
+    "type": "number"
+  },
+  {
+    "fact": "克兰希尔沿一条主路盘绕而下，房屋高踞两侧、上层阳台几乎可隔街相握；弗拉恩带众人绕过“码头街”（Dock Row）的污秽场所，经过海神里尔（Lirr）的咸渍木庙。",
+    "anchor": "Across from a salt-crusted wooden temple dedicated to the sea god Lirr",
+    "start": 18534,
+    "end": 18604,
+    "type": "event"
+  },
+  {
+    "fact": "众人登上山顶宅邸，无人守卫却门自开；白发黑衫的领主扎尼科（Xaniko）在火堆旁现身，说此地被他命名为“卡恩·戈巴赫”（Carn Gobach，即“破衣厅”），弗拉恩单膝下跪求助。",
+    "anchor": "you are welcome to Carn Gobach, as I have named it—Threadbare Hall",
+    "start": 21388,
+    "end": 21454,
+    "type": "event"
+  }
+]

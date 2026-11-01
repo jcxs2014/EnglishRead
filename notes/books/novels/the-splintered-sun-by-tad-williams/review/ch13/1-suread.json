@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "维斯皮利斯（Vespillis）占卜师被卫兵引进贝丽森特夫人的起居室，卫兵因怕他的名声而急忙退出。",
+    "anchor": "The scryer was ushered into Lady Bellicent’s retiring room by a guard who knew enough",
+    "start": 21,
+    "end": 106,
+    "type": "event"
+  },
+  {
+    "fact": "贝丽森特要回阿班吉特（Abaingeat）她儿子家；她妹妹的儿子就是第一领主费兰（Phelan），正有一项决定要做。",
+    "anchor": "My sister’s son, First Lord Phelan, has a decision to make.",
+    "start": 1905,
+    "end": 1964,
+    "type": "relation"
+  },
+  {
+    "fact": "贝丽森特认定那个深肤色女孩与诺克贝格（Knockbeg）本宅失窃的重要物品有关，她带的小男孩被搜过身却一无所获。",
+    "anchor": "I strongly suspect the dark-skinned girl had something to do with the theft",
+    "start": 2513,
+    "end": 2588,
+    "type": "event"
+  },
+  {
+    "fact": "女孩名叫薇德拉（Vedra），是南方岛屿一类的名字；贝丽森特要维斯皮利斯把她和同行的男孩找出来。",
+    "anchor": "The girl is named Vedra—some kind of name from the southern islands.",
+    "start": 3208,
+    "end": 3276,
+    "type": "relation"
+  },
+  {
+    "fact": "维斯皮利斯的仙女镜价值远超同等重量的黄金，他花了半辈子破解它的秘密，世间同类所剩无几。",
+    "anchor": "It is worth greatly more than its weight in gold. I have spent half a lifetime",
+    "start": 3744,
+    "end": 3822,
+    "type": "number"
+  },
+  {
+    "fact": "维斯皮利斯进入恍惚状态，身子在凳上摇晃、呼吸粗重，镜子从指间掉到地毯上；他说自己差点在“梦路”上迷失。",
+    "anchor": "Vespillis swayed on his stool, his breathing now loud and harsh.",
+    "start": 5077,
+    "end": 5141,
+    "type": "event"
+  },
+  {
+    "fact": "他占见海中立着一块形状怪异的石头，底部被浪花染白，名为“妖精岩”（Goblin Rock），位于港口城镇克兰希尔（Crannhyr）口。",
+    "anchor": "It is called Goblin Rock, and it stands at the mouth of the port town of Crannhyr.",
+    "start": 7435,
+    "end": 7517,
+    "type": "event"
+  },
+  {
+    "fact": "贝丽森特决定让第一领主派人去迪拉西（Dillathi）另一侧的克兰希尔追捕两个孩子，并吩咐占卜师去找费兰的管家领赏。",
+    "anchor": "I must tell the First Lord to send his men to Crannhyr after them.",
+    "start": 7889,
+    "end": 7955,
+    "type": "event"
+  }
+]

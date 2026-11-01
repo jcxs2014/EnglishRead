@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Xaniko 召见 Vedra 和 Daley，要 Vedra 把 Witness（龙鳞镜）留在 Threadbare Hall，说这对他日后要做的事很重要。",
+    "anchor": "You must leave it here at Threadbare Hall, I fear",
+    "start": 3487,
+    "end": 3536,
+    "type": "event"
+  },
+  {
+    "fact": "Xaniko 解释 Tika 的本名 Tikasitsonuq 意为“Beloved Child”（被爱的孩子），不解她为何许众人只叫她 Tika。",
+    "anchor": "It is a lovely name, is it not? It means ‘Beloved Child.’",
+    "start": 2784,
+    "end": 2841,
+    "type": "relation"
+  },
+  {
+    "fact": "Mollie 不肯多解释，只说回到 Threadbare Hall 对 Xaniko 有帮助，因为“the house helps him”，这是她所知的全部真相。",
+    "anchor": "But returning to Threadbare Hall has helped him",
+    "start": 5327,
+    "end": 5374,
+    "type": "event"
+  },
+  {
+    "fact": "Prince Ewain 与导师 Father Rumon 要回 Cashelrigg，靠一位与 Xaniko 有旧的船长送他们乔装渡海，Ewain 声明绝不再扮女祭司。",
+    "anchor": "A ship’s captain, an old acquaintance of Lord Xaniko’s, has promised to take us",
+    "start": 7092,
+    "end": 7171,
+    "type": "event"
+  },
+  {
+    "fact": "Ewain 向 Daley 道谢，说等他有朝一日登上王位，不会忘记那些为他而战的人。",
+    "anchor": "when I reach the throne someday, I will not forget those who fought for me",
+    "start": 8119,
+    "end": 8193,
+    "type": "event"
+  },
+  {
+    "fact": "Scaeth 在 Silverway 营地斥责母亲 Lady Bellicent，明言她无论如何都不能与他同骑，只能自己在队伍里找位置，回 Abaingeat 再听她抱怨。",
+    "anchor": "you may under no circumstances ride with me",
+    "start": 11081,
+    "end": 11124,
+    "type": "relation"
+  },
+  {
+    "fact": "Flann 说再过一个月左右，全体将照每年惯例迁往 Circoille 的 Deep Den Camp；Vedra 由此得知自己与 Daley 要随 Crows 走。",
+    "anchor": "In another moon or so, we will all move to Deep Den Camp",
+    "start": 14506,
+    "end": 14562,
+    "type": "number"
+  },
+  {
+    "fact": "Vedra 说自己和 Daley“现在是 Crows 了”，Mearna 抱住她说这是“no small honor”（不小的荣耀）。",
+    "anchor": "And that is no small honor, dear child",
+    "start": 16835,
+    "end": 16873,
+    "type": "relation"
+  }
+]

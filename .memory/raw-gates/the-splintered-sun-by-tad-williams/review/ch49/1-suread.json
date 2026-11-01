@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "鲁蒙自认职责是在众人只顾埃温王子时看住达雷。",
+    "anchor": "With everyone else worrying about Prince Ewain, Rumon had decided it was his task to try to keep Daley safe.",
+    "start": 1954,
+    "end": 2062,
+    "type": "relation"
+  },
+  {
+    "fact": "泥男孩清点箭矢，大约只剩一打或更少。",
+    "anchor": "Beside the harper, Mud Boy was counting his arrows—Rumon could see he had perhaps a dozen or fewer left.",
+    "start": 2802,
+    "end": 2906,
+    "type": "number"
+  },
+  {
+    "fact": "达雷承认自己把藏身位置告诉了维德拉，乌鸦们正赶来。",
+    "anchor": "“No, no!” said Daley. “We can’t! I told Vedra where we were! They’re coming to find us!”",
+    "start": 4090,
+    "end": 4178,
+    "type": "event"
+  },
+  {
+    "fact": "这场恶战起因是弗兰恩杀了草原人队长。",
+    "anchor": "The fighting had been fierce from the very start after Flann had apparently started things by killing the grasslander captain.",
+    "start": 6931,
+    "end": 7057,
+    "type": "event"
+  },
+  {
+    "fact": "维德拉望见对面山脊上立着戴兜帽斗篷的静止身影。",
+    "anchor": "stood a motionless figure in a dark, hooded cloak. A local, she tried to tell herself",
+    "start": 8095,
+    "end": 8180,
+    "type": "event"
+  },
+  {
+    "fact": "斯卡斯的雇佣兵放火焚烧坡底大片灌木，火势顺坡上爬。",
+    "anchor": "Scaeth’s mercenaries had set a broad swath of the undergrowth ablaze near the bottom of the slope",
+    "start": 15136,
+    "end": 15233,
+    "type": "event"
+  },
+  {
+    "fact": "敌军已逼近到火线外仅二十或三十步远。",
+    "anchor": "the soldiers now only twenty or thirty paces away on the far side",
+    "start": 16152,
+    "end": 16217,
+    "type": "number"
+  },
+  {
+    "fact": "迪亚班要鲁蒙保证把达雷也一并带走。",
+    "anchor": "But I need one more promise from you. Take the boy, too.",
+    "start": 14609,
+    "end": 14665,
+    "type": "relation"
+  }
+]
