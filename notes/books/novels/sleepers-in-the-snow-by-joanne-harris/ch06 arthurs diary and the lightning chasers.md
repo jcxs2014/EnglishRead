@@ -61,7 +61,7 @@ modified: "2026-10-31"
 
 **关键词**：Offerings / tennis ball / LIGHTNING CHASERS / deer / thriller
 
-**为什么这样写**：Offerings 是 Arthur 自己的用词——他不把杯子和网球称为「丢失物」或「垃圾」，称为「供品」，暗示他认为这些东西被某个存在接收了，而他在下一轮放上新的供品作为交换。Something old for something new 是他对自己行为的总结：以旧换新，像一种仪式。日记末尾突然跳到「鹿是好动物」——这种非逻辑的跳跃是 Arthur 文风的标记，也是他思维的窗口：他在意鹿，因为鹿不评判他。
+**为什么这样写**：Offerings 是 Arthur 自己的用词——他不把杯子和网球称为「丢失物」或「垃圾」，称为「供品」，暗示他认为这些东西被某个存在接收了，而他在下一轮放上新的供品作为交换。Something old for something new 是他对自己行为的总结：以旧换新，像一种仪式。日记末尾突然跳到「鹿是好动物」——这种非逻辑的跳跃是 Arthur 文风的标记，也是他思维的窗口：他在意鹿，因为鹿不评判他。而这条日记的日期是 2018 年 4 月——Caroline 早在 2017 年 9 月已埋狗，原文随即自问「But hadn't Caroline buried the dog in September, 2017?」：Arthur 在给一条死狗写遛狗日记，这个无人回答的问句是本章埋得最深的裂缝。
 
 **读者视角提示**：请把「Offerings」这个词记住——Arthur 把丢失的物品称为供品，而「Caroline never notices」说明交换一直在发生，只是无人见证。他反复提到在读同一本书，这为本章结尾的发现埋下线索。
 

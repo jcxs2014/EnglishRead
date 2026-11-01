@@ -1,0 +1,55 @@
+{
+  "book": "sleepers-in-the-snow-by-joanne-harris",
+  "chapter": "ch06",
+  "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch06_chapter_6.txt",
+  "facts": [
+    {
+      "fact": "框架日期 2024 年 9 月 26 日：那周一场又热又急的大雨把通往房子的土路冲毁，车辆无法进出，去 Lyke 的计划搁置（步行沿主路要五英里）。",
+      "anchor": "September 26th, 2024",
+      "start": 20,
+      "end": 40
+    },
+    {
+      "fact": "他清点散步口袋里的东西，摸到一把小折刀和一条磨损开裂的旧狗绳，记起 Caroline 说过 Arthur 散步总带着狗绳。",
+      "anchor": "a pocket knife, a dog’s lead",
+      "start": 4161,
+      "end": 4189
+    },
+    {
+      "fact": "电塔又开始嗡鸣，有个声音对他说：鬼魂伤不了你，鬼魂只是记忆。",
+      "anchor": "Ghosts can’t hurt you, said the voice",
+      "start": 4571,
+      "end": 4608
+    },
+    {
+      "fact": "他发现一本硬皮笔记本，扉页写着 ARTHUR WILLIAM SANDERSON——Arthur 也记了日记，条目从 2013 写到 2020，跨度近五年。",
+      "anchor": "On the inside cover, he read: ARTHUR WILLIAM SANDERSON",
+      "start": 4888,
+      "end": 4942
+    },
+    {
+      "fact": "他察觉日记反常：这些遛狗条目日期是 2018 年 4 月，但 Caroline 早在 2017 年 9 月就埋了狗。",
+      "anchor": "hadn’t Caroline buried the dog in September, 2017?",
+      "start": 6496,
+      "end": 6546
+    },
+    {
+      "fact": "他回家发现门半开、门后有一只崭新的网球；两只用过的马克杯（Judge Dredd 与粉红爱心杯）不见踪影，他改用印着 World’s Best Dad 的棕色杯。",
+      "anchor": "There was a tennis ball behind the door.",
+      "start": 8254,
+      "end": 8294
+    },
+    {
+      "fact": "他猜测卖掉房子的是 Arthur 的一双儿女 Lucy 和 Greg，不解他们为何没清理遗物；墙上孩子照片远少于狗 Bailey 的照片。",
+      "anchor": "Arthur’s children, Lucy and Greg",
+      "start": 9138,
+      "end": 9170
+    },
+    {
+      "fact": "晚上他从书架上随手抽出的旧书，正是 Arthur 日记里从 4 月读到 6 月反复在读的 The Lightning Chasers, by Adrian Warner。",
+      "anchor": "the book was The Lightning Chasers, by Adrian Warner",
+      "start": 12295,
+      "end": 12347
+    }
+  ]
+}
