@@ -42,7 +42,7 @@ modified: "2026-11-01"
 **为什么这样写**：革命的旗手先亮旗——「葫芦旗」的荒诞与「新国家」的庄严并排，起义还没有纲领，先有了一面旗；它跟 Hasp 的铃同属遗物转正的行列。
 **读者视角提示**：记住这面「葫芦旗」——它是全书唯一的自建国旗号：一个厨房小哥用厨具宣布独立。
 
-> **原句 6:** "He had blood on his head, so I thought him injured, but then I realized that it wasn’t his blood. What he brandished on the end of his stick was no gourd but the head of Sylvae Mar Mexes, the slavemistress. Her mouth was open as if still silently scolding the very naughty slaves that had beheaded her, her eyes open but as blind as those of Pulhu."
+> **原句 5:** "He had blood on his head, so I thought him injured, but then I realized that it wasn’t his blood. What he brandished on the end of his stick was no gourd but the head of Sylvae Mar Mexes, the slavemistress. Her mouth was open as if still silently scolding the very naughty slaves that had beheaded her, her eyes open but as blind as those of Pulhu."
 
 **中文理解**：他头上有血，我以为他受了伤——然后才明白那不是他的血。他杆头挥舞的不是葫芦，是女监工 Sylvae Mar Mexes 的头。她的嘴还张着，像还在无声地训斥那些砍了她脑袋的顽劣奴隶；眼睛睁着，但跟 Pulhu 的眼睛一样瞎了。
 
