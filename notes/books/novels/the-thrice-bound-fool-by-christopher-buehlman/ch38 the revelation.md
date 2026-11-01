@@ -48,7 +48,7 @@ modified: "2026-11-01"
 **为什么这样写**：神迹的后台是童工——「waited until the children finished」的礼貌杀人犯：他愿意等孩子安全离开才动手，这条底线在两万人的死亡里几乎没人会注意，但它在了。
 **读者视角提示**：记住「等孩子干完」——这是本章唯一的善：弑城者的道德余额就剩这一格，作者让它亮着。
 
-> **原句 6:** "As if they were too loyal to bear life without their sovereign, the guards fell, too. The girl who fanned flies saw him fall, eyes fixed forward. looked to see what he was looking, then she gasped and fell, too. Several screams rang out, then these, too, fell silent. Above us, one cloud-ship had begun to bump against the other as the third drifted off over the city, there being no living hand to steer any of them."
+> **原句 6:** "As if they were too loyal to bear life without their sovereign, the guards fell, too. The girl who fanned flies saw him fall, eyes fixed forward. She looked to see what he was looking at, then she gasped and fell, too. Several screams rang out, then these, too, fell silent. Above us, one cloud-ship had begun to bump against the other as the third drifted off over the city, there being no living hand to steer any of them."
 
 **中文理解**：卫兵们也倒下了——仿佛太忠诚、无法忍受没有君王的生活。扇蝇的女孩看见国王倒下，眼睛还直视前方；她顺着他的目光看去，然后惊呼一声、也倒下了。几声尖叫响起，随后这些也归于寂静。头顶上，一艘云船开始撞上另一艘，第三艘漂向城市上空——没有任何活着的手在掌舵。
 **关键词**：too loyal to bear life / looked to see what he was looking / fell silent / no living hand to steer
