@@ -57,7 +57,7 @@ modified: "2026-11-01"
 
 > **原句 5:** "Twenty-five years ago, when I was still a teenager, I lost my sister to suicide. She was my one sibling, and this tragedy and its aftermath estranged me from my parents. When I turned eighteen I made the estrangement official by legally changing my name."
 
-**中文理解**：二十五年前她还在少女时期，妹妹自杀身亡。那是她唯一的兄弟姐妹，这件事连同它的后遗症让她与父母彻底生分；十八岁那年，她用改名把这份生分办成了正式手续。
+**中文理解**：二十五年前她还在少女时期，姐姐自杀身亡。那是她唯一的兄弟姐妹，这件事连同它的后遗症让她与父母彻底生分；十八岁那年，她用改名把这份生分办成了正式手续。
 
 **关键词**：lost my sister / one sibling / estranged / legally changing my name
 
