@@ -1,0 +1,91 @@
+{
+  "chapter": "ch52",
+  "text_file": "text/ch52_chapter_52.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "一年后，Jo在威尔特郡Rushwood的柳荫下铺开Nana的拼布被，从背带里解出哼唧的Alfie放平（四个月大，藏青色眼睛开始泛绿，总在找她的目光）；老牧羊犬Dolly在热里喘着原地转了一圈叹气趴下，一只苍鹭展翅飞离河岸。",
+      "anchor": "Jo unrolls Nana’s quilt in the willow’s shade.",
+      "byte_offset": 56,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Jo忍不住又给穿水手连体衣的Alfie拍照，用WhatsApp发给正去Kaia妈妈家接Kaia的Woody；夹在Dolly与婴儿之间躺着的Jo第一次感到近乎平静——但她知道平静转瞬即逝；随后通知响起：Woody给照片点了心。",
+      "anchor": "and WhatsApps it to Woody, who’s collecting Kaia from her mum’s",
+      "byte_offset": 1659,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "眼下的待办清单：Alfie快到喂奶时间、Kaia在路上；未来收入流（婚礼、影视取景、观星静修）要讨论，Mimi的一层设计待审；表亲Aisling下周末来访、八月还有更多O Maras——尽管主宅仍是工地。但此刻，只要当下。",
+      "anchor": "weddings, film location shoots, stargazing retreats",
+      "byte_offset": 2226,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Rushwood是Granny的主意（“废墟可以拯救。看看我们吧，Mim！”）；那番对话发生在一年多前威尼斯Harry's Bar——Granny在人间最后一晚，Mimi觉得她有第六感而不只是Bellini喝多了；Granny本想回家后亲口告诉Jo，人逝后任务落到Mimi，Mimi在葬礼次日（萨福克老宅厨房，速溶咖啡、缺口杯子）才开口，且先回到2005年Jo父母的车祸。",
+      "anchor": "That conversation took place over a year ago, Mimi and Granny in Harry’s Bar, Venice.",
+      "byte_offset": 2552,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "秘密的两面：Leni死讯传到纽约，Lawrence数日几乎说不出话，向Mimi坦白几十年前与Pamela在棕榈温室的私情及“Leni可能是他的”这笔麻烦的账，Mimi虽受伤恼火（更多迁怒Lawrence）却同意永不向悲恸的姐姐提起；而Pamela自Leni出生数周内起疑（婴儿灰绿眼、乳白肤、睫毛眉毛发白，越长越像Lawrence），Tony在她试探时打断她——“爱才是最重要的，Pamela”——两人照旧过日子；Mimi屡孕失败后Granny加深困境、喂养姐妹嫌隙并自认“为了更大的善”，对外拿“最金发的Bramley基因”自圆其说。",
+      "anchor": "he confessed to his tryst with Pamela in the palm house decades before",
+      "byte_offset": 4048,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "后果：Leni长大后开始追问疏远的姑妈和一座叫Rushwood的房子，这股倔强的好奇心让她在2005年走上多塞特蜿蜒乡道、迎向拖拉机——Jo的父母Alf与Leni双双身亡；此后Rushwood、Caswells与妹妹在Granny心中与这两场死亡捆死，与Jo坦诚的一切合理论证都被漩涡卷走（怕Jo也开始追问、怕Jo与Mimi见面）。",
+      "anchor": "set her in the path of the tractor on that winding Dorset lane",
+      "byte_offset": 5838,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "摊牌与数据：Mimi言明不论Jo是否与Lawrence有血缘，Rushwood连同修缮维护资金都归她、别无他人可托付；Jo几乎一周没睡好，最终认定查明真相不算不忠，加入ancestry网站寄出样本——突然之间她拥有的不是感觉而是数据：无意大利血统、新亲缘遍布美国、英国有几个姓Caswell的新亲戚；“想知道”与“知道”不是一回事，数月后她仍会不时惊愕。",
+      "anchor": "no Italian blood; new relations all over America; a few in Britain with the surname Caswell",
+      "byte_offset": 6991,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "领悟与收尾：Jo原谅了外婆——她领悟到若Granny早点坦白，就没有藏起的饼干铁盒、秘密、拍卖、乔装登门Mimi的Chelsea家，也就不会遇见Woody、怀上Alfie这两个“一生挚爱”（“拉动一根线，就牵动所有线”）；结尾Mimi穿红色Eres泳衣、肩搭毛巾从潘神雕像旁的树林现身，俯身把Alfie亲得满脸红唇印，丢下一句“日落酒前快游一下”，蹚进齐腰的河水、纵身向前，稳稳向下游游去，暮色在她身后合拢。",
+      "anchor": "plunges forward and swims steadily downstream",
+      "byte_offset": 8717,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Jo ↔ Alfie：母子——Alfie是她“最幸福的意外”，四个月大；她喂奶、亲吻、举高逗弄（Fly, fly, fly!）",
+    "Jo ↔ Woody：伴侣——照片WhatsApp给他、他点心；文中“遇见Woody或怀上Alfie，我一生挚爱的两个”，Alfie为两人所生",
+    "Woody ↔ Kaia：Woody从“Kaia妈妈家”接Kaia（Kaia与Woody/Jo的具体关系本章未明言）",
+    "Pamela（Granny）↔ Jo：祖孙——Pamela是Jo的grandmother；她隐瞒真相直至去世（尸体归国、葬礼：简朴棺木撒泥土与矢车菊）",
+    "Leni ↔ Pamela：母女（“Pamela's daughter had died”即Leni）；Leni ↔ Jo：母女——2005年“her parents' accident”即Alf与Leni之死",
+    "Alf ↔ Leni：Jo的双亲，2005年多塞特乡道拖拉机事故同亡",
+    "Lawrence ↔ Pamela：几十年前palm house私情；Lawrence可能是Leni的生父（“the troubling maths of it”）",
+    "Mimi ↔ Lawrence：夫妻（“her marriage and Mimi's”都在威胁之列；纽约同住）",
+    "Mimi ↔ Pamela：姐妹（“her grief-shattered sister”）；Mimi ↔ Jo：great-aunt——无条件把Rushwood连同修缮资金交托Jo（“别无他人可托付”）",
+    "Tony ↔ Pamela：夫妻；Tony ↔ Leni：视如己出（“whom Tony adored as his own”），并以“爱才是最重要的”拦下Pamela的试探",
+    "Dolly：老牧羊犬，Jo身边的伴犬（在Suffolk厨房 basket 中打鼾，本章在Rushwood河畔午睡、梦中似又变回牧羊幼犬）",
+    "Aisling ↔ Jo：表亲（cousin），下周末来访；八月将有更多O Maras到来"
+  ],
+  "numbers_dates": [
+    "52 — 章号（全书末章）",
+    "a year later — 本场景：Jo, Rushwood, Wiltshire，一年后",
+    "four months old — Alfie月龄（藏青眼睛开始泛绿）",
+    "over a year ago — Harry's Bar对话距今一年多（Granny在世最后一晚）",
+    "2005 — Jo父母（Alf与Leni）车祸之年；Mimi与Jo的讲述先回到这里",
+    "decades before — Lawrence与Pamela的palm house私情距今数十年",
+    "within weeks of Leni's birth — Granny起疑时点：Leni出生后数周内",
+    "barely slept for a week — Jo决定测DNA前几乎一周没睡好",
+    "months later — 至今（数月后）Jo仍会不时惊愕（hiccups of surprise）",
+    "next weekend — 表亲Aisling来访",
+    "August — 八月更多O Maras到访（主宅仍是工地）",
+    "two great loves of her life — Woody与Alfie"
+  ],
+  "turning_point": "Jo的DNA检测把“怀疑”变成“知道”（无意大利血统、冒出Caswell姓氏新亲缘），她在原谅外婆的同时领悟：正是那个被守了一生的秘密把她送到了Chelsea门口——没有秘密就没有Woody与Alfie；真相揭开之时，Rushwood也交到了她手上。"
+}

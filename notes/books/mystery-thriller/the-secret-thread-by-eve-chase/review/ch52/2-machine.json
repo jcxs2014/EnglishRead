@@ -1,0 +1,295 @@
+{
+  "chapter": 52,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch52 jo rushwood wiltshire a year later.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch52_chapter_52.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Jo unrolls Nana’s quilt in the willow’s shade. Panting in the late-afternoon heat, Dolly pads stiffly in a circle, then ",
+          "ok": true,
+          "pos": 46
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She can’t now imagine life without this tiny boy, the happiest of accidents. During night feeds in the old head gardener",
+          "ok": true,
+          "pos": 680
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Rushwood, Granny’s idea. Ruins can be rescued. Look at us, Mim",
+          "ok": true,
+          "pos": 2383
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "That conversation took place over a year ago, Mimi and Granny in Harry’s Bar, Venice. Though Granny couldn’t have known ",
+          "ok": true,
+          "pos": 2446
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Chewing a blade of grass under the willow tree, cupping Alfie’s foot in her hand, Jo feels, at last, that she’s come ful",
+          "ok": true,
+          "pos": 6949
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "It strikes her that if Granny had admitted all this earlier there’d have been no hidden shortbread tin, no secret, no au",
+          "ok": true,
+          "pos": 7250
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Tug one thread and you tug them all",
+          "ok": true,
+          "pos": 7527
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Mimi gasps, throws up her arms as the river rises over her hips, her waist, then plunges forward and swims steadily down",
+          "ok": true,
+          "pos": 8316
+        }
+      ],
+      "words": 34
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 17,
+        "为什么这样写": 104,
+        "读者视角提示": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.28,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 113,
+        "关键词": 27,
+        "为什么这样写": 97,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.26,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 8,
+        "为什么这样写": 93,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.44,
+        "关键词": 0.24,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 21,
+        "为什么这样写": 107,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.28,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 20,
+        "为什么这样写": 112,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.24,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 15,
+        "为什么这样写": 80,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.18,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 14,
+        "关键词": 8,
+        "为什么这样写": 94,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.24,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 20,
+        "为什么这样写": 100,
+        "读者视角提示": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.24,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "52. Jo, Rushwood, Wiltshire, a year later",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1479,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
