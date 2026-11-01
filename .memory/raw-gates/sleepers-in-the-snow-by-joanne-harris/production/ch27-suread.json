@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch27",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch27_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "邮递员 Greg 送来一个包裹，章首句「Not all deer are good animals」与 ch26 呼应",
+   "anchor": "The post came today. The postman is Greg. He brought a parcel.",
+   "start": 45,
+   "end": 107
+  },
+  {
+   "fact": "邮包收件人是 Arthur Sanderson——男主意识到邮递员把他当成了那个人",
+   "anchor": "He thinks I’m Arthur Sanderson.",
+   "start": 1661,
+   "end": 1692
+  },
+  {
+   "fact": "他犹豫了：收下 Arthur 的衣服、家具、兴趣之前什么都没发生，收下他的名字会发生什么",
+   "anchor": "For a moment he hesitated. Should he accept the parcel?",
+   "start": 1695,
+   "end": 1750
+  },
+  {
+   "fact": "他用指尖签了一个谁也认不出的潦草签名——既不是自己也不是 Arthur 的名字",
+   "anchor": "an unintelligible scrawl",
+   "start": 1966,
+   "end": 1990
+  },
+  {
+   "fact": "他穿上 Arthur 的冬装时，衣柜里 Caroline 的声音哀求「求你，Arthur，让我进来」",
+   "anchor": "Please, Arthur, let me in—",
+   "start": 5011,
+   "end": 5037
+  },
+  {
+   "fact": "照片里白发老人正是他第一夜在厨房窗口见过的鬼影——恐怖从幻象变成档案",
+   "anchor": "It was the old man he’d seen that first night through the kitchen window.",
+   "start": 7774,
+   "end": 7847
+  },
+  {
+   "fact": "Dr Benn 的信警告 Arthur：你在 Firefleet 处于危险之中，不知道你留下来会释放什么力量",
+   "anchor": "You are in danger at Firefleet. You have no idea what forces you may be unleashing by staying there.",
+   "start": 7965,
+   "end": 8065
+  },
+  {
+   "fact": "雾里一只鹿以近乎捕食的姿态撕咬一只死羊——章首「Not all deer are good animals」应验",
+   "anchor": "No deer would eat a dead sheep. And yet, that’s what it looked like; the sheep’s woolly back; the deer’s movements strangely aggressive – almost predatory – as it tore at the pale patch at its feet.",
+   "start": 9634,
+   "end": 9832
+  }
+ ]
+}
