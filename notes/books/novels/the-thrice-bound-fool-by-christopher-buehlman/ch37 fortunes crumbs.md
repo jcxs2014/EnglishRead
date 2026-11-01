@@ -7,7 +7,7 @@ modified: "2026-11-01"
 
 ## 本章导航
 - **一句话概括**：Galva 生死未卜的夜里，他给出纹身的 Bully 喂酪告别、把「命运面包屑」课当救命稻草顺盐找源——撞见 Quiggles 夜访 Pulhu（触手喂莓、墨字对答「I also」「Friend」）；八卦里炸出「她活着」——外科医生、瞒报、虎皮礼物；绝望回灌到磨刀自洽，却在一封用墨线写的遗言里顿悟：他能模仿任何读过的文字——放下刀，微笑着站在「最可怕的恶作剧」的边缘。
-- **情感弧线位置**：Part III 的收束章，也是他一生的分水岭。绝望（好友垂死、计划破产、自杀考量）与顿悟（模仿文字=伪造神词）在同一天夜里交换座位——「Fortune's Crumbs」的标题在此兑现：他终于学会了捡面包屑，而且捡出了一场王冠级的恶作剧。
+- **情感弧线位置**：第三部 的收束章，也是他一生的分水岭。绝望（好友垂死、计划破产、自杀考量）与顿悟（模仿文字=伪造神词）在同一天夜里交换座位——「Fortune's Crumbs」的标题在此兑现：他终于学会了捡面包屑，而且捡出了一场王冠级的恶作剧。
 - **Tropes 兑现/反转**：animal sidekick（动物伙伴）兑现到三重奏——Bully、Butter、Quiggles 各领一段温柔；crossover friendship（跨界友谊）在 Quiggles 与 Pulhu 之间升华成全书最柔的一幕；criminal plan（犯罪计划）反转成一次「识字的降维打击」——不识字的人群里，会写字就是神。
 - **人物弧线**：Kinch 的自杀考量第一次摆上台面（被「太累」和「别杀猫」救下）；Quiggles 的「I also」完成了两个囚徒的哲学结拜；Galva 的生还让「You must kill them」从遗令降级为待办；章尾的微笑是全书最黑暗的一帧——他已经想到了明天要在神词石板上写什么。
 - **叙事手法**：以喂酪独白开场（话痨防哭）；「Crumbs of Fortune」课用箴言体立柱；Quiggles 对答全部以「墨字+动作」的默剧推进；八卦段用偷听的两声部（奴隶间的真心话）完成情报投递；「Wait. Wait. Fucking wait.」的短行把顿悟的心跳拍成默片，章尾问句把读者留在悬崖上。
@@ -32,7 +32,7 @@ modified: "2026-11-01"
 **中文理解**：低校教你的一课：别嫌弃命运的面包屑。计划会崩、灵感会枯、运气会干。等你死了，你想放弃随便你——只有那时。命运给有些人蛋糕，给另一些人碎屑。追着蛋糕要，但拿到碎屑也要收下。
 **关键词**：the Crumbs of Fortune / Plans collapse / When you’re dead…only then / Try for the cake but take the crumbs
 **为什么这样写**：生存哲学被压成四句校训——「死了才有资格放弃」把放弃的位置放在人生之外；「cake/crumbs」的分配论是本章标题的出典，也是他在绝境里学会的最后一件贼艺。
-**读者视角提示**：记住「收下碎屑」——本章他捡到的碎屑（盐、墨字、八卦）每一粒都会在 Part IV 生息；命运的分餐从不在乎你是谁。
+**读者视角提示**：记住「收下碎屑」——本章他捡到的碎屑（盐、墨字、八卦）每一粒都会在 第四部 生息；命运的分餐从不在乎你是谁。
 
 > **原句 4:** "There was likely nothing stronger on two legs in all the world, but here he was in even stricter bondage than myself, and only because I was small and clever. We were like a fox and a bull, I thought, but that got me thinking about the woman I’d once called a wolf and whom the city thought a tiger. And that threatened to wreck me, so I decided it was time to move."
 
@@ -88,7 +88,7 @@ modified: "2026-11-01"
 **中文理解**：「我听说 King Agraias 要瞒着 hivelings 她活下来了。他盼她等他们回东边之后再战。虎皮已经剥下来、留在她房里，等她醒了好当礼物。」「好一份礼物。她爱那头兽。」「你知道我们的主人跟我们想的不一样。」「不一样。他们更狠。」「他们是一群狼心狗肺的烂杂种，」那个压着嗓子说，两人笑起来、四下张望确认没被听见。
 **关键词**：hidden from the hivelings / the tiger’s pelt flensed / They’re harder / mean-hearted shit-fuckers
 **为什么这样写**：善意的等级制在礼物里现形——虎皮是「纪念」也是「战利品的归还」，主人的仁慈与残忍共用同一张皮；奴隶的耳语（+四下张望）是这个世界唯一的自由出版物。
-**读者视角提示**：记住「他们更狠」——它跟「神的长相怪物的心」（ch28）合成对帝国的完整判词；虎皮礼物是 Part IV 之前最冷的一件道具。
+**读者视角提示**：记住「他们更狠」——它跟「神的长相怪物的心」（ch28）合成对帝国的完整判词；虎皮礼物是 第四部 之前最冷的一件道具。
 
 > **原句 12:** "I thought about writing DEATH TO THE SHIT-FUCKERS on the wall in solidarity with these two kynd slaves who’d found a hero in Galva—one their own size and sort who’d become the fiercest fighter on the blacksand—but then realized that of course they couldn’t read. Knowing letters was a kind of power, one the half-giants weren’t about to share with their chattel."
 
@@ -114,7 +114,7 @@ modified: "2026-11-01"
 > **原句 15:** "I put the knife down. My hand was shaking. I was smiling. You’ll think me a monster for it later, when you learn, but I was smiling. Did you ever fall into despair, get up out of it, fall harder, then rise up a king, and glorious, and on the cusp of great and terrible—the most terrible imaginable—mischief?"
 
 **中文理解**：我放下刀。手在抖。我在笑。等你日后知道你做了什么，你会觉得我是个怪物——但我当时在笑。你有没有跌进过绝望、爬出来、跌得更狠，然后像国王一样站起来，光荣地、站在伟大而可怕的——能想象的最可怕的——恶作剧的边缘？
-**关键词**：I put the knife down / My hand was shaking / I was smiling / great and terrible—mischief
+**关键词**：I put the knife down / My hand was shaking / I was smiling / the most terrible imaginable
 **为什么这样写**：顿悟的瞬间用身体反应写（手抖+微笑），先于任何计划说明——「monster for it later」的预告把道德审判权交给读者，而他只负责笑；收尾问句的阶梯（跌/爬/跌/王座/恶作剧）是全书的命运总纲在自言自语。
 **读者视角提示**：记住这个微笑——它与 Galva 坠崖时的微笑（ch05）是同一族笑容：明知要付出可怕代价的人才会这么笑。他想到的是什么？下一章见。
 

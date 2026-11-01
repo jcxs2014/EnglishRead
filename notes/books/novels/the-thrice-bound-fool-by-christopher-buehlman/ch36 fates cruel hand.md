@@ -7,10 +7,10 @@ modified: "2026-11-01"
 
 ## 本章导航
 - **一句话概括**：刺杀密谋刚立、加赛日的命运潮水就到——Galva 被推上不平等擂台（她+过气的 Jubel vs 地精矛手、Apia 的 slakesword、一头大熊）；Jubel 死于侧袭、熊与地精同归于尽；Galva 弃剑用手——硬拍上剑刃再断臂断膝——写下「我见过最强的战士」的福音判词，然后被 slakesword 刺穿腹部，血手比出三个词：You must kill them.
-- **情感弧线位置**：Part III 的血峰与断点。刺客计划被帝国的「待客之道」搅碎，Galva 的最好一战与最重伤同场交付；「两只杀手晒太阳」的上一章与这一章的「虎死她伤」构成全书最冷的对照页。
+- **情感弧线位置**：第三部 的血峰与断点。刺客计划被帝国的「待客之道」搅碎，Galva 的最好一战与最重伤同场交付；「两只杀手晒太阳」的上一章与这一章的「虎死她伤」构成全书最冷的对照页。
 - **Tropes 兑现/反转**：pit fight（擂台战）兑现成设局的不公平赛——观众的失望是唯一的正义声；heroic sacrifice（英雄牺牲）反转成战术工具——她把左手喂上剑刃换一秒破防；dying command（临终命令）兑现成手势语——无声的三个词比任何遗言都响。
 - **人物弧线**：Galva 的「骨头说话」课逼出他的勇气；她的「best fighter」认证以左手为代价；Kinch 的怯懦与义气在潮汐判词里被命名；Jubel 用一场同归于尽给「被浪费的老将」讨回了最后的体面；Apia 的「蜜蜂」终于蜇了人——也被折了翅。
-- **叙事手法**：密谋戏用逻辑推演的乒乓球（bones/bowels 的解剖学修辞）；潮汐判词独立成段做命运转场；战斗的残酷用「拒绝描述」处理（虎死段：I won't describe it）；「matching her breaths to the last one」的呼吸同步是全书最安静的告别；章尾三词手势语收束，把 Part III 的血账记满。
+- **叙事手法**：密谋戏用逻辑推演的乒乓球（bones/bowels 的解剖学修辞）；潮汐判词独立成段做命运转场；战斗的残酷用「拒绝描述」处理（虎死段：I won't describe it）；「matching her breaths to the last one」的呼吸同步是全书最安静的告别；章尾三词手势语收束，把 第三部 的血账记满。
 
 ## 精读
 > **原句 1:** "“Can you kill them?” “Alone? I doubt it.” “Can you get me out of here to kill them?” “Possibly. But then we’ll be dead and the biters will just send more, won’t they? I’m sure they’ve got heaps of creepy little ambassadors, but of meself, I’ve only got the one.”"
@@ -99,4 +99,4 @@ modified: "2026-11-01"
 | gospel | 福音；（引申）确定无疑的事 | …but take this for gospel. |
 
 ## 一句话总结
-湿沙上的刺杀计划被咸潮改写成一场不公平的擂台——Jubel 用同归于尽清账，Galva 用一只手换来「时代最强」的福音认证，也换来 slakesword 的腹伤；血手比出三个词「You must kill them.」——她的使命移交，Part III 的血账翻到最后一页。
+湿沙上的刺杀计划被咸潮改写成一场不公平的擂台——Jubel 用同归于尽清账，Galva 用一只手换来「时代最强」的福音认证，也换来 slakesword 的腹伤；血手比出三个词「You must kill them.」——她的使命移交，第三部 的血账翻到最后一页。

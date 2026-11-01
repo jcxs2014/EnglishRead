@@ -7,7 +7,7 @@ modified: "2026-11-01"
 
 ## 本章导航
 - **一句话概括**：Hasp 睡着后的第一夜独行——开锁、撸猫、上墙、躲 Ponira，撞进独眼铁匠 Zherit-Nassk 的锻房（黑glass「地狱之墙」的锻造者、金眼夜视、以书易钥的交易）；他从神像眼里听见 Medrena 的泪、顺着咸水找到天花板暗门、用黄油刀挖出 Thumos 的神眼当手电——回家时房间又冷又静：Hasp 走了。「你没带上我就回家了。」
-- **情感弧线位置**：Part III 的中枢章。白天的冒险（夜巡）与最重的丧钟（Hasp 之死）挤在同一晚——他刚学会用贼的眼睛看清这座宫殿，就失去了唯一教他「怎么做人」的人；铃铛的移交把师徒情钉进公主的发辫。
+- **情感弧线位置**：第三部 的中枢章。白天的冒险（夜巡）与最重的丧钟（Hasp 之死）挤在同一晚——他刚学会用贼的眼睛看清这座宫殿，就失去了唯一教他「怎么做人」的人；铃铛的移交把师徒情钉进公主的发辫。
 - **Tropes 兑现/反转**：heist night（夜盗之夜）兑现成全套职业技能展（开锁、潜行、walltouchery、开保险柜式的偷神眼）；monster smith（怪物铁匠）反转成哲学家与书痴——「书解我的奴役」；desecration（渎神）兑现成最实用的亵渎——神的眼珠成了手电筒，神犬成了懒看门狗。
 - **人物弧线**：Kinch 的技能树在本章满级（六扇门的通道网是他对这座宫殿的逆向工程）；Zherit-Nassk 的「夜」与 Zherit 的「昼」埋下双面人格；Hasp 的死完成师承的移交——书、铃、蓝莓的善良全部转世到他身上；Medrena 的泪与咸水之谜给「海神为奴」的神话安了一个真实的出口。
 - **叙事手法**：夜巡按「技能清单」推进（每段一个技能点）；锻房对话用古语的节奏（Are you damned, small one?）；神谱讲座用「被驯服的神」作统一视角（海被锁、风被拴、火被吞）；Hasp 之死用「变小了」的视觉定义死亡，火葬以火花与盐池的倒影收束——铃铛的两种叮当声是他的纪念碑。
@@ -39,14 +39,14 @@ modified: "2026-11-01"
 **中文理解**：「这片奇怪而干燥的大地，从前是我们的，」独眼巨人在锤声的间隙里告诉我，手里正打着一把半巨人尺寸的短剑。「很久以前，山用火谋杀了我们。所以 Thumos 之座把脸藏进云里——为了那桩罪。他虽坐得像祖父一样安详、看似温和，却是个乐在其中的杀手。」
 **关键词**：once was ours / the mountain murdered us with fire / hides his face in clouds / a glad-hearted killer
 **为什么这样写**：亡国的证词从锤声的间隙里漏出——「murdered」把火山喷发定性成谋杀而非天灾，原住民的史观一锤定音；「glad-hearted killer」给这位神的三重画像（祖父/温和/乐杀）加了最后一笔，与 Galva 死亡女神的「自愿赴约」恰成镜像。
-**读者视角提示**：这是 Throne of Thumos 的罪行档案——记住「谋杀原住民」这条罪状，Part IV 的 Glassfall 会像一场迟到的判决执行。
+**读者视角提示**：这是 Throne of Thumos 的罪行档案——记住「谋杀原住民」这条罪状，第四部 的 Glassfall 会像一场迟到的判决执行。
 
 > **原句 5:** "“Blackglass,” he said. “The midnight bastard child of steel and glass, but with an artful give to it when struck. You’ll not be shattering no child of mine to splintered shards, not with hammer, rock, nor eastern spell. The walls of hell are made of this, and so the chains that bind the damned. Are you damned, small one? Has your inky tongue licked spells from the book of vices?”"
 
 **中文理解**：「黑glass，」他说。「钢与玻璃的午夜杂种——敲上去有种巧妙的韧。锤子、石头、还是东边的法术，都别想把我这孩子砸成碎渣。地狱的墙是它砌的，缚住受诅者的锁链也是。你被诅咒了吗，小家伙？你那条墨舌头舔过《恶行书》里的咒文没有？」
 **关键词**：the midnight bastard child / an artful give to it / The walls of hell / your inky tongue
 **为什么这样写**：材质的介绍用「认亲」的口吻——「我的孩子」的父权修辞让铁匠与黑glass有了血缘，地狱的建材清单顺手完成；「Are you damned?」的搭讪方式是锻房版的社交礼仪，他以咒文识别同类——书痴的世界里，读过什么就是什么人。
-**读者视角提示**：黑glass 的「韧」是它区别于玻璃的关键——记住「敲上去会让」这个手感描述，Part IV 的黑glass雨落下来时没人能砸碎它。
+**读者视角提示**：黑glass 的「韧」是它区别于玻璃的关键——记住「敲上去会让」这个手感描述，第四部 的黑glass雨落下来时没人能砸碎它。
 
 > **原句 6:** "A cyclops eye is the strangest you’ll ever see, even if you’ve met a kraken, as I have. The part that’s white on our eye is gold on them, and I don’t mean yellow. I mean gold like the metal, and it gives back light like that, though it has traces and patterns in it like a cat has."
 
@@ -119,3 +119,28 @@ modified: "2026-11-01"
 **关键词**：wore that bell from Hasp’s hat / scarcely sounded like the same bell / know where the monster was / I’ll fart a sad song
 **为什么这样写**：遗物的转手写成一场声音的易主——同铃异响的对比让死亡有了音色的判据；誓言以最粗俗的形式（放屁哀歌）承担最深的承诺，Hasp 的职业精神（音乐屁）在遗嘱里获得最体面的兑现方式。
 **读者视角提示**：记住这只铃——它是 Hasp 在全书余下章节的「在场方式」：每当公主的拖沓叮当响起，他都会想起真正的铃该怎么响。
+
+## 本章词汇
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nassk | （独眼族语）夜 | “I am Zherit-Nassk. But I was born beneath the sun, so if you see me by day, I am only Zherit.” |
+| citrine | 黄水晶（此处为神像之眼） | …the altar to Thumos, where he stood ten feet tall and black-skinned, with citrine eyes that seemed to have been enchanted to glow with their own light. |
+| amphora | 双耳细颈瓶；瓮 | But here, on the dry steppes, she is portrayed as a chained woman carrying an amphora. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| walltouchery | （Guild 术语）攀墙术 | …artful climbing—or walltouchery, as the Guild calls it—was always my strongest skill. |
+| scurryings | 疾走；蹿行（复数） | …while a great advantage to my nocturnal scurryings, this struck me as immeasurably sad. |
+| necromancers | 死灵法师（复数） | Of course, willing the dead back to life works only for the darkest of necromancers. |
+
+### ⭐ 常用
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| cyclops | 独眼巨人 | Cyclopes were supposed to be great metalworkers, and this one was. |
+| forge | 锻炉 | The light from the forge and the glow of the piece being worked were the only illumination in the smithy. |
+| pyre | 火葬堆 | …a city in thrall to a fire god favors funeral pyres rather than sending its dead a-worming. |
+
+## 一句话总结
+一夜偷遍王宫（猫、梁、暗门、神眼手电），一场与独眼铁匠的以书易钥，一尊流泪的海奴神像——他刚把这座宫殿摸透，Hasp 就缩成了火花上天的灰；铃进了公主的辫子，誓言进了他的骨头：不带我回家，就放屁送你。
