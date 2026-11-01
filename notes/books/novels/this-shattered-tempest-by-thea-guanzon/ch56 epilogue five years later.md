@@ -23,7 +23,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：开场不点「五年后」，先给一只小艇和一次敬礼：身份由卫兵的动作交代，不必作者旁白。句子把「得名的那种昆虫」嵌在比喻里，顺手把内纳瓦伦给器物命名的习惯递到读者手上；「蓝金铠甲」与「私人机库」两处细节合起来，归来的位置才自明。
 
-- **读者视角提示**：被敬礼的人始终是「一位纤细身影」，没有名字；先姿态、后姓名，这一章反复用这种入场法——读的时候可以先猜她是谁。
+- **读者视角提示**：被敬礼的人始终是「一位纤细身影」，没有名字；先姿态、后姓名，这一章反复用这种入场法——读的时候可以先猜她是谁。同一段最后一句（不在本块引语内）交代尼亚姆哈如今的头衔：龙女王的左右手、兼任「蛇径之主」与卡坦杜克的达雅；她落步随行，一路替女王梳理积压的文书。
 
 > **原句 2:** "“No word from my husband?” she asked Niamha with a hint of a frown. Alaric’s ship was supposed to have made landfall at Port Samout the previous afternoon. It wasn’t like him to fail to send a skua if he was running late."
 
@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她问的是尼亚姆哈，皱眉很轻；「没有消息」在她嘴里先是异常，不是噩耗。
 
-> **原句 3:** "The mattress dipped slightly beneath Talasyn’s weight as she perched beside the slumbering child. Hiraya Ivralis stirred only to sling a stout, tiny arm over her mother’s thigh and hug it like a pillow, an act that was instinct rather than waking gesture."
+> **原句 3:** "“There was a message, Harlikaan,” Niamha replied delicately. “The Night Emperor departed Kesath behind schedule, but he should only be a couple of hours away by now."
+
+- **中文理解**：「有消息，哈里坎，」尼亚姆哈谨慎地回答。「夜帝离开凯萨斯比预定晚了些，不过按现在算，他应该只差几个小时的路程了。」
+
+- **关键词**：a message · behind schedule · a couple
+
+- **为什么这样写**：这段对话里没有一句直说「别担心」，可每一句都在替对方把时间算清楚：晚出发——但只差几个小时。前面那个「谨慎地」已经交代了她为什么先报消息、再报判断。
+
+- **读者视角提示**：同一段对白还有第三句（不在本块引语内）：他对「皇后亲自去处理偷猎者」一事极为不满，尼亚姆哈转述到一半留了个省略号。
+
+> **原句 4:** "The mattress dipped slightly beneath Talasyn’s weight as she perched beside the slumbering child. Hiraya Ivralis stirred only to sling a stout, tiny arm over her mother’s thigh and hug it like a pillow, an act that was instinct rather than waking gesture."
 
 - **中文理解**：「床垫因塔拉辛的重量微微下陷，她在熟睡的孩子身边坐下。希拉雅·伊弗拉利斯只动了一下，把一条短而结实的小手臂搭到母亲大腿上，像抱枕头一样抱住——那是本能，不是醒来的动作。」
 
@@ -43,9 +53,9 @@ modified: "2026-11-01"
 
 - **为什么这样写**：「像抱枕头」把一个三岁孩子的动作压进日常比喻；紧接着「本能而非醒来的动作」替读者作了判断，省掉整段心理描写。这一块没有一句写母女深情，感情由床垫的下陷与手臂的重量承担。
 
-- **读者视角提示**：这一块的动词只有「dipped」「stirred」「sling」「hug」，幅度都极小；孩子露面时用的是睡姿而不是对白，性格先于台词。
+- **读者视角提示**：这一块的动词只有「dipped」「stirred」「sling」「hug」，幅度都极小；孩子露面时用的是睡姿而不是对白，性格先于台词。同一场里过一会儿她醒了——先开口的是一句用生硬水手通用语说出的「踹偷猎者的屁股」，塔拉辛这才知道女儿醒了。
 
-> **原句 4:** "Sancia’s polite response belied the cautious manner in which she appeared to hang on to Talasyn’s every word. The former Night Empress was always hungry for stories about her son, yet it was painfully apparent that this hunger was tempered by her guilt at having abandoned him."
+> **原句 5:** "Sancia’s polite response belied the cautious manner in which she appeared to hang on to Talasyn’s every word. The former Night Empress was always hungry for stories about her son, yet it was painfully apparent that this hunger was tempered by her guilt at having abandoned him."
 
 - **中文理解**：「桑西亚礼貌的回应，掩不住她那副仿佛把塔拉辛每个字都捧住细听的小心姿态。这位前夜后向来渴望听人讲儿子的事，而这份渴望明显被「当年抛下他」的愧疚压着。」
 
@@ -55,7 +65,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「former」一词已经替她标好位置：头衔成了过去式，她如今只是来访的长辈。
 
-> **原句 5:** "It was so much like the vision that Talasyn had seen during her pilgrimage on the Path of the Sun. This was the future she’d fought for. Her heart swelled with a joy so immense, it felt as though it might burst."
+> **原句 6:** "Alaric’s stern features collapsed into something like relief at the sight of his daughter. He bent down and scooped Hiraya into his arms, flashing a lopsided grin as she hugged his neck and chattered away in the Dominion tongue, recounting every single detail of her life during his absence."
+
+- **中文理解**：一看见女儿，阿拉里克那张严厉的脸就塌成了某种近似宽慰的东西。他弯下腰把希拉雅抱进怀里，歪着嘴笑；她搂住他的脖子，用内纳瓦伦语叽叽喳喳，把他不在的这段时间里她生活里的每一件小事都讲了一遍。
+
+- **关键词**：collapsed into · scooped · chattered away
+
+- **为什么这样写**：第一句只写脸（「塌成」），第二句才写身体（弯腰、抱起）；脸先松，手臂才跟上。她的部分则全在声音里——一个人讲了「每一件小事」。
+
+- **读者视角提示**：上一段（不在本块引语内）写他新旗舰与狼形小艇在傍晚飞抵埃斯凯亚，希拉雅洗过澡、穿好晚饭的衣服在阳台上看见，一下子没了平时的镇定。
+
+> **原句 7:** "It was so much like the vision that Talasyn had seen during her pilgrimage on the Path of the Sun. This was the future she’d fought for. Her heart swelled with a joy so immense, it felt as though it might burst."
 
 - **中文理解**：「这太像她沿太阳之路朝圣时看见的那个景象了。这就是她为之奋战的那个未来。她心里涨满了喜悦，大得仿佛随时会裂开。」
 
@@ -65,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「the vision」不必回想去具体画面，它在这里只当刻度用：眼前所见与当年所见重合，才算兑现。
 
-> **原句 6:** "And then Hiraya had been born, and it was as though a switch had been flipped. Talasyn would never forget the look on her husband’s face when he held the gurgling infant for the first time—so much love, the all-encompassing kind that fear could not even hope to hold a candle to."
+> **原句 8:** "And then Hiraya had been born, and it was as though a switch had been flipped. Talasyn would never forget the look on her husband’s face when he held the gurgling infant for the first time—so much love, the all-encompassing kind that fear could not even hope to hold a candle to."
 
 - **中文理解**：「后来希拉雅出生了，仿佛有个开关被拨动。塔拉辛不会忘记丈夫抱起那个咿呀作响的婴儿时的表情——那么多爱，是恐惧根本比不上的、包揽一切的那种爱。」
 
@@ -75,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：同一段前面写他怀孕期间的「anxious and unsure」；到这里作者不再复盘过程，只结算结果，留意两种时态的接缝。
 
-> **原句 7:** "The fierce rays of Nenavar’s relentless summer sun came roaring in through the windows, falling across Alaric’s face in a wash of honeyed heat. He groggily blinked up at the tapestry of stars and dragons that decorated the silk canopy over the bed, reflecting that it was a miracle that he and Talasyn had managed to stumble to their quarters last night."
+> **原句 9:** "The fierce rays of Nenavar’s relentless summer sun came roaring in through the windows, falling across Alaric’s face in a wash of honeyed heat. He groggily blinked up at the tapestry of stars and dragons that decorated the silk canopy over the bed, reflecting that it was a miracle that he and Talasyn had managed to stumble to their quarters last night."
 
 - **中文理解**：「内纳瓦伦毫不留情的夏日阳光猛地射进窗子，落在阿拉里克脸上，一片蜜色的热。他迷迷糊糊地睁眼，望着床顶丝质帐幔上绣的星辰与群龙，心想他和塔拉辛昨晚居然还能摸回自己的房间，真是奇迹。」
 
@@ -85,7 +105,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：他醒来后先看身边的人；这一块全是感官，没有一句判断，判断留给读者。
 
-> **原句 8:** "Hiraya was sitting cross-legged on the floor. Her eyes glowed with silver light as she held out her hands in front of her, the Shadowgate an indistinct disc of black smoke cupped in her tiny palms. She looked startled—and afraid."
+> **原句 10:** "Hiraya was sitting cross-legged on the floor. Her eyes glowed with silver light as she held out her hands in front of her, the Shadowgate an indistinct disc of black smoke cupped in her tiny palms. She looked startled—and afraid."
 
 - **中文理解**：「希拉雅盘腿坐在地板上。她双眼发着银光，双手向前伸出，影门是一团模糊的黑烟圆盘，捧在她的小手掌里。她看起来受了惊——而且害怕。」
 
@@ -95,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：前面所有的柔软（睡姿、奶声、扑进母亲怀里）在这里被一双小手推翻；「indistinct」值得留意——连它自己都还没成形。
 
-> **原句 9:** "Alaric watched ink and aether drip from his daughter’s hands, violent shudders tearing through him. Not this. Anything but this wretched fate for his sweet, innocent child, doomed to suffer the brutish whims of a sire like him—someone who had learned to be a father from Gaheris Ossinast."
+> **原句 11:** "Alaric watched ink and aether drip from his daughter’s hands, violent shudders tearing through him. Not this. Anything but this wretched fate for his sweet, innocent child, doomed to suffer the brutish whims of a sire like him—someone who had learned to be a father from Gaheris Ossinast."
 
 - **中文理解**：「阿拉里克看着墨与以太从女儿手上滴落，剧烈的颤抖撕过全身。不要这个。什么都行，唯独不要这种命数落在他甜美无辜的孩子身上——她注定要受一个像他这样的父亲的粗暴脾气，而他那套当父亲的本事，是从盖赫里斯·奥西纳斯特那里学来的。」
 
@@ -105,7 +125,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「Not this.」三个字独立成句，句法在这里变短，与前后的长句形成落差；短句是这一段里被允许的失态。
 
-> **原句 10:** "He stopped a short distance from her and held up his hands; a second shadowy disc flickered into being, this time in his palms. “It’s all right. You’re like me, you see?”"
+> **原句 12:** "He stopped a short distance from her and held up his hands; a second shadowy disc flickered into being, this time in his palms. “It’s all right. You’re like me, you see?”"
 
 - **中文理解**：「他在离她一小段距离处停下，举起双手；又一枚影子圆盘闪现在他掌心。「没事的。你看，你和我一样。」」
 
@@ -115,7 +135,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「a second shadowy disc」里的数词是本块的关键：她怕的也许不是黑雾本身，而是黑雾只有她一个人有。
 
-> **原句 11:** "“If His Majesty is doing all this purely because of me,” Talasyn said, “that means he chooses me. Over his beliefs, his duty, his gods.” The sun was in her eyes, the horizon rolling on into forever below her feet. “And I choose him, too. For all my days.”"
+> **原句 13:** "“If His Majesty is doing all this purely because of me,” Talasyn said, “that means he chooses me. Over his beliefs, his duty, his gods.” The sun was in her eyes, the horizon rolling on into forever below her feet. “And I choose him, too. For all my days.”"
 
 - **中文理解**：「「如果陛下做这一切纯粹是因为我，」塔拉辛说，「那说明他选择了我。越过他的信念、他的职责、他的神。」阳光落在她眼里，脚下的地平线一路铺向无穷。「那我也选择他。用我所有的日子。」」
 
@@ -125,7 +145,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她清楚这是对方不想听的答案；留意她没有反驳问题，只是换了计分方式——从「他为何改变」换成「他选了谁」。
 
-> **原句 12:** "He looked up at her and there it was, that rare, crooked smile that always took her breath away. “The only way I could be happier is if you stopped hogging the covers, and even then I’d miss having an excuse to touch you as I steal them back,” he replied."
+> **原句 14:** "He looked up at her and there it was, that rare, crooked smile that always took her breath away. “The only way I could be happier is if you stopped hogging the covers, and even then I’d miss having an excuse to touch you as I steal them back,” he replied."
 
 - **中文理解**：「他抬头看她，那稀有的、歪着的笑就在那里，每次都让她忘了呼吸。「我唯一能更高兴的办法，就是你别再把被子全卷走——可就算是那样，我也会想念抢被子时碰你的借口，」他答道。」
 

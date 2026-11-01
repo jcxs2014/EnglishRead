@@ -1,0 +1,143 @@
+{
+  "chapter": "ch56",
+  "source": "text/ch56_epilogue.txt",
+  "char_total": 37666,
+  "events": [
+    {
+      "n": 1,
+      "summary": "Talasyn 从边境返回 Roof of Heaven，Niamha Langsoune 随行向她汇报积压的消息。",
+      "quote": "Falling into step beside Talasyn as they ventured deeper into the Roof of Heaven, she took her liege through the messages that had piled up in the latter’s absence.",
+      "start": 733,
+      "end": 897
+    },
+    {
+      "n": 2,
+      "summary": "Talasyn 问丈夫有无消息，Niamha 答 Alaric 从 Kesath 启程延误、只差两小时路程。",
+      "quote": "“There was a message, Harlikaan,” Niamha replied delicately. “The Night Emperor departed Kesath behind schedule, but he should only be a couple of hours away by now.",
+      "start": 2540,
+      "end": 2705
+    },
+    {
+      "n": 3,
+      "summary": "Talasyn 走进旧日卧房，见 Sancia Elidan 坐在摇椅上守着熟睡的 Hiraya。",
+      "quote": "a tall, sharp-featured noble with hints of silver streaking her dark chignon and a storybook on her silk-clad lap sat in a rocking chair by the bed, where the heir to the Nenavarene throne was fast asleep.",
+      "start": 4017,
+      "end": 4222
+    },
+    {
+      "n": 4,
+      "summary": "Hiraya 醒来，用生硬的 Sailor’s Common 说出一句“Kicking poacher ass”。",
+      "quote": "“Kicking poacher ass,” a small, soft voice carefully enunciated in halting and accented Sailor’s Common, and that was how Talasyn realized that her daughter had woken up.",
+      "start": 5582,
+      "end": 5752
+    },
+    {
+      "n": 5,
+      "summary": "Alaric 的旗舰抵达 Eskaya，他弯腰把跑来的 Hiraya 抱进怀里。",
+      "quote": "He bent down and scooped Hiraya into his arms, flashing a lopsided grin as she hugged his neck and chattered away in the Dominion tongue, recounting every single detail of her life during his absence.",
+      "start": 8281,
+      "end": 8481
+    },
+    {
+      "n": 6,
+      "summary": "次日清晨，三岁的 Hiraya 盘坐地上，掌心托出黑烟状的 Shadowgate。",
+      "quote": "Hiraya was sitting cross-legged on the floor. Her eyes glowed with silver light as she held out her hands in front of her, the Shadowgate an indistinct disc of black smoke cupped in her tiny palms.",
+      "start": 21183,
+      "end": 21380
+    },
+    {
+      "n": 7,
+      "summary": "Alaric 举起自己的影子盘作示范，教 Hiraya 吸气、呼气、放开，黑暗随之消散。",
+      "quote": "He stopped a short distance from her and held up his hands; a second shadowy disc flickered into being, this time in his palms.",
+      "start": 23337,
+      "end": 23464
+    },
+    {
+      "n": 8,
+      "summary": "Talasyn 从医官处返回，把两人交握的手放在腹上，告诉 Alaric 又有了一个孩子。",
+      "quote": "She laced their fingers together, grinning up at him as she placed their joined hands on her stomach. “Actually—we both are.”",
+      "start": 35656,
+      "end": 35781
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻（Nenavar 女皇与 Kesath 夜之皇帝；书中互称 husband / wife）",
+      "quote": "“No word from my husband?” she asked Niamha with a hint of a frown.",
+      "start": 2316,
+      "end": 2383
+    },
+    {
+      "a": "Talasyn",
+      "b": "Hiraya",
+      "relation": "母女（Hiraya 是 Talasyn 与 Alaric 的女儿、Nenavar 王位继承人）",
+      "quote": "Hiraya cuddled into Talasyn’s side, hiding her face as though the short-lived bout of speech had sapped all her energy.",
+      "start": 6085,
+      "end": 6204
+    },
+    {
+      "a": "Alaric",
+      "b": "Hiraya",
+      "relation": "父女（Hiraya 极受父亲溺爱）",
+      "quote": "The little Lachis’ka was absolutely doted on by her father.",
+      "start": 12280,
+      "end": 12339
+    },
+    {
+      "a": "Sancia Elidan",
+      "b": "Alaric",
+      "relation": "母子（Sancia 是前夜之女皇、Alaric 生母，因当年弃子而愧疚）",
+      "quote": "The former Night Empress was always hungry for stories about her son, yet it was painfully apparent that this hunger was tempered by her guilt at having abandoned him.",
+      "start": 4960,
+      "end": 5127
+    },
+    {
+      "a": "Khaede",
+      "b": "Nisandros",
+      "relation": "母子（Nisandros 是 Khaede 之子，与 Sevraim 形影不离令她不快）",
+      "quote": "Talasyn had confided to Alaric that this was Khaede’s biggest problem these days: how attached her son was to Sevraim.",
+      "start": 28361,
+      "end": 28479
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three-year-old",
+      "context": "Hiraya 的年龄：三岁；Talasyn 抚着她的黑发说她想念父亲。",
+      "quote": "“Alaric was telling her about the constellations the night before he left,” Talasyn murmured, carding her fingers through the three-year-old’s rumpled black hair.",
+      "start": 4658,
+      "end": 4820
+    },
+    {
+      "value": "nearly a month",
+      "context": "父女分别时长：上次见面已是将近一个月前。",
+      "quote": "The last time they’d seen Alaric had been nearly a month ago, when he kissed them both goodbye before leaving for the Continent to oversee the decommissioning of the last stormships.",
+      "start": 7249,
+      "end": 7431
+    },
+    {
+      "value": "six-year-old",
+      "context": "Nisandros 的年龄：六岁，仍被 Sevraim 扛在肩上。",
+      "quote": "A six-year-old was too big to be carried in such a manner, but Sevraim had once joked to Nisandros that he didn’t mind carrying him around on his back until they were both decrepit old men.",
+      "start": 27997,
+      "end": 28186
+    },
+    {
+      "value": "three years old",
+      "context": "Alaric 觉醒 aethermancy 的年龄也是三岁（Sancia 追述）。",
+      "quote": "“You were also three years old when your aethermancy manifested,” his mother was saying, later that afternoon. “You were crying because you’d tripped and skinned your knee.",
+      "start": 25870,
+      "end": 26042
+    },
+    {
+      "value": "a month",
+      "context": "Sancia 计划在 Nenavar 停留的时长：至少一个月。",
+      "quote": "“Your mother arrived a few days ago,” she quietly informed him as they walked. “She plans to stay past my birthday celebration—a month, at least, if that’s all right?”",
+      "start": 10090,
+      "end": 10257
+    }
+  ],
+  "notes": "1) 文件开头重复：第 1 行与第 11 行各有一个 “Epilogue” 标题，中间夹 9 个空行；正文段落之间普遍为 2 个空行，故所有 quote 均取单段内连续片段、不含换行。2) 时间标记 “Five years later” 自成一段（3 词），因 quote 需 ≥10 词未收入 numbers，此处记为时间跨度：距正篇五年后。3) 大量 Nenavarene/Dominion 语汇未加注：Harlikaan（对女皇的尊称）、Lachis’ka（小继承人）、Amya（母亲）、Inang（母亲，另一语）、Zahiya-lachis、Huktera、skua；引用时保留原样。4) 文中含露骨性描写段落（“That’s the third time this year” 一段附近），本次未摘引，仅影响 numbers 备选。5) 引号统一为弯引号 “ ” ‘ ’，破折号为 —（部分短语用 . . . 带空格省略号），摘录逐字保留。"
+}
