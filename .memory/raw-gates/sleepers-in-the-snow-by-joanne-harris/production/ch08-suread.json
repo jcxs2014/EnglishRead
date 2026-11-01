@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch08",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch08_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "He locked the door and checked window locks before leaving the house.",
+   "anchor": "He locked the door before he left, and checked the locks on the windows.",
+   "start": 43,
+   "end": 115
+  },
+  {
+   "fact": "He drove to Lyke village and parked in an alley near the church.",
+   "anchor": "He went as far as the village of Lyke, parked in an alley near the church",
+   "start": 268,
+   "end": 341
+  },
+  {
+   "fact": "He carried the silver-framed photograph in his jacket pocket.",
+   "anchor": "The photograph in its silver frame was in his jacket pocket.",
+   "start": 410,
+   "end": 470
+  },
+  {
+   "fact": "A different woman (older, glasses, crewcut) was in charge of the charity shop.",
+   "anchor": "he found a different woman in charge: an older woman with glasses and a crewcut",
+   "start": 501,
+   "end": 580
+  },
+  {
+   "fact": "The woman knew Caroline Sanderson.",
+   "anchor": "‘I knew Caroline Sanderson,’ she said.",
+   "start": 808,
+   "end": 846
+  },
+  {
+   "fact": "The woman described Arthur as a bit antisocial.",
+   "anchor": "A bit antisocial.",
+   "start": 953,
+   "end": 970
+  },
+  {
+   "fact": "The woman sold the photograph for twenty pounds.",
+   "anchor": "I remember. I sold it for twenty pounds.",
+   "start": 2042,
+   "end": 2082
+  },
+  {
+   "fact": "He said \"Not a journal. A diary.\" when asked if he was starting a journal.",
+   "anchor": "He smiled. ‘Not a journal. A diary.’",
+   "start": 2904,
+   "end": 2940
+  }
+ ]
+}

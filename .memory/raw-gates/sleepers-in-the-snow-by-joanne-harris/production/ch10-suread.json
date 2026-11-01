@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch10",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch10_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "男主在 2024-09-29 清晨被楼梯上弹跳声惊醒，是网球滚下楼梯的声音",
+   "anchor": "He awoke to the sudden, rhythmic sound of something on the stairs.",
+   "start": 362,
+   "end": 428
+  },
+  {
+   "fact": "门口门垫上出现一只崭新网球，荧光绿，像在嘲弄他",
+   "anchor": "There was a brand-new tennis ball lying on the door mat.",
+   "start": 846,
+   "end": 902
+  },
+  {
+   "fact": "Arthur 日记 2019 年 10 月条目提到大雾中只有 howes 和电塔是真实的",
+   "anchor": "Only the howes and the pylon are real.",
+   "start": 3528,
+   "end": 3566
+  },
+  {
+   "fact": "Caroline 的八本笔记本日期为 2010 至 2018 年，但 2010 和 2011 两本不见了",
+   "anchor": "Eight notebooks, dated 2010 to 2018.",
+   "start": 4189,
+   "end": 4225
+  },
+  {
+   "fact": "一个女孩的声音说「Oh, Dad」，随后有年轻笑声，但窗外无人",
+   "anchor": "Oh, Dad. You never could play tennis to save your life.",
+   "start": 2038,
+   "end": 2093
+  },
+  {
+   "fact": "两周来 Kirkhill 第一次有人敲门",
+   "anchor": "And then came a sound he hadn’t heard in all these two weeks at Kirkhill: the sound of knocking at the door.",
+   "start": 7170,
+   "end": 7278
+  },
+  {
+   "fact": "邮递员自称 Greg，几年前送过这一区，只送了三个月左右",
+   "anchor": "‘I’m Greg. I had this round a few years ago.",
+   "start": 9389,
+   "end": 9433
+  },
+  {
+   "fact": "Sanderson 夫妇被发现于荒原上，离屋不过几百码，手拉手躺在雪中",
+   "anchor": "They found them on the moor, no more than a couple of hundred yards from the house.",
+   "start": 11204,
+   "end": 11287
+  }
+ ]
+}
