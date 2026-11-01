@@ -1,0 +1,179 @@
+{
+  "chapter": "ch37",
+  "text_file": "text/ch37_chapter_37.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "产后三周、没等到邀请，Mimi 独自开 Whipple 的货车南下探望；Pamela 头发未洗、上衣沾奶渍，尚未从漫长艰难的产程中复原，把妹妹的同情挡回去（“I’m alive, aren’t I?”，Ma 转述她“流了一浇水壶的血”）；Ma 把 Mimi 拉进厨房警告 Pamela “not quite herself”，在 Mimi 眼里她成了更不妥协的母狮；Pamela 推说不见客，但 Mackie 母亲刚把冰箱塞满意式奶冻，这个说法站不住脚。",
+      "anchor": "Having waited for an invitation that never came, I’d finally just driven down in Whipple’s van.",
+      "byte_offset": 826,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Mimi 想抱 Leni，坐在长凳上的 Pamela 把婴儿车颠得更厉害并拒绝（“She’s just settled… Quite a pair of lungs”）；Mimi 自掏工资（借 Whipple 的 Harrods 员工折扣）买的粉色钩编毯被当面嫌贵顶回（“She’s a baby, not a sofa”）；Pamela 此前已把 Asprey 马蹄手链退回（不戴首饰、不必换购），Mimi 暗忖毯子迟早被塞进蛀衣橱。",
+      "anchor": "‘She’s a baby, not a sofa, Miriam. You really shouldn’t have. It looks horribly expensive.’",
+      "byte_offset": 3271,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "沿花园遛弯时（助产护士嘱每天至少走两圈）Mimi 报讯：一对美国富豪夫妇点名要 Whipple 连她一起雇（“They requested me on the job too”），装修 Connecticut 与 the Hamptons 两处房产，薪水高得多，“先去看看再说”；Pamela 只冷脸接过一句英文烂泥的挖苦，随即说 “But you should definitely go”，却拒绝探望——“I’m a mother now. I can’t drop my duties”，连 “Maybe when Leni’s older?” 也不接话。",
+      "anchor": "Miriam, I’m a mother now. I can’t drop my duties, even if I could afford the plane ticket.",
+      "byte_offset": 6697,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Lawrence 也同去纽约：自两人在一起后他进金融城做初级职位、在伦敦迅速扬名，现把目光投向 Wall Street（同事说他逻辑精准、敢担风险，他自谦是赌场手气）；夜里两人缠绵后畅想合开面料墙纸公司——他管经营、她管创意。“You’ve made your choice, then” 对上 “I love him. Love isn’t a choice”，Pamela 回敬 “Of course it is… You’re not living in a pop song.”",
+      "anchor": "Of course it is, Miriam. You’re not living in a pop song.",
+      "byte_offset": 8082,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Mimi 脱口质问 Pamela 何时才肯承认 Alf 的坠落不怪 Lawrence；Pamela 把回答咬住、嘴唇抿成硬线、脖颈泛红，半晌只极轻地说 “Alf would have loved Leni.”（Mimi 应 “He’d have loved her so much”，压下如干草上火苗般的愧疚与羞耻。）",
+      "anchor": "Alf would have loved Leni.",
+      "byte_offset": 8459,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Mimi 恳求下次回英格兰时带 Lawrence 来 Suffolk“就打个招呼、看看 Leni”；Pamela 从 Leni 毛茸茸的头顶上方射来高度惊慌的一眼，逼她保证 “never bring Lawrence Caswell here——不许靠近 Leni、不许靠近我们，永远”，再度催促 “Promise me, Miriam”；Mimi 挤出一个 “Okay”，暗自指望时间与思念会让姐姐软化。",
+      "anchor": "Promise you’ll never bring Lawrence Caswell here. I don’t want him anywhere near Leni. Us. Ever.",
+      "byte_offset": 9207,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "被问 Celia 与 Harold 是否张开双臂接纳了她，Mimi 答以 “God, no”：Lawrence 是老两口唯一在世的孩子兼继承人；在他们眼中 Mimi 仍是“堆肥堆来的女孩”、觊觎 Caswell 家产的淘金者，最糟的是——她是“把他们女儿压死之人”的姐姐（对方 C2 颈椎被拗断：a hangman’s fracture），二老的婚姻已在悲恸的瓦砾中崩解；Lawrence 却说他们会回心转意、至少他母亲会。Pamela 又数落“伦敦男人千千万”，并断言 Lawrence 不会忠贞、用完她就会娶“像 Margo 那样的人”——Mimi 脸白回怼 “Sod off”。",
+      "anchor": "the sister of the man who’d crushed their daughter to death, snapped her C2 vertebrae: a hangman’s fracture",
+      "byte_offset": 9848,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Ma 从后门喊 “Girls!” 端出 Battenberg 蛋糕与茶被拒；Pamela 摔下一句“我要喂 Leni”冲进屋（脚步咚咚上楼、拉上杂物间育儿室的窗帘）；Ma 道歉说她 “short fuse, frazzled, tired, missing Alf terribly”；Mimi 含泪说要走、就在 “Three days” 后动身，执意不等正在主宅开会的 Pa 与 Mackie（Pa 恨告别、视此举为再次背弃家庭，Pamela 也不需要更多戏码）；Ma 捧脸拥抱她 “America will be lucky to have you”、挽臂送上车道、打量她的漆皮手袋说 “Very fancy”，嘱她安顿后即写信；车刚启动 Pamela 突然冲出来，姐妹在车窗边无声相拥摇晃——“It was something. It was enough.”；Mimi 驶上更快更直的大路奔向大地平线，回头看时 Ma 与 Pamela 已不见。",
+      "anchor": "At the junction I turned, accelerating onto a faster, straighter road, aimed at that big horizon.",
+      "byte_offset": 12876,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Mimi（Miriam）↔ Pamela：姐妹",
+      "detail": "Mimi 自认是“frivolous little sister”，Pamela 是“留下的忠诚女儿”、如今的新手妈妈；本章嫌隙（拒抱、退毯、逼诺言）最终由车窗边一个无声拥抱暂时弥合。",
+      "anchor": "It was something. It was enough.",
+      "byte_offset": 12761,
+      "hits": 1
+    },
+    {
+      "pair": "Mimi ↔ Leni：姨母与新生侄女",
+      "detail": "Leni 是 Pamela 与 Mackie 之女、未婚先孕所生，随意大利出生的祖母取名 Elena（Leni 比 Irene 顺口）；粉颊像夏日布丁、嘴像 Mackie、蓝眼睛像 Alf、发色随 Pamela；Mimi 平生第一次被婴儿迷住，却连抱一下都被拒。",
+      "anchor": "I was entranced by my niece",
+      "byte_offset": 2650,
+      "hits": 1
+    },
+    {
+      "pair": "Mimi ↔ Lawrence Caswell：恋人，同赴纽约",
+      "detail": "他答 “He’s coming too.”；Mimi 称“Lawrence 是我唯一想要过的男人”，最怕在姐姐与他之间做选择。",
+      "anchor": "He’s coming too.",
+      "byte_offset": 7308,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela ↔ Lawrence：敌视与归罪",
+      "detail": "她拒不接受“Alf 之死不怪 Lawrence”，逼 Mimi 发誓永不带他来 Bantom End，并预言他不忠、终会娶“像 Margo 那样的人”。",
+      "anchor": "marry someone like Margo",
+      "byte_offset": 10437,
+      "hits": 1
+    },
+    {
+      "pair": "Lawrence ↔ Celia 与 Harold：独子与继承人，及其父母的敌意",
+      "detail": "Lawrence 是二老唯一在世的孩子兼继承人；他们恨 Mimi（淘金者、“压死其女之人”的姐姐），婚姻已在悲恸中崩解；Lawrence 仍说他们（至少他母亲）会回心转意——这也是 Mimi 想去美国重来一个原因。",
+      "anchor": "Lawrence was their sole surviving child and heir.",
+      "byte_offset": 9683,
+      "hits": 1
+    },
+    {
+      "pair": "Alf：姐妹已故的兄弟，全章的暗场",
+      "detail": "本章只有“Alf’s fall”（坠亡）与追忆：Ma 说 Pamela “missing Alf terribly”；云雀令 Mimi 想起爱云雀的 Alf，“像刀绞肚腹”；Ma 翻出 Alf 的黑白婴儿照证明 Leni 像他；Ma 喊 “Girls!” 的瞬间 Mimi 恍见 Alf 挂着望远镜从田里走来。",
+      "anchor": "missing Alf terribly",
+      "byte_offset": 11141,
+      "hits": 1
+    },
+    {
+      "pair": "Mimi ↔ Whipple：雇主与雇员",
+      "detail": "她开 Whipple 的货车南下、借他的 Harrods 员工折扣买毯子；美国富豪夫妇要“Whipple 连她一起”雇去装修。",
+      "anchor": "A wealthy American couple want to hire Whipple – and me.",
+      "byte_offset": 5521,
+      "hits": 1
+    },
+    {
+      "pair": "Mackie ↔ Pamela 与 Leni：丈夫与父亲",
+      "detail": "Proud, protective father and doting husband，连换尿布、起夜都肯（Ma 惊叹，因她丈夫从未如此）；Leni 也安抚了 Pa 的怒火与心碎——他路过婴儿车必轻手覆在婴儿头上。",
+      "anchor": "a proud, protective father and doting husband",
+      "byte_offset": 2162,
+      "hits": 1
+    },
+    {
+      "pair": "Ma ↔ Pamela 与 Mimi：偏心的母亲",
+      "detail": "Ma 宠“留下的忠诚女儿”，无视 Leni 是未婚先孕（“He taketh and he giveth!”）；一面警告 Mimi 姐姐不对劲，一面替 Pamela 的失礼道歉、安慰并送别 Mimi。",
+      "anchor": "Ma overlooked that Leni had been conceived out of wedlock.",
+      "byte_offset": 1822,
+      "hits": 1
+    },
+    {
+      "pair": "Pa ↔ Mimi：未及见面的告别",
+      "detail": "Pa 恨告别；早已得知她搬去纽约、视为她“再次转身背离家庭”，反应很坏；此时正与 Mackie 在主宅开会，Mimi 选择不等他、免生戏剧。",
+      "anchor": "Pa hates goodbyes too.",
+      "byte_offset": 11472,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "entry": "Lot 21：1970 年 5 月 10 日伦敦希思罗 → 纽约 JFK 单程机票存根（本章开头的拍卖品框架）",
+      "anchor": "Lot 21: One-way airline ticket stub, London Heathrow to JFK, New York, 10 May 1970.",
+      "byte_offset": 23,
+      "hits": 1
+    },
+    {
+      "entry": "产后三周：Pamela 尚未从漫长艰难的产程中复原",
+      "anchor": "Three weeks after the birth, she hadn’t recovered from the long, difficult labour.",
+      "byte_offset": 1041,
+      "hits": 1
+    },
+    {
+      "entry": "每天至少两次：助产护士嘱 Pamela 绕花园散步",
+      "anchor": "The district nurse says I must walk round the garden at least twice a day.",
+      "byte_offset": 4076,
+      "hits": 1
+    },
+    {
+      "entry": "两处房产：一处在 Connecticut，另一处在 the Hamptons",
+      "anchor": "One in Connecticut, another in some place called the Hamptons.",
+      "byte_offset": 5668,
+      "hits": 1
+    },
+    {
+      "entry": "C2 颈椎被拗断（a hangman’s fracture）：Caswell 家女儿的死因",
+      "anchor": "snapped her C2 vertebrae: a hangman’s fracture",
+      "byte_offset": 9911,
+      "hits": 1
+    },
+    {
+      "entry": "“Three days.”——Mimi 三天后动身赴美",
+      "anchor": "Three days.",
+      "byte_offset": 11311,
+      "hits": 1
+    },
+    {
+      "entry": "一小时内：Pa 与 Mackie 在主宅开完会回来（Mimi 仍选择不等）",
+      "anchor": "They’ll be back within the hour.",
+      "byte_offset": 11429,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Pamela 逼 Mimi 发誓永不带 Lawrence Caswell 靠近 Leni（“I don’t want him anywhere near Leni. Us. Ever.”），Mimi 只挤出一个 “Okay”——随后不等父亲、提前告别驶向纽约，车窗边无声的拥抱成了姐妹仅有的和解，回头时 Ma 与 Pamela 已消失在地平线上。"
+}
