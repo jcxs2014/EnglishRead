@@ -1,26 +1,31 @@
-# ch50 · The Huktera's Three-Day Voyage — R2/R3 对账
+# ch50 R3 对账 / R4 逐块复核
 
-## R2 重建（`chapter.sh --json` → `2-machine.json`）
-
-verdict = **ok**；块数 **9**（修前 6）；引语逐字 0 查无；空引号/子项缺/关键词不成立/中文过薄/模板套话/残句缺词 全 0。
+- 章文件：`notes/books/novels/this-shattered-tempest-by-thea-guanzon/ch50 the hukteras three day voyage.md`
+- 素读：`review/ch50/1-suread.json`（events 9 条以上均为原文取证）
+- 块数：修前 6 → 修后 **9**（本章 23 词）
 
 ## R3 三张单子
 
-**漏（素读有、md 无）**：**3**（L1）
+**漏**（素读有、md 无）：3 条
 
-- E3 凯德驾车赶到：`:25`（38 词）铁弩砸偏领头船、红橙条纹的帆从东面来、萨多维亚的凤凰占满视野。关键词 `hail of bolts · red-and-orange · Sardovian phoenix`
-- E5 影铸军团三人现身：`:36`（63 词）三个影铸军团兵挡住士兵、飞刀在半空打散铁弩箭并刺进射手胸口。关键词 `Shadowforged · throwing knife · crossbow`
-- E6 穿界挡剑：`:50` 后两句（25 词）她出现在跪着的他身前、利苏的剑插进她腹部。关键词 `on her feet · kneeling · stomach`
+| # | 素读事件（取证） | 处置 |
+|---|---|---|
+| L1 | E3 凯德赶到（`text/ch50_chapter_fifty.txt:25`，38 词） | 新增原句 2（`hail of bolts · red-and-orange · Sardovian phoenix`） |
+| L2 | E5 军团三人现身（`:36`，63 词） | 新增原句 4（`Shadowforged · throwing knife · crossbow`） |
+| L3 | E6 穿以太空间、挡在跪着的阿拉里克身前被刺（`:50` 末两句，25 词） | 新增原句 5（`on her feet · kneeling · stomach`） |
 
-**编（md 有、原文无）**：0。
-**错（两边不一致）**：0。
+**编**（md 有、原文无）：0 条。
 
-## R4 抽查
+**错**（两边不一致）：0 条。
 
-施事、属格、谁说的三问逐块过了一遍；引语边界按「只引到原文句号处」处理。
+## 提示（不阻断，记一行）
 
-首稿 `:36` 只引到 `in midair`，原文此句继续 `before plunging into the chest of the man who had fired.` ⇒ 不连续、已补全；`:50` 只取同段最后两句（整段 5 句 47 词）。
+- P1：E4 陶壳炸弹（`:28`，26 词、原文以破折号悬空） → 块 2 提示逐字标注；不单独成块
+- P2：E8「因为我爱你」之后的死亡（`:58`，26 词） → 块 9 已在引语内覆盖至 `I love you`，其后描写在提示里说明
+
+E3 凯德驾凤凰小艇赶到、E5 影铸军团三人挡敌、E6 塔拉辛穿以太空间挡剑被刺——修前六块一块未覆盖；E4 陶壳炸弹只有碎片段（26 词、无句末），改在新增块的读者视角提示里逐字标注。
 
 ## 复跑
 
-`chapter.sh` rc=0、0 ⚠️（9 块）；`check_para_span.py` OK。
+- `bash scripts/chapter.sh` rc=0、0 ⚠️
+- `python3 scripts/attic/check_para_span.py` OK
