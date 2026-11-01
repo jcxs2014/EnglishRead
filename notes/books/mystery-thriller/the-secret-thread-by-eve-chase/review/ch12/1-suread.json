@@ -1,0 +1,159 @@
+{
+  "chapter": "ch12",
+  "text_file": "text/ch12_chapter_12.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "窗中倒影里，Jo 看见一个「新的 Pamela Mackie」——年轻而未完成，不是妻子、母亲或祖母，而是一个姐妹，一个她从未见过的女人。",
+      "anchor": "not a wife, mother or grandmother, but a sister. She’s never seen this woman before.",
+      "byte_offset": 273,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Jo 已做到第二周：深夜独自把当日转录整理成传记式图录文案；她明知自己渴望 Mimi 的认可、且觉得这像对 Granny 的背叛；仍想不通当年怎能决裂得如此狠，也无法在拍卖前（Lordats 预展夜迫近）促成姐妹重逢。",
+      "anchor": "she’s hungrily craving Mimi’s approval, and that feels like a betrayal of Granny",
+      "byte_offset": 1977,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Mimi 说跟 Jo 说话舒服到几乎忘了她在场，又补一句「I'm rather pleased with you」，随即起身重新摆布 Anglepoise 台灯；Jo 内心有什么绽开了。",
+      "anchor": "I almost forget you’re here.",
+      "byte_offset": 3365,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Jo 想用提问把叙事往前推时，Mimi 一律拖住：她说要逐件揭示自己的故事，现在就在时间线上跳来跳去会「丢掉线头」；Jo 觉得她的叙事有弹性、且线头不止一条。",
+      "anchor": "I’ll reveal my story item by item. If I start jumping around the timeline now, I’ll lose my thread.",
+      "byte_offset": 3953,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "门口 Woody 应声出现（I'll see you out）；Jo 慌乱中打翻桶包——无盖润唇膏、Tampax、家门钥匙、从未用过的超市积分卡散落一地，还有上次造访 Rushwood 后留在包里的地图打印件。",
+      "anchor": "the Rushwood map printout, still in her bag from her visit.",
+      "byte_offset": 5144,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Mimi 扑过来夺问「Why do you have this?」；Jo 答是想把自己放进她的故事里（属实）；Mimi 鉴定那是 Harold Caswell 委托绘制、挂在 Rushwood 门厅的巨幅浮夸地图的复制品，追问出处；听到「网上徒步者论坛」后低声补刀「For trespassers」。",
+      "anchor": "a huge, pompous map that Harold Caswell commissioned and hung in Rushwood’s hall.",
+      "byte_offset": 5467,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Mimi 宣布「change of plan」，把打印件塞回给 Jo，留她当晚继续；Woody 应承晚点开车送 Jo 回家（顺带要跟西岸联络），Mimi 吩咐 Ruth 走前带点好吃的、再来两杯 Pingus 酒。",
+      "anchor": "a couple of glasses of that nice Pingus.",
+      "byte_offset": 6590,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Mimi 从纸柜浅抽屉抽出一张地图，用书压住卷角：「This is the Rushwood of my story」；Jo 凑近，认出那手迹（圆润、笃定）令人不安地熟悉——来自苗圃植物标签、写满批注改动的菜谱，以及 Granny 忍不住总要批改的她当年的作业。",
+      "anchor": "unsettlingly familiar from nursery plant labels, annotated cookbooks",
+      "byte_offset": 7185,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "a": "Jo",
+      "rel": "受 NDA 约束的雇佣/合作关系：为 Mimi 的拍卖项目做口述转录与图录文案，泄密即面临诉讼、丢工作与家族风波",
+      "b": "Mimi（Pamela Mackie）",
+      "anchor": "But she’s signed an NDA so can’t say a word.",
+      "byte_offset": 1403,
+      "hits": 1
+    },
+    {
+      "a": "Mimi",
+      "rel": "失和的姐妹：Jo 始终无法理解当年「如此狠的决裂」有何正当理由",
+      "b": "Granny",
+      "anchor": "justified such a brutal estrangement",
+      "byte_offset": 2290,
+      "hits": 1
+    },
+    {
+      "a": "Jo",
+      "rel": "祖孙：Granny 来电 Jo 已躲避数日；Granny 曾忍不住批改 Jo 的旧作业（与章末手迹相认呼应）",
+      "b": "Granny",
+      "anchor": "return Granny’s call, something she’s been dodging for days",
+      "byte_offset": 4393,
+      "hits": 1
+    },
+    {
+      "a": "Granny",
+      "rel": "夫妻：居萨福克乡村，一周七天苗圃营生，1981 年才添电视看 Lady Di 婚礼",
+      "b": "Grandpa Tony",
+      "anchor": "The swinging sixties never reached her and Grandpa Tony in rural Suffolk",
+      "byte_offset": 412,
+      "hits": 1
+    },
+    {
+      "a": "Jo",
+      "rel": "表亲：Aisling 连发半开玩笑的「证明活着」催联信息（Call me back! R u even alive? Proof of life pls）",
+      "b": "Aisling",
+      "anchor": "her cousin Aisling, who keeps sending half-joking messages",
+      "byte_offset": 4467,
+      "hits": 1
+    },
+    {
+      "a": "Woody",
+      "rel": "Mimi 的随行助手兼司机：门口送客、受命晚点开车送 Jo 回家；另有与「darling Kaia」的热约，还要跟西岸联络",
+      "b": "Mimi / Jo（Kaia 为其约会对象）",
+      "anchor": "I can certainly drive Jo home.",
+      "byte_offset": 6141,
+      "hits": 1
+    },
+    {
+      "a": "Ruth",
+      "rel": "家中帮佣：受命离开前备小食、取 Pingus 酒",
+      "b": "Mimi",
+      "anchor": "ask Ruth to bring us something tasty to pick at before she leaves",
+      "byte_offset": 6515,
+      "hits": 1
+    },
+    {
+      "a": "Harold Caswell",
+      "rel": "曾委托绘制巨幅浮夸地图并挂在 Rushwood 门厅；Jo 手里是该图复制品",
+      "b": "Rushwood 宅邸",
+      "anchor": "map that Harold Caswell commissioned",
+      "byte_offset": 5483,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "value": "1981",
+      "detail": "Granny 与 Grandpa 直到 1981 年才花钱买电视，为看 Lady Di 的婚礼；此前无电视",
+      "anchor": "No TV until 1981, when she and Grandpa splashed out so they could watch Lady Di’s wedding.",
+      "byte_offset": 792,
+      "hits": 1
+    },
+    {
+      "value": "seven days a week",
+      "detail": "Granny 当年一周七天操持苗圃营生，无喘息",
+      "anchor": "Nursery work seven days a week, no let-up.",
+      "byte_offset": 662,
+      "hits": 1
+    },
+    {
+      "value": "second week",
+      "detail": "Jo 在 Mimi 处已做到第二周（Working into her second week）",
+      "anchor": "Working into her second week",
+      "byte_offset": 1539,
+      "hits": 1
+    },
+    {
+      "value": "the swinging sixties",
+      "detail": "Granny 说摇摆六十年代从未到达她和 Grandpa Tony 所在的萨福克乡村；她「生来就老」",
+      "anchor": "The swinging sixties never reached her and Grandpa Tony in rural Suffolk",
+      "byte_offset": 412,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Mimi 因撞见 Jo 包里的 Rushwood 地图打印件而改变计划，取出自己手绘的 Rushwood 地图；Jo 认出图上手迹正是 Granny 的——两姐妹共享 Rushwood 过去的实证首次摊上桌面。"
+}

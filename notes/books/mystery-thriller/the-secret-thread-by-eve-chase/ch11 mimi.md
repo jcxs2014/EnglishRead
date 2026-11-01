@@ -41,7 +41,7 @@ modified: "2026-10-31"
 
 > **原句 5:** "‘Any idea where I might find Whipple?’ Her face softened. ‘My darling decorator. The one and only.’"
 **中文理解**：她眯着眼环顾四周，问有没有人知道去哪儿能找到 Whipple；一提到这个名字，她的脸色霎时柔和下来——“我亲爱的装饰师，独一无二的那一位”。
-**关键词**：softened（霎时柔和下来）、softened（软下来）、darling（亲爱的）、the one and only（独一个）
+**关键词**：softened（霎时柔和下来）、My darling decorator（我亲爱的装饰师）、the one and only（独一个）
 **为什么这样写**：问花园时是查询腔，提到 Whipple 整张脸立刻换温度——作者不解释这段关系，只给一个“softened”和一个“darling”，让读者自己掂量这份温柔的成色。
 **读者视角提示**：不是不会温柔，只是温柔有指定的收件人—— decorator（装饰师）这个头衔值得记住。
 

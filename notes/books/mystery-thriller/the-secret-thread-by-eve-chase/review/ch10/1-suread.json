@@ -1,0 +1,86 @@
+{
+  "chapter": "ch10",
+  "text_file": "text/ch10_chapter_10.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "拍卖图录框架开章：Lot 3 是 1955 年 King Penguin《Woodland Birds》首版藏品，扉页衬页藏书票写着 ‘Miriam Bramley’；图录注释称这类童年圣诞图鉴滋养了 Mimi House 的小印花墙纸 Bird Book，至今仍在生产。",
+      "anchor": "Ownership bookplate – ‘Miriam Bramley’ – to front pastedown.",
+      "byte_offset": 326,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Alf 挂着 Pa 的军用望远镜钻进厨房宣布：‘Caswell the younger’（Lawrence）是个观鸟者，两人的镜头隔着树林对上；Miriam 放下手里的坐垫活，觉得 Lawrence 不像观鸟的人。",
+      "anchor": "Caswell the younger is only a twitcher!",
+      "byte_offset": 1000,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Alf 转达：Lawrence 打听金翅雀之余专门问候 Pamela，想知道她昨天之后可好、没再‘发晕’；Pamela 狠狠瞪他，Alf 忙举手说‘是他原话，不是我说的’。",
+      "anchor": "Wanted to know you were okay after yesterday.",
+      "byte_offset": 1789,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Alf 宣布 Lawrence 说他们随时欢迎来游泳，还邀三人明晚与他和 Nancy 一起游；Miriam 跳起来抓住 Pamela 喊‘我们需要比基尼’，被 Pamela 骂‘发疯’。",
+      "anchor": "he wants us to swim tomorrow evening",
+      "byte_offset": 3588,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Alf 坦白已把自己后兜里随身带的鸟书《A Field Guide to the Birds of Britain and Europe》借给 Lawrence，并替全家谢过他施救之恩——动机是不想让 Pamela 欠 Lawrence 的人情；Pamela 闻言愣住、赌气说自己能照顾自己。",
+      "anchor": "I didn’t want you to be in his debt, Pammy, okay?",
+      "byte_offset": 4439,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Pa 回家得知游泳计划后否决：只准 Alf 去快泡一下，两个女孩不行——Celia 视 Lawrence 为掌上明珠，不会想他被‘分心’（暗指 Pamela，没说破），他被安排接手家族企业、攀一门好亲事；Pa 又劝 Miriam 找个勤快小伙结婚生娃别惹事，她回嘴‘我才不要’，暗想‘我证明给你看’。",
+      "anchor": "the apple of her eye, Miriam",
+      "byte_offset": 6919,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Miriam 顺走 Alf 的望远镜、谎称去找金翅雀，被 Ma 撞破；Ma 破例放行，指点她‘铜山毛榉过去那棵柳树’金翅雀最爱去，让她‘趁现在’去——多年后她反复回味这句话‘不只是指鸟’。",
+      "anchor": "You go to those goldfinches, Miriam.",
+      "byte_offset": 11695,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "章末 Miriam 在铜山毛榉下用望远镜扫视主宅与河面时恍然：Lawrence 根本不是在观鸟，而是在找 Pamela——正如她自己也在找他。",
+      "anchor": "He’d been searching for Pamela, just as I was for him.",
+      "byte_offset": 12395,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "叙事者 Miriam Bramley（昵称 Mimi/Mim）— Alf — Pamela：同胞三兄妹，住在 Rushwood，为 Caswell 家做工的家庭；本章由 Miriam 第一人称叙述。",
+    "Pa＝Ambrose Bramley — Ma：夫妻；Ma 记忆里战前在教堂初遇唱《Jerusalem》的年轻 Ambrose，他隔着圣诗本朝她眨眼；花境实为 Ma 设计（Miriam 希望她敢说 ‘I designed those borders, not you, Ambrose’ 并在种植草图上署名），功劳却记在丈夫名下。",
+    "Lawrence（‘Caswell the younger’）— Nancy：兄妹（Alf 说镜头对上的‘不是他妹妹’；游泳之约是 ‘with him and Nancy’）。",
+    "Celia — Lawrence：母子；Lawrence 是她的掌上明珠，被安排进家族企业、攀好亲事；Celia 在户外吃鲜切水果沙拉、穿比基尼抽烟，与 Bramley 家六点开饭的 ‘tea’ 形成阶层对照。",
+    "Lawrence — Pamela：昨天她在河中晕倒（‘a turn’）由他施救；他托 Alf 问候并邀约游泳；Alf 借书以免她欠他人情；Pamela 嘴上斥责 ‘我犯疯病是我的错’，但兄妹俩心里明白‘是她先跳进河里的’——她也有被死死扣住的野性。",
+    "Ma — Caswell 家：轻蔑，讥其财富只有两代、来自糖与高档赌场（‘Lumps and chips’）；Pa 则断定 Celia 不会乐见 Lawrence 被（Pamela）分心。",
+    "Pa — 酒：Pamela 递上当晚第一杯‘安抚啤酒’；那年夏天口渴加重、归咎 Caswell 宴会的压力，实则他常年夜夜啤酒当茶喝，是这对谨慎节俭、连按揭都不敢背的夫妻生活里唯一的放纵。",
+    "Rushwood 的动物等级：幼黑鸫啄食→被狮子毛色的公猫吓走→公猫又被 Caswell 家闯入的拉布拉多吓走；叙述者点明‘动物的等级和人的一样森严’，并预告游泳之约将打乱它。",
+    "成年 Miriam（Mimi House 主理人）— 童年藏品：署名 ‘Miriam Bramley’ 的 1955 King Penguin 图鉴成为日后墙纸 Bird Book 的灵感来源（与开篇图录条目呼应）。"
+  ],
+  "numbers_dates": [
+    "Lot 3——开篇拍卖图录条目的拍品编号",
+    "1955——《Woodland Birds》出版年，London: Penguin Books；King Penguin No. 74；36 pp.；16 colour plates by Peter Shepheard；12 × 18 cm；书衣未剪角（unclipped）",
+    "‘Miriam Bramley’——扉页衬页藏书票上的署名",
+    "yesterday（昨天）——Pamela 在河里晕倒（‘a turn’），Lawrence 施救",
+    "tomorrow evening（明晚）——Lawrence 邀约与他和 Nancy 游泳的时间",
+    "six（六点）——Bramley 家晚间正餐叫 tea，六点开；Caswell 家吃得更晚、称之为 dinner",
+    "half a finger——Pa 的中指只剩一节粉亮残端，被割草机回火崩掉；他说‘就算没丢那半根手指也数不过来这主意的坏处’",
+    "two generations——Ma 评价 Caswell 家的钱‘只有两代’",
+    "just before the war（战前）——Ma 在教堂初见年轻 Ambrose Bramley 的时间",
+    "Christmas——King Penguin 系列自然书是当年圣诞送给 Bramley 家孩子们的礼物，弟弟妹妹很快超越，唯独 Mimi 一直着迷"
+  ],
+  "turning_point": "章末 Miriam 恍然：Lawrence 借观鸟为幌子实为寻找 Pamela——正如她自己借观鸟窥探他，两家的目光已隔着树林互相锁上，明晚的游泳之约将打破 Rushwood 既有的人间等级。"
+}

@@ -1,0 +1,396 @@
+{
+  "chapter": 11,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch11 mimi.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch11_chapter_11.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Lot 4: Centaurea cyanas (cornflower) from Rushwood’s cutting garden, pressed by Mimi in 1969. Mounted, gilt-framed. 23 x",
+          "ok": true,
+          "pos": 12
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Notes: Hung in Mimi’s first workshop on 39th Street, New York City. The inspiration for the folky floral block print, We",
+          "ok": true,
+          "pos": 137
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Above the river of flowers, I saw my father and Celia approaching, talking, inspecting the herbaceous beds",
+          "ok": true,
+          "pos": 621
+        },
+        {
+          "text": "‘The pressing question, Bramley,’ she said, in her fascinating American drawl, scanning the border: dahlias, stocks, ver",
+          "ok": true,
+          "pos": 1062
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘From now until the party, a regular washout English summer, just to keep everything plump and moist, huh? Then at six t",
+          "ok": true,
+          "pos": 2075
+        },
+        {
+          "text": "’ she threw open her arms, ‘",
+          "ok": true,
+          "pos": 2278
+        },
+        {
+          "text": "blazing sunshine! Tell me, is that really too much to ask?’",
+          "ok": true,
+          "pos": 2305
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘Any idea where I might find Whipple?’ Her face softened. ‘My darling decorator. The one and only.’",
+          "ok": true,
+          "pos": 3830
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "An awkward transfer of the cornflowers took place. A brush of the fingertips. Something else, too",
+          "ok": true,
+          "pos": 7463
+        },
+        {
+          "text": "Glancing over my shoulder, I saw Mackie follow her into the cottage, the back door shut, and I wondered if Alf knew Pame",
+          "ok": true,
+          "pos": 7670
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘I go out of my freaking mind at Rushwood. A day in London, my God, your life changes. You can fall in love, do anything",
+          "ok": true,
+          "pos": 12113
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Nancy’s lack of self-doubt sizzled through my brain. For the first time, I wondered: what if you assumed you could do so",
+          "ok": true,
+          "pos": 12416
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "A lazy breaststroke, chins in the water, gazes just above the surface, neither of us more significant than the dragonfli",
+          "ok": true,
+          "pos": 16486
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "‘But it’s harder going back upstream and it’s getting dark. Come on, we’re amphibious, you and I.’",
+          "ok": true,
+          "pos": 17484
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "‘Bye, then,’ I said, beaming, walking backwards, then turning to run back to the cottage, elated, trying to prepare my e",
+          "ok": true,
+          "pos": 18526
+        }
+      ],
+      "words": 52
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 17,
+        "为什么这样写": 68,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.48,
+        "关键词": 0.25,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 18,
+        "为什么这样写": 60,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.29,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 17,
+        "为什么这样写": 60,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.27,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 13,
+        "为什么这样写": 57,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.19,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 15,
+        "为什么这样写": 48,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.24,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 18,
+        "为什么这样写": 56,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.19,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 20,
+        "为什么这样写": 49,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.23,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 20,
+        "为什么这样写": 64,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.25,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 22,
+        "为什么这样写": 71,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.22,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 8,
+        "为什么这样写": 67,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.2,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 15,
+        "为什么这样写": 77,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.24,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.6
+      }
+    }
+  ],
+  "form": {
+    "h1": "11. Mimi",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3295,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": "块数 11 偏离本书常见区间 4–10（本书 51 章中位 7、最高 13（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

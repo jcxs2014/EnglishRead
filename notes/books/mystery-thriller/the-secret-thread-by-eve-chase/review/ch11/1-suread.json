@@ -1,0 +1,116 @@
+{
+  "chapter": "ch11",
+  "text_file": "text/ch11_chapter_11.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "拍卖图录引子：Lot 4 是 1969 年 Mimi 在 Rushwood 切花园压制、装裱进镀金框的矢车菊（Centaurea cyanas），曾挂在她在纽约 39 街的第一间工作室，是民间风花卉印花壁纸 Weed Bouquet 的灵感来源，八十年代初该壁纸需排队两年。",
+      "anchor": "pressed by Mimi in 1969",
+      "byte_offset": 93,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "酷热午后 Miriam 赌气在长花境除草（Pa 重申当晚不许游泳），暗想偷剪一朵血红大丽花压花；Celia 押着 Pa 巡园，逼问“我的羽扇豆呢”，Pa 死板作答羽扇豆早已开败、芍药六月也谢了，令 Celia 不快。",
+      "anchor": "Where are my lupins?",
+      "byte_offset": 1335,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Celia 提出荒唐要求：派对前天天下雨保湿润、傍晚六点半宾客到齐喝香槟时放晴，长花境要完美无“杂草”、要有大树玻璃灯笼如《仲夏夜之梦》；Pa 一句实话“I'd say so”答错惹恼她，Miriam 起身解围称“一切就绪”，Celia 这才认下园丁小女儿 Miriam，并笑她“会抢走你的工作”，还把鸡尾酒洒在她腿上。",
+      "anchor": "I said, scrambling to my feet to save him.",
+      "byte_offset": 3360,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Celia 打听“亲爱的装饰师”Whipple（Elliot Whipple，Belgravia，黑色亮面货车金字招牌）未果，撂下“别搞砸，Bramley”离去；Pa 向 Ma 求援后定计：去苗圃预订盆栽苗（非裸根），派对前两天取回种进花境掩人耳目；大人外出后禁泳令实际解除，傍晚归孩子们。",
+      "anchor": "collect them two days before the party and trowel them into the borders",
+      "byte_offset": 5404,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "切花园主管 Mackie（25 岁，Luton 出生，英籍盖屋顶工之子、意大利母亲，开三轮 Reliant Robin）抱一捧蓝矢车菊送给 Pamela——Celia 嫌花“太瘦弱”不要；交接时两人指尖相触“另有意味”，Pamela 催 Alf 和 Miriam 先去河边、自己“随后到”；Miriam 回望见 Mackie 跟她进了小屋、后门关上，起疑 Alf 是否真了解 Pamela。",
+      "anchor": "Mackie follow her into the cottage, the back door shut",
+      "byte_offset": 8186,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "河边初逢 Caswell 姐弟：Nancy（黑比基尼、Biba 白框墨镜、抽 Lucky Strikes）调侃 Alf 送她“死板哥哥”一本讲鹊的书——鹊属鸦科、终身配对“不像 Caswells”，拉丁名 Pica pica；Lawrence 裸泳戏水后竟没记住 The Saving 之后就见过的 Miriam 的名字；Nancy 举相机抢拍 Miriam，问她如何忍受日复一日住在 Rushwood 做工。",
+      "anchor": "remembered my name from The Saving",
+      "byte_offset": 10420,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Nancy 宣称“总有一天”要当著名摄影师（“世上男摄影师够多了，为什么不是我？”）、鼓吹去伦敦一天“人生就变了——能恋爱、能成为任何人”，又自嘲被困到派对上去“钓个乏味勋爵”；Miriam 第一次自问“为什么不是我”，顿觉内心一变；随后她借来 Nancy 的胆气宣布“我下水！”，不理 Pamela 咬牙警告，与 Lawrence 游向下游，把暴怒的妹妹甩在身后。",
+      "anchor": "something inside me shifted",
+      "byte_offset": 13571,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "黄昏同游：两人顺流游到庄园围栏尽头的草甸（紧邻农夫田地），互诉寄宿学校的恐怖与“当众罚站被夸不如姐姐学业”的旧伤，说破后化为大笑；Lawrence 说“我们都是两栖动物，你和我”；天黑前跑回码头，四目相对“something understood”；Miriam 蹦跳着跑回小屋预备说辞，却在堆肥堆旁被守候多时的 Pamela 截住，怒斥“你到底去哪儿了”。",
+      "anchor": "Where on earth have you been?",
+      "byte_offset": 19955,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miriam (Mimi) Bramley – Pa / Ma",
+      "relation": "园丁夫妇的幼女，随全家住 Rushwood 帮工；Pa 被 Celia 刁难时她起身解围，自称对植物语言比对阔太太更熟的 Pa 太过死板"
+    },
+    {
+      "pair": "Miriam – Pamela",
+      "relation": "亲姐妹；Miriam 自知是“第二选择”，既爱慕姐姐之美（“一朵本真的矢车菊”）又暗暗较劲——抢着下水、冷笑她的“园艺谈话”、暗疑她与 Mackie 有私"
+    },
+    {
+      "pair": "Miriam – Lawrence Caswell",
+      "relation": "Lawrence 邀她同游至黄昏、主动伸手拉她，码头一别“something understood”，Miriam 初生情愫；他先前救过 Pamela（The Saving）却记不住她的名字"
+    },
+    {
+      "pair": "Miriam – Nancy Caswell",
+      "relation": "精神触发者：Nancy 的摄影师式自信论点燃 Miriam 的自我意识（“某样东西在我心里变了”）；两人河上闲谈，Nancy 抢拍她的照片"
+    },
+    {
+      "pair": "Pamela – Mackie",
+      "relation": "Mackie 赠矢车菊、指尖相触“另有意味”、随她进小屋关门；Pamela 事后只称“给他泡了杯茶”、发间再现矢车菊花瓣——Miriam 疑是 Mackie 之手所留"
+    },
+    {
+      "pair": "Alf Bramley – Pamela",
+      "relation": "兄长，视她“纯洁如圣母”、占有欲与保护欲极强，曾用拳头吓退追求者；摇头警告 Pamela 别上 Lawrence 的船，但对“园丁、实在人”Mackie 有好感"
+    },
+    {
+      "pair": "Celia Caswell – Pa (Bramley)",
+      "relation": "雇主与园丁：Celia 是 Pa 的“tormenter”，提出无视季节土壤的种植要求，把裸土叫“dirt”，答错一句便如“可能送人上断头台的女王”"
+    },
+    {
+      "pair": "Celia – Lawrence / Nancy",
+      "relation": "母子：Nancy 叫她“Mommy dearest”并拒绝去派对“钓乏味勋爵”；Lawrence 救起 Pamela 后 Nancy 嘲“他救的是我母亲的派对——派对前淹死人可不行”"
+    },
+    {
+      "pair": "Lawrence – Pamela (The Saving, 间接)",
+      "relation": "Lawrence 曾从河中救起落水的 Pamela；Miriam 对其心怀感激，该落水事件发生在 Celia 的派对之前"
+    },
+    {
+      "pair": "Elliot Whipple – Celia",
+      "relation": "Belgravia 来的装饰师，Celia 口中“我亲爱的装饰师，独一无二”；运来靠垫窗帘灯罩墙纸，对 Pamela 的美色头也不回（“几拍低于常人”）"
+    }
+  ],
+  "numbers_dates": [
+    "Lot 4（图录编号）",
+    "1969（Mimi 压制矢车菊的年份）",
+    "23 x 28cm（压花装裱尺寸）",
+    "39th Street, New York City（Mimi 第一间工作室）",
+    "early eighties + two-year waiting list（八十年代初 Weed Bouquet 壁纸排队两年）",
+    "June（芍药凋谢月份，“Especially with the heat”）",
+    "six thirty（宾客草坪聚齐喝香槟、Celia 要求放晴的时刻）",
+    "twenty-five-year-old（Mackie 的年龄）",
+    "two days before the party（全家取回盆栽苗种进花境的时间）"
+  ],
+  "turning_point": "Nancy 的自信论让 Miriam 第一次自问“为什么不是我”——她当场抛下 Pamela 与 Lawrence 同游至黄昏，码头告别时“something understood”，对 Lawrence 的情愫与自我觉醒同时点燃；而 Pamela 与 Mackie 的私会疑云（指尖相触、进小屋、发间花瓣）并行埋线。"
+}
