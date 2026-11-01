@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch16",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch16_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "本章以日志体开场，所记日期为2024年10月20日，他说这周天气转好、散步时看见了鹿。",
+   "anchor": "October 20th, 2024",
+   "start": 23,
+   "end": 41
+  },
+  {
+   "fact": "他放下笔想起Arthur的日记，觉得「Deer are good animals.」这类句子平实得近乎古怪。",
+   "anchor": "remembering Arthur’s journal. Deer are good",
+   "start": 128,
+   "end": 171
+  },
+  {
+   "fact": "自吠狗那天后再没有网球出现；连日晴冷，他养成了晚间生火的习惯。",
+   "anchor": "since the day of the barking dog.",
+   "start": 382,
+   "end": 415
+  },
+  {
+   "fact": "他开车去Lyke买回深红天鹅绒窗帘（像童年影院座椅），把窗户完全遮住，又买了蜡烛添气氛，屋子不再陌生吓人。",
+   "anchor": "driven into Lyke and bought some living-room curtains",
+   "start": 634,
+   "end": 687
+  },
+  {
+   "fact": "他记起Lucy说过小屋原名Firefleet，觉得比Kirkhill更温暖，遂自认住在Firefleet。",
+   "anchor": "The original name was Firefleet.",
+   "start": 1087,
+   "end": 1119
+  },
+  {
+   "fact": "他明知Caroline已死在雪中，却处处觉得她在（她的书、日记、摆设、门厅的靴子、衣橱里雪松与盐的气味），甚至对她说话。",
+   "anchor": "Caroline was dead in the snow.",
+   "start": 2303,
+   "end": 2333
+  },
+  {
+   "fact": "当晚他用书架上的食谱书做了蘑菇烩饭，不再吃「单身汉食物」，并摆了两副餐具。",
+   "anchor": "He made a mushroom risotto from a cookery book",
+   "start": 2890,
+   "end": 2936
+  },
+  {
+   "fact": "他把Caroline的一件外套搭在对面椅背上，点蜡烛倒两杯红酒，说「Happy birthday, Caroline」「You see, love. I remembered.」——当日是Caroline的生日。",
+   "anchor": "‘Happy birthday, Caroline,’ he said.",
+   "start": 3224,
+   "end": 3260
+  }
+ ]
+}
