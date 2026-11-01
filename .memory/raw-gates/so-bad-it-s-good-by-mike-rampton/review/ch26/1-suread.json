@@ -1,0 +1,145 @@
+{
+ "chapter": "ch26",
+ "text_file": "text/ch26_technology_jokes_that_need_a_reboot.txt",
+ "facts": [
+  {
+   "id": 1,
+   "claim": "开篇用摩斯码做双关：道歉写成点划就是 remorse code，remorse 与 morse 只差一个音。",
+   "quote": "What do you call an apology written in dots and dashes? Remorse code.",
+   "char_range": [
+    84,
+    153
+   ]
+  },
+  {
+   "id": 2,
+   "claim": "「人形电脑」的绰号理由与算力无关，而是独处十分钟就睡着，把 computer 按「会休眠的机器」字面解。",
+   "quote": "My nickname is ‘the human computer’. Not because I’m smart, but because I go to sleep if left alone for ten minutes.",
+   "char_range": [
+    390,
+    506
+   ]
+  },
+  {
+   "id": 3,
+   "claim": "爱尔兰双重验证的笑话，用 to be sure, to be sure 的口头重复去对应 two-factor 的「两重」。",
+   "quote": "Why does Irish technology involve two-factor authorization? To be sure, to be sure.",
+   "char_range": [
+    511,
+    594
+   ]
+  },
+  {
+   "id": 4,
+   "claim": "电脑进酒吧付不出钱，用 cleared my cache 同时表示「清空缓存」和「没钱」。",
+   "quote": "A computer walks into a bar and orders a drink. The barman says, ‘That’ll be £5 please.’ ‘Sorry,’ says the computer, ‘I’ve cleared my cache.’",
+   "char_range": [
+    1086,
+    1227
+   ]
+  },
+  {
+   "id": 5,
+   "claim": "作者把系统提示「密码不安全」读成人格上的缺乏自信，归因于密码规则太苛刻。",
+   "quote": "My computer keeps saying my password is insecure. Perhaps if it wasn’t constantly forced to adhere to ridiculously strict requirements it would have a bit more confidence.",
+   "char_range": [
+    2427,
+    2598
+   ]
+  },
+  {
+   "id": 6,
+   "claim": "监控笑话里，吸尘器 gathering dirt 既指吸尘又指多年收集把柄，比手机和电脑更「阴」。",
+   "quote": "Sure, your phone and computer spy on you all the time, but they’re not the worst. Your hoover has been gathering dirt on you for years.",
+   "char_range": [
+    2811,
+    2946
+   ]
+  },
+  {
+   "id": 7,
+   "claim": "章末把「调颜色」听成地名：先被反问 Brighton，再用 Worthing 把要对比度的话接回去。",
+   "quote": "‘Can you adjust the colours on this picture of a town on the south coast of England please?’ ‘Brighton?’ ‘No, I just need an increase in contrast on this image of Worthing.’",
+   "char_range": [
+    3530,
+    3703
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Remorse code / Morse code",
+   "relation": "只改一个音就同时塞进「道歉」与「摩斯码」两个意思，是章节标题「need a reboot」式旧技术梗的开场。",
+   "quote": "What do you call an apology written in dots and dashes? Remorse code.",
+   "char_range": [
+    84,
+    153
+   ]
+  },
+  {
+   "pair": "cleared my cache / 付不出钱",
+   "relation": "计算机术语被当成人的经济状况来解释，技术动作与生活动作共用同一个短语。",
+   "quote": "‘Sorry,’ says the computer, ‘I’ve cleared my cache.’",
+   "char_range": [
+    1175,
+    1227
+   ]
+  },
+  {
+   "pair": "Brighton / Worthing",
+   "relation": "两个南岸地名轮换出现：Brighton 是误听的结果，Worthing 才把「提高对比度」的原意说回来。",
+   "quote": "‘Brighton?’ ‘No, I just need an increase in contrast on this image of Worthing.’",
+   "char_range": [
+    3623,
+    3703
+   ]
+  },
+  {
+   "pair": "human computer / 会休眠的机器",
+   "relation": "绰号的依据从「算得快」挪到「闲置就睡」，把褒义称号换成了自嘲。",
+   "quote": "Not because I’m smart, but because I go to sleep if left alone for ten minutes.",
+   "char_range": [
+    427,
+    506
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "£5",
+   "meaning": "酒吧报出的价钱，是电脑回答「清空缓存」的前置数目。",
+   "quote": "‘That’ll be £5 please.’",
+   "char_range": [
+    1151,
+    1174
+   ]
+  },
+  {
+   "value": "1023",
+   "meaning": "1023 兆字节差一步到 1GB，所以这支乐队「没到 gig 级」，gig 兼指演出。",
+   "quote": "There’s a new band called 1023 Megabytes. They’re good but not at gig level.",
+   "char_range": [
+    1950,
+    2026
+   ]
+  },
+  {
+   "value": "ten minutes",
+   "meaning": "独处十分钟就会睡着，这是「人形电脑」唯一的依据。",
+   "quote": "but because I go to sleep if left alone for ten minutes",
+   "char_range": [
+    450,
+    505
+   ]
+  },
+  {
+   "value": "four seconds",
+   "meaning": "时间机器饿了就回退四秒，相当于「再来一份」。",
+   "quote": "What does a time machine do when it’s hungry? Goes back four seconds.",
+   "char_range": [
+    3352,
+    3421
+   ]
+  }
+ ]
+}

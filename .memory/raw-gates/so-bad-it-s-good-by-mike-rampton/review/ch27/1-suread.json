@@ -1,0 +1,127 @@
+{
+ "chapter": "ch27",
+ "text_file": "text/ch27_how_to_write_your_own_rubbish_joke.txt",
+ "facts": [
+  {
+   "id": 1,
+   "claim": "引言说写笑话的门路和写的人一样多，其中一条写「cheerfully bad」笑话的路子是倒着推。",
+   "quote": "One way of writing cheerfully bad gags is to work backwards.",
+   "char_range": [
+    385,
+    445
+   ]
+  },
+  {
+   "id": 2,
+   "claim": "第1步 You massive idiom：先取一句听众一定认得的短语、习语或片名当原料，「Everything must go」。",
+   "quote": "Start off with a phrase, an idiom, a movie title or something else well-known enough that your audience will know what it is.",
+   "char_range": [
+    472,
+    597
+   ]
+  },
+  {
+   "id": 3,
+   "claim": "第2步 Smash it up：把词拆成音节，找韵脚、同音词、同形同音词与首音互换，看能否把它变成笑点。",
+   "quote": "Think of rhymes, homophones (words that mean different things but sound the same), homonyms (words that mean different things but sound the same and are spelled the same) and spoonerisms (where you swap consonant sounds, i.e. turning ‘a pair of shoes’ into ‘a share of poos’)",
+   "char_range": [
+    945,
+    1220
+   ]
+  },
+  {
+   "id": 4,
+   "claim": "第3步 Abandon most of them：作者承认硬造出来的多数属于「坏到真的很糟」那一类，所以大部分要丢掉。",
+   "quote": "Most that you try to create by brute force in this way are the latter.",
+   "char_range": [
+    1444,
+    1514
+   ]
+  },
+  {
+   "id": 5,
+   "claim": "第4步 Get reverse engineering：反过来先搭 setup，最好不用笑点里的关键词，形式可短可长。",
+   "quote": "Now build out a setup, ideally not using any of the key words from the punchline.",
+   "char_range": [
+    1860,
+    1941
+   ]
+  },
+  {
+   "id": 6,
+   "claim": "第5步 Ask yourself, ‘Will people get this wrong?’：要站到第一次听的听众位置检查是否只是让人困惑，并以 The Germinator 自评为「一团混乱、更像噪音」而建议弃用。",
+   "quote": "It’s a confusing old mess really – not a joke as much as a noise.",
+   "char_range": [
+    3150,
+    3215
+   ]
+  },
+  {
+   "id": 7,
+   "claim": "第6步 Enjoy the groans：终于做出一个勉强成立的笑话后，要求再写一百个。",
+   "quote": "Have you finally come up with one that just about works? Well done! Now write another hundred!",
+   "char_range": [
+    3285,
+    3379
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "1. You massive idiom / 4. Get reverse engineering",
+   "relation": "第1步取熟语当作终点，第4步回头补 setup，两步是同一条倒推链的两端。",
+   "quote": "Now build out a setup, ideally not using any of the key words from the punchline.",
+   "char_range": [
+    1860,
+    1941
+   ]
+  },
+  {
+   "pair": "3. Abandon most of them / 5. Will people get this wrong?",
+   "relation": "两道淘汰关卡：第3步按成功概率砍，第5步按听者能不能懂砍，留下的才进第6步。",
+   "quote": "Most that you try to create by brute force in this way are the latter.",
+   "char_range": [
+    1444,
+    1514
+   ]
+  },
+  {
+   "pair": "The Germinator / 6. Enjoy the groans",
+   "relation": "第5步用自造的失败例子示范如何自我否决，第6步则把过关后的产量要求定成再写一百个。",
+   "quote": "Probably best to ditch it and start again.",
+   "char_range": [
+    3216,
+    3258
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "6",
+   "meaning": "全章共六个编号小节，第6步是收尾的产量要求。",
+   "quote": "6. Enjoy the groans",
+   "char_range": [
+    3263,
+    3282
+   ]
+  },
+  {
+   "value": "hundred",
+   "meaning": "过关后要再写一百个，把「写笑话」规定成批量劳动。",
+   "quote": "Now write another hundred!",
+   "char_range": [
+    3353,
+    3379
+   ]
+  },
+  {
+   "value": "1980s",
+   "meaning": "第5步失败例子指定的年代，借 The Terminator 造 germinate 的双关。",
+   "quote": "What’s a farmer’s favourite 1980s action film? The Germinator!",
+   "char_range": [
+    2865,
+    2927
+   ]
+  }
+ ]
+}

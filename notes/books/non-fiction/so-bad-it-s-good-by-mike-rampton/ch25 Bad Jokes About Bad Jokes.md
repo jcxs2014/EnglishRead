@@ -10,9 +10,9 @@ modified: "2026-11-01"
 - **出处**：*So Bad It's Good: The Art of the Terrible Joke*，Mike Rampton 著，Pavilion（HarperCollins 旗下）2026 年出版
 - **作者**：Mike Rampton
 - **章节定位**：正文第 24 篇，元笑话章；全书唯一一章完全以"笑话本身"为题材，末尾并入一个二级小节 `Jokes with no punchline`（取自 epub 的 Chapter16a 短续页）
-- **字符数**：约 2,270（提取件 `text/ch25_bad_jokes_about_bad_jokes.txt`，正文 404 词，约 30 条）
+- **字符数**：约 2,270（提取件 `text/ch25_bad_jokes_about_bad_jokes.txt`，正文 404 词，主体 28 条 + 无包袱小节 3 条）
 - **一句话主旨**：当笑话开始讲笑话，双关的物件就变成了"笑话的技术词"——pun、punchline、corny、dry、don't work——每一个评价词都同时是它字面所指的是那种毛病。
-- **结构**：主体约 30 条，绝大多数是"I have a joke about X, but it's Y"的单句格式：X 是题材，Y 是既能评价笑话、又能描述 X 的形容词。末尾二级小节 `Jokes with no punchline` 只有三条，全部没有包袱。
+- **结构**：主体 28 条（另有 `Jokes with no punchline` 小节 3 条），绝大多数是"I have a joke about X, but it's Y"的单句格式：X 是题材，Y 是既能评价笑话、又能描述 X 的形容词。末尾二级小节 `Jokes with no punchline` 只有三条，全部没有包袱。
 
 ## 论证结构
 

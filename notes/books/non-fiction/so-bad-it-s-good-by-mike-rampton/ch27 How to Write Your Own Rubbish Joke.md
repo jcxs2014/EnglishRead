@@ -12,7 +12,7 @@ modified: "2026-11-01"
 - **章节定位**：正文第 26 篇，操作指南章；与 ch03《How to Tell a Terrible Joke Brilliantly》配对——ch03 讲怎么讲，本章讲怎么写
 - **字符数**：约 3,380（提取件 `text/ch27_how_to_write_your_own_rubbish_joke.txt`，正文 595 词）
 - **一句话主旨**：写烂笑话的可靠方法不是正向构思，而是"倒着来"：先挑一个所有人都听过的固定说法，把它拆成音节找出谐音包袱，再倒推一段不提关键词的铺垫——大部分尝试都会失败，所以要写很多条。
-- **结构**：一段引言 ＋ 六个编号小节（1. You massive idiom／2. Smash it up／3. Abandon most of them／4. Get reverse engineering／5. Ask yourself, 'Will people get this wrong?'／6. Enjoy the groans）。每节 40–120 词，是全书最接近"工作手册"的一章。
+- **结构**：一段引言 ＋ 六个编号小节（1. You massive idiom／2. Smash it up／3. Abandon most of them／4. Get reverse engineering／5. Ask yourself, 'Will people get this wrong?'／6. Enjoy the groans）。每节 17–134 词，是全书最接近"工作手册"的一章。
 
 ## 论证结构
 

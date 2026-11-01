@@ -1,0 +1,136 @@
+{
+ "chapter": "ch25",
+ "text_file": "text/ch25_bad_jokes_about_bad_jokes.txt",
+ "facts": [
+  {
+   "id": 1,
+   "claim": "全章以「为什么不能跟偷窃癖解释双关」开场，靠 take things literally 的字面义与习语义双关做笑点。",
+   "quote": "Why can’t you explain puns to kleptomaniacs? They always take things literally.",
+   "char_range": [
+    64,
+    143
+   ]
+  },
+  {
+   "id": 2,
+   "claim": "作者反复套用「我有一个关于X的笑话，但……」模板，把笑点压在形容该物的形容词双关上（沙纸→coarse）。",
+   "quote": "I have a joke about sandpaper, but it’s very coarse.",
+   "char_range": [
+    397,
+    449
+   ]
+  },
+  {
+   "id": 3,
+   "claim": "作者自陈喜欢讲烂双关，末句把 that’s just how I roll 改写成 eye roll，讲完顺带演一次翻白眼。",
+   "quote": "I enjoy telling bad puns. That’s just how eye roll.",
+   "char_range": [
+    841,
+    892
+   ]
+  },
+  {
+   "id": 4,
+   "claim": "投稿十则双关的元笑话，用 no pun in ten did 谐音 no pun intended 收尾。",
+   "quote": "I submitted ten puns to a joke-writing competition to see if any of them made the finals. Sadly, no pun in ten did.",
+   "char_range": [
+    1586,
+    1701
+   ]
+  },
+  {
+   "id": 5,
+   "claim": "作者用一问一答区分 bad joke 与 dad joke，说两者的差别只在「有没有当父母」。",
+   "quote": "What’s the difference between a bad joke and a dad joke? The difference is a parent.",
+   "char_range": [
+    1706,
+    1790
+   ]
+  },
+  {
+   "id": 6,
+   "claim": "第二节改收「没有笑点」的笑话，如海盗问船员罗马数字二怎么写，句子到此为止不给答案。",
+   "quote": "A pirate chief asks his crew how to write the number two in Roman numerals.",
+   "char_range": [
+    2123,
+    2198
+   ]
+  },
+  {
+   "id": 7,
+   "claim": "全章以「把反问句和笑话结合会得到什么」这个无答案的问句收束，本身即示范该节的体例。",
+   "quote": "What do you get when you combine a rhetorical question and a joke?",
+   "char_range": [
+    2203,
+    2269
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "「我有一个关于X的笑话」模板 / 具体双关形容词",
+   "relation": "模板负责承诺「这里有个双关」，具体形容词负责兑现；同一个句式被反复用到不同物件上。",
+   "quote": "I have a joke about the desert, but it’s very dry.",
+   "char_range": [
+    342,
+    392
+   ]
+  },
+  {
+   "pair": "umbrella jokes / 自我指涉",
+   "relation": "笑话的内容就是「这类笑话落不到人身上」，讲失败本身变成了笑点。",
+   "quote": "My umbrella jokes go over people’s heads.",
+   "char_range": [
+    240,
+    281
+   ]
+  },
+  {
+   "pair": "no pun in ten did / no pun intended",
+   "relation": "十则双关的元笑话把固定说法 no pun intended 谐音化成 no pun in ten did，句子的意思随读音翻转。",
+   "quote": "Sadly, no pun in ten did.",
+   "char_range": [
+    1676,
+    1701
+   ]
+  },
+  {
+   "pair": "bad joke / dad joke",
+   "relation": "作者把两个类别的差别压缩成「一个父母」，类别问题被换成了家庭关系问题。",
+   "quote": "The difference is a parent.",
+   "char_range": [
+    1763,
+    1790
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "ten",
+   "meaning": "投稿的十则双关；正是这个「十」支撑了 no pun in ten did 的谐音。",
+   "quote": "I submitted ten puns to a joke-writing competition to see if any of them made the finals.",
+   "char_range": [
+    1586,
+    1675
+   ]
+  },
+  {
+   "value": "three",
+   "meaning": "地上三个洞，刚好对应 well 连说三遍的收尾。",
+   "quote": "Have you heard the joke about three holes in the ground? Well, well, well.",
+   "char_range": [
+    1849,
+    1923
+   ]
+  },
+  {
+   "value": "fifth",
+   "meaning": "周期表第五号元素是硼，笑点就在 boron／boring 同音。",
+   "quote": "I have a joke about the fifth element in the periodic table, but it’s boron.",
+   "char_range": [
+    1098,
+    1174
+   ]
+  }
+ ]
+}

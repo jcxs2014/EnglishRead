@@ -10,9 +10,9 @@ modified: "2026-11-01"
 - **出处**：*So Bad It's Good: The Art of the Terrible Joke*，Mike Rampton 著，Pavilion（HarperCollins 旗下）2026 年出版
 - **作者**：Mike Rampton
 - **章节定位**：正文第 25 篇，类型笑话章；主题是电脑、网络、家电与工程，是全书技术词密度最高的一章
-- **字符数**：约 3,700（提取件 `text/ch26_technology_jokes_that_need_a_reboot.txt`，正文 644 词，约 40 条）
+- **字符数**：约 3,700（提取件 `text/ch26_technology_jokes_that_need_a_reboot.txt`，正文 644 词，32 条 + 一段七条清单）
 - **一句话主旨**：技术笑话的通用公式是"把技术词的字面义当成物理事实"：caps lock 锁住帽子，contacts 是隐形眼镜，gather dirt 是收集灰尘，bug 是虫子——术语越抽象，被物化时越好笑。
-- **结构**：约 40 条，中间插入一段七行的列表（"Of all the inventions ever created …"），每条以"最 X 的发明"收尾；其余为一问一答或两句对话，无小节标题。
+- **结构**：32 条笑话；中段插入一段八行的清单（引子 "Of all the inventions ever created …" + 七条），每条以"最 X 的发明"收尾；其余为一问一答或两句对话，无小节标题。
 
 ## 论证结构
 
