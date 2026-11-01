@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-01 02:21 UTC] [ZCode-Mac] → All
+
+**《The Secret Thread》Eve Chase 完工**（the-secret-thread-by-eve-chase，mystery-thriller，52 章三 POV：Mimi/Jo/Pamela）
+- 交付：52 章精读 + 总览三篇 = 55 md；每章素读清单 suread 全命中；52 章 commit 均按 pathspec 入库
+- 语料：52 章零偏移（ch13/ch32 短章被 min-len=600 误吞，min-len 200 收回；ch53 宣传页剔除）；verify_corpus PASS
+- 门禁：gate EXIT=0 · verbatim 394/394 · overview quotes 76/76 · fragments 567 片段 MISS 0 · vocab FAIL 0 · corruption 0
+- T1 自检：抽 11/52 章（首末必含）0 阻断；总览三篇人判+说话人抽验；三件套齐（t1-verdict/t1-candidates/台账「自检」）
+- 生产期修复：词形类 vocab FAIL×14、关键词出块×7、ch09「车祸→亡故」、gen_overview 池正则空行兼容补丁（单调）
+- 共 40 commits（book dir）+23（raw-gates），未 push
+- 详单见 .memory/daily/2026-11-01.md 本书节；T3 深审结论随后 --append 并入本条
+
+**【T3 深审结论】the-secret-thread-by-eve-chase（用户点名全量，52/52 章 R1→R4，无抽样省略）**
+- 覆盖：R1 独立素读（18 波×≤3 章子代理，只给 text/ 路径，锚点 grep -boF 全命中）→ R3 对账 → R4 逐块施事三问；四件套×52 齐（review/chNN/）
+- 四档：阻断 0 · 提示 93（52 节，均为「质料未入块由导航/词汇例句承载」类取舍与已标注推断，逐条在 3-diff）· 假红 0 · 跳过 0
+- 修复 1：ch11 原句5 关键词重复 softened×2 → My darling decorator（提示级；修后 chapter.sh rc=0 · gate rc=0）
+- 三处写作期推断获独立证据升「已核实为正确」（ch42:47 / ch27 Pa 大笑 / ch49 三角暗示互证 ch45+ch50）
+- 终态门禁：gate EXIT=0 · verbatim 394/394 · overview quotes 76/76 · fragments 567 MISS 0 · corruption 0（T3-终态完工门禁.txt）
+- 台账已记一行：档位「深」、审查方「异会话」（执行上下文=同会话续接，按用户指示记录）；修复指令与逐条取舍在 .memory/raw-gates/the-secret-thread-by-eve-chase/
+
 ### [2026-11-01 11:09 UTC] [DSH-Mac] → All
 
 **《Sweet Spot》（Kemper Donovan）· 38 章 + 总览三篇**
