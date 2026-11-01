@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch15",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch15_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "本章为老人 2024 年 10 月 17 日（October 17th, 2024）的日记开场：他自述日子正在脱轨，没有日记分不清彼此，连 Lucy 是昨天来还是上周来、燃油是否已送到都记不清。",
+   "anchor": "Did Lucy come here yesterday, or was it sometime last week?",
+   "start": 185,
+   "end": 244
+  },
+  {
+   "fact": "老人后悔对来访女孩自称 Arthur，觉得这个名字像邀请她随时再来；他并怀疑邮递员把「Arthur 与 Caroline 已死」的两个说法混为一谈，开始不信那对夫妇已死。",
+   "anchor": "he shouldn’t have told her that his name was Arthur",
+   "start": 313,
+   "end": 364
+  },
+  {
+   "fact": "邮递员名叫 Greg，与 Caroline 日记里出现的人名重合；他已搜遍全屋未找到缺失的笔记本，便把余下日记本连同给 Arthur 的信、书和那颗神秘网球一起藏进起居室的箱子，上面摆了茶盘、杯子和糖碗。",
+   "anchor": "The postman’s name was Greg. Greg, from Caroline’s diaries",
+   "start": 786,
+   "end": 844
+  },
+  {
+   "fact": "他掀开箱子清点：里面是丝带捆着的 Caroline 日记、Arthur 的笔记本与写给 Arthur 的信，原本那颗网球旁多了两颗全新、带橡胶和沥青气味的网球——共三颗，不知是谁放的，且让他觉得不祥。",
+   "anchor": "Three tennis balls. Who put them there?",
+   "start": 1629,
+   "end": 1668
+  },
+  {
+   "fact": "Caroline 日记多次提到 Lucy 与 Greg：圣诞山上雪大、路已断落数周不便来访；2015 年写「Lucy 总能设法让他走出自我」；2019 年写已与 Lucy、Greg 通过电话，但圣诞节看来只有他们自己过。",
+   "anchor": "Christmas isn’t a good time for Greg and Lucy to visit",
+   "start": 1910,
+   "end": 1964
+  },
+  {
+   "fact": "他去厨房想泡茶，发现架上只剩三只杯子——黄色 Mr Happy 杯、略有缺口的蓝白杯、缺柄的皇家婚礼杯——其余全部消失；泡出的茶味极差，他把茶倒掉、杯子放回沥水板。",
+   "anchor": "there were only three mugs left on the shelf",
+   "start": 3261,
+   "end": 3305
+  },
+  {
+   "fact": "他翻 Arthur 的日记：10 月 31 日万圣节独居煮饭开酒，写「On All Hallows’ Eve, the dead rise hungry」；12 月 12 日写「Caroline is in the wires」，并记载在读 Adrian Warner 的 THE LIGHTNING CHASERS——这是 Arthur 全篇唯一反复提到的书。",
+   "anchor": "I am reading THE LIGHTNING CHASERS, by Adrian Warner",
+   "start": 4944,
+   "end": 4996
+  },
+  {
+   "fact": "暮色中狗吠渐近，他开门唤狗（先喊 Hey, dog，再低声唤 Bailey），只听见头顶电线传来似静电的声响；随后他回屋上锁落闩，关掉客厅灯坐在黑暗的沙发上听夜。",
+   "anchor": "He went back into the house, and locked and bolted the door",
+   "start": 7575,
+   "end": 7634
+  }
+ ]
+}
