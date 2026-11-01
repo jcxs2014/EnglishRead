@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch22",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch22_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "雪后男主闭门三日埋头读本地民俗，追问 Firefleet 的危险、Benn 为何警告 Arthur 离开、Caroline 出了什么事",
+   "anchor": "He spent the next three days indoors, immersed in local folklore",
+   "start": 115,
+   "end": 179
+  },
+  {
+   "fact": "男主又找到 Benn 博士两本书《Ley Lines and Dragon Veins》与《Telluric Currents and Ley Lines》，作者试图证明地底能量的存在及其对人类的影响",
+   "anchor": "two more books by Dr Micheal Benn: Ley Lines and Dragon Veins",
+   "start": 405,
+   "end": 466
+  },
+  {
+   "fact": "书中写道：出殡路线沿地线而行，这或许解释这些地点的闹鬼史；人类技术把古老力量放大到指数级",
+   "anchor": "It has long been believed that the coffin routes across these moors followed the paths of ley lines",
+   "start": 2036,
+   "end": 2135
+  },
+  {
+   "fact": "雪已三英寸厚，盖住石楠与蕨草丛、车道、小路与花园；世界一夜重造，荒原重获贞洁",
+   "anchor": "The snow was already three inches deep, covering the tussocks of heather and fern",
+   "start": 3867,
+   "end": 3948
+  },
+  {
+   "fact": "男主涌起一阵明亮狂喜与释然，像童年雪天；但想到网球与鸟，笑意随即褪去",
+   "anchor": "He felt a sudden, luminous burst of exhilaration and relief",
+   "start": 4364,
+   "end": 4423
+  },
+  {
+   "fact": "Arthur 2019-09-29 日记：网球是显现，它们不属于此地正如我们不属于此地，它们召来土地守护者处置入侵者，鸟落下，他当时在读 THE LIGHTNING CHASERS",
+   "anchor": "The tennis balls are a manifestation",
+   "start": 5795,
+   "end": 5831
+  },
+  {
+   "fact": "男主第一次读日记时把 walkers 当成背包客，如今重读怀疑是更险恶的东西，想到铁塔而战栗",
+   "anchor": "He’d assumed Arthur was talking about backpackers",
+   "start": 6264,
+   "end": 6313
+  },
+  {
+   "fact": "Arthur 2019-12-21 最后一条日记：雷暴夹雪，天空踩着闪电的高跷走过，线路全断，walkers 来了，他想躺下歇会儿；此后日记全是空白",
+   "anchor": "I think I’ll lie down for a while",
+   "start": 7524,
+   "end": 7557
+  }
+ ]
+}

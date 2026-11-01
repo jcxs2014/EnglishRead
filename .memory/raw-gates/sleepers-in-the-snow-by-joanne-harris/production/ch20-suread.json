@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch20",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch20_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "2024 年 10 月 31 日万圣夜，男主花好几天准备过冬",
+   "anchor": "All Hallows’ Eve. I’ve spent most of the past few days getting ready for winter.",
+   "start": 46,
+   "end": 126
+  },
+  {
+   "fact": "他为想象中的 Caroline 摆两份餐具、倒两杯酒、看见椅背上的外套",
+   "anchor": "And it was pleasant, cooking for two; setting two plates at the table",
+   "start": 1051,
+   "end": 1120
+  },
+  {
+   "fact": "他意识到自己要的独处其实只是想逃离她",
+   "anchor": "He’d thought he wanted to be alone, but now he realised he’d simply wanted to escape her.",
+   "start": 1208,
+   "end": 1297
+  },
+  {
+   "fact": "短信来自一个他不认识的号码",
+   "anchor": "from a number he did not recognise",
+   "start": 1745,
+   "end": 1779
+  },
+  {
+   "fact": "第三条短信语气突变：威胁（我知道你在哪里、知道你做了什么）",
+   "anchor": "You think you can hide away in here. I know where you are. I know what you did.",
+   "start": 2125,
+   "end": 2204
+  },
+  {
+   "fact": "第四条短信只有「我要来了」",
+   "anchor": "I’m coming.",
+   "start": 2234,
+   "end": 2245
+  },
+  {
+   "fact": "他把手机用力扔进松林的黑暗里",
+   "anchor": "he threw it as hard as he could into the darkness of the pines",
+   "start": 2487,
+   "end": 2549
+  },
+  {
+   "fact": "Arthur 日记写：万圣夜死者饥饿归来",
+   "anchor": "On All Hallows’ Eve, the dead rise hungry.",
+   "start": 3568,
+   "end": 3610
+  }
+ ]
+}
