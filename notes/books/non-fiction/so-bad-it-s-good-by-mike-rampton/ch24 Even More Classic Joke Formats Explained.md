@@ -12,7 +12,7 @@ modified: "2026-11-01"
 - **章节定位**：正文第 23 篇，格式讲解章；与 ch10《Classic Joke Formats Explained》、ch17《More Classic Joke Formats Explained》同属一组，本篇讲另外四种
 - **字符数**：约 3,240（提取件 `text/ch24_even_more_classic_joke_formats_explained.txt`，正文 538 词）
 - **一句话主旨**：这一组格式的差别在于"意料之外"发生在哪一层：cross 笑话换掉的是答案，paraprosdokian 换掉的是句子后半的意思，套路段子换掉的是角色，non-sequitur 换掉的是逻辑本身。
-- **结构**：四个二级小节，每节先给定义再举例：`‘What do you get if you cross …?’ jokes`／`Paraprosdokians`／`Travelling salesman/Little Jimmy jokes`／`Non-sequiturs`。每节篇幅 100–150 词，是全书写得最像"术语词典"的一章。
+- **结构**：四个二级小节，每节先给定义再举例：`‘What do you get if you cross …?’ jokes`／`Paraprosdokians`／`Travelling salesman/Little Jimmy jokes`／`Non-sequiturs`。每节篇幅 95–160 词，是全书写得最像"术语词典"的一章。
 
 ## 论证结构
 

@@ -10,9 +10,9 @@ modified: "2026-11-01"
 - **出处**：*So Bad It's Good: The Art of the Terrible Joke*，Mike Rampton 著，Pavilion（HarperCollins 旗下）2026 年出版
 - **作者**：Mike Rampton
 - **章节定位**：正文第 22 篇，类型笑话章；主题是配偶、父母、子女与姻亲，是全书最集中的"家庭生活"素材
-- **字符数**：约 3,600（提取件 `text/ch23_unlovably_bad_family_and_relationship_jokes.txt`，正文 629 词，约 35 条）
+- **字符数**：约 3,600（提取件 `text/ch23_unlovably_bad_family_and_relationship_jokes.txt`，正文 629 词，38 条）
 - **一句话主旨**：家庭笑话的双关资源是亲属称谓与家庭物品：in-laws／outlaws、step-ladder、spice rack；而"夫妻对话"提供了最简单的舞台，几乎每条都是"我妻子／我丈夫说……"的微型剧场。
-- **结构**：约 35 条，几乎全部是一问一答或两句对话；无小节标题，也没有任何论述段落——它是一整份清单，只在题材上按"约会→夫妻→父母→子女→亲戚"松散排列。
+- **结构**：38 条，几乎全部是一问一答或两句对话；无小节标题，也没有任何论述段落——它是一整份清单，只在题材上按"约会→夫妻→父母→子女→亲戚"松散排列。
 
 ## 论证结构
 

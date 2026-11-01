@@ -1,0 +1,122 @@
+{
+  "chapter": "ch24",
+  "text_file": "text/ch24_even_more_classic_joke_formats_explained.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "第一节讲“What do you get if you cross …?”格式：作者说这类笑话常被儿童喜爱，因而显得简单，其实一点也不简单",
+      "quote": "Jokes beginning with ‘What do you get if you cross …’ are often beloved by children, which can give the impression that they’re incredibly straightforward, but they’re anything but.",
+      "char_range": [
+        137,
+        318
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "同节把这类格式的走向分成两路：一路落到谐音双关（羊与袋鼠杂交得到 woolly jumper，既羊毛套衫又会跳），一路更超现实（大象与袋鼠杂交导致澳大利亚遍地大洞）",
+      "quote": "Sometimes they’re building to a play on words (a sheep crossed with a kangaroo results in, yes, a woolly jumper), while other times it’s a bit more surreal (an elephant crossed with a kangaroo leads to big holes all over Australia)",
+      "char_range": [
+        319,
+        550
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "第二节（Paraprosdokians）先下定义：尾句反转全句意义的单句笑话，并说它极难写、既傻气又高眉",
+      "quote": "a paraprosdokian is a one-liner where the end of a sentence transforms the meaning of the beginning of it",
+      "char_range": [
+        973,
+        1078
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "举 Groucho Marx 的“我度过了一个非常愉快的夜晚，但不是今晚”为标准范例",
+      "quote": "Groucho Marx’s line ‘I’ve had a perfectly wonderful evening, but this wasn’t it’, is a textbook example.",
+      "char_range": [
+        1338,
+        1442
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "再举 Stephen King 谈写作时的“我有颗小男孩的心，放在桌上的罐子里”，说明尾句如何把温情意象翻成恐怖",
+      "quote": "Horror writer Stephen King, when asked about his approach to writing, once said ‘I have the heart of a small boy, in a jar on my desk.’",
+      "char_range": [
+        1443,
+        1578
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "第四节讲 travelling salesman / Little Jimmy 笑话：先溯源 stock characters 这一文学戏剧传统，从《天方夜谭》到即兴喜剧",
+      "quote": "Stock characters are a long literary and dramatic convention – archetypes like the noble knight, the wise old crone and the sad clown date back centuries",
+      "char_range": [
+        1692,
+        1845
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "Little Jimmy 笑话的核心是小男孩说出难以想象的脏话／醉态／色欲，或无意间泄露父母的私生活，常与双关叠用",
+      "quote": "Little Jimmy jokes, meanwhile, are based around the idea of a small boy being as unimaginably sweary/drunk/lascivious/offensive as possible",
+      "char_range": [
+        2266,
+        2405
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "第五节讲 non-sequitur：拉丁语“不跟随”，转向不仅意外而且全然荒谬无逻辑；九岁上下的孩子最爱编这类笑话",
+      "quote": "a non-sequitur usually involves a joke or story taking a turn which isn’t just unexpected, it is absurd and nonsensical and involves no logic at all",
+      "char_range": [
+        2690,
+        2838
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "paraprosdokian / pull back and reveal",
+      "relation": "两者都靠尾部反转，但规模不同：paraprosdokian 压在一行内，pull back and reveal 可铺到更大篇幅",
+      "quote": "A similar thing is sometimes referred to as a ‘pull back and reveal’, but that can be on a larger scale"
+    },
+    {
+      "pair": "stock characters / travelling salesman 与 Little Jimmy",
+      "relation": "古老的角色类型（高贵骑士、智慧老妪、悲伤小丑）被降格成粗俗笑话里的固定人物，靠文化 shorthand 省去交代",
+      "quote": "These are like really rude versions of that."
+    },
+    {
+      "pair": "谐音双关 / 超现实 / 有保留的无答案",
+      "relation": "cross 格式的三条出路：woolly jumper 走双关，澳大利亚大洞走图像荒诞，椅子与仙人掌走“我也不说答案”的自我拆解",
+      "quote": "or deconstructs its own form by offering a qualified lack of an answer"
+    },
+    {
+      "pair": "non-sequitur / 儿童",
+      "relation": "作者把 non-sequitur 的流行归到九岁前后的儿童：先给一个标准提问句式，再用与任何问题都无关的胡话作答",
+      "quote": "Children around the age of nine often get heavily into making up non-sequitur jokes"
+    }
+  ],
+  "numbers": [
+    {
+      "value": "nine",
+      "meaning": "作者给出的年龄段：九岁上下的孩子热衷自编 non-sequitur 笑话，用“几岁”解释这种格式为何在校园流行",
+      "quote": "Children around the age of nine often get heavily into making up non-sequitur jokes"
+    },
+    {
+      "value": "one-liner / a line",
+      "meaning": "作者用“一行”作为 paraprosdokian 的长度标准，超出这个尺度就归入 pull back and reveal",
+      "quote": "while a paraprosdokian does it in, ideally, a line"
+    },
+    {
+      "value": "centuries",
+      "meaning": "stock characters 的历史跨度：高贵骑士、智慧老妪、悲伤小丑这些原型可上溯数百年",
+      "quote": "date back centuries and crop up everywhere from Arabian Nights to the Commedia dell’arte"
+    },
+    {
+      "value": "two-line",
+      "meaning": "Little Jimmy 笑话的常见体量：一则略粗俗的两行笑话被扩写成更丰富、更傻气的故事",
+      "quote": "a slightly rude two-line joke built into a richer, dafter story"
+    }
+  ]
+}

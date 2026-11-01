@@ -1,0 +1,122 @@
+{
+  "chapter": "ch23",
+  "text_file": "text/ch23_unlovably_bad_family_and_relationship_jokes.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "开篇用网球计分法开玩笑：love 在网球里意为零分，所以“对网球选手来说 love means nothing”",
+      "quote": "Why should you never date a tennis player? Because to them, love means nothing.",
+      "char_range": [
+        100,
+        179
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "用“差别是什么”的固定句式收束：in-laws 与 outlaws 的差别被压缩成 outlaws are wanted（被通缉／被需要）",
+      "quote": "What’s the difference between in-laws and outlaws? Outlaws are wanted.",
+      "char_range": [
+        184,
+        254
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "一则把“迹象”literal化：与公路养护部门官员约会失败，理由是 all the signs were there（既有“征兆”也有路面标志牌）",
+      "quote": "I should never have gone out with the officer from the motorway maintenance department. All the signs were there.",
+      "char_range": [
+        259,
+        372
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "火烈鸟一则把 put my foot down 从“坚决表态”翻回“把脚放下”，靠短语的字面动作收尾",
+      "quote": "My wife kept asking me to stop impersonating a flamingo. Eventually I had to put my foot down.",
+      "char_range": [
+        656,
+        750
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者用词典释义体开玩笑：弗洛伊德式口误被定义成“说一件事却意指你母亲”，把 Oedipus 情结塞进定义句",
+      "quote": "A Freudian slip is when you say one thing but mean your mother.",
+      "char_range": [
+        1380,
+        1443
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "活梯一则把 stepladder 拆成 step + ladder，造出一个从未谋面的“亲生 ladder”，属构词笑话",
+      "quote": "I have a stepladder. I never met my real ladder.",
+      "char_range": [
+        1650,
+        1698
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "一则自我指涉：妻子抱怨我把她的话都扭成对自己有利，而叙述者把这句抱怨本身也扭成夸奖",
+      "quote": "My wife says I twist everything she says to my advantage. I take that as a compliment.",
+      "char_range": [
+        1988,
+        2074
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "亲子对话体用 no sun 与 no son 同音：儿子问日食是什么，父亲答“没有太阳”，听上去像“没有儿子”",
+      "quote": "‘Dad, can you explain to me what a solar eclipse is?’ ‘No sun.’",
+      "char_range": [
+        2579,
+        2642
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "love（网球零分） / love（爱情）",
+      "relation": "同一词在两套语义系统里取值相反：网球记分的 love=0，于是“love 什么都不是”既成立又损人",
+      "quote": "Because to them, love means nothing."
+    },
+    {
+      "pair": "signs（征兆） / signs（路牌）",
+      "relation": "公路养护这个职业把隐喻性的“迹象”实体化为路边标志，双关靠职业设定兑现",
+      "quote": "All the signs were there."
+    },
+    {
+      "pair": "No sun / No son",
+      "relation": "同音异义：回答日食成因的“没有太阳”与“没有儿子”同音，父亲的话被听成否认亲子关系",
+      "quote": "‘No sun.’"
+    },
+    {
+      "pair": "stepladder / ladder",
+      "relation": "把合成词 stepladder 重新切分为 step + ladder，虚构出“亲生 ladder”，属词内切分式双关",
+      "quote": "I have a stepladder. I never met my real ladder."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "fifty",
+      "meaning": "外祖母花了五十年才让外祖父戒掉咬指甲，办法是藏起他的假牙，时间跨度用来抬高荒诞落差",
+      "quote": "After fifty years, my grandma finally got my grandpa to stop biting his nails."
+    },
+    {
+      "value": "four-year-old",
+      "meaning": "四岁儿子一则：父亲解释“偶尔拉在裤子里很正常”，结果被儿子嘲笑，年龄设定制造反差",
+      "quote": "I explained to my four-year-old son that it’s perfectly normal to sometimes do a poo in your pants."
+    },
+    {
+      "value": "seven-year-old",
+      "meaning": "接孩子放学接错人一则：以为七岁孩子不是亲生，其实是在校门口认错，数字只作日常细节",
+      "quote": "I was incredibly upset when I found out my seven-year-old child wasn’t really mine."
+    },
+    {
+      "value": "five",
+      "meaning": "朋友吃了五个人，用“难消化”收尾，数量越大越显得轻描淡写",
+      "quote": "I’ve just found out a friend of mine has eaten five people. That’s a lot to digest."
+    }
+  ]
+}

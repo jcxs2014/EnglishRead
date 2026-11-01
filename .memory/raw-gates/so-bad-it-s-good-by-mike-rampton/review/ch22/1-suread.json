@@ -1,0 +1,127 @@
+{
+  "chapter": "ch22",
+  "text_file": "text/ch22_ho_ho_horribly_bad_christmas_jokes.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "开篇用圣诞老人买雪橇的笑话做双关：sleigh 免费，因为 it was on the house（既是“店家请客”也扣“屋顶”）",
+      "quote": "How much did Santa pay for his sleigh? Nothing, it was on the house.",
+      "char_range": [
+        84,
+        152
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "第二则把雪人有腹肌说成 abdominal snowman，以 abdominal 偷换 abominable 的谐音做字形梗",
+      "quote": "What do you call a snowman with a six pack? An abdominal snowman!",
+      "char_range": [
+        157,
+        222
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者收进一组“甲正经提问、乙把问题误听成陈述”的对话体笑话：问最好的圣诞树，答 I can（听成“你肯告诉我吗”）",
+      "quote": "‘Can you tell me, in your view, what the best kind of Christmas tree is?’ ‘I can, a pine.’",
+      "char_range": [
+        227,
+        317
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "另一则对话体笑话拿地名做谐音：Caracas 被当成“圣诞大餐最爱哪道菜”的答案，包袱落在 Maracaibo 与 pigs in blankets",
+      "quote": "‘When I was in Venezuela I enjoyed my favourite part of a Christmas dinner.’ ‘Caracas?’",
+      "char_range": [
+        363,
+        450
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "作者用德国圣诞果脯面包做 stollen 与 stolen 的同音梗，笑点在于对方把问句听成指控",
+      "quote": "A friend presented me with a traditional German Christmas fruity bread. I said, ‘Is this stollen?’ She said ‘No, I made it.’",
+      "char_range": [
+        509,
+        633
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "三博士笑话把东方三王的礼物逐条谐音化：gold guy（金）、frankincense fellow（乳香）、myrrh man（没药）",
+      "quote": "I recently met the three wise men. I said to the first one, ‘Wow, you’re dressed so ostentatiously, covered in precious metals!’",
+      "char_range": [
+        819,
+        947
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "圣诞倒数日历被换成满是小孔的碗状物，作者用 advent colander 与 advent calendar 的近音收尾",
+      "quote": "Instead of having doors to open every day in December, the thing I bought had hundreds of tiny holes",
+      "char_range": [
+        1369,
+        1469
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "静电毛衣一则把 free of charge 的“免费”义翻回“不带电”的字面义，属同一类习语义回literal化",
+      "quote": "I was given a Christmas jumper that was full of static electricity. I took it back and exchanged it for another one, free of charge.",
+      "char_range": [
+        2914,
+        3046
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "abdominal snowman / abominable snowman",
+      "relation": "同音替换：把喜马拉雅雪人的固定称法 abominable 换成 abdominal（腹部的），让“有六块腹肌”成立",
+      "quote": "What do you call a snowman with a six pack? An abdominal snowman!"
+    },
+    {
+      "pair": "stollen / stolen",
+      "relation": "德语面包名与英语 stolen（被偷）同音，问“这是 stollen 吗”被听成“这是偷来的吗”，故答 No, I made it",
+      "quote": "I said, ‘Is this stollen?’ She said ‘No, I made it.’"
+    },
+    {
+      "pair": "advent colander / advent calendar",
+      "relation": "日历 calendar 与滤盆 colander 近音，靠“每天开一扇门”与“满是孔洞”的物象错位坐实双关",
+      "quote": "I’d accidentally bought an advent colander."
+    },
+    {
+      "pair": "free of charge / 静电",
+      "relation": "电荷 charge 与收费 charge 同词双义：换货“不收费”同时指新毛衣“不带电”，笑点靠义项回literal化",
+      "quote": "I took it back and exchanged it for another one, free of charge."
+    }
+  ],
+  "numbers": [
+    {
+      "value": "six",
+      "meaning": "雪人笑话的设定数字：six pack 既可指六块腹肌也可指六罐装，是 abdominal 双关的落点",
+      "quote": "What do you call a snowman with a six pack?"
+    },
+    {
+      "value": "three",
+      "meaning": "圣诞老人有三座花园，是为了把 hoe（锄地）重复成 ho-ho-ho 的圣诞老人笑声",
+      "quote": "Why does Santa have three gardens? So he can hoe-hoe-hoe."
+    },
+    {
+      "value": "three",
+      "meaning": "三博士（three wise men）的人数，笑话按金、乳香、没药三样礼物分三段抖包袱",
+      "quote": "I recently met the three wise men."
+    },
+    {
+      "value": "hundreds",
+      "meaning": "倒数日历本是每天开一扇门，买错成滤盆后变成“几百个小孔”，数量差正是笑点",
+      "quote": "the thing I bought had hundreds of tiny holes"
+    },
+    {
+      "value": "Two",
+      "meaning": "天气预报员答“两度”，问句问的是“多冷”与“凭什么资格”，两度既指气温也可指学位，故要对方 clarify",
+      "quote": "He said, ‘Two degrees.’ I said, ‘I’m going to have to ask you to clarify.’"
+    }
+  ]
+}
