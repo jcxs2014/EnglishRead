@@ -44,7 +44,7 @@ modified: "2026-11-01"
 > **原句 5:** "You couldn’t get real close to him with it, it was that fucking hot it would make your eyes sting. And neither would you want to get close to him. They called him the Praxeter, which means “the greatest father,” and I never heard anyone call him another name."
 
 **中文理解**：你没法真的靠近他——那圈冠烫得能把眼睛刺疼，谁也不想凑近他。他们叫他 Praxeter，意思是「最伟大的父亲」，我从没听谁叫过他第二个名字。
-**关键词**：hot it would make your eyes sting / nobody want to get close / the greatest father / another name
+**关键词**：hot it would make your eyes sting / neither would you want to get close / the greatest father / another name
 **为什么这样写**：大祭司的权力用「热辐射」丈量——炽铁冠是行走的界碑，敬而远之的物理距离就是他的权威；「the greatest father」的称号与「没有第二个名字」的排他性并排，教会在此把父权做成了品牌。
 **读者视角提示**：Praxeter 是 Part IV 的终极反派候选——记住「炽冠」与「最伟大的父亲」，他的一切行为都从这两个词里长出来。
 
