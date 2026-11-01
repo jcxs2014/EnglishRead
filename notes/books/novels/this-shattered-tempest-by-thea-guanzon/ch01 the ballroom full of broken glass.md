@@ -176,4 +176,6 @@ modified: "2026-11-01"
 | poison | n. 毒物、毒药 | the majority of the beds were occupied by Iantas’s soldiers, whose injuries were far more grievous, most of whom were wracked by the effects of the poison that had lain the castle’s defenses low |
 | wound | n. 伤口 | “What I need”—every syllable trembled with rage, the dread beast inside him howling—“is to find my wife!” |
 
-## 一句话总结**：内纳瓦伦婚约宴会被刺客袭破，夜帝阿拉里克在满地碎玻璃与碾碎的玫瑰之间杀尽来敌，回头却发现自己的妻子塔拉辛不见了——他拒绝等任何一纸外交程序，踹开城堡大门说，若她今日死去，内纳瓦伦领地将被焚尽，无人生还。
+## 一句话总结
+
+内纳瓦伦婚约宴会被刺客袭破，夜帝阿拉里克在满地碎玻璃与碾碎的玫瑰之间杀尽来敌，回头却发现自己的妻子塔拉辛不见了——他拒绝等任何一纸外交程序，踹开城堡大门说，若她今日死去，内纳瓦伦领地将被焚尽，无人生还。
