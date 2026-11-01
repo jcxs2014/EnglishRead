@@ -1,0 +1,91 @@
+{
+  "chapter": "ch24",
+  "text_file": "text/ch24_chapter_24.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "更衣室里乔穿上藏青羊毛外套，镜中黑眼圈、苍白脸颊斑驳，她看见了却不在意；她说海玻璃心应与 lot twelve 的化石放在一起（One hundred per cent），随后溜进走廊给米米留出打电话的空间——米米正向 Ruth 道谢，并说就算自己再找到它，也很难舍得割爱。",
+      "anchor": "The sea-glass heart belongs with the fossils in lot twelve.",
+      "byte_offset": 212,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "米米一身曼哈顿寒冬装束出门（酷似真毛的白色毛绒围巾配水钻搭扣、及踝摆驼色羊绒大衣、超大玳瑁墨镜），并给出海玻璃失踪的两种解释：Alf 认为是只放肆的鹊鸟干的——当年她的卧室窗大开，玻璃就放在窗下书桌上；或者滑进了地板缝（『没那么有趣，但更可能』）。她当时极其伤心，尽管那只是一块玻璃；她还说当年的 Rushwood 很希区柯克。",
+      "anchor": "My bedroom window was wide open, the sea glass on my desk just below it",
+      "byte_offset": 988,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "米米提议先去吹吹伦敦的风、再回来过下一批拍品，并预告『派对之夜』——『我可能需要一杯很烈的酒』：乔为这段蓄势的故事又怕又盼，盼家秘的结至少松开一半；米米决意不回避任何黑暗，要讲得诚实、残酷、不加粉饰。接着她卖关子说要介绍一个人给乔认识：步行去河边与『她』和 Woody 会合，回程喝茶吃饼干再继续——『你们会一见如故（like a house on fire）』这话总让乔竖起防备。",
+      "anchor": "And the night of the party, for which I might need a very stiff drink.",
+      "byte_offset": 1687,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "两人走上刮风的切尔西街——还不到上午九点，已接着昨晚的进度做完两小时工作；乔想到社交媒体正酸溜溜地揣测：Lordats 为何反常地把完整拍品清单押到预览夜才公布——是吊胃口的公关，还是拍卖尚未就绪的麻烦征兆；难怪她几乎没睡。",
+      "anchor": "holding back the full listings until preview night",
+      "byte_offset": 3059,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "沿 Cheyne Walk 走时米米说『海玻璃的缺失在艺术上反而成立——布置得好的房间总得有点东西略微出格』，并重提乔第一天的说法『真相藏在物件之间的缝隙里』；这话勾出乔掺着负罪感的不安：她当初接下这工作，是因为相信米米对 Granny 的冷落足以开脱这桩瞒骗——可真是这样吗，还是她自私？若第一个早晨就当面质问米米，她的良心本可清白，就不必回避 Granny、也不必陷在 NDA 缚身的秘密里（总想着『再多一条拍品、一段轶事就好』）。",
+      "anchor": "avoiding Granny or caught in an NDA-bound secret",
+      "byte_offset": 4315,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Woody 篇：若过八点下班，Woody 会开车送她回 Harlesden，她总答应得有点太快；她不知自己是否在想象车内那股电流般的东西，也掂量他与『darling Kaia』的认真程度——他的分寸感反而显得可爱；问及 Great-granny Doris，他只笑答『恐怕要踩到米米的地盘了』，被软磨后才吐出一段少年记忆：非常年老的 Doris『皱缩、磨破却被珍视，像一只被爱旧的泰迪熊』；每晚车停她街口，她都觉得探身吻别再自然不过——当然没吻——他打着急速等她安全进门。",
+      "anchor": "the charge in the air as they crawl through traffic to Harlesden",
+      "byte_offset": 6324,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "乔已『溶解』进米米的故事（本章中段综述）：分不清故事何处结束、自己的何处开始，Rushwood 是她醒来想到的第一件事、睡前的最后一件事；工作餐有生蚝、味噌银鳕鱼、鱼子酱、寿司、开心果饼干、Krug 香槟和 Château Latour；几天前与老出版同行 Liv 喝咖啡，只能以『法律原因』搪塞新工作，Liv 一脸不信；室友 Scott（以仙人掌为友）还把怨气便条贴上冰箱门，投诉第二层架上她发霉的食物。米米已宣布她『irreplaceable』；她夜里伴着 Rafe 的歌《Triangle》干活，歌词没给她什么洞见，旋律却钻进了皮肤。",
+      "anchor": "The sky is blue, you hold me, and I’ll hold you, shut it out, babe, pretend we’re two",
+      "byte_offset": 9692,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "两人从 Cheyne Walk 转上切尔西堤岸：焦油味、Albert Bridge 下涌动的泰晤士河、潮泥上啄食的鹬与鸥、冲上岸的轮胎、缆桩、碎陶——『河流的故事用物件讲述』；米米机敏地张望某人后在面河长椅坐下，突然问乔在哪里长大；乔措手不及（来不及撒谎）答『Suffolk』；米米眼中掠过一丝读不懂的神色又消失，问『离海近吗？』——乔后颈一凉（像北海吹来的风），答『不太远』；米米皱眉刚要问『那么是哪里——哦…』，目光越过乔的肩膀亮起来：『啊，她来了！Darling Kaia。』",
+      "anchor": "Were you lucky enough to be near the coast?",
+      "byte_offset": 10849,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Jo ↔ Mimi：雇佣/委托关系——在 NDA 保密下为 Lordats 拍卖目录录制并整理米米的口述史；米米称她『irreplaceable』，每次讲述后米米变轻松，重量却转移到乔身上",
+    "Jo ↔ Woody：同事兼（下班）司机；乔暗生情愫（总『太快』地答应送行、幻想吻别），两人都把话头留在职业轨道上；他每晚打着急速等她安全进门",
+    "Woody ↔ Kaia：恋人（『darling Kaia』，认真程度对乔是未知数）；Kaia 在本章结尾登场——即米米要介绍的『她』",
+    "Jo ↔ Granny：乔正在回避外婆/祖母；她曾相信『米米冷落了 Granny』足以开脱这桩瞒骗，如今自我怀疑",
+    "Mimi ↔ Granny：米米对 Granny 的忽视（文本未言明是谁的 Granny），是乔当初接下秘密工作的理由",
+    "Mimi ↔ Ruth：电话往来，米米向 Ruth 道谢（围绕海玻璃/拍品归属的商议）",
+    "Mimi ↔ Alf（旧事）：Alf 当年判断是一只鹊鸟叼走了海玻璃——他见过一只在附近觅食、bold as brass",
+    "Jo ↔ Liv：老出版同行；早咖啡时乔以『法律原因』拒绝透露新工作，Liv 问出可怕的『Are you okay?』",
+    "Jo ↔ Scott：合租室友（另有两名几乎陌生的室友）；Scott 以仙人掌为友，贴便条投诉她发霉的食物，看她的眼神变得警惕",
+    "Jo ↔ Aisling：cousin，深夜互发趣讯——乔仅存的『自己的生活』之一",
+    "Woody ↔ Great-granny Doris：Woody 的曾祖母；他称追问 Doris 会『踩到米米的地盘』，只给出一段少年记忆：非常年老的 Doris『像被爱旧的泰迪熊』",
+    "Mimi ↔ 她的母亲：Fortnum's 面包黄油布丁『不如她母亲做的』——母亲的手艺是标杆",
+    "Mimi ↔ Rushwood：旧宅与海玻璃失踪之地（当年『Hitchcockian』）；如今荒废，常春藤吞墙、林地在逼近",
+    "Jo ↔ Rafe：反复循环 Rafe 的歌《Triangle》，旋律『钻进皮肤』，有时像与生俱来，有时怕被它逼疯"
+  ],
+  "numbers_dates": [
+    "lot twelve（海玻璃心应归入与化石同列的12号拍品）",
+    "One hundred per cent（乔的附和）",
+    "not yet nine a.m.（出门时刻，已做完 two hours’ work）",
+    "two hours’ work（接着昨晚 session 的进度）",
+    "almost three weeks later（距乔入职的第一天已近三周）",
+    "a couple of days ago（与 Liv 喝早咖啡）",
+    "past eight（过八点下班，Woody 便送她回家）",
+    "three almost-stranger housemates（乔的三名几乎陌生的室友）",
+    "second shelf（冰箱第二层——发霉食物被投诉的位置）",
+    "December（时值十二月，乔本想冬眠的一个月）"
+  ],
+  "turning_point": "米米突然问乔在哪里长大，措手不及的乔吐出『Suffolk』并承认离海不远——米米眼中闪过一丝读不懂的神色，追问被『Darling Kaia』的登场打断。"
+}

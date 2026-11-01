@@ -1,0 +1,124 @@
+{
+  "chapter": "ch22",
+  "text_file": "text/ch22_chapter_22.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "章首拍卖图录（框架）：Lot 11 为 Rafe Saint-Clare 1969年7月手写的歌曲《Triangle》最初歌词，涂写在 Celia Caswell 抬头信纸上；Mimi 多年后这张纸从旧写生本里掉落才被她发现；此歌后由 Rafe 的乐队 the Blue Clouds 发展录制，1972年在美英榜单登顶并高位停留数周。",
+      "anchor": "Lot 11: Rafe Saint-Clare’s handwritten first lyrics to the song ‘Triangle’, July 1969.",
+      "byte_offset": 23,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "登月日清晨：Mimi 等人天亮前拧开 BBC 无线电，屏息听一名男子踏上月球的第一步，觉得人类历史挪动了；Alf 说这是雄鹿长茸期升起的月亮——这比阿波罗11号好懂。",
+      "anchor": "listened, rapt, as a man took the first steps on the moon",
+      "byte_offset": 505,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "距派对还有四晚，Rushwood 忙乱且压着低低的恐慌：帐篷缺杆、玫瑰花坛里有狗粪；Whipple 忙着监收几十把镀金椅，并干巴巴地点出：活动本身多长不要紧，要紧的是事后被人谈论多久——派对应有 afterlife（余响）。",
+      "anchor": "Four sleeps until the party, and Rushwood was a hive of activity, with a low hiss of panic.",
+      "byte_offset": 940,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "筹备各线推进：古董吊灯在 Spitalfields 作坊花大价钱修好、像一颗行星吊上大厅；Doris 雇一小队当地姑娘除尘抛光；Celia 来回巡查香槟杯有无指印、又赶去花园谈花和草莓；Mackie 把草莓催到派对当晚成熟，届时配多塞特奶油装刻花玻璃碗；贵宾房备妥普罗旺斯蛋形薰衣草皂（搁在贝壳里）、泡泡浴、香盐、水壶酒杯、巧克力和精选的书。",
+      "anchor": "Mackie had cleverly nurtured the fruit to ripen for that night",
+      "byte_offset": 1786,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Whipple 在最好的贵宾房（将接待一位保守党知名议员及其情妇）摆弄小画锤，问 Mimi 对房间的直觉；对闯进来找 Lawrence 的 Rafe（赤膊、旧牛仔裤、牛仔帽、挎吉他）解释 “Mimi” 是艺名；Mimi 认真评估后答“完美”，Whipple 反而叫苦“太完美”——所有客房都太精致，需要补 rustic（乡野）气的 vignettes（装饰小品）。",
+      "anchor": "‘Stage name,’ said Whipple to Rafe, then waited for my answer.",
+      "byte_offset": 2737,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Whipple 现场示范 vignette：抓过水壶酒杯、他外套里的银笔、一本薄薄的浪漫诗集、外加 Rafe 耳后的未点香烟摆上梳妆台，讲奇数件数、三角构图，还说“我怪圣三一”；Rafe 忽然来了灵感，从牛仔裤掏出一张纸、抢走 Whipple 的笔涂写并给 “triangle” 一词划线——那纸正是 Celia Caswell 抬头、印着肯辛顿地址的信笺（即章首 Lot 11 的拍品）。",
+      "anchor": "The paper had Celia Caswell’s name printed along the top in a swirly font, her Kensington address.",
+      "byte_offset": 4694,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Rafe 说写了段新和声，要找 Lawrence 在钢琴上“砸出来”（“没什么 Wonder Boy 干不了的”），并顺口透露 Lawrence 一直在花园里帮 Alf 和 Pamela 干活——他父亲的主意；Mimi 因弟妹瞒着她而受伤、觉得被排除在外；Rafe 把纸塞进后裤袋、压压牛仔帽哼着歌离开，歌词纸却掉落在地，Whipple 拾起来交给 Mimi 去归还。",
+      "anchor": "Rafe’s lyrics had missed his pocket",
+      "byte_offset": 6181,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Lawrence 出现在门口（Rafe 已走），听到 Lyme Regis 话题便主动提议“我带 Miriam 去？”；Whipple 最得体地婉拒“离不开始助理”，Lawrence 玩笑式软磨（“我的车是装了轮子的火箭”“保证不飙车”）；Whipple（似乎想到掠食者 Harold）朝 Mimi 挑眉征询，Mimi 快速点头，Whipple 只得放行：捡回化石贝壳好石头、助理别太晚、最好完好无损。",
+      "anchor": "Whipple shot me a raised-brow glance of enquiry. I answered it with a quick nod.",
+      "byte_offset": 9165,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "a": "Whipple",
+      "rel": "雇主/上司——称 Mimi 为 “my assistant”，且已越来越看重她的意见；对外解释 “Mimi” 是艺名",
+      "b": "Mimi"
+    },
+    {
+      "a": "Mimi（艺名）",
+      "rel": "同一人；Lawrence 以本名 “Miriam” 称呼她",
+      "b": "Miriam"
+    },
+    {
+      "a": "Rafe Saint-Clare",
+      "rel": "其乐队；《Triangle》后由该乐队发展并录制，1972年登顶美英榜",
+      "b": "the Blue Clouds"
+    },
+    {
+      "a": "Rafe Saint-Clare",
+      "rel": "随手抓用她的抬头信纸（印肯辛顿地址）写《Triangle》初稿歌词——Mimi 觉得 cheeky",
+      "b": "Celia Caswell"
+    },
+    {
+      "a": "Rafe Saint-Clare",
+      "rel": "好友（Rafe 转述中称 “my friend”）；Rafe 找他想在钢琴上试新和声",
+      "b": "Lawrence"
+    },
+    {
+      "a": "Lawrence",
+      "rel": "受父亲安排，正在花园里帮这两人干活（Mimi 原不知情）",
+      "b": "Alf 与 Pamela"
+    },
+    {
+      "a": "Alf 与 Pamela",
+      "rel": "Mimi 的弟弟妹妹（“my brother and sister”），瞒着她帮花园，令她有被排除感",
+      "b": "Mimi"
+    },
+    {
+      "a": "Lawrence",
+      "rel": "听到化石话题后主动提议带她去 Lyme Regis，坚持得“近乎调情”；Mimi 心跳、指尖发颤，却不敢希望是想要她作伴",
+      "b": "Mimi（Miriam）"
+    },
+    {
+      "a": "Whipple",
+      "rel": "放行前“掠食者 Harold”掠过心头，才向 Mimi 挑眉征询（Harold 本章未出场）",
+      "b": "Harold"
+    },
+    {
+      "a": "Whipple",
+      "rel": "最好的贵宾房将接待这位保守党知名议员及其情妇（本章未出场，只作筹备由头）",
+      "b": "一位 prominent Conservative MP 及其情妇"
+    }
+  ],
+  "numbers_dates": [
+    "Lot 11 —— 拍卖图录批次号（章首框架：Rafe 手写《Triangle》初稿歌词这一拍品）",
+    "July 1969 —— 拍卖目录注明歌词手写时间",
+    "number one / several weeks in 1972 —— 《Triangle》由 the Blue Clouds 录制后在美英榜单登顶并高位停留数周（1972年）",
+    "Apollo 11 —— 本章清晨广播的登月任务（“a man took the first steps on the moon”）",
+    "Four sleeps until the party —— 距派对还有四晚",
+    "dozens of gilt chairs —— Whipple 监督送达的镀金椅数量级",
+    "Always in odd numbers —— vignette 摆件规则：奇数件、三角构图（Whipple 演示）"
+  ],
+  "turning_point": "Lawrence 听到 Lyme Regis 化石话题后主动提议带 Mimi 同去，Whipple 婉拒未成、见 Mimi 点头后放行——两人第一次单独相处成局。"
+}

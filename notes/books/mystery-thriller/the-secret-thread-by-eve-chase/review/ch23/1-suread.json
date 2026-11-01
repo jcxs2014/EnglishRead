@@ -1,0 +1,81 @@
+{
+  "chapter": "ch23",
+  "text_file": "text/ch23_chapter_23.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "章首为拍卖目录框架：Lot 12 是 1969 年 7 月采自多塞特莱姆里吉斯（Lyme Regis）海岸线的化石与石头，含一枚约 1.9 亿年的菊石；注记称『Mimi’s House Sea Glass design, now an iconic small-repeat pattern』的灵感来自同日拾得、『later lost』的一枚心形瓶绿色海玻璃。",
+      "anchor": "Lot 12: Fossils and stones from the coastline around Lyme Regis, Dorset, collected July 1969.",
+      "byte_offset": 23,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "去莱姆的路上 Lawrence 交代帮工缘由：『Only fair since we’ve stolen you』——他父亲觉得好笑，让 Alf 派他上最高的树挂 Mother 的小玻璃灯笼（他称 Terrifying）；Pamela 也让他干活，丢给他修枝剪却不警告棕榈叶缘是利刃，手侧落下一道口子还被当作『War wound, look!』炫耀，并说『It satisfied my father anyway』。Mimi 断定『Harold was a sadist』，并为 Pamela 对此只字未提而刺痛——『an omission that spoke of a growing distance』。",
+      "anchor": "Had Alf send me up the tallest trees to hang Mother’s little glass lanterns. Terrifying.",
+      "byte_offset": 2592,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Lawrence 自陈被期望加入家族生意（『A somewhat less harmonious affair』）；问及生意做什么，他答『Money.』『Or it did. Until my father took the reins.』；父亲的蓝图（『Father’s blueprint for my life』）：扭转生意、替他收拾错误、却又要像他——他不明白这如何两立；母亲则『just insists I marry well and soon』；他说『I’m destined for other things, Miriam』，Mimi 以母亲那套『上帝的粉笔板会擦掉重写』打趣宽解。",
+      "anchor": "Turn the business around. Mop up his mistakes. But be like him.",
+      "byte_offset": 5445,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "车内聊到婚嫁与爱情：Mimi 问『She likes Margo?』，Lawrence 惊讶她点出女友名（glances over, surprised），答『Loves her』；Mimi 谎称『That’s wonderful,』、自觉切破两人默契放进了太多现实，后悔提起 Margo；随后她自陈家里预期『work as gardeners, marry gardeners』、并宣称自己不会结婚（『I just don’t see why I’d ever want to.』），Lawrence 一句『Ah, you’ve never been in love, then.』收尾——车正好停进海滩车位。",
+      "anchor": "I lied, having cut into the silky conspiracy of the moment and let in too much reality. I regretted mentioning Margo.",
+      "byte_offset": 5964,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "海滩上 Lawrence 跪在水边举起一枚『the size of a shilling』、蜷曲如秘密的菊石（先说世上最大蛾化石三年前在此出土，打赌那枚比这枚小菊石更壮观），递给 Mimi——她接过、低声念『Am-mon-ite』、在裙上擦干并与其他石头一起收进纸袋；他讲菊石得名于希腊羊角神 Ammon，随后又从浅水里捞出一枚心形翠绿海玻璃递给她——她自知会终生珍藏，把莱姆这一天封存在其中。",
+      "anchor": "drew out a sliver of emerald-green sea glass, shaped like a heart",
+      "byte_offset": 8175,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "插叙出发时一幕：Lawrence 与 Mimi 驱车离开时望见 Pamela 与 Mackie 在草坪上踱步，Lawrence 倒车喊『Pamela!』并邀她搭车；Pamela 认出副驾上的 Mimi，沉脸质问『Miriam, what on earth are you doing in that dress?』，随即干脆拒绝——点明自己在工作、『madly busy for the party』，暗讽 Mimi 不然；车开走时她立在原地望着、Mimi 挥手她未回挥；Mackie 退后几步、双手插在短裤兜里，像学童般艳羡那辆银色敞篷——『It beat his Reliant Robin』。",
+      "anchor": "She stood very still, watching, her expression unreadable. I waved. She didn’t wave back.",
+      "byte_offset": 9784,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Lawrence 眼睛半睁提议：『Hardly anyone around. If we stripped and ran in』——Mimi 在冲动与一连串顾忌间摇摆（想象 Pamela 嘶声叫 Miriam、父亲的拳头、『Whipple, who’d taken a punt on me, firing me on the spot』、Margo、Celia）；Lawrence 随即尴尬收回——『Let’s pretend I didn’t suggest it and grab lunch before we head back』；Mimi 跳起身，自知往后会一遍遍折磨自己：如果当时赤身奔进大海会怎样。",
+      "anchor": "If we stripped and ran in",
+      "byte_offset": 12952,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "收尾：一阵风掀起 Mimi 自制棉裙的下摆，露出她与 Pamela 缀在裙上的姓名首字母——那一天缝进裙里的心绪已『A lifetime ago. I wasn’t that girl any more』；握着温热的海玻璃心她知道自己回不去了；Lawrence 慌乱间夸她『you look beautiful in it』，两人把炸鱼薯条残骸包进油报纸——『Parcelling up the day』，把这一天的全部野心思绪重新包好收拢。",
+      "anchor": "Parcelling up the day, all the wild feelings, until they were contained once more.",
+      "byte_offset": 15231,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Mimi（Miriam）Bramley ↔ Lawrence：互生情愫、『simply being understood』的海边一日；Lawrence 另有女友 Margo（Mimi 点名时他惊讶、答『Loves her』），Mimi 以谎掩饰并后悔提起。",
+    "Pamela ↔ Mimi：姐妹——同一条裙上缝着两人的姓名首字母；Pamela 未提及差遣 Mimi 帮工令 Mimi 刺痛（『an omission that spoke of a growing distance』）；海滩拒同车、不回挥手，神情『unreadable』。",
+    "Lawrence ↔ Harold（其父）：父亲觉得让 Lawrence 上树挂灯笼、替 Pamela 打下手的安排『seemed to find it amusing』（Mimi 判『Harold was a sadist』）；生意蓝图压顶——『Turn the business around. Mop up his mistakes. But be like him.』",
+    "Lawrence ↔ 其母：『Mother just insists I marry well and soon』；他打趣若能生出『four grandchildren, two girls … two boys』她该会满意。",
+    "Alf & Nancy：Mimi 家的双胞胎（Lawrence 挨个数 Bramley 家儿女时问『What about Alf?』，并说『twins are different, aren’t they?』，Mimi 答『They don’t really need anyone else』）；帮工时是 Alf 奉 Harold 之命派 Lawrence 上树。",
+    "Pamela ↔ Mackie：被预期的婚配——『Pamela’s destined to marry a Mackie sort』『Hopes are high』；本章两人同在草坪，Mackie 的座驾 Reliant Robin 被银色敞篷比下去。",
+    "两家身份：Mimi 家 = Bramley（Lawrence：『We’re lucky to have found you Bramleys』『I have no idea how any of you Bramleys survive the day』）；Lawrence 家 = Caswell（Mimi 想到家中 pressured 时期『a Caswell among them』即指他）。",
+    "次要提及：Whipple（『who’d taken a punt on me』、Mimi 想象裸泳被其当场开除——似有雇佣/提携关系）；Celia（裸泳顾忌名单之一）；Rafe（向 Mimi 提过 Lawrence 帮工一事；海玻璃被她比作『Rafe’s guitar plectrum』）。"
+  ],
+  "numbers_dates": [
+    "Lot 12（章首拍品编号）",
+    "collected July 1969（化石采集年月，章首逐字）",
+    "an ammonite approximately 190 million years old（章首逐字：菊石年代）",
+    "turned up here three years ago（逐字节选：世上最大蛾化石在此出土距今三年，相对叙述时点）",
+    "the size of a shilling（Lawrence 捞起递给 Mimi 的菊石大小）",
+    "produce four grandchildren, two girls … and two boys（逐字节选：Lawrence 打趣的理想儿孙构成）"
+  ],
+  "turning_point": "Lawrence 半睁着眼提议两人脱光跑进海里（『If we stripped and ran in … ?』）又在尴尬中收回（『Let’s pretend I didn’t suggest it』），Mimi 跳起身、自知将终生回想『如果当时奔向大海会怎样』——全章蓄满的欲望在临界点被按下，与结尾两人把这一天『Parcelling up … contained once more』互为呼应。"
+}
