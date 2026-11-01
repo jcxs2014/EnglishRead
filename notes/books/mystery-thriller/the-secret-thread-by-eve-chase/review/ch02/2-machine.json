@@ -1,0 +1,160 @@
+{
+  "chapter": 2,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch02 jo chelsea london five weeks later.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch02_chapter_2.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Jo plucks out her AirPods and checks the building number against the improbable address on her phone; the email, read so",
+          "ok": true,
+          "pos": 44
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Mimi Mott is both tinier than expected and larger than life. Pin-thin, a paparazzo snap made flesh. Pinterest boards, Go",
+          "ok": true,
+          "pos": 3917
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Only then does it strike Jo, with a breath-stealing jolt, that Mimi Mott’s hornet’s nest of a past probably shouldn’t be",
+          "ok": true,
+          "pos": 5921
+        }
+      ],
+      "words": 27
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 12,
+        "为什么这样写": 107,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.21,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 88,
+        "关键词": 26,
+        "为什么这样写": 130,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.23,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 22,
+        "为什么这样写": 122,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.26,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "02. Jo: Chelsea, London, five weeks later",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 3,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 3,
+    "quote_long": 0,
+    "segments": 3,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1017,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": "块数 3 偏离本书常见区间 4–10（本书 51 章中位 7、最高 13（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

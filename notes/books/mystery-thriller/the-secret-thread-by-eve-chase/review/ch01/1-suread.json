@@ -1,0 +1,78 @@
+{
+  "chapter": "ch01",
+  "text_file": "text/ch01_chapter_1.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "八卦专栏披露：室内设计女王 Mimi Mott 宣布出售其传奇宅邸，并即将举办个人纪念品拍卖会 A Life in Objects，引发藏家与八卦版热议",
+      "anchor": "interiors queen Mimi Mott is selling her legendary estate",
+      "byte_offset": 142,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Mott 承认丈夫去世一年多以来，她几乎没离开过自己在 Upper East Side 的公寓",
+      "anchor": "she has barely left her Upper East Side apartment since her husband died",
+      "byte_offset": 470,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Mott 宣布下周将移居伦敦",
+      "anchor": "She decamps to London next week",
+      "byte_offset": 565,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Mott 称旧生活已经结束，打算借这次拍卖（a car boot sale of house and heart）把一段人生的浮华处理掉，并最终亲口讲出自己的故事",
+      "anchor": "finally tell my story",
+      "byte_offset": 688,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Mott 靠品牌 Mimi's House 成名并赚到财富——该品牌之于八十年代室内设计，犹如 Biba 之于六十年代时装",
+      "anchor": "Mott made her name – and her fortune – with Mimi",
+      "byte_offset": 943,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Mott 终身收藏中的重要艺术品、稀有织物与家具将去向博物馆及公共机构；而她亲自策展的私人物件（她自称 Just stuff）被认为将揭开她一生的真相、终结多年的猜测与流言",
+      "anchor": "destined for museums and public institutions",
+      "byte_offset": 1389,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "拍卖会 A Life in Objects 将由 Mayfair 精品拍卖行 Lordats 主持，收益捐给慈善机构，12 月有一场预展派对",
+      "anchor": "A Life in Objects will be hosted by boutique Mayfair auctioneer Lordats",
+      "byte_offset": 1648,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Mott 告诉 @AroundTown 的内线：她还需要一位伦敦的 Girl Friday，帮她决定什么放进拍卖、什么排除在外、以及什么要藏起来",
+      "anchor": "I also need a Girl Friday in London",
+      "byte_offset": 1934,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Mimi Mott 是寡妇：丈夫已于一年多前去世（原文：her husband died more than a year ago）。",
+    "Mimi Mott 是以 Mimi's House 品牌起家的室内设计女王、为名流做装饰的设计师（decorator to the stars）。",
+    "本章全文是专栏 The Londoner @AroundTown 的报道，Mott 的引语是她对该专栏内线（@AroundTown's insider）所说。",
+    "Lordats 是承接 A Life in Objects 拍卖会的 Mayfair 精品拍卖行（与 Mott 是委托拍卖关系）。"
+  ],
+  "numbers_dates": [
+    "1 October 2024",
+    "more than a year ago",
+    "next week",
+    "eighties interiors",
+    "sixties fashion",
+    "late-twentieth-century",
+    "December preview party"
+  ],
+  "turning_point": "结尾 Mott 公开宣布旧生活已终结、要 finally tell my story，并招募一位伦敦 Girl Friday 帮她决定什么放进、什么排除、什么藏起来——拍卖会由此成为撬动她一生秘密的引信（对应 facts 第 4、8 条）。"
+}

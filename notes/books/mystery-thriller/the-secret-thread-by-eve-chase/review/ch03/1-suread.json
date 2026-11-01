@@ -1,0 +1,86 @@
+{
+  "chapter": "ch03",
+  "text_file": "text/ch03_chapter_3.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Jo 把一绺不听话的头发别到耳后，走进高大的双开门、深入 Mimi 的世界——她认定这是把当年错事归位的唯一机会，并打定主意「You've got this」。",
+      "anchor": "Stalling, Jo stows a misbehaving hank of hair behind her ear, then steps through the tall, panelled double doors.",
+      "byte_offset": 19,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Mimi 招手请 Jo 坐上苔绿色天鹅绒沙发并打趣她的头发与沙发撞色；Ruth 端来饮料和姜味薄饼干，Woody 一边打手机一边大步经过客厅门口。",
+      "anchor": "Ruth appears with a tray of drinks and a scalloped plate of wafer-thin ginger biscuits.",
+      "byte_offset": 1794,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Mimi 向 Jo 致谢，说她偏爱老式信件——这封信是 Jo 经 Lordats 寄出的求职信，她本指望靠它抬升自己打零工的杂乱履历（小出版社编辑、文案、侍应、园艺、Liberty 售货）。",
+      "anchor": "I’m a sucker for an old-fashioned letter.",
+      "byte_offset": 2526,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Mimi 亮出底牌：Lordats 轰炸式推荐的人里她已试用过三个、快没得选了，Jo 的信来得正是时候——Jo 听到「三个」时笑容一僵。",
+      "anchor": "I’ve trialled three.",
+      "byte_offset": 4967,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Mimi 定下节奏并圈定重点：预展之夜在 12 月 5 日、次日上午网拍开拍；美国年代拍品 Lordats 已备好图录条目，而她坚持要用英伦年代的物件讲出自己在英格兰的 origin story，不肯让步。",
+      "anchor": "The preview night is December the fifth. The online auction kicks off the next morning.",
+      "byte_offset": 5335,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Mimi 要求 Jo 签署 NDA（non-disclosure agreement，预展夜前不得提及本次会面与后续工作，自称「I've been burned before」）；Jo 犹豫后同意签字，并意识到这意味着她不能告诉家人。",
+      "anchor": "she can’t tell her family.",
+      "byte_offset": 7256,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Mimi 起身递手送客，说「Woody will be in touch」；Jo 本已到嘴边的自报家门咽了回去，决定暂不亮明自己是谁、先赢取 Mimi 的信任，并意识到自己非常想要这份工作。",
+      "anchor": "Woody will be in touch",
+      "byte_offset": 12643,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Jo 被关门前最后一搏，以 @AroundTown 文章为引说出「Nothing is just stuff」，讲记忆如琥珀中的生物栖居于物件、真相也存在于事物的空缺之间；Mimi 心念一转，转身大步走开又回头叫 Jo 跟她走。",
+      "anchor": "Well, come on, then. Follow me.",
+      "byte_offset": 14831,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Jo O'Mara：本章视角人物，28 岁、经济拮据的求职者，经 Lordats 寄信求得与 Mimi 会面，想应聘为其「A Life in Objects」拍卖图录撰写故事。",
+    "Mimi Mott：名流装饰师、Mimi's House 创始人（九十年代把公司卖给奢侈品集团），丈夫已故、如今独居英国宅邸，是本次面试的拍板人。",
+    "Woody：Mimi 的贴身助手/门卫式人物，负责迎送客人并传达「Woody will be in touch」，Jo 怀疑他一直守在门外。",
+    "Ruth：Mimi 宅内的服务人员，端上饮料与姜味薄饼干。",
+    "Callum：Jo 的前任伴侣（「post-Callum」后 Jo 落魄到靠铁丝衣架冲水的分租屋）。",
+    "Elliot Whipple：1971 年 Mimi 协助过的社会名流装饰师（长岛住宅项目），是 Mimi 职业起点。",
+    "Mimi 的亡夫：生前不爱久居英格兰；客厅相框里戴棒球帽、立于游艇「Mimi」旁的老者被 Jo 猜为其人，Mimi 亲手把相框摆正。",
+    "Jo 与 Mimi：Jo 有意隐瞒自己的真实身份与来意（此行是为「put right what once went terribly wrong」），Mimi 并不知道她是谁；父系爱尔兰的姓氏 O'Mara 是 Jo 需要绕开的雷区话题。"
+  ],
+  "numbers_dates": [
+    "1971（Mimi 出现于 Long Island，协助社会装饰师 Elliot Whipple）",
+    "1976（East Village 公寓厨房桌上印花布）",
+    "Studio 54（Mimi 的昔日社交场合）",
+    "Mid-eighties（Midtown 工作室，Mimi 带小团队画设计稿）",
+    "The nineties（Mimi 把 Mimi's House 卖给奢侈品集团）",
+    "Fifth Avenue（Mimi 挎 Birkin 步行其上）",
+    "twenty-eight（Jo 的年龄：At twenty-eight, she's skint, single and unimportant）",
+    "three（Mimi 已试用的 Lordats 助手人数：I've trialled three.）",
+    "December the fifth（预展之夜：The preview night is December the fifth.）",
+    "Less than a month.（Jo 心算的备展时间）",
+    "four-year-old（Jo 那台四年的旧笔记本是她最贵的财产）"
+  ],
+  "turning_point": "面试已到送客时刻（「Woody will be in touch」），Jo 最后一搏说出「Nothing is just stuff」——记忆栖居于物件、真相也藏在空缺里，Mimi 被说动，转身叫 Jo「Follow me」，会面由婉拒翻盘为带她继续深谈（对应 facts 第 8 条）。"
+}

@@ -1,0 +1,81 @@
+{
+  "chapter": "ch02",
+  "text_file": "text/ch02_chapter_2.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Jo 到达切尔西一栋联排宅前，把门牌号与手机里那封邮件上的地址反复核对。",
+      "anchor": "checks the building number against the improbable address on her phone",
+      "byte_offset": 84,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Jo 走上台阶、心跳加速地按响门铃，自报姓名与来意：Jo O'Mara，来应征助理职位。",
+      "anchor": "‘Jo O’Mara, here about the assistant job?’",
+      "byte_offset": 1821,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "对讲机里一个女声回应，说 Jo 甚至没迟到三十秒，并让她上一楼。",
+      "anchor": "‘And not even thirty seconds late.’ A woman’s voice.",
+      "byte_offset": 1923,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "一名壮硕男子开门向 Jo 道早安，自称 Woody 并请她进屋。",
+      "anchor": "‘I’m Woody. Come in.’",
+      "byte_offset": 2954,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Mimi Mott 本人现身，大步朝 Jo 走来。",
+      "anchor": "There. She. Is.",
+      "byte_offset": 4079,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Mimi 朝 Jo 微笑打招呼，与她快速而有力地握手，让她别叫 Ms Mott、直接叫 Mimi。",
+      "anchor": "‘Mimi, please.’ Her handshake is quick, firm, her skin surprisingly soft.",
+      "byte_offset": 5283,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Woody 问 Jo 要咖啡还是水、替她定了水，并问 Mimi 是否照旧（her usual），说他去告知 Ruth。",
+      "anchor": "‘Coffee?’ Woody asks. ‘Water? Water it is. Mimi, your usual? I’ll let Ruth know.’",
+      "byte_offset": 5644,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Mimi 招呼 Jo 到里屋谈话（不是问句）；Jo 随即心头猛地一震，意识到 Mimi 的过往是个不该戳探的马蜂窝——最不该由她本人来戳。",
+      "anchor": "that Mimi Mott’s hornet’s nest of a past probably shouldn’t be prodded. Least of all by herself.",
+      "byte_offset": 6241,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Jo O'Mara：前来 Mimi Mott 宅邸应征助理（assistant job）面试的年轻女性，此前对 Mimi 做过大量背景搜索。",
+    "Mimi Mott：宅邸主人，年约七十五上下的名流（cult arthouse 纪录片《Mimi's Rooms》的主角），是 Jo 的面试官/潜在雇主。",
+    "Woody：替 Mimi 开门迎客的壮硕男子（Jo 猜他可能是保镖），负责接待——迎宾、接外套、安排饮品，直呼 Mimi 的名字。",
+    "Ruth：宅内的后勤人员（Woody 说 I'll let Ruth know；Jo 随后瞥见黑裙、持扫帚的背影），与 Jo 同属她眼中的 backroom staff。",
+    "Woody 与 Mimi 同处一宅、以名字相称并替她张罗饮品，属主仆/共事关系；Jo 与两人此为初次见面。"
+  ],
+  "numbers_dates": [
+    "章号标记：2（正文前标题区，另有提取件首行的 c2N）",
+    "Jo: Chelsea, London, five weeks later",
+    "Only three stone steps separate them now",
+    "six whatever-poos",
+    "fifty-pound note",
+    "And not even thirty seconds late",
+    "First floor",
+    "mid-thirties（Woody）",
+    "mid-seventies（Mimi）"
+  ],
+  "turning_point": "Jo 随 Mimi 往里屋走的当口猛然意识到：Mimi 的过往是个不该戳探的马蜂窝，最不该由她本人来戳（事实 8）——本章由追星式的期待上门面试，转为对这份工作暗藏危险的警觉。"
+}
