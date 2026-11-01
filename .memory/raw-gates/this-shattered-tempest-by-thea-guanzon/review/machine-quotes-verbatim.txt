@@ -1,0 +1,63 @@
+00_概述.md: 11/11 ✅
+00_金句精选.md: 25/25 ✅
+ch01 the ballroom full of broken glass.md: 12/12 ✅
+ch02 the figure behind the glass.md: 11/11 ✅
+ch03 the hunting lodge approached from behind.md: 13/13 ✅
+ch04 the shadowgate on the red mountain.md: 8/8 ✅
+ch05 two ships peel away from the silklands.md: 7/7 ✅
+ch06 the deliverance returns to port.md: 9/9 ✅
+ch07 the wolf and the outrigger.md: 4/4 ✅
+ch08 the roof of heaven on high alert.md: 8/8 ✅
+ch09 iantas in lockdown.md: 9/9 ✅
+ch10 sticky rice and a bad day.md: 6/6 ✅
+ch11 the eagle from surakwel.md: 9/9 ✅
+ch12 daya rasmey and the withdrawal.md: 10/10 ✅
+ch13 supper in the officers mess.md: 9/9 ✅
+ch14 the whirlwind dream of childhood.md: 10/10 ✅
+ch15 a decade since the last lady maid.md: 8/8 ✅
+ch16 khaede in the citadel.md: 7/7 ✅
+ch17 a garden and a dead end.md: 10/10 ✅
+ch18 out of the long shadow.md: 6/6 ✅
+ch19 a doomed love in the citadel.md: 11/11 ✅
+ch20 council chamber cracks.md: 9/9 ✅
+ch21 a lunch and a wedding ring.md: 10/10 ✅
+ch22 talasyn confesses to khaede.md: 8/8 ✅
+ch23 the great bight parade.md: 9/9 ✅
+ch24 the man with the cheroot.md: 10/10 ✅
+ch25 no mass execution.md: 10/10 ✅
+ch26 what alaric had always held on to.md: 9/9 ✅
+ch27 the sariman cage.md: 10/10 ✅
+ch28 the stormship bridge.md: 10/10 ✅
+ch29 did it actually work.md: 7/7 ✅
+ch30 the catamaran at mahagirs rest.md: 10/10 ✅
+ch31 the loss of daylight.md: 11/11 ✅
+ch32 bakun draws itself up.md: 7/7 ✅
+ch33 riding the world eater.md: 11/11 ✅
+ch34 the shadowgate question.md: 8/8 ✅
+ch35 the rush of feeling.md: 7/7 ✅
+ch36 iyaram of the dominion court.md: 12/12 ✅
+ch37 the eclipse in the barracks.md: 7/7 ✅
+ch38 the ivralis eastern gate.md: 9/9 ✅
+ch39 bakun waiting in the sunlight.md: 5/5 ✅
+ch40 was it my fault.md: 10/10 ✅
+ch41 talasyn glanced at surakwel.md: 10/10 ✅
+ch42 what they had turned each other into.md: 6/6 ✅
+ch43 the seven moons in the marble halls.md: 8/8 ✅
+ch44 the vanished void stormships.md: 11/11 ✅
+ch45 the parsua on the sardovian frequency.md: 6/6 ✅
+ch46 the exalted.md: 6/6 ✅
+ch47 several titles for regent gaheris.md: 5/5 ✅
+ch48 the mind defying time.md: 5/5 ✅
+ch49 the chimeras and gaheris.md: 6/6 ✅
+ch50 the hukteras three day voyage.md: 6/6 ✅
+ch51 the amirante and the nenavarene regiments.md: 5/5 ✅
+ch52 the vigil at talasyns bedside.md: 5/5 ✅
+ch53 there had been a war here.md: 6/6 ✅
+ch54 the emperor before the peace talks.md: 8/8 ✅
+ch55 a sky of spun gold.md: 6/6 ✅
+ch56 epilogue five years later.md: 12/12 ✅
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 503/503 引文可核实（100%）；完全干净文件 58/58；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
