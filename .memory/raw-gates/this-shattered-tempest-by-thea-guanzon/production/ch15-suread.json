@@ -1,0 +1,55 @@
+{
+ "book": "this-shattered-tempest-by-thea-guanzon",
+ "chapter": "ch15",
+ "text": "notes/books/novels/this-shattered-tempest-by-thea-guanzon/text/ch15_chapter_fifteen.txt",
+ "facts": [
+  {
+   "fact": "阿拉里克告诉塔拉辛这座宫殿十年没用过女侍，他已让诺尔达耶面试仆役，挑了会梳头的埃丽丝。",
+   "anchor": "A decade has gone by since we last had need of a lady’s maid here,",
+   "start": 45,
+   "end": 111
+  },
+  {
+   "fact": "塔拉辛靠这句卑顺的应答才认出、也才敢确认眼前的女侍是凯德。",
+   "anchor": "It was Khaede’s voice, but couched in subservience.",
+   "start": 1576,
+   "end": 1627
+  },
+  {
+   "fact": "阿拉里克一走，塔拉辛才垮下肩膀，在宽慰与惊愕交缠里确认凯德并没有死。",
+   "anchor": "Only once he left did she let her shoulders slump.",
+   "start": 2253,
+   "end": 2303
+  },
+  {
+   "fact": "凯德只答孩子是男孩、长得像父亲、远在他乡且平安。",
+   "anchor": "“A boy,” Khaede said.",
+   "start": 4465,
+   "end": 4486
+  },
+  {
+   "fact": "凯德因塔拉辛脱口直呼夜帝本名，讥她说话像个通敌者。",
+   "anchor": "Spoken like a true collaborator.",
+   "start": 5827,
+   "end": 5859
+  },
+  {
+   "fact": "凯德转述维拉的判断：塔拉辛已被策反，依据是她坚持留奥西纳斯特一命。",
+   "anchor": "The Amirante fears that you’re compromised.",
+   "start": 8138,
+   "end": 8181
+  },
+  {
+   "fact": "加赫里斯微笑着夸阿拉里克干得好，阿拉里克由此断定父亲与夺走光织脱不了干系。",
+   "anchor": "You have done well, Emperor.",
+   "start": 13647,
+   "end": 13675
+  },
+  {
+   "fact": "加赫里斯用「神明会从意想不到之处送来帮助」回避血清从何而来的追问。",
+   "anchor": "You would be surprised, Your Majesty,",
+   "start": 14757,
+   "end": 14794
+  }
+ ]
+}
