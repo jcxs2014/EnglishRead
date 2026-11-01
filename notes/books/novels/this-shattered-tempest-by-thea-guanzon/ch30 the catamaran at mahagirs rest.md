@@ -9,13 +9,13 @@ modified: "2026-11-01"
 - **一句话概括**：双体船载着塔拉辛与凯德逃离马哈吉尔憩地，登上米祖尔余烬领主的浮空堡垒尤兰特号；她带着「我犯了一个错」的悔意随盟军南下，中途被派回内纳瓦伦求兵，却在海岸线前转向巴昆的巢穴，去寻回被封住的以太术。
 - **情感弧线位置**：这是整章唯一一段长时间的独处。情绪先是被抽空（说不出话、只是跟着走），中段被战局与庆典般的新舰压住，末段转成一种以绝望为形状的决心——不是振作，是把希望当成最后一根可以抓的稻草。
 - **Tropes 兑现/反转**：兑现「战后归队」却把它写成一场失礼的重逢：功臣该得的热情，她给不出；兑现「敌军将领冷酷」，却让那位敌将在同一天选择放她们走；反转「为爱奔赴」——她确实改了航向，但动机是保住让丈夫活下去的谈判筹码。
-- **人物弧线**：她整个章节都在被安排（被撤离、被护送、被派回内纳瓦伦），直到最后一页才第一次自己动方向盘；可这次自主建立在疲惫、恐惧与心碎之上，因此更像逃亡的变体。
+- **人物弧线**：她整个章节都在被安排（被撤离、被护送、被派回内纳瓦伦），直到最后才自己动方向盘；可这次自主建立在疲惫、恐惧与心碎之上，因此更像逃亡的变体。
 - **叙事手法**：叙事全程贴在塔拉辛的知觉里，外部战局只靠对话与舷边远望补足；短句「I made a mistake.」与「Come back.」像节拍器反复插入长段叙述，把散文切成心跳，也让读者的呼吸跟着她一起乱。
 
 ## 精读
 > **原句 1:** "The Deliverance hung in the sky like a reckoning. But the Sardovian crew were veterans of the Hurricane Wars and they knew when to zigzag against the wind and when to unfurl the sails to catch it. Before long the vessel had torn itself free of the gale and was speeding over the Eversea, toward its rendezvous point with the allied fleet."
 
-- **中文理解**：开篇先给天上一个判决：拯救号悬在那里，像一场清算。可萨多维亚船员不抬头看它，他们只看风——什么时候迎风折线，什么时候把帆张满去接住那股风。船不是凭蛮力脱身，是凭「知道什么时候」。
+- **中文理解**：第一块先把天上摆成一个判决：拯救号悬在那里，像一场清算。可萨多维亚船员念的是另一套本事——飓风之战的老兵，知道什么时候迎风折线，什么时候把帆张满去接住那股风。船不是凭蛮力脱身，是凭「知道什么时候」。
 
 - **关键词**：veterans of · rendezvous point · allied fleet
 
@@ -39,7 +39,7 @@ modified: "2026-11-01"
 
 - **关键词**：completely blameless · Oryal Ferasai · his Enchanters
 
-- **为什么这样写**：两个「He could have chosen not to」排成一份清单，指控被写得像法庭记录。清单越冷静，读者越难继续站在同情那一边；而作者偏偏在前一段刚替他把话说圆。叙述在这里拒绝让任何一方拿到全称的正义。
+- **为什么这样写**：「Logic demanded that it be acknowledged」把一件感情事改写成举证义务：理性要求她承认这一条。紧接着的「He could have chosen not to」是一份清单的起头——指控被写得像法庭记录。而这份清单落下之前，叙述才刚替他把话说圆，于是读者被留在两种判决之间。
 
 - **读者视角提示**：「conspire」与「devised」挨在一起值得留意：血清不是「用」的，是「配制」出来的。一个动词把阴谋挪进实验室，冷却了整件事的温度——她面对的不是情敌，是配方。
 
@@ -69,7 +69,7 @@ modified: "2026-11-01"
 
 - **关键词**：mere candle · gone unscathed · vanished forever
 
-- **为什么这样写**：蜡烛对烈日，是一个刻意不对等的比喻。作者借此承认她的偏心：战略上的好消息，比不上他活着。紧接着的一句把立场钉死——两人再次站在对立面，于是这份庆幸天生带罪。
+- **为什么这样写**：蜡烛对烈日，是一个刻意不对等的比喻。作者借此承认她的偏心：战略上的好消息，比不上他活着。「gone unscathed」这个词组也不轻——毫发无伤，好像那艘船是需要被保佑的东西；她的庆幸因此从一开始就带着罪。
 
 - **读者视角提示**：这一句里有两个「hope」，却不是同一种东西：前一个属于战争，后一个属于婚姻。作者把它们塞进同一句里比大小，等于把秤交给读者。
 
@@ -91,7 +91,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：三个身份被挤进同一句：求人者、丧母的女儿、刚背叛丈夫的人。破折号把「杀母之仇」硬塞进称谓中间，读的时候必须绕过去；绕的这个动作，就是她的迟疑本身。
 
-- **读者视角提示**：「which the Zahiya-lachis had been training her for」这一句最冷：背叛被写成一门被教出来的技艺。她不是失手，是学成了——于是后文那个转向，多少带一点自罚的味道。
+- **读者视角提示**：「which the Zahiya-lachis had been training her for」这一句最冷：背叛被写成一门被教出来的技艺。她不是失手，是学成了——于是她随后改掉的那个航向，多少带一点自罚的味道。
 
 > **原句 9:** "One of the Dominion archipelago’s Severs had activated. Rather than the column as bright and molten as sunbeams that she’d been thinking of, plumes of violet magic wafted out from Aktamasok, the highest peak on the island of Vasiyas, beneath which Bakun lay sleeping, breathing out his song of rot."
 
