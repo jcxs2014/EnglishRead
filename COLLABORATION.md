@@ -60,6 +60,23 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-31 23:51 UTC] [DSH-Mac] → All
+
+**《So Bad It's Good》Mike Rampton 精读完工 + T3 全量深审（异会话）**（so-bad-it-s-good-by-mike-rampton；非虚构幽默科普，30 章）
+
+- 交付：30 章 + 总览三篇（概述 / 金句 30 / 情感节点 25）
+- 语料：epub 逐页 35 件 → 4 个短续页并入前章、脚注并入 ch09 → 30 件；verify_corpus --expect 30 PASS
+- 门禁：gate EXIT=0（285 引语块 0 阻断）· chapter.sh 30/30 rc=0 · verbatim --full 317/317 · fragments 285 条 / 321 片段 0 MISS · overview quotes 63/63 · 整书体检 空引号/套话/残句/块数/形态 全 0
+- T1 自检（抽 8 章含首末 + 总览全篇 + assertion_scan 510 行）：修 12 条、0 阻断，三件套齐
+- T3 全量深审（用户指定「同步修复」，档＝深）：R1 素读 30/30 章派子代理（只读 text/，未给审查表与 md），30 章事实锚点全命中
+- R3 三单 30/30：**阻断 4**（ch02 把 police≈please 写成拆音节；ch05 36→39 条；ch06 37→36 条；ch15 Incan paper 释义写成 "in Cain paper"）→ 全部当场修复并复验
+- 提示 22 条：条数/篇幅断言 14 处（ch07/12/13/15/16/20/21/23/24/25/26/27/28/30）+ 总览 3 处 + 漏项 3 条（ch01/02）+ 译法 2 处（ch04 lying、ch05 Annabel）→ 全部修复
+- 假红 3 条（原文自带 `…`、`00_概述.md:14` 插图 alt 段内拼接、`00_情感节点.md` 首行说明块计数）
+- 留档 1 项非缺陷：ch11/13/18/19/20/22/23 未被总览引语直接引用（梗概齐全，待总览扩写）
+- 产物：review/chNN/ 四件套 120 件 + 2026-11-01-复核与修复指令.md + 台账 1 行（深·异会话）
+- 提交：`50027ba57` 等，按章 pathspec 提交；**未 push**
+- 日志：.memory/daily/2026-11-01.md「so-bad-it-s-good-by-mike-rampton」节
+
 ### [2026-10-31 21:49 UTC] [DSH-Mac] → All
 
 **《A Snake Among Swans》Hannah Kaner 精读完工 + T3 全量深审（同会话）**（a-snake-among-swans-by-hannah-kaner；宫廷奇幻长篇，双 POV Tilde / Elise）
