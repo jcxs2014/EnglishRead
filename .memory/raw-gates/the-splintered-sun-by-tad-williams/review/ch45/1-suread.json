@@ -1,0 +1,58 @@
+[
+ {
+  "fact": "Daley 转述 Vedra 的话：必须穿过 Glennafar 峡谷再前往 Greenwrack 沼泽，众人为此争执不下。",
+  "anchor": "It’s a long, narrow gorge between the Greenwrack and the Silverway",
+  "start": 377,
+  "end": 443,
+  "type": "event"
+ },
+ {
+  "fact": "Ewain 王子反对走这条路，称 Greenwrack 沼泽是旅行者的坟场，并要导师 Rumon 别沉默。",
+  "anchor": "But surely it would be madness for us to go anywhere near the Greenwrack",
+  "start": 546,
+  "end": 618,
+  "type": "event"
+ },
+ {
+  "fact": "Rumon 告诉 Daley：家人不是神起初给的，而是路上寻到并聚拢来的；Daley 回说 Vedra 并非亲姐姐。",
+  "anchor": "Families aren’t always what the gods give us to start with, but what we find and gather to ourselves",
+  "start": 4369,
+  "end": 4469,
+  "type": "relation"
+ },
+ {
+  "fact": "Bellicent 在儿子营中形同囚徒，见远处一顶孤帐，是百 cubits 之内除 Scaeth 帐外唯一的东西。",
+  "anchor": "the only thing within a hundred cubits of the otherwise unremarkable shelter",
+  "start": 6254,
+  "end": 6330,
+  "type": "number"
+ },
+ {
+  "fact": "Bellicent 忆起 Scaeth 尚不足十二岁时一名侍女坠窗，他拒答且露出“有可怕事可讲”的隐秘微笑。",
+  "anchor": "One of the serving girls had fallen out a window of the manor where they were staying",
+  "start": 7262,
+  "end": 7347,
+  "type": "relation"
+ },
+ {
+  "fact": "Scaeth 宣布全军一小时内沿 Silverway 南下、正午动身，无视 Alastar 父子“斥候未归”的反对。",
+  "anchor": "No, old man, the army rides down the Silverway within the hour",
+  "start": 9428,
+  "end": 9490,
+  "type": "event"
+ },
+ {
+  "fact": "出发前 Bellicent 望见孤帐的帘子掀起一条缝，里面有张苍白而棱角分明的脸。",
+  "anchor": "she could see something hovering just inside, a disturbingly pale and angular face",
+  "start": 12472,
+  "end": 12554,
+  "type": "event"
+ },
+ {
+  "fact": "Xaniko 教 Vedra 把蜂蜜顺箭杆灌进伤口再折断箭杆，因为箭尖仍嵌在骨头里。",
+  "anchor": "Then find a stick and force the honey down into the wound",
+  "start": 19048,
+  "end": 19105,
+  "type": "event"
+ }
+]

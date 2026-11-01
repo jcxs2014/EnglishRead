@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "舍丹黎明前探回：数十名装备精良、佩戴哈根家徽的士兵扎营在他们身后约半里格。",
+    "anchor": "Several score of soldiers, well-armed and wearing Hagan’s crest",
+    "start": 136,
+    "end": 199,
+    "type": "number"
+  },
+  {
+    "fact": "弗兰恩远望估算，斯凯斯的草原来雇佣兵约有二十个“score”，即数百人。",
+    "anchor": "The brothers say about twenty score. I see no reason to disbelieve them",
+    "start": 3530,
+    "end": 3601,
+    "type": "number"
+  },
+  {
+    "fact": "迪亚班讥讽：哈根的家卫有五十甚至六十名训练有素的兵，而他们只有九个假乐师。",
+    "anchor": "We are nine pretend musicians, and only a few of us have even been in a fight",
+    "start": 2215,
+    "end": 2292,
+    "type": "number"
+  },
+  {
+    "fact": "斯凯斯向母亲贝莉森特宣称，从蛇谷里将要走出的“真正的国王”就是叛贼埃文。",
+    "anchor": "It is the self-professed prince, the traitor Ewain of Cashelrigg",
+    "start": 14140,
+    "end": 14204,
+    "type": "event"
+  },
+  {
+    "fact": "斯凯斯得意地说他已经“料理”了诺恩萨尼科，说对方已死、再不能开口。",
+    "anchor": "I have already dealt with the Norn Xaniko",
+    "start": 15081,
+    "end": 15122,
+    "type": "event"
+  },
+  {
+    "fact": "贝莉森特被儿子当人质带离阿班吉特，只能坐在士兵身后，爱马安巴尔被留在原处。",
+    "anchor": "forced to ride behind a sweaty soldier, her own prized horse Anbarr left behind",
+    "start": 8095,
+    "end": 8174,
+    "type": "relation"
+  },
+  {
+    "fact": "达利第一次主动通过琥珀联络薇德拉，说谷口大路上有数百人在等他们。",
+    "anchor": "there are men waiting for us on the road at the end of the valley",
+    "start": 20049,
+    "end": 20114,
+    "type": "event"
+  },
+  {
+    "fact": "白星鸟乌阿莎如今是泰特坦唯一信任的谋臣，贝莉森特早年在宫中就视她为威胁。",
+    "anchor": "Uatha the White Starling, now Tethtain’s only trusted advisor",
+    "start": 10815,
+    "end": 10876,
+    "type": "relation"
+  }
+]

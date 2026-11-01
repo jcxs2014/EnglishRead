@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "弗兰恩放过斯凯斯，一箭射穿草原来的雇佣兵队长赫林瓦特·火嘴的喉咙。",
+    "anchor": "lodged in his throat, silencing him in mid-shout",
+    "start": 27206,
+    "end": 27254,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩解释为何不射斯凯斯：他是雇佣兵的出钱人，主君一倒他们就会抬人撤回营。",
+    "anchor": "his mercenaries will snatch him up and scuttle back to camp",
+    "start": 26307,
+    "end": 26366,
+    "type": "event"
+  },
+  {
+    "fact": "塞尔博尔从树上落到薇德拉马鞍后，捂住她的嘴自报姓名，才没让她喊出声。",
+    "anchor": "something large and heavy dropped out of the trees",
+    "start": 1199,
+    "end": 1249,
+    "type": "event"
+  },
+  {
+    "fact": "女巨魔蒂卡与另一名女乌鸦成员解开萨尼科的束衣，处理他胸口那处箭伤。",
+    "anchor": "Tika and one of the other female Crows were peeling away Xaniko’s tunic",
+    "start": 6297,
+    "end": 6368,
+    "type": "relation"
+  },
+  {
+    "fact": "达利不肯相信迪亚班讲的“神之手”故事，理由是通篇都说“据说”，讲者本人并不在场。",
+    "anchor": "I believe Flann is real, just not the story",
+    "start": 16541,
+    "end": 16584,
+    "type": "relation"
+  },
+  {
+    "fact": "迪亚班讲的旧事里，弗兰恩一箭射断酒馆招牌的绳索，木手砸死了卡奥兰·硬拳。",
+    "anchor": "The heavy wooden hand fell and struck Caolan on the head",
+    "start": 15365,
+    "end": 15421,
+    "type": "event"
+  },
+  {
+    "fact": "哈根的士兵就在他们藏身的山坡下方仅十二英寻处集结，众人只能屏声静气。",
+    "anchor": "gathered in the valley just a dozen fathoms below the slope where they hid",
+    "start": 8280,
+    "end": 8354,
+    "type": "number"
+  },
+  {
+    "fact": "弗兰恩命塞尔博尔回营传令：若天黑未归，全营退往沼泽，在阿赫乌法斯会合。",
+    "anchor": "Tell them we will try to meet you at Ach Uafas",
+    "start": 35460,
+    "end": 35506,
+    "type": "event"
+  }
+]

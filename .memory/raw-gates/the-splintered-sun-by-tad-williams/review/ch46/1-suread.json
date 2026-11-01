@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "拉蒙怒斥格温神父：他早就偷了泰特坦国王的一枚王玺，却一直瞒着众人。",
+    "anchor": "That you stole one of King Tethtain’s seals and have had it all along?",
+    "start": 197,
+    "end": 267,
+    "type": "event"
+  },
+  {
+    "fact": "埃德加修士揭发格温神父随身带着大量银钱，格温承认那是自己的积蓄。",
+    "anchor": "Father Gwynn has a large quantity of silver with him",
+    "start": 1251,
+    "end": 1303,
+    "type": "number"
+  },
+  {
+    "fact": "众人买到一艘旧平底船，推离码头横渡巴拉雷安河，潮水把他们冲向下游。",
+    "anchor": "As they pushed away from the pier in their newly acquired flatboat",
+    "start": 3251,
+    "end": 3317,
+    "type": "event"
+  },
+  {
+    "fact": "鲁蒙说格兰纳法旧名蛇谷，那条巨龙早已死透，是王子先祖“瘸子科马克”杀的。",
+    "anchor": "it was your own ancestor, Cormach the Lame, who slew the beast",
+    "start": 7411,
+    "end": 7473,
+    "type": "event"
+  },
+  {
+    "fact": "迪亚班半夜叫醒鲁蒙：一队武装人马就在他们身后半里格处。",
+    "anchor": "Men—armed men. Only half a league behind us.",
+    "start": 20286,
+    "end": 20330,
+    "type": "number"
+  },
+  {
+    "fact": "队伍在蛇谷里走到第二天下午仍未走出谷口，溪水也已断流。",
+    "anchor": "By the afternoon of the second day they still had not reached the end",
+    "start": 18046,
+    "end": 18115,
+    "type": "number"
+  },
+  {
+    "fact": "萨尼科在昏迷中告诉薇德拉：还有一个比斯凯斯更残忍、更聪明也更强的敌人。",
+    "anchor": "An enemy as cruel as Scaeth, but far more clever and more powerful",
+    "start": 12466,
+    "end": 12532,
+    "type": "event"
+  },
+  {
+    "fact": "鲁蒙最信任同伙中迪亚班的判断，于是把写文书、讲价买船的事交给他。",
+    "anchor": "the member of the company whose judgment he most trusted",
+    "start": 2013,
+    "end": 2069,
+    "type": "relation"
+  }
+]

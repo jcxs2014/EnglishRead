@@ -1,0 +1,58 @@
+[
+ {
+  "fact": "Mearna 被 Hagan 认出后关进空屋，已整整六天没人来理她。",
+  "anchor": "Six days had passed for Mearna since Hagan had recognized her",
+  "start": 40,
+  "end": 101,
+  "type": "number"
+ },
+ {
+  "fact": "她坐塌小屋唯一的桌子，用守卫漏搜的一枚铜币作工具，把桌腿削成三掌长的木刺藏在草垫下。",
+  "anchor": "she had managed to split off a narrow wooden sliver as long as the width of three hands",
+  "start": 1739,
+  "end": 1826,
+  "type": "event"
+ },
+ {
+  "fact": "Hagan 带来消息：First Lord Phelan 要所有重要囚犯立刻押送给他，他怀疑有人通风报信。",
+  "anchor": "I have just received an urgent message from First Lord Phelan",
+  "start": 3285,
+  "end": 3346,
+  "type": "event"
+ },
+ {
+  "fact": "Hagan 命人剥光她仔细搜身找 fairy mirror，结果没找到镜子，却搜出了那根木刺。",
+  "anchor": "Strip her of those foul rags and search her carefully",
+  "start": 4588,
+  "end": 4641,
+  "type": "event"
+ },
+ {
+  "fact": "Hagan 开价：只要供出 Flann 的住处，他就安排她在押往 Hernysadharc 途中“逃走”。",
+  "anchor": "then I will arrange for you to ‘escape’ during the trip to Hernysadharc",
+  "start": 7724,
+  "end": 7795,
+  "type": "relation"
+ },
+ {
+  "fact": "叙述提到 Scaeth 年轻时曾命人把自家三名厨房仆役逐一扔进城堡水井淹死。",
+  "anchor": "he had drowned three of the kitchen servants of his household",
+  "start": 11192,
+  "end": 11253,
+  "type": "number"
+ },
+ {
+  "fact": "Flann 用 Tika 染衣剩下的 iron gall 把金胡子染黑，扮成草原佣兵袭营救出 Mearna。",
+  "anchor": "Iron gall. Tika had more than enough left after the tunics to dye a few beards",
+  "start": 14970,
+  "end": 15048,
+  "type": "event"
+ },
+ {
+  "fact": "突围时 Flann 把 Mearna 抛过尖桩栅栏，自己跃过时斗篷被尖桩勾住，靠 Tynon 拉住才没跌进尖桩。",
+  "anchor": "she was suddenly whirled once around Flann’s body and then flung into the air like a forkful of hay",
+  "start": 20950,
+  "end": 21049,
+  "type": "event"
+ }
+]

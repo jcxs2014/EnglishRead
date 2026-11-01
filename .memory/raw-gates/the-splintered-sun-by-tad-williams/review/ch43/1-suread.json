@@ -1,0 +1,58 @@
+[
+ {
+  "fact": "四五名身穿黑罩袍、佩红蛇纹章的草原佣兵从溪边山坡上爬来，围住守着中箭 Xaniko 的 Vedra。",
+  "anchor": "four or five burly, bearded men in armor and black surcoats",
+  "start": 353,
+  "end": 412,
+  "type": "event"
+ },
+ {
+  "fact": "领头佣兵操 Hernystir 口音，喝问“另一个孩子”在哪，喊着“他说有两个孩子”。",
+  "anchor": "“Where is the other child?” The soldier who shouted this",
+  "start": 1782,
+  "end": 1838,
+  "type": "event"
+ },
+ {
+  "fact": "Liam 抡起大橡木棒独力打倒五名佣兵，剩下两人掉头分头逃散。",
+  "anchor": "Liam stood in the middle of five dead or near-dead men",
+  "start": 6524,
+  "end": 6578,
+  "type": "event"
+ },
+ {
+  "fact": "Xaniko 催她立刻取镜子传话；Vedra 明知他垂危，仍承认这是帮 Daley 与假乐师们的最后机会。",
+  "anchor": "but she knew he was right: this might be their last chance to help Daley",
+  "start": 7989,
+  "end": 8061,
+  "type": "event"
+ },
+ {
+  "fact": "梦境中爬行的残废怪物自称是被“蛇”(Serpent，即 Scaeth)所迫，又靠 Sin’s Shadow 才得以追她。",
+  "anchor": "It was the mortal called the Serpent—you know his true name—who forced me to pursue you",
+  "start": 11645,
+  "end": 11732,
+  "type": "relation"
+ },
+ {
+  "fact": "怪物哀求她带自己走，先说爬回有人的地方要 a fortnight，随即改口说 a month。",
+  "anchor": "It would take me a fortnight to drag myself back to anyone who could help me",
+  "start": 13477,
+  "end": 13553,
+  "type": "number"
+ },
+ {
+  "fact": "幻境庭院里立着一个披斗篷的阴影，人形的无限黑暗，说“我会再见你”后连同庭院一起消失。",
+  "anchor": "a cloaked shadow stood waiting, a hole into infinite darkness in the shape of a person",
+  "start": 14966,
+  "end": 15052,
+  "type": "event"
+ },
+ {
+  "fact": "Vedra 用“母亲因你自小爱爬高而叫你 Dormouse”这一私密细节，让屋顶上的 Daley 相信她真是本人。",
+  "anchor": "your mother used to call you Dormouse, because even when you were small you loved to climb",
+  "start": 18627,
+  "end": 18717,
+  "type": "relation"
+ }
+]
