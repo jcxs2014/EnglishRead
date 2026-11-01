@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch09",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "主角翻开新日记本（自高中起就没再记过日记），在首页写下日期 2024年9月28日：他刚搬进约克郡荒野深处的新居 Kirkhill，觉得“新开始”值得记录。",
+   "anchor": "September 28th, 2024",
+   "start": 23,
+   "end": 43
+  },
+  {
+   "fact": "他当天调查的结论：Arthur 与 Caroline Sanderson 夫妇均六十出头，Arthur 不爱见人、Caroline 友善热情；两人 2011 年搬入 Kirkhill，2020 年某时搬走。",
+   "anchor": "Moved into Kirkhill in 2011, moved out sometime in 2020",
+   "start": 704,
+   "end": 759
+  },
+  {
+   "fact": "慈善店女店员最终帮了忙，说 Caroline 捐过衣物和几盒旧杂货；可 Kirkhill 的衣柜里仍挂满她的衣服、每处台面都摆着摆件，银相框也回到了雪球旁的原位。",
+   "anchor": "Clothes, and boxes of bric-a-brac.",
+   "start": 887,
+   "end": 921
+  },
+  {
+   "fact": "他反复琢磨 Arthur 的说法 “Offerings. A tennis ball. Something old for something new.”，认为这是一种以旧换新的交换，并追问 Caroline 用银相框换回了什么。",
+   "anchor": "Offerings. A tennis ball.",
+   "start": 1205,
+   "end": 1230
+  },
+  {
+   "fact": "手机只剩一格信号，收到短信 “Are you all right? Please call me.”，他把该号码拉黑，自言“她走了”；但仍隐隐不安，怕她跑来查看他在做什么。",
+   "anchor": "He blocked the number. That’s better. She’s gone.",
+   "start": 2179,
+   "end": 2228
+  },
+  {
+   "fact": "Caroline 2019年7月9日日记：Arthur 又犯了一次 “turn”，又去找狗绳；她不断告诉他狗 Bailey 已经不在了；他冲进雨里，回来就记不得自己喊过什么。",
+   "anchor": "I keep telling him Bailey’s gone",
+   "start": 3786,
+   "end": 3818
+  },
+  {
+   "fact": "Caroline 8月9日日记：她取下客厅墙上年轻时的照片和孩子们的照片（Arthur 总在问他们是谁），并写下“有时希望他死掉，好让她能正经地哀悼他”。",
+   "anchor": "wish that he would die, so I could mourn him",
+   "start": 4513,
+   "end": 4557
+  },
+  {
+   "fact": "床头那本封面花哨的 thriller 是 The Lightning Chasers，作者 Adrian Warner，书中主角叫 Archie Sandisson；他认定那正是 Arthur 在读的书，把书名大写记下后放回书架。",
+   "anchor": "Arthur was reading that book, he thought",
+   "start": 7926,
+   "end": 7966
+  }
+ ]
+}

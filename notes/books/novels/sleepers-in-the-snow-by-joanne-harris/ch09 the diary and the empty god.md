@@ -51,7 +51,7 @@ modified: "2026-10-31"
 
 **关键词**：Arthur / capitals / uneasy / moonlight / foxes / madwoman
 
-**为什么这样写**：「He wrote the title in capitals」是全书最轻的一句断言，却连着 ch06 最重的证据——Arthur 在日记里反复用大写字母写「I'm reading THE LIGHTNING CHASERS, by Adrian Warner」。现在男主亲眼看到了那本书、那个封面、那个标语，Arthur 的执念从日记文字变成了实物。「the room all barred with moonlight」把月光写成牢笼的栅栏——他关了灯，月光反而成了囚禁。而结尾的「foxes」与「madwoman screaming」并置：狐狸是荒原的常客，但「疯女人」是 Caroline——她的声音从日记里出来，变成了夜色里的尖叫。
+**为什么这样写**：「He wrote the title in capitals」是全书最轻的一句断言，却连着 ch06 最重的证据——Arthur 在日记里反复用大写字母写「I'm reading THE LIGHTNING CHASERS, by Adrian Warner」。现在男主亲眼看到了那本书、那个封面、那个标语，Arthur 的执念从日记文字变成了实物。「the room all barred with moonlight」把月光写成牢笼的栅栏——他关了灯，月光反而成了囚禁。而结尾的「foxes」与「madwoman screaming」并置：狐狸是荒原的常客，但「疯女人」是 Caroline——她的声音从日记里出来，变成了夜色里的尖叫。就在狐狸声之前，电线的嗡鸣被他听成「the voice of an empty god」——本章标题的来处：空神的低语今晚竟让他觉得安慰，孤独到了极处，连空洞的神都成了陪伴。
 
 **读者视角提示**：注意「he thought」这个插入——「Arthur was reading that book, he thought」——他不是在陈述事实，而是在推断。从 ch06 的日记原文到本章的实物，中间隔着一层他的判断。而「a sound like a madwoman screaming」是全章的最后一个意象：狐狸的叫声像 Caroline 的尖叫——她哭了八年，终于在夜色里变成了声音。
 
