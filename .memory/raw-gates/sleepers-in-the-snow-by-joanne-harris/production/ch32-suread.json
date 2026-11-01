@@ -1,0 +1,67 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch32",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch32_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "他开篇自问：这个地方、这些想法、这些记忆都属于别人，它们为什么要认领我",
+   "anchor": "It doesn’t make sense. None of it does. This place; these thoughts; these memories. All belong to someone else.",
+   "start": 44,
+   "end": 155
+  },
+  {
+   "fact": "负片上的人影就是他用 Caroline 的衣服堆的雪人——大衣、不自然的姿势、地上的一圈雪",
+   "anchor": "The figure in the negative was the snowman he’d built using Caroline’s clothes.",
+   "start": 265,
+   "end": 344
+  },
+  {
+   "fact": "电塔的白噪音无法屏蔽：收音机、电视、耳塞、读书、连睡眠都不行",
+   "anchor": "That pylon. He could hear it now, a cosmic white noise that fogged his thoughts. Nothing could silence it: not the radio; not the intermittent TV; nor earplugs, nor reading, nor even sleep.",
+   "start": 584,
+   "end": 773
+  },
+  {
+   "fact": "雪中传来喊叫、嘲弄、歌唱的声音，在窗帘后面低语",
+   "anchor": "voices from the drifting snow, voices that called and taunted and sang, and whispered behind the curtains",
+   "start": 846,
+   "end": 951
+  },
+  {
+   "fact": "Benn 的话：有些地方像电池，能蓄电。有些人也是",
+   "anchor": "Some places are like batteries. They hold a charge. Some people, too.",
+   "start": 1641,
+   "end": 1710
+  },
+  {
+   "fact": "Lucy 的话：整片荒原全是死人，你若仔细看就能看见他们",
+   "anchor": "The whole of this moor is dead people, she’d said. You can see them if you look.",
+   "start": 2244,
+   "end": 2324
+  },
+  {
+   "fact": "他涌起一阵反抗：这太荒谬了，独自住在这里影响了他的思想",
+   "anchor": "He felt a sudden surge of revolt. This is ridiculous, he thought. Being here alone had affected his mind.",
+   "start": 2570,
+   "end": 2675
+  },
+  {
+   "fact": "他决定打电话试探：让我们打一个，看看谁来接",
+   "anchor": "‘So, let’s call,’ he said aloud. ‘Let’s see who answers.’",
+   "start": 2869,
+   "end": 2926
+  },
+  {
+   "fact": "他自称 Arthur Sanderson 给养老院回话",
+   "anchor": "‘Tell him it’s Arthur Sanderson.’",
+   "start": 3382,
+   "end": 3415
+  },
+  {
+   "fact": "护工回答：先生，Arthur Sanderson 就在这里——他是记忆护理病房的住户。Arthur 没有死",
+   "anchor": "‘Because, sir, Arthur Sanderson’s here. He’s one of our memory-care residents.’",
+   "start": 3971,
+   "end": 4050
+  }
+ ]
+}
