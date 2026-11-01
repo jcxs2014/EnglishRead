@@ -1,0 +1,61 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch26",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch26_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "连日暴雨三天，小路变成溪流，男主无法出门，夜里看见一群鹿",
+   "anchor": "Heavy rain for the past three days. So much rain that the path has become a stream",
+   "start": 45,
+   "end": 127
+  },
+  {
+   "fact": "卧室天花板开始漏水，角落出现一块湿斑——外面的世界闯进了他的庇护所",
+   "anchor": "The bedroom ceiling began to leak; a damp patch appeared in the corner.",
+   "start": 324,
+   "end": 395
+  },
+  {
+   "fact": "《The Lightning Chasers》主角 Archie Sandisson 毕生追踪并拍摄各种闪电",
+   "anchor": "The hero, Archie Sandisson, had made it his mission in life to track down and photograph different kinds of lightning.",
+   "start": 893,
+   "end": 1011
+  },
+  {
+   "fact": "Sandisson 在离奇雷击中丧妻，希望通过实验拍到上帝的脸，解开生死之谜",
+   "anchor": "A widower who had lost his wife in a freak lightning strike, he now hoped, through these experiments, to photograph the face of God",
+   "start": 1012,
+   "end": 1143
+  },
+  {
+   "fact": "Brass Hill Tor 被雷击超过八百五十次，当地记录、发黑的塔楼与避雷针都证实了这一点",
+   "anchor": "Brass Hill Tor had been lightning-struck over eight hundred and fifty times.",
+   "start": 2404,
+   "end": 2480
+  },
+  {
+   "fact": "老馆长说：这里的地下有闪电，你只需等待，它自然会来找你",
+   "anchor": "‘There’s lightning in the ground here,’ said the old curator. ‘All you need to do is wait, and you’ll find it will come to you.’",
+   "start": 2614,
+   "end": 2742
+  },
+  {
+   "fact": "主角名字几乎就是 Arthur Sanderson，虚构的 Dr Bell 显然是 Benn 的原型——男主意识到书中藏着 Arthur 的镜像",
+   "anchor": "the hero’s name was almost the same as Arthur Sanderson’s, and that the fictional Dr Bell was clearly a version of Benn himself",
+   "start": 1828,
+   "end": 1955
+  },
+  {
+   "fact": "鹿是好动物，他想——但这群鹿行为反常，只是盯着房子，眼睛泛着银光",
+   "anchor": "Deer are good animals, he thought. But these deer were not behaving typically.",
+   "start": 3712,
+   "end": 3790
+  },
+  {
+   "fact": "没有一只鹿动：不啃草、不竖耳，甚至在他开窗大喊「滚开！」之后也纹丝不动",
+   "anchor": "Not one of them moved. Not to crop grass, or to lift an ear at a sound, or even when he finally opened the window and shouted out: ‘Go away! ’",
+   "start": 3864,
+   "end": 4006
+  }
+ ]
+}
