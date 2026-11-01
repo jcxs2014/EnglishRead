@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch48",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch48_48_the_hand_of_a_god.txt",
+ "facts": [
+  {
+   "fact": "Vedra 与 Liam 在次日近午抵达 Silverway，Vedra 先骑马前行探路，穿过营地仍骑在鞍上。",
+   "anchor": "Vedra and Liam reached the Silverway",
+   "start": 28,
+   "end": 64
+  },
+  {
+   "fact": "有东西从树上落到她鞍后，一只手捂住她的嘴，压低声音说自己正是 Cerball。",
+   "anchor": "someone whispered in her ear",
+   "start": 1419,
+   "end": 1447
+  },
+  {
+   "fact": "Cerball 说 Crows 没看到 Daley 一行被俘的迹象，但 Scaeth 已带重兵等在谷口，雇佣兵当天在备盾磨枪、准备开战。",
+   "anchor": "Scaeth was waiting at the valley mouth in force",
+   "start": 2988,
+   "end": 3035
+  },
+  {
+   "fact": "营地里 Tika 与另一名女 Crow 剥开 Xaniko 的上衣查看伤口，露出凝固的血，Vedra 反胃。",
+   "anchor": "peeling away Xaniko’s tunic",
+   "start": 6341,
+   "end": 6368
+  },
+  {
+   "fact": "Diarban 给 Daley 讲 Flann 早年被逐出家族土地、退入 Circoille 大森林的旧事。",
+   "anchor": "Flann had first been driven from his family lands",
+   "start": 12156,
+   "end": 12205
+  },
+  {
+   "fact": "故事里第一支箭劈断绞绳、农民摔在绞架上，第二支箭劈断吊招牌的绳，坠下的木手砸死了 Caolan Hardfist。",
+   "anchor": "split the hanging rope in two",
+   "start": 15169,
+   "end": 15198
+  },
+  {
+   "fact": "Flann 改射草原兵队长 Hrinvart Firemouth，箭中咽喉，草原兵随即冲过 Silverway。",
+   "anchor": "lodged in his throat, silencing him in mid-shout",
+   "start": 27206,
+   "end": 27254
+  },
+  {
+   "fact": "Flann 派 Cerball 回营传令：若自己与 Tynon 天黑未归，众人撤往沼泽、西岸与 Greenwrack。",
+   "anchor": "we will try to meet you at Ach Uafas",
+   "start": 35470,
+   "end": 35506
+  }
+ ]
+}

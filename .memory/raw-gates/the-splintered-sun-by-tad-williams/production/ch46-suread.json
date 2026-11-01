@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch46",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch46_46_dolphin_s_road.txt",
+ "facts": [
+  {
+   "fact": "Rumon 冲 Gwynn 发火，怪他把国王封印的事一直瞒着不说。",
+   "anchor": "why did you not tell me this earlier",
+   "start": 96,
+   "end": 132
+  },
+  {
+   "fact": "Gwynn 坚持银子是自己的积蓄，他早就准备逃出 Dun Ard。",
+   "anchor": "The silver is my own",
+   "start": 1378,
+   "end": 1398
+  },
+  {
+   "fact": "Diarban 用一首老歌的名字，说他们要「骑海豚之路」到海上去。",
+   "anchor": "ride the dolphin’s road to the sea",
+   "start": 2724,
+   "end": 2758
+  },
+  {
+   "fact": "渡河时潮水会把整船人往下游带出一段，靠岸点因此算不准。",
+   "anchor": "the tide was going to carry them",
+   "start": 3722,
+   "end": 3754
+  },
+  {
+   "fact": "Rumon 说谷里的龙几百年前已死，杀它的是 Ewain 的祖先 Cormach the Lame。",
+   "anchor": "Cormach the Lame, who slew the beast",
+   "start": 7437,
+   "end": 7473
+  },
+  {
+   "fact": "Xaniko 半昏中告诉 Vedra，还有一个比 Scaeth 更聪明的敌人，他只知道叫 Shadow。",
+   "anchor": "Shadow is the only name I know",
+   "start": 12739,
+   "end": 12769
+  },
+  {
+   "fact": "Diarban 半夜叫醒 Rumon，说半里格外有一队武装的人跟上来。",
+   "anchor": "Only half a league behind us",
+   "start": 20301,
+   "end": 20329
+  },
+  {
+   "fact": "Vedra 怕其他人都被抓或被杀，只剩她、Liam 和垂死的 Xaniko。",
+   "anchor": "me, poor, simple Liam, and a dying immortal",
+   "start": 22908,
+   "end": 22951
+  }
+ ]
+}

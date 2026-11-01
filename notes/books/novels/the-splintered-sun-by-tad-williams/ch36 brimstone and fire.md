@@ -45,17 +45,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这句反问听起来像小孩闹脾气，可它是本章里唯一一次由国王自己划界线。他划的这条线，在场没有一个人当真。
 
-> **原句 4:** "“Then let them play—!” Tethtain broke off, coughing. Diarban darted a glance at Prince Ewain, who watched attentively the father he had never met. Ewain’s face was a muddle of expressions that Diarban could not easily unpick: dismay, hope, fondness, fear, all mingled."
-
-**中文理解**：「那就让他们奏——！」Tethtain 话没说完就咳了起来。Diarban 飞快地瞥了一眼 Ewain 王子：那年轻人正专心地望着自己从未见过的父亲。他脸上挤着一团搅混的神情，Diarban 辨不开：惊惶、希望、亲昵、害怕，全混在一处。
-
-**关键词**：darted a glance（飞快瞥了一眼）、a muddle of expressions（一团搅混的神情）、dismay, hope, fondness, fear（四种神情交加）、all mingled（全混在一处）
-
-**为什么这样写**：命令被咳嗽截成两半，可一半也够乐手们动身了。接着镜头不留在国王身上：先转到 Ewain，再转到 Diarban 的眼睛，一句话里换了两次位置。四个名词并排摆着，中间不加动词，脸就不是一种表情，而是几种表情同时在场。unpick 借的是拆线头的意思——连看的人都解不开，说明这张脸已经不由主人管了。
-
-**读者视角提示**：这张脸的信息量比台词大。作者没有写 Ewain 在想什么，只让旁人看见他收不住。留意这四个词里没有「恨」。
-
-> **原句 5:** "Diarban now looked from the frowning wreckage of the great king to the small, slender woman beside him—Uatha, the White Starling. Indeed, she wore several layers of white garments as bright as drifts of new snow, and a white coif. Her only ornament, a gold chain with Brygit’s golden sun-symbol on it, hung against her modest bosom."
+> **原句 4:** "Diarban now looked from the frowning wreckage of the great king to the small, slender woman beside him—Uatha, the White Starling. Indeed, she wore several layers of white garments as bright as drifts of new snow, and a white coif. Her only ornament, a gold chain with Brygit’s golden sun-symbol on it, hung against her modest bosom."
 
 **中文理解**：Diarban 的视线从那位皱着眉、整个人已经垮掉的大国王，挪到旁边瘦小的女子身上——Uatha，白鸫。她果然穿了好几层白得晃眼的衣裳，像一堆新雪，头上还戴着白头巾。唯一的饰物是一条金链，坠着 Brygit 的金色太阳记号，贴在她并不张扬的胸前。
 
@@ -64,6 +54,16 @@ modified: "2026-11-01"
 **为什么这样写**：镜头是横着移的：从「垮塌的国王」移到「瘦小的女人」，两个形容词短语先把落差摆好，名字才落地。白是她的主色——衣裳、头巾、新雪，三层白叠起来，白得几乎不像活人的颜色。唯一的金色是神的记号，说明她的权柄不从血统来，从信仰来。bosom 前面加一个 modest，是叙述替她留的体面，也顺手提醒读者：这具身体正在被人打量。
 
 **读者视角提示**：这一段的颜色只有白与金。Diarban 的目光是有顺序的：先衣裳，再饰物，再胸口。他看的是一个人，也在估价一件东西。
+
+> **原句 5:** "“Then let them play—!” Tethtain broke off, coughing. Diarban darted a glance at Prince Ewain, who watched attentively the father he had never met. Ewain’s face was a muddle of expressions that Diarban could not easily unpick: dismay, hope, fondness, fear, all mingled."
+
+**中文理解**：「那就让他们奏——！」Tethtain 话没说完就咳了起来。Diarban 飞快地瞥了一眼 Ewain 王子：那年轻人正专心地望着自己从未见过的父亲。他脸上挤着一团搅混的神情，Diarban 辨不开：惊惶、希望、亲昵、害怕，全混在一处。
+
+**关键词**：darted a glance（飞快瞥了一眼）、a muddle of expressions（一团搅混的神情）、dismay, hope, fondness, fear（四种神情交加）、all mingled（全混在一处）
+
+**为什么这样写**：命令被咳嗽截成两半，可一半也够乐手们动身了。接着镜头不留在国王身上：先转到 Ewain，再转到 Diarban 的眼睛，一句话里换了两次位置。四个名词并排摆着，中间不加动词，脸就不是一种表情，而是几种表情同时在场。unpick 借的是拆线头的意思——连看的人都解不开，说明这张脸已经不由主人管了。
+
+**读者视角提示**：这张脸的信息量比台词大。作者没有写 Ewain 在想什么，只让旁人看见他收不住。留意这四个词里没有「恨」。
 
 > **原句 6:** "Father Gwynn waved them forward, and Diarban leaned close to the priest as he passed. “How long must we play?” he whispered. “They do not know many songs, and none of them very well.”"
 

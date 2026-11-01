@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch45",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch45_45_the_solitary_tent.txt",
+ "facts": [
+  {
+   "fact": "Daley 转述：Vedra 的声音叫他先去 Glennafar，再去 Greenwrack，说完两人就都不见了。",
+   "anchor": "They said to go to someplace called Glennafar",
+   "start": 88,
+   "end": 133
+  },
+  {
+   "fact": "Mud Boy 说 Glennafar 是 Greenwrack 与 Silverway 之间一条又长又窄的峡谷，那地方名声不好。",
+   "anchor": "It’s a long, narrow gorge between the Greenwrack and the Silverway",
+   "start": 377,
+   "end": 443
+  },
+  {
+   "fact": "Edgar 顶 Father Gwynn：Ewain 未加冕就不算王子，他们谁都不是奴隶，他信 Flann。",
+   "anchor": "he is no prince, and we are none of us slaves",
+   "start": 2587,
+   "end": 2632
+  },
+  {
+   "fact": "Bellicent 在营中看见一顶孤零零的帐篷，离它最近的是 Scaeth 的帐，一百肘内别无他物。",
+   "anchor": "a single tent stood far from the others",
+   "start": 6158,
+   "end": 6197
+  },
+  {
+   "fact": "离开时 Bellicent 看见孤帐门帘掀开，里面似有一张惨白的脸，帘子随即合上。",
+   "anchor": "The flap of the tent had opened, a long, stripe of black",
+   "start": 12352,
+   "end": 12408
+  },
+  {
+   "fact": "Xaniko 胸前插着一支箭，Vedra 判断硬拔只会加重伤势。",
+   "anchor": "The arrow still stood out from Xaniko’s breast like a sprouted sapling",
+   "start": 13327,
+   "end": 13397
+  },
+  {
+   "fact": "Xaniko 要 Liam「当熊」去找蜜，Liam 坐到花丛里不动，约一小时后带回一块蜂巢。",
+   "anchor": "Be . . . be the bear",
+   "start": 16354,
+   "end": 16374
+  },
+  {
+   "fact": "Flann 定下：等到明天，若三人仍未到就派人回 Ardkillan 找，其余人继续前进。",
+   "anchor": "the rest of us will continue on",
+   "start": 27750,
+   "end": 27781
+  }
+ ]
+}
