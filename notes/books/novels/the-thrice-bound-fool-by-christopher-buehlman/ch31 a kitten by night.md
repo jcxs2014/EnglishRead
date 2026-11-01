@@ -51,7 +51,7 @@ modified: "2026-11-01"
 > **原句 6:** "A cyclops eye is the strangest you’ll ever see, even if you’ve met a kraken, as I have. The part that’s white on our eye is gold on them, and I don’t mean yellow. I mean gold like the metal, and it gives back light like that, though it has traces and patterns in it like a cat has."
 
 **中文理解**：独眼巨人的眼睛是你此生见过最怪的——哪怕你见过 kraken（我就见过）。我们眼白的部分，他们是金的——不是黄，是金属的那种金，反光也是金属的反光，不过里面还有猫瞳一样的纹路与斑点。
-**关键词**：the strangest you’ll ever see / gold like the metal / gives back light / traces and patterns in it like a cat has
+**关键词**：the strangest you’ll ever see / gold like the metal / gives back light / patterns in it like a cat
 **为什么这样写**：生理描写用「比较学」分层——以 kraken 垫底、以金属定色、以猫纹收尾，怪物的眼睛被三重参照拼出来；「gives back light」的物理属性（反光）为下文「挖出来当手电」埋好光源设定。
 **读者视角提示**：记住「金眼反光」——它是本章最亮的一盏灯，也是那桩渎神计划的全部技术依据。
 
@@ -104,41 +104,18 @@ modified: "2026-11-01"
 **为什么这样写**：死亡的鉴定用「变小」完成——spark 熄灭的瞬间人缩成一具遗像，哭的天赋（talent）与坐在一起的坚持互相顶撞；「You went home without me」的控诉把死亡翻译成一次背弃，Galtish 的私语是最后的同乡礼。
 **读者视角提示**：记住「smaller somehow」——它跟「one little bell」一起构成 Hasp 的身后形：缩小的人、被留下的铃。
 
-> **原句 14:** "Renata wore that bell from Hasp’s hat from then on, and her plodding way of jingling it when she walked was so different from Hasp’s light tinkles it scarcely sounded like the same bell. It was, though, and it was a boon to know where the monster was."
+> **原句 14:** "I watched the poor little Galt’s smoke and fire lick up against the sky over the royal garden at dusk, bright sparks going up, reflected going down in the calm salt pools, and I determined I would not end up so; just so much ash and bone half a world from home, and one little bell sewn into the royal brat’s braid."
 
-**中文理解**：从那以后，Renata 把 Hasp 帽上的那只铃戴在了自己身上——她走路时那迟钝的叮当，跟 Hasp 轻巧的细响截然不同，几乎听不出是同一只铃。可它是。而且这倒是个方便：随时知道那怪物在哪儿。
-**关键词**：wore that bell from Hasp’s hat / plodding way of jingling / scarcely sounded like the same bell / know where the monster was
-**为什么这样写**：遗物的转手写成一场声音的易主——同铃异响的对比（拖沓 vs 轻巧）让死亡有了音色的判据；「boon to know where the monster was」的反讽把哀悼翻转成战术情报：连悲伤都被他做成了雷达。
+**中文理解**：我看着这可怜的小 Galt 的烟与火在暮色里舔上皇家花园的天空——亮火花往上蹿，倒影落进平静的盐池——我对自己发誓：我绝不要这样收场；变成半世界之外的灰与骨，只剩一只小铃缝进王家小崽子的辫子里。
+
+**关键词**：smoke and fire lick up / reflected going down in the calm salt pools / half a world from home / one little bell
+**为什么这样写**：火葬的画面用「上下对倒」构图——火花上行、倒影下行，生与死在盐池里完成对称；「one little bell」的缩尺把一生折算成一件遗物，誓言的燃料就此备齐。
+**读者视角提示**：记住「绝不要这样收场」的誓言——它与 Get. Us. Home. 是同一枚硬币的两面：一个管去处、一个管死法。
+
+> **原句 15:** "Renata wore that bell from Hasp’s hat from then on, and her plodding way of jingling it when she walked was so different from Hasp’s light tinkles it scarcely sounded like the same bell. It was, though, and it was a boon to know where the monster was. Thanks, Hasp. Truly, thanks for everything. I’ll fart a sad song for you back home on the shores of the Tattered Sea, even if I wreck a ship or kark a pair of pants."
+
+**中文理解**：从那以后，Renata 把 Hasp 帽上的那只铃戴在了自己身上——她走路时那迟钝的叮当，跟 Hasp 轻巧的细响截然不同，几乎听不出是同一只铃。可它是。而且这倒是个方便：随时知道那怪物在哪儿。谢谢，Hasp。真的，谢谢一切。等我回到 Tattered Sea 的岸边，我给你放屁奏一首哀歌——就算弄沉一条船、崩烂一条裤子也在所不惜。
+
+**关键词**：wore that bell from Hasp’s hat / scarcely sounded like the same bell / know where the monster was / I’ll fart a sad song
+**为什么这样写**：遗物的转手写成一场声音的易主——同铃异响的对比让死亡有了音色的判据；誓言以最粗俗的形式（放屁哀歌）承担最深的承诺，Hasp 的职业精神（音乐屁）在遗嘱里获得最体面的兑现方式。
 **读者视角提示**：记住这只铃——它是 Hasp 在全书余下章节的「在场方式」：每当公主的拖沓叮当响起，他都会想起真正的铃该怎么响。
-
-> **原句 15:** "I watched the poor little Galt’s smoke and fire lick up against the sky over the royal garden at dusk, bright sparks going up, reflected going down in the calm salt pools, and I determined I would not end up so; just so much ash and bone half a world from home, and one little bell sewn into the royal brat’s braid. Thanks, Hasp. Truly, thanks for everything. I’ll fart a sad song for you back home on the shores of the Tattered Sea, even if I wreck a ship or kark a pair of pants."
-
-**中文理解**：我看着这可怜的小 Galt 的烟与火在暮色里舔上皇家花园的天空——亮火花往上蹿，倒影落进平静的盐池——我对自己发誓：我绝不要这样收场；变成半世界之外的灰与骨，只剩一只小铃缝进王家小崽子的辫子里。谢谢，Hasp。真的，谢谢一切。等我回到 Tattered Sea 的岸边，我给你放屁奏一首哀歌——就算弄沉一条船、崩烂一条裤子也在所不惜。
-**关键词**：smoke and fire lick up / reflected going down in the calm salt pools / one little bell / I’ll fart a sad song for you
-**为什么这样写**：火葬的画面用「上下对倒」构图——火花上行、倒影下行，生与死在盐池里完成对称；誓言以最粗俗的形式（放屁哀歌）承担最深的承诺，Hasp 的职业精神（音乐屁）在遗嘱里获得最体面的兑现方式。
-**读者视角提示**：这是全章的落点——记住「决不这样收场」的誓言：它跟 Get. Us. Home. 是同一枚硬币的两面，一个管去处、一个管死法。
-
-## 本章词汇
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| nassk | （独眼族语）夜 | “I am Zherit-Nassk. But I was born beneath the sun, so if you see me by day, I am only Zherit.” |
-| citrine | 黄水晶（此处为神像之眼） | …I found the arsenal, the baths, and the altar to Thumos, where he stood ten feet tall and black-skinned, with citrine eyes that seemed to have been enchanted to glow with their own light. |
-| amphora | 双耳细颈瓶；瓮 | But here, on the dry steppes, she is portrayed as a chained woman carrying an amphora. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| walltouchery | （Guild 术语）攀墙术 | …artful climbing—or walltouchery, as the Guild calls it—was always my strongest skill. |
-| scurried/scurryings | 疾走；蹿行 | …while a great advantage to my nocturnal scurryings, this struck me as immeasurably sad. |
-| necromancers | 死灵法师（复数） | Of course, willing the dead back to life works only for the darkest of necromancers, and from what I’ve heard, the risen dead can’t juggle. |
-
-### ⭐ 常用
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| cyclops | 独眼巨人 | Cyclopes were supposed to be great metalworkers, and this one was. |
-| forge | 锻炉 | The light from the forge and the glow of the piece being worked were the only illumination in the smithy. |
-| pyre | 火葬堆 | …a city in thrall to a fire god favors funeral pyres rather than sending its dead a-worming. |
-
-## 一句话总结
-一夜偷遍王宫（猫、梁、暗门、神眼手电），一场与独眼铁匠的以书易钥，一尊流泪的海奴神像——他刚把这座宫殿摸透，Hasp 就缩成了火花上天的灰；铃进了公主的辫子，誓言进了他的骨头：不带我回家，就放屁送你。
