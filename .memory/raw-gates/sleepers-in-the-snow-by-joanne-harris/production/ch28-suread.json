@@ -1,0 +1,61 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch28",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch28_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "短信只有一句「我在这里」，此后一切平静",
+   "anchor": "I’m here. That’s all it said. Since then, nothing has happened.",
+   "start": 45,
+   "end": 108
+  },
+  {
+   "fact": "屋旁发现一只死羊被动物啃过，想埋但地冻得挖不动，第二天羊不见了",
+   "anchor": "I found a dead sheep near the house. Some animals had been at it.",
+   "start": 109,
+   "end": 174
+  },
+  {
+   "fact": "他盯着屏幕看了很久，三次重复「我在这里」，皮肤起鸡皮疙瘩",
+   "anchor": "He felt his skin prickle.",
+   "start": 324,
+   "end": 349
+  },
+  {
+   "fact": "他猜想是 Benn 在逗他，还是 Arthur 仍在头顶电线里",
+   "anchor": "Was Dr Benn playing games with him? Or was Arthur still here, somehow, somewhere in the overhead wires?",
+   "start": 411,
+   "end": 514
+  },
+  {
+   "fact": "他亲口说出「Arthur 死了，和 Caroline 一起死在雪里」，话一出口便觉得真实",
+   "anchor": "Now that he’d spoken the words, they felt real. Arthur was dead.",
+   "start": 593,
+   "end": 657
+  },
+  {
+   "fact": "对 Caroline 他涌起一阵突然的、惊人的、绞痛般的悲伤",
+   "anchor": "he felt a sudden, startling, twist of grief",
+   "start": 673,
+   "end": 716
+  },
+  {
+   "fact": "查号台查到 Kirkhill 是一家养老院——Benn 是老人，也许有记忆问题",
+   "anchor": "So Kirkhill was a nursing home. That made sense: Benn was an old man.",
+   "start": 1062,
+   "end": 1131
+  },
+  {
+   "fact": "为了得到 Benn 回电，他谎称自己叫 Arthur",
+   "anchor": "He hesitated. ‘Arthur.’",
+   "start": 1493,
+   "end": 1516
+  },
+  {
+   "fact": "夜里窗下的狐狸用女人的声音尖叫，直到嘶哑地哀求",
+   "anchor": "until it grew hoarse with pleading",
+   "start": 2713,
+   "end": 2747
+  }
+ ]
+}
