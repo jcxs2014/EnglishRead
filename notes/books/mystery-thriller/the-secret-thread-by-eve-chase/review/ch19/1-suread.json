@@ -1,0 +1,159 @@
+{
+  "chapter": "ch19",
+  "text_file": "text/ch19_chapter_19.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Jo 追问墙上大相框里的照片是不是 Nancy 那天晚上拍的那卷胶卷里的一张（问时感到晕眩），Mimi 确认正是那一卷，并续上咖啡。",
+      "anchor": "That very roll of film.",
+      "byte_offset": 484,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "照片细节：高反差黑白广角，阳光下泳池中狂欢定格的年轻人，两侧配角、Amphitrite 雕像、一对棕榈树，管家 Doris 站在池边双手严厉地叉腰。",
+      "anchor": "High-contrast black-and-white and wide-angled",
+      "byte_offset": 198,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Jo 没料到会在 Mimi 的切尔西小厨房被招待早餐，既感动又加重了欺骗 Mimi 的内疚；Ruth 备下的盛宴（酥点、松饼、酸奶等）几乎没动，Jo 满心情绪吃不下。",
+      "anchor": "guilt at deceiving Mimi",
+      "byte_offset": 821,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Jo 指出照片里人人快乐、唯独管家 Doris 不高兴；Mimi 笑说那天 Doris 确实在气头上、也不待见 Rafe，又补充 Doris 曾对她很好、她不会忘。",
+      "anchor": "Doris was properly narked with us that day",
+      "byte_offset": 2023,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Mimi 揭示照片里的 Doris 是 Woody 的曾祖母；Jo 震惊——她和 Woody 连着同一栋房子、同一个 Wiltshire 山谷，忆起雨夜 Woody 开车送她回家时安心又空落的感觉，猜想这层关联解释了一切。",
+      "anchor": "She and Woody have links to the same house",
+      "byte_offset": 2573,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Mimi 突然说 Jo 也让她想起某个人，却怎么也想不起是谁，放下银果叉懊恼地摇头；Jo 满脸发烫、彻底没了胃口，笨拙地夸厨房岔开话题。",
+      "anchor": "with a frustrated shake of her head",
+      "byte_offset": 3728,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Jo 由 Mimi 的厨房想到自家圣诞照里的厨房场景，猛然意识到每一张圣诞照里 Mimi 都缺席，且她仍不明白 Mimi 为何从不加入；怕说漏嘴，她喝干咖啡急于回到六十年代末的工作。",
+      "anchor": "And Mimi is always missing.",
+      "byte_offset": 5418,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Jo 提出去取下一件拍卖品——黑围裙（纸包着、装在标着 Whipple 的盒子里、trestle 远端），Mimi 挥手放行、让她给几分钟吃可颂并想她像谁；Jo 僵在门口深吸一口气，心跳狂奔赶去 not-just-stuff 房间。",
+      "anchor": "Wrapped in tissue paper in a box labelled",
+      "byte_offset": 6818,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Doris — Woody",
+      "relation": "Mimi 亲口揭示：照片中管家 Doris 是 Woody 的曾祖母（Jo 与 Woody 因此与同一栋房子相连）。",
+      "anchor": "Now does she remind you of anyone?",
+      "byte_offset": 2196,
+      "hits": 1
+    },
+    {
+      "pair": "Lawrence Caswell — Mimi",
+      "relation": "Mimi 的已故丈夫；Jo 夸他像年轻 Robert Redford（Mimi：你不是第一个这么说的人）；他是家里的好厨子。",
+      "anchor": "your late husband was the spit of a young Robert Redford",
+      "byte_offset": 1045,
+      "hits": 1
+    },
+    {
+      "pair": "Jo — Mimi",
+      "relation": "Jo 以整理 Mimi 生平/拍卖品之名接近，却一直隐瞒、内心愧疚；而 Mimi 说 Jo 也让她想起某人、想不起是谁（身世悬念）。",
+      "anchor": "you remind me of someone too",
+      "byte_offset": 3446,
+      "hits": 1
+    },
+    {
+      "pair": "Jo — Woody",
+      "relation": "通过 Doris 与同一栋房子、同一个 Wiltshire 山谷相连；Woody 曾雨夜开车送 Jo 回家；Lordats 制作团队在催 Woody。",
+      "anchor": "The Lordats production team are on Woody",
+      "byte_offset": 6186,
+      "hits": 1
+    },
+    {
+      "pair": "Doris — Rafe",
+      "relation": "Doris 不待见 Rafe（那个夜晚在场的年轻人之一）。",
+      "anchor": "a fan of Rafe either",
+      "byte_offset": 2076,
+      "hits": 1
+    },
+    {
+      "pair": "Nancy — 照片/胶卷",
+      "relation": "Nancy 是那个晚上泳池场景的拍摄者，墙上大相框照片即出自那卷胶卷。",
+      "anchor": "shots from that evening?",
+      "byte_offset": 73,
+      "hits": 1
+    },
+    {
+      "pair": "Ruth — 早餐",
+      "relation": "这场几乎未动的丰盛宴席是 Ruth 备的（身份文中未说明）。",
+      "anchor": "the feast Ruth",
+      "byte_offset": 3197,
+      "hits": 1
+    },
+    {
+      "pair": "Doris — Mimi",
+      "relation": "Doris 当年对 Mimi 很好，Mimi 明言不会忘记这份情。",
+      "anchor": "Doris was kind to me",
+      "byte_offset": 2965,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "item": "时间压力：距收完 early-years era 只剩一周多（just over a week），还有大量 Mimi 生平未覆盖。",
+      "anchor": "just over a week",
+      "byte_offset": 6125,
+      "hits": 1
+    },
+    {
+      "item": "Jo 看厨钟，发现又一个小时溜走（another hour has slid by）。",
+      "anchor": "another hour has slid by",
+      "byte_offset": 5886,
+      "hits": 1
+    },
+    {
+      "item": "十二月初（the start of December）步步逼近，伦敦已点亮节日彩灯。",
+      "anchor": "the start of December edging ever closer",
+      "byte_offset": 5912,
+      "hits": 1
+    },
+    {
+      "item": "Jo 急于回到二十世纪六十年代末（the late sixties）的工作中。",
+      "anchor": "the late sixties",
+      "byte_offset": 5771,
+      "hits": 1
+    },
+    {
+      "item": "Mimi 要几分钟（a few minutes）对付可颂并琢磨 Jo 像谁。",
+      "anchor": "a few minutes to tackle this croissant",
+      "byte_offset": 6953,
+      "hits": 1
+    },
+    {
+      "item": "Jo 家厨房是八十年代（eighties）松木橱柜、PVC 窗。",
+      "anchor": "eighties pine units",
+      "byte_offset": 4822,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Mimi 点破旧照中严厉的管家 Doris 是 Woody 的曾祖母——Jo 猛然意识到自己与 Woody 同属那栋房子、那个 Wiltshire 山谷；同一刻 Mimi 又嘀咕 Jo 眼熟得想不起像谁，双重身世钩子同时收紧。"
+}

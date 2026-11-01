@@ -1,0 +1,87 @@
+{
+  "chapter": "ch21",
+  "text_file": "text/ch21_chapter_21.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "夏天渐深，米米学会凭脚步声辨认哈罗德：一落单就猫似的从过道、碗柜、后屋、楼梯溜走——这些是多丽丝教她的暗道，多丽丝嘴上说'以防火灾'、眼神却另有深意；她从闷热的洗衣房、洗涤间或翻腾的厨房冒头，惊起狗群和面色苍白的厨娘。",
+      "anchor": "the hidden exits Doris had shown me, ‘In case of fire,’ she said, her widening eyes speaking of something else",
+      "byte_offset": 386,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "米米从不向惠普尔（Elliot Whipple）解释溜走的事，但感觉得到他心知肚明且心存同情；他尽可能让她紧挨着自己干活。",
+      "anchor": "He kept me working closely alongside him whenever possible.",
+      "byte_offset": 795,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "米米也没告诉家里——怕爸爸的反应不亚于怕与哈罗德独处；派对日日临近、热浪（天气与西莉亚的双重）逼人，全家天不亮干到天黑、饭桌上净是叹息和尖利的沉默；爸爸在场时没人敢提她的新工作，只有茶后妈妈溜进房打探她又爱又恨的卡斯威尔家：西莉亚梳妆台上有几瓶面霜、一柜子皮草、竟不与丈夫同屋睡。",
+      "anchor": "In Pa’s presence, no one dared mention my new job.",
+      "byte_offset": 1544,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "米米晚上伏在饭桌边记笔记、画室内速写（铺床、枕头数、床单折角、挂画高度、家具居中、面料克重与耐磨次数），妈妈好奇凑看，爸爸却斜眼捋须如临'叛乱宣言'；一天晚上他历经糟心日（浆果网下困鸟、白粉病、缺水果树落叶）喝到第三杯啤酒后冲速写本发作'你是想用那东西气我吗，米里亚姆？'——阿尔夫和帕梅拉僵住，妈妈背着他用锅铲示意她把本子拿走。",
+      "anchor": "Are you trying to taunt me with that thing, Miriam?",
+      "byte_offset": 3218,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "当晚阿尔夫用一块木板架在几摞木育苗盘上、楔进掉漆的窗台，在米米的小卧室里搭出一张书桌；穿堂风掀页、凳子碰腿全桌飞散的插曲后，两人认定它'完美'；阿尔夫打趣'比大宅里任何东西都好，嗯？'，米米抱住他说确实如此。",
+      "anchor": "Alf constructed a desk in my tiny bedroom using a plank of ply raised on stacks of wooden seed trays",
+      "byte_offset": 3412,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "帕梅拉来看书桌、倒在床上想聊天；米米感得到她想说话（自跟惠普尔做工后姊妹几小时见不着、她想她们）。米米逐一数'无处可躲'：西莉亚无声无息出现在背后挑剔活计、惠普尔叫她别理会；南希举着相机镜头凑到鼻子底下'装作我不在'；拉夫抱着吉他人到处找听众。唯独绝口不提劳伦斯——他已去伦敦两晚看女友玛戈；他离开那天早晨米米在橘园撞见他读书（严肃、书卷气的一面），他抬头绽出男孩般笑容还求'求你了，快把我从代数拓扑里解救出来'；但米米的工作要求礼数与距离，她藏起渴望（强压着河流共泳的联结不去想）借口离开。",
+      "anchor": "Lawrence, who’d gone to London for a couple of nights to see his girlfriend, Margo",
+      "byte_offset": 5073,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "米米一句'说不定你真会去'（接帕梅拉'这听着简直是世上最糟的工作，我宁可永远翻堆肥'的讥讽）让帕梅拉笑容褪去、陷入沉默、起身走开，姊妹亲密荡然无存；此后几天她更冷，一阵烦躁易碎、一阵恍惚出神——连马克基带着深情小狗眼和一篮树莓上门，她也心不在焉地道谢，他走时像矮了几英寸；阿尔夫注意到她的变化只归因天热（'鸟都反常了'）。村里店和教堂的狂热话题一半是卡斯威尔家的派对、一半是登月（南希吐槽'要是个男的上去，可不嘛'，帕梅拉说'他爱去谁去，我脚踏实地球'）。米米还撞见帕梅拉深夜独自在河边如痴如醉仰望星空，次日又独自穿过暮色田野进村，说要坐进凉爽的石教堂'让脑子静一静'。",
+      "anchor": "Pamela cooled further, in a weird mood, restless and brittle one minute, dreamy the next.",
+      "byte_offset": 6077,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "过了午夜睡不着的米米循着门缝灯光进了帕梅拉闷热汗湿的小卧室：她瞳孔巨大、焦糖色虹膜环绕，手里捧着一本足以催眠的植物百科却根本没在读（眼睛不左右移动）；窗帘敞向缀着星与一天比一天圆的白月的夜空。帕梅拉声音发噎地说速写本'可能是你出去的护照，米里亚姆'，又冷冷甩出'没你我们也应付得来'；被米米轻声问'是因为我，对吧'后她爆发：'你为什么觉得什么事都跟你有关？为什么就不能有一次，是关于我的？''你难道认为我不想看世界？没有抱负？不……不渴望什么？'随即又缩回'只是种感觉，天热心乱'，以要读枣椰树资料为由道晚安送客。",
+      "anchor": "Why can’t it, for once, just be about me?",
+      "byte_offset": 8867,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {"pair": "Mimi ↔ Harold Caswell", "relation": "恐惧与回避：听脚步声辨人、靠暗道躲避；'哈罗德的呼吸在十二英尺外都能察觉'", "quote": "Harold’s breathing is detectable twelve feet away", "byte_offset": 4327},
+    {"pair": "Mimi ↔ Elliot Whipple", "relation": "师徒与庇护：不点破她的躲避、心照不宣的同情，尽量把她留在身边工作；他的版画与纹样伴她入梦"},
+    {"pair": "Mimi ↔ Pa", "relation": "紧绷：怕他反应而瞒着工作与哈罗德的事；他把速写本当成挑衅；第三杯啤酒后的发作后全家噤声"},
+    {"pair": "Mimi ↔ Ma", "relation": "母女同盟：茶后关门密谈打探卡斯威尔家；对西莉亚与哈罗德分房睡挑眉会意——'若有的选，女人不会跟哈罗德·卡斯威尔同床'"},
+    {"pair": "Mimi ↔ Alf", "relation": "兄弟扶持：木板加育苗盘造书桌、'比大宅里任何东西都好'；他也最先察觉帕梅拉的变化"},
+    {"pair": "Mimi ↔ Pamela", "relation": "姊妹亲密出现裂痕：'说不定你真会去'一句戳中对方；帕梅拉控诉米米以自我为中心，泄露想看世界、有抱负、有渴望，又立刻缩回；米米则隐瞒劳伦斯的事"},
+    {"pair": "Mimi ↔ Lawrence", "relation": "压抑的好感：橘园读书的书卷气一面、河流共泳的联结；他已有女友玛戈，且她的新工作要求'必要的距离'，她藏起渴望借口离开"},
+    {"pair": "Pamela ↔ Mackie", "relation": "追求者受挫：小狗眼加一篮树莓换来心不在焉的道谢，他离开时'矮了几英寸'", "quote": "a couple of inches shorter", "byte_offset": 6298},
+    {"pair": "Celia ↔ Harold（卡斯威尔夫妇）", "relation": "分房而睡：经妈妈的盘问与挑眉透露，暗示婚姻有名无实"},
+    {"pair": "Mimi ↔ Caswell 宅众（Celia / Nancy / Rafe）", "relation": "无处可躲的职场日常：西莉亚无声出现在背后查工挑刺、事事指点'怎样能做得更好'；南希拿她当'粗粝社会纪实'拍摄对象（'装作我不在'）；拉夫抱吉他人找人听新歌"},
+    {"pair": "Doris ↔ Mimi", "relation": "暗中指路人：教她暗道逃生路线，托词'以防火灾'但眼神泄露另有隐情"},
+    {"pair": "Pamela ↔ '向内的远行'", "relation": "异兆伏线：河边如痴望天、独访石教堂、通宵捧读植物百科而不读、月圆意象——'她似在秘密前往体内未探之地'", "quote": "look of rapture", "byte_offset": 7077}
+  ],
+  "numbers_dates": [
+    {"item": "Lot 10 / July 1969 / Set of three", "quote": "Lot 10: Mimi’s first decorating sketchbooks, July 1969. Set of three.", "byte_offset": 23, "hits": 1, "note": "拍卖图录第10号拍品：米米最早的装饰速写本三册（1969年7月），含惠普尔的实用笔记与拉什伍德室内早稿——全章即由这批速写本引出"},
+    {"item": "twelve feet", "quote": "Harold’s breathing is detectable twelve feet away", "byte_offset": 4327, "hits": 1, "note": "米米向帕梅拉形容躲开哈罗德何其容易"},
+    {"item": "third beer", "quote": "on his third beer after a difficult day", "byte_offset": 3072, "hits": 1, "note": "爸爸对速写本发作时的第三杯啤酒"},
+    {"item": "a couple of nights", "quote": "gone to London for a couple of nights to see his girlfriend, Margo", "byte_offset": 5091, "hits": 1, "note": "劳伦斯赴伦敦看女友玛戈的时长"},
+    {"item": "a couple of inches shorter", "quote": "a couple of inches shorter", "byte_offset": 6298, "hits": 1, "note": "马克基被帕梅拉心不在焉对待后离开的样子"},
+    {"item": "the man due to walk on the moon", "quote": "the man due to walk on the moon", "byte_offset": 6671, "hits": 1, "note": "1969年7月登月前夕的时代背景：村中话题把卡斯威尔家的派对与登月'同一口气'并提；南希'要是个男的，可不嘛'、帕梅拉'我脚踏实地球'"},
+    {"item": "gone midnight", "quote": "gone midnight", "byte_offset": 7326, "hits": 1, "note": "米米夜访帕梅拉的时间点"},
+    {"item": "fuller by the day", "quote": "pinned with stars and a white moon, fuller by the day", "byte_offset": 7875, "hits": 1, "note": "帕梅拉窗帘上钉着的白月'一天比一天圆'——月相渐盈标记章内时间推进（对应1969年7月登月前）"}
+  ],
+  "turning_point": "深夜米米撞见帕梅拉捧着植物百科却根本没在读、瞳孔放大，帕梅拉爆发'为什么就不能有一次是关于我的'，首次泄露她想看世界、有抱负、有渴望，随即又缩回'只是种感觉'——米米靠速写本当'出去的护照'向上逃离，帕梅拉却在秘密'向内远行'，姊妹从此各怀一个想逃的方向。"
+}

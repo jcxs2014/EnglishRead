@@ -1,0 +1,151 @@
+{
+  "chapter": "ch20",
+  "text_file": "text/ch20_chapter_20.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "动身日清晨，Ma 在厨房桌上摆出炒蛋、浇自家蜂蜜的燕麦粥、炸面包、炸番茄、焗豆等丰盛早餐为 Miriam 送行（像送她上战场而非去做装修帮工），她胃里打结硬吃下去；Pa 无言相送、已带着 Alf 躲进棕榈馆。",
+      "anchor": "Scrambled eggs, porridge doused in honey from the hives, fried bread, fried tomatoes, baked beans",
+      "byte_offset": 738,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Pamela 留下替 Miriam 把头发盘成两人猜想的『职业』发型、刷掉黑裤上的鸡绒、熨衬衫、擦平跟鞋，并用指尖把口红点进她双颊；随后罕见地紧拥她（感觉像道别）。Miriam 跑下楼又折返道谢，Pamela 说『别想赖在我身上，你只能怪自己』并给了她一个飞吻。",
+      "anchor": "try to pin this on me. You have only yourself to blame.",
+      "byte_offset": 1854,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Whipple 在黑色货车旁迎接，开口不算寒暄只说『距宴会只剩十天』，抱怨一个客户期望不切实际、另一个不肯再花一个便士；他问她会不会挂窗帘，随即断言『这行不通，我根本没时间带你入门』。",
+      "anchor": "Ten days until the party",
+      "byte_offset": 2249,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Miriam 自述刚用园艺铁丝在自家厨房挂了窗帘、承诺『说一遍你就不用重复，我学得快』；Whipple 误叫她 Mimi 后改口 Miriam，又补一句『我觉得你更像一个 Mimi』；她把围裙带在腰上绕两圈系紧，独自把沉重的新窗帘从车上搬进屋并拒绝帮忙——Mimi 之名自此成立。",
+      "anchor": "I believe you might be more of a Mimi, you know?",
+      "byte_offset": 3548,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "这是她第一次越过门厅深入 Rushwood（此前只见过 estates 地图与木楼梯），她立刻爱上这宅子；宅内表象闲适、底下是对称平衡的苛规；敞窗里传来 Rafe 与 Nancy 对打网球的喊叫，这些声响强化主仆之隔，她自认又成了佣人，但渴望抓住新生活的机会并抓紧不放。",
+      "anchor": "I fell in love immediately.",
+      "byte_offset": 3971,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "两人在客房拆旧帘装新帘：Whipple 必须随不完美条件调整，且把自己的想法都当作 Celia 的主意来呈现（『人人都自以为有品位』）；窗帘在倾斜下沉的地板上调至齐平，不许堆地、更不许挂太高。上午中段移到阁楼客房，Whipple 下楼去陪 Celia 聊天，Miriam 独自拆窗帘系带。",
+      "anchor": "Everyone believes they have good taste",
+      "byte_offset": 6383,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "阁楼客房里，穿酒红色缎面晨衣、赤脚出汗的 Harold Caswell 进屋坐上床搭话：说妻子在泳池看见了她、Celia 很不满意；点明是他出面向 Celia 说情才让 Miriam 留下（Lawrence 需要接触『不同的类型』），评她的蓝色泳衣『很好看』，又让 Lawrence 忘掉钢琴、网球、『Margo, the London beau』——她心里默念『她该叫 Margo』——并说『Rushwood 的事不出 Rushwood』。",
+      "anchor": "My wife saw you in the pool.",
+      "byte_offset": 8709,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Harold 放话宴会之后一切恢复原状——园丁回园子、远离泳池、『你那双漂亮灵巧的手回虫土里去』——随后坐近、微岔双腿、以『除非你这只尖嘴小苹果想提议个……』话音未落，被抱着一摞叠好床单的 Doris 打断：她笑称『早上好，Caswell 先生』，叫 Miriam 下楼有人需要、快跟上。",
+      "anchor": "After this party, everything goes back to how it was.",
+      "byte_offset": 11896,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miriam Bramley = Mimi",
+      "detail": "叙述者 Miriam Bramley 的绰号 Mimi 由 Elliot Whipple 首创（拍卖图录注），本章当面命名成立；Bramley 是苹果品种名，Harold 借此叫她『my sharp little apple』。",
+      "anchor": "Elliot Whipple, mentor and close friend, was the first to call her Mimi",
+      "byte_offset": 337,
+      "hits": 1
+    },
+    {
+      "pair": "Elliot Whipple — Mimi",
+      "detail": "导师与挚友，装修师雇主；1985 年卒于伦敦，AIDS 相关疾病（图录注的时间线信息）。",
+      "anchor": "died in London in 1985 of an AIDS-related illness",
+      "byte_offset": 467,
+      "hits": 1
+    },
+    {
+      "pair": "Harold Caswell — Celia — Lawrence",
+      "detail": "Harold 与 Celia 为夫妻；Lawrence 是其二十一岁的『Golden Boy』儿子，被牛津『软化』（『wet as a scallop』），且受 Celia 溺爱（Harold 语：『whom she coddles awfully』）。",
+      "anchor": "twenty-one and wet as a scallop",
+      "byte_offset": 10422,
+      "hits": 1
+    },
+    {
+      "pair": "Celia — Miriam",
+      "detail": "Celia 是美国人、慷慨乐善、信奉奋斗者得机会，但『首先是忠实的妻子、母亲、管家』且护短；她在泳池撞见 Miriam 一幕而大为不悦，构成 Harold 敲打的由头。",
+      "anchor": "an American, who believes in opportunity for those who work hard and shine",
+      "byte_offset": 9250,
+      "hits": 1
+    },
+    {
+      "pair": "Nancy / Rafe / Doris — 泳池旧事",
+      "detail": "Nancy 邀 Miriam 下水（Harold 转述，称她『追乐趣如猎犬逐狐』）；是 Rafe 把 Miriam 拽进池中；Doris 当时曾想 discreetly 提醒什么、未及出口。",
+      "anchor": "Rafe tugged me into the pool",
+      "byte_offset": 10109,
+      "hits": 1
+    },
+    {
+      "pair": "Doris — Miriam",
+      "detail": "Doris 是宅内规矩的操持者（用尺子保证餐盘等距），关键时刻以『楼下需要 Miriam』打断 Harold 的未竟之言、替她解围。",
+      "anchor": "A very good morning, Mr Caswell!",
+      "byte_offset": 12417,
+      "hits": 1
+    },
+    {
+      "pair": "Bramley 家人 — Miriam",
+      "detail": "Pamela 是姐姐（打理行头、紧拥如道别、飞吻送行）；Ma 早餐送行；Pa 与 Alf 无言回避、躲进棕榈馆。",
+      "anchor": "Pamela pulled me into a rare tight hug",
+      "byte_offset": 1559,
+      "hits": 1
+    },
+    {
+      "pair": "Rafe / Nancy — Lawrence",
+      "detail": "Rafe、Nancy 与 Lawrence 是同辈玩伴圈；Harold 斥之为 Lawrence 该摆脱的『silly friends like troubadour Rafe』。",
+      "anchor": "silly friends like troubadour Rafe",
+      "byte_offset": 11041,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "value": "Lot 9 / Lot 9B",
+      "note": "拍卖品编号：Lot 9 黑色棉围裙（金线绣 Elliot Whipple, Belgravia，Mimi 在 Rushwood 首份工作所用）；Lot 9B 银壳小卷尺，刻 E.W.，Mimi 工具箱旧物。",
+      "anchor": "Lot 9B: Small tape measure in a sterling silver case",
+      "byte_offset": 209,
+      "hits": 1
+    },
+    {
+      "value": "1985",
+      "note": "Elliot Whipple 卒于伦敦之年，死因为 AIDS 相关疾病（图录注）。",
+      "anchor": "died in London in 1985 of an AIDS-related illness",
+      "byte_offset": 467,
+      "hits": 1
+    },
+    {
+      "value": "Ten days",
+      "note": "距 Rushwood 宴会只剩十天（Whipple 见面第一句话）。",
+      "anchor": "Ten days until the party",
+      "byte_offset": 2249,
+      "hits": 1
+    },
+    {
+      "value": "twenty-one",
+      "note": "Harold 说 Lawrence 二十一岁，『wet as a scallop』、被牛津回廊软化。",
+      "anchor": "twenty-one and wet as a scallop",
+      "byte_offset": 10422,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Harold 以『宴会后一切复原』相威胁并抛出半句性暗示提议（『my sharp little apple, you'd like to propose a…』），话音未落被端着床单的 Doris 打断带走——Mimi 首日新生活的希望急转为主人胁迫下的险境。"
+}
