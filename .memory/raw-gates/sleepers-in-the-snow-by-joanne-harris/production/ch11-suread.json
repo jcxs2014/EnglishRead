@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch11",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch11_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "男主两天没有出门，不想见人，自认大概是在哀悼",
+   "anchor": "I haven’t been out of the house for two days",
+   "start": 44,
+   "end": 88
+  },
+  {
+   "fact": "两周前 Arthur 和 Caroline 还只是登记册上的两个名字",
+   "anchor": "Arthur and Caroline were just names on a register",
+   "start": 331,
+   "end": 380
+  },
+  {
+   "fact": "这种不成比例的悲伤像侧风一样撕扯着他",
+   "anchor": "disproportionate grief tore at him like a crosswind",
+   "start": 683,
+   "end": 734
+  },
+  {
+   "fact": "他哀悼的是自己、自己的人生、破碎的婚姻（后面还有 his kids）",
+   "anchor": "He was grieving for himself, his life, his broken marriage",
+   "start": 1238,
+   "end": 1296
+  },
+  {
+   "fact": "他把给 Arthur 的信原封不动放在壁炉台上",
+   "anchor": "He’d kept the letter to Arthur unopened on the mantelpiece",
+   "start": 1708,
+   "end": 1766
+  },
+  {
+   "fact": "他三天后又读了三本 Caroline 的笔记本",
+   "anchor": "he’d read another three of her notebooks",
+   "start": 1928,
+   "end": 1968
+  },
+  {
+   "fact": "Caroline 的日记写：老 Arthur 有时会回来——一小时，或一天",
+   "anchor": "the old Arthur comes back – for an hour, for a day",
+   "start": 2548,
+   "end": 2598
+  },
+  {
+   "fact": "电线里第二个声音是那个没有来过圣诞节的儿子",
+   "anchor": "the one who had not come for Christmas",
+   "start": 4942,
+   "end": 4980
+  }
+ ]
+}

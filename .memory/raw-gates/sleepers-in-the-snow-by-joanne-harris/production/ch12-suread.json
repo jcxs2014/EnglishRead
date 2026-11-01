@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch12",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch12_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "2024-10-09 男主进 Lyke 村采购食品杂货并订购燃料",
+   "anchor": "Went into the village today. Bought groceries and ordered some fuel.",
+   "start": 43,
+   "end": 111
+  },
+  {
+   "fact": "他订购三十袋固体燃料，约定一周内送达",
+   "anchor": "Thirty bags of solid fuel, to be delivered within the week",
+   "start": 352,
+   "end": 410
+  },
+  {
+   "fact": "夜里狐狸嚎叫，荒原上猎物应当很多",
+   "anchor": "Foxes screaming in the night. Must be lots of prey on the moor.",
+   "start": 142,
+   "end": 205
+  },
+  {
+   "fact": "咖啡店门口有雕刻南瓜与纸骨架串，提醒他万圣节只剩三周",
+   "anchor": "A row of carved pumpkins by the door and a garland of paper skeletons reminded him that Halloween was just three weeks away.",
+   "start": 1155,
+   "end": 1279
+  },
+  {
+   "fact": "「the walk」是四十英里穿越 Scarth Wood Moor 到 Ravenscar、须在二十四小时内走完的著名路线",
+   "anchor": "Forty miles across Scarth Wood Moor and all the way to Ravenscar. You’re meant to do it in twenty-four hours. It’s famous.",
+   "start": 1686,
+   "end": 1808
+  },
+  {
+   "fact": "回家路上他想起 Arthur 日记里「这些荒原上有步行者」",
+   "anchor": "One the way back with his groceries, he thought of Arthur’s diary. There are walkers on these moors.",
+   "start": 2011,
+   "end": 2111
+  },
+  {
+   "fact": "窗外一个女孩声音说「You can’t just ignore us, Dad」",
+   "anchor": "You can’t just ignore us, Dad, said a voice just outside the window.",
+   "start": 2849,
+   "end": 2917
+  },
+  {
+   "fact": "女孩叫他 Arthur，把他认成了另一个人",
+   "anchor": "Keep telling yourself that, Arthur.",
+   "start": 3476,
+   "end": 3511
+  }
+ ]
+}

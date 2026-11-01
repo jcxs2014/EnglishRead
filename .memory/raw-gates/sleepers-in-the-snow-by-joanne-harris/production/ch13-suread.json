@@ -1,0 +1,61 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch13",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch13_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "日记日期：2024 年 10 月 14 日，大雾天，电塔顶部被雾遮住",
+   "anchor": "October 14th, 2024",
+   "start": 23,
+   "end": 41
+  },
+  {
+   "fact": "雾浓到遮住电塔顶，山谷变成一口白锅，道路、风机、羊群全部消失",
+   "anchor": "Fog so thick this afternoon that it hid the top of the pylon",
+   "start": 44,
+   "end": 104
+  },
+  {
+   "fact": "他过去出门总是绕开电塔，这次却主动走近它——至少距屋百码，脚下是石楠与苔草",
+   "anchor": "He’d always walked away from the thing on his ventures out of the house. This time, he chose to approach it",
+   "start": 1079,
+   "end": 1186
+  },
+  {
+   "fact": "电塔第二座土丘上躺着一只崭新荧光绿网球，令人憎恶地眼熟，他脚下如灌混凝土无法动弹",
+   "anchor": "There was a bright green tennis ball lying on the second mound. A bright green, brand-new tennis ball, hatefully familiar",
+   "start": 2813,
+   "end": 2934
+  },
+  {
+   "fact": "电线里传出 Caroline 的声音命令他快跑，他朝小屋跑时踩空扭伤脚踝，手掌被割出血",
+   "anchor": "Run, said Caroline’s voice from the wires. Run away as fast as you c—",
+   "start": 4048,
+   "end": 4117
+  },
+  {
+   "fact": "Caroline 的声音第二次命令他跑并喊出 Arthur 的名字——他正想指出「你叫我 Arthur」时电塔臂臂垂下",
+   "anchor": "Run, said Caroline again from a hedge of static. Arthur, run!",
+   "start": 5711,
+   "end": 5772
+  },
+  {
+   "fact": "他跌倒处地面嵌着半只咖啡杯残片，杯上「World’s Best D—」字样——他怀疑 Arthur 把碎杯埋在荒原作召唤仪式",
+   "anchor": "the broken half of a coffee mug – brown, and with the words World’s Best D— just visible above the turf",
+   "start": 5032,
+   "end": 5135
+  },
+  {
+   "fact": "他把球用力掷进浓雾，球沿原轨迹飞回打在他脸上，他本能拍开，受伤的手掌剧痛如遭雷击",
+   "anchor": "Then the ball came flying back on the same trajectory",
+   "start": 9485,
+   "end": 9538
+  },
+  {
+   "fact": "雾中走出一个苍白如空气的身影，狐狸般的步态，穿派克大衣的女孩，笑脸如石膏天使——他连念三遍「荒原上有徒步者」后在门口昏倒",
+   "anchor": "a figure came out of the mist, pale as air, and indistinct as a figure from a dream. It started to move towards him with a lilting, dancing gait, like a fox in the skin of a girl. A girl in a parka, with a smile like a plaster angel",
+   "start": 11101,
+   "end": 11333
+  }
+ ]
+}
