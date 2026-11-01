@@ -8,5 +8,5 @@
 | 「Ten days until the party」 | text:47 ✓ | 成立 | 已核实为正确 |
 | 「what happens at Rushwood stays at Rushwood」 | text:170 ✓ | 成立 | 已核实为正确 |
 ## 已核实为正确
-- 原句9 分析「三步改写」——"But it wasn't luck. It was my sister." 不在本章（此句属 ch16）；本块分析未引该句，无跨章误植。核对：块9 引语 "Oh, it's your lucky break, Mim," said Pamela…（text:209）✓——wait 该句在 ch16；本块(20) 无此块。复核表修正：ch20 块9=原句9 Doris 解围，上面行号对应正确。
+- 跨章核对：ch16 的点题句 "But it wasn't luck. It was my sister." 未被本章（ch20）任何分析引用——无跨章误植。
 - 词汇例句 16 条均本章原句。覆盖声明：R1→R4 全流程。
