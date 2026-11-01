@@ -97,7 +97,7 @@ modified: "2026-10-31"
 
 > **原句 9:** "He made a pot of tea – that old and time-defying ritual. Two spoonfuls of tea, and one for the pot; and such was the power of memory that he almost put out two teacups. Instead, he chose a Judge Dredd mug and wondered who it belonged to. The boy had always loved Judge Dredd."
 
-**中文理解**：他沏了一壶茶——古老而超越时间的仪式。两勺茶叶、壶一勺；记忆的力量如此强大，他差点摆出两只茶杯。最后他选了一只 Judge Dredd 马克杯，心想这是谁的；男孩从前总爱 Judge Dredd。差一点摆出的第二只杯子，是前妻或亡亲的幽灵；Dredd 杯则牵出儿子。
+**中文理解**：他沏了一壶茶——古老而超越时间的仪式。两勺茶叶、壶一勺；记忆的力量如此强大，他差点摆出两只茶杯。最后他选了一只 Judge Dredd 马克杯，心想这是谁的；男孩从前总爱 Judge Dredd。差一点摆出的第二只杯子，是过往家庭生活的幽灵；Dredd 杯则牵出儿子。
 
 **关键词**：ritual / spoonfuls / Judge Dredd / memory
 

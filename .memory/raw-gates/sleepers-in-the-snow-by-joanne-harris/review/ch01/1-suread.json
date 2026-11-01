@@ -1,0 +1,15 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch01",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch01_chapter_1.txt",
+ "facts": [
+  {"fact": "2024年9月21日，他住进这座因便宜而买下的乡间小屋。", "anchor": "September 21st, 2024", "start": 20, "end": 40},
+  {"fact": "他没看房就从一个叫 Rombold and Wade 的公司冲动买下了这栋房子。", "anchor": "bought it on impulse from a firm called Rombold and Wade", "start": 482, "end": 538},
+  {"fact": "妻子离开了他，却仍一路指责他做事冲动、固执、自私。", "anchor": "you left me. You don’t get a say any more.", "start": 1016, "end": 1058},
+  {"fact": "儿子十二岁，妻子嫌他读《特警判官》是垃圾，他当场反驳“他在读书就该高兴”。", "anchor": "He’s twelve. Be glad he’s reading.", "start": 11114, "end": 11148},
+  {"fact": "因为嫌狗不卫生、怕影响孩子，家里的狗被送去了农场。", "anchor": "And so the dog had gone to the farm", "start": 12313, "end": 12348},
+  {"fact": "他认定屋后这座铁塔高逾三百英尺，是自己见过最大的高压铁塔。", "anchor": "It must have been over three hundred feet", "start": 14312, "end": 14353},
+  {"fact": "凌晨两点他被电话铃声惊醒下楼查看，但座机线路早已被切断。", "anchor": "At two o’clock in the morning he awoke with a start", "start": 17114, "end": 17165},
+  {"fact": "他在厨房窗玻璃里看见一个白发张嘴的老人盯着自己，关窗后那身影消失。", "anchor": "he thought he saw someone looking in. A man with white hair", "start": 20258, "end": 20317}
+ ]
+}
