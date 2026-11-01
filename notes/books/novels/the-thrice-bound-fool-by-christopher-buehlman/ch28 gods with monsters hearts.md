@@ -7,7 +7,7 @@ modified: "2026-11-01"
 
 ## 本章导航
 - **一句话概括**：压轴群战——三队各三人（每队一 kynd 一半巨一真巨），Galva 是全场唯一的女性与唯一的类人族；她一剑贯心 Praxeter 队的女巨（「像迷路的孩子」向嘲笑她的看台求救），满月升进白石巨手的三角、火流给六位被选者戴上火帽；散场时 Merkin 狗消失了——而 Galva 的三个手势词成了他活下去的理由：Get. Us. Home.
-- **情感弧线位置**：Part III 的第一座血峰。群战的规则（巨对巨、人对人）把 Galva 的以小胜大推到极限，赛后仪式（满月、火帽、尖叫）把杀戮升格为全民的宗教高潮——标题判词「神的长相、怪物的心」是他对这座城最冷的定性。
+- **情感弧线位置**：第三部 的第一座血峰。群战的规则（巨对巨、人对人）把 Galva 的以小胜大推到极限，赛后仪式（满月、火帽、尖叫）把杀戮升格为全民的宗教高潮——标题判词「神的长相、怪物的心」是他对这座城最冷的定性。
 - **Tropes 兑现/反转**：team battle royale（团队混战）兑现成三边博弈与临时停战——联盟比武力先阵亡；giant slayer（屠巨者）兑现到心脏位置——但死亡的慢镜头（捂胸走开）比快剑更狠；loyal pet（忠诚宠物）反转成一次性玩具——Merkin 的消失是公主残酷的日常损耗。
 - **人物弧线**：Galva 的孤军战法与 Galva 的手势命令（三词）在此合流——她把他从「宠物」升级为「共谋」；Kinch 对女巨的怜悯（lost child）是他第一次在敌人身上看见人；公主的「your friend is GOOD!」的尖叫确认了她的价值观：伤害即才华。
 - **叙事手法**：战报拒绝逐拍（「punch by chop 不给你了」），只留三次凝视；女巨之死用「走开—求救—跪倒」的降镜头反高潮；满月三角的仪式呼应 ch27 的石手伏笔；章尾三词分行（Get. Us. Home.）把全书的最小口号立成里程碑。
@@ -60,7 +60,7 @@ modified: "2026-11-01"
 **中文理解**：不管那只狗到底怎么样了，我在心里发誓：朋友要我做的事，我一定办到。Galva 那三个手势词，成了我在这魔窟活下去的理由——带我们回家。
 **关键词**：Whatever his actual fate / swore to do exactly / three canted words / my reason for staying alive
 **为什么这样写**：誓言的重量靠狗的死垫底——宠物的失踪（连尸首都不给）把这座城的日常残酷再添一笔，他的愤怒无处投递，只能兑付成誓言；三个单词的分行排版是全书的口号碑文，每个词一竖行，像三块界碑。
-**读者视角提示**：「Get. Us. Home.」是 Part III 剩余章节的总纲——记住它，后面每一次挣扎、每一条情报、每一笔交易都在给这三个词打工。
+**读者视角提示**：「Get. Us. Home.」是 第三部 剩余章节的总纲——记住它，后面每一次挣扎、每一条情报、每一笔交易都在给这三个词打工。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
@@ -81,7 +81,7 @@ modified: "2026-11-01"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | marshal | 典礼官；司仪 | A marshal was talking in Erydon. |
-| winch | 绞盘 | (从上章延续) the hilloxen…made to pull a winch that pushed up a tablet. |
+| tattoos | 刺青（复数） | …a female with a shorn head and faded blue tattoos of what looked like stars all over her. |
 | orb | 球体；月轮 | From our privileged position in the arena, the pinkish orb was just entering the triangle formed by the great stone hands. |
 
 ## 一句话总结

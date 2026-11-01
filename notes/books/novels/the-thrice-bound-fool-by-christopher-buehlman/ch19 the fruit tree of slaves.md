@@ -110,12 +110,12 @@ modified: "2026-11-01"
 |---|---|---|
 | chattel | 动产；（法律）财产（含奴隶） | The sight of the leaves changing from green to red as our chained line of chattel walked through the sourwood trees was a strangely pleasant thing to see. |
 | glean | 拾穗；四处搜罗 | many were they who gleaned the foothills of the Thralls for the unwanted of Manreach. |
-| melee | 混战 | her academy training had too greatly emphasized single combat, which could sometimes blind her to the more confusing demands of a melee. |
+| gleaned | 拾穗；四处搜罗（此处指搜捕散奴） | many were they who gleaned the foothills of the Thralls for the unwanted of Manreach, and such captives as us trickled in all the time. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| auction | 拍卖 | Panic tried to rise up in me—had I escaped the silver mines of home just to die down a tunnel in the far and foreign west? |
+| bidding | 出价；竞买 | During the bidding, though I didn’t yet speak the language of the half-giants, and never properly would, I was able to make out more or less what was happening. |
 | collar | 项圈 | There was still wonder to be had in the world, even with an iron collar on the neck. |
 | welts | 鞭痕（复数） | I got a couple more bleedy welts across the back while I spat out blood and that tooth that once sat so pretty in my mouth. |
 

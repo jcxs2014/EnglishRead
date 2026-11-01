@@ -7,10 +7,10 @@ modified: "2026-11-01"
 
 ## 本章导航
 - **一句话概括**：给 Erydon 的第二首骂诗与空中鸟瞰（水渠手指、三层城墙、绿琥珀灯）一同抵达；女监工 Ponira 的称呼课与黑glass棍打得他一声「huh」就见血，Galva 被预告「明日归沙师」——塔底的呻吟原来是一位盲眼老 geigon 在拉升降笼——两人就此分离，「她在这座城出了一阵子名」。
-- **情感弧线位置**：Part II 终章，牢笼的正式交接。诗是他们对这座城市的判决书，Ponira 的规矩课是奴籍的入册仪式，而盲眼 Pulhu 是他们第一次看见「这里的奴隶会老」——分离的预告句把 Part III 的分线叙事挂上钩。
+- **情感弧线位置**：第二部 终章，牢笼的正式交接。诗是他们对这座城市的判决书，Ponira 的规矩课是奴籍的入册仪式，而盲眼 Pulhu 是他们第一次看见「这里的奴隶会老」——分离的预告句把 第三部 的分线叙事挂上钩。
 - **Tropes 兑现/反转**：welcome to the palace（宫廷欢迎）反转成称重与命名——「Ponira」的称呼课是洗脑的第一课；dumb beast of burden（哑牲口）反转成活的升降机——最老最大的奴隶是塔的心脏；poetic justice（诗式正义）双面兑现——骂诗立誓、毒刺回赠，师生关系定稿。
 - **人物弧线**：Kinch 的「huh」失声是一次没管住的诚实，换来黑glass棍的即时教学——他学会了「把疑问咽回去」；Galva 的沉默是她最后的自由（拒答比错答贵）；盲眼 Pulhu 的一生是本章立起的镜子：力气用尽、眼睛用瞎、还要等换班。
-- **叙事手法**：骂诗以「师生对账」收尾（learned/spelled back）；空中鸟瞰按市政图则推进（墙、渠、灯）；Ponira 出场用「高鞋与警觉柱」的喜剧速写包裹暴力；塔底的呻吟用声学悬念引出活体引擎，收尾两句给 Part III 上膛。
+- **叙事手法**：骂诗以「师生对账」收尾（learned/spelled back）；空中鸟瞰按市政图则推进（墙、渠、灯）；Ponira 出场用「高鞋与警觉柱」的喜剧速写包裹暴力；塔底的呻吟用声学悬念引出活体引擎，收尾两句给 第三部 上膛。
 
 ## 精读
 > **原句 1:** "Yours is a god I know to be real, and what a sorrow, for that bastard would rather a stillbirth than a kindhearted son, would pour fire in the eyes of a daughter who wept, has murdered his offspring by the brood, by the nation, throughout epochs, and all for the crime of being softer than stones, less painful to touch than thorns, less apt to consume than fire, or a lion."
@@ -18,7 +18,7 @@ modified: "2026-11-01"
 **中文理解**：你们的神，我知道是真的——何其可悲。那杂种宁可要死胎也不要心软的儿子，会把火倒进哭泣的女儿眼里；他一窝一窝地、举国地、亘古地杀自己的孩子——全因为他们的罪：比石头软、比荆棘不扎手、不如火与狮子那么会吞噬。
 **关键词**：I know to be real / rather a stillbirth / pour fire in the eyes / the crime of being softer than stones
 **为什么这样写**：诗的控诉从神谱下手——温柔在此被立法为死罪（三连「less」的罪状清单全是美德）；「I know to be real」接住 ch18 的「有些神是真的」，让信仰的确认与道德的厌恶共用同一口气：他信的神，正是他恨的神。
-**读者视角提示**：这首诗是 Kinch 对 Thumos 系神权的总判词——「软即罪」的罪名清单会反着照亮 Galva 的战斗哲学与 Part IV 的神学收场。
+**读者视角提示**：这首诗是 Kinch 对 Thumos 系神权的总判词——「软即罪」的罪名清单会反着照亮 Galva 的战斗哲学与 第一部V 的神学收场。
 
 > **原句 2:** "Only the blind are glad to see you, only the senseless covetous of your embrace, only the deaf mistake the sobbing of your lovers for pleasure, o begetter of scorpions, I have at your insistence fashioned a murderous sting. I have learned hard lessons from you and in the end, spelled them back to you, my tutor in deviltry, to my own damnation, and yours."
 
@@ -32,7 +32,7 @@ modified: "2026-11-01"
 **中文理解**：城中显眼的构造里有四道半高的墙——破墙，满是拱门。它们像手指一样伸出，指向 Thralls 群山的各个方向。墙顶闪着微光，原因我后来才知道：那是水渠——把雪水从积雪的 Thralls 一路向西，运给这座最渴的城。
 **关键词**：full of arches / stretched out like fingers / a faint glittering / this thirstiest of cities
 **为什么这样写**：帝国的工程奇观被先贬后捧——「shyte walls」的粗评与「像手指」的 geography 诗并排，水渠的谜底（微光=活水）压到段尾揭晓；「thirstiest of cities」五个字把帝国的荣光换算成水的账单：他们驯服了神的呼吸，却还得向雪山讨水喝。
-**读者视角提示**：记住「向山讨水」这个经济命脉——它与 Part IV 的 Glassfall（山死了）构成直接的因果链。
+**读者视角提示**：记住「向山讨水」这个经济命脉——它与 第一部V 的 Glassfall（山死了）构成直接的因果链。
 
 > **原句 4:** "Though the darkness of Erydon was not the same as the darkness of the cities of Manreach, which would ever after seem benighted and small, for here was a city that had tamed the breath of the gods below the earth and lit its streets and the homes of the rich with lamps that burned that breath behind glass of pale green or amber."
 
@@ -73,8 +73,8 @@ modified: "2026-11-01"
 
 **中文理解**：Galva 和我很快就分开了。她在这座城出了一阵子名。
 **关键词**：would soon be separated / became famous / for a time
-**为什么这样写**：两行收束把 Part III 的两条线一次分开——「separated」是她的线，「famous」是她的谜面，「for a time」是伏笔的保质期：名声有期限，期限之后是什么，全书的骨架都在这三个词上颤。
-**读者视角提示**：这是 Part II 的最后一枚钉子——记住「出了一阵子名」，她的风光与代价将在 Part III 的角斗场与宫廷里分期展开。
+**为什么这样写**：两行收束把 第三部 的两条线一次分开——「separated」是她的线，「famous」是她的谜面，「for a time」是伏笔的保质期：名声有期限，期限之后是什么，全书的骨架都在这三个词上颤。
+**读者视角提示**：这是 第二部 的最后一枚钉子——记住「出了一阵子名」，她的风光与代价将在 第三部 的角斗场与宫廷里分期展开。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
@@ -95,8 +95,8 @@ modified: "2026-11-01"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | recess | 壁龛；凹室 | Standing in a stone recess almost too small for him was the largest geigon I ever saw. |
-| mistresses | 女主人（Ponira 之意） | …but you will call me Ponira, which means ‘Mistress.’ |
+| Mistress | 女主人（Ponira 之意） | …but you will call me Ponira, which means ‘Mistress.’ |
 | quarters | 住处；营房 | Follow me to your quarters. |
 
 ## 一句话总结
-第二首骂诗把 Erydon 记进账本（恶之导师、毒刺回赠），水渠与神息之灯展示帝国的富强与干渴；Ponira 的称呼课敲开奴籍之门，塔底盲眼的 Pulhu 用一生拉一台升降机——Galva 与他的分离就此定档，「她出了一阵子名」，Part III 的两根线各自上弦。
+第二首骂诗把 Erydon 记进账本（恶之导师、毒刺回赠），水渠与神息之灯展示帝国的富强与干渴；Ponira 的称呼课敲开奴籍之门，塔底盲眼的 Pulhu 用一生拉一台升降机——Galva 与他的分离就此定档，「她出了一阵子名」，第三部 的两根线各自上弦。

@@ -65,7 +65,7 @@ modified: "2026-11-01"
 > **原句 8:** "The sweetness of the blueberries and the kindness of the dying little fool made a fresh tear run down his cheek, cutting a path through that smear of his chain’s rust. He even managed to smile as he listened to that hat jingle away from him."
 
 **中文理解**：蓝莓的甜、加上垂死小愚人的善意，让一道新的泪从他脸上淌下来——在铁锈的污痕上冲开一条路。听着那顶帽子叮当远去，他居然还笑了。
-**关键词**：the sweetness of the blueberries / the kindness of the dying little fool / cutting a path through that smear / smiled as he listened
+**关键词**：the sweetness of the blueberries / the kindness of the dying little fool / cutting a path through that smear / smile as he listened
 **为什么这样写**：泪的力学写成化学——甜与善在锈痕上冲出沟渠，泪把污渍（他被迫的处境）划开一线；「jingle away」的听觉收尾让告别有配乐，愚人的铃声是这座塔里唯一自愿的声响。
 **读者视角提示**：记住「冲开一条路」的泪——它跟 ch23 的「白奶色眼」连成 Pulhu 的档案：看得见的痛苦都用泪痕标注。
 

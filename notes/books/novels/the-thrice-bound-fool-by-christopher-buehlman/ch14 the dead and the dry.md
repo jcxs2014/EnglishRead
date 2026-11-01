@@ -108,7 +108,7 @@ modified: "2026-11-01"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| giants | 巨人（复数） | Turns out I only thought I was thirsty. First thing after we woke up and started walking again—we saw giants. Three of them. |
+| giants | 巨人（复数） | First thing after we woke up and started walking again—and may I tell you, I had a skullsplitter of a headache thanks to that cantrip I’d used to light the arrow in the god’s tunnel—we saw giants. Three of them. |
 | slavers | 奴隶贩子（复数） | And with it, the slavers, who changed them forever. |
 | berries | 浆果（复数） | And it was not far from this dead or sleeping river that we found a patch of bushes hung with berries of a bluish hue, but unfamiliar to either of us. |
 

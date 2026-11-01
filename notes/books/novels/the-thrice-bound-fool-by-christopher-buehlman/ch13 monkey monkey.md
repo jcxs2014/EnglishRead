@@ -30,7 +30,7 @@ modified: "2026-11-01"
 > **原句 3:** "Their heads slowly turned as they watched us go by. One leaned close to another, and I swear I thought it whispered in its ear. “That one asks if we are good to eat,” Galva said."
 
 **中文理解**：他们的头随着我们的走动慢慢转。一只凑到另一只耳边——我发誓我真以为它在咬耳朵。「那只在问我们好不好吃，」Galva 说。
-**关键词**：heads slowly turned / whispered in its ear / are we good to eat
+**关键词**：heads slowly turned / whispered in its ear / if we are good to eat
 **为什么这样写**：猴群的威胁不用爪牙用礼仪——围观、耳语、点评，一套观光客的做派包裹着菜单逻辑；Galva 的「翻译」把这份危险点破（问好不好吃），人与猴的攻守在两句台词里完成对调：被围观的是他们。
 **读者视角提示**：「会咬耳朵的猴子」是本章智能设定的第一格——它们有社会、有沟通、有评估，后面的一切讨价还价都从这一格长出来。
 

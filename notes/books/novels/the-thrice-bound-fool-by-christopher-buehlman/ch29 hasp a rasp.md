@@ -54,7 +54,7 @@ modified: "2026-11-01"
 
 **关键词**：THE MAKING OF A LOYAL WIFE / gold lettering on red leather / what karkery / I’m bored. And hungry.
 **为什么这样写**：遗憾的写法是「差一只手的距离」——指尖与书脊之间的那一寸被公主的任性截断；书名的讽刺（忠妻手册在他这个「已婚过一个月的人」手里）让错过的痛带着文学的痒。
-**读者视角提示**：记住这本书名——它跟后面要列的书单是一面墙上的知识版图，而他的手已经伸到一半。
+**读者视角提示**：记住这本书名——它跟那面书单墙上的其他书同属帝国的知识版图，而他的手已经伸到一半。
 
 > **原句 7:** "So we went to a bakery and instead of discovering lost books and reading about the unlikely taming of wives, and the gates of unimagined cities, I watched a big, sticky brat stickily eat cake. I resolved to get into that library, though I never did. Of all the lost wonders of Erydon, this is the one I’m sorriest about."
 
@@ -62,12 +62,7 @@ modified: "2026-11-01"
 
 **关键词**：a bakery / the unlikely taming of wives / a big, sticky brat / I’m sorriest about
 **为什么这样写**：「sorriest about」的排位把图书馆放在他全部失去之物的榜首，比自由、比书、比安全的排名都高；黏娃吃蛋糕与失落之书的对切是这个帝国最日常的暴力——它用无聊就足以杀死求知。
-**读者视角提示**：这是全书最重要的「未完成」——Part IV 的 Glassfall 会替他烧掉这个选项，遗憾从此没有赎回的可能。
-
-**中文理解**：就在我伸手去拿那本小的——红皮金字的好东西，书名《忠妻之养成》——迫不及待想看看里面写的什么混账东西时，公主发话了：「我无聊了。饿了。」于是我们去面包店——本该去发现失落之书、读那些驯妻的奇术与未想之城的门户——结果我看着一个大黏娃黏糊糊地吃蛋糕。我发誓要进那座图书馆，但我从未做到。Erydon 所有失落的奇迹里，这是我最遗憾的一件。
-**关键词**：THE MAKING OF A LOYAL WIFE / “I’m bored. And hungry.” / a big, sticky brat stickily eat cake / I never did
-**为什么这样写**：遗憾的写法是「差一只手的距离」——指尖与书脊之间的那一寸被公主的任性截断；书名的讽刺（忠妻手册在他这个「已婚过一个月的人」手里）让错过的痛带着文学的痒；「sorriest about」的排位把图书馆放在他全部失去之物的榜首，比自由、比书、比安全的排名都高。
-**读者视角提示**：这是全书最重要的「未完成」——记住那份书单与《忠妻之养成》：Part IV 的 Glassfall 会替他烧掉这个选项，遗憾从此没有赎回的可能。
+**读者视角提示**：这是全书最重要的「未完成」——第四部的 Glassfall 会替他烧掉这个选项，遗憾从此没有赎回的可能。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

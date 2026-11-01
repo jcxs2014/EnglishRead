@@ -36,7 +36,7 @@ modified: "2026-11-01"
 
 > **原句 4:** "“NOOOO!” I said, watching as the panicked karker and his two mates went diving right off the edge of a drop. It just came out of me. It echoed in the mountains, NOOOO—noooo—nooooooooooo. Of course, that’s when the rumble started. Behind us."
 
-**中文理解**：「不——！」眼看那只吓疯的畜生带着两个同伴一头扎下崖边，我喊出了声。这不是我想喊的。回声在山里滚：不——不——不——。当然，就在这时，轰隆声开始了。在我们身后。
+**中文理解**：「不——！」眼看那只吓疯的畜生带着两个同伴一头扎下崖边，我失声大喊。这并非我想喊。回声在山里滚动：一声「不」追着一声「不」，再追着第三声。当然，就在此时，轰隆声从我们身后开始。
 **关键词**：It just came out of me / echoed in the mountains / the rumble started / Behind us
 **为什么这样写**：悲剧的机制写得像喜剧的走火——喊声不是决定，是失控（It just came out of me），回声的三段渐弱正好给雪崩留出发令枪的间隔；「Behind us」两个字独立成句，把死亡的方向感钉在读者后颈上。
 **读者视角提示**：他的失声大喊呼应 ch06 的松手——两次都是「身体先于大脑」的瞬间；这个人的求生史一半靠技能，一半靠这种不自知的直。

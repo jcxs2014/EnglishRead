@@ -65,7 +65,7 @@ modified: "2026-11-01"
 > **原句 8:** "“Something-nonsense-hrem-alem,” said one whom I gathered to be a general. “Something-hum-a-dum-something else,” said another, who looked like he hadn’t done a poo in a month and a half. “Grabbus-abbus-ding-dong!” said the queen. “Do you see?” Renata whispered in my ear. “Boring.”"
 
 **中文理解**：「某乱语-hrem-alem，」一位我猜是将军的说。「某哼啊咚-其他什么，」另一位说，看脸像一个半月没拉过屎。「Grabbus-abbus-ding-dong！」王后说。「看到了吧？」Renata 朝我耳语。「无聊。」
-**关键词**：Something-nonsense / hadn’t done a poo / Grabbus-abbus-ding-dong / “Boring.”
+**关键词**：Something-nonsense-hrem-alem / hadn’t done a poo / Grabbus-abbus-ding-dong / “Boring.”
 **为什么这样写**：神谕讨论会的速写用「听不懂」一网打尽——将军、便秘男、王后各自输出乱码，神圣话语的接收端全是杂音；公主的「Boring」作为本章最后一个词落下，把整场启示压回儿童的一句话——帝国的信仰，就这么大点。
 **读者视角提示**：这是「神词无人当真」的第一份证词——只有 Kinch 在认真记（他是全城唯一的外来读者）；记住这份「无聊」，等它变成「要命」的时候，这些人一个都跑不掉。
 

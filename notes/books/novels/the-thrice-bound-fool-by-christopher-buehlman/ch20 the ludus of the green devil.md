@@ -7,9 +7,9 @@ modified: "2026-11-01"
 
 ## 本章导航
 - **一句话概括**：走进绿魔鬼角斗士学校——Verna Zan Zan 的开场白是「欢迎住进你最后一栋房子」；棍打问答课、地震时的「受纳姿势」、她那套「你死了请别说」的金钱哲学轮番开讲；训练戏里他藏拙被戳穿、被三四十磅巨枕击飞，Birch 扔枕关心反挨一拳——一周后，温柔的被卖去采石场，会说话的留在沙边。
-- **情感弧线位置**：Part II 的牢笼定型章。学校把人按「能打的程度」重新定价——Birch 的善良在沙场上是负资产，Kinch 的油滑反而成了活路；「有些人生来不为斗」是本章最疼的一句判词。
+- **情感弧线位置**：第二部 的牢笼定型章。学校把人按「能打的程度」重新定价——Birch 的善良在沙场上是负资产，Kinch 的油滑反而成了活路；「有些人生来不为斗」是本章最疼的一句判词。
 - **Tropes 兑现/反转**：gladiator school（角斗士学校）兑现并附赠女版黑暗企业家——Verna 的每一句冷酷都带着会计的精确；gentle giant（温柔巨人）正面完成悲剧闭环——花冠少年换成了采石场的红石；training montage（训练蒙太奇）反转成一场欺凌的行政流程。
-- **人物弧线**：Kinch 的藏拙是求生也是自误（被 Verna 看穿留作潜力股）；Verna 的「不喜欢你、但会用你喜欢」把 MANAGEMENT 写成一门毒理学；Birch 的「不擅斗」在挨打与关心之间摇摆，最后连关心都成了挨打的理由；Smacky 的苍蝇秃头成了本章的寓言画。
+- **人物弧线**：Kinch 的藏拙是求生也是自误（被 Verna 看穿留作潜力股）；Verna 的「不喜欢你、但会用你喜欢」把管理术写成一门毒理学；Birch 的「不擅斗」在挨打与关心之间摇摆，最后连关心都成了挨打的理由；Smacky 的苍蝇秃头成了本章的寓言画。
 - **叙事手法**：以雕塑鉴定的口吻写校门（大师的摔跤/俗手的绿魔）；开训白用「死亡会计学」的三段论；训练戏的物理喜剧（回声屁、风箱肺）压着情感戏（打伤关心自己的人）；章尾四行短句（kept me/misses nothing/holding back/she was right）把人物的定价一次算清。
 
 ## 精读
@@ -88,14 +88,14 @@ modified: "2026-11-01"
 **中文理解**：就在下一周，Verna 买进一头「合格」巨人——一个彻头彻尾的恶棍，叫 Kaenik。Birch 被卖给采石场，去搬红石头过他那短命的一生——Erydon 什么东西都是那红石头造的。Oustrim 女的去了盐矿。Holt 海军男死在下一周，我们第一场真刀真枪的比赛——「冬愚节」大赛。
 **关键词**：a proper giant / a right mean bastard / his short life / the Winter Folly
 **为什么这样写**：人事调动写得像一张物流单——买进「合格」的恶、卖出「不合格」的善，货物流向各就各位；「short life」三个字提前给 Birch 的采石场生涯下了判决，善良在这套系统里的折旧速度原来到账即清。
-**读者视角提示**：Winter Folly 是 Kinch 的初阵——记住这个节日名，它与「这里没有 gloaming 直入冬」的时间失序一起，给 Part II 上了沙漏。
+**读者视角提示**：Winter Folly 是 Kinch 的初阵——记住这个节日名，它与「这里没有 gloaming 直入冬」的时间失序一起，给 第二部 上了沙漏。
 
 > **原句 12:** "Verna Zan Zan kept me because I could talk to her prize mare. And because she misses nothing. She knew how fast I was and that I was holding back. She guessed I’d stop holding back when my life was on the line. And she was right."
 
 **中文理解**：Verna Zan Zan 留下我，因为我会跟她的爱马说话。也因为她什么都看得见。她知道我有多快、也知道我在藏拙。她猜到我性命攸关时就不会再藏。她猜得对。
 **关键词**：talk to her prize mare / she misses nothing / I was holding back / And she was right
 **为什么这样写**：留下的理由分两层——明面是马语技能，暗面是一场被识破的表演；「she misses nothing」把管理者的可怕写成视觉全开，而「she was right」的认输是他对这层关系的最终定价：他从第一天起就是她押对的那注。
-**读者视角提示**：记住这个「藏拙被看穿」的结构——他与 Verna 的整场博弈（互相知道对方知道）从这里开局，Part III 的沙场戏都是它的续局。
+**读者视角提示**：记住这个「藏拙被看穿」的结构——他与 Verna 的整场博弈（互相知道对方知道）从这里开局，第三部 的沙场戏都是它的续局。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
@@ -110,7 +110,7 @@ modified: "2026-11-01"
 |---|---|---|
 | sandmaster | 沙场主人；角斗士学校主 | “I am Verna Zan Zan, the sandmaster of this ludus, the Ludus of the Green Devil.” |
 | blacksanders | 黑沙角斗士（复数） | In the courtyard, hard men and dams of all shades and sizes, kynd to giant. These were the blacksanders. |
-| drowse-drug | 迷眠药 | The catchpoles and clubs being too small for this bullock and his twelvish feet of height, they had used javelins dipped in a drowse-drug to sleep him. |
+| blacksanders | 黑沙角斗士（复数） | In the courtyard, hard men and dams of all shades and sizes, kynd to giant. These were the blacksanders. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
