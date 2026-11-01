@@ -17,15 +17,25 @@ modified: "2026-11-01"
 
 > **原句 1:** "The Regent of all Kesath sat in a padded claw-foot chair surrounded by dark tapestries bearing the silver chimera. He blinked at Talasyn’s greeting, but quickly recovered from his surprise as she and Alaric stopped in unison a short distance away from him. “This has been a long time coming, Alunsina Ivralis,” he said, sounding faintly amused."
 
-- **中文理解**：盖赫里斯坐在一把铺了软垫的爪脚椅里，四周是绣着银色嵌合兽的深色挂毯。塔拉辛开口招呼，他先是一怔，随即在她与阿拉里克并肩停到不远处时恢复过来，用她娘家的名字「阿伦西娜·伊弗拉利斯」开场，语气里带着一点玩味。他等到她了，却仍旧照旧日的称呼叫她。
+- **中文理解**：盖赫里斯坐在一把铺了软垫的爪脚椅里，四周是绣着银色嵌合兽的深色挂毯。塔拉辛开口招呼，他先是一怔，随即在她与阿拉里克并肩停到不远处时恢复过来，用她娘家的名字「阿伦西娜·伊弗拉利斯」开场，语气里带着一点玩味。他总算等到了她，却仍旧用旧日的称呼叫她。
 
 - **关键词**：padded claw-foot · silver chimera · faintly amused
 
 - **为什么这样写**：先给坐姿，再给称呼。他坐着，她与阿拉里克站着；他叫的是她娘家的名字，不是她在这里的头衔——一句话就把她按回他熟悉的位置。作者也没让他发怒，而是让他觉得有趣：恼怒意味着被冒犯，觉得有趣意味着一切仍在他手里。这份松弛是往下压的起点，他越笃定，后面失手时越难看。
 
-- **读者视角提示**：留意「爪脚」与「软垫」被放在同一把椅子上：软垫是给人歇的，脚却是兽爪。他把自己安在一件长着爪子的家具里，第一眼就交代了这个人既衰弱又不肯松手。
+- **读者视角提示**：留意「爪脚」与「软垫」被放在同一把椅子上：软垫是给人歇的，脚却是兽爪。他把自己安在一件长着爪子的家具里：要软垫，也要兽爪——这个人的排场和爪子是一起摆出来的。
 
-> **原句 2:** "“It is a world that he and I almost lost because of your little romance. Fortunately, your deception brought him back to his senses. You might as well give up now, Lightweaver, for I have watched over every step he has taken since the day he was born, and to me he will always return.”"
+> **原句 2:** "I see, Talasyn thought. This was why Gaheris rarely showed himself to other people. Alaric’s fear of him had built him up in Talasyn’s mind as well, but that was a child’s fear and, thus, bigger than the Eversea."
+
+- **中文理解**：塔拉辛在心里说「我明白了」：盖赫里斯极少在人前露面，缘由就在这里。她跟着承认，阿拉里克对他的恐惧也在她心里替他把尺寸放大了——可那是一个孩子的恐惧，比越海还大。
+
+- **关键词**：showed himself · other people · bigger than
+
+- **为什么这样写**：这一句把「怕」拆成两层：一层是盖赫里斯自己的隐藏，一层是塔拉辛从阿拉里克那里借来的想象。作者用越海给恐惧量尺寸——越海大到看不见对岸，而一个孩子的恐惧比它还大；也就是说，她先要对付的是那个被讲大的形象，然后才是眼前这个人。她把两层分开，才不会在开口之前先矮下去。
+
+- **读者视角提示**：她用的是看见的词「I see」，不是「我觉得」。紧接着的下一段给出她看清的东西：「And the objective reality was that Gaheris reminded her of Urduja.」——他让她想起乌尔杜佳。再往下一段，她才把结论说出口：「You’re dying」。
+
+> **原句 3:** "“It is a world that he and I almost lost because of your little romance. Fortunately, your deception brought him back to his senses. You might as well give up now, Lightweaver, for I have watched over every step he has taken since the day he was born, and to me he will always return.”"
 
 - **中文理解**：盖赫里斯把声音压低，只让塔拉辛一个人听见。他说这个世界是他和儿子差点失去的，起因是她的「小恋爱」；又说幸好她的欺瞒把阿拉里克唤回了理智；最后劝她趁早放弃，因为他从儿子出生那天起就盯着他走的每一步，而儿子终究会回到他这里。
 
@@ -33,19 +43,19 @@ modified: "2026-11-01"
 
 - **为什么这样写**：三句各下一刀。先用「小」把她的感情缩小，再把她的交底改称「欺瞒」，最后把阿拉里克的归属说成一条必然规律。他整段不辩解自己爱不爱儿子，只反复强调自己看住了他每一步——这是占有者的语法，不是父亲的语法。压低声音这个动作本身也在说明：这些话他不打算让儿子听见。
 
-- **读者视角提示**：他每句都在替儿子做决定：世界是他的，儿子是他的，将来也是他的。塔拉辛要争的其实不是自己的位置，而是让他承认阿拉里克能自己走——所以她的回答只有一句「他能决定自己的路」。
+- **读者视角提示**：他每句都在替儿子做决定：世界是他的，儿子是他的，将来也是他的。塔拉辛要争的其实不是自己的位置，而是让他承认阿拉里克能自己走。紧接着的下一段，她只回了一句：他能决定自己的路，他会。
 
-> **原句 3:** "Then the Shadowgate erupted into being, a sudden, jagged cloud of midnight, surrounding her and lifting her off the floor. Had she not been a Lightweaver, she would have been sliced to ribbons on the spot."
+> **原句 4:** "Then the Shadowgate erupted into being, a sudden, jagged cloud of midnight, surrounding her and lifting her off the floor. Had she not been a Lightweaver, she would have been sliced to ribbons on the spot."
 
 - **中文理解**：影门骤然成形，像一团午夜色的锯齿云把她裹住、提离地面；若不是光织者，她当场就会被切成条。
 
-- **关键词**：jagged cloud · off the floor · ribbons
+- **关键词**：jagged cloud · surrounding her · to ribbons
 
 - **为什么这样写**：影门不给过程，只给结果。出现、裹住、提起三个动作挤在一个句子里，读者来不及看清，她已经离地。第二句用虚拟语气往回兜，把她的存活归给身份而非本事；而同一段紧接着的下一句立刻把这份侥幸打掉——她能扛住切割，扛不住疼。
 
-- **读者视角提示**：注意「午夜」在这里被当成材料用：云是锯齿状的，颜色是午夜的。这不是光效，是一件有形状的刑具；也说明盖赫里斯动手时不再需要站起来。
+- **读者视角提示**：注意「午夜」在这里被当成材料用：云是锯齿状的，颜色是午夜的。这不是光效，是一件有形状的刑具：它连地面都不用碰，就把她整个人从地上摘走了。
 
-> **原句 4:** "At his mercy? scoffed some inner voice that was her own but also not, that was one voice and yet hundreds upon hundreds of voices, a multitude of images racing together like comets in the night, their splinters spiraling backward into rivers of time, young sun, seven moons, an unbroken line of clan matriarchs and Dominion queens, speaking into the chasms of aetherspace, speaking to her and through her."
+> **原句 5:** "At his mercy? scoffed some inner voice that was her own but also not, that was one voice and yet hundreds upon hundreds of voices, a multitude of images racing together like comets in the night, their splinters spiraling backward into rivers of time, young sun, seven moons, an unbroken line of clan matriarchs and Dominion queens, speaking into the chasms of aetherspace, speaking to her and through her."
 
 - **中文理解**：在她闭眼后的黑暗里，有个声音反问「任他摆布？」——那声音是她的，又不全是她的；是一个声音，又是成百上千个声音。无数影像像夜里的彗星一起疾驰，碎片往回卷成时间的河：年轻的太阳、七个月亮、一脉不断的氏族女族长与内纳瓦伦女王，一齐朝以太空间的深渊说话，借她开口。紧接着的下一句是「But, daughter—he is just a man.」（可是，女儿——他不过是个男人。）
 
