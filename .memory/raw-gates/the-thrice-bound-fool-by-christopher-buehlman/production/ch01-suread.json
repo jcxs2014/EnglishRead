@@ -1,0 +1,55 @@
+{
+ "book": "the-thrice-bound-fool-by-christopher-buehlman",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch01_1_the_flayed_bear.txt",
+ "facts": [
+  {
+   "fact": "叙述者与 Galva 在 Oustrim 西陲山村用四枚 Molrovan 银币买下驴",
+   "anchor": "Four scales she wanted.",
+   "start": 2512,
+   "end": 2535
+  },
+  {
+   "fact": "村中正施公共刑罚：通奸女子上枷掷羊粪，背上写着 Othbleddr（Adulteress）",
+   "anchor": "Othbleddr. Adulteress.",
+   "start": 4768,
+   "end": 4790
+  },
+  {
+   "fact": "Galva 夜里也做噩梦，磨牙呻吟——她与许多 Daughters' War 参战者一样",
+   "anchor": "She was moaning in her sleep and grinding her teeth",
+   "start": 8315,
+   "end": 8366
+  },
+  {
+   "fact": "书从包里跑出摊开在地板上，用 Gunnish 写下并同步念出杀令：杀了偷书贼将获赏",
+   "anchor": "Enemies of the Guild are within this room. Kill them and return the book they have stolen",
+   "start": 9853,
+   "end": 9942
+  },
+  {
+   "fact": "墙上生出一张「kynd mouth」，书自报家门：十二部 Full Shadow 之一、Guild 珍宝",
+   "anchor": "I am one of only twelve Books of the Full Shadow, no two alike",
+   "start": 10660,
+   "end": 10722
+  },
+  {
+   "fact": "叙述者用骡包里的铁帐篷钉钉穿那张嘴；书咬住铁钉死于 magic-killing iron，血是墨水",
+   "anchor": "died around the magic-killing iron, bleeding ink",
+   "start": 11282,
+   "end": 11330
+  },
+  {
+   "fact": "Galva 惊醒用 Ispanthian 质问「Če fus, jilnaedu?」",
+   "anchor": "What are you doing, vicious idiot?",
+   "start": 11677,
+   "end": 11711
+  },
+  {
+   "fact": "书页上的嘴插图回来了，墨色变浅，但现在它在微笑",
+   "anchor": "But now it was smiling.",
+   "start": 11915,
+   "end": 11938
+  }
+ ]
+}
