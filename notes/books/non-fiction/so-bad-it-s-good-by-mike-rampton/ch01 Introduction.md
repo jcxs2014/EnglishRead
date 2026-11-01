@@ -26,6 +26,7 @@ modified: "2026-11-01"
   | 本书约有 700 条笑话，多数不好 | 数据（约数） | 说明本书的取材标准不是"好笑" |
   | 坏笑话分三种：corny and predictable / contrived and difficult / wilfully bad | 分类 | "坏"有不同成因，不能一概而论 |
   | 讲述者的投入与听者反应之间的错位 | 观察 | 第二层笑意来自场面，不来自文本 |
+  | "How unfunny a joke is can be hilarious; making a rubbish joke that gets a laugh is much more intellectually complex than a mere funny one." | 论断 | 把"坏"说成更难的技术活，而非偷懒 |
   | 结尾 kayak / heat 双关 | 语言游戏 | 用一条坏双关给全书的主张做示范 |
 
 - **论证脉络**：抛出反常识命题（坏更好）→ 先承认好笑话的功利价值并给出研究背书 → 用独木舟把好笑话降格为工具 → 转到本书的坏笑话库存与三种坏法 → 提出"额外一层"的机制（讲述者的投入、期待的错位）→ 回到比喻并加码（热水袋）→ 以 kayak/heat 双关收束。
