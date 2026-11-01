@@ -71,7 +71,7 @@ modified: "2026-11-01"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| swear | 骂（脏话） | Mitch swore under his breath. |
+| swore | 骂了句脏话（swear 的过去式） | Mitch swore under his breath. |
 | unpack | 把行李拿出来，安顿下来 | She hadn’t even had time to unpack. |
 | crack | 撬开，攻破 | The next time he tried (and failed to so much as crack the outer layers of the EON mainframe), the system didn’t chase him off again. |
 
