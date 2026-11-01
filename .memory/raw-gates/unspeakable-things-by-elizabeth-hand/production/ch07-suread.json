@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch07",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "衣：穿表亲 Simon 新送的绿呢短裙与绣黄蕨的翠绿羊毛短外套赴约；毁掉的钟形帽摆在窗台上像一只淹死的小猫。",
+   "anchor": "blouson embroidered with yellow ferns that my cousin Simon recently gave me",
+   "start": 335,
+   "end": 410
+  },
+  {
+   "fact": "表亲 Simon＝母亲独子的幼子、大「我」四岁，像和气却心不在焉的兄长；多年未来（Martin 说是 Oxford 忙），名字上挂着「带香水味的丑闻气息」。",
+   "anchor": "A perfumed taint of scandal clung to Simon’s name",
+   "start": 1213,
+   "end": 1262
+  },
+  {
+   "fact": "赴约：她已站在遗迹前等；「我」质问昨天暴雨白跑一趟，她答那种天气来才是疯了（Are you crazy?）——脸红骂了句 Christ，反问「你连这点常识都没有？」。",
+   "anchor": "I told you I’d be here",
+   "start": 2274,
+   "end": 2296
+  },
+  {
+   "fact": "毒蕈：Deadly webcap（枯萎蚯蚓状），采自 Lamorna Cove 松林；警告 Don’t touch；「我不会毒你，我几乎不认识你」——带着笑说。",
+   "anchor": "Deadly webcap. It’s a mushroom. I found these by Lamorna Cove in a pine grove",
+   "start": 4003,
+   "end": 4080
+  },
+  {
+   "fact": "母亲的教诲：这蘑菇起效要几天甚至几星期；母亲无所不知——至少对女人无所不知；女人们到死也不愿见医生，只叫她。",
+   "anchor": "They take a long time to work—days or weeks",
+   "start": 4489,
+   "end": 4532
+  },
+  {
+   "fact": "「我」的自白：母亲死于癌症、两年前去世；被问是否想她想得厉害——答 Not really，因为她大部分时间住在爱尔兰；Tamsin 目光第一次变软，随后震惊。",
+   "anchor": "A cancer. She died two years ago.",
+   "start": 5469,
+   "end": 5502
+  },
+  {
+   "fact": "险些出口的秘密：母亲总会讲那些她帮不了的女人托付的事——unspeakable things；话到一半缩回去，换了麻木的语气说 Never mind。",
+   "anchor": "They’d tell her things, unspeakable things.",
+   "start": 5879,
+   "end": 5922
+  },
+  {
+   "fact": "收尾：约明天——答 Maybe. I don't know；「我」提出可去 Zennor 或再来此地；她盯着地面却忽然抬头咧嘴：但你也许值得这一趟；说完挑落「我」的帽子，转身回 Zennor。",
+   "anchor": "But you might be worth the trouble.",
+   "start": 8463,
+   "end": 8498
+  }
+ ]
+}
