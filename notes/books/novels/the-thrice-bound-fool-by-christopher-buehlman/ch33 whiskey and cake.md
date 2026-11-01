@@ -30,7 +30,7 @@ modified: "2026-11-01"
 > **原句 3:** "She put her hand up, then slowly put it down, with her palm toward the sand, like you’d do to tell a dog to sit. And you’ll think I’m lying, but Jubel the fucking tiger closed her mouth and sat. Watching Galva. Curious, like. And what did that mad Spanth do? She knelt down and sat on her heels. Just two killers taking a bit of sun on a black patch of volcanic sand."
 
 **中文理解**：她抬手，然后缓缓放下——掌心朝沙，就像你让狗坐下那样。你会以为我在撒谎，可 Jubel 那只该死的虎真的合上嘴、坐下了。看着 Galva。好奇的样子。而那个疯 Spanth 做了什么？她跪下去、坐在脚跟上。就两个杀手，在一片黑火山沙上晒会儿太阳。
-**关键词**：her palm toward the sand / Jubel the fucking tiger closed her mouth and sat / knelt down and sat on her heels / Just two killers
+**关键词**：her palm toward the sand / closed her mouth and sat / knelt down and sat on her heels / Just two killers
 **为什么这样写**：驯兽的奇迹用「狗指令」完成——最低级的驯化手势对最高级的猛兽生效，杀手的身份让这幕的温柔翻倍；「two killers taking the sun」的判词把杀戮同行写成了同晒，暴力的平等在此刻大于种族的鸿沟。
 **读者视角提示**：记住「掌心朝沙」——它跟 Butter 的肚皮、Bully 的呼噜同属一个猫科通用语；Galva 的驯兽密码全书通用（后面还有大用）。
 
