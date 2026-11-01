@@ -45,7 +45,27 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她喊的是「哈里坎」而不是名字。这是对女王的正式尊称，也是她退开半步的姿势：可以让步，但亲昵收起来。
 
-> **原句 4:** "It was Sevraim who came to fetch Talasyn from the Deliverance’s hangar bay. The legionnaire said nothing as he marched her through the stormship’s corridors, her every move observed by cold and hostile soldiers, a far cry from the deference they’d shown her as the Night Empress."
+> **原句 4:** "“Send a message to the Zahiya-lachis’s ship,” he clarified, much more calmly this time, even if it was a calm that threatened to break at any moment. “Inform her that her presence is requested on the Deliverance for a meeting.”"
+
+- **中文理解**：「给扎希亚-拉奇斯那艘船发信，」他重新交代了一遍，这一次语气平静得多——尽管那是一种随时会碎的平静。「告诉她，请她到拯救号上来一趟，开个会。」
+
+- **关键词**：a message · calmly · requested
+
+- **为什么这样写**：一句话里放了三层：命令本身、语气的自我修正（「平静得多」）、以及那个被动补语「requested」——明明是传召，却用了请帖的措辞。
+
+- **读者视角提示**：同一段前半（不在本块引语内）是他对着船员下这道命令之前那口浅呼吸，与「惊得说不出话」的船员。他要用一句客气的通知，盖住一个已经开了战的局面。
+
+> **原句 5:** "Talasyn refused to think of it as a foolish decision. She had made the choice to place her trust in Alaric. That meant she had to believe that he wouldn’t do anything to harm her if she went to him with no reinforcements."
+
+- **中文理解**：塔拉辛拒绝把它当成一个愚蠢的决定。她做了选择：把信任放在阿拉里克身上。这意味着她必须相信，在她不带一兵一卒去找他的时候，他不会做出任何伤害她的事。
+
+- **关键词**：refused · place her trust · no reinforcements
+
+- **为什么这样写**：三句话是一条自我说服的链：先否定评判（「拒绝把它当成愚蠢」），再陈述选择（「把信任放在他身上」），最后推出必须成立的前提（「他不会伤害她」）。逻辑上无可指摘，而前提本身就是赌注。
+
+- **读者视角提示**：在此之前两段（不在本块引语内）交代了她做了什么：她的部众惊骇地看着她独自一人、乘一只蛾形小艇消失在凯萨斯阵线之后。这一段解释的是她为什么敢。
+
+> **原句 6:** "It was Sevraim who came to fetch Talasyn from the Deliverance’s hangar bay. The legionnaire said nothing as he marched her through the stormship’s corridors, her every move observed by cold and hostile soldiers, a far cry from the deference they’d shown her as the Night Empress."
 
 - **中文理解**：来拯救号的机库接塔拉辛的是塞夫雷姆。这名军团士兵一言不发地领着她穿过风暴舰的走廊，她的一举一动都被冷淡而敌视的士兵盯着，这与她身为夜帝后时受到的恭敬相去甚远。
 
@@ -55,7 +75,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她注意到的是「谁来接她」，而不是「有多少人看着她」。这个注意力的落点说明她此刻计较的是私人关系上的亏欠，而不只是政治账。
 
-> **原句 5:** "“I see.” His gaze drifted to her clasped hands as he shifted his more fully into view over the desk. “Well, I regret to inform you that there’s only one person wearing a wedding band in this room.”"
+> **原句 7:** "“I’m here because I want to stop the war and reconcile with my husband,” Talasyn said, unflinching. “Whether or not you believe me is up to you, but I am going to talk to him.” She lifted her chin and met Sevraim’s glare with an air of quiet challenge. “Even if I have to cut through you and the other legionnaires and all the Kesathese regiments to do it.”"
+
+- **中文理解**：「我来是因为我想停战，想跟我丈夫和好，」塔拉辛毫不退缩地说。「你信不信由你，但我要去跟他谈。」她抬起下巴，以一种安静的挑衅迎上塞夫雷姆的瞪视。「就算我得先穿过你、穿过其他军团兵、穿过凯萨斯的每一个团才能做到。」
+
+- **关键词**：unflinching · up to you · cut through
+
+- **为什么这样写**：三句话层层加码：先说目的（停战与和好），再划清界限（信不信随你），最后亮出底线（必要时动手）。说话人没有提高音量，靠的是三个分句的递进。
+
+- **读者视角提示**：这是她整章里唯一一次把来意说全。前一程塞夫雷姆一言不发、士兵的目光冷淡而敌视；这一段之后，办公室那场对峙才开始。
+
+> **原句 8:** "“I see.” His gaze drifted to her clasped hands as he shifted his more fully into view over the desk. “Well, I regret to inform you that there’s only one person wearing a wedding band in this room.”"
 
 - **中文理解**：「我明白了。」他的目光落到她交握的手上，同时把自己的手更完整地移进桌面上的视野里。「那么，我很遗憾地告诉你，这间屋子里只有一个人还戴着婚戒。」
 
@@ -65,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意他把手「shifted his more fully into view」这个动作——他是主动把手送进她的视野，让她自己数那上面少了什么。
 
-> **原句 6:** "“I remember everything you’ve said to me since the day we met. And most of that has caused me to second-guess nearly all my decisions and stray from the path. Because you, Talasyn, are a blight on my peace.”"
+> **原句 9:** "“I remember everything you’ve said to me since the day we met. And most of that has caused me to second-guess nearly all my decisions and stray from the path. Because you, Talasyn, are a blight on my peace.”"
 
 - **中文理解**：「从我们见面的那天起，你说过的每一句话我都记得。而其中大部分都让我几乎推翻了自己所有的决定，偏离了原定的路。因为你，塔拉辛，就是我安宁上的一道伤。」
 
@@ -74,6 +104,16 @@ modified: "2026-11-01"
 - **为什么这样写**：他先承认自己记得一切——这是他在整章里仅有的一次承认对方的话确实进过自己心里；可他紧接着把这份影响说成「让我偏离了原路」，听上去像在认账，其实是在归罪。最后那句把「和平」与「她」摆成一对反义词：和平本是他的目标，而她成了和平的反面。
 
 - **读者视角提示**：注意时间起点是「since the day we met」，不是成婚那天——他把这笔账从相遇算起，等于说这段关系从一开始就不该发生。
+
+> **原句 10:** "“Regent Gaheris has sent a message, Your Majesty,” he informed Alaric, quiet and tense. “He instructs that you bring the Zahiya-lachis to him.”"
+
+- **中文理解**：「摄政盖赫里斯传了话来，陛下，」他向阿拉里克通报，声音低而紧。「他命令您把扎希亚-拉奇斯带到他那里去。」
+
+- **关键词**：Regent Gaheris · quiet and tense · bring
+
+- **为什么这样写**：全章最后两句话，主角是那个刚进来的人，而接受命令的是皇帝。命令里的称呼是「扎希亚-拉奇斯」而不是「你妻子」——父亲用一个国号把这场家事划进了国事。
+
+- **读者视角提示**：前两段（不在本块引语内）交代了他是怎么进来的：房里两人谁都没听见他进门，直到他清嗓子，那声音「像刀一样切断了这一刻」。争吵因此不是被说服结束的，而是被一件公文结束的。
 
 ## 本章词汇
 

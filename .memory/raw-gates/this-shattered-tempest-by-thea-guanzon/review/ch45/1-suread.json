@@ -1,0 +1,150 @@
+{
+  "chapter": "ch45",
+  "source": "text/ch45_chapter_forty_five.txt",
+  "char_total": 11497,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Talasyn 隔着 Tempestroad 向 Vela 提出休战：Kesath 只剩一半产能，开战双方损失都会惨重，她要 Vela 与夜帝见面。",
+      "quote": "“Kesath is operating at half of its former capacity,” Talasyn continued, “but that only puts your respective forces on an equal footing. If you engage here, the losses will be staggering for everyone involved.",
+      "start": 1032,
+      "end": 1241
+    },
+    {
+      "i": 2,
+      "summary": "Vela 语带讥讽地回话，说 Talasyn 没给她多少选择的余地，并说她祖母会为她骄傲。",
+      "quote": "“You haven’t afforded me much of a choice here, Harlikaan. Your grandmother would be proud.”",
+      "start": 2394,
+      "end": 2486
+    },
+    {
+      "i": 3,
+      "summary": "Alaric 强压惊惧，命令船员向 Zahiya-lachis 的旗舰传话，请她到 Deliverance 上会面。",
+      "quote": "“Send a message to the Zahiya-lachis’s ship,” he clarified, much more calmly this time",
+      "start": 3606,
+      "end": 3692
+    },
+    {
+      "i": 4,
+      "summary": "Alunsina Ivralis 不顾麾下军队惊骇，独自乘一只 moth coracle 穿过战线赴夜帝之召。",
+      "quote": "Much to the horror of her troops, Alunsina Ivralis answered the Night Emperor’s summons alone, disappearing behind Kesathese lines on a moth coracle.",
+      "start": 3836,
+      "end": 3985
+    },
+    {
+      "i": 5,
+      "summary": "Sevraim 到机库接 Talasyn，一路沉默冷脸，开口便斥她此次作为残忍、是她的新低。",
+      "quote": "“You know, Harlikaan, I didn’t think you’d be this cruel,” he remarked. “I knew you could be a little hotheaded and self-righteous at times, but this—this is a new low, even for you.”",
+      "start": 4824,
+      "end": 5007
+    },
+    {
+      "i": 6,
+      "summary": "Talasyn 当面告诉 Sevraim 她来是为了止战、与丈夫和解，无论他信不信。",
+      "quote": "“I’m here because I want to stop the war and reconcile with my husband,” Talasyn said, unflinching.",
+      "start": 5570,
+      "end": 5669
+    },
+    {
+      "i": 7,
+      "summary": "办公室里 Alaric 对 Talasyn 说他们从没有真正的关系、在一起只是因为彼此孤独，这段感情对他来说不够。",
+      "quote": "“We never had a real relationship,” Alaric continued. “The only times we weren’t fighting were when we were in bed. There was no common ground.”",
+      "start": 8409,
+      "end": 8553
+    },
+    {
+      "i": 8,
+      "summary": "Sevraim 进办公室通报：Regent Gaheris 传讯，命 Alaric 把 Zahiya-lachis 带到他那里去。",
+      "quote": "“Regent Gaheris has sent a message, Your Majesty,” he informed Alaric, quiet and tense. “He instructs that you bring the Zahiya-lachis to him.”",
+      "start": 11353,
+      "end": 11496
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Ideth Vela",
+      "relation": "前监护人与门生；如今 Talasyn 以女王身份与 Amirante 谈休战，敬惧交织",
+      "quote": "“You haven’t afforded me much of a choice here, Harlikaan. Your grandmother would be proud.”",
+      "start": 2394,
+      "end": 2486
+    },
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "已成婚但决裂的夫妻；她来求和，他当面拒绝，只剩一只婚戒",
+      "quote": "“Well, I regret to inform you that there’s only one person wearing a wedding band in this room.”",
+      "start": 8156,
+      "end": 8252
+    },
+    {
+      "a": "Alaric",
+      "b": "Sevraim",
+      "relation": "夜帝与其 legionnaire；君臣之间仍是互怼的随意口吻",
+      "quote": "are as bad at making threats as you are at holding down coastal barricades, Sevraim. Go away.",
+      "start": 6257,
+      "end": 6350
+    },
+    {
+      "a": "Talasyn",
+      "b": "Sevraim",
+      "relation": "旧日战友；她叛离后他来接人时不再有笑意与玩笑，只剩冷硬的沉默",
+      "quote": "Likewise, Talasyn was used to Sevraim’s grins and quips, not this stony silence.",
+      "start": 4492,
+      "end": 4572
+    },
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "她把自己夹在 Sardovia 与 Kesath 之间，以炮口对准 Allfold 表明站在丈夫一边",
+      "quote": "By aiming her cannons at the Allfold, Alunsina Ivralis was showing everyone that she stood with her consort",
+      "start": 2084,
+      "end": 2191
+    }
+  ],
+  "numbers": [
+    {
+      "value": "miles",
+      "context": "Vela 的旗舰与 Talasyn 相距数英里，只能看见远处一个小身影",
+      "quote": "on the deck of her own flagship that was miles away.",
+      "start": 185,
+      "end": 237
+    },
+    {
+      "value": "a few days ago",
+      "context": "Nenavar 几天前派鹰给 Sardovia 各团送信，告知 Urduja 之死与 Talasyn 继位",
+      "quote": "Nenavar had sent the Sardovian regiments an eagle a few days ago",
+      "start": 491,
+      "end": 555
+    },
+    {
+      "value": "half",
+      "context": "Kesath 目前只以旧日一半的产能运转",
+      "quote": "“Kesath is operating at half of its former capacity,” Talasyn continued",
+      "start": 1032,
+      "end": 1103
+    },
+    {
+      "value": "thousands upon thousands",
+      "context": "Sardovia 各团原以为等来援军，却面对成千上万的 void cannon 炮口",
+      "quote": "now they found themselves staring down the barrels of thousands upon thousands of void cannons",
+      "start": 809,
+      "end": 903
+    },
+    {
+      "value": "a decade",
+      "context": "Talasyn 警告：惨胜只会把同样的循环推到十年后甚至更短",
+      "quote": "only to repeat the cycle in—what, a decade? Maybe even less than that",
+      "start": 10287,
+      "end": 10356
+    },
+    {
+      "value": "one",
+      "context": "房间里只有一个人还戴着婚戒",
+      "quote": "there’s only one person wearing a wedding band in this room.",
+      "start": 8191,
+      "end": 8251
+    }
+  ],
+  "notes": "语料问题：文件开头第 1 行与第 12 行重复出现章标题「Chapter Forty-Five」，且标题与正文之间夹了大量空行（正文自第 15 行起）；quote 均取自正文连续片段，未跨自然段。"
+}
