@@ -1,0 +1,49 @@
+{
+ "book": "the-thrice-bound-fool-by-christopher-buehlman",
+ "chapter": "ch26",
+ "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch26_26_apocalypse_the_first.txt",
+ "facts": [
+  {
+   "fact": "Merkin 狗登场：老胖长耳、舌头太大、喷嚏喷他一脸（「感觉是相互的」）；「你们像新婚一样接吻！Merkie 是你的丈夫，Kitch!」",
+   "anchor": "a fat little thing with long ears",
+   "start": 1451,
+   "end": 1484
+  },
+  {
+   "fact": "Renata 的神学课：Praxeter 讲话→展示神词——Thumos 声音太大会聋、所以用火写字（月讯）——「总是无解的谜语。浪费时间但都得去」「也许就是 Praxeter 自己写的。我不在乎」",
+   "anchor": "HIS VOICE IS SO LOUD",
+   "start": 3069,
+   "end": 3089
+  },
+  {
+   "fact": "Halfmoon 剧场：半圆舞台（戏剧与宗教专用）、hilloxen（房大的牛亲族）驱动石板机关；Thumos 王座山「像 Thralls 流放的罪犯、独自立在恶城上空」",
+   "anchor": "like some fell exile from the Thralls",
+   "start": 5355,
+   "end": 5392
+  },
+  {
+   "fact": "声学之城：号角响到耳痛——「能听见台上老鼠放屁」；五艘云船悬在头顶（船员也看神词）",
+   "anchor": "the acoustics of the place were such",
+   "start": 6156,
+   "end": 6192
+  },
+  {
+   "fact": "Praxeter 近看：黑棕年轻须（不是老头）、光头炽冠冒烟不烧身、十尺高、红袍黑带——好演讲家、全场长久的折臂拍",
+   "anchor": "His dome was shaved bald",
+   "start": 6548,
+   "end": 6572
+  },
+  {
+   "fact": "神词石板：烟从舞台槽冒→hilloxen 拉绞盘升板——三行火字仍冒烟：「无论墙多坚固 / 不造窗者输掉战争 / 看见你的敌人并取胜」",
+   "anchor": "THOSE WHO BUILD NO WINDOWS LOSE WARS",
+   "start": 7733,
+   "end": 7769
+  },
+  {
+   "fact": "反应收尾：将军/便秘男/王后各说各的乱语——Renata 耳语「看到了吧？无聊」",
+   "anchor": "“Grabbus-abbus-ding-dong!”",
+   "start": 8166,
+   "end": 8192
+  }
+ ]
+}
