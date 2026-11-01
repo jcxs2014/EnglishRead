@@ -97,7 +97,7 @@ modified: "2026-11-01"
 
 > **原句 9:** "But, long after he left the shadow-laced hall and returned to his post on his freshly recharged stormship, he was still thinking about Gaheris’s incongruous statement. Who was the she that the Regent had been referring to? If not Talasyn, then . . ."
 
-- **中文理解**：可是离开那道缠满阴影的大厅很久之后，回到刚充能完毕的风暴舰上自己的岗位，他仍在想盖赫里斯那句前后不搭的话。摄政王说的那个「她」，到底是谁？如果不是塔拉辛，那么……
+- **中文理解**：可是离开那道缠满阴影的大厅很久之后，回到刚充能完毕的风暴舰上自己的岗位，他仍在想盖赫里斯那句前后不搭的话。摄政说的那个「她」，到底是谁？如果不是塔拉辛，那么……
 
 - **关键词**：incongruous statement · shadow-laced hall · freshly recharged
 

@@ -48,7 +48,7 @@ modified: "2026-11-01"
 - **中文理解**：巴昆退开，眼睛睁开时短暂地亮了一下。它展开白翼升空，巨大的影子遮住了王宫上方的月光。塔拉辛看着它飞走，很快嘴唇拧出一个困惑的皱眉——她发现龙正朝阿克塔马索克的反方向去。
 - **关键词**：white wings · vast shadow · confused frown
 - **为什么这样写**：前两句全是庄严：亮眼、展翼、影子盖住月光，读起来像告别的高潮。第三句用「confused frown」把庄严拆掉——她放它回山，它却去了别处。整段的分量都压在最后那个方向上。
-- **读者视角提示**：「blocking the moonlight」是一个极短的日食意象：光被挡住的那一瞬，正好也是她看不清它去向的时候。
+- **读者视角提示**：「blocking the moonlight」是一个极短的月食意象：光被挡住的那一瞬，正好也是她看不清它去向的时候。
 
 > **原句 6:** "“Kaptan Rapat,” Talasyn said, “twenty years ago—almost twenty-one, now—my grandmother stripped you of your rank for failing to stop Sintan Silim’s forces from breaching the Dominion capital. But the civil war has long been over and it is high time for us to lay its ghosts to rest. Today I am reinstating you.”"
 

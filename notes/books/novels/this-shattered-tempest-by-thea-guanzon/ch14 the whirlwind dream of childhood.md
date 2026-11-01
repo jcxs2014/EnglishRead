@@ -113,7 +113,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：三连否定（no portraits, no trinkets, no trace）把一间「刚翻新过」的屋子写成一处被清空的遗址。最后那句是她的猜测，不是叙述者的判断——作者用问号把「他到底知不知道自己住的是什么地方」悬在那里。
 
-- **读者视角提示**：上一段他只说了一句「夜皇后寝宫，最近翻新过」，语气是木的（`in a wooden tone`）。至于这间屋子原本是谁的、为什么一点私物都没有，文本没有给答案，只给了这三重否定和一个问句。
+- **读者视角提示**：上一段他只说了一句「夜后的寝宫，最近翻新过」，语气是木的（`in a wooden tone`）。至于这间屋子原本是谁的、为什么一点私物都没有，文本没有给答案，只给了这三重否定和一个问句。
 
 > **原句 11:** "A shock of black hair had escaped the wide brim of her mobcap when she curtsied. It trailed down the side of a face that was leaner than it had been the last time Talasyn saw it, but still the same ebony complexion, the same strong chin. The same eyes, dark brown and piercing enough to cut through metalglass, hardened by war."
 
