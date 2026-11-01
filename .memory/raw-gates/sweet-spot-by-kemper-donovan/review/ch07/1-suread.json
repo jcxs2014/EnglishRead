@@ -1,0 +1,297 @@
+{
+  "chapter": "ch07",
+  "text_file": "text/ch07_chapter_7.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "Abi 用指节敲了敲隔断玻璃，司机随即把车开离机场路边。",
+      "quote": "When Abi rapped on it with her knuckles",
+      "range": [
+        617,
+        656
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "Abi 按下遥控器，隔断下方的柜壁滑开，露出一整柜饮品。",
+      "quote": "A panel in the wall below the glass partition slid open",
+      "range": [
+        1152,
+        1207
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "Abi 说自己靠去剧组探班，假装成出差才能长留此地。",
+      "quote": "I’ve been making set visits so I can pretend I’m on a work trip.",
+      "range": [
+        1661,
+        1725
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "Abi 说是她提议让所有人聚到 Genevieve 家来。",
+      "quote": "It was my idea for all of us to gather here.",
+      "range": [
+        7521,
+        7565
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "Abi 说 Deirdre Gregory 当天下午已假释出狱。",
+      "quote": "She left this afternoon.",
+      "range": [
+        8366,
+        8390
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Abi 说 Genevieve 从绑架阴影回来后念不完 Oberlin 一年级，她并不意外。",
+      "quote": "I wasn’t surprised when she didn’t finish her first year at Oberlin.",
+      "range": [
+        12655,
+        12723
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "叙述者向 Abi 坦白：他约 Denny 吃饭，是想重新开始这段关系。",
+      "quote": "I asked him to lunch because I wanted to start something again.",
+      "range": [
+        16667,
+        16730
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "叙述者端起咖啡手抖，把咖啡洒了一身。",
+      "quote": "I spilled it all over my shirt.",
+      "range": [
+        17444,
+        17475
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Abi Brooke",
+      "b": "Denny",
+      "rel": "未婚夫妻（Abi 是 Denny 的未婚妻）",
+      "quote": "if she hadn’t been Denny’s fiancée",
+      "range": [
+        2053,
+        2087
+      ]
+    },
+    {
+      "a": "Abi Brooke",
+      "b": "Genevieve Spruce",
+      "rel": "自幼相识的挚友，来往近三十年",
+      "quote": "Going on thirty years now.",
+      "range": [
+        9729,
+        9755
+      ]
+    },
+    {
+      "a": "Deirdre Gregory",
+      "b": "Genevieve Spruce",
+      "rel": "绑架 Genevieve 的犯人，比 Genevieve 大四岁，现已假释",
+      "quote": "just four years older than Genevieve",
+      "range": [
+        8443,
+        8479
+      ]
+    },
+    {
+      "a": "Genevieve Spruce",
+      "b": "Dan Caraway",
+      "rel": "夫妻，育有一子 Seth",
+      "quote": "a year after their marriage they had a son, Seth",
+      "range": [
+        14582,
+        14630
+      ]
+    },
+    {
+      "a": "Cheryl Spruce",
+      "b": "Genevieve Spruce",
+      "rel": "母女，Cheryl 六个月前死于卵巢癌",
+      "quote": "Cheryl Spruce, had died of ovarian cancer six months ago",
+      "range": [
+        7861,
+        7917
+      ]
+    },
+    {
+      "a": "叙述者",
+      "b": "Abi Brooke",
+      "rel": "Denny 的前任与现任未婚妻，本章成为互相尊重的对手",
+      "quote": "I respect your honesty",
+      "range": [
+        17101,
+        17123
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "five years earlier",
+      "claim": "叙述者为 Daisy Lester 代笔回忆录是五年前的事",
+      "quote": "I’d ghostwritten five years earlier",
+      "range": [
+        4944,
+        4979
+      ]
+    },
+    {
+      "value": "two rows’ worth",
+      "claim": "饮品柜里有两排瓶装饮料",
+      "quote": "revealing two rows’ worth of boxed water",
+      "range": [
+        1209,
+        1249
+      ]
+    },
+    {
+      "value": "two minutes",
+      "claim": "叙述者与 Abi 同车才两分钟就已看出她的性格",
+      "quote": "in the two minutes I’d spent in her company",
+      "range": [
+        2175,
+        2218
+      ]
+    },
+    {
+      "value": "thirty-eight years old",
+      "claim": "Deirdre Gregory 今年三十八岁",
+      "quote": "Deirdre Gregory would be thirty-eight years old",
+      "range": [
+        8394,
+        8441
+      ]
+    },
+    {
+      "value": "four years older",
+      "claim": "Deirdre 只比 Genevieve 大四岁",
+      "quote": "just four years older than Genevieve",
+      "range": [
+        8443,
+        8479
+      ]
+    },
+    {
+      "value": "thirty-four",
+      "claim": "叙述者自己三十四岁",
+      "quote": "how much closer thirty-four was to thirty-eight",
+      "range": [
+        8494,
+        8541
+      ]
+    },
+    {
+      "value": "thirty-eight",
+      "claim": "与三十四岁相比的另一个年龄",
+      "quote": "how much closer thirty-four was to thirty-eight",
+      "range": [
+        8494,
+        8541
+      ]
+    },
+    {
+      "value": "fourteen and eighteen",
+      "claim": "当年绑架案时两人分别是十四岁与十八岁",
+      "quote": "compared to fourteen and eighteen",
+      "range": [
+        8543,
+        8576
+      ]
+    },
+    {
+      "value": "five years old",
+      "claim": "Abi 与 Genevieve 从五岁起就认识",
+      "quote": "known each other since you were, what, five years old",
+      "range": [
+        9603,
+        9656
+      ]
+    },
+    {
+      "value": "thirty years",
+      "claim": "两人相识已近三十年",
+      "quote": "Going on thirty years now.",
+      "range": [
+        9729,
+        9755
+      ]
+    },
+    {
+      "value": "since she was two",
+      "claim": "Genevieve 两岁起就开始拉小提琴",
+      "quote": "She’d been playing since she was two.",
+      "range": [
+        10377,
+        10414
+      ]
+    },
+    {
+      "value": "six months ago",
+      "claim": "Cheryl Spruce 六个月前去世",
+      "quote": "had died of ovarian cancer six months ago",
+      "range": [
+        7876,
+        7917
+      ]
+    },
+    {
+      "value": "one point",
+      "claim": "Genevieve 与 Dan 以一分之差没能拿到 Golden Glider 奖杯",
+      "quote": "failing to obtain the Golden Glider trophy by one point",
+      "range": [
+        14076,
+        14131
+      ]
+    },
+    {
+      "value": "second",
+      "claim": "两人在《Soaring with the Stars》拿了第二名",
+      "quote": "she and Dan came in second",
+      "range": [
+        14048,
+        14074
+      ]
+    },
+    {
+      "value": "a year after their marriage",
+      "claim": "婚后一年他们有了儿子 Seth",
+      "quote": "a year after their marriage they had a son, Seth",
+      "range": [
+        14582,
+        14630
+      ]
+    },
+    {
+      "value": "a quarter century",
+      "claim": "Cassie 自杀已过去二十五年",
+      "quote": "The passage of a quarter century",
+      "range": [
+        11443,
+        11475
+      ]
+    },
+    {
+      "value": "two-lane",
+      "claim": "车驶入一条双车道小路",
+      "quote": "turning onto a smaller, two-lane roadway",
+      "range": [
+        18268,
+        18308
+      ]
+    }
+  ],
+  "turning_point": "叙述者选择向 Abi 说出全部真相——他曾想与 Denny 重新开始，Abi 不但不讥讽反而表示尊重，两人的关系由此从暗中较劲转为坦诚相待。",
+  "notes": "1) 本章为第一人称叙述，叙述者姓名未在本章出现，relations 中以「叙述者」代称。2) 「Daisy Lester」为叙述者五年前代笔回忆录的女演员，原文只给姓氏+名，未说明身份细节。3) 「Utah’s Dixie」为犹他州西南部旧称，原文提到曾试种棉花。4) Abi 所说的电视剧名叙述者自己也不记得，原文只说属 CSI/NCIS/SVU 一类首字母缩写的律政剧，故不作断言。5) Deirdre Gregory 的假释日期只以「this afternoon」出现，无具体钟点。"
+}

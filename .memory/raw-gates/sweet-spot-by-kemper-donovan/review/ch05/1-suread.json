@@ -1,0 +1,224 @@
+{
+  "chapter": "ch05",
+  "text_file": "text/ch05_chapter_5.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "叙述者周五清早抵达纽约 JFK 机场 4 号航站楼 B20 登机口候机",
+      "quote": "early on Friday morning that I found myself at Gate B20",
+      "range": [
+        26,
+        81
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "叙述者的航班延误了一个半小时",
+      "quote": "My flight had been delayed an hour and a half",
+      "range": [
+        112,
+        157
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "Abi Brooke 提出到犹他州机场接叙述者,叙述者以怕她迟到为由推掉,改叫出租或网约车",
+      "quote": "had offered to pick me up from the airport in Utah",
+      "range": [
+        342,
+        392
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "叙述者给朋友 Nicole 发短信抱怨飞机延误",
+      "quote": "Ugh plane delayed. Worst.",
+      "range": [
+        772,
+        797
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "叙述者没去小说区,而是走到机场书店的自助类书架前找 Genevieve Caraway 的书",
+      "quote": "today I went to self-help. And there she was as I knew she would be.",
+      "range": [
+        1776,
+        1844
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Nicole 回了一段诗,叙述者复制粘贴到谷歌,查出作者是 John Updike",
+      "quote": "I highlighted it, copied it, and pasted it into Google. Ah-ha. John Updike.",
+      "range": [
+        5149,
+        5224
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "叙述者在机场文具店花大价钱买下一支需蘸墨水的旧式钢笔,外加墨水瓶与墨盒",
+      "quote": "I bought an old-fashioned pen for an outrageous sum",
+      "range": [
+        6859,
+        6910
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Genevieve Caraway",
+      "b": "Annie Leibovitz",
+      "rel": "Leibovitz 替 Genevieve 拍了那张著名封面照,并故意逗她笑",
+      "quote": "Leibovitz had made her laugh on purpose",
+      "range": [
+        3126,
+        3165
+      ]
+    },
+    {
+      "a": "Genevieve Spruce",
+      "b": "Genevieve Caraway",
+      "rel": "同一人:首本书署名用婚前姓 Spruce,婚后改署 Caraway",
+      "quote": "Originally the book’s byline read “Genevieve Spruce,”",
+      "range": [
+        3232,
+        3285
+      ]
+    },
+    {
+      "a": "Abi Brooke",
+      "b": "叙述者",
+      "rel": "Abi 是叙述者口中的未婚妻(Fuckface Fiancée),主动提出接机被婉拒",
+      "quote": "had offered to pick me up from the airport in Utah",
+      "range": [
+        342,
+        392
+      ]
+    },
+    {
+      "a": "Nicole",
+      "b": "叙述者",
+      "rel": "Nicole 是获奖诗人、叙述者的朋友,两人互发短信",
+      "quote": "She was an award-winning poet",
+      "range": [
+        1043,
+        1072
+      ]
+    },
+    {
+      "a": "Denny",
+      "b": "叙述者",
+      "rel": "Denny 拒绝过叙述者,是叙述者孤独处境的由来",
+      "quote": "especially in the face of Denny’s rejection",
+      "range": [
+        6360,
+        6403
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "an hour and a half",
+      "claim": "叙述者航班延误的时长",
+      "quote": "My flight had been delayed an hour and a half",
+      "range": [
+        112,
+        157
+      ]
+    },
+    {
+      "value": "three-hour",
+      "claim": "在凤凰城中转停留的时长",
+      "quote": "I had a three-hour layover in Phoenix anyway",
+      "range": [
+        163,
+        207
+      ]
+    },
+    {
+      "value": "B20",
+      "claim": "叙述者候机的登机口编号",
+      "quote": "Gate B20 of Terminal 4 at JFK Airport",
+      "range": [
+        73,
+        110
+      ]
+    },
+    {
+      "value": "Terminal 4",
+      "claim": "JFK 机场航站楼编号",
+      "quote": "Terminal 4 at JFK Airport",
+      "range": [
+        85,
+        110
+      ]
+    },
+    {
+      "value": "sixteen years ago",
+      "claim": "Genevieve Caraway 首本书出版的年份距离",
+      "quote": "ubiquitous is this work that came out sixteen years ago",
+      "range": [
+        1989,
+        2044
+      ]
+    },
+    {
+      "value": "eighteen-year-old",
+      "claim": "封面照片上 Genevieve 的年龄",
+      "quote": "photo in black-and-white of the eighteen-year-old Genevieve",
+      "range": [
+        2053,
+        2112
+      ]
+    },
+    {
+      "value": "last fifty years",
+      "claim": "《纽约时报》回顾所选书封的时间跨度",
+      "quote": "on the most influential book covers of the last fifty years",
+      "range": [
+        2857,
+        2916
+      ]
+    },
+    {
+      "value": "forty-two years old",
+      "claim": "叙述者自述的年龄",
+      "quote": "I was forty-two years old",
+      "range": [
+        5621,
+        5646
+      ]
+    },
+    {
+      "value": "a year away",
+      "claim": "Genevieve 首本书署名时距她遇到丈夫的时间",
+      "quote": "as she was still a year away from meeting her husband",
+      "range": [
+        3286,
+        3339
+      ]
+    },
+    {
+      "value": "every three or four years",
+      "claim": "Genevieve 出书的间隔",
+      "quote": "she’d published a book every three or four years",
+      "range": [
+        3879,
+        3927
+      ]
+    },
+    {
+      "value": "a minute or two",
+      "claim": "叙述者等 Nicole 回复的时长",
+      "quote": "I waited a minute or two",
+      "range": [
+        1151,
+        1175
+      ]
+    }
+  ],
+  "turning_point": "叙述者在 JFK 候机时第一次主动给朋友 Nicole 发短信报备自己的情绪,并收到回信——从自认「喜欢独处」转向承认自己不愿孤独终老,伸手求联结。",
+  "notes": "1) 叙述者在本章未出现姓名,relations 里以「叙述者」代称。2) 「Denny’s rejection」只出现一句,Denny 与叙述者的具体关系(兄弟/前伴侣)本章无法确定。3) 「an outrageous sum」为模糊表述,未计入 numbers。4) 章节末只写到买钢笔,未提登机或抵达犹他。"
+}

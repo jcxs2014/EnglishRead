@@ -1,0 +1,61 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch04",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch04_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "经纪人 Rhonda 借这次委托的时间紧迫，在周四早上替她谈下一份极好的合同。",
+   "anchor": "to score a phenomenal deal by Thursday morning.",
+   "start": 490,
+   "end": 537
+  },
+  {
+   "fact": "Rhonda 从赛跑起跑线打来电话，她听到的「枪声」是精英选手出发的信号。",
+   "anchor": "That was the elite runners.",
+   "start": 2600,
+   "end": 2627
+  },
+  {
+   "fact": "她给旧客户「笼中之王」（靠收购私营监狱发财的老板）写信，想借他联系亚利桑那那所营利监狱。",
+   "anchor": "I shot him an e-mail anyway",
+   "start": 4119,
+   "end": 4146
+  },
+  {
+   "fact": "她收到链接不到十分钟就点进 Zoom，没梳头、没垫书、没开环形灯，随后立刻后悔。",
+   "anchor": "I didn’t even fix my hair",
+   "start": 5144,
+   "end": 5169
+  },
+  {
+   "fact": "Zoom 对面的人卡进镜头，出示工牌：狱警 Luke Fulton。",
+   "anchor": "LUKE FULTON, I read. CORRECTIONS OFFICER.",
+   "start": 9143,
+   "end": 9184
+  },
+  {
+   "fact": "他喝水后回答，自己干狱警这行已经十五年，且一直在同一所监狱。",
+   "anchor": "Fifteen years.",
+   "start": 9698,
+   "end": 9712
+  },
+  {
+   "fact": "Luke 告诉她 Deirdre Gregory 已获假释，明天就出狱，而她此前不知道。",
+   "anchor": "She’s getting out. Made parole.",
+   "start": 15495,
+   "end": 15526
+  },
+  {
+   "fact": "Austin Gregory 因绑架、非法监禁与强奸等多项罪名被判终身监禁、不得假释。",
+   "anchor": "sent away for life without the possibility of parole",
+   "start": 15087,
+   "end": 15139
+  },
+  {
+   "fact": "关押 Genevieve 的公寓登记在 Eli Pratt 名下，此人至今在逃。",
+   "anchor": "had been registered to a man named Eli Pratt",
+   "start": 17454,
+   "end": 17498
+  }
+ ]
+}

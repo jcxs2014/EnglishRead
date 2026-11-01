@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch25",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch25_chapter_25.txt",
+ "facts": [
+  {
+   "fact": "有味道的蜗牛守卫 Eddie 带两人穿过监狱院子，路程大半在户外，气味散掉了",
+   "anchor": "most of this trek was outside, which dissipated the odor",
+   "start": 160,
+   "end": 216
+  },
+  {
+   "fact": "个案工作者 Martina Becerra 当面嘲弄典狱长 Gubler，说他除了做俯卧撑，只做非做不可的事",
+   "anchor": "Warden Goober doesn’t do anything he doesn’t have to.",
+   "start": 2584,
+   "end": 2637
+  },
+  {
+   "fact": "Martina 一关上门就断言 Deirdre 既不会自杀、也不会意外用药过量",
+   "anchor": "Deedee didn’t kill herself. Or accidentally OD.",
+   "start": 4368,
+   "end": 4415
+  },
+  {
+   "fact": "Martina 说她与 Deirdre 共事六年，且说认识时对方就已「煮透了」",
+   "anchor": "I’ve been working with her for six years",
+   "start": 4526,
+   "end": 4566
+  },
+  {
+   "fact": "Martina 主动说出 Genevieve 的母亲 Cheryl Spruce 曾多次探视 Deirdre",
+   "anchor": "You know Genevieve’s mother visited Deedee? Multiple times.",
+   "start": 5981,
+   "end": 6040
+  },
+  {
+   "fact": "Martina 记得最后一次探视就在复活节后，约六周之前，且那次只有 Rose 一个人来",
+   "anchor": "just after Easter, so it had to be about six weeks ago",
+   "start": 7442,
+   "end": 7496
+  },
+  {
+   "fact": "Deirdre 的长程出狱计划是把表亲家在圣迭戈当落脚处，先住满一年",
+   "anchor": "She had a cousin in San Diego",
+   "start": 10891,
+   "end": 10920
+  },
+  {
+   "fact": "Deirdre 出狱前一天最后想做的一件事，是再去爬一次她争取来的室内攀岩墙",
+   "anchor": "one last activity she wanted to do before she left",
+   "start": 15556,
+   "end": 15606
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "chapter": 21,
+ "text_file": "text/ch21_chapter_21.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "我与 Kay 在西塔底层办公室找到 Genevieve，她正翘着脚躺在沙发上闭目养神。",
+   "quote": "We found Genevieve in the West Tower. Her office was on the ground floor",
+   "range": [
+    13,
+    85
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "Kay 举起手机请求录音，称这是标准程序，Genevieve 一口答应。",
+   "quote": "Do you mind if I record this? It’s standard procedure.",
+   "range": [
+    1849,
+    1903
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "Kay 开场为她的丧亲之痛致歉，Genevieve 先误以为指的是 Deirdre 之死。",
+   "quote": "Let me begin by saying how sorry I am for your loss",
+   "range": [
+    2093,
+    2144
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "Genevieve 说她知道 Deirdre 昨晚威胁过她，是 Abi 今早告诉她的。",
+   "quote": "I know about her threatening me last night.",
+   "range": [
+    3896,
+    3939
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "她称失眠难耐，便开车出门兜风，两点离开、四点回来。",
+   "quote": "I left at two and came back at four, give or take a few minutes.",
+   "range": [
+    6502,
+    6566
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "被追问门锁时她承认用钥匙开过门，但不记得是否重新锁上。",
+   "quote": "I think I did. I can’t remember doing it, but it’s what I usually do.",
+   "range": [
+    8354,
+    8423
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "Kay 索要车钥匙以便检查她的车，Genevieve 起身过快差点晕眩，仍交出了钥匙。",
+   "quote": "We’re going to need to inspect your car,” Kay said gently.",
+   "range": [
+    9245,
+    9303
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "她说前门共有四把钥匙，分别在她、Rose、Abi 和 Dan 手里。",
+   "quote": "Four,” replied Genevieve immediately. “I’ve got one and so does Rose.",
+   "range": [
+    10165,
+    10234
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "Genevieve",
+   "b": "Kay",
+   "rel": "Genevieve 同意让 Belle 与 Kay 一同参与问询",
+   "quote": "If you think it’ll help, I have absolutely no problem with it.",
+   "range": [
+    3206,
+    3268
+   ]
+  },
+  {
+   "a": "Genevieve",
+   "b": "Belle",
+   "rel": "两人仍约定继续合写回忆录项目",
+   "quote": "It doesn’t mean we can’t work on our project",
+   "range": [
+    3470,
+    3514
+   ]
+  },
+  {
+   "a": "Genevieve",
+   "b": "Abi",
+   "rel": "Abi 把 Deirdre 的威胁转告给 Genevieve",
+   "quote": "Abi told me this morning.",
+   "range": [
+    3983,
+    4008
+   ]
+  },
+  {
+   "a": "Genevieve",
+   "b": "Rose",
+   "rel": "两人各持一把前门钥匙",
+   "quote": "I’ve got one and so does Rose.",
+   "range": [
+    10204,
+    10234
+   ]
+  },
+  {
+   "a": "Genevieve",
+   "b": "Dan",
+   "rel": "Dan 持有最后一把前门钥匙但从不使用",
+   "quote": "Dan has the last one, even though he never uses it.",
+   "range": [
+    10269,
+    10320
+   ]
+  },
+  {
+   "a": "Kay",
+   "b": "Belle",
+   "rel": "Kay 认可 Belle 有办案经验、两人搭档",
+   "quote": "Belle’s got experience with this sort of thing.",
+   "range": [
+    3302,
+    3349
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "two",
+   "claim": "她声称凌晨两点出门",
+   "quote": "I left at two and came back at four, give or take a few minutes.",
+   "range": [
+    6502,
+    6566
+   ]
+  },
+  {
+   "value": "two o’clock",
+   "claim": "Kay 追问她两点出门时外门是否锁好",
+   "quote": "when you left the house at two o’clock, was the door to the outside locked?",
+   "range": [
+    7902,
+    7977
+   ]
+  },
+  {
+   "value": "four",
+   "claim": "Kay 追问她四点回来时是否同样用钥匙开门",
+   "quote": "when you came back at four? Used your key to unlock the door?",
+   "range": [
+    8197,
+    8258
+   ]
+  },
+  {
+   "value": "Four",
+   "claim": "前门一共四把钥匙",
+   "quote": "Four,” replied Genevieve immediately.",
+   "range": [
+    10165,
+    10202
+   ]
+  },
+  {
+   "value": "one",
+   "claim": "她自己一把，Rose 一把",
+   "quote": "I’ve got one and so does Rose.",
+   "range": [
+    10204,
+    10234
+   ]
+  },
+  {
+   "value": "one",
+   "claim": "Dan 拿最后一把钥匙",
+   "quote": "Dan has the last one, even though he never uses it.",
+   "range": [
+    10269,
+    10320
+   ]
+  },
+  {
+   "value": "two",
+   "claim": "Kay 与 Genevieve 谈“你们两个”是否合作",
+   "quote": "And I take it you two are working together?",
+   "range": [
+    2925,
+    2968
+   ]
+  },
+  {
+   "value": "a few minutes",
+   "claim": "出门时间只有几分钟误差",
+   "quote": "give or take a few minutes.",
+   "range": [
+    6539,
+    6566
+   ]
+  },
+  {
+   "value": "first",
+   "claim": "她第一次显出耐心耗尽",
+   "quote": "her patience wearing thin for the first time",
+   "range": [
+    7230,
+    7274
+   ]
+  },
+  {
+   "value": "one",
+   "claim": "她从钥匙圈上拧下最粗的一把",
+   "quote": "She twisted off the fattest one among them",
+   "range": [
+    9897,
+    9939
+   ]
+  },
+  {
+   "value": "one",
+   "claim": "她只在尸体出现的那一夜才去开车",
+   "quote": "until the one night a corpse showed up",
+   "range": [
+    6259,
+    6297
+   ]
+  }
+ ],
+ "turning_point": "转折点是 Kay 索要车钥匙、要检查 Genevieve 的车：问询从“你昨晚在哪”的不在场陈述，转为对物证的搜查，Genevieve 也从配合的证人变成可能留下痕迹的嫌疑人。",
+ "notes": "Genevieve 起身后头晕，原文并列 head rush 与 panic attack 两种解释，未定；F6 原文写作 I—I think I did，引用从 I think I did 起截；F1 的 quote 结尾落在 ground floor，原句在后文继续。"
+}

@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch34",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch34_chapter_34.txt",
+ "facts": [
+  {
+   "fact": "Marilyn 抱着被砸碎的小提琴残件，坐在音乐室地板上靠着 Seth",
+   "anchor": "Marilyn was holding the pieces of what used to be a violin",
+   "start": 1429,
+   "end": 1487
+  },
+  {
+   "fact": "Seth 从空琴架旁敞开的琴盒里抽出楼下那根槌球杆",
+   "anchor": "Reaching in, he drew out the croquet mallet from downstairs",
+   "start": 2550,
+   "end": 2609
+  },
+  {
+   "fact": "对 Seth 来说，Marilyn 的失能比琴被毁更让他震动",
+   "anchor": "Probably for him, this had been the biggest shock of all",
+   "start": 3487,
+   "end": 3543
+  },
+  {
+   "fact": "叙述者意识到午饭那半小时 Genevieve 和她在一起，她成了对方的活证明",
+   "anchor": "I was officially her alibi now",
+   "start": 2989,
+   "end": 3019
+  },
+  {
+   "fact": "Kay 的副驾上坐着她十几岁的女儿，不是官方人员",
+   "anchor": "relieved to see a teenaged girl smirking at me",
+   "start": 4808,
+   "end": 4854
+  },
+  {
+   "fact": "Kay 说 Deirdre 的手机除了两通核实行程的电话再无任何往来",
+   "anchor": "No texts or calls in either direction",
+   "start": 8475,
+   "end": 8512
+  },
+  {
+   "fact": "那根绳还系在巨石上，垂过崖边没被收走",
+   "anchor": "tied to the boulder and trailing over the edge into oblivion",
+   "start": 9000,
+   "end": 9060
+  },
+  {
+   "fact": "Kay 当场把叙述者撤出这个案子",
+   "anchor": "I’m taking you off the case",
+   "start": 13838,
+   "end": 13865
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch35",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch35_chapter_35.txt",
+ "facts": [
+  {
+   "fact": "叙述者躲进卧室，回避 Abi 与 Denny 的敲门",
+   "anchor": "I hid in my bedroom, prepared to indulge",
+   "start": 13,
+   "end": 53
+  },
+  {
+   "fact": "她记起 Dan 与 Genevieve 是在滑翔节目上认识的",
+   "anchor": "He and Genevieve met on Soaring with the Stars",
+   "start": 6080,
+   "end": 6126
+  },
+  {
+   "fact": "她发现手机从皮包里消失",
+   "anchor": "My phone was gone",
+   "start": 8052,
+   "end": 8069
+  },
+  {
+   "fact": "她在厨房只说了这四个字",
+   "anchor": "“The Stanford Prison Experiment,” I replied softly.",
+   "start": 9298,
+   "end": 9349
+  },
+  {
+   "fact": "她确认面前煎牛排的人是 Austin Gregory",
+   "anchor": "This man was Austin Gregory.",
+   "start": 9953,
+   "end": 9981
+  },
+  {
+   "fact": "她问 Eli Pratt 在牢里关了多少年，他答十四年",
+   "anchor": "rotting away in your jail cell",
+   "start": 11072,
+   "end": 11102
+  },
+  {
+   "fact": "他承认给 Deirdre 买过 In-N-Out",
+   "anchor": "I got her In-N-Out",
+   "start": 19337,
+   "end": 19355
+  },
+  {
+   "fact": "她用机场买的笔刺进他颈根处",
+   "anchor": "into the little triangle at the base of his neck",
+   "start": 29299,
+   "end": 29347
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch16",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "女警转过身来，朝她挥了下手，像隔篱笆打招呼的邻居",
+   "anchor": "She gave me a little wave",
+   "start": 62,
+   "end": 87
+  },
+  {
+   "fact": "女警天生一张和善脸，叙述者猜这对当警察很受用",
+   "anchor": "She had Resting Nice Face",
+   "start": 1387,
+   "end": 1412
+  },
+  {
+   "fact": "女警伸手自报姓名，说自己是 Kay Adams 警探",
+   "anchor": "I’m Detective Kay Adams.",
+   "start": 3457,
+   "end": 3481
+  },
+  {
+   "fact": "死者按在胸口的那只手没有空着，攥着东西",
+   "anchor": "The hand clutched to her chest wasn’t empty",
+   "start": 3601,
+   "end": 3644
+  },
+  {
+   "fact": "Dan 光着上身只穿睡裤，晃在门口，像要吐出来",
+   "anchor": "Dan Caraway swayed in the entrance",
+   "start": 2649,
+   "end": 2683
+  },
+  {
+   "fact": "Rose 说早餐本该七点备好，被这件事耽误了",
+   "anchor": "It should have been ready at seven, but this delayed me.",
+   "start": 4641,
+   "end": 4697
+  },
+  {
+   "fact": "叙述者起疑：对方自称警探，为何穿副治安官制服",
+   "anchor": "but then why was she in a deputy sheriff’s uniform?",
+   "start": 5826,
+   "end": 5877
+  },
+  {
+   "fact": "她问不出话，被请走，往东端塔楼退去",
+   "anchor": "I retreated in defeat",
+   "start": 6442,
+   "end": 6463
+  }
+ ]
+}

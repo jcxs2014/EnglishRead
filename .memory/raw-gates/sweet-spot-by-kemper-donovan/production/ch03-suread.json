@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch03",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "Denny 点了 full English breakfast，她又点了一份纯吐司，这次不加黄油",
+   "anchor": "I got another order of toast, plain this time",
+   "start": 2410,
+   "end": 2455
+  },
+  {
+   "fact": "二十五年前，还在少女时期的她失去了唯一的妹妹，妹妹死于自杀",
+   "anchor": "I lost my sister to suicide",
+   "start": 2964,
+   "end": 2991
+  },
+  {
+   "fact": "她开始写自己的谋杀悬疑小说时，用了另一个假名「Belle Currer」出版",
+   "anchor": "I published them under yet another fake name",
+   "start": 3388,
+   "end": 3432
+  },
+  {
+   "fact": "她刚开口要道歉、要把话说回来，Denny 抢先宣布自己已经订婚",
+   "anchor": "“I’m engaged,” he blurted out.",
+   "start": 4438,
+   "end": 4468
+  },
+  {
+   "fact": "她举杯遮住脸、假意喝茶，结果把半杯茶泼在自己腿上",
+   "anchor": "I spilled half its contents in my lap",
+   "start": 5100,
+   "end": 5137
+  },
+  {
+   "fact": "Denny 说未婚妻 Abi 小时候最好的朋友是 Genevieve Caraway",
+   "anchor": "her best friend was Genevieve Caraway",
+   "start": 10849,
+   "end": 10886
+  },
+  {
+   "fact": "二十年前，十四岁的 Genevieve 在儿童床上醒来，一个男人把刀架在她喉咙上",
+   "anchor": "a man was holding a knife to her throat",
+   "start": 12916,
+   "end": 12955
+  },
+  {
+   "fact": "当天是周三，撒骨灰定在周五晚，她只剩不到两天时间",
+   "anchor": "It was Wednesday",
+   "start": 17287,
+   "end": 17303
+  }
+ ]
+}

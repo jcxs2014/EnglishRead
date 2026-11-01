@@ -1,0 +1,270 @@
+{
+ "chapter": 25,
+ "text_file": "text/ch25_chapter_25.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "蜗牛警卫 Eddie 慢吞吞地把 Kay 与我领到女监区，他们得以落后几步低声私谈。",
+   "quote": "Eddie the smelly snail guard slid along at his glacial pace",
+   "range": [
+    13,
+    72
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "Kay 自我介绍并说明来意后，正在打电话骂人的辅导员 Martina Becerra 态度骤变，起身带路。",
+   "quote": "Martina Becerra’s tune changed when Kay introduced us",
+   "range": [
+    2716,
+    2769
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "Martina 一坐下就断言 Deedee 既没有自杀也没有意外过量，绝无可能。",
+   "quote": "Deedee didn’t kill herself. Or accidentally OD. There’s no way.",
+   "range": [
+    4368,
+    4431
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "Martina 透露受害者 Genevieve 的母亲 Cheryl Spruce 曾多次来探视 Deedee。",
+   "quote": "You know Genevieve’s mother visited Deedee? Multiple times.",
+   "range": [
+    5981,
+    6040
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "Martina 记得最后一次探视就在复活节后，约六周前，且只有那位同伴独自前来。",
+   "quote": "it was just after Easter, so it had to be about six weeks ago",
+   "range": [
+    7435,
+    7496
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "Martina 说 Genevieve 在证人听证会上明显心不在焉，因此假释小组这次才敢逆着她的意思放人。",
+   "quote": "Her heart wasn’t in it though. Not the way it usually was.",
+   "range": [
+    9557,
+    9615
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "Deirdre 的长期安置计划是投靠圣迭戈的表亲、考美容师执照、在呼叫中心先做一份工。",
+   "quote": "She had a cousin in San Diego who was willing to take her in",
+   "range": [
+    10891,
+    10951
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "Martina 说 Deirdre 最执着的是攀岩墙：她争取多年让监狱装了标准岩壁，能飞快登顶。",
+   "quote": "There was one last activity she wanted to do before she left. The rock wall.",
+   "range": [
+    15546,
+    15622
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "Kay",
+   "b": "Martina Becerra",
+   "rel": "调查者与被访者：Kay 说明来意后 Martina 转为全力配合，提供案情内情。",
+   "quote": "Kay introduced us and told her why we were here",
+   "range": [
+    2752,
+    2799
+   ]
+  },
+  {
+   "a": "Martina Becerra",
+   "b": "Deirdre Gregory",
+   "rel": "假释辅导员与当事人：共事六年，坚称她不会自伤。",
+   "quote": "I’ve been working with her for six years, okay?",
+   "range": [
+    4526,
+    4573
+   ]
+  },
+  {
+   "a": "Cheryl Spruce",
+   "b": "Deirdre Gregory",
+   "rel": "受害者 Genevieve 的母亲，多年多次到监狱探视她并表达宽恕。",
+   "quote": "You know Genevieve’s mother visited Deedee? Multiple times.",
+   "range": [
+    5981,
+    6040
+   ]
+  },
+  {
+   "a": "Rose Tillohash",
+   "b": "Deirdre Gregory",
+   "rel": "常与 Cheryl 同来的女伴，最后一次是独自探视，约六周前。",
+   "quote": "That was just the companion though.",
+   "range": [
+    7081,
+    7116
+   ]
+  },
+  {
+   "a": "Genevieve Caraway",
+   "b": "Deirdre Gregory",
+   "rel": "受害者本人，坚持每场听证会到场并反对假释。",
+   "quote": "a hundred percent Genevieve Caraway’s right to come to every single hearing",
+   "range": [
+    5653,
+    5728
+   ]
+  },
+  {
+   "a": "Deirdre Gregory",
+   "b": "Austin Gregory",
+   "rel": "名义上的丈夫，在狱中从无往来，她出狱当天请求见他被拒。",
+   "quote": "Deedee put in a request to see him on the day of her release",
+   "range": [
+    17468,
+    17528
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "six years",
+   "claim": "Martina 与 Deedee 共事的年数。",
+   "quote": "I’ve been working with her for six years, okay?",
+   "range": [
+    4526,
+    4573
+   ]
+  },
+  {
+   "value": "four, five",
+   "claim": "Cheryl 与同伴多年来探视的次数。",
+   "quote": "I don’t have the exact number but I’d say four, five, over the years?",
+   "range": [
+    6979,
+    7048
+   ]
+  },
+  {
+   "value": "six weeks",
+   "claim": "最后一次探视距当时的时长（复活节后）。",
+   "quote": "it was just after Easter, so it had to be about six weeks ago",
+   "range": [
+    7435,
+    7496
+   ]
+  },
+  {
+   "value": "twenty",
+   "claim": "会议室长桌可坐的人数。",
+   "quote": "a stuffy, windowless room with a conference table big enough to seat twenty",
+   "range": [
+    2972,
+    3047
+   ]
+  },
+  {
+   "value": "two",
+   "claim": "桌上环形水渍足以凑出两个奥运五环标志。",
+   "quote": "make at least two Olympic insignias",
+   "range": [
+    3115,
+    3150
+   ]
+  },
+  {
+   "value": "three",
+   "claim": "Martina 拿进会议室的瓶装水数量。",
+   "quote": "She took three, putting one in front of each of us",
+   "range": [
+    3535,
+    3585
+   ]
+  },
+  {
+   "value": "a thousand times",
+   "claim": "Deirdre 攀爬那面岩壁的次数（夸张说法）。",
+   "quote": "She must have done it a thousand times.",
+   "range": [
+    16057,
+    16096
+   ]
+  },
+  {
+   "value": "one",
+   "claim": "她离开前想做的最后一项活动（攀岩墙）的数量。",
+   "quote": "There was one last activity she wanted to do before she left.",
+   "range": [
+    15546,
+    15607
+   ]
+  },
+  {
+   "value": "six months",
+   "claim": "Kay 对“最近一次探视”时间范围的上限估计。",
+   "quote": "So that was sometime in the last six months?",
+   "range": [
+    7342,
+    7386
+   ]
+  },
+  {
+   "value": "first year",
+   "claim": "圣迭戈表亲愿意收留她的最短期限。",
+   "quote": "willing to take her in for at least the first year she was out",
+   "range": [
+    10929,
+    10991
+   ]
+  },
+  {
+   "value": "half",
+   "claim": "Martina 一口气喝掉的水量。",
+   "quote": "Martina guzzled half of hers, the bottle crunching noisily.",
+   "range": [
+    3680,
+    3739
+   ]
+  },
+  {
+   "value": "a day later",
+   "claim": "她获释次日即死亡的时间间隔。",
+   "quote": "how does that translate into suicide a day later?",
+   "range": [
+    12904,
+    12953
+   ]
+  },
+  {
+   "value": "hundred percent",
+   "claim": "Martina 强调 Genevieve 到场听审是完全正当的权利。",
+   "quote": "And it was a hundred percent Genevieve Caraway’s right",
+   "range": [
+    5642,
+    5696
+   ]
+  },
+  {
+   "value": "early thirties",
+   "claim": "Martina 看上去的年龄。",
+   "quote": "The woman looked to be in her early thirties",
+   "range": [
+    1939,
+    1983
+   ]
+  }
+ ],
+ "turning_point": "Martina 说出 Deirdre 的头号爱好是攀岩墙——她争取多年让监狱装了标准岩壁、能飞快登顶——这让 Kay 与我立刻想到 Sweet Spot 露台外那道直落悬崖，暗示她不是自杀，而是攀上崖顶离开。",
+ "notes": "1) 那位“同伴”应是 Rose Tillohash，但本章只由 Kay 反问“Was this other woman Native American?”与叙述者内心推测坐实，Martina 本人从未说出姓名；2) Kay 对 Martina 谎称 Deirdre 的死因仍在按过量调查（原文用 fibbed），故 Martina 的证词是在被隐瞒部分真相下给出的；3) 关于 Eli Pratt 的模拟画像与 Luke Fulton（“Austin Whisperer”）的段落为旁支信息，未列入主干 facts；4) Martina 承认自己私下带 Deirdre 去男监区远远看了 Austin 一眼，属违规行为，她的叙述因此可能有所保留。"
+}

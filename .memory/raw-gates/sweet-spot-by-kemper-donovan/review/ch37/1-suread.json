@@ -1,0 +1,252 @@
+{
+  "chapter": 37,
+  "text_file": "text/ch37_chapter_37.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "吉纳维芙手捧装有母亲骨灰的骨灰瓮，站在露台上准备致辞。",
+      "quote": "In her hands she held the urn that contained the ashes of her mother.",
+      "range": [
+        1023,
+        1092
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "吉纳维芙转述母亲临终前的问话：你原谅我吗。",
+      "quote": "What she said was, ‘Do you forgive me?’",
+      "range": [
+        1381,
+        1420
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "吉纳维芙坦白当时说原谅并非真话，真相更复杂：她还没准备好原谅母亲。",
+      "quote": "“It wasn’t the truth. The truth was more complicated, as it often is.",
+      "range": [
+        1923,
+        1992
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "罗斯一声不响地把骨灰撒过栏杆，完成这场神圣的托付。",
+      "quote": "Rose did so without fanfare or delay, saying nothing",
+      "range": [
+        4283,
+        4335
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "众人进屋后，吉纳维芙与儿子塞思合奏一曲，令所有人意外。",
+      "quote": "Genevieve surprised us all by playing a duet with her son",
+      "range": [
+        4451,
+        4508
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "叙述者把这场聚会称作“反结局”：她以暗示的方式，一个人一个人地掩埋真相。",
+      "quote": "in which I buried the truth by way of innuendo, one person at a time",
+      "range": [
+        5630,
+        5698
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "吉纳维芙当面告诉罗斯，她从一开始就知道是罗斯毁了小提琴。",
+      "quote": "I knew right away you were the one who ruined my violin.",
+      "range": [
+        9994,
+        10050
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "吉纳维芙在炉火前告诉叙述者，她不想再写回忆录了。",
+      "quote": "I don’t want to write a memoir anymore,",
+      "range": [
+        15824,
+        15863
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Genevieve",
+      "b": "Samuel Spruce",
+      "rel": "父女：吉纳维芙当众原谅父亲，塞缪尔终于失声痛哭。",
+      "quote": "Samuel lost his composure finally and let out a sob",
+      "range": [
+        3172,
+        3223
+      ]
+    },
+    {
+      "a": "Genevieve",
+      "b": "Seth",
+      "rel": "母子：吉纳维芙揽住儿子，塞思没有躲开。",
+      "quote": "Genevieve put her arm around Seth, who didn’t shrug her off.",
+      "range": [
+        7902,
+        7962
+      ]
+    },
+    {
+      "a": "Genevieve",
+      "b": "Rose Tillohash",
+      "rel": "雇主与管家：吉纳维芙说明解雇与小提琴无关，并提议把钱捐给慈善机构。",
+      "quote": "Oh, you’re also fired. Not because of the violin thing,",
+      "range": [
+        12232,
+        12287
+      ]
+    },
+    {
+      "a": "Abi",
+      "b": "Denny Peters",
+      "rel": "恋人：阿比把头靠在丹尼胸前，丹尼把她搂得更紧。",
+      "quote": "Abi laid her head against Denny’s chest, and he drew her in closer",
+      "range": [
+        3656,
+        3722
+      ]
+    },
+    {
+      "a": "Genevieve",
+      "b": "Marilyn Stone",
+      "rel": "好友：吉纳维芙反问玛丽莲是否嫉妒自己，玛丽莲最终承认有一点。",
+      "quote": "Are you … jealous of me?",
+      "range": [
+        8239,
+        8263
+      ]
+    },
+    {
+      "a": "Dan",
+      "b": "Seth",
+      "rel": "父子：丹抚摸着儿子的后脑勺。",
+      "quote": "Dan patting the back of his son’s head",
+      "range": [
+        3475,
+        3513
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "Five thousand",
+      "claim": "吉纳维芙对罗斯谎称修琴只花了五千美元，实为替她减轻负担。",
+      "quote": "Genevieve sighed. “Five thousand.”",
+      "range": [
+        11262,
+        11296
+      ]
+    },
+    {
+      "value": "hundred-dollar bills",
+      "claim": "罗斯塞给吉纳维芙的信封里是一沓百元钞票。",
+      "quote": "I could see a stack of hundred-dollar bills inside",
+      "range": [
+        9769,
+        9819
+      ]
+    },
+    {
+      "value": "midnight",
+      "claim": "众人将近午夜才各自回房睡觉。",
+      "quote": "It was close to midnight by the time everyone went to bed.",
+      "range": [
+        13876,
+        13934
+      ]
+    },
+    {
+      "value": "two weeks",
+      "claim": "叙述者估计罗斯一周内、最多两周就会搬走。",
+      "quote": "I gave her a week before she was out of the house—two weeks maximum.",
+      "range": [
+        13237,
+        13305
+      ]
+    },
+    {
+      "value": "two violin soloists",
+      "claim": "母子合奏的是巴赫为两把独奏小提琴写的《双小提琴协奏曲》末乐章。",
+      "quote": "a piece written for two violin soloists by Johann Sebastian Bach",
+      "range": [
+        4574,
+        4638
+      ]
+    },
+    {
+      "value": "two armchairs",
+      "claim": "最后只剩叙述者与吉纳维芙坐在炉火前的两把扶手椅上。",
+      "quote": "we sat for a while in the two armchairs in front of the fire",
+      "range": [
+        13998,
+        14058
+      ]
+    },
+    {
+      "value": "one condition",
+      "claim": "吉纳维芙说她的原谅其实有一个条件：父亲必须原谅肯。",
+      "quote": "my forgiveness actually has one condition",
+      "range": [
+        9143,
+        9184
+      ]
+    },
+    {
+      "value": "many hours",
+      "claim": "吉纳维芙在“舒适城堡”里睡了很久，叙述者估计有好几个小时。",
+      "quote": "It had been many hours since I left her asleep in her Cozy Castle",
+      "range": [
+        806,
+        871
+      ]
+    },
+    {
+      "value": "a few minutes",
+      "claim": "几分钟后罗斯拦住吉纳维芙，把信封塞进她手里。",
+      "quote": "Rose accosted Genevieve a few minutes later",
+      "range": [
+        9660,
+        9703
+      ]
+    },
+    {
+      "value": "one in a long line",
+      "claim": "叙述者自认是众多伤害过吉纳维芙的人之一。",
+      "quote": "I was one in a long line of people who had victimized Genevieve Caraway",
+      "range": [
+        16487,
+        16558
+      ]
+    },
+    {
+      "value": "seconds",
+      "claim": "敲门后几秒钟门就开了。",
+      "quote": "It opened seconds later.",
+      "range": [
+        17293,
+        17317
+      ]
+    },
+    {
+      "value": "one person at a time",
+      "claim": "叙述者形容自己是一个接一个地用暗示掩埋真相。",
+      "quote": "one person at a time, as opposed to rounding up everyone",
+      "range": [
+        5678,
+        5734
+      ]
+    }
+  ],
+  "turning_point": "吉纳维芙在骨灰撒完后当众宣布原谅父亲，又在炉火前决定放弃写回忆录；叙述者由此确认自己与凯的计划必须继续隐瞒，两人的合作到此结束。",
+  "notes": "叙述者姓名全章未出现；“the Bach Double”指巴赫《d 小调双小提琴协奏曲》BWV 1043，原文只说 final movement。第 7 行 “Gene vieve” 为原文排版断字，未作改动。"
+}

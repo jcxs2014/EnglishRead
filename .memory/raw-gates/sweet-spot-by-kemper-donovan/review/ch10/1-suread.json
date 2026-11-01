@@ -1,0 +1,315 @@
+{
+  "chapter": "ch10",
+  "text_file": "text/ch10_chapter_10.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "Genevieve 牵起 Belle 的手，领她穿过木地板去见父亲。",
+      "quote": "with a frank and winning intimacy, took me by the hand",
+      "range": [
+        2282,
+        2336
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "Samuel Spruce 在女儿失踪的次日早晨，于少年女儿的枕头上发现一封手写勒索信。",
+      "quote": "found a handwritten ransom note on his teenaged daughter’s pillow",
+      "range": [
+        6027,
+        6092
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "Samuel 与 Cheryl 按勒索信的指示，把现金留在公园里事先约定的地点。",
+      "quote": "leaving the cash in a pre-arranged spot in a public park",
+      "range": [
+        6388,
+        6444
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "Genevieve 向 Belle 介绍 Kenji Nakamura 是父亲的男友。",
+      "quote": "this is my father’s boyfriend",
+      "range": [
+        6903,
+        6932
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "Kenji 举杯半醉地否认自己会对 Genevieve 怀恨在心。",
+      "quote": "I’m way too much of a sweetie pie to ever hold a grudge against anyone",
+      "range": [
+        14811,
+        14881
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Samuel 说该给 Kenji 弄点水，把他领去厨房。",
+      "quote": "it’s time we got you some water in the kitchen",
+      "range": [
+        14972,
+        15018
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "Genevieve 告诉 Belle，父亲与 Kenji 大约两年前开始交往。",
+      "quote": "They started dating about two years ago",
+      "range": [
+        15498,
+        15537
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "告别前 Genevieve 起身说 Belle 还没见过 Marilyn，拉她同去。",
+      "quote": "You haven’t met Marilyn yet!",
+      "range": [
+        20997,
+        21025
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Genevieve Caraway",
+      "b": "Samuel Spruce",
+      "rel": "父女",
+      "quote": "my father, Samuel Spruce",
+      "range": [
+        5946,
+        5970
+      ]
+    },
+    {
+      "a": "Samuel Spruce",
+      "b": "Kenji Nakamura",
+      "rel": "恋人（男友）",
+      "quote": "this is my father’s boyfriend",
+      "range": [
+        6903,
+        6932
+      ]
+    },
+    {
+      "a": "Genevieve Caraway",
+      "b": "Belle Currer",
+      "rel": "雇主／传记作者与被写者",
+      "quote": "I’m really looking forward to working with you",
+      "range": [
+        15833,
+        15879
+      ]
+    },
+    {
+      "a": "Samuel Spruce",
+      "b": "Cheryl",
+      "rel": "夫妻",
+      "quote": "Samuel and Cheryl had done exactly as the letter instructed",
+      "range": [
+        6327,
+        6386
+      ]
+    },
+    {
+      "a": "Genevieve Caraway",
+      "b": "（Genevieve 之子，未具名）",
+      "rel": "母子",
+      "quote": "I can’t believe how talented her son is",
+      "range": [
+        12550,
+        12589
+      ]
+    },
+    {
+      "a": "Genevieve Caraway",
+      "b": "Abi",
+      "rel": "熟人（Abi 曾向 Belle 描述 Genevieve）",
+      "quote": "Abi had alluded to when she said that Genevieve didn’t suffer bullies",
+      "range": [
+        2442,
+        2511
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "one hundred thousand dollars",
+      "claim": "赎金金额：十万美元",
+      "quote": "one hundred thousand dollars",
+      "range": [
+        6190,
+        6218
+      ]
+    },
+    {
+      "value": "much above five feet",
+      "claim": "Genevieve 身高刚过五英尺",
+      "quote": "much above five feet",
+      "range": [
+        3211,
+        3231
+      ]
+    },
+    {
+      "value": "worth six figures",
+      "claim": "墙上圣母圣婴画价值六位数",
+      "quote": "Would you believe that thing is worth six figures?",
+      "range": [
+        10921,
+        10971
+      ]
+    },
+    {
+      "value": "Sixteenth century? Fifteenth?",
+      "claim": "Kenji 猜测画作年代为十六或十五世纪",
+      "quote": "Sixteenth century? Fifteenth?",
+      "range": [
+        11677,
+        11706
+      ]
+    },
+    {
+      "value": "They started dating about two years ago",
+      "claim": "Samuel 与 Kenji 交往约两年",
+      "quote": "They started dating about two years ago",
+      "range": [
+        15498,
+        15537
+      ]
+    },
+    {
+      "value": "almost two months",
+      "claim": "Genevieve 被囚禁在那间公寓近两个月",
+      "quote": "kept inside that filthy apartment for almost two months",
+      "range": [
+        17346,
+        17401
+      ]
+    },
+    {
+      "value": "Deirdre being eighteen at the time of the kidnapping and Austin twenty",
+      "claim": "绑架时 Deirdre 十八岁、Austin 二十岁",
+      "quote": "Deirdre being eighteen at the time of the kidnapping and Austin twenty",
+      "range": [
+        18583,
+        18653
+      ]
+    },
+    {
+      "value": "Eli Pratt was nineteen",
+      "claim": "Eli Pratt 当时十九岁",
+      "quote": "Eli Pratt was nineteen",
+      "range": [
+        18656,
+        18678
+      ]
+    },
+    {
+      "value": "two twenty-something men",
+      "claim": "前来敲门救人的是两名二十多岁的传教士",
+      "quote": "two twenty-something men",
+      "range": [
+        17733,
+        17757
+      ]
+    },
+    {
+      "value": "in May in southern Utah",
+      "claim": "时令为犹他州南部的五月",
+      "quote": "in May in southern Utah",
+      "range": [
+        10413,
+        10436
+      ]
+    },
+    {
+      "value": "late 2000s",
+      "claim": "Samuel 出柜发生在 2000 年代后期",
+      "quote": "But then Samuel had come out. This had been in the late 2000s",
+      "range": [
+        7629,
+        7690
+      ]
+    },
+    {
+      "value": "less than two weeks ago",
+      "claim": "Belle 不到两周前刚交第二部书稿",
+      "quote": "less than two weeks ago",
+      "range": [
+        13360,
+        13383
+      ]
+    },
+    {
+      "value": "three other people had been sitting on the sofas",
+      "claim": "除 Caraway 夫妇外，沙发区还有三人在看演奏",
+      "quote": "three other people had been sitting on the sofas",
+      "range": [
+        1953,
+        2001
+      ]
+    },
+    {
+      "value": "a day of flying",
+      "claim": "Belle 飞了一整天，因而脱水",
+      "quote": "I was dehydrated after a day of flying",
+      "range": [
+        10062,
+        10100
+      ]
+    },
+    {
+      "value": "Stage IV nightmare phase",
+      "claim": "互联网已进入「第四期噩梦」阶段",
+      "quote": "Stage IV nightmare phase",
+      "range": [
+        7177,
+        7201
+      ]
+    },
+    {
+      "value": "the first people to knock on the door in two months",
+      "claim": "那两个传教士是两个月来第一批敲门的人",
+      "quote": "the first people to knock on the door in two months",
+      "range": [
+        18154,
+        18205
+      ]
+    },
+    {
+      "value": "The Great Den accommodated three of them",
+      "claim": "大厅里铺了三块地毯",
+      "quote": "The Great Den accommodated three of them",
+      "range": [
+        3482,
+        3522
+      ]
+    },
+    {
+      "value": "two pairs of French windows",
+      "claim": "前门两侧各有一对落地窗",
+      "quote": "two pairs of French windows",
+      "range": [
+        1456,
+        1483
+      ]
+    },
+    {
+      "value": "As often happens with a foursome",
+      "claim": "四人自然分成两对交谈",
+      "quote": "As often happens with a foursome",
+      "range": [
+        11249,
+        11281
+      ]
+    }
+  ],
+  "turning_point": "Kenji 借着酒劲当面说出自己本想接下 Genevieve 的传记项目、话里带刺，这场和气的四人会面就此裂开一道缝。",
+  "notes": "Belle 脑中的 “Rhonda” 只说了一句 Shut up，未交代其身份（经纪人/内心声音不明）；Marilyn 在章末才被提起，本章未出场、身份未知；Genevieve 的儿子与丈夫本章均未具名；Samuel 与 Cheryl 的婚姻本章只说「可能因压力崩裂」，未明说是否离婚；Genevieve 的身高写作 five feet，Kenji 的具体年龄只给「二十多岁末或三十出头」的推测。"
+}

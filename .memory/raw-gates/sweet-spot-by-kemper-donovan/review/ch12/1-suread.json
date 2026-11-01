@@ -1,0 +1,234 @@
+{
+  "chapter": "ch12",
+  "text_file": "text/ch12_chapter_12.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "Genevieve 拒绝报警，说自己不想让事态升级。",
+      "quote": "“I—I don’t want to escalate this.”",
+      "range": [
+        197,
+        231
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "Samuel 让女婿 Dan 留在屋里陪 Genevieve，自己和 Abi 出门去查看。",
+      "quote": "“Dan, you stay here. Genny needs the moral support.”",
+      "range": [
+        1210,
+        1262
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "Abi 用遥控钥匙打开一辆 Prius，与 Samuel 坐进前排，叙述者溜进后座跟随。",
+      "quote": "Abi used a remote clicker to open a Prius sedan.",
+      "range": [
+        1742,
+        1790
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "叙述者在车上给 Luke 回短信，答应见面但说不好明天会怎样。",
+      "quote": "Love to, I wrote back. But TBH it’s hard to know what tmrw will bring.",
+      "range": [
+        2947,
+        3017
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "夜班保安 Alberto 告诉 Abi，Deirdre 几分钟前乘 Uber 到门口，报了真名并已被通报给 Rose。",
+      "quote": "Alberto says she showed up in the Uber a few minutes ago.",
+      "range": [
+        4764,
+        4821
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Deirdre 站在栅栏外，恳求 Abi 让她见 Genevieve 五分钟。",
+      "quote": "But if I could just see her, even for just like five minutes?",
+      "range": [
+        7936,
+        7997
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "Deirdre 被 Abi 逼问时喊出 Genevieve 有危险。",
+      "quote": "“Genevieve is in danger!”",
+      "range": [
+        10905,
+        10930
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "Abi 念出 Deirdre 的手机号，让在场所有人记下并拉黑。",
+      "quote": "“Take this down,” instructed Abi, reading out a ten-digit number.",
+      "range": [
+        17315,
+        17380
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Genevieve",
+      "b": "Samuel",
+      "rel": "父女——Samuel 当着众人称 Genevieve 为 my daughter",
+      "quote": "“Then what did you mean?” he asked quietly. “How is my daughter in danger?”",
+      "range": [
+        11383,
+        11458
+      ]
+    },
+    {
+      "a": "Genevieve",
+      "b": "Dan",
+      "rel": "夫妻——Dan 是 Samuel 的女婿，扶 Genevieve 上楼",
+      "quote": "Dan, you stay here. Genny needs the moral support.",
+      "range": [
+        1211,
+        1261
+      ]
+    },
+    {
+      "a": "Abi",
+      "b": "Samuel",
+      "rel": "胜似父女——Abi 哭时靠在这个「一辈子像家长一样待她」的男人身上",
+      "quote": "He patted her arm while turning back to Deirdre.",
+      "range": [
+        11977,
+        12025
+      ]
+    },
+    {
+      "a": "Deirdre",
+      "b": "Genevieve",
+      "rel": "加害者与受害者——Deirdre 当年把 Genevieve 囚禁，如今来求见",
+      "quote": "as she begged to see the person who had been the means of keeping her locked away for so long",
+      "range": [
+        8814,
+        8907
+      ]
+    },
+    {
+      "a": "叙述者",
+      "b": "Genevieve",
+      "rel": "代笔人——叙述者自称是 Genevieve 回忆录的 ghostwriter",
+      "quote": "the ghostwriter of Genevieve Caraway’s memoir",
+      "range": [
+        2205,
+        2250
+      ]
+    },
+    {
+      "a": "叙述者",
+      "b": "Luke",
+      "rel": "约会对象——Luke 发短信约第二天晚饭，叙述者回信赴约",
+      "quote": "Nice meeting you today. Dinner tomorrow (Sat)?",
+      "range": [
+        2848,
+        2894
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "twenty years",
+      "claim": "叙述者拿「坐二十年牢」调侃 Deirdre 出狱后的外貌变化",
+      "quote": "Should we all be spending twenty years in prison, reader?",
+      "range": [
+        5824,
+        5881
+      ]
+    },
+    {
+      "value": "four thirty",
+      "claim": "叙述者为赶飞机凌晨四点半起床",
+      "quote": "I’d woken up at four thirty in the morning to get to the airport",
+      "range": [
+        14440,
+        14504
+      ]
+    },
+    {
+      "value": "past midnight",
+      "claim": "叙述者估算此刻纽约时间已过午夜",
+      "quote": "and it was past midnight now in New York",
+      "range": [
+        14506,
+        14546
+      ]
+    },
+    {
+      "value": "fifteen minutes",
+      "claim": "Dan 说 La Dorada Inn 离这里约十五分钟车程",
+      "quote": "Probably fifteen minutes away. Why?",
+      "range": [
+        16574,
+        16609
+      ]
+    },
+    {
+      "value": "ten-digit",
+      "claim": "Deirdre 的手机号是十位数",
+      "quote": "reading out a ten-digit number",
+      "range": [
+        17349,
+        17379
+      ]
+    },
+    {
+      "value": "two inches",
+      "claim": "Abi 至少比 Samuel 高两英寸",
+      "quote": "who was at least two inches taller than him",
+      "range": [
+        11718,
+        11761
+      ]
+    },
+    {
+      "value": "Two minutes",
+      "claim": "Deirdre 把求见时长从五分钟降到两分钟",
+      "quote": "even for just like five minutes? Two minutes.",
+      "range": [
+        7965,
+        8010
+      ]
+    },
+    {
+      "value": "Sat",
+      "claim": "Luke 约的是周六晚饭",
+      "quote": "Dinner tomorrow (Sat)?",
+      "range": [
+        2872,
+        2894
+      ]
+    },
+    {
+      "value": "three-point",
+      "claim": "Uber 司机做了一个急促的三点掉头离开",
+      "quote": "He executed a hasty three-point turn",
+      "range": [
+        13584,
+        13620
+      ]
+    },
+    {
+      "value": "Terminator 2",
+      "claim": "叙述者把 Deirdre 的肌肉比作《终结者2》里的 Linda Hamilton",
+      "quote": "à la the incarcerated Linda Hamilton in Terminator 2",
+      "range": [
+        6652,
+        6704
+      ]
+    }
+  ],
+  "turning_point": "Deirdre 在栅栏外被逼到无路可退时喊出「Genevieve is in danger!」，这场「赶走不速之客」的对峙立刻变成「有人要害 Genevieve」的悬念。",
+  "notes": "1) Abi 回屋后对 Genevieve 说 Deirdre「只是来道歉」，但叙述者当场质疑：Deirdre 从未明说道歉。2) Deirdre 所说的「危险」具体所指全章未交代，Abi 与 Samuel 都没能问出内容；Samuel 反问「Is that a threat?」她也否认。3) 引语含弯引号、破折号、重音符号（à、¡），range 均由 text.index 逐字定位。"
+}

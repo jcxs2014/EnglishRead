@@ -1,0 +1,243 @@
+{
+ "chapter": 33,
+ "text_file": "text/ch33_chapter_33.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "贝儿匆匆吃完饭，为避开那张长椅改走大客厅去吉纳维芙的办公室。",
+   "quote": "rather than cut across the courtyard garden, I went through the Great Den",
+   "range": [
+    186,
+    259
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "她推断山缪向女儿坦白是因昨天健二之事，并认定他是更强的嫌犯。",
+   "quote": "Samuel Spruce had become a stronger suspect",
+   "range": [
+    1793,
+    1836
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "她轻声走上旋梯，吉纳维芙的阁楼近乎全黑，遮光帘全被放下。",
+   "quote": "I emerged from the staircase into near-total darkness.",
+   "range": [
+    2189,
+    2243
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "吉纳维芙说得知真相后仍觉得自己破碎，自己写的一切都是谎言。",
+   "quote": "Everything I’ve written is a lie. Every word.",
+   "range": [
+    4244,
+    4289
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "贝儿讲出姐姐卡西的故事：她不停羞辱失意的姐姐，两周后卡西自杀。",
+   "quote": "She killed herself two weeks after she came home.",
+   "range": [
+    8289,
+    8338
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "贝儿承认自己因愧疚改名，“Belle Currer”也是假名，父母同样怪她。",
+   "quote": "I was the coward who had changed my name after what I’d done.",
+   "range": [
+    8498,
+    8559
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "吉纳维芙坦白昨日对贝儿和亚当斯探长撒谎，她回家时看见了迪尔德丽的尸体。",
+   "quote": "I lied to you and Detective Adams yesterday.",
+   "range": [
+    11567,
+    11611
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "吉纳维芙决心不再假装平静，放塞思去研究所，并说自己准备变“咸”。",
+   "quote": "I think I’m ready to be salty.",
+   "range": [
+    14997,
+    15027
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "贝儿",
+   "b": "吉纳维芙",
+   "rel": "知己；互相坦白各自的秘密与愧疚",
+   "quote": "Can I confess something to you?",
+   "range": [
+    11394,
+    11425
+   ]
+  },
+  {
+   "a": "贝儿",
+   "b": "卡西",
+   "rel": "姐妹；贝儿曾持续羞辱姐姐，姐姐两周后自杀",
+   "quote": "I had an older sister. Her name was Cassie",
+   "range": [
+    5327,
+    5369
+   ]
+  },
+  {
+   "a": "吉纳维芙",
+   "b": "丹",
+   "rel": "夫妻；丹想坦白，吉纳维芙决定隐瞒",
+   "quote": "He wanted to come clean when the detective came yesterday.",
+   "range": [
+    13720,
+    13778
+   ]
+  },
+  {
+   "a": "吉纳维芙",
+   "b": "迪尔德丽",
+   "rel": "吉纳维芙回家时看见其尸体，却谎称没看见",
+   "quote": "when I was coming back in, I did see her",
+   "range": [
+    11874,
+    11914
+   ]
+  },
+  {
+   "a": "吉纳维芙",
+   "b": "塞思",
+   "rel": "母子；吉纳维芙一直拦着儿子不让去研究所",
+   "quote": "no reason Seth shouldn’t go to the Institute this summer",
+   "range": [
+    14443,
+    14499
+   ]
+  },
+  {
+   "a": "贝儿",
+   "b": "山缪",
+   "rel": "贝儿将其列为更强的谋杀嫌疑人",
+   "quote": "a stronger suspect than I had previously considered him to be",
+   "range": [
+    1818,
+    1879
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "two days earlier",
+   "claim": "迪尔德丽两天前不请自来",
+   "quote": "two days earlier, when Deirdre Gregory had arrived unannounced",
+   "range": [
+    871,
+    933
+   ]
+  },
+  {
+   "value": "forty-eight hours",
+   "claim": "不到四十八小时后就吐露了那个秘密",
+   "quote": "divulge that secret less than forty-eight hours later",
+   "range": [
+    1251,
+    1304
+   ]
+  },
+  {
+   "value": "two weeks",
+   "claim": "卡西回家两周后自杀",
+   "quote": "She killed herself two weeks after she came home.",
+   "range": [
+    8289,
+    8338
+   ]
+  },
+  {
+   "value": "twenty years",
+   "claim": "这一切发生在二十年前",
+   "quote": "This all went down twenty years ago, by the way.",
+   "range": [
+    9200,
+    9248
+   ]
+  },
+  {
+   "value": "two years",
+   "claim": "贝儿比姐姐小两岁",
+   "quote": "I was two years younger and always in her shadow",
+   "range": [
+    5736,
+    5784
+   ]
+  },
+  {
+   "value": "two and four",
+   "claim": "迪尔德丽是在凌晨两点到四点之间来的",
+   "quote": "between two and four in the morning",
+   "range": [
+    12200,
+    12235
+   ]
+  },
+  {
+   "value": "four",
+   "claim": "吉纳维芙凌晨四点回到屋里",
+   "quote": "When I came back in at four, it was still dark.",
+   "range": [
+    12546,
+    12593
+   ]
+  },
+  {
+   "value": "two days",
+   "claim": "吉纳维芙已两天没睡",
+   "quote": "It’s why I haven’t slept in two days.",
+   "range": [
+    14019,
+    14056
+   ]
+  },
+  {
+   "value": "two",
+   "claim": "成长过程中只有姐妹两人",
+   "quote": "It was just the two of us growing up.",
+   "range": [
+    5647,
+    5684
+   ]
+  },
+  {
+   "value": "one child",
+   "claim": "父母等于失去了两个孩子，但其中一个可挽回",
+   "quote": "rather than losing one child, they lost two",
+   "range": [
+    15387,
+    15430
+   ]
+  },
+  {
+   "value": "two",
+   "claim": "两个哭成泪人的人平静下来",
+   "quote": "once we two blubberers had calmed down",
+   "range": [
+    10734,
+    10772
+   ]
+  }
+ ],
+ "turning_point": "吉纳维芙坦白她回家时其实已看见迪尔德丽的尸体（此前谎称没看见），并决意不再假装平静、准备“变咸”；同时贝儿首次说出姐姐卡西因她羞辱而自杀的秘密——两人的互相坦白同时改写了案件时间线与人物关系。",
+ "notes": "不确定处：“Belle Currer”是否为其真名，文本仅暗示是假名，真名未给出；丹是否参与隐瞒由吉纳维芙一人决定，文本未判定其是否有罪；山缪是否真为凶手本章仅推断，未证实。"
+}

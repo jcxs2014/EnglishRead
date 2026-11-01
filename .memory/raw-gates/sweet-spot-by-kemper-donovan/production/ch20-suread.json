@@ -1,0 +1,67 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch20",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch20_chapter_20.txt",
+ "facts": [
+  {
+   "fact": "Kay 与叙述者打开那栋无窗建筑：双开门宽得能进车，把手孔里只穿着一根绳子，不可能电动开关",
+   "anchor": "with a little bit of rope threaded through the two holes",
+   "start": 429,
+   "end": 485
+  },
+  {
+   "fact": "漆黑积灰的棚里塞满健身与户外器材，左边靠墙至少两打细轮赛车，后排是滑雪板与装帐篷的窄长布袋",
+   "anchor": "at least two dozen of those thin-wheeled racing bikes",
+   "start": 1150,
+   "end": 1203
+  },
+  {
+   "fact": "叙述者只草草照了一圈就满足，断定这是 Dan 存 Swole Squad 大件装备的运动棚，事后才承认看漏",
+   "anchor": "my curiosity was more than sated by this cursory view",
+   "start": 1874,
+   "end": 1927
+  },
+  {
+   "fact": "去岗亭的短途换乘 Kay 的 Suburban，车厢里从此没停过话，叙述者发现自己也聊得动",
+   "anchor": "Kay kept up a steady stream of chatter in her Chevy Suburban",
+   "start": 2504,
+   "end": 2564
+  },
+  {
+   "fact": "Kay 把「自杀」与「凶杀」并成一句反问自己，眨眼，笑声像小动物",
+   "anchor": "have I ever had a suicide that might be a homicide case",
+   "start": 5183,
+   "end": 5238
+  },
+  {
+   "fact": "Uber 司机证实：Deirdre 离开大门约十分钟后被送到 La Dorada Inn and Suites",
+   "anchor": "dropped her off at the La Dorada Inn and Suites",
+   "start": 7579,
+   "end": 7626
+  },
+  {
+   "fact": "Alberto 说 Caraway 太太凌晨两点刚过开车出门，近四点才回来",
+   "anchor": "A little after two in the morning",
+   "start": 10543,
+   "end": 10576
+  },
+  {
+   "fact": "电网由岗亭控制、日夜通电，但有一块控制板接触不良会断电，当晚刚用电压表测过",
+   "anchor": "It goes out sometimes when the circuit is loose",
+   "start": 12064,
+   "end": 12111
+  },
+  {
+   "fact": "Alberto 没查过 Genevieve 的车：查车只针对客人，拍片的大队人马也不查",
+   "anchor": "We do that with guests only, miss",
+   "start": 12825,
+   "end": 12858
+  },
+  {
+   "fact": "章末两人不约而同做了同一个判断：立刻去找 Genevieve 本人",
+   "anchor": "We needed to talk to Genevieve Caraway",
+   "start": 13503,
+   "end": 13541
+  }
+ ]
+}

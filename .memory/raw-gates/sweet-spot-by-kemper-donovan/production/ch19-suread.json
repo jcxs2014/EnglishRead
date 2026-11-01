@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch19",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch19_chapter_19.txt",
+ "facts": [
+  {
+   "fact": "早餐后叙述者把昨夜 Deirdre 上门一事全盘告诉 Kay。",
+   "anchor": "told Kay about Deirdre Gregory coming to Sweet Spot",
+   "start": 15,
+   "end": 66
+  },
+  {
+   "fact": "Kay 说喷雾里是芬太尼，口边有呕吐物，死因可能是阿片过量。",
+   "anchor": "It was fentanyl. That plus the vomit around her mouth",
+   "start": 777,
+   "end": 830
+  },
+  {
+   "fact": "Kay 打算让案子停在「过量」上，不让治安官办公室插手。",
+   "anchor": "back at the sheriff’s office is going to pay it much mind",
+   "start": 1262,
+   "end": 1319
+  },
+  {
+   "fact": "Kay 派人去 La Dorada 查 Deirdre 住过的房间，找那部手机。",
+   "anchor": "head over to La Dorada to check out her room",
+   "start": 3211,
+   "end": 3255
+  },
+  {
+   "fact": "Kay 说她曾游说支联会会长改掉 lock your heart 这个说法。",
+   "anchor": "our stake president to change the phrase",
+   "start": 5438,
+   "end": 5478
+  },
+  {
+   "fact": "Kay 确认后廊只有一扇玻璃门能进，且今晨是锁着的。",
+   "anchor": "the only way in is through the door we just passed through",
+   "start": 13063,
+   "end": 13121
+  },
+  {
+   "fact": "叙述者意识到南侧四间卧室都能俯看后廊。",
+   "anchor": "Everyone with a bedroom on the south side of the house",
+   "start": 13732,
+   "end": 13786
+  },
+  {
+   "fact": "从后廊望出去是一条小峡谷，Sweet Spot 建在台地边缘。",
+   "anchor": "a spectacular view across what amounted to a small canyon",
+   "start": 9231,
+   "end": 9288
+  }
+ ]
+}

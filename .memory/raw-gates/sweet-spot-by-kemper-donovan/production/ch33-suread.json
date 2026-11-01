@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch33",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch33_chapter_33.txt",
+ "facts": [
+  {
+   "fact": "叙述者匆匆吃完，绕开庭院那条石凳、改从 Great Den 穿过去上楼，想多留点时间想刚知道的事。",
+   "anchor": "I ate quickly, eager to check in on Genevieve",
+   "start": 13,
+   "end": 58
+  },
+  {
+   "fact": "她把 Samuel 看得比先前更重：他有必须瞒住的秘密，也有把 Deirdre 拉上崖壁的力气。",
+   "anchor": "Samuel Spruce had become a stronger suspect",
+   "start": 1793,
+   "end": 1836
+  },
+  {
+   "fact": "她爬上螺旋梯，发现 Genevieve 的阁楼整层拉下遮光帘，只留一串柔光小灯。",
+   "anchor": "I emerged from the staircase into near-total darkness",
+   "start": 2189,
+   "end": 2242
+  },
+  {
+   "fact": "她在豆袋椅与毯子堆里，对 Genevieve 讲起自己的姐姐 Cassie：学习、体育、人缘都好。",
+   "anchor": "I had an older sister. Her name was Cassie",
+   "start": 5327,
+   "end": 5369
+  },
+  {
+   "fact": "姐姐从东部名校退学回家，被叙述者连日讥讽、还编造父母的失望，回家两周后自杀。",
+   "anchor": "She killed herself two weeks after she came home.",
+   "start": 8289,
+   "end": 8338
+  },
+  {
+   "fact": "Genevieve 承认昨天对叙述者和 Kay 撒了谎：她开车回来时看见了 Deirdre 的遗体。",
+   "anchor": "I told you I didn’t see Deirdre Gregory in the garden",
+   "start": 11711,
+   "end": 11764
+  },
+  {
+   "fact": "她说四点进门时庭院还黑，用手机照见那张脸，随即跑回卧室、叫醒 Dan 去确认人已死。",
+   "anchor": "When I came back in at four, it was still dark.",
+   "start": 12546,
+   "end": 12593
+  },
+  {
+   "fact": "她说甜的对面是咸，宣布自己不想再装作安然无事，准备换个活法。",
+   "anchor": "Do you know what the opposite of sweet is?",
+   "start": 14901,
+   "end": 14943
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch06",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "她的转机航班延误三小时，只能在凤凰城等",
+   "anchor": "my connecting flight was delayed three hours",
+   "start": 4146,
+   "end": 4190
+  },
+  {
+   "fact": "她发短信告诉 Abi Brooke 自己赶不上追悼会",
+   "anchor": "telling Abi Brooke in as few words as possible that I was going to miss the memorial",
+   "start": 4226,
+   "end": 4310
+  },
+  {
+   "fact": "Abi 说追悼会已经推迟",
+   "anchor": "“The memorial’s been postponed,” she explained hastily.",
+   "start": 9512,
+   "end": 9567
+  },
+  {
+   "fact": "撒骨灰改到明天，或等风停",
+   "anchor": "So we’re doing it tomorrow.",
+   "start": 9826,
+   "end": 9853
+  },
+  {
+   "fact": "由同校推出 Abi 三十四岁",
+   "anchor": "This meant the woman currently beaming at me was thirty-four.",
+   "start": 11491,
+   "end": 11552
+  },
+  {
+   "fact": "叙事者四十二岁，不想要孩子",
+   "anchor": "Whereas I was forty-two and uninterested in children.",
+   "start": 11740,
+   "end": 11793
+  },
+  {
+   "fact": "她承认自己以为 Denny 的未婚妻会像自己",
+   "anchor": "I had assumed Denny’s fiancée would look like me.",
+   "start": 10593,
+   "end": 10642
+  },
+  {
+   "fact": "Abi 的订婚戒指是一枚宽松的白金圈",
+   "anchor": "Abi Brooke’s engagement ring was unusual",
+   "start": 12194,
+   "end": 12234
+  }
+ ]
+}

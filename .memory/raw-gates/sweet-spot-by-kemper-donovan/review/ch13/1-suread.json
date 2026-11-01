@@ -1,0 +1,214 @@
+{
+  "chapter": "ch13",
+  "text_file": "text/ch13_chapter_13.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "玛丽莲关上楼梯口右侧第一扇房门，低头假装没看见叙述者。",
+      "quote": "Marilyn was in the process of shutting the first door on the right.",
+      "range": [
+        753,
+        820
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "阿比·布鲁克坐在床沿，飞快地发短信。",
+      "quote": "Abi Brooke sitting on the edge of her bed, texting furiously",
+      "range": [
+        1003,
+        1063
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "肯吉·中村穿浴袍从右侧第二扇门出来，称塞缪尔已把当晚的闹剧全告诉他。",
+      "quote": "Sam told me everything,” he added by way of explanation.",
+      "range": [
+        2061,
+        2117
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "肯吉告诉叙述者她独享浴室，并说走廊左侧的房间才是好房间。",
+      "quote": "You’ve got your own bathroom,” Kenji said, reading my mind.",
+      "range": [
+        2597,
+        2656
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "叙述者凑近罗斯，为她的丧亲之痛道歉。",
+      "quote": "I’m sorry for your loss.",
+      "range": [
+        4510,
+        4534
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "叙述者猛然意识到整晚没有人提起谢丽尔·斯普鲁斯之死。",
+      "quote": "nobody had mentioned the death of Cheryl Spruce all evening",
+      "range": [
+        4594,
+        4653
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "罗斯此前曾对叙述者说，是斯普鲁斯太太救了她。",
+      "quote": "Mrs. Spruce saved me.",
+      "range": [
+        5317,
+        5338
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "罗斯交代早餐在东塔餐厅，七点开始、十一点撤席。",
+      "quote": "It starts at seven. I clear at eleven.",
+      "range": [
+        6018,
+        6056
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "罗斯",
+      "b": "谢丽尔·斯普鲁斯",
+      "rel": "被救者与救命恩人：罗斯自称被斯普鲁斯太太救过",
+      "quote": "Mrs. Spruce saved me.",
+      "range": [
+        5317,
+        5338
+      ]
+    },
+    {
+      "a": "肯吉·中村",
+      "b": "塞缪尔",
+      "rel": "同住右侧第三间房（肯吉与塞缪尔同屋）",
+      "quote": "the third on the right, which was obviously where he and Samuel were sleeping",
+      "range": [
+        3691,
+        3768
+      ]
+    },
+    {
+      "a": "谢丽尔·斯普鲁斯",
+      "b": "吉纳维芙",
+      "rel": "母女：文中称谢丽尔为吉纳维芙的母亲",
+      "quote": "the only person who had mentioned Genevieve’s mother to me was Rose",
+      "range": [
+        5089,
+        5156
+      ]
+    },
+    {
+      "a": "阿比·布鲁克",
+      "b": "丹尼",
+      "rel": "订婚关系（叙述者怀疑这桩婚约是幌子）",
+      "quote": "Abi’s engagement to Denny a sham",
+      "range": [
+        3340,
+        3372
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "nearly eleven o’clock",
+      "claim": "叙述者上楼时已近十一点",
+      "quote": "nearly eleven o’clock",
+      "range": [
+        20,
+        41
+      ]
+    },
+    {
+      "value": "five-ish minutes",
+      "claim": "塞缪尔上楼到肯吉出现最多约五分钟",
+      "quote": "No more than five-ish minutes could have elapsed",
+      "range": [
+        2120,
+        2168
+      ]
+    },
+    {
+      "value": "thirty seconds",
+      "claim": "叙述者推测讲清事件要点只需三十秒",
+      "quote": "could have been imparted within thirty seconds",
+      "range": [
+        2266,
+        2312
+      ]
+    },
+    {
+      "value": "six months ago",
+      "claim": "谢丽尔·斯普鲁斯死于六个月前",
+      "quote": "she had passed away six months ago",
+      "range": [
+        4661,
+        4695
+      ]
+    },
+    {
+      "value": "seven",
+      "claim": "早餐七点开始",
+      "quote": "It starts at seven",
+      "range": [
+        6018,
+        6036
+      ]
+    },
+    {
+      "value": "eleven",
+      "claim": "罗斯十一点撤早餐",
+      "quote": "I clear at eleven",
+      "range": [
+        6038,
+        6055
+      ]
+    },
+    {
+      "value": "four-hour window",
+      "claim": "早餐供应共四小时",
+      "quote": "A four-hour window?",
+      "range": [
+        6061,
+        6080
+      ]
+    },
+    {
+      "value": "inches",
+      "claim": "叙述者与罗斯的脸相距几英寸",
+      "quote": "Our faces were inches apart.",
+      "range": [
+        4328,
+        4356
+      ]
+    },
+    {
+      "value": "second door on the right",
+      "claim": "右侧第二扇门（肯吉出来的门）",
+      "quote": "Just as I was passing the second door on the right",
+      "range": [
+        1739,
+        1789
+      ]
+    },
+    {
+      "value": "third door on the left",
+      "claim": "左侧第三扇门（叙述者的房间）",
+      "quote": "He pointed to the third door on the left",
+      "range": [
+        2953,
+        2993
+      ]
+    }
+  ],
+  "turning_point": "叙述者借一句“节哀”逼开罗斯的沉默，随即惊觉整晚无人提及谢丽尔之死，罗斯是唯一提到死者的人。",
+  "notes": "阿比与丹（Dan）有染只是叙述者的猜测，他本人也承认“it sounded unlikely to me too”；谢丽尔与吉纳维芙的母女关系由“Genevieve’s mother”一句推得；门序按叙述者上楼后的行走方向计；“CHAPTER 13”标题中的章号未计入 numbers。"
+}

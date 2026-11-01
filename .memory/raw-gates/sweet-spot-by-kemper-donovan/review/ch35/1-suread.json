@@ -1,0 +1,252 @@
+{
+ "chapter": 35,
+ "text_file": "text/ch35_chapter_35.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "Belle 躲在卧室里，Abi 敲门问她在不在，她关掉手机不应答。",
+   "quote": "“Belle? Are you in there?”",
+   "range": [
+    713,
+    739
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "Belle 等了十分钟后收拾东西溜出宅子，一路走到门口岗亭叫 Uber。",
+   "quote": "I began the long walk from the front of the house to the security shack",
+   "range": [
+    1390,
+    1461
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "在 Luke 床上事后，Belle 发现他发根颜色更浅，问他为什么染发。",
+   "quote": "“Why do you dye your hair?” I asked. “I don’t see any gray in it.”",
+   "range": [
+    3867,
+    3933
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "Belle 由 Dan 的滑翔翼联想到三角锣，推断 Deirdre 是从庄园后方滑翔进来的。",
+   "quote": "she’d be entering from the back of the property and no one would see her",
+   "range": [
+    6242,
+    6314
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "Belle 想在打给 Kay 前先取出手机，却发现手机从皮包里不见了。",
+   "quote": "My phone was gone. But how could that be?",
+   "range": [
+    8052,
+    8093
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "Belle 对 Luke 说出“斯坦福监狱实验”，挑明他就是 Austin Gregory。",
+   "quote": "This man was Austin Gregory.",
+   "range": [
+    9953,
+    9981
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "Belle 问 Eli Pratt 替他在牢里待了多久，Luke 回答“十四年”。",
+   "quote": "How many years has Eli Pratt been rotting away in your jail cell?",
+   "range": [
+    11038,
+    11103
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "Belle 用两天前在机场买的钢笔刺进他颈根的小三角，命中他的 sweet spot。",
+   "quote": "I hit him in his sweet spot.",
+   "range": [
+    29416,
+    29444
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "Belle",
+   "b": "Abi",
+   "rel": "同住 Sweet Spot 的伙伴，敲门找她",
+   "quote": "It was Abi. I froze on the bed—but not before turning off my phone.",
+   "range": [
+    742,
+    809
+   ]
+  },
+  {
+   "a": "Belle",
+   "b": "Denny",
+   "rel": "她躲着不想见的前男友／旧识",
+   "quote": "Oh hell no. I couldn’t face him right now—couldn’t face them.",
+   "range": [
+    1003,
+    1064
+   ]
+  },
+  {
+   "a": "Belle",
+   "b": "Luke Fulton",
+   "rel": "性关系对象，她以为的“快乐之地”",
+   "quote": "The brawny arms of Luke Fulton made me feel a little less lost and lonely.",
+   "range": [
+    2909,
+    2983
+   ]
+  },
+  {
+   "a": "Luke Fulton",
+   "b": "Dan Caraway",
+   "rel": "Swole Squad 的教练与学员，问滑翔翼存放处",
+   "quote": "“Hey, where does Dan Caraway store the hang gliders he uses for his Squad?”",
+   "range": [
+    4991,
+    5066
+   ]
+  },
+  {
+   "a": "Eli Pratt",
+   "b": "Austin Gregory",
+   "rel": "替身： Eli 冒名 Luke Fulton 顶替 Austin 坐牢",
+   "quote": "Eli Pratt had begun working at Dead Horse under the assumed name of Luke Fulton",
+   "range": [
+    11367,
+    11446
+   ]
+  },
+  {
+   "a": "Belle",
+   "b": "Kay",
+   "rel": "决裂后仍要通报案情的警探",
+   "quote": "It was time to call Kay, and I wanted all my faculties about me",
+   "range": [
+    7699,
+    7762
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "ten minutes",
+   "claim": "她等 Abi 与 Denny 离开约十分钟才出门",
+   "quote": "I waited for about ten minutes after they left",
+   "range": [
+    1065,
+    1111
+   ]
+  },
+  {
+   "value": "two days ago",
+   "claim": "她两天前才在 Zoom 上第一次见到 Luke",
+   "quote": "how was it possible that had been just two days ago?",
+   "range": [
+    3777,
+    3829
+   ]
+  },
+  {
+   "value": "twenty-four hours",
+   "claim": "过去二十四小时里她与 Luke 多次上床",
+   "quote": "as many times as I had in the past twenty-four hours",
+   "range": [
+    8849,
+    8901
+   ]
+  },
+  {
+   "value": "Fourteen",
+   "claim": "Eli Pratt 顶替他坐牢的年数",
+   "quote": "“Fourteen.”",
+   "range": [
+    11176,
+    11187
+   ]
+  },
+  {
+   "value": "twenty years",
+   "claim": "Deirdre 在狱中服刑二十年，刚获释",
+   "quote": "after twenty years of prison",
+   "range": [
+    15384,
+    15412
+   ]
+  },
+  {
+   "value": "two minutes",
+   "claim": "第一块牛排下锅还不到两分钟就要翻面",
+   "quote": "It couldn’t have been cooking for more than two minutes.",
+   "range": [
+    14754,
+    14810
+   ]
+  },
+  {
+   "value": "eighteen years old",
+   "claim": "Austin 自称被 Samuel 侵犯时十八岁",
+   "quote": "you were eighteen years old",
+   "range": [
+    26094,
+    26121
+   ]
+  },
+  {
+   "value": "forty",
+   "claim": "Luke／Austin 的实际年龄四十岁",
+   "quote": "He was forty, not fifty",
+   "range": [
+    27448,
+    27471
+   ]
+  },
+  {
+   "value": "half a second",
+   "claim": "她整段推理只在半秒内闪过脑海",
+   "quote": "had flashed through my mind in about half a second",
+   "range": [
+    19389,
+    19439
+   ]
+  },
+  {
+   "value": "one angry step",
+   "claim": "他举刀朝她逼近了一步",
+   "quote": "taken one angry step in my direction",
+   "range": [
+    25962,
+    25998
+   ]
+  },
+  {
+   "value": "two long, elegant prongs",
+   "claim": "他用两齿长叉戳起牛排",
+   "quote": "the two long, elegant prongs of a wooden-handled carving fork",
+   "range": [
+    10804,
+    10865
+   ]
+  },
+  {
+   "value": "four little words",
+   "claim": "“斯坦福监狱实验”四个字改变了一切",
+   "quote": "Those four little words changed everything.",
+   "range": [
+    9418,
+    9461
+   ]
+  }
+ ],
+ "turning_point": "Belle 在 Luke 的厨房里说出“斯坦福监狱实验”，当面揭穿 Luke Fulton 就是 Austin Gregory——她要对付的凶手一直就在身边。",
+ "notes": "叙事顺序有一处跳跃：Belle 走到岗亭叫车之后，直接切到“已在 Luke 家床上”，Uber 行程以回忆补叙（第 55 行）。hang glider／绳子／钥匙等手法均为 Belle 的推断，Luke 多以点头或不答默认，非全部明说。"
+}

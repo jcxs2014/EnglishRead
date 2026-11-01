@@ -1,0 +1,224 @@
+{
+ "chapter": 19,
+ "text_file": "text/ch19_chapter_19.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "叙述者向 Kay 讲述前夜 Deirdre Gregory 来过 Sweet Spot，并说出有人可能要害 Genevieve 的猜想",
+   "quote": "I shared my theory about someone potentially wishing ill on Genevieve",
+   "range": [
+    144,
+    213
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "Kay 说鼻喷雾里是芬太尼，加上嘴边呕吐物，Deirdre 很可能死于阿片过量，故只能算意外或自杀",
+   "quote": "It was fentanyl. That plus the vomit around her mouth",
+   "range": [
+    777,
+    830
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "Kay 说现场没有手机，但她会派人去 La Dorada 查 Deirdre 住过的房间，寄望手机能被找到",
+   "quote": "I’ll have someone head over to La Dorada to check out her room.",
+   "range": [
+    3193,
+    3256
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "Kay 站在发现尸体的长椅旁复盘：无搏斗痕迹、无挣扎声响、死于过量，但要命的是她究竟怎么进来的",
+   "quote": "No signs of a struggle. No sounds of a struggle. And a death by overdose.",
+   "range": [
+    3426,
+    3499
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "叙述者把 Abi 的说法转告 Kay：宅子对外界做了防护，好让 Caraways 在里面无拘束地安全生活",
+   "quote": "what Abi had said to me about the house being protected from the outside",
+   "range": [
+    3914,
+    3986
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "Kay 讲摩门教传教时被叮嘱要“锁住心”以免见证被扰乱，并说自己曾提议改成“钢住心”被支联会会长否决",
+   "quote": "You’re told to ‘lock your heart,’ so that your testimony doesn’t get muddled.",
+   "range": [
+    4694,
+    4771
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "Kay 领叙述者穿过 Great Den 拉开法式窗，露出深处的水泥后露台；叙述者才发现 Sweet Spot 建在高原边缘",
+   "quote": "Sweet Spot was built on the edge of a plateau",
+   "range": [
+    8952,
+    8997
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "露台下桩柱布满尖刺与刀片铁丝网，崖壁再垂直下落，叙述者确认此处无路入宅，但露台三面被宅围住、唯玻璃门可通",
+   "quote": "There was no way to access the house from here.",
+   "range": [
+    12821,
+    12868
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "Kay",
+   "b": "Deirdre Gregory",
+   "rel": "调查此案的治安官与死者：Kay 判断她可能死于芬太尼过量",
+   "quote": "It was fentanyl. That plus the vomit around her mouth",
+   "range": [
+    777,
+    830
+   ]
+  },
+  {
+   "a": "Kay",
+   "b": "Joe",
+   "rel": "同 ward（摩门教支会）的教友；Joe 是法医，已把遗体带回实验室做初检",
+   "quote": "His name’s Joe by the way. The ME. We’re in the same ward.",
+   "range": [
+    2535,
+    2593
+   ]
+  },
+  {
+   "a": "Kay",
+   "b": "Caro",
+   "rel": "母女：Kay 说另外两个孩子爱户外，唯独 Caro 不爱",
+   "quote": "My other two love the outdoors, but not Caro.",
+   "range": [
+    12184,
+    12229
+   ]
+  },
+  {
+   "a": "Genevieve",
+   "b": "the Spruces",
+   "rel": "Genevieve 出自 Spruce 家族；全家仍住盐湖城时曾来此徒步，她一直记得这里",
+   "quote": "It was when Genevieve was little, and she always remembered it.",
+   "range": [
+    11684,
+    11747
+   ]
+  },
+  {
+   "a": "Deirdre Gregory",
+   "b": "Genevieve",
+   "rel": "死者与可能的加害目标：叙述者怀疑有人盼着 Genevieve 出事",
+   "quote": "someone potentially wishing ill on Genevieve",
+   "range": [
+    169,
+    213
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "twenty",
+   "claim": "叙述者调侃二十岁的人满脑子都是“romance”",
+   "quote": "for what most twenty-year-olds had on the brain",
+   "range": [
+    4642,
+    4689
+   ]
+  },
+  {
+   "value": "twenty years old",
+   "claim": "摩门教传教的出发年龄，约二十岁",
+   "quote": "You go when you’re around twenty years old",
+   "range": [
+    4477,
+    4519
+   ]
+  },
+  {
+   "value": "Twice",
+   "claim": "叙述者看过两遍《The Book of Mormon》音乐剧",
+   "quote": "I’ve seen The Book of Mormon. Twice, in fact.",
+   "range": [
+    4428,
+    4473
+   ]
+  },
+  {
+   "value": "two",
+   "claim": "Kay 有两位最好的女友，分别被派往巴黎与孟买",
+   "quote": "My two best girlfriends were assigned to Paris and Mumbai.",
+   "range": [
+    7358,
+    7416
+   ]
+  },
+  {
+   "value": "250 miles",
+   "claim": "游客蜂拥而去的“大”峡谷位于此地向南 250 英里",
+   "quote": "250 miles to the south",
+   "range": [
+    9392,
+    9414
+   ]
+  },
+  {
+   "value": "millions of years",
+   "claim": "这些天然雕塑由水流历经数百万年雕出",
+   "quote": "carved over millions of years by the flow of water",
+   "range": [
+    9469,
+    9519
+   ]
+  },
+  {
+   "value": "forty-ish feet",
+   "claim": "桩柱钻入岩面以下，崖壁还继续近乎垂直地下落四十来英尺",
+   "quote": "continued its near-vertical descent for another forty-ish feet",
+   "range": [
+    12742,
+    12804
+   ]
+  },
+  {
+   "value": "three sides",
+   "claim": "马蹄形露台三面被宅子围住，飞灰会被甩到宅墙上",
+   "quote": "hurled and swirled against the three sides of the house",
+   "range": [
+    8741,
+    8796
+   ]
+  },
+  {
+   "value": "a few feet",
+   "claim": "高原在宅后边界外数英尺处陡然断开",
+   "quote": "a few feet past the house’s rear boundary",
+   "range": [
+    9072,
+    9113
+   ]
+  },
+  {
+   "value": "two",
+   "claim": "Kay 另外两个孩子喜欢户外（Caro 除外）",
+   "quote": "My other two love the outdoors, but not Caro.",
+   "range": [
+    12184,
+    12229
+   ]
+  }
+ ],
+ "turning_point": "Kay 与叙述者达成默契——只要案子被当成又一起过量致死，警局就不会上心，两人便可自行查凶；紧接着后院勘察确认崖壁与桩柱无路可入，凶手只能从前门进屋或被人放进来，\"她怎么进去的\"由此成为全章的锁扣。",
+ "notes": "1) Genevieve 与 Spruce 家族的具体关系是推断（文中只说 Spruce 家仍住盐湖城时来此徒步、Genevieve 年幼时记得这里，且称 Spruce 家是本地名人），是否全名 Genevieve Spruce 未明写。2) 文中出现多处未具名人物：Kay 的丈夫（在 New Mexico 同一地区传教时相识）、法医 Joe、housekeeper，均无可考姓名。3) Kay 的姓、叙述者的姓名本章未出现。4) 文中 “ward/stake” 是摩门教组织用语，叙述者自注为支会/支联会，译文按此理解。5) numbers 中 “two” 出现两次（女友数、孩子数），分列两条以免混淆。6) “forty-ish feet” 为原文口语写法，未改。"
+}

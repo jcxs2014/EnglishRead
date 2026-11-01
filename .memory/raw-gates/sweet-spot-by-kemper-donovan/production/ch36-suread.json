@@ -1,0 +1,67 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch36",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch36_chapter_36.txt",
+ "facts": [
+  {
+   "fact": "她用铸铁锅砸中对方的脸，人被烫又被重击，仰面倒地",
+   "anchor": "wrench the cast-iron pan off the stove",
+   "start": 168,
+   "end": 206
+  },
+  {
+   "fact": "她抓起切肉叉刺进他胸口，重复至少半打次",
+   "anchor": "I grabbed the carving fork and sunk it into his chest",
+   "start": 389,
+   "end": 442
+  },
+  {
+   "fact": "叙述者承认这一连串动作并不难，与「本该很难」的预期相反",
+   "anchor": "I promised I would always be honest with you",
+   "start": 626,
+   "end": 670
+  },
+  {
+   "fact": "她确认人已经死透，不会像电影里那样再爬起来",
+   "anchor": "He was dead. He wasn’t coming back.",
+   "start": 1477,
+   "end": 1512
+  },
+  {
+   "fact": "门铃响后 Kay 站在门口，先问她是否身处危险",
+   "anchor": "“Are you in danger?”",
+   "start": 2139,
+   "end": 2159
+  },
+  {
+   "fact": "她说卧室里有一杯掺着杀死 Deirdre 那种芬太尼的鸡尾酒，让 Kay 取样送检",
+   "anchor": "the same fentanyl that killed Deirdre",
+   "start": 3183,
+   "end": 3220
+  },
+  {
+   "fact": "她手机里积了约一千通 Kay 的未接来电",
+   "anchor": "approximately one thousand missed calls from Kay Adams",
+   "start": 1645,
+   "end": 1699
+  },
+  {
+   "fact": "Kay 说那根绳子只可能是用法的人离开庄园后再没回来",
+   "anchor": "the only way it would still be hanging there like that",
+   "start": 4069,
+   "end": 4123
+  },
+  {
+   "fact": "Kay 的姐姐用碱性水解，六到八小时后只剩液体和骨渣",
+   "anchor": "Six to eight hours later, hey presto, all you’ve got is soup.",
+   "start": 7124,
+   "end": 7185
+  },
+  {
+   "fact": "Kay 在路边抱住她，说她已经算家人",
+   "anchor": "I want you to know you’re family now",
+   "start": 13138,
+   "end": 13174
+  }
+ ]
+}

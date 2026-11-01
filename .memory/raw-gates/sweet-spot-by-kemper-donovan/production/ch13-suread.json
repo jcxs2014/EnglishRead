@@ -1,0 +1,67 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch13",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch13_chapter_13.txt",
+ "facts": [
+  {
+   "fact": "叙述者将近十一点才走上楼，在楼梯顶端停住认路",
+   "anchor": "It was nearly eleven o’clock when I crested the stairs",
+   "start": 13,
+   "end": 67
+  },
+  {
+   "fact": "走廊尽头那扇门上贴着纸板做的「SETH'S ROOM」标牌",
+   "anchor": "A cardboard sign announced in cheerful bubble letters",
+   "start": 188,
+   "end": 241
+  },
+  {
+   "fact": "Rose 已经往左拐，叙述者跟在她身后走",
+   "anchor": "Rose had already turned to the left, so I followed her",
+   "start": 407,
+   "end": 461
+  },
+  {
+   "fact": "Marilyn 正在关右边第一扇门，盯着地板装作没看见叙述者",
+   "anchor": "looking resolutely at the floor as she disappeared",
+   "start": 876,
+   "end": 926
+  },
+  {
+   "fact": "对面房门大开，Abi 坐在床沿飞快发短信",
+   "anchor": "I could see Abi Brooke sitting on the edge of her bed",
+   "start": 991,
+   "end": 1044
+  },
+  {
+   "fact": "Kenji 带着一身热气与沐浴露味出现在门口，浴袍与 Marilyn 同款",
+   "anchor": "Kenji Nakamura appeared in the same high-necked bathrobe",
+   "start": 1847,
+   "end": 1903
+  },
+  {
+   "fact": "Kenji 指着主卧套间，说那桩婚姻已经够挤，让她别动心思",
+   "anchor": "That marriage is crowded enough as it is",
+   "start": 3133,
+   "end": 3173
+  },
+  {
+   "fact": "叙述者当着 Rose 的面，为她失去的人致哀",
+   "anchor": "I’m sorry for your loss",
+   "start": 4510,
+   "end": 4533
+  },
+  {
+   "fact": "Rose 交代早餐在餐厅、七点开始、十一点收",
+   "anchor": "Breakfast is in the dining room",
+   "start": 5805,
+   "end": 5836
+  },
+  {
+   "fact": "除了痛，叙述者还从 Rose 身上感到愤怒",
+   "anchor": "there was another emotion I could feel radiating",
+   "start": 6302,
+   "end": 6350
+  }
+ ]
+}

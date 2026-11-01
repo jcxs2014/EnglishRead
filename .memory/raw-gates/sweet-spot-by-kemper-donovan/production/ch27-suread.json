@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch27",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch27_chapter_27.txt",
+ "facts": [
+  {
+   "fact": "她和 Kay 离开 Dead Horse 前，在另一栋办公楼里又等了半小时，等 Kay 办完手续。",
+   "anchor": "another half hour in a different administrative building",
+   "start": 65,
+   "end": 121
+  },
+  {
+   "fact": "她在车上回短信，答应当晚与狱警 Luke Fulton 一起吃晚饭。",
+   "anchor": "Turns out I’m free for dinner after all.",
+   "start": 860,
+   "end": 900
+  },
+  {
+   "fact": "她在车里反驳「Eli Pratt 就藏在宅子里」的猜想：那人若活着该是三十九岁的白人，宅中只有 Dan Caraway 符合。",
+   "anchor": "he’s a thirty-nine-year-old white guy",
+   "start": 3071,
+   "end": 3108
+  },
+  {
+   "fact": "她想到 Dan 的手臂和胸口全是纹身，那颗痣或去痣留下的疤都可以被盖住。",
+   "anchor": "Dan Caraway’s arms were covered in them",
+   "start": 3963,
+   "end": 4002
+  },
+  {
+   "fact": "Kay 说向上级汇报时仍把 Deirdre 之死当作自己服药过量，这是最简单的解释。",
+   "anchor": "The simplest solution is that she did this to herself.",
+   "start": 8781,
+   "end": 8835
+  },
+  {
+   "fact": "Genevieve 在阁楼上一开口就承认，她今早的印象是自己也成了嫌疑人。",
+   "anchor": "I might actually be a suspect",
+   "start": 14027,
+   "end": 14056
+  },
+  {
+   "fact": "她指着峡谷对面山坡上的一排建筑，告诉叙述者 Austin Gregory 就关在那里。",
+   "anchor": "That’s where Austin Gregory is.",
+   "start": 16703,
+   "end": 16734
+  },
+  {
+   "fact": "她说自己如今再没有心力去做伪装，写这本回忆录就是为了把一切倒出来。",
+   "anchor": "the thing I don’t have the heart for anymore is pretense",
+   "start": 32395,
+   "end": 32451
+  }
+ ]
+}

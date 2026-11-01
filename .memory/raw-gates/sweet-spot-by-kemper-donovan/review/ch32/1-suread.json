@@ -1,0 +1,252 @@
+{
+ "chapter": 32,
+ "text_file": "text/ch32_chapter_32.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "阿比·布鲁克推门而出，正撞见穿着亮片衣回来的“我”；“我”坦白昨夜约会变成了留宿。",
+   "quote": "I had a date last night that turned into a sleepover.",
+   "range": [
+    544,
+    597
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "“我”抢先告诉阿比调查有进展，且新进展对吉纳维芙非常有利。",
+   "quote": "there’s a recent development that’s very good for Genevieve.",
+   "range": [
+    1815,
+    1875
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "午餐时吉纳维芙说自己开始怀疑到底还要不要办撒灰仪式。",
+   "quote": "I’m beginning to wonder whether we should do a ceremony at all.",
+   "range": [
+    6234,
+    6297
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "吉纳维芙当众爆发，强调自己是唯一亲生骨肉，不需要任何人插手。",
+   "quote": "But since I’m her only actual offspring",
+   "range": [
+    7674,
+    7713
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "罗斯一言不发地僵立十秒，随后转身发出一声近乎嚎叫的痛哭，冲出餐厅。",
+   "quote": "a sob so harrowing it was closer to a scream or howl",
+   "range": [
+    8224,
+    8276
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "塞缪尔承认与奥斯汀·格雷戈里有过多番私情，说错在自己而不在妻子。",
+   "quote": "We were intimate. More than once. A lot of times.",
+   "range": [
+    9495,
+    9544
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "丹追问是什么让他沉默了二十年，塞缪尔只答“怯懦”，别无其他。",
+   "quote": "Nothing but cowardice.",
+   "range": [
+    11590,
+    11612
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "吉纳维芙没有眼泪也没有歇斯底里地离席，“我”反倒希望她哭出来。",
+   "quote": "There were no tears, no hysterics. But I found myself wishing there had been.",
+   "range": [
+    12186,
+    12263
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "阿比·布鲁克",
+   "b": "丹尼",
+   "rel": "订婚/即将结婚的伴侣，她要去机场接他",
+   "quote": "He had a wedding to plan with this lovely and vibrant woman",
+   "range": [
+    1373,
+    1432
+   ]
+  },
+  {
+   "a": "塞缪尔·斯普鲁斯",
+   "b": "吉纳维芙·卡拉威",
+   "rel": "父女",
+   "quote": "Yes, daddy dearest, everything is great",
+   "range": [
+    5644,
+    5683
+   ]
+  },
+  {
+   "a": "塞缪尔·斯普鲁斯",
+   "b": "奥斯汀·格雷戈里",
+   "rel": "曾经的私情关系（多次在酒店与家中幽会）",
+   "quote": "Usually we met at a hotel, but—I brought him back to our house once or twice.",
+   "range": [
+    9545,
+    9622
+   ]
+  },
+  {
+   "a": "塞缪尔·斯普鲁斯",
+   "b": "谢丽尔·斯普鲁斯（Mrs. Spruce）",
+   "rel": "夫妻；他强调错不在妻子",
+   "quote": "Your mother isn’t to blame",
+   "range": [
+    8685,
+    8711
+   ]
+  },
+  {
+   "a": "吉纳维芙·卡拉威",
+   "b": "丹·卡拉威",
+   "rel": "夫妻，丹站出来握住她的手追问岳父",
+   "quote": "shoulder-to-shoulder with his wife",
+   "range": [
+    11348,
+    11382
+   ]
+  },
+  {
+   "a": "吉纳维芙·卡拉威",
+   "b": "罗斯",
+   "rel": "继母女（吉纳维芙否认罗斯更懂自己的母亲）",
+   "quote": "I realize you think you knew my mother better than anyone. Especially me.",
+   "range": [
+    7337,
+    7410
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "first",
+   "claim": "塞缪尔杯里的酒显然不是第一杯",
+   "quote": "not his first, by the looks of him",
+   "range": [
+    3804,
+    3838
+   ]
+  },
+  {
+   "value": "last night",
+   "claim": "“我”昨夜约会变成了留宿",
+   "quote": "I had a date last night that turned into a sleepover.",
+   "range": [
+    544,
+    597
+   ]
+  },
+  {
+   "value": "a foot",
+   "claim": "罗斯把铜锣从墙边挪开约一英尺",
+   "quote": "Rose had rolled it about a foot away from the wall",
+   "range": [
+    2956,
+    3006
+   ]
+  },
+  {
+   "value": "ten seconds",
+   "claim": "罗斯僵立了足足十秒才发作",
+   "quote": "standing frozen like a statue for a good ten seconds",
+   "range": [
+    7933,
+    7985
+   ]
+  },
+  {
+   "value": "Two nights",
+   "claim": "连续两晚天气都坏了事",
+   "quote": "Two nights in a row, the weather’s gotten in the way.",
+   "range": [
+    6549,
+    6602
+   ]
+  },
+  {
+   "value": "twenty years",
+   "claim": "丹追问这二十年为什么一直不说",
+   "quote": "Yeah, but what about the next twenty years?",
+   "range": [
+    11243,
+    11286
+   ]
+  },
+  {
+   "value": "eighteen",
+   "claim": "奥斯汀当年才十八岁",
+   "quote": "He was eighteen years old",
+   "range": [
+    11617,
+    11642
+   ]
+  },
+  {
+   "value": "once or twice",
+   "claim": "塞缪尔承认白天把奥斯汀带回家一两次",
+   "quote": "but—I brought him back to our house once or twice.",
+   "range": [
+    9572,
+    9622
+   ]
+  },
+  {
+   "value": "first few days",
+   "claim": "获救后的头几天他一直在等别人开口",
+   "quote": "those first few days after you were rescued",
+   "range": [
+    10551,
+    10594
+   ]
+  },
+  {
+   "value": "halfway",
+   "claim": "罗斯当时已走到门口一半",
+   "quote": "Rose, who was already halfway to the door",
+   "range": [
+    6301,
+    6342
+   ]
+  },
+  {
+   "value": "the last two days",
+   "claim": "塞缪尔前两天还穿着紧身衣装",
+   "quote": "the tight-fitting ensembles he’d worn so proudly the last two days",
+   "range": [
+    4211,
+    4277
+   ]
+  },
+  {
+   "value": "two",
+   "claim": "塞缪尔凄然地望着丹与吉纳维芙两人",
+   "quote": "looking at the two of them miserably",
+   "range": [
+    11551,
+    11587
+   ]
+  }
+ ],
+ "turning_point": "吉纳维芙当众拒绝为母亲办撒灰仪式并痛斥罗斯与父亲，逼出塞缪尔的坦白——真正引来奥斯汀·格雷戈里的是他自己，而非母亲谢丽尔，家庭维系二十年的谎言就此崩塌。",
+ "notes": "第151行“It was my fault…”同段含多处省略与破折号，取句仍为原文连续子串；事实1中“我”为叙述者（未在本章给出姓名）。facts 末条指吉纳维芙离席时“没有眼泪”，叙述者希望她哭出来。"
+}

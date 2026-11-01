@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch10",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch10_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "叙述者交代这间大厅的正式名称，并说平时只叫它楼下",
+   "anchor": "The room’s official name was the Great Room",
+   "start": 286,
+   "end": 329
+  },
+  {
+   "fact": "她靠背影猜错人，转身后才发现父亲是矮个那个",
+   "anchor": "I saw that I’d gotten it the wrong way round",
+   "start": 5583,
+   "end": 5627
+  },
+  {
+   "fact": "Samuel 照勒索信的要求凑出十万美金放到公园",
+   "anchor": "one hundred thousand dollars",
+   "start": 6190,
+   "end": 6218
+  },
+  {
+   "fact": "Kenji 自报与叙述者同行，也是代笔人",
+   "anchor": "I’m a ghostwriter.",
+   "start": 13535,
+   "end": 13553
+  },
+  {
+   "fact": "Genevieve 说父亲和 Kenji 交往约两年",
+   "anchor": "They started dating about two years ago",
+   "start": 15498,
+   "end": 15537
+  },
+  {
+   "fact": "当年绑匪 Deirdre 只有十八岁，舆论因此质疑她为何不逃",
+   "anchor": "eighteen at the time of the kidnapping",
+   "start": 18597,
+   "end": 18635
+  },
+  {
+   "fact": "叙述者从一口闷掉酒的动作看出 Kenji 在恼火",
+   "anchor": "the violence with which he threw back his drink",
+   "start": 8820,
+   "end": 8867
+  },
+  {
+   "fact": "Genevieve 拉起她要去见 Marilyn",
+   "anchor": "You haven’t met Marilyn yet!",
+   "start": 20997,
+   "end": 21025
+  }
+ ]
+}

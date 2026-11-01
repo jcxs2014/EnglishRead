@@ -1,0 +1,315 @@
+{
+  "chapter": "ch03",
+  "text_file": "text/ch03_chapter_3.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "我事先在谷歌图片上搜过 Denny Peters，想提前压掉对他的欲望",
+      "quote": "I’d even stooped to Google Imaging him beforehand",
+      "range": [
+        60,
+        109
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "我十八岁时把与父母的决裂正式化，法定改了名字",
+      "quote": "I made the estrangement official by legally changing my name",
+      "range": [
+        3105,
+        3165
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "我对 Denny 说如今自己叫 Belle",
+      "quote": "“These days I go by Belle.”",
+      "range": [
+        3586,
+        3613
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "Denny 打断我的道歉，脱口说自己已经订婚",
+      "quote": "“I’m engaged,” he blurted out.",
+      "range": [
+        4438,
+        4468
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "我端杯掩饰时把半杯茶洒在自己裤子上",
+      "quote": "Maybe this is why I spilled half its contents in my lap.",
+      "range": [
+        5082,
+        5138
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Denny 说他和 Abi 是在慈善活动上帮她找鞋而相识",
+      "quote": "she lost her shoe and was looking all over for it",
+      "range": [
+        9752,
+        9801
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "Denny 说未婚妻 Abi 对我有个提议",
+      "quote": "“She has a proposition for you.”",
+      "range": [
+        10539,
+        10571
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "Denny 说 Genevieve 全家周末聚会撒她母亲的骨灰",
+      "quote": "They’re scattering her ashes, and her whole family is going to be there",
+      "range": [
+        16213,
+        16284
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "我（叙述者）",
+      "b": "Denny Peters",
+      "rel": "旧情人：我甩了他，如今后悔并想复合",
+      "quote": "I regret the way I ended things between us",
+      "range": [
+        4204,
+        4246
+      ]
+    },
+    {
+      "a": "Denny Peters",
+      "b": "Abi（Abigail Brooke）",
+      "rel": "未婚夫妻",
+      "quote": "“Her name is Abigail Brooke.”",
+      "range": [
+        7755,
+        7784
+      ]
+    },
+    {
+      "a": "Abi（Abigail Brooke）",
+      "b": "Genevieve Caraway",
+      "rel": "幼儿园起的童年好友",
+      "quote": "her best friend was Genevieve Caraway",
+      "range": [
+        10849,
+        10886
+      ]
+    },
+    {
+      "a": "我（叙述者）",
+      "b": "Genevieve Caraway",
+      "rel": "传闻中的代笔合作对象；我是她的读者",
+      "quote": "Genevieve Caraway was looking to break out of the self-help genre.",
+      "range": [
+        11864,
+        11930
+      ]
+    },
+    {
+      "a": "Denny Peters",
+      "b": "Dorothy Gibson",
+      "rel": "他曾是这位政客的保镖之一（当时也雇了我）",
+      "quote": "one of the bodyguards for Dorothy Gibson",
+      "range": [
+        8996,
+        9036
+      ]
+    },
+    {
+      "a": "我（叙述者）",
+      "b": "妹妹",
+      "rel": "唯一的手足，二十五年前自杀身亡",
+      "quote": "I lost my sister to suicide",
+      "range": [
+        2964,
+        2991
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "twenty-five years ago",
+      "claim": "妹妹自杀、我失去唯一手足的时间",
+      "quote": "Twenty-five years ago, when I was still a teenager",
+      "range": [
+        2912,
+        2962
+      ]
+    },
+    {
+      "value": "eighteen",
+      "claim": "我法定改名的年龄",
+      "quote": "When I turned eighteen",
+      "range": [
+        3082,
+        3104
+      ]
+    },
+    {
+      "value": "three corpses",
+      "claim": "上次见 Denny 以来我遇到过的尸体数",
+      "quote": "I’d encountered three corpses",
+      "range": [
+        1522,
+        1551
+      ]
+    },
+    {
+      "value": "three perfect, parallel lines",
+      "claim": "他额头上惊出的三道平行皱纹",
+      "quote": "his smooth forehead acquiring three perfect, parallel lines",
+      "range": [
+        4301,
+        4360
+      ]
+    },
+    {
+      "value": "half a dozen triangular toast",
+      "claim": "吐司架上至少六个三角形吐司“角”",
+      "quote": "at least half a dozen triangular toast",
+      "range": [
+        13757,
+        13795
+      ]
+    },
+    {
+      "value": "four tiny pots",
+      "claim": "送来的果酱共四小罐",
+      "quote": "I got four tiny pots of it",
+      "range": [
+        6642,
+        6668
+      ]
+    },
+    {
+      "value": "twenty years ago",
+      "claim": "Genevieve 那段往事的起点",
+      "quote": "It began twenty years ago",
+      "range": [
+        12764,
+        12789
+      ]
+    },
+    {
+      "value": "fourteen years old",
+      "claim": "Genevieve 被持刀威胁时的年龄",
+      "quote": "She was fourteen years old",
+      "range": [
+        12885,
+        12911
+      ]
+    },
+    {
+      "value": "three months",
+      "claim": "Genevieve 遭囚禁折磨的时长",
+      "quote": "Genevieve’s ordeal lasted three months",
+      "range": [
+        13047,
+        13085
+      ]
+    },
+    {
+      "value": "half a dozen self-help titles",
+      "claim": "她历年出版的自助类书名目数",
+      "quote": "at least half a dozen self-help titles",
+      "range": [
+        15768,
+        15806
+      ]
+    },
+    {
+      "value": "ninety-nine percent",
+      "claim": "我说佩服别人时心口不一的比例",
+      "quote": "unlike ninety-nine percent of the time",
+      "range": [
+        15668,
+        15706
+      ]
+    },
+    {
+      "value": "last year",
+      "claim": "Abi 与 Denny 相识的年份",
+      "quote": "Abi and I met last year",
+      "range": [
+        9594,
+        9617
+      ]
+    },
+    {
+      "value": "the end of last year",
+      "claim": "Genevieve 母亲去世的时间",
+      "quote": "Her mom passed away at the end of last year",
+      "range": [
+        16154,
+        16197
+      ]
+    },
+    {
+      "value": "the middle of May",
+      "claim": "纽约当下的时令",
+      "quote": "a bright and sunny afternoon in the middle of May",
+      "range": [
+        15220,
+        15269
+      ]
+    },
+    {
+      "value": "Wednesday",
+      "claim": "本章当天是周三",
+      "quote": "It was Wednesday.",
+      "range": [
+        17287,
+        17304
+      ]
+    },
+    {
+      "value": "Friday night",
+      "claim": "撒骨灰的时点",
+      "quote": "They’re spreading the ashes on Friday night.",
+      "range": [
+        17224,
+        17268
+      ]
+    },
+    {
+      "value": "Sunday",
+      "claim": "Denny 可能赶来的日子",
+      "quote": "Sunday probably",
+      "range": [
+        17207,
+        17222
+      ]
+    },
+    {
+      "value": "less than two days",
+      "claim": "我为赶上葬礼须完成签约并飞犹他的剩余时间",
+      "quote": "I had less than two days",
+      "range": [
+        17316,
+        17340
+      ]
+    },
+    {
+      "value": "the next two days at least",
+      "claim": "Denny 被生意绊住纽约的时长",
+      "quote": "I have business keeping me here for the next two days at least.",
+      "range": [
+        16676,
+        16739
+      ]
+    }
+  ],
+  "turning_point": "Denny 抢白说出自己已订婚，堵死我的复合告白，随后转达未婚妻 Abi 的提议：请我去犹他州为 Genevieve Caraway 代笔回忆录。",
+  "notes": "叙述者本章始终未被点出原姓名（只说她更偏爱本名，‘Belle Currer’ 是写小说用的笔名）；妹妹自杀、父母疏远、改名均以回忆概述给出，无具体日期。Dorothy Gibson 此处仅称 politician，且曾同时雇佣我与 Denny。"
+}

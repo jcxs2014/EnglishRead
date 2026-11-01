@@ -1,0 +1,269 @@
+{
+  "chapter": "ch09",
+  "text_file": "text/ch09_chapter_9.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "Abi 用钥匙打开假铁门，抽开门闩",
+      "quote": "She produced a key and inserted it into the lock, drawing back the bolt.",
+      "range": [
+        408,
+        480
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "Abi 进门后从内侧再用同一把钥匙把门锁上",
+      "quote": "she locked it again from the inside, which required using the same key.",
+      "range": [
+        506,
+        577
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "Abi 握住当门把手的铁环，慢慢拧开正门",
+      "quote": "Abi grasp the iron ring that served as a door handle and twist it slowly",
+      "range": [
+        7090,
+        7162
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "Dan Caraway 指着自己向叙述者自报姓名",
+      "quote": "“Dan Caraway!” the man boomed, indicating himself.",
+      "range": [
+        11582,
+        11632
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "Dan 与叙述者握手时用力过猛",
+      "quote": "he would use too much pressure, and I was right.",
+      "range": [
+        11713,
+        11761
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Seth 上前把琴夹到左臂、把弓换到左手，再与叙述者握手",
+      "quote": "Seth Caraway stepped forward, pausing to tuck his violin under his left arm",
+      "range": [
+        13747,
+        13822
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "Genevieve 走来把手放进叙述者掌心并握了握",
+      "quote": "She slipped her hand inside of mine and squeezed it.",
+      "range": [
+        16527,
+        16579
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "Abi 用空着的手把 Seth 拉进她与 Genevieve 的拥抱",
+      "quote": "grabbed Seth Caraway with her free hand and pulled him into their embrace",
+      "range": [
+        18527,
+        18600
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Abi",
+      "b": "Genevieve",
+      "rel": "自五岁起相识的挚友，一同经历过劫难",
+      "quote": "These two friends who’d known each other since they were five years old",
+      "range": [
+        17558,
+        17629
+      ]
+    },
+    {
+      "a": "Genevieve",
+      "b": "Seth",
+      "rel": "母子",
+      "quote": "he had to be Seth Caraway, Genevieve’s son",
+      "range": [
+        8655,
+        8697
+      ]
+    },
+    {
+      "a": "Dan",
+      "b": "Seth",
+      "rel": "父子",
+      "quote": "The tall man I’d already identified as Seth’s father",
+      "range": [
+        11054,
+        11106
+      ]
+    },
+    {
+      "a": "Dan",
+      "b": "Genevieve",
+      "rel": "夫妻，Dan 婚后退出特技行业",
+      "quote": "Dan had retired from stunt work soon after marrying Genevieve.",
+      "range": [
+        11813,
+        11875
+      ]
+    },
+    {
+      "a": "Abi",
+      "b": "Belle",
+      "rel": "Abi 是带叙述者来见客户的中间人，向 Genevieve 打包票",
+      "quote": "“Oh, Belle can handle anything I’m serving.” Abi moved past me",
+      "range": [
+        17039,
+        17101
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "one hundred percent",
+      "claim": "叙述者强调大门是双向锁：内外都能上锁或开锁",
+      "quote": "be one hundred percent clear that the door featured a double lock",
+      "range": [
+        602,
+        667
+      ]
+    },
+    {
+      "value": "nine",
+      "claim": "门旁墙上嵌了九块瓷砖，拼出 SWEET SPOT",
+      "quote": "a cluster of nine tiles had been embedded in the wall next to the door",
+      "range": [
+        6457,
+        6527
+      ]
+    },
+    {
+      "value": "seven",
+      "claim": "全家人到齐，共七人聚在这间大屋里",
+      "quote": "they were all assembled, all seven of them, in this cavern of a room",
+      "range": [
+        7825,
+        7893
+      ]
+    },
+    {
+      "value": "nine-footer",
+      "claim": "钢琴长约九英尺，是居家环境里见过最大的",
+      "quote": "easily a nine-footer, a piano fit for a concert hall",
+      "range": [
+        8076,
+        8128
+      ]
+    },
+    {
+      "value": "fourteen",
+      "claim": "Seth 十四岁，是屋里唯一的孩子",
+      "quote": "I knew he was fourteen because he was the only child in the room",
+      "range": [
+        8577,
+        8641
+      ]
+    },
+    {
+      "value": "eighteen",
+      "claim": "叙述者凭猜测会说 Seth 有十八岁",
+      "quote": "If I’d been guessing, I would have said he was eighteen.",
+      "range": [
+        9154,
+        9210
+      ]
+    },
+    {
+      "value": "eight",
+      "claim": "《Beethoven》系列从 1990 年代初起拍过八部真人电影",
+      "quote": "in eight (no, really) live-action movies beginning in the early 1990s",
+      "range": [
+        11238,
+        11307
+      ]
+    },
+    {
+      "value": "four",
+      "claim": "多年间有四只不同的圣伯纳犬出演那个角色",
+      "quote": "there were actually four different Saint Bernards who played the role",
+      "range": [
+        11316,
+        11385
+      ]
+    },
+    {
+      "value": "ten to fifty",
+      "claim": "Swole Squad 的人数视视频而定，从十人到五十人不等",
+      "quote": "which was anywhere from ten to fifty people depending on the video",
+      "range": [
+        12296,
+        12362
+      ]
+    },
+    {
+      "value": "1988",
+      "claim": "《Vice Versa》是 1988 年由 Judge Reinhold 与 Fred Savage 主演",
+      "quote": "I’m partial to Vice Versa from 1988 starring Judge Reinhold and Fred Savage",
+      "range": [
+        14525,
+        14600
+      ]
+    },
+    {
+      "value": "five years old",
+      "claim": "Abi 与 Genevieve 自五岁起就认识",
+      "quote": "known each other since they were five years old",
+      "range": [
+        17582,
+        17629
+      ]
+    },
+    {
+      "value": "fifteen seconds",
+      "claim": "Dan 在不到十五秒内就提到了夫妻收入差距",
+      "quote": "in less than fifteen seconds, he had brought up this disparity",
+      "range": [
+        13556,
+        13618
+      ]
+    },
+    {
+      "value": "eighteen",
+      "claim": "叙述者自十八岁离开后再没回过这一带",
+      "quote": "I hadn’t been back to this part of the world since I was eighteen. Not once.",
+      "range": [
+        18113,
+        18189
+      ]
+    },
+    {
+      "value": "two full sleeves",
+      "claim": "Dan 两条手臂上都是整袖纹身",
+      "quote": "I observed two full sleeves’ worth on his naked arms",
+      "range": [
+        12531,
+        12583
+      ]
+    },
+    {
+      "value": "two",
+      "claim": "中轴小路两侧各有一条相对而设的长凳",
+      "quote": "one of two benches facing each other",
+      "range": [
+        2747,
+        2783
+      ]
+    }
+  ],
+  "turning_point": "拉小提琴的不是 Genevieve，而是她十四岁的儿子 Seth；章末叙述者又看穿这家人的亲密是“用力过猛”的表演",
+  "notes": "不确定：本章无明确日期，1988/1990s 均为影片年份；Seth 年龄仅有叙述者推断（他说“fourteen”，又自承若猜会说“eighteen”）；“fifteen seconds”是叙述者估数；Beethoven 电影的“八部/四只狗”为作者夹注，未核外部资料。"
+}

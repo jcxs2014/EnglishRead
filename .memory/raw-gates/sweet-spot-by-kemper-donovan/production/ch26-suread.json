@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch26",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch26_chapter_26.txt",
+ "facts": [
+  {
+   "fact": "Kay 向 Martina 索要 Deirdre Gregory 全部访客的书面记录",
+   "anchor": "a written record of all Deirdre Gregory",
+   "start": 106,
+   "end": 145
+  },
+  {
+   "fact": "Martina 把 Luke Fulton 指为「Austin 的耳语者」，说是见到 Austin 最可行的路子",
+   "anchor": "The Austin Whisperer. Luke Fulton.",
+   "start": 932,
+   "end": 966
+  },
+  {
+   "fact": "Martina 对再去找典狱长这条路的态度是苦笑，直接判死",
+   "anchor": "Martina smiled grimly",
+   "start": 448,
+   "end": 469
+  },
+  {
+   "fact": "Luke 说自己在这座监狱已经干了十七年",
+   "anchor": "Seventeen years",
+   "start": 4834,
+   "end": 4849
+  },
+  {
+   "fact": "Luke 说自己是从清洁工做起，后来才升到看守",
+   "anchor": "I started out as a janitor",
+   "start": 5023,
+   "end": 5049
+  },
+  {
+   "fact": "她进门前连给 Luke 发条短信的时间都没有，只能硬着头皮进去",
+   "anchor": "There wasn’t time to text him",
+   "start": 1519,
+   "end": 1548
+  },
+  {
+   "fact": "从监狱院子望出去，Sweet Spot 只是远处一小块芥末色的污迹",
+   "anchor": "not much more than a mustard-colored smudge",
+   "start": 8048,
+   "end": 8091
+  },
+  {
+   "fact": "Luke 用右手两指碰帽檐致意，道谢后又做了一次",
+   "anchor": "he put his fingers to his cap",
+   "start": 9729,
+   "end": 9758
+  }
+ ]
+}

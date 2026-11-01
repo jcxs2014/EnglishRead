@@ -1,0 +1,234 @@
+{
+  "chapter": 23,
+  "text_file": "text/ch23_chapter_23.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "Kay 宣布已预约死亡马监狱，想去了解 Deirdre Gregory 在狱中的最后一天。",
+      "quote": "she had booked an appointment at the Dead Horse Correctional Facility",
+      "range": [
+        459,
+        528
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "Kay 让其余人留守并指派下属负责，叙述者独自担心在监狱碰上 Luke Fulton。",
+      "quote": "the possibility of running into Luke Fulton",
+      "range": [
+        966,
+        1009
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "车上 Kay 说庆幸此前有机会与那位父亲谈过，并觉得他谈家人的方式很怪。",
+      "quote": "I’m glad we got a chance to talk to the father when we did",
+      "range": [
+        1543,
+        1601
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "望着红岩荒野，叙述者想起自己的童年与无处可依的孤独。",
+      "quote": "They were the sentinels of my childhood",
+      "range": [
+        3013,
+        3052
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "法医 Joe 电话告知死亡时间在受检前四到十二小时，即昨晚七点到凌晨三点。",
+      "quote": "Death occurred between four and twelve hours prior to examination",
+      "range": [
+        4392,
+        4457
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Joe 说死者胃里主要是未消化的汉堡薯条，还口服了大量芬太尼。",
+      "quote": "She had a burger and fries, mainly undigested",
+      "range": [
+        5240,
+        5285
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "Joe 报告腹部一道只在正面、不绕一圈的勒痕，除此之外无外伤。",
+      "quote": "There’s a welt on her midsection",
+      "range": [
+        6478,
+        6510
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "两人抵达死亡马监狱。",
+      "quote": "We had reached the Dead Horse Correctional Facility.",
+      "range": [
+        8450,
+        8502
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Kay Adams",
+      "b": "Joe",
+      "rel": "警探与法医，电话听取尸检结果",
+      "quote": "Medical examiner, she mouthed to me",
+      "range": [
+        4282,
+        4317
+      ]
+    },
+    {
+      "a": "Kay Adams",
+      "b": "Samuel Spruce",
+      "rel": "警探与被采访的受害者父亲",
+      "quote": "we got a chance to talk to the father",
+      "range": [
+        1552,
+        1589
+      ]
+    },
+    {
+      "a": "Joe",
+      "b": "Deirdre Gregory",
+      "rel": "法医与死者，验尸认定其死于芬太尼导致的心衰或肺栓塞",
+      "quote": "she died of heart failure or a pulmonary embolism",
+      "range": [
+        5623,
+        5672
+      ]
+    },
+    {
+      "a": "Kay Adams",
+      "b": "Luke Fulton",
+      "rel": "Kay 不知道叙述者与这名狱警有私下接触",
+      "quote": "I hadn’t told Kay about speaking to one of the prison guards",
+      "range": [
+        1166,
+        1226
+      ]
+    },
+    {
+      "a": "Kay Adams",
+      "b": "Jeffrey",
+      "rel": "警探与下属警员，路过时点头、敬礼",
+      "quote": "Kay nodded at him as we passed, and he saluted her",
+      "range": [
+        1794,
+        1844
+      ]
+    },
+    {
+      "a": "Kay Adams",
+      "b": "Deirdre Gregory",
+      "rel": "警探调查死者的狱中经历与最后一天",
+      "quote": "Deirdre Gregory’s stint in prison",
+      "range": [
+        560,
+        593
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "seven",
+      "claim": "门外已有七辆新闻采访车，是此前的两倍多",
+      "quote": "There were seven now, more than double what had been there before.",
+      "range": [
+        2088,
+        2154
+      ]
+    },
+    {
+      "value": "four and twelve hours",
+      "claim": "死亡发生在受检前四到十二小时之间",
+      "quote": "Death occurred between four and twelve hours prior to examination",
+      "range": [
+        4392,
+        4457
+      ]
+    },
+    {
+      "value": "seven last night till three in the morning",
+      "claim": "换算成昨晚七点到凌晨三点的死亡窗口",
+      "quote": "which means seven last night till three in the morning",
+      "range": [
+        4459,
+        4513
+      ]
+    },
+    {
+      "value": "ten thirty",
+      "claim": "多名证人证实死者昨晚十点半还活着",
+      "quote": "the victim was alive at ten thirty last night",
+      "range": [
+        4824,
+        4869
+      ]
+    },
+    {
+      "value": "eight-hour",
+      "claim": "原本八小时的死亡窗口被砍掉一大截",
+      "quote": "chop off a significant portion of this eight-hour window",
+      "range": [
+        4680,
+        4736
+      ]
+    },
+    {
+      "value": "ten thirty to three",
+      "claim": "调查可聚焦在十点半到三点之间",
+      "quote": "we can focus on ten thirty to three",
+      "range": [
+        4937,
+        4972
+      ]
+    },
+    {
+      "value": "a hundred percent",
+      "claim": "法医说要百分之百确定还需做完整尸检",
+      "quote": "to be a hundred percent",
+      "range": [
+        5579,
+        5602
+      ]
+    },
+    {
+      "value": "one",
+      "claim": "通常非自愿束缚不会只有一处勒痕",
+      "quote": "there’s more than one mark",
+      "range": [
+        7853,
+        7879
+      ]
+    },
+    {
+      "value": "one",
+      "claim": "法医找到腰部那一处勒痕",
+      "quote": "I triple-checked, once I found the one around the waist",
+      "range": [
+        7738,
+        7793
+      ]
+    },
+    {
+      "value": "one",
+      "claim": "叙述者曾与监狱里的一名狱警说过话",
+      "quote": "speaking to one of the prison guards at the facility",
+      "range": [
+        1190,
+        1242
+      ]
+    }
+  ],
+  "turning_point": "法医 Joe 来电报告腹部一道只在前面的勒痕——暗示死者可能曾被捆绑束缚，为“他杀”添上新证据，随后两人抵达死亡马监狱。",
+  "notes": "Joe 对勒痕性质仍“on the fence”，未定自杀或他杀；叙述者把父亲的割裂解释为接纳性取向后的应对机制，但未写入 facts 以免超限；叙述者尚未向 Kay 坦白与狱警 Luke Fulton 的接触。"
+}

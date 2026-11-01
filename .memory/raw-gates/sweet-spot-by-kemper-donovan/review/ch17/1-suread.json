@@ -1,0 +1,270 @@
+{
+ "chapter": 17,
+ "text_file": "text/ch17_chapter_17.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "罗斯说她清晨去庭院开喷泉时看见了德尔德丽并报了警。",
+   "quote": "I saw her there and called the police.",
+   "range": [
+    2868,
+    2906
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "罗斯承认昨晚没检查通往外面停车处的门是否锁上，而她平时都会检查。",
+   "quote": "I didn’t check that the door was locked last night",
+   "range": [
+    3884,
+    3934
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "阿比坚称自己锁了门，因此断定有人把德尔德丽放了进来。",
+   "quote": "That means someone had to let her in.",
+   "range": [
+    6184,
+    6221
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "阿比清点钥匙：罗斯有一把，吉纳维芙和丹各有一把，加上吉纳维芙给她的备用钥匙。",
+   "quote": "Rose has one, of course. And Genevieve and Dan each have a copy.",
+   "range": [
+    6396,
+    6460
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "玛丽莲解释昨夜穿浴袍下楼是为取忘在钢琴上的乐谱，但叙述者注意到她手里并没有乐谱。",
+   "quote": "I was retrieving some music I’d forgotten on the piano.",
+   "range": [
+    11762,
+    11817
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "吉纳维芙形容枯槁、拖着步子进餐厅，几乎提不起力气，阿比起身扶她入座。",
+   "quote": "she was shuffling as though she could barely summon the energy to move",
+   "range": [
+    16443,
+    16513
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "叙述者忽然想到：凶手的目标也许正是吉纳维芙本人，德尔德丽只是被利用的手段。",
+   "quote": "What if Genevieve Caraway were the true target?",
+   "range": [
+    18424,
+    18471
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "罗斯当众传话警探要问叙述者的话，她离席时阿比用口型对她说别跟摩门教徒乱来。",
+   "quote": "Don’t fuck with a Mormon.",
+   "range": [
+    20555,
+    20580
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "Abi",
+   "b": "Genevieve",
+   "rel": "最好的朋友（besties），阿比一心护着她",
+   "quote": "The dynamics between these two besties of Genevieve’s seemed cordial enough",
+   "range": [
+    10460,
+    10535
+   ]
+  },
+  {
+   "a": "Samuel",
+   "b": "Kenji",
+   "rel": "情侣/伴侣，塞缪尔包容健二的张扬",
+   "quote": "pointing an accusatory spoon at his boyfriend",
+   "range": [
+    13247,
+    13292
+   ]
+  },
+  {
+   "a": "Dan",
+   "b": "Genevieve",
+   "rel": "夫妻，丹为她取早餐",
+   "quote": "She nodded at her husband in the same preoccupied way",
+   "range": [
+    16973,
+    17026
+   ]
+  },
+  {
+   "a": "Rose",
+   "b": "Genevieve",
+   "rel": "主仆之间互无好感（no love lost）",
+   "quote": "there was no love lost between Rose and Genevieve",
+   "range": [
+    18660,
+    18709
+   ]
+  },
+  {
+   "a": "Samuel",
+   "b": "Genevieve",
+   "rel": "父女关系紧张，互无好感",
+   "quote": "between Genevieve and her father",
+   "range": [
+    18730,
+    18762
+   ]
+  },
+  {
+   "a": "Seth",
+   "b": "Genevieve",
+   "rel": "母子（Caraway 一家三口之一）",
+   "quote": "the Caraways filed into the room, one by one",
+   "range": [
+    15359,
+    15403
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "twenty",
+   "claim": "长餐桌原本可坐二十人",
+   "quote": "long, narrow table that could have sat twenty",
+   "range": [
+    629,
+    674
+   ]
+  },
+  {
+   "value": "eight",
+   "claim": "今晨只摆了八副餐具",
+   "quote": "it was set for a mere eight",
+   "range": [
+    697,
+    724
+   ]
+  },
+  {
+   "value": "four to a side",
+   "claim": "每边四人",
+   "quote": "set for a mere eight, four to a side",
+   "range": [
+    704,
+    740
+   ]
+  },
+  {
+   "value": "eighth-grade",
+   "claim": "叙述者八年级时去过华盛顿",
+   "quote": "ravaging my eighth-grade class",
+   "range": [
+    446,
+    476
+   ]
+  },
+  {
+   "value": "seven of them",
+   "claim": "罗斯可能有七条一样的连衣裙，一天一条",
+   "quote": "she had seven of them, one for each day of the week",
+   "range": [
+    2670,
+    2721
+   ]
+  },
+  {
+   "value": "the three",
+   "claim": "Caraway 家三人中最先到的是丹",
+   "quote": "the brightest-eyed of the three",
+   "range": [
+    15421,
+    15452
+   ]
+  },
+  {
+   "value": "a minute or two later",
+   "claim": "阿比在一两分钟后出现",
+   "quote": "Abi Brooke made an appearance a minute or two later",
+   "range": [
+    5187,
+    5238
+   ]
+  },
+  {
+   "value": "two additional strips of bacon",
+   "claim": "叙述者又拿了两条培根",
+   "quote": "two additional strips of bacon",
+   "range": [
+    10252,
+    10282
+   ]
+  },
+  {
+   "value": "the only two people",
+   "claim": "当时房里只有她们两人",
+   "quote": "we were still the only two people in the room",
+   "range": [
+    6136,
+    6181
+   ]
+  },
+  {
+   "value": "a few extra seconds",
+   "claim": "罗斯倒完咖啡又多花几秒擦壶嘴",
+   "quote": "she took a few extra seconds to rub the spout",
+   "range": [
+    14913,
+    14958
+   ]
+  },
+  {
+   "value": "A-plus",
+   "claim": "健二称谋杀调查是绝佳的增碳借口",
+   "quote": "a murder investigation is an A-plus one",
+   "range": [
+    12714,
+    12753
+   ]
+  },
+  {
+   "value": "one index finger",
+   "claim": "健二用食指互搓示意有人要倒霉",
+   "quote": "rubbing the top of one index finger",
+   "range": [
+    20221,
+    20256
+   ]
+  },
+  {
+   "value": "all eight chairs",
+   "claim": "八把椅子全被家人或客人占满",
+   "quote": "all eight chairs around this table were occupied",
+   "range": [
+    17504,
+    17552
+   ]
+  },
+  {
+   "value": "a second helping",
+   "claim": "叙述者又添了一份薯饼",
+   "quote": "a second helping of hash browns",
+   "range": [
+    19891,
+    19922
+   ]
+  }
+ ],
+ "turning_point": "叙述者在早餐桌上想通：凶手或许并非为护吉纳维芙而杀德尔德丽，而是故意留下指向吉纳维芙的疑点，真正的目标就是让她成为嫌疑人。",
+ "notes": "1) 叙述者姓名本章未出现，故 relations 只用有名字的人物。2) “the three”指 Caraway 一家三口（丹、塞斯、吉纳维芙），据上下文推断。3) 罗斯是否真没锁门、玛丽莲取乐谱的说法是否属实，本章均未证实。"
+}

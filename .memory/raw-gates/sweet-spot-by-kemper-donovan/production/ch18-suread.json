@@ -1,0 +1,61 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch18",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch18_chapter_18.txt",
+ "facts": [
+  {
+   "fact": "死者 Deirdre 的尸体在她到庭院前已被运走，石凳一带拉起黄黑相间的警戒带",
+   "anchor": "Deirdre Gregory’s body had been taken away already",
+   "start": 438,
+   "end": 488
+  },
+  {
+   "fact": "Adams 说鉴证人员已经来过又走了，还夸他们超级高效",
+   "anchor": "CSIs have already come and gone",
+   "start": 722,
+   "end": 753
+  },
+  {
+   "fact": "Adams 挑喷泉西侧还没晒到太阳的边沿坐下，让叙述者坐她旁边",
+   "anchor": "The rim of the fountain was just wide enough to hold us",
+   "start": 1007,
+   "end": 1062
+  },
+  {
+   "fact": "Adams 说自己的女儿 Caroline 是叙述者写的书的读者",
+   "anchor": "My daughter is a fan of yours",
+   "start": 2293,
+   "end": 2322
+  },
+  {
+   "fact": "Adams 说自己目前有三个孩子，拍肚子示意还有一个在路上",
+   "anchor": "At the moment I have three",
+   "start": 3436,
+   "end": 3462
+  },
+  {
+   "fact": "Adams 提议让叙述者做她没有正式名分的助手，替她盯着案子",
+   "anchor": "I want you to be my assistant",
+   "start": 4697,
+   "end": 4726
+  },
+  {
+   "fact": "Adams 说多数案子在最初四十八小时内破掉，之后就会冷掉",
+   "anchor": "the majority of cases are solved in the first forty-eight hours",
+   "start": 5132,
+   "end": 5195
+  },
+  {
+   "fact": "Adams 说自己是警局里唯一的女性，男同事不太愿意听她指挥",
+   "anchor": "as the only woman on the force",
+   "start": 6292,
+   "end": 6322
+  },
+  {
+   "fact": "叙述者数出 Deirdre 是她亲眼见过的第七具尸体，这也是第一次有官方的人请她参与办案",
+   "anchor": "Deirdre Gregory’s corpse was the seventh dead body",
+   "start": 8339,
+   "end": 8389
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch29",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch29_chapter_29.txt",
+ "facts": [
+  {
+   "fact": "Rose 举着手机从厨房出来，说门口有人要找她们",
+   "anchor": "Rose came out of the kitchen, holding up her cell phone",
+   "start": 163,
+   "end": 218
+  },
+  {
+   "fact": "Kay 说门口来的是 Martina Becerra，带了东西要当面给她们看",
+   "anchor": "She has something she wants to show us.",
+   "start": 572,
+   "end": 611
+  },
+  {
+   "fact": "Martina 交出一封 Deirdre 出狱前写好、一出去就寄出的手写信",
+   "anchor": "Deedee must have sent it first thing after she got out.",
+   "start": 1566,
+   "end": 1621
+  },
+  {
+   "fact": "Martina 反问这样的信像不像一个打算嗑药过量的人写的",
+   "anchor": "when she’s going to OD?",
+   "start": 2675,
+   "end": 2698
+  },
+  {
+   "fact": "Martina 认出 Kenji 是两三年前到 Dead Horse 探视过的人",
+   "anchor": "At Dead Horse? Two, maybe three years ago?",
+   "start": 3294,
+   "end": 3336
+  },
+  {
+   "fact": "Kenji 承认自己去过那所监狱，Samuel 逼他解释",
+   "anchor": "“She’s right,” Kenji said. “I went there.”",
+   "start": 4710,
+   "end": 4752
+  },
+  {
+   "fact": "Samuel 明白 Kenji 当初在酒吧搭话是为了给那本书取材",
+   "anchor": "That was why you came up to me. In the bar.",
+   "start": 5454,
+   "end": 5497
+  },
+  {
+   "fact": "Kay 说她已申请调取探视登记，现在更有理由细看",
+   "anchor": "I already put in the request for the visitor log.",
+   "start": 6523,
+   "end": 6572
+  }
+ ]
+}

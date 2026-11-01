@@ -1,0 +1,252 @@
+{
+ "chapter": 34,
+ "text_file": "text/ch34_chapter_34.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "贝尔离开西塔楼后给凯发消息问到达时间，说有话要先在外面给她看。",
+   "quote": "ETA? Tell me when you’re here so I can come meet you.",
+   "range": [
+    132,
+    185
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "贝尔在楼上小走廊听见抽泣声，发现玛丽莲抱着被砸碎的小提琴坐在塞思怀里。",
+   "quote": "Marilyn was holding the pieces of what used to be a violin.",
+   "range": [
+    1429,
+    1488
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "塞思从空乐器架旁的琴盒里抽出楼下那根槌球棒，说玛丽莲午饭前还在拉那把卡莱蒂。",
+   "quote": "Reaching in, he drew out the croquet mallet from downstairs.",
+   "range": [
+    2550,
+    2610
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "塞思估算那把卡莱蒂琴值四万美元，玛丽莲纠正说它是无价的，并说吉纳维芙爱那把琴。",
+   "quote": "“It was priceless,” said Marilyn",
+   "range": [
+    3604,
+    3636
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "凯带着女儿卡罗一同来到甜点庄园，说给贝尔带来一个“粉丝”。",
+   "quote": "“I’ve brought a fan!” she chirped",
+   "range": [
+    4663,
+    4696
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "凯告知迪尔德丽的通话记录：没有任何人给她打电话或发短信。",
+   "quote": "“No one,” said Kay. “Not a single person.”",
+   "range": [
+    7970,
+    8012
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "贝尔终于向凯坦白自己与卢克·富尔顿的关系，包括前一晚在他家过夜。",
+   "quote": "It was finally time. And so I told her everything",
+   "range": [
+    10190,
+    10239
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "凯以贝尔不够坦诚为由，当场把贝尔踢出了这个案子。",
+   "quote": "I’m sorry, but I’m taking you off the case.",
+   "range": [
+    13823,
+    13866
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "凯",
+   "b": "卡罗",
+   "rel": "母女；凯把女儿卡罗带上一趟“公务”行程",
+   "quote": "Caro released my hand, using it to pat her mother on the head.",
+   "range": [
+    5599,
+    5661
+   ]
+  },
+  {
+   "a": "贝尔",
+   "b": "吉纳维芙",
+   "rel": "贝尔成了吉纳维芙的不在场证人（案发时两人在一起）",
+   "quote": "This meant Genevieve was out of it. I was officially her alibi now.",
+   "range": [
+    2953,
+    3020
+   ]
+  },
+  {
+   "a": "贝尔",
+   "b": "卢克·富尔顿",
+   "rel": "恋爱关系；贝尔一直对凯隐瞒这段关系",
+   "quote": "was about my relationship with Luke Fulton",
+   "range": [
+    10112,
+    10154
+   ]
+  },
+  {
+   "a": "贝尔",
+   "b": "凯",
+   "rel": "凯把贝尔招进调查，如今因她隐瞒而将其除名",
+   "quote": "I brought you into this investigation because you were already embedded here",
+   "range": [
+    13249,
+    13325
+   ]
+  },
+  {
+   "a": "玛丽莲",
+   "b": "塞思",
+   "rel": "塞思抱着受惊的玛丽莲安抚她",
+   "quote": "Marilyn was half lying in Seth’s arms while he gently rocked her",
+   "range": [
+    1247,
+    1311
+   ]
+  },
+  {
+   "a": "塞思",
+   "b": "吉纳维芙",
+   "rel": "母子；被毁的是他母亲最好的一把琴",
+   "quote": "It’s my mom’s best violin.",
+   "range": [
+    3084,
+    3110
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "Forty thousand",
+   "claim": "塞思估算被毁的卡莱蒂小提琴价值约四万美元",
+   "quote": "Probably for him, this had been the biggest shock of all. “Forty thousand?”",
+   "range": [
+    3487,
+    3562
+   ]
+  },
+  {
+   "value": "forty-thousand-dollar",
+   "claim": "贝尔强调今天有人砸了一把四万美元的琴",
+   "quote": "someone smashed up a forty-thousand-dollar violin",
+   "range": [
+    11948,
+    11997
+   ]
+  },
+  {
+   "value": "A half hour",
+   "claim": "塞思说他们半小时前去吃的午饭",
+   "quote": "Seth thought for a second. “A half hour ago? We ate quickly.”",
+   "range": [
+    2834,
+    2895
+   ]
+  },
+  {
+   "value": "second",
+   "claim": "音乐室里还有第二架三角钢琴（小型三角钢琴）",
+   "quote": "The music room at Sweet Spot had a second grand piano in it",
+   "range": [
+    628,
+    687
+   ]
+  },
+  {
+   "value": "half a dozen",
+   "claim": "房间左侧有六个乐器架",
+   "quote": "On the left side of the room were half a dozen instrument stands",
+   "range": [
+    809,
+    873
+   ]
+  },
+  {
+   "value": "Two",
+   "claim": "房间中央有两个谱架相对而立",
+   "quote": "Two music stands faced each other in the middle of the room",
+   "range": [
+    965,
+    1024
+   ]
+  },
+  {
+   "value": "three",
+   "claim": "贝尔承认前一晚与卢克发生过三次关系（对凯只字未提）",
+   "quote": "how many times we’d had sex (three, for the record)",
+   "range": [
+    10470,
+    10521
+   ]
+  },
+  {
+   "value": "two strikes",
+   "claim": "凯提醒贝尔她说过只给两次机会",
+   "quote": "I said you got two strikes, no more.",
+   "range": [
+    13786,
+    13822
+   ]
+  },
+  {
+   "value": "one hundred percent",
+   "claim": "凯要求贝尔百分之百坦白、不许有秘密",
+   "quote": "I needed you to be one hundred percent open with me",
+   "range": [
+    13135,
+    13186
+   ]
+  },
+  {
+   "value": "one",
+   "claim": "迪尔德丽只打出一通电话给假释官",
+   "quote": "she made one outgoing call to her parole officer",
+   "range": [
+    8079,
+    8127
+   ]
+  },
+  {
+   "value": "Sunday",
+   "claim": "卢克那天周日休息、待在家里",
+   "quote": "He was enjoying his Sunday, his day off, at home.",
+   "range": [
+    10966,
+    11015
+   ]
+  },
+  {
+   "value": "Friday",
+   "claim": "贝尔推测勒索可能早在周五之前就已完成",
+   "quote": "She could have blackmailed either of them way before Friday!",
+   "range": [
+    12422,
+    12482
+   ]
+  }
+ ],
+ "turning_point": "凯把贝尔叫到西侧崖边，先告知迪尔德丽手机毫无往来记录，随后因贝尔隐瞒与卢克·富尔顿的关系以及吉纳维芙撒谎一事，宣布把贝尔踢出案子——“你被正式除名了”。",
+ "notes": "本章无明确日期；时间线索为“午饭前”“半小时前”以及卢克“周日休息”。被毁小提琴的价值存在两种说法：塞思估“四万美元”，玛丽莲称“无价”。"
+}

@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch07",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "Abi 按开隔板后的饮料柜，取出一瓶姜—羽衣甘蓝—猕猴桃思慕雪，同时承认这套排场很荒唐",
+   "anchor": "She grabbed a smoothie: ginger-kale-kiwi",
+   "start": 1454,
+   "end": 1494
+  },
+  {
+   "fact": "Abi 说公司有剧集在本地拍摄，她借探班名义留在此地，还能蹭到公司的车",
+   "anchor": "One of our shows shoots out here.",
+   "start": 1627,
+   "end": 1660
+  },
+  {
+   "fact": "叙事者问 Abi：Genevieve 是否一向去假释听证会，确保 Deirdre Gregory 不被放出来",
+   "anchor": "make a habit of going to the parole hearings",
+   "start": 6347,
+   "end": 6391
+  },
+  {
+   "fact": "Abi 确认 Deirdre Gregory 当天下午已经出狱",
+   "anchor": "She left this afternoon.",
+   "start": 8366,
+   "end": 8390
+  },
+  {
+   "fact": "叙事者从网上讣告得知 Genevieve 的母亲 Cheryl Spruce 半年前死于卵巢癌",
+   "anchor": "had died of ovarian cancer six months ago",
+   "start": 7876,
+   "end": 7917
+  },
+  {
+   "fact": "Abi 讲幼儿园旧事：男生故意折断她的铅笔，Genevieve 拿断笔尖刺了他的手臂",
+   "anchor": "G went and stabbed him in the arm with the pointy piece",
+   "start": 10111,
+   "end": 10166
+  },
+  {
+   "fact": "Abi 说 Genevieve 从 Oberlin 音乐学院退学，她当时并不意外",
+   "anchor": "she didn’t finish her first year at Oberlin",
+   "start": 12679,
+   "end": 12722
+  },
+  {
+   "fact": "叙事者向 Abi 坦白：她请 Denny 吃午饭，本意是想重新开始那段关系",
+   "anchor": "because I wanted to start something again",
+   "start": 16688,
+   "end": 16729
+  }
+ ]
+}

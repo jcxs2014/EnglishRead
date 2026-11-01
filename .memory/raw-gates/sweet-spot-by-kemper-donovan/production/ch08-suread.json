@@ -1,0 +1,61 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch08",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch08_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "车停在铁门旁的小屋前，门上绑着牌子要求完全停车，车门随即自动解锁",
+   "anchor": "PLEASE COME TO A FULL STOP.",
+   "start": 337,
+   "end": 364
+  },
+  {
+   "fact": "Abi 说门卫要查证件，确认来者就是自称的那个人",
+   "anchor": "To make sure you are who you say you are.",
+   "start": 465,
+   "end": 506
+  },
+  {
+   "fact": "门卫 Ernesto 极年轻，留着大胡子像是为了显老",
+   "anchor": "He was extremely young, and I suspected his full beard",
+   "start": 1443,
+   "end": 1497
+  },
+  {
+   "fact": "Abi 说她更喜欢夜班门卫，那人是 Ernesto 的双胞胎兄弟",
+   "anchor": "believe it or not, happens to be Ernesto",
+   "start": 3714,
+   "end": 3754
+  },
+  {
+   "fact": "Abi 交代 Ernesto 上白班，从下午两点到晚上十点",
+   "anchor": "He works from two in the afternoon till ten at night",
+   "start": 3588,
+   "end": 3640
+  },
+  {
+   "fact": "Abi 说庄园内外都不装摄像头，安全全靠这片围栏",
+   "anchor": "You know there are no cameras? Inside or out.",
+   "start": 2940,
+   "end": 2985
+  },
+  {
+   "fact": "叙述者行使作者特权，把夜景临时搬到午后",
+   "anchor": "transport us from nighttime to mid-afternoon",
+   "start": 4618,
+   "end": 4662
+  },
+  {
+   "fact": "塔楼底部的白射灯把房子照出不祥气，像小孩讲鬼故事",
+   "anchor": "the way children shine flashlights under their chins",
+   "start": 7192,
+   "end": 7244
+  },
+  {
+   "fact": "她发现 Abi 对自己的长相远没有她那么上心",
+   "anchor": "Because she actually liked who she was.",
+   "start": 8598,
+   "end": 8637
+  }
+ ]
+}

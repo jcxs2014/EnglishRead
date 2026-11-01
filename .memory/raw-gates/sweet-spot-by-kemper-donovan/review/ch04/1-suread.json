@@ -1,0 +1,317 @@
+{
+  "chapter": "ch04",
+  "text_file": "text/ch04_chapter_4.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "经纪人 Rhonda 趁合同时间紧迫，在周四上午谈成一笔大单。",
+      "quote": "to score a phenomenal deal by Thursday morning",
+      "range": [
+        490,
+        536
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "Belle 给早年那位靠收购私营监狱发家的客户发邮件，请他帮忙牵线亚利桑那的监狱。",
+      "quote": "I shot him an e-mail anyway, to see if he could put me in touch",
+      "range": [
+        4119,
+        4182
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "对方不到一小时就回了一个 Zoom 链接，Belle 收到后十分钟内点了进去。",
+      "quote": "he replied to my e-mail in under an hour with a Zoom link",
+      "range": [
+        4682,
+        4739
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "镜头里的男人举起证件，是 Dead Horse 监狱的狱警 Luke Fulton。",
+      "quote": "LUKE FULTON, I read. CORRECTIONS OFFICER.",
+      "range": [
+        9143,
+        9184
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "Luke 喝着水说自己干这行十五年，始终待在同一所监狱。",
+      "quote": "his huge Adam’s apple bobbing up and down. “Fifteen years.”",
+      "range": [
+        9654,
+        9713
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Luke 告诉 Belle，Deirdre Gregory 已获假释，明天就出狱。",
+      "quote": "“She’s getting out. Made parole.”",
+      "range": [
+        15494,
+        15527
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "Belle 问那两人是否提过 Eli Pratt，Luke 摇头说从没提过。",
+      "quote": "“They never mention Pratt.”",
+      "range": [
+        18603,
+        18630
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "两人交换了手机号，Belle 随即结束 Zoom 通话。",
+      "quote": "We exchanged phone numbers, and then I got off Zoom",
+      "range": [
+        19368,
+        19419
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Belle",
+      "b": "Rhonda",
+      "rel": "代笔人与她的经纪人",
+      "quote": "My agent, Rhonda, was thrilled.",
+      "range": [
+        410,
+        441
+      ]
+    },
+    {
+      "a": "Belle",
+      "b": "Luke Fulton",
+      "rel": "初次视频接触的写手与狱警，彼此有好感",
+      "quote": "“Name’s Luke,” he replied.",
+      "range": [
+        7192,
+        7218
+      ]
+    },
+    {
+      "a": "Luke Fulton",
+      "b": "Austin Gregory",
+      "rel": "狱警与在押囚犯",
+      "quote": "while he nodded for a third time.",
+      "range": [
+        9969,
+        10002
+      ]
+    },
+    {
+      "a": "Luke Fulton",
+      "b": "Deirdre Gregory",
+      "rel": "狱警与在押囚犯（分开关押，从不照面）",
+      "quote": "“Separate wing.”",
+      "range": [
+        14560,
+        14576
+      ]
+    },
+    {
+      "a": "Austin Gregory",
+      "b": "Deirdre Gregory",
+      "rel": "夫妻兼共犯",
+      "quote": "Austin was twenty when he married Deirdre",
+      "range": [
+        13640,
+        13681
+      ]
+    },
+    {
+      "a": "Genevieve",
+      "b": "Austin Gregory",
+      "rel": "受害者与加害者",
+      "quote": "the one who had held the knife to young Genevieve’s throat",
+      "range": [
+        10039,
+        10097
+      ]
+    },
+    {
+      "a": "Belle",
+      "b": "Genevieve Caraway",
+      "rel": "代笔人与传主",
+      "quote": "my next project is with Genevieve Caraway",
+      "range": [
+        10778,
+        10819
+      ]
+    },
+    {
+      "a": "Belle",
+      "b": "King of Cages",
+      "rel": "代笔人与早年的监狱大亨客户",
+      "quote": "One of my earliest was a man who amassed a fortune taking over numerous private prisons",
+      "range": [
+        3616,
+        3703
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "Thursday morning",
+      "claim": "Rhonda 谈成合同的时间：周四上午",
+      "quote": "to score a phenomenal deal by Thursday morning",
+      "range": [
+        490,
+        536
+      ]
+    },
+    {
+      "value": "one hand",
+      "claim": "Belle 固定通电话的人一只手数得过来",
+      "quote": "I can count on one hand the number of people I speak to on the phone",
+      "range": [
+        978,
+        1046
+      ]
+    },
+    {
+      "value": "One finger",
+      "claim": "实际只有一个",
+      "quote": "One finger, actually.",
+      "range": [
+        1064,
+        1085
+      ]
+    },
+    {
+      "value": "two mystery novels",
+      "claim": "Belle 在缅因任务失败后写出的推理小说数量",
+      "quote": "I’d produced those two mystery novels in the interim",
+      "range": [
+        1822,
+        1874
+      ]
+    },
+    {
+      "value": "under an hour",
+      "claim": "对方回邮件附 Zoom 链接的用时",
+      "quote": "he replied to my e-mail in under an hour with a Zoom link",
+      "range": [
+        4682,
+        4739
+      ]
+    },
+    {
+      "value": "less than ten minutes",
+      "claim": "Belle 收到链接后点进去的间隔",
+      "quote": "which was less than ten minutes after I received it",
+      "range": [
+        4869,
+        4920
+      ]
+    },
+    {
+      "value": "early forties",
+      "claim": "Belle 估计 Luke 的年龄",
+      "quote": "somewhere in his early forties",
+      "range": [
+        7965,
+        7995
+      ]
+    },
+    {
+      "value": "Fifteen years",
+      "claim": "Luke 当狱警的年头",
+      "quote": "his huge Adam’s apple bobbing up and down. “Fifteen years.”",
+      "range": [
+        9654,
+        9713
+      ]
+    },
+    {
+      "value": "seventies",
+      "claim": "斯坦福监狱实验发生的年代",
+      "quote": "way back in the seventies",
+      "range": [
+        11819,
+        11844
+      ]
+    },
+    {
+      "value": "two weeks",
+      "claim": "实验原定持续时长",
+      "quote": "They were supposed to act out their roles for two weeks",
+      "range": [
+        11991,
+        12046
+      ]
+    },
+    {
+      "value": "a week",
+      "claim": "实验实际没撑满一周",
+      "quote": "Except it didn’t even last a week",
+      "range": [
+        12048,
+        12081
+      ]
+    },
+    {
+      "value": "eighteen",
+      "claim": "Deirdre 满十八岁即嫁给 Austin",
+      "quote": "as soon as she turned eighteen",
+      "range": [
+        13608,
+        13638
+      ]
+    },
+    {
+      "value": "twenty",
+      "claim": "Austin 结婚时的年龄",
+      "quote": "Austin was twenty when he married Deirdre",
+      "range": [
+        13640,
+        13681
+      ]
+    },
+    {
+      "value": "three months",
+      "claim": "Genevieve 被囚在盐湖城公寓的时长",
+      "quote": "held for three months",
+      "range": [
+        17386,
+        17407
+      ]
+    },
+    {
+      "value": "twenty years ago",
+      "claim": "案发至今的时间",
+      "quote": "all this happened twenty years ago",
+      "range": [
+        18094,
+        18128
+      ]
+    },
+    {
+      "value": "Tomorrow",
+      "claim": "Deirdre 出狱的日子",
+      "quote": "“Tomorrow,” he said.",
+      "range": [
+        15887,
+        15907
+      ]
+    },
+    {
+      "value": "three times",
+      "claim": "Rhonda 的警告：被骗三次就得换经纪人",
+      "quote": "Fool me three times? You’re going to need a new agent.",
+      "range": [
+        2439,
+        2493
+      ]
+    }
+  ],
+  "turning_point": "Luke 在通话末尾透露 Deirdre Gregory 已获假释、明天出狱，Belle 由此看到采访她的新门路。",
+  "notes": "1) “a million logistics”“a few months”等为夸张/模糊说法，未计入 numbers。2) King of Cages 是书名式绰号，未给出真名。3) 本章未出现具体钟点；Luke 的“Long weekend”只是休假说法。4) Luke 全名与职务来自其举起的证件（LUKE FULTON / CORRECTIONS OFFICER），非口头自述。"
+}

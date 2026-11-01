@@ -1,0 +1,61 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch17",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch17_chapter_17.txt",
+ "facts": [
+  {
+   "fact": "Rose 说她每早去庭院开喷泉的水，就在那儿看见死者并报了警",
+   "anchor": "I saw her there and called the police",
+   "start": 2868,
+   "end": 2905
+  },
+  {
+   "fact": "Rose 承认昨夜没按惯例确认通往外面的门是否上锁",
+   "anchor": "I didn’t check that the door was locked last night",
+   "start": 3884,
+   "end": 3934
+  },
+  {
+   "fact": "叙述者确知昨夜是 Abi 锁的门，却把这句话咽了回去，一个字没说",
+   "anchor": "I knew for a fact that Abi had locked that door",
+   "start": 4199,
+   "end": 4246
+  },
+  {
+   "fact": "Abi 数钥匙：她的备用钥匙、Rose 一把、Genevieve 与 Dan 各一把",
+   "anchor": "Genevieve always gives me the spare when I come to stay",
+   "start": 6287,
+   "end": 6342
+  },
+  {
+   "fact": "叙述者心里纠正：Seth 不在床上，他隔着壁炉把话和号码都听了去",
+   "anchor": "He’d been listening to every word—and number—through the fireplace",
+   "start": 6923,
+   "end": 6989
+  },
+  {
+   "fact": "Kenji 边掀菜盖边说别假装为那女人死了难过，每句之间一声 Clank",
+   "anchor": "“And please don’t pretend you’re sad that woman is dead.”",
+   "start": 13038,
+   "end": 13095
+  },
+  {
+   "fact": "Genevieve 进餐厅时双眼红肿，Abi 屏息、Kenji 也不敢作声",
+   "anchor": "The skin around her eyes was red and raw",
+   "start": 16196,
+   "end": 16236
+  },
+  {
+   "fact": "她想到凶手意在栽赃，真正被瞄准的是 Genevieve 本人",
+   "anchor": "What if Genevieve Caraway were the true target",
+   "start": 18424,
+   "end": 18470
+  },
+  {
+   "fact": "Abi 用口型送她出门的一句警告",
+   "anchor": "Don’t fuck with a Mormon",
+   "start": 20555,
+   "end": 20579
+  }
+ ]
+}

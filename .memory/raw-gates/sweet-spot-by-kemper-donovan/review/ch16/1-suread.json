@@ -1,0 +1,206 @@
+{
+ "chapter": 16,
+ "text_file": "text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "女警转过身，隔着庭院向“我”挥手打招呼。",
+   "quote": "The policewoman had turned around. She gave me a little wave",
+   "range": [
+    27,
+    87
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "女警自称凯·亚当斯警探，并同丹·卡拉威握手。",
+   "quote": "She stuck out her hand. “I’m Detective Kay Adams.”",
+   "range": [
+    3432,
+    3482
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "丹·卡拉威光着上身、晃着出现在门口，一副要吐的样子。",
+   "quote": "Dan Caraway swayed in the entrance, looking as though he might vomit.",
+   "range": [
+    2649,
+    2718
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "“我”弯腰细看，发现死者手里攥着一瓶鼻腔喷雾。",
+   "quote": "The object in her hand was a bottle of nasal spray",
+   "range": [
+    3854,
+    3904
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "萝丝说早餐本该七点就绪，是这事耽搁了她。",
+   "quote": "It should have been ready at seven, but this delayed me.",
+   "range": [
+    4641,
+    4697
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "亚当斯警探让众人先去餐厅聚齐，并留在那里等她问话。",
+   "quote": "How about you head on over there now, and encourage everyone else to join you?",
+   "range": [
+    4779,
+    4857
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "“我”看清她胸牌上写的是“凯登丝·亚当斯”，并非凯。",
+   "quote": "a nametag on the chest of her shirt, which read DET. KAYDENCE ADAMS.",
+   "range": [
+    6093,
+    6161
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "“我”被客气地请走，只好退回庭院、往东端的塔楼去。",
+   "quote": "I retreated in defeat—back across the garden courtyard, and toward the tower",
+   "range": [
+    6442,
+    6518
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "贝尔·柯勒",
+   "b": "凯登丝·亚当斯",
+   "rel": "警探盘问目击者，被贝尔暗自揣度身份",
+   "quote": "“Now who do I have the pleasure of speaking with?”",
+   "range": [
+    1730,
+    1780
+   ]
+  },
+  {
+   "a": "丹·卡拉威",
+   "b": "萝丝·蒂洛哈什",
+   "rel": "同住一屋，一同出来应对警察",
+   "quote": "Behind him stood Rose Tillohash, looking precisely as she had the night before",
+   "range": [
+    2913,
+    2991
+   ]
+  },
+  {
+   "a": "凯·亚当斯",
+   "b": "迪尔德丽·格雷戈里",
+   "rel": "警探守着尸体、不许贝尔靠近",
+   "quote": "the way she stepped firmly now between me and the body",
+   "range": [
+    4134,
+    4188
+   ]
+  },
+  {
+   "a": "丹·卡拉威",
+   "b": "凯·亚当斯",
+   "rel": "主动提出给警队供餐以示配合",
+   "quote": "“We’re happy to feed you, and anyone from your team.”",
+   "range": [
+    5077,
+    5130
+   ]
+  },
+  {
+   "a": "贝尔·柯勒",
+   "b": "迪尔德丽·格雷戈里",
+   "rel": "趁警察背身窥看死者手中的物件",
+   "quote": "I took the opportunity to examine Deirdre Gregory’s body more closely",
+   "range": [
+    3530,
+    3599
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "half",
+   "claim": "只看得见她脸的下半部分",
+   "quote": "the lower half of her face",
+   "range": [
+    840,
+    866
+   ]
+  },
+  {
+   "value": "two-way",
+   "claim": "她先把对讲机插回腰间皮套",
+   "quote": "The policewoman replaced her two-way radio in her waist holder",
+   "range": [
+    1526,
+    1588
+   ]
+  },
+  {
+   "value": "three",
+   "claim": "她咂舌三次，像花栗鼠的叫声",
+   "quote": "unsticking her tongue from the roof of her mouth three times",
+   "range": [
+    3193,
+    3253
+   ]
+  },
+  {
+   "value": "one",
+   "claim": "她一只手按在自己胸口",
+   "quote": "she pressed the palm of one hand to her chest",
+   "range": [
+    4356,
+    4401
+   ]
+  },
+  {
+   "value": "seven",
+   "claim": "早餐本该七点就绪",
+   "quote": "It should have been ready at seven, but this delayed me.",
+   "range": [
+    4641,
+    4697
+   ]
+  },
+  {
+   "value": "a number",
+   "claim": "他躯干上有若干热带鸟色的纹身",
+   "quote": "his torso bearing a number of tattoos in the same tropical-bird colors",
+   "range": [
+    2766,
+    2836
+   ]
+  },
+  {
+   "value": "a bottle",
+   "claim": "死者手里是一瓶鼻腔喷雾",
+   "quote": "a bottle of nasal spray",
+   "range": [
+    3881,
+    3904
+   ]
+  },
+  {
+   "value": "a far greater number",
+   "claim": "萝丝意识到要多招待许多客人",
+   "quote": "the prospect of having to serve a far greater number of guests register for Rose",
+   "range": [
+    5236,
+    5316
+   ]
+  }
+ ],
+ "turning_point": "凯登丝·亚当斯警探以阳光无害的姿态把所有人赶去餐厅、把贝尔请离尸体，贝尔在死者手中瞥见一瓶鼻腔喷雾后即被逐走，只能退往东端塔楼。",
+ "notes": "女警胸牌写 DET. KAYDENCE ADAMS，她口头自称 Detective Kay Adams，贝尔据胸牌改口称 Kaydence；警察究竟是县警副警长还是警探，贝尔本人也存疑（uniform 与 detective 身份不符），属未解释处。"
+}

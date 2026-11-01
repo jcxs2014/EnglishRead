@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch12",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch12_chapter_12.txt",
+ "facts": [
+  {
+   "fact": "一听说 Deirdre Gregory 到了大门，Dan 立刻主张报警。",
+   "anchor": "We need to call the police,” Dan said instantly.",
+   "start": 14,
+   "end": 62
+  },
+  {
+   "fact": "Samuel 决定自己和 Abi 出门，把 Dan 留下陪 Genevieve。",
+   "anchor": "you stay here. Genny needs the moral support.",
+   "start": 1216,
+   "end": 1261
+  },
+  {
+   "fact": "Abi 开一辆 Prius 载 Samuel 去大门，叙述者悄悄钻进后座跟去。",
+   "anchor": "Abi used a remote clicker to open a Prius sedan.",
+   "start": 1742,
+   "end": 1790
+  },
+  {
+   "fact": "门卫 Alberto 说 Deirdre 报了真名，但她不在预先批准的名单上，于是他立刻通报了 Rose。",
+   "anchor": "since she wasn’t on the pre-approved list",
+   "start": 4875,
+   "end": 4916
+  },
+  {
+   "fact": "叙述者隔着车灯看清出狱后的 Deirdre：头发、皮肤、眼神都和通缉照上判若两人。",
+   "anchor": "Her stringy hair was now full and glossy",
+   "start": 5973,
+   "end": 6013
+  },
+  {
+   "fact": "Deirdre 隔着铁丝网喊出这句话，说 Genevieve 有危险。",
+   "anchor": "Genevieve is in danger!",
+   "start": 10906,
+   "end": 10929
+  },
+  {
+   "fact": "Abi 在 Uber 车窗外抢出司机的手机，拍下屏幕上 Deirdre 的订单信息。",
+   "anchor": "coming back with the man’s cell phone",
+   "start": 13222,
+   "end": 13259
+  },
+  {
+   "fact": "回到大屋后，Abi 念出 Deirdre 的手机号，让所有人当场拉黑。",
+   "anchor": "“That’s Deirdre Gregory’s cell.”",
+   "start": 17381,
+   "end": 17413
+  }
+ ]
+}

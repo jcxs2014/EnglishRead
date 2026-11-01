@@ -1,0 +1,261 @@
+{
+  "chapter": 26,
+  "text_file": "text/ch26_chapter_26.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "凯向马丁娜索要迪尔德丽·格雷戈里全部探视者的书面记录。",
+      "quote": "“I’ll need a written record of all Deirdre Gregory’s visitors,” said Kay.",
+      "range": [
+        95,
+        168
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "马丁娜压低声音建议他们去找「刚提过的那个男人」——奥斯汀·格雷戈里 whisperer 卢克·富尔顿。",
+      "quote": "You should talk to the guy I was just telling you about.",
+      "range": [
+        875,
+        931
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "三人被领进另一间压抑的会议室，卢克随即穿着与埃迪同款的灰色狱警制服出现。",
+      "quote": "We were ushered into another depressing conference room",
+      "range": [
+        2407,
+        2462
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "贝尔极轻地摇头示意，卢克立刻会意，装作不认识她。",
+      "quote": "He knew immediately to pretend as though he didn’t recognize me",
+      "range": [
+        3634,
+        3697
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "被问工作年限，卢克答「十七年」，并说自己是从清洁工做起、花两年才升为狱警。",
+      "quote": "“Seventeen years,” he replied.",
+      "range": [
+        4833,
+        4863
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "卢克用斯坦福监狱实验解释自己与奥斯汀的相处之道。",
+      "quote": "“Ever heard of the Stanford Prison Experiment?” he asked finally.",
+      "range": [
+        5510,
+        5575
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "凯请求「远远看一眼」奥斯汀，卢克耸肩答应，带她们去后院。",
+      "quote": "He shrugged again. “All right.”",
+      "range": [
+        7229,
+        7260
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "后院里奥斯汀独自站着，突然转身直盯贝尔，她被那双黑洞般的眼睛看得倒吸一口气。",
+      "quote": "It was terrifying to have those black-hole eyes trained on me",
+      "range": [
+        9404,
+        9465
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "凯",
+      "b": "马丁娜·贝塞拉",
+      "rel": "探员与监狱联络人：凯向她索取探视记录，她则要求走正式申请流程。",
+      "quote": "“Of course,” replied Martina. “You’ll have to submit a formal request",
+      "range": [
+        171,
+        240
+      ]
+    },
+    {
+      "a": "马丁娜·贝塞拉",
+      "b": "卢克·富尔顿",
+      "rel": "同事：马丁娜称他为「奥斯汀 whisperer」，力荐凯去找他。",
+      "quote": "The Austin Whisperer. Luke Fulton.”",
+      "range": [
+        932,
+        967
+      ]
+    },
+    {
+      "a": "贝尔",
+      "b": "卢克·富尔顿",
+      "rel": "网上结识、互有好感的两人首次线下见面，全程以眼神默契互相掩护。",
+      "quote": "we exchanged a secret smile",
+      "range": [
+        9664,
+        9691
+      ]
+    },
+    {
+      "a": "凯",
+      "b": "卢克·富尔顿",
+      "rel": "探员与受访狱警：凯主导问话，卢克简短作答。",
+      "quote": "“We hear you’re the Austin Gregory whisperer.”",
+      "range": [
+        4624,
+        4670
+      ]
+    },
+    {
+      "a": "卢克·富尔顿",
+      "b": "奥斯汀·格雷戈里",
+      "rel": "狱警与囚犯：相处十七年，卢克断言奥斯汀「从不说一个字」。",
+      "quote": "“He won’t say a word,” said Luke. “He never does.”",
+      "range": [
+        6886,
+        6936
+      ]
+    },
+    {
+      "a": "贝尔",
+      "b": "奥斯汀·格雷戈里",
+      "rel": "隔院相望：奥斯汀的黑洞般目光直逼贝尔，令她当场失态。",
+      "quote": "he looked right at me. I’m ashamed to admit this, but I gasped.",
+      "range": [
+        9340,
+        9403
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "fifteen years",
+      "claim": "贝尔原以为卢克在此工作十五年。",
+      "quote": "I already knew the answer to this one: fifteen years.",
+      "range": [
+        4777,
+        4830
+      ]
+    },
+    {
+      "value": "Seventeen years",
+      "claim": "卢克自报的实际工作年限。",
+      "quote": "“Seventeen years,” he replied.",
+      "range": [
+        4833,
+        4863
+      ]
+    },
+    {
+      "value": "two years",
+      "claim": "从清洁工熬到狱警所用的时间。",
+      "quote": "“Took two years to work my way up to guard.”",
+      "range": [
+        5210,
+        5254
+      ]
+    },
+    {
+      "value": "Fifteen years",
+      "claim": "凯复述：卢克当狱警十五年，奥斯汀一直在押。",
+      "quote": "Fifteen years as a guard, with Austin Gregory here that whole time",
+      "range": [
+        5258,
+        5324
+      ]
+    },
+    {
+      "value": "twenty years earlier",
+      "claim": "奥斯汀的外貌与二十年前几乎无异。",
+      "quote": "looked remarkably the same as he had twenty years earlier",
+      "range": [
+        8543,
+        8600
+      ]
+    },
+    {
+      "value": "fourteen-year-old",
+      "claim": "受害者吉纳维芙·斯普鲁斯当年十四岁。",
+      "quote": "the size differential between him and the fourteen-year-old Genevieve Spruce",
+      "range": [
+        8795,
+        8871
+      ]
+    },
+    {
+      "value": "two dozen",
+      "claim": "后院遮阳帆下聚集约二十四名囚犯。",
+      "quote": "about two dozen men all dressed in khaki pants and short-sleeved shirts",
+      "range": [
+        7759,
+        7830
+      ]
+    },
+    {
+      "value": "a minute or two",
+      "claim": "卢克在他们落座后一两分钟出现。",
+      "quote": "He appeared a minute or two later, wearing the same outfit as Eddie.",
+      "range": [
+        2583,
+        2651
+      ]
+    },
+    {
+      "value": "half the size",
+      "claim": "这间会议室只有前一间的一半大。",
+      "quote": "except this one was half the size, and smelled musty in addition to stuffy",
+      "range": [
+        2464,
+        2538
+      ]
+    },
+    {
+      "value": "a few weeks",
+      "claim": "凯预计申请会见奥斯汀的法院文件要数周。",
+      "quote": "I’m sure it’ll take a few weeks.",
+      "range": [
+        6850,
+        6882
+      ]
+    },
+    {
+      "value": "Psych 101",
+      "claim": "凯大学修过心理学入门课，故称听过该实验。",
+      "quote": "“Sure, I’ve heard of it,” Kay said genially. “I took Psych 101 in college.”",
+      "range": [
+        5718,
+        5793
+      ]
+    },
+    {
+      "value": "twenty years old",
+      "claim": "奥斯汀二十岁时胡子还没这么长这么密。",
+      "quote": "Perhaps his beard hadn’t been so long and full at twenty years old",
+      "range": [
+        8602,
+        8668
+      ]
+    },
+    {
+      "value": "yesterday",
+      "claim": "迪尔德丽·格雷戈里昨天刚从死马监狱释放。",
+      "quote": "the death of Deirdre Gregory, who was released here yesterday",
+      "range": [
+        4430,
+        4491
+      ]
+    }
+  ],
+  "turning_point": "贝尔最怕被卢克当场认出，却被他默契掩护；卢克答应带她们远观奥斯汀，而奥斯汀突然转身用黑洞般的目光直逼贝尔，让她当场失态。",
+  "notes": "本章无明确日期；卢克工作年限与贝尔记忆不符（她记十五年，他说十七年）属人物信息差，非文本错误；「Austin Whisperer」原文如此。"
+}

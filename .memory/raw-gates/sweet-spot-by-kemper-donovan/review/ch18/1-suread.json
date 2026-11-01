@@ -1,0 +1,251 @@
+{
+ "chapter": 18,
+ "text_file": "text/ch18_chapter_18.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "亚当斯警探换上了灰西裤白衬衫，在庭院等我，迪尔德丽的遗体已被移走。",
+   "quote": "She had changed into gray slacks and a loose, white dress shirt",
+   "range": [
+    91,
+    154
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "她开门见山说自己有个提议：让我做她的非正式助手。",
+   "quote": "“I have a proposition for you.”",
+   "range": [
+    4652,
+    4683
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "她自称三十八岁、女儿卡罗琳十六岁、正怀第四胎。",
+   "quote": "I’m thirty-eight. Caroline is my first. I was twenty-two when I had her.",
+   "range": [
+    3285,
+    3357
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "她强调多数案子在头四十八小时内破获，并说自己无下属可用。",
+   "quote": "the majority of cases are solved in the first forty-eight hours",
+   "range": [
+    5132,
+    5195
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "她要我说服卡拉威太太，让我尽可能全程旁观此案。",
+   "quote": "for you to witness as much of the case firsthand as you can",
+   "range": [
+    7010,
+    7069
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "她声明只在乎真相，谁做的、做过什么都不影响追责。",
+   "quote": "It doesn’t matter who she was. Or what she did.",
+   "range": [
+    7337,
+    7384
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "我答应下来，她笑着宣布开工——这是我头一次被官方邀请参与案件。",
+   "quote": "never before had anyone in an official capacity invited me onto a case",
+   "range": [
+    8455,
+    8525
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "Detective Adams",
+   "b": "Caroline",
+   "rel": "母女；卡罗琳十六岁，是母亲的第一个孩子",
+   "quote": "I’m thirty-eight. Caroline is my first. I was twenty-two when I had her.",
+   "range": [
+    3285,
+    3357
+   ]
+  },
+  {
+   "a": "Detective Adams",
+   "b": "Deirdre Gregory",
+   "rel": "凶案侦查负责人与死者",
+   "quote": "Deirdre Gregory’s body had been taken away already",
+   "range": [
+    438,
+    488
+   ]
+  },
+  {
+   "a": "Detective Adams",
+   "b": "Genevieve Caraway",
+   "rel": "侦查者与可能的嫌疑对象，她表示不会徇私",
+   "quote": "if Genevieve herself were implicated in the death of Deirdre Gregory",
+   "range": [
+    7783,
+    7851
+   ]
+  },
+  {
+   "a": "Genevieve Caraway",
+   "b": "Deirdre Gregory",
+   "rel": "旧怨：此地人都知道吉纳维芙曾受过的苦",
+   "quote": "Everyone who lived here knew what Genevieve Caraway had suffered.",
+   "range": [
+    7449,
+    7514
+   ]
+  },
+  {
+   "a": "Detective Adams",
+   "b": "deputies",
+   "rel": "上级与下属；她已派一名副手去应付媒体车",
+   "quote": "I’ve already had to dedicate one of my deputies to wrangle the press vans",
+   "range": [
+    7609,
+    7682
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "forty-eight hours",
+   "claim": "多数案件在这段黄金时间内破获",
+   "quote": "the majority of cases are solved in the first forty-eight hours",
+   "range": [
+    5132,
+    5195
+   ]
+  },
+  {
+   "value": "Sixteen",
+   "claim": "女儿卡罗琳的年龄",
+   "quote": "“Sixteen,” she replied.",
+   "range": [
+    3103,
+    3126
+   ]
+  },
+  {
+   "value": "thirty-eight",
+   "claim": "亚当斯警探的年龄",
+   "quote": "I’m thirty-eight. Caroline is my first.",
+   "range": [
+    3285,
+    3324
+   ]
+  },
+  {
+   "value": "twenty-two",
+   "claim": "她生第一个孩子时的年龄",
+   "quote": "I was twenty-two when I had her.",
+   "range": [
+    3325,
+    3357
+   ]
+  },
+  {
+   "value": "three",
+   "claim": "她目前有三个孩子",
+   "quote": "At the moment I have three.",
+   "range": [
+    3436,
+    3463
+   ]
+  },
+  {
+   "value": "Second trimester",
+   "claim": "她怀孕已进入第二孕期",
+   "quote": "“Second trimester, but it’ll be at least a week or two before anyone notices",
+   "range": [
+    3639,
+    3715
+   ]
+  },
+  {
+   "value": "a fourth pregnancy",
+   "claim": "这是她的第四次怀孕",
+   "quote": "Especially for a fourth pregnancy,",
+   "range": [
+    3730,
+    3764
+   ]
+  },
+  {
+   "value": "three hours",
+   "claim": "卡罗琳周六芭蕾课每次三小时",
+   "quote": "that lasts three hours on Saturdays",
+   "range": [
+    4216,
+    4251
+   ]
+  },
+  {
+   "value": "two murder investigations",
+   "claim": "叙述者此前经历过两起凶杀调查",
+   "quote": "I had been through two murder investigations by this point.",
+   "range": [
+    8279,
+    8338
+   ]
+  },
+  {
+   "value": "seventh dead body",
+   "claim": "迪尔德丽是她亲眼所见的第七具尸体",
+   "quote": "Deirdre Gregory’s corpse was the seventh dead body I’d seen with my eyes.",
+   "range": [
+    8339,
+    8412
+   ]
+  },
+  {
+   "value": "two and a third",
+   "claim": "她打趣说自己话多顶两个人加三分之一",
+   "quote": "Make that two and a third.",
+   "range": [
+    8205,
+    8231
+   ]
+  },
+  {
+   "value": "one of my deputies",
+   "claim": "她抽一名副手去驱赶媒体车",
+   "quote": "I’ve already had to dedicate one of my deputies to wrangle the press vans",
+   "range": [
+    7609,
+    7682
+   ]
+  },
+  {
+   "value": "mid-eighties",
+   "claim": "当时气温已达华氏八十多度",
+   "quote": "The air temperature was already in the mid-eighties",
+   "range": [
+    6590,
+    6641
+   ]
+  },
+  {
+   "value": "a week or two",
+   "claim": "还要一两周别人才看得出她怀孕",
+   "quote": "it’ll be at least a week or two before anyone notices",
+   "range": [
+    3662,
+    3715
+   ]
+  }
+ ],
+ "turning_point": "亚当斯警探主动招揽叙述者做她不成文的助手：原本偷偷进行的平行调查，一夜之间变成官方默许、可全程旁观的参与，代价是她要盯住吉纳维芙。",
+ "notes": "叙述者姓名本章未出现，故 relations 中不设其条目；‘Misty Copeland’‘Wicked Witch of the West’ 等典故未计入 numbers；‘a week or two’ 与 ‘Second trimester’ 同段落，分列两条。"
+}

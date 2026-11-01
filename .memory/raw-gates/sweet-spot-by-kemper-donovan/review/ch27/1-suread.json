@@ -1,0 +1,243 @@
+{
+ "chapter": 27,
+ "text_file": "text/ch27_chapter_27.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "离开监狱后卢克发短信问下午是否照旧，叙述者回信答应，又加了一句晚饭也有空。",
+   "quote": "Turns out I’m free for dinner after all.",
+   "range": [
+    860,
+    900
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "凯点破狱警卢克·富尔顿对她有好感，叙述者没有坦白自己和卢克在来往。",
+   "quote": "“He liked you, you know,” said Kay. “That guard. Luke Fulton.”",
+   "range": [
+    1286,
+    1348
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "叙述者想到丹·卡拉威满臂纹身，正好能遮住艾利·普拉特手腕上的痣或去痣的疤。",
+   "quote": "“His tattoos,” I said in a much smaller, chastened voice.",
+   "range": [
+    3903,
+    3960
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "午饭时凯接到消息：迪尔德丽的手机确实不见了，只能向她运营商调取记录。",
+   "quote": "Our only recourse now was to order the records from her phone carrier",
+   "range": [
+    7804,
+    7873
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "凯把叙述者送回甜点山庄，独自向上级汇报，仍坚持迪尔德丽是自己过量服药。",
+   "quote": "The simplest solution is that she did this to herself. That hasn’t changed.",
+   "range": [
+    8781,
+    8856
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "罗斯在厨房门口传话，说卡拉威太太在办公室要见她，叙述者于是爬上西塔螺旋梯。",
+   "quote": "“Mrs. Caraway wants to see you,” she said shortly. “In her office,”",
+   "range": [
+    10711,
+    10778
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "在顶层软垫房里吉纳维芙指认峡谷对面那排房子，那就是奥斯汀·格雷戈里被关的地方。",
+   "quote": "“That’s where Austin Gregory is.”",
+   "range": [
+    16702,
+    16735
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "吉纳维芙说她想写这本回忆录把一切吐出来，因为她已没有心力再伪装。",
+   "quote": "It’s why I want to write this memoir. I want to get it all out there.",
+   "range": [
+    32453,
+    32522
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "凯·亚当斯",
+   "b": "叙述者",
+   "rel": "警探与她的影子写手／调查搭档",
+   "quote": "I’m just throwing out theories with my partner.",
+   "range": [
+    3293,
+    3340
+   ]
+  },
+  {
+   "a": "卢克·富尔顿",
+   "b": "叙述者",
+   "rel": "互相调情的约会对象（她隐瞒了这段关系）",
+   "quote": "Still on for this afternoon? Unless you’re too busy …",
+   "range": [
+    397,
+    450
+   ]
+  },
+  {
+   "a": "卢克·富尔顿",
+   "b": "凯·亚当斯",
+   "rel": "狱警起初不肯通融，因叙述者一个眼神才放行探视",
+   "quote": "He wasn’t inclined to let us see Austin Gregory.",
+   "range": [
+    1608,
+    1656
+   ]
+  },
+  {
+   "a": "吉纳维芙·斯普鲁斯",
+   "b": "丹·卡拉威",
+   "rel": "夫妻，隔着庭院用望远镜互相窥看并玩角色扮演",
+   "quote": "We get naked sometimes. Do some role-playing.",
+   "range": [
+    21458,
+    21503
+   ]
+  },
+  {
+   "a": "吉纳维芙·斯普鲁斯",
+   "b": "艾利·普拉特",
+   "rel": "童年施害者与受害者，她认为他早已自杀",
+   "quote": "I think he killed himself after it all fell apart.",
+   "range": [
+    25769,
+    25819
+   ]
+  },
+  {
+   "a": "吉纳维芙·斯普鲁斯",
+   "b": "罗斯·蒂洛哈什",
+   "rel": "从小认识的主雇，罗斯坚持用“卡拉威太太”的正式称呼",
+   "quote": "someone she’d known from three years old",
+   "range": [
+    10852,
+    10892
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "half hour",
+   "claim": "在另一栋行政楼又耗了半小时办手续",
+   "quote": "spending another half hour in a different administrative building",
+   "range": [
+    56,
+    121
+   ]
+  },
+  {
+   "value": "thirty-nine",
+   "claim": "艾利·普拉特若还活着应是三十九岁",
+   "quote": "he’s a thirty-nine-year-old white guy",
+   "range": [
+    3071,
+    3108
+   ]
+  },
+  {
+   "value": "nineteen to thirty-nine",
+   "claim": "人从十九岁到三十九岁会变很多",
+   "quote": "people change a lot from nineteen to thirty-nine",
+   "range": [
+    20871,
+    20919
+   ]
+  },
+  {
+   "value": "three years old",
+   "claim": "罗斯从三岁起就认识吉纳维芙",
+   "quote": "someone she’d known from three years old",
+   "range": [
+    10852,
+    10892
+   ]
+  },
+  {
+   "value": "one in the afternoon",
+   "claim": "她走进大厅时将近下午一点",
+   "quote": "It was nearly one in the afternoon",
+   "range": [
+    10397,
+    10431
+   ]
+  },
+  {
+   "value": "half hour later",
+   "claim": "凯半小时后把她送到甜点山庄",
+   "quote": "dropped me off at Sweet Spot a half hour later",
+   "range": [
+    8014,
+    8060
+   ]
+  },
+  {
+   "value": "Two months",
+   "claim": "她被控制的两个月如同永恒",
+   "quote": "Two months is an eternity",
+   "range": [
+    17828,
+    17853
+   ]
+  },
+  {
+   "value": "fourteen",
+   "claim": "她当时十四岁",
+   "quote": "Especially when you’re fourteen.",
+   "range": [
+    17855,
+    17887
+   ]
+  },
+  {
+   "value": "five rows",
+   "claim": "健身房垫子铺成五行，每行十来张",
+   "quote": "unfurled in five rows, a dozen or so mats to a row",
+   "range": [
+    20133,
+    20183
+   ]
+  },
+  {
+   "value": "three",
+   "claim": "三人中只有艾利·普拉特始终没被抓",
+   "quote": "he’s the only one of the three who was never caught",
+   "range": [
+    25704,
+    25755
+   ]
+  },
+  {
+   "value": "two shafts of light",
+   "claim": "她陷进两道光柱之间的阴影里",
+   "quote": "caught between two shafts of light",
+   "range": [
+    17484,
+    17518
+   ]
+  }
+ ],
+ "turning_point": "车里关于“丹·卡拉威就是艾利·普拉特”的推理被吉纳维芙在顶层的一番忏悔推翻——她讲出创伤记忆与“保持甜美”的命名由来，叙述者转而相信她无辜。",
+ "notes": "叙述者姓名本章未出现，统一写作“叙述者”；“甜点山庄”为 Sweet Spot 的音译。艾利·普拉特是否即丹·卡拉威始终悬置，本章未给定论。"
+}

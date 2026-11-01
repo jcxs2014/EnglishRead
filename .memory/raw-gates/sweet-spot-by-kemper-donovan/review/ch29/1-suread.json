@@ -1,0 +1,214 @@
+{
+  "chapter": 29,
+  "text_file": "text/ch29_chapter_29.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "罗斯通报门口来人；凯接过电话后宣布玛蒂娜·贝塞拉上门，说有事要给他们看。",
+      "quote": "“Martina Becerra,” said Kay. “She has something she wants to show us.”",
+      "range": [
+        542,
+        612
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "玛蒂娜从西装内袋掏出一封对折的信纸，蓝色墨水手写，说迪迪出狱后第一时间寄来。",
+      "quote": "“A letter.” She pulled out a single leaf of paper, folded in half.",
+      "range": [
+        1360,
+        1426
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "信里迪迪（DeeDee）感谢玛蒂多年扶持，说自己在里面最后一夜写这封信，并承诺要做个让玛蒂骄傲的人。",
+      "quote": "So much more to come u couldn’t shake me if u tried,",
+      "range": [
+        2393,
+        2445
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "玛蒂娜拿这封信质问：这像要吸毒过量的人写的话吗？凯承认不像，但也不像要违规的信。",
+      "quote": "like the kind of message someone writes when she’s going to OD?”",
+      "range": [
+        2635,
+        2699
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "玛蒂娜突然认出正下楼的健二，指认他两三年前到过“死马”监狱探视迪迪。",
+      "quote": "At Dead Horse? Two, maybe three years ago?”",
+      "range": [
+        3294,
+        3337
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "健二在众人逼问下承认自己确实去过那所监狱。",
+      "quote": "“She’s right,” Kenji said. “I went there.”",
+      "range": [
+        4710,
+        4752
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "玛蒂娜揭出健二当年自称在写一本关于此案的书；萨缪尔当场醒悟酒吧搭讪只为取材，崩溃奔回楼上。",
+      "quote": "It was a fucking writing project.",
+      "range": [
+        5566,
+        5599
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "凯留下追问健二用过的化名，说探视登记如今有了第二个细查理由——化名会让他的动机更硬。",
+      "quote": "Now I have a second reason to look at it carefully.”",
+      "range": [
+        6573,
+        6625
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Martina Becerra",
+      "b": "Deirdre Gregory",
+      "rel": "多年担任迪迪的矫正治疗专员（狱方辅导），出狱后仍通信",
+      "quote": "the correction treatment specialist for Deirdre Gregory for many years now",
+      "range": [
+        3594,
+        3668
+      ]
+    },
+    {
+      "a": "Martina Becerra",
+      "b": "Kenji Nakamura",
+      "rel": "在“死马”监狱探视时见过一面，本章当面认出他",
+      "quote": "Glared at her, I should say.",
+      "range": [
+        4925,
+        4953
+      ]
+    },
+    {
+      "a": "Kenji Nakamura",
+      "b": "Samuel Spruce",
+      "rel": "健二在酒吧以“写书、想采访”为名接近萨缪尔，实为取材写书",
+      "quote": "Because you were working on a book, and you wanted to interview me.",
+      "range": [
+        5498,
+        5565
+      ]
+    },
+    {
+      "a": "Kay",
+      "b": "Martina Becerra",
+      "rel": "凯接下玛蒂娜送来的证据，并想核对探视登记里健二用的化名",
+      "quote": "“Delivering evidence,” Martina answered coolly. “I was just leaving.”",
+      "range": [
+        3975,
+        4044
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "halfway",
+      "claim": "凯与“我”还没走到前门一半，萝丝就把他们叫住",
+      "quote": "hadn’t gotten halfway to the front door",
+      "range": [
+        116,
+        155
+      ]
+    },
+    {
+      "value": "a few seconds",
+      "claim": "凯听门卫（脾气坏的埃内斯托）讲了几秒钟",
+      "quote": "listened for a few seconds to the guard on duty",
+      "range": [
+        309,
+        356
+      ]
+    },
+    {
+      "value": "single",
+      "claim": "玛蒂娜掏出的是一张对折的信纸",
+      "quote": "a single leaf of paper, folded in half",
+      "range": [
+        1387,
+        1425
+      ]
+    },
+    {
+      "value": "Two",
+      "claim": "玛蒂娜指认健二去监狱是大约两年前（或三年前）",
+      "quote": "At Dead Horse? Two, maybe three years ago?",
+      "range": [
+        3294,
+        3336
+      ]
+    },
+    {
+      "value": "three",
+      "claim": "她给出“两到三年”的时间范围",
+      "quote": "maybe three years ago?”",
+      "range": [
+        3314,
+        3337
+      ]
+    },
+    {
+      "value": "so many years",
+      "claim": "迪迪在信中说玛蒂当了她多年的支柱",
+      "quote": "Your my rock for so many years now girl",
+      "range": [
+        1946,
+        1985
+      ]
+    },
+    {
+      "value": "last night",
+      "claim": "信写于迪迪服刑的最后一夜，出狱当天即寄出",
+      "quote": "Im actually writing this on my last night inside",
+      "range": [
+        1841,
+        1889
+      ]
+    },
+    {
+      "value": "double take",
+      "claim": "玛蒂娜看见萨缪尔与健二下楼时先一愣再回头细看",
+      "quote": "She did a double take",
+      "range": [
+        2964,
+        2985
+      ]
+    },
+    {
+      "value": "one time",
+      "claim": "凯确认健二只去过监狱一次",
+      "quote": "Did he only come in the one time?”",
+      "range": [
+        6081,
+        6115
+      ]
+    },
+    {
+      "value": "second",
+      "claim": "凯说探视登记如今有了第二个细查理由",
+      "quote": "Now I have a second reason to look at it carefully.”",
+      "range": [
+        6573,
+        6625
+      ]
+    }
+  ],
+  "turning_point": "玛蒂娜认出健二就是当年去“死马”监狱探视迪迪的男人：健二被迫承认探视，玛蒂娜再抖出他当年以“写书采访”为名接近萨缪尔，萨缪尔当场崩溃——健二对迪迪的杀意链与他对萨缪尔的感情同时摊在众人面前。",
+  "notes": "本章为第一人称叙述，“我”是受雇写书的影子写手，姓名未在本章出现，故 relations 只用 Kay 等有名字的人物。信中原样保留了 DeeDee 的拼写与缩写（wd / cd / u / Im），quote 逐字照抄未改。"
+}

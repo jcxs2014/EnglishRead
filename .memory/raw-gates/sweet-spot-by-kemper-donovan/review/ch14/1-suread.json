@@ -1,0 +1,206 @@
+{
+  "chapter": "ch14",
+  "text_file": "text/ch14_chapter_14.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "叙述者关上北面窗户的缝隙，把风挡在外面。",
+      "quote": "through a crack in the north-facing windows, but I shut them now.",
+      "range": [
+        1754,
+        1819
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "她刚放水准备泡澡时，有人敲门。",
+      "quote": "I’d just begun filling the tub when someone knocked on the door.",
+      "range": [
+        3515,
+        3579
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "门外是赛斯·卡拉威，她没请他进屋，两人隔在门框两边说话。",
+      "quote": "And so we lingered on either side of the doorway.",
+      "range": [
+        4508,
+        4557
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "赛斯说自己房间的壁炉与楼下共用同一个烟囱，能听到楼下那侧所有人说话。",
+      "quote": "It’s the same chimney as the one downstairs.",
+      "range": [
+        5258,
+        5302
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "叙述者告诉赛斯，玛丽莲说他很有才华。",
+      "quote": "“She said you’re very talented, which you are,”",
+      "range": [
+        7869,
+        7916
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "赛斯说自己一直求父母让他去上学，或去梅多班克学院的暑期音乐项目。",
+      "quote": "I’ve been begging them to let me go to school forever.",
+      "range": [
+        10234,
+        10288
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "叙述者意识到自己已向赛斯透露了不该说的，必须向吉纳维芙交代。",
+      "quote": "I was going to have to tell Genevieve what I’d done.",
+      "range": [
+        11451,
+        11503
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "赛斯说母亲总是害怕坏事会发生。",
+      "quote": "Always scared that something bad is going to happen.",
+      "range": [
+        11736,
+        11788
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "赛斯·卡拉威",
+      "b": "吉纳维芙",
+      "rel": "母子；她把他赶上楼去睡觉",
+      "quote": "Your mother sent you upstairs.",
+      "range": [
+        5175,
+        5205
+      ]
+    },
+    {
+      "a": "赛斯·卡拉威",
+      "b": "丹",
+      "rel": "父子；赛斯认为父亲在家中毫无话语权",
+      "quote": "Like my dad has a say in anything.",
+      "range": [
+        11195,
+        11229
+      ]
+    },
+    {
+      "a": "赛斯·卡拉威",
+      "b": "玛丽莲·斯通",
+      "rel": "崇拜者与被崇拜者；他极看重她的评价",
+      "quote": "She’s an excellent musician",
+      "range": [
+        8822,
+        8849
+      ]
+    },
+    {
+      "a": "赛斯·卡拉威",
+      "b": "叙述者（我）",
+      "rel": "陌生人与倾诉对象；他主动选她倾诉",
+      "quote": "I guess I chose you because you’re so nice and approachable.",
+      "range": [
+        9254,
+        9314
+      ]
+    },
+    {
+      "a": "吉纳维芙",
+      "b": "玛丽莲·斯通",
+      "rel": "为梅多班克学院的事争执过",
+      "quote": "that Genevieve and Marilyn had been discussing—or squabbling about",
+      "range": [
+        10537,
+        10603
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "14",
+      "claim": "本章章号",
+      "quote": "CHAPTER 14",
+      "range": [
+        0,
+        10
+      ]
+    },
+    {
+      "value": "forty-two",
+      "claim": "叙述者在这世上活了四十二年，才第一次睡天篷床",
+      "quote": "after forty-two years on this Earth",
+      "range": [
+        1344,
+        1379
+      ]
+    },
+    {
+      "value": "ten",
+      "claim": "她大约十岁起就想要一张天篷床",
+      "quote": "from the time I was ten or so",
+      "range": [
+        595,
+        624
+      ]
+    },
+    {
+      "value": "Two",
+      "claim": "她梦想落空的两条现实原因",
+      "quote": "Two realities, really.",
+      "range": [
+        815,
+        837
+      ]
+    },
+    {
+      "value": "four",
+      "claim": "天篷床框架四角各有一根细杆",
+      "quote": "four thin poles at each corner",
+      "range": [
+        2032,
+        2062
+      ]
+    },
+    {
+      "value": "an hour",
+      "claim": "赛斯一小时前就被打发上床了",
+      "quote": "sent to bed over an hour ago",
+      "range": [
+        3853,
+        3881
+      ]
+    },
+    {
+      "value": "fourteen",
+      "claim": "在她那个年代，十四岁是青春痘与牙套的高峰年龄",
+      "quote": "In my day, fourteen was a peak age for acne and braces.",
+      "range": [
+        6876,
+        6931
+      ]
+    },
+    {
+      "value": "two",
+      "claim": "她泡澡时吃了两条蛋白棒",
+      "quote": "I downed two protein bars",
+      "range": [
+        12278,
+        12303
+      ]
+    }
+  ],
+  "turning_point": "赛斯深夜敲门，承认靠与楼下共用的烟囱偷听了全部谈话，并从叙述者口中套出「玛丽莲认为他进得了梅多班克学院」；叙述者随即意识到自己必须向吉纳维芙交代。",
+  "notes": "赛斯的姓 Caraway、母亲 Genevieve、父亲 Dan 三人的关系靠本章对话与前文一句（“Dan and Genevieve had provided for him”）推定，本章未写出 Dan 的全名；Genevieve 与 Marilyn 关于 Meadowbank Institute 的争执内容本章未交代。赛斯约十四岁系由“In my day, fourteen was a peak age”一段反推，非明写。"
+}

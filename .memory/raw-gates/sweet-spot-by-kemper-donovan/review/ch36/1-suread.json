@@ -1,0 +1,252 @@
+{
+ "chapter": 36,
+ "text_file": "text/ch36_chapter_36.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "贝儿刺伤卢克喉咙后，又抓起铸铁锅砸他脸，再用切肉叉反复捅他胸口致死。",
+   "quote": "I grabbed the carving fork and sunk it into his chest",
+   "range": [
+    389,
+    442
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "贝儿从尸体后裤袋取回手机，开机看到凯·亚当斯约一千个未接来电。",
+   "quote": "I had approximately one thousand missed calls from Kay Adams",
+   "range": [
+    1639,
+    1699
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "门铃响，来的是凯；她一边问是否有危险，一边伸手到衣服下摸枪。",
+   "quote": "Already she was reaching underneath her shirt for her gun",
+   "range": [
+    2160,
+    2217
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "贝儿称是自卫，并让凯去卧室取证：那里有掺了杀死迪尔德丽同款芬太尼的鸡尾酒。",
+   "quote": "a cocktail in the bedroom laced with the same fentanyl",
+   "range": [
+    3146,
+    3200
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "凯解释她如何找到此处：打电话给典狱长，并靠那根绳子推断凶手已离开甜点庄园。",
+   "quote": "It was that rope you found that did it for me",
+   "range": [
+    3947,
+    3992
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "凯透露自己的大姐伊迪是殡葬师，专精碱性水解，可把尸体化成“汤”。",
+   "quote": "One of my big sisters is a mortician.",
+   "range": [
+    6568,
+    6605
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "凯决定把迪尔德丽·格雷戈里之死定性为自杀结案，让所有人继续生活。",
+   "quote": "close this unfortunate case of suicide on the part of Deirdre Gregory",
+   "range": [
+    7490,
+    7559
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "凯在路边拥抱贝儿，说她现在是家人；贝儿则承诺给卡罗留一个住处和热饭。",
+   "quote": "I want you to know you’re family now",
+   "range": [
+    13138,
+    13174
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "贝儿",
+   "b": "凯·亚当斯",
+   "rel": "侦探与撰稿人，本案后成为共同掩盖命案的同谋/“家人”",
+   "quote": "“Belle.” I felt as though I were a child",
+   "range": [
+    8922,
+    8962
+   ]
+  },
+  {
+   "a": "凯·亚当斯",
+   "b": "卢克·富尔顿",
+   "rel": "警探与死者：她要伪造“上门重访未遇”的记录掩盖其失踪",
+   "quote": "I’ve got to log my attempted re-interview of Luke Fulton this afternoon",
+   "range": [
+    12122,
+    12193
+   ]
+  },
+  {
+   "a": "凯·亚当斯",
+   "b": "伊迪",
+   "rel": "姐妹：伊迪是殡葬师，提供碱性水解处理尸体",
+   "quote": "Her specialty is alkaline hydrolysis.",
+   "range": [
+    6696,
+    6733
+   ]
+  },
+  {
+   "a": "凯·亚当斯",
+   "b": "卡罗",
+   "rel": "母女：卡罗是凯的女儿，也是贝儿的读者/朋友",
+   "quote": "Ask Caro, I’m sure she is.",
+   "range": [
+    4830,
+    4856
+   ]
+  },
+  {
+   "a": "凯·亚当斯",
+   "b": "玛蒂娜·贝塞拉",
+   "rel": "警探与证人：凯决定不灭口，认为她无足轻重",
+   "quote": "There’s no need to silence Martina Becerra",
+   "range": [
+    8241,
+    8283
+   ]
+  },
+  {
+   "a": "贝儿",
+   "b": "吉纳维芙",
+   "rel": "撰稿人与委托人：吉纳维芙仍在科兹城堡熟睡，不知真相将至",
+   "quote": "I hoped that Genevieve was still asleep, up in her Cozy Castle",
+   "range": [
+    5626,
+    5688
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "one thousand",
+   "claim": "卢克手机上凯·亚当斯的未接来电约一千个",
+   "quote": "I had approximately one thousand missed calls from Kay Adams",
+   "range": [
+    1639,
+    1699
+   ]
+  },
+  {
+   "value": "half a dozen",
+   "claim": "贝儿用切肉叉捅卢克胸口至少六次",
+   "quote": "repeating this action at least half a dozen times",
+   "range": [
+    444,
+    493
+   ]
+  },
+  {
+   "value": "Six to eight hours",
+   "claim": "碱性水解处理尸体所需时间",
+   "quote": "Six to eight hours later, hey presto, all you’ve got is soup.",
+   "range": [
+    7124,
+    7185
+   ]
+  },
+  {
+   "value": "a dozen states",
+   "claim": "碱性水解合法化的州数，含刚通过的亚利桑那",
+   "quote": "Legal in about a dozen states, including Arizona just recently",
+   "range": [
+    6827,
+    6889
+   ]
+  },
+  {
+   "value": "2003",
+   "claim": "斯特赖桑德效应典故发生的年份",
+   "quote": "In 2003, Barbra Streisand went out of her way to keep photos",
+   "range": [
+    8547,
+    8607
+   ]
+  },
+  {
+   "value": "three days",
+   "claim": "凯要调取的大楼监控录像时长",
+   "quote": "a review of all surveillance footage over the last three days",
+   "range": [
+    12498,
+    12559
+   ]
+  },
+  {
+   "value": "the fourth time around",
+   "claim": "凯第四次怀孕，仍为胎动（quickening）激动",
+   "quote": "You’d think I’d be over it, the fourth time around.",
+   "range": [
+    11173,
+    11224
+   ]
+  },
+  {
+   "value": "two minutes",
+   "claim": "优步车还有两分钟到达",
+   "quote": "“They’re two minutes away,” I informed her.",
+   "range": [
+    13016,
+    13059
+   ]
+  },
+  {
+   "value": "two",
+   "claim": "公寓厨房里那张两人小桌",
+   "quote": "She began pacing around the tiny table for two in the condo’s kitchen",
+   "range": [
+    3404,
+    3473
+   ]
+  },
+  {
+   "value": "one",
+   "claim": "贝儿的手机在尸体的一条后裤袋里",
+   "quote": "My phone was in one of his back pockets",
+   "range": [
+    1515,
+    1554
+   ]
+  },
+  {
+   "value": "A minute later",
+   "claim": "凯拥抱后一分钟，优步车到了",
+   "quote": "A minute later my Uber pulled up and I slipped inside.",
+   "range": [
+    13434,
+    13488
+   ]
+  },
+  {
+   "value": "one",
+   "claim": "凯说这次胎动比前几次更早",
+   "quote": "This one is earlier than the others.",
+   "range": [
+    11095,
+    11131
+   ]
+  }
+ ],
+ "turning_point": "凯警探撞见贝儿杀死卢克后非但不逮捕，反而用妹妹伊迪的碱性水解处理尸体、把迪尔德丽案定为自杀结案，两人成为共犯。",
+ "notes": "叙述者名字本章由凯直呼为“Belle”；“Ezzie”应为凯的丈夫，仅一笔带过。卢克全名 Luke Fulton 由凯的对白确认。碱性水解与斯特赖桑德效应两处为叙述者/凯的科普性说明。"
+}

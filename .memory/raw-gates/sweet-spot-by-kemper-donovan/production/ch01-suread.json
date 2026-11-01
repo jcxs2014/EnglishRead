@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch01",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "飞机上邻座问叙事者出差还是度假，她答“出差”，其实此行公私兼有。",
+   "anchor": "“Business,” I replied to my seatmate.",
+   "start": 334,
+   "end": 371
+  },
+  {
+   "fact": "邻座把 pleasure 说成 pleazh，自称去 Jackson Hole 与大学同学徒步、打高尔夫。",
+   "anchor": "“Me? Pleazh all the way.”",
+   "start": 614,
+   "end": 639
+  },
+  {
+   "fact": "她的真实职业是替富人和名人写回忆录的代笔，还私下写取材真实生活的谋杀悬疑小说。",
+   "anchor": "If I had told him I was a ghostwriter who specializes in writing the memoirs of the rich and famous",
+   "start": 2204,
+   "end": 2303
+  },
+  {
+   "fact": "她把“高尔夫寡妇”改写成“高尔夫老处女”：宁可不婚，也不让高尔夫进入自己的生活。",
+   "anchor": "I like to think of myself as a “golf spinster”",
+   "start": 1444,
+   "end": 1490
+  },
+  {
+   "fact": "她假装邀请邻座帮她过一遍“优化策略”笔记，用行话把他吓退。",
+   "anchor": "You—you wouldn’t want to help me, would you?",
+   "start": 3001,
+   "end": 3045
+  },
+  {
+   "fact": "她事后承认唯一的不实是把此行说成纯粹出差。",
+   "anchor": "None of what I’d said to him was a lie, other than my trip being solely for business.",
+   "start": 3590,
+   "end": 3675
+  },
+  {
+   "fact": "她此行的“pleasure”早已铺好路，且自信会如期发生。",
+   "anchor": "already I’d laid the groundwork for a significant source of pleasure in the days to follow",
+   "start": 3726,
+   "end": 3816
+  },
+  {
+   "fact": "结尾预告：在西部 Sweet Spot，她与谋杀将到达新的亲密程度。",
+   "anchor": "But out West, at Sweet Spot, murder and I would reach a whole new level of intimacy.",
+   "start": 4051,
+   "end": 4135
+  }
+ ]
+}

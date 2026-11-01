@@ -1,0 +1,252 @@
+{
+  "chapter": 20,
+  "text_file": "text/ch20_chapter_20.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "凯带“我”打开那间无窗建筑，发现里面是丹的运动器材棚，堆满赛自行车、滑雪装备、帐篷和杠铃片。",
+      "quote": "I saw a ton of skiing and snowboarding equipment lurking in the back",
+      "range": [
+        1256,
+        1324
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "前往门卫岗亭的路上，凯一路闲聊家常，说自己有一儿一女，八岁的Ezra Junior和一岁半的LaKayla。",
+      "quote": "“Ezra Junior is eight. I know, big gaps! My attempt to hold on to my career.”",
+      "range": [
+        4871,
+        4948
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "到了岗亭外，凯介绍围栏另一侧的年轻警员Jeffrey，说他是圣约瑟夫警察局最年轻的警佐。",
+      "quote": "“That’s Jeffrey,” said Kay. “Youngest sergeant in the SJPD.”",
+      "range": [
+        6181,
+        6241
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "凯告知“我”：已联系上Deirdre的Uber司机，证实她被送到La Dorada Inn and Suites旅馆。",
+      "quote": "dropped her off at the La Dorada Inn and Suites",
+      "range": [
+        7579,
+        7626
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "保安Alberto接受凯的问询，说Deirdre当晚没有回来过，但Caraway太太凌晨两点多独自开车外出。",
+      "quote": "He took a moment to consider the question. “A little after two in the morning.”",
+      "range": [
+        10499,
+        10578
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Alberto形容Genevieve两次经过岗亭时都很疲惫、不笑、几乎不看他，而且她以前从未半夜外出。",
+      "quote": "“No smile. She hardly looked at me when I opened the gate, both times.”",
+      "range": [
+        11365,
+        11436
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "凯追问围栏电网，Alberto承认有一块面板接触不良会断电，但他刚用电压表测过，现在一切正常。",
+      "quote": "We control it in the guard station. It stays on all the time. Day and night.",
+      "range": [
+        11845,
+        11921
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "“我”最后问Alberto是否检查过Genevieve的车，得知只查客人不查住户，她的车可能藏有秘密。",
+      "quote": "Genevieve’s car could have been harboring any number of secrets",
+      "range": [
+        13158,
+        13221
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Kay",
+      "b": "Ezra",
+      "rel": "夫妻（她抱怨丈夫不运动、胆固醇高）",
+      "quote": "I wish my Ezra would exercise more. He’s an electrical engineer, a real smarty-pants.",
+      "range": [
+        2111,
+        2196
+      ]
+    },
+    {
+      "a": "Kay",
+      "b": "LaKayla",
+      "rel": "母女（女儿十八个月，坐后向婴儿座）",
+      "quote": "She’s eighteen months,” Kay added.",
+      "range": [
+        4764,
+        4798
+      ]
+    },
+    {
+      "a": "Kay",
+      "b": "Ezra Junior",
+      "rel": "母子（儿子八岁）",
+      "quote": "“Ezra Junior is eight.",
+      "range": [
+        4871,
+        4893
+      ]
+    },
+    {
+      "a": "Alberto",
+      "b": "Genevieve",
+      "rel": "保安与住户（他两次为她开闸，彼此点头）",
+      "quote": "“We did not speak. I nodded at her both times, and she nodded back.”",
+      "range": [
+        10988,
+        11056
+      ]
+    },
+    {
+      "a": "Kay",
+      "b": "Alberto",
+      "rel": "警探与受访保安（在车内做笔录问询）",
+      "quote": "“My first question,” said Kay, “is whether Deirdre Gregory ever came back at any point, later in the evening?”",
+      "range": [
+        9532,
+        9642
+      ]
+    },
+    {
+      "a": "我（叙述者）",
+      "b": "Kay",
+      "rel": "同行调查者（她是警探，我是代笔人，同车走访）",
+      "quote": "She’d already said I was easy to talk to, and to my surprise, I found this went both ways.",
+      "range": [
+        2566,
+        2656
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "eighteen months",
+      "claim": "凯的小女儿LaKayla的月龄",
+      "quote": "She’s eighteen months,” Kay added.",
+      "range": [
+        4764,
+        4798
+      ]
+    },
+    {
+      "value": "eight",
+      "claim": "凯的儿子Ezra Junior的年龄",
+      "quote": "“Ezra Junior is eight.",
+      "range": [
+        4871,
+        4893
+      ]
+    },
+    {
+      "value": "Almost three years",
+      "claim": "凯担任警探的时长",
+      "quote": "“Almost three years now.”",
+      "range": [
+        5101,
+        5126
+      ]
+    },
+    {
+      "value": "six till two",
+      "claim": "门卫Gwen的早班时段",
+      "quote": "the morning shift from six till two",
+      "range": [
+        8132,
+        8167
+      ]
+    },
+    {
+      "value": "ninety degrees",
+      "claim": "当天户外的华氏温度",
+      "quote": "it had to be close to ninety degrees",
+      "range": [
+        8333,
+        8369
+      ]
+    },
+    {
+      "value": "two dozen",
+      "claim": "棚内细轮赛车的数量下限",
+      "quote": "at least two dozen of those thin-wheeled racing bikes",
+      "range": [
+        1150,
+        1203
+      ]
+    },
+    {
+      "value": "A little after two in the morning",
+      "claim": "Genevieve凌晨离开庄园的时间",
+      "quote": "“A little after two in the morning.”",
+      "range": [
+        10542,
+        10578
+      ]
+    },
+    {
+      "value": "Almost four",
+      "claim": "Genevieve返回庄园的时间",
+      "quote": "“Almost four.”",
+      "range": [
+        10610,
+        10624
+      ]
+    },
+    {
+      "value": "just under two hours",
+      "claim": "Genevieve外出的总时长",
+      "quote": "“So she was gone for just under two hours?”",
+      "range": [
+        10667,
+        10710
+      ]
+    },
+    {
+      "value": "ten minutes",
+      "claim": "Uber从庄园开到旅馆的时长",
+      "quote": "about ten minutes after leaving here",
+      "range": [
+        7627,
+        7663
+      ]
+    },
+    {
+      "value": "twenty minutes ago",
+      "claim": "叙述者自嘲错过的热瑜伽课已开课时间",
+      "quote": "that started twenty minutes ago",
+      "range": [
+        1626,
+        1657
+      ]
+    },
+    {
+      "value": "Three",
+      "claim": "叙述者觉得三个孩子很多（凯反驳说在这乡下不算什么）",
+      "quote": "Three sounds like a lot to me.",
+      "range": [
+        5512,
+        5542
+      ]
+    }
+  ],
+  "turning_point": "保安Alberto的证词把怀疑对象从“外来闯入者”转向Genevieve本人：她凌晨两点多独自外出、近四点才回，且她的车从未被检查过，于是凯与“我”立刻动身去当面问她。",
+  "notes": "本章“我”即叙述者（Genevieve的代笔人），无姓名；Alberto全名Nunez；Jeffrey为SJPD最年轻警佐；Gwen与Ernesto仅一带而过的门卫班次，未展开。"
+}

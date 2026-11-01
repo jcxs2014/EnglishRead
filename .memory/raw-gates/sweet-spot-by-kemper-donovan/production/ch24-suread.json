@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch24",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch24_chapter_24.txt",
+ "facts": [
+  {
+   "fact": "叙述者认出眼前这五栋灰楼就是 Sweet Spot 背后山坡上的那片建筑",
+   "anchor": "There were five buildings total, all of them light gray",
+   "start": 666,
+   "end": 721
+  },
+  {
+   "fact": "她把「Caraway 夫妇为何把家建在监狱视野之内」记下来待查",
+   "anchor": "I filed away this question for later.",
+   "start": 626,
+   "end": 663
+  },
+  {
+   "fact": "Kay 说明 Dead Horse 已在亚利桑那州境内",
+   "anchor": "we’re just over the border in Arizona now",
+   "start": 2891,
+   "end": 2932
+  },
+  {
+   "fact": "Kay 没有接典狱长的摩门教话头",
+   "anchor": "refusing to take his Mormon bait",
+   "start": 9281,
+   "end": 9313
+  },
+  {
+   "fact": "典狱长称自己不与囚犯接触，只管中间层",
+   "anchor": "I don’t interact with the prisoners myself, just with the middlemen",
+   "start": 9548,
+   "end": 9615
+  },
+  {
+   "fact": "典狱长称他与 Dan 一起健身",
+   "anchor": "We work out together.",
+   "start": 10923,
+   "end": 10944
+  },
+  {
+   "fact": "典狱长根本不知道本案个案工作者是谁",
+   "anchor": "It was obvious he had no idea who Martina Becerra was",
+   "start": 11978,
+   "end": 12031
+  },
+  {
+   "fact": "Kay 讲联邦绑架罪的成立条件",
+   "anchor": "even if state lines weren’t crossed",
+   "start": 3301,
+   "end": 3336
+  }
+ ]
+}

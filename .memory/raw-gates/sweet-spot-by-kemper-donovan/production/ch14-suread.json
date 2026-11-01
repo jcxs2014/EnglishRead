@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch14",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch14_chapter_14.txt",
+ "facts": [
+  {
+   "fact": "叙述者从小梦想睡四柱床，说这念头来自维多利亚时代的文学",
+   "anchor": "I have dreamed of sleeping in a canopy bed",
+   "start": 38,
+   "end": 80
+  },
+  {
+   "fact": "Seth 说自己房间有壁炉，与楼下同一个烟囱，能听见楼下说话",
+   "anchor": "the same chimney as the one downstairs",
+   "start": 5263,
+   "end": 5301
+  },
+  {
+   "fact": "敲门的是 Seth，她下意识把浴袍两边拉紧",
+   "anchor": "I was not expecting to see Seth Caraway",
+   "start": 3704,
+   "end": 3743
+  },
+  {
+   "fact": "Seth 追问 Marilyn 有没有评价他的演奏",
+   "anchor": "Did she say anything about my playing?",
+   "start": 6410,
+   "end": 6448
+  },
+  {
+   "fact": "Seth 说想去 Meadowbank 的暑期音乐项目",
+   "anchor": "There’s one at the Meadowbank Institute I’d love to go to",
+   "start": 10344,
+   "end": 10401
+  },
+  {
+   "fact": "她点头承认 Marilyn 认为他能考进",
+   "anchor": "before I could stop myself, I was nodding",
+   "start": 10790,
+   "end": 10831
+  },
+  {
+   "fact": "Seth 说母亲一直害怕会出事",
+   "anchor": "Always scared that something bad is going to happen",
+   "start": 11736,
+   "end": 11787
+  },
+  {
+   "fact": "章末她把整件事收成一句关于父母的格言",
+   "anchor": "it’s often the parents who see least clearly of all",
+   "start": 12576,
+   "end": 12627
+  }
+ ]
+}

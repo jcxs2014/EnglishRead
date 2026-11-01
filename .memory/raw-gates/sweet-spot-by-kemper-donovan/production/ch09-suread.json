@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch09",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "Abi 用钥匙开门领她进院后，又从里面把同一把锁锁上，这扇假吊闸门内外都能开合",
+   "anchor": "she locked it again from the inside",
+   "start": 506,
+   "end": 541
+  },
+  {
+   "fact": "叙述者没有急着进屋，在正对 Abi 的长凳上坐下，把院子看完",
+   "anchor": "I sank onto the bench opposite and lingered",
+   "start": 3061,
+   "end": 3104
+  },
+  {
+   "fact": "屋里传出的是一把小提琴加一架钢琴的现场合奏",
+   "anchor": "It was a violin accompanied by piano.",
+   "start": 4297,
+   "end": 4334
+  },
+  {
+   "fact": "拉小提琴的不是 Genevieve，而是一个十四岁男孩",
+   "anchor": "It was a fourteen-year-old boy.",
+   "start": 8545,
+   "end": 8576
+  },
+  {
+   "fact": "Seth 上前握手，脸红，但姿态郑重",
+   "anchor": "he held out his right hand with a determined air",
+   "start": 13924,
+   "end": 13972
+  },
+  {
+   "fact": "Genevieve 握手力度恰好，与前两位（丈夫太重、儿子太轻）形成对照",
+   "anchor": "it was the perfect, Goldilocks amount of pressure, just right",
+   "start": 16641,
+   "end": 16702
+  },
+  {
+   "fact": "Dan 把自己说成吃白食的人，不到十五秒就主动提了收入差距",
+   "anchor": "he had brought up this disparity",
+   "start": 13586,
+   "end": 13618
+  },
+  {
+   "fact": "章末叙述者断定这一家人是在硬撑，且证据不久就会到手",
+   "anchor": "I had the confirmation I craved that they absolutely were",
+   "start": 18966,
+   "end": 19023
+  }
+ ]
+}

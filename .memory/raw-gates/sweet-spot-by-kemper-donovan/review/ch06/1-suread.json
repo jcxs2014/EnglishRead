@@ -1,0 +1,224 @@
+{
+  "chapter": "ch06",
+  "text_file": "text/ch06_chapter_6.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "主角在飞往凤凰城的航班上，邻座全程无视她",
+      "quote": "My obnoxious seatmate ignored me the entire flight",
+      "range": [
+        12,
+        62
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "她走出机舱、在廊桥里闻到亚利桑那的空气，被拽回少年时代",
+      "quote": "the moment I stepped off the plane and into that weird little elevated",
+      "range": [
+        700,
+        770
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "她的转机航班延误三小时，她发短信告诉 Abi Brooke 自己赶不上追悼会",
+      "quote": "my connecting flight was delayed three hours",
+      "range": [
+        4146,
+        4190
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "在雪松城机场她取到行李，买了外带咖啡并叫了 Uber",
+      "quote": "my bag was already in view. I scooped it up triumphantly",
+      "range": [
+        4845,
+        4901
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "一辆黑色 SUV 停到路缘，车窗已降下，车里传出说话声",
+      "quote": "It was a black SUV, its rear passenger window already lowered",
+      "range": [
+        6820,
+        6881
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "车里的女人开口叫出 Belle Currer 的名字",
+      "quote": "You’re Belle Currer.",
+      "range": [
+        6941,
+        6961
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "女人自称 Abi Brooke，是 Denny 的未婚妻",
+      "quote": "I’m Abi Brooke!” she exclaimed. “Denny’s fiancée.",
+      "range": [
+        9224,
+        9273
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "Abi 解释追悼会因风会把骨灰吹进人脸而推迟到明天",
+      "quote": "The memorial’s been postponed",
+      "range": [
+        9513,
+        9542
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Belle Currer",
+      "b": "Abi Brooke",
+      "rel": "叙述者与 Denny 的未婚妻初次见面（此前只通过短信联系）",
+      "quote": "I know you said not to come, but I couldn’t help myself.",
+      "range": [
+        10137,
+        10193
+      ]
+    },
+    {
+      "a": "Abi Brooke",
+      "b": "Denny",
+      "rel": "未婚夫妻（Abi 自称 Denny's fiancée）",
+      "quote": "I’m Abi Brooke!” she exclaimed. “Denny’s fiancée.",
+      "range": [
+        9224,
+        9273
+      ]
+    },
+    {
+      "a": "Abi Brooke",
+      "b": "Genevieve",
+      "rel": "Belle 推断两人同校、因而同龄（34 岁）",
+      "quote": "If she and Genevieve were in school together, then they had to be the same age",
+      "range": [
+        11316,
+        11394
+      ]
+    },
+    {
+      "a": "Belle Currer",
+      "b": "Denny",
+      "rel": "Belle 自认曾是 Denny 的\"例外\"（暗示二人有过关系）",
+      "quote": "Denny didn’t have a type. Or maybe this was his type",
+      "range": [
+        11134,
+        11186
+      ]
+    },
+    {
+      "a": "Belle Currer",
+      "b": "Abi Brooke",
+      "rel": "Belle 原以为 Denny 的未婚妻会是自己这副模样",
+      "quote": "I had assumed Denny’s fiancée would look like me.",
+      "range": [
+        10593,
+        10642
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three hours",
+      "claim": "转机航班延误的时长",
+      "quote": "my connecting flight was delayed three hours",
+      "range": [
+        4146,
+        4190
+      ]
+    },
+    {
+      "value": "three hours",
+      "claim": "她在机场可自由读书的三小时",
+      "quote": "I had three hours in which to read whatever I liked",
+      "range": [
+        4427,
+        4478
+      ]
+    },
+    {
+      "value": "six minutes",
+      "claim": "Uber 预计到达还需的分钟数",
+      "quote": "The Uber was still six minutes away",
+      "range": [
+        6566,
+        6601
+      ]
+    },
+    {
+      "value": "thirty-four",
+      "claim": "Abi Brooke 的年龄",
+      "quote": "the woman currently beaming at me was thirty-four",
+      "range": [
+        11502,
+        11551
+      ]
+    },
+    {
+      "value": "thirty",
+      "claim": "Denny 几个月后将满的岁数",
+      "quote": "(Denny would turn thirty in a few months.)",
+      "range": [
+        11627,
+        11669
+      ]
+    },
+    {
+      "value": "four years",
+      "claim": "Abi 比 Denny 年长的岁数",
+      "quote": "She was older than him, but only by four years.",
+      "range": [
+        11579,
+        11626
+      ]
+    },
+    {
+      "value": "forty-two",
+      "claim": "叙述者 Belle 的年龄",
+      "quote": "Whereas I was forty-two and uninterested in children.",
+      "range": [
+        11740,
+        11793
+      ]
+    },
+    {
+      "value": "one conveyor belt",
+      "claim": "雪松城机场唯一的行李传送带数量",
+      "quote": "there was only one conveyor belt for baggage claim",
+      "range": [
+        4764,
+        4814
+      ]
+    },
+    {
+      "value": "two words",
+      "claim": "她说 Gila monster 只值两个词",
+      "quote": "(I have two words for you: Gila monster.)",
+      "range": [
+        3625,
+        3666
+      ]
+    },
+    {
+      "value": "three words",
+      "claim": "女人开口说的三个词（You're Belle Currer）",
+      "quote": "a cordial ring to the three words she’d spoken",
+      "range": [
+        7698,
+        7744
+      ]
+    }
+  ],
+  "turning_point": "来接机的陌生女人原来是 Denny 的未婚妻 Abi Brooke：追悼会因风推迟，Belle 看见她的订婚戒指后仍上了她的车。",
+  "notes": "Belle 与 Denny 的过往关系原文只说\"I was the aberration\"，未明说，属暗示；Abi 与 Genevieve 同校同龄是 Belle 的推断（\"If she and Genevieve were in school together\"），非叙述事实。'Denny's fiancée' 一句中的引号为弯引号，quote 按原文逐字保留。"
+}

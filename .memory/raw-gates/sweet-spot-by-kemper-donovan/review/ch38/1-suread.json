@@ -1,0 +1,234 @@
+{
+  "chapter": 38,
+  "text_file": "text/ch38_chapter_38.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "叙述者说不许任何人读这份手稿，她决定不再为自己守秘密，但如今要为凯也守住一个秘密。",
+      "quote": "I’ve got a secret to keep not just on my own behalf, but on Kay’s as well.",
+      "range": [
+        332,
+        406
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "她原以为被自己视为受害者的 Eli Pratt 并没有那么糊涂，他和 Austin Gregory 之间显然有约定：一个消失，另一个便跟随。",
+      "quote": "if the one disappeared, the other was to follow",
+      "range": [
+        1616,
+        1663
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "“Austin Gregory”在狱中死于芬太尼过量，Dead Horse 监狱随即关闭，狱长 Aaron Gubler 转行做私人教练。",
+      "quote": "“Austin Gregory” had died in prison of a fentanyl overdose of his own",
+      "range": [
+        1835,
+        1904
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "Martina Becerra 按凯的意愿被转去了更好的机构，她坚称 Deirdre Gregory 不可能自杀，但没有人听她。",
+      "quote": "Martina Becerra was placed at a better institution, just as Kay intended.",
+      "range": [
+        2166,
+        2239
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "周一清晨她带着难看的宿醉醒来，一心想回纽约、把这一带抛在脑后，却被守在楼梯下的 Denny 拦住。",
+      "quote": "I woke up early on Monday morning with a filthy hangover",
+      "range": [
+        2571,
+        2627
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Denny 和 Abi 也要去机场，他直接断定她坐的是飞凤凰城的早班机，并提议顺路一起去看她父母。",
+      "quote": "I assume you’re on the early-bird flight to Phoenix",
+      "range": [
+        3171,
+        3222
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "Denny 早已查好她父母还住在她长大的那栋房子里，距机场不到二十分钟，她终究没能推脱。",
+      "quote": "They’re in the same house. The one you grew up in.",
+      "range": [
+        3663,
+        3713
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "两人从凤凰城机场打车到 Mesa，车停在她童年的家门前；她说自己害怕，Denny 说他会一直在这儿，而她还没走到门口，门就开了。",
+      "quote": "It opened before I could reach it.",
+      "range": [
+        6540,
+        6574
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "叙述者",
+      "b": "凯",
+      "rel": "她第一次替别人——替凯——保守秘密",
+      "quote": "I’ve got a secret to keep not just on my own behalf, but on Kay’s as well.",
+      "range": [
+        332,
+        406
+      ]
+    },
+    {
+      "a": "Eli Pratt",
+      "b": "Austin Gregory",
+      "rel": "两人约定一个消失另一个便跟随",
+      "quote": "if the one disappeared, the other was to follow",
+      "range": [
+        1616,
+        1663
+      ]
+    },
+    {
+      "a": "Denny",
+      "b": "Abi",
+      "rel": "两人同行前往机场",
+      "quote": "Me and Abi, yeah. We’re heading to the airport.",
+      "range": [
+        3029,
+        3076
+      ]
+    },
+    {
+      "a": "Denny",
+      "b": "叙述者",
+      "rel": "她害怕时他答应一直在门外等着",
+      "quote": "“I’ll be right here.”",
+      "range": [
+        5617,
+        5638
+      ]
+    },
+    {
+      "a": "Genevieve",
+      "b": "叙述者",
+      "rel": "她教会叙述者承认自己是受害者并非软弱",
+      "quote": "it was Genevieve who taught me that owning one’s victimhood isn’t a weakness",
+      "range": [
+        705,
+        781
+      ]
+    },
+    {
+      "a": "Caro",
+      "b": "叙述者",
+      "rel": "卡罗让叙述者想起十七岁有多年轻，从而劝自己对当年的自己宽容",
+      "quote": "Caro reminds me to be kind to that poor, misguided seventeen-year-old girl",
+      "range": [
+        991,
+        1065
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "first time",
+      "claim": "她第一次不只为自己守秘密",
+      "quote": "But for the first time, I’ve got a secret to keep",
+      "range": [
+        308,
+        357
+      ]
+    },
+    {
+      "value": "twenty years earlier",
+      "claim": "二十年前她也曾这样离开这一带",
+      "quote": "Just as I had done twenty years earlier.",
+      "range": [
+        2729,
+        2769
+      ]
+    },
+    {
+      "value": "two others",
+      "claim": "楼梯下已经放着另外两只行李",
+      "quote": "placing it beside two others",
+      "range": [
+        2963,
+        2991
+      ]
+    },
+    {
+      "value": "Monday morning",
+      "claim": "她宿醉醒来的那个周一清晨",
+      "quote": "I woke up early on Monday morning with a filthy hangover",
+      "range": [
+        2571,
+        2627
+      ]
+    },
+    {
+      "value": "twenty minutes",
+      "claim": "父母家距凤凰城机场不到二十分钟车程",
+      "quote": "It’s less than twenty minutes from the airport, I mapped it.",
+      "range": [
+        3741,
+        3801
+      ]
+    },
+    {
+      "value": "seventeen",
+      "claim": "她反复想到十七岁有多么年轻",
+      "quote": "just how young seventeen is",
+      "range": [
+        955,
+        982
+      ]
+    },
+    {
+      "value": "seventeen-year-old girl",
+      "claim": "她劝自己善待当年那个十七岁的女孩",
+      "quote": "Caro reminds me to be kind to that poor, misguided seventeen-year-old girl",
+      "range": [
+        991,
+        1065
+      ]
+    },
+    {
+      "value": "no one",
+      "claim": "没有人听 Martina 说 Deirdre 不可能自杀",
+      "quote": "But no one is listening",
+      "range": [
+        2324,
+        2347
+      ]
+    },
+    {
+      "value": "Before the month was over",
+      "claim": "不出一个月，狱中的“Austin Gregory”也死了",
+      "quote": "Before the month was over, “Austin Gregory” had died in prison",
+      "range": [
+        1808,
+        1870
+      ]
+    },
+    {
+      "value": "one of those thrillers",
+      "claim": "现实比惊悚小说里那种会构成威胁的人更可怕",
+      "quote": "a much scarier situation than one of those thrillers",
+      "range": [
+        2383,
+        2435
+      ]
+    }
+  ],
+  "turning_point": "她终于站到童年家门口：不再靠敲门等待宣判，门在她伸手之前自己开了——二十年前逃离的过去主动迎上她。",
+  "notes": "结尾“门自己开了”未交代开门者是谁，原文本章到此为止；Eli Pratt 与 Austin Gregory 的约定只是叙述者推测（“There must have been an understanding”）。"
+}

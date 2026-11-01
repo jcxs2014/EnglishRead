@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch23",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch23_chapter_23.txt",
+ "facts": [
+  {
+   "fact": "Kay 已预约死马惩教所，想去了解 Deirdre Gregory 服刑期间、尤其是最后一天的情形",
+   "anchor": "an appointment at the Dead Horse Correctional Facility",
+   "start": 474,
+   "end": 528
+  },
+  {
+   "fact": "叙述者一路数着新闻车，此时已有七辆，是先前的一倍还多",
+   "anchor": "There were seven now, more than double",
+   "start": 2088,
+   "end": 2126
+  },
+  {
+   "fact": "Kay 在车上问叙述者，家族疏离是不是她的亲身经历",
+   "anchor": "Do you know it from personal experience?",
+   "start": 3751,
+   "end": 3791
+  },
+  {
+   "fact": "来电的 Joe 是验尸官，Kay 用口型把身份告诉叙述者",
+   "anchor": "Medical examiner, she mouthed to me.",
+   "start": 4282,
+   "end": 4318
+  },
+  {
+   "fact": "Joe 给的死亡时间窗是检验前四到十二小时，即昨晚七点到凌晨三点",
+   "anchor": "seven last night till three in the morning",
+   "start": 4471,
+   "end": 4513
+  },
+  {
+   "fact": "胃里是几乎没消化的汉堡和薯条，外加大量芬太尼",
+   "anchor": "She had a burger and fries, mainly undigested",
+   "start": 5240,
+   "end": 5285
+  },
+  {
+   "fact": "尸检在她腹部发现一道勒痕，且只出现在身前，不绕一整圈",
+   "anchor": "There’s a welt on her midsection.",
+   "start": 6478,
+   "end": 6511
+  },
+  {
+   "fact": "Joe 发现腰部那道痕后反复核过，脚踝与手腕上没有别的痕迹",
+   "anchor": "I triple-checked, once I found the one around the waist.",
+   "start": 7738,
+   "end": 7794
+  }
+ ]
+}

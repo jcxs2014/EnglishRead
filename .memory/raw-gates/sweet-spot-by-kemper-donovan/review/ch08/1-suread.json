@@ -1,0 +1,197 @@
+{
+  "chapter": "ch08",
+  "text_file": "text/ch08_chapter_8.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "叙述者在门口把护照交给 Abi，Abi 转交给守卫 Ernesto 查验",
+      "quote": "Abi handed him my passport while exchanging a few sentences in Spanish",
+      "range": [
+        1797,
+        1867
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "Ernesto 打开后备箱，并蹲下检查车底",
+      "quote": "He even crouched down to inspect the underside of the vehicle",
+      "range": [
+        2636,
+        2697
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "Ernesto 解开铁丝网门的挂锁、开门放行",
+      "quote": "undid a padlock in the chain-link fence, opened the gate",
+      "range": [
+        3356,
+        3412
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "Abi 说 Ernesto 是白班守卫，下午两点上到夜里十点",
+      "quote": "He works from two in the afternoon till ten at night",
+      "range": [
+        3588,
+        3640
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "叙述者猜出夜班守卫（Ernesto 的孪生兄弟）叫 Alberto，Abi 伸手与他击掌",
+      "quote": "She put her hand out for a high five that I felt obliged to return",
+      "range": [
+        3918,
+        3984
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "叙述者自己下车取行李，不让司机动手",
+      "quote": "I scrambled out of the car to make it clear to the driver",
+      "range": [
+        6913,
+        6970
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "Abi 告诉叙述者这宅子里外都没有摄像头",
+      "quote": "You know there are no cameras? Inside or out.",
+      "range": [
+        2940,
+        2985
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "Abi 用肩膀轻撞叙述者，说重要的是里面",
+      "quote": "She leaned in my direction, nudging me playfully with her shoulder",
+      "range": [
+        8649,
+        8715
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Abi",
+      "b": "Ernesto",
+      "rel": "熟人：她用西语打招呼，他是宅子的白班守卫",
+      "quote": "Abi waved at the guard, who took his time looking up from his screen",
+      "range": [
+        1345,
+        1413
+      ]
+    },
+    {
+      "a": "Ernesto",
+      "b": "Alberto",
+      "rel": "孪生兄弟：一个上白班、一个上夜班",
+      "quote": "happens to be Ernesto’s twin brother",
+      "range": [
+        3733,
+        3769
+      ]
+    },
+    {
+      "a": "我",
+      "b": "Abi",
+      "rel": "同车抵达 Sweet Spot，叙述者承认两人已经交好",
+      "quote": "I suppose Abi Brooke and I really had bonded.",
+      "range": [
+        7902,
+        7947
+      ]
+    },
+    {
+      "a": "Abi",
+      "b": "Genevieve",
+      "rel": "Abi 替 Genevieve 的宅子做车辆查验与访客引路",
+      "quote": "Genevieve is super thorough with any vehicle that enters the property",
+      "range": [
+        2487,
+        2556
+      ]
+    },
+    {
+      "a": "我",
+      "b": "Genevieve",
+      "rel": "叙述者推断她痛恨被拍摄记录",
+      "quote": "Genevieve Caraway hated the idea of people watching and recording her movements",
+      "range": [
+        3037,
+        3116
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "ten degrees",
+      "claim": "夜里全黑后气温又降了十度",
+      "quote": "the temperature had dropped another ten degrees",
+      "range": [
+        7455,
+        7502
+      ]
+    },
+    {
+      "value": "two in the afternoon",
+      "claim": "白班守卫 Ernesto 的上班时间",
+      "quote": "two in the afternoon till ten at night",
+      "range": [
+        3602,
+        3640
+      ]
+    },
+    {
+      "value": "ten at night",
+      "claim": "白班守卫 Ernesto 的下班时间",
+      "quote": "two in the afternoon till ten at night",
+      "range": [
+        3602,
+        3640
+      ]
+    },
+    {
+      "value": "one in the afternoon",
+      "claim": "作者故意把时间倒回假想的午后一点来看房子",
+      "quote": "So let’s pretend it was one in the afternoon",
+      "range": [
+        4785,
+        4829
+      ]
+    },
+    {
+      "value": "a minute or two",
+      "claim": "Ernesto 去还护照、开门的时耗",
+      "quote": "Ernesto returned a minute or two later with my passport",
+      "range": [
+        3258,
+        3313
+      ]
+    },
+    {
+      "value": "a few minutes",
+      "claim": "过门后两人无言开车的时长",
+      "quote": "We rode in silence for a few minutes",
+      "range": [
+        4014,
+        4050
+      ]
+    },
+    {
+      "value": "two towers",
+      "claim": "宅子正面两侧的塔楼数量",
+      "quote": "flanked by what looked to be two towers",
+      "range": [
+        5341,
+        5380
+      ]
+    }
+  ],
+  "turning_point": "叙述者随 Abi 穿过全宅唯一的门、抵达沙漠中的 Sweet Spot：宅子正面像无窗的砂岩城堡、寸草不生，Abi 说这一切只为让人看不进来。",
+  "notes": "（1）叙述者全章未出现姓名，relations 中以「我」代称。（2）本章中段作者明说用 authorial discretion 把时间从夜里扳回午后，故「one in the afternoon」是假想钟点，不是实际抵达时间。（3）「ten degrees」未给单位（华氏/摄氏不明）。（4）Ernesto 全名、Alberto 是否真名章内未再确认。"
+}

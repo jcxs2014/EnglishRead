@@ -1,0 +1,242 @@
+{
+ "chapter": 24,
+ "text_file": "text/ch24_chapter_24.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "贝儿认出这些建筑：它们是云杉峡谷另一侧、Sweet Spot 后方山坡上的那几栋。",
+   "quote": "I realized I had seen these buildings before",
+   "range": [
+    29,
+    73
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "贝儿暗自记下疑问：吉纳维芙和丹为何把家安在能看见监狱的地方。",
+   "quote": "why would they have chosen to build their home in view of the place",
+   "range": [
+    510,
+    577
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "凯告诉贝儿，死马监狱是营利性监狱，凡事都图省钱。",
+   "quote": "one of those for-profit prisons that does everything on the cheap",
+   "range": [
+    1989,
+    2054
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "凯说格雷戈里夫妇在犹他州被判刑，却被送到亚利桑那州服刑。",
+   "quote": "they were convicted in Utah and then sent to Arizona",
+   "range": [
+    3905,
+    3957
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "凯解释原因：当时犹他州的监狱全都满了，所以异地关押。",
+   "quote": "all the prisons in Utah were full at the time",
+   "range": [
+    4013,
+    4058
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "贝儿在门厅安检处过金属探测器，凯凭执法人员身份绕过。",
+   "quote": "Once I’d run the gauntlet of the metal detector",
+   "range": [
+    4934,
+    4981
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "白胡子警卫领她们穿过昏暗走廊，到典狱长办公室门口，见典狱长坐在桌沿等候。",
+   "quote": "we saw the warden himself, sitting on the edge of his desk",
+   "range": [
+    5933,
+    5991
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "典狱长古布勒自称从不直接接触囚犯，只与“中间人”打交道。",
+   "quote": "I don’t interact with the prisoners myself, just with the middlemen",
+   "range": [
+    9548,
+    9615
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "贝儿",
+   "b": "凯",
+   "rel": "叙述者随行警探凯一同前往死马监狱查案",
+   "quote": "This is going to take a while,” Kay said cheerfully",
+   "range": [
+    1780,
+    1831
+   ]
+  },
+  {
+   "a": "Warden Aaron Gubler",
+   "b": "Dan",
+   "rel": "一起健身的熟人，典狱长自称与丹更熟",
+   "quote": "We work out together.",
+   "range": [
+    10923,
+    10944
+   ]
+  },
+  {
+   "a": "Genevieve",
+   "b": "Deirdre Gregory",
+   "rel": "吉纳维芙的仇人（施害者），被关押在死马监狱",
+   "quote": "where Genevieve’s tormentors were incarcerated",
+   "range": [
+    578,
+    624
+   ]
+  },
+  {
+   "a": "凯",
+   "b": "Warden Aaron Gubler",
+   "rel": "凯向典狱长追问迪尔德丽的情况，对方泛泛敷衍",
+   "quote": "All my CTSs are excellent,” he said",
+   "range": [
+    12109,
+    12144
+   ]
+  },
+  {
+   "a": "Deirdre Gregory",
+   "b": "Martina Becerra",
+   "rel": "囚犯与其案件专员（CTS）",
+   "quote": "who can I speak to about Deirdre Gregory",
+   "range": [
+    9921,
+    9961
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "five",
+   "claim": "监狱共五栋建筑",
+   "quote": "There were five buildings total",
+   "range": [
+    666,
+    697
+   ]
+  },
+  {
+   "value": "fifty",
+   "claim": "放风区里挤着约五十名囚犯",
+   "quote": "about fifty men crowded into it",
+   "range": [
+    938,
+    969
+   ]
+  },
+  {
+   "value": "three",
+   "claim": "监狱外围共有三道围栏",
+   "quote": "first of three fences surrounding the complex",
+   "range": [
+    1611,
+    1656
+   ]
+  },
+  {
+   "value": "two stories",
+   "claim": "最外层围栏近两层楼高",
+   "quote": "nearly two stories high",
+   "range": [
+    1752,
+    1775
+   ]
+  },
+  {
+   "value": "ten times",
+   "claim": "跟着警卫走比自行前往多花约十倍时间",
+   "quote": "It took us about ten times longer",
+   "range": [
+    5426,
+    5459
+   ]
+  },
+  {
+   "value": "2000",
+   "claim": "若在2000年，会以为典狱长四十多岁",
+   "quote": "If it were the year 2000",
+   "range": [
+    8407,
+    8431
+   ]
+  },
+  {
+   "value": "thirties or fifties",
+   "claim": "如今已分不清他是三十多还是五十多岁",
+   "quote": "in his thirties or fifties",
+   "range": [
+    8559,
+    8585
+   ]
+  },
+  {
+   "value": "once or twice",
+   "claim": "典狱长自称与吉纳维芙只见过一两次",
+   "quote": "Genevieve and I have met once or twice",
+   "range": [
+    10795,
+    10833
+   ]
+  },
+  {
+   "value": "twentieth century",
+   "claim": "二十世纪初管理病房的“护士长”式旧称",
+   "quote": "back in the early twentieth century",
+   "range": [
+    5767,
+    5802
+   ]
+  },
+  {
+   "value": "twenty-first",
+   "claim": "这个古怪的二十一世纪",
+   "quote": "this cuckoo twenty-first century of ours",
+   "range": [
+    8174,
+    8214
+   ]
+  },
+  {
+   "value": "two",
+   "claim": "典狱长示意她们坐他面前的两把椅子",
+   "quote": "waved us toward the two chairs in front of him",
+   "range": [
+    6931,
+    6977
+   ]
+  },
+  {
+   "value": "forties",
+   "claim": "若在2000年会猜他四十多岁",
+   "quote": "somewhere in his forties",
+   "range": [
+    8461,
+    8485
+   ]
+  }
+ ],
+ "turning_point": "凯当面追问迪尔德丽的案件专员是谁，典狱长古布勒却答不出任何细节，只得写下属下名字马丁娜·贝塞拉把她们打发走——看似配合的会面暴露出他对囚犯一无所知。",
+ "notes": "本篇为贝儿第一人称叙述；典狱长全名 Warden Aaron Gubler 在正文中以“Warden Aaron Gubler”出现。格雷戈里夫妇（Dan 与 Genevieve）的姓在文中由“the Gregorys”给出，迪尔德丽为其家属。地点：死马监狱在亚利桑那州，紧邻犹他州边界。"
+}

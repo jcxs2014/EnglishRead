@@ -1,0 +1,234 @@
+{
+  "chapter": 31,
+  "text_file": "text/ch31_chapter_31.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "次日清晨她在 Luke 家醒来时，他已起床在厨房弄出声响，咖啡香把她引出卧室。",
+      "quote": "and making noise in the kitchen. The smell of coffee drew me out of bed",
+      "range": [
+        524,
+        595
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "她在客厅扫视满屋运动器材（滑雪板、击剑服、蹦床等），假意称赞“真了不起”。",
+      "quote": "This is impressive” I lied, sweeping my arm over all the equipment.",
+      "range": [
+        1783,
+        1850
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "他果然照做：屈膝发力，把她整个人抱进怀里，再抱回卧室。",
+      "quote": "He did exactly that, reader—bending at the knees to engage his core",
+      "range": [
+        2997,
+        3064
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "躺在床上时 Luke 透露，Dan 每次见面都缠着要私下见 Austin Gregory。",
+      "quote": "Guy keeps asking if he can see Austin Gregory",
+      "range": [
+        6268,
+        6313
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "她回想起 Dan 说过 Gregory 夫妇是他最不想见的人，自问他为何至少在 Austin 的事上撒谎。",
+      "quote": "So why had he lied, at least where Austin Gregory was concerned?",
+      "range": [
+        7044,
+        7108
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Luke 从零开始现做华夫饼，她意识到自己不是一般的喜欢他，而是“真的喜欢上”了。",
+      "quote": "It was official: I didn’t just like him. I like liked him.",
+      "range": [
+        7477,
+        7535
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "她在西侧崖边发现一块巨石上系着一条垂下悬崖的绳子，想到这正是攀爬潜入的现成工具。",
+      "quote": "tie a rope around one of the boulders and dangle said rope over the cliff",
+      "range": [
+        9731,
+        9804
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "她当即给 Kay 发短信称发现重大线索，要她尽快赶来，并注明无人有危险。",
+      "quote": "Found something HUGE; come ASAP. (No one in danger.)",
+      "range": [
+        10045,
+        10097
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Rita",
+      "b": "Luke Fulton",
+      "rel": "决定认真交往、不再当作一夜情的恋人",
+      "quote": "I would not treat him like a mere one-night stand.",
+      "range": [
+        2807,
+        2857
+      ]
+    },
+    {
+      "a": "Dan Caraway",
+      "b": "Austin Gregory",
+      "rel": "Dan 一心想“私下”见他，要 Luke 偷偷把人放进去",
+      "quote": "Off the record. Wants me to slip him in.”",
+      "range": [
+        6329,
+        6370
+      ]
+    },
+    {
+      "a": "Rita",
+      "b": "Kay",
+      "rel": "共同办案的搭档，Dan 那番话是两人一起听到的",
+      "quote": "What he’d said to me and Kay earlier in the day came back to me now",
+      "range": [
+        6770,
+        6837
+      ]
+    },
+    {
+      "a": "Dan Caraway",
+      "b": "Gregory 夫妇",
+      "rel": "声称他们是自己世上最不想见的人，与私下求见 Austin 自相矛盾",
+      "quote": "They’re the last two people on earth I’d ever want to meet.",
+      "range": [
+        6982,
+        7041
+      ]
+    },
+    {
+      "a": "Rita",
+      "b": "Deirdre Gregory",
+      "rel": "推断她用在监狱练就的攀岩本事攀绳潜入 Sweet Spot",
+      "quote": "Deirdre Gregory, who had honed her rock-climbing skills while in prison",
+      "range": [
+        10581,
+        10652
+      ]
+    },
+    {
+      "a": "Rita",
+      "b": "Genevieve Caraway",
+      "rel": "Genevieve 把 Sweet Spot 建成隔绝外界的堡垒，如今却被渗透",
+      "quote": "Genevieve Caraway had built to protect herself from the outside world.",
+      "range": [
+        7832,
+        7902
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "millions of years",
+      "claim": "她把睡过头归因于进化留下的“倦怠”化学反应（数百万年的进化）",
+      "quote": "millions of years’ worth of evolution kicking in",
+      "range": [
+        215,
+        263
+      ]
+    },
+    {
+      "value": "double digits",
+      "claim": "她调侃 Luke 的回答音节数终于上到“两位数”，说明沟通有进步",
+      "quote": "I was getting syllable counts in the double digits here with these responses.",
+      "range": [
+        2088,
+        2165
+      ]
+    },
+    {
+      "value": "two pairs",
+      "claim": "靠墙放着两副滑雪板、一块单板与一块桨板",
+      "quote": "two pairs of skis, a snowboard, and a paddleboard",
+      "range": [
+        897,
+        946
+      ]
+    },
+    {
+      "value": "three or four",
+      "claim": "Dan 至少三四次提出要见 Austin Gregory",
+      "quote": "Least three or four times.”",
+      "range": [
+        6413,
+        6440
+      ]
+    },
+    {
+      "value": "late eighties",
+      "claim": "她父亲在八十年代末买了初代 BowFlex 健身器",
+      "quote": "My father had gotten one of the original BowFlex machines in the late eighties",
+      "range": [
+        3536,
+        3614
+      ]
+    },
+    {
+      "value": "six",
+      "claim": "西侧崖边有一排巨石，共六块，是建房时挖出堆在一侧的",
+      "quote": "Near the edge was a series of boulders, six in total.",
+      "range": [
+        9443,
+        9496
+      ]
+    },
+    {
+      "value": "a few inches",
+      "claim": "他深吸一口气，胸口抬高了数英寸才开口",
+      "quote": "He took a deep breath before answering me, his chest rising a few inches",
+      "range": [
+        6150,
+        6222
+      ]
+    },
+    {
+      "value": "one-night stand",
+      "claim": "她明确不把 Luke 当成一夜情对象",
+      "quote": "I would not treat him like a mere one-night stand.",
+      "range": [
+        2807,
+        2857
+      ]
+    },
+    {
+      "value": "a day’s worth",
+      "claim": "查了一整天，两人仍未弄清 Deirdre 如何潜入",
+      "quote": "any closer to solving after a day’s worth of investigating",
+      "range": [
+        8041,
+        8099
+      ]
+    },
+    {
+      "value": "one exception",
+      "claim": "她说除了一件拒绝去想的“例外”，从未与男人有过这般身体默契",
+      "quote": "Because with one exception—an exception I refused to dwell on",
+      "range": [
+        2858,
+        2919
+      ]
+    }
+  ],
+  "turning_point": "她在 Sweet Spot 西侧崖边发现一条系在巨石上、垂下悬崖的绳子，断定 Deirdre Gregory 正是攀绳潜入，且必有内应帮忙——案情由此破口，而她说自己已确信内应是谁。",
+  "notes": "结尾只说“确信是谁”却未点名，内应身份留待下一章；“one exception”具体所指本章未交代；Deirdre 投宿 La Dorada 与 Swole Squad 在该处聚会是否巧合，仅为主观揣测，未证实。"
+}

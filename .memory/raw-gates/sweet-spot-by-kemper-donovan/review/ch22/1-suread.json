@@ -1,0 +1,261 @@
+{
+ "chapter": 22,
+ "text_file": "text/ch22_chapter_22.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "凯与贝儿闭门商议下一位问话对象；门外传来主屋小提琴练琴声",
+   "quote": "I heard the sounds of a violin practice session starting up in the main house.",
+   "range": [
+    166,
+    244
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "凯提出新推测：吉纳维芙昨夜外出去了拉多拉达，并把迪尔德丽带了回来",
+   "quote": "Genevieve Caraway went to La Dorada when she left last night",
+   "range": [
+    3043,
+    3103
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "凯当面追究贝儿咳嗽示警之事，记她第一次犯规，再犯即逐出此案",
+   "quote": "So that was strike one, Belle, and since this isn’t baseball, you only get two.",
+   "range": [
+    4905,
+    4984
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "二人开始问询吉纳维芙之父塞缪尔·斯普鲁斯，指望他讲述女儿的过往",
+   "quote": "By the time Samuel Spruce was sitting in the red-and-orange armchair",
+   "range": [
+    5229,
+    5297
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "塞缪尔自述当年出柜，与妻子谢丽尔关系自此不睦，离婚由他主导",
+   "quote": "once I came out, and admitted to her and Genevieve I was gay",
+   "range": [
+    8013,
+    8073
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "贝儿问及谢丽尔的施粥所工作，那正是吉纳维芙遇见奥斯汀·格雷戈里的源头",
+   "quote": "her work in a soup kitchen that exposed Genevieve to Austin Gregory",
+   "range": [
+    10660,
+    10727
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "塞缪尔说罗斯本是谢丽尔的人，来家时才十八岁，起初更像吉纳维芙的保姆",
+   "quote": "She was also incredibly young, just eighteen years old.",
+   "range": [
+    13207,
+    13262
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "塞缪尔证实吉纳维芙与罗斯之间确有旧怨：失踪归家后两人地位仿佛互换",
+   "quote": "between her and Rose? It’s real. And it’s ancient.",
+   "range": [
+    15259,
+    15309
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "凯",
+   "b": "贝儿",
+   "rel": "侦探与协助写作者；贝儿因咳嗽示警被记一次犯规，再犯即被逐出此案",
+   "quote": "You pull another stunt like that and you are off this case for good.",
+   "range": [
+    5066,
+    5134
+   ]
+  },
+  {
+   "a": "塞缪尔·斯普鲁斯",
+   "b": "吉纳维芙",
+   "rel": "父女；他曾教她开车，却自认不是好父亲、女儿未必原谅他离开谢丽尔",
+   "quote": "And how about you and your daughter?",
+   "range": [
+    15921,
+    15957
+   ]
+  },
+  {
+   "a": "塞缪尔·斯普鲁斯",
+   "b": "谢丽尔·斯普鲁斯",
+   "rel": "前夫妻；他出柜后由他主导分居，谢丽尔始终笃信天主教",
+   "quote": "How were relations between you and your ex-wife?",
+   "range": [
+    7177,
+    7225
+   ]
+  },
+  {
+   "a": "罗斯·蒂洛哈希",
+   "b": "谢丽尔·斯普鲁斯",
+   "rel": "主仆而近母女；吉纳维芙失踪期间谢丽尔全靠罗斯支撑，二人形影不离",
+   "quote": "Cheryl and Rose were the ones joined at the hip.",
+   "range": [
+    14764,
+    14812
+   ]
+  },
+  {
+   "a": "吉纳维芙",
+   "b": "罗斯·蒂洛哈希",
+   "rel": "表面客气实则长期紧张，塞缪尔称这紧张「真实且由来已久」",
+   "quote": "between her and Rose? It’s real. And it’s ancient.",
+   "range": [
+    15259,
+    15309
+   ]
+  },
+  {
+   "a": "凯",
+   "b": "吉纳维芙",
+   "rel": "头号嫌疑对象；凯认定全案关键系于她，贝儿却决心为她洗清",
+   "quote": "Kay believed the entire case hinged on Genevieve",
+   "range": [
+    5603,
+    5651
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "fifteen years",
+   "claim": "凯从警十五年，据此判断犯罪动机往往极简单",
+   "quote": "If there’s one thing I’ve learned in fifteen years of police work",
+   "range": [
+    2057,
+    2122
+   ]
+  },
+  {
+   "value": "three kids and a fourth one on the way",
+   "claim": "凯已有三个孩子，第四胎在孕中",
+   "quote": "The woman had three kids and a fourth one on the way",
+   "range": [
+    3901,
+    3953
+   ]
+  },
+  {
+   "value": "yesterday",
+   "claim": "迪尔德丽·格雷戈里于昨日获释，吉纳维芙早知其出狱日期",
+   "quote": "Deirdre Gregory would be released yesterday",
+   "range": [
+    2859,
+    2902
+   ]
+  },
+  {
+   "value": "last night",
+   "claim": "凯推测吉纳维芙昨夜离家后去了拉多拉达",
+   "quote": "went to La Dorada when she left last night",
+   "range": [
+    3061,
+    3103
+   ]
+  },
+  {
+   "value": "twenty years",
+   "claim": "贝儿拒绝相信吉纳维芙隐忍二十年后突然发疯",
+   "quote": "after twenty years, Genevieve Caraway had gone crazy",
+   "range": [
+    5859,
+    5911
+   ]
+  },
+  {
+   "value": "sixty-ish",
+   "claim": "塞缪尔约六十岁，却穿着短裤与无袜球鞋",
+   "quote": "which should have been impossible for a sixty-ish man to pull off",
+   "range": [
+    6147,
+    6212
+   ]
+  },
+  {
+   "value": "fifteen-ish years ago",
+   "claim": "塞缪尔出柜分居约在十五年前，时吉纳维芙在欧柏林学院",
+   "quote": "This was fifteen-ish years ago, when Genevieve was at Oberlin",
+   "range": [
+    8752,
+    8813
+   ]
+  },
+  {
+   "value": "four",
+   "claim": "塞缪尔称罗斯来家时吉纳维芙四岁",
+   "quote": "Genny was four at the time.",
+   "range": [
+    12774,
+    12801
+   ]
+  },
+  {
+   "value": "Three",
+   "claim": "贝儿当场纠正为三岁，并说昨夜已谈过此事",
+   "quote": "“Three,” I said.",
+   "range": [
+    12805,
+    12821
+   ]
+  },
+  {
+   "value": "eighteen years old",
+   "claim": "罗斯初来时年仅十八，先做吉纳维芙的保姆",
+   "quote": "She was also incredibly young, just eighteen years old.",
+   "range": [
+    13207,
+    13262
+   ]
+  },
+  {
+   "value": "forty-nine",
+   "claim": "据此推算罗斯现年四十九岁，比贝儿原以为的年轻",
+   "quote": "That meant Rose was forty-nine now",
+   "range": [
+    13293,
+    13327
+   ]
+  },
+  {
+   "value": "fourteen",
+   "claim": "吉纳维芙十四岁生日当天，塞缪尔教她开车",
+   "quote": "I taught Genny to drive the day she turned fourteen",
+   "range": [
+    16858,
+    16909
+   ]
+  },
+  {
+   "value": "half a minute",
+   "claim": "塞缪尔抱头沉默约半分钟才继续谈父女关系",
+   "quote": "He brought his hands down about half a minute later",
+   "range": [
+    16753,
+    16804
+   ]
+  }
+ ],
+ "turning_point": "凯把矛头明确指向吉纳维芙——推测她昨夜亲自把迪尔德丽从拉多拉达带回宅中，并在追问中给贝儿记下「第一次犯规」；随后对塞缪尔·斯普鲁斯的问询翻出吉纳维芙与罗斯之间「真实且由来已久」的旧怨，把嫌疑线从母女引向主仆。",
+ "notes": "本章为第一人称（贝儿）叙述，问询尚未结束；凯的推测只是「勾选项更多」的假设，非定论。塞缪尔说罗斯来家时吉纳维芙四岁，贝儿纠正为三岁，原文并存两说。原文「once I—well」处为破折号断句，引用时保持原样。"
+}

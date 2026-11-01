@@ -1,0 +1,251 @@
+{
+  "chapter": 28,
+  "text_file": "text/ch28_chapter_28.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "Kay 结束汇报回到办公室，竖起拇指说上级让她照旧做，并反问叙述者这边的情况。",
+      "quote": "She gave me a thumbs-up. “Powers that be said to keep doing what I’m doing.",
+      "range": [
+        459,
+        534
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "叙述者把楼上与 Genevieve 的长谈转述给 Kay，Kay 只说她“有点不稳定”，叙述者却前所未有地确信这名嫌疑人无辜。",
+      "quote": "Never before had I been so convinced of a suspect’s innocence",
+      "range": [
+        1614,
+        1675
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "第一个受访谈的是 Kenji Nakamura，他反过来盘问两人，并主动把宅中每个人都列成嫌疑人，包括 Belle 自己。",
+      "quote": "First up was Kenji Nakamura, who had as many questions for us as we did for him.",
+      "range": [
+        2007,
+        2087
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "Abi Brooke 先用犹他亲戚关系套近乎，随后放话：若有人正式指控 Genevieve，她的律师团会兴风作浪。",
+      "quote": "I’ve got a squad of lawyers on speed dial who will raise holy hell",
+      "range": [
+        9438,
+        9504
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "Marilyn Stone 提供关键证词：夜里早些时候听见头顶有脚步声，而她房间上方并没有房间。",
+      "quote": "I heard a noise above me, what sounded like a footfall",
+      "range": [
+        10307,
+        10361
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Dan Caraway 受访时满头大汗、腿抖，承认院门钥匙一直挂在自己的钥匙圈上，并否认与 Deirdre 夫妇有任何接触。",
+      "quote": "It’s right here on my ring.” He lifted a small ring of keys",
+      "range": [
+        18561,
+        18620
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "谈完 Dan 后 Kay 坦白背景调查：Dan 的出身干净得像可被冒名顶替，两人尚未能排除“Dan 即 Eli”的猜想。",
+      "quote": "I was hoping to dismiss this whole Dan-as-Eli theory",
+      "range": [
+        20313,
+        20365
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "最后在厨房访谈 Rose Tillohash：她与 Cheryl Spruce 多次去监狱探视 Deirdre，只为告诉她上帝已原谅她，并暗指宅中“无神的人”利用了 Deirdre 的软弱。",
+      "quote": "“To let her know God forgave her.”",
+      "range": [
+        28860,
+        28894
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Belle",
+      "b": "Kay Adams",
+      "rel": "叙述者与警探搭档，并肩在办公室逐一问询众人",
+      "quote": "Kay and I settled ourselves on the leather sofa in the office",
+      "range": [
+        1773,
+        1834
+      ]
+    },
+    {
+      "a": "Abi Brooke",
+      "b": "Genevieve Caraway",
+      "rel": "挚友（BFF），Abi 自称曾发誓护她余生少受苦",
+      "quote": "by some miracle my best friend was returned to me",
+      "range": [
+        8547,
+        8596
+      ]
+    },
+    {
+      "a": "Rose Tillohash",
+      "b": "Cheryl Spruce",
+      "rel": "主仆兼信仰同伴，在 Genevieve 失踪期间变得亲密",
+      "quote": "Rose and his ex-wife had grown close during Genevieve’s absence",
+      "range": [
+        30364,
+        30427
+      ]
+    },
+    {
+      "a": "Dan Caraway",
+      "b": "Genevieve Caraway",
+      "rel": "夫妻，家中收入主要来自 Genevieve",
+      "quote": "Genevieve brought in the household money",
+      "range": [
+        15051,
+        15091
+      ]
+    },
+    {
+      "a": "Kenji Nakamura",
+      "b": "Samuel Spruce",
+      "rel": "伴侣，Kenji 自称“daddy 的正房”",
+      "quote": "Kenji Nakamura, daddy’s main squeeze.",
+      "range": [
+        4421,
+        4458
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "28",
+      "claim": "本章章号",
+      "quote": "CHAPTER 28",
+      "range": [
+        0,
+        10
+      ]
+    },
+    {
+      "value": "fourteen",
+      "claim": "Genevieve 受害时的年龄，Kay 认为动机都要回到那一年",
+      "quote": "what happened to Genevieve when she was fourteen",
+      "range": [
+        5260,
+        5308
+      ]
+    },
+    {
+      "value": "five years old",
+      "claim": "Abi 反问：难道因为 Genevieve 五岁时做的事就怀疑她",
+      "quote": "Because of something she did when she was five years old?",
+      "range": [
+        8374,
+        8431
+      ]
+    },
+    {
+      "value": "seven to eight",
+      "claim": "叙述者把与 Luke 的约会从七点推迟到八点",
+      "quote": "to push it back from seven to eight since it was getting late",
+      "range": [
+        23544,
+        23605
+      ]
+    },
+    {
+      "value": "eighteen-month-old",
+      "claim": "Kay 的耐心笑容连十八个月大的孩子都熟悉",
+      "quote": "familiar to eighteen-month-old LaKayla",
+      "range": [
+        28744,
+        28782
+      ]
+    },
+    {
+      "value": "nineties",
+      "claim": "Dan 说自己接受家庭教育在九十年代已属罕见",
+      "quote": "Pretty unusual back in the nineties, let me tell you.",
+      "range": [
+        17147,
+        17200
+      ]
+    },
+    {
+      "value": "fifteen-ish years ago",
+      "claim": "叙述者推测这间厨房在十五年前左右建得更像样",
+      "quote": "I guessed it had been a lot nicer fifteen-ish years ago",
+      "range": [
+        25996,
+        26051
+      ]
+    },
+    {
+      "value": "two",
+      "claim": "Abi 说两家有两位表亲结成了夫妻",
+      "quote": "two of their cousins had gotten married to each other a few years ago",
+      "range": [
+        6593,
+        6662
+      ]
+    },
+    {
+      "value": "zero",
+      "claim": "Dan 声称对现状零抱怨、零遗憾",
+      "quote": "I have zero complaints.” He paused. “And zero regrets.",
+      "range": [
+        18967,
+        19021
+      ]
+    },
+    {
+      "value": "single",
+      "claim": "厨房只有一扇窗，采光不足",
+      "quote": "the single window meant it didn’t get much light",
+      "range": [
+        25946,
+        25994
+      ]
+    },
+    {
+      "value": "two wall ovens",
+      "claim": "厨房右侧叠放两台嵌入式烤箱",
+      "quote": "two wall ovens stacked on top of each other",
+      "range": [
+        25130,
+        25173
+      ]
+    },
+    {
+      "value": "several times",
+      "claim": "Marilyn 说自己夜里常规性醒来数次",
+      "quote": "I wake up several times at night on a regular basis",
+      "range": [
+        10194,
+        10245
+      ]
+    },
+    {
+      "value": "Half",
+      "claim": "Dan 说 Genevieve 有一半时间在卧室里游荡",
+      "quote": "Half the time she’s wandering around our bedroom",
+      "range": [
+        14404,
+        14452
+      ]
+    }
+  ],
+  "turning_point": "Marilyn 声称半夜听见头顶有脚步声（而她房间上方并无房间），为“Deirdre 如何深夜进宅”提供了一条翻墙入院的路径；紧接 Dan 承认院门钥匙在自己手上、背景调查又指向冒名顶替，嫌疑重心从 Genevieve 转向 Dan。",
+  "notes": "Marilyn 的脚步声是否真实（可能被问询诱导出的“记忆植入”）叙述者明确存疑；Dan 是否即 Eli 未证实，只有“可被冒名”的条件；Rose 的指涉停在“无神的人利用了她”，未指名道姓。"
+}

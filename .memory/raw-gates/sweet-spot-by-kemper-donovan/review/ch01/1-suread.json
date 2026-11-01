@@ -1,0 +1,141 @@
+{
+  "chapter": "ch01",
+  "text_file": "text/ch01_chapter_1.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "邻座男子问叙述者这趟出行是公务还是玩乐，叙述者回答“公务”。",
+      "quote": "“Business,” I replied to my seatmate.",
+      "range": [
+        334,
+        371
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "邻座男子自称住在纽约、做金融，说要和几个大学同学去杰克逊霍尔徒步、打高尔夫。",
+      "quote": "“Yeah, me ’n’ a few college buddies’re going up to Jackson Hole, gonna do some hiking",
+      "range": [
+        835,
+        920
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "叙述者向邻座自称是自由撰稿人。",
+      "quote": "“I’m a freelance writer.”",
+      "range": [
+        2025,
+        2050
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "叙述者说要去和一位同事研讨优化策略，并指了指小桌板上的笔记本电脑。",
+      "quote": "“I’m on my way to workshop some optimization strategies with a colleague.”",
+      "range": [
+        2548,
+        2622
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "叙述者把手放到两人共用的扶手上，问邻座愿不愿意帮她。",
+      "quote": "I laid a hand on our shared armrest, beside the elbow he’d already shoved there.",
+      "range": [
+        3047,
+        3127
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "邻座男子嘟囔着拒绝，松开扶手，撕开空乘刚发的耳机包装塞进耳朵。",
+      "quote": "“Nah, nah, just gonna watch a movie,” he mumbled, relinquishing the armrest",
+      "range": [
+        3333,
+        3408
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "叙述者转回笔记本电脑，藏起笑容。",
+      "quote": "I returned to my laptop, hiding a smile.",
+      "range": [
+        3549,
+        3589
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "叙述者",
+      "b": "邻座男子",
+      "rel": "同机邻座的陌生人（她刻意不与他深谈）",
+      "quote": "We were going to be on a plane together for five hours.",
+      "range": [
+        372,
+        427
+      ]
+    },
+    {
+      "a": "邻座男子",
+      "b": "大学同学",
+      "rel": "结伴出游的旧友（徒步、打高尔夫）",
+      "quote": "a few college buddies’re going up to Jackson Hole",
+      "range": [
+        849,
+        898
+      ]
+    },
+    {
+      "a": "空乘",
+      "b": "乘客",
+      "rel": "分发免费耳机",
+      "quote": "complimentary headphones a flight attendant had just passed out",
+      "range": [
+        3430,
+        3493
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "five hours",
+      "claim": "叙述者与邻座将在飞机上共处五小时",
+      "quote": "We were going to be on a plane together for five hours.",
+      "range": [
+        372,
+        427
+      ]
+    },
+    {
+      "value": "a million reasons",
+      "claim": "叙述者认为出行的理由有上百万种（修辞用法）",
+      "quote": "There are a million reasons to go on a trip",
+      "range": [
+        79,
+        122
+      ]
+    },
+    {
+      "value": "second syllable",
+      "claim": "邻座把“pleasure”的第二个音节砍掉念成“pleazh”",
+      "quote": "lopped off the second syllable of “pleasure.”",
+      "range": [
+        707,
+        752
+      ]
+    },
+    {
+      "value": "five hours",
+      "claim": "她若说出真实身份，接下来五小时的机上时间就泡汤",
+      "quote": "the next five hours of my life",
+      "range": [
+        2433,
+        2463
+      ]
+    }
+  ],
+  "turning_point": "叙述者用“请你帮我干活”这句假求助把搭话的邻座逼退，随即预告这趟西行“甜点之地”的乐趣将以命案为代价——她从飞机闲谈转入对谋杀的自白。",
+  "notes": "1) 叙述者与邻座在本章均未出现姓名。2) 性别线索：她自称“golf spinster”，并说自己是“a woman who would prefer to remain single”，故为女性。3) 她的真实职业是替富人写回忆录的捉刀人（ghostwriter），私下写取材真实案件的推理小说；对邻座只说“freelance writer”，这句是省略而非谎言。4) 她说“除‘此行纯为公务’外，对他说的都不算谎”，故“出差”这件事本身为真、只是不“仅”为公务。5) “Sweet Spot”在本章只作为地名出现（“out West, at Sweet Spot”），具体是何场所（度假地/牧场/小镇）未交代。6) 末两段为闪前/预告（prolepsis），与本章机上场景不同时。7) “optimization strategies”“a colleague”均未具名，是否为烟雾弹无法从本章判定。"
+}

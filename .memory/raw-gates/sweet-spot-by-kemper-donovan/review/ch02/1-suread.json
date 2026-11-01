@@ -1,0 +1,275 @@
+{
+  "chapter": "ch02",
+  "text_file": "text/ch02_chapter_2.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "叙述者周三独自坐在纽约一间常去的餐厅里，等午饭约会对象出现。",
+      "quote": "I sat alone at one of my favorite restaurants downtown",
+      "range": [
+        156,
+        210
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "叙述者把 Tea & Sympathy 定为每次写完稿子才去的庆功地，这次写完第二部推理小说后选了它。",
+      "quote": "I made a habit of going to Tea & Sympathy whenever I finished a manuscript",
+      "range": [
+        1442,
+        1516
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "叙述者提前到场，为占住座位硬吃下两份沙丁鱼吐司。",
+      "quote": "forcing myself to scarf down two pieces of sardine-laden toast",
+      "range": [
+        4212,
+        4274
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "叙述者提前结掉第一顿午餐的账，好让 Denny 不知道她早到。",
+      "quote": "settled my bill for lunch number one so that Denny would be none the wiser",
+      "range": [
+        4415,
+        4489
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "叙述者几天前打电话给 Denny Peters，问他能不能再见一面。",
+      "quote": "I’d gone through the hell of calling him a few days earlier",
+      "range": [
+        2939,
+        2998
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Denny 在电话里喊着他本来也打算打电话给她。",
+      "quote": "I had it on my to-do list to call you!",
+      "range": [
+        3359,
+        3397
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "叙述者看手机，时间是十二点三十二。",
+      "quote": "I checked my phone: twelve thirty-two",
+      "range": [
+        6358,
+        6395
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "在叙述者认定他不会来之后，Denny 现身了。",
+      "quote": "And then he appeared.",
+      "range": [
+        6999,
+        7020
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "我（叙述者）",
+      "b": "Denny Peters",
+      "rel": "数年前在缅因州结识的旧识与一夜情对象，她当时给他的政客雇主当捉刀人",
+      "quote": "he’d been a bodyguard to a politician whose memoir I was ghostwriting",
+      "range": [
+        2583,
+        2652
+      ]
+    },
+    {
+      "a": "我（叙述者）",
+      "b": "女服务员",
+      "rel": "叙述者把这次约会告诉她、请她配合隐瞒早到，属临时倾诉",
+      "quote": "who I had decided to take into my confidence about my hot date",
+      "range": [
+        4577,
+        4639
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "Friday",
+      "claim": "航班定在周五",
+      "quote": "My flight was on Friday.",
+      "range": [
+        41,
+        65
+      ]
+    },
+    {
+      "value": "Two days earlier",
+      "claim": "叙述者回溯到两天前的那个周三",
+      "quote": "Two days earlier, on Wednesday",
+      "range": [
+        66,
+        96
+      ]
+    },
+    {
+      "value": "Wednesday",
+      "claim": "她在家、原本没有任何出行计划的那天",
+      "quote": "on Wednesday, I was at home in New York",
+      "range": [
+        84,
+        123
+      ]
+    },
+    {
+      "value": "a few years ago",
+      "claim": "她认识 Denny 是在几年前",
+      "quote": "I got to know him a few years ago, up in Maine",
+      "range": [
+        2524,
+        2570
+      ]
+    },
+    {
+      "value": "second",
+      "claim": "她刚写完的第二部推理小说",
+      "quote": "my second mystery manuscript",
+      "range": [
+        1623,
+        1651
+      ]
+    },
+    {
+      "value": "a quarter to noon",
+      "claim": "她到店的时间",
+      "quote": "I’d arrived at a quarter to noon",
+      "range": [
+        1806,
+        1838
+      ]
+    },
+    {
+      "value": "twelve thirty",
+      "claim": "两人约定的见面时间",
+      "quote": "we weren’t set to meet till twelve thirty",
+      "range": [
+        1847,
+        1888
+      ]
+    },
+    {
+      "value": "eleven forty-five",
+      "claim": "她实际到店的时间（与上条不一致，见 notes）",
+      "quote": "arriving at eleven forty-five",
+      "range": [
+        4178,
+        4207
+      ]
+    },
+    {
+      "value": "twelve fifteen",
+      "claim": "吐司和盘子都收走的时刻",
+      "quote": "By twelve fifteen",
+      "range": [
+        4330,
+        4347
+      ]
+    },
+    {
+      "value": "twelve thirty-two",
+      "claim": "她看手机时的时间",
+      "quote": "twelve thirty-two",
+      "range": [
+        6378,
+        6395
+      ]
+    },
+    {
+      "value": "eight minutes",
+      "claim": "距他“正式迟到”还剩的分钟数",
+      "quote": "eight minutes before he was officially late",
+      "range": [
+        6516,
+        6559
+      ]
+    },
+    {
+      "value": "ten-minute",
+      "claim": "人人都有的宽限时长",
+      "quote": "ten-minute grace period",
+      "range": [
+        6578,
+        6601
+      ]
+    },
+    {
+      "value": "Four minutes",
+      "claim": "她等待中过去的分钟数",
+      "quote": "Four minutes passed.",
+      "range": [
+        6624,
+        6644
+      ]
+    },
+    {
+      "value": "two pieces",
+      "claim": "她硬吞的沙丁鱼吐司片数",
+      "quote": "two pieces of sardine-laden toast",
+      "range": [
+        4241,
+        4274
+      ]
+    },
+    {
+      "value": "lunch number one",
+      "claim": "她提前吃掉的那顿午餐的序号",
+      "quote": "lunch number one",
+      "range": [
+        4435,
+        4451
+      ]
+    },
+    {
+      "value": "just the once",
+      "claim": "缅因州那次性关系发生的次数",
+      "quote": "It happened just the once",
+      "range": [
+        2839,
+        2864
+      ]
+    },
+    {
+      "value": "twenties or thirties",
+      "claim": "她说的“该在什么年纪弄明白”的年龄段",
+      "quote": "in one’s twenties or thirties rather than one’s forties",
+      "range": [
+        3822,
+        3877
+      ]
+    },
+    {
+      "value": "A or an A+",
+      "claim": "她学生时代成绩单上几乎总是的分数",
+      "quote": "It was almost always an A or an A+",
+      "range": [
+        5113,
+        5147
+      ]
+    },
+    {
+      "value": "seventies",
+      "claim": "她近期在看的电影年代",
+      "quote": "seventies movie kick",
+      "range": [
+        6825,
+        6845
+      ]
+    }
+  ],
+  "turning_point": "她等到十二点三十二认定 Denny 不会来、把自己骂到一文不值，紧接着他却出现在店门口。",
+  "notes": "1) 本章未出现叙述者姓名，relations 里以“我（叙述者）”指代；Denny Peters 是她当年在缅因州当捉刀人时、那位政客的保镖。2) 时间线内部一致但说法重复：她自述“a quarter to noon”到店，第 34 行又写“arriving at eleven forty-five”，同指 11:45；约定时间在两处均为“twelve thirty”；12:15 结清第一顿的账，12:32 看手机，自认“他还有八分钟才正式算迟到”（宽限十分钟）。3) 她对服务员说“lunch number one”，暗示她把自己这顿算作第一顿、与 Denny 的那顿是第二顿，章节内未再解释。4) “just the once”指缅因州那一次性关系；“第二部推理小说”暗示此前已写完第一部，章内未给书名。5) 结尾“And then he appeared.”是他到场，但没有写他的动作或台词，下一章才有互动。"
+}

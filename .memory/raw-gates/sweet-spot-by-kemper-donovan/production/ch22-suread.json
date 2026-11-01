@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch22",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch22_chapter_22.txt",
+ "facts": [
+  {
+   "fact": "Kay 以十五年办案经验断言：人做的坏事动机都很简单，犯罪本身才是愚蠢的",
+   "anchor": "in fifteen years of police work",
+   "start": 2091,
+   "end": 2122
+  },
+  {
+   "fact": "Kay 提出 Genevieve 昨夜开车出门去了 La Dorada，并把 Deirdre 带回庄园",
+   "anchor": "went to La Dorada when she left last night",
+   "start": 3061,
+   "end": 3103
+  },
+  {
+   "fact": "Kay 点明她没漏看叙述者用一声咳嗽给 Genevieve 递信号",
+   "anchor": "the way you coughed a warning to Mrs. Caraway",
+   "start": 4196,
+   "end": 4241
+  },
+  {
+   "fact": "Kay 给出最后通牒：再玩一次这种把戏就永久滚出这个案子",
+   "anchor": "you are off this case for good",
+   "start": 5103,
+   "end": 5133
+  },
+  {
+   "fact": "Samuel 说 Cheryl 若还在世会被这件事击垮，又说她不在了反倒是好事",
+   "anchor": "It’s a good thing she isn’t around",
+   "start": 6940,
+   "end": 6974
+  },
+  {
+   "fact": "Samuel 说出柜后向 Cheryl 与 Genevieve 承认自己是同性恋，关系从此不好",
+   "anchor": "admitted to her and Genevieve I was gay",
+   "start": 8034,
+   "end": 8073
+  },
+  {
+   "fact": "叙述者交代 Cheryl 在盐湖城救济厨房长期做义工，Genevieve 跟去帮忙",
+   "anchor": "in a soup kitchen in downtown Salt Lake City",
+   "start": 10959,
+   "end": 11003
+  },
+  {
+   "fact": "Samuel 对叙述者说 Genevieve 与 Rose 之间的紧张是真的、而且由来已久",
+   "anchor": "But that tension you picked up on, between her and Rose",
+   "start": 15224,
+   "end": 15279
+  }
+ ]
+}

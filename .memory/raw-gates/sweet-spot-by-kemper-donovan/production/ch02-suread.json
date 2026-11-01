@@ -1,0 +1,61 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch02",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "叙述者交代自己的航班在周五",
+   "anchor": "My flight was on Friday",
+   "start": 41,
+   "end": 64
+  },
+  {
+   "fact": "两天前的周三她在纽约家中",
+   "anchor": "on Wednesday, I was at home in New York",
+   "start": 84,
+   "end": 123
+  },
+  {
+   "fact": "她刚写完第二部推理小说稿",
+   "anchor": "I had just finished my second mystery manuscript",
+   "start": 1603,
+   "end": 1651
+  },
+  {
+   "fact": "这顿午饭的同伴是丹尼·彼得斯",
+   "anchor": "My companion was a man named Denny Peters.",
+   "start": 2481,
+   "end": 2523
+  },
+  {
+   "fact": "当年他在缅因给一位政客当保镖，她正替这位政客写回忆录",
+   "anchor": "he’d been a bodyguard to a politician whose memoir I was ghostwriting",
+   "start": 2583,
+   "end": 2652
+  },
+  {
+   "fact": "她打电话给丹尼，问能否再见一面",
+   "anchor": "asking if I could see him again",
+   "start": 3004,
+   "end": 3035
+  },
+  {
+   "fact": "两人把见面定在十二点半的 Tea & Sympathy",
+   "anchor": "making a date for twelve thirty at Tea & Sympathy",
+   "start": 4108,
+   "end": 4157
+  },
+  {
+   "fact": "她十一点四十五就到了",
+   "anchor": "arriving at eleven forty-five",
+   "start": 4178,
+   "end": 4207
+  },
+  {
+   "fact": "十二点三十二分她看了手机",
+   "anchor": "I checked my phone: twelve thirty-two",
+   "start": 6358,
+   "end": 6395
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "chapter": 30,
+ "text_file": "text/ch30_chapter_30.txt",
+ "facts": [
+  {
+   "n": 1,
+   "claim": "凯在会客室打哈欠，说要回房休息，并把去拉多拉达旅馆问话推到周一。",
+   "quote": "“Andy’ll be busy with church matters all day tomorrow,” she said. “It can wait.”",
+   "range": [
+    804,
+    884
+   ]
+  },
+  {
+   "n": 2,
+   "claim": "叙述者为与卢克的约会纠结半多小时该不该换衣服，最终只换上衣和鞋子。",
+   "quote": "whether I should change or not for my date with Luke",
+   "range": [
+    2696,
+    2748
+   ]
+  },
+  {
+   "n": 3,
+   "claim": "六点五十五分锣声三响，叙述者给吉纳维芙发短信说自己要“出去吃饭”。",
+   "quote": "At five minutes to seven, three shimmery, tremulous reverberations rang out",
+   "range": [
+    4505,
+    4580
+   ]
+  },
+  {
+   "n": 4,
+   "claim": "在“大窝”楼梯口撞见KENJI，他调了威士忌酸酒，并说那幅母子画其实是圣母与圣母之母（玛利亚才是婴孩）。",
+   "quote": "it’s actually a Virgin and mother. That’s right, Mary’s the baby.",
+   "range": [
+    7757,
+    7822
+   ]
+  },
+  {
+   "n": 5,
+   "claim": "KENJI临走前暗示该再找SAM问吉纳维芙被绑架那天的实情，随后带着行李箱去拉多拉达旅馆。",
+   "quote": "“The La Dorada Inn and Suites, but of course. It’s close",
+   "range": [
+    11565,
+    11621
+   ]
+  },
+  {
+   "n": 6,
+   "claim": "在意大利餐厅“CHEZ ITALIE”，卢克戴老花镜，说自己下月五十一，叙述者说自己四十二。",
+   "quote": "When I got to the restaurant, I was doubly glad I’d changed.",
+   "range": [
+    13199,
+    13259
+   ]
+  },
+  {
+   "n": 7,
+   "claim": "卢克开吉普送她回家，一路上谈 DEIRDRE；叙述者据此确认卢克不是ELI PRATT。",
+   "quote": "Luke was not Eli. At fifty, he was a decade too old.",
+   "range": [
+    20377,
+    20429
+   ]
+  },
+  {
+   "n": 8,
+   "claim": "两人回到卢克的一居室公寓，发生关系后她借机检查他右腕有无痣或疤——什么也没有。",
+   "quote": "checking the full circumference of his right wrist for a mole or scar",
+   "range": [
+    22511,
+    22580
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "凯·亚当斯",
+   "b": "安迪·拉斯穆森",
+   "rel": "凯认识的地方要人，经营拉多拉达旅馆、在本地像镇长一样管用",
+   "quote": "Andy Rasmussen, is like the town mayor around these parts.",
+   "range": [
+    366,
+    424
+   ]
+  },
+  {
+   "a": "KENJI·中村",
+   "b": "吉纳维芙",
+   "rel": "他借住在她宅子里、被“请走”，还议论她把画挂哪",
+   "quote": "I wonder if Saint Cheryl made Genevieve put that painting where the booze was",
+   "range": [
+    7058,
+    7135
+   ]
+  },
+  {
+   "a": "KEJI·中村",
+   "b": "DEIRDRE GREGORY",
+   "rel": "他曾去探访过她一次，如今被怀疑与她之死有关",
+   "quote": "because of that one time I visited her",
+   "range": [
+    12556,
+    12594
+   ]
+  },
+  {
+   "a": "卢克·富尔顿",
+   "b": "奥斯汀",
+   "rel": "他是狱方看护奥斯汀的人，人称“奥斯汀读心者”",
+   "quote": "“Do you mind that people call you the Austin Whisperer?” I asked him.",
+   "range": [
+    19629,
+    19698
+   ]
+  },
+  {
+   "a": "叙述者",
+   "b": "卢克·富尔顿",
+   "rel": "初次约会即上床的情人关系",
+   "quote": "Never before had I agreed to go back to a man’s home on the first date.",
+   "range": [
+    15870,
+    15941
+   ]
+  },
+  {
+   "a": "叙述者",
+   "b": "凯·亚当斯",
+   "rel": "当日搭档查案，相处极融洽",
+   "quote": "Kay Adams and I had gotten along extremely well that day.",
+   "range": [
+    9553,
+    9610
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "six",
+   "claim": "她动身时已过六点，还得换衣赶八点的饭局",
+   "quote": "It was well past six by then, and I still had to change",
+   "range": [
+    678,
+    733
+   ]
+  },
+  {
+   "value": "eight o’clock",
+   "claim": "卢克订的餐厅约在八点",
+   "quote": "myself to the restaurant Luke had chosen, by eight o’clock.",
+   "range": [
+    742,
+    801
+   ]
+  },
+  {
+   "value": "five minutes to seven",
+   "claim": "晚上六点五十五分，锣声响三下",
+   "quote": "At five minutes to seven, three shimmery, tremulous reverberations rang out",
+   "range": [
+    4505,
+    4580
+   ]
+  },
+  {
+   "value": "fifteen minutes",
+   "claim": "叫的优步要十五分钟才到",
+   "quote": "I ordered an Uber, which would take fifteen minutes to get there",
+   "range": [
+    5318,
+    5382
+   ]
+  },
+  {
+   "value": "three",
+   "claim": "锣被连敲三下",
+   "quote": "three shimmery, tremulous reverberations rang out",
+   "range": [
+    4531,
+    4580
+   ]
+  },
+  {
+   "value": "half hour",
+   "claim": "她为换不换衣服纠结了半小时",
+   "quote": "I spent a good half hour dithering",
+   "range": [
+    2656,
+    2690
+   ]
+  },
+  {
+   "value": "fifty-one",
+   "claim": "卢克自称下月满五十一岁",
+   "quote": "“I’ll be fifty-one next month.”",
+   "range": [
+    14147,
+    14178
+   ]
+  },
+  {
+   "value": "forty-two",
+   "claim": "叙述者自称四十二岁",
+   "quote": "“Well, I’m forty-two and in the same predicament.”",
+   "range": [
+    14181,
+    14231
+   ]
+  },
+  {
+   "value": "forty",
+   "claim": "他夸她看着不到四十",
+   "quote": "You don’t look a day over forty.",
+   "range": [
+    14111,
+    14143
+   ]
+  },
+  {
+   "value": "two",
+   "claim": "凯说忙到两点左右就有空",
+   "quote": "be done with all that by two or so",
+   "range": [
+    1630,
+    1664
+   ]
+  },
+  {
+   "value": "Monday",
+   "claim": "查旅馆的事推到周一",
+   "quote": "we’ll have to leave that for Monday",
+   "range": [
+    480,
+    515
+   ]
+  },
+  {
+   "value": "Sunday",
+   "claim": "次日是周日，但商店并不因此全关",
+   "quote": "“Tomorrow’s Sunday. Everything’s closed, right?”",
+   "range": [
+    912,
+    960
+   ]
+  },
+  {
+   "value": "ten, maybe twenty degrees",
+   "claim": "出门后气温降了十到二十度",
+   "quote": "dropped by at least ten, maybe twenty degrees",
+   "range": [
+    12075,
+    12120
+   ]
+  },
+  {
+   "value": "one-bedroom",
+   "claim": "卢克住的是一居室公寓",
+   "quote": "Luke had a one-bedroom condo within a complex, which surprised me.",
+   "range": [
+    20913,
+    20979
+   ]
+  },
+  {
+   "value": "nine months",
+   "claim": "天使报喜后九个月生下玛利亚",
+   "quote": "And nine months later, they had Mary.",
+   "range": [
+    8608,
+    8645
+   ]
+  }
+ ],
+ "turning_point": "叙述者赴卢克之约并跟他回公寓过夜；她在床上借机查验他右腕，确认他身上没有痣或疤——卢克·富尔顿确实不是伊莱·普拉特，主线嫌疑方向被排除。",
+ "notes": "本章大量篇幅写约会与情爱场面，与案件直接相关的只有KENJI的暗示（再问SAM）和他搬去拉多拉达旅馆；公寓清洁程度、卢克年龄（五十一）与叙述者年龄（四十二）、卢克“不是伊莱”的推断均为叙述者单方结论，原书未给第三方印证。"
+}

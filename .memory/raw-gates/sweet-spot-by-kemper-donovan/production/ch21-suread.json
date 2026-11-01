@@ -1,0 +1,79 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch21",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch21_chapter_21.txt",
+ "facts": [
+  {
+   "fact": "叙述者与 Kay 在宅子西塔楼找到 Genevieve",
+   "anchor": "We found Genevieve in the West Tower.",
+   "start": 13,
+   "end": 50
+  },
+  {
+   "fact": "她的办公室被大平桌、文件柜和书架塞得满满当当",
+   "anchor": "Genevieve’s office was cluttered with a big flattop desk",
+   "start": 275,
+   "end": 331
+  },
+  {
+   "fact": "Kay 举起手机要求为这次问话录音，说这是标准程序",
+   "anchor": "Do you mind if I record this? It’s standard procedure.",
+   "start": 1849,
+   "end": 1903
+  },
+  {
+   "fact": "但 Kay 先前问门卫 Alberto 时并没有录音",
+   "anchor": "Except that she hadn’t recorded our interview with Alberto.",
+   "start": 1907,
+   "end": 1966
+  },
+  {
+   "fact": "Genevieve 把 Kay 的「节哀」误当成在说 Deirdre",
+   "anchor": "You don’t think I’m sad that woman is dead, do you?",
+   "start": 2240,
+   "end": 2291
+  },
+  {
+   "fact": "她说那女人自己选择死在她家门口，不是她的错",
+   "anchor": "It’s not my fault that woman decided to die on my doorstep.",
+   "start": 3749,
+   "end": 3808
+  },
+  {
+   "fact": "她说是 Abi 今早告诉她 Deirdre 昨晚威胁过她",
+   "anchor": "Abi told me this morning.",
+   "start": 3983,
+   "end": 4008
+  },
+  {
+   "fact": "她解释自己只是不愿提那两个人的名字",
+   "anchor": "They’re not Voldemort.",
+   "start": 4334,
+   "end": 4356
+  },
+  {
+   "fact": "她说自己凌晨两点出门、四点回来",
+   "anchor": "I left at two and came back at four",
+   "start": 6502,
+   "end": 6537
+  },
+  {
+   "fact": "她承认回来时可能没有把前门重新锁上",
+   "anchor": "it’s possible I didn’t",
+   "start": 8460,
+   "end": 8482
+  },
+  {
+   "fact": "Kay 问前门一共有几把钥匙",
+   "anchor": "how many house keys are there for the front door?",
+   "start": 10111,
+   "end": 10160
+  },
+  {
+   "fact": "Genevieve 说四把钥匙分别在她、Rose、Abi 和 Dan 手里",
+   "anchor": "I’ve got one and so does Rose.",
+   "start": 10204,
+   "end": 10234
+  }
+ ]
+}

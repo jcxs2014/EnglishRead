@@ -1,0 +1,55 @@
+{
+ "book": "sweet-spot-by-kemper-donovan",
+ "chapter": "ch15",
+ "text": "notes/books/mystery-thriller/sweet-spot-by-kemper-donovan/text/ch15_chapter_15.txt",
+ "facts": [
+  {
+   "fact": "时差未消，叙述者四点三十分出头就放弃再睡，摸黑起床写稿",
+   "anchor": "It was just after four thirty when I gave up on sleeping",
+   "start": 192,
+   "end": 248
+  },
+  {
+   "fact": "她清早给 Luke Fulton 发短信，说昨夜已把不速之客赶走、警察上午会来",
+   "anchor": "We sent her packing, I wrote. Police are coming by this AM.",
+   "start": 3150,
+   "end": 3209
+  },
+  {
+   "fact": "警车灯光照进窗时她看表，离七点还差四分钟",
+   "anchor": "Four minutes to seven, eek",
+   "start": 4606,
+   "end": 4632
+  },
+  {
+   "fact": "她查天气，得知当天最高气温九十二华氏度、紫外线指数十级",
+   "anchor": "the air temperature would peak at ninety-two degrees that day",
+   "start": 4718,
+   "end": 4779
+  },
+  {
+   "fact": "她换上黑色百褶裙与泡泡袖上衣，为下午的约会打扮",
+   "anchor": "putting on a pleated dirndl skirt",
+   "start": 4845,
+   "end": 4878
+  },
+  {
+   "fact": "她下楼发现屋里没人，这本来该是第一个不对劲的信号",
+   "anchor": "No one was there, which should have been my first clue",
+   "start": 5409,
+   "end": 5463
+  },
+  {
+   "fact": "她循着对讲机的电流声，看见一名女警站在庭院中央低头凝视",
+   "anchor": "I saw a uniformed policewoman standing in the middle of the courtyard",
+   "start": 6131,
+   "end": 6200
+  },
+  {
+   "fact": "她走近看清长椅上蜷成胎儿状的 Deirdre Gregory 已经死了",
+   "anchor": "Deirdre Gregory was dead.",
+   "start": 7993,
+   "end": 8018
+  }
+ ]
+}

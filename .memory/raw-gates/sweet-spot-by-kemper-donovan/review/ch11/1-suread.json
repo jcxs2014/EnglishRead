@@ -1,0 +1,252 @@
+{
+  "chapter": "ch11",
+  "text_file": "text/ch11_chapter_11.txt",
+  "facts": [
+    {
+      "n": 1,
+      "claim": "Dan Caraway 从厨房门钻出来，一边啃苹果一边又递了一个给儿子 Seth。",
+      "quote": "crunching into an apple, holding out another one for his son",
+      "range": [
+        1019,
+        1079
+      ]
+    },
+    {
+      "n": 2,
+      "claim": "Genevieve 把 Belle 领到钢琴旁，介绍金发女人 Marilyn 是自己 Oberlin 的同学。",
+      "quote": "“Marilyn and I were in school together,” Genevieve was telling me.",
+      "range": [
+        3196,
+        3262
+      ]
+    },
+    {
+      "n": 3,
+      "claim": "Belle 误问爱乐乐团雇几位钢琴家，Genevieve 插话澄清 Marilyn 是小提琴手。",
+      "quote": "“Marilyn is a violinist,” explained Genevieve",
+      "range": [
+        6366,
+        6411
+      ]
+    },
+    {
+      "n": 4,
+      "claim": "Marilyn 提出让 Seth 暑假去 Institute，并说自己身为董事可以替他美言。",
+      "quote": "a summer at the Institute would do wonders for him",
+      "range": [
+        7220,
+        7270
+      ]
+    },
+    {
+      "n": 5,
+      "claim": "Marilyn 约 Genevieve 次日早上带 Seth 到 Music Room 一起练琴，随即上楼回房。",
+      "quote": "I want you and him to meet me tomorrow morning for a practice session",
+      "range": [
+        8404,
+        8473
+      ]
+    },
+    {
+      "n": 6,
+      "claim": "Genevieve 告诉 Belle，Seth 在家上学，她与 Dan 分担教学。",
+      "quote": "He’s homeschooled, and Dan and I divide up teaching responsibilities.",
+      "range": [
+        12030,
+        12099
+      ]
+    },
+    {
+      "n": 7,
+      "claim": "Rose 纠正 Genevieve：她是 Genevieve 四岁生日前六周来的，那时才三岁。",
+      "quote": "“It was six weeks before your fourth birthday,” said Rose.",
+      "range": [
+        15799,
+        15857
+      ]
+    },
+    {
+      "n": 8,
+      "claim": "Abi 低声告诉众人 Deirdre Gregory 已在大门外，并要求进来。",
+      "quote": "“Deirdre Gregory,” hissed Abi. “She’s outside, at the gate. And she wants in.”",
+      "range": [
+        20517,
+        20595
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Belle",
+      "b": "Genevieve Caraway",
+      "rel": "代笔作家与客户；见面即谈得比通常与客户更快更深",
+      "quote": "We were getting deep much faster than I tended to do with clients",
+      "range": [
+        11518,
+        11583
+      ]
+    },
+    {
+      "a": "Genevieve Caraway",
+      "b": "Marilyn Stone",
+      "rel": "Oberlin 同学、多年好友，Genevieve 请她为 Seth 伴奏",
+      "quote": "which is why I asked her to accompany Seth",
+      "range": [
+        6616,
+        6658
+      ]
+    },
+    {
+      "a": "Marilyn Stone",
+      "b": "Seth Caraway",
+      "rel": "钢琴伴奏者，力主他去 Institute 学琴",
+      "quote": "I’m on the board, I can put in a good word",
+      "range": [
+        7310,
+        7352
+      ]
+    },
+    {
+      "a": "Rose Tillohash",
+      "b": "Genevieve Caraway",
+      "rel": "雇员兼家人（Genevieve 称她“把我们这个家粘起来的人”），两人暗中有摩擦",
+      "quote": "If I didn’t know any better, I would say these two didn’t like each other.",
+      "range": [
+        16018,
+        16092
+      ]
+    },
+    {
+      "a": "Rose Tillohash",
+      "b": "Cheryl Spruce",
+      "rel": "Cheryl 在纳瓦霍保留地传教时“救了”Rose",
+      "quote": "“Mrs. Spruce saved me,” said Rose.",
+      "range": [
+        17258,
+        17292
+      ]
+    },
+    {
+      "a": "Genevieve Caraway",
+      "b": "Seth Caraway",
+      "rel": "母子；Genevieve 亲自在家教他功课",
+      "quote": "Genevieve’s voice rang out with the irrefutable authority of a parent.",
+      "range": [
+        20220,
+        20290
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "fourteen",
+      "claim": "Marilyn 说 Seth 十四岁",
+      "quote": "He’s fourteen, isn’t he?",
+      "range": [
+        8128,
+        8152
+      ]
+    },
+    {
+      "value": "eight-year-olds",
+      "claim": "Marilyn 说去 Institute 的还有八岁小孩",
+      "quote": "There are eight-year-olds who attend.",
+      "range": [
+        8173,
+        8210
+      ]
+    },
+    {
+      "value": "ninety-nine percent",
+      "claim": "世上九成九的铂金发色是化学损伤的",
+      "quote": "ninety-nine percent of platinum hair you see out in the world",
+      "range": [
+        4251,
+        4312
+      ]
+    },
+    {
+      "value": "forty",
+      "claim": "Margaret Fuller 死时仅四十岁",
+      "quote": "She was only forty.",
+      "range": [
+        12610,
+        12629
+      ]
+    },
+    {
+      "value": "forty-one",
+      "claim": "Jane Austen 四十一岁去世",
+      "quote": "Jane Austen, dead at forty-one",
+      "range": [
+        12775,
+        12805
+      ]
+    },
+    {
+      "value": "forty-two",
+      "claim": "Belle 自称现年四十二岁",
+      "quote": "beyond my current forty-two years",
+      "range": [
+        12863,
+        12896
+      ]
+    },
+    {
+      "value": "fifty",
+      "claim": "Belle 猜 Rose 五十岁以上",
+      "quote": "I guessed she had to be north of fifty",
+      "range": [
+        15649,
+        15687
+      ]
+    },
+    {
+      "value": "thirty years",
+      "claim": "Belle 推算 Rose 在 Caraway 家已三十年",
+      "quote": "You’ve been with the family for thirty years then",
+      "range": [
+        16096,
+        16145
+      ]
+    },
+    {
+      "value": "six weeks",
+      "claim": "Rose 说她是 Genevieve 四岁生日前六周来的",
+      "quote": "It was six weeks before your fourth birthday",
+      "range": [
+        15800,
+        15844
+      ]
+    },
+    {
+      "value": "four",
+      "claim": "Genevieve 坚持自己当时四岁",
+      "quote": "“No, I was four.”",
+      "range": [
+        15779,
+        15796
+      ]
+    },
+    {
+      "value": "three",
+      "claim": "Rose 坚持 Genevieve 当时三岁",
+      "quote": "“Three years old,” said Rose.",
+      "range": [
+        15747,
+        15776
+      ]
+    },
+    {
+      "value": "second floor",
+      "claim": "Marilyn 径直上楼去二楼",
+      "quote": "whisking herself up the stairs to the second floor of the house",
+      "range": [
+        8767,
+        8830
+      ]
+    }
+  ],
+  "turning_point": "Rose 接到电话转告 Genevieve 后，Abi 失声惊呼——Deirdre Gregory 已到大门外并要求进来，本章在“她想要进来”处收束。",
+  "notes": "Belle 即叙述者（她自报“I’m Belle”）；其姓未在本章出现。Rose 的姓 Tillohash 是叙述者“后来才知道”的追述。Genevieve 与 Rose 关于“三岁/四岁”的争执谁对谁错，文本未裁决；Belle 只判断两人互不喜欢。Deirdre Gregory 的身份与来意在本章未交代。"
+}
