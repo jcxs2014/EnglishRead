@@ -29,21 +29,31 @@ modified: "2026-11-01"
 - **为什么这样写**：最硬的条件由他自己先说出来，而不是留给代表团在谈判桌上翻开。「I might as well tell you now」把它定性成私下通报：她提前知道，就不会在正式会面时被顶到墙角。
 - **读者视角提示**：他先让对方把卷轴放下、再开口，动作顺序本身是礼数——先收下对方的东西，才交出自己的底牌。
 
-> **原句 3:** "On that otherwise empty stretch of shoreline, beneath an overcast sky, the World-Eater rested its great horned head on its curled-up forelimbs, claws digging into the sand. The rest of its body was in the water, waves crashing against scales that mounded out of the azure currents like pale hills."
+> **原句 3:** "On his way back to the infirmary, however, an unsettling report came in via messenger skua from the eastern coast. He gave Sevraim strict orders to not leave Talasyn unattended for even a second, then he took a wolf coracle because it was fastest. The sooner he got there, the sooner he could return and wait for her to wake up."
+
+- **中文理解**：可是在回医务室的路上，东海岸经信鹰送来一份令人不安的报告。他给塞夫雷姆下了死命令：一秒钟都不许让塔拉辛无人守着；然后他乘上狼形小艇，因为那是最快的。越早到那儿，就能越早回来、等她醒来。
+
+- **关键词**：messenger skua · strict orders · wolf coracle
+
+- **为什么这样写**：三句话都在算时间：「一秒钟」不许离开、「最快」的船、「越早……越早……」。一个人刚谈完一场停火，转身就用这种算法说话，读者就知道他此刻最在意的是什么。
+
+- **读者视角提示**：这一块是本章的转场：前半在场面上谈和约，后半在一整片只有沙、云和海浪的海滩上，一头巨龙正在死去。前一段（不在本块引语内）是维拉问能不能去看塔拉辛——他僵硬地答应了。
+
+> **原句 4:** "On that otherwise empty stretch of shoreline, beneath an overcast sky, the World-Eater rested its great horned head on its curled-up forelimbs, claws digging into the sand. The rest of its body was in the water, waves crashing against scales that mounded out of the azure currents like pale hills."
 
 - **中文理解**：在那片除此之外空无一物的海滩上，阴云之下，噬世者把巨大的角状头颅搁在蜷起的前肢上，爪子插进沙里。它身体其余部分都在水中，海浪撞上鳞甲，那鳞甲从碧蓝的海流里隆起，像苍白的丘陵。
 - **关键词**：overcast sky · curled-up forelimbs · azure currents
 - **为什么这样写**：先给地貌，再给生物。鳞背被写成「pale hills」，读者先看到一片像丘陵的轮廓，随后才意识到那是活的——尺度感比直接说「巨大」有力得多。
 - **读者视角提示**：同一段开头交代，所有内纳瓦伦龙在战后都已没入越海，只剩巴昆；这片滩之所以「empty」，是因为别处已经没有龙了。
 
-> **原句 4:** "In the pallid daylight, on a drab brown beach under metal-gray clouds, Bakun no longer shone like snow. He had taken on the flat whiteness of aged bone. Death came to all things at the end, even to the World-Eater, who was the stuff of folklore."
+> **原句 5:** "In the pallid daylight, on a drab brown beach under metal-gray clouds, Bakun no longer shone like snow. He had taken on the flat whiteness of aged bone. Death came to all things at the end, even to the World-Eater, who was the stuff of folklore."
 
 - **中文理解**：在惨白的天光下，在铁灰色云层底下一片暗褐的海滩上，巴昆不再像雪那样发亮。它褪成了陈年骨头那种没有光泽的白。死亡终究会来到一切事物身上，连身为传说材料的噬世者也不例外。
 - **关键词**：pallid daylight · aged bone · metal-gray clouds
 - **为什么这样写**：整段绕着白色转：先是「like snow」，再是「aged bone」，同一种颜色被换成两种质地，读者不必被告知病危就明白发生了什么。三句一层层往外推，最后一句才把话说到「一切事物」。
 - **读者视角提示**：注意「the stuff of folklore」这个说法——巴昆本来就是故事里的东西，叙述者现在把它放回故事，也放在故事的尽头。
 
-> **原句 5:** "After a while, it seemed to be time. Bakun lifted his head, aether flaring briefly in its eyes. It was the last time that the light of the Voidfell would ever spark on Lir from its living source."
+> **原句 6:** "After a while, it seemed to be time. Bakun lifted his head, aether flaring briefly in its eyes. It was the last time that the light of the Voidfell would ever spark on Lir from its living source."
 
 - **中文理解**：过了一会儿，时候似乎到了。巴昆抬起头，眼中的以太短暂地一闪。那是虚空坠焰之光最后一次从它活着的源头照到里尔上。
 - **关键词**：last time · living source · aether flaring

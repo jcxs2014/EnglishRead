@@ -1,0 +1,150 @@
+{
+  "chapter": "ch50",
+  "source": "text/ch50_chapter_fifty.txt",
+  "char_total": 12071,
+  "events": [
+    {
+      "n": 1,
+      "summary": "一百条龙从海面下涌出，扑向凯萨瑟叛军的飞艇群，咬碎小船、以火焰熔化铁甲舰。",
+      "quote": "A hundred dragons in all sizes and colors, emerging from beneath the waves, their massive wings carrying them to the tangle of airships within seconds.",
+      "start": 786,
+      "end": 937
+    },
+    {
+      "n": 2,
+      "summary": "弓帆船中弹下坠，阿拉里克张开影门护住两人，船撞地碎成数十片，他们却安然落在沙滩与岩石上。",
+      "quote": "The Shadowgate blossomed around her. Around them both. A sphere of star-streaked midnight. The bowrider crashed into the ground hard enough that it fragmented into dozens of pieces",
+      "start": 2307,
+      "end": 2487
+    },
+    {
+      "n": 3,
+      "summary": "凯德驾绘有萨多维亚凤凰的小船从东面赶到，一轮铁弩把领头敌船打得偏离航线。",
+      "quote": "A hail of iron bolts slammed into the lead ship, sending it spiraling wildly off-course. A new set of sails whirled in from the east, its red-and-orange stripes tarnished by pale moonlight.",
+      "start": 5168,
+      "end": 5357
+    },
+    {
+      "n": 4,
+      "summary": "有人从阴影里掷出陶壳炸弹，塔拉辛只来得及撑起最薄的护盾便被炸飞，撞在岩石上。",
+      "quote": "Talasyn had only enough time to cast the flimsiest skeleton of a shield before the blast sent her flying.",
+      "start": 5768,
+      "end": 5873
+    },
+    {
+      "n": 5,
+      "summary": "伊莱丝、塞弗拉伊姆与妮塞妮身着暗铸军团铠甲现身，挡在塔拉辛身前面对逼近的士兵。",
+      "quote": "Three figures clad in the armor of the Shadowforged Legion stepped into Talasyn’s field of vision, facing the oncoming soldiers",
+      "start": 6909,
+      "end": 7036
+    },
+    {
+      "n": 6,
+      "summary": "月食降临，塔拉辛穿过以太空间出现在跪着的阿拉里克身前，被利苏一剑刺入腹部。",
+      "quote": "She appeared on her feet in front of Alaric’s kneeling form, facing Lisu. The commodore’s blade sank into her stomach.",
+      "start": 10001,
+      "end": 10119
+    },
+    {
+      "n": 7,
+      "summary": "塔拉辛用最后的气力拔出龙牙匕首，刺进利苏的颈静脉将他杀死。",
+      "quote": "She tugged the dragon-fang dagger from its sheath and—with the last, fading vestiges of strength and motor function—she drove it straight into Lisu’s jugular.",
+      "start": 10296,
+      "end": 10454
+    },
+    {
+      "n": 8,
+      "summary": "塔拉辛在阿拉里克怀里说“因为我太厌倦不能先选择你”和“因为我爱你”，随后死去。",
+      "quote": "“Because I was so tired of not getting to choose you first,” she murmured, her breath ghosting over his scarred cheek. “And because I love you.”",
+      "start": 11727,
+      "end": 11871
+    }
+  ],
+  "relations": [
+    {
+      "a": "塔拉辛",
+      "b": "阿拉里克",
+      "relation": "夫妻，彼此深爱；他为她张开影门，她在月食中替他挡下利苏的剑",
+      "quote": "“Because I was so tired of not getting to choose you first,” she murmured, her breath ghosting over his scarred cheek. “And because I love you.”",
+      "start": 11727,
+      "end": 11871
+    },
+    {
+      "a": "塔拉辛",
+      "b": "利苏准将",
+      "relation": "敌对；利苏刺穿她腹部，她反以龙牙匕首割断他的颈静脉",
+      "quote": "Lisu jerked back in shock but he was still holding on to the hilt, which ensured that he was still within Talasyn’s reach.",
+      "start": 10173,
+      "end": 10295
+    },
+    {
+      "a": "塔拉辛",
+      "b": "凯德",
+      "relation": "盟友；凯德驾黄蜂小船赶到，替她挡住追击的狼群",
+      "quote": "She spun her wasp coracle around to face the oncoming wolves.",
+      "start": 5477,
+      "end": 5538
+    },
+    {
+      "a": "塔拉辛",
+      "b": "伊莱丝、塞弗拉伊姆、妮塞妮",
+      "relation": "战友；三人以暗铸军团身份现身，用影门与飞刀杀退围攻她的士兵",
+      "quote": "“Really?” Nisene shouted at the soldiers. The Shadowgate roared forth from her and Ileis and Sevraim, their eyes flashing silver.",
+      "start": 7277,
+      "end": 7406
+    },
+    {
+      "a": "塔拉辛",
+      "b": "涅纳瓦的龙",
+      "relation": "龙出于本能保护涅纳瓦人，但不受任何人支配",
+      "quote": "Even though it was a dragon’s instinct to protect the Nenavarene, that didn’t give Talasyn—or anyone else—the right to make these creatures go to war.",
+      "start": 609,
+      "end": 759
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three-day",
+      "context": "胡克特拉号驶向大陆的航程为三天",
+      "quote": "She had seen, sparingly throughout the Huktera’s three-day voyage to the Continent, movement in the water.",
+      "start": 228,
+      "end": 334
+    },
+    {
+      "value": "a hundred",
+      "context": "从海中升起的龙共一百条",
+      "quote": "A hundred dragons in all sizes and colors, emerging from beneath the waves, their massive wings carrying them to the tangle of airships within seconds.",
+      "start": 786,
+      "end": 937
+    },
+    {
+      "value": "seven",
+      "context": "天上有七个月亮",
+      "quote": "As Alaric helped her to her feet, the world washed over her in bits and pieces, images swimming together. The seven moons were out.",
+      "start": 3645,
+      "end": 3776
+    },
+    {
+      "value": "sixth",
+      "context": "利尔星的第六个月亮被阴影啃掉一角，即月食",
+      "quote": "She thought, at first, that it was her blood blotting out a corner of Lir’s sixth moon from her sight, but after she had blinked away what she could, that shadow-bitten edge was still there.",
+      "start": 7528,
+      "end": 7718
+    },
+    {
+      "value": "Three",
+      "context": "身着暗铸军团铠甲者共三人",
+      "quote": "Three figures clad in the armor of the Shadowforged Legion stepped into Talasyn’s field of vision, facing the oncoming soldiers",
+      "start": 6909,
+      "end": 7036
+    },
+    {
+      "value": "several minutes",
+      "context": "两人若不能相触，魔法需数分钟才能把他们拖进以太空间",
+      "quote": "From previous experience, Talasyn knew that, if she and Alaric couldn’t touch, the magic would take several minutes to haul them both into aetherspace.",
+      "start": 8332,
+      "end": 8483
+    }
+  ],
+  "notes": "语料问题：①正文第 1 行与第 12 行重复出现章节标题 “Chapter Fifty”（重复标题）；②段落之间普遍为双空行，第 105–113 行为连续空行，疑为原文分节留白/分页残留；③除此之外正文连续，未发现缺字、乱码或非英文混入。"
+}

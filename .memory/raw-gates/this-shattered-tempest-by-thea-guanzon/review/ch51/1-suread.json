@@ -1,0 +1,143 @@
+{
+  "chapter": "ch51",
+  "source": "text/ch51_chapter_fifty_one.txt",
+  "char_total": 7260,
+  "events": [
+    {
+      "n": 1,
+      "summary": "Lisu 政变余部投降、Sardovia 与 Kesath 停火三天后，Ideth Vela 到 Citadel 的办公室与 Alaric Ossinast 会面。",
+      "quote": "Three days after the surviving members of Lisu’s coup surrendered and Sardovia and Kesath declared a ceasefire, Ideth Vela met with Alaric Ossinast in the latter’s office at the Citadel.",
+      "start": 48,
+      "end": 234
+    },
+    {
+      "n": 2,
+      "summary": "Alaric 把一份写明 Kesath 不肯让步事项的卷轴推到桌上，让 Vela 先与顾问过目。",
+      "quote": "Alaric waited for Vela to nod before he placed a scroll on the desk and slid it closer to her.",
+      "start": 1061,
+      "end": 1155
+    },
+    {
+      "n": 3,
+      "summary": "Vela 也提出 Sardovia 的不可谈判项——要求 Kesath 同样解除风暴船武装并归还领土，Alaric 当场答“Done”。",
+      "quote": "We also demand disarmament of your stormships. And our lands returned to us.",
+      "start": 1812,
+      "end": 1888
+    },
+    {
+      "n": 4,
+      "summary": "Vela 转述 Khaede 和自己的请求，想探望 Talasyn，Alaric 僵硬但应允，让她与 Nordaye 约时间。",
+      "quote": "“Khaede and I would like to see Talasyn. If you are amenable.”",
+      "start": 2348,
+      "end": 2410
+    },
+    {
+      "n": 5,
+      "summary": "回医务室途中，来自东海岸的传信 skua 送来警讯，Alaric 命 Sevraim 寸步不离 Talasyn，自己乘狼形 coracle 赶去。",
+      "quote": "On his way back to the infirmary, however, an unsettling report came in via messenger skua from the eastern coast.",
+      "start": 2646,
+      "end": 2760
+    },
+    {
+      "n": 6,
+      "summary": "Alaric 在海滩上把手放在垂死的世界吞噬者 Bakun 鼻吻上，出声劝它撑住，又承认它必定很累了。",
+      "quote": "Alaric tentatively rested a hand on Bakun’s snout. This was the leviathan that had nearly brought a dead season to Nenavar and the Continent, the same dangerous creature that had permanently scarred his face.",
+      "start": 4384,
+      "end": 4592
+    },
+    {
+      "n": 7,
+      "summary": "Bakun 抬头，眼中 aether 最后一次闪亮，Alaric 告诉它会在 Sky Above the Sky 再见到 Talasyn。",
+      "quote": "Bakun lifted his head, aether flaring briefly in its eyes. It was the last time that the light of the Voidfell would ever spark on Lir from its living source.",
+      "start": 6460,
+      "end": 6618
+    },
+    {
+      "n": 8,
+      "summary": "Bakun 用尽余力长啸一声后滑入 Eversea 再未出现，Alaric 独自留在海滩落泪。",
+      "quote": "The World-Eater slithered into the Eversea, never to emerge again. Alaric remained on the beach long after the waves had swallowed every last trace of it, beating against the shoreline in a salt-laced requiem.",
+      "start": 7050,
+      "end": 7259
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric Ossinast",
+      "b": "Talasyn",
+      "relation": "夫妻；她仍昏迷未醒，他急着回床边守着",
+      "quote": "“My wife is still unconscious. I must return to her posthaste.”",
+      "start": 779,
+      "end": 842
+    },
+    {
+      "a": "Ideth Vela",
+      "b": "Alaric Ossinast",
+      "relation": "Sardovia 的 Amirante 与 Kesath 皇帝，停火后互递不可让步清单的和谈对手",
+      "quote": "“To business, then,” Vela agreed. “Why have I been summoned?”",
+      "start": 845,
+      "end": 906
+    },
+    {
+      "a": "Alaric Ossinast",
+      "b": "Bakun",
+      "relation": "曾令 Nenavar 与大陆濒临死季、并永久毁去他面容的虚空巨龙，如今由他守在滩上送终",
+      "quote": "This was the leviathan that had nearly brought a dead season to Nenavar and the Continent, the same dangerous creature that had permanently scarred his face.",
+      "start": 4435,
+      "end": 4592
+    },
+    {
+      "a": "Talasyn",
+      "b": "Bakun",
+      "relation": "Talasyn 提前一千年唤醒 Bakun 以夺回 aethermancy，Bakun 因此耗尽性命",
+      "quote": "Elagbi had recounted to Alaric how Talasyn had woken Bakun up again—a thousand years ahead of schedule—in order to regain her aethermancy.",
+      "start": 4117,
+      "end": 4255
+    },
+    {
+      "a": "Alaric Ossinast",
+      "b": "Gaheris",
+      "relation": "父子；他在雨中落泪，也为他父亲而哭",
+      "quote": "Perhaps he wept also for his father—for what once was and what could have been.",
+      "start": 6341,
+      "end": 6420
+    }
+  ],
+  "numbers": [
+    {
+      "value": "Three days",
+      "context": "Lisu 政变余部投降、两国宣布停火之后三天，Vela 与 Alaric 会面",
+      "quote": "Three days after the surviving members of Lisu’s coup surrendered and Sardovia and Kesath declared a ceasefire",
+      "start": 48,
+      "end": 158
+    },
+    {
+      "value": "a fortnight",
+      "context": "双方约定两周后会面谈和约条款",
+      "quote": "you and my officers agreed to meet in a fortnight’s time, to discuss the terms of the peace treaty",
+      "start": 960,
+      "end": 1058
+    },
+    {
+      "value": "one night every millennium",
+      "context": "世界吞噬者每千年只醒一夜的周期，被 Ishan Vaikar 称为一种夏眠",
+      "quote": "the World-Eater’s cycle of waking only for one night every millennium was an estivation of sorts",
+      "start": 3941,
+      "end": 4037
+    },
+    {
+      "value": "a thousand years ahead of schedule",
+      "context": "Talasyn 提前一千年把 Bakun 唤醒",
+      "quote": "Talasyn had woken Bakun up again—a thousand years ahead of schedule—in order to regain her aethermancy",
+      "start": 4152,
+      "end": 4254
+    },
+    {
+      "value": "the last few days",
+      "context": "这条古龙近几天消耗的能量无法持续，时间终于追上它",
+      "quote": "The energy that the ancient dragon had expended over the last few days was unsustainable. Time had finally caught up with it.",
+      "start": 4256,
+      "end": 4381
+    }
+  ],
+  "notes": "源文首尾各有一行重复的 'Chapter Fifty-One' 标题（第1行与第12行），中间夹 10 个空行；正文从第15行开始。除该重复标题外无 OCR/断行异常，弯引号与 em dash（—）保持原样。"
+}

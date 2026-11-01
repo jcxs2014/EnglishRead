@@ -1,0 +1,128 @@
+{
+  "chapter": "ch52",
+  "source": "text/ch52_chapter_fifty_two.txt",
+  "char_total": 7435,
+  "events": [
+    {
+      "n": 1,
+      "summary": "塞夫拉伊姆（Sevraim）走到守在床边的阿拉里克（Alaric）面前，从口袋里掏出一样东西递给他。",
+      "quote": "He stopped at a cautious arm’s length from the chair by the bed that Alaric had barely left in the past seven days and he withdrew something from his pocket, holding it out to the Night Emperor.",
+      "start": 1100,
+      "end": 1294
+    },
+    {
+      "n": 2,
+      "summary": "阿拉里克认出那是自己那枚镶着第八月之月的婚戒。",
+      "quote": "Alaric’s eyes widened at the sight of his wedding band. The shard of the eighth moon shone brilliantly in the sunlight streaming in through the open window.",
+      "start": 1297,
+      "end": 1453
+    },
+    {
+      "n": 3,
+      "summary": "阿拉里克收下戒指道谢，等塞夫拉伊姆离开后把婚戒戴回手上。",
+      "quote": "Once he and Talasyn were alone again, Alaric peeled off one black leather gauntlet and slipped the wedding band onto his ring finger.",
+      "start": 2121,
+      "end": 2254
+    },
+    {
+      "n": 4,
+      "summary": "阿拉里克握着昏迷的塔拉辛（Talasyn）的手腕，求她不要离开自己。",
+      "quote": "She didn’t, of course. When had she ever catered to his wishes? He swallowed, squeezing her wrist. “Talasyn,” he said, “please do not leave me.”",
+      "start": 2904,
+      "end": 3048
+    },
+    {
+      "n": 5,
+      "summary": "阿拉里克对昏迷的塔拉辛说自己需要她一起处理与 Allfold 的和约、重建等事务。",
+      "quote": "There are the details of the peace treaty with the Allfold to figure out. The rebuilding efforts. What to do with Lisu’s followers who’ve surrendered.",
+      "start": 3262,
+      "end": 3412
+    },
+    {
+      "n": 6,
+      "summary": "阿拉里克把耳朵贴到她胸口，听到的心跳极其微弱。",
+      "quote": "It was in a burst of desperation that Alaric pressed an ear to her chest. He picked up the sound of her heartbeat but, far from soothing him, it filled him with even more dread.",
+      "start": 3800,
+      "end": 3977
+    },
+    {
+      "n": 7,
+      "summary": "阿拉里克哭着吻她的太阳穴与眼睛，重述二人在龙坛立下的誓言，说会永远爱她。",
+      "quote": "“Come back and shout at me all you want. Chop my head off, if that’s what you wish. It’s all right. I will always love you,” he said in a broken rasp.",
+      "start": 6959,
+      "end": 7109
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "夫妻：他守在昏迷的妻子床边，握着她的手求她醒来",
+      "quote": "“Please wake up,” Alaric repeated, lifting his fingers from her wrist so that he could fold her hand into his.",
+      "start": 4842,
+      "end": 4952
+    },
+    {
+      "a": "Alaric",
+      "b": "Sevraim",
+      "relation": "君臣：军团长违背“处理掉戒指”的命令，把婚戒留了下来并归还",
+      "quote": "“Yes.” The legionnaire scratched his head, looking everywhere but at his sovereign.",
+      "start": 1602,
+      "end": 1685
+    },
+    {
+      "a": "Alaric",
+      "b": "Lisu",
+      "relation": "仇敌：Lisu 曾刺伤塔拉辛，这一幕至今让他恐惧",
+      "quote": "the same wave of terror that had gripped him when Lisu stabbed her—it tore through Alaric again.",
+      "start": 2606,
+      "end": 2702
+    },
+    {
+      "a": "Talasyn",
+      "b": "her father",
+      "relation": "父女：他劝她为父亲和同胞活下去",
+      "quote": "But your father needs you. Your comrades, your people—they all need you.",
+      "start": 5008,
+      "end": 5080
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three days",
+      "context": "距他与 Vela 会面、World-Eater 死去又过了三天",
+      "quote": "Another three days had passed since his meeting with Vela, since the World-Eater’s death.",
+      "start": 137,
+      "end": 226
+    },
+    {
+      "value": "twice",
+      "context": "Khaede、Elagbi、Niamha、Surakwel 已来去过两趟",
+      "quote": "Khaede, Elagbi, Niamha, Surakwel—they’d come and gone twice now, with still no progress on the patient’s end.",
+      "start": 227,
+      "end": 336
+    },
+    {
+      "value": "seven days",
+      "context": "他几乎没离开过床边，已整整七天",
+      "quote": "the chair by the bed that Alaric had barely left in the past seven days",
+      "start": 1143,
+      "end": 1214
+    },
+    {
+      "value": "eighth moon",
+      "context": "婚戒上镶着第八月之月的碎片",
+      "quote": "The shard of the eighth moon shone brilliantly in the sunlight streaming in through the open window.",
+      "start": 1353,
+      "end": 1453
+    },
+    {
+      "value": "five minutes",
+      "context": "她说有时这些情绪全在五分钟内发生",
+      "quote": "Sometimes all of that in the span of five minutes.",
+      "start": 5748,
+      "end": 5798
+    }
+  ],
+  "notes": "原文共 102 行，正文前有大段空行（第 2–11 行）与重复标题行（第 12 行 Chapter Fifty-Two），提取件含重复标题与空行；正文含弯引号与撇号，quote 均按原文逐字保留。"
+}

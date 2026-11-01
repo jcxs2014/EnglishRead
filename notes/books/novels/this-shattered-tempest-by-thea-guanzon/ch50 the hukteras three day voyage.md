@@ -35,7 +35,27 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「Direct hits were scored」用被动语态省掉了射手，读者和机上两人一样只知道结果、不知道来源；「began to smoke」是进行中的状态，句子在这里停下，坠落还没有落地。
 
-> **原句 3:** "While Sevraim and the twins engaged their foes, Talasyn tipped back a head heavy with relief and exhaustion. She thought, at first, that it was her blood blotting out a corner of Lir’s sixth moon from her sight, but after she had blinked away what she could, that shadow-bitten edge was still there."
+> **原句 3:** "A hail of iron bolts slammed into the lead ship, sending it spiraling wildly off-course. A new set of sails whirled in from the east, its red-and-orange stripes tarnished by pale moonlight. The Sardovian phoenix filled Talasyn’s vision."
+
+- **中文理解**：一阵铁弩箭砸在领头那艘船上，把它打得疯狂偏航。一组新的帆从东面卷来，红橙条纹被苍白的月光磨得发暗。萨多维亚的凤凰占满了塔拉辛的视野。
+
+- **关键词**：hail of bolts · red-and-orange · Sardovian phoenix
+
+- **为什么这样写**：三句都没提「救兵」两个字：先写敌人的船被打偏，再写帆从东来，最后才让那面旗占满视野。读者和她同时认出那是谁。
+
+- **读者视角提示**：紧随几段（不在本块引语内）：凯德在上面喊「Go! I'll hold them off!」；她们冲向村口时，有人从阴影里站起来，把一枚陶壳炸弹掷到两人之间，落地就炸。
+
+> **原句 4:** "Three figures clad in the armor of the Shadowforged Legion stepped into Talasyn’s field of vision, facing the oncoming soldiers, one of whom loosed a crossbow bolt at them. The legionnaire who had yet to speak hurled a throwing knife—a blade of crackling darkness that disintegrated the iron bolt in its path before plunging into the chest of the man who had fired."
+
+- **中文理解**：三个穿着影铸军团铠甲的身影走进塔拉辛的视野，面朝正扑上来的士兵；其中一名士兵朝他们放了一支弩箭。那个还没开口的军团兵掷出一把飞刀——一柄噼啪作响的黑暗之刃，在半空把那支铁弩箭打散了。
+
+- **关键词**：Shadowforged · throwing knife · crossbow
+
+- **为什么这样写**：两句全用动作推进：先交代「三个身影」站到哪里，再让敌人先出手，最后才轮到己方还击。谁强谁弱不用形容词，看谁的兵器消掉了谁的兵器。
+
+- **读者视角提示**：前一段（不在本块引语内）是声音先到：伊莱丝抱怨「我一点都不想做这个」，塞夫雷姆回她一句「那你来忍受陛下没完没了的愁眉苦脸」。人是先被听见、再被看见的。
+
+> **原句 5:** "While Sevraim and the twins engaged their foes, Talasyn tipped back a head heavy with relief and exhaustion. She thought, at first, that it was her blood blotting out a corner of Lir’s sixth moon from her sight, but after she had blinked away what she could, that shadow-bitten edge was still there."
 
 - **中文理解**：塞夫雷姆和那对双胞胎与敌人交上手时，塔拉辛把头往后一仰，那颗头颅沉重，装满宽慰与力竭。起初她以为是自己流的血遮住了里尔第六个月亮的一角，可等她把能眨掉的血都眨掉，那被阴影啃缺的边缘还在原处。
 
@@ -45,7 +65,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「relief and exhaustion」并列，说明援军带来的首先是卸力而不是安全；紧接其后的单句「Eclipse.」把这一整段压成一个词，读者到这时才知道她看见的东西有名字。
 
-> **原句 4:** "Because that was what the aether did. It bound all living things together in a vast net of time and space. And, on nights when the first dragon ate the moon, the thread that was spun between light and darkness surmounted even time and space in their entirety."
+> **原句 6:** "Because that was what the aether did. It bound all living things together in a vast net of time and space. And, on nights when the first dragon ate the moon, the thread that was spun between light and darkness surmounted even time and space in their entirety."
 
 - **中文理解**：因为以太做的就是这件事。它把一切活物绑进一张时间与空间的巨网里。而在初龙吞月的夜里，光与暗之间纺出的那根线，甚至超越了时间与空间的全部。
 
@@ -55,7 +75,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意 bound 与 surmounted 的方向相反：一个把东西绑住，一个越过界限；救援正落在这对矛盾上——正因为一切被绑在一起，她才能越过距离。另外「in their entirety」把「超越」说到尽头，不留余地。
 
-> **原句 5:** "She heard Alaric utter her name in a hoarse shout. Lisu jerked back in shock but he was still holding on to the hilt, which ensured that he was still within Talasyn’s reach. She tugged the dragon-fang dagger from its sheath and—with the last, fading vestiges of strength and motor function—she drove it straight into Lisu’s jugular."
+> **原句 7:** "She appeared on her feet in front of Alaric’s kneeling form, facing Lisu. The commodore’s blade sank into her stomach."
+
+- **中文理解**：她出现在跪着的阿拉里克身前，面朝利苏。准将的剑插进了她的腹部。
+
+- **关键词**：on her feet · kneeling · stomach
+
+- **为什么这样写**：二十五个词、两句话，句子越短，动作越快。第一句给出位置（她站着、他跪着、她挡在前面），第二句只报告结果——剑进了哪里。没有形容词，也没有她的感受。
+
+- **读者视角提示**：这是她「一拉」之后的落点。前一段（不在本块引语内）写她被以太空间整个拽走：「Aetherspace hauled her in」，在维度之间的空腔里独自跌了一下，才被吐回来。中间隔着的那几段全是她本人在黑暗里的过程。
+
+> **原句 8:** "She heard Alaric utter her name in a hoarse shout. Lisu jerked back in shock but he was still holding on to the hilt, which ensured that he was still within Talasyn’s reach. She tugged the dragon-fang dagger from its sheath and—with the last, fading vestiges of strength and motor function—she drove it straight into Lisu’s jugular."
 
 - **中文理解**：她听见阿拉里克嘶哑地喊出她的名字。利苏惊得往后一退，可他仍握着剑柄，这让他仍留在塔拉辛够得着的范围之内。她抽出龙牙匕首，用最后一点正在消退的力气与动作能力，把它直直捅进利苏的颈静脉。
 
@@ -65,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：「which ensured」把利苏的死写成他自己动作的后果；「motor function」这种近乎临床的词出现在濒死段落里，让她的身体先于情绪被写成正在关机。整句没有一个形容词去写她的决心。
 
-> **原句 6:** "Her heart didn’t feel heavy anymore, now that there were no more unsaid words lodged inside it. She slipped away into the darkness, into something that was like peace. Safe in his embrace at last."
+> **原句 9:** "Her heart didn’t feel heavy anymore, now that there were no more unsaid words lodged inside it. She slipped away into the darkness, into something that was like peace. Safe in his embrace at last."
 
 - **中文理解**：她心里不再觉得沉了，因为再没有未说出口的话堵在里面。她滑进黑暗，滑进某种像安宁的东西。终于安全地待在他的怀里。
 
