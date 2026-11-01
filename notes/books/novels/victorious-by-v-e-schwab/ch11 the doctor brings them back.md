@@ -107,7 +107,7 @@ modified: "2026-11-01"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| wince | 疼得皱眉、龇牙 | “What happened?” he asked, wincing as the words scraped his raw throat. |
+| wincing | 疼得皱眉、龇牙（wince 的现在分词） | “What happened?” he asked, wincing as the words scraped his raw throat. |
 | sag | 瘫软，垮下来 | As soon as he was gone, Gabriel sagged, bracing himself against the nearest counter. |
 | obey | 服从，听命 | “Stand up,” he said, and Walsh obeyed, just as Ian and Iris had. |
 
