@@ -1,0 +1,73 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch22",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch22_22_witnesses.txt",
+ "facts": [
+  {
+   "fact": "Lord Xaniko 在觐见厅门口把 Vedra 叫进书房，她进门先看见桌端铺着一块黑绒布，底下像压着什么低而平的东西。",
+   "anchor": "a velvet cloth or scarf had been spread at one end of the table",
+   "start": 423,
+   "end": 486
+  },
+  {
+   "fact": "Xaniko 在开讲前先问她今天吃过没有；Vedra 说管家 Mollie 一直盯得很紧，他回称身体强才能心智强。",
+   "anchor": "I need to ask you something important, child. Have you eaten today?",
+   "start": 1224,
+   "end": 1291
+  },
+  {
+   "fact": "掀开绒布是一面无柄、镜面微凸的大镜；Xaniko 说这是用巨虫磨亮的鳞片制成的 Witness。",
+   "anchor": "this kind of mirror is a Witness, crafted from the polished scale of one of the great worms",
+   "start": 3461,
+   "end": 3552
+  },
+  {
+   "fact": "Vedra 的手几乎自己伸向镜面，Xaniko 急声喝止、把黑布盖回，说没有他的允许绝不能碰，这是第一课。",
+   "anchor": "Never touch the Witness without my permission",
+   "start": 3974,
+   "end": 4019
+  },
+  {
+   "fact": "Xaniko 交代要她学 Witness 的真正理由：他可能需要她，以阻止 Count Scaeth 杀掉 Tethtain 唯一的真继承人 Ewain 王子。",
+   "anchor": "keep Count Scaeth from killing Tethtain’s only true heir, Prince Ewain",
+   "start": 6041,
+   "end": 6111
+  },
+  {
+   "fact": "Xaniko 说两天前 Phelan 的士兵到过 Crannhyr，他耗尽力气给宅子拉了一层遮蔽，并承认挡不住规模更大的进攻。",
+   "anchor": "I exhausted myself drawing a curtain over this place when Phelan’s troops came to Crannhyr just two days ago",
+   "start": 7743,
+   "end": 7851
+  },
+  {
+   "fact": "Xaniko 临走前立规矩：一旦开始就必须走完，半懂半知在梦境之路上比全然无知更危险。",
+   "anchor": "once begun, you must complete the journey",
+   "start": 9833,
+   "end": 9874
+  },
+  {
+   "fact": "Vedra 想不出任何安全之地，最后想起童年那片小树林：离家小屋半弗隆上坡，一小丛海岛松与野无花果。",
+   "anchor": "a small cluster of island pines and jack figs",
+   "start": 20589,
+   "end": 20634
+  },
+  {
+   "fact": "她在想象里看清自己童年的脸，眼珠像一轮黑太阳，随后向前倾，抓桌沿也稳不住，坠入黑暗。",
+   "anchor": "like the rays of a black sun",
+   "start": 22529,
+   "end": 22557
+  },
+  {
+   "fact": "Daley 在走廊看见本该在两层楼上的书房，进去碰了 Vedra 的手臂，转眼跪在灰烬里，捏碎了一颗烧过的头骨。",
+   "anchor": "had just crushed a burned skull with his hand",
+   "start": 28519,
+   "end": 28564
+  },
+  {
+   "fact": "Daley 想起自己烧了剧团的大车，开始担心 Rufis、Hostian 与 Beppe 如今睡在哪里。",
+   "anchor": "But I burned those wagons.",
+   "start": 25225,
+   "end": 25251
+  }
+ ]
+}
