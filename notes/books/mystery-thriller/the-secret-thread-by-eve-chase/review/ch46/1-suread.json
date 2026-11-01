@@ -1,0 +1,160 @@
+{
+ "chapter": "ch46",
+ "text_file": "text/ch46_chapter_46.txt",
+ "facts": [
+  {
+   "no": 1,
+   "fact": "黎明，Jo 与 Woody 在她的童年单人床上再次亲热（床头是翻旧的《Twilight Saga: Eclipse》海报，单人床垫只够他侧身半躺）；随后 Jo 放被关在门外的狗 Dolly 进屋（Woody：\"Then there were three again, eh?\"），Jo 摸过手机说 \"I need to collect Granny from hospital\"（\"Four soon.\"）",
+   "anchor": "Barely dawn, and they’re a slippery twist of limbs again.",
+   "byte_offset": 21,
+   "hits": 1
+  },
+  {
+   "no": 2,
+   "fact": "回溯开端：昨日 Mimi 派 Woody 给 Jo 送上礼物（Jo 疑心实为借机打听 Granny），两人谈着工作转眼就扒掉衣服、把它们扔在楼梯上；夜里喝了去年圣诞剩的 Asda 香料热红酒、就着炉火吃豆子焗吐司（狗在旁），屋外落雪",
+   "anchor": "Woody sent by Mimi to deliver her a present",
+   "byte_offset": 611,
+   "hits": 1
+  },
+  {
+   "no": 3,
+   "fact": "Jo 枕着 Woody 的膝头梳理身世：每年去爱尔兰父亲庞大的家族过暑假、最喜欢的表亲 Aisling、萨福克的 nursery、一家人挤住像廉价旅舍；随后爸妈没了，没有排队上厕所的吵闹，只剩可怕的安静，她在争夺归属后随祖父母长大；她第一次说出连对自己都不敢承认的梦想——有朝一日拥有一个自己的家、一门生意、一个小花园、甚至一个家庭",
+   "anchor": "her impossible dream of having a home of her own one day, a business, a little garden, maybe even a family",
+   "byte_offset": 1602,
+   "hits": 1
+  },
+  {
+   "no": 4,
+   "fact": "Woody 承认自己曾拥有一切又亲手毁掉：与少年恋人结婚育有一娃；为一家精英私人会员俱乐部的礼宾部奔命于伦敦、纽约、拉斯维加斯之间，被掏空、倒时差、成为坏爸爸和疏远的丈夫，靠药片提神又靠药片入睡，升了职内心却在尖叫；直到 Mimi 在俱乐部曼哈顿分店午餐，他自称 Doris 的亲戚上前搭话（Doris 即 Rushwood 的管家，曾救过 Mimi 全家）；Mimi 还他更好的工时、更高的薪水、更多陪 Kaia 的时间——婚姻没能挽回，但 Kaia 的母亲搬回英国时他必须跟随，几个月前那通电话来了，于是有了今天",
+   "anchor": "commuting between London, New York and Las Vegas, which left him hollow, jet-lagged, a bad dad",
+   "byte_offset": 2017,
+   "hits": 1
+  },
+  {
+   "no": 5,
+   "fact": "Jo 下楼冲速溶咖啡，终于试穿 Mimi 的礼物——她第一天就在黄铜挂杆上看中的绿色挂颈 Halston 长裙；皱绸仿佛等这具身体等了很久般滑落；她羞怯地站到卧室门口，Woody 低声吹了声口哨，说要替她把它脱下来",
+   "anchor": "the crêpe slips down her body as if it has been waiting for it all this time",
+   "byte_offset": 5841,
+   "hits": 1
+  },
+  {
+   "no": 6,
+   "fact": "四小时后车窗掠过萨福克雪野（雪中田地、起伏的米白天空下的小黑鸟）：Granny 在加热副驾上问\"你是谁来着\"，Woody 答\"Woody。我为你姐姐工作\"，Granny 回嘴\"还有谁不为我姐姐工作？\"，又低声念出\"Miriam\"——后座的 Jo 恨不得把这个复杂的词像 Rushwood 河里的褐鳟一样剖开、逐片细看；此前在医院接人时，Jo 就注意到床上摊着的目录校样：书页边缘磨旧、塑封套蒙上指印、Granny 沾了灰的老花镜搁在上面，不知她是否读到了最后——这或许解释了她今天的沉默与心事重重，也可能是护士刚温和建议她考虑带照护的老年公寓时，Pamela 炸毛顶回\"The departure lounge? No, thank you. I’d rather freeze in my field.\"所致",
+   "anchor": "Is there anyone who doesn’t work for my sister?’ Granny retorts",
+   "byte_offset": 6430,
+   "hits": 1
+  },
+  {
+   "no": 7,
+   "fact": "车上 Jo 前倾点破 Woody 是 Rushwood 管家 Doris 的曾孙，盯着看反应；Granny 诧异转身：\"Doris!\"、\"她是最最好的女人\"，又打趣\"你倒是更好看\"，他笑了；进屋后 Granny 与 Dolly 含泪团聚，把\"谢谢，谢谢\"埋进牧羊犬的毛里；随后她出门砸鸟浴盆上的冰，Dolly 寸步不离地跟上；Jo 在厨房窗边搅汤看着——尽管这里正是那晚雪夜受困的伤心现场，铁罐里的东西撒了一地，撒的是她的心——祖母对冰冻花园仍兴致盎然，Jo 因此安心；午饭全是乡店抚慰菜：带面粉的茅屋面包、火腿肘子汤、姜味布丁配蛋奶沙司；饭后 Granny 裹着绒毯、抱着 Dolly 窝进塌陷的沙发，翻看录好的电视节目（用不来流媒体）",
+   "anchor": "Now, she was the best of women.",
+   "byte_offset": 7589,
+   "hits": 1
+  },
+  {
+   "no": 8,
+   "fact": "沙发边的交锋：Jo 催 Woody 换装去预览会、否则迟到；Granny 喊话\"别让我耽误你们！……你们千万不能让 Miriam 失望，听我的\"；Jo 正要开口拒绝把 Granny 独自留下过夜，Woody 提议\"我们仨一起去派对吧，Pamela？我们照顾你\"；Granny 愣住随即大笑，斥为最荒唐的事：\"Good God, no. Sorry, you don’t understand, Woody.\"；Jo 盘算这能把姐妹俩放进同一间屋——机不可失——便以\"我们都会为对的理由做错事，我接了拍卖会那单，不是吗\"试探；Granny 抓起用胶带固定电池的旧遥控器顶回：\"Yes, you did. You deceived everyone. Nothing to be proud of, love\"；Jo 拉弓追问\"你从没做过那种事？从没误导过任何人？\"，Granny 假装没听见、专心翻录制的 Strictly；Jo 一屁股坐上沙发、放 Woody 先走（\"Granny and I are staying here\"），射出箭：\"We’ll just have to let your sister have the last word, won’t we?\"",
+   "anchor": "We’ll just have to let your sister have the last word, won’t we?",
+   "byte_offset": 10269,
+   "hits": 1
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Woody ↔ Jo",
+   "relation": "昨日送礼当天即成情人（衣物扔在楼梯上、一夜缠绵再加黎明）；他赞她 beautiful，她傻笑着道谢；Jo 自认两人是\"破碎的两块恰好咬合并擦出快乐火花\"的意外组合，明知多巴胺燃烧不可持续仍打算姑且享受",
+   "anchor": "ripping off their clothes and flinging them onto the stairs"
+  },
+  {
+   "pair": "Woody ↔ Mimi（Miriam）",
+   "relation": "雇主与雇员：\"I work for your sister\"（对 Pamela 语）；Mimi 曾在他崩溃时拉了他一把——更好的工时、薪水与陪女儿的时间，数月前一通电话把他召来",
+   "anchor": "Woody. I work for your sister."
+  },
+  {
+   "pair": "Woody ↔ Doris",
+   "relation": "曾孙：Woody 是 Rushwood 管家 Doris 的 great-grandson，并为此骄傲",
+   "anchor": "Woody’s the great-grandson of Rushwood’s housekeeper."
+  },
+  {
+   "pair": "Woody ↔ Kaia",
+   "relation": "父女：女儿永远排第一，他仍是一个\"未完成品\"，梦想另一种生活却肩负责任",
+   "anchor": "a little girl who comes first"
+  },
+  {
+   "pair": "Woody ↔ Kaia 的母亲",
+   "relation": "前伴侣：婚姻早已回天乏术；她搬回英国，他不得不带娃跟随",
+   "anchor": "When Kaia’s mother moved back to England, he had to follow"
+  },
+  {
+   "pair": "Woody ↔ 少年恋人",
+   "relation": "前妻：十几岁时的 sweetheart，育有一娃，因他疯狂工作、药片与疏远而婚姻破裂",
+   "anchor": "Marriage to a teenage sweetheart, a baby."
+  },
+  {
+   "pair": "Doris ↔ Mimi 一家",
+   "relation": "恩人：\"Doris had saved her family’s skin\"——Mimi 记得非常清楚",
+   "anchor": "Doris had saved her family’s skin."
+  },
+  {
+   "pair": "Pamela ↔ Miriam（Mimi）",
+   "relation": "姐妹、关系复杂：Pamela 听到\"为你姐姐工作\"就呛\"还有谁不为我姐姐工作\"、低念\"Miriam\"，却又警告\"千万别让 Miriam 失望——听我的\"，且拒绝去有 Miriam 在的派对",
+   "anchor": "You definitely do not want to let down Miriam. Take it from me."
+  },
+  {
+   "pair": "Jo ↔ Pamela（Granny）",
+   "relation": "祖孙：Jo 去医院接 Granny 回萨福克的家、为她做午饭、不肯让她独自过夜；Jo 的梦想清单（家、生意、花园、家庭）正说给 Woody 听",
+   "anchor": "I need to collect Granny from hospital."
+  },
+  {
+   "pair": "Jo ↔ 父母",
+   "relation": "童年的\"Mum and Dad gone\"：厕所前不再排队、可怕的安静、归属争夺战，之后随祖父母长大",
+   "anchor": "then Mum and Dad gone, no queue for the loo"
+  },
+  {
+   "pair": "Jo ↔ Aisling",
+   "relation": "最喜欢的表亲（爱尔兰过暑假）",
+   "anchor": "her favourite cousin Aisling"
+  },
+  {
+   "pair": "Pamela ↔ Dolly",
+   "relation": "主人与牧羊犬：团聚时含泪把\"谢谢，谢谢\"埋进狗毛；此后砸冰也要狗跟着",
+   "anchor": "Granny reunites tearfully with Dolly."
+  },
+  {
+   "pair": "Mimi → Jo",
+   "relation": "赠裙人：Mimi 几乎不忘事，记得 Jo 第一天在黄铜挂杆上看中的绿 Halston，让 Woody 专程送达",
+   "anchor": "I think you should try on Mimi’s present"
+  }
+ ],
+ "numbers_dates": [
+  {
+   "quote": "Then there were three again, eh?",
+   "note": "Woody 逗 Dolly 时数人数：Jo+Woody+Dolly＝三"
+  },
+  {
+   "quote": "Four soon.",
+   "note": "Jo 接话——\"四\"很快到齐（下一句即她要去医院接 Granny）"
+  },
+  {
+   "quote": "Four hours later, Suffolk flies by the window",
+   "note": "时间跳跃：四小时后，车窗掠过萨福克雪野"
+  },
+  {
+   "quote": "From Studio 54 to Suffolk?",
+   "note": "Jo 对裙子来历的感叹：从 Studio 54（54 为专名）到萨福克"
+  },
+  {
+   "quote": "a bottle of Asda mulled wine from last Christmas",
+   "note": "去年圣诞剩的 Asda 热红酒"
+  },
+  {
+   "quote": "A few months ago, the call came",
+   "note": "几个月前 Mimi 的电话把 Woody 召到英国"
+  },
+  {
+   "quote": "that first day",
+   "note": "Jo 在黄铜挂杆上看中这条 Halston 的时间锚点"
+  }
+ ],
+ "turning_point": "Woody 提议三人同赴预览会，Jo 顺势用拍卖会旧账逼 Pamela 认下\"你骗了所有人\"、追问她可曾也骗过人，并射出\"让你姐姐拿最后发言权\"的箭——把疏远的姐妹推向同室，而 Pamela 翻看 Strictly 装聋回避。"
+}

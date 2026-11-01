@@ -1,0 +1,278 @@
+{
+  "chapter": 47,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch47 pamela.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch47_chapter_47.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Halfway up Lordats’ steps, Pamela stalls, courage whistling away",
+          "ok": true,
+          "pos": 15
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Pamela is not fine. She’s a Geiger counter, clicking warnings as it nears radioactive material",
+          "ok": true,
+          "pos": 255
+        },
+        {
+          "text": "And the familiar vertiginous, pint-of-blood-giving sensation that occurs if she even thinks of Miriam is intensifying so",
+          "ok": true,
+          "pos": 388
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But she’s also the only person here with a dog so maybe that explains the double-takes? She couldn’t desert Dolly again.",
+          "ok": true,
+          "pos": 1387
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Is this really Miriam’s world? So pleased with itself. So thin. The women alight the auction house’s floodlit steps like",
+          "ok": true,
+          "pos": 1975
+        },
+        {
+          "text": "Still. She mustn’t lose her nerve. Or her handbag, given what’s inside",
+          "ok": true,
+          "pos": 2734
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘Darling!’ She leans in to air-kiss, but Pamela turns at the wrong moment, and their noses collide. Thankfully, the woma",
+          "ok": true,
+          "pos": 8959
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "She talks less brusquely, even tells Rafe that she quite liked that catchy hit song of his, ‘Triangle’. He says the roya",
+          "ok": true,
+          "pos": 11133
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "When a hand lands on her shoulder, she recognizes its weight, the life in its fingers. Stunned, she drops her champagne ",
+          "ok": true,
+          "pos": 12755
+        }
+      ],
+      "words": 40
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 9,
+        "为什么这样写": 42,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.23,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 12,
+        "为什么这样写": 56,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.21,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 17,
+        "为什么这样写": 40,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.25,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 20,
+        "为什么这样写": 47,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.24,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 75,
+        "关键词": 12,
+        "为什么这样写": 61,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.25,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 19,
+        "为什么这样写": 53,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.35,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 15,
+        "为什么这样写": 57,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.19,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.67
+      }
+    }
+  ],
+  "form": {
+    "h1": "47. Pamela",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2224,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "chapter": "ch48",
+  "text_file": "text/ch48_chapter_48.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "拍卖会开场：香槟泼洒、碎玻璃满地，Mimi 与 Pamela（Granny）姐妹震惊对望、随即紧握彼此的手（指节发白）；Dolly 叫了一声，一名摄影师凑近拍下一张照片。",
+      "anchor": "Surrounded by a fizzing spill of champagne and broken glass, the sisters face each other in mutual astonishment",
+      "byte_offset": 60,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Woody 向 Jo 用口型说 ‘You did it’，Jo 心口发热但存疑点：离开萨福克时 Granny 神神秘秘、在卧室里翻找，以及她这次怎么会被劝来现场。",
+      "anchor": "Something in Granny’s furtiveness as they left Suffolk, all that rooting in the bedroom",
+      "byte_offset": 617,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "耳麦工作人员把『总赶不上进度』的 Mimi 引开，Mimi 叮嘱姐姐『别走开』；她身穿浅色丝质希腊式长裙登上 Plexiglass 讲台致辞，宣布这是她的 ‘damn good clear-out’，又引 Jo 的话称拍品是 ‘memories in material form’（琥珀里的小生物），Jo 脸红、Granny 投来锐利一瞥；她继而说不可把艺术与作者人生分开、电脑再聪明也无法 ‘threaded to that creator’s life’，以 ‘We’re all compost in the end’ 令全场肃静。",
+      "anchor": "And welcome to my damn good clear-out. It was time!",
+      "byte_offset": 1626,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Mimi 自曝是园丁之女、『very much below stairs』，从未自认也从未否认是 posh English gal；她说当年像被困的狐狸咬断一条腿那样逃离，而她的人生、事业归根于家人、Rushwood 与 ’sixty-nine 年夏——那年哥哥 Alf 与 Nancy 去世；拍卖所得将捐给 RSPB（纪念爱鸟的 Alf），庄园拍卖所得设 Nancy 命名的艺术基金会，资助怀抱超出其条件的梦想的年轻女性；掌声被她止住。",
+      "anchor": "Alf, my brother, died that summer. As did Nancy, my late husband’s sister.",
+      "byte_offset": 4734,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Mimi 逐一致谢：Kaia（六岁 Swiftie，坚持让她穿粉色）、Woody（‘long-suffering right-hand man’）、Jo（‘extracting all the lemons and somehow making lemonade’——没有 Jo 就没有这场拍卖）、Margo（感谢她当年甩了 Lawrence）、Rafe（落难时出借 Ladbroke Grove 附近的鼠患阁楼、引荐摇滚明星作首批客户、同意把 ‘Triangle’ 首批手写歌词放入慈善拍卖）；Rafe 挺胸咧嘴得意。",
+      "anchor": "Jo, thank you for extracting all the lemons and somehow making lemonade.",
+      "byte_offset": 5463,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Mimi 转向这位她从未征求过许可的姐姐，当众介绍失和多年的 ‘my big sister, Pamela’（即 Pamela Mackie 本尊、不请自来的客人），请全场举杯致敬——‘Plantswoman and grandmother extraordinaire’；满场轻呼中，带瘀伤的 stern 女人手搭农场犬头顶；Pamela 露出缓慢、难以置信的微笑，却主动走向讲台，与 Mimi 快速交换几句后接过话筒，Mimi 带着不确定的微笑退到一旁。",
+      "anchor": "Finally, my big sister, Pamela. Yes, that is the Pamela Mackie. My unexpected guest.",
+      "byte_offset": 6385,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Pamela 脱稿发言：自认可能喝多了气泡酒；说她摔了一跤几乎丧命，这让她想透了『活着这桩难事』，并从手袋里抽出那本磨损的 proof 在空中挥舞——在医院读到拍卖图录里那些被遗忘的小物件后，她想『姐姐能讲出自己的故事，我也能』；她逐条否认姐妹套话（从未猜透过 Miriam 的心思、不会互相接话、羁绊并非牢不可破），引父亲的话 ‘Time will tell with that one’；工作人员耳语 ‘Get her off’，满场手机拍摄，Woody 像保镖般向前逼近，宾客惶恐举杯。",
+      "anchor": "I’ve never had a clue what goes through Miriam’s mind.",
+      "byte_offset": 9470,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Pamela 从手袋里先掏出骨头形狗饼干、再捏出一枚小小的绿色之物，当众归还 Mimi 与 Lawrence 当年在 Lyme Regis 找到的失踪海玻璃心，说它属于这场拍卖，并开始坦白『I stole it one summer’s day, long, long ago because –』话未说完即被 Woody 打断（‘Pamela, this isn’t the time’）；她把折好的信塞进 Mimi 手中，Woody 将她拉到身后并对麦克风宣布 ‘That’s all, folks.’；Pamela 已拨开呆住的人群离场，Mimi 高举那封信在身后呼喊，Jo 被留在原地如连带损伤。",
+      "anchor": "I’m returning the missing sea-glass heart you and Lawrence found in Lyme Regis, Miriam. It belongs in your auction.",
+      "byte_offset": 12147,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    "Mimi（Miriam）与 Granny（Pamela Mackie）是姐妹，Pamela 是姐姐（‘my big sister’），两人已失和多年（‘estranged for many, many years’）；Mimi 公开其身份前从未征得她许可",
+    "Jo 是 Pamela 的孙女（称 Granny），受 Mimi 当众致谢——没有 Jo 这场拍卖办不成（把柠檬做成柠檬水），但 Jo 仍不确定自己是否被完全原谅",
+    "Woody 是 Mimi 的 ‘long-suffering right-hand man’，与 Jo 同行（口型 ‘You did it’、交换警觉眼神），终场把 Pamela 拉到身后并宣布散场",
+    "Alf 是 Mimi 的哥哥，1969 年夏去世；因他爱鸟，拍卖所得捐给 RSPB",
+    "Nancy 是 Mimi 已故丈夫的妹妹，同年夏天去世；庄园拍卖所得设以 Nancy 命名的新艺术基金会，资助『dreams bigger than their means』的年轻女性",
+    "Rafe 是 Mimi 多年的忠诚盟友：落难时借她 Ladbroke Grove 附近鼠患阁楼、把她那些著名摇滚朋友介绍为首批客户；连 Lawrence 也无法对他永远动怒",
+    "Margo 当年甩了 Lawrence（Mimi 当众致谢，Margo 笑答 ‘Most welcome’）",
+    "Lawrence 与 Mimi 曾在 Lyme Regis 发现那颗海玻璃心；被 Pamela 偷走多年，本章归还",
+    "Kaia 是六岁 Swiftie，坚持让 Mimi 穿粉色",
+    "Dolly 是随 Pamela 到场的农场犬（Pamela 手搭其头、Dolly 小跑跟随）",
+    "Mimi 与 Pamela 的父亲是园丁（‘our father used to say, “Time will tell with that one.”’）；Mimi 自称来自 Rushwood 的园丁之家"
+  ],
+  "numbers_dates": [
+    {
+      "verbatim": "48",
+      "context": "章号（文件内标注；本章 POV：Jo）",
+      "byte_offset": 10
+    },
+    {
+      "verbatim": "twenty-something",
+      "context": "戴耳麦、引开 Mimi 的工作人员（Mimi ‘running behind schedule, as ever’）",
+      "byte_offset": 764
+    },
+    {
+      "verbatim": "the eighties",
+      "context": "“Any woman who did business in the eighties needed armour.”",
+      "byte_offset": 2550
+    },
+    {
+      "verbatim": "the summer of ’sixty-nine",
+      "context": "Mimi 的根源：家人、Rushwood 与 1969 年夏；Alf 与 Nancy 均于那年夏天去世",
+      "byte_offset": 4679
+    },
+    {
+      "verbatim": "six-year-old",
+      "context": "Kaia：『trust the six-year-old Swiftie』",
+      "byte_offset": 5245
+    },
+    {
+      "verbatim": "many, many years",
+      "context": "Mimi 与 Pamela 失和的时长（模糊量）",
+      "byte_offset": 6497
+    },
+    {
+      "verbatim": "one summer’s day, long, long ago",
+      "context": "Pamela 承认偷走海玻璃心的时间（模糊日期，话被打断）",
+      "byte_offset": 12323
+    }
+  ],
+  "turning_point": "Pamela 当众亮出并归还她多年前偷走的海玻璃心，认罪话未说完便被 Woody 打断，她把写给姐姐的信塞进 Mimi 手中后穿过人群离场——偷窃旧事公开曝光、和解信悬而未读。"
+}

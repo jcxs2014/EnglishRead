@@ -1,0 +1,189 @@
+{
+  "chapter": "ch47",
+  "text_file": "text/ch47_chapter_47.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "Pamela 在 Lordats 拍卖行台阶半途停步、勇气涣散；Woody 亲切问‘你还好吗，Pamela’，她口称‘我很好’——实则心怦怦狂跳，一想到 Miriam 便出现迅速加重的、近乎晕厥的血虚感，生怕当众出丑。",
+      "anchor": "Halfway up Lordats’ steps, Pamela stalls, courage whistling away.",
+      "byte_offset": 25,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Pamela 自知穿着扎眼：宽松淡紫马海毛开衫加次好的碎花中长裙（特意不穿黑裙，免得勾起保安的记忆），匆忙涂的妆仍盖不住淤青；手包太大太沉、且‘里面装着东西’绝不能丢；她还不肯再丢下狗 Dolly——Woody 打了个电话把它定为‘情绪辅助犬’。",
+      "anchor": "her hastily applied make-up hasn’t covered her bruises",
+      "byte_offset": 1345,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "场内 Woody 把 Pamela 介绍给冰蓝色眼睛的 Will Derry，她很快意识到他才是拍板的人；Will 出于表面的诚意说 Mimi 到场见到姐姐会高兴；但 Miriam 迟迟未到——Pamela 注意到 Woody 频频看表、穿黑衣戴耳麦的工作人员显得焦躁。",
+      "anchor": "Mimi, once she arrives, will be thrilled to find her sister there",
+      "byte_offset": 3386,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "一个黑色弹簧卷发的小女孩跑来喊 Woody ‘Dad’，引出 Pamela 的疑问（她打量 Woody 的无名指婚戒）；小女孩与 Jo 咯咯笑作一团，像早就见过面。",
+      "anchor": "A little girl with springy black curls rushes towards them and calls Woody ‘Dad’",
+      "byte_offset": 4453,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Pamela 借口去洗手间喘口气，在光线讨好的镜前恍惚看见 Bramley 家历代女性——Nana、Ma、Miriam、Leni、Jo——的容貌与笑容在自己皱纹上叠现；她默念此行是为她们了结秘密与谎言，顿时觉得有了力气。",
+      "anchor": "all the tough, wonderful Bramley women – Nana, Ma, Miriam, Leni, Jo – in her reflection",
+      "byte_offset": 6533,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "展厅迎面一整面‘加强版 Miriam 锡罐’照片墙（宅邸、媒体报导、领奖、办晚会，横跨数十年），几乎把她击垮——孩子气地嫉妒又狂野地自豪；她慌乱中走反了方向，Jo 轻轻把她引向 Miriam 在英格兰的早年：黄色自制连衣裙、梨形枝形吊灯坠（那个转机）、太痛的 Nancy 照片，以及 Miriam 在 Pamela 与 Tony 婚礼上戴过的绿宝石心形项链。",
+      "anchor": "the emerald-heart necklace Miriam wore to her and Tony’s wedding",
+      "byte_offset": 8334,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "一位波点加珍珠、像‘小王室’的老妇人贴面礼时与 Pamela 撞鼻，大笑后自报家门：是 Margo；二人从膝盖聊到天气；随后 Rafe——染棕发、皮裤铆钉的摇滚老将——紧抱 Pamela 并耳语‘淤青，摔的还是拉皮的？’，Pamela 答是砖路加一团鸡网；Pamela 避谈自己的丧痛，改讲苗圃兴衰、园艺疗愈和冬季甘蓝大丰收，说到一半窘住收口，Rafe 夸她 ‘seriously cool chick’，喷得她把香槟笑进了鼻腔。",
+      "anchor": "courtesy of a brick path and an unfortunate tangle of chicken wire",
+      "byte_offset": 10903,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Pamela 正回神之际忽觉全场声浪回落、像远处巨钟只在耳内鸣响；眼角掠过钻石的爆炸般闪光，一只她认得出分量与生命力的手落上肩头——她惊得香槟杯脱手，转身之前只来得及用一小口气唤出妹妹的名字。",
+      "anchor": "she drops her champagne glass but hears only her sister’s name escape her lips",
+      "byte_offset": 13355,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "a": "Pamela",
+      "b": "Miriam（派对上被称 Mimi）",
+      "relation": "疏远多年的姐妹；Pamela 为姐姐，Miriam 是‘estranged, extraordinarily successful younger sister’，本次拍卖预展即为庆祝 Miriam 的成就",
+      "anchor": "estranged, extraordinarily successful younger sister",
+      "byte_offset": 8929,
+      "hits": 1
+    },
+    {
+      "a": "Jo",
+      "b": "Pamela",
+      "relation": "孙辈：Jo 唤 Pamela ‘Granny’；Jo 也紧张但强作镇定，身上已带上 Miriam 式的‘辛辣’底味（与其相处被浸染）",
+      "anchor": "Shall we, Granny?",
+      "byte_offset": 5351,
+      "hits": 1
+    },
+    {
+      "a": "黑色卷发小女孩",
+      "b": "Woody",
+      "relation": "喊 Woody ‘Dad’；与 Jo 像旧识般大笑——Pamela 据此对 Woody 的婚姻状况产生疑问",
+      "anchor": "calls Woody ‘Dad’",
+      "byte_offset": 4516,
+      "hits": 1
+    },
+    {
+      "a": "Woody",
+      "b": "Pamela 与 Dolly",
+      "relation": "带 Pamela 入场的同伴：理解她不能丢下 Dolly，一通电话把 Dolly 定为 Emotional Assistance Dog；Pamela 夸他‘什么都能办到’",
+      "anchor": "declared Dolly an Emotional Assistance Dog",
+      "byte_offset": 1650,
+      "hits": 1
+    },
+    {
+      "a": "Pamela",
+      "b": "Bramley 家系（Nana、Ma、Miriam、Leni、Jo）",
+      "relation": "镜中叠现的‘坚强美好的 Bramley 女性’名单；Pamela 自认此行代表她们了结秘密与谎言",
+      "anchor": "all the tough, wonderful Bramley women – Nana, Ma, Miriam, Leni, Jo – in her reflection",
+      "byte_offset": 6533,
+      "hits": 1
+    },
+    {
+      "a": "Tony",
+      "b": "Pamela",
+      "relation": "丈夫（‘her and Tony’s wedding’）；Miriam 当年戴着绿宝石心形项链出席二人登记婚礼，Pamela 记得它得意地闪光",
+      "anchor": "the emerald-heart necklace Miriam wore to her and Tony’s wedding",
+      "byte_offset": 8334,
+      "hits": 1
+    },
+    {
+      "a": "Sam",
+      "b": "Pamela",
+      "relation": "儿子（‘her son Sam’）：Pamela 借用他的口头禅 ‘She’s got this’，还嫌他这把中年年纪不该这么说",
+      "anchor": "as her son Sam might say",
+      "byte_offset": 6839,
+      "hits": 1
+    },
+    {
+      "a": "Will Derry",
+      "b": "拍卖行与 Miriam",
+      "relation": "冰蓝眼、穿主管气派西装的实权人物（‘he is in charge’）；虽被 Pamela 的到场惊到，仍称 Mimi 见姐姐来了会高兴",
+      "anchor": "he is in charge",
+      "byte_offset": 3286,
+      "hits": 1
+    },
+    {
+      "a": "Margo 与 Rafe",
+      "b": "Pamela（旧日圈子）",
+      "relation": "数十年未见便相认的旧识：Margo 外交官夫人（巴黎/日内瓦/孟买）、四子女、婚姻‘凑合着过’；Rafe 摇滚歌手（热歌 ‘Triangle’、五婚八子），开口仍称 Pamela ‘still a babe’",
+      "anchor": "Pamela, still a babe",
+      "byte_offset": 10777,
+      "hits": 1
+    },
+    {
+      "a": "Nancy",
+      "b": "Miriam 的英格兰早年",
+      "relation": "早期展品中挂有 ‘Nancy 的照片’，Pamela 觉得太痛不敢看——与 Miriam 早年相关的人物，本章未展开",
+      "anchor": "Nancy’s photographs, too painful",
+      "byte_offset": 8269,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "value": "twenty-foot",
+      "context": "Pamela 的舒适区不过二十英尺见方的盆栽棚，今晚远超其外",
+      "anchor": "twenty-foot square of potting shed",
+      "byte_offset": 1814,
+      "hits": 1
+    },
+    {
+      "value": "five marriages and eight children",
+      "context": "Rafe 五次婚姻八个孩子，Pamela 承认‘听起来就相当费钱’",
+      "anchor": "five marriages and eight children",
+      "byte_offset": 11840,
+      "hits": 1
+    },
+    {
+      "value": "four",
+      "context": "Margo 有四个成年子女：医生、大律师、投行家，以及住在威尔士深处蒙古包里离网生活的儿子",
+      "anchor": "mother of four grown-up children",
+      "byte_offset": 12056,
+      "hits": 1
+    },
+    {
+      "value": "late seventies",
+      "context": "Margo 年近八十，反倒比二十几岁时有趣得多",
+      "anchor": "far more fun in her late seventies",
+      "byte_offset": 12922,
+      "hits": 1
+    },
+    {
+      "value": "Ward Six",
+      "context": "Pamela 宁愿回到六号病房挨着打呼的病友——至少在那里有安全感",
+      "anchor": "Ward Six",
+      "byte_offset": 2724,
+      "hits": 1
+    },
+    {
+      "value": "the seventies",
+      "context": "数十年前读到 Rafe 的摇滚挥霍史时，Pamela 以为他活不过七十年代",
+      "anchor": "survive the seventies",
+      "byte_offset": 10677,
+      "hits": 1
+    }
+  ],
+  "turning_point": "全场声浪回落、钻石闪光掠过，一只她认得出分量的手落上肩头——Pamela 香槟杯脱手，转身前唤出妹妹的名字：疏远的 Miriam 终于到场。"
+}

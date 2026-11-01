@@ -1,0 +1,278 @@
+{
+  "chapter": 48,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch48 jo.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch48_chapter_48.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Jo can’t bear to watch or look away. Surrounded by a fizzing spill of champagne and broken glass, the sisters face each ",
+          "ok": true,
+          "pos": 11
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "At a Plexiglass lectern, for a moment or two, Mimi looks briefly overwhelmed, then seems to draw on some inner energy – ",
+          "ok": true,
+          "pos": 1231
+        },
+        {
+          "text": "‘And welcome to my damn good clear-out. It was time!’",
+          "ok": true,
+          "pos": 1550
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘But as a wise young lady recently pointed out to me, they’re memories in material form.’ She finds Jo in the crowd. ‘Li",
+          "ok": true,
+          "pos": 1862
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "But Granny’s got a head of steam. ‘After a lifetime of pretending to be someone she’s not – or maybe she is that person ",
+          "ok": true,
+          "pos": 10435
+        },
+        {
+          "text": "‘But we don’t know what we don’t know. She may be the exception in many ways, but she’s not the exception to that.’",
+          "ok": true,
+          "pos": 10643
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘I’m returning the missing sea-glass heart you and Lawrence found in Lyme Regis, Miriam. It belongs in your auction.’",
+          "ok": true,
+          "pos": 11365
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘I stole it one summer’s day, long, long ago because –’",
+          "ok": true,
+          "pos": 11517
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘I wrote this for you too.’ Granny thrusts a folded bit of paper into Mimi’s hands just before Woody pushes her behind h",
+          "ok": true,
+          "pos": 11616
+        }
+      ],
+      "words": 64
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 0,
+        "为什么这样写": 84,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.53
+      }
+    }
+  ],
+  "form": {
+    "h1": "48. Jo",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2164,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
