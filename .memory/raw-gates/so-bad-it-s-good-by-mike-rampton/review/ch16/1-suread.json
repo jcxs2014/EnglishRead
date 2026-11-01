@@ -1,0 +1,163 @@
+{
+  "chapter": "ch16",
+  "text_file": "text/ch16_maths_and_science_jokes_that_just_dont_add_up.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者把「冰人」这类物理/温度双关收进数学科学章：一个人由冰构成、体温低于零度，落点是他是个 ice guy（冰做的家伙）。",
+      "quote": "I’ve just met a man who appears to be made out of frozen water and has a core temperature of below 0 degrees Celsius.",
+      "char_range": [
+        105,
+        222
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "中子进酒吧的笑话把「不收费」与「不带电荷」压在同一句 No charge 上，让物理属性直接充当酒保台词。",
+      "quote": "A neutron goes into a bar and orders a drink. ‘How much do I owe you?’ it asks. ‘For you?’ says the barman, ‘No charge.’",
+      "char_range": [
+        250,
+        370
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "作者用「原子构成万物／原子凭空编造」的双关解释科学家为何不信原子，机制是 make up 的双义。",
+      "quote": "Why don’t scientists trust atoms? Because they make up everything.",
+      "char_range": [
+        375,
+        441
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "负数笑话把习语 stop at nothing（不择手段）字面化为「停在 nothing 上」，于是怕负数的人恰好永远不碰负数。",
+      "quote": "Did you hear about the mathematician who’s afraid of negative numbers? He’ll stop at nothing to avoid them.",
+      "char_range": [
+        446,
+        553
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "光子登机笑话靠 travelling light 的双义（轻装旅行／以光速旅行）收尾，属于物理属性被塞进日常对白的一类。",
+      "quote": "‘Do you have any luggage?’ says the person behind the desk. ‘No,’ says the photon, ‘I’m travelling light.’",
+      "char_range": [
+        603,
+        709
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "电子丢失笑话用 positive 的双义（确定／带正电）作结，把粒子电荷说成失物招领时的一句口头确认。",
+      "quote": "‘Oh no, I think I lost an electron!’ ‘Are you sure?’ says the other. ‘Yep,’ says the first one, ‘I’m positive.’",
+      "char_range": [
+        768,
+        879
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "薛定谔的猫被改写成通缉犯 wanted dead and alive，把「既死又活」的叠加态直接搬进西部片通缉令的句式。",
+      "quote": "Schrödinger’s Cat recently went on a crime spree and is now wanted dead and alive.",
+      "char_range": [
+        948,
+        1030
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "章末并入的「Jokes for mathematical geniuses」小节另收一批需要进阶数学背景的笑话（外推、分子/分母、斐波那契、函数进酒吧、八进制与十六进制），斐波那契那条把数列增长说成派对规模。",
+      "quote": "I’m looking forward to this year’s Fibonacci party. Apparently it’s as big as the last two put together.",
+      "char_range": [
+        3846,
+        3950
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "“There are 10 types of people …” / “There are two types of people …”",
+      "relation": "同一「世上有 N 种人」句式在正章与并入的数学天才小节各出现一次；后者把列表故意停在省略号上，用「数据不完整」自我指涉，是对前者的进阶改写。",
+      "quote": "There are two types of people in the world: those who can extrapolate information from incomplete data sets …",
+      "char_range": [
+        3633,
+        3742
+      ]
+    },
+    {
+      "pair": "“Why was 6 afraid of 7?” / “Why was 49 afraid of 50?”",
+      "relation": "两则是同一「数字名谐音成句」机制的两个变体：7 8 9 读作 seven ate nine，49 与 50 打架后 51 读作 fifty won。",
+      "quote": "Why was 49 afraid of 50? Because they had a fight, and 51.",
+      "char_range": [
+        1456,
+        1514
+      ]
+    },
+    {
+      "pair": "“5 out of 4 people … fractions” / “numerators and denominators … only a fraction”",
+      "relation": "两处都拿 fraction 的双义（分数／一小部分）做文章，前者用统计句式把比例说反，后者用分子分母之分说「只有一小部分人懂」。",
+      "quote": "Apparently 5 out of 4 people say they don’t use fractions properly.",
+      "char_range": [
+        1252,
+        1319
+      ]
+    },
+    {
+      "pair": "“Stand in the corner, it’s 90 degrees!” / “put it in the oven at 180 degrees”",
+      "relation": "两则共用「度数」一词，把几何角度与温度/烤箱设定互换，让听者先按一个义项理解、再被另一个义项纠正。",
+      "quote": "What should you do if you’re cold in a rectangular room? Stand in the corner, it’s 90 degrees!",
+      "char_range": [
+        1800,
+        1894
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "0 degrees Celsius",
+      "meaning": "冰人笑话给出的核心体温，是「由冰构成」这一双关成立的物理前提。",
+      "quote": "has a core temperature of below 0 degrees Celsius",
+      "char_range": [
+        172,
+        221
+      ]
+    },
+    {
+      "value": "24 hours",
+      "meaning": "科学家看地球自转 24 小时后觉得无聊，于是 call it a day（收工／把这一天叫作一天）。",
+      "quote": "Scientists reported getting bored after watching the Earth turn for 24 hours",
+      "char_range": [
+        2097,
+        2173
+      ]
+    },
+    {
+      "value": "180 degrees",
+      "meaning": "数学家按烤箱温度 180 度理解披萨盒说明，于是配料全掉了——角度单位被当成烘焙温度。",
+      "quote": "The instructions said to put it in the oven at 180 degrees.",
+      "char_range": [
+        2890,
+        2949
+      ]
+    },
+    {
+      "value": "10 / two",
+      "meaning": "二进制笑话里的 10 实际是十进制 2，所以「10 种人」的字面数量与真实类别数故意对不上。",
+      "quote": "There are 10 types of people in the world: those that understand binary and those that don’t.",
+      "char_range": [
+        1154,
+        1247
+      ]
+    },
+    {
+      "value": "Oct 31 = Dec 25",
+      "meaning": "程序员混淆万圣节与圣诞节，因为八进制 31 等于十进制 25，Oct/Dec 又恰好是十月/十二月的缩写。",
+      "quote": "Why do computer programmers mix up Halloween and Christmas? Because Oct 31 = Dec 25.",
+      "char_range": [
+        4041,
+        4125
+      ]
+    }
+  ]
+}

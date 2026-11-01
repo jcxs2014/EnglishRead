@@ -1,0 +1,145 @@
+{
+  "chapter": "ch18",
+  "text_file": "text/ch18_terrible_travel_jokes.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "章首把 once-in-a-lifetime（一生一次）字面化成一句抱怨：一生一次的假期，结论是「再也不去了」。",
+      "quote": "I went on a once-in-a-lifetime holiday. Never again.",
+      "char_range": [
+        56,
+        108
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "一类笑话靠地名同形词被听岔：克罗地亚第二大城 Split 被当成「分着吃」，于是回答只要「普通的香蕉冰淇淋」。",
+      "quote": "‘I had a banana ice-cream in Croatia’s second-largest city.’ ‘Split?’ ‘No, just a regular banana ice-cream.’",
+      "char_range": [
+        734,
+        842
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "同一模板套在加拿大北方领地 Nunavut 上：她 was having Nunavut，谐音「根本不干」（having none of it）。",
+      "quote": "I asked my friend if she wanted to play a game where we each claimed territories of Canada starting from the north. She was having Nunavut.",
+      "char_range": [
+        487,
+        626
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "还有靠同音形容词的：密歇根湖附近撞见自己的二重身，对方回 Eerie（伊利湖／诡异），说话人却按「确实是密歇根」理解。",
+      "quote": "‘I saw my doppelganger once, near Lake Michigan.’ ‘Eerie.’ ‘No, it was definitely Michigan.’",
+      "char_range": [
+        847,
+        939
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "国旗类笑话把瑞士国旗的十字读成一个加号：瑞士最好的地方是国旗是个大大的 plus。",
+      "quote": "What’s the best thing about Switzerland? Well, the flag’s a big plus.",
+      "char_range": [
+        246,
+        315
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "国名／州名被拆成日常词：路易斯安那的洗衣粉从 bayou 换成 non-bayou，瑞典军舰装条码是为了能 Scandinavian（scan 一遍）。",
+      "quote": "I used to buy my washing powder from Louisiana, but recently I’ve switched to non-bayou.",
+      "char_range": [
+        1132,
+        1220
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "首都名被读成短句：都柏林是 always Dublin（double in），台北人的血型是 Taipei，罗马尼亚晚上不能读书因为该 give the Bucharest（book arrest）。",
+      "quote": "Why can’t you read at night in Romania? It’s time to give the Bucharest.",
+      "char_range": [
+        3007,
+        3079
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "语言与食物双关成组出现：巴黎煎蛋只用一个蛋，因为 one egg is un oeuf（enough）；印度餐厅 naan profit、越南餐厅 pho profit。",
+      "quote": "In Paris, they make omelettes with only one egg. That’s because one egg is un oeuf.",
+      "char_range": [
+        2372,
+        2455
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Split / Nunavut / Andalusia / Mogadishu / Jamaica",
+      "relation": "同一模板的多次复用：问句里的那个单词既是地名又是普通词，答话人按普通词理解，于是给出一个驴唇不对马嘴的回答。",
+      "quote": "‘I once saw a cat sneeze in Somalia.’ ‘Mogadishu?’ ‘Yes.’",
+      "char_range": [
+        1882,
+        1939
+      ]
+    },
+    {
+      "pair": "Dublin / Taipei / Bucharest",
+      "relation": "首都名谐音组：首都名被读成一个短句（double in / tie pay / book arrest），国家与首都的固定搭配被换成一句日常抱怨。",
+      "quote": "Why are the Irish so wealthy? Their capital is always Dublin.",
+      "char_range": [
+        2141,
+        2202
+      ]
+    },
+    {
+      "pair": "“one egg is un oeuf” / “naan profit, pho profit”",
+      "relation": "跨语言同音组：法语 un oeuf 谐 enough、印度馕 naan 谐 none、越南粉 pho 谐 faux，笑点都要求听者把外语词听成本族语短语。",
+      "quote": "What’s the difference between an Indian restaurant and a Vietnamese restaurant? Indian restaurants are naan profit, while Vietnamese restaurants are pho profit.",
+      "char_range": [
+        2207,
+        2367
+      ]
+    },
+    {
+      "pair": "“once-in-a-lifetime holiday. Never again.” / “busman’s holiday”",
+      "relation": "两则都拿旅行固定说法本身开玩笑（元语言笑话），前者拆 once-in-a-lifetime 的字面义，后者把 busman’s holiday 用到「在家也说」的自指情境里。",
+      "quote": "I like using the phrase ‘busman’s holiday’ when I travel. The thing is, I use it so much at home …",
+      "char_range": [
+        631,
+        729
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "second-largest",
+      "meaning": "Split 是克罗地亚第二大城，这个排名是「Split 被听成 split（分着吃）」的前提。",
+      "quote": "Croatia’s second-largest city",
+      "char_range": [
+        763,
+        792
+      ]
+    },
+    {
+      "value": "ten",
+      "meaning": "学西班牙语数数「从没数过十」，把语言学习的停滞说成笑话。",
+      "quote": "I’m learning to count in Spanish but have never made it past ten. Not even once.",
+      "char_range": [
+        1347,
+        1427
+      ]
+    },
+    {
+      "value": "one egg",
+      "meaning": "巴黎煎蛋只放一个蛋，为 un oeuf（enough）的同音双关做铺垫。",
+      "quote": "In Paris, they make omelettes with only one egg.",
+      "char_range": [
+        2372,
+        2420
+      ]
+    }
+  ]
+}

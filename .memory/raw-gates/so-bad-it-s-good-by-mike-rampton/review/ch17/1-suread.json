@@ -1,0 +1,136 @@
+{
+  "chapter": "ch17",
+  "text_file": "text/ch17_more_classic_joke_formats_explained.txt",
+  "facts": [
+    {
+      "id": 1,
+      "claim": "作者把「What’s the difference?」笑话分成几类，第一类是 spoonerism：互换主要单词的首辅音，且常常只说前半句，让听者自己补出下半句。",
+      "quote": "Many involve spoonerisms, swapping the first consonants of the main words, and often trail off to leave the listener to work out the punchline themselves.",
+      "char_range": [
+        175,
+        329
+      ]
+    },
+    {
+      "id": 2,
+      "claim": "第二类靠双关和双重含义，作者用英格兰足球队与茶包的对比说明：茶包在杯里待得更久。",
+      "quote": "What’s the difference between the England football team and a teabag? / The teabag stays in the cup longer.",
+      "char_range": [
+        510,
+        617
+      ]
+    },
+    {
+      "id": 3,
+      "claim": "第三类是讽刺用法，用同一个句式点出两者其实很像，例证是政府与黑手党——黑手党反而「有组织」。",
+      "quote": "Sometimes they’re used to satirically point out how similar two things are. What’s the difference between the government and the Mafia? / The Mafia is organized.",
+      "char_range": [
+        618,
+        779
+      ]
+    },
+    {
+      "id": 4,
+      "claim": "第四类是荒诞反笑话（anti-joke），笑的是这个笑话形式本身，例证是鱼与自行车：它们都会游泳，除了自行车。",
+      "quote": "But they can also be absurd anti-jokes, laughing at the very idea of themselves.",
+      "char_range": [
+        780,
+        860
+      ]
+    },
+    {
+      "id": 5,
+      "claim": "「Foolish group of choice」一节说每种文化都有把另一文化当傻子的刻板印象：英国版以爱尔兰人为靶，美国版以波兰人为靶。",
+      "quote": "The Irish were historically the target of these when told in the UK, while American versions targeted the Polish.",
+      "char_range": [
+        1066,
+        1179
+      ]
+    },
+    {
+      "id": 6,
+      "claim": "作者指出这类笑话有时把种族偏见换成厌女（用 blonde 顶替），但从效率看「An idiot」更好用，因为不必指望听者共享你的偏见。",
+      "quote": "From an efficiency perspective, ‘An idiot’ works better as it doesn’t rely on the person you’re telling the joke to sharing your bigotry.",
+      "char_range": [
+        1435,
+        1572
+      ]
+    },
+    {
+      "id": 7,
+      "claim": "灯泡笑话一节的逻辑是：换灯泡本是一人活，所以人数只要不是 1、方案只要不直截，就被读成对该群体的深刻揭示；这类笑话常用行业内部刻板印象。",
+      "quote": "The idea is that changing a lightbulb is generally a one-person job, so any number other than one, and any solution other than a very straightforward one, is deeply revealing.",
+      "char_range": [
+        2017,
+        2192
+      ]
+    },
+    {
+      "id": 8,
+      "claim": "「Batty book jokes」一节讲把双关包装成书名加作者名（如 I. P. Knightley），作者名本身构成与书名呼应的烂笑话，并给出三个实例。",
+      "quote": "Rusty Bedsprings by I. P. Knightley; Attempting to Improve Matters by Amelia Rating; Out of the Blue by Oliver Sudden.",
+      "char_range": [
+        3033,
+        3151
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "lightbulb jokes / “Foolish group of choice” jokes",
+      "relation": "灯泡一节显式回指前一节（see above）：每个行业都有「愚蠢群体」，在灯泡笑话里就变成需要五个人换灯泡的那组人，两节共用同一套群体贬低模板。",
+      "quote": "just as they all have foolish groups (see above) that would require five people to change a bulb",
+      "char_range": [
+        2520,
+        2616
+      ]
+    },
+    {
+      "pair": "“What’s the difference between the government and the Mafia?” / 族群刻板印象笑话",
+      "relation": "两者都靠贬低他者制造笑点，但前者针对机构、后者针对族群；作者在同一章里把「讽刺机构」与「族群偏见」并置，并随后讨论后者的伦理成本。",
+      "quote": "Every culture has stereotypes about another culture being stupid.",
+      "char_range": [
+        1000,
+        1065
+      ]
+    },
+    {
+      "pair": "spoonerism 类 / wordplay 类",
+      "relation": "同属「What’s the difference?」下的两类，但前者动的是声音（互换首辅音），后者动的是词义（双重含义），作者用 Others 明确标出这一分工。",
+      "quote": "Others are about wordplay and usually involve some kind of double meaning.",
+      "char_range": [
+        435,
+        509
+      ]
+    },
+    {
+      "pair": "书名配假作者 / 真人配书名",
+      "relation": "同一节里的两种相反做法：先有书名再编出谐音作者名，或先有真人名再倒推一个像他会写的书名，作者说后者一旦开始就会让词失去意义。",
+      "quote": "You can also do them the other way around, coming up with book titles that real authors or celebrities might have written",
+      "char_range": [
+        3152,
+        3273
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "five (1 + 4)",
+      "meaning": "灯泡笑话里「愚蠢群体」的标准配置：一人站上桌子换灯泡，四人转桌子。",
+      "quote": "that would require five people to change a bulb: one to stand on a table and do it, and four to spin the table around",
+      "char_range": [
+        2569,
+        2686
+      ]
+    },
+    {
+      "value": "one",
+      "meaning": "换灯泡本是单人工作，这个「1」是整类笑话的判定基准：人数不是 1 才有笑点。",
+      "quote": "changing a lightbulb is generally a one-person job",
+      "char_range": [
+        2034,
+        2084
+      ]
+    }
+  ]
+}
