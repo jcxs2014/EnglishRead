@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch36",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch36_36_brimstone_and_fire.txt",
+ "facts": [
+  {
+   "fact": "假扮乐手的一行人被 Diarban 点齐、由 Rumon 与神父 Gwynn 带出马厩，绕过圆形的中堡，走向通往内城与王座厅的城门。",
+   "anchor": "led out of the mews by Rumon and the priest",
+   "start": 187,
+   "end": 230
+  },
+  {
+   "fact": "Diarban 对建筑的兴趣有来历：祖父是木匠，父亲成了有名望的竖琴手，而他自己继承了祖父看榫头与雕饰的眼力。",
+   "anchor": "Diarban came by his interest in buildings honestly",
+   "start": 1021,
+   "end": 1071
+  },
+  {
+   "fact": "王座厅里有人在国王开口前先发话，说陛下今日太累、把乐手赶走；国王随即反问，难道在自己的屋子里也要听人指挥。",
+   "anchor": "His Majesty is too tired for this today",
+   "start": 3282,
+   "end": 3321
+  },
+  {
+   "fact": "传说 Tethtain 离国前把战斧深深砍进橡树，宣称只有能拔出斧头的人才配跟去王座；而眼前瘫坐的那人已胖得走了形。",
+   "anchor": "sunk his great battle ax into an oak tree so deeply",
+   "start": 3768,
+   "end": 3819
+  },
+  {
+   "fact": "Diarban 低声问要奏多久，Gwynn 只答一句：奏到国王身边没有人为止。",
+   "anchor": "Until the king is by himself",
+   "start": 6921,
+   "end": 6949
+  },
+  {
+   "fact": "Gwynn 承认烟雾是他放的：神庙壁炉里塞了一箱硫磺，烧穿后白鸫的仆人必定去报信；至于「龙醒了」那套话不在他计划内。",
+   "anchor": "I set a wooden box full of sulfur",
+   "start": 19308,
+   "end": 19341
+  },
+  {
+   "fact": "Tethtain 坚持自己的说法：Cria 死了，孩子也死了，所以眼前自称儿子的年轻人不可能；他被问起是谁说的，只答记不清。",
+   "anchor": "My dear Cria died and her child died too",
+   "start": 15711,
+   "end": 15751
+  },
+  {
+   "fact": "Gwynn 说外门附近的马厩已备好马匹与补给，一行人趁烟雾与混乱离厅、取物、上马，从大木门出城。",
+   "anchor": "horses and supplies waiting for us at the stables",
+   "start": 21948,
+   "end": 21997
+  }
+ ]
+}

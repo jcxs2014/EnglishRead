@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch35",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch35_35_the_only_true_heir.txt",
+ "facts": [
+  {
+   "fact": "大厅因 Gwynn 的请求安静下来，Daley 边听边找退路。",
+   "anchor": "Father Gwynn’s startling request",
+   "start": 65,
+   "end": 97
+  },
+  {
+   "fact": "Gwynn 说自己的头号敌人得国王听信，杀他会借法律之名。",
+   "anchor": "my chiefest enemy has the ear of my king",
+   "start": 417,
+   "end": 457
+  },
+  {
+   "fact": "Gwynn 当面贬斥 Oymos 教士软弱，说 Aedonites 更低。",
+   "anchor": "You are nearly as bad as the Aedonites",
+   "start": 2919,
+   "end": 2957
+  },
+  {
+   "fact": "王子当众报出姓名与家世，Gwynn 随即跪下吻他的手。",
+   "anchor": "I am Ewain of Cashelrigg",
+   "start": 4431,
+   "end": 4455
+  },
+  {
+   "fact": "Ewain 自陈是 Tethtain 的合法继承人，母亲是 Cria。",
+   "anchor": "I am the only lawful heir of King Tethtain",
+   "start": 4550,
+   "end": 4592
+  },
+  {
+   "fact": "Gwynn 说国王在 Jonever 月重病，几乎没挺过来。",
+   "anchor": "an especially close brush with Dunn of the Dark House",
+   "start": 5872,
+   "end": 5925
+  },
+  {
+   "fact": "Daley 把 Amber 挂在衣外，不再贴身，也不肯再走 Dream Road。",
+   "anchor": "he left it dangling on the outside",
+   "start": 22538,
+   "end": 22572
+  },
+  {
+   "fact": "第三天 Gwynn 回来传话：当天下午要为国王演奏。",
+   "anchor": "You are bidden to attend His Majesty",
+   "start": 26904,
+   "end": 26940
+  }
+ ]
+}
