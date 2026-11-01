@@ -1,0 +1,55 @@
+{
+ "book": "the-splintered-sun-by-tad-williams",
+ "chapter": "ch27",
+ "text": "notes/books/novels/the-splintered-sun-by-tad-williams/text/ch27_27_the_black_crags.txt",
+ "facts": [
+  {
+   "fact": "Vedra 头一次知道 Threadbare Hall 竟有马厩，规模比饭厅与接见厅合起来还大。",
+   "anchor": "Vedra was quietly astonished by the size",
+   "start": 26,
+   "end": 66
+  },
+  {
+   "fact": "Xaniko 说保密是为所有人的安全：仆人仍要与 Crannhyr 商人往来，只怕无意间漏了口风；那地方没人愿意去。",
+   "anchor": "If nobody knows where we are bound",
+   "start": 5457,
+   "end": 5491
+  },
+  {
+   "fact": "目的地是 Black Crags，Mearna 一听就惊叫那地方名声极坏。",
+   "anchor": "A place called the Black Crags",
+   "start": 5886,
+   "end": 5916
+  },
+  {
+   "fact": "Xaniko 要找的不是立石，而是一件小得能握在手里的东西。",
+   "anchor": "could be carried in one hand",
+   "start": 8492,
+   "end": 8520
+  },
+  {
+   "fact": "借 Flann 旧识 Hagan 引 Phelan 的兵入场，让 Phelan 与 Scaeth 两军互相牵制，好把 Ewain 偷送回 Hernystir。",
+   "anchor": "the two bastards’ armies will occupy each other",
+   "start": 9145,
+   "end": 9192
+  },
+  {
+   "fact": "一个 Witness 不够用，必须有两个，好让一个对另一个说话。",
+   "anchor": "a single Witness is no use to us",
+   "start": 10012,
+   "end": 10044
+  },
+  {
+   "fact": "墓中取出的头骨鼻骨塌陷、上齿消失，Xaniko 判定 Brynn 是麻风病人。",
+   "anchor": "King Brynn was a leper",
+   "start": 27159,
+   "end": 27181
+  },
+  {
+   "fact": "Daley 从肋骨堆里掏出拳头大的东西，那东西烫手，他痛叫松手。",
+   "anchor": "“It’s hot!” Daley cried. “It burned me!”",
+   "start": 28200,
+   "end": 28240
+  }
+ ]
+}
