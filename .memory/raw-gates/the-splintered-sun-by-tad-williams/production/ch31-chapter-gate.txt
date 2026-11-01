@@ -1,0 +1,20 @@
+单章体检：ch31  ch31 under the horns of hern.md
+  语料：/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-splintered-sun-by-tad-williams/text/ch31_31_under_the_horns_of_hern.txt
+  块数 13（本章 4538 词，建议 8–14 块；硬限 2–15｜本书 31 章中位 12、最高 13（同类书按本书分布判））
+
+【逐字】
+  引语块 13，片段 13，查无 0
+
+【对应】
+  空引号 0｜子项缺 0｜关键词不成立 0｜中文过薄 0｜模板套话 0｜残句缺词 0
+  ✅ 引语长度：全部 ≤100 词
+
+【形态】
+  H1 ✅：31. Under the Horns of Hern
+  导航 5 项 ✅
+  块数 13（本书中位 12.5，范围 7–13）
+
+【断言】
+  ❓ 机器不判「谁做的/什么关系/死因/数字」——留给 R1 素读 + R3 对账。
+
+结论：✅ 机器层无阻断（档位四选一见审查表）
