@@ -17,7 +17,7 @@ modified: "2026-10-31"
 
 > **原句 1:** "He went as far as the village of Lyke, parked in an alley near the church, and made his way on foot towards the street with the charity shop. The photograph in its silver frame was in his jacket pocket."
 
-**中文理解**：他开车到 Lyke 村，把车停在教堂旁的小巷里，步行走向慈善商店所在的街道。银框照片就在他夹克口袋里。这是他第一次独自离开 Kirkhill 进入人类社会。
+**中文理解**：他开车到 Lyke 村，把车停在教堂旁的小巷里，步行走向慈善商店所在的街道。银框照片就在他夹克口袋里——这一次他带着物证出门求证。
 
 **关键词**：Lyke / alley / charity shop / photograph / silver frame
 
@@ -31,7 +31,7 @@ modified: "2026-10-31"
 
 **关键词**：friends / here / goodbye / word
 
-**为什么这样写**：「Not a word」在句内重复两次，中间夹着「But no.」——否定词的连击把「无声的离开」写成一种暴力。「Not even goodbye」是全章最重的一拍：告别是社会关系的最小单位，连这个都被省略，说明 Caroline 不是「悄悄搬走」，而是主动切断了所有连接。这段回答与段 7「I had no idea they'd gone」互为注脚：一个说没人知道他们走了，一个说 Caroline 一个字都没说——信息从「不知」滑向「刻意」。
+**为什么这样写**：「Not a word」在句内重复两次，中间夹着「But no.」——否定词的连击把「无声的离开」写成一种暴力。「Not even goodbye」是全章最重的一拍：告别是社会关系的最小单位，连这个都被省略，说明 Caroline 不是「悄悄搬走」，而是主动切断了所有连接。这段回答与原文另一处「I had no idea they'd gone until I saw the house for sale」互为注脚：一个说没人知道他们走了，一个说 Caroline 一个字都没说——信息从「不知」滑向「刻意」。
 
 **读者视角提示**：注意女店员的语气变化——她说「friends」时是困惑，说「Not even goodbye」时几乎带怒。一个本地人对邻居的不告而别感到被冒犯，这说明在 Lyke 这种社区里，「不告别」比「搬走」更刺眼。
 
