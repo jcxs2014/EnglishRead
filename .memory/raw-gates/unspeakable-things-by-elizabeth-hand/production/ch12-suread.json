@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch12",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch12_chapter_12.txt",
+ "facts": [
+  {
+   "fact": "表兄 Simon 爽快同意给“我”和另一个女孩两人当家教，具体教什么仍是谜",
+   "anchor": "My cousin Simon readily agreed to tutor both myself and another girl",
+   "start": 81,
+   "end": 149
+  },
+  {
+   "fact": "父亲开着《The Devil in the Details》叫座后买下的 Hispano-Suiza，不打招呼登门拜访 Tamsin 的姨妈；这辆车在我们的悬崖路上极不合适，但在少有人有车的西乡仍很唬人",
+   "anchor": "My father visited her unannounced in the Hispano-Suiza he’d purchased after his successful run in The Devil in the Details",
+   "start": 247,
+   "end": 369
+  },
+  {
+   "fact": "父亲回来报告：姨妈把姑娘叫进来，她承认确实在荒原上和“我”说过话；父亲骂她 Sullen little witch",
+   "anchor": "she admitted that, yes, she’d spoken to you on the moor",
+   "start": 796,
+   "end": 851
+  },
+  {
+   "fact": "父亲转述姨妈的话：Tamsin 已离开学校但拒绝工作——不肯看孩子因为恨孩子，舅舅不让进店因为对顾客粗鲁；姨妈巴不得我们把她接走",
+   "anchor": "the girl’s done with school but refuses to work",
+   "start": 1022,
+   "end": 1069
+  },
+  {
+   "fact": "父亲点破 Olivia 没把全部实情告诉他，说自己以撒谎为生、别想骗过他；但又承认因她母亲的旧诺有义务，也理解 Olivia 可能孤单",
+   "anchor": "I lie for a living—don’t you imagine you’ll get the better of me",
+   "start": 1445,
+   "end": 1509
+  },
+  {
+   "fact": "父亲安排明天接 Tamsin，住 Miss Irikos 的旧房间；Simon 两周后来住绿色卧室；旧音乐室作教室；Lily 负责打点",
+   "anchor": "I arranged to collect the girl—Tamsin—tomorrow",
+   "start": 2631,
+   "end": 2677
+  },
+  {
+   "fact": "父亲说该谢的是 Martin——Martin 认为 Olivia 独自在这里变得 moody；Simon 先住一个月左右，之后再决定 Olivia 去哪里",
+   "anchor": "It’s Martin you should thank",
+   "start": 3381,
+   "end": 3409
+  },
+  {
+   "fact": "父亲扔下驾驶手套转身离开前丢下话：希望这不是个错误；若是，承受它的是 Olivia 而不是他",
+   "anchor": "you’re the one who’ll have to live with it, my dear. Not me",
+   "start": 4058,
+   "end": 4117
+  }
+ ]
+}
