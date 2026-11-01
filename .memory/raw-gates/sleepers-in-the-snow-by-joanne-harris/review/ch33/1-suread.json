@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch33",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch33_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "本章日期为 2024 年 12 月 4 日；雪已停、天放晴，只有一条凝结尾迹横过电塔上空。",
+   "anchor": "December 4th, 2024",
+   "start": 23,
+   "end": 41
+  },
+  {
+   "fact": "来自 Kirkhill 的女医生拒绝评论她的病人，并明确 Benn 在任何一天都无法接电话；主人公想解释但信号太差，只好放弃。",
+   "anchor": "The woman from Kirkhill had refused to comment",
+   "start": 119,
+   "end": 165
+  },
+  {
+   "fact": "主人公得知 Arthur Sanderson 还活着，住在 Ravenscar 的记忆照护机构（即痴呆），并推断 Benn 医生也有认知问题、或许因丧妻之悲而崩溃；Benn 同样遥不可及，只能靠读他的书。",
+   "anchor": "Arthur Sanderson was alive, in Ravenscar, in memory care.",
+   "start": 414,
+   "end": 471
+  },
+  {
+   "fact": "他穿上靴子出门徒步走向电塔：房子与电塔之间那片未踩过的雪经过三天白昼日晒变得坑洼，表层冻硬、下层松软，几百码路程走得跌跌撞撞、半途汗流浃背；距塔三十英尺处看见雪下如恋人沉睡的 howes 和一根 teasel。",
+   "anchor": "Three days of daytime sunshine",
+   "start": 2538,
+   "end": 2568
+  },
+  {
+   "fact": "他想起 Arthur 照片背面潦草写下的字句，笔迹是 Caroline 的；走近电塔影子时认出那是威尔士诗人写给临终父亲的十九行诗（Do not go gentle into that good night），由此理解照片里 Arthur 的暴怒、情绪波动与写作是不肯温顺赴死的挣扎，为 Arthur 感到一阵悲恸。",
+   "anchor": "The writing had been Caroline’s; the words",
+   "start": 3381,
+   "end": 3423
+  },
+  {
+   "fact": "数周来他第一次听见 Caroline 的声音自头顶电线低语（“它睡着了，何必现在唤醒它”），随后 Benn 的声音问“若代价是你的理智呢”，他回答自己正在一点点失智，谈不上保持理智。",
+   "anchor": "whispered Caroline’s voice from the wires overhead",
+   "start": 5136,
+   "end": 5186
+  },
+  {
+   "fact": "回望时他发现自己堆的雪人（围头巾、穿大衣、一口苹果片做的红笑）不知何时从背对房子变成几乎正对客厅窗户，令他不安，但靠近电塔的当下无暇深究。",
+   "anchor": "Now it was almost directly facing the living-room window.",
+   "start": 4887,
+   "end": 4944
+  },
+  {
+   "fact": "他站到电塔正下方仰头看，天旋如轮辐、失去平衡跌进雪里起不来；随即歇斯底里大笑，喊“All this, and there's nothing here!”，躺着等天罚却什么也没发生（无低语、无震怒、无启示、无雷劈），最后爬起来走回房子，只有雪人“迎他回家”。",
+   "anchor": "lost his balance and fell backwards into the snow",
+   "start": 6571,
+   "end": 6620
+  }
+ ]
+}

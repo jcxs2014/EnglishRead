@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch31",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch31_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "章首是2024年12月1日的日记：大雪暴持续48小时，雷声空前的响，雪已堆到客厅窗户；写日记的人自问「我的故事是什么、我此刻在哪里、要不要追闪电」。",
+   "anchor": "December 1st, 2024",
+   "start": 24,
+   "end": 42
+  },
+  {
+   "fact": "他保住了前门周围的空间，但绕屋的雪漂局部高达六英尺、钩住房檐与水管；汽车被雪埋成坟丘；气温在零度上下（而非降到零下四度），寒意却深入骨髓。",
+   "anchor": "reached up to six feet",
+   "start": 770,
+   "end": 792
+  },
+  {
+   "fact": "最糟的是噩梦回来了：他梦见Arthur和Caroline在雪中互相追逐，梦见钢铁长腿的铁塔跨过荒原，梦见旧神Rombold与Wade以闪电为盾相击。",
+   "anchor": "Dreams of Arthur and Caroline",
+   "start": 1429,
+   "end": 1458
+  },
+  {
+   "fact": "他几次在敲门声中醒来，以为听到女声哀求着要他放她进来——尽管那也可能只是远处狐狸的尖叫。",
+   "anchor": "a woman’s voice, begging and pleading to be let in",
+   "start": 1715,
+   "end": 1765
+  },
+  {
+   "fact": "走到Lyke取补给已不现实，但他的食物和燃料够撑数周，还有手机可以紧急求援，于是决定守在屋里、吃饱盖暖、把炉火添足。",
+   "anchor": "He had food and fuel to last for weeks",
+   "start": 2273,
+   "end": 2311
+  },
+  {
+   "fact": "他已多日没从电线里听到Caroline的声音，怀疑她生气了（“Angry that I sent her outside”——是她被他送到了外面）；雪人穿着她的衣服、太逼真，他甚至半等着它抖掉积雪走到门前。",
+   "anchor": "He hadn’t heard her voice from the wires for days",
+   "start": 3503,
+   "end": 3552
+  },
+  {
+   "fact": "他重读Arthur的日记找线索：2020年12月19日一条写“Caroline说想离开，却只是站在荒原上——她微笑、敲门、走路，却哪儿也到不了”；该条日期在Arthur写下“Caroline is in the wires”之后一周。",
+   "anchor": "Caroline says she wants to leave",
+   "start": 3827,
+   "end": 3859
+  },
+  {
+   "fact": "他从客厅木箱里翻出Arthur的照片信封与残缺底片：铁塔脚下有个穿臃肿外套、头巾飘动的浅色人影（可能是Caroline）；章末他自问：几天前自己堆的雪人怎么会在Arthur拍的铁塔照片里？",
+   "anchor": "his snowman doing there in Arthur’s shot of the pylon",
+   "start": 5112,
+   "end": 5165
+  }
+ ]
+}
