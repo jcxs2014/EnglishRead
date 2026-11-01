@@ -103,7 +103,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：三句全是限定与让步，节奏像在跟读者讨价还价："not by much, but marginally, at least"。作者把「当众崩溃」写成一件他事先想到过、却躲不掉的事——因为病房满了，人都在场，于是连崩溃也得在众目睽睽之下完成。最后一句独立成段，落地成铁。
 
-- **读者视角提示**：这间病房随后会被逐一点名：杰、尼亚姆哈、高，还有那些中毒的伊安塔斯士兵。留意作者如何在同一个空间里并置他与普通士兵——他的痛与别人的伤被摆在同一排床上。
+- **读者视角提示**：这间病房随后会被逐一点名：杰、尼亚姆哈、几位受伤的贵族，而大多数床位躺着的是中毒的伊安塔斯士兵。留意作者如何在同一个空间里并置他与普通士兵——他的痛与别人的伤被摆在同一排床上。
 
 > **原句 10:** "Niamha sprang out of bed. “Your Majesty, I know what you’re thinking, but there is no possible way that Lord Surakwel could have had a hand in this.” It was the most earnest that the canny and sophisticated Daya Langsoune of Catanduc had ever sounded, the remnants of a formerly sleek updo hanging around her fine-boned face in scraggly jet-black strands."
 
@@ -123,7 +123,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：塞夫雷姆在这里对「政治」做了一次最直接的否定，而否定方式是先承认自己服从过命令——"because I was ordered to play nice"。他的忠诚不是盲从：命令只管用了「第一天」，之后靠的是他自己的判断。"myriad sharp edges" 把和悦的语调与话里的刀口拆成两件事，让语气与内容互相拆台。
 
-- **读者视角提示**：他是阿拉里克身边少数敢公开顶撞的人之一。紧接着的那句逼问（「要是陛下因为想先开会讨论而救不回妻子，那我干脆先确保自己已经走到去利尔的路上一半」）是他对主角的第一次当众施压。
+- **读者视角提示**：他是阿拉里克身边少数敢公开顶撞的人之一。本章后文他还会当面逼问（「要是陛下因为想先开会讨论而救不回妻子，那我干脆先确保自己已经走到去利尔的路上一半」），语气近乎无礼：他并不打算给主角的分寸留余地。
 
 > **原句 12:** "Because something tells me that”—Alaric wrenched the castle’s front doors open, washing Sevraim’s next words in oceanic breezes and starlight—“if Alunsina Ivralis dies today, the Nenavar Dominion will burn. And there will be no survivors."
 

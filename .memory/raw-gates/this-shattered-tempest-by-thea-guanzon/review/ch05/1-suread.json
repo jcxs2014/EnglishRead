@@ -1,0 +1,127 @@
+{
+  "chapter": 5,
+  "source": "text/ch05_chapter_five.txt",
+  "char_total": 13340,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Talasyn 与 Surakwel 的游艇在 Silklands 分道，她乘纵帆船飞越 Eversea 前往首都 Eskaya，途中看见 Gao 的双桅船出现在海平线上。",
+      "quote": "The schooner and Surakwel’s yacht peeled away from the Silklands in opposite directions.",
+      "start": 38,
+      "end": 126
+    },
+    {
+      "i": 2,
+      "summary": "一只 Kesathese skua 送来写在羊皮纸上的密信，Alaric 读后把纸片交给一名 Sevraim 用 Shadowgate 的烟气销毁。",
+      "quote": "As the skua flew off, Alaric gave the scrap of vellum to a nearby Sevraim, who quite efficiently shredded it with fumes of inky Shadowgate",
+      "start": 2531,
+      "end": 2669
+    },
+    {
+      "i": 3,
+      "summary": "Talasyn 伸手想握 Alaric 的手腕、话未说完，Alaric 却抽身退开，只留下她空空的指间。",
+      "quote": "She blinked down at the empty space between her fingers where his hand had been only a second ago.",
+      "start": 3948,
+      "end": 4046
+    },
+    {
+      "i": 4,
+      "summary": "Gao 的双桅船后方天空炸出成群的飞翼剪影——一批没有徽记、不属任何势力的蛾形小艇正在追击那艘运俘船。",
+      "quote": "The azure sky behind the brigantine exploded with dozens of tiny winged silhouettes.",
+      "start": 6438,
+      "end": 6522
+    },
+    {
+      "i": 5,
+      "summary": "Alaric 说已来不及救援，把 Talasyn 强行拖向舱口；双桅船被击沉，Talasyn 的十名 Lachis-dalo 中有七人随船沉入 Eversea。",
+      "quote": "the brigantine tipped forward, a conflagration of foundering magic and tattered sails, and crashed through the surface of the Eversea",
+      "start": 8709,
+      "end": 8842
+    },
+    {
+      "i": 6,
+      "summary": "Alaric 把 Talasyn 推给 Sevraim，命令把她带进舱内、必要时绑起来，自己与三名幸存的 Lachis-dalo 准备迎战。",
+      "quote": "He grabbed her again and pushed her into Sevraim’s arms. “Get her inside!” he barked at his legionnaire.",
+      "start": 9393,
+      "end": 9497
+    },
+    {
+      "i": 7,
+      "summary": "Kesathese 的 Night Emperor 座舰 Deliverance 从云层中降下，用涡轮与闪电炮把余下的蛾形小艇绞杀殆尽。",
+      "quote": "The stormship Deliverance, aerial seat of the Kesathese Night Emperor, eased down from the dense stacks of snowy clouds that had disguised its approach.",
+      "start": 10402,
+      "end": 10554
+    },
+    {
+      "i": 8,
+      "summary": "看着最后一只蛾形小艇被闪电吞没，Talasyn 不再恐惧也不再怜悯，只想让一切燃烧。",
+      "quote": "Yes, she thought, as rain washed over her, as brilliant lightning consumed the last moth coracle.",
+      "start": 13119,
+      "end": 13216
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Talasyn—Alaric",
+      "claim": "两人是夫妻：Alaric 是她的丈夫，也是 Kesathese 的 Night Emperor。",
+      "quote": "There was a slight softening of her husband’s mouth that indicated he was satisfied with the message’s contents.",
+      "start": 2124,
+      "end": 2236
+    },
+    {
+      "pair": "Alaric—Sevraim",
+      "claim": "Sevraim 是 Alaric 麾下的 legionnaire（军团长随从），奉命看管 Talasyn。",
+      "quote": "“Tie her up if you have to,” he told Sevraim. “If I see her on deck when the fighting begins, you’ll wish you were never born.”",
+      "start": 9586,
+      "end": 9713
+    },
+    {
+      "pair": "Talasyn—Ideth Vela",
+      "claim": "Ideth Vela 是 Amirante，Talasyn 指望她在此乱局中给出指引。",
+      "quote": "The Amirante would provide her with much-needed guidance amidst all this turmoil and they could discuss their next steps.",
+      "start": 204,
+      "end": 325
+    },
+    {
+      "pair": "Talasyn—Gao",
+      "claim": "Gao 是友军指挥官，她的双桅船载着 Talasyn 的 Lachis-dalo 卫队并为其护航。",
+      "quote": "Gao and her troops fought back valiantly, firing void cannons and ballistas of their own, but they were hopelessly outflanked.",
+      "start": 8167,
+      "end": 8293
+    },
+    {
+      "pair": "Alaric—Deliverance",
+      "claim": "Deliverance 是 Alaric 的座舰，即 Kesathese Night Emperor 的空中王座。",
+      "quote": "And her husband’s stormship crackled with the same radiant vengeance that had been in his kiss.",
+      "start": 12453,
+      "end": 12548
+    }
+  ],
+  "numbers": [
+    {
+      "value": "seven / ten",
+      "quote": "seven of Talasyn’s ten Lachis-dalo, loyal and dutiful to the bitter end",
+      "start": 8928,
+      "end": 8999
+    },
+    {
+      "value": "fifteen",
+      "quote": "the remaining coracles, about fifteen in number, headed for Alaric and Talasyn’s own ship",
+      "start": 9300,
+      "end": 9389
+    },
+    {
+      "value": "Two",
+      "quote": "Two of the Lachis-dalo on the schooner drew near, warily, their hands dropping to the hilts of their swords.",
+      "start": 7426,
+      "end": 7534
+    },
+    {
+      "value": "three",
+      "quote": "As Alaric and the three surviving Lachis-dalo prepared for battle—",
+      "start": 10142,
+      "end": 10208
+    }
+  ],
+  "notes": "原文同一章标题 'Chapter Five' 在文件开头出现两次（第1行与第12行），中间夹大量空行；正文用弯引号 ’ “ ”；正文段落间以多个空行分隔。"
+}

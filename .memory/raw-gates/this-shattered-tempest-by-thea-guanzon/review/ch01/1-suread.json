@@ -1,0 +1,168 @@
+{
+  "chapter": "ch01",
+  "source": "text/ch01_chapter_one.txt",
+  "char_total": 21945,
+  "events": [
+    {
+      "i": 1,
+      "who": "Alaric",
+      "did": "挥战镰砍倒最后一名刺客。",
+      "quote": "The crescent-shaped blade sliced through the air in a lethal arc, and the last assassin collapsed with a scream",
+      "range": [
+        1761,
+        1872
+      ]
+    },
+    {
+      "i": 2,
+      "who": "Alaric",
+      "did": "把战镰变成飞刀，掷向走近的黑衣人。",
+      "quote": "He lashed out at the next flicker of movement, his war scythe transmuting into a throwing knife, which he hurled in the direction of the black-clad figure approaching him.",
+      "range": [
+        2166,
+        2337
+      ]
+    },
+    {
+      "i": 3,
+      "who": "Alaric",
+      "did": "在舞厅里来回翻找、踢开废墟，确认 Talasyn 不在场。",
+      "quote": "He exploded into movement, prowling every inch of the vast chamber, kicking aside piles of debris.",
+      "range": [
+        3606,
+        3704
+      ]
+    },
+    {
+      "i": 4,
+      "who": "Nalam Gao",
+      "did": "报告已下令派出搜索队，将搜查城堡、庭园与全岛。",
+      "quote": "I’ve ordered search parties to be dispatched at once. We’ll cover the castle, the grounds, the whole island.",
+      "range": [
+        5620,
+        5728
+      ]
+    },
+    {
+      "i": 5,
+      "who": "Elagbi",
+      "did": "按住 Alaric 的肩，劝他先让治疗师处理伤口。",
+      "quote": "Elagbi’s lips gave a rueful twitch. “Don’t I know it. To the healer with you now, there’s a good lad.",
+      "range": [
+        8334,
+        8435
+      ]
+    },
+    {
+      "i": 6,
+      "who": "Sevraim",
+      "did": "报告城堡已从上到下搜遍，Talasyn 不在这里。",
+      "quote": "The castle had been searched thoroughly from top to bottom. Wherever Talasyn was, she wasn’t here.",
+      "range": [
+        9344,
+        9442
+      ]
+    },
+    {
+      "i": 7,
+      "who": "Alaric",
+      "did": "掀开帘子冲向 Surakwel Mantes，要追究他。",
+      "quote": "He shoved the curtains aside and charged at Surakwel Mantes, the Dominion noble who had been against the treaty between Kesath and Nenavar from the very start.",
+      "range": [
+        14513,
+        14672
+      ]
+    },
+    {
+      "i": 8,
+      "who": "Nalam Gao",
+      "did": "报告收到 Ileis 小艇经以太波发来的坐标，指向 Silklands。",
+      "quote": "They received a string of coordinates on the aetherwave—from Mistress Ileis’s coracle, pointing to the Silklands.",
+      "range": [
+        17263,
+        17376
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric",
+      "b": "Talasyn",
+      "relation": "夫妻：Talasyn 是 Alaric 的妻子（Nenavarene Lachis’ka），她失踪令 Alaric 失控。",
+      "quote": "Drowned out by the raw, clamoring instinct to kill all those who threatened to harm his wife.",
+      "range": [
+        636,
+        729
+      ]
+    },
+    {
+      "a": "Elagbi",
+      "b": "Talasyn",
+      "relation": "父女：Elagbi 是 Talasyn 的父亲、Alaric 的岳父，只有这一个孩子。",
+      "quote": "Tonight, however, he appeared to have aged decades in the minutes since he learned his only child was missing",
+      "range": [
+        7503,
+        7612
+      ]
+    },
+    {
+      "a": "Nalam Gao",
+      "b": "Talasyn",
+      "relation": "从属：Gao 是 Talasyn 皇家卫队的 kaptan，职责是保护她。",
+      "quote": "Nalam Gao, the kaptan of Talasyn’s royal guard, had broken away from the huddle",
+      "range": [
+        5424,
+        5503
+      ]
+    },
+    {
+      "a": "Surakwel Mantes",
+      "b": "Niamha",
+      "relation": "亲密同盟：Niamha（Daya Langsoune）以母亲起誓为他担保，他把她护在身后。",
+      "quote": "Surakwel shoved her behind him with a muffled curse",
+      "range": [
+        15460,
+        15511
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "five months ago",
+      "what": "五个月前 Surakwel 被指试图杀害 Alaric 的时间点。",
+      "quote": "so much so that he tried to kill me five months ago.",
+      "range": [
+        15757,
+        15809
+      ]
+    },
+    {
+      "value": "Half an hour later",
+      "what": "从舞厅屠杀现场到医务室之间的时间跳跃。",
+      "quote": "Half an hour later, Alaric was sitting shirtless on the edge of an infirmary bed",
+      "range": [
+        9011,
+        9091
+      ]
+    },
+    {
+      "value": "tenfold",
+      "what": "若夜后在 Nenavar 境内受害，夜帝国将十倍报复。",
+      "quote": "the Night Empire would strike back tenfold.",
+      "range": [
+        19596,
+        19639
+      ]
+    },
+    {
+      "value": "late forties",
+      "what": "Elagbi 王子的年龄（四十多岁末）。",
+      "quote": "A trimly built man in his late forties",
+      "range": [
+        7281,
+        7319
+      ]
+    }
+  ],
+  "notes": "视角人物 Alaric Ossinast（第三人称限知）；时间跨度约半小时多（舞会屠杀后→医务室→准备出发去 Irrawad）；异常：文件开头“Chapter One”重复出现两次（第 1 行与第 12 行），中间只有空行。"
+}

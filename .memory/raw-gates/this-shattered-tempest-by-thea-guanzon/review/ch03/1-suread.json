@@ -1,0 +1,196 @@
+{
+  "chapter": "ch03",
+  "source": "text/ch03_chapter_three.txt",
+  "char_total": 23992,
+  "events": [
+    {
+      "i": 1,
+      "who": "Sevraim",
+      "did": "带队伍从猎屋后方缓慢摸上山坡，借树干与土坎隐蔽接近。",
+      "quote": "he’d insisted that they approach the hunting lodge from the back, and that they do so slowly, ducking behind tree trunks and embankments and bramble whenever the opportunity presented itself",
+      "range": [
+        1289,
+        1479
+      ]
+    },
+    {
+      "i": 2,
+      "who": "Ileis",
+      "did": "向 Alaric 复述：她在 Iantas 南侧看见一名贵妇把昏迷的 Talasyn 拖上沙滩边的飞艇，随后隐匿尾随。",
+      "quote": "I saw a lady dragging the unconscious Lightweaver into an airship docked on the beach",
+      "range": [
+        2359,
+        2444
+      ]
+    },
+    {
+      "i": 3,
+      "who": "Alaric",
+      "did": "分派路线：Ileis 与 Surakwel 走地道，Gao 及其 Lachis-dalo 随他与 Sevraim 正面进攻。",
+      "quote": "“Ileis and Lord Surakwel will go in via the tunnel,” Alaric decided.",
+      "range": [
+        5089,
+        5157
+      ]
+    },
+    {
+      "i": 4,
+      "who": "Oryal",
+      "did": "从壁炉上的搪瓷鼻烟盒取出羊皮纸，展开怼到 Talasyn 面前，要她读那份签名供状。",
+      "quote": "“Here.” She unfolded the parchment and all but thrust it in Talasyn’s face. “A signed confession. Read it.”",
+      "range": [
+        7486,
+        7593
+      ]
+    },
+    {
+      "i": 5,
+      "who": "Talasyn",
+      "did": "在 Ralya 挥刀割喉的瞬间挣开绳索，扭住其手腕，把弯刀反刺进对方脖颈。",
+      "quote": "Talasyn slipped free of the ropes and grabbed Ralya’s wrist, twisting it until the tip of the curved knife plunged into the other woman’s elegant, swanlike neck",
+      "range": [
+        14995,
+        15155
+      ]
+    },
+    {
+      "i": 6,
+      "who": "Ileis",
+      "did": "与 Surakwel 掀开地板活板门冲出，Surakwel 锁住 Gitab，Ileis 扑向 Oryal。",
+      "quote": "A trapdoor swung open between them, and Ileis and Surakwel burst up from out of the lodge’s floor",
+      "range": [
+        16514,
+        16611
+      ]
+    },
+    {
+      "i": 7,
+      "who": "Oryal",
+      "did": "被 Talasyn 掷出的刀刺中手臂，仍把供状丢进壁炉烧成灰。",
+      "quote": "The blade sang through the air and caught Oryal in the arm, and she cried out—\n\n\n—and dropped the confession into the fire.",
+      "range": [
+        19313,
+        19436
+      ]
+    },
+    {
+      "i": 8,
+      "who": "Alaric",
+      "did": "在屋外砍杀最后一群士兵后走到 Talasyn 面前，摘下面具，把她拉进怀里强吻。",
+      "quote": "He pulled her to him and kissed her, hard and angry, shoving his tongue past her lips that were still parted in the shape of a question.",
+      "range": [
+        23511,
+        23647
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Alaric",
+      "b": "Ileis",
+      "relation": "主君与麾下军团士兵：他是夜帝，她是他派去侦察的 legionnaire，他威胁要革她的职。",
+      "quote": "I’ve half a mind to strip you of your rank for not treating this matter with the seriousness it deserves",
+      "range": [
+        2949,
+        3053
+      ]
+    },
+    {
+      "a": "Oryal",
+      "b": "Talasyn",
+      "relation": "绑架者与人质、敌对：Oryal 绑走 Talasyn，并催促同伙尽快杀掉这位 “Urduja 的继承人”。",
+      "quote": "We have to kill her before they find her. There’s not another moment to waste.",
+      "range": [
+        12984,
+        13062
+      ]
+    },
+    {
+      "a": "Surakwel",
+      "b": "Oryal",
+      "relation": "自幼同圈的旧识：两人从小在同一批贵族圈子里长大，他熟悉她与 Silklands。",
+      "quote": "Surakwel and Oryal had run in the same circles since they were children",
+      "range": [
+        3590,
+        3661
+      ]
+    },
+    {
+      "a": "Urduja Silim",
+      "b": "Hanan Ivralis",
+      "relation": "婆媳、且为加害者与受害者：Urduja 是 Hanan 的婆婆，据供状她命御医设计毒药、分次毒死儿媳。",
+      "quote": "It was a poison of my own design, commissioned by Her Starlit Majesty, Urduja Silim.",
+      "range": [
+        8291,
+        8375
+      ]
+    },
+    {
+      "a": "Oryal",
+      "b": "Rajan Wempuq",
+      "relation": "父女：Wempuq 是她父亲，在假面舞会上死去，令她只剩孤身一人。",
+      "quote": "My father died at the masquerade. The only family I had remaining.",
+      "range": [
+        6716,
+        6782
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "ten",
+      "what": "潜入猎屋的队伍总人数（Alaric 与两名军团兵、Gao 与五名 Lachis-dalo、Surakwel）。",
+      "quote": "They were ten in their party",
+      "range": [
+        3212,
+        3240
+      ]
+    },
+    {
+      "value": "two",
+      "what": "Alaric 麾下 legionnaire 的人数。",
+      "quote": "Alaric and his two legionnaires",
+      "range": [
+        3395,
+        3426
+      ]
+    },
+    {
+      "value": "at least a hundred",
+      "what": "Ileis 在树顶估算的守卫猎屋的 Silklands 士兵数量下限。",
+      "quote": "I counted at least a hundred soldiers",
+      "range": [
+        5273,
+        5310
+      ]
+    },
+    {
+      "value": "two years ago",
+      "what": "御医 Angsanak 之子死于伐木事故、开始被愧疚压垮的时间。",
+      "quote": "the boy died in a logging accident two years ago",
+      "range": [
+        12375,
+        12423
+      ]
+    },
+    {
+      "value": "over the course of a sennight",
+      "what": "毒药分次下给 Hanan、致其死亡所历经的时长（一周）。",
+      "quote": "administered by my hand gradually, over the course of a sennight",
+      "range": [
+        8223,
+        8287
+      ]
+    },
+    {
+      "value": "The three nobles",
+      "what": "与 Talasyn 同在猎屋内的贵族人数（Oryal、Ralya、Gitab）。",
+      "quote": "The three nobles in the lodge with her",
+      "range": [
+        9490,
+        9528
+      ]
+    }
+  ],
+  "notes": "视角在 Alaric 与 Talasyn 之间交替（第三人称有限），时间跨度为黎明前到日出后的约一两小时；正文开头重复了一次标题行、夹有多余空行，无其他异常。"
+}

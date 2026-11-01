@@ -1,0 +1,127 @@
+{
+  "chapter": 4,
+  "source": "text/ch04_chapter_four.txt",
+  "char_total": 15434,
+  "events": [
+    {
+      "i": 1,
+      "summary": "Alaric 派 Ileis 回 Iantas 盯梢，随后带 Talasyn 登上从 Iantas 夺来的双桅船，两人在舱内牵手同坐。",
+      "quote": "Alaric dispatched Ileis to retrieve her wolf coracle and return to Iantas in order to keep an eye on things.",
+      "start": 261,
+      "end": 369
+    },
+    {
+      "i": 2,
+      "summary": "Talasyn 向 Alaric 坦白：她在舞厅外被 Oryal 用电击打晕后注射了一种血清，夺走了 Lightweave，她已无法使用 aethermancy。",
+      "quote": "she injected me with—something. A type of serum. It took the Lightweave away. I can’t aethermance.",
+      "start": 3315,
+      "end": 3413
+    },
+    {
+      "i": 3,
+      "summary": "Alaric 由此推断这是父亲 Gaheris 的手笔：Kesathese 的附魔师早已用 sariman 的血研发出永久废掉他人 aethermancy 的方法。",
+      "quote": "Kesathese Enchanters had still discovered how to use the creature’s blood to nullify someone’s aethermancy for good.",
+      "start": 4722,
+      "end": 4838
+    },
+    {
+      "i": 4,
+      "summary": "Kaptan Gao 请示如何处理尸体，建议烧掉 lodge 灭迹；Talasyn 拒绝，理由是火会烧毁 Silklands 人赖以生存的森林。",
+      "quote": "“If we do that, we risk burning down the forest. The people of the Silklands depend on these trees for their livelihood,” she said. “I won’t allow it.”",
+      "start": 7236,
+      "end": 7387
+    },
+    {
+      "i": 5,
+      "summary": "Gao 宣誓效忠，Talasyn 下令维持现状、搜寻幸存者，并通知 Dragon Queen 他们正前往汇报。",
+      "quote": "“Then we leave things as they are,” Talasyn instructed. “I’ll deal with whatever repercussions may follow. Go search for survivors, and let the Dragon Queen know that we’re on our way.”",
+      "start": 8056,
+      "end": 8241
+    },
+    {
+      "i": 6,
+      "summary": "Talasyn 要 Alaric 保证不向任何人透露她失去 Lightweave；他提议应告知 Queen Urduja，被她以宫廷面具式的冷静回绝。",
+      "quote": "“I still need your word, Alaric. That you won’t tell anyone I’ve lost the Lightweave.”",
+      "start": 8438,
+      "end": 8524
+    },
+    {
+      "i": 7,
+      "summary": "Alaric 几度想说出 sariman 的真相，最终把话咽了回去，承认自己是个懦夫。",
+      "quote": "But the truth withered on his tongue before he could give it voice. Despite his father’s many declarations to the contrary, Alaric had never truly believed himself a coward. Until now.",
+      "start": 10265,
+      "end": 10449
+    },
+    {
+      "i": 8,
+      "summary": "Talasyn 上甲板见 Surakwel，他提议去查 Oryal 等人近来的往来，她则要求他联络 Allfold 安排一次会面。",
+      "quote": "Then she said, in a much lower tone of voice, “I need you to contact the Allfold for me. Set up a meeting.”",
+      "start": 15132,
+      "end": 15239
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Talasyn—Urduja",
+      "claim": "Queen Urduja 是 Talasyn 的外祖母（祖母），Talasyn 一想到她便神色难辨。",
+      "quote": "At the mention of her grandmother, something indecipherable rippled across Talasyn’s face.",
+      "start": 6916,
+      "end": 7006
+    },
+    {
+      "pair": "Alaric—Gaheris",
+      "claim": "Gaheris 是 Alaric 的父亲；Alaric 曾从父亲手中救走 sariman，如今明白父亲早已用尽它的价值。",
+      "quote": "In the month before the Moonless Dark, Alaric had rescued the stolen sariman from his father’s clutches.",
+      "start": 4251,
+      "end": 4355
+    },
+    {
+      "pair": "Talasyn—Gao",
+      "claim": "Kaptan Gao 是 Talasyn 的部下，称她 Lachis’ka，以拳击胸宣誓「Now and always」。",
+      "quote": "Gao’s fist closed over her armored heart. “Now and always, Lachis’ka.”",
+      "start": 7983,
+      "end": 8053
+    },
+    {
+      "pair": "Talasyn—Surakwel",
+      "claim": "Surakwel（Serpent’s Trace 领主）与 Talasyn 是盟友/潜在朋友，但他可能向 Ideth Vela 告发她。",
+      "quote": "“You would have been our friend, too, Lachis’ka. If you’d stayed here.”",
+      "start": 14278,
+      "end": 14349
+    },
+    {
+      "pair": "Alaric—Talasyn",
+      "claim": "Night Emperor 与 Lachis’ka 分属交战两方，此刻却在船舱内并肩同坐、十指相扣。",
+      "quote": "the sight of the Night Emperor and the Lachis’ka nestled together on the couch",
+      "start": 5914,
+      "end": 5992
+    }
+  ],
+  "numbers": [
+    {
+      "value": "two airships",
+      "quote": "two airships cleared the ridge and docked by the lodge",
+      "start": 408,
+      "end": 462
+    },
+    {
+      "value": "the month before the Moonless Dark",
+      "quote": "In the month before the Moonless Dark, Alaric had rescued the stolen sariman",
+      "start": 4251,
+      "end": 4327
+    },
+    {
+      "value": "thirty years",
+      "quote": "It takes a single fire tree thirty years to mature.",
+      "start": 7752,
+      "end": 7803
+    },
+    {
+      "value": "those few hours",
+      "quote": "in the space of those few hours that she’d been held in the lodge",
+      "start": 9759,
+      "end": 9824
+    }
+  ],
+  "notes": "标题行 'Chapter Four' 在文件开头重复出现两次（第 1 行与第 12 行），其间夹 10 个连续空行；正文前另有大量连续空行（全章共 74 处连续空行段），疑为提取/排版残留。"
+}

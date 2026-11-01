@@ -1,0 +1,133 @@
+{
+  "chapter": 6,
+  "source": "text/ch06_chapter_six.txt",
+  "char_total": 16872,
+  "events": [
+    {
+      "i": 1,
+      "summary": "阿拉里克确信“解救号”不打招呼就驶离萨穆特港，他早通过贼鸥传令船员不许任何人拦截； Dominion 的胡克特拉舰队多半正忙于昨夜新起的安全威胁。",
+      "quote": "Alaric had no doubt that the Deliverance had caused quite the stir when it departed Port Samout without so much as a by-your-leave.",
+      "start": 36,
+      "end": 167
+    },
+    {
+      "i": 2,
+      "summary": "阿拉里克与塞夫拉伊姆把塔拉辛和她的三名残存卫兵领进风暴船的钢铁舰桥；他下令除飞鸟传书外全线静默，但阴谋者仍找到了他们。",
+      "quote": "Talasyn’s three remaining guards clustered protectively around her as Alaric and Sevraim led them through the bowels of the stormship",
+      "start": 1006,
+      "end": 1139
+    },
+    {
+      "i": 3,
+      "summary": "阿拉里克问她是否在生自己的气；塔拉辛冷淡地回答“你说得对，我们救不了高和其余人”，他反而盼她像从前那样发火。",
+      "quote": "“No,” Talasyn said flatly. “You were right. We couldn’t have saved Gao and the others.”",
+      "start": 2515,
+      "end": 2602
+    },
+    {
+      "i": 4,
+      "summary": "塔拉辛说明高按规程已向“天顶”通报航线，断定王宫里有内奸；阿拉里克发誓找出他们、把责任人的人头带给她。",
+      "quote": "“We’ll find them,” Alaric vowed thickly. “I can’t give your Lachis-dalo back to you, but I can bring you the heads of those responsible.”",
+      "start": 3337,
+      "end": 3474
+    },
+    {
+      "i": 5,
+      "summary": "一名船员冲上指挥甲板报告：埃拉格比亲王来信请求增援——三具尸体在丝绸之地被发现，同党已聚兵北犯塞德克-维主岛。",
+      "quote": "A crew member raced onto the command deck, panting. “An eagle from Prince Elagbi—he’s requesting reinforcements.”",
+      "start": 3923,
+      "end": 4036
+    },
+    {
+      "i": 6,
+      "summary": "塔拉辛赶到父亲埃拉格比的舷外战船“马普隆号”上，拒绝后撤；她隐瞒了乌尔杜贾的罪行，怕父亲承受不住或不肯信她。",
+      "quote": "“Absolutely not,” was his immediate response. “The Grand Magindam needs all the help she can get.”",
+      "start": 6573,
+      "end": 6671
+    },
+    {
+      "i": 7,
+      "summary": "塔拉辛率十九艘蛾形小艇出击，按阿拉里克旧战术分成五支箭形编队，扑向敌阵中央的五艘指挥舰。",
+      "quote": "Her squadron splintered off into five arrowhead formations; the one she led pulling up, two gliding down, the remaining two veering left and right",
+      "start": 10393,
+      "end": 10539
+    },
+    {
+      "i": 8,
+      "summary": "西克麾下“帕尔苏阿号”射空全部弩炮撕开护卫圈；塔拉辛的座艇被铁弩箭射穿气心，她驾艇撞上班特格家战舰的后甲板。",
+      "quote": "—and she crashed her wolf coracle into the quarterdeck of House Banteg’s warship.",
+      "start": 16790,
+      "end": 16871
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Alaric—Talasyn",
+      "claim": "夫妻；他为护她而擅作主张、为害她失去光织而自责，她冷淡不怨，他反而盼她发火。",
+      "quote": "“Are you mad at me?” Alaric demanded, his tone low and gruff. He wasn’t going to apologize for trying to protect her",
+      "start": 2347,
+      "end": 2463
+    },
+    {
+      "pair": "Talasyn—Elagbi",
+      "claim": "父女（她唤他 Amya）；他含泪重逢、坚决反对她再涉险，她则怕他承受不住真相。",
+      "quote": "Elagbi finally nodded, albeit with extreme reluctance. He took her in with dark eyes still rimmed red from the tears of relief he’d shed when they reunited",
+      "start": 7716,
+      "end": 7871
+    },
+    {
+      "pair": "Talasyn—Urduja",
+      "claim": "杀母仇人：乌尔杜贾不仅害死塔拉辛之母，还害死埃拉格比之子所爱的妻子；塔拉辛对父亲隐瞒此事。",
+      "quote": "Urduja had murdered not only Talasyn’s mother, but also her son’s beloved wife.",
+      "start": 7279,
+      "end": 7358
+    },
+    {
+      "pair": "Talasyn—Sol",
+      "claim": "旧日战友／上司：他已死，是卡埃德仅做了几小时丈夫的人，塔拉辛在空中向他求助。",
+      "quote": "The commander of her old squadron in the Allfold regiments. Khaede’s husband of only a few hours.",
+      "start": 9482,
+      "end": 9579
+    },
+    {
+      "pair": "Elaryen Siuk—Huktera",
+      "claim": "乌尔杜贾军队的大马金达姆，率巨型旗舰“帕尔苏阿号”统领胡克特拉舰队迎战叛军。",
+      "quote": "Leading the Huktera was Elaryen Siuk, the Grand Magindam of Urduja’s forces. Her gargantuan flagship, the Parsua, was a formidable sight",
+      "start": 5141,
+      "end": 5277
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three（三名已死贵族）",
+      "quote": "The bodies had been discovered in the Silklands. The cry had gone up among the three dead nobles’ allies.",
+      "start": 4039,
+      "end": 4144
+    },
+    {
+      "value": "nineteen（十九艘蛾形小艇）",
+      "quote": "The nineteen moth coracles that comprised the Mapulon’s single-fighter complement followed her.",
+      "start": 8809,
+      "end": 8904
+    },
+    {
+      "value": "five（五艘指挥舰）",
+      "quote": "The targets were the five command ships at the center of the fray, each one corresponding to a different noble house.",
+      "start": 9987,
+      "end": 10104
+    },
+    {
+      "value": "three（仅剩三艘）",
+      "quote": "Most of its aether hearts sported deep cracks, the emerald-green glow of the Squallfast contained within them pulsing unsteadily. Only three moth coracles were still with her.",
+      "start": 15287,
+      "end": 15462
+    },
+    {
+      "value": "last night（昨夜）",
+      "quote": "The Dominion Huktera likely had their hands full dealing with the new security threat that had reared its head last night",
+      "start": 283,
+      "end": 404
+    }
+  ],
+  "notes": "源文本正文前重复出现“Chapter Six”标题行（第 1 行与第 12 行），并夹有大段空行（疑为分页/换页残留）；正文使用印刷体弯引号 ’ “ ” 与破折号，引语按原样逐字保留。"
+}

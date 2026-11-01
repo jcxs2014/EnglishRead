@@ -86,7 +86,7 @@ modified: "2026-11-01"
 
 > **原句 8:** "I am Lindao Angsanak, formerly healer to the Royal House of Silim, now a man in hiding since the civil war. I was entrusted with the care of Lady Hanan Ivralis in her last days, yet what killed her was administered by my hand gradually, over the course of a sennight."
 
-- **中文理解**：我是林道·昂萨纳克，旧日西林王室的医者，内战之后一直躲着做人；我被托付照料哈南·伊夫拉利斯最后那些日子，可杀死她的东西，是我亲手在整整一周里一点一点下进去的。
+- **中文理解**：我是林道·昂萨纳克，旧日西利姆王室的医者，内战之后一直躲着做人；我被托付照料哈南·伊夫拉利斯最后那些日子，可杀死她的东西，是我亲手在整整一周里一点一点下进去的。
 
 - **关键词**：Royal House · in hiding · civil war
 

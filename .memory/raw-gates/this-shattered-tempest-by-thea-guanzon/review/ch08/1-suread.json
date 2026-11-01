@@ -1,0 +1,113 @@
+{
+ "chapter": 8,
+ "source": "text/ch08_chapter_eight.txt",
+ "char_total": 16116,
+ "events": [
+  {
+   "i": 1,
+   "summary": "塔拉辛随阿拉里克的‘拯救号’飞临涅纳瓦都城埃斯卡亚，屋顶天宫戒备森严；一头黄鳞巨龙与舷外战舰一同升空，发出尖啸示警。",
+   "quote": "Upon catching sight of the Deliverance, it narrowed its ruby eyes and took wing, its serpentine body rolling and pulsing until it hung aloft beside the outrigger warship, over the snowy turrets, and emitted a hair-raising shriek.",
+   "start": 1486,
+   "end": 1715
+  },
+  {
+   "i": 2,
+   "summary": "塔拉辛判断巨龙只是警告：它想攻击是因为阿拉里克威胁乌尔杜贾，不动手则因为她随行——巨龙同属涅纳瓦，内战让它忠诚撕裂。",
+   "quote": "It was the same reason none of the leviathans had come roaring in when Alaric and Sevraim spilled Dominion blood in the Silklands.",
+   "start": 2391,
+   "end": 2521
+  },
+  {
+   "i": 3,
+   "summary": "进入王座厅走廊时，两名长矛手交叉长矛拦住去路，称只有两位陛下可入内，随行众人必须留在原地。",
+   "quote": "But we have been g-given strict instructions. Only Their Majesties are permitted in the throne hall. The rest of your party must stay here.",
+   "start": 4049,
+   "end": 4188
+  },
+  {
+   "i": 4,
+   "summary": "阿拉里克拒绝解下佩剑，怒斥‘见鬼的礼仪’，说夫妻二人在自己家中遭人切断以太术袭击，绝不空手进入又一间满是涅纳瓦人的密室。",
+   "quote": "My wife and I were attacked in our own home by people who almost succeeded in killing us because they shut off our aethermancy.",
+   "start": 5887,
+   "end": 6014
+  },
+  {
+   "i": 5,
+   "summary": "王座厅内，被铁镣反绑的伊珊·瓦伊卡（阿希姆萨附魔师首领）被两名自治领士兵押着；她挣脱扑倒在地，哭喊自己忠于哈莉卡恩、与放大器外流无关。",
+   "quote": "At first, Talasyn thought that she was going to make a run for it, but instead the daya threw herself face-down on the floor at the foot of the platform.",
+   "start": 10539,
+   "end": 10692
+  },
+  {
+   "i": 6,
+   "summary": "伊珊假腿打滑摔倒，塔拉辛的恨意爆发，当众斥责乌尔杜贾忘恩负义，并上前把伊珊扶起——随后惊觉失态，强压情绪。",
+   "quote": "She rushed over to Ishan and helped her to her feet, even as she continued castigating her grandmother.",
+   "start": 11616,
+   "end": 11719
+  },
+  {
+   "i": 7,
+   "summary": "塔拉辛提出由她与阿拉里克回伊安塔斯主持追查、最迟明晚回报；乌尔杜贾挥手令卫兵放下火枪，二人转身离去，背后是她刀锋般的注视。",
+   "quote": "Emperor Alaric and I will facilitate the inquiries back home at Iantas, Harlikaan. I’ll send word to you of our findings—by tomorrow night, at the latest.",
+   "start": 15423,
+   "end": 15577
+  }
+ ],
+ "relations": [
+  {
+   "pair": "塔拉辛—阿拉里克",
+   "claim": "夫妻同盟：他护她在身侧、以手贴她后腰给她支撑，魔法的震颤让她心生希望。",
+   "quote": "As they approached the closed doors of the throne hall, he kept her near, placing a hand on the small of her back.",
+   "start": 4890,
+   "end": 5004
+  },
+  {
+   "pair": "塔拉辛—乌尔杜贾",
+   "claim": "外祖母与外孙女：血缘相连却被当作交易筹码许给敌国，如今恨意几乎取代她失去的魔法。",
+   "quote": "But that dislike was nothing compared to what she felt now: a hatred so fierce it almost took the place of her lost magic, burning her up from within.",
+   "start": 7967,
+   "end": 8117
+  },
+  {
+   "pair": "塔拉辛—伊珊",
+   "claim": "立场倒转的守护：塔拉辛当众以‘没有瓦伊卡我们熬不过世界吞噬者之夜’为她辩护。",
+   "quote": "Without Daya Vaikar, none of us would have made it through the Night of the World-Eater!",
+   "start": 11721,
+   "end": 11809
+  },
+  {
+   "pair": "阿拉里克—乌尔杜贾",
+   "claim": "君臣/君主对峙：他以夜帝身份施压，她以扎希亚-拉奇斯自居，卫兵举枪相向。",
+   "quote": "His Majesty might be the Night Emperor, but I am the Zahiya-lachis,",
+   "start": 14176,
+   "end": 14243
+  }
+ ],
+ "numbers": [
+  {
+   "value": "two（两杆长矛）",
+   "quote": "the way blocked by the flattened, diamond-section blades of two tall spears that their respective pikemen had crossed inches from her nose.",
+   "start": 3705,
+   "end": 3844
+  },
+  {
+   "value": "ten（十名拉奇斯-达洛）",
+   "quote": "The ten Lachis-dalo flanking the throne raised their muskets with eerie synchronicity, all of them aiming at Alaric.",
+   "start": 14056,
+   "end": 14172
+  },
+  {
+   "value": "a few minutes（几分钟）",
+   "quote": "Chotri disappeared into the throne hall to consult Urduja. The kaptan reemerged after a few minutes and nodded at the other guards",
+   "start": 6732,
+   "end": 6862
+  },
+  {
+   "value": "triple-layered（三层甲板）",
+   "quote": "An outrigger warship hovered menacingly above the royal palace, the void cannons on its triple-layered decks swung outward, ready to fire at the slightest provocation.",
+   "start": 1084,
+   "end": 1251
+  }
+ ],
+ "notes": "语料层：文件开头第1行与第12行重复出现章节标题“Chapter Eight”，标题与正文之间夹有大量空行（行3-11），属提取残留；正文无脚注、无插图替代文本。"
+}

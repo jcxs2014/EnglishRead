@@ -17,7 +17,7 @@ modified: "2026-11-01"
 
 > **原句 1:** "Talasyn faded in and out, her consciousness lapping at the shores of some abstract reality before receding again, the way the azure tide of the Eversea ebbed and flowed against the sands of Iantas, which she had come to call home."
 
-- **中文理解**：塔拉辛的意识忽明忽暗，拍打着某种抽象现实的岸边，又退回去——就像以太海的蔚蓝潮水在伊安塔斯的沙滩上涨落，而那片沙滩，她已经称作故乡。
+- **中文理解**：塔拉辛的意识忽明忽暗，拍打着某种抽象现实的岸边，又退回去——就像越海的蔚蓝潮水在伊安塔斯的沙滩上涨落，而那片沙滩，她已经称作故乡。
 
 - **关键词**：Talasyn faded · abstract reality · azure tide
 
@@ -55,7 +55,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：记住这个「洞」。本章后段它还会第二次发作，那一次是「绝望穿透她，那片空洞的黑暗像一道永远不愈的伤口般轰然裂开」；同一个位置，两次疼法不同：第一次是失去，第二次是承认失去。
 
-> **原句 5:** "“The Zahiya-lachis doesn’t need to like you for this to work,” Oryal replied. “She just needs to be a queen without an heir. The court was already uneasy before you reclaimed your birthright, and as for what has been happening afterward . . . Well, suffice to say that the Silim dynasty fell the moment Urduja married you off to the Night Emperor and lost her people’s trust."
+> **原句 5:** "“The first Thunderstruck born to the Dominion in thousands of years,” Oryal confirmed. “That I am aware of, anyway. I certainly haven’t gone around asking. Both my parents carried this secret to their graves.”"
+
+- **中文理解**：「内纳瓦伦几千年来第一个雷击者，」奥莉尔确认道。「至少据我所知是这样。我当然没有到处去问过。我父母都把这个秘密带进了坟墓。」
+
+- **关键词**：Thunderstruck · carried this · their graves
+
+- **为什么这样写**：一句话把三件事压在一起：身份（第一个雷击者）、时间尺度（几千年）、代价（父母至死保密）。紧接着的「至少据我所知」是自嘲，把宣告降格成辩解——她既想让人知道，又必须留一道退路。
+
+- **读者视角提示**：这句是她后来那些手段的底牌：雷击者能直接引以太空间，所以血清、电击、配方里那种「异种血魔法」才有来源。同一场景后文，她把整杯茶泼在塔拉辛脸上——那一泼是她第一次用动作代替回答。
+
+> **原句 6:** "“The Zahiya-lachis doesn’t need to like you for this to work,” Oryal replied. “She just needs to be a queen without an heir. The court was already uneasy before you reclaimed your birthright, and as for what has been happening afterward . . . Well, suffice to say that the Silim dynasty fell the moment Urduja married you off to the Night Emperor and lost her people’s trust."
 
 - **中文理解**：「扎希亚-拉奇斯不需要喜欢你，这件事也能成，」奥莉尔答道。「她只需要做一个没有继承人的女王。在你认回自己的出身之前，宫廷本就不安；至于那之后发生的事……这么说吧，乌尔杜佳把你嫁给夜帝、失去她子民信任的那一刻，西利姆王朝就已经倒了。」
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意这段话是在什么动作里说完的——奥莉尔在倒茶、喝茶。本章最重的政治判断都悬在茶盘上方，作者让信息与动作故意不匹配。
 
-> **原句 6:** "Those two men outside the antechamber were the first people I ever killed. They were standing guard in case you tried to escape that way, but I sent the lightning through them because I was angry and grieving. Only love could have called that kind of magic forth."
+> **原句 7:** "Those two men outside the antechamber were the first people I ever killed. They were standing guard in case you tried to escape that way, but I sent the lightning through them because I was angry and grieving. Only love could have called that kind of magic forth."
 
 - **中文理解**：「前厅门外那两个人，是我这辈子杀的第一批人。他们守在那儿，是防你从那条路逃走；可我把闪电送进了他们身体里，因为我愤怒，因为我在哀悼。只有爱才唤得出那样的魔法。」
 
@@ -73,9 +83,9 @@ modified: "2026-11-01"
 
 - **为什么这样写**：奥莉尔用「爱」来解释杀人，这是本章对她最不客气的一笔：她不是不痛，她是把痛直接换算成暴力，并且认为这笔换算成立。前一句还在讲战术——那两个人守着逃路——后一句忽然跳到「只有爱才唤得出那样的魔法」，因果关系被她自己改写了：不是我杀了人，是爱杀了人。而「the first people I ever killed」这半句才是真正的证词：在此之前她没杀过人，而这一夜她杀了两个。
 
-- **读者视角提示**：留意她给这套说法留的余地：她只说自己愤怒、哀悼，不说自己后悔杀了那两个人。她后悔的是父亲的死，不是自己的手。
+- **读者视角提示**：留意她给这套说法留的余地：她只说自己愤怒、哀悼，不说自己后悔杀了那两个人。她哀悼的是父亲的死，而不是自己那双手做过的事。
 
-> **原句 7:** "“My dear Lady Oryal, this is most irregular,” Ralya Musal huffed as she and Kai Gitab entered. “We’re supposed to be lying low until we receive confirmation of her death, what could possibly be so urgent that you summoned us at this . . .” Her eyes nearly popped out of her head at the sight of the Nenavarene Lachis’ka tied to a bedpost."
+> **原句 8:** "“My dear Lady Oryal, this is most irregular,” Ralya Musal huffed as she and Kai Gitab entered. “We’re supposed to be lying low until we receive confirmation of her death, what could possibly be so urgent that you summoned us at this . . .” Her eyes nearly popped out of her head at the sight of the Nenavarene Lachis’ka tied to a bedpost."
 
 - **中文理解**：「我亲爱的奥莉尔夫人，这太不成体统了，」拉莉亚·穆萨尔一边进门一边没好气地说，凯·吉塔布跟在她身后。「我们本该按兵不动，等确认她死亡的消息，究竟有什么急事，非得在这个——」她的目光落在被绑在床柱上的内纳瓦伦拉奇斯身上，眼珠几乎要从眼眶里弹出来。
 
@@ -85,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：两个词组值得记住：lying low（按兵不动）说明她们在躲，confirmation of her death（确认她死亡）说明她们在等一个结果。塔拉辛此刻听到的，是自己已经被写进了别人的日程表。
 
-> **原句 8:** "The heels of Ralya’s walking boots clattered across the floor as she closed the distance between herself and Oryal. She struck Oryal across the face, the latter’s head twisting to the side from the force of the blow. The explosion of an open palm against a bony cheek was followed by an awful, suffocating stillness, during which Oryal lifted her chin in sullen defiance as she met Ralya’s glare head-on."
+> **原句 9:** "The heels of Ralya’s walking boots clattered across the floor as she closed the distance between herself and Oryal. She struck Oryal across the face, the latter’s head twisting to the side from the force of the blow. The explosion of an open palm against a bony cheek was followed by an awful, suffocating stillness, during which Oryal lifted her chin in sullen defiance as she met Ralya’s glare head-on."
 
 - **中文理解**：拉莉亚的靴跟敲过地板，她逼近奥莉尔，一巴掌扇在她脸上，奥莉尔的头被这一下的力道打得偏向一边。摊开的手掌撞上瘦削脸颊的那一声之后，是一阵可怕而令人窒息的死寂；死寂里，奥莉尔抬起下巴，阴沉而挑衅地迎上她的瞪视。
 
@@ -95,7 +105,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「bony cheek」这个细节：挨打的人瘦。作者没有替她辩解，只交代了她的脸有多薄，读者的感受就自己分裂了。
 
-> **原句 9:** "She was careful to school her features into total blankness even as exhilaration coursed through her. She stared straight ahead at the arguing nobles, digging the ring into the rope, worrying at the fraying abaca threads with the edges of the gemstone. The shard of the eighth moon, brighter than moissanite, sharper than diamond."
+> **原句 10:** "She was careful to school her features into total blankness even as exhilaration coursed through her. She stared straight ahead at the arguing nobles, digging the ring into the rope, worrying at the fraying abaca threads with the edges of the gemstone. The shard of the eighth moon, brighter than moissanite, sharper than diamond."
 
 - **中文理解**：她小心地把自己的表情收束成一片彻底的空白，尽管兴奋正在她体内奔流。她直直盯着争吵中的贵族们，把戒指往绳子里按，用宝石的棱角去啃那些起毛的麻纤维。那是第八月亮的碎片，比莫桑石更亮，比钻石更利。
 
@@ -105,9 +115,19 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「第八月亮的碎片」这个称呼里的量词感——shard（碎片）。它不是完整的宝石，是一件遗物的残片；而本章随后就用两个短句给它定性：「她婚姻的象征」「世界吞噬者悲恸的遗物」。
 
-> **原句 10:** "She would rise from what was certain to be an ignoble dirt grave to haunt him. She truly would. Yet that rage soon gave way to a hollow bleakness, Gitab’s words unearthing the inescapable truth that she’d always known: Alaric had married her out of duty and, if power changed hands in the Dominion, duty would also dictate that he retain Kesath’s political foothold within it."
+> **原句 11:** "“Let me guess,” she said as loftily as she could manage, because if there was one thing the Nenavarene appreciated it was blasé hauteur, “after you kill me, leaving my grandmother without an heir, your forces will lay siege to the capital and install a new Zahiya-lachis on the Dragon Throne.”"
 
-- **中文理解**：她会从那个注定不光彩的土坑里爬起来，缠住他。她真的会。可那股怒火很快退成一片空茫的灰暗：吉塔布的话挖出了她一直知道的、无法回避的真相——阿拉里克娶她是出于责任；而一旦领地易主，责任同样会要求他保住凯萨瑟在那里的政治立足点。
+- **中文理解**：「让我猜猜，」她尽量摆出高高在上的口气——因为内纳瓦伦人最吃「漫不经心的傲慢」这一套——「等你杀了我、让我外祖母没了继承人，你的军队就会围攻都城，在龙座上另立一位扎希亚-拉奇斯。」
+
+- **关键词**：Let me guess · lay siege
+
+- **为什么这样写**：她被绑在床上，能用的只有「猜」这个动作：把对方的计划替对方说出来，等于宣布自己已经看穿。作者把她此刻的策略写进插入语（内纳瓦伦人吃这一套），让读者看见她在临场演算对方的趣味，而不是在求饶。
+
+- **读者视角提示**：这句之后的沉默是本章第一次出现「她被说中了」的反应；「另立一位」也正是奥莉尔前面那句「她只需要一个没有继承人的女王」的落点。
+
+> **原句 12:** "She would rise from what was certain to be an ignoble dirt grave to haunt him. She truly would. Yet that rage soon gave way to a hollow bleakness, Gitab’s words unearthing the inescapable truth that she’d always known: Alaric had married her out of duty and, if power changed hands in the Dominion, duty would also dictate that he retain Kesath’s political foothold within it."
+
+- **中文理解**：她会从那个注定不光彩的土坑里爬起来，缠住他。她真的会。可那股怒火很快退成一片空茫的灰暗：吉塔布的话挖出了她一直知道的、无法回避的真相——阿拉里克娶她是出于责任；而一旦领地易主，责任同样会要求他保住凯萨斯在那里的政治立足点。
 
 - **关键词**：hollow bleakness · political foothold
 
@@ -115,7 +135,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：句末那个词要停一下：foothold，立足点。它把一段婚姻说成一块地。塔拉辛此刻失去的不是丈夫，而是「他来找我是因为我是我」这个假设。
 
-> **原句 11:** "The gaze that she fixed on Talasyn then was unnervingly sharklike. “She never wanted to rule, and that was her undoing. That, I do believe,” she concluded with relish, “was why Urduja decided that your mother had to die.”"
+> **原句 13:** "The gaze that she fixed on Talasyn then was unnervingly sharklike. “She never wanted to rule, and that was her undoing. That, I do believe,” she concluded with relish, “was why Urduja decided that your mother had to die.”"
 
 - **中文理解**：她那时投向塔拉辛的目光，令人不安地像鲨鱼。「她从来就不想统治，那正是她的败因。而且我相信，」她津津有味地收尾，「那正是乌尔杜佳决定你母亲必须死的原因。」
 

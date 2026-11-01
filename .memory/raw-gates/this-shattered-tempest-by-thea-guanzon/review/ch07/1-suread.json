@@ -1,0 +1,120 @@
+{
+ "chapter": 7,
+ "source": "text/ch07_chapter_seven.txt",
+ "char_total": 7371,
+ "events": [
+  {
+   "i": 1,
+   "summary": "塔拉辛驾狼形小艇撞毁卡利纳特号舷外支架的控制台，瘫痪舵与以太波收发器，随后在甲板上遭到船员围攻。",
+   "quote": "The wolf slammed through the outrigger’s control panels, knocking its operators aside, effectively disabling the rudders and the aetherwave transceiver and the ebb and flow of the Squallfast currents.",
+   "start": 81,
+   "end": 281
+  },
+  {
+   "i": 2,
+   "summary": "她带伤近战，旧伤裂开，左手仍下意识地试图凝出光织护盾却落空——魔力已失。",
+   "quote": "The wound in her thigh opened up as she stabbed and slashed, as she dodged and counterattacked.",
+   "start": 754,
+   "end": 849
+  },
+  {
+   "i": 3,
+   "summary": "一名敌兵颤抖着唤她“拉奇斯卡”，她由此明白士兵迟疑不是怕光织，而是怕她本人。",
+   "quote": "A new sword clashed against hers and she looked into the eyes of its wielder. The man was trembling.",
+   "start": 1449,
+   "end": 1549
+  },
+  {
+   "i": 4,
+   "summary": "拉詹·班特格拨开人群上前，拔剑声称要亲手为达雅·穆萨尔与拉詹·吉塔布复仇。",
+   "quote": "He drew his sword. “It is only right that I avenge Daya Musal and Rajan Gitab with my own hands.”",
+   "start": 3139,
+   "end": 3236
+  },
+  {
+   "i": 5,
+   "summary": "她反问为何不提达雅·费拉萨伊，班特格答不知其意，令她怀疑奥里亚尔未死。",
+   "quote": "Talasyn scoffed. “I’m sure Daya Ferasai would have minded being left out of the equation.”",
+   "start": 3239,
+   "end": 3329
+  },
+  {
+   "i": 6,
+   "summary": "云开，“拯救号”现身；其左舷闪电炮齐发，击穿包抄胡克特拉的敌军舰队。",
+   "quote": "The lightning cannons on the port side discharged, waves of brilliant white heat coursing through nearly all of the enemy vessels that had outflanked the Huktera.",
+   "start": 4814,
+   "end": 4976
+  },
+  {
+   "i": 7,
+   "summary": "她喝令班特格下跪，班特格弃剑屈膝，众兵随之投降。",
+   "quote": "Banteg’s sword clattered onto the wooden planks. He dropped to his knees before Talasyn, and his soldiers were quick to follow.",
+   "start": 7174,
+   "end": 7301
+  }
+ ],
+ "relations": [
+  {
+   "pair": "塔拉辛—拉詹·班特格",
+   "claim": "敌对但非私仇：她声明只与主谋作战，愿以招降换取情报；他坚持为同伴复仇并拒绝求饶。",
+   "quote": "“Rajan Banteg,” Talasyn said coolly. “My fight is not with your men.”",
+   "start": 3040,
+   "end": 3109
+  },
+  {
+   "pair": "塔拉辛—卡利纳特号船员",
+   "claim": "船员因畏惧“光织”与她“后继者”的身份而迟疑，这份畏惧反而保住了她的命。",
+   "quote": "That was probably the only thing saving her life—their fear of the Lightweave. It made most of them hesitate before striking.",
+   "start": 1321,
+   "end": 1446
+  },
+  {
+   "pair": "塔拉辛—乌尔杜雅·希利姆",
+   "claim": "祖孙兼君臣：她是扎希亚-拉奇斯的继承人，故士兵在效忠本家与效忠王权之间撕裂。",
+   "quote": "Because Talasyn was She Who Would Come After. She was Urduja Silim’s heir.",
+   "start": 1717,
+   "end": 1791
+  },
+  {
+   "pair": "塔拉辛—阿拉里克",
+   "claim": "夫妻兼师徒：他教她为自己愤怒，此刻正于风暴眼中俯视并等待她。",
+   "quote": "Alaric had taught her that. He was watching her from the sky above. He was waiting for her in the eye of the storm.",
+   "start": 7056,
+   "end": 7171
+  },
+  {
+   "pair": "塔拉辛—达雅·奥里亚尔（费拉萨伊）",
+   "claim": "生死未明的旧敌/旧识：班特格未提她，令塔拉辛怀疑其尸体不在死者之中。",
+   "quote": "She stared at him. Had Oryal’s body not been among the dead, back there on that crimson-glossed mountain?",
+   "start": 3400,
+   "end": 3505
+  }
+ ],
+ "numbers": [
+  {
+   "value": "a hundred times over",
+   "quote": "There was that same hesitation rippling through them, multiplied a hundred times over.",
+   "start": 2392,
+   "end": 2478
+  },
+  {
+   "value": "several feet away",
+   "quote": "There was a burst of static from Talasyn’s wolf coracle, lying on its side several feet away.",
+   "start": 3702,
+   "end": 3795
+  },
+  {
+   "value": "dozens of miniature explosions",
+   "quote": "setting off chain reactions that resulted in dozens of miniature explosions.",
+   "start": 5195,
+   "end": 5271
+  },
+  {
+   "value": "the last several hours",
+   "quote": "The turmoil of the last several hours—the physical toll, the emotional upheaval—it all pressed against the backs of her eyes.",
+   "start": 5605,
+   "end": 5730
+  }
+ ],
+ "notes": "源文件开头有约 11 行空行、正文前重复出现一次“Chapter Seven”标题，故 char_total 含冗余空行与重复标题；除此之外正文连续无缺页。曲引号/长破折号为原文排版字符，quote 已按原样逐字复制。"
+}

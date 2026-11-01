@@ -1,0 +1,196 @@
+{
+  "chapter": "ch02",
+  "source": "text/ch02_chapter_two.txt",
+  "char_total": 21090,
+  "events": [
+    {
+      "i": 1,
+      "who": "Talasyn",
+      "did": "塔拉辛在丝兰地山间猎屋醒来，发现双手被阿巴卡麻绳反绑在床柱上。",
+      "quote": "glancing down at herself, she saw her wrists were thrust behind her, abaca ropes tying them tightly around a bedpost",
+      "range": [
+        4474,
+        4590
+      ]
+    },
+    {
+      "i": 2,
+      "who": "Oryal",
+      "did": "奥里亚尔为塔拉辛沏莲花茶，塔拉辛报出她继承母亲家系后的称号“达雅·费拉萨伊”。",
+      "quote": "Talasyn wracked her sluggish brain for the name of Oryal’s mother’s house",
+      "range": [
+        3745,
+        3818
+      ]
+    },
+    {
+      "i": 3,
+      "who": "Oryal",
+      "did": "奥里亚尔承认自己是数千年来 dominion 首位雷击者。",
+      "quote": "The first Thunderstruck born to the Dominion in thousands of years",
+      "range": [
+        5764,
+        5830
+      ]
+    },
+    {
+      "i": 4,
+      "who": "Oryal",
+      "did": "奥里亚尔把整杯热茶泼到塔拉辛脸上。",
+      "quote": "Oryal hurled the contents of her teacup at Talasyn",
+      "range": [
+        8008,
+        8058
+      ]
+    },
+    {
+      "i": 5,
+      "who": "Ralya Musal",
+      "did": "拉利娅·穆萨勒与凯·吉塔布闯入猎屋，拉利娅扇了奥里亚尔一耳光。",
+      "quote": "She struck Oryal across the face, the latter’s head twisting to the side from the force of the blow",
+      "range": [
+        12572,
+        12671
+      ]
+    },
+    {
+      "i": 6,
+      "who": "Talasyn",
+      "did": "塔拉辛暗中松绳，麻绳挂住了婚戒上镶嵌的乌鲁纳石。",
+      "quote": "The rope had snagged on the vulana stone that was embedded in her wedding band",
+      "range": [
+        15955,
+        16033
+      ]
+    },
+    {
+      "i": 7,
+      "who": "Talasyn",
+      "did": "塔拉辛高声推测三人杀她后将围攻都城、另立龙座女王，以引开注意。",
+      "quote": "after you kill me, leaving my grandmother without an heir, your forces will lay siege to the capital and install a new Zahiya-lachis on the Dragon Throne",
+      "range": [
+        16799,
+        16952
+      ]
+    },
+    {
+      "i": 8,
+      "who": "Oryal",
+      "did": "奥里亚尔断言乌尔杜佳当年正是因此决定杀死塔拉辛的母亲。",
+      "quote": "was why Urduja decided that your mother had to die",
+      "range": [
+        21037,
+        21087
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "a": "Talasyn",
+      "b": "Oryal",
+      "relation": "囚徒与绑架者：奥里亚尔假面舞会后击昏塔拉辛，取走她的魔法并将其绑走。",
+      "quote": "who had knocked her out after the masquerade battle, who had taken away her magic with some kind of serum",
+      "range": [
+        3364,
+        3469
+      ]
+    },
+    {
+      "a": "Talasyn",
+      "b": "Urduja",
+      "relation": "外孙女与外婆，塔拉辛是乌尔杜佳的继承人（Zahiya-lachis 之位）。",
+      "quote": "leaving my grandmother without an heir",
+      "range": [
+        16818,
+        16856
+      ]
+    },
+    {
+      "a": "Talasyn",
+      "b": "Alaric",
+      "relation": "夫妻兼两国同盟：塔拉辛自称夜之女皇，一死则同盟破裂。",
+      "quote": "The Kesathese will not appreciate suddenly finding themselves without a Night Empress",
+      "range": [
+        18857,
+        18942
+      ]
+    },
+    {
+      "a": "Oryal",
+      "b": "Ralya Musal",
+      "relation": "同谋但上下有别：拉利娅斥责并掌掴奥里亚尔，自认是“未来女王耳边的人”。",
+      "quote": "You foolish girl, you have jeopardized everything",
+      "range": [
+        12289,
+        12338
+      ]
+    },
+    {
+      "a": "Oryal",
+      "b": "Irrawad",
+      "relation": "父女：其父死于假面舞会袭击，奥里亚尔称他并未参与此谋。",
+      "quote": "He had no part in this. I would never have agreed to the plan had I known",
+      "range": [
+        9157,
+        9230
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "thousands of years",
+      "what": "多米尼恩已有多少年未出现雷击者（Oryal 自称首位）",
+      "quote": "The first Thunderstruck born to the Dominion in thousands of years",
+      "range": [
+        5764,
+        5830
+      ]
+    },
+    {
+      "value": "sevenfold eclipse",
+      "what": "七重食——三人等它过去后才动手的时点",
+      "quote": "you waited until after the sevenfold eclipse to carry out this little scheme",
+      "range": [
+        17422,
+        17498
+      ]
+    },
+    {
+      "value": "another thousand years",
+      "what": "巴昆再度沉睡的期限",
+      "quote": "Bakun had gone back to sleep for another thousand years",
+      "range": [
+        18338,
+        18393
+      ]
+    },
+    {
+      "value": "two fingers",
+      "what": "塔拉辛从绳隙挤进去的手指数量",
+      "quote": "jam two fingers through the minuscule gap",
+      "range": [
+        15801,
+        15842
+      ]
+    },
+    {
+      "value": "the eighth moon",
+      "what": "婚戒上乌鲁纳石的来历（第八月亮的碎片）",
+      "quote": "The shard of the eighth moon, brighter than moissanite, sharper than diamond",
+      "range": [
+        16290,
+        16366
+      ]
+    },
+    {
+      "value": "one stormship",
+      "what": "阿拉里克停在港口的唯一一艘风暴船",
+      "quote": "He has only the one stormship at our port",
+      "range": [
+        19420,
+        19461
+      ]
+    }
+  ],
+  "notes": "全章为塔拉辛单一视角，紧接假面舞会当夜、天亮前后数小时内；她被囚于丝兰地猎屋，无异常叙述，唯末句是奥里亚尔的悬念式指控。"
+}
