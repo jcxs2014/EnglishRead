@@ -1,0 +1,55 @@
+{
+  "chapter": "ch22",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch22_22_toward_the_red_city.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "First and most importantly, Galva and myself had been bought",
+      "start": 162,
+      "end": 222
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "But I’m getting ahead of myself. The king bought Galva for h",
+      "start": 1165,
+      "end": 1225
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "They don’t have them in Manreach, because they don’t know ho",
+      "start": 1507,
+      "end": 1567
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "Geryat was their goddess of eagles and storms, sometimes sho",
+      "start": 3210,
+      "end": 3270
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "You couldn’t get real close to him with it, it was that fuck",
+      "start": 4461,
+      "end": 4521
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "An older man attached our chains to benches in the rear. A m",
+      "start": 5774,
+      "end": 5834
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "With a bang and a creak, the ship started to rise, and as it",
+      "start": 6624,
+      "end": 6684
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "I saw the shadows of the two ships against a bank of clouds,",
+      "start": 8842,
+      "end": 8902
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

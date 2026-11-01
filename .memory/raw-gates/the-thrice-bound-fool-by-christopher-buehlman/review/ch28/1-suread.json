@@ -1,0 +1,49 @@
+{
+  "chapter": "ch28",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch28_28_gods_with_monsters_hearts.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "It was to be a mass combat, with three teams; one belonging ",
+      "start": 145,
+      "end": 205
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "It was Galva who took the fight to the Praxeter’s giant, a f",
+      "start": 1774,
+      "end": 1834
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "I was watching the Praxeter’s giantess, bleeding hard from G",
+      "start": 2341,
+      "end": 2401
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "The half-giants were some of the cruelest karks you’ll ever ",
+      "start": 2912,
+      "end": 2972
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "The king pointed to the east, and I could now see the full m",
+      "start": 937,
+      "end": 997
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "“Those lines are channels of liquid stone on fire, the blood",
+      "start": 4292,
+      "end": 4352
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "Whatever his actual fate, in my mind, I now swore to do exac",
+      "start": 5001,
+      "end": 5061
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

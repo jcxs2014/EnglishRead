@@ -1,0 +1,55 @@
+{
+  "chapter": "ch30",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch30_30_beatings_all_around.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "“HASP-A-RASP!!” the Princess Renata squealed, clutching him ",
+      "start": 439,
+      "end": 499
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "“Tell them the rules, Drabbard,” said Renata, cutting the ai",
+      "start": 3520,
+      "end": 3580
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "Now Hasp jingled by her, narrowly escaping her swish-whuff-s",
+      "start": 5468,
+      "end": 5528
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "She raised her arm to give me a couple more, but Hasp, seein",
+      "start": 5861,
+      "end": 5921
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“Sorry, Kinch,” Hasp whispered, then, while the princess had",
+      "start": 6177,
+      "end": 6237
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "We went to our stairs, but I heard the sound of massive chai",
+      "start": 9084,
+      "end": 9144
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "Pulhu raised his huge face at the smell of the blueberries. ",
+      "start": 10095,
+      "end": 10155
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "The sweetness of the blueberries and the kindness of the dyi",
+      "start": 10570,
+      "end": 10630
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch42",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch42_42_godfuckery_and_a_spark.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Yes, I think so. If you take a slave and that slave rises up",
+      "start": 1479,
+      "end": 1539
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "I was tempted to jump, I’m not afraid to tell you; just stee",
+      "start": 2083,
+      "end": 2143
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "Behind me, far away now, the city of Erydon lay under a huge",
+      "start": 3300,
+      "end": 3360
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "Take it back to the Crownlands, Galva in my mind said. Give ",
+      "start": 5099,
+      "end": 5159
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "Look, I know you want them all dead; they killed your friend",
+      "start": 5682,
+      "end": 5742
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "That’s not the world I want for my niece. Or for anyone. Fuc",
+      "start": 6487,
+      "end": 6547
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "Suddenly, I did want to live. I wanted to find out if Fulvir",
+      "start": 7088,
+      "end": 7148
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "But it did more than that. Once it was warmed up, it jerked ",
+      "start": 8563,
+      "end": 8623
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

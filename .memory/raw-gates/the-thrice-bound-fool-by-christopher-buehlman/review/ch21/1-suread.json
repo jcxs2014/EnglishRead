@@ -1,0 +1,55 @@
+{
+  "chapter": "ch21",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch21_21_the_blood_chalice.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "The place had the look of a beehive with its top cut off at ",
+      "start": 333,
+      "end": 393
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "In the middle of it, I heard a whimper. Now the Holter sayin",
+      "start": 4349,
+      "end": 4409
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "“No,” Galva said. “His dog. He told me.” “You were close, th",
+      "start": 4941,
+      "end": 5001
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“He never talked to me.” “He thought you were a, what did he",
+      "start": 5289,
+      "end": 5349
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "But he had picked a big fucking pot helmet in his armory, an",
+      "start": 6504,
+      "end": 6564
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "If I have to fight a giant, I will fight them as goblins fou",
+      "start": 7827,
+      "end": 7887
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "“Your axe is behind you!” some wet-mouthed karker shouted in",
+      "start": 9624,
+      "end": 9684
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "But she ducked under that swing so fast and low I swear she ",
+      "start": 11403,
+      "end": 11463
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

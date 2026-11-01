@@ -1,0 +1,55 @@
+{
+  "chapter": "ch11",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch11_11_one_goes_on.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "It came out of the rock behind it, with three heads and six ",
+      "start": 102,
+      "end": 162
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "Now, and I know you’ll be little inclined to believe this, b",
+      "start": 1222,
+      "end": 1282
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "“Names are ephemeral,” they said. “And you care only for wha",
+      "start": 2044,
+      "end": 2104
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“Agree to it first.” “How can I agree if I don’t know?” The ",
+      "start": 2811,
+      "end": 2871
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“We accept,” she said, and the light of the temple brightene",
+      "start": 3313,
+      "end": 3373
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "I now felt an intense sensation under my breastbone, like fi",
+      "start": 3859,
+      "end": 3919
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "All their belongings, including the books, dragged across th",
+      "start": 6710,
+      "end": 6770
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "“ONE GOES BACK.” The awful, giant stone ruin flung them both",
+      "start": 8011,
+      "end": 8071
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

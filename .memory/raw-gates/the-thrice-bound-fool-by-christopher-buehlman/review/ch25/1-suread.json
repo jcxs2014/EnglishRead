@@ -1,0 +1,55 @@
+{
+  "chapter": "ch25",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch25_25_a_king_and_his_pets.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Queen Neffa stood near the king. The first thing you noticed",
+      "start": 642,
+      "end": 702
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "“He knows it,” she said. “We know he knows it.” “Of course h",
+      "start": 1731,
+      "end": 1791
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "“Anyway, he shall die soon.” Well, that fucking killed the r",
+      "start": 3994,
+      "end": 4054
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“It is better to remain silent and be thought a prince than ",
+      "start": 4700,
+      "end": 4760
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "Manreach has no city to compare with Erydon; not cold, rainy",
+      "start": 5035,
+      "end": 5095
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "Here were spices of all colors and scents in great ox-leathe",
+      "start": 6037,
+      "end": 6097
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "The tall kynd of the coastal cities Oexyon, Maedra, and Bath",
+      "start": 8086,
+      "end": 8146
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "“A sort of honey-cake you make for someone you love very muc",
+      "start": 9734,
+      "end": 9794
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

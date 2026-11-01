@@ -1,0 +1,55 @@
+{
+  "chapter": "ch35",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch35_35_the_goblin_embassy.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Instead, they hid their mugs with masks on sticks, these mas",
+      "start": 1466,
+      "end": 1526
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "You could fall into those garments staring at them, your min",
+      "start": 2084,
+      "end": 2144
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "The second scent they had conjured was not a veil drawn befo",
+      "start": 3359,
+      "end": 3419
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "The second said, “Please don’t mind him, he’s drunk; here’s ",
+      "start": 3701,
+      "end": 3761
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "And then, as if in answer to a prayer, I heard him in my min",
+      "start": 4309,
+      "end": 4369
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "The dam whose trade it was to fan flies away from the royal ",
+      "start": 4878,
+      "end": 4938
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "I felt the magic, of course, the little hairs on my arms sta",
+      "start": 6256,
+      "end": 6316
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "good labor to your drones good meat to your mouths docile sl",
+      "start": 6702,
+      "end": 6762
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

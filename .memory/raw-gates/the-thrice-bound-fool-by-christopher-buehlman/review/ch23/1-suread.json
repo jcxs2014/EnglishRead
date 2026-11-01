@@ -1,0 +1,55 @@
+{
+  "chapter": "ch23",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch23_23_where_the_wicked_roost.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Yours is a god I know to be real, and what a sorrow, for tha",
+      "start": 441,
+      "end": 501
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "Only the blind are glad to see you, only the senseless covet",
+      "start": 816,
+      "end": 876
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "Among its notable features were four sort of elevated walls,",
+      "start": 1941,
+      "end": 2001
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "Though the darkness of Erydon was not the same as the darkne",
+      "start": 2977,
+      "end": 3037
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "My formal name is Sylvae Mar Mexes, but you will call me Pon",
+      "start": 6148,
+      "end": 6208
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "“I will not work too hard on you, as you will only spend the",
+      "start": 7045,
+      "end": 7105
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "Standing in a stone recess almost too small for him was the ",
+      "start": 7403,
+      "end": 7463
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "The recess he stood in was dark, and its dim lighting owed n",
+      "start": 8009,
+      "end": 8069
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

@@ -1,0 +1,49 @@
+{
+  "chapter": "ch33",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch33_33_whiskey_and_cake.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Our Galva, who’d enjoyed several victories on the blacksand ",
+      "start": 355,
+      "end": 415
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "It strode out of the menagerie gate with the bright western ",
+      "start": 1960,
+      "end": 2020
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "She put her hand up, then slowly put it down, with her palm ",
+      "start": 4047,
+      "end": 4107
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "The tiger wanted her belly rubbed. Galva obliged, and even f",
+      "start": 4707,
+      "end": 4767
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "You should have heard the half-giants laugh. Of course, they",
+      "start": 5383,
+      "end": 5443
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "He was good and high up on that camel, but after the fight w",
+      "start": 6075,
+      "end": 6135
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "But there was an unwritten rule in the Palace of Bones; you ",
+      "start": 7139,
+      "end": 7199
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

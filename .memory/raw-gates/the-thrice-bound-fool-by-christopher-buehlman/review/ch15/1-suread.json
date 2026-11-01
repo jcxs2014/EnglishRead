@@ -1,0 +1,55 @@
+{
+  "chapter": "ch15",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch15_15_the_slave_makers.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "I snorted and rose, quickened by the moisture. Thunder boome",
+      "start": 1006,
+      "end": 1066
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "No, friend. It was not horses these riders rode but camels. ",
+      "start": 2373,
+      "end": 2433
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "She had disemboweled a camel; cut the toes off one slaver’s ",
+      "start": 6315,
+      "end": 6375
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "She’d confided to me that her great weakness as a soldier wa",
+      "start": 7106,
+      "end": 7166
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "They called themselves the Free Traders of the Fig and Dagge",
+      "start": 11955,
+      "end": 12015
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "He would have been an ordinary-looking fellow, of ordinary h",
+      "start": 12727,
+      "end": 12787
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "“The true giants are the second-greatest power in these land",
+      "start": 14309,
+      "end": 14369
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "I’m telling you the Galtish word he used where a Holter woul",
+      "start": 16290,
+      "end": 16350
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

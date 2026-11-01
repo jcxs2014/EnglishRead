@@ -1,0 +1,55 @@
+{
+  "chapter": "ch18",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch18_18_into_bondage.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Find. My. Shield. Not get me out of here. Not bring me water",
+      "start": 930,
+      "end": 990
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "Here was one with a hole in the middle, carved with a cat on",
+      "start": 2514,
+      "end": 2574
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "“Hello again,” he said to me, adjusting his false nose. He t",
+      "start": 6011,
+      "end": 6071
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“I AM THINKING. YOU ARE NOT. SUCH A CUNT.” It felt like my h",
+      "start": 6665,
+      "end": 6725
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“Thunderdust,” he said. “It is the dried and powdered shit o",
+      "start": 8738,
+      "end": 8798
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "Laws may be written in ink, but they live on blood. Now we m",
+      "start": 11665,
+      "end": 11725
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "Their armor was black, but the way it caught light betrayed ",
+      "start": 12834,
+      "end": 12894
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "This was my first glimpse of western blackglass armor, for n",
+      "start": 13200,
+      "end": 13260
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

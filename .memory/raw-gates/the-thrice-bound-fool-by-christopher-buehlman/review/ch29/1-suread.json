@@ -1,0 +1,49 @@
+{
+  "chapter": "ch29",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch29_29_hasp_a_rasp.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "“Anyway,” I said, “I BEAT. Him to DEATH. With a STICK!” Now ",
+      "start": 946,
+      "end": 1006
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "“Oh, you know he won’t stop complaining it’s cold at night.”",
+      "start": 1309,
+      "end": 1369
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "“Why ours, sprumlet! When we get back to Galtia. We’ll get a",
+      "start": 2401,
+      "end": 2461
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "He had been a traveling performer once, but, on a drunken ni",
+      "start": 3972,
+      "end": 4032
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "He had a pair of pantaloons he used for these occasions, wit",
+      "start": 3530,
+      "end": 3590
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "And just when I was reaching my hand out to pick one of the ",
+      "start": 6143,
+      "end": 6203
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "So we went to a bakery and instead of discovering lost books",
+      "start": 6401,
+      "end": 6461
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch34",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch34_34_the_tiger_s_sister.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Speaking of things people take pleasure from, I got the opiu",
+      "start": 22,
+      "end": 82
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "We’ll just say that, belly-down, he was more in a position t",
+      "start": 404,
+      "end": 464
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "These are called glass mermaids, and you can faintly see the",
+      "start": 1592,
+      "end": 1652
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "Shall we kiss or kill this nightspawn morsel?” One pointed a",
+      "start": 4693,
+      "end": 4753
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "One of the Guild’s lessons is that the best way to go unseen",
+      "start": 5622,
+      "end": 5682
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "As the gate swung open, the tiger made a tiger noise so low ",
+      "start": 7216,
+      "end": 7276
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "It was Galva who saved the situation; she pulled up that goa",
+      "start": 9635,
+      "end": 9695
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "The guard, who I didn’t see, chuckled, and told someone else",
+      "start": 10405,
+      "end": 10465
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

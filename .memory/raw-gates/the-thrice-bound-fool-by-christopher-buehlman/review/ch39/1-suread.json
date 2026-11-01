@@ -1,0 +1,55 @@
+{
+  "chapter": "ch39",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch39_39_hoodman_blind.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "And that made me think of the wizard Fulvir, called the Fath",
+      "start": 584,
+      "end": 644
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "Masters all dead. Not all. Most. Let us go back and wait to ",
+      "start": 1748,
+      "end": 1808
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "Now screams rang out. I saw no Erydoni on the street, but I ",
+      "start": 2148,
+      "end": 2208
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "The person who had said “The queen!” was in fact Xander, Has",
+      "start": 4089,
+      "end": 4149
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "He had blood on his head, so I thought him injured, but then",
+      "start": 4291,
+      "end": 4351
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "And you won’t believe this if you’ve never lived in a place ",
+      "start": 5227,
+      "end": 5287
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "The geigon heard that jingle, and a lot of things seemed to ",
+      "start": 5707,
+      "end": 5767
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "He did so—die, I mean, and loudly. If it pleases you to thin",
+      "start": 7220,
+      "end": 7280
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

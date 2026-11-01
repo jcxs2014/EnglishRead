@@ -1,0 +1,55 @@
+{
+  "chapter": "ch14",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch14_14_the_dead_and_the_dry.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "They’re strong as fuck and they run to fat. Also, they move ",
+      "start": 589,
+      "end": 649
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "I bugged my eyes, then and grabbed my neck. Fell over on my ",
+      "start": 6025,
+      "end": 6085
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "I woke with a gurgling urp, and soon I was hunched doglike a",
+      "start": 6870,
+      "end": 6930
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“Bolnu!” she said. “Chodilu cu’orgela, fis de Galtia!” “I wi",
+      "start": 8699,
+      "end": 8759
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "The cool star-air felt so good on my skin, I had to run. As ",
+      "start": 10392,
+      "end": 10452
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "“Are you a jackal?” I asked it as we both ran. Its tongue lo",
+      "start": 10920,
+      "end": 10980
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "“Nothing. It’ll rain on yas or it won’t. You’ll get found by",
+      "start": 13477,
+      "end": 13537
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "“Meaning I just wanted to look at you again,” she said with ",
+      "start": 13724,
+      "end": 13784
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

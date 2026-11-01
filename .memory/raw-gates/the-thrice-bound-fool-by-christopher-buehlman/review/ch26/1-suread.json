@@ -1,0 +1,55 @@
+{
+  "chapter": "ch26",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch26_26_apocalypse_the_first.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "a dog panted on one side of the cushion, a fat little thing ",
+      "start": 1399,
+      "end": 1459
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "Worse, every third or fourth lap he tried to breach the seal",
+      "start": 3867,
+      "end": 3927
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "Uhh! The boring old Praxeter talks and then they show the go",
+      "start": 2895,
+      "end": 2955
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "This Halfmoon was the smaller of the two, though both were l",
+      "start": 4731,
+      "end": 4791
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "Above this and in the distance stood Thumos’s Throne, the sm",
+      "start": 5148,
+      "end": 5208
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "If I expected an old bastard, I was mistaken, for this critt",
+      "start": 6372,
+      "end": 6432
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "When the smoke stopped, the hilloxen somewhere behind the wa",
+      "start": 7324,
+      "end": 7384
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "“Something-nonsense-hrem-alem,” said one whom I gathered to ",
+      "start": 7881,
+      "end": 7941
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

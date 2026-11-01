@@ -1,0 +1,49 @@
+{
+  "chapter": "ch02",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch02_2_goats_and_other_lovers.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Two geezers who wanted the job were summoned with a long, al",
+      "start": 266,
+      "end": 326
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "Early in the morning, while Galva did her hard hour of preda",
+      "start": 917,
+      "end": 977
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "He was armed with a medium-size crossbow, a spear with a ser",
+      "start": 4708,
+      "end": 4768
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“What can you do for us?” “Keep you life. If you not stupid.",
+      "start": 5986,
+      "end": 6046
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "He said something in Gunnish, smiled at us, and nodded like ",
+      "start": 6131,
+      "end": 6191
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "He nearly came to blows with the Wostran, then said somethin",
+      "start": 6929,
+      "end": 6989
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "At my own mention of shut mouths, I remembered something tha",
+      "start": 7254,
+      "end": 7314
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

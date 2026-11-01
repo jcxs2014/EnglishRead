@@ -1,0 +1,55 @@
+{
+  "chapter": "ch31",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch31_31_a_kitten_by_night.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "I decided not to take the key from around his neck, but rath",
+      "start": 104,
+      "end": 164
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "It was that first night that I met a sweet-natured black one",
+      "start": 690,
+      "end": 750
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "My eyes proved keen even in the dim light, and I ran two ste",
+      "start": 3115,
+      "end": 3175
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“All this strange, dry landscape once was ours,” the cyclops",
+      "start": 5523,
+      "end": 5583
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“Blackglass,” he said. “The midnight bastard child of steel ",
+      "start": 6326,
+      "end": 6386
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "A cyclops eye is the strangest you’ll ever see, even if you’",
+      "start": 7528,
+      "end": 7588
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "“It were a mean, unworthy trick if you should say such a thi",
+      "start": 8996,
+      "end": 9056
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "“I’ll need the making of a key.” I passed to him the wax car",
+      "start": 10752,
+      "end": 10812
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch05",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch05_5_hoooooo_hoooooo.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "I was from Galtia, a frigid country, not so big on snows, bu",
+      "start": 146,
+      "end": 206
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "The Spanth and I were getting good at talking without talkin",
+      "start": 3772,
+      "end": 3832
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "I missed her for more than that, though. A great deal more. ",
+      "start": 2471,
+      "end": 2531
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "More clicking, coming from multiple places. That’s Fothannon",
+      "start": 4453,
+      "end": 4513
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“Shoot one of them,” Galva whispered. “You sure about that?”",
+      "start": 5455,
+      "end": 5515
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "Something struck at him, something fast, I couldn’t really s",
+      "start": 6175,
+      "end": 6235
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "More like a mouse’s nightmare of an owl if I’m honest. Six f",
+      "start": 7967,
+      "end": 8027
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "The worst thing about them was the way they bobbed their fuc",
+      "start": 8563,
+      "end": 8623
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

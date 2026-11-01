@@ -1,0 +1,55 @@
+{
+  "chapter": "ch12",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch12_12_birds_and_flowers.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "I walked up to one of the fallen building-stones and put my ",
+      "start": 1768,
+      "end": 1828
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "“You destroyed the book,” she said. “Yes.” I was confused fo",
+      "start": 3241,
+      "end": 3301
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "“Fuck your girl. There is a woman and a queen across those m",
+      "start": 3864,
+      "end": 3924
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“There is no secret!” She blinked at me like I’d slapped her",
+      "start": 4859,
+      "end": 4919
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“Diddler!” I said. And the word, while I meant it angry, was",
+      "start": 5749,
+      "end": 5809
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "Her soul was bound into it, to make it smart, clever. But sh",
+      "start": 6809,
+      "end": 6869
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "“Maybe. But what about the third book? The one that went thr",
+      "start": 7591,
+      "end": 7651
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "Now it wasn’t merely the sweet perfume of a flower; it was h",
+      "start": 8497,
+      "end": 8557
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

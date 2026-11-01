@@ -1,0 +1,55 @@
+{
+  "chapter": "ch27",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch27_27_a_blarghing_in_the_bone_palace.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "At one point, several large booms rang out overhead, and I y",
+      "start": 358,
+      "end": 418
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "Then I realized they weren’t carvings at all. The creamy whi",
+      "start": 1949,
+      "end": 2009
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "“Thumos victorious,” she said. “That’s his hammer of fate. H",
+      "start": 2765,
+      "end": 2825
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“Oh, you are a merry fool, Kitch! Even more merry than Hasp-",
+      "start": 3289,
+      "end": 3349
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "But one feature of the Bone Palace that bears mention was a ",
+      "start": 4584,
+      "end": 4644
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "Well, this is once when I’ll tell you that you don’t want to",
+      "start": 5563,
+      "end": 5623
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "I never thought of their language the same way again after I",
+      "start": 6554,
+      "end": 6614
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "This was after I watched the true giant fight the bull eleph",
+      "start": 7067,
+      "end": 7127
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

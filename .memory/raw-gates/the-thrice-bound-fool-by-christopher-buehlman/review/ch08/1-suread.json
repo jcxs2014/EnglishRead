@@ -1,0 +1,55 @@
+{
+  "chapter": "ch08",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch08_8_i_am_my_own_dog.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "“Wait, shyte,” I said now. “What am I?” “I’ll forgive you no",
+      "start": 135,
+      "end": 195
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "“But what was all that business you once said about how you’",
+      "start": 893,
+      "end": 953
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "And I smelled all the spices and herbs in her kitchen all at",
+      "start": 1922,
+      "end": 1982
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“Now listen. Listen, damn ya! Yer Spanth has a fester of the",
+      "start": 2687,
+      "end": 2747
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“No. Something else. And not your mouth. I’ll give it to you",
+      "start": 3202,
+      "end": 3262
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "“Another thing, and this is worse. You’re not going to make ",
+      "start": 3717,
+      "end": 3777
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "These earlier gods were many and strange, and none so strang",
+      "start": 6622,
+      "end": 6682
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "But here’s the unsettling bit. I’m not allowed to tell you w",
+      "start": 7265,
+      "end": 7325
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

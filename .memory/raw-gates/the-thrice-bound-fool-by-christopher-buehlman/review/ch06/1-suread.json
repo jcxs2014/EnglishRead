@@ -1,0 +1,55 @@
+{
+  "chapter": "ch06",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch06_6_well_buggered_down_a_ditch.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Turns out Galva was saying Dalgatha, which was the name of h",
+      "start": 374,
+      "end": 434
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "Did I let go because I was willing to sacrifice myself to sa",
+      "start": 828,
+      "end": 888
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "What I said was, “Raooo.” In the excitement of my tumble, I ",
+      "start": 2532,
+      "end": 2592
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "It was looking down in the crevasse at us. To be proper, it ",
+      "start": 2749,
+      "end": 2809
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“Don’t go to sleep.” “Or what?” She thumbed one of my eyelid",
+      "start": 5257,
+      "end": 5317
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "“Book of the Full Shadow,” I told it, “I am your true and pr",
+      "start": 8551,
+      "end": 8611
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "“You’ll see or smell that I’ve got a smoldering wick of punk",
+      "start": 9197,
+      "end": 9257
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "An ugly language. A language of cobblers, good only for spea",
+      "start": 10003,
+      "end": 10063
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

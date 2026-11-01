@@ -1,0 +1,55 @@
+{
+  "chapter": "ch16",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch16_16_nothing_you_d_want_to_put_your_cock_i.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "“A table wife shares money and work but not the bed. It is o",
+      "start": 2597,
+      "end": 2657
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "“Yes. Goblin females are smarter. Make decisions. This is wh",
+      "start": 410,
+      "end": 470
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "All I know is that the karker who hooked my friend Malk firs",
+      "start": 1539,
+      "end": 1599
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“She says you and she should be friends, since you both have",
+      "start": 3813,
+      "end": 3873
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "To my mind, the look said, “That’s where you long-pigs belon",
+      "start": 5357,
+      "end": 5417
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "“The company have decided, by vote of twenty-three to ninete",
+      "start": 6784,
+      "end": 6844
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "“They’ll sell us in chains to the gods know who or what, you",
+      "start": 8561,
+      "end": 8621
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "“Because it is too valuable. There is no way for us to divid",
+      "start": 10198,
+      "end": 10258
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

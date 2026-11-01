@@ -1,0 +1,55 @@
+{
+  "chapter": "ch03",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch03_3_the_last_town_for_fuck_all_miles.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "We left the provisioner’s well provisioned indeed. We expect",
+      "start": 35,
+      "end": 95
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "What it isn’t is being still and quiet forever without a tho",
+      "start": 3015,
+      "end": 3075
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "Worrig dropped back, made the zed, “ZZZZZZZZZZ,” then poked ",
+      "start": 5702,
+      "end": 5762
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“Fucking bee,” I said. “Fuckinbee,” he repeated. “That’s fuc",
+      "start": 6185,
+      "end": 6245
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "A memory came to me, the way they will at a taste or a smell",
+      "start": 7317,
+      "end": 7377
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "At first, I thought they were shaped like big, rolled-up rug",
+      "start": 10571,
+      "end": 10631
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "“No, is not bee to eat meat. No eat man. Land on flower. Eat",
+      "start": 11124,
+      "end": 11184
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "The most important thing about serving mischief is to laugh ",
+      "start": 11815,
+      "end": 11875
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

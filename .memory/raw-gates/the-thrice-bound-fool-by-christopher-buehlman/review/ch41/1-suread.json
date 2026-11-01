@@ -1,0 +1,55 @@
+{
+  "chapter": "ch41",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch41_41_borne_away.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "If we could get on that ship, I thought maybe, just maybe we",
+      "start": 903,
+      "end": 963
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "True giants were out in the streets now, so blood-mad that w",
+      "start": 1884,
+      "end": 1944
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "Thumos’s cruel hound, Magmas, released to savage the shamed ",
+      "start": 2496,
+      "end": 2556
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "Once Galva showed the chain to the great, stag-sized bird an",
+      "start": 6038,
+      "end": 6098
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "I had a feeling she’d done the same math I had—the crew, the",
+      "start": 8766,
+      "end": 8826
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "Only, the five Moth Knights of the Deepest Hive were the one",
+      "start": 9121,
+      "end": 9181
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "And the shield went over the side. Dalgatha slid between me ",
+      "start": 14222,
+      "end": 14282
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "Because she hadn’t wanted to drop her sword, she had reached",
+      "start": 14369,
+      "end": 14429
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

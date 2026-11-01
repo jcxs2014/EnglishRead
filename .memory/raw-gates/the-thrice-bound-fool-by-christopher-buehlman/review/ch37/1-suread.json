@@ -1,0 +1,55 @@
+{
+  "chapter": "ch37",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch37_37_fortune_s_crumbs.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Bully Boy turned his wee blind head toward the sound of me t",
+      "start": 293,
+      "end": 353
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "I’m just afraid if I stop talking, I’ll start crying, and th",
+      "start": 2634,
+      "end": 2694
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "One thing they teach you at the Low School is not to scorn t",
+      "start": 5020,
+      "end": 5080
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "There was likely nothing stronger on two legs in all the wor",
+      "start": 6983,
+      "end": 7043
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "The thing had raided the kitchen and brought the giant berri",
+      "start": 9103,
+      "end": 9163
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "This tenderness between such different creatures loosened pa",
+      "start": 9771,
+      "end": 9831
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "It turned its side-mounted, strange eye toward me in a suspi",
+      "start": 12006,
+      "end": 12066
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "It wiped its first sets of characters away and wrote, I also",
+      "start": 12688,
+      "end": 12748
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

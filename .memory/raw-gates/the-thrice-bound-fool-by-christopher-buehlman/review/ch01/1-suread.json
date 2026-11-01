@@ -1,0 +1,14 @@
+{
+  "chapter": "ch01",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch01_1_the_flayed_bear.txt",
+  "facts": [
+    {"fact": "Kinch 与 Galva 在 Oustrim 西陲山村买驴，花四枚 Molrovan 银币", "anchor": "Four scales she wanted.", "start": 1556, "end": 1671},
+    {"fact": "村中公共刑罚：通奸女子背上写 Othbleddr（Adulteress），上枷被两个男孩掷羊粪", "anchor": "Othbleddr. Adulteress.", "start": 2823, "end": 2853},
+    {"fact": "Galva 夜里做噩梦磨牙呻吟——许多 Daughters' War 参战者如此", "anchor": "She was moaning in her sleep and grinding her teeth", "start": 6189, "end": 6249},
+    {"fact": "书从包里跑出摊在地板上，用 Gunnish 写下并同步念出杀令", "anchor": "Enemies of the Guild are within this room. Kill them and return the book they have stolen", "start": 8257, "end": 8451},
+    {"fact": "书在墙上长出人嘴，自报十二部 Full Shadow 之一、Guild 珍宝", "anchor": "I am one of only twelve Books of the Full Shadow, no two alike", "start": 8994, "end": 9261},
+    {"fact": "Kinch 用铁帐篷钉钉穿嘴；书咬住铁钉死于 magic-killing iron，流墨水", "anchor": "died around the magic-killing iron, bleeding ink", "start": 9270, "end": 9461},
+    {"fact": "Galva 惊醒用 Ispanthian 质问 Če fus, jilnaedu?（你在干什么，恶心的白痴）", "anchor": "What are you doing, vicious idiot?", "start": 9636, "end": 9755},
+    {"fact": "书页上嘴插图回归、墨色变浅、在微笑", "anchor": "But now it was smiling.", "start": 10233, "end": 10317}
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch36",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch36_36_fate_s_cruel_hand.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "“Can you kill them?” “Alone? I doubt it.” “Can you get me ou",
+      "start": 292,
+      "end": 352
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "“Speak from your bones, not your bowels.” This shamed me a b",
+      "start": 1712,
+      "end": 1772
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "Of course, while mortals write plans in wet sand, the gods s",
+      "start": 2849,
+      "end": 2909
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“Yes, yes! The hivelings like games, and that’s why Father’s",
+      "start": 3716,
+      "end": 3776
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "I don’t know what the new marshal said, but I could tell the",
+      "start": 5522,
+      "end": 5582
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "See, the bear didn’t know what fucking team he was on, did h",
+      "start": 7910,
+      "end": 7970
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "So Galva didn’t use the spadín. She used her hand. She slapp",
+      "start": 8871,
+      "end": 8931
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "I lie sometimes—you may have noticed—but take this for gospe",
+      "start": 9446,
+      "end": 9506
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

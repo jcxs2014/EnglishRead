@@ -1,0 +1,55 @@
+{
+  "chapter": "ch19",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch19_19_the_fruit_tree_of_slaves.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "We are your children’s toys, your nurses, your fools; we run",
+      "start": 452,
+      "end": 512
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "The sight of the leaves changing from green to red as our ch",
+      "start": 3289,
+      "end": 3349
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "They said, “You probably would have liked a just god, or a l",
+      "start": 4433,
+      "end": 4493
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "I put my hand on his lower back, for that was as high as I c",
+      "start": 5024,
+      "end": 5084
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "This one, named Azdra-Kopt, or Star-Taker, was like the symb",
+      "start": 6057,
+      "end": 6117
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "They don’t clap in the kingdom of Erydon, or at least not th",
+      "start": 7330,
+      "end": 7390
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "“And whoever takes this brave warrior will also have her shi",
+      "start": 11967,
+      "end": 12027
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "You can always find a rich, pampered bastard who’ll pay to s",
+      "start": 12809,
+      "end": 12869
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

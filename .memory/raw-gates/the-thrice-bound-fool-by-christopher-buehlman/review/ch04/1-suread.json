@@ -1,0 +1,55 @@
+{
+  "chapter": "ch04",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch04_4_the_killers.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "The word “Rubbhorinkkit!” rang out and echoed in the rocky p",
+      "start": 459,
+      "end": 519
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "It never fails to amaze me how fast Galva gets a shield off ",
+      "start": 944,
+      "end": 1004
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "A small wing flashed out from the corvid tattoo, making a wo",
+      "start": 2730,
+      "end": 2790
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "That bird was like a siege engine, punching holes with her b",
+      "start": 3730,
+      "end": 3790
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“Follow!” said the Wostran, pointing at the receding braided",
+      "start": 4389,
+      "end": 4449
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "I got a good look at her face. Damn if it wasn’t the woman I",
+      "start": 6018,
+      "end": 6078
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "The bird was stalking, rasping and hissing at the Wostran, w",
+      "start": 7456,
+      "end": 7516
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "Had it unreeled one to where the Wostran lay dying, or dead,",
+      "start": 9341,
+      "end": 9401
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch38",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch38_38_the_revelation.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "The stands were full, as they always were, since keeping the",
+      "start": 1170,
+      "end": 1230
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "“It’s Kinch, you cow,” I said. “What?” “KINCH. And COW,” I s",
+      "start": 1794,
+      "end": 1854
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "“It wasn’t your fault, was it?” I said. She cocked her head ",
+      "start": 2526,
+      "end": 2586
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "Only, the messages weren’t written on rock but clay made to ",
+      "start": 4440,
+      "end": 4500
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "The owners of those high voices were kynd slave children, st",
+      "start": 5985,
+      "end": 6045
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "As if they were too loyal to bear life without their soverei",
+      "start": 7719,
+      "end": 7779
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "You’re all karks, fuckwits, and slavers. I read it with no d",
+      "start": 8458,
+      "end": 8518
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "I killed a city. I did. Not all of them. But most of them. A",
+      "start": 9053,
+      "end": 9113
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

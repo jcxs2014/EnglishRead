@@ -1,0 +1,55 @@
+{
+  "chapter": "ch20",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch20_20_the_ludus_of_the_green_devil.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "A statue stood on the roof, just over the relief—it was of a",
+      "start": 609,
+      "end": 669
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "“Welcome,” said the woman in the enameled scale armor who ha",
+      "start": 1991,
+      "end": 2051
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "For debt. I used to gamble. I was fool enough to gamble away",
+      "start": 3112,
+      "end": 3172
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "The odds of this happening are quite low, since I will make ",
+      "start": 6526,
+      "end": 6586
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“Now, I am rotten to the core, but I am fair, except when I ",
+      "start": 6946,
+      "end": 7006
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "He knew damned well that some of those she had beaten out fo",
+      "start": 9044,
+      "end": 9104
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "There he is in my memory, like a turd in milk, standing ther",
+      "start": 10364,
+      "end": 10424
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "But not from my mouth this time. That fucking giant knocked ",
+      "start": 13457,
+      "end": 13517
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

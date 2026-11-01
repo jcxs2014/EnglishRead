@@ -1,0 +1,55 @@
+{
+  "chapter": "ch13",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch13_13_monkey_monkey.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Yes, my darlings, come back into our arms. We have brigands ",
+      "start": 2292,
+      "end": 2352
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "“Better a whole failure than just the self-loathing inner vo",
+      "start": 3150,
+      "end": 3210
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "Their heads slowly turned as they watched us go by. One lean",
+      "start": 4934,
+      "end": 4994
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“Well, they know what a bow is,” I said. “And how far you ca",
+      "start": 5240,
+      "end": 5300
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“And in the morning, he woke up to discover that he was a be",
+      "start": 7383,
+      "end": 7443
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "It put its wee hands together now and started moving them up",
+      "start": 8423,
+      "end": 8483
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "I said water in as many languages as I knew, but it just coc",
+      "start": 9116,
+      "end": 9176
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "“FUGHKH!” I said through a mouthful of shyte, and while I sp",
+      "start": 10105,
+      "end": 10165
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

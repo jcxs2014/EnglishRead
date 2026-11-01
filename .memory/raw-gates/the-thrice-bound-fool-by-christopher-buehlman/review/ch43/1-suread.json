@@ -1,0 +1,55 @@
+{
+  "chapter": "ch43",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch43_43_the_living_and_the_dead.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "If we kept going straight, we’d pile into a sheer stone face",
+      "start": 481,
+      "end": 541
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "I had come back to the lair of the brigand Ylda, who’d slain",
+      "start": 2028,
+      "end": 2088
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "The dead man was myself, and I had written myself a letter. ",
+      "start": 2992,
+      "end": 3052
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "fuck thim hard you can you know youl hav enouf you knowt all",
+      "start": 5628,
+      "end": 5688
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "“You bitch,” I said through a sob. “You thoughtless bitch, y",
+      "start": 8119,
+      "end": 8179
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "“Wait. … You beat an Assassin-Adept and a Spanth sell-sword?",
+      "start": 9787,
+      "end": 9847
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "Might have. Those words were going to hound me to my grave. ",
+      "start": 14820,
+      "end": 14880
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "Heaps and heaps of dead covering the Halfmoon, so thick you ",
+      "start": 15016,
+      "end": 15076
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

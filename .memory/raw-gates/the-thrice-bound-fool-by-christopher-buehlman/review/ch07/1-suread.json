@@ -1,0 +1,55 @@
+{
+  "chapter": "ch07",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch07_7_the_book_of_the_full_shadow.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Did we continue forward into these deadly mountains, which w",
+      "start": 130,
+      "end": 190
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "Her normally olive complexion had gone pale, her eyes red-ri",
+      "start": 713,
+      "end": 773
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "“Solf Hiray, blessed quickgreen sapling, stiller of fever an",
+      "start": 9333,
+      "end": 9393
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "But instead of bribes, poisons, and the wages of magickers a",
+      "start": 12412,
+      "end": 12472
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "Are you asking? said a papery voice, and I wasn’t sure if I ",
+      "start": 13629,
+      "end": 13689
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "And you, hang on, I’ll get you out of this. And don’t trust ",
+      "start": 19575,
+      "end": 19635
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "And here her face did a strange thing. It, for want of a bet",
+      "start": 23262,
+      "end": 23322
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "Her tongue entered my mouth less like a chainsman with a war",
+      "start": 24740,
+      "end": 24800
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

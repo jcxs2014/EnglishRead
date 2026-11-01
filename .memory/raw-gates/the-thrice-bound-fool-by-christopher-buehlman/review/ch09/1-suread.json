@@ -1,0 +1,55 @@
+{
+  "chapter": "ch09",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch09_9_a_wrestle_at_the_faire.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "Here a draft horse pulled a cart of beer kegs, there a knigh",
+      "start": 756,
+      "end": 816
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "Now, I was right guessing there was a Galt nearby, but what ",
+      "start": 2045,
+      "end": 2105
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "“Well, Malk Na Brannyck,” other Kinch said to me, “I thought",
+      "start": 2637,
+      "end": 2697
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "I wasn’t Malk fighting myself, I was myself fighting the boo",
+      "start": 4413,
+      "end": 4473
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "I looked over my shoulder and saw a crab-faced horror mounte",
+      "start": 6570,
+      "end": 6630
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "“Yes. I am Filaine. The book wears my face sometimes, and wh",
+      "start": 7034,
+      "end": 7094
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "“Free me.” “Burn the book?” “Yes.” “I need its secrets. I do",
+      "start": 7433,
+      "end": 7493
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "The wrestler-crab dropped me and ran as a hammerhead the siz",
+      "start": 8604,
+      "end": 8664
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

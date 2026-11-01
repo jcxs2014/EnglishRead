@@ -1,0 +1,55 @@
+{
+  "chapter": "ch10",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch10_10_a_god_of_threes.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "It was a full nine days later that we left the brigands’ lai",
+      "start": 19,
+      "end": 79
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "They looked majestic. They looked noble. They looked fucking",
+      "start": 3335,
+      "end": 3395
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "“Bolnu!” Galva said when the goat jerked, the red fletchings",
+      "start": 3872,
+      "end": 3932
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“NOOOO!” I said, watching as the panicked karker and his two",
+      "start": 4604,
+      "end": 4664
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "I held her, and she didn’t punch me. It hit us.",
+      "start": 5142,
+      "end": 5189
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "“Baaa-aaah-ah-ah,” I said. Have I mentioned I studied animal",
+      "start": 7200,
+      "end": 7260
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "It flickered twice, like a candle about to go out, then made",
+      "start": 10040,
+      "end": 10100
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "The tunnel split into three. “Right,” I said. “A god of thre",
+      "start": 11692,
+      "end": 11752
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

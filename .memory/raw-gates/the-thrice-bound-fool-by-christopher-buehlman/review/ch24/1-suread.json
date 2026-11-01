@@ -1,0 +1,55 @@
+{
+  "chapter": "ch24",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch24_24_a_bitch_and_her_fish.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "She spoke a bit as she walked the land of troubled sleep. It",
+      "start": 1288,
+      "end": 1348
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "All these games of long-pissing get beaten out of you, and s",
+      "start": 2507,
+      "end": 2567
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "He was kynd, and older, and sick. When he said, in Galtish, ",
+      "start": 3680,
+      "end": 3740
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“You’re a fool,” I said to him in amusement and wonder. “The",
+      "start": 4402,
+      "end": 4462
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "Once I had the key in hand, I gentled it back around his nec",
+      "start": 8528,
+      "end": 8588
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "He slapped me hard, in a way that put me in mind of the wors",
+      "start": 9600,
+      "end": 9660
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "The sun found her gold disk necklace and her bun of gold hai",
+      "start": 10845,
+      "end": 10905
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "I imagined getting behind her with my legs crossed at her be",
+      "start": 12309,
+      "end": 12369
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

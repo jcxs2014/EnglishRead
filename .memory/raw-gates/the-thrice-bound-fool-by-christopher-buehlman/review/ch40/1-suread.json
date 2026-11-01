@@ -1,0 +1,55 @@
+{
+  "chapter": "ch40",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch40_40_glassfall.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "A quarter of an hour later, I was standing at the huge gate ",
+      "start": 13,
+      "end": 73
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "“They’re not going to escape. They’re going to earn their fr",
+      "start": 2451,
+      "end": 2511
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "Though my gaze was focused on the crabsnatch of a shyte-both",
+      "start": 2910,
+      "end": 2970
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "First, I got that lock. I got that fucker. It shuddered and ",
+      "start": 3458,
+      "end": 3518
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "While rock rained like hammers, blackglass fell like nails. ",
+      "start": 4001,
+      "end": 4061
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "For just an instant, I was back in the brigands’ cave with G",
+      "start": 4299,
+      "end": 4359
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "On this street, at this moment, a murderous, blistering-hot ",
+      "start": 4627,
+      "end": 4687
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "Galva killed one like a calf, but before she could engage an",
+      "start": 6489,
+      "end": 6549
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}

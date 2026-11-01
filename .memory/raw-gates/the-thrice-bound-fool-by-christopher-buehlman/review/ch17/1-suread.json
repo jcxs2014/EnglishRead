@@ -1,0 +1,55 @@
+{
+  "chapter": "ch17",
+  "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch17_17_thunder.txt",
+  "facts": [
+    {
+      "fact": "引语块1关键事件",
+      "anchor": "“Camels don’t fly,” I said, just before the flying camel str",
+      "start": 625,
+      "end": 685
+    },
+    {
+      "fact": "引语块2关键事件",
+      "anchor": "Not, at least, when an eighteen-footer who isn’t even bother",
+      "start": 892,
+      "end": 952
+    },
+    {
+      "fact": "引语块3关键事件",
+      "anchor": "Seven huge fucking giants girdled in bone and brass, covered",
+      "start": 2338,
+      "end": 2398
+    },
+    {
+      "fact": "引语块4关键事件",
+      "anchor": "“You always save a laugh against hell,” she said and nodded.",
+      "start": 3133,
+      "end": 3193
+    },
+    {
+      "fact": "引语块5关键事件",
+      "anchor": "He had a crown he’d made from some flowering bush and looked",
+      "start": 4818,
+      "end": 4878
+    },
+    {
+      "fact": "引语块6关键事件",
+      "anchor": "“Your tongue is black.” “Yes, I’ve noticed,” I said. “Are yo",
+      "start": 6644,
+      "end": 6704
+    },
+    {
+      "fact": "引语块7关键事件",
+      "anchor": "Close lightning. Hard thunder. Those are the nearest sounds ",
+      "start": 7392,
+      "end": 7452
+    },
+    {
+      "fact": "引语块8关键事件",
+      "anchor": "The giant whose name I never learned walked on, one arm gone",
+      "start": 8577,
+      "end": 8637
+    }
+  ],
+  "note": "T3 R1: 从 md 引语回源 text/ 提取事实区间（全量覆盖）"
+}
