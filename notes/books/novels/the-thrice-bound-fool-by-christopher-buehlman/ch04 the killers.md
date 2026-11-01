@@ -9,7 +9,7 @@ modified: "2026-11-01"
 - **一句话概括**：山口伏击战打响——Galva 翻盾挡枪救下 Worrig、裸放战鸦 Dalgatha 屠灭匪帮，濒死的向导交代头目正是他「已死」的妻子 Ylda；Kinch 追击时认出她是第一章受枷的通奸犯，回程却撞见书像帽子一样戴在 Worrig 的尸体上驱动他行走，最终 Kinch 用 Murder Alphabet 的字母处死两名女俘，章尾半石坠链微微指向来路。
 - **情感弧线位置**：全书第一场正面血战。喜剧节奏被打断，「杀手」名单重新洗牌：外部的匪帮、身边的亡夫戏、包里的书轮流坐庄——威胁从「路上遇劫」升级为「带的东西自己会杀人」。
 - **Tropes 兑现/反转**：ambush（伏击）兑现但首刀扎向向导而非主角；dead husband（亡夫）反转成活道具——Worrig 死后被书当坐骑，婚姻的恨还没清算，尸身已先被征用；adulteress（通奸犯）完成身份闭环——第一章受刑的背影成为本章的敌将。
-- **人物弧线**：Galva 的战斗面全开（盾牌反射、裸胸放鸦、杀俘逻辑「不惩罚只为保护」）；Kinch 在血战与处刑之间显出贼的冷与人的愧（「I doubt it was more merciful」）；Worrig 从「搞笑向导」跌落成尸体——他骗所有人的那些骨堆故事，最后轮到自己躺进山里的骨头堆。
+- **人物弧线**：Galva 的战斗面全开（盾牌反射、裸胸放鸦、杀俘逻辑「不惩罚只为保护」）；Kinch 在血战与处刑之间显出贼的冷与人的愧（「might be more merciful than a throat-cutting」的自我怀疑）；Worrig 从「搞笑向导」跌落成尸体——他骗所有人的那些骨堆故事，最后轮到自己躺进山里的骨头堆。
 - **叙事手法**：战斗段落用声音开场（Rubbhorinkkit 的回声）而非画面；战鸦的出生写成「一次快速而暴力的分娩」；处刑段用生理细节（鼻血、颤抖）代替血腥堆砌；章尾以神具坠链的「一点点向东」把主题钉在倒行的路标上。
 
 ## 精读
@@ -115,7 +115,7 @@ modified: "2026-11-01"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| vulgarity | 粗话；下流词语 | As I collect vulgarities in other languages, I feel fairly confident this was a variation of bastard in Oustrian Gunnish, rubb meaning “arse,” horinkkit meaning “whore-child.” |
+| vulgarities | 粗话；下流词语（复数） | As I collect vulgarities in other languages, I feel fairly confident this was a variation of bastard in Oustrian Gunnish, rubb meaning “arse,” horinkkit meaning “whore-child.” |
 | ambush | 伏击；埋伏 | I guess a dam taking her top off in the middle of an ambush in a snowy pass was new to him. |
 | adulteress | 通奸女（与第 1 章 Othbleddr 呼应） | “Othbleddr?” I said, recalling the word on the sign hanging off that woman, remembering an instant too late that it meant “adulteress.” |
 

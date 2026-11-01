@@ -101,7 +101,7 @@ modified: "2026-11-01"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| crevasse | （冰川/崖间的）裂缝；深谷 | But now Galva and I readied ourselves as best we could for night’s cold and the possibility of visitors. |
+| crevasse | （冰川/崖间的）裂缝；深谷 | Galva was near the other end of the tree, near its dead roots, trying to scramble farther back, because the tree had become a seesaw on a ridge of rock, down in the crevasse. |
 | punk | 引火用的朽木绒；火绒 | “You’ll see or smell that I’ve got a smoldering wick of punk here. And if die we must, as it seems we must without your help, in the name of the Forbidden God, I promise to burn you to fucking ashes.” |
 | castrato | 阉人歌手（高音男声） | Its voice was a dry rasp but tempered with something almost human, a high note like a woman, child, or castrato. |
 
