@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch12",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch12_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "2024年10月9日日记：叙述者进村买杂货并订购燃料；天气转冷、狐狸夜里尖叫，必须为过冬做准备。",
+   "anchor": "Went into the village today. Bought groceries and ordered",
+   "start": 43,
+   "end": 100
+  },
+  {
+   "fact": "他为过冬囤货：罐头、干粮、酒、瓶装水，外加三十袋固体燃料当周内送达，外加食用油、蔬菜和冷冻肉鱼；他觉得像新开始、像一场冒险。",
+   "anchor": "Thirty bags of solid fuel, to be delivered",
+   "start": 352,
+   "end": 394
+  },
+  {
+   "fact": "他把 Kirkhill 想成自己的雪花球——几个月后可能与世隔绝、独自困在其中，唯一的例外是 Caroline。",
+   "anchor": "except, of course, for Caroline",
+   "start": 895,
+   "end": 926
+  },
+  {
+   "fact": "他顺路去 Lyke 的咖啡店，记得先前的胡萝卜蛋糕、两个男人和他们的斗牛犬 Gaston；这次店里冷清无人，门口南瓜与纸骷髅提醒他距万圣节只剩三周。",
+   "anchor": "the two men and their bulldog, Gaston",
+   "start": 1023,
+   "end": 1060
+  },
+  {
+   "fact": "柜台年轻人介绍当地著名徒步路线：从 Scarth Wood Moor 一路到 Ravenscar，共四十英里，夏季徒步客都会走。",
+   "anchor": "Forty miles across Scarth Wood Moor",
+   "start": 1686,
+   "end": 1721
+  },
+  {
+   "fact": "年轻人说这条路线规定二十四小时内走完、很有名；叙述者婉拒再来一块蛋糕，说要赶在天黑前回家。",
+   "anchor": "You’re meant to do it in twenty-four hours",
+   "start": 1752,
+   "end": 1794
+  },
+  {
+   "fact": "收拾采购品时，窗外传来一个女孩的声音说「你不能无视我们，爸爸」；他立刻开门去看，小路上和附近却空无一人，随后闩上门、感到空气中新的静电。",
+   "anchor": "You can’t just ignore us, Dad, said a voice",
+   "start": 2849,
+   "end": 2892
+  },
+  {
+   "fact": "女孩的笑声称呼他为 Arthur（「你真逗，继续这么想吧，Arthur」）；他断定「她把我当成了他」，自己被另一个男人的鬼魂缠上，并把电线塔的声音解释为乱码无线电信号。",
+   "anchor": "Keep telling yourself that, Arthur.",
+   "start": 3476,
+   "end": 3511
+  }
+ ]
+}
