@@ -1,0 +1,207 @@
+{
+  "chapter": "ch25",
+  "text_file": "text/ch25_chapter_25.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "被不安搅了觉、清晨五点惊醒的 Pamela 一边带狗一边对 Dolly 说这主意很蠢——白天得把狗寄放到农场——心里清楚 Miriam 此刻只在一百英里外的伦敦",
+      "anchor": "I’d have to drop you at the farm for the day",
+      "byte_offset": 55,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "她推了推围栏柱测试前夜大风后的牢固度，沿自己铺的砖路慢慢往回走，途中查看 potager 的欧防风和红甘蓝",
+      "anchor": "testing its stability after the previous night’s high winds",
+      "byte_offset": 472,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "厨房里想到 Miriam 八十年代末买下的切尔西住所、此刻可能就在那里，Pamela 舀咖啡的手发抖、茶匙掉在工作台上，下决心必须找到那个地址",
+      "anchor": "She has to find that address.",
+      "byte_offset": 2802,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "她跪在卧室床前（软骨咔响），从床底拖出塞满 Miriam 来信和 Pamela 从未寄出的回信的红色档案盒，开始翻读",
+      "anchor": "the red box file stuffed with Miriam’s mail and Pamela’s replies, never sent",
+      "byte_offset": 2990,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "她重读自己那封未寄出的吊唁回信草稿（葬礼只留至亲、重心在小孙女 Leni），当年自认残酷是为仁慈且果然奏效——此后 Miriam 沉寂数年，只寄来不合时宜的明信片",
+      "anchor": "Cruel to be kind, she’d reasoned at the time. It worked.",
+      "byte_offset": 4171,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "闪回：一个早晨她在楼梯底发现 Jo 在读 'M' 寄来的明信片，过去与现在相撞——少女 Jo 化作少女 Miriam，楼梯变成 Rushwood 园丁小屋那些吱呀作响的楼梯",
+      "anchor": "Teenage Jo was teenage Miriam.",
+      "byte_offset": 4753,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "她在信堆里筛过十年前、十一年、十五年前那封信（Bingo）：Miriam 邀她去伦敦 V&A 咖啡馆吃午饭、承诺独自赴约，她当年没敢回信，整个六月周在既怕 Miriam 突然出现又盼望她来的煎熬中度过",
+      "anchor": "I promise to come alone.",
+      "byte_offset": 6269,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "她把切尔西地址抄到纸片上（不用截屏），旧笔记本一次失败后抢到一张老年当日往返票，翻出几十年来那条 M&S 小黑裙（蛀洞几乎看不出），想赶下一班伦敦火车",
+      "anchor": "plucked from patchy rural Wi-Fi, a senior day return",
+      "byte_offset": 7207,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Pamela–Miriam",
+      "rel": "姐妹；长期冷战：Pamela 多数信不回、嘱其勿打电话，Miriam 信中自述因此一直没打",
+      "evidence": "You’ve asked me not to telephone so I haven’t",
+      "byte_offset": 6349,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela–Tony",
+      "rel": "夫妻，共同守着苗圃几乎无法出游；Tony 曾不经建筑规范加盖厨房",
+      "evidence": "she and Tony couldn’t leave the nursery, they rarely went away",
+      "byte_offset": 5598,
+      "hits": 1
+    },
+    {
+      "pair": "Miriam–Lawrence（'L'）",
+      "rel": "同伴；曼哈顿住所由 downtown 搬到 uptown 再 Upper East Side",
+      "evidence": "she and Lawrence moved from downtown to uptown",
+      "byte_offset": 2421,
+      "hits": 1
+    },
+    {
+      "pair": "Jo–Pamela",
+      "rel": "Jo 少女时偷读 'M' 寄来的明信片；吊唁草稿提及『我女儿的意外』与孙女，但未点名亡女姓名",
+      "evidence": "my daughter’s accident",
+      "byte_offset": 3733,
+      "hits": 1
+    },
+    {
+      "pair": "Leni–Pamela",
+      "rel": "孙女（young granddaughter）；吊唁草稿写『努力庆祝 Leni 的一生』",
+      "evidence": "celebrate Leni’s life",
+      "byte_offset": 4043,
+      "hits": 1
+    },
+    {
+      "pair": "Miriam–Nancy Caswell",
+      "rel": "Miriam 曾引用 Nancy Caswell 的『每个女孩都需要一条小黑裙』名言",
+      "evidence": "quoting Nancy Caswell",
+      "byte_offset": 7587,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela–Dolly",
+      "rel": "主人与牧羊犬（collie）；今日狗将寄放农场",
+      "evidence": "The collie, sensing disruption",
+      "byte_offset": 6868,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela–Ma/Pa",
+      "rel": "记忆中的父母在 Rushwood 园丁小屋（Ma 洗锅、Pa 梯上修剪绿雕）",
+      "evidence": "creaky ones in Rushwood’s gardener’s cottage",
+      "byte_offset": 4804,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "value": "hundred miles",
+      "context": "Miriam 只在一百英里外的伦敦",
+      "anchor": "a hundred miles away in London",
+      "byte_offset": 402,
+      "hits": 1
+    },
+    {
+      "value": "five",
+      "context": "不安让她清晨五点被残酷地惊醒",
+      "anchor": "woke her brutally at five",
+      "byte_offset": 347,
+      "hits": 1
+    },
+    {
+      "value": "seventy",
+      "context": "过了七十岁她就不再说『得装在盒子里抬我出去』的玩笑",
+      "anchor": "once she hit seventy",
+      "byte_offset": 1254,
+      "hits": 1
+    },
+    {
+      "value": "late eighties（其一）",
+      "context": "萨福克房子自八十年代末起未再动过（除厨房扩建）",
+      "anchor": "Untouched since the late eighties",
+      "byte_offset": 1376,
+      "hits": 1
+    },
+    {
+      "value": "late eighties（其二）",
+      "context": "Miriam 八十年代末买下伦敦切尔西住所",
+      "anchor": "the London place Miriam bought in the late eighties",
+      "byte_offset": 2531,
+      "hits": 1
+    },
+    {
+      "value": "millions of pounds",
+      "context": "萨福克房子与 Miriam 各处住宅隔着一个宇宙、数百万英镑",
+      "anchor": "millions of pounds",
+      "byte_offset": 1519,
+      "hits": 1
+    },
+    {
+      "value": "1980s",
+      "context": "她背得出亡友们的 1980 年代座机号码",
+      "anchor": "1980s landline numbers",
+      "byte_offset": 5280,
+      "hits": 1
+    },
+    {
+      "value": "Ten years back, eleven, fifteen",
+      "context": "她按信件年代往回筛：十年、十一年、十五年前",
+      "anchor": "Ten years back, eleven, fifteen. Bingo.",
+      "byte_offset": 5966,
+      "hits": 1
+    },
+    {
+      "value": "end of the month",
+      "context": "Miriam 信中写 L 与她月底前在切尔西（地址见上），之后去南法 Hôtel du Cap-Eden-Roc",
+      "anchor": "until the end of the month",
+      "byte_offset": 6079,
+      "hits": 1
+    },
+    {
+      "value": "June week",
+      "context": "收到邀请信后那个六月周她惊盼交加、陷入煎熬",
+      "anchor": "spent that June week in turmoil",
+      "byte_offset": 6621,
+      "hits": 1
+    },
+    {
+      "value": "One failed attempt",
+      "context": "旧笔记本订票：一次失败后抢到老年当日往返票",
+      "anchor": "One failed attempt",
+      "byte_offset": 7181,
+      "hits": 1
+    },
+    {
+      "value": "Decades later",
+      "context": "小黑裙：Miriam 名言令她当时反感，几十年后才照着去 M&S 买了一条",
+      "anchor": "Decades later Pamela bought one from M&S",
+      "byte_offset": 7634,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Pamela 从床底红盒中翻出并抄下 Miriam 多年前信里的切尔西地址，订下老年当日往返火车票、翻出小黑裙——决意当天就去伦敦找 Miriam。"
+}

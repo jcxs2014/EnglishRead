@@ -1,0 +1,186 @@
+{
+  "chapter": "ch27",
+  "text_file": "text/ch27_chapter_27.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "请柬（Lot 14）写明 Rushwood 晚会：26 July、六点起酒、七点晚餐、午夜散场，着装 black tie 或《仲夏夜之梦》，RSVP Celia Caswell；Nancy 在背面加写字条——'Mummy says come after dinner 9ish. I say – just come!'（请柬由 Nancy 塞进密壤家门缝）。",
+      "anchor": "On the reverse, Nancy Caswell has written, ‘Mummy says come after dinner 9ish. I say – just come!’",
+      "byte_offset": 262,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "宾客抵达、Rushwood 的狗叫了一上午；Pamela 与 Miriam 在草坪捡漏检狗粪时，亮黑色 Daimler（制服司机）载 Margo 到场，Lawrence 冲出房子迎上车，Margo 跳下车直投其怀（奶油色修身裙、淡蓝宽腰带）；Pamela 僵住后转身去墙园找 Mackie，Miriam 留在原地看呆了。",
+      "anchor": "a woman jumped out of the car straight into his arms",
+      "byte_offset": 951,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Whipple 的面包车赶到、与 Margo 打招呼并向 Lawrence 问了一句后，Lawrence 指向 Miriam 方向（他早知道她在场），羞辱热油般浇遍全身；Whipple 唤 'Mimi!' 招她过去（'the longest walk of my life'）；Margo 盘问改名叫 'renamed you Mimi?'，Whipple 回护 'Less gardenery'/'girl with grit from the potting shed'，Margo 嘱她保持 scrappy 精神；Miriam 脸红受伤，自忖 scrappy 疑是 Lawrence 对她的描述——tenacious Jack Russell，而非 Lyme 海滩黄裙美人——不敢看 Lawrence。",
+      "anchor": "a tenacious Jack Russell of a girl",
+      "byte_offset": 2379,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "屋内最后检查：窗户半开、处处闪亮（水果与糖杏仁碗、未点燃的蜡烛、插满 Mackie 花的瓮，'Not a cornflower in sight'），楼上房间像久已入住而非刚完工；Whipple 破例动情夸 'The best assistant I've ever had'，归功于 chandelier disaster 把她带进自己轨道、庆幸听了她姐姐的话；并自曝晚会中途要溜回 Belgravia（天鹅绒晚礼服递名片、新项目周一开工）。",
+      "anchor": "The best assistant I’ve ever had.",
+      "byte_offset": 3965,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Whipple 授派对心法：把自己当演员、派对当片场、'Charm your way in. Smile.'、'Your youth is your ticket'、别让任何人吓住（'They're all imposters of one sort or another'），并贴耳低声叮嘱避开 Harold，直到他照例醉倒脸栽狗碗——'where he belongs' 两字悬在空气里没说出口。",
+      "anchor": "And avoid Harold until, as is inevitable, he drinks so much he passes out face down in a dog bowl.",
+      "byte_offset": 5098,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "厨房攻防：Pa（Ambrose）用食指戳请柬、正戳在自己指端钝红 stump 上，咬定 'This is your doing, Miriam'；斥这家人不配做客——'Businesspeople. Lords and ladies. Casino bigwigs.'，回头看半开的后门压低嗓子补 'Gangsters'；pub 风闻 Harold 圈子 murky、'Doris says the Krays came to the last bash. Polite as pie, they were. But still.'；历数闯祸（一伙人泡池子惹恼 Doris、Nancy 半裸进厨房、Lawrence 爬树挂玻璃灯笼险些摔落）后一拳砸桌喊 'Enough!'，再点名 'I blame you, Miriam'。",
+      "anchor": "Doris says the Krays came to the last bash.",
+      "byte_offset": 8168,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "家务会议定调：Alf 闷答 'Nope'（叉子扎土豆），Pamela 提议装集体食物中毒又怕失礼；Ma（Irene）拍板——Alf 必须去、照顾两个妹妹、借穿 Pa 的 funeral suit（'it'll fit the dress code. No one will know.'），姑娘们翻花裙或她的衣服；父母留家喝雪莉、在后院看烟花。Miriam 咬住秘密的笑，不敢透露 Mary Quant 黑裙——早已叠好藏进床下小皮箱。",
+      "anchor": "I’d hidden it, carefully folded, in the small leather suitcase under my bed.",
+      "byte_offset": 11348,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Pamela 逼问 'You've got your secretive face on, Miriam. Come on. We won't tell.' 后，Miriam 为缓和气氛抛出猛料：'Yesterday, I saw Rafe coming out of Celia's bedroom, zipping up his flies. Honest to God.'；全场 stunned silence，Pa 狂笑到捧腹不能自已，Ma 嘶声 'clear the plates. And your mouth'/'Loose lips sink ships'，起身问 'anyone for rice pudding?'。",
+      "anchor": "‘Yesterday, I saw Rafe coming out of Celia’s bedroom, zipping up his flies. Honest to God.’",
+      "byte_offset": 13534,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Margo ↔ Lawrence",
+      "rel": "如情侣般亲密：下车直投其怀，相拥时她把脸颊贴上他肩头、他抚其后发",
+      "anchor": "she pressed her cheek to his shoulder, and Lawrence cupped the back of her hair",
+      "byte_offset": 1376,
+      "hits": 1
+    },
+    {
+      "pair": "Miriam → Lawrence",
+      "rel": "在意而受挫：被归为 scrappy 园丁女孩后自伤（Jack Russell vs Lyme 黄裙美人），不敢看他",
+      "anchor": "I couldn’t bring myself to look at Lawrence.",
+      "byte_offset": 2554,
+      "hits": 1
+    },
+    {
+      "pair": "Whipple → Miriam",
+      "rel": "伯乐/恩师：改名 Mimi、'I'd never have got it over the line without you'、glad I listened to your sister",
+      "anchor": "I’d never have got it over the line without you",
+      "byte_offset": 3519,
+      "hits": 1
+    },
+    {
+      "pair": "Rafe ↔ Celia",
+      "rel": "私情（Miriam 目击级证据）：Rafe 从 Celia 卧室出来、正拉裤链",
+      "anchor": "I saw Rafe coming out of Celia’s bedroom, zipping up his flies.",
+      "byte_offset": 13548,
+      "hits": 1
+    },
+    {
+      "pair": "Alf ↔ Pamela",
+      "rel": "共守一桩秘密且彼此回避目光：Pamela 从 palm house 奔出、Alf 紧随其后；Alf 整日烦躁、Pamela 防御寡言",
+      "anchor": "Pamela rushing from the palm house, Alf close behind",
+      "byte_offset": 6680,
+      "hits": 1
+    },
+    {
+      "pair": "Nancy → Miriam 一家",
+      "rel": "内应/怂恿者：请柬是 Nancy 塞进门缝，背面加字'我妈妈说 9 点后来——我说，直接来！'",
+      "anchor": "pushed through our door by Nancy",
+      "byte_offset": 6259,
+      "hits": 1
+    },
+    {
+      "pair": "Pa (Ambrose) → Caswells/Harold 圈子",
+      "rel": "戒备与阶层恐惧：怕子女被看低、把那圈子往 gangsters 上想",
+      "anchor": "I won’t have those people looking down on my family, Irene.",
+      "byte_offset": 9539,
+      "hits": 1
+    },
+    {
+      "pair": "Ma (Irene) ↔ Pa",
+      "rel": "调停者：上 piccalilli 安抚、揉肩、握手、拿'明天就都结束了'劝和",
+      "anchor": "Ma spooned pacifying dollops of piccalilli onto his plate.",
+      "byte_offset": 9261,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "item": "请柬拍品编号",
+      "verbatim": "Lot 14",
+      "anchor": "Lot 14: Party invitation",
+      "byte_offset": 23,
+      "hits": 1
+    },
+    {
+      "item": "晚会日期",
+      "verbatim": "26 July",
+      "anchor": "Rushwood, 26 July",
+      "byte_offset": 93,
+      "hits": 1
+    },
+    {
+      "item": "酒水开始",
+      "verbatim": "six o’clock",
+      "anchor": "Drinks from six o’clock, dinner at seven, carriages at midnight",
+      "byte_offset": 113,
+      "hits": 1
+    },
+    {
+      "item": "晚餐时间",
+      "verbatim": "seven",
+      "anchor": "Drinks from six o’clock, dinner at seven, carriages at midnight",
+      "byte_offset": 113,
+      "hits": 1
+    },
+    {
+      "item": "散场时间（carriages at）",
+      "verbatim": "midnight",
+      "anchor": "Drinks from six o’clock, dinner at seven, carriages at midnight",
+      "byte_offset": 113,
+      "hits": 1
+    },
+    {
+      "item": "Nancy 字条：晚饭后来",
+      "verbatim": "9ish",
+      "anchor": "come after dinner 9ish",
+      "byte_offset": 319,
+      "hits": 1
+    },
+    {
+      "item": "Whipple 新项目开工",
+      "verbatim": "Monday",
+      "anchor": "New project starts Monday",
+      "byte_offset": 4584,
+      "hits": 1
+    },
+    {
+      "item": "Mackie 赌风暴到时（marquee 恐被掀走）",
+      "verbatim": "midnight",
+      "anchor": "the storm hitting by midnight",
+      "byte_offset": 12913,
+      "hits": 1
+    },
+    {
+      "item": "Miriam 目击 Rafe 的时间",
+      "verbatim": "Yesterday",
+      "anchor": "Yesterday, I saw Rafe",
+      "byte_offset": 13537,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Miriam 违背 Whipple '行事谨慎' 的叮嘱，当众抛出目击——Rafe 从 Celia 卧室出来正拉裤链——把 Caswell 家的私情首次摊上密壤家饭桌，Pa 狂笑、Ma 嘶声封口。"
+}

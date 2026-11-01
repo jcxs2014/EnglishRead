@@ -1,0 +1,115 @@
+{
+  "chapter": "ch26",
+  "text_file": "text/ch26_chapter_26.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "拍卖注记 Lot 13：Mary Quant 黑色直筒连衣裙，约 1968 年，带圆彼得潘领、袖口与奶油色钩编新月口袋，8 号，由 Nancy Caswell 购自 Mary Quant 国王路门店。",
+      "anchor": "Lot 13: Black shift dress by Mary Quant, circa 1968.",
+      "byte_offset": 23,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Nancy 光脚冲出卧室喊 Miriam 进房帮她解卡住的拉链；解开后她抱怨这条裙是去年分手后买的，回到 Rushwood 后不停吃、如今紧得喘不过气，明晚派对不穿它了，最后 rough 地把裙褪下、Miriam 帮她挂到天鹅绒衬垫衣架上。",
+      "anchor": "twisting to yank at the jammed zip of her dress",
+      "byte_offset": 314,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Nancy 一件件试装后选定一条龙胆蓝丝质紧身裙（脱了鞋赤脚跳舞母亲也不会察觉），并坚持 Miriam 不许以帮佣身份到场——『Forget Whipple. I'm pulling rank here』——要以她宾客的身份出席、承诺搞到请柬，理由是乡村派对需要年轻漂亮的人点缀。",
+      "anchor": "You must come as a guest. My guest.",
+      "byte_offset": 3716,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Nancy 通报派对名单：Whipple 会到场『拉新客户』且 Miriam 正是他本周的红人（flavour of the week）；她弟弟也要 Miriam 全体到场，其女友 Margo 已为 Rushwood 放弃罗马之行——瑞士精修学校刚毕业、家境好、父亲在上议院、Mummy 极中意她；Miriam 胃部一沉、心一沉，觉得自己对弟弟的暗恋更荒谬了，宁可回到 Lyme Regis 他提议裸泳的那一刻。",
+      "anchor": "My brother wants you all to come too.",
+      "byte_offset": 4425,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Miriam 开窗远望：白色大 marquee 大如马戏帐篷、橘园玻璃顶、泳池（他们曾在此『sort of frenzy』地游过泳）；近处 Pamela 从棕榈屋玻璃门冲出，Alf 从苗床直身把叉子插进土里似乎喊她回来，Pamela 低头继续走，Doris 从棕榈屋另一侧出现与 Alf 短暂交谈后，Alf 跑去追 Pamela；Miriam 为自己在楼上陪 Nancy 玩乐而愧疚。",
+      "anchor": "Pamela shot out of its glass door.",
+      "byte_offset": 6360,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "倒叙当日清晨：距派对不足二十四小时，全家四点半起床散入 Rushwood 赶工（红色黎明、河雾、水獭一家）；七点 Miriam 母亲端上吐司和熏鲱鱼，Pa 举杯说『We did it』，逐一向 Ma、Alf、Pamela 致谢，唯独跳过 Miriam，Ma 在桌下握住她的手。",
+      "anchor": "thanking them in quick succession, skipping over me",
+      "byte_offset": 7656,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Nancy 让 Miriam 试穿 Quant 裙并替她拉上拉链（『It was made for you』）、递上河泳那天见过的白色 Biba 墨镜，夸她『You look better wearing no clothes』『Sexy Miriam』、比『Bramley 美人』Pamela 更 compelling 且会随年龄越长越好；随后把裙子和墨镜都送她——『Every girl needs a little black dress』『Dress for the life you want, not the one you have』——Miriam 拥抱她收下，自觉第一次拥有了一切：请柬、小黑裙、墨镜、以及『我可能迷人甚至性感』的醒悟。",
+      "anchor": "Dress for the life you want, not the one you have.",
+      "byte_offset": 10130,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "Miriam 兴奋离房、刚关上 Nancy 的门，走廊更远处的 Celia Caswell 私人套房门开了；她僵住、挂起微笑、自认来不及下楼逃走，一时害怕出来的是 Harold——出来的却是喘着气、衣衫凌乱、正往上拉牛仔裤拉链的 Rafe；他吓一跳，合掌假意祈祷般低声恳求『Don't tell』『我会永远欠你』；Miriam 震惊地抱着小黑裙匆匆下楼，Rafe 慌张地跟在几步之后。",
+      "anchor": "Instead, Rafe, breathless, dishevelled, zipping his jeans.",
+      "byte_offset": 10817,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "a": "Nancy Caswell",
+      "b": "Lawrence",
+      "rel": "姐弟（推定）：Nancy 说『My brother wants you all to come too』，紧接着称 Margo 为『his gal』且『Perfect for Lawrence』，弟弟被称『Golden Boy』"
+    },
+    {
+      "a": "Celia Caswell",
+      "b": "Nancy / Lawrence",
+      "rel": "母亲：Nancy 谈 Margo 时说『Mummy adores her. Or, at least, the idea of her』且 Celia 是派对完工标准（Celia-ready）、拥有私人套房"
+    },
+    {
+      "a": "Margo",
+      "b": "Lawrence",
+      "rel": "被安排的女友（his gal）：Nancy 敲着无名指说『She'll get it too』——为 Rushwood 放弃罗马、父亲是上议院议员、Celia/Mummy 中意她做 Golden Boy 的配偶"
+    },
+    {
+      "a": "Whipple",
+      "b": "Miriam",
+      "rel": "主事者/雇主：Miriam 想借忙避开他（Forget Whipple），他赴派对『trawling for new clients』且视 Miriam 为本周红人"
+    },
+    {
+      "a": "Rafe",
+      "b": "Celia Caswell",
+      "rel": "章末悬念：Rafe 从 Celia 私人套房衣衫不整溜出并恳求 Miriam『Don't tell』——具体关系本章不明；另据 Nancy，Rafe 惯于不请自来地闯会（crashing everything），『not his guitar-playing』"
+    },
+    {
+      "a": "Harold",
+      "b": "Celia Caswell",
+      "rel": "Miriam 见套房门开时『felt a flash of fear, realizing it might be Harold』——Harold 是她畏惧撞见的人物，与 Celia 的确切关系本章未明说"
+    },
+    {
+      "a": "Bramley 一家",
+      "b": "Rushwood / Caswell 家",
+      "rel": "帮佣赶工方：Miriam（Miriam Bramley）、Ma、Pa、Alf、Pamela（『the Bramley beauty』）住小屋、清晨四点半分散赶工；Doris 备有给 Miriam 和她妹妹的帮佣服；Mackie 在厨房园采草莓"
+    },
+    {
+      "a": "Nessie",
+      "b": "Nancy",
+      "rel": "宠物：Nessie 是纽芬兰犬，卧在 Nancy 皱床上被当枕头"
+    }
+  ],
+  "numbers_dates": [
+    "Lot 13",
+    "circa 1968",
+    "Size 8",
+    "less than twenty-four hours（距派对宾客举杯）",
+    "four thirty（当日全家起床时刻）",
+    "seven a.m.（吐司和熏鲱鱼早餐）",
+    "last year（Nancy 分手后购裙）",
+    "every twenty minutes（Miriam 假设若拥有这些裙每二十分钟换一次）"
+  ],
+  "turning_point": "Nancy 刚以宾客身份相邀并赠出 Quant 小黑裙与 Biba 墨镜，Miriam 离房即撞见 Rafe 从 Celia Caswell 私人套房衣衫不整溜出、低声恳求『Don't tell』——章末悬念抛出。"
+}
