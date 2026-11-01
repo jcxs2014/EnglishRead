@@ -50,7 +50,7 @@ modified: "2026-11-01"
 **为什么这样写**：旗的揭晓分两拍（血→头）——死人脸的盲（呼应 Pulhu 的盲）让两个受害者在此刻同框：一个杀了她的、一个被她钉过泪的。
 **读者视角提示**：记住「无声责骂的头颅」——这座宫殿最后的权力图腾；Ponira 的称呼课在她死后被反向复读。
 
-> **原句 5:** "And you won’t believe this if you’ve never lived in a place where the powerful are quite powerful and the weak have less than nothing, but the little mob did in fact back away from Pulhu. The two slaves who’d been sawing at his chains dropped their tool looking as shame-faced as children caught trying to open the sheepcote just for mischief."
+> **原句 6:** "And you won’t believe this if you’ve never lived in a place where the powerful are quite powerful and the weak have less than nothing, but the little mob did in fact back away from Pulhu. The two slaves who’d been sawing at his chains dropped their tool looking as shame-faced as children caught trying to open the sheepcote just for mischief."
 
 **中文理解**：你要是没在「强者相当强、弱者一无所有」的地方生活过，你不会信——那小群暴民居然真的从 Pulhu 面前退开了。锯他脚链的两个奴隶丢下工具，一脸羞愧，像恶作剧时被逮住、正打算撬开羊圈闹着玩的孩子。
 **关键词**：the powerful are quite powerful / the weak have less than nothing / back away from Pulhu / shame-faced as children
