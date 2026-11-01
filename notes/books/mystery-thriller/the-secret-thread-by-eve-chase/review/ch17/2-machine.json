@@ -1,0 +1,320 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch17 mimi.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch17_chapter_17.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Black-and-white photographic portrait of Ambrose and Irene Bramley (née Mott) in the head gardener’s cottage kitchen. Sh",
+          "ok": true,
+          "pos": 64
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "‘Celia Caswell is no Lady Mellors,’ he thundered on. ‘No second chances. We’re expendable",
+          "ok": true,
+          "pos": 1518
+        },
+        {
+          "text": "His tone grew sombre, a flicker of fear in his eyes that was almost pitiful. ‘Head-gardener posts are vanishing all the ",
+          "ok": true,
+          "pos": 1792
+        }
+      ],
+      "words": 67
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘For Pete’s sake. We are gardeners.’ Pa thumped his fist on the table, startling us all. ‘The Bramleys have always been ",
+          "ok": true,
+          "pos": 2666
+        },
+        {
+          "text": "‘Young women like you don’t get to choose, Miriam.’",
+          "ok": true,
+          "pos": 2931
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘But",
+          "ok": true,
+          "pos": 818
+        },
+        {
+          "text": "’ she paused, wiping her soapy hands on her apron, ‘",
+          "ok": true,
+          "pos": 3383
+        },
+        {
+          "text": "wouldn’t it cause a right kerfuffle if she let down Whipple now? Celia will hear of it and, well",
+          "ok": true,
+          "pos": 3434
+        },
+        {
+          "text": "’ She shook her head slightly, and I realized what she was doing, how deftly she managed hot-headed Pa. ‘I can only imag",
+          "ok": true,
+          "pos": 3532
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Smelling a conspiracy, Pa narrowed his eyes at each of us in turn. The air crackled. ‘Nope.’ He wiped beer foam off his ",
+          "ok": true,
+          "pos": 3856
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Evening, campers.’ Nancy. Smiling breezily, wearing a white bikini, heavy-duty khaki camera bag slung over a bare shoul",
+          "ok": true,
+          "pos": 4113
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘Blimey.’ My father stared, transfixed. The mood loosened. He looked up at Nancy with a bearish grin. ‘Some sort of magi",
+          "ok": true,
+          "pos": 8205
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Pa opened his mouth to protest. Ma bent and kissed his cheek. But when our gazes met, I could see she was troubled, sens",
+          "ok": true,
+          "pos": 8688
+        }
+      ],
+      "words": 55
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 14,
+        "为什么这样写": 95,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.52,
+        "关键词": 0.26,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 20,
+        "为什么这样写": 70,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.32,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 20,
+        "为什么这样写": 80,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.28,
+        "为什么这样写": 0.58,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 24,
+        "为什么这样写": 73,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.4,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 24,
+        "为什么这样写": 62,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.41,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 19,
+        "为什么这样写": 79,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.34,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 27,
+        "为什么这样写": 76,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.44,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 21,
+        "为什么这样写": 99,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.29,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.63
+      }
+    }
+  ],
+  "form": {
+    "h1": "17. Mimi",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1637,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

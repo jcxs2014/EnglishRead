@@ -1,0 +1,193 @@
+{
+  "chapter": "ch17",
+  "text_file": "text/ch17_chapter_17.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "本章以拍卖图录条目开场（框架叙事）：Lot 7《Mating for Life》，Nancy Caswell 作，1969年7月——Ambrose 与 Irene Bramley（née Mott）在 head gardener’s cottage 厨房拍摄的黑白合影，35mm 胶片、由 Nancy 在 Rushwood 酒窖的临时暗房冲洗，系列之一、背面签名并标题。",
+      "anchor": "Black-and-white photographic portrait of Ambrose and Irene Bramley (née Mott) in the head gardener’s cottage kitchen",
+      "byte_offset": 82,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Pa 把玻璃杯狠摔在桌上（啤酒沫漫出杯沿），痛斥 Miriam 去给 Whipple 打帮手是‘愚蠢、自私的分心’——讥她想‘scamper after that poncy bloke in a cravat’、去‘Plump Lady Muck’s pillows’；Miriam 自觉生错了家庭、生错了人生，决意不被父亲击垮。",
+      "anchor": "Pa slammed down his glass so hard on the table the beer’s foamy froth slid over the rim",
+      "byte_offset": 392,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Pa 拍桌宣告‘The Bramleys have always been gardeners’‘the soil’s in your veins too’，并断言‘Young women like you don’t get to choose, Miriam.’；Miriam 斗胆反问 Why not me?；Pa 喝令 Irene 劝女儿，Irene 慢慢表态同意 Pa，Miriam 心气一沉。",
+      "anchor": "Young women like you don’t get to choose, Miriam.",
+      "byte_offset": 3159,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Irene 擦干手转身支招：现在放 Whipple 鸽子会掀起‘right kerfuffle’——Celia 正为派对焦头烂额——Miriam 当场看穿母亲在巧妙驾驭火爆的 Pa；Alf 壮胆说‘Ma has a point’，Pamela 提议 Miriam 兼两份工；Pa 眯眼嗅出‘合谋’，仍回‘Nope… No good will come of it’。",
+      "anchor": "She shook her head slightly, and I realized what she was doing, how deftly she managed hot-headed Pa.",
+      "byte_offset": 3836,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "厨房门被敲响：Nancy 穿白色比基尼、挎着露出黑胶片罐的卡其相机包登场（‘Evening, campers’），以‘快中暑、光线完美’为名要‘认领’ Miriam、Alf、Pamela 去泳池日落游泳；Pa 以‘They’re working this evening’拦阻，全场僵在两人之间；Nancy 借‘庆祝 Miriam 的新工作’‘You must be very proud, Mr B’拆招，Pa 低声顶回‘Miriam’s already got a job’，Ma 走到他身后轻按双肩——既安抚又警告。",
+      "anchor": "wearing a white bikini, heavy-duty khaki camera bag slung over a bare shoulder",
+      "byte_offset": 4530,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "Nancy 好奇打量黄墙（‘like old Cheddar left out on the cheeseboard too long’）与宠物鸡，掏出银黑相机绕屋连拍——偏爱裙板上老鼠的锈色血渍与天花板潮斑，‘不要求任何人微笑’；随后一把拽走 Alf（‘Come on, handsome’），又补一句‘姐妹也去’。",
+      "anchor": "The rat’s rusty bloodstain on the skirting board delighted her.",
+      "byte_offset": 5948,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Nancy 举起盒式 Polaroid 对准父母，边拍边游说：Whipple 是‘the best in the biz. Knows everything. Everybody.’、她母亲请他来这‘backwater’还被翻了倍价钱（‘doubled his rate’）、‘Safe in taxis too’，又低语‘Not one for the ladies’——Pa 顿时脸色发白（同性恋合法才两年、他的观念至少落后十年）；她把冲出的‘你与美丽的 Mrs B’照片送给 Pa，Pa 从呆滞到熊式大笑‘Some sort of magic, eh?’；Nancy 朝 Miriam 投去得胜一笑，趁 Pa 心情松动带三兄妹去泳池。",
+      "anchor": "extracting a boxy Polaroid camera, then levelling it at my parents.",
+      "byte_offset": 7295,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "临行 Ma 以‘quiet, steely courage’叮嘱：‘明早要上新班就别玩到太晚，Mim’；Pa 张口欲抗议，Ma 俯身吻他脸颊堵了回去；母女对视中 Miriam 看出 Ma 心怀不安——预感‘our summer setting fast, like the Polaroid on the table’；烤箱里布丁烧焦、冒出一缕黑烟——‘the first hint of fire’。",
+      "anchor": "the scorching smell of the pudding burning, a wisp of black smoke, the first hint of fire.",
+      "byte_offset": 9624,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Miriam ↔ Pa（Mr B＝Ambrose Bramley，图录点名）",
+      "relation": "父女正面冲突：Pa 信仰园丁世家、待人‘非友即敌’，把 Miriam 帮 Whipple 视为对其阶级与 Ambrose 式家长世界的背叛，断言‘你有一天会感谢我’；Miriam 坚拒就范。",
+      "anchor": "With Pa, you were either with him or against him, no middle ground.",
+      "byte_offset": 1542,
+      "hits": 1
+    },
+    {
+      "pair": "Miriam ↔ Irene（Mrs B，née Mott）",
+      "relation": "母女：Irene 先表态站队丈夫，随即巧计斡旋放行；临别叮嘱之余与 Miriam 对视——Miriam 看出母亲不安，预感这个夏天正在飞速‘定格’。",
+      "anchor": "sensing our summer setting fast, like the Polaroid on the table",
+      "byte_offset": 9540,
+      "hits": 1
+    },
+    {
+      "pair": "Miriam ↔ Alf、Pamela（手足）",
+      "relation": "兄妹同盟：Alf 壮胆称‘Ma has a point’，Pamela 提议‘Miriam 兼两份工’替她缓颊。",
+      "anchor": "Miriam will just have to do two jobs, won’t she?",
+      "byte_offset": 4125,
+      "hits": 1
+    },
+    {
+      "pair": "Nancy ↔ Celia Caswell（母女）",
+      "relation": "Nancy 替 Mother 撑场面：请 Whipple 来是她的‘coup’（还接受他翻倍价钱）；又透露‘Frank the wrecking ball’出局后 Mother ‘happy, well, calmer at least. And nothing to do with Quaaludes!’——真假难辨。",
+      "anchor": "knowing Frank the wrecking ball is out of the picture",
+      "byte_offset": 8153,
+      "hits": 1
+    },
+    {
+      "pair": "Nancy ↔ Pa（‘Mr B’）",
+      "relation": "由对峙到收服：一张 Polaroid 让 Pa 转怒为喜，Nancy 把照片相赠、许诺‘35mm 冲出好片子也归你’，并趁热打铁带走三兄妹。",
+      "anchor": "You keep it, Mr B.",
+      "byte_offset": 9034,
+      "hits": 1
+    },
+    {
+      "pair": "Whipple ↔ Miriam / Caswell 家",
+      "relation": "Miriam 的机会是为 Whipple 打下手；Nancy 称他‘the best in the biz’、‘not one for the ladies’（Pa 闻之变色）；Pa 则贬为‘poncy bloke in a cravat’。",
+      "anchor": "Whipple’s the best in the biz. Knows everything. Everybody.",
+      "byte_offset": 7464,
+      "hits": 1
+    },
+    {
+      "pair": "Rafe ↔ Lawrence / Nancy",
+      "relation": "Lawrence 的大学朋友 Rafe 已抵达——‘去年被 Oxford sent down（勒令退学）’；Nancy 评他‘Very naughty. Lots of fun.’但‘像烈伏特加需要掺水’，Pamela 闻之色变。",
+      "anchor": "like strong vodka, needs diluting",
+      "byte_offset": 6515,
+      "hits": 1
+    },
+    {
+      "pair": "Harold ↔ Feathers 酒馆流言",
+      "relation": "Pa 提到 Harold：‘No one has a good word to say down the Feathers.’，不知何故、只盼‘晚点知道’——伏笔式不安。",
+      "anchor": "No one has a good word to say down the Feathers.",
+      "byte_offset": 1762,
+      "hits": 1
+    },
+    {
+      "pair": "Celia Caswell ↔ Pa（雇佣关系）",
+      "relation": "Pa 视 Celia 为不留情面的雇主：‘She’ll sack me over a bit of black spot’、‘no second chances’、‘We’re expendable’，还讽她‘Celia Caswell is no Lady Mellors’。",
+      "anchor": "She’ll sack me over a bit of black spot.",
+      "byte_offset": 1711,
+      "hits": 1
+    },
+    {
+      "pair": "Doris ↔ 主宅",
+      "relation": "Nancy 顺口透露主宅规矩：‘Doris won’t allow it in the main house’（身份未明、却连乱糟糟都不许有）。",
+      "anchor": "Doris won’t allow it in the main house.",
+      "byte_offset": 5632,
+      "hits": 1
+    },
+    {
+      "pair": "图录点名（Lot 7 框架）",
+      "relation": "Nancy Caswell 1969年7月作品《Mating for Life》即 Ambrose 与 Irene Bramley（née Mott）在 head gardener’s cottage 厨房的黑白照——正是本章厨房里的 Pa 与 Ma；Nancy 在 Rushwood 酒窖暗房冲洗、系列之一、背面签名标题。",
+      "anchor": "Lot 7: ‘Mating for Life’ by Nancy Caswell, July 1969.",
+      "byte_offset": 22,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "value": "Lot 7",
+      "context": "拍卖图录拍品编号",
+      "anchor": "Lot 7",
+      "byte_offset": 22,
+      "hits": 1
+    },
+    {
+      "value": "July 1969",
+      "context": "《Mating for Life》落款年月",
+      "anchor": "July 1969",
+      "byte_offset": 69,
+      "hits": 1
+    },
+    {
+      "value": "35mm film",
+      "context": "两处：图录‘Shot on 35mm film’与 Nancy‘I’ll develop my 35mm film’（第二处 byte_offset=9075）",
+      "anchor": "35mm film",
+      "byte_offset": 211,
+      "hits": 2
+    },
+    {
+      "value": "two years",
+      "context": "同性恋合法仅两年（‘Homosexuality had only been legal two years’）",
+      "anchor": "only been legal two years",
+      "byte_offset": 7960,
+      "hits": 1
+    },
+    {
+      "value": "a decade",
+      "context": "Pa 的观念至少落后十年（‘Pa’s sensibility was at least a decade behind’）",
+      "anchor": "at least a decade behind",
+      "byte_offset": 8014,
+      "hits": 1
+    },
+    {
+      "value": "two jobs",
+      "context": "Pamela 提议 Miriam 兼两份工（‘Miriam will just have to do two jobs’）",
+      "anchor": "do two jobs",
+      "byte_offset": 4150,
+      "hits": 1
+    },
+    {
+      "value": "doubled his rate",
+      "context": "Whipple 收费翻倍（‘Even if he has doubled his rate’）",
+      "anchor": "doubled his rate",
+      "byte_offset": 7664,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Nancy 端着 Polaroid 闯入，以相赠照片和‘庆祝 Miriam 新工作’瓦解 Pa 的否决、带走三兄妹——家庭‘共同阵线’被撕开第一道口子；结尾布丁烧焦的一缕黑烟（‘the first hint of fire’）按下不祥伏笔。"
+}

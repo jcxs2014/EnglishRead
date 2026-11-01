@@ -1,0 +1,140 @@
+{
+  "chapter": "ch16",
+  "text_file": "text/ch16_chapter_16.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "阿尔夫从酒神巴克斯雕像后跳出来报信：装饰师的新枝形吊灯在车道上摔碎了（“砰！完了”）；帕梅拉救场落空，悻悻回到花境继续替塞利娅挖荨麻，免得宾客赏水景时被蜇。",
+      "anchor": "The decorator’s new chandelier smashed on the drive. Bam! Goner.",
+      "byte_offset": 1004,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "醉酒、手臂割伤的助手弗兰克遭塞利娅当场开除（“你的助手醉得像猴子……显然他不能干了”），他撕下黑围裙扔在砾石上，拖着一路血点踉跄辞工而去。",
+      "anchor": "He tore off his black apron, threw it onto the gravel, and wove down the drive, trailing spots of blood.",
+      "byte_offset": 5703,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "哈罗德用布洛克鞋尖碰了碰玻璃残骸，说他得卖“一大堆糖块”才赔得起，随后咕哝着回屋，塞利娅怒目相送。",
+      "anchor": "A hell of a lot of sugar lumps I’ll need to sell to pay for that, Whipple",
+      "byte_offset": 4108,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "米米开口问“要不要把它抬回推车”，随即与惠普尔等人大汗淋漓、来回踉跄地合力把碎玻璃、金属和线缆搬上推车，垫好马鬃毯。",
+      "anchor": "we finally got the mess of broken glass, metal and wire onto the trolley",
+      "byte_offset": 6163,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "帕梅拉弯腰摆正一枚垂坠水晶时，米米看见劳伦斯的目光扑向她敞开的领口与丰满胸部；她顿悟姐姐永远比自己更迷人——这认知突然而残酷，却也奇异地解放了她：不能靠长相，要另辟一条路。",
+      "anchor": "My sister would always be more desirable than me, no matter what. The realization was sudden and brutal.",
+      "byte_offset": 6443,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "米米抓住一闪而过的机会，脱口而出“我可以当你的助手”；惠普尔误称她“帕梅拉”，她纠正：“我是米里亚姆，不是帕梅拉，我什么都能当。”",
+      "anchor": "I’m Miriam, not Pamela, and I can be anything.",
+      "byte_offset": 7720,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "帕梅拉当众替妹妹背书（一眼看出花境成败、痴迷挪动家具、十七岁考过驾照、夜里开过装马粪的货车横穿北安普顿郡），惠普尔让步录用：钱少活重、“后天早上八点整，车旁见”。",
+      "anchor": "I’ll see you here by the van, day after tomorrow, eight a.m. sharp.",
+      "byte_offset": 10127,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "纳西俯身从草地上拾起一枚完好无损的梨形水晶坠，抛来喊“接住，装饰师助手”；米米跃起，那颗古董水晶拍进她伸出的手心。",
+      "anchor": "The pear-sized antique crystal slapped into my outstretched hand.",
+      "byte_offset": 10874,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "relation": "叙事者米里亚姆（米米）与帕梅拉是姐妹，米米为妹；本章帕梅拉一反常态当众称“我妹妹眼力极好”。",
+      "anchor": "My sister has an excellent eye.",
+      "byte_offset": 8259,
+      "hits": 1
+    },
+    {
+      "relation": "劳伦斯称塞利娅为母亲（Mother），劝她“派对可以再弄一盏”。",
+      "anchor": "Mother, we can get another for the party",
+      "byte_offset": 3690,
+      "hits": 1
+    },
+    {
+      "relation": "纳西对米米说“我父母是不是讨厌透了”，所指即塞利娅与哈罗德。"
+      ,
+      "anchor": "And aren’t my parents just ghastly?",
+      "byte_offset": 4408,
+      "hits": 1
+    },
+    {
+      "relation": "弗兰克是装饰师惠普尔的助手（负责从货车上推运吊灯）。",
+      "anchor": "by Whipple’s assistant. Frank, is it?",
+      "byte_offset": 1953,
+      "hits": 1
+    },
+    {
+      "relation": "前情：米米曾独自与劳伦斯夜泳、摸黑归来；帕梅拉知情却没有告诉父亲，此后一直怏怏、对米米侧目。",
+      "anchor": "swimming alone with Lawrence and arriving back in the dark",
+      "byte_offset": 2479,
+      "hits": 1
+    },
+    {
+      "relation": "纳西唤劳伦斯昵称“Loz”并伸手要烟，两家子女相熟而随便。",
+      "anchor": "Give me a cig, Loz.",
+      "byte_offset": 9775,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "item": "Lot 6；circa 1850；15 x 12 cm——拍品目录：法国枝形吊灯水滴坠，原属 Rushwood 大厅吊灯，米米称之为“我的幸运机会”（My Lucky Break）。",
+      "anchor": "Lot 6: Chandelier droplet, French, circa 1850. Pear-drop cut crystal. 15 x 12 cm.",
+      "byte_offset": 22,
+      "hits": 1
+    },
+    {
+      "item": "a pint or two——弗兰克被疑早餐灌下一两品脱，醉酒肇事。",
+      "anchor": "looks like he sank a pint or two at breakfast",
+      "byte_offset": 2021,
+      "hits": 1
+    },
+    {
+      "item": "two weeks before the party——距派对两周，惠普尔又失去一名助手。",
+      "anchor": "losing an assistant two weeks before the party too",
+      "byte_offset": 6911,
+      "hits": 1
+    },
+    {
+      "item": "two years ago, just seventeen——米米两年前、刚十七岁通过驾驶考试。",
+      "anchor": "Miriam passed her test two years ago, just seventeen.",
+      "byte_offset": 9029,
+      "hits": 1
+    },
+    {
+      "item": "day after tomorrow, eight a.m. sharp——录用条款：后天早上八点整，车旁报到。",
+      "anchor": "I’ll see you here by the van, day after tomorrow, eight a.m. sharp.",
+      "byte_offset": 10127,
+      "hits": 1
+    },
+    {
+      "item": "barely ten minutes——前情夜泳摸黑归来，与父母到家只差不到十分钟。",
+      "anchor": "barely ten minutes before our parents returned",
+      "byte_offset": 2539,
+      "hits": 1
+    }
+  ],
+  "turning_point": "帕梅拉当众背书扭转了惠普尔的拒绝，米米获聘为装饰师助手（后天早八点车旁报到）；接住纳西抛来的水晶坠时她明白——“这不是运气，是我姐姐”，人生就此转向。"
+}

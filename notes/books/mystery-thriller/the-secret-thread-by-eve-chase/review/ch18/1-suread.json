@@ -1,0 +1,166 @@
+{
+  "chapter": "ch18",
+  "text_file": "text/ch18_chapter_18.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "章节以拍卖图录开场：Lot 8《Amphitrite》为纸本墨水 A4 画作，背面签名、纪年并题字 'MB, July 69'；画的是嫁与 Poseidon 的海中仙女兼女神，发饰贝壳、立于两棵拱形棕榈下，灵感源自 Rushwood（Wiltshire）的一尊雕像；Notes 补记该画后来挂在 Mimi 的 Nantucket 海滩别墅，登过 American Vogue 与 World of Interiors，并引发她对神话女性新古典胸像的经年收藏（现注定入公共博物馆）",
+      "anchor": "Ink on card. A4. Signed, dated and inscribed on the reverse ‘MB, July 69’.",
+      "byte_offset": 42,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "泳池初见：Lawrence 未露面时，Nancy 坐在 Rafe 打盹的藤躺椅一角（他四肢摊开、吉他松挂在腿上、牛仔帽压低）向园丁家孩子们介绍 Rafe Saint-Clare——派对早到数周或迟到数月、喝干酒窖、总缺钱、在乐队，她给他起绰号 'the Walking Id'；Rafe 醒来用一根手指扶起帽檐，露出狼一样的笑，说只有一部分属实",
+      "anchor": "He’ll drink the wine cellar dry. Always skint. In a band. I call him the Walking Id.",
+      "byte_offset": 1066,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Lawrence 从橘园走出宣布'关键补给在路上'，目光与'我'只中性相接一瞬，仿佛已忘掉河中同泳的魔力（'我'疑心是想象）；他让大家看暮空里的雀鹰，Alf 纠正那是体型更大、更占主导的雌鸟，鹰盘旋后扎进树丛；此前园丁家孩子只在日出时进这片区域剪残花、给橘园的盆浇水",
+      "anchor": "His gaze met mine only for a moment, neutrally, as if he’d already forgotten the magic of our river swim.",
+      "byte_offset": 3024,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Rafe 用伦敦腔小调调侃 Lawrence 的'London girl'（唱 Upstairs, downstairs and half dressed），Lawrence 把毛巾扣到他头上；确认 Lawrence Caswell——健壮、聪明、有钱——有女友的消息，对'我'仍如一记重拳",
+      "anchor": "A girlfriend. Of course Lawrence Caswell – athletic, clever, wealthy – had a girlfriend.",
+      "byte_offset": 4338,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Nancy 揭晓：Miriam 是 Whipple 的新室内助理，明天起上班（'Fun, fun'）；Rafe 挑眉警告这是'进弥诺陶洛斯的巢穴'，说不如继续守着玫瑰",
+      "anchor": "She’s Whipple’s new assistant. Yes, really.",
+      "byte_offset": 5133,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "管家 Doris 端着摆满鸡尾酒杯、苏打枪、水罐、柠檬片与银冰桶的托盘赶来，纽芬兰犬跟随；她先对 Lawrence 温暖微笑，看见园丁家孩子便脸色一沉——她曾警告我们别游泳、别闯 Caswell 地盘——还挥手赶开想帮忙卸托盘的'我'",
+      "anchor": "she’d warned us against swimming or encroaching on Caswell territory.",
+      "byte_offset": 6086,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "落水闹剧：一声尖叫——Rafe 把 Pamela 推进泳池后跪在池边合掌告罪 'Forgive me. I couldn’t resist it, sorry!'，Alf 铁青着脸按住他肩膀把他粗鲁推下水，Nancy 欢叫，Lawrence 干净入水游到 Pamela 身边，Alf 抱膝砸向两人，巨犬随之入水，Nancy 蹲下连按快门",
+      "anchor": "Alf, face like thunder, slapped a hand onto Rafe’s shoulder, then shoved him roughly into the water.",
+      "byte_offset": 6446,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "结尾钩子：'我'被女友之事绊住、独留池边不敢下水，Doris 焦躁地挨近；两人同时瞥见一楼卧室窗边穿紫红色晨袍的 Celia 抱臂观望；Doris 刚低语 'Miriam … A word of …' 便被打断——Rafe 抓住'我'的脚踝把一切拽进水里，池中四肢翻腾、狂笑不止",
+      "anchor": "Celia in a fuchsia-pink robe at a first-floor bedroom window, arms crossed, watching the antics.",
+      "byte_offset": 7093,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Rafe Saint-Clare ↔ Lawrence Caswell",
+      "relation": "Rafe 是 Lawrence（被唤 'Loz'、'lord of the manor'）的密友，正躺在 Lawrence 的藤躺椅上打盹；两人以掷毛巾打闹，Rafe 还问'这是什么现代社会实验'",
+      "anchor": "Lawrence’s unlikely friend dozed",
+      "byte_offset": 712,
+      "hits": 1
+    },
+    {
+      "pair": "泳池深端雕像 ↔ Lot 8 画作",
+      "relation": "Lot 8 灵感源自 Rushwood 的一尊雕像；正文里'我'最爱的 Rushwood 雕像正是守护泳池深端的 Amphitrite 海神像（披袍、发间刻有贝壳与小海马）——画作与场景同源",
+      "anchor": "my favourite statue at Rushwood, Amphitrite, the sea goddess",
+      "byte_offset": 2460,
+      "hits": 1
+    },
+    {
+      "pair": "Miriam(Mimi，叙述者) ↔ Pamela/Alf",
+      "relation": "三人是园丁家的孩子（'the gardener’s kids'）；Rafe 声言要把 'the beauteous Bramley sisters' 雇来打理庭园，Alf 闻言挺起肩膀护家",
+      "anchor": "employ the beauteous Bramley sisters to tend the grounds",
+      "byte_offset": 4846,
+      "hits": 1
+    },
+    {
+      "pair": "Miriam ↔ Whipple",
+      "relation": "Nancy 宣布 Miriam 明日起任 Whipple 的新助理（室内/interiors）；Rafe 把这份工作比作'Into the Minotaur’s lair'，劝她 stick with roses",
+      "anchor": "Into the Minotaur’s lair, Miriam?",
+      "byte_offset": 5275,
+      "hits": 1
+    },
+    {
+      "pair": "Lawrence ↔ London girlfriend",
+      "relation": "Rafe 唱腔调侃 'Won’t your London girl be miffed, Loz?'；叙述者自认 Lawrence 这类人'当然'有女友，消息却仍令'我'如遭重拳（未具名，待后文）",
+      "anchor": "Won’t your London girl be miffed, Loz?",
+      "byte_offset": 3992,
+      "hits": 1
+    },
+    {
+      "pair": "Doris ↔ Caswell 家",
+      "relation": "Doris 是管家，Caswell 家回伦敦时她常年留在乡下照看狗（纽芬兰犬随行）；家中层级高过园丁孩子，且早警告过他们别游泳越界",
+      "anchor": "She looked after the dogs in the country year-round while the Caswells returned to London.",
+      "byte_offset": 5729,
+      "hits": 1
+    },
+    {
+      "pair": "Celia ↔ Caswell 家",
+      "relation": "Celia 穿 fuchsia-pink 晨袍在一楼卧室窗抱臂观望泳池闹剧，是楼上在场的家族成员",
+      "anchor": "a first-floor bedroom window",
+      "byte_offset": 7125,
+      "hits": 1
+    },
+    {
+      "pair": "Nancy ↔ Rafe",
+      "relation": "Nancy 熟稔地挖苦 Rafe（'Walking Id'），断言他近期'威胁不了 Jagger'；Rafe 哼起 Rolling Stones 的 'Paint It Black'、点烟吹嘘要卖百万唱片买乡间大宅",
+      "anchor": "You’re not troubling Jagger anytime soon, Rafe.",
+      "byte_offset": 4487,
+      "hits": 1
+    },
+    {
+      "pair": "Amphitrite ↔ Poseidon",
+      "relation": "画作题材层面：Amphitrite 是嫁与 Poseidon 的海中仙女兼女神",
+      "anchor": "the sea nymph and goddess married to Poseidon",
+      "byte_offset": 173,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "item": "Lot 8（拍品编号）",
+      "anchor": "Lot 8: Amphitrite",
+      "byte_offset": 22,
+      "hits": 1
+    },
+    {
+      "item": "A4（画幅尺寸，ink on card）",
+      "anchor": "Ink on card. A4.",
+      "byte_offset": 42,
+      "hits": 1
+    },
+    {
+      "item": "‘MB, July 69’（画作背面签名、纪年并题字：1969 年 7 月）",
+      "anchor": "‘MB, July 69’",
+      "byte_offset": 102,
+      "hits": 1
+    },
+    {
+      "item": "two palm trees（茉莉花墙前遮荫的两棵棕榈；画作描述中为 two arching palm trees）",
+      "anchor": "two palm trees",
+      "byte_offset": 2734,
+      "hits": 1
+    },
+    {
+      "item": "first-floor bedroom window（Celia 所在一楼卧室窗）",
+      "anchor": "a first-floor bedroom window",
+      "byte_offset": 7125,
+      "hits": 1
+    },
+    {
+      "item": "18（章号标头，随后为叙述者名 Mimi）",
+      "anchor": "18",
+      "byte_offset": 10,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Rafe 抓住 Miriam 的脚踝把她拽进泳池，恰打断 Doris 未说完的低语警告（Celia 正在楼上抱臂注视）——刚得知 Lawrence 有伦敦女友、明日又将走进 Whipple 之门的 Miriam，把一切抛进了金色夏日的池水里。"
+}
