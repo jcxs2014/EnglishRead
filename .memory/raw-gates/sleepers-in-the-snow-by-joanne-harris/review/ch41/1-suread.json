@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch41",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch41_epilogue.txt",
+ "facts": [
+  {
+   "fact": "尾声整页是一份病人报告文书，报告对象为 Arthur Sanderson（姓氏与前文主角姓氏相同）。",
+   "anchor": "Patient report: Arthur Sanderson",
+   "start": 38,
+   "end": 70
+  },
+  {
+   "fact": "报告落款日期逐字为 January 1st, 2025（2025 年 1 月 1 日）。",
+   "anchor": "Date: January 1st, 2025",
+   "start": 73,
+   "end": 96
+  },
+  {
+   "fact": "文书出自 Kirkhill Hospice 的病人信息系统，登记类别为 Supportive and Palliative Care Register（支持与姑息照护登记册）。",
+   "anchor": "Kirkhill Hospice Patient Information",
+   "start": 99,
+   "end": 135
+  },
+  {
+   "fact": "病人出生日期字段逐字为 12/04/1939。",
+   "anchor": "DOB: 12/04/1939",
+   "start": 180,
+   "end": 195
+  },
+  {
+   "fact": "病人编号字段逐字为 911900276。",
+   "anchor": "Patient Number: 911900276",
+   "start": 198,
+   "end": 223
+  },
+  {
+   "fact": "紧急联络人（next of kin）字段登记两人：Lucy Fox 与 Greg Sanderson。",
+   "anchor": "Next of kin: Lucy Fox, Greg Sanderson",
+   "start": 226,
+   "end": 263
+  },
+  {
+   "fact": "Notes 记录病人每天睡眠 18–22 小时（逐字 en-dash）；同段还记：基本失语、仅有短暂清醒间歇、对访客无反应、站立需两人协助。",
+   "anchor": "Sleeps 18–22 hours a day.",
+   "start": 405,
+   "end": 430
+  },
+  {
+   "fact": "文书末行 DNR status 字段逐字为 Nil，即档案中没有 DNR（拒绝复苏）登记。",
+   "anchor": "DNR status: Nil.",
+   "start": 433,
+   "end": 449
+  }
+ ]
+}
