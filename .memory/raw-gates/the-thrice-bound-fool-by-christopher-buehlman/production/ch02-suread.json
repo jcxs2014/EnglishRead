@@ -1,0 +1,55 @@
+{
+ "book": "the-thrice-bound-fool-by-christopher-buehlman",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-thrice-bound-fool-by-christopher-buehlman/text/ch02_2_goats_and_other_lovers.txt",
+ "facts": [
+  {
+   "fact": "清晨散步撞见向导候选人 One-Eye 在田里与山羊交配，山羊腿被绑在重木上",
+   "anchor": "back-butting a goat. He had tied its legs to a heavy log",
+   "start": 1129,
+   "end": 1185
+  },
+  {
+   "fact": "Galva 正做 Calar Bajat 晨练，听他汇报只嫌扫兴：日出、鸟鸣、群山难道不比人羊交配值得说",
+   "anchor": "Birds. Fields. The mountains that will try to kill us soon.",
+   "start": 3590,
+   "end": 3649
+  },
+  {
+   "fact": "Galva 两眼蓝色深浅不同——一只曾被铁臂刺客 Sesta 弄瞎后愈合；Sesta 后被 Galva 的女王 Mireya 亲手砍头",
+   "anchor": "her eyes were slightly different shades of blue",
+   "start": 2840,
+   "end": 2887
+  },
+  {
+   "fact": "Wostran 候选人武装齐全：中型弩、中段带锯齿的矛、至少三把可见的刀，缺几根手指（Kinch 猜是冻伤）",
+   "anchor": "armed with a medium-size crossbow, a spear with a serrated bit",
+   "start": 4774,
+   "end": 4836
+  },
+  {
+   "fact": "Kinch 脸颊有 Debtor's Hand 纹身——头一回共火就会被看见；每进酒馆都挨一记耳光，打人者得免费啤酒",
+   "anchor": "the Debtor’s Hand would be perfectly plain on my cheek",
+   "start": 5332,
+   "end": 5386
+  },
+  {
+   "fact": "面试只有 Wostran 能说一点 Holtish，他的自我推销：能保你性命，只要你不蠢",
+   "anchor": "Keep you life. If you not stupid.",
+   "start": 6094,
+   "end": 6127
+  },
+  {
+   "fact": "聘定 Wostran 后 One-Eye 恼羞，差点与 Wostran 动手，还指着 Kinch 快速 Gunnish 骂",
+   "anchor": "He nearly came to blows with the Wostran",
+   "start": 7028,
+   "end": 7068
+  },
+  {
+   "fact": "想起早晨所见，Kinch 在铁器架上选中铁熊夹问价——防书用铁",
+   "anchor": "How much for the bear trap?",
+   "start": 7635,
+   "end": 7662
+  }
+ ]
+}
