@@ -1,0 +1,15 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch03",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch03_chapter_3.txt",
+ "facts": [
+  {"fact": "本章记事日期为2024年9月22日。", "anchor": "September 22nd, 2024", "start": 20, "end": 40},
+  {"fact": "他把衣物送到市政垃圾场的衣物回收站，天黑后开车返回Kirkhill住所。", "anchor": "took the clothes to the clothing bank", "start": 46, "end": 83},
+  {"fact": "他发现自Lyke的胡萝卜蛋糕后粒米未进，用罐装意面圈、吐司和茶当晚餐。", "anchor": "he hadn’t eaten since the carrot cake in Lyke", "start": 428, "end": 473},
+  {"fact": "关系：他吃惯单身汉伙食，因为「她」从来不太会做饭，家里只有即食餐和外卖。", "anchor": "She’d never been much of a cook, after all.", "start": 592, "end": 635},
+  {"fact": "电视杂音中一个如满口铁丝的人声说出「我知道你干了什么」，他吓得滑倒并用遥控关机。", "anchor": "a voice like a mouthful of barbed wire hissed:", "start": 1543, "end": 1589},
+  {"fact": "关系：门厅灯光令他想起童年半开的卧室门与父母低谈，随即惊觉父母已双亡，悲伤涌起。", "anchor": "his parents were dead", "start": 4014, "end": 4035},
+  {"fact": "他走出几十步误入电塔阴影，想起潜水员独闯熔岩隧道缺氧身亡的旧事，惊恐逃回。", "anchor": "remembered a story he’d heard about a scuba diver", "start": 4567, "end": 4616},
+  {"fact": "逃亡时似有黑犬贴地疾追，到家回望却只有电塔影子与一颗崭新的绿色网球，他仍锁门上下扣闩。", "anchor": "a single tennis ball, green and somehow hateful", "start": 8370, "end": 8417}
+ ]
+}
