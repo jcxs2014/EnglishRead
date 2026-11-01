@@ -81,6 +81,18 @@
       "no": 7,
       "segments": [
         {
+          "text": "“No one’s set foot there in centuries,” Talasyn snapped. Alaric tightened his grip on her knee as though in warning, but",
+          "ok": true,
+          "pos": 11729
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
           "text": "Talasyn fumed silently through the discussion of several more administrative matters, but she wasn’t one to be cowed for",
           "ok": true,
           "pos": 12653
@@ -89,8 +101,8 @@
       "words": 41
     },
     {
-      "block": "原句8",
-      "no": 8,
+      "block": "原句9",
+      "no": 9,
       "segments": [
         {
           "text": "In her ire, Talasyn wasn’t even fully conscious of both her fists slamming down on the surface of the table, the ebony w",
@@ -101,8 +113,8 @@
       "words": 31
     },
     {
-      "block": "原句9",
-      "no": 9,
+      "block": "原句10",
+      "no": 10,
       "segments": [
         {
           "text": "“There is no room for moral indignation at my council,” Alaric brusquely informed her through gritted teeth. “I base my ",
@@ -207,6 +219,21 @@
     {
       "block": "原句7",
       "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 85,
+        "读者视角提示": 81
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
         "中文理解": 63,
         "关键词": 0,
         "为什么这样写": 63,
@@ -220,7 +247,7 @@
       }
     },
     {
-      "block": "原句8",
+      "block": "原句9",
       "cjk": {
         "中文理解": 46,
         "关键词": 0,
@@ -235,7 +262,7 @@
       }
     },
     {
-      "block": "原句9",
+      "block": "原句10",
       "cjk": {
         "中文理解": 59,
         "关键词": 0,
@@ -265,10 +292,10 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 9,
-    "block_median": 8.5,
+    "blocks": 10,
+    "block_median": 9.0,
     "block_range": [
-      4,
+      5,
       13
     ],
     "profile": "novels",
@@ -284,9 +311,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 9,
+    "blocks": 10,
     "quote_long": 0,
-    "segments": 9,
+    "segments": 10,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,
@@ -306,7 +333,7 @@
   "block_limit": {
     "lo": 2,
     "hi": 15,
-    "basis": "本书 55 章中位 8、最高 13（同类书按本书分布判）"
+    "basis": "本书 55 章中位 9、最高 13（同类书按本书分布判）"
   },
   "issues": {
     "struct": [],
