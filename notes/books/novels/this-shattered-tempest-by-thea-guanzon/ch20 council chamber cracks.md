@@ -75,7 +75,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意这是她的内心，不是叙述者的判词：「felt sick」与「echoing」都是她的感受，读时要和议事厅里那些公开的话分开。
 
-> **原句 7:** "Talasyn fumed silently through the discussion of several more administrative matters, but she wasn’t one to be cowed for long. Her teeth bared when the council opened the floor to the issue of lowering the age of criminal liability to thirteen."
+> **原句 7:** "“No one’s set foot there in centuries,” Talasyn snapped. Alaric tightened his grip on her knee as though in warning, but she ignored him. “That soil is the face of the Saber-heart. It would be desecration.”"
+
+- **中文理解**：「几百年都没人在那儿落脚了。」塔拉辛厉声说。阿拉里克收紧按在她膝上的手，像在警告，她没理。「那片土是剑心的脸。那是亵渎。」
+
+- **关键词**：Saber-heart · desecration · grip on
+
+- **为什么这样写**：这一段把两套语言放进同一口气里。她说的是「圣地」，理事们说的是「开发」，两边用的词根本不通约；而唯一能替她把话圆过去的动作，是阿拉里克按在膝上那只手——叙述把它写成 as though in warning，警告与安抚在这里是同一个手势。
+
+- **读者视角提示**：她打断之前还有一句（不在本块引语内）：「夜之帝国打算开发马哈吉尔憩地？那座岛对海岸之民是圣地。」紧接着的一句她才给出理由。注意她说的不是「不道德」，而是「亵渎」——她的反对来自信仰，不是政策分歧。
+
+> **原句 8:** "Talasyn fumed silently through the discussion of several more administrative matters, but she wasn’t one to be cowed for long. Her teeth bared when the council opened the floor to the issue of lowering the age of criminal liability to thirteen."
 
 - **中文理解**：塔拉辛在接下来几桩行政事务里一声不吭地憋着火，但她不是能被吓住太久的人；当议事会开始讨论把刑事责任年龄降到十三岁时，她的牙就龇了出来。
 
@@ -85,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意顺序是先写「她安静」、再写「她龇牙」：前面的沉默写得越具体，后面的爆发越像她自己的选择。
 
-> **原句 8:** "In her ire, Talasyn wasn’t even fully conscious of both her fists slamming down on the surface of the table, the ebony wood thudding against her flesh. “People are not things!”"
+> **原句 9:** "In her ire, Talasyn wasn’t even fully conscious of both her fists slamming down on the surface of the table, the ebony wood thudding against her flesh. “People are not things!”"
 
 - **中文理解**：塔拉辛在盛怒中甚至没有完全意识到自己双拳砸上了桌面，乌木撞着皮肉，闷响一声；她喊出来的是「人不是东西」。
 
@@ -95,7 +105,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意声音的方向：乌木是硬的，皮肉是软的，闷响从桌面发出，疼却落在她手上。
 
-> **原句 9:** "“There is no room for moral indignation at my council,” Alaric brusquely informed her through gritted teeth. “I base my rulings on what is best for the Night Empire, not on sentiment. If that is unacceptable, my lady is free to take her leave.”"
+> **原句 10:** "“There is no room for moral indignation at my council,” Alaric brusquely informed her through gritted teeth. “I base my rulings on what is best for the Night Empire, not on sentiment. If that is unacceptable, my lady is free to take her leave.”"
 
 - **中文理解**：阿拉里克咬着牙告诉她，他的议事厅里没有道德义愤的位置；他说自己的裁决只看什么对夜帝国最好，不看情绪；如果这不可接受，夫人可以离席。
 

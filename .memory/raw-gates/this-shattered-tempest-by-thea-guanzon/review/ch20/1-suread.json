@@ -1,0 +1,150 @@
+{
+  "chapter": "ch20",
+  "source": "text/ch20_chapter_twenty.txt",
+  "char_total": 16250,
+  "events": [
+    {
+      "i": 1,
+      "summary": "女仆凯德给塔拉辛盘发，把金簪硬插进乱发堆里，扎破了她的头皮。",
+      "quote": "Khaede pushed a tiny golden pin into the sloppy mass of limp curls that she’d piled high atop Talasyn’s head. The latter jerked as the sharp point pricked her skull.",
+      "start": 56,
+      "end": 221
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛穿红金两色礼服走进议事厅，阿拉里克一见她就担心今天办不成正事。",
+      "quote": "His wife swept into his council room and Alaric was immediately gripped by the fear that he would get absolutely nothing done today.",
+      "start": 1781,
+      "end": 1913
+    },
+    {
+      "i": 3,
+      "summary": "利苏准将当众质疑塔拉辛出席议事厅是否明智，搬出多明尼恩境内的刺杀和夜皇后的萨尔达维亚旧关系。",
+      "quote": "not to mention the Night Empress’s former ties to the Sardovian Allfold—I have my doubts as to whether her presence at a council where we discuss matters of state and security is advisable.”",
+      "start": 3131,
+      "end": 3321
+    },
+    {
+      "i": 4,
+      "summary": "阿拉里克回击利苏，并宣布由“阿伦西娜女皇”决定哪些提案可以上呈扎希亚-拉奇斯。",
+      "quote": "“Empress Alunsina will decide,” Alaric said, taking far more delight than he ought to in every carefully enunciated syllable",
+      "start": 5554,
+      "end": 5678
+    },
+    {
+      "i": 5,
+      "summary": "塔拉辛逐条质询诸将提案，收尾时宣布将择优上呈天穹宫。",
+      "quote": "“Thank you for your cooperation. I shall take some time to review your offers, the best of which will be forwarded to the Roof of Heaven posthaste.",
+      "start": 8882,
+      "end": 9029
+    },
+    {
+      "i": 6,
+      "summary": "达里乌斯准将提议开发海岸圣地马哈吉尔安息岛，塔拉辛当场打断，点明该岛是海岸之民的圣地、此举行同亵渎。",
+      "quote": "“Wait,” Talasyn interrupted Darius. “The Night Empire plans to develop Mahagir’s Rest? That island is sacred to the people of the Coast.”",
+      "start": 11685,
+      "end": 11822
+    },
+    {
+      "i": 7,
+      "summary": "议事厅讨论把刑事责任年龄降到十三岁，塔拉辛双拳砸桌，喊出“人不是东西”。",
+      "quote": "“Utility?” In her ire, Talasyn wasn’t even fully conscious of both her fists slamming down on the surface of the table, the ebony wood thudding against her flesh. “People are not things!”",
+      "start": 14695,
+      "end": 14882
+    },
+    {
+      "i": 8,
+      "summary": "阿拉里克当众训斥塔拉辛，说他的议事厅容不下道德义愤，他的裁决只问帝国利益、不问情感。",
+      "quote": "“There is no room for moral indignation at my council,” Alaric brusquely informed her through gritted teeth.",
+      "start": 15442,
+      "end": 15550
+    }
+  ],
+  "relations": [
+    {
+      "a": "塔拉辛（Talasyn／阿伦西娜女皇）",
+      "b": "阿拉里克（Alaric／夜之帝国皇帝）",
+      "relation": "夫妻·帝后同盟",
+      "quote": "She wouldn’t be able to bear the pain. That certainty pierced her as she sat beside her husband, his hand covering hers and feeling far too much like home.",
+      "start": 7511,
+      "end": 7666
+    },
+    {
+      "a": "塔拉辛",
+      "b": "凯德（Khaede）",
+      "relation": "主仆兼同盟（凯德谋得贴身女仆之位以随行）",
+      "quote": "“The goal was to be assigned your lady’s maid. I would have said anything.”",
+      "start": 551,
+      "end": 626
+    },
+    {
+      "a": "塔拉辛",
+      "b": "瑟夫雷姆（Sevraim）",
+      "relation": "护卫／护送者（奉命引她入议事厅）",
+      "quote": "A knock on the door indicated that Sevraim had arrived to escort her to the council meeting.",
+      "start": 871,
+      "end": 963
+    },
+    {
+      "a": "塔拉辛",
+      "b": "利苏准将（Commodore Lisu）",
+      "relation": "政敌（曾以凯德的情报换取铁甲舰指挥权）",
+      "quote": "He was the officer who had sailed to Iantas with information on Khaede, which he’d exchanged for command of a Voidfell-powered ironclad.",
+      "start": 6724,
+      "end": 6860
+    },
+    {
+      "a": "凯德",
+      "b": "达里乌斯（Commodore Darius）",
+      "relation": "旧日同伙／随时可能照面的隐患",
+      "quote": "Khaede had assured Talasyn that she was confident hers and Darius’s paths would never cross, but it was still an enormous risk.",
+      "start": 10977,
+      "end": 11104
+    }
+  ],
+  "numbers": [
+    {
+      "value": "一个半小时",
+      "context": "整场提案陈述持续的时间",
+      "quote": "Over the hour and a half that ensued, Talasyn listened to one proposal after another, grateful for the distraction they provided.",
+      "start": 7669,
+      "end": 7798
+    },
+    {
+      "value": "十三岁",
+      "context": "拟将刑事责任年龄下调至十三岁",
+      "quote": "Her teeth bared when the council opened the floor to the issue of lowering the age of criminal liability to thirteen.",
+      "start": 13027,
+      "end": 13144
+    },
+    {
+      "value": "十八岁",
+      "context": "现行法律下十八岁以下不得监禁",
+      "quote": "local syndicates frequently take advantage of the fact that those below the age of eighteen cannot be imprisoned under our current laws",
+      "start": 13284,
+      "end": 13419
+    },
+    {
+      "value": "一年前",
+      "context": "一年前诸将还下令见到塔拉辛就地格杀",
+      "quote": "given that they’d been ordering their men to kill her on sight a year ago",
+      "start": 7873,
+      "end": 7946
+    },
+    {
+      "value": "数月前",
+      "context": "数月前那场刺杀中她杀了一名萨尔达维亚叛军救下阿拉里克",
+      "quote": "and of the one months before, where she killed a Sardovian rebel to save my life",
+      "start": 3824,
+      "end": 3904
+    },
+    {
+      "value": "数百年",
+      "context": "马哈吉尔安息岛数百年无人踏足",
+      "quote": "“No one’s set foot there in centuries,” Talasyn snapped. Alaric tightened his grip on her knee as though in warning, but she ignored him.",
+      "start": 11939,
+      "end": 12076
+    }
+  ],
+  "notes": "语料问题：①文件开头连续两次出现章节标题“Chapter Twenty”（第1行与第12行），系提取残留，第一次出现前无正文；②正文前有约10行连续空行，段落之间普遍夹两个空行（原书段落间距被保留），故 quote 一律不跨空行取；③本章无脚注、无插图占位、无乱码，弯引号与 em dash 均正常；④全章为议事厅一场戏＋简短的梳妆开场，人物称呼在中英之间需注意：Talasyn 在凯萨瑟语中被称 Lachis’ka、在夜之帝国被称 Your Majesty／Empress Alunsina。"
+}

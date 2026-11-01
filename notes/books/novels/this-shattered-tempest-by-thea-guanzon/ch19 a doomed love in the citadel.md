@@ -55,7 +55,27 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「because it was easier」和后面那个「because」是两种不同的理由：一个是技巧，一个是资格。她选在这个人怀里说，是因为这个人已经先替她保守过一件大事。
 
-> **原句 5:** "I listen to your every inflection when you speak. I know what it means when you lift your chin or square your shoulders, or when your spine curves. I could spend a hundred lifetimes figuring you out, Tala, and it would be no great hardship.”"
+> **原句 5:** "“You never have to see Urduja Silim again,” he promised her, still in that same fierce growl. “You’ll stay here, and when she dies you’ll return to Nenavar to take your rightful throne. You will erase every trace of her from the Roof of Heaven, from history. And I will strike down anyone who might dare stand in your way.”"
+
+- **中文理解**：「你再也不用见乌尔杜佳·西利姆了。」他仍然用那种凶狠的低吼向她保证。「你留在这里，等她死了，你就回内纳瓦去，坐上本该属于你的王座。你要把她的痕迹从天穹宫、从史书里一笔一笔抹掉。谁敢挡你的路，我就替你把谁打下去。」
+
+- **关键词**：Urduja Silim · rightful throne · strike down
+
+- **为什么这样写**：他把一段本该是安慰的话说成了战争计划：留在这里、等她死、回去复位、抹掉痕迹、打下去——五个动作一个接一个，中间没有一句「你不必难过」。凶狠的句式（still in that same fierce growl）不是失控，是他在替她把这件她说不出口的事办掉。
+
+- **读者视角提示**：注意条件的次序：她的复位被排在「等她死」之后，也就是说他给她的未来是他亲手安排在别人的死亡上的。这段话兑现了他一贯的处事方式，也把他后面隐瞒父亲阴谋的选择衬得更沉重。
+
+> **原句 6:** "“I’m your family, too,” Alaric said quietly, kissing the valley between her breasts. It seemed impossible that he wouldn’t have noticed the way her pulse leapt, but at least his current position ensured that he didn’t see the fresh surge of tears pooling in her eyes."
+
+- **中文理解**：「我也是你的家人。」阿拉里克轻声说，吻了吻她双乳之间的凹陷。他不可能没察觉她的脉搏猛地一跳，可至少他此刻的位置让他看不见她眼里新涌上来的泪。
+
+- **关键词**：family too · pulse leapt · tears pooling
+
+- **为什么这样写**：这一段的重量全在「看不见」上：她刚说完自己只剩下一个杀人的祖母和一个靠不住的父亲，他没有讲道理，只把自己填进那个空位；而她这一次没有回答，只有脉搏和眼泪在答。叙述把吻、脉搏、眼泪三样东西叠在同一句里，等于让身体替她说话。
+
+- **读者视角提示**：这句「我也是你的家人」是她整章最想要又最不敢要的东西——下一块的「我们还结了婚，那我们就是一家人」正是他接着往下补的。读到那里时回头看这一句，会明白她为什么当场没有出声。
+
+> **原句 7:** "I listen to your every inflection when you speak. I know what it means when you lift your chin or square your shoulders, or when your spine curves. I could spend a hundred lifetimes figuring you out, Tala, and it would be no great hardship.”"
 
 - **中文理解**：他说她说话的每一个语调他都在听，她抬下巴、端平肩膀、脊背弯下去各是什么意思他都知道；他愿意花一百辈子去弄懂她，而且不觉得这是什么苦差。
 
@@ -65,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这三句里没有一个「爱」字。读的时候可以数一数他列举了几个动作，再想想一个人要盯着另一个人多久，才攒得出这份清单。
 
-> **原句 6:** "But, right now, Talasyn didn’t want to think about the future. Whatever future was waiting for her at the end of the next war, Alaric wouldn’t be in it. The pain flared through her, more searing than any eclipse."
+> **原句 8:** "But, right now, Talasyn didn’t want to think about the future. Whatever future was waiting for her at the end of the next war, Alaric wouldn’t be in it. The pain flared through her, more searing than any eclipse."
 
 - **中文理解**：可此刻塔拉辛不想去想将来：下一场战争尽头等着她的那个未来里不会有阿拉里克，这念头烧得比月食还烈。
 
@@ -75,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意这里的比较级「more searing than any eclipse」：她把一场天象借来当尺子，给心里的痛定出量级，等于承认这份痛在她这儿已经是天灾，不是一时情绪。
 
-> **原句 7:** "The walls that she’d encased herself in all these long years waved their white flag, falling apart in the sweet agony of a yearning fulfilled even as many more sparked to life. She understood, at last, what she felt for him. She knew now that hers was a doomed love."
+> **原句 9:** "The walls that she’d encased herself in all these long years waved their white flag, falling apart in the sweet agony of a yearning fulfilled even as many more sparked to life. She understood, at last, what she felt for him. She knew now that hers was a doomed love."
 
 - **中文理解**：她多年来把自己封起来的那几堵墙举了白旗，在渴望被满足的甜美剧痛里塌掉，同时又有一堆新的渴望被点着；她终于明白自己对他是什么感情——她知道了，这是一场注定无果的爱。
 
@@ -85,7 +105,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：这一段是全章情绪的落点，也是全章的转向处：她把心交出去的同时，已经替这段感情判了刑。往后再看到她说甜话，可以想想这句判词还在不在。
 
-> **原句 8:** "Alaric’s contentment ebbed as the reality of his and Talasyn’s situation came rushing back in, sapping the morning of its glow. He was the lowest sort of scum, keeping his father’s machinations a secret from her. But she was impetuous and headstrong, and thoroughly capable of doing something drastic if he were to tell her now—and did it even matter, if said machinations weren’t going to come to pass?"
+> **原句 10:** "Alaric’s contentment ebbed as the reality of his and Talasyn’s situation came rushing back in, sapping the morning of its glow. He was the lowest sort of scum, keeping his father’s machinations a secret from her. But she was impetuous and headstrong, and thoroughly capable of doing something drastic if he were to tell her now—and did it even matter, if said machinations weren’t going to come to pass?"
 
 - **中文理解**：现实的重量涌回来，把阿拉里克清晨的餍足抽干：他把自己判成最下等的渣滓，因为他把父亲的算计瞒着她；接着又替自己开脱——她冲动又倔，现在说了她会做出极端的事，何况那些算计未必真会发生。
 
@@ -95,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意最后那个反问句——他不是在向她隐瞒，是在向自己申请许可。读到这句时可以停一下，想想「未必成真」这个前提是谁给他的。
 
-> **原句 9:** "“Kesathese High Command will know where the Voidfell source is. What it is,” Khaede said in a low voice, with a placid expression for the benefit of anyone who might be surveying them from afar. “It’s top-secret information but, if you were to sit in at council meetings, you could keep your ears peeled for any hints.”"
+> **原句 11:** "“Kesathese High Command will know where the Voidfell source is. What it is,” Khaede said in a low voice, with a placid expression for the benefit of anyone who might be surveying them from afar. “It’s top-secret information but, if you were to sit in at council meetings, you could keep your ears peeled for any hints.”"
 
 - **中文理解**：凯德压低声音说，凯萨斯最高指挥部知道虚空坠焰源头在哪儿、又是什么东西；这话是机密，可只要塔拉辛能列席议事会，就能竖着耳朵听出点线索。
 
@@ -105,7 +125,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「for the benefit of anyone who might be surveying them from afar」——这句话提醒你，花园不是私密空间。她们说的每一个字都可能被看见嘴型，这也是凯德为什么要压着嗓子。
 
-> **原句 10:** "Talasyn almost couldn’t get the words out. See through me, a part of her silently begged her husband. That same small, shame-steeped part wanted him to realize what she was up to and have it be over and done with, wrestling their dynamic back into simpler forms that she knew how to handle."
+> **原句 12:** "Talasyn almost couldn’t get the words out. See through me, a part of her silently begged her husband. That same small, shame-steeped part wanted him to realize what she was up to and have it be over and done with, wrestling their dynamic back into simpler forms that she knew how to handle."
 
 - **中文理解**：那句话她几乎说不出口；心里有一小部分在无声地求丈夫看穿她，那一小部分浸透了羞耻，盼他识破她在做什么，让这件事赶紧了结，把两人的关系摔回她熟悉的简单形状里去。
 
@@ -115,7 +135,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她求的不是原谅，是「被阻止」。这一句解释了后面她为什么把话说得那么勉强：勉强本身就是一句求救，只是对方没接。
 
-> **原句 11:** "“Aetherspace connected me to them, somehow, and for a reason. If anyone can help me get my magic back, it would be my mother’s people, wouldn’t it? Maybe if I went there . . .”"
+> **原句 13:** "“Aetherspace connected me to them, somehow, and for a reason. If anyone can help me get my magic back, it would be my mother’s people, wouldn’t it? Maybe if I went there . . .”"
 
 - **中文理解**：塔拉辛说以太空间以某种方式、为着某个理由把她连到了「他们」那里；若有人能帮她找回魔法，那只能是母亲的族人吧？也许她该去一趟那里。
 
@@ -123,7 +143,7 @@ modified: "2026-11-01"
 
 - **为什么这样写**：紧邻的上一句点了名——那是哈南的故乡，光织者的大本营。她把出口放在一个还没踏上的地方，而不是身边这段关系上；话尾用「要是我去那里」收住，没说完的地方正是她不敢说完的地方。
 
-- **读者视角提示**：注意她用的是问句「wouldn’t it?」。这不是在向他要答案，是在向自己讨一个许可；而那三个点，是她把话咽回去的地方。
+- **读者视角提示**：注意她用的是问句「wouldn’t it?」。这不是在向他要答案，是在向自己讨一个许可；而那三个点，是她把话咽回去的地方。紧接着的下一段把这位姨母点到了名字（不在本块引语内）：那是她母亲唯一的同胞姐妹，父亲提过，名叫**卡希尔**——这为后面去黎明群岛埋下了唯一一条通路。
 
 ## 本章词汇
 

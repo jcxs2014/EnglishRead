@@ -65,7 +65,17 @@ modified: "2026-11-01"
 
 - **读者视角提示**：抓住那个条件句 if I decide you have a case：她的政策能不能上桌，取决于他一个人点头。
 
-> **原句 6:** "“In my jewelry box. I took it off because the stone loosened.” Talasyn tried to snatch her hand away but Alaric gripped her wrist tight. Her lips pursed in exasperation. “May I help you, my lord?”"
+> **原句 6:** "The guards stationed in the hallway gave a start as the Night Empress stormed past them, the Night Emperor hot on her heels. Upon realizing that he was right behind her, Talasyn quickened her pace but they both knew he was going to catch up, his much-longer legs giving him the advantage."
+
+- **中文理解**：走廊里的卫兵吓了一跳：夜后一阵风似的从他们面前过去，夜帝紧追在后。她发觉他就在背后，加快了脚步，可两个人都清楚他追得上——他的腿比她长得多，这就是优势。
+
+- **关键词**：hot on · quickened · advantage
+
+- **为什么这样写**：这一段没有一个字的对话，却把两人的位置关系全讲清了：她是「暴风」（stormed past），他是「紧追」（hot on her heels），长度成了权力——much-longer legs 这个短语把身体的差距直接换算成输赢。叙述还替他们共用一个判断：they both knew，两个人心里都明白结局。
+
+- **读者视角提示**：注意这场追逐里没有一句台词，两个人的音量被收掉了，只剩脚步声与判断。下一块才是他们终于开口的地方——她躲进他的办公室，他抢在门关上前用身体卡住门缝。
+
+> **原句 7:** "“In my jewelry box. I took it off because the stone loosened.” Talasyn tried to snatch her hand away but Alaric gripped her wrist tight. Her lips pursed in exasperation. “May I help you, my lord?”"
 
 - **中文理解**：塔拉辛说戒指在首饰盒里，宝石松了她才摘下；她想抽回手，他却把她的手腕攥得更紧，她抿着唇不耐烦，只丢下一句「我能帮您什么吗，大人」。
 
@@ -75,7 +85,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意谁在动谁的身体：她要抽手，他不放。这一攥既是审问，也是求告，两种性质长在同一只手上。
 
-> **原句 7:** "“Because you will give me fifty more years, Talasyn.” Every word felt like it was being wrenched out of him from the same place where his magic lay. Deeper than bone. Truer than soul."
+> **原句 8:** "“Because you will give me fifty more years, Talasyn.” Every word felt like it was being wrenched out of him from the same place where his magic lay. Deeper than bone. Truer than soul."
 
 - **中文理解**：他把她的手按在自己胸口，要她答应再给他五十年；他说这些话时像把字从存放魔法的那处硬拽出来，比骨更深、比魂更真。
 
@@ -85,7 +95,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：注意「magic」出现的位置：誓言不是从嘴里出来的，而是从他存放魔法力量的同一处被拽出来的，感情与修为在他身上是同一件东西。
 
-> **原句 8:** "She sort of hated herself for how quickly she bent, yet she couldn’t help but feel somewhat awed, too, at how much she trusted him. Enough to do it like this. Who would have ever thought?"
+> **原句 9:** "She sort of hated herself for how quickly she bent, yet she couldn’t help but feel somewhat awed, too, at how much she trusted him. Enough to do it like this. Who would have ever thought?"
 
 - **中文理解**：塔拉辛一边恼恨自己屈从得这么快，一边又惊讶于自己竟这样信任他——信任到肯用这个姿势；她自问：谁会想到有这一天。
 
@@ -95,7 +105,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她抛出的问题没有答案，作者也不打算给；读者得自己从这一段的落差里找。
 
-> **原句 9:** "“If you can’t wear your ring, then I will have you like this.” Eyes like moonlight burned into hers, wrathful and possessive and starved. “Dripping all over my desk. Covered in my bitemarks. Still mine even if the rest of the world can’t tell. Always mine.”"
+> **原句 10:** "“If you can’t wear your ring, then I will have you like this.” Eyes like moonlight burned into hers, wrathful and possessive and starved. “Dripping all over my desk. Covered in my bitemarks. Still mine even if the rest of the world can’t tell. Always mine.”"
 
 - **中文理解**：他宣告：既然戴不了戒指，那就这样要她——伏在桌上、满身齿痕；外人看不出标记，她也仍然是他的，永远是他的。
 
@@ -105,7 +115,7 @@ modified: "2026-11-01"
 
 - **读者视角提示**：她一句都没反驳。紧随的下一段开头是「Talasyn was mesmerized.」——她被镇住了，这场宣告因此不全是强迫。
 
-> **原句 10:** "She nuzzled at his ear and gave in to yet another moment of weakness, allowing herself to dream about those fifty years he’d demanded. Fifty more years of this. It was terrifying how much she wanted something she could never have."
+> **原句 11:** "She nuzzled at his ear and gave in to yet another moment of weakness, allowing herself to dream about those fifty years he’d demanded. Fifty more years of this. It was terrifying how much she wanted something she could never have."
 
 - **中文理解**：她偎在他耳边，任由自己再软弱一次，去想象他索要的那五十年——这样的五十年；可怕的是，她竟如此想要一件自己永远得不到的东西。
 

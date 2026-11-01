@@ -1,0 +1,143 @@
+{
+  "chapter": "ch19",
+  "source": "text/ch19_chapter_nineteen.txt",
+  "char_total": 20382,
+  "events": [
+    {
+      "i": 1,
+      "summary": "塔拉辛在与阿拉里克亲密后落泪，解释说是「太多了」但并非不好的意思。",
+      "quote": "It was a lot,” Talasyn replied with a watery sniff. In this, at least, she wasn’t lying.",
+      "start": 2076,
+      "end": 2164
+    },
+    {
+      "i": 2,
+      "summary": "塔拉辛把脸埋进阿拉里克的头发，向他坦白祖母乌尔杜雅杀害了她母亲，只因她已无法向卡埃德开口。",
+      "quote": "She told it like that because it was easier. She told him because she hadn’t even been able to tell Khaede, having not yet managed to find her footing in the midst of the schism between them.",
+      "start": 3093,
+      "end": 3284
+    },
+    {
+      "i": 3,
+      "summary": "阿拉里克低声承诺她再也不必见到乌尔杜雅，并说等她死后要送她回内纳瓦尔夺回王座。",
+      "quote": "You never have to see Urduja Silim again,” he promised her, still in that same fierce growl. “You’ll stay here, and when she dies you’ll return to Nenavar to take your rightful throne.",
+      "start": 4885,
+      "end": 5069
+    },
+    {
+      "i": 4,
+      "summary": "阿拉里克对塔拉辛说「我也是你的家人」，并说婚姻使两人成为一家人。",
+      "quote": "I’m your family, too,” Alaric said quietly, kissing the valley between her breasts.",
+      "start": 5945,
+      "end": 6028
+    },
+    {
+      "i": 5,
+      "summary": "阿拉里克自认卑劣，因为他向塔拉辛隐瞒了父亲的阴谋。",
+      "quote": "He was the lowest sort of scum, keeping his father’s machinations a secret from her.",
+      "start": 8293,
+      "end": 8377
+    },
+    {
+      "i": 6,
+      "summary": "卡埃德让塔拉辛去旁听议会，并提醒只剩一周薇拉就要动手。",
+      "quote": "Ask to sit at the council,” Khaede said. “Do it soon, because we only have a sennight until Vela makes her move",
+      "start": 11850,
+      "end": 11961
+    },
+    {
+      "i": 7,
+      "summary": "塔拉辛向阿拉里克提出想旁听一两次议会，他答应说明天就有会议。",
+      "quote": "I was actually thinking that I might like to attend a council session or two.",
+      "start": 13870,
+      "end": 13947
+    },
+    {
+      "i": 8,
+      "summary": "塔拉辛告诉阿拉里克她在黎明群岛有一位姨母，名叫卡希尔。",
+      "quote": "I have an aunt there, actually. My mother’s only sibling. My father mentioned that her name is Cahyir.",
+      "start": 19977,
+      "end": 20079
+    }
+  ],
+  "relations": [
+    {
+      "a": "阿拉里克",
+      "b": "塔拉辛",
+      "relation": "夫妻（已结婚，阿拉里克称这使他们成为一家人）",
+      "quote": "We are married. That makes us a family. You and me.",
+      "start": 6409,
+      "end": 6460
+    },
+    {
+      "a": "塔拉辛",
+      "b": "乌尔杜雅",
+      "relation": "外祖母与外孙女，同时是仇敌（乌尔杜雅杀了塔拉辛的母亲）",
+      "quote": "And now I have a grandmother who’s a murderer and a father who is just as likely to side with her as he is with me.",
+      "start": 5800,
+      "end": 5915
+    },
+    {
+      "a": "塔拉辛",
+      "b": "卡埃德",
+      "relation": "旧日战友/同盟，但友情因阵营分裂而疏离",
+      "quote": "Unfortunately, she was no longer certain where her and Khaede’s friendship stood",
+      "start": 10066,
+      "end": 10146
+    },
+    {
+      "a": "阿拉里克",
+      "b": "夜皇（其父）",
+      "relation": "父子，阿拉里克暗中阻挠父亲的入侵计划",
+      "quote": "He would nip his father’s plans for invasion in the bud.",
+      "start": 18495,
+      "end": 18551
+    },
+    {
+      "a": "塔拉辛",
+      "b": "卡希尔",
+      "relation": "姨母与外甥女（母亲唯一的姐妹）",
+      "quote": "I have an aunt there, actually. My mother’s only sibling.",
+      "start": 19977,
+      "end": 20034
+    }
+  ],
+  "numbers": [
+    {
+      "value": "一周（sennight）",
+      "context": "卡埃德说距离薇拉动手只剩一周",
+      "quote": "we only have a sennight until Vela makes her move—with or without us disabling Kesath’s Voidfell source.",
+      "start": 11912,
+      "end": 12016
+    },
+    {
+      "value": "第三次",
+      "context": "当夜第三次高潮",
+      "quote": "As the third climax of the night swept through her",
+      "start": 1532,
+      "end": 1582
+    },
+    {
+      "value": "第五",
+      "context": "第五个月亮是天空中的冰球",
+      "quote": "The fifth moon was an icy orb in the sky once more",
+      "start": 2342,
+      "end": 2392
+    },
+    {
+      "value": "一百（a hundred lifetimes）",
+      "context": "阿拉里克说愿用一百辈子去弄懂她",
+      "quote": "I could spend a hundred lifetimes figuring you out, Tala, and it would be no great hardship.",
+      "start": 4383,
+      "end": 4475
+    },
+    {
+      "value": "数十（dozens）",
+      "context": "黎明群岛的光裂者数量以数十计",
+      "quote": "where the Light Severs numbered in the dozens and were constantly flaring.",
+      "start": 19258,
+      "end": 19332
+    }
+  ],
+  "notes": "原文首行与第12行重复出现「Chapter Nineteen」标题，其间夹 11 个空行（offset 16–27），系提取残留；正文段落之间普遍残留双空行（\\n\\n\\n），第140–150行附近另有 13 个空行的段落断裂，疑似分节/场景切换处被清空。正文使用弯引号与 em dash，逐字保留。全章为 Talasyn 与 Alaric 双视角。"
+}

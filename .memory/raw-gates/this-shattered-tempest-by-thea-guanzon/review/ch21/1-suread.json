@@ -1,0 +1,136 @@
+{
+  "chapter": "ch21",
+  "source": "text/ch21_chapter_twenty_one.txt",
+  "char_total": 17504,
+  "events": [
+    {
+      "i": 1,
+      "summary": "阿拉里克召塔拉辛到自己的私人餐厅共进午餐，两人隔着长桌对坐，各怀心事。",
+      "quote": "They were seated at opposite ends of the table in his private dining room, the distance between them spanned by bowls of rice noodles and fish cakes in broth",
+      "start": 238,
+      "end": 395
+    },
+    {
+      "i": 2,
+      "summary": "阿拉里克解释马哈吉尔憩地（Mahagir’s Rest）已不再不可侵犯，他父亲在那里设了据点，扩建是为船员及家眷改善居住、不再依赖内陆补给。",
+      "quote": "“Mahagir’s Rest is no longer inviolate,” said Alaric. “My father already installed a base there. More development would mean improved housing for the crew and their families",
+      "start": 1058,
+      "end": 1231
+    },
+    {
+      "i": 3,
+      "summary": "阿拉里克指责塔拉辛在议会上公开与他争辩、质疑他筹划数月的法案，是直接违背加冕时立下的服从誓言。",
+      "quote": "By arguing with me in public—by questioning prospective laws that I have spent months working on—you are in direct violation of those vows.",
+      "start": 2199,
+      "end": 2338
+    },
+    {
+      "i": 4,
+      "summary": "阿拉里克提出折中办法：她可以把反对意见与替代方案正式书面提出，他会研究，若认可便替她推动，以免军官们以为他在拆夜帝国的台。",
+      "quote": "“Make all the counterproposals and objections that you wish and I shall study them. Make everything formal and aboveboard",
+      "start": 2895,
+      "end": 3016
+    },
+    {
+      "i": 5,
+      "summary": "塔拉辛推开盘子起身离席，阿拉里克追出餐厅；她快步走进他的书房，他抢在门关上之前用身体卡住门缝。",
+      "quote": "The guards stationed in the hallway gave a start as the Night Empress stormed past them, the Night Emperor hot on her heels.",
+      "start": 4912,
+      "end": 5036
+    },
+    {
+      "i": 6,
+      "summary": "阿拉里克发现她手上没戴婚戒，抓住她的手腕逼问戒指下落，并要求她把戒指交出来修好、重新戴上。",
+      "quote": "“For starters,” Alaric said tersely, “you can hand over your ring so I can have it fixed. And then you can put it back on.”",
+      "start": 7137,
+      "end": 7260
+    },
+    {
+      "i": 7,
+      "summary": "阿拉里克把她的手按在自己胸口，宣称她得再给他五十年、他不会放她走；随后他低头吻她，两人在他的书桌上发生关系。",
+      "quote": "She opened her mouth for him at once and he was lost, dipped in gold. She tasted of peaches, her tongue caressing his like summer-bright silk.",
+      "start": 8128,
+      "end": 8270
+    },
+    {
+      "i": 8,
+      "summary": "性事结束后，塔拉辛窝在他耳边，放任自己幻想他索要的那五十年，同时清楚自己不可能拥有。",
+      "quote": "She nuzzled at his ear and gave in to yet another moment of weakness, allowing herself to dream about those fifty years he’d demanded.",
+      "start": 17273,
+      "end": 17407
+    }
+  ],
+  "relations": [
+    {
+      "a": "阿拉里克",
+      "b": "塔拉辛",
+      "relation": "夫妻（同时是夜帝国君与后，政治上从属）",
+      "quote": "“How am I to hold on to my authority if I am seen to let my wife flout it at every turn? We are not in the Nenavar Dominion anymore, Lachis’ka.”",
+      "start": 2504,
+      "end": 2648
+    },
+    {
+      "a": "阿拉里克",
+      "b": "阿拉里克之父",
+      "relation": "父子（父亲先在马哈吉尔憩地设据点）",
+      "quote": "“Mahagir’s Rest is no longer inviolate,” said Alaric. “My father already installed a base there.",
+      "start": 1058,
+      "end": 1154
+    },
+    {
+      "a": "阿拉里克",
+      "b": "夜帝国军官与臣民",
+      "relation": "统治者与被统治者（他自称无须征询已归顺者）",
+      "quote": "I don’t need to ask anyone, least of all those who have submitted to my reign.",
+      "start": 1812,
+      "end": 1890
+    },
+    {
+      "a": "塔拉辛",
+      "b": "议会议员（阿拉里克的僚属）",
+      "relation": "敌对/被孤立（她当众被要求闭嘴，议员们见证）",
+      "quote": "You appeared to care an awful lot about your lackeys’ approval when you basically told me to shut up in front of the entire council.",
+      "start": 1947,
+      "end": 2079
+    },
+    {
+      "a": "塔拉辛",
+      "b": "阿拉里克",
+      "relation": "君臣誓约（加冕时她宣誓服从他的意志）",
+      "quote": "Those same lackeys were present at the coronation when you swore your obedience to my will",
+      "start": 2084,
+      "end": 2174
+    }
+  ],
+  "numbers": [
+    {
+      "value": "五十年",
+      "context": "阿拉里克讥讽她已厌倦丈夫，说这不利两人往后五十年",
+      "quote": "“Tired of your husband already?” Alaric drawled. “That doesn’t bode well for the next fifty years.”",
+      "start": 4122,
+      "end": 4221
+    },
+    {
+      "value": "五十秒",
+      "context": "塔拉辛回敬：再多给他五十秒都算他走运",
+      "quote": "“You’d be lucky if I gave you fifty more seconds,” Talasyn bit out.",
+      "start": 4515,
+      "end": 4582
+    },
+    {
+      "value": "再五十年",
+      "context": "阿拉里克要她再给他五十年，说绝不放手",
+      "quote": "“Because you will give me fifty more years, Talasyn.” Every word felt like it was being wrenched out of him from the same place where his magic lay.",
+      "start": 7468,
+      "end": 7616
+    },
+    {
+      "value": "数月",
+      "context": "他为那些法案已筹划了数月",
+      "quote": "questioning prospective laws that I have spent months working on",
+      "start": 2231,
+      "end": 2295
+    }
+  ],
+  "notes": "采集自 text 提取件（全章约 201 行）。语料问题：（1）标题重复——正文前第 1 行与第 12 行各有一次 “Chapter Twenty-One”，且两次之间留有大量空行（第 2–11 行），属提取残留；（2）正文全篇以空行分段，每段内部无换行，因此所有 quote 均取自单段内部；（3）文中使用弯引号（U+201C/U+201D）、弯撒号（U+2019）与长破折号（U+2014），JSON 中均原样保留；（4）本章含直白的性爱描写，事件摘要只记事实、不引具体描写；（5）未见脚注、页码或标题层级标记残留。"
+}
