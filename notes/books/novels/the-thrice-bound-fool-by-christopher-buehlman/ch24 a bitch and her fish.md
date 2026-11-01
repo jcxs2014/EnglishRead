@@ -65,7 +65,7 @@ modified: "2026-11-01"
 > **原句 8:** "I imagined getting behind her with my legs crossed at her belly and giving her neck a good-night hug, keeping my head tucked against hers to weather Drab’s shyte-weak punches and kicks ’til she was out and I could sort him. Just a fantasy, I know, for there were guards in sight, there always were, but sometimes a fantasy is all you have to hold on to when some deserving kark can’t be shown the error of their ways."
 
 **中文理解**：我想象自己绕到她背后，双腿环住她的肚子，给她一个「晚安式」的锁颈——头贴着她的头扛住 Drab 那软脚拳脚，直到她昏过去、我再腾手收拾他。就是个幻想，我知道——护卫就在眼前，永远都在——可有时候，当某个活该的混蛋没法被当面教育时，幻想是你唯一抓得住的东西。
-**关键词**：a good-night hug / weather Drab’s shyte-weak punches / there always were / a fantasy is all you have to hold on to
+**关键词**：a good-night hug / shyte-weak punches / there always were / a fantasy is all you have
 **为什么这样写**：杀人幻想按战术步骤完整推演——锁法、扛打顺序、清理现场，专业性让它既是玩笑又是简历；「sometimes a fantasy is all you have」的收句把幻想定义为奴隶的心理资产，被剥夺一切的人只剩脑内的自由。
 **读者视角提示**：这是他的怒气管理机制——记住「幻想即资产」：全书的每一次忍气吞声都有一次脑内彩排兑付。
 
