@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch25",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch25_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "日记日期 2024 年 11 月 11 日：他步行下山进 Lyke 镇，买了书和一部一次性手机（burner phone），在茶店吃蛋糕，天黑后才走回家。",
+   "anchor": "November 11th, 2024",
+   "start": 23,
+   "end": 42
+  },
+  {
+   "fact": "他在村图书馆借到 Adrian Warner 那本小说的较新版本和 Dr Micheal Benn 的《A Haunted History of Lyke》；与他年纪相仿的老图书管理员手工写借书卡替他开了账户。",
+   "anchor": "A Haunted History of Lyke, by Dr Micheal Benn",
+   "start": 352,
+   "end": 397
+  },
+  {
+   "fact": "作者页写明 Adrian Warner 是民俗学家 Dr Micheal Benn 的笔名，这本小说是他唯一一部长篇；管理员证实 Benn 的《The Lightning Chasers》出版于八十年代。",
+   "anchor": "Adrian Warner is the pseudonym of distinguished folklorist",
+   "start": 1027,
+   "end": 1085
+  },
+  {
+   "fact": "管理员最后听说 Benn 已搬进某种养老机构；他此前问遍咖啡店、邮局、教堂，都没人知道 Benn 现况及其与 Kirkhill 前任屋主的关系。",
+   "anchor": "he’d moved into some kind of home",
+   "start": 1215,
+   "end": 1248
+  },
+  {
+   "fact": "相机店老板说照片已压了一个多星期，收他 15 英镑现金，把装着冲印件和相机的厚信封交给他。",
+   "anchor": "That’ll be fifteen pounds.",
+   "start": 1937,
+   "end": 1963
+  },
+  {
+   "fact": "他回家拆开信封：整卷冲印件共 36 张黑白照片，全部从不同角度（松林边、房子边、最后塔底）拍同一座高压电塔。",
+   "anchor": "Thirty-six shots, in black-and-white",
+   "start": 7534,
+   "end": 7570
+  },
+  {
+   "fact": "整卷最后一张未冲印：底片是从房子侧面远拍的半格画面，电塔脚下有个裹着厚重大衣、远得认不出的人影；他猜可能是 Caroline。",
+   "anchor": "too distant to recognise, bundled into a heavy coat",
+   "start": 8386,
+   "end": 8437
+  },
+  {
+   "fact": "夜走沼地捷径时他确信脚下沟壑就是女孩 Lucy Foxton 溺水之处：她父亲下水追她，也被河水卷走。",
+   "anchor": "Was this where the girl – Lucy Foxton – had drowned?",
+   "start": 3134,
+   "end": 3186
+  }
+ ]
+}
