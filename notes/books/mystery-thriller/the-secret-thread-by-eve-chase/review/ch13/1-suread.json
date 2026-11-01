@@ -1,0 +1,90 @@
+{
+  "chapter": "ch13",
+  "text_file": "text/ch13_chapter_13.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "拍卖品 Lot 5 是一张手绘的 Rushwood（威尔特郡 Wiltshire）地图，绘于 1969 年，材质为 A2 卡纸上的墨线笔与水彩（ink pen and watercolour on A2 card）。",
+      "anchor": "Lot 5: Hand-drawn map of Rushwood, Wiltshire, 1969. Ink pen and watercolour on A2 card.",
+      "byte_offset": 22,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Mimi 熟悉挂在门厅（entrance hall）的那幅带框、六英尺高的 Rushwood 房舍与庭园大图——透过大窗可见、夜间有照明——并注意到它遗漏了劳作区域（working areas）；她的版本顽皮地补上了这一失衡，加绘了园丁头的小屋（head gardener's cottage，箭头标注 'Unfortunately, you are here'）、室外厕所（outdoor privy）、洗衣房、厨子的后厨（cook's back kitchen）、棕榈温室（palm house）等花园建筑，乃至堆肥堆（compost heaps）。",
+      "anchor": "had noted its omission of the working areas. Her version mischievously redressed this balance",
+      "byte_offset": 298,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "地图地面上散布的 X 标记在图例（key）中有说明，其中有 'The Saving' 与 'Beware – Harold roams here'。",
+      "anchor": "explained in the key, among them ‘The Saving’ and ‘Beware – Harold roams here’",
+      "byte_offset": 655,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Mimi 的拼写错误 'unfortutly'（原文标 [sic]）由她的姐姐 Pamela 修正；Pamela 还在图右下角留下一枚沾泥的指印。",
+      "anchor": "was corrected by her sister Pamela, who also left a muddy fingerprint at the bottom right",
+      "byte_offset": 796,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Pamela 因怕这张地图会给她们惹上麻烦，试图抢下并毁掉它，但 Mimi 紧抓不放（held fast），地图得以保住。",
+      "anchor": "Fearing the map might get them into trouble, Pamela tried to snatch it and destroy it, but Mimi held fast.",
+      "byte_offset": 887,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "a": "Pamela",
+      "rel": "sister of",
+      "b": "Mimi",
+      "evidence": "was corrected by her sister Pamela"
+    },
+    {
+      "a": "Mimi 的手绘地图（Lot 5）",
+      "rel": "mischievous counterpart / 补遗 of",
+      "b": "门厅那幅带框六英尺 Rushwood 官方大图",
+      "evidence": "Her version mischievously redressed this balance"
+    },
+    {
+      "a": "Pamela",
+      "rel": "tried to snatch and destroy",
+      "b": "Mimi 的地图",
+      "evidence": "Pamela tried to snatch it and destroy it, but Mimi held fast."
+    },
+    {
+      "a": "Harold",
+      "rel": "被图例警示会在……一带出没",
+      "b": "Rushwood 庭园（地图所标区域）",
+      "evidence": "‘Beware – Harold roams here’"
+    }
+  ],
+  "numbers_dates": [
+    {
+      "value": "Lot 5",
+      "context": "本章图录的拍卖品编号",
+      "evidence": "Lot 5: Hand-drawn map of Rushwood, Wiltshire, 1969."
+    },
+    {
+      "value": "1969",
+      "context": "手绘地图的绘制年份",
+      "evidence": "Rushwood, Wiltshire, 1969."
+    },
+    {
+      "value": "six-foot",
+      "context": "门厅官方大地图的尺寸（带框）",
+      "evidence": "framed six-foot map of Rushwood’s house and grounds"
+    },
+    {
+      "value": "A2",
+      "context": "Lot 5 手绘地图的卡纸尺寸",
+      "evidence": "Ink pen and watercolour on A2 card."
+    }
+  ],
+  "turning_point": "怕地图惹祸的 Pamela 试图抢下毁掉它，Mimi 却紧抓不放——地图因此幸存，才有了今日拍卖的 Lot 5。"
+}

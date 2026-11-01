@@ -1,0 +1,232 @@
+{
+  "chapter": "ch14",
+  "text_file": "text/ch14_chapter_14.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "场景 Pamela, Suffolk。风暴渐急，Pamela 在谷仓里踩高、用指尖沿顶层搁板盲目摸索，扬起灰尘、猛扫之下抖落一片木虱尸体；她自认有七成把握「Tin of Miriam」（绿色塔坦格纹酥饼罐盖、王家认证印）就藏在此处，却遍寻不获，骂出「Where the bugger is it?」；狗 Dolly 满脸担忧地紧盯着她，随时准备把她安全赶回屋里。",
+      "anchor": "fingertips patting blindly along the top shelf, disturbing a puff of dust",
+      "byte_offset": 466,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "铁罐来历一：疫情前在 GP 候诊室翻到 Met Gala 版面，Mimi Mott 以八分上榜——Miriam 瘦得骨头像姜脆饼、一身锁骨与钻石，穿猩红薄纱带羽毛的超长裙；自感相形见绌的 Pamela 顶着前台的狠瞪撕下那页杂志，之后锁上浴室为这条「羽毛掸子裙」痛哭一场，再把剪报封进铁罐、把罐子挪进谷仓，眼不见为净。",
+      "anchor": "torn out the magazine page while the surgery receptionist shot her a hard stare",
+      "byte_offset": 2011,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "铁罐来历二：收藏并非始于她本人——父母去世后，她翻检他们寒酸的遗物时撞见日期更早的剪报，多半是 Ma 攒下的；Pa 当年提起妹妹总咕哝「Time will tell with that one」，她如今苦甜交加地承认这话应验了。",
+      "anchor": "stumbled across the early-dated articles, probably hoarded by Ma",
+      "byte_offset": 2504,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "谷仓本该拆掉，但它是 Tony 1973 年用双手亲手建的，一家人生活的旧物都封存在此：开裂的 swingball 球拍、塞满艳俗圣诞挂饰的 Tesco 袋、扎破的充气泳池、Kerplunk 和 Mouse Trap 桌游，还有被他们绰号「the bone setter」的蹦床。",
+      "anchor": "the detritus of their family life is here, kept in a holding pattern",
+      "byte_offset": 3663,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "她想到终有一天去「天上的大花园」与 Tony 团聚后，Sam 和 Jo 会用垃圾袋清走她的摆设与纪念物、并发现 Tin of Miriam——她捂着嘴发怵：他们会怎么看？家中口径只称妹妹为 Miriam、绝不叫 Mimi 更不提 Mimi Mott（彼时已是富有的纽约客）；而 Miriam 到 Mimi 只差一步——尤其 Jo 若记得 Mott 是曾外祖母的娘家姓——眼下这桩扰人的拍卖正要把旧事搅得更浑。",
+      "anchor": "find the Tin of Miriam, she thinks, queasily, a hand over her mouth",
+      "byte_offset": 4303,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "车祸之后她把育儿走了两遍：先做 Leni 和 Sam 的年轻母亲，再做九岁 Jo 的监护人；夫妻俩决定不用事故细节压垮 Jo——Jo 父亲血检酒精略超限（打算日后告诉她）、Leni 和 Steve 当天要去的骇人疑点（永不告诉她）；为此关掉电视新闻、报纸禁入家门，用好书、植物、豚鼠、兔和狗、暮色云雀、果酱填满 Jo 的日子。",
+      "anchor": "their chilling suspicion about where Leni and Steve had been heading that day",
+      "byte_offset": 7001,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "Jo 与 Callum 分手后（Pamela 本就不喜欢此人：抢话、不爱狗、手小）仍硬撑在肮脏的伦敦，近来极难联系、行事遮掩，让 Pamela 自觉成了多余的人；Jo 又执意自己犯错不听劝，令她暗生恐惧：Jo 身上有她妹妹的影子，这两人若见面便是灾难。她咬掉手上的倒刺：也许铁罐就在屋里——她真该把它找出来。",
+      "anchor": "Maybe the Tin of Miriam is inside the house after all. She really should find it.",
+      "byte_offset": 9418,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "她对 Dolly 说「咱们回暖和的屋里去」，转身朝谷仓门走去却猛地刹住：门正剧烈摇晃，仿佛有什么黑暗而强大的东西在强行往里闯。",
+      "anchor": "as if something dark and powerful were trying to force its way in.",
+      "byte_offset": 9639,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Pamela ↔ Miriam（Mimi Mott）",
+      "relation": "疏远的姐妹；Pamela 是留守尽孝、把家放在第一位的那个，Miriam 逃开了这种命运",
+      "evidence": "her estranged sister",
+      "byte_offset": 200,
+      "hits": 2,
+      "evidence2": "a fate Miriam escaped",
+      "byte_offset2": 2669,
+      "hits2": 1
+    },
+    {
+      "pair": "Miriam ↔ Mimi Mott ↔ 娘家姓 Mott",
+      "relation": "Miriam 以 Mimi Mott 之名成为富有的纽约客、远如好莱坞明星，寒微出身被神秘、金钱与光环掩埋；Mott 是（Jo 的）曾外祖母的娘家姓——Miriam→Mimi 之间可被 Jo 识破的一环",
+      "evidence": "by then a wealthy New Yorker",
+      "byte_offset": 4787,
+      "hits": 1,
+      "evidence2": "Mott was her great-grandmother",
+      "byte_offset2": 5447,
+      "hits2": 1
+    },
+    {
+      "pair": "Pamela ↔ Tony",
+      "relation": "夫妻；Tony 已故（她设想日后到「天上的大花园」与他团聚）；对 Jo 百依百顺，称她 golden girl、唤她 bella mia",
+      "evidence": "joins Tony in the great garden in the sky",
+      "byte_offset": 4117,
+      "hits": 1,
+      "evidence2": "His golden girl",
+      "byte_offset2": 8950,
+      "hits2": 1
+    },
+    {
+      "pair": "Pamela ↔ Leni、Sam",
+      "relation": "她的一双儿女，先以年轻母亲身份抚养；Leni 已在车祸中亡故（Jo 之母），Jo 时时像极她",
+      "evidence": "a young mother to Leni and Sam",
+      "byte_offset": 6483,
+      "hits": 1,
+      "evidence2": "So uncannily like her mother sometimes",
+      "byte_offset2": 7838,
+      "hits2": 1
+    },
+    {
+      "pair": "Leni ↔ Steve（↔ Jo 之父）",
+      "relation": "事故当天同行、去向成为「永不告诉 Jo」疑点的两人；Jo 父亲当日血检酒精略超限——文面以 her dad 指称 Jo 之父，与 Leni/Steve 同行同日对应（其父即 Steve 为文面强暗示，未直书）",
+      "evidence": "just-over-the-limit",
+      "byte_offset": 6920,
+      "hits": 1,
+      "evidence2": "their chilling suspicion about where Leni and Steve had been heading that day",
+      "byte_offset2": 7001,
+      "hits2": 1
+    },
+    {
+      "pair": "Pamela & Tony ↔ Jo",
+      "relation": "车祸后由二人监护抚养的九岁孩子（亡故女儿的孩子）；被视作上帝还回的一点 Leni，Jo 与 Tony 总同点薄荷巧克力冰淇淋",
+      "evidence": "guardian to nine-year-old Jo",
+      "byte_offset": 6548,
+      "hits": 1,
+      "evidence2": "giving them back a bit of Leni",
+      "byte_offset2": 7893,
+      "hits2": 1
+    },
+    {
+      "pair": "Jo ↔ Callum",
+      "relation": "已分手；Pamela 从不很喜欢 Callum——抢话、不是爱狗的人、手小",
+      "evidence": "the split with Callum",
+      "byte_offset": 8120,
+      "hits": 1,
+      "evidence2": "talked over her, not a dog person, small hands",
+      "byte_offset2": 8176,
+      "hits2": 1
+    },
+    {
+      "pair": "Pamela ↔ Dolly",
+      "relation": "她的狗；风暴中满脸关切地紧盯主人，随时准备把她安全赶回屋里",
+      "evidence": "poised to herd her human safely back into the house",
+      "byte_offset": 867,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela ↔ Ma / Pa",
+      "relation": "父母；早期剪报多半为 Ma 所攒，Pa 从前对妹妹的评语是「Time will tell with that one」",
+      "evidence": "probably hoarded by Ma",
+      "byte_offset": 2546,
+      "hits": 1,
+      "evidence2": "Time will tell with that one",
+      "byte_offset2": 2772,
+      "hits2": 1
+    },
+    {
+      "pair": "Pamela ↔ Sam & Jo（身后场景）",
+      "relation": "她设想自己死后，二人会装垃圾袋清掉她的摆设与纪念物，届时会发现 Tin of Miriam",
+      "evidence": "Sam and Jo will fill bin bags",
+      "byte_offset": 4173,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela ↔ Alf & Miriam（幼时）",
+      "relation": "回忆中曾与 Alf、Miriam 同住蜡帆布军剩帐篷露营（快乐的 Lady Mellors 时期、在 Caswells 之前）；Alf 具体身份文面未明",
+      "evidence": "with Alf and Miriam, back in the happy Lady Mellors days",
+      "byte_offset": 3230,
+      "hits": 1
+    },
+    {
+      "pair": "Pamela ↔ Miriam（现状距离）",
+      "relation": "Miriam 已不再那么遥远、也不再被整齐隔离——大西洋不再隔在两人之间；若有人翻检罐中旧剪报，这距离还会进一步拉近",
+      "evidence": "no longer quite so distant",
+      "byte_offset": 5187,
+      "hits": 1,
+      "evidence2": "disturbing auction business",
+      "byte_offset2": 5508,
+      "hits2": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "value": "14",
+      "context": "章首孤行章号（随后场景标记 Pamela, Suffolk）",
+      "byte_offset": 10,
+      "hits": 1
+    },
+    {
+      "value": "seventy per cent",
+      "context": "Pamela 自认铁罐在谷仓的把握（七成）",
+      "byte_offset": 720,
+      "hits": 1
+    },
+    {
+      "value": "pre-pandemic",
+      "context": "GP 候诊室记忆的时间（疫情前）",
+      "byte_offset": 1116,
+      "hits": 1
+    },
+    {
+      "value": "marks out of ten",
+      "context": "Met Gala 版面的打分制（十分制）",
+      "byte_offset": 1448,
+      "hits": 1
+    },
+    {
+      "value": "a score of eight",
+      "context": "Mimi Mott 在 Met Gala 版面的得分（八分）",
+      "byte_offset": 1492,
+      "hits": 1
+    },
+    {
+      "value": "’73",
+      "context": "Tony 亲手建谷仓的年份（1973）",
+      "byte_offset": 3653,
+      "hits": 1
+    },
+    {
+      "value": "nine-year-old",
+      "context": "车祸后开始监护时 Jo 的年龄",
+      "byte_offset": 6560,
+      "hits": 1
+    },
+    {
+      "value": "just-over-the-limit",
+      "context": "Jo 父亲事故当日血检酒精程度（略超限）",
+      "byte_offset": 6920,
+      "hits": 1
+    },
+    {
+      "value": "thirty-five minutes",
+      "context": "Tony 说「I'm not dying」到去世的间隔",
+      "byte_offset": 8858,
+      "hits": 1
+    }
+  ],
+  "turning_point": "Pamela 在风暴中的谷仓里翻检 Miriam 旧藏，忧心拍卖风波与 Jo 会把 Miriam→Mimi 的关联揭开，决意找回铁罐；正要唤狗回屋时，谷仓门剧烈摇晃、仿佛有黑暗而强大的东西正强行闯入——全章由回忆转入不速之势逼近的悬念。"
+}

@@ -1,0 +1,178 @@
+{
+  "chapter": "ch15",
+  "text_file": "text/ch15_chapter_15.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "深夜（after eleven，Mimi 讲完最后一个故事、又添一杯酒之后）Woody 开车送 Jo 回家；她感激这趟便车、径直跳进前排副驾——Woody 小小惊讶的微笑暗示 Mimi 才是坐后排的人；车上她偷瞄他，觉得他有种乡野气（cowboy/farmer 气质），好感暗涌。",
+      "anchor": "His small, surprised smile suggested Mimi rides in the back.",
+      "byte_offset": 668,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "Jo 借酒胆问 Woody「为 Mimi 做什么」；他答：正对接她的房产团队、与律师来回、处理她想简化的各项事务，外加 Lordats 生产部门；并解释样张流程——Mimi 坚持直接对接 Lordats（寄给她、她读、改、签字放行），他看不到成品、只接「When?」催促电话，对方要把一切定稿锁进恒温地下室，「时间很紧」。",
+      "anchor": "They want everything finalized and locked away in their temperature-controlled basement.",
+      "byte_offset": 2548,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "Woody 透露 Mimi 此前已拒绝掉三名有经验的助理；说很高兴有 Jo——「你和 Mimi 很投缘……你把事情拉回了正轨。别走！」（随即自嘲「没给你压力」）——责任感混上 Jo 对自己隐瞒（subterfuge）的内疚，她转移话题。",
+      "anchor": "Rejecting three experienced assistants hasn’t exactly helped",
+      "byte_offset": 2870,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "Jo 说「我还以为你是她的保镖」，Woody 笑答「我只是照看 Mimi，如此而已」；她认为 Mimi Mott 能照顾好自己；Woody 被逗得低沉大笑，Jo 无端对他灿烂而笑、只盼回家路再长一点。",
+      "anchor": "I thought you might be her bodyguard.",
+      "byte_offset": 3258,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "Woody 问「明早再来？」，Jo 答要早到（担心睡梦里按掉闹钟），说 Mimi 想从吊灯水珠里榨出一个故事，他笃定「你做得到」；红灯时他近乎腼腆地承认读过她的样章——「黄色裙子？对，第一篇」——自称爱读谍战惊悚的读者，评价「好，真的好」；Jo 受触动：好久没觉得自己把事情做好、也好久没不加提防地接受赞美。",
+      "anchor": "I did read your sample copy,",
+      "byte_offset": 4133,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "快到家时 Jo 回望与 Callum 的过往：热恋五个月后第一次封锁期仓促同居于他 Clerkenwell 的一居室、结成「泡泡」；三年后泡泡狼狈破裂（Callum 企业派、听「manifest-your-success」播客 vs Jo 爱书、低收入、忧心 AI，她还总拿他跟外祖父 Tony 不利地比较）；Callum 爱上办公室某人时，她第一反应竟是解脱，随即恐慌住处无着。",
+      "anchor": "When Callum fell for someone in his office, her immediate, unexpected reaction was relief",
+      "byte_offset": 5503,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "车停在翻倒的垃圾桶旁、本地毒贩改装奥迪后面；Jo 抱着塞满电脑和笔记本的包下车、风卷头发，笑称「我觉得像灰姑娘！」；Woody 纠正「Mimi 的生活不是童话」，并首次透露她在纽约的核心圈子一直很担心——好几个月几乎没离开过公寓、在伦敦仍相当孤立；这场拍卖和 Jo 让她重焕生机但很快会结束；Jo 问她会不会后悔，他答「有可能」，但 Mimi 需要做这件事、年纪够大尽可随心所欲；Jo 接话「也够有钱……赌注更低」，说一半自觉失言停住。",
+      "anchor": "She barely left her apartment for months, and she’s still pretty isolated in London.",
+      "byte_offset": 6520,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "临别 Woody 说「She trusts you, Jo」，Jo 听出话里温柔的警告、想移开视线却做不到，承诺「我不会让 Mimi 失望」；他引擎不停、等着确认她进屋；Jo 进了门厅又冲出来——想坦白一切、或说「咱们就继续开吧」——车已疾驰而去；她剩下一阵奇怪的空落，和「Woody 把她看穿了」的不安。",
+      "anchor": "the unnerving sense that Woody saw straight through her.",
+      "byte_offset": 7883,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Jo ↔ Woody",
+      "relation": "他深夜开车送她回家（她感激便车、跳进前排——暗示 Mimi 才坐后排）；她对他渐生好感：自 Callum 之后处于低功耗模式的 libido 在他身边不受控地嗡鸣、盼回家路更长、结尾想追出去坦白。",
+      "quote": "her libido, in low-power mode since Callum, has started to hum disconcertingly in Woody’s proximity",
+      "byte_offset": 1388,
+      "hits": 1
+    },
+    {
+      "pair": "Woody ↔ Mimi",
+      "relation": "受雇为她办事（对接房产团队、律师、她想简化的事务、Lordats 生产部）；自述非保镖，只说照看她；对 Mimi 的进度执拗显出 weary，并向 Jo 转达她的孤立处境。",
+      "quote": "I look out for Mimi, that’s all",
+      "byte_offset": 3325,
+      "hits": 1
+    },
+    {
+      "pair": "Jo ↔ Mimi",
+      "relation": "雇佣/协作：Mimi 在拒掉三名有经验助理后留下 Jo；Woody 证言两人「natural rapport」且「She trusts you, Jo」；Jo 对自己的 subterfuge 心怀内疚（本章未说明具体内容）。",
+      "quote": "You and Mimi click – a natural rapport.",
+      "byte_offset": 2962,
+      "hits": 1
+    },
+    {
+      "pair": "Jo ↔ Callum",
+      "relation": "前伴侣：热恋五个月后第一次封锁期同居于其 Clerkenwell 一居室；三年后因三观不合分手；他爱上办公室某人；她始终拿他跟外祖父 Tony 不利地比较。",
+      "quote": "Callum corporate, a fan of manifest-your-success podcasts, Jo bookish and badly paid",
+      "byte_offset": 5284,
+      "hits": 1
+    },
+    {
+      "pair": "Jo ↔ Grandpa Tony",
+      "relation": "外/祖父，是她衡量「好男人」的标尺。",
+      "quote": "her yardstick of all that’s good in a man",
+      "byte_offset": 5458,
+      "hits": 1
+    },
+    {
+      "pair": "Jo ↔ Scott",
+      "relation": "室友；她怕回家时他那张黄鼠狼脸又扒在客厅窗口（稀疏山羊胡蹭玻璃、手不离游戏机）。",
+      "quote": "her housemate Scott’s weaselly face",
+      "byte_offset": 4687,
+      "hits": 1
+    },
+    {
+      "pair": "Mimi ↔ Lordats",
+      "relation": "Mimi 坚持样张直接对接（她读、改、签字放行）；Lordats 生产部不停催「When?」、要把一切定稿锁进恒温地下室。",
+      "quote": "Mimi’s insisting on dealing with Lordats directly for that.",
+      "byte_offset": 2345,
+      "hits": 1
+    },
+    {
+      "pair": "Mimi ↔ 纽约 inner circle",
+      "relation": "她在纽约的核心圈子一直担心她：数月几乎不出公寓、在伦敦仍相当孤立。",
+      "quote": "Her inner circle back in New York have been worried.",
+      "byte_offset": 6285,
+      "hits": 1
+    },
+    {
+      "pair": "Woody ↔ Kaia（Jo 的猜测，未证实）",
+      "relation": "他的手机不断弹进新消息，Jo 嫉妒地猜是「Darling Kaia」。",
+      "quote": "Darling Kaia, she thinks, with a prick of jealousy.",
+      "byte_offset": 1564,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "item": "15",
+      "context": "章号（正文前标题行）；本章 POV 为 Jo",
+      "byte_offset": 10,
+      "hits": 1
+    },
+    {
+      "item": "after eleven",
+      "context": "Mimi 讲完最后一个故事、又添一杯酒之后（上车时间，深夜）",
+      "byte_offset": 441,
+      "hits": 1
+    },
+    {
+      "item": "tomorrow morning",
+      "context": "Woody 问「Back again tomorrow morning?」；Jo 答要早到",
+      "byte_offset": 3759,
+      "hits": 1
+    },
+    {
+      "item": "three experienced assistants",
+      "context": "Mimi 此前拒绝掉的三名有经验助理",
+      "byte_offset": 2880,
+      "hits": 1
+    },
+    {
+      "item": "first lockdown",
+      "context": "Jo 与 Callum 仓促同居的时间点",
+      "byte_offset": 4975,
+      "hits": 1
+    },
+    {
+      "item": "five whirlwind months",
+      "context": "Jo 与 Callum 同居前的交往时长",
+      "byte_offset": 4996,
+      "hits": 1
+    },
+    {
+      "item": "one-bed",
+      "context": "Callum 在 Clerkenwell 的一居室（one-bed flat）",
+      "byte_offset": 5153,
+      "hits": 1
+    },
+    {
+      "item": "three years later",
+      "context": "「泡泡」破裂时间（同居三年后）",
+      "byte_offset": 5184,
+      "hits": 1
+    }
+  ],
+  "turning_point": "临别 Woody 一句「She trusts you, Jo」温和点破，Jo 想追出去坦白（或让他继续开）却被疾驰而去的车落下——她确信自己一直隐瞒的 subterfuge 已被他看穿。"
+}
