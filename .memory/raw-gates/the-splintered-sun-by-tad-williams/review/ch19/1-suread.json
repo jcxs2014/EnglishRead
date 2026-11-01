@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Xaniko 在 Threadbare Hall 大门前叮嘱 Flann、Mearna、Diarban、Ivar 快而谨慎地赶路，说“小杂种”与其母可能已听到抢劫的风声。",
+    "anchor": "Xaniko said to Flann, Mearna, Diarban, and Ivar at Threadbare Hall",
+    "start": 54,
+    "end": 120,
+    "type": "event"
+  },
+  {
+    "fact": "双方实力悬殊：Flann 手下只有一百名匪徒（hundred bandits），Scaeth 有二千名装备精良的雇佣兵。",
+    "anchor": "pitting our hundred bandits against his two thousand well-armed mercenaries",
+    "start": 5232,
+    "end": 5307,
+    "type": "number"
+  },
+  {
+    "fact": "Xaniko 很久以前与 Nakkiga 的诺恩女王（Norn Queen）决裂，离开后再不能回去，Sitha 一族也不接纳他，他最终来到 Crannhyr。",
+    "anchor": "Xaniko had a falling out with the Norn Queen, that ancient horror in Nakkiga",
+    "start": 4161,
+    "end": 4237,
+    "type": "relation"
+  },
+  {
+    "fact": "Flann 在山脊发现大批士兵，认出 Holly 徽记，判断是 First Lord（Phelan）的人，正像围猎的赶兽人一样扇面下山搜索。",
+    "anchor": "I believe I saw the Holly badge, so they are likely the First Lord",
+    "start": 8957,
+    "end": 9023,
+    "type": "event"
+  },
+  {
+    "fact": "Flann 想起 Tethtain 祖父那一代此处有座旧铜矿，带众人躲进这座废弃矿坑当藏身处／据点。",
+    "anchor": "there was an old copper mine near here during Tethtain",
+    "start": 10722,
+    "end": 10776,
+    "type": "event"
+  },
+  {
+    "fact": "矿坑外室只有约两口棺材并列那么宽（two coffins），屋顶很低，连挥剑的空间都没有。",
+    "anchor": "The chamber was about the width of two coffins laying side by side",
+    "start": 15502,
+    "end": 15568,
+    "type": "number"
+  },
+  {
+    "fact": "一条大獒犬爬进矿洞口，Mearna 闻到恶臭的侧道里涌出 bukken（goblins），把獒犬活活撕碎；Ivar 大喊“Goblins! Run, damn it!”",
+    "anchor": "the terrible sound of the mastiff being torn to pieces alive",
+    "start": 21268,
+    "end": 21328,
+    "type": "event"
+  },
+  {
+    "fact": "Flann 攀上坍塌的石堆垂下编好的藤索，众人从一处半塌的通风竖井爬出地面，再用大石封住洞口。",
+    "anchor": "A half-collapsed airshaft. Thank all the gods for it.",
+    "start": 31734,
+    "end": 31787,
+    "type": "event"
+  }
+]

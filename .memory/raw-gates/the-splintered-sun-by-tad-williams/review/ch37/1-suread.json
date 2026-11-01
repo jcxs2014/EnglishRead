@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "弗拉恩告诉薇德拉，乌鸦团一部分人将随他顺流而下，但她和萨尼科都不去。",
+    "anchor": "A part of our company will go downriver with me, yes—but not you or Xaniko.",
+    "start": 1420,
+    "end": 1495,
+    "type": "event"
+  },
+  {
+    "fact": "薇德拉在穆拉奇丘陵营地已待了超过一个星期（a sennight），几乎没见到弗拉恩。",
+    "anchor": "She had been more than a sennight in the Mullachi Hills camp",
+    "start": 165,
+    "end": 225,
+    "type": "number"
+  },
+  {
+    "fact": "贝尔森特夫人被亲生儿子斯凯斯的佣兵从自己卧室掳走，押到边境营地。",
+    "anchor": "Have you lost your wits, snatching me out of my own bedchamber",
+    "start": 22411,
+    "end": 22473,
+    "type": "event"
+  },
+  {
+    "fact": "斯凯斯承认他命人打断了维斯皮利斯的腿，好让这个占卜师无法逃跑。",
+    "anchor": "I have particular need of him just now. So I had his legs broken.",
+    "start": 29084,
+    "end": 29149,
+    "type": "event"
+  },
+  {
+    "fact": "维斯皮利斯供出与两个孩子结盟的诺恩族（Hikeda’ya）是“流亡者萨尼科”。",
+    "anchor": "Xaniko, my lord. Sometimes called Xaniko the Exile.",
+    "start": 33099,
+    "end": 33150,
+    "type": "event"
+  },
+  {
+    "fact": "弗拉恩说，从北方丘陵东至巴雷兰河的土地是妻子带来的嫁妆。",
+    "anchor": "east to the River Baraillean, came to me as my wife’s dowry.",
+    "start": 3938,
+    "end": 3998,
+    "type": "number"
+  },
+  {
+    "fact": "弗拉恩把妻子莫伊琳（Moirin）的遭遇归咎于哈根，却拒绝再说下去。",
+    "anchor": "“Hagan,” he said. “May the gods destroy him utterly.”",
+    "start": 5511,
+    "end": 5564,
+    "type": "relation"
+  },
+  {
+    "fact": "萨尼科说自己不是好父亲，独子生前多年不与他说话，世上还有个他不认识的孙女。",
+    "anchor": "And somewhere in this world I have a grandchild, but I do not know her",
+    "start": 14179,
+    "end": 14249,
+    "type": "relation"
+  }
+]

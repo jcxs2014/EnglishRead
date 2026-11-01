@@ -1,0 +1,58 @@
+[
+ {
+  "fact": "里夫哈根带一打（a dozen）手下进前门、分列台阶两侧，另有四对壮汉抬他的轿子；Xaniko 反而下阶相迎。",
+  "anchor": "A dozen of the reeve’s men had already entered the front gates",
+  "start": 456,
+  "end": 518,
+  "type": "number"
+ },
+ {
+  "fact": "薇德拉发现塔室后墙挂毯一角被掀起，后面藏着一道窄门与暗梯；她摸黑下去，落在餐厅上方的乐师廊，偷听到 Xaniko 与哈根的密谈。",
+  "anchor": "the edge of a hanging on the back wall of the tower room was rumpled",
+  "start": 2763,
+  "end": 2831,
+  "type": "event"
+ },
+ {
+  "fact": "Xaniko 向哈根“告密”：那个自称伊万王子的人打算要求泰斯坦国王立他为继承人——这其实是引他上钩的饵。",
+  "anchor": "plans to demand that King Tethtain make him heir to the throne",
+  "start": 7547,
+  "end": 7609,
+  "type": "event"
+ },
+ {
+  "fact": "Xaniko 出示一枚自吞其尾的蛇形戒指，即斯卡斯的印章戒指，作为自己情报值钱的凭证，并坚持要 Phelan 整批买下。",
+  "anchor": "Is that the signet ring of Scaeth, the First Lord’s brother?",
+  "start": 10351,
+  "end": 10411,
+  "type": "event"
+ },
+ {
+  "fact": "阿拉斯塔报称兵马已备：五十名自家骑士、五百名雇佣兵，辎重队伍之长，头一批人上船时最后一批还在出 Abaingeat。",
+  "anchor": "Fifty of my own knights, five hundred mercenaries, and a train of supplies",
+  "start": 11810,
+  "end": 11884,
+  "type": "number"
+ },
+ {
+  "fact": "跪着的巨汉是阿拉斯塔之子艾丹，比他父亲还高两手、肌肉虬结，被斯卡斯当众取笑为“怪物”。",
+  "anchor": "“My son, Aidan,” he said. “He is well-trained and anxious to prove his loyalty",
+  "start": 12957,
+  "end": 13035,
+  "type": "relation"
+ },
+ {
+  "fact": "贝丽森特夫人是斯卡斯的母亲；她插话劝避免大战，被儿子当众斥退，只得低头请罪、改口称“my lord”。",
+  "anchor": "Though a part of her flared with anger at being reproached in front of lesser nobles",
+  "start": 19227,
+  "end": 19311,
+  "type": "relation"
+ },
+ {
+  "fact": "斯卡斯命阿拉斯塔率军守 Baraillean 河，从 Dun Branse 到 Dun Cuimhne 一线巡逻，务必截住伊万：最好活捉，否则要他的头。",
+  "anchor": "to the River Baraillean and keep watch up and down from Dun Branse down to Dun Cuimhne",
+  "start": 16067,
+  "end": 16153,
+  "type": "event"
+ }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "维德拉醒来发现自己斗篷上只剩她一人：戴利又不见了。",
+    "anchor": "she realized that she was currently the only person lying on her cloak. Daley had vanished again.",
+    "start": 279,
+    "end": 376,
+    "type": "event"
+  },
+  {
+    "fact": "柯纳尔把戴利带回火堆，警告维德拉：看不住这孩子爬高树，迟早要把他埋在树下。",
+    "anchor": "if you cannot keep your friend out of tall trees, there is a good chance you’ll bury him beneath one",
+    "start": 6913,
+    "end": 7013,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩吩咐柯纳尔给年轻哨兵罗里（Rory）再配一名同伴，免得他溜去山下村子会姑娘。",
+    "anchor": "That idiot boy is in love with a girl in the village down-valley",
+    "start": 8206,
+    "end": 8270,
+    "type": "event"
+  },
+  {
+    "fact": "梅尔娜（Mearna）自称曾是家族世代持有土地的领主夫人，自从泰特坦国王（King Tethtain）离国后境况变坏。",
+    "anchor": "I was mistress of lands my family had held for generations",
+    "start": 14615,
+    "end": 14673,
+    "type": "relation"
+  },
+  {
+    "fact": "大橡树上垂下一架绳梯，几乎触地，更多绿褐衣装的人顺梯而下。",
+    "anchor": "a rope ladder, unrolling until it almost touched the ground",
+    "start": 18250,
+    "end": 18309,
+    "type": "event"
+  },
+  {
+    "fact": "为弗兰恩归来，营地宰杀、处理并挂起几头鹿，准备宴席。",
+    "anchor": "Several deer had been killed, dressed, and hung",
+    "start": 19640,
+    "end": 19687,
+    "type": "event"
+  },
+  {
+    "fact": "维德拉此前与朝圣者一起度过了提亚加月（Tiyagar-month）的大半时间。",
+    "anchor": "Vedra had spent the best part of Tiyagar-month with the pilgrims",
+    "start": 21139,
+    "end": 21203,
+    "type": "number"
+  },
+  {
+    "fact": "提卡（Tika）告诉维德拉：克兰希尔是黑暗怪异之地，满是女巫与旧恶物，她们要为两个孩子唱保护歌。",
+    "anchor": "Crannhyr dark place—strange place, too. Full of witches and old, bad things.",
+    "start": 21818,
+    "end": 21894,
+    "type": "event"
+  }
+]

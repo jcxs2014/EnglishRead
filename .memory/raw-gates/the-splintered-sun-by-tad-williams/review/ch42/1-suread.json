@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Vespillis 坐在 Scaeth 第二好的抬轿里被抬上陡坡，每一阵颠簸都让他残废的双腿剧痛。",
+    "anchor": "clung to the slender columns that held up the roof",
+    "start": 60,
+    "end": 110,
+    "type": "event"
+  },
+  {
+    "fact": "Sin’s Shadow 给他的那件法物由他转手交给那个小女孩，他靠它在全黑中认出一个针尖大的微光。",
+    "anchor": "It had to be the talisman Sin’s Shadow’s had given him",
+    "start": 3053,
+    "end": 3107,
+    "type": "relation"
+  },
+  {
+    "fact": "领头的 Tynon 与有马者先走，其余约三四十人（three or four score，合六十至八十人）押着驴车辎重随后。",
+    "anchor": "three or four score strong and slowed by donkey carts",
+    "start": 4852,
+    "end": 4905,
+    "type": "number"
+  },
+  {
+    "fact": "Xaniko 说 Daley 因怕 Vedra 受害而躲着他，并猜那种把两人拉到一起的联系正是当初相遇的原因。",
+    "anchor": "I suspect that whatever that might be is what drew you together",
+    "start": 7256,
+    "end": 7319,
+    "type": "relation"
+  },
+  {
+    "fact": "Vespillis 从坡上望见下方那条窄谷只有约一百步宽。",
+    "anchor": "was only a hundred paces or so across",
+    "start": 19986,
+    "end": 20023,
+    "type": "number"
+  },
+  {
+    "fact": "Giolla 说那座营地至少还在半弗隆之外，抬轿的人已经累了一整天。",
+    "anchor": "The camp is still at least half a furlong away",
+    "start": 13595,
+    "end": 13641,
+    "type": "number"
+  },
+  {
+    "fact": "Giolla 的侦察兵回报发现一座几乎空掉的亡命徒营地，那里至少住过几十个人。",
+    "anchor": "It’s mostly deserted, but there must have been several dozen people",
+    "start": 11532,
+    "end": 11599,
+    "type": "event"
+  },
+  {
+    "fact": "Xaniko 在石上准备召唤 Daley 时中箭倒地，胸口插着一支草原人的黑箭，Vedra 双手是血。",
+    "anchor": "A black grassland arrow stood out from his chest",
+    "start": 24359,
+    "end": 24407,
+    "type": "event"
+  }
+]

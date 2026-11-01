@@ -1,0 +1,51 @@
+[
+  {
+    "fact": "Vedra 在仓库屋梁上发现一个白脸男孩，抓起掉落的蜡烛举向他，喝令他出去。",
+    "anchor": "“Get out!” she cried. “I don’t know what you are, but you can’t be",
+    "start": 496,
+    "end": 562,
+    "type": "event"
+  },
+  {
+    "fact": "Vedra 把从佩吉恩太太家拿来的梨子肉桂蛋糕掰成两半，把一半放在一块干净的碎屋瓦上。",
+    "anchor": "then broke the gloriously scented sweet in half and placed one piece on a",
+    "start": 3862,
+    "end": 3935,
+    "type": "event"
+  },
+  {
+    "fact": "男孩伸手接蛋糕时指尖触到 Vedra 的手，Vedra 立刻看见烈火焚身并栽倒。",
+    "anchor": "grip, had flung her face-first into a bonfire. For a moment she could feel",
+    "start": 6604,
+    "end": 6678,
+    "type": "event"
+  },
+  {
+    "fact": "Vedra 问男孩的名字，男孩回答自己叫 Daley。",
+    "anchor": "He looked at her from under his pale lashes. “Daley,” he said.",
+    "start": 8307,
+    "end": 8369,
+    "type": "event"
+  },
+  {
+    "fact": "Daley 说自己的母亲已经死了，此前跟着一伙叫“mummers”的艺人四处流浪。",
+    "anchor": "say, “My mother is dead,” and the dreadful look of pain on his face",
+    "start": 9412,
+    "end": 9479,
+    "type": "relation"
+  },
+  {
+    "fact": "Vedra 想起佩吉恩给过她三枚铜板，够在市场上买不少食物。",
+    "anchor": "that Pegeen had given her three coppers, and that would buy quite a lot",
+    "start": 8767,
+    "end": 8838,
+    "type": "number"
+  },
+  {
+    "fact": "Vedra 留下 Daley 过夜，把斗篷给他当铺盖；Daley 把斗篷横竖折成一条窄垫，然后蜷在上面睡下。",
+    "anchor": "and folded it carefully both widthwise and lengthwise, so that it made a single",
+    "start": 10206,
+    "end": 10285,
+    "type": "event"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "薇德拉被猎犬扑倒后苏醒，按住她肩膀的人自称卡登（Caden），说自己一箭射穿了那怪物心脏；她原以为他是弗拉恩的水手中的瑟巴尔（Cerball）。",
+    "anchor": "Close, girl. I’m Caden,” he said, and pointed to something she could not see.",
+    "start": 1333,
+    "end": 1410,
+    "type": "event"
+  },
+  {
+    "fact": "柯纳尔（Conal）指出猎犬眼窝里还有第二支箭，那支才是他所射，两兄弟当场争功。",
+    "anchor": "Yes, that one in the eye’s mine,” said Conal.",
+    "start": 2466,
+    "end": 2511,
+    "type": "event"
+  },
+  {
+    "fact": "伊瓦尔（Ivar）说等泰农（Tynon）与斥候队回来，新营地人数将近三个二十（three score），高橡营（High Oak Camp）还留着约一半人，多为妇孺。",
+    "anchor": "When Tynon and his scouting parties come back, we will be close to three score here,",
+    "start": 4611,
+    "end": 4695,
+    "type": "number"
+  },
+  {
+    "fact": "泰农用木棍在泥地上画线讲解地形：竖线是巴拉伊兰河（River Baraillean），即赫尔尼斯提尔东界；河东的邓布兰斯（Dun Branse）与南面的邓奎姆内（Dun Cuimhne）两座要塞都归第一领主费兰（Phelan）控制。",
+    "anchor": "This line stands for the River Baraillean,” he said. “Hernystir’s eastern border.",
+    "start": 8866,
+    "end": 8947,
+    "type": "event"
+  },
+  {
+    "fact": "提卡（Tika）带妇女们用橡树瘿（wasp-apples／oak galls）煮黑色染料，为士兵做夜行外衣，每件内外面各画蛇与鸡蛇（cockatrice），可两面穿。",
+    "anchor": "Wasp apples are oak galls. They make a good black dye.",
+    "start": 13106,
+    "end": 13160,
+    "type": "event"
+  },
+  {
+    "fact": "薇德拉质问扎尼科（Xaniko）为何冷淡她；他答当初不选她而选戴利（Daley）去梦路，是因为她去会危险得多。",
+    "anchor": "I chose the boy because you would be in much greater danger.",
+    "start": 17455,
+    "end": 17515,
+    "type": "relation"
+  },
+  {
+    "fact": "柯纳尔汇报已除掉三头白猎犬，其中一头是卡登在一百步外射杀的；第四头追踪两天后才发现它正尾随弗拉恩一行人。",
+    "anchor": "one that my brother Caden dispatched at a hundred paces",
+    "start": 23005,
+    "end": 23060,
+    "type": "number"
+  },
+  {
+    "fact": "弗拉恩定下战法：从暗处骚扰、打了就退，并让草原来的雇佣兵以为是哈根（Hagan）的兵，使他们恐惧且分不清敌人在哪。",
+    "anchor": "We want the grasslanders frightened and uncertain as to who their enemies are",
+    "start": 25661,
+    "end": 25738,
+    "type": "event"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "维德拉当着众人向弗兰恩声明自己与戴利是姐弟：他是她弟弟。",
+    "anchor": "Of course I do! He’s my brother! He’ll come down if you let him.",
+    "start": 2585,
+    "end": 2649,
+    "type": "relation"
+  },
+  {
+    "fact": "柯纳尔（Conal）抓住戴利细瘦的光脚踝，戴利猛力挣脱、丢了一只鞋，跳到另一根树枝上。",
+    "anchor": "the boy yanked himself free, losing his shoe in the process, and jumped to another branch",
+    "start": 3740,
+    "end": 3829,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩从那只鞋里抽出边缘破烂、被雨水涂抹的羊皮纸，把它举到火光下看。",
+    "anchor": "Flann carefully extricated the parchment, which was ragged around the edges, in places smudged and rain-smeared",
+    "start": 6298,
+    "end": 6409,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩宣布：弄清密信来历之前，两个孩子不能离开。",
+    "anchor": "Until I find that out, they cannot leave.",
+    "start": 8199,
+    "end": 8240,
+    "type": "event"
+  },
+  {
+    "fact": "佩吉恩（Pegeen）紧紧拥抱维德拉后，不带两个孩子，随朝圣队伍离开。",
+    "anchor": "She pulled Vedra to her in a swift, strong hug",
+    "start": 11675,
+    "end": 11721,
+    "type": "event"
+  },
+  {
+    "fact": "提农（Tynon）抱怨弗兰恩为造声势烧掉了他们全部灯油储备的四分之一。",
+    "anchor": "You used up a quarter of our whole supply just to make a show",
+    "start": 13090,
+    "end": 13151,
+    "type": "number"
+  },
+  {
+    "fact": "维德拉从衣领里取出一枚系在皮绳上的红宝石戒指交给弗兰恩，弗兰恩让他们辨认戒指上盘绕的蛇形纹章。",
+    "anchor": "the girl reached into the neck of her tunic and carefully withdrew something on a leather thong",
+    "start": 16439,
+    "end": 16534,
+    "type": "event"
+  },
+  {
+    "fact": "这趟夜路走了一个多小时（比弗兰恩说的一小时更久），众人抵达 High Oak Camp，维德拉铺开斗篷便睡着了。",
+    "anchor": "the walk took a good bit longer than an hour",
+    "start": 21245,
+    "end": 21289,
+    "type": "event"
+  }
+]

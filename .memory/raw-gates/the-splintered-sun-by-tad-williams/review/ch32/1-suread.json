@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Xaniko 说这些猎犬是女王 Utuk’ku 放出来追他的——他放弃头衔与继承权后，Hamakha 族视其为叛国。",
+    "anchor": "My queen set them on me. They chased me down from the Nornfells",
+    "start": 651,
+    "end": 714,
+    "type": "relation"
+  },
+  {
+    "fact": "猎犬在 Stormspike 山中被人培育了数百代，比 Rimmersmen 的战獒还大，嗅觉极灵且几乎不知疲倦。",
+    "anchor": "they have been bred for hundreds of generations, shaped to find, run down, and kill",
+    "start": 1353,
+    "end": 1436,
+    "type": "number"
+  },
+  {
+    "fact": "Vedra 的梦里，Ewain 王子在夜战中被一支羽箭射中后背倒下。",
+    "anchor": "she saw the feathered shaft jutting from his back",
+    "start": 8593,
+    "end": 8642,
+    "type": "event"
+  },
+  {
+    "fact": "第二夜嚎叫从两个方向同时传来，Xaniko 发现队伍少了一支火把——Mearna 失踪了。",
+    "anchor": "We are spread too far apart already, and someone is missing—we are short one torch",
+    "start": 15653,
+    "end": 15735,
+    "type": "event"
+  },
+  {
+    "fact": "他们在坡下找到 Mearna 的灰斑马倒地已死，一匹白如鬼魂的巨犬前腿搭在尸体上，吻部沾血。",
+    "anchor": "lay a gray, awkward shape that Vedra only slowly realized was Mearna’s dapple horse",
+    "start": 18529,
+    "end": 18612,
+    "type": "event"
+  },
+  {
+    "fact": "混战中 Long Liam 抓住猎犬尾巴，把它抡了两圈扔进黑暗里。",
+    "anchor": "Liam had grabbed the hound’s tail in his powerful hands",
+    "start": 21284,
+    "end": 21339,
+    "type": "event"
+  },
+  {
+    "fact": "他们在灌木丛后发现 Mearna 瘫倒在地，Vedra 一度以为她已和那匹马一样死了（随即 Xaniko 说她还有气息，只是失去知觉）。",
+    "anchor": "at first Vedra thought Mearna must be as dead as her horse",
+    "start": 22184,
+    "end": 22242,
+    "type": "event"
+  },
+  {
+    "fact": "结尾：蹲伏在巨石顶端的那匹白犬脸上没有伤痕——它并非方才那匹——直向 Vedra 扑下。",
+    "anchor": "this creature’s face was unmarked. It was not the same hound",
+    "start": 24025,
+    "end": 24085,
+    "type": "event"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Xaniko 揭开黑布给 Vedra 看一面无柄的 dragon-glass（Witness），并严禁她在未经允许时触碰",
+    "anchor": "He quickly draped the black cloth over the mirror again. “Never touch the Witness without my permission.",
+    "start": 3916,
+    "end": 4020,
+    "type": "event"
+  },
+  {
+    "fact": "Mollie 是 Xaniko 家的管家，一直照看 Vedra 吃饭",
+    "anchor": "“Mollie is a very sensible mortal,” he said. “I am glad to hear you are not hungry.",
+    "start": 1441,
+    "end": 1524,
+    "type": "relation"
+  },
+  {
+    "fact": "Xaniko 说或许需要 Vedra 会用 Witness，以免 Count Scaeth 杀死 Tethtain 唯一真正的继承人 Prince Ewain",
+    "anchor": "if we are going to keep Count Scaeth from killing Tethtain’s only true heir, Prince Ewain",
+    "start": 6022,
+    "end": 6111,
+    "type": "event"
+  },
+  {
+    "fact": "Phelan 的军队 just two days ago 曾到 Crannhyr，Xaniko 耗尽力量遮蔽了这所房子",
+    "anchor": "drawing a curtain over this place when Phelan’s troops came to Crannhyr just two days ago",
+    "start": 7762,
+    "end": 7851,
+    "type": "number"
+  },
+  {
+    "fact": "距 Flann 一行人离开 Xaniko 家已近 a sennight（约七日）",
+    "anchor": "Almost a sennight had passed since Flann and the others had left Xaniko’s house",
+    "start": 10876,
+    "end": 10955,
+    "type": "number"
+  },
+  {
+    "fact": "Daley 因屋顶湿滑被禁攀登，转而探察这所会自行变化的房子；Xaniko 承认有些部分他也没见过",
+    "anchor": "There are parts of this house I have never seen, and others I hope never to see again.",
+    "start": 13366,
+    "end": 13452,
+    "type": "event"
+  },
+  {
+    "fact": "Xaniko 教她 Dream Road（Yumamiji）不是地点，须在自身记忆里造一个能随时找回的「安全之地」当地图",
+    "anchor": "On the Yumamiji, you do not find such a thing, child—you make it.",
+    "start": 16686,
+    "end": 16751,
+    "type": "event"
+  },
+  {
+    "fact": "Vedra 忆起离家 half a furlong 上坡处的小树林作安全记忆，随后跌入黑暗；Daley 碰她手臂也被卷入，末了陷进灰烬",
+    "anchor": "Then his fingers touched her arm and the world suddenly went away.",
+    "start": 27587,
+    "end": 27653,
+    "type": "event"
+  }
+]

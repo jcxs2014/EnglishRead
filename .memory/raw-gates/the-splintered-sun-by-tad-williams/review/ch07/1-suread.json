@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Daley 推开庄园厨房的门，溜进外面的庭院花园。",
+    "anchor": "He pushed the door open and slipped out into what turned out to be a beautiful courtyard garden",
+    "start": 1502,
+    "end": 1597,
+    "type": "event"
+  },
+  {
+    "fact": "Daley 抓住塔墙上一把老藤蔓拽了拽试其是否结实，随后开始攀爬塔墙。",
+    "anchor": "Almost without thinking, Daley grabbed a handful of vines and gave them a yank to test them",
+    "start": 4042,
+    "end": 4133,
+    "type": "event"
+  },
+  {
+    "fact": "Bellicent 的姐姐 Yuvenia 成为获胜者 Tethtain 的床伴并为他生下一个儿子，即现任 First Lord Phelan。",
+    "anchor": "Bellicent’s older sister Yuvenia had found her way to the victorious Tethtain’s bed and had given him a son",
+    "start": 2108,
+    "end": 2215,
+    "type": "relation"
+  },
+  {
+    "fact": "亮着灯的拱窗位于塔身三分之二高处。",
+    "anchor": "Two-thirds of the way up the turret, and still with no conscious plan, he angled his climb toward that light",
+    "start": 6235,
+    "end": 6343,
+    "type": "number"
+  },
+  {
+    "fact": "Daley 把 Starling 放在秘书柜上的那枚独颗红宝石戒指认作自己母亲的戒指。",
+    "anchor": "the fiery glint of the solitary crimson stone that decorated it seemed just like his mother’s ring",
+    "start": 10731,
+    "end": 10829,
+    "type": "event"
+  },
+  {
+    "fact": "Vedra 的尖叫从下方大厅传来，Daley 惊得几乎从窗台跌落。",
+    "anchor": "The cry was Vedra’s, Daley realized a panicked instant later, and it startled him so badly",
+    "start": 12623,
+    "end": 12713,
+    "type": "event"
+  },
+  {
+    "fact": "Daley 用三根手指够到羊皮纸，把羊皮纸连同戒指一起从铁栅的缝隙里抽出来。",
+    "anchor": "until three of his fingers touched it, he then pulled the parchment toward him",
+    "start": 14262,
+    "end": 14340,
+    "type": "event"
+  },
+  {
+    "fact": "Daley 把戒指朝夜色中猛力抛出去，越过外墙扔到塔外。",
+    "anchor": "he hurled the ring far out into the night, over the outer wall",
+    "start": 15888,
+    "end": 15950,
+    "type": "event"
+  }
+]

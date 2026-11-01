@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Daley 在异象中站在燃烧的马车前，先听见母亲、后听见 Vedra 呼救，深信火是自己放的",
+    "anchor": "It was his mother, shouting in fear, and Daley himself had set fire to the wagon",
+    "start": 2161,
+    "end": 2241,
+    "type": "event"
+  },
+  {
+    "fact": "Vedra 在灰烬与火环中找 Daley，火太烫使她无法穿过那道火圈",
+    "anchor": "And at the center of the blazing ring, on all fours and weeping, was Daley.",
+    "start": 6792,
+    "end": 6867,
+    "type": "event"
+  },
+  {
+    "fact": "一个声音叫 Daley「Let go」并让他伸手，握住他的手把他拉回，还答应去找 Vedra",
+    "anchor": "“Reach out. I cannot touch you if you do not reach out to me.”",
+    "start": 10548,
+    "end": 10610,
+    "type": "event"
+  },
+  {
+    "fact": "Vedra 在 Xaniko 图书馆醒来；Daley 因碰她手臂而共享了异象；Xaniko 强调真 Witness 一直盖着布",
+    "anchor": "The child here came and touched you while you were engaged in the exercise I set for you.",
+    "start": 13134,
+    "end": 13223,
+    "type": "event"
+  },
+  {
+    "fact": "管家 Mollie 听见无人听见的召唤，断定 lord 的客人已到，催众人干活并命 Vedra 去 audience chamber",
+    "anchor": "“We must get to work,” she said to the other kitchen staff. “Our lord’s guests are here.”",
+    "start": 16897,
+    "end": 16986,
+    "type": "event"
+  },
+  {
+    "fact": "来客之一 Father Rumon 秃头、身形瘦小，面容已过青年 decades",
+    "anchor": "The priest pushed back his hood, revealing a shaved head and a face decades past youth.",
+    "start": 19028,
+    "end": 19115,
+    "type": "number"
+  },
+  {
+    "fact": "另一位「女祭司」其实是由 Prince Ewain 假扮，他脱下兜帽抱怨这一路必须沉默",
+    "anchor": "the priestess was in truth a young man with a fine-boned face and a disgruntled expression",
+    "start": 19534,
+    "end": 19624,
+    "type": "relation"
+  },
+  {
+    "fact": "Xaniko 自称原属 Hikeda’ya、今为 Ewain 的忠臣，称 Vedra of Harcha 是奇才 scryer 且已誓助其事业",
+    "anchor": "The young woman is Vedra, originally of Harcha.",
+    "start": 20541,
+    "end": 20588,
+    "type": "relation"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Tace Caddoc 带着 Prince Ewain 其余的顾问一同起身，列队走出议事厅。",
+    "anchor": "rose as one and left the council chamber in single file, silent and uneasy",
+    "start": 105,
+    "end": 179,
+    "type": "event"
+  },
+  {
+    "fact": "Prince Ewain 当面斥责导师 Rumon 不得替他发言。",
+    "anchor": "You do not speak for me, Rumon.” The prince was having trouble keeping his voice calm",
+    "start": 866,
+    "end": 951,
+    "type": "event"
+  },
+  {
+    "fact": "祭司 Rumon 是自幼陪伴 Prince Ewain 的导师。",
+    "anchor": "I have known you since you were a child",
+    "start": 3233,
+    "end": 3272,
+    "type": "relation"
+  },
+  {
+    "fact": "Rumon 说 Scaeth 的兵力是他们的十倍，且还不算 Phelan 那支更大的军队。",
+    "anchor": "He has ten times our forces, and that is leaving out the Older Bastard’s even larger army",
+    "start": 2721,
+    "end": 2810,
+    "type": "number"
+  },
+  {
+    "fact": "Rumon 改口，说经过反复思量他认定 Ewain 是对的。",
+    "anchor": "After much thought and worry, I have decided that you are right",
+    "start": 5585,
+    "end": 5648,
+    "type": "event"
+  },
+  {
+    "fact": "Rumon 建议 Ewain 走水路而不是陆路，并且极秘密地前往。",
+    "anchor": "You should travel by water instead of land—and in deep, deep secrecy",
+    "start": 8517,
+    "end": 8585,
+    "type": "event"
+  },
+  {
+    "fact": "Rumon 提议把第一站定在 Crannhyr。",
+    "anchor": "I think we should make our first stop in Crannhyr",
+    "start": 9484,
+    "end": 9533,
+    "type": "event"
+  },
+  {
+    "fact": "有人往 Ewain 门缝下塞了一张纸条，至今无人知道是谁塞的。",
+    "anchor": "We still do not know who slipped that note under your door",
+    "start": 9907,
+    "end": 9965,
+    "type": "event"
+  }
+]

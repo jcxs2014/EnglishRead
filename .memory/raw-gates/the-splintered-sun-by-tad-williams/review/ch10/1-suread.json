@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "佩吉恩（Pegeen）决定带维德拉（Vedra）和戴利（Daley）一同随她去克兰希尔（Crannhyr）的圣米尔查大神庙朝圣，次日出发。",
+    "anchor": "had been to declare that the children should come with her on pilgrimage to the great Temple of Holy Mircha",
+    "start": 993,
+    "end": 1100,
+    "type": "event"
+  },
+  {
+    "fact": "维德拉对戴利有亲情牵绊：她觉得这男孩真像是自己的亲弟弟。",
+    "anchor": "But she also felt a bond with him, as if he truly was her younger brother",
+    "start": 2652,
+    "end": 2725,
+    "type": "relation"
+  },
+  {
+    "fact": "启程前维德拉想起自己把佩吉恩给的铜币落在了藏钱的地方，没能带走。",
+    "anchor": "had been in such a hurry to escape that she had left them in the place she had hidden",
+    "start": 9280,
+    "end": 9365,
+    "type": "event"
+  },
+  {
+    "fact": "伍德（Wormwood）林间空地窄口处，一道火墙突然横扫路面，像拉上的帷幕一样封住前路。",
+    "anchor": "a river of flame suddenly swept across the road at the narrow end, like a curtain being drawn",
+    "start": 20251,
+    "end": 20344,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩隔着火墙声称两侧树中各有 three score 名手下，每人都能在五十步外射穿一枚银币。",
+    "anchor": "Yes, there are three score of them on either side of you",
+    "start": 21060,
+    "end": 21116,
+    "type": "number"
+  },
+  {
+    "fact": "扮作僧侣的人喊出“Now!”，至少半打武装人员从阿博特马车里冲出，张弓搭箭。",
+    "anchor": "at least half a dozen men came spilling out of the wagon, several with bows drawn",
+    "start": 24412,
+    "end": 24493,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩（Flann）从缴获的箱中取出一只，走到佩吉恩面前把它放在她脚下，让她送去神庙。",
+    "anchor": "Flann picked up one of the chests, staggering just a little under its weight",
+    "start": 29365,
+    "end": 29441,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩转身走开时，维德拉猛然发觉戴利已经不见了。",
+    "anchor": "As the bandit chieftain turned his back on Pegeen and walked away, Vedra abruptly realized",
+    "start": 33600,
+    "end": 33690,
+    "type": "event"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "盐山（Salt Hill）大宅的女主人佩金夫人（Mistress Pegeen）把上门做占卜的维德拉（Vedra）领进巨大的厅堂，并像打量买来的东西一样打量她。",
+    "anchor": "The round-faced woman who had introduced herself as Mistress Pegeen looked Vedra over",
+    "start": 181,
+    "end": 266,
+    "type": "event"
+  },
+  {
+    "fact": "阿尔德曼·内文（Alderman Nevan）是佩金夫人的丈夫，他穿着细羊毛外袍，也走到人群里看维德拉占卜。",
+    "anchor": "including Pegeen’s husband, Alderman Nevan, a stout, cheerful looking fellow",
+    "start": 6704,
+    "end": 6780,
+    "type": "relation"
+  },
+  {
+    "fact": "维德拉十四岁（fourteen years），个子比同龄人还小，只能把大镜子平放在桌上使用。",
+    "anchor": "it was finally determined that the only way Vedra, small even for her fourteen years, could use it",
+    "start": 6400,
+    "end": 6498,
+    "type": "number"
+  },
+  {
+    "fact": "维德拉第一次用佩金家的大镜子占卜失败，当众说“我什么也看不见”，请求换一样东西。",
+    "anchor": "I am truly sorry, my lady. I cannot see anything.",
+    "start": 9256,
+    "end": 9305,
+    "type": "event"
+  },
+  {
+    "fact": "维德拉改用佩金家传的黑色“龙镜”（dragon-glass）小镜，看见一座六边形的塔、塔下穿斗篷的人影，以及一只扑向她的蝙蝠。",
+    "anchor": "She saw the outlines of a tall tower—six-sided, not square, with curiously shaped windows",
+    "start": 14318,
+    "end": 14407,
+    "type": "event"
+  },
+  {
+    "fact": "维德拉尖叫昏倒，醒来后佩金夫人逼问她是否事先刺探过这个家族，维德拉以天起誓说没有。",
+    "anchor": "that you did not study or spy upon our family before you came here",
+    "start": 16735,
+    "end": 16801,
+    "type": "event"
+  },
+  {
+    "fact": "佩金夫人告诉维德拉，那座塔像她家洛尼（Lowney）乡间庄园的旧神庙塔，并说她丈夫不久要去洛尼一趟。",
+    "anchor": "the tower sounds much like the old temple-tower on our country estate at Lowney",
+    "start": 17530,
+    "end": 17609,
+    "type": "event"
+  },
+  {
+    "fact": "维德拉被仆人送到圣殿桥后独自回到加纳豪斯（Garnerhouse）河边的旧仓库，把佩金给的铜币放进破碗，随后看见横梁上有一张苍白的脸，吓得摔掉了提灯。",
+    "anchor": "she saw a pale face in the middle of the clump",
+    "start": 24518,
+    "end": 24564,
+    "type": "event"
+  }
+]

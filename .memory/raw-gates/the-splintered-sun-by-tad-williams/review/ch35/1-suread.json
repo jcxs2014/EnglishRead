@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "格温神父（Father Gwynn）说他最大的敌人得国王宠信，自己会以合法名义被杀；起因是他公开反对白椋鸟乌阿莎（Uatha）的影响。",
+    "anchor": "Because I have spoken out—unwisely—against the growing influence of the woman called Uatha.",
+    "start": 1069,
+    "end": 1160,
+    "type": "event"
+  },
+  {
+    "fact": "鲁蒙神父（Father Rumon）自报是赫尔尼斯哈克（Hernysadharc）奥伊莫斯（Oymos）神庙的祭司，来此地已近十年。",
+    "anchor": "I am Father Rumon, of the Hernysadharc Temple of Oymos. I came here almost ten years ago.",
+    "start": 939,
+    "end": 1028,
+    "type": "number"
+  },
+  {
+    "fact": "埃温（Ewain）当众宣布自己是卡舍尔里格（Cashelrigg）的埃温、国王泰斯泰恩（Tethtain）唯一的合法继承人，母亲是纽伊斯伯爵之女克丽娅（Cria）。",
+    "anchor": "I am the only lawful heir of King Tethtain—my father.",
+    "start": 4550,
+    "end": 4603,
+    "type": "relation"
+  },
+  {
+    "fact": "格温神父随即单膝跪下、吻埃温伸出的手称他“Highness”，并未叫卫兵，戴利因此稍感安心。",
+    "anchor": "Then the priest stepped forward and dropped to a knee, took Ewain’s extended hand, and kissed it.",
+    "start": 4844,
+    "end": 4941,
+    "type": "relation"
+  },
+  {
+    "fact": "格温说泰斯泰恩近年屡病，最险一次在“一月月”（Jonever-month）染上高烧，众人以为他必死，烧退后约半月才恢复，但神志有时糊涂。",
+    "anchor": "but he had an especially close brush with Dunn of the Dark House back in Jonever-month",
+    "start": 5861,
+    "end": 5947,
+    "type": "number"
+  },
+  {
+    "fact": "戴利在梦路上被一个只能以手膝爬行、头颅只到他腰高的残废乞丐拦住：那东西只要他说出“那个女孩”的名字与下落。",
+    "anchor": "I seek only information. Just a word from you. A single, small thing.",
+    "start": 18683,
+    "end": 18752,
+    "type": "event"
+  },
+  {
+    "fact": "戴利攥紧琥珀挣脱，回到马厩院后把琥珀扔过院子；此后他把琥珀挂在衣外而不贴身，不再信任扎尼科的召唤。",
+    "anchor": "he left it dangling on the outside when he walked slowly back into the mews",
+    "start": 22538,
+    "end": 22613,
+    "type": "event"
+  },
+  {
+    "fact": "格温一去三天无消息；第三日下午他回来，带来国王召他们当日下午“休息时辰”结束时入宫演奏的消息。",
+    "anchor": "You are bidden to attend His Majesty and to play for him this very afternoon",
+    "start": 26904,
+    "end": 26980,
+    "type": "event"
+  }
+]

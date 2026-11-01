@@ -1,0 +1,58 @@
+[
+ {
+  "fact": "梅尔娜抱怨竖琴师迪亚班一路训练新学徒的噪音难忍；她一个月内第二次翻越 Dillathi 山，而这支队伍其实是伪装成乐队的亡命徒。",
+  "anchor": "at having to make the crossing over the Dillathi Hills for the second time in a month",
+  "start": 753,
+  "end": 838,
+  "type": "event"
+ },
+ {
+  "fact": "弗兰笑说没人会怀疑这支吵闹又不掩行踪的小队伍，就是人人追捕的亡命团“弗兰的乌鸦”（Flann’s Crows）。",
+  "anchor": "might be those much sought and much feared outlaws, Flann’s Crows",
+  "start": 1443,
+  "end": 1508,
+  "type": "event"
+ },
+ {
+  "fact": "弗兰见到那名年轻人后跪地吻其戒指，自称“你的仆人，曾是 Alderwood 的 Tace”——梅尔娜这才明白这个法外之徒其实是保王者，对方是泰斯坦国王唯一正统继承人伊万王子。",
+  "anchor": "I am your servant, Flann, once Tace of Alderwood",
+  "start": 7969,
+  "end": 8017,
+  "type": "event"
+ },
+ {
+  "fact": "梅尔娜的父亲察觉长子（她哥哥）可能不是强势继承人，因此给女儿的教导与给长子的一样多；哥哥早逝后，这份教养成了她的依靠。",
+  "anchor": "he had given his daughter as much tutelage as he gave his firstborn son",
+  "start": 3910,
+  "end": 3981,
+  "type": "relation"
+ },
+ {
+  "fact": "鲁蒙是伊万王子的老师兼谋士，自王子幼年起就是他的导师；他提醒王子：若王子被捕，自己也会一同被捕。",
+  "anchor": "You have been my mentor since I was a child",
+  "start": 13497,
+  "end": 13540,
+  "type": "relation"
+ },
+ {
+  "fact": "在书房里，Xaniko 劝弗兰接受 First Lord 的里夫哈根（Hagan）相助；弗兰暴怒拒绝，说哈根夺了他的家产、害他背上“杀人犯”恶名。",
+  "anchor": "there was no swifter way to enrage their chief than to mention Hagan",
+  "start": 20717,
+  "end": 20785,
+  "type": "event"
+ },
+ {
+  "fact": "男孩戴利自荐会打手鼓（还会一点笛子），说在戏班时什么都干；Xaniko 觉得这也许比他原计划更合用。",
+  "anchor": "In the troop, we all did everything. Acted the stories, played the music, painted the backdrops",
+  "start": 23199,
+  "end": 23294,
+  "type": "event"
+ },
+ {
+  "fact": "迪亚班说这些学徒再练一百年也装不成真正的乐师，只能勉强在乡村集市上白演。",
+  "anchor": "But to pass as true musicians? Not in a hundred years",
+  "start": 21783,
+  "end": 21836,
+  "type": "number"
+ }
+]

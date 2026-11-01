@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "迪亚班（Diarban）招呼乐手们带上乐器，随鲁蒙与格温神父走出鹰房，绕中堡去内城与王座厅。",
+    "anchor": "Diarban beckoned them to follow as they were led out of the mews by Rumon and the priest, Father Gwynn.",
+    "start": 142,
+    "end": 245,
+    "type": "event"
+  },
+  {
+    "fact": "王座厅上乌阿莎先开口挡驾，说国王今日太累，要人把乐手打发走；泰斯泰恩随即反问是否连自己累不累都不能决定。",
+    "anchor": "His Majesty is too tired for this today,” said a cold, clear voice.",
+    "start": 3282,
+    "end": 3349,
+    "type": "relation"
+  },
+  {
+    "fact": "迪亚班嫌伴奏太差，心里嘀咕：他从未在一群“最近两周才学会弹奏”的亡命徒伴奏下演出。",
+    "anchor": "a band of outlaws who only learned to play in the last fortnight",
+    "start": 7331,
+    "end": 7395,
+    "type": "number"
+  },
+  {
+    "fact": "格温交代他的调虎离山之计：把一只装满硫磺的木箱放进布里吉特（Brygit）神庙的大壁炉，火把硫磺烧穿后冒烟，乌阿莎的仆人便会去报信。",
+    "anchor": "I set a wooden box full of sulfur in the temple’s great fireplace.",
+    "start": 19308,
+    "end": 19374,
+    "type": "event"
+  },
+  {
+    "fact": "埃温跪在台前自陈身世，泰斯泰恩却坚持说他妻子克丽娅死于生产、孩子也一并死了，因此“不可能”。",
+    "anchor": "What you say is not possible, stranger. My dear Cria died and her child died too.",
+    "start": 15671,
+    "end": 15752,
+    "type": "event"
+  },
+  {
+    "fact": "乌阿莎冲回王座厅高喊“恶时已至，恶龙醒了”，称布里吉特神庙满是呛人的烟与硫磺臭气，是城堡地下的红龙苏醒。",
+    "anchor": "the Temple of Brygit is full of choking smoke and the odor of brimstone",
+    "start": 18964,
+    "end": 19035,
+    "type": "event"
+  },
+  {
+    "fact": "撤离时迪亚班分到马，叫戴利与自己同骑——戴利本想要一匹自己的马，只得悻悻让他扶上鞍。",
+    "anchor": "He waited until the horses had been assigned, then clambered onto his and called to Daley",
+    "start": 27739,
+    "end": 27828,
+    "type": "relation"
+  },
+  {
+    "fact": "出城后格温说次日早晨可到小港（Littleport）乘船，鲁蒙却拒绝海路——斯卡埃斯（Scaeth）控制沿岸航道——改向西骑行越境。",
+    "anchor": "We will be in Littleport by tomorrow morning,” Father Gwynn told them.",
+    "start": 29274,
+    "end": 29344,
+    "type": "event"
+  }
+]

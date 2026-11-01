@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Vedra 醒来时 Tika 正往她嘴里喂温热的汤，她以为是毒药而吐出，其实那汤只有韭葱和野蒜的味道。",
+    "anchor": "it mostly tasted of leek and wild garlic",
+    "start": 698,
+    "end": 738,
+    "type": "event"
+  },
+  {
+    "fact": "Conal 从 Ardkillan 昼夜兼程赶来报信：Mearna 被 Hagan 抓了。",
+    "anchor": "It’s Lady Mearna. She’s been captured. By Hagan.",
+    "start": 4718,
+    "end": 4766,
+    "type": "event"
+  },
+  {
+    "fact": "Rumon 说他们大概只剩一天，否则 Ewain 王子就会自行越境，把众人拖进 Scaeth 手里。",
+    "anchor": "We have perhaps one day more before Prince Ewain decides",
+    "start": 15097,
+    "end": 15153,
+    "type": "number"
+  },
+  {
+    "fact": "Flann 传令全体 Crows 赶往 Ardkillan，他正在设法救出 Mearna。",
+    "anchor": "Because Flann bids you all hurry to Ardkillan. He is making a scheme",
+    "start": 5789,
+    "end": 5857,
+    "type": "event"
+  },
+  {
+    "fact": "Tynon 最终决定服从 Flann、顺流而下前往 Ardkillan，但坚持到时必须拿出有成功把握的计划。",
+    "anchor": "We will hurry downriver toward Ardkillan as Flann demands",
+    "start": 9905,
+    "end": 9962,
+    "type": "event"
+  },
+  {
+    "fact": "Xaniko 宣布自己和 Vedra 都不能随行，必须留下找到 Daley，把从 Glennafar 谷渡河入赫尔尼斯特里的路线传过去。",
+    "anchor": "I cannot leave here yet and neither can Vedra",
+    "start": 11076,
+    "end": 11121,
+    "type": "event"
+  },
+  {
+    "fact": "Tynon 请 Liam 留下保护 Vedra 与 Xaniko，Liam 答应“你告诉我做什么，我就做”。",
+    "anchor": "Do you want me to stay and help you?",
+    "start": 13988,
+    "end": 14024,
+    "type": "relation"
+  },
+  {
+    "fact": "Daley 向 Diarban 坦白他不敢再用 Amber，是因为梦之路上有东西在追 Vedra，上次差点抓到她。",
+    "anchor": "because something is after Vedra. Something in the Dream Road",
+    "start": 19677,
+    "end": 19738,
+    "type": "relation"
+  }
+]

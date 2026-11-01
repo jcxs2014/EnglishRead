@@ -1,0 +1,51 @@
+[
+  {
+    "fact": "一名仆人气喘吁吁地来报王子正在发怒呼喊 Rumon，Rumon 起身赶往王子的房间。",
+    "anchor": "“Father,” the man said, red-faced, swaying in the doorway, “it’s the prince!”",
+    "start": 529,
+    "end": 606,
+    "type": "event"
+  },
+  {
+    "fact": "Ewain 把一封从门缝塞进来的无签名信交给 Rumon，Rumon 读出信上写着收信人有危险、该去 Dun Ard 从父亲手里取走戒指。",
+    "anchor": "was. “You are in danger if you remain where you are,” he read aloud.",
+    "start": 2532,
+    "end": 2600,
+    "type": "event"
+  },
+  {
+    "fact": "Ewain 追问 Rumon 是不是他写的信，理由是昨夜只有 Rumon 进过他的房间；Rumon 否认。",
+    "anchor": "moment’s silence, Ewain abruptly asked, “Did you send this, Rumon? Tell me the truth.”",
+    "start": 3589,
+    "end": 3675,
+    "type": "event"
+  },
+  {
+    "fact": "Ewain 五岁时 Rumon 被派作他的导师，此后十年一直在教他。",
+    "anchor": "“A child of five,” Rumon answered for him. “And during the ten years since,",
+    "start": 4913,
+    "end": 4988,
+    "type": "relation"
+  },
+  {
+    "fact": "Ewain 今年十五岁，此前已经两次遭遇针对他的谋杀而未死。",
+    "anchor": "a youth of fifteen summers who had already survived two attempts on his life.",
+    "start": 2891,
+    "end": 2968,
+    "type": "number"
+  },
+  {
+    "fact": "Rumon 想到国王 Tethtain 的两个私生子：Phelan 是年长的私生子并任 First Lord，Scaeth 是较年幼的私生子。",
+    "anchor": "with Phelan, the Elder Bastard and his proxies on one side, Scaeth and his",
+    "start": 7195,
+    "end": 7269,
+    "type": "relation"
+  },
+  {
+    "fact": "Rumon 请求 Ewain 在两人再谈之前不要做任何计划，Ewain 答应但说自己不会永远等下去。",
+    "anchor": "chambers. Make no plans until you and I have spoken again about these things.",
+    "start": 9376,
+    "end": 9453,
+    "type": "event"
+  }
+]

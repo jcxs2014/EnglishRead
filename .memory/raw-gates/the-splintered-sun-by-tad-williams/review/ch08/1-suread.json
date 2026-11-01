@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Vedra 在 Knockbeg 大厅的石地上醒来，Bellicent 逼问她占卜看见了什么。",
+    "anchor": "For the second time in a fortnight, Vedra woke up to find herself in a strange place",
+    "start": 25,
+    "end": 109,
+    "type": "event"
+  },
+  {
+    "fact": "Bellicent 命令管家把 Daley 脱光并进行搜身。",
+    "anchor": "You heard me—strip him and search him!” commanded Bellicent",
+    "start": 4364,
+    "end": 4423,
+    "type": "event"
+  },
+  {
+    "fact": "Daley 在 Knockbeg 外墙外的草地上弯腰捡起一样东西，对 Vedra 只说 Nothing。",
+    "anchor": "the boy suddenly bent down and snatched something up, then trotted back to where she stood",
+    "start": 8979,
+    "end": 9069,
+    "type": "event"
+  },
+  {
+    "fact": "Daley 摊开手掌，掌中是一枚镶大红宝石的金蛇戒指。",
+    "anchor": "He at last opened his hand. Even in the meager light of the candle",
+    "start": 13353,
+    "end": 13419,
+    "type": "event"
+  },
+  {
+    "fact": "Vedra 把那枚偷来的戒指穿在绳子上，挂在脖子上藏在衣服里。",
+    "anchor": "the stolen ring was now hanging out of sight on a cord around her neck",
+    "start": 34119,
+    "end": 34189,
+    "type": "event"
+  },
+  {
+    "fact": "Daley 趴在屋顶边缘伸手抓住 Vedra 的手腕，把她拉上屋顶。",
+    "anchor": "Then a small hand closed around her wrist",
+    "start": 25102,
+    "end": 25143,
+    "type": "event"
+  },
+  {
+    "fact": "Pegeen 答应让两个孩子住在她家，直到她启程去 Crannhyr 朝圣。",
+    "anchor": "You two can stay here until I leave for Crannhyr",
+    "start": 35941,
+    "end": 35989,
+    "type": "relation"
+  },
+  {
+    "fact": "Pegeen 说离她出发还有三天。",
+    "anchor": "Three days until we leave. But we’ll think of something, I promise",
+    "start": 36101,
+    "end": 36167,
+    "type": "number"
+  }
+]

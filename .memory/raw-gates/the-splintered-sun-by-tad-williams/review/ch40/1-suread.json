@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Lady Bellicent 是贵女、也曾是当世最强大国王的情人，如今被亲儿子 Scaeth 的士兵从 Abaingeat 家中强行掳走，形同囚徒。",
+    "anchor": "In the days since Scaeth’s soldiers had snatched her out of her home",
+    "start": 2754,
+    "end": 2822,
+    "type": "event"
+  },
+  {
+    "fact": "Scaeth 的军营每日三餐只有浓汤和越放越硬的面包，连 Scaeth 麾下的贵族也得吃同样的东西。",
+    "anchor": "Three daily servings of pottage and staling bread",
+    "start": 318,
+    "end": 367,
+    "type": "number"
+  },
+  {
+    "fact": "Bellicent 曾把在冬光节泼了客人一身汤的年轻女仆赶出城堡，女仆次日被发现冻死在厨房门外。",
+    "anchor": "frozen hard as stone in front of the kitchen door",
+    "start": 2023,
+    "end": 2072,
+    "type": "event"
+  },
+  {
+    "fact": "Vespillis 爬着来报：他见了 Scaeth 的“暗影”，却没问出 Norn Xaniko 的下落，只带回一件能引他们找到 Xaniko 的东西。",
+    "anchor": "He did not tell me where your enemy Xaniko is, but he gave me something",
+    "start": 8641,
+    "end": 8712,
+    "type": "event"
+  },
+  {
+    "fact": "Scaeth 准 Vespillis 用自己第二好的抬轿，派四名士兵抬轿、另四名去对付 Norn，但严令不许杀那些孩子。",
+    "anchor": "You may take four soldiers to carry it, and four more to deal with this interfering Norn",
+    "start": 9432,
+    "end": 9520,
+    "type": "number"
+  },
+  {
+    "fact": "Mearna 已被囚两天，关在 Ardkillan 营地一间刚废弃的佃农小屋里，屋外是 Geararth 自己的赫尔尼斯特里士兵。",
+    "anchor": "Mearna had been a captive for two days",
+    "start": 11348,
+    "end": 11386,
+    "type": "number"
+  },
+  {
+    "fact": "Flann 手下的 Crows 不足一百人、其中半数打不了硬仗，而 Hagan 与 Geararth 的营地有近一千名装备良好的士兵。",
+    "anchor": "far fewer than a hundred Crows, half of them all but useless in a real fight",
+    "start": 13527,
+    "end": 13603,
+    "type": "number"
+  },
+  {
+    "fact": "Hagan 对 Mearna 宣称赫尔尼斯特里唯一真正的奖赏是权力——让自己超出任何人触及、免于一切威胁。",
+    "anchor": "The only true prize is power—the power to set oneself beyond the reach",
+    "start": 17767,
+    "end": 17837,
+    "type": "relation"
+  }
+]

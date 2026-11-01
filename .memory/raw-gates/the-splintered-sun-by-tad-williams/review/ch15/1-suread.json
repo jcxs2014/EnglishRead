@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Vedra 和 Daley 在 High Oak Camp 住了约一星期（sennight）后，Diarban 来传 Flann 的召见。",
+    "anchor": "after she and Daley had spent about a sennight in High Oak Camp",
+    "start": 45,
+    "end": 108,
+    "type": "number"
+  },
+  {
+    "fact": "Flann 宣布次日黎明出发去 Crannhyr，带 Vedra、Daley、Mearna、Diarban 与 Ivar。",
+    "anchor": "We set out tomorrow at dawn. Vedra here, who knows more about the parchment and ring",
+    "start": 4667,
+    "end": 4751,
+    "type": "event"
+  },
+  {
+    "fact": "Tynon 是 Flann 的“战团长”，此行留守 High Oak Camp，他反对这趟 Crannhyr 之行。",
+    "anchor": "My war chieftain, as it were. He will be in charge of High Oak Camp",
+    "start": 2825,
+    "end": 2892,
+    "type": "relation"
+  },
+  {
+    "fact": "Mearna 说 Ivar 在除一件事之外的所有方面都算 Flann 的老伴儿，Flann 只喜欢大块头男人。",
+    "anchor": "In all ways but one, they are an old married couple",
+    "start": 10472,
+    "end": 10523,
+    "type": "relation"
+  },
+  {
+    "fact": "下山途中 Vedra 的脚卡在路边一块与她等高的巨石与硬土之间，Flann 用背和脚顶开石头救她。",
+    "anchor": "her foot lodged between the rock and the hard soil at the side of the path",
+    "start": 14683,
+    "end": 14757,
+    "type": "event"
+  },
+  {
+    "fact": "他们黄昏下到 Crannhyr，沿主街走到海神 Lirr 的盐渍木庙对面，拐上陡窄上坡路。",
+    "anchor": "Across from a salt-crusted wooden temple dedicated to the sea god Lirr",
+    "start": 18534,
+    "end": 18604,
+    "type": "event"
+  },
+  {
+    "fact": "山下城里只见两三点灯火，她担心这么小的地方找不到落脚处又不引人注意。",
+    "anchor": "Two or three lights, anyway, and her heart sank",
+    "start": 15060,
+    "end": 15107,
+    "type": "number"
+  },
+  {
+    "fact": "山顶宅邸门自开，白衣长者说此地被他命名为 Carn Gobach（Threadbare Hall），Flann 称他 Lord Xaniko。",
+    "anchor": "Come in—you are welcome to Carn Gobach, as I have named it—Threadbare Hall",
+    "start": 21380,
+    "end": 21454,
+    "type": "event"
+  }
+]

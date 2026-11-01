@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Vedra 发现 Flann 治理这群亡命徒不像土匪之王，倒更像市长或里夫。",
+    "anchor": "Flann ruled it less like a bandit-king and more like a mayor or reeve",
+    "start": 304,
+    "end": 373,
+    "type": "event"
+  },
+  {
+    "fact": "三个做过水手的侦察兵兄弟中，Caden 居中间，性格既不像 Conal 阴沉也不像 Cerball 轻佻。",
+    "anchor": "Caden, the middle brother, was, unsurprisingly, somewhere between the two",
+    "start": 1799,
+    "end": 1872,
+    "type": "relation"
+  },
+  {
+    "fact": "Cerball 自嘲说他们至少“十年”没出海了，还打趣问大海是否还在。",
+    "anchor": "Cerball once remarked that they had not been at sea for “ten years at least,”",
+    "start": 1974,
+    "end": 2051,
+    "type": "number"
+  },
+  {
+    "fact": "每到冬季 Crows 迁往 Circoille 森林边缘的 Deep Den Camp，队伍缩到约两score（四十）名常驻成员。",
+    "anchor": "the band shrank to some two-score permanent members",
+    "start": 2671,
+    "end": 2722,
+    "type": "number"
+  },
+  {
+    "fact": "竖琴手 Diarban 从前是 Flann 父亲 Tace Ronann of Alderwood 的宫廷乐师。",
+    "anchor": "Diarban had been a court musician for Flann’s father, Tace Ronann of Alderwood",
+    "start": 3418,
+    "end": 3496,
+    "type": "relation"
+  },
+  {
+    "fact": "Tethtain 在 Carntobar 之战击败帝国总督，把最后的 Nabbanai 人赶出 Hernystir。",
+    "anchor": "by defeating the imperial governor at the Battle of Carntobar",
+    "start": 5141,
+    "end": 5202,
+    "type": "event"
+  },
+  {
+    "fact": "Tethtain 的合法继承人是 Cria 所生的儿子 Ewain，而 Cria 死于分娩。",
+    "anchor": "his son Ewain by Cria, daughter of the Count of Newyth",
+    "start": 7383,
+    "end": 7437,
+    "type": "relation"
+  },
+  {
+    "fact": "Phelan 没收了 Flann 的领地，把最大的一份给了亲信 Hagan——Crannhyr 的第一领主里夫。",
+    "anchor": "Phelan confiscated Flann’s lands and gave the largest part of them to one of his closest allies, Hagan",
+    "start": 8149,
+    "end": 8251,
+    "type": "event"
+  }
+]

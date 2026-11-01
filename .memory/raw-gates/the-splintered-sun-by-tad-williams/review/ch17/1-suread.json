@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "萨尼科家的老仆告诉薇德拉：道利不见了，宅子前门没关严，山下克兰尼尔镇的大路看得见",
+    "anchor": "But what I did find was the front door of the house not quite closed",
+    "start": 1126,
+    "end": 1194,
+    "type": "event"
+  },
+  {
+    "fact": "梅尔娜指认塔赫图拉赫（小丘之屋）曾是弗兰恩家的宅子，如今住着第一领主的里夫哈根",
+    "anchor": "That’s Tach Tulach—House on the Little Hill—and it used to belong to Flann’s family",
+    "start": 6079,
+    "end": 6162,
+    "type": "relation"
+  },
+  {
+    "fact": "佩金是商队里那位富商之妻、曾在旅途中照顾薇德拉，此刻在圣米尔恰神庙朝圣",
+    "anchor": "not caring whether it was appropriate to embrace a rich merchant’s wife that way",
+    "start": 12536,
+    "end": 12616,
+    "type": "relation"
+  },
+  {
+    "fact": "佩金说她会在此待到圣费德尔玛节，之后返回赫尼斯阿达赫",
+    "anchor": "I will be here until Holy Fedelma’s Day, if you need me",
+    "start": 19852,
+    "end": 19907,
+    "type": "number"
+  },
+  {
+    "fact": "佩金说有人看见一个男孩在神庙屋顶上爬，薇德拉立刻断定是道利",
+    "anchor": "there was a boy climbing on the temple roof",
+    "start": 13937,
+    "end": 13980,
+    "type": "event"
+  },
+  {
+    "fact": "道利掏出一只海鸥巢，宽檐帽大小，里面有两枚带褐色斑点的蛋",
+    "anchor": "a mass of sticks and straw the size of a wide-brimmed hat, with two tan and brown-spotted eggs in it",
+    "start": 16820,
+    "end": 16920,
+    "type": "number"
+  },
+  {
+    "fact": "梅尔娜告诉道利这个季节还没孵出的蛋多半已死，道利默默把巢放下",
+    "anchor": "if they haven’t hatched this late in the season, they’re most likely dead",
+    "start": 17166,
+    "end": 17239,
+    "type": "event"
+  },
+  {
+    "fact": "薇德拉拒绝随佩金回去，说弗兰恩等人需要她，道利闯的祸得帮着弥补",
+    "anchor": "We can’t, Mistress Pegeen. It’s so kind of you, but Flann and the others need us",
+    "start": 17855,
+    "end": 17935,
+    "type": "event"
+  }
+]

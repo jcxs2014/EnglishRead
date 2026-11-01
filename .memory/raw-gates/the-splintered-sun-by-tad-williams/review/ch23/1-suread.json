@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Tika 把蜂蜜抹在 Mearna 从脚踝到膝盖的咬伤抓痕上，再用煮过的 burdock 叶包扎",
+    "anchor": "Tika was smoothing honey onto the many cuts, scrapes, and bitemarks that crisscrossed Mearna’s legs",
+    "start": 28,
+    "end": 127,
+    "type": "event"
+  },
+  {
+    "fact": "Mearna 抱怨营地 a fortnight 前才扎下，自己刚被 goblins 咬得遍体鳞伤",
+    "anchor": "We only set up camp here a fortnight ago, harper.",
+    "start": 1991,
+    "end": 2040,
+    "type": "number"
+  },
+  {
+    "fact": "Flann 只召了少数人上 High Oak 开会，宣布全队北迁至 Drochbor Bridge 附近的 Mullachi Hills",
+    "anchor": "Near the Drochbor Bridge, in the Mullachi Hills.",
+    "start": 4146,
+    "end": 4194,
+    "type": "event"
+  },
+  {
+    "fact": "Flann 命 Diarban 在一天内找齐所有可信、会弄乐器的人，且只要男人",
+    "anchor": "I want you to find all the trustworthy men who can at least make passible sounds with an instrument.",
+    "start": 5217,
+    "end": 5317,
+    "type": "event"
+  },
+  {
+    "fact": "Flann 要 Mearna 找出用铁胆染过的 broadcloth，让女人们缝 at least two dozen 件 tabard",
+    "anchor": "I want you and the other women to sew up at least two dozen tabards.",
+    "start": 7177,
+    "end": 7245,
+    "type": "number"
+  },
+  {
+    "fact": "Aedonite 修士 Brother Edgar 会吹 twin-pipe，并供出 Mud Boy 与 Silent Sherdan 也会乐器",
+    "anchor": "I can play a little on the twin-pipe. My uncle taught me.",
+    "start": 9264,
+    "end": 9321,
+    "type": "relation"
+  },
+  {
+    "fact": "Diarban 最终凑出四人：Sherdan、Mud Boy、Pooley One-Eye 与 Brother Edgar",
+    "anchor": "I have located four who have at least some knowledge of the musical art",
+    "start": 11044,
+    "end": 11115,
+    "type": "number"
+  },
+  {
+    "fact": "Flann 改派 Mearna 明日随他回 Crannhyr，其余人去新营，Anitul-month 初会合，并要带上巨人 Long Liam",
+    "anchor": "Afterward, we will meet the others at the new camp at the beginning of Anitul-month.",
+    "start": 12295,
+    "end": 12379,
+    "type": "event"
+  }
+]

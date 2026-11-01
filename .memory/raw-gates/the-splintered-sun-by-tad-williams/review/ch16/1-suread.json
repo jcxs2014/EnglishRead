@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "竖琴手迪亚班认出这所宅邸的砖石出自第二纳巴奈帝国，感叹屋子比纳巴奈部分古老得多",
+    "anchor": "the harper recognized brickwork from the Second Nabbanai Imperium",
+    "start": 287,
+    "end": 352,
+    "type": "event"
+  },
+  {
+    "fact": "主人萨尼科是从自己族人与不死女王那里流亡出来的诺恩人（北方白肤不死族），弗兰恩发誓他可信",
+    "anchor": "But Xaniko was an exile from his own people and their deathless queen, and Flann swore he was trustworthy",
+    "start": 1449,
+    "end": 1554,
+    "type": "relation"
+  },
+  {
+    "fact": "萨尼科说自己在此只住了一两个世纪，各处加建过，远非第一任主人",
+    "anchor": "I have added bits here and there in my century or two of residence",
+    "start": 3866,
+    "end": 3932,
+    "type": "number"
+  },
+  {
+    "fact": "贝利森特是幼子斯凯斯的母亲、尤维妮娅的妹妹，姐妹俩出身靠纳巴奈帝国发财的家族",
+    "anchor": "Bellicent, the mother of Scaeth, the younger bastard, was Yuvenia’s younger sister",
+    "start": 17709,
+    "end": 17791,
+    "type": "relation"
+  },
+  {
+    "fact": "薇德拉半夜从被嚎叫白色形体追赶的噩梦中惊醒，身旁是熟睡的道利",
+    "anchor": "straight out of a nightmare in which she was being pursued by howling white shapes",
+    "start": 6092,
+    "end": 6174,
+    "type": "event"
+  },
+  {
+    "fact": "萨尼科说他趁众人熟睡花了一整夜破解那封信的密码",
+    "anchor": "I spent the night hours here, working out the cipher",
+    "start": 13476,
+    "end": 13528,
+    "type": "event"
+  },
+  {
+    "fact": "萨尼科追问道利，道利确认塔楼房间里只有第一领主菲兰和那个祭司两人",
+    "anchor": "And you are certain there were only two people in the tower room",
+    "start": 13203,
+    "end": 13267,
+    "type": "event"
+  },
+  {
+    "fact": "两百多年前里默斯人摧毁西提人大要塞，改名顿阿德，泰特坦王如今流亡于此",
+    "anchor": "After the Rimmersmen’s destruction of the great Sithi stronghold more than two centuries ago",
+    "start": 1105,
+    "end": 1197,
+    "type": "number"
+  }
+]

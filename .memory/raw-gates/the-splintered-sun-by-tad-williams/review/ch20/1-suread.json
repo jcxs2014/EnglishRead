@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Xaniko 警告 Daley：若违命就把他和他的监护人（Vedra）一起从前门赶出去，Daley 只得答应服从。",
+    "anchor": "I will put you and your guardian out the front door without hesitation",
+    "start": 1318,
+    "end": 1388,
+    "type": "relation"
+  },
+  {
+    "fact": "Vedra 讲述天赋来历：预言之梦自幼而来，她因触碰父亲的手而看出父亲与邻家女人有染，说破后父亲开始设法把她送出家门。",
+    "anchor": "her gifts had first come to her in dreams, dreams which often came true",
+    "start": 2536,
+    "end": 2607,
+    "type": "event"
+  },
+  {
+    "fact": "Xaniko 交给 Vedra 一面普通的抛光青铜镜（象牙柄）作占卜工具，说这并非受咒的 Witness。",
+    "anchor": "a simple polished bronze mirror with an ivory handle",
+    "start": 5367,
+    "end": 5419,
+    "type": "event"
+  },
+  {
+    "fact": "Vedra 在镜中看见海边一名披斗篷的银发女人，眼睛是猫一样的黄色，那女人朝她说了一句“Din so-nosa beya Vao-ya ulluru.”",
+    "anchor": "her shockingly yellow eyes roved as though they could not find her",
+    "start": 9503,
+    "end": 9569,
+    "type": "event"
+  },
+  {
+    "fact": "Xaniko 说镜中所见是他的妻子 Ona，她已经死了几百年（hundreds of mortal years）。",
+    "anchor": "That was my wife Ona that you saw, who has been dead for hundreds of mortal years",
+    "start": 11128,
+    "end": 11209,
+    "type": "relation"
+  },
+  {
+    "fact": "Xaniko 警告梦境之路（Yumamiji／Dream Road）的危险：走得够远，所见会比记忆更真实，人会永远迷失。",
+    "anchor": "the things you see become more real than the things you remember",
+    "start": 11965,
+    "end": 12029,
+    "type": "event"
+  },
+  {
+    "fact": "管家 Mollie 说宅中住着二十七人（随即改口二十八人），除三人外全是当年随 Xaniko 从 Ravensperch 来的仆役后代，她的曾曾祖父就是其中之一。",
+    "anchor": "Of the twenty-seven of us who live here",
+    "start": 19383,
+    "end": 19422,
+    "type": "number"
+  },
+  {
+    "fact": "Daley 伸手去碰架上亡妻 Ona 的遗物却什么也摸不到——Xaniko 说那些东西被“保存之歌”置于时间之外；他逼 Daley 以母亲的灵魂起誓不碰藏书。",
+    "anchor": "you could reach for a thousand years and never touch them",
+    "start": 26933,
+    "end": 26990,
+    "type": "event"
+  }
+]

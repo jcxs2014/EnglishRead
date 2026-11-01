@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "吟游诗人迪亚班（Diarban）在深穴营地调他的鲁特琴，说天气一近夏天琴弦就发尖。",
+    "anchor": "It always goes sharp when the summer months are near",
+    "start": 31,
+    "end": 83,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩·奥尔德伍德（Flann Alderwood）自称是这支小部落（“乌鸦帮”）的首领，从洞穴里出来伸懒腰，要去找早饭吃。",
+    "anchor": "I am the leader of this little tribe, am I not",
+    "start": 654,
+    "end": 700,
+    "type": "event"
+  },
+  {
+    "fact": "伊瓦尔（Ivar）质问谁偷了他最后一个洋葱，弗兰恩承认是自己偷的，说不然就要挨饿。",
+    "anchor": "“Who stole my last onion?” Ivar demanded. “I was going to use it to flavor the soup.”",
+    "start": 4064,
+    "end": 4149,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩宣布要去猎那头“老母猪公猪”（the Old Mucker），并喊“树上的水手”三兄弟随他出征。",
+    "anchor": "I think it’s time for a boar hunt",
+    "start": 3116,
+    "end": 3149,
+    "type": "event"
+  },
+  {
+    "fact": "科纳尔（Conal）和另外两个兄弟合称“三兄弟”，他们从前是船上的船员，如今在橡树高枝上行走。",
+    "anchor": "Where are the Brothers Three, my sailors of the trees",
+    "start": 6112,
+    "end": 6165,
+    "type": "relation"
+  },
+  {
+    "fact": "弗兰恩私下告诉迪亚班，“老母猪公猪”只是用来激励部下的说法，真正的目标是一头不到一英担（a hundredweight）重的小野猪。",
+    "anchor": "a much smaller beast, a young boar that, the three sailors tell me, weighs scarcely more than a hundredweight",
+    "start": 12944,
+    "end": 13053,
+    "type": "number"
+  },
+  {
+    "fact": "从灌木丛里冲出来的其实是“老母猪公猪”本尊，弗兰恩独自持矛挡在它面前，库迪（Cuddy）与奥林（Orrin）随后上前。",
+    "anchor": "That’s no young one, that’s the Mucker himself",
+    "start": 18427,
+    "end": 18473,
+    "type": "event"
+  },
+  {
+    "fact": "老兵泰南（Tynon）从侧面冲上，双手把剑刺进野猪两肩之间，弓箭手也放箭，野猪倒地死去。",
+    "anchor": "The old soldier drove his sword down between the boar’s shoulders with both hands on the hilt",
+    "start": 22855,
+    "end": 22948,
+    "type": "event"
+  }
+]

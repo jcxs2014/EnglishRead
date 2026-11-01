@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "道利心里明白自己在诺克贝格的所作所为既愚蠢又危险，薇德拉因此受苦",
+    "anchor": "He knew that what he had done at Knockbeg had been foolish and dangerous",
+    "start": 312,
+    "end": 384,
+    "type": "event"
+  },
+  {
+    "fact": "回山路上道利拉住薇德拉手臂低语不能回去，薇德拉说这至少有一部分是他们的错",
+    "anchor": "Daley pulled at Vedra’s arm. “We can’t go back there!” he whispered",
+    "start": 2789,
+    "end": 2856,
+    "type": "event"
+  },
+  {
+    "fact": "弗兰恩宣布既然萨尼科还不准备行动，他和乌鸦帮要回高橡营地",
+    "anchor": "Since Lord Xaniko is not yet ready to act, my Crows and I are going back to High Oak Camp",
+    "start": 5166,
+    "end": 5255,
+    "type": "event"
+  },
+  {
+    "fact": "道利从侦察手科纳尔和他的两个兄弟那里得到过理解与耐心，他们在树顶生活太久",
+    "anchor": "a kind of understanding patience from the scout Conal and his two brothers",
+    "start": 6255,
+    "end": 6329,
+    "type": "relation"
+  },
+  {
+    "fact": "道利的母亲守寡后在码头客栈给醉酒的河工唱歌，后来才被尤瓦勒斯找上",
+    "anchor": "where his widowed mother sang for drunken rivermen, before Yuvalles found her",
+    "start": 7064,
+    "end": 7141,
+    "type": "relation"
+  },
+  {
+    "fact": "萨尼科说薇德拉必须留下学艺，才能成为更好的窥视者、并在“梦之路”（尤玛米吉）上保命",
+    "anchor": "which will keep you safe on the Yumamiji, as my people call it—the Road of Dreams",
+    "start": 7604,
+    "end": 7685,
+    "type": "event"
+  },
+  {
+    "fact": "萨尼科开出条件：两个孩子要么都留下要么都不留；薇德拉最终选择留下",
+    "anchor": "That is not the bargain.” Xaniko’s face had turned hard again. “Both of you stay, or neither",
+    "start": 10168,
+    "end": 10260,
+    "type": "number"
+  },
+  {
+    "fact": "薇德拉挖苦道利只在犯倔时话才多过三个词",
+    "anchor": "Why is it you only ever say more than three words when you’re being difficult",
+    "start": 10709,
+    "end": 10786,
+    "type": "number"
+  }
+]

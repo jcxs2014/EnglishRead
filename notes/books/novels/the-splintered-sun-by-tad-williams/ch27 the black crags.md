@@ -156,7 +156,7 @@ modified: "2026-11-01"
 | inscrutable | 难捉摸的、看不透的 | Xaniko made another inscrutable hand-gesture. |
 | charnel | 与尸骨有关的、阴森的 | She was surprised again to realize that the smell of the place was nothing charnel, even after what must be years or even centuries undisturbed; she caught only the vague, sweet scent of pine sap and a few other equally inoffensive odors. |
 | preponderance | 占多数、数量上的优势 | They mounted to the crest of the nearest hill, through a mixed forest of beech and oak and into an increasing preponderance of evergreens and birches. |
-| despoiled | 被劫掠的、被亵渎的 | “We would not have despoiled your tomb, but we have need of this to protect your kingdom of Hernystir—the land you loved so well is still in peril.” |
+| despoiled | 被劫掠的、被亵渎的 | “Forgive us, King Brynn,” said Flann solemnly. “We would not have despoiled your tomb, but we have need of this to protect your kingdom of Hernystir—the land you loved.” |
 
 ### ⭐⭐ 进阶
 

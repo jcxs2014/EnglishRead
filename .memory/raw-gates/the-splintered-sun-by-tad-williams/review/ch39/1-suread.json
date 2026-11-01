@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "八名男子与一个男孩围着孤火，宿在巴雷兰河东岸的布鲁赫提尔荒原。",
+    "anchor": "Eight men and a boy huddled around a single fire",
+    "start": 9946,
+    "end": 9994,
+    "type": "number"
+  },
+  {
+    "fact": "维斯皮利斯年过五十，因见闻太多而不敢对梦之路尽头或死后之事抱任何把握。",
+    "anchor": "Vespillis had learned too many terrible, hidden things in his fifty years and more of life",
+    "start": 204,
+    "end": 294,
+    "type": "number"
+  },
+  {
+    "fact": "黑暗中的存在只许他称自己为乌鲁泽迈，意为“罪之影”。",
+    "anchor": "you will call me Uruzemai. It means ‘sin’s shadow’ in my people’s tongue",
+    "start": 5636,
+    "end": 5708,
+    "type": "relation"
+  },
+  {
+    "fact": "乌鲁泽迈说它与“蛇”有共同敌人，即渡鸦栖的萨尼科。",
+    "anchor": "Xaniko of Ravensperch is our foe’s thrice-cursed name",
+    "start": 6661,
+    "end": 6714,
+    "type": "relation"
+  },
+  {
+    "fact": "乌鲁泽迈索取的代价是：将来某天召维斯皮利斯走上梦之路为它办事。",
+    "anchor": "Someday I will call on you and you will invoke your dead gods and enter the Road of Dreams",
+    "start": 7112,
+    "end": 7202,
+    "type": "event"
+  },
+  {
+    "fact": "因男孩已受惊拒绝，乌鲁泽迈命维斯皮利斯把信物交给那个女孩。",
+    "anchor": "then you must find the girl-child and pass it to her",
+    "start": 9173,
+    "end": 9225,
+    "type": "event"
+  },
+  {
+    "fact": "达利告诉鲁蒙，他在琥珀之地感觉到有可怕的东西正寻找薇德拉。",
+    "anchor": "In the place we go to. The place in the Amber.",
+    "start": 15528,
+    "end": 15574,
+    "type": "event"
+  },
+  {
+    "fact": "一只腿脚受伤的毛茸小兽爬上薇德拉后背，咬伤她的手后消失。",
+    "anchor": "it suddenly twisted in her grasp and something painful entered her hand",
+    "start": 28173,
+    "end": 28244,
+    "type": "event"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Diarban 不许 Daley 下船游逛 Wentmouth，一行人被转到一艘有十五对桨的划桨船，溯 Gleniwent 河上行去 Dun Ard。",
+    "anchor": "it was only to be led onto another one, a galley with fifteen pairs of oars",
+    "start": 688,
+    "end": 763,
+    "type": "number"
+  },
+  {
+    "fact": "Ewain 主动与 Daley 搭话，指认远处小船上的冬青叶旗是他父亲 Tethtain 的王旗。",
+    "anchor": "a small rowboat flying a flag blazoned with Tethtain’s holly leaf",
+    "start": 1775,
+    "end": 1840,
+    "type": "relation"
+  },
+  {
+    "fact": "Daley 告诉 Ewain：戏班班主把他母亲从阳台上扔下摔死，他烧了班主的货车后逃走。",
+    "anchor": "The man who owned the troupe threw her off a balcony",
+    "start": 3692,
+    "end": 3744,
+    "type": "event"
+  },
+  {
+    "fact": "Aedonite 教士 Edgar 指控国王放任“白椋鸟”Sister Uatha 囚禁并烧死被指为异端的 Aedon 信徒。",
+    "anchor": "she has been imprisoning Aedonites and all others that she calls heretics",
+    "start": 7754,
+    "end": 7827,
+    "type": "event"
+  },
+  {
+    "fact": "Edgar 说 Tethtain 把 Dun Ard 主教交给 Uatha，主教在城堡地牢中受刑而死。",
+    "anchor": "Tethtain handed the Bishop of Dun Ard over to Uatha",
+    "start": 9229,
+    "end": 9280,
+    "type": "event"
+  },
+  {
+    "fact": "Rumon 说 Uatha 原是 Shansally 的农家女，自称代 Brygit Bright Sun 发言，毫无祭司训练，是那份“笃定”迷住了 Tethtain。",
+    "anchor": "She was only a peasant girl, nothing much to look at",
+    "start": 19869,
+    "end": 19921,
+    "type": "relation"
+  },
+  {
+    "fact": "日落时 Daley 在 Dream Road 上再次察觉那个瘦长的窥视者，Xaniko 却感觉不到，那东西张口扑来、幻境尽碎。",
+    "anchor": "the creature, Xaniko, and the Dream Road itself all vanished",
+    "start": 28864,
+    "end": 28924,
+    "type": "event"
+  },
+  {
+    "fact": "抵达 Dun Ard 后，Brynioch 祭司 Father Gwynn 来接，说觐见国王尚有阻碍，最后求他们回程时把他带走，否则他必被杀。",
+    "anchor": "Take me with you,” said the priest. “Otherwise, I will surely be murdered",
+    "start": 40244,
+    "end": 40317,
+    "type": "event"
+  }
+]

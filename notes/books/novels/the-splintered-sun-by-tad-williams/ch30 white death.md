@@ -177,7 +177,7 @@ modified: "2026-11-01"
 | hillside | 山坡 | Xaniko found her on the hillside, where Jishi was cropping at the dry grass. |
 | donkey | 驴 | It is amazing that a man as pretty as yourself should sing like a donkey with a stone in its hoof. |
 | camp | 营地；扎营 | That night they had made camp on a low hill, a prominence only three or four times a person’s height above the swampy ground. |
-| copse | 小树林 | Once they had passed Ardkillan and forded the Cuimhne, they stopped to make camp in a broad copse of oak, ash, and alder. |
+| copse | 小树林 | Once they had passed Ardkillan and forded the Cuimhne, they stopped to make camp in a broad copse of oak, ash, and alder, at what they hoped was a safe distance |
 
 ## 一句话总结
 

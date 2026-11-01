@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Lady Bellicent 船抵 Abaingeat 港后急赴 Tur-an-Gonog（Tower of the Claw），因马夫笨手笨脚弄疼战马 Anbarr，用扇子打了他一记耳光。",
+    "anchor": "she gave the foolish servant a blow across the face with her fan",
+    "start": 360,
+    "end": 424,
+    "type": "event"
+  },
+  {
+    "fact": "Bellicent 是 Abaingeat 最有权势市民（其子 Scaeth）的母亲，自 Hernysadharc 乘船赶来报信。",
+    "anchor": "even for Bellicent, the mother of its most powerful citizen",
+    "start": 786,
+    "end": 845,
+    "type": "relation"
+  },
+  {
+    "fact": "密信与 Scaeth 的印戒（signet ring）在 Knockbeg 被偷；Phelan 的宠物 starling-priest 已把密码抄成明文给他看。",
+    "anchor": "his pet starling-priest copied the cipher out in plain words for him",
+    "start": 5537,
+    "end": 5605,
+    "type": "event"
+  },
+  {
+    "fact": "偷信的是个小男孩，他爬上塔取走信件；他和带他去的“小农女巫”都没被抓到。",
+    "anchor": "A little boy who climbed up to the tower and took it.",
+    "start": 5872,
+    "end": 5925,
+    "type": "event"
+  },
+  {
+    "fact": "Phelan 的士兵追到 Crannhyr 外的废矿，矿里全是 pucai（goblins），他们有两条狗（two of their dogs）被撕碎。",
+    "anchor": "The mine was full of them. Two of their dogs were killed",
+    "start": 7533,
+    "end": 7589,
+    "type": "number"
+  },
+  {
+    "fact": "Scaeth 的密探报称：伪继承人 Ewain 几天前离开 Cashelrigg 东去投奔 Tethtain，Scaeth 怀疑 Father Rumon 插手。",
+    "anchor": "the false heir Ewain has left to go to Tethtain in the east",
+    "start": 8356,
+    "end": 8415,
+    "type": "event"
+  },
+  {
+    "fact": "Scaeth 决定动手：Ewain 绝不能活着到 Dun Ard；伪继承人一死，他那“蹒跚的同父异母兄长”Phelan 也活不长。",
+    "anchor": "Ewain must not reach Dun Ard alive, and once the pretender is dead",
+    "start": 9923,
+    "end": 9989,
+    "type": "event"
+  },
+  {
+    "fact": "Bellicent 疲惫不堪却不敢睡，怕梦见火与血，更怕“长在自己子宫里的那个东西”（指其子 Scaeth）。",
+    "anchor": "the creature that had grown in her own womb",
+    "start": 10422,
+    "end": 10465,
+    "type": "event"
+  }
+]

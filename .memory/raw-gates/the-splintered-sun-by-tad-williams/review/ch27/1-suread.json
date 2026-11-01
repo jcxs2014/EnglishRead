@@ -1,0 +1,58 @@
+[
+ {
+  "fact": "Xaniko 带队离开 Threadbare Hall 东行，终于说出目的地是“the Black Crags”，梅尔娜惊呼那地方名声极坏。",
+  "anchor": "“A place called the Black Crags,” said Xaniko",
+  "start": 5885,
+  "end": 5930,
+  "type": "event"
+ },
+ {
+  "fact": "他们要找的“the Amber”是一块可握于一手的小石，深金色晶体，曾属人称“Brynn the Cursed”（被诅咒的布林）的国王，并随他葬在 Black Crags。",
+  "anchor": "We seek a special stone. At least, I think it is a stone. It is called ‘the Amber.’",
+  "start": 8142,
+  "end": 8225,
+  "type": "relation"
+ },
+ {
+  "fact": "Xaniko 道出计划：借哈根之手引 Phelan 的军队入场，让这对同父异母兄弟的军队互相牵制，好让伊万从两军之间溜回 Hernystir。",
+  "anchor": "we plan to lure an opposing force into the field on behalf of Hagan’s master, Phelan",
+  "start": 8965,
+  "end": 9049,
+  "type": "event"
+ },
+ {
+  "fact": "Xaniko 的 Witness 是父亲很久以前给他的；一个 Witness 毫无用处，必须有两个才能彼此通话，而 Nakkiga 与 Zida’ya 聚居的西地之外几乎找不到。",
+  "anchor": "a single Witness is no use to us, any more than a bird could fly with only one wing",
+  "start": 10012,
+  "end": 10095,
+  "type": "relation"
+ },
+ {
+  "fact": "薇德拉说自己今年十四岁（fourteen summers），但还没有初潮；梅尔娜说各人迟早不同，若在途中来了就去找她。",
+  "anchor": "Fourteen summers this year. But I haven’t had my first moonblood yet.",
+  "start": 14968,
+  "end": 15037,
+  "type": "number"
+ },
+ {
+  "fact": "梅尔娜说 Phelan 夺了她的领地分给亲信，她宁可死在荒野也不受他的供养，于是投奔同样被放逐的弗兰。",
+  "anchor": "when First Lord Phelan stole my lands and gave them to his friends",
+  "start": 15931,
+  "end": 15997,
+  "type": "relation"
+ },
+ {
+  "fact": "墓中布林的头骨鼻下骨骼像蜡一样融去、上齿尽失——Xaniko 由此断定这位国王是麻风病人，所谓“诅咒”即此病。",
+  "anchor": "the bones seemed to have melted away like candle wax, obliterating the upper teeth",
+  "start": 27330,
+  "end": 27412,
+  "type": "event"
+ },
+ {
+  "fact": "戴利把手伸进布林的肋骨堆里掏出 the Amber，却被烫得大叫松手；Xaniko 闭眼默念后才敢拿起，说石头已凉。",
+  "anchor": "the boy suddenly let out a cry of pain and dropped the Amber",
+  "start": 28071,
+  "end": 28131,
+  "type": "event"
+ }
+]

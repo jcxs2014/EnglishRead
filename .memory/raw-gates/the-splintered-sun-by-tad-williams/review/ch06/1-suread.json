@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "鱼贩的妻子 Nula 告诉 Vedra：女子 Ardis 摔死，Ardis 的儿子放火烧了巡回戏班的马车，车主告到官府，First Lord 的士兵正在搜捕纵火者。",
+    "anchor": "day Nula told Vedra the shocking story of the woman Ardis’s terrible death in",
+    "start": 1369,
+    "end": 1446,
+    "type": "event"
+  },
+  {
+    "fact": "Daley 向 Vedra 讲述经过时，指认拥有那个小戏班的 Nabban 人 Yuvalles 是杀他母亲的人（Vedra 并不完全相信）。",
+    "anchor": "that the Nabban-man Yuvalles, who owned the little traveling show, had truly murdered Daley’s",
+    "start": 2012,
+    "end": 2105,
+    "type": "event"
+  },
+  {
+    "fact": "Daley 夜里爬出去探查周围的房屋，从一间仍在使用的富商货栈弄回一只红陶碗放在他们当桌子的破板上；Vedra 要他送回去，他拒绝。",
+    "anchor": "a beautiful red clay bowl covered in delicate relief sitting on the splintered board",
+    "start": 4468,
+    "end": 4552,
+    "type": "event"
+  },
+  {
+    "fact": "几天后 Vedra 看见 Daley 穿着一双稍大的小山羊皮新鞋，立刻追问他是从哪儿弄来的。",
+    "anchor": "was wearing new kid-leather shoes, a little too big for him. Her heart sank.",
+    "start": 5599,
+    "end": 5675,
+    "type": "event"
+  },
+  {
+    "fact": "Pegeen 在 Temple Market 交给 Vedra 两打铜板，说是谢她救了丈夫的命。",
+    "anchor": "Vedra. “Two dozen coppers. I wish I could give you more, m’oga connalbehn, I",
+    "start": 8186,
+    "end": 8262,
+    "type": "number"
+  },
+  {
+    "fact": "Pegeen 告诉 Vedra，Lady Bellicent 是 First Lord Phelan 的姑母，也是 Abaingeat 的 Lord Scaeth 的母亲。",
+    "anchor": "well? Lady Bellicent is First Lord Phelan’s aunt, and the mother of Lord Scaeth",
+    "start": 11804,
+    "end": 11883,
+    "type": "relation"
+  },
+  {
+    "fact": "Pegeen 说 Lady Bellicent 住在 Knockbeg，等 Vedra 在 Yuven 月第十七天的晚钟去见她。",
+    "anchor": "on the Seventeenth day of Yuven, at the evening bell. A tremendous honor! Do",
+    "start": 13130,
+    "end": 13206,
+    "type": "number"
+  },
+  {
+    "fact": "Vedra 在 Bellicent 的炉火前入幻，看见遍地焦土和灰中的尸体，一个披裹尸布的人走近后抬头，露出 Bellicent 的面孔和血污的嘴。",
+    "anchor": "back. The face had the narrow, handsome features of Lady Bellicent herself, but it",
+    "start": 34241,
+    "end": 34323,
+    "type": "event"
+  }
+]

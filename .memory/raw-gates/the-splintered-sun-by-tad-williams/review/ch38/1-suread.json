@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "梅尔娜警告弗拉恩，即将有一场大屠杀，遭殃的会是附近村庄的穷苦百姓。",
+    "anchor": "“There will be a great slaughter soon,” she warned Flann",
+    "start": 2171,
+    "end": 2227,
+    "type": "event"
+  },
+  {
+    "fact": "斯凯斯的指挥官是老练的拉特班塔斯·阿拉斯塔。",
+    "anchor": "Scaeth’s commander, Tace Alastar of Latterban, was an experienced and canny campaigner",
+    "start": 994,
+    "end": 1080,
+    "type": "relation"
+  },
+  {
+    "fact": "梅尔娜亲生的女儿们都没活过童年，这使她格外牵挂薇德拉。",
+    "anchor": "None of Mearna’s female children had survived childhood",
+    "start": 10831,
+    "end": 10886,
+    "type": "relation"
+  },
+  {
+    "fact": "达利向鲁蒙承认他只告诉过萨尼科一次位置，之后就无法再通话。",
+    "anchor": "I told him where we were. Then we couldn’t talk anymore.",
+    "start": 17462,
+    "end": 17518,
+    "type": "event"
+  },
+  {
+    "fact": "梅尔娜坚持独自下山混进哈根的营地打探，弗拉恩最终勉强同意。",
+    "anchor": "He stared at her for a long time. “Very well, I give my permission.”",
+    "start": 22023,
+    "end": 22091,
+    "type": "event"
+  },
+  {
+    "fact": "阿尔基兰城外哈根的营地驻扎着数百人，却更像永久驻防而非行军之军。",
+    "anchor": "Mearna guessed there must be several hundred men there",
+    "start": 19924,
+    "end": 19978,
+    "type": "number"
+  },
+  {
+    "fact": "逃难妇人说草地佣兵把卡恩阿纳赫的城堡烧成白地。",
+    "anchor": "It’s said they burned the castle at Carn Anach to the ground.",
+    "start": 25731,
+    "end": 25792,
+    "type": "event"
+  },
+  {
+    "fact": "哈根凭细布内衫认出她，宣称首爵正悬赏她叛国罪，命人关押。",
+    "anchor": "Most amusingly, she is wanted by our beloved First Lord for treason.",
+    "start": 35737,
+    "end": 35805,
+    "type": "event"
+  }
+]

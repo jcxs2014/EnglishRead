@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "占卜师 Vespillis 被卫兵引进 Knockbeg 的贝利森特夫人内室，卫兵吓得赶紧退出去。",
+    "anchor": "The scryer was ushered into Lady Bellicent’s retiring room by a guard who knew enough",
+    "start": 21,
+    "end": 106,
+    "type": "event"
+  },
+  {
+    "fact": "贝利森特夫人说第一领主 Phelan 是她姐妹的儿子（她的外甥），她必须回儿子在 Abaingeat 的宅子。",
+    "anchor": "My sister’s son, First Lord Phelan, has a decision to make.",
+    "start": 1905,
+    "end": 1964,
+    "type": "relation"
+  },
+  {
+    "fact": "她怀疑那个深肤色女孩 Vedra 参与失窃：小无赖曾被看见出现在失物所在的高塔附近。",
+    "anchor": "the little wretch had been seen near the tower where the . . . thing was stolen",
+    "start": 2756,
+    "end": 2835,
+    "type": "event"
+  },
+  {
+    "fact": "她先前另找的占卜师都不顶用：一个农家女孩尖叫倒地不省人事，更早的一个死了。",
+    "anchor": "One peasant girl, a little brown thing, shrieked and fell down, insensible",
+    "start": 1720,
+    "end": 1794,
+    "type": "event"
+  },
+  {
+    "fact": "Vespillis 说那面妖精镜的价值远超同等重量的黄金，他花了半辈子破解它的秘密。",
+    "anchor": "It is worth greatly more than its weight in gold",
+    "start": 3744,
+    "end": 3792,
+    "type": "number"
+  },
+  {
+    "fact": "占卜时他仰头翻眼只见眼白，蜡烛乱舞、帷幔鼓荡，最后镜子从手中落到地毯上。",
+    "anchor": "His head fell back and his eyes rolled up until only the whites were showing",
+    "start": 4826,
+    "end": 4902,
+    "type": "event"
+  },
+  {
+    "fact": "他报称看见海中立着一块怪石，名叫 Goblin Rock，位于港口城镇 Crannhyr 的湾口。",
+    "anchor": "It is called Goblin Rock, and it stands at the mouth of the port town of Crannhyr",
+    "start": 7435,
+    "end": 7516,
+    "type": "event"
+  },
+  {
+    "fact": "夫人让他去 Phelan 的管家那里领赏，他却推说身体不适、改日再来支取。",
+    "anchor": "Go to Phelan’s steward and he will see you get your payment",
+    "start": 8089,
+    "end": 8148,
+    "type": "event"
+  }
+]

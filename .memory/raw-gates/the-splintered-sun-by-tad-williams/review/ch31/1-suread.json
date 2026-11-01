@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Phelan 仅用一句简短而带威胁的话召 Crannhyr 的里夫 Hagan 前来（信中只写 “Come to me in Hernysadharc with all haste”，实际会面在 Phelan 私邸 Knockbeg，不在王座 Taig）。",
+    "anchor": "Come to me in Hernysadharc with all haste",
+    "start": 305,
+    "end": 346,
+    "type": "event"
+  },
+  {
+    "fact": "Hagan 被召与 Phelan 的姑母 Bellicent 有关：她的占卜师 Vespillis 声称偷走 Scaeth 信件与戒指的两个孩子逃到了 Crannhyr。",
+    "anchor": "claimed that her scryer, Vespillis, had a vision that the two children",
+    "start": 769,
+    "end": 839,
+    "type": "relation"
+  },
+  {
+    "fact": "Phelan 当面质问 Hagan 是否与他的同父异母兄弟 Scaeth 结盟，Hagan 否认。",
+    "anchor": "Have you made some kind of compact with Scaeth",
+    "start": 3870,
+    "end": 3916,
+    "type": "event"
+  },
+  {
+    "fact": "Hagan 反手献计：若他在东境“碰巧”抓到 Ewain 并锁链送到 Phelan 面前，就等于戳 Scaeth 的眼睛。",
+    "anchor": "then bring him to you in chains, would that not be a finger in Scaeth’s eye",
+    "start": 6741,
+    "end": 6816,
+    "type": "event"
+  },
+  {
+    "fact": "Phelan 警告 Hagan：Crannhyr 不归他统治，他只是 Phelan 的代理人，随时可被抹去。",
+    "anchor": "You do not rule Crannhyr, I do. You are only my agent",
+    "start": 7195,
+    "end": 7248,
+    "type": "relation"
+  },
+  {
+    "fact": "Scaeth 因 Alastar 分兵而发怒，声称给了他远逾一千人看守区区几里格地界。",
+    "anchor": "I have given you well over a thousand men to keep watch over a few leagues",
+    "start": 13579,
+    "end": 13653,
+    "type": "number"
+  },
+  {
+    "fact": "占卜师 Vespillis 在 Scaeth 的刀口下占卜，说他看见一名年轻男子中箭倒下（即 Ewain 之死）。",
+    "anchor": "I saw a young man fall with an arrow in him",
+    "start": 20345,
+    "end": 20388,
+    "type": "event"
+  },
+  {
+    "fact": "Vespillis 说拖走“王子”尸体的人佩戴红色鸡蛇纹章，Scaeth 认出这是 Phelan 的里夫 Hagan 的徽记。",
+    "anchor": "as if to make certain it was still whole. “They wore a red cockatrice, my lord.”",
+    "start": 21317,
+    "end": 21397,
+    "type": "event"
+  }
+]

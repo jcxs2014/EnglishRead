@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "贝佩（Beppe）喝醉后自称“山巨魔之王奥尔科-博尔科”，跨进大车时被自己那条过长的“王袍”（其实是一条臭毯子）缠住，摔在地板上。",
+    "anchor": "The small figure took a swaggering step into the wagon and immediately tangled himself in his own too-long royal cape",
+    "start": 643,
+    "end": 760,
+    "type": "event"
+  },
+  {
+    "fact": "于瓦尔（Yuval）的戏班在外省巡演后回到都城赫尔尼萨达克，全班只有两辆大车、四头骡子、六个人干活，加上班主于瓦尔共七人。",
+    "anchor": "two wagons, four mules, and six people to do all the work",
+    "start": 3566,
+    "end": 3623,
+    "type": "number"
+  },
+  {
+    "fact": "达利（Daley）十岁（ten summers），话很少；他因夜里太热离开大车，爬墙从二楼窗户进了客栈。",
+    "anchor": "He was ten summers old and not at all stupid but he never spoke much",
+    "start": 3166,
+    "end": 3234,
+    "type": "number"
+  },
+  {
+    "fact": "阿尔迪丝（Ardis，达利的母亲）当面斥责于瓦尔，说她已知道于瓦尔在纳班（Nabban）有妻子，并说这是霍斯提安（Hostian）告诉她的。",
+    "anchor": "Hostian told me! He told me about your wife back in Nabban",
+    "start": 9344,
+    "end": 9402,
+    "type": "relation"
+  },
+  {
+    "fact": "达利在屋顶听见母亲尖叫“别碰我”，随后是一声断裂巨响；他爬下屋顶，看见阳台栏杆断裂，母亲阿尔迪丝摔死在庭院石板地上。",
+    "anchor": "The balcony railing had broken away, parts of it still hanging in the air",
+    "start": 12623,
+    "end": 12696,
+    "type": "event"
+  },
+  {
+    "fact": "达利拿起火把，翻过院门，先把画着布景的第一辆大车点着。",
+    "anchor": "Daley leaned in just long enough to set flame to the wagon’s contents",
+    "start": 16159,
+    "end": 16228,
+    "type": "event"
+  },
+  {
+    "fact": "达利把火把捅进睡觉那辆大车里的盘绳堆，鲁菲斯（Rufis）想抓他，被他用火把逼退、衬衫着火，鲁菲斯与霍斯提安先后逃出大车。",
+    "anchor": "then shoved his torch into a pile of coiled ropes, which began to smolder, then burn",
+    "start": 16905,
+    "end": 16989,
+    "type": "event"
+  },
+  {
+    "fact": "达利听见贝佩在起火的大车里惨叫，又爬回去，把挣扎的贝佩拖出大车、推下台阶，然后逃进盐山区的黑暗里。",
+    "anchor": "managed to drag the wheezing, thrashing figure out of the wagon and shove him down the steps",
+    "start": 19106,
+    "end": 19198,
+    "type": "event"
+  }
+]
