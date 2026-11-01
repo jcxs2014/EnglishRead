@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch29",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch29_chapter_29.txt",
+ "facts": [
+  {
+   "fact": "父亲沉浸于《暴风雨》当起制作人,要亲自去伦敦主持试镜、聘服装/布景/舞台监督/灯光班底,多年没接这么大的制作。",
+   "anchor": "He needed to go to London to oversee auditions",
+   "start": 260,
+   "end": 306
+  },
+  {
+   "fact": "看着父亲和 Martin 收拾动身去伦敦,叙述者突然害怕独自留在 Kerrith,担心 Lundy 会回来。",
+   "anchor": "What if Lundy returned?",
+   "start": 755,
+   "end": 778
+  },
+  {
+   "fact": "Simon 这天看起来落魄:黑眼圈、啃过的指甲、脏栗发、几天没刮脸,叙述者知道他酒喝得很凶,还说新小说成了彻底的烂摊子。",
+   "anchor": "I knew he was drinking a great deal.",
+   "start": 2161,
+   "end": 2197
+  },
+  {
+   "fact": "Simon 翻看叙述者的速写本后力劝她去 Slade 美术学院,又建议她可以先在美校当模特、结识艺术家。",
+   "anchor": "You should go to the Slade, cousin.",
+   "start": 3383,
+   "end": 3418
+  },
+  {
+   "fact": "Simon 出示 Rex(Gabriel William Vincent de Voil)发来的烫字请柬:以春日化装舞会收尾的庆典,备有 dominoes,地点 Ledges, Porthcarn, Cornwall。",
+   "anchor": "CORDIALLY INVITES YOU TO A CELEBRATION CULMINATING IN A MASQUE DU PRINTEMPS",
+   "start": 6266,
+   "end": 6341
+  },
+  {
+   "fact": "Tamsin 把恨意对准叙述者而非 Simon,骂她跟\"他们\"一样找男人把自己关进笼子、一直把 Tamsin 当玩具假装亲近。",
+   "anchor": "Looking for a man to keep you in a cage.",
+   "start": 9274,
+   "end": 9314
+  },
+  {
+   "fact": "Simon 提议 Tamsin 假扮叙述者的贴身女仆混进 Rex 宅邸,Tamsin 怒斥\"我不是女仆\",声音冷得能把酒壶里的威士忌冻住。",
+   "anchor": "I am not a maid.",
+   "start": 11485,
+   "end": 11501
+  },
+  {
+   "fact": "Tamsin 最终答应同去,单手切牌亮出四张梅花;Simon 说那是\"恶魔的四柱床\"、大凶,Tamsin 回敬:凶的不落在她身上,也许落在 Simon 身上。",
+   "anchor": "But maybe for you.",
+   "start": 14464,
+   "end": 14482
+  }
+ ]
+}
