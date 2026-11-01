@@ -1,0 +1,295 @@
+{
+  "chapter": 42,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/ch42 pamela suffolk.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/mystery-thriller/the-secret-thread-by-eve-chase/text/ch42_chapter_42.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "But now that Pamela’s located the tin – in the barn all along, though on a different shelf than she remembered – she’s u",
+          "ok": true,
+          "pos": 962
+        }
+      ],
+      "words": 59
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "But the young dying, that’s what atomizes you, renders the universe incomprehensible. She lost Alf and Leni. The world i",
+          "ok": true,
+          "pos": 2462
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘And what will stop Miriam stealing Jo?’ she asks the dog, which blinks in sympathy. A convulsion of an old, deep fear p",
+          "ok": true,
+          "pos": 3617
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She’ll never forget the day Miriam swept down from London to Bantom End, wielding her Harrods pink blanket. The hungry w",
+          "ok": true,
+          "pos": 3885
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Instead, six months after arriving in America, Miriam and Lawrence married at the City Clerk’s Office. No big announceme",
+          "ok": true,
+          "pos": 4573
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "As she was licking the blue airmail envelope, Ma appeared, red-eyed, with the news that Miriam had miscarried. They didn",
+          "ok": true,
+          "pos": 5995
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Can we meet the kids? Pamela felt trapped, torn in her loyalties. But in the end, she put her own little family first",
+          "ok": true,
+          "pos": 6680
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Must be careful in these slippery, tread-worn wellies, especially on the broken paving beside the winter cabbage: her la",
+          "ok": true,
+          "pos": 7668
+        }
+      ],
+      "words": 67
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 26,
+        "为什么这样写": 81,
+        "读者视角提示": 72
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.27,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 13,
+        "为什么这样写": 55,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.25,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 8,
+        "为什么这样写": 85,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.2,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 23,
+        "为什么这样写": 66,
+        "读者视角提示": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.35,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 9,
+        "为什么这样写": 59,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.23,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 11,
+        "为什么这样写": 83,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.24,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 14,
+        "为什么这样写": 73,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.32,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 122,
+        "关键词": 19,
+        "为什么这样写": 69,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.28,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "42. Pamela, Suffolk",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 7.0,
+    "block_range": [
+      3,
+      13
+    ],
+    "profile": "mystery-thriller",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1445,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 51 章中位 7、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

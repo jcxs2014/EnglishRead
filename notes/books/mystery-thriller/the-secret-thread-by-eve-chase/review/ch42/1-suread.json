@@ -1,0 +1,164 @@
+{
+  "chapter": "ch42",
+  "text_file": "text/ch42_chapter_42.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "凌晨不到四点，Pamela 在萨福克住所的田角烧篝火：先掷入一段枯枝（溅起橙色火星），再把整只塑料采集桶倾入火中——桶内是无法堆肥的入侵性植物废料；近来她做的全是『围堵这类东西』的事。",
+      "anchor": "She hurls a dead branch into the flames, spraying up a cascade of orange sparks, then tips in her plastic trug",
+      "byte_offset": 260,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "她伸手取过『Miriam 锡盒』和一沓两人往来的信，坐上原木长凳，厚手套的手指叩着金属盒盖——信件、剪报『样样易燃，且在任何意义上都易燃』；本章后段她真的撬开锡盒：一张 Miriam 穿鸡尾酒裙的颗粒感旧照朝上而笑，一片雪花落在剪报上晕开油墨，她把盒盖虚掩回去，此时雪势已成 blizzard、white-out。",
+      "anchor": "she reaches for the Tin of Miriam, and a stack of their letters, then sits down on the log bench",
+      "byte_offset": 551,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "她推断：锡盒『其实一直在谷仓』（只是书架与她记忆的不同），盒盖灰尘似近期被扰动；Sam 快一年没回家，动它必是 Jo——否则 Jo 何以去 Rushwood、把那张地图钉上书桌、又在笔记本上涂写『Nancy – dead?』；而 Jo 冲回房间准备去咖啡馆那一刻，Pamela 被打了个措手不及、怕引爆 painful explosion of truth，沿袭老习惯什么也没说就赶火车走了——她自问：省略算不算撒谎？",
+      "anchor": "Why else go to Rushwood, pin that map above her desk, or scrawl the words",
+      "byte_offset": 1313,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "她仰头向亡故的孪生手足 Alf 无声求问『我该怎么办』，但只有篝火烟随风挪动；自认与 Alf 同日出生仅差几分钟、本该同日而死，至今无法接受事实并非如此；Tony 去世她尚能接受（好丈夫、恒久温柔的幸福），而年轻人的死——她失去了 Alf 和 Leni——才把人炸成齑粉、令宇宙不可理喻；她有时怪恶仙女诅咒家族，有时怪妹妹，或怪自己——多半怪自己。",
+      "anchor": "Alf? Are you there, Alf? What should I do?",
+      "byte_offset": 1934,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "回溯：Pa 曾咆哮『没有回头路，Lawrence 不行，Miriam 也不行』，实则拼命想念她、还赌两人会分手；Miriam 到美国六个月后与 Lawrence 在市登记处（City Clerk's Office）结婚，无公告无家宴，到场者只有 Elliot Whipple 及其男友；Harold 与 Celia Caswell 拒绝祝福，Pa 连问都未被问；Miriam 改用母亲的娘家姓 Mott，只把 Pa 再次惹毛。",
+      "anchor": "six months after arriving in America, Miriam and Lawrence married at the City Clerk",
+      "byte_offset": 4758,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "回溯：一天 Pamela 正耙落叶、Leni 在婴儿车里咿呀作伴，Ma 冲来低声报信——Miriam 怀孕了；Pamela 只觉恶心，提笔写下实用建议（脚抬高、布丁随便吃、『烟和金酒悠着点』、『绝对不要冒险长途旅行』）；正舔蓝色航空信封时，Ma 红着眼出现：Miriam 流产了——她们当时还不知道，她每次怀孕都会流产、都很早，『只比新土豆大一点』。",
+      "anchor": "licking the blue airmail envelope, Ma appeared, red-eyed, with the news that Miriam had miscarried",
+      "byte_offset": 6223,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "回溯：Pamela 生下 Sam——出生时满头乌黑头发，比 Leni 晚十六个月；Miriam 先是沉默，隔了约两年才来信说遵医嘱停止尝试生育，但她永远可以做姨妈、Lawrence 也极度渴望生命中有孩子，问『能见见 Leni 和 Sam 吗？』——Pamela 血都凉了；其后几年信件、礼物、明信片不断追问『能来吗？能见见孩子们吗？』，她左右为难，最终把自己小家放在第一位。",
+      "anchor": "born with a full head of jet-black hair, sixteen months after Leni",
+      "byte_offset": 6455,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "现在线收束：Dolly 发出『有人到门口』的专用吠声；Pamela 不假思索把锡盒和信夹进腋下，从篝火往大门、花园、屋子赶——生怕错过访客，还盼着能救人一把（邻居车打不着火、锅炉坏了、或哪位老糊涂需要条毯子）；雪比想象的深、菜园小径被埋，她在冬甘蓝旁的破石板上留神脚下——膝部旧伤猛地绞紧、偏又缠上一段塌落的鸡网，她失衡摔倒：信、锡盒、手机脱手飞出，『一记剧痛，随后是冰冷刺目的白』。",
+      "anchor": "The letters fly from her gloved hands, the tin, her phone. A crack of pain, then cold blinding white.",
+      "byte_offset": 8226,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Pamela–Alf",
+      "rel": "孪生手足：同日出生、仅差几分钟；Alf 早逝，Pamela 见椋鸟群飞仍想『Alf 会喜欢这个』，并向亡者求问",
+      "evidence": "born on the same day, within minutes of one another"
+    },
+    {
+      "pair": "Pamela–Leni",
+      "rel": "母女：Leni 比 Sam 早十六个月出生，亦早夭；Pamela 仍会想『这会让 Leni 笑个不停』",
+      "evidence": "She lost Alf and Leni"
+    },
+    {
+      "pair": "Pamela–Tony",
+      "rel": "夫妻：Tony 先她去世（好丈夫、恒久温柔的幸福），其生前口吻仍能被她『听见』（『太迟了，Pammy』『妖怪已出瓶，宝贝』）",
+      "evidence": "the laying to rest of a good husband"
+    },
+    {
+      "pair": "Pamela–Sam",
+      "rel": "母子：Sam 出生时满头乌黑头发，至今近一年未回家",
+      "evidence": "been back for almost a year"
+    },
+    {
+      "pair": "Pamela–Jo",
+      "rel": "同住长辈与晚辈：Pamela 断定 Jo 翻出谷仓锡盒并循迹追查（去 Rushwood、钉地图、写『Nancy – dead?』），却在 Jo 面前选择沉默；她最深的恐惧是 Miriam 会『偷走』Jo——正如当年 Leni 被迷住",
+      "evidence": "what will stop Miriam stealing Jo"
+    },
+    {
+      "pair": "Pamela–Miriam",
+      "rel": "亲姐妹：Miriam 正准备把家族秘密卖给出价最高者，Pamela 深恐她抢走 Jo",
+      "evidence": "preparing to hawk her family secrets to the highest bidder"
+    },
+    {
+      "pair": "Miriam–Lawrence",
+      "rel": "夫妻：到美国六个月后在市登记处成婚；Lawrence 极度渴望有孩子；因 Miriam 屡孕屡流，两人遵医嘱停止尝试",
+      "evidence": "Lawrence was desperate for children in his life too"
+    },
+    {
+      "pair": "Miriam–Pa",
+      "rel": "父女决裂：Pa 断言『没有回头路，Lawrence 不行，Miriam 也不行』却极其想念她、赌两人分手；Miriam 改用母亲娘家姓 Mott 令他愈发恼火；婚礼连问都未被问",
+      "evidence": "no way back, not for Lawrence, not for Miriam"
+    },
+    {
+      "pair": "Harold 与 Celia Caswell–Miriam/Lawrence 婚礼",
+      "rel": "未到场、拒绝给祝福",
+      "evidence": "refused to give their blessing"
+    },
+    {
+      "pair": "Elliot Whipple–婚礼",
+      "rel": "与其男友一起成为婚礼仅有的到场者",
+      "evidence": "just Elliot Whipple and his boyfriend"
+    },
+    {
+      "pair": "Pa/家人–Alf 之死与 Miriam",
+      "rel": "Pa 无法看 Miriam 而不想起 Alf 坠穿 orangery 屋顶；全家都想忘掉 Caswell 一家，而她妹妹偏偏爱上了一个 Caswell",
+      "evidence": "Alf hurtling through the orangery roof"
+    },
+    {
+      "pair": "Miriam–Leni（旧事）",
+      "rel": "Miriam 曾携 Harrods 粉色毯子南下 Bantom End，饥渴地盯着 Leni——那是 Pamela 拥有而 Miriam 得不到的唯一之物",
+      "evidence": "wielding her Harrods pink blanket"
+    },
+    {
+      "pair": "Dolly–Pamela",
+      "rel": "她的狗：有『有人到门口』的专用吠声",
+      "evidence": "Her someone-at-the-door bark"
+    }
+  ],
+  "numbers_dates": [
+    {
+      "what": "时间：凌晨不到四点",
+      "evidence": "Not even four"
+    },
+    {
+      "what": "时节：十二月黑空、大雪（本章末 blizzard、white-out）",
+      "evidence": "the black December sky"
+    },
+    {
+      "what": "出生间隔：Pamela 与 Alf 同日出生、仅差几分钟",
+      "evidence": "within minutes of one another"
+    },
+    {
+      "what": "Sam 离家：将近一年未回",
+      "evidence": "been back for almost a year"
+    },
+    {
+      "what": "婚期：Miriam 到美国六个月后成婚",
+      "evidence": "six months after arriving in America"
+    },
+    {
+      "what": "Sam 出生：晚于 Leni 十六个月",
+      "evidence": "sixteen months after Leni"
+    },
+    {
+      "what": "Miriam 报『停育』之信：隔约两年；其后几年（a few years on）信件/礼物/明信片追问探访",
+      "evidence": "before writing a couple of years later"
+    },
+    {
+      "what": "Miriam 容貌：拉皮回到五十来岁",
+      "evidence": "face-lifted back to her fifties"
+    }
+  ],
+  "turning_point": "Pamela 怀揣 Miriam 锡盒与信件赶回屋应付突然而至的访客，被膝伤与一段塌落的鸡网绊倒——信、锡盒、手机脱手飞出，『一记剧痛，随后是冰冷刺目的白』，全章在她雪地栽倒、生死未明的瞬间收束。"
+}

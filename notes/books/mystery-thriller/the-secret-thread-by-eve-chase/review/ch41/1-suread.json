@@ -1,0 +1,187 @@
+{
+  "chapter": "ch41",
+  "text_file": "text/ch41_chapter_41.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "乔在客厅里煎熬等待（咬指甲、踱步），不确定单独与米米相处的 Woody 是在替她辩护还是把她晾干；二十分钟后 Woody 回报：米米已同意见她。",
+      "anchor": "After twenty minutes, Woody reappears, heavy-browed",
+      "byte_offset": 274,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "认亲靠身体特征完成：米米把乔的手掌像看市场上的鱼一样翻看，认定是 Pamela 的手；又端详乔的颧骨，说也像 Pamela。",
+      "anchor": "And those cheekbones of yours, like stone fruit. Hers too.",
+      "byte_offset": 2833,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "应米米之请，乔描述亡母 Leni（贯穿全身的笑、像 Paula Yates 的金色短发、耳部一路穿孔、手臂上蜂鸟缠叶纹身）；米米以园丁之女身份随口补全 Rosa glauca 的园艺细节，两人气氛松动。",
+      "anchor": "Hummingbirds and leaves twined up her arms.",
+      "byte_offset": 4519,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "听说姐姐把自己的剪报收在 shortbread 铁罐里，米米拍着椅臂爆发、离座踱步——『我是怪物？Pamela 连见都不见我』；她宣告自己的成功是『最后的侮辱』，自己从未被原谅爱上了 Lawrence。",
+      "anchor": "I was never forgiven for falling in love with Lawrence.",
+      "byte_offset": 5852,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "乔转述悉尼舅舅 Sam 的告诫（别对祖母提铁皮罐）并提到母亲当年也问过米米与 Rushwood 未果之后，米米低声抛出惊人之问：你父母出事时是不是正要去 Rushwood；乔答车祸发生在 Dorset、自己此前根本不知 Rushwood 存在，米米立刻改口让她忘掉这句话。",
+      "anchor": "Were your parents heading to Rushwood when they had their accident?",
+      "byte_offset": 7529,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "米米交代决裂代价：母亲去世时 Pamela 只来过一通电话，说 Lawrence 不许参加葬礼（米米本没提要带他）；米米羞愧自认没去自己母亲、以及后来父亲的葬礼。",
+      "anchor": "I’m ashamed I didn’t go to my own mother’s funeral, or later Pa’s.",
+      "byte_offset": 9593,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "米米揭开拍卖会起源：寡居约一年、清晨乔装散步避人的低谷期，『疯狂的念头』成形——她确信是亡夫 Lawrence 从彼岸『投球』掷来的点子：办 Life in Objects 拍卖，让塞满旧物（那条裙子、Nana 的被子）的目录非落进 Pamela 手里不可，让她不得不读——公开讲整个故事，就为了让妹妹听见。",
+      "anchor": "it was Lawrence, of course! Lobbing it down.",
+      "byte_offset": 16597,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "乔起身说要先亲自当面去警告 Pamela，话被敲门声打断：Woody 进门向米米通报——目录校样已交快递，预计四点前送达她姐姐。",
+      "anchor": "The catalogue proof is with the courier and should reach your sister by four.",
+      "byte_offset": 20960,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "rel": "米米（Mimi）是乔的 great-aunt（祖辈姨婆/舅婆），乔一直以米米相称。",
+      "anchor": "Her great-aunt.",
+      "byte_offset": 849,
+      "hits": 1
+    },
+    {
+      "rel": "米米本名 Miriam Bramley（乔认知里的名号是 Mimi Mott），是乔的外婆 Pamela 疏远多年的亲姐姐；乔此前只知道外婆『有个疏远的妹妹叫 Miriam』，且印象是『她以某种方式背叛了家族』，外婆大多不肯谈她。",
+      "anchor": "she had an estranged sister, Miriam",
+      "byte_offset": 6320,
+      "hits": 1
+    },
+    {
+      "rel": "旁白点破眼前这位就是 Miriam Bramley——由『华贵名流』到『切齿的手足』的转变令乔吃惊。",
+      "anchor": "Miriam Bramley, Jo thinks",
+      "byte_offset": 5049,
+      "hits": 1
+    },
+    {
+      "rel": "姐妹本姓 Bramley：『Bramley 姐妹的姓名首字母』用粉线绣在心口——即乔认出的那件遗物上的绣字。",
+      "anchor": "initials stitched across her heart in pink thread",
+      "byte_offset": 1066,
+      "hits": 1
+    },
+    {
+      "rel": "乔姓随父 O'Mara（爱尔兰一系），米米从未见过乔的父亲所以没联想；若乔姓 Mackie 她当场就能认出。",
+      "anchor": "If your surname were Mackie, of course",
+      "byte_offset": 2571,
+      "hits": 1
+    },
+    {
+      "rel": "Leni 是乔的亡母；米米只在 Leni 婴儿时见过一次，还记得问『她的眼睛后来还是蓝的吗』。",
+      "anchor": "I only met Leni once. As a baby.",
+      "byte_offset": 3057,
+      "hits": 1
+    },
+    {
+      "rel": "Sam 是乔在悉尼的舅舅，听完铁皮罐的事告诫乔：别对祖母提——她会发疯。",
+      "anchor": "I called Sam, my uncle in Sydney, first",
+      "byte_offset": 6811,
+      "hits": 1
+    },
+    {
+      "rel": "Lawrence 是米米已故丈夫：极重隐私，生前与米米约定不公开谈二人关系与家世，但留过话『Once I’m gone, your call, honey』；他厌恶米米与 Pamela 断绝来往。",
+      "anchor": "Once I’m gone, your call, honey.",
+      "byte_offset": 17550,
+      "hits": 1
+    },
+    {
+      "rel": "Lawrence 也失去过至亲——『珍贵的妹妹』Nancy。",
+      "anchor": "He’d lost Nancy, his precious sister, after all",
+      "byte_offset": 17775,
+      "hits": 1
+    },
+    {
+      "rel": "Lawrence 对 Alf 之死负疚；米米自辩：若有先见之明，他绝不会鲁莽地把 Alf 叫到边缘，她也绝不会让 Alf 靠近那场派对、更别说屋顶——Alf 之死与『那场派对的屋顶』直接挂钩。",
+      "anchor": "recklessly called Alf to the edge",
+      "byte_offset": 18453,
+      "hits": 1
+    },
+    {
+      "rel": "Alf 与 Bramley 姐妹是童年旧识：儿时玩雪时 Alf 会扔雪球砸她们。",
+      "anchor": "Alf would pelt us with snowballs",
+      "byte_offset": 11177,
+      "hits": 1
+    },
+    {
+      "rel": "Woody 是米米身边的近侍/助理：本章先单独与米米密谈二十分钟，再负责向乔通传目录快递进度。",
+      "anchor": "Woody, alone with Mimi, is defending her or hanging her out to dry",
+      "byte_offset": 103,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "item": "等待二十分钟后 Woody 回报",
+      "anchor": "After twenty minutes",
+      "byte_offset": 274,
+      "hits": 1
+    },
+    {
+      "item": "米米只见过 Leni 一次、还是婴儿时",
+      "anchor": "I only met Leni once. As a baby.",
+      "byte_offset": 3057,
+      "hits": 1
+    },
+    {
+      "item": "米米与 Lawrence 相识时她十九岁",
+      "anchor": "we met when I was nineteen",
+      "byte_offset": 12403,
+      "hits": 1
+    },
+    {
+      "item": "拍卖念头起于寡居约一年时",
+      "anchor": "about a year into widowhood",
+      "byte_offset": 13489,
+      "hits": 1
+    },
+    {
+      "item": "婉拒的邀约中含 Paige 在 Montauk 的八十寿宴",
+      "anchor": "eightieth in Montauk",
+      "byte_offset": 13625,
+      "hits": 1
+    },
+    {
+      "item": "上东区早晨六点后极易撞见熟人——米米为此天亮即出、乔装散步",
+      "anchor": "always a hazard on the Upper East Side after six a.m.",
+      "byte_offset": 14035,
+      "hits": 1
+    },
+    {
+      "item": "目录校样预计四点前送达米米的姐姐",
+      "anchor": "should reach your sister by four",
+      "byte_offset": 21004,
+      "hits": 1
+    },
+    {
+      "item": "旅居数十年后对英格兰的乡愁骤然袭来",
+      "anchor": "suddenly, after decades",
+      "byte_offset": 15008,
+      "hits": 1
+    }
+  ],
+  "turning_point": "米米脱口问出『你父母出事时是不是正要去 Rushwood』又立刻改口让乔忘掉——乔第一次察觉米米的故事暗处藏着与自己父母之死有关的、看不见的东西。"
+}

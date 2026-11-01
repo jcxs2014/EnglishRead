@@ -1,0 +1,144 @@
+{
+  "chapter": "ch40",
+  "text_file": "text/ch40_chapter_40.txt",
+  "facts": [
+    {
+      "no": 1,
+      "fact": "伍迪替咪咪拉开公寓门等乔进来，前一晚脸上温柔的神色已变得僵硬刻板；乔带着 sinking feeling 走进门厅，低声问是不是她发给咪咪的终稿有问题，伍迪答「问题出在你身上……大问题」，随后沉重的门哐一声关上。",
+      "anchor": "Woody holds open Mimi’s apartment door.",
+      "byte_offset": 21,
+      "hits": 1
+    },
+    {
+      "no": 2,
+      "fact": "乔请求找个私密地方谈，伍迪迟疑后领她进衣帽间，抢先把话挑明「别再骗我了，我知道」——他说自己一早复核了帕梅拉的地址并做了挖掘，起因是昨夜河边乔的脸色，他开始怀疑让她反感的并非与他出游的念头。",
+      "anchor": "Don’t bullshit me any more. I know.",
+      "byte_offset": 1092,
+      "hits": 1
+    },
+    {
+      "no": 3,
+      "fact": "伍迪摊牌：他查到乔七年前就登记住在「咪咪姐妹的地址」；乔含泪承认「帕梅拉是我的祖母」，说不知有多想告诉伍迪，伍迪只回一句「可你没有」。",
+      "anchor": "I found out you were registered as living at Mimi’s sister’s address seven years ago.",
+      "byte_offset": 1751,
+      "hits": 1
+    },
+    {
+      "no": 4,
+      "fact": "乔辩解要先听完咪咪的故事（布拉姆利家的故事、也是自己家的故事）才能说；伍迪反问她难道不认为咪咪有权知道她的来历，并质问是不是帕梅拉·麦基指使的；乔惊骇否认——帕梅拉从没提过这场拍卖，她也从没告诉帕梅拉，「这都是我一人所为」。",
+      "anchor": "Did Pamela Mackie – your grandmother, shit, Jo – put you up to this?",
+      "byte_offset": 2416,
+      "hits": 1
+    },
+    {
+      "no": 5,
+      "fact": "伍迪抱着手臂只给「两分钟」；乔连珠炮讲述：铁盒里的旧剪报让她发现名人咪咪·莫特就是祖母疏远的姐妹米里亚姆，这推翻了她对家族的全部认知；她从没指望被雇用、甚至没指望收到回信，「感觉像命运」，伍迪回敬「感觉像欺诈」。",
+      "anchor": "the famous Mimi Mott was Granny’s estranged sister, Miriam",
+      "byte_offset": 3380,
+      "hits": 1
+    },
+    {
+      "no": 6,
+      "fact": "乔辩称一直打算向咪咪挑明身份，只是「始终不是好时机」：拉什伍德和咪咪的故事吞噬了她，她确信一开始就坦白就会立刻出局（丢工作、被逐出咪咪的生活）；咪咪与祖母是仅存的两个姐妹且已疏远，她本想弄清姐妹决裂的原委后撮合二人、修复一切——伍迪倦怠地指出她什么也没修好。",
+      "anchor": "But you haven’t fixed anything",
+      "byte_offset": 4773,
+      "hits": 1
+    },
+    {
+      "no": 7,
+      "fact": "伍迪宣布终局：最后一部分稿子已送去 Lordats，乔与咪咪的面谈结束了、完结；乔说仍有什么她没挖出来、或咪咪没说，随即承认「我把这事搞砸了」；伍迪没有反驳，但戒备松了下来，眼里浮起近乎怜悯的东西。",
+      "anchor": "the last bit of copy’s gone to Lordats. Your sessions with Mimi are over. Finished.",
+      "byte_offset": 4953,
+      "hits": 1
+    },
+    {
+      "no": 8,
+      "fact": "乔挺直身子、整理好自己，说「我就是来向咪咪全盘托出的」，走向门口；伍迪轻触她的手臂——两人之间开始过的东西就此结束——随后压低声音、带着警告的分量说：「咪咪已经知道了。」",
+      "anchor": "Mimi already knows.",
+      "byte_offset": 5767,
+      "hits": 1
+    }
+  ],
+  "relations": [
+    {
+      "relation": "帕梅拉是乔的祖母（乔口中的 Granny）。",
+      "anchor": "Pamela is my grandmother",
+      "byte_offset": 1895,
+      "hits": 1
+    },
+    {
+      "relation": "名人咪咪·莫特是乔祖母疏远的姐妹，本名米里亚姆（Miriam）——即咪咪与帕梅拉是姐妹。",
+      "anchor": "the famous Mimi Mott was Granny’s estranged sister, Miriam",
+      "byte_offset": 3380,
+      "hits": 1
+    },
+    {
+      "relation": "咪咪与祖母（帕梅拉）是仅存的两姐妹，且关系疏远。",
+      "anchor": "Mimi and Granny are the only surviving siblings. Estranged.",
+      "byte_offset": 4495,
+      "hits": 1
+    },
+    {
+      "relation": "伍迪与乔有罗曼史：前夜有河边之吻，本章两人之间萌生的感情走向终结（文内推断链：伍迪复核的是帕梅拉的地址→查到乔登记在「咪咪姐妹的地址」→乔当即承认帕梅拉是祖母，故「咪咪的姐妹」即帕梅拉）。",
+      "anchor": "whatever began between them ending",
+      "byte_offset": 5687,
+      "hits": 1
+    },
+    {
+      "relation": "帕梅拉从未向乔提过这场拍卖，乔也从未把拍卖/受雇的事告诉帕梅拉——乔同时瞒着咪咪与帕梅拉，自称「全是我一人所为」。",
+      "anchor": "She’s never mentioned this auction",
+      "byte_offset": 2552,
+      "hits": 1
+    },
+    {
+      "relation": "乔受雇记录咪咪的口述并撰写书稿：终稿由乔发给咪咪，最后一部分稿子经伍迪之手送往 Lordats（伍迪掌握稿件流程与面谈安排）。",
+      "anchor": "Is there a problem with the final copy I sent Mimi?",
+      "byte_offset": 417,
+      "hits": 1
+    },
+    {
+      "relation": "伍迪起初视乔为骗子（fraud）且未否认她搞砸了一切，但听完解释后戒备松动、眼中近乎怜悯，还轻触她的手臂并低声预警——关系由决裂转为留有余地。",
+      "anchor": "I’ve fucked this up.",
+      "byte_offset": 5292,
+      "hits": 1
+    }
+  ],
+  "numbers_dates": [
+    {
+      "item": "「七年前」——伍迪查到乔登记住在咪咪姐妹地址的时间。",
+      "verbatim": "seven years ago",
+      "anchor": "seven years ago",
+      "byte_offset": 1824,
+      "hits": 1
+    },
+    {
+      "item": "「两分钟」——伍迪听乔解释的时限。",
+      "verbatim": "Two minutes",
+      "anchor": "Two minutes",
+      "byte_offset": 3223,
+      "hits": 1
+    },
+    {
+      "item": "「一早」——伍迪复核帕梅拉地址并开始挖掘的时间点。",
+      "verbatim": "first thing",
+      "anchor": "I double-checked Pamela’s address first thing",
+      "byte_offset": 1284,
+      "hits": 1
+    },
+    {
+      "item": "「昨夜」——河边之吻与乔异样脸色发生的夜晚（相对时间）。",
+      "verbatim": "last night",
+      "anchor": "your face by the river last night",
+      "byte_offset": 1371,
+      "hits": 1
+    },
+    {
+      "item": "「40」——章号头标（本章编号，全文件唯一数字出现处）。",
+      "verbatim": "40",
+      "anchor": "40",
+      "byte_offset": 11,
+      "hits": 1
+    }
+  ],
+  "turning_point": "乔顶住伍迪的质问坦白了身世并决意去向咪咪和盘托出，伍迪却在门口轻触她手臂、低声封死这场自白：「咪咪已经知道了。」"
+}
