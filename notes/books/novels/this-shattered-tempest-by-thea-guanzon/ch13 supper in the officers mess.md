@@ -17,21 +17,21 @@ modified: "2026-11-01"
 
 > **原句 1:** "Had Alaric possessed the capacity to derive any measure of humor from the situation, it would have struck him as laughable, how he’d been reduced to this—driven from his own stateroom, spending the day terrorizing his crew over inconsequential matters and haunting the passageways of his own ship."
 
-**中文理解**：假如他还有本事从眼下的处境里挤出一点幽默，这事本来挺可笑：他被挤出了自己的舱房，一整天拿鸡毛蒜皮的小事折腾船员，在自己船上的过道里来回游荡——一个刚打赢仗的人，被自己的妻子赶得没处落脚。
+**中文理解**：假如他还有本事从眼下的处境里挤出一点幽默，这事本来挺可笑：他被挤出了自己的舱房，一整天拿鸡毛蒜皮的小事折腾船员，在自己船上的过道里来回游荡。
 
 **关键词**：stateroom · terrorizing · laughable
 
 **为什么这样写**：作者不写「他很恼火」，而是先给他一个假设句（假如他还笑得出来），随手把这个假设否掉：幽默没了，人还留在原地。后面串起来的三个动作——被赶出舱房、折腾船员、在过道游荡——是同一股火气的三个出口，读者看到的是一个把无处可发的脾气撒在下属身上的人。「his own」连用两次（自己的舱房、自己的船），把「这是我的地盘」和「我在这儿也待不住」顶在一处。
 
-**读者视角提示**：这句的自嘲腔调值得留意：能把自己看成笑话，说明他还没打算把这件事升级成审判。等他坐到餐桌旁，同一股火气换了出口，只是不再出声。
+**读者视角提示**：这句的自嘲腔调值得留意：能把自己看成笑话，说明他还没打算把这件事升级成审判。而下面那三个动作——被挤出舱房、折腾船员、在过道游荡——说明他连躲都躲不干净：船是他的，过道也是他的。
 
 > **原句 2:** "But he had poured his heart out to her about Sancia Ossinast leaving, that night in their bedroom at Iantas. She had found him broken and bleeding from his father’s punishment, that night at the Citadel. On both occasions, she had offered him consolation and reprieve."
 
-**中文理解**：他想起自己曾把桑西亚·奥西纳斯特出走的事整颗心掏给她听，那是在伊安塔斯他们的卧室里；她也见过他被父亲惩罚后流血破碎的样子，那是在城塞。两回她都给了他安慰，也给了他喘息。可她对自己家在这场灾难里做过什么，一个字也没提。
+**中文理解**：他想起自己曾把桑西亚·奥西纳斯特出走的事整颗心掏给她听，那是在伊安塔斯他们的卧室里；她也见过他被父亲惩罚后流血破碎的样子，那是在城塞。两回她都给了他安慰，也给了他喘息。
 
 **关键词**：consolation · reprieve · bleeding
 
-**为什么这样写**：这一段是本章唯一把「她本该开口」讲清楚的地方，用的却是他自己的账本：两次最狼狈的时刻，她都在场，都递了手。句子把地点钉得很实（伊安塔斯的卧室、城塞），越具体，后面那句「她什么也没说」就越像一刀。三句从「我掏心」走到「她安慰」，收在「两回」这个数字上——亏欠一旦可数，就不再是感觉，成了账。
+**为什么这样写**：这一段是本章唯一把「她本该开口」讲清楚的地方，用的却是他自己的账本：两次最狼狈的时刻，她都在场，都递了手。句子把地点钉得很实（伊安塔斯的卧室、城塞），越具体，紧接着的下一句「And she had said nothing」就越像一刀——她那两次的安慰，到这里全部作废。三句从「我掏心」走到「她安慰」，收在「两回」这个数字上——亏欠一旦可数，就不再是感觉，成了账。
 
 **读者视角提示**：`poured his heart out` 和 `consolation and reprieve` 是同一套词：他付出的和收到的都落在情感这一栏。注意她的沉默被推到下一段才出现，读者的同情先落在他这边，再被他随后那句自我驳回顶回来。
 
@@ -41,9 +41,9 @@ modified: "2026-11-01"
 
 **关键词**：mess · loquacity · monosyllabic
 
-**为什么这样写**：一顿饭的戏，重点不在吃什么，在座位：唯一一张桌子把四个立场不同的人按在一起，谁也没法退席。作者先用「又快又静，阿拉里克喜欢」立起旧规矩，再用一个 but 推翻它——推翻规矩的不是争吵，只是一位妻子在场。塞夫雷姆的滔滔不绝撞上塔拉辛的单音节回应，这顿饭的紧张感正是从这个音量差里出来的。
+**为什么这样写**：一顿饭的戏，重点不在吃什么，在座位：唯一一张桌子把四个名字按在一处，谁也没法退席。作者先用「又快又静，阿拉里克喜欢」立起旧规矩，再用一个 but 推翻它——推翻规矩的不是争吵，只是一位妻子在场。塞夫雷姆的滔滔不绝撞上塔拉辛的单音节回应，这顿饭的紧张感正是从这个音量差里出来的。
 
-**读者视角提示**：把这张桌子当成一张压缩图：塞夫雷姆的热络、塔拉辛的冷、阿拉里克的按兵不动，三种反应指向同一件事——谁都在等别人先露出破绽。
+**读者视角提示**：把这张桌子当成一张压缩图：塞夫雷姆的热络撞上塔拉辛一次次冷回，其余的人只要坐在桌边就够了——这顿饭的紧张，全靠这个音量差撑着。
 
 > **原句 4:** "“You didn’t aethermance in the lodge,” Ileis pointed out. “I can only assume that you haven’t trained enough to be able to draw on your magic, however briefly, when physically taxed. Or it’s not as instinctive for you the way it is for us in the Legion.”"
 
@@ -51,7 +51,7 @@ modified: "2026-11-01"
 
 **关键词**：aethermance · instinctive · Legion
 
-**为什么这样写**：这句问话的形状值得细看：它给塔拉辛留了两条路，一条是「你不够强」，一条是「你的魔法不顺手」，两条都通向同一个结论——你露了底。伊莱丝不指控，她只「指出」再「推断」，把刀递过去让对方自己握。开头那个地点状语「在小屋里」，又把一顿随口的饭桌闲谈钉回了行刺现场。
+**为什么这样写**：这句问话的形状值得细看：它给塔拉辛留了两条路，一条是「你不够强」，一条是「你的魔法不顺手」，两条都绕不开同一件事：那一晚她没有动用魔法。伊莱丝不指控，她只「指出」再「推断」，把刀递过去让对方自己握。开头那个地点状语「在小屋里」，又把一顿随口的饭桌闲谈钉回了行刺现场。
 
 **读者视角提示**：把 `however briefly` 圈出来：伊莱丝连「短暂调用」这种最低限度都算进账里，可见她量的不是塔拉辛强不强，而是那套魔法还能不能被使出来。
 
@@ -61,7 +61,7 @@ modified: "2026-11-01"
 
 **关键词**：procrastinated · button · reflection
 
-**为什么这样写**：紧邻的上一段只有一句「I need your help」，作者把它单独成段，请求短得没有回旋余地；到了这一段，真正的难处才露出来——她要人帮的不是打仗，是解开一长排扣子。整段不写「羞」字，只写她拖延、只写她盯着倒影、只写她碰了碰最上面那颗扣子，三层动作一层比一层退让。
+**为什么这样写**：紧邻的上一段只有一句「I need your help」，作者把它单独成段，请求短得没有回旋余地；到了这一段，真正的难处才露出来——她要人帮的不是别的，是解扣子。整段不写「羞」字，只写她拖延、只写她盯着倒影、只写她碰了碰最上面那颗扣子，三层动作一层比一层退让。
 
 **读者视角提示**：`still trained on her husband’s reflection` 是个要紧的姿势：她不敢回头看他本人，只敢看镜子里的他。愿意隔着反射开口，本身就说明她做好了被拒绝的准备。
 
@@ -73,7 +73,7 @@ modified: "2026-11-01"
 
 **为什么这样写**：这是全章最狠的一处并置：他的手指落在她皮肤上，她的身体却用「光」来回应，而光正是被夺走的那样东西。作者不写她心动，写「心口下方炸开上千点乱跳的光」，再补一句「她已经失去的魔法留下的回声」，把生理反应和那份失去焊在同一句里。收尾的「The cooking pot, maybe」又把这幕从神话拽回灶台：他认出的不是星座的学名，是一口锅。
 
-**读者视角提示**：别放过 `aforementioned spot` 这种说法：他用最正经的词去指她肩上的雀斑，正经得有点笨。笨是这段的底色——两个平日都很会说话的人，此刻只会讨论雀斑和锅。
+**读者视角提示**：别放过 `aforementioned spot` 这种说法：他用最正经的词去指她肩上的雀斑，正经得有点笨。笨是这段的底色：此刻的对话只剩雀斑和锅。
 
 > **原句 7:** "“The stones on our rings—they’re called vulana. There’s a folktale for them, too.” Talasyn slipped her hand into the fabric of her dress, concealing her bare finger. Although she doubted he’d care overly much that she was no longer wearing her wedding band, that it was tucked away in a jewelry box at the bottom of her trunk."
 
@@ -91,9 +91,9 @@ modified: "2026-11-01"
 
 **关键词**：grief · everlasting · World-Eater
 
-**为什么这样写**：上一块末尾她问过，拿悲伤的象征来做婚戒是不是有点「inauspicious」；他这一句正面接了那个词，先否掉，再给理由。理由分三层：悲伤证明爱还在；噬世者的爱不会结束；那种爱强到能毁岛。三句一句比一句大，而他的动作只有一个「又解开一颗扣子」——话往神话里走，手往现实里走，两端拉扯撑起这段的张力。
+**为什么这样写**：「inauspicious」这个词是接她的话：她问过，拿悲伤的象征来做婚戒是不是有点不吉利（那句在原段靠后，未入引语）；他先否掉，再给理由。理由分三层：悲伤证明爱还在；噬世者的爱不会结束；那种爱强到能毁岛。三句一句比一句大，而他的动作只有一个「又解开一颗扣子」——话往神话里走，手往现实里走，两端拉扯撑起这段的张力。
 
-**读者视角提示**：他把「不吉利」这三个字接过去替它翻了案：同一对戒指，她看见的是灾，他看见的是爱还没断。这句是他整章里最长的一次表态，说的却不是她，是他自己怎么理解失去。
+**读者视角提示**：他把「不吉利」这三个字接过去替它翻了案：同一对戒指，她看见的是灾，他看见的是爱还没断。他这一整段话都在讲自己怎么理解失去，讲的却不是她。
 
 > **原句 9:** "Please forgive me, she silently implored the wraithlike figure in the metalglass. The phantom who held her in the barest facsimile of an embrace. Take me fully into your arms and forgive me, just this once."
 
@@ -101,9 +101,9 @@ modified: "2026-11-01"
 
 **关键词**：wraithlike · facsimile · implored
 
-**为什么这样写**：她求的那个人不在她身后，在镜面里，叙述者干脆把他叫作 phantom（幻影）。`the barest facsimile of an embrace` 是全章最凉的一笔：人是抱着的，可那只是拥抱的仿制品。三句祈使一句比一句低声，到「just this once」已经没有商量的余地，只剩讨要。
+**为什么这样写**：她求的对象只是镜面里的倒影，叙述者干脆把他叫作 phantom（幻影）。`the barest facsimile of an embrace` 是全章最凉的一笔：人是抱着的，可那只是拥抱的仿制品。两次开口求他，一次比一次低声，到「just this once」已经没有商量的余地，只剩讨要。
 
-**读者视角提示**：这是她的内心话，站在她身后的阿拉里克一个字也听不见，读者却听得清清楚楚。作者把这句话单独留给读者，等于把两人错在哪里摊开：她要的是原谅，而原谅这件事，得先有人把话说完。
+**读者视角提示**：这是她的内心话，阿拉里克一个字也听不见，读者却听得清清楚楚。作者把这句话单独留给读者，等于把两人错在哪里摊开：她要的是原谅，而原谅这件事，得先有人把话说完。
 
 ## 本章词汇
 
