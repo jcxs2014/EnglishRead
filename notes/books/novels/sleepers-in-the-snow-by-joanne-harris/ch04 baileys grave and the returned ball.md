@@ -21,7 +21,7 @@ modified: "2026-10-31"
 
 **关键词**：Bailey / buried / pine tree / pink azalea / Arthur
 
-**为什么这样写**：日记以原文嵌入，是全书第一次让 Caroline 自己开口：短句、口语、不加修饰，与男主一路的沉思文体形成质地对比。「I did it all」与「Arthur even noticed」构成一个无人应答的对照——哀悼是她独自完成的事。粉杜鹃作为实体被种下，为后文男主在荒原上寻找它提供坐标。
+**为什么这样写**：日记以原文嵌入，让 Caroline 自己开口：短句、口语、不加修饰，与男主一路的沉思文体形成质地对比。「I did it all」与「Arthur even noticed」构成一个无人应答的对照——哀悼是她独自完成的事。粉杜鹃作为实体被种下，为后文男主在荒原上寻找它提供坐标。
 
 **读者视角提示**：读这段请放慢：这不是作者转述，是 Caroline 亲笔。她的语气里有爱（Dear old Bailey）、有不舍（God, I’ll miss him）、有独自承担的不平（I did it all）——你会第一次意识到这个「已故女主人」曾经是一个会为狗流泪的活人。
 

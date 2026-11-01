@@ -73,7 +73,7 @@ modified: "2026-11-01"
 
 **为什么这样写**：这段回忆是全书最温柔的恐怖——它的内容是家庭的幸福（海滩、城堡、狗、孩子），而它的载体是电线（超自然）。Joanne Harris 用「幸福回忆 + 超自然载体」的并置制造「温柔恐怖」：声音本身是温暖的，但它不该在那里。而「the four of us」（我们四个人）暗示有第四个人——Arthur 与 Caroline + 两个孩子（Greg 与 Lucy）——而 Lucy 可能就在门外。
 
-**读者视角提示**：注意这段声音的内容——Caroline 说「stay away from the river」（下一块）——她在电线里警告 Lucy 远离河流，而 Lucy 在 ch25 正是溺死于河边（Lucy Foxton 的传说）。母亲在电线里警告女儿，而女儿的鬼魂可能就在房子外面。
+**读者视角提示**：注意这段声音的内容——Caroline 说「stay away from the river」（下一块）——她在电线里警告 Lucy 远离河流——而传说中溺亡于河边（或冰溪）的女孩恰好也叫 Lucy（Lucy Foxton，ch25/ch18）；现代的 Lucy 与传说的 Lucy 是什么关系，是全书悬念之一。母亲在电线里警告女儿，而女儿的鬼魂可能就在房子外面。
 
 > **原句 7:** "the recorded voice was unclear; no longer a cool, robotic voice, but that of a confused old man: I’m sorry. I’m sorry. Who is this? This number has been disconnected. Tread softly, she is near. Oh, Caroline. My Caroline."
 

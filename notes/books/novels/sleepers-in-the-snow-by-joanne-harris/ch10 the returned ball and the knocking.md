@@ -21,9 +21,9 @@ modified: "2026-10-31"
 
 **关键词**：stairs / ball / familiar / bouncing / gravity
 
-**为什么这样写**：「familiar and alarmingly out of place」两个形容词的并置是本章的基调——球的声音他熟悉，但出现在楼梯上却「alarmingly out of place」，因为昨晚球不在楼梯上。作者用「a longer interval between each bounce as gravity took over」这个物理细节把弹跳写成一个不可逆的过程：重力在「接管」，球不是自己滚下来，是被某种力量放下来再让重力送下来的。这与 ch04 球首次出现在路边形成对照：那一次是静态发现，这一次是动态侵入——球从户外进了屋内，而且是从楼梯上滚下来的，意味着有人（或有东西）把球放到了楼梯顶端。
+**为什么这样写**：「familiar and alarmingly out of place」两个形容词的并置是本章的基调——球的声音他熟悉，但出现在楼梯上却「alarmingly out of place」，因为昨晚球不在楼梯上。作者用「a longer interval between each bounce as gravity took over」这个物理细节把弹跳写成一个不可逆的过程：重力在「接管」，球不是自己滚下来，是被某种力量放下来再让重力送下来的。这与 ch01 球首次出现在门口、ch04 球自己回到路边形成对照：那两次是静态发现，这一次是动态侵入——球从户外进了屋内，而且是从楼梯上滚下来的，意味着有人（或有东西）把球放到了楼梯顶端。
 
-**读者视角提示**：注意「Bump-bump」这个拟声词独立成句——它先于任何解释出现，读者和主人公一样先听到声音再去找来源。请把这句与 ch04 球首次出现时的描写对照：那一次是路边发现，这一次是屋内楼梯——球的侵入范围在扩大。
+**读者视角提示**：注意「Bump-bump」这个拟声词独立成句——它先于任何解释出现，读者和主人公一样先听到声音再去找来源。请把这句与 ch01 球首次出现（门口）、ch04 球自己回到路边的描写对照：那两次是静态发现，这一次是屋内楼梯——球的侵入范围在扩大。
 
 > **原句 2:** "There was a brand-new tennis ball lying on the door mat. Green, and hatefully luminous in the early morning light, it seemed to mock him with its presence, saying: Who, me? What did I do? I'm just a ball. I bounce, bounce, bounce."
 

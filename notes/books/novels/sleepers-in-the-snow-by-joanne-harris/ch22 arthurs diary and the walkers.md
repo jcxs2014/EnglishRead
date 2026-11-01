@@ -51,7 +51,7 @@ modified: "2026-10-31"
 
 **关键词**：tennis balls / manifestation / guardians / land / intruder / Birds / Caroline / THE LIGHTNING CHASERS / Adrian Warner
 
-**为什么这样写**：这段日记用电报式的短句把三个意象并置：网球、落下的鸟、Caroline——它们不再是孤立的怪事，而是同一次「入侵」的三个症状。「They don’t belong, as we don’t belong」是全书最冷的一句：Arthur 把自己和妻子也归入「不属于此地」的行列，说明他到死都觉得自己和这座房子格格不入。末尾「I am reading THE LIGHTNING CHASERS」用全大写，是全书第一次强调这本书的重要性，而男主此刻正在满屋找它。
+**为什么这样写**：这段日记用电报式的短句把三个意象并置：网球、落下的鸟、Caroline——它们不再是孤立的怪事，而是同一次「入侵」的三个症状。「They don’t belong, as we don’t belong」是全书最冷的一句：Arthur 把自己和妻子也归入「不属于此地」的行列，说明他到死都觉得自己和这座房子格格不入。末尾「I am reading THE LIGHTNING CHASERS」再次用全大写，强调这本书的重要性，而男主此刻正在满屋找它。
 
 **读者视角提示**：注意「manifestation」这个词的选择——Arthur 不用「sign」或「warning」，用「显现」，暗示网球不是信号而是实体本身，是某种东西借网球显形。这与 ch04 滚回的网球、ch10 敲门的网球直接呼应：那些物理事件在 Arthur 眼里从来不是偶然，而是「显现」。另外，「Birds fall. Caroline.」两句各自独立成句、不加动词，像病历上的症状条目——鸟落下，然后人失踪。
 

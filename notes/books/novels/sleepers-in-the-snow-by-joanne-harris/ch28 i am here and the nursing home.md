@@ -21,7 +21,7 @@ modified: "2026-11-01"
 
 **关键词**：here / sheep / burying / ground / gone
 
-**为什么这样写**：「That's all it said」的「all」字是反讽——一个字的短信比一整页的威胁更可怕，因为它没有内容，只有在场。「The next day, it had gone」用过去完成时把羊的消失写成既成事实：没人看见谁带走了它，但羊确实不在了。ch27 鹿在雾里撕咬死羊的画面，与这里「some animals had been at it」互相印证——啃羊的动物是谁，两章之间已经有了答案的一半。
+**为什么这样写**：「That's all it said」的「all」字是反讽——只有两个词的短信比一整页的威胁更可怕，因为它没有内容，只有在场。「The next day, it had gone」用过去完成时把羊的消失写成既成事实：没人看见谁带走了它，但羊确实不在了。ch27 鹿在雾里撕咬死羊的画面，与这里「some animals had been at it」互相印证——啃羊的动物是谁，两章之间已经有了答案的一半。
 
 **读者视角提示**：注意「I found a dead sheep」的「found」——他不是看见，是「发现」，像发现一件被藏起来的东西。而「had been at it」的「it」指羊的尸体：啃食者把羊当成「它」——一件物品，一个供品。
 

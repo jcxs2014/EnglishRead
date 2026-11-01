@@ -43,7 +43,7 @@ modified: "2026-11-01"
 
 **为什么这样写**：「fallen, perhaps, or taken by birds」的「perhaps」是不确定——他没有亲眼看见，他推断。这个推断的句式（fallen/taken/melting）是本章的主题：一切都在被推断，一切都无法确认。而苹果消失的细节与 ch34 雾夜「red smile」形成对比：ch34 红唇是恐怖的，本章红唇消失是悲伤的——同一个物件，两种情绪。
 
-**读者视角提示**：注意「Maybe the snow was melting」——这是全书第一次提到雪在融化。而雪融化意味着雪人会消失、冬天会结束、他住在这里的时间会有终点。苹果消失是一个温和的预告：一切（包括他的恐惧）都会融化。
+**读者视角提示**：注意「Maybe the snow was melting」——继 ch23 听见融雪之后，再一次点出雪在融化。而雪融化意味着雪人会消失、冬天会结束、他住在这里的时间会有终点。苹果消失是一个温和的预告：一切（包括他的恐惧）都会融化。
 
 > **原句 4:** "And yet Lucy’s visit had given him an appetite for company."
 
