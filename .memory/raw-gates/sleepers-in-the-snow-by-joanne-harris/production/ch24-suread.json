@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch24",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch24_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "日记日期为 2024 年 11 月 9 日",
+   "anchor": "November 9th, 2024",
+   "start": 23,
+   "end": 41
+  },
+  {
+   "fact": "开篇判定上一场异象是警告、它还会回来",
+   "anchor": "That was a warning. It will be back.",
+   "start": 44,
+   "end": 80
+  },
+  {
+   "fact": "他戴呢帽出门以限制视野",
+   "anchor": "He left the house in a tweed cap to restrict his vision",
+   "start": 516,
+   "end": 571
+  },
+  {
+   "fact": "他曾亲眼看见数百只死鸟与网球",
+   "anchor": "There were hundreds of them there. He’d seen them.",
+   "start": 1722,
+   "end": 1772
+  },
+  {
+   "fact": "其中一只落下时砸中了他",
+   "anchor": "One had struck him as it fell.",
+   "start": 1806,
+   "end": 1836
+  },
+  {
+   "fact": "他自我说服世上没有 Barguest",
+   "anchor": "There was no such thing as the Barguest",
+   "start": 2250,
+   "end": 2289
+  },
+  {
+   "fact": "扔掉手机前的最后一条短信「我知道你做了什么」",
+   "anchor": "I know what you did.",
+   "start": 3436,
+   "end": 3456
+  },
+  {
+   "fact": "结尾电池完全没电，他哪儿也去不了",
+   "anchor": "the battery was completely flat.",
+   "start": 4731,
+   "end": 4763
+  }
+ ]
+}

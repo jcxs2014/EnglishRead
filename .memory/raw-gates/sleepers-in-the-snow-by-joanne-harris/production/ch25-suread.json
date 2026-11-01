@@ -1,0 +1,55 @@
+{
+ "book": "sleepers-in-the-snow-by-joanne-harris",
+ "chapter": "ch25",
+ "text": "notes/books/novels/sleepers-in-the-snow-by-joanne-harris/text/ch25_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "2024-11-11 男主下山进 Lyke，买书和手机，茶店吃蛋糕，归途漫长，夜后到家",
+   "anchor": "I walked down into Lyke today",
+   "start": 45,
+   "end": 74
+  },
+  {
+   "fact": "他买到 Adrian Warner 书的新版、Dr Benn 的 A Haunted History of Lyke，还买了 burner phone",
+   "anchor": "As well as buying a burner phone",
+   "start": 241,
+   "end": 273
+  },
+  {
+   "fact": "图书管理员说 Benn 是本地作家，本职爱本地历史，小说\"太奇怪\"",
+   "anchor": "Bit too strange for me",
+   "start": 807,
+   "end": 829
+  },
+  {
+   "fact": "相机店老板说照片放了一周多，男主付 15 英镑现金取回照片和相机",
+   "anchor": "I’ve had your prints for over a week",
+   "start": 1833,
+   "end": 1869
+  },
+  {
+   "fact": "回程走荒原捷径，未标记小路攀爬费力，夜幕降临时离家还有至少一英里",
+   "anchor": "a laborious climb up an unmarked path",
+   "start": 2699,
+   "end": 2736
+  },
+  {
+   "fact": "他确信走过 Lucy Foxton 溺亡之地——雪后河水暴涨，小路险恶，她父亲追她也被冲走",
+   "anchor": "Was this where the girl – Lucy Foxton – had drowned",
+   "start": 3134,
+   "end": 3185
+  },
+  {
+   "fact": "拆开照片信封发现 36 张照片全是铁塔，黑白多角度，最后仰拍——暴力而美丽的对称",
+   "anchor": "all he found was the pylon",
+   "start": 7506,
+   "end": 7532
+  },
+  {
+   "fact": "胶卷最后一张未洗，负片铁塔脚下有裹厚外套的人影，太远认不出",
+   "anchor": "Something under the pylon’s feet",
+   "start": 8342,
+   "end": 8374
+  }
+ ]
+}
