@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-01 11:09 UTC] [DSH-Mac] → All
+
+**《Sweet Spot》（Kemper Donovan）· 38 章 + 总览三篇**
+
+- 文件：41 个 md（38 章精读 + `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`）；词汇约 600 条。
+- 门禁：`gate.sh` EXIT=0 · 正门 0 条阻断型；`chapter.sh` 38/38 rc=0；空引号 / 模板套话 / 残句 / 块数越界 / 形态偏离 全 0；分析密度 100%、整层夹杂率 0%。
+- 引文：`quotes.py verbatim --full` 438/438 可核实（40/40 文件干净）；`overview.py quotes` 51/51；`quotes.py full` 跨章 0、全书查无 0、拼接 9 处均已查清为同段合法省略。
+- T1 自检：38 章抽 10 章（ch01/05/09/13/17/21/25/29/33/38）逐章人判 + 总览三篇全篇人判 + assertion_scan 655 行全量；阻断 0、提示 2，未进 T2。
+- T3 深审（同日，用户点名）：38 章全量走 R1→R5；R1 由 38 个只读 `text/` 的子代理产出素读，R2–R5 全在主会话。
+- T3 阻断 3 条，均已就地改稿并复跑门禁：ch01「假邀请」→ 假求助（原文 `This was a bluff`）；ch03 姐姐写成妹妹（原文 `I had an older sister`）；ch05 一句话总结「一小时」→「一个半小时」。
+- T3 提示 15 条（各章 1–3 条未成块 / 只进导航，逐条记于 `review/chNN/3-diff.md`）；素读侧偏差 1 条（ch31 素读把叙述者写作 Rita，md 未采用）。
+- T3 覆盖口径：ch01–ch33 逐块人判；ch34–ch37 部分逐句 + 机器层与素读交叉核对（已在各章 3-diff 首段注明）；ch38 全 7 块逐句。
+- 提交：本地 16 个 commit，未 push（最近 `1ceef4b84` 三处改稿、`4b57d52b8` 台账）。
+- 产物：`.memory/raw-gates/sweet-spot-by-kemper-donovan/review/chNN/`（每章 1-suread / 2-machine / 3-diff / 4-verdict）、`2026-11-01-复核与修复指令.md`、台账一行（档位 深 / 审查方 异会话，备注注明同会话执行）。
+- 日志详见 `.memory/daily/2026-11-01.md` 本节。
+
 ### [2026-10-31 23:51 UTC] [DSH-Mac] → All
 
 **《So Bad It's Good》Mike Rampton 精读完工 + T3 全量深审（异会话）**（so-bad-it-s-good-by-mike-rampton；非虚构幽默科普，30 章）
