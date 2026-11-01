@@ -1,0 +1,55 @@
+{
+ "book": "this-shattered-tempest-by-thea-guanzon",
+ "chapter": "ch25",
+ "text": "notes/books/novels/this-shattered-tempest-by-thea-guanzon/text/ch25_chapter_twenty_five.txt",
+ "facts": [
+  {
+   "fact": "刑场上五十名萨多维亚俘虏跪在地上，双手反绑在背后。",
+   "anchor": "all fifty of them, kneeling on the ground, hands tied behind their backs",
+   "start": 10763,
+   "end": 10835
+  },
+  {
+   "fact": "凯德趁塔拉辛在大湾城期间摸清了强化安全法令的更多内容。",
+   "anchor": "I managed to learn more about the Enhanced Security Decree while you were in Grand Bight",
+   "start": 6409,
+   "end": 6497
+  },
+  {
+   "fact": "那条法令随时会被夜帝阿拉里克签署成法。",
+   "anchor": "Emperor Alaric is expected to sign it into law any day now",
+   "start": 6717,
+   "end": 6775
+  },
+  {
+   "fact": "女仆们传言桑西亚·奥西纳斯特死在流亡之地，鬼魂回城塞为儿子唱摇篮曲。",
+   "anchor": "They say Sancia Ossinast died wherever she ran away to and her shade returned to the Citadel to sing lullabies for her son",
+   "start": 8552,
+   "end": 8674
+  },
+  {
+   "fact": "阿拉里克一句仪式性演说都没讲，就让墨色刀锋四散飞出。",
+   "anchor": "Without uttering a single word of the ceremonial speech that was expected of him, Alaric sent the inky knives flying in all directions",
+   "start": 14520,
+   "end": 14654
+  },
+  {
+   "fact": "这大约是夜帝国境内最不具仪式感的一场处决，凯萨斯人一片哑然。",
+   "anchor": "It was perhaps the least ceremonial execution to have ever taken place within the Night Empire’s borders, leaving the Kesathese in stunned silence",
+   "start": 14954,
+   "end": 15100
+  },
+  {
+   "fact": "她的丈夫站在被她连累而死的人中间。",
+   "anchor": "Her husband, surrounded by the corpses of the people she had doomed.",
+   "start": 16935,
+   "end": 17003
+  },
+  {
+   "fact": "塔拉辛转身逃回那艘渡她穿过平原回城塞的飞艇。",
+   "anchor": "Talasyn turned and fled back to the airship that would ferry her across the plains to the Citadel",
+   "start": 17006,
+   "end": 17103
+  }
+ ]
+}

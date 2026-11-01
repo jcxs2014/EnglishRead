@@ -1,0 +1,55 @@
+{
+ "book": "this-shattered-tempest-by-thea-guanzon",
+ "chapter": "ch24",
+ "text": "notes/books/novels/this-shattered-tempest-by-thea-guanzon/text/ch24_chapter_twenty_four.txt",
+ "facts": [
+  {
+   "fact": "大湾城参事扎维耶走到窗边抽起了雪茄。",
+   "anchor": "Zawye had wandered over to the window and was now puffing on a cheroot.",
+   "start": 52,
+   "end": 123
+  },
+  {
+   "fact": "扎维耶说女儿名叫阿格里娅，因驻地性质所限不许写信回家。",
+   "anchor": "“Her name is Agria. Given the nature of her posting, it’s understandable that she’s not allowed to write home.",
+   "start": 1117,
+   "end": 1227
+  },
+  {
+   "fact": "扎维耶把夜帝的旨意解释成保护他们的新武器。",
+   "anchor": "That means protecting our new weaponry.",
+   "start": 1855,
+   "end": 1894
+  },
+  {
+   "fact": "塔拉辛用内纳瓦伦式的赌法套话，而且赌赢了。",
+   "anchor": "It was a gamble conducted in true Nenavarene fashion, and it had paid off.",
+   "start": 2225,
+   "end": 2299
+  },
+  {
+   "fact": "阿拉里克一踏进私用走廊就遣退了卫兵。",
+   "anchor": "Alaric dismissed their guards as soon as he and Talasyn set foot in its private passageway",
+   "start": 2515,
+   "end": 2605
+  },
+  {
+   "fact": "阿拉里克低声提醒她，是她自己问过这事能不能等。",
+   "anchor": "“You asked if it could wait,” Alaric murmured.",
+   "start": 4115,
+   "end": 4161
+  },
+  {
+   "fact": "塞夫雷姆来报，伊莱丝与尼塞娜发现了叛军基地。",
+   "anchor": "“Your Majesty, we’ve received word from Ileis and Nisene,” he announced. “They found a rebel base. You’re needed there at once.”",
+   "start": 7332,
+   "end": 7460
+  },
+  {
+   "fact": "阿拉里克说俘获了五十名叛军，处决定在明日。",
+   "anchor": "“Talasyn,” he said, “we captured fifty of the rebels. Their execution is slated for tomorrow.”",
+   "start": 17117,
+   "end": 17211
+  }
+ ]
+}
