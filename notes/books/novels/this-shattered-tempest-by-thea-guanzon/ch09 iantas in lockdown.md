@@ -37,21 +37,21 @@ modified: "2026-11-01"
 
 > **原句 3:** "“When Her Grace Alunsina Ivralis moved in, we relocated ten moth coracles, three sloops, and one outrigger warship from Eskaya to serve as her protection, along with two platoons. Any more than that would have taxed the island’s resources and, in any case, we”—the kaptan allowed herself a small grimace—“did not deem it necessary.”"
 
-**中文理解**：乌桑吉特把伊安塔斯的防务账目报给阿拉里克：阿伦西娜·伊夫拉利斯殿下搬进来后，他们才从埃斯卡亚调来十艘蛾形小艇、三艘单桅船和一艘舷外支架式战舰，外加两个排。再多就会拖垮岛上的资源，而且——她露出一点苦笑——当时他们判定没有必要。
+**中文理解**：这位卡普坦把岛上的防务账目报给阿拉里克：阿伦西娜·伊夫拉利斯殿下搬进来后，他们才从埃斯卡亚调来十艘蛾形小艇、三艘单桅船和一艘舷外支架式战舰，外加两个排。再多就会拖垮岛上的资源，而且——她露出一点苦笑——当时他们判定没有必要。
 
 **关键词**：ten moth coracles / two platoons / did not deem it necessary
 
 **为什么这样写**：这段供词回答了「防线为什么这么薄」：不是失职，是按夏宫的规格配的防。数字列得极具体（十、三、一、两），越具体越显得这套配置是照章办事的结果。真正的刺在那句被苦笑打断又接上的「we did not deem it necessary」——她亲口复述当时的判断，比被人揭穿更难受。
 
-**读者视角提示**：注意说话人把「Her Grace」的封号与全名一并摆出来，这是她的辩护也是她的认罪：在这座岛上，殿下的安危一度只按夏宫的规格计算。
+**读者视角提示**：注意说话人把「Her Grace」的封号与全名一并摆出来，这是她的辩护也是她的认罪：一位殿下的安危，只按「十、三、一、两」这样的数目配保护。
 
 > **原句 4:** "About an hour before the attack, one of the cooks went around the castle doling out bowls of sweet potato porridge. No one thought anything of it, because it is customary for the kitchens to make this porridge for those on a late-night shift. But this time it contained crab-eyes, which are a kind of berry with debilitating effects."
 
-**中文理解**：埃克利说，袭击前大约一小时，一名厨子端着红薯粥在城堡里挨处分发。没人起疑，因为厨房给值夜的人做这种粥是老规矩。可这一回的粥里加了蟹眼果，一种让人虚弱的浆果。
+**中文理解**：有人把查到的经过报了上来：袭击前大约一小时，一名厨子端着红薯粥在城堡里挨处分发。没人起疑，因为厨房给值夜的人做这种粥是老规矩。可这一回的粥里加了蟹眼果，一种让人虚弱的浆果——值夜的人先被卸掉力气，一小时后才轮到炸弹。
 
 **关键词**：sweet potato porridge / crab-eyes / late-night shift
 
-**为什么这样写**：投毒被写成一桩日常事务：粥是规矩里的粥，所以没人多想。真正的信息藏在时序里——紧随的段落后半才交代药效赶在陶壳炸弹引爆之后发作，毒与炸因此被焊在同一张时间表上；这一段也不写追捕、不写愤怒，只留「nowhere to be found」这个空缺，读者自己会把它和内应接上。
+**为什么这样写**：投毒被写成一桩日常事务：粥是规矩里的粥，所以没人多想。真正的信息藏在时序里——「About an hour before the attack」把下毒钉在动手之前，顺序本身就是手法：先卸人力气，再破门。这一段也不写追捕、不写愤怒，只留「nowhere to be found」这个空缺，读者自己会把它和内应接上。
 
 **读者视角提示**：「crab-eyes」不是古怪名字的装饰，它解释了守卫为何在爆炸时几乎无力还手：先卸人，再破门。读这一段时不妨把「an hour before」记牢，全章的因果都从这一个小时里长出来。
 

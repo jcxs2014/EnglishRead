@@ -57,7 +57,7 @@ modified: "2026-11-01"
 
 > **原句 5:** "“The Zahiya-lachis doesn’t need to like you for this to work,” Oryal replied. “She just needs to be a queen without an heir. The court was already uneasy before you reclaimed your birthright, and as for what has been happening afterward . . . Well, suffice to say that the Silim dynasty fell the moment Urduja married you off to the Night Emperor and lost her people’s trust."
 
-**中文理解**：「扎希亚-拉琪丝不需要喜欢你，这件事也能成，」奥莉尔答道。「她只需要做一个没有继承人的女王。在你认回自己的出身之前，宫廷本就不安；至于那之后发生的事……这么说吧，乌尔杜佳把你嫁给夜帝、失去她子民信任的那一刻，西利姆王朝就已经倒了。」
+**中文理解**：「扎希亚-拉奇斯不需要喜欢你，这件事也能成，」奥莉尔答道。「她只需要做一个没有继承人的女王。在你认回自己的出身之前，宫廷本就不安；至于那之后发生的事……这么说吧，乌尔杜佳把你嫁给夜帝、失去她子民信任的那一刻，西利姆王朝就已经倒了。」
 
 **关键词**：a queen without an heir / the court was already uneasy / the Silim dynasty fell / married you off to the Night Emperor
 
@@ -77,7 +77,7 @@ modified: "2026-11-01"
 
 > **原句 7:** "“My dear Lady Oryal, this is most irregular,” Ralya Musal huffed as she and Kai Gitab entered. “We’re supposed to be lying low until we receive confirmation of her death, what could possibly be so urgent that you summoned us at this . . .” Her eyes nearly popped out of her head at the sight of the Nenavarene Lachis’ka tied to a bedpost."
 
-**中文理解**：「我亲爱的奥莉尔夫人，这太不成体统了，」拉莉亚·穆萨尔一边进门一边没好气地说，凯·吉塔布跟在她身后。「我们本该按兵不动，等确认她死亡的消息，究竟有什么急事，非得在这个——」她的目光落在被绑在床柱上的内纳瓦伦拉琪丝身上，眼珠几乎要从眼眶里弹出来。
+**中文理解**：「我亲爱的奥莉尔夫人，这太不成体统了，」拉莉亚·穆萨尔一边进门一边没好气地说，凯·吉塔布跟在她身后。「我们本该按兵不动，等确认她死亡的消息，究竟有什么急事，非得在这个——」她的目光落在被绑在床柱上的内纳瓦伦拉奇斯身上，眼珠几乎要从眼眶里弹出来。
 
 **关键词**：most irregular / lying low / confirmation of her death / popped out of her head
 
