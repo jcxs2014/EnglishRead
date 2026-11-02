@@ -18,7 +18,7 @@ modified: "2026-11-02"
 
 - **中文理解**：我希望自己不必真的信教，但希望拥有一门共同的祈祷语言——一种能认真对待别人的痛苦、并且知道怎样替对方承接它的办法。
 
-- **关键词**：not to be religious per se / a shared language of prayer / take someone else’s pain seriously / hold it for them
+- **关键词**：not to be religious per se / shared language of prayer / take someone else’s pain seriously / hold it for them
 
 - **为什么这样写**：她把宗教拆成两半：不信内容物（per se 的限定），只要接口——一门可用于分担的语言。这句话在此刻最重的原因是：她一直是替亡者承接的人（鬼的媒介），此刻她的需求第一次变成「替活人承接」，而她没有配套的话术（Bianca 有念珠，她没有）。hold it for them 的动词与全书的搬运意象（桶、水、箱）同源。
 
@@ -82,7 +82,7 @@ modified: "2026-11-02"
 
 - **为什么这样写**：最关键的信息被安在一串限定语里：符合描述（不确认）、稳定（不乐观）、被打得很重（暴力已发生）、无法确认（她无法指认自己）。on seven 是最冷的一笔——病房层号在此重演 ch05 的「St. Vincent's 七楼」，把一个失踪案的终点写进 AIDS 的治疗区。listen to me 三个词是 Claude 给她的止血带：预告接下来的每一句都需要站稳。
 
-- **读者视角提示**：记住「she can't talk to us yet」：这是 Star 全章唯一的状态说明，也把「谁有权说话」定为下一章的议题。七楼不是急诊——这个区别就是本章全部恐怖所在。
+- **读者视角提示**：记住「She hasn’t been able to talk to us yet」：这是 Star 全章唯一的状态说明，也把「谁有权说话」定为下一章的议题。七楼不是急诊——这个区别就是本章全部恐怖所在。
 
 > **原句 8:** "I started hearing static, like it was behind my ears, inside me."
 
@@ -98,7 +98,7 @@ modified: "2026-11-02"
 
 - **中文理解**：「那个狗杂种，他一定把她打到快死就丢下了。」我想到那间刷白的公寓，猜他把她扔在了哪儿，是否以为会有人找到她。
 
-- **关键词**：left her for dead / the bleached apartment / where he had dumped her / if she would be found
+- **关键词**：left her for dead / the bleached apartment / where he had dumped her / if he thought she would be found
 
 - **为什么这样写**：她的推论把上一章的漂白水接进案情：公寓的异常干净（与匆忙搬走矛盾）现在有了解释——清理现场之后抛人。dumped her 这个动词与「押金」的对照（ch25「不在担心押金」）合龙：他担心的从来是遗留物。她也顺手把自己的运气量了一遍：能否被发现，取决于凶手当天的估计。
 
