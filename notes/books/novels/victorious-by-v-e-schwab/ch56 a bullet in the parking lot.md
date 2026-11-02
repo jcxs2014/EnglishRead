@@ -33,7 +33,7 @@ modified: "2026-11-01"
 
 **为什么这样写**：同一件事被两个来源说成两样：中介给的版本是搬家，台阶上的人给的版本是死亡。句子把两个版本并排放着，不裁决哪个真，只把「住在国外」这几个词用破折号再念一遍。米奇的不安因此落在一句具体的话上，而不是一片气氛里。
 
-**读者视角提示**：读者手里同时握着两个版本，谁也不比谁更硬。这份不确定正好落在米奇身上，他随后犹不犹豫都不用再解释。
+**读者视角提示**：读者手里同时握着两个版本，谁也不比谁更硬。这份不确定正好落在米奇身上，他随后是否犹豫，都不用再解释。
 
 > **原句 3:** "For a fraction of a second, time froze, Mitch’s mind going blank from sheer surprise. Then, like a recoil, it slammed back into motion. Mitch flung himself behind a post, scanning the parking lot, the rooms, searching for the source of the shot, but it was too dark."
 
