@@ -1,0 +1,166 @@
+{
+ "chapter": 41,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch41_chapter_xi.txt",
+ "source_len_chars": 4530,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Rios",
+   "did": "Woke up inside EON and found herself looking up at one of EON's blank white ceilings",
+   "quote_anchor": "She dragged her eyes open and found herself looking up at one of EON’s blank white ceilings.",
+   "range": [
+    579,
+    671
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "Rios",
+   "did": "Looked down at her uncuffed wrists, tried to stand, and found Noah's hand coming down on her shoulder",
+   "quote_anchor": "She looked down at her wrists, surprised to find they weren’t cuffed, but when she tried to stand, a hand came down on her shoulder. Noah.",
+   "range": [
+    1153,
+    1291
+   ],
+   "words": 26
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "Greeted Rios as Lilian and then corrected himself to say she prefers Rios",
+   "quote_anchor": "Welcome back, Lilian,” he said in his amicable way. “Ah, forgive me. You prefer Rios.",
+   "range": [
+    1064,
+    1149
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "Said he was impressed by Rios's conviction but believed she was lying even to herself",
+   "quote_anchor": "I was impressed by your conviction—but I believe you were lying, even to yourself.",
+   "range": [
+    1942,
+    2024
+   ],
+   "words": 14
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "Said EON was stuck in a negative cycle and that he had chosen evolution",
+   "quote_anchor": "And so, it either needed to be dismantled, or evolve. I have chosen evolution.",
+   "range": [
+    2280,
+    2358
+   ],
+   "words": 14
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "Said he had changed the minds of Agent Harris, Helena Roy, the board and the forty-seven guards",
+   "quote_anchor": "The same thing I did to Helena Roy, and the board, and the forty-seven guards, and most of the field agents. I changed their minds.",
+   "range": [
+    2828,
+    2959
+   ],
+   "words": 25
+  },
+  {
+   "n": 7,
+   "who": "Noah",
+   "did": "Nodded and told Rios that Gabriel had convinced him and should convince her too",
+   "quote_anchor": "Noah nodded. “He convinced me. Let him convince you.",
+   "range": [
+    3652,
+    3704
+   ],
+   "words": 9
+  },
+  {
+   "n": 8,
+   "who": "Rios",
+   "did": "Stood up to leave, then turned and returned to her seat",
+   "quote_anchor": "After a moment, she turned, and returned to her seat.",
+   "range": [
+    4476,
+    4529
+   ],
+   "words": 10
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "Told Rios that when he is done with EON it will no longer be a prison but a program",
+   "quote_anchor": "Agent Rios, when I am done with EON, it will no longer a prison. It will be a program.",
+   "range": [
+    2982,
+    3068
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Rios",
+   "did": "Noah, who was not in the morgue, told her to listen to Gabriel",
+   "quote_anchor": "Listen to him, Rios.” This, from Noah. Noah, who wasn’t in the morgue.",
+   "range": [
+    3463,
+    3533
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Stell",
+   "did": "The dead director whose remembered words told Rios that EOs are like ordinary people and the good ones deserve a chance to help",
+   "quote_anchor": "EOs are like ordinary people. Some are good and some are bad. The good ones deserve a chance to help.",
+   "range": [
+    2451,
+    2552
+   ],
+   "words": 20
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "How long Rios spent in the VA hospital after her medical evac",
+   "did": "six months",
+   "quote_anchor": "IN the VA hospital where Rios spent six months, after her medical evac, time had lost its meaning.",
+   "range": [
+    39,
+    137
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "The guards whose minds Gabriel said he changed",
+   "did": "forty-seven",
+   "quote_anchor": "the board, and the forty-seven guards, and most of the field agents",
+   "range": [
+    2868,
+    2935
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Where the agent said the moved EOs had been taken",
+   "did": "Sublevel 1",
+   "quote_anchor": "The agent, telling her they’d been moved to Sublevel 1.",
+   "range": [
+    3404,
+    3459
+   ],
+   "words": 10
+  }
+ ]
+}

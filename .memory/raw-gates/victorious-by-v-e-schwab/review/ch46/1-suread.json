@@ -1,0 +1,188 @@
+{
+ "chapter": 46,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch46_chapter_i.txt",
+ "source_len_chars": 12128,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Eli Ever",
+   "did": "woke in a room with green walls and found no memories of what came before",
+   "quote_anchor": "ELI woke in a room with green walls.",
+   "range": [
+    58,
+    94
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "remembered kneeling over Victor with his weapon raised just before the shot that killed him",
+   "quote_anchor": "He was kneeling over Victor, weapon raised, and then—",
+   "range": [
+    2222,
+    2275
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "introduced himself as a therapist and as EON’s new director",
+   "quote_anchor": "“In short, a therapist.” His gaze fell on Eli. “And EON’s new director.”",
+   "range": [
+    4380,
+    4452
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "told Eli that Director Joseph Stell had been killed two and a half years ago",
+   "quote_anchor": "Whatever vindication he might have felt was tempered when the stranger added, “Two and a half years ago.”",
+   "range": [
+    4527,
+    4632
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Gabriel Gray",
+   "did": "told Eli that he had died",
+   "quote_anchor": "The word landed like a gavel. Died. No caveat. No nearly, no almost.",
+   "range": [
+    4739,
+    4807
+   ],
+   "words": 13
+  },
+  {
+   "n": 6,
+   "who": "Gabriel Gray",
+   "did": "opened the partition wall and walked into Eli’s cell",
+   "quote_anchor": "He touched a panel, and the wall between them split with a hydraulic hiss, revealing a gap as wide as a door.",
+   "range": [
+    7301,
+    7410
+   ],
+   "words": 22
+  },
+  {
+   "n": 7,
+   "who": "Eli Ever",
+   "did": "was frozen mid-stride when Gabriel ordered him to stop as his fingers closed on the gun",
+   "quote_anchor": "In a single stride, Eli was there, his fingers about to close around the grip when Gabriel said, “Stop.”",
+   "range": [
+    8087,
+    8191
+   ],
+   "words": 19
+  },
+  {
+   "n": 8,
+   "who": "Eli Ever",
+   "did": "slammed his fist into the wall and watched his hand heal itself a second time and then a third",
+   "quote_anchor": "Eli watched in horror as his hand healed itself a second time, and then a third, his body overcompensating as it shed the broken pieces and made new ones, unable",
+   "range": [
+    11694,
+    11855
+   ],
+   "words": 30
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli Ever",
+   "did": "treats Gabriel Gray as an EO he must destroy and vows to bury him like the others",
+   "quote_anchor": "“I’ve buried dozens of EOs, Dr. Gray,” he said, “And I will find a way to bury you.”",
+   "range": [
+    9437,
+    9521
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Gabriel Gray",
+   "did": "claims not to be Eli’s enemy and says he will have Eli’s cooperation whether or not Eli consents",
+   "quote_anchor": "“I’m not your enemy, Eli,” he said. “You’ll see that soon enough. In the meantime, it would be better for us both",
+   "range": [
+    9686,
+    9799
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "admits to being an EO himself",
+   "quote_anchor": "The man beyond the glass spread his palms in a beatific gesture. “I am.”",
+   "range": [
+    6064,
+    6136
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "remembers having broken Serena’s hold before and vows to find the cracks in Gabriel’s power too",
+   "quote_anchor": "He had broken Serena’s hold. Found the weaknesses, the shadows, the spots she failed to reach. He would find the cracks in Gabriel’s as well.",
+   "range": [
+    10988,
+    11129
+   ],
+   "words": 25
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Eli Ever",
+   "did": "his face had been staring back at him for fifteen years",
+   "quote_anchor": "the same face that had been staring back at him for fifteen years—but as his gaze dipped to his front, something lanced across his mind. Pain, and memory.",
+   "range": [
+    1378,
+    1532
+   ],
+   "words": 28
+  },
+  {
+   "n": 2,
+   "who": "Director Joseph Stell",
+   "did": "was killed Two and a half years ago",
+   "quote_anchor": "Whatever vindication he might have felt was tempered when the stranger added, “Two and a half years ago.”",
+   "range": [
+    4527,
+    4632
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Eli Ever",
+   "did": "had buried dozens of EOs",
+   "quote_anchor": "“I’ve buried dozens of EOs, Dr. Gray,” he said, “And I will find a way to bury you.”",
+   "range": [
+    9437,
+    9521
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever’s hand",
+   "did": "healed itself a second time, and then a third",
+   "quote_anchor": "Eli watched in horror as his hand healed itself a second time, and then a third, his body overcompensating as it shed the broken pieces and made new ones, unable",
+   "range": [
+    11694,
+    11855
+   ],
+   "words": 30
+  }
+ ]
+}

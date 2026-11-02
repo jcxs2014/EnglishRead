@@ -1,0 +1,210 @@
+{
+ "chapter": 19,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch19_chapter_xviii.txt",
+ "source_len_chars": 10730,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Xavi",
+   "did": "Checked the tag on a pair of white sneakers in a downtown Portsmith shoe store and found they cost two hundred bucks",
+   "quote_anchor": "He looked down, admiring the pristine white of the sneakers before he checked the tag. Two hundred bucks.",
+   "range": [
+    131,
+    236
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Xavi",
+   "did": "Snapped the tag off the sneakers and tucked it into the box while the clerk was in the back",
+   "quote_anchor": "As soon as he was out of sight, Xavi snapped the tag, and tucked it into the box, strolling toward the exit.",
+   "range": [
+    536,
+    644
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Xavi",
+   "did": "Touched the clerk's hand where it gripped his coat, so the clerk's mind rewound and the whole store interaction was erased",
+   "quote_anchor": "And then the clerk’s mind was zipping backward, the whole brief interaction in the store rewound, unraveled, erased.",
+   "range": [
+    1145,
+    1261
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Xavi",
+   "did": "Rewound the whole shared history of the girl who clerked in the shop where he bought his new windbreaker",
+   "quote_anchor": "The clerk was a girl who’d known him back in middle school, and he’d ended up rewinding their whole shared history, just to be safe.",
+   "range": [
+    2512,
+    2644
+   ],
+   "words": 25
+  },
+  {
+   "n": 5,
+   "who": "Xavi",
+   "did": "Beat the level of the Memory game and took two dozen tickets",
+   "quote_anchor": "He beat the level and the game spit out two dozen tickets.",
+   "range": [
+    6444,
+    6502
+   ],
+   "words": 12
+  },
+  {
+   "n": 6,
+   "who": "the man in black motorcycle gear",
+   "did": "Walked toward Xavi drawing a weapon, a cattle prod whose tip sparked blue",
+   "quote_anchor": "He started walking toward Xavi, drawing a weapon as he did. A cattle prod, the tip sparking blue.",
+   "range": [
+    9523,
+    9620
+   ],
+   "words": 18
+  },
+  {
+   "n": 7,
+   "who": "Xavi",
+   "did": "Wrenched the metal door back open to run through the arcade and found a second stranger in the same black gear",
+   "quote_anchor": "He spun and wrenched the metal door back open, intending to cut through the arcade, but instead he found a second stranger in the same black gear.",
+   "range": [
+    10142,
+    10288
+   ],
+   "words": 27
+  },
+  {
+   "n": 8,
+   "who": "Xavi",
+   "did": "Was punched in the chest by a dart between his ribs and began falling without ever hitting the ground",
+   "quote_anchor": "Xavi staggered and looked down, saw a dart jutting between his ribs, pain and numbness rushing in its wake.",
+   "range": [
+    10477,
+    10584
+   ],
+   "words": 19
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Xavi",
+   "did": "Works for Victor Vale, who hired him and warns him about a shadowy organization that captures people like them",
+   "quote_anchor": "Going on about some shadowy organization designed to find and capture people like them. Victor was obviously paranoid. Hell, that was why he’d hired Xavi.",
+   "range": [
+    1766,
+    1920
+   ],
+   "words": 25
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "Took a liking to Xavi and said they could be friends",
+   "quote_anchor": "but she took a liking to him, said they could be friends (hell, he’d just been stoked to know there were others out there like him).",
+   "range": [
+    6115,
+    6247
+   ],
+   "words": 26
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "Passed Xavi's name to Victor, who gave him the job",
+   "quote_anchor": "And then she’d passed his name to Victor, who gave him the job, and it had all been up, up, up since then.",
+   "range": [
+    6248,
+    6354
+   ],
+   "words": 23
+  },
+  {
+   "n": 4,
+   "who": "Xavi",
+   "did": "Is one of the Pascals; his dad said the Pascals were survivors and his aunt said they only looked out for themselves",
+   "quote_anchor": "His dad used to say he’d land on his feet because the Pascals were survivors. His aunt, well, she said that was because they only looked out for themselves.",
+   "range": [
+    4534,
+    4690
+   ],
+   "words": 29
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the white sneakers",
+   "did": "cost two hundred bucks",
+   "quote_anchor": "He looked down, admiring the pristine white of the sneakers before he checked the tag. Two hundred bucks.",
+   "range": [
+    131,
+    236
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "the shoe store",
+   "did": "had ten minutes till close",
+   "quote_anchor": "The clerk sighed even though the store was empty. Ten minutes till close.",
+   "range": [
+    391,
+    464
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Xavi",
+   "did": "asked to see the sneakers in a twelve",
+   "quote_anchor": "“These are great,” he said. “But can I see them in a twelve?”",
+   "range": [
+    327,
+    388
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "the Memory game sequence",
+   "did": "ran ten symbols long, then fifteen, then twenty",
+   "quote_anchor": "Xavi jabbed the buttons on the game, copying the sequence as it flashed across the screen. Ten symbols long, then fifteen, then twenty.",
+   "range": [
+    5742,
+    5877
+   ],
+   "words": 23
+  },
+  {
+   "n": 5,
+   "who": "Xavi",
+   "did": "won two dozen tickets from the Memory game",
+   "quote_anchor": "He beat the level and the game spit out two dozen tickets.",
+   "range": [
+    6444,
+    6502
+   ],
+   "words": 12
+  },
+  {
+   "n": 6,
+   "who": "Xavi",
+   "did": "was sixteen, too old for the system and too young to get by on his own",
+   "quote_anchor": "At sixteen, he was too old for the system, and too young to get by on his own.",
+   "range": [
+    5044,
+    5122
+   ],
+   "words": 18
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "chapter": 118,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch118_chapter_viii.txt",
+ "source_len_chars": 4488,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "shook her head and dug her nails into her palms, trying to see through the dream she was in",
+   "quote_anchor": "June shook her head, trying to focus, to remember. It was just a dream. She needed to see through it.",
+   "range": [
+    447,
+    548
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "got up from the diner table and headed for the door",
+   "quote_anchor": "Instead, she got up from the table, heading for the door.",
+   "range": [
+    747,
+    804
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "shed the shell and came back into her own body, feeling the ache of still-healing skin bloom in her side",
+   "quote_anchor": "She took a deep breath and shed the shell. The moment she was back in her own body, pain bloomed dully in her side, the ache of still-healing skin",
+   "range": [
+    1576,
+    1722
+   ],
+   "words": 29
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "tried to breathe as his body buckled beneath him and he hit the ice",
+   "quote_anchor": "He tried to breathe, but his lungs weren’t working right. His mouth was full of copper. And then his body was buckling beneath him",
+   "range": [
+    2112,
+    2242
+   ],
+   "words": 24
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "saw the frozen lake vanish and be replaced by a large white room somewhere inside EON",
+   "quote_anchor": "Pain had shattered the illusion—amazing, how something so small could hurt so much—and the frozen lake was gone, replaced by a large white room, somewhere inside EON.",
+   "range": [
+    2310,
+    2476
+   ],
+   "words": 27
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "hauled herself up out of the icy water and onto the ice",
+   "quote_anchor": "After several frantic moments, she finally managed to haul herself up, out of the water, and onto the ice.",
+   "range": [
+    3054,
+    3160
+   ],
+   "words": 19
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "pressed her hands against Mitch’s chest to try to staunch the blood",
+   "quote_anchor": "she could do was press her hands against his chest, to try to staunch the blood, or maybe just to let him know that she was there",
+   "range": [
+    3405,
+    3534
+   ],
+   "words": 27
+  },
+  {
+   "n": 8,
+   "who": "Sydney",
+   "did": "turned and saw a figure walking toward them across the lake, parting the fog behind Serena",
+   "quote_anchor": "she turned in time to see a figure walking toward them, across the lake, parting the fog as they marched up behind Serena.",
+   "range": [
+    4357,
+    4479
+   ],
+   "words": 23
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Serena and Sydney",
+   "did": "Serena is Sydney’s sister, and the world darkens with Serena’s mood while the ice under Sydney cracks",
+   "quote_anchor": "She could feel the world around them darken with her sister’s mood. The fog thickened. The ice beneath her cracked.",
+   "range": [
+    3746,
+    3861
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Sydney and Mitch",
+   "did": "Sydney refuses to leave Mitch, saying he was there when her sister wasn’t and saved her when her sister didn’t",
+   "quote_anchor": "“I do!” Syd snapped, tears sliding down her cheeks. “He was there when you weren’t. He saved me when you didn’t.”",
+   "range": [
+    3630,
+    3743
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Mitch and Sydney",
+   "did": "Mitch told Sydney she was not alone, and Sydney thought he meant he would be with her till the end",
+   "quote_anchor": "And for a second, Sydney thought he meant, she wasn’t alone. That he was with her. Would be, till the end.",
+   "range": [
+    4184,
+    4290
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Serena and Mitch",
+   "did": "Serena’s gun was real and the bullet in Mitch’s chest was real",
+   "quote_anchor": "But the gun in Serena’s hand was real.",
+   "range": [
+    2479,
+    2517
+   ],
+   "words": 8
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "June’s mind",
+   "did": "the picture it made of Sydney and Abigail overlaid like red and blue: 3D (原文: 3D)",
+   "quote_anchor": "The two sat there, superimposed, overlaid like red and blue to make a 3D picture.",
+   "range": [
+    210,
+    291
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "how many options she had for getting out of the dream: only one (原文: one)",
+   "quote_anchor": "There was only one option, and June really, really didn’t want to do it.",
+   "range": [
+    1436,
+    1508
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "how many frantic moments it took her to climb out of the water: several (原文: several)",
+   "quote_anchor": "After several frantic moments, she finally managed to haul herself up, out of the water, and onto the ice.",
+   "range": [
+    3054,
+    3160
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "how long she thought Mitch meant she wasn’t alone: for a second (原文: a second)",
+   "quote_anchor": "And for a second, Sydney thought he meant, she wasn’t alone.",
+   "range": [
+    4184,
+    4244
+   ],
+   "words": 11
+  }
+ ]
+}

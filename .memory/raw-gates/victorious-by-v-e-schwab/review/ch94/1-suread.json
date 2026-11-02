@@ -1,0 +1,177 @@
+{
+ "chapter": 94,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch94_chapter_xxiv.txt",
+ "source_len_chars": 2010,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "called Victor and told him they had a problem, then gave no answer when he demanded to know what it was",
+   "quote_anchor": "“What is it?” he demanded. She didn’t answer. “June?”",
+   "range": [
+    74,
+    127
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "dropped the phone, which fell through her fingers and struck the ground",
+   "quote_anchor": "“June,” he snapped. Nothing. Then—a crash. The telltale clatter of the phone falling through her fingers, glass and metal striking ground.",
+   "range": [
+    292,
+    430
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "heard footsteps over metal grating and a voice murmuring “Sweet dreams” before the call abruptly disconnected",
+   "quote_anchor": "caught the soft echo of footsteps over metal grating, and a voice murmuring, “Sweet dreams,” followed by the scrape of the phone being lifted before the call abruptly disconnected.",
+   "range": [
+    596,
+    776
+   ],
+   "words": 29
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "concluded that EON had been transporting someone in that van whom June had mistaken for Sydney",
+   "quote_anchor": "EON had been transporting someone in that van. Someone June had mistaken for Sydney from a distance.",
+   "range": [
+    822,
+    922
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "identified the softer, more grown-up voice as Serena’s, whose throat he had cut",
+   "quote_anchor": "A voice he’d never heard with his own ears because he’d stopped them up, so it couldn’t get inside his head, the night he cut its owner’s throat.",
+   "range": [
+    989,
+    1134
+   ],
+   "words": 28
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "had ordered Mitch to burn Serena’s body, reasoning that crematoriums must burn at high heats",
+   "quote_anchor": "He’d ordered Mitch to burn her body, and he had. But there was a reason crematoriums had to burn at such high heats.",
+   "range": [
+    1147,
+    1263
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "recalled Sydney practicing until she needed only incomplete remains, working toward a goal and an end",
+   "quote_anchor": "Seen her go from needing whole bodies to only incomplete remains. Not just trying to improve, he gathered now, but working toward a goal.",
+   "range": [
+    1414,
+    1551
+   ],
+   "words": 24
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "pushed the truck’s pedal to the floor after Victor ordered him to drive faster",
+   "quote_anchor": "The truck whined as Mitch pushed the pedal to the floor.",
+   "range": [
+    1953,
+    2009
+   ],
+   "words": 11
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "was on the phone with June when the call was cut off",
+   "quote_anchor": "He bristled, assuming for a moment she’d hung up on him, but when he checked, the call hadn’t disconnected.",
+   "range": [
+    130,
+    237
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Serena",
+   "did": "owned the voice Victor had stopped his ears up against, and Victor had cut her throat",
+   "quote_anchor": "because he’d stopped them up, so it couldn’t get inside his head, the night he cut its owner’s throat.",
+   "range": [
+    1032,
+    1134
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "was driving Victor in the truck and asked him what was going on while gripping the wheel",
+   "quote_anchor": "“What’s going on?” asked Mitch, gripping the wheel.",
+   "range": [
+    433,
+    484
+   ],
+   "words": 8
+  },
+  {
+   "n": 4,
+   "who": "Serena Clarke",
+   "did": "was the one Victor expected to be easier to kill a second time",
+   "quote_anchor": "With any luck, Serena Clarke would be easier to kill a second time.",
+   "range": [
+    1813,
+    1880
+   ],
+   "words": 13
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Serena Clarke",
+   "did": "a second time",
+   "quote_anchor": "With any luck, Serena Clarke would be easier to kill a second time.",
+   "range": [
+    1813,
+    1880
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "the call timer on the screen",
+   "did": "seconds",
+   "quote_anchor": "The seconds continued ticking upward on the screen.",
+   "range": [
+    238,
+    289
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "the only weapon she had on her",
+   "quote_anchor": "And in that moment, she’d used the only weapon she had on her.",
+   "range": [
+    1697,
+    1759
+   ],
+   "words": 13
+  }
+ ]
+}

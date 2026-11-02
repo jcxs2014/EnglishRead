@@ -1,0 +1,199 @@
+{
+ "chapter": 27,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch27_chapter_viii.txt",
+ "source_len_chars": 5807,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "drove back from EON with a car trailing a block behind him and slipped past as he pulled up to his building",
+   "quote_anchor": "The car trailed a block behind him as he drove back from EON.",
+   "range": [
+    238,
+    299
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "took the elevator up five floors and let himself into his new apartment",
+   "quote_anchor": "He took the elevator up five floors and let himself into his new home.",
+   "range": [
+    386,
+    456
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "put a Bach record on his new record player",
+   "quote_anchor": "He slipped a record from its sleeve and brought the needle to its edge, savoring the first few notes before Bach began to fill the room.",
+   "range": [
+    893,
+    1029
+   ],
+   "words": 26
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "poured two cups of coffee and carried them down to the street",
+   "quote_anchor": "Gabriel poured two cups and carried them down to the street.",
+   "range": [
+    1340,
+    1400
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "offered one cup of the poisoned coffee to the soldier following him",
+   "quote_anchor": "“I made coffee,” said Gabriel, taking a sip from one cup as he held the other out. “I thought you might like some.”",
+   "range": [
+    1766,
+    1881
+   ],
+   "words": 23
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "held the dying soldier’s head and felt the pulse fail",
+   "quote_anchor": "He touched the man’s throat, as the pulse stuttered, then failed.",
+   "range": [
+    2777,
+    2842
+   ],
+   "words": 11
+  },
+  {
+   "n": 7,
+   "who": "Gabriel",
+   "did": "willed the dead soldier back to life and thought about Director Roy’s theory that an EO’s power is not arbitrary",
+   "quote_anchor": "And as he willed the body back to life, he thought about Director Roy’s theory—that an EO’s power wasn’t arbitrary.",
+   "range": [
+    3110,
+    3225
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Gabriel",
+   "did": "ordered Evanson to tell Helena Roy that he came home, went upstairs and stayed there",
+   "quote_anchor": "“I want you to tell her that I came home, and went upstairs, and stayed there, and that, as far as you can tell, everything was normal.”",
+   "range": [
+    5247,
+    5383
+   ],
+   "words": 27
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Evanson",
+   "did": "was the stone-faced EON soldier in plain clothes who shadowed Helena and was following Gabriel",
+   "quote_anchor": "The man had traded his uniform for plain clothes, but Gabriel recognized the stone-faced soldier who seemed to shadow Helena.",
+   "range": [
+    1559,
+    1684
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Evanson",
+   "did": "had orders to follow Gabriel and report back where he went and who he spoke with",
+   "quote_anchor": "“To follow you,” answered the soldier. “Report back exactly where you went. What you did. If you saw or spoke with anyone.”",
+   "range": [
+    4222,
+    4345
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "said Evanson must have angered Director Roy to be stuck on surveillance duty",
+   "quote_anchor": "“Well, Evanson, you must have pissed off Director Roy to get stuck doing this.”",
+   "range": [
+    2023,
+    2102
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "thought of himself on the collapsing stairs reaching for his wife and his son",
+   "quote_anchor": "Gabriel had only to think of himself on those collapsing stairs, reaching for his wife, his son, willing them to come to him",
+   "range": [
+    3251,
+    3375
+   ],
+   "words": 23
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Gabriel’s apartment",
+   "did": "was five floors above the street",
+   "quote_anchor": "He took the elevator up five floors and let himself into his new home.",
+   "range": [
+    386,
+    456
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "poured two cups of coffee",
+   "quote_anchor": "Gabriel poured two cups and carried them down to the street.",
+   "range": [
+    1340,
+    1400
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Gabriel’s apartment",
+   "did": "held three listening devices",
+   "quote_anchor": "He noted the three listening devices, exactly where the soldier said they’d be, but made no move to disturb them",
+   "range": [
+    5580,
+    5692
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "the listening devices",
+   "did": "included one mic under the cabinet over the sink",
+   "quote_anchor": "There’s one mic under the cabinet over the sink.",
+   "range": [
+    4442,
+    4490
+   ],
+   "words": 9
+  },
+  {
+   "n": 5,
+   "who": "the following car",
+   "did": "trailed a block behind Gabriel",
+   "quote_anchor": "The car trailed a block behind him as he drove back from EON.",
+   "range": [
+    238,
+    299
+   ],
+   "words": 13
+  }
+ ]
+}

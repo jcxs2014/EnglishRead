@@ -1,0 +1,210 @@
+{
+ "chapter": 42,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch42_chapter_xii.txt",
+ "source_len_chars": 8398,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "Drew the gun from her coat pocket, thumbed the safety off and pushed the cracked-open door open with the muzzle",
+   "quote_anchor": "June frowned, and drew the gun from her coat pocket, thumbing the safety off as she brought the muzzle to rest against the wood.",
+   "range": [
+    787,
+    915
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "Walked into the suite with her finger on the trigger, expecting trouble",
+   "quote_anchor": "June let the gun swing up as she walked in, finger on the trigger, expecting trouble",
+   "range": [
+    1015,
+    1099
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "Saw right through Rios's shimmering body for an instant when the soldier glitched",
+   "quote_anchor": "For an instant, June could see right through the soldier. And then she was back.",
+   "range": [
+    2105,
+    2185
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "Fired once through Rios's skull while Rios's own shot hissed past her leg so off course it had to be intentional",
+   "quote_anchor": "She fired once, the bullet tunneling through Rios’s skull. The soldier’s shot hissed past her leg a moment later, so off course that it had to be intentional.",
+   "range": [
+    2474,
+    2632
+   ],
+   "words": 28
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "Fired three shots into the first agent's visor and buried a blade in the gap of the second agent's armor",
+   "quote_anchor": "Instead, she turned and fired three shots into the first one’s visor, the bullets ricocheting but the force knocking the first soldier back",
+   "range": [
+    2836,
+    2975
+   ],
+   "words": 23
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "Jumped off the balcony and watched the man she was wearing die on impact, shattering against the patio",
+   "quote_anchor": "The man she was wearing died on impact, his form shattering against the patio.",
+   "range": [
+    5096,
+    5174
+   ],
+   "words": 14
+  },
+  {
+   "n": 7,
+   "who": "June",
+   "did": "Took a single shot fired from the balcony that tore through her side",
+   "quote_anchor": "A single shot, fired from the balcony six floors above. It tore through her side, the pain white-hot",
+   "range": [
+    5534,
+    5634
+   ],
+   "words": 18
+  },
+  {
+   "n": 8,
+   "who": "June",
+   "did": "Changed into an old woman with blue-white hair and red glasses as she passed through the Iverly's revolving door",
+   "quote_anchor": "As she passed through the Iverly’s revolving door, she changed again, trading the suave businessman for swollen knuckles and blue-white hair, red glasses heavy on her sunken cheeks.",
+   "range": [
+    7188,
+    7369
+   ],
+   "words": 28
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Rios",
+   "did": "The EO whose voice on the phone came near panic, whom June had expected to be pacing",
+   "quote_anchor": "Given the EO’s voice on the phone, the urgency approaching panic, she’d expected Rios to be pacing, restlessly",
+   "range": [
+    1224,
+    1334
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "The EON agents",
+   "did": "Helmeted agents who rushed June in the suite, one from the bedroom and one from the hall",
+   "quote_anchor": "They rushed toward her, one from the bedroom and one from the hall, their faces hidden by black helmets",
+   "range": [
+    2663,
+    2766
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "The businessman",
+   "did": "The first body June could reach after the balcony shot, inside which she hid to snuff out the pain",
+   "quote_anchor": "Panic flooded her mind, but her instincts took over, grabbing the first body she could reach.",
+   "range": [
+    5744,
+    5837
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "The group of retired women",
+   "did": "Strangers who called her Annie and gathered around a waiting bus",
+   "quote_anchor": "She was about to set off down the street, when a voice called out, “Annie, Annie, over here.",
+   "range": [
+    7608,
+    7700
+   ],
+   "words": 18
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "When June got to the hotel",
+   "did": "after ten",
+   "quote_anchor": "IT was after ten by the time June got to the hotel.",
+   "range": [
+    73,
+    124
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "The floor of the Iverly that room 601 is on",
+   "did": "sixth floor",
+   "quote_anchor": "As the elevator rose to the sixth floor, she wondered what had changed for Rios.",
+   "range": [
+    127,
+    207
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "How many shots June fired at Rios",
+   "did": "once",
+   "quote_anchor": "She fired once, the bullet tunneling through Rios’s skull.",
+   "range": [
+    2474,
+    2532
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "How many shots June fired into the first agent's visor",
+   "did": "three shots",
+   "quote_anchor": "Instead, she turned and fired three shots into the first one’s visor",
+   "range": [
+    2836,
+    2904
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "The height June fell to the patio",
+   "did": "Six stories",
+   "quote_anchor": "Six stories was a long way to fall.",
+   "range": [
+    5058,
+    5093
+   ],
+   "words": 8
+  },
+  {
+   "n": 6,
+   "who": "The bill June handed to the old woman",
+   "did": "twenty",
+   "quote_anchor": "Oh,” she said, looking from the handsome businessman to the twenty in his hand.",
+   "range": [
+    6772,
+    6851
+   ],
+   "words": 14
+  }
+ ]
+}

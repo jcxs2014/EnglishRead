@@ -1,0 +1,200 @@
+{
+ "chapter": 81,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch81_chapter_xi.txt",
+ "source_len_chars": 4924,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "who": "Noah",
+   "did": "cracked his neck, drew his gun, and went to clean up Eli's mess",
+   "quote_anchor": "He cracked his neck, and drew his gun, and went to clean up Eli’s mess.",
+   "n": 1,
+   "range": [
+    4852,
+    4923
+   ],
+   "words": 15
+  },
+  {
+   "who": "Eli",
+   "did": "had reached Madman's Mansion, where the trail went dead and all attempts to reach him failed",
+   "quote_anchor": "But there the trail went dead. All attempts to reach him since had failed.",
+   "n": 2,
+   "range": [
+    652,
+    726
+   ],
+   "words": 14
+  },
+  {
+   "who": "Gabriel",
+   "did": "ordered Noah not to stop until he reached the target, no matter what he saw, felt or heard",
+   "quote_anchor": "“Noah,” added Gabriel as he approached the gate. “No matter what you see, or feel, or hear, don’t stop until you reach the target.”",
+   "n": 3,
+   "range": [
+    1414,
+    1545
+   ],
+   "words": 24
+  },
+  {
+   "who": "Noah",
+   "did": "asked for permission to engage and was told to stand by",
+   "quote_anchor": "The answer came a moment later. “Stand by.”",
+   "n": 4,
+   "range": [
+    287,
+    330
+   ],
+   "words": 8
+  },
+  {
+   "who": "Noah",
+   "did": "cracked his knuckles as dawn seeped across the park",
+   "quote_anchor": "Noah cracked his knuckles as dawn seeped across the park, illuminating the rides and stalls and paths between.",
+   "n": 5,
+   "range": [
+    333,
+    443
+   ],
+   "words": 18
+  },
+  {
+   "who": "Noah",
+   "did": "stumbled forward against the truck when his boot struck something",
+   "quote_anchor": "Noah’s boot struck something, and he stumbled forward, catching himself against the truck.",
+   "n": 6,
+   "range": [
+    1935,
+    2025
+   ],
+   "words": 13
+  },
+  {
+   "who": "Noah",
+   "did": "saw the fold-up chair his squad had saved for him, with Golden Boy written on duct tape",
+   "quote_anchor": "A rickety piece of shit, always on the verge of breaking. Someone had written Golden Boy on duct tape and slapped it on the back.",
+   "n": 7,
+   "range": [
+    3431,
+    3560
+   ],
+   "words": 25
+  },
+  {
+   "who": "Noah",
+   "did": "kept walking past the barracks full of his dead friends until the laughter and the music guttered",
+   "quote_anchor": "Noah kept walking past the barracks full of his dead friends, until the laughter and the music guttered.",
+   "n": 8,
+   "range": [
+    4443,
+    4547
+   ],
+   "words": 18
+  }
+ ],
+ "relations": [
+  {
+   "who": "Gabriel",
+   "did": "granted Noah permission to engage and issued him the order to pursue Eli",
+   "quote_anchor": "“Permission to engage?” he asked again, and this time, Gabriel agreed.",
+   "n": 1,
+   "range": [
+    1198,
+    1268
+   ],
+   "words": 11
+  },
+  {
+   "who": "Noah",
+   "did": "claims he knows Serena, that they were on the same side once and that she trusts him",
+   "quote_anchor": "“I know Serena,” he muttered to himself. “We were on the same side once. She trusts me.”",
+   "n": 2,
+   "range": [
+    446,
+    534
+   ],
+   "words": 17
+  },
+  {
+   "who": "Dr. Gray",
+   "did": "gave Noah the instruction that was tested against Serena's influence",
+   "quote_anchor": "Noah understood the purpose of the order. A test. Dr. Gray’s instruction versus Serena’s influence.",
+   "n": 3,
+   "range": [
+    1548,
+    1647
+   ],
+   "words": 15
+  },
+  {
+   "who": "Noah",
+   "did": "tracked Eli by the position markers on the comm and found Eli had made it to Madman's Mansion",
+   "quote_anchor": "According to the position markers on the comm, Eli had made it to Madman’s Mansion.",
+   "n": 4,
+   "range": [
+    568,
+    651
+   ],
+   "words": 15
+  }
+ ],
+ "numbers": [
+  {
+   "who": "Eli",
+   "did": "twenty minutes since he entered the park from the opposite side",
+   "quote_anchor": "It had been twenty minutes since Eli entered the park from the opposite side.",
+   "n": 1,
+   "range": [
+    84,
+    161
+   ],
+   "words": 14
+  },
+  {
+   "who": "Malcolm",
+   "did": "fifty meters — the radius he marked between the entrance and the ride, where Eli stopped responding",
+   "quote_anchor": "A radius of fifty meters, which didn’t sound like much until you were inside it.",
+   "n": 2,
+   "range": [
+    1032,
+    1112
+   ],
+   "words": 15,
+   "anchor_ambiguous": true
+  },
+  {
+   "who": "Noah",
+   "did": "once — he and Serena were on the same side once",
+   "quote_anchor": "We were on the same side once. She trusts me.”",
+   "n": 3,
+   "range": [
+    488,
+    534
+   ],
+   "words": 10
+  },
+  {
+   "who": "Noah",
+   "did": "both — he was good at both the fighting and the killing",
+   "quote_anchor": "It wasn’t the fighting or the killing he enjoyed, though he was good at both.",
+   "n": 4,
+   "range": [
+    2405,
+    2482
+   ],
+   "words": 15
+  },
+  {
+   "who": "Noah",
+   "did": "single — the sun offered a single decent hour before the desert weather turned from scorching day to freezing night",
+   "quote_anchor": "The sun was finally going down, offering a single decent hour before the desert weather turned from scorching day to freezing night.",
+   "n": 5,
+   "range": [
+    2976,
+    3108
+   ],
+   "words": 22
+  }
+ ]
+}

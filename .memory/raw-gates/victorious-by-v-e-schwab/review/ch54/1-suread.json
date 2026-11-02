@@ -1,0 +1,199 @@
+{
+ "chapter": 54,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch54_chapter_iii.txt",
+ "source_len_chars": 7568,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Noah Harris",
+   "did": "带小队潜入敌后执行定点清除任务，按命令只能暗杀目标而不能直接炸掉整片建筑",
+   "quote_anchor": "unable to simply raze the place because their orders were to pick him off, and make it look like in-fighting instead of execution.",
+   "range": [
+    273,
+    403
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Noah Harris",
+   "did": "赶到目标地点时发现目标已经死于心脏病发作",
+   "quote_anchor": "the target was already dead—a heart attack, what fucking luck—and even now, he had no idea if it had always been a trap",
+   "range": [
+    549,
+    668
+   ],
+   "words": 23
+  },
+  {
+   "n": 3,
+   "who": "Noah Harris",
+   "did": "用最后两发子弹击毙从屋顶上扫射的射手",
+   "quote_anchor": "He was almost out of ammo, but he used his last two shots to pick off a shooter raining bullets from the rooftop overhead.",
+   "range": [
+    1239,
+    1361
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "Noah Harris",
+   "did": "躲开来袭手榴弹时被爆炸掀飞，撞上对面墙壁",
+   "quote_anchor": "It threw him into the opposite wall, ears ringing and vision going black, then white, then black again.",
+   "range": [
+    1686,
+    1789
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Noah Harris",
+   "did": "拖着重伤的身体爬进两栋建筑之间的窄缝里躲藏",
+   "quote_anchor": "he dragged his half-dead body, his bleeding guts, his broken limbs, into a narrow gap between two structures",
+   "range": [
+    2557,
+    2665
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Noah Harris",
+   "did": "被撤离队找到后在手术台上躺了六小时，又在重症监护室待了六周，最终活了下来",
+   "quote_anchor": "Six hours on a table, his chest open to the world. Six weeks in intensive care. But he survived.",
+   "range": [
+    2977,
+    3073
+   ],
+   "words": 19
+  },
+  {
+   "n": 7,
+   "who": "Dr. Gray",
+   "did": "在车厢里通过耳麦要求 Noah Harris 无论发生什么都要让那个女孩活着",
+   "quote_anchor": "Gabriel kept talking. “You’re approaching the site. No matter what happens, I want the girl alive.”",
+   "range": [
+    3556,
+    3655
+   ],
+   "words": 16
+  },
+  {
+   "n": 8,
+   "who": "Noah Harris",
+   "did": "下令让其他特工列队，和另一个 EO 一起朝旅馆方向前进",
+   "quote_anchor": "Noah gave the signal, and the other agents fell into formation as the two EOs made their way toward the motel.",
+   "range": [
+    7457,
+    7567
+   ],
+   "words": 21
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Noah Harris",
+   "did": "不信任另一个 EO，因为战场上的兄弟必须彼此信任",
+   "quote_anchor": "He didn’t trust the other EO, and if Noah had learned anything during his black ops years, it was that you had to trust your brothers in the field.",
+   "range": [
+    4891,
+    5038
+   ],
+   "words": 29
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "毕生都在清剿 EO，被抓之后仍然如此",
+   "quote_anchor": "Eli had devoted his entire life to exterminating EOs. Before and after he was caught.",
+   "range": [
+    5146,
+    5231
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Noah Harris",
+   "did": "与 Dr. Gray 意见不合的时刻，是唯一能感到对方控制自己的时刻",
+   "quote_anchor": "There were moments—albeit rare—when Noah disagreed with Gabriel. Those moments were the only times he felt the other man’s control.",
+   "range": [
+    5994,
+    6125
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Noah Harris",
+   "did": "反对放出 Eli，向 Dr. Gray 表示自己已经为 EON 服役过",
+   "quote_anchor": "“The difference, sir,” said Noah, “is that I already served EON.”",
+   "range": [
+    5843,
+    5908
+   ],
+   "words": 11
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Noah Harris",
+   "did": "这次任务一共是 Six soldiers 深入敌后",
+   "quote_anchor": "Six soldiers, behind enemy lines, buildings so tight the snipers couldn’t get a shot.",
+   "range": [
+    126,
+    211
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Noah Harris",
+   "did": "在几乎没弹药的情况下打了 last two shots 击毙屋顶射手",
+   "quote_anchor": "He was almost out of ammo, but he used his last two shots to pick off a shooter raining bullets from the rooftop overhead.",
+   "range": [
+    1239,
+    1361
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Noah Harris",
+   "did": "被救回后在手术台上躺了 Six hours，胸口敞开",
+   "quote_anchor": "Six hours on a table, his chest open to the world.",
+   "range": [
+    2977,
+    3027
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Noah Harris",
+   "did": "在重症监护室待了 Six weeks 后活了下来",
+   "quote_anchor": "Six weeks in intensive care. But he survived.",
+   "range": [
+    3028,
+    3073
+   ],
+   "words": 8
+  },
+  {
+   "n": 5,
+   "who": "Kline and Weaver",
+   "did": "车厢里有两个特工（Two agents）坐在 Noah 对面，两侧还各有一个",
+   "quote_anchor": "Two agents—Kline and Weaver—sat across from him, another one on either side, their visors down, their faces hidden.",
+   "range": [
+    3285,
+    3400
+   ],
+   "words": 18
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "chapter": 83,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch83_chapter_xiii.txt",
+ "source_len_chars": 1824,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "was freed when Serena’s illusion shattered and the ice surrounding him crumbled",
+   "quote_anchor": "THE moment Serena’s illusion shattered, so did the ice surrounding Eli.",
+   "range": [
+    43,
+    114
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "watched the frozen tomb around him crumble as the real world rushed back and the sisters’ well-lit house was replaced by Madman’s Mansion",
+   "quote_anchor": "The frozen tomb around him crumbled, and the real world came rushing back, the sisters’ well-lit house replaced by Madman’s Mansion",
+   "range": [
+    117,
+    248
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "staggered and gasped, sank to one knee and let out a guttural sound, blood dripping from his nose, eyes and ears",
+   "quote_anchor": "Eli staggered and gasped, lungs hitching as they finally found air. Sank to one knee, and let out a guttural sound, blood dripping from his nose, his eyes, his ears.",
+   "range": [
+    357,
+    522
+   ],
+   "words": 30
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "retched blood onto the floor while Noah’s voice played in the room and in his ear",
+   "quote_anchor": "He retched blood onto the floor, head ringing like a bell as Noah’s voice played in the room and in his ear.",
+   "range": [
+    994,
+    1102
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "spat, forced his body upright, wiped blood from his mouth with the back of one hand and drew his gun with the other",
+   "quote_anchor": "Eli spat, and forced his body upright, wiping blood from his mouth with the back of one hand and drawing his gun with the other",
+   "range": [
+    1150,
+    1277
+   ],
+   "words": 25
+  },
+  {
+   "n": 6,
+   "who": "Eli",
+   "did": "fired a single dart into the base of Noah’s throat when Noah moved to block his way",
+   "quote_anchor": "But Eli wasn’t in the mood. He fired a single dart into the base of Noah’s throat.",
+   "range": [
+    1418,
+    1500
+   ],
+   "words": 17
+  },
+  {
+   "n": 7,
+   "who": "Noah",
+   "did": "reached up to rip the dart out of his throat but was too late",
+   "quote_anchor": "he said, voice already slurring as he reached up to rip it out. Too late.",
+   "range": [
+    1549,
+    1622
+   ],
+   "words": 15
+  },
+  {
+   "n": 8,
+   "who": "Eli",
+   "did": "stepped around Noah’s body, said into his comm that Noah was staying with Serena, and took off up the stairs",
+   "quote_anchor": "“Noah’s staying with Serena,” he said into his comm as he took off up the stairs.",
+   "range": [
+    1717,
+    1798
+   ],
+   "words": 16
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Noah",
+   "did": "reported over the comm that Target B had been acquired and he was in pursuit of Target A",
+   "quote_anchor": "as Noah’s voice played in the room and in his ear. “Target B acquired. In pursuit of Target A.”",
+   "range": [
+    1052,
+    1147
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "identified the wisp of blond hair vanishing overhead as Sydney, and went after her",
+   "quote_anchor": "as a wisp of blond hair vanished overhead. Sydney.",
+   "range": [
+    1278,
+    1328
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "hunts EOs, and was shot in the head once when he first started hunting them",
+   "quote_anchor": "Once, when he first started hunting EOs, Eli had been shot in the head.",
+   "range": [
+    525,
+    596
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "shot Noah with a dart, leaving him looking down, affronted, and trying to pull it out",
+   "quote_anchor": "“You fuckinnn’…” he said, voice already slurring as he reached up to rip it out.",
+   "range": [
+    1532,
+    1612
+   ],
+   "words": 15
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "an inch or so — how far the bullet lodged inside his skull",
+   "quote_anchor": "the bullet lodging an inch or so inside his skull.",
+   "range": [
+    659,
+    709
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "the better part of ten minutes — how long it took him to dig the bullet from his head with needle-nose pliers",
+   "quote_anchor": "It had taken a pair of needle-nose pliers and the better part of ten minutes for Eli to dig the bullet from his head",
+   "range": [
+    783,
+    899
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "a single dart — the one he fired into the base of Noah’s throat",
+   "quote_anchor": "He fired a single dart into the base of Noah’s throat.",
+   "range": [
+    1446,
+    1500
+   ],
+   "words": 11
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "chapter": 119,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch119_chapter_ix.txt",
+ "source_len_chars": 3387,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Serena",
+   "did": "shot ice out of her fingers and up June’s wrist and arm, then tore free herself",
+   "quote_anchor": "“Nice try,” said Serena, as ice shot out from her fingers, and up June’s wrist, over her arm. She tore free, dancing backward.",
+   "range": [
+    252,
+    378
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Serena",
+   "did": "reached out, steadied June, drew her in and drove the knife between her ribs",
+   "quote_anchor": "if Serena hadn’t reached out and steadied her, drawn her in, and driven the knife between her ribs.",
+   "range": [
+    460,
+    559
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "stepped backward, dragging her body off the knife, and changed shells",
+   "quote_anchor": "She stepped backward, dragging her body off the knife, and as she did, she changed, shrugging out of one shell, and donning another",
+   "range": [
+    789,
+    920
+   ],
+   "words": 23
+  },
+  {
+   "n": 4,
+   "who": "Serena",
+   "did": "tipped her head and turned the weapon June held into a wilted tulip",
+   "quote_anchor": "“Is it?” Serena tipped her head, and the weapon changed, became a wilted tulip.",
+   "range": [
+    1014,
+    1093
+   ],
+   "words": 14
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "twitched her fingers so the tulip stem snapped with a deafening BANG",
+   "quote_anchor": "Her fingers twitched, and the tulip stem snapped, with a deafening BANG.",
+   "range": [
+    1244,
+    1316
+   ],
+   "words": 12
+  },
+  {
+   "n": 6,
+   "who": "Serena",
+   "did": "flicked her wrist so the ice shot up in sharpened spikes that drove through June",
+   "quote_anchor": "She flicked her wrist, and instead of giving way, the ice shot up in sharpened spikes.",
+   "range": [
+    2405,
+    2491
+   ],
+   "words": 16
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "reached through Mitch’s body, past it, for the thread",
+   "quote_anchor": "Her fingers splayed on Mitch’s chest as she reached, through his body, past it, for the thread.",
+   "range": [
+    1719,
+    1814
+   ],
+   "words": 17
+  },
+  {
+   "n": 8,
+   "who": "Serena",
+   "did": "whipped her knife through the air and buried it in June’s real heart",
+   "quote_anchor": "In that same moment, Serena whipped her knife through the air.",
+   "range": [
+    3286,
+    3348
+   ],
+   "words": 11
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Serena and June",
+   "did": "Serena did not know what June was or what she could do",
+   "quote_anchor": "She didn’t know what she was, what she could do.",
+   "range": [
+    609,
+    657
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "Serena and Sydney",
+   "did": "it was Serena’s world, her dream, and every inch of it was under her control",
+   "quote_anchor": "this was Serena’s world. Her dream. And every inch of it was under her control.",
+   "range": [
+    2325,
+    2404
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Sydney and Mitch",
+   "did": "Sydney told Mitch it was okay and that she could fix it",
+   "quote_anchor": "“It’s okay,” she said, to him, and to herself. “I can fix it now.”",
+   "range": [
+    1650,
+    1716
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Sydney and June",
+   "did": "Sydney was seeing the EO as she had been once, back when she was human",
+   "quote_anchor": "Sydney realized it wasn’t a shell at all. Sydney was seeing the EO as she had been once, back when she was human.",
+   "range": [
+    3108,
+    3221
+   ],
+   "words": 23
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "how many shells she shrugged out of: one (原文: one shell)",
+   "quote_anchor": "shrugging out of one shell, and donning another in the time it took Serena’s amusement to die on her face.",
+   "range": [
+    873,
+    979
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "which shot she tried to fire: a second shot (原文: a second shot)",
+   "quote_anchor": "June tried to fire a second shot but lost her balance when the ice broke suddenly beneath her feet.",
+   "range": [
+    2183,
+    2282
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "the young woman Sydney had never seen before",
+   "did": "how many of them there was: One (原文: One)",
+   "quote_anchor": "One with auburn hair and fair, freckled skin, sharp green eyes in a heart-shaped face.",
+   "range": [
+    2892,
+    2978
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "what came first in her thought about June’s features: her first thought (原文: first)",
+   "quote_anchor": "Syd’s first thought was that the features suited her. They matched her manner and her voice.",
+   "range": [
+    2981,
+    3073
+   ],
+   "words": 16
+  }
+ ]
+}

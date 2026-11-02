@@ -1,0 +1,177 @@
+{
+ "chapter": 91,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch91_chapter_xxi.txt",
+ "source_len_chars": 6612,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "woke up in the passenger seat of the pickup, straightened up, and asked how long it was",
+   "quote_anchor": "Victor sighed and straightened in his seat. “How long?”",
+   "range": [
+    1550,
+    1605
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "read his phone screen and announced that June was on her way",
+   "quote_anchor": "He tugged the cell from his coat pocket, read something on the screen. “June’s on her way.”",
+   "range": [
+    1623,
+    1714
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "asked whether Victor had got his powers back",
+   "quote_anchor": "“So,” said Mitch, “you got your powers back.”",
+   "range": [
+    2522,
+    2567
+   ],
+   "words": 8
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "pulled a dark metal disc inhaler with a purple cartridge out of his pocket and held it up",
+   "quote_anchor": "He withdrew something and held it up. A dark metal disc. A visible cartridge sat in the center",
+   "range": [
+    2716,
+    2810
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "let the words “Fuck you” spill out unchecked at Victor",
+   "quote_anchor": "The words spilled out of Mitch, unchecked. Victor tensed, brows arching in surprise.",
+   "range": [
+    3936,
+    4020
+   ],
+   "words": 13
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "answered that he stole a plane to reach the motel so fast",
+   "quote_anchor": "“How did you get to the motel so fast?” he asked. The question had been irking him, like a pebble in his shoe.",
+   "range": [
+    4601,
+    4711
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "Mitch",
+   "did": "fetched a second bottle from the center console and swallowed a charcoal-colored pill",
+   "quote_anchor": "he fetched a second bottle from the center console and tipped a charcoal-colored pill into his palm, swallowing dry, hoping Victor wouldn’t notice.",
+   "range": [
+    5092,
+    5239
+   ],
+   "words": 23
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "explained the forum he had found and the theory behind the EO-inducing capsules",
+   "quote_anchor": "and explained the forum he’d found, the theory behind the EO-inducing capsules, the way they elevated baseline adrenal function",
+   "range": [
+    5735,
+    5862
+   ],
+   "words": 19
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "says he and June are not friends but share a mutual interest",
+   "quote_anchor": "“Jealous?” he said dryly as he put the phone away. “We’re not. But we have a mutual interest.”",
+   "range": [
+    1811,
+    1905
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "wormed her way into Sydney’s life like a surrogate big sister, protecting her from EON but also abducting and drugging her",
+   "quote_anchor": "She’d wormed her way into the kid’s life like a surrogate big sister. Protected her from EON, sure, but also abducted her.",
+   "range": [
+    1980,
+    2102
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "had been afraid of Victor since they were put in the same cell and had decided to stay on his good side",
+   "quote_anchor": "From the day they’d been put in the same cell, Mitch had seen what Victor was, what he could do",
+   "range": [
+    4021,
+    4116
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "had one job of keeping Sydney safe and had failed at it",
+   "quote_anchor": "Mitch had had one job—keeping Sydney safe—and he’d failed.",
+   "range": [
+    3720,
+    3778
+   ],
+   "words": 9
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "had known Victor for nearly thirteen years",
+   "quote_anchor": "MITCH had known Victor for nearly thirteen years, and in that time, he’d almost never seen the other man sleep.",
+   "range": [
+    80,
+    191
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "was the sickly, gaunt man who had left three years ago",
+   "quote_anchor": "The Victor who’d left three years ago was sickly, gaunt.",
+   "range": [
+    1092,
+    1148
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "notes that under Victor’s logic the past twelve hours should have been enough to kill him",
+   "quote_anchor": "Mitch could have pointed out that under that logic, the past twelve hours should have been more than enough to kill him.",
+   "range": [
+    6300,
+    6420
+   ],
+   "words": 22
+  }
+ ]
+}

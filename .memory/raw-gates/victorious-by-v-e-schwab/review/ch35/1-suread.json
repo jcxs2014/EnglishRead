@@ -1,0 +1,199 @@
+{
+ "chapter": 35,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch35_chapter_v.txt",
+ "source_len_chars": 4675,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney Clarke",
+   "did": "lay on her stomach and reached under the bed frame until she felt the pistol",
+   "quote_anchor": "She lay on her stomach, and reached under the frame, fingers grazing the planks until she felt the pistol, its cold weight heavy in her hand.",
+   "range": [
+    407,
+    548
+   ],
+   "words": 26
+  },
+  {
+   "n": 2,
+   "who": "Sydney Clarke",
+   "did": "pried the red lid off the metal tin to make sure the pieces were still there",
+   "quote_anchor": "Still, she pried the red lid off to make sure the pieces were still there.",
+   "range": [
+    782,
+    856
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Sydney Clarke",
+   "did": "folded back the towel and found three charred fragments, all that was left of Serena Clarke",
+   "quote_anchor": "She folded back the towel, and there they were. Three charred fragments—all that was left of Serena Clarke.",
+   "range": [
+    904,
+    1011
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Sydney Clarke",
+   "did": "remembered following Serena onto the frozen lake behind their house that day in March",
+   "quote_anchor": "She’d followed her onto the frozen lake behind their house that day in March.",
+   "range": [
+    1147,
+    1224
+   ],
+   "words": 14
+  },
+  {
+   "n": 5,
+   "who": "Serena Clarke",
+   "did": "decided in a parking garage to spare Syd instead of finishing what Eli started",
+   "quote_anchor": "The memory surfaced: a parking garage, a gun coming to rest against her forehead. The moment Serena decided to spare her instead of finishing what Eli started.",
+   "range": [
+    1598,
+    1757
+   ],
+   "words": 27
+  },
+  {
+   "n": 6,
+   "who": "Sydney Clarke",
+   "did": "admitted the world was a safer place without Serena in it",
+   "quote_anchor": "Which was that, as much as she missed her older sister, Syd knew the world was a safer place without Serena in it.",
+   "range": [
+    3011,
+    3125
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "Sydney Clarke",
+   "did": "explained that resurrecting an EO changes the powers they have and leaves them altered and broken",
+   "quote_anchor": "Only, this one didn’t give them powers. It changed the ones they had. They came back altered.",
+   "range": [
+    2566,
+    2659
+   ],
+   "words": 17
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "freed the axe from its block, with everything else packed and loaded",
+   "quote_anchor": "Mitch trudged across the yard and freed the axe from its block. Everything else was packed and loaded.",
+   "range": [
+    3375,
+    3477
+   ],
+   "words": 18
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney Clarke",
+   "did": "was Serena Clarke’s younger sister and had idolized her",
+   "quote_anchor": "Sydney had idolized her older sister. She would have followed her to the end of the world and back again.",
+   "range": [
+    1014,
+    1119
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Serena Clarke",
+   "did": "as an EO could bend the whole world to her word, and no one could say no to her",
+   "quote_anchor": "As an EO, no one could say no to her.",
+   "range": [
+    1529,
+    1566
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "slit Serena’s throat, and Syd had not forgiven him for killing her sister",
+   "quote_anchor": "She hadn’t forgiven him for killing her sister.",
+   "range": [
+    1912,
+    1959
+   ],
+   "words": 8
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "used the fire that burned Serena’s corpse, from which Syd salvaged only three bones",
+   "quote_anchor": "Three bones—that was all Sydney had been able to salvage from the fire, the one Mitch had used to burn Serena’s corpse. After Victor slit her throat.",
+   "range": [
+    1760,
+    1909
+   ],
+   "words": 27
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Sydney Clarke",
+   "did": "had spent eight years of moving without ever moving in",
+   "quote_anchor": "AFTER eight years of moving without ever moving in, stopping but never settling, Sydney Clarke had learned to travel light.",
+   "range": [
+    87,
+    210
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Sydney Clarke",
+   "did": "kept only two things under the bed",
+   "quote_anchor": "Her body went through the motions, clearing out the drawers, the bedside table, until all that was left were the two things she kept under the bed.",
+   "range": [
+    257,
+    404
+   ],
+   "words": 27
+  },
+  {
+   "n": 3,
+   "who": "Serena Clarke",
+   "did": "was all that was left as three charred fragments",
+   "quote_anchor": "She folded back the towel, and there they were. Three charred fragments—all that was left of Serena Clarke.",
+   "range": [
+    904,
+    1011
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Sydney Clarke",
+   "did": "salvaged three bones from the fire that burned Serena’s corpse",
+   "quote_anchor": "Three bones—that was all Sydney had been able to salvage from the fire, the one Mitch had used to burn Serena’s corpse.",
+   "range": [
+    1760,
+    1879
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "three crows",
+   "did": "burst from the woods, cawing as they rose in a flutter of black wings",
+   "quote_anchor": "a moment later, three crows burst from the woods, cawing as they rose in a flutter of black wings.",
+   "range": [
+    3881,
+    3979
+   ],
+   "words": 19
+  }
+ ]
+}

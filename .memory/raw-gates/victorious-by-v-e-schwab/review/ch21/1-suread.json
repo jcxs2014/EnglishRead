@@ -1,0 +1,177 @@
+{
+ "chapter": 21,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch21_chapter_ii.txt",
+ "source_len_chars": 2120,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "Worked at the laptop with the black coding window and the same two words glowing white on the screen",
+   "quote_anchor": "a plate of pie crumbs—apple this time—at his elbow and the laptop filled by the black coding window, the same two words glowing white on the screen.",
+   "range": [
+    91,
+    239
+   ],
+   "words": 27
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "Cracked his knuckles and checked his watch, making a final attempt at the code when he saw Jenny coming",
+   "quote_anchor": "He cracked his knuckles, and checked his watch, was about to make a final attempt when he caught sight of Jenny coming toward the booth.",
+   "range": [
+    256,
+    392
+   ],
+   "words": 25
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "Double-clicked to collapse the coding window before Jenny glanced at the gardening forum page on his screen",
+   "quote_anchor": "He double-clicked and the coding window collapsed, right before she glanced over his shoulder at the gardening forum page.",
+   "range": [
+    514,
+    636
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Jenny",
+   "did": "Told Mitch that a guy came into the diner a few days back looking for him",
+   "quote_anchor": "“Oh, hey. I almost forgot. A guy came in a few days back, looking for you.”",
+   "range": [
+    984,
+    1059
+   ],
+   "words": 16
+  },
+  {
+   "n": 5,
+   "who": "Jenny",
+   "did": "Said the man did not seem to mind and would swing by Mitch's place next time he passed through",
+   "quote_anchor": "Said he’d just swing by your place, next time he was passing through.",
+   "range": [
+    1282,
+    1351
+   ],
+   "words": 13
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "Felt the blood drain from his face into the bottom of his shoes",
+   "quote_anchor": "Mitch felt the blood drain from his face, pool in the bottom of his shoes.",
+   "range": [
+    1355,
+    1429
+   ],
+   "words": 15
+  },
+  {
+   "n": 7,
+   "who": "Jenny",
+   "did": "Said the man never gave his name",
+   "quote_anchor": "The waitress frowned. “Come to think of it, he didn’t say.”",
+   "range": [
+    1640,
+    1699
+   ],
+   "words": 11
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "Drew cash from his wallet, left the booth and tipped his head to Jenny while his mind sprinted toward the truck and the cabin",
+   "quote_anchor": "But as his hand drew the cash from his wallet, as his legs shifted him out of the booth, as he tipped his head to Jenny",
+   "range": [
+    1841,
+    1960
+   ],
+   "words": 26
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Jenny",
+   "did": "Is the waitress at Herald Diner who teased Mitch about working hard and told him a man was looking for him",
+   "quote_anchor": "“Working hard or hardly working?” she said. “I’m guessing the first, based on the way you’re scowling at that screen.”",
+   "range": [
+    395,
+    513
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "the man looking for Mitch",
+   "did": "Knew where Mitch lived, which made Jenny assume he was a friend",
+   "quote_anchor": "“I figured he was a friend, given that he knew where you lived.”",
+   "range": [
+    1547,
+    1611
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "Raced toward the truck and the cabin at the edge of the woods, thinking of Syd",
+   "quote_anchor": "his mind was in a full-out sprint, racing to the truck, pealing down the road toward the cabin at the edge of the woods.",
+   "range": [
+    1988,
+    2108
+   ],
+   "words": 24
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the coding window on Mitch's laptop",
+   "did": "showed the same two words glowing white on the screen",
+   "quote_anchor": "the laptop filled by the black coding window, the same two words glowing white on the screen.",
+   "range": [
+    146,
+    239
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "the man looking for Mitch",
+   "did": "came into the diner a few days back",
+   "quote_anchor": "“Oh, hey. I almost forgot. A guy came in a few days back, looking for you.”",
+   "range": [
+    984,
+    1059
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Jenny",
+   "did": "asked to get Mitch another slice of pie",
+   "quote_anchor": "“Get you another slice?” she asked, gesturing at the plate, now devoid of pie.",
+   "range": [
+    804,
+    882
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "was about to make a final attempt at the code",
+   "quote_anchor": "He cracked his knuckles, and checked his watch, was about to make a final attempt when he caught sight of Jenny coming toward the booth.",
+   "range": [
+    256,
+    392
+   ],
+   "words": 25
+  }
+ ]
+}

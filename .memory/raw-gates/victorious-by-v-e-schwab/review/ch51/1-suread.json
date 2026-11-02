@@ -1,0 +1,177 @@
+{
+ "chapter": 51,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch51_chapter_vi.txt",
+ "source_len_chars": 6681,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Eli Ever",
+   "did": "told Gabriel he and Victor met at Lockland University, where Victor was top of the class until Eli transferred in sophomore year",
+   "quote_anchor": "“We met at Lockland University,” he said. “Victor was top of the class. Until I transferred, sophomore year…”",
+   "range": [
+    1028,
+    1137
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "remembered Angie with her arm around Victor’s waist, and described Victor as stern-faced and sharp and Angie as electric and ambitious",
+   "quote_anchor": "Victor, stern-faced and sharp. Angie, electric and ambitious.",
+   "range": [
+    1360,
+    1421
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "Eli Ever",
+   "did": "wanted to call himself a hero, but told Gabriel he was a wolf pretending to be a lamb",
+   "quote_anchor": "A hero, he wanted to say. But he couldn’t seem to lie, even to himself.",
+   "range": [
+    2616,
+    2687
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "recounted Victor sitting on the edge of the tub as Eli lowered himself into the icy water, and Victor’s envy when it had worked",
+   "quote_anchor": "Victor, sitting on the edge of the tub as Eli lowered himself into the icy water.",
+   "range": [
+    2833,
+    2914
+   ],
+   "words": 16
+  },
+  {
+   "n": 5,
+   "who": "Eli Ever",
+   "did": "admitted to killing Victor and said unfortunately it didn’t stick",
+   "quote_anchor": "“I did,” said Eli grimly. “Unfortunately, it didn’t stick.”",
+   "range": [
+    3451,
+    3510
+   ],
+   "words": 9
+  },
+  {
+   "n": 6,
+   "who": "Eli Ever",
+   "did": "recalled standing at the sink slicing himself open and watching the wounds heal again and again",
+   "quote_anchor": "after Victor stormed off, and Eli stood at the sink, slicing himself open, watching the wounds heal again and again, horror mounting",
+   "range": [
+    4140,
+    4272
+   ],
+   "words": 22
+  },
+  {
+   "n": 7,
+   "who": "Eli Ever",
+   "did": "named Sydney Clarke, said he tried to kill her once and that she brought Victor back a second time",
+   "quote_anchor": "“Sydney Clarke,” he said, trying to keep the venom from his voice. “Short. Blond. Looks younger than she is?”",
+   "range": [
+    5486,
+    5595
+   ],
+   "words": 19
+  },
+  {
+   "n": 8,
+   "who": "Eli Ever",
+   "did": "said Serena could command anyone to do anything using just her voice and that Sydney can resurrect the dead, like Gabriel",
+   "quote_anchor": "Serena could command anyone to do anything, using just her voice. And Sydney can resurrect the dead. Like you.",
+   "range": [
+    5913,
+    6023
+   ],
+   "words": 19
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli Ever",
+   "did": "called Victor both a friend and a rival, remembering him at the college bar",
+   "quote_anchor": "Another memory—Victor sitting across from Eli at the college bar, those pale blue eyes hanging on him as he spoke his ideas into the world.",
+   "range": [
+    2417,
+    2556
+   ],
+   "words": 25
+  },
+  {
+   "n": 2,
+   "who": "Angie",
+   "did": "let Eli pretend to be normal and was killed by Victor",
+   "quote_anchor": "Angie, who let him pretend to be normal.",
+   "range": [
+    1995,
+    2035
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "Eli Ever",
+   "did": "was the interloper and the new addition between Victor and Angie, not trying to edge Victor out",
+   "quote_anchor": "Even though that wasn’t true. Eli had been the interloper. The new addition. A wedge between the two of them.",
+   "range": [
+    1736,
+    1845
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Sydney Clarke",
+   "did": "fell through the ice with her sister Serena and shot Eli through the heart",
+   "quote_anchor": "She’s the one who brought Victor back a second time.” And the one who shot me through the heart, he thought",
+   "range": [
+    5650,
+    5757
+   ],
+   "words": 21
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Eli Ever",
+   "did": "counted to three before the pressure forced the answer out",
+   "quote_anchor": "counted to three before the pressure forced the answer out.",
+   "range": [
+    4617,
+    4676
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "the three of them (Eli, Victor and Angie)",
+   "did": "were three, ranged around a café table",
+   "quote_anchor": "The three of them, ranged around a café table. The three of them, heads bowed over their books, or laughing on the way to lab",
+   "range": [
+    1512,
+    1637
+   ],
+   "words": 25
+  },
+  {
+   "n": 3,
+   "who": "Sydney Clarke",
+   "did": "is the one who brought Victor back a second time",
+   "quote_anchor": "“I tried to kill her once, but she got away. She’s the one who brought Victor back a second time.”",
+   "range": [
+    5605,
+    5703
+   ],
+   "words": 20
+  }
+ ]
+}

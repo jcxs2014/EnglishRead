@@ -1,0 +1,210 @@
+{
+ "chapter": 7,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch07_chapter_vi.txt",
+ "source_len_chars": 12348,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "set the timer on her watch for two hours after Mitch's truck drove away",
+   "quote_anchor": "Then she set the timer on her watch.",
+   "range": [
+    537,
+    573
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "told Dol to stay in the cabin, zipped up her coat and left",
+   "quote_anchor": "“You have to stay,” she told him. “I’ll be right back,” she added, zipping up her coat.",
+   "range": [
+    955,
+    1042
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "hauled the abandoned bike out from behind a fallen trunk in the woods and rode off",
+   "quote_anchor": "She found what she was looking for behind a fallen trunk and beneath a patina of frost, grabbed the black handlebar, and hauled it up.",
+   "range": [
+    2553,
+    2687
+   ],
+   "words": 25
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "rode the bike to the Newtown Public Library and left it leaning against a wall outside",
+   "quote_anchor": "She half jumped, half tipped off the bike when she arrived, left the metal carcass leaning up against a wall",
+   "range": [
+    3530,
+    3638
+   ],
+   "words": 20
+  },
+  {
+   "n": 5,
+   "who": "Sydney",
+   "did": "had hacked the pre-med registry a couple of months ago and memorized other students' credentials to log in on their accounts",
+   "quote_anchor": "A couple months ago, she’d hacked the pre-med registry, and swiped a handful of other students’ credentials, committing them to memory",
+   "range": [
+    7941,
+    8075
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "clicked the past-student tab of the Lockland University directory, typed in Victor Vale's name and found his photograph",
+   "quote_anchor": "She clicked on the tab for past students and typed in the name.",
+   "range": [
+    8447,
+    8510
+   ],
+   "words": 13
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "searched for Eli Ever, then typed in his student name Eliot Cardale and opened his profile",
+   "quote_anchor": "Her fingers moved across the keyboard, resurrecting him letter by letter.",
+   "range": [
+    10471,
+    10544
+   ],
+   "words": 11
+  },
+  {
+   "n": 8,
+   "who": "Sydney",
+   "did": "twitched the mouse to close the window showing Eli's profile",
+   "quote_anchor": "Her fingers twitched on the mouse, and Eli disappeared.",
+   "range": [
+    12252,
+    12307
+   ],
+   "words": 9
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor Vale",
+   "did": "made Sydney a promise, broke it, lied to her and left",
+   "quote_anchor": "He made her a promise, and he broke it.",
+   "range": [
+    9067,
+    9106
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "is the man Sydney loves, but there is an empty space in their life where Victor should be",
+   "quote_anchor": "She loved Mitch, but there was a space in their life where Victor should be.",
+   "range": [
+    9376,
+    9452
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Serena",
+   "did": "intervened when Eli Ever shot Sydney and took the bullet meant for her heart",
+   "quote_anchor": "Buried in her arm instead of her heart because Serena had chosen that moment to intervene.",
+   "range": [
+    11696,
+    11786
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "shot Sydney, stalked her through her nightmares, and was killed when she put a bullet in his heart",
+   "quote_anchor": "Nightmares that had finally ended when she put a bullet in his heart.",
+   "range": [
+    11956,
+    12025
+   ],
+   "words": 13
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "gave Sydney a fob loaded with ten thousand songs on her last birthday",
+   "quote_anchor": "just a fob loaded with ten thousand songs, courtesy of Mitch on her last birthday.",
+   "range": [
+    290,
+    372
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "has weekly outings that last anywhere from two hours ten minutes to two hours forty-five",
+   "quote_anchor": "Mitch’s weekly outings ranged anywhere from two hours ten minutes to two hours forty-five",
+   "range": [
+    633,
+    722
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "fell through the ice on the lake with Serena nine years before and has been cold ever since",
+   "quote_anchor": "Had been since the morning she and Serena fell through the ice on the lake, nine years before.",
+   "range": [
+    1284,
+    1378
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Sydney and Mitch",
+   "did": "spent the last three years moving from place to place so EON would not find them",
+   "quote_anchor": "Or maybe it was just the fact they’d spent the last three years bouncing from place to place so EON wouldn’t find them",
+   "range": [
+    4502,
+    4620
+   ],
+   "words": 23
+  },
+  {
+   "n": 5,
+   "who": "Sydney",
+   "did": "will be old enough to drink in a month and a half because her body cannot keep up with her age",
+   "quote_anchor": "In a month and a half, she’d be old enough to drink, but ever since she plunged through the ice, her body couldn’t seem to keep up.",
+   "range": [
+    6121,
+    6252
+   ],
+   "words": 27
+  },
+  {
+   "n": 6,
+   "who": "Eliot Cardale",
+   "did": "in his senior year at Lockland was ten years younger than the man who shot Sydney",
+   "quote_anchor": "Ten years stood between this boy, in his senior year at Lockland, and the man who’d shot Sydney.",
+   "range": [
+    10697,
+    10793
+   ],
+   "words": 18
+  }
+ ]
+}

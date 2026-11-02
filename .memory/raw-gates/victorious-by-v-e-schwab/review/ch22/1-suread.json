@@ -1,0 +1,210 @@
+{
+ "chapter": 22,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch22_chapter_iii.txt",
+ "source_len_chars": 12227,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Dr. Gray",
+   "did": "stepped into EON, where two black-uniformed figures took his phone and scanned him before ushering him down a doorless hall",
+   "quote_anchor": "two figures in all-black uniforms, who took his phone, and proceeded to scan him—presumably for weapons—before ushering him down a doorless hall.",
+   "range": [
+    175,
+    320
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "swept the stylus across the bottom line of the NDA, signing his name and erasing his last chance of turning back",
+   "quote_anchor": "Then he swept the stylus across the bottom line, signing his name, and erasing his last chance—theoretical as it was—of turning back.",
+   "range": [
+    2779,
+    2912
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Helena",
+   "did": "tapped the tablet twice and turned the abstract pattern on the wall behind her desk into screens",
+   "quote_anchor": "She reclaimed the tablet, tapped the surface twice, and the pattern on the wall behind her melted into screens.",
+   "range": [
+    2938,
+    3049
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Helena",
+   "did": "explained that EON was created to hunt down, capture and contain the ExtraOrdinaries",
+   "quote_anchor": "EON was created to hunt down, capture, and contain them. In short, to neutralize the threat they pose to society at large.",
+   "range": [
+    3623,
+    3745
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "recalled the scalpel in his hand cutting across the other doctor's throat",
+   "quote_anchor": "Gabriel saw the scalpel in his hand. How easily it cut across the other doctor’s throat.",
+   "range": [
+    5105,
+    5193
+   ],
+   "words": 16
+  },
+  {
+   "n": 6,
+   "who": "Rios",
+   "did": "left the office by walking through the wall as if it were a curtain",
+   "quote_anchor": "Then she turned on her heel and left the office. Not through the door, but through the wall, passing straight through as if it were a curtain.",
+   "range": [
+    8757,
+    8899
+   ],
+   "words": 27
+  },
+  {
+   "n": 7,
+   "who": "Rios",
+   "did": "returned a moment later holding a small blue wildflower picked in the field behind the building",
+   "quote_anchor": "A moment later, Rios returned. The only difference was that she now held a small blue wildflower in one hand.",
+   "range": [
+    9024,
+    9133
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Rios",
+   "did": "described the EO she caught second, who drowned six people by accident, as not meaning to be dangerous but being dangerous anyway",
+   "quote_anchor": "The next one drowned six people by accident. The first meant to be dangerous, the second didn’t, but both of them were.",
+   "range": [
+    11200,
+    11319
+   ],
+   "words": 22
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Helena",
+   "did": "hired Gabriel to find out what makes the EOs tick and why they alone were able to cheat death",
+   "quote_anchor": "To do that, I need to know what makes them tick. Why they alone were able to cheat death.",
+   "range": [
+    4465,
+    4554
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Stell",
+   "did": "was Helena's predecessor and thought EO power could be harnessed and put to use in the service of EON",
+   "quote_anchor": "My predecessor, Stell, shared that sentiment. He thought their power could be harnessed, and put to use, in the service of EON.",
+   "range": [
+    6351,
+    6478
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Stell",
+   "did": "was murdered by an EO, and his experiment was discontinued",
+   "quote_anchor": "“He was murdered,” she said flatly. “By an EO. Admittedly, not one of his. But suffice to say, his experiment was discontinued.",
+   "range": [
+    6547,
+    6674
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Rios",
+   "did": "was found by EON and given a choice, by Stell, to serve instead of being locked up",
+   "quote_anchor": "“EON found me,” she said evenly. “And they gave me a choice.",
+   "range": [
+    10595,
+    10655
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "waited three days before calling the number on the card",
+   "quote_anchor": "Gabriel had waited three days to call the number on the card.",
+   "range": [
+    323,
+    384
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "counted ten, twenty, thirty steps before his escorts turned the corner",
+   "quote_anchor": "He counted the steps as they walked—ten, twenty, thirty—before his escorts turned a corner, and he saw Director Roy",
+   "range": [
+    900,
+    1015
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "the wall of screens behind Helena's desk",
+   "did": "held two dozen screens showing live feeds of doors, corridors and rooms",
+   "quote_anchor": "melted into screens. Two dozen of them, live feeds of doors, and corridors, and rooms.",
+   "range": [
+    3029,
+    3115
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "the EO on one of the screens",
+   "did": "floated two feet off the floor",
+   "quote_anchor": "But on one screen, a man floated two feet off the floor.",
+   "range": [
+    3351,
+    3407
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "the EO Rios caught second",
+   "did": "drowned six people by accident",
+   "quote_anchor": "The next one drowned six people by accident.",
+   "range": [
+    11200,
+    11244
+   ],
+   "words": 8
+  },
+  {
+   "n": 6,
+   "who": "Rios",
+   "did": "served in the marines for seven years before serving EON",
+   "quote_anchor": "I was in the marines, for seven years. I chose to serve my country then. I choose to serve it now.",
+   "range": [
+    11343,
+    11441
+   ],
+   "words": 21
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "chapter": 45,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch45_chapter_xv.txt",
+ "source_len_chars": 9716,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "六点前起床跑三英里、洗五分钟冷水澡、在门廊上默默喝一杯意式浓缩",
+   "quote_anchor": "He still rose before six to run three miles, still took a cold five-minute shower, still drank an espresso in silence on the porch.",
+   "range": [
+    195,
+    326
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "在去 EON 的车上翻看座位袋里的平板，查看病人和工作人员的情况",
+   "quote_anchor": "he flicked through the tablet in the seat pocket, checking on his patients, then his staff.",
+   "range": [
+    1186,
+    1277
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Helena Roy",
+   "did": "在 Gabriel 查房时记下笔记，把他的想法抄下来以备后用",
+   "quote_anchor": "As he did his morning rounds, she took notes, transcribing his thoughts for later reference.",
+   "range": [
+    2443,
+    2535
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Noah",
+   "did": "抬头跟在 Gabriel 后面走进 Control",
+   "quote_anchor": "Noah looked up—eyes hidden, as usual, behind his sunglasses— and followed him into Control.",
+   "range": [
+    3272,
+    3363
+   ],
+   "words": 14
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "命令 Helena 派最近的特遣员去调查三名新候选人的所在位置",
+   "quote_anchor": "“Helena,” instructed Gabriel, “please dispatch the closest agents to investigate.”",
+   "range": [
+    6450,
+    6532
+   ],
+   "words": 10
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "举手制止 Noah 跟过去，让他留在原地",
+   "quote_anchor": "Noah began to follow, but Gabriel held up a hand. “Stay here.”",
+   "range": [
+    7933,
+    7995
+   ],
+   "words": 12
+  },
+  {
+   "n": 7,
+   "who": "Gabriel",
+   "did": "把手掌按在扫描仪上，让门解锁并走进房间所在的走廊",
+   "quote_anchor": "Gabriel laid his palm against the scanner, and the doors unsealed, letting him pass into the corridor",
+   "range": [
+    8730,
+    8831
+   ],
+   "words": 17
+  },
+  {
+   "n": 8,
+   "who": "Gabriel",
+   "did": "对房间里的患者打招呼，说“Hello, Eli”“Welcome back”",
+   "quote_anchor": "“Hello, Eli,” he said in a warm, patient tone. “Welcome back.”",
+   "range": [
+    9653,
+    9715
+   ],
+   "words": 11
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "与 Helena Roy 的关系：没有她的引荐他不会被邀请加入 EON，只能当治疗师",
+   "quote_anchor": "Without her intercession, Gabriel would never have been invited into EON. At least, not as a therapist.",
+   "range": [
+    2729,
+    2832
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "与 Noah 的关系：他要求这个特遣员信任自己，Noah 回答“Of course I do”",
+   "quote_anchor": "The EO’s jaw tensed, almost imperceptibly, but there was no tension in the tether when he said, “Of course I do.”",
+   "range": [
+    8129,
+    8242
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "与 Malcolm 的关系：Malcolm 是他的病人，被接进系统为 EON 工作",
+   "quote_anchor": "Malcolm’s only glitch was that he could no longer disconnect, no longer act or speak outside the system.",
+   "range": [
+    5847,
+    5951
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "与 Eli（患者 32）的关系：读过他的档案，早就认定他是 EON 停尸房里的宝贝",
+   "quote_anchor": "He’d been waiting for this moment since he read the EO’s dossier, and realized what a gem lay housed in EON’s morgue",
+   "range": [
+    7740,
+    7856
+   ],
+   "words": 22
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "六点（before six）前起床",
+   "quote_anchor": "He still rose before six to run three miles",
+   "range": [
+    195,
+    238
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "冷水澡只洗五分钟（five-minute shower）",
+   "quote_anchor": "still took a cold five-minute shower, still drank an espresso in silence on the porch",
+   "range": [
+    240,
+    325
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Evanson",
+   "did": "永远早到五分钟（five minutes early）",
+   "quote_anchor": "His driver, Evanson, always five minutes early, because that was how he’d been instructed.",
+   "range": [
+    982,
+    1072
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Dominic",
+   "did": "几个月前（months ago）被复活，至今没有苏醒的迹象",
+   "quote_anchor": "Take Dominic, who, despite the fact he’d been resurrected months ago, had shown no signs of waking up.",
+   "range": [
+    4106,
+    4208
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "走进病人房间前，门外站着两名卫兵（a pair of guards）",
+   "quote_anchor": "A pair of guards stood at attention in the hall outside the chamber.",
+   "range": [
+    8529,
+    8597
+   ],
+   "words": 13
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "chapter": 2,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch02_chapter_i.txt",
+ "source_len_chars": 8721,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "counted the number of states he had crossed, the number of finished drinks in front of him and the number of empty seats to his left",
+   "quote_anchor": "the number of states he’d crossed—six—and the number of finished drinks in front of him—two—and the number of empty seats to his left—four.",
+   "range": [
+    119,
+    258
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "drew the inhaler from his coat pocket and turned it in the bar’s low light, studying the vivid blue contents",
+   "quote_anchor": "Victor drew the inhaler from his coat pocket and turned it in the bar’s low light, studying the vivid blue contents",
+   "range": [
+    1329,
+    1444
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "looked up, scanned the windows and saw a large black beast standing on the curb outside",
+   "quote_anchor": "Victor looked up, scanning the windows, and saw a large black beast standing on the curb outside.",
+   "range": [
+    3555,
+    3652
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "stood too fast, nearly upending what was left of his scotch, and found the dog gone when he righted the glass",
+   "quote_anchor": "He stood too fast, nearly upending what was left of his scotch, but by the time he righted the glass, the dog was gone.",
+   "range": [
+    3788,
+    3907
+   ],
+   "words": 24
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "went to the restroom, bent over the sink and splashed water on his face as another man entered and threw the bolt",
+   "quote_anchor": "He went to the restroom, was bent over the sink, splashing water on his face when he heard the sound of another man entering",
+   "range": [
+    4332,
+    4456
+   ],
+   "words": 24
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "recognized the man who stepped forward as June wearing his cellmate, not the real Mitchell Turner",
+   "quote_anchor": "But then his cellmate stepped forward, and smirked, and he knew it was neither a hallucination nor the real Mitchell Turner.",
+   "range": [
+    4805,
+    4929
+   ],
+   "words": 21
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "hit the catch on the gun, ejecting the clip and with it a length of steel wire",
+   "quote_anchor": "Victor hit the catch on the gun, ejecting the clip, and with it, a length of steel wire that ran between the magazine and the grip.",
+   "range": [
+    6960,
+    7091
+   ],
+   "words": 26
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "pinned the length of wire under his shoe and drew it tight, forcing Mitch’s wrist down against the tile",
+   "quote_anchor": "Before she could shove back up, Victor pinned the length of wire under his shoe and drew it tight, forcing Mitch’s wrist down against the tile.",
+   "range": [
+    8155,
+    8298
+   ],
+   "words": 26
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "had intercepted Victor at the gala and forced him to stop Marcella instead of going after Eli, and Victor had promised to settle the score",
+   "quote_anchor": "Before she intercepted him at the gala and forced him to stop Marcella instead of going after Eli.",
+   "range": [
+    5329,
+    5427
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "had waited fifteen years to kill his best friend Eli",
+   "quote_anchor": "He had waited fifteen years to kill his best friend.",
+   "range": [
+    1973,
+    2025
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "killed Eli and was the one who pulled the trigger",
+   "quote_anchor": "But Syd had been the one to pull the trigger.",
+   "range": [
+    2047,
+    2092
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "had gotten close to Sydney after Serena’s death, positioning herself as a surrogate sister",
+   "quote_anchor": "The shapeshifting mercenary who’d gotten close to Sydney after Serena’s death, positioned herself as a surrogate sister.",
+   "range": [
+    4947,
+    5067
+   ],
+   "words": 17
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "six — the number of states he had crossed",
+   "quote_anchor": "He counted the number of states he’d crossed—six—and the number of finished drinks in front of him—two—and the number of empty seats to his left—four.",
+   "range": [
+    108,
+    258
+   ],
+   "words": 25
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "seven — the number of hours since his last dose",
+   "quote_anchor": "He counted the number of hours since his last dose—seven—and the number until his next one—five.",
+   "range": [
+    261,
+    357
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "eight — the number of other bodies in the room",
+   "quote_anchor": "He lifted the glass to his mouth and counted the number of other bodies in the room—eight.",
+   "range": [
+    360,
+    450
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "the vials in Victor’s possession",
+   "did": "four and a half — the number of vials currently in his possession",
+   "quote_anchor": "the number of vials currently in his possession—four and a half—and the number he’d started with—six",
+   "range": [
+    1459,
+    1559
+   ],
+   "words": 16
+  },
+  {
+   "n": 5,
+   "who": "Haverty’s compound",
+   "did": "sixty-three — the number of days until he ran out of it",
+   "quote_anchor": "the number of days—sixty-three—until he ran out of Haverty’s compound.",
+   "range": [
+    1564,
+    1634
+   ],
+   "words": 10
+  },
+  {
+   "n": 6,
+   "who": "the showdown at the Merit gala",
+   "did": "three — the number of weeks that had passed since it",
+   "quote_anchor": "He counted the number of weeks—three—that had passed since the showdown at the Merit gala.",
+   "range": [
+    1703,
+    1793
+   ],
+   "words": 15
+  }
+ ]
+}

@@ -68,7 +68,7 @@ modified: "2026-11-01"
 
 **为什么这样写**：一问一答两句就把药效的账目摆完：现在七小时，起初近十二小时。一个在缩，一个没缩，这组对比本身就是威胁——他剩下的时间只会更少，不必任何人开口提醒。最后那个 like all of them 把这一次的收缩推广成通例：不止这一剂在缩。
 
-**读者视角提示**：这是全书第一次给出药效的具体数字。它同时是本章的倒计时：他必须在一个窗口不断收窄的时间里，找到一个不靠这管药活下去的办法。
+**读者视角提示**：这是全书第一次把「药效窗口」的两端数字并排摆出来（此前 ch02 只留下七小时与五小时，ch18 只写过四小时缩到两小时）。它同时是本章的倒计时：他必须在一个窗口不断收窄的时间里，找到一个不靠这管药活下去的办法。
 
 > **原句 8:** "She glanced at a clock on the wall, lips moving as she counted. “Come back tomorrow night at eight.” She was timing it so a dose would wear off while he was there. “I’ll reserve the lab.”"
 

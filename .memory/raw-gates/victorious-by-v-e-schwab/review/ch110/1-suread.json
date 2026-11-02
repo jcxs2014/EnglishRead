@@ -1,0 +1,188 @@
+{
+ "chapter": 110,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch110_chapter_xl.txt",
+ "source_len_chars": 3523,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "crossed the Lockland parking lot while Dol's red dot was still moving, needing to catch up",
+   "quote_anchor": "DOL’S red dot was still moving as he crossed the Lockland parking lot",
+   "range": [
+    39,
+    108
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "double tapped an icon on his phone and turned it into a clone of Dani's phone",
+   "quote_anchor": "He sank behind the wheel, and double tapped an icon on his phone. The screen changed color",
+   "range": [
+    205,
+    295
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "fired off a text from Dani's phone while pulling out of the lot, to test her word about her younger brother",
+   "quote_anchor": "As Victor pulled out of the lot, he fired off a text from Dani’s phone.",
+   "range": [
+    557,
+    628
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "found the pilot waiting beside a compact jet at the airstrip and called him by name",
+   "quote_anchor": "Victor found the pilot waiting beside a compact jet, chewing his thumb and staring at his screen.",
+   "range": [
+    915,
+    1012
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "told Jeremy that Dani was not coming and that Jeremy was there because Victor needed a lift",
+   "quote_anchor": "“She isn’t coming,” he said, wagging his cell from side to side, their conversation on the screen. “You’re here because I need a lift.”",
+   "range": [
+    1352,
+    1487
+   ],
+   "words": 24
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "pulled out his gun, thumbed off the safety and held the barrel level with Jeremy's head to make the pilot comply",
+   "quote_anchor": "so he settled for pulling out his gun, thumbing off the safety as he swung it up, the barrel level with Jeremy’s head.",
+   "range": [
+    1624,
+    1742
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "wrote back to Mitch on the message board while keeping the weapon trained on Jeremy",
+   "quote_anchor": "Victor kept the weapon trained on Jeremy as he wrote back.",
+   "range": [
+    2138,
+    2196
+   ],
+   "words": 11
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "nudged the pilot forward onto the plane after the young man shook his head and said he believed him",
+   "quote_anchor": "“Good,” said Victor, nudging him forward, onto the plane.",
+   "range": [
+    3465,
+    3522
+   ],
+   "words": 9
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Jeremy and Dani",
+   "did": "Jeremy is Dani's younger brother, and they have a standing promise to be there for each other",
+   "quote_anchor": "I’m there if he needs me, and he’s there if I need him.",
+   "range": [
+    499,
+    554
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Jeremy and Dani",
+   "did": "Jeremy shares his sister's sharp features with her, so the resemblance between the Dean siblings is obvious in person",
+   "quote_anchor": "In person, the resemblance between the Dean siblings was even sharper.",
+   "range": [
+    1053,
+    1123
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Victor and Mitch",
+   "did": "Victor exchanges messages with Mitch on the board and sends Mitch his current number, but Mitch never calls",
+   "quote_anchor": "He sent Mitch his current number and waited for the phone to ring.",
+   "range": [
+    2409,
+    2475
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Victor and Jeremy",
+   "did": "Victor tells Jeremy he has not hurt Dani and will not, so long as Jeremy does exactly as he says",
+   "quote_anchor": "“No,” he said. “And I won’t,” he added, “so long as you do exactly what I say.”",
+   "range": [
+    2576,
+    2655
+   ],
+   "words": 17
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Dol's red dot",
+   "did": "how far west and south Bethany was from Victor: six hours",
+   "quote_anchor": "Dol’s red dot now hovered in some place called Bethany, six hours to the west and south.",
+   "range": [
+    740,
+    828
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "the aircraft",
+   "did": "how many short steps led up onto the plane: four",
+   "quote_anchor": "Jeremy turned, and started, albeit slowly, toward the four short steps that led up onto the plane.",
+   "range": [
+    2736,
+    2834
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "the state of the dot beside his handle on the board: green to gray, offline",
+   "quote_anchor": "the dot beside his handle had gone from green to gray. Offline.",
+   "range": [
+    2906,
+    2969
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Mitch's handle",
+   "did": "the digits in Mitch's board handle: 1652",
+   "quote_anchor": "SHARPENEDSPADE1652: ACTUAL STORM? OR CLOUDS ON THE HORIZON?",
+   "range": [
+    2199,
+    2258
+   ],
+   "words": 8
+  }
+ ]
+}

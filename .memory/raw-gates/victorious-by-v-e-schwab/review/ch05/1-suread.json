@@ -1,0 +1,210 @@
+{
+ "chapter": 5,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch05_chapter_iv.txt",
+ "source_len_chars": 6417,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "locked the office door and unrolled his sleeves to convince himself the work was done",
+   "quote_anchor": "As he climbed the stairs. As he continued down the hall, unrolling his sleeves in an attempt to convince himself the work was done.",
+   "range": [
+    1262,
+    1393
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "Gabriel Gray",
+   "did": "counted to ten at the final threshold and then went into the house",
+   "quote_anchor": "When he was confident he had his thoughts together, he counted to ten, and then went in.",
+   "range": [
+    1542,
+    1630
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "knelt to pick up Ian's action figures, gaming pad and half-laid tracks and returned the toys to their bins",
+   "quote_anchor": "He returned the toys to their respective bins and was about to restore the pillows to the couch when Iris called out from the kitchen.",
+   "range": [
+    2478,
+    2612
+   ],
+   "words": 25
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "planted a kiss on his wife's warm skin and said he was sorry he was late",
+   "quote_anchor": "Gabriel bent his head to plant a kiss on her warm skin.",
+   "range": [
+    3688,
+    3743
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "Gabriel Gray",
+   "did": "tasted the sauce Iris offered and called it perfect",
+   "quote_anchor": "Perfect. An empty word—one that served no purpose, and one he almost never used.",
+   "range": [
+    4150,
+    4230
+   ],
+   "words": 14
+  },
+  {
+   "n": 6,
+   "who": "Iris",
+   "did": "cupped Gabriel's cheek, searched his face and asked whether he was home",
+   "quote_anchor": "because Iris cupped his cheek, her hazel eyes—even they couldn’t choose a color—searching his face as she said, “Are you home?”",
+   "range": [
+    4260,
+    4387
+   ],
+   "words": 21
+  },
+  {
+   "n": 7,
+   "who": "Gabriel Gray",
+   "did": "assured Iris he was home while she tapped the spoon against his shirtfront",
+   "quote_anchor": "“I’m home,” he assured her with a smile. Iris made a thoughtful sound, tapping the clean edge of the spoon against his shirtfront",
+   "range": [
+    4680,
+    4809
+   ],
+   "words": 23
+  },
+  {
+   "n": 8,
+   "who": "Ian",
+   "did": "washed his hands at the sink on a footstool while humming the birthday song, then sent soap bubbles everywhere",
+   "quote_anchor": "Ian had migrated to the sink and stood on a footstool washing his hands, humming the birthday song as he lathered each of his fingers.",
+   "range": [
+    4930,
+    5064
+   ],
+   "words": 25
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Iris",
+   "did": "是 Gabriel 的妻子，选新房子时只向他要了一个承诺：不把工作带回家",
+   "quote_anchor": "Iris extracted only one promise when choosing the new house—the same one she demanded when they first moved in together—that Gabriel wouldn’t bring his work home.",
+   "range": [
+    813,
+    975
+   ],
+   "words": 26
+  },
+  {
+   "n": 2,
+   "who": "Ian",
+   "did": "是 Gabriel 的儿子，管他叫 Dad，头发是深色的卷发",
+   "quote_anchor": "“Hello, Dad,” chimed Ian brightly as Gabriel passed a hand over his son’s dark curls.",
+   "range": [
+    3232,
+    3317
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "在自家房子里开诊所：一楼是诊所，楼上两层是家人的家",
+   "quote_anchor": "And so, the first floor became Dr. Gray’s private practice, while the two above were Gabriel’s home.",
+   "range": [
+    489,
+    589
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "要靠二十八级台阶在治疗师与丈夫、父亲两个角色之间切换",
+   "quote_anchor": "Which meant he had exactly twenty-eight steps to put down the weight of his sessions. To shed the role of therapist, and shift into the role of husband, father.",
+   "range": [
+    978,
+    1138
+   ],
+   "words": 29
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "从诊所到家要走 twenty-eight steps",
+   "quote_anchor": "commute from Dr. Gray’s office to Gabriel’s house was twenty-eight steps.",
+   "range": [
+    43,
+    116
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "Gabriel Gray",
+   "did": "这 twenty-eight 步的分配：Five from the door to the bottom of the stairs. Twelve up. And eleven down the hall.",
+   "quote_anchor": "Five from the door to the bottom of the stairs. Twelve up. And eleven down the hall.",
+   "range": [
+    119,
+    203
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "four years ago 离开医院开自己的诊所，当时刚买了新房子",
+   "quote_anchor": "When he left the hospital four years ago to open his own practice, they’d just bought a new house",
+   "range": [
+    206,
+    303
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "人生的前 first thirty years 一直拒绝被叫 Gabe",
+   "quote_anchor": "Example: For the first thirty years of his life, Gabriel refused to be called Gabe.",
+   "range": [
+    2864,
+    2947
+   ],
+   "words": 15
+  },
+  {
+   "n": 5,
+   "who": "Gabriel Gray",
+   "did": "吃饭时 poured two glasses of wine 并感谢 Iris 做饭",
+   "quote_anchor": "as they sat down to eat, and Gabriel poured two glasses of wine, and thanked her for cooking",
+   "range": [
+    5812,
+    5904
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Iris",
+   "did": "在厨房做饭，厨房是 three different shades of green",
+   "quote_anchor": "He found his wife stirring onions in the kitchen—which was three different shades of green—while Ian sat coloring at the table.",
+   "range": [
+    3102,
+    3229
+   ],
+   "words": 21
+  }
+ ]
+}

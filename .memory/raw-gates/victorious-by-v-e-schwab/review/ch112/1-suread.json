@@ -1,0 +1,177 @@
+{
+ "chapter": 112,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch112_chapter_ii.txt",
+ "source_len_chars": 3333,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "loaded a gun and handed it to Mitch while explaining what Serena's power is like",
+   "quote_anchor": "“Hard to explain,” she said, loading a gun, and handing it to Mitch.",
+   "range": [
+    176,
+    244
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "shoved Mitch forward through the open doors, saying “Bottoms up”",
+   "quote_anchor": "“Bottoms up,” said June, shoving him forward, through the open doors.",
+   "range": [
+    1098,
+    1167
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "crossed the threshold expecting to fall into a dream, but his boot landed on the floor",
+   "quote_anchor": "he braced for the world to drop away, for the surreal sensation of falling out of waking, into dream. But his boot landed on the floor.",
+   "range": [
+    1202,
+    1337
+   ],
+   "words": 26
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "hoisted the axe handle back onto his shoulder and set another log on the chopping block",
+   "quote_anchor": "Mitch hoisted the handle back onto his shoulder and set another log, breath fogging in the cold.",
+   "range": [
+    1659,
+    1755
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "heard the axe let out a BANG and saw the world crack into white walls, metal doors and a gun",
+   "quote_anchor": "Mitch recoiled, the sound so close and loud it was painful, and for an instant, the whole world cracked, and he saw white walls, metal doors, a gun.",
+   "range": [
+    2228,
+    2376
+   ],
+   "words": 28
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "struggled to hold on to the realization that he was in EON while snow fell in the cabin dream",
+   "quote_anchor": "As snow began to fall in quiet drifts, he struggled to hold on to the idea. EON. He was in EON and—",
+   "range": [
+    2490,
+    2589
+   ],
+   "words": 22
+  },
+  {
+   "n": 7,
+   "who": "Syd",
+   "did": "called to Mitch from the front porch with Dol sitting at her side and asked if he was coming in",
+   "quote_anchor": "She was standing on the front porch, that butter yellow light spilling out over the steps, Dol sitting at her side. “You coming in?”",
+   "range": [
+    2620,
+    2752
+   ],
+   "words": 24
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "turned and started walking away from the house despite the worsening weather",
+   "quote_anchor": "Mitch turned and started walking away from the house.",
+   "range": [
+    2834,
+    2887
+   ],
+   "words": 9
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "is wearing a head that is not her own, but an innocent human's, who is probably going to end up dead",
+   "quote_anchor": "because she just bobbed her head—which wasn’t hers, Mitch reminded himself, but some innocent human’s.",
+   "range": [
+    618,
+    720
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "had told Mitch that pain can disrupt the dream",
+   "quote_anchor": "remembering what Victor had said about pain, how it could disrupt the dream.",
+   "range": [
+    962,
+    1038
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "knew the Sydney standing in the cabin doorway was not his Sydney",
+   "quote_anchor": "But the Sydney in the doorway wasn’t his.",
+   "range": [
+    2790,
+    2831
+   ],
+   "words": 8
+  },
+  {
+   "n": 4,
+   "who": "Dol",
+   "did": "sat at Syd's side on the cabin's front porch",
+   "quote_anchor": "She was standing on the front porch, that butter yellow light spilling out over the steps, Dol sitting at her side.",
+   "range": [
+    2620,
+    2735
+   ],
+   "words": 21
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "brought the axe down a second time (原文: a second time)",
+   "quote_anchor": "He turned back to the woodpile and brought the axe down a second time.",
+   "range": [
+    2060,
+    2130
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "the innocent human whose head June wears",
+   "did": "was One who was probably going to end up dead (原文: One)",
+   "quote_anchor": "One who was probably going to end up dead.",
+   "range": [
+    721,
+    763
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "had to realize he was dreaming first (原文: first)",
+   "quote_anchor": "Of course, you had to realize you were dreaming first.",
+   "range": [
+    1041,
+    1095
+   ],
+   "words": 10
+  }
+ ]
+}

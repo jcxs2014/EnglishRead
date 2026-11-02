@@ -1,0 +1,188 @@
+{
+ "chapter": 111,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch111_chapter_i.txt",
+ "source_len_chars": 3398,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "stood before the unlocked metal door that led into EON, expecting death, the doctor, and Sydney beyond it",
+   "quote_anchor": "He knew what lay beyond the threshold. What was waiting for him there.",
+   "range": [
+    114,
+    184
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "drew the inhaler from his coat, held it to the light to study the violet liquid and calculated how much he would need",
+   "quote_anchor": "He held it to the light, studying the violet liquid in the cartridge, calculating how much he’d need.",
+   "range": [
+    347,
+    448
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "asked Victor in his ear if he was ready, and Victor answered that he was",
+   "quote_anchor": "“Hey, Vic,” said a voice in his ear. “Are you ready?”",
+   "range": [
+    517,
+    570
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "pushed open the door and stepped out onto the roof, letting the door smash against the wall",
+   "quote_anchor": "Eli chuckled when the door smacked against the wall, the metal ringing like a bell.",
+   "range": [
+    841,
+    924
+   ],
+   "words": 15
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "swore and guided the door shut, because the last thing either of them wanted right now was an audience",
+   "quote_anchor": "The last thing either of them wanted right now was an audience.",
+   "range": [
+    1688,
+    1751
+   ],
+   "words": 12
+  },
+  {
+   "n": 6,
+   "who": "Eli",
+   "did": "crossed the roof with the grim determination of a penitent, with Victor following, while still wearing the hospital bracelet from his failed transformation",
+   "quote_anchor": "No, this was a private pilgrimage (Eli’s words, of course). He crossed the roof with the grim determination of a penitent",
+   "range": [
+    1754,
+    1875
+   ],
+   "words": 21
+  },
+  {
+   "n": 7,
+   "who": "Eli",
+   "did": "insisted on going up to see the stars one last time, in case something went wrong, while his bath ice melted downstairs",
+   "quote_anchor": "he’d insisted on seeing the stars one last time, in case something went wrong.",
+   "range": [
+    2089,
+    2167
+   ],
+   "words": 14
+  },
+  {
+   "n": 8,
+   "who": "Eli",
+   "did": "stopped in the center of the roof, tipped his head back and frowned at the overcast sky",
+   "quote_anchor": "Eli stopped in the center of the roof, hands at his sides as his head tipped back. He frowned.",
+   "range": [
+    2189,
+    2283
+   ],
+   "words": 19
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor and Eli",
+   "did": "Eli speaks into Victor's ear and Victor's mouth tugs into a grim smile at the path that led them here",
+   "quote_anchor": "His mouth tugged into a grim smile. Of all the ways this could have gone.",
+   "range": [
+    573,
+    646
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Victor and Eli",
+   "did": "the two of them laugh together under the starless sky, and Victor thinks this may be the one moment he would choose to live inside",
+   "quote_anchor": "He and Eli, laughing beneath a starless, ordinary sky.",
+   "range": [
+    3243,
+    3297
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Eli and the Almighty",
+   "did": "Eli always puts a lot of stock in the Almighty and would take the overcast sky as a sign of disapproval",
+   "quote_anchor": "the fact he would probably take it as a sign of disapproval from the Almighty he was always putting so much stock in",
+   "range": [
+    2618,
+    2734
+   ],
+   "words": 23
+  },
+  {
+   "n": 4,
+   "who": "Eli and Victor",
+   "did": "it is Eli's turn tonight in the bath downstairs, and Victor followed him up to the roof",
+   "quote_anchor": "It was Eli’s turn tonight, the ice already melting in the bath downstairs",
+   "range": [
+    2010,
+    2083
+   ],
+   "words": 13
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the building",
+   "did": "how many stories tall it was: three",
+   "quote_anchor": "And they probably would have, but the building was only three stories tall.",
+   "range": [
+    1318,
+    1393
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Eli and Victor",
+   "did": "how many times the roof door latch had been hacked, picked and forced before facilities gave up",
+   "quote_anchor": "But the latch had been hacked at, picked, and forced so many times that facilities finally gave up",
+   "range": [
+    1066,
+    1164
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "the roof door",
+   "did": "the wording of the sign pinned to it: NO ACCESS",
+   "quote_anchor": "a stern sign pinned to the door that said NO ACCESS so they’d have plausible deniability",
+   "range": [
+    1179,
+    1267
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "the senior residents",
+   "did": "what they brought with them when they flocked to the roof: beers and cigarettes and joints",
+   "quote_anchor": "They’d flock, with beers and cigarettes and joints, afraid of missing out on some impromptu gathering.",
+   "range": [
+    1542,
+    1644
+   ],
+   "words": 16
+  }
+ ]
+}

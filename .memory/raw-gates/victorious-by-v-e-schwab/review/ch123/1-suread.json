@@ -1,0 +1,188 @@
+{
+ "chapter": 123,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch123_chapter_xiii.txt",
+ "source_len_chars": 2534,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "saw Dr. Gray's body lying dead inside the door of his office, then saw Victor",
+   "quote_anchor": "THE first thing Sydney saw when they got to Dr. Gray’s office was the therapist lying dead inside the door.",
+   "range": [
+    43,
+    150
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "sat on the floor against the far green wall with blood flecking his pale hair, then stirred, looked up at Sydney and smiled",
+   "quote_anchor": "But then, he stirred, and looked up at her, and smiled.",
+   "range": [
+    407,
+    462
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "ran toward Victor, then stopped and crouched face-to-face with him when she saw the blood on his black shirt",
+   "quote_anchor": "She stopped, and crouched so they were face-to-face, and said, “You’re hurt.”",
+   "range": [
+    708,
+    785
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "told Sydney his eyes were a fashion choice and that they did not match anymore",
+   "quote_anchor": "“Fashion choice,” he said without missing a beat. “Do you like them?”",
+   "range": [
+    1177,
+    1246
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "told Sydney they should go, standing in the doorway",
+   "quote_anchor": "“We should go,” said Mitch from the doorway.",
+   "range": [
+    1343,
+    1387
+   ],
+   "words": 8
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "rose slowly to his feet with a hand on Sydney's shoulder, and said he was only resting his legs",
+   "quote_anchor": "He rose slowly to his feet, resting a hand on her shoulder in a way that could have been kindness, or simply for balance.",
+   "range": [
+    1483,
+    1604
+   ],
+   "words": 24
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "told Victor that Serena and June were dead and that Mitch was an EO now like them",
+   "quote_anchor": "“Serena’s dead,” she said, thinking it would hurt less if she said it quick. “And so is June. And Mitch is an EO now. Like us.”",
+   "range": [
+    1607,
+    1734
+   ],
+   "words": 26
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "saw one man become two on cue as Mitch duplicated, and said the pills he had been given were not bullshit after all",
+   "quote_anchor": "“Huh,” said Victor. “I guess those pills weren’t bullshit after all.”",
+   "range": [
+    1909,
+    1978
+   ],
+   "words": 11
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "was relieved and glad that Eli was gone, finally and forever, but noticed Victor did not look as happy as she felt",
+   "quote_anchor": "She stared at the remains, gladness welling up in her, that he was gone. Finally. Forever. But Victor didn’t look as happy as she felt.",
+   "range": [
+    894,
+    1029
+   ],
+   "words": 25
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "is an EO like Sydney and Victor, and can duplicate himself",
+   "quote_anchor": "Victor met Mitch’s gaze, brows lifting in question, and as if on cue, one man became two.",
+   "range": [
+    1737,
+    1826
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "was told the pills were for hypertension, and Syd frowned at that account of them",
+   "quote_anchor": "Syd frowned. “You said those were for hypertension.”",
+   "range": [
+    1981,
+    2033
+   ],
+   "words": 8
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "asked Victor whether the EON residents had died with Gabriel and told him Gabriel was the only thing keeping them alive",
+   "quote_anchor": "“They died, with Gabriel,” said Victor. “He was the only thing keeping them alive.”",
+   "range": [
+    2292,
+    2375
+   ],
+   "words": 14
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "the first thing",
+   "quote_anchor": "THE first thing Sydney saw when they got to Dr. Gray’s office was the therapist lying dead inside the door.",
+   "range": [
+    43,
+    150
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "One knee up and one leg long",
+   "quote_anchor": "He was sitting on the floor against the far green wall. One knee up and one leg long, head bowed, and eyes closed, his pale hair flecked with blood.",
+   "range": [
+    192,
+    340
+   ],
+   "words": 29
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "for the first time in three years",
+   "quote_anchor": "She studied him, for the first time in three years.",
+   "range": [
+    1032,
+    1083
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "one man became two",
+   "quote_anchor": "as if on cue, one man became two. Only they didn’t both fit in the doorway so one had to step back into the hall.",
+   "range": [
+    1793,
+    1906
+   ],
+   "words": 25
+  }
+ ]
+}

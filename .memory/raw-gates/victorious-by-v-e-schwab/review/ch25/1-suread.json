@@ -1,0 +1,199 @@
+{
+ "chapter": 25,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch25_chapter_vi.txt",
+ "source_len_chars": 11832,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "walked into the hotel lobby where Bella and Grace were waiting, disguised as the blonde Ginny",
+   "quote_anchor": "It wasn’t hard to spot them at the lobby’s edge, bare legs and high heels sticking out from cinched black coats.",
+   "range": [
+    209,
+    321
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "told the three men in the suite that Jimmy had called in the favor and that it would not cut into their fee",
+   "quote_anchor": "“Jimmy called in a favor,” lied June, dredging up the name. “Don’t worry,” she added. “It won’t cut into your fee.”",
+   "range": [
+    1001,
+    1116
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "cut the throat of the man from the doorway with the paring knife",
+   "quote_anchor": "June shrugged. “Fuck if I know,” she said, sweeping the blade across his throat.",
+   "range": [
+    5439,
+    5519
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "swapped into the body of the man on the couch so his three shots struck him instead of her",
+   "quote_anchor": "Just in time, she’d swapped sweet Ginny for the good old boy in his half-buttoned shirt.",
+   "range": [
+    6142,
+    6230
+   ],
+   "words": 16
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "shot the man at the window in the shoulder",
+   "quote_anchor": "June rolled her eyes and shot him in the shoulder.",
+   "range": [
+    6990,
+    7040
+   ],
+   "words": 10
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "fired three rounds into the floor-to-ceiling window behind the last man and sent his body over the edge",
+   "quote_anchor": "She fired three rounds into the floor-to-ceiling window at his back.",
+   "range": [
+    8715,
+    8783
+   ],
+   "words": 11
+  },
+  {
+   "n": 7,
+   "who": "June",
+   "did": "shifted back into her own body and poured herself a tumbler of neat whisky",
+   "quote_anchor": "The blond girl melted away, wiped like steam from a shower pane, replaced by auburn hair, fair skin, and a heart-shaped face.",
+   "range": [
+    9909,
+    10034
+   ],
+   "words": 22
+  },
+  {
+   "n": 8,
+   "who": "June",
+   "did": "drank down the whisky and left, having given Victor her word to look into EON",
+   "quote_anchor": "She’d given Victor her word, about looking into EON. And June was good at keeping exactly two things: grudges, and promises.",
+   "range": [
+    11548,
+    11672
+   ],
+   "words": 21
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "wore the blonde body that Bella had known for years while working as Ginny for the night",
+   "quote_anchor": "Bella had known her for years—well, not her, but the blonde she’d borrowed for the night.",
+   "range": [
+    540,
+    629
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "let Grace take the cash off the floor and warned her not to call the cops",
+   "quote_anchor": "She meant it. But she also meant, Do not pass go. Do not call the cops. Do not make me regret this.",
+   "range": [
+    7727,
+    7826
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Man on the Couch",
+   "did": "boasted that Harry never saw the hostile takeover of his rival club coming, though Harry had hired June because he did",
+   "quote_anchor": "They were too busy celebrating. Congratulating themselves. Toasting the success of their new venture. A rival club. A hostile takeover.",
+   "range": [
+    4744,
+    4879
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "owed Victor her word about looking into EON and was good at keeping her promises",
+   "quote_anchor": "And June was good at keeping exactly two things: grudges, and promises.",
+   "range": [
+    11601,
+    11672
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the hotel suite",
+   "did": "was on the twenty-third floor",
+   "quote_anchor": "The doors opened, spitting them out on the twenty-third floor, and all they had to do was follow the music and the raucous laughter",
+   "range": [
+    1639,
+    1770
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "wondered for the hundredth time why she was still doing the work",
+   "quote_anchor": "June locked eyes with her reflection, the stranger staring back, and wondered for the hundredth time why she was still doing this",
+   "range": [
+    1344,
+    1473
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Man on the Couch",
+   "did": "fired three shots into June’s chest",
+   "quote_anchor": "she had just enough time to trade the blonde she’d been wearing right before he fired three shots into her chest.",
+   "range": [
+    5984,
+    6097
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "tasted the spirit for the first time in years",
+   "quote_anchor": "June met her eyes—her eyes, green as the surf on a stormy day—and sipped, tasting the spirit for the first time in years.",
+   "range": [
+    10037,
+    10158
+   ],
+   "words": 23
+  },
+  {
+   "n": 5,
+   "who": "the cash on the floor",
+   "did": "lay in hundreds curling like dead leaves",
+   "quote_anchor": "Grace eyed the cash littering the floor, hundreds curling like dead leaves.",
+   "range": [
+    7424,
+    7499
+   ],
+   "words": 12
+  }
+ ]
+}

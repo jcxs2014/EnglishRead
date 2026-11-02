@@ -1,0 +1,210 @@
+{
+ "chapter": 23,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch23_chapter_iv.txt",
+ "source_len_chars": 12846,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Helena",
+   "did": "led Gabriel down a white hall and explained that the facility is designed as a series of nesting squares",
+   "quote_anchor": "“THE facility is designed as a series of nesting squares,” explained Helena as she led him down a white hall.",
+   "range": [
+    39,
+    148
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Helena",
+   "did": "stopped before a set of black glass doors, laid her hand flat against them, and the doors split like a seal",
+   "quote_anchor": "A green circle flashed on the black glass, and they split like a seal, revealing a room as dark as the hall was light.",
+   "range": [
+    1548,
+    1666
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Helena",
+   "did": "explained that EON uses a matrix flagging near-death experiences and sudden changes in lifestyle, relationship, movement and pattern",
+   "quote_anchor": "“We use a matrix designed to search for and cross-reference certain criteria,” Helena was explaining. “We flag near-death experiences, obviously, but that’s just the first point.",
+   "range": [
+    3007,
+    3185
+   ],
+   "words": 26
+  },
+  {
+   "n": 4,
+   "who": "Helena",
+   "did": "named Victor Vale on the wall of open tickets, saying Rios had been assigned to him for months without capturing him",
+   "quote_anchor": "“Victor Vale,” said Helena, the frustration heavy in her voice. “Rios has been assigned to him for months now. But so far, he’s evaded capture.”",
+   "range": [
+    4880,
+    5024
+   ],
+   "words": 25
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "took the count of nineteen ExtraOrdinaries currently on-site as an enticing prospect for his research",
+   "quote_anchor": "But the opportunity to observe and access, to analyze, that many unique cases—that was an enticing prospect.",
+   "range": [
+    867,
+    975
+   ],
+   "words": 17
+  },
+  {
+   "n": 6,
+   "who": "Xavi",
+   "did": "ran toward them down the hall with his torso half escaping from a straitjacket",
+   "quote_anchor": "A teenage boy, his torso half escaping from a straitjacket, one sleeve flapping as he stumbled, trying to free himself.",
+   "range": [
+    9234,
+    9353
+   ],
+   "words": 20
+  },
+  {
+   "n": 7,
+   "who": "Xavi",
+   "did": "scrambled backward as a second wall descended from the ceiling and gas poured in from hidden vents around him",
+   "quote_anchor": "Xavi scrambled backward as a second wall descended from the ceiling farther down the hall, blocking the boy’s retreat.",
+   "range": [
+    10653,
+    10771
+   ],
+   "words": 19
+  },
+  {
+   "n": 8,
+   "who": "Gabriel",
+   "did": "accepted the job at EON, looking into the maze of white halls at the cells filled with patients waiting to be treated",
+   "quote_anchor": "“I do,” he said, looking past her, into the maze of white halls, the cells filled with patients waiting to be treated.",
+   "range": [
+    12684,
+    12802
+   ],
+   "words": 22
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor Vale",
+   "did": "was the first EO Stell ever met, and is the reason EON exists",
+   "quote_anchor": "My predecessor was obsessed with Victor Vale. He was the first EO Stell ever met.",
+   "range": [
+    6217,
+    6298
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Victor Vale",
+   "did": "killed Stell, the predecessor of the current director",
+   "quote_anchor": "“Because,” she said, “he’s the one who killed Stell.”",
+   "range": [
+    5661,
+    5714
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Rios",
+   "did": "has been assigned to capture Victor Vale for months and has so far failed",
+   "quote_anchor": "Rios has been assigned to him for months now. But so far, he’s evaded capture.",
+   "range": [
+    4945,
+    5023
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Helena",
+   "did": "directs EON, which functions autonomously while the government shares relevant intel with it",
+   "quote_anchor": "By now, the government knows of us, and shares any relevant intel, but we function autonomously, which gives us certain … freedoms.",
+   "range": [
+    2154,
+    2285
+   ],
+   "words": 22
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the screens in EON's control room",
+   "did": "covered three of the four walls in a tight grid",
+   "quote_anchor": "Screens covered three of the four walls in a tight grid, soldiers stationed at consoles in the center, their focus on their work.",
+   "range": [
+    1728,
+    1857
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "the security footage searched on the centre screens",
+   "did": "a hundred different locations",
+   "quote_anchor": "Straight ahead, the screens were filled with what looked like security footage from a hundred different locations.",
+   "range": [
+    2771,
+    2885
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "the ExtraOrdinaries out there",
+   "did": "Hundreds, at least. Maybe even more",
+   "quote_anchor": "“That’s the billion-dollar question,” said Helena. “And the answer is … we don’t know. Hundreds, at least. Maybe even more.”",
+   "range": [
+    1053,
+    1177
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "the open tickets on the rightmost wall",
+   "did": "a dozen faces",
+   "quote_anchor": "There, a dozen faces stared back at him from an array of driver’s licenses, mug shots, school photos, wedding pictures.",
+   "range": [
+    3813,
+    3932
+   ],
+   "words": 20
+  },
+  {
+   "n": 5,
+   "who": "the two doctored security feeds of Victor Vale",
+   "did": "less than an hour—and three states—apart",
+   "quote_anchor": "She gestured to the timestamps of two separate feeds. They were marked less than an hour—and three states—apart.",
+   "range": [
+    5320,
+    5432
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "the unconscious EO Xavi",
+   "did": "049",
+   "quote_anchor": "“Put 049 in a new cell,” she ordered, turning on Gabriel. “Emergency lockdown protocol,” she explained.",
+   "range": [
+    11460,
+    11563
+   ],
+   "words": 16
+  }
+ ]
+}

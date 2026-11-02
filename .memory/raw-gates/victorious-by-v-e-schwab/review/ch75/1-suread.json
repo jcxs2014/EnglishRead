@@ -1,0 +1,177 @@
+{
+ "chapter": 75,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch75_chapter_v.txt",
+ "source_len_chars": 6885,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Dani",
+   "did": "borrowed the lab equipment from a friend in the teaching hospital, off the books",
+   "quote_anchor": "Dani had apparently borrowed the equipment from a friend in the teaching hospital. Off the books, she assured him.",
+   "range": [
+    291,
+    405
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "hopped on the table and unbuttoned his shirt, revealing the three scars where Eli had shot him",
+   "quote_anchor": "He did, revealing the three neat scars where Eli had shot him the night Angie died, as well as a dozen other minor marks accrued in the intervening years",
+   "range": [
+    938,
+    1091
+   ],
+   "words": 29
+  },
+  {
+   "n": 3,
+   "who": "Dani",
+   "did": "attached the pulse oximeter to his right hand and then the electrodes for the EKG",
+   "quote_anchor": "Attaching the pulse oximeter to his right hand, then the electrodes for the EKG.",
+   "range": [
+    1910,
+    1990
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "flexed his fingers, turning the dial of his own pain threshold up and down",
+   "quote_anchor": "He flexed his fingers, turning the dial of his own pain threshold up and down.",
+   "range": [
+    2328,
+    2406
+   ],
+   "words": 15
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "handed the disc inhaler over to Dani and said he did not trust anyone",
+   "quote_anchor": "“Don’t take it personally,” he said, handing over the disc inhaler. “I don’t trust anyone.”",
+   "range": [
+    3511,
+    3602
+   ],
+   "words": 15
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "fitted the narrow mouthguard between his teeth when the episode started",
+   "quote_anchor": "before fitting the narrow mouthguard between his teeth, the one he’d learned to wear, to keep from breaking them",
+   "range": [
+    3987,
+    4099
+   ],
+   "words": 19
+  },
+  {
+   "n": 7,
+   "who": "Dani",
+   "did": "forced the inhaler to his lips and ordered him to breathe, pulling him back from dying",
+   "quote_anchor": "Who forced the inhaler to his lips and ordered him to breathe.",
+   "range": [
+    4968,
+    5030
+   ],
+   "words": 12
+  },
+  {
+   "n": 8,
+   "who": "Dani",
+   "did": "said she needs to regulate his engine so it does not overheat while preserving his ability to drive",
+   "quote_anchor": "“I need to find a way to regulate your engine so it doesn’t overheat, while preserving your ability to drive.”",
+   "range": [
+    6517,
+    6627
+   ],
+   "words": 20
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "shot Victor the night Angie died, leaving him three neat scars",
+   "quote_anchor": "where Eli had shot him the night Angie died",
+   "range": [
+    977,
+    1020
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Dani",
+   "did": "used the university equipment to play lab rat with Victor, her willing human subject",
+   "quote_anchor": "If the university knew I was using their equipment to play lab rat with a willing human subject, I’d be in trouble, too.",
+   "range": [
+    1336,
+    1456
+   ],
+   "words": 23
+  },
+  {
+   "n": 3,
+   "who": "Dani",
+   "did": "reminded Victor of Eli—not what he became, but what he was",
+   "quote_anchor": "She reminded him of Eli—not what he became, but what he was.",
+   "range": [
+    3661,
+    3721
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "cloned Dani’s phone to know if she called the cops or emailed anyone about the formula",
+   "quote_anchor": "And why he’d cloned her phone—her fault, for leaving it in her office while she taught—so he’d know if she called the cops",
+   "range": [
+    3200,
+    3322
+   ],
+   "words": 23
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "three neat scars (where Eli shot him the night Angie died)",
+   "quote_anchor": "He did, revealing the three neat scars where Eli had shot him",
+   "range": [
+    938,
+    999
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "a dozen other minor marks (accrued in the intervening years)",
+   "quote_anchor": "as well as a dozen other minor marks accrued in the intervening years",
+   "range": [
+    1022,
+    1091
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "the first warning (of the episode, which he almost missed)",
+   "quote_anchor": "It was disorienting. So much that he almost missed the first warning.",
+   "range": [
+    3859,
+    3928
+   ],
+   "words": 12
+  }
+ ]
+}

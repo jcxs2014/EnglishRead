@@ -1,0 +1,199 @@
+{
+ "chapter": 11,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch11_chapter_x.txt",
+ "source_len_chars": 18562,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "tried to sit up in the hospital bed and was pushed back down by a nurse's hand on his shoulder",
+   "quote_anchor": "Gabriel tried to sit up and was prevented by two things—a much sharper spike of pain, and a nurse’s hand on his shoulder, guiding him back down.",
+   "range": [
+    328,
+    472
+   ],
+   "words": 27
+  },
+  {
+   "n": 2,
+   "who": "Walsh",
+   "did": "told Gabriel that he had been intubated and in a medicated coma for nineteen days",
+   "quote_anchor": "You’ve been in a medicated coma for the last”—he checked his watch, as if it held the answers, and not the file in his hand—“nineteen days.”",
+   "range": [
+    894,
+    1034
+   ],
+   "words": 26
+  },
+  {
+   "n": 3,
+   "who": "Walsh",
+   "did": "told Gabriel that Iris and Ian were dead and were down on B, the morgue",
+   "quote_anchor": "But then Walsh said, “They’re down on B.” The basement level. The morgue.",
+   "range": [
+    3446,
+    3519
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Walsh",
+   "did": "wheeled Gabriel down the hall to the morgue after the elevator reached the basement floor",
+   "quote_anchor": "The doors chimed open, and Walsh wheeled him down the hall.",
+   "range": [
+    5857,
+    5916
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "Gabriel Gray",
+   "did": "drew back the sheet and looked down at his son Ian's body",
+   "quote_anchor": "As the door swung shut, Gabriel drew back the sheet, and looked down at his son.",
+   "range": [
+    7109,
+    7189
+   ],
+   "words": 16
+  },
+  {
+   "n": 6,
+   "who": "Iris",
+   "did": "came back to life on the morgue table, her skin recoloring and her wounds and incisions healing",
+   "quote_anchor": "Gabriel pulled back and saw the color creeping back into her skin, the postmortem incisions erased",
+   "range": [
+    9348,
+    9446
+   ],
+   "words": 16
+  },
+  {
+   "n": 7,
+   "who": "Gabriel Gray",
+   "did": "caught Walsh by the shoulder and drew the scalpel across the doctor's throat",
+   "quote_anchor": "and the other drew the blade in a quick, clean slice across the man’s throat.",
+   "range": [
+    10992,
+    11069
+   ],
+   "words": 15
+  },
+  {
+   "n": 8,
+   "who": "Gabriel Gray",
+   "did": "put his hand on Ian's chest and felt the boy's heart restart and his bones snap back into place",
+   "quote_anchor": "The cold broke, and beneath his hand, he felt his son’s heart begin to beat again, his lungs inflate, bones that must have broken snapping back into place.",
+   "range": [
+    13269,
+    13424
+   ],
+   "words": 28
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "is Iris's husband and Ian's father",
+   "quote_anchor": "He blinked, and saw his wife and son, their shapes ghosted against his lids.",
+   "range": [
+    2004,
+    2080
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Walsh",
+   "did": "is one of Gabriel's old colleagues, an internist who is treating him",
+   "quote_anchor": "Gabriel dragged his gaze to the right and was confronted by one of his old colleagues, Walsh. An internist, known for his booming laugh and easy bedside manner.",
+   "range": [
+    589,
+    749
+   ],
+   "words": 28
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "is Ian's father, and lifted Ian from the table after bringing him back to life",
+   "quote_anchor": "He lifted Ian from the table, wrapped in nothing but the white sheet, and set him, barefoot, on the tile floor before remembering Walsh.",
+   "range": [
+    13715,
+    13851
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "Walsh",
+   "did": "obeys Gabriel's commands with no hint of defiance after Gabriel brought him back to life",
+   "quote_anchor": "There was no hint of defiance or distrust in Walsh’s tone, but there was also no way of knowing how specific Gabriel needed to be.",
+   "range": [
+    16515,
+    16645
+   ],
+   "words": 25
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "has been in a medicated coma for nineteen days",
+   "quote_anchor": "You’ve been in a medicated coma for the last”—he checked his watch, as if it held the answers, and not the file in his hand—“nineteen days.”",
+   "range": [
+    894,
+    1034
+   ],
+   "words": 26
+  },
+  {
+   "n": 2,
+   "who": "Gabriel Gray",
+   "did": "had been a therapist for twenty-three years",
+   "quote_anchor": "Dr. Gabriel Gray had been a therapist for twenty-three years.",
+   "range": [
+    2234,
+    2295
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "needed a defib and two transfusions before they could cut him free",
+   "quote_anchor": "No telling exactly how long your brain went without oxygen, but a good old-fashioned defib and two transfusions later",
+   "range": [
+    1704,
+    1821
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Ian",
+   "did": "had the face of a six-year-old",
+   "quote_anchor": "at the dark curls that swept across his six-year-old face",
+   "range": [
+    7340,
+    7397
+   ],
+   "words": 10
+  },
+  {
+   "n": 5,
+   "who": "Gabriel Gray",
+   "did": "the wheelchair stood three steps from the nearest table, the one holding the smaller body",
+   "quote_anchor": "The wheelchair stood three steps from the nearest table, the one that held the smaller body.",
+   "range": [
+    6588,
+    6680
+   ],
+   "words": 16
+  }
+ ]
+}

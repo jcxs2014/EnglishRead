@@ -1,0 +1,188 @@
+{
+ "chapter": 59,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch59_chapter_viii.txt",
+ "source_len_chars": 5394,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney Clarke",
+   "did": "shoved her shoulder against the door labeled ROOF ACCESS and found it unlocked",
+   "quote_anchor": "SYDNEY shoved her shoulder against the door labeled ROOF ACCESS, sure it would be locked. But somehow, mercifully, it wasn’t.",
+   "range": [
+    43,
+    168
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Sydney Clarke",
+   "did": "vaulted up the stairs and surged out onto the motel roof with the agents hitting the stairs behind her",
+   "quote_anchor": "The agents hit the stairs behind her, their steps ringing off metal and concrete as she surged out onto the motel roof.",
+   "range": [
+    558,
+    677
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Sydney Clarke",
+   "did": "pulled the gun wrapped in the scarf out of her bag and wedged it between the door handle and the frame to bar the door",
+   "quote_anchor": "she shoved the weapon against the door, lodging it between the handle and the frame.",
+   "range": [
+    1157,
+    1241
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Sydney Clarke",
+   "did": "grabbed the little red tin, backed away from the door, dropped to her knees and pried off the metal lid",
+   "quote_anchor": "She grabbed the little red tin, and backed away, putting several strides between herself and the door before dropping to her knees, and prying off the metal lid.",
+   "range": [
+    1382,
+    1543
+   ],
+   "words": 28
+  },
+  {
+   "n": 5,
+   "who": "Sydney Clarke",
+   "did": "reached her fingers past the bones into the dark place where dead things waited, hoping to feel her sister's thread",
+   "quote_anchor": "She reached, fingers splayed across the charred remains, past the bones into the dark place where dead things waited.",
+   "range": [
+    3784,
+    3901
+   ],
+   "words": 19
+  },
+  {
+   "n": 6,
+   "who": "Sydney Clarke",
+   "did": "begged for her sister, and the words twisted from a plea into a command",
+   "quote_anchor": "She begged, and then, somewhere, the words twisted, from a plea to a command.",
+   "range": [
+    4302,
+    4379
+   ],
+   "words": 14
+  },
+  {
+   "n": 7,
+   "who": "Sydney Clarke",
+   "did": "closed her fist around the thread and pulled it out of the dark and back into the living world",
+   "quote_anchor": "Instead, Syd closed her fist around the thread, and pulled, afraid the brittle string would break under the desperate force",
+   "range": [
+    4733,
+    4856
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Sydney Clarke",
+   "did": "collapsed onto the icy roof and last saw a lock of long blond hair before the world shattered and she fell",
+   "quote_anchor": "And last thing she saw was a lock of long blond hair, bright as silver against the blackened sky, before the world beneath her shattered",
+   "range": [
+    5216,
+    5352
+   ],
+   "words": 25
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney Clarke",
+   "did": "had been carrying her sister Serena's bones for eight years",
+   "quote_anchor": "Sydney Clarke had been carrying her sister’s bones for eight years.",
+   "range": [
+    1546,
+    1613
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "Serena Clarke",
+   "did": "was all that was left of Serena, three soot-coated fragments of bone found in the ashes outside the Falcon Price construction site",
+   "quote_anchor": "Since the morning she found them studding the ashes outside the Falcon Price construction site. Three soot-coated fragments. All that was left of Serena.",
+   "range": [
+    1616,
+    1769
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Victor Vale",
+   "did": "was proof that EOs have a glitch and their powers come back damaged when resurrected",
+   "quote_anchor": "But EOs? EOs had a glitch. Their powers came back damaged. Victor Vale was proof of that.",
+   "range": [
+    3041,
+    3130
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Serena Clarke",
+   "did": "handed Sydney over to Eli knowing he would kill her",
+   "quote_anchor": "the one who’d handed her over to Eli, knowing he’d kill her",
+   "range": [
+    2629,
+    2688
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Sydney Clarke",
+   "did": "had been carrying her sister's bones for eight years",
+   "quote_anchor": "Sydney Clarke had been carrying her sister’s bones for eight years.",
+   "range": [
+    1546,
+    1613
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "Serena Clarke",
+   "did": "left three soot-coated fragments, all that was left of her",
+   "quote_anchor": "Since the morning she found them studding the ashes outside the Falcon Price construction site. Three soot-coated fragments.",
+   "range": [
+    1616,
+    1740
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Sydney Clarke",
+   "did": "had told herself that one day she would be strong enough to bring her sister back",
+   "quote_anchor": "telling herself that one day, she’d be strong enough to bring her sister back",
+   "range": [
+    2021,
+    2098
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Sydney Clarke",
+   "did": "felt the second between the blowing of the door and the agents pouring through drawn long",
+   "quote_anchor": "Time beyond the bones slowed, the second between the blowing of the door and the agents pouring through drawn long as she felt",
+   "range": [
+    4463,
+    4589
+   ],
+   "words": 23
+  }
+ ]
+}

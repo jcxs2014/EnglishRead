@@ -1,0 +1,177 @@
+{
+ "chapter": 82,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch82_chapter_xii.txt",
+ "source_len_chars": 2924,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "ran her hand along the wall of the bedroom Serena had recreated",
+   "quote_anchor": "SYDNEY ran her hand along her bedroom wall.",
+   "range": [
+    66,
+    109
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "rubbed her wrist where her sister’s fingers had dug in",
+   "quote_anchor": "She rubbed her wrist, where her sister’s fingers had dug in.",
+   "range": [
+    693,
+    753
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "pulled the stuffed animal out from among the pillows and saw it was a spotted dog",
+   "quote_anchor": "Sydney drew it out, and saw it was a spotted dog.",
+   "range": [
+    1009,
+    1058
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "thought of Dol attacking Eli, Dol in need of help, and of Mitch, whether he was hurt or dead",
+   "quote_anchor": "She thought of Dol, attacking Eli. Dol, in need of help. And Mitch. Where was Mitch?",
+   "range": [
+    1124,
+    1208
+   ],
+   "words": 16
+  },
+  {
+   "n": 5,
+   "who": "Sydney",
+   "did": "decided she did not need Serena to drop the illusion, only to move it",
+   "quote_anchor": "Maybe she didn’t need Serena to drop the illusion. Maybe she just needed her to move it.",
+   "range": [
+    1504,
+    1592
+   ],
+   "words": 17
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "abandoned the bedroom and ducked back into the hall, heading for the banister when she heard a sound",
+   "quote_anchor": "With sudden resolve, Sydney abandoned the bedroom and ducked back into the hall. She was just heading for the banister when she heard the sound.",
+   "range": [
+    1595,
+    1739
+   ],
+   "words": 25
+  },
+  {
+   "n": 7,
+   "who": "Serena",
+   "did": "collapsed, and the dream fell apart with her, dropping Sydney back into the real shack in the abandoned park",
+   "quote_anchor": "Serena collapsed, and as she did, so did the dream, the house in Brighton Commons dropping like a curtain",
+   "range": [
+    2280,
+    2385
+   ],
+   "words": 19
+  },
+  {
+   "n": 8,
+   "who": "Sydney",
+   "did": "ducked the EO’s shot, a dart burying itself in the wall above her head, and then ran",
+   "quote_anchor": "his weapon swinging with it, and Sydney ducked a breath before the gun went off, a dart burying itself in the wall above her head.",
+   "range": [
+    2742,
+    2872
+   ],
+   "words": 25
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Serena",
+   "did": "built the dream of Sydney’s old bedroom so exactly that it looked unchanged",
+   "quote_anchor": "Credit to her sister, the room looked exactly as it had, down to the patterned duvet, the book on the bedside table",
+   "range": [
+    112,
+    227
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Serena",
+   "did": "brought Sydney the purple scarf in the hospital, now wrapped around the stuffed dog’s neck",
+   "quote_anchor": "the one Serena had brought her in the hospital, wrapped around its neck.",
+   "range": [
+    936,
+    1008
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "The stranger",
+   "did": "shot Serena, a red dart jutting from her neck",
+   "quote_anchor": "Saw Serena sway, a red dart jutting from her neck.",
+   "range": [
+    2088,
+    2138
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "Sydney’s parents",
+   "did": "let Sydney get only as close as possible to having her own pet",
+   "quote_anchor": "The closest her parents had let her get to having her own pet.",
+   "range": [
+    1061,
+    1123
+   ],
+   "words": 13
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "a month — the lyrics she had scribbled on the mirror were still there a month after Serena left",
+   "quote_anchor": "even the lyrics she’d scribbled on the mirror, a month after her sister left.",
+   "range": [
+    267,
+    344
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "The darkened shack in the abandoned park",
+   "did": "a second floor — little more than a platform, on which Sydney was standing",
+   "quote_anchor": "The layout was different, but there was a second floor, little more than a platform, and she was standing on it, exposed",
+   "range": [
+    2485,
+    2605
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "a ten-foot drop — she stood inches from the edge of the platform",
+   "quote_anchor": "she was standing on it, exposed, inches from the edge, a ten-foot drop.",
+   "range": [
+    2574,
+    2645
+   ],
+   "words": 13
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "chapter": 44,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch44_chapter_xiv.txt",
+ "source_len_chars": 9449,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Syd",
+   "did": "用数路牌、数指甲油来打发开车的前三个小时",
+   "quote_anchor": "Syd had killed the first hour counting road signs. The second picking the polish from her nails.",
+   "range": [
+    121,
+    217
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "每隔一段时间就用后视镜查看有没有人跟踪",
+   "quote_anchor": "Except for every thirty minutes when, like clockwork, his gaze flicked to the rearview mirror, to see if they were being followed.",
+   "range": [
+    655,
+    785
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "把车停在路边一处带 24 小时酒类商店的条带商场前",
+   "quote_anchor": "Mitch pulled off the road ten minutes later, into a strip mall with a 24-hour liquor store.",
+   "range": [
+    1655,
+    1746
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "在一辆车停下不动时拉开背包，摸向用围巾包着的枪",
+   "quote_anchor": "She unzipped the bag, feeling past the tin box for the gun, wrapped in a scarf.",
+   "range": [
+    3052,
+    3131
+   ],
+   "words": 16
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "从袋子里掏出两瓶 Summer Breeze，拧开瓶盖并递给 Syd 一瓶",
+   "quote_anchor": "Mitch reached into the bag and pulled out two bottles of something called Summer Breeze and twisted off the tops.",
+   "range": [
+    4232,
+    4345
+   ],
+   "words": 20
+  },
+  {
+   "n": 6,
+   "who": "Syd",
+   "did": "说出自己撑不住继续这样逃下去，已经受够了东躲西藏",
+   "quote_anchor": "“I can’t keep doing this,” said Syd, the words spilling out in a single foggy breath.",
+   "range": [
+    5966,
+    6051
+   ],
+   "words": 16
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "问 Mitch 知不知道 Victor 在哪里",
+   "quote_anchor": "Sydney nodded. “It is.” And then, “Do you know where Victor is?”",
+   "range": [
+    7475,
+    7539
+   ],
+   "words": 12
+  },
+  {
+   "n": 8,
+   "who": "Syd",
+   "did": "在副驾座上喝完那瓶饮料后很快睡着了",
+   "quote_anchor": "Syd curled in the passenger seat, her head full of bubbles and her cheeks red from the cold, and in minutes, she was asleep.",
+   "range": [
+    9324,
+    9448
+   ],
+   "words": 24
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "为了保住 Syd 的安全而放弃了自己想要的生活",
+   "quote_anchor": "It broke her heart, to hear him say it. To realize what he had given up to keep her safe.",
+   "range": [
+    6520,
+    6609
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Syd",
+   "did": "从 Victor 那里学会了说谎、隐瞒与说一半真话之间的区别",
+   "quote_anchor": "She’d learned, from Victor, the difference between a lie, and an omission, and a partial truth.",
+   "range": [
+    7756,
+    7851
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "与 Victor 之间仍可能在联系，尽管 Mitch 说没见过他",
+   "quote_anchor": "So she believed Mitch hadn’t laid eyes on Victor Vale. But that didn’t mean they weren’t in touch.",
+   "range": [
+    7882,
+    7980
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Syd",
+   "did": "一拍车侧就能把 Dol 叫过来",
+   "quote_anchor": "“Yeah, yeah,” she cut him off, slapping her palm on the side of the truck to summon Dol.",
+   "range": [
+    9144,
+    9232
+   ],
+   "words": 18
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "每隔三十分钟（every thirty minutes）查一次后视镜是否被跟踪",
+   "quote_anchor": "Except for every thirty minutes when, like clockwork, his gaze flicked to the rearview mirror, to see if they were being followed.",
+   "range": [
+    655,
+    785
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "十分钟后（ten minutes later）把车开到酒类商店所在的商场",
+   "quote_anchor": "Mitch pulled off the road ten minutes later, into a strip mall with a 24-hour liquor store.",
+   "range": [
+    1655,
+    1746
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Syd",
+   "did": "自己二十岁（I’m twenty）",
+   "quote_anchor": "“I’m twenty,” she said, cracking a smile, “I’m not supposed to have a discerning palate.”",
+   "range": [
+    4675,
+    4764
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Syd",
+   "did": "九年前（nine years ago）掉进冰里死过一次",
+   "quote_anchor": "because you fell through the ice nine years ago and died, but it’s okay because you came back",
+   "range": [
+    9010,
+    9103
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "离最近的海洋还有一千英里（a thousand miles）",
+   "quote_anchor": "“We better get back on the road. It’s a thousand miles to the nearest ocean.”",
+   "range": [
+    8699,
+    8776
+   ],
+   "words": 15
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "停下的野地里，唯一的光来自东边二十英里外的城市",
+   "quote_anchor": "The only light was a faint halo from the nearest city, twenty miles east.",
+   "range": [
+    4027,
+    4100
+   ],
+   "words": 14
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "chapter": 95,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch95_chapter_xxv.txt",
+ "source_len_chars": 5470,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Noah",
+   "did": "split the convoy into two vans on two possible routes, following military strategy against ambush",
+   "quote_anchor": "It had been Noah’s idea to split the convoy. With two assets in two vans, and two possible routes",
+   "range": [
+    137,
+    234
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "shot Noah with a tranquilizer dart at point-blank range",
+   "quote_anchor": "a side effect of the stimulant he’d had to take, to counter the effects of the tranquilizer dart Eli had shot him with. At point-blank range.",
+   "range": [
+    797,
+    938
+   ],
+   "words": 26
+  },
+  {
+   "n": 3,
+   "who": "the younger Clarke sister",
+   "did": "lay on the third bench of the transport blindfolded, bound, and heavily sedated",
+   "quote_anchor": "The younger Clarke sister lay on the third bench, the one nearest the front, blindfolded and bound, and heavily sedated.",
+   "range": [
+    1317,
+    1437
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "heard an explosion burst across the comms from the other van, followed quickly by gunfire",
+   "quote_anchor": "Just then, an explosion burst across the comms from the other van, a blare of static, followed quickly by gunfire, the melee punctuated by a single word.",
+   "range": [
+    5159,
+    5312
+   ],
+   "words": 27
+  },
+  {
+   "n": 5,
+   "who": "the agent up front",
+   "did": "came back on the comm and reported that the other transport had stopped",
+   "quote_anchor": "Eli was about to say something when one of the agents up front came back on the comm. “The other transport has stopped.”",
+   "range": [
+    3089,
+    3209
+   ],
+   "words": 23
+  },
+  {
+   "n": 6,
+   "who": "Noah",
+   "did": "rose, pressed his palm to the sensor on the back door so it chirped and unlocked, and swung himself down toward the driver’s side",
+   "quote_anchor": "Noah rose and pressed his palm to the sensor on the back door. It chirped, and unlocked, and he swung himself down, approaching the driver’s side.",
+   "range": [
+    3391,
+    3537
+   ],
+   "words": 26
+  },
+  {
+   "n": 7,
+   "who": "Eli",
+   "did": "reached up and took the comm out of his ear before the doctor could issue a command",
+   "quote_anchor": "told him to reach up, and take the comm out of his ear before the doctor could issue a command.",
+   "range": [
+    4882,
+    4977
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Eli",
+   "did": "listened when the voice told him someone had helped Mitchell Turner escape the transport, and when it whispered a name",
+   "quote_anchor": "He listened when it told him someone had helped Mitchell Turner escape the transport in the park. When it whispered a name, not in his ears",
+   "range": [
+    4980,
+    5119
+   ],
+   "words": 26
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Noah",
+   "did": "imagined emptying his gun into Eli’s chest but was held back by Gabriel’s will",
+   "quote_anchor": "When he imagined emptying his gun into the other EO’s chest, he felt Gabriel’s will like a tug on a leash.",
+   "range": [
+    1007,
+    1113
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "rode with Sydney because Dr. Gray had declared Sydney the more important target",
+   "quote_anchor": "since Dr. Gray had declared Sydney the more important target, they’d both ended up with her.",
+   "range": [
+    605,
+    697
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Eli’s father",
+   "did": "explained to Eli that God has no mortal voice and is heard in our hearts and bones",
+   "quote_anchor": "his father had explained, with uncommon patience, that He didn’t have a mortal voice. We heard Him in our hearts, our bones.",
+   "range": [
+    4301,
+    4425
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "had been mauled by the dog, whose jaws left jagged silver lines above his collar",
+   "quote_anchor": "The dog’s jaws had left jagged silver lines above his collar, and it looked like one of its teeth had caught the bottom of his cheek.",
+   "range": [
+    2953,
+    3086
+   ],
+   "words": 26
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the convoy",
+   "did": "two assets in two vans, and two possible routes",
+   "quote_anchor": "With two assets in two vans, and two possible routes",
+   "range": [
+    182,
+    234
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "the two roads",
+   "did": "less than a mile at most points",
+   "quote_anchor": "the space between them less than a mile at most points",
+   "range": [
+    272,
+    326
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "the younger Clarke sister",
+   "did": "the third bench, the one nearest the front",
+   "quote_anchor": "The younger Clarke sister lay on the third bench, the one nearest the front",
+   "range": [
+    1317,
+    1392
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "the EON agents",
+   "did": "half a dozen agents were lost",
+   "quote_anchor": "They’d lost half a dozen agents, along with the human, Mitchell Turner",
+   "range": [
+    1632,
+    1702
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "the transport",
+   "did": "One hour",
+   "quote_anchor": "The answer came over the speaker from up front. “One hour.”",
+   "range": [
+    2181,
+    2240
+   ],
+   "words": 11
+  },
+  {
+   "n": 6,
+   "who": "Noah",
+   "did": "one of the Clarke sisters",
+   "quote_anchor": "Noah would have ridden with one of the Clarke sisters, and left Eli with the other",
+   "range": [
+    483,
+    565
+   ],
+   "words": 16
+  }
+ ]
+}

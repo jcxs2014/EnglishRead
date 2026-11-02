@@ -1,0 +1,210 @@
+{
+ "chapter": 64,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch64_chapter_xiii.txt",
+ "source_len_chars": 7728,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "站在 Malcolm 肩后扫视整排屏幕——车辆监控、无人机画面和在场特工头盔的实时画面",
+   "quote_anchor": "He spun the pencil between his fingers as he scanned the bay of screens—van surveillance, drone views, and live feeds from the helmets of the agents in the field.",
+   "range": [
+    128,
+    290
+   ],
+   "words": 29
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "在另一块屏幕上看到 Mitchell Turner 昏倒在车厢地板上",
+   "quote_anchor": "Another screen showed Mitchell Turner, unconscious on a van floor.",
+   "range": [
+    452,
+    518
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "本想把年长的 Clarke 姐姐也纳入计划，但考虑到她原始与进化后力量的规模，决定不值得冒让她第三次、也是最后一次复活的风险",
+   "quote_anchor": "given the sheer scale of her power, both original and evolving, Gabriel decided it wasn’t worth the risk of resurrecting her a third and final time.",
+   "range": [
+    1726,
+    1874
+   ],
+   "words": 26
+  },
+  {
+   "n": 4,
+   "who": "Helena",
+   "did": "出现在 Gabriel 身后，报告增援正在赶往游乐园",
+   "quote_anchor": "Helena appeared behind him. “Reinforcements are on their way to the park.”",
+   "range": [
+    1912,
+    1986
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "威胁 Noah 说只要碰他就掰断对方的手，又盯着对方胸前的摄像头说",
+   "quote_anchor": "“Touch me, and I’ll break your hand.” Eli’s gaze dropped from Noah’s face to the body camera, looking straight at Gabriel.",
+   "range": [
+    5247,
+    5369
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "转了两下铅笔后作出决定，让 Noah 让 Eli 打头阵",
+   "quote_anchor": "Gabriel turned the pencil once, twice. Then made a decision. “Noah,” he said. “Let Eli take the lead.”",
+   "range": [
+    5492,
+    5594
+   ],
+   "words": 18
+  },
+  {
+   "n": 7,
+   "who": "Gabriel",
+   "did": "命令 Eli 除非他下令否则不许开一枪",
+   "quote_anchor": "“Eli,” he instructed. “You will not fire a single shot unless I tell you to.”",
+   "range": [
+    6457,
+    6534
+   ],
+   "words": 15
+  },
+  {
+   "n": 8,
+   "who": "the man at the motel",
+   "did": "从死去特工身上取下东西后起身，一脚踩在镜头上掐断了画面",
+   "quote_anchor": "He rose, and brought his boot down on the lens, killing the feed.",
+   "range": [
+    7662,
+    7727
+   ],
+   "words": 13
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "仍然控制着 Eli，把他的持续反抗看成孩子试探父母定下的规矩",
+   "quote_anchor": "He was still pushing back against Gabriel’s control, a petulant child, testing parental rules.",
+   "range": [
+    2630,
+    2724
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Noah",
+   "did": "是那个看重忠诚与合作的军人，与独来独往的自以为是杀手 Eli 构成对照",
+   "quote_anchor": "One was a dedicated soldier who valued loyalty, cooperation, and the other was a self-righteous killer who worked alone.",
+   "range": [
+    2212,
+    2332
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Sydney Clarke",
+   "did": "是另一个能力与 Gabriel 相近却不相同的 EO，她无法控制自己带回来的人",
+   "quote_anchor": "For example, Sydney Clarke couldn’t control the people she brought back.",
+   "range": [
+    1388,
+    1460
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Malcolm",
+   "did": "在主机键盘上作业，向 Gabriel 传送目标位置和各处动静的文字信息",
+   "quote_anchor": "Malcolm’s hands were a blur across the mainframe keyboard.",
+   "range": [
+    6034,
+    6092
+   ],
+   "words": 9
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the two agents in the field",
+   "did": "两名在外的特工头盔信号变黑，两人都已死亡",
+   "quote_anchor": "Of the last, two had gone dark. The signals themselves hadn’t been lost, but the agents were dead, body cameras facing down on pavement, or up on empty night.",
+   "range": [
+    291,
+    449
+   ],
+   "words": 29
+  },
+  {
+   "n": 2,
+   "who": "Bethany Adventure Land",
+   "did": "这个园子有四个进出口",
+   "quote_anchor": "“—wait for reinforcements,” Noah was saying. “The park is large and there are four ways in and out.",
+   "range": [
+    4952,
+    5051
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "the night of the operation",
+   "did": "离天亮还有一小时",
+   "quote_anchor": "An hour until dawn, and the place was still little more than layered shades of black beyond the headlights.",
+   "range": [
+    3034,
+    3141
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "the elder Clarke sister",
+   "did": "Gabriel 认为冒让她第三次、也是最后一次复活的风险不值得",
+   "quote_anchor": "Gabriel decided it wasn’t worth the risk of resurrecting her a third and final time.",
+   "range": [
+    1790,
+    1874
+   ],
+   "words": 15
+  },
+  {
+   "n": 5,
+   "who": "the drone's infrared images",
+   "did": "红外图像里一个身体呈暖金色，另一个偏紫蓝",
+   "quote_anchor": "Overhead, the drone found its targets. The infrared images came in. One body glowed a warm gold. Nearby, a second registered in cooler shades of violet, blue.",
+   "range": [
+    5873,
+    6031
+   ],
+   "words": 27
+  },
+  {
+   "n": 6,
+   "who": "the two agents who survived the fall",
+   "did": "两名从高处坠落幸存下来的特工都说他们什么也没看见",
+   "quote_anchor": "According to the two who’d survived the fall, they’d both seen nothing.",
+   "range": [
+    3959,
+    4030
+   ],
+   "words": 12
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "chapter": 107,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch107_chapter_xxxvii.txt",
+ "source_len_chars": 1885,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "Killed the engine just inside the gate of EON",
+   "quote_anchor": "VICTOR killed the engine just inside the gate.",
+   "range": [
+    47,
+    93
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "Hopped down from the front seat and said everything about that right there screams trap",
+   "quote_anchor": "“Well,” said June, hopping down from the front seat. “Everything about that right there screams trap.”",
+   "range": [
+    272,
+    374
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "Climbed out of the back and said he had not killed the security yet",
+   "quote_anchor": "“No,” he answered, climbing out of the back. “I didn’t kill the security yet.”",
+   "range": [
+    796,
+    874
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "Tipped two more of those black pills into his palm and shrugged at Victor",
+   "quote_anchor": "From the corner of his eye, Victor saw Mitch tip two more of those black pills into his palm.",
+   "range": [
+    916,
+    1009
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "Refused to stay behind and said he was not leaving her again",
+   "quote_anchor": "“Like hell,” Mitch shot back. “I’m not leaving her again.”",
+   "range": [
+    1151,
+    1209
+   ],
+   "words": 10
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "Changed from the lanky brunette into a broad-shouldered soldier nearly as big as Mitch",
+   "quote_anchor": "she changed, swapping the lanky brunette for a broad-shouldered soldier, nearly as big as Mitch.",
+   "range": [
+    1409,
+    1505
+   ],
+   "words": 15
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "Told June to find Sydney and get the fuck out, and to try to keep him alive",
+   "quote_anchor": "“I want you to find Sydney, and get the fuck out,” said Victor. “But try to keep him alive while you’re at it.”",
+   "range": [
+    1561,
+    1672
+   ],
+   "words": 23
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "Said he was going to find the new head of EON, and smiled that he would cut it off",
+   "quote_anchor": "He looked back over his shoulder. “I’m going to find the new head of EON.”",
+   "range": [
+    1750,
+    1824
+   ],
+   "words": 15
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "Had gotten access to the EON mainframe, and the camera feeds showed Sydney in the northwest quadrant",
+   "quote_anchor": "who had gotten access to the mainframe, and with it, the overall security, the layout of the building, and the camera feeds, which showed Sydney in the northwest quadrant.",
+   "range": [
+    622,
+    793
+   ],
+   "words": 29
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "Refused to leave Sydney again and insisted on coming along",
+   "quote_anchor": "“Like hell,” Mitch shot back. “I’m not leaving her again.” His tone said this was a battle not worth fighting.",
+   "range": [
+    1151,
+    1261
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "Was sent in to find Sydney and get him out alive",
+   "quote_anchor": "“I want you to find Sydney, and get the fuck out,” said Victor.",
+   "range": [
+    1561,
+    1624
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "Was told by Victor to stay together with Mitch",
+   "quote_anchor": "Victor sighed and looked to June. “You stay together then.”",
+   "range": [
+    1293,
+    1352
+   ],
+   "words": 10
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "two more of those black pills",
+   "quote_anchor": "Victor saw Mitch tip two more of those black pills into his palm.",
+   "range": [
+    944,
+    1009
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "The blue sports car",
+   "did": "halfway to the reinforced doors",
+   "quote_anchor": "A blue sports car idled, abandoned, halfway to the reinforced doors, which now hung open, as if in invitation.",
+   "range": [
+    159,
+    269
+   ],
+   "words": 19
+  }
+ ]
+}

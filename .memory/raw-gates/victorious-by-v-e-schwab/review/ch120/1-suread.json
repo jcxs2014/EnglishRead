@@ -1,0 +1,155 @@
+{
+ "chapter": 120,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch120_chapter_x.txt",
+ "source_len_chars": 693,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "remembered that she had been afraid of dying for a long time",
+   "quote_anchor": "Funny, to think she’d been afraid of it so long.",
+   "range": [
+    86,
+    134
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "weighed the pain of dying and found it less than shedding her old life",
+   "quote_anchor": "It hurt, but less than shedding her old life.",
+   "range": [
+    137,
+    182
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "compared the dying to the wind they had back home, which sometimes whipped into a gale",
+   "quote_anchor": "A breeze, like the kind they had back home, that sometimes whipped into a gale,",
+   "range": [
+    292,
+    371
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "trusted the air itself to hold her up as she leaned back into the wind",
+   "quote_anchor": "so strong you could lean back into the wind, trust the air itself to hold you up.",
+   "range": [
+    372,
+    453
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "noted that if the wind did not hold her, the ground was there to catch her",
+   "quote_anchor": "And if it didn’t, well, the ground was there to catch you.",
+   "range": [
+    456,
+    514
+   ],
+   "words": 12
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "went backward as she fell, the wind dropping to a whisper",
+   "quote_anchor": "June was going backward now, the wind dropping to a whisper as she fell.",
+   "range": [
+    517,
+    589
+   ],
+   "words": 14
+  },
+  {
+   "n": 7,
+   "who": "June",
+   "did": "never landed, because the ground, the cold, the pain, like everything, was gone",
+   "quote_anchor": "But she never landed, because the ground, like the cold, like the pain, like everything—",
+   "range": [
+    592,
+    680
+   ],
+   "words": 15
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "June and the wind",
+   "did": "the gale from back home was strong enough to lean back into and trust the air itself to hold you up",
+   "quote_anchor": "like the kind they had back home, that sometimes whipped into a gale, so strong you could lean back into the wind, trust the air itself to hold you up.",
+   "range": [
+    302,
+    453
+   ],
+   "words": 30
+  },
+  {
+   "n": 2,
+   "who": "June and the ground",
+   "did": "the ground was there to catch her if the wind failed, but it was gone when she fell",
+   "quote_anchor": "And if it didn’t, well, the ground was there to catch you.",
+   "range": [
+    456,
+    514
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "June and death",
+   "did": "dying hurt, but less than she had expected and less than shedding her old life",
+   "quote_anchor": "It hurt, but less than shedding her old life.",
+   "range": [
+    137,
+    182
+   ],
+   "words": 9
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "how long she had been afraid of dying: so long (原文: so long)",
+   "quote_anchor": "Funny, to think she’d been afraid of it so long.",
+   "range": [
+    86,
+    134
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "the breeze they had back home",
+   "did": "how often it whipped into a gale: sometimes (原文: sometimes)",
+   "quote_anchor": "like the kind they had back home, that sometimes whipped into a gale, so strong you could lean back into the wind",
+   "range": [
+    302,
+    415
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "the pain of dying",
+   "did": "how it compares with shedding her old life: less than (原文: less than)",
+   "quote_anchor": "It hurt, but less than shedding her old life.",
+   "range": [
+    137,
+    182
+   ],
+   "words": 9
+  }
+ ]
+}

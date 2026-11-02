@@ -1,0 +1,188 @@
+{
+ "chapter": 49,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch49_chapter_iv.txt",
+ "source_len_chars": 3969,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "asked Eli whether the moniker or the ability came first and whether Eli willed it into being",
+   "quote_anchor": "“I’m curious, which came first, the moniker or the ability? Eli Ever. Ever, as in immortal. Did you know what you’d become? Did you will it into being?”",
+   "range": [
+    599,
+    751
+   ],
+   "words": 28
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "said he and Victor had a theory that determination played a part",
+   "quote_anchor": "“We had a theory,” he said. “That determination played a part.”",
+   "range": [
+    754,
+    817
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "told Eli he honestly did not know where Victor was",
+   "quote_anchor": "Gabriel shook his head. “I honestly don’t know.”",
+   "range": [
+    1136,
+    1184
+   ],
+   "words": 8
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "showed Eli on a tablet the grid of videos from EON’s cells and pointed out Mr. Vale was not among the current patients",
+   "quote_anchor": "“EON’s current patients. As you can see, Mr. Vale is not among them.”",
+   "range": [
+    1634,
+    1703
+   ],
+   "words": 13
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "explained they did find Victor everywhere because someone coded him into the surveillance with false leads, dead ends and booby traps",
+   "quote_anchor": "Gabriel explained it wasn’t that they couldn’t find him. It was that they found him everywhere.",
+   "range": [
+    1831,
+    1926
+   ],
+   "words": 16
+  },
+  {
+   "n": 6,
+   "who": "Eli Ever",
+   "did": "named the theory “Cognitive emphasis,” saying that under extreme duress the subject’s determination played a part, and surrendered the tablet",
+   "quote_anchor": "“Cognitive emphasis,” he said, finally surrendering the device, which vanished into the chair at Gabriel’s side.",
+   "range": [
+    2475,
+    2587
+   ],
+   "words": 16
+  },
+  {
+   "n": 7,
+   "who": "Eli Ever",
+   "did": "described going into the ice bath knowing what he wanted and holding on to being unstoppable, unbreakable and unkillable",
+   "quote_anchor": "I wanted to be unstoppable. Unbreakable. Unkillable. I held on to it like a rope.",
+   "range": [
+    3294,
+    3375
+   ],
+   "words": 15
+  },
+  {
+   "n": 8,
+   "who": "Eli Ever",
+   "did": "told Gabriel he resents him, but not because he is an EO, rather because he is not God",
+   "quote_anchor": "Eli met his eyes. “No, Gabriel,” he said. “Because you’re not God.”",
+   "range": [
+    3901,
+    3968
+   ],
+   "words": 12
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli Ever",
+   "did": "resents Gabriel, who resurrected him",
+   "quote_anchor": "“Do you resent me for resurrecting you?” asked Gabriel.",
+   "range": [
+    3810,
+    3865
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "has hunted Victor for two and a half years and holds Gabriel responsible for failing to catch him",
+   "quote_anchor": "“Two and a half years is a long time,” countered Eli. “You should have caught him. You could have caught him. He could be here.”",
+   "range": [
+    1187,
+    1315
+   ],
+   "words": 25
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "brings EOs back, and every EO he has brought back has presented glitches",
+   "quote_anchor": "“Glitches are inevitable. They’ve presented in every single EO I’ve brought back. Trust me when I say, yours could be far worse.”",
+   "range": [
+    3504,
+    3633
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Mitchell Turner",
+   "did": "was Eli’s troublesome cellmate",
+   "quote_anchor": "“Mitchell Turner,” muttered Eli, recalling the troublesome cellmate.",
+   "range": [
+    2020,
+    2088
+   ],
+   "words": 8
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the clock on the wall of Gabriel’s office",
+   "did": "reads half past three",
+   "quote_anchor": "the clock on the wall of Gabriel’s office, which now read half past three.",
+   "range": [
+    257,
+    331
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "has been missing for Two and a half years",
+   "quote_anchor": "“Two and a half years is a long time,” countered Eli.",
+   "range": [
+    1187,
+    1240
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "the tablet footage of EON’s cells",
+   "did": "came from a dozen cells that looked identical to Eli’s",
+   "quote_anchor": "On the screen, a grid of videos—footage from a dozen cells that looked identical to his.",
+   "range": [
+    1464,
+    1552
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "the cell footage on the tablet",
+   "did": "showed that Three were empty",
+   "quote_anchor": "Three were empty. The others contained figures who sat, or stood, rested, paced.",
+   "range": [
+    1553,
+    1633
+   ],
+   "words": 13
+  }
+ ]
+}

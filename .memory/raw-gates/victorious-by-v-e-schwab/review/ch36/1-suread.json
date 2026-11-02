@@ -1,0 +1,177 @@
+{
+ "chapter": 36,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch36_chapter_vi.txt",
+ "source_len_chars": 1791,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "the girl and Mitchell Turner",
+   "did": "took the red pickup truck off down the packed dirt road",
+   "quote_anchor": "THE red pickup truck took off down the packed dirt road.",
+   "range": [
+    39,
+    95
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "Noah",
+   "did": "shed his camouflage, the tree line melting away and turning back to cloth and skin",
+   "quote_anchor": "The way the tree line shimmered, warped, before a human-sized section melted away from branch and trunk, turning back to cloth and skin as the EO shed his camouflage.",
+   "range": [
+    213,
+    379
+   ],
+   "words": 29
+  },
+  {
+   "n": 3,
+   "who": "Noah",
+   "did": "rolled his eyes and asked to be patched through to Dr. Gray",
+   "quote_anchor": "He rolled his eyes. “Patch me through to Dr. Gray.”",
+   "range": [
+    911,
+    962
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "Noah",
+   "did": "told Dr. Gray he had found the girl, described the cabin and the town, and added that she was not alone",
+   "quote_anchor": "“I found the girl.” He gave a description of the cabin, the town, before adding, “She’s not alone.”",
+   "range": [
+    1124,
+    1223
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Noah",
+   "did": "told Dr. Gray they were on the move but that he had eyes on them",
+   "quote_anchor": "“Negative,” he said, squinting down the empty road. “They’re on the move. But I have eyes.”",
+   "range": [
+    1393,
+    1484
+   ],
+   "words": 16
+  },
+  {
+   "n": 6,
+   "who": "Noah",
+   "did": "watched the distance between the two dots on his phone steadily increase, glad he had put the tracker on the truck while they were packing",
+   "quote_anchor": "On his phone, two dots flashed on the screen, his and theirs. He watched the distance between them steadily increasing, glad he’d put the tracker on the truck",
+   "range": [
+    1487,
+    1645
+   ],
+   "words": 28
+  },
+  {
+   "n": 7,
+   "who": "Gabriel",
+   "did": "gave Noah the order to go after them",
+   "quote_anchor": "In his ear, Gabriel gave the order. “Go after them.”",
+   "range": [
+    1673,
+    1725
+   ],
+   "words": 10
+  },
+  {
+   "n": 8,
+   "who": "Noah",
+   "did": "cracked his neck and started down the road",
+   "quote_anchor": "“Understood.” Noah cracked his neck and started down the road.",
+   "range": [
+    1728,
+    1790
+   ],
+   "words": 10
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Dr. Gray",
+   "did": "told Noah well done and asked whether they were still there",
+   "quote_anchor": "“Well done,” said Dr. Gray. “Are they still there?”",
+   "range": [
+    1339,
+    1390
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Dr. Gray",
+   "did": "guessed the girl Noah had found might be Vale, and was told it was Mitchell Turner and the dog",
+   "quote_anchor": "He could hear the pencil tapping lightly on the desk. Then stop. “Vale?”",
+   "range": [
+    1226,
+    1298
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Weaver",
+   "did": "spoke in Noah’s ear, calling him Haley, like the comet",
+   "quote_anchor": "“Haley. Like the comet,” drawled Weaver in his ear, somehow still sarcastic.",
+   "range": [
+    832,
+    908
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Noah",
+   "did": "had blended seamlessly into the woods in one moment",
+   "quote_anchor": "One moment, he’d blended seamlessly into the woods.",
+   "range": [
+    382,
+    433
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Noah",
+   "did": "watched two dots flash on his phone screen, his and theirs",
+   "quote_anchor": "On his phone, two dots flashed on the screen, his and theirs.",
+   "range": [
+    1487,
+    1548
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Noah",
+   "did": "kept one hand in his pocket and his sunglasses on the bridge of his nose",
+   "quote_anchor": "Blond hair cropped close, the way he’d kept it since his military days, one hand in his pocket and the sunglasses perched on the bridge of his nose.",
+   "range": [
+    519,
+    667
+   ],
+   "words": 28
+  },
+  {
+   "n": 4,
+   "who": "the clearing",
+   "did": "was empty, no one there to see what happened next",
+   "quote_anchor": "No one was there to see what happened next.",
+   "range": [
+    167,
+    210
+   ],
+   "words": 9
+  }
+ ]
+}

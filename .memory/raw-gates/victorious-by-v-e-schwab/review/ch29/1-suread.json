@@ -1,0 +1,210 @@
+{
+ "chapter": 29,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch29_chapter_x.txt",
+ "source_len_chars": 10961,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "Found that Xavi's phone had been dead and his message undeliverable",
+   "quote_anchor": "A small red x had shown up beside the message, saying it could not be delivered.",
+   "range": [
+    323,
+    403
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "Saw the news that local man Charles Fontaine was found dead of a suspected aneurysm",
+   "quote_anchor": "Local man Charles Fontaine found dead of a suspected aneurysm.",
+   "range": [
+    825,
+    887
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "Opened a filtered list of other prospective chemists on his laptop while drinking scotch",
+   "quote_anchor": "A list of other prospective chemists sat open on his laptop, filtered by location, background, specialty, access to ingredients.",
+   "range": [
+    1363,
+    1491
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "Sat down before his inhaler and his gun waiting on the coffee table",
+   "quote_anchor": "In front of him, two objects sat waiting on the coffee table.",
+   "range": [
+    3209,
+    3270
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "Laid a hand on top of the inhaler to stop Victor from using it",
+   "quote_anchor": "Victor reached for the inhaler. Or, was about to, when Eli laid a hand on top of it.",
+   "range": [
+    6483,
+    6567
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "Lunged for the inhaler and found the vial empty because he had not swapped it out",
+   "quote_anchor": "But when he brought it to his lips, nothing came out. The vial. He hadn’t swapped the vial out.",
+   "range": [
+    8395,
+    8490
+   ],
+   "words": 19
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "Got the last new vial into the inhaler, forced it to his mouth and breathed in as the compound cut the pain",
+   "quote_anchor": "With the last seconds of strength, he forced the inhaler to his mouth, and hit the button, and breathed in.",
+   "range": [
+    9284,
+    9391
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "Paused on the third chemist profile, Prof. Daniela Dean of Lockland University",
+   "quote_anchor": "Victor clicked through the profiles, pausing on the third.",
+   "range": [
+    10463,
+    10521
+   ],
+   "words": 9
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "Was Victor's best friend and his mortal enemy, and now appeared only as a ghost in Victor's head",
+   "quote_anchor": "Not when he was his best friend. Not when he was his mortal enemy. And not now, when he was a ghost.",
+   "range": [
+    5088,
+    5188
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Stell",
+   "did": "Her suspicions after Victor's arrest led to his years of solitary confinement",
+   "quote_anchor": "Thanks to Stell’s suspicions after his arrest, he’d endured five years of solitary confinement and constant scrutiny",
+   "range": [
+    1854,
+    1970
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "Could not protect Sydney or Mitch in his diminished state and called himself prey",
+   "quote_anchor": "Could not protect Sydney or Mitch. He was not a predator. He was prey.",
+   "range": [
+    2932,
+    3002
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "Had carved the words he was telling himself out of his parents' self-help book",
+   "quote_anchor": "They were his. Carved from a block of text in one of his parents’ self-help books.",
+   "range": [
+    7867,
+    7949
+   ],
+   "words": 16
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Xavi's phone",
+   "did": "Had been dead for more than a week",
+   "quote_anchor": "Xavi’s phone was dead, had been for more than a week—Victor knew because that was when he’d first messaged",
+   "range": [
+    160,
+    266
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "Was back where he had started nine months ago",
+   "quote_anchor": "which meant Victor was back where he’d started nine months ago. Caught in the same forsaken loop.",
+   "range": [
+    941,
+    1038
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "Endured five years of solitary confinement and five more in the prison block at Wrighton",
+   "quote_anchor": "he’d endured five years of solitary confinement and constant scrutiny, five more within the prison block at Wrighton.",
+   "range": [
+    1901,
+    2018
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "Had been driven by another force after his second resurrection",
+   "quote_anchor": "And then, after his second resurrection, Victor had been driven by another force.",
+   "range": [
+    2228,
+    2309
+   ],
+   "words": 13
+  },
+  {
+   "n": 5,
+   "who": "the compound",
+   "did": "Wore off somewhere between the first glass and second glass of whisky",
+   "quote_anchor": "Somewhere between the first glass and second glass of whisky, the compound had worn off, and now his nerves were humming",
+   "range": [
+    3430,
+    3550
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Prof. Daniela Dean",
+   "did": "Was the third profile Victor paused on",
+   "quote_anchor": "He sank into the chair before the laptop and drew up the list of prospective chemists he and Mitch had compiled.",
+   "range": [
+    10348,
+    10460
+   ],
+   "words": 21
+  }
+ ]
+}

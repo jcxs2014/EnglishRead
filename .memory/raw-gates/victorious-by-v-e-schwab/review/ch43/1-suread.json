@@ -1,0 +1,177 @@
+{
+ "chapter": 43,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch43_chapter_xiii.txt",
+ "source_len_chars": 4770,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Annie",
+   "did": "在巴士的第一个停靠站下了车，走开了",
+   "quote_anchor": "Annie had wandered off at the bus’s first pit stop.",
+   "range": [
+    210,
+    261
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "撑住洗手池，把急救包放在一边、威士忌放在另一边",
+   "quote_anchor": "June now braced herself against the bathroom sink, a first aid kit on one side and a bottle of whisky on the other.",
+   "range": [
+    262,
+    377
+   ],
+   "words": 23
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "拧开瓶盖喝了一大口威士忌",
+   "quote_anchor": "She spun the top off and took a swig, letting it burn.",
+   "range": [
+    882,
+    936
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "打开缝合包给伤口消毒，用缝合针穿过撕裂的皮肤缝了一针",
+   "quote_anchor": "Her fingers trembled as she opened up the suture kit, did her best to sterilize the wound before forcing the suture needle through torn skin.",
+   "range": [
+    1788,
+    1929
+   ],
+   "words": 25
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "用布包住勺子、用丁烷喷灯烧红勺子来烧灼够不到的入口伤口",
+   "quote_anchor": "She wrapped a washcloth around the spoon, and turned the torch on, holding the hot blue flame to the metal till it began to glow.",
+   "range": [
+    2541,
+    2670
+   ],
+   "words": 25
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "皮肤烧灼完毕后丢下工具，逃进另一个人的身体里",
+   "quote_anchor": "As soon as the skin had cauterized, she dropped the tools, and let herself escape into another body.",
+   "range": [
+    3211,
+    3311
+   ],
+   "words": 18
+  },
+  {
+   "n": 7,
+   "who": "June",
+   "did": "撑着站起来，看见手机上显示的名字",
+   "quote_anchor": "Slowly, June got to her feet. Saw the name on the screen.",
+   "range": [
+    3674,
+    3731
+   ],
+   "words": 12
+  },
+  {
+   "n": 8,
+   "who": "June",
+   "did": "清理地上的血污与纱布，删掉了 Victor 的短信",
+   "quote_anchor": "She cleaned up the mess, and deleted Victor’s text, and then she did what she did best.",
+   "range": [
+    4663,
+    4750
+   ],
+   "words": 17
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "认定 Victor 无论如何也不会让她再见到 Sydney",
+   "quote_anchor": "Knew no matter what Victor said, he’d never let her see Sydney again.",
+   "range": [
+    4019,
+    4088
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Rios",
+   "did": "曾对 June 说过关于信仰的奇怪的话，June 记得她当时的表情",
+   "quote_anchor": "She remembered the look on Rios’s face, her strange words about faith",
+   "range": [
+    4148,
+    4217
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "与 EON 和 Victor 的关系宣告了结，连同杀戮一起告别",
+   "quote_anchor": "She was done. Done with EON. Done with Victor. Done with killing.",
+   "range": [
+    4395,
+    4460
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "缝合进度：一针已完成，还剩三针要缝",
+   "quote_anchor": "One down, three to go, but June paused, letting her forehead rest against the cold counter.",
+   "range": [
+    2019,
+    2110
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "系上了第一针缝合（the first stitch）",
+   "quote_anchor": "She bit down on the towel, bile rising in her throat as she tied off the first stitch.",
+   "range": [
+    1930,
+    2016
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "住的地方是按小时计费的汽车旅馆（pay-by-the-hour）",
+   "quote_anchor": "It wasn’t the worst place she’d ever stayed, but it was close. A pay-by-the-hour on the edge of town.",
+   "range": [
+    106,
+    207
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "自认已经死过一次（once already），所以不再怕死",
+   "quote_anchor": "like how she’d been through it once already, and the novelty was gone.",
+   "range": [
+    2885,
+    2955
+   ],
+   "words": 13
+  }
+ ]
+}

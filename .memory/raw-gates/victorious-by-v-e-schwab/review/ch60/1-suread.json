@@ -1,0 +1,199 @@
+{
+ "chapter": 60,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch60_chapter_ix.txt",
+ "source_len_chars": 11353,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "emptied the magazine into the dog, which finally loosened its jaws and toppled sideways",
+   "quote_anchor": "He emptied the magazine into the animal, which finally loosened its jaws, and toppled sideways, half a dozen darts jutting from its fur",
+   "range": [
+    99,
+    234
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "watched the ragged tear in his throat seal itself with ropes of scar tissue",
+   "quote_anchor": "But then the ragged tear began to seal, ropes of scar tissue tracing the outline of the dog’s jaws.",
+   "range": [
+    418,
+    517
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "holstered the gun, spat out blood and took off toward the stairs in Sydney's wake",
+   "quote_anchor": "Eli holstered the gun, spat a final mouthful of blood onto the ground, and took off toward the stairs in Sydney’s wake.",
+   "range": [
+    771,
+    890
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "stumbled and dropped his books halfway across the second floor as the world shuddered around him",
+   "quote_anchor": "He vaulted up the metal steps, but halfway across the second floor, the world shuddered, like a live feed being interrupted",
+   "range": [
+    1013,
+    1136
+   ],
+   "words": 21
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "turned and saw Victor standing on the campus path in his usual black",
+   "quote_anchor": "Eli turned, and saw Victor, dressed in his usual black, his pale face and blond hair like the center of a white-hot flame",
+   "range": [
+    2332,
+    2453
+   ],
+   "words": 23
+  },
+  {
+   "n": 6,
+   "who": "Noah",
+   "did": "wrenched Eli back by his jacket as the Lockland campus dissolved into the motel steps",
+   "quote_anchor": "all replaced by the cold steel of the motel steps. Eli perched precariously on the top stair, Noah’s fists tangled in his jacket.",
+   "range": [
+    3810,
+    3939
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "Eli",
+   "did": "found the red metal tin on the roof with its lid thrown back and a film of gray coating the inside",
+   "quote_anchor": "But something caught Eli’s eye—a red metal tin, its lid thrown back. It was empty now, but it hadn’t been.",
+   "range": [
+    5254,
+    5360
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Eli",
+   "did": "watched the recording of the roof through the agent's helmet and told Noah they had a problem",
+   "quote_anchor": "Eli tugged the helmet off and said, “We have a problem.”",
+   "range": [
+    11296,
+    11352
+   ],
+   "words": 11
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "said not every shot is lethal and that he could have slowed Sydney down instead of killing her",
+   "quote_anchor": "Not every shot is lethal. I could have slowed her down.",
+   "range": [
+    5004,
+    5059
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "Noah",
+   "did": "reported over the ear comms that Turner was secured and that he was in pursuit of Clarke",
+   "quote_anchor": "“Turner secured,” said Noah. “In pursuit of Clarke.”",
+   "range": [
+    4652,
+    4704
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "was ordered not to make any attempt at escape and to do no violence against EON",
+   "quote_anchor": "The second was to make no attempt at escape. The third, to do no violence against EON.",
+   "range": [
+    8299,
+    8385
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Serena Clarke",
+   "did": "was the one Eli had first encountered, the one he had set out to kill on Halloween",
+   "quote_anchor": "After all, Serena was the one he’d first encountered. The one he’d set out to kill on Halloween, before she led him up the stairs",
+   "range": [
+    9912,
+    10041
+   ],
+   "words": 25
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the dog",
+   "did": "had half a dozen darts jutting from its fur after Eli emptied the magazine",
+   "quote_anchor": "half a dozen darts jutting from its fur",
+   "range": [
+    195,
+    234
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "was about to chuck himself down a dozen metal steps",
+   "quote_anchor": "“I saw you about to chuck yourself down a dozen metal steps,” he said.",
+   "range": [
+    4232,
+    4302
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "the EON agents",
+   "did": "four of them lay sprawled on the pavement below the rooftop",
+   "quote_anchor": "When he joined him, he saw the four agents sprawled on the pavement below, like they’d been thrown—or jumped.",
+   "range": [
+    6557,
+    6666
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "the EON agents",
+   "did": "two of the four agents lying below showed signs of life",
+   "quote_anchor": "the fact that two showed signs of life, the fall wouldn’t be enough to kill him",
+   "range": [
+    6809,
+    6888
+   ],
+   "words": 16
+  },
+  {
+   "n": 5,
+   "who": "Sydney Clarke",
+   "did": "went from being alone on the roof to there being two of her",
+   "quote_anchor": "One moment, Sydney was crouched down on the roof, alone, and the next, there were two of her.",
+   "range": [
+    9434,
+    9527
+   ],
+   "words": 18
+  }
+ ]
+}

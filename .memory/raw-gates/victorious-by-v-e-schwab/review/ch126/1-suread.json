@@ -1,0 +1,210 @@
+{
+ "chapter": 126,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch126_chapter_xvi.txt",
+ "source_len_chars": 6809,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "在 Turn Around 餐店的柜台后擦台面",
+   "quote_anchor": "He stood, wiping the counter at the Turn Around, so-called more because the diner had been falling into disrepair when he first purchased it",
+   "range": [
+    214,
+    354
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "喊了声“爸爸”便径直走向角落卡座，放下包后弯腰挠 Dol 的耳朵",
+   "quote_anchor": "“Hey, Dad!” she called out, beelining for the corner booth. She slung her bag onto the seat, and flopped down beside it, bending to scratch Dol’s ears.",
+   "range": [
+    1596,
+    1747
+   ],
+   "words": 27
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "说在路上发现一只被车撞的猫，不能把它留在那里",
+   "quote_anchor": "“Found a cat on the way over,” she said. “Must have been hit by a car. Couldn’t leave it there.”",
+   "range": [
+    2374,
+    2470
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "在互联网各处留暗哨以防 EON 复活，目前无人触发",
+   "quote_anchor": "He kept feelers going in every corner of the internet, just to be safe. So far, no one had tripped them.",
+   "range": [
+    2592,
+    2696
+   ],
+   "words": 21
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "认出 Daniela Dean 的名字曾出现在他给 Victor 编的化学家名单上",
+   "quote_anchor": "Mitch caught on. And remembered where he’d seen the name before. It had been on a list of chemists he’d compiled. For Victor.",
+   "range": [
+    4171,
+    4296
+   ],
+   "words": 23
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "问能不能在那里过夜",
+   "quote_anchor": "“Actually,” she said. “I was hoping I could spend the night.”",
+   "range": [
+    4932,
+    4993
+   ],
+   "words": 11
+  },
+  {
+   "n": 7,
+   "who": "Mitch",
+   "did": "把自己劈开，一个去给 Syd 开门，另一个去柴堆",
+   "quote_anchor": "Mitch rolled his eyes, and then split himself apart, one version jogging to get the door for Syd while the other headed for the woodpile.",
+   "range": [
+    5932,
+    6069
+   ],
+   "words": 25
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "把斧头砍在第一根木柴上，呼出冷气并笑了",
+   "quote_anchor": "But as Mitch brought the axe down on the first log, and the sound rang through the trees, he sighed a cold breath into the air, and smiled.",
+   "range": [
+    6585,
+    6724
+   ],
+   "words": 28
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "称 Mitch 为“爸爸”",
+   "quote_anchor": "“Hey, Dad!” she called out, beelining for the corner booth.",
+   "range": [
+    1596,
+    1655
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "Dol",
+   "did": "睡在角落卡座桌下，长后腿伸在桌外",
+   "quote_anchor": "Dol helped, his long rear legs stuck out from a corner booth, where he was sleeping beneath the table.",
+   "range": [
+    1135,
+    1237
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "扬起的嘴角让 Mitch 想起 Victor",
+   "quote_anchor": "The corner of her mouth tipped up in a way that reminded him way too much of Victor.",
+   "range": [
+    4657,
+    4741
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "在 Lockland University 上学，是那里的学生",
+   "quote_anchor": "She’d started at Lockland University last year after—well, after everything.",
+   "range": [
+    3054,
+    3130
+   ],
+   "words": 10
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "分裂出更多自己：“四只手”胜过“两只手”，“八只手”胜过“四只手”",
+   "quote_anchor": "It turned out, four hands were better than two, and eight were better than four, and so on.",
+   "range": [
+    524,
+    615
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Dol",
+   "did": "那天早上吃了“七根薯条”、一片吐司，外加一勺别人掉的冰淇淋",
+   "quote_anchor": "This morning I saw him eat seven French fries and a piece of toast.",
+   "range": [
+    2103,
+    2170
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "数出 Mitch 眉间那“两道”竖纹",
+   "quote_anchor": "pointing at the two vertical creases that had taken up residence between his brows",
+   "range": [
+    2781,
+    2863
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "一手（one hand）拿摩卡，另一手（the other）拿巧克力牛奶",
+   "quote_anchor": "Mitch came over, a mocha in one hand and a chocolate milk in the other.",
+   "range": [
+    1843,
+    1914
+   ],
+   "words": 15
+  },
+  {
+   "n": 5,
+   "who": "Sydney",
+   "did": "每隔一个周末（every other weekend）开车跨州去看 Mitch",
+   "quote_anchor": "didn’t look old enough to drive across state lines to visit every other weekend, either—but she was both.",
+   "range": [
+    3230,
+    3335
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "已经是大二（sophomore）学生",
+   "quote_anchor": "It was hard to believe she was already a sophomore.",
+   "range": [
+    3133,
+    3184
+   ],
+   "words": 10
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "chapter": 37,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch37_chapter_vii.txt",
+ "source_len_chars": 7472,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "Sat slumped in one of his office chairs with a cold cloth pressed against his eyes, trying again and again to convert the EOs from violent prisoners to pliant patients",
+   "quote_anchor": "Instead, he was slumped in one of the two chairs, his legs up on the table and his head tipped back, a cold cloth pressed against his eyes.",
+   "range": [
+    135,
+    274
+   ],
+   "words": 28
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "Told the recorder on his table, with Helena Roy seated opposite, that converting the EOs was not working",
+   "quote_anchor": "“It isn’t working,” he said, addressing the recorder on the table as much as Helena, who sat placid in the opposite chair.",
+   "range": [
+    391,
+    513
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "Concluded that converted humans became blank slates while the EOs kept their minds, personalities, histories and grievances",
+   "quote_anchor": "But EOs, for whatever reason, appeared to retain their minds as well as their memories. Their personalities, and histories, and grievances.",
+   "range": [
+    2388,
+    2527
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "Pulled his last three subjects from the morgue instead of the inmate catalogue to soften their rigidity toward EON, and found only two conscious and both stubbornly defiant",
+   "quote_anchor": "In an attempt to circumnavigate this hurdle, he’d pulled his last three subjects not from the present catalogue of inmates, but from the morgue",
+   "range": [
+    2598,
+    2741
+   ],
+   "words": 24
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "Decided he needed an EO who had never seen him or EON as an enemy",
+   "quote_anchor": "He needed an EO who had never seen him—or EON—as an enemy.",
+   "range": [
+    4099,
+    4157
+   ],
+   "words": 12
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "Asked where Rios was, learned Agent Harris had just returned to base, and called him in",
+   "quote_anchor": "He was about to order her called back when the former director added that Agent Harris had just returned to base.",
+   "range": [
+    4350,
+    4463
+   ],
+   "words": 21
+  },
+  {
+   "n": 7,
+   "who": "Noah Harris",
+   "did": "Told Gabriel he had turned himself in because he wanted to make it right",
+   "quote_anchor": "“I wanted…” Noah looked down at his hands, as if searching for the words. “I wanted to make it right.”",
+   "range": [
+    5510,
+    5612
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Helena Roy",
+   "did": "Raised a gun behind Noah Harris’s back and shot him after he told Gabriel he trusted him",
+   "quote_anchor": "The soldier nodded. “Yes, sir,” he said, right before the shot went off.",
+   "range": [
+    7399,
+    7471
+   ],
+   "words": 13
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Helena Roy",
+   "did": "Is a converted human whom Gabriel has reduced to a sounding board after regretting converting her",
+   "quote_anchor": "Instead, he had reduced her to a sounding board.",
+   "range": [
+    796,
+    844
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Noah Harris",
+   "did": "Is one of the two EOs the late Director Stell tapped to serve EON, and both were ex-military",
+   "quote_anchor": "It made sense, thought Gabriel, that the two EOs the late Director Stell had tapped to serve EON were both ex-military.",
+   "range": [
+    4577,
+    4696
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Noah Harris",
+   "did": "Carries survivor’s guilt over his black ops team and the fact that he was the only one who made it out alive",
+   "quote_anchor": "Survivor’s guilt hung like a lead weight around his shoulders, even though he bore it well.",
+   "range": [
+    5764,
+    5855
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Rios",
+   "did": "Is the EO agent Gabriel interviewed on his first day, a soldier who served by choice, and was still on mission",
+   "quote_anchor": "remembering the EO agent he’d interviewed on his first day, the soldier who served by choice",
+   "range": [
+    4205,
+    4297
+   ],
+   "words": 16
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the more EOs Gabriel had so far resurrected",
+   "did": "five",
+   "quote_anchor": "Of the five more EOs Gabriel had so far resurrected, only three were usable.",
+   "range": [
+    1596,
+    1672
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "the usable EOs among the five Gabriel resurrected",
+   "did": "three",
+   "quote_anchor": "Of the five more EOs Gabriel had so far resurrected, only three were usable.",
+   "range": [
+    1596,
+    1672
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "the fourth resurrected EO",
+   "did": "fourth",
+   "quote_anchor": "The fourth had to be returned to death immediately, due to his damaged powers, and the fifth had yet to regain consciousness.",
+   "range": [
+    1673,
+    1798
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "the fifth resurrected EO",
+   "did": "fifth",
+   "quote_anchor": "The fourth had to be returned to death immediately, due to his damaged powers, and the fifth had yet to regain consciousness.",
+   "range": [
+    1673,
+    1798
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "Noah Harris",
+   "did": "seven",
+   "quote_anchor": "He knew the man had served seven years in a black ops unit.",
+   "range": [
+    5065,
+    5124
+   ],
+   "words": 13
+  },
+  {
+   "n": 6,
+   "who": "Gabriel’s two problems with the resurrected EOs",
+   "did": "two",
+   "quote_anchor": "“There are two problems,” he narrated, to himself. “The first being their powers…”",
+   "range": [
+    1351,
+    1433
+   ],
+   "words": 13
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "chapter": 4,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch04_chapter_iii.txt",
+ "source_len_chars": 19550,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Paul Barnett",
+   "did": "broke the silence after Gabriel counted to ten and said he can't sleep",
+   "quote_anchor": "Gabriel mentally began to count, and before he reached the number ten, Paul broke the silence. “I can’t sleep.”",
+   "range": [
+    4418,
+    4529
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Paul Barnett",
+   "did": "said the meds keep him from getting up but he needs something stronger so he doesn't dream",
+   "quote_anchor": "the meds keep me from getting up, moving around, but I tried to tell her, I need something stronger, so I don’t dream.",
+   "range": [
+    5103,
+    5221
+   ],
+   "words": 23
+  },
+  {
+   "n": 3,
+   "who": "Paul Barnett",
+   "did": "insisted that the things he dreams about become real",
+   "quote_anchor": "I mean, the things I dream about,” he said, spreading his hands, “they … become real.”",
+   "range": [
+    5756,
+    5842
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "proposed a test with no cameras or recording devices using light hypnosis, and Paul said yes",
+   "quote_anchor": "I’d like to try some light hypnosis. See if we can coax you into sleep. After that, whatever we find, we’ll face it together.",
+   "range": [
+    9179,
+    9304
+   ],
+   "words": 24
+  },
+  {
+   "n": 5,
+   "who": "Gabriel Gray",
+   "did": "measured out the dose, swabbed Paul's skin, applied a tourniquet and injected a small sedative",
+   "quote_anchor": "Gabriel measured out the dose, swabbed his patient’s skin, and applied a tourniquet.",
+   "range": [
+    10689,
+    10773
+   ],
+   "words": 13
+  },
+  {
+   "n": 6,
+   "who": "Gabriel Gray",
+   "did": "watched the triangular head of a snake rise out of Paul's chest as the room went dark",
+   "quote_anchor": "Gabriel looked up in time to see the triangular head of a snake rising up from Paul’s chest.",
+   "range": [
+    12856,
+    12948
+   ],
+   "words": 18
+  },
+  {
+   "n": 7,
+   "who": "Gabriel Gray",
+   "did": "hurtled forward and grabbed Paul's shoulder to keep a snake's fangs out of his forearm, after which the snakes were gone",
+   "quote_anchor": "He hurtled forward as one of the snakes lunged for him, grabbing Paul’s shoulder right before it could sink its fangs into his forearm",
+   "range": [
+    14869,
+    15003
+   ],
+   "words": 24
+  },
+  {
+   "n": 8,
+   "who": "Gabriel Gray",
+   "did": "told Paul that as far as he could tell he was having a bad dream",
+   "quote_anchor": "The doctor shook his head. “No,” he said as gently as he could. “As far as I could tell, you were having a bad dream.”",
+   "range": [
+    17317,
+    17435
+   ],
+   "words": 25
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "是 Paul 的治疗师：他开 nitrazepam 处方给 Paul，并要 Paul 回来一起查明真相",
+   "quote_anchor": "This is for nitrazepam. At this dosage, it should be more than strong enough to induce a dreamless sleep.",
+   "range": [
+    18394,
+    18499
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Dr. Arnold",
+   "did": "是转介 Paul 的医生，事故后给 Paul 开了药，但药力不够强",
+   "quote_anchor": "I tried to tell Dr. Arnold. She gave me these pills, after the accident, but they’re not strong enough.",
+   "range": [
+    4724,
+    4827
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "的妻子是 Iris，儿子是 Ian：Iris 会弄乱他刚梳好的头发，Ian 会把洗碗机里的勺子放反",
+   "quote_anchor": "Iris, who would tease him by ruffling his hair after he’d just combed it, and Ian, whose small act of chaos",
+   "range": [
+    355,
+    462
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Paul Barnett",
+   "did": "相信有“他们”把像他这样的人消失，并抹掉证据、删帖",
+   "quote_anchor": "They make ’em disappear. They scrub the evidence, but there are threads about it, if you know where to look.",
+   "range": [
+    8259,
+    8367
+   ],
+   "words": 20
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Paul Barnett",
+   "did": "四点钟的会面迟到，敲门发生在 At six minutes past",
+   "quote_anchor": "At six minutes past, the knock finally came.",
+   "range": [
+    1660,
+    1704
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Paul Barnett",
+   "did": "事故发生在 eighteen months before：他睡梦中走出 fourth-story window，Nine broken bones，A six-week coma",
+   "quote_anchor": "The accident, according to Paul’s file, involved sleepwalking out of a fourth-story window eighteen months before. Nine broken bones. A six-week coma.",
+   "range": [
+    4831,
+    4981
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Paul Barnett",
+   "did": "Gabriel 想到的另一种解释：他是个 twenty-six-year-old man，长期无法入睡，疲惫的大脑分不清清醒与无意识",
+   "quote_anchor": "Or that he was a twenty-six-year-old man suffering from a persistent lack of sleep, whose exhausted mind was now struggling to differentiate",
+   "range": [
+    8792,
+    8932
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "At forty-eight，仍未改变这个领域、也未留下自己的印记",
+   "quote_anchor": "At forty-eight, he’d yet to change the field in any way, yet to leave his own mark.",
+   "range": [
+    16823,
+    16906
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Paul Barnett",
+   "did": "看到 nitrazepam 处方后皱眉：只开 three days",
+   "quote_anchor": "Paul looked down at the slip and frowned. “It’s only for three days.”",
+   "range": [
+    18503,
+    18572
+   ],
+   "words": 13
+  },
+  {
+   "n": 6,
+   "who": "Gabriel Gray",
+   "did": "他 was eight 时看过一场魔术，之后花 next three days 拆解每个 illusion",
+   "quote_anchor": "One who’d seen a magic act when he was eight and devoted the next three days to unpicking each and every illusion",
+   "range": [
+    13838,
+    13951
+   ],
+   "words": 22
+  }
+ ]
+}

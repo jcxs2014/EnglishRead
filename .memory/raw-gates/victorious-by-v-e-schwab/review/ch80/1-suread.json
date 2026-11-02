@@ -1,0 +1,188 @@
+{
+ "chapter": 80,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch80_chapter_x.txt",
+ "source_len_chars": 6270,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "who": "Sydney",
+   "did": "found the cake cut, served and eaten, with no memory of tasting it and no sense of how much time had passed",
+   "quote_anchor": "One moment the cake was whole, smoke still curling from the candles she’d blown out, and the next, it had somehow been cut, and served, and eaten.",
+   "n": 1,
+   "range": [
+    77,
+    223
+   ],
+   "words": 27
+  },
+  {
+   "who": "Sydney",
+   "did": "glanced toward Eli's frozen form and flexed her fingers on the sharpened point of wood",
+   "quote_anchor": "Syd glanced toward his frozen form, fingers flexing on the sharpened point of wood again.",
+   "n": 2,
+   "range": [
+    702,
+    791
+   ],
+   "words": 15
+  },
+  {
+   "who": "Serena",
+   "did": "had taken the flowers from Eli's hand and abandoned them on the counter, where they were not really flowers but her gun",
+   "quote_anchor": "The ones Serena had taken from his hand and abandoned on the counter. The flowers, which were not really flowers, but a gun. Her gun.",
+   "n": 3,
+   "range": [
+    1121,
+    1254
+   ],
+   "words": 25
+  },
+  {
+   "who": "Serena",
+   "did": "closed her hand around Sydney's wrist as Sydney was about to lift the flowers",
+   "quote_anchor": "She was about to lift the flowers when Serena’s hand closed around her wrist.",
+   "n": 4,
+   "range": [
+    1895,
+    1972
+   ],
+   "words": 14
+  },
+  {
+   "who": "Serena",
+   "did": "told Sydney she had heard her calling in the dark and that because of her, she could now do it",
+   "quote_anchor": "I heard you calling, in the dark. Reaching out for me, the way I reached for you. You needed me, to come back.",
+   "n": 5,
+   "range": [
+    2422,
+    2532
+   ],
+   "words": 23
+  },
+  {
+   "who": "Serena",
+   "did": "declared that now she made the world and so she made the rules",
+   "quote_anchor": "“But you did.” Serena’s eyes were glassy, filled with light. Her fingers tightened around Sydney’s wrist. “Now I make the world. And so, I make the rules.”",
+   "n": 6,
+   "range": [
+    3001,
+    3156
+   ],
+   "words": 27
+  },
+  {
+   "who": "Sydney",
+   "did": "apologized to Serena, saying she was not strong enough and had only one chance and could not lose her again",
+   "quote_anchor": "“I’m sorry I wasn’t strong enough,” she whispered, “I knew I’d only get one chance. And I was so scared of failing. I couldn’t lose you again.”",
+   "n": 7,
+   "range": [
+    3900,
+    4043
+   ],
+   "words": 27
+  },
+  {
+   "who": "Sydney",
+   "did": "told Serena she was really glad they were home, and Serena let go of her wrist",
+   "quote_anchor": "Sydney met her sister’s gaze, and said, “I’m really glad we’re home.”",
+   "n": 8,
+   "range": [
+    5680,
+    5749
+   ],
+   "words": 12
+  }
+ ],
+ "relations": [
+  {
+   "who": "Sydney",
+   "did": "brought Serena back from the ice a second time by relying on her own will, mind and voice",
+   "quote_anchor": "EOs were created using their own will. Their own determination to survive.",
+   "n": 1,
+   "range": [
+    2633,
+    2707
+   ],
+   "words": 12
+  },
+  {
+   "who": "Serena",
+   "did": "held Sydney's wrist like a manacle and treated people like puppets, bent to her whim and will",
+   "quote_anchor": "Serena’s hand was still a manacle around her wrist. Her skin prickled in warning.",
+   "n": 2,
+   "range": [
+    4326,
+    4407
+   ],
+   "words": 14
+  },
+  {
+   "who": "Victor",
+   "did": "cut Serena's throat the last time he crossed paths with her",
+   "quote_anchor": "the last time Victor had crossed paths with Serena, he’d cut her throat",
+   "n": 3,
+   "range": [
+    5122,
+    5193
+   ],
+   "words": 13
+  },
+  {
+   "who": "Sydney",
+   "did": "knew Serena's weakness, that she assumes anyone telling her what she wants to hear is telling the truth",
+   "quote_anchor": "She was so used to getting her way that whenever someone told her what she wanted to hear, she assumed they were telling the truth.",
+   "n": 4,
+   "range": [
+    5546,
+    5677
+   ],
+   "words": 25
+  }
+ ],
+ "numbers": [
+  {
+   "who": "Serena",
+   "did": "eight years — \"I guess that's what happens, when you miss eight years.\"",
+   "quote_anchor": "“You’ve grown so much,” she mused, the smile sliding from her face. Nearby, the bouquet withered on the counter. “I guess that’s what happens, when you miss eight years.”",
+   "n": 1,
+   "range": [
+    3480,
+    3650
+   ],
+   "words": 29
+  },
+  {
+   "who": "Sydney",
+   "did": "one chance — \"I knew I'd only get one chance.\"",
+   "quote_anchor": "I knew I’d only get one chance. And I was so scared of failing. I couldn’t lose you again.”",
+   "n": 2,
+   "range": [
+    3952,
+    4043
+   ],
+   "words": 19
+  },
+  {
+   "who": "Sydney",
+   "did": "a second time — she relied on her own will to bring them back a second time",
+   "quote_anchor": "But to bring them back a second time, Sydney relied on hers.",
+   "n": 3,
+   "range": [
+    2708,
+    2768
+   ],
+   "words": 12
+  },
+  {
+   "who": "Serena",
+   "did": "once upon a time, Serena had ordered Syd to go somewhere safe",
+   "quote_anchor": "Once upon a time, Serena had ordered Syd to go somewhere safe",
+   "n": 4,
+   "range": [
+    4408,
+    4469
+   ],
+   "words": 12
+  }
+ ]
+}

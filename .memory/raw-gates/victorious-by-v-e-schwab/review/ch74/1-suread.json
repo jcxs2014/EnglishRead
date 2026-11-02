@@ -1,0 +1,188 @@
+{
+ "chapter": 74,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch74_chapter_iv.txt",
+ "source_len_chars": 5036,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "met Mitch after nearly three years and told him he looked like shit",
+   "quote_anchor": "VICTOR hadn’t seen Mitch in nearly three years, and the first thing he said was “You look like shit.”",
+   "range": [
+    89,
+    190
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "twitched his fingers to turn the invisible dial all the way down, melting the strain out of Mitch’s body",
+   "quote_anchor": "Victor’s fingers gave an incremental twitch, turning the invisible dial all the way down, and the strain melted out of Mitch’s body.",
+   "range": [
+    479,
+    611
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "straightened up and punched Victor in the face",
+   "quote_anchor": "He straightened, rolling the tension from his shoulders. And then he punched Victor in the face.",
+   "range": [
+    950,
+    1046
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "stopped Mitch’s fist by reaching for the current animating Mitch’s body like a web of strings and pulling",
+   "quote_anchor": "Hadn’t reached for the current animating Mitch’s body like a web of strings and pulled.",
+   "range": [
+    1094,
+    1181
+   ],
+   "words": 15
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "shot the EON agent in the head when the agent rounded the van a second time",
+   "quote_anchor": "The agent stopped moving long enough for Victor to shoot them in the head. This time, there was no getting up.",
+   "range": [
+    3063,
+    3173
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "crossed to the dead body and freed the second comm",
+   "quote_anchor": "Victor crossed to the dead body, and freed the second comm.",
+   "range": [
+    3512,
+    3571
+   ],
+   "words": 11
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "pressed the comm and a night vision scope into Mitch’s chest and pointed up at the ride overhead",
+   "quote_anchor": "He pressed the comm and a night vision scope into Mitch’s chest, then pointed up, at a ride that loomed and coiled overhead.",
+   "range": [
+    4730,
+    4854
+   ],
+   "words": 23
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "ordered Mitch to get up onto the ride, be his eyes, and stay out of his way",
+   "quote_anchor": "Get up there. Be my eyes. And stay out of my way.",
+   "range": [
+    4856,
+    4905
+   ],
+   "words": 12
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "was Victor’s cellmate in the years they spent at Wrighton, where he never raised his voice nor protested Victor’s plans",
+   "quote_anchor": "Mitch, who in the years they’d spent at Wrighton, had never raised his voice. Never so much as protested one of Victor’s plans.",
+   "range": [
+    3989,
+    4116
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Syd",
+   "did": "would not leave the dog behind, as would neither Mitch",
+   "quote_anchor": "neither of whom would leave the dog behind",
+   "range": [
+    2126,
+    2168
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "insisted he could still help even though he was only an ordinary human",
+   "quote_anchor": "Mitch glared at him. “Being ordinary doesn’t make me powerless. I can still help.”",
+   "range": [
+    4487,
+    4569
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "was supposed to call Victor but never did",
+   "quote_anchor": "“You were supposed to call.” Victor frowned. “You didn’t.”",
+   "range": [
+    1725,
+    1783
+   ],
+   "words": 9
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "nearly three years (how long since he had seen Mitch)",
+   "quote_anchor": "VICTOR hadn’t seen Mitch in nearly three years, and the first thing he said was",
+   "range": [
+    89,
+    168
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "two dead EON agents (found at the motel along with a dead employee)",
+   "quote_anchor": "he found a dead employee and two dead EON agents, along with the dog, who was unconscious but alive",
+   "range": [
+    1926,
+    2025
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "hours, if not days (how long the agent should have been down from that nerve damage)",
+   "quote_anchor": "That kind of nerve damage should have kept them down for hours, if not days.",
+   "range": [
+    3245,
+    3321
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "these last three years (how much he had changed since Wrighton)",
+   "quote_anchor": "Never so much as protested one of Victor’s plans. He’d obviously changed these last three years.",
+   "range": [
+    4067,
+    4163
+   ],
+   "words": 16
+  }
+ ]
+}

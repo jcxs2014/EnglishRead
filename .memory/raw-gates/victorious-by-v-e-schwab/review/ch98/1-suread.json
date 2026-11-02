@@ -1,0 +1,199 @@
+{
+ "chapter": 98,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch98_chapter_xxviii.txt",
+ "source_len_chars": 5507,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "punted the grenade into the side of the transport van and shoved Mitch back before it blew",
+   "quote_anchor": "Luckily, she had fast reflexes, and just enough time to punt the grenade into the side of the transport van and shove Mitch back before it blew.",
+   "range": [
+    215,
+    359
+   ],
+   "words": 27
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "rolled over on the pavement, swapped the damaged body for a new one, and got her hearing back",
+   "quote_anchor": "She rolled over, swapping out the damaged body for a new one, and the sound came rushing back.",
+   "range": [
+    640,
+    734
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "said he saw nothing in the woods and told them they needed to go now",
+   "quote_anchor": "His jaw ticked. His eyes narrowed. “Nothing,” he said at last, turning back toward the pickup. “We need to go. Now.”",
+   "range": [
+    2086,
+    2202
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "climbed into the front seat of the transport van and tore pieces out of it, ejecting debris onto the road",
+   "quote_anchor": "Mitch, meanwhile, had climbed into the front seat of the transport van, and was now tearing pieces out, ejecting debris onto the road.",
+   "range": [
+    2494,
+    2628
+   ],
+   "words": 23
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "emerged from the van holding up a laptop instead of the missile launcher June had hoped for",
+   "quote_anchor": "“Like this,” he said, triumphantly. June had been hoping for a missile launcher.",
+   "range": [
+    2852,
+    2932
+   ],
+   "words": 13
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "took the passenger seat of the pickup and left Mitch to squeeze into the back with the sedated dog",
+   "quote_anchor": "She hoisted herself up into the passenger seat, leaving Mitch to squeeze his massive form into the back with the dog.",
+   "range": [
+    3273,
+    3390
+   ],
+   "words": 21
+  },
+  {
+   "n": 7,
+   "who": "Noah",
+   "did": "held Eli at gunpoint on the forest floor and reported into his comm that he had him",
+   "quote_anchor": "“I’ve got him,” Noah said into his comm. Then, “Yes.”",
+   "range": [
+    4112,
+    4165
+   ],
+   "words": 10
+  },
+  {
+   "n": 8,
+   "who": "Gabriel",
+   "did": "reached Eli through the earpiece plug and told him they would talk when he returned to EON",
+   "quote_anchor": "“We’ll talk more when you return to EON,” said the voice. “In the meantime, do whatever Noah says.”",
+   "range": [
+    4522,
+    4621
+   ],
+   "words": 18
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "protected Mitch because he mattered not to her but to Sydney",
+   "quote_anchor": "she’d protected Mitch because he mattered—not to her, but to Sydney.",
+   "range": [
+    1051,
+    1119
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "was Marcella's old right hand, who shielded Mitch from the blast",
+   "quote_anchor": "The woman—Marcella’s old right hand, June, he realized when he saw her change—absorbed the worst of the damage, shielding Mitch in the process.",
+   "range": [
+    3849,
+    3992
+   ],
+   "words": 23
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "felt his hold slipping because his body reacted to Gabriel's displeasure even without an order",
+   "quote_anchor": "A strange feeling, like a chill, rolled over him. The words were not an order, yet, but his body reacted to the displeasure in the EO’s voice.",
+   "range": [
+    4343,
+    4485
+   ],
+   "words": 27
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "followed Noah away not because he had no choice but because he knew exactly where Victor was headed",
+   "quote_anchor": "And Eli followed, not because he had no choice, but because he knew exactly where Victor was headed.",
+   "range": [
+    5373,
+    5473
+   ],
+   "words": 18
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "said the grenade cost her one of the bodies in her closet, one she was quite fond of",
+   "quote_anchor": "Besides, it had only cost her one of the bodies in her closet.",
+   "range": [
+    1120,
+    1182
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "stopped ten feet away from Noah and Eli and stared into the trees",
+   "quote_anchor": "Victor stopped ten feet away and stared into the trees.",
+   "range": [
+    4945,
+    5000
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Noah",
+   "did": "made Eli turn and walk away only after the three of them had climbed into the pickup truck",
+   "quote_anchor": "Only once the three of them had climbed into the pickup truck did Noah force Eli to turn and walk away.",
+   "range": [
+    5269,
+    5372
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "had a deep scratch on one cheek with a line of blood running from temple to jaw",
+   "quote_anchor": "Up close, she noted he had a deep scratch on one cheek, a line of blood running from temple to jaw.",
+   "range": [
+    1775,
+    1874
+   ],
+   "words": 21
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "swapped the damaged body for a new one after the explosion blew out her eardrums",
+   "quote_anchor": "She rolled over, swapping out the damaged body for a new one, and the sound came rushing back.",
+   "range": [
+    640,
+    734
+   ],
+   "words": 18
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "chapter": 57,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch57_chapter_vi.txt",
+ "source_len_chars": 2503,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Eli Ever",
+   "did": "追问 Victor 在哪里，Sydney 说不知道，Eli 回答“我不信”",
+   "quote_anchor": "Eli loomed over her, blotting out the world. “I don’t believe you.”",
+   "range": [
+    126,
+    193
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "把自己手臂里的刀拔出，伤口像动脉破裂般涌血后皮肤愈合留疤，并把血污的刀刃抵到她脸上",
+   "quote_anchor": "Eli tugged the blade out of his arm, blood pouring from the wound as if she’d hit an artery before the skin knit. And",
+   "range": [
+    348,
+    465
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Dol",
+   "did": "撞开 Eli 并咬住他的喉咙救下 Sydney（随后楼下传来 Eli 的枪声和 Dol 受伤的叫声）",
+   "quote_anchor": "Eli was no longer on top of her, but on the ground, Dol’s jaws locked around his",
+   "range": [
+    794,
+    874
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "撑起身体，抓起掉落的背包跑走",
+   "quote_anchor": "Sydney scrambled upright, ribs screaming and pulse pounding in her ears as she scooped up the fallen backpack and took off, even as",
+   "range": [
+    885,
+    1016
+   ],
+   "words": 23
+  },
+  {
+   "n": 5,
+   "who": "Sydney",
+   "did": "想起 Mitch 反复教她的规矩：出事就跑，不要担心他和狗",
+   "quote_anchor": "If anything happens, he’d said, you run. You don’t worry about me, or the dog, because so long",
+   "range": [
+    1114,
+    1208
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "上到二楼后发现 13 号房门开着",
+   "quote_anchor": "But then Syd hit the second floor, and halfway to their rooms she saw the door to 13 hanging open.",
+   "range": [
+    1627,
+    1725
+   ],
+   "words": 20
+  },
+  {
+   "n": 7,
+   "who": "EON agents",
+   "did": "两名持枪、面戴黑色护目镜的 EON 特工从楼梯上来",
+   "quote_anchor": "She was about to turn back the way she came when she saw two shapes coming up the stairs. EON agents, weapons drawn and faces hidden by glossy black visors.",
+   "range": [
+    1728,
+    1884
+   ],
+   "words": 30
+  },
+  {
+   "n": 8,
+   "who": "Sydney",
+   "did": "找到标着 ROOF ACCESS—EMPLOYEES ONLY 的金属门，决定换个办法",
+   "quote_anchor": "To her right, a metal door, no room number, just a sign marked ROOF ACCESS—EMPLOYEES ONLY.",
+   "range": [
+    2270,
+    2360
+   ],
+   "words": 16
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "与 Mitch 的关系：Mitch 反复给她讲“出事就跑”的规矩，她每次都点头却其实不懂",
+   "quote_anchor": "Each time he gave the same old lecture, Syd nodded like she understood, even though she didn’t. Couldn’t fathom",
+   "range": [
+    1251,
+    1362
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "与 Dol 的关系：Dol 扑上去咬住 Eli 的喉咙救她，她强烈想回头去救狗",
+   "quote_anchor": "Even now, the urge to return to Dol was overwhelming, a weight around her ankles, the",
+   "range": [
+    1403,
+    1488
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "与 Eli Ever 的关系：Eli 压住她、拿血污刀刃威胁她并逼问 Victor 的下落",
+   "quote_anchor": "“Tell me, Sydney, and I’ll make it quick. Keep lying, and I’ll—”",
+   "range": [
+    637,
+    701
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "与 EON agents 的关系：持枪的 EON 特工在楼梯上把她堵死",
+   "quote_anchor": "Two steps down, her path was blocked again by more agents coming up. She turned to find the other two still heading toward her.",
+   "range": [
+    2090,
+    2217
+   ],
+   "words": 24
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "二楼 13 号房的门开着",
+   "quote_anchor": "she saw the door to 13 hanging open.",
+   "range": [
+    1689,
+    1725
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "看见两个 EON 特工的身影上楼梯",
+   "quote_anchor": "she saw two shapes coming up the stairs. EON agents, weapons drawn and faces",
+   "range": [
+    1777,
+    1853
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "下了两级台阶后去路再次被堵住",
+   "quote_anchor": "Two steps down, her path was blocked again by more agents coming up.",
+   "range": [
+    2090,
+    2158
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "另外两名特工仍朝她逼近",
+   "quote_anchor": "She turned to find the other two still heading toward her.",
+   "range": [
+    2159,
+    2217
+   ],
+   "words": 11
+  }
+ ]
+}

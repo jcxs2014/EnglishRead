@@ -1,0 +1,199 @@
+{
+ "chapter": 96,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch96_chapter_xxvi.txt",
+ "source_len_chars": 2597,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "watched a fractured film pieced together from convoy cameras, the cameras on the agents’ fatigues, and drones pacing each van",
+   "quote_anchor": "A fractured film, pieced together from the cameras mounted on the convoy, from the ones on the fronts of the agents’ fatigues",
+   "range": [
+    124,
+    249
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Helena",
+   "did": "told Gabriel that protocol dictates that they keep moving",
+   "quote_anchor": "She looked from Gabriel to the bay of screens, where Noah exited the vehicle. “Protocol dictates that they keep moving.”",
+   "range": [
+    451,
+    571
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Helena",
+   "did": "stated that when a transport is in possession of a captured target, its first directive is to return to base intact",
+   "quote_anchor": "When a transport is in possession of a captured target, its first directive is to return to base intact.",
+   "range": [
+    753,
+    857
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "stared into the woods and then reached up and tugged his earpiece out",
+   "quote_anchor": "Gabriel watched as Eli stared into the woods, and then reached up and tugged his earpiece out.",
+   "range": [
+    1260,
+    1354
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "the yellow roadster",
+   "did": "went off like a bomb, occluding the cameras with smoke and leaving only gunfire and static",
+   "quote_anchor": "The yellow roadster obstructing Serena’s transport van went off like a bomb, smoke occluding the cameras, leaving only gunfire and static.",
+   "range": [
+    1753,
+    1891
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Eli",
+   "did": "took off running through the woods with Noah in pursuit",
+   "quote_anchor": "Eli took off running through the woods, Noah in pursuit, shouting at the EO to stop, and at Gabriel to stop him.",
+   "range": [
+    2015,
+    2127
+   ],
+   "words": 22
+  },
+  {
+   "n": 7,
+   "who": "Gabriel",
+   "did": "had had a backup comm installed in Eli’s field fatigues",
+   "quote_anchor": "He’d had a backup comm installed in Eli’s field fatigues. Just in case.",
+   "range": [
+    2159,
+    2230
+   ],
+   "words": 13
+  },
+  {
+   "n": 8,
+   "who": "Gabriel",
+   "did": "admitted he just wanted to see what happened next instead of ordering the first transport’s backup",
+   "quote_anchor": "But if Gabriel was being honest, he just wanted to see what happened next.",
+   "range": [
+    2522,
+    2596
+   ],
+   "words": 14
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Helena",
+   "did": "was the first human Gabriel had converted to express a point of view counter to his own",
+   "quote_anchor": "Helena was, after all, the first human he’d converted to express a point of view counter to his own.",
+   "range": [
+    951,
+    1051
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "resisted Gabriel, and Gabriel wondered if Eli might be the one EO who didn’t fully convert",
+   "quote_anchor": "he still found the presence, the capacity—the will—to resist. The energy it must be taking, at this point, was staggering.",
+   "range": [
+    1481,
+    1603
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Noah",
+   "did": "was pursuing Eli and shouting at the EO to stop and at Gabriel to stop him",
+   "quote_anchor": "Noah in pursuit, shouting at the EO to stop, and at Gabriel to stop him.",
+   "range": [
+    2055,
+    2127
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Helena",
+   "did": "seemed to be right, since Gabriel admitted he should have told them to keep moving",
+   "quote_anchor": "Perhaps Helena was right—he should have told them to keep moving.",
+   "range": [
+    1894,
+    1959
+   ],
+   "words": 11
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "a transport in possession of a captured target",
+   "did": "first directive is to return to base intact",
+   "quote_anchor": "When a transport is in possession of a captured target, its first directive is to return to base intact.",
+   "range": [
+    753,
+    857
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Helena",
+   "did": "the first human he’d converted to express a point of view counter to his own",
+   "quote_anchor": "Helena was, after all, the first human he’d converted to express a point of view counter to his own.",
+   "range": [
+    951,
+    1051
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "the transports",
+   "did": "the second figure descending from the van",
+   "quote_anchor": "His attention was drawn back to the second figure descending from the van.",
+   "range": [
+    1185,
+    1259
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "the transports",
+   "did": "the first transport needed backup",
+   "quote_anchor": "he might have said the first transport needed backup.",
+   "range": [
+    2466,
+    2519
+   ],
+   "words": 9
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "the one EO who didn’t fully convert",
+   "quote_anchor": "he was beginning to wonder if, somehow, Eli would be the one EO who didn’t fully—",
+   "range": [
+    1661,
+    1742
+   ],
+   "words": 16
+  }
+ ]
+}

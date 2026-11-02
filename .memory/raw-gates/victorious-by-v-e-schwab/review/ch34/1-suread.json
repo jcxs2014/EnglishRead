@@ -1,0 +1,199 @@
+{
+ "chapter": 34,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch34_chapter_iv.txt",
+ "source_len_chars": 8482,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "considered starting with Xavier Pascal, the boy he had tried to help on his first day there",
+   "quote_anchor": "He scanned his choices. Perhaps he’d start with Xavier Pascal. The boy he’d tried to help his first day there.",
+   "range": [
+    475,
+    585
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "the field agent",
+   "did": "reported that the team had acquired the target but lost two of their own",
+   "quote_anchor": "“We acquired the target,” he said. “But lost two of our own.”",
+   "range": [
+    1631,
+    1692
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Helena",
+   "did": "brought the target’s details up on her tablet, showing a young, attractive, blond woman named Jessica",
+   "quote_anchor": "As he spoke, Helena brought up the target’s details on her tablet. A woman stared back, young, attractive, and blond.",
+   "range": [
+    2143,
+    2260
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "the soldier",
+   "did": "said she stopped them with a look and killed them with a hatchet",
+   "quote_anchor": "The soldier shook his head. “She stopped them with a look. She killed them with a hatchet.”",
+   "range": [
+    2991,
+    3082
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Jessica",
+   "did": "crossed toward the cell wall toward him and called him a traitor",
+   "quote_anchor": "“A traitor,” she seethed. She crossed toward the cell wall—toward him—red eyes narrowing in anger.",
+   "range": [
+    4747,
+    4845
+   ],
+   "words": 15
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "ordered gas, and Helena opened the vents so smoke poured into the cell",
+   "quote_anchor": "“Gas,” he said softly, and Helena reached the panel in his stead. The vents opened, and smoke poured into the cell.",
+   "range": [
+    5519,
+    5634
+   ],
+   "words": 21
+  },
+  {
+   "n": 7,
+   "who": "Gabriel",
+   "did": "put his hand on the EO’s skin and dragged her back, then let go and stumbled back",
+   "quote_anchor": "On the floor, the woman gasped. Gabriel let go, and stumbled back, his hand numb and his head on fire.",
+   "range": [
+    6544,
+    6646
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Evanson",
+   "did": "shot the resurrected EO, and the right side of her head vanished into crimson mist",
+   "quote_anchor": "He dragged in a breath and looked to the stone-faced soldier who’d shot her. Evanson.",
+   "range": [
+    8095,
+    8180
+   ],
+   "words": 15
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Jessica",
+   "did": "asked Gabriel whether they know that he is like her, an EO",
+   "quote_anchor": "“Do they know?” She pitched her voice higher. “Do they know that you’re like me?” she screamed.",
+   "range": [
+    5019,
+    5114
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "Helena",
+   "did": "was Gabriel’s guard and walked in his wake",
+   "quote_anchor": "He rose and strode out of the office, Helena as always in his wake. Her guard—now his—fell in step behind them.",
+   "range": [
+    1225,
+    1336
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Dr. Gray",
+   "did": "was now the acting director, so the field agent reported to him instead of Gabriel",
+   "quote_anchor": "“Dr. Gray is now the acting director,” she said. “So you report to him.”",
+   "range": [
+    1927,
+    1999
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Evanson",
+   "did": "shot the resurrected EO to protect Gabriel, following the order Gabriel gave to every one of his conversions",
+   "quote_anchor": "Evanson. Following the order he’d given to every one of his conversions.",
+   "range": [
+    8172,
+    8244
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "EON",
+   "did": "held twenty-one EOs",
+   "quote_anchor": "There were twenty-one EOs presently in EON, up from the nineteen there’d been when he was hired",
+   "range": [
+    148,
+    243
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "EON",
+   "did": "had nineteen EOs when Gabriel was hired",
+   "quote_anchor": "up from the nineteen there’d been when he was hired (alas, none of them were Victor Vale)",
+   "range": [
+    192,
+    281
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "the field agent",
+   "did": "lost two of his own in the operation",
+   "quote_anchor": "“We acquired the target,” he said. “But lost two of our own.”",
+   "range": [
+    1631,
+    1692
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "the field agent",
+   "did": "tracked the EO to a house fifteen miles north of Merit",
+   "quote_anchor": "“We tracked the EO to a house fifteen miles north of Merit…”",
+   "range": [
+    2080,
+    2140
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "the field team",
+   "did": "came back with one soldier gone and the other sagged back against the wall",
+   "quote_anchor": "By the time Gabriel arrived, the soldiers had wrangled the new arrival into a cell. One was gone.",
+   "range": [
+    1339,
+    1436
+   ],
+   "words": 18
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "chapter": 69,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch69_chapter_xviii.txt",
+ "source_len_chars": 3929,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Malcolm",
+   "did": "stopped what he was doing in the control room long enough to notice the movement on the eleventh screen",
+   "quote_anchor": "Not for long—less than 0.3 seconds, a nearly imperceptible delay for human senses—but long enough for him to notice the movement on the eleventh screen.",
+   "range": [
+    153,
+    305
+   ],
+   "words": 25
+  },
+  {
+   "n": 2,
+   "who": "Malcolm",
+   "did": "saw the captured human Mitchell Turner regaining consciousness",
+   "quote_anchor": "Long enough to see the captured human, Mitchell Turner, regaining consciousness.",
+   "range": [
+    308,
+    388
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Malcolm",
+   "did": "diverted exactly 5 percent of his attention to the question of what to do next",
+   "quote_anchor": "Long enough to divert exactly 5 percent of his attention to the question of what to do next.",
+   "range": [
+    391,
+    483
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Malcolm",
+   "did": "considered his options with that 5 percent, including whether to notify Dr. Gray",
+   "quote_anchor": "With that 5 percent, Malcolm considered his options.",
+   "range": [
+    698,
+    750
+   ],
+   "words": 8
+  },
+  {
+   "n": 5,
+   "who": "Malcolm",
+   "did": "used interpretation rather than code, reasoning that waking was a natural evolution and not suspicious",
+   "quote_anchor": "But language made room for something code did not: interpretation.",
+   "range": [
+    1101,
+    1167
+   ],
+   "words": 10
+  },
+  {
+   "n": 6,
+   "who": "Malcolm",
+   "did": "deployed a quick sequence of code to loop the van’s holding tank footage, absolving himself of witnessing anything meriting engagement",
+   "quote_anchor": "he now deployed a quick sequence of code to loop the footage from that van’s holding tank, starting three full seconds before Mitch began to stir",
+   "range": [
+    1840,
+    1985
+   ],
+   "words": 26
+  },
+  {
+   "n": 7,
+   "who": "Malcolm",
+   "did": "smiled and continued typing, with no one in the room behind him noticing",
+   "quote_anchor": "shielding a negligible amount of processing power from the doctor’s influence (of course, what qualified for Malcolm as negligible amounted to most people’s total processing power)",
+   "range": [
+    2838,
+    3018
+   ],
+   "words": 26
+  },
+  {
+   "n": 8,
+   "who": "Malcolm",
+   "did": "held the deleted frames in his mind and saw two words flash across the inside of his eyes",
+   "quote_anchor": "Malcolm held the deleted frames in his mind, Mitchell Turner twisting against the restraints, and two words flashed across the inside of his eyes.",
+   "range": [
+    3768,
+    3914
+   ],
+   "words": 24
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Dr. Gray",
+   "did": "mistook Malcolm’s constant effort for compliance, which he should not have done",
+   "quote_anchor": "Dr. Gray mistook his constant effort for compliance.",
+   "range": [
+    2322,
+    2374
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Malcolm",
+   "did": "was bound by directives to comply with any given order and to protect EON from internal and external threats",
+   "quote_anchor": "Malcolm’s directives were to comply with any given order and to protect EON from both internal and external threats.",
+   "range": [
+    810,
+    926
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "the EON agents and the past director",
+   "did": "were, in Malcolm’s view, little more than wind-up toys running on old memory",
+   "quote_anchor": "Not the EON agents, or the past director, little more than wind-up toys running on old memory.",
+   "range": [
+    2111,
+    2205
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "was smart and human rather than an EO, which allowed Malcolm to justify treating him as no active threat",
+   "quote_anchor": "If Mitch had been an EO, Malcolm wasn’t sure he’d be able to circumnavigate his directives.",
+   "range": [
+    3319,
+    3410
+   ],
+   "words": 16
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Malcolm",
+   "did": "paused for less than 0.3 seconds before noticing the movement on the eleventh screen",
+   "quote_anchor": "but long enough for him to notice the movement on the eleventh screen.",
+   "range": [
+    235,
+    305
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Malcolm",
+   "did": "diverted exactly 5 percent of his attention to deciding what to do next",
+   "quote_anchor": "Long enough to divert exactly 5 percent of his attention to the question of what to do next.",
+   "range": [
+    391,
+    483
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Malcolm",
+   "did": "kept the remaining 95 devoted to maintaining protocols inside the base and in the field",
+   "quote_anchor": "(The remaining 95 was still devoted to maintaining protocols both inside the base and in the field.)",
+   "range": [
+    484,
+    584
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Malcolm",
+   "did": "estimated a 0.01 percent chance of a positive result from resisting Dr. Gray",
+   "quote_anchor": "Instead of resisting—which had a 0.01 percent chance of netting a positive result—Malcolm had redirected his efforts",
+   "range": [
+    2679,
+    2795
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Malcolm",
+   "did": "looped the footage starting three full seconds before Mitch began to stir",
+   "quote_anchor": "starting three full seconds before Mitch began to stir",
+   "range": [
+    1931,
+    1985
+   ],
+   "words": 9
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "chapter": 73,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch73_chapter_iii.txt",
+ "source_len_chars": 5717,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "served a pretty girl an iced latte and told her she had picked her own eyes",
+   "quote_anchor": "June smiled. “Aw, thanks!” she said. “I picked them out myself.”",
+   "range": [
+    223,
+    287
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "grazed rude customers' fingers when handing off their order, in case she ever needed a disposable corpse",
+   "quote_anchor": "whenever someone was a dick, she made sure to graze their fingers when she handed off their order",
+   "range": [
+    493,
+    590
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Max",
+   "did": "swept a hand over the table by the machines and demanded to know what the mess was",
+   "quote_anchor": "“What the hell is this?” he asked, sweeping a hand over the table by the machines, cluttered with wrong orders and ruined drinks.",
+   "range": [
+    781,
+    910
+   ],
+   "words": 23
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "blamed the machine for the mess and batted her blue eyes until Max flushed red",
+   "quote_anchor": "She batted her blue eyes. They were really pretty. Max flushed red, and said it was fine.",
+   "range": [
+    1087,
+    1176
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "grabbed a macchiato order for Jeff and ducked under the counter to go on break",
+   "quote_anchor": "June grabbed one of the to-go cups from the collection of messed-up orders—a macchiato for someone named Jeff—and ducked under the counter.",
+   "range": [
+    1221,
+    1360
+   ],
+   "words": 22
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "locked Ava in a very nice house in the woods with plenty of supplies so her power would keep working",
+   "quote_anchor": "June had still tried, opting for the latter, locking a woman—whose name was Ava—in a very nice house in the woods, with plenty of supplies.",
+   "range": [
+    2321,
+    2460
+   ],
+   "words": 25
+  },
+  {
+   "n": 7,
+   "who": "June",
+   "did": "woke in the middle of the night back in her own body, side on fire, the borrowed shape suddenly gone",
+   "quote_anchor": "Only to wake up in the middle of the night back in her own body, side on fire, the shape she’d chosen suddenly gone.",
+   "range": [
+    3643,
+    3759
+   ],
+   "words": 24
+  },
+  {
+   "n": 8,
+   "who": "June",
+   "did": "opened an encrypted app and answered a listing, and felt her spirits lift",
+   "quote_anchor": "She answered the listing, and felt her spirits lift, her focus sharpen.",
+   "range": [
+    5553,
+    5624
+   ],
+   "words": 12
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "texted June once a month since she went dark, sending only her name followed by a question mark",
+   "quote_anchor": "He’d messaged her once a month since she went dark, the texts all brief, nothing but her name followed by a question mark.",
+   "range": [
+    5082,
+    5204
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "kept her only connection to Syd instead of getting a new phone",
+   "quote_anchor": "the thought of losing her only connection to Syd had stopped her",
+   "range": [
+    5249,
+    5313
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "stashed the original owner of her borrowed body, Ava, in a house in the woods",
+   "quote_anchor": "locking a woman—whose name was Ava—in a very nice house in the woods",
+   "range": [
+    2366,
+    2434
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Max",
+   "did": "calls himself the manager of the coffee shop where June works",
+   "quote_anchor": "“May!” hollered an acne-ridden boy named Max who called himself the manager.",
+   "range": [
+    644,
+    720
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "almost a year before (how long ago she had been shot, so the wound was still fresh)",
+   "quote_anchor": "even though she’d been shot almost a year before, the gunshot wound was still fresh",
+   "range": [
+    3059,
+    3142
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "nearly two months (how long she kept the life she built from scratch)",
+   "quote_anchor": "It seemed a better plan, and she’d gotten nearly two months in, long enough to make friends, get a job, have the beginnings of a life.",
+   "range": [
+    3508,
+    3642
+   ],
+   "words": 26
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "once a month (how often he messaged June while she was dark)",
+   "quote_anchor": "He’d messaged her once a month since she went dark",
+   "range": [
+    5082,
+    5132
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "a few days (how long she had been working at the coffee shop)",
+   "quote_anchor": "She’d only been there a few days, but it was good people-watching",
+   "range": [
+    422,
+    487
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "For years (how long she had wondered what her life would have been if she had stayed human)",
+   "quote_anchor": "For years she’d wondered who she might have been, without that cataclysmic crossroads, what kind of life she would have lived, if she’d stayed human.",
+   "range": [
+    4125,
+    4274
+   ],
+   "words": 25
+  }
+ ]
+}

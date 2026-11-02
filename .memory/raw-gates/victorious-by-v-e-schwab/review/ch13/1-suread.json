@@ -1,0 +1,199 @@
+{
+ "chapter": 13,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch13_chapter_xii.txt",
+ "source_len_chars": 9368,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "hunched over the computer in the hotel suite where he and Sydney were staying",
+   "quote_anchor": "MITCH hunched over the computer in the hotel suite.",
+   "range": [
+    99,
+    150
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "asked Mitch when was the last time he slept",
+   "quote_anchor": "When’s the last time you slept?” asked Sydney, sitting cross-legged on a hotel bed with a box of Chinese takeout",
+   "range": [
+    1013,
+    1125
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "spent his nights writing programs that trawled the internet for arrest warrants, police reports and mentions of EOs or EON",
+   "quote_anchor": "his nights writing programs that trawled the internet for arrest warrants, police reports, mention of EOs or EON",
+   "range": [
+    1885,
+    1997
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "read a dark web thread in which strangers theorized about increasing their chances of surviving death",
+   "quote_anchor": "as strangers theorized, the way Victor and Eli must have once, what it would take to increase their chances",
+   "range": [
+    2974,
+    3081
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "chose the handle TurningOveraNewLeaf, clicked through to create an account on the gardening site, and found two messages waiting in his inbox",
+   "quote_anchor": "Two messages sat waiting in his inbox. The first was a generic welcome to the message boards, along with a reminder",
+   "range": [
+    4340,
+    4455
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "dialed the burner number that appeared under Victor’s handle while the shower ran",
+   "quote_anchor": "He glanced toward the bathroom door, heard the white noise of the shower running, and dialed.",
+   "range": [
+    5674,
+    5767
+   ],
+   "words": 16
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "asked Mitch to write a program that replicates his image and plants it in surveillance footage all across the country",
+   "quote_anchor": "He wanted a program that would replicate his image, and plant it in surveillance footage all across the country.",
+   "range": [
+    8452,
+    8564
+   ],
+   "words": 19
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "told Sydney the front desk had called to complain that she used all the hot water",
+   "quote_anchor": "They called to complain that you used all the hot water.",
+   "range": [
+    9192,
+    9248
+   ],
+   "words": 11
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "travels with Mitch and the dog Dol, the kid left in Mitch’s charge after Victor’s desertion",
+   "quote_anchor": "It was just Mitch, and the dog, and the kid.",
+   "range": [
+    965,
+    1009
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "is the man Mitch drove with who left the others and then contacted Mitch from hiding",
+   "quote_anchor": "Relief rolled through him, followed by anger. Anger at the other man, not for leaving, but for lying about it.",
+   "range": [
+    5853,
+    5963
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Mitchell Turner",
+   "did": "owes Victor his freedom and his help",
+   "quote_anchor": "in part because Mitch owed him something—his freedom, his help.",
+   "range": [
+    7592,
+    7655
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "is Stell’s sister, the death Mitch learned of while searching for news of EON",
+   "quote_anchor": "the loss of her sister and any chance at a normal life",
+   "range": [
+    6444,
+    6498
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "SharpenedSpade1652",
+   "did": "embeds 1652, the number of Mitch’s cell at Wrighton Penitentiary",
+   "quote_anchor": "The second was from a user with the handle SharpenedSpade1652.",
+   "range": [
+    4477,
+    4539
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "Mitch and Sydney",
+   "did": "had been on the road for nearly three months since they left Merit behind",
+   "quote_anchor": "It had been nearly three months since they left Merit behind",
+   "range": [
+    241,
+    301
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Victor’s burner number",
+   "did": "is ten digits long and appeared under Victor’s handle on the message board",
+   "quote_anchor": "Was about to type it into the chat when ten digits appeared by",
+   "range": [
+    5477,
+    5539
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "had spent the last ten years testing his luck with Victor",
+   "quote_anchor": "Mitch had spent the last ten years testing his luck.",
+   "range": [
+    7366,
+    7418
+   ],
+   "words": 10
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "had gone unheard from for three months",
+   "quote_anchor": "why they hadn’t heard from him in those three months",
+   "range": [
+    6847,
+    6899
+   ],
+   "words": 10
+  }
+ ]
+}

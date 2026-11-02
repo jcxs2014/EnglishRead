@@ -1,0 +1,210 @@
+{
+ "chapter": 17,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch17_chapter_xvi.txt",
+ "source_len_chars": 7293,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Helena Roy",
+   "did": "recalled how her predecessor let Eli Ever loose to catch Marcella Riggins",
+   "quote_anchor": "Letting an EO like Eli Ever loose, just to catch Marcella Riggins.",
+   "range": [
+    370,
+    436
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "Helena Roy",
+   "did": "spun the gala disaster into a terror attack, paid off the press and dealt with witnesses",
+   "quote_anchor": "Spinning the gala disaster into a terror attack, paying off the press, dealing with witnesses.",
+   "range": [
+    718,
+    812
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Helena Roy",
+   "did": "went to see Dr. Gray as a matter of procedure and then pivoted to offering him a job",
+   "quote_anchor": "Helena had gone to see Dr. Gray as a matter of procedure—dotting i’s and crossing t’s.",
+   "range": [
+    1431,
+    1517
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Helena Roy",
+   "did": "ordered Evanson to get her Rios, then tapped the touchscreen on her desk",
+   "quote_anchor": "“Get me Rios,” she said, addressing Evanson, who stood waiting just inside the door.",
+   "range": [
+    2347,
+    2431
+   ],
+   "words": 14
+  },
+  {
+   "n": 5,
+   "who": "Helena Roy",
+   "did": "moved the file to the wall, showing street footage of an EO leaving after the gun went off",
+   "quote_anchor": "But street footage showed an EO leaving after the gun went off, a flash of light against the curtains.",
+   "range": [
+    2689,
+    2791
+   ],
+   "words": 19
+  },
+  {
+   "n": 6,
+   "who": "Helena Roy",
+   "did": "told the field agent Lilian Rios that she was an EO posing as an EON agent",
+   "quote_anchor": "“An EO,” said Helena, drawing out the two sounds, “posing as an EON agent.”",
+   "range": [
+    5479,
+    5554
+   ],
+   "words": 14
+  },
+  {
+   "n": 7,
+   "who": "Helena Roy",
+   "did": "told Rios that Stell’s project would die with her and asked whether she would serve her",
+   "quote_anchor": "Stell’s project will die with you. Knowing that,” she concluded, spreading her hands, “will you serve me as you served him?”",
+   "range": [
+    6961,
+    7085
+   ],
+   "words": 21
+  },
+  {
+   "n": 8,
+   "who": "Helena Roy",
+   "did": "ordered Rios to bring her Victor Vale",
+   "quote_anchor": "Good enough, she thought, before pointing at the wall behind her.",
+   "range": [
+    7196,
+    7261
+   ],
+   "words": 11
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor Vale",
+   "did": "was the first EO Stell ever encountered and the reason he left the force and established EON",
+   "quote_anchor": "Vale was the first EO he’d ever encountered, the first he caught, the flashpoint of his lifelong obsession with superpowered entities.",
+   "range": [
+    2967,
+    3101
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "was an inmate whom Stell deputized to use his healing talents on behalf of EON",
+   "quote_anchor": "Following Ever’s arrest, Stell had deputized him to use his talents on behalf of EON.",
+   "range": [
+    3556,
+    3641
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Lilian Rios and Noah Harris",
+   "did": "are the ghosts and remnants of Stell’s pet project, which Helena will not expand",
+   "quote_anchor": "Agent Rios, as far as I’m concerned, you and Harris are ghosts. Remnants of a dead man’s whim, one I am choosing to honor.",
+   "range": [
+    6606,
+    6728
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "Stell",
+   "did": "was Helena’s predecessor, and his side project was never cleared by the board",
+   "quote_anchor": "One that most definitely had not been cleared by the board.",
+   "range": [
+    4945,
+    5004
+   ],
+   "words": 11
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Helena Roy",
+   "did": "gave up smoking the year before",
+   "quote_anchor": "She’d given up smoking the year before, and most of the time she could manage, but it had been a long day.",
+   "range": [
+    151,
+    257
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Stell",
+   "did": "had been dead for a few months",
+   "quote_anchor": "A long week. A few months since Stell’s death.",
+   "range": [
+    258,
+    304
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Eli Ever",
+   "did": "spent ten years hunting down and executing EOs",
+   "quote_anchor": "Ever had spent ten years hunting down and executing EOs, driven by some kind of God complex",
+   "range": [
+    3365,
+    3456
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "took a bullet to the heart six months before",
+   "quote_anchor": "Unfortunately, he’d taken a bullet to the heart six months before, and his powers hadn’t saved him.",
+   "range": [
+    3967,
+    4066
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Helena Roy’s red button",
+   "did": "one touch would lock down the building and the office",
+   "quote_anchor": "One touch, and the building would lock down.",
+   "range": [
+    6050,
+    6094
+   ],
+   "words": 8
+  },
+  {
+   "n": 6,
+   "who": "Eli Ever",
+   "did": "had a case involving the Hunter, an EO believed to be targeting other superpowered people",
+   "quote_anchor": "One of his cases had involved a figure known as the Hunter",
+   "range": [
+    3642,
+    3700
+   ],
+   "words": 12
+  }
+ ]
+}

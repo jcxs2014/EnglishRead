@@ -1,0 +1,177 @@
+{
+ "chapter": 117,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch117_chapter_vii.txt",
+ "source_len_chars": 2320,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Serena",
+   "did": "stood waiting with her hand outstretched, fingers curling from her sister toward herself",
+   "quote_anchor": "She stood there, hand outstretched, fingers curling from her sister toward herself, as if her words were still enough to will Sydney into motion.",
+   "range": [
+    69,
+    214
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "hesitated, because Serena had lost that power when she gained this new one",
+   "quote_anchor": "But she’d lost that power when she gained this new one, and Sydney hesitated.",
+   "range": [
+    217,
+    294
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Serena",
+   "did": "said “Let’s go home” again with a new edge in her voice",
+   "quote_anchor": "“Let’s go home,” Serena said again, a new edge in her voice.",
+   "range": [
+    768,
+    828
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "said she did not want to stay there and that she wanted to wake up",
+   "quote_anchor": "“But I don’t want to stay here,” she said, teeth chattering with cold. “I want to wake up.”",
+   "range": [
+    1132,
+    1223
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Serena",
+   "did": "was slammed in the back by a sudden gust and forced forward toward Sydney’s outstretched hand",
+   "quote_anchor": "A sudden gust slammed into her back, and she felt herself forced forward, toward her sister’s outstretched hand.",
+   "range": [
+    1283,
+    1395
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "hurried toward Sydney across the ice as if he had followed her straight out of her dream",
+   "quote_anchor": "She twisted around to see Mitch hurrying toward her on the ice, as if he’d followed her straight out of her dream.",
+   "range": [
+    1413,
+    1527
+   ],
+   "words": 22
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "pulled away from her sister and started running toward Mitch, the ice splintering beneath her feet",
+   "quote_anchor": "Sydney pulled away from her sister and started running toward him, the ice splintering beneath her feet, but for once, she didn’t care.",
+   "range": [
+    1701,
+    1836
+   ],
+   "words": 23
+  },
+  {
+   "n": 8,
+   "who": "Serena",
+   "did": "fired the gun as the ice beneath her shattered, and the first bullet struck Mitch squarely in the chest",
+   "quote_anchor": "she screamed, plunging down into the frigid lake as the first bullet struck Mitch squarely in the chest.",
+   "range": [
+    2215,
+    2319
+   ],
+   "words": 18
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Serena and Sydney",
+   "did": "is Sydney’s sister, came all this way to save and protect her, and Sydney says that has to count for something",
+   "quote_anchor": "Her sister had come all this way to save her. To protect her. Even if she hadn’t always, she was here now, and that had to count for something.",
+   "range": [
+    622,
+    765
+   ],
+   "words": 29
+  },
+  {
+   "n": 2,
+   "who": "Serena and Sydney",
+   "did": "lost the power to will Sydney into motion when she gained this new one, and is too powerful and too unstable to control it",
+   "quote_anchor": "But she’d lost that power when she gained this new one, and Sydney hesitated.",
+   "range": [
+    217,
+    294
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Mitch and Sydney",
+   "did": "was not a figment but real, and Sydney could tell by the sharpness of his edges and the strength of his voice",
+   "quote_anchor": "Only he wasn’t a figment. He was real. She could tell, by the sharpness of his edges, the strength of his voice",
+   "range": [
+    1528,
+    1639
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Serena and Mitch",
+   "did": "the anger that swept over Serena’s face when she saw Mitch on the ice",
+   "quote_anchor": "the anger that swept over Serena’s face when she saw him.",
+   "range": [
+    1641,
+    1698
+   ],
+   "words": 11
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Serena",
+   "did": "which bullet struck Mitch: the first bullet",
+   "quote_anchor": "she screamed, plunging down into the frigid lake as the first bullet struck Mitch squarely in the chest.",
+   "range": [
+    2215,
+    2319
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "how many times it was for her not to care: for once, she didn’t care",
+   "quote_anchor": "Sydney pulled away from her sister and started running toward him, the ice splintering beneath her feet, but for once, she didn’t care.",
+   "range": [
+    1701,
+    1836
+   ],
+   "words": 23
+  },
+  {
+   "n": 3,
+   "who": "Serena",
+   "did": "how many new powers she had gained: this new one",
+   "quote_anchor": "But she’d lost that power when she gained this new one, and Sydney hesitated.",
+   "range": [
+    217,
+    294
+   ],
+   "words": 14
+  }
+ ]
+}

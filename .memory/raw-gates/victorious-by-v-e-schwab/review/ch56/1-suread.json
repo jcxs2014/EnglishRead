@@ -1,0 +1,199 @@
+{
+ "chapter": 56,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch56_chapter_v.txt",
+ "source_len_chars": 4740,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "在房间连网失败半小时后放弃，抱着笔记本下楼回“lobby”",
+   "quote_anchor": "before he gave up, tucked the laptop under his arm, and headed back down to the “lobby.”",
+   "range": [
+    222,
+    310
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "登录园艺论坛并看到 Victor 的一条消息",
+   "quote_anchor": "he logged into the gardening forum. He was surprised to see a message from",
+   "range": [
+    892,
+    966
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "在论坛上回复 Victor：LOOKED LIKE IT. PACKED UP TO BE SAFE.",
+   "quote_anchor": "TURNINGOVERANEWLEAF: LOOKED LIKE IT. PACKED UP TO BE SAFE.",
+   "range": [
+    1183,
+    1241
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "回给 Mitch 一个电话号码，Mitch 记住号码后合上笔记本走回自己房间",
+   "quote_anchor": "Victor’s reply came in the form of a phone number, the command to call unwritten but implicit.",
+   "range": [
+    2216,
+    2310
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "motel manager",
+   "did": "喊话时中弹，子弹截断他的话，他像死物般倒下",
+   "quote_anchor": "A single whistling instant, then the man’s head snapped back, and he dropped like dead weight.",
+   "range": [
+    2843,
+    2937
+   ],
+   "words": 16
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "用肩膀撞开 12 号房的门，Dol 从他身边冲向楼梯",
+   "quote_anchor": "Mitch threw his shoulder into the door, and the cheap wood groaned, then gave way.",
+   "range": [
+    3645,
+    3727
+   ],
+   "words": 15
+  },
+  {
+   "n": 7,
+   "who": "Mitch",
+   "did": "回房从行李袋里取霰弹枪，追着 Dol 跑",
+   "quote_anchor": "The dog’s compass only pointed one way—toward Syd—so Mitch doubled back, pausing only to duck",
+   "range": [
+    3922,
+    4015
+   ],
+   "words": 15
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "在楼梯口被一记纯粹的冲力撞飞，摔下金属楼梯",
+   "quote_anchor": "he passed the nearest set of steps, a weight slammed into him. No body, just pure force, knocking him sideways,",
+   "range": [
+    4255,
+    4366
+   ],
+   "words": 20
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "与 Victor 的关系：两人在园艺论坛用匿名账号互发消息（Victor 标为 SHARPENEDSPADE1652，Mitch 标为 TURNINGOVERANEWLEAF）",
+   "quote_anchor": "TURNINGOVERANEWLEAF: LOOKED LIKE IT. PACKED UP TO BE SAFE.",
+   "range": [
+    1183,
+    1241
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "与 Syd 的关系：Syd 住 12 号房、Mitch 另住一间，他为此自责",
+   "quote_anchor": "cursing himself for giving Syd her own room, for leaving his, for",
+   "range": [
+    3386,
+    3451
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "与 Dol 的关系：听到 Dol 的叫声就朝楼梯走去，狗只朝 Syd 的方向吠",
+   "quote_anchor": "Halfway across the parking lot, he heard Dol begin to bark.",
+   "range": [
+    2551,
+    2610
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "the man on the front step",
+   "did": "与木屋前房主的关系：他称房主是他叔叔、在海外服役时去世，而房产中介说房主是想移居国外才卖房",
+   "quote_anchor": "Live abroad, those were the words they’d used—but according to the man on the front step, the owner, his uncle,",
+   "range": [
+    1947,
+    2058
+   ],
+   "words": 20
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "花了 a good half hour 试图连上信号网",
+   "quote_anchor": "Mitch spent a good half hour trying and failing to hold on to a signal before",
+   "range": [
+    151,
+    228
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "与 Victor 在过去三年里搬过家几十次",
+   "quote_anchor": "They’d uprooted dozens of times in the past three years.",
+   "range": [
+    1546,
+    1602
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "一次三级台阶地冲上楼梯",
+   "quote_anchor": "he made it to the steps, vaulted up them three at a time,",
+   "range": [
+    3328,
+    3385
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "赶到 12 号房门前砸门",
+   "quote_anchor": "He reached room number 12, and pounded on the door, but",
+   "range": [
+    3494,
+    3549
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "几秒钟后看到账号旁的灰点变绿",
+   "quote_anchor": "but seconds later, the dot beside Vale’s handle turned from gray to green. He was online.",
+   "range": [
+    1341,
+    1430
+   ],
+   "words": 16
+  }
+ ]
+}

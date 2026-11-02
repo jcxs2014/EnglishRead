@@ -1,0 +1,210 @@
+{
+ "chapter": 89,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch89_chapter_xix.txt",
+ "source_len_chars": 7203,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Dani",
+   "did": "popped the cork of the champagne and poured herself a very large glass to celebrate having hacked an EO body",
+   "quote_anchor": "Dani popped the cork and poured herself a very large glass.",
+   "range": [
+    1319,
+    1378
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "Dani",
+   "did": "opened the door and found Victor standing there with blood on the hand pressed to his side",
+   "quote_anchor": "she saw the sheen of sweat on Victor’s skin, the blood staining his hand where it was pressed against his side, his gritted teeth",
+   "range": [
+    1938,
+    2067
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "stormed past her into the house, growling that the compound doesn't work",
+   "quote_anchor": "“The compound doesn’t work,” he growled, storming past her into the house.",
+   "range": [
+    2268,
+    2342
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Dani",
+   "did": "unearthed the first aid kit and sorted through it until she found a suture set",
+   "quote_anchor": "She sorted through it until she found a suture set.",
+   "range": [
+    3899,
+    3950
+   ],
+   "words": 10
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "took the kit from her hand and stitched the cut closed without flinching when the needle pierced his skin",
+   "quote_anchor": "He didn’t even flinch when the needle pierced skin, when the thread caught on its torn edges, tugging them together.",
+   "range": [
+    4561,
+    4677
+   ],
+   "words": 20
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "told Dani how he had cornered the four men in the lot, taken down the first two, and felt the pain flare up against the third",
+   "quote_anchor": "how he had cornered the four men in the lot, how he’d taken down the first two, been testing his power against the third when the pain flared up",
+   "range": [
+    4764,
+    4908
+   ],
+   "words": 29
+  },
+  {
+   "n": 7,
+   "who": "Dani",
+   "did": "transferred the data from his heart monitor onto her laptop and scowled at the results",
+   "quote_anchor": "she transferred the data from his heart monitor onto her laptop and scowled at the results",
+   "range": [
+    5666,
+    5756
+   ],
+   "words": 16
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "left Dani's house while she was fetching blankets for the couch, and took the rest of her champagne",
+   "quote_anchor": "And he’d taken the rest of her champagne.",
+   "range": [
+    7161,
+    7202
+   ],
+   "words": 8
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor and Dani",
+   "did": "Dani had been putting time and effort into fixing Victor over the last three months; he was her experiment",
+   "quote_anchor": "given the time and effort she’d put into fixing him over the last three months",
+   "range": [
+    2186,
+    2264
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Victor and Dani",
+   "did": "Dani told Victor that the damage to his heart sets a hard limit on what his restored power can do",
+   "quote_anchor": "the damage it must have done to your heart is quite frankly hard to fathom",
+   "range": [
+    5902,
+    5976
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Dani and Jeremy",
+   "did": "Jeremy is Dani's brother, a pilot; they are not close but are all each other has left",
+   "quote_anchor": "We’re not that close, but we’re all we have left, so I’m there if he needs me, and he’s there if I need him…",
+   "range": [
+    3243,
+    3351
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "Dani and the dean",
+   "did": "the dean tanked Dani's career out of wounded pride; the champagne was a gift from the head of the chemistry department",
+   "quote_anchor": "A gift from the head of the chemistry department—not to be confused with the dean who’d tanked her career, just because she hurt his pride.",
+   "range": [
+    1096,
+    1235
+   ],
+   "words": 25
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Dani",
+   "did": "how long she had been living in the faculty house: three years",
+   "quote_anchor": "Three years she’d been living in this place, one of the many houses reserved for faculty in the blocks surrounding Lockland’s campus.",
+   "range": [
+    552,
+    685
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Dani",
+   "did": "the time she had spent fixing Victor: the last three months",
+   "quote_anchor": "given the time and effort she’d put into fixing him over the last three months",
+   "range": [
+    2186,
+    2264
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "how long he had been gone before he showed up at her door: an hour and a half",
+   "quote_anchor": "“Jesus Christ, Victor, you were gone for an hour and a half.”",
+   "range": [
+    4221,
+    4282
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Dani",
+   "did": "the number of doses of the drug she gave Victor: one",
+   "quote_anchor": "Which is why I didn’t give you more than one dose.",
+   "range": [
+    5198,
+    5248
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "the thieves",
+   "did": "the number of men Victor cornered in the lot: four",
+   "quote_anchor": "how he had cornered the four men in the lot, how he’d taken down the first two",
+   "range": [
+    4764,
+    4842
+   ],
+   "words": 17
+  },
+  {
+   "n": 6,
+   "who": "the thieves",
+   "did": "the number of the men Victor took down before testing his power on the third: the first two",
+   "quote_anchor": "how he’d taken down the first two, been testing his power against the third when the pain flared up",
+   "range": [
+    4809,
+    4908
+   ],
+   "words": 19
+  }
+ ]
+}

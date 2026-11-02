@@ -1,0 +1,199 @@
+{
+ "chapter": 76,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch76_chapter_vi.txt",
+ "source_len_chars": 4311,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "made his way across the shuttered park toward Sydney",
+   "quote_anchor": "VICTOR made his way across the shuttered park.",
+   "range": [
+    89,
+    135
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "drew the small disc from his pocket, breathed in on the inhaler, and the cartridge flared violet instead of blue",
+   "quote_anchor": "As he brought the inhaler to his lips and breathed in, the cartridge flared with light, the contents no longer glowing blue, but violet.",
+   "range": [
+    1288,
+    1424
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "reported “In position.” over the comm and said “I see you.”",
+   "quote_anchor": "“In position.” Mitch’s voice was gravelly with static. “I see you.”",
+   "range": [
+    1612,
+    1679
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "stumbled off-balance in a sudden sideways gust of wind, cutting Mitch’s voice off on the comm",
+   "quote_anchor": "Mitch’s voice suddenly cut out as Victor stumbled, knocked off-balance by a sudden, sideways gust of wind.",
+   "range": [
+    1880,
+    1986
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "sank into his seat, set down his books and struck through unsalvageable phrases with a marker in his parents’ latest self-help book",
+   "quote_anchor": "He scanned the remaining lines and twirled the marker absently, searching for something worth saving.",
+   "range": [
+    2595,
+    2696
+   ],
+   "words": 15
+  },
+  {
+   "n": 6,
+   "who": "Eli",
+   "did": "clapped Victor on the shoulder from behind and dropped into the seat beside him",
+   "quote_anchor": "A moment later, a body hopped over the row of seats, and dropped into the seat beside him.",
+   "range": [
+    2803,
+    2893
+   ],
+   "words": 18
+  },
+  {
+   "n": 7,
+   "who": "Eli",
+   "did": "answered that it was thesis day, his smile tipping into a knowing smirk",
+   "quote_anchor": "Eli’s smile tipped into a knowing smirk. “Thesis day.”",
+   "range": [
+    3576,
+    3630
+   ],
+   "words": 9
+  },
+  {
+   "n": 8,
+   "who": "Eli",
+   "did": "revealed his thesis topic, saying the word “EOs.”",
+   "quote_anchor": "He watched the mask slip from Eli’s face, the light sharpen behind his eyes, the rest of the room blurring",
+   "range": [
+    4137,
+    4243
+   ],
+   "words": 20
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "felt connected to Sydney by the thread she caught hold of and never dropped, a compass pointing not to north but her",
+   "quote_anchor": "but the truth was, he felt it, too. A compass pointing not to north, but her.",
+   "range": [
+    394,
+    471
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "vowed that if anyone hurt Sydney he would hurt them first",
+   "quote_anchor": "No one is going to hurt you. Do you know why? Because I’ll hurt them first.",
+   "range": [
+    686,
+    761
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "is Eli’s best friend; they had spent every day together since Cardale showed up in his room",
+   "quote_anchor": "they’d spent every day together for the last two years, since Cardale showed up in his room a month into sophomore year.",
+   "range": [
+    2929,
+    3049
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "gave Victor overwatch on the comm, telling him he was heading in the right direction",
+   "quote_anchor": "“Not yet. But I can see the ride.” A pause, a grunt, the shifting of weight. “You’re heading in the right direction. Just—”",
+   "range": [
+    1754,
+    1877
+   ],
+   "words": 23
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "three years",
+   "quote_anchor": "For the last three years, as Victor wove back and forth across the country, he’d done his best to ignore the subtle pull.",
+   "range": [
+    474,
+    595
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Victor and Eli",
+   "did": "two years",
+   "quote_anchor": "they’d spent every day together for the last two years, since Cardale showed up in his room",
+   "range": [
+    2929,
+    3020
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Cardale",
+   "did": "a month into sophomore year",
+   "quote_anchor": "since Cardale showed up in his room a month into sophomore year",
+   "range": [
+    2985,
+    3048
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "weeks",
+   "quote_anchor": "Victor had had his staked out for weeks—adrenal function under stress—and Eli knew it",
+   "range": [
+    3633,
+    3718
+   ],
+   "words": 14
+  },
+  {
+   "n": 5,
+   "who": "Victor’s parents’ self-help book",
+   "did": "halfway down the page",
+   "quote_anchor": "his parents’ latest self-help reduced to a wall of black that ended halfway down the page",
+   "range": [
+    2504,
+    2593
+   ],
+   "words": 16
+  }
+ ]
+}

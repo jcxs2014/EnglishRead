@@ -1,0 +1,166 @@
+{
+ "chapter": 115,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch115_chapter_v.txt",
+ "source_len_chars": 2607,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "came to inside a film she did not remember watching, the picture gone and replaced by tinny music",
+   "quote_anchor": "SYDNEY didn’t remember watching the film, but time must have skipped, because the picture was gone, replaced by tinny music",
+   "range": [
+    37,
+    160
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "patted Sydney’s feet and asked whether she wanted to make it a double feature",
+   "quote_anchor": "Mitch patted her feet and said, “What do you think, Syd? Want to make it a double feature?”",
+   "range": [
+    334,
+    425
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "forced herself to sit up, declared she had to go and headed for the door",
+   "quote_anchor": "“I have to go,” she declared, heading for the door.",
+   "range": [
+    899,
+    950
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "sat forward in his chair and asked where she was going",
+   "quote_anchor": "Victor sat forward in his chair. “Where are you going, Syd?”",
+   "range": [
+    953,
+    1013
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "Sydney",
+   "did": "pushed the door open and started down the hall while frost began to climb the walls",
+   "quote_anchor": "As she pushed it open, and started down the hall, frost began to climb the walls.",
+   "range": [
+    1528,
+    1609
+   ],
+   "words": 16
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "felt her shoes slip on the ice and understood exactly where she was",
+   "quote_anchor": "But then her shoes slipped a little, and she understood exactly where she was.",
+   "range": [
+    1853,
+    1931
+   ],
+   "words": 14
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "saw Serena standing on the frozen lake with her back to her, staring through the fog at the house on the distant bank",
+   "quote_anchor": "she saw Serena standing there, blond hair loose and blowing in the breeze, her back to Sydney as she stared through the fog",
+   "range": [
+    2154,
+    2277
+   ],
+   "words": 23
+  },
+  {
+   "n": 8,
+   "who": "Serena",
+   "did": "turned, smiled and held out her hand to Sydney, telling her to come home",
+   "quote_anchor": "“There you are,” she said, holding out her hand for Syd. “Come on, let’s go home.”",
+   "range": [
+    2524,
+    2606
+   ],
+   "words": 16
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Serena and Sydney",
+   "did": "stands as Sydney’s sister and her shadow, smiling the way she always does when she is getting what she wants",
+   "quote_anchor": "Serena turned, and smiled, the way she always did when she was getting exactly what she wanted. Her sister. Her shadow.",
+   "range": [
+    2402,
+    2521
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "Victor and Sydney",
+   "did": "asks where Sydney is going, and she will not trust herself to answer him or to turn and look at him",
+   "quote_anchor": "She didn’t trust herself to answer, knew that if she turned to look at him, she’d lose her nerve. She’d want to stay. And she couldn’t.",
+   "range": [
+    1016,
+    1151
+   ],
+   "words": 26
+  },
+  {
+   "n": 3,
+   "who": "Mitch and Sydney",
+   "did": "pats Sydney’s feet and offers to make the film a double feature",
+   "quote_anchor": "Mitch patted her feet and said, “What do you think, Syd? Want to make it a double feature?”",
+   "range": [
+    334,
+    425
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Dol and Sydney",
+   "did": "does not get up when she does and does not follow her across the room, which makes leaving easier",
+   "quote_anchor": "Dol didn’t get up when she did, didn’t follow her across the room, and that made it easier.",
+   "range": [
+    1293,
+    1384
+   ],
+   "words": 18
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "how many features the film would become at his offer: a double feature",
+   "quote_anchor": "Mitch patted her feet and said, “What do you think, Syd? Want to make it a double feature?”",
+   "range": [
+    334,
+    425
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "the old-fashioned card at the end of the film",
+   "did": "what the card read: The End",
+   "quote_anchor": "because the picture was gone, replaced by tinny music, and an old-fashioned card that read The End.",
+   "range": [
+    107,
+    206
+   ],
+   "words": 17
+  }
+ ]
+}

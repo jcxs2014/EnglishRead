@@ -1,0 +1,177 @@
+{
+ "chapter": 105,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch105_chapter_xxxv.txt",
+ "source_len_chars": 2278,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "stood in his office as the world shuddered and stabilized instead of disappearing",
+   "quote_anchor": "It shuddered briefly, like a camera losing focus, but when it stabilized a moment later, he was still standing in his office",
+   "range": [
+    97,
+    221
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "walked toward the door and saw the room flicker to reveal shattered glass, Helena's blood and ash",
+   "quote_anchor": "revealing momentary glimpses of an altered room—a shattered glass, Helena’s blood, and ash, the furniture askew—before regaining its composure.",
+   "range": [
+    432,
+    575
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "realized he was inside Serena's sphere of influence, in a dream of his and her own making",
+   "quote_anchor": "That despite appearances, he was indeed inside Serena’s sphere of influence. A dream of his—and her—own making.",
+   "range": [
+    640,
+    751
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "limped into the hall and found Noah lying dead",
+   "quote_anchor": "There his good mood guttered when he found Noah lying dead.",
+   "range": [
+    1206,
+    1265
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "found several agents blindly wandering under Serena's fog and could not wrest them back",
+   "quote_anchor": "He found several agents blindly wandering, rendered useless by Serena’s fog. He tried to wrest them back, will them into doing as he said, to no effect.",
+   "range": [
+    1585,
+    1737
+   ],
+   "words": 27
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "freed a tablet from an agent's hand, ordered Control to lock the building down, and got no answer",
+   "quote_anchor": "He freed a tablet from an agent’s hand and ordered Control to lock the building down. Was annoyed but unsurprised when no one answered.",
+   "range": [
+    1804,
+    1939
+   ],
+   "words": 24
+  },
+  {
+   "n": 7,
+   "who": "Gabriel",
+   "did": "scanned the cameras with the tablet and located Sydney and Serena",
+   "quote_anchor": "Using the device to scan the cameras, he located Sydney and Serena, and he was about to head toward them",
+   "range": [
+    1940,
+    2044
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Gabriel",
+   "did": "saw a red pickup drive through the gates on a motion-activated camera, changed plans, drew a knife from the agent's belt and went to find Eli",
+   "quote_anchor": "One of the external, motion-activated cameras showed a red pickup driving through the gates. Change of plans, thought Gabriel.",
+   "range": [
+    2089,
+    2215
+   ],
+   "words": 19
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Gabriel and Serena",
+   "did": "Gabriel was inside Serena's sphere of influence, in a dream of their own making",
+   "quote_anchor": "he was indeed inside Serena’s sphere of influence. A dream of his—and her—own making.",
+   "range": [
+    666,
+    751
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Gabriel and Noah",
+   "did": "Gabriel found Noah's dead body in the hall, excised from his dream except in fragments when pain shot up his leg",
+   "quote_anchor": "It lay there in reality, but had been neatly excised from his dream, the body only visible in fragments, when the pain shot up his injured leg.",
+   "range": [
+    1298,
+    1441
+   ],
+   "words": 27
+  },
+  {
+   "n": 3,
+   "who": "Gabriel and Control",
+   "did": "Gabriel ordered Control to lock the building down and no one answered him",
+   "quote_anchor": "Was annoyed but unsurprised when no one answered.",
+   "range": [
+    1890,
+    1939
+   ],
+   "words": 8
+  },
+  {
+   "n": 4,
+   "who": "Gabriel and Eli",
+   "did": "Gabriel drew a knife and went to find Eli",
+   "quote_anchor": "He drew a knife from the agent’s belt and went to find Eli.",
+   "range": [
+    2218,
+    2277
+   ],
+   "words": 13
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the agents wandering the hall",
+   "did": "the number of agents Gabriel found wandering: several",
+   "quote_anchor": "He found several agents blindly wandering, rendered useless by Serena’s fog.",
+   "range": [
+    1585,
+    1661
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "the external cameras",
+   "did": "the number of cameras that showed the red pickup: One",
+   "quote_anchor": "One of the external, motion-activated cameras showed a red pickup driving through the gates.",
+   "range": [
+    2089,
+    2181
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "the room around Gabriel",
+   "did": "how often it flickered as he moved: every step",
+   "quote_anchor": "With every step, the room around him flickered, revealing momentary glimpses of an altered room",
+   "range": [
+    384,
+    479
+   ],
+   "words": 15
+  }
+ ]
+}

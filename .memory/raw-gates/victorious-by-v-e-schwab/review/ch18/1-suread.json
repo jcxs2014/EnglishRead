@@ -1,0 +1,210 @@
+{
+ "chapter": 18,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch18_chapter_xvii.txt",
+ "source_len_chars": 11132,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mr. Fontaine",
+   "did": "bent over the rack of glass vials and added drops of viscous amber liquid from a thin pipette",
+   "quote_anchor": "Glass vials rattled in their rack as he bent over them, adding drops of viscous amber liquid from a thin pipette.",
+   "range": [
+    114,
+    227
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "Victor Vale",
+   "did": "told Mr. Fontaine he could and would make the compound, with a gun hanging from his fingers",
+   "quote_anchor": "What matters, Mr. Fontaine, is that you can do this. And you will…”",
+   "range": [
+    1388,
+    1455
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Victor Vale",
+   "did": "told Mr. Fontaine to put the pocketed ampule back and finish the compound",
+   "quote_anchor": "“Mr. Fontaine,” he said evenly, “for your health, and mine, I would encourage you to put that back, and finish the compound.”",
+   "range": [
+    1982,
+    2107
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Victor Vale",
+   "did": "slotted the finished vial into his device, inhaled it and had his power cut off",
+   "quote_anchor": "The drug hit his lungs, and within moments, his pulse slowed, and his senses dulled, his power cut off like a switch",
+   "range": [
+    4486,
+    4602
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "Xavi Pascal",
+   "did": "took the chemist’s hand and rewound his mind, leaving his face blank",
+   "quote_anchor": "as Xavi’s fingers tensed around the chemist’s hand, the man’s limbs went stiff, and his face went blank",
+   "range": [
+    5401,
+    5504
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Victor Vale",
+   "did": "burned the scrap paper with the formula over a Bunsen burner",
+   "quote_anchor": "Victor lit a Bunsen burner, and held the scrap paper over it, watching the formula burn.",
+   "range": [
+    5753,
+    5841
+   ],
+   "words": 16
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "appeared in the middle of the empty street and fired at Victor, then was gone",
+   "quote_anchor": "He blinked, the shot still ringing through his ears, but Sydney was gone.",
+   "range": [
+    9094,
+    9167
+   ],
+   "words": 13
+  },
+  {
+   "n": 8,
+   "who": "Victor Vale",
+   "did": "caught Xavi’s wrist and shoved him away for touching him",
+   "quote_anchor": "“What did I tell you about touching me?” said Victor, shoving him away.",
+   "range": [
+    9508,
+    9579
+   ],
+   "words": 13
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "is the girl Victor met on the day they met, wearing the rainbow leggings he scrounged up for her",
+   "quote_anchor": "She was dressed in those old rainbow leggings, the ones he’d scrounged up for her the day they met.",
+   "range": [
+    8324,
+    8423
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Xavi Pascal",
+   "did": "is the runaway EO Victor pays to erase minds for him",
+   "quote_anchor": "The whole point of paying Xavier was to ensure he didn’t.",
+   "range": [
+    7799,
+    7856
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "is a voice that burrows under Victor’s skin",
+   "quote_anchor": "It was a voice that burrowed under his skin. Eli.",
+   "range": [
+    3587,
+    3636
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "Mr. Fontaine",
+   "did": "is the chemist left standing like a sleepwalker where Xavi had left him",
+   "quote_anchor": "The chemist stood like a sleepwalker where Xavi had left him, swaying on his feet.",
+   "range": [
+    6032,
+    6114
+   ],
+   "words": 15
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Xavi Pascal",
+   "did": "is seventeen years old",
+   "quote_anchor": "At seventeen, Xavier—Xavi—Pascal had a mop of dark curls",
+   "range": [
+    565,
+    621
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Mr. Fontaine",
+   "did": "said he would need a week to make the compound",
+   "quote_anchor": "I don’t have the supplies, and even if I did. I’ve never seen this formula before. If I had a week, maybe—",
+   "range": [
+    984,
+    1090
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "The nesting article",
+   "did": "was whittled down to six words",
+   "quote_anchor": "creative ideas for how to amuse yourself indoors—down to six words:",
+   "range": [
+    2410,
+    2477
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Victor Vale’s last dose",
+   "did": "wore off more than two hours ago",
+   "quote_anchor": "His last dose had worn off more than two hours ago, his senses flaring as the drug’s efficacy failed.",
+   "range": [
+    3021,
+    3122
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "Victor Vale’s window of power",
+   "did": "was two hours, down from four, and was narrowing",
+   "quote_anchor": "Two hours—that’s how long he’d been whole. It used to be four, but as he suspected, the window was narrowing",
+   "range": [
+    3125,
+    3233
+   ],
+   "words": 20
+  },
+  {
+   "n": 6,
+   "who": "Xavi Pascal",
+   "did": "had never rewound somebody more than once",
+   "quote_anchor": "I mean, I’ve never rewound somebody more than once. Maybe there’s a limit…",
+   "range": [
+    6867,
+    6941
+   ],
+   "words": 13
+  }
+ ]
+}

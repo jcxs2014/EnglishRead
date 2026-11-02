@@ -1,0 +1,199 @@
+{
+ "chapter": 26,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch26_chapter_vii.txt",
+ "source_len_chars": 7991,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "stepped into a dive bar as a brunette with a cropped cut and a boyish build",
+   "quote_anchor": "She was a brunette now, slender with a boyish build. Short hair, straight back, small tits.",
+   "range": [
+    113,
+    204
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "scanned the bar and found Rios sitting at the high-top in the far corner, her back to the wall",
+   "quote_anchor": "scanned the room, until she found who she was looking for—the woman sitting at the high-top in the far corner",
+   "range": [
+    817,
+    926
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "told Rios she was on leave until next week and had been thinking of getting out",
+   "quote_anchor": "“Till next week,” said June. “But truth be told,” she added, picking at the label on her bottle, “I’ve been thinking of getting out.”",
+   "range": [
+    2325,
+    2458
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "pinned Rios’s gun to the table before the ex-soldier could fire",
+   "quote_anchor": "By the time Rios drew her gun, June had it pinned to the table, beers rattling from the force.",
+   "range": [
+    3788,
+    3882
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "lifted her hand off Rios’s gun and told Rios not to harm the person she was wearing",
+   "quote_anchor": "Then, slowly, she lifted her hand from the gun. Rios slid it off the table.",
+   "range": [
+    4189,
+    4264
+   ],
+   "words": 15
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "asked Rios how she squares working at EON",
+   "quote_anchor": "“You do know what the E in EON stands for, right? So I guess I want to know, how do you square it?”",
+   "range": [
+    5171,
+    5270
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "June",
+   "did": "claimed she can become anyone she has met or touched, so long as they are still alive, and changed faces twice while saying it",
+   "quote_anchor": "“Anyone I’ve met, so long as they’re still alive.” She sat forward, and as she did, she traded the neighbor for a blandly handsome white guy.",
+   "range": [
+    6709,
+    6850
+   ],
+   "words": 26
+  },
+  {
+   "n": 8,
+   "who": "June",
+   "did": "set a queen of spades with her number scrawled over the crown on the table and left the bar",
+   "quote_anchor": "She set a playing card on the table, a queen of spades, her number scrawled over the crown.",
+   "range": [
+    7324,
+    7415
+   ],
+   "words": 18
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Rios",
+   "did": "greeted June as Leigh, the friend whose body June was wearing, and put an arm around her shoulders",
+   "quote_anchor": "The woman looked up, her stern features cracking into a grin. “Leigh,” she said, rising to throw an arm around June’s borrowed shoulders.",
+   "range": [
+    1053,
+    1190
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Rios",
+   "did": "compared her work at Biohub Advance with her soldier days: fewer roadside bombs but plenty of headaches",
+   "quote_anchor": "Rios shrugged. “Less roadside bombs. Still plenty of headaches.”",
+   "range": [
+    1671,
+    1735
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Rios",
+   "did": "said EON keeps the world safe from people like June",
+   "quote_anchor": "“Because it keeps the world safe from people like you.”",
+   "range": [
+    5273,
+    5328
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "wore the body of Hugh, a middle-aged Black man and Rios’s upstairs neighbor, in front of Rios",
+   "quote_anchor": "June shrugged. “Fair.” She rolled her head on her neck, and as she did, she traded Leigh for Rios’s upstairs neighbor, Hugh, a middle-aged Black guy with graying hair.",
+   "range": [
+    5403,
+    5570
+   ],
+   "words": 29
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "entered the bar an hour after the hotel job",
+   "quote_anchor": "THE woman who stepped into the bar an hour later was no longer blond.",
+   "range": [
+    41,
+    110
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "said it had been closer to two years since she saw Rios",
+   "quote_anchor": "“Closer to two,” June answered, grateful that Leigh kept tabs on things like that.",
+   "range": [
+    1287,
+    1369
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "the dive bar",
+   "did": "had four separate games playing on mute",
+   "quote_anchor": "From the sticky floors to the trinkets plastering the walls to the four separate games playing on mute, the place was crowded, and raucous, and right up June’s alley.",
+   "range": [
+    495,
+    661
+   ],
+   "words": 29
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "claimed she had more than nine lives",
+   "quote_anchor": "“Yes, well, lucky for me, I’ve got more than nine lives.",
+   "range": [
+    4776,
+    4832
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "Rios",
+   "did": "said there were a million better places than EON to work",
+   "quote_anchor": "Rios hesitated. Shook her head. “There are a million better places.”",
+   "range": [
+    2660,
+    2728
+   ],
+   "words": 11
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "chapter": 6,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch06_chapter_v.txt",
+ "source_len_chars": 6155,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitchell Turner",
+   "did": "在结局前一周（1 WEEK BEFORE THE END）、SEVERAL STATES AWAY 的小木屋旁用斧子劈开木柴并把木柴扔上堆",
+   "quote_anchor": "The wood split and tumbled off the block, and Mitchell Turner tossed the logs onto the growing pile.",
+   "range": [
+    114,
+    214
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Mitchell Turner",
+   "did": "gathered half a dozen logs and set off toward the little red cabin",
+   "quote_anchor": "He gathered half a dozen logs and set off toward the little red cabin.",
+   "range": [
+    816,
+    886
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Mitchell Turner",
+   "did": "called for Syd, dropped the wood onto the rug when she did not answer, and called for Sydney again",
+   "quote_anchor": "When she didn’t answer, the peace he’d felt outside began to falter. He dropped the wood onto the rug.",
+   "range": [
+    1433,
+    1535
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Mitchell Turner",
+   "did": "told Sydney to keep the decibels down when he is not in the house",
+   "quote_anchor": "“Keep the decibels down when I’m not in the house. If there’s trouble, you need to be able to hear it.”",
+   "range": [
+    2696,
+    2799
+   ],
+   "words": 21
+  },
+  {
+   "n": 5,
+   "who": "Sydney Clarke",
+   "did": "said Dol would let her know, and the black shape under the table coalesced into a massive black dog",
+   "quote_anchor": "As if on cue, the shape beneath the table stirred, and straightened, coalescing into a massive black dog.",
+   "range": [
+    2846,
+    2951
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Sydney Clarke",
+   "did": "blacked out the rest of the library textbook instead of only highlighting the useful passages",
+   "quote_anchor": "Tensed when he saw she wasn’t just highlighting the useful passages. She was blacking out the rest.",
+   "range": [
+    3449,
+    3548
+   ],
+   "words": 17
+  },
+  {
+   "n": 7,
+   "who": "Mitchell Turner",
+   "did": "shuffled the pack of playing cards until he found the queen of spades and offered it like an offering",
+   "quote_anchor": "He shuffled until he found a queen of spades and held it like an offering.",
+   "range": [
+    4941,
+    5015
+   ],
+   "words": 15
+  },
+  {
+   "n": 8,
+   "who": "Sydney Clarke",
+   "did": "shook her head and refused to go, saying she was good",
+   "quote_anchor": "But this one shook her head, her focus squarely on the book. “I’m good.”",
+   "range": [
+    5089,
+    5161
+   ],
+   "words": 14
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitchell Turner",
+   "did": "是 Sydney Clarke 的父亲/养父：她用 “Dad” 逗他，他叫她 “boss”",
+   "quote_anchor": "She rolled her eyes, but her mouth twitched. “Sure, Dad.”",
+   "range": [
+    4292,
+    4349
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "Sydney Clarke",
+   "did": "把狗 Dol 从死里带回来，已经 Twice（两次）",
+   "quote_anchor": "Which might have had something to do with the fact Sydney had brought the dog back from the dead.",
+   "range": [
+    3285,
+    3382
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Mitchell Turner",
+   "did": "与 Victor 是同伴；Syd 打黑字涂书的做法让他想起 Victor 抹掉一首诗",
+   "quote_anchor": "She was blacking out the rest. Like Victor used to. Only, instead of a poem, all that remained were words like carbon-containing compounds",
+   "range": [
+    3518,
+    3656
+   ],
+   "words": 23
+  },
+  {
+   "n": 4,
+   "who": "Mitchell Turner",
+   "did": "和 Sydney 一起躲藏；希望她学 coding computers 而不是像他那样跟着他的脚步学医",
+   "quote_anchor": "Mitch sighed. “Right,” he said, wishing she’d taken an interest in coding computers instead of people. Followed in his footsteps, instead of Victor’s.",
+   "range": [
+    4077,
+    4227
+   ],
+   "words": 23
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitchell Turner",
+   "did": "斧子把木头劈开并陷进下面的木墩 half an inch",
+   "quote_anchor": "Mitch brought the axe down again, eliciting a crack like a peal of thunder as the blade split the wood and buried itself half an inch in the block beneath.",
+   "range": [
+    660,
+    815
+   ],
+   "words": 30
+  },
+  {
+   "n": 2,
+   "who": "Mitchell Turner",
+   "did": "小木屋是过去 three years 里收集又抛弃的一系列 lodgings 之一",
+   "quote_anchor": "The cabin—it was the latest in a string of lodgings collected and abandoned over the last three years, some lasting months, others only weeks.",
+   "range": [
+    889,
+    1031
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Mitchell Turner",
+   "did": "这一处木屋住了 almost a year，足够看完四季变换",
+   "quote_anchor": "This one had held for almost a year. Long enough to watch the seasons change, the woods behind the house going from bare to green to gold to bare again.",
+   "range": [
+    1032,
+    1184
+   ],
+   "words": 30
+  },
+  {
+   "n": 4,
+   "who": "Mitchell Turner",
+   "did": "他没想到自己过了 thirty years 才知道雪的气味",
+   "quote_anchor": "Today, the air smelled like snow, and Mitch couldn’t believe he’d gone thirty years without knowing that scent.",
+   "range": [
+    1185,
+    1296
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Mitchell Turner",
+   "did": "自 Sydney 走进他生活那天起已 nearly a decade，他一直等着世界崩塌",
+   "quote_anchor": "Every day since the girl had walked into his life, nearly a decade before, some part of Mitchell Turner had been waiting for the world—his world—to fall apart.",
+   "range": [
+    1613,
+    1772
+   ],
+   "words": 28
+  },
+  {
+   "n": 6,
+   "who": "Sydney Clarke",
+   "did": "她其实离 twenty-first birthday 只差一个月",
+   "quote_anchor": "That in truth, she was a month shy of her twenty-first birthday.",
+   "range": [
+    5341,
+    5405
+   ],
+   "words": 12
+  }
+ ]
+}

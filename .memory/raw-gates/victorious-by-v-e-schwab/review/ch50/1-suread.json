@@ -1,0 +1,188 @@
+{
+ "chapter": 50,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch50_chapter_v.txt",
+ "source_len_chars": 7722,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "told Eli that an EO killed his family and nearly killed him",
+   "quote_anchor": "“Almost three years ago, an EO killed my family,” he said. “And nearly killed me.”",
+   "range": [
+    854,
+    936
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "said EOs are a puzzle he is determined to solve, and that he needs as many pieces as possible",
+   "quote_anchor": "“EOs are a puzzle,” he said, “One I’m determined to solve. To do that, I need as many pieces as possible.",
+   "range": [
+    1323,
+    1428
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "led Eli through a sealed door into a cavernous space holding a cell",
+   "quote_anchor": "Gabriel led him through a sealed door, and into a cavernous space.",
+   "range": [
+    3626,
+    3692
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Xavi",
+   "did": "paced frantically in the cell, clawing at his hair and muttering that he cannot remember",
+   "quote_anchor": "A teenage boy paced frantically, hands clawing at hair. He muttered to himself, the words amplified by the speakers outside the cell.",
+   "range": [
+    4051,
+    4184
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "Helena",
+   "did": "said she moved the boy to the holding cell when he started breaking things",
+   "quote_anchor": "“I moved him to the holding cell when he started breaking things.”",
+   "range": [
+    4447,
+    4513
+   ],
+   "words": 12
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "put his palm on Xavi’s head and made him crumble to ash",
+   "quote_anchor": "Gabriel’s hand dropped through Xavi’s head as it collapsed.",
+   "range": [
+    5759,
+    5818
+   ],
+   "words": 9
+  },
+  {
+   "n": 7,
+   "who": "Gabriel",
+   "did": "laid a hand on Eli’s shoulder and told him that EOs who have served their purpose no longer belong",
+   "quote_anchor": "“But once I’ve learned everything I can, once they’ve served their purpose, well … we both know where EOs belong.”",
+   "range": [
+    6567,
+    6681
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Eli Ever",
+   "did": "resolved to put Gabriel in the ground after watching Xavi destroyed",
+   "quote_anchor": "And Eli would put him in the ground.",
+   "range": [
+    7621,
+    7657
+   ],
+   "words": 8
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli Ever",
+   "did": "is bound to Gabriel by an invisible cord and fights to push him back",
+   "quote_anchor": "The cord drew taut as he fought to push Gabriel back. A waste of energy. For both of them.",
+   "range": [
+    1932,
+    2022
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "is Gabriel’s opposite in method — Eli kills EOs while Gabriel brings them back",
+   "quote_anchor": "“I doubt it,” muttered Eli, “seeing as I kill EOs. And you bring them back.”",
+   "range": [
+    2167,
+    2243
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "destroyed his patient Xavi with his touch, turning him back to ash",
+   "quote_anchor": "Eli watched, in fascination and in horror, as the one EO, flesh and blood moments before, crumbled to ash beneath the other’s touch.",
+   "range": [
+    5821,
+    5953
+   ],
+   "words": 23
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "is the one who took over from Helena in the cell",
+   "quote_anchor": "“Thank you, Helena,” he said, pushing down his sleeves, only to roll them up again, as if readying himself. “I’ll take it from here.”",
+   "range": [
+    4632,
+    4765
+   ],
+   "words": 24
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the EO who killed Gabriel’s family",
+   "did": "did it Almost three years ago",
+   "quote_anchor": "“Almost three years ago, an EO killed my family,” he said.",
+   "range": [
+    854,
+    912
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "the guards posted in the large dark space",
+   "did": "numbered four",
+   "quote_anchor": "It was a cube of plexiglass and steel sitting in the center of a large, dark space, four guards up against the walls.",
+   "range": [
+    3805,
+    3922
+   ],
+   "words": 23
+  },
+  {
+   "n": 3,
+   "who": "the guards who flanked Gabriel when he entered the cell",
+   "did": "were a pair of guards",
+   "quote_anchor": "Eli watched as Gabriel entered, flanked by a pair of guards.",
+   "range": [
+    4768,
+    4828
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "moved through EON unguarded and alone for the first time",
+   "quote_anchor": "For the first time, he moved through EON unguarded. Alone. But he didn’t try to run.",
+   "range": [
+    6979,
+    7063
+   ],
+   "words": 16
+  }
+ ]
+}

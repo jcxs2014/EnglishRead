@@ -1,0 +1,210 @@
+{
+ "chapter": 52,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch52_chapter_i.txt",
+ "source_len_chars": 8487,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "把红色皮卡开进汽车旅馆的停车场",
+   "quote_anchor": "THE red pickup pulled into the motel lot well after midnight.",
+   "range": [
+    91,
+    152
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "把手放在 Syd 的肩上，轻轻把她摇醒",
+   "quote_anchor": "He sighed and laid a hand on her shoulder.",
+   "range": [
+    751,
+    793
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "走进办公室向旅馆经理登记入住",
+   "quote_anchor": "“Checking in,” said Mitch, unable to think of another reason he’d be standing there at 1 a.m.",
+   "range": [
+    2704,
+    2797
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "要了两间相邻的房间",
+   "quote_anchor": "“Two,” he said. “If you can put them side by side.”",
+   "range": [
+    3117,
+    3168
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "用现金付了房费，出门时从宣传车上的小册子里抽了一本",
+   "quote_anchor": "He paid cash, and turned to go, but not before noticing the NO DOGS sign beside the door",
+   "range": [
+    4775,
+    4863
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "从外套口袋里摸出黑色药片，倒一片在掌心干吞下去",
+   "quote_anchor": "He dug the pills from his coat pocket, tapped one into his palm and swallowed dry.",
+   "range": [
+    5092,
+    5174
+   ],
+   "words": 16
+  },
+  {
+   "n": 7,
+   "who": "Mitch",
+   "did": "把小册子递给 Syd，指着远处发亮的金属轮廓说那是老游乐园",
+   "quote_anchor": "“Old amusement park,” he said, handing her the pamphlet he’d swiped from beside the door.",
+   "range": [
+    6821,
+    6910
+   ],
+   "words": 15
+  },
+  {
+   "n": 8,
+   "who": "Syd",
+   "did": "带着 Dol 进入 12 号房间并关上门，Mitch 住进 13 号",
+   "quote_anchor": "With that, she and Dol slipped into the room, and the door to number 12 swung shut.",
+   "range": [
+    8403,
+    8486
+   ],
+   "words": 17
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "让 Syd 留在车上别动，自己独自进办公室办入住",
+   "quote_anchor": "“Stay here,” he said, stepping out of the truck. “I’ll go check in.”",
+   "range": [
+    1353,
+    1421
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "瞒着 Syd 服用来路不明的黑色药片，对她说那是治高血压的药",
+   "quote_anchor": "he’d made the mistake of saying they were for “hypertension,” hoping that would put the matter to rest",
+   "range": [
+    5766,
+    5868
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Syd",
+   "did": "觉得 Mitch 身上的那种沉默专注越来越像 Victor，只是脸不像",
+   "quote_anchor": "More and more, she reminded him Victor. Not her face, but the thing behind it. That silent intensity.",
+   "range": [
+    5269,
+    5370
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "和 Syd 约定在旅馆对老板隐瞒狗 Dol 的存在",
+   "quote_anchor": "Mitch cast a glance back over his shoulder at the motel lobby. “Do your best to keep the dog a secret.”",
+   "range": [
+    7246,
+    7349
+   ],
+   "words": 21
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "办理入住时是凌晨 1 a.m.",
+   "quote_anchor": "“Checking in,” said Mitch, unable to think of another reason he’d be standing there at 1 a.m.",
+   "range": [
+    2704,
+    2797
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "motel manager",
+   "did": "递给 Mitch 两把钥匙卡，房间号是 Twelve 和 thirteen，在二楼",
+   "quote_anchor": "“Twelve and thirteen. That’s on the second floor, so you have a better view.”",
+   "range": [
+    3989,
+    4066
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "motel",
+   "did": "整家旅馆只有 two floors、每层 eight rooms on each、sixteen doors 都朝向同一片停车场",
+   "quote_anchor": "there were only two floors, eight rooms on each, sixteen doors all facing the same lot.",
+   "range": [
+    3027,
+    3114
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "手表每 six-hour 响一次，提示他该吃下一片药",
+   "quote_anchor": "As he trudged back out into the lot, his watch chimed its six-hour warning.",
+   "range": [
+    5014,
+    5089
+   ],
+   "words": 14
+  },
+  {
+   "n": 5,
+   "who": "motel manager",
+   "did": "说 Bethany 的商场 ten years back 就关了，主题公园 shuttered last year",
+   "quote_anchor": "the mall closed ten years back, and the theme park shuttered last year",
+   "range": [
+    3751,
+    3821
+   ],
+   "words": 13
+  },
+  {
+   "n": 6,
+   "who": "motel",
+   "did": "停车场里只有 only two other cars，其中一辆看起来几周没动过",
+   "quote_anchor": "He’d picked the motel for its nondescript appearance, its free Wi-Fi, and the fact there were only two other cars in the lot",
+   "range": [
+    1498,
+    1622
+   ],
+   "words": 23
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "chapter": 33,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch33_chapter_iii.txt",
+ "source_len_chars": 3928,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Agent Rios",
+   "did": "drove to Merit's largest gym after every mission and ran the indoor track",
+   "quote_anchor": "every time she finished a mission, and had to return to EON itself, the first thing she did on leaving was drive to Merit’s largest gym,",
+   "range": [
+    287,
+    423
+   ],
+   "words": 26
+  },
+  {
+   "n": 2,
+   "who": "Agent Rios",
+   "did": "was moved by the director to other targets after mission after mission failed",
+   "quote_anchor": "the director began moving Rios and her team to other targets.",
+   "range": [
+    1257,
+    1318
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Agent Rios",
+   "did": "went to EON to ask for more resources and found the canteen wing locked down",
+   "quote_anchor": "One of the wings, the one with the canteen, had been locked down, though no one could tell her why.",
+   "range": [
+    1523,
+    1622
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Agent Rios",
+   "did": "heard whispers that Dr. Gray had ended up in the medical bay",
+   "quote_anchor": "She’d heard whispers that the therapist, Dr. Gray, had ended up in the medical bay.",
+   "range": [
+    1714,
+    1797
+   ],
+   "words": 15
+  },
+  {
+   "n": 5,
+   "who": "Agent Rios",
+   "did": "found Jollis and Kline standing side by side in silence in the locker room",
+   "quote_anchor": "They’d been standing side by side in perfect silence.",
+   "range": [
+    2050,
+    2103
+   ],
+   "words": 9
+  },
+  {
+   "n": 6,
+   "who": "Agent Rios",
+   "did": "put the EO's number in her phone on the burner she kept in the gym locker",
+   "quote_anchor": "That night, Rios had put the EO’s number in her phone. Not the EON-issued one, but the burner she kept in the gym locker here",
+   "range": [
+    2728,
+    2853
+   ],
+   "words": 25
+  },
+  {
+   "n": 7,
+   "who": "Agent Rios",
+   "did": "checked EON's database the next day and found June was not on their radar yet",
+   "quote_anchor": "She’d checked EON’s database the next day, but June wasn’t on their radar yet.",
+   "range": [
+    2973,
+    3051
+   ],
+   "words": 14
+  },
+  {
+   "n": 8,
+   "who": "Agent Rios",
+   "did": "slung her bag onto her shoulder and set out for a new mission",
+   "quote_anchor": "She slung her bag onto her shoulder and set out, eager to get back to work.",
+   "range": [
+    3852,
+    3927
+   ],
+   "words": 16
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Helena Roy",
+   "did": "assigned Rios the task herself, then lost interest as mission after mission failed",
+   "quote_anchor": "Helena Roy herself had assigned Rios the task, but as the months went by and mission after mission failed,",
+   "range": [
+    1150,
+    1256
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "spoke in Rios's head, warning that reporting her would cost Rios a possible friend",
+   "quote_anchor": "Because then, it said, you wouldn’t have a friend. And someday, you might need one.",
+   "range": [
+    3340,
+    3423
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Agent Rios",
+   "did": "thought of Stell and then of Victor Vale while her laps fell away",
+   "quote_anchor": "As the laps fell away beneath her shoes, her thoughts turned, the way they often did, to Stell. And then, to Victor Vale.",
+   "range": [
+    918,
+    1039
+   ],
+   "words": 23
+  },
+  {
+   "n": 4,
+   "who": "Jollis and Kline",
+   "did": "are the two guards with whom Rios shared the locker-room moment",
+   "quote_anchor": "And then, there’d been the moment in the locker room with Jollis and Kline.",
+   "range": [
+    1877,
+    1952
+   ],
+   "words": 14
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Jollis and Kline",
+   "did": "are two guards whose voices Rios usually did her best to block out",
+   "quote_anchor": "Two guards whose voices she usually did her best to block out. Only today, she didn’t need to.",
+   "range": [
+    1955,
+    2049
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Dr. Gray",
+   "did": "was seen walking down the hall an hour after being rumored to be in the medical bay",
+   "quote_anchor": "But an hour later, she saw him moving down the hall, like nothing was wrong.",
+   "range": [
+    1798,
+    1874
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Agent Rios",
+   "did": "checked EON's database the next day and found June was not on their radar yet",
+   "quote_anchor": "She’d checked EON’s database the next day, but June wasn’t on their radar yet.",
+   "range": [
+    2973,
+    3051
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "the gym locker",
+   "did": "was rented by the month and held a burner phone, a change of clothes and a roll of cash",
+   "quote_anchor": "the burner she kept in the gym locker here—the one she rented by the month—along with a change of clothes, a roll of cash.",
+   "range": [
+    2811,
+    2933
+   ],
+   "words": 24
+  },
+  {
+   "n": 5,
+   "who": "Agent Rios",
+   "did": "spent hours hiding in plain sight before each run",
+   "quote_anchor": "Rios didn’t like to run, but she needed to—to burn off the restless energy that built up from hours of hiding in plain sight",
+   "range": [
+    549,
+    673
+   ],
+   "words": 24
+  }
+ ]
+}

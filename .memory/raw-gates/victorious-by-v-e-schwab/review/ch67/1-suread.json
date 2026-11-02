@@ -1,0 +1,166 @@
+{
+ "chapter": 67,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch67_chapter_xvi.txt",
+ "source_len_chars": 1962,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "saw Angie again standing in the doorway of the green door, just as in the apartment",
+   "quote_anchor": "Eli saw Angie again. Standing there, just like she had in the apartment.",
+   "range": [
+    85,
+    157
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "snapped at Eli to kill him before he could act first",
+   "quote_anchor": "“Kill him,” snapped Sydney, eyes gone wide with panic. “Do it before he—”",
+   "range": [
+    693,
+    766
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Serena",
+   "did": "chided Sydney playfully for the way she was treating a guest",
+   "quote_anchor": "“Now, Syd,” Serena chided playfully. “Is that any way to treat a guest?”",
+   "range": [
+    769,
+    841
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "clenched his teeth and fought to clear his head as the fog confused the present for the past",
+   "quote_anchor": "Eli clenched his teeth, fought to clear his head as the fog tried to cloud his thoughts, confuse the present for the past.",
+   "range": [
+    519,
+    641
+   ],
+   "words": 23
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "looked down and found that he was holding a bouquet of daffodils he could not account for",
+   "quote_anchor": "Eli looked down and found that he was holding a bouquet of daffodils.",
+   "range": [
+    938,
+    1007
+   ],
+   "words": 13
+  },
+  {
+   "n": 6,
+   "who": "Serena",
+   "did": "took the flowers from him and leaned in to kiss him on the cheek",
+   "quote_anchor": "Serena took the flowers and leaned in to kiss him on the cheek.",
+   "range": [
+    1067,
+    1130
+   ],
+   "words": 13
+  },
+  {
+   "n": 7,
+   "who": "Eli",
+   "did": "clenched his hand around the gun, then found the gun was not there and looked at his empty hand",
+   "quote_anchor": "He clenched his hand around the gun, only to realize it wasn’t there. He looked down at his empty hand.",
+   "range": [
+    1675,
+    1778
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Serena",
+   "did": "reached out, caught his fingers and drew him forward into the house for cake",
+   "quote_anchor": "“Why don’t you come in?” she said, drawing him forward. “You’re just in time for cake.”",
+   "range": [
+    1874,
+    1961
+   ],
+   "words": 16
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Serena",
+   "did": "is Sydney’s older sister, and had told Eli all about her little sister and what she could do",
+   "quote_anchor": "Serena had told him all about her little sister. What she could do.",
+   "range": [
+    418,
+    485
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Serena",
+   "did": "has always ruled Eli, whose wishes were overridden by Serena’s will and Serena’s way",
+   "quote_anchor": "That was how it had always been. Serena’s will. Serena’s way.",
+   "range": [
+    1297,
+    1358
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "is at Sydney’s place to answer for what she had done to him",
+   "quote_anchor": "What she’d done to him. What he was there to do.",
+   "range": [
+    1624,
+    1672
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Angie",
+   "did": "appeared to Eli in the dream world until the dream world flickered, glitched and she was gone",
+   "quote_anchor": "But then the dream world flickered, glitched, and she was gone.",
+   "range": [
+    158,
+    221
+   ],
+   "words": 11
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "saw Angie again for an instant when the green door opened",
+   "quote_anchor": "FOR an instant, when the green door opened, Eli saw Angie again.",
+   "range": [
+    41,
+    105
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "had already met the girl and already tried to do something to her",
+   "quote_anchor": "He had already met the girl, already tried to—",
+   "range": [
+    644,
+    690
+   ],
+   "words": 9
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "chapter": 24,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch24_chapter_v.txt",
+ "source_len_chars": 10282,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Farley",
+   "did": "muttered 'Fucking EOs' and slammed the locker hard enough to make Rios wince",
+   "quote_anchor": "The guard slammed the locker as he said it, hard enough that Rios winced. The anger, of course, wasn’t directed at her.",
+   "range": [
+    71,
+    190
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Farley",
+   "did": "recognized the dizziness and laughter of the guards as hypoxia before anyone passed out",
+   "quote_anchor": "Farley had recognized it as hypoxia before anyone passed out.",
+   "range": [
+    601,
+    662
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Rios",
+   "did": "found that the latest Victor Vale mission was a setup, the whole place rigged to blow the moment they went in",
+   "quote_anchor": "It was a setup, the whole place rigged to blow the moment they went in.",
+   "range": [
+    1004,
+    1075
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Rios",
+   "did": "was the first EO ever offered a badge instead of a cell, and the first to accept",
+   "quote_anchor": "She was the first EO to ever be offered a badge instead of a cell. Or at least, the first to accept.",
+   "range": [
+    2378,
+    2478
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "Noah",
+   "did": "came in from a mission still dressed in field gear, his visor cracked and the paint stripped from one temple",
+   "quote_anchor": "He was still dressed in field gear—the tactical black plate wrapping around him like a second skin, helmet in the crook of one arm.",
+   "range": [
+    4186,
+    4317
+   ],
+   "words": 24
+  },
+  {
+   "n": 6,
+   "who": "Stevens and Weaver",
+   "did": "hauled a bound EO woman between them, blood dripping from her clothes and leaving a red trail",
+   "quote_anchor": "As if on cue, two of his team came through the door looking similarly battered and hauling an EO between them.",
+   "range": [
+    4654,
+    4764
+   ],
+   "words": 21
+  },
+  {
+   "n": 7,
+   "who": "Noah",
+   "did": "disappeared when Stell prompted him to lower himself into a chair, then reappeared in it as camouflage",
+   "quote_anchor": "Then, at his prompting, Noah had lowered himself into a chair, and proceeded to disappear.",
+   "range": [
+    5691,
+    5781
+   ],
+   "words": 15
+  },
+  {
+   "n": 8,
+   "who": "Rios",
+   "did": "stepped through the security checkpoint of EON, laughing with Noah at their shared 'Fucking EOs'",
+   "quote_anchor": "They both laughed, and Rios felt the pressure easing in her chest as she stepped through the security checkpoint, the doors of EON breaking like a seal",
+   "range": [
+    10062,
+    10213
+   ],
+   "words": 27
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Rios",
+   "did": "is one of the two EO field agents among EON's thirty-three agents",
+   "quote_anchor": "And of those thirty-three field agents, thirty-one were ordinary humans, and the other two were EOs.",
+   "range": [
+    3591,
+    3691
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Noah",
+   "did": "turned himself in to EON rather than being caught",
+   "quote_anchor": "His smile faltered. “They didn’t. I turned myself in.”",
+   "range": [
+    7438,
+    7492
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Stell",
+   "did": "offered Rios a badge instead of a cell, believing not every ExtraOrdinary deserved to be locked up",
+   "quote_anchor": "Stell had believed that not every ExtraOrdinary deserved to be locked up. He’d recognized the danger of their powers, left unchecked, but he saw the potential in them, too.",
+   "range": [
+    2479,
+    2651
+   ],
+   "words": 29
+  },
+  {
+   "n": 4,
+   "who": "Noah",
+   "did": "is the other EO hiding in plain sight, an ally and an anchor to Rios",
+   "quote_anchor": "It was enough to know she was no longer the only one hiding in plain sight.",
+   "range": [
+    7544,
+    7619
+   ],
+   "words": 16
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the EO in cell 008",
+   "did": "is a young man with the ability to alter the pressure of the air around him",
+   "quote_anchor": "Apparently, there had been an incident with the EO in cell 008. A young man with the ability to alter the pressure of the air around him.",
+   "range": [
+    193,
+    330
+   ],
+   "words": 27
+  },
+  {
+   "n": 2,
+   "who": "Farley",
+   "did": "needed an hour of supplemental oxygen and two aspirin after the incident",
+   "quote_anchor": "But an hour of supplemental oxygen and two aspirin later, he was in a foul mood.",
+   "range": [
+    663,
+    743
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Rios",
+   "did": "had been sent into the field three times in search of Victor Vale",
+   "quote_anchor": "Three times she’d been sent into the field in search of Victor Vale.",
+   "range": [
+    814,
+    882
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "EON",
+   "did": "grew from the ten-person task force first formed by Stell six years before",
+   "quote_anchor": "The department of ExtraOrdinary Observation and Neutralization had come a long way from the ten-person task force first formed by Stell six years before.",
+   "range": [
+    3292,
+    3445
+   ],
+   "words": 24
+  },
+  {
+   "n": 5,
+   "who": "EON's soldiers",
+   "did": "number eighty, of whom forty-seven are guards at the compound and thirty-three are field agents",
+   "quote_anchor": "Of the eighty soldiers who now worked for EON, forty-seven were guards stationed at the compound, and thirty-three were agents in the field.",
+   "range": [
+    3448,
+    3588
+   ],
+   "words": 23
+  },
+  {
+   "n": 6,
+   "who": "the EOs among EON's field agents",
+   "did": "number two, Rios and Noah",
+   "quote_anchor": "And of those thirty-three field agents, thirty-one were ordinary humans, and the other two were EOs.",
+   "range": [
+    3591,
+    3691
+   ],
+   "words": 16
+  }
+ ]
+}

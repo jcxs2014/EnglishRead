@@ -1,0 +1,188 @@
+{
+ "chapter": 125,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch125_chapter_xv.txt",
+ "source_len_chars": 1930,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "把铁锹扛在肩上，在半沉的旧坟之间穿行",
+   "quote_anchor": "SYDNEY hoisted the shovels on her shoulder as she wove between the old, half-sunken graves.",
+   "range": [
+    57,
+    148
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "找到那座墓，墓碑上只刻着他的名字",
+   "quote_anchor": "She found the right grave, the earth packed down by time, and cold. His name, and nothing more, carved into the headstone.",
+   "range": [
+    604,
+    726
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Syd",
+   "did": "把铁锹插进土里开始挖",
+   "quote_anchor": "Syd drove the spade down into the soil and started digging.",
+   "range": [
+    863,
+    922
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Sydney 和 Mitch",
+   "did": "一个她加四个他一起挖到那只空木箱",
+   "quote_anchor": "They worked together, one of her and four of him, making their way down to the empty wooden box.",
+   "range": [
+    925,
+    1021
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "一个 Mitch 撬开空棺盖，另一个把 Victor 放进窄箱中",
+   "quote_anchor": "One Mitch pried the lid off the empty coffin, while another lowered Victor down, settling his limbs inside the narrow box.",
+   "range": [
+    1511,
+    1633
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "握紧铁锹不放手，因为不信任自己的双手",
+   "quote_anchor": "Syd stayed where she was, knuckles white on the shovel, because she didn’t trust her hands.",
+   "range": [
+    1636,
+    1727
+   ],
+   "words": 16
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "差点爬进墓里把手按在 Victor 胸口把他拖回来，但最终没有",
+   "quote_anchor": "Because, even now, she wanted to climb down into the grave, place her palms on Victor’s chest, and drag him back.",
+   "range": [
+    1728,
+    1841
+   ],
+   "words": 21
+  },
+  {
+   "n": 8,
+   "who": "Sydney",
+   "did": "明白是时候放他走了",
+   "quote_anchor": "Because she understood, it was time to let him go.",
+   "range": [
+    1879,
+    1929
+   ],
+   "words": 10
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "告诉 Sydney 她不必来葬 Victor",
+   "quote_anchor": "Mitch had told her she didn’t have to come, but that was ridiculous.",
+   "range": [
+    771,
+    839
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "曾发誓要在别人伤害 Sydney 之前先伤对方",
+   "quote_anchor": "Victor, vowing to hurt anyone before they could hurt her.",
+   "range": [
+    1130,
+    1187
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "骗了她、离开她并伤了 Syd 的心",
+   "quote_anchor": "Victor, who lied, and left, and broke Syd’s heart.",
+   "range": [
+    1278,
+    1328
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "回来了，哪怕这要了他的命",
+   "quote_anchor": "Victor, who came back, even though it killed him.",
+   "range": [
+    1331,
+    1380
+   ],
+   "words": 9
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "过了“八年”仍认得回这里的路",
+   "quote_anchor": "She knew where she was going, even after eight years.",
+   "range": [
+    151,
+    204
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "Sydney 和 Mitch",
+   "did": "距离他们第一次把 Victor 从地下挖出来是“八年”，这次是把他放回去",
+   "quote_anchor": "Eight years—that’s how long it had been, since the night they dug Victor up the first time, and now they were here to put him back.",
+   "range": [
+    207,
+    338
+   ],
+   "words": 26
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "来了“两个”他，一起分担抬棺的重量",
+   "quote_anchor": "Mitch walked in her wake—two of him, in fact, sharing the weight—Victor’s body wrapped in his black coat.",
+   "range": [
+    341,
+    446
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Sydney 和 Mitch",
+   "did": "一起干活时是“一个”她和“四个”他",
+   "quote_anchor": "They worked together, one of her and four of him, making their way down to the empty wooden box.",
+   "range": [
+    925,
+    1021
+   ],
+   "words": 19
+  }
+ ]
+}

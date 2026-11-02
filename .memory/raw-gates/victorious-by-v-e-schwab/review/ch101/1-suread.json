@@ -1,0 +1,166 @@
+{
+ "chapter": 101,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch101_chapter_xxxi.txt",
+ "source_len_chars": 2249,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Serena",
+   "did": "drove the sleek blue sports car that had stopped for her",
+   "quote_anchor": "SERENA was so glad the sleek blue sports car had stopped for her.",
+   "range": [
+    68,
+    133
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Serena",
+   "did": "drove on with her palms slid over the wheel, the engine purring and the trees blurring into stripes beyond the windows",
+   "quote_anchor": "Now her palms slid over the wheel, and the engine purred, and the trees blurred into stripes beyond the windows.",
+   "range": [
+    173,
+    285
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Serena",
+   "did": "saw the world outside the car slide in and out of focus, layered and merged, neither what it was nor what she wanted it to be",
+   "quote_anchor": "The world outside the car slid in and out of focus, layered, merged. Reality, a medley of what it was and what she wanted it to be. Neither. Both.",
+   "range": [
+    364,
+    510
+   ],
+   "words": 29
+  },
+  {
+   "n": 4,
+   "who": "Serena",
+   "did": "lowered the window and let her fingers play against the air",
+   "quote_anchor": "Serena lowered the window, and let her fingers play against the air.",
+   "range": [
+    716,
+    784
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "Serena",
+   "did": "had got her license the day she turned sixteen, and was happiest on the road afterwards",
+   "quote_anchor": "She’d always loved driving. Got her license the day she turned sixteen, and a car to go with it, and after that, she was happiest on the road.",
+   "range": [
+    787,
+    929
+   ],
+   "words": 28
+  },
+  {
+   "n": 6,
+   "who": "Serena",
+   "did": "veered when the road ahead crumbled suddenly into a deep ravine, and as she did the road became a road again",
+   "quote_anchor": "The road ahead crumbled suddenly into a deep ravine, and Serena veered, but as she did, the road became a road again.",
+   "range": [
+    1493,
+    1610
+   ],
+   "words": 22
+  },
+  {
+   "n": 7,
+   "who": "Serena",
+   "did": "made the memory of the parking garage and the gun pressed to Sydney’s forehead disappear, wiping it away like steam on a shower door",
+   "quote_anchor": "And just like that, the memory was gone.",
+   "range": [
+    1876,
+    1916
+   ],
+   "words": 8
+  },
+  {
+   "n": 8,
+   "who": "Serena",
+   "did": "rejected the claim that all EOs were broken, saying she was no longer an EO but something else, something more",
+   "quote_anchor": "And maybe they weren’t, and maybe they were, but she wasn’t an EO anymore. She was something else. Something more.",
+   "range": [
+    2107,
+    2221
+   ],
+   "words": 20
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Serena",
+   "did": "once let Eli convince her that all EOs were broken",
+   "quote_anchor": "Once upon a time, she let Eli convince her that all EOs were broken. Wrong.",
+   "range": [
+    2031,
+    2106
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Serena",
+   "did": "kept seeing in her mind the parking garage where a gun was pressed to Sydney’s forehead and the fear in Sydney’s eyes",
+   "quote_anchor": "her mind kept trying to show her other places, other times, like the parking garage, the gun pressed to Sydney’s forehead, the fear in Sydney’s eyes.",
+   "range": [
+    1677,
+    1826
+   ],
+   "words": 26
+  },
+  {
+   "n": 3,
+   "who": "Serena",
+   "did": "no longer counted herself among the EOs",
+   "quote_anchor": "but she wasn’t an EO anymore. She was something else. Something more.",
+   "range": [
+    2152,
+    2221
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Serena",
+   "did": "sixteen — got her license the day she turned sixteen",
+   "quote_anchor": "Got her license the day she turned sixteen, and a car to go with it, and after that, she was happiest on the road.",
+   "range": [
+    815,
+    929
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "Serena",
+   "did": "once — she once let Eli convince her that all EOs were broken",
+   "quote_anchor": "Once upon a time, she let Eli convince her that all EOs were broken. Wrong.",
+   "range": [
+    2031,
+    2106
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Serena",
+   "did": "one — she would stand on one side of the canyon and look across the gulf",
+   "quote_anchor": "the crack widened a little more, into a rift and then a canyon, and she would stand there on one side, and look across the gulf",
+   "range": [
+    1219,
+    1346
+   ],
+   "words": 26
+  }
+ ]
+}

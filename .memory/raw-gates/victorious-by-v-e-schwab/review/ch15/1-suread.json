@@ -1,0 +1,210 @@
+{
+ "chapter": 15,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch15_chapter_xiv.txt",
+ "source_len_chars": 11214,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "sat at the kitchen table engaged in the slow, laborious process of recreating the notes he had lost on Paul Barnett",
+   "quote_anchor": "He sat at the kitchen table, engaged in the slow, laborious process of recreating the notes",
+   "range": [
+    955,
+    1046
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "told Ian to go outside and play basketball in the drive",
+   "quote_anchor": "There’s a basketball hoop in the drive. Why don’t you go outside and play?",
+   "range": [
+    2066,
+    2140
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Iris",
+   "did": "recounted every moment of the night of the accident in complete detachment while Gabriel searched her face",
+   "quote_anchor": "But her eyes stayed steadily on his as she recounted each and every moment, waking Ian, waiting with him in his room",
+   "range": [
+    2919,
+    3035
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "snapped at Iris to think for herself and fight back",
+   "quote_anchor": "Think for yourself. You are not some vapid doll",
+   "range": [
+    4086,
+    4133
+   ],
+   "words": 9
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "walked into the gardens, sank onto a stump and recorded voice notes on his phone",
+   "quote_anchor": "he sank onto a stump, and drew up the voice notes on his phone",
+   "range": [
+    5454,
+    5516
+   ],
+   "words": 14
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "ordered Iris to stop after she parroted the expressions, motions and voice from his videos",
+   "quote_anchor": "the result was an uncanny imitation, devoid of heart and so unsettling he finally ordered her to stop",
+   "range": [
+    7682,
+    7783
+   ],
+   "words": 18
+  },
+  {
+   "n": 7,
+   "who": "Iris",
+   "did": "crumbled into ash beneath Gabriel’s hand",
+   "quote_anchor": "before her face gave way beneath the weight of his hand, along the rest of her, her body crumbling like sand beneath his touch",
+   "range": [
+    10542,
+    10668
+   ],
+   "words": 24
+  },
+  {
+   "n": 8,
+   "who": "Gabriel",
+   "did": "got up and went to find his son",
+   "quote_anchor": "And then he got up, and went to find his son.",
+   "range": [
+    11168,
+    11213
+   ],
+   "words": 11
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Iris",
+   "did": "is Gabriel’s wife, lying in bed facing him at a distance",
+   "quote_anchor": "facing each other like brackets, a foot—and a mile—between them",
+   "range": [
+    9336,
+    9399
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "Ian",
+   "did": "is Gabriel’s son, still dribbling the basketball outside because no one had told him to stop",
+   "quote_anchor": "his young son was still out there, dribbling. Because no one had told him to stop",
+   "range": [
+    9009,
+    9090
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Iris and Ian",
+   "did": "follow Gabriel’s commands without resistance",
+   "quote_anchor": "When he gave them a command, they answered it.",
+   "range": [
+    6887,
+    6933
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "narrowed the world of Iris and Ian to himself, making them puppets and extensions of his will",
+   "quote_anchor": "Narrowed the scope and meaning of their world to him. Made them puppets, extensions of his will",
+   "range": [
+    9678,
+    9773
+   ],
+   "words": 17
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Gabriel’s family",
+   "did": "has been in the new house three months since the accident",
+   "quote_anchor": "It had been three months since the accident.",
+   "range": [
+    631,
+    675
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Gabriel’s family",
+   "did": "was brought back two months ago",
+   "quote_anchor": "Two since Gabriel had brought his family back",
+   "range": [
+    676,
+    721
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "Gabriel’s questioning of Iris",
+   "did": "had been engaged in every single day these past two months",
+   "quote_anchor": "one he’d engaged in every single day these past two months",
+   "range": [
+    2579,
+    2637
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Iris",
+   "did": "was filmed on the rooftop of the advertisement company last New Year’s Eve",
+   "quote_anchor": "on the rooftop of the advertisement company last New Year’s Eve",
+   "range": [
+    7374,
+    7437
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "had spent the last two months trying to revive his family",
+   "quote_anchor": "He’d spent the last two months trying to revive his family.",
+   "range": [
+    7970,
+    8029
+   ],
+   "words": 11
+  },
+  {
+   "n": 6,
+   "who": "Gabriel and Iris",
+   "did": "lay in bed a foot—and a mile—between them",
+   "quote_anchor": "facing each other like brackets, a foot—and a mile—between them",
+   "range": [
+    9336,
+    9399
+   ],
+   "words": 10
+  }
+ ]
+}

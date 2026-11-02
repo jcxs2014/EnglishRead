@@ -1,0 +1,199 @@
+{
+ "chapter": 9,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch09_chapter_viii.txt",
+ "source_len_chars": 5746,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor Vale",
+   "did": "felt the drug's effects wane and could feel Ardley's nerves glowing as his own powers came back online",
+   "quote_anchor": "as the drug’s effects waned, he could feel not only his own nerves, but Ardley’s, the circuitry of the other man, so bright it almost glowed.",
+   "range": [
+    371,
+    512
+   ],
+   "words": 26
+  },
+  {
+   "n": 2,
+   "who": "the strawberry-curled girl",
+   "did": "called Vale from behind him in a singsong voice he hadn't heard in years",
+   "quote_anchor": "He looked over his shoulder and caught the edge of a strawberry curl disappearing between glass shelves.",
+   "range": [
+    1078,
+    1182
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "George Ardley",
+   "did": "set three small vials on the counter and slumped beside them",
+   "quote_anchor": "as Ardley set three small vials on the counter and slumped beside them.",
+   "range": [
+    1499,
+    1570
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Victor Vale",
+   "did": "slotted the vial of luminescent blue liquid into the inhaler, set it on the counter and slid it forward, telling Ardley to try it",
+   "quote_anchor": "He slotted it into the inhaler, set the device on the counter, and slid it forward.",
+   "range": [
+    1901,
+    1984
+   ],
+   "words": 16
+  },
+  {
+   "n": 5,
+   "who": "Victor Vale",
+   "did": "twitched his fingers to tug on the chemist's nerves until Ardley took up the device and inhaled",
+   "quote_anchor": "He simply twitched his fingers, tugging on the chemist’s nerves.",
+   "range": [
+    2394,
+    2458
+   ],
+   "words": 10
+  },
+  {
+   "n": 6,
+   "who": "Victor Vale",
+   "did": "took up the nebulizer and breathed in, and his world went quiet as the compound smothered his senses",
+   "quote_anchor": "He brought the inhaler to his mouth, and breathed in, and as he did, his world went quiet.",
+   "range": [
+    3548,
+    3638
+   ],
+   "words": 18
+  },
+  {
+   "n": 7,
+   "who": "Victor Vale",
+   "did": "followed Ardley out of the alley, watched him scribble the formula in a convenience store, then shot him and took the slip of paper from the corpse",
+   "quote_anchor": "No one saw the thin blond man bend over the corpse and retrieve the slip of paper before blending back into the dark.",
+   "range": [
+    5238,
+    5355
+   ],
+   "words": 23
+  },
+  {
+   "n": 8,
+   "who": "Victor Vale",
+   "did": "burned the scratch paper in the sink and drew the jack of spades from his wallet",
+   "quote_anchor": "He drew the jack of spades from his wallet and snapped the faucet on, rinsing the ashes down the drain.",
+   "range": [
+    5642,
+    5745
+   ],
+   "words": 20
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "George Ardley",
+   "did": "pleaded with Victor not to be killed and promised that Victor could trust him",
+   "quote_anchor": "“No, no,” he said anxiously. “You can trust me.”",
+   "range": [
+    4404,
+    4452
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Victor Vale",
+   "did": "told Ardley that if he thought Victor should kill him, he only had to give a reason",
+   "quote_anchor": "“You haven’t given me a reason to,” said Victor. “But if you think I should—”",
+   "range": [
+    4324,
+    4401
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Victor Vale",
+   "did": "pointed to the back door and ordered Ardley out first, then followed him",
+   "quote_anchor": "He pointed to the back door. “After you.”",
+   "range": [
+    4505,
+    4546
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "the strawberry-curled girl",
+   "did": "once told Victor she would never forgive him as he lay down on a metal table",
+   "quote_anchor": "I’ll never forgive you, she’d said, as he lay down on the metal table.",
+   "range": [
+    1307,
+    1377
+   ],
+   "words": 14
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the strawberry-curled girl",
+   "did": "is a voice Victor hadn't heard in years for exactly fifteen years",
+   "quote_anchor": "it called, in a singsong voice he hadn’t heard in years. Fifteen, to be exact.",
+   "range": [
+    1226,
+    1304
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Victor Vale",
+   "did": "had felt his skin begin to prickle two hours ago, the first sign the dose was wearing off",
+   "quote_anchor": "Two hours ago, his skin had begun to prickle, the first sign that the dose was beginning to wear off",
+   "range": [
+    233,
+    333
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Victor Vale",
+   "did": "will feel the pain start in another hour, a cramp and a precursor to cardiac arrest",
+   "quote_anchor": "Another hour, and the pain would start, a twinge in Victor’s chest that would quickly become a cramp",
+   "range": [
+    623,
+    723
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "George Ardley",
+   "did": "made three small vials of the compound and slumped beside them on the counter",
+   "quote_anchor": "as Ardley set three small vials on the counter and slumped beside them.",
+   "range": [
+    1499,
+    1570
+   ],
+   "words": 13
+  },
+  {
+   "n": 5,
+   "who": "Victor Vale",
+   "did": "pocketed the inhaler device, the other two vials and the notebook page",
+   "quote_anchor": "sliding the device, the other two vials, and the notebook page into his pocket.",
+   "range": [
+    3974,
+    4053
+   ],
+   "words": 14
+  }
+ ]
+}

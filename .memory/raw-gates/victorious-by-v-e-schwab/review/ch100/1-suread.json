@@ -1,0 +1,177 @@
+{
+ "chapter": 100,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch100_chapter_xxx.txt",
+ "source_len_chars": 6972,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Noah",
+   "did": "came straight to the Command room in dirty, dented field gear to demand that Eli be put down, 60 minutes before the end",
+   "quote_anchor": "“YOU have to put him down,” said Noah.",
+   "range": [
+    75,
+    113
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Noah",
+   "did": "said that Eli shot him in the chest and blatantly disregarded orders",
+   "quote_anchor": "“Eli shot me in the chest. He blatantly disregarded orders.”",
+   "range": [
+    727,
+    787
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "asked Noah whether putting Eli down was an order",
+   "quote_anchor": "Gabriel felt the faint tug of defiance, and he had neither the time nor the inclination to indulge it. “Is that an order, Agent Harris?” he asked, arching a brow.",
+   "range": [
+    514,
+    676
+   ],
+   "words": 30
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "laid his palm against the sensor and the door slid open onto a barren steel cell",
+   "quote_anchor": "The door slid open onto a barren steel cell. No cot, no sink, nothing but reinforced concrete and metal posts.",
+   "range": [
+    1924,
+    2034
+   ],
+   "words": 20
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "told Eli that the room is not for his current patients but for those who haven't started treatment yet",
+   "quote_anchor": "“It doesn’t,” said Gabriel, unbuttoning his cuffs. “This room isn’t for my current patients. It’s for those who haven’t started treatment yet.”",
+   "range": [
+    2456,
+    2599
+   ],
+   "words": 22
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "held out his belt and ordered Eli to bind his hands to the post in the corner of the room",
+   "quote_anchor": "Gabriel held out the belt. “Take this,” he said, and the look on Eli’s face was a mix of fury, hatred, and betrayal.",
+   "range": [
+    4529,
+    4645
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "Eli",
+   "did": "looped the belt around the metal post and then around his own wrists",
+   "quote_anchor": "He looped the belt around it, and then around his wrists.",
+   "range": [
+    5718,
+    5775
+   ],
+   "words": 11
+  },
+  {
+   "n": 8,
+   "who": "Gabriel",
+   "did": "said “I forgive you” and untied the knot he had made Eli tie",
+   "quote_anchor": "“I forgive you,” he said, untying the knot.",
+   "range": [
+    6484,
+    6527
+   ],
+   "words": 8
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Noah",
+   "did": "acted as Gabriel's loyal soldier, his fury aimed at Gabriel on his behalf",
+   "quote_anchor": "Noah’s fury wasn’t directed at Gabriel, but on his behalf. Ever the loyal soldier. And perhaps he had a point.",
+   "range": [
+    1340,
+    1450
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "resisted Gabriel's will, and could still prove an asset only if he was broken and made to heel",
+   "quote_anchor": "He could still prove an asset, if he could be broken, made to heel.",
+   "range": [
+    1691,
+    1758
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "resurrected EOs in this room, bringing them back after they had been killed",
+   "quote_anchor": "A place EOs were brought after they’d been killed, and before Gabriel resurrected them.",
+   "range": [
+    2720,
+    2807
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "exempted his resistance to authority only where God was concerned, his devotion built on fear as much as faith",
+   "quote_anchor": "But his devotion to that higher power was built on fear as much as faith.",
+   "range": [
+    3870,
+    3943
+   ],
+   "words": 15
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the Command room staff",
+   "did": "the other four agents in Command were present, together with Helena and Malcolm",
+   "quote_anchor": "In front of Helena, and Malcolm, and the other four agents in Command. Not that any of them seemed to notice. Still.",
+   "range": [
+    395,
+    511
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "his resistance to authority had one exception: God",
+   "quote_anchor": "As he spoke, Gabriel’s fingers went to the buckle on his thin black belt. Eli’s resistance to authority had one exception. God.",
+   "range": [
+    3740,
+    3867
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "his fingers slipped more than once while tying the belt, so he had to use his teeth to cinch the knot around his wrists",
+   "quote_anchor": "More than once, his fingers slipped while he was doing it, and in the end, he had to use his teeth to cinch the knot around his wrists.",
+   "range": [
+    5855,
+    5990
+   ],
+   "words": 28
+  }
+ ]
+}

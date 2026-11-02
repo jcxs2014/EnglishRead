@@ -1,0 +1,177 @@
+{
+ "chapter": 85,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch85_chapter_xv.txt",
+ "source_len_chars": 2526,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "推开第五扇门，门开后冲下主题乐园屋后门的破旧台阶逃出去",
+   "quote_anchor": "Nearly crumpled in relief when it swung open onto cold morning air and a set of rickety steps at the back of the ride.",
+   "range": [
+    334,
+    452
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "没有走最近的小路，而是横穿乐园，在游乐设施与摊位之间穿行奔跑",
+   "quote_anchor": "She scrambled down, hit the ground, and took off, not down the nearest path, but across it, weaving between rides and stalls as light spread across the sky.",
+   "range": [
+    487,
+    643
+   ],
+   "words": 28
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "横穿旋转木马，钻进彩绘木马之间",
+   "quote_anchor": "Her shoes pounded on the pavement as she cut across a carousel, ducked between the painted wooden horses.",
+   "range": [
+    986,
+    1091
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "远远看见一个被黑衣特工包围的瘦削身影，认出那是 Victor",
+   "quote_anchor": "This far away, he was little more than an outline, a lean shadow surrounded by agents in black gear.",
+   "range": [
+    1123,
+    1223
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "Sydney",
+   "did": "全速冲刺奔向 Victor",
+   "quote_anchor": "Sydney took off at a dead sprint, running toward him the way she had eight years ago, when she was scared",
+   "range": [
+    1462,
+    1567
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "正要呼喊 Victor 的名字时，后背被什么东西猛撞",
+   "quote_anchor": "She was about to call his name when something slammed into her back.",
+   "range": [
+    1734,
+    1802
+   ],
+   "words": 13
+  },
+  {
+   "n": 7,
+   "who": "Eli",
+   "did": "从背后撞倒 Sydney，把她压在自己身上并喊出「Caught you」",
+   "quote_anchor": "“Caught you,” growled Eli, crushing her back against him.",
+   "range": [
+    2295,
+    2352
+   ],
+   "words": 9
+  },
+  {
+   "n": 8,
+   "who": "Sydney",
+   "did": "试图撑起身体，但天地倾斜、视线模糊，意识消失",
+   "quote_anchor": "She tried to get back up, but the world tipped, her vision blurring.",
+   "range": [
+    1982,
+    2050
+   ],
+   "words": 13
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "与 Victor 之间有她当年把他带回来时系下的那根「绳索」，此刻再次被拉紧",
+   "quote_anchor": "That cord she’d made, the day she brought him back, drawn taut again.",
+   "range": [
+    1662,
+    1731
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "与 Sydney 的对抗关系：戴手套的手捂住她的嘴切断喊声，一条胳膊架住她的肩把她拖离地面",
+   "quote_anchor": "a gloved hand vised around her mouth, cutting off her scream. An arm wrapped around her shoulders, hauling her off the ground.",
+   "range": [
+    2166,
+    2292
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "与 EON 黑衣特工的关系：被他们包围着出现在 Sydney 的视野里",
+   "quote_anchor": "She couldn’t see his face, but his white-blond hair burned like a flame in the dark beneath a ride.",
+   "range": [
+    1224,
+    1323
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "与 Victor 的关系：认定他这一次是为她回来的",
+   "quote_anchor": "all that mattered was that he’d come back. For her.",
+   "range": [
+    1408,
+    1459
+   ],
+   "words": 10
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Sydney 试过的那些门",
+   "did": "four（试过的门共四扇）、three（其中三扇通回别的走廊）、the fourth（第四扇什么也不通）",
+   "quote_anchor": "Of the four she’d tried, three had led back onto other halls, while the fourth had led nowhere.",
+   "range": [
+    165,
+    260
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Sydney 这次撞开的门",
+   "did": "a fifth（第五扇）",
+   "quote_anchor": "Now she sent up a desperate prayer and threw her weight against a fifth.",
+   "range": [
+    261,
+    333
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Sydney 与 Victor 的旧事",
+   "did": "eight years ago（八年前）",
+   "quote_anchor": "the way she had eight years ago, when she was scared, and he was safe, but the pull was even stronger now",
+   "range": [
+    1515,
+    1620
+   ],
+   "words": 22
+  }
+ ]
+}

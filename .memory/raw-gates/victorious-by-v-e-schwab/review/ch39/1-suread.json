@@ -1,0 +1,199 @@
+{
+ "chapter": 39,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch39_chapter_ix.txt",
+ "source_len_chars": 5090,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Noah Harris",
+   "did": "Looked down and noticed a speck of blood on the back of his left hand",
+   "quote_anchor": "Just then, he looked down, and noticed a speck of blood on the back of his left hand.",
+   "range": [
+    1002,
+    1087
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Noah Harris",
+   "did": "Vanished when Gabriel told him to show his power, his edges blurring and his body dissolving into the chair, the rug and the room",
+   "quote_anchor": "And yet when the doctor told him to, Noah disappeared. He watched his edges blur, his body dissolving into the chair, the rug, the room, until he was invisible",
+   "range": [
+    1428,
+    1587
+   ],
+   "words": 29
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "Told Noah his power had remained remarkably intact, all things considered",
+   "quote_anchor": "“Your power has remained remarkably intact, all things considered.”",
+   "range": [
+    1748,
+    1815
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "Noah Harris",
+   "did": "Recoiled at his own reflection in the table because his brown eyes had swirled into green, white, blue and gray",
+   "quote_anchor": "They had always been brown. But now, they swirled, the irises and whites both swallowed up by green and white and blue and gray—all the colors in the room.",
+   "range": [
+    1963,
+    2118
+   ],
+   "words": 29
+  },
+  {
+   "n": 5,
+   "who": "Gabriel",
+   "did": "Told Noah he had killed him and that it was a necessary step",
+   "quote_anchor": "The doctor met his eyes, and smiled gently as he said, “I killed you.”",
+   "range": [
+    2525,
+    2595
+   ],
+   "words": 14
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "Told Noah that resurrecting someone gives him control over them and that Noah is the evidence it could be done",
+   "quote_anchor": "“When I resurrect someone, I gain control over them. Humans return as little more than puppets. But the EOs have proven more resistant.",
+   "range": [
+    3102,
+    3237
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "Noah Harris",
+   "did": "Drew the knife on command and pressed it into his own palm until blood welled, without hesitation",
+   "quote_anchor": "He did, limbs moving before his mind had even processed the command. The blade sat open in his palm.",
+   "range": [
+    3939,
+    4039
+   ],
+   "words": 19
+  },
+  {
+   "n": 8,
+   "who": "Noah Harris",
+   "did": "Refused for the first time to push the knife against Gabriel’s skin, saying he did not want to hurt him",
+   "quote_anchor": "For the first time Noah felt himself resist. He brought the tip of the blade to the doctor’s palm, but he didn’t press down.",
+   "range": [
+    4515,
+    4639
+   ],
+   "words": 24
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "Holds control over Noah through his resurrection, with Noah the first EO to come through it",
+   "quote_anchor": "But the EOs have proven more resistant. You’re the first one who’s come through it. You see, Noah. You are the evidence I needed.",
+   "range": [
+    3198,
+    3327
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "Helena Roy",
+   "did": "Reports that Agent Rios’s location is known but that Rios is not answering",
+   "quote_anchor": "“We have Agent Rios’s location,” she said. “But she’s not answering.”",
+   "range": [
+    4933,
+    5002
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Director Stell",
+   "did": "Warned Noah when he joined EON to use his ability only on a mission with his team, and even then only when necessary",
+   "quote_anchor": "The day he joined EON, Director Stell warned him to use his ability only when on a mission with his team and even then, only when necessary.",
+   "range": [
+    1239,
+    1379
+   ],
+   "words": 27
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "Calmed Noah’s panic about his changed eyes with his voice, so the panic melted away",
+   "quote_anchor": "“Don’t worry,” said the doctor. The words landed like a blanket. Heavy. Welcome. And sure enough, the panic melted.",
+   "range": [
+    2211,
+    2326
+   ],
+   "words": 19
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the time Noah could not account for",
+   "did": "Seconds, or minutes, or hours",
+   "quote_anchor": "Time had gone missing. Seconds, or minutes, or hours, he wasn’t sure.",
+   "range": [
+    281,
+    350
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "the feeling Noah compared his strange state to",
+   "did": "three or four beers",
+   "quote_anchor": "The way he felt after three or four beers, when the edges softened and the voice inside his head",
+   "range": [
+    601,
+    697
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "the parts of Noah’s eyes swallowed up by the colors",
+   "did": "both",
+   "quote_anchor": "the irises and whites both swallowed up by green and white and blue and gray—all the colors in the room",
+   "range": [
+    2014,
+    2117
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "the EO who came through Gabriel’s resurrection",
+   "did": "first",
+   "quote_anchor": "But the EOs have proven more resistant. You’re the first one who’s come through it.",
+   "range": [
+    3198,
+    3281
+   ],
+   "words": 15
+  },
+  {
+   "n": 5,
+   "who": "the moment before Noah’s blackout",
+   "did": "One moment",
+   "quote_anchor": "One moment he’d been sitting in the chair across from Dr. Gray, and the next, well, he was still sitting in the chair",
+   "range": [
+    109,
+    226
+   ],
+   "words": 23
+  }
+ ]
+}

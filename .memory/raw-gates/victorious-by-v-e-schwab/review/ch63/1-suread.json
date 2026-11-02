@@ -1,0 +1,188 @@
+{
+ "chapter": 63,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch63_chapter_xii.txt",
+ "source_len_chars": 4002,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Noah",
+   "did": "flung the second squatter down onto the peeling lino tiles",
+   "quote_anchor": "ELI watched as Noah flung the second squatter down onto the peeling lino tiles.",
+   "range": [
+    58,
+    137
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "told Noah they should have split up, as the bound squatters began to cry",
+   "quote_anchor": "“I told you we should have split up,” said Eli as the squatters on the ground began to cry",
+   "range": [
+    852,
+    942
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Noah",
+   "did": "told Eli he did not trust him and that Dr. Gray did not trust him either",
+   "quote_anchor": "“In case it wasn’t clear,” said Noah, “I don’t trust you. And neither does Dr. Gray.”",
+   "range": [
+    1157,
+    1242
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Noah",
+   "did": "surged at Eli and slammed him back into the window, glass splintering behind his shoulders",
+   "quote_anchor": "Noah slammed him back into the window, glass splintering behind his shoulders.",
+   "range": [
+    1778,
+    1856
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "drew the hunting knife from Noah's belt and pressed the blade against the EO's side",
+   "quote_anchor": "Close enough for him to draw the hunting knife from Noah’s belt, and press the blade against the EO’s side",
+   "range": [
+    1946,
+    2052
+   ],
+   "words": 20
+  },
+  {
+   "n": 6,
+   "who": "Eli",
+   "did": "threw the hunting knife across the food court and told Noah to fetch it",
+   "quote_anchor": "The blade sailed across the food court. “Fetch,” he said, as it buried itself in a sagging wooden sign.",
+   "range": [
+    2690,
+    2793
+   ],
+   "words": 19
+  },
+  {
+   "n": 7,
+   "who": "Noah",
+   "did": "drew his own gun and fired two shots instead of giving the order",
+   "quote_anchor": "instead of giving the order, he drew his own gun, and fired. Two shots rang out in the food court",
+   "range": [
+    3665,
+    3762
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Eli",
+   "did": "rolled his neck and started toward the van, saying the cold thing out there is not human because she is not",
+   "quote_anchor": "Eli rolled his neck as he started toward the van. “That’s because she’s not.”",
+   "range": [
+    3924,
+    4001
+   ],
+   "words": 14
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "is bound by Gabriel's orders: his hand refuses to drive the knife in, trembling against the invisible, impassable weight of Gabriel's orders",
+   "quote_anchor": "He tried, but his hand refused, fingers trembling against the invisible, impassable weight of Gabriel’s orders.",
+   "range": [
+    2156,
+    2267
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Noah",
+   "did": "feels the same resistance from Gabriel's orders when he attacks Eli",
+   "quote_anchor": "Judging by the frustrated look on Noah’s face, he felt the same resistance.",
+   "range": [
+    2270,
+    2345
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "and Noah are hostile over the hunting knife: Eli kept the weapon, smiled and threw it away instead of handing it back",
+   "quote_anchor": "Eli considered the weapon in his hand. He smiled, and then threw it.",
+   "range": [
+    2621,
+    2689
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Dr. Gray",
+   "did": "does not trust Eli, as Noah states plainly",
+   "quote_anchor": "I don’t trust you. And neither does Dr. Gray.",
+   "range": [
+    1196,
+    1241
+   ],
+   "words": 9
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "EON's drone",
+   "did": "had picked up two heat signatures",
+   "quote_anchor": "EON’s drone had picked up two heat signatures.",
+   "range": [
+    658,
+    704
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "the agent outside with the van",
+   "did": "answered on the comm that they had a single heat signature",
+   "quote_anchor": "the agent outside answered on the comm. “We’ve got a single heat signature.”",
+   "range": [
+    3032,
+    3108
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Noah",
+   "did": "fired two shots that rang out in the food court",
+   "quote_anchor": "Two shots rang out in the food court, the retort still echoing through the empty mall",
+   "range": [
+    3726,
+    3811
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "the agents and the vans",
+   "did": "two agents stood over the squatters while the rest stayed with the vans, one parked outside and one back at the motel",
+   "quote_anchor": "The rest had stayed with the vans, one of which was parked outside, the other back at the motel, with Mitchell Turner.",
+   "range": [
+    1036,
+    1154
+   ],
+   "words": 22
+  }
+ ]
+}

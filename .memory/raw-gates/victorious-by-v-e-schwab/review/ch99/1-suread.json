@@ -1,0 +1,210 @@
+{
+ "chapter": 99,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch99_chapter_xxix.txt",
+ "source_len_chars": 9159,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "flew his hands across the keyboard of the stolen laptop trying to hack into EON from the backseat",
+   "quote_anchor": "In the backseat, Mitch’s hands flew across the keyboard of the stolen laptop as he tried to hack into EON.",
+   "range": [
+    132,
+    238
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "asked June to tell him everything she knew about the man in charge of EON",
+   "quote_anchor": "“Tell me everything you know about the man in charge of EON.”",
+   "range": [
+    1595,
+    1656
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "told Victor about an EON agent named Rios, the call, the trap, her near-capture and her close escape",
+   "quote_anchor": "she told him about an EON agent named Rios. An EO. Of the call she’d gotten, and the trap it turned out to be",
+   "range": [
+    2179,
+    2288
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "concluded that Gabriel Gray was resurrecting the agents rather than merely controlling them",
+   "quote_anchor": "Which suggested that Gabriel Gray wasn’t just controlling them.",
+   "range": [
+    3030,
+    3093
+   ],
+   "words": 9
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "pointed out the trail of crashes on the road to EON and said they now knew where Serena was going",
+   "quote_anchor": "“Well,” said June, gesturing to the breadcrumb trail of damage that lined the road to EON. “I guess we know where Serena is going.”",
+   "range": [
+    4870,
+    5001
+   ],
+   "words": 24
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "stopped fighting the system and started speaking to it instead",
+   "quote_anchor": "A light went off inside his head, and for the first time, instead of fighting with the system, Mitch tried speaking to it.",
+   "range": [
+    7099,
+    7221
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "Mitch",
+   "did": "asked the system whether EOs are automatically registered as threats and then whether it was an EO, getting Y to both",
+   "quote_anchor": "Mitch broke into a smile. If an EO was designated as an automatic threat to the system, how could it be permitted to protect it?",
+   "range": [
+    8696,
+    8824
+   ],
+   "words": 25
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "laid a palm on the sedated dog's side and racked his brain for what to do next",
+   "quote_anchor": "Mitch laid a palm on the dog’s side, and tried to absorb his medicated calm while he racked his brain for what to do.",
+   "range": [
+    6211,
+    6328
+   ],
+   "words": 24
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "is Victor's cellmate, a man of few words with a whole story behind his eyes he was not sharing",
+   "quote_anchor": "His cellmate had always been a man of few words. But there was a whole story behind those eyes, one he wasn’t sharing.",
+   "range": [
+    5350,
+    5468
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "apologized to Victor for not coming back rather than for leaving",
+   "quote_anchor": "She shook her head. “For not coming back.”",
+   "range": [
+    3655,
+    3697
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "never found out who was in charge of EON even though she had a lead",
+   "quote_anchor": "June chewed the inside of her cheek and looked out the window. “I never found out,” she said.",
+   "range": [
+    1659,
+    1752
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "suspected he was talking to a person or an EO rather than a program, because of the period in TRY. HARDER.",
+   "quote_anchor": "For the first time, Mitch wondered if there was a chance he was talking to someone instead of something.",
+   "range": [
+    6750,
+    6854
+   ],
+   "words": 19
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the EON agents in the park",
+   "did": "all four bodies shared the same underlying signature",
+   "quote_anchor": "How, beneath the wrongness shared by all four bodies, their underlying signature had felt the same.",
+   "range": [
+    1171,
+    1270
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "the moving van",
+   "did": "clipped an eighteen-wheeler",
+   "quote_anchor": "Further along, a moving van had clipped an eighteen-wheeler. And so on.",
+   "range": [
+    4637,
+    4708
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "the passing crash",
+   "did": "happened less than a minute later, when a car scraped itself along a metal rail",
+   "quote_anchor": "But less than a minute later, they passed another one. A car had scraped itself along a metal rail.",
+   "range": [
+    4535,
+    4634
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "was met with the same two words, ACCESS DENIED, no matter how many ways he tried to get behind the system's defenses",
+   "quote_anchor": "no matter how many ways he tried to get behind the system’s defenses, he was met with the same two words.",
+   "range": [
+    5832,
+    5937
+   ],
+   "words": 21
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "noticed a single period between the words in the system's TRY. HARDER. message",
+   "quote_anchor": "It was that single period between the words.",
+   "range": [
+    6638,
+    6682
+   ],
+   "words": 8
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "answered that thirty minutes remained before they reached EON",
+   "quote_anchor": "“Thirty minutes,” answered June.",
+   "range": [
+    8363,
+    8395
+   ],
+   "words": 4
+  }
+ ]
+}

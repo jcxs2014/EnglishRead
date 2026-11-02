@@ -1,0 +1,210 @@
+{
+ "chapter": 84,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch84_chapter_xiv.txt",
+ "source_len_chars": 6679,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "found himself sitting in the classroom, gripping the edge of his desk, then splayed his hand over a different plane of wood",
+   "quote_anchor": "One moment Victor was sitting in the classroom, gripping the edge of his desk, and the next his hand was splayed over a different plane of wood, ink smudging his fingertips.",
+   "range": [
+    80,
+    253
+   ],
+   "words": 31
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "sat at a bar off campus across from Eli, whose beers sat untouched on the table between them",
+   "quote_anchor": "They were at the bar off campus, Eli across from him, his gaze guarded, searching. Their beers sat on the table between them, untouched.",
+   "range": [
+    299,
+    435
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "told Victor that ExtraOrdinaries are real and that there is no scientific basis for anything until someone discovers it",
+   "quote_anchor": "“There’s no scientific basis for anything,” Eli shot back, “not until someone discovers it.”",
+   "range": [
+    697,
+    789
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "winced as something sharp cut into his palm and the bar flickered, putting him back in the amusement park",
+   "quote_anchor": "As his hand tightened on the bottle, Victor winced. He didn’t feel the glass give way, but something sharp cut into his palm.",
+   "range": [
+    1260,
+    1385
+   ],
+   "words": 23
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "let go of the jagged metal pole, dulling his own pain on instinct, and the park vanished again",
+   "quote_anchor": "He let go, dulling his own pain on instinct. A mistake. The moment he did, the park vanished again, instantly subsumed by the spell.",
+   "range": [
+    1941,
+    2073
+   ],
+   "words": 24
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "ratcheted his pain back up to banish the illusion and left the dials turned up to keep the spell from returning",
+   "quote_anchor": "Victor ratcheted his pain back up, sharp enough to banish the illusion. Put him back on solid ground.",
+   "range": [
+    2164,
+    2265
+   ],
+   "words": 18
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "reached out, took hold of the agent’s nerves and pulled, making them lurch instead of buckle",
+   "quote_anchor": "Victor didn’t hesitate. He reached out, took hold of the agent’s nerves, and pulled.",
+   "range": [
+    4096,
+    4180
+   ],
+   "words": 14
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "drew his gun and fired at the agent’s head, then fired two more shots into the center of their chest",
+   "quote_anchor": "Victor drew his gun and fired at the agent’s head. The bullet ricocheted off the helmet, leaving the visor scraped but otherwise intact.",
+   "range": [
+    4478,
+    4614
+   ],
+   "words": 23
+  },
+  {
+   "n": 9,
+   "who": "Victor",
+   "did": "flicked the agent’s visor up, found an ordinary human face without terror, and put the gun between their eyes and fired",
+   "quote_anchor": "Finding none, he put the gun between their eyes, and fired, the current dying as they fell.",
+   "range": [
+    5674,
+    5765
+   ],
+   "words": 17
+  },
+  {
+   "n": 10,
+   "who": "Victor",
+   "did": "drove his power into the three more agents with blunt force, blowing every fuse so they buckled and slumped to the ground",
+   "quote_anchor": "He reached out, and instead of bothering with dials, he simply drove his power into them with sheer blunt force, blowing every fuse.",
+   "range": [
+    6046,
+    6178
+   ],
+   "words": 23
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "told Victor he should be thanking him, because if Eli fails, top of class is Victor’s",
+   "quote_anchor": "“You should be thanking me, Vic. If I fail as spectacularly as you seem to think I will, top of class is yours.”",
+   "range": [
+    1034,
+    1146
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "said he wants to beat Eli because he is better, not because Eli is crazy",
+   "quote_anchor": "“I want to beat you because I’m better,” said Victor, reaching for his own beer. “Not because you’re crazy.”",
+   "range": [
+    1149,
+    1257
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "spoke to Victor through the comm, warning him that something was wrong and later that he has trouble",
+   "quote_anchor": "Mitch’s voice burst through the comm, strained with worry.",
+   "range": [
+    2778,
+    2836
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "The agent in black tactical gear",
+   "did": "address Victor by name and tried to take him alive with a dart instead of a bullet",
+   "quote_anchor": "They were trying to take him alive.",
+   "range": [
+    4418,
+    4453
+   ],
+   "words": 7
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "half of his strength — what it took just to hold the agent still while he walked toward them",
+   "quote_anchor": "It took half of Victor’s strength just to hold them still while he walked toward them, flicking the visor up.",
+   "range": [
+    5364,
+    5473
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "two more shots — the rounds he fired into the center of the agent’s chest after the first ricocheted off the helmet",
+   "quote_anchor": "He dropped the sight and fired two more shots into the center of their chest.",
+   "range": [
+    4615,
+    4692
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "three more agents — he heard their boots on broken earth and turned to find each approaching from a different side",
+   "quote_anchor": "he heard their boots on broken earth, and turned to find three more agents, each approaching from a different side.",
+   "range": [
+    5892,
+    6007
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "one figure — the agent in black tactical gear, helmet on and visor down, who came toward him",
+   "quote_anchor": "One figure, in black tactical gear, helmet on and visor down.",
+   "range": [
+    3986,
+    4047
+   ],
+   "words": 11
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "chapter": 113,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch113_chapter_iii.txt",
+ "source_len_chars": 3332,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "sat back in her diner booth with a half-drunk cup of coffee in front of her",
+   "quote_anchor": "Music spilled through the diner, and a cup of coffee sat, half drunk, on the laminate table in front of her.",
+   "range": [
+    71,
+    179
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "Abigail",
+   "did": "walked into the diner through the door with her backpack over one shoulder",
+   "quote_anchor": "The bell chimed over the door, and Abigail walked in, backpack hanging from one shoulder, brassy curls piled on her head.",
+   "range": [
+    542,
+    663
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Maggie",
+   "did": "set a slice of cake down on the table for her favorite girls",
+   "quote_anchor": "The waitress, Maggie, set a slice of cake down on the table. “For my favorite girls.”",
+   "range": [
+    1262,
+    1347
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "shrugged and told Abigail that she missed her in advance",
+   "quote_anchor": "She shrugged. “I guess I miss you in advance.”",
+   "range": [
+    1844,
+    1890
+   ],
+   "words": 9
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "felt a splinter through her mind when Abigail called her June, because that wasn't her name yet",
+   "quote_anchor": "Abigail laughed. “You’re such a weirdo, June,” she said, and the words sent a little splinter through her mind, because that wasn’t her name.",
+   "range": [
+    1893,
+    2034
+   ],
+   "words": 24
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "watched the diner glitch like an old video and saw Abigail disappear with Sydney sitting in her place",
+   "quote_anchor": "The diner glitched, like an old video, static skating jaggedly over her vision, and when it cleared, Abigail was gone, and Sydney was sitting in her place.",
+   "range": [
+    2278,
+    2433
+   ],
+   "words": 27
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "looked up with bright blue eyes and said that first they had to go somewhere",
+   "quote_anchor": "Sydney looked up, blue eyes bright with hope, her voice becoming stronger. “First we have to go somewhere.”",
+   "range": [
+    3025,
+    3132
+   ],
+   "words": 18
+  },
+  {
+   "n": 8,
+   "who": "Sydney",
+   "did": "shrugged and said she did not really care where they went as long as June was there too",
+   "quote_anchor": "Sydney shrugged and smiled. “I don’t really care,” she said, “as long as you’re there, too.”",
+   "range": [
+    3159,
+    3251
+   ],
+   "words": 16
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Abigail",
+   "did": "is June's youngest sister; June has three sisters",
+   "quote_anchor": "June had three sisters, but Abigail was the youngest.",
+   "range": [
+    664,
+    717
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "keeps a secret after-school ritual of kidnapping Abigail to the diner since she moved out",
+   "quote_anchor": "Because this was their secret ritual, she and Abbie, an after-school affair.",
+   "range": [
+    1428,
+    1504
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "is the version of June's self that June does not have to give up and can keep",
+   "quote_anchor": "Same size. Same shape. Only this one she didn’t have to give up. This one she could keep.",
+   "range": [
+    2436,
+    2525
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "reached out and touched Sydney's hand, which was solid, cool as stone",
+   "quote_anchor": "when June reached out and touched Syd’s hand, it was solid, cool as stone.",
+   "range": [
+    2929,
+    3003
+   ],
+   "words": 14
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Abigail",
+   "did": "is eleven now (原文: Eleven now)",
+   "quote_anchor": "Eleven now, and every time June blinked, the girl seemed to sprout another inch.",
+   "range": [
+    765,
+    845
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "has three sisters (原文: three sisters)",
+   "quote_anchor": "June had three sisters, but Abigail was the youngest.",
+   "range": [
+    664,
+    717
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "turned down a third refill of coffee (原文: a third refill)",
+   "quote_anchor": "She liked it strong and dark, but her heart was rabbit quick, so she’d turned down a third refill.",
+   "range": [
+    180,
+    278
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "told Abigail not to tell the other two sisters (原文: the other two)",
+   "quote_anchor": "“Don’t tell the other two,” said June, the words worn smooth from being said.",
+   "range": [
+    1350,
+    1427
+   ],
+   "words": 14
+  }
+ ]
+}

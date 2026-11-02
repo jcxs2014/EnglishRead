@@ -1,0 +1,188 @@
+{
+ "chapter": 86,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch86_chapter_xvi.txt",
+ "source_len_chars": 8115,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "把枪收回枪套，改拔出一把刀",
+   "quote_anchor": "He holstered his gun, and instead drew a knife.",
+   "range": [
+    120,
+    167
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Dr. Gray",
+   "did": "通过 Victor 腰带上的对讲机报出自己的名字，说 Victor 可以叫他 Gabriel",
+   "quote_anchor": "“My name is Dr. Gray,” said the voice. “But you may call me Gabriel.”",
+   "range": [
+    890,
+    959
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "注意到特工背心正面的小黑珠是摄像头，并想起自己在汽车旅馆捏碎过一个",
+   "quote_anchor": "He noted the small black beads on the front on the agents’ vests. Cameras. He’d crushed one, back at the motel.",
+   "range": [
+    693,
+    804
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "抓住最近一名特工的头盔借其冲势近身，把刀从头盔下缘向上刺入",
+   "quote_anchor": "He grabbed the nearest agent by the helmet, using their own momentum to carry them in, and drove his blade up beneath the helmet’s chin.",
+   "range": [
+    3091,
+    3227
+   ],
+   "words": 25
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "关掉自己的神经以承受电击，夺下电击棍并把刀插进特工护甲的缝隙",
+   "quote_anchor": "He snapped his own nerves off, and caught the baton, twisting it out of the way as he sank the blade between the slats of the agent’s armor.",
+   "range": [
+    3477,
+    3617
+   ],
+   "words": 28
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "抓住最后一名特工的头盔掰向一侧，折断其脖子",
+   "quote_anchor": "when a pair of hands caught hold of the agent’s helmet and snapped it to the side, breaking their neck with an audible crack.",
+   "range": [
+    4403,
+    4528
+   ],
+   "words": 24
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "摇头想否认，但世界仍在摇晃中停住，告诉 Mitch 他们已经抓走了她",
+   "quote_anchor": "Victor started to shake his head, then stopped when the world kept rocking. “They already got her.”",
+   "range": [
+    5491,
+    5590
+   ],
+   "words": 17
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "用掉最后一支吸入器药筒后弹出空药瓶，换上一支新的",
+   "quote_anchor": "He ejected the spent vial, and slotted in a full one—his last—each task getting harder as the drug overwhelmed his system",
+   "range": [
+    7695,
+    7816
+   ],
+   "words": 21
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Dr. Gray",
+   "did": "与 EON 特工的关系：他说自己已把他们改造成适合对付 EO（如 Victor）的工具",
+   "quote_anchor": "“I’ve enabled them to serve a purpose. One that makes them uniquely suited to face EOs, like yourself.”",
+   "range": [
+    1076,
+    1179
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Dr. Gray",
+   "did": "与 Victor 的关系：他表示期待与 Victor 见面",
+   "quote_anchor": "If it was possible for dead space to sound amused, it did. Then: “I look forward to meeting you, Victor.”",
+   "range": [
+    2312,
+    2417
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "与 Dr. Gray 的关系：他怀疑对方是在 Stell 死后接管 EON 的人",
+   "quote_anchor": "“I assume you’re the one running the show now that Stell is gone.”",
+   "range": [
+    1302,
+    1368
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "与 Director Stell 的关系：Stell 被发现死于自己手中的枪下，实际是 Victor 帮了他一把",
+   "quote_anchor": "But Victor had given him a little help.",
+   "range": [
+    1663,
+    1702
+   ],
+   "words": 8
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "围攻 Victor 的 EON 特工人数",
+   "did": "three（三名特工）",
+   "quote_anchor": "as he waited to see which of the three agents would attack.",
+   "range": [
+    321,
+    380
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "Victor 忽略的伤痛数量",
+   "did": "a dozen（十二处）",
+   "quote_anchor": "ignoring a dozen minor pains for the only one that mattered",
+   "range": [
+    4695,
+    4754
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "开枪射中 Victor 的特工",
+   "did": "a second time（第二次开枪）",
+   "quote_anchor": "as the last agent came toward him, gun raised to fire a second time",
+   "range": [
+    4335,
+    4402
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Mitch 描述的追赶空档",
+   "did": "One second（前一秒）… the next（下一秒）",
+   "quote_anchor": "One second you were heading toward her and the next—",
+   "range": [
+    5760,
+    5812
+   ],
+   "words": 10
+  }
+ ]
+}

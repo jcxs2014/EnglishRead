@@ -1,0 +1,199 @@
+{
+ "chapter": 66,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch66_chapter_xv.txt",
+ "source_len_chars": 4837,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Serena",
+   "did": "在厨房里给蛋糕裱上厚厚的糖霜、拿蜡烛和小刀，边说自己的大一课程边忙活",
+   "quote_anchor": "Now Syd watched her sister dance around the kitchen, fetching candles, a knife, talking about her freshman classes as she painted on thick marshmallow plumes of frosting.",
+   "range": [
+    420,
+    590
+   ],
+   "words": 27
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "揉着左臂上被 Eli 打出的伤疤，提醒自己在幻象裂缝中看见的游乐园与木板棚屋",
+   "quote_anchor": "She rubbed the scar on her left arm, where Eli had first shot her, and reminded herself of what she’d seen, in the cracks of the illusion.",
+   "range": [
+    1060,
+    1198
+   ],
+   "words": 27
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "对 Serena 说她们必须离开、这里不安全",
+   "quote_anchor": "“We can’t stay here,” said Syd. “It isn’t safe.”",
+   "range": [
+    1511,
+    1559
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "Serena",
+   "did": "声称在这幻象里没人能伤害她们，这是她第一次提起幻象之外的危险",
+   "quote_anchor": "“No one can hurt us here.” It was the first time Serena had made mention of the danger lurking beyond the dream.",
+   "range": [
+    1912,
+    2024
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "Serena",
+   "did": "抬起眼时影子再次扫过她的眼睛，厨房里的光线随之从清晨变成下午黄昏",
+   "quote_anchor": "The shadow swept across her eyes again, and as it did, the light in the kitchen shifted, too, the day suddenly going from morning to late afternoon",
+   "range": [
+    1705,
+    1852
+   ],
+   "words": 27
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "意识到 Serena 的“相信我”这次没有压灭自己的怀疑，发现姐姐的力量被复活改变、自己不再被迫服从",
+   "quote_anchor": "Syd felt no compulsion to listen, to obey, the way she had once. And yet, Serena’s power wasn’t gone.",
+   "range": [
+    2423,
+    2524
+   ],
+   "words": 19
+  },
+  {
+   "n": 7,
+   "who": "Serena",
+   "did": "放下蜡烛、绕过台面，把双手放在 Sydney 肩上，说她们不需要那些人、彼此有对方就够",
+   "quote_anchor": "“We don’t need them,” her sister said. “We have each other now.”",
+   "range": [
+    3857,
+    3921
+   ],
+   "words": 12
+  },
+  {
+   "n": 8,
+   "who": "Serena",
+   "did": "语气坚定地说“不”，房子为此颤动、灯光变暗、墙壁扭曲、地板裂开",
+   "quote_anchor": "The word itself held no power, but the house trembled as she said it. The lights above them dimmed. The walls began to warp. The floor cracked underfoot.",
+   "range": [
+    4013,
+    4166
+   ],
+   "words": 28
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "与 Serena 是姐妹，Serena 是姐姐，比 Sydney 高大，姐妹俩从小几乎一起过生日",
+   "quote_anchor": "Syd still had to tip her head to look her sister in the eyes. But not as far as she once did.",
+   "range": [
+    3651,
+    3744
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "与 Eli 是敌对关系，Eli 曾开枪打中她的左臂",
+   "quote_anchor": "She rubbed the scar on her left arm, where Eli had first shot her",
+   "range": [
+    1060,
+    1125
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "与 Mitch 和 Dol 是朋友，混乱中把两人留在了汽车旅馆，惦记他们是否还活着",
+   "quote_anchor": "“What about my friends?” she asked, thinking about Mitch. And Dol. In the chaos, she’d left them back at the motel.",
+   "range": [
+    3337,
+    3452
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Serena",
+   "did": "是 Sydney 第二次复活的对象，Serena 的力量被这次复活改换成了新的形式",
+   "quote_anchor": "Somehow, in the course of bringing Serena back to life a second time, Sydney had wiped out her sister’s original ability, and replaced it with a new one.",
+   "range": [
+    2545,
+    2698
+   ],
+   "words": 28
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Serena",
+   "did": "十二岁生日那天姐妹俩差点死去，那天 Serena 没烤蛋糕而是打包了野餐",
+   "quote_anchor": "On her twelfth birthday—the day they almost died—Serena hadn’t baked a cake. She’d packed a picnic for them to carry out onto the frozen lake.",
+   "range": [
+    275,
+    417
+   ],
+   "words": 25
+  },
+  {
+   "n": 2,
+   "who": "Serena",
+   "did": "自从 Serena 死去后已经过去将近十年",
+   "quote_anchor": "Even growing slowly as she was, it had been almost ten years since Serena’s death.",
+   "range": [
+    3745,
+    3827
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "在把 Serena 复活第二次的过程中抹掉了姐姐原有的能力",
+   "quote_anchor": "Sydney had wiped out her sister’s original ability, and replaced it with a new one.",
+   "range": [
+    2615,
+    2698
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "the amusement park",
+   "did": "那个游乐园在汽车旅馆沿路一英里处",
+   "quote_anchor": "She’d brought her to the amusement park. The one a mile down the road from the motel.",
+   "range": [
+    1317,
+    1402
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "the cake",
+   "did": "Serena 把最后一支蜡烛插进糖霜蛋糕后让 Sydney 开始想愿望",
+   "quote_anchor": "“Now,” she went on, stabbing the last few candles into the frosted cake. “You better start thinking of a wish.”",
+   "range": [
+    4539,
+    4650
+   ],
+   "words": 20
+  }
+ ]
+}

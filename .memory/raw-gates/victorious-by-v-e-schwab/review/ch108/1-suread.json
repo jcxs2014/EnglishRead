@@ -1,0 +1,199 @@
+{
+ "chapter": 108,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch108_chapter_xxxviii.txt",
+ "source_len_chars": 4310,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor Vale",
+   "did": "Swam alone in the pool at Lockland University in the early afternoon",
+   "quote_anchor": "VICTOR Vale cut through the water like a knife.",
+   "range": [
+    94,
+    141
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "Found that his eyes were no longer one shade, but two, a strand of violet curled around his pupils",
+   "quote_anchor": "But his eyes were no longer one shade, but two. A strand of violet curled around his pupils, the same vivid color as the liquid in the cartridge.",
+   "range": [
+    1653,
+    1798
+   ],
+   "words": 28
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "Made Dol disappear by twitching the dial in his mind as the dog padded between the rows of lockers",
+   "quote_anchor": "Victor twitched the dial in his mind, the ache in his muscles sharpening enough to make Dol disappear.",
+   "range": [
+    2038,
+    2140
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "Fetched the disc out of his bag and inhaled the violet mist",
+   "quote_anchor": "Victor fetched the disc out of his bag, and brought it to his lips, inhaled the violet mist.",
+   "range": [
+    2300,
+    2392
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "Tapped his watch and the timer automatically reset",
+   "quote_anchor": "He tapped his watch, and the timer automatically reset.",
+   "range": [
+    2495,
+    2550
+   ],
+   "words": 9
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "Got a movement notice on his phone from a tracker that had gone beyond its normal range",
+   "quote_anchor": "It was a movement notice, a signal from a tracker that had gone beyond its normal range.",
+   "range": [
+    2874,
+    2962
+   ],
+   "words": 17
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "Saw the dog on the move for the first time in months, beyond the twenty-mile radius he’d set",
+   "quote_anchor": "The dog who, according to his phone, was now on the move for the first time in months. Traveling too far, too fast, beyond the twenty-mile radius he’d set.",
+   "range": [
+    3296,
+    3451
+   ],
+   "words": 29
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "Waited for Mitch while the dot by Mitch’s name stayed gray and offline, and watched the tracker continue moving west",
+   "quote_anchor": "the dot by Mitch’s name stayed gray. Offline. Swiping back to the other app, he watched the tracker continue moving west.",
+   "range": [
+    3855,
+    3976
+   ],
+   "words": 21
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Dani",
+   "did": "Her serum was growing Victor’s heart stronger and edging his limits outward, while she kept tempering his expectations",
+   "quote_anchor": "Dani was right—his heart was growing stronger, his limits not erased, but edging outward, day by day.",
+   "range": [
+    852,
+    953
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "Dol",
+   "did": "Is the black shape that pads among the lockers, a hallucination that has lingered months since Victor rid his body of Haverty’s drug",
+   "quote_anchor": "It had been months since he rid his body of Haverty’s drug, but the hallucinations lingered.",
+   "range": [
+    2141,
+    2233
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Sydney Clarke",
+   "did": "Had brought him back, and Victor had embedded the tracker in the fur just beneath Dol’s collar",
+   "quote_anchor": "A tracker that he’d embedded in the fur, just beneath Dol’s collar, shortly after Sydney Clarke had brought him back.",
+   "range": [
+    2963,
+    3080
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "Had assured Victor only a few hours ago that everything was fine, and was now offline",
+   "quote_anchor": "Victor swiped over to the message board, where Mitch had assured him, only a few hours ago, that everything was fine.",
+   "range": [
+    3486,
+    3603
+   ],
+   "words": 21
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor’s eyes",
+   "did": "no longer one shade, but two",
+   "quote_anchor": "But his eyes were no longer one shade, but two.",
+   "range": [
+    1653,
+    1700
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "Each dose of Dani’s compound",
+   "did": "Eight hours",
+   "quote_anchor": "Eight hours—that was currently what each dose gave him.",
+   "range": [
+    2553,
+    2608
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Victor and June",
+   "did": "three years ago",
+   "quote_anchor": "Technically, Victor hadn’t lied to June three years ago, when she asked if he knew where Sydney was.",
+   "range": [
+    3083,
+    3183
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "The radius Victor set for the tracker",
+   "did": "twenty-mile radius",
+   "quote_anchor": "Traveling too far, too fast, beyond the twenty-mile radius he’d set.",
+   "range": [
+    3383,
+    3451
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "Dol on the move",
+   "did": "the first time in months",
+   "quote_anchor": "The dog who, according to his phone, was now on the move for the first time in months.",
+   "range": [
+    3296,
+    3382
+   ],
+   "words": 18
+  }
+ ]
+}

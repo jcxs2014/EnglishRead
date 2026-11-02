@@ -1,0 +1,188 @@
+{
+ "chapter": 53,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch53_chapter_ii.txt",
+ "source_len_chars": 5589,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Syd",
+   "did": "在床上翻身睡不着，坐起来看床头柜上的钟",
+   "quote_anchor": "SYDNEY sighed and rolled over on the motel bed, glaringly awake.",
+   "range": [
+    65,
+    129
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "Syd",
+   "did": "把 Dol 叫到门边 carpet 的一块方地上命令他坐下并留下",
+   "quote_anchor": "“Sit,” she commanded, and Dol did. Squarely between Sydney and the door.",
+   "range": [
+    1482,
+    1554
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Syd",
+   "did": "独自出门走到旅馆的游泳池边，坐在池沿上把脚垂下去",
+   "quote_anchor": "She trudged down the metal stairs to the motel’s sole attraction: the pool.",
+   "range": [
+    2163,
+    2238
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Syd",
+   "did": "从包里翻出一本旧书 The Mind at Play, the Hands at Work",
+   "quote_anchor": "It was titled The Mind at Play, the Hands at Work, and a slip of paper on the inside cover declared it to be property of the Newtown Public Library.",
+   "range": [
+    3075,
+    3223
+   ],
+   "words": 30
+  },
+  {
+   "n": 5,
+   "who": "Syd",
+   "did": "认出封面上的作者是 Martha and Alan Vale，也就是 Victor 的父母",
+   "quote_anchor": "It was the authors’ names on the cover that had stopped her.",
+   "range": [
+    3481,
+    3541
+   ],
+   "words": 12
+  },
+  {
+   "n": 6,
+   "who": "Syd",
+   "did": "用黑马克笔划掉书页上的第一行字",
+   "quote_anchor": "Syd dug out a black marker from her bag, pulled the cap off with her teeth, and proceeded to strike out the first line",
+   "range": [
+    4470,
+    4588
+   ],
+   "words": 24
+  },
+  {
+   "n": 7,
+   "who": "Syd",
+   "did": "因犹豫让墨水在纸上晕开，于是撕下那一页",
+   "quote_anchor": "She swore softly, and tore out the page, which was less elegant, perhaps, but satisfying in a different way.",
+   "range": [
+    5009,
+    5117
+   ],
+   "words": 19
+  },
+  {
+   "n": 8,
+   "who": "Syd",
+   "did": "被冷风把撕下的那页从手里卷走、吹进空池子后，下梯子走进池里捡回",
+   "quote_anchor": "the metal icy cold against her palms as she climbed down into the pool.",
+   "range": [
+    5517,
+    5588
+   ],
+   "words": 14
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Syd",
+   "did": "把 Dol 当成自己衰老速度的参照，想知道他是否也像自己一样变慢；并想到如果 Dol 再死一次自己还能复活他几次、是否存在复活次数的上限",
+   "quote_anchor": "She ran her hand along his back and wondered for the hundredth time if he was still aging like a normal dog, or if he had slowed down, like her.",
+   "range": [
+    588,
+    732
+   ],
+   "words": 30
+  },
+  {
+   "n": 2,
+   "who": "Martha and Alan Vale",
+   "did": "是 Victor 的父母，Syd 从书背照片上看出 Martha 有 Victor 的眼睛、Alan 有他的头发",
+   "quote_anchor": "she could tell that Martha had Victor’s eyes, Alan had his hair.",
+   "range": [
+    3858,
+    3922
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "有把父母书里的文字涂黑、并改写新句子的习惯",
+   "quote_anchor": "But Victor never just blotted out the sentences, he constructed new ones, too.",
+   "range": [
+    4671,
+    4749
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Syd",
+   "did": "因为 Mitch 不留痕迹的做法、以及纸页顶端的署名是 Vale，不能把那页留在池边",
+   "quote_anchor": "Whether it was Mitch’s leave-no-trace philosophy, or the fact the name across the paper’s top said Vale",
+   "range": [
+    5252,
+    5355
+   ],
+   "words": 17
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "clock",
+   "did": "床头柜上的钟显示 2:06 a.m.",
+   "quote_anchor": "The clock on the bedside table read 2:06 a.m.",
+   "range": [
+    291,
+    336
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Syd",
+   "did": "这是她第 hundredth 次琢磨 Dol 是否还在正常衰老",
+   "quote_anchor": "wondered for the hundredth time if he was still aging like a normal dog, or if he had slowed down, like her.",
+   "range": [
+    624,
+    732
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Syd",
+   "did": "weeks ago 在图书馆门口的推荐书架上发现这本书",
+   "quote_anchor": "She’d come across it weeks ago, on a featured table near the front of the library.",
+   "range": [
+    3275,
+    3357
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "book",
+   "did": "内页完好无损，上面写着 If you can dream it, you can do it 这类句子",
+   "quote_anchor": "But the pages were unmarred, intact, full of sentences like If you can dream it, you can do it",
+   "range": [
+    4320,
+    4414
+   ],
+   "words": 19
+  }
+ ]
+}

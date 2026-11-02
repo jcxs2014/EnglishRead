@@ -1,0 +1,199 @@
+{
+ "chapter": 87,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch87_chapter_xvii.txt",
+ "source_len_chars": 5402,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "每次试验失败后只能回头使用 Haverty 的原始血清来稳定心脏，直到下一次尝试",
+   "quote_anchor": "And every time the attempted progress failed, which it did, again, and again, and again, he was forced to return to the numbing poison of Haverty’s original serum",
+   "range": [
+    560,
+    722
+   ],
+   "words": 28
+  },
+  {
+   "n": 2,
+   "who": "Dani",
+   "did": "把一支新的药筒交给 Victor，筒中的液体不再是蓝色而是紫色",
+   "quote_anchor": "And then, one day, she handed him a fresh cartridge, the liquid inside no longer blue, but violet.",
+   "range": [
+    1199,
+    1297
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "把 Dani 的最新配方装入吸入器，Dani 同时把计时器设为五分钟",
+   "quote_anchor": "Victor slotted her latest formula into the inhaler as Dani set the timer for five minutes.",
+   "range": [
+    1492,
+    1582
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "把吸入器举到嘴边深吸一口",
+   "quote_anchor": "Victor lifted the inhaler to his mouth and drew in deeply.",
+   "range": [
+    1741,
+    1799
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "在疼痛如期没有出现后说出「It works」",
+   "quote_anchor": "“It works,” he said, those two small words buzzing with power.",
+   "range": [
+    3159,
+    3221
+   ],
+   "words": 11
+  },
+  {
+   "n": 6,
+   "who": "Dani",
+   "did": "睁大眼睛笑着说「I think we have a winner」",
+   "quote_anchor": "“Holy shit,” said Dani, eyes going wide. A smile broke across her face. “I think we have a winner.”",
+   "range": [
+    3224,
+    3323
+   ],
+   "words": 19
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "对闯入实验室的年轻人动用能力抓住其神经，把档位猛地调高",
+   "quote_anchor": "Victor reached out, not with his hand, but his power, took hold of the intruder’s nerves, and snapped the dial up",
+   "range": [
+    3957,
+    4070
+   ],
+   "words": 21
+  },
+  {
+   "n": 8,
+   "who": "Dani",
+   "did": "从 Victor 手里拿回吸入器并弹出药筒",
+   "quote_anchor": "As she spoke, Dani took back the inhaler and ejected the vial.",
+   "range": [
+    4652,
+    4714
+   ],
+   "words": 12
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Dani",
+   "did": "与 Victor 的关系：在 Victor 头痛到看不见时仍安慰他说自己越来越接近了",
+   "quote_anchor": "“I’m getting closer,” she said, when the headache got so bad he couldn’t see.",
+   "range": [
+    1060,
+    1137
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Dani",
+   "did": "与 Victor 的关系：坚持紫色配方只是原型，在更多测试完成前要他继续用旧配方",
+   "quote_anchor": "holding up the violet vial, “is a prototype, not a finished product, and until I can run more tests, I want you to keep using the old compound",
+   "range": [
+    4893,
+    5035
+   ],
+   "words": 28
+  },
+  {
+   "n": 3,
+   "who": "Dani",
+   "did": "与 Victor 的关系：冲上前质问 Victor 是否刚杀了自己的助教",
+   "quote_anchor": "Dani yelped. “Did you just kill my TA?” she snapped, rushing toward the body.",
+   "range": [
+    4176,
+    4253
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "与 Dani 的关系：他接受回旧药筒，心里赞赏她的严谨",
+   "quote_anchor": "As Victor accepted the old cartridge, the scientific side of his mind applauded her due diligence.",
+   "range": [
+    5057,
+    5155
+   ],
+   "words": 16
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Dani 设定的计时器",
+   "did": "five minutes（五分钟）",
+   "quote_anchor": "as Dani set the timer for five minutes. That was all the time he had these days",
+   "range": [
+    1543,
+    1622
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "Victor 撑过的时间",
+   "did": "Five minutes became ten, and then fifteen（五分钟变成十分钟，再变成十五分钟）",
+   "quote_anchor": "Five minutes became ten, and then fifteen, and still death showed no sign of reaching out for him.",
+   "range": [
+    2910,
+    3008
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Dani 估计 Victor 昏迷时间",
+   "did": "eight to twelve hours（八到十二小时）",
+   "quote_anchor": "My guess is anywhere from eight to twelve hours, since I modeled it on the original.",
+   "range": [
+    4464,
+    4548
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Victor 失去能力/濒死的时长",
+   "did": "nearly a decade（近十年）",
+   "quote_anchor": "the part that had spent nearly a decade either powerless or dying—wasn’t interested in safe.",
+   "range": [
+    5176,
+    5268
+   ],
+   "words": 15
+  },
+  {
+   "n": 5,
+   "who": "Victor 说的那句话里的词数",
+   "did": "two small words（两个词）",
+   "quote_anchor": "“It works,” he said, those two small words buzzing with power.",
+   "range": [
+    3159,
+    3221
+   ],
+   "words": 11
+  }
+ ]
+}

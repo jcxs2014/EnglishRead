@@ -1,0 +1,210 @@
+{
+ "chapter": 71,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch71_chapter_i.txt",
+ "source_len_chars": 3763,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Dani",
+   "did": "scrawled a formula on the digital white board and explained carbon bonds to her class",
+   "quote_anchor": "As her hand scrawled out a formula on the digital white board, and her mouth rattled off an explanation about carbon bonds,",
+   "range": [
+    126,
+    249
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Dani",
+   "did": "asked the class for questions before the bell rang",
+   "quote_anchor": "“Any questions?” she asked, but she’d timed the words well.",
+   "range": [
+    884,
+    943
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Dani",
+   "did": "slid her notes back in her bag and started for the door as the students surged up",
+   "quote_anchor": "She slid her notes back in her bag and started for the door.",
+   "range": [
+    1090,
+    1150
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "a student",
+   "did": "called after her asking to ask a question, and she kept walking",
+   "quote_anchor": "“Could I ask a question?” pressed the student. Dani tugged the tie out of her hair, shook out her black curls,",
+   "range": [
+    1864,
+    1974
+   ],
+   "words": 21
+  },
+  {
+   "n": 5,
+   "who": "Dani",
+   "did": "rubbed her temples, unlocked her office door, and stopped when she saw the room wasn't empty",
+   "quote_anchor": "Dani rubbed her temples, and unlocked her office door, and stopped abruptly when she saw that the room wasn’t empty.",
+   "range": [
+    2407,
+    2523
+   ],
+   "words": 20
+  },
+  {
+   "n": 6,
+   "who": "Dani",
+   "did": "asked the man in her office how he got in",
+   "quote_anchor": "“The name’s on the door,” she said, too tired to beat around the bush. “How did you get in?”",
+   "range": [
+    3037,
+    3129
+   ],
+   "words": 19
+  },
+  {
+   "n": 7,
+   "who": "Dani",
+   "did": "recognized the small round object in the man's hand as an inhaler with a brightly glowing blue liquid",
+   "quote_anchor": "she saw one hand was fidgeting with a small round object. It took her a moment to recognize the disc for what it was: an inhaler.",
+   "range": [
+    3261,
+    3390
+   ],
+   "words": 26
+  },
+  {
+   "n": 8,
+   "who": "the stranger",
+   "did": "twitched his mouth into a smile without warmth and said he certainly hoped he could help",
+   "quote_anchor": "The stranger’s mouth twitched, a smile without any of the warmth. “For both our sakes,” he said, “I certainly hope so.”",
+   "range": [
+    3643,
+    3762
+   ],
+   "words": 21
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Dani",
+   "did": "tensed, knowing she had never seen this man before and that he was not a professor in her department",
+   "quote_anchor": "Dani tensed. She might not know her students’ names, but she knew their faces well enough to know she’d never seen this man before.",
+   "range": [
+    2841,
+    2972
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "the stranger",
+   "did": "sat waiting at her desk on her own side, his back to the cabinets and his gaze on the door",
+   "quote_anchor": "A man sat waiting at her desk, not on the student side, but on her own, his back to the cabinets and his gaze on the door.",
+   "range": [
+    2526,
+    2648
+   ],
+   "words": 27
+  },
+  {
+   "n": 3,
+   "who": "the stranger",
+   "did": "seemed unbothered by her question and did not answer it",
+   "quote_anchor": "The man seemed unbothered by the question, but he didn’t answer.",
+   "range": [
+    3132,
+    3196
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Dani",
+   "did": "heard her mother and friends asking what happened, when they meant to ask what she had done to screw it up",
+   "quote_anchor": "What happened? when what they meant to say was What did you do to screw that up?",
+   "range": [
+    1424,
+    1504
+   ],
+   "words": 17
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Dani",
+   "did": "had sixty-eight students in her current block",
+   "quote_anchor": "There were sixty-eight students in her current block. It was pointless trying to learn their names.",
+   "range": [
+    1558,
+    1657
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Dani",
+   "did": "had already given the same lecture five times in the three years she had been stuck teaching sophomores",
+   "quote_anchor": "she’d already given five times in the three years she’d been stuck teaching sophomores.",
+   "range": [
+    553,
+    640
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Dani",
+   "did": "had been on track three years ago to be the first Black female chemist at the country's most prestigious lab",
+   "quote_anchor": "Three years ago, Dani had been on track to be the first Black female chemist at the country’s most prestigious lab.",
+   "range": [
+    1153,
+    1268
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Dani",
+   "did": "counted a hot bath, a tall glass of wine and some shitty reality TV as three components of her disassociation",
+   "quote_anchor": "some shitty reality TV, three components that formed the stable structure of her disassociation.",
+   "range": [
+    2136,
+    2232
+   ],
+   "words": 14
+  },
+  {
+   "n": 5,
+   "who": "Dani",
+   "did": "said half of her students would drop over the course of the semester",
+   "quote_anchor": "Even at a school as good as Lockland, half of them would drop over the course of the semester—it was only a question of when.",
+   "range": [
+    1658,
+    1783
+   ],
+   "words": 25
+  },
+  {
+   "n": 6,
+   "who": "a student",
+   "did": "told Dani that her question wouldn't take a long",
+   "quote_anchor": "“I know,” said the student, “but it won’t take a long and—”",
+   "range": [
+    2235,
+    2294
+   ],
+   "words": 12
+  }
+ ]
+}

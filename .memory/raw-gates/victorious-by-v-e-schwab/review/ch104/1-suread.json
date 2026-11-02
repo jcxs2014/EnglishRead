@@ -1,0 +1,199 @@
+{
+ "chapter": 104,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch104_chapter_xxxiv.txt",
+ "source_len_chars": 7901,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Dr. Gray",
+   "did": "asked Sydney to fix the problem she had created so that she would show she was willing to commit to the work",
+   "quote_anchor": "You created a problem. I’m asking you to fix it. Not only because it needs doing, but because it will show that you’re willing to commit to the work.",
+   "range": [
+    131,
+    280
+   ],
+   "words": 29
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "refused to agree to Gray's treatment, saying she could not",
+   "quote_anchor": "“I can’t,” said Syd, fists balled on her knees.",
+   "range": [
+    1414,
+    1461
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "swiped the pencil off the desk after an alarm cut Gray off, and drove its sharpened point into his thigh when he blocked the door",
+   "quote_anchor": "Dr. Gray rose, too, and moved to block her way, and she drove the pencil’s sharpened point down into his thigh.",
+   "range": [
+    2229,
+    2340
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "ran into Noah in the hall, hugged him, and broke the clasp on the gun holstered at his back",
+   "quote_anchor": "her hand found what it was looking for. The sleek black weapon holstered at his back. As her thumb broke the clasp",
+   "range": [
+    3551,
+    3665
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "Sydney",
+   "did": "pulled the gun free and shot Noah in the chest after telling him she was not a kid",
+   "quote_anchor": "Syd pulled away, sliding the gun free as she looked up at him. “I said, I’m not a kid.”",
+   "range": [
+    3763,
+    3850
+   ],
+   "words": 19
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "fled down the white halls with no signs and no windows, and the world tipped as she turned at a T",
+   "quote_anchor": "there was no way to know how to get there because the halls and walls all looked the same. No signs. No windows.",
+   "range": [
+    4623,
+    4735
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "found herself in the galley kitchen watching a popcorn packet revolve in the microwave, and realized she was still in the white halls",
+   "quote_anchor": "She straightened, fingers gripping the counter, as if to ground herself. She hadn’t been here, had she? No, she was in the white halls, trying to—",
+   "range": [
+    5367,
+    5513
+   ],
+   "words": 26
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "walked into the living room and sank into a chair with a whisky",
+   "quote_anchor": "instead of passing by, he sank into a chair, a whisky hanging from his fingertips.",
+   "range": [
+    7425,
+    7507
+   ],
+   "words": 15
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney and Dr. Gray",
+   "did": "Gray was treating her as the age she looked and not the age she was, assuming she wanted a father figure when she already had two",
+   "quote_anchor": "He was treating her as if she was the age she looked, and not the age she was. Assuming she wanted a father figure, when she already had two.",
+   "range": [
+    1248,
+    1389
+   ],
+   "words": 29
+  },
+  {
+   "n": 2,
+   "who": "Sydney and Mitch",
+   "did": "Mitch had taught her to fight dirty, using her teeth or anything she could find, because fighting clean is for the ring",
+   "quote_anchor": "Mitch had taught her, if she was ever in a fight, she should fight dirty.",
+   "range": [
+    1978,
+    2051
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Sydney and Noah",
+   "did": "Noah was the smiling stranger from the porch, and his mottled swirl of colors marked him as an EO",
+   "quote_anchor": "He wasn’t wearing sunglasses anymore, and his eyes gave him away, a mottled swirl of colors that marked him as an EO.",
+   "range": [
+    2931,
+    3048
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Sydney and Victor",
+   "did": "she knew he should not be there, that the moment belonged to the months after he had left, and that it was not real",
+   "quote_anchor": "She knew he shouldn’t be there, knew this, this moment, which was made up of a memory, belonged to the months after he’d left.",
+   "range": [
+    7534,
+    7660
+   ],
+   "words": 24
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Dr. Gray's estimate of Sydney",
+   "did": "how long she has been running: nearly half her life",
+   "quote_anchor": "you have been running for nearly half your life. You must be tired.",
+   "range": [
+    546,
+    613
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "the number of father figures she already had: two",
+   "quote_anchor": "Assuming she wanted a father figure, when she already had two.",
+   "range": [
+    1327,
+    1389
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "the number of rounds she emptied into Noah's chest: seven",
+   "quote_anchor": "Seven rounds, and at least one must have gotten through because Noah looked down, brows knitting in confusion as blood soaked through his front.",
+   "range": [
+    4147,
+    4291
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "the agents Sydney met in the hall",
+   "did": "the number of agents coming toward her: a pair",
+   "quote_anchor": "She hit a T and turned right, only to find a pair of agents coming toward her.",
+   "range": [
+    4738,
+    4816
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Mitch's Sydney-shaped-space",
+   "did": "how much room it really was: half a cushion",
+   "quote_anchor": "What Mitch declared a Sydney-shaped-space, which really just meant half a cushion in the corner.",
+   "range": [
+    6886,
+    6982
+   ],
+   "words": 15
+  }
+ ]
+}

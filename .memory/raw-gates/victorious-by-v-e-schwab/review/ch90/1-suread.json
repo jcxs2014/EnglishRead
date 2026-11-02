@@ -1,0 +1,199 @@
+{
+ "chapter": 90,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch90_chapter_xx.txt",
+ "source_len_chars": 5208,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "stood before the penthouse windows watching the crimson spill across the skyline and decided it was going to be a good day",
+   "quote_anchor": "June stood before the penthouse windows, watching the crimson spill across the skyline, and decided it was going to be a good day.",
+   "range": [
+    107,
+    237
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "applied the rosy polish to her toenails and wiggled them, saying aloud that she liked the shade",
+   "quote_anchor": "Then wiggled her freshly painted toes. “I like this shade,” she said aloud. No one answered.",
+   "range": [
+    2074,
+    2166
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "read the name on the bottom of the polish bottle and judged the color was more a Summer Blush, a Tip of the Tongue pink",
+   "quote_anchor": "It was more a Summer Blush, she thought, a Tip of the Tongue pink.",
+   "range": [
+    2339,
+    2405
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "rose from the sofa when her phone chimed, wincing at the shallow pain as she stepped around the body on the floor",
+   "quote_anchor": "June sighed, and rose, wincing at the wave of shallow pain as she stepped around the body on the floor.",
+   "range": [
+    2490,
+    2593
+   ],
+   "words": 20
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "discovered that her body only heals while she is wearing it, though she had been shot more than a year ago",
+   "quote_anchor": "It had been more than a year since she’d been shot, but June had since discovered, much to her chagrin, that her body only healed while she was wearing it.",
+   "range": [
+    935,
+    1090
+   ],
+   "words": 30
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "found the dead man sitting upright in the entry way, shot in the crotch, the heart and the head",
+   "quote_anchor": "the man sitting upright in the entry way, slumped against the wall where he’d been shot. In the crotch. And the heart. And the head.",
+   "range": [
+    3139,
+    3271
+   ],
+   "words": 25
+  },
+  {
+   "n": 7,
+   "who": "the wife",
+   "did": "insisted that June wear her body for the gig so the man and the mistress would know exactly who was killing them",
+   "quote_anchor": "had insisted that June wear her body for the gig, so the man and the mistress would know exactly who was killing them",
+   "range": [
+    3682,
+    3799
+   ],
+   "words": 23
+  },
+  {
+   "n": 8,
+   "who": "June",
+   "did": "read Victor's message, then buried herself inside another body and started for the door",
+   "quote_anchor": "burying herself and her pain and her pink toes inside another body as she started for the door",
+   "range": [
+    5009,
+    5103
+   ],
+   "words": 18
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "June and Victor",
+   "did": "Victor had been pinging June with sonar pings that went silent for months, and now he sent her a text",
+   "quote_anchor": "His sonar pings had petered out these last few months, as if he understood that she’d gone off the board.",
+   "range": [
+    4466,
+    4571
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "the wife and June",
+   "did": "the wife hired June to do the killing in the wife's own body",
+   "quote_anchor": "The wife had found out what she was, what she could do, had insisted that June wear her body for the gig",
+   "range": [
+    3626,
+    3730
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "the wife and the mistress",
+   "did": "the mistress was a different woman from the wife, the one lying on the penthouse rug",
+   "quote_anchor": "The wife, not to be confused with the mistress ruining the rug.",
+   "range": [
+    3340,
+    3403
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "June and Syd",
+   "did": "the news that Syd had been taken sank through June and put her in motion immediately",
+   "quote_anchor": "June took up the phone, and stared at the text, the message sinking through her like a stone.",
+   "range": [
+    4858,
+    4951
+   ],
+   "words": 18
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "how long she slept in the penthouse: eight hours",
+   "quote_anchor": "Eight hours on eight-hundred thread-count sheets did wonders for a person’s mood.",
+   "range": [
+    273,
+    354
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "the penthouse sheets",
+   "did": "the thread count of the sheets: eight-hundred",
+   "quote_anchor": "Eight hours on eight-hundred thread-count sheets did wonders for a person’s mood.",
+   "range": [
+    273,
+    354
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "how long ago she had been shot: more than a year",
+   "quote_anchor": "It had been more than a year since she’d been shot, but June had since discovered, much to her chagrin, that her body only healed while she was wearing it.",
+   "range": [
+    935,
+    1090
+   ],
+   "words": 30
+  },
+  {
+   "n": 4,
+   "who": "Victor's message",
+   "did": "the length of the message he sent June: three words",
+   "quote_anchor": "the message opened. It was three words long.",
+   "range": [
+    4794,
+    4838
+   ],
+   "words": 8
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "the number of coats of polish she was about to apply: a second",
+   "quote_anchor": "She was about to apply a second coat when her phone chimed on the nearby counter.",
+   "range": [
+    2408,
+    2489
+   ],
+   "words": 16
+  }
+ ]
+}

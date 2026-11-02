@@ -1,0 +1,210 @@
+{
+ "chapter": 38,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch38_chapter_viii.txt",
+ "source_len_chars": 7528,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Rios",
+   "did": "Rode in the van with a helmet on and her neck rolled after the van hit a bump",
+   "quote_anchor": "THE van hit a bump, and the back of Rios’s helmet knocked against the armored wall.",
+   "range": [
+    72,
+    155
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Charlotte Tills",
+   "did": "Said from the van wall that they were all dead",
+   "quote_anchor": "And then the EO cuffed to the van’s opposite wall said, “They’re all dead.”",
+   "range": [
+    771,
+    846
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Charlotte Tills",
+   "did": "Said she sees no future for the agents, only death",
+   "quote_anchor": "“No future,” mused the EO sleepily. “Just … dead.”",
+   "range": [
+    1955,
+    2005
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "Charlotte Tills",
+   "did": "Told Rios that in the end all of them meet what is waiting in the mirror, sometimes a what and sometimes a who",
+   "quote_anchor": "In the end, all of us meet what’s waiting in the mirror.” She swallowed dryly. “Most of the time it’s a what. But sometimes it’s a who.”",
+   "range": [
+    2577,
+    2713
+   ],
+   "words": 27
+  },
+  {
+   "n": 5,
+   "who": "Charlotte Tills",
+   "did": "Said that this was not how she was going to die",
+   "quote_anchor": "The EO smiled. “Because,” she said, “this isn’t how I die.”",
+   "range": [
+    3282,
+    3341
+   ],
+   "words": 11
+  },
+  {
+   "n": 6,
+   "who": "Rios",
+   "did": "Found Agent Harris’s office missing from the control room screens and asked guard Tennison where the prisoners from cells three, seven and thirteen were",
+   "quote_anchor": "“Where are the prisoners who were in three, seven, and thirteen?”",
+   "range": [
+    6117,
+    6182
+   ],
+   "words": 11
+  },
+  {
+   "n": 7,
+   "who": "Tennison",
+   "did": "Named Dr. Gray as the answer to what happened to the missing prisoners",
+   "quote_anchor": "“Dr. Gray,” answered the guard, as if that explained everything.",
+   "range": [
+    6606,
+    6670
+   ],
+   "words": 10
+  },
+  {
+   "n": 8,
+   "who": "Rios",
+   "did": "Walked out of the control room, crossed the gravel lot to her car, started the engine and drove away from EON calmly",
+   "quote_anchor": "She simply crossed the gravel lot to her car, and sank into the driver’s seat, and started the engine, and drove, as calmly as she could",
+   "range": [
+    7355,
+    7491
+   ],
+   "words": 26
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Charlotte Tills",
+   "did": "Is nineteen years old and, according to her dossier, can see the future in reflective surfaces",
+   "quote_anchor": "Charlotte Tills. Nineteen. According to the dossier, she could see the future in reflective surfaces.",
+   "range": [
+    1060,
+    1161
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Charlotte Tills",
+   "did": "Says humans are one color and EOs another, so their mirrors show a difference",
+   "quote_anchor": "“Humans are one color, and we’re another. But them.” She tipped her head toward the front of the van.",
+   "range": [
+    1742,
+    1843
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Malcolm",
+   "did": "Is the heavyset Black man her team caught, held in the analogue cell fitted for EOs who disrupt technology, and paced the floor measuring it",
+   "quote_anchor": "In another, an analogue cell, fitted for EOs who tended to disrupt technology, the second one they’d caught, a heavyset Black man named Malcolm",
+   "range": [
+    5726,
+    5869
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "Tennison",
+   "did": "Had always been loud to the point of brashness",
+   "quote_anchor": "Tennison had always been loud to the point of brashness.",
+   "range": [
+    4880,
+    4936
+   ],
+   "words": 10
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Charlotte Tills",
+   "did": "Nineteen",
+   "quote_anchor": "Charlotte Tills. Nineteen. According to the dossier, she could see the future in reflective surfaces.",
+   "range": [
+    1060,
+    1161
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "the EO targets captured by Rios’s team",
+   "did": "two targets",
+   "quote_anchor": "The mission had been a success. Her team had captured two targets without losing any of their own.",
+   "range": [
+    254,
+    352
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "the EOs missing from the cells on the control room screens",
+   "did": "Three of the EOs were missing",
+   "quote_anchor": "Three of the EOs were missing. She hadn’t noticed, not at first, because two of the three cells weren’t empty.",
+   "range": [
+    5508,
+    5618
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "the cells holding the newly captured EOs",
+   "did": "two of the three cells",
+   "quote_anchor": "She hadn’t noticed, not at first, because two of the three cells weren’t empty.",
+   "range": [
+    5539,
+    5618
+   ],
+   "words": 14
+  },
+  {
+   "n": 5,
+   "who": "the cell numbers Rios asked about",
+   "did": "three, seven, and thirteen",
+   "quote_anchor": "“Where are the prisoners who were in three, seven, and thirteen?”",
+   "range": [
+    6117,
+    6182
+   ],
+   "words": 11
+  },
+  {
+   "n": 6,
+   "who": "the floor where the missing prisoners were taken",
+   "did": "Sub 1",
+   "quote_anchor": "Sub 1 didn’t hold observation rooms or cells. The only thing located on that floor was the morgue.",
+   "range": [
+    6416,
+    6514
+   ],
+   "words": 18
+  }
+ ]
+}

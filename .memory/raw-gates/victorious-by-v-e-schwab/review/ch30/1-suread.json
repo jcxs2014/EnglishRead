@@ -1,0 +1,177 @@
+{
+ "chapter": 30,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch30_chapter_xi.txt",
+ "source_len_chars": 7542,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "Held the door as Helena stepped into his office with the stone-faced soldier",
+   "quote_anchor": "Gabriel held the door as Helena stepped into his office, followed by the same stone-faced soldier who always trailed her",
+   "range": [
+    89,
+    209
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "Made espresso and set one cup before Helena with one sugar",
+   "quote_anchor": "“Espresso,” he said, carrying the twin cups to the table, and setting one before her. “One sugar, if I’m right.”",
+   "range": [
+    1167,
+    1279
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Helena Roy",
+   "did": "Asked Gabriel what he had learned in the six months since taking over",
+   "quote_anchor": "“All right,” said Helena, taking up the cup and saucer. “You’ve had six months. What have you learned so far?”",
+   "range": [
+    1857,
+    1967
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "Argued the EOs had to stay at EON to be studied, as patients rather than prisoners",
+   "quote_anchor": "“No,” said Gabriel. “On the contrary. It’s imperative that they stay here. Where they can be studied. Understood.",
+   "range": [
+    4385,
+    4498
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Helena Roy",
+   "did": "Said she would be interested in hearing about a way to guarantee the EOs' cooperation",
+   "quote_anchor": "“So, if there somehow were a way to guarantee cooperation, I’d be interested in hearing…” She trailed off",
+   "range": [
+    5612,
+    5717
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Helena Roy",
+   "did": "Broke out in sweat and stopped breathing normally as the drug took hold",
+   "quote_anchor": "she stopped, as if running out of breath. Sweat broke out along her skin.",
+   "range": [
+    6067,
+    6140
+   ],
+   "words": 14
+  },
+  {
+   "n": 7,
+   "who": "Helena Roy",
+   "did": "Fell to her hands and knees and then to the floor beside her chair",
+   "quote_anchor": "She fell, first to her hands and knees, and then, to the floor beside her chair.",
+   "range": [
+    6639,
+    6719
+   ],
+   "words": 16
+  },
+  {
+   "n": 8,
+   "who": "Gabriel",
+   "did": "Knelt beside Helena, splayed his hand across her skin and watched her chest stop",
+   "quote_anchor": "he admitted as her eyelids fluttered, and her limbs went slack. “But there are better uses of our time.” Her chest rose, and fell, and stopped.",
+   "range": [
+    7263,
+    7406
+   ],
+   "words": 26
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Helena Roy",
+   "did": "Was EON's director, addressed by Gabriel as Director Roy",
+   "quote_anchor": "Director Roy, there’s no telling what I could learn from these subjects, if given the right tools.",
+   "range": [
+    5160,
+    5258
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "the EOs",
+   "did": "Saw Gabriel as an enemy and a captor instead of an ally or confidant",
+   "quote_anchor": "“It’s hard to build rapport with a cell wall in the way.”",
+   "range": [
+    3256,
+    3313
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "the stone-faced soldier",
+   "did": "Would have obeyed Gabriel's order to shoot Helena Roy in the head",
+   "quote_anchor": "Of course, if Gabriel told him to shoot Helena Roy in the head, he’d do that, too.",
+   "range": [
+    7075,
+    7157
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "the guards",
+   "did": "Risk their lives to keep the EOs in those cells and would not stand for changing that",
+   "quote_anchor": "“The guards wouldn’t stand for it. They risk their lives to keep the EOs in those cells.”",
+   "range": [
+    4888,
+    4977
+   ],
+   "words": 17
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "Had had six months of work to show Helena Roy",
+   "quote_anchor": "“All right,” said Helena, taking up the cup and saucer. “You’ve had six months. What have you learned so far?”",
+   "range": [
+    1857,
+    1967
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Gabriel's espresso",
+   "did": "Was served with one sugar",
+   "quote_anchor": "“Espresso,” he said, carrying the twin cups to the table, and setting one before her. “One sugar, if I’m right.”",
+   "range": [
+    1167,
+    1279
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Gabriel's office",
+   "did": "Held two elegant chairs set across a low table instead of a desk",
+   "quote_anchor": "He’d forgone a desk, opting instead to place two elegant chairs across a low table, creating a sense of equity between therapist and patient.",
+   "range": [
+    668,
+    809
+   ],
+   "words": 24
+  }
+ ]
+}

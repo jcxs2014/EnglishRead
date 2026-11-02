@@ -1,0 +1,188 @@
+{
+ "chapter": 109,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch109_chapter_xxxix.txt",
+ "source_len_chars": 5082,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "stood at the back of the auditorium in sunglasses and spun the disc, watching the red dot on his screen continue west",
+   "quote_anchor": "He spun the disc between his fingers, watching as the light bled out beyond the window, and the red dot on his screen continued west.",
+   "range": [
+    187,
+    320
+   ],
+   "words": 25
+  },
+  {
+   "n": 2,
+   "who": "Dani",
+   "did": "flagged down her latest TA to take her place in the exam hall and nodded Victor out of the auditorium",
+   "quote_anchor": "Dani flagged down her latest TA—not the one who’d “fainted” in her lab—to take her place. She nodded at Victor",
+   "range": [
+    1453,
+    1563
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "told Dani in her office that he needed to take a trip, without saying how long he would be gone",
+   "quote_anchor": "“I need to take a trip,” he said, drawing off the dark sunglasses as the door swung shut behind him.",
+   "range": [
+    1718,
+    1818
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "ejected the cartridge, set it on the desk and said the remaining drug would not be enough",
+   "quote_anchor": "“I won’t be gone for very long,” he said, ejecting the cartridge. It was less than half full. He set it on the desk.",
+   "range": [
+    2739,
+    2855
+   ],
+   "words": 24
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "asked Dani to make an exception because he was not standing there holding a prescription",
+   "quote_anchor": "“And I’m not standing here, holding a prescription,” he shot back, coldly. “I’m asking you to make an exception.”",
+   "range": [
+    2975,
+    3088
+   ],
+   "words": 19
+  },
+  {
+   "n": 6,
+   "who": "Dani",
+   "did": "reached into her pocket, produced a single vial and made him promise not to abuse it before handing it over",
+   "quote_anchor": "She started to give it to him, but paused. “Promise me you won’t abuse it.”",
+   "range": [
+    3472,
+    3547
+   ],
+   "words": 15
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "froze Dani's hand when she lunged for the vial and retrieved the cartridge from beneath her frozen fingers",
+   "quote_anchor": "Victor stepped forward, retrieving the cartridge from beneath her frozen fingers.",
+   "range": [
+    4419,
+    4500
+   ],
+   "words": 11
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "apologized to Dani, walked away and let her go as the door swung shut between them",
+   "quote_anchor": "“I’ll be back soon,” he said, letting Dani go as the door swung shut between them.",
+   "range": [
+    4999,
+    5081
+   ],
+   "words": 16
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Dani and Victor",
+   "did": "Dani still ran a weekly battery of tests on Victor to track his body's progress and the drug's long-term effects",
+   "quote_anchor": "he still submitted to a battery of tests each week, designed to track his body’s progress, as well as the drug’s long-term effects",
+   "range": [
+    845,
+    975
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Eli and Victor",
+   "did": "Eli appears to Victor as a phantom at the edge of his sight, and Victor dismisses him by turning a dial in his mind",
+   "quote_anchor": "Eli flickered at the edge of Victor’s sight. He crossed his arms, amusement playing on his face.",
+   "range": [
+    3655,
+    3751
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Victor and Dani",
+   "did": "Victor realizes Dani helps him because someone convinced Daniela Dean she wasn't good enough, and Victor is her way to prove them wrong",
+   "quote_anchor": "Someone had tried to convince Daniela Dean that she wasn’t good enough. And she needed to prove them wrong.",
+   "range": [
+    2379,
+    2486
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Victor and Mitch",
+   "did": "Mitch has not answered Victor's message on the board, and each unanswered hour tips Victor toward certainty that something has gone wrong",
+   "quote_anchor": "every hour that Mitch didn’t answer his message on the board, was a pebble on the scales",
+   "range": [
+    377,
+    465
+   ],
+   "words": 17
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "how early he arrived for the appointment with Dani: two days",
+   "quote_anchor": "He was two days early for their next appointment.",
+   "range": [
+    732,
+    781
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Victor's cartridge",
+   "did": "how full the cartridge was: less than half full",
+   "quote_anchor": "It was less than half full. He set it on the desk.",
+   "range": [
+    2805,
+    2855
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Dani",
+   "did": "how long the drug she gave him would last: a week, if he took it properly",
+   "quote_anchor": "“Well, this will last a week. If you take it properly.”",
+   "range": [
+    3381,
+    3436
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Dani and Victor",
+   "did": "how often the tests on Victor were run: each week",
+   "quote_anchor": "he still submitted to a battery of tests each week, designed to track his body’s progress",
+   "range": [
+    845,
+    934
+   ],
+   "words": 16
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "chapter": 3,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch03_chapter_ii.txt",
+ "source_len_chars": 10398,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "traded the men’s bathroom for a corner booth and traded Victor’s cellmate for a curly brunette in a peasant dress",
+   "quote_anchor": "TEN minutes later, they’d traded the men’s bathroom for a corner booth, and June had traded Victor’s cellmate for a curly brunette in a peasant dress.",
+   "range": [
+    39,
+    189
+   ],
+   "words": 26
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "asked Victor how Syd was",
+   "quote_anchor": "“How is Syd?” asked June, as if they’d ended up on the subject of her obsession accidentally.",
+   "range": [
+    1974,
+    2067
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "flicked her wrist and produced Victor’s vial",
+   "quote_anchor": "She flicked her wrist, producing a vial—his vial. Victor swore inwardly.",
+   "range": [
+    6373,
+    6445
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "ejected the half-empty vial from his inhaler and replaced it with the full one",
+   "quote_anchor": "He ejected the half-empty vial from his inhaler and replaced it with the full one.",
+   "range": [
+    7357,
+    7439
+   ],
+   "words": 15
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "set the device on the table between them and spun it",
+   "quote_anchor": "He set the device on the table between them and spun it, as if it were a gun at the center of another, equally lethal game.",
+   "range": [
+    7533,
+    7656
+   ],
+   "words": 26
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "thumbed through a set of playing cards, plucked out the face cards and tossed them down",
+   "quote_anchor": "But as she thumbed through them, plucking out the face cards, and tossing them down, he noticed a system.",
+   "range": [
+    8666,
+    8771
+   ],
+   "words": 19
+  },
+  {
+   "n": 7,
+   "who": "June",
+   "did": "found the card she wanted, the jack of spades, and flicked it toward Victor",
+   "quote_anchor": "“Aha.” She found the card she wanted—the jack of spades—and flicked it toward him.",
+   "range": [
+    9253,
+    9335
+   ],
+   "words": 14
+  },
+  {
+   "n": 8,
+   "who": "June",
+   "did": "scribbled her own number on the back of a joker and let it land face up beside the jack of spades",
+   "quote_anchor": "Rising to her feet, she pulled a joker from the deck, and scribbled her own number on the back, letting it land face up beside the jack of spades.",
+   "range": [
+    9740,
+    9886
+   ],
+   "words": 29
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "needed eyes inside EON and pressed June to help keep EON from going after Sydney",
+   "quote_anchor": "“If you want to help Sydney,” he pressed, “this is how. By making sure they don’t go after her.”",
+   "range": [
+    6043,
+    6139
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "took away the shadow-walking EO Dominic Rusher’s pain in exchange for his service and sent him undercover into EON, where he never came out",
+   "quote_anchor": "Victor had taken away the shadow-walking EO’s pain, in exchange for his service. Sent him undercover into EON, and he’d never made it out.",
+   "range": [
+    5690,
+    5828
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "turned on her boss Marcella, claimed she was protecting Sydney, and threatened to kill Mitch",
+   "quote_anchor": "She turned on her boss—claimed she was protecting Sydney—and threatened to kill Mitch if Victor didn’t help put Marcella down.",
+   "range": [
+    3794,
+    3920
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "called Sydney “our girl” and did not believe Victor had let her out of his sight",
+   "quote_anchor": "We both know you’re the controlling type. You don’t expect me to believe you’d actually let our girl out of your sight.",
+   "range": [
+    2123,
+    2242
+   ],
+   "words": 22
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the move from the men’s bathroom to a corner booth",
+   "did": "TEN — minutes later",
+   "quote_anchor": "TEN minutes later, they’d traded the men’s bathroom for a corner booth, and June had traded Victor’s cellmate for a curly brunette in a peasant dress.",
+   "range": [
+    39,
+    189
+   ],
+   "words": 26
+  },
+  {
+   "n": 2,
+   "who": "the time since Victor left Merit",
+   "did": "three weeks earlier",
+   "quote_anchor": "She’d probably been with him since he left Merit three weeks earlier.",
+   "range": [
+    657,
+    726
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "the hotel and its bar",
+   "did": "roughly a thousand miles from Merit",
+   "quote_anchor": "the hotel—and by extension its bar—was in a fairly suburban corner of a city roughly a thousand miles from Merit",
+   "range": [
+    986,
+    1098
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "June’s list",
+   "did": "Four names — the ones who made her like this",
+   "quote_anchor": "“I made a list,” she said. “Four names. The ones who—who made me like this.”",
+   "range": [
+    2495,
+    2571
+   ],
+   "words": 15
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "Fifteen years ago — sat on the edge of a bathtub filled with ice and watched Eli go under",
+   "quote_anchor": "Fifteen years ago, Victor had sat on the edge of a bathtub filled with ice, and watched as Eli went under",
+   "range": [
+    4447,
+    4552
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "the pile of face cards",
+   "did": "A dozen EOs — a dozen different talents, a dozen potential tools",
+   "quote_anchor": "Victor scanned the pile. A dozen EOs. A dozen different talents. A dozen potential tools.",
+   "range": [
+    9161,
+    9250
+   ],
+   "words": 15
+  }
+ ]
+}

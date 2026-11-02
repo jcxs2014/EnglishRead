@@ -1,0 +1,199 @@
+{
+ "chapter": 8,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch08_chapter_vii.txt",
+ "source_len_chars": 7311,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor Vale",
+   "did": "sat in a café across the street from the medical lab waiting for George Ardley to leave work",
+   "quote_anchor": "VICTOR Vale sat in a café waiting for George Ardley to leave work.",
+   "range": [
+    72,
+    138
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Victor Vale",
+   "did": "ordered a second coffee, returned to his seat and waited for Ardley to come back",
+   "quote_anchor": "Instead, he ordered a second coffee, and returned to his seat, and waited for the man to come back.",
+   "range": [
+    629,
+    728
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "told Victor on the phone that EON's interim director is a woman named Helena Roy",
+   "quote_anchor": "EON’s done licking its wounds. Interim director is a woman named Helena Roy.",
+   "range": [
+    1902,
+    1978
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "George Ardley",
+   "did": "returned to the lab on foot and ducked down the alley instead of using his key card",
+   "quote_anchor": "Instead of using a key card to open the front doors, the chemist ducked down the alley on the building’s far side.",
+   "range": [
+    2579,
+    2693
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "Victor Vale",
+   "did": "glanced up at the camera on a nearby stoplight, held its gaze and smiled",
+   "quote_anchor": "As he crossed the road, he glanced up, toward the camera mounted on a nearby stoplight. Held its gaze, and smiled.",
+   "range": [
+    2845,
+    2959
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Victor Vale",
+   "did": "slipped down the alley and entered the lab through the back metal door he had wedged ajar",
+   "quote_anchor": "Victor slipped down the alley, approaching the metal door the chemist had used. The one he’d wedged ajar so he could come and go.",
+   "range": [
+    3261,
+    3390
+   ],
+   "words": 24
+  },
+  {
+   "n": 7,
+   "who": "Victor Vale",
+   "did": "drew the gun from his pocket and held Ardley at gunpoint after the chemist threatened to call the cops",
+   "quote_anchor": "But the last dose he’d taken had yet to wear off, so he settled for drawing the gun from his pocket.",
+   "range": [
+    4260,
+    4360
+   ],
+   "words": 21
+  },
+  {
+   "n": 8,
+   "who": "Victor Vale",
+   "did": "set the formula sheet copied from Haverty's notebook on the table and told Ardley to get to work",
+   "quote_anchor": "Well, then,” said Victor, leaning back against a set of cabinets. “I suggest you get to work.",
+   "range": [
+    7216,
+    7309
+   ],
+   "words": 17
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "is Victor's contact on the phone who reports EON's leadership and wonders how EON fails to find him",
+   "quote_anchor": "June blew out a breath. “EON’s done licking its wounds. Interim director is a woman named Helena Roy.",
+   "range": [
+    1877,
+    1978
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "George Ardley",
+   "did": "is the chemist Victor coerces into making the compound, trembling and searching for a way out",
+   "quote_anchor": "Ardley trembled visibly, eyes darting about for something. Anything. Fear fighting against self-preservation.",
+   "range": [
+    4877,
+    4986
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "is Victor's old cellmate, who succeeded in keeping EON agents away from Victor",
+   "quote_anchor": "It had been a little over a week since Victor reached out to his old cellmate, in part to reestablish a mode of contact",
+   "range": [
+    3029,
+    3148
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "appears in the photographs in Haverty's notebook alongside the experimental operations for the compound",
+   "quote_anchor": "As well as photographs. Of Eli. And what Victor could only assume were experimental operations",
+   "range": [
+    6465,
+    6559
+   ],
+   "words": 15
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor Vale",
+   "did": "was down to one vial of the compound, from the original six",
+   "quote_anchor": "He was down to one, from the original six. Thankfully, he’d stolen something else, along with Haverty’s compound.",
+   "range": [
+    946,
+    1059
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "George Ardley",
+   "did": "shuffled out of the lab just after six in the evening",
+   "quote_anchor": "The table he’d chosen offered an unobstructed view of the medical lab across the street, so he saw when the chemist shuffled out just after six",
+   "range": [
+    393,
+    536
+   ],
+   "words": 26
+  },
+  {
+   "n": 3,
+   "who": "Victor Vale",
+   "did": "reached out to Mitch a little over a week before, to restore contact and issue a challenge",
+   "quote_anchor": "It had been a little over a week since Victor reached out to his old cellmate, in part to reestablish a mode of contact",
+   "range": [
+    3029,
+    3148
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "Victor Vale",
+   "did": "showed Ardley the inhaler cartridge holding an inch of vivid blue liquid",
+   "quote_anchor": "Victor drew the inhaler cartridge from his pocket, tipping it so that the inch of vivid blue liquid painted the sides.",
+   "range": [
+    5388,
+    5506
+   ],
+   "words": 21
+  },
+  {
+   "n": 5,
+   "who": "lab employees",
+   "did": "filed out of the lab over the next hour",
+   "quote_anchor": "Over the next hour, the remaining lab employees filed out.",
+   "range": [
+    731,
+    789
+   ],
+   "words": 10
+  }
+ ]
+}

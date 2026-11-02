@@ -1,0 +1,199 @@
+{
+ "chapter": 93,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch93_chapter_xxiii.txt",
+ "source_len_chars": 6469,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "the agent",
+   "did": "leaned in and turned the key, triggering the block of C4 that June had strapped under the roadster",
+   "quote_anchor": "The agent leaned in and turned the key, triggering the generous block of C4 June had strapped to the roadster’s undercarriage.",
+   "range": [
+    1438,
+    1564
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "fired on the driver through the smoke-filled cab, painting the window behind him red",
+   "quote_anchor": "June fired, painting the window behind him red as the agents in the back of the van sprang into action.",
+   "range": [
+    1862,
+    1965
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "swapped bodies after being shot in the chest, drew a serrated knife and cut beneath a helmet’s chin",
+   "quote_anchor": "She stumbled, swapping bodies before the first one died, and drawing a serrated knife.",
+   "range": [
+    2271,
+    2357
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "used a corpse as a shield until she heard an empty magazine, then drove the blade into the agent’s chest",
+   "quote_anchor": "but she held the body up, the corpse shield absorbing the damage until she heard the telltale click of an empty magazine.",
+   "range": [
+    2607,
+    2728
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "climbed into the transport, knelt in front of Syd, unclipped the IV and undid the straps",
+   "quote_anchor": "She knelt in front of Syd, unclipping the IV. Undoing the straps. “Let’s get out of here.”",
+   "range": [
+    3626,
+    3716
+   ],
+   "words": 17
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "sent Victor her location pin while steadying Sydney and tugging the blindfold off",
+   "quote_anchor": "“I’m doing it,” she said, sending him a pin as the girl on the bench began to stir, rolling over in her sleep.",
+   "range": [
+    4522,
+    4632
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "June",
+   "did": "looked down at the girl on the bench and saw that the blond, heart-shaped girl was not Sydney",
+   "quote_anchor": "She had Sydney’s blond hair. Her heart-shaped face. But it wasn’t her.",
+   "range": [
+    4924,
+    4994
+   ],
+   "words": 12
+  },
+  {
+   "n": 8,
+   "who": "June",
+   "did": "ended up in her favorite diner booth at home, emptying sachets into her coffee until the spoon stood up straight",
+   "quote_anchor": "she was sitting in her favorite booth, emptying sachet after sachet into her coffee, waiting to see how many it would take for the spoon to stand up straight.",
+   "range": [
+    6166,
+    6324
+   ],
+   "words": 29
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "was strapped to the bench of the transport, blindfolded, hands bound, with an IV running into her wrist",
+   "quote_anchor": "She was strapped to the bench, blindfolded and hands bound, an IV running into her wrist.",
+   "range": [
+    3140,
+    3229
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "traded the soldier’s body for one of her own default bodies that Sydney had seen before and would trust",
+   "quote_anchor": "Auburn hair in dark-wash jeans. A body Sydney had seen before. One she’d recognize, and trust.",
+   "range": [
+    3469,
+    3563
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "refused to force Sydney to come with her, unlike before",
+   "quote_anchor": "But Syd wasn’t a flag in a game, something to be stolen. If she wanted to come with June, that was one thing, but she wouldn’t force her.",
+   "range": [
+    4350,
+    4487
+   ],
+   "words": 28
+  },
+  {
+   "n": 4,
+   "who": "Serena",
+   "did": "is Sydney’s older sister, the role June had stepped into because the original was dead",
+   "quote_anchor": "The one she worshipped, idolized. The one June, in some ways, had replaced, stepping into the vacant role because the original was dead.",
+   "range": [
+    5111,
+    5247
+   ],
+   "words": 23
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the convoy",
+   "did": "took the highway east till exit 92, roughly two hours outside Merit",
+   "quote_anchor": "Heading east, the straightest route was to take the highway till you reached exit 92, roughly two hours outside Merit.",
+   "range": [
+    132,
+    250
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "the C4 blast",
+   "did": "was strong enough to rock the armored van a dozen yards away",
+   "quote_anchor": "but was strong enough to rock the armored van a dozen yards away.",
+   "range": [
+    1621,
+    1686
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "the two agents in the back of the van",
+   "did": "spilled out when the rear door swung open",
+   "quote_anchor": "The rear door swung open, two more spilling out as June rounded the corner.",
+   "range": [
+    1968,
+    2043
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "took the whole fight from start to finish in less than a minute",
+   "quote_anchor": "The whole thing, start to finish, had taken less than a minute. Not bad.",
+   "range": [
+    2949,
+    3021
+   ],
+   "words": 14
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "was on her thirteenth pouch of sugar when the bell over the diner door sang",
+   "quote_anchor": "She was on her thirteenth pouch when the bell over the door sang its little song.",
+   "range": [
+    6327,
+    6408
+   ],
+   "words": 16
+  }
+ ]
+}

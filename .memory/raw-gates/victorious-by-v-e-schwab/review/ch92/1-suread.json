@@ -1,0 +1,177 @@
+{
+ "chapter": 92,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch92_chapter_xxii.txt",
+ "source_len_chars": 7068,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "sat with Dani on the Slope of Lockland University, set his coffee down and cracked his knuckles",
+   "quote_anchor": "Victor set the coffee down and cracked his knuckles.",
+   "range": [
+    924,
+    976
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "made a student holding books drop them by twitching his fingers, then held her and her companion kneeling",
+   "quote_anchor": "His fingers twitched, and so did hers, the books tumbling to the ground.",
+   "range": [
+    1610,
+    1682
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "held the joggers on the quad, taking hold of four, then six, then ten players",
+   "quote_anchor": "his focus sharpened on the players, as he took hold of four, then six, then ten.",
+   "range": [
+    2787,
+    2867
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Dani",
+   "did": "called out “Stop” and cut through the humming static, making Victor let go",
+   "quote_anchor": "Dani’s voice cut through the humming static, and Victor let go, the brief discomfort in his chest retreating as he did.",
+   "range": [
+    3262,
+    3381
+   ],
+   "words": 21
+  },
+  {
+   "n": 5,
+   "who": "Dani",
+   "did": "showed Victor the tablet readings of his straining heart and losing pulse rhythm",
+   "quote_anchor": "Dani showed him the readings on the screen, the way his heart began to strain, his pulse not climbing as an athlete’s would, but losing rhythm.",
+   "range": [
+    3521,
+    3664
+   ],
+   "words": 26
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "asked Dani for a refill by handing her the empty cartridge",
+   "quote_anchor": "“I need a refill,” he said, handing her the cartridge.",
+   "range": [
+    4786,
+    4840
+   ],
+   "words": 10
+  },
+  {
+   "n": 7,
+   "who": "Dani",
+   "did": "explained the empty vial was a suppressant and a stimulant and told him to listen to his body",
+   "quote_anchor": "“It worked, because this,” she said, holding up the empty vial, “is a suppressant and a stimulant",
+   "range": [
+    5434,
+    5531
+   ],
+   "words": 17
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "dropped the coffee cup into a trash can as he and Dani walked on",
+   "quote_anchor": "They passed a trash can, and Victor let the coffee cup drop into the dark.",
+   "range": [
+    6993,
+    7067
+   ],
+   "words": 15
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Dani",
+   "did": "is the young scientist supplying Victor with a new compound and monitoring his vitals through a sensor on his ribs",
+   "quote_anchor": "Beneath his shirt and coat, the monitor pressed between his ribs, its sensor feeding vitals to the tablet in real time.",
+   "range": [
+    768,
+    887
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "Dani",
+   "did": "refused to make more than a week’s worth of the compound at a time and refused to show Victor the formula",
+   "quote_anchor": "Dani had refused to make more than a week’s worth at a time. Refused, as well, to show Victor the formula, claiming she was still refining it.",
+   "range": [
+    4486,
+    4628
+   ],
+   "words": 27
+  },
+  {
+   "n": 3,
+   "who": "Dani",
+   "did": "was making herself invaluable so that Victor would need her and she would not become another body in his wake",
+   "quote_anchor": "She was making herself invaluable. So long as Victor needed Dani’s participation, she wouldn’t become another body in his wake.",
+   "range": [
+    4656,
+    4783
+   ],
+   "words": 20
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "scanned the crowd and counted twenty, maybe thirty people in total",
+   "quote_anchor": "Victor scanned the crowd. Twenty, maybe thirty in total.",
+   "range": [
+    1165,
+    1221
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "took hold of four, then six, then ten players on the quad",
+   "quote_anchor": "as he took hold of four, then six, then ten.",
+   "range": [
+    2823,
+    2867
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Dani",
+   "did": "said that Victor can drop a body from a hundred feet",
+   "quote_anchor": "Because from where I’m standing, you’re alive. And you can drop a body from a hundred feet.",
+   "range": [
+    3966,
+    4057
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Dani",
+   "did": "makes no more than a week’s worth of the compound at a time",
+   "quote_anchor": "Dani had refused to make more than a week’s worth at a time.",
+   "range": [
+    4486,
+    4546
+   ],
+   "words": 13
+  }
+ ]
+}

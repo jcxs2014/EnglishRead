@@ -1,0 +1,199 @@
+{
+ "chapter": 114,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch114_chapter_iv.txt",
+ "source_len_chars": 5675,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "wiped the tears from his eyes and said that to see the stars again he will just have to survive",
+   "quote_anchor": "“OH, well,” said Eli, wiping the tears from his eyes. “If I want to see the stars again, I’ll just have to survive.”",
+   "range": [
+    39,
+    155
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "turned his nerves up until the rooftop vision splintered and broke apart, taking Eli with it",
+   "quote_anchor": "But the rest remembered he had work to do. He caught hold of his nerves and turned them up until the vision splintered, broke apart, taking Eli with it.",
+   "range": [
+    794,
+    946
+   ],
+   "words": 29
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "shot two EON agents who were lost inside Serena's dream",
+   "quote_anchor": "But instead of surging toward him, one just stood there, facing the wall, while the other drifted aimlessly. Both lost inside Serena’s dream.",
+   "range": [
+    1338,
+    1479
+   ],
+   "words": 23
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "tried to shoot an EO but was pinned in place by a force that vised around his arm",
+   "quote_anchor": "Victor went to shoot the EO, but when he tried to lift the gun, a force vised suddenly around his arm, pinning it in place.",
+   "range": [
+    2055,
+    2178
+   ],
+   "words": 25
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "took hold of the nerves inside the EO's injured hand and turned them up as far as they would go",
+   "quote_anchor": "He took hold of the nerves inside the EO’s injured hand and turned them up as far as they would go.",
+   "range": [
+    2666,
+    2765
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "reached out and blew the EO's fuses, and the man went down and did not get back up",
+   "quote_anchor": "Victor smiled through the pain. He didn’t have the air to say no, so he didn’t bother, just reached out, and blew the EO’s fuses.",
+   "range": [
+    2985,
+    3114
+   ],
+   "words": 25
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "was hit by an electric current bright enough to make the world go white and make his heart lose rhythm",
+   "quote_anchor": "Electricity shot through him. A sudden, shocking current, bright enough to make the world go white. To make his heart lose rhythm",
+   "range": [
+    3429,
+    3558
+   ],
+   "words": 22
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "swung his hand up with finger pointed and said “Bang”, then snapped his fingers to blow the female EO's fuses",
+   "quote_anchor": "Victor didn’t wait for her to finish. He’d dropped the gun, but he still swung his hand up, finger pointed, and said, “Bang.”",
+   "range": [
+    4256,
+    4381
+   ],
+   "words": 23
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "is on a familiar mission to reach Gabriel's office, which lies at the center of the EON compound, using the layout Mitch showed him",
+   "quote_anchor": "Victor had moved, while in the dream, and it took a moment to orient himself, to call to mind the layout Mitch had showed him.",
+   "range": [
+    999,
+    1125
+   ],
+   "words": 25
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "spoke to Victor from a speaker hidden in the walls of his green-walled office",
+   "quote_anchor": "“Welcome to EON, Victor Vale. I’m so glad you decided to come.”",
+   "range": [
+    5271,
+    5334
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Dani",
+   "did": "had trained Victor, and he was grateful he had listened to her about cardio",
+   "quote_anchor": "He was grateful he’d listened to Dani, at least when it came to cardio.",
+   "range": [
+    3314,
+    3385
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "had turned his talents to ExtraOrdinaries as well as ordinary puppets",
+   "quote_anchor": "The ordinary puppets were bad enough, but Gabriel had clearly turned his talents to ExtraOrdinaries, too.",
+   "range": [
+    1804,
+    1909
+   ],
+   "words": 16
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "found himself face-to-face with two EON agents (原文: two EON agents)",
+   "quote_anchor": "As Victor rounded the first corner, he found himself face-to-face with two EON agents.",
+   "range": [
+    1249,
+    1335
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "made two more turns before reaching Gabriel's office (原文: Two more turns)",
+   "quote_anchor": "Two more turns, and he made it to Gabriel’s office, felt the EO’s energy beyond the door.",
+   "range": [
+    4866,
+    4955
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "felt the ache recede behind a dozen other shallow pains (原文: a dozen other shallow pains)",
+   "quote_anchor": "the ache receded behind a dozen other shallow pains as he retrieved the gun and continued down the hall",
+   "range": [
+    4761,
+    4864
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Gabriel",
+   "did": "said that one of his patients wanted to say hello (原文: one of my patients)",
+   "quote_anchor": "“Oh, I do. And we will. When you’re in a less … combative state. In the meantime, one of my patients wanted to say hello.”",
+   "range": [
+    5434,
+    5556
+   ],
+   "words": 25
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "saw two worlds superimposed while Eli held the roof door open (原文: The two worlds)",
+   "quote_anchor": "The two worlds, superimposed as Eli held the roof door open.",
+   "range": [
+    437,
+    497
+   ],
+   "words": 11
+  }
+ ]
+}

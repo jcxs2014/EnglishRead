@@ -1,0 +1,210 @@
+{
+ "chapter": 116,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch116_chapter_vi.txt",
+ "source_len_chars": 7047,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "told Eli he was alive, noting that the word went up at the end",
+   "quote_anchor": "“Eli. You’re alive.” The word went up at the end, caught between a statement and a question.",
+   "range": [
+    436,
+    528
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "pointed out that Eli looked wrong, with fresh scars across his knuckles and throat and a knife in his side",
+   "quote_anchor": "But now, fresh scars ran across his knuckles, ringed his throat, and what looked like a short knife was embedded in his side.",
+   "range": [
+    702,
+    827
+   ],
+   "words": 23
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "named the EOs who had been resurrected, saying Eli enjoyed being controlled by another EO",
+   "quote_anchor": "“First Serena, then Stell, now Gray,” he said. “I’m starting to think you enjoy being controlled.",
+   "range": [
+    1002,
+    1099
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "told Eli he was not Eli but something that had crawled into his skin",
+   "quote_anchor": "“You’re not Eli,” said Victor, echoing the words aimed at him eighteen years ago. “You’re something that’s crawled into his skin.”",
+   "range": [
+    1761,
+    1891
+   ],
+   "words": 21
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "wrenched on the pain in Eli’s side and shot him in the face",
+   "quote_anchor": "Eli took a step toward Victor, who reached out before he could take a second one and wrenched on the pain in Eli’s side",
+   "range": [
+    1913,
+    2032
+   ],
+   "words": 24
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "threw Eli over the chair and into the glass table, then took up the gun and the short knife",
+   "quote_anchor": "knocking him off-balance and throwing him over the chair and into the glass table.",
+   "range": [
+    4136,
+    4218
+   ],
+   "words": 14
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "aimed the gun at the camera in the corner and told Gabriel to come kill him himself, then pulled the trigger and exploded it",
+   "quote_anchor": "He swung the gun up, aiming not for Eli but the camera in the corner of the room. “Therapy requires a foundation of mutual respect,”",
+   "range": [
+    6446,
+    6578
+   ],
+   "words": 25
+  },
+  {
+   "n": 8,
+   "who": "Eli",
+   "did": "sank the other shard of glass into Victor’s side while Victor was delivering the message",
+   "quote_anchor": "In the time it had taken to deliver the message, Eli was there, sinking the other shard of glass into Victor’s side.",
+   "range": [
+    6820,
+    6936
+   ],
+   "words": 22
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli and Victor",
+   "did": "calls Eli his old friend and foe, and says Sydney killed him once",
+   "quote_anchor": "He stared across the room at his old friend—and foe—once again, in the flesh.",
+   "range": [
+    58,
+    135
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Eli and Gabriel",
+   "did": "is resurrected and controlled by another EO, Gabriel, who will bring Victor back after Eli kills him",
+   "quote_anchor": "“After I kill you,” said Eli. “He’s going to bring you back. And you’ll know what it means to bow before a higher power.”",
+   "range": [
+    6239,
+    6360
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Eli and Sydney",
+   "did": "killed Eli once, and Victor is betting he can do it again",
+   "quote_anchor": "“You say that,” said Victor, “but Sydney killed you once. I’m betting I can do it again.”",
+   "range": [
+    4814,
+    4903
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Eli and the other EOs",
+   "did": "draws the distinction between EOs and everyone else, convinced that he alone was special, a sword of God and a weapon for slaying monsters",
+   "quote_anchor": "Eli had always made the distinction, convinced that he alone was special. A sword of God. A weapon, made for slaying monsters.",
+   "range": [
+    1303,
+    1429
+   ],
+   "words": 22
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "how long ago the words aimed at him were aimed at Victor: eighteen years ago",
+   "quote_anchor": "“You’re not Eli,” said Victor, echoing the words aimed at him eighteen years ago.",
+   "range": [
+    1761,
+    1842
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "which resurrection this was, by Victor’s count: second",
+   "quote_anchor": "“Something wrong?” asked Victor. “You don’t seem to be healing quite as … gracefully. Then again,” he added, “second resurrections always come with complications.”",
+   "range": [
+    2908,
+    3071
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "how many bullets he caught in the chest after dodging the first shot: three",
+   "quote_anchor": "He dodged the first shot, caught the next three in the chest, but didn’t stop.",
+   "range": [
+    5039,
+    5117
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "the EOs Gabriel has resurrected",
+   "did": "the order in which they were resurrected: First Serena, then Stell, now Gray",
+   "quote_anchor": "“First Serena, then Stell, now Gray,” he said.",
+   "range": [
+    1002,
+    1048
+   ],
+   "words": 8
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "how many times Eli caught his wrist before Victor could get the gun up: a second time",
+   "quote_anchor": "catching his wrist before he could get the gun up a second time, the other hand wrapping around Victor’s throat.",
+   "range": [
+    3667,
+    3779
+   ],
+   "words": 20
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "how many times Sydney had killed Eli: once",
+   "quote_anchor": "“You say that,” said Victor, “but Sydney killed you once. I’m betting I can do it again.”",
+   "range": [
+    4814,
+    4903
+   ],
+   "words": 17
+  }
+ ]
+}

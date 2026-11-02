@@ -1,0 +1,177 @@
+{
+ "chapter": 103,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch103_chapter_xxxiii.txt",
+ "source_len_chars": 1677,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Malcolm",
+   "did": "watched Serena come toward the building from the Control room",
+   "quote_anchor": "IN the Control room, Malcolm saw Serena coming.",
+   "range": [
+    47,
+    94
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Malcolm",
+   "did": "had ceded administrative privileges to the entire mainframe to Mitchell Turner, locking himself out of the system he had created and enforced",
+   "quote_anchor": "Because nine minutes earlier, he had ceded administrative privileges to the entire mainframe to Mitchell Turner, effectively locking himself out of the system he’d created and enforced.",
+   "range": [
+    816,
+    1001
+   ],
+   "words": 27
+  },
+  {
+   "n": 3,
+   "who": "Serena",
+   "did": "drove the stolen blue sports car onto EON grounds",
+   "quote_anchor": "So all he could do was watch as Serena drove the stolen blue sports car onto EON grounds.",
+   "range": [
+    1004,
+    1093
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Serena",
+   "did": "stopped the car, exited the vehicle and approached the building",
+   "quote_anchor": "As she stopped, and exited the vehicle, and approached the building.",
+   "range": [
+    1096,
+    1164
+   ],
+   "words": 11
+  },
+  {
+   "n": 5,
+   "who": "the agents",
+   "did": "spilled out the front doors, crossed into Serena's sphere of influence and were pulled from Gray's control into hers",
+   "quote_anchor": "As the first, insufficient wave of agents spilled out the front doors and crossed into her sphere of influence, and were pulled from Gray’s control and into hers.",
+   "range": [
+    1167,
+    1329
+   ],
+   "words": 28
+  },
+  {
+   "n": 6,
+   "who": "Serena",
+   "did": "strolled past the agents and stepped into the building",
+   "quote_anchor": "As she strolled past them, and stepped into the building.",
+   "range": [
+    1400,
+    1457
+   ],
+   "words": 10
+  },
+  {
+   "n": 7,
+   "who": "Malcolm",
+   "did": "sighed and laid his hands flat on his keyboard, relieved that there was nothing he could do",
+   "quote_anchor": "Malcolm sighed, and laid his hands flat on his keyboard, relieved that there was nothing he could do.",
+   "range": [
+    1460,
+    1561
+   ],
+   "words": 18
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Malcolm and Mitchell Turner",
+   "did": "Malcolm had handed the mainframe's administrative privileges to Turner and locked himself out of the system he had built",
+   "quote_anchor": "he had ceded administrative privileges to the entire mainframe to Mitchell Turner, effectively locking himself out of the system he’d created and enforced.",
+   "range": [
+    846,
+    1001
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Serena and Dr. Gray",
+   "did": "Serena pulled Gray's agents out of his control and into her own sphere of influence",
+   "quote_anchor": "were pulled from Gray’s control and into hers.",
+   "range": [
+    1283,
+    1329
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "Malcolm and Serena",
+   "did": "Malcolm could only watch Serena enter the compound, and wondered what he would dream of once she got close enough to pull him under too",
+   "quote_anchor": "Nothing but watch, and wait, and wonder what he’d dream of, when Serena got close enough to pull him under, too.",
+   "range": [
+    1564,
+    1676
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Malcolm and Dr. Gray",
+   "did": "Malcolm would have notified Dr. Gray of the impending attack and sent an all-hands warning to every agent on premises",
+   "quote_anchor": "He would have notified Dr. Gray of the impending attack and sent out an all-hands warning to every agent currently on premises.",
+   "range": [
+    174,
+    301
+   ],
+   "words": 22
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the countermeasures Malcolm would have deployed",
+   "did": "the perimeter they would have established: fifty meters",
+   "quote_anchor": "a perimeter of fifty meters, given the estimated reach of Serena’s ability",
+   "range": [
+    549,
+    623
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "the countermeasures Malcolm would have deployed",
+   "did": "the confidence with which those countermeasures would have stopped Serena: 92 percent",
+   "quote_anchor": "countermeasures that would have—with 92 percent confidence—been able to prevent her from nearing, let alone entering, the EON compound.",
+   "range": [
+    625,
+    760
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Malcolm",
+   "did": "how long before Serena arrived, when he ceded the mainframe to Turner: nine minutes",
+   "quote_anchor": "Because nine minutes earlier, he had ceded administrative privileges to the entire mainframe to Mitchell Turner",
+   "range": [
+    816,
+    927
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "the agents sent out against Serena",
+   "did": "the size of the first wave that came out: the first, insufficient wave",
+   "quote_anchor": "As the first, insufficient wave of agents spilled out the front doors and crossed into her sphere of influence",
+   "range": [
+    1167,
+    1277
+   ],
+   "words": 19
+  }
+ ]
+}

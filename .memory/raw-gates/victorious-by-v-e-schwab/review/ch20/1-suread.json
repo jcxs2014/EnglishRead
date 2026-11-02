@@ -1,0 +1,188 @@
+{
+ "chapter": 20,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch20_chapter_i.txt",
+ "source_len_chars": 5360,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "Watched a lecture on covalent bonding, then paused it, scribbled down her timestamp and reset the student's progress to erase her tracks",
+   "quote_anchor": "Syd clicked out of the lecture, scribbled down her timestamp, and reset the student’s progress, erasing her tracks like steps in snow",
+   "range": [
+    1164,
+    1297
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "Swerved on instinct and toppled off her bike in the woods when a gun went off too close",
+   "quote_anchor": "and she swerved on instinct, nearly hitting a tree. Syd half leapt, half toppled off the bike",
+   "range": [
+    1773,
+    1866
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "Crouched and slipped the knife out of her boot, refusing to go down without a fight",
+   "quote_anchor": "Slowly she crouched, and slipped the knife out of her boot, fingers flexing on the shortened grip. She wasn’t going down without a fight.",
+   "range": [
+    2217,
+    2354
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "Found a stag dead with buckshot in its side, leaned her bike against a tree and knelt beside it",
+   "quote_anchor": "Sydney leaned the bike against a tree and put the knife back in her boot as she shuffled closer.",
+   "range": [
+    2785,
+    2881
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "Sydney",
+   "did": "Caught hold of the thread of the stag's life and pulled, dragging the beast back",
+   "quote_anchor": "She reached, icy cold skating beneath her skin as she caught hold of the thread, teeth chattering as she pulled, dragging the beast back from wherever it had been.",
+   "range": [
+    3134,
+    3297
+   ],
+   "words": 29
+  },
+  {
+   "n": 6,
+   "who": "the stag",
+   "did": "Bolted through the trees when a branch snapped beneath a heavy boot, leaving Syd alone with the threat",
+   "quote_anchor": "Just then, a branch snapped beneath a heavy boot, and by the time the sound ricocheted, the stag was already bolting through the trees, leaving Syd alone with the threat.",
+   "range": [
+    4100,
+    4270
+   ],
+   "words": 30
+  },
+  {
+   "n": 7,
+   "who": "the second hunter",
+   "did": "Caught the first hunter's shotgun muzzle and pulled the weapon down, saying they nearly shot her",
+   "quote_anchor": "“Jesus,” said a second man, catching the first hunter’s muzzle and pulling the weapon down, away. “We nearly shot you.”",
+   "range": [
+    4378,
+    4497
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Sydney",
+   "did": "Pedaled toward the cabin without slowing, hearing the shotgun blast and feeling the thread crumble back to ashes",
+   "quote_anchor": "Syd grabbed the bike and forced her legs to pedal toward the cabin. Didn’t slow, even when she heard the shotgun blast",
+   "range": [
+    5177,
+    5295
+   ],
+   "words": 22
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "Has to beat Mitch home; her watch's second alarm warned her to hurry",
+   "quote_anchor": "As the men stalked past her, the second alarm chimed on her watch, warning her to hurry, or she wouldn’t beat Mitch home.",
+   "range": [
+    5053,
+    5174
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "Fears EON agents springing out between the trees and closing in on her",
+   "quote_anchor": "she held her breath, and scanned the forest, waiting for the danger to reveal itself, for EON agents to spring out between the trees",
+   "range": [
+    1998,
+    2130
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "Is the example Sydney gives of people being complicated because they are fueled by their own wants and needs",
+   "quote_anchor": "People were more complicated, fueled by their own wants and needs (see: Victor), but animals sensed the thread that ran between them now",
+   "range": [
+    3703,
+    3839
+   ],
+   "words": 23
+  },
+  {
+   "n": 4,
+   "who": "Martha",
+   "did": "Gave Sydney a hot cocoa at the library and warned her not to drink it over the keyboard",
+   "quote_anchor": "A hot cocoa cooled at her elbow—courtesy of Martha, who warned her not to drink it over the keyboard",
+   "range": [
+    250,
+    350
+   ],
+   "words": 19
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the lecture",
+   "did": "was only half done",
+   "quote_anchor": "The class was only half done, but Syd was secretly grateful when her watch gave a warning chime",
+   "range": [
+    472,
+    567
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Sydney's watch",
+   "did": "had three alarms set and the first one chimed",
+   "quote_anchor": "when her watch gave a warning chime (the first of three she’d set). Her vision was starting to blur.",
+   "range": [
+    532,
+    632
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "was sailing through the woods five minutes after setting the bike upright",
+   "quote_anchor": "Her bike groaned a little as she dragged it upright, but five minutes later, she was sailing through the woods.",
+   "range": [
+    1394,
+    1505
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Sydney's watch",
+   "did": "chimed its second alarm, warning her to hurry",
+   "quote_anchor": "As the men stalked past her, the second alarm chimed on her watch, warning her to hurry, or she wouldn’t beat Mitch home.",
+   "range": [
+    5053,
+    5174
+   ],
+   "words": 23
+  }
+ ]
+}

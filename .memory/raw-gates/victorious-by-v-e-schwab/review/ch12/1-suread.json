@@ -1,0 +1,199 @@
+{
+ "chapter": 12,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch12_chapter_xi.txt",
+ "source_len_chars": 3748,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "loaded the last of the groceries into the pickup truck on his weekly supply run into town",
+   "quote_anchor": "MITCH loaded the last of the groceries into the pickup truck.",
+   "range": [
+    72,
+    133
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "drew the satchel from beneath the driver's seat and crossed to the diner on the corner",
+   "quote_anchor": "He drew the satchel from beneath the driver’s seat and crossed to the diner on the corner.",
+   "range": [
+    275,
+    365
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Jack",
+   "did": "answered the waitress who called him Jack by joking about whether the name would earn him many tips",
+   "quote_anchor": "“Don’t know,” he’d said, “think it would earn me many tips?”",
+   "range": [
+    2123,
+    2183
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Jenny",
+   "did": "brought Jack a slice of peach pie and a glass of chocolate milk, teasing him about the drink",
+   "quote_anchor": "She returned a few moments later with a slice of peach pie, and a glass of chocolate milk, teasing him lightly",
+   "range": [
+    2552,
+    2662
+   ],
+   "words": 21
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "drew the laptop from his bag, booted it up and connected to the diner's Wi-Fi",
+   "quote_anchor": "Mitch drew the laptop from his bag, and booted up, connecting to the diner’s Wi-Fi.",
+   "range": [
+    2879,
+    2962
+   ],
+   "words": 15
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "opened a browser and typed in an address, bringing up the site The Fertile Plot",
+   "quote_anchor": "He opened a browser, fingers moving briskly over the keys as he typed in the address, and the site came up.",
+   "range": [
+    2965,
+    3072
+   ],
+   "words": 21
+  },
+  {
+   "n": 7,
+   "who": "Mitch",
+   "did": "skimmed the new gardening posts on the message board and then clicked over to his inbox",
+   "quote_anchor": "Mitch skimmed the new posts—inquiries and debates about organic slug repellent, soil nitrate levels, the eventual midwinter thaw—before clicking over to his inbox.",
+   "range": [
+    3210,
+    3373
+   ],
+   "words": 23
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "wrote back a weather report to SHARPENEDSPADE1652 and waited a few minutes for the status dot to go from gray to green, but it stayed dark",
+   "quote_anchor": "He waited a few minutes to see if the dot would go from gray to green.",
+   "range": [
+    3609,
+    3679
+   ],
+   "words": 16
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "lives with Syd, who was suspicious when he picked the town of Herald",
+   "quote_anchor": "the smallest place he and Syd had ever stayed. She’d been suspicious when he picked it. And rightly so.",
+   "range": [
+    700,
+    803
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Jack",
+   "did": "and the waitress he calls Jenny both use names that are not their real names",
+   "quote_anchor": "amused by the fact that neither of their names was real.",
+   "range": [
+    1660,
+    1716
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "keeps biscuits for the stray dog Dol, which he caught with them",
+   "quote_anchor": "He caught a loose dog, thanks to the biscuits he kept for Dol",
+   "range": [
+    1261,
+    1322
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "sends status check pings to Mitch under the handle SHARPENEDSPADE1652, which Mitch answers from The Fertile Plot under the handle TURNINGOVERANEWLEAF",
+   "quote_anchor": "The usual status check. The text equivalent of a sonar ping.",
+   "range": [
+    3454,
+    3514
+   ],
+   "words": 11
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the town of Herald",
+   "did": "had a population of 2,310 according to the most recent census",
+   "quote_anchor": "According to the most recent census, the town—Herald—had a population of 2,310, which made it by far the smallest place",
+   "range": [
+    599,
+    718
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "had spent two straight years in motels, short-term rentals and lock-and-leaves in big cities",
+   "quote_anchor": "But after two straight years of motels, and short-term rentals, and lock-and-leaves in big cities, he’d wanted to try something new.",
+   "range": [
+    849,
+    981
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "the weekly errands took him only an hour",
+   "quote_anchor": "As usual, the errands had only taken him an hour.",
+   "range": [
+    136,
+    185
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "donated twenty bucks to a local football team selling snacks to buy new uniforms",
+   "quote_anchor": "donated twenty bucks to a local football team selling snacks to buy new uniforms.",
+   "range": [
+    1328,
+    1409
+   ],
+   "words": 14
+  },
+  {
+   "n": 5,
+   "who": "Jenny",
+   "did": "told Jack her real name on his second visit to the diner",
+   "quote_anchor": "she’d told him on his second visit, in a conspiratorial whisper, that her name was actually Jennine.",
+   "range": [
+    1743,
+    1843
+   ],
+   "words": 17
+  }
+ ]
+}

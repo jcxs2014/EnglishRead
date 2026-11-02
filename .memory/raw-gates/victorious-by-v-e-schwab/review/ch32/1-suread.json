@@ -1,0 +1,188 @@
+{
+ "chapter": 32,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch32_chapter_ii.txt",
+ "source_len_chars": 5025,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "woke in EON's medical bay and found an IV taped to the back of his left hand while strapped down",
+   "quote_anchor": "He looked down and there it was—an IV taped to the back of his left hand.",
+   "range": [
+    1217,
+    1290
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Dr. Andrews",
+   "did": "swept into the medical bay with a tablet in one hand",
+   "quote_anchor": "A man swept in, tablet in one hand.",
+   "range": [
+    1597,
+    1632
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "Dr. Andrews",
+   "did": "stepped closer with a penlight and swept it across Gabriel's eyes",
+   "quote_anchor": "Andrews stepped closer, producing a penlight, and swept it across Gabriel’s eyes.",
+   "range": [
+    2034,
+    2115
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Dr. Andrews",
+   "did": "reported that three members of staff stopped what they were doing when Gabriel collapsed",
+   "quote_anchor": "the moment after you collapsed, three members of staff in this quadrant stopped what they were doing.",
+   "range": [
+    2231,
+    2332
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Gabriel Gray",
+   "did": "ordered Andrews shot in the head before Andrews could finish telling the director",
+   "quote_anchor": "but that was as far as he got before Gabriel said, “Please shoot Andrews in the head.”",
+   "range": [
+    3042,
+    3128
+   ],
+   "words": 17
+  },
+  {
+   "n": 6,
+   "who": "Helena Roy",
+   "did": "took the handgun from the stone-faced soldier's holster and fired once at point-blank range",
+   "quote_anchor": "Helena smiled. She didn’t have a weapon on her, but the soldier behind her did. She turned and withdrew the handgun from his holster.",
+   "range": [
+    3131,
+    3264
+   ],
+   "words": 24
+  },
+  {
+   "n": 7,
+   "who": "Gabriel Gray",
+   "did": "dragged the doctor back from death, and the bullet wounds closed",
+   "quote_anchor": "But as Gabriel dragged him back, fingers aching with cold, the wounds closed.",
+   "range": [
+    3872,
+    3949
+   ],
+   "words": 13
+  },
+  {
+   "n": 8,
+   "who": "Dr. Andrews",
+   "did": "rose obediently, crossed to a wall cabinet and retrieved a bottle of naproxen for Gabriel",
+   "quote_anchor": "Andrews rose obediently, and crossed to a cabinet on the wall, retrieving a bottle of naproxen.",
+   "range": [
+    4430,
+    4525
+   ],
+   "words": 16
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Dr. Andrews",
+   "did": "is the EON doctor who examined Gabriel, found strange neural activity, and medicated him",
+   "quote_anchor": "“Tests showed some strange neural activity.” Andrews looked from the tablet to him. “But I’m more concerned with what happened after you collapsed.”",
+   "range": [
+    1792,
+    1940
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Helena Roy",
+   "did": "is the director Gabriel asked to speak to, and who Andrews had called",
+   "quote_anchor": "Gabriel sighed. “I want to speak to the director.”",
+   "range": [
+    2734,
+    2784
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "the stone-faced soldier",
+   "did": "entered the medical bay trailing in Helena Roy's wake and carried the handgun she drew",
+   "quote_anchor": "Just then, Helena entered, the stone-faced soldier trailing in her wake.",
+   "range": [
+    2904,
+    2976
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "is the man whose collapse was followed by three EON staff freezing up and showing no neural activity",
+   "quote_anchor": "And when I examined one of them,” he said, putting the penlight back in his pocket, “they showed no neural activity at all.",
+   "range": [
+    2357,
+    2480
+   ],
+   "words": 23
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Helena Roy",
+   "did": "says thirteen guards still need to be converted, including the six in the canteen",
+   "quote_anchor": "“Including the six in the canteen,” she said. “Thirteen.”",
+   "range": [
+    4715,
+    4772
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "the EON medical bay staff",
+   "did": "three members stopped what they were doing when Gabriel collapsed",
+   "quote_anchor": "the moment after you collapsed, three members of staff in this quadrant stopped what they were doing.",
+   "range": [
+    2231,
+    2332
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "shaking two pills into his palm and instructing the doctor to clean up the blood",
+   "quote_anchor": "Gabriel took it, shaking two pills into his palm as he instructed the doctor to clean up the blood and carry on,",
+   "range": [
+    4526,
+    4638
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "had toured the EON medical bay on his first day",
+   "quote_anchor": "He had toured it his first day, noting the cluster of exam rooms, the surgery, the sublevel morgue.",
+   "range": [
+    280,
+    379
+   ],
+   "words": 18
+  }
+ ]
+}

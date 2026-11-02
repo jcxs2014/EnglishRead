@@ -1,0 +1,188 @@
+{
+ "chapter": 88,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch88_chapter_xviii.txt",
+ "source_len_chars": 7757,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "left the lab that night with a small heart monitor strapped to his chest and instructions to return the next morning",
+   "quote_anchor": "VICTOR left the lab that night with a small heart monitor strapped to his chest, and instructions to return the next morning.",
+   "range": [
+    45,
+    170
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "leaned on the people he passed so that they shifted out of his way like pieces on a chess board",
+   "quote_anchor": "Victor leaned on those he passed, and they moved, like pieces on a chess board, exactly where he wanted them.",
+   "range": [
+    1454,
+    1563
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "ignored Eli's bait and adjusted his own dials until shallow pain broke out across his skin, making Eli Ever disappear",
+   "quote_anchor": "Instead, he adjusted his own dials, until shallow pain broke out like sweat across his skin.",
+   "range": [
+    1970,
+    2062
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "strolled into the parking lot where four men were breaking into a car and asked them if they had forgotten their keys",
+   "quote_anchor": "“Forget your keys?” he asked, strolling into the lot.",
+   "range": [
+    3294,
+    3347
+   ],
+   "words": 9
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "aimed at the first man, smiled and said “Bang”, and the man buckled clutching his chest yet found no bullet wound",
+   "quote_anchor": "The man buckled with a roar, clutching his chest as if he’d been shot—surely it felt that way—was shocked when he found no bullet wound.",
+   "range": [
+    3963,
+    4099
+   ],
+   "words": 25
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "splayed his fingers and pinned the fourth man against the air, the crowbar crashing to the ground",
+   "quote_anchor": "He splayed his fingers, and the man froze, the crowbar crashing to the ground as Victor forced his hands open, his arms wide.",
+   "range": [
+    4782,
+    4907
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "was slashed along the ribs by the third thief's knife, the metal grazing his skin",
+   "quote_anchor": "The metal slashed along his ribs, bright but shallow, grazing skin before Victor flung his power out in all directions",
+   "range": [
+    6568,
+    6686
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "took hold of all four bodies and blew their fuses out, so all four thieves fell unconscious on the concrete",
+   "quote_anchor": "Victor flung his power out in all directions, took hold of all four bodies, and blew their fuses out.",
+   "range": [
+    6642,
+    6743
+   ],
+   "words": 19
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor and Dani",
+   "did": "Dani gave Victor the drug and a window of eight to twelve hours before he had to come back to the lab",
+   "quote_anchor": "Eight to twelve hours. That was what Dani had given him.",
+   "range": [
+    259,
+    315
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "Victor and Eli",
+   "did": "the two had been students together, and Eli walked beside him on the campus that night",
+   "quote_anchor": "Victor recognized it—it was the same one he’d been wearing their last night as students.",
+   "range": [
+    1700,
+    1788
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Victor and Haverty",
+   "did": "Haverty's compound was the thing that had plunged Victor into the void he was not ready to return to",
+   "quote_anchor": "to plunge back into the void that Haverty’s compound brought, even if it meant a reprieve from pain",
+   "range": [
+    7075,
+    7174
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Victor and the four thieves",
+   "did": "the four thieves were breaking into a car in a parking lot, and Victor took down all four of them",
+   "quote_anchor": "he ambled past a parking lot set off the road, and saw four figures crouched around a car, in the process of breaking in, or boosting it.",
+   "range": [
+    2881,
+    3018
+   ],
+   "words": 27
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Dani",
+   "did": "the window she gave Victor before he had to return: eight to twelve hours",
+   "quote_anchor": "Eight to twelve hours. That was what Dani had given him.",
+   "range": [
+    259,
+    315
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "the thieves",
+   "did": "the number of men breaking into the car: four",
+   "quote_anchor": "saw four figures crouched around a car, in the process of breaking in, or boosting it.",
+   "range": [
+    2932,
+    3018
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "the gun",
+   "did": "the distance at which the gun went off: ten feet",
+   "quote_anchor": "Victor twitched his hand and ten feet away, the gun went off, the shot cracking through the night",
+   "range": [
+    4364,
+    4461
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "the years his restored ability to move and breathe revealed as insufficient gasps: the last three years",
+   "quote_anchor": "his ability to move, to think, to breathe again, revealed the last three years for what they were",
+   "range": [
+    2317,
+    2414
+   ],
+   "words": 18
+  }
+ ]
+}

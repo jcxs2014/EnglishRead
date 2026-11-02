@@ -1,0 +1,199 @@
+{
+ "chapter": 47,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch47_chapter_ii.txt",
+ "source_len_chars": 5817,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Eli Ever",
+   "did": "rubbed the knuckles on his right hand and found the healing had left a scar",
+   "quote_anchor": "ELI sat on the edge of the bed, rubbing the knuckles on his right hand. After a few minutes, they’d finally stopped weeping blood and spitting bone",
+   "range": [
+    39,
+    186
+   ],
+   "words": 27
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "found an EON agent already standing in his open door",
+   "quote_anchor": "Someone cleared their throat, and Eli looked up to find an EON agent standing in his open door—the same door that had been taunting him for three days now. Eli",
+   "range": [
+    937,
+    1096
+   ],
+   "words": 30
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "spoke from the wall speakers and told Eli to go with the agent, whom he named Noah",
+   "quote_anchor": "“Eli,” a voice—Gabriel’s voice—filled the room, projected from the speakers in the walls. “I want you to meet Noah.”",
+   "range": [
+    1366,
+    1482
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "crossed the doorway without resistance once Gabriel ordered him to go with Noah",
+   "quote_anchor": "Eli crossed the room, for once more than willing to obey, and when he reached the doorway, he met no resistance. The invisible force that had kept him there the",
+   "range": [
+    2400,
+    2560
+   ],
+   "words": 30
+  },
+  {
+   "n": 5,
+   "who": "Noah",
+   "did": "withdrew a step and drew a shotgun with a shortened barrel as Eli emerged",
+   "quote_anchor": "Noah withdrew a step as Eli emerged, drawing a weapon as he did. A shotgun with a shortened barrel.",
+   "range": [
+    3289,
+    3388
+   ],
+   "words": 19
+  },
+  {
+   "n": 6,
+   "who": "Noah",
+   "did": "ordered Eli to walk and led him through a hydraulic door into the white halls of EON",
+   "quote_anchor": "“Walk,” he instructed, leading Eli out of the corridors around the cell and through a hydraulic door, into the hall beyond. It was Eli’s first time ever seeing EON. He",
+   "range": [
+    3391,
+    3558
+   ],
+   "words": 30
+  },
+  {
+   "n": 7,
+   "who": "Eli Ever",
+   "did": "caught the shotgun barrel with one hand and Noah’s throat with the other, and Noah vanished",
+   "quote_anchor": "This time, Eli turned, catching the barrel of the gun with one hand, and Noah’s throat with the other. As soon as his fingers closed around the EO’s neck, Noah",
+   "range": [
+    4535,
+    4694
+   ],
+   "words": 30
+  },
+  {
+   "n": 8,
+   "who": "Gabriel Gray",
+   "did": "ordered both men to stop, halting them mid-fight",
+   "quote_anchor": "As soon Gabriel said it, both of their bodies came crashing to a halt.",
+   "range": [
+    5321,
+    5391
+   ],
+   "words": 14
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Noah",
+   "did": "must obey Gabriel Gray’s commands just as Eli must, though neither of them likes it",
+   "quote_anchor": "It was clear that, while they both had to do what Gabriel said, neither of them had to like it.",
+   "range": [
+    5721,
+    5816
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "works out that Gabriel’s new order cancels his old order because the two contradict each other",
+   "quote_anchor": "Gabriel had replaced one command—Stay in your room—with another—Go with Noah. In this case, the two were contradictory, and so one negated the other",
+   "range": [
+    2601,
+    2749
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Noah",
+   "did": "prodds Eli with the gun and orders him to keep walking like a prisoner",
+   "quote_anchor": "Noah’s gun prodded him between the shoulders. “Keep walking.”",
+   "range": [
+    4130,
+    4191
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "threatens to put Noah down as he did all of the other EOs",
+   "quote_anchor": "Eli smiled, keeping his eyes ahead. “Then you know I will put you down. As I did all of them. And I will do it gladly.”",
+   "range": [
+    4295,
+    4414
+   ],
+   "words": 26
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Eli’s cell door",
+   "did": "had been taunting him for three days",
+   "quote_anchor": "the same door that had been taunting him for three days now. Eli frowned. He hadn’t heard the man coming. Hadn’t noticed him until he was already there.",
+   "range": [
+    1032,
+    1184
+   ],
+   "words": 28
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "had dispatched Forty-seven EOs over the years",
+   "quote_anchor": "Forty-seven. That was the number of EOs Eli Ever had dispatched over the years, returned to the earth, where they belonged. Ashes to ashes, and dust to dust. Each one,",
+   "range": [
+    1814,
+    1981
+   ],
+   "words": 30
+  },
+  {
+   "n": 3,
+   "who": "Noah",
+   "did": "would make it forty-eight if he stepped into the cell",
+   "quote_anchor": "If Noah stepped into the cell, he’d make it forty-eight.",
+   "range": [
+    2104,
+    2160
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "had spent four years locked inside, the resident of cell 001",
+   "quote_anchor": "He had spent four years locked inside, the resident of cell 001. But he’d arrived handcuffed and hooded.",
+   "range": [
+    3556,
+    3660
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Noah",
+   "did": "is a man in his late thirties",
+   "quote_anchor": "A man in his late thirties, with cropped blond hair and a soldier’s build, eyes hidden behind dark shades.",
+   "range": [
+    1257,
+    1363
+   ],
+   "words": 19
+  }
+ ]
+}

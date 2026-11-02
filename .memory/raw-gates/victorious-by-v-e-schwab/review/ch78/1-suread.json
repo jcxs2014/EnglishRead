@@ -1,0 +1,177 @@
+{
+ "chapter": 78,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch78_chapter_viii.txt",
+ "source_len_chars": 6909,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "searched under the table until her fingers found the shard of wood and tried to pry it free",
+   "quote_anchor": "Sharp enough to prick her skin as she tried to pry it free.",
+   "range": [
+    1375,
+    1434
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "let the pain make the dream around her flicker, which let her glimpse the real world",
+   "quote_anchor": "The pain was just enough to make the dream around her flicker like a candle.",
+   "range": [
+    1437,
+    1513
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Serena",
+   "did": "declared “Happy birthday!” and set the finished cake on the table, its top covered in burning rainbow candles",
+   "quote_anchor": "“Happy birthday!” Serena declared, setting the finished cake down on the table, the top covered in burning rainbow candles.",
+   "range": [
+    2776,
+    2899
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "glared at Eli and said she wanted him dead",
+   "quote_anchor": "“Yes.” She glared at Eli. “I want him dead.”",
+   "range": [
+    3104,
+    3148
+   ],
+   "words": 9
+  },
+  {
+   "n": 5,
+   "who": "Serena",
+   "did": "ordered “Enough” with such force that the ceiling splintered and the chandelier went dark",
+   "quote_anchor": "“Enough,” ordered Serena with so much force the ceiling splintered, the chandelier went dark.",
+   "range": [
+    4204,
+    4297
+   ],
+   "words": 14
+  },
+  {
+   "n": 6,
+   "who": "Eli",
+   "did": "drove the blade into Serena’s chest, the knife turning out to be only flimsy cardboard",
+   "quote_anchor": "Syd loosened her grip, and the house came back into focus as Eli drove the blade into Serena’s chest.",
+   "range": [
+    4972,
+    5073
+   ],
+   "words": 19
+  },
+  {
+   "n": 7,
+   "who": "Serena",
+   "did": "sealed Eli in ice that surged up his body, sealing his boots to the ground and pinning his limbs",
+   "quote_anchor": "Ice shone on the floor beneath him, surging up his body, sealing his boots to the ground and climbing his limbs",
+   "range": [
+    5439,
+    5550
+   ],
+   "words": 21
+  },
+  {
+   "n": 8,
+   "who": "Sydney",
+   "did": "tore her gaze from Eli’s body and blew the candles out",
+   "quote_anchor": "Sydney tore her gaze from Eli’s body and blew the candles out.",
+   "range": [
+    6846,
+    6908
+   ],
+   "words": 12
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "is Serena’s sister and brought Serena back, after which Serena’s power stopped working the same",
+   "quote_anchor": "“I’ve noticed,” said Serena, rising to her feet, “that since Sydney brought me back, my power hasn’t worked the same.”",
+   "range": [
+    5628,
+    5746
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "had been on the same side as Serena, convincing her that all EOs were broken and deserved to die",
+   "quote_anchor": "He might have been the one who shot Sydney, but her sister was the one who set the lure, and reeled her in",
+   "range": [
+    3735,
+    3841
+   ],
+   "words": 23
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "told Sydney she had already killed him",
+   "quote_anchor": "“I think you’re forgetting,” said Eli. “You already killed me.”",
+   "range": [
+    4056,
+    4119
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "told Serena it had been eight years since they last saw each other",
+   "quote_anchor": "“You know, Serena,” said Eli. “It’s been awhile.”",
+   "range": [
+    2265,
+    2314
+   ],
+   "words": 8
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "twelfth birthday",
+   "quote_anchor": "Until the week before her twelfth birthday, when Serena showed up at the door with a picnic basket",
+   "range": [
+    2099,
+    2197
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Eli and Serena",
+   "did": "once upon a time",
+   "quote_anchor": "An unwelcome reminder that once upon a time, Eli and Serena had been on the same side.",
+   "range": [
+    3648,
+    3734
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Serena",
+   "did": "one side of her mouth twitched up",
+   "quote_anchor": "Serena must have known it, too, the way one side of her mouth twitched up.",
+   "range": [
+    4897,
+    4971
+   ],
+   "words": 15
+  }
+ ]
+}

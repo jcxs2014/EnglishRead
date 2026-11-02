@@ -1,0 +1,188 @@
+{
+ "chapter": 77,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch77_chapter_vii.txt",
+ "source_len_chars": 4117,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "scaled the outside of the roller coaster and braced himself against the rail at the top",
+   "quote_anchor": "his palms were still sweating as he scaled the outside of the roller coaster. He reached the top and braced himself against the rail",
+   "range": [
+    164,
+    296
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "reported “In position.” into the comm and said “I see you.”",
+   "quote_anchor": "“In position,” Mitch said into the comm. “I see you.”",
+   "range": [
+    537,
+    590
+   ],
+   "words": 10
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "scanned the park through the scope for EON agents and for Syd, finding only the red lights of a second transport van",
+   "quote_anchor": "He brought the scope to his eyes again and scanned the park, searching for other signs of life, for EON agents, for Syd.",
+   "range": [
+    691,
+    811
+   ],
+   "words": 23
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "told Victor to take the path to the place it splits and go right, panning to the MADMAN’S MANSION facade",
+   "quote_anchor": "“But I can see the ride. You’re heading in the right direction. Just take the path to the place it splits and go right.”",
+   "range": [
+    1775,
+    1895
+   ],
+   "words": 24
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "searched MADMAN’S MANSION for some sign of the kid and proof she was alive",
+   "quote_anchor": "There were no windows, but he still searched, desperate for some sign of the kid, some proof she was alive, and safe",
+   "range": [
+    2017,
+    2133
+   ],
+   "words": 22
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "found Victor no longer heading for the ride but sitting on a bench in an open square, exposed",
+   "quote_anchor": "There. Mitch found him, no longer heading for the ride, but sitting on a bench in an open square, exposed.",
+   "range": [
+    2692,
+    2798
+   ],
+   "words": 20
+  },
+  {
+   "n": 7,
+   "who": "Mitch",
+   "did": "saw a third black van arrive and watched four dark shapes spill out of the carrier as reinforcements",
+   "quote_anchor": "Doors swung open, and four dark shapes spilled out.",
+   "range": [
+    3266,
+    3317
+   ],
+   "words": 9
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "opened his eyes and began to climb down",
+   "quote_anchor": "And then he opened his eyes and began to climb down.",
+   "range": [
+    4064,
+    4116
+   ],
+   "words": 11
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "told Mitch he had had his chance to help and had failed, a memory that still cut",
+   "quote_anchor": "You had your chance to help. And you failed.",
+   "range": [
+    1192,
+    1236
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "was torn between his cellmate’s order and the trouble heading toward him",
+   "quote_anchor": "He wavered, torn between his cellmate’s order and the trouble heading toward him.",
+   "range": [
+    3584,
+    3665
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "taught Sydney to keep moving and to escape an ambush, and remembers her curled on the sofa with Dol",
+   "quote_anchor": "Sydney curled on the sofa while he made dinner, Dol beside her, head resting on her feet.",
+   "range": [
+    3911,
+    4000
+   ],
+   "words": 17
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Bethany Adventure Land",
+   "did": "four sides to Bethany Adventure Land. Four ways in, and out",
+   "quote_anchor": "There were four sides to Bethany Adventure Land. Four ways in, and out.",
+   "range": [
+    959,
+    1030
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "the second transport van",
+   "did": "a second transport van positioned at the far end of the park",
+   "quote_anchor": "the red lights of a second transport van positioned at the far end of the park, beyond another metal gate",
+   "range": [
+    850,
+    955
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "the arriving van",
+   "did": "the arriving vehicle was a third black van",
+   "quote_anchor": "Just then, a set of headlights cut through the thinning dark. A third black van.",
+   "range": [
+    2933,
+    3013
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "the agents from the carrier",
+   "did": "four dark shapes spilled out",
+   "quote_anchor": "Doors swung open, and four dark shapes spilled out.",
+   "range": [
+    3266,
+    3317
+   ],
+   "words": 9
+  },
+  {
+   "n": 5,
+   "who": "the EON agents",
+   "did": "the second gate",
+   "quote_anchor": "“You’re going the wrong way,” said Mitch as the agents poured through the second gate.",
+   "range": [
+    3495,
+    3581
+   ],
+   "words": 15
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "chapter": 40,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch40_chapter_x.txt",
+ "source_len_chars": 5850,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Rios",
+   "did": "Scrolled through the contacts on her EON-issued cell until she found the contact she was looking for",
+   "quote_anchor": "She straddled the bench, and scrolled through the contacts until she found what she was looking for.",
+   "range": [
+    619,
+    719
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "June",
+   "did": "Told Rios to meet her at the Iverly Hotel, in room 601",
+   "quote_anchor": "The Iverly Hotel,” said June. “Room 601. Wait for me there.",
+   "range": [
+    1768,
+    1827
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Rios",
+   "did": "Dropped the EON-issued cell into the half-filled basin and watched the screen flicker and die",
+   "quote_anchor": "She dropped it in the half-filled basin, watched it take on water until the screen flickered, died.",
+   "range": [
+    2153,
+    2252
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Noah",
+   "did": "Appeared in the parking garage wearing sunglasses on his nose hours after the sun had gone down",
+   "quote_anchor": "Maybe it was the sunglasses perched on his nose, despite the fact the sun had gone down hours ago.",
+   "range": [
+    2988,
+    3086
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "Rios",
+   "did": "Saw that Noah's eyes were no longer warm and brown but wild swirls of white and blue and gray",
+   "quote_anchor": "No longer warm and brown and bright, but wild swirls of white and blue and gray.",
+   "range": [
+    4009,
+    4089
+   ],
+   "words": 16
+  },
+  {
+   "n": 6,
+   "who": "Rios",
+   "did": "Dropped through the floor of the parking garage as soon as Noah turned toward the vehicle",
+   "quote_anchor": "As soon as Noah turned toward the vehicle, Rios dropped through the floor.",
+   "range": [
+    4390,
+    4464
+   ],
+   "words": 13
+  },
+  {
+   "n": 7,
+   "who": "Rios",
+   "did": "Twisted out of the way of the cattle prod, caught the baton and kicked the tactical agent in the chest",
+   "quote_anchor": "Rios twisted out of the way, dodging the violent blue tip, and caught the baton, kicking the agent in the chest as hard as she could.",
+   "range": [
+    4752,
+    4885
+   ],
+   "words": 26
+  },
+  {
+   "n": 8,
+   "who": "Noah",
+   "did": "Stepped out of nothing in front of the stairwell door and drove the tip of a baton into Rios's chest",
+   "quote_anchor": "You shouldn’t have run,” he said, the last word swallowed by the crackle of static as he drove the tip of a baton into her chest.",
+   "range": [
+    5691,
+    5820
+   ],
+   "words": 26
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Rios",
+   "did": "Friends and fellow EOs with June, who asked what friends are for",
+   "quote_anchor": "She could hear the smile in the other EO’s voice. “What are friends for?",
+   "range": [
+    1919,
+    1991
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Rios",
+   "did": "Always liked Noah, and let him step closer because the car at her back left her nowhere to go",
+   "quote_anchor": "She let him because she’d always liked him. And because with the car at her back, there was nowhere else to go.",
+   "range": [
+    3693,
+    3804
+   ],
+   "words": 22
+  },
+  {
+   "n": 3,
+   "who": "Charlotte",
+   "did": "A voice that echoed in Rios's head while she fought the tactical agent",
+   "quote_anchor": "As if he couldn’t feel it. Charlotte’s voice echoed in her head.",
+   "range": [
+    4963,
+    5027
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "The Iverly Hotel room June named",
+   "did": "601",
+   "quote_anchor": "The Iverly Hotel,” said June. “Room 601. Wait for me there.",
+   "range": [
+    1768,
+    1827
+   ],
+   "words": 11
+  },
+  {
+   "n": 2,
+   "who": "How many times the phone rang before June answered",
+   "did": "twice",
+   "quote_anchor": "It rang twice, and then a male voice said",
+   "range": [
+    893,
+    934
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "How far Rios fell when she dropped through the parking garage floor",
+   "did": "ten feet",
+   "quote_anchor": "she fell ten feet, landing in a crouch on the next level down, the force jolting through her knees",
+   "range": [
+    4510,
+    4608
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "How many times Rios had hovered over June's contact since that first night",
+   "did": "half a dozen",
+   "quote_anchor": "Her thumb hovered over the entry, as it had half a dozen times since that first night",
+   "range": [
+    734,
+    819
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "How long before Noah appeared, Rios had been hoping to run into him",
+   "did": "An hour earlier",
+   "quote_anchor": "An hour earlier, she’d been hoping to run into Noah.",
+   "range": [
+    2822,
+    2874
+   ],
+   "words": 10
+  }
+ ]
+}

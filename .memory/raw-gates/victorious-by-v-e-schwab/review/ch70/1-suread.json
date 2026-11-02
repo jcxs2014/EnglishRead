@@ -1,0 +1,177 @@
+{
+ "chapter": 70,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch70_chapter_xix.txt",
+ "source_len_chars": 2768,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "hissed in pain as the cuffs shocked him again and again",
+   "quote_anchor": "MITCH hissed in pain as the cuffs shocked him again. And again.",
+   "range": [
+    57,
+    120
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "maneuvered a knife against the cuffs until he gave up on the method after the third try",
+   "quote_anchor": "since insanity was doing the same thing over and over and expecting a different result, he gave up on the method after the third try.",
+   "range": [
+    244,
+    377
+   ],
+   "words": 25
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "ripped the camera out of the ceiling of the van, exposing the wires behind it",
+   "quote_anchor": "he reached up, and ripped the device out of the ceiling, exposing the wires behind.",
+   "range": [
+    684,
+    767
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "licked his thumb and tested the exposed wire with his bound hands, eliciting a tiny spark and finding it hot",
+   "quote_anchor": "He licked his thumb and reached his bound hands up to test the connection, eliciting a tiny spark.",
+   "range": [
+    768,
+    866
+   ],
+   "words": 18
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "held his breath and lifted the cuffs to the hot wire to fry the circuitry inside",
+   "quote_anchor": "Holding his breath, he lifted the cuffs to the hot wire, hoping to fry the circuitry inside.",
+   "range": [
+    1160,
+    1252
+   ],
+   "words": 17
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "worked the deadened cuffs with the knife until they hit the van floor, then sagged doubled over in relief",
+   "quote_anchor": "When the cuffs finally hit the van floor, he sagged, doubled over in relief.",
+   "range": [
+    1791,
+    1867
+   ],
+   "words": 14
+  },
+  {
+   "n": 7,
+   "who": "Mitch",
+   "did": "gripped the manacles as brass knuckles and braced for a fight as the van doors swung open",
+   "quote_anchor": "Mitch gripped the manacles like the world’s least efficient set of brass knuckles, bracing for a fight as the doors swung open.",
+   "range": [
+    2195,
+    2322
+   ],
+   "words": 22
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "stared in disbelief at the man's face and could only say a name, turned up into a question",
+   "quote_anchor": "Mitch stared in disbelief. He didn’t know what to say, so all that came out was a name, the end turned up into a question.",
+   "range": [
+    2633,
+    2755
+   ],
+   "words": 25
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "tensed and braced, certain the man at the door was Noah come to finish what he'd started",
+   "quote_anchor": "For a second, Mitch tensed, certain it was Noah, come to finish what he’d started.",
+   "range": [
+    2487,
+    2569
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "stood in the open van doorway with a gun hanging from one hand, and Mitch recognized his face",
+   "quote_anchor": "But then his eyes adjusted and the man’s face came into focus. Mitch stared in disbelief.",
+   "range": [
+    2570,
+    2659
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "came to the van where Mitch was held in cuffs and opened the door on him",
+   "quote_anchor": "A man stood, silhouetted by the pre-dawn light, which traced his edges, the outline of his sharp shoulders and short, fair hair, the gun hanging from one hand.",
+   "range": [
+    2325,
+    2484
+   ],
+   "words": 28
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "gave up on the knife method after the third try",
+   "quote_anchor": "he gave up on the method after the third try.",
+   "range": [
+    332,
+    377
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "wedged his sleeve fabric between wrists and cuffs between the first and second attempts",
+   "quote_anchor": "He’d tried, between the first and second attempts, to wedge the fabric of his sleeves between his wrists and the cuffs,",
+   "range": [
+    881,
+    1000
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "his muscles locked for a second when the jolt of electricity shot through him",
+   "quote_anchor": "A jolt of electricity shot through him, and for a second his muscles locked, and his vision dappled.",
+   "range": [
+    1255,
+    1355
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "tensed for a second, certain it was Noah",
+   "quote_anchor": "For a second, Mitch tensed, certain it was Noah, come to finish what he’d started.",
+   "range": [
+    2487,
+    2569
+   ],
+   "words": 15
+  }
+ ]
+}

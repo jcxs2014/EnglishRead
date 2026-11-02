@@ -1,0 +1,199 @@
+{
+ "chapter": 65,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch65_chapter_xiv.txt",
+ "source_len_chars": 9895,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "在黑暗中穿过一排排废弃的游乐场摊位，踢到一个破酒瓶",
+   "quote_anchor": "His boots whispered on the concrete as he stalked between rows of derelict carnival booths, past games that once shot water, and bare shelves where prizes must have hung",
+   "range": [
+    107,
+    276
+   ],
+   "words": 29
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "到达公寓门口时自己都不记得是否敲过门，门却自己开了，Angie 站在门内",
+   "quote_anchor": "before he could figure out what felt so strange, the door was swinging open, and there she was.",
+   "range": [
+    3157,
+    3252
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Angie",
+   "did": "抓住 Eli 的手腕把他拖进走廊，带着他和 Victor 走进自己的房间",
+   "quote_anchor": "“Come on,” she said, catching his wrist and dragging him down the hall.",
+   "range": [
+    3748,
+    3819
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "跟着他们进了房间，让 Angie 抓住手腕，坐到她另一侧，三人并排躺下",
+   "quote_anchor": "He could have evaded her, but he didn’t. Instead, he sighed and let himself be caught, then tugged down, onto her other side.",
+   "range": [
+    4219,
+    4344
+   ],
+   "words": 23
+  },
+  {
+   "n": 5,
+   "who": "Angie",
+   "did": "伸手过头顶按下开关，投影出幽灵般光晕的夜空",
+   "quote_anchor": "“Ready?” Angie reached over her head, and flicked a switch, and faint light danced across the ceiling.",
+   "range": [
+    4466,
+    4568
+   ],
+   "words": 17
+  },
+  {
+   "n": 6,
+   "who": "Angie",
+   "did": "呼出烟雾，把大麻烟递给 Eli，Eli 接过并吸进肺里",
+   "quote_anchor": "Angie was sighing smoke into the air over their heads, and offering the joint to Eli, who took it",
+   "range": [
+    4975,
+    5072
+   ],
+   "words": 19
+  },
+  {
+   "n": 7,
+   "who": "Eli",
+   "did": "告诉 Victor 自己不认为这一切是真的",
+   "quote_anchor": "Eli swallowed, forced himself to say the words. “I don’t think this is real.”",
+   "range": [
+    7023,
+    7100
+   ],
+   "words": 14
+  },
+  {
+   "n": 8,
+   "who": "Eli",
+   "did": "起身穿过走廊、越过厨房走向大门，拉开冰冷的门把手后强行穿过幻觉回到游乐园",
+   "quote_anchor": "Eli threw it open, and forced himself through and—",
+   "range": [
+    8492,
+    8542
+   ],
+   "words": 9
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "与 Angie 是老朋友，在 Lockland 的第一个学年向她承认自己从没去过游乐园",
+   "quote_anchor": "His first year at Lockland, Eli had made the mistake of telling Angie that he’d never been to an amusement park.",
+   "range": [
+    336,
+    448
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "与 Victor 是最好的朋友",
+   "quote_anchor": "Eli wanted to take it, and get high, and lie here in the dark with his best friend.",
+   "range": [
+    7206,
+    7289
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "与 Serena 是旧友，Serena 的幻象让他想起他们还是朋友时的情形",
+   "quote_anchor": "The fresh, but fleeting glimpse of his old friend—back when they were friends—was lodged, splinter-like, beneath his skin.",
+   "range": [
+    1953,
+    2075
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "与 Victor 彼此不同却相像，父亲说他身上有恶魔，而他们还是找到了彼此",
+   "quote_anchor": "They were different, and they knew it, two wolves pretending to be sheep. But somehow, they had found each other.",
+   "range": [
+    6456,
+    6569
+   ],
+   "words": 20
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the crossroads in Bethany Adventure Land",
+   "did": "这个路口只有三条路通向三个方向",
+   "quote_anchor": "A crossroads, only instead of four directions, there were three, the paths curling out of sight.",
+   "range": [
+    2125,
+    2221
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Angie, Eli and Victor",
+   "did": "三个人并排躺下，头挨着头、身体并在一起",
+   "quote_anchor": "And then, by some unspoken agreement, the three of them laid back, their heads together and their bodies side by side.",
+   "range": [
+    4345,
+    4463
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Angie and Victor",
+   "did": "在 Lockland 的餐厅里两个人一起吃 university 的炒饭",
+   "quote_anchor": "the two of them were in the dining hall, picking at the university’s poor excuse for stir-fry",
+   "range": [
+    1510,
+    1603
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "the neighborhood in the second illusion",
+   "did": "四周都是房子，但只有一栋完全清晰，其余都发软发平、略微失焦",
+   "quote_anchor": "Only one of them was perfectly clear, every detail sharp and clean.",
+   "range": [
+    9637,
+    9704
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "在 Lockland 的第一个学年曾对 Angie 说自己从没去过游乐园",
+   "quote_anchor": "His first year at Lockland, Eli had made the mistake of telling Angie",
+   "range": [
+    336,
+    405
+   ],
+   "words": 13
+  }
+ ]
+}

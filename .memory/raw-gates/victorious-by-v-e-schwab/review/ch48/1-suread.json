@@ -1,0 +1,188 @@
+{
+ "chapter": 48,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch48_chapter_iii.txt",
+ "source_len_chars": 6669,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "rapped a pencil on his knee and said the session was so they could get to know each other",
+   "quote_anchor": "“This,” said the therapist, rapping a pencil on his knee, “is so we can get to know each other.”",
+   "range": [
+    299,
+    395
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "refused to talk before Gabriel could give him a command",
+   "quote_anchor": "“No,” Eli cut in, before the EO could give him a command.",
+   "range": [
+    1252,
+    1309
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Eli Ever",
+   "did": "named Serena as the EO who had held him",
+   "quote_anchor": "Fuck. Eli clenched his teeth against the name, felt it rise up anyway. “Serena.”",
+   "range": [
+    1654,
+    1734
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "looked down at a paper excerpt headlined LOCAL PASTOR LEADS NEW FLOCK",
+   "quote_anchor": "Eli looked down and saw a paper excerpt. The headline read: LOCAL PASTOR LEADS NEW FLOCK. Beneath the heavy type, a black-and-white photo of his father, standing before the church",
+   "range": [
+    2165,
+    2344
+   ],
+   "words": 30
+  },
+  {
+   "n": 5,
+   "who": "Eli Ever",
+   "did": "told Gabriel that the first time he felt the grace of God was when he pushed his father down the stairs",
+   "quote_anchor": "“The first time I felt the grace of God was when I pushed him down the stairs.”",
+   "range": [
+    2996,
+    3075
+   ],
+   "words": 17
+  },
+  {
+   "n": 6,
+   "who": "Gabriel Gray",
+   "did": "told Eli that he was in control when he killed his father and when he took every life",
+   "quote_anchor": "You were in control, when you killed your father. You were in control, when you went in search of powers",
+   "range": [
+    3819,
+    3923
+   ],
+   "words": 20
+  },
+  {
+   "n": 7,
+   "who": "Eli Ever",
+   "did": "declared EOs an error and a crime against nature and promised to strike them from the world, including Gabriel",
+   "quote_anchor": "EOs are an error, a crime against nature and a danger to the world. And I will do everything I can to strike them from it.”",
+   "range": [
+    5096,
+    5219
+   ],
+   "words": 26
+  },
+  {
+   "n": 8,
+   "who": "Eli Ever",
+   "did": "recoiled from the imagined act of strangling Gabriel",
+   "quote_anchor": "Instead, Eli recoiled from the image, the idea. A primal reflex. Like pulling a hand back from a stove before it burns you.",
+   "range": [
+    5735,
+    5858
+   ],
+   "words": 23
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "treats Eli as a patient, noting that most of his patients lose the will to fight quickly",
+   "quote_anchor": "Most of my patients lose the will to fight so quickly. Here you are, still so—resistant.”",
+   "range": [
+    1387,
+    1476
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "calls his father a bad man but says his father is the source of his faith",
+   "quote_anchor": "“My father was not a good man. But in a way, he is the source of my faith.” Eli dragged his gaze up to meet the therapist’s. “The first time",
+   "range": [
+    2871,
+    3011
+   ],
+   "words": 30
+  },
+  {
+   "n": 3,
+   "who": "Eli Ever",
+   "did": "remembers wanting to break Serena’s grip a hundred times and knows his body will not let him yet",
+   "quote_anchor": "wondered if he could break the table glass and cut the EO’s throat—wondered, the way he had a hundred times when he was in Serena’s grip—and knew, even as he",
+   "range": [
+    544,
+    701
+   ],
+   "words": 30
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "speaks in Eli’s head, telling him he is not blessed or divine but a science experiment",
+   "quote_anchor": "You’re not blessed, or divine, or burdened, hissed Victor in his head. You’re a science experiment.",
+   "range": [
+    4668,
+    4767
+   ],
+   "words": 16
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Eli Ever",
+   "did": "had wanted to break free a hundred times while in Serena’s grip",
+   "quote_anchor": "the way he had a hundred times when he was in Serena’s grip—and knew, even as he thought it, that he couldn’t. His body wouldn’t let him. Yet.",
+   "range": [
+    621,
+    763
+   ],
+   "words": 28
+  },
+  {
+   "n": 2,
+   "who": "Eli’s father",
+   "did": "died when Eli was ten years old",
+   "quote_anchor": "“Your father died when you were ten years old, is that correct? It must have been a loss. Especially since your mother’s death the month before. Faith can offer comfort,",
+   "range": [
+    2629,
+    2798
+   ],
+   "words": 30
+  },
+  {
+   "n": 3,
+   "who": "Eli’s mother",
+   "did": "died in the month before his father’s death",
+   "quote_anchor": "Especially since your mother’s death the month before. Faith can offer comfort, solace—” Eli grimaced. Gabriel caught it. “Or was it something else?”",
+   "range": [
+    2719,
+    2868
+   ],
+   "words": 23
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "used two words to command Eli to answer him",
+   "quote_anchor": "“Answer me,” instructed Gabriel, those two words like a crowbar between Eli’s teeth.",
+   "range": [
+    4770,
+    4854
+   ],
+   "words": 13
+  }
+ ]
+}

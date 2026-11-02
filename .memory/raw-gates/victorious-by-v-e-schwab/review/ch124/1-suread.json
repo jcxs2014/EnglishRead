@@ -1,0 +1,177 @@
+{
+ "chapter": 124,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch124_chapter_xiv.txt",
+ "source_len_chars": 2312,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "沉坐到后座长椅上，Mitch 和 Syd 爬进前排",
+   "quote_anchor": "Victor sank onto the bench beside him, as Mitch and Syd climbed into the front.",
+   "range": [
+    96,
+    175
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "转动旋钮把胸痛压下去，随后摇下车窗让冷风拂过皮肤",
+   "quote_anchor": "He turned the dials until it didn’t really bother him. Then rolled the window down and let the cold air slide over his skin.",
+   "range": [
+    320,
+    444
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "从后视镜里对上 Victor 的视线，问他有没有事",
+   "quote_anchor": "“You okay, Vic?” asked Mitch, meeting his gaze in the rearview mirror.",
+   "range": [
+    447,
+    517
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "把手抚过 Dol 的毛，感觉到那条狗在长凳上轻轻甩尾",
+   "quote_anchor": "Victor hummed in agreement. He slid his hand across Dol’s fur, and felt the dog stir, his tail thudding softly on the bench.",
+   "range": [
+    786,
+    910
+   ],
+   "words": 23
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "低声说了句“好狗”并让眼睛闭上",
+   "quote_anchor": "“Good dog,” he murmured, letting his eyes fall closed.",
+   "range": [
+    913,
+    967
+   ],
+   "words": 9
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "没有挣扎，只是听着他们的声音，直到黑暗像黑色马克笔一样盖住视线",
+   "quote_anchor": "He didn’t fight. Just listened to their voices, until the darkness slid across his vision like a thick black marker, blotting out the end.",
+   "range": [
+    2173,
+    2311
+   ],
+   "words": 24
+  },
+  {
+   "n": 7,
+   "who": "Syd",
+   "did": "在前排问他们这是要去哪里",
+   "quote_anchor": "“Where are we going?” Syd was asking now, up front.",
+   "range": [
+    2001,
+    2052
+   ],
+   "words": 10
+  },
+  {
+   "n": 8,
+   "who": "Victor",
+   "did": "回想自己每一次与死亡搏斗都赢了",
+   "quote_anchor": "Every time so far, he had fought death, and won.",
+   "range": [
+    1410,
+    1458
+   ],
+   "words": 10
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "把 Dol 带在身边，在车上抚摸它的毛",
+   "quote_anchor": "He slid his hand across Dol’s fur, and felt the dog stir, his tail thudding softly on the bench.",
+   "range": [
+    814,
+    910
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "曾在墓地里把他从死亡中拖回来",
+   "quote_anchor": "In the graveyard, when Sydney hauled him back.",
+   "range": [
+    1249,
+    1295
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "在 Falcon Price 把刀捅进他的肋骨之间",
+   "quote_anchor": "In the Falcon Price, when Eli drove a knife between his ribs.",
+   "range": [
+    1185,
+    1246
+   ],
+   "words": 12
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "有了新的能力，眼睛仍是原来那双温暖的棕色",
+   "quote_anchor": "His eyes were the same warm brown they’d always been, despite his new abilities.",
+   "range": [
+    518,
+    598
+   ],
+   "words": 14
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "心脏曾停止跳动“一百次”，地点是“一百个不同的地方”",
+   "quote_anchor": "A hundred times in a hundred different places, when his heart stopped in his chest again and again and again.",
+   "range": [
+    1298,
+    1407
+   ],
+   "words": 20
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "在公寓里举起酒杯时对 Eli 说自己先来（go first）",
+   "quote_anchor": "In the apartment, when he lifted his glass to Eli and offered to go first.",
+   "range": [
+    1052,
+    1126
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "心脏一次又一次地（again and again and again）停止跳动",
+   "quote_anchor": "when his heart stopped in his chest again and again and again.",
+   "range": [
+    1345,
+    1407
+   ],
+   "words": 12
+  }
+ ]
+}

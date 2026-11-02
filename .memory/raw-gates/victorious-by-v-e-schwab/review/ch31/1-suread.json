@@ -1,0 +1,210 @@
+{
+ "chapter": 31,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch31_chapter_i.txt",
+ "source_len_chars": 4428,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Helena Roy",
+   "did": "informed the EON board through Gabriel's control that she was stepping aside and naming Dr. Gray her successor",
+   "quote_anchor": "Gabriel’s words came out from Helena Roy’s lips, in Helena Roy’s voice, as she informed the board that she was stepping aside, and naming Dr. Gray as her successor.",
+   "range": [
+    640,
+    804
+   ],
+   "words": 29
+  },
+  {
+   "n": 2,
+   "who": "Gabriel Gray",
+   "did": "answered the board's challenge by identifying himself as a psychiatrist with a personal investment in EON",
+   "quote_anchor": "“I’m a psychiatrist,” he answered. “One with a personal investment in your organization. And a vision for its future.”",
+   "range": [
+    1205,
+    1323
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "ended the call after telling the board he looked forward to changing each of their minds",
+   "quote_anchor": "“and I look forward to changing each of your minds,” he added, before ending the call.",
+   "range": [
+    1557,
+    1643
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "asked about the on-shift soldiers, then rose to his feet and rolled up his sleeves",
+   "quote_anchor": "Gabriel rose to his feet, rolling up his sleeves.",
+   "range": [
+    2243,
+    2292
+   ],
+   "words": 9
+  },
+  {
+   "n": 5,
+   "who": "Gabriel Gray",
+   "did": "kept his hand on the panel twice as long as warned, to make sure the fallen soldiers were dead",
+   "quote_anchor": "but Gabriel remembered Helena’s warning and kept his hand on the panel twice as long. To make sure they were dead.",
+   "range": [
+    2685,
+    2799
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Helena Roy",
+   "did": "held out the tablet for Gabriel to see the soldiers' biometric readings",
+   "quote_anchor": "When he asked, she held it out for him to see the soldiers’ biometric readings.",
+   "range": [
+    2879,
+    2958
+   ],
+   "words": 15
+  },
+  {
+   "n": 7,
+   "who": "Gabriel Gray",
+   "did": "dragged the fallen soldiers back from death one by one, and under his control",
+   "quote_anchor": "Wake up, he thought, resting a hand on their shoulder, feeling the cold against his palm. One by one, he dragged them back from death. And under his control.",
+   "range": [
+    3214,
+    3371
+   ],
+   "words": 29
+  },
+  {
+   "n": 8,
+   "who": "Gabriel Gray",
+   "did": "bled from the nose, staggered against a table, called for Helena, and collapsed before he could finish the sentence",
+   "quote_anchor": "But before he could find the words, the world gave way, and Gabriel Gray went down, his world collapsing into black.",
+   "range": [
+    4311,
+    4427
+   ],
+   "words": 21
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "speaks through Helena Roy's lips and voice, making her deliver his words to the board",
+   "quote_anchor": "Gabriel’s words came out from Helena Roy’s lips, in Helena Roy’s voice,",
+   "range": [
+    640,
+    711
+   ],
+   "words": 12
+  },
+  {
+   "n": 2,
+   "who": "Helena Roy",
+   "did": "is the Director Roy who addresses the EON board on the screen call",
+   "quote_anchor": "“DIRECTOR Roy,” said the woman on the screen, “this is highly unusual.”",
+   "range": [
+    57,
+    128
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "brought the twelve soldiers back from death and kept them under his control",
+   "quote_anchor": "One by one, he dragged them back from death. And under his control.",
+   "range": [
+    3304,
+    3371
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "was challenged by a board member in a charcoal suit about who he was",
+   "quote_anchor": "“No offense, Dr. Gray,” said a man in a charcoal suit. “But who the hell are you?”",
+   "range": [
+    1021,
+    1103
+   ],
+   "words": 17
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the EON board",
+   "did": "is described as four remaining members assembled on the wall behind Helena Roy's desk",
+   "quote_anchor": "The four remaining members of the board were assembled on the wall behind her desk.",
+   "range": [
+    131,
+    214
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "the EON board members",
+   "did": "are described as three men and two women, each wearing a different shade of gray",
+   "quote_anchor": "Three men, and two women, each wearing a different shade of gray, and a version of the same disgruntlement.",
+   "range": [
+    215,
+    322
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "the EON board",
+   "did": "has five members who would have to be persuaded after Gabriel Gray took over",
+   "quote_anchor": "Of course, now, the five members of the board would have to be persuaded.",
+   "range": [
+    1956,
+    2029
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "the soldiers in the canteen",
+   "did": "number a dozen, lying where they had fallen",
+   "quote_anchor": "A dozen soldiers lay where they’d fallen, draped across the canteen tables, and sprawled on the floor like the product of some bloodless massacre.",
+   "range": [
+    2357,
+    2503
+   ],
+   "words": 24
+  },
+  {
+   "n": 5,
+   "who": "the twelve soldiers",
+   "did": "have twelve minds ready to be converted to Gabriel's cause",
+   "quote_anchor": "Twelve minds, ready to be converted to his cause.",
+   "range": [
+    3024,
+    3073
+   ],
+   "words": 9
+  },
+  {
+   "n": 6,
+   "who": "the soldiers' collapse in the canteen",
+   "did": "took less than a minute for the soldiers to go down",
+   "quote_anchor": "It had taken less than a minute for the soldiers to go down, but Gabriel remembered Helena’s warning and kept his hand on the panel twice as long.",
+   "range": [
+    2624,
+    2770
+   ],
+   "words": 28
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "chapter": 10,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch10_chapter_ix.txt",
+ "source_len_chars": 9419,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Iris",
+   "did": "said his name in the dark and sat upright in their bed, waking him",
+   "quote_anchor": "“Gabe.” A tense exhale, whispered in the dark. He dragged himself from sleep to find Iris sitting upright in their bed, sheets clutched against her chest.",
+   "range": [
+    111,
+    265
+   ],
+   "words": 26
+  },
+  {
+   "n": 2,
+   "who": "Gabriel Gray",
+   "did": "told Iris to go to Ian's room and lock the door",
+   "quote_anchor": "“It’s all right,” he said steadily. “Go to Ian’s room. Lock the door.”",
+   "range": [
+    523,
+    593
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Paul Barnett",
+   "did": "slammed his hands down on the desk, showing that Gabriel's notebook had been torn open and a dozen pages torn out",
+   "quote_anchor": "His patient slammed his hands down on the desk, and Gabriel saw the notebook—his notebook—disemboweled, a dozen pages torn out.",
+   "range": [
+    1890,
+    2017
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Paul Barnett",
+   "did": "told Gabriel that his sister Sarah showed up and he told her she could stay",
+   "quote_anchor": "The air shuddered in his chest. “My sister, Sarah, showed up. I told her she could stay.”",
+   "range": [
+    2748,
+    2837
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Paul Barnett",
+   "did": "described finding Sarah on the floor, full of holes and ripped up like she was made of paper",
+   "quote_anchor": "She was on the floor. And she was full of holes. Ripped up. Like, like she was made of paper.",
+   "range": [
+    4207,
+    4300
+   ],
+   "words": 20
+  },
+  {
+   "n": 6,
+   "who": "Paul Barnett",
+   "did": "filled the syringe from the vial with a lethal dose, saying he just wanted to sleep",
+   "quote_anchor": "“I just want to sleep.” His hands were shaking as he filled the syringe. A lethal dose.",
+   "range": [
+    5030,
+    5117
+   ],
+   "words": 17
+  },
+  {
+   "n": 7,
+   "who": "Gabriel Gray",
+   "did": "slammed Paul's wrist against the desk to knock the hypodermic from his hand, and Paul struck his head on the desk corner",
+   "quote_anchor": "He slammed Paul’s wrist against the desk, knocking the hypodermic from his hand.",
+   "range": [
+    5639,
+    5719
+   ],
+   "words": 13
+  },
+  {
+   "n": 8,
+   "who": "Gabriel Gray",
+   "did": "was buried with Iris and Ian when the roof caved in and the stairs gave way",
+   "quote_anchor": "But then the roof caved in, and the stairs gave way, and the last thing Gabriel felt was her fingers skimming his",
+   "range": [
+    9256,
+    9369
+   ],
+   "words": 22
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "is Paul Barnett's therapist and runs biweekly sessions with him",
+   "quote_anchor": "Over the course of their biweekly sessions, Paul had only mentioned his family once—his grandparents, dead, his parents, estranged.",
+   "range": [
+    2880,
+    3011
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Paul Barnett",
+   "did": "is Sarah's brother",
+   "quote_anchor": "“My sister, Sarah, showed up. I told her she could stay.”",
+   "range": [
+    2780,
+    2837
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Iris",
+   "did": "carries Ian down the stairs toward Gabriel in the collapsing house",
+   "quote_anchor": "There she was, at the top of the stairs, Ian cradled against her side, their faces twin masks of shock, and fear.",
+   "range": [
+    8553,
+    8666
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Paul Barnett",
+   "did": "accuses Gabriel of lying to him and of letting him think his condition was all in his head",
+   "quote_anchor": "“You let me think it was all in my head. You let me think I was safe.”",
+   "range": [
+    2550,
+    2620
+   ],
+   "words": 17
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "there were twenty-eight steps between Dr. Gray's office and Gabriel's home",
+   "quote_anchor": "There were twenty-eight steps between Dr. Gray’s office and Gabriel’s home, but he couldn’t make them fast enough.",
+   "range": [
+    7123,
+    7237
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Paul Barnett",
+   "did": "a dozen pages were torn out of Gabriel's notebook",
+   "quote_anchor": "His patient slammed his hands down on the desk, and Gabriel saw the notebook—his notebook—disemboweled, a dozen pages torn out.",
+   "range": [
+    1890,
+    2017
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Gabriel Gray",
+   "did": "the last two months had promised so much more",
+   "quote_anchor": "But the last two months had promised so much more.",
+   "range": [
+    5402,
+    5452
+   ],
+   "words": 10
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "five steps from the office to the bottom of the stairs, where there should have been twelve up",
+   "quote_anchor": "Five from the office to the bottom of the stairs, what should have been twelve up, but as his foot hit the fifth, the step beneath him broke.",
+   "range": [
+    7240,
+    7381
+   ],
+   "words": 28
+  },
+  {
+   "n": 5,
+   "who": "Gabriel Gray",
+   "did": "counted eleven down and seventeen from the door",
+   "quote_anchor": "Eleven down, and seventeen … seventeen … but that was from the door.",
+   "range": [
+    8421,
+    8489
+   ],
+   "words": 13
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "chapter": 106,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch106_chapter_xxxvi.txt",
+ "source_len_chars": 1702,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "Sat in the first row of the little church behind the house, listening to the silence",
+   "quote_anchor": "Eli sat in the first row of the little church behind the house, letting his eyes unfocus as he listened to the silence.",
+   "range": [
+    198,
+    317
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "Knelt over his father’s body at the bottom of the stairs and waited for his heart to slow and stop",
+   "quote_anchor": "He’d knelt over the body, at the bottom of the stairs, waited for his heart to slow, and stop.",
+   "range": [
+    408,
+    502
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "Looked up and saw Gabriel standing over him",
+   "quote_anchor": "Eli looked up and saw Gabriel standing over him.",
+   "range": [
+    807,
+    855
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "Saw the outline of wings and recognized Gabriel as the archangel, the messenger",
+   "quote_anchor": "But then the air behind him seemed to shimmer faintly. The outline of wings. Gabriel, the archangel. The messenger.",
+   "range": [
+    976,
+    1091
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "Asked “For what?” right before the angel stabbed him",
+   "quote_anchor": "“For what?” asked Eli, right before the angel stabbed him.",
+   "range": [
+    1120,
+    1178
+   ],
+   "words": 10
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "Drove a small knife into Eli’s side, leaving him sitting on the edge of his bed in his room at EON",
+   "quote_anchor": "He was sitting on the edge of his bed, a small knife jutting from his side, where Gabriel—wingless now—had driven it.",
+   "range": [
+    1309,
+    1426
+   ],
+   "words": 21
+  },
+  {
+   "n": 7,
+   "who": "Eli",
+   "did": "Moved to free the blade so he could heal, but Gabriel’s hand closed over his, pinning it in place",
+   "quote_anchor": "Eli moved to free the blade so he could heal, but Gabriel’s hand closed over his, pinning it in place.",
+   "range": [
+    1427,
+    1529
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Eli",
+   "did": "Rose and fell in step behind Gabriel, blood dotting the floor in his wake",
+   "quote_anchor": "He rose, and fell in step behind Gabriel, blood dotting the floor in his wake.",
+   "range": [
+    1623,
+    1701
+   ],
+   "words": 15
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Gabriel",
+   "did": "Is the archangel and the messenger whose wings Eli saw in the chapel",
+   "quote_anchor": "The outline of wings. Gabriel, the archangel. The messenger.",
+   "range": [
+    1031,
+    1091
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "Ordered Eli to leave the blade there and follow him",
+   "quote_anchor": "“Leave it there,” he instructed. “And follow me.”",
+   "range": [
+    1532,
+    1581
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "His father, dead closer to six minutes, whose body Eli knelt over at the bottom of the stairs",
+   "quote_anchor": "He’d knelt over the body, at the bottom of the stairs, waited for his heart to slow, and stop.",
+   "range": [
+    408,
+    502
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "His mother, dead for close to six weeks",
+   "quote_anchor": "His mother had been dead for close to six weeks.",
+   "range": [
+    320,
+    368
+   ],
+   "words": 10
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "His mother",
+   "did": "close to six weeks",
+   "quote_anchor": "His mother had been dead for close to six weeks.",
+   "range": [
+    320,
+    368
+   ],
+   "words": 10
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "the first row",
+   "quote_anchor": "Eli sat in the first row of the little church behind the house, letting his eyes unfocus as he listened to the silence.",
+   "range": [
+    198,
+    317
+   ],
+   "words": 23
+  }
+ ]
+}

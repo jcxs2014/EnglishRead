@@ -1,0 +1,199 @@
+{
+ "chapter": 58,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch58_chapter_vii.txt",
+ "source_len_chars": 5995,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "spat a glob of blood onto the pavement and turned back toward the stairs, searching for whoever had attacked him",
+   "quote_anchor": "he spit a glob onto the pavement. He turned back toward the stairs, searching for the source of the cheap shot",
+   "range": [
+    649,
+    759
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "saw the shotgun he had been holding lying on the pavement and watched it vanish before he could reach it",
+   "quote_anchor": "He squinted and saw it lying on the ground, several yards away, but as he limped toward the weapon, it disappeared.",
+   "range": [
+    852,
+    967
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "the EON agents",
+   "did": "circled Mitch, two of them, dressed head to toe in armored black with visored helmets",
+   "quote_anchor": "he saw the agents circling, two of them, dressed head to toe in armored black, their faces hidden behind visored helmets.",
+   "range": [
+    1191,
+    1312
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "dodged the first agent's attack, knocked that agent down, and grabbed the second one by the helmet and the gun muzzle",
+   "quote_anchor": "He turned, using momentum to knock the first agent down and grab the second, one hand clutching the bottom of their helmet",
+   "range": [
+    2022,
+    2144
+   ],
+   "words": 22
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "leveled the stolen gun on the first agent with his finger on the trigger but did not fire",
+   "quote_anchor": "He turned, leveling the stolen gun on the first agent, his finger already on the trigger.",
+   "range": [
+    2259,
+    2348
+   ],
+   "words": 16
+  },
+  {
+   "n": 6,
+   "who": "a third agent",
+   "did": "brought the shotgun barrel down onto Mitch's outstretched arm, making him drop the stolen gun",
+   "quote_anchor": "it was long enough for a third agent, the one he couldn’t see, to bring something—the shotgun barrel, if Mitch had to guess—down onto his outstretched arm.",
+   "range": [
+    2642,
+    2797
+   ],
+   "words": 27
+  },
+  {
+   "n": 7,
+   "who": "Noah",
+   "did": "stepped out of empty night in front of Mitch and greeted him by the fake name Jack",
+   "quote_anchor": "“Hello again, Jack,” he said, laying emphasis on the fake name Mitch had used in Herald.",
+   "range": [
+    3956,
+    4044
+   ],
+   "words": 16
+  },
+  {
+   "n": 8,
+   "who": "Noah",
+   "did": "drew a smaller weapon and fired three rounds straight into Mitch's chest",
+   "quote_anchor": "the EO drew another, smaller weapon, swung it up, and fired three rounds straight into Mitch’s chest.",
+   "range": [
+    5410,
+    5511
+   ],
+   "words": 17
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Noah",
+   "did": "was the man from the cabin, dressed like an EON agent but without the helmet or the visor, and Mitch recognized him instantly",
+   "quote_anchor": "He was dressed just like the EON agents, minus the helmet, the visor. Mitch recognized him instantly.",
+   "range": [
+    3818,
+    3919
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "the EON agents",
+   "did": "had finally caught up with Mitch after three years of running",
+   "quote_anchor": "Three years of running, and they’d finally caught up.",
+   "range": [
+    1322,
+    1375
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "had never gotten to call Victor, which meant no one was coming to help him or Syd",
+   "quote_anchor": "he hadn’t gotten to call Victor. Which meant, no one was coming to help him. To help Syd.",
+   "range": [
+    4863,
+    4952
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Noah",
+   "did": "knew the fake name Jack that Mitch had used in Herald and put emphasis on it",
+   "quote_anchor": "laying emphasis on the fake name Mitch had used in Herald. Standing in the front yard, he’d been wearing black sunglasses.",
+   "range": [
+    3986,
+    4108
+   ],
+   "words": 21
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the EON agents",
+   "did": "two of them circled Mitch",
+   "quote_anchor": "he saw the agents circling, two of them, dressed head to toe in armored black",
+   "range": [
+    1191,
+    1268
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "the EON agents",
+   "did": "took three years of running to catch up with Mitch",
+   "quote_anchor": "Three years of running, and they’d finally caught up.",
+   "range": [
+    1322,
+    1375
+   ],
+   "words": 9
+  },
+  {
+   "n": 3,
+   "who": "Noah",
+   "did": "fired three rounds into Mitch's chest",
+   "quote_anchor": "the EO drew another, smaller weapon, swung it up, and fired three rounds straight into Mitch’s chest.",
+   "range": [
+    5410,
+    5511
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "had three red darts jut from between his ribs instead of bleeding",
+   "quote_anchor": "There was no blood spreading across his front. Instead, three red darts jutted from between his ribs.",
+   "range": [
+    5665,
+    5766
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "a third agent",
+   "did": "the third agent, the one Mitch could not see, brought the shotgun barrel down on his arm",
+   "quote_anchor": "it was long enough for a third agent, the one he couldn’t see, to bring something—the shotgun barrel, if Mitch had to guess—down onto his outstretched arm.",
+   "range": [
+    2642,
+    2797
+   ],
+   "words": 27
+  }
+ ]
+}

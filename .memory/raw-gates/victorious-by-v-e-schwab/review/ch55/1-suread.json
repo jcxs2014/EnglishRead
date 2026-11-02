@@ -1,0 +1,188 @@
+{
+ "chapter": 55,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch55_chapter_iv.txt",
+ "source_len_chars": 3987,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "听到脚步声立刻抓起那张纸塞进口袋",
+   "quote_anchor": "SYDNEY snatched up the piece of paper, shoving it in her pocket just as she heard the faint",
+   "range": [
+    39,
+    130
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "拔出绑在小腿刀鞘里的刀",
+   "quote_anchor": "Syd swore under her breath and crouched to free the knife from its sheath on her",
+   "range": [
+    355,
+    435
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "爬上梯子抢到背包并甩上肩，奔向铁丝网围栏",
+   "quote_anchor": "She swung the bag onto her shoulder, and started for the chain-link fence that ran around the pool,",
+   "range": [
+    1080,
+    1179
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "开枪射击 Sydney，打得她踉跄但没中弹",
+   "quote_anchor": "Eli fired, and Syd felt the force slam into her back, enough to make her stumble—but she hadn’t been hit. Her",
+   "range": [
+    1805,
+    1914
+   ],
+   "words": 21
+  },
+  {
+   "n": 5,
+   "who": "Eli Ever",
+   "did": "步步逼近，把 Sydney 逼退到旅馆楼梯栏杆前",
+   "quote_anchor": "He continued forward and she continued back, until something stopped her. The railing of the motel stairs.",
+   "range": [
+    2211,
+    2317
+   ],
+   "words": 17
+  },
+  {
+   "n": 6,
+   "who": "Eli Ever",
+   "did": "抓住她的背包并把她甩向后方，背包被撕走",
+   "quote_anchor": "Syd turned, and sprinted, made it up four stairs before Eli’s hand caught her backpack, and the next thing she knew,",
+   "range": [
+    2391,
+    2507
+   ],
+   "words": 21
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "趁 Eli 掐住她喉咙时把刀刃捅进他的前臂且不松手",
+   "quote_anchor": "As Eli’s hand closed around her throat, she drove the blade into his forearm. It",
+   "range": [
+    3102,
+    3182
+   ],
+   "words": 15
+  },
+  {
+   "n": 8,
+   "who": "Eli Ever",
+   "did": "质问她 Victor 在哪里",
+   "quote_anchor": "Eli leaned in, so close their heads were nearly touching. “Where is Victor?”",
+   "range": [
+    3910,
+    3986
+   ],
+   "words": 13
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "与 Mitch 的关系：她随身刀柄被多年与 Mitch 练习磨得适合她的小手",
+   "quote_anchor": "The grip worn to her small hand from years of practicing with Mitch.",
+   "range": [
+    442,
+    510
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Eli Ever",
+   "did": "与 Victor 的关系：Eli 要找到 Victor，Victor 曾告诉 Sydney Eli 无法绕过阻塞物愈合",
+   "quote_anchor": "Victor had told her once that Eli couldn’t heal around obstructions,",
+   "range": [
+    3396,
+    3464
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Dol",
+   "did": "与 Sydney 的关系：Dol 低而急促的叫声提醒她有人逼近",
+   "quote_anchor": "His call was low, but urgent. The same sound he had made when the stranger started toward her at the cabin.",
+   "range": [
+    767,
+    874
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "与 Sydney 的关系：Sydney 曾杀死 Eli，Eli 说要还这份人情",
+   "quote_anchor": "“I remember. Vividly,” he said, one knee pressing into her cracked ribs.",
+   "range": [
+    3580,
+    3652
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "在回忆中重回十二岁",
+   "quote_anchor": "she was twelve again, one week shy of thirteen, pain tearing through her arm",
+   "range": [
+    1659,
+    1735
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "在回忆中离十三岁还差一周",
+   "quote_anchor": "one week shy of thirteen, pain tearing through her arm as she sprinted through the",
+   "range": [
+    1681,
+    1763
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "在被 Eli 抓住背包前跑上四级台阶",
+   "quote_anchor": "made it up four stairs before Eli’s hand caught her backpack,",
+   "range": [
+    2417,
+    2478
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Eli Ever",
+   "did": "用膝盖压住她裂开的肋骨",
+   "quote_anchor": "“I remember. Vividly,” he said, one knee pressing into her cracked ribs.",
+   "range": [
+    3580,
+    3652
+   ],
+   "words": 12
+  }
+ ]
+}

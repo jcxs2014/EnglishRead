@@ -1,0 +1,177 @@
+{
+ "chapter": 79,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch79_chapter_ix.txt",
+ "source_len_chars": 1881,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "who": "Eli",
+   "did": "felt the ice's cold through his skin as if his skeleton had frozen solid, though he knew the cold was not real",
+   "quote_anchor": "Eli knew the cold wasn’t real, and yet he felt it, not just on his skin, but under it, as if his skeleton had frozen solid.",
+   "n": 1,
+   "range": [
+    97,
+    220
+   ],
+   "words": 26
+  },
+  {
+   "who": "Eli",
+   "did": "felt himself back on the table in Haverty's lab, pinned open like a moth in a state of constant dying",
+   "quote_anchor": "He felt like he was back on the table in Haverty’s lab. Pinned open like a moth, caught in a state of constant dying.",
+   "n": 2,
+   "range": [
+    294,
+    411
+   ],
+   "words": 24
+  },
+  {
+   "who": "Eli",
+   "did": "resolved to put the Clarke sisters back in the ground, where they belonged",
+   "quote_anchor": "Put the Clarke sisters back in the ground, where they belonged, and—",
+   "n": 3,
+   "range": [
+    803,
+    871
+   ],
+   "words": 12
+  },
+  {
+   "who": "Eli",
+   "did": "heard feedback whine in his ear, high and sharp enough to pierce the veil and briefly fracture the illusion",
+   "quote_anchor": "Feedback whined in Eli’s ear, high and sharp enough to pierce the veil.",
+   "n": 4,
+   "range": [
+    874,
+    945
+   ],
+   "words": 13
+  },
+  {
+   "who": "Eli",
+   "did": "tried to speak but could not find the air, his vision slipping between the ice and the shack",
+   "quote_anchor": "Eli tried to speak, but he couldn’t find the air. His vision slipped—light, dark, ice, shack—caught between the two.",
+   "n": 5,
+   "range": [
+    1212,
+    1328
+   ],
+   "words": 19
+  },
+  {
+   "who": "Eli",
+   "did": "fought to obey Gabriel's order while his mind rejected it",
+   "quote_anchor": "His body fought to obey the order at the same time his mind rejected it.",
+   "n": 6,
+   "range": [
+    1428,
+    1500
+   ],
+   "words": 15
+  },
+  {
+   "who": "Eli",
+   "did": "tasted blood, kept trying, and shifted one boot on the creaking floorboards before he seized again",
+   "quote_anchor": "He tasted blood, but kept trying, one boot shifting on the creaking floorboards before he seized again",
+   "n": 7,
+   "range": [
+    1503,
+    1605
+   ],
+   "words": 17
+  },
+  {
+   "who": "Gabriel",
+   "did": "called out to Eli, but Serena's will was stronger and the doctor's voice dropped away",
+   "quote_anchor": "“Eli…” started Gabriel, but Serena’s will was stronger, and soon the doctor’s voice dropped away",
+   "n": 8,
+   "range": [
+    1713,
+    1809
+   ],
+   "words": 15
+  }
+ ],
+ "relations": [
+  {
+   "who": "Serena",
+   "did": "held Eli inside her dream world, an ice that obeyed her rules and could not be broken through",
+   "quote_anchor": "If it had been ordinary ice, he might have been able to break through. But this was Serena’s world, and it obeyed her rules.",
+   "n": 1,
+   "range": [
+    614,
+    738
+   ],
+   "words": 24
+  },
+  {
+   "who": "Gabriel",
+   "did": "tried to speak to Eli as the doctor treating him, but Serena's will drowned his voice out",
+   "quote_anchor": "Serena’s will was stronger, and soon the doctor’s voice dropped away, and Eli was left with nothing but the pulse and the pain and the ice.",
+   "n": 2,
+   "range": [
+    1741,
+    1880
+   ],
+   "words": 26
+  },
+  {
+   "who": "Eli",
+   "did": "vowed to put the Clarke sisters back in the ground, where they belonged",
+   "quote_anchor": "Put the Clarke sisters back in the ground, where they belonged, and—",
+   "n": 3,
+   "range": [
+    803,
+    871
+   ],
+   "words": 12
+  },
+  {
+   "who": "Haverty",
+   "did": "had Eli pinned open on a table in his lab, like a moth",
+   "quote_anchor": "He felt like he was back on the table in Haverty’s lab.",
+   "n": 4,
+   "range": [
+    294,
+    349
+   ],
+   "words": 12
+  }
+ ],
+ "numbers": [
+  {
+   "who": "Eli",
+   "did": "two — his vision slipped and was caught between the two (light, dark, ice, shack)",
+   "quote_anchor": "Eli tried to speak, but he couldn’t find the air. His vision slipped—light, dark, ice, shack—caught between the two.",
+   "n": 1,
+   "range": [
+    1212,
+    1328
+   ],
+   "words": 19
+  },
+  {
+   "who": "Eli",
+   "did": "one boot shifting on the creaking floorboards",
+   "quote_anchor": "He tasted blood, but kept trying, one boot shifting on the creaking floorboards before he seized again",
+   "n": 2,
+   "range": [
+    1503,
+    1605
+   ],
+   "words": 17
+  },
+  {
+   "who": "Eli",
+   "did": "two forces tearing him apart — Gabriel's command of his body and Serena's hold of his mind",
+   "quote_anchor": "Serena’s hold of his mind. The two forces tearing him apart.",
+   "n": 3,
+   "range": [
+    1650,
+    1710
+   ],
+   "words": 11
+  }
+ ]
+}

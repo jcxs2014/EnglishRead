@@ -1,0 +1,122 @@
+{
+ "chapter": 1,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch01_moments_before_the_end.txt",
+ "source_len_chars": 786,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "paused with his hand on the cold steel of the unlocked metal door and drew the inhaler from his coat",
+   "quote_anchor": "The door was unlocked, but as Victor brought his hand to the cold steel he paused, and drew the inhaler from his coat.",
+   "range": [
+    208,
+    326
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "held the inhaler to the light and studied the violet liquid in the cartridge, calculating how much he would need",
+   "quote_anchor": "He held it to the light, studying the violet liquid in the cartridge, calculating how much he’d need.",
+   "range": [
+    327,
+    428
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "a voice in his ear",
+   "did": "asked Victor whether he was ready",
+   "quote_anchor": "“Hey, Vic,” said a voice in his ear. “Are you ready?”",
+   "range": [
+    499,
+    552
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "tugged his mouth into a grim smile",
+   "quote_anchor": "His mouth tugged into a grim smile. Of all the ways this could have gone. All the paths and permutations.",
+   "range": [
+    555,
+    660
+   ],
+   "words": 20
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "said he was ready and pushed open the door",
+   "quote_anchor": "“I’m ready,” he said, pushing open the door.",
+   "range": [
+    741,
+    785
+   ],
+   "words": 8
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "knew what lay beyond the threshold and what was waiting for him there",
+   "quote_anchor": "He knew what lay beyond the threshold. What was waiting for him there.",
+   "range": [
+    94,
+    164
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "a voice in his ear",
+   "did": "spoke to Victor as Vic and asked whether he was ready",
+   "quote_anchor": "“Hey, Vic,” said a voice in his ear. “Are you ready?”",
+   "range": [
+    499,
+    552
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Victor Vale",
+   "did": "had chosen, in the end, to be a hero",
+   "quote_anchor": "How ironic, thought Victor Vale, that in the end, he’d chosen to be a hero.",
+   "range": [
+    663,
+    738
+   ],
+   "words": 15
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the violet liquid in the cartridge",
+   "did": "much — how much Victor would need",
+   "quote_anchor": "He held it to the light, studying the violet liquid in the cartridge, calculating how much he’d need.",
+   "range": [
+    327,
+    428
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "the ways this could have gone",
+   "did": "All — all the paths and permutations",
+   "quote_anchor": "Of all the ways this could have gone. All the paths and permutations.",
+   "range": [
+    591,
+    660
+   ],
+   "words": 13
+  }
+ ]
+}

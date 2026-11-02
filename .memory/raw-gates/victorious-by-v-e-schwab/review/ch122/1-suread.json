@@ -1,0 +1,210 @@
+{
+ "chapter": 122,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch122_chapter_xii.txt",
+ "source_len_chars": 5458,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "twisted the jagged half of the glass shard still wrapped in his hand, driving it deeper into Victor's side",
+   "quote_anchor": "Eli’s hand was still wrapped around the other half. He twisted the jagged piece, and Victor groaned, his heightened nerves turning the ache to agony.",
+   "range": [
+    145,
+    294
+   ],
+   "words": 25
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "counted the shots he had fired and found that only one bullet was left, which he was saving",
+   "quote_anchor": "Which was how he knew, he only had one bullet left.",
+   "range": [
+    580,
+    631
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "let go of the glass and stepped back, his hands healing rapidly but with thick white scars roped around the palms",
+   "quote_anchor": "Eli felt the change as well, and let go of the glass, stepping back as if to admire his work.",
+   "range": [
+    966,
+    1059
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "dragged the first shard of glass out of his side and pried the second from his shoulder, then flung the first away",
+   "quote_anchor": "“Déjà vu,” said Victor as he dragged the first shard of glass out of his side and flung it away. He pried the second from his shoulder.",
+   "range": [
+    1285,
+    1420
+   ],
+   "words": 27
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "crossed to the knife on the floor, made his way to Victor, and lifted the blade to cut his throat",
+   "quote_anchor": "Deeming it worthy of the task, he made his way to Victor. “I’ll see you on the other side,” he said, the blade catching the light as he lifted it",
+   "range": [
+    1738,
+    1883
+   ],
+   "words": 30
+  },
+  {
+   "n": 6,
+   "who": "Gabriel",
+   "did": "entered the room from the doorway and ordered Eli to give him the knife, but never got the last word out",
+   "quote_anchor": "“Give me the knife,” said Gabriel, taking a step into the room. “I’ll finish this mysel—”",
+   "range": [
+    2496,
+    2585
+   ],
+   "words": 16
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "grabbed Eli's body and pulled him down out of the way, then swung the gun up and fired his last shot into Gabriel's head",
+   "quote_anchor": "so he’d have a clear line when he swung the gun up and fired his last shot into Gabriel’s head.",
+   "range": [
+    2783,
+    2878
+   ],
+   "words": 20
+  },
+  {
+   "n": 8,
+   "who": "Eli",
+   "did": "collapsed inward on himself and turned to ash after Gabriel died, leaving only the small blood-crusted blade",
+   "quote_anchor": "One second, he was there, knife slicing toward Victor’s throat, and the next, his body was collapsing inward on itself.",
+   "range": [
+    3578,
+    3697
+   ],
+   "words": 20
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "tried to share his pain with Eli, but it did not seem to be enough",
+   "quote_anchor": "He tried to share the pain, make Eli feel what he did. But for once, it didn’t seem to be enough.",
+   "range": [
+    295,
+    392
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "Gabriel",
+   "did": "held Eli in place by command so his body was pinned when he appeared in the doorway",
+   "quote_anchor": "Eli froze, the knife halfway to Victor’s throat, his body pinned by Gabriel’s command.",
+   "range": [
+    1996,
+    2082
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Gabriel",
+   "did": "shared a current of energy with every resurrected body, a signature that was his but not theirs, including Eli's",
+   "quote_anchor": "That, combined with the fact that every resurrected body possessed the same current of energy. A signature that wasn’t theirs, but Gabriel’s.",
+   "range": [
+    4474,
+    4615
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "had been fairly sure Gabriel would intercede but was far less certain about the link between their lives and deaths",
+   "quote_anchor": "Victor had been fairly sure Gabriel would intercede, but as for the link between their lives—and deaths—he had been far less certain.",
+   "range": [
+    4070,
+    4203
+   ],
+   "words": 22
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "85 percent",
+   "quote_anchor": "If someone had asked him how sure he’d been that Gabriel would come, he’d have said 85 percent.",
+   "range": [
+    2141,
+    2236
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "the eleven self-help books his parents had cowritten",
+   "quote_anchor": "He owed that to Alan and Martha Vale, to the eleven self-help books his parents had cowritten.",
+   "range": [
+    2237,
+    2331
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "one bullet left",
+   "quote_anchor": "Which was how he knew, he only had one bullet left.",
+   "range": [
+    580,
+    631
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Eli",
+   "did": "his last shot",
+   "quote_anchor": "he swung the gun up and fired his last shot into Gabriel’s head.",
+   "range": [
+    2814,
+    2878
+   ],
+   "words": 13
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "first shard",
+   "quote_anchor": "said Victor as he dragged the first shard of glass out of his side and flung it away.",
+   "range": [
+    1296,
+    1381
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "the second from his shoulder",
+   "quote_anchor": "said Victor as he dragged the first shard of glass out of his side and flung it away. He pried the second from his shoulder.",
+   "range": [
+    1296,
+    1420
+   ],
+   "words": 25
+  }
+ ]
+}

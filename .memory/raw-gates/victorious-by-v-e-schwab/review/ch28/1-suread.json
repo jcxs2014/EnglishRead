@@ -1,0 +1,177 @@
+{
+ "chapter": 28,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch28_chapter_ix.txt",
+ "source_len_chars": 9271,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "Hid the rusted bike back amid the brush and started toward the cabin",
+   "quote_anchor": "She hid the rusted bike back amid the brush and started toward the house.",
+   "range": [
+    218,
+    291
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "Mistook the stranger by the steps for Victor and dropped to the ground behind Mitch's unsplit log pile",
+   "quote_anchor": "Sydney dropped to the ground like a stone, landing behind a pile of logs Mitch had yet to split.",
+   "range": [
+    1131,
+    1227
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "Gripped the axe at the edge of the woodpile and failed to pry it free",
+   "quote_anchor": "She wrapped her hand around it, sliding her fingers into his grooves. But when she tried to pry it free, it didn’t even budge.",
+   "range": [
+    2381,
+    2507
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "Drew the knife out of her boot and got to her feet facing the stranger",
+   "quote_anchor": "The knife in her boot felt pitifully small, but she drew it anyway, keeping the blade out of sight",
+   "range": [
+    2989,
+    3087
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "Dol",
+   "did": "Broke out of the cabin's back door and put his body in front of Syd with his teeth bared",
+   "quote_anchor": "the massive black dog came barreling toward them, moving faster than he had in years",
+   "range": [
+    3796,
+    3880
+   ],
+   "words": 15
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "Drove the pickup around the corner and hopped out to face the stranger",
+   "quote_anchor": "Just then, the pickup came whipping around the corner, and down the drive, throwing up gravel and dirt.",
+   "range": [
+    4119,
+    4222
+   ],
+   "words": 18
+  },
+  {
+   "n": 7,
+   "who": "Noah",
+   "did": "Gave his name to Mitch and held out his hand",
+   "quote_anchor": "“Sorry to bother you all,” he said, holding out a hand. “Name’s Noah.”",
+   "range": [
+    4685,
+    4755
+   ],
+   "words": 13
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "Told Syd to pack her bags because staying was not worth the risk",
+   "quote_anchor": "Neither do I. But staying isn’t worth the risk.",
+   "range": [
+    7492,
+    7539
+   ],
+   "words": 9
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "Promised Syd the two of them would look after each other, the deal they had",
+   "quote_anchor": "You look after me, and I’ll look after you. That was the deal.",
+   "range": [
+    8502,
+    8564
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "Told Syd he was not an EO and could not control bodies or minds or bring the dead back",
+   "quote_anchor": "“You’re right. I’m not an EO. I can’t control people’s bodies, or their minds, or bring them back from the dead.",
+   "range": [
+    8892,
+    9004
+   ],
+   "words": 21
+  },
+  {
+   "n": 3,
+   "who": "Noah",
+   "did": "Was the father of a daughter named Haley",
+   "quote_anchor": "The man—Noah—bobbed his head. “Not a bad thing, to be cautious. That’s what I tell my daughter.”",
+   "range": [
+    5020,
+    5116
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "Had taken away the pain of Dominic Rusher, a soldier broken by his time at war",
+   "quote_anchor": "But once Victor had taken away his pain, he’d carried himself the way this guy did now, straight-backed and strong.",
+   "range": [
+    5901,
+    6016
+   ],
+   "words": 20
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the stranger",
+   "did": "Stopped ten feet away from Syd",
+   "quote_anchor": "The stranger stopped, ten feet away, holding up a hand to shield his eyes as if he wasn’t already wearing shades.",
+   "range": [
+    3137,
+    3250
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "Was not thirty yards from the nearest door",
+   "quote_anchor": "she was already inside the house. Not thirty yards from the nearest door.",
+   "range": [
+    2173,
+    2246
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "Noah's uncle",
+   "did": "Died two summers back",
+   "quote_anchor": "He died two summers back. Would have bought the place myself, but I was deployed.",
+   "range": [
+    5720,
+    5801
+   ],
+   "words": 15
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "chapter": 121,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch121_chapter_xi.txt",
+ "source_len_chars": 4666,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "caught the thread of Mitch's life beneath his skin and pulled it, hauling him back to life so his heart beat again under her palms",
+   "quote_anchor": "she finally caught the thread of Mitch’s life, dancing beneath his skin, and pulled. A single, vicious jerk that hauled him back",
+   "range": [
+    322,
+    450
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "watched a second, identical Mitch appear and stand between Serena and herself",
+   "quote_anchor": "there were two. This new Mitch, a perfect double of the first, standing squarely between Serena and her sister.",
+   "range": [
+    1130,
+    1241
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Serena",
+   "did": "shot the second Mitch, who did not die but melted into smoke, and was replaced by another",
+   "quote_anchor": "He looked like flesh and blood, but when the bullet struck, he didn’t die, just melted into smoke.",
+   "range": [
+    1357,
+    1455
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Sydney",
+   "did": "watched a Mitch dissolve while the original held her to his front and told her it would be all right",
+   "quote_anchor": "Sydney watched that Mitch dissolve. Another sprung up in his place, as the original held her to his front, and told her it would be all right.",
+   "range": [
+    1779,
+    1921
+   ],
+   "words": 27
+  },
+  {
+   "n": 5,
+   "who": "Serena",
+   "did": "drowned, cut, shot and froze the multiplying Mitches, and the Mitch still shielding Sydney winced each time",
+   "quote_anchor": "Serena drowned him, cut him, shot him, froze him, and every time, the Mitch still shielding Sydney winced, as if the killing hurt him, too.",
+   "range": [
+    2232,
+    2371
+   ],
+   "words": 25
+  },
+  {
+   "n": 6,
+   "who": "Sydney",
+   "did": "prised herself free of Mitch, ordered him to stay, and turned to walk toward Serena",
+   "quote_anchor": "But she shook her head. “Stay here,” she ordered, using the same tone she took sometimes with Dol.",
+   "range": [
+    2791,
+    2889
+   ],
+   "words": 18
+  },
+  {
+   "n": 7,
+   "who": "Sydney",
+   "did": "told Serena in a breaking voice that she wanted to go home, and Serena nodded and held out her hand",
+   "quote_anchor": "So when Syd looked up into her sister’s eyes and said, in a breaking voice, “I want to go home,” Serena didn’t question it.",
+   "range": [
+    3672,
+    3795
+   ],
+   "words": 24
+  },
+  {
+   "n": 8,
+   "who": "Sydney",
+   "did": "reached past Serena's skin for the thread and let it go instead of pulling it closer, so Serena fell apart and the frozen lake, the fog and the house crumbled with her",
+   "quote_anchor": "But this time, it was right there, already wrapped around her fingers, and instead of pulling it closer, Sydney let it go.",
+   "range": [
+    3972,
+    4094
+   ],
+   "words": 22
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney",
+   "did": "loves and fears her sister Serena Clarke, who expects the world and everyone in it to do exactly what she wants",
+   "quote_anchor": "Sydney loved her sister, and she feared her, and she knew that she would never change.",
+   "range": [
+    3445,
+    3531
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Sydney",
+   "did": "had made Serena stronger than anyone should be by pouring all her fear and need into her bones, as Dr. Gray had warned",
+   "quote_anchor": "Poured all her fear and need into her bones. Made her stronger than anyone should be.",
+   "range": [
+    3179,
+    3264
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "listened when Sydney ordered him to stay, and had to be told by her that she was going to stop the fighting",
+   "quote_anchor": "And whether it was her voice, or the look she gave him, Mitch listened.",
+   "range": [
+    2890,
+    2961
+   ],
+   "words": 14
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "fought Serena as an EO, catching her gun hand and forcing the shot to ring out over the ice",
+   "quote_anchor": "One Mitch caught Serena’s hand, forcing the gun up before it went off, the shot ringing out over the ice.",
+   "range": [
+    1606,
+    1711
+   ],
+   "words": 20
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "two",
+   "quote_anchor": "there were two. This new Mitch, a perfect double of the first, standing squarely between Serena and her sister.",
+   "range": [
+    1130,
+    1241
+   ],
+   "words": 19
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "one",
+   "quote_anchor": "One of him was holding her, and the rest were fighting Serena.",
+   "range": [
+    2144,
+    2206
+   ],
+   "words": 12
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "A single, vicious jerk",
+   "quote_anchor": "A single, vicious jerk that hauled him back, out of the dark place and into this one.",
+   "range": [
+    407,
+    492
+   ],
+   "words": 17
+  },
+  {
+   "n": 4,
+   "who": "Dr. Gray",
+   "did": "one",
+   "quote_anchor": "Dr. Gray was right about one thing. Whether she meant to or not, Sydney had done this to Serena.",
+   "range": [
+    3082,
+    3178
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "Sydney",
+   "did": "First",
+   "quote_anchor": "“First,” she said, “we have to find Victor.”",
+   "range": [
+    4621,
+    4665
+   ],
+   "words": 8
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "chapter": 97,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch97_chapter_xxvii.txt",
+ "source_len_chars": 4040,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "stepped out of the red pickup at the burning roadster and surveyed the dead agents",
+   "quote_anchor": "as Victor stepped out, he took in the remains of one agent painted on the pavement, two more on the ground",
+   "range": [
+    142,
+    248
+   ],
+   "words": 21
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "carved a wide berth around the agents to avoid the body cameras",
+   "quote_anchor": "Victor carved a wide berth around the agents to avoid the body cameras.",
+   "range": [
+    356,
+    427
+   ],
+   "words": 13
+  },
+  {
+   "n": 3,
+   "who": "June",
+   "did": "told Victor and Mitch that the people in the transport van were not Sydney Clarke",
+   "quote_anchor": "“Great question,” muttered June. “And I have no idea. But I can tell you one thing. They were not transporting Sydney Clarke.”",
+   "range": [
+    647,
+    773
+   ],
+   "words": 22
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "said the woman being transported was Serena, who Sydney must have brought back",
+   "quote_anchor": "“She was,” said Victor. “Which means Sydney must have brought her back. Presumably when things went south at the motel,”",
+   "range": [
+    1149,
+    1269
+   ],
+   "words": 20
+  },
+  {
+   "n": 5,
+   "who": "June",
+   "did": "crouched over the nearest corpse and stripped weapons from the dead agent's belt, freeing a clip and a gun and racking it",
+   "quote_anchor": "June crouched over the nearest corpse, plucking weapons from the dead agent’s belt like a magpie picking over shiny tokens.",
+   "range": [
+    1709,
+    1832
+   ],
+   "words": 20
+  },
+  {
+   "n": 6,
+   "who": "Eli",
+   "did": "sprinted through the trees toward the red dot closing on the map",
+   "quote_anchor": "he put it to use, the red dot on the map getting closer by the second as he sprinted through the trees.",
+   "range": [
+    2146,
+    2249
+   ],
+   "words": 22
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "glanced toward the tree line and looked straight through Eli without reacting to him",
+   "quote_anchor": "Instead, he only tipped his head to one side and looked at Eli—looked through Eli—like he wasn’t even there.",
+   "range": [
+    3502,
+    3610
+   ],
+   "words": 19
+  },
+  {
+   "n": 8,
+   "who": "Eli",
+   "did": "started forward out of the tree line and was seized by the collar by an unseen hand as a small object sailed past",
+   "quote_anchor": "before a hand grabbed him by the collar and forced him down.",
+   "range": [
+    3951,
+    4011
+   ],
+   "words": 12
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "June",
+   "did": "challenged Victor for not sounding surprised that Serena Clarke was the one being transported",
+   "quote_anchor": "June’s eyes narrowed. “You don’t sound very surprised.”",
+   "range": [
+    880,
+    935
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "asked where Syd was once it was clear Serena was the one in the van",
+   "quote_anchor": "“If Serena was here,” said Mitch, looking at the wreckage, “then where is Syd?”",
+   "range": [
+    1627,
+    1706
+   ],
+   "words": 14
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "told June his hunch about Serena formed between her calling and the line going dead",
+   "quote_anchor": "“Somewhere between you calling and the line going dead.”",
+   "range": [
+    1006,
+    1062
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "said she had thought Serena Clarke was dead",
+   "quote_anchor": "“Funny thing,” said June, rising to her feet. “I thought Serena Clarke was dead.”",
+   "range": [
+    1065,
+    1146
+   ],
+   "words": 14
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the agents at the crash scene",
+   "did": "one agent was painted on the pavement and two more lay on the ground between the burning roadster and the transport van",
+   "quote_anchor": "the remains of one agent painted on the pavement, two more on the ground between the burning roadster and the transport van.",
+   "range": [
+    176,
+    300
+   ],
+   "words": 22
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "stood twenty yards away from Eli",
+   "quote_anchor": "Victor, standing right there, twenty yards away, pale and tall in his black coat, three years older than he’d been the last time they crossed paths.",
+   "range": [
+    2593,
+    2741
+   ],
+   "words": 26
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "was three years older than the last time he and Eli crossed paths",
+   "quote_anchor": "Three years older, and yet, healthier than Eli had ever seen him, which felt like a slap in the face.",
+   "range": [
+    2762,
+    2863
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "June",
+   "did": "said there were two roads at the scene, so the abductors must have taken the other one",
+   "quote_anchor": "“There are two roads,” she said, freeing a clip, and a gun. She racked the weapon.",
+   "range": [
+    1833,
+    1915
+   ],
+   "words": 16
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "made one step, two out of the tree line before the object sailed past him",
+   "quote_anchor": "He started forward, out of the tree line, made it one step, two, before a small object sailed past him.",
+   "range": [
+    3720,
+    3823
+   ],
+   "words": 20
+  },
+  {
+   "n": 6,
+   "who": "June",
+   "did": "said that one moment Serena was opening her eyes and the next June was sitting in a diner stacking sugar packets",
+   "quote_anchor": "One moment she was opening her eyes and the next, I’m sitting in a diner stacking sugar packets and…",
+   "range": [
+    1422,
+    1522
+   ],
+   "words": 19
+  }
+ ]
+}

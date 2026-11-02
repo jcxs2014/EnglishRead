@@ -1,0 +1,177 @@
+{
+ "chapter": 62,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch62_chapter_xi.txt",
+ "source_len_chars": 5654,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Sydney Clarke",
+   "did": "opened her eyes on the sofa of the Brighton Commons house, and the first thing she saw was the chandelier",
+   "quote_anchor": "WHEN Sydney Clarke opened her eyes, the first thing she saw was the chandelier.",
+   "range": [
+    83,
+    162
+   ],
+   "words": 14
+  },
+  {
+   "n": 2,
+   "who": "Serena",
+   "did": "slung her arms around Sydney's shoulders, rested a sharp chin on her head and said hello",
+   "quote_anchor": "Just then, a pair of arms slung themselves around her shoulders, a sharp chin coming to rest against the top of her head.",
+   "range": [
+    2549,
+    2670
+   ],
+   "words": 23
+  },
+  {
+   "n": 3,
+   "who": "Sydney Clarke",
+   "did": "remembered the motel, the fight, and Dol's body slamming into Eli",
+   "quote_anchor": "Remembered the motel, and the fight, Dol’s body slamming into Eli’s.",
+   "range": [
+    3367,
+    3435
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Sydney Clarke",
+   "did": "remembered her sister's bones beneath her hands and the cold across her skin",
+   "quote_anchor": "Remembered her sister’s bones beneath her hands, the cold across her skin.",
+   "range": [
+    3517,
+    3591
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "Serena",
+   "did": "shook her head, spread her arms as if reaching for the walls and said they were home",
+   "quote_anchor": "Serena shook her head. “What are you talking about, silly?” She spread her arms, as if reaching for the walls. “We’re home.”",
+   "range": [
+    3819,
+    3943
+   ],
+   "words": 22
+  },
+  {
+   "n": 6,
+   "who": "Sydney Clarke",
+   "did": "told Serena they were not home and asked how they had got there",
+   "quote_anchor": "“Right.…” said Syd. But they weren’t. They couldn’t be. So— “How did we get here?”",
+   "range": [
+    3946,
+    4028
+   ],
+   "words": 15
+  },
+  {
+   "n": 7,
+   "who": "Sydney Clarke",
+   "did": "felt the whole house disappear when her foot slammed into something hard as she stumbled",
+   "quote_anchor": "her foot slammed into something, hard enough to hurt, and for an instant, as she stumbled, the pain shooting through her toes, the whole house disappeared",
+   "range": [
+    4668,
+    4822
+   ],
+   "words": 26
+  },
+  {
+   "n": 8,
+   "who": "Sydney Clarke",
+   "did": "saw through a gap in the clapboard walls of a rotting house the outline of a Ferris wheel and the lattice of a roller coaster",
+   "quote_anchor": "Through a gap in the clapboard walls, she could just make out the outline of a Ferris wheel, the lattice of a roller coaster.",
+   "range": [
+    4958,
+    5083
+   ],
+   "words": 24
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Sydney Clarke",
+   "did": "is Serena's sister, whose sight made Syd instantly dizzy",
+   "quote_anchor": "The sight of her sister made Syd instantly dizzy.",
+   "range": [
+    2829,
+    2878
+   ],
+   "words": 9
+  },
+  {
+   "n": 2,
+   "who": "Serena",
+   "did": "answered that the cake was for Syd's birthday and that she had not forgotten",
+   "quote_anchor": "“For your birthday,” answered Serena as Syd trailed in her wake. “Don’t think I forgot.”",
+   "range": [
+    4516,
+    4604
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Sydney Clarke",
+   "did": "stands in an almost perfect replica of the house where she and Serena once lived, before the accident",
+   "quote_anchor": "An almost perfect replica of where they’d lived, once upon a time. Before the accident.",
+   "range": [
+    3711,
+    3798
+   ],
+   "words": 15
+  },
+  {
+   "n": 4,
+   "who": "Serena",
+   "did": "controls the room: her blue eyes flicker and darken and the room flickers like an old movie",
+   "quote_anchor": "Her blue eyes seemed to flicker and darken half a shade. The room flickered, too, like an old movie",
+   "range": [
+    4109,
+    4208
+   ],
+   "words": 19
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the chandelier",
+   "did": "has a hundred little petals that glint in the light from the floor-to-ceiling windows",
+   "quote_anchor": "Light poured in through floor-to-ceiling windows and glinted on the hundred little petals.",
+   "range": [
+    274,
+    364
+   ],
+   "words": 13
+  },
+  {
+   "n": 2,
+   "who": "the house",
+   "did": "was too big for four, two of whom were never even home",
+   "quote_anchor": "The house had always been too big for four, especially considering two of them were never even home.",
+   "range": [
+    2113,
+    2213
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "the banister",
+   "did": "ringed the second floor, a wooden rail from which you could hold imaginary court",
+   "quote_anchor": "It ringed the second floor, a wooden rail from which you could hold imaginary court.",
+   "range": [
+    796,
+    880
+   ],
+   "words": 15
+  }
+ ]
+}

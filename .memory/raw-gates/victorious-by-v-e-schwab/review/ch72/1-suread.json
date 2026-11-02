@@ -1,0 +1,210 @@
+{
+ "chapter": 72,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch72_chapter_ii.txt",
+ "source_len_chars": 8899,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "walked the route between the science buildings at Lockland, his mind pulled between the present and the past",
+   "quote_anchor": "his body remembered the route between the science buildings, legs carrying him as if to class",
+   "range": [
+    121,
+    214
+   ],
+   "words": 16
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "rolled the inhaler between his fingers and assured Dani the compound was not harmful to the public and only for himself",
+   "quote_anchor": "Victor rolled the inhaler between his fingers. “I can assure you,” he said, “it’s not harmful to the public. And I intend to use it only on myself.”",
+   "range": [
+    809,
+    957
+   ],
+   "words": 28
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "told the truth and asked Dani whether she had heard the term EO",
+   "quote_anchor": "Instead, he told the truth. “Have you heard the term EO?”",
+   "range": [
+    3196,
+    3253
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Victor",
+   "did": "flexed his hand and pinned Dani in place with his will as she reached for the phone",
+   "quote_anchor": "Victor flexed his hand, and hers froze. Her whole body went taut and still, pinned in place by his will.",
+   "range": [
+    4269,
+    4373
+   ],
+   "words": 20
+  },
+  {
+   "n": 5,
+   "who": "Victor",
+   "did": "let go and returned Dani her autonomy, and she sank back into her chair",
+   "quote_anchor": "He let go. She sagged a little as her autonomy returned, her body back under her own control.",
+   "range": [
+    4742,
+    4835
+   ],
+   "words": 18
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "lifted the inhaler to his mouth and breathed in, then ejected the cartridge and set the blue vial on the desk",
+   "quote_anchor": "He ejected the inhaler cartridge and set the vivid blue vial on the desk.",
+   "range": [
+    5186,
+    5259
+   ],
+   "words": 14
+  },
+  {
+   "n": 7,
+   "who": "Victor",
+   "did": "explained the near-death experience in the Lockland lab, his second resurrection, and the choice between impotence and death",
+   "quote_anchor": "He then explained, as succinctly as he could, about the near-death experience in the lab here at Lockland, all those years ago,",
+   "range": [
+    5605,
+    5732
+   ],
+   "words": 22
+  },
+  {
+   "n": 8,
+   "who": "Dani",
+   "did": "took the formula back down to studs to find a better solution and said she would need to run tests",
+   "quote_anchor": "“I’m going to take the formula back down to studs. See if I can find a better solution.”",
+   "range": [
+    7520,
+    7608
+   ],
+   "words": 18
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Victor",
+   "did": "saw in Dani a distorted version of himself as he'd been: young and brilliant, ambitious and ignored",
+   "quote_anchor": "In her, Victor saw a distorted version of himself. Not as he was, but as he’d been. Young and brilliant, ambitious and ignored.",
+   "range": [
+    2215,
+    2342
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Eli",
+   "did": "spoke from over Victor's shoulder, recalling when he first declared EO as his formal thesis",
+   "quote_anchor": "“Like me,” said Eli, somewhere over Victor’s shoulder. “Remember when I first declared it as my formal thesis?",
+   "range": [
+    3681,
+    3791
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Sydney",
+   "did": "called out from the middle of the street, a voice Victor heard but that was not there",
+   "quote_anchor": "Sydney called out from the middle of the street.",
+   "range": [
+    7379,
+    7427
+   ],
+   "words": 9
+  },
+  {
+   "n": 4,
+   "who": "Dani",
+   "did": "told Victor that if he used his powers on her again without express permission, she would let him die",
+   "quote_anchor": "He glanced back. “If you ever use your powers on me again without express permission, I’ll let you die. Understood?”",
+   "range": [
+    8725,
+    8841
+   ],
+   "words": 20
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Dani",
+   "did": "asked how long it was before Victor needed another dose; he answered seven hours",
+   "quote_anchor": "“Seven hours.” At first, it had been nearly twelve, but that window, like all of them, was shrinking.",
+   "range": [
+    8200,
+    8301
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Victor",
+   "did": "said the window at first had been nearly twelve hours and was shrinking",
+   "quote_anchor": "At first, it had been nearly twelve, but that window, like all of them, was shrinking.",
+   "range": [
+    8215,
+    8301
+   ],
+   "words": 16
+  },
+  {
+   "n": 3,
+   "who": "Victor",
+   "did": "had been taking the compound for two and a half years",
+   "quote_anchor": "And you’ve been taking it for, what, two and a half years? It’s a miracle you haven’t done more damage.”",
+   "range": [
+    7028,
+    7132
+   ],
+   "words": 20
+  },
+  {
+   "n": 4,
+   "who": "Dani",
+   "did": "told Victor to come back tomorrow night at eight and said she would reserve the lab",
+   "quote_anchor": "She glanced at a clock on the wall, lips moving as she counted. “Come back tomorrow night at eight.”",
+   "range": [
+    8304,
+    8404
+   ],
+   "words": 19
+  },
+  {
+   "n": 5,
+   "who": "Dani",
+   "did": "told Victor that half the chemicals in the compound are highly toxic",
+   "quote_anchor": "She rapped her fingers on the desk. “Half the chemicals in this are highly toxic.",
+   "range": [
+    6946,
+    7027
+   ],
+   "words": 15
+  },
+  {
+   "n": 6,
+   "who": "Victor",
+   "did": "pointed to the space between his second and third ribs, where a knife could be driven",
+   "quote_anchor": "pointing to the space between his second and third ribs, showing her exactly where to drive a knife.",
+   "range": [
+    6202,
+    6302
+   ],
+   "words": 18
+  }
+ ]
+}

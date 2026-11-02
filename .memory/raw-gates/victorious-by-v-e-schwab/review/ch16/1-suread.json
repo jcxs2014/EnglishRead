@@ -1,0 +1,210 @@
+{
+ "chapter": 16,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch16_chapter_xv.txt",
+ "source_len_chars": 11041,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "cut out the last of his stitches in the upstairs bathroom when the doorbell rang",
+   "quote_anchor": "He was in the upstairs bathroom, cutting out the last of his stitches when the doorbell rang.",
+   "range": [
+    287,
+    380
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "Helena Roy",
+   "did": "asked Gabriel at the front door to talk about Paul",
+   "quote_anchor": "“Dr. Gray,” said the woman with a smile that almost reached her eyes. “I’m sorry to bother you.”",
+   "range": [
+    832,
+    928
+   ],
+   "words": 18
+  },
+  {
+   "n": 3,
+   "who": "Helena Roy",
+   "did": "crossed the room to the back wall and paused before the floor-to-ceiling glass",
+   "quote_anchor": "The woman didn’t stop at the sofa. She drifted all the way to the back wall, pausing before the floor-to-ceiling glass.",
+   "range": [
+    2529,
+    2648
+   ],
+   "words": 21
+  },
+  {
+   "n": 4,
+   "who": "Gabriel Gray",
+   "did": "made three cups of coffee and carried the tray over to her",
+   "quote_anchor": "He’d made three cups, but the man by the front door made no move to join them.",
+   "range": [
+    3830,
+    3908
+   ],
+   "words": 17
+  },
+  {
+   "n": 5,
+   "who": "Helena Roy",
+   "did": "told Gabriel that police found Paul Barnett’s sister at his house, stabbed twenty-seven times",
+   "quote_anchor": "“After the incident”—a tasteful euphemism—“police found her at Paul’s house. She’d been stabbed twenty-seven times.”",
+   "range": [
+    5020,
+    5136
+   ],
+   "words": 15
+  },
+  {
+   "n": 6,
+   "who": "Helena Roy",
+   "did": "pulled a page out of the battered notebook and read it aloud",
+   "quote_anchor": "“You shouldn’t have that,” he said, but the woman ignored him. She plucked one of the pages out and began to read aloud.",
+   "range": [
+    6023,
+    6143
+   ],
+   "words": 23
+  },
+  {
+   "n": 7,
+   "who": "Helena Roy",
+   "did": "explained that EOs means ExtraOrdinary and that there are a few others like Paul",
+   "quote_anchor": "“It’s short for ExtraOrdinary,” she explained. “It’s a term that caught on, several years ago, in certain corners of the internet.",
+   "range": [
+    9084,
+    9214
+   ],
+   "words": 21
+  },
+  {
+   "n": 8,
+   "who": "Helena Roy",
+   "did": "offered Gabriel a position with her organization",
+   "quote_anchor": "I have a position for someone with your skills. And your composure.”",
+   "range": [
+    9729,
+    9797
+   ],
+   "words": 12
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Helena Roy",
+   "did": "is the director of EON, an organization dedicated to containing EOs",
+   "quote_anchor": "EOs pose a threat to society, and to themselves. My organization is dedicated to containing that threat.",
+   "range": [
+    10202,
+    10306
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "Paul Barnett",
+   "did": "was Gabriel’s patient and told him that people like him are made to disappear",
+   "quote_anchor": "That’s why you never hear about people like me, Paul had told him that first day. They make ’em disappear.",
+   "range": [
+    1053,
+    1159
+   ],
+   "words": 20
+  },
+  {
+   "n": 3,
+   "who": "Ian and Iris",
+   "did": "are Gabriel’s wife and son, whose ashes he scattered among the flowers",
+   "quote_anchor": "There hadn’t been enough of Ian and Iris to bury, but he’d taken a handful of ash from each and scattered it among the flowers.",
+   "range": [
+    2760,
+    2887
+   ],
+   "words": 25
+  },
+  {
+   "n": 4,
+   "who": "Helena Roy",
+   "did": "asked Gabriel whether he had experienced anything abnormal in the aftermath of his accident",
+   "quote_anchor": "I suppose I should ask, have you experienced anything abnormal in the aftermath of your accident?",
+   "range": [
+    10695,
+    10792
+   ],
+   "words": 16
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Gabriel Gray",
+   "did": "had worked for twenty-three years when Paul Barnett became his patient",
+   "quote_anchor": "If there was another reason Paul was the first and only patient he’d encountered in his twenty-three years whose trauma translated into something more.",
+   "range": [
+    1251,
+    1402
+   ],
+   "words": 24
+  },
+  {
+   "n": 2,
+   "who": "Paul Barnett’s sister",
+   "did": "had been stabbed twenty-seven times",
+   "quote_anchor": "police found her at Paul’s house. She’d been stabbed twenty-seven times.”",
+   "range": [
+    5063,
+    5136
+   ],
+   "words": 11
+  },
+  {
+   "n": 3,
+   "who": "Paul Barnett’s wounds",
+   "did": "were made of twenty-seven different shards of glass, with no broken glass found at his apartment",
+   "quote_anchor": "Twenty-seven different shards. And yet, no broken glass was found at his apartment.",
+   "range": [
+    5352,
+    5435
+   ],
+   "words": 13
+  },
+  {
+   "n": 4,
+   "who": "Paul Barnett",
+   "did": "died technically for three minutes on the way to the hospital",
+   "quote_anchor": "He did. Technically. For three minutes on the way to the hospital.",
+   "range": [
+    8917,
+    8983
+   ],
+   "words": 12
+  },
+  {
+   "n": 5,
+   "who": "Paul Barnett",
+   "did": "fell from a fourth-floor window and should have died",
+   "quote_anchor": "According to the file, he fell from a fourth-floor window. By all accounts, he should have died.",
+   "range": [
+    8816,
+    8912
+   ],
+   "words": 17
+  },
+  {
+   "n": 6,
+   "who": "Helena Roy’s black card",
+   "did": "carried three letters on one side and a number on the other",
+   "quote_anchor": "When he took it, he found a number ghosted on one side, and three letters on the other.",
+   "range": [
+    10016,
+    10103
+   ],
+   "words": 18
+  }
+ ]
+}

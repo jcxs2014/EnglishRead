@@ -1,0 +1,177 @@
+{
+ "chapter": 61,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch61_chapter_x.txt",
+ "source_len_chars": 3075,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Noah",
+   "did": "ordered a drone into the air to search the area for signs of life",
+   "quote_anchor": "Noah ordered a drone into the air to search the area for signs of life.",
+   "range": [
+    330,
+    401
+   ],
+   "words": 15
+  },
+  {
+   "n": 2,
+   "who": "an agent",
+   "did": "reported that the drone's infrared had picked up two heat signatures at the shuttered mall",
+   "quote_anchor": "“We’ve got them,” said an agent. The drone’s infrared had picked up two heat signatures",
+   "range": [
+    1241,
+    1328
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "proposed that the team split up in case the drone sighting was wrong",
+   "quote_anchor": "“We should split up,” he said, “in case that isn’t right.”",
+   "range": [
+    1407,
+    1465
+   ],
+   "words": 11
+  },
+  {
+   "n": 4,
+   "who": "Noah",
+   "did": "laughed and headed toward the nearest van instead of splitting up",
+   "quote_anchor": "But Noah only laughed and headed toward the nearest van.",
+   "range": [
+    1468,
+    1524
+   ],
+   "words": 10
+  },
+  {
+   "n": 5,
+   "who": "Eli",
+   "did": "explained the appearance of Sydney's sister to Noah and to Gabriel while they drove",
+   "quote_anchor": "While they drove, Eli explained the appearance of Sydney’s sister to Noah and Gabriel, who he knew was listening.",
+   "range": [
+    1527,
+    1640
+   ],
+   "words": 19
+  },
+  {
+   "n": 6,
+   "who": "Noah",
+   "did": "asked Eli which of the two Clarke sisters he would want if only one could be salvaged",
+   "quote_anchor": "“If we can only salvage one, which do you want more?”",
+   "range": [
+    2523,
+    2576
+   ],
+   "words": 11
+  },
+  {
+   "n": 7,
+   "who": "Eli",
+   "did": "told Gabriel that Serena overrode him and got inside his agents' heads, a reason to shoot on sight",
+   "quote_anchor": "She got inside your agents’ heads, even though you were already in there, and if that’s not enough reason to shoot on sight, I—",
+   "range": [
+    2172,
+    2299
+   ],
+   "words": 24
+  },
+  {
+   "n": 8,
+   "who": "Gabriel",
+   "did": "ordered the team to capture both Sydney and Serena Clarke alive",
+   "quote_anchor": "If that happens, I will instruct you. Until then, your orders are to capture both Sydney and Serena Clarke. Alive.",
+   "range": [
+    2599,
+    2713
+   ],
+   "words": 20
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Eli",
+   "did": "judges Gabriel to carry the same arrogance as Victor, that every EO thinks he can play God and be immune to consequence",
+   "quote_anchor": "The same arrogance that possessed every EO convinced they could play God and be immune to consequence.",
+   "range": [
+    2871,
+    2973
+   ],
+   "words": 17
+  },
+  {
+   "n": 2,
+   "who": "Noah",
+   "did": "was securing Mitchell Turner on the other side of the motel and felt nothing from Serena's power",
+   "quote_anchor": "Noah was on the other side of the motel, securing Mitchell Turner, and felt nothing.",
+   "range": [
+    1022,
+    1106
+   ],
+   "words": 15
+  },
+  {
+   "n": 3,
+   "who": "Eli",
+   "did": "believes Serena Clarke's power has grown past commanding minds to controlling every sense and creating an altered reality",
+   "quote_anchor": "She wasn’t just commanding minds. She was controlling every sense, creating a kind of altered reality.",
+   "range": [
+    625,
+    727
+   ],
+   "words": 16
+  },
+  {
+   "n": 4,
+   "who": "Noah",
+   "did": "did not disagree with Eli's objection and only said they should find them first",
+   "quote_anchor": "Noah didn’t disagree. “Let’s find them first” was all he said.",
+   "range": [
+    3012,
+    3074
+   ],
+   "words": 11
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "the five remaining agents",
+   "did": "there were five remaining agents, circling and waiting for instructions",
+   "quote_anchor": "The five remaining agents circled, waiting for instructions.",
+   "range": [
+    97,
+    157
+   ],
+   "words": 8
+  },
+  {
+   "n": 2,
+   "who": "the area around the motel",
+   "did": "there were no towns within a ten-mile radius",
+   "quote_anchor": "There were no towns in a ten-mile radius.",
+   "range": [
+    198,
+    239
+   ],
+   "words": 8
+  },
+  {
+   "n": 3,
+   "who": "the drone's infrared",
+   "did": "picked up two heat signatures at the entrance of the shuttered mall",
+   "quote_anchor": "The drone’s infrared had picked up two heat signatures at the entrance of the shuttered mall.",
+   "range": [
+    1274,
+    1367
+   ],
+   "words": 16
+  }
+ ]
+}

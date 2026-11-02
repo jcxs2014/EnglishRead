@@ -1,0 +1,199 @@
+{
+ "chapter": 68,
+ "source": "notes/books/novels/victorious-by-v-e-schwab/text/ch68_chapter_xvii.txt",
+ "source_len_chars": 4115,
+ "source_note": "仅据 text/ 原文通读，未读 md",
+ "events": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "groaned and dragged his head up, then discovered he was sitting upright on a metal bench",
+   "quote_anchor": "His wrists were locked together in front of him with heavy-duty cuffs, and his upper half was pinned to the wall behind him",
+   "range": [
+    1096,
+    1219
+   ],
+   "words": 23
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "tried to lunge forward when the night of the motel slammed back into him, but the straps held firm",
+   "quote_anchor": "The motel. The agents. Syd. All at once, Mitch tried to lunge forward, but the straps held firm, and pain erupted down his side.",
+   "range": [
+    1431,
+    1559
+   ],
+   "words": 24
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "recalled his broken ribs and the darts that had slammed into his sternum",
+   "quote_anchor": "Right. Stairs. Ribs. Broken. The center of his chest ached, too, where the darts had slammed into his sternum.",
+   "range": [
+    1560,
+    1670
+   ],
+   "words": 19
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "sagged back in the restraints and looked around at the low ceiling and the metal lattice",
+   "quote_anchor": "The ceiling was too low to stand upright, even if he hadn’t been tied down. The walls and floor were covered in a metal lattice",
+   "range": [
+    1842,
+    1969
+   ],
+   "words": 25
+  },
+  {
+   "n": 5,
+   "who": "Mitch",
+   "did": "reached the hidden compartment in the heel of his boot and ejected the small flat blade",
+   "quote_anchor": "he got his left boot close enough to reach the hidden compartment in the heel and eject the small flat blade",
+   "range": [
+    2790,
+    2898
+   ],
+   "words": 21
+  },
+  {
+   "n": 6,
+   "who": "Mitch",
+   "did": "sawed through the straps until he was free, with bleeding fingers, sweat and dizziness",
+   "quote_anchor": "By the time he got free, minutes—or hours—later his fingers were bleeding, and he was sweating, and dizzy.",
+   "range": [
+    3052,
+    3158
+   ],
+   "words": 18
+  },
+  {
+   "n": 7,
+   "who": "Mitch",
+   "did": "twisted the cuffs until he found a groove in the metal and maneuvered the blade into the nearest gap",
+   "quote_anchor": "He maneuvered the tip of the blade to the nearest gap and—",
+   "range": [
+    3559,
+    3617
+   ],
+   "words": 12
+  },
+  {
+   "n": 8,
+   "who": "Mitch",
+   "did": "was shocked by the cuffs and then gritted his teeth to try again",
+   "quote_anchor": "Of course they’d been equipped with a deterrent.",
+   "range": [
+    3726,
+    3774
+   ],
+   "words": 8
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "learned from Victor Vale that pain was just a sensation and the mind decided what it meant",
+   "quote_anchor": "Besides, if Victor Vale had taught him anything, it was that pain was just a sensation. The body felt it. The mind decided what it meant.",
+   "range": [
+    3934,
+    4071
+   ],
+   "words": 26
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "was locked inside a metal box while Syd was out there somewhere on her own",
+   "quote_anchor": "when he was locked inside a metal box and Syd was out there somewhere on her own",
+   "range": [
+    3852,
+    3932
+   ],
+   "words": 17
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "was given a handle of vodka by a friend at sixteen to dull the pain after a brutal fight",
+   "quote_anchor": "Once, when he was sixteen, after a brutal fight, a friend had given him a handle of vodka, saying it would dull the pain.",
+   "range": [
+    350,
+    471
+   ],
+   "words": 24
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "was still carrying in his system whatever they had shot him with",
+   "quote_anchor": "Whatever they’d shot him with was clearly still in his system.",
+   "range": [
+    3161,
+    3223
+   ],
+   "words": 11
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "who": "Mitch",
+   "did": "was sixteen when a friend gave him a handle of vodka after a brutal fight",
+   "quote_anchor": "Once, when he was sixteen, after a brutal fight, a friend had given him a handle of vodka",
+   "range": [
+    350,
+    439
+   ],
+   "words": 18
+  },
+  {
+   "n": 2,
+   "who": "Mitch",
+   "did": "was pinned to the wall by what looked like half a dozen seatbelt straps",
+   "quote_anchor": "his upper half was pinned to the wall behind him with what looked like half a dozen seatbelt straps",
+   "range": [
+    1171,
+    1270
+   ],
+   "words": 19
+  },
+  {
+   "n": 3,
+   "who": "Mitch",
+   "did": "sawed for a solid minute before the first strap broke",
+   "quote_anchor": "after a solid minute of sawing, the first strap finally broke, giving him leverage to attack the next",
+   "range": [
+    2949,
+    3050
+   ],
+   "words": 18
+  },
+  {
+   "n": 4,
+   "who": "Mitch",
+   "did": "wondered how long he had been out, whether an hour or a day",
+   "quote_anchor": "Mitch rolled his neck and groaned. How long had he been out? An hour? A day?",
+   "range": [
+    2300,
+    2376
+   ],
+   "words": 16
+  },
+  {
+   "n": 5,
+   "who": "the van",
+   "did": "had a single set of doors with no handle on the inside and only a small digital panel",
+   "quote_anchor": "there was a single set of doors, with no handle on the inside, only a small digital panel",
+   "range": [
+    2021,
+    2110
+   ],
+   "words": 18
+  }
+ ]
+}
