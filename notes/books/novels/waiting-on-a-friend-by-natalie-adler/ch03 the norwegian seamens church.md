@@ -82,7 +82,7 @@ modified: "2026-11-02"
 
 - **为什么这样写**：讽刺先开火——receiving line 本是家属专利，这位「鳏夫」却抢占了仪式位，casserole and a wink 把佛罗里达老年社交圈的荤腥感移植进来；解到最后一颗的衬衫是葬礼上的公开挑逗，也是示威。转折句 even though I was pissed at him 前后各压一层：气他不说，却又盼母亲看懂——裸胸在这里是身份证明文件，宣示「最后陪着他的人是我」。
 
-- **读者视角提示**：这是 Patrick 的正面登场：抢戏、性感、握着「最后时刻」的独家信息。她那句没得到回答的 why didn't you call me，把本案最大的悬案挂了起来。
+- **读者视角提示**：这是 Patrick 的正面登场：抢戏、性感、握着「最后时刻」的独家信息。她那句没得到回答的 why he didn’t call me，把本案最大的悬案挂了起来。
 
 > **原句 8:** "For a minute, I thought I saw his outline in the doorway, but then I saw what it really was: my own want, filling up the empty space."
 
