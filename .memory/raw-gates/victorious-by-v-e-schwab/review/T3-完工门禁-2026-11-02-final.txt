@@ -1,0 +1,226 @@
+# T3 完工门禁留档 · 《Victorious》 · 2026-11-02
+# 命令：bash scripts/gate.sh "notes/books/novels/victorious-by-v-e-schwab"
+# 生成时间：2026-11-02 20:13:52 CET
+
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+ch98 the borrowed throat.md: 6/6 ✅
+ch99 the protocol loophole.md: 6/6 ✅
+
+=== 总计 766/766 引文可核实（100%）；完全干净文件 129/129；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1134
+--- FAIL (0) ---
+--- WARN (0) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：126 个梗概段 / 0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 691 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 4 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 moments before the end.md                 ch01 moments before the end.md: 3/3 in ch01 text
+ch02 june wears the cellmate.md                ch02 june wears the cellmate.md: 7/7 in ch02 text
+ch03 june makes an offer.md                    ch03 june makes an offer.md: 8/8 in ch03 text
+ch04 snakes out of a dream.md                  ch04 snakes out of a dream.md: 12/12 in ch04 text
+ch05 twenty eight steps home.md                ch05 twenty eight steps home.md: 3/3 in ch05 text
+ch06 the word that came to mind.md             ch06 the word that came to mind.md: 4/4 in ch06 text
+ch07 sydney looks up old ghosts.md             ch07 sydney looks up old ghosts.md: 9/9 in ch07 text
+ch08 a chemist is persuaded.md                 ch08 a chemist is persuaded.md: 4/4 in ch08 text
+ch09 a chemist is tested.md                    ch09 a chemist is tested.md: 4/4 in ch09 text
+ch10 the house comes down.md                   ch10 the house comes down.md: 6/6 in ch10 text
+ch100 the belt and the post.md                 ch100 the belt and the post.md: 5/5 in ch100 text
+ch101 the crack and the canyon.md              ch101 the crack and the canyon.md: 4/4 in ch101 text
+ch102 the glass and the ash.md                 ch102 the glass and the ash.md: 10/10 in ch102 text
+ch103 the watch and the wait.md                ch103 the watch and the wait.md: 4/4 in ch103 text
+ch104 the pencil and the popcorn.md            ch104 the pencil and the popcorn.md: 7/7 in ch104 text
+ch105 the tablet and the knife.md              ch105 the tablet and the knife.md: 5/5 in ch105 text
+ch106 the chapel and the wings.md              ch106 the chapel and the wings.md: 4/4 in ch106 text
+ch107 the trap and the pills.md                ch107 the trap and the pills.md: 5/5 in ch107 text
+ch108 the violet and the tracker.md            ch108 the violet and the tracker.md: 5/5 in ch108 text
+ch109 the exam and the vial.md                 ch109 the exam and the vial.md: 5/5 in ch109 text
+ch11 the doctor brings them back.md            ch11 the doctor brings them back.md: 8/8 in ch11 text
+ch110 the clone and the hammer.md              ch110 the clone and the hammer.md: 5/5 in ch110 text
+ch111 the door and the roof.md                 ch111 the door and the roof.md: 5/5 in ch111 text
+ch112 mitch leaves the dream cabin.md          ch112 mitch leaves the dream cabin.md: 5/5 in ch112 text
+ch113 the booth and the static.md              ch113 the booth and the static.md: 5/5 in ch113 text
+ch114 victor fights through the white halls.md ch114 victor fights through the white halls.md: 5/5 in ch114 text
+ch115 sydney walks out onto the ice.md         ch115 sydney walks out onto the ice.md: 5/5 in ch115 text
+ch116 the knife and the camera.md              ch116 the knife and the camera.md: 7/7 in ch116 text
+ch117 the gun and the shattered ice.md         ch117 the gun and the shattered ice.md: 3/3 in ch117 text
+ch118 the shell and the ice.md                 ch118 the shell and the ice.md: 6/6 in ch118 text
+ch119 the tulip and the real heart.md          ch119 the tulip and the real heart.md: 4/4 in ch119 text
+ch12 mitch checks the weather.md               ch12 mitch checks the weather.md: 3/3 in ch12 text
+ch120 june falls and never lands.md            ch120 june falls and never lands.md: 3/3 in ch120 text
+ch121 sydney lets the thread go.md             ch121 sydney lets the thread go.md: 7/7 in ch121 text
+ch122 victor shoots gabriel and eli turns to ash.md ch122 victor shoots gabriel and eli turns to ash.md: 5/5 in ch122 text
+ch123 sydney finds victor against the green wall.md ch123 sydney finds victor against the green wall.md: 4/4 in ch123 text
+ch124 victor closes his eyes in the pickup.md  ch124 victor closes his eyes in the pickup.md: 5/5 in ch124 text
+ch125 sydney digs the grave open.md            ch125 sydney digs the grave open.md: 4/4 in ch125 text
+ch126 three years at the turn around.md        ch126 three years at the turn around.md: 5/5 in ch126 text
+ch13 rainfall.md                               ch13 rainfall.md: 6/6 in ch13 text
+ch14 try harder.md                             ch14 try harder.md: 3/3 in ch14 text
+ch15 sorry i brought you back.md               ch15 sorry i brought you back.md: 7/7 in ch15 text
+ch16 the director comes to call.md             ch16 the director comes to call.md: 8/8 in ch16 text
+ch17 the new director makes an offer.md        ch17 the new director makes an offer.md: 8/8 in ch17 text
+ch18 the phantom pulls the trigger.md          ch18 the phantom pulls the trigger.md: 7/7 in ch18 text
+ch19 the arcade ambush.md                      ch19 the arcade ambush.md: 6/6 in ch19 text
+ch20 sydney brings the stag back.md            ch20 sydney brings the stag back.md: 3/3 in ch20 text
+ch21 mitch hears of a visitor.md               ch21 mitch hears of a visitor.md: 3/3 in ch21 text
+ch22 the doctor signs at eon.md                ch22 the doctor signs at eon.md: 10/10 in ch22 text
+ch23 gabriel tours eon.md                      ch23 gabriel tours eon.md: 9/9 in ch23 text
+ch24 the first eo with a badge.md              ch24 the first eo with a badge.md: 6/6 in ch24 text
+ch25 june kills three men.md                   ch25 june kills three men.md: 7/7 in ch25 text
+ch26 the face she was wearing.md               ch26 the face she was wearing.md: 6/6 in ch26 text
+ch27 coffee for the man outside.md             ch27 coffee for the man outside.md: 4/4 in ch27 text
+ch28 a stranger at the cabin.md                ch28 a stranger at the cabin.md: 6/6 in ch28 text
+ch29 the last vial.md                          ch29 the last vial.md: 6/6 in ch29 text
+ch30 espresso for the director.md              ch30 espresso for the director.md: 4/4 in ch30 text
+ch31 twelve soldiers wake up.md                ch31 twelve soldiers wake up.md: 5/5 in ch31 text
+ch32 gabriel revives the doctor.md             ch32 gabriel revives the doctor.md: 6/6 in ch32 text
+ch33 rios keeps june off the books.md          ch33 rios keeps june off the books.md: 5/5 in ch33 text
+ch34 gabriel tests the medusa.md               ch34 gabriel tests the medusa.md: 6/6 in ch34 text
+ch35 syd leaves the cabin.md                   ch35 syd leaves the cabin.md: 5/5 in ch35 text
+ch36 the watcher steps out of the woods.md     ch36 the watcher steps out of the woods.md: 4/4 in ch36 text
+ch37 gabriel asks for a willing soldier.md     ch37 gabriel asks for a willing soldier.md: 4/4 in ch37 text
+ch38 the mirrors come back black.md            ch38 the mirrors come back black.md: 7/7 in ch38 text
+ch39 gabriel killed noah.md                    ch39 gabriel killed noah.md: 4/4 in ch39 text
+ch40 rios drops through the floor.md           ch40 rios drops through the floor.md: 4/4 in ch40 text
+ch41 gabriel offers the door.md                ch41 gabriel offers the door.md: 4/4 in ch41 text
+ch42 the iverly ambush.md                      ch42 the iverly ambush.md: 7/7 in ch42 text
+ch43 june stitches her wound and vanishes.md   ch43 june stitches her wound and vanishes.md: 3/3 in ch43 text
+ch44 a cabin and a diner.md                    ch44 a cabin and a diner.md: 5/5 in ch44 text
+ch45 gabriel walks his morning rounds.md       ch45 gabriel walks his morning rounds.md: 5/5 in ch45 text
+ch46 eli wakes and meets gabriel.md            ch46 eli wakes and meets gabriel.md: 7/7 in ch46 text
+ch47 eli leaves the cell with noah.md          ch47 eli leaves the cell with noah.md: 5/5 in ch47 text
+ch48 gabriel asks if eli wants to kill him.md  ch48 gabriel asks if eli wants to kill him.md: 7/7 in ch48 text
+ch49 because you are not god.md                ch49 because you are not god.md: 5/5 in ch49 text
+ch50 ashes to ashes.md                         ch50 ashes to ashes.md: 5/5 in ch50 text
+ch51 the girl who brought victor back.md       ch51 the girl who brought victor back.md: 4/4 in ch51 text
+ch52 the best motel in bethany.md              ch52 the best motel in bethany.md: 6/6 in ch52 text
+ch53 sydney at the empty pool.md               ch53 sydney at the empty pool.md: 3/3 in ch53 text
+ch54 reinforcements arrive.md                  ch54 reinforcements arrive.md: 7/7 in ch54 text
+ch55 sydney meets the dead man.md              ch55 sydney meets the dead man.md: 7/7 in ch55 text
+ch56 a bullet in the parking lot.md            ch56 a bullet in the parking lot.md: 5/5 in ch56 text
+ch57 the roof access door.md                   ch57 the roof access door.md: 5/5 in ch57 text
+ch58 three red darts.md                        ch58 three red darts.md: 7/7 in ch58 text
+ch59 a resurrection on the roof.md             ch59 a resurrection on the roof.md: 6/6 in ch59 text
+ch60 we have a problem.md                      ch60 we have a problem.md: 6/6 in ch60 text
+ch61 both of them alive.md                     ch61 both of them alive.md: 5/5 in ch61 text
+ch62 the house that wasnt hers.md              ch62 the house that wasnt hers.md: 6/6 in ch62 text
+ch63 two heat signatures.md                    ch63 two heat signatures.md: 5/5 in ch63 text
+ch64 gabriel watches the screens.md            ch64 gabriel watches the screens.md: 6/6 in ch64 text
+ch65 eli walks out of the illusion.md          ch65 eli walks out of the illusion.md: 7/7 in ch65 text
+ch66 the sister who came back changed.md       ch66 the sister who came back changed.md: 5/5 in ch66 text
+ch67 the guest at the green door.md            ch67 the guest at the green door.md: 4/4 in ch67 text
+ch68 mitch wakes in a transport van.md         ch68 mitch wakes in a transport van.md: 6/6 in ch68 text
+ch69 malcolm hides mitch from gray.md          ch69 malcolm hides mitch from gray.md: 6/6 in ch69 text
+ch70 the man at the van door.md                ch70 the man at the van door.md: 5/5 in ch70 text
+ch71 the stranger with the inhaler.md          ch71 the stranger with the inhaler.md: 5/5 in ch71 text
+ch72 the blue vial on the desk.md              ch72 the blue vial on the desk.md: 8/8 in ch72 text
+ch73 june answers a listing.md                 ch73 june answers a listing.md: 3/3 in ch73 text
+ch74 victor finds mitch at the gate.md         ch74 victor finds mitch at the gate.md: 5/5 in ch74 text
+ch75 dani tests the pain dial.md               ch75 dani tests the pain dial.md: 6/6 in ch75 text
+ch76 thesis day.md                             ch76 thesis day.md: 6/6 in ch76 text
+ch77 mitch watches from the roller coaster.md  ch77 mitch watches from the roller coaster.md: 6/6 in ch77 text
+ch78 a cardboard knife on the birthday cake.md ch78 a cardboard knife on the birthday cake.md: 6/6 in ch78 text
+ch79 ice that burned.md                        ch79 ice that burned.md: 4/4 in ch79 text
+ch80 the flowers that were a gun.md            ch80 the flowers that were a gun.md: 7/7 in ch80 text
+ch81 the golden boy chair in the desert dream.md ch81 the golden boy chair in the desert dream.md: 6/6 in ch81 text
+ch82 a red dart at the rail.md                 ch82 a red dart at the rail.md: 7/7 in ch82 text
+ch83 the ice shatters and eli draws his gun.md ch83 the ice shatters and eli draws his gun.md: 4/4 in ch83 text
+ch84 a dart instead of a bullet.md             ch84 a dart instead of a bullet.md: 8/8 in ch84 text
+ch85 sydney runs toward victor.md              ch85 sydney runs toward victor.md: 4/4 in ch85 text
+ch86 victor learns sydney is taken.md          ch86 victor learns sydney is taken.md: 5/5 in ch86 text
+ch87 the violet cartridge works.md             ch87 the violet cartridge works.md: 6/6 in ch87 text
+ch88 victor picks a fight in a parking lot.md  ch88 victor picks a fight in a parking lot.md: 6/6 in ch88 text
+ch89 victor leaves with the champagne.md       ch89 victor leaves with the champagne.md: 6/6 in ch89 text
+ch90 they have syd.md                          ch90 they have syd.md: 6/6 in ch90 text
+ch91 a metal disc in the pickup.md             ch91 a metal disc in the pickup.md: 8/8 in ch91 text
+ch92 the empty cartridge.md                    ch92 the empty cartridge.md: 6/6 in ch92 text
+ch93 the girl who was not syd.md               ch93 the girl who was not syd.md: 7/7 in ch93 text
+ch94 the voice on the line.md                  ch94 the voice on the line.md: 3/3 in ch94 text
+ch95 the other road.md                         ch95 the other road.md: 5/5 in ch95 text
+ch96 the earpiece comes out.md                 ch96 the earpiece comes out.md: 5/5 in ch96 text
+ch97 a grenade beneath the van.md              ch97 a grenade beneath the van.md: 4/4 in ch97 text
+ch98 the borrowed throat.md                    ch98 the borrowed throat.md: 6/6 in ch98 text
+ch99 the protocol loophole.md                  ch99 the protocol loophole.md: 6/6 in ch99 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：126 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  ℹ️ epub 二级参考集：Victorious (V. E. Schwab) (z-library.sk, 1lib.sk, z-lib.sk).epub（596894 flat 字符）　—— text/ 查无而 epub 命中将判**提示型**不判红
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（victorious-by-v-e-schwab）===
+  ✅ 逐字 2769 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 7 ｜ 🟠 部分命中 6 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 248
+
+=== ⑪ structure.py audit（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 5
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+
+=== ⑫ structure.py anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 25/25 ✅
+00_概述.md: 16/16 ✅
+00_金句精选.md: 30/30 ✅
+
+=== 总览引文 71/71 可核实（100%）；完全干净文件 3/3；已核覆盖 3/3 篇（无引语 0 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  ⚠️ 00_金句精选.md:21  同一句在 2 章出现（ch1,ch111），章节标注有歧义：“Hey, Vic,” said a voice in his ear.
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（victorious-by-v-e-schwab）===
+  参照集：text/（126 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（victorious-by-v-e-schwab）===
+  带前缀的 `> **原句 N:**` 行：126 个文件共 695 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏（E/F）
+
+=== ⑱ structure.py keywords（块覆盖度 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：126 个 md，阻断型 0 处 ／ 提示型 6 处 ===
+
+=== ⑲ check_chinese_layer（中文层：分析字段必须是中文、不能是空话）===
+=== 汇总：695 个引语块 | 合格分析密度 100% | 整层夹杂率 0% | 阻断型 0 | 提示型 113 ===
+=== 结论：无阻断型 ===
+
+=== ⑳ 整书体检（bookform --all，判据与 chapter.sh 相同）===
+  整书体检 126 章（与 `chapter.sh` 同一实现；只报其他 lane 不查的维度）
+  汇总：空引号 0 章 ｜ 模板套话 0 章 ｜ 残句 0 章 ｜ 块数越界 0 章 ｜ 形态偏离 0 章 ｜ 无法判定 0 章（引语/子项/关键词/中文密度另有 lane，本项不重复计）
+   （rc 层覆盖 ②③⑦⑧⑲⑳ 六个 lane；其余 14 个仍由文本层 ❌ 计数兜底）
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
+
+=== gate.sh 退出码：0 ===
+
+# 逐字核验：python3 scripts/verify_quotes.py <书目录> <epub> --full
+ch97 a grenade beneath the van.md: 4/4 ✅
+ch98 the borrowed throat.md: 6/6 ✅
+ch99 the protocol loophole.md: 6/6 ✅
+
+=== 总计 766/766 引文可核实（100%）；完全干净文件 129/129；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
