@@ -84,7 +84,7 @@ modified: "2026-11-02"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| triclinium | （罗马宅邸的）餐厅、躺餐桌室 | Next they drifted toward the triclinium, where two men barred their way; apparently Lucius was inside dining with senators, and would emerge later when the party really got going. |
+| triclinium | （罗马宅邸的）餐厅、躺餐桌室 | Apparently, Lucius had emerged from the triclinium with his inner circle. |
 | melancholy | 忧郁、哀愁 | Melancholy settled over them like cooling gas. |
 | pantomimed | 哑剧式地表演（pantomime 的过去式） | Lucius strapped an enormous wooden phallus to his furry pants, leapt down, and made loud goat noises as he pantomimed fucking each of the “offerings.” |
 | morosely | 阴郁地、闷闷不乐地 | Eventually, Hercules’s boyfriend joined them, staring morosely at the galaxy’s light. |
