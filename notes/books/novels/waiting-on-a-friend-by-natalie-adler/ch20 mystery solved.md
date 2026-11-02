@@ -18,7 +18,7 @@ modified: "2026-11-02"
 
 - **中文理解**：那是 Mark 在我们刚合租时坚持要的奢侈品。他是电视养大的，我不是；可我们俩一凑，就能整宿整宿地看公共频道上的怪东西：给人看手相的脱衣舞娘、丑到上不了正规电视的音乐录影、裸体脱口秀、穿皮背带的壮汉评外国电影。
 
-- **关键词**：a luxury Mark had insisted on / He was raised on television / kooky stuff on public access / guys in harnesses
+- **关键词**：a luxury Mark had insisted on / He was raised on television / kooky stuff was on public access / guys in harnesses
 
 - **为什么这样写**：电视被写成一件「他坚持的奢侈品」——1970 年代末的下城电视是最便宜的共处道具，也是两人差异的和解装置（他被电视养大，她不是，于是电视变成共同语）。冒号后的四项清单用最廉价的文化垃圾搭出一张双人床：这份单子里每一格都是他们一起看过的东西，与其说是收藏，不如说是遗物。
 
@@ -98,7 +98,7 @@ modified: "2026-11-02"
 
 - **中文理解**：「我们做的事是先把残余灵质封存、再移除。曼哈顿这东西很多，尤其下城——那里的『周转率』，这么说吧，很高。你可以把二十三街以下整片理解成一处超自然超级基金污染场地，而清理它就是我的工作。」
 
-- **关键词**：contain and then remove / a high rate of turnover / supernatural Superfund site / clean it up
+- **关键词**：contain and then remove / a high rate of / supernatural Superfund site / clean it up
 
 - **为什么这样写**：Rick 的推销语一半是房地产术语、一半是环境工程行话：turnover（周转）一词同时指房客与死者，Superfund（美国超级基金污染场地）把全下城升级为待治理的毒地。这套话说到底只推销一件事：死者=污物，而污物需要他。他没说一句神鬼，只用治理词汇替全城的驱逐式消毒开了发票。
 
