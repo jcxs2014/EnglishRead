@@ -18,7 +18,7 @@ modified: "2026-11-02"
 
 - **中文理解**：那是夏末，城市让人觉得空。但城里的死者越来越吵。
 
-- **关键词**：the end of summer / the city felt empty / the dead were getting louder
+- **关键词**：the end of summer / the city felt empty / the city’s dead were getting louder
 
 - **为什么这样写**：开篇两句就把生者与死者的收支表倒转：活人空了、亡者满了——「空」与「吵」构成一对反比，也宣告本章的主题不是事件而是音量。louder 一词让灵异从视觉问题转为听觉问题（本章后续全部以声音取证），这一转向是全书首次。
 
