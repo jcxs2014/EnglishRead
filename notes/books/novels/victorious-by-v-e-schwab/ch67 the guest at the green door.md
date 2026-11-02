@@ -49,7 +49,7 @@ modified: "2026-11-01"
 
 **中文理解**：「你怎么不进来？」她说着，把他往前拉。「正好赶上蛋糕。」
 
-**关键词**：drawing him forward · just in time for cake
+**关键词**：drawing him forward · in time for cake
 
 **为什么这样写**：她一边问一边动手：drawing him forward 让邀请变成牵引，句子本身不够，所以要靠这个动作补。回答用 cake 这个家常词，把血、枪、刚才那场灾难全挡在门外——越是血腥的场面之后，越要用一块蛋糕收，语气轻得像什么都没发生。两句都是问句式的短促节奏，一拉一放。
 

@@ -39,7 +39,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：她喊的是 Leigh，不是 June；两个名字在这一段里第一次并排出现，文本没有说哪一个才是站在桌边的那个人。
 
-> **原句 3:** "But she was cut off by the sudden buzz of Rios’s phone, which lay face up on the table. The screen lit up, and a face and name appeared. Leigh."
+> **原句 3:** "“What about you?” asked Rios, taking a swig of beer. “How long are you on leave?” “Till next week,” said June. “But truth be told,” she added, picking at the label on her bottle, “I’ve been thinking of getting out.” That took Rios by surprise. “No shit.”"
+
+**中文理解**：里奥斯问她休假到什么时候，琼说「到下周」，随即又补了一句实话：她一直在想退出去。里奥斯愣住了：「不会吧。」
+
+**关键词**：on leave · getting out
+
+**为什么这样写**：里奥斯问的是休假，琼答的却是离开——问与答错开半格，闲聊就变成一次试探。她那句「说实话」落在撕瓶标的动作上：手在忙，嘴上却在交代打算。最后里奥斯一句「不会吧」把这个反转接住，后面那句「Biohub 需要更多人手吗」才显出份量。
+
+**读者视角提示**：这是琼第一次说自己想走。她没说出口，只是承认「一直在想」。读者会替她记着这半句。
+
+> **原句 4:** "But she was cut off by the sudden buzz of Rios’s phone, which lay face up on the table. The screen lit up, and a face and name appeared. Leigh."
 
 **中文理解**：里奥斯的手机突然震起来，把琼的话截断了；那支手机正面朝上搁在桌上。屏幕亮起，一张脸和一个名字冒出来：Leigh。
 
@@ -49,7 +59,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一段里没有人说话，也没有人动，只有屏幕亮了一下。谁打来的、为什么里奥斯会僵住，文本一个字都没交代，只给了名字。
 
-> **原句 4:** "June smiled. “Yes, well, lucky for me, I’ve got more than nine lives. And I can’t help but wonder, what’s a nice girl like you doing in a place like EON?”"
+> **原句 5:** "June smiled. “Yes, well, lucky for me, I’ve got more than nine lives. And I can’t help but wonder, what’s a nice girl like you doing in a place like EON?”"
 
 **中文理解**：琼笑了笑，说自己运气好，命不止九条。接着她抛出真正想问的那句：像你这样的好姑娘，在 EON 这种地方做什么？
 
@@ -59,7 +69,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：「像你这样的姑娘」这句话里没有一个字是指控，却已经替对方定了位置——她认为那地方不该有这样的人。她没问职位，也没问理由。
 
-> **原句 5:** "“Now who’s curious?” teased June. But she was happy to oblige, for the sake of rapport. “Anyone I’ve met, so long as they’re still alive.” She sat forward, and as she did, she traded the neighbor for a blandly handsome white guy. “Anyone I’ve touched.” Rios’s hand went reflexively to her wrist, to the bare skin June had rested her fingers on."
+> **原句 6:** "“Now who’s curious?” teased June. But she was happy to oblige, for the sake of rapport. “Anyone I’ve met, so long as they’re still alive.” She sat forward, and as she did, she traded the neighbor for a blandly handsome white guy. “Anyone I’ve touched.” Rios’s hand went reflexively to her wrist, to the bare skin June had rested her fingers on."
 
 **中文理解**：「现在是谁好奇了？」琼打趣道。但为了拉近关系，她乐意满足这个要求：「我见过的任何人，只要他们还活着。」她往前一坐，顺势把那个邻居换成另一个长相平淡的白人男人。「还有我碰过的任何人。」里奥斯的手反射性地按向她自己的手腕——按向刚才琼手指搭过的那片裸露皮肤。
 

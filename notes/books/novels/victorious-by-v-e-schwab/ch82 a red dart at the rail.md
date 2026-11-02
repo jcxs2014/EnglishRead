@@ -29,28 +29,38 @@ modified: "2026-11-01"
 **为什么这样写**：四句一层层往下压：先给判断，再给她的防备，再给她那点指望，最后用 Instead 把前面三项一起推翻，落点只有两个词——a god。指望写得越具体，推翻得越干脆；破折号里那半句是她自己承认的盼头。
 **读者视角提示**：读者到这儿才知道她进这间房时是带着期待的，而这份期待已经落空。
 
-> **原句 3:** "But it seemed like anyone who got close enough got dragged inside it. So maybe she didn’t need Serena to drop the illusion. Maybe she just needed her to move it."
+> **原句 3:** "The closest her parents had let her get to having her own pet. She thought of Dol, attacking Eli. Dol, in need of help. And Mitch. Where was Mitch? What if he was hurt? What if he was dead?"
+
+**中文理解**：这是父母允许她养宠物的最大限度。她想起 Dol——正在攻击伊莱的 Dol，需要帮助的 Dol，还有米奇。米奇在哪儿？他会不会受伤？会不会已经死了？
+
+**关键词**：her own pet · Dol
+
+**为什么这样写**：句子不从宠物本身起笔，而从「最接近」起笔：不是她想要什么，是父母只准她走到哪一步。后半段连着两个短句点名，把那只玩偶变成一份名单；最后两个问句把恐慌从她推给读者——她跑出去救的是名单上的人。
+
+**读者视角提示**：玩偶在这里不是安慰物，是名单上的第一个名字。读者从这一句才明白，她急着出去不是为了自己。
+
+> **原句 4:** "But it seemed like anyone who got close enough got dragged inside it. So maybe she didn’t need Serena to drop the illusion. Maybe she just needed her to move it."
 
 **中文理解**：可看样子，谁靠得够近，谁就会被拖进这个梦里。所以她也许不必等塞雷娜撤掉幻觉，只要让她把幻觉挪个位置就够了。
 **关键词**：dragged inside it · move it
 **为什么这样写**：两个 maybe 并排站着，前一句否掉「撤掉」，后一句给出「挪开」，差别只在 drop 和 move 这两个动词上。上一句先把难处摊开——靠近的人都会被拖进去——她的办法就从这难处里长出来：不求拆掉，只求挪开。
 **读者视角提示**：读者到这儿才看见她打算怎么出去：不求姐姐收手，只求这个梦挪个位置。
 
-> **原句 4:** "But then she reached the rail and saw Eli still standing, frozen, in his shell of ice. Saw Serena sway, a red dart jutting from her neck. Saw the stranger—the same one from outside the cabin—step out of thin air, the gun still in his hand."
+> **原句 5:** "But then she reached the rail and saw Eli still standing, frozen, in his shell of ice. Saw Serena sway, a red dart jutting from her neck. Saw the stranger—the same one from outside the cabin—step out of thin air, the gun still in his hand."
 
 **中文理解**：可她走到楼梯栏杆边，看见伊莱还站着，冻在他的冰壳里；看见塞雷娜晃了一下，脖子上插着一支红色飞镖；还看见那个陌生人——就是小屋外那个——凭空走出来，枪仍握在手里。
 **关键词**：red dart · out of thin air
 **为什么这样写**：三个 Saw 排成一行，一个比一个远：冰里的伊莱不动，塞雷娜中镖后晃，陌生人从空气里走出来。前两个人她叫得出名字，第三个只用「小屋外那个」来认，认法就是她见过他的地方。最后半句把枪留在手里，动作停在现身那一刻，没有下一句解释。
 **读者视角提示**：三样东西同一眼看见，读者跟她一起站在栏杆边，谁都没有先动。
 
-> **原句 5:** "Serena collapsed, and as she did, so did the dream, the house in Brighton Commons dropping like a curtain, plunging Sydney suddenly back into the real world. Into the darkened shack in the abandoned park. The layout was different, but there was a second floor, little more than a platform, and she was standing on it, exposed, inches from the edge, a ten-foot drop."
+> **原句 6:** "Serena collapsed, and as she did, so did the dream, the house in Brighton Commons dropping like a curtain, plunging Sydney suddenly back into the real world. Into the darkened shack in the abandoned park. The layout was different, but there was a second floor, little more than a platform, and she was standing on it, exposed, inches from the edge, a ten-foot drop."
 
 **中文理解**：塞雷娜倒下，梦也跟着倒下：布莱顿公馆那栋房子像幕布一样落下，把西德妮一下甩回现实世界，甩进废弃公园里那间昏暗的棚屋。棚屋的格局不一样，可也有个二层，只是块平台；她就站在上面，人露在外面，离边沿只有几吋，下面是十英尺的落差。
 **关键词**：dropping like a curtain · ten-foot drop
 **为什么这样写**：梦和房子用同一个动作收场：塞雷娜倒，房子也倒；幕布一落，地点就换成棚屋。接着全是尺寸——二层只是块平台、离边沿几吋、十英尺——都是她站着不动这会儿必须知道的数。幕布落下的这一瞬不写她的反应，只写她此刻必须知道的那几个尺寸。
 **读者视角提示**：读者跟她一起被甩回现实，还没看清棚屋，就先知道了那个落差有多高；她人已经站在边沿上。
 
-> **原句 6:** "She lunged back, and as she did, the boards creaked beneath her shoes. The EO’s head jerked up, his weapon swinging with it, and Sydney ducked a breath before the gun went off, a dart burying itself in the wall above her head."
+> **原句 7:** "She lunged back, and as she did, the boards creaked beneath her shoes. The EO’s head jerked up, his weapon swinging with it, and Sydney ducked a breath before the gun went off, a dart burying itself in the wall above her head."
 
 **中文理解**：她往后一蹬，脚下的木板跟着嘎吱作响。那个 EO 的头猛地抬起来，枪也随之一摆；西德妮吸了半口气便低下头，枪响了，一支飞镖钉进她头顶的墙里。
 **关键词**：boards creaked beneath · ducked a breath

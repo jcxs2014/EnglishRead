@@ -19,7 +19,17 @@ modified: "2026-11-01"
 
 ## 精读
 
-> **原句 1:** "Unlike the rest of the board, all of whom had the usual agency acronyms beside their names, her background was in crisis management. She’d been a fixer, once upon a time, and now she’d been deployed to fix this. If it had been up to her, she would have torched the entire program."
+> **原句 1:** "It had been a shit show, keeping the whole thing out of the news. Spinning the gala disaster into a terror attack, paying off the press, dealing with witnesses. Then again, cleaning up messes was Helena’s forte."
+
+**中文理解**：整件事烂透了，他们费了很大劲才没让它见报。把那场晚会灾难包装成一次恐怖袭击、收买媒体、打发证人——这些活儿一向是海伦娜的强项。
+
+**关键词**：terror attack · paying off the press
+
+**为什么这样写**：三个短句堆在一起，每个动宾短语都指向同一件事：把一场灾难改写成另一场灾难。paying off the press 与 dealing with witnesses 并列，说明她处理的是「说法」而不是「事实」。最后一句把这一切归到 Helena’s forte 上——她被聘来做这个，不是来做善后的，是来做清场的。
+
+**读者视角提示**：谈判还没开始，读者先拿到海伦娜的履历：她的本事不是抓人，是把事情收拾干净。这决定了后面每句话的份量。
+
+> **原句 2:** "Unlike the rest of the board, all of whom had the usual agency acronyms beside their names, her background was in crisis management. She’d been a fixer, once upon a time, and now she’d been deployed to fix this. If it had been up to her, she would have torched the entire program."
 
 **中文理解**：董事会里别人名字后面挂的都是机构缩写，她的底子却是危机处理；她做过「摆平事情的人」，这回被派来摆平这件事。要是由她做主，她会把这个项目整个烧掉。
 
@@ -29,7 +39,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：注意 Unlike the rest of the board 这个起手：叙述先把她和同僚切开，后面所有关于这个项目的决定都带着这层距离。
 
-> **原句 2:** "At first glance, the scene had looked like a suicide, the gun still in the late director’s hand. But street footage showed an EO leaving after the gun went off, a flash of light against the curtains. She swiped a finger and the file migrated from the tablet to the wall, the EO’s face grainy but more than recognizable."
+> **原句 3:** "At first glance, the scene had looked like a suicide, the gun still in the late director’s hand. But street footage showed an EO leaving after the gun went off, a flash of light against the curtains. She swiped a finger and the file migrated from the tablet to the wall, the EO’s face grainy but more than recognizable."
 
 **中文理解**：现场第一眼像自杀，枪还握在已故主管手里；但街上的监控拍到枪响之后有一个 EO 离开，窗帘上映出一道光。她划了一下屏幕，档案从平板挪到墙上，那张脸颗粒很粗，却认得出是谁。
 
@@ -39,7 +49,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：grainy but more than recognizable 是这段的落点：画面质量差，辨认却不难，读者和她同时认出了那个人。
 
-> **原句 3:** "According to Stell’s extensive notes, Vale was the first EO he’d ever encountered, the first he caught, the flashpoint of his lifelong obsession with superpowered entities. The reason he left the force and established EON."
+> **原句 4:** "According to Stell’s extensive notes, Vale was the first EO he’d ever encountered, the first he caught, the flashpoint of his lifelong obsession with superpowered entities. The reason he left the force and established EON."
 
 **中文理解**：斯特尔的笔记写得很细：瓦尔是他遇到的第一个 EO，也是他抓到的第一个；这个人是斯特尔对超能者终身着迷的引信，也是他离开警队、创办 EON 的原因。
 
@@ -49,7 +59,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读到这里再回头看章节标题里的 EON，会明白它不是一个中立机构，而是由一次抓捕长出来的。
 
-> **原句 4:** "There was a second file on Vale, courtesy of an inmate—Eli Ever. Ever had spent ten years hunting down and executing EOs, driven by some kind of God complex, a spiritual conviction that his ability to heal had been given to him expressly for that purpose. Following Ever’s arrest, Stell had deputized him to use his talents on behalf of EON."
+> **原句 5:** "There was a second file on Vale, courtesy of an inmate—Eli Ever. Ever had spent ten years hunting down and executing EOs, driven by some kind of God complex, a spiritual conviction that his ability to heal had been given to him expressly for that purpose. Following Ever’s arrest, Stell had deputized him to use his talents on behalf of EON."
 
 **中文理解**：关于瓦尔还有第二份卷宗，来自一名囚犯——埃利·埃弗。埃弗花了十年追捕并处决非常人，动机近乎某种上帝情结：他相信自己的治愈能力正是为此而赐。被逮捕后，斯特尔委托他用自己的本事为 EON 办事。
 
@@ -59,7 +69,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：埃弗是第一个被写下来的「猎手」，而他的依据是一句神学判断。这条线要到后面才兑现。
 
-> **原句 5:** "Ever had somehow deduced that the killer in question was Vale, even though he was meant to be dead. If anyone could find and catch the late director’s murderer, it was probably him. Unfortunately, he’d taken a bullet to the heart six months before, and his powers hadn’t saved him."
+> **原句 6:** "Ever had somehow deduced that the killer in question was Vale, even though he was meant to be dead. If anyone could find and catch the late director’s murderer, it was probably him. Unfortunately, he’d taken a bullet to the heart six months before, and his powers hadn’t saved him."
 
 **中文理解**：埃弗不知怎么推断出凶手就是瓦尔，尽管按理说那人早该死了。要找到并抓住已故主管的凶手，大概只有他做得到。可惜六个月前他胸口中了一枪，他的能力没能救他。
 
@@ -69,7 +79,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一句解释了为什么此时是海伦娜在收拾斯特尔的残局，也预告了那个「第一个挺过来的人」会是谁。
 
-> **原句 6:** "As Helena spoke, her finger hovered beside a small red button on the underside of her desk. One touch, and the building would lock down. The office, too. The walls and floors would be shot through with a current that would prevent an EO—even one with Rios’s ability—from breaking through."
+> **原句 7:** "As Helena spoke, her finger hovered beside a small red button on the underside of her desk. One touch, and the building would lock down. The office, too. The walls and floors would be shot through with a current that would prevent an EO—even one with Rios’s ability—from breaking through."
 
 **中文理解**：她一边说话，手指一边停在桌子底下那颗小红钮旁边。按一下，整栋楼就会封锁，办公室也一样——墙壁和地板会通上电流，让一个 EO 闯不出去，哪怕那人是里奥斯也不行。
 
@@ -79,7 +89,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：注意 even one with Rios’s ability 这半句：它已经替读者确认，坐在对面的探员不是普通人。
 
-> **原句 7:** "“As his replacement, I have no intention of expanding his effort. No intention of rehabilitating and releasing more EOs into the field. Stell’s project will die with you. Knowing that,” she concluded, spreading her hands, “will you serve me as you served him?”"
+> **原句 8:** "“As his replacement, I have no intention of expanding his effort. No intention of rehabilitating and releasing more EOs into the field. Stell’s project will die with you. Knowing that,” she concluded, spreading her hands, “will you serve me as you served him?”"
 
 **中文理解**：作为他的接任者，她不打算扩大斯特尔的那套做法，也不打算再把 EO 改造好、放回外勤；斯特尔的项目会随着对方一起结束。说完她摊开手，问对方还愿不愿意像侍奉斯特尔那样侍奉她。
 

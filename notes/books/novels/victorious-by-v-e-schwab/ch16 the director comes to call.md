@@ -49,7 +49,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：那个画面是加百列自己补上的，不是她给的。作者连「他想起」都没写，画面直接插进来，插进来的位置正好在二十七与问句之间。
 
-> **原句 4:** "“A sleepwalking accident,” said Gabriel. “According to the file, he fell from a fourth-floor window. By all accounts, he should have died.” “He did. Technically. For three minutes on the way to the hospital.” Gabriel frowned, unsure why that was relevant. “Did Paul ever mention EOs?”"
+> **原句 4:** "“According to the coroner, the wounds weren’t made by a knife, but glass. Twenty-seven different shards. And yet, no broken glass was found at his apartment.” “Strange,” said Gabriel, because it was. Everything about Paul Barnett had been strange. “But I’m not sure how I can help.”"
+
+**中文理解**：按验尸官的报告，那些伤口不是刀造成的，是玻璃——二十七块不同的碎片。可他公寓里根本找不到碎玻璃。加百列说「奇怪」，因为他知道保罗·巴内特身上全是奇怪的事；他拿不准自己能帮上什么忙。
+
+**关键词**：different shards · no broken glass
+
+**为什么这样写**：前半句用 weren’t made by… but… 把凶器的性质整个换掉；中间的碎片数与前文「刺了二十七下」对上，却换了材质。最后一句是让步：加百列不肯接这个案子，理由不是案子不重要，而是保罗这个人从头到尾说不清。
+
+**读者视角提示**：二十七块玻璃是本章留下的第一个问号。读者会记住：有伤口，现场却没有凶器。
+
+> **原句 5:** "“A sleepwalking accident,” said Gabriel. “According to the file, he fell from a fourth-floor window. By all accounts, he should have died.” “He did. Technically. For three minutes on the way to the hospital.” Gabriel frowned, unsure why that was relevant. “Did Paul ever mention EOs?”"
 
 **中文理解**：「梦游造成的事故，」加百列说。「按病历，他是梦游着从四楼的窗户摔下去的。按所有记录，他不该活下来。」「他死了。严格来说，死了三分钟——去医院的那路上。」加百列皱起眉，不明白这有什么相干。「保罗有没有提过 EO？」
 
@@ -59,7 +69,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：海伦娜临走问的「那一晚你也差点没命」，问的就是这三分钟。读者到这里才明白加百列为什么懂得濒死是什么。
 
-> **原句 5:** "“It’s short for ExtraOrdinary,” she explained. “It’s a term that caught on, several years ago, in certain corners of the internet. A word for those rare people who, following a near-death experience, found themselves alive, but permanently altered.”"
+> **原句 6:** "“It’s short for ExtraOrdinary,” she explained. “It’s a term that caught on, several years ago, in certain corners of the internet. A word for those rare people who, following a near-death experience, found themselves alive, but permanently altered.”"
 
 **中文理解**：她解释说，EO 是 ExtraOrdinary 的缩写；这词几年前在某些网络圈子里传开，用来指那样一小群人——经历过濒死，活了下来，却从此被永久改变。
 
@@ -69,7 +79,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：她整段都在描述一类人，没有一句指着他。加百列有没有把自己算进这一类，作者一个字也没写——接下来的沉默是他的。
 
-> **原句 6:** "“You asked me, when I first arrived, what I was the director of.” Helena produced a small card, black on black, and handed it to him. When he took it, he found a number ghosted on one side, and three letters on the other."
+> **原句 7:** "“You asked me, when I first arrived, what I was the director of.” Helena produced a small card, black on black, and handed it to him. When he took it, he found a number ghosted on one side, and three letters on the other."
 
 **中文理解**：她先提醒他，刚进门时他问过她这个主任管的是什么；然后取出一张小小的卡片，黑底黑字，递到他手里。他接过去才发现，一面压着一串号码，另一面是三个字母。
 
@@ -79,7 +89,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一段只给了他数量，没给他内容：三个字母是看得见的，是哪三个却要等；读者和他一样，手里先只有一张黑卡片。
 
-> **原句 7:** "“You had your own close call that night.” Her voice was light, as if the question was nothing but an afterthought. But her gaze was sharp, searching. “I suppose I should ask, have you experienced anything abnormal in the aftermath of your accident?”"
+> **原句 8:** "“You had your own close call that night.” Her voice was light, as if the question was nothing but an afterthought. But her gaze was sharp, searching. “I suppose I should ask, have you experienced anything abnormal in the aftermath of your accident?”"
 
 **中文理解**：临走前她提起，那一晚他自己也差点没命。她的声音很轻，仿佛这问题只是顺口想起；可她的目光是紧的，在找东西。随后她把话说全：事故之后，他有没有经历过任何不正常的事。
 
