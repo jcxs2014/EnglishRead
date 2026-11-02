@@ -31,13 +31,13 @@ modified: "2026-11-01"
 
 > **原句 2:** "But this latest one, which had been so promising, turned out to be worse than a dead end. It was a setup, the whole place rigged to blow the moment they went in. Which was, if nothing else, irrevocable proof that Vale was not a ghost."
 
-**中文理解**：可最近这条线索本来很有希望，结果比白跑一趟还糟：那地方是个圈套，他们一进去就会炸。要说有什么用，它彻底证明了维尔不是鬼。
+**中文理解**：可最近这条线索本来很有希望，结果比白跑一趟还糟：那地方是个圈套，他们一进去就会炸。要说有什么用，它彻底证明了维克多不是鬼。
 
 **关键词**：rigged to blow · not a ghost
 
 **为什么这样写**：worse than a dead end 先把结果定级，再解释为什么更糟——不是没抓到，而是被对方算准了他们一定会来。rigged to blow the moment they went in 把时间卡在进门那一刻，泄露出对方熟悉他们的行动节奏。最后一句把失败换算成情报：死胡同给不出结论，陷阱能给出一个。
 
-**读者视角提示**：if nothing else 是自嘲的口气，但这句其实是本章对维尔唯一的判断——他在，而且他在逗他们。
+**读者视角提示**：if nothing else 是自嘲的口气，但这句其实是本章对维克多唯一的判断——他在，而且他在逗他们。
 
 > **原句 3:** "She was the first EO to ever be offered a badge instead of a cell. Or at least, the first to accept. Stell had believed that not every ExtraOrdinary deserved to be locked up."
 
@@ -107,4 +107,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-里奥斯第三次追捕维尔落空，那处据点本就是给她设的局。她在这座院区里的身份是斯特尔留下的一个例外：警徽换掉了牢房，也让她能做别的 EO 做不到的事。
+里奥斯第三次追捕维克多落空，那处据点本就是给她设的局。她在这座院区里的身份是斯特尔留下的一个例外：警徽换掉了牢房，也让她能做别的 EO 做不到的事。

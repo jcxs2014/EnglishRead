@@ -61,7 +61,7 @@ modified: "2026-11-01"
 
 > **原句 5:** "There was a second file on Vale, courtesy of an inmate—Eli Ever. Ever had spent ten years hunting down and executing EOs, driven by some kind of God complex, a spiritual conviction that his ability to heal had been given to him expressly for that purpose. Following Ever’s arrest, Stell had deputized him to use his talents on behalf of EON."
 
-**中文理解**：关于瓦尔还有第二份卷宗，来自一名囚犯——埃利·埃弗。埃弗花了十年追捕并处决非常人，动机近乎某种上帝情结：他相信自己的治愈能力正是为此而赐。被逮捕后，斯特尔委托他用自己的本事为 EON 办事。
+**中文理解**：关于瓦尔还有第二份卷宗，来自一名囚犯——伊莱·埃弗。埃弗花了十年追捕并处决非常人，动机近乎某种上帝情结：他相信自己的治愈能力正是为此而赐。被逮捕后，斯特尔委托他用自己的本事为 EON 办事。
 
 **关键词**：Eli Ever · hunting down and executing
 
