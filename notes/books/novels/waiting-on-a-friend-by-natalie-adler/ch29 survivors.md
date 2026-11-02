@@ -62,7 +62,7 @@ modified: "2026-11-02"
 
 - **为什么这样写**：本章恶人签名句：Cynthia 把母亲之死与「鬼」统称负能量，而她的处理方式是闭眼＋发抖——一个拒绝看、拒绝留的动作。这句与 ch22 她「别信鬼，只信吸引律」的立场合龙：她的哲学在此显露成本：为了不受打扰，她可以把母亲也归类为「频率问题」。
 
-- **读者视角提示**：把这句与 Silverman 的「compassionate to put things away」并列：一个用玄学否认，一个用技术收走——两人是同一种拒绝的两种方言。记住 Cynthia 的这一段账（她不与母亲共处）在下一块还会被算。
+- **读者视角提示**：把这句与 Silverman 的「compassionate to help people put things away」并列：一个用玄学否认，一个用技术收走——两人是同一种拒绝的两种方言。记住 Cynthia 的这一段账（她不与母亲共处）在下一块还会被算。
 
 > **原句 6:** "“She was dead already,” I said. “He just locked her ghost up in that box.”"
 
@@ -88,7 +88,7 @@ modified: "2026-11-02"
 
 - **中文理解**：「信——我信。但我也是科学家，我会检验我的信念。而我经验所得：并不是每个人都会留下自己的一部分。而真留下时，多半让活着的人难以承受。」
 
-- **关键词**：I’m also a scientist / I test my beliefs / not everyone leaves something behind / difficult for the living to bear
+- **关键词**：I’m also a scientist / I test my beliefs / not everyone leaves something of themselves behind / difficult for the living to bear
 
 - **为什么这样写**：他给出全书对鬼最理性的一段定义：信仰被当作待检验的假设；而「并非人人都留」这一句顺手替 Cynthia 的空屋做了技术说明——有些死亡不留残存，所以这间屋子毫无痕迹。最后半句（difficult for the living to bear）是他全部事业的伦理外壳：他的慈悲与他的恐惧是同一句话。
 
