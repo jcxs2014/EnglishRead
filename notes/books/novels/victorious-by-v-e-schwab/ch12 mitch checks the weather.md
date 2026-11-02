@@ -27,7 +27,7 @@ modified: "2026-11-01"
 
 > **原句 2:** "Now she asked, “The usual?” and he nodded, thinking how nice it was, to linger somewhere long enough to have a standard order, and how it was probably a sign that it was time to go. The thought sent a tiny splinter through his chest. He winced as Jenny strolled away."
 
-**中文理解**：她问一句「老样子？」，他点头，心里想的却是：能在一个地方待久到有了固定的一单，是件好事，可这大概也正是该走的信号。这个念头在他胸口划了一下，Jenny 走开时他疼得缩了一缩。
+**中文理解**：她问一句「老样子？」，他点头，心里想的却是：能在一个地方待久到有了固定的一单，是件好事，可这大概也正是该走的信号。这个念头在他胸口划了一下，珍妮走开时他疼得缩了一缩。
 
 **关键词**：standard order · tiny splinter
 
