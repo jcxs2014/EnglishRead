@@ -22,9 +22,9 @@ modified: "2026-11-01"
 **读者视角提示**：读者先拿到的是安排，不是人：两辆车、两条路、不到一英里。谁在哪辆车上、这趟车为什么这样分，要到下一段才交代。
 
 > **原句 2:** "Of course, under ideal circumstances, Noah would have ridden with one of the Clarke sisters, and left Eli with the other, but Cardale required supervision. And since Dr. Gray had declared Sydney the more important target, they’d both ended up with her."
-**中文理解**：按理想的安排，诺亚本该跟克拉克家的一个姐妹同车，把另一个留给埃利，可 Cardale 需要人看着。又因为格雷博士说过西德妮是更重要的目标，最后两个人都跟了她。
+**中文理解**：按理想的安排，诺亚本该跟克拉克家的一个姐妹同车，把另一个留给埃利，可 Cardale 需要人看着。又因为格雷医生说过西德妮是更重要的目标，最后两个人都跟了她。
 **关键词**：declared Sydney · ended up with her
-**为什么这样写**：这一段把「本该怎样」和「实际怎样」摆在一起：先是 would have ridden、left Eli with the other 这样的假设，再用 but 拐到 Cardale required supervision，最后用 since 把理由换成格雷博士的判断。两条理由一层压一层，句尾的 ended up with her 是全段唯一的结果。
+**为什么这样写**：这一段把「本该怎样」和「实际怎样」摆在一起：先是 would have ridden、left Eli with the other 这样的假设，再用 but 拐到 Cardale required supervision，最后用 since 把理由换成格雷医生的判断。两条理由一层压一层，句尾的 ended up with her 是全段唯一的结果。
 **读者视角提示**：读者到这里才知道这辆车里押的是西德妮，也知道诺亚和埃利同车不是原定安排，是两条理由挤出来的结果。
 
 > **原句 3:** "The retrieval mission had been a success, but it certainly hadn’t gone off without a hitch. They’d lost half a dozen agents, along with the human, Mitchell Turner, and judging by the state of the transport and the dead agents around it, he’d had help."

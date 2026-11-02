@@ -21,7 +21,7 @@ modified: "2026-11-01"
 
 **关键词**：vague sense · scraping a hand
 
-**为什么这样写**：这一段先给身体，后给房间。sat up、scraping a hand over his face、leaden、sluggish 一路都是慢动作，读者跟着他一节一节醒过来。破折号后的 though of what, he couldn’t say 把记忆的空缺直接摊在开头，不解释、不追问。末句把「沉」与「像还没从睡眠里挣出来」放在一起：感觉上他只是刚睡醒，可这一觉本该有来处。
+**为什么这样写**：这一段先给身体。sat up、scraping a hand over his face、leaden、sluggish 一路都是慢动作，读者跟着他一节一节醒过来。破折号后的 though of what, he couldn’t say 把记忆的空缺直接摊在开头，不解释、不追问。末句把「沉」与「像还没从睡眠里挣出来」放在一起：感觉上他只是刚睡醒，可这一觉本该有来处。
 
 **读者视角提示**：这里只写了「像刚睡醒」，没写他睡了多久，也没写他身在何处。读者拿到的是一具发沉的身体，位置与时间都还空着。
 
@@ -33,7 +33,7 @@ modified: "2026-11-01"
 
 **为什么这样写**：句子用一个动作串起结果：closed his eyes → trying to remember → was unnerved。中间两个并列成分都不是问句，而是他要翻找的内容，读起来像他在自己脑子里摸索。supplied 这个词把脑子写成供货的一方，它只肯交出 black，还是 flat 的一片。末句用被动语态 had been excised，空缺因此像是有人动过手，而不是他自己忘了。
 
-**读者视角提示**：他的第一反应不是「我睡了多久」，而是「我怎么什么都想不起来」。读者和他同时发现这块空缺，此刻还没有人替他解释。
+**读者视角提示**：他先问自己是怎么失去意识的、又失去意识了多久，然后才闭眼去翻记忆——翻到的是一片空。读者和他同时撞上这块空缺，此刻还没有人替他解释。
 
 > **原句 3:** "The sound seemed to come from everywhere, but a moment later, the wall to his left turned from green to glass, revealing a man he’d never seen before. Calm, but confident, salt-and-pepper hair swept back, sleeves rolled to his elbows, eyes dark behind a pair of wire-frame glasses."
 

@@ -21,7 +21,7 @@ modified: "2026-11-01"
 
 > **原句 1:** "The positioning had been intentional, at once deferential and undeniably present. The way a puppeteer knows to sit behind the puppet. Gabriel’s words came out from Helena Roy’s lips, in Helena Roy’s voice, as she informed the board that she was stepping aside, and naming Dr. Gray as her successor."
 
-**中文理解**：她身后那个人的姿态是算过的：双手叠在膝上，头微微低下，既显得退让，又让人无法忽略他在场——就像傀儡师懂得坐在木偶背后。董事们听见海伦娜·罗伊用自己的声音宣布退位、并指定格雷医生接任，而那些词句出自加百列。
+**中文理解**：她身后那个人的姿态是算过的：既显得退让，又让人无法忽略他在场——就像傀儡师懂得坐在木偶背后。董事们听见海伦娜·罗伊用自己的声音宣布退位、并指定格雷医生接任，而那些词句出自加百列。
 
 **关键词**：behind the puppet · Helena Roy’s lips
 
