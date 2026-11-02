@@ -7,11 +7,11 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：加百列在耳麦里把诺亚·哈里斯从一段旧任务的记忆里叫回来：那支小队深入敌后，目标在他们动手之前就死于心脏病；他们试图脱身时枪声才撕开夜色，究竟一开始就是陷阱还是后来才变成陷阱，他至今说不清；全队只有他活着回来，而且撤离队抬到他时他已经算死了。此刻车正开向汽车旅馆，加百列下令不管发生什么都让那个女孩活着，其余人尽量少伤亡。随后他说已派增援——从第二辆车上下来的是伊莱·埃弗，诺亚认定伊莱是负债，加百列只说伊莱的技能对计划有用、你们现在都为我做事。诺亚把异议收回去，把装好麻醉镖的枪递给伊莱，两个 EO 一起走向那块旅馆招牌。
+- **一句话概括**：加百列在耳麦里把诺亚·哈里斯从一段旧任务的记忆里叫回来：那支小队一共六个人深入敌后，楼挨得太紧，狙击手都找不到开枪的角度，目标在他们动手之前就死于心脏病；他们试图脱身时枪声才撕开夜色，究竟一开始就是陷阱还是后来才变成陷阱，他至今说不清；全队只有他活着回来，撤离队抬到他时他已经算死了——手术台上躺了六小时，重症监护室里又待了六周，他活了下来。此刻车正开向汽车旅馆，加百列下令不管发生什么都让那个女孩活着，其余人尽量少伤亡。随后他说已派增援——从第二辆车上下来的是伊莱·埃弗，诺亚认定伊莱是负债，加百列只说伊莱的技能对计划有用、你们现在都为我做事。诺亚把异议收回去，把装好麻醉镖的枪递给伊莱，两个 EO 一起走向那块旅馆招牌。
 - **情感弧线位置**：Part 5「Exposure」的部内第三章，章号 III，全书第 54 章；页眉是 “NOW. THEN.” 和 “MEANWHILE …”，没有钟点倒计时。整章从一段插叙开始，再落回当下的车厢；情绪从战场上的失控，转成车里被安排的服从，收在一种压低的不信任上。诺亚的异议大多留在心里，说出口的只有一句反问。
 - **Tropes 兑现/反转**：兑现「死过一次的人被拉回来卖命」：他能拿到的权限、增援和枪里的镖都由加百列定。反转落在「增援」这个词上——来的不是帮手，是被从牢房里放出来、上一次放出去就违抗命令跑掉的猎手。第二处反转是「战场上要信任自己的兄弟」这条信条：诺亚用它否掉伊莱，理由却是伊莱从来不是自己选择加入的。
 - **人物弧线**：诺亚这一章都在被安排：先被从记忆里叫醒，再被指定目标、被告知增援、被要求别杀太多人。他会在心里不同意加百列，而那正是他唯一感到被控制的时刻；他最后说出口的是 “Yes, sir.”。伊莱在本章的动作很少：下车、接过枪、把枪收进枪套、望向旅馆招牌；诺亚注意到他偏头听耳里的声音，还为此生出一股嫉意。加百列从头到尾只是一把从耳麦里传出来的声音。
-- **叙事手法**：全章用一段插叙把读者放进诺亚的战争记忆，再靠一句「眼睛滑开、战区消失」把他送回面包车，没有交代中间隔了多久。指挥官始终不在场：加百列只有声音，读者和诺亚一样只能听见。段落普遍很短，几个词独立成行（“But not fast enough.”、“It told him to hide.”），把节奏一次次掐断。结尾不给交火，只给两个人朝招牌走去的方向。
+- **叙事手法**：全章用一段插叙把读者放进诺亚的战争记忆，再靠一句「眼睛滑开、战区消失」把他送回面包车，没有交代中间隔了多久。指挥官始终不在场：加百列只有声音，读者和诺亚一样只能听见。插叙里出现的数字是硬邦邦的：六个人、六小时、六周，段落普遍很短，几个词独立成行（“But not fast enough.”、“It told him to hide.”），把节奏一次次掐断。结尾不给交火，只给两个人朝招牌走去的方向。
 
 ## 精读
 
@@ -25,15 +25,15 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者和他一样没有答案：目标是先被人杀掉的，还是他们试图脱身时才成了陷阱的一部分。章里没有人替他把这个问题合上，安静这件事从头到尾没有得到解释。
 
-> **原句 2:** "By the time exfil found Noah Harris, he was technically dead. His heart too tired of pumping blood out without it coming back. But some part of him must have wanted to live."
+> **原句 2:** "By the time exfil found Noah Harris, he was technically dead. His heart too tired of pumping blood out without it coming back. But some part of him must have wanted to live. Six hours on a table, his chest open to the world. Six weeks in intensive care. But he survived."
 
-**中文理解**：撤离队找到诺亚·哈里斯的时候，他已经算是个死人了。他的心脏太累：血泵出去，却回不来。可他身上总有哪一部分还想活着。
+**中文理解**：撤离队找到诺亚·哈里斯的时候，他已经算是个死人了。他的心脏太累：血泵出去，却回不来。可他身上总有哪一部分还想活着。手术台上躺了六小时，胸口敞开对着整个世界；重症监护室里又待了六周。但他活了下来。
 
-**关键词**：technically dead · wanted to live
+**关键词**：technically dead · Six weeks in intensive care
 
-**为什么这样写**：“technically dead” 先给一个可核对的状态；第二句把心脏写成会累的东西——不是停跳，是累到不肯再把血收回来；第三句把「想活」推给「他身上总有哪一部分」，不提勇气，也不提意志。三句陈述都不带解释，段落因此读起来像一份记录，而不是一段回忆。
+**为什么这样写**：“technically dead” 先给一个可核对的状态；第二句把心脏写成会累的东西——不是停跳，是累到不肯再把血收回来；第三句把「想活」推给「他身上总有哪一部分」，不提勇气，也不提意志。接着两句用数字结算代价：六小时，六周，胸口敞开；最后一句 But he survived 是整段唯一一句直白的生还宣告。
 
-**读者视角提示**：这一段里没有一句是他说的，也没有一句解释他为什么活下来。读者拿到的只有状态和一个副词：technically。战场与撤离队之间没有过渡，只有这一句时间跳跃。
+**读者视角提示**：这一段里没有一句是他说的，也没有一句解释他为什么活下来。读者拿到的只有状态、一个副词（technically）和两个时间数字——六小时手术台、六周重症监护。他活下来这件事的分量全在这两个数上。战场与撤离队之间没有过渡，只有这一句时间跳跃。
 
 > **原句 3:** "He didn’t trust the other EO, and if Noah had learned anything during his black ops years, it was that you had to trust your brothers in the field. And he couldn’t shake the knowledge that, unlike Noah, Eli had never chosen to be a part of the program."
 
@@ -54,6 +54,26 @@ modified: "2026-11-01"
 **为什么这样写**：三句一层层往里收：先承认分歧存在（很少），再说分歧是他感到控制的唯一时刻，最后把那点感觉定成一句更冷的话——他的意志不是他的。整段没有一个反抗动作，只有「被感到」的过程；控制在这里不是命令，是他心里冒出来的那一下。
 
 **读者视角提示**：这一段把「控制」放进诺亚自己的感受里：他不同意的时候，才摸得到那只手。到此读者对这段关系有了一个比「忠诚」更难受的解释。
+
+> **原句 5:** "Six soldiers, behind enemy lines, buildings so tight the snipers couldn’t get a shot. The target, somewhere at the heart of the complex, and them, unable to simply raze the place because their orders were to pick him off, and make it look like in-fighting instead of execution."
+
+**中文理解**：六个人，深入敌后；楼挨得太紧，狙击手都找不到开枪的角度。目标在建筑群的心脏位置，而他们不能干脆把整片地方平掉——命令是把他挑出来杀掉，再伪装成内讧，而不是处决。
+
+**关键词**：Six soldiers · in-fighting instead of execution
+
+**为什么这样写**：先给两个硬数字和一个空间限制：六个人，楼太密，连狙击手都开不了枪。接着交代为什么不能动手硬来：他们的命令不是攻下建筑，而是制造一场看起来像内讧的处决。in-fighting 和 execution 两个词并排放在同一句里——一个是伪装，一个是事实；命令要的正是那个差别。
+
+**读者视角提示**：读者由此知道这次任务的规模很小、条件很差，而且连动手的方式都被规定死了。后面目标先死、枪声才响，正是从这个被规定死的局面里长出来的。
+
+> **原句 6:** "The soldier’s eyes slid open, and the war zone disappeared, replaced by the inside of a van. Two agents—Kline and Weaver—sat across from him, another one on either side, their visors down, their faces hidden. Not that their faces mattered anymore, now that they’d been converted."
+
+**中文理解**：士兵的眼睛睁开，战区消失，换成了面包车的内部。两名特工——克莱恩和韦弗——坐在他对面，两侧还各有一个，面罩压得低低的，脸都看不见。不过他们的脸现在也不重要了：他们已经被转化过。
+
+**关键词**：Two agents—Kline and Weaver · their faces hidden
+
+**为什么这样写**：这一句是插叙与当下的接缝。前半用战争到车内的替换把读者带出战场；后半给车厢的座位表——对面两个、两侧各一个，共四个人，都是 EO 派来的。最后一句是整段最冷的一层：not that their faces mattered anymore，把「看不见脸」从低调处理改写成「反正不重要了」，因为他们已经被转化。
+
+**读者视角提示**：读者第一次看清自己坐在谁对面：四个已经转化过的特工，名牌只给了两个（Kline 和 Weaver），另两个连名字都没有。这一段之后，加百列的命令才是有实体的——不是声音，是一车人。
 
 ## 本章词汇
 

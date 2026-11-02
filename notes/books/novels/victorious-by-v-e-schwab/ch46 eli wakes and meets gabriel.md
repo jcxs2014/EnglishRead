@@ -7,10 +7,10 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：六个月前，伊莱在一间绿墙房间里醒来，四肢和脑子都沉得像宿醉，记忆却整块不见了。他先想起自己跪在维克多身上、枪响、胸口一凉，随后一个自称格雷医生的男人隔着玻璃说「欢迎回来」。格雷走进牢房，让他伸向枪的手落回身侧，再留下一句「待在你房间里」，把门洞开着走了。
+- **一句话概括**：六个月前，伊莱在一间绿墙房间里醒来，四肢和脑子都沉得像宿醉，记忆却整块不见了。他先想起自己跪在维克多身上、枪响、胸口一凉，随后一个自称格雷医生的男人隔着玻璃说「欢迎回来」。格雷走进牢房，让他伸向枪的手落回身侧；被问到「你是什么」时，他报出两个身份：说自己是个治疗师，也是 EON 的新主管；随后留下一句「待在你房间里」，把门洞开着走了。
 - **情感弧线位置**：属 Part 4「Opposition」的部内第一章，全书第 46 章，题头写着「I」「NOW. THEN.」与「6 MONTHS AGO」。开头是钝的：四肢沉、脑子慢、记不起自己在哪儿。中段被「你死了」顶翻，恐慌与怒气并排上来；末尾他砸墙，骨头碎在自己手里，愈合反复出岔，情绪从怒转成怕。
 - **Tropes 兑现/反转**：兑现「醒来发现自己被关着」这一幕：绿墙、玻璃隔断、一张沙发、一个浴室凹间，牢房装成房间的样子。反转落在「把你救回来的人就是关你的人」：让他活过来的格雷同时是下命令的那一个。第二处反转在他的自愈能力上：这一章里先是愈合之后，碎骨从皮肉里顶出来掉到地上，接着愈合又自己来了一遍。
-- **人物弧线**：伊莱从「多年不必睡觉的人忽然昏睡醒来」走到「身体不听自己使唤」。他先只想弄清自己在哪儿、过去多久；听完斯特尔的死讯与自己的死，怒气上来，扬言要埋掉格雷。结尾他仍不认输，认定每个 EO 都有强弱与极限，同时第一次看见自己的愈合出了毛病。
+- **人物弧线**：伊莱从「多年不必睡觉的人忽然昏睡醒来」走到「身体不听自己使唤」。他先只想弄清自己在哪儿、过去多久；听完斯特尔的死讯与自己的死，怒气上来，扬言要把格雷也埋掉——他埋过的 EO 已经有几十个。结尾他仍不认输，认定每个 EO 都有强弱与极限，同时第一次看见自己的愈合出了毛病。
 - **叙事手法**：全章几乎没有外部世界，只有一间房、一道玻璃和一扇敞开的门洞。对话占去中段大半，格雷话长，伊莱话短，长短差本身就在写谁占上风。多处一句成段：「BANG.」「At EON.」「Gabriel. The messenger.」把节奏敲成一下一下。题头三行把时间钉住，正文里只靠「两年半」这一个数字交代过去了多久。
 
 ## 精读
@@ -43,7 +43,7 @@ modified: "2026-11-01"
 
 **为什么这样写**：先写声音、后写来源，把「先听见、再看见」的次序留着，读者和他一起转头。墙从 green 变 glass，一个颜色的替换就完成了隔断的打开，不必另写机关。后半句用四个短并列写这个人：Calm, but confident、hair swept back、sleeves rolled、eyes dark behind glasses，每个短语各管一处，凑成的是一张不动的像，不是一串动作。
 
-**读者视角提示**：这一段只有外观，没有名字，也没交代他是谁；「从未见过」是伊莱此刻的判断。读者的信息和他一样少。
+**读者视角提示**：这一段只有外观，没有名字，也没交代他是谁；「从未见过」是伊莱此刻的判断。读者的信息和他一样少——直到后半章他自报身份：先是「A man searching for answers」，接着「In short, a therapist」，最后才是那句分量最重的「And EON’s new director」。
 
 > **原句 4:** "Panic churned inside his chest, but anger rushed to meet it. Because maybe there had been something, a higher plane, too great to comprehend on waking. Maybe, but if there was, its memory was lost to him, stripped back by this involuntary resurrection, this unnatural return."
 
@@ -65,7 +65,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一句里没有挣扎的过程，只有三样结果：落回身侧的手、退掉的念头、一片空白。读者得自己去量那一下有多长。
 
-> **原句 6:** "A second wave of pain. He hissed as something sharp tore through his skin, fresh blood welling from his knuckles as tiny shards of broken bone pushed up like jagged teeth, and fell, ringing, to the floor."
+> **原句 6:** "“I’ve buried dozens of EOs, Dr. Gray,” he said, “And I will find a way to bury you.”"
+
+**中文理解**：「我埋过几十个 EO，格雷医生，」他说，「我会找到办法把你也埋了。」
+
+**关键词**：buried dozens of EOs · bury you
+
+**为什么这样写**：他先用复数把旧账一次结清——dozens 是几十个，不是几个；埋 EO 这件事对他来说是做过很多遍的活。后半句换成将来式，find a way 把「做不到」留成技术问题：现在做不到，不等于永远做不到。话是冲着「Dr. Gray」这个称呼说的，敬称挂在句尾，像一张收据。
+
+**读者视角提示**：这是他在本章里唯一一次亮出过去的数目。读者由此知道他不是第一次处理 EO，而是做过很多次；而对方让他害怕的原因也在这里——他要对付的不是一个 EO。
+
+> **原句 7:** "A second wave of pain. He hissed as something sharp tore through his skin, fresh blood welling from his knuckles as tiny shards of broken bone pushed up like jagged teeth, and fell, ringing, to the floor."
 
 **中文理解**：第二波疼来了。有什么尖的东西撕开他的皮，血从指节处涌出，细小的碎骨像参差的牙一样顶上来，然后叮当落地。
 

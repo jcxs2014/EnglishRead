@@ -51,6 +51,16 @@ modified: "2026-11-01"
 **为什么这样写**：第一句先把赌注的账按住，`no time to wonder if it would pay off`。第二句用 `In the time it had taken to deliver the message` 把代价算在说话的长度上：话说完，人已经到。伤口用 `Too shallow` 起头，先报轻，再用 `but` 翻到 `it fucking hurt`，最后两个词把前面那点克制撤掉。
 **读者视角提示**：章末停在伤口上：浅、刮过骨头、疼。旋钮在前面被拧到最高，代价在这里落回身体。
 
+> **原句 7:** "“Eli. You’re alive.” The word went up at the end, caught between a statement and a question. Not just because Sydney had killed him, but because he looked—wrong."
+
+**中文理解**：「伊莱。你活着。」最后一个字往上扬，悬在陈述与疑问之间。不只是因为西德妮杀过他，还因为他看起来——不对。
+
+**关键词**：went up at the end · he looked—wrong
+
+**为什么这样写**：这一句先给台词，再由叙述者拆它的语调：The word went up at the end，caught between a statement and a question——一句话被作者从外部量出它的音高，落在陈述与疑问之间。解释为什么用 Not just because 起头，先给一个读者以为的理由（她杀过他），再用 but 引出真正的理由：不是那个，是他看起来不对。前半是语法上的犹豫，后半是内容上的不安——被打断的破折号把最后那点判断悬在半空。
+
+**读者视角提示**：读者在这里第一次听见西德妮的声音，而它没有落在陈述或疑问的任何一边。作者不写她害怕还是激动，只说这句话的两端都站不住；紧跟着的「他看起来不对」，把这章后面要打的架提前交代了。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
