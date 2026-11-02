@@ -105,7 +105,7 @@ modified: "2026-11-02"
 | refugees | 难民（refugee 的复数） | Mostly, the Unnamed refugees were looking for places to sleep at this point. |
 | courtyard | 庭院、院子 | Peristyle and Dido pointed them to the temple, and the courtyard a block away. |
 | reunited | 重聚的、重逢的（reunite 的过去分词） | Reluctant to barge in on the reunited lovers, Peristyle scratched tentatively on the doors to Murtis’s room. |
-| refuge | 庇护、避难所 | Refuge |
+| restless | 焦躁不宁的、得不到安宁的 | Despite hearing the restless sounds of the refugees all night, she did not record them. |
 
 ## 一句话总结
 
