@@ -21,7 +21,14 @@ modified: "2026-11-02"
 - **为什么这样写**：召唤被拆成手势、口型与声音三层，前两层完成，最后一层卡住；Summoning 带出近似施法的意味，而祈祷与施法方向相反，显示她同时想执行与取消计划。
 - **读者视角提示**：她已经坐在指定位置、化好妆、等候目标，却把「是否出声」当作最后一道道德门槛；越接近行动，选择反而越清晰。
 
-> **原句 2:** "I glanced at Tamsin and our gazes locked. Her eyes seemed all pupils; her lips parted in a near smile. I sensed, could almost see, the power strung between us, taut and shining as a wire."
+> **原句 2:** "He paused, and for a moment I feared he might join her. Then Tamsin pinched my thigh. I cried out, then turned my yelp of pain into a plea as I waved at him furiously. “Dickie, sit with us!”"
+
+- **中文理解**：Dickie 被邻桌女人叫住时，Olivia 怕他就此坐下；Tamsin 立刻掐她大腿，她把痛叫转成恳求，拼命招手喊：「Dickie，和我们坐！」
+- **关键词**：paused / feared / pinched my thigh / yelp of pain / sit with us
+- **为什么这样写**：从疼痛到邀请只有一个转身，Tamsin 用桌下的身体信号代替命令，Olivia 则把真实痛感改造成引诱话术；这不是完美协作，而是由同伴逼过最后门槛的即兴表演。
+- **读者视角提示**：Olivia 上一块还祈祷他看不见，下一刻却高声求他入座；改变她的不是突然勇敢，而是 Tamsin 的一掐。
+
+> **原句 3:** "I glanced at Tamsin and our gazes locked. Her eyes seemed all pupils; her lips parted in a near smile. I sensed, could almost see, the power strung between us, taut and shining as a wire."
 
 - **中文理解**：Dickie 入座后，Olivia 与 Tamsin 目光锁住；Tamsin 的眼睛几乎只剩瞳孔，嘴唇像要笑。Olivia 感到两人之间绷着一股力量，紧而发亮，像一根钢丝。
 - **关键词**：gazes locked / all pupils / near smile / power / taut and shining

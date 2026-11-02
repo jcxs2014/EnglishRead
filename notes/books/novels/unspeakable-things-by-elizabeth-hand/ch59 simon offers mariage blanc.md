@@ -17,7 +17,7 @@ modified: "2026-11-02"
 > **原句 1:** "“I had lunch,” I replied, grateful that there wasn’t enough light for him to see clearly. “Dover sole. Tamsin said it made her feel funny, so she wanted to nap. And it was very warm on the terrace.”"
 
 - **中文理解**：Olivia 说自己吃过午餐——多佛鳎目鱼；Tamsin 觉得鱼让她不舒服，想去睡觉，露台也很热。她庆幸屋里昏暗，Simon 看不清她的脸。
-- **关键词**：not enough light / Dover sole / feel funny / nap / warm
+- **关键词**：enough light / Dover sole / feel funny / nap / warm
 - **为什么这样写**：谎言全由可验证的日常细节组成：食物、天气、午睡；她真正倚靠的是昏暗空间，因为脸色比语言更容易泄密。
 - **读者视角提示**：同一盘鱼在前章是作案工具，在这里被说成让 Tamsin 不适的普通坏食物；「坏鱼」口径已经进入家庭谈话。
 

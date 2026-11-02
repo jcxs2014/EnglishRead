@@ -11,7 +11,7 @@ modified: "2026-11-02"
 - **情感弧线位置**：紧接宴会之夜的失态之后，本章表面是「挽回」——「我」用身体和一句话把 Tamsin 从人群里夺回来；但蜥蜴般空洞的一瞥让这份亲昵头一次带上寒意：她靠得更近，也更陌生。
 - **Tropes 兑现/反转**：兑现「爵士时代堕落派对」：香槟之后是可卡因，放纵到连仆人都困得睁不开眼；兑现「八卦作证词」：Tippy 把 Tansy 与 Rex 的订婚传闻拆成「从未有过」，为这段前史补上社交侧的版本。反转：Tippy 递来「一口」，「我」拒绝——在人人借药助兴的夜里，叙述者反而步步往后退。
 - **人物弧线**：「我」从上一章的狼狈转为重新出手：占住 Tamsin 的注意力、尝她皮肤上的盐、说出「I want to be with you」；Tamsin 在酒神女祭司、撒娇的孩子与蜥蜴般冷漠的三张脸之间切换，怒气一闪即灭；Tippy 则是情报源与命名者——Olympia、Olivia 之外又添一个 Cressida。
-- **叙事手法**：几乎全由对话推进，八卦即叙事——Rex 与 Tansy 的前史不从叙述者眼里看，而从 Tippy 嘴里漏出来；名字持续漂移（Olympia／Olivia／Ollie／Cressida），提醒身份是随时可换的装束；动物意象成串（maenad、wild animal、lizard、rosebuds、kittens），结尾用「amorous ghosts／two more ghosts」把「我们」接进那群看不清脸的影子。
+- **叙事手法**：几乎全由对话推进，八卦即叙事——Rex 与 Tansy 的前史不从叙述者眼里看，而从 Tippy 嘴里漏出来；名字持续漂移（Olympia／Olivia／Ollie／Cressida），提醒身份是随时可换的装束；动物意象成串（maenad、wild animal、lizard、rosebuds、kittens），结尾以「多情的幽灵」与「又两只幽灵」把「我们」接进那群看不清脸的影子。
 
 ## 精读
 
@@ -32,7 +32,7 @@ modified: "2026-11-02"
 > **原句 3:** "Tansy wasn’t ever engaged to Rex. It wouldn’t have crossed Rex’s mind, not for a minute. … She and Rex enjoyed each other’s company for half a year or so."
 
 - **中文理解**：对方把传闻拆穿：Tansy 从来没有跟 Rex 订过婚——这件事压根进不了 Rex 的脑子；两人不过是彼此作伴半年左右的关系。
-- **关键词**：engaged / Rex / dalliance
+- **关键词**：engaged / Rex / half a year
 - **为什么这样写**：先杀传闻（not for a minute 的斩钉截铁），再补关系的实际分量（half a year or so 的轻描淡写）——省略号跳过去的那句判词没有念出来，可否认得越干脆，越说明这一段在那个世界的账本上早已结清；说话人讲别人的旧事，用的全是结算的口气。
 - **读者视角提示**：关于 Tansy 与 Rex 的关系，本章给出的社交版证词全在这几句话里——注意说话人谈订婚像谈市价行情；她在那个世界里如何被折成「past tense」，答案就藏在轻飘飘的语气里。
 

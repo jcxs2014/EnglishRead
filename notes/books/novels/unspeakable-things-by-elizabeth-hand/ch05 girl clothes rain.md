@@ -20,7 +20,14 @@ modified: "2026-11-01"
 - **为什么这样写**：作者不让「我」直接宣布快乐，而是退回一场旧宴会的记忆——用 claret and port and whiskey 三种酒名连排，把喝大人残酒的醉意与眼下的亢奋叠在一起，才落到 dizzied / exultant 两个词上；随后 ragged and bleary-eyed 的狼狈紧跟着补上，写这份兴奋烧了整整一夜的样子。
 - **读者视角提示**：读这段先抓住对比：上楼睡觉的大人们对「我」心里翻涌的事一无所知，而「我」正把见 Tamsin 这桩事独自陶醉成一场私人庆典——barely slept 与 ragged and bleary-eyed 提醒你，这份亢奋没有让「我」休息分毫。
 
-> **原句 2:** "But I saw nothing, not a gull, not a sheep, and certainly not Tamsin, only waves of rain that polished the world so it looked like gray glass. I stayed beneath the ancient quoit, shivering."
+> **原句 2:** "Martin knew me well: I felt crushed by loneliness. Yet now I had met someone who might help me to escape from that. I threw on the same overcoat I’d worn the day before, pulled my black fleece cloche over my hair, and hurried out to meet Tamsin."
+
+- **中文理解**：Martin 的确了解我：孤独一直压得我喘不过气；现在终于遇到一个也许能帮我逃出孤独的人。我披上昨天的大衣、戴好黑色钟形帽，匆匆出门见 Tamsin。
+- **关键词**：Martin knew me well / crushed by loneliness / escape / hurried out
+- **为什么这样写**：前一句先承认 Martin 的洞察，第二句才把逃离孤独的希望押在刚认识的人身上；接下来动作连发（披衣、戴帽、奔出门），把情感转成一次不顾天气的出走。
+- **读者视角提示**：她不是单纯期待下一次约会，而是觉得 Tamsin 可能填补长期孤独；因此后面石棚下的空等不只是失约，还会把旧孤独变得更重。
+
+> **原句 3:** "But I saw nothing, not a gull, not a sheep, and certainly not Tamsin, only waves of rain that polished the world so it looked like gray glass. I stayed beneath the ancient quoit, shivering."
 
 - **中文理解**：雨幕里「我」什么也看不见——没有海鸥，没有羊，更没有 Tamsin——只有一层层雨把世界打磨得像灰色玻璃；「我」仍留在古老石棚下面，浑身发抖。
 - **关键词**：not a gull / not a sheep / gray glass / ancient quoit / shivering
