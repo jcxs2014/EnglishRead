@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch27",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch27_chapter_27.txt",
+ "facts": [
+  {
+   "fact": "警官 Lundy 在父亲介绍下与 Livvie、Tamsin 见面并摘帽致意，说妻子知道 Tamsin 的姨妈，且已与 Livvie 父亲和 Mr. Sayles 谈过",
+   "anchor": "Officer Lundy removed his hat as my father introduced us",
+   "start": 248,
+   "end": 304
+  },
+  {
+   "fact": "Lundy 翻小本子确认帮工女孩叫 Lily Gathercole，住在 Treveglos Farm 附近几户，说回家路上可能顺路去找她",
+   "anchor": "Lily Gathercole, is it",
+   "start": 1516,
+   "end": 1538
+  },
+  {
+   "fact": "Lundy 问 Livvie Kelville 是否显得激动、是否有自杀迹象，Livvie 回答 Kelville 曾说自己写新书困难、需要新的缪斯",
+   "anchor": "decided to take his own life",
+   "start": 2974,
+   "end": 3002
+  },
+  {
+   "fact": "Lundy 对 Tamsin 开口就问她的朋友 Carveth 近况，并转述 Mr. Madden 说 Kelville 对她有兴趣，Tamsin 说是她爱读他的书而非他对她有兴趣",
+   "anchor": "How is your friend Carveth",
+   "start": 3558,
+   "end": 3584
+  },
+  {
+   "fact": "Tamsin 说出事当晚晚餐时众人都在一起，是 Kelville 把 Mr. Madden 的 claret 喝光；Simon 补充他叔叔昨晚向他评论过 Kelville 酒喝得极多",
+   "anchor": "was drinking up all Mr. Madden’s claret",
+   "start": 5102,
+   "end": 5141
+  },
+  {
+   "fact": "Lundy 暗示 Tamsin 不像有些人那么怕雾，眼神从雏鸟变成鹰；Tamsin 断然否认当晚跟 Kelville 去过任何地方",
+   "anchor": "not as scared of fog as some",
+   "start": 5971,
+   "end": 5999
+  },
+  {
+   "fact": "Lundy 说本周大雨使崖边地面塌陷（与四年前 Trevorra 男孩坠崖同况），Kelville 房里没有遗书和苦恼信件，他判定是意外",
+   "anchor": "same as it did when the Trevorra boy fell four years ago",
+   "start": 6492,
+   "end": 6548
+  },
+  {
+   "fact": "Mrs. Fletcher 收下两支 Abdulla 香烟后透露：两年前 Will Lingle 死时 Lundy 曾找 Tamsin 谈话，Will Lingle 是杀了 Tamsin 母亲的人",
+   "anchor": "when Will Lingle died",
+   "start": 9023,
+   "end": 9044
+  }
+ ]
+}

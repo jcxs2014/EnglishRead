@@ -1,0 +1,49 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch01",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "初遇 Tamsin 当天醒来：被一种叫不出名字的饥渴攫住，强烈到有时会无缘无故地哭——没法向父亲或 Martin 解释原因。",
+   "anchor": "I woke overcome by a hunger I couldn’t name",
+   "start": 52,
+   "end": 95
+  },
+  {
+   "fact": "家：与世隔绝的庄园 Kerrith，开战前不久才搬来；冲动发作时她想赤身跑过那片杂草丛生的草坪。",
+   "anchor": "the tangled lawn of our remote estate, Kerrith, where we’d lived since shortly before the war",
+   "start": 260,
+   "end": 353
+  },
+  {
+   "fact": "时间坐标：离开伦敦时她还是个女孩，而那时战争已结束多年——Kerrith 岁月占了她的成长期。",
+   "anchor": "I was a girl when we left London. The war had ended years before.",
+   "start": 357,
+   "end": 422
+  },
+  {
+   "fact": "停战日她在伦敦，与父亲和 Martin 同行，亲眼见过街头狂欢。",
+   "anchor": "I’d been in London on Armistice Day with my father and Martin",
+   "start": 423,
+   "end": 484
+  },
+  {
+   "fact": "停战日图景：人群尖叫得像动物园放出来的动物；她当时太小，看不懂四周的亲吻与爱抚。",
+   "anchor": "people shrieking as though they were animals set free from the zoo. I’d been too young to understand the kissing and groping that surrounded us.",
+   "start": 517,
+   "end": 661
+  },
+  {
+   "fact": "现在时点：她最近刚满十八岁——从停战日的旁观孩童到可参与狂欢的年纪。",
+   "anchor": "I’d recently turned eighteen",
+   "start": 673,
+   "end": 701
+  },
+  {
+   "fact": "渴望兽化：想亲吻随便谁、想咬人见血、想一直跑永不停止——与停战日「放出来的动物」同构，把童年的看不懂翻成成年的想要。",
+   "anchor": "I wanted to be a wild animal too. I wanted to kiss someone, anyone. I wanted to bite someone, to draw blood. To run and never stop.",
+   "start": 703,
+   "end": 834
+  }
+ ]
+}

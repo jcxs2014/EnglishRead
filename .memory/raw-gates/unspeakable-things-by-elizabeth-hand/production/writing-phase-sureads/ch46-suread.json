@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch46",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch46_chapter_46.txt",
+ "facts": [
+  {
+   "fact": "叙述者在早餐室自取香肠、吐司、橙汁、水波蛋和培根，独自吃了半个小时",
+   "anchor": "I helped myself to sausages and toast, fresh orange juice, poached eggs, and bacon.",
+   "start": 95,
+   "end": 178
+  },
+  {
+   "fact": "仆人关注地看着她添第二第三次餐，既不讥笑也不责备",
+   "anchor": "The servants watched attentively as I went back for second and third helpings but didn’t smirk or scold.",
+   "start": 884,
+   "end": 988
+  },
+  {
+   "fact": "邻桌穿灰西装的年轻丈夫只剩一只手，妻子替他点烟——又一名战争伤员",
+   "anchor": "When his wife lit a cigarette for him, I saw he had only one hand.",
+   "start": 1541,
+   "end": 1607
+  },
+  {
+   "fact": "面对独坐金发女人的打量，叙述者低头认输般离开了早餐室",
+   "anchor": "I lowered my head, knowing this small gesture would be read as a capitulation.",
+   "start": 2287,
+   "end": 2365
+  },
+  {
+   "fact": "叙述者在陈列柜抽屉里看到茧、蛹与卵，标本上还留着毒瓶的气味",
+   "anchor": "The faint grassy scent of the killing jar still clung to them.",
+   "start": 4954,
+   "end": 5016
+  },
+  {
+   "fact": "画廊里全是旧大师名作，Miss Irikos 既敬重又鄙夷他们，因为其中没有女性",
+   "anchor": "There were paintings here by great artists—the old masters Miss Irikos had both revered and disdained, because there were no women among them.",
+   "start": 6192,
+   "end": 6334
+  },
+  {
+   "fact": "叙述者凑近看画上签名是 Meredith Kalman，倒吸一口气，觉得这更像梦魇而非梦",
+   "anchor": "Meredith Kalman. I sucked in my breath.",
+   "start": 9028,
+   "end": 9067
+  },
+  {
+   "fact": "画廊扶手椅里的男人起身走向她，正是杂志报刊照片上认得的 Rex de Voil",
+   "anchor": "his face recognizable from magazine and newspaper photographs: Rex de Voil.",
+   "start": 9855,
+   "end": 9930
+  }
+ ]
+}

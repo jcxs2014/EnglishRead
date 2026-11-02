@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch11",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch11_chapter_11.txt",
+ "facts": [
+  {
+   "fact": "表兄 Simon 被牛津停学（rusticated），父母要他离开伦敦、等复学期间住到主角家，他拒绝回爱尔兰。",
+   "anchor": "Apparently he’s been rusticated and his parents want him out of London until they can get him reinstated",
+   "start": 1078,
+   "end": 1182
+  },
+  {
+   "fact": "布莱克福德伯爵想起诉 Simon 诽谤他的儿子 Orson，称书中是高度可辨认的肖像、恶毒的谎言。",
+   "anchor": "He wants to sue Simon for libeling his son Orson",
+   "start": 1556,
+   "end": 1604
+  },
+  {
+   "fact": "诽谤诉讼已在 Orson 本人坚持下撤回。",
+   "anchor": "The suit’s been withdrawn, at Orson’s insistence",
+   "start": 1756,
+   "end": 1804
+  },
+  {
+   "fact": "父亲斥责 Olivia：自从 Irikos 离开后只会闷闷不乐、糟蹋自己，结婚前得找点事做。",
+   "anchor": "You’ve done nothing but mope and waste yourself since Irikos left",
+   "start": 2737,
+   "end": 2802
+  },
+  {
+   "fact": "Olivia 在餐桌上结结巴巴地提出：她在 Carn Kerys 遇见的女孩 Tamsin Griggs 应来家里和她一起受教。",
+   "anchor": "Her name is Tamsin Griggs",
+   "start": 3976,
+   "end": 4001
+  },
+  {
+   "fact": "Mrs. Fletcher 当面翻旧账：Anna Griggs 救过父亲的女儿 Olivia 的命，他当年许诺她日后有需要必帮；父亲也回忆当年妻子在 Madron 农场突然临产，是 Griggs 救了 Olivia 母女两条命。",
+   "anchor": "Anna Griggs saved your daughter!",
+   "start": 5470,
+   "end": 5502
+  },
+  {
+   "fact": "Mrs. Fletcher 说出：Anna Griggs 两年前去世、丈夫更早离世，Tamsin 是与姨妈同住的孤儿。",
+   "anchor": "Anna Griggs died two years back, and her husband before that",
+   "start": 5836,
+   "end": 5896
+  },
+  {
+   "fact": "父亲拍板：明天开车去 St. Ives 给 Simon 打电话；Simon 若不同意，此事作罢。",
+   "anchor": "I’ll drive to St. Ives tomorrow and call him. If he doesn’t agree, that’s the end of it, Livvie.",
+   "start": 7905,
+   "end": 8001
+  }
+ ]
+}

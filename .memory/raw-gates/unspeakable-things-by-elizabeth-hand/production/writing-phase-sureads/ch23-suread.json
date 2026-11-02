@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch23",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch23_chapter_23.txt",
+ "facts": [
+  {
+   "fact": "我和 Tamsin 在壁炉架时钟敲九点前就上床睡了",
+   "anchor": "Tamsin and I went to bed before the mantel clock chimed nine",
+   "start": 32,
+   "end": 92
+  },
+  {
+   "fact": "我半夜冻醒发现 Tamsin 不在，跑去她的房间却扑了个空",
+   "anchor": "I slid from the bed and ran to her room",
+   "start": 724,
+   "end": 763
+  },
+  {
+   "fact": "我拿起壁炉架上的钟看时已将近凌晨两点，只好又缩回被窝等",
+   "anchor": "It was nearly two.",
+   "start": 831,
+   "end": 849
+  },
+  {
+   "fact": "凌晨回到我床边的 Tamsin 外套被露水打湿，脸色惨白，原来一直在哭",
+   "anchor": "Her overcoat was beaded with damp.",
+   "start": 2316,
+   "end": 2350
+  },
+  {
+   "fact": "Tamsin 说她睡不着去书房找书，遇上了 Maurice，他提议一起出去走走",
+   "anchor": "He was in the library—Maurice.",
+   "start": 3361,
+   "end": 3391
+  },
+  {
+   "fact": "在崖边 Kelville 抓住 Tamsin 想强吻、把手往她外套里伸，她推开他后他坠了崖",
+   "anchor": "He grabbed me and tried to kiss me",
+   "start": 5021,
+   "end": 5055
+  },
+  {
+   "fact": "Tamsin 哭着坚称 Kelville 之死是意外，她并非故意",
+   "anchor": "I didn’t mean it. I just wanted him to stop.",
+   "start": 5340,
+   "end": 5384
+  },
+  {
+   "fact": "Ollie 决定隐瞒此事，让 Tamsin 头一件事就洗掉头发上的烟味，当晚分床睡",
+   "anchor": "You should wash your hair first thing",
+   "start": 8337,
+   "end": 8374
+  }
+ ]
+}

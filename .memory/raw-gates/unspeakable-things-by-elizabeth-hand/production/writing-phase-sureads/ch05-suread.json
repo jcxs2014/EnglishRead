@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch05",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "「我」那晚几乎没睡，见了 Tamsin 的次日清晨醒来时浑身乏力、两眼昏花，天正下着苦冷的春雨。",
+   "anchor": "I barely slept that night",
+   "start": 30,
+   "end": 55
+  },
+  {
+   "fact": "「我」用 Mrs. Fletcher 新烤的面包做了两个三明治——一个抹果酱黄油、另一个抹 Martin 爱吃的 Burgess 牌鳀鱼酱——再加几片冷油培根，用方巾包好跑回自己房间。",
+   "anchor": "made two sandwiches, one with marmalade and butter, the other with the Burgess’s anchovy paste that Martin loved",
+   "start": 598,
+   "end": 710
+  },
+  {
+   "fact": "「我」换上女装（厚羊毛套衫、裙子、厚袜、步行鞋），不想被父亲看见拦下，也不想被 Martin 盘问。",
+   "anchor": "I dressed in my girl clothes: a heavy woolen jumper and skirt, thick stockings, my walking shoes",
+   "start": 810,
+   "end": 906
+  },
+  {
+   "fact": "就在几天前「我」偷听到 Martin 与父亲 Peter 争执：Martin 说她太孤独、不再是女孩了、需要同龄朋友，父亲让她去 Mrs. Harrison 家，Martin 说同龄姑娘都已进社交界、她只会跑掉，父亲最后回一句 \"Is she?\"，令当时的「我」羞窘万分。",
+   "anchor": "I’d overheard him saying only days before",
+   "start": 1092,
+   "end": 1133
+  },
+  {
+   "fact": "「我」披上前一天穿过的同一件大衣、扣上黑色羊毛钟形帽，匆忙出门去见 Tamsin。",
+   "anchor": "the same overcoat I’d worn the day before",
+   "start": 1753,
+   "end": 1794
+  },
+  {
+   "fact": "走到 Carn Kerys 时帽子已湿成一团，「我」牙齿打颤地躲进石棚蹲在竖石旁，擦去雨水扫视悬崖，想找到从 Zennor 方向走上来的人影。",
+   "anchor": "the cloche was a sodden lump",
+   "start": 1908,
+   "end": 1936
+  },
+  {
+   "fact": "Tamsin 没来也不会来了；「我」自嘲是个白痴——为一个只谈过一小时话的人冲进风暴赴约——最终强迫自己直起身走上漫长的回家路，望见 Kerrith 灯火时天已黑透。",
+   "anchor": "She hadn’t come. She wouldn’t come.",
+   "start": 2336,
+   "end": 2371
+  },
+  {
+   "fact": "回家后「我」没有生火——来打扫的女孩 Lily 没备好木柴和泥炭，「我」也不忍开口求 Mrs. Fletcher 烧热水——爬进中式四柱床，一直哭到力竭睡去。",
+   "anchor": "the girl who came in to clean, hadn’t set up the wood and peat",
+   "start": 2820,
+   "end": 2882
+  }
+ ]
+}

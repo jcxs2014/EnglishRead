@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch33",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch33_chapter_33.txt",
+ "facts": [
+  {
+   "fact": "Livvie 敲 Tamsin 的房门没人应声，只换来一句“别烦我”。",
+   "anchor": "my tentative knock was met with silence",
+   "start": 76,
+   "end": 115
+  },
+  {
+   "fact": "Livvie 打开 Kelville 的房间，里面陈设一如他来之前，仿佛他从未住过。",
+   "anchor": "Kelville might never have been there",
+   "start": 587,
+   "end": 623
+  },
+  {
+   "fact": "Simon 收拾行李时把消息补全：Llayson 不打算续租，他儿子要带全家搬进来，父亲还指望《Tempest》长久演下去。",
+   "anchor": "Llayson intends not to renew the lease",
+   "start": 1753,
+   "end": 1791
+  },
+  {
+   "fact": "Mrs. Fletcher 压低声音告诉 Livvie：警员 Lundy 为 Kelville 先生的事找 Lily 谈过话，Lily 也很乐意把 Livvie、尤其是 Tamsin 的事讲给他听。",
+   "anchor": "That constable Lundy spoke to Lily",
+   "start": 3622,
+   "end": 3656
+  },
+  {
+   "fact": "被追问时，Livvie 咬定出事那晚 Tamsin 和自己在一起。",
+   "anchor": "she was with me that night",
+   "start": 4685,
+   "end": 4711
+  },
+  {
+   "fact": "Mrs. Fletcher 自言自语说不知道那姑娘出了什么事：Anna Eudy 心最善、脑最灵，可两样缺一样呢？",
+   "anchor": "I don’t know what happened to that girl",
+   "start": 5025,
+   "end": 5064
+  },
+  {
+   "fact": "临别她把话锋对准 Livvie：你占了两样还不够，还多一样美貌——而美貌连奶酪都不如耐放。",
+   "anchor": "Beauty. There’s cheese lasts longer than that",
+   "start": 5361,
+   "end": 5406
+  },
+  {
+   "fact": "Simon 在走廊喊车已备好，Livvie 收好画具行李，与 Tamsin 一同出发。",
+   "anchor": "The car’s ready—let’s go!",
+   "start": 6699,
+   "end": 6724
+  }
+ ]
+}

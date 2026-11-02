@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch19",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch19_chapter_19.txt",
+ "facts": [
+  {
+   "fact": "清晨 Martin 冒雨开车去 Penzance 接叙述者的表哥；Simon 是乘从伦敦出发的夜班火车 Night Riviera 来的。",
+   "anchor": "Martin left to pick up my cousin in Penzance",
+   "start": 52,
+   "end": 96
+  },
+  {
+   "fact": "叙述者穿上 Simon 寄来的黑白条纹连衣裙、把头发编成辫子盘在颈后假装短发，Tamsin 也穿上 ramie 亚麻裙、把头发放上去，两人下楼迎客。",
+   "anchor": "I wore a black-and-white-striped dress Simon had sent me",
+   "start": 1299,
+   "end": 1355
+  },
+  {
+   "fact": "Simon 撇清 Kelville 的同行并非他的主意：Kelville 本该去 Stephen P. 那伙人在 Penzance 附近的 house party，但对方没去车站接他，管家说他们全去了 Helston 的 Sally Tibbs 家。",
+   "anchor": "He was supposed to stay near Penzance with Stephen P.",
+   "start": 6669,
+   "end": 6722
+  },
+  {
+   "fact": "Maurice Kelville 最有名的作品是两本童书《The Prince in the Ashes》和《Weyland’s Burning Path》，主角是被绑架了妹妹的双胞胎兄妹。",
+   "anchor": "two children’s novels, The Prince in the Ashes and Weyland’s Burning Path",
+   "start": 4984,
+   "end": 5057
+  },
+  {
+   "fact": "叙述者小时候读过 Kelville 的书却做噩梦，尤其受不了 Kierstan Lane 蜘蛛般的插画，曾求母亲把书扔掉；Tamsin 却极爱这两本书，童年那两本都翻烂了。",
+   "anchor": "the spidery illustrations by Kierstan Lane",
+   "start": 5736,
+   "end": 5778
+  },
+  {
+   "fact": "Simon 额头上仍留着一道被剑砍的浅疤：童年他随母亲来 Hampstead 做客，两人玩 Peter Pan 与 Hook 的游戏，叙述者用父亲的道具剑敲破他的头，他大哭进屋反而挨了更重的训。",
+   "anchor": "I still have a scar where you struck me with that sword",
+   "start": 11766,
+   "end": 11821
+  },
+  {
+   "fact": "叙述者向 Tamsin 亮出底牌：Kelville 上次来做客时曾试图把手伸进她的 blouse；她还转述 Martin 的情报——Kelville 的妻子换了锁不让他同住，他只能挨家漂泊，是个 leech。",
+   "anchor": "he tried to stick his hand down my blouse",
+   "start": 14210,
+   "end": 14251
+  },
+  {
+   "fact": "午餐时父亲、Martin 和 Kelville 都缺席，Tamsin 大失所望；Simon 警告 Tamsin 当心 Kelville——Lady Keating 家两个 chambermaids 在他上次到访后出事、Orson 的妹妹 Helena 曾把他手指夹在门里夹断——Tamsin 冷冷顶了一句，推开椅子摔门而去。",
+   "anchor": "Lady Keating lost two chambermaids after his last visit",
+   "start": 14799,
+   "end": 14854
+  }
+ ]
+}

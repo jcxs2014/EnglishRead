@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch34",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch34_chapter_34.txt",
+ "facts": [
+  {
+   "fact": "Ledges 离此三十多英里且没有直达路，Simon 估计要开掉大半个上午才能到。",
+   "anchor": "Simon guessed it would take us most of the morning to get there",
+   "start": 111,
+   "end": 174
+  },
+  {
+   "fact": "Simon 在两侧是树篱与新翻田地的乡间窄路上开了近三个小时，途中加过一次油、为一条挡路的母牛停过一次车，还频频停车看地图。",
+   "anchor": "Simon drove for nearly three hours, puttering along narrow winding lanes bordered by hedgerows and recently plowed fields",
+   "start": 364,
+   "end": 485
+  },
+  {
+   "fact": "Tamsin 在颠簸里睡着了，头枕旧羊毛外套，看起来孩子气又茫然——“我”想到她从没离开 Zennor 这么远。",
+   "anchor": "She looked childlike, and lost. She’s never been this far from Zennor, I thought",
+   "start": 1382,
+   "end": 1462
+  },
+  {
+   "fact": "Simon 替“我”把身世故事编派妥当：对外可说父亲是知名演员、亡母是爱尔兰贵族，而 Tamsin 尽可被当成低地国家来的王室访客。",
+   "anchor": "Your father’s a well-known actor and your late mother was an Irish aristocrat. For all they know, Tamsin is visiting royalty from the Low Countries",
+   "start": 2249,
+   "end": 2396
+  },
+  {
+   "fact": "Simon 说 Rex 根本不会在意她们的来历：他平素就与合唱队女郎和贵族小姐们来往，在他眼里大家都一样。",
+   "anchor": "He steps out with chorus girls and the daughters of peers. You’re all the same to him",
+   "start": 2443,
+   "end": 2528
+  },
+  {
+   "fact": "Simon 讲起 Teddie 最近一场舞会：他不知怎么摸进动物园后门（多半买通了守夜人），还有人带了手提留声机去。",
+   "anchor": "he somehow found a back gate into the zoo—probably he bribed the night watchman. Someone brought a portable gramophone",
+   "start": 3291,
+   "end": 3409
+  },
+  {
+   "fact": "大门铁艺上那不是鸟，是一对狮鹫；顶端蜿蜒的字母拼出 DE VOIL。",
+   "anchor": "No, not birds—a pair of griffins. Sinuous letters at the top spelled out DE VOIL",
+   "start": 4852,
+   "end": 4932
+  },
+  {
+   "fact": "下车时一名穿制服的仆人拉开车门致欢迎词，并称呼“我”为 Miss Madden。",
+   "anchor": "Welcome to Ledges, Miss Madden",
+   "start": 7611,
+   "end": 7641
+  }
+ ]
+}
