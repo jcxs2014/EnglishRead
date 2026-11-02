@@ -1,0 +1,91 @@
+{
+ "book": "waiting-on-a-friend-by-natalie-adler",
+ "chapter": "ch17",
+ "text": "notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch17_contained.txt",
+ "facts": [
+  {
+   "fact": "城市的阴谋多是官僚式、不遮掩的：红线政策得名于办公室里用红笔圈住街区的人；整个街区被清场、人被扫走，但都在光天化日下——藏不住一个拆迁铁球。于是只需挑个日子蹲守。",
+   "anchor": "Redlining, for instance, got its name from men in an office drawing lines around neighborhoods with a red pen.",
+   "start": 107,
+   "end": 217
+  },
+  {
+   "fact": "75 美元的正式账单寄到（布鲁克林地址）；Claude 建议借她弟弟的车，从公司尾随到上门服务再到 Silverman 说的仓库；她从店里顺走两副黑色 Wayfarer 玩。",
+   "anchor": "I had gotten a bill for an extremely serious seventy-five dollars from Manhattan Remediation, LLC, from an address in Brooklyn.",
+   "start": 469,
+   "end": 596
+  },
+  {
+   "fact": "敌车是 Gran Fury（警车款，还有漆上没褪的警用条纹——警车拍卖会购得）；Claude 一个流畅 U 形掉头跟上。",
+   "anchor": "She did a smooth U-turn to follow the guys. “Gran Fury. Like a police cruiser.",
+   "start": 2572,
+   "end": 2650
+  },
+  {
+   "fact": "他们的目标点：Grand 街 SoHo 艺术家阁楼（垃圾箱满溢——不是艺术家会扔的东西；前住户非死即被逐）；Tanya 说艺术家认证被收紧，她所在团体曾试图 1 美元买下下东城烂楼建艺术家住房被社区委员会否决——「新的谎言是市政府会改成平价住房」。",
+   "anchor": "The new lie was that the city was going to convert them into affordable housing.",
+   "start": 4153,
+   "end": 4233
+  },
+  {
+   "fact": "等待间隙她说起童年的游戏：如果我无家可归、要逃跑，能躲进哪儿？——就这样找到可潜入的空隙（垃圾箱＋奶箱搭路爬窗，Claude 从靴筒里摸出刀）。",
+   "anchor": "I used to play a game. I’d think to myself, if I were homeless, or if I had to run away and needed to find somewhere to hide, where could I go?",
+   "start": 6657,
+   "end": 6800
+  },
+  {
+   "fact": "冷冻库内部：金属抽屉从地板堆到 12 英尺高，像走进式卡片目录——每个约 4 英寸高 10 宽、无把手；标签是速记：W10 11/8/83、Charles 12/17/83、1A 12/31/83。",
+   "anchor": "From floor to ceiling, metal drawers were stacked at least twelve feet like a walk-in card catalog, each about four inches high by ten wide.",
+   "start": 8978,
+   "end": 9118
+  },
+  {
+   "fact": "Claude 说像 columbarium（骨灰龛墓），还伸手抚过标签纸：「我哥哥就把他男朋友放进过其中一个。」——「你没告诉过你有个 gay 哥哥？」「他没病，如果你是问这个。」",
+   "anchor": "“A mausoleum. You know, with pigeonholes for urns.”",
+   "start": 9411,
+   "end": 9462
+  },
+  {
+   "fact": "抽屉按地址+日期排（多数 downtown、少数 Harlem/UWS；约三分之一无标记；日期越来越密——消息传开了）；她看到自己地址：E7 7/8/84——那天正是 Mark 死后满一个月，纪念日总是悄悄爬上来。",
+   "anchor": "I kept looking until I saw my own address and the date I’d called them: “E7 7/8/84.”",
+   "start": 10219,
+   "end": 10303
+  },
+  {
+   "fact": "库内寂静：起初像「什么都缺席」的可怕气泡，能把任何空间填满、把生命挤出去；随即耳朵发胀——那不是无，而是一种能把人整个吞下的「有」。",
+   "anchor": "like a terrible bubble that could fill any space and squeeze out any life from a room.",
+   "start": 10885,
+   "end": 10971
+  },
+  {
+   "fact": "她掰开抽屉角落把笼子拽出（银变红、骤烫、tzzt 断电）；黑暗中被无数「电台频率间的-many voices」充满，一股八月散场般的庞大在场——François 出笼扑向 Silverman。",
+   "anchor": "like the air when you walk out of a movie theater in August.",
+   "start": 14284,
+   "end": 14344
+  },
+  {
+   "fact": "Claude 对着 François 平稳、缓慢地说出真相（像在引导临终者）：先于你住那间房的老妇人叫 Melina——Thompson 街五楼、摔断髋骨、救护车没来、寡妇、儿子死于越战——她死得孤独但已准备好走；也许她一直在照看你。",
+   "anchor": "“Her name was Melina. She was in the room before you.",
+   "start": 15793,
+   "end": 15846
+  },
+  {
+   "fact": "她的告别两次：先说「我没想赶你走，我只是需要帮助」——他呜咽；再诚实：「我确实想让你走，我想让你别烦我」——Terrible and true；她想要他消失、想给 Mark 留位置、想有人替她搞定。",
+   "anchor": "“I did, I did mean it. I’m sorry, I did want you to go. I wanted you to leave me alone.” The sentence settled around us. Terrible and true.",
+   "start": 16784,
+   "end": 16923
+  },
+  {
+   "fact": "鬼满足于流连后会转身离开；只要不眨眼也许能留住他——但最终她必须眨眼；闭眼前他喊了一声、穿过她的身体：没有安宁或释放，他的伤痛留在她体内，一种磨牙般永不餍足的东西。",
+   "anchor": "If I kept my eye on him, if I didn’t blink, I could keep him maybe, but in the end, I had to blink.",
+   "start": 17587,
+   "end": 17686
+  },
+  {
+   "fact": "事后她才明白：自己想清除的是一种感受而非一个人——感受是除不掉的，自己的或别人的都一样；Silverman 颤抖着说不出谁在掐他；Claude 以护士身份压场（contusion 无痕迹）；「你想赶走的是 feeling」——「你早知道，打电话时你就知道。」",
+   "anchor": "I hadn’t realized that what I wanted gone was a feeling and not a person.",
+   "start": 19372,
+   "end": 19445
+  }
+ ]
+}

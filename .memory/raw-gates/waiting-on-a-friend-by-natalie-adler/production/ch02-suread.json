@@ -1,0 +1,49 @@
+{
+ "book": "waiting-on-a-friend-by-natalie-adler",
+ "chapter": "ch02",
+ "text": "notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch02_mirrors.txt",
+ "facts": [
+  {
+   "fact": "François 住在 Mark 与叙述者对门，是两人在城里第一个共同朋友，比他们稍年长，会做烤鸡土豆给他们吃。",
+   "anchor": "François had lived across the hall from Mark and me.",
+   "start": 125,
+   "end": 177
+  },
+  {
+   "fact": "去年春天病情显形后，校董会以「吓到孩子」为由请 François 辞职；他一直用化妆遮盖 KS 病损。",
+   "anchor": "the school board asked him to resign because, they said, his face was “scaring the children.”",
+   "start": 957,
+   "end": 1050
+  },
+  {
+   "fact": "François 因愤怒摔碎了两面手持镜（章题 Mirrors 出处）；我问他有几面镜子，他挥手表示数不清。",
+   "anchor": "“I’m so angry,” he told me, “I broke two of my hand mirrors.”",
+   "start": 1179,
+   "end": 1240
+  },
+  {
+   "fact": "François 平时把小事都叫 catastrophe，真病重了却只反复说 It’s not possible；我们把他的画作连同一张敌人漫画在门厅污水槽里烧掉。",
+   "anchor": "But when he got really sick, he didn’t call it a catastrophe.",
+   "start": 1905,
+   "end": 1966
+  },
+  {
+   "fact": "Mark 说看着 François 恶化像被从站台边缘拉回来：庆幸之余仍免不了想象身体被碾碎。",
+   "anchor": "He said that watching François get worse felt like getting pulled away from the edge of a platform when a train was screaming toward you.",
+   "start": 2456,
+   "end": 2593
+  },
+  {
+   "fact": "François 在政府宣布 AIDS 由病毒引起、两年内会有疫苗的那天陷入昏迷；Leon 把消息耳语给他，他也没能醒来露出喜色。",
+   "anchor": "He slumped into a coma the day the government announced that AIDS was caused by a virus and they’d have a vaccine in two years.",
+   "start": 6101,
+   "end": 6228
+  },
+  {
+   "fact": "叙述者最怕的是「死后仍能感受被弃之苦」——His anger outlived him，这也解释 ch01 里 François 之鬼的尖叫。",
+   "anchor": "I think what frightened me more than anything was knowing that someone could go on that way, that even after you were dead, you could still feel the hell of being left to die.",
+   "start": 6374,
+   "end": 6549
+  }
+ ]
+}

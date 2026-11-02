@@ -1,0 +1,49 @@
+{
+ "book": "waiting-on-a-friend-by-natalie-adler",
+ "chapter": "ch03",
+ "text": "notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch03_the_norwegian_seamen_s_church.txt",
+ "facts": [
+  {
+   "fact": "葬礼在「我」眼里毫无分量：不知道这是什么教派，与她熟悉的香烟缭绕的天主教堂相反，这座教堂无味、线条干净、毫无戏剧性。",
+   "anchor": "This church was unscented, all clean lines and nothing dramatic to look at.",
+   "start": 230,
+   "end": 305
+  },
+  {
+   "fact": "愿收 AIDS 死者的殡仪馆很少，「我」怀疑这里向 Mark 母亲加价；他大概更愿意进 potter's field，但「我」随即发现自己从没问过他。",
+   "anchor": "I knew that there weren’t a lot of funeral homes that would take someone who’d died of AIDS, and I wondered if this place upcharged her.",
+   "start": 674,
+   "end": 810
+  },
+  {
+   "fact": "Mark 母亲两侧是带着一群群金发孩子的姐姐们（孩子被留在家中，怕死者传染）；Mark 是在姐姐们要他为「让母亲难过的同性恋事」多点同情心时，才不再理她们的。",
+   "anchor": "She was flanked by his older sisters, who each had a brood of blond children who must have been left at home in case the dead man was contagious.",
+   "start": 1018,
+   "end": 1163
+  },
+  {
+   "fact": "Mark 父亲没来葬礼；此人战时是商船炮手，据称曾在地中海救生筏上熬过四天；Mark 一直想问他那四天在想什么。",
+   "anchor": "had, allegedly, survived on a life raft for four days on the Mediterranean before being rescued",
+   "start": 1508,
+   "end": 1603
+  },
+  {
+   "fact": "Mark 评价父亲：硬汉、毫无想象力，认为一切都是必然的。",
+   "anchor": "“Yeah, but he could never think of life happening differently. Like, he couldn’t even imagine there not being a war, even though he knows more than me how bad it was. Everything was inevitable to him.",
+   "start": 2079,
+   "end": 2279
+  },
+  {
+   "fact": "Patrick 在教堂后排自设吊唁受宾线，丝绸衬衫解到最后一颗扣；「我」质问他为何不打电话，他只说来不及，最后是 Darryl 把她送上火车。",
+   "anchor": "Patrick operated his own receiving line in the back of the church",
+   "start": 2920,
+   "end": 2985
+  },
+  {
+   "fact": "回程火车与家门口她半路等 Mark 显形而不得；门口的「轮廓」最终认出是自己的渴望在填补空位。",
+   "anchor": "my own want, filling up the empty space.",
+   "start": 3965,
+   "end": 4005
+  }
+ ]
+}

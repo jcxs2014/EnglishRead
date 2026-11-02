@@ -1,0 +1,55 @@
+{
+ "book": "waiting-on-a-friend-by-natalie-adler",
+ "chapter": "ch01",
+ "text": "notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch01_ghosts.txt",
+ "facts": [
+  {
+   "fact": "Mark 死于并发症，时间是 1984 年 6 月 5 日 11:42 p.m.，地点 Bellevue 医院。",
+   "anchor": "June 5, 1984, 11:42 p.m., Bellevue Hospital.",
+   "start": 1132,
+   "end": 1176
+  },
+  {
+   "fact": "是 Patrick 在 Mark 喘不上气的那晚送他进急诊，且没有通知叙述者；她次日早上才接到电话，此时 Mark 已死十一小时。",
+   "anchor": "But instead, Patrick took Mark to the ER one night when Mark couldn’t breathe.",
+   "start": 3651,
+   "end": 3729
+  },
+  {
+   "fact": "Mark 母亲两天后在留言机留话：葬礼礼拜在布鲁克林的 Norwegian Seamen's Church 举行。",
+   "anchor": "There would be a service at the Norwegian Seamen’s Church in Brooklyn",
+   "start": 4214,
+   "end": 4283
+  },
+  {
+   "fact": "叙述者有十年见鬼经验；鬼多数时候只求被承认、被点头致意。",
+   "anchor": "most of the time they just wanted to be acknowledged, a nod on their way to who knows.",
+   "start": 6331,
+   "end": 6417
+  },
+  {
+   "fact": "死前几周 Mark 夜里都待在 Patrick 那里；他与叙述者同住十年。",
+   "anchor": "for the past few weeks, he had been spending his nights at Patrick’s.",
+   "start": 5195,
+   "end": 5264
+  },
+  {
+   "fact": "叙述者已故的母亲（成瘾者）会泡盐浴并解释盐能吸走负面能量。",
+   "anchor": "Salt, she’d explain, sucks up negativity—you could leave piles of salt in the corners of a bad-vibed room.",
+   "start": 10320,
+   "end": 10426
+  },
+  {
+   "fact": "大学毕业那年夏天在墨西哥，叙述者想教 Mark 看烛焰识鬼；Mark 叫她 Artie，并以兰波式的红 i 自嘲学不会。",
+   "anchor": "Sure, Artie, i’s the color red, whatever you say.",
+   "start": 11666,
+   "end": 11715
+  },
+  {
+   "fact": "葬礼前夜泡澡时窗户突然敞开，出现的是四月惨死的 François：眼球浑浊、牙龈流血、癫痫般发作并尖叫，消失后声音还在。",
+   "anchor": "it was François, who’d had a hard death in April.",
+   "start": 15097,
+   "end": 15146
+  }
+ ]
+}
