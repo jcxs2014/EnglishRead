@@ -108,7 +108,7 @@ modified: "2026-11-02"
 
 - **中文理解**：Mark 听到了这首歌，却没能听到整张专辑——没能听到第一轨那句警告我们「永远是很长的时间」的歌。
 
-- **关键词**：got to hear this song / not the whole album / the first track / forever was a long time
+- **关键词**：gotten to hear this song / not the whole album / the first track / forever was a long time
 
 - **为什么这样写**：具体到专辑第一轨的细节让死亡有了一个可计算的漏失：一首能听，一张不能——「永远是很长的时间」这句歌词从告解变成判决（他没能听到那句警告，而这句警告如今在她耳边成真）。这也是全书最精确的一次「他早死了几个月」的会计。
 
