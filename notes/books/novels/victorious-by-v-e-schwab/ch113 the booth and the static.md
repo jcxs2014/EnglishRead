@@ -31,7 +31,7 @@ modified: "2026-11-01"
 **中文理解**：「妈妈快把我逼疯了。」她用她那唱歌似的调子说；这个声音让琼的眼睛开始发湿，心在肋骨后面缩紧，像是好些年没听见过这个声音似的。可这想法有点傻，不是吗？
 **关键词**：singsong way · heart tightening
 **为什么这样写**：妹妹的第一句是抱怨，`Mam’s driving me mad`，紧跟着落在她身上的评语却是声音本身：`in her singsong way`。反应全写在琼这一侧，一层一层往里：`eyes begin to water`、`her heart tightening behind her ribs`、`as if she hadn’t heard the voice in years`，从眼睛收到肋骨后面，再推到年数。最后一句是反问，`Which was silly, wasn’t it?`，把前面那串反应收在半空里，不解释。
-**读者视角提示**：这一块里妹妹只说了五个词，剩下的都是琼的身体：眼睛、心脏、肋骨。原文只给了「像好些年没听过这声音」这一个比喻，没有一句交代时间过去了多久。
+**读者视角提示**：这一块里妹妹只说了四个词，剩下的都是琼的身体：眼睛、心脏、肋骨。原文只给了「像好些年没听过这声音」这一个比喻，没有一句交代时间过去了多久。
 
 > **原句 4:** "“You’re such a weirdo, June,” she said, and the words sent a little splinter through her mind, because that wasn’t her name. Not then. Not yet. She’d wanted it to be—she liked everything June stood for, the warm weather, the blue skies—but it wasn’t yet, wouldn’t be until after."
 **中文理解**：「你可真是个怪人，琼。」她说，这句话像一根细刺扎进她脑子里，因为那不是她的名字。那时不是。那时还没到。她曾希望它是——她喜欢 June 代表的一切，暖天气、蓝天空——可那时还不是，要等到后来才算。

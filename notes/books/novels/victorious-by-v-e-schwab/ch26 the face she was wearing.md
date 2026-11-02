@@ -21,7 +21,7 @@ modified: "2026-11-01"
 
 > **原句 1:** "The word encompassed everything from ritzy lounges to absolute dives, and this was definitely one of the latter. From the sticky floors to the trinkets plastering the walls to the four separate games playing on mute, the place was crowded, and raucous, and right up June’s alley. The kind of dive where punches were thrown, and glasses were broken, and two old friends could reminisce without being overheard."
 
-**中文理解**：这个词什么都装得下：从讲究的休息室到底层的破酒馆，而这一家明显属于后者。从黏脚的地板、糊满墙的小玩意儿，到四块屏幕同时静音播着的比赛，这地方又挤又吵，正合琼的胃口——那种会挥拳头、会摔杯子、又能让两个老朋友叙旧而不被旁人听见的下等酒吧。
+**中文理解**：这个词什么都装得下：从讲究的休息室到底层的破酒馆，而这一家明显属于后者。从黏脚的地板、糊满墙的小玩意儿，到四台同时开着静音的游戏，这地方又挤又吵，正合琼的胃口——那种会挥拳头、会摔杯子、又能让两个老朋友叙旧而不被旁人听见的下等酒吧。
 
 **关键词**：two old friends · without being overheard
 

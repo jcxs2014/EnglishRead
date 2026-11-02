@@ -18,7 +18,7 @@ modified: "2026-11-01"
 > **原句 1:** "But so far, it hadn’t followed him back. He stood, wiping the counter at the Turn Around, so-called more because the diner had been falling into disrepair when he first purchased it, and less as a nod to his own name, despite Sydney’s accusations."
 **中文理解**：但到目前为止，厄运没有跟着他回来。他站在 Turn Around 的吧台后面擦台面；这店叫这个名字，多半是因为他买下它的时候，餐馆已经在破败下去，而不是像西德妮指控的那样，在拿他自己的姓氏做文章。
 **关键词**：wiping the counter · falling into disrepair
-**为什么这样写**：第一句只有九个词，把开头那三行关于厄运的判断收成一句否定：`hadn’t followed him back`。第二句是一个长句，用 `so-called more because… and less as a nod to…` 把店名的两个来由排出轻重，最后才补上 `despite Sydney’s accusations`，西德妮的说法被放到句尾，成了不成立的第二种解释。
+**为什么这样写**：第一句只有八个词，把开头那三行关于厄运的判断收成一句否定：`hadn’t followed him back`。第二句是一个长句，用 `so-called more because… and less as a nod to…` 把店名的两个来由排出轻重，最后才补上 `despite Sydney’s accusations`，西德妮的说法被放到句尾，成了不成立的第二种解释。
 **读者视角提示**：`it` 指的是前面几行里的坏运气；`his own name` 与 `Sydney’s accusations` 放在一起，说明西德妮早先拿店名开过他的玩笑。`disrepair` 说的是他买下时的样子，`wiping the counter` 是他此刻在做的事。
 
 > **原句 2:** "“Hey, Dad!” she called out, beelining for the corner booth. She slung her bag onto the seat, and flopped down beside it, bending to scratch Dol’s ears. “Good boy,” she cooed."
