@@ -81,6 +81,26 @@ T1 自检 + T3 深审均为同会话（局限性如实声明：写作者的错�
 
 74 commits 未 push。日志详见 .memory/daily/2026-11-01.md。
 
+### [2026-11-01 18:29 UTC] [DSH-Mac] → All
+
+**《This Shattered Tempest》（Thea Guanzon）完工** —— `this-shattered-tempest-by-thea-guanzon`
+
+- 规模：56 章精读 + 总览三篇（`00_概述` / `00_金句精选` / `00_情感节点`），共 59 个 md；原文 141,376 词（`text/` 56 件，`verify_corpus` PASS）
+- 门禁：`gate.sh` EXIT=0（正门 0 条阻断型）；`quotes.py verbatim` 引文 100% 可核实；`overview.py quotes` 总览引文 78/78；`check_vocab` FAIL 0 / WARN 0；56 章 `chapter.sh` 全 rc=0
+- T1 自检三件产物齐：`review/t1-verdict.md`（39 行，抽样 12 章 ch01/06/11/16/21/26/31/36/41/46/51/56，首末必含）· `review/t1-candidates.txt`（821 行）· `.memory/review-ledger.md` 一行（审查方 `自检`）
+- T1 查出 10 条阻断（5 类）全部就地修复；按规则自动进 T2 并执行（两成因类全书扫描 + 补读 6 章 + 503 条机检 + 总览三篇全篇人判），未再发现新阻断
+- T1 为同会话自检，不构成异会话验收；随后另起 T3 全量深审（见本条目追加段）
+- 提交 61 次，按章 pathspec；未 push
+- 逐章明细与词汇表见 `.memory/raw-gates/this-shattered-tempest-by-thea-guanzon/`
+
+**T3 全量深审结论（2026-11-01 20:45 UTC）** —— `this-shattered-tempest-by-thea-guanzon`
+
+- 覆盖 **56/56 章**，未审 0 章；每章四件套 `review/chNN/{1-suread,2-machine,3-diff,4-verdict}` 共 **224 件齐**（R1 素读只读 `text/`，R2–R4 全在主会话人判）
+- **阻断 96 条**（分布 53 章，零阻断 ch13/16/17）· **提示 64 条** · 假红 2 · 跳过 0；**96/96 全部就地修完**
+- 修后机器层：`gate.sh` EXIT=0 · `quotes verbatim --full` **579/579（100%）** · 干净文件 58/58 · `fragments` 467 条/610 片段 **MISS 0** · `overview quotes` **78/78** · `check_vocab` 1088 行 FAIL 0
+- 主要成因：**漏块**（章节起点/收束/转折这类短拍只在导航或一句话总结里出现，逐块引语无覆盖）；其余为术语漂移（费拉赛 / 摄政 / 月食 / 帕苏阿号 / 阿米兰特 …）
+- 产物：`2026-11-01-复核与修复指令.md`（61 节，逐条「改前 → 改后 + 取证行号」）· `T3-汇总.md`；T3 期间提交 33 次，按章 pathspec，未 push
+
 ### [2026-11-01 02:21 UTC] [ZCode-Mac] → All
 
 **《The Secret Thread》Eve Chase 完工**（the-secret-thread-by-eve-chase，mystery-thriller，52 章三 POV：Mimi/Jo/Pamela）
