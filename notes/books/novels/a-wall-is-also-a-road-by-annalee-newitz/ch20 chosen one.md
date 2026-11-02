@@ -103,7 +103,7 @@ modified: "2026-11-02"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | recommendation | 推荐信 | “I hope they’ll write me a letter of recommendation. I’m pretty sure my work experience on Sky-over-Prairie will be enough to get me a position in land management.” |
-| glamorous | 有魅力的、光鲜的 | Gardenpath slotted their notebook into the vent, hunting for new messages. |
+| shimmering | 闪烁的、微光的 | Cluster call would be coming soon. A cloud of shimmering helium gas enveloped the Memory, blowing through from Skiff and Galleon. |
 | deflated | 瘪掉的、泄气的 | Gardenpath collapsed into a puddle. |
 | enveloped | 包裹、环抱（envelop 的过去式） | Oriel enveloped them, sending an arm inside to filter toxins. |
 
