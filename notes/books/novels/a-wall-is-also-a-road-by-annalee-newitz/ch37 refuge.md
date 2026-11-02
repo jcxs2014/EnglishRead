@@ -29,9 +29,9 @@ modified: "2026-11-02"
 - **为什么这样写**：乡愁的三件套（成长、自由、遇见）在同一句里并列——废墟埋掉的不只是城，是她全部的来路。 grabbed both of Peristyle's arms 的动作把话拽住不放：这是 Murtis 式的挽留语法，与她后面的决定互为表里。
 - **读者视角提示**：对照 ch13 的重逢（「我以为你死了」）与本章的城亡——两次灾难，一次失去城市、一次差点失去爱人。记住「自由」这个词的地理属性：她的自由有地址，而地址没了。
 
-> **原句 3:** "“You were also my first love. You are still my first love. But we need to talk about Julia.”"
+> **原句 3:** "You are still my first love. But we need to talk about Julia."
 
-- **中文理解**：「你也是我的初恋。你现在还是我的初恋。但我们得谈谈 Julia。」
+- **中文理解**：「你现在还是我的初恋。但我们得谈谈 Julia。」——前一句她刚说完「你也是我的初恋」，这一句把存量与增量一口气摆上桌。
 - **关键词**：my first love / still / talk about Julia
 - **为什么这样写**：三句话完成一次完美的情感拆弹：过去时（也是初恋）→现在时（现在还是）→转折（但）。still 一词撑住了整段关系的存量，而「但」字之后的一切都是增量——Murtis 的诚实从不打折，包括在她自己都难堪的地方。
 - **读者视角提示**：对照 ch29 的「I love you too」——同一段关系的两次坦白，一次为了爱，一次为了账目。Gardenpath 此刻才真正理解「四年」这个词的重量：它不是长度，是别人的生活。
