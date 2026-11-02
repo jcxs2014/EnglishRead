@@ -44,7 +44,7 @@ modified: "2026-11-01"
 
 **中文理解**：那些话当然是对着妻子说的，不是对着琼，可她还是把这句记下了。妻子已经知道她是什么、能做什么，还坚持让琼穿着她的身体上门，好让那个男人和情妇清楚是谁在杀他们。
 **关键词**：wear her body · killing them
-**为什么这样写**：前半句先给那句话定归属：冲着妻子，不是冲她；「but still」四个词把这层道理按住，情绪留在原地。后半句换成妻子的要求，理由放在最后半句——让人认得出是谁。
+**为什么这样写**：前半句先给那句话定归属：冲着妻子，不是冲她；「but still」两个词把这层道理按住，情绪留在原地。后半句换成妻子的要求，理由放在最后半句——让人认得出是谁。
 **读者视角提示**：这一句交代了这具身体的来历：男人和情妇看到的，会是妻子的脸。读者读到这儿，才知道她为什么穿着别人的身体涂指甲。
 
 > **原句 5:** "She didn’t know why he was back, and didn’t care, was about to swipe left, and clear the text, but when her finger came to rest against the screen, the message opened. It was three words long."

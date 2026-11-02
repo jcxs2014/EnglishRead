@@ -36,7 +36,7 @@ modified: "2026-11-01"
 > **原句 4:** "The kind of personal inflection a program would never implement. For the first time, Mitch wondered if there was a chance he was talking to someone instead of something. A person instead of a program."
 **中文理解**：那是程序不会写出来的一种个人语气。米奇第一次想：自己也许是在跟一个人说话，而不是跟一个东西。一个人，不是一段程序。
 **关键词**：personal inflection · instead of something
-**为什么这样写**：三句一句比一句短，最后一句只有五个词，把中间那句的 someone instead of something 换成 a person instead of a program 再说一遍，重复一次，判断就落定了。
+**为什么这样写**：三句一句比一句短，最后一句只有六个词，把中间那句的 someone instead of something 换成 a person instead of a program 再说一遍，重复一次，判断就落定了。
 **读者视角提示**：证据小到一个句号。读者的注意力跟着米奇从整块屏幕缩到两个词之间。
 
 > **原句 5:** "If an EO was designated as an automatic threat to the system, how could it be permitted to protect it? The answer was, it couldn’t. The EO on the other side must have grasped the loophole at the same time because code spilled down the screen, and then it disappeared, replaced by a single, blinking cursor."
