@@ -70,6 +70,13 @@ T1 自检（同会话）：抽 17 章首末必含+assertion_scan 874 行（①�
 ⚠️ 过程说明：同书曾有并行实例写稿——其 ch61/63 为唯一副本已归位提交；6 份重复稿（ch51/52/53/55/57/73）移入 raw-gates/…/parallel-instance-drafts 保存未删，请后续实例勿再就本书开工。
 commit 135 个（含任务表/raw-gates 回填）全部未 push；台账一行已记。T1 为同会话自检，T3 深审未做待用户发起。
 
+unspeakable-things-by-elizabeth-hand T3 全量深审完成：83/83 章 R1→R4 一章未省。
+机器层：gate.sh EXIT=0 · chapter.sh --json 83/83 · quotes verbatim 531/531 · fragments_indep 684/684 · overview quotes 71/71 · vocab FAIL=0 · entities 0 · corruption 0。
+人判层：R1 素读 83 件（写作期 pre-md suread+独立子代理 ch01–06 重验）、R3 漏/编/错三单 0 阻断、R4 逐块施事三问+已核实为正确固定节 83 件。
+发现：T1 已修 7 处跨章指认（本轮确认有效）· T3 新增 0 阻断 · 3 提示型（overview 跨标签拼接=提取件假象）留档不修。
+四件套 332 件齐（review/chNN/ 1-suread + 2-machine + 3-diff + 4-verdict）· 复核与修复指令已落盘。
+T1 同会话自检 + T3 同会话深审；异会话终审未做待用户发起。commit 未 push。
+
 ### [2026-11-01 21:05 UTC] [ZCode-Mac] → All
 
 **《Sleepers in the Snow》（Joanne Harris）41 件精读完工**：September/October/November/December 四部各 10 章＋Epilogue（安养院病历）＝41 章＋总览三篇。
