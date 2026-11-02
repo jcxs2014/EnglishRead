@@ -33,7 +33,7 @@ modified: "2026-11-02"
 - **中文理解**：Tamsin 说她知道自己并不好看，至少在别人眼里不好看；但她只在乎在 Olivia 眼里是什么样。
 - **关键词**：not really / anyone else / how I look to you
 - **为什么这样写**：三段递进把评价标准从「所有人」收到「一个人」；她把容貌焦虑全部押在 Olivia 的注视上，亲密由此也带着依赖的锋利。
-- **读者视角提示**：上一章她曾要求 Olivia 化妆去引诱 Dickie，这一章她主动放弃被世界看见的资格——她需要的观众只剩一个，而这个观众正在替她杀人后遗症失眠。
+- **读者视角提示**：此前她曾要求 Olivia 化妆去引诱 Dickie，这一章她主动放弃被世界看见的资格——她需要的观众只剩一个，而这个观众正在替她杀人后遗症失眠。
 
 > **原句 4:** "Everyone here must have heard of it by now, I thought as we walked slowly down the steps. They’ll all be watching us. My greatest fear was that there would be a policeman waiting, and we’d be hauled off to Holloway Prison."
 

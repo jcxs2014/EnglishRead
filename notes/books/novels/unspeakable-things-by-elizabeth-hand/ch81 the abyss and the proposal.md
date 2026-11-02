@@ -47,7 +47,7 @@ modified: "2026-11-02"
 - **中文理解**：Tamsin 说：你不必留下。我看见你跟他跳舞了。你想要他——就像你想要我。
 - **关键词**：I saw you dancing / You wanted him / Like you want me
 - **为什么这样写**：指控只有三句，最后一句把嫉妒写成句法：同样的 want 从 Rex 身上原样搬到自己身上——她要的不是解释，是把她放在天平另一端。
-- **读者视角提示**：这句话并不冤枉：上一章结尾 Olivia 自己承认 desire。Tamsin 的可怕在于她从不看错。
+- **读者视角提示**：这句话并不冤枉：本章后段 Olivia 自己承认 desire（I did desire him）。Tamsin 的可怕在于她从不看错。
 
 > **原句 6:** "“Ollie,” she whispered. Her eyes welled. “Ollie, do you really love me?”"
 

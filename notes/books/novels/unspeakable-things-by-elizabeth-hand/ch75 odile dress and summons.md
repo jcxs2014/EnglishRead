@@ -19,7 +19,7 @@ modified: "2026-11-02"
 - **中文理解**：Mrs. Malstow 还穿着昨天那条深红近黑的裙子，白发配着那张光滑的脸和翠鸟翅膀般纯蓝的眼睛，说不出的不相称；怀里一只过大的粉色礼盒、系着绿缎蝴蝶结，把她整个人衬得更像洋娃娃。
 - **关键词**：incongruous / kingfisher / oversize pink box / green satin bow
 - **为什么这样写**：管家的描写先给不相称，再给洋娃娃——她本人就是这栋宅子里一件摆错位置的东西；粉盒与绿缎结把杀机藏进礼物的糖纸里，敲门的不是危险，是包装好的危险。
-- **读者视角提示**：上一章末她欲言又止，这一章她抱着盒子进门；记住这只盒子后面要逐层打开——丝带、棉纸、礼服、卡片，每层都是 Rex 递过来的一步。
+- **读者视角提示**：上一章末 Mrs. Malstow 亲自上门，这一章她抱着盒子进门；记住这只盒子后面要逐层打开——丝带、棉纸、礼服、卡片，每层都是 Rex 递过来的一步。
 
 > **原句 2:** "She entered the room, glanced around. Disapproval emanated from her like a bad smell as she took in the luncheon tray, the unmade bed, my cosmetics strewn across the dressing table. I followed her, still speechless."
 

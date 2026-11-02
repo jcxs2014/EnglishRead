@@ -47,7 +47,7 @@ modified: "2026-11-02"
 - **中文理解**：「你醉了。」这不是责备，他听着是关心：「我们去给你弄点水。再找个地方坐。」
 - **关键词**：You’re drunk / wasn’t a reprimand / concerned / a place to sit
 - **为什么这样写**：Rex 的第一句话不提舞会、不提她为何独自流泪，只接管她的身体状态；concerned 与后文的封口令同出一人，照顾是控制的 softer 版本。
-- **读者视角提示**：上一章在画廊里他说「I'll take care of everything」，这里把承诺兑现成水、座位与牛奶——被照顾得越周到，越该数一数代价。
+- **读者视角提示**：此前在画廊封口时他说过「I'll take care of everything」，这里把承诺兑现成水、座位与牛奶——被照顾得越周到，越该数一数代价。
 
 > **原句 6:** "Or, far worse—had Rex, who’d overheard my conversation with Simon, had her arrested as soon as I left her to meet him? I began to cry. “Where is she?”"
 

@@ -32,7 +32,7 @@ modified: "2026-11-02"
 
 - **中文理解**：她停步、微笑，心里默念家训——装作没事——然后向 Garnett 先生问好。
 - **关键词**：paused to smile（停步微笑）；Act like nothing’s wrong（装作没事）；Hullo（你好）
-- **为什么这样写**：族训在这里从回忆变成实时操作：三个短句一气呵成，默念与出口之间没有任何停顿；上一章她刚对 Tamsin 背出这句话，这一章当众用上，表演的熟练度吓人。
+- **为什么这样写**：族训在这里从回忆变成实时操作：三个短句一气呵成，默念与出口之间没有任何停顿；这一章当众用上，表演的熟练度吓人。
 - **读者视角提示**：人群里有人高喊她的全名、有人亲热问起「你亲爱的母亲怎么样」——母亲已死两年，问的人不知道。她接住每一个问题、收回每一次失言，这场寒暄是她杀人后第一次公开演出。
 
 > **原句 4:** "They were like people fishing for trout in a beck, casting their lines to see what might rise to their lures, then turning away when they saw ripples indicating a bigger fish."
