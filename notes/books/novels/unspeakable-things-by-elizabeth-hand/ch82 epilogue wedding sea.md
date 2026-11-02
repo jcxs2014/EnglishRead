@@ -92,24 +92,24 @@ modified: "2026-11-02"
 |---|---|---|
 | fairy-tale | 童话般的 | The fairy-tale elements of our lives together—the coincidence of our meeting, of the silver penknife, of Tamsin’s mother saving my own mother’s life, and mine—they made me feel that our happiness was preordained. |
 | preordained | 命定的，预先注定的 | The fairy-tale elements of our lives together—the coincidence of our meeting, of the silver penknife, of Tamsin’s mother saving my own mother’s life, and mine—they made me feel that our happiness was preordained. |
-| condolence | 吊唁，慰问（condolence letter 悼函） | I wrote a letter of condolence to my aunt and uncle and cousins, my sorrow genuine. |
-| diminishment | 减损，被抢风头 | He was even slightly irritated by the diminishment of attention on his role until he realized that the Wyndham’s box office was besieged by theatergoers purchasing tickets in hopes that Rex and I would show up at a performance. |
-| theatergoers | 剧院观众（theatergoer 的复数） | He was even slightly irritated by the diminishment of attention on his role until he realized that the Wyndham’s box office was besieged by theatergoers purchasing tickets in hopes that Rex and I would show up at a performance. |
-| nightstand | 床头柜 | Ever since I’d told her about the hairbrushes I’d found in Rex’s nightstand, Bluebeard’s Castle no longer seemed a joke to Tamsin. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| condolence | 吊唁，慰问（condolence letter 悼函） | I wrote a letter of condolence to my aunt and uncle and cousins, my sorrow genuine. |
+| diminishment | 减损，被抢风头 | He was even slightly irritated by the diminishment of attention on his role until he realized that the Wyndham’s box office was besieged by theatergoers purchasing tickets in hopes that Rex and I would show up at a performance. |
+| theatergoers | 剧院观众（theatergoer 的复数） | He was even slightly irritated by the diminishment of attention on his role until he realized that the Wyndham’s box office was besieged by theatergoers purchasing tickets in hopes that Rex and I would show up at a performance. |
 | silenced | 被噤声的，被安抚下去的（silence 的过去分词） | Tamsin raged, of course, but I silenced her when I shared my plan. |
 | penknife | 折刀，随身小刀 | The fairy-tale elements of our lives together—the coincidence of our meeting, of the silver penknife, of Tamsin’s mother saving my own mother’s life, and mine—they made me feel that our happiness was preordained. |
-| creeping | 悄悄爬出来的，鬼鬼祟祟出现的 | Some cousin will come creeping out of the woodwork, and he’ll get it all. |
 | besieged | 被围困的，被围攻的（besiege 的过去分词） | He was even slightly irritated by the diminishment of attention on his role until he realized that the Wyndham’s box office was besieged by theatergoers purchasing tickets in hopes that Rex and I would show up at a performance. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| nightstand | 床头柜 | Ever since I’d told her about the hairbrushes I’d found in Rex’s nightstand, Bluebeard’s Castle no longer seemed a joke to Tamsin. |
+| creeping | 悄悄爬出来的，鬼鬼祟祟出现的 | Some cousin will come creeping out of the woodwork, and he’ll get it all. |
 
 ## 一句话总结
 婚礼按合同举行、按意外销案：Tamsin 换到了野心（Malstow 的职位），Olivia 换到了「再也不回 Kerrith」；海湾边她保证「我们会非常非常幸福」，Tamsin 望着宅子回答——恐怕他们已经在这儿了。
