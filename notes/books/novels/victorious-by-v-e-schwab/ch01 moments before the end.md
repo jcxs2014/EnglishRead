@@ -37,7 +37,7 @@ modified: "2026-11-01"
 
 > **原句 3:** "“Hey, Vic,” said a voice in his ear. “Are you ready?” His mouth tugged into a grim smile. Of all the ways this could have gone. All the paths and permutations. How ironic, thought Victor Vale, that in the end, he’d chosen to be a hero. “I’m ready,” he said, pushing open the door."
 
-**中文理解**：「嘿，维克，」耳中传来一个声音，「你准备好了吗？」他的嘴角被扯出一个冷硬的笑。这件事本来可以走向的种种方式。全部的路径与排列组合。多讽刺，维克多·维尔心想，到最后，他选择的竟是去做一个英雄。「我准备好了，」他说，推开了门。
+**中文理解**：「嘿，维克，」耳中传来一个声音，「你准备好了吗？」他的嘴角被扯出一个冷硬的笑。这件事本来可以走向的种种方式。全部的路径与排列组合。多讽刺，维克多·瓦尔心想，到最后，他选择的竟是去做一个英雄。「我准备好了，」他说，推开了门。
 
 **关键词**：his ear · grim smile · a hero
 
@@ -73,4 +73,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-终局前的几分钟：一扇没上锁的门、一支要数着用的紫药、耳朵里那句「准备好了吗」——维克多·维尔在推门前自嘲，自己到底还是选了去做英雄。
+终局前的几分钟：一扇没上锁的门、一支要数着用的紫药、耳朵里那句「准备好了吗」——维克多·瓦尔在推门前自嘲，自己到底还是选了去做英雄。

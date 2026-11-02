@@ -51,7 +51,7 @@ modified: "2026-11-01"
 
 > **原句 4:** "She’d learned, from Victor, the difference between a lie, and an omission, and a partial truth. The trick was in the wording. So she believed Mitch hadn’t laid eyes on Victor Vale."
 
-**中文理解**：她从维克多那里学会了分辨谎话、省略和半真半假的话，窍门在措辞上。所以她相信米奇没有亲眼见过维克多·维尔。
+**中文理解**：她从维克多那里学会了分辨谎话、省略和半真半假的话，窍门在措辞上。所以她相信米奇没有亲眼见过维克多·瓦尔。
 
 **关键词**：partial truth · in the wording
 

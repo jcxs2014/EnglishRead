@@ -47,7 +47,7 @@ modified: "2026-11-01"
 
 > **原句 4:** "The image of Victor Vale, the most stoic man she knew, collapsing to the floor in pain, clutching at his chest as his heart seized, and stopped. The shock wave he created every time he died again."
 
-**中文理解**：她眼前是维克多·维尔，她认识的人里最沉得住气的那一个，痛得塌到地上，抓住自己的胸口，心一缩，停了。还有他每再死一次就造出的那道冲击波。
+**中文理解**：她眼前是维克多·瓦尔，她认识的人里最沉得住气的那一个，痛得塌到地上，抓住自己的胸口，心一缩，停了。还有他每再死一次就造出的那道冲击波。
 
 **关键词**：his heart seized · shock wave
 

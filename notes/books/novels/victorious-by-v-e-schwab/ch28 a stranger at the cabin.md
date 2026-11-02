@@ -31,7 +31,7 @@ modified: "2026-11-01"
 
 > **原句 2:** "Now that she could see his face, Syd cursed herself. How could she have mistaken this man for Victor? Sure, they were roughly the same height, and had the same hair (though the stranger’s was cropped shorter), but his chin was too square, his shoulders too wide, his body muscular in a way Victor Vale had never been."
 
-**中文理解**：看清那张脸之后，西德妮在心里骂自己：怎么会把这个人认成维克多？身高确实差不多，头发也是同一种颜色，只是剪得更短；可他的下巴太方，肩膀太宽，身上那股肌肉是维克多·维尔从来没有过的。
+**中文理解**：看清那张脸之后，西德妮在心里骂自己：怎么会把这个人认成维克多？身高确实差不多，头发也是同一种颜色，只是剪得更短；可他的下巴太方，肩膀太宽，身上那股肌肉是维克多·瓦尔从来没有过的。
 
 **关键词**：too square · too wide
 

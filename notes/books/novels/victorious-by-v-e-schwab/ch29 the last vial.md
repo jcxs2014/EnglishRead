@@ -41,7 +41,7 @@ modified: "2026-11-01"
 
 > **原句 3:** "“Unbelievable,” he drawled, one corner of his mouth quirking in amusement. “The incomparable Victor Vale, who clawed his way back from death not once, but twice, is thinking of ending things.”"
 
-**中文理解**：「难以置信，」他拖着调子说，嘴角一边挑起来，带着玩味。「那个无与伦比的维克多·维尔，两次从死亡里爬回来的人，居然在想了结自己。」
+**中文理解**：「难以置信，」他拖着调子说，嘴角一边挑起来，带着玩味。「那个无与伦比的维克多·瓦尔，两次从死亡里爬回来的人，居然在想了结自己。」
 
 **关键词**：clawed his way back from death
 

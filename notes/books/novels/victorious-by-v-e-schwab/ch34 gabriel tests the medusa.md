@@ -21,7 +21,7 @@ modified: "2026-11-01"
 
 > **原句 1:** "There were twenty-one EOs presently in EON, up from the nineteen there’d been when he was hired (alas, none of them were Victor Vale). Still, twenty-one subjects. Twenty-one data points."
 
-**中文理解**：EON 现在关着二十一名 EO，比他受聘时多了两名；括号里那句叹气说，这些人里没有一个是维克多·维尔。不过二十一名受试者，就是二十一条数据。
+**中文理解**：EON 现在关着二十一名 EO，比他受聘时多了两名；括号里那句叹气说，这些人里没有一个是维克多·瓦尔。不过二十一名受试者，就是二十一条数据。
 
 **关键词**：twenty-one subjects · up from the nineteen
 
