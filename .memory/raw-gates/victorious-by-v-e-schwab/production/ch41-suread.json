@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch41",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch41_chapter_xi.txt",
+ "facts": [
+  {
+   "fact": "里奥斯在医疗撤离之后住进退伍军人医院，一住六个月，那段时间里时间失去了意义。",
+   "anchor": "IN the VA hospital where Rios spent six months",
+   "start": 39,
+   "end": 85
+  },
+  {
+   "fact": "她原以为醒来会在牢房里，实际光线更柔和，墙是淡而舒服的绿色，那是格雷博士的办公室。",
+   "anchor": "She’d expected to wake up in a cell, but the light was softer",
+   "start": 672,
+   "end": 733
+  },
+  {
+   "fact": "她低头看手腕，发现没有被铐住；想起身时一只手按住她的肩，是诺亚。",
+   "anchor": "surprised to find they weren’t cuffed, but when she tried to stand, a hand came down on her shoulder. Noah.",
+   "start": 1184,
+   "end": 1291
+  },
+  {
+   "fact": "格雷说他把她送进这里用的是同一件事：对海伦娜·罗伊、董事会、四十七名警卫和大多数外勤探员都做了——改变了他们的想法。",
+   "anchor": "the forty-seven guards, and most of the field agents. I changed their minds.",
+   "start": 2883,
+   "end": 2959
+  },
+  {
+   "fact": "格雷说 EON 改造完成后不再是监狱而是项目，墙内每个 EO 都将是出于自愿留下。",
+   "anchor": "will be here of their own volition",
+   "start": 3108,
+   "end": 3142
+  },
+  {
+   "fact": "格雷说，如果她选择离开这个房间，就等于同时离开她的岗位。",
+   "anchor": "If you do choose to leave this room, you will also be leaving your post.",
+   "start": 4113,
+   "end": 4185
+  },
+  {
+   "fact": "她的自由一向建立在忠诚之上——至少是服役；不再是 EON 探员，她就会成为囚犯。",
+   "anchor": "Her freedom had always been predicated on her loyalty.",
+   "start": 4234,
+   "end": 4288
+  },
+  {
+   "fact": "她沉默片刻后转身，回到座位上，没有离开。",
+   "anchor": "After a moment, she turned, and returned to her seat.",
+   "start": 4476,
+   "end": 4529
+  }
+ ]
+}

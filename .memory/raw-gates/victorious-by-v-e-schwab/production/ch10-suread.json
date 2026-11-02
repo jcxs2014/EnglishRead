@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch10",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch10_chapter_ix.txt",
+ "facts": [
+  {
+   "fact": "伊丽丝被叫醒后，加布里埃尔让她去伊恩的房间、把门锁上，自己朝楼梯走。",
+   "anchor": "Lock the door.",
+   "start": 578,
+   "end": 592
+  },
+  {
+   "fact": "保罗破门进了楼下的诊室，门框锁边裂开，加布里埃尔隔着门缝看见他坐在书桌后面。",
+   "anchor": "the frame splintered around the lock",
+   "start": 1170,
+   "end": 1206
+  },
+  {
+   "fact": "保罗当面骂他撒谎，说他让自己以为一切都是脑子里的问题、以为自己是安全的。",
+   "anchor": "You lied.",
+   "start": 2021,
+   "end": 2030
+  },
+  {
+   "fact": "保罗按加布里埃尔的练习在梦里打碎玻璃墙，醒来发现妹妹莎拉躺在地上、浑身是洞、像纸一样被撕碎。",
+   "anchor": "she was made of paper",
+   "start": 4278,
+   "end": 4299
+  },
+  {
+   "fact": "加布里埃尔承认自己当初为了实验与数据，选择让病人不知情，却对保罗说是为了保护他才隐瞒。",
+   "anchor": "prioritize the experiment",
+   "start": 4463,
+   "end": 4488
+  },
+  {
+   "fact": "保罗从抽屉里拿出针管、要给自己注射致命剂量，加布里埃尔扑上去把针管打落，两人倒地时保罗的头撞在桌角。",
+   "anchor": "A lethal dose.",
+   "start": 5103,
+   "end": 5117
+  },
+  {
+   "fact": "地板裂开、整栋房子开始震动，加布里埃尔才意识到是昏迷的保罗正在做梦。",
+   "anchor": "that he was dreaming",
+   "start": 6563,
+   "end": 6583
+  },
+  {
+   "fact": "屋顶塌下、楼梯断裂，房子压住三人，他最后感觉到的是她的手指擦过他的手。",
+   "anchor": "the last thing Gabriel felt was her fingers skimming his",
+   "start": 9313,
+   "end": 9369
+  }
+ ]
+}

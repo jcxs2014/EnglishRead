@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch123",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch123_chapter_xiii.txt",
+ "facts": [
+  {
+   "fact": "格雷医生（治疗师）死在办公室门内",
+   "anchor": "the therapist lying dead inside the door",
+   "start": 109,
+   "end": 149
+  },
+  {
+   "fact": "维克多背靠最里面的绿墙坐在地上",
+   "anchor": "He was sitting on the floor against the far green wall",
+   "start": 192,
+   "end": 246
+  },
+  {
+   "fact": "维克多让西德妮去看伊莱留下的那撮灰",
+   "anchor": "You should see Eli",
+   "start": 871,
+   "end": 889
+  },
+  {
+   "fact": "西德妮说两人的眼睛不再相配",
+   "anchor": "We don’t match anymore",
+   "start": 1288,
+   "end": 1310
+  },
+  {
+   "fact": "西德妮说米奇现在是 EO",
+   "anchor": "And Mitch is an EO now",
+   "start": 1701,
+   "end": 1723
+  },
+  {
+   "fact": "米奇在门口分出另一个自己",
+   "anchor": "one man became two",
+   "start": 1807,
+   "end": 1825
+  },
+  {
+   "fact": "EON 内部空得像坟场",
+   "anchor": "It felt less like a prison than a graveyard",
+   "start": 2123,
+   "end": 2166
+  },
+  {
+   "fact": "西德妮决定自己要永远活下去",
+   "anchor": "she would simply have to live forever",
+   "start": 2495,
+   "end": 2532
+  }
+ ]
+}

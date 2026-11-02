@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch12",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch12_chapter_xi.txt",
+ "facts": [
+  {
+   "fact": "Mitch 每周进城做一次补给，把最后一批杂货装上皮卡。",
+   "anchor": "loaded the last of the groceries into the pickup truck",
+   "start": 78,
+   "end": 132
+  },
+  {
+   "fact": "他落脚的小镇叫 Herald，人口只有 2,310，是他和 Syd 待过的最小的地方。",
+   "anchor": "the town—Herald—had a population of 2,310",
+   "start": 636,
+   "end": 677
+  },
+  {
+   "fact": "挑这个镇子时 Syd 就怀疑过，叙述者补了一句「她怀疑得对」。",
+   "anchor": "She’d been suspicious when he picked it",
+   "start": 747,
+   "end": 786
+  },
+  {
+   "fact": "他靠拖车、帮餐馆卸炉灶、抓走失的狗、捐二十美元给当地橄榄球队买队服这些小恩小惠，换到镇上多数人的点头和微笑。",
+   "anchor": "donated twenty bucks to a local football team",
+   "start": 1328,
+   "end": 1373
+  },
+  {
+   "fact": "女招待胸牌写 Jenny、真名是 Jennine，她留着假名是因为客人给叫 Jenny 的小费更大方。",
+   "anchor": "in a conspiratorial whisper, that her name was actually Jennine",
+   "start": 1779,
+   "end": 1842
+  },
+  {
+   "fact": "他把园艺论坛 The Fertile Plot 当掩护，版面上全是园艺与业余农场的琐事。",
+   "anchor": "devoted to the minutiae of home gardening",
+   "start": 3149,
+   "end": 3190
+  },
+  {
+   "fact": "对方账号 SHARPENEDSPADE1652 发来「天气如何」这条状态确认，像一次声呐探测。",
+   "anchor": "SHARPENEDSPADE1652: HOW’S THE WEATHER?",
+   "start": 3413,
+   "end": 3451
+  },
+  {
+   "fact": "他盯着屏幕等了几分钟，代表对方在线的圆点始终没亮，Victor 显然在忙。",
+   "anchor": "But it stayed dark.",
+   "start": 3682,
+   "end": 3701
+  }
+ ]
+}

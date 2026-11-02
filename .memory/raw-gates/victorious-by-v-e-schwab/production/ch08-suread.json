@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch08",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch08_chapter_vii.txt",
+ "facts": [
+  {
+   "fact": "维克托坐在咖啡馆里蹲守化学家乔治·阿德利，等他下班离开。",
+   "anchor": "waiting for George Ardley to leave work",
+   "start": 98,
+   "end": 137
+  },
+  {
+   "fact": "他口袋里的药剂只剩一支，原本有六支。",
+   "anchor": "He was down to one, from the original six",
+   "start": 946,
+   "end": 987
+  },
+  {
+   "fact": "除了哈弗蒂的化合物，他还偷了别的东西（紧接着一段点明是哈弗蒂的笔记）。",
+   "anchor": "along with Haverty’s compound",
+   "start": 1029,
+   "end": 1058
+  },
+  {
+   "fact": "EON 的临时负责人是前董事会成员海伦娜·罗伊，守规矩，也不喜欢维克托。",
+   "anchor": "Interim director is a woman named Helena Roy",
+   "start": 1933,
+   "end": 1977
+  },
+  {
+   "fact": "一个多星期以前，维克托联系了他以前的狱友米奇，一半为了重建联络方式，一半为了下挑战。",
+   "anchor": "since Victor reached out to his old cellmate",
+   "start": 3062,
+   "end": 3106
+  },
+  {
+   "fact": "因为身边没有 EON 特工出现，维克托判断米奇成功了。",
+   "anchor": "Mitch had succeeded",
+   "start": 3238,
+   "end": 3257
+  },
+  {
+   "fact": "哈弗蒂的笔记本里有 Eli 的照片，还有维克托推测用来制造、改良那种「结束他生命」的化合物的实验记录。",
+   "anchor": "Of Eli.",
+   "start": 6489,
+   "end": 6496
+  },
+  {
+   "fact": "维克托把配方纸放在两人之间的台面上，让阿德利开工。",
+   "anchor": "I suggest you get to work",
+   "start": 7283,
+   "end": 7308
+  }
+ ]
+}

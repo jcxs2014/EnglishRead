@@ -1,0 +1,8 @@
+MITCH finished his slice of pie || 米切尔在 HERALD DINER 吃完那块派，关掉园艺论坛，换成无痕浏览器，并运行程序屏蔽自己的 IP。
+it had ostensibly gone dark || EON 原有一个面向员工的加密入口，近一年前名义上关停，如今只剩空白页与一条错误提示，米切尔没有被吓退。
+The door had been sealed, painted over || 他判断这是唯一能远程接触 EON 服务器的通道，门虽被封死、刷漆盖住，漆下仍留着一处接触点。
+Over the last nine months || 九个月里他试过隐蔽与强攻、恶意软件、镜像与过载，全部落空，每次只换回同样两个词。
+peeled back the layers of the EON mainframe || 逃亡的头两年他极慢地剥开 EON 主机的层级，为了不触发反制而小心地滑到对方防御之后。
+the system suddenly fought back || 某天系统突然反击，把他弹开驱逐，还像病毒一样从服务器跳到他的电脑上翻找；他启动自毁程序烧掉硬盘，逼 Syd 再次搬家。
+every system could be hacked || 他本可以就此收手，却认定对方只是升级了底层技术，而任何系统都能被攻破，于是又买了一台笔记本回去。
+he was sure of it || 他盯着同一句回话看到第一百次，终于确定 EON 里有人想要他的注意，而那个人已经得到了。

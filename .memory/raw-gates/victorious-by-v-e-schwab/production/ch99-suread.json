@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch99",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch99_chapter_xxix.txt",
+ "facts": [
+  {
+   "fact": "米奇坐在后座，用偷来的笔记本电脑试着黑进 EON；维克多不抱希望，因为对方把系统锁死之后米奇一直在试、一直在失败。",
+   "anchor": "Mitch’s hands flew across the keyboard of the stolen laptop",
+   "start": 149,
+   "end": 208
+  },
+  {
+   "fact": "维克多想起公园里那四个 EON 特工：四具身体都带着同一种不对劲，底下的能量签名却一样；他打爆过他们的保险丝，他们又立刻站起来。",
+   "anchor": "their underlying signature had felt the same",
+   "start": 1225,
+   "end": 1269
+  },
+  {
+   "fact": "琼望着窗外，讲起 EON 特工里奥斯——他也是个 EO；讲那通电话、那个圈套、她差点被抓和侥幸脱身。",
+   "anchor": "she told him about an EON agent named Rios",
+   "start": 2179,
+   "end": 2221
+  },
+  {
+   "fact": "警灯亮起、米奇抬头、维克多捏响指节的时候，琼手里多了一把枪；那只是辆救护车，从他们旁边开过去了。",
+   "anchor": "A gun appeared in June’s hand with the easy grace of a magician producing plastic flowers.",
+   "start": 4037,
+   "end": 4127
+  },
+  {
+   "fact": "路上接连有车撞上杆子、护栏和货车，司机都像短暂失神；琼说这下知道塞雷娜往哪去了，维克多摸到口袋里那枚金属圆片。",
+   "anchor": "I guess we know where Serena is going.",
+   "start": 4962,
+   "end": 5000
+  },
+  {
+   "fact": "米奇从「TRY. HARDER.」两个词中间那个句号看出对面像人，不是程序；他改用 QUERY 提问。",
+   "anchor": "It was that single period between the words.",
+   "start": 6638,
+   "end": 6682
+  },
+  {
+   "fact": "系统答出协议是保护 EON 免受一切内外威胁，且没有例外；车拐下主路时，琼回答只剩三十分钟。",
+   "anchor": "PROTOCOL: PROTECT EON FROM ALL INTERNAL AND EXTERNAL THREATS.",
+   "start": 7956,
+   "end": 8017
+  },
+  {
+   "fact": "米奇问出 EO 自动算威胁、对面也是 EO，两个 Y 之后代码退下去，屏幕只剩一个光标，他进去了。",
+   "anchor": "ARE YOU AN EO? Y/N",
+   "start": 8670,
+   "end": 8688
+  }
+ ]
+}

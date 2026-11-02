@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch103",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch103_chapter_xxxiii.txt",
+ "facts": [
+  {
+   "fact": "马尔科姆在控制室里看见塞雷娜朝这边来。",
+   "anchor": "IN the Control room, Malcolm saw Serena coming.",
+   "start": 47,
+   "end": 94
+  },
+  {
+   "fact": "平常情况下他会把整栋楼封锁起来，并把即将到来的袭击通报给格雷医生。",
+   "anchor": "he would have put the building under lockdown",
+   "start": 125,
+   "end": 170
+  },
+  {
+   "fact": "他本会按塞雷娜能力的估计射程布下五十米警戒圈，并称有九成二把握挡住她靠近。",
+   "anchor": "a perimeter of fifty meters",
+   "start": 549,
+   "end": 576
+  },
+  {
+   "fact": "九分钟前，他把主机全部管理权限交了出去，接手的人是米奇·特纳。",
+   "anchor": "nine minutes earlier, he had ceded administrative privileges to the entire mainframe to Mitchell Turner",
+   "start": 824,
+   "end": 927
+  },
+  {
+   "fact": "交出权限的代价是他被锁在自己创建并执行的那套系统之外。",
+   "anchor": "locking himself out of the system he’d created and enforced",
+   "start": 941,
+   "end": 1000
+  },
+  {
+   "fact": "塞雷娜开着偷来的蓝色跑车驶进 EON 的地面。",
+   "anchor": "Serena drove the stolen blue sports car onto EON grounds",
+   "start": 1036,
+   "end": 1092
+  },
+  {
+   "fact": "从正门涌出的第一批特工被从格雷的控制里拽进她手里，随后像暗处的飞蛾一样乱飘。",
+   "anchor": "pulled from Gray’s control and into hers",
+   "start": 1288,
+   "end": 1328
+  },
+  {
+   "fact": "马尔科姆把手平放在键盘上，为「自己什么也做不了」松了口气，只等着被一起拽下去。",
+   "anchor": "relieved that there was nothing he could do",
+   "start": 1517,
+   "end": 1560
+  }
+ ]
+}

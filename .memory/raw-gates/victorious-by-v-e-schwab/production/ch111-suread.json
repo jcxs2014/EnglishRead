@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch111",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch111_chapter_i.txt",
+ "facts": [
+  {
+   "fact": "维克多站在一扇金属门前，门通向 EON。",
+   "anchor": "VICTOR stood before the metal door.",
+   "start": 47,
+   "end": 82
+  },
+  {
+   "fact": "他事先就知道门槛后面等着他的是什么：死亡、那位医生、西德妮。",
+   "anchor": "He knew what lay beyond the threshold. What was waiting for him there.",
+   "start": 114,
+   "end": 184
+  },
+  {
+   "fact": "他把吸入器举到光下，看药筒里的紫色液体，算自己需要多少。",
+   "anchor": "He held it to the light, studying the violet liquid in the cartridge, calculating how much he’d need.",
+   "start": 347,
+   "end": 448
+  },
+  {
+   "fact": "今晚轮到伊莱，楼下浴缸里的冰已经在化。",
+   "anchor": "It was Eli’s turn tonight, the ice already melting in the bath downstairs",
+   "start": 2010,
+   "end": 2083
+  },
+  {
+   "fact": "维克多手腕上还留着住院手环的印子，来由是他自己那次失败的转化尝试。",
+   "anchor": "the ghost of the hospital bracelet still on his wrist, compliments of his own failed attempt at transformation",
+   "start": 1898,
+   "end": 2008
+  },
+  {
+   "fact": "这栋楼只有三层，跳下去不够高。",
+   "anchor": "And they probably would have, but the building was only three stories tall.",
+   "start": 1318,
+   "end": 1393
+  },
+  {
+   "fact": "屋顶上阴天，伊莱抬头看天，皱起眉，维克多撇嘴笑了。",
+   "anchor": "It was fucking overcast.",
+   "start": 2323,
+   "end": 2347
+  },
+  {
+   "fact": "维克多想，这也许是他一生中愿意住进去的那一刻。",
+   "anchor": "Of all the moments in his life, this might be the one he’d choose to live inside.",
+   "start": 3161,
+   "end": 3242
+  }
+ ]
+}

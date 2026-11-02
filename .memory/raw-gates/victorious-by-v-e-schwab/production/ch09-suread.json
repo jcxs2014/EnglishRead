@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch09",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch09_chapter_viii.txt",
+ "facts": [
+  {
+   "fact": "化学家阿德利一边放着流行乐一边配药，说音乐帮他思考。",
+   "anchor": "egregious taste in music",
+   "start": 77,
+   "end": 101
+  },
+  {
+   "fact": "药效开始退去，维克托的能力重新上线：他能感到自己的神经，也能感到阿德利身上的电流。",
+   "anchor": "his powers coming back online",
+   "start": 335,
+   "end": 364
+  },
+  {
+   "fact": "他听见身后有人喊他，回头只看见一缕草莓色卷发消失在玻璃架之间。",
+   "anchor": "a strawberry curl disappearing",
+   "start": 1129,
+   "end": 1159
+  },
+  {
+   "fact": "阿德利只配出三小瓶蓝色液体，说这些原料不是常规订购，他只能用手头的东西做。",
+   "anchor": "three small vials",
+   "start": 1513,
+   "end": 1530
+  },
+  {
+   "fact": "维克托把吸入器推过去让阿德利自己先试，阿德利照做后瘫软下来，说「好了吧？」。",
+   "anchor": "If you made it right",
+   "start": 2052,
+   "end": 2072
+  },
+  {
+   "fact": "维克托没用枪，只动了动手指拧住化学家的神经，痛感就让对方听话。",
+   "anchor": "twitched his fingers",
+   "start": 2404,
+   "end": 2424
+  },
+  {
+   "fact": "阿德利在便利店抄配方，维克托开枪，有人从尸体上取走了那张纸。",
+   "anchor": "retrieve the slip of paper",
+   "start": 5293,
+   "end": 5319
+  },
+  {
+   "fact": "当晚他把那张纸烧掉，判断不能再一路杀化学家，因为尸体容易被同一个职业串起来。",
+   "anchor": "linked by a profession",
+   "start": 5616,
+   "end": 5638
+  }
+ ]
+}

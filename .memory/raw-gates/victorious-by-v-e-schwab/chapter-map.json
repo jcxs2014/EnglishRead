@@ -1,0 +1,884 @@
+[
+{
+"ch": "ch01",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch01_moments_before_the_end.txt",
+"words": 142,
+"part": "Prologue",
+"head": "Moments Before the End"
+},
+{
+"ch": "ch02",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch02_chapter_i.txt",
+"words": 1518,
+"part": "1. The Doctor Is in",
+"head": "Chapter I"
+},
+{
+"ch": "ch03",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch03_chapter_ii.txt",
+"words": 1828,
+"part": "1. The Doctor Is in",
+"head": "Chapter II"
+},
+{
+"ch": "ch04",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch04_chapter_iii.txt",
+"words": 3439,
+"part": "1. The Doctor Is in",
+"head": "Chapter III"
+},
+{
+"ch": "ch05",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch05_chapter_iv.txt",
+"words": 1103,
+"part": "1. The Doctor Is in",
+"head": "Chapter IV"
+},
+{
+"ch": "ch06",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch06_chapter_v.txt",
+"words": 1107,
+"part": "1. The Doctor Is in",
+"head": "Chapter V"
+},
+{
+"ch": "ch07",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch07_chapter_vi.txt",
+"words": 2220,
+"part": "1. The Doctor Is in",
+"head": "Chapter VI"
+},
+{
+"ch": "ch08",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch08_chapter_vii.txt",
+"words": 1272,
+"part": "1. The Doctor Is in",
+"head": "Chapter VII"
+},
+{
+"ch": "ch09",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch09_chapter_viii.txt",
+"words": 996,
+"part": "1. The Doctor Is in",
+"head": "Chapter VIII"
+},
+{
+"ch": "ch10",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch10_chapter_ix.txt",
+"words": 1689,
+"part": "1. The Doctor Is in",
+"head": "Chapter IX"
+},
+{
+"ch": "ch11",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch11_chapter_x.txt",
+"words": 3326,
+"part": "1. The Doctor Is in",
+"head": "Chapter X"
+},
+{
+"ch": "ch12",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch12_chapter_xi.txt",
+"words": 657,
+"part": "1. The Doctor Is in",
+"head": "Chapter XI"
+},
+{
+"ch": "ch13",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch13_chapter_xii.txt",
+"words": 1651,
+"part": "1. The Doctor Is in",
+"head": "Chapter XII"
+},
+{
+"ch": "ch14",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch14_chapter_xiii.txt",
+"words": 601,
+"part": "1. The Doctor Is in",
+"head": "Chapter XIII"
+},
+{
+"ch": "ch15",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch15_chapter_xiv.txt",
+"words": 1999,
+"part": "1. The Doctor Is in",
+"head": "Chapter XIV"
+},
+{
+"ch": "ch16",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch16_chapter_xv.txt",
+"words": 1893,
+"part": "1. The Doctor Is in",
+"head": "Chapter XV"
+},
+{
+"ch": "ch17",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch17_chapter_xvi.txt",
+"words": 1259,
+"part": "1. The Doctor Is in",
+"head": "Chapter XVI"
+},
+{
+"ch": "ch18",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch18_chapter_xvii.txt",
+"words": 1977,
+"part": "1. The Doctor Is in",
+"head": "Chapter XVII"
+},
+{
+"ch": "ch19",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch19_chapter_xviii.txt",
+"words": 1930,
+"part": "1. The Doctor Is in",
+"head": "Chapter XVIII"
+},
+{
+"ch": "ch20",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch20_chapter_i.txt",
+"words": 933,
+"part": "2. Assessment",
+"head": "Chapter I"
+},
+{
+"ch": "ch21",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch21_chapter_ii.txt",
+"words": 386,
+"part": "2. Assessment",
+"head": "Chapter II"
+},
+{
+"ch": "ch22",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch22_chapter_iii.txt",
+"words": 2082,
+"part": "2. Assessment",
+"head": "Chapter III"
+},
+{
+"ch": "ch23",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch23_chapter_iv.txt",
+"words": 2158,
+"part": "2. Assessment",
+"head": "Chapter IV"
+},
+{
+"ch": "ch24",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch24_chapter_v.txt",
+"words": 1833,
+"part": "2. Assessment",
+"head": "Chapter V"
+},
+{
+"ch": "ch25",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch25_chapter_vi.txt",
+"words": 2130,
+"part": "2. Assessment",
+"head": "Chapter VI"
+},
+{
+"ch": "ch26",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch26_chapter_vii.txt",
+"words": 1417,
+"part": "2. Assessment",
+"head": "Chapter VII"
+},
+{
+"ch": "ch27",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch27_chapter_viii.txt",
+"words": 1011,
+"part": "2. Assessment",
+"head": "Chapter VIII"
+},
+{
+"ch": "ch28",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch28_chapter_ix.txt",
+"words": 1681,
+"part": "2. Assessment",
+"head": "Chapter IX"
+},
+{
+"ch": "ch29",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch29_chapter_x.txt",
+"words": 1932,
+"part": "2. Assessment",
+"head": "Chapter X"
+},
+{
+"ch": "ch30",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch30_chapter_xi.txt",
+"words": 1291,
+"part": "2. Assessment",
+"head": "Chapter XI"
+},
+{
+"ch": "ch31",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch31_chapter_i.txt",
+"words": 772,
+"part": "3. Treatment",
+"head": "Chapter I"
+},
+{
+"ch": "ch32",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch32_chapter_ii.txt",
+"words": 853,
+"part": "3. Treatment",
+"head": "Chapter II"
+},
+{
+"ch": "ch33",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch33_chapter_iii.txt",
+"words": 710,
+"part": "3. Treatment",
+"head": "Chapter III"
+},
+{
+"ch": "ch34",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch34_chapter_iv.txt",
+"words": 1449,
+"part": "3. Treatment",
+"head": "Chapter IV"
+},
+{
+"ch": "ch35",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch35_chapter_v.txt",
+"words": 851,
+"part": "3. Treatment",
+"head": "Chapter V"
+},
+{
+"ch": "ch36",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch36_chapter_vi.txt",
+"words": 309,
+"part": "3. Treatment",
+"head": "Chapter VI"
+},
+{
+"ch": "ch37",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch37_chapter_vii.txt",
+"words": 1295,
+"part": "3. Treatment",
+"head": "Chapter VII"
+},
+{
+"ch": "ch38",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch38_chapter_viii.txt",
+"words": 1313,
+"part": "3. Treatment",
+"head": "Chapter VIII"
+},
+{
+"ch": "ch39",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch39_chapter_ix.txt",
+"words": 897,
+"part": "3. Treatment",
+"head": "Chapter IX"
+},
+{
+"ch": "ch40",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch40_chapter_x.txt",
+"words": 1058,
+"part": "3. Treatment",
+"head": "Chapter X"
+},
+{
+"ch": "ch41",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch41_chapter_xi.txt",
+"words": 810,
+"part": "3. Treatment",
+"head": "Chapter XI"
+},
+{
+"ch": "ch42",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch42_chapter_xii.txt",
+"words": 1489,
+"part": "3. Treatment",
+"head": "Chapter XII"
+},
+{
+"ch": "ch43",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch43_chapter_xiii.txt",
+"words": 862,
+"part": "3. Treatment",
+"head": "Chapter XIII"
+},
+{
+"ch": "ch44",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch44_chapter_xiv.txt",
+"words": 1725,
+"part": "3. Treatment",
+"head": "Chapter XIV"
+},
+{
+"ch": "ch45",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch45_chapter_xv.txt",
+"words": 1655,
+"part": "3. Treatment",
+"head": "Chapter XV"
+},
+{
+"ch": "ch46",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch46_chapter_i.txt",
+"words": 2142,
+"part": "4. Opposition",
+"head": "Chapter I"
+},
+{
+"ch": "ch47",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch47_chapter_ii.txt",
+"words": 1032,
+"part": "4. Opposition",
+"head": "Chapter II"
+},
+{
+"ch": "ch48",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch48_chapter_iii.txt",
+"words": 1191,
+"part": "4. Opposition",
+"head": "Chapter III"
+},
+{
+"ch": "ch49",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch49_chapter_iv.txt",
+"words": 699,
+"part": "4. Opposition",
+"head": "Chapter IV"
+},
+{
+"ch": "ch50",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch50_chapter_v.txt",
+"words": 1377,
+"part": "4. Opposition",
+"head": "Chapter V"
+},
+{
+"ch": "ch51",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch51_chapter_vi.txt",
+"words": 1163,
+"part": "4. Opposition",
+"head": "Chapter VI"
+},
+{
+"ch": "ch52",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch52_chapter_i.txt",
+"words": 1532,
+"part": "5. Exposure",
+"head": "Chapter I"
+},
+{
+"ch": "ch53",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch53_chapter_ii.txt",
+"words": 1019,
+"part": "5. Exposure",
+"head": "Chapter II"
+},
+{
+"ch": "ch54",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch54_chapter_iii.txt",
+"words": 1364,
+"part": "5. Exposure",
+"head": "Chapter III"
+},
+{
+"ch": "ch55",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch55_chapter_iv.txt",
+"words": 724,
+"part": "5. Exposure",
+"head": "Chapter IV"
+},
+{
+"ch": "ch56",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch56_chapter_v.txt",
+"words": 841,
+"part": "5. Exposure",
+"head": "Chapter V"
+},
+{
+"ch": "ch57",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch57_chapter_vi.txt",
+"words": 455,
+"part": "5. Exposure",
+"head": "Chapter VI"
+},
+{
+"ch": "ch58",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch58_chapter_vii.txt",
+"words": 1069,
+"part": "5. Exposure",
+"head": "Chapter VII"
+},
+{
+"ch": "ch59",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch59_chapter_viii.txt",
+"words": 967,
+"part": "5. Exposure",
+"head": "Chapter VIII"
+},
+{
+"ch": "ch60",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch60_chapter_ix.txt",
+"words": 2024,
+"part": "5. Exposure",
+"head": "Chapter IX"
+},
+{
+"ch": "ch61",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch61_chapter_x.txt",
+"words": 525,
+"part": "5. Exposure",
+"head": "Chapter X"
+},
+{
+"ch": "ch62",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch62_chapter_xi.txt",
+"words": 983,
+"part": "5. Exposure",
+"head": "Chapter XI"
+},
+{
+"ch": "ch63",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch63_chapter_xii.txt",
+"words": 712,
+"part": "5. Exposure",
+"head": "Chapter XII"
+},
+{
+"ch": "ch64",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch64_chapter_xiii.txt",
+"words": 1350,
+"part": "5. Exposure",
+"head": "Chapter XIII"
+},
+{
+"ch": "ch65",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch65_chapter_xiv.txt",
+"words": 1765,
+"part": "5. Exposure",
+"head": "Chapter XIV"
+},
+{
+"ch": "ch66",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch66_chapter_xv.txt",
+"words": 850,
+"part": "5. Exposure",
+"head": "Chapter XV"
+},
+{
+"ch": "ch67",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch67_chapter_xvi.txt",
+"words": 350,
+"part": "5. Exposure",
+"head": "Chapter XVI"
+},
+{
+"ch": "ch68",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch68_chapter_xvii.txt",
+"words": 748,
+"part": "5. Exposure",
+"head": "Chapter XVII"
+},
+{
+"ch": "ch69",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch69_chapter_xviii.txt",
+"words": 633,
+"part": "5. Exposure",
+"head": "Chapter XVIII"
+},
+{
+"ch": "ch70",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch70_chapter_xix.txt",
+"words": 508,
+"part": "5. Exposure",
+"head": "Chapter XIX"
+},
+{
+"ch": "ch71",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch71_chapter_i.txt",
+"words": 668,
+"part": "6. Breakthrough",
+"head": "Chapter I"
+},
+{
+"ch": "ch72",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch72_chapter_ii.txt",
+"words": 1565,
+"part": "6. Breakthrough",
+"head": "Chapter II"
+},
+{
+"ch": "ch73",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch73_chapter_iii.txt",
+"words": 1023,
+"part": "6. Breakthrough",
+"head": "Chapter III"
+},
+{
+"ch": "ch74",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch74_chapter_iv.txt",
+"words": 897,
+"part": "6. Breakthrough",
+"head": "Chapter IV"
+},
+{
+"ch": "ch75",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch75_chapter_v.txt",
+"words": 1201,
+"part": "6. Breakthrough",
+"head": "Chapter V"
+},
+{
+"ch": "ch76",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch76_chapter_vi.txt",
+"words": 765,
+"part": "6. Breakthrough",
+"head": "Chapter VI"
+},
+{
+"ch": "ch77",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch77_chapter_vii.txt",
+"words": 737,
+"part": "6. Breakthrough",
+"head": "Chapter VII"
+},
+{
+"ch": "ch78",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch78_chapter_viii.txt",
+"words": 1213,
+"part": "6. Breakthrough",
+"head": "Chapter VIII"
+},
+{
+"ch": "ch79",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch79_chapter_ix.txt",
+"words": 327,
+"part": "6. Breakthrough",
+"head": "Chapter IX"
+},
+{
+"ch": "ch80",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch80_chapter_x.txt",
+"words": 1114,
+"part": "6. Breakthrough",
+"head": "Chapter X"
+},
+{
+"ch": "ch81",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch81_chapter_xi.txt",
+"words": 843,
+"part": "6. Breakthrough",
+"head": "Chapter XI"
+},
+{
+"ch": "ch82",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch82_chapter_xii.txt",
+"words": 527,
+"part": "6. Breakthrough",
+"head": "Chapter XII"
+},
+{
+"ch": "ch83",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch83_chapter_xiii.txt",
+"words": 327,
+"part": "6. Breakthrough",
+"head": "Chapter XIII"
+},
+{
+"ch": "ch84",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch84_chapter_xiv.txt",
+"words": 1166,
+"part": "6. Breakthrough",
+"head": "Chapter XIV"
+},
+{
+"ch": "ch85",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch85_chapter_xv.txt",
+"words": 462,
+"part": "6. Breakthrough",
+"head": "Chapter XV"
+},
+{
+"ch": "ch86",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch86_chapter_xvi.txt",
+"words": 1449,
+"part": "6. Breakthrough",
+"head": "Chapter XVI"
+},
+{
+"ch": "ch87",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch87_chapter_xvii.txt",
+"words": 933,
+"part": "6. Breakthrough",
+"head": "Chapter XVII"
+},
+{
+"ch": "ch88",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch88_chapter_xviii.txt",
+"words": 1402,
+"part": "6. Breakthrough",
+"head": "Chapter XVIII"
+},
+{
+"ch": "ch89",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch89_chapter_xix.txt",
+"words": 1281,
+"part": "6. Breakthrough",
+"head": "Chapter XIX"
+},
+{
+"ch": "ch90",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch90_chapter_xx.txt",
+"words": 953,
+"part": "6. Breakthrough",
+"head": "Chapter XX"
+},
+{
+"ch": "ch91",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch91_chapter_xxi.txt",
+"words": 1148,
+"part": "6. Breakthrough",
+"head": "Chapter XXI"
+},
+{
+"ch": "ch92",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch92_chapter_xxii.txt",
+"words": 1257,
+"part": "6. Breakthrough",
+"head": "Chapter XXII"
+},
+{
+"ch": "ch93",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch93_chapter_xxiii.txt",
+"words": 1133,
+"part": "6. Breakthrough",
+"head": "Chapter XXIII"
+},
+{
+"ch": "ch94",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch94_chapter_xxiv.txt",
+"words": 335,
+"part": "6. Breakthrough",
+"head": "Chapter XXIV"
+},
+{
+"ch": "ch95",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch95_chapter_xxv.txt",
+"words": 959,
+"part": "6. Breakthrough",
+"head": "Chapter XXV"
+},
+{
+"ch": "ch96",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch96_chapter_xxvi.txt",
+"words": 437,
+"part": "6. Breakthrough",
+"head": "Chapter XXVI"
+},
+{
+"ch": "ch97",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch97_chapter_xxvii.txt",
+"words": 713,
+"part": "6. Breakthrough",
+"head": "Chapter XXVII"
+},
+{
+"ch": "ch98",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch98_chapter_xxviii.txt",
+"words": 986,
+"part": "6. Breakthrough",
+"head": "Chapter XXVIII"
+},
+{
+"ch": "ch99",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch99_chapter_xxix.txt",
+"words": 1573,
+"part": "6. Breakthrough",
+"head": "Chapter XXIX"
+},
+{
+"ch": "ch100",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch100_chapter_xxx.txt",
+"words": 1218,
+"part": "6. Breakthrough",
+"head": "Chapter XXX"
+},
+{
+"ch": "ch101",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch101_chapter_xxxi.txt",
+"words": 415,
+"part": "6. Breakthrough",
+"head": "Chapter XXXI"
+},
+{
+"ch": "ch102",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch102_chapter_xxxii.txt",
+"words": 2611,
+"part": "6. Breakthrough",
+"head": "Chapter XXXII"
+},
+{
+"ch": "ch103",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch103_chapter_xxxiii.txt",
+"words": 269,
+"part": "6. Breakthrough",
+"head": "Chapter XXXIII"
+},
+{
+"ch": "ch104",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch104_chapter_xxxiv.txt",
+"words": 1451,
+"part": "6. Breakthrough",
+"head": "Chapter XXXIV"
+},
+{
+"ch": "ch105",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch105_chapter_xxxv.txt",
+"words": 392,
+"part": "6. Breakthrough",
+"head": "Chapter XXXV"
+},
+{
+"ch": "ch106",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch106_chapter_xxxvi.txt",
+"words": 300,
+"part": "6. Breakthrough",
+"head": "Chapter XXXVI"
+},
+{
+"ch": "ch107",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch107_chapter_xxxvii.txt",
+"words": 332,
+"part": "6. Breakthrough",
+"head": "Chapter XXXVII"
+},
+{
+"ch": "ch108",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch108_chapter_xxxviii.txt",
+"words": 749,
+"part": "6. Breakthrough",
+"head": "Chapter XXXVIII"
+},
+{
+"ch": "ch109",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch109_chapter_xxxix.txt",
+"words": 902,
+"part": "6. Breakthrough",
+"head": "Chapter XXXIX"
+},
+{
+"ch": "ch110",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch110_chapter_xl.txt",
+"words": 613,
+"part": "6. Breakthrough",
+"head": "Chapter XL"
+},
+{
+"ch": "ch111",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch111_chapter_i.txt",
+"words": 602,
+"part": "7. Termination",
+"head": "Chapter I"
+},
+{
+"ch": "ch112",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch112_chapter_ii.txt",
+"words": 605,
+"part": "7. Termination",
+"head": "Chapter II"
+},
+{
+"ch": "ch113",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch113_chapter_iii.txt",
+"words": 597,
+"part": "7. Termination",
+"head": "Chapter III"
+},
+{
+"ch": "ch114",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch114_chapter_iv.txt",
+"words": 1005,
+"part": "7. Termination",
+"head": "Chapter IV"
+},
+{
+"ch": "ch115",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch115_chapter_v.txt",
+"words": 472,
+"part": "7. Termination",
+"head": "Chapter V"
+},
+{
+"ch": "ch116",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch116_chapter_vi.txt",
+"words": 1238,
+"part": "7. Termination",
+"head": "Chapter VI"
+},
+{
+"ch": "ch117",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch117_chapter_vii.txt",
+"words": 411,
+"part": "7. Termination",
+"head": "Chapter VII"
+},
+{
+"ch": "ch118",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch118_chapter_viii.txt",
+"words": 807,
+"part": "7. Termination",
+"head": "Chapter VIII"
+},
+{
+"ch": "ch119",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch119_chapter_ix.txt",
+"words": 603,
+"part": "7. Termination",
+"head": "Chapter IX"
+},
+{
+"ch": "ch120",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch120_chapter_x.txt",
+"words": 126,
+"part": "7. Termination",
+"head": "Chapter X"
+},
+{
+"ch": "ch121",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch121_chapter_xi.txt",
+"words": 844,
+"part": "7. Termination",
+"head": "Chapter XI"
+},
+{
+"ch": "ch122",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch122_chapter_xii.txt",
+"words": 964,
+"part": "7. Termination",
+"head": "Chapter XII"
+},
+{
+"ch": "ch123",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch123_chapter_xiii.txt",
+"words": 457,
+"part": "7. Termination",
+"head": "Chapter XIII"
+},
+{
+"ch": "ch124",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch124_chapter_xiv.txt",
+"words": 407,
+"part": "7. Termination",
+"head": "Chapter XIV"
+},
+{
+"ch": "ch125",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch125_chapter_xv.txt",
+"words": 339,
+"part": "7. Termination",
+"head": "Chapter XV"
+},
+{
+"ch": "ch126",
+"file": "notes/books/novels/victorious-by-v-e-schwab/text/ch126_chapter_xvi.txt",
+"words": 1238,
+"part": "7. Termination",
+"head": "Chapter XVI"
+}
+]

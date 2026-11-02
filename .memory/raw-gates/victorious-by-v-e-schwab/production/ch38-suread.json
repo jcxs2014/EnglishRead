@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch38",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch38_chapter_viii.txt",
+ "facts": [
+  {
+   "fact": "押送车颠了一下，里奥斯的头盔后部撞上装甲车壁。",
+   "anchor": "the back of Rios’s helmet knocked against the armored wall",
+   "start": 96,
+   "end": 154
+  },
+  {
+   "fact": "里奥斯的队伍抓到两个目标，自己人一个没折损。",
+   "anchor": "Her team had captured two targets without losing any of their own.",
+   "start": 286,
+   "end": 352
+  },
+  {
+   "fact": "档案写明夏洛特·蒂尔斯十九岁，能在反光表面里看见未来。",
+   "anchor": "she could see the future in reflective surfaces",
+   "start": 1113,
+   "end": 1160
+  },
+  {
+   "fact": "被铐住的夏洛特对里奥斯说「我知道你是什么」。",
+   "anchor": "I know what you are.",
+   "start": 1529,
+   "end": 1549
+  },
+  {
+   "fact": "夏洛特说前排两名探员的镜像回来是黑的，没有未来。",
+   "anchor": "Their mirrors come back black.",
+   "start": 1896,
+   "end": 1926
+  },
+  {
+   "fact": "里奥斯在控制室屏幕上看出三个 EO 不见了。",
+   "anchor": "Three of the EOs were missing.",
+   "start": 5508,
+   "end": 5538
+  },
+  {
+   "fact": "特尼森说哈里斯在格雷博士那里。",
+   "anchor": "He’s in with Dr. Gray.",
+   "start": 5075,
+   "end": 5097
+  },
+  {
+   "fact": "守卫答「Sub one」，而那一层只有太平间。",
+   "anchor": "The only thing located on that floor was the morgue.",
+   "start": 6462,
+   "end": 6514
+  }
+ ]
+}

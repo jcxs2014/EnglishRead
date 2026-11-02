@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch11",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch11_chapter_x.txt",
+ "facts": [
+  {
+   "fact": "加百列被插管、在药物昏迷里躺了十九天，醒来后由老同事沃尔什告知",
+   "anchor": "medicated coma for the last",
+   "start": 911,
+   "end": 938
+  },
+  {
+   "fact": "那根钢筋挡住塌下来的墙，他才没被压死，但失血过多，被救出时已经没了脉搏",
+   "anchor": "that steel bar kept you from being crushed",
+   "start": 1551,
+   "end": 1593
+  },
+  {
+   "fact": "沃尔什告诉他艾瑞斯和伊恩都没能活下来",
+   "anchor": "They didn’t make it.",
+   "start": 2210,
+   "end": 2230
+  },
+  {
+   "fact": "他绷紧身体等那条灾难性的消息砸下来，世界却连抖都没有抖一下",
+   "anchor": "the world did not even tremble",
+   "start": 2598,
+   "end": 2628
+  },
+  {
+   "fact": "艾瑞斯的头骨被砸陷，那处伤藏在头发底下",
+   "anchor": "Her skull had been caved in",
+   "start": 8459,
+   "end": 8486
+  },
+  {
+   "fact": "他的手还放在她脸上时，她开始呼吸，尸检切口和脸上的小伤口一并消失",
+   "anchor": "she breathed",
+   "start": 9255,
+   "end": 9267
+  },
+  {
+   "fact": "被他救活的沃尔什站起来时像个木偶，线在他手里",
+   "anchor": "as if he were a puppet",
+   "start": 16204,
+   "end": 16226
+  },
+  {
+   "fact": "结尾他一手妻子一手儿子，三个人重新在一起",
+   "anchor": "And they were together again.",
+   "start": 18532,
+   "end": 18561
+  }
+ ]
+}

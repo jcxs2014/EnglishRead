@@ -1,0 +1,67 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch13",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch13_chapter_xii.txt",
+ "facts": [
+  {
+   "fact": "离开 Merit 已近三个月，中间经历 Marcella Riggins 的晚会、Eli 之死与 Victor 不告而别，Mitch 已记不清里程与落脚的地名",
+   "anchor": "nearly three months since they left Merit behind",
+   "start": 253,
+   "end": 301
+  },
+  {
+   "fact": "他白天与 Syd 在路上，夜里写程序，在网上搜逮捕令、警情通报、EO/EON 的字样",
+   "anchor": "He spent his days on the road with Syd",
+   "start": 1841,
+   "end": 1879
+  },
+  {
+   "fact": "搜索只查到一条消息：Stell 死了，头部一处枪伤",
+   "anchor": "The only thing he had caught word of was Stell",
+   "start": 2037,
+   "end": 2083
+  },
+  {
+   "fact": "SharpenedSpade1652 这个句柄里的 1652 是他在 Wrighton 监狱的牢房号，那间牢房曾与 Victor 同住",
+   "anchor": "It was the number of his cell at Wrighton Penitentiary",
+   "start": 4550,
+   "end": 4604
+  },
+  {
+   "fact": "他累到不想用暗号说话，正要把桌上电话的号码打进聊天框时，Victor 的句柄旁先跳出十个数字",
+   "anchor": "He was too tired to speak in code",
+   "start": 5366,
+   "end": 5399
+  },
+  {
+   "fact": "两人拿天气当暗号：他答「一直在路上，没停够久到知道」，随后是「阴天，盼下雨」",
+   "anchor": "CLOUDY. HOPING FOR RAIN.",
+   "start": 5316,
+   "end": 5340
+  },
+  {
+   "fact": "Victor 要 Mitch 写一个程序，用来在监控录像里找到他",
+   "anchor": "I want you to write a program",
+   "start": 8095,
+   "end": 8124
+  },
+  {
+   "fact": "不是把他的影像抹掉，而是把他的影像铺满全国的监控录像",
+   "anchor": "I want you to put me everywhere",
+   "start": 8345,
+   "end": 8376
+  },
+  {
+   "fact": "挂掉电话时 Sydney 已从浴室出来，而 Mitch 已经在写他命名为 Rainfall 的程序",
+   "anchor": "already named Rainfall",
+   "start": 8952,
+   "end": 8974
+  },
+  {
+   "fact": "他对 Sydney 谎称刚才是前台来电，抱怨她把热水用光了",
+   "anchor": "They called to complain that you used all the hot water",
+   "start": 9192,
+   "end": 9247
+  }
+ ]
+}

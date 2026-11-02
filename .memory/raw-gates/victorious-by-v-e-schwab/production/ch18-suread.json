@@ -1,0 +1,55 @@
+{
+ "book": "victorious-by-v-e-schwab",
+ "chapter": "ch18",
+ "text": "notes/books/novels/victorious-by-v-e-schwab/text/ch18_chapter_xvii.txt",
+ "facts": [
+  {
+   "fact": "开篇：化学家双手发抖，正俯身在管架与移液管之间配药",
+   "anchor": "THE chemist’s hands were shaking.",
+   "start": 78,
+   "end": 111
+  },
+  {
+   "fact": "十七岁的泽维尔·帕斯卡（Xavi）一头深色卷发，是逃跑出来的 EO，几乎总是高兴",
+   "anchor": "At seventeen, Xavier—Xavi—Pascal had a mop of dark curls",
+   "start": 565,
+   "end": 621
+  },
+  {
+   "fact": "上一剂药已失效两个多小时，他的感官开始失控",
+   "anchor": "His last dose had worn off more than two hours ago",
+   "start": 3021,
+   "end": 3071
+  },
+  {
+   "fact": "从前药效能给他四小时，如今这个窗口在收窄，能用能力的时间随之缩短",
+   "anchor": "It used to be four, but as he suspected, the window was narrowing",
+   "start": 3168,
+   "end": 3233
+  },
+  {
+   "fact": "他背靠货架，听见 Eli 的声音就在另一侧，说这一切不过是用快死换慢死",
+   "anchor": "It sounded like Eli was right there, on the other side.",
+   "start": 3776,
+   "end": 3831
+  },
+  {
+   "fact": "夏维握紧化学家的手，那人四肢僵直、面孔空白，几小时记忆被倒着卷走",
+   "anchor": "Xavi’s fingers tensed around the chemist’s hand",
+   "start": 5404,
+   "end": 5451
+  },
+  {
+   "fact": "街中央的女孩表情闪过惊、喜、怒，抬枪对准他的胸口，枪响后她却不见了",
+   "anchor": "she swung the gun up, aiming at his chest",
+   "start": 8801,
+   "end": 8842
+  },
+  {
+   "fact": "让他害怕的不是幻影喊了他，而是他第一次开口回应了它",
+   "anchor": "It was the fact that, for the first time, he’d spoken back.",
+   "start": 11072,
+   "end": 11131
+  }
+ ]
+}
