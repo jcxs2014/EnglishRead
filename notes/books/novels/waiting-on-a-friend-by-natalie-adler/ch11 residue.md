@@ -90,7 +90,7 @@ modified: "2026-11-02"
 
 - **关键词**：their purpose is to persist / shouldn’t be our burden / unfinished business / we move them away
 
-- **为什么这样写**：理论在此从物理滑进政治：persist not move on 是对「超度」叙事的釜底抽薪——没有来世任务，只有滞留；our burden 一句把伦理包袱整个卸给死者，公司的商业模式因此成立。choosing his words carefully 的描写让读者听出话术装配的现场音。move them away 的方向感模糊（away——去哪？）是下一块的钩子。
+- **为什么这样写**：理论在此从物理滑进政治：persist, not to move on 是对「超度」叙事的釜底抽薪——没有来世任务，只有滞留；our burden 一句把伦理包袱整个卸给死者，公司的商业模式因此成立。choosing his words carefully 的描写让读者听出话术装配的现场音。move them away 的方向感模糊（away——去哪？）是下一块的钩子。
 
 - **读者视角提示**：记住 persist 这个词：它是全书鬼存在的最小定义，也是她的鬼社会学（鬼守着生前旧址）的实验室版本。Silverman 与她在数据上一致，在处置上决裂。
 
