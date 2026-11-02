@@ -88,7 +88,7 @@ modified: "2026-11-02"
 
 - **中文理解**：「他们想让我有安全感。我的意思是，我还是个学生，」她说，仿佛这样就豁免于这个世界。
 
-- **关键词**：want me to feel safe / I’m a student / exempted from the world
+- **关键词**：want me to feel safe / I’m a student / exempted her from the world
 
 - **为什么这样写**：Diane 的世界观在一句里交底：安全是父母外包的服务，学生身份是免疫证明——as if that exempted her from the world 是叙述者递上的判词。feel safe 与传单标语（You deserve to live in peace）押着同一个韵：安全感成为可购买的商品，而账单寄给上一代的恐慌。这个句子也是绅士化的微型人类学：新居民带来的不是钱，是对「世界除外权」的期待。
 
@@ -102,7 +102,7 @@ modified: "2026-11-02"
 
 - **为什么这样写**：一句反问完成职业纠偏：入室者比鬼危险，且可报警——但报警是她的家训禁区（ch10），于是纠偏止步于修辞。actual problem 与 supernatural 的二分法正是她全部专业知识的底座：先排除人间，再谈阴间。她没有继续追问——这与她「不告诉别人秘密」的原则一样，是旁观者的纪律。
 
-- **读者视角提示**：对照 ch05 Julie 的「sinister but not spooky」：两个女人用同一把尺子量不同的案子。记住这个二分法——它会在后文某处失效，当她无法判断所见属于哪一边时。
+- **读者视角提示**：对照 ch05 Julie 的「sinister, but it’s not spooky」：两个女人用同一把尺子量不同的案子。记住这个二分法——它会在后文某处失效，当她无法判断所见属于哪一边时。
 
 > **原句 10:** "As Diane pulled out two twenties, Carolyn said, “That’s a little much, isn’t it?”"
 
