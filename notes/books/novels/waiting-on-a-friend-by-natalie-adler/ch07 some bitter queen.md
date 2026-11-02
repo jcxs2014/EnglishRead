@@ -32,7 +32,7 @@ modified: "2026-11-02"
 
 - **为什么这样写**： Patrick 的家史用一幅作品讲完：一次暴露＝一笔遗产的消失，阶层背叛与性越界在同一瞬间发生。Mark 的评注是全章最好的艺术史玩笑：题材相同，构图定生死——分开拍是市场，一起拍是丑闻；这个笑谈也悄悄给 Patrick 定罪：他永远是被时代抄走的人，刻薄由此有了出处。
 
-- **读者视角提示**：记住「破落而非贫穷」（broke but never poor）这条阶级身份——他的 Lucite 酒车与 Heroin 玻璃纸袋共用一张咖啡桌。Mapplethorpe 的名字是 1984 纽约艺术圈的坐标针。
+- **读者视角提示**：记住「破落而非贫穷」（he had never been poor）这条阶级身份——他的 Lucite 酒车与 Heroin 玻璃纸袋共用一张咖啡桌。Mapplethorpe 的名字是 1984 纽约艺术圈的坐标针。
 
 > **原句 3:** "There was something between them that made sense, even if I didn’t like it, like they wouldn’t have a long future, but they could go deep and dark and find as much space in the time they had, because by the time they got together, Mark was convinced he was going to die and Patrick didn’t care if he did."
 
