@@ -38,7 +38,7 @@ modified: "2026-11-02"
 > **原句 4:** "I had a flash of my earlier vision, of Tamsin pushing Kelville from the cliff. I had thought then that I might feel powerful, knowing I could kill a man. That there would be a delirious rush, like running across the moor or falling into bed with Tamsin."
 
 - **中文理解**：她脑中闪过早前那个幻象——Tamsin 把 Kelville 推下悬崖。那时她想过，知道自己能杀死一个人，也许会觉得很强大；会有一种癫狂的冲涌，像奔过荒原，或者和 Tamsin 一起倒进床里。
-- **关键词**：a flash（一闪）；her earlier vision（早前的幻象）；Tamsin pushing Kelville（把 Kelville 推下悬崖的人）；feel powerful（感到强大）；a delirious rush（癫狂的冲涌）
+- **关键词**：a flash（一闪）；my earlier vision（早前的幻象）；Tamsin pushing Kelville（把 Kelville 推下悬崖的人）；feel powerful（感到强大）；a delirious rush（癫狂的冲涌）
 - **为什么这样写**：眼前的尸体把早前那段念头叫了回来，而那段念头里的回报被写成两处高兴的去处：荒原上的奔跑、和 Tamsin 一起上床。动手杀人这件事在她的想象里是有奖赏的，所以这一块必须排在尸体的细节之后、真正的反应之前——先亮出她预支过的痛快，等落差来的时候才有落处。
 - **读者视角提示**：「earlier vision」把一段旧念头搬到了现场：她不是第一次在心里排练杀人。这一块写的是她以为会有的感受，不是她此刻的感受。
 

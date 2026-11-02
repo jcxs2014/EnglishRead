@@ -89,6 +89,8 @@ modified: "2026-11-02"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| masquerade | 化装舞会 | Well, you’ll have to tell me all about it at the masquerade. |
+
 
 ## 一句话总结
 赴会前的社交首演：Olivia 用 Madden 家的族训「装作没事」应付不知母亲已死的旧友；Tippy 把昨夜讲成巴士底历险、把 Rex 的请客讲成谜，临别祝她做灰姑娘——并叮嘱当心坏仙女。

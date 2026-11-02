@@ -48,6 +48,8 @@ modified: "2026-11-02"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| seething | 翻涌，在内部焖着（seethe 的现在分词） | I felt as though this really were a fever, a terrible disease that had been seething inside me. |
+
 
 ### ⭐⭐ 进阶
 
