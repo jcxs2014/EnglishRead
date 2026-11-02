@@ -9,7 +9,7 @@ modified: "2026-11-02"
 - **一句话概括**：传单正式上门（Star 和 Annie 早说过它长这样），她笑过、撕过、又忍不住琢磨「对鬼能做什么」；与此同时本章揭开她的眼睛从哪来——Frick 美术馆里母亲的绘画课，以及那门课最后没能救回的两个人。
 - **情感弧线位置**：等待期转入研究期：鬼的机制第一次被正面陈述（两个平面、立体画）；母亲 Ruthie 的艺术未遂史与 Mark 病中的低泣让「看」这门手艺显出代价。
 - **Tropes 兑现/反转**：兑现「通灵能力代代相传」的设定（母亲不点破、只教不怕）；反转在教学法——传承的不是咒语是观看训练（线、张力、曲线），以及「母亲的鬼从不显形＝保护」这条全书最温柔的鬼规则。
-- **人物弧线**：叙述者拿到自己的能力说明书（talent probably runs in the family）；Ruthie 的画像补全（Music & Art 辍学、毒品、能析画不能作画）；Mark 的病体细节（低泣、格纹本里的脸）逼近临终前夜。
+- **人物弧线**：叙述者拿到自己的能力说明书（it probably runs in the family）；Ruthie 的画像补全（Music & Art 辍学、毒品、能析画不能作画）；Mark 的病体细节（低泣、格纹本里的脸）逼近临终前夜。
 - **叙事手法**：传单文本/街景观察/美术馆回忆/画室教学四段拼贴；「绘画课」与「见鬼」共用一套词汇（线—张力—曲线＝标题），让超能力获得美学出处；章末画不成 Mark 的脸，把「看见」的极限交给触觉与记忆。
 
 ## 精读
@@ -42,7 +42,7 @@ modified: "2026-11-02"
 
 - **为什么这样写**：四个递进的假设问题把她的处境第一次问穿：天赋能不能关机？答案是盲视的代价刚被现实标过价——François 死前失明、ch05 的病人双目失明，blindness 在这本书里是病历不是修辞。一段自问没有答案，最后一句忽然落地成判决：她的视觉无权关闭。
 
-- **读者视角提示**：这是全书「看见伦理」的题眼：看见既是天赋也是义务（ghosts should have squatters' rights 的另一半）。记住 wasn't a metaphor 的冷——这是她少有的不用比喻的时刻。
+- **读者视角提示**：这是全书「看见伦理」的题眼：看见既是天赋也是义务（they should have squatters’ rights 的另一半）。记住 wasn't a metaphor 的冷——这是她少有的不用比喻的时刻。
 
 > **原句 4:** "There’s no straightforward way to explain it. You have to be able to see two planes at once. The closest analogy might be a three-dimensional drawing, only the trick being played on your eyes is just as real."
 
