@@ -47,7 +47,7 @@ modified: "2026-11-01"
 
 **为什么这样写**：声音先到，门后到，狗最后到，救援被拆成三层递进，一层比一层近。than he had in years 顺手把这条老狗的年纪也写进去：它跑得快，是因为这速度多年没有过。最后一句只有两个词，是整章最软的一笔，短到像一声喘气。
 
-**读者视角提示**：这是读者第一次知道屋里还有一条狗。它的出现把场面重新排了一遍：她不必再一个人面对门外那个人。她抓住的东西也从武器换成了狗毛，抓的是活的。
+**读者视角提示**：这条狗一直在屋里，它此刻冲出来把场面重新排了一遍：她不必再一个人面对门外那个人。她抓住的东西也从武器换成了狗毛，抓的是活的。
 
 > **原句 4:** "She thought of Dominic Rusher, who’d also been a soldier, albeit one broken by his time at war. But once Victor had taken away his pain, he’d carried himself the way this guy did now, straight-backed and strong. Maybe that’s what made him seem familiar."
 

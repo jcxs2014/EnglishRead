@@ -57,7 +57,7 @@ modified: "2026-11-01"
 
 **为什么这样写**：两句里全是压下来的动作：descended、blocking、poured、pluming，主语分别是墙和气，男孩只剩 scrambled 与 spun 两个反应。先封退路，再放气，这个先后顺序本身就是一套处置流程。他所有的动作都在原地打转，没有一个能带他出去。
 
-**读者视角提示**：这里第一次写出他的名字 Xavi，名字和「被困住」同时到达，读者的同情是被这个顺序逼出来的。毒气写成又厚又白的一团，没有写剂量，也没有写男孩能撑多久。
+**读者视角提示**：这里才把名字写出来——Xavi，名字和「被困住」同时到达，读者的同情是被这个顺序逼出来的。毒气写成又厚又白的一团，没有写剂量，也没有写男孩能撑多久。
 
 > **原句 5:** "She shook her head. “You have a lot to learn about EOs. That one,” she said, gesturing to the unconscious boy as the guards forced his limbs back into the straitjacket, “can erase a person’s mind, just by touching them.”"
 

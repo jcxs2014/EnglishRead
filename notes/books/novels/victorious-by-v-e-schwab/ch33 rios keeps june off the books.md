@@ -27,7 +27,7 @@ modified: "2026-11-01"
 
 **为什么这样写**：先承认「不喜欢」，紧接着用 but 把话题翻成「需要」，一句话里同时给出偏好和理由，读者拿到的不是爱好，是处置办法。破折号后面才是真正的解释：她跑的不是路，是放掉一股攒起来的东西；「藏在明处」与「冷白的大楼」两个短语，把她的日常压成了背景。
 
-**读者视角提示**：读者第一次见这名特工，是在她最不像特工的时刻。她要放掉的究竟是什么，这一句没有说，只给了一个去处。
+**读者视角提示**：这一段里这名特工最不像特工：厨房、围裙、切菜板。她要放掉的究竟是什么，这一句没有说，只给了一个去处。
 
 > **原句 2:** "As the laps fell away beneath her shoes, her thoughts turned, the way they often did, to Stell. And then, to Victor Vale. The only thing that frustrated her more than her inability to catch him was the director’s waning interest."
 

@@ -19,7 +19,7 @@ modified: "2026-11-01"
 **中文理解**：人已经躺在路面上，眼睛望着天；要不是血从鼻子和耳朵里流出来、浸在后颈上，这一刻还算安静。脑袋嗡嗡响，什么都听不见，耳膜是被爆炸的力气震破的。她翻了个身，把这具坏掉的身体换下去，声音一下子全回来了。
 **关键词**：her borrowed throat · the damaged body
 **为什么这样写**：三句都从身体内部往外写。第一句先给一个最无害的角度——望着天，随后 blood 与 ears 把这份安静顶掉；第二句解释听不见的原因，把 eardrums 与 explosion 放在同一句里；第三句用 swapping out ... for a new one 把换身体写成换一件穿旧的衣物，损失因此显得很轻。
-**读者视角提示**：读者在这里第一次看清她能换身体，代价只是一具已经被炸坏的身体。她刚才护住的是谁、为什么，这一段一个字都没说。
+**读者视角提示**：这里把换身体的代价写得最清楚：她能用的只是一具已经被炸坏的身体。她刚才护住的是谁、为什么，这一段一个字都没说。
 
 > **原句 2:** "She stood, unassisted, but he kept staring at her, like she’d made some kind of noble sacrifice, when the simple truth was, she’d protected Mitch because he mattered—not to her, but to Sydney. Besides, it had only cost her one of the bodies in her closet. Even if it had been one she was quite fond of."
 **中文理解**：她自己站了起来，没接米奇伸出的手；米奇还是那样盯着她，像是她做了什么高贵的牺牲。实情是：她护住米奇，因为米奇对西德妮重要——对她自己不重要。况且这不过花掉她衣柜里的一具身体，哪怕那一具她挺喜欢。
