@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch50",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch50_chapter_50.txt",
+ "facts": [
+  {
+   "fact": "塔姆辛先开口，提议两人该去找点吃的",
+   "anchor": "We should get something to eat.",
+   "start": 75,
+   "end": 106
+  },
+  {
+   "fact": "塔姆辛要莉薇带她去看那间挂画的房间",
+   "anchor": "That room with the paintings—will you take me there?",
+   "start": 239,
+   "end": 291
+  },
+  {
+   "fact": "莉薇见没人来收拾房间，猜仆人们真把塔姆辛当成了她的女仆",
+   "anchor": "Maybe they really did believe that Tamsin was my maid.",
+   "start": 704,
+   "end": 758
+  },
+  {
+   "fact": "莉薇不愿带塔姆辛去自己见过 Rex 的房间，迷信地怕她一进门就看穿自己当时的心动",
+   "anchor": "I had a superstitious fear that she would immediately know how I’d felt in that high-ceilinged, shadowy space",
+   "start": 1852,
+   "end": 1961
+  },
+  {
+   "fact": "莉薇逛烦了便谎称这间屋子就是挂画的房间，补的那句 I think so 只是给谎言留退路",
+   "anchor": "to absolve myself of the lie",
+   "start": 3184,
+   "end": 3212
+  },
+  {
+   "fact": "塔姆辛从架上抽出一本两百年前的女性手术书，翻开给莉薇看解剖素描",
+   "anchor": "a book on ladies’ surgery, only it’s two hundred years old",
+   "start": 4747,
+   "end": 4805
+  },
+  {
+   "fact": "莉薇抽书时掉出来的不是书页，而是四张背面空白的裸女照片明信片",
+   "anchor": "They weren’t pages from the book but postcards, four in all.",
+   "start": 7947,
+   "end": 8007
+  },
+  {
+   "fact": "撞见他们的金发男子自称两人在露台见过面，还叫出了莉薇的名字",
+   "anchor": "Out on the terrace? Livvie, isn’t it?",
+   "start": 10530,
+   "end": 10567
+  }
+ ]
+}
