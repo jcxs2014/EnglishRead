@@ -16,7 +16,7 @@ modified: "2026-11-01"
 ## 精读
 
 > **原句 1:** "But just then she finally caught the thread of Mitch’s life, dancing beneath his skin, and pulled. A single, vicious jerk that hauled him back, out of the dark place and into this one. The cold retreated from her skin as she felt his heart begin to beat again beneath her palms."
-**中文理解**：可就在那时候，她终于抓住了米奇生命的那根线——它在他皮肤底下跳着——然后一拉。那一下又狠又急，把他从黑暗的那一边拽回这一边。她手下的皮肤上，冷退了下去，他的心脏重新开始跳。
+**中文理解**：可就在那时候，她终于抓住了米奇生命的那根线——它在他皮肤底下跳着——然后一拉。那一下又狠又急，把他从黑暗的那一边拽回这一边。冷从她自己皮肤上退下去，而他的心脏在她掌心下重新开始跳。
 **关键词**：caught the thread · hauled him back
 **为什么这样写**：这一块的重心全在手上的动作：`caught the thread`、`and pulled`、`hauled him back`。中间那句 `A single, vicious jerk` 把力气写足，`out of the dark place and into this one` 把方向写成从一处到另一处。最后一句换到身体的感觉上，`The cold retreated from her skin` 之后才落到 `his heart begin to beat again beneath her palms`——冷退和心跳落在同一个人身上。
 **读者视角提示**：留意冷是什么时候退的：不在她抓住线之前，是在她拉完之后；`finally` 落在 `caught` 前面，这一抓是等到了才成的。
@@ -30,7 +30,7 @@ modified: "2026-11-01"
 > **原句 3:** "Sydney didn’t understand. She’d brought a fair number of people back, and none of them had become EOs, but Mitch definitely wasn’t human. One of him was holding her, and the rest were fighting Serena."
 **中文理解**：西德妮不明白。她把人拉回来过不少次，没有一个人变成 EO，可米奇显然不是人。他有一个正抱着她，其余几个在跟塞雷娜打。
 **关键词**：wasn’t human · fighting Serena
-**为什么这样写**：三句分三层：先一句 `Sydney didn’t understand.` 交代她此刻的位置，再把她过去的经验摆出来做对照——`a fair number of people back`、`none of them had become EOs`——然后用 `but` 转到眼前这个人：`Mitch definitely wasn’t human`。第三句把两个米奇同时写出来，一个 `was holding her`，其余的 `were fighting Serena`。
+**为什么这样写**：三句分三层：先一句 `Sydney didn’t understand.` 交代她此刻的位置，再把她过去的经验摆出来做对照——`a fair number of people back`、`none of them had become EOs`——然后用 `but` 转到眼前这个人：`Mitch definitely wasn’t human`。第三句把分身同时写出来：一个 `was holding her`，其余的 `were fighting Serena`，而 `And another. And another.` 还在往下加。
 **读者视角提示**：原文只说她拉回来的人不少、没有一个变成 EO，然后落到一句 `wasn’t human`，没有解释米奇是什么。
 
 > **原句 4:** "Sydney loved her sister, and she feared her, and she knew that she would never change. At the end of the day, Serena Clarke expected the world, and everyone in it, to do exactly what she wanted. Even if she had to make them."
