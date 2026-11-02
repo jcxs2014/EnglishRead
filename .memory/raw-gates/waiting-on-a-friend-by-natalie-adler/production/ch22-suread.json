@@ -1,0 +1,97 @@
+{
+ "book": "waiting-on-a-friend-by-natalie-adler",
+ "chapter": "ch22",
+ "text": "notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch22_negativity.txt",
+ "facts": [
+  {
+   "fact": "Star 为主持人见面会挑新行头；对着长镜刷腮红，像念咒一样重复：造型要精致——「我不需要你的钱，但你想把钱给我」。",
+   "anchor": "Star was meeting a producer later and needed a new outfit. She stood in front of the floor-length mirror applying blush with a fan-tipped brush. Like a mantra, she repeated, “The look is polished. The look is, I don’t need your money, but you want to give me your money.”",
+   "start": 167,
+   "end": 438
+  },
+  {
+   "fact": "Bianca 说 Lupe 曾说 Ruthie 能感知房子是否闹鬼——她搬家前会带上 Ruthie 去看有没有「不好的感觉」。",
+   "anchor": "You know, Lupe always said your ma knew if a place was haunted. She said she had to bring Ruthie around if she was gonna move, see if she got a bad feeling.”",
+   "start": 1702,
+   "end": 1859
+  },
+  {
+   "fact": "她第一次把公司定性为「鬼警察」，说要对他们做点什么。",
+   "anchor": "It’s not right,” I said. “They’re like ghost cops. We should do something about it.”",
+   "start": 2627,
+   "end": 2711
+  },
+  {
+   "fact": "Bianca 讲 C、D 区扫荡：警车、囚车排队，人被从街上拉走、楼被突袭，随便安个买卖/意图/游荡的罪名——一个小毒贩能判到 Danbury 十五年到终身。",
+   "anchor": "Do you get over to C and D much? They line the whole block with cop cars, with vans—you know if you see the vans, it’s serious. And they pull everyone off the street, they raid the buildings, then they book them on whatever, buying, selling, intent, loitering, and then, bam, some nickel-bag peddler gets fifteen to life in Danbury.”",
+   "start": 3189,
+   "end": 3522
+  },
+  {
+   "fact": "她复盘公司套路：看哪栋楼被清空（垃圾袋、书、天鹅绒躺椅）、蹲守，再对新住户说——欢迎，介绍这项新服务，顺便一提，之前住这儿的人死于非命。",
+   "anchor": "I’ll tell you what they do,” I said. “You see a building where someone’s shit’s been cleaned out. You see the garbage bags and the books and the velvet chaise lounges on the street, you know what that’s about. Then they stake the place out. Oh, are new people moving in? Welcome to the neighborhood, let me tell you about this new service, and by the way, the people who lived here before you died of unnatural causes.”",
+   "start": 4912,
+   "end": 5331
+  },
+  {
+   "fact": "店主 Cynthia 的说法：不信鬼，但信吸引律——负能量招负能量，节制即免责。",
+   "anchor": "If you have dark energy, then you draw dark energy into your life. Negativity begets negativity.”",
+   "start": 7265,
+   "end": 7362
+  },
+  {
+   "fact": "Bianca 事后吐槽 Cynthia：把穷困者的不幸归给他们自己，是一套「灵修式的自力更生」屁话。",
+   "anchor": "She wanna blame people who are hard up for their own shitty lives, like some woo-woo bootstrap shit.”",
+   "start": 7647,
+   "end": 7748
+  },
+  {
+   "fact": "她的疑问：若政府与地产真想关起所有鬼，为何不直接做，偏要找这些混蛋当门面。",
+   "anchor": "if the city wants to cage all the ghosts, then why don’t they just go ahead and do it? Why do they need these assholes as a front?”",
+   "start": 8371,
+   "end": 8502
+  },
+  {
+   "fact": "Bianca 的答案：得从小做起、让人先信；新住户要一切干净崭新，不想知道隔壁曾有人过量或挨刀，更不想花钱买吓。",
+   "anchor": "They need to start small, get people believing. People move here and they want everything all nice, clean, new, they don’t wanna know if someone OD’d next door or got stabbed or whatever. They don’t wanna pay money to be scared.”",
+   "start": 8562,
+   "end": 8791
+  },
+  {
+   "fact": "Star 求借住一两周；她盯着待叠的围巾说再想想——那是 Mark 的房间。",
+   "anchor": "I looked down at a bin of scarves that needed folding, and I felt Bianca’s eyes on me. “Lemme think about it, okay? It’s just—it’s Mark’s room, and I—”",
+   "start": 9520,
+   "end": 9671
+  },
+  {
+   "fact": "Bianca 搬出旧账：当年你和你妈要找住处，Ruthie 从不必低声下气——Lupe 看出来就offer 了。",
+   "anchor": "when you and your mom needed somewhere to stay, did Ruthie have to say, ‘Please Lupe, pretty please, we are destitute, I beg of you.’ No. Lupe saw what was up and offered.”",
+   "start": 11644,
+   "end": 11816
+  },
+  {
+   "fact": "Bianca 摊牌：Mark 是你最好的朋友，Star 是我最好的朋友，而我是你最早的朋友——为一个死人扣着房子不给活人，感觉糟透了。",
+   "anchor": "I know Mark was your best friend. Star is my best friend. I’m your oldest friend. And I’m telling you, it feels shitty to watch you hold out for him when you have a friend who’s alive who needs your help.”",
+   "start": 12245,
+   "end": 12450
+  },
+  {
+   "fact": "她答应打电话给 Star；Bianca 抱着她说「这不是二选一」——她想起小时候一起做的降神会：Bianca 压低声音说 Marilyn 就在房里，窗帘无风自动。",
+   "anchor": "But then Bianca put her arms around me and said, “Thank you. It’s not an either-or, you know.” As she held me, I remembered the séances we used to do when we were kids, the way her voice would get quiet when she said that Marilyn was in the room with us, how the curtains would flutter even though the windows were closed.",
+   "start": 12919,
+   "end": 13241
+  },
+  {
+   "fact": "她承认：完全没感觉到他、也没看见过他——本以为会。",
+   "anchor": "I haven’t felt him at all,” I said. “I haven’t seen him. I thought I would.”",
+   "start": 13245,
+   "end": 13321
+  },
+  {
+   "fact": "Bianca 的最后一问：他不是躲着；他回来图什么呢？——她的答案没能说出口：为我，我要他为我回来。",
+   "anchor": "Oh, honey. It’s not like he’s hiding. What would he wanna come back for?”",
+   "start": 13458,
+   "end": 13531
+  }
+ ]
+}
