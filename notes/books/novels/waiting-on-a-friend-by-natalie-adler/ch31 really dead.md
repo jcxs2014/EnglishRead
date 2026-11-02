@@ -92,7 +92,7 @@ modified: "2026-11-02"
 
 - **为什么这样写**：全书对一个鬼做出最完整的并置式定义：三种身份同时可见（死、性感、怕），且共用同一个形容词（all lonely）。年轮比喻把这三层写成一块木头的剖面——砍倒才看得见的角度，正是她此刻的视角。**这段是对 ch04 那个「全校都爱的 Mark」的镜像**：站在这里的不是 Mark 而是另一个被看见过的美人。
 
-- **读者视角提示**：记住这张脸：它证实书对「鬼不是单一情绪」的例外处理——Patrick 在此获得全书鬼群里最"厚"的一次显形，也解释了她随后能对他说的软话（pity without looking down）。
+- **读者视角提示**：记住这张脸：它证实书对「鬼不是单一情绪」的例外处理——Patrick 在此获得全书鬼群里最"厚"的一次显形，也解释了她随后能对他说的软话（feel without looking down on someone）。
 
 > **原句 9:** "“He was everything to me,” Patrick said. “There is no me without him. That’s why I died.”"
 
