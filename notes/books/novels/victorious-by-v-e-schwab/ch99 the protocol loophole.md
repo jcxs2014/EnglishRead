@@ -25,7 +25,7 @@ modified: "2026-11-01"
 
 **中文理解**：琼咬着腮帮内侧，看向窗外。「我从来没查到，」她说。「我有一条线索，可是……」她的话断在那里。
 
-**关键词**：chewed her cheek · never found out
+**关键词**：inside of her cheek · never found out
 
 **为什么这样写**：回答之前先给一个身体动作：咬着腮帮内侧、看向窗外——这是拖延时间的动作，说明她自己也知道这个答案不好说。I never found out 用过去式而不是 didn't find out：前者是她从未查到，后者是这次没查到。前半句是完整断言，后半句 I had a lead, but… 用一个破折号式的省略收在 but 上，线索存在，线索断了。
 

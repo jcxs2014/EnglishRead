@@ -33,7 +33,7 @@ modified: "2026-11-01"
 
 **中文理解**：琼开了枪，把车窗外那一片染成红色，与此同时，车厢后面的探员们弹起身来。
 
-**关键词**：painting the window red · sprang into action
+**关键词**：window behind him red · sprang into action
 
 **为什么这样写**：分词短语 painting…red 把一次开枪写成一笔涂抹：不是 bullet，是 paint，人被写成了一幅画的底。as 一边连接后面的动作，车里的人正在起身——两个动作被绑在同一时间里，读者没法先处理其中一个。最后一个词用了跳（sprang），说明战斗在枪响的同时才真正开始。
 
