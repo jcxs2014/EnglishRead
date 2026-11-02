@@ -88,7 +88,7 @@ modified: "2026-11-02"
 
 - **中文理解**：我不再把她当作我的女孩了，可她是我的朋友——说真的，这买卖更划算。
 
-- **关键词**：not my girl anymore / she was my friend / the better deal, really
+- **关键词**：as my girl anymore / she was my friend / the better deal, really
 
 - **为什么这样写**：一句近于陈词滥调的话被结尾的 really 一拧：它承认了这是一次交易（deal），又是一次经过比较后的选择（better）。她们的关系史（聚、散、再睡、再淡）压成一句话，也让 Julie 在本章升格为「比恋人更合算的人」——这份鉴定恰好替她与 Mark 的关系（同一句式：他怎么可能是我的、我怎么会失去他）留出对照。
 

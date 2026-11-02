@@ -18,7 +18,7 @@ modified: "2026-11-02"
 
 - **中文理解**：她不擅长情绪性的谈话——Mark 死后，她没问过我要不要聊聊，也没问过我需不需要什么。她只是不停地打电话，照旧唠唠叨叨。不同的朋友，不同的需要。
 
-- **关键词**：not big on emotional conversations / just kept calling / kept yapping / Different friends, different needs
+- **关键词**：wasn’t big on / just kept calling / kept yapping / Different friends, different needs
 
 - **为什么这样写**：这一段是全书对「照顾的多种形态」给出的判定：Julie 的陪伴是打电话而不是问候（kept calling, kept yapping 的重复动作就是她的照护），而最后一句把差别的合法性点明——友谊不必符合一种模板。这也解释了为何她能对 Julie 说出最不体面的事实：这位朋友不索取情绪，因此安全。
 

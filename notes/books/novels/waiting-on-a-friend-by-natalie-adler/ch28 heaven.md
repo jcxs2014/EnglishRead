@@ -88,7 +88,7 @@ modified: "2026-11-02"
 
 - **中文理解**：我已准备好让「Mark 死去的那个夏天」过去，可它一直拖进了九月。
 
-- **关键词**：The Summer Mark Died / ready for it to be over / stretched well into September
+- **关键词**：The Summer Mark Died / to be over / stretched well into September
 
 - **为什么这样写**：她给这段日子起了年号（The Summer Mark Died，大写冠词与动词），把私人哀悼写成历史纪年；而日历违反她的计划（stretched well into September）——痛有自己的行政周期。这句也是本章的自嘲式结构点：她试图宣布结束，季节不批。
 

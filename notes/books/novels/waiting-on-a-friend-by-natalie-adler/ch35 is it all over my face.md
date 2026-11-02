@@ -104,14 +104,6 @@ modified: "2026-11-02"
 
 - **读者视角提示**：把这两块与 ch28 的「想念一个还在的人」并读：她终于被回以一个不再回避的答案。接下来的一句（下一块）之所以能说出口，就因为这四个字先落了地。
 
-- **中文理解**：「我本希望今晚能见到你。」「喏，」Claude 说，「我在这儿。」
-
-- **关键词**：I was hoping I’d see you tonight / here I am
-
-- **为什么这样写**：复联的对话极省：她交底（hoping），Claude 交人（here I am）——没有寒暄、没有解释，四句之间只剩「在不在场」这个问题，而这正是本书所有关系的关键字（ch30 的 shown up）。Claude 的语气词 Well 保留了她的风格（不煽情、以在场作答）。
-
-- **读者视角提示**：把这块与 ch25 的答录机（我不在家）、ch28 的「想一个还在的人」并读：三次都在问同一件事「谁在场」。这次答案是 yes。
-
 > **原句 10:** "I kissed her the way I did the first time, when I cruised her on the dance floor of the Paradise Garage, open and full, because this was the song that was playing then—the girl version, though—and it was playing now, for us."
 
 - **中文理解**：我吻她的方式和我第一次吻她时一样——在 Paradise Garage 的舞池上钓到她的那次——开放而满；因为当时放的就是这首歌（不过是女孩的版本），而现在它又放着，为我们而放。

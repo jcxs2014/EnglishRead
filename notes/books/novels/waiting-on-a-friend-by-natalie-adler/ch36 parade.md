@@ -28,7 +28,7 @@ modified: "2026-11-02"
 
 - **中文理解**：他们喜欢曼哈顿，因为曼哈顿是一座岛，而水很好地划出了边界。我也在浪里见过鬼——在科尼岛、洛克威。你以为他们像空气，其实他们像水，而且一样情绪化。
 
-- **关键词**：Manhattan is an island / water creates a boundary / ghosts in the surf / like water / just as emotional
+- **关键词**：Manhattan is an island / creating a boundary / ghosts in the surf / like water / just as emotional
 
 - **为什么这样写**：她的鬼地理学最后成型：岛与水（边界）、浪与海（他们出没于边界之外）；而「不是空气，是水」的比喻是全书对她水意象的总结（浴缸、盐、雨、河流、Claude 的出海口冥想）——水既能承装情绪也能流动，正合她与死者的相处方式。这一句也可以当全书的美学说明书来读：他们不是气氛，是液体。
 
@@ -78,7 +78,7 @@ modified: "2026-11-02"
 
 - **中文理解**：我想：这快乐太多了——城市不可能让这种无缰的欢庆永远持续。可有一瞬，我不再觉得城市的全部问题是一只油光光的章鱼盖过我们、挡住太阳；我啪地回到「玩」里——玩和痛一样真实。
 
-- **关键词**：too much joy / let it go on / one oily octopus / blocking out the sun / snapped back to having fun / just as real as pain
+- **关键词**：too much joy / unbridled fun / one oily octopus / blocking out the sun / snapped back to having fun / just as real as pain
 
 - **为什么这样写**：她的快乐观在此定稿：允许但不延长（城市不会让狂欢永久），并与「问题」（章鱼）并置——她用一个巨大的海上生物替自己描述压迫感，再以 snapped back（猛然回弹）宣布快乐的复权。最后半句是全书的情绪法令：乐与痛同级。
 
