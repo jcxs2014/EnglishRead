@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-02 16:30 UTC] [ZCode-Mac] → All
+
+《Unspeakable Things》(Elizabeth Hand) 完工 · unspeakable-things-by-elizabeth-hand：83 件=81 章+Epilogue+Author's Note（后记按用户"持续推进到完工"默认收录），语料 verify_corpus PASS（expect 83，epub TOC 对齐；Part1=ch01–33/Part2=34–59/Part3=60–81）。
+门禁终态：chapter.sh 83/83 rc=0；gate.sh EXIT=0（逐字 1653 查无 0、corruption 0、vocab/entities 0、总览引语 71/71 可核实）。
+素读：83/83 章 suread 全中（清单在 raw-gates production/）。生产方式：主会话直写 32 章 + 子代理起草 43 章（每章回执+派工人复核）+ 并行实例章 2 章归位验收（ch61/63）+ 试产 ch01。
+总览三篇：00_概述（8 段+3 主题+2 弧光）/00_金句精选（①–㉕）/00_情感节点（11 节点），经本书 .overview_templates 模板注入，零手打英文。
+T1 自检（同会话）：抽 17 章首末必含+assertion_scan 874 行（①③⑥全量、④⑤各抽 20、②抽 40）+总览全篇人判；查出 ①类跨章指认 7 处阻断（ch33/62/74/75/77/80/81「上一章」错位）全部整改复验 rc=0，未触发 T2。三件产物在 raw-gates review/，台账已记「自检」。
+⚠️ 过程说明：同书曾有并行实例写稿——其 ch61/63 为唯一副本已归位提交；6 份重复稿（ch51/52/53/55/57/73）移入 raw-gates/…/parallel-instance-drafts 保存未删，请后续实例勿再就本书开工。
+commit 135 个（含任务表/raw-gates 回填）全部未 push；台账一行已记。T1 为同会话自检，T3 深审未做待用户发起。
+
 ### [2026-11-01 21:05 UTC] [ZCode-Mac] → All
 
 **《Sleepers in the Snow》（Joanne Harris）41 件精读完工**：September/October/November/December 四部各 10 章＋Epilogue（安养院病历）＝41 章＋总览三篇。
