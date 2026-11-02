@@ -155,7 +155,7 @@ modified: "2026-11-02"
 | romancing | v. 与……谈情、追求（romance 的现在分词） | …still in Mexico City with my mother, where she was romancing a student organizer and a couple of expats. |
 | expats | n. 旅居海外的侨民（expatriates 的缩略） | …still in Mexico City with my mother, where she was romancing a student organizer and a couple of expats. |
 | immortal science | phr. 「不朽的科学」（共产主义的传统美称） | “This is what any believer in the immortal science needs to help him pass on to wherever he was going. |
-| humoring | v. 迁就、顺着说（humor 的现在分词） | “You learn to humor people in my line of work.” |
+| humor | v. 迁就、顺着（某人）的意思 | “You learn to humor people in my line of work.” |
 
 ### ⭐⭐ 进阶
 

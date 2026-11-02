@@ -78,7 +78,7 @@ modified: "2026-11-02"
 
 - **中文理解**：我确实想聊，可要是我告诉她是怎样为了给 François 叫「鬼察」而内疚，就可能说清我为什么那么生他的气，那就得谈到 Mark——一个太大、走不出去的感受。和 Claude 在一起，是悲伤的休息。
 
-- **关键词**：calling the ghost cops / too mad at François / too big a feeling / a break from grief
+- **关键词**：calling the ghost cops / so mad at François / too big a feeling / a break from grief
 
 - **为什么这样写**：全章最密的一段自剖画出一座内疚金字塔：底层是 Mark（不许碰），中层是对 François 的怨，顶层才是「报警」——开口顺序一旦触发就连环塌方。ghost cops 的自嘲命名给警察家训添了新警种；a break from grief 把恋爱定义为喘息舱——诚实，也预告了这段关系的上限。她的沉默在此首次有了工程学解释。
 

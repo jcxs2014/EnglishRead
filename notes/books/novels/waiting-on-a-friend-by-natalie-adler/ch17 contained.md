@@ -184,7 +184,7 @@ modified: "2026-11-02"
 |---|---|---|
 | redlining | n. （银行地图上的）红线政策、画线歧视 | Redlining, for instance, got its name from men in an office drawing lines around neighborhoods with a red pen. |
 | stakeout | n. （警方式的）蹲守、监视 | All we had to do was pick a day for the stakeout. |
-| paunchy | adj. 大腹便便的 | …but a little older and paunchier, balding with a ponytail. |
+| paunchier | adj. 更发福的（paunchy 的比较级） | He left the storefront with another guy wearing the same tech belt and khakis, but a little older and paunchier, balding with a ponytail. |
 | cast iron | n. 铸铁（建筑）；文中指 SoHo 铸铁楼 | …there they were, double-parked in front of a cast iron on Grand. |
 | padlocked | v. 用挂锁锁上（padlock 的过去式） | After a few minutes, Silverman and the other guy came out of the building, padlocked the door, and got back into the car and peeled off. |
 | visualize | v. 想象、使可视化 | “I want you to visualize a parking spot around the corner,” Claude said. |

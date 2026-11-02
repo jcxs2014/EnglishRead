@@ -134,7 +134,7 @@ modified: "2026-11-02"
 | askance | adv. 斜眼地、怀疑地 | She looked at me askance, and then said, “I’m not denying…but I don’t know what I saw.” |
 | shack up | phr. （未婚）同居、厮混 | I never really had the impulse to shack up with someone before or say I love you on the first date. |
 | dredge up | phr. 挖出、捞上（淤泥中的东西） | Maybe he’d dredge up some prehistoric crab or creepy eel. |
-| contusion | n. 挫伤（ch17 已收录，此处为其余波场景） | “He didn’t hurt you,” Claude said. “I don’t see any signs of contusion.” |
+| goddamned | adj. 该死的（加强语气的粗话） | I see people die every day. Every goddamned day. |
 
 ### ⭐⭐ 进阶
 

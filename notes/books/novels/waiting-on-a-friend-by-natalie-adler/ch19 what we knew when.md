@@ -196,7 +196,7 @@ modified: "2026-11-02"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | bench | n. 长椅 | When I sat down next to him on the bench, he took my hand in his and moved it to his neck, where it felt like there was a string of pearls under his skin. |
-| dim sum | n. 点心（粤式早茶） | We were with François and Leon and Leon’s aunt, Vernita, who was a lesbian and wore a sweater with a reindeer on it, and her girlfriend, June, who had a candy cane manicure. |
+| dim sum | n. 点心（粤式早茶） | He didn’t so much as mention Dane’s name until dim sum Christmas morning. |
 | reek | n. 恶臭、刺鼻气味 | When we got to the top stairs, we were hit with the reek of bleach. |
 | attic | n. 阁楼 | “It was a dream,” I said. “We don’t have an attic.” |
 | scooched | v. 挪动、腾位置（scooch 的过去式） | I scooched over in bed and he curled up next to me. |

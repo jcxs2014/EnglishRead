@@ -165,7 +165,7 @@ modified: "2026-11-02"
 | disowned | v. 与……断绝关系、剥夺继承（disown 的过去分词） | I knew from Mark that Patrick had come from a very wealthy Hong Kong family who disowned him when his thesis show featured photographs of calla lilies sticking out of his asshole. |
 | vitals | n. 生命体征 | They made him wait and wait at that hospital before they even took his vitals. |
 | gunk | n. 黏糊污物 | He choked to death from the gunk in his own lungs. |
-| deposed monarchy | phr. 被废黜的王室（喻摆贵族谱的人） | …but it ticked me off when people like him carried on like deposed monarchy. |
+| deposed monarchy | phr. 被废黜的王室（喻摆贵族谱的人） | He was broke, sure, but he had never been poor, and it ticked me off when people like him carried on like deposed monarchy. |
 | opaque | adj. 不透明的；（文中）让人读不出心思 | I smiled back, trying to be opaque. |
 | droll | adj. 滑稽打趣的 | “Have you seen him?” he asked, less droll, less cute. |
 
