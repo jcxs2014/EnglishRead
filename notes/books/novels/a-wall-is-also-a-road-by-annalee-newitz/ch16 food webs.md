@@ -58,7 +58,7 @@ modified: "2026-11-02"
 |---|---|---|
 | relentless | 不留情面的、 relentless 的（不停的） | Yearning merged with terror and frustration and an excitement so relentless that it hurt. |
 | un-clustery | 不像集群的（Gardenpath 现场生造的防御性说法） | But as they sank into position, Oriel’s texture seemed distinctly un-clustery. |
-| listlessly | 无精打采地、倦怠地 | Waddling around the room, they unpacked their bag listlessly, using only three eyes and two arms. |
+| listlessly | 无精打采地、倦怠地 | But Wainscot merely blobbed over to their cubby, eyestalks drooping, and listlessly unpacked. |
 | aerosolize | 喷雾化、化作气雾散播 | Wainscot had unpuddled to aerosolize this gloomy message. |
 
 ### ⭐⭐ 进阶

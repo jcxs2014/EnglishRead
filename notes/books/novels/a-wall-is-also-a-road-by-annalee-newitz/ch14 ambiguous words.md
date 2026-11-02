@@ -96,7 +96,7 @@ modified: "2026-11-02"
 | perturbations | 扰动、剧变（perturbation 的复数） | “The perturbations of Tentacle’s crust are a force for destruction and rejuvenation,” Gardenpath recorded in their notebook. |
 | half-baked | 半生不熟的、考虑不周的 | There were half-baked hypotheses, half-finished lists of words, and images whose metadata was woefully incomplete. |
 | methodical | 有条理的、讲方法的 | Even if cultural studies among the Unnamed was a surreptitious side project, they really ought to be more methodical about it. |
-| equivalents | 对应物、等价词（equivalent 的复数） | “A little bit. The problem is that there are a lot of words in it that have no equivalent in the language I’m collecting.” |
+| equivalents | 对应物、等价词（equivalent 的复数） | Each section contained lists of Rational words next to empty places that could be filled with their equivalents in the target language. |
 | acquisition | 习得、获得 | “Actually, there is something.” Gardenpath elongated. “I need help with language acquisition.” |
 
 ### ⭐ 常用
