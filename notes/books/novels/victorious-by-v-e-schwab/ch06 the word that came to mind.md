@@ -7,7 +7,7 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：距「末日」还有一周，几个州之外，米切尔·特纳在雪前的空气里劈柴、回屋喊西德妮，发现她照旧戴着耳机读有机化学、把教科书其余部分涂黑；他提议带她出门被拒，只被讨了一块派，锁门开走那辆三手皮卡时回头看小屋，心里冒出的那个词让他自己都意外。
+- **一句话概括**：距「末日」还有一周，几个州之外，米奇·特纳在雪前的空气里劈柴、回屋喊西德妮，发现她照旧戴着耳机读有机化学、把教科书其余部分涂黑；他提议带她出门被拒，只被讨了一块派，锁门开走那辆三手皮卡时回头看小屋，心里冒出的那个词让他自己都意外。
 - **情感弧线位置**：全章是紧张的另一种写法——没有冲突，只有一次没人应答。开头劳作带来踏实，两声呼唤把踏实戳破，此后他用玩笑、规矩和一副扑克牌把恐惧按回去，收尾则把它换成了归属感。
 - **Tropes 兑现/反转**：兑现「林中小屋 / 半路组成的家 / 一声 "Sure, Dad" 的假亲昵」；反转的是「安全屋」这个假设——这间小屋确实是家，可正因为是家，它同时成了他每天担心会失去的东西。
 - **人物弧线**：米奇从「一辈子小心不弄坏东西」的人，变成把一个被追着抓、被追着杀的姑娘安置在屋里、每天等她回话的人；西德妮从被保护的孩子长成有自己学业方向、主动选择不出门的年轻人，一句 "I’m good." 就把他的提议挡了回去。
@@ -17,7 +17,7 @@ modified: "2026-11-01"
 
 > **原句 1:** "THE axe whistled as it fell. The wood split and tumbled off the block, and Mitchell Turner tossed the logs onto the growing pile. He set the next piece on the stump, and lifted the axe again, fingers flexing on the handle."
 
-**中文理解**：斧头落下时带着呼啸声，木头裂开、从砧木上滚落，米切尔·特纳把劈好的柴扔到越堆越高的一摞上；他放好下一块，又举起斧子，手指在斧柄上活动了几下。
+**中文理解**：斧头落下时带着呼啸声，木头裂开、从砧木上滚落，米奇·特纳把劈好的柴扔到越堆越高的一摞上；他放好下一块，又举起斧子，手指在斧柄上活动了几下。
 
 **关键词**：fingers flexing · growing pile
 
@@ -37,7 +37,7 @@ modified: "2026-11-01"
 
 > **原句 3:** "Mitch glanced down at the textbook she was marking up. Tensed when he saw she wasn’t just highlighting the useful passages. She was blacking out the rest. Like Victor used to. Only, instead of a poem, all that remained were words like carbon-containing compounds, and agrichemicals, and delocalized electrons."
 
-**中文理解**：米切尔低头看她正在标注的那本教科书，一看见她不只是划出有用的段落就绷紧了——她把其余的部分整个涂黑。像维克多从前那样。只不过留在纸上的不是一首诗，而是含碳化合物、农用化学品、离域电子这样的词。
+**中文理解**：米奇低头看她正在标注的那本教科书，一看见她不只是划出有用的段落就绷紧了——她把其余的部分整个涂黑。像维克多从前那样。只不过留在纸上的不是一首诗，而是含碳化合物、农用化学品、离域电子这样的词。
 
 **关键词**：blacking out · Victor used to
 

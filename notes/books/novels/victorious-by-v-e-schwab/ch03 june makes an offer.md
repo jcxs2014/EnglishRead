@@ -7,17 +7,17 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：三年前的一间旅馆酒吧，琼换上一张卷发女人的脸找到维克托，先问他杀斯特尔是不是在挑衅 EON，再摊开自己那张四个名字的名单；她带来一副写着名字与能力的扑克牌，想用 EON 里的情报换一个「为什么活下去」的理由，而维克托只肯收下牌、不肯收下人。
+- **一句话概括**：三年前的一间旅馆酒吧，琼换上一张卷发女人的脸找到维克多，先问他杀斯特尔是不是在挑衅 EON，再摊开自己那张四个名字的名单；她带来一副写着名字与能力的扑克牌，想用 EON 里的情报换一个「为什么活下去」的理由，而维克多只肯收下牌、不肯收下人。
 - **情感弧线位置**：紧接上一章洗手间里的对峙，把冲突从肢体挪到谈判桌。两人手里各有一件对方想要的东西：他要 EON 里的眼睛，她要一个目的。整章的底色是「复仇之后」——不是胜利，是空。
 - **Tropes 兑现/反转**：兑现「宿敌变盟友」「酒吧谈判」「以物易物」；反转落在动机上——她不要钱、也不再要名单上的名字，她要的是「一件值得打的事、一个值得打的人」；而他那句不再收留流浪者，把「招募」这个动作反过来推给了对面。
-- **人物弧线**：维克托从「谁都不需要」退到「只需要一管药」，中间隔着伊莱的死和十五年前那场冰浴；琼从「拿着名单的杀手」变成「拿着扑克牌的猎头」，章末走出门时脚步比进来时轻。
+- **人物弧线**：维克多从「谁都不需要」退到「只需要一管药」，中间隔着伊莱的死和十五年前那场冰浴；琼从「拿着名单的杀手」变成「拿着扑克牌的猎头」，章末走出门时脚步比进来时轻。
 - **叙事手法**：全章一场对话，用极短段落切节拍——一句一段的「Parted ways.」「Dominic.」「Nothing.」把叙述压成心跳。时间上折了两层：三周前离开 Merit、十五年前的冰浴，各给一段就收回。情绪交给物件承担：药瓶、扑克牌、在桌上旋转的吸入器。
 
 ## 精读
 
 > **原句 1:** "When his powers were online, he’d been able to pick her out by the current, the energy signature, as specific as a thumbprint. Even now, as she met his eyes over a bottled beer, Victor could see the real June, glinting like a blade behind them."
 
-**中文理解**：能力还在线的时候，他能靠电流、靠能量签名把她认出来，那签名精确得像一枚指纹。即便现在，她隔着一瓶啤酒迎上他的目光，维克托仍能看见真正的琼，在他眼前像刀刃一样反着光。
+**中文理解**：能力还在线的时候，他能靠电流、靠能量签名把她认出来，那签名精确得像一枚指纹。即便现在，她隔着一瓶啤酒迎上他的目光，维克多仍能看见真正的琼，在他眼前像刀刃一样反着光。
 
 **关键词**：energy signature · thumbprint
 
@@ -27,7 +27,7 @@ modified: "2026-11-01"
 
 > **原句 2:** "As if the decision had been mutual. As if Victor hadn’t severed himself from Mitch, and Sydney, and the dog. The only three things that mattered to him, especially now that Eli was dead."
 
-**中文理解**：好像这个决定是双方一起做的。好像不是维克托亲手把自己从米切尔、西德妮和那条狗身边割开——那是他在乎的仅有的三样东西，尤其在伊莱已经死了之后。
+**中文理解**：好像这个决定是双方一起做的。好像不是维克多亲手把自己从米奇、西德妮和那条狗身边割开——那是他在乎的仅有的三样东西，尤其在伊莱已经死了之后。
 
 **关键词**：severed himself · the dog
 
@@ -37,17 +37,17 @@ modified: "2026-11-01"
 
 > **原句 3:** "Sometimes by accident, like Syd and her sister falling through the ice. Sometimes by intention, like Victor and Eli running their experiments, playing scientist and specimen. And sometimes EOs were the product of a violent crime, a murder that didn’t take."
 
-**中文理解**：有时是意外，像西德妮和她的姐姐掉进冰里。有时是有意为之，像维克托和伊莱做实验，一个扮科学家、一个扮标本。还有的时候，EO 是一桩暴力犯罪的产物——一次没能得手的谋杀。
+**中文理解**：有时是意外，像西德妮和她的姐姐掉进冰里。有时是有意为之，像维克多和伊莱做实验，一个扮科学家、一个扮标本。还有的时候，EO 是一桩暴力犯罪的产物——一次没能得手的谋杀。
 
 **关键词**：by accident · by intention
 
 **为什么这样写**：三句同构，都用 Sometimes by 加名词起头，第三句忽然换了骨架——And sometimes EOs were the product of...，句式一变，语气跟着沉下去。前两条各给一个具体例子：掉进冰里的两姐妹、做实验的两个学生；第三条却只留一个定义式的说法，a murder that didn’t take 里的 didn’t take 是全段最冷的三个词，它把「谋杀」降格成一次失败的操作。scientist and specimen 一句则把两个主角的实验写成角色扮演，谁扮哪个不说，也不需要说。
 
-**读者视角提示**：这是本章唯一一处直接交代能力来源的地方，而说这话的人不在场——它是叙述者的账本，不是琼或维克托的解释。三条并列里没有一条提到「天生」，这个缺位本身就是本章对能力来源的立场。
+**读者视角提示**：这是本章唯一一处直接交代能力来源的地方，而说这话的人不在场——它是叙述者的账本，不是琼或维克多的解释。三条并列里没有一条提到「天生」，这个缺位本身就是本章对能力来源的立场。
 
 > **原句 4:** "Fifteen years ago, Victor had sat on the edge of a bathtub filled with ice, and watched as Eli went under, knuckles going red, then white, where they gripped the handles under the surface. He’d pulled his roommate’s lifeless body from the water, and restarted his heart, and the whole time, he’d known Eli wasn’t really gone."
 
-**中文理解**：十五年前，维克托坐在一只装满冰的浴缸边缘，看着伊莱沉下去，看着那双手的指节先变红、再变白——它们在水面下抓着扶手。他把室友那具没有气息的身体从水里拖出来，重新起动他的心脏；而整个过程里，他都知道伊莱并没有真的走。
+**中文理解**：十五年前，维克多坐在一只装满冰的浴缸边缘，看着伊莱沉下去，看着那双手的指节先变红、再变白——它们在水面下抓着扶手。他把室友那具没有气息的身体从水里拖出来，重新起动他的心脏；而整个过程里，他都知道伊莱并没有真的走。
 
 **关键词**：red, then white · restarted his heart
 
@@ -71,7 +71,7 @@ modified: "2026-11-01"
 
 **关键词**：middle-aged man · wasn’t the only difference
 
-**为什么这样写**：三句话，视角始终钉在维克托身上：watched、she stepped、she traded——他只能看，不能跟。换形被写成一个连贯的动作（traded A for B），中间没有停顿，说明这对她只是换件衣服。innocuous 是这一段的落点：她要的效果是没人多看一眼。最后一句只有七个词，却把「换了皮」升级成「不止换了皮」，然后停住不解释——全章最后一次把话留给读者。
+**为什么这样写**：三句话，视角始终钉在维克多身上：watched、she stepped、she traded——他只能看，不能跟。换形被写成一个连贯的动作（traded A for B），中间没有停顿，说明这对她只是换件衣服。innocuous 是这一段的落点：她要的效果是没人多看一眼。最后一句只有七个词，却把「换了皮」升级成「不止换了皮」，然后停住不解释——全章最后一次把话留给读者。
 
 **读者视角提示**：这是全章唯一一次从背后看琼。前文她一直坐在他对面，这里她走出去，读者和他一起被留在座位上。
 
@@ -103,4 +103,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-三年前旅馆酒吧里，琼用一张陌生的脸找到维克托，摊出四个名字的名单和一副写着名字与能力的扑克牌，要用 EON 里的情报换一个活下去的理由；他收下牌、拒绝了人，最后发现自己缺的不是目的，是一管药。
+三年前旅馆酒吧里，琼用一张陌生的脸找到维克多，摊出四个名字的名单和一副写着名字与能力的扑克牌，要用 EON 里的情报换一个活下去的理由；他收下牌、拒绝了人，最后发现自己缺的不是目的，是一管药。

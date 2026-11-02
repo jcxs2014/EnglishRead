@@ -37,7 +37,7 @@ modified: "2026-11-01"
 
 > **原句 3:** "The truth was, she was always cold. Had been since the morning she and Serena fell through the ice on the lake, nine years before. The doctors had spent a week trying to get her body temperature back up, to no avail."
 
-**中文理解**：事实是她一直觉得冷。从九年前那个早晨就开始了——那天她和塞蕾娜一起从湖面的冰上掉下去。医生花了一整周想把她的体温升回来，没有成功。
+**中文理解**：事实是她一直觉得冷。从九年前那个早晨就开始了——那天她和塞雷娜一起从湖面的冰上掉下去。医生花了一整周想把她的体温升回来，没有成功。
 
 **关键词**：always cold · through the ice
 
@@ -77,11 +77,11 @@ modified: "2026-11-01"
 
 > **原句 7:** "The Eliot on the screen still had those all-American good looks, that quarterback physique, his mouth tipped into a charming smile. He looked the same age as her sister, Serena."
 
-**中文理解**：屏幕上那个埃利奥特还是那副全美式的漂亮长相、四分卫的身板，嘴角翘成一个迷人的笑。他看上去和她的姐姐塞蕾娜同龄。
+**中文理解**：屏幕上那个埃利奥特还是那副全美式的漂亮长相、四分卫的身板，嘴角翘成一个迷人的笑。他看上去和她的姐姐塞雷娜同龄。
 
 **关键词**：all-American · the same age
 
-**为什么这样写**：这一段不写"过了多少年"，只写"still"：还是那张好长相，还是那副身板，还是那个笑。细节一件一件摆出来，时间被压进一个副词里。最后一句才是刀——他和塞蕾娜同龄。塞蕾娜在这里不是随口一提，是把年份换算成一个人：她姐姐此刻的年纪，就是他停在的那个年纪。
+**为什么这样写**：这一段不写"过了多少年"，只写"still"：还是那张好长相，还是那副身板，还是那个笑。细节一件一件摆出来，时间被压进一个副词里。最后一句才是刀——他和塞雷娜同龄。塞雷娜在这里不是随口一提，是把年份换算成一个人：她姐姐此刻的年纪，就是他停在的那个年纪。
 
 **读者视角提示**：单看这一句，他只是个好看的男学生。真正让人发凉的是"still"什么都没解释，却要求读者自己去补上中间那些年。
 

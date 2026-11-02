@@ -7,17 +7,17 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：全书开卷，维克托站在通往 EON 的金属门前，借着光数紫色药液还剩多少，答完耳中那句「你准备好了吗」，推门而入——他自嘲地承认，自己最终选择的竟是去做一个英雄。
+- **一句话概括**：全书开卷，维克多站在通往 EON 的金属门前，借着光数紫色药液还剩多少，答完耳中那句「你准备好了吗」，推门而入——他自嘲地承认，自己最终选择的竟是去做一个英雄。
 - **情感弧线位置**：楔子。标题已经写明这是「终局前的几分钟」：不含任何前史，只给一个即将跨过门槛的人，把读者钉在门槛上，等正文回头从头讲起。
 - **Tropes 兑现/反转**：兑现「赴死前的一分钟」与「主角自称英雄」两个套路；反转在门本身——它没有上锁。拦住他的不是敌人，而是他自己要不要推开的这个决定。
-- **人物弧线**：本章只给维克托一个静止的姿态和一次跨门槛的动作。他从「站定、清点、扯出一个笑」走到「推门」，弧线只有一步，但这一步是全书所有回溯的落点。
+- **人物弧线**：本章只给维克多一个静止的姿态和一次跨门槛的动作。他从「站定、清点、扯出一个笑」走到「推门」，弧线只有一步，但这一步是全书所有回溯的落点。
 - **叙事手法**：第三人称贴视角加极短段落。名词句与内心独白交替，最后用「一句台词 + 一个动作」收束，把心理描写全部让位给身体动作。
 
 ## 精读
 
 > **原句 1:** "VICTOR stood before the metal door. The one that led into EON. He knew what lay beyond the threshold. What was waiting for him there. Death. And the doctor. And Sydney."
 
-**中文理解**：维克托站在那扇金属门前——通向 EON 的那一扇。他清楚门槛之后有什么，什么在那儿等着他：死亡。还有那位医生。还有西德妮。
+**中文理解**：维克多站在那扇金属门前——通向 EON 的那一扇。他清楚门槛之后有什么，什么在那儿等着他：死亡。还有那位医生。还有西德妮。
 
 **关键词**：metal door · EON · threshold
 
@@ -27,7 +27,7 @@ modified: "2026-11-01"
 
 > **原句 2:** "The door was unlocked, but as Victor brought his hand to the cold steel he paused, and drew the inhaler from his coat. He held it to the light, studying the violet liquid in the cartridge, calculating how much he’d need. How much was left. Enough, he told himself, pocketing the drug."
 
-**中文理解**：门并没有上锁，可维克托把手按上冰冷的钢面时却停住了，从外套里取出吸入器。他把它举到光下，端详药匣里那管紫色液体，算着自己需要多少。还剩多少。够了，他对自己说，把药收回口袋。
+**中文理解**：门并没有上锁，可维克多把手按上冰冷的钢面时却停住了，从外套里取出吸入器。他把它举到光下，端详药匣里那管紫色液体，算着自己需要多少。还剩多少。够了，他对自己说，把药收回口袋。
 
 **关键词**：unlocked · inhaler · violet liquid
 
@@ -37,7 +37,7 @@ modified: "2026-11-01"
 
 > **原句 3:** "“Hey, Vic,” said a voice in his ear. “Are you ready?” His mouth tugged into a grim smile. Of all the ways this could have gone. All the paths and permutations. How ironic, thought Victor Vale, that in the end, he’d chosen to be a hero. “I’m ready,” he said, pushing open the door."
 
-**中文理解**：「嘿，维克，」耳中传来一个声音，「你准备好了吗？」他的嘴角被扯出一个冷硬的笑。这件事本来可以走向的种种方式。全部的路径与排列组合。多讽刺，维克托·维尔心想，到最后，他选择的竟是去做一个英雄。「我准备好了，」他说，推开了门。
+**中文理解**：「嘿，维克，」耳中传来一个声音，「你准备好了吗？」他的嘴角被扯出一个冷硬的笑。这件事本来可以走向的种种方式。全部的路径与排列组合。多讽刺，维克多·维尔心想，到最后，他选择的竟是去做一个英雄。「我准备好了，」他说，推开了门。
 
 **关键词**：his ear · grim smile · a hero
 
@@ -73,4 +73,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-终局前的最后一分钟：一扇没上锁的门、一支要数着用的紫药、耳朵里那句「准备好了吗」——维克托·维尔在推门前自嘲，自己到底还是选了去做英雄。
+终局前的最后一分钟：一扇没上锁的门、一支要数着用的紫药、耳朵里那句「准备好了吗」——维克多·维尔在推门前自嘲，自己到底还是选了去做英雄。

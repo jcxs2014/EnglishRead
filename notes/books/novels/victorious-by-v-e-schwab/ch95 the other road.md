@@ -28,10 +28,10 @@ modified: "2026-11-01"
 **读者视角提示**：读者到这里才知道这辆车里押的是西德妮，也知道诺亚和埃利同车不是原定安排，是两条理由挤出来的结果。
 
 > **原句 3:** "The retrieval mission had been a success, but it certainly hadn’t gone off without a hitch. They’d lost half a dozen agents, along with the human, Mitchell Turner, and judging by the state of the transport and the dead agents around it, he’d had help."
-**中文理解**：抓人的任务成了，可绝不是顺顺当当办成的。他们折了半打特工，还搭上那个普通人米切尔·特纳；看运输车的样子和车周围的死特工，动手的时候他有帮手。
+**中文理解**：抓人的任务成了，可绝不是顺顺当当办成的。他们折了半打特工，还搭上那个普通人米奇·特纳；看运输车的样子和车周围的死特工，动手的时候他有帮手。
 **关键词**：half a dozen agents · had help
 **为什么这样写**：先给结论 the retrieval mission had been a success，紧接着用 but 把话拉回来，hitch 这个词把「成了」和「顺利」分开。数字给得很干脆——half a dozen agents；随后补上 Mitchell Turner 这个名字。最后一句把话交给现场：车的状态、车周围的尸体，落点是 he’d had help。
-**读者视角提示**：读者拿到的是清点之后的账：六个特工、一个米切尔·特纳，和一句「他有帮手」。帮手是谁，这一段一个字都没写。
+**读者视角提示**：读者拿到的是清点之后的账：六个特工、一个米奇·特纳，和一句「他有帮手」。帮手是谁，这一段一个字都没写。
 
 > **原句 4:** "Once, growing up, his father had pressed a heavy finger to his chest and said that when God talked, he better listen. Eli had asked why he didn’t hear it in his ears, if God was speaking, and his father had explained, with uncommon patience, that He didn’t have a mortal voice."
 **中文理解**：小时候他父亲把一根粗手指按在他胸口，说上帝讲话的时候，他最好听着。埃利问，既然是上帝在说，为什么他耳朵里听不见；父亲少有地耐心，解释说上帝没有凡人的嗓子。

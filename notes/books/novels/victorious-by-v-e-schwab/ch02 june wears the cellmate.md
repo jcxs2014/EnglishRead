@@ -7,17 +7,17 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：三年前的一间旅馆酒吧，失去能力、只剩六十三天药量的维克托一边数着州数、小时和空位，一边承认自己真正怕的是「不知道下一步做什么」；一条像极了Dol的黑色大狗把他引进洗手间，等在那里的却是披着狱友米切尔之皮的变形雇佣兵琼——他用弹匣里的钢丝把她钉在地上，她却说不想让他死，只想要一杯酒。
+- **一句话概括**：三年前的一间旅馆酒吧，失去能力、只剩六十三天药量的维克多一边数着州数、小时和空位，一边承认自己真正怕的是「不知道下一步做什么」；一条像极了Dol的黑色大狗把他引进洗手间，等在那里的却是披着狱友米奇之皮的变形雇佣兵琼——他用弹匣里的钢丝把她钉在地上，她却说不想让他死，只想要一杯酒。
 - **情感弧线位置**：全书的第一次「倒回」。序章把他放在终局的门前，这里退到三年前，给出一份病历式的现状：能力在抽风、药在见底、仇已报完。基调不是悲伤，是失速。
 - **Tropes 兑现/反转**：兑现「酒吧里的危险女人」「认错人的重逢」「以弱胜强的近身缠斗」；反转在最后一句——对手不是来杀他的，她来谈条件，而且用的是请求的语气。
-- **人物弧线**：维克托从「用数字维持秩序」，到看清维持秩序的其实是「下一步」这个词，最后在洗手间里动手。他这一章唯一的目标不是打赢，是不让人看出他没有能力。
+- **人物弧线**：维克多从「用数字维持秩序」，到看清维持秩序的其实是「下一步」这个词，最后在洗手间里动手。他这一章唯一的目标不是打赢，是不让人看出他没有能力。
 - **叙事手法**：第三人称贴视角加极短段落。数字做节奏骨架（六个州、两杯酒、四个空位、七小时、五小时、八个人），对话段改成一句一段，用物件的动作（转吸入器、弹弹匣、钢丝咬进皮肤）替代心理描写。
 
 ## 精读
 
 > **原句 1:** "VICTOR sipped a whisky—neat—and counted. He counted the number of states he’d crossed—six—and the number of finished drinks in front of him—two—and the number of empty seats to his left—four."
 
-**中文理解**：维克托呷了一口纯威士忌，开始数数。他数自己穿过了几个州——六个——数面前喝空的酒杯——两只——数左手边的空位——四个。
+**中文理解**：维克多呷了一口纯威士忌，开始数数。他数自己穿过了几个州——六个——数面前喝空的酒杯——两只——数左手边的空位——四个。
 
 **关键词**：whisky—neat · counted
 
@@ -37,7 +37,7 @@ modified: "2026-11-01"
 
 > **原句 3:** "Victor told himself that’s what bothered him, the fact she’d deprived him of his closure, stolen his kill. But that was a lie. What bothered Victor most was that, for the first time in his life, he didn’t know what to do next. And he hated it. More than the absence of his powers."
 
-**中文理解**：维克托告诉自己，让他不痛快的是这个：她剥夺了他的了结，偷走了他那一杀。但那是谎话。最让他难受的是，有生以来第一次，他不知道下一步该做什么。而他恨这一点。恨它甚于恨能力的消失。
+**中文理解**：维克多告诉自己，让他不痛快的是这个：她剥夺了他的了结，偷走了他那一杀。但那是谎话。最让他难受的是，有生以来第一次，他不知道下一步该做什么。而他恨这一点。恨它甚于恨能力的消失。
 
 **关键词**：his closure · stolen his kill
 
@@ -47,33 +47,33 @@ modified: "2026-11-01"
 
 > **原句 4:** "But then his cellmate stepped forward, and smirked, and he knew it was neither a hallucination nor the real Mitchell Turner. It was June. The shapeshifting mercenary who’d gotten close to Sydney after Serena’s death, positioned herself as a surrogate sister. An EO almost as dangerous as Serena, and—he knew from experience—far harder to kill."
 
-**中文理解**：可接着他的狱友走上前来，露出那种笑，他就明白了：这既不是幻觉，也不是真的米切尔·特纳。那是琼——那个变形雇佣兵，在塞蕾娜死后接近西德妮，把自己摆成她的替代姐姐。一个几乎和塞蕾娜一样危险的 EO，而且——他凭经验知道——难杀得多。
+**中文理解**：可接着他的狱友走上前来，露出那种笑，他就明白了：这既不是幻觉，也不是真的米奇·特纳。那是琼——那个变形雇佣兵，在塞雷娜死后接近西德妮，把自己摆成她的替代姐姐。一个几乎和塞雷娜一样危险的 EO，而且——他凭经验知道——难杀得多。
 
 **关键词**：cellmate · Mitchell Turner · June
 
 **为什么这样写**：三句话完成一次身份的三级跳：幻觉、真人、琼。每一级都比上一级短，最后落在两个词上——It was June。介绍琼时没有写「她是谁」，而是用她做过什么来立人：接近、摆成、替代（gotten close to、positioned herself as、surrogate）。EO 这个缩写不作解释，靠上下文自己站住；harder to kill 后面挂一个插入语 he knew from experience，把她从传闻变成他亲手吃过的亏。
 
-**读者视角提示**：作者让他认出她，不是靠脸，是靠「笑」。前文写过真的米切尔从不 smirk，这条人物注脚在这一刻结算——他不是看穿了皮，是看穿了皮里那个忍不住的人。
+**读者视角提示**：作者让他认出她，不是靠脸，是靠「笑」。前文写过真的米奇从不 smirk，这条人物注脚在这一刻结算——他不是看穿了皮，是看穿了皮里那个忍不住的人。
 
 > **原句 5:** "Victor hit the catch on the gun, ejecting the clip, and with it, a length of steel wire that ran between the magazine and the grip. He’d thought of June more than once in the weeks since they met on bad terms and parted on worse. She was the only person Victor had found who was seemingly immune to his powers, when he had them."
 
-**中文理解**：维克托按下卡榫弹出弹匣，随之滑出一截钢丝——它一直藏在弹匣与握把之间。自那次不欢而散之后，这几周里他不止一次想起琼。她是他找到的唯一一个似乎对他的能力免疫的人——在他还有能力的时候。
+**中文理解**：维克多按下卡榫弹出弹匣，随之滑出一截钢丝——它一直藏在弹匣与握把之间。自那次不欢而散之后，这几周里他不止一次想起琼。她是他找到的唯一一个似乎对他的能力免疫的人——在他还有能力的时候。
 
 **关键词**：steel wire · immune to his powers
 
-**为什么这样写**：先给动作——按卡榫、弹匣滑出、钢丝露头——再回头交代这截钢丝的来历，句子顺序完全符合打架时的注意力：先处理手上的东西，再想别的。第二句的 met on bad terms and parted on worse 用对称结构给两人的关系下定义，比任何形容词都省。最后一句落在 immune 上，一个没有能力的维克托对付一个免疫他能力的人，其实是这场对峙里唯一公平的一种局面——对称得近乎残酷。
+**为什么这样写**：先给动作——按卡榫、弹匣滑出、钢丝露头——再回头交代这截钢丝的来历，句子顺序完全符合打架时的注意力：先处理手上的东西，再想别的。第二句的 met on bad terms and parted on worse 用对称结构给两人的关系下定义，比任何形容词都省。最后一句落在 immune 上，一个没有能力的维克多对付一个免疫他能力的人，其实是这场对峙里唯一公平的一种局面——对称得近乎残酷。
 
 **读者视角提示**：注意他「想过琼不止一次」这句放在打斗中间。作者让他分神，不是为了抒情，是为了告诉你：这个对手在他心里有专用的格子。
 
 > **原句 6:** "“If you came to kill me,” said Victor, “you’ll have to do it wearing someone else.” June scoffed and shook Mitch’s head. “Oh for fuck’s sake, Victor. I don’t want you dead.” That was a surprise. He frowned. “Then what do you want?” She looked up at him with Mitch’s stolen face, mischief shining in the eyes."
 
-**中文理解**：「如果你是来杀我的，」维克托说，「你得换一张皮来动手。」琼嗤了一声，摇了摇米切尔的头。「去他妈的，维克托。我不想让你死。」这倒让他意外。他皱起眉。「那你要什么？」她抬起那张偷来的米切尔的脸看他，眼里闪着促狭。
+**中文理解**：「如果你是来杀我的，」维克多说，「你得换一张皮来动手。」琼嗤了一声，摇了摇米奇的头。「去他妈的，维克多。我不想让你死。」这倒让他意外。他皱起眉。「那你要什么？」她抬起那张偷来的米奇的脸看他，眼里闪着促狭。
 
 **关键词**：someone else · I don’t want you dead
 
-**为什么这样写**：对话被切成很小的块，每块一到两句，中间夹一句叙述当节拍器（That was a surprise. He frowned.）。攻守因此从动作转到信息：他刚用钢丝把「米切尔」钉在地上，她一句话就把前提换掉——她不是来杀他的。mischief 这个词挑得准，它既不属于威胁也不属于善意，属于「有事要你办」。最后一句仍然不给他答案，只给一张偷来的脸和一双眼睛，把问题留在半空。
+**为什么这样写**：对话被切成很小的块，每块一到两句，中间夹一句叙述当节拍器（That was a surprise. He frowned.）。攻守因此从动作转到信息：他刚用钢丝把「米奇」钉在地上，她一句话就把前提换掉——她不是来杀他的。mischief 这个词挑得准，它既不属于威胁也不属于善意，属于「有事要你办」。最后一句仍然不给他答案，只给一张偷来的脸和一双眼睛，把问题留在半空。
 
-**读者视角提示**：《去他妈的，维克托》这句粗口是全场第一次有人不按他的节奏说话。作者让她用最随意的语气说出最关键的信息——这种错位，是这本书处理危险人物的常用手法。
+**读者视角提示**：《去他妈的，维克多》这句粗口是全场第一次有人不按他的节奏说话。作者让她用最随意的语气说出最关键的信息——这种错位，是这本书处理危险人物的常用手法。
 
 ## 本章词汇
 
@@ -103,4 +103,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-三年前，维克托在旅馆酒吧里用数字把自己钉在椅子上，药只剩六十三天、能力只剩故障、仇已经报完；一条黑狗把他引进洗手间，等在里面的琼披着米切尔的皮，被他用弹匣里的钢丝钉在地上，却只讨一杯酒。
+三年前，维克多在旅馆酒吧里用数字把自己钉在椅子上，药只剩六十三天、能力只剩故障、仇已经报完；一条黑狗把他引进洗手间，等在里面的琼披着米奇的皮，被他用弹匣里的钢丝钉在地上，却只讨一杯酒。

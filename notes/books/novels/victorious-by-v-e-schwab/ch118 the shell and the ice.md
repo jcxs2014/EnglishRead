@@ -40,7 +40,7 @@ modified: "2026-11-01"
 **读者视角提示**：这一块只写一个人的身体：吸不上气、满嘴铜味、往下塌；冰不碎的那一下，脚下的世界先没了。
 
 > **原句 5:** "But she couldn’t, because Mitchell Turner wasn’t dead—he was still dying—so all she could do was press her hands against his chest, to try to staunch the blood, or maybe just to let him know that she was there. That she would make everything okay again."
-**中文理解**：可她做不到，因为米切尔·特纳还没死——他正在死——她能做的只是把手按在他胸口，想堵住血，或者只是让他知道她在；让他知道她会让一切好起来。
+**中文理解**：可她做不到，因为米奇·特纳还没死——他正在死——她能做的只是把手按在他胸口，想堵住血，或者只是让他知道她在；让他知道她会让一切好起来。
 **关键词**：still dying · staunch the blood
 **为什么这样写**：`But she couldn’t` 一开口就是否定，`because` 紧跟给出缘由，两个破折号把 `he was still dying` 夹在中间，前后各留一拍。`all she could do was` 把办法缩到只剩一个动作：`press her hands against his chest`。后面 `or maybe just` 把目的从止血挪到陪伴，末句 `That she would make everything okay again.` 单独成句，语气比前面软。
 **读者视角提示**：这一块的重心不在伤口，在「做不了」：能用的本事用不上，剩下的只有两只手和一句话。

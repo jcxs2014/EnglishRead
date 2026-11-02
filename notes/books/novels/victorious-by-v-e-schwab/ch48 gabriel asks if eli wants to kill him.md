@@ -27,7 +27,7 @@ modified: "2026-11-01"
 
 > **原句 2:** "He considered the space between the chairs, wondered if he could break the table glass and cut the EO’s throat—wondered, the way he had a hundred times when he was in Serena’s grip—and knew, even as he thought it, that he couldn’t. His body wouldn’t let him. Yet."
 
-**中文理解**：他打量两把椅子之间的距离，想自己能不能砸开桌面玻璃，割开这个 EO 的喉咙；这样的念头他在塞蕾娜手里时起过上百次。可他想的同时就知道自己做不到：他的身体不让他动。暂时不。
+**中文理解**：他打量两把椅子之间的距离，想自己能不能砸开桌面玻璃，割开这个 EO 的喉咙；这样的念头他在塞雷娜手里时起过上百次。可他想的同时就知道自己做不到：他的身体不让他动。暂时不。
 
 **关键词**：the EO’s throat · Serena’s grip
 
