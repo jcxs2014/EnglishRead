@@ -86,7 +86,7 @@ modified: "2026-11-02"
 |---|---|---|
 | tentatively | 试探性地、犹豫地 | Reluctant to barge in on the reunited lovers, Peristyle scratched tentatively on the doors to Murtis’s room. |
 | fertilization | 受精、施肥 | The cycle of fertilization had begun anew, with death preceding life. |
-| declensions | 变格、词形变化 | “I’m definitely ready for the Third. All I need is some good maintenance and I’ll have perfectly mapped declensions in four languages for my exam.” |
+| impressions | 印象、初步观感（impression 的复数） | She spent the night in one of the rooms reserved for sex workers, recording first impressions of what she had seen at Pompeii. |
 | eyewitness | 目击者、亲历的 | Hopefully, these eyewitness observations would make her dissertation so good that it would be impossible to fail the Fourth. |
 
 ### ⭐⭐ 进阶
@@ -104,8 +104,8 @@ modified: "2026-11-02"
 |---|---|---|
 | refugees | 难民（refugee 的复数） | Mostly, the Unnamed refugees were looking for places to sleep at this point. |
 | courtyard | 庭院、院子 | Peristyle and Dido pointed them to the temple, and the courtyard a block away. |
-| grudge | 怨恨、芥蒂 | “I need to get on with things.” |
-| snuggled | 依偎（snuggle 的过去式） | Murtis snuggled closer to her. |
+| reunited | 重聚的、重逢的（reunite 的过去分词） | Reluctant to barge in on the reunited lovers, Peristyle scratched tentatively on the doors to Murtis’s room. |
+| refuge | 庇护、避难所 | Refuge |
 
 ## 一句话总结
 

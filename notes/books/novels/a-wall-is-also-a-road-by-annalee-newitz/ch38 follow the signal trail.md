@@ -86,7 +86,7 @@ modified: "2026-11-02"
 |---|---|---|
 | delineating | 划定、描述（delineate 的现在分词） | There are contracts delineating collab terms, specs for the device or process being shared, plus consent forms. |
 | disemboweled | 被掏开的、开膛的 | Buttress was puddled on the floor, their notebook disemboweled, its contents splattered around the shapeless spread of their body. |
-| resiliency | 韧性、复原力 | Wainscot was trying to exude a feeling of resilience. |
+| resilience | 韧性、复原力 | Wainscot was trying to exude a feeling of resilience. |
 | outlandish | 古怪的、离谱的 | “So it won’t seem outlandish that you might have stumbled upon this issue without intent.” |
 
 ### ⭐⭐ 进阶

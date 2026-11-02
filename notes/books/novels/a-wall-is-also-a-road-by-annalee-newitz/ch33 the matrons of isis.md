@@ -90,7 +90,7 @@ modified: "2026-11-02"
 |---|---|---|
 | committee | 委员会 | And late last year, she had secured a coveted seat on the festival organizing committee. |
 | percentage | 百分比、成数 | So that’s what she had been doing—even after Julia’s gift, she continued to give a percentage of her earnings to the temple. |
-| donate | 捐赠 | The best way to influence local politics, Murtis explained, was by donating to the Temple of Isis. |
+| donating | 捐赠、捐献（donate 的现在分词） | The best way to influence local politics, Murtis explained, was by donating to the Temple of Isis. |
 | brooch | 胸针、饰针 | Over a creamy tunic she draped her best wool shawl, dyed a deep Phoenician blue, and pinned it on one shoulder with a gold brooch in the shape of a bird’s wing. |
 
 ## 一句话总结

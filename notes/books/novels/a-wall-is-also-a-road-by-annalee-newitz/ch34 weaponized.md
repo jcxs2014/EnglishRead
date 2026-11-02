@@ -79,7 +79,7 @@ modified: "2026-11-02"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| disemboweled | 被掏空内脏的、被掏开的 | Buttress was puddled on the floor, their notebook disemboweled, its contents splattered around the shapeless spread of their body. |
+| destructive | 毁灭性的、破坏性的 | “There is some tenuous claim that it could be used as emergency medicine, like they told you. But it’s clear that the main use would be a massively destructive weapon.” |
 | hypocritical | 虚伪的 | “Unlike Rational People, who are never hypocritical.” |
 | tenuous | 站不住脚的、牵强的 | “There is some tenuous claim that it could be used as emergency medicine, like they told you.” |
 | conspiratorial | 密谋似的、心照不宣的 | They elongated and wriggled with a conspiratorial laugh. |

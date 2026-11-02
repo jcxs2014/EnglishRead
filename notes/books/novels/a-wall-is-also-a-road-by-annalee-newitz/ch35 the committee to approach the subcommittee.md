@@ -18,7 +18,7 @@ modified: "2026-11-02"
 > **原句 1:** "“I wanted to say properly that I’m sorry I fought with you. I still don’t think you were entirely right, but you weren’t wrong either.”"
 
 - **中文理解**：「我想正式地跟你说：吵那一场，对不起。我仍然不认为你全对，但你也并非全错。」
-- **关键词**：say properly / I’m sorry / not entirely right … weren’t wrong either
+- **关键词**：say properly / entirely right / weren’t wrong either
 - **为什么这样写**：道歉带着完整的立场来——不是收回判断（「你全对」），而是收回分寸（「我太狠」）。这个不对称的和解释放了对话：两人都不必假装被说服。properly 一词暗示上一次的道歉（如果有过）是不合格的。
 - **读者视角提示**：对照 ch22 的绝交（「我该为教得差而羞愧」）——两次「对不起」的差别：那次是怒极的自责，这次是冷静的核算。Column 的师者尊严在于：他可以认错方式，不认错内容。
 
