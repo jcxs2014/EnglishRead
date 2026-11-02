@@ -42,7 +42,7 @@ modified: "2026-11-02"
 
 - **为什么这样写**：章题在此引爆。smitten 先自首，红短裤与光膀子的画面把他的身体写成公共景观；第三句把「人人」的名单精确到最意外的群体——straight guys, jocks：直男球员对 Mark 的迷恋是全章的幽默引擎，也是伏笔（对同性身体的欲望可以否认到动手为止，Hank 正是极端案例）。她的迷恋被第二段自我修正为「向往他的从容」，欲望与友谊在开篇就划清了界。
 
-- **读者视角提示**：记下「直人为 Mark 疯狂」这条校园史——它把第 5 块 Hank 的暴力放进一个连续谱：从偷看到 osculation 到打碎头骨，距离比想象近。smitten 用在女友视角上本身就是反讽的甜。
+- **读者视角提示**：记下「直人为 Mark 疯狂」这条校园史——它把第 5 块 Hank 的暴力放进一个连续谱：从偷看到越界到打碎头骨，距离比想象近。smitten 用在女友视角上本身就是反讽的甜。
 
 > **原句 4:** "I had heard the rumor about him: Mark Johansen had come on to Hank Henry after the Spring Fling, so what choice did Hank have but to kick the faggot’s skull in? Hank was the campus frat king, a real refrigerator of a guy with a continent for a forehead."
 
