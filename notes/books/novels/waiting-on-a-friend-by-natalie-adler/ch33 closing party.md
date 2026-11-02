@@ -118,7 +118,7 @@ modified: "2026-11-02"
 
 - **中文理解**：可现在我的脑子里灯亮了。我的大脑，我意识到，太好了。我确切知道该做什么，也知道该怎么说服所有人跟我走。
 
-- **关键词**：the lights were on in my head / My brain was so good / convince everyone to come with me
+- **关键词**：the lights were on in my head / My brain, I realized, was so good / convince everyone to come with me
 
 - **为什么这样写**：停电成了她的通电：外面的灯灭掉，她内部的灯打开——这个反向的照明装置把本章转成行动的夜。三个短句的自夸在本章的气氛里毫无违和（可卡因＋哀悼＋生日季）：她需要这种麻痹式自信，才能把一群伤心人变成一支队伍。
 
