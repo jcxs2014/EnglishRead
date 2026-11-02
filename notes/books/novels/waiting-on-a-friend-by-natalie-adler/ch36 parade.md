@@ -70,7 +70,7 @@ modified: "2026-11-02"
 
 - **关键词**：a shrouded figure made of gauze / like a dragon / they were in the shroud itself / muscle and blood / memory and want
 
-- **为什么这样写**：她最后一次看见「鬼」的形态是终极模糊：一个由纱布与未知（外撑或内生）构成的飞行体——她把「谁在举起我们」这个形而上问题做成了一个无法辨认的装置。muscle and blood vs memory and want 的对句是全书的签名句之一：活着的人与亡者的差别被压到一根纱布的厚度。
+- **为什么这样写**：她最后一次看见「鬼」的形态是终极模糊：一个由纱布与未知（外撑或内生）构成的飞行体——她把「谁在举起我们」这个形而上问题做成了一个无法辨认的装置。who was muscle and blood and who was memory and want 的对句是全书的签名句之一：活着的人与亡者的差别被压到一根纱布的厚度。
 
 - **读者视角提示**：记住这个纱布身影：它与 ch32 那盏「坏了一夏的街灯」一样，属于「不解释的奇迹」清单。她的能力终点是承认看不清——这也正是她成长的证明（此前她总想确认）。
 
