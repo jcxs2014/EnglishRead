@@ -18,7 +18,7 @@ modified: "2026-11-02"
 
 - **中文理解**：比如红线政策，得名于办公室里的男人们用红笔在地图上圈出街区。整个社区被迁走、人被扫出去，可这一切都在光天化日之下。你藏不住一个拆迁铁球。
 
-- **关键词**：redlining / displaced and swept away / in plain sight / wrecking ball
+- **关键词**：redlining / displaced / swept away / in plain sight / wrecking ball
 
 - **为什么这样写**：开章先给全城命名一种暴力美学：最大的恶不遮掩，只走表格——红线政策三个字自带美术说明书。wrecking ball 的最后一句把「阴谋」从悬疑片拖回工地：本章的侦探戏之所以简单，是因为敌人根本不屑躲藏。这口气也替她的「尾随」计划卸掉智斗包袱：他们只是挑个日子跟上。
 
