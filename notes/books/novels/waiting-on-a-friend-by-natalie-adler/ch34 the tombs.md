@@ -128,7 +128,7 @@ modified: "2026-11-02"
 
 - **中文理解**：我们彼此依赖着才能活下来，这依赖如此显而易见——以至于唯一该害怕的人，反而是那些紧抱着「我不需要任何人」这一幻想的人。
 
-- **关键词**：depend on one another / in such obvious ways / the only people who should be scared / the fantasy of needing no one
+- **关键词**：depend on one another / in such obvious ways / the only people who should be scared / their fantasy of needing no one
 
 - **为什么这样写**：全书的伦理结论首次以定理形式出现：依赖是生存的既定条件，恐惧该归给拒绝依赖的人（即 Silverman/Rick）。这句把 ch29 的辩论判了胜负（「收起来是慈悲」败给「我们都得互相需要」），也让「鬼释放」与「家庭/朋友」两条线获得共同根据——城市是依赖的物理形态。
 
