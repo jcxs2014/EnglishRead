@@ -16,9 +16,9 @@ modified: "2026-11-01"
 ## 精读
 
 > **原句 1:** "Victor held up a hand, strained to hear something, anything, beyond the silence on the line. He strained and caught the soft echo of footsteps over metal grating, and a voice murmuring, “Sweet dreams,” followed by the scrape of the phone being lifted before the call abruptly disconnected."
-**中文理解**：维克多抬起一只手，越过听筒里的静默去听点什么。他第二次使劲，才捕到金属格栅上那串脚步的轻响，还有人低声说的一句「Sweet dreams」；接着是手机被拿起来的刮擦声，通话随即断掉。
+**中文理解**：维克多抬起一只手，越过听筒里的静默去听点什么。他再使了一次劲，才捕到金属格栅上那串脚步的轻响，还有人低声说的一句「Sweet dreams」；接着是手机被拿起来的刮擦声，通话随即断掉。
 **关键词**：strained to hear · metal grating
-**为什么这样写**：抬手这个动作被单独放在句子最前面，没交代是给谁看的；紧接着才是「听」，而且要第二次使劲才捕到东西——前一句里，听筒那头只有静默。声音由远及近排过来：先是格栅上的脚步，再是一句道别，最后才是手机被拾起的刮擦。道别那句话夹在中间，说话的人始终没有露面。收尾用 abruptly disconnected 把这条线掐断。
+**为什么这样写**：抬手这个动作被单独放在句子最前面，没交代是给谁看的；紧接着才是「听」，而且还要再使一次劲才捕到东西——前一句里，听筒那头只有静默。声音由远及近排过来：先是格栅上的脚步，再是一句道别，最后才是手机被拾起的刮擦。道别那句话夹在中间，说话的人始终没有露面。收尾用 abruptly disconnected 把这条线掐断。
 **读者视角提示**：读者听到的只有维克多听到的东西：脚步、一句道别、刮擦声。那头究竟发生了什么，这一段一个字都没给；电话断掉这一下，读者和维克多同时失去线索。
 
 > **原句 2:** "And that voice, like Syd’s, but softer, sweeter, more grown-up. A voice he’d never heard with his own ears because he’d stopped them up, so it couldn’t get inside his head, the night he cut its owner’s throat."
