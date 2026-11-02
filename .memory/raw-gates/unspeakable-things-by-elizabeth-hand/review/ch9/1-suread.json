@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch09",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "Olivia 递上香烟后向 Mrs. Fletcher 打听 Zennor 的接生婆，说只为在 Carn Kerys 结识、不知姓氏的女孩 Tamsin 而问。",
+   "anchor": "Do you know a midwife in Zennor?",
+   "start": 2249,
+   "end": 2281
+  },
+  {
+   "fact": "Mrs. Fletcher 把 Langley’s 杜松子酒掺进自己的茶杯，边抽烟边和 Olivia 交换消息。",
+   "anchor": "She splashed some gin into her teacup.",
+   "start": 1621,
+   "end": 1659
+  },
+  {
+   "fact": "Mrs. Fletcher 一口报出女孩全名：Tamsin Griggs，母亲是 Anna Griggs（Anna Eudy），两人从村校同学起相识，Anna 只有这一个活下来的孩子。",
+   "anchor": "That would be Tamsin Griggs",
+   "start": 2612,
+   "end": 2639
+  },
+  {
+   "fact": "Mrs. Fletcher 揭出 Olivia 是臀位难产：Anna 把手伸进去摸到她的小脚，脐带像被缠住的钓线绕在脚上。",
+   "anchor": "You were a breech birth.",
+   "start": 5053,
+   "end": 5077
+  },
+  {
+   "fact": "Olivia 的父亲用银质小刀割断脐带，Anna 骑马回家前他把刀相赠，还付了丰厚酬金。",
+   "anchor": "He gave it to Anna before she rode home.",
+   "start": 5649,
+   "end": 5689
+  },
+  {
+   "fact": "接生全程 Tamsin 被抱在 Mrs. Fletcher 怀里——Anna 自己的婴儿当时才几个月大，走不开只能带着去。",
+   "anchor": "And Tamsin in my arms the whole time!",
+   "start": 5895,
+   "end": 5932
+  },
+  {
+   "fact": "Anna Griggs 死于两年前，与 Olivia 生母去世时间差不多；Mrs. Fletcher 不肯说死因，只让她去问 Tamsin。",
+   "anchor": "About the same as your own mother, isn’t it?",
+   "start": 6311,
+   "end": 6355
+  },
+  {
+   "fact": "临别 Mrs. Fletcher 许诺：日后需要 Anna 那样的接生帮助就来找她（不是医生），并告诫 Olivia 永远不要相信男人。",
+   "anchor": "you ever need the help of someone like Anna Griggs, you come to me.",
+   "start": 6793,
+   "end": 6860
+  }
+ ]
+}

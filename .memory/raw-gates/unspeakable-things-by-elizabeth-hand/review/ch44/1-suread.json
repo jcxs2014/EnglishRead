@@ -1,0 +1,55 @@
+{
+ "book": "unspeakable-things-by-elizabeth-hand",
+ "chapter": "ch44",
+ "text": "notes/books/novels/unspeakable-things-by-elizabeth-hand/text/ch44_chapter_44.txt",
+ "facts": [
+  {
+   "fact": "叙述者手发着抖，把票根塞回钱包并合上。",
+   "anchor": "My hand shook as I slipped the ticket back into the wallet and folded it closed",
+   "start": 105,
+   "end": 184
+  },
+  {
+   "fact": "她再次打开钱包，看见污渍已渗到内里、连一张白色钞票的边缘也染上了，她认定那是血。",
+   "anchor": "I saw the stain had penetrated to the inside and even to the edge of one of the white banknotes",
+   "start": 523,
+   "end": 618
+  },
+  {
+   "fact": "她把钱包塞回原处、喘不上气，自问：如果 Maurice Kelville 真是在 Kerys Cove 失足落水，为什么会有血？",
+   "anchor": "why was there blood if Maurice Kelville had slipped and fallen into Kerys Cove",
+   "start": 842,
+   "end": 920
+  },
+  {
+   "fact": "Tamsin 穿着叙述者那件午夜蓝连衣裙回到房间，头发别得一丝不苟，叙述者忽然意识到自己面对的是个陌生人。",
+   "anchor": "fell demurely below her knees",
+   "start": 1234,
+   "end": 1263
+  },
+  {
+   "fact": "叙述者躲到扶手椅后质问对方：我在你大衣口袋里找到了这个钱包，它是 Kelville 的，你从哪儿拿的？",
+   "anchor": "I found the wallet in your coat pocket",
+   "start": 2366,
+   "end": 2404
+  },
+  {
+   "fact": "对方承认钱包是 Kelville 出门时落在桌上、被她拿走的。",
+   "anchor": "He left it on the table when he went outside",
+   "start": 2551,
+   "end": 2595
+  },
+  {
+   "fact": "面对推人、杀人的质问，对方坚持他只是摔下去了、至今没有音讯，她声音发碎地说\"你知道不是我干的\"。",
+   "anchor": "How could I have killed him?",
+   "start": 2999,
+   "end": 3027
+  },
+  {
+   "fact": "对方下楼独自在仆人大厅喝茶无人理会，听见两个司机和一个伺候伦敦年轻老爷的人说这里被叫做 Bluebeard's Castle。",
+   "anchor": "they call this place Bluebeard’s Castle",
+   "start": 4958,
+   "end": 4997
+  }
+ ]
+}

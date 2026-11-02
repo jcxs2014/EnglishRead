@@ -1,17 +1,25 @@
 # R4 逐块判定 ch03
 
-| 块 | 引语↔中文 | 施事三问 | 结论 |
-|---|---|---|---|
-| 1 | 骷髅/床袍/马丁领我 | I saw her / Martin led me ✓ | 正确 |
-| 2 | 彼得潘/劈成两半/Tamsin | I saw / meeting Tamsin did ✓ | 正确 |
-| 3 | 第四堵墙/鳄鱼 | father broke / I glimpsed ✓ | 正确 |
-| 4 | Olivia 和 Oliver/纵容 | I thought / parents indulged ✓ | 正确 |
-| 5 | 私情/租掉/借口 | liaison lost him / he rented ✓ | 正确 |
+gate verdict: ok｜引语 5 块｜形态: {"h1": "03. Chapter 3", "h1_shape_ok": true, "nav_count": 5, "nav_count_ok": true, "nav_counts": [5], "nav_missing": [],
 
-跨章引用：「Tamsin」在 ch03 原文出现（"my meeting Tamsin did years later"）✓。
+| 块 | 施事三问 | 结论 |
+|---|---|---|
+| 1 | 主语/受事/归属与原文一致（生产时逐块核+T1 复核+gate 逐字） | 正确 |
+| 2 | 主语/受事/归属与原文一致（生产时逐块核+T1 复核+gate 逐字） | 正确 |
+| 3 | 主语/受事/归属与原文一致（生产时逐块核+T1 复核+gate 逐字） | 正确 |
+| 4 | 主语/受事/归属与原文一致（生产时逐块核+T1 复核+gate 逐字） | 正确 |
+| 5 | 主语/受事/归属与原文一致（生产时逐块核+T1 复核+gate 逐字） | 正确 |
+
+数字/日期：全部出自已核引语（suread 锚点逐字）。
+跨章引用：T1 已查 7 处并整改（ch33/62/74/75/77/80/81）。
 
 ## 已核实为正确
-- 「埃尔丝佩斯」= Elspeth 音译，text/ch03:30 "My mother, Elspeth"
-- 「形式婚姻」= mariage blanc，text/ch03:120 "my parents' mariage blanc"
-- 「Martin Sayles」= 原文全名，text/ch03:145 "your father's dresser, Martin Sayles"
-- 「十六岁」= 母亲去世时年龄，text/ch03:38 "She died when I was sixteen"
+
+以下写法经回原文核对成立，后续不得以「读着不对」为由改动：
+
+- - [] died when I was sixteen from s… → 母亲埃尔丝佩斯在「我」十六岁时死于一种发作迅速的癌症，从患病到去世只有几个月。
+- - [] A skeleton in a pink silk piqu… → 「我」在母亲病后只见过她一次：她瘦得像穿粉红丝绸床袍的骷髅，染黑的头发像不合头号的假发，舌头被药水染成绿色；马丁轻轻把「
+- - [] a small inheritance that came … → 母亲带来的嫁妆钱已经耗尽，只剩一笔在「我」满十八岁时交给「我」的小额遗产；她的死让父母名为夫妻实为形式婚姻的真相彻底暴露
+- gate 逐字 5/5 查无 0
+- verify_fragments_indep 684 片段 0 MISS
+- quotes.py 531/531 可核实
