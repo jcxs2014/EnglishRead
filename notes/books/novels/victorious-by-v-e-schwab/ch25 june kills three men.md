@@ -7,7 +7,7 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：朱恩借着金发女人 Ginny 的身体，跟贝拉、格蕾丝一起进了市中心酒店二十三层的一间套房；房里三个男人正为吞并对手俱乐部庆功。她用刀锋抹过倚门那人的喉咙——那把刀先前还用来削过一片橙皮，在枪响前把自己换进沙发上那人身上，让那三发子弹打进他自己的胸口，再把窗边那人打出落地窗。收工后她换回自己那张脸，倒了一杯最好的威士忌，多年里第一次用自己的舌头尝到酒，然后动身去兑现对维克多的承诺：查 EON。
+- **一句话概括**：琼借着金发女人 Ginny 的身体，跟贝拉、格蕾丝一起进了市中心酒店二十三层的一间套房；房里三个男人正为吞并对手俱乐部庆功。她用刀锋抹过倚门那人的喉咙——那把刀先前还用来削过一片橙皮，在枪响前把自己换进沙发上那人身上，让那三发子弹打进他自己的胸口，再把窗边那人打出落地窗。收工后她换回自己那张脸，倒了一杯最好的威士忌，多年里第一次用自己的舌头尝到酒，然后动身去兑现对维克多的承诺：查 EON。
 
 - **情感弧线位置**：属 Part 2「Assessment」的部内第六章，页眉是「NOW. THEN. MEANWHILE, IN DOWNTOWN MERIT …」。这一章离开主线现场，是插进来的一次外勤。前半她待在别人的身体里，被男人从头到脚打量，语气一直冷；动手之后句子变短、动词变密；结尾她把脸换回来，一个人站在碎玻璃和钞票中间喝一杯，节奏重新放慢。
 
@@ -21,11 +21,11 @@ modified: "2026-11-01"
 
 > **原句 1:** "“Didn’t know you were working,” muttered the redhead, Grace, crossing her arms and blowing a dark curl out of her face. No love there, thought June, though she didn’t know the drama. A glancing touch was enough to borrow a whole body, but memories were trickier things."
 
-**中文理解**：红发的格蕾丝压着嗓子说「不知道你也接活」，抱着手臂把一缕深色卷发吹开。朱恩看出这两人之间没有交情，却不知道是为了什么——她只借了身体，没借到记忆。轻轻一碰就够她借用整具身体，可记忆是更难搬走的东西。
+**中文理解**：红发的格蕾丝压着嗓子说「不知道你也接活」，抱着手臂把一缕深色卷发吹开。琼看出这两人之间没有交情，却不知道是为了什么——她只借了身体，没借到记忆。轻轻一碰就够她借用整具身体，可记忆是更难搬走的东西。
 
 **关键词**：glancing touch · memories were trickier
 
-**为什么这样写**：三个人见面本该先认人，这一段先给的是她认不出的那部分。格蕾丝的敌意是一个没有上下文的信号（No love there），朱恩只能看见表情，读不到缘由；memory 的缺口用一句规则补上，后面每一次冒充都受这条规则约束。
+**为什么这样写**：三个人见面本该先认人，这一段先给的是她认不出的那部分。格蕾丝的敌意是一个没有上下文的信号（No love there），琼只能看见表情，读不到缘由；memory 的缺口用一句规则补上，后面每一次冒充都受这条规则约束。
 
 **读者视角提示**：读者此刻只知道她借了身体，不知道借的是谁的身体；连「她长什么样」都还没人交代。能确认的只有一件事：身体的记忆不在她手上，所以她说的话、认的人，随时可能穿帮。
 
@@ -61,7 +61,7 @@ modified: "2026-11-01"
 
 > **原句 5:** "Bella shot up from the sofa and stumbled toward the door, half dressed, as if she was in any danger. June didn’t have a chance to reassure her because the Man on the Couch lunged for the gun on the table, and she had just enough time to trade the blonde she’d been wearing right before he fired three shots into her chest."
 
-**中文理解**：贝拉从沙发上弹起来往门口跑，衣服只穿了一半，仿佛她真有危险似的。朱恩来不及安抚她——沙发上那男人扑向桌上的枪，她只够在枪响之前把身上那具金发身体换掉，于是三发子弹打进去的不是她的胸口。
+**中文理解**：贝拉从沙发上弹起来往门口跑，衣服只穿了一半，仿佛她真有危险似的。琼来不及安抚她——沙发上那男人扑向桌上的枪，她只够在枪响之前把身上那具金发身体换掉，于是三发子弹打进去的不是她的胸口。
 
 **关键词**：trade the blonde · three shots
 
@@ -81,7 +81,7 @@ modified: "2026-11-01"
 
 > **原句 7:** "June met her eyes—her eyes, green as the surf on a stormy day—and sipped, tasting the spirit for the first time in years. She let it sit on her tongue, smoky and sweet, let it slide through her when she swallowed, warming in its wake."
 
-**中文理解**：朱恩和自己的眼睛对上——那双眼睛绿得像暴风雨天的海浪——抿了一口，这是多年来第一次尝到酒的味道。她让酒停在舌头上，烟熏味带着甜，咽下去时一路暖过来。
+**中文理解**：琼和自己的眼睛对上——那双眼睛绿得像暴风雨天的海浪——抿了一口，这是多年来第一次尝到酒的味道。她让酒停在舌头上，烟熏味带着甜，咽下去时一路暖过来。
 
 **关键词**：green as the surf · spirit
 

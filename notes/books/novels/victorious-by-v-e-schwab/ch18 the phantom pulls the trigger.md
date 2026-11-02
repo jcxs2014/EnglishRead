@@ -59,7 +59,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：被抹掉的是几小时，不是几分钟；读完这一段，该回头想那几小时里谁做了什么。
 
-> **原句 5:** "He took a step toward her, and her expression flickered like a light short-circuiting, flashing first surprise, then joy, then rage. Before he could say anything, she swung the gun up, aiming at his chest."
+> **原句 5:** "Victor lit a Bunsen burner, and held the scrap paper over it, watching the formula burn. “You’re awfully paranoid,” mused Xavi as he swept the ashes into the sink. “I’m careful,” countered Victor, tapping his temple. “Better the right head than the wrong hands. Let’s go.”"
+
+**中文理解**：维克多点着本生灯，把那张写着配方的废纸举在上方，看着配方烧成灰。「你多疑得厉害。」沙维一边把灰扫进水槽一边说。「我是谨慎。」维克多敲了敲太阳穴回答，「宁可要对的脑袋，不要错的手。走吧。」
+
+**关键词**：Bunsen burner · watching the formula burn
+
+**为什么这样写**：烧纸这一段把三件事压进一个动作：化学家还在场（他刚被抹掉记忆）、证据在销毁（纸和灰）、而抹记忆的人也没被灭口（Xavi 还在，还敢接话）。Xavi 说完「你多疑」把责任推给维克多，维克多用「宁可要对的脑袋，不要错的手」把多疑改写成原则——四个字的对仗（对的脑袋／错的手）是他给自己找的正当性。
+
+**读者视角提示**：读者会在这里第一次看见他的做事方法：不是销毁证据了事，是销毁证据之后还要把执行的人也留着，因为下一次配药还得用他。
+
+> **原句 6:** "He took a step toward her, and her expression flickered like a light short-circuiting, flashing first surprise, then joy, then rage. Before he could say anything, she swung the gun up, aiming at his chest."
 
 **中文理解**：他朝她走了一步，她的表情像短路的灯一样闪——先是惊讶，接着是高兴，然后是暴怒。他一句话还没出口，她已经把枪抬起来，对准他的胸口。
 
@@ -69,7 +79,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：他走的那一步是主动的，她的枪是被这一步触发的；这一来一往之间没有一句对白，全由距离和手指完成。
 
-> **原句 6:** "Victor Vale had never been ordinary. Even before his near-death experience, he was the smartest in the room, the top of his class, three steps ahead in every game he played. And after, he was uncatchable."
+> **原句 7:** "Victor Vale had never been ordinary. Even before his near-death experience, he was the smartest in the room, the top of his class, three steps ahead in every game he played. And after, he was uncatchable."
 
 **中文理解**：Victor Vale 从来不是普通人。就算在濒死之前，他也是屋里最聪明的那一个，班上第一，玩什么游戏都比别人多算三步；那件事之后，他更是抓不住的。
 

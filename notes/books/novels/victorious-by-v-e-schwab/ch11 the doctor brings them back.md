@@ -25,7 +25,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：先把十九天记住。一个人昏迷十九天，意味着这中间所有该由他到场的事他都缺席了；后来他非要从床上起来，力气就从这个数里来。
 
-> **原句 2:** "He knew, and so he braced for the force of the cataclysmic news to hit, unsure which would overwhelm him first. He waited for the sickening lurch of his world crashing down a second time. He waited, but the world did not even tremble."
+> **原句 2:** "“According to the medics, that steel bar kept you from being crushed beneath the wall, but you lost an awful lot of blood. By the time they cut you free, you didn’t have a pulse. No telling exactly how long your brain went without oxygen, but a good old-fashioned defib and two transfusions later…”"
+
+**中文理解**：按医护的说法，那根钢条保住了他，没让他被压在墙底下；但他失血太多，他们把他挖出来的时候已经没有脉搏，也说不准大脑缺氧多久——「一阵老式的除颤、加上两次输血之后……」
+
+**关键词**：defib and two transfusions · steel bar
+
+**为什么这样写**：沃尔什这段话把加百列的身体账目一次报清：钢条挡了挤压（没有塌方的直写），失血过量（后来复活时才需要处理），挖出来时没有脉搏（所以才用得上除颤）。三项全用间接说法——「according to the medics」「you didn’t have a pulse」「no telling exactly how long」——把结论推给专业判断，像一份转述的诊断书。末尾那个悬着的省略号停在「之后」，把结果交给加百列自己——他已经知道了。
+
+**读者视角提示**：读者此时还不知道他后来能复活活人，所以这句除颤加两次输血只是「他差一点点就死了」的医学背景。等他在地下室把妻子拉回来，同一段身体的严重程度才被重新解释成别的东西。
+
+> **原句 3:** "He knew, and so he braced for the force of the cataclysmic news to hit, unsure which would overwhelm him first. He waited for the sickening lurch of his world crashing down a second time. He waited, but the world did not even tremble."
 
 **中文理解**：他清楚悲恸会以哪些方式到来，所以提前绷紧了身体，等着那条灾难性的消息砸下来，还猜不准先压垮他的是消息本身，还是世界第二次塌陷的那种失重。他等着，可世界连抖都没有抖一下。
 
@@ -35,7 +45,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：注意 a second time。世界已经塌过一次，这次连塌都省了——他等的其实是自己该有的反应，而那个反应没有来。
 
-> **原句 3:** "He felt her lungs expand, slow and smooth, like a body on the edge of sleep. Gabriel pulled back and saw the color creeping back into her skin, the postmortem incisions erased, along with the cut on her cheek, the shadows where blood had pooled beneath her skin."
+> **原句 4:** "He felt her lungs expand, slow and smooth, like a body on the edge of sleep. Gabriel pulled back and saw the color creeping back into her skin, the postmortem incisions erased, along with the cut on her cheek, the shadows where blood had pooled beneath her skin."
 
 **中文理解**：他的手还贴在她脸上时，她的肺慢慢鼓起来，平顺得像一个刚要睡着的人。他退开，看见血色一点点回到她皮肤里，尸检的切口不见了，脸颊上那道小伤口也不见了，皮下沉着的淤血影子一并退掉。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一段里没有「奇迹」，也没有「能力」这类词。他还在看，还没开始想自己做了什么——理解要晚一步才到。
 
-> **原句 4:** "Gabriel moved—injuries forgotten, or at least, suppressed by the hierarchy of need. He swept a scalpel from a nearby tray, reaching the call button just before Walsh. His body had come free of his mind, and he watched, as if outside himself, as one hand caught the doctor’s shoulder, spinning him round, and the other drew the blade in a quick, clean slice across the man’s throat."
+> **原句 5:** "Gabriel moved—injuries forgotten, or at least, suppressed by the hierarchy of need. He swept a scalpel from a nearby tray, reaching the call button just before Walsh. His body had come free of his mind, and he watched, as if outside himself, as one hand caught the doctor’s shoulder, spinning him round, and the other drew the blade in a quick, clean slice across the man’s throat."
 
 **中文理解**：他动了，伤被忘掉，或者说是被「需要的轻重缓急」压了下去；他从旁边的托盘上抄起一把手术刀，比沃尔什早一步赶到呼叫按钮前。身体像从意识里脱了钩，他站在自己之外看着：一只手扣住医生的肩，把他转过来，另一只手飞快、干净地横过他的喉咙。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：他先赶到的是呼叫按钮，不是门。他拦住的是「求救」这个动作；从这一下起，这间屋子对外的通道就归他管了。
 
-> **原句 5:** "He closed them and imagined reaching out for Ian. Catching his son’s fingers as he couldn’t on the stairs, pulling him forward, and there it was again, that cresting feeling, the swell he’d taken for grief. But this time, he understood."
+> **原句 6:** "He closed them and imagined reaching out for Ian. Catching his son’s fingers as he couldn’t on the stairs, pulling him forward, and there it was again, that cresting feeling, the swell he’d taken for grief. But this time, he understood."
 
 **中文理解**：他闭上眼，想象自己伸手去够伊恩——像在楼梯上没能抓住那样，这一回抓住儿子的手指，把他往前拉。那股涌上来的感觉又出现了，就是他先前当成悲恸的那一阵涨潮。可这一次，他明白了。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：往后读时留意「抓」这个动作。他失手过一次，此后每一次伸手都带着把它补回来的意思——这也是他越来越不问对方愿不愿意的原因。
 
-> **原句 6:** "Iris used to cock a brow if he ever asked her to do something without a please and thank you on the end, but now, she obeyed. A quiet dread crept over Gabriel, and his mind began to tick through a litany of diagnoses—from shock to cognitive impairment—before he pushed the thought away. There would be time for questions later."
+> **原句 7:** "Iris used to cock a brow if he ever asked her to do something without a please and thank you on the end, but now, she obeyed. A quiet dread crept over Gabriel, and his mind began to tick through a litany of diagnoses—from shock to cognitive impairment—before he pushed the thought away. There would be time for questions later."
 
 **中文理解**：从前他支使她做事、句尾不带「请」和「谢谢」，艾瑞斯会挑起一边眉毛；现在她照做了。一阵安静的恐惧爬上来，他的脑子开始一条条过诊断，从休克到认知损伤，然后把这个念头推开了。末尾他自己给自己留了一句：问题以后再问。
 
@@ -75,7 +85,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：把「挑眉」记牢。整章他都在用「她只是休克」说服自己，而读者手上已经有了对照：会挑眉的艾瑞斯和照做的艾瑞斯，不是同一个人。
 
-> **原句 7:** "“We need to go,” said Gabriel, holding out his hands for his wife, his son. They came to him, of course, their fingers sliding through his, Iris’s soft, smooth palm, and Ian’s small fist, and in the moment, that was what mattered."
+> **原句 8:** "“We need to go,” said Gabriel, holding out his hands for his wife, his son. They came to him, of course, their fingers sliding through his, Iris’s soft, smooth palm, and Ian’s small fist, and in the moment, that was what mattered."
 
 **中文理解**：「我们得走了，」他说，向妻子和儿子伸出手。他们当然过来了，手指滑进他手里——艾瑞斯柔软平滑的掌心，伊恩的小拳头。那一刻，要紧的就是这个。
 
