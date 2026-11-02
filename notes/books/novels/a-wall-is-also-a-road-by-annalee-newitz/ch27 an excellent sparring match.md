@@ -74,7 +74,7 @@ modified: "2026-11-02"
 > **原句 9:** "Something subtle changed at the Plumline Lab the next journey, after Wainscot made a characteristic fuss about announcing their competition with Gardenpath. … Quietly, cautiously, people started talking about Plumline’s teaching methods."
 
 - **中文理解**：第二天，Plumline Lab 里有什么起了微妙的变化——Wainscot 照例大张旗鼓地宣布了与 Gardenpath 的竞争。……悄悄地、谨慎地，人们开始谈论 Plumline 的教学方法。
-- **关键词**：a characteristic fuss / banded together / started talking
+- **关键词**：a characteristic fuss / announcing their competition / started talking
 - **为什么这样写**：个体自救向集体行动的扩散被写成一场安静的传染：一个高调宣言（表演给监视者看）意外成了暗号——别人看懂了「结伴」的功能，纷纷效仿。started talking 的主语是复数的人：沉默的合谋第一次有了人数。
 - **读者视角提示**：对照 Nuraghe 的求助与警告低年级的计划——「不能总是单独和导师在一起」从求生技巧变成公共议题。记住这个链式反应：反抗 Memory 的组织形态在本书里从来不是宣言，是模仿。
 
@@ -103,7 +103,7 @@ modified: "2026-11-02"
 | complimentary | 赞美的、恭维的 | Maybe Plumline intended to be complimentary, but their words were so nakedly manipulative that it was hard to take them seriously. |
 | decontextualized | 去语境化的、脱离背景的 | Carefully making one of their gnosomes more permeable, they released a string of proteins that encoded the decontextualized sensation of being forced to cluster when Murtis touched their arm. |
 | disciplines | 管教、训诫（discipline 的第三人称单数） | “They said it’s been proven that students learn better when their teacher disciplines them from inside.” |
-| pragmatically | 务实地、讲实际地 | “Who would we tell?” Wainscot’s tone was abruptly measured and pragmatic. |
+| pragmatic | 务实的、讲实际的 | “Who would we tell?” Wainscot’s tone was abruptly measured and pragmatic. |
 
 ### ⭐ 常用
 
