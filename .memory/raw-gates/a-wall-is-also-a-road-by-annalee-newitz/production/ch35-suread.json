@@ -1,0 +1,43 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch35",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch35_chapter_35_the_committee_to_approach_the.txt",
+ "facts": [
+  {
+   "fact": "Column 和解（「我也不轻——你也并不全错」）并说出书题句：「挡住 Plumline 的是一堵攻不破的墙？——没错。可墙也是一条路」；策略：他的数据操作不违反明文规则，「但他们可能坏了别的规矩——去查那个 Galleon 合作者」。",
+   "anchor": "But a wall is also a road",
+   "start": 2938,
+   "end": 2963
+  },
+  {
+   "fact": "关系更新：「现在他是我的爱人。是伴侣，是朋友。早就不算研究对象——直到 Plumline 又把他变回研究对象。」",
+   "anchor": "Murtis is my lover",
+   "start": 2124,
+   "end": 2142
+  },
+  {
+   "fact": "调查汇总：银流前同事不肯公开指控（「跟科学部主任结梁子太危险」）；Turret 翻遍数百项目找不满的合作者，线索全断——「没人敢点最强科学家之名」。",
+   "anchor": "Nobody wanted to call out",
+   "start": 4021,
+   "end": 4046
+  },
+  {
+   "fact": "Nuraghe 的线索：提案里的几个 Galleon 社区与 Memory 并无既有合作——「这本身就可疑」。",
+   "anchor": "don’t have existing collaborations",
+   "start": 4548,
+   "end": 4582
+  },
+  {
+   "fact": "Column 定路线：记下 Plumline 计划的每个名字——「如果是我想的那个，我们也许能去敲学术参议院伦理小组委员会的门」——「我们这个小委员会，也许很快就能跟他们那个小委员会说上话了」。",
+   "anchor": "ethics subcommittee",
+   "start": 5017,
+   "end": 5036
+  },
+  {
+   "fact": "Oriel 缺席聚会（没请假没消息），此后六个 stop 只在集群里惊鸿一瞥、分离即走、不留气味。",
+   "anchor": "no scent in their wake",
+   "start": 5850,
+   "end": 5872
+  }
+ ]
+}

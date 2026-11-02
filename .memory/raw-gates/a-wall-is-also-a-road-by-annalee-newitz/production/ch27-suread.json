@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch27",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch27_chapter_27_an_excellent_sparring_match.txt",
+ "facts": [
+  {
+   "fact": "Plumline 支开 Wainscot 单独操练：先吹捧（「比 Wainscot 有前途得多」「也许几代内最聪明」），随后毒素强制进入体内——「给我看碰 director cells 时发生了什么！不是数据，是体验本身！」",
+   "anchor": "a far more promising student than Wainscot",
+   "start": 348,
+   "end": 390
+  },
+  {
+   "fact": "Gardenpath 以堆肥船岁月为盾（脱水、脑雾、硬扛）拼回控制权，释放去语境化的感觉包、修剪掉文化推测；「第一次怀疑：Memory 是不是把「想知道」的冲动与「想征服」的冲动弄得无法区分」。",
+   "anchor": "the urge to know things",
+   "start": 5309,
+   "end": 5332
+  },
+  {
+   "fact": "Plumline 贬低最忠诚的学生（「Wainscot 爱夸张；你才是真天才」）——夸奖尝起来像腐烂；Gardenpath 为 Wainscot 愤怒。",
+   "anchor": "prone to exaggeration",
+   "start": 5791,
+   "end": 5812
+  },
+  {
+   "fact": "Wainscot 崩溃吐真相：长期被这样「操练」、直到你出现；「他们一直说我得更努力。但疼得像被谋杀」；「他们说这是被证明过的：老师从体内管教时学生学得更快——痛帮你彻底吸收知识」（引用 Cloud Wars 研究）。",
+   "anchor": "It feels like being murdered",
+   "start": 7363,
+   "end": 7391
+  },
+  {
+   "fact": "Oriel 定性：完全是谎言，是虐待；但 Wainscot/Gardenpath 的现实主义（「Plumline 管着所有科学系」「Column 是没人尊重的新教授，找他只会更糟」「会毁掉我们的职业生涯」）堵死了举报路。",
+   "anchor": "It’s abuse, not teaching",
+   "start": 9068,
+   "end": 9092
+  },
+  {
+   "fact": "自救方案成形：假竞争——「让 Plumline 觉得这是演给他们看的，他们爱这个」；Wainscot 与 Gardenpath 第一次以同事而非敌人的眼神相对。",
+   "anchor": "a race to pass the Third",
+   "start": 11062,
+   "end": 11086
+  },
+  {
+   "fact": "连锁效应：其他学生纷纷采用竞争学习法避单独；Nuraghe（白膜褐斑）致谢并提议警告低年级——担心 gnosomes 被感染失忆。",
+   "anchor": "Once they’ve been inside you",
+   "start": 13470,
+   "end": 13498
+  },
+  {
+   "fact": "Molecular Exam 的循环逻辑：要提出假说先得有假说；假摔跤真生气（合法喷氨）；Plumline 定考期 Contribution，宣称「战斗是交流与学习的最高形式」。",
+   "anchor": "The Memory was enamored of circular logic",
+   "start": 15241,
+   "end": 15282
+  }
+ ]
+}

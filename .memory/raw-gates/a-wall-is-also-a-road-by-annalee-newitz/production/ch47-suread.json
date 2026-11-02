@@ -1,0 +1,43 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch47",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch47_chapter_47_a_new_memory.txt",
+ "facts": [
+  {
+   "fact": "New Memory 按传统方式宣告建社：向三个社区申请合作——科学部、中转厅、Skiff 的蓝集群云民；Turret 重访故土谈成了协议：修复 Cloud Wars 损伤的四颗行星——项目正式启动，New Memory 成立。",
+   "anchor": "mitigate environmental instability",
+   "start": 592,
+   "end": 626
+  },
+  {
+   "fact": "「New Memory 是 Rational 空间第一个与 Skiff 任何人建合作的社区」，也是第一个成功从 Memory 挖走顶尖人才的；Gardenpath 的论文成书后「像冲击波一样传遍 Globe」。",
+   "anchor": "the first community",
+   "start": 785,
+   "end": 804
+  },
+  {
+   "fact": "吸引力的真相：不是发现本身，是承诺——「在这个社区，文化与科学平权」；Column 领衔跨学科实验室（科学、政策、文化一塔同堂），Column Lab 与 Memory 的 Wainscot Lab 合作研究采矿的社会影响。",
+   "anchor": "culture and science would carry equal weight",
+   "start": 1334,
+   "end": 1378
+  },
+  {
+   "fact": "Wainscot 是原隐蔽行动组唯一留在「Old Memory」（大家已这么叫）的人——「你们需要一个内线！另外，随时可以用我的 probe 发射器」。",
+   "anchor": "You need someone on the inside",
+   "start": 1733,
+   "end": 1763
+  },
+  {
+   "fact": "集群在 Cut-in-Forest 靠近中转厅处安家（cluster bowl 能望见 Spigot）——「Murtis 也在外面呢」：在店里招呼客人、组织游行、与 Julia 吃饭；「Gardenpath 确信：若不是他们，自己拿到博士学位时将连一件事都没真正学会」。",
+   "anchor": "without ever learning a single thing",
+   "start": 2300,
+   "end": 2336
+  },
+  {
+   "fact": "独处时她望向星系之外、被拒的半球——「他们在那边确实有过一个第一集群。不 Rational，但有那么一阵，它曾是家。」",
+   "anchor": "spurned hemisphere",
+   "start": 2529,
+   "end": 2547
+  }
+ ]
+}

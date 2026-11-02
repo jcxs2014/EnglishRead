@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch03",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch03_chapter_3_nonrandom_vibrations.txt",
+ "facts": [
+  {
+   "fact": "Gardenpath 调出能挡辐射的视觉滤镜后伸出试探性眼睛，把世界重新聚焦，宣布开始地面勘察（ground-truthing）。",
+   "anchor": "At last they found one that blocked most radiation, and sent out a tentative eye.",
+   "start": 205,
+   "end": 286
+  },
+  {
+   "fact": "Gardenpath 在山上发现成片植物：种类繁多、却长成整齐的行列，像出于有意识的设计；这些是光合者，茎上挂着黑色液囊。",
+   "anchor": "There was a regularity to their growth patterns: They sprouted in tidy rows, as if by conscious design.",
+   "start": 2027,
+   "end": 2130
+  },
+  {
+   "fact": "Gardenpath 在土里找到一只原核生物，分子读数显示它的邻居在与植物交换氮，Gardenpath 判断它们可能在从事农业，于是设定护甲过滤器传出化学信号自我介绍。",
+   "anchor": "A quick molecular reading revealed that some of the prokaryote’s neighbors were exchanging nitrogen with the plants. They could be farming.",
+   "start": 2663,
+   "end": 2802
+  },
+  {
+   "fact": "Gardenpath 无意中抓到一只粉色动物，发现它是多细胞动物：数千乃至数百万生命体结合在一个无脊椎身体里活动；拍遍各波长影像后把它放走。",
+   "anchor": "There were thousands, perhaps millions of life-forms bound together in this single invertebrate body, and it was moving around, like a mindless primeval cluster.",
+   "start": 3709,
+   "end": 3870
+  },
+  {
+   "fact": "现实压上来：这正是 Professor Arch 警告过的局面——要说服怀恨者得比 Wainscot 那样的人多花五倍力气，最终奖励可能是第一场考试不及格。",
+   "anchor": "Discovering nothing was bad, but discovering everything? That was worse.",
+   "start": 4969,
+   "end": 5041
+  },
+  {
+   "fact": "两个更大的生命体出现，发出的振动被限制在窄频段、含复杂重复短语，近乎语法；Gardenpath 把首个生物编目为 Animal1，其余两只编为 Animal2 与 Animal2A。",
+   "anchor": "Gardenpath cataloged the first life-form under the name Animal1 and the others became Animal2 and Animal2A.",
+   "start": 8167,
+   "end": 8274
+  },
+  {
+   "fact": "三十个光期后 Gardenpath 积累了七百个生命形式的初步数据集；Animal2 个体是超过二十万亿真核生物结合成的集群，随后 150 转里在可成像距离遇到 107 只。",
+   "anchor": "Over the next 150 rotations, Gardenpath encountered 107 unique Animal2 organisms at ranges close enough to image and record.",
+   "start": 9722,
+   "end": 9846
+  },
+  {
+   "fact": "一只 Animal2 在工作点歇脚，Gardenpath 伸臂想碰，对方似乎察觉后跳起用两臂蹒跚离开；孤独波让 Gardenpath 的膜起皱、收紧誓言受体，最后猛然发现自己已离开近两个旅程、错过整个 Clustertime。",
+   "anchor": "They reached out a tentative arm. Perhaps sensing them, the Animal2 leapt up and tottered away on two arms.",
+   "start": 10696,
+   "end": 10803
+  }
+ ]
+}

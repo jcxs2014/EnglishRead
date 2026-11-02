@@ -1,0 +1,49 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch44",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch44_chapter_44_truly_exceptional_work.txt",
+ "facts": [
+  {
+   "fact": "Fourth Exam：论文答辩（题目《对星盘内构造活跃行星上复杂食物网的首次观测》）；考官三人——Spiralstair 代替「万幸缺席」的 Plumline，Gardenpath 自选 Arch 与 Column（外聘考官传统=找不同领域的人审假说）。",
+   "anchor": "First Observations of Complex Food Webs",
+   "start": 315,
+   "end": 354
+  },
+  {
+   "fact": "考试平淡（Spiralstair 问的全是 shockingly basic 的问题），唯一的真挑战来自 Column：对 conscious multicellularity 的观测会如何影响 Rational 人对单细胞生命的理解。",
+   "anchor": "the only true challenge",
+   "start": 1183,
+   "end": 1206
+  },
+  {
+   "fact": "结果：Truly exceptional work——鼓励继续考第五；「恭喜你，Gardenpath 教授」。",
+   "anchor": "Congratulations, Professor Gardenpath",
+   "start": 1703,
+   "end": 1740
+  },
+  {
+   "fact": "答辩上的反问：原型和图纸下落？——Spiralstair 结巴承认图纸已落到 Galleon Cloud People 手里；并用种族论开脱（「横向与纵向思维的水火不容」「他们只比光合者高一级」）；Arch 打圆场（他们造不出来）。",
+   "anchor": "what happened to that prototype",
+   "start": 2303,
+   "end": 2334
+  },
+  {
+   "fact": "大爆发：Gardenpath 当众亮出膜上的绿光感受器（绿对天黑）——「我欠一条光合者一条命。是它养大了我、找到探测器送我回来拿这个最高学位。活得跟我们不一样，不代表他们是 lower slimes。」——全场震惊，连 Column 也是。",
+   "anchor": "I owe my life to a photosynthesizer",
+   "start": 3662,
+   "end": 3697
+  },
+  {
+   "fact": "补刀：「别低估 Cloud People。他们造得出这武器，而它可能已经在外流。」答辩以「这个收尾不错」尴尬散场。",
+   "anchor": "you should not underestimate",
+   "start": 4120,
+   "end": 4148
+  },
+  {
+   "fact": "教师俱乐部庆功——快乐只在忧虑的间隙里短暂闪现。",
+   "anchor": "brief jolts between worries",
+   "start": 4602,
+   "end": 4629
+  }
+ ]
+}

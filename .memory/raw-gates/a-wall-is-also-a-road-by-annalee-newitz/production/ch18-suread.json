@@ -1,0 +1,67 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch18",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch18_chapter_18_long_distance_runaround.txt",
+ "facts": [
+  {
+   "fact": "返程的 Gardenpath 发现 Memory 塔顶的花像头发长在「头」上——文化研究的副作用：让人看见世界里不该在的东西。",
+   "anchor": "like hair and heads",
+   "start": 750,
+   "end": 769
+  },
+  {
+   "fact": "Gardenpath 向 Oriel 报告：这次是获准进入 Murtis 体内帮忙维护，还发现 Unnamed 的快感与人类相同；Oriel 震惊——「You fucked the subject of your research?」「我以为你不跟朋友做」。",
+   "anchor": "I went inside Murtis, with permission",
+   "start": 1750,
+   "end": 1787
+  },
+  {
+   "fact": "Oriel 的建议：把 Unnamed 研究从考试材料里剔出去。",
+   "anchor": "cut your research into the Unnamed",
+   "start": 3110,
+   "end": 3144
+  },
+  {
+   "fact": "Wainscot 刚过 Second，Plumline 催他尽快考 Third；「Plumline is working you, am I right?」「I'm working myself. We're on the verge of something big.」",
+   "anchor": "I passed just now",
+   "start": 3664,
+   "end": 3681
+  },
+  {
+   "fact": "例行确立：三个旅程在 Globe 换一个在田野；欲望双轨管理——公园巡航陌生人，或去 Tentacle 遥控 director cells；叙述自评「完美平衡」（反讽）。",
+   "anchor": "the perfect balance of friendship, work, and pleasure",
+   "start": 9440,
+   "end": 9493
+  },
+  {
+   "fact": "Arch 的应试秘诀：答不上来的问题，就假装他问的是你能答的那个——「你不是在回避问题，你是在回答他们本该问的问题」。",
+   "anchor": "the question they should have asked",
+   "start": 6577,
+   "end": 6612
+  },
+  {
+   "fact": "Arch 对窗外孢子的祝福句刺痛 Gardenpath——homecoming 暗线再响。",
+   "anchor": "May the best of them make it to homecoming",
+   "start": 7038,
+   "end": 7080
+  },
+  {
+   "fact": "Murtis 的口头禅：春天是 Peristyle 回家的季节；Gardenpath 总能找到多留几天的理由（粉笔记本+维护）。",
+   "anchor": "Spring is the time when Peristyle comes home",
+   "start": 8178,
+   "end": 8222
+  },
+  {
+   "fact": "模拟考后 Arch 称其工作出色；Gardenpath 怀疑老师对每个学生都这么说。",
+   "anchor": "their work was excellent",
+   "start": 10143,
+   "end": 10167
+  },
+  {
+   "fact": "Second Exam 定在 Harvest（收获季）；一个随机考官因早课把时间推后一站——Gardenpath 翻遍课表也猜不出是谁。",
+   "anchor": "set for Harvest",
+   "start": 10593,
+   "end": 10608
+  }
+ ]
+}

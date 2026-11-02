@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch11",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch11_chapter_11_men.txt",
+ "facts": [
+  {
+   "fact": "室友 Cobblestone 已在 Clustersedge 前因 First 不及格离开，Memory 通知几个旅程内补新室友。",
+   "anchor": "Buttress pimpled with polite regret",
+   "start": 1281,
+   "end": 1316
+  },
+  {
+   "fact": "三人集群时 Gardenpath 首次带着「Murtis 体验」作对照，细析膜间流过的印象：疲惫、决心、关怀、好笑、高草气味。",
+   "anchor": "Exhaustion, determination, care, something funny, the smell of tall grass",
+   "start": 2123,
+   "end": 2196
+  },
+  {
+   "fact": "蓝铃花染膜与 wander 后，Gardenpath 决定去见秘密顾问，讲在庞贝学到的一切。",
+   "anchor": "It was time to meet up with their secret mentor",
+   "start": 4271,
+   "end": 4318
+  },
+  {
+   "fact": "Gardenpath 向 Column 与 Oriel 讲 Unnamed 的废物仪式：固体埋掉或冲海，液体存缸重用。",
+   "anchor": "Unnamed have solid and liquid waste, with different rituals for each",
+   "start": 6247,
+   "end": 6315
+  },
+  {
+   "fact": "文化揭示：Unnamed 自称 men——「人的词就是 men」；Murtis 是 woman。",
+   "anchor": "I asked Murtis what the Unnamed call themselves, and they said",
+   "start": 8420,
+   "end": 8482
+  },
+  {
+   "fact": "两性外观完全一样（臂数眼数相同、常同色、同振动），性别靠语法标记，极难从外表猜。",
+   "anchor": "Male and female Unnamed look exactly the same",
+   "start": 7941,
+   "end": 7986
+  },
+  {
+   "fact": "Oriel 听完 money 可交易一切、连另一个 Unnamed 都行，惊呼「they have slaves!」。",
+   "anchor": "You can trade money for anything, even another Unnamed",
+   "start": 9664,
+   "end": 9718
+  },
+  {
+   "fact": "Column 听完 micro-tentacle 实验后震怒：改动了对方生命形、可能污染数据，威胁再犯亲自报学术参议院。",
+   "anchor": "I will report you to the Academic Senate myself",
+   "start": 13352,
+   "end": 13399
+  }
+ ]
+}

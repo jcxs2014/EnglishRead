@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch08",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch08_chapter_8_the_lupanar.txt",
+ "facts": [
+  {
+   "fact": "Gardenpath 虽在 Memory 练过，用两条手臂直立行走（而非抓地）仍极其别扭；galaxysuit 外还披着仿 Unnamed 纺织品的编织植物材料。",
+   "anchor": "Though Gardenpath had practiced back at the Memory, it still felt extremely strange to balance on two arms instead of gripping the ground.",
+   "start": 59,
+   "end": 197
+  },
+  {
+   "fact": "两名 Unnamed 拿着发酵液罐子坐在长椅上看天喝酒，周期性发出振动。",
+   "anchor": "They carried containers of fermented fluid and sat on a bench, looking at the sky and drinking.",
+   "start": 597,
+   "end": 692
+  },
+  {
+   "fact": "两个 Unnamed 早先注意到 Gardenpath 手臂发抖，把他们围抱起来拉起身帮忙。",
+   "anchor": "Apparently the Unnamed had noticed their trembling arms earlier and wanted to help.",
+   "start": 4208,
+   "end": 4291
+  },
+  {
+   "fact": "进楼后 Gardenpath 悄悄启动 suit 里的录音器，开始填粉色私笔记本。",
+   "anchor": "Gardenpath surreptitiously activated the recorder in their suit.",
+   "start": 5930,
+   "end": 5994
+  },
+  {
+   "fact": "楼内许多成对 Unnamed reaching inside each other；Gardenpath 皱起身体，拒绝把「这是性」升格为假说——太顺理成章，更像 projection 而非 observation。",
+   "anchor": "It was too pat an explanation, more like projection than observation.",
+   "start": 6776,
+   "end": 6845
+  },
+  {
+   "fact": "名字交换仪式里 Gardenpath 试音出对方叫 Murtis、又用「Wine?」要饮品，Murtis 跳起来从壶里倒酒给他们。",
+   "anchor": "Murtis jumped up and poured a draft from a jug into a small container for Gardenpath.",
+   "start": 8278,
+   "end": 8363
+  },
+  {
+   "fact": "一夜词汇积累：这座楼叫 lupanar，街对面墙上有 lurid red 的「writing」，Unnamed 们围着它大声议论 cunts 和 elections。",
+   "anchor": "The building itself was called “lupanar.”",
+   "start": 9570,
+   "end": 9611
+  },
+  {
+   "fact": "破晓送客后，留下的 Unnamed 打扫：用草束扫地，一人下楼把一桶垃圾和 prokaryotes 倒进楼梯下的洞。",
+   "anchor": "One of them went downstairs to dump a bucket of waste and prokaryotes into a hole beneath the stairs.",
+   "start": 11083,
+   "end": 11184
+  }
+ ]
+}

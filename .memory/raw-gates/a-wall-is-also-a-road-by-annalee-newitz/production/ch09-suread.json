@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch09",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch09_chapter_9_bed.txt",
+ "facts": [
+  {
+   "fact": "打烊后 Murtis 邀 Gardenpath 回家，做出意为 Come along 的弯臂手势；在 Globe 弯臂总给话语加侮辱语气，Gardenpath 花了些功夫才辨认出来。",
+   "anchor": "They made the crooked arm gesture that meant Come along",
+   "start": 166,
+   "end": 221
+  },
+  {
+   "fact": "Murtis 带 Gardenpath 走完浴场序列（温石板房→更热房→热水池），最后跃入冰冷池再裹回织物，Gardenpath 照做；浴场里还有 Unnamed 在冷热房间间来回升降体温。",
+   "anchor": "After a while, Murtis plunged into the icy pool and wrapped themself in textiles again; Gardenpath did the same.",
+   "start": 1967,
+   "end": 2079
+  },
+  {
+   "fact": "废料室里 Gardenpath 看懂 xylospongium 的用途：Unnamed 排泄后用它把新原核生物与小无脊椎动物引入消化系统，判为「把排泄变成仪式=文化的标志」。",
+   "anchor": "After expelling waste, the Unnamed introduced new prokaryotes and tiny invertebrates into their digestive system via the xylospongium",
+   "start": 3379,
+   "end": 3512
+  },
+  {
+   "fact": "Murtis 备食（发酵油浇加工谷物），指着命名 Bread、Garum、Good 并把食物推向 Gardenpath 的手臂；两人——一个 unnamed 一个 unearthly——默默同食。",
+   "anchor": "“Bread. Garum. Good!” Then they pushed some toward Gardenpath’s arm.",
+   "start": 4578,
+   "end": 4646
+  },
+  {
+   "fact": "饭后 Murtis 躺下、轻拍身边织物，似乎急着 cluster；Gardenpath 把穿 suit 的身体挤到旁边，四臂伸展姿势笨拙，不知 cluster 如何运作。",
+   "anchor": "Did Murtis want to cluster with them? How would that even work?",
+   "start": 5025,
+   "end": 5088
+  },
+  {
+   "fact": "Gardenpath 违反全部田野训练，决定在贴着 Murtis 背部的 skein 处开小口伸入一条显微级、极致密的触手进 Murtis 体内取样，且趁未及三思时动手。",
+   "anchor": "they could open a small aperture in the skein where it was pressed against Murtis’s back and send a tentacle inside them",
+   "start": 5843,
+   "end": 5963
+  },
+  {
+   "fact": "体内探查证实 Unnamed 是 auto-clustering 细胞构成：无需与谁 cluster 即可清毒修复基因；体内有分布式疾病控制系统，数个实体在循环系统中巡逻猎杀入侵物。",
+   "anchor": "Murtis’s body contained a distributed system of disease control, with several entities roaming their circulatory system, hunting for invasive elements",
+   "start": 7819,
+   "end": 7969
+  },
+  {
+   "fact": "发现寄生虫（变形虫在废料室海绵上产卵致伤、guardian cells 拦不住）后，Gardenpath 反射性发出无言化学警告触发入侵者撤离模式——下次 Murtis 排泄时被排出；这是未经测试、多半不明智的干预。",
+   "anchor": "Gardenpath sent wordless chemical warnings to the harmful prokaryotes and invertebrates, triggers that would send them hurtling into evacuation mode",
+   "start": 10411,
+   "end": 10559
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch06",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch06_chapter_6_this_is_fine.txt",
+ "facts": [
+  {
+   "fact": "Gardenpath 在图书馆赶工，把 Tentacle 的数据整理成食物网图，数据集全是「谁在吃谁、谁被吃」；此时离 147 journeys 的非官方死线只剩二十个 journeys。",
+   "anchor": "Their dataset was entirely devoted to who was eating and who was being eaten.",
+   "start": 583,
+   "end": 660
+  },
+  {
+   "fact": "研究室窗外爆发反战抗议：Cloud Person Turret 自述幼年随集群从 Skiff 移民 Rational Space 躲战，指控 Memory 与 Galleon 的 Cloud People 共享知识、凋亡化学信号必将被武器化对付 Skiff。",
+   "anchor": "I immigrated from Skiff to Rational Space with my cluster when I was very young.",
+   "start": 3411,
+   "end": 3491
+  },
+  {
+   "fact": "Wainscot 闯进研究室炫耀 First 最高分，援引匿名审稿人「六代以内最年轻 investigator」的评语；被 Gardenpath 讽刺后一路后退，从窗台溜走。",
+   "anchor": "I received highest marks on the First.",
+   "start": 4475,
+   "end": 4513
+  },
+  {
+   "fact": "塔顶散心时 Oriel 调侃 Gardenpath 的吃相、问起童年 wander 的 ABCs，Gardenpath 只答第一个集群不信这一套，慌忙转移话题；随后承认 crèche 同伴都怪、健康课混乱。",
+   "anchor": "My first cluster didn’t believe in that.",
+   "start": 8605,
+   "end": 8645
+  },
+  {
+   "fact": "Clustertime 后 Gardenpath 顿悟：不是同位素读错了，而是食物网上下颠倒——多细胞动物吃一切，数据终于拼成连贯图景。",
+   "anchor": "instead of single-celled creatures at the top and multicellular life at the bottom, everything was upside-down",
+   "start": 11157,
+   "end": 11267
+  },
+  {
+   "fact": "第 146 journey，Gardenpath 独自坐在实验室，把七百种生命形式的清单连同刻意写模糊的勘察地点陈述一起送进 vent，提交 Data Exam。",
+   "anchor": "a list of seven hundred life-forms enmeshed in a dramatic and seemingly impossible food web",
+   "start": 13059,
+   "end": 13150
+  },
+  {
+   "fact": "Gardenpath 向 Column 提出非常规请求：私下分享 Unnamed 作画、建城、使用语言的数据（没敢写进 Data Exam）；受 Barnloft 行星服论文启发，想把 galaxysuit 改成 Unnamed 的样子混进去。",
+   "anchor": "these multicellular animals are making art, building cities, and using language",
+   "start": 17320,
+   "end": 17399
+  },
+  {
+   "fact": "成绩降临：通过 Data Exam，三条审稿意见两条空白、一条只写 “This is fine”，Gardenpath 又气又松；Wainscot 送来「你到底还是找到了生命」的半友好祝贺，两人伴着互怼滑进碗里。",
+   "anchor": "One read simply, “This is fine.”",
+   "start": 19806,
+   "end": 19838
+  }
+ ]
+}

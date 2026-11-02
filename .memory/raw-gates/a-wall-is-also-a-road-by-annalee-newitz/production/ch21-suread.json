@@ -1,0 +1,67 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch21",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch21_chapter_21_homecoming.txt",
+ "facts": [
+  {
+   "fact": "Rational 繁殖机制：交配集群混合基因、打包成数百几丁质孢子、从果臂尖释放、乘恒星风播散——多数孢子被吃或毁，Gardenpath 被路过的堆肥船吸进「口」：最初记忆是腐烂有机物的温热恶臭。",
+   "anchor": "the product of a mating cluster",
+   "start": 454,
+   "end": 485
+  },
+  {
+   "fact": "回归冲动是 homecoming 前的正常阶段——像伤口一样疼、不是人人能活过；它把幼苗推出生长床，无论那里是什么。Gardenpath 的「那里」是堆肥船。",
+   "anchor": "the fiery urge to return",
+   "start": 1307,
+   "end": 1331
+  },
+  {
+   "fact": "船员是多方光合者（含行星出身）；Gardenpath 的孢子可能被虫洞加速、飞了数代、落点离起点几乎 180 度——球的对跖。",
+   "anchor": "probably boosted by a wormhole",
+   "start": 1999,
+   "end": 2029
+  },
+  {
+   "fact": "老船员 Robust（杂星系出身）给取名 Wanderer（流浪者）并种入光感受器——但没有叶绿体，Gardenpath 又小又病，偷吃堆肥残渣和低等黏液。",
+   "anchor": "gave Gardenpath the name Wanderer",
+   "start": 3016,
+   "end": 3049
+  },
+  {
+   "fact": "硬皮植物人的世界容不下软体者：渐弱、硬化（sclerotic）、意识停摆——最后一念：「理性也许只是幻觉；也许我是注定孤独死去的怪物。」",
+   "anchor": "became sclerotic",
+   "start": 3833,
+   "end": 3849
+  },
+  {
+   "fact": "醒来在 Crook-in-the-Road 医院（万余 Rational 人的农/水矿聚居枢纽）：Memory 派往下半球找自然资源的 probe 带回了它——Robust 最后的善举是把僵体塞进外星船收集槽。",
+   "anchor": "arrived in a probe sent by the Memory",
+   "start": 4528,
+   "end": 4565
+  },
+  {
+   "fact": "相当长时间里，Gardenpath 宁愿从未被发现。",
+   "anchor": "wished they had never been found",
+   "start": 4780,
+   "end": 4812
+  },
+  {
+   "fact": "差异的可见标记：天黑膜上坑洼般缀着刺眼绿的光感受器（Robust 种的器官）——第一章「亮绿受体」之谜在此揭晓；clustering 迟到一切，医院没人听说无初集群活过 sprouthood 的人。",
+   "anchor": "lurid-green photoreceptors",
+   "start": 4960,
+   "end": 4986
+  },
+  {
+   "fact": "伪装术的起源：在聚居图书馆里想出把伪装蛋白塞进光感受器孔的办法；同处发现许多书的作者都供职 Memory——「回家」的赛跑开始。",
+   "anchor": "forcing camouflage proteins into their gaping maws",
+   "start": 5471,
+   "end": 5521
+  },
+  {
+   "fact": "高分考进研究生院，只带本科笔记本（数据宝藏）；Plumline 的命令激活了 Robust 船的旧创伤：被卡在不属于自己的社区、无处可逃、日复一日病下去。",
+   "anchor": "with its data trove",
+   "start": 6873,
+   "end": 6892
+  }
+ ]
+}

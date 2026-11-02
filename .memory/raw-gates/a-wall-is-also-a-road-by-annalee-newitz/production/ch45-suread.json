@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch45",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch45_chapter_45_a_good_collaboration.txt",
+ "facts": [
+  {
+   "fact": "Plumline 的辞职定案：带集群搬去 Galleon，辞职信骂 Memory「溺爱学生成瘾」「官僚集脑症」，还宣布要写一本《Memory 正在毁灭科学》；Nuraghe 与 Turret 躺在宿舍地板上笑到打滚，轮流向集群朗读书信选段。",
+   "anchor": "got over its current case of coddlemania",
+   "start": 389,
+   "end": 429
+  },
+  {
+   "fact": "考第五前的私事：去 Cut-in-Forest 的林子里找 cruising 老相好 Casement（黄纹橙膜——事后回想「像极了 Oriel」）——「怎么会一直没意识到，自己在公园里约的人个个都长得像 Oriel」。",
+   "anchor": "a hot engineer named Casement in the park",
+   "start": 1215,
+   "end": 1256
+  },
+  {
+   "fact": "真正的来意：请 Casement 帮忙抹掉 transit manifest 里的记录——「我那个混蛋前老板想偷我研究行星上的东西，我不想让他们找到」；Casement 介绍 Adobe（数据行家，常替 Memory「清理多余记录」）。",
+   "anchor": "I need to erase some records",
+   "start": 3365,
+   "end": 3393
+  },
+  {
+   "fact": "第五考没有考试：Spiralstair 开场就问要不要在原 Plumline Lab 空间开「Gardenpath Lab」，与 Wainscot Lab 共享资源——「其实你们过 Fourth 的时候我们就决定授予第五了。这只是个形式」；Gardenpath 心里嘀咕：是不是拿实验室换我对武器的沉默。",
+   "anchor": "This is a formality",
+   "start": 5698,
+   "end": 5717
+  },
+  {
+   "fact": "开价先谈死：我的研究是基础科学，「不会与武器制造商或战争工程师合作」；Spiralstair 含糊应允，Column 补一句「细节以后再谈」。",
+   "anchor": "we wouldn’t do any collabs with weapons manufacturers",
+   "start": 6135,
+   "end": 6188
+  },
+  {
+   "fact": "集群会议上的提议（想起 Murtis 的旧忠告）：「如果我们……离开 Memory 呢？我们所有人。我们可以建自己的社区！」——阵容点名：Turret/Wainscot（可持续采矿）、Oriel（土地管理）、Nuraghe（膜生物学论文已被引用）、Column（文化，「哪怕你是个 grouchy」）、再邀 Attic、Foundation。",
+   "anchor": "Listen to your friend",
+   "start": 8474,
+   "end": 8495
+  },
+  {
+   "fact": "Oriel 的论据收束：「科学部做的第一件事就是离开 Memory 去采集数据。田野才是伟大发现的细胞核。而在塔里你做不了田野。」",
+   "anchor": "Fieldwork is the nucleus",
+   "start": 9818,
+   "end": 9842
+  },
+  {
+   "fact": "尾声揭底：「我今早的急事就是去清空我的运输记录」——「就说我在中转厅有几位合作者吧。我的庞贝之旅已被判定多余、从日志里清除。Galleon 人也许有那个原型，但他们永远找不到更多 director cells。」——全袋水喝干，各自带着「真正发现新东西意味着什么」的念头滑进集群。",
+   "anchor": "declared extraneous and purged",
+   "start": 10703,
+   "end": 10733
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch38",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch38_chapter_38_follow_the_signal_trail.txt",
+ "facts": [
+  {
+   "fact": "Buttress 落榜：笔记本被掏空摊在地上——「他们给我系里一个低阶研究岗，这就是安慰？我不想当别人的尾注！我要当第一作者！」；被迫在 Clustertime 前搬去访问学者房。",
+   "anchor": "Buttress failed the Third",
+   "start": 1083,
+   "end": 1108
+  },
+  {
+   "fact": "Wainscot 抗命：「你要搬走简直是荒唐。你当然继续跟我们集群，想待多久待多久——我们又不是窝藏战犯，你是我们的 clustermate，你需要维护」；最终 Buttress 主动离开：「我得往前走了」——「挥出窗外，走进他意想不到的未来」。",
+   "anchor": "We aren’t harboring a war criminal",
+   "start": 3413,
+   "end": 3447
+  },
+  {
+   "fact": "Oriel 的劝导方向：「也许你的工作本该发生在墙外。你不想去 Globe 用当地人的语言跟人说话吗？」「我感恩 Memory 的教导，但有时我觉得考试制度在阻止而非鼓励真正的发现」。",
+   "anchor": "the exam system prevents us",
+   "start": 2720,
+   "end": 2747
+  },
+  {
+   "fact": "决定性证据：Wainscot 翻遍半代记录——每次对外合作都会留下信号踪迹（合同、规格、同意书），唯独强制集群信号那份缺一张「技术转化办公室的批准证书」。",
+   "anchor": "certificate of approval from the Technology Transfer Office",
+   "start": 6154,
+   "end": 6213
+  },
+  {
+   "fact": "腐败定性：Plumline 与 Redoubt 跟 Galleon 一个社区直接交易——「Plumline 个人得利，Memory 分文未得」；「基本是荣誉系统。而 Plumline 没有荣誉」。",
+   "anchor": "The Memory got nothing",
+   "start": 7352,
+   "end": 7374
+  },
+  {
+   "fact": "「这一违规真可能让 Plumline 被炒。Memory 在乎合作远胜在乎学生的死活。」",
+   "anchor": "could get Plumline fired",
+   "start": 7750,
+   "end": 7774
+  },
+  {
+   "fact": "分工与剧本：Column 出任教员代表、Wainscot 汇总信号踪迹、Gardenpath 当正式投诉人——「你记录无可挑剔，而且这是你的研究，所以你『无意间』撞见这个问题毫不奇怪。懂我的意思吧」。",
+   "anchor": "file the complaint",
+   "start": 8915,
+   "end": 8933
+  }
+ ]
+}

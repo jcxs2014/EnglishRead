@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch12",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch12_chapter_12_secrets.txt",
+ "facts": [
+  {
+   "fact": "Gardenpath 对 Column 与 Oriel 撒了谎：pseudo-clustering 不是一次——是每晚都进 Murtis 体内。",
+   "anchor": "It hadn’t. Gardenpath had gone inside Murtis every night",
+   "start": 720,
+   "end": 776
+  },
+  {
+   "fact": "借采矿论文解决安全问题：行星服布料开出半透膜补丁，隔着保护滤镜探测外星化学。",
+   "anchor": "create semipermeable patches in the suit",
+   "start": 972,
+   "end": 1012
+  },
+  {
+   "fact": "图书馆上层，Gardenpath 起草以庞贝为中心的食物网动力图；山下还有一张单细胞生物的食物网。",
+   "anchor": "Gardenpath found a free vent",
+   "start": 1524,
+   "end": 1552
+  },
+  {
+   "fact": "Oriel 悄然出现发出核心要求：告诉 Murtis 真相——来自星系之外、是研究生、在研究他们本人。",
+   "anchor": "You have to tell Murtis the truth",
+   "start": 2137,
+   "end": 2170
+  },
+  {
+   "fact": "Gardenpath 引五代前 Gable 装失散表亲骗取 Spinner 信任的先例辩护；Oriel 回以「文化研究早已进步」。",
+   "anchor": "They pretended to be a long-lost cousin",
+   "start": 2876,
+   "end": 2915
+  },
+  {
+   "fact": "Oriel 指出：住下来一起工作已经改变了 Murtis 的行为——「You've clustered」，别拿 pseudo 一词绕。",
+   "anchor": "You’ve already changed their behavior",
+   "start": 3513,
+   "end": 3550
+  },
+  {
+   "fact": "Oriel 的宽宥：怀疑 Gardenpath 集群是因为在乎 Murtis——「我觉得那没问题」；土地管理类比：科学之所以做，是因为在乎土地与人。",
+   "anchor": "I suspect that you clustered with Murtis",
+   "start": 4643,
+   "end": 4683
+  },
+  {
+   "fact": "结尾 Oriel 点破：你把自己困惑的程度夸大了，因为不想承认那个显而易见的东西。",
+   "anchor": "because you don’t want to accept the obvious",
+   "start": 5638,
+   "end": 5682
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch31",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch31_chapter_31_real_genius.txt",
+ "facts": [
+  {
+   "fact": "时间换算：一个 stop=庞贝数周、一个 journey=一季——自那次告白已过两年；Murtis「可能危在旦夕甚至已死」，但论文提案后要写文献综述，一两个 stop 都溜不开。",
+   "anchor": "already been two years",
+   "start": 167,
+   "end": 189
+  },
+  {
+   "fact": "Plumline Lab 全员会：公布全员排名、当场开除末位——Wainscot 预言「你不会喜欢这场会」；Gardenpath 由此得知 Wainscot 视其为「在 Memory 交到的第一个真朋友」。",
+   "anchor": "a stack ranking",
+   "start": 1136,
+   "end": 1151
+  },
+  {
+   "fact": "Turret 被开除：刚过 Fourth 被邀考 Fifth——当众要求 Plumline 出示排名证据（「你总跟我们多要数据，证明我最差的数据呢？」）；点破被开除的真实原因（抗议 Science Division 与 Cloud Wars 的合作）；Plumline 的恐惧甲烷+周身长矛；「你知道这不对」——满屋无人应声。",
+   "anchor": "Time to go",
+   "start": 3683,
+   "end": 3693
+  },
+  {
+   "fact": "图书馆密会：Attic 爆料 postdoc 说过 Plumline 与 Galleon 云民合作造武器化脂质包；Foundation 控诉侮辱、偷数据、抢功、随机开除。",
+   "anchor": "a collab with the Cloud People of Galleon",
+   "start": 9114,
+   "end": 9155
+  },
+  {
+   "fact": "Plinth 事件完整版：金属合金大数据集（改进 transit spores 抗质子损伤）被 Plumline 连附录整库发表署自己名——发现不再 novel、Fifth 无望、dissertation 都没交就走，躲进图书馆废 pod 直到脱水——失了大量 gnosomes 与受体，只记得朋友不记得 Memory。",
+   "anchor": "Plinth was my friend",
+   "start": 10225,
+   "end": 10245
+  },
+  {
+   "fact": "联盟成立：Turret 主张隐蔽行动（「先证明 Plumline 的行为实质损害了 Memory 本身，管理层才会在乎」）；分工：Gardenpath 找 Column、Wainscot 查银流前学生、其余摸排实验室内情。",
+   "anchor": "We need to take that evil fucker down",
+   "start": 9734,
+   "end": 9771
+  },
+  {
+   "fact": "Column 重逢于老农艺场：「学院里的同情并不全在科学部主任那边」；谨慎令：照常行事别让 Plumline 先动手——「他们有权势的朋友，实验室带来声望」。",
+   "anchor": "the Memory’s sympathies",
+   "start": 19873,
+   "end": 19896
+  },
+  {
+   "fact": "grotto 里 Gardenpath 彻底绽放：亮绿光感受器在黑膜上如星座亮起（连伪装的都开了）——Oriel 触碰一滴银液：「They are beautiful.」；「Useless receptors.」；「You are like a drug. And I cannot afford to be wasted right now.」「I could never hate you.」——被进入与被看见同时发生。",
+   "anchor": "constellation of bright-green rosettes glowed",
+   "start": 24423,
+   "end": 24468
+  },
+  {
+   "fact": "Plumline 抛出与 Redoubt 的「高速医疗」合作：director cells 信号或可改成超快维护——要 Gardenpath 回 Tentacle 采多样本（压力容器）；Nuraghe 陪拿容器时质疑：「他们俩突然对医学感兴趣？」「他们会偷走你全部功劳」「Plumline 不会为 Globe 做任何好事」。",
+   "anchor": "high-speed medicine",
+   "start": 28213,
+   "end": 28232
+  }
+ ]
+}

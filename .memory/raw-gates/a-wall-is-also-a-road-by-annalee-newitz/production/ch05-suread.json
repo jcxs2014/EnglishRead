@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch05",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch05_chapter_5_irrational_constructions.txt",
+ "facts": [
+  {
+   "fact": "运输操作员这次看到 Gardenpath 的怪坐标没有多派眼睛，只照例打趣「Back to the galaxy again, eh?」；Gardenpath 答以「Just studying for exams.」，对方回一句「Don’t get cooked out there!」——一趟例行往返。",
+   "anchor": "Back to the galaxy again, eh?",
+   "start": 197,
+   "end": 226
+  },
+  {
+   "fact": "Gardenpath 滚到山脚上次观察 Animal2 的区域；galaxysuit 新编程把音频波形转译成电子，把 Tentacle 生命的声音带进他们的感知范围；等待时他们在笔记本上给「可能有意意识」的 Animal2 头脑风暴名字（Long-Armed Binoculates、Talking Clusters、Multicellular Marvels），都觉得糟糕，决定先用 Unnamed 占位。",
+   "anchor": "translate audio waveforms into electrons",
+   "start": 559,
+   "end": 599
+  },
+  {
+   "fact": "紫色暮光中一群 Unnamed 到来；Gardenpath 谨慎地保持在自己推测对方能感知振动的范围之外；那群生物来回传递一个液体容器、把液体倾进发声口，发出粗糙却有句法、几乎像对话的声型。",
+   "anchor": "tipping it into their vocalization ports",
+   "start": 1271,
+   "end": 1311
+  },
+  {
+   "fact": "一个 Unnamed 用一盏吃油和大气氧的小火焰照路，Gardenpath 跟着它们走到远超原研究区的坡底，发现一条平整得像故意修出来的光滑地面（可能是路），急忙拍下影像。",
+   "anchor": "a smooth strip of ground, leveled perfectly, almost as if it were a deliberately built road",
+   "start": 1778,
+   "end": 1869
+  },
+  {
+   "fact": "Gardenpath 多派出的眼睛让一阵冲击把膜震出凹痕：左边立着一堵由切成矩形体（长方体）的岩石砌成的墙——原始而矮钝，与 Memory 凌空起伏的墙毫无相似；墙上虽有色块和线条，却没有花园和步道，Unnamed 似乎偏好植物与墙分离。",
+   "anchor": "built from rocks cut into rectangular prisms",
+   "start": 2157,
+   "end": 2201
+  },
+  {
+   "fact": "这堵墙说明 Unnamed 有能力建造栖息地，但 Gardenpath 在笔记本里写下一句自嘲式的承认：许多动物和某些植物也会给自己造结构，未必是意识的标志。",
+   "anchor": "It wasn’t necessarily a sign of consciousness",
+   "start": 2705,
+   "end": 2750
+  },
+  {
+   "fact": "在公共厅的柜台边，一个 Unnamed 正给同伴发杯装液体，气味 unmistakably 是发酵水果（很可能来自 Gardenpath 初到 Tentacle 时看到的整齐植物）；Gardenpath 认可 Column「在语境中观察 Unnamed」的教导，记下与该液体相关的重复声音和一个疑似问候的手臂动作、暗示社交客套或食物信息。",
+   "anchor": "Column was right about observing the Unnamed in context",
+   "start": 4685,
+   "end": 4740
+  },
+  {
+   "fact": "章末 Gardenpath 看见一个披红边白织物的 Unnamed 用手臂在柜台后一段潮湿墙上画记号：小工具蘸进亮红矿物粉末再抹上墙，一排罐子里备有蓝、黑、绿、金四色粉末；墙上是一幅未完成的画——花丛中一个 Unnamed，双臂展开，眼睛缩进膜里；Gardenpath 惊讶得差点掉了笔记本，并且知道这将改变自己的一生。",
+   "anchor": "The Unnamed was making art.",
+   "start": 7043,
+   "end": 7070
+  }
+ ]
+}

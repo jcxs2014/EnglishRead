@@ -1,0 +1,67 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch14",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch14_chapter_14_ambiguous_words.txt",
+ "facts": [
+  {
+   "fact": "Gardenpath 写下火山-食物网统一假说：地壳扰动既是毁灭也是更新之力，把山与城两张食物网缝在一起——这是为 Second Exam 备好的整洁答案。",
+   "anchor": "a force for destruction and rejuvenation",
+   "start": 485,
+   "end": 525
+  },
+  {
+   "fact": "粉色笔记本一团糟：半生不熟的假说、没列完的词表、元数据残缺的图像；没有 Column 指导，不知如何整理。",
+   "anchor": "half-baked hypotheses, half-finished lists of words",
+   "start": 1294,
+   "end": 1345
+  },
+  {
+   "fact": "Buttress 的 Language Log（50 代前 Skiff 语言消亡时 Memory 派语言学家随 Galleon 军队抢救词汇的成果）把生命阶段词当普世起点。",
+   "anchor": "have a homecoming and first cluster, right",
+   "start": 4600,
+   "end": 4642
+  },
+  {
+   "fact": "Gardenpath 被「人人都有归乡与初集群」的断言刺痛：没有这些的人，是否就意味着不算人？（Crook-in-the-Road 暗线）",
+   "anchor": "actually a person",
+   "start": 5240,
+   "end": 5257
+  },
+  {
+   "fact": "Turret 第二场反战演讲：自陈混合身份（Skiff 的 Cloud Person + Touched-by-Sunlight 的 Rational Person），控诉 Redoubt Lab 与 Galleon 合作制造从内部溶解人的生物武器。",
+   "anchor": "We are not Rational! We are not Cloud! We are People",
+   "start": 7145,
+   "end": 7197
+  },
+  {
+   "fact": "Gardenpath 告诉 Oriel：已向 Murtis 交底身份——对方接受度好到反问怎么没早遇到 Globe 来的人。",
+   "anchor": "told Murtis about who I am",
+   "start": 8279,
+   "end": 8305
+  },
+  {
+   "fact": "实验室地板上越界之后，Gardenpath 恐慌：把性带进友情是不对的——性属于公园里自愿的陌生人。",
+   "anchor": "it wasn’t right to bring sex into a friendship",
+   "start": 11651,
+   "end": 11697
+  },
+  {
+   "fact": "恐惧的根：若继续，将把私人膜的每一部分交给 Oriel 的触碰，让挚友发现藏在那里的东西——他们没准备好以这种方式被审判。",
+   "anchor": "they would eventually surrender every part of their personal membrane",
+   "start": 12224,
+   "end": 12293
+  },
+  {
+   "fact": "Wainscot 从银流回来状态萎靡：被 Plumline 亲自选中任 Second 考官、三四考导师，说是「资源开采领域的战略重要性」——却毫无炫耀的力气。",
+   "anchor": "I’ve been chosen by Investigator Plumline",
+   "start": 15434,
+   "end": 15475
+  },
+  {
+   "fact": "Wainscot 丢下侮辱 Column 这类未考五考教授的词（lesser slimes）；Gardenpath 回敬 Plumline 观念钙化、在 Cloud Wars 上不受人喜欢。",
+   "anchor": "one of the lesser slimes",
+   "start": 16344,
+   "end": 16368
+  }
+ ]
+}

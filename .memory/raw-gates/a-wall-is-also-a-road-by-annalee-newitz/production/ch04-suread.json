@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch04",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch04_chapter_4_cultural_studies.txt",
+ "facts": [
+  {
+   "fact": "Wainscot 在宿舍集群碗里自夸用大光谱阵列攒够过 First 的数据、且没漏一次集群休息；Gardenpath 太累没呛声，只挤出「I found some things」，认定炫耀愚蠢、也怕 Wainscot 嚼舌根把行星生态传出去。",
+   "anchor": "I’ve been working on the large spectral array, and I’ve already gotten enough data to pass the First.",
+   "start": 625,
+   "end": 726
+  },
+  {
+   "fact": "回到校园的 Open Lab，Oriel 钻进 Gardenpath 膜内私语追问是否发现了星盘生命，Gardenpath 确认不止生命：多个生态系统、数百张食物网，还有几乎和 Globe 里的「人」一样却并不是的生命形。",
+   "anchor": "Not just life. Multiple ecosystems. Hundreds of food webs.",
+   "start": 2284,
+   "end": 2342
+  },
+  {
+   "fact": "Oriel 的 planetsuit 被锈穿：其行星 Sky-over-Prairie 富矿环境里的花变异成吞金属、见金属就长，一朵 rogue flower 咬上 Oriel 的 suit 改变了分子结构；Oriel 在帮三个独立农耕社区拿数据，打算过 Third 后劝农民换成更合行星地壳的作物。",
+   "anchor": "The blooms had quickly mutated to consume metals, and now they were growing on anything with metal in it, leaving rusty husks behind.",
+   "start": 3223,
+   "end": 3356
+  },
+  {
+   "fact": "在图书馆塔尖，Gardenpath 对 Oriel 说明这些多细胞生物的异常：支配生态系统、许多个体发出一组特定频率的振动、几乎像在用声波交流；Gardenpath 观察了近半次行星公转，仍不敢断定波形里有真意义。",
+   "anchor": "They dominate the ecosystem, for one thing. And many of them emit vibrations in a very specific set of frequencies.",
+   "start": 6324,
+   "end": 6439
+  },
+  {
+   "fact": "两人下楼用实验室壁挂气室按行星气压配好气体播放 Animal2 录音：示波器上波形随机、像低等生命的 babble，Gardenpath 自疑到抢回笔记本放气；Oriel 却看出重复短语暗示 syntax，说这可能不只是交流而是语言。",
+   "anchor": "The repeated phrases suggest a syntax, so this might be more than communication. It could be language.",
+   "start": 9022,
+   "end": 9124
+  },
+  {
+   "fact": "文化研究新教授 Column（十 journeys 前才过 Fourth、与 Oriel 同过研讨课、让人直呼其名）讲出 Fence 的故事：四代人前的 galactic observer，声称在星盘内行星发现生命、命名 Tentacle 4–746，被认定 speculation 过度、没过 Fourth，发配 Galleon 采矿学校教课——此后没人敢再挑战 Memory 的不成文规矩。",
+   "anchor": "The investigators who ran the Memory claimed Fence’s hypothesis was too speculative, and sent them to teach at a mining school in Galleon.",
+   "start": 12806,
+   "end": 12944
+  },
+  {
+   "fact": "Column 指给两人看 Globe 演化教学海报：上半球各族标「civilized」、星盘平面以下的 photosynthesizers 等标「mentally stunted」、低等 slime 与其他动物标「unconscious」、Spigot 盘面涂灰代表无生命；Column 承认 Memory 自 Fence 以来没变，并警告论证「多细胞且有意识」可能被 Plumlined——被主任 Plumline 宣布工作不配 Memory。",
+   "anchor": "The disk of the Spigot itself was gray, to signify lifelessness.",
+   "start": 13932,
+   "end": 13996
+  },
+  {
+   "fact": "Gardenpath 夜里独自去卡片目录查 Fence：Fence 与 Tentacle 4–746 名下皆无，唯一引文是一篇演化论文引其数据只为斥其伪；数据集最终在 spiritualism 类里找到，引文卡显示 Fence 的笔记本与全部观测已被回收销毁；唯一其他线索是 Rational 讣告——死后身体织入 Gold-in-the-Ridge 一处 crèche 的农业厅、生前在那里教孩子科学；Gardenpath 决定给行星命名 Tentacle 纪念 Fence。",
+   "anchor": "located Fence’s First Exam dataset at last—misfiled under spiritualism",
+   "start": 17456,
+   "end": 17526
+  }
+ ]
+}

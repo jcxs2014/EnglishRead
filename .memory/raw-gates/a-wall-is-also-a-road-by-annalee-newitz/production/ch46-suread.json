@@ -1,0 +1,37 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch46",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch46_chapter_46_blessed_by_isis.txt",
+ "facts": [
+  {
+   "fact": "Milk Road 的客人们艳羡两个女人显年轻——Julia 逢人便说她们受了伊西斯的祝福（神庙就在街口，欢迎买 votive 供奉女神）。",
+   "anchor": "blessed by Isis",
+   "start": 354,
+   "end": 369
+  },
+  {
+   "fact": "衰老不可逆：毒素更难清；Julia 一次摔倒后一只脚瘫痪（无从修复）、Murtis 雨天髋痛——「衰老的身体造成的损伤无从逆转」。",
+   "anchor": "no way to reverse",
+   "start": 792,
+   "end": 809
+  },
+  {
+   "fact": "夜里 Peristyle 把一切编目、把场景完美打包进一枚 gnosome：银黑发丝贴着头骨的弧线、月悬海上、Julia 睡在走廊那头、Dido 在楼下与夜客说笑——Milk Road 迁出 Neapolis 后仍延续着打烊后招待萨福爱好者的传统。",
+   "anchor": "package the scene up perfectly",
+   "start": 995,
+   "end": 1025
+  },
+  {
+   "fact": "夜谈：「都怪你不在的时候我想你想个不停」「别道歉。是因为你，我才能和挚友一起变老。这是我从没想过会轮到我的事」「你也会这样的，对吧？和 Fenestra？」「这正是计划。谢谢你当年劝我听她的话」。",
+   "anchor": "grow old with my best friend",
+   "start": 1621,
+   "end": 1649
+  },
+  {
+   "fact": "夏初离开：草开始被晒焦——「as they bid farewell to the ever-changing faces at the taberna, Gardenpath was certain of only one thing. The ancient nuraghe would always stand like an outpost of Rational architecture above Tharros.」",
+   "anchor": "singe the grass",
+   "start": 1957,
+   "end": 1972
+  }
+ ]
+}

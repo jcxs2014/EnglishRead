@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch10",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch10_chapter_10_peristyle.txt",
+ "facts": [
+  {
+   "fact": "Murtis 醒来后立刻开始教词：绕屋给从灰泥到身体部位的每样东西命名，又躺回床上收回眼睛、假装失去意识，示范「Sleep」一词（self-clustering 的 unconscious 阶段），还依次示范了 Hug、Kiss、Laugh。",
+   "anchor": "They went around the room, naming everything from plaster to body parts. Then they lay back on the bed, withdrawing their eyes and pretending to become unconscious.",
+   "start": 881,
+   "end": 1045
+  },
+  {
+   "fact": "Murtis 演示 chamber pot（倒进贯穿墙内的落水管、汇入地下管道）后，Gardenpath 判定部分地下基础设施刻意让 Unnamed 的排泄物渗回饮用水，称之为健康的循环，并越看越觉得像家星的 Rational 结构。",
+   "anchor": "Some of the subterranean infrastructure had been cleverly designed to allow Unnamed excretions to seep back into their drinking water. It was a healthy cycle.",
+   "start": 1956,
+   "end": 2114
+  },
+  {
+   "fact": "Murtis 下楼去街头喷泉排队取水；Gardenpath 在 suit 里尽量舒展，确信排毒会让 Murtis 好受得多，并有与信任的 clustermates 分开后回神的那种暖意——维护一直是单方面的。",
+   "anchor": "When Murtis bounced downstairs to line up at the street fountain for water, Gardenpath elongated happily",
+   "start": 2271,
+   "end": 2375
+  },
+  {
+   "fact": "接下来十个行星自转两人形成日常：日子分市场日/政府日/节日日；Murtis 坚称万物价值用叫 money 的冲压金属圆片衡量、人人有价；Murtis 在 lupanar 挣 top prices、认定 Gardenpath 将来也能，目前让 Gardenpath 打扫建筑、替顾客取物；Gardenpath 开始因欺骗 Murtis 而刺痛。",
+   "anchor": "Murtis insisted that the value of everything in the world could be measured in stamped metal discs called money. Every person, every object, had a price. Murtis earned top prices at the lupanar, and Gardenpath probably would too.",
+   "start": 3366,
+   "end": 3595
+  },
+  {
+   "fact": "每天早晨两人回 Murtis 家：Gardenpath 假装吃喝睡觉，同时偷偷填满秘密笔记本、持续给 Murtis 排毒。",
+   "anchor": "Gardenpath pretended to eat and sleep, while surreptitiously filling up their secret notebook and purging toxins from Murtis’s body.",
+   "start": 3909,
+   "end": 4041
+  },
+  {
+   "fact": "第十一个夜晚后，Murtis 带他们去东城看运动场训练，坐在长凳上皱起愁纹问「还记得我怎么找到你的吗」——当时 Gardenpath 几乎不能走路、衣服被撕掉——Murtis 追问是否有人伤害了他们。",
+   "anchor": "They sat on a bench and Murtis turned to Gardenpath with a wrinkle of worry at the top of their face.",
+   "start": 4429,
+   "end": 4530
+  },
+  {
+   "fact": "Murtis 恼火逼问名字（脸发热涨红），Gardenpath 以「花长在墙里/花间的路」翻译自己的名字，自承在这座建筑贫瘠的城市里很难翻译；Murtis 嘴拉长、眼睁大，认出对应词，说出 peristyle。",
+   "anchor": "“My city has … flowers growing in walls. My name means … road between flowers? Road in walls?” Truly, it was hard to translate the idea, especially in a city with such barren architecture. But Murtis’s mouth was elongating, eyes wide with recognition.",
+   "start": 5554,
+   "end": 5805
+  },
+  {
+   "fact": "Murtis 领路两个街区到一座宅邸展示 peristyle（柱子围着花园与石径），宣告将来要有 villa、名字刻上 Temple of Isis 墙（提到 patrician bitches 的晚宴剧场派对）；随后问「Can I call you Peristyle? It’s a pretty name for a pretty girl」，Peristyle 点头；结尾定场：Pompeii 城、Tentacle 行星、Spigot 星系第三臂，开始把一个多细胞动物当朋友。",
+   "anchor": "This would be the name they used in the city of Pompeii, on the planet Tentacle, in the third arm of the Spigot galaxy, where they were starting to think of a multicellular animal as a friend.",
+   "start": 7560,
+   "end": 7752
+  }
+ ]
+}

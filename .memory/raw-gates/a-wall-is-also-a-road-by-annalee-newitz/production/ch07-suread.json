@@ -1,0 +1,49 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch07",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch07_chapter_7_becoming_unnamed.txt",
+ "facts": [
+  {
+   "fact": "科学部突然新规：去星系做田野的学生必须过一门乏味的行星服工程研讨课——Gardenpath 是唯一去星系的学生，针对性明显。",
+   "anchor": "needed to score high marks in a painfully tedious seminar",
+   "start": 646,
+   "end": 703
+  },
+  {
+   "fact": "Arch 同情但耸肩：把苦水当赢的代价咽下，并暗示 Gardenpath 水平足以自己教这门课。",
+   "anchor": "Take the toxins with the win",
+   "start": 1049,
+   "end": 1077
+  },
+  {
+   "fact": "Gardenpath 在图书馆低层找到 Barnloft 的行星服改装规格：从「压缩」改为把身体定型成复杂形状。",
+   "anchor": "Barnloft’s specs for a planetsuit modification",
+   "start": 1469,
+   "end": 1515
+  },
+  {
+   "fact": "研讨课期末考 Gardenpath 拿了满分，令教授懊恼。",
+   "anchor": "they managed to get a perfect score on the final exam",
+   "start": 1915,
+   "end": 1968
+  },
+  {
+   "fact": "新形态以作画的那个 Unnamed 为模板：四臂两眼、嗅觉器官极有限、发声管。",
+   "anchor": "modeled their new morphology on the Unnamed they had seen making art",
+   "start": 2397,
+   "end": 2465
+  },
+  {
+   "fact": "Column 送出一个脏粉色旧笔记本（前学生分析 Cinderblock 古手稿所用），建议把非正统观察记在单独本子上。",
+   "anchor": "This belonged to one of my students",
+   "start": 4348,
+   "end": 4383
+  },
+  {
+   "fact": "结尾：两本田野笔记本——一本食品网，一本献给「Spigot 不止有生命、还有文化」的可能。",
+   "anchor": "One devoted to the study of food webs on Tentacle",
+   "start": 4778,
+   "end": 4827
+  }
+ ]
+}

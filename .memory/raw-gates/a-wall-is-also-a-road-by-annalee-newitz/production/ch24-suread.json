@@ -1,0 +1,67 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch24",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch24_chapter_24_party_at_a_rich_dude_s_house.txt",
+ "facts": [
+  {
+   "fact": "去 Herculaneum 途中的墓道：Flavia 为亡夫建的墓（柱廊、月牙凳、喷泉）刻着她的墓志铭玩笑——丈夫是个买哲学课上大学的富人，写过「女人演戏毁帝国」的论文；Murtis 读城墙与陶罐上的字毫不费力。",
+   "anchor": "His head could not hold all his ideas",
+   "start": 1292,
+   "end": 1329
+  },
+  {
+   "fact": "墓大如宅却无人居住——「它们空着」；Gardenpath 还读不懂城里的文字， wished 自己能像 Murtis 那样读墙。",
+   "anchor": "nobody lived in them",
+   "start": 773,
+   "end": 793
+  },
+  {
+   "fact": "Lucius 海景别墅的雕塑：青铜运动员对追无形的球；大理石 Pan 正在与山羊交合——与流言里的献祭场景互文。",
+   "anchor": "a Pan cut from marble",
+   "start": 2676,
+   "end": 2697
+  },
+  {
+   "fact": "化妆：罗马新款香水「Shadow Eyes」（烟熏薰衣草）；黑眼线、金粉发；Peristyle 的黑膜色调恰在宴会肤色谱系一端。",
+   "anchor": "Shadow Eyes",
+   "start": 3247,
+   "end": 3258
+  },
+  {
+   "fact": "误入黑墙图书室：成排卷轴——Socrates、Epicurus、Epicurus……Murtis：「我看出来了，他很喜欢伊壁鸠鲁」。",
+   "anchor": "he likes Epicurus",
+   "start": 5624,
+   "end": 5641
+  },
+  {
+   "fact": "文字课：拉丁/希腊文=把声音振动转成符号，可以「拼读出来」；非洲有整词成符号的写法；Peristyle 背下罗马字母表试着拼读 Epicurus——失败。",
+   "anchor": "converting sound vibrations into symbols",
+   "start": 6158,
+   "end": 6198
+  },
+  {
+   "fact": "Murtis 亲吻安慰（学东西年纪大更需要练）——「你学拉丁语不是挺快」；Gardenpath 把功劳还给老师。",
+   "anchor": "But you’re catching on pretty fast",
+   "start": 6656,
+   "end": 6690
+  },
+  {
+   "fact": "图书馆亲热的技术内核：把 director cells 的快感数据回输给本人——感受的是 Murtis 所感的「回声」；mediated merging。",
+   "anchor": "feed that data to herself",
+   "start": 7888,
+   "end": 7913
+  },
+  {
+   "fact": "「为什么你让我感觉这么好？」——「因为我很喜欢你」：技术问题的诚实答案；事后她反射性把这次的数据从 galaxysuit 里全部清掉——「绝不能存进任何笔记本」。",
+   "anchor": "because I like you so much",
+   "start": 11240,
+   "end": 11266
+  },
+  {
+   "fact": "离开图书室恢复正常配置——只剩自己的感觉；「如果是你就总想要更多」。",
+   "anchor": "Now the only sensations she felt were her own",
+   "start": 12109,
+   "end": 12154
+  }
+ ]
+}

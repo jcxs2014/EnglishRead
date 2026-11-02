@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch16",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch16_chapter_16_food_webs.txt",
+ "facts": [
+  {
+   "fact": "宿舍里 Cobblestone 的空柜被书填满——Memory 已分配新室友；Gardenpath 盼着来个和 Cobblestone 一样无味的。",
+   "anchor": "Cobblestone’s empty cubby was now full of books",
+   "start": 258,
+   "end": 305
+  },
+  {
+   "fact": "Buttress 听说 Language Log 有词无对应物直呼不可能——词表当年是精心挑选的「普世词」；Gardenpath 的田野已在拆普遍性神话。",
+   "anchor": "Those words were carefully chosen to be universal",
+   "start": 771,
+   "end": 820
+  },
+  {
+   "fact": "Oriel 告知：Memory 允许换集群、自己申请加入 Gardenpath 的集群（原集群在 Second 损失两人）——「我们终于能当 clustermates 了！」",
+   "anchor": "I requested to join your cluster",
+   "start": 1437,
+   "end": 1469
+  },
+  {
+   "fact": "Wainscot 透露 Plumline 每七个旅程操练他一次以保持状态；自比「知识战场上的士兵」，比「躲去远世界避战」强。",
+   "anchor": "Plumline drills me every seven journeys",
+   "start": 2112,
+   "end": 2151
+  },
+  {
+   "fact": "集群中 Gardenpath 对 Oriel 的欲望几乎失控——「throb of desire」想冲出身体，靠极大意志压下去。",
+   "anchor": "Oriel’s texture seemed distinctly un-clustery",
+   "start": 3908,
+   "end": 3953
+  },
+  {
+   "fact": "Separation 醒来，Gardenpath 发现自己一条触手半插在 Oriel 体内，羞耻地猛拽出来；并猜想 Oriel 是不是故意挑这时候入群。",
+   "anchor": "a tentacle half formed inside Oriel",
+   "start": 4452,
+   "end": 4487
+  },
+  {
+   "fact": "Oriel 用幽默道歉（帮着稀释 Wainscot 味）又问要不要搬走；Gardenpath 说 good——但回避一切肢体亲近。",
+   "anchor": "I can help dilute the Wainscottery",
+   "start": 5155,
+   "end": 5189
+  },
+  {
+   "fact": "求拥抱后 Gardenpath 逃向 Transit Hall：缩身、变成别人——本章以逃离收尾。",
+   "anchor": "to shrink down and become someone else",
+   "start": 6234,
+   "end": 6272
+  }
+ ]
+}

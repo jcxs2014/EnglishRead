@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch13",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch13_chapter_13_julia_s_new_place.txt",
+ "facts": [
+  {
+   "fact": "回到 Tentacle：地壳扰动的痕迹遍野——山石滚落、海岸变形、庞贝城歪斜，震动发生在近半年前。",
+   "anchor": "Crustal perturbation",
+   "start": 435,
+   "end": 455
+  },
+  {
+   "fact": "重建完全无协调：伊西斯神庙在扩张地盘、塌毁的 taberna 成瓦砾堆、工人各自为战——与 Rational 人祖先体建筑的精工规划截然不同。",
+   "anchor": "The Temple of Isis was already expanding its footprint",
+   "start": 1617,
+   "end": 1671
+  },
+  {
+   "fact": "Murtis 的楼三层只剩一面残墙，楼下柜台裂开大缝；陌生 Unnamed 说她搬去了 Julia 的寄宿公寓。",
+   "anchor": "The third floor of Murtis’s building",
+   "start": 2391,
+   "end": 2427
+  },
+  {
+   "fact": "重逢的 Murtis 怒不可遏：说好离开一小会儿，结果一整年多；对 Peristyle 只是几个旅程，对 Murtis 是数百日。",
+   "anchor": "Where the absolute fuck have you been",
+   "start": 5499,
+   "end": 5536
+  },
+  {
+   "fact": "怒骂转成拥抱：脸湿着、身体微颤，「别再这样了」，然后一句 Praise Isis。",
+   "anchor": "I thought you were dead",
+   "start": 6133,
+   "end": 6156
+  },
+  {
+   "fact": "Peristyle 首次交底身世：家在银河（Murtis 称 Milk Road）之外少星的地方，名字勉强译作「球域」the Sphere。",
+   "anchor": "It’s called the Milk Road",
+   "start": 6949,
+   "end": 6974
+  },
+  {
+   "fact": "Murtis 自述身世：来自迦太基以西的 Mactar，幼年被老主人买下、希腊名是主人给的、本名 Punic 名已不记得，现在是 liberta（获释奴）。",
+   "anchor": "I’m from Mactar, west of Carthage",
+   "start": 7520,
+   "end": 7553
+  },
+  {
+   "fact": "Julia Felix：丈夫死于地震、继承全部地产，正把大宅改成带浴场的寄宿公寓，还买下了 lupanar——Murtis 说她「one of us」。",
+   "anchor": "Her shitty old husband died in the quake",
+   "start": 11296,
+   "end": 11336
+  }
+ ]
+}

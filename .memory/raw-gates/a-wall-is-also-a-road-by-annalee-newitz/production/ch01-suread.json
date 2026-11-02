@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch01",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch01_chapter_1_rational_people.txt",
+ "facts": [
+  {
+   "fact": "开学典礼上 Gardenpath 用低位触手末端的小眼睛偷看周围同学。",
+   "anchor": "scanning their neighbors as a never-ending parade of administrators",
+   "start": 590,
+   "end": 657
+  },
+  {
+   "fact": "科学主任 Plumline 宣布典礼即考试的开始，想通过今晚就得开始研究。",
+   "anchor": "If you want to pass, you will start your studies tonight",
+   "start": 2860,
+   "end": 2916
+  },
+  {
+   "fact": "Gardenpath 要考的是可选的第五场考试，必须做出无人做过的全新发现。",
+   "anchor": "they would need to make a completely novel discovery",
+   "start": 1868,
+   "end": 1920
+  },
+  {
+   "fact": "Gardenpath 在 Memory 的入学资格靠伪装维系。",
+   "anchor": "place at the Memory was contingent on camouflage",
+   "start": 4284,
+   "end": 4332
+  },
+  {
+   "fact": "银河系唯一宜居区是环绕星盘的弥散气体球壳 Globe。",
+   "anchor": "A diffuse sphere of gas surrounding the starry plane, the Globe was the",
+   "start": 4927,
+   "end": 4998
+  },
+  {
+   "fact": "Gardenpath 的地下数据在行星大气中显示分子呼吸的微弱信号——有人在下面呼吸。",
+   "anchor": "faint signatures of molecular respiration in the planet",
+   "start": 9092,
+   "end": 9147
+  },
+  {
+   "fact": "研讨课上 Oriel 用「有证据的预感与假说无异」为 Gardenpath 辩护。",
+   "anchor": "An evidence-based hunch is indistinguishable from a hypothesis",
+   "start": 9313,
+   "end": 9375
+  },
+  {
+   "fact": "夜里集群休息时 Gardenpath 尝到 Wainscot 在傲慢底下钙化的不安全感。",
+   "anchor": "sharp, calcified grains of insecurity",
+   "start": 16030,
+   "end": 16067
+  }
+ ]
+}

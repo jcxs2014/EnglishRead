@@ -1,0 +1,67 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch40",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch40_chapter_40_your_attendance_is_required.txt",
+ "facts": [
+  {
+   "fact": "参议院一夜响应：Contribution 开听证，要求 Gardenpath 与 Column 到场；至于是否公开、Plumline 是否出席，信里没写。",
+   "anchor": "my attendance is required",
+   "start": 496,
+   "end": 521
+  },
+  {
+   "fact": "听证前的实验室对峙：Plumline 谎称第一批细胞被 Galleon 方搞坏（「大概进了堆肥堆」），索要新一批；Nuraghe 悄声点破「他们可以沿运输清单查到你的路径」——Gardenpath 决意不再供细胞。",
+   "anchor": "Somewhere in a Galleon compost pile, I would guess",
+   "start": 1972,
+   "end": 2022
+  },
+  {
+   "fact": "听证门外 Plumline 与参议员们互道寒暄（「Plummie」）、聊老同学——Gardenpath 绝望；Oriel 看破：「他们没一个在膜内说话——这是表演，而且挺绝望的；Plumline 一直在抚平皱纹」。",
+   "anchor": "performative and kind of desperate",
+   "start": 6255,
+   "end": 6289
+  },
+  {
+   "fact": "Plumline 的三段式谎话：忘交文件（小事）→根本没合作（fabrication）→学生栽赃（Turret 报复论、说他们「wrong and nefarious, but not stupid」）。",
+   "anchor": "This is absurd",
+   "start": 7391,
+   "end": 7405
+  },
+  {
+   "fact": "Cantilever 当庭戳穿逻辑矛盾：「到底是无关紧要的文书，还是滔天的复仇？理性上不可能两者都是！」",
+   "anchor": "rationally, it cannot be both",
+   "start": 13031,
+   "end": 13060
+  },
+  {
+   "fact": "决定性一击：举报人不是 Turret——「是个从未抗议过任何事的人，你在评语里称其为极有前途的学生、第五考的有力候选」——Gardenpath；Plumline 的导师与施害者双重身份无言以对。",
+   "anchor": "a strong candidate for passing the Fifth",
+   "start": 13571,
+   "end": 13611
+  },
+  {
+   "fact": "判决：无限期停职——全票通过；Cantilever 还挖苦致谢 Gardenpath 与 Column「以正当方式提交了全部文书」。",
+   "anchor": "placed on indefinite leave",
+   "start": 13971,
+   "end": 13997
+  },
+  {
+   "fact": "教师俱乐部庆功：重水 straight、Arch 敬酒「敬诚实合乎伦理的研究！敬不掺水的重水！」；Turret 获 Arch 实验室邀约（水工程组、可继续备 Fifth）。",
+   "anchor": "Here’s to honest, ethical research",
+   "start": 16767,
+   "end": 16801
+  },
+  {
+   "fact": "继任人选八卦：Spiralstair 将任代理科学主任——「Memory 爱任命的那种傻子」：温和、讨好参议院、把演化生物学与文化研究搅在一起（「山星出生的是纵向思考者、太空出生的是横向思考者」）。",
+   "anchor": "a gentle idiot",
+   "start": 19585,
+   "end": 19599
+  },
+  {
+   "fact": "章末：Gardenpath 第一次相信未来不再被悲剧的不确定笼罩——找到了自己人、有了不再由暴君掌管的实验室席位；「还有唯一一个问题。」",
+   "anchor": "They had found their people",
+   "start": 20047,
+   "end": 20074
+  }
+ ]
+}

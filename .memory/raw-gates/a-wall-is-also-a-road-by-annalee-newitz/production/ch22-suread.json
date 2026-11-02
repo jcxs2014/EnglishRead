@@ -1,0 +1,49 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch22",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch22_chapter_22_secret_adviser.txt",
+ "facts": [
+  {
+   "fact": "Column 的造词慰问（祝贺+哀悼合体）——先给退路（可宣布改行文化研究；多数教授没考过五考照样有好职业，如 Arch），并继续当秘密顾问「我盼着多看你的文化研究副业」。",
+   "anchor": "Congratudolences",
+   "start": 2587,
+   "end": 2603
+  },
+  {
+   "fact": "Gardenpath 的新改装目标：给 galaxysuit 做「电路」——只读 Murtis 的 director cells 输出而不屈服于集群命令。",
+   "anchor": "create some kind of circuit",
+   "start": 3778,
+   "end": 3805
+  },
+  {
+   "fact": "Column 的伦理重锤：你在改装对方的生物、对方也可能在改你——「你是游客：在 Tentacle 乱来之后可以回 Memory 的舒适家，后果不用你付。谁替你收拾残局？谁会受害？」",
+   "anchor": "you are a tourist",
+   "start": 6005,
+   "end": 6022
+  },
+  {
+   "fact": "Gardenpath 搬出 Language Log 辩护（「万一他们出事，至少有记录，像第一次 Cloud War 时帮了 Skiff 人」）——Column 炸裂：「你也觉得那帮了 Skiff 人？被 Galleon 军驱逐漂流的那些？」——「我该为教得这么差而羞愧。祝你好运。」绝交式离场。",
+   "anchor": "helped the people of Skiff",
+   "start": 6712,
+   "end": 6738
+  },
+  {
+   "fact": "Plumline Lab：三个 Open Lab 大、自带 probe 发射器；Plumline 称 Gardenpath 为「我们最新的收获」；Turret（反战演说者）竟是本室学生；Stairwell 被叫进办公室的表情像近来的 Wainscot：疲惫、认命、焦躁。",
+   "anchor": "Our newest acquisition",
+   "start": 9757,
+   "end": 9779
+  },
+  {
+   "fact": "Wainscot 的私语忠告：Plumline 有脾气，最好他说什么你都答应——「答应不吃亏」。还顺手回避了「Plinth 去哪了」的问题（满室学生竖起耳朵）。",
+   "anchor": "Be careful with Investigator Plumline",
+   "start": 11610,
+   "end": 11647
+  },
+  {
+   "fact": "趁 Oriel 考试，Gardenpath 把改装代码灌进顶级 matter programmer——很快 galaxysuit 就能接收 Murtis 的 director cells 信息而不执行集群指令；打算考 Third 前去一趟 Tentacle。",
+   "anchor": "director cell reader",
+   "start": 12006,
+   "end": 12026
+  }
+ ]
+}

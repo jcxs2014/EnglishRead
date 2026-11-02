@@ -1,0 +1,49 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch34",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch34_chapter_34_weaponized.txt",
+ "facts": [
+  {
+   "fact": "回到 Transit Hall：军人爆满（Rational 为主+Galleon 云民、全副甲胄）——「战场是不是要漫进 Rational 空间的气尾了？」",
+   "anchor": "uncharacteristically packed with soldiers",
+   "start": 123,
+   "end": 164
+  },
+  {
+   "fact": "宿舍：Buttress 醉着备 Third、思维里挂着应付考官的仓促蛋白串——Gardenpath 判定过不了。",
+   "anchor": "There was no way Buttress was going to pass",
+   "start": 2366,
+   "end": 2409
+  },
+  {
+   "fact": "细胞被劫：样品柜空了——库存表显示 Plumline 在 Clustersedge 末取走、已送 Redoubt lab「accepted for testing」，时间戳是 Separation 一早（有人提前醒录入）。",
+   "anchor": "The director cell container wasn",
+   "start": 3740,
+   "end": 3772
+  },
+  {
+   "fact": "Nuraghe 读完提案：「多数研究是所谓 forced clustering——武器化后让敌人投降、倒戈、昏迷；医疗用途只是个 tenuous 的幌子；提案里甚至列着 Galleon 的一家武器制造商做合作方」。",
+   "anchor": "a good proposal to do something really, really bad",
+   "start": 5251,
+   "end": 5301
+  },
+  {
+   "fact": "「forced clustering 是我在考场上用的词。他们当然拿走了我的想法还把它变得可怕。他们还拿走了——拿走了我的细胞培养」。",
+   "anchor": "I called it in my exam",
+   "start": 6001,
+   "end": 6023
+  },
+  {
+   "fact": "Plumline 的威胁话术：「野外总有些不干净的事。也许摘一朵没人在意的花，也许跟野人做爱。但工作价值抵消这些小过失——总之，野外的事留在野外。懂我意思吗？」——他知道 Murtis。",
+   "anchor": "what happens in the field",
+   "start": 8323,
+   "end": 8348
+  },
+  {
+   "fact": "尾声：「我们在分析你的样品。两三个 journeys 后若有戏，Redoubt 会给我们实验室时间，为我们的赞助方快速造个原型。」",
+   "anchor": "rapid prototype",
+   "start": 9137,
+   "end": 9152
+  }
+ ]
+}

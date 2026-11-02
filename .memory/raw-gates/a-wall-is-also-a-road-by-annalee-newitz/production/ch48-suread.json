@@ -1,0 +1,49 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch48",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch48_terminology.txt",
+ "facts": [
+  {
+   "fact": "作者自述：研究罗马庞贝多年（《Four Lost Cities》作者）；写作本书时去过 Tharros 的考古现场，见过想象中 Julia 与 Murtis 度过晚年的那间 taberna；撒丁岛的 nuraghe 确实建于 Punic 人到来之前——「任何撒丁人都会这么告诉你」。",
+   "anchor": "visited an archaeological dig at Tharros",
+   "start": 273,
+   "end": 313
+  },
+  {
+   "fact": "术语保留：liberta（libertus 的阴性）不译——罗马奴隶制更接近现代的契约奴役；主人释放（manumit）奴隶极常见，常雇他们在自家生意里干活甚至经营；有些奴隶被教读写正是为此。",
+   "anchor": "more like the modern-day idea of indentured servitude",
+   "start": 794,
+   "end": 847
+  },
+  {
+   "fact": "Murtis 的家乡是真实的：Mactar（今通常拼 Maktar），迦太基以西之城，罗马征服后仍在文化与政治上保持 Punic 数百年；罗马人称那一带为阿非利加省（今突尼斯）；庞贝的埃及热解释了 Julia 与 Murtis 们的 Isis 崇拜。",
+   "anchor": "usually spelled Maktar today",
+   "start": 1104,
+   "end": 1132
+  },
+  {
+   "fact": "作者确认本书的猎奇细节全是真的：绑棍共享海绵（xylospongia）、共用马桶凳、活水冲厕——「Murtis 家楼下就有公共喷泉」。",
+   "anchor": "Yes, Romans did have extremely (to us) weird toilet rituals",
+   "start": 1536,
+   "end": 1595
+  },
+  {
+   "fact": "重磅确认：lupanar 真有一个叫 Murtis 的人，真的在墙上刻下姓名与 felatris 头衔——「自从知道这一点，我就一直好奇 Murtis 是什么样的人。所以我把她写活了给你」；Julia Felix 也真有其人（拥有庞贝最大 praedia 之一，浴场+寄宿公寓的主人）。",
+   "anchor": "A person named Murtis did indeed carve her name",
+   "start": 2505,
+   "end": 2552
+  },
+  {
+   "fact": "Lucius of Herculaneum 确有其人：伊壁鸠鲁迷（烧毁的卷轴最近被新式 X 射线技术解读），园中那些淫荡雕像作者亲眼见过——「没错，他真的有一座火腿日晷」。",
+   "anchor": "And yes, he had a prosciutto sundial",
+   "start": 3228,
+   "end": 3264
+  },
+  {
+   "fact": "结束语：「愿我们永远记住他们与他们的生活，而不是帝王的征服。」",
+   "anchor": "Long may we remember them",
+   "start": 3589,
+   "end": 3614
+  }
+ ]
+}

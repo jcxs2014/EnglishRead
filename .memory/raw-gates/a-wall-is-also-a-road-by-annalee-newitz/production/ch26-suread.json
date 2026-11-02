@@ -1,0 +1,43 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch26",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch26_chapter_26_strange_flowers.txt",
+ "facts": [
+  {
+   "fact": "Oriel 过 Second：Column 陪出考场盛赞（terrific answers、数据组织无可挑剔、与农民的讨论会有真实影响）；见到 Gardenpath 却缩回公事化的球形。",
+   "anchor": "Column says I definitely passed",
+   "start": 693,
+   "end": 724
+  },
+  {
+   "fact": "Column 冷淡问一句「相信你在 Plumline Lab 安顿好了？」就走；Oriel 对两人决裂毫不知情，Gardenpath 庆幸 Column 没有背后抹黑。",
+   "anchor": "settled into the Plumline Lab",
+   "start": 1164,
+   "end": 1193
+  },
+  {
+   "fact": "两人去了几代前用于农业实验的老场：墙上满是杂交花与藻类的混乱多边形，小径荒草宜人；Gardenpath 猜某教室在教翻译。",
+   "anchor": "chaotic polygons of hybrid flowers",
+   "start": 2004,
+   "end": 2038
+  },
+  {
+   "fact": "谈话触礁：Gardenpath 转述决裂（「记笔记不等于负责，这话没道理」），期待 Oriel 像上次那样说 Column 太挑剔——但这次 Oriel 没接话。",
+   "anchor": "It honestly didn’t make much sense",
+   "start": 3269,
+   "end": 3303
+  },
+  {
+   "fact": "黄簇红刺的怪花登场：Oriel 说「真怪，搞不懂是什么造出来的」；两人嗅花，Gardenpath 说想在 Oriel 过考这天闻点新东西。",
+   "anchor": "I can’t figure out what went into making them",
+   "start": 3561,
+   "end": 3606
+  },
+  {
+   "fact": "Oriel 提议聊点与研究生院完全无关的——话题封死；结尾拥抱「像一场没人承认的罪获得了原谅」。",
+   "anchor": "forgiveness for a crime",
+   "start": 4862,
+   "end": 4885
+  }
+ ]
+}

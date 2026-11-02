@@ -1,0 +1,55 @@
+{
+ "book": "a-wall-is-also-a-road-by-annalee-newitz",
+ "chapter": "ch02",
+ "text": "notes/books/novels/a-wall-is-also-a-road-by-annalee-newitz/text/ch02_chapter_2_a_step_away_from_them.txt",
+ "facts": [
+  {
+   "fact": "临近期末，Gardenpath 支开同学后单独问导师 Arch：如果野外考察依赖的前提可能不成立该怎么办",
+   "anchor": "Gardenpath worked up the courage to ask Professor Arch a question",
+   "start": 646,
+   "end": 711
+  },
+  {
+   "fact": "Gardenpath 向 Arch 坦白：本科时观测了银河盘 70 万颗行星，发现一颗带明确呼吸信号",
+   "anchor": "observed seven hundred thousand planets in the galactic disk",
+   "start": 2334,
+   "end": 2394
+  },
+  {
+   "fact": "Arch 警告：有权势的人把职业生涯押在「Spigot 不可能演化生命」上，这发现等于推翻几代科学共识",
+   "anchor": "have staked their careers on the idea that the Spigot cannot evolve life",
+   "start": 3459,
+   "end": 3531
+  },
+  {
+   "fact": "Arch 嘱咐别高调宣称 Spigot 有生命，按「考官怀有敌意」来准备数据陈述",
+   "anchor": "present your data under the assumption that your examiners will be hostile",
+   "start": 4320,
+   "end": 4394
+  },
+  {
+   "fact": "此后 Arch 兑现导师承诺，课后留 Gardenpath 谈极端环境生命分析，并暗示用无法伪造的视频格式记录",
+   "anchor": "kept them after class to discuss analyzing life-forms in extreme environments",
+   "start": 6102,
+   "end": 6179
+  },
+  {
+   "fact": "Oriel 指出 Gardenpath 的 galaxysuit 缺了吃的，掏出营养吸吸包，说服了从未想过工作也要吃饱的 Gardenpath",
+   "anchor": "pulled out a clever sippy packet for nutrients",
+   "start": 10084,
+   "end": 10130
+  },
+  {
+   "fact": "Oriel 主动送出 oath receptor——Gardenpath 从没人送过誓约受体、也没被叫过挚友，随后学会折法并回赠了一枚",
+   "anchor": "Nobody had ever offered one to Gardenpath",
+   "start": 13947,
+   "end": 13988
+  },
+  {
+   "fact": "出发日 Gardenpath 在 Transit Hall 首次启用压缩功能，被压到不足常态千分之一，乘 travel spore 跳往目标行星",
+   "anchor": "squashed down to less than a thousandth of their normal size",
+   "start": 23749,
+   "end": 23809
+  }
+ ]
+}
