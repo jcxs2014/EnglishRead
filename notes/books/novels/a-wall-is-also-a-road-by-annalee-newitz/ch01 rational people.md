@@ -50,26 +50,26 @@ modified: "2026-11-02"
 - **为什么这样写**：设定安装藏在「宜居清单」的口吻里：金属、水、行星一路列过去，列到「偶尔还有迷你星系」时尺度已经荒诞，可叙述者面不改色——这个宇宙的常识就是这样超载。落到正题时笔锋一收：Rational 空间不过是尾流里的「藏」（tucked）——一字给整个文明标注了体量与处境：富饶、安稳，而且小。
 - **读者视角提示**：这张地图是全书的棋盘：Gardenpath 要研究的行星在星盘上（上一段被宣判的死域），学校在尾流里（ Rational 领地）——他选的方向本身就是一次越界。记住 Skiff 与 Galleon 这对名字（小艇与大帆船），后面讲 Cloud People 分支时它们多半还会出场。
 
-> **原句 6:** "“I have a hunch that something might be growing on this planet.” They weren’t about to say anything about their data that showed faint signatures of molecular respiration in the planet’s atmosphere. Somebody was breathing down there, and they wanted to know who."
+> **原句 6:** "“You know that region has been thoroughly mapped, right? All the planets in Spigot’s plane are dead. Completely uninteresting.”"
+
+- **中文理解**：「你知道那片区域早被彻底测绘过了吧？Spigot 星盘上的行星全是死的。毫无研究价值。」
+- **关键词**：thoroughly mapped / dead / uninteresting
+- **为什么这样写**：Wainscot 的杀伤力不靠音量，靠「共识」：测绘过＝已死＝无价值，三步把 Gardenpath 的选题钉进常识的棺材。两个短句收尾（dead / Completely uninteresting）是判决书的落槌节奏——越短的句子越像不需要讨论。而读者的位置恰恰相反：Gardenpath 手里那份读出呼吸信号的数据，下一块就要露出一角——「死域」的官方结论从这一刻起开始漏水。
+- **读者视角提示**：记住「被彻底测绘过」这个说法——主角的整个赌注就是官方地图有盲区。凡是有人用「早就查清了」来堵嘴的地方，后面多半埋着东西。
+
+> **原句 7:** "“I have a hunch that something might be growing on this planet.” They weren’t about to say anything about their data that showed faint signatures of molecular respiration in the planet’s atmosphere. Somebody was breathing down there, and they wanted to know who."
 
 - **中文理解**：「我有一个预感，这颗行星上可能长着什么东西。」他们没打算提起自己那份数据——数据显示行星大气里有分子呼吸的微弱信号。下面有人在呼吸，他们想知道那是谁。
 - **关键词**：hunch / molecular respiration / breathing
 - **为什么这样写**：三句构成一个完整的「公开—隐藏—钩子」结构：公开的是最无害的词 hunch，藏起来的是全部实证（呼吸信号），收尾一句把研究冷不丁改写成寻人——「who」让科学问题瞬间有了心跳。呼吸是最微小的生命证据，也是本章唯一的「异类存在」证据，全书的第一颗火种在这句划着。
 - **读者视角提示**：把这句当成全书的引擎：Gardenpath 的学位野心之下真正的动机是「想知道那是谁」。这个 who 会在后面变成具体的名字——第一遍读时不妨赌一个：它是不是也和 Gardenpath 一样，在伪装成别的东西。
 
-> **原句 7:** "“An evidence-based hunch is indistinguishable from a hypothesis.” Oriel sent a few molecules of empathy wafting toward Gardenpath. “Don’t you think, Gardenpath?”"
+> **原句 8:** "“An evidence-based hunch is indistinguishable from a hypothesis.” Oriel sent a few molecules of empathy wafting toward Gardenpath. “Don’t you think, Gardenpath?”"
 
 - **中文理解**：「有证据支撑的预感，与假说没有区别。」Oriel 朝 Gardenpath 送出几缕共情的分子。「你说是不是，Gardenpath？」
 - **关键词**：evidence-based hunch / hypothesis / molecules of empathy
-- **为什么这样写**：Oriel 用一句学术措辞把 Wainscot 刚扔下的「不理性」原路顶了回去——预感不是玄学，是没有公开的证据。辩护的方式比内容更动人：共情是撒出去的「几缕分子」，这个世界里连安慰都有物理形态。结尾反问 Don’t you think 把 Gardenpath 拉进同一阵线，一个陌生人的义举就这样完成。
+- **为什么这样写**：Oriel 用一句学术措辞给 hunch 正名：有证据支撑的预感与假说无异——预感不是玄学，是尚未公开的证据。辩护的方式比内容更动人：共情是撒出去的「几缕分子」，这个世界里连安慰都有物理形态。结尾反问 Don’t you think 把 Gardenpath 拉进同一阵线，一个陌生人的义举就这样完成。
 - **读者视角提示**：这是 Gardenpath 第一次被人无理由地撑腰——注意他随后的反应（膜起疙瘩、越来越狼狈）：在这个情绪都写在膜上的种族里，「被看见善意」和「被看见秘密」同样危险。Oriel 的仗义与 Wainscot 的刻薄是同一枚硬币，本章末尾会翻出另一面。
-
-> **原句 8:** "“You know that region has been thoroughly mapped, right? All the planets in Spigot’s plane are dead. Completely uninteresting.”"
-
-- **中文理解**：「你知道那片区域早被彻底测绘过了吧？Spigot 星盘上的行星全是死的。毫无研究价值。」
-- **关键词**：thoroughly mapped / dead / uninteresting
-- **为什么这样写**：Wainscot 的杀伤力不靠音量，靠「共识」：测绘过＝已死＝无价值，三步把 Gardenpath 的选题钉进常识的棺材。两个短句收尾（dead / Completely uninteresting）是判决书的落槌节奏——越短的句子越像不需要讨论。而这句在读者眼里恰恰是反的：我们刚在原句 6 里见过呼吸的信号，「死域」的官方结论从这一刻起就开始漏水。
-- **读者视角提示**：记住「被彻底测绘过」这个说法——主角的整个赌注就是官方地图有盲区。凡是有人用「早就查清了」来堵嘴的地方，后面多半埋着东西。
 
 > **原句 9:** "Right before full dissolution, they tasted what was certainly Wainscot’s mood, now a diminishing bubble of attenuated chemicals. Entitled. Disdainful. And something else—sharp, calcified grains of insecurity."
 
