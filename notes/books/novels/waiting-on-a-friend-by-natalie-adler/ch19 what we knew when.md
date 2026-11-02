@@ -108,7 +108,7 @@ modified: "2026-11-02"
 
 - **中文理解**：所以到 82 年 10 月，Mark 自认出现了最初的症状时，我怪 Dane——但不是因为他把病传给了 Mark。我怪他的是更含糊的东西：他把「疾病」带进了我们的意识。
 
-- **关键词**：I blamed Dane / not because he gave it to Mark / bringing illness into our consciousness
+- **关键词**：I blamed Dane / not because I thought he gave it to Mark / bringing illness into our consciousness
 
 - **为什么这样写**：她把追责的对象从病毒换成了认知：Dane 的罪名是**打开了一扇窗**——让「我们也会」这件事变得可以想象。more ambiguous 的自评是本章最诚实的一笔：她知道自己不公平（Dane 是好人），但承认了恐惧的真正来源——不是接触，是知晓。这句也解释了她此前「不告诉 Mark 看见谁」的所有动机。
 
