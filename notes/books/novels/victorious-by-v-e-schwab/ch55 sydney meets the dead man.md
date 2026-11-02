@@ -55,17 +55,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者要在这里改一改「他开枪就是要她死」这个预判：打中的是一支镖，力道仍然把她撞得踉跄，性质却已经不同。
 
-> **原句 5:** "As Eli’s hand closed around her throat, she drove the blade into his forearm. It went straight through, buried to the hilt on one side, the bloody tip protruding from the other. Anyone else would have cried out, but Eli simply glared, through gritted teeth, as his blood dripped onto her coat."
-
-**中文理解**：伊莱的手一合上她的喉咙，她就把刀送进了他的前臂。刀整个穿过去，一侧没到刀柄，带血的刀尖从另一侧探出来。换了别人早该叫出声，伊莱只是咬着牙瞪她，血一滴一滴滴在她的外套上。
-
-**关键词**：drove the blade · gritted teeth
-
-**为什么这样写**：掐喉和捅刀写在同一个句子里，两个动作互相咬着，谁也不占上风。第二句把伤口写到具体位置：这一侧没到刀柄，那一侧露出刀尖，让读者相信这一下真的造成了伤害。第三句用「换了别人」作比，把伊莱从人的反应里划出去——不喊、不退，只瞪。
-
-**读者视角提示**：读者刚以为她扳回一手，这一句又把胜负压平：他受了伤，手却没松。血滴在她的外套上，伤口的代价因此落到她身上，而不只是他的手臂。
-
-> **原句 6:** "He continued forward and she continued back, until something stopped her. The railing of the motel stairs. The ones that led up to the second floor. To Dol, and Mitch, and help."
+> **原句 5:** "He continued forward and she continued back, until something stopped her. The railing of the motel stairs. The ones that led up to the second floor. To Dol, and Mitch, and help."
 
 **中文理解**：他往前一步，她退一步，直到有什么东西挡住了她：旅馆楼梯的栏杆。那道楼梯通到二楼，通向 Dol，通向米奇，通向援手。
 
@@ -74,6 +64,16 @@ modified: "2026-11-01"
 **为什么这样写**：全段是一组对照：他 forward，她 back，两个动词一推一收，中间用 until 挂住。真正挡住她的是一道栏杆——具体的、可以用手抓住的东西。接着三个短句把栏杆背后的内容一层层摊开：二楼、Dol、米奇、援手。援手是最后一项，也是最远的一项；句子停在 help 上，前面几个词就已经让读者知道这道楼梯意味着什么。
 
 **读者视角提示**：读者跟着她数这道楼梯还有几级——四级。上面有狗、有人、有救兵，可她只上了四级就被抓下来。这一段把「差一步」的量算给读者看。
+
+> **原句 6:** "As Eli’s hand closed around her throat, she drove the blade into his forearm. It went straight through, buried to the hilt on one side, the bloody tip protruding from the other. Anyone else would have cried out, but Eli simply glared, through gritted teeth, as his blood dripped onto her coat."
+
+**中文理解**：伊莱的手一合上她的喉咙，她就把刀送进了他的前臂。刀整个穿过去，一侧没到刀柄，带血的刀尖从另一侧探出来。换了别人早该叫出声，伊莱只是咬着牙瞪她，血一滴一滴滴在她的外套上。
+
+**关键词**：drove the blade · gritted teeth
+
+**为什么这样写**：掐喉和捅刀写在同一个句子里，两个动作互相咬着，谁也不占上风。第二句把伤口写到具体位置：这一侧没到刀柄，那一侧露出刀尖，让读者相信这一下真的造成了伤害。第三句用「换了别人」作比，把伊莱从人的反应里划出去——不喊、不退，只瞪。
+
+**读者视角提示**：读者刚以为她扳回一手，这一句又把胜负压平：他受了伤，手却没松。血滴在她的外套上，伤口的代价因此落到她身上，而不只是他的手臂。
 
 > **原句 7:** "“I remember. Vividly,” he said, one knee pressing into her cracked ribs. “Don’t worry,” he added, “I’ll return the favor.”"
 

@@ -79,7 +79,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：注意 even one with Rios’s ability 这半句：它已经替读者确认，坐在对面的探员不是普通人。
 
-> **原句 7:** “As his replacement, I have no intention of expanding his effort. No intention of rehabilitating and releasing more EOs into the field. Stell’s project will die with you. Knowing that,” she concluded, spreading her hands, “will you serve me as you served him?”
+> **原句 7:** "“As his replacement, I have no intention of expanding his effort. No intention of rehabilitating and releasing more EOs into the field. Stell’s project will die with you. Knowing that,” she concluded, spreading her hands, “will you serve me as you served him?”"
 
 **中文理解**：作为他的接任者，她不打算扩大斯特尔的那套做法，也不打算再把 EO 改造好、放回外勤；斯特尔的项目会随着对方一起结束。说完她摊开手，问对方还愿不愿意像侍奉斯特尔那样侍奉她。
 

@@ -49,25 +49,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这是加百列给西德妮的位置：不是学生，不是样本，是第一份「一起研究」的对象。而「我先来」也说明他打算先展示自己。
 
-> **原句 6:** "The woman’s fingers vised, sudden and hard. The glass cracked, then shattered, collapsing inward. Jagged shards bit deep into her hand and blood instantly began to well between her fingers."
-**中文理解**：那女人的手指突然夹紧，硬得像台钳。杯子先裂，再碎，往里面塌下去。尖利的碎片扎进她的手，血立刻从指缝里涌出来。
-**关键词**：fingers vised · bit deep
-**为什么这样写**：三个动作挨着来：夹紧、裂、碎，一个比一个彻底。碎片往里面塌，血立刻涌出来，中间没有一句写她的反应。
-**读者视角提示**：读者看到的是手和杯子，看不到脸。整段没有一个字写疼，血却已经从指缝里涌出来。
-
-> **原句 7:** "One moment the woman was standing there, blithely bleeding on the floor. And the next, she was gone, her body collapsing inward, the way the glass had done, skin and bone disintegrating into ash."
-**中文理解**：前一刻那女人还站在那儿，若无其事地流着血。下一刻她就没了：身体往里面塌，跟刚才那只杯子一样，皮和骨都散成灰。
-**关键词**：blithely bleeding · into ash
-**为什么这样写**：两个时间点对得很齐：前一刻和下一刻，中间只隔着一个 And。人被写成跟杯子同一个下场，那句「跟刚才那只杯子一样」把人和那只杯子绑在一起。最后落在皮和骨两样东西上。
-**读者视角提示**：读者刚看过那只杯子怎么碎，这里再读到「跟杯子一样」，就知道她也被这样处理了。整句没有写任何人的反应，只有两个时间点和一个人的消失。
-
-> **原句 8:** "She’d tried for years to tell herself that Eli somehow got inside Serena’s head, but mind control was her sister’s power, not his. Which meant she believed it. Believed that they were monsters."
-**中文理解**：这些年她一直想说服自己：是伊莱钻进了塞雷娜的脑子。可读心是她姐姐的本事，不是他的。这么一来，就只剩一种解释：她信了。信他们是怪物。
-**关键词**：mind control · they were monsters
-**为什么这样写**：先给她一个用了多年的说法，再用一个「可」把它拆掉：读心是姐姐的能力。拆完只剩一句很短的推断，最后三个词把结论压到最小。
-**读者视角提示**：这条推理是她在心里走给自己的，读者跟着走完，落点是最后那句最短的。句子把「她信了」单独放成一句，前面那一长句的份量全落到这三个字上。
-
-> **原句 9:** "“Ms. Roy was the director here at EON, prior to my arrival,” he said, addressing Sydney. “In fact, she’s the one who hired me.” He looked to Helena. “Crush the glass.”"
+> **原句 6:** "“Ms. Roy was the director here at EON, prior to my arrival,” he said, addressing Sydney. “In fact, she’s the one who hired me.” He looked to Helena. “Crush the glass.”"
 
 **中文理解**：「罗伊女士在我来之前是 EON 的主管，」他说着，转向西德妮。「事实上，是她招的我。」他转头看向海伦娜。「捏碎那只杯子。」
 
@@ -76,6 +58,34 @@ modified: "2026-11-01"
 **为什么这样写**：三句话三个动作。先把身份交代清楚——海伦娜·罗伊在他来之前是 EON 的主管，再补一句「是她招的我」，把「前任主管」和「他的上线」两件事并成一句。第二句用 In fact 起头，把这一句抬到比前一句更重的位置；接着 He looked to Helena 让视线完成一次交接。最后那句命令只有三个词，宾语就是上一段里读者刚见过的那只杯子——两个信息块靠「一只杯子」接上。
 
 **读者视角提示**：读者到这里才知道海伦娜不只是被治愈的病人：她在这栋楼里管过事，而且这个治疗师是她自己招来的人。这两句让刚才那只杯子的碎裂变成有来由的——命令是她给的，动手的是她。
+
+> **原句 7:** "The woman’s fingers vised, sudden and hard. The glass cracked, then shattered, collapsing inward. Jagged shards bit deep into her hand and blood instantly began to well between her fingers."
+**中文理解**：那女人的手指突然夹紧，硬得像台钳。杯子先裂，再碎，往里面塌下去。尖利的碎片扎进她的手，血立刻从指缝里涌出来。
+**关键词**：fingers vised · bit deep
+**为什么这样写**：三个动作挨着来：夹紧、裂、碎，一个比一个彻底。碎片往里面塌，血立刻涌出来，中间没有一句写她的反应。
+**读者视角提示**：读者看到的是手和杯子，看不到脸。整段没有一个字写疼，血却已经从指缝里涌出来。
+
+> **原句 8:** "One moment the woman was standing there, blithely bleeding on the floor. And the next, she was gone, her body collapsing inward, the way the glass had done, skin and bone disintegrating into ash."
+**中文理解**：前一刻那女人还站在那儿，若无其事地流着血。下一刻她就没了：身体往里面塌，跟刚才那只杯子一样，皮和骨都散成灰。
+**关键词**：blithely bleeding · into ash
+**为什么这样写**：两个时间点对得很齐：前一刻和下一刻，中间只隔着一个 And。人被写成跟杯子同一个下场，那句「跟刚才那只杯子一样」把人和那只杯子绑在一起。最后落在皮和骨两样东西上。
+**读者视角提示**：读者刚看过那只杯子怎么碎，这里再读到「跟杯子一样」，就知道她也被这样处理了。整句没有写任何人的反应，只有两个时间点和一个人的消失。
+
+> **原句 9:** "She’d tried for years to tell herself that Eli somehow got inside Serena’s head, but mind control was her sister’s power, not his. Which meant she believed it. Believed that they were monsters."
+**中文理解**：这些年她一直想说服自己：是伊莱钻进了塞雷娜的脑子。可读心是她姐姐的本事，不是他的。这么一来，就只剩一种解释：她信了。信他们是怪物。
+**关键词**：mind control · they were monsters
+**为什么这样写**：先给她一个用了多年的说法，再用一个「可」把它拆掉：读心是姐姐的能力。拆完只剩一句很短的推断，最后三个词把结论压到最小。
+**读者视角提示**：这条推理是她在心里走给自己的，读者跟着走完，落点是最后那句最短的。句子把「她信了」单独放成一句，前面那一长句的份量全落到这三个字上。
+
+> **原句 10:** "“Oh, I am,” said Dr. Gray. “She’s too powerful. And too unstable to control it. … in retrospect, it was a mistake. One you need to rectify.” She stiffened. “What? How?” His gaze dropped to the ashes on the floor, and she almost laughed. “You want me to kill my sister?”"
+
+**中文理解**：「那当然怕，」加百列说。「塞雷娜太强了，太不稳定，驾驭不住。……事后我们都同意，带她回来是个错误。这个错得由你去纠正。」她僵住了。「什么？怎么做？」他的目光落到地上的灰烬上，她几乎笑出来：「你是要我去杀我姐姐？」
+
+**关键词**：a mistake · kill my sister
+
+**为什么这样写**：他的话用一个 but 把判断追认成共识，再把补救的责任压到她身上。她僵住的那一下是被逼到墙角的动作；「什么？怎么做？」是慌乱里先问方法。最后一句突然抬高音量并带上反问——「你是要我去杀我姐姐？」——把治疗议题一步推成弑亲议题。
+
+**读者视角提示**：这是西德妮在加百列面前第一次把话顶回来。她没有问能不能做，而是把题目本身摆到桌上：你要的到底是治疗，还是杀人。
 
 ## 本章词汇
 

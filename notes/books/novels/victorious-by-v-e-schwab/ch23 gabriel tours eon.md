@@ -69,7 +69,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一段没有说画面是假的，只说了改法；读者要自己把「改过」和「放进去」接起来，再意识到他自己也知道这会被人看破。一小时与三个州之间的距离，是这段话里唯一的证据。
 
-> **原句 6:** "Xavi scrambled backward as a second wall descended from the ceiling farther down the hall, blocking the boy’s retreat. He spun in a panicked circle as gas poured in from hidden vents, pluming thick and white around him."
+> **原句 6:** "“If it was up to me, I’d write him off,” said Helena. “He’s more trouble than he’s worth. But the board wants to make a point.” “Why’s that?” “Because,” she said, “he’s the one who killed Stell.”"
+
+**中文理解**：「要是我做主，我会直接把他划掉，」海伦娜说。「他惹的麻烦比他的价值大得多。但董事会要拿他立个规矩。」加百列问：为什么？她答：「因为，杀斯特尔的人就是他。」
+
+**关键词**：write him off · killed Stell
+
+**为什么这样写**：三层推进：先给海伦娜自己的判断（划掉），再给外部压力（董事会），最后才给原因。三句里主角换了三个人：她、董事会、那个「他」。名字直到最后一句才出现，而且是在一句引语里——她说到斯特尔时用的是过去式，说「他」时用的是现在式：人还活着，旧账还没结。
+
+**读者视角提示**：斯特尔是 EON 的前任主任，董事会要为一个死掉的主任立规矩。这句把本章那个男孩从「危险品」改写成「凶手」——也是海伦娜为什么亲自带队看住他的原因。
+
+> **原句 7:** "Xavi scrambled backward as a second wall descended from the ceiling farther down the hall, blocking the boy’s retreat. He spun in a panicked circle as gas poured in from hidden vents, pluming thick and white around him."
 
 **中文理解**：第二道墙从走廊尽头的天花板上落下来，堵住男孩的退路，他手脚并用地往后挣。他在原地惊惶地转圈，毒气从暗藏的通风口灌进来，在他周围翻成又厚又白的一团。
 
@@ -79,7 +89,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这里才把名字写出来——Xavi，名字和「被困住」同时到达，读者的同情是被这个顺序逼出来的。毒气写成又厚又白的一团，没有写剂量，也没有写男孩能撑多久。
 
-> **原句 7:** "She shook her head. “You have a lot to learn about EOs. That one,” she said, gesturing to the unconscious boy as the guards forced his limbs back into the straitjacket, “can erase a person’s mind, just by touching them.”"
+> **原句 8:** "She shook her head. “You have a lot to learn about EOs. That one,” she said, gesturing to the unconscious boy as the guards forced his limbs back into the straitjacket, “can erase a person’s mind, just by touching them.”"
 
 **中文理解**：她摇了摇头，说他对 EO 还有很多要学。她指了指那个已经昏迷的男孩——警卫正把他的四肢塞回束身衣——说这一个只要碰到人，就能把人的心智抹掉。
 
@@ -89,7 +99,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：能力被限定在触碰上，just by touching them 这几个词把安全距离抹掉了。她没有解释这类人为什么关在牢里而不是病房；她只交代了怎么把人绑回去。
 
-> **原句 8:** "He stilled, remembering the hungry way the boy had eyed his outstretched hand. It sickened him. Not just the danger, narrowly avoided, but the idea that it had been a test, and he’d just failed."
+> **原句 9:** "He stilled, remembering the hungry way the boy had eyed his outstretched hand. It sickened him. Not just the danger, narrowly avoided, but the idea that it had been a test, and he’d just failed."
 
 **中文理解**：他停住了，想起那男孩盯着他伸出去的手时那种饥饿的眼神。这让他恶心。不只是因为刚刚躲过的危险，而是因为他想到那是一场试探，而他刚刚没通过。
 
@@ -98,16 +108,6 @@ modified: "2026-11-01"
 **为什么这样写**：第一句先用 stilled 让身体停住，再让记忆追上来。hungry 把求助的目光改写成「要」的目光，一个词就把刚才那一幕翻了面。第三句把恐惧切成两层：前面那层是刚躲过的危险，后面那层更狠——危险已经过去，失败留了下来。
 
 **读者视角提示**：他恶心的对象不是那个男孩，是自己。文本没有交代这场试探是谁设的——是这座楼在考他，还是他自己给自己出了一道题，两种读法都站得住。
-
-> **原句 9:** "“If it was up to me, I’d write him off,” said Helena. “He’s more trouble than he’s worth. But the board wants to make a point.” “Why’s that?” “Because,” she said, “he’s the one who killed Stell.”"
-
-**中文理解**：「要是我做主，我会直接把他划掉，」海伦娜说。「他惹的麻烦比他的价值大得多。但董事会要拿他立个规矩。」加百列问：为什么？她答：「因为，杀斯特尔的人就是他。」
-
-**关键词**：write him off · killed Stell
-
-**为什么这样写**：三层推进：先给海伦娜自己的判断（划掉），再给外部压力（董事会），最后才给原因。三句里主角换了三个人：她、董事会、那个「他」。名字直到最后一句才出现，而且是在一句引语里——她说到斯特尔时用的是过去式，说「他」时用的是现在式：人还活着，旧账还没结。
-
-**读者视角提示**：斯特尔是 EON 的前任主任，董事会要为一个死掉的主任立规矩。这句把本章那个男孩从「危险品」改写成「凶手」——也是海伦娜为什么亲自带队看住他的原因。
 
 ## 本章词汇
 

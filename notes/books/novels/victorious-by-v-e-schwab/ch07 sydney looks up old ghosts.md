@@ -95,6 +95,16 @@ modified: "2026-11-01"
 
 **读者视角提示**：单看这一句，他只是个好看的男学生。真正让人发凉的是"still"什么都没解释，却要求读者自己去补上中间那些年。
 
+> **原句 9:** "This is for the greater good, he’d said, before the shot rang out. The bullet had slammed into her. Buried in her arm instead of her heart because Serena had chosen that moment to intervene. And Sydney had run."
+
+**中文理解**：「这是为了更大的利益，」他在枪响之前说过。子弹砸进了她身上。因为塞雷娜在那一刻选择出手，子弹埋进的是她的手臂，不是心脏。而西德妮跑了。
+
+**关键词**：greater good · buried in her arm
+
+**为什么这样写**：第一句是伊莱的台词，抽象的说辞；第二句是叙述者的账。两个短句把因果摊开：塞雷娜的一插手，换来了「手臂而不是心脏」。And Sydney had run 单独收尾——她活下来的方式是逃。
+
+**读者视角提示**：这是塞雷娜替西德妮挡下致命的东西，也是西德妮逃向米奇的起点。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -124,13 +134,3 @@ modified: "2026-11-01"
 ## 一句话总结
 
 米奇进城的两小时里，西德妮骑车到邻镇图书馆登录洛克兰大学的课程页，顺手在校友名录里搜出维克多和伊莱：一个让她怀念又恼火，一个让她看见十年前那张没有变老的脸，然后被那张脸钉在椅子上。
-
-> **原句 9:** "This is for the greater good, he’d said, before the shot rang out. The bullet had slammed into her. Buried in her arm instead of her heart because Serena had chosen that moment to intervene. And Sydney had run."
-
-**中文理解**：「这是为了更大的利益，」他在枪响之前说过。子弹砸进了她身上。因为塞雷娜在那一刻选择出手，子弹埋进的是她的手臂，不是心脏。而西德妮跑了。
-
-**关键词**：greater good · buried in her arm
-
-**为什么这样写**：第一句是伊莱的台词，抽象的说辞；第二句是叙述者的账。两个短句把因果摊开：塞雷娜的一插手，换来了「手臂而不是心脏」。And Sydney had run 单独收尾——她活下来的方式是逃。
-
-**读者视角提示**：这是塞雷娜替西德妮挡下致命的东西，也是西德妮逃向米奇的起点。

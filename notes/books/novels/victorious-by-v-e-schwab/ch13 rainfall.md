@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：他删掉的是称呼，不是内容：先脱口而出的是 Vic?，说明心里几乎已经确认，只是不能写下来。
 
-> **原句 3:** "Mitch had spent the last ten years testing his luck. He’d been dragged into Victor’s path, and then, onto his quest for revenge. And he had gone along, in part because it was better to be at Victor’s side than in his way, and in part because Mitch owed him something—his freedom, his help."
+> **原句 3:** "It rang twice, and then, there it was, that low, familiar voice. “Hello, Mitch.” Relief rolled through him, followed by anger. Anger at the other man, not for leaving, but for lying about it. For letting Syd ever think that he would stay."
+
+**中文理解**：电话响了两声，然后那头传来一个低沉而熟悉的声音：「喂，米奇。」宽慰先涌上来，随后是怒气。怒气冲的是另一个人——不是冲他离开，而是冲他撒谎；冲他让西德妮一直以为他会留下。
+
+**关键词**：followed by anger · lying about it
+
+**为什么这样写**：整段只有两句，第二句用 Anger at the other man 重启，把第一句的宽慰立刻推翻。转折靠 not for 这个否定完成：他气的不是离开，是骗。末尾那句 For letting Syd ever think 是整段最重的一句——它把两个人的名字第一次放在一起：离开的人和被留下的人。
+
+**读者视角提示**：这是全书第一次让米奇对维克多动真火。电话那头的声音越温和，这三句就越难看。
+
+> **原句 4:** "Mitch had spent the last ten years testing his luck. He’d been dragged into Victor’s path, and then, onto his quest for revenge. And he had gone along, in part because it was better to be at Victor’s side than in his way, and in part because Mitch owed him something—his freedom, his help."
 
 **中文理解**：十年里他一直在试自己的运气：先被拖进 Victor 的路上，再被拖进那场复仇。他一路跟着，一半是因为站在 Victor 身边比挡在他路上安全，一半是因为他欠着对方——他的自由，他的帮忙。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这两条理由合起来解释了他为什么没跑。注意 his freedom 的主语被省掉了，谁给谁、怎么给，句子里故意留着这块空白。
 
-> **原句 4:** "He wanted a program that would replicate his image, and plant it in surveillance footage all across the country. Mitch smiled as Vic spoke, the cogs in his head already turning. Clever. Offering EON hundreds of false leads would negate any real ones, while wasting copious time and resources, spreading EON thinner with every squandered pursuit."
+> **原句 5:** "He wanted a program that would replicate his image, and plant it in surveillance footage all across the country. Mitch smiled as Vic spoke, the cogs in his head already turning. Clever. Offering EON hundreds of false leads would negate any real ones, while wasting copious time and resources, spreading EON thinner with every squandered pursuit."
 
 **中文理解**：他要的是一个能复制自己的影像、再把它种进全国监控画面里的程序。听着的 Mitch 笑了，脑子里的齿轮已经转起来：聪明。给 EON 送去几百条假线索，真线索就被冲掉，同时耗掉大量时间与人力，每一次白跑都让 EON 更薄。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：「复制影像」在整章只出现这一次，但它决定了此后所有追捕的成色：追捕方拿到的每一帧都可能是假的。
 
-> **原句 5:** "“Who were you talking to?” she asked, eyes sharp. At first, he took the look for fear, then realized it was worse: hope. He could tell her. But the truth would only make things worse."
+> **原句 6:** "“Who were you talking to?” she asked, eyes sharp. At first, he took the look for fear, then realized it was worse: hope. He could tell her. But the truth would only make things worse."
 
 **中文理解**：她问他刚才在跟谁说话，眼神很利。他起初把那个眼神读成害怕，随即明白更糟：那是希望。他本可以告诉她，可真话只会让事情更糟。
 

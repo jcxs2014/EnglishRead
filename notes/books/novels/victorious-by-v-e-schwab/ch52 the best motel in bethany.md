@@ -45,7 +45,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者刚看完米奇为什么挑最不起眼的地方住，接着听本地人把这种地方讲成被剩下的。两条线在这一段并到一起，谁都不用点破。
 
-> **原句 4:** "No, he couldn’t tell her that. Instead, he’d made the mistake of saying they were for “hypertension,” hoping that would put the matter to rest, but her face, already pale, had gone white, her eyes widening with worry. “Are you okay?”"
+> **原句 4:** "As he trudged back out into the lot, his watch chimed its six-hour warning. He dug the pills from his coat pocket, tapped one into his palm and swallowed dry."
+
+**中文理解**：他拖着步子走回停车场，手表响了——那是六小时一次的提醒。他从外套口袋里摸出药片，倒一片在掌心，干吞下去。
+
+**关键词**：six-hour warning · swallowed dry
+
+**为什么这样写**：这两句是一套被校准过的动作：响、干吞、不喝水。swallowed dry 把「咽」写成干的，没有任何缓冲的动作；药不是随手吃的，是被手表点到时间才吃的。前一句先给声音（chimed），后一句给身体动作，两句都不解释药是什么。原文紧接着写他抬头看见西德妮在看他——她第一次撞见他吃药。
+
+**读者视角提示**：读者在上一块已经知道他用「高血压」搪塞过她一次；这一块是那次追问的起点。干吞这个细节让读者记住：他吞药的动作是熟练的，不是偶尔为之。
+
+> **原句 5:** "No, he couldn’t tell her that. Instead, he’d made the mistake of saying they were for “hypertension,” hoping that would put the matter to rest, but her face, already pale, had gone white, her eyes widening with worry. “Are you okay?”"
 
 **中文理解**：不行，这话他说不出口。他换了个说法，说那些药是治高血压的，本想就此把话带过去；可她的脸本来就白，这下更白了，眼睛睁大，问他：「你没事吧？」
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者知道他在撒谎，也知道她听出来了。他真正想说的那几句（错投一注、暗网上买来的药）在前文已经摆给读者看过，所以「高血压」这个词落下来时，比它本身更重。
 
-> **原句 5:** "“Stay here,” he said, stepping out of the truck. “I’ll go check in.” … He hesitated. Safe meant sticking together, but Syd deserved her privacy, what little he could give her, and so did Mitch. Besides, he told himself, there were only two floors, eight rooms on each, sixteen doors all facing the same lot."
+> **原句 6:** "“Stay here,” he said, stepping out of the truck. “I’ll go check in.” … He hesitated. Safe meant sticking together, but Syd deserved her privacy, what little he could give her, and so did Mitch. Besides, he told himself, there were only two floors, eight rooms on each, sixteen doors all facing the same lot."
 
 **中文理解**：「你待在这儿，」他说着下了车，「我去登记。」他犹豫了一下：安全意味着两个人待在一块，可西德妮该有点自己的隐私——他给不了多少，她自己也该有——他自己也该有。还有，他告诉自己，这家旅馆只有两层，每层八间房，十六扇门全朝着同一片停车场。
 
@@ -64,16 +74,6 @@ modified: "2026-11-01"
 **为什么这样写**：第一句是分派动作：人留在车上，他去办事。后面三句是这笔账的算法——安全要求贴在一起，但隐私也是要的，于是他给自己找一个台阶：这家店一共十六扇门，全朝着同一个停车场，所以就算分开住，也还在彼此眼皮底下。数目（two floors、eight rooms、sixteen doors）一路递进，把一个心虚的折中算成一道可以算的题。
 
 **读者视角提示**：读者跟着他做这道算术，也明白这道算术是被需要逼出来的：他不是不怕分开，是不敢不住在一起。十六扇门这个数，是他把不安换算成规格的方式。
-
-> **原句 6:** "As he trudged back out into the lot, his watch chimed its six-hour warning. He dug the pills from his coat pocket, tapped one into his palm and swallowed dry."
-
-**中文理解**：他拖着步子走回停车场，手表响了——那是六小时一次的提醒。他从外套口袋里摸出药片，倒一片在掌心，干吞下去。
-
-**关键词**：six-hour warning · swallowed dry
-
-**为什么这样写**：这两句是一套被校准过的动作：响、干吞、不喝水。swallowed dry 把「咽」写成干的，没有任何缓冲的动作；药不是随手吃的，是被手表点到时间才吃的。前一句先给声音（chimed），后一句给身体动作，两句都不解释药是什么。原文紧接着写他抬头看见西德妮在看他——她第一次撞见他吃药。
-
-**读者视角提示**：读者在上一块已经知道他用「高血压」搪塞过她一次；这一块是那次追问的起点。干吞这个细节让读者记住：他吞药的动作是熟练的，不是偶尔为之。
 
 ## 本章词汇
 

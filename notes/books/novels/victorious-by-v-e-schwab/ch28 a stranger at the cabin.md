@@ -98,3 +98,13 @@ modified: "2026-11-01"
 ## 一句话总结
 
 一个开黑色轿车的陌生男人找上小屋，西德妮先把他当成维克多，随后躲在柴堆后面，握着一把拔不动的斧头和一把太小的刀。米奇用假名挡下这场拜访，人一走就决定搬家；真正的动作落在厨房——她逼问他有没有瞒着自己，他没认，只说护着她是他自己的选择。
+
+> **原句 6:** "“Syd,” he said, resting his hands on her shoulders, “I’m not doing this because Vic told me to. I’m doing it because your life matters to me. More than anything else. You look after me, and I’ll look after you. That was the deal.”"
+
+**中文理解**：「西德妮，」米奇把手搭在她肩上，「我这么做不是因为维克多让我这么做。我这么做，是因为你的命对我比什么都重要。你照看我，我照看你。这就是我们的约定。」
+
+**关键词**：That was the deal · matters to me
+
+**为什么这样写**：米奇把手放在她肩上，是他第一次主动做出身体接触；这一下把「约定」从口头的东西变成有重量的东西。他先拆掉外来的理由（维克多让我这么做），再换上自己的理由（你的命对我比什么都重要），最后用一句复述把约定说成两人共有——不是他单方面护着她。
+
+**读者视角提示**：读者到这里才明白那笔账是怎么记的：西德妮一直以为米奇只是在执行维克多的命令，这一句把账本翻过来。

@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者先拿到的是安吉的标准——人应该尝过这些东西；至于伊莱自己在游乐园里是什么感受，这一段没有给，他的沉默留在句子外面。
 
-> **原句 3:** "Eli wasn’t sure who. It didn’t matter. One moment it wasn’t there, and the next, Angie was sighing smoke into the air over their heads, and offering the joint to Eli, who took it, even though he’d never been a fan of drugs, didn’t like to lose control."
+> **原句 3:** "He blamed Serena’s illusions. The fresh, but fleeting glimpse of his old friend—back when they were friends—was lodged, splinter-like, beneath his skin. He pushed the memory away as he reached a split."
+
+**中文理解**：他怪塞雷娜的幻象。那一闪而过的新鲜旧友的影子——回到他们还是朋友的时候——像一根碎刺扎在皮下。他把这段记忆推开，走到岔路口。
+
+**关键词**：Serena’s illusions · old friend
+
+**为什么这样写**：这一段先给错觉的来源，再给错觉的物理形状：碎刺（splinter-like）扎在皮下，推不掉，只能等它自己化开。写的是「推开」，推的却是一段旧日友谊；等下他走进塞雷娜造的幻象，看到的正是那段友谊被还原成现场。
+
+**读者视角提示**：这是塞雷娜能力的真正用法：她不放幻象，她放记忆。读者会在这里第一次明白伊莱为什么走不出安吉那间公寓。
+
+> **原句 4:** "Eli wasn’t sure who. It didn’t matter. One moment it wasn’t there, and the next, Angie was sighing smoke into the air over their heads, and offering the joint to Eli, who took it, even though he’d never been a fan of drugs, didn’t like to lose control."
 
 **中文理解**：伊莱不确定那支烟是谁拿出来的，这也不重要；上一刻它还不存在，下一刻安吉已经朝他们头顶吐出烟，并把烟递给伊莱；伊莱接了，尽管他从来不喜欢毒品，也不喜欢失去控制。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者看见一个人做了他平时不会做的事，也看见他自己清楚这一点；这段只把「他接了」和「他不喜欢」摆在一起，中间的空由读者自己填。
 
-> **原句 4:** "Eli wanted to take it, and get high, and lie here in the dark with his best friend. He wanted to, but cold crept in through the open window. The air smelled like somewhere else."
+> **原句 5:** "Eli wanted to take it, and get high, and lie here in the dark with his best friend. He wanted to, but cold crept in through the open window. The air smelled like somewhere else."
 
 **中文理解**：伊莱想接过那支烟，想抽到发晕，想和最好的朋友一起躺在这片黑里；他确实想，可是冷气从开着的窗子里进来了，空气闻起来像别的地方。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者在这里第一次拿到与这间房不合的东西——开着的窗、进来的冷、不属于这里的气味；他还没有说出判断，身体先有了反应。
 
-> **原句 5:** "As he neared the front door, the hall began to stretch, then shimmer, and shift, Angie’s apartment losing shape with every forward step, until the walls and floor dissolved to planes of white—like a blank canvas—and only the door remained."
+> **原句 6:** "As he neared the front door, the hall began to stretch, then shimmer, and shift, Angie’s apartment losing shape with every forward step, until the walls and floor dissolved to planes of white—like a blank canvas—and only the door remained."
 
 **中文理解**：他走近前门的时候，走廊开始拉长，接着晃动、移位，安吉的公寓随着每一步失去形状，直到墙壁和地板散成一片片白色——像一张空画布——只剩下那扇门。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者跟着一步一步看房子消失，最后留在画面里的只有门；门后面是什么，这一段没有写。
 
-> **原句 6:** "The neighborhood to every side was full of houses, but almost all of them were soft, and flat, and slightly out of focus, like an old-school movie backdrop. Only one of them was perfectly clear, every detail sharp and clean. Ice glittered on the eaves."
+> **原句 7:** "The neighborhood to every side was full of houses, but almost all of them were soft, and flat, and slightly out of focus, like an old-school movie backdrop. Only one of them was perfectly clear, every detail sharp and clean. Ice glittered on the eaves."
 
 **中文理解**：四周全是房子，但几乎每一栋都是软的、扁的、略微失焦的，像老电影里的布景；只有一栋清清楚楚，每个细节都锐利干净；屋檐上挂着冰，亮着。
 

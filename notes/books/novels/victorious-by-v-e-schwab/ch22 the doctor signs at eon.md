@@ -69,7 +69,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：cheat death 是这句的重心——她关心的不是他们做过什么，而是他们怎么回来的。
 
-> **原句 6:** "“Director Roy?” she said, before her attention flicked toward Gabriel. She leveled him with such a piercing gaze, he wondered if her power involved a special kind of sight. It hadn’t occurred to him, until then, that someone might have the ability to see through what he’d been to what he was now."
+> **原句 6:** "Helena’s mouth tightened. “My predecessor, Stell, shared that sentiment. He thought their power could be harnessed, and put to use, in the service of EON. Fighting fire with fire, and all that.” “What happened to him?” “He was murdered,” she said flatly. “By an EO. Admittedly, not one of his. But suffice to say, his experiment was discontinued.”"
+
+**中文理解**：海伦娜嘴角一紧：「我的前任斯特尔也持同样的看法。他认为他们的力量是可以被驾驭、被用起来的，用在 EON 的事上。以火攻火，大概就是那个意思。」加百列问：「他后来怎么了？」她平平地说：「他被谋杀了，被一个 EO 杀的。严格说不是他手下的那个。但总之，他的实验被终止了。」
+
+**关键词**：harnessed · discontinued
+
+**为什么这样写**：先让继任者替前任站台，再用「以火攻火」把这种想法降到成语的高度；紧跟一个问句把话头切断，最后用一句平声叙述交付死讯。「严格说不是他手下的那个」是全段唯一带刺的地方，它既替斯特尔开脱，也提醒读者死的仍然是 EO。
+
+**读者视角提示**：这一段是海伦娜解释 EON 立场的关键：她要的不是利用，而是弄懂，所以她说斯特尔「共享同样的看法」用的是 share，不是 share the method——话说得含糊，正好露出她对前任的实验并不认同。
+
+> **原句 7:** "“Director Roy?” she said, before her attention flicked toward Gabriel. She leveled him with such a piercing gaze, he wondered if her power involved a special kind of sight. It hadn’t occurred to him, until then, that someone might have the ability to see through what he’d been to what he was now."
 
 **中文理解**：她先叫了一声「罗伊主任？」，目光随即转到加百列身上。那一眼太利，他甚至怀疑她的能力是不是某种特殊的视力。直到这时他才想到，也许真有人能看穿他过去是什么、现在是什么。
 
@@ -79,7 +89,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：注意他先拿「能力」解释那一眼，然后才想到「被看穿」——他习惯把人当成可以归类的对象。
 
-> **原句 7:** "“EON found me,” she said evenly. “And they gave me a choice.” She swallowed. “Stell gave me a choice.”"
+> **原句 8:** "“EON found me,” she said evenly. “And they gave me a choice.” She swallowed. “Stell gave me a choice.”"
 
 **中文理解**：「是 EON 找到我的，」她平平地说。「他们给了我一个选择。」她咽了一下。「是斯特尔给我的选择。」
 
@@ -87,9 +97,9 @@ modified: "2026-11-01"
 
 **为什么这样写**：先给来源，再给选择，最后才给名字，三步各占一句。前面两句都是被动语态（they gave me），把选项的人藏在机构后面；第三句换成主动语态，把那个人点出来。中间那个 swallow 把这个选择说出口的重量交代了——她答得出，但答得艰难。
 
-**读者视角提示**：这是本章唯一一次提到斯特尔。里奥斯不是被抓进来的，她是被找到、被给了选择才进来的；加百列问的那句「serve me or spend your life in a cell」，指的是她怎么答这道题。
+**读者视角提示**：这是里奥斯第一次说出斯特尔的名字——本段之前海伦娜刚讲过这位前任是怎么死的（见原句 6）。里奥斯不是被抓进来的，她是被找到、被给了选择才进来的；加百列问的那句「serve me or spend your life in a cell」，指的是她怎么答这道题。
 
-> **原句 8:** "But Rios wasn’t. She straightened. “People are good and bad and everything between. And EOs are people. We come in all kinds. But the majority of EOs either can’t control their power, or don’t want to. The first one I caught could make bombs out of thin air. They were about to blow up a school.”"
+> **原句 9:** "But Rios wasn’t. She straightened. “People are good and bad and everything between. And EOs are people. We come in all kinds. But the majority of EOs either can’t control their power, or don’t want to. The first one I caught could make bombs out of thin air. They were about to blow up a school.”"
 
 **中文理解**：但里奥斯没有。她站直了身子。她说，人有好有坏，中间什么都有，而非常人也是人，我们分很多种；可大多数非常人要么控制不住自己的力量，要么不想控制。她抓到的第一个能凭空造炸弹，差点炸掉一所学校。
 
@@ -99,7 +109,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这几句是加百列逼出来的供述。海伦娜问不动，里奥斯能自己往下说；她给的是分类，不是辩解。
 
-> **原句 9:** "The next one drowned six people by accident. The first meant to be dangerous, the second didn’t, but both of them were.” She lifted her chin. “I was in the marines, for seven years. I chose to serve my country then. I choose to serve it now.”"
+> **原句 10:** "The next one drowned six people by accident. The first meant to be dangerous, the second didn’t, but both of them were.” She lifted her chin. “I was in the marines, for seven years. I chose to serve my country then. I choose to serve it now.”"
 
 **中文理解**：第二个意外淹死了六个人。前一个本意就是要伤人，后一个不是，可两个都是危险品。她抬起下巴：她在海军服过七年役。那时候她选择为国效力，现在她仍然选择。
 

@@ -29,7 +29,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者拿到的是一份花名册和一个被排除的名字，看不出这二十一个人各自是什么样；要等他自己从名单里点出一个人，画面才打开。
 
-> **原句 2:** "The walls of this particular cell were reflective, so the EO couldn’t see out. At least, that was the idea, but as Gabriel moved toward the panel on the wall, her head whipped toward him."
+> **原句 2:** "“Dr. Gray is now the acting director,” she said. “So you report to him.” She might as well have slapped the agent. But he recovered. Nodded stiffly. “We tracked the EO to a house fifteen miles north of Merit…”"
+
+**中文理解**：「格雷医生现在是代理主管，」她说。「所以你向他汇报。」这一句简直像给了那探员一巴掌。但他缓过来，僵硬地点了点头。「我们追踪那个非常人，追到梅里特以北十五英里的一栋房子」
+
+**关键词**：acting director · fifteen miles north
+
+**为什么这样写**：海伦娜替上级宣布任命，一句话就把汇报关系改了；叙述紧接着用「像打了他一巴掌」把这句公事的力道写出来。探员点的是头，僵硬的那种。最后一句才是任务本身：一个方向、一个距离、一栋房子。人事变动与行动坐标并排出现，一句是升上去，一句是追出去。
+
+**读者视角提示**：这是加百列第一次以主管身份被叫进流程。「代理主管」四个字在此后各章一直有效——他不是医生，他是签得了字的那一个。
+
+> **原句 3:** "The walls of this particular cell were reflective, so the EO couldn’t see out. At least, that was the idea, but as Gabriel moved toward the panel on the wall, her head whipped toward him."
 
 **中文理解**：这一间牢房的四壁是反光的，所以里面的 EO 看不见外面。至少设计上是这样；可加百列朝墙上的面板走过去时，她的头猛地转向了他。
 
@@ -39,7 +49,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者刚被交代完这间牢房「应该」是什么样的，下一句就看见它不成立。她是怎么看见的、看见了什么，这一块还没说，只留下一个转向的动作。
 
-> **原句 3:** "Her eyes were red. Not bloodshot, but crimson, edge to edge, and bright as lasers. Instinctively, he tensed, as if they might burn right through the cell wall, right through him."
+> **原句 4:** "Her eyes were red. Not bloodshot, but crimson, edge to edge, and bright as lasers. Instinctively, he tensed, as if they might burn right through the cell wall, right through him."
 
 **中文理解**：她的眼睛是红的。不是充血那种红，是从眼角到眼角一整片深红，亮得像激光。他本能地绷紧了身体，仿佛那目光能烧穿牢房的墙，一直烧到他身上。
 
@@ -49,7 +59,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者跟着他一起绷紧，却始终没看见她做了什么。到这一块结束为止，红眼睛只是一双眼睛；它到底能干什么，要等她自己开口。
 
-> **原句 4:** "On the floor, the woman gasped. Gabriel let go, and stumbled back, his hand numb and his head on fire. But unlike the countless humans he’d brought back, all of them docile, ready to heel, the EO looked up at him, and scowled."
+> **原句 5:** "On the floor, the woman gasped. Gabriel let go, and stumbled back, his hand numb and his head on fire. But unlike the countless humans he’d brought back, all of them docile, ready to heel, the EO looked up at him, and scowled."
 
 **中文理解**：地上的女人吸进一口气。加百列松手，往后踉跄，一只手发麻，脑袋像着了火。可他救回过的人类多得数不清，个个温顺，随时听唤；这一位却抬头看他，皱起了眉。
 
@@ -59,7 +69,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者第一次看见「救回来」也有失败的样子：不是人没回来，是回来的人不肯认账。她皱眉这一个动作，比任何说明都更早地告诉读者，他手上的权力这次不完整。
 
-> **原句 5:** "She couldn’t move, but anger flared in her red eyes, and Gabriel felt himself pinned in place again. But then the light there flickered suddenly, as if short-circuiting. And with it, the grip she had on him faltered, then reappeared, then vised, the force no longer holding him, but crushing."
+> **原句 6:** "She couldn’t move, but anger flared in her red eyes, and Gabriel felt himself pinned in place again. But then the light there flickered suddenly, as if short-circuiting. And with it, the grip she had on him faltered, then reappeared, then vised, the force no longer holding him, but crushing."
 
 **中文理解**：她动不了，可红眼睛里腾起怒火，加百列又觉得自己被钉在原地。紧接着那点光忽然闪了一下，像短路。随之一同变化的是她按住他的那股力：先松，又回来，再收紧；到最后不再是按住，而是碾压。
 
