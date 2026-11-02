@@ -31,9 +31,9 @@ modified: "2026-11-01"
 
 **关键词**：unlocked · inhaler · violet liquid
 
-**为什么这样写**：这里有反差：unlocked 本该意味着不必准备，他却停下来做算术。the cold steel 给门一个体温，接触的一瞬把身体钉在原地。接着三个动作连成一道工序——举起、端详、估算——写起来像检修设备，而 violet 这个颜色词把药从「装备」变成「库存」：它有剂量，会耗尽。三个极短句 How much was left. Enough, he told himself. 把独白压到最短，读者只听见他给自己下的结论，听不见理由；这份省略正是紧张的来处。
+**为什么这样写**：这里有反差：unlocked 本该意味着不必准备，他却停下来做算术。the cold steel 给门一个体温，接触的一瞬把身体钉在原地。接着三个动作连成一道工序——举起、端详、估算——写起来像检修设备，而 violet 这个颜色词把药从「装备」变成「库存」：它有剂量，会耗尽。两个极短句 How much was left. Enough, he told himself. 把独白压到最短，读者只听见他给自己下的结论，听不见理由；这份省略正是紧张的来处。
 
-**读者视角提示**：紫药、余量、「够不够」，三个词把「准备」写成了「配给」。一个需要精确计算剂量的英雄，配一扇敞开的大门，画面从一开始就不对等。记住他数出来的那个数。
+**读者视角提示**：紫药、余量、「够不够」，三个词把「准备」写成了「配给」。一个需要精确计算剂量的英雄，配一扇敞开的大门，画面从一开始就不对等。留意他停下来算的那笔账——这一章始终没有给出数目。
 
 > **原句 3:** "“Hey, Vic,” said a voice in his ear. “Are you ready?” His mouth tugged into a grim smile. Of all the ways this could have gone. All the paths and permutations. How ironic, thought Victor Vale, that in the end, he’d chosen to be a hero. “I’m ready,” he said, pushing open the door."
 
@@ -41,7 +41,7 @@ modified: "2026-11-01"
 
 **关键词**：his ear · grim smile · a hero
 
-**为什么这样写**：这一段从「耳朵里的声音」一路走到「门被推开」，五句里换了三次距离：先是外来的问句，身体还没动；再是脸部的近景，tugged into a grim smile 把笑写成被拉出来的动作，而不是自然浮现的；然后退进他脑内，全名 Victor Vale 与 he’d chosen 一起落下，过去完成时把「选择」按在无法更改的位置上。中间那两句 Of all the ways this could have gone. All the paths and permutations. 都不是完整句，是把所有没走的路摊开再收回，permutations 这个复数让「本来可以」变成一份可以清点的目录。ironic 与 in the end 则把此前的一切压成一句结论：他本来不必如此。收尾只有两个词的台词和一个动作，分析的声音全部退场，剩下的只有身体。
+**为什么这样写**：这一段从「耳朵里的声音」一路走到「门被推开」，七句里换了三次距离：先是外来的问句，身体还没动；再是脸部的近景，tugged into a grim smile 把笑写成被拉出来的动作，而不是自然浮现的；然后退进他脑内，全名 Victor Vale 与 he’d chosen 一起落下，过去完成时把「选择」按在无法更改的位置上。中间那两句 Of all the ways this could have gone. All the paths and permutations. 都不是完整句，是把所有没走的路摊开再收回，permutations 这个复数让「本来可以」变成一份可以清点的目录。ironic 与 in the end 则把此前的一切压成一句结论：他本来不必如此。收尾只有两个词的台词和一个动作，分析的声音全部退场，剩下的只有身体。
 
 **读者视角提示**：那个声音始终没有名字、没有身体，只在耳朵里——留意本章里开口说话、却始终没有出场的那个人。而 hero 是反讽还是自嘲，取决于你信不信他；作者把判断权留给了最后一个动作：门被他推开了。
 
@@ -73,4 +73,4 @@ modified: "2026-11-01"
 
 ## 一句话总结
 
-终局前的最后一分钟：一扇没上锁的门、一支要数着用的紫药、耳朵里那句「准备好了吗」——维克多·维尔在推门前自嘲，自己到底还是选了去做英雄。
+终局前的几分钟：一扇没上锁的门、一支要数着用的紫药、耳朵里那句「准备好了吗」——维克多·维尔在推门前自嘲，自己到底还是选了去做英雄。
