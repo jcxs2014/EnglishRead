@@ -25,7 +25,7 @@ modified: "2026-11-01"
 **中文理解**：前一秒只有一个他——西德妮搂着的那个；下一秒就有了两个。新出现的米奇和第一个一模一样，正正地站在塞雷娜和她妹妹之间。
 **关键词**：there were two · a perfect double
 **为什么这样写**：第一句用 `One second` 和 `the next` 把时间压成两格，中间一段破折号插进来交代是哪一个他：`the one Sydney had her arms around`。第二句把新出现的那个定住：`a perfect double of the first`，位置写在 `standing squarely between Serena and her sister`，`squarely` 落在他的站位上。
-**读者视角提示**：两个米奇之间隔着的是塞雷娜和西德妮两个人；`squarely` 这个词把站位写死，不是站在旁边。
+**读者视角提示**：站着的那一个正挡在塞雷娜与西德妮之间，其余几个散在场上；`squarely` 这个词把站位写死，不是站在旁边。
 
 > **原句 3:** "Sydney didn’t understand. She’d brought a fair number of people back, and none of them had become EOs, but Mitch definitely wasn’t human. One of him was holding her, and the rest were fighting Serena."
 **中文理解**：西德妮不明白。她把人拉回来过不少次，没有一个人变成 EO，可米奇显然不是人。他有一个正抱着她，其余几个在跟塞雷娜打。
