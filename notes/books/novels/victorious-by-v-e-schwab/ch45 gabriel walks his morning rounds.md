@@ -13,7 +13,7 @@ modified: "2026-11-01"
 
 - **Tropes 兑现/反转**：兑现「反派医生井井有条的早晨」这一套：定点起床、固定路线，连司机早到五分钟都是被交代过的。反转落在「谁更像人」的排序上——在他手里，普通皈依者只剩执行，反倒是被研究、被控制的 EO 还留着神情、主张与个性。另一处反转是「治疗」这个词：牢房改成房间，门干脆不上锁，因为不需要锁；而 Sublevel One 那批从停尸房来的 EO 仍是例外，他给出的理由是他欠他们一次尝试。
 
-- **人物弧线**：这一章的加百列几乎不与人争，只做决定：留下前任主管海伦娜，因为她手里有 EO 与 EON 的旧事；对诺亚只问一句「你信我吗」，等对方答「当然」。按职级 director 比 doctor 高，他偏要留着后者。真正露出来的一点私心在开头——从闹钟响到咖啡喝完那几分钟，他留给自己，用来假装 Iris 还在卧室哼歌穿衣、Ian 还赖在被子里；咖啡见底，这一段就留在原地。
+- **人物弧线**：这一章的加百列几乎不与人争，只做决定：留下前任主管海伦娜，因为她手里有 EO 与 EON 的旧事；对诺亚只问一句「你信我吗」，等对方答「当然」。按职级 director 比 doctor 高，他偏要留着后者。真正露出来的一点私心在开头——从闹钟响到咖啡喝完那几分钟，他留给自己，用来假装艾瑞斯还在卧室哼歌穿衣、伊恩还赖在被子里；咖啡见底，这一段就留在原地。
 
 - **叙事手法**：题头四行先把时间和地点钉住（「XV」「NOW. THEN.」「6 MONTHS AGO」「EON」），正文用过去时直叙，段落多半一两行。信息大量从屏幕上来：马尔科姆的话全部是大写短句、一句一行——「GOOD MORNING, DR. GRAY.」「EFFICIENT.」「THREE NEW CANDIDATES DISPLAY SUFFICIENT MARKERS.」「PATIENT 32 IS CONSCIOUS.」。病人介绍靠并列短段逐条点名，一段一个人、一项能力。最后一段把镜头压到手掌、扫描器、卷起的袖口这些动作上。
 
@@ -21,13 +21,13 @@ modified: "2026-11-01"
 
 > **原句 1:** "He still rose before six to run three miles, still took a cold five-minute shower, still drank an espresso in silence on the porch. For that brief stretch, between the first alarm and the last sip of coffee, he could pretend—if he wanted to—that Iris was in the bedroom, humming to herself as she got dressed."
 
-**中文理解**：他照旧六点前起床，跑三英里、冲五分钟冷水澡、在门廊上一言不发喝完一杯浓缩咖啡；从闹钟响到咖啡喝尽这段空隙里，他只要愿意，就能当 Iris 还在卧室里哼着歌穿衣服。
+**中文理解**：他照旧六点前起床，跑三英里、冲五分钟冷水澡、在门廊上一言不发喝完一杯浓缩咖啡；从闹钟响到咖啡喝尽这段空隙里，他只要愿意，就能当艾瑞斯还在卧室里哼着歌穿衣服。
 
 **关键词**：rose before six · cold five-minute shower
 
 **为什么这样写**：三个 "still" 连着压在同一句里，把作息写成一套不肯改的规程，读起来像清单而不是抒情。后半句用 "could pretend—if he wanted to" 把这点自由交回他自己手上，假装因此是他主动选的，不是失控；时间窗由闹钟与最后一口咖啡夹出来，短得刚好装下一场想象。
 
-**读者视角提示**：注意这段里没有别人出场，Iris 的哼歌与穿衣都发生在他的假想里。"still" 把这几行钉在习惯上——写的是每天的早晨，不是某一个例外。
+**读者视角提示**：注意这段里没有别人出场，艾瑞斯的哼歌与穿衣都发生在他的假想里。"still" 把这几行钉在习惯上——写的是每天的早晨，不是某一个例外。
 
 > **原句 2:** "It was fascinating, the minute differences, between an ordinary convert and an EO, even one so firmly under his control. The animation in his face, the agency with which he moved and spoke, his personality intact. Ironic, that in Gabriel’s hands, only the EOs remained human."
 

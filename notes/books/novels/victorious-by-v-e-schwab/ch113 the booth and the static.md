@@ -34,13 +34,13 @@ modified: "2026-11-01"
 **读者视角提示**：这一块里妹妹只说了四个词，剩下的都是琼的身体：眼睛、心脏、肋骨。原文只给了「像好些年没听过这声音」这一个比喻，没有一句交代时间过去了多久。
 
 > **原句 4:** "“You’re such a weirdo, June,” she said, and the words sent a little splinter through her mind, because that wasn’t her name. Not then. Not yet. She’d wanted it to be—she liked everything June stood for, the warm weather, the blue skies—but it wasn’t yet, wouldn’t be until after."
-**中文理解**：「你可真是个怪人，琼。」她说，这句话像一根细刺扎进她脑子里，因为那不是她的名字。那时不是。那时还没到。她曾希望它是——她喜欢 June 代表的一切，暖天气、蓝天空——可那时还不是，要等到后来才算。
+**中文理解**：「你可真是个怪人，琼。」她说，这句话像一根细刺扎进她脑子里，因为那不是她的名字。那时不是。那时还没到。她曾希望它是——她喜欢琼代表的一切，暖天气、蓝天空——可那时还不是，要等到后来才算。
 **关键词**：such a weirdo · a little splinter
 **为什么这样写**：妹妹的玩笑先落地，紧接着一个比喻换掉它的重量：`a little splinter`。否定被拆成两句极短的，`Not then.` 与 `Not yet.`，每句三四个词，各自独立成句，占掉两次停顿。再往后是一段被破折号夹住的补充，`she liked everything June stood for, the warm weather, the blue skies`，两头分别是 `wasn’t yet` 与 `wouldn’t be until after`，时间被推到这句话之后。
 **读者视角提示**：这一块的时间分成三段：说这句话的时候、还没到的时候、后来。名字在妹妹嘴里是玩笑，在琼这边是还没生效的东西。
 
 > **原句 5:** "At first, her voice had the faint scratch of phone lines—as if she wasn’t really there. Sitting in another diner in another city, her cell to her ear, talking the way they had so many times, when Syd was on the run. But they were in the same place now, and when June reached out and touched Syd’s hand, it was solid, cool as stone."
-**中文理解**：一开始，她的声音里带着电话线那种轻轻的沙沙声，像是人并不真的在那里。坐在另一座城市另一家餐馆里，手机贴在耳边，照她们从前许多次那样说话，那时 Syd 还在逃。可现在她们在同一个地方了，琼伸手碰到 Syd 的手，是实的，凉得像石头。
+**中文理解**：一开始，她的声音里带着电话线那种轻轻的沙沙声，像是人并不真的在那里。坐在另一座城市另一家餐馆里，手机贴在耳边，照她们从前许多次那样说话，那时西德妮还在逃。可现在她们在同一个地方了，琼伸手碰到西德妮的手，是实的，凉得像石头。
 **关键词**：faint scratch · cool as stone
 **为什么这样写**：先写声音的质地，`the faint scratch of phone lines`，再说它像什么：`as if she wasn’t really there`。中间一句把场景挪到别处，`another diner in another city`，`her cell to her ear`，`when Syd was on the run`，全是从前通话的画面。转折落在 But 上：`they were in the same place now`，接着给触觉，`touched Syd’s hand`，`solid, cool as stone`，两个形容词一实一凉。
 **读者视角提示**：这一块从听觉开始，穿过一段别处的画面，最后落在手心。solid 与 cool as stone 是同一个动作给出的两个结果。

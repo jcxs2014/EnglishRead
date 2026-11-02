@@ -37,7 +37,7 @@ modified: "2026-11-01"
 **中文理解**：他能感觉到、看见、听见另一个自己：在炉子边码柴，一边和西德妮说话，一边看她摆出两份盘子；那份清楚，跟他感到的冷风、手里的斧头一样，也跟他看见头顶星星出来一样。
 **关键词**：other piece · chill breeze
 **为什么这样写**：整块只有一句，从 `feel and see and hear` 三个动词起头，宾语是 `the other piece of himself`，后面两个分词短语交代那半个自己在做什么：`stacking logs`、`chatting with Syd`。句尾用 `as keenly as` 与 `as clearly as` 两组比较，把远处的分身与近处的风、斧头、星星放到同一档。
-**读者视角提示**：`the other piece of himself` 是他分出去的那一个；`she made up a pair of plates` 里的 `she` 是 Syd。`overhead` 指头顶，星星在屋外。
+**读者视角提示**：`the other piece of himself` 是他分出去的那一个；`she made up a pair of plates` 里的 `she` 是西德妮。`overhead` 指头顶，星星在屋外。
 
 > **原句 5:** "But as Mitch brought the axe down on the first log, and the sound rang through the trees, he sighed a cold breath into the air, and smiled. Because for the first time in his whole life, he was right where he wanted to be."
 **中文理解**：可当米奇把斧头劈向第一根木头、声音在树林里荡开，他朝冷空气里呼出一口气，笑了。因为他这辈子第一次，待在自己想待的地方。

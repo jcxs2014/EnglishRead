@@ -7,17 +7,17 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：近三个月来 Mitch 带着 Sydney 和一条狗在路上换旅馆，白天赶路、夜里写程序扫描网络，唯一查到的消息是 Stell 死于头部一枪。一封园艺论坛的邀请把他领到一个句柄 SharpenedSpade1652——那串数字是他与 Victor 同住过的牢房号，两人用天气问答对暗号，随后通上电话；Victor 要他写一个把自己的影像铺满全国监控的程序，他答「我能帮什么」，挂断就开始写一个已经取名叫 Rainfall 的程序。Sydney 从浴室出来问他刚跟谁说话，他说是前台来抱怨热水，末了自己承认这个谎撒得还不错。
+- **一句话概括**：近三个月来米奇带着西德妮和一条狗在路上换旅馆，白天赶路、夜里写程序扫描网络，唯一查到的消息是斯特尔死于头部一枪。一封园艺论坛的邀请把他领到一个句柄 SharpenedSpade1652——那串数字是他与维克多同住过的牢房号，两人用天气问答对暗号，随后通上电话；维克多要他写一个把自己的影像铺满全国监控的程序，他答「我能帮什么」，挂断就开始写一个已经取名叫 Rainfall 的程序。西德妮从浴室出来问他刚跟谁说话，他说是前台来抱怨热水，末了自己承认这个谎撒得还不错。
 - **情感弧线位置**：属 Part 1「The Doctor Is in」，接在 NOW. THEN. 之后倒回 2.75 YEARS AGO，是给「Merit 之后」那段空白补上的一格。开场是熬到极限的钝（被问多久没睡，只回一句「我没事」），中段被一条死讯和一次上线点亮，电话里有过一小段松弛，随即被任务重新绷紧。收尾没有安心，只有一个刚撒完谎的人对自己手艺的满意。
 - **Tropes 兑现/反转**：兑现「落魄小队」「加密通讯」「黑客接单」三样；反转在方向——不是把逃亡者从监控里抹掉，而是让他的影像出现在全国每一帧画面里，用假线索把追捕方拖瘦。另一处反转是「不会撒谎的人」：他先被 Sydney 当面拆穿，转头就在同一晚把这门手艺用在了她身上。
-- **人物弧线**：Mitch 从「被拖进 Victor 的路上」的人，走成主动问出「我能帮什么」的人，且电话还没挂完就在记要点，挂断就动手，那个程序在他开始写之前已经有了名字。Sydney 只在两端露面，一次戳穿他的谎，一次用希望的眼神逼他再撒一个。Victor 全程只以句柄和声音在场：给任务，不给位置。
-- **叙事手法**：视角锁死在 Mitch 身上，读者只看见他屏幕上出现的东西；暗号以全大写消息原样排出，读起来像电报。段落被切得极短——一个数字、一条消息、一次上线——节奏跟着心跳走。转折多由对话承担，而最重的一句（他要「到处都是」）藏在一句轻描淡写的反话里。
+- **人物弧线**：米奇从「被拖进维克多的路上」的人，走成主动问出「我能帮什么」的人，且电话还没挂完就在记要点，挂断就动手，那个程序在他开始写之前已经有了名字。西德妮只在两端露面，一次戳穿他的谎，一次用希望的眼神逼他再撒一个。维克多全程只以句柄和声音在场：给任务，不给位置。
+- **叙事手法**：视角锁死在米奇身上，读者只看见他屏幕上出现的东西；暗号以全大写消息原样排出，读起来像电报。段落被切得极短——一个数字、一条消息、一次上线——节奏跟着心跳走。转折多由对话承担，而最重的一句（他要「到处都是」）藏在一句轻描淡写的反话里。
 
 ## 精读
 
 > **原句 1:** "It had been nearly three months since they left Merit behind, in the aftermath of Marcella Riggins’s gala, Eli’s death, Victor’s desertion, and in that time, Mitch had lost track of the miles they’d put on the car. Lost track of the names of the towns they’d stopped in, pausing only long enough to refuel, to rest. Bouncing from place to place like a signal trying to avoid detection."
 
-**中文理解**：三件事被并排塞进一句时间状语：Marcella Riggins 的晚会、Eli 的死、Victor 的离开；从那以后 Mitch 就没算清过里程，也记不住停过的镇子叫什么，停车只为加油和歇脚。末了一句把他们这种挪动比作一个不断换位置、想躲开侦测的信号。
+**中文理解**：三件事被并排塞进一句时间状语：玛塞拉·里金斯的晚会、伊莱的死、维克多的离开；从那以后米奇就没算清过里程，也记不住停过的镇子叫什么，停车只为加油和歇脚。末了一句把他们这种挪动比作一个不断换位置、想躲开侦测的信号。
 
 **关键词**：nearly three months · lost track
 
@@ -27,7 +27,7 @@ modified: "2026-11-01"
 
 > **原句 2:** "Mitch’s anger flared. He started to type Vic? Where the hell are you? Then stopped, and forced himself to back out, letter by letter. Assuming this was Victor, he’d chosen to reach out on an unencrypted page. So they were talking in plain sight."
 
-**中文理解**：火一下子上来，他打下 Vic? Where the hell are you?，随即停住，逼自己一个字母一个字母地退回去。他给出解释：假如对面是 Victor，那对方就是故意挑了一个不加密的页面来找他——也就是说，他们要在明处说话。
+**中文理解**：火一下子上来，他打下 Vic? Where the hell are you?，随即停住，逼自己一个字母一个字母地退回去。他给出解释：假如对面是维克多，那对方就是故意挑了一个不加密的页面来找他——也就是说，他们要在明处说话。
 
 **关键词**：anger flared · letter by letter
 
@@ -47,7 +47,7 @@ modified: "2026-11-01"
 
 > **原句 4:** "Mitch had spent the last ten years testing his luck. He’d been dragged into Victor’s path, and then, onto his quest for revenge. And he had gone along, in part because it was better to be at Victor’s side than in his way, and in part because Mitch owed him something—his freedom, his help."
 
-**中文理解**：十年里他一直在试自己的运气：先被拖进 Victor 的路上，再被拖进那场复仇。他一路跟着，一半是因为站在 Victor 身边比挡在他路上安全，一半是因为他欠着对方——他的自由，他的帮忙。
+**中文理解**：十年里他一直在试自己的运气：先被拖进维克多的路上，再被拖进那场复仇。他一路跟着，一半是因为站在维克多身边比挡在他路上安全，一半是因为他欠着对方——他的自由，他的帮忙。
 
 **关键词**：ten years · owed him something
 
@@ -57,7 +57,7 @@ modified: "2026-11-01"
 
 > **原句 5:** "He wanted a program that would replicate his image, and plant it in surveillance footage all across the country. Mitch smiled as Vic spoke, the cogs in his head already turning. Clever. Offering EON hundreds of false leads would negate any real ones, while wasting copious time and resources, spreading EON thinner with every squandered pursuit."
 
-**中文理解**：他要的是一个能复制自己的影像、再把它种进全国监控画面里的程序。听着的 Mitch 笑了，脑子里的齿轮已经转起来：聪明。给 EON 送去几百条假线索，真线索就被冲掉，同时耗掉大量时间与人力，每一次白跑都让 EON 更薄。
+**中文理解**：他要的是一个能复制自己的影像、再把它种进全国监控画面里的程序。听着的米奇笑了，脑子里的齿轮已经转起来：聪明。给 EON 送去几百条假线索，真线索就被冲掉，同时耗掉大量时间与人力，每一次白跑都让 EON 更薄。
 
 **关键词**：replicate his image · false leads
 

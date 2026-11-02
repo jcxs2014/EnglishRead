@@ -7,23 +7,23 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：时间标着「距终局一周」，场景切到一座叫 Herald 的小镇。Mitch 在这里用的是假名 Jack，每周进城采购一次，顺便在街角餐馆吃一块桃派、喝一杯巧克力奶，靠攒下的好人缘把自己混成本地人。真正的事发生在笔记本上：他登录一个园艺留言板，跟代号 SHARPENEDSPADE1652 对上一句「天气如何」，回完却等不到对方的绿灯——Victor 在忙。
+- **一句话概括**：时间标着「距终局一周」，场景切到一座叫 Herald 的小镇。米奇在这里用的是假名 Jack，每周进城采购一次，顺便在街角餐馆吃一块桃派、喝一杯巧克力奶，靠攒下的好人缘把自己混成本地人。真正的事发生在笔记本上：他登录一个园艺留言板，跟代号 SHARPENEDSPADE1652 对上一句「天气如何」，回完却等不到对方的绿灯——维克多在忙。
 - **情感弧线位置**：属 Part 1「The Doctor Is in」。全章没有事件，只有一种慢慢浮上来的不适：前段是暖的（咖啡与派的香味、熟客的招呼、被记住的点单），中段一个念头把暖意戳破——待得越舒服，越说明该走了，结尾回到冷，他盯着一个不亮的圆点，那点踏实感全部换成了「对方不在」。
 - **Tropes 兑现/反转**：兑现「隐姓埋名躲进小镇」「平静日常下的暗线」两个母题；反转在「小镇藏不住人」这条常识上——他偏挑人口 2,310 的地方落脚，靠的不是隐身，是让每个人都认识他、又都懒得深究他。另一处反转是「天气」：最无害的一句寒暄，在这里是点名。
-- **人物弧线**：Mitch 这一章没有行动，只有维持——拖车、帮餐馆卸炉灶、抓走失的狗、捐二十美元给球队买队服，一招一招把自己钉进小镇的日常。他唯一一次动摇发生在女招待那张坦白的脸上，差点也交底，最后没说。结尾他仍是等人回话的那一方：在这个同盟里，他是留守的。
-- **叙事手法**：视角贴着 Mitch 走，信息全靠他的动作给：装车、进店、开机、登录、发消息。全章用日常细节堆时间感（普查数字、固定点单、桃派与巧克力奶），把「一周前」写成一段可数的日子。对话只用来示好，真正的对话是两句全大写的暗语；最后一节把「在线」写成一个会变色的小圆点，紧张感全压在那个颜色上。
+- **人物弧线**：米奇这一章没有行动，只有维持——拖车、帮餐馆卸炉灶、抓走失的狗、捐二十美元给球队买队服，一招一招把自己钉进小镇的日常。他唯一一次动摇发生在女招待那张坦白的脸上，差点也交底，最后没说。结尾他仍是等人回话的那一方：在这个同盟里，他是留守的。
+- **叙事手法**：视角贴着米奇走，信息全靠他的动作给：装车、进店、开机、登录、发消息。全章用日常细节堆时间感（普查数字、固定点单、桃派与巧克力奶），把「一周前」写成一段可数的日子。对话只用来示好，真正的对话是两句全大写的暗语；最后一节把「在线」写成一个会变色的小圆点，紧张感全压在那个颜色上。
 
 ## 精读
 
 > **原句 1:** "According to the most recent census, the town—Herald—had a population of 2,310, which made it by far the smallest place he and Syd had ever stayed. She’d been suspicious when he picked it. And rightly so."
 
-**中文理解**：按最近一次人口普查，这个叫 Herald 的小镇只有 2,310 人，是他和 Syd 待过的地方里最小的一个。当初他挑中这里，Syd 就起过疑心，叙述者替她补了一句：她怀疑得对。
+**中文理解**：按最近一次人口普查，这个叫 Herald 的小镇只有 2,310 人，是他和西德妮待过的地方里最小的一个。当初他挑中这里，西德妮就起过疑心，叙述者替她补了一句：她怀疑得对。
 
 **关键词**：smallest place · census
 
 **为什么这样写**：数字先落地，普查给出 2,310 这个量级，比任何形容都更像判决。他不解释为什么还是挑中这里，只把她的怀疑和他的坚持并排放着，读者自然先站到她那边。And rightly so 是叙述者唯一一次表态，语气平得像一条注脚，判断却已经下完。
 
-**读者视角提示**：把这个镇子的规模记住。整章他都在被看见：进店有人回头，点单有人搭话，这正是他和 Syd 都清楚的那种危险，而危险此刻看上去只是热闹。
+**读者视角提示**：把这个镇子的规模记住。整章他都在被看见：进店有人回头，点单有人搭话，这正是他和西德妮都清楚的那种危险，而危险此刻看上去只是热闹。
 
 > **原句 2:** "Now she asked, “The usual?” and he nodded, thinking how nice it was, to linger somewhere long enough to have a standard order, and how it was probably a sign that it was time to go. The thought sent a tiny splinter through his chest. He winced as Jenny strolled away."
 
@@ -37,7 +37,7 @@ modified: "2026-11-01"
 
 > **原句 3:** "It was a community message board, thread after thread devoted to the minutiae of home gardening and hobby farming. Mitch skimmed the new posts—inquiries and debates about organic slug repellent, soil nitrate levels, the eventual midwinter thaw—before clicking over to his inbox."
 
-**中文理解**：这是个社区留言板，一帖接一帖，全是家庭园艺和业余农场的琐事。Mitch 扫过新帖——有机驱蛞蝓、土壤硝酸盐、年终的隆冬解冻——然后点进收件箱。
+**中文理解**：这是个社区留言板，一帖接一帖，全是家庭园艺和业余农场的琐事。米奇扫过新帖——有机驱蛞蝓、土壤硝酸盐、年终的隆冬解冻——然后点进收件箱。
 
 **关键词**：community message board · hobby farming
 
