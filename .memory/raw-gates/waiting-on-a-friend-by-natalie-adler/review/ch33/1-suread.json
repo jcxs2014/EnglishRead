@@ -1,0 +1,309 @@
+{
+  "chapter": "ch33 Closing Party",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch33_closing_party.txt",
+  "chars": 8335,
+  "facts": [
+    {
+      "id": "F1",
+      "who_did_what": "Kurt and Tanya co-host his annual Halloween party; tonight is both the last night of his art show and the last night in his loft (last year's theme was Mrs. Havisham's 50th wedding anniversary, the year before that The Bitter Tears of Petra von Kant).",
+      "verbatim_anchor": "Kurt usually hosted a Halloween party, so it was fitting that tonight was the last night of his art show and the last night in his loft",
+      "span": [
+        16,
+        151
+      ]
+    },
+    {
+      "id": "F2",
+      "who_did_what": "Renata walks east toward Kurt's place just shy of Avenue D and finds the street emptied out: vacant lots, unlit buildings, no trash fire, no rat, no cop car.",
+      "verbatim_anchor": "The street was a mouth with teeth falling out.",
+      "span": [
+        1194,
+        1240
+      ]
+    },
+    {
+      "id": "F3",
+      "who_did_what": "At the top of the stairs Kurt's door is ajar with dreary carnival music; inside is empty except a broom, a dirty mattress and a record player spinning Lotte Lenya; Kurt has wheatpasted his eviction notices all over the wall.",
+      "verbatim_anchor": "Kurt had wheatpasted his eviction notices to the wall",
+      "span": [
+        1902,
+        1955
+      ]
+    },
+    {
+      "id": "F4",
+      "who_did_what": "Everyone smokes by the back windows; Kurt sits beatific, cross-legged inside a circle of votives; Julie says the candles are timed to burn down at midnight and rolls her eyes with her back to him.",
+      "verbatim_anchor": "They’re timed to burn down at midnight",
+      "span": [
+        2207,
+        2245
+      ]
+    },
+    {
+      "id": "F5",
+      "who_did_what": "Costumes: Renata as Elliot Gould in The Long Goodbye (toy pistol, beanbag cat on her shoulder), Julie as Jean Genet in sailor pants, Cris as bad luck with whiskers and pointy ears, Tanya in a one-shouldered white ruffly dress.",
+      "verbatim_anchor": "Elliot Gould in The Long Goodbye",
+      "span": [
+        2752,
+        2784
+      ]
+    },
+    {
+      "id": "F6",
+      "who_did_what": "Tanya rails that the party is overrun by Upper East Side and Eurovulture newcomers, that Kurt did not ask her to do the party with him, and pulls a baggie of coke from her updo to share with Julie and Cris.",
+      "verbatim_anchor": "She pulled a baggie out of her updo.",
+      "span": [
+        5297,
+        5333
+      ]
+    },
+    {
+      "id": "F7",
+      "who_did_what": "Julie says the man is going to get reelected; the power then goes out, Kurt yells that it is not even midnight and chases the gallery people out, and Tanya says his hot water was shut off last month.",
+      "verbatim_anchor": "That man is going to get reelected.",
+      "span": [
+        4965,
+        5000
+      ]
+    },
+    {
+      "id": "F8",
+      "who_did_what": "Renata names Manhattan Remediation to Julie, the two agree they can shut them down right now, Julie offers Mucous Membrane a place to debut, and the crowd leaves the loft; Bianca joins on the stairs and a crosstown bus pulls up in front of Kurt's apartment.",
+      "verbatim_anchor": "Manhattan Remediation",
+      "span": [
+        6793,
+        6814
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "a": "Kurt",
+      "b": "Tanya",
+      "relation": "best friends and annual co-hosts of the Halloween party",
+      "verbatim_anchor": "He threw the party with Tanya, his best friend",
+      "span": [
+        210,
+        256
+      ]
+    },
+    {
+      "id": "R2",
+      "a": "Tanya",
+      "b": "Kurt",
+      "relation": "resentful this year: he threw the party without asking her",
+      "verbatim_anchor": "We always do this party together, and he didn’t even ask me",
+      "span": [
+        4508,
+        4567
+      ]
+    },
+    {
+      "id": "R3",
+      "a": "Renata",
+      "b": "Julie",
+      "relation": "closest allies; Julie brings Renata into the coke and into the plan",
+      "verbatim_anchor": "Julie leaned close to me and said",
+      "span": [
+        5556,
+        5589
+      ]
+    },
+    {
+      "id": "R4",
+      "a": "Kurt",
+      "b": "Darryl and Joe",
+      "relation": "bandmates: Kurt is starting a band with Darryl and Joe",
+      "verbatim_anchor": "Kurt starting a band with Darryl",
+      "span": [
+        5753,
+        5785
+      ]
+    },
+    {
+      "id": "R5",
+      "a": "Tanya",
+      "b": "the band",
+      "relation": "Kurt told her she can sing in the band",
+      "verbatim_anchor": "He said I can sing.",
+      "span": [
+        5936,
+        5955
+      ]
+    },
+    {
+      "id": "R6",
+      "a": "Cris",
+      "b": "Jimmy",
+      "relation": "Cris is going to phone Jimmy for more coke before they go",
+      "verbatim_anchor": "gonna call Jimmy",
+      "span": [
+        7130,
+        7146
+      ]
+    },
+    {
+      "id": "R7",
+      "a": "Bianca",
+      "b": "the group",
+      "relation": "arrives up the stairs as they leave down and joins them",
+      "verbatim_anchor": "Bianca was coming up the stairs as we tromped down, and she joined us",
+      "span": [
+        8153,
+        8222
+      ]
+    },
+    {
+      "id": "R8",
+      "a": "Renata",
+      "b": "her mother",
+      "relation": "backstory: her mother owned the Lotte Lenya album and sang along in Yiddish-inflected German",
+      "verbatim_anchor": "my mother had had it and could sing along in Yiddish-inflected German",
+      "span": [
+        1830,
+        1899
+      ]
+    },
+    {
+      "id": "R9",
+      "a": "Joe, Annie, David, Leon",
+      "b": "the party",
+      "relation": "more people materialize once the coke is out",
+      "verbatim_anchor": "The coke made more people materialize: Joe, Annie, David, Leon.",
+      "span": [
+        6056,
+        6119
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "id": "N1",
+      "kind": "number",
+      "value": "Mrs. Havisham's 50th wedding anniversary (last year's theme)",
+      "verbatim_anchor": "50th Wedding Anniversary",
+      "span": [
+        346,
+        370
+      ]
+    },
+    {
+      "id": "N2",
+      "kind": "time",
+      "value": "last year = Mrs. Havisham theme",
+      "verbatim_anchor": "Last year",
+      "span": [
+        312,
+        321
+      ]
+    },
+    {
+      "id": "N3",
+      "kind": "time",
+      "value": "the year before that = The Bitter Tears of Petra von Kant theme",
+      "verbatim_anchor": "The year before that",
+      "span": [
+        620,
+        640
+      ]
+    },
+    {
+      "id": "N4",
+      "kind": "number",
+      "value": "at least ten unrecognized well-put-together people",
+      "verbatim_anchor": "at least ten well-put-together people",
+      "span": [
+        2387,
+        2424
+      ]
+    },
+    {
+      "id": "N5",
+      "kind": "time",
+      "value": "votives timed to burn down at midnight",
+      "verbatim_anchor": "timed to burn down at midnight",
+      "span": [
+        2215,
+        2245
+      ]
+    },
+    {
+      "id": "N6",
+      "kind": "time",
+      "value": "band set at midnight, when Kurt is supposed to be out",
+      "verbatim_anchor": "play a set at midnight",
+      "span": [
+        5834,
+        5856
+      ]
+    },
+    {
+      "id": "N7",
+      "kind": "time",
+      "value": "Kurt: it is not even midnight",
+      "verbatim_anchor": "not even midnight.",
+      "span": [
+        6309,
+        6327
+      ]
+    },
+    {
+      "id": "N8",
+      "kind": "time",
+      "value": "Tanya: his hot water was shut off last month",
+      "verbatim_anchor": "shut off his hot water last month",
+      "span": [
+        6534,
+        6567
+      ]
+    },
+    {
+      "id": "N9",
+      "kind": "number",
+      "value": "Tanya piled her hair up about a foot taller",
+      "verbatim_anchor": "about a foot taller",
+      "span": [
+        3588,
+        3607
+      ]
+    },
+    {
+      "id": "N10",
+      "kind": "number",
+      "value": "Renata's unbuttoned shirt has a pointy seventies collar",
+      "verbatim_anchor": "pointy seventies collar",
+      "span": [
+        2647,
+        2670
+      ]
+    },
+    {
+      "id": "N11",
+      "kind": "number",
+      "value": "sports chant rhythm: clap, clap, clap-clap-clap",
+      "verbatim_anchor": "clap, clap, clap-clap-clap",
+      "span": [
+        8105,
+        8131
+      ]
+    }
+  ],
+  "turning_point": {
+    "text": "With the power out and the gallery crowd leaving, Renata calls out \"Manhattan Remediation\" to Julie and the two decide they can shut them down right now, flipping the dying party into a collective move out of the loft and onto the street.",
+    "verbatim_anchor": "It can’t wait. We can shut them down right now because we have to shut them down",
+    "span": [
+      6912,
+      6992
+    ]
+  },
+  "counts": {
+    "facts": 8,
+    "relations": 9,
+    "numbers": 11,
+    "anchors_total": 29,
+    "midnight_occurrences": 3
+  },
+  "anchors_hit": 29,
+  "verify_cmd": "python3 -I -c \"import json,pathlib;d=json.loads(pathlib.Path('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch33/1-suread.json').read_text());t=pathlib.Path(d['text_file']).read_text();items=d['facts']+d['relations']+d['numbers']+[d['turning_point']];assert all(t.find(i['verbatim_anchor'])>=0 and t[i['span'][0]:i['span'][1]]==i['verbatim_anchor'] for i in items);print('anchors_hit',len(items),'chars',len(t))\""
+}

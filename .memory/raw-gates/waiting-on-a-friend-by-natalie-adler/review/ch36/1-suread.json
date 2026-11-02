@@ -1,0 +1,222 @@
+{
+ "chapter": "ch36",
+ "text_file": "notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch36_parade.txt",
+ "chars": 6158,
+ "facts": [
+  {
+   "id": "F1",
+   "who_did_what": "我们抵达游行时鬼魂无处不在，人人（包括不知自己在看什么的人）都看得见；叙述者说它们像水、爱挤在人群与狭窄处，喜欢曼哈顿因为它是岛。",
+   "anchor": "When we got to the parade, the ghosts were everywhere, and everyone could see them",
+   "span": [
+    690,
+    772
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "F2",
+   "who_did_what": "街边的店主打开店门给大家发糖，对互相喷 Barbasol 剃须泡的一群孩子也不介意。",
+   "anchor": "Shopkeepers opened their doors and handed out candy, unbothered by the gaggle of kids spraying Barbasol at one another",
+   "span": [
+    1608,
+    1726
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "F3",
+   "who_did_what": "一群扮成 TWA 空乘的变装皇后停下来拍照，露出手袋拼出的「TWAT」字样。",
+   "anchor": "A group of queens dressed as TWA stewardesses stopped to get their pictures taken, revealing that each of their purses spelled out TWAT",
+   "span": [
+    1231,
+    1366
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "F4",
+   "who_did_what": "游行上方有一条薄纱做的蒙面身影，像中国新年舞龙一样在空中掠过；叙述者想弄清是否有人在下面撑着她，却看不出来——分不清谁是有血有肉的人、谁是记忆与欲望。",
+   "anchor": "a shrouded figure made of gauze, sweeping through the air like a dragon in a Chinese New Year parade",
+   "span": [
+    2501,
+    2601
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "F5",
+   "who_did_what": "Claude 说要在 Star 感觉还好的时候先把她带回去。",
+   "anchor": "take her back while she",
+   "span": [
+    3522,
+    3545
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "F6",
+   "who_did_what": "叙述者邀 Claude 收工后到自己家来、过夜；Claude 又亲了她一下，她感到自己体内的一切都涌向 Claude。",
+   "anchor": "When you get off, come to my place",
+   "span": [
+    3579,
+    3613
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "F7",
+   "who_did_what": "Bianca 说要送他们回去、并确保 Star 安顿好；叙述者挥手告别，随后独自留在人群里（朋友们在别处，她会找到他们）。",
+   "anchor": "I waved goodbye. And then I was alone in the crowd.",
+   "span": [
+    3786,
+    3837
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "F8",
+   "who_did_what": "叙述者从 Madonnas 的人群那头瞥见一个身影，随即认出那是她自己与 Mark——三年前他们也是这样一起看游行：他戴着她记得的那顶（去年在酒吧被人顺走的）针织帽、她穿着他的牛仔夹克、他双手扶住她的腰把她举起来；她掐自己的手臂确认自己活着，看到的是两人的过去而非自己或 Mark 的鬼魂，最终目送 Mark 牵着「她」消失进人群，握住了、也松开了。",
+   "anchor": "It was us. He wore the knit hat he used to love",
+   "span": [
+    4293,
+    4340
+   ],
+   "occurrences": 1
+  }
+ ],
+ "relations": [
+  {
+   "id": "R1",
+   "a": "叙述者（我）",
+   "b": "Mark",
+   "relation": "已失去的爱人：她看到的是两人过去一起看游行的身影，非常想念他；这一次她知道能看见他们是幸运。",
+   "anchor": "I missed him so much",
+   "span": [
+    4095,
+    4115
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "R2",
+   "a": "叙述者（我）",
+   "b": "Claude",
+   "relation": "亲密伴侣/恋人：Claude 亲吻她，她感到自己体内的一切都涌向 Claude；她把「Sleep over」的邀约给了 Claude。",
+   "anchor": "She kissed me again.",
+   "span": [
+    3640,
+    3660
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "R3",
+   "a": "Claude",
+   "b": "Star",
+   "relation": "Claude 负责照护/护送坐在轮椅上的 Star（在 Star 感觉还好的时候带她回去）；「Lucky Star」响起时 Star 只是尽力微笑。",
+   "anchor": "she just smiled the best she could",
+   "span": [
+    3449,
+    3483
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "R4",
+   "a": "Bianca",
+   "b": "叙述者与 Star 一行人",
+   "relation": "朋友：主动提出送他们回去并确保 Star 安顿好。",
+   "anchor": "walk them back and make sure Star was settled okay",
+   "span": [
+    3734,
+    3784
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "R5",
+   "a": "叙述者（我）",
+   "b": "Patrick、François 等已故之人",
+   "relation": "她爱过、失去并试图留住的人；这一次看见 Mark 的过去身影「不像」看见他们，感觉自由。",
+   "anchor": "anyone I had loved and lost and tried to hold on to",
+   "span": [
+    5380,
+    5431
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "R6",
+   "a": "叙述者（我）",
+   "b": "母亲",
+   "relation": "母亲在她第一个万圣节给她穿红衣、做毡制的尾巴和角；她想让母亲看看这场游行，并想起母亲曾在 Westbeth 有朋友。",
+   "anchor": "my mother dressed me in red and made me a felt tail and horns",
+   "span": [
+    1921,
+    1982
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "R7",
+   "a": "叙述者（我）",
+   "b": "朋友们",
+   "relation": "游行当晚她并非独自一人到场，朋友们也在人群某处（她要去找他们）。",
+   "anchor": "My friends were somewhere.",
+   "span": [
+    3838,
+    3864
+   ],
+   "occurrences": 1
+  }
+ ],
+ "numbers": [
+  {
+   "id": "N1",
+   "kind": "number/route",
+   "value": "the 1 train",
+   "anchor": "on the 1 train",
+   "span": [
+    385,
+    399
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "N2",
+   "kind": "year",
+   "value": "the 1984 Miss Solar System pageant",
+   "anchor": "the 1984 Miss Solar System pageant",
+   "span": [
+    993,
+    1027
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "N3",
+   "kind": "time",
+   "value": "maybe three years ago",
+   "anchor": "maybe three years ago",
+   "span": [
+    4634,
+    4655
+   ],
+   "occurrences": 1
+  },
+  {
+   "id": "N4",
+   "kind": "time",
+   "value": "last year（针织帽在酒吧被顺走）",
+   "anchor": "before it got swiped in a bar last year",
+   "span": [
+    4341,
+    4380
+   ],
+   "occurrences": 1
+  }
+ ],
+ "turning_point": "本章转折点：独自留在人群里的叙述者隔着 Madonnas 的人群瞥见一个身影，随即认出那是三年前的自己与 Mark 一起看这场游行——她从想留住死者，转为接受「我拥有的他已是我们曾有的全部」并放手（\"I held on, and I let go.\"），锚点 \"It was us. He wore the knit hat he used to love\"。",
+ "anchors_hit": 19,
+ "verify_cmd": "python3 -I -c 'import io,json;d=json.load(io.open(\"/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch36/1-suread.json\",encoding=\"utf-8\"));t=io.open(\"/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch36_parade.txt\",encoding=\"utf-8\").read();e=d[\"facts\"]+d[\"relations\"]+d[\"numbers\"];bad=[x[\"anchor\"] for x in e if t.find(x[\"anchor\"])<0 or t[x[\"span\"][0]:x[\"span\"][1]]!=x[\"anchor\"]];print(\"anchors_hit=%d/%d bad=%s\"%(len(e)-len(bad),len(e),bad));assert not bad and d[\"chars\"]==len(t)'"
+}

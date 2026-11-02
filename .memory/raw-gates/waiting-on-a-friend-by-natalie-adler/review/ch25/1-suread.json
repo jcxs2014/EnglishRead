@@ -1,0 +1,707 @@
+{
+  "chapter": "ch25 The Interboro Housing Authority",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch25_the_interboro_housing_authority.txt",
+  "chars": 15106,
+  "facts": [
+    {
+      "id": 1,
+      "actor": "Bianca / Renata",
+      "action": "Bianca 的约会对象是个无聊老古板（a square），于是她打电话给 Renata，约好一起去 Manhattan Remediation 探点；Bianca 与 Julie 同行，让 Renata 觉得把这些人赶出城更像公道、也不那么像私怨。",
+      "anchor": "Bianca’s date turned out to be a square, so she called me to make plans to visit Manhattan Remediation",
+      "span": [
+        34,
+        136
+      ],
+      "n_occurrences": 1,
+      "also": [
+        {
+          "anchor": "it was a relief to have her and Julie with me",
+          "span": [
+            235,
+            280
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "it made my desire to run the guys out of town feel more righteous and less personal",
+          "span": [
+            281,
+            364
+          ],
+          "n_occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "actor": "Bianca / Julie / Renata",
+      "action": "换乘去 Greenpoint 时 Bianca 问为什么不叫上 Claude，Julie 替 Renata 回答「分手了」；Bianca 追问 Renata 撑不撑得住，Renata 戴上墨镜只回一句「Lousy」。",
+      "anchor": "Julie answered for me: “They broke up.",
+      "span": [
+        455,
+        493
+      ],
+      "n_occurrences": 1,
+      "also": [
+        {
+          "anchor": "we transferred trains to Greenpoint",
+          "span": [
+            416,
+            451
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "I put my sunglasses on.",
+          "span": [
+            609,
+            632
+          ],
+          "n_occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "actor": "Renata / Bianca / Julie",
+      "action": "三人为伪装做准备：Renata 挑不出像样的衬衫（工作衫都磨破缺扣、Mark 的衬衫一件也穿不下），最后穿深蓝条纹水手衫、从店里顺来的夹式耳环，又向 Astor Place 的摊贩买了大圆框眼镜；Bianca 穿铅笔裙配领口系蝴蝶结的丝衬衫（一个结环松了）；Julie 趁午休到场，穿微皱黑西装。",
+      "anchor": "I wore a navy striped sailor shirt and a pair of clip-on earrings I nabbed from work.",
+      "span": [
+        1051,
+        1136
+      ],
+      "n_occurrences": 1,
+      "also": [
+        {
+          "anchor": "None of Mark’s shirts fit over my tits.",
+          "span": [
+            999,
+            1038
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "I even bought a pair of big round glasses off a guy on Astor Place.",
+          "span": [
+            1220,
+            1287
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "One loop of the bow had come loose",
+          "span": [
+            1375,
+            1409
+          ],
+          "n_occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "actor": "Julie",
+      "action": "Julie 事先打电话到 Manhattan Remediation，以「大活儿」为由点名要高级技师，报的是她某个叔叔的地址（那叔叔装作不懂英语，替她们拖时间）；约定若见到 Silverman 在场，Renata 就撤。",
+      "anchor": "Julie had called ahead and requested the senior technician for a big job.",
+      "span": [
+        1939,
+        2012
+      ],
+      "n_occurrences": 1,
+      "also": [
+        {
+          "anchor": "She gave the address of one of her uncles who would pretend to not know English",
+          "span": [
+            2013,
+            2092
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "If it looked like Silverman was there, I’d bolt.",
+          "span": [
+            2125,
+            2173
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "It’s true that we probably didn’t need disguises.",
+          "span": [
+            1889,
+            1938
+          ],
+          "n_occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "actor": "Renata / Bianca / Julie / 前台秘书",
+      "action": "三人从侧门进了店面；前台秘书竖起一根手指让她们等，先把电话讲完才接待；Julie 自称「Interboro Housing Authority」上门，并亮出贴有自己照片的塑封证件（机构名是编的，她们查过电话簿确认并无此机构）；秘书说要去叫老板。",
+      "anchor": "We’re with the Interboro Housing Authority",
+      "span": [
+        3392,
+        3434
+      ],
+      "n_occurrences": 1,
+      "also": [
+        {
+          "anchor": "We went inside.",
+          "span": [
+            2435,
+            2450
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "The secretary held up one finger to ask us to wait.",
+          "span": [
+            2544,
+            2595
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "Julie flashed a laminated badge with her face on it.",
+          "span": [
+            3814,
+            3866
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "because we made that up",
+          "span": [
+            3958,
+            3981
+          ],
+          "n_occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "actor": "Rick / 秘书 Marta",
+      "action": "Rick 从里屋出来，把一摞文件丢在桌上，称是与本市顶级地主签的合同（含 Trinity Church、the Archdiocese of New York），还正在争取与 Union Square BID 合作；秘书补说自己管账、并没有 NYCHA 的上门记录；随后 Rick 打发她休息十五分钟，再确认那处退役肉联厂分区合规。",
+      "anchor": "He dropped a stack of files on the desk.",
+      "span": [
+        5295,
+        5335
+      ],
+      "n_occurrences": 1,
+      "also": [
+        {
+          "anchor": "including Trinity Church and the Archdiocese of New York",
+          "span": [
+            5452,
+            5508
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "We’re also securing a partnership with the Union Square BID.",
+          "span": [
+            5510,
+            5570
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "I keep the accounts myself",
+          "span": [
+            6960,
+            6986
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "Why don’t you take your fifteen.",
+          "span": [
+            7463,
+            7495
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "Thank you, Marta.",
+          "span": [
+            7535,
+            7552
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "That’s correct. And it’s properly zoned for our operations.",
+          "span": [
+            7654,
+            7713
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "Hearse chasers.",
+          "span": [
+            6853,
+            6868
+          ],
+          "n_occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "actor": "Julie / Renata / Bianca",
+      "action": "Julie 援引纽约州刑事诉讼法 section 1.20, subsection 34, paragraph 2，声称有权关停不合规商业经营，逼问 Rick 是否算威胁；走出店面后她承认那条法条是自己编的，并提议回仓库关掉他们的系统、把生意做到亏本关门。",
+      "anchor": "I made that up,",
+      "span": [
+        9780,
+        9795
+      ],
+      "n_occurrences": 1,
+      "also": [
+        {
+          "anchor": "under New York State Criminal Procedure Law, section 1.20, subsection 34, paragraph 2",
+          "span": [
+            8099,
+            8184
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "Maybe we go back to the warehouse, shut down their system, and set them back so bad they’re in the red and gotta close up shop.",
+          "span": [
+            11822,
+            11949
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "It’s hard when power is on the side of the con men.",
+          "span": [
+            11555,
+            11606
+          ],
+          "n_occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "actor": "Bianca / Renata / 邻居 J. Ramos",
+      "action": "回程 Bianca 问起 Star，Renata 说她从未回电话；Bianca 转述 Cris 说 Star 是去了 Renata 家，随即闭眼断言「出事了」；两人去那男友在 C 街的单身公寓，按了 J. W. Sterling、J. Ramos、J. Seligmann、R. Johnson 四个门铃，应门的是邻居 J. Ramos（不是男友），Bianca 用西班牙语问出男友两天前匆忙搬走；隔壁那套公寓门没锁、屋里空空却异常干净、留有漂白水味，Star 毫无痕迹；Bianca 说要去 Renata 家打几通电话。",
+      "anchor": "Something happened.",
+      "span": [
+        13133,
+        13152
+      ],
+      "n_occurrences": 1,
+      "also": [
+        {
+          "anchor": "Oh. Actually, she never called back. Have you talked to her?",
+          "span": [
+            12660,
+            12720
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "Cris said she left for your apartment.",
+          "span": [
+            12743,
+            12781
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "We buzzed J. W. Sterling and J. Ramos and J. Seligmann and R. Johnson and one of them let us in.",
+          "span": [
+            14053,
+            14149
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "we were pretty sure Star called him Johnny",
+          "span": [
+            13954,
+            13996
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "She turned the knob carefully, testing the lock, and the door opened.",
+          "span": [
+            14626,
+            14695
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "a whiff of bleach left behind",
+          "span": [
+            14753,
+            14782
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "the boyfriend moved out two days ago",
+          "span": [
+            14823,
+            14859
+          ],
+          "n_occurrences": 1
+        },
+        {
+          "anchor": "I need to come over and make some calls.",
+          "span": [
+            15064,
+            15104
+          ],
+          "n_occurrences": 1
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Renata ↔ Bianca／Julie",
+      "relation": "Bianca 与 Julie 是 Renata 的两位最老的朋友，这次一起陪她上门。",
+      "anchor": "Even with my two oldest friends by my side",
+      "span": [
+        9479,
+        9521
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "pair": "Renata ↔ Claude",
+      "relation": "两人已分手（Julie 代答「They broke up.」；Bianca 原以为是 Renata 自己的蠢。",
+      "anchor": "They broke up.",
+      "span": [
+        479,
+        493
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "pair": "Star ↔ Renata",
+      "relation": "Star 本该搬进 Renata 的公寓（Bianca 问「Did she settle in okay?」，Cris 说她已去 Renata 家），但 Renata 从未接到她的电话。",
+      "anchor": "Did she settle in okay",
+      "span": [
+        12632,
+        12654
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "pair": "Star ↔ 男友（Star 叫他 Johnny）",
+      "relation": "Renata 猜她也许和男友复合去度蜜月；此人两天前匆忙搬走，屋子却打扫干净（漂白水味）。",
+      "anchor": "Maybe she got back with the boyfriend",
+      "span": [
+        13413,
+        13450
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "pair": "Rick ↔ 前台秘书（Marta）",
+      "relation": "秘书称 Rick 为老板（去叫他来）；Rick 办公室有空调、却让她在无窗前台出汗；之后他直呼她 Marta 并打发她去休息。",
+      "anchor": "Lemme go get my boss.",
+      "span": [
+        4523,
+        4544
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "pair": "Julie ↔ 体制内人脉",
+      "relation": "用贴自己照片的塑封证件进住房法庭；有商业合规处的同事可以打电话；报的是某位叔叔的地址（叔叔假装不懂英语）。",
+      "anchor": "I figured it’s what she used to get into housing court.",
+      "span": [
+        3867,
+        3922
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "pair": "Renata ↔ Silverman",
+      "relation": "Renata 忌惮此人：见他人在店里就撤；而她此前打给该店的电话，接电话者和店里那位是同一个声音。",
+      "anchor": "I heard the same voice that had answered the phone when I had called",
+      "span": [
+        2317,
+        2385
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "pair": "Renata ↔ Mark",
+      "relation": "Mark 的衬衫还在她家，她一件都穿不下（全章 Mark 未出场）。",
+      "anchor": "None of Mark’s shirts fit over my tits.",
+      "span": [
+        999,
+        1038
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "pair": "Manhattan Remediation ↔ 房东／super／François 的公寓",
+      "relation": "Renata 推想传单是「有人放进去的」：它先出现在 François 的公寓，后来出现在她门下；她构想 Rick→房东→super 的传话链。",
+      "anchor": "The flyer in François’s apartment, and then under my door",
+      "span": [
+        6373,
+        6430
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "pair": "Bianca ↔ Cris／直觉",
+      "relation": "Cris 掌握 Star 的行踪并被 Bianca 引述；Bianca 的直觉过去通常都应验，这次她自己不敢下最坏的结论。",
+      "anchor": "In the past, Bianca’s gut feelings usually bore out to be true.",
+      "span": [
+        13612,
+        13675
+      ],
+      "n_occurrences": 1
+    }
+  ],
+  "numbers": [
+    {
+      "what": "秘书在便签上写下的报修地址",
+      "value": "174 E7",
+      "anchor": "174 E7",
+      "span": [
+        2988,
+        2994
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "电话里承诺的上门时限（逐字）",
+      "value": "the next twenty to thirty minutes",
+      "anchor": "We can send someone over in the next twenty to thirty minutes.",
+      "span": [
+        2857,
+        2919
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "电话里重复的时限与上限（逐字）",
+      "value": "Twenty minutes / Thirty, tops",
+      "anchor": "Thirty, tops.",
+      "span": [
+        3272,
+        3285
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "补助房项目名（逐字）",
+      "value": "Section Eight",
+      "anchor": "What about Section Eight?",
+      "span": [
+        4409,
+        4434
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "Julie 引用的法条编号（逐字）",
+      "value": "section 1.20, subsection 34, paragraph 2",
+      "anchor": "Criminal Procedure Law, section 1.20, subsection 34, paragraph 2",
+      "span": [
+        8120,
+        8184
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "前台桌上空罐数（逐字）",
+      "value": "three empty cans of Diet Coke",
+      "anchor": "three empty cans of Diet Coke",
+      "span": [
+        2685,
+        2714
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "合同相对方（逐字）",
+      "value": "Trinity Church / the Archdiocese of New York",
+      "anchor": "including Trinity Church and the Archdiocese of New York",
+      "span": [
+        5452,
+        5508
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "BID 全称与「本市第一个」（逐字）",
+      "value": "Business Improvement District. First in the city.",
+      "anchor": "Business Improvement District. First in the city.",
+      "span": [
+        5592,
+        5641
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "男友搬走的时间（逐字）",
+      "value": "two days ago",
+      "anchor": "the boyfriend moved out two days ago",
+      "span": [
+        14823,
+        14859
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "秘书手势（逐字）",
+      "value": "one finger",
+      "anchor": "held up one finger to ask us to wait",
+      "span": [
+        2558,
+        2594
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "Rick 给秘书的休息时长（逐字）",
+      "value": "fifteen",
+      "anchor": "Why don’t you take your fifteen.",
+      "span": [
+        7463,
+        7495
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "店内空间（逐字）",
+      "value": "the three of us",
+      "anchor": "barely enough room for the three of us",
+      "span": [
+        2461,
+        2499
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "按过的四个门铃（逐字）",
+      "value": "J. W. Sterling / J. Ramos / J. Seligmann / R. Johnson",
+      "anchor": "J. W. Sterling and J. Ramos and J. Seligmann and R. Johnson",
+      "span": [
+        14063,
+        14122
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "走离店面的距离（逐字）",
+      "value": "a block",
+      "anchor": "After we had put a block between us and the storefront",
+      "span": [
+        9638,
+        9692
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "换乘站（逐字）",
+      "value": "Greenpoint",
+      "anchor": "we transferred trains to Greenpoint",
+      "span": [
+        416,
+        451
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "买眼镜的地点（逐字）",
+      "value": "Astor Place",
+      "anchor": "off a guy on Astor Place",
+      "span": [
+        1262,
+        1286
+      ],
+      "n_occurrences": 1
+    },
+    {
+      "what": "男友公寓所在街（逐字）",
+      "value": "a studio on C",
+      "anchor": "She did—a studio on C.",
+      "span": [
+        13865,
+        13887
+      ],
+      "n_occurrences": 1
+    }
+  ],
+  "turning_point": "本章转折点：上门查 Manhattan Remediation 只得到一句「这只是生意」（无功而返），而回程 Bianca 一问 Star 才发现她根本没到 Renata 家——线索转向那间两天前匆忙搬空、漂白水味未散的公寑：故事从「赶走捞屎人」转向「Star 失踪」。",
+  "anchors_hit": [
+    "Bianca’s date turned out to be a square, so she called me to make plans to visit Manhattan Remediation",
+    "it was a relief to have her and Julie with me",
+    "it made my desire to run the guys out of town feel more righteous and less personal",
+    "Julie answered for me: “They broke up.",
+    "we transferred trains to Greenpoint",
+    "I put my sunglasses on.",
+    "I wore a navy striped sailor shirt and a pair of clip-on earrings I nabbed from work.",
+    "None of Mark’s shirts fit over my tits.",
+    "I even bought a pair of big round glasses off a guy on Astor Place.",
+    "One loop of the bow had come loose",
+    "Julie had called ahead and requested the senior technician for a big job.",
+    "She gave the address of one of her uncles who would pretend to not know English",
+    "If it looked like Silverman was there, I’d bolt.",
+    "It’s true that we probably didn’t need disguises.",
+    "We’re with the Interboro Housing Authority",
+    "We went inside.",
+    "The secretary held up one finger to ask us to wait.",
+    "Julie flashed a laminated badge with her face on it.",
+    "because we made that up",
+    "He dropped a stack of files on the desk.",
+    "including Trinity Church and the Archdiocese of New York",
+    "We’re also securing a partnership with the Union Square BID.",
+    "I keep the accounts myself",
+    "Why don’t you take your fifteen.",
+    "Thank you, Marta.",
+    "That’s correct. And it’s properly zoned for our operations.",
+    "Hearse chasers.",
+    "I made that up,",
+    "under New York State Criminal Procedure Law, section 1.20, subsection 34, paragraph 2",
+    "Maybe we go back to the warehouse, shut down their system, and set them back so bad they’re in the red and gotta close up shop.",
+    "It’s hard when power is on the side of the con men.",
+    "Something happened.",
+    "Oh. Actually, she never called back. Have you talked to her?",
+    "Cris said she left for your apartment.",
+    "We buzzed J. W. Sterling and J. Ramos and J. Seligmann and R. Johnson and one of them let us in.",
+    "we were pretty sure Star called him Johnny",
+    "She turned the knob carefully, testing the lock, and the door opened.",
+    "a whiff of bleach left behind",
+    "the boyfriend moved out two days ago",
+    "I need to come over and make some calls.",
+    "Even with my two oldest friends by my side",
+    "They broke up.",
+    "Did she settle in okay",
+    "Maybe she got back with the boyfriend",
+    "Lemme go get my boss.",
+    "I figured it’s what she used to get into housing court.",
+    "I heard the same voice that had answered the phone when I had called",
+    "The flyer in François’s apartment, and then under my door",
+    "In the past, Bianca’s gut feelings usually bore out to be true.",
+    "174 E7",
+    "We can send someone over in the next twenty to thirty minutes.",
+    "Thirty, tops.",
+    "What about Section Eight?",
+    "Criminal Procedure Law, section 1.20, subsection 34, paragraph 2",
+    "three empty cans of Diet Coke",
+    "Business Improvement District. First in the city.",
+    "held up one finger to ask us to wait",
+    "barely enough room for the three of us",
+    "J. W. Sterling and J. Ramos and J. Seligmann and R. Johnson",
+    "After we had put a block between us and the storefront",
+    "off a guy on Astor Place",
+    "She did—a studio on C."
+  ],
+  "verify_cmd": "python3 -I -c 'import json;t=open(\"/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch25_the_interboro_housing_authority.txt\").read();d=json.load(open(\"/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch25/1-suread.json\"));A=d[\"anchors_hit\"];S=[(x[\"anchor\"],x[\"span\"]) for x in d[\"facts\"]+d[\"relations\"]+d[\"numbers\"]]+[(y[\"anchor\"],y[\"span\"]) for x in d[\"facts\"] for y in x[\"also\"]];bad=[a for a in A if t.find(a)<0 or t[t.find(a):t.find(a)+len(a)]!=a];bad+=[(a,s) for a,s in S if t[s[0]:s[1]]!=a];print(\"n_anchors\",len(A),\"n_spans\",len(S),\"BAD\",bad)'"
+}

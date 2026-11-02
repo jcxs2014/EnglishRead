@@ -1,0 +1,435 @@
+{
+  "chapter": "ch32",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch32_boo.txt",
+  "chars": 7821,
+  "facts": [
+    {
+      "id": "F1",
+      "who_does": "Boo 在接下来一周里几次拿起电话想打给 Claude，但每次都缩了回去，觉得自己得先处理完一桩事，才谈得上认真对待两人（呼应河边那天 Claude 对她说的话）。",
+      "anchor": "picked up the phone to call Claude a few times",
+      "span": [
+        28,
+        74
+      ],
+      "extra_anchors": []
+    },
+    {
+      "id": "F2",
+      "who_does": "万圣节店里很忙：五个女孩分别来要能扮成 Apollonia 的东西，Boo 全卖给了她们蕾丝连体衣；她把自己的「Monster Mash」唱片带进店，每半小时放一次，直到 Cynthia 叫她停。Cynthia 从 upstate 回来才两个来月，Boo 表现规矩、多招呼生意，指望她重新考虑别把店卖掉。",
+      "anchor": "Five different girls asked for something to look like Apollonia",
+      "span": [
+        385,
+        448
+      ],
+      "extra_anchors": [
+        {
+          "anchor": "until Cynthia told me to stop",
+          "span": [
+            553,
+            582
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F3",
+      "who_does": "上了一天班站着干活之后，Boo 打算在家抽根大麻放松，再去看 Kurt 的演出——据说是能看到它的最后一晚，房东给的硬期限是 11 月 1 日。",
+      "anchor": "unwind before Kurt’s show",
+      "span": [
+        806,
+        831
+      ],
+      "extra_anchors": [
+        {
+          "anchor": "his landlord had given him a hard out of November 1",
+          "span": [
+            887,
+            938
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F4",
+      "who_does": "Boo 刚放上 Specials 的 12 寸唱片，门上就响起了敲门声；她开门，Rick 站在门口，自称供职于 Manhattan Remediation，并说 Silverman 医生想让他来见她。",
+      "anchor": "and there was Rick",
+      "span": [
+        1157,
+        1175
+      ],
+      "extra_anchors": [
+        {
+          "anchor": "there was a knock on my door",
+          "span": [
+            991,
+            1019
+          ]
+        },
+        {
+          "anchor": "I work for Manhattan Remediation",
+          "span": [
+            1203,
+            1235
+          ]
+        },
+        {
+          "anchor": "My colleague, Dr. Silverman, wanted me to meet you",
+          "span": [
+            1544,
+            1594
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F5",
+      "who_does": "Boo 把还没点的大麻塞进后裤袋（不喜欢被他弄得像在做错事），侧身让他进来；Rick 在屋里转悠、手指划过书脊、看 Kurt 拍的 Mark 的褪色宝丽来，还拿起那张骷髅弹钢琴的唱片封套说喜欢、要查这个乐队。",
+      "anchor": "so I shoved it in my back pocket",
+      "span": [
+        1438,
+        1470
+      ],
+      "extra_anchors": [
+        {
+          "anchor": "it was in my hand",
+          "span": [
+            1419,
+            1436
+          ]
+        },
+        {
+          "anchor": "I stepped out of the way and he came in",
+          "span": [
+            1877,
+            1916
+          ]
+        },
+        {
+          "anchor": "the one with the skeleton playing the piano",
+          "span": [
+            2247,
+            2290
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F6",
+      "who_does": "Rick 翻了 Boo 的速写本，又到架子上抓起一张宝丽来细看，问她认不认识 Mark Johansen；他说两人上同一所大学、同在田径队，Mark 跑姿完美，像飘在地面上。",
+      "anchor": "You know Mark Johansen",
+      "span": [
+        4170,
+        4192
+      ],
+      "extra_anchors": [
+        {
+          "anchor": "he snatched one to look at closely",
+          "span": [
+            4109,
+            4143
+          ]
+        },
+        {
+          "anchor": "We went to the same college; we were on the track team",
+          "span": [
+            4440,
+            4494
+          ]
+        },
+        {
+          "anchor": "It was like he was floating above the ground",
+          "span": [
+            4531,
+            4575
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F7",
+      "who_does": "Boo 抄起门边 Mark 的棒球棍（按 Mark 教的两手握法，像触击那样），叫 Rick 滚出她家；Rick 说她在他们店面闹的、还有在仓库那次救人都改变不了什么，让她别再插手，然后离开。",
+      "anchor": "Get the fuck out of my home",
+      "span": [
+        4983,
+        5010
+      ],
+      "extra_anchors": [
+        {
+          "anchor": "baseball bat was by the door",
+          "span": [
+            4821,
+            4849
+          ]
+        },
+        {
+          "anchor": "with two hands",
+          "span": [
+            4910,
+            4924
+          ]
+        },
+        {
+          "anchor": "or your rescue mission in the warehouse made any difference",
+          "span": [
+            5165,
+            5224
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F8",
+      "who_does": "只剩她一人后，Boo 用球棍捅穿自己卧室的门，先假装那是 Rick、Silverman、Mark 的母亲、让 Mark 死掉的急诊医生，再把木屑当作 Koch 及为他干活的人、教会、房东、总统及其夫人、回家路上 Avenue A 那个四十多岁的西装男人（Mark 永远到不了的年纪）、Star 的男朋友等；她气 Mark 死、也气他离开、更气自己一直无视他在死去，喊过之后倒在纤维板碎片里，最后希望 Mark 别再回到这鬼地方。",
+      "anchor": "put it through my bedroom door",
+      "span": [
+        5556,
+        5586
+      ],
+      "extra_anchors": [
+        {
+          "anchor": "pretended it was Rick, Silverman, Mark’s mother, the ER doctors who let him die",
+          "span": [
+            5591,
+            5670
+          ]
+        },
+        {
+          "anchor": "pretended the bits of remaining wood were Koch",
+          "span": [
+            5705,
+            5751
+          ]
+        },
+        {
+          "anchor": "The man I saw on my way home from the store walking down Avenue A in a suit",
+          "span": [
+            5853,
+            5928
+          ]
+        },
+        {
+          "anchor": "Mark would never be",
+          "span": [
+            5955,
+            5974
+          ]
+        },
+        {
+          "anchor": "Star’s boyfriend",
+          "span": [
+            5976,
+            5992
+          ]
+        },
+        {
+          "anchor": "Reagan could vegetate forever",
+          "span": [
+            6197,
+            6226
+          ]
+        },
+        {
+          "anchor": "I was mad at him for dying",
+          "span": [
+            6254,
+            6280
+          ]
+        },
+        {
+          "anchor": "I had ignored the fact that he was dying",
+          "span": [
+            6434,
+            6474
+          ]
+        },
+        {
+          "anchor": "I screamed in the face of my own denial",
+          "span": [
+            6476,
+            6515
+          ]
+        },
+        {
+          "anchor": "fell to the floor with all the pieces of fiberboard",
+          "span": [
+            6576,
+            6627
+          ]
+        },
+        {
+          "anchor": "I hoped I wouldn’t see Mark again",
+          "span": [
+            7730,
+            7763
+          ]
+        },
+        {
+          "anchor": "he wouldn’t come back to this awful place",
+          "span": [
+            7778,
+            7819
+          ]
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Boo — Claude",
+      "note": "Boo 一周内数次想打电话又放下；动机与她记得的、河边那天 Claude 说过的话有关。",
+      "anchor": "picked up the phone to call Claude a few times",
+      "span": [
+        28,
+        74
+      ]
+    },
+    {
+      "pair": "Boo — Cynthia",
+      "note": "Cynthia 是店里的上级/店主，去 upstate 近两个月后回来；Boo 在她面前守规矩、多卖货，想让她打消卖店的念头。",
+      "anchor": "She was back from almost two months upstate",
+      "span": [
+        584,
+        627
+      ]
+    },
+    {
+      "pair": "Boo — Kurt",
+      "note": "Kurt 与 Boo 同住一处（公寓里有他的东西），当晚有演出；他的房东给的最后期限是 11 月 1 日。",
+      "anchor": "unwind before Kurt’s show",
+      "span": [
+        806,
+        831
+      ]
+    },
+    {
+      "pair": "Boo — Mark Johansen",
+      "note": "Mark 曾与 Boo 同住，六月去世；他的球棍放在门边，他的宝丽来和干百合自 shiva 起搁在架上。",
+      "anchor": "He lived with me",
+      "span": [
+        4297,
+        4313
+      ]
+    },
+    {
+      "pair": "Boo — Rick",
+      "note": "Rick 上门而非受雇来帮忙，代表 Manhattan Remediation 的管理方；两人对峙，Boo 用球棍把他赶走。",
+      "anchor": "I work for Manhattan Remediation",
+      "span": [
+        1203,
+        1235
+      ]
+    },
+    {
+      "pair": "Rick — Dr. Silverman",
+      "note": "Silverman 是 Rick 的同事，是他让 Rick 来见 Boo 的；Rick 不认同这安排，说他不需要一个灵媒。",
+      "anchor": "My colleague, Dr. Silverman, wanted me to meet you",
+      "span": [
+        1544,
+        1594
+      ]
+    },
+    {
+      "pair": "Rick — Mark Johansen",
+      "note": "同上一所大学、同属田径队；Rick 记得 Mark 跑步时的姿态。",
+      "anchor": "We went to the same college; we were on the track team",
+      "span": [
+        4440,
+        4494
+      ]
+    },
+    {
+      "pair": "Boo — 迁怒对象群（Koch / 教会 / 房东 / 总统 / Star 的男朋友等）",
+      "note": "Boo 把砸碎门的木屑想象成这些人，把 Mark 之死归责于一个系统。",
+      "anchor": "pretended the bits of remaining wood were Koch",
+      "span": [
+        5705,
+        5751
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "quote": "a few times",
+      "anchor": "a few times",
+      "span": [
+        63,
+        74
+      ]
+    },
+    {
+      "quote": "Five different girls",
+      "anchor": "Five different girls",
+      "span": [
+        385,
+        405
+      ]
+    },
+    {
+      "quote": "every half hour",
+      "anchor": "every half hour",
+      "span": [
+        537,
+        552
+      ]
+    },
+    {
+      "quote": "almost two months",
+      "anchor": "almost two months",
+      "span": [
+        602,
+        619
+      ]
+    },
+    {
+      "quote": "a 12-inch of the Specials",
+      "anchor": "a 12-inch of the Specials",
+      "span": [
+        960,
+        985
+      ]
+    },
+    {
+      "quote": "November 1",
+      "anchor": "November 1",
+      "span": [
+        928,
+        938
+      ]
+    },
+    {
+      "quote": "with two hands",
+      "anchor": "with two hands",
+      "span": [
+        4910,
+        4924
+      ]
+    },
+    {
+      "quote": "He died in June",
+      "anchor": "He died in June",
+      "span": [
+        4349,
+        4364
+      ]
+    },
+    {
+      "quote": "in his forties",
+      "anchor": "in his forties",
+      "span": [
+        5936,
+        5950
+      ]
+    },
+    {
+      "quote": "a hundred and two",
+      "anchor": "a hundred and two",
+      "span": [
+        6144,
+        6161
+      ]
+    }
+  ],
+  "turning_point": "转折点：Rick 上门后从一张宝丽来认出 Mark Johansen（同校田徑队），Boo 随即操起 Mark 的球棒把他赶出门，再用球棒砸穿自己卧室的门，第一次承认自己一直在否认 Mark 正在死去。",
+  "anchors_hit": 52,
+  "verify_cmd": "python3 -I -c \"import json,sys;d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch32/1-suread.json'));t=open(d['text_file'],encoding='utf-8').read();items=d['facts']+d['numbers']+d['relations'];pairs=[(i['anchor'],i['span']) for i in items]+[(x['anchor'],x['span']) for i in items for x in i.get('extra_anchors',[])];bad=[(a,s) for a,s in pairs if not (t.find(a)>=0 and t[s[0]:s[1]]==a)];print('OK' if not bad else 'FAIL',len(pairs),bad);sys.exit(1 if bad else 0)\""
+}

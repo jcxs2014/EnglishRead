@@ -1,0 +1,235 @@
+{
+ "chapter": "ch07",
+ "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch07_some_bitter_queen.txt",
+ "chars": 15900,
+ "facts": [
+  {
+   "text": "Mark 死后近三周仍无他的踪影；Renata 心里想打给 Claude、Julie、Bianca 要人陪却没打（她说自己需要空间，他们便真的没来）。她反复放 I Can’t Stand the Rain（一张适合孤独、愤怒、自我正当化的专辑），并回想 Mark 死的那晚：自己抽了大麻、头痛、读一本蠢杂志，而 Patrick 没打电话给她。",
+   "anchor": "Mark had been dead almost three weeks",
+   "span": [
+    20,
+    57
+   ]
+  },
+  {
+   "text": "某夜趁天没黑透，她走到 Patrick 家（C 与 D 之间一条阴暗街区，他公寓对着空地、蓝警局护栏从没撤过）。按铃无人应，一名紧张、穿着整洁的男人溜出门钻进一辆并排停放、挂康涅狄格牌照的车；她趁其不回头，用靴子卡住门缝上楼。",
+   "anchor": "a nervous, neatly dressed man slipped out the door and into a double-parked car with Connecticut plates",
+   "span": [
+    1178,
+    1281
+   ]
+  },
+  {
+   "text": "Patrick 开门：低腰牛仔裤、腋下到乳头开了洞的白色旧 T 恤，头发往后抹；开口便假设她来是为“在我情人的葬礼上纠缠我”道歉。",
+   "anchor": "in low-slung jeans and a threadbare white T-shirt with a hole growing from his armpit to his nipple",
+   "span": [
+    1443,
+    1542
+   ]
+  },
+  {
+   "text": "她注意到咖啡桌上一只印毒骷髅的玻璃纸袋（她翻了白眼，暗问这算不算讽刺）；Patrick 抢先声明那是留到晚上用的、有其仪式；她表明自己不要，宁可靠墙抱手站着。",
+   "anchor": "On the coffee table was a glassine bag with a poison skull stamped on it",
+   "span": [
+    3184,
+    3256
+   ]
+  },
+  {
+   "text": "Patrick 单刀直问是否见过 Mark，并说 Mark 把他的“magic trick”告诉了他；她装作不明所以（“看见谁”），他举杯向不在场的人敬酒、干杯，逼问 Mark 是否已经出现；她被这一击打得像腹部挨踹、喘不上气。",
+   "anchor": "He told me about your magic trick.",
+   "span": [
+    6681,
+    6715
+   ]
+  },
+  {
+   "text": "Patrick 复述 Mark 的话：她能看见死去的朋友与街坊里其他死去的人，还能跟他们说话；她反问他信不信、还是“just in case”；他称之为 Pascal’s wager——不信，但万一是真的也不亏；他笑她“spooky”，她骂他 bitch，他让她“穿点颜色”。",
+   "anchor": "Only that you see our dead friends and whoever else happened to die in the neighborhood, and that you talk to them, too.",
+   "span": [
+    7404,
+    7524
+   ]
+  },
+  {
+   "text": "她追问 Mark 到底说了什么（脱口而出、来不及三思）；Patrick 说她既然见过 François，Mark 就不会出现，两人对视如摔跤手较量；她由此反推：Patrick 也在找 Mark。",
+   "anchor": "Patrick was looking for Mark, too.",
+   "span": [
+    13956,
+    13990
+   ]
+  },
+  {
+   "text": "冲突升级：Patrick 质问她把“那个瞎眼老太婆（blind old bat，指 François）在烦你”告诉 Mark 做什么；他说 Mark 最后怕她，并抖出死状——医院让他们等了又等、连生命体征都没量，没见到医生，Mark 被自己肺里的黏液噎死、眼睛还睁着、坐在走廊的轮椅上；“你不必看他的脸。我帮了你一个忙。”她低声“Fuck you, Patrick”却几乎没出声，摔门离开并开始哭。",
+   "anchor": "He choked to death from the gunk in his own lungs. His eyes were still open.",
+   "span": [
+    15484,
+    15560
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "text": "Renata–Mark：十年友谊；亲密到 Patrick 讥讽“两个扮家家的孤儿？小乱伦双胞胎”——他认定她以为两人能天长地久，还说他曾告诉 Mark“你大概指望把他照护到死”。",
+   "anchor": "the first ten years of our friendship",
+   "span": [
+    5805,
+    5842
+   ]
+  },
+  {
+   "text": "Renata–Patrick：未亡人之间的敌意与同类——都想反复谈 Mark，都可能在等 Mark 出现；她闪过“我们要不是敌人就好了”的念头，但认定只要他还在刺她就无法原谅。",
+   "anchor": "we could do that forever and age into a couple of shuffling olds",
+   "span": [
+    12426,
+    12490
+   ]
+  },
+  {
+   "text": "Patrick–Mark：Patrick 自称 Mark 的 lover、认识六个月，自认有资格交付“Mark 觉得羞愧/怕你”的判断；Mark 曾与他吸过海洛因（“I tried it with him”）。",
+   "anchor": "He was my lover. I knew him.",
+   "span": [
+    12956,
+    12984
+   ]
+  },
+  {
+   "text": "Mark–Patrick 相处的性质：Renata 不喜欢却承认两人之间有种说得通的东西——不会长久，但能在有限时间里走得又深又黑，因为 Mark 认定自己将死，而 Patrick 不在乎他死。",
+   "anchor": "but they could go deep and dark and find as much space in the time they had",
+   "span": [
+    4023,
+    4098
+   ]
+  },
+  {
+   "text": "Renata–François：她“见过 François”；Patrick 用“那个瞎老头”刺激她，她听见 François 哀嚎、紧抓自己的手想安慰他，同时气他在她公寓等她、而 Mark 永远不在了。",
+   "anchor": "He meant François.",
+   "span": [
+    14619,
+    14637
+   ]
+  },
+  {
+   "text": "Patrick 的家庭：香港富豪家庭，因论文展拍“马蹄莲插在屁股上”的照片将他逐出（Mark 说“他比 Mapplethorpe 更早做，但名声归了分拍花朵与肛门的那位”）；被逐前父亲借他把钱安置进纽约地产；如今住破地方却不担心被偷，他“穷过，但从没困窘过”。",
+   "anchor": "a very wealthy Hong Kong family who disowned him",
+   "span": [
+    2289,
+    2337
+   ]
+  },
+  {
+   "text": "Renata–Claude/Julie/Bianca：她本想要陪伴却一个也没打；她想起 Julie 的父亲（抽烟、皱眉）。",
+   "anchor": "I wanted to call Claude, I wanted to call Julie, I wanted to call Bianca",
+   "span": [
+    119,
+    191
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "text": "almost three weeks（Mark 死后近三周）",
+   "anchor": "almost three weeks",
+   "span": [
+    39,
+    57
+   ]
+  },
+  {
+   "text": "between C and D（Patrick 住在 C、D 两条大道之间的街区）",
+   "anchor": "between C and D",
+   "span": [
+    858,
+    873
+   ]
+  },
+  {
+   "text": "the second floor（她抬头望二楼，窗子开着）",
+   "anchor": "up to the second floor",
+   "span": [
+    1056,
+    1078
+   ]
+  },
+  {
+   "text": "a twenty-nine-year-old man（Patrick：二十九岁的人不会没有未了之事）",
+   "anchor": "a twenty-nine-year-old man",
+   "span": [
+    8697,
+    8723
+   ]
+  },
+  {
+   "text": "Six. Six months.（Patrick 与 Mark 相处时长）",
+   "anchor": "Six. Six months.",
+   "span": [
+    13154,
+    13170
+   ]
+  },
+  {
+   "text": "a few months（她：你只认识他几个月）",
+   "anchor": "You knew him a few months",
+   "span": [
+    13123,
+    13148
+   ]
+  },
+  {
+   "text": "the first ten years of our friendship（两人友谊的头十年）",
+   "anchor": "the first ten years of our friendship",
+   "span": [
+    5805,
+    5842
+   ]
+  },
+  {
+   "text": "done heroin twice（Mark 吸过两次，为给它一个公平机会）",
+   "anchor": "done heroin twice",
+   "span": [
+    5434,
+    5451
+   ]
+  },
+  {
+   "text": "the second time was worse than the first（第二次比第一次更糟）",
+   "anchor": "the second time was worse than the first",
+   "span": [
+    5116,
+    5156
+   ]
+  },
+  {
+   "text": "one single tropical flower with a long red stamen（黑瓶里单支热带花、长红蕊）",
+   "anchor": "one single tropical flower with a long red stamen",
+   "span": [
+    2061,
+    2110
+   ]
+  },
+  {
+   "text": "Not a single tchotchke.（公寓里没有一件私人物件）",
+   "anchor": "Not a single tchotchke.",
+   "span": [
+    2221,
+    2244
+   ]
+  }
+ ],
+ "turning_point": {
+  "text": "本章转折点：Patrick 从冷嘲试探骤然翻脸，抖出 Mark 的死状细节（在医院走廊的轮椅上被自己肺里的黏液噎死、眼睛还睁着），并以“你没看到他的脸，我帮了你一个忙”把 Renata 缺席最后一面翻成他的恩德；她摔门离开，第一次为 Mark 哭出来。",
+  "anchor": "I did you a favor.",
+  "span": [
+   15662,
+   15680
+  ]
+ },
+ "anchors_hit": {
+  "facts": "8/8",
+  "relations": "7/7",
+  "numbers": "11/11",
+  "turning_point": "1/1",
+  "total": "27/27"
+ },
+ "verify_cmd": "python3 -I -c 'import json,sys;d=json.load(open(\"/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch07/1-suread.json\"));t=open(d[\"text_file\"],encoding=\"utf-8\").read();xs=[*d[\"facts\"],*d[\"relations\"],*d[\"numbers\"],d[\"turning_point\"]];bad=[x[\"anchor\"] for x in xs if not(t.find(x[\"anchor\"])>=0 and t[x[\"span\"][0]:x[\"span\"][1]]==x[\"anchor\"])];print(\"hit\",len(xs)-len(bad),len(xs));print(\"bad\",bad);sys.exit(1 if bad else 0)'"
+}

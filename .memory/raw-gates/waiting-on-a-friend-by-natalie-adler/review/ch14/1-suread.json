@@ -1,0 +1,756 @@
+{
+  "chapter": "ch14_runaways",
+  "chapter_title": "Runaways",
+  "source_txt": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch14_runaways.txt",
+  "source_sha256": "b9c5a2e0be77bcc9abd4fb192e4d59d5f9908f38f2526b24b0201eb597bf07d3",
+  "chars": 4185,
+  "bytes": 4359,
+  "read_scope": "R1 素读：仅读本章 .txt 原文，未读任何 .md / scripts / docs / 同目录书稿。",
+  "actions": [
+    {
+      "id": "a1",
+      "action": "多年前，Renata 之所以把「我能看见鬼」告诉 Mark，是因为彼时两人正一起从大学出逃：她决定搭车离开那座死气沉沉的北方小镇，Mark 恰有同样念头、且由他开车（他来自 Bay Ridge、有车），自称被学校开除、回不了家，所以去哪儿都行。",
+      "anchors": [
+        {
+          "anchor": "we were both running away from college together.",
+          "span": [
+            107,
+            155
+          ]
+        },
+        {
+          "anchor": "I had decided to hitch my way out of our dead little upstate town",
+          "span": [
+            156,
+            221
+          ]
+        },
+        {
+          "anchor": "he was from Bay Ridge and had a car",
+          "span": [
+            301,
+            336
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "action": "她先开口问 Mark 为什么离开学校，他反将一军来问她；她说「你先说」，出乎她意料，他就把整件事全盘托出——单手开车，另一只手抬起来按黑眼圈试肿。",
+      "anchors": [
+        {
+          "anchor": "He countered and asked me why I was.",
+          "span": [
+            642,
+            678
+          ]
+        },
+        {
+          "anchor": "You first, I said",
+          "span": [
+            679,
+            696
+          ]
+        },
+        {
+          "anchor": "steering with one hand",
+          "span": [
+            746,
+            768
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "action": "两人拿《教父》打趣（Michael 在西西里全程带着黑眼圈）；她问他为什么不还手，他解释说自己在找爱、不是找架打：他对那人本已敞开、两人彼此想要，却被对方偷袭一拳——说完手又去摸眼睛。",
+      "anchors": [
+        {
+          "anchor": "he was looking for love, not a fight.",
+          "span": [
+            1037,
+            1074
+          ]
+        },
+        {
+          "anchor": "I was already open to him",
+          "span": [
+            1128,
+            1153
+          ]
+        },
+        {
+          "anchor": "he sucker punched me",
+          "span": [
+            1257,
+            1277
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "action": "Renata 当场决意：既然 Mark 不肯保护自己（这个女儿家庭里最小的儿子），那就由她来教他怎么自保。",
+      "anchors": [
+        {
+          "anchor": "this youngest son in a family of daughters, I would teach him how to do it.",
+          "span": [
+            1389,
+            1464
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "action": "轮到她说缘由时，她只推说大学不是她的场子；他不买账、显得无聊；她想镇住他，先立规矩「我告诉你可以，但不许喊我胡扯」，随即飞快地说出：我看见了 Mary Ellen Bishop 的鬼魂。",
+      "anchors": [
+        {
+          "anchor": "I just said that college wasn’t really my scene.",
+          "span": [
+            1499,
+            1547
+          ]
+        },
+        {
+          "anchor": "If I tell you, you can’t call bullshit.",
+          "span": [
+            1614,
+            1653
+          ]
+        },
+        {
+          "anchor": "I saw Mary Ellen Bishop’s ghost.",
+          "span": [
+            1737,
+            1769
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6",
+      "action": "Mark 先误以为她是说看见 Mary Ellen 跳下图书馆、还说了句道歉；她纠正说是跳下来之后的鬼魂。他沉默了几分钟（车载电台转成静电、正远离校园电台的信号，这让她松一口气），最后只说了一句「That sounds scary.」",
+      "anchors": [
+        {
+          "anchor": "He didn’t say anything for a few minutes.",
+          "span": [
+            1905,
+            1946
+          ]
+        },
+        {
+          "anchor": "That sounds scary",
+          "span": [
+            2155,
+            2172
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7",
+      "action": "Mark 接着抖出 Mary Ellen 的校园流言（堕胎后被男友甩，或怀孕想堕而对方要她留），并指认那个男友 Rick 与自己同属田径队、骂他是烂人；Renata 生硬地拒绝谈八卦——她事后回看，这份拒绝正是她被第一只鬼吓透的明证。",
+      "anchors": [
+        {
+          "anchor": "It’s not any of our business why she did it",
+          "span": [
+            2397,
+            2440
+          ]
+        },
+        {
+          "anchor": "Rick was on the track team with me",
+          "span": [
+            2488,
+            2522
+          ]
+        },
+        {
+          "anchor": "a testament to how shook up I was",
+          "span": [
+            2689,
+            2722
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a8",
+      "action": "Renata 交代自己的见鬼史：Mary Ellen 是唯一清晰的鬼，其余仍模糊，像负空间的闪光；她由此意识到必须回到城里——她应付不了孤独的乡下鬼。Mark 问她觉得鬼想从她身上要什么，她说不觉得它们要什么、它们只是在那里，并反问是否觉得她在编造；他说不是，且「why not?」，笑声明亮，提议一直开下去直到弄明白；他们真的一路开到了墨西哥，他的黑眼圈一周后痊愈。",
+      "anchors": [
+        {
+          "anchor": "flashes of negative space",
+          "span": [
+            3005,
+            3030
+          ]
+        },
+        {
+          "anchor": "I couldn’t deal with lonely country ghosts.",
+          "span": [
+            3185,
+            3228
+          ]
+        },
+        {
+          "anchor": "Let’s keep driving till we figure it out.",
+          "span": [
+            3574,
+            3615
+          ]
+        },
+        {
+          "anchor": "all the way to Mexico",
+          "span": [
+            3631,
+            3652
+          ]
+        }
+      ]
+    }
+  ],
+  "turning_point": {
+    "text": "本章转折点：Mark 那场坦白的底色原来不是闲聊——她后来才知道，若他没捎上她，他会一直开到撞上海、再游到力尽把自己淹死；是她的鬼故事让他相信世界仍有他不知道的东西、也许能给他惊喜（「I guess it did, for a while, and then it didn’t.」）。也就是说，这场出逃里，他的性命是被她的秘密接住的。",
+    "anchors": [
+      {
+        "anchor": "he would have kept driving until he hit the ocean",
+        "span": [
+          3739,
+          3788
+        ]
+      },
+      {
+        "anchor": "he was going to drown himself",
+        "span": [
+          3852,
+          3881
+        ]
+      },
+      {
+        "anchor": "It was that story of yours, the ghosts",
+        "span": [
+          3893,
+          3931
+        ]
+      },
+      {
+        "anchor": "I guess it did, for a while, and then it didn’t.",
+        "span": [
+          4037,
+          4085
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "pair": "Renata ↔ Mark",
+      "text": "逃伴/旧识：两人一起逃离大学，她先把自己的秘密（见鬼）交给他；多年后她仍记得他当时的反应，收尾一句说他并不迷信也不特别多愁善感，但尊重有这种倾向的人。",
+      "anchors": [
+        {
+          "anchor": "we were both running away from college together.",
+          "span": [
+            107,
+            155
+          ]
+        },
+        {
+          "anchor": "he respected people who were.",
+          "span": [
+            4155,
+            4184
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Mark ↔ 家人（姐姐们）",
+      "text": "女儿家庭里最小的儿子；他被学校开除、回不了家，因此可以去任何地方。",
+      "anchors": [
+        {
+          "anchor": "this youngest son in a family of daughters",
+          "span": [
+            1389,
+            1431
+          ]
+        },
+        {
+          "anchor": "kicked out of school and couldn’t go home",
+          "span": [
+            356,
+            397
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Mark ↔ 打他的那个男人",
+      "text": "他找的是爱不是打架：他说自己对那人本已敞开、两人彼此想要，却被对方偷袭一拳（黑眼圈是物证）。",
+      "anchors": [
+        {
+          "anchor": "I was already open to him",
+          "span": [
+            1128,
+            1153
+          ]
+        },
+        {
+          "anchor": "he sucker punched me",
+          "span": [
+            1257,
+            1277
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Renata ↔ Mary Ellen Bishop",
+      "text": "她看见 Mary Ellen 跳楼之后的鬼魂：这是她第一只、也是唯一清晰的鬼；正因它，她才明白自己必须回城。",
+      "anchors": [
+        {
+          "anchor": "I saw Mary Ellen Bishop’s ghost.",
+          "span": [
+            1737,
+            1769
+          ]
+        },
+        {
+          "anchor": "She was really—defined.",
+          "span": [
+            2885,
+            2908
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Renata ↔ 八卦 / Rick",
+      "text": "Mark 想聊 Mary Ellen 的死（Rick 与他同田径队、是他口中的烂人），Renata 拒绝谈，称这不是他们该问的事；Mark 没反驳，只说你说得对。",
+      "anchors": [
+        {
+          "anchor": "Rick was on the track team with me",
+          "span": [
+            2488,
+            2522
+          ]
+        },
+        {
+          "anchor": "It’s not any of our business why she did it",
+          "span": [
+            2397,
+            2440
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Mark ↔ Renata（性命层面）",
+      "text": "若非他捎上她：他本打算开到海边、游到力尽淹死自己；他自认是她的鬼故事让他选择留下，世界也许还能给他惊喜。",
+      "anchors": [
+        {
+          "anchor": "he would have kept driving until he hit the ocean",
+          "span": [
+            3739,
+            3788
+          ]
+        },
+        {
+          "anchor": "It was that story of yours, the ghosts",
+          "span": [
+            3893,
+            3931
+          ]
+        }
+      ]
+    }
+  ],
+  "numbers_dates": [
+    {
+      "verbatim": "all those years ago",
+      "note": "她把自己的秘密告诉 Mark 的时间（多年前）",
+      "anchors": [
+        {
+          "anchor": "all those years ago",
+          "span": [
+            79,
+            98
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "a few quiet miles",
+      "note": "两人刚上路时沉默的里程数（模糊量）",
+      "anchors": [
+        {
+          "anchor": "a few quiet miles",
+          "span": [
+            545,
+            562
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "a few minutes",
+      "note": "Mark 听完鬼魂坦白后的沉默时长",
+      "anchors": [
+        {
+          "anchor": "for a few minutes",
+          "span": [
+            1928,
+            1945
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "a week later",
+      "note": "Mark 黑眼圈痊愈的时间",
+      "anchors": [
+        {
+          "anchor": "a week later",
+          "span": [
+            3675,
+            3687
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "all the way to Mexico",
+      "note": "两人最终开到的距离/终点",
+      "anchors": [
+        {
+          "anchor": "all the way to Mexico",
+          "span": [
+            3631,
+            3652
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "my whole life",
+      "note": "她看见负空间闪光的时间跨度",
+      "anchors": [
+        {
+          "anchor": "my whole life",
+          "span": [
+            2979,
+            2992
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "this first ghost",
+      "note": "序数：第一只鬼（Mary Ellen Bishop）",
+      "anchors": [
+        {
+          "anchor": "this first ghost",
+          "span": [
+            2726,
+            2742
+          ]
+        }
+      ]
+    }
+  ],
+  "numbers_note": "本章无绝对年份/日期；时间全为相对表述（all those years ago / a few minutes / a week later），数字量词已逐字抄录。",
+  "anchors_hit": 36,
+  "anchors_total": 36,
+  "anchors_failed": [],
+  "all_anchors": [
+    {
+      "anchor": "we were both running away from college together.",
+      "span": [
+        107,
+        155
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I had decided to hitch my way out of our dead little upstate town",
+      "span": [
+        156,
+        221
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "he was from Bay Ridge and had a car",
+      "span": [
+        301,
+        336
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "He countered and asked me why I was.",
+      "span": [
+        642,
+        678
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "You first, I said",
+      "span": [
+        679,
+        696
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "steering with one hand",
+      "span": [
+        746,
+        768
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "he was looking for love, not a fight.",
+      "span": [
+        1037,
+        1074
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I was already open to him",
+      "span": [
+        1128,
+        1153
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "he sucker punched me",
+      "span": [
+        1257,
+        1277
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "this youngest son in a family of daughters, I would teach him how to do it.",
+      "span": [
+        1389,
+        1464
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I just said that college wasn’t really my scene.",
+      "span": [
+        1499,
+        1547
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "If I tell you, you can’t call bullshit.",
+      "span": [
+        1614,
+        1653
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I saw Mary Ellen Bishop’s ghost.",
+      "span": [
+        1737,
+        1769
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "He didn’t say anything for a few minutes.",
+      "span": [
+        1905,
+        1946
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "That sounds scary",
+      "span": [
+        2155,
+        2172
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "It’s not any of our business why she did it",
+      "span": [
+        2397,
+        2440
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Rick was on the track team with me",
+      "span": [
+        2488,
+        2522
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "a testament to how shook up I was",
+      "span": [
+        2689,
+        2722
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "flashes of negative space",
+      "span": [
+        3005,
+        3030
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I couldn’t deal with lonely country ghosts.",
+      "span": [
+        3185,
+        3228
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Let’s keep driving till we figure it out.",
+      "span": [
+        3574,
+        3615
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "all the way to Mexico",
+      "span": [
+        3631,
+        3652
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "he would have kept driving until he hit the ocean",
+      "span": [
+        3739,
+        3788
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "he was going to drown himself",
+      "span": [
+        3852,
+        3881
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "It was that story of yours, the ghosts",
+      "span": [
+        3893,
+        3931
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I guess it did, for a while, and then it didn’t.",
+      "span": [
+        4037,
+        4085
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "he respected people who were.",
+      "span": [
+        4155,
+        4184
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "this youngest son in a family of daughters",
+      "span": [
+        1389,
+        1431
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "kicked out of school and couldn’t go home",
+      "span": [
+        356,
+        397
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "She was really—defined.",
+      "span": [
+        2885,
+        2908
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "all those years ago",
+      "span": [
+        79,
+        98
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "a few quiet miles",
+      "span": [
+        545,
+        562
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "for a few minutes",
+      "span": [
+        1928,
+        1945
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "a week later",
+      "span": [
+        3675,
+        3687
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "my whole life",
+      "span": [
+        2979,
+        2992
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "this first ghost",
+      "span": [
+        2726,
+        2742
+      ],
+      "occurrences": 1
+    }
+  ],
+  "verify_cmd": "python3 -I -c \"import json;d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch14/1-suread.json',encoding='utf-8'));t=open('/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch14_runaways.txt',encoding='utf-8').read();bad=[a for a in d['all_anchors'] if t.find(a['anchor'])!=a['span'][0] or t[a['span'][0]:a['span'][1]]!=a['anchor']];print('FAIL',bad) if bad else print('OK',d['anchors_hit'],'/',d['anchors_total'])\""
+}

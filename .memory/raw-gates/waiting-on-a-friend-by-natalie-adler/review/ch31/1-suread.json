@@ -1,0 +1,463 @@
+{
+  "chapter": "ch31",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch31_really_dead.txt",
+  "chars": 14197,
+  "facts": [
+    {
+      "who": "叙述者（“我”）",
+      "action": "打烊时注意到成对男女进出 Combat 楼上的公寓，随即认出 Cynthia 已经在办 open house（带人看房）；她此前没听到楼上有装修动静，推断 Cynthia 大概没装修、也许不会马上卖掉店面，自己还能推迟搬家的决定。",
+      "anchor": "was already having an open house",
+      "span": [
+        323,
+        355
+      ]
+    },
+    {
+      "who": "看房的男子（Seventh Street 上唯一穿 slacks 的男人）与 Marcy",
+      "action": "男子对 Marcy 抱怨七百块月租对这个地方太贵（叙述者由此认定 Cynthia 眼下在出租），又称 Sixty-seventh 的公寓有全新厨房、离父母更近；他压低声音说这里“a bit of a dump”、不愿她独自留在此地，并把双手搭上她的垫肩。",
+      "anchor": "seven hundred bucks is a hell of a lot for the place",
+      "span": [
+        656,
+        708
+      ]
+    },
+    {
+      "who": "叙述者 与 Patrick",
+      "action": "叙述者回到自己楼门口，发现 Patrick 瘫坐在门道里；叫醒他后试图搀扶，但两人身体无法相接——她能碰到他的手臂，手上却毫无重量；Patrick 说“This isn’t real”，又笑着问“Am I really dead?”；叙述者让他跟着上楼，带他进公寓，Patrick 落到 Mark 的床上。",
+      "anchor": "he sank onto Mark’s bed",
+      "span": [
+        2373,
+        2396
+      ],
+      "extra_anchors": [
+        {
+          "anchor": "Our bodies couldn’t connect",
+          "span": [
+            1800,
+            1827
+          ]
+        }
+      ]
+    },
+    {
+      "who": "Patrick",
+      "action": "自述死因经过：先是“velvet heaven”，随后发现自己站在沙发上俯视沙发上的自己、气色很差，皮肤发绿；他说自己以前也 OD 过，这次却是“I was just…at home”，并且一直在失去时间感。",
+      "anchor": "I was standing over myself",
+      "span": [
+        3639,
+        3665
+      ]
+    },
+    {
+      "who": "叙述者",
+      "action": "掏出三块钱放在 Patrick 面前当作 traveling change（路上用的零钱，just in case），并问他是否必须把钱烧掉；Patrick 说“Don’t bother.”。",
+      "anchor": "I coughed up three bucks",
+      "span": [
+        4270,
+        4294
+      ]
+    },
+    {
+      "who": "Patrick 与叙述者",
+      "action": "Patrick 哭着说“Mark isn’t here.”，追问 Mark 去了哪里，并重复今天是 Mark 的生日；叙述者确认那天正是 10 月 21 日，Mark 本该三十岁。",
+      "anchor": "It was October 21",
+      "span": [
+        5119,
+        5136
+      ]
+    },
+    {
+      "who": "Patrick（转述 Mark 的日记）",
+      "action": "Patrick 说他读过 Mark 的日记，并闭眼用 Mark 的语调背出其中一段：Mark 想在某个夏天住到 Santorini，全班人马搬去希腊（Renata 和 François、Leon、Paul、所有叫 David 的人等），并说自己的乐园幻想里仍要带上全部日常生活的朋友。",
+      "anchor": "One summer I want to live in Santorini",
+      "span": [
+        11887,
+        11925
+      ]
+    },
+    {
+      "who": "叙述者 与 Patrick",
+      "action": "两人在 Mark 的房间里一直坐到天太黑看不见，聊着 Mark，Patrick 就此放手、把头靠上叙述者的肩；临走前叙述者对他说“He loved you because you weren’t afraid of anything.”；随后光线一变，她已看不见 Patrick，窗外坏了一整个夏天的街灯闪了闪、亮了起来。",
+      "anchor": "He loved you because you weren’t afraid of anything",
+      "span": [
+        13895,
+        13946
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "叙述者 ↔ Mark",
+      "note": "Mark 是叙述者的挚友，称其为 my very best friend, my bashert（注定相遇、本该一起走下去）；Mark 已死数月，叙述者仍未换掉他的床单，并曾打电话给 Mark 的母亲。",
+      "anchor": "my very best friend, my bashert",
+      "span": [
+        9155,
+        9186
+      ]
+    },
+    {
+      "pair": "Patrick ↔ Mark",
+      "note": "Patrick 是 Mark 生前的恋人，自认 Mark 是他的一切：“There is no me without him. That’s why I died.”；他嫉妒叙述者与 Mark 共度的时光。",
+      "anchor": "There is no me without him. That’s why I died.",
+      "span": [
+        7924,
+        7970
+      ]
+    },
+    {
+      "pair": "叙述者 ↔ Patrick",
+      "note": "情敌兼同类：叙述者怨他“because you took him from me”，Patrick 反指她在 hoarding Mark、说 Mark 与自己在叙述者够不到的层面上相通；本章两人从互相揭短转为并肩追忆 Mark、互道抱歉（“I’m sorry for your loss, too.”）。",
+      "anchor": "because you took him from me",
+      "span": [
+        6293,
+        6321
+      ]
+    },
+    {
+      "pair": "叙述者 ↔ Mark（亲密关系性质）",
+      "note": "不是兄弟也不是丈夫：两人共享过一段生活（“we shared a life together”），也曾偶尔上床（“It was just something we did sometimes.”）；Patrick 骂她 dyke，她答“Maybe I’m a dyke of bisexual experience.”。",
+      "anchor": "we shared a life together",
+      "span": [
+        6479,
+        6504
+      ]
+    },
+    {
+      "pair": "Cynthia ↔ 叙述者",
+      "note": "Cynthia 是 Combat 楼上公寓的房主/出租方（正在出租并办 open house）；叙述者担心她卖掉店面、自己得搬家，故盼她暂不卖店。",
+      "anchor": "Maybe she wouldn’t sell the store right away",
+      "span": [
+        482,
+        526
+      ]
+    },
+    {
+      "pair": "叙述者的母亲 ↔ 叙述者",
+      "note": "叙述者的母亲已死、是她唯一的家人（“My mother is dead, and she was my only family.”）；母亲清醒时抱着她的记忆让她觉得安全，也让 Patrick 此刻的注视让她有同样的安全感。",
+      "anchor": "My mother is dead, and she was my only family",
+      "span": [
+        8176,
+        8221
+      ]
+    },
+    {
+      "pair": "Mark ↔ François",
+      "note": "François 曾因变老变丑而抱怨，Mark 在某个生日上回他：丑男人老了会更好看。",
+      "anchor": "Don’t be stupid. Ugly men get better looking when they’re older.",
+      "span": [
+        5276,
+        5340
+      ]
+    },
+    {
+      "pair": "Marcy ↔ 看房的男子",
+      "note": "来看房的一对：男子算租金、担心她独自在城里、不愿住得离父母太近；Marcy 只想住热闹的地方（“Yeah, but it’s exciting here.”）。",
+      "anchor": "Why do you wanna live so close to them, anyway?",
+      "span": [
+        966,
+        1013
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "seven hundred bucks",
+      "context": "看房男子抱怨的月租价；据此可知 Cynthia 眼下在出租该公寓",
+      "anchor": "seven hundred bucks",
+      "span": [
+        656,
+        675
+      ]
+    },
+    {
+      "value": "Sixty-seventh",
+      "context": "男子提到的另一处公寓（有全新厨房、离父母更近）",
+      "anchor": "The apartment on Sixty-seventh",
+      "span": [
+        767,
+        797
+      ]
+    },
+    {
+      "value": "three bucks",
+      "context": "叙述者给 Patrick 的 traveling change 金额",
+      "anchor": "three bucks",
+      "span": [
+        4283,
+        4294
+      ]
+    },
+    {
+      "value": "October 21",
+      "context": "Mark 的生日；他本该三十岁",
+      "anchor": "October 21",
+      "span": [
+        5126,
+        5136
+      ]
+    },
+    {
+      "value": "thirty",
+      "context": "Mark 本该活到的年龄（He should have been thirty）",
+      "anchor": "He should have been thirty",
+      "span": [
+        5138,
+        5164
+      ]
+    },
+    {
+      "value": "twenty-six",
+      "context": "Patrick 的年龄；叙述者认为这比二十九更糟",
+      "anchor": "he said, twenty-six",
+      "span": [
+        5609,
+        5628
+      ]
+    },
+    {
+      "value": "twenty-nine",
+      "context": "叙述者自己的年龄（being a twenty-nine-year-old myself）",
+      "anchor": "being a twenty-nine-year-old myself",
+      "span": [
+        5865,
+        5900
+      ]
+    },
+    {
+      "value": "May the twenty-second",
+      "context": "Patrick 的生日；先答“May”，再答“May the twenty-second”，叙述者猜 Gemini，他说 Dog",
+      "anchor": "May the twenty-second",
+      "span": [
+        5989,
+        6010
+      ]
+    },
+    {
+      "value": "a decade",
+      "context": "Patrick 反驳叙述者“本该有更多时间”时说：你已经有了十年（“You had a decade.”）",
+      "anchor": "You had a decade",
+      "span": [
+        9317,
+        9333
+      ]
+    },
+    {
+      "value": "a third of your life",
+      "context": "Patrick 说十年相当于叙述者人生的三分之一",
+      "anchor": "a third of your life",
+      "span": [
+        9367,
+        9387
+      ]
+    },
+    {
+      "value": "a handful of times",
+      "context": "Patrick 说 Mark 在向叙述者承认坠入爱河之前，已和他上过几次床",
+      "anchor": "a handful of times",
+      "span": [
+        10566,
+        10584
+      ]
+    }
+  ],
+  "turning_point": "本章转折点：马克生日（10 月 21 日）这天，已死的 Patrick 以鬼魂形态出现在叙述者门口，两人从互相指责对方夺走/hording Mark，转为并肩追忆、互相道歉，叙述者终于看清自己把“和马克一起悲伤”当成了马克的需要，放手让 Patrick 离去——坏了一夏的街灯亮起。",
+  "anchors_hit": [
+    {
+      "anchor": "was already having an open house",
+      "span": [
+        323,
+        355
+      ]
+    },
+    {
+      "anchor": "seven hundred bucks is a hell of a lot for the place",
+      "span": [
+        656,
+        708
+      ]
+    },
+    {
+      "anchor": "he sank onto Mark’s bed",
+      "span": [
+        2373,
+        2396
+      ]
+    },
+    {
+      "anchor": "I was standing over myself",
+      "span": [
+        3639,
+        3665
+      ]
+    },
+    {
+      "anchor": "I coughed up three bucks",
+      "span": [
+        4270,
+        4294
+      ]
+    },
+    {
+      "anchor": "It was October 21",
+      "span": [
+        5119,
+        5136
+      ]
+    },
+    {
+      "anchor": "One summer I want to live in Santorini",
+      "span": [
+        11887,
+        11925
+      ]
+    },
+    {
+      "anchor": "He loved you because you weren’t afraid of anything",
+      "span": [
+        13895,
+        13946
+      ]
+    },
+    {
+      "anchor": "Our bodies couldn’t connect",
+      "span": [
+        1800,
+        1827
+      ]
+    },
+    {
+      "anchor": "my very best friend, my bashert",
+      "span": [
+        9155,
+        9186
+      ]
+    },
+    {
+      "anchor": "There is no me without him. That’s why I died.",
+      "span": [
+        7924,
+        7970
+      ]
+    },
+    {
+      "anchor": "because you took him from me",
+      "span": [
+        6293,
+        6321
+      ]
+    },
+    {
+      "anchor": "we shared a life together",
+      "span": [
+        6479,
+        6504
+      ]
+    },
+    {
+      "anchor": "Maybe she wouldn’t sell the store right away",
+      "span": [
+        482,
+        526
+      ]
+    },
+    {
+      "anchor": "My mother is dead, and she was my only family",
+      "span": [
+        8176,
+        8221
+      ]
+    },
+    {
+      "anchor": "Don’t be stupid. Ugly men get better looking when they’re older.",
+      "span": [
+        5276,
+        5340
+      ]
+    },
+    {
+      "anchor": "Why do you wanna live so close to them, anyway?",
+      "span": [
+        966,
+        1013
+      ]
+    },
+    {
+      "anchor": "seven hundred bucks",
+      "span": [
+        656,
+        675
+      ]
+    },
+    {
+      "anchor": "The apartment on Sixty-seventh",
+      "span": [
+        767,
+        797
+      ]
+    },
+    {
+      "anchor": "three bucks",
+      "span": [
+        4283,
+        4294
+      ]
+    },
+    {
+      "anchor": "October 21",
+      "span": [
+        5126,
+        5136
+      ]
+    },
+    {
+      "anchor": "He should have been thirty",
+      "span": [
+        5138,
+        5164
+      ]
+    },
+    {
+      "anchor": "he said, twenty-six",
+      "span": [
+        5609,
+        5628
+      ]
+    },
+    {
+      "anchor": "being a twenty-nine-year-old myself",
+      "span": [
+        5865,
+        5900
+      ]
+    },
+    {
+      "anchor": "May the twenty-second",
+      "span": [
+        5989,
+        6010
+      ]
+    },
+    {
+      "anchor": "You had a decade",
+      "span": [
+        9317,
+        9333
+      ]
+    },
+    {
+      "anchor": "a third of your life",
+      "span": [
+        9367,
+        9387
+      ]
+    },
+    {
+      "anchor": "a handful of times",
+      "span": [
+        10566,
+        10584
+      ]
+    }
+  ],
+  "verify_cmd": "python3 -I -c 'import json;d=json.load(open(\"/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch31/1-suread.json\"));t=open(d[\"text_file\"],encoding=\"utf-8\").read();items=[(i[\"anchor\"],i[\"span\"]) for k in [\"facts\",\"relations\",\"numbers\"] for i in d[k]]+[(a[\"anchor\"],a[\"span\"]) for i in d[\"facts\"] for a in i.get(\"extra_anchors\",[])];assert all(t.find(a)>=0 and t[s[0]:s[1]]==a for a,s in items),\"anchor mismatch\";print(\"anchors_hit\",len(items))'"
+}

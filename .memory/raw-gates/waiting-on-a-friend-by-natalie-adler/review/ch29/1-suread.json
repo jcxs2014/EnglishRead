@@ -1,0 +1,229 @@
+{
+  "chapter": "ch29 Survivors",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch29_survivors.txt",
+  "chars": 12088,
+  "facts": [
+    {
+      "statement": "Silverman 在店门口收拾装备（Gran Fury 双排停在店前），他刚给店面楼上的那间公寓做完清理。",
+      "anchor": "the Gran Fury was double-parked out front and Silverman was packing up his gear",
+      "span": [
+        562,
+        641
+      ]
+    },
+    {
+      "statement": "Cynthia 从楼里出来，边给 Silverman 写支票边说母亲刚死、没时间去银行；Silverman 说他们更愿意收现金。",
+      "anchor": "I didn’t have time to go to the bank, man, my mother just died.",
+      "span": [
+        2185,
+        2248
+      ]
+    },
+    {
+      "statement": "趁两人结账，叙述者溜过他们上到二楼 Cynthia 母亲住的公寓，看到屋子已被清空、墙上有挂过相框的矩形痕迹、垃圾袋里像装着木头和玻璃，整个空间空得没有一丝气息，她退了出来。",
+      "anchor": "I slipped past them, up the stairs to Cynthia’s apartment above the shop",
+      "span": [
+        2494,
+        2566
+      ]
+    },
+    {
+      "statement": "下楼时叙述者才意识到自己不知道那位老太太的名字。",
+      "anchor": "I realized I didn’t know the old woman’s name.",
+      "span": [
+        4835,
+        4881
+      ]
+    },
+    {
+      "statement": "叙述者对 Cynthia 表示哀悼，又在她耳边点破“你知道这些人干什么”，Cynthia 说受不了负能量，宣布要去上州几天清脑子，请叙述者这周看店、并说 Bianca 愿意的话可以多顶几小时。",
+      "anchor": "Can you cover the store this week?",
+      "span": [
+        5420,
+        5454
+      ]
+    },
+    {
+      "statement": "Silverman 进店质问叙述者为何吓唬那些孩子，两人就“把亡者遗留的东西锁起来”来回争辩；叙述者以“把人锁进去，没人会比进去时更好”回敬，并提到 François 出盒子那次；期间她抖出两片止痛药干吞。",
+      "anchor": "You lock someone up, no one comes out better off than when they went in.",
+      "span": [
+        9257,
+        9329
+      ]
+    },
+    {
+      "statement": "Silverman 讲出自己的家世：母亲在 Kindertransport 上，父亲年长，两人战后在海法相识，为父亲读医学院搬到纽约，他在河边大公寓长大、没有兄弟姐妹。",
+      "anchor": "They met in Haifa after the war.",
+      "span": [
+        10103,
+        10135
+      ]
+    },
+    {
+      "statement": "Silverman 说叙述者的老板（Cynthia）要卖这栋楼、且不是虚张声势，提出“你可以帮我们”，随后把盒子挂到腰带上离开；叙述者追问其父母是否在世，他只答已走多年。",
+      "anchor": "Your boss said she’s selling the building",
+      "span": [
+        11610,
+        11651
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "statement": "Cynthia 是叙述者的老板兼店主，住在店面楼上的公寓；母亲刚去世，整栋楼现在归她，她要离开去上州几天。",
+      "anchor": "I’m gonna head upstate for a few.",
+      "span": [
+        5361,
+        5394
+      ]
+    },
+    {
+      "statement": "叙述者与 Cynthia：雇员对雇主，关系随意到可以当面点破底细；叙述者点出她知道 remediators 干什么，Cynthia 以“受不了负能量”挡回，并要她看店。",
+      "anchor": "Cyn, you know what these guys do?",
+      "span": [
+        5150,
+        5183
+      ]
+    },
+    {
+      "statement": "Cynthia 的母亲：住店面上方公寓的老太太，整栋楼原主人；叙述者曾替 Cynthia 给她送茶，如今她死了，叙述者连她的名字都不知道。",
+      "anchor": "Her mother had owned the whole building",
+      "span": [
+        2568,
+        2607
+      ]
+    },
+    {
+      "statement": "Silverman：remediators 之一，戴眼镜，自称既是信鬼的人也是科学家，说他们和丧亲者做很多生意。",
+      "anchor": "I’m also a scientist.",
+      "span": [
+        7669,
+        7690
+      ]
+    },
+    {
+      "statement": "叙述者与 Silverman：为 François 那件事，是叙述者自己打电话叫他们来的；如今两人为“遗留的东西该不该清除”正面争吵，最后都承认自己失去过什么。",
+      "anchor": "I called you, didn’t I?",
+      "span": [
+        8549,
+        8572
+      ]
+    },
+    {
+      "statement": "Silverman 的家人：母亲坐 Kindertransport，父亲年长，战后在海法相识，为读医学院搬到纽约；他是独生子，父母已去世多年。",
+      "anchor": "They’ve been gone for years.",
+      "span": [
+        12058,
+        12086
+      ]
+    },
+    {
+      "statement": "François：叙述者身边被他们带走的人；叙述者说自己的公寓在那之后也变成这种“空”的感觉，因此认得那间屋子的空白。",
+      "anchor": "It’s what my apartment felt like after they took François.",
+      "span": [
+        3956,
+        4014
+      ]
+    },
+    {
+      "statement": "Bianca：叙述者看店期间可以来多值几小时的人。",
+      "anchor": "Bianca could pick up some hours if she’d like.",
+      "span": [
+        5455,
+        5501
+      ]
+    },
+    {
+      "statement": "街上的孩子们：围观 Silverman 的装备、起哄说他“merked”了老太太，还拿篮球砸店面窗户后跑掉。",
+      "anchor": "You merked that old lady?",
+      "span": [
+        6128,
+        6153
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "statement": "noon（叙述者到店时间）",
+      "anchor": "It’s noon.",
+      "span": [
+        1769,
+        1779
+      ]
+    },
+    {
+      "statement": "Last week（Cynthia 母亲去世的时间）",
+      "anchor": "Last week, yes.",
+      "span": [
+        1863,
+        1878
+      ]
+    },
+    {
+      "statement": "A few generations back（叙述者家族来纽约的时间）",
+      "anchor": "A few generations back.",
+      "span": [
+        9636,
+        9659
+      ]
+    },
+    {
+      "statement": "a hundred years ago / ten to a room（老太太像属于百年前、一家十口挤一间的年代）",
+      "anchor": "crammed in ten to a room",
+      "span": [
+        2990,
+        3014
+      ]
+    },
+    {
+      "statement": "five years, ten（Cynthia 日后会觉得母亲已死五年、十年）",
+      "anchor": "dead for five years, ten",
+      "span": [
+        5692,
+        5716
+      ]
+    },
+    {
+      "statement": "one morning（某天早上发现 Gran Fury 双排停）",
+      "anchor": "until one morning, I got to work",
+      "span": [
+        525,
+        557
+      ]
+    },
+    {
+      "statement": "two pills（叙述者抖出两片止痛药干吞）",
+      "anchor": "I shook out two pills from the bottle",
+      "span": [
+        8744,
+        8781
+      ]
+    },
+    {
+      "statement": "one short laugh（Silverman 短笑一声）",
+      "anchor": "one short laugh",
+      "span": [
+        9542,
+        9557
+      ]
+    },
+    {
+      "statement": "after the war / medical school（父母战后在海法相识，为读医学院来纽约）",
+      "anchor": "when my father got into medical school",
+      "span": [
+        10159,
+        10197
+      ]
+    }
+  ],
+  "turning_point": {
+    "statement": "转折点：Silverman 在临走前透露老板 Cynthia 要卖掉这栋楼，并对叙述者说“你可以帮我们”——冲突从“亡者残留言该不该清除”的争论，转到叙述者自身的去留与那份 ability 的选择上（她嘴硬说“不是负担”，其实是撒谎）。",
+    "anchor": "You could help us.",
+    "span": [
+      11531,
+      11549
+    ]
+  },
+  "anchors_hit": 27,
+  "verify_cmd": "python3 -I -c \"import json;d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch29/1-suread.json',encoding='utf-8'));t=open(d['text_file'],encoding='utf-8').read();its=d['facts']+d['relations']+d['numbers']+[d['turning_point']];assert all(t.find(i['anchor'])>=0 and t[i['span'][0]:i['span'][1]]==i['anchor'] for i in its);print('anchors_hit',len(its))\""
+}

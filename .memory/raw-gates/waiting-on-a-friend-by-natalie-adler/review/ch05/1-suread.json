@@ -1,0 +1,512 @@
+{
+ "chapter": "ch05",
+ "title": "Shiva",
+ "text_file": "notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch05_shiva.txt",
+ "chars": 27109,
+ "bytes": 28097,
+ "facts": [
+  {
+   "id": 1,
+   "who": "Bianca / Renata",
+   "act": "Bianca 在下葬次日自己开门进 Renata 的公寓，带一只盖着锡纸的炖菜；头上别黑蕾丝小圆片，穿朴素但低胸的黑裙；Renata 打趣她这身\"shiva chic\"。",
+   "anchor": "Bianca let herself into my apartment the day after the funeral with a casserole covered in foil",
+   "span": [
+    8,
+    103
+   ]
+  },
+  {
+   "id": 2,
+   "who": "Bianca → Renata",
+   "act": "Bianca 让 Renata 只换件干净衬衫、别动手，并指 Mark 的房间要 Renata 把镜子盖住；Renata 把 Mark 床上的床单扯下来挂到他的落地镜上（一瞬间以为镜里是 Mark 回看她）。",
+   "anchor": "yanked his sheet off the bed",
+   "span": [
+    1403,
+    1431
+   ]
+  },
+  {
+   "id": 3,
+   "who": "Bianca → Renata",
+   "act": "Bianca 说自己已叫所有人带现金来，好让 Renata 付 Mark 那一半房租；Renata 回六月房租已付、楼是稳定租金楼、还有存款，并拒绝让 Star 搬进 Mark 的空房间（\"我还需要自己的空间\"）。",
+   "anchor": "half of the rent. You thought about that?",
+   "span": [
+    3228,
+    3269
+   ]
+  },
+  {
+   "id": 4,
+   "who": "来客 / Renata",
+   "act": "来客把现金投进一只空的 Bustelo 咖啡罐，带啤酒、威士忌、Moishe's 的 challah、Veniero's 红白绳饼干盒，Tanya 带一大束紫白百合；Renata 在 Mark 的梳妆台上、电视机旁摆祭坛（Kurt 多年前给他拍的褪色宝丽来），放 Mark 最爱的唱片（先 Hunky Dory 和 Transformer），从书架抽 Hart Crane、Emily Dickinson、Rimbaud《Illuminations》随机翻开朗读；Renata 要的那首\"让姑娘当女王\"的诗，正是书脊开裂处。",
+   "anchor": "they passed around an empty Bustelo can for cash",
+   "span": [
+    5507,
+    5555
+   ]
+  },
+  {
+   "id": 5,
+   "who": "Julie（+Bianca 接话）",
+   "act": "Julie 拿起 Renata 在 Mark 医院垂危那夜读的《New York》杂志，念出下东城封面报道里买断/赶走租金管制房客的话术（先给钱再涨租），一句\"That's fucking chilling\"；Bianca 反讽\"还给他们救生衣，真慷慨\"。",
+   "anchor": "Julie picked up the New York magazine I had been reading the night Mark was dying in the hospital",
+   "span": [
+    7377,
+    7474
+   ]
+  },
+  {
+   "id": 6,
+   "who": "Star / Annie / Julie",
+   "act": "Star 讲有伙人专把\"你家公寓闹鬼\"的念头塞进人脑子再上门收费；Annie 说认识的一个女孩在室友死后门口收到过\"Manhattan Remedy\"传单；Julie 定调他们不是驱鬼而是骗子，是替房东赶人。",
+   "anchor": "convincing people their apartments are haunted",
+   "span": [
+    11949,
+    11995
+   ]
+  },
+  {
+   "id": 7,
+   "who": "Claude / Renata",
+   "act": "Claude 到场，手搭上 Renata 的肩，说节哀、问她吃没吃，要不要给她弄一盘；见 Renata 脸色不对就提议出去透气，两人离开派对，走到 First Avenue 等红绿灯。",
+   "anchor": "I knew it was Claude from her touch",
+   "span": [
+    18298,
+    18333
+   ]
+  },
+  {
+   "id": 8,
+   "who": "Claude / Renata",
+   "act": "Claude 讲她在 St. Vincent 的病人：一个同龄、失智又失明的病人反复指着角落的椅子问\"那把椅子里的女人是谁\"，并描述出此前死在那个房间的老妇人；她只让 Renata 过几天再打电话，随后用她的腰带环一把把人拉近；Renata 回家时众人已半醉。",
+   "anchor": "She pulled me close by my belt loop",
+   "span": [
+    26772,
+    26807
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "subject": "Bianca",
+   "relation": "Renata 从小一起长大的挚友（两家母亲是下东城的童年邻居；Renata 母女没住处时常住在 Lupe 家）",
+   "anchor": "Bianca and I grew up together",
+   "span": [
+    1528,
+    1557
+   ]
+  },
+  {
+   "subject": "Lupe",
+   "relation": "Bianca 的母亲；在 Renata 母亲 Ruthie 死后与 Bianca 一起帮 Renata 料理后事",
+   "anchor": "Bianca and her mother, Lupe, had helped me",
+   "span": [
+    964,
+    1006
+   ]
+  },
+  {
+   "subject": "Ruthie",
+   "relation": "Renata 的母亲，已去世（Renata 坚持体面下葬，用了松木棺材）",
+   "anchor": "after my mother, Ruthie, died",
+   "span": [
+    1027,
+    1056
+   ]
+  },
+  {
+   "subject": "Mark",
+   "relation": "Renata 的合租人兼最亲近的朋友；本章葬礼与 shiva 的对象；Renata 对外只说\"我朋友死了\"",
+   "anchor": "We lived together well, mostly because neither of us were pack rats",
+   "span": [
+    4564,
+    4631
+   ]
+  },
+  {
+   "subject": "Claude",
+   "relation": "Renata 交往几个月的情人（\"long enough for some dykes to practically get hitched\"，但两人都爱长线）",
+   "anchor": "been seeing each other a few months—long enough for some dykes to practically get hitched",
+   "span": [
+    2688,
+    2777
+   ]
+  },
+  {
+   "subject": "Claude",
+   "relation": "St. Vincent 的护士（Renata 认定护士善于看穿一个人的处境）",
+   "anchor": "Claude was a nurse at St. Vincent",
+   "span": [
+    25200,
+    25233
+   ]
+  },
+  {
+   "subject": "Claude",
+   "relation": "Renata 探病 David Green（后来去世）时第一次见到她——当时她已在 St. Vincent 当护士",
+   "anchor": "I had first met her when I was visiting David Green",
+   "span": [
+    25237,
+    25288
+   ]
+  },
+  {
+   "subject": "Bianca",
+   "relation": "名字取自第一任 Mrs. Jagger；小时候人人都说她像 Mick Jagger；Mick 娶了拉丁裔替身之后，Bianca 意识到自己能\"pass\"",
+   "anchor": "Bianca took her name from the first Mrs. Jagger",
+   "span": [
+    341,
+    388
+   ]
+  },
+  {
+   "subject": "Star",
+   "relation": "Bianca 的朋友，后来也成为 Renata 的朋友；两人是 pier kids 时期结识，Bianca 自认对她有点责任",
+   "anchor": "They met as pier kids",
+   "span": [
+    3762,
+    3783
+   ]
+  },
+  {
+   "subject": "Julie",
+   "relation": "Renata 的高中时代朋友（当年会翘课陪她混）；刚满三十岁，生日在四月",
+   "anchor": "cut class to bum around with me",
+   "span": [
+    15112,
+    15143
+   ]
+  },
+  {
+   "subject": "Julie",
+   "relation": "做公益的住房律师（本章的租金管制/收买房客知识都由她讲）",
+   "anchor": "Julie was a do-gooder housing lawyer",
+   "span": [
+    7833,
+    7869
+   ]
+  },
+  {
+   "subject": "Kurt",
+   "relation": "Mark 的前男友（Kurt 多年前给 Mark 拍的那些褪色宝丽来）；如今面临被赶走",
+   "anchor": "Kurt had taken of him years ago, when they were dating",
+   "span": [
+    5956,
+    6010
+   ]
+  },
+  {
+   "subject": "David / Darryl",
+   "relation": "两人又睡到了一起（Darryl 边说话边解开 David 衬衫的一颗扣子）",
+   "anchor": "They must be sleeping with each other again",
+   "span": [
+    11100,
+    11143
+   ]
+  },
+  {
+   "subject": "Annie",
+   "relation": "Renata 的前女友（Renata 发现她毒瘾严重后明确分手）；也是 shiva 上\"今年一整年都干净\"的那位",
+   "anchor": "I broke up with her in no uncertain terms",
+   "span": [
+    19953,
+    19994
+   ]
+  },
+  {
+   "subject": "Tanya",
+   "relation": "1979 年与 Renata 几乎夜夜同床的旧情人（元旦到劳工节），从不肯称 Renata 为女友",
+   "anchor": "we slept together pretty much every night in 1979",
+   "span": [
+    19772,
+    19821
+   ]
+  },
+  {
+   "subject": "François",
+   "relation": "已故的朋友：Renata 和 Leon 潜入他公寓取遗物；上月去世后，他的鬼魂出现在 Renata 的消防梯上",
+   "anchor": "François, who had died the month before, was on my fire escape",
+   "span": [
+    21328,
+    21390
+   ]
+  },
+  {
+   "subject": "Audrey",
+   "relation": "Tanya 的室友；以偷别人的点子做自己的作品、却照样进每个市中心群展而闻名",
+   "anchor": "Tanya lived with her because she was a cheap supply of drama and cocaine",
+   "span": [
+    8991,
+    9063
+   ]
+  },
+  {
+   "subject": "Brooke",
+   "relation": "旧相好之一，Renata 从没当真，最后回了丈夫身边",
+   "anchor": "Brooke I never took seriously",
+   "span": [
+    20124,
+    20153
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "the day after the funeral",
+   "note": "本章时间基准：Bianca 上门在 Mark 下葬次日",
+   "anchor": "the day after the funeral",
+   "span": [
+    45,
+    70
+   ]
+  },
+  {
+   "value": "three hundred dollars",
+   "note": "藏现金：挖空的《资本论》第二卷精装本里",
+   "anchor": "three hundred dollars that we kept in a hollow hardcover of the second volume of Capital",
+   "span": [
+    3403,
+    3491
+   ]
+  },
+  {
+   "value": "June",
+   "note": "June 的房租已付（\"good for June\"）",
+   "anchor": "good for June, you oughtta let Star crash",
+   "span": [
+    3564,
+    3605
+   ]
+  },
+  {
+   "value": "seven hundred a month",
+   "note": "杂志引语：翻新后月租七百",
+   "anchor": "charge seven hundred a month",
+   "span": [
+    7945,
+    7973
+   ]
+  },
+  {
+   "value": "ten thousand or so",
+   "note": "杂志引语：花约一万把人赶走再涨租",
+   "anchor": "worth paying ten thousand or so just to get them out",
+   "span": [
+    7980,
+    8032
+   ]
+  },
+  {
+   "value": "eighty-two city violations",
+   "note": "Julie 手上的 Ludlow 街案例：82 项市府违规",
+   "anchor": "eighty-two city violations",
+   "span": [
+    13653,
+    13679
+   ]
+  },
+  {
+   "value": "twenty bucks",
+   "note": "Bianca 挖苦：收二十块泼点 Florida water",
+   "anchor": "Charge twenty bucks to throw around some Florida water",
+   "span": [
+    12391,
+    12445
+   ]
+  },
+  {
+   "value": "ten-odd years",
+   "note": "Claude 的病人与母亲十多年后第一次通上话",
+   "anchor": "for the first time in ten-odd years",
+   "span": [
+    25462,
+    25497
+   ]
+  },
+  {
+   "value": "1979",
+   "note": "《Eye》五周年特刊追忆 1979 年光景",
+   "anchor": "its fifth-anniversary issue where they reminisced about how grand 1979 was",
+   "span": [
+    8501,
+    8575
+   ]
+  },
+  {
+   "value": "thirty",
+   "note": "Julie 刚满三十（\"what's thirty supposed to look like?\"）",
+   "anchor": "she had just turned thirty",
+   "span": [
+    14721,
+    14747
+   ]
+  },
+  {
+   "value": "April",
+   "note": "Julie 的生日在四月；Renata 忘了",
+   "anchor": "It was in April, who gives a shit?",
+   "span": [
+    14864,
+    14898
+   ]
+  },
+  {
+   "value": "ten years too late",
+   "note": "Kurt 晚生了十年（该有自己的深夜综艺）",
+   "anchor": "Kurt was born ten years too late",
+   "span": [
+    10524,
+    10556
+   ]
+  },
+  {
+   "value": "a dozen pillows",
+   "note": "Mark 喜欢在他那张大床摆一打枕头当沙发",
+   "anchor": "he liked to have a dozen pillows",
+   "span": [
+    4827,
+    4859
+   ]
+  },
+  {
+   "value": "seventy-five",
+   "note": "华氏 75 度起 Renata 就把靴子换成网球鞋",
+   "anchor": "when it broke seventy-five",
+   "span": [
+    21139,
+    21165
+   ]
+  },
+  {
+   "value": "the month before",
+   "note": "François 在 Claude 那夜的前一个月去世",
+   "anchor": "who had died the month before",
+   "span": [
+    21338,
+    21367
+   ]
+  },
+  {
+   "value": "a few months",
+   "note": "Renata 与 Claude 已交往几个月",
+   "anchor": "seeing each other a few months",
+   "span": [
+    2693,
+    2723
+   ]
+  },
+  {
+   "value": "1979 from the first hours of New Year",
+   "note": "Tanya 与 Renata 从元旦头几小时到劳工节几乎夜夜同床",
+   "anchor": "1979 from the first hours of New Year",
+   "span": [
+    19817,
+    19854
+   ]
+  },
+  {
+   "value": "seven hundred bucks",
+   "note": "Tanya：没人会花七百块跟老鼠共用厕所",
+   "anchor": "seven hundred bucks to share a toilet with a rat",
+   "span": [
+    8725,
+    8773
+   ]
+  },
+  {
+   "value": "seven hundred dollars",
+   "note": "Renata 推演：付七百块跟老鼠共用厕所的人会被再榨一笔",
+   "anchor": "pay seven hundred dollars to share a toilet with a rat",
+   "span": [
+    17254,
+    17308
+   ]
+  },
+  {
+   "value": "A month ago",
+   "note": "《Eye》五周年特刊是\"一个月前\"的事",
+   "anchor": "A month ago, the Eye had had",
+   "span": [
+    8472,
+    8500
+   ]
+  },
+  {
+   "value": "a few days",
+   "note": "Claude 让 Renata 过几天再打电话",
+   "anchor": "Maybe you call me in a few days",
+   "span": [
+    26598,
+    26629
+   ]
+  },
+  {
+   "value": "the day after Halloween",
+   "note": "Renata 生日在万圣节次日，母亲允许她那天不去上学",
+   "anchor": "it was the day after Halloween",
+   "span": [
+    15043,
+    15073
+   ]
+  },
+  {
+   "value": "by Thanksgiving",
+   "note": "Tanya 预言自己感恩节前会被赶走",
+   "anchor": "be on my ass by Thanksgiving",
+   "span": [
+    12672,
+    12700
+   ]
+  },
+  {
+   "value": "Last year",
+   "note": "Joe：《Eye》去年那期吓人的 AIDS 封面",
+   "anchor": "Last year, remember, they had that big scary cover story",
+   "span": [
+    9153,
+    9209
+   ]
+  },
+  {
+   "value": "in, like, a year",
+   "note": "Julie：军团病约一年就查清，艾滋病却没人管",
+   "anchor": "in, like, a year",
+   "span": [
+    10867,
+    10883
+   ]
+  },
+  {
+   "value": "a million degrees out",
+   "note": "修辞（夸张）：外面热得\"一百万度\"",
+   "anchor": "a million degrees out",
+   "span": [
+    864,
+    885
+   ]
+  },
+  {
+   "value": "I came twice.",
+   "note": "Tanya 的玩笑：跟鬼上床，来了两次",
+   "anchor": "I came twice.",
+   "span": [
+    16761,
+    16774
+   ]
+  },
+  {
+   "value": "a couple of menus",
+   "note": "Joe 的消解：她门口大概也塞了两张菜单",
+   "anchor": "a couple of menus stuck under there",
+   "span": [
+    15784,
+    15819
+   ]
+  }
+ ],
+ "turning_point": "本章转折点：Mark 的 shiva 从\"追忆他\"滑成\"各谈各的近况/谈公寓闹鬼的公司\"，Renata 只能旁观；直到 Claude 到场，用一个\"死者在椅子里\"的护士见闻回应她见鬼的经历，却不肯明说信不信、只留一句\"过几天打给我\"——Renata 的见鬼秘密与这段关系都被悬在半空，而驻足在马克的死亡与她的关系之间。",
+ "anchors_hit": true,
+ "anchors_checked": 54,
+ "anchors_failed": [],
+ "verify_cmd": "python3 -I -c \"import json;base='/Users/jcxs2014/Documents/Works/EnglishRead/';t=open(base+'notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch05_shiva.txt',encoding='utf-8').read();d=json.load(open(base+'.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch05/1-suread.json',encoding='utf-8'));items=[x for k in ('facts','relations','numbers') for x in d[k]];assert all(t.find(x['anchor'])>=0 and t[x['span'][0]:x['span'][1]]==x['anchor'] for x in items);print('anchor check OK',len(items))\""
+}

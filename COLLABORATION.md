@@ -73,6 +73,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - **状态**：commit 43 条（书目录+素读产物，含审查台账行），**未 push**（等指令）；T1 为同会话自检，T3 深审未做待用户发起。
 - **日志**：见 `.memory/daily/2026-11-02.md` 本书条目。
 
+**【审查结论 · T3 全量深审（异会话）】** waiting-on-a-friend-by-natalie-adler：36/36 章 R1→R4（四件套 144 件齐，无未审章）。
+
+- 机器层：gate.sh EXIT=0 · verbatim --full 477/477（100%）· 分片 533/533 MISS 0 · 总览 80/80 · vocab/corruption/entities 0
+- 查出：**阻断 2**（ch04 分析层英文 osculation 无据；ch05 病征清单含无据「痔疮」——均 grep 0 命中并当场整改）· 提示 26（分析层英文改写 25＋词形 1，全部逐字化）· 提示 9（块合并取舍 8/术语注解 1，判不修、依据在指令 §二）· 假红 202（探针 name-far＝代词指代）· 跳过 0
+- 修复：28 处全整改（20 章 21 个 pathspec commit），每改必跑 chapter.sh（36/36 rc=0）+ 批末 gate EXIT=0；未 push
+- 产物：`review/chNN/` 四件套 ×36 · `2026-11-02-复核与修复指令.md`（逐条改前→改后）· 台账 `深/异会话` 行
+
 ### [2026-11-02 16:30 UTC] [ZCode-Mac] → All
 
 《Unspeakable Things》(Elizabeth Hand) 完工 · unspeakable-things-by-elizabeth-hand：83 件=81 章+Epilogue+Author's Note（后记按用户"持续推进到完工"默认收录），语料 verify_corpus PASS（expect 83，epub TOC 对齐；Part1=ch01–33/Part2=34–59/Part3=60–81）。

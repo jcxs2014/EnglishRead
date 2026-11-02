@@ -1,0 +1,1131 @@
+{
+  "chapter": "ch12_i_don_t_believe_in_confession",
+  "chapter_title": "I Don’t Believe in Confession",
+  "source_txt": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch12_i_don_t_believe_in_confession.txt",
+  "source_sha256": "3527bc9fbda887cb0d59d9c21d6691d6f077bc0bf96a0a3e65065f06bc822741",
+  "chars": 13062,
+  "bytes": 13561,
+  "read_scope": "R1 素读：仅读本章 .txt 原文，未读任何 .md / scripts / docs / 同目录书稿。",
+  "actions": [
+    {
+      "id": "a1",
+      "action": "Silverman 离开后，Renata 直接躺回床上不再起身，连洗澡都不想了（Silverman 全章仅这句出现，身份未交代）。",
+      "anchors": [
+        {
+          "anchor": "After Silverman left, I got into bed and stayed there.",
+          "span": [
+            32,
+            86
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "action": "François 的男友 Leon 来电（Renata 任它进留言机），用沙哑耳语说自己过得不好，随后哭起来；Renata 本已被自己的愧疚占满，还要迎面接住他的愧疚。",
+      "anchors": [
+        {
+          "anchor": "Then he started to cry.",
+          "span": [
+            383,
+            406
+          ]
+        },
+        {
+          "anchor": "his voice was a hoarse whisper",
+          "span": [
+            316,
+            346
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "action": "Renata 去 Leon 的地下室公寓（门没锁），见他摊在没铺的床垫上，四周一圈酒杯，唱片机就在旁边。",
+      "anchors": [
+        {
+          "anchor": "I found him sprawled on his unmade floor mattress",
+          "span": [
+            1054,
+            1103
+          ]
+        },
+        {
+          "anchor": "where the door was left unlocked",
+          "span": [
+            1020,
+            1052
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "action": "Leon 讲两人如何相遇：1978 年第一次见面、他十七岁且比 François 高一英尺、Paradise Garage 刚开；四年后拿到 Friday membership 在舞池重逢，那首歌响起，他亲吻手指指向天空喊 Larry Levan。",
+      "anchors": [
+        {
+          "anchor": "The first time we met, it was 1978",
+          "span": [
+            1551,
+            1585
+          ]
+        },
+        {
+          "anchor": "The Paradise Garage had just opened.",
+          "span": [
+            1664,
+            1700
+          ]
+        },
+        {
+          "anchor": "Four years go by, and I got a Friday membership.",
+          "span": [
+            1754,
+            1802
+          ]
+        },
+        {
+          "anchor": "Larry LEVAN!",
+          "span": [
+            1862,
+            1874
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "action": "Leon 抖出 François 的婚史：不到十八岁就结了婚，为的是逃出家门。",
+      "anchors": [
+        {
+          "anchor": "Barely eighteen.",
+          "span": [
+            3141,
+            3157
+          ]
+        },
+        {
+          "anchor": "He did it to get out of the house.",
+          "span": [
+            3158,
+            3192
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6",
+      "action": "Renata 说出与 Mark 的第一次：1973 年春在墨西哥、Mark 的车后座；Mark 一见她脱衣便说要把手埋进她的阴毛，像俄国王妃用貂皮手筒暖手。",
+      "anchors": [
+        {
+          "anchor": "The first time I had sex with Mark, we were in Mexico",
+          "span": [
+            3838,
+            3891
+          ]
+        },
+        {
+          "anchor": "Spring of ’73.",
+          "span": [
+            3903,
+            3917
+          ]
+        },
+        {
+          "anchor": "In the back of Mark’s car.",
+          "span": [
+            3918,
+            3944
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7",
+      "action": "在（应为 Mark 祈祷的）场合，Renata 于 Mark 母亲背后低声咒骂：你有罪，他临终喊了你而你没来，你会后悔一辈子；Leon 闻言只说她真狠、干得好。",
+      "anchors": [
+        {
+          "anchor": "Guilty bitch, he called out for you",
+          "span": [
+            6330,
+            6365
+          ]
+        },
+        {
+          "anchor": "How ruthless. Good for you.",
+          "span": [
+            6444,
+            6471
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a8",
+      "action": "Leon 请 Renata 当他的告解神父、坦白自己「庆幸一切已经结束」；Renata 说她不信忏悔但愿意听，随后又说这告解不够劲。",
+      "anchors": [
+        {
+          "anchor": "I need to confess something",
+          "span": [
+            11626,
+            11653
+          ]
+        },
+        {
+          "anchor": "I don’t believe in confession",
+          "span": [
+            11724,
+            11753
+          ]
+        },
+        {
+          "anchor": "I said, taking his hand.",
+          "span": [
+            11756,
+            11780
+          ]
+        },
+        {
+          "anchor": "he said, muffled.",
+          "span": [
+            11949,
+            11966
+          ]
+        },
+        {
+          "anchor": "I’m glad it’s over.",
+          "span": [
+            11968,
+            11987
+          ]
+        }
+      ]
+    }
+  ],
+  "turning_point": {
+    "text": "本章转折点：Leon 把 Renata 当告解神父、坦白「I’m glad it’s over.」，而真正握着秘密的是 Renata——她能见到死去的 François、想告诉 Leon 却不敢开口；她最终意识到 François 需要倾诉的人也许不是自己。",
+    "anchors": [
+      {
+        "anchor": "Maybe it wasn’t me who François needed to talk to.",
+        "span": [
+          9536,
+          9586
+        ]
+      },
+      {
+        "anchor": "who François needed to talk to",
+        "span": [
+          9555,
+          9585
+        ]
+      },
+      {
+        "anchor": "I wished, again, that I could tell Leon about it.",
+        "span": [
+          11515,
+          11564
+        ]
+      },
+      {
+        "anchor": "Ghost François was one note.",
+        "span": [
+          11486,
+          11514
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "pair": "Renata ↔ Mark",
+      "text": "旧情人/性伴：墨西哥第一次之后还零星睡过几次（有时身边还有别人、有时因为醉了）；Mark 死后她仍在回想他的身体与他的好。",
+      "anchors": [
+        {
+          "anchor": "The first time I had sex with Mark, we were in Mexico",
+          "span": [
+            3838,
+            3891
+          ]
+        },
+        {
+          "anchor": "We slept together a handful of times after that",
+          "span": [
+            5658,
+            5705
+          ]
+        },
+        {
+          "anchor": "Mark was a beautiful lover",
+          "span": [
+            3732,
+            3758
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Leon ↔ François",
+      "text": "恋人：Leon 说那首歌是他们相爱时放的；François 病重时是 Leon 把他从医院接回家。",
+      "anchors": [
+        {
+          "anchor": "This is the song that played when we fell in love",
+          "span": [
+            1500,
+            1549
+          ]
+        },
+        {
+          "anchor": "I took him home",
+          "span": [
+            7946,
+            7961
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Renata ↔ Leon",
+      "text": "朋友与倾听者：Leon 打电话给她、叫她 dear Renata，她上门探访、收拾酒杯、答应不久再来；Leon 只对她说 I need to confess something。",
+      "anchors": [
+        {
+          "anchor": "dear Renata",
+          "span": [
+            3634,
+            3645
+          ]
+        },
+        {
+          "anchor": "I need to confess something",
+          "span": [
+            11626,
+            11653
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "François ↔ Mark",
+      "text": "朋友，死于同一种病，相隔不到一个月；François 评 Mark 自比 Tiresias 其实是错读的 Ed-eep（Oedipus）。",
+      "anchors": [
+        {
+          "anchor": "died within a month of each other",
+          "span": [
+            744,
+            777
+          ]
+        },
+        {
+          "anchor": "he fucked maman and killed papa!",
+          "span": [
+            11333,
+            11365
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Patrick ↔ Renata / Mark",
+      "text": "Patrick 不喜欢 Renata，她也怕他自认比她更懂 Mark；Leon 骂他 resentful little junkie hole、The boy is mean，并说 Patrick should have known。",
+      "anchors": [
+        {
+          "anchor": "thinking he knew Mark better than I did.",
+          "span": [
+            3543,
+            3583
+          ]
+        },
+        {
+          "anchor": "The boy is mean.",
+          "span": [
+            3476,
+            3492
+          ]
+        },
+        {
+          "anchor": "Patrick should have known.",
+          "span": [
+            3807,
+            3833
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Mark ↔ 母亲",
+      "text": "Renata 断言 Mark 临终喊过母亲而母亲没来；Leon 追问 Did he, though? Call out for her?，Renata 只能答 How would I know?",
+      "anchors": [
+        {
+          "anchor": "Did he, though? Call out for her?",
+          "span": [
+            6511,
+            6544
+          ]
+        },
+        {
+          "anchor": "How would I know?",
+          "span": [
+            6566,
+            6583
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Mark ↔ 无名男友",
+      "text": "Leon 转述该男友吹嘘 Mark「what a man he was, never touching a woman」，他和 François 听了震惊。",
+      "anchors": [
+        {
+          "anchor": "what a man he was, never touching a woman",
+          "span": [
+            2835,
+            2876
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Leon ↔ François 的母亲",
+      "text": "Leon 打了数周长途电话找她；François 住院最后一个晚上，Leon 把话筒贴到他耳边，他闭上眼；Leon 认为该有话说的是她。",
+      "anchors": [
+        {
+          "anchor": "One of his last nights in the hospital.",
+          "span": [
+            6705,
+            6744
+          ]
+        },
+        {
+          "anchor": "I put the phone up to his ear. He shut his eyes.",
+          "span": [
+            6837,
+            6885
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Kurt ↔ 房东 / Kurt ↔ Mark",
+      "text": "Kurt 是出席 memorial 的 Mark 旧情人之一（Leon 让 Renata 去看他的展）；房东数月来想驱逐他，他偏不走——整层租金约五十块，还在公寓办展，每周六办 Fire Sale。",
+      "anchors": [
+        {
+          "anchor": "had been trying to evict him for months",
+          "span": [
+            9730,
+            9769
+          ]
+        },
+        {
+          "anchor": "Every Saturday, he hosted what he called a Fire Sale",
+          "span": [
+            9939,
+            9991
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Mark 的旧情人名单 ↔ memorial",
+      "text": "出席 memorial 的 Mark 旧情人：Kurt、Joe、Greg with one g 与 Gregg with two gs（这两人在交往），以及意外出现的 Mike Martinelli。",
+      "anchors": [
+        {
+          "anchor": "Kurt, Joe, Greg with one g and Gregg with two gs",
+          "span": [
+            6121,
+            6169
+          ]
+        },
+        {
+          "anchor": "who were dating each other, and surprisingly, Mike Martinelli",
+          "span": [
+            6171,
+            6232
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "François ↔ 一位老妇人",
+      "text": "François 住院时有个老太太来看过他，她家人也抛弃了她；Leon 当时只顾谈「我们」，没细听。",
+      "anchors": [
+        {
+          "anchor": "an old woman. Her family had abandoned her, too.",
+          "span": [
+            8892,
+            8940
+          ]
+        },
+        {
+          "anchor": "I was barely listening, I only wanted to talk about us",
+          "span": [
+            9406,
+            9460
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Renata ↔ 死去的 François",
+      "text": "Renata 能看见鬼魂 François（活人能一秒把她气笑，鬼魂只剩一个调子），想告诉 Leon 却记起上次说出口的后果。",
+      "anchors": [
+        {
+          "anchor": "Ghost François was one note.",
+          "span": [
+            11486,
+            11514
+          ]
+        },
+        {
+          "anchor": "I wished, again, that I could tell Leon about it.",
+          "span": [
+            11515,
+            11564
+          ]
+        }
+      ]
+    }
+  ],
+  "numbers_dates": [
+    {
+      "verbatim": "1978",
+      "note": "两人第一次见面那年",
+      "anchors": [
+        {
+          "anchor": "The first time we met, it was 1978",
+          "span": [
+            1551,
+            1585
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "seventeen",
+      "note": "Leon 当年十七岁，比 François 高一英尺",
+      "anchors": [
+        {
+          "anchor": "I was seventeen and a foot taller than him.",
+          "span": [
+            1620,
+            1663
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "Four years",
+      "note": "1978 初见后过了四年，Leon 拿到 Friday membership 才在舞池重逢",
+      "anchors": [
+        {
+          "anchor": "Four years go by, and I got a Friday membership.",
+          "span": [
+            1754,
+            1802
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "Spring of ’73",
+      "note": "Renata 与 Mark 第一次性爱的时间：一九七三年春，墨西哥",
+      "anchors": [
+        {
+          "anchor": "Spring of ’73.",
+          "span": [
+            3903,
+            3917
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "Barely eighteen",
+      "note": "François 结婚时不到十八岁",
+      "anchors": [
+        {
+          "anchor": "Barely eighteen.",
+          "span": [
+            3141,
+            3157
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "within a month of each other",
+      "note": "Mark 与 François 去世相隔不到一个月",
+      "anchors": [
+        {
+          "anchor": "died within a month of each other",
+          "span": [
+            744,
+            777
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "fifty bucks",
+      "note": "Kurt 整层破楼月租「大约五十块」",
+      "anchors": [
+        {
+          "anchor": "his rent was something like fifty bucks for a whole dilapidated floor",
+          "span": [
+            9801,
+            9870
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "a handful of times",
+      "note": "Renata 与 Mark 之后同床的次数（模糊量）",
+      "anchors": [
+        {
+          "anchor": "We slept together a handful of times after that",
+          "span": [
+            5658,
+            5705
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "minutes three to five",
+      "note": "Renata 描述性爱最好的时刻（第三到五分钟）",
+      "anchors": [
+        {
+          "anchor": "minutes three to five",
+          "span": [
+            4312,
+            4333
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "one g / two gs",
+      "note": "一对同名旧情人：Greg 一个 g、Gregg 两个 g",
+      "anchors": [
+        {
+          "anchor": "Greg with one g and Gregg with two gs",
+          "span": [
+            6132,
+            6169
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "A century ago",
+      "note": "曼哈顿老楼采光/通风法规的年代（约一百年前）",
+      "anchors": [
+        {
+          "anchor": "A century ago, the city had the big idea to mandate air and light in tenement homes",
+          "span": [
+            7508,
+            7591
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "hours",
+      "note": "Leon 与 François 从前会聊上好几个小时",
+      "anchors": [
+        {
+          "anchor": "We used to stay up for hours talking.",
+          "span": [
+            8287,
+            8324
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "a couple of glasses",
+      "note": "Renata 收走的杯子数量（模糊量）",
+      "anchors": [
+        {
+          "anchor": "I gathered up a couple of glasses and went to the sink.",
+          "span": [
+            8202,
+            8257
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "two gay people",
+      "note": "Renata 那个问题里的数词",
+      "anchors": [
+        {
+          "anchor": "Do you think if two gay people have sex",
+          "span": [
+            5870,
+            5909
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "a few years",
+      "note": "那首歌的年龄（模糊量）",
+      "anchors": [
+        {
+          "anchor": "Even though it was a few years old",
+          "span": [
+            2191,
+            2225
+          ]
+        }
+      ]
+    }
+  ],
+  "anchors_hit": 55,
+  "anchors_total": 55,
+  "anchors_failed": [],
+  "all_anchors": [
+    {
+      "anchor": "After Silverman left, I got into bed and stayed there.",
+      "span": [
+        32,
+        86
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Then he started to cry.",
+      "span": [
+        383,
+        406
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "his voice was a hoarse whisper",
+      "span": [
+        316,
+        346
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I found him sprawled on his unmade floor mattress",
+      "span": [
+        1054,
+        1103
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "where the door was left unlocked",
+      "span": [
+        1020,
+        1052
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "The first time we met, it was 1978",
+      "span": [
+        1551,
+        1585
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "The Paradise Garage had just opened.",
+      "span": [
+        1664,
+        1700
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Four years go by, and I got a Friday membership.",
+      "span": [
+        1754,
+        1802
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Larry LEVAN!",
+      "span": [
+        1862,
+        1874
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Barely eighteen.",
+      "span": [
+        3141,
+        3157
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "He did it to get out of the house.",
+      "span": [
+        3158,
+        3192
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "The first time I had sex with Mark, we were in Mexico",
+      "span": [
+        3838,
+        3891
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Spring of ’73.",
+      "span": [
+        3903,
+        3917
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "In the back of Mark’s car.",
+      "span": [
+        3918,
+        3944
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Guilty bitch, he called out for you",
+      "span": [
+        6330,
+        6365
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "How ruthless. Good for you.",
+      "span": [
+        6444,
+        6471
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I need to confess something",
+      "span": [
+        11626,
+        11653
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I don’t believe in confession",
+      "span": [
+        11724,
+        11753
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I said, taking his hand.",
+      "span": [
+        11756,
+        11780
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "he said, muffled.",
+      "span": [
+        11949,
+        11966
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I’m glad it’s over.",
+      "span": [
+        11968,
+        11987
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Maybe it wasn’t me who François needed to talk to.",
+      "span": [
+        9536,
+        9586
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "who François needed to talk to",
+      "span": [
+        9555,
+        9585
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I wished, again, that I could tell Leon about it.",
+      "span": [
+        11515,
+        11564
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Ghost François was one note.",
+      "span": [
+        11486,
+        11514
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "We slept together a handful of times after that",
+      "span": [
+        5658,
+        5705
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Mark was a beautiful lover",
+      "span": [
+        3732,
+        3758
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "This is the song that played when we fell in love",
+      "span": [
+        1500,
+        1549
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I took him home",
+      "span": [
+        7946,
+        7961
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "dear Renata",
+      "span": [
+        3634,
+        3645
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "died within a month of each other",
+      "span": [
+        744,
+        777
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "he fucked maman and killed papa!",
+      "span": [
+        11333,
+        11365
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "thinking he knew Mark better than I did.",
+      "span": [
+        3543,
+        3583
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "The boy is mean.",
+      "span": [
+        3476,
+        3492
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Patrick should have known.",
+      "span": [
+        3807,
+        3833
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Did he, though? Call out for her?",
+      "span": [
+        6511,
+        6544
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "How would I know?",
+      "span": [
+        6566,
+        6583
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "what a man he was, never touching a woman",
+      "span": [
+        2835,
+        2876
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "One of his last nights in the hospital.",
+      "span": [
+        6705,
+        6744
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I put the phone up to his ear. He shut his eyes.",
+      "span": [
+        6837,
+        6885
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "had been trying to evict him for months",
+      "span": [
+        9730,
+        9769
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Every Saturday, he hosted what he called a Fire Sale",
+      "span": [
+        9939,
+        9991
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Kurt, Joe, Greg with one g and Gregg with two gs",
+      "span": [
+        6121,
+        6169
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "who were dating each other, and surprisingly, Mike Martinelli",
+      "span": [
+        6171,
+        6232
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "an old woman. Her family had abandoned her, too.",
+      "span": [
+        8892,
+        8940
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I was barely listening, I only wanted to talk about us",
+      "span": [
+        9406,
+        9460
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I was seventeen and a foot taller than him.",
+      "span": [
+        1620,
+        1663
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "his rent was something like fifty bucks for a whole dilapidated floor",
+      "span": [
+        9801,
+        9870
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "minutes three to five",
+      "span": [
+        4312,
+        4333
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Greg with one g and Gregg with two gs",
+      "span": [
+        6132,
+        6169
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "A century ago, the city had the big idea to mandate air and light in tenement homes",
+      "span": [
+        7508,
+        7591
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "We used to stay up for hours talking.",
+      "span": [
+        8287,
+        8324
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I gathered up a couple of glasses and went to the sink.",
+      "span": [
+        8202,
+        8257
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Do you think if two gay people have sex",
+      "span": [
+        5870,
+        5909
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Even though it was a few years old",
+      "span": [
+        2191,
+        2225
+      ],
+      "occurrences": 1
+    }
+  ],
+  "verify_cmd": "python3 -I -c \"import json;d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch12/1-suread.json',encoding='utf-8'));t=open('/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch12_i_don_t_believe_in_confession.txt',encoding='utf-8').read();bad=[a for a in d['all_anchors'] if t[a['span'][0]:a['span'][1]]!=a['anchor'] or t.find(a['anchor'])!=a['span'][0]];print('FAIL',bad) if bad else print('OK',d['anchors_hit'],'/',d['anchors_total'])\""
+}

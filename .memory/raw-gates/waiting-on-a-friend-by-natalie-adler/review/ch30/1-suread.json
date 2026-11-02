@@ -1,0 +1,505 @@
+{
+  "chapter": "ch30",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch30_ruthie_problems.txt",
+  "chars": 5261,
+  "facts": [
+    {
+      "n": 1,
+      "who": "母亲（Ruthie）／叙述者（「我」）",
+      "what": "叙述者童年时母亲曾整整一个周末不见人影；她因为会开罐头而活了下来；她说童年有些时刻她希望从没发生过（母亲叫不醒、她得敲门求助）。",
+      "anchors": [
+        {
+          "anchor": "She disappeared once for a whole weekend, but I knew how to use a can opener, so I survived.",
+          "span": [
+            616,
+            708
+          ]
+        },
+        {
+          "anchor": "times when my mother wasn’t waking up and I was scared and I had to knock on doors to get help",
+          "span": [
+            520,
+            614
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "who": "母亲（Ruthie）",
+      "what": "母亲唯一一次对叙述者失望，是因为她退学；叙述者觉得这很讽刺，因为母亲当年若愿意本可以像所有纽约的好犹太女孩一样去 City College；而且叙述者没有立刻把退学的事告诉母亲。",
+      "anchors": [
+        {
+          "anchor": "I only ever disappointed her once, as far as I know.",
+          "span": [
+            860,
+            912
+          ]
+        },
+        {
+          "anchor": "She didn’t like that I dropped out of college, which I thought was rich.",
+          "span": [
+            913,
+            985
+          ]
+        },
+        {
+          "anchor": "She could have gone to City College like all the good Jewish girls of New York if she had wanted to.",
+          "span": [
+            986,
+            1086
+          ]
+        },
+        {
+          "anchor": "I hadn’t told her right away.",
+          "span": [
+            1514,
+            1543
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "who": "母亲（Ruthie）／叙述者（「我」）",
+      "what": "母亲当面说「我以为你会跟我不同」；叙述者回「我不知道你还有标准」；叙述者说这番话令她愤怒到多年未有；母亲反驳说她从幼儿时期就自己做选择、每天早上自己穿衣服。",
+      "anchors": [
+        {
+          "anchor": "I thought you were going to be different from me",
+          "span": [
+            1090,
+            1138
+          ]
+        },
+        {
+          "anchor": "I didn’t know you had standards",
+          "span": [
+            1154,
+            1185
+          ]
+        },
+        {
+          "anchor": "It incensed me, in a way I haven’t gotten angry for years",
+          "span": [
+            1196,
+            1253
+          ]
+        },
+        {
+          "anchor": "You’ve been making your own choices since you were a toddler. You dressed yourself every morning.",
+          "span": [
+            1413,
+            1510
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "who": "母亲（Ruthie）／叙述者（「我」）",
+      "what": "母亲那年有一身她称为「ailments」的病痛；叙述者当年没有立刻意识到她病得多重，日后希望自己当时看出来并帮上忙；她把母亲身上发生的事登记为「Ruthie Problems」，从小就学会在情感上尽量与自己的事分开。",
+      "anchors": [
+        {
+          "anchor": "that’s what she called them, her ailments",
+          "span": [
+            1579,
+            1620
+          ]
+        },
+        {
+          "anchor": "I think I registered whatever was going on as Ruthie Problems, which I had learned from a young age to keep separate from my own",
+          "span": [
+            1795,
+            1923
+          ]
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "who": "母亲（Ruthie）／叙述者（「我」）",
+      "what": "母亲最后一套公寓在 Twelfth 街，介于第三与第二大道之间；那栋楼建在马路对面 St. Mark's 的墓地上（她后来才知道）；叙述者至今避开走那条街，说那里像被某种古老、不认可、不轻易宽恕的东西盯着。",
+      "anchors": [
+        {
+          "anchor": "My mother’s last apartment was on Twelfth between Third and Second.",
+          "span": [
+            2397,
+            2464
+          ]
+        },
+        {
+          "anchor": "The building was built over burial grounds for St. Mark’s across the avenue.",
+          "span": [
+            2533,
+            2609
+          ]
+        },
+        {
+          "anchor": "I still avoid walking down that block, but not just because of her.",
+          "span": [
+            2465,
+            2532
+          ]
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Franny／母亲（Ruthie）",
+      "what": "母亲在街上遇到 Franny 时正在走她所谓的「river to rivers」（从东走到西再走回来，是她需要清醒时做的）；Franny 请母亲住进自己的公寓、帮她照看植物；母亲大约一周后就与整栋楼成了好朋友；叙述者推断 Franny 当时心想「这个女人不好」，并说 Franny 在母亲生命的最后一年为她做的比自己多。",
+      "anchors": [
+        {
+          "anchor": "My mother ran into Franny on the street when she was taking one of her",
+          "span": [
+            3319,
+            3389
+          ]
+        },
+        {
+          "anchor": "she asked my mother to stay in her place and take care of her plants",
+          "span": [
+            3247,
+            3315
+          ]
+        },
+        {
+          "anchor": "Franny did more for my mother in the last year of her life than I did.",
+          "span": [
+            3739,
+            3809
+          ]
+        },
+        {
+          "anchor": "was best friends with the whole building after about a week",
+          "span": [
+            3830,
+            3889
+          ]
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Mark／Bianca／叙述者（「我」）／Franny",
+      "what": "Ruthie 死后，Mark 和 Bianca 帮叙述者打扫公寓（实情是他们在打扫，叙述者坐在沙发上喝酒、哭、吐在皮沙发上）；她给 Franny 留了一张告知母亲死讯的便条；几个月后 Mark 告诉她留言机上有 Franny 的留言，她把留言删了。",
+      "anchors": [
+        {
+          "anchor": "they cleaned the apartment while I sat and drank and wept and puked on her couch",
+          "span": [
+            4219,
+            4299
+          ]
+        },
+        {
+          "anchor": "I left Franny a note that my mother had died.",
+          "span": [
+            4705,
+            4750
+          ]
+        },
+        {
+          "anchor": "there was a message on the machine from her, but I erased it",
+          "span": [
+            4806,
+            4866
+          ]
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "who": "叙述者（「我」）",
+      "what": "叙述者原以为母亲从不出现在她面前做鬼魂，是因母亲不想添麻烦、像在帮她一个忙；但既然 Mark 也没为她出现，她不得不认定这里有个共同分母，那就是她自己——在他们最难的日子里她都没到场，所以他们凭什么为她出现。",
+      "anchors": [
+        {
+          "anchor": "I never saw my mother as a ghost because she didn’t want to be a bother",
+          "span": [
+            4886,
+            4957
+          ]
+        },
+        {
+          "anchor": "I had to think there was a common denominator here, and it was me",
+          "span": [
+            5035,
+            5100
+          ]
+        },
+        {
+          "anchor": "I hadn’t shown up for them, so why would they show up for me?",
+          "span": [
+            5199,
+            5260
+          ]
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "叙述者（「我」）——母亲 Ruthie",
+      "note": "叙述者羡慕所有母亲还在且没有把她逐出家门的人；母亲从不出现在她面前做鬼魂，她先是解释为母亲不想添麻烦。",
+      "anchors": [
+        {
+          "anchor": "I was envious of everyone whose mother was around and didn’t actively disown them.",
+          "span": [
+            147,
+            229
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "叙述者——Cynthia",
+      "note": "叙述者说她对 Cynthia 与她母亲的关系了解不多，所以知道自己不该苛评，但她是羡慕的。",
+      "anchors": [
+        {
+          "anchor": "I didn’t know a lot about Cynthia’s relationship with her mother, so I knew I shouldn’t judge it too harshly, but I was envious.",
+          "span": [
+            18,
+            146
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Lupe——女儿",
+      "note": "Lupe 认识她女儿、爱她，并且让她过自己的生活（叙述者羡慕的对象之一）。",
+      "anchors": [
+        {
+          "anchor": "Lupe knew her daughter and loved her and let her live her life.",
+          "span": [
+            257,
+            320
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Julie——母亲",
+      "note": "Julie 的母亲完全不知道她的事，但为那些她能理解的部分感到骄傲。",
+      "anchors": [
+        {
+          "anchor": "Julie’s mother didn’t know about her at all but she was proud of the things she could understand.",
+          "span": [
+            321,
+            418
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Bianca、Julie——叙述者",
+      "note": "叙述者明确说自己 envy 了 Bianca 和 Julie。",
+      "anchors": [
+        {
+          "anchor": "I envied Bianca and Julie.",
+          "span": [
+            230,
+            256
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Tanya——她母亲",
+      "note": "对照组：Tanya 的妈总让她去店里买一瓶红酒当午餐；而叙述者的母亲从没那样使唤她，多半只是让她自己照顾自己。",
+      "anchors": [
+        {
+          "anchor": "Tanya’s mom, who always had her going to the store to get a bottle of red wine for lunch",
+          "span": [
+            2010,
+            2098
+          ]
+        },
+        {
+          "anchor": "She mostly just left me to take care of myself.",
+          "span": [
+            2100,
+            2147
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "母亲 Ruthie——Franny",
+      "note": "Franny 是母亲的老朋友，另一个从 Bronx 搬到 Village 的「Party daughter」，只是 Franny 混出了头：学艺术史、去巴黎、回来成了很时髦的女同性恋，并拿到去罗马写作的 fellowship，因此请母亲住进她的公寓照看植物。",
+      "anchors": [
+        {
+          "anchor": "her old friend Franny, another Party daughter who decamped from the Bronx to the Village",
+          "span": [
+            2841,
+            2929
+          ]
+        },
+        {
+          "anchor": "studied art history, went to Paris, came back a very chic lesbian",
+          "span": [
+            2970,
+            3035
+          ]
+        },
+        {
+          "anchor": "Franny had a fellowship to go write in Rome or something",
+          "span": [
+            3183,
+            3239
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "叙述者——Franny（愿望层面）",
+      "note": "她躺在 Franny 的床上，哭湿 Franny 的丝绸枕套，希望 Franny 是她母亲，或者她就是 Franny，或者 Franny 和她母亲彼此相爱过，好让母亲人生里有一件事转向。",
+      "anchors": [
+        {
+          "anchor": "wished Franny was my mother, or that I was Franny, or that Franny and my mother had loved each other",
+          "span": [
+            4477,
+            4577
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "叙述者——Mark（及 Ruthie）",
+      "note": "Mark 也曾缺席：叙述者把母亲与 Mark 都「没为她出现」并列，作为共同分母是自己的依据。",
+      "anchors": [
+        {
+          "anchor": "But since Mark, too, hadn’t shown up for me",
+          "span": [
+            4990,
+            5033
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "母亲 Ruthie——母亲的公寓／St. Mark's 墓地",
+      "note": "母亲最后的公寓在 Twelfth 街，楼建在 St. Mark's 的墓地之上；叙述者说那里没有鬼（至少她没看到），但有种被盯着的不适感。",
+      "anchors": [
+        {
+          "anchor": "There weren’t ghosts around—that I saw, anyway",
+          "span": [
+            2634,
+            2680
+          ]
+        }
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "fifty",
+      "as_written": "My mother would have been fifty this year.",
+      "anchors": [
+        {
+          "anchor": "My mother would have been fifty this year.",
+          "span": [
+            419,
+            461
+          ]
+        }
+      ]
+    },
+    {
+      "value": "Twelfth between Third and Second",
+      "as_written": "My mother’s last apartment was on Twelfth between Third and Second.",
+      "anchors": [
+        {
+          "anchor": "on Twelfth between Third and Second",
+          "span": [
+            2428,
+            2463
+          ]
+        }
+      ]
+    },
+    {
+      "value": "a whole weekend",
+      "as_written": "She disappeared once for a whole weekend, but I knew how to use a can opener, so I survived.",
+      "anchors": [
+        {
+          "anchor": "a whole weekend",
+          "span": [
+            641,
+            656
+          ]
+        }
+      ]
+    },
+    {
+      "value": "once",
+      "as_written": "I only ever disappointed her once, as far as I know.",
+      "anchors": [
+        {
+          "anchor": "I only ever disappointed her once, as far as I know.",
+          "span": [
+            860,
+            912
+          ]
+        }
+      ]
+    },
+    {
+      "value": "about a week",
+      "as_written": "My mom moved in and was best friends with the whole building after about a week.",
+      "anchors": [
+        {
+          "anchor": "after about a week",
+          "span": [
+            3871,
+            3889
+          ]
+        }
+      ]
+    },
+    {
+      "value": "Months later",
+      "as_written": "Months later, Mark told me there was a message on the machine from her, but I erased it.",
+      "anchors": [
+        {
+          "anchor": "Months later",
+          "span": [
+            4779,
+            4791
+          ]
+        }
+      ]
+    },
+    {
+      "value": "river to rivers",
+      "as_written": "“river to rivers.” (原文带弯引号；锚点只取裸短语)",
+      "anchors": [
+        {
+          "anchor": "river to rivers",
+          "span": [
+            3391,
+            3406
+          ]
+        }
+      ]
+    },
+    {
+      "value": "a bottle of red wine for lunch",
+      "as_written": "who always had her going to the store to get a bottle of red wine for lunch",
+      "anchors": [
+        {
+          "anchor": "a bottle of red wine for lunch",
+          "span": [
+            2068,
+            2098
+          ]
+        }
+      ]
+    }
+  ],
+  "turning_point": "转折点：叙述者把「母亲和 Mark 都不来见我」的含义从「他们不想打搅我」改读为「共同的分母是我」——她承认在他们最难的日子里她都没有到场，因而无从抱怨他们不为她出现。 | anchor=I had to think there was a common denominator here, and it was me",
+  "anchors_hit": {
+    "hit": 46,
+    "total": 46,
+    "all_hit": true,
+    "recheck_note": "verify_cmd 重新逐条断言 t.find(anchor)>=0 且 t[start:end]==anchor"
+  },
+  "verify_cmd": "python3 -I -c 'import json;t=open('/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch30_ruthie_problems.txt',encoding=\"utf-8\").read();d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch30/1-suread.json',encoding=\"utf-8\"));it=[(a[\"anchor\"],a[\"span\"]) for k in (\"facts\",\"relations\",\"numbers\") for x in d[k] for a in x[\"anchors\"]];bad=[a for a,s in it if t.find(a)<0 or t[s[0]:s[1]]!=a];print(\"chars\",len(t),\"anchors\",len(it),\"bad\",bad);assert not bad'"
+}

@@ -1,0 +1,93 @@
+{
+  "chapter": "ch03",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch03_the_norwegian_seamen_s_church.txt",
+  "chars": 4006,
+  "facts": [
+    {
+      "fact": "叙述者在马克的葬礼上全程抽离：葬礼对她「无关紧要」（The funeral didn’t matter to me），她连这是什么教派的仪式都不知道；她成长中认识的基督徒全是天主教徒，她喜欢天主教堂那种地狱火焰（hell flame）的气味。",
+      "anchor": "The funeral didn’t matter to me. I didn’t even know what religion this was supposed to be. The Christians I knew growing up were all Catholics, and I liked the hell flame smell of their cathedrals.",
+      "span": [
+        32,
+        229
+      ]
+    },
+    {
+      "fact": "神父的悼词讲的不是马克；她心里反复追问「这是为谁办的？谁要办的？」（Who is this for? Who wanted this?）",
+      "anchor": "The priest wasn’t talking about Mark. I kept thinking, Who is this for? Who wanted this?",
+      "span": [
+        308,
+        396
+      ]
+    },
+    {
+      "fact": "叙述者盯着全程「一句话不说、一滴泪没流」的马克母亲，在心里替她排演打电话给医院的说辞：Hello, I believe you have my homosexual son’s dead body, yes I’ll hold；她知道肯收艾滋病死者的殡仪馆不多，怀疑这家趁机多收了她的钱（wondered if this place upcharged her）。",
+      "anchor": "How could it be that this woman, Mark’s mother, needed a funeral for her son when she didn’t say a word or shed a tear the whole time? Did she call the hospital and say in that tight little voice of hers, Hello, I believe you have my homosexual son’s dead body, yes I’ll hold. I knew that there weren’t a lot of funeral homes that would take someone who’d died of AIDS, and I wondered if this place upcharged her.",
+      "span": [
+        397,
+        810
+      ]
+    },
+    {
+      "fact": "她设想马克宁愿被丢给无名墓场（some potter’s field），随即意识到自己从来没问过马克本人想要什么——What a thing to not ask.",
+      "anchor": "I thought he would have preferred being left to some potter’s field, where he probably would have had more fun. But then, I realized I never asked him. What a thing to not ask.",
+      "span": [
+        811,
+        987
+      ]
+    },
+    {
+      "fact": "她坐在马克母亲身后；母亲两侧是马克的姐姐们，每人有一窝金发小孩，孩子被留在家里（怕死者传染）；姐姐们没有停止跟马克说话，但马克在她们要求他体谅母亲、对「同性恋这件事」多点同情之后，停止了跟她们说话。",
+      "anchor": "I sat behind Mark’s mother. She was flanked by his older sisters, who each had a brood of blond children who must have been left at home in case the dead man was contagious. The sisters hadn’t stopped talking to Mark, but Mark stopped talking to them when they tried to get him to understand that really, the whole gay thing was hard on their mother, and he should be a little more compassionate.",
+      "span": [
+        990,
+        1386
+      ]
+    },
+    {
+      "fact": "马克的父亲没来葬礼；叙述者只知道他二战时是商船上的炮手（merchant marine gunner），据称在地中海的救生筏上撑了四天后获救；马克转述时说，若父亲再跟他说话，他想问那四天父亲一个人在海上都想了什么。",
+      "anchor": "His father didn’t come. All I knew about the guy was that he had been a merchant marine gunner during World War II and had, allegedly, survived on a life raft for four days on the Mediterranean before being rescued. When Mark told me that anecdote, he said, “If he ever talks to me again, I want to ask him about those four days. What do you think he thought about, alone on the sea?",
+      "span": [
+        1389,
+        1772
+      ]
+    },
+    {
+      "fact": "仪式结束后马克的朋友——Darryl、David Salk、Kurt、Joe——上前来，但她已置身事外；Patrick 在教堂后部自设一条接待队列（receiving line）；她上前质问 Patrick 为什么不打电话通知她，对方答没时间；Darryl 揽住她的手臂，把她送上火车。",
+      "anchor": "Friends of Mark’s—Darryl and David Salk and Kurt and Joe—came up to me after, but I felt beyond everything and everyone. Patrick operated his own receiving line in the back of the church, like a Florida widower before a line of old ladies with a casserole and a wink. His silk shirt was unbuttoned to the last button, and even though I was pissed at him, I hoped Mark’s mother saw his bare chest and knew her son had lain his head there. I went up to him and asked why he didn’t call me. He said something about there not being time. I must have repeated the question too many times, because Darryl slipped his arm around mine and walked me to the train.",
+      "span": [
+        2799,
+        3453
+      ]
+    },
+    {
+      "fact": "回城的火车上她半期待马克出现在旁边的座位，结果邻座是一位双手紧抓提包的 nonna；到家门口时马克既不在门阶上，也不在六层楼顶的公寓等她——她有一瞬间以为在门道里看见他的轮廓，随后认出那只是「我自己的渴望」填满了空位。",
+      "anchor": "On the train back into the city, I half expected Mark to materialize on the seat next to me. Instead, I was joined by a nonna who clutched her bag with both hands. When I got to my front door, Mark wasn’t on our stoop, wasn’t waiting for me at the top of the six flights of stairs to our apartment. For a minute, I thought I saw his outline in the doorway, but then I saw what it really was: my own want, filling up the empty space.",
+      "span": [
+        3573,
+        4005
+      ]
+    }
+  ],
+  "relations": [
+    "Mark＝死者，且与叙述者同住：文末「Mark wasn’t on our stoop, wasn’t waiting for me at the top of the six flights of stairs to our apartment」——our apartment 说明两人合住一套公寓。",
+    "Mark’s mother＝逝者的母亲；叙述者坐在她身后（I sat behind Mark’s mother）。",
+    "flanked by his older sisters＝母亲两侧是马克的姐姐们；每人有一窝金发小孩（each had a brood of blond children），孩子被留在家中。",
+    "His father didn’t come＝马克父亲缺席葬礼；身份是二战商船炮手，与马克处于断联状态（If he ever talks to me again / Mark stopped talking to them）。",
+    "Friends of Mark’s—Darryl and David Salk and Kurt and Joe＝马克的朋友（4 人）；其中 Darryl 把叙述者送上火车。",
+    "Patrick＝叙述者对他生气（pissed at him）的人、在教堂后部自设接待队列者；叙述者盼马克母亲看见他敞开的衬衫并知道「her son had lain his head there」——暗示 Mark 与 Patrick 的亲密关系。",
+    "nonna＝火车上的陌生邻座（a nonna who clutched her bag with both hands），非熟人。",
+    "叙述者自陈「I never knew my father, but I figured they were all assholes」——与马克「父亲缺席但存在」形成对照。"
+  ],
+  "numbers": [
+    "World War II",
+    "four days",
+    "six flights",
+    "a minute",
+    "both hands",
+    "the last button",
+    "注：本章无日历日期/年份，唯一的年代指称是 World War II；人数以列举出现（Darryl / David Salk / Kurt / Joe 共 4 人）。"
+  ],
+  "turning_point": "本章转折点：从「葬礼与我无关」的旁观/怨气（盯着神父、缺席的父亲、不哭的母亲、多收钱的殡仪馆），转到仪式散场后她被迫回到自身——被 Darryl 送上火车、火车上期待马克出现落空、家门口把「我自己的渴望」误认成他的轮廓，承认缺位无法用愤怒填满（my own want, filling up the empty space）。",
+  "anchors_hit": "8/8",
+  "verify_cmd": "python3 -I /tmp/ch03_suread_verify.py  # 逐条 assert t.find(anchor)>=0 且 t.find(anchor)==span[0] 且 t[a:b]==anchor；输出 anchors_hit 行"
+}

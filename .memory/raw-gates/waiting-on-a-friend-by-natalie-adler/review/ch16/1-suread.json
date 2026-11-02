@@ -1,0 +1,1292 @@
+{
+  "chapter": "ch16_i_m_glad_there_is_you",
+  "chapter_title": "I’m Glad There Is You",
+  "source_txt": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch16_i_m_glad_there_is_you.txt",
+  "read_scope": "R1 素读：仅读本章 .txt 原文，未读 .md / scripts / docs。",
+  "actions": [
+    {
+      "id": 1,
+      "action": "回到叙述者的住处，Claude 跟她进房间，从口袋掏出一支大麻烟并说“可能增强你的能力”；叙述者否认（“不是那样运作的”），并为她点了一根火柴（自嘲拉不了 Bogie、她太 butch 当不了 Bacall）。",
+      "anchors": [
+        {
+          "anchor": "She pulled a joint out of her pocket.",
+          "span": [
+            91,
+            128
+          ]
+        },
+        {
+          "anchor": "Might amplify your powers.",
+          "span": [
+            130,
+            156
+          ]
+        },
+        {
+          "anchor": "Doesn’t work that way",
+          "span": [
+            161,
+            182
+          ]
+        },
+        {
+          "anchor": "I lit a match for her.",
+          "span": [
+            193,
+            215
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "action": "叙述者解释这套能力“只是睁着眼睛”：一旦知道他们在那里，就很难不看见他们；并承认从前试过教一个人——被问是不是女友，她答“不是”。",
+      "anchors": [
+        {
+          "anchor": "It’s just keeping your eyes open.",
+          "span": [
+            378,
+            411
+          ]
+        },
+        {
+          "anchor": "Once you know they’re there, it’s hard not to see ’em.",
+          "span": [
+            412,
+            466
+          ]
+        },
+        {
+          "anchor": "I tried to teach someone once.",
+          "span": [
+            521,
+            551
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "action": "两人坐在床上同一姿势；Claude 踢掉靴子后发生性关系：叙述者骑上她大腿，Claude 一边被吻一边自己弄到高潮（说“More”），叙述者随后下去操她；太快结束，Claude 想回赠而伸手进她内裤，叙述者抓住她手腕拒绝（“Uh-uh.” / “I’m good.”），Claude 侧身把屁股拱进她胯间。",
+      "anchors": [
+        {
+          "anchor": "She kicked off her boots.",
+          "span": [
+            822,
+            847
+          ]
+        },
+        {
+          "anchor": "I can top if the girl wants it",
+          "span": [
+            930,
+            960
+          ]
+        },
+        {
+          "anchor": "before I straddled her thigh.",
+          "span": [
+            1393,
+            1422
+          ]
+        },
+        {
+          "anchor": "so I ran my fingers over her lips and she took them in and sucked hard",
+          "span": [
+            2682,
+            2752
+          ]
+        },
+        {
+          "anchor": "I took her by her wrists and held her tight.",
+          "span": [
+            3179,
+            3223
+          ]
+        },
+        {
+          "anchor": "I’m good.",
+          "span": [
+            3244,
+            3253
+          ]
+        },
+        {
+          "anchor": "She rolled onto her side and nudged her ass into my crotch.",
+          "span": [
+            3336,
+            3395
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "action": "Claude 问“你用过那个浴缸吗”，提议“你放点音乐，我给你放一缸洗澡水”；叙述者反过来说：你挑音乐，我给你放水。Claude 走到 Mark 的房间（唱片机所在）挑了 Sarah Vaughan 与 Clifford Brown 的唱片，那张专辑出自叙述者出生的那一年；叙述者坐在浴缸边看水，用杯子舀凉水浇她肩。",
+      "anchors": [
+        {
+          "anchor": "You ever use that bathtub?",
+          "span": [
+            3629,
+            3655
+          ]
+        },
+        {
+          "anchor": "Why don’t you put some music on and I’ll draw us a bath.",
+          "span": [
+            3708,
+            3764
+          ]
+        },
+        {
+          "anchor": "You pick the music and I’ll draw you a bath.",
+          "span": [
+            3815,
+            3859
+          ]
+        },
+        {
+          "anchor": "She walked across the apartment to Mark’s room, where we kept the record player.",
+          "span": [
+            3923,
+            4003
+          ]
+        },
+        {
+          "anchor": "she picked out Sarah Vaughan and Clifford Brown.",
+          "span": [
+            4309,
+            4357
+          ]
+        },
+        {
+          "anchor": "The album was from the year I was born.",
+          "span": [
+            4358,
+            4397
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "action": "浴中 Claude 主动讲自己的家世：父亲在她四岁时回 Jamaica 再没回来、后来发现他在 Kingston 另有一整个家庭（她没兴趣见）；母亲一家原在 Georgia，战时她同姐姐来到 Brooklyn（有位表亲在 Navy Yard 做事）就此留下；哥哥生于 ’44，她“在路上”；她与兄弟们亲近。",
+      "anchors": [
+        {
+          "anchor": "He went back to Jamaica when I was four, never came back.",
+          "span": [
+            5543,
+            5600
+          ]
+        },
+        {
+          "anchor": "they had a cousin working at the Navy Yard",
+          "span": [
+            5695,
+            5737
+          ]
+        },
+        {
+          "anchor": "My older brother was born in ’44",
+          "span": [
+            5739,
+            5771
+          ]
+        },
+        {
+          "anchor": "my father had a whole other family in Kingston.",
+          "span": [
+            5826,
+            5873
+          ]
+        },
+        {
+          "anchor": "I’m close with my brothers, though.",
+          "span": [
+            5935,
+            5970
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "action": "叙述者讲自己母亲（Ruthie）：爱艺术，带她去 Frick 站在一对惠斯勒前看衣服里的黑，带她去 Met 看花/书/骷髅/羽毛/蜗牛/水果的画并被告知是提醒富人终有一死；母亲有一幅据说是 Helen Frankenthaler 送的小画（母亲五十年代当服务员的那家餐馆的常客），母亲说只要不把画拿去换毒品她就没事，而她确实没有；母亲吸毒，在叙述者上高中时某个冬天病倒再没好转，急诊室以“只是慢性支气管炎”把她拒之门外，晚年年年更瘦、总有新毛病。",
+      "anchors": [
+        {
+          "anchor": "She would take me to the Frick and park me in front of a pair of Whistlers",
+          "span": [
+            6875,
+            6949
+          ]
+        },
+        {
+          "anchor": "a Helen Frankenthaler, allegedly",
+          "span": [
+            7249,
+            7281
+          ]
+        },
+        {
+          "anchor": "my mom waitressed in the fifties",
+          "span": [
+            7359,
+            7391
+          ]
+        },
+        {
+          "anchor": "As long as she never hawked the painting for a fix, she was fine.",
+          "span": [
+            7577,
+            7642
+          ]
+        },
+        {
+          "anchor": "A lot of people do.",
+          "span": [
+            7893,
+            7912
+          ]
+        },
+        {
+          "anchor": "my mother got sick one winter when I was in high school and she never got better.",
+          "span": [
+            7940,
+            8021
+          ]
+        },
+        {
+          "anchor": "they said she just had chronic bronchitis",
+          "span": [
+            8117,
+            8158
+          ]
+        },
+        {
+          "anchor": "she was skinnier and had a new complaint",
+          "span": [
+            8279,
+            8319
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "action": "叙述者继续讲外祖父母：两人是共产党员，直到 ’56 得知斯大林战后所为才退党；外祖父从 Khrushchev 报告会场径直走出去跳了 IRT 自杀，外祖母搬回 Allerton Avenue 与姐姐同住、一年内倒下；当时两岁的她仍与母亲在 Mexico City（母亲那时在跟一个学生组织者和几个侨民谈情，其中一人是她父亲，母亲从不确定是谁也不在意）；母亲每年去父亲自杀的车站放玫瑰和黑麦面包，还说那是任何信仰“不朽科学”的人往生所需，也可能是地平线本身。",
+      "anchors": [
+        {
+          "anchor": "until ’56 when they found out about what Stalin got up to after the war",
+          "span": [
+            8963,
+            9034
+          ]
+        },
+        {
+          "anchor": "My grandfather walked straight out of the Khrushchev report meeting and jumped in front of the IRT.",
+          "span": [
+            9036,
+            9135
+          ]
+        },
+        {
+          "anchor": "My grandmother went back to live with her sister up on Allerton Avenue and keeled over within a year.",
+          "span": [
+            9136,
+            9237
+          ]
+        },
+        {
+          "anchor": "I was two, still in Mexico City with my mother",
+          "span": [
+            9238,
+            9284
+          ]
+        },
+        {
+          "anchor": "leave roses and rye bread",
+          "span": [
+            9593,
+            9618
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "action": "Claude 追问别人听她说鬼时怎么反应，叙述者说只对 Mark（“a decent guy”）和 Bianca 讲过，Bianca 一直莫名地知道；叙述者说随你怎么想、我高兴你在这儿，Claude 坦言“干我这行得学会敷衍人”，叙述者接“你在敷衍我”，她回自己是“见到才信”的女人；叙述者出浴、Claude 躺上床说喜欢自己的工作是最有意义的事，又问她要不要去上学（“我不是那个意思”）；叙述者答自己在母亲去世前一年就退学了、不是那个原因，并说自己的生活有意义；Claude 说自己比她大一点、猜她三十（她纠正二十九），并说“生活可以有很多章节”；本章结尾叙述者本想请她留宿，却转回酒吧里的话——自己确实愧疚，但愧疚对 François 没好处，她在想也许可以把它“纠正过来”，Claude 一边系靴带一边问“有计划吗”。",
+      "anchors": [
+        {
+          "anchor": "he was a decent guy",
+          "span": [
+            11940,
+            11959
+          ]
+        },
+        {
+          "anchor": "Bianca’s always known, somehow.",
+          "span": [
+            11973,
+            12004
+          ]
+        },
+        {
+          "anchor": "I’m just glad you’re here.",
+          "span": [
+            12097,
+            12123
+          ]
+        },
+        {
+          "anchor": "You learn to humor people in my line of work.",
+          "span": [
+            12128,
+            12173
+          ]
+        },
+        {
+          "anchor": "You’re humoring me.",
+          "span": [
+            12262,
+            12281
+          ]
+        },
+        {
+          "anchor": "I’m a believe-it-when-I-see-it kind of woman.",
+          "span": [
+            12320,
+            12365
+          ]
+        },
+        {
+          "anchor": "the most meaningful thing I could do with my life",
+          "span": [
+            12666,
+            12715
+          ]
+        },
+        {
+          "anchor": "All I’m saying is that life can have a lot of chapters.",
+          "span": [
+            13469,
+            13524
+          ]
+        },
+        {
+          "anchor": "I’ve been thinking that maybe I can make it right.",
+          "span": [
+            13923,
+            13973
+          ]
+        },
+        {
+          "anchor": "You got a plan?",
+          "span": [
+            14025,
+            14040
+          ]
+        }
+      ]
+    }
+  ],
+  "turning_point": {
+    "text": "本章转折点：浴中互换家世（Claude 的父亲在她四岁时回了 Jamaica 再没回来、叙述者的外祖父 ’56 年从 Khrushchev 报告会场出去跳 IRT 自杀）把两人从性推进到坦白；而 Claude 承认自己是在“敷衍”地听她讲鬼（“干我这行得学会敷衍人”／“我是见到才信的女人”），又把“生活可以有很多章节”递到她面前之后，叙述者把话头转回酒吧里说过的愧疚——她一直在想也许可以“make it right”——Claude 系靴带时问“有计划吗”。",
+    "anchors": [
+      {
+        "anchor": "You learn to humor people in my line of work.",
+        "span": [
+          12128,
+          12173
+        ]
+      },
+      {
+        "anchor": "I’m a believe-it-when-I-see-it kind of woman.",
+        "span": [
+          12320,
+          12365
+        ]
+      },
+      {
+        "anchor": "All I’m saying is that life can have a lot of chapters.",
+        "span": [
+          13469,
+          13524
+        ]
+      },
+      {
+        "anchor": "I’ve been thinking that maybe I can make it right.",
+        "span": [
+          13923,
+          13973
+        ]
+      },
+      {
+        "anchor": "You got a plan?",
+        "span": [
+          14025,
+          14040
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "pair": "我（叙述者）— Claude",
+      "text": "恋人／性伴：Claude 是“深到把她逼疯”的她的类型，做爱时从不说废话、靠眼神沟通；这一夜她跟她回家、亲热、共浴、交换家世，并说“我高兴你在这儿”；但她也坦言自己在敷衍地听鬼故事，属“见到才信”的人。",
+      "anchors": [
+        {
+          "anchor": "Claude was so deeply my type it drove me up the wall.",
+          "span": [
+            1425,
+            1478
+          ]
+        },
+        {
+          "anchor": "she never talked during sex",
+          "span": [
+            2097,
+            2124
+          ]
+        },
+        {
+          "anchor": "I’m just glad you’re here.",
+          "span": [
+            12097,
+            12123
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Claude — 她的父亲",
+      "text": "父亲在她四岁时回了 Jamaica 再没回来；后来发现他在 Kingston 另有一整个家庭，她没兴趣认识；母亲从没有男友，她与兄弟们亲近。",
+      "anchors": [
+        {
+          "anchor": "He went back to Jamaica when I was four, never came back.",
+          "span": [
+            5543,
+            5600
+          ]
+        },
+        {
+          "anchor": "my father had a whole other family in Kingston.",
+          "span": [
+            5826,
+            5873
+          ]
+        },
+        {
+          "anchor": "My mother never had boyfriends.",
+          "span": [
+            5426,
+            5457
+          ]
+        },
+        {
+          "anchor": "I’m close with my brothers, though.",
+          "span": [
+            5935,
+            5970
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Claude — 她的母亲与兄弟",
+      "text": "母亲一家原在 Georgia，二战期间母亲同姐姐来到 Brooklyn（有位表亲在 Navy Yard 做事）后留下；哥哥生于 ’44；她与兄弟们关系近。",
+      "anchors": [
+        {
+          "anchor": "My mother’s people were in Georgia",
+          "span": [
+            5601,
+            5635
+          ]
+        },
+        {
+          "anchor": "she and her sister came up to Brooklyn during the war",
+          "span": [
+            5641,
+            5694
+          ]
+        },
+        {
+          "anchor": "My older brother was born in ’44",
+          "span": [
+            5739,
+            5771
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "我 — 我的母亲（Ruthie）",
+      "text": "已故约八九年（她嘴上装作不确定）；爱艺术、带她看画；吸毒；一个冬天病倒再没好、被急诊室以慢性支气管炎拒收、晚年年年更瘦；曾说只要不把 Frankenthaler 那幅画换毒品她就没事。",
+      "anchors": [
+        {
+          "anchor": "I miss my mother",
+          "span": [
+            6414,
+            6430
+          ]
+        },
+        {
+          "anchor": "She’s not. Eight, eight or nine years,",
+          "span": [
+            6471,
+            6509
+          ]
+        },
+        {
+          "anchor": "Your mom used?",
+          "span": [
+            7864,
+            7878
+          ]
+        },
+        {
+          "anchor": "A lot of people do.",
+          "span": [
+            7893,
+            7912
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "我 — 外祖父 / 外祖母",
+      "text": "外祖父母是共产党员，’56 得知斯大林战后所为后脱党；外祖父从 Khrushchev 报告会场出去跳 IRT 自杀，外祖母搬去 Allerton Avenue 与姐姐同住、一年内去世；母亲每年去那个车站放玫瑰与黑麦面包。",
+      "anchors": [
+        {
+          "anchor": "My grandfather walked straight out of the Khrushchev report meeting and jumped in front of the IRT.",
+          "span": [
+            9036,
+            9135
+          ]
+        },
+        {
+          "anchor": "My grandmother went back to live with her sister up on Allerton Avenue and keeled over within a year.",
+          "span": [
+            9136,
+            9237
+          ]
+        },
+        {
+          "anchor": "leave roses and rye bread",
+          "span": [
+            9593,
+            9618
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "我 — Mark",
+      "text": "Mark 的房间放着家用唱片机（Claude 去那里挑唱片）；她说自己只真正对 Mark 和 Bianca 讲过见鬼的事——Mark 是个厚道人；Mark 已死（她的愧疚与他有关）。",
+      "anchors": [
+        {
+          "anchor": "where we kept the record player",
+          "span": [
+            3971,
+            4002
+          ]
+        },
+        {
+          "anchor": "he was a decent guy",
+          "span": [
+            11940,
+            11959
+          ]
+        },
+        {
+          "anchor": "Bianca’s always known, somehow.",
+          "span": [
+            11973,
+            12004
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "我 — François",
+      "text": "结尾她说愧疚对 François 没有任何好处，并想把事情“纠正过来”——这是酒吧话题的延续。",
+      "anchors": [
+        {
+          "anchor": "doesn’t do François any good",
+          "span": [
+            13893,
+            13921
+          ]
+        }
+      ]
+    }
+  ],
+  "numbers_dates": [
+    {
+      "verbatim": "four",
+      "context": "Claude 父亲回 Jamaica 时她的年龄（He went back to Jamaica when I was four）",
+      "anchors": [
+        {
+          "anchor": "He went back to Jamaica when I was four, never came back.",
+          "span": [
+            5543,
+            5600
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "’44",
+      "context": "Claude 哥哥的出生年（My older brother was born in ’44）",
+      "anchors": [
+        {
+          "anchor": "My older brother was born in ’44",
+          "span": [
+            5739,
+            5771
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "the fifties",
+      "context": "叙述者母亲在餐馆当服务员的年代（Helen Frankenthaler 送画说法的场景）",
+      "anchors": [
+        {
+          "anchor": "my mom waitressed in the fifties",
+          "span": [
+            7359,
+            7391
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "’56",
+      "context": "外祖父母退党之年：until ’56 when they found out about what Stalin got up to after the war",
+      "anchors": [
+        {
+          "anchor": "until ’56 when they found out about what Stalin got up to after the war",
+          "span": [
+            8963,
+            9034
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "two",
+      "context": "外祖父自杀、外祖母去世时叙述者的年龄（I was two, still in Mexico City）",
+      "anchors": [
+        {
+          "anchor": "I was two, still in Mexico City with my mother",
+          "span": [
+            9238,
+            9284
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "one winter",
+      "context": "母亲病倒的时间：in high school 的某个冬天，此后再没好",
+      "anchors": [
+        {
+          "anchor": "my mother got sick one winter when I was in high school",
+          "span": [
+            7940,
+            7995
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "Eight, eight or nine years",
+      "context": "母亲去世距今的年数（她装作不确定）",
+      "anchors": [
+        {
+          "anchor": "Eight, eight or nine years,",
+          "span": [
+            6482,
+            6509
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "About thirty. / Twenty-nine.",
+      "context": "Claude 猜她三十岁，她纠正为二十九岁",
+      "anchors": [
+        {
+          "anchor": "About thirty.",
+          "span": [
+            13434,
+            13447
+          ]
+        },
+        {
+          "anchor": "Twenty-nine.",
+          "span": [
+            13452,
+            13464
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "once a year",
+      "context": "母亲每年去父亲自杀的车站放玫瑰与黑麦面包",
+      "anchors": [
+        {
+          "anchor": "suicided once a year",
+          "span": [
+            9568,
+            9588
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "the year I was born",
+      "context": "Claude 挑的那张 Sarah Vaughan 与 Clifford Brown 专辑出自叙述者出生那年",
+      "anchors": [
+        {
+          "anchor": "The album was from the year I was born.",
+          "span": [
+            4358,
+            4397
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "the year before",
+      "context": "她在母亲去世前一年（即高中时）离开学校",
+      "anchors": [
+        {
+          "anchor": "I left school before my mom died, the year before.",
+          "span": [
+            13036,
+            13086
+          ]
+        }
+      ]
+    }
+  ],
+  "anchors_hit": 64,
+  "anchors_total": 64,
+  "all_anchors": [
+    {
+      "anchor": "She pulled a joint out of her pocket.",
+      "span": [
+        91,
+        128
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Might amplify your powers.",
+      "span": [
+        130,
+        156
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Doesn’t work that way",
+      "span": [
+        161,
+        182
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I lit a match for her.",
+      "span": [
+        193,
+        215
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "It’s just keeping your eyes open.",
+      "span": [
+        378,
+        411
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Once you know they’re there, it’s hard not to see ’em.",
+      "span": [
+        412,
+        466
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I tried to teach someone once.",
+      "span": [
+        521,
+        551
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "She kicked off her boots.",
+      "span": [
+        822,
+        847
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I can top if the girl wants it",
+      "span": [
+        930,
+        960
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "before I straddled her thigh.",
+      "span": [
+        1393,
+        1422
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "so I ran my fingers over her lips and she took them in and sucked hard",
+      "span": [
+        2682,
+        2752
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I took her by her wrists and held her tight.",
+      "span": [
+        3179,
+        3223
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I’m good.",
+      "span": [
+        3244,
+        3253
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "She rolled onto her side and nudged her ass into my crotch.",
+      "span": [
+        3336,
+        3395
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "You ever use that bathtub?",
+      "span": [
+        3629,
+        3655
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Why don’t you put some music on and I’ll draw us a bath.",
+      "span": [
+        3708,
+        3764
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "You pick the music and I’ll draw you a bath.",
+      "span": [
+        3815,
+        3859
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "She walked across the apartment to Mark’s room, where we kept the record player.",
+      "span": [
+        3923,
+        4003
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "she picked out Sarah Vaughan and Clifford Brown.",
+      "span": [
+        4309,
+        4357
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "The album was from the year I was born.",
+      "span": [
+        4358,
+        4397
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "He went back to Jamaica when I was four, never came back.",
+      "span": [
+        5543,
+        5600
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "they had a cousin working at the Navy Yard",
+      "span": [
+        5695,
+        5737
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "My older brother was born in ’44",
+      "span": [
+        5739,
+        5771
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "my father had a whole other family in Kingston.",
+      "span": [
+        5826,
+        5873
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I’m close with my brothers, though.",
+      "span": [
+        5935,
+        5970
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "She would take me to the Frick and park me in front of a pair of Whistlers",
+      "span": [
+        6875,
+        6949
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "a Helen Frankenthaler, allegedly",
+      "span": [
+        7249,
+        7281
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "my mom waitressed in the fifties",
+      "span": [
+        7359,
+        7391
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "As long as she never hawked the painting for a fix, she was fine.",
+      "span": [
+        7577,
+        7642
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "A lot of people do.",
+      "span": [
+        7893,
+        7912
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "my mother got sick one winter when I was in high school and she never got better.",
+      "span": [
+        7940,
+        8021
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "they said she just had chronic bronchitis",
+      "span": [
+        8117,
+        8158
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "she was skinnier and had a new complaint",
+      "span": [
+        8279,
+        8319
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "until ’56 when they found out about what Stalin got up to after the war",
+      "span": [
+        8963,
+        9034
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "My grandfather walked straight out of the Khrushchev report meeting and jumped in front of the IRT.",
+      "span": [
+        9036,
+        9135
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "My grandmother went back to live with her sister up on Allerton Avenue and keeled over within a year.",
+      "span": [
+        9136,
+        9237
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I was two, still in Mexico City with my mother",
+      "span": [
+        9238,
+        9284
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "leave roses and rye bread",
+      "span": [
+        9593,
+        9618
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "he was a decent guy",
+      "span": [
+        11940,
+        11959
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Bianca’s always known, somehow.",
+      "span": [
+        11973,
+        12004
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I’m just glad you’re here.",
+      "span": [
+        12097,
+        12123
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "You learn to humor people in my line of work.",
+      "span": [
+        12128,
+        12173
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "You’re humoring me.",
+      "span": [
+        12262,
+        12281
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I’m a believe-it-when-I-see-it kind of woman.",
+      "span": [
+        12320,
+        12365
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "the most meaningful thing I could do with my life",
+      "span": [
+        12666,
+        12715
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "All I’m saying is that life can have a lot of chapters.",
+      "span": [
+        13469,
+        13524
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I’ve been thinking that maybe I can make it right.",
+      "span": [
+        13923,
+        13973
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "You got a plan?",
+      "span": [
+        14025,
+        14040
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Claude was so deeply my type it drove me up the wall.",
+      "span": [
+        1425,
+        1478
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "she never talked during sex",
+      "span": [
+        2097,
+        2124
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "My mother never had boyfriends.",
+      "span": [
+        5426,
+        5457
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "My mother’s people were in Georgia",
+      "span": [
+        5601,
+        5635
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "she and her sister came up to Brooklyn during the war",
+      "span": [
+        5641,
+        5694
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I miss my mother",
+      "span": [
+        6414,
+        6430
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "She’s not. Eight, eight or nine years,",
+      "span": [
+        6471,
+        6509
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Your mom used?",
+      "span": [
+        7864,
+        7878
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "where we kept the record player",
+      "span": [
+        3971,
+        4002
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "doesn’t do François any good",
+      "span": [
+        13893,
+        13921
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "my mother got sick one winter when I was in high school",
+      "span": [
+        7940,
+        7995
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Eight, eight or nine years,",
+      "span": [
+        6482,
+        6509
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "About thirty.",
+      "span": [
+        13434,
+        13447
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Twenty-nine.",
+      "span": [
+        13452,
+        13464
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "suicided once a year",
+      "span": [
+        9568,
+        9588
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I left school before my mom died, the year before.",
+      "span": [
+        13036,
+        13086
+      ],
+      "occurrences": 1
+    }
+  ],
+  "verify_cmd": "python3 -I -c \"import json;t=open('/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch16_i_m_glad_there_is_you.txt').read();d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch16/1-suread.json'));bad=[a['anchor'] for a in d['all_anchors'] if t.find(a['anchor'])<0 or t[a['span'][0]:a['span'][1]]!=a['anchor']];print('FAIL',bad) if bad else print('OK',len(d['all_anchors']))\""
+}

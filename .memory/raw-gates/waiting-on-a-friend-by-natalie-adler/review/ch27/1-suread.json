@@ -1,0 +1,312 @@
+{
+  "chapter": "ch27",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch27_people_who_need_people.txt",
+  "chars": 7914,
+  "facts": [
+    {
+      "id": "F1",
+      "who": "Leon",
+      "text": "Leon 先于叙述者进门，并问叙述者是否还好。",
+      "span": [
+        207,
+        234
+      ],
+      "anchor": "Leon walked in ahead of me."
+    },
+    {
+      "id": "F2",
+      "who": "Bianca",
+      "text": "Bianca 已在 Star 床边：把念珠缠在 Star 手上，再把自己的手包在 Star 的手上。",
+      "span": [
+        1125,
+        1200
+      ],
+      "anchor": "She had wrapped a rosary in Star’s hand and wrapped her hand around Star’s."
+    },
+    {
+      "id": "F3",
+      "who": "Leon",
+      "text": "Leon 起身检查邻床男子的 IV，随后把他的尿盆端走倒空。",
+      "span": [
+        1743,
+        1816
+      ],
+      "anchor": "Leon got up to check the guy’s IV, then took his bedpan away to empty it."
+    },
+    {
+      "id": "F4",
+      "who": "Bianca",
+      "text": "Bianca 转告：她来时见到了 Claude，Claude 问起叙述者；还转述 Claude 想让医院警察来取她们的证词。",
+      "span": [
+        2393,
+        2479
+      ],
+      "anchor": "Claude said she was gonna try and get the hospital cops to come and get our testimony."
+    },
+    {
+      "id": "F5",
+      "who": "Renata/Bianca/Leon",
+      "text": "三人当场替 Star 筹划 bat mitzvah：地点 Pyramid Club，入场曲 Lucky Star，借 Bianca 的金线套装裙，给她做一顶王冠。",
+      "span": [
+        3767,
+        3800
+      ],
+      "anchor": "So we planned Star’s bat mitzvah."
+    },
+    {
+      "id": "F6",
+      "who": "Claude",
+      "text": "Claude 查房：先检查 IV、关掉开关让持续作响的蜂鸣器停下；随后告知 Star 自主呼吸不好，开始用 Bactrim。",
+      "span": [
+        5352,
+        5426
+      ],
+      "anchor": "She’s not breathing too well on her own, so we’re starting her on Bactrim."
+    },
+    {
+      "id": "F7",
+      "who": "Renata/Bianca/Leon",
+      "text": "三人陪 Star 到探视时间结束；因难以三人留宿过夜，Bianca 留下守夜；他们吻了她不像有淤青的额头；警察始终没有出现。",
+      "span": [
+        6716,
+        6762
+      ],
+      "anchor": "We sat with Star until visiting hours were up."
+    },
+    {
+      "id": "F8",
+      "who": "Renata",
+      "text": "叙述者回家后取出久未动用的速写本，画 Star 的 shayna punim（她愈合后可能会想成为的样子）；翌日清晨听留言，Claude 在留言里让她要有耐心。",
+      "span": [
+        7166,
+        7328
+      ],
+      "anchor": "I took out my sketchbook for the first time in a while and drew Star’s shayna punim, her beautiful face, as she might like it to look one day when she was healed."
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "a": "Bianca",
+      "b": "Star",
+      "relation": "朋友/床边守候：Bianca 把念珠缠在 Star 手上，并把自己的手包在 Star 手上。",
+      "span": [
+        1133,
+        1164
+      ],
+      "anchor": "wrapped a rosary in Star’s hand"
+    },
+    {
+      "id": "R2",
+      "a": "Renata（叙述者）",
+      "b": "Bianca",
+      "relation": "陪伴：叙述者坐到 Bianca 身边，Bianca 把另一只手放进她手里。",
+      "span": [
+        1566,
+        1597
+      ],
+      "anchor": "She put her other hand in mine."
+    },
+    {
+      "id": "R3",
+      "a": "Star",
+      "b": "男友",
+      "relation": "施害与受害：男友打了她（Leon 问是不是他干的；他见过她耳边的 KS 斑点）。",
+      "span": [
+        2106,
+        2129
+      ],
+      "anchor": "The boyfriend did this?"
+    },
+    {
+      "id": "R4",
+      "a": "Claude",
+      "b": "Star",
+      "relation": "医护/病人：Claude 处置她的 IV、说明用药与预后，并说她很强、会打好这一仗。",
+      "span": [
+        7716,
+        7761
+      ],
+      "anchor": "She seems strong, she’ll put up a good fight."
+    },
+    {
+      "id": "R5",
+      "a": "Claude",
+      "b": "Renata（叙述者）",
+      "relation": "牵挂/暧昧：Claude 留言说一直在想她，希望她照顾好自己。",
+      "span": [
+        7807,
+        7833
+      ],
+      "anchor": "I’ve been thinking of you."
+    },
+    {
+      "id": "R6",
+      "a": "Leon",
+      "b": "François",
+      "relation": "伴侣：François 神志不清时，Leon 会听他说下去，再面无表情地回一句。",
+      "span": [
+        3119,
+        3182
+      ],
+      "anchor": "in his derangement, Leon would listen to whatever he had to say"
+    },
+    {
+      "id": "R7",
+      "a": "Renata（叙述者）",
+      "b": "Mark",
+      "relation": "旧友/逝者：Mark 第一次住院时被告知是 PCP，七个月后死去。",
+      "span": [
+        5902,
+        5942
+      ],
+      "anchor": "The first time Mark went to the hospital"
+    },
+    {
+      "id": "R8",
+      "a": "Claude",
+      "b": "Renata（叙述者）",
+      "relation": "经 Bianca 转述的问候：Claude 问起叙述者。",
+      "span": [
+        1981,
+        2001
+      ],
+      "anchor": "She asked about you."
+    }
+  ],
+  "numbers": [
+    {
+      "id": "N1",
+      "who": "Star",
+      "text": "Star 身高（six-foot figure）。",
+      "span": [
+        998,
+        1013
+      ],
+      "anchor": "six-foot figure",
+      "note": "数字：six-foot"
+    },
+    {
+      "id": "N2",
+      "who": "Leon",
+      "text": "Leon 的四个哥哥（他受过他们的欺凌）。",
+      "span": [
+        2212,
+        2231
+      ],
+      "anchor": "four older brothers",
+      "note": "数字：four"
+    },
+    {
+      "id": "N3",
+      "who": "Mark",
+      "text": "Mark 第一次住院被告知 PCP 的时间：November ’83。",
+      "span": [
+        5978,
+        5990
+      ],
+      "anchor": "November ’83",
+      "note": "日期：1983 年 11 月"
+    },
+    {
+      "id": "N4",
+      "who": "Mark",
+      "text": "Mark 死去距此的时长：seven months later。",
+      "span": [
+        6000,
+        6018
+      ],
+      "anchor": "seven months later",
+      "note": "数字：七个月"
+    },
+    {
+      "id": "N5",
+      "who": "Claude",
+      "text": "电话铃响的时间：seven a.m.。",
+      "span": [
+        7395,
+        7405
+      ],
+      "anchor": "seven a.m.",
+      "note": "时间：早上七点"
+    },
+    {
+      "id": "N6",
+      "who": "Claude",
+      "text": "Claude 给出的 PCP 复发率：约一半病人一年内复发。",
+      "span": [
+        5688,
+        5742
+      ],
+      "anchor": "about half my patients have a recurrence within a year",
+      "note": "数字：about half / a year"
+    },
+    {
+      "id": "N7",
+      "who": "Star",
+      "text": "Star 家人可能离开的年份：’59。",
+      "span": [
+        4274,
+        4285
+      ],
+      "anchor": "left in ’59",
+      "note": "日期：1959"
+    },
+    {
+      "id": "N8",
+      "who": "Renata/Bianca/Leon",
+      "text": "难以三人留宿过夜的人数：three people。",
+      "span": [
+        6784,
+        6796
+      ],
+      "anchor": "three people",
+      "note": "数字：three"
+    },
+    {
+      "id": "N9",
+      "who": "Star",
+      "text": "黑眼圈占据半张脸：half her face。",
+      "span": [
+        669,
+        682
+      ],
+      "anchor": "half her face",
+      "note": "数字：half"
+    },
+    {
+      "id": "N10",
+      "who": "Star",
+      "text": "Star 耳边 KS 斑点的大小：small as a dime。",
+      "span": [
+        760,
+        775
+      ],
+      "anchor": "small as a dime",
+      "note": "比喻尺寸：一角硬币"
+    },
+    {
+      "id": "N11",
+      "who": "Renata（叙述者）",
+      "text": "梦里与 Claude 走过的街：Eleventh Street。",
+      "span": [
+        7499,
+        7514
+      ],
+      "anchor": "Eleventh Street",
+      "note": "序数街名"
+    }
+  ],
+  "turning_point": {
+    "id": "TP",
+    "who": "Claude/Mark/Star",
+    "text": "本章转折点：Claude 报出治疗与预后（开始用 Bactrim；若确诊 PCP，约一半病人一年内复发）后，叙述者由「找到她就好了」跌回 Mark 之死的旧创，甚至自问若 Star 治得好而 Mark 没有，自己会不会怨恨 Star。",
+    "span": [
+      5902,
+      6019
+    ],
+    "anchor": "The first time Mark went to the hospital, they told him it was PCP—that was November ’83. He died seven months later."
+  },
+  "anchors_hit": 28,
+  "verify_cmd": "python3 -I -c 'import io,json;t=io.open(\"/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch27_people_who_need_people.txt\",encoding=\"utf-8\",newline=\"\").read();d=json.load(io.open(\"/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch27/1-suread.json\",encoding=\"utf-8\"));items=d[\"facts\"]+d[\"relations\"]+d[\"numbers\"]+[d[\"turning_point\"]];bad=[i[\"anchor\"] for i in items if t.find(i[\"anchor\"])<0 or t[i[\"span\"][0]:i[\"span\"][1]]!=i[\"anchor\"]];assert not bad and len(items)==d[\"anchors_hit\"],bad;print(\"OK\",len(items),d[\"chars\"]==len(t))'"
+}

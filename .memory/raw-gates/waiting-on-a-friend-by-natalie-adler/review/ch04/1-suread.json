@@ -1,0 +1,211 @@
+{
+ "chapter": "ch04",
+ "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch04_everyone_was_hot_for_mark.txt",
+ "chars": 4033,
+ "facts": [
+  {
+   "fact": "Mark 自编 Norse 祖先的故事：那些人劫掠基督徒定居点，并嘲讽对方的神是会死的；他说自己的族人来自阳光更亮、更长也更可怕的地方，其实他来自 Bay Ridge。",
+   "anchor": "He liked to make up stories about his Norse ancestors who raided Christian settlements and taunted them that their god was mortal.",
+   "span": [
+    140,
+    270
+   ]
+  },
+  {
+   "fact": "Mark 靠田径奖学金上大学，在校园里穿着作者见过的最短红短裤、不穿上衣地窜；作者一见就动心（Right off the bat, I was smitten with Mark）。",
+   "anchor": "He went to college on a track scholarship, so you’d see him darting around campus in the shortest red shorts I’d ever seen, and no shirt.",
+   "span": [
+    926,
+    1063
+   ]
+  },
+  {
+   "fact": "作者七岁那年：妈妈发现她与邻家小孩 Lisa 全裸，Lisa 被作者的鞋带绑在自家暖气片上，而作者穿着 Lisa 的套头衫；妈妈只叫她解开 Lisa、好好玩。",
+   "anchor": "Once, when I was seven, my mom found me with Lisa, a neighborhood kid, fully nude and tied to our radiator pipe with my shoelaces.",
+   "span": [
+    1297,
+    1427
+   ]
+  },
+  {
+   "fact": "Mark 与作者一起离开大学：Mark 是被踢出来的（“scholarship not renewed”），作者则是自己选择离开。",
+   "anchor": "We got close because we left college together, only he got kicked out (“scholarship not renewed”) and I chose to leave.",
+   "span": [
+    2329,
+    2448
+   ]
+  },
+  {
+   "fact": "Mark 与作者一起搬回城里，各带自己的 fag / dyke 圈子，但多半跟街区怪人混；作者最后成了 Mark 朋友的朋友，因为 Mark 总邀她出去（“Come dancing with us”）。",
+   "anchor": "When Mark and I moved back to the city together, we had our respective fag and dyke groups because our friends were the people we were sleeping with, and their friends, whom they had also slept with, but mostly we spent time with the neighborhood weirdos because they liked good music and hanging out and making stuff.",
+   "span": [
+    1776,
+    2094
+   ]
+  },
+  {
+   "fact": "关于 Hank Henry 的谣言 vs 实情：谣言说 Spring Fling 后 Mark Johansen 勾搭了 Hank，Hank 只好把 “faggot” 的头骨踢碎；实情是 Mark 在给 Hank 口交，这次 Hank 醉得射不出来、决定回报一次，吞下 Mark 的精液后却起身把他打昏。",
+   "anchor": "What actually happened was, Mark was blowing Hank, as he was often kind enough to do, but this time Hank was too drunk to get off and decided to return the favor for once, and when he swallowed Mark’s load, instead of saying thank you, Hank got off his knees and coldcocked him.",
+   "span": [
+    2703,
+    2981
+   ]
+  },
+  {
+   "fact": "Mark 生病前后在 Village 被 Hank 叫住：Mark 认不出这个形容枯槁的人，知道是 Hank 后没说出积压多年的话，而是接受了道歉（“I’m sorry for what I did, but hey, I’m paying for it now”）和握手。",
+   "anchor": "Instead, he accepted Hank’s apology—“I’m sorry for what I did, but hey, I’m paying for it now”—and his bony handshake.",
+   "span": [
+    3423,
+    3541
+   ]
+  },
+  {
+   "fact": "几周后 Mark 在《Times》上看到 Hank 的讣告：一个金融从业者死于 “cancer”，遗下慈爱的双亲、姐姐、姐夫和两个侄子；Mark 只说庆幸 Hank 做了弥补。",
+   "anchor": "And wouldn’t you know it, a few weeks after that, Mark found Hank’s obituary in the Times.",
+   "span": [
+    3544,
+    3634
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "a": "Mark（Mark Johansen）",
+   "b": "作者 / 叙述者",
+   "relation": "一起离开大学又一起搬回城里的密友；作者从小对他动心，但坚称自己一直只喜欢女孩。",
+   "anchor": "We got close because we left college together",
+   "span": [
+    2329,
+    2374
+   ]
+  },
+  {
+   "a": "Hank Henry",
+   "b": "Mark",
+   "relation": "毕业舞会（Spring Fling）后那件事的施暴者：把 Mark 打昏、踢碎他头骨的传言对象；后来病弱，向 Mark 道歉。",
+   "anchor": "Mark Johansen had come on to Hank Henry after the Spring Fling",
+   "span": [
+    2482,
+    2544
+   ]
+  },
+  {
+   "a": "作者的母亲",
+   "b": "作者 / 叙述者",
+   "relation": "爱女儿、也爱海洛因的母亲；作者七岁时发现她与 Lisa 后，只叫她解开 Lisa 并好好玩。",
+   "anchor": "My mother just told me to untie Lisa and to play nice.",
+   "span": [
+    1465,
+    1519
+   ]
+  },
+  {
+   "a": "Lisa",
+   "b": "作者 / 叙述者",
+   "relation": "邻家小孩（a neighborhood kid）；七岁时与作者一起裸体，被作者的母亲撞见。",
+   "anchor": "my mom found me with Lisa, a neighborhood kid, fully nude and tied to our radiator pipe with my shoelaces",
+   "span": [
+    1321,
+    1426
+   ]
+  },
+  {
+   "a": "Mark 的父母（一个 longshoreman 和一个 homemaker）",
+   "b": "Mark",
+   "relation": "冷冰冰的父母，把 Mark 养大；与作者有母亲陪伴的童年形成对照。",
+   "anchor": "He was raised by cold parents, a longshoreman and a homemaker",
+   "span": [
+    493,
+    554
+   ]
+  },
+  {
+   "a": "Mark 的三个姐姐",
+   "b": "Mark",
+   "relation": "年年赢 Miss Norway 冠军；对照作者在华盛顿广场公园喷泉里玩水的童年。",
+   "anchor": "Mark’s three sisters were winning the Miss Norway crown year after year",
+   "span": [
+    750,
+    821
+   ]
+  },
+  {
+   "a": "Hank 的家属（loving parents 与 sister、brother-in-law、two nephews）",
+   "b": "Hank Henry",
+   "relation": "讣告中列出的遗属。",
+   "anchor": "survived by his loving parents and sister and brother-in-law and two nephews",
+   "span": [
+    3671,
+    3747
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "seven",
+   "anchor": "Once, when I was seven",
+   "span": [
+    1297,
+    1319
+   ]
+  },
+  {
+   "value": "three",
+   "anchor": "Mark’s three sisters",
+   "span": [
+    750,
+    770
+   ],
+   "note": "Mark 的三个姐姐拿 Miss Norway 冠军"
+  },
+  {
+   "value": "a couple of times",
+   "anchor": "We slept together a couple of times",
+   "span": [
+    1588,
+    1623
+   ],
+   "note": "两人年轻时睡过几次"
+  },
+  {
+   "value": "year after year",
+   "anchor": "year after year",
+   "span": [
+    806,
+    821
+   ],
+   "note": "作者童年与 Mark 姐姐们的对照"
+  },
+  {
+   "value": "One day",
+   "anchor": "One day, in the Village",
+   "span": [
+    3107,
+    3130
+   ],
+   "note": "在 Village 遇见 Hank 的那天"
+  },
+  {
+   "value": "a few weeks after that",
+   "anchor": "a few weeks after that",
+   "span": [
+    3570,
+    3592
+   ],
+   "note": "遇见 Hank 与读到讣告之间的间隔"
+  },
+  {
+   "value": "two nephews",
+   "anchor": "and two nephews",
+   "span": [
+    3732,
+    3747
+   ],
+   "note": "Hank 讣告中的遗属"
+  }
+ ],
+ "turning_point": "Mark 生病前后，当年在毕业舞会后把他打昏的 Hank 在 Village 叫住他；Mark 没有报复，接受了道歉与握手——几周后 Hank 的讣告出现在《Times》上，而 Mark 只说他庆幸 Hank 做了弥补。",
+ "numbers_note": "本章正文无阿拉伯数字（0-9 零匹配），也无 ’78 类缩写年份；所有数量/时间均为拼写形式，逐字见 numbers 各条 anchor。",
+ "anchors_hit": "22/22",
+ "verify_cmd": "python3 -I /Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch04/verify_1_suread.py /Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch04_everyone_was_hot_for_mark.txt /Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch04/1-suread.json"
+}

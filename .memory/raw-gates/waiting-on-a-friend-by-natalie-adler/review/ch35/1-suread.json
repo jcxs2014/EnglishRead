@@ -1,0 +1,230 @@
+{
+  "chapter": "ch35 Is It All Over My Face?",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch35_is_it_all_over_my_face.txt",
+  "chars": 2646,
+  "facts": [
+    {
+      "fact": "叙述者牵着 Bianca 的手，问她是否看见那些鬼魂；Bianca 仔细环视一圈后承认自己也看得见，只是方式与叙述者不同。",
+      "anchor": "Maybe not like you do. But yeah. I see them.",
+      "span": [
+        470,
+        514
+      ],
+      "occurrences": 1
+    },
+    {
+      "fact": "叙述者与 Bianca 走进 Star 的病房；房里有藏在某处的音响或唱片机正放着 Loose Joints（歌像游行：大号的 oompah、推进的贝斯线、临时加入的各种打击乐与走调合唱）。",
+      "anchor": "We went to Star’s room, where some hidden boom box or record player was playing Loose Joints.",
+      "span": [
+        518,
+        611
+      ],
+      "occurrences": 1
+    },
+    {
+      "fact": "Star 还不能多走动、也还不太说话，但好的那只眼睛睁着，看起来像在努力笑；她的病房是叙述者唯一看到的挤满美丽女子的房间——那些穿着美丽长裙的女鬼，正如 Star 梦想穿的那样。",
+      "anchor": "Star wasn’t walking or talking much yet, but her good eye was open, and it looked like she was trying to smile.",
+      "span": [
+        783,
+        894
+      ],
+      "occurrences": 1
+    },
+    {
+      "fact": "叙述者邀请 Star 出院后搬来与自己同住（坦白心里有点怕：家里再多一个病人、又要看一遍这一切发生，但这是唯一能做的事），并想到 Star 会喜欢 Mark 的某些东西；Star 闭上一只眼点头。",
+      "anchor": "I want you to move in with me, okay?",
+      "span": [
+        1165,
+        1201
+      ],
+      "occurrences": 1
+    },
+    {
+      "fact": "Bianca 提出让 Star 今年扮 Little Edie，并问她要不要一点胭脂；此前她已把从包里取出的黑丝巾围在 Star 头上，随后开始给 Star 做脸。",
+      "anchor": "You can be Little Edie this year. You want a little rouge?",
+      "span": [
+        1578,
+        1636
+      ],
+      "occurrences": 1
+    },
+    {
+      "fact": "叙述者正要转身出去找 Claude，她已站在门口说“我在这儿”；叙述者像当年在 Paradise Garage 舞池第一次钓到她那样、敞开而完整地吻她，并贴近她耳边说自己一直没法应付自己有多需要人、道歉，提出想把两人当真（I’d like to take us seriously）。",
+      "anchor": "I haven’t been able to deal with how much I need people,” I said. “I’m sorry. I’d like to take us seriously.",
+      "span": [
+        2107,
+        2215
+      ],
+      "occurrences": 1
+    },
+    {
+      "fact": "Star 床头的钟显示已过午夜，叙述者说这是自己的生日、正开始一个新的十年；Claude 问她多大，她答 Thirty（三十），Claude 笑说这很好，自己不愿再和二十几岁的人约会。",
+      "anchor": "It was after midnight—I was starting a new decade.",
+      "span": [
+        2255,
+        2305
+      ],
+      "occurrences": 1
+    },
+    {
+      "fact": "Bianca 插话提议带 Star 出去透口气；Claude 把头探出门外，对 Bev 说“I’m taking 712 out for a CAT scan”，以带 712 去做 CAT 扫描为口实把 Star 带出病房。",
+      "anchor": "Bev, I’m taking 712 out for a CAT scan.",
+      "span": [
+        2605,
+        2644
+      ],
+      "occurrences": 1
+    }
+  ],
+  "relations": [
+    {
+      "relation": "叙述者—Claude：恋人關係在病房重逢并和解；两人最初相识于 Paradise Garage 的舞池，是叙述者主动上前(“cruised her”)。",
+      "anchor": "when I cruised her on the dance floor of the Paradise Garage",
+      "span": [
+        1894,
+        1954
+      ],
+      "occurrences": 1
+    },
+    {
+      "relation": "叙述者—Bianca：朋友，一同来探视；Bianca 会插话安排行程（提议带 Star 出去透气）。",
+      "anchor": "Bianca interrupted.",
+      "span": [
+        2501,
+        2520
+      ],
+      "occurrences": 1
+    },
+    {
+      "relation": "Bianca—Star：亲近；Bianca 弯腰亲 Star 的额头，并动手为 Star 包头巾、做脸。",
+      "anchor": "Bianca bent low to give Star a kiss on her forehead.",
+      "span": [
+        1072,
+        1124
+      ],
+      "occurrences": 1
+    },
+    {
+      "relation": "叙述者—Star：朋友；叙述者邀她出院后同住，并说她会喜欢 Mark 的某些东西。",
+      "anchor": "she would appreciate some of Mark’s things",
+      "span": [
+        1365,
+        1407
+      ],
+      "occurrences": 1
+    },
+    {
+      "relation": "叙述者—Mark：Mark 的东西在叙述者手上（书、银色亮片裙），叙述者认为 Star 会喜欢他的遗物；本章未说明 Mark 现状。",
+      "anchor": "I thought of his books, his silver sequin dress.",
+      "span": [
+        1409,
+        1457
+      ],
+      "occurrences": 1
+    },
+    {
+      "relation": "Claude—Star／院方：Claude 能向院内的人报备并把 712 号床带出去做 CAT 扫描，说明她在医院有职务权限，Star 的床/房号为 712；她是把 Star 带出病房的执行者。",
+      "anchor": "Claude poked her head out the door.",
+      "span": [
+        2568,
+        2603
+      ],
+      "occurrences": 1
+    },
+    {
+      "relation": "Claude—Bev：Bev 是被 Claude 报备的对象（本章未出场，只被称呼）。",
+      "anchor": "Bev, I’m taking 712 out for a CAT scan.",
+      "span": [
+        2605,
+        2644
+      ],
+      "occurrences": 1
+    }
+  ],
+  "numbers": [
+    {
+      "number": "Spellman 7 —— 病房/病区名中的数字 7（万圣节时挤满鬼魂，像派对）。",
+      "anchor": "Spellman 7",
+      "span": [
+        76,
+        86
+      ],
+      "occurrences": 1
+    },
+    {
+      "number": "712 —— Star 的床号/房号；Claude 对外报备时说带 712 出去。",
+      "anchor": "712",
+      "span": [
+        2621,
+        2624
+      ],
+      "occurrences": 1
+    },
+    {
+      "number": "after midnight —— 本章唯一的时刻表述：Star 床头的钟显示已过午夜。",
+      "anchor": "after midnight",
+      "span": [
+        2262,
+        2276
+      ],
+      "occurrences": 1
+    },
+    {
+      "number": "a new decade —— 叙述者自述“正开始一个新的十年”。",
+      "anchor": "a new decade",
+      "span": [
+        2292,
+        2304
+      ],
+      "occurrences": 1
+    },
+    {
+      "number": "It’s my birthday. —— 叙述者说这是自己的生日（即本章发生在其生日当夜）。",
+      "anchor": "It’s my birthday.",
+      "span": [
+        2358,
+        2375
+      ],
+      "occurrences": 1
+    },
+    {
+      "number": "Thirty —— Claude 问年龄，叙述者答 30（原文用 spelled-out “Thirty”）。",
+      "anchor": "Thirty",
+      "span": [
+        2401,
+        2407
+      ],
+      "occurrences": 1
+    },
+    {
+      "number": "twenties —— Claude 说自己不愿再和二十几岁的人约会（原文 'in her twenties'）。",
+      "anchor": "I’m over dating someone in her twenties.",
+      "span": [
+        2447,
+        2487
+      ],
+      "occurrences": 1
+    },
+    {
+      "number": "Halloween —— 医院没有为万圣节装饰（唯一节日性日期线索，无年月日/年份）。",
+      "anchor": "decorated for Halloween",
+      "span": [
+        47,
+        70
+      ],
+      "occurrences": 1
+    },
+    {
+      "number": "本章未出现任何具体年月日或年份；日期线索仅 Halloween、after midnight、Thirty（年龄）。",
+      "anchor": "I’m over dating someone in her twenties.",
+      "span": [
+        2447,
+        2487
+      ],
+      "occurrences": 1
+    }
+  ],
+  "turning_point": "本章转折点：在 Star 的病房里，叙述者与 Claude 以“想把关系当真”和解、并在过了午夜的三十岁生日时宣告自己开始新十年；随后 Claude 顺着 Bianca 带 Star 出去透气的提议，以“带 712 去做 CAT scan”为口实把 Star 带出病房。",
+  "anchors_hit": "24/24",
+  "verify_cmd": "python3 -I -c \"import json;t=open('/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch35_is_it_all_over_my_face.txt',encoding='utf-8').read();d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch35/1-suread.json',encoding='utf-8'));need=d['facts']+d['relations']+d['numbers'];bad=[x['anchor'] for x in need if t.find(x['anchor'])<0 or t[x['span'][0]:x['span'][1]]!=x['anchor']];print('anchors_hit',len(need)-len(bad),'/',len(need),bad if bad else 'OK')\""
+}

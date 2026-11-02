@@ -1,0 +1,773 @@
+{
+  "schema": "suread/v1",
+  "pass": "R1-suread",
+  "book": "waiting-on-a-friend-by-natalie-adler",
+  "chapter": "ch11",
+  "title": "Residue",
+  "source": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch11_residue.txt",
+  "source_chars": 16748,
+  "actions": [
+    {
+      "id": 1,
+      "who": "Silverman（技术员）/叙述者",
+      "what": "技术员敲门问能否进来，叙述者侧身让他进门；此时 François 已经不在了（消失）",
+      "evidence": [
+        {
+          "anchor": "The technician asked if he could come in, and I stepped aside for him.",
+          "span": [
+            10,
+            80
+          ]
+        },
+        {
+          "anchor": "François was gone.",
+          "span": [
+            81,
+            99
+          ]
+        },
+        {
+          "anchor": "maybe the guy really could get François to leave.",
+          "span": [
+            228,
+            277
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "who": "Silverman",
+      "what": "自报姓名与头衔「Julian Silverman 博士，Manhattan Remediation 高级技术员」；腰带上挂三件装备（内有霓虹绿圆片的厚玻璃管、砖块大小的金属网盒、短金属棍），肩挎棕色皮包；掏出笔记本记录「男性、新近去世、约三十五岁」",
+      "evidence": [
+        {
+          "anchor": "Dr. Julian Silverman, senior technician with Manhattan Remediation.",
+          "span": [
+            405,
+            472
+          ]
+        },
+        {
+          "anchor": "He wore a belt with three attachments",
+          "span": [
+            474,
+            511
+          ]
+        },
+        {
+          "anchor": "a thick glass tube with a neon-green disc inside",
+          "span": [
+            513,
+            561
+          ]
+        },
+        {
+          "anchor": "a wire mesh box the dimensions of a brick",
+          "span": [
+            604,
+            645
+          ]
+        },
+        {
+          "anchor": "a brown leather bag slung over his shoulder",
+          "span": [
+            707,
+            750
+          ]
+        },
+        {
+          "anchor": "He took out a notebook from his bag.",
+          "span": [
+            821,
+            857
+          ]
+        },
+        {
+          "anchor": "approximate age thirty-five",
+          "span": [
+            884,
+            911
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "who": "Silverman /叙述者",
+      "what": "说明「凡我们所做皆为循证」，拿出像遥控器的 EMF 探测器，贴着还在浴缸边晾着的神像上下扫；红灯闪；他把叙述者经历的称为「生存」（survival，意识在肉体消亡后仍被活人感知）",
+      "evidence": [
+        {
+          "anchor": "This is an EMF detector",
+          "span": [
+            1773,
+            1796
+          ]
+        },
+        {
+          "anchor": "which measures electromagnetic fields. EMF fluctuations indicate paranormal activity.",
+          "span": [
+            1840,
+            1925
+          ]
+        },
+        {
+          "anchor": "He ran the remote up and down the deity, which was still drying on the side of the tub.",
+          "span": [
+            1976,
+            2063
+          ]
+        },
+        {
+          "anchor": "running the remote control over every object in the kitchen",
+          "span": [
+            2836,
+            2895
+          ]
+        },
+        {
+          "anchor": "a consciousness that survives the physical form, as perceived by the living",
+          "span": [
+            3225,
+            3300
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "who": "Silverman",
+      "what": "折回 Mark 的房间，沿墙走一圈、把仪器在 Mark 的家具与床周围悬移，仪器全程暗而静；他注意到 Mark 的宝丽来照片和 Tanya 的百合（已枯干），欲言又止；回厨房再测神像时灯亮",
+      "evidence": [
+        {
+          "anchor": "He walked the perimeter",
+          "span": [
+            3908,
+            3931
+          ]
+        },
+        {
+          "anchor": "hovering the device around Mark",
+          "span": [
+            3933,
+            3964
+          ]
+        },
+        {
+          "anchor": "the Polaroids of Mark and the vase of Tanya",
+          "span": [
+            4037,
+            4080
+          ]
+        },
+        {
+          "anchor": "which had died and dried out",
+          "span": [
+            4091,
+            4119
+          ]
+        },
+        {
+          "anchor": "He came back into the kitchen and tested the deity again, and it lit up.",
+          "span": [
+            4209,
+            4281
+          ]
+        },
+        {
+          "anchor": "I get such a kick out of the bathtub in the kitchen.",
+          "span": [
+            4333,
+            4385
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "who": "Silverman",
+      "what": "自称「我是科学家，超心理学是我的研究领域」（心灵感应、念力等无法即刻解释的心灵经验）；Duke 曾有项目、他在那里做博士后，但博士学位是物理；礼貌地请叙述者陪他去卧室",
+      "evidence": [
+        {
+          "anchor": "Parapsychology is my field of research.",
+          "span": [
+            4543,
+            4582
+          ]
+        },
+        {
+          "anchor": "telepathy, psychokinesis, phenomena of that ilk",
+          "span": [
+            4648,
+            4695
+          ]
+        },
+        {
+          "anchor": "There was a program at Duke, yes.",
+          "span": [
+            4871,
+            4904
+          ]
+        },
+        {
+          "anchor": "I did my postdoctoral work",
+          "span": [
+            4918,
+            4944
+          ]
+        },
+        {
+          "anchor": "But my PhD is in physics.",
+          "span": [
+            4946,
+            4971
+          ]
+        },
+        {
+          "anchor": "He gestured politely to my bedroom.",
+          "span": [
+            4997,
+            5032
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "who": "Silverman",
+      "what": "在卧室用便携红外温度计（像短枪）朝窗边测温度；讲解「整治」流程（先调查→围住 psychical material→移出场域）；解下网盒（一侧有金属板）板面朝下放在两人之间的地板上，用法拉第笼原理说明屏蔽、中和；否认「笼＝监狱」，称「更戏剧化」且「我们还没有毁灭物质的技术」",
+      "evidence": [
+        {
+          "anchor": "portable electronic thermometer",
+          "span": [
+            6490,
+            6521
+          ]
+        },
+        {
+          "anchor": "It helps me accurately detect temperature changes.",
+          "span": [
+            6755,
+            6805
+          ]
+        },
+        {
+          "anchor": "a process of remediation. After an initial investigation, which I just conducted, if I find psychical material, which I certainly have, I contain the remainder and remove it from the premises.",
+          "span": [
+            10243,
+            10435
+          ]
+        },
+        {
+          "anchor": "We use a proprietary device based on a Faraday cage.",
+          "span": [
+            10869,
+            10921
+          ]
+        },
+        {
+          "anchor": "A Faraday cage is an enclosed shield that blocks out electromagnetic fields.",
+          "span": [
+            10938,
+            11014
+          ]
+        },
+        {
+          "anchor": "and set it, plate side down, on the floor between us.",
+          "span": [
+            11358,
+            11411
+          ]
+        },
+        {
+          "anchor": "We are safe from the neutralized psychical material inside the cage because it is neutralized.",
+          "span": [
+            11681,
+            11775
+          ]
+        },
+        {
+          "anchor": "I think that characterization is a bit dramatic.",
+          "span": [
+            12772,
+            12820
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "who": "叙述者 / Silverman",
+      "what": "叙述者想通「Silverman 必须走」——星记错的「Manhattan Removal」其实没说错，威胁不是 François——并说「我想我犯了个错误。你该走了」；Silverman 不理，追问死因；叙述者把 François 说成「我的邻居」掩饰亲密度；Silverman 追问「那么年轻怎么会死于脑退化」",
+      "evidence": [
+        {
+          "anchor": "I knew then that Silverman needed to leave.",
+          "span": [
+            13104,
+            13147
+          ]
+        },
+        {
+          "anchor": "When Star had misremembered their name",
+          "span": [
+            13148,
+            13186
+          ]
+        },
+        {
+          "anchor": "Manhattan Removal",
+          "span": [
+            13187,
+            13204
+          ]
+        },
+        {
+          "anchor": "The threat was not François.",
+          "span": [
+            13228,
+            13256
+          ]
+        },
+        {
+          "anchor": "I think I made a mistake. You should go.",
+          "span": [
+            13258,
+            13298
+          ]
+        },
+        {
+          "anchor": "Silverman ignored me.",
+          "span": [
+            13302,
+            13323
+          ]
+        },
+        {
+          "anchor": "Was he a friend?",
+          "span": [
+            14240,
+            14256
+          ]
+        },
+        {
+          "anchor": "My neighbor. You know how it is.",
+          "span": [
+            14322,
+            14354
+          ]
+        },
+        {
+          "anchor": "And you have no idea how a man that young dies of brain degeneracy?",
+          "span": [
+            14543,
+            14610
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "who": "Silverman /叙述者",
+      "what": "Silverman 掏出外科口罩与手套、又戴上护目镜（理由「他们还不确定它怎么传播」）；叙述者嘲讽「你以为能从鬼身上得艾滋病？」；叙述者反倒想让他留下把话说完；随后天花板灯从中间裂开坠落，François 幸存的手镜、玻璃碗、插着干康乃馨的空酒瓶、以及叙述者的香草罐全碎；Silverman 抽出天线指向天花板，一道闪电般的击打、一声尖叫（叙述者的）、金属摩擦声；腰间网盒白热发光",
+      "evidence": [
+        {
+          "anchor": "He reached for his bag and pulled out a surgical mask and gloves.",
+          "span": [
+            14794,
+            14859
+          ]
+        },
+        {
+          "anchor": "snapped on a pair of goggles",
+          "span": [
+            14988,
+            15016
+          ]
+        },
+        {
+          "anchor": "get AIDS from a ghost?",
+          "span": [
+            14954,
+            14976
+          ]
+        },
+        {
+          "anchor": "not sure how it spreads.",
+          "span": [
+            15027,
+            15051
+          ]
+        },
+        {
+          "anchor": "Now I wanted him to stay and keep talking.",
+          "span": [
+            15571,
+            15613
+          ]
+        },
+        {
+          "anchor": "People want to be left in peace.",
+          "span": [
+            15864,
+            15896
+          ]
+        },
+        {
+          "anchor": "The ceiling light, so old and caked with dust it was permanently dim, cracked down the middle and fell to the ground.",
+          "span": [
+            16077,
+            16194
+          ]
+        },
+        {
+          "anchor": "an empty wine bottle with a dried carnation stuck in it",
+          "span": [
+            16260,
+            16315
+          ]
+        },
+        {
+          "anchor": "and all my jars of herbs",
+          "span": [
+            16317,
+            16341
+          ]
+        },
+        {
+          "anchor": "the ones I had cleaned up after François dumped them on the floor",
+          "span": [
+            16342,
+            16407
+          ]
+        },
+        {
+          "anchor": "Silverman leapt up and whipped out the antenna from his belt",
+          "span": [
+            16421,
+            16481
+          ]
+        },
+        {
+          "anchor": "There was a shock of lightning, a shriek (mine), and then the sound of metal grating against metal.",
+          "span": [
+            16513,
+            16612
+          ]
+        },
+        {
+          "anchor": "The mesh box clipped to his belt glowed white hot.",
+          "span": [
+            16613,
+            16663
+          ]
+        }
+      ]
+    }
+  ],
+  "turning_point": {
+    "text": "本章转折点：叙述者想通真正的威胁不是 François，而是号称「整治」鬼魂的 Manhattan Remediation——请技术员进门本来是为了赶走 François，现在她必须把 Silverman 赶出去，而已经太迟（他已完成测量、给出了方案）。",
+    "evidence": [
+      {
+        "anchor": "The threat was not François.",
+        "span": [
+          13228,
+          13256
+        ]
+      },
+      {
+        "anchor": "I knew then that Silverman needed to leave.",
+        "span": [
+          13104,
+          13147
+        ]
+      },
+      {
+        "anchor": "I think I made a mistake. You should go.",
+        "span": [
+          13258,
+          13298
+        ]
+      }
+    ]
+  },
+  "relations": [
+    {
+      "pair": "叙述者 ↔ François",
+      "relation": "对外称「邻居」，内心称「朋友」（躲着 Silverman 掩饰亲近）；François 已死、以鬼魂形态出现（曾当着 Claude 的面显形）；说他的名字会把他招近",
+      "evidence": [
+        {
+          "anchor": "his appearance in front of Claude",
+          "span": [
+            148,
+            181
+          ]
+        },
+        {
+          "anchor": "in the ear of my mind, I heard my friend scream",
+          "span": [
+            13596,
+            13643
+          ]
+        },
+        {
+          "anchor": "My neighbor. You know how it is.",
+          "span": [
+            14322,
+            14354
+          ]
+        },
+        {
+          "anchor": "Saying his name brought him near.",
+          "span": [
+            13678,
+            13711
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "叙述者 ↔ Mark",
+      "relation": "Mark 的房间、家具、床在仪器下毫无反应；房里留着他的宝丽来照片；两人一起从大学退学；Mark 曾说叙述者对超心理学「uncharacteristically judgmental」",
+      "evidence": [
+        {
+          "anchor": "the Polaroids of Mark",
+          "span": [
+            4037,
+            4058
+          ]
+        },
+        {
+          "anchor": "after Mark and I dropped out of college",
+          "span": [
+            5196,
+            5235
+          ]
+        },
+        {
+          "anchor": "the meeting point of bereaved desperation and postwar America throwing money at the weirdest ways to fight the Soviets",
+          "span": [
+            5850,
+            5968
+          ]
+        },
+        {
+          "anchor": "hovering the device around Mark",
+          "span": [
+            3933,
+            3964
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "叙述者 ↔ Tanya",
+      "relation": "桌上摆着 Tanya 的百合，已枯干（Tanya 本章未在场）",
+      "evidence": [
+        {
+          "anchor": "the vase of Tanya",
+          "span": [
+            4063,
+            4080
+          ]
+        },
+        {
+          "anchor": "which had died and dried out",
+          "span": [
+            4091,
+            4119
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "叙述者 ↔ 母亲",
+      "relation": "母亲去世后没有出现（她不想她来，宁愿与自己的愧疚相处）；这件事反过来给她的「extra」感知添了疑问",
+      "evidence": [
+        {
+          "anchor": "But then my mother died",
+          "span": [
+            5501,
+            5524
+          ]
+        },
+        {
+          "anchor": "Not seeing my mother, however, added some questions",
+          "span": [
+            6118,
+            6169
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Silverman ↔ 叙述者",
+      "relation": "上门家访的高级技术员（自称培训其他技术员）；叙述者一边利用他、一边怀疑他是否在骗人，同时察觉他也是在找鬼而不是只负责除鬼",
+      "evidence": [
+        {
+          "anchor": "I was assigned to this house call",
+          "span": [
+            9136,
+            9169
+          ]
+        },
+        {
+          "anchor": "I trained them",
+          "span": [
+            9506,
+            9520
+          ]
+        },
+        {
+          "anchor": "he was looking for them, too.",
+          "span": [
+            7590,
+            7619
+          ]
+        },
+        {
+          "anchor": "It surprises me that no one is trying to make sure you",
+          "span": [
+            8363,
+            8417
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Star ↔ 公司名",
+      "relation": "Star 记错的名字「Manhattan Removal」其实没说错（Re/Palace 与 Removal 之别）",
+      "evidence": [
+        {
+          "anchor": "When Star had misremembered their name",
+          "span": [
+            13148,
+            13186
+          ]
+        },
+        {
+          "anchor": "Manhattan Removal",
+          "span": [
+            13187,
+            13204
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Patrick ↔ 叙述者",
+      "relation": "Patrick 曾劝叙述者对自己的能力更好奇",
+      "evidence": [
+        {
+          "anchor": "I should be more curious about this ability of mine",
+          "span": [
+            5072,
+            5123
+          ]
+        }
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three",
+      "verbatim": "He wore a belt with three attachments",
+      "kind": "count",
+      "evidence": [
+        {
+          "anchor": "He wore a belt with three attachments",
+          "span": [
+            474,
+            511
+          ]
+        }
+      ]
+    },
+    {
+      "value": "thirty-five",
+      "verbatim": "approximate age thirty-five",
+      "kind": "age",
+      "evidence": [
+        {
+          "anchor": "approximate age thirty-five",
+          "span": [
+            884,
+            911
+          ]
+        }
+      ]
+    },
+    {
+      "value": "mid-thirties",
+      "verbatim": "Dementia? I thought you said he was in his mid-thirties.",
+      "kind": "age",
+      "evidence": [
+        {
+          "anchor": "Dementia? I thought you said he was in his mid-thirties.",
+          "span": [
+            14073,
+            14129
+          ]
+        }
+      ]
+    },
+    {
+      "value": "a week",
+      "verbatim": "until a week after our visit so they can see for themselves that the problem is gone.",
+      "kind": "duration",
+      "evidence": [
+        {
+          "anchor": "until a week after our visit so they can see for themselves that the problem is gone.",
+          "span": [
+            8465,
+            8550
+          ]
+        }
+      ]
+    },
+    {
+      "value": "twenty",
+      "verbatim": "twenty calls a day",
+      "kind": "count",
+      "evidence": [
+        {
+          "anchor": "twenty calls a day",
+          "span": [
+            15329,
+            15347
+          ]
+        }
+      ]
+    },
+    {
+      "value": "a couple of",
+      "verbatim": "a couple of trips to the library",
+      "kind": "count",
+      "evidence": [
+        {
+          "anchor": "a couple of trips to the library",
+          "span": [
+            5263,
+            5295
+          ]
+        }
+      ]
+    },
+    {
+      "value": "for a second",
+      "verbatim": "for a second",
+      "kind": "duration",
+      "evidence": [
+        {
+          "anchor": "for a second",
+          "span": [
+            14385,
+            14397
+          ]
+        }
+      ]
+    }
+  ],
+  "numbers_note": "本章无任何具体日期或年份字样；数字均为英文拼写（无阿拉伯数字）。",
+  "anchors_hit": 86,
+  "anchors_total": 86,
+  "verify_cmd": "python3 -I -c \"import json,sys;t=open(sys.argv[2],encoding='utf-8').read();d=json.load(open(sys.argv[1],encoding='utf-8'));ev=[e for a in d['actions'] for e in a['evidence']]+d['turning_point']['evidence']+[e for r in d['relations'] for e in r['evidence']]+[e for n in d['numbers'] for e in n['evidence']];bad=[e for e in ev if t.find(e['anchor'])<0 or t[e['span'][0]:e['span'][1]]!=e['anchor']];print('anchors_total',len(ev),'anchors_hit',len(ev)-len(bad),'bad',len(bad));[print('MISS',repr(e['anchor'])) for e in bad];sys.exit(1 if bad else 0)\" /Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch11/1-suread.json /Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch11_residue.txt"
+}

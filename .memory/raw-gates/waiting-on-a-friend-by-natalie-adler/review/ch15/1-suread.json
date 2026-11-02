@@ -1,0 +1,434 @@
+{
+  "schema": "raw-gate/R1-suread/1",
+  "book": "waiting-on-a-friend-by-natalie-adler",
+  "unit": "ch15",
+  "gate": "R1-suread（单文件素读）",
+  "source": {
+    "path": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch15_empty_lot.txt",
+    "sha256": "f61138c92597de4f352bb267ec60cef7ef4e16162554c71082a0efa8e7007219",
+    "chars": 5816,
+    "title_line": "Empty Lot",
+    "title_line_span": [
+      0,
+      9
+    ]
+  },
+  "actions": [
+    {
+      "id": "A1",
+      "who": "Renata（叙述者）",
+      "what": "约 Claude 出来喝一杯，打算把整件事如实说给她听（宁可现在把痛一次放完，也不等她因自己“糟且回避”而离开）",
+      "span": [
+        12,
+        97
+      ],
+      "anchor": "I asked Claude to meet me for a drink. I was going to explain the whole thing to her."
+    },
+    {
+      "id": "A2",
+      "who": "Renata 与 Claude",
+      "what": "在 The Grove 酒吧碰面——Claude 下夜班后常去的地方；该店旧名 The Duchess，曾因无照卖酒被取缔（她另听说是因为不招待男性）",
+      "span": [
+        354,
+        540
+      ],
+      "anchor": "We met at The Grove, where Claude liked to go after a shift. It used to be called The Duchess, but they got busted by some vice cops who wrote them up for selling booze without a license"
+    },
+    {
+      "id": "A3",
+      "who": "Renata",
+      "what": "对 Claude 说出：防火梯上看到的鬼、正在缠着她的鬼，是她的朋友 François",
+      "span": [
+        2399,
+        2496
+      ],
+      "anchor": "the same guy I saw on the fire escape. The ghost. He was a friend of mine. His name was François."
+    },
+    {
+      "id": "A4",
+      "who": "Renata",
+      "what": "描述 François 的长相（矮个、法国人、大笑、坏牙、棕发棕眼、留小胡子），并请 Claude 若认得出就眨两下眼示意",
+      "span": [
+        3248,
+        3375
+      ],
+      "anchor": "could you blink twice or something? Short guy, French. Big smile, bad teeth. Brown hair, brown eyes. Clean-cut with a mustache."
+    },
+    {
+      "id": "A5",
+      "who": "Claude",
+      "what": "挡回试探：她的病人没有一个看起来像本人（=无法用外貌确认；此处她直呼叙述者 Renata）",
+      "span": [
+        3475,
+        3524
+      ],
+      "anchor": "Renata, none of my patients look like themselves."
+    },
+    {
+      "id": "A6",
+      "who": "Renata",
+      "what": "转述 Leon 讲给她的故事：François 死前对 Leon 提到有位老太太来看过他，她家人抛弃了她，两人因此凑到一起",
+      "span": [
+        3596,
+        3715
+      ],
+      "anchor": "Leon just told me this story about how before François died, he told Leon about this old woman who had been to see him."
+    },
+    {
+      "id": "A7",
+      "who": "Renata",
+      "what": "承认自己做了后悔的事，并讲出传单与那通电话的经过",
+      "span": [
+        3881,
+        3966
+      ],
+      "anchor": "I did something I regret.” I sighed, and then explained the flyer and the phone call."
+    },
+    {
+      "id": "A8",
+      "who": "Renata",
+      "what": "邀 Claude 回她住处；走回去的路上指着脚手架上方消失的楼房轮廓，用“空地与悬着的旧楼”向 Claude 解释看见鬼是什么感觉",
+      "span": [
+        5158,
+        5518
+      ],
+      "anchor": "So come over. I’ll make it worth your while.”\n\n\nAs we walked back to my place, I pointed out buildings that had disappeared, low-rise outlines against the brick, hovering over construction sites. “There used to be a tenement here,” I said, “but it got torn down. You see there?” I traced the outline in the air. “That’s what it’s like,” I said, “seeing ghosts."
+    }
+  ],
+  "turning_point": {
+    "text": "本章转折点：Renata 当面向 Claude 承认防火梯上的鬼是她的朋友 François，想借 Claude 的病人信息核对，却被“我的病人没有一个看起来像本人”挡回、求证落空；她随即收住“愧疚”这个话题，改把 Claude 带回住处（“和 Claude 在一起是 grief 的空档”），本章由“向情人坦白、求一个确认”转向“用这段关系逃避悲伤”。",
+    "span": [
+      4785,
+      4826
+    ],
+    "anchor": "Being with Claude was a break from grief."
+  },
+  "relationships": [
+    {
+      "id": "R1",
+      "who": "Renata ↔ Claude",
+      "what": "约会/恋人：Renata 自认关系够认真到“要么坦白、要么等她离开”；本章后半这段关系成了她逃避悲伤的去处",
+      "span": [
+        98,
+        165
+      ],
+      "anchor": "We were serious enough—or at least, I felt serious enough about her",
+      "pair": "Renata ↔ Claude"
+    },
+    {
+      "id": "R2",
+      "who": "Renata ↔ François",
+      "what": "朋友（已死）：François 以鬼魂现身防火梯并持续缠着 Renata；她说出“他是我朋友”",
+      "span": [
+        2438,
+        2473
+      ],
+      "anchor": "The ghost. He was a friend of mine.",
+      "pair": "Renata ↔ François"
+    },
+    {
+      "id": "R3",
+      "who": "François ↔ Leon",
+      "what": "François 的男友；把“老太太来探视”这段往事讲给 Renata 的正是 Leon",
+      "span": [
+        3586,
+        3624
+      ],
+      "anchor": "boyfriend Leon just told me this story",
+      "pair": "François ↔ Leon"
+    },
+    {
+      "id": "R4",
+      "who": "Renata ↔ François（愧疚线）",
+      "what": "她后悔叫来 ghost cops（对付 François 的鬼）；这条愧疚若展开，会牵出她对 François 的怒气，再牵出 Mark",
+      "span": [
+        4585,
+        4625
+      ],
+      "anchor": "I felt guilty for calling the ghost cops",
+      "pair": "Renata ↔ François"
+    },
+    {
+      "id": "R5",
+      "who": "Renata ↔ Mark",
+      "what": "谈及 Mark 会引出她走不出去的情绪，所以她刻意避开（与她对 François 的怒气相连）",
+      "span": [
+        4714,
+        4732
+      ],
+      "anchor": "talking about Mark",
+      "pair": "Renata ↔ Mark"
+    },
+    {
+      "id": "R6",
+      "who": "Claude ↔ Bianca",
+      "what": "Bianca 告诉 Claude：Renata 在难过的时候会消失；Bianca 常在 seven 探视某人，两人因此闲聊（Claude 的信息来源）",
+      "span": [
+        4237,
+        4265
+      ],
+      "anchor": "Bianca told me you disappear",
+      "pair": "Claude ↔ Bianca"
+    },
+    {
+      "id": "R7",
+      "who": "Claude ↔ 她的病人",
+      "what": "Claude 是医护从业者，有病人；她曾告诉 Renata 一位病人在自己房间里看到老太太——Renata 想借这条线索核对",
+      "span": [
+        2270,
+        2299
+      ],
+      "anchor": "the patient you told me about",
+      "pair": "Claude ↔ 病人"
+    },
+    {
+      "id": "R8",
+      "who": "旁桌女人 ↔ Kathleen / Phyllis",
+      "what": "与主线无关的邻座八卦（Kathleen“像兄弟”、Phyllis 是妇科医生），但构成这里“mixed experience”的酒吧气氛",
+      "span": [
+        2961,
+        2983
+      ],
+      "anchor": "someone named Kathleen",
+      "pair": "邻座女人 ↔ Kathleen/Phyllis"
+    }
+  ],
+  "numbers_dates": [
+    {
+      "id": "N1",
+      "who": "—",
+      "what": "blink twice（两次）：请 Claude 若认得出就眨两下眼",
+      "span": [
+        3258,
+        3269
+      ],
+      "anchor": "blink twice",
+      "verbatim": "blink twice",
+      "note": "两次"
+    },
+    {
+      "id": "N2",
+      "who": "—",
+      "what": "Whiskey number two（第二杯威士忌）",
+      "span": [
+        2106,
+        2137
+      ],
+      "anchor": "Whiskey number two came quickly",
+      "verbatim": "Whiskey number two",
+      "note": "第二杯"
+    },
+    {
+      "id": "N3",
+      "who": "—",
+      "what": "on seven（七号/七楼病区）：Bianca 常在那里探视某人",
+      "span": [
+        4336,
+        4378
+      ],
+      "anchor": "always on seven visiting someone or other.",
+      "verbatim": "always on seven visiting someone or other.",
+      "note": "seven = 病区/楼层号，非日期"
+    },
+    {
+      "id": "N4",
+      "who": "—",
+      "what": "on Fridays（周五）：Jersey girls 周五挤满这家酒吧",
+      "span": [
+        734,
+        759
+      ],
+      "anchor": "flood the bar on Fridays.",
+      "verbatim": "flood the bar on Fridays.",
+      "note": "星期，非具体日期"
+    }
+  ],
+  "numbers_dates_note": "本章无年份/月/日等日期字样；数字型字样逐字抄如上（代词性 one/anyone/someone、量词 both 等不计）。",
+  "checks": [
+    {
+      "id": "A1",
+      "anchor": "I asked Claude to meet me for a drink. I was going to explain the whole thing to her.",
+      "span": [
+        12,
+        97
+      ]
+    },
+    {
+      "id": "A2",
+      "anchor": "We met at The Grove, where Claude liked to go after a shift. It used to be called The Duchess, but they got busted by some vice cops who wrote them up for selling booze without a license",
+      "span": [
+        354,
+        540
+      ]
+    },
+    {
+      "id": "A3",
+      "anchor": "the same guy I saw on the fire escape. The ghost. He was a friend of mine. His name was François.",
+      "span": [
+        2399,
+        2496
+      ]
+    },
+    {
+      "id": "A4",
+      "anchor": "could you blink twice or something? Short guy, French. Big smile, bad teeth. Brown hair, brown eyes. Clean-cut with a mustache.",
+      "span": [
+        3248,
+        3375
+      ]
+    },
+    {
+      "id": "A5",
+      "anchor": "Renata, none of my patients look like themselves.",
+      "span": [
+        3475,
+        3524
+      ]
+    },
+    {
+      "id": "A6",
+      "anchor": "Leon just told me this story about how before François died, he told Leon about this old woman who had been to see him.",
+      "span": [
+        3596,
+        3715
+      ]
+    },
+    {
+      "id": "A7",
+      "anchor": "I did something I regret.” I sighed, and then explained the flyer and the phone call.",
+      "span": [
+        3881,
+        3966
+      ]
+    },
+    {
+      "id": "A8",
+      "anchor": "So come over. I’ll make it worth your while.”\n\n\nAs we walked back to my place, I pointed out buildings that had disappeared, low-rise outlines against the brick, hovering over construction sites. “There used to be a tenement here,” I said, “but it got torn down. You see there?” I traced the outline in the air. “That’s what it’s like,” I said, “seeing ghosts.",
+      "span": [
+        5158,
+        5518
+      ]
+    },
+    {
+      "id": "R1",
+      "anchor": "We were serious enough—or at least, I felt serious enough about her",
+      "span": [
+        98,
+        165
+      ]
+    },
+    {
+      "id": "R2",
+      "anchor": "The ghost. He was a friend of mine.",
+      "span": [
+        2438,
+        2473
+      ]
+    },
+    {
+      "id": "R3",
+      "anchor": "boyfriend Leon just told me this story",
+      "span": [
+        3586,
+        3624
+      ]
+    },
+    {
+      "id": "R4",
+      "anchor": "I felt guilty for calling the ghost cops",
+      "span": [
+        4585,
+        4625
+      ]
+    },
+    {
+      "id": "R5",
+      "anchor": "talking about Mark",
+      "span": [
+        4714,
+        4732
+      ]
+    },
+    {
+      "id": "R6",
+      "anchor": "Bianca told me you disappear",
+      "span": [
+        4237,
+        4265
+      ]
+    },
+    {
+      "id": "R7",
+      "anchor": "the patient you told me about",
+      "span": [
+        2270,
+        2299
+      ]
+    },
+    {
+      "id": "R8",
+      "anchor": "someone named Kathleen",
+      "span": [
+        2961,
+        2983
+      ]
+    },
+    {
+      "id": "N1",
+      "anchor": "blink twice",
+      "span": [
+        3258,
+        3269
+      ]
+    },
+    {
+      "id": "N2",
+      "anchor": "Whiskey number two came quickly",
+      "span": [
+        2106,
+        2137
+      ]
+    },
+    {
+      "id": "N3",
+      "anchor": "always on seven visiting someone or other.",
+      "span": [
+        4336,
+        4378
+      ]
+    },
+    {
+      "id": "N4",
+      "anchor": "flood the bar on Fridays.",
+      "span": [
+        734,
+        759
+      ]
+    },
+    {
+      "id": "T1",
+      "anchor": "Being with Claude was a break from grief.",
+      "span": [
+        4785,
+        4826
+      ]
+    },
+    {
+      "id": "M1",
+      "anchor": "Empty Lot",
+      "span": [
+        0,
+        9
+      ]
+    }
+  ],
+  "anchors_hit": true,
+  "anchors_hit_detail": {
+    "total": 22,
+    "verified": 22,
+    "bad": []
+  },
+  "verify_cmd": "python3 -I -c 'import json,sys;t=open(\"/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch15_empty_lot.txt\",encoding=\"utf-8\").read();d=json.load(open(\"/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch15/1-suread.json\",encoding=\"utf-8\"));c=d[\"checks\"];bad=[x[\"id\"] for x in c if not (t.find(x[\"anchor\"])>=0 and t[x[\"span\"][0]:x[\"span\"][1]]==x[\"anchor\"])];print(\"anchors_hit=\"+str(len(c)-len(bad))+\"/\"+str(len(c)));print(\"bad=\",bad);sys.exit(1 if bad else 0)'",
+  "verify_stdout": "anchors_hit=22/22\nbad= []",
+  "verify_exit": 0
+}

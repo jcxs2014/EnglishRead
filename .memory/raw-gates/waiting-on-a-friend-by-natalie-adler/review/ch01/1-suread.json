@@ -1,0 +1,108 @@
+{
+  "chapter": "ch01",
+  "text_file": "notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch01_ghosts.txt",
+  "chars": 15680,
+  "facts": [
+    {
+      "fact": "马克死于并发症，时刻被逐字记录：1984 年 6 月 5 日 23:42，贝尔维尤医院；他死在医院而非她预想的守在他身边，那夜雷娜塔待在家（换天时的头痛加宿醉，额上敷一袋化开的冻豌豆），电话整夜没响，第二天早上才由朋友的朋友迈克尔来电得知，距他死去已十一小时。",
+      "anchor": "June 5, 1984, 11:42 p.m., Bellevue Hospital",
+      "span": [
+        1132,
+        1175
+      ]
+    },
+    {
+      "fact": "帕特里克在马克喘不上气的那一夜把马克送进急诊室，只告诉了自己的几个朋友，没有打电话给雷娜塔。",
+      "anchor": "Patrick took Mark to the ER one night",
+      "span": [
+        3664,
+        3701
+      ]
+    },
+    {
+      "fact": "雷娜塔接到死讯电话后决定去通知马克的母亲（他父母的号码在电话簿里）；她只说「马克死了」，母亲清清嗓子、用纸一样薄的声音说了声谢谢便轻轻挂断。",
+      "anchor": "I decided to tell his mother",
+      "span": [
+        3897,
+        3925
+      ]
+    },
+    {
+      "fact": "两天后应答机上留下一条礼貌留言：布鲁克林挪威海员教堂将举行一场仪式，「合适的人」可转告；她不知那指谁，于是告诉了所有人。",
+      "anchor": "a polite message on our machine",
+      "span": [
+        4181,
+        4212
+      ]
+    },
+    {
+      "fact": "葬礼前她有整整一周，她到处找马克：从河走到河、坐在乌克兰餐馆他们的老桌、去电影院坐后排、去跳舞，听到他们的歌就以为他会出现。",
+      "anchor": "I walked river to river and sat at our table at the Ukrainian place",
+      "span": [
+        4683,
+        4750
+      ]
+    },
+    {
+      "fact": "葬礼前一晚她决定泡个澡、抽点大麻、让脑子放空，指望放松后马克就会现身；她放热水、点许愿烛、重手加泻盐。",
+      "anchor": "I decided I needed to take a bath, get stoned, let my mind wander",
+      "span": [
+        8539,
+        8604
+      ]
+    },
+    {
+      "fact": "泡澡途中她先是听到咔嗒声、接着一声撞击，转头发现先前关着的窗已敞开、屋里空无一人；她出声叫了马克的名字，只换来更多咔嗒声。",
+      "anchor": "my window had been shut before and now it was gaping",
+      "span": [
+        13077,
+        13129
+      ]
+    },
+    {
+      "fact": "出现的不是马克而是四月惨死的弗朗索瓦：疯狂抽搐、乳白色的眼睛盯着她、张开的嘴里露出流血的牙龈并开始尖叫，他消失后尖叫声还留在原地。",
+      "anchor": "He opened his mouth wide enough for me to see his bleeding gums and he started to scream",
+      "span": [
+        15532,
+        15620
+      ]
+    }
+  ],
+  "relations": [
+    "马克（Mark）是叙述者雷娜塔的同居恋人：两人在这间公寓共同住了十年（the home we’d shared for ten years），他死于并发症，二十九岁（he died at twenty-fucking-nine）。",
+    "叙述者名叫雷娜塔（Renata）——原文「Someone must have said, Okay, who’s gonna tell Renata.」，全章以「我」讲述。",
+    "帕特里克（Patrick）是马克的最后一任男友（his last boyfriend），马克死前数周夜里都住在帕特里克家；也是他把马克送进急诊室。",
+    "迈克尔（Michael something）是朋友的朋友，曾与乔（Joe）和库尔特（Kurt）同组乐队，也是当初把马克介绍给帕特里克的人，正是他打电话把死讯告诉雷娜塔。",
+    "大卫·格林（David Green）是「那几个大卫中最先死的」（The first of the Davids to die），死后一个月一直缠着雷娜塔要她联系他的恋人保罗。",
+    "保罗（Paul）是大卫的恋人，死于十二月（had died in December），也在贝尔维尤医院去世，且「已经往前走」（moved on）——被雷娜塔见到时并没有问起大卫。",
+    "朱莉（Julie）是叙述者的旧女友（my old girlfriend Julie），其父 1978 年去世，生前总坐在姐夫药房外的同一把折叠椅上。",
+    "克劳德（Claude）是叙述者近来在交往的女孩（the girl I’d been seeing），是名护士，穿难看的工作服。",
+    "沃恩（Vaughn）是马克的朋友，也是雷娜塔能见的鬼，爱讲他前恋人的八卦——一个在莱奥尼亚有妻小的深柜银行家。",
+    "比利·凯勒曼（Billy Kellerman）与约翰·洛布里格利奥（John LoBriglio）都是叙述者认识且已死的熟人：她帮比利把漂亮衣服从垃圾里救回来，约翰则在她死后站在十四街盯着谁来吊唁。",
+    "弗朗索瓦（François）四月惨死（who’d had a hard death in April），最后一次见她是在马克死前，当时他出现在她的防火梯上。",
+    "叙述者的母亲小时候常泡澡泡上几小时，说盐水能吸走负能量、能在坏气场房间角落撒盐；「自从我母亲去世后」（Since my mother died）。"
+  ],
+  "numbers": [
+    "June 5, 1984",
+    "11:42 p.m.",
+    "Bellevue Hospital",
+    "eleven hours he was dead",
+    "at twenty-fucking-nine",
+    "the home we’d shared for ten years",
+    "who had died in December",
+    "Two days later",
+    "a whole week before his funeral",
+    "who died in ’78",
+    "a hard death in April",
+    "Two months after his death",
+    "bugged me for a month",
+    "a decade of practice",
+    "standing on Fourteenth Street",
+    "a couple of horseflies",
+    "a few votives",
+    "one sip of water left"
+  ],
+  "turning_point": "转折点：葬礼前夜雷娜塔泡澡等着马克现身，等到的却是四月惨死的弗朗索瓦——他抽搐着、乳白眼盯着她、张口露出流血的牙龈并尖叫，消失后尖叫声仍留在原处；此前她从未见过鬼做出这种举动，而马克始终没有出现。",
+  "anchors_hit": "8/8",
+  "verify_cmd": "python3 -I -c 'import io,json;d=json.load(io.open(\".memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch01/1-suread.json\",encoding=\"utf-8\"));t=io.open(d[\"text_file\"],encoding=\"utf-8\").read();print(sum(1 for f in d[\"facts\"] if t.find(f[\"anchor\"])>=0 and t[f[\"span\"][0]:f[\"span\"][1]]==f[\"anchor\"]),\"/\",len(d[\"facts\"]))'"
+}

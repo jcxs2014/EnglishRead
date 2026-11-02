@@ -1,0 +1,961 @@
+{
+  "stage": "R1 素读（suread）",
+  "doc": "ch17_contained",
+  "chapter_title": "Contained",
+  "source_txt": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch17_contained.txt",
+  "source_kind": "text/ 语料提取件",
+  "read_scope": "仅本文件；未读任何 md / scripts / docs",
+  "beats": [
+    {
+      "id": 1,
+      "who": "叙述者（我）",
+      "did": "收到 Manhattan Remediation, LLC 从布鲁克林某地址寄来的一张“极其认真”的七十五美元账单；并顺手从店里拿走两副黑色 Wayfarers 太阳镜（为了好玩）。Claude 提议借她哥哥的车，从这家公司办公室跟到一次上门服务，再到 Silverman 说过的那个仓库。",
+      "anchors": [
+        {
+          "anchor": "I had gotten a bill for an extremely serious seventy-five dollars from Manhattan Remediation, LLC, from an address in Brooklyn.",
+          "span": [
+            469,
+            596
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I swiped two pairs of black Wayfarers from the store for fun.",
+          "span": [
+            756,
+            817
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "Claude suggested that we borrow her brother’s car and tail them from their office to a house call and eventually to the warehouse Silverman had told me about.",
+          "span": [
+            597,
+            755
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "who": "Claude（开车）与我",
+      "did": "十一点过一点 Claude 来接我；两人过威廉斯堡桥、沿 Greenpoint Avenue 北上，一路是仓库、车库、铁丝网（河对岸能看到 WNYC 的两座发射塔）；到了 Manhattan Remediation 的地址，那里没有招牌、楼上窗帘拉着，两人在车里听收音机等人。",
+      "anchors": [
+        {
+          "anchor": "Claude picked me up a little after eleven.",
+          "span": [
+            1145,
+            1187
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "The address for Manhattan Remediation had no signage.",
+          "span": [
+            1674,
+            1727
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "We waited in the car, listening to the radio",
+          "span": [
+            1940,
+            1984
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "who": "Silverman 与另一名技术员 / 我们（跟踪）",
+      "did": "正午看到 Silverman：他从店面出来，同行的男子穿着一样的 tech belt 和卡其裤、更老更胖、谢顶留马尾；他开了路边一辆车的后备箱查看、关上、坐进副驾。两人开一辆 Gran Fury（像警车，车漆上还留着条纹），我们一路跟到 Grand 街一栋铸铁楼（门前垃圾箱里是纸板、乱线、破木板）；一名穿灰色西装的女子拿剪贴板翻纸、指楼上，Silverman 点头进了侧巷；出来时女子递给他一只厚信封（现金？），随后他们又开走，我们跟到西侧肉加工厂的仓库（Royal Veal Corp. 和高架废轨旁），Silverman 与同伴从后备箱取东西进仓库，出来给门上锁、开车窜走。",
+      "anchors": [
+        {
+          "anchor": "At noon, we saw Silverman. He left the storefront with another guy wearing the same tech belt and khakis",
+          "span": [
+            2049,
+            2153
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "Claude shook her head.",
+          "span": [
+            2483,
+            2505
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "there they were, double-parked in front of a cast iron on Grand",
+          "span": [
+            3273,
+            3336
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "We drove past them and parked in front of a hydrant a few car lengths up.",
+          "span": [
+            4236,
+            4309
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "The woman with the clipboard handed him a thick envelope—cash?—and they were off again.",
+          "span": [
+            5225,
+            5312
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "We drove one car behind them to the meatpacking plants on the West Side",
+          "span": [
+            5315,
+            5386
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "Silverman and the other guy came out of the building, padlocked the door, and got back into the car and peeled off.",
+          "span": [
+            5860,
+            5975
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "who": "我与 Claude（破门）",
+      "did": "仓库挂着挂锁，两人还是敲了门，无人应答；我说起小时候的游戏——如果无家可归、要躲起来会去哪儿，并指出窗子、街那头的空垃圾箱和对街的牛奶箱、托盘，“We can build a way in.”；两人把锈垃圾箱推下人行道、把箱子搬过街，Claude 扶我上去，我爬窗而入；我向 Claude 要刀，她从靴子里掏出来递给我；我打开窗探头进去，然后跳进仓库、把梯子拖到窗边，让 Claude 攀进来。",
+      "anchors": [
+        {
+          "anchor": "Despite the padlock on the door to the warehouse, we knocked anyway. No answer.",
+          "span": [
+            6468,
+            6547
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "We can build a way in.",
+          "span": [
+            7103,
+            7125
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "After we pushed the rusted dumpster down the sidewalk and schlepped the crates across the street",
+          "span": [
+            7129,
+            7225
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "She handed it over, predictably, from inside her boot.",
+          "span": [
+            7479,
+            7533
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I dropped down inside the warehouse",
+          "span": [
+            8073,
+            8108
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "watching Claude pull herself up onto the window ledge",
+          "span": [
+            8247,
+            8300
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "who": "我（在“冰柜”里读标签）",
+      "did": "冷库门后不像是冰柜：从地板到天花板，无把手的金属抽屉像步入式卡片目录一样堆到至少十二英尺高，每格约四英寸高、十英寸宽，房间还往里延伸约八英尺；第一只抽屉上用美纹纸飞速写着“W10 11/8/83”“Charles 12/17/83”“1A 12/31/83”，抽屉按时间排列、地址多在下城、约三分之一未标记、日期越来越密（“word must be traveling”）；我读到自己的地址与当初打电话的那天“E7 7/8/84”，意识到那正是 Mark 死后一个月。",
+      "anchors": [
+        {
+          "anchor": "From floor to ceiling, metal drawers were stacked at least twelve feet like a walk-in card catalog",
+          "span": [
+            8978,
+            9076
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "each about four inches high by ten wide",
+          "span": [
+            9078,
+            9117
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "The first drawer was labeled, in fast handwriting on masking tape",
+          "span": [
+            9229,
+            9294
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "1A 12/31/83",
+          "span": [
+            9341,
+            9352
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "about a third of the drawers were unmarked",
+          "span": [
+            10103,
+            10145
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I kept looking until I saw my own address and the date I’d called them",
+          "span": [
+            10219,
+            10289
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "It was one month since Mark died.",
+          "span": [
+            10374,
+            10407
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "who": "我 / Silverman",
+      "did": "我用瑞士军刀沿四角摸索找机关、未果（“There’s some give, but no mechanism to open it.”），最后用掌侧一拳，抽屉弹出来——不是抽屉，而是一只盒子，the cage：标签那面是金属板，其余是编织紧密的金属网，摇不出声、摸着越来越冷；此时 Silverman 站在冰柜门口喊“You can’t be here. You need to leave right now. You’re trespassing.”；我说“It’s not her fault… I broke us in.”，并说自己只想“get him out”，Silverman 让他把盒子放下。",
+      "anchors": [
+        {
+          "anchor": "It sprung right out—not a drawer, but a box, the cage.",
+          "span": [
+            11788,
+            11842
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "You need to leave right now. You’re trespassing.",
+          "span": [
+            12246,
+            12294
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I broke us in.",
+          "span": [
+            12710,
+            12724
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I just want to…get him out.",
+          "span": [
+            13311,
+            13338
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "You have to put it down.",
+          "span": [
+            13282,
+            13306
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "who": "盒子 / François / Silverman",
+      "did": "我拇指沿盒子边缘摸索、指甲卡住网面想撬开（Silverman 举着对讲机喊 Walter 回来）；盒子突然滚烫，我把它掉在地上，它由银色变红，一声刺耳的摩擦声后——tzzt——冰柜的灯灭了；先是远处收音机般的多台人声，然后房间里那股“空”被一个巨大、滚烫的存在填满，我看到 François 伸出手臂、踉跄着扑向 Silverman，把他摁在墙上、又像与他重叠（François 的轮廓像被通电后描在 Silverman 身上），Silverman 眼里发狂、朝空中抓。",
+      "anchors": [
+        {
+          "anchor": "the box was burning hot. I dropped it to the ground, where it turned from silver to red.",
+          "span": [
+            13871,
+            13959
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "the lights in the freezer went out",
+          "span": [
+            14000,
+            14034
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I saw François stretch out his arm and stagger toward Silverman.",
+          "span": [
+            14449,
+            14513
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "pinning Silverman to the wall",
+          "span": [
+            14897,
+            14926
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "who": "Claude / 我 / Walter / Silverman",
+      "did": "Claude 出声喊停 François，并讲起他问过的前一个房间里的老太太：她住在 Thompson Street 五楼、摔下楼梯断了髋骨、邻居叫了救护车却从未来探望、她是寡妇、儿子死在越南——她叫 Melina，她独自死去但已准备好离开；Claude 点头示意我“make my peace”。我低声念他的名字、道歉，先说不该送走他，随后坦白“I did want you to go”；他呜咽安静下来，转身离开、穿过我的身体，“And then it was over.”。Walter 赶到（问 Julian 是否还好），拾起空盒子检查、用遥控器逐格扫描，指出网面有一处“irregularity”、说该用更强的导体；Silverman 让 Walter 出去、随即让“我”出去，并说“You knew. You knew when you called us.”。",
+      "anchors": [
+        {
+          "anchor": "Claude called out",
+          "span": [
+            15100,
+            15117
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "She lived on Thompson Street. Fifth floor.",
+          "span": [
+            15469,
+            15511
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "Her name was Melina. She was in the room before you.",
+          "span": [
+            15794,
+            15846
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "She was telling me to make my peace.",
+          "span": [
+            16502,
+            16538
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I did want you to go.",
+          "span": [
+            16818,
+            16839
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "And then it was over.",
+          "span": [
+            17899,
+            17920
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "You all right, Julian?",
+          "span": [
+            18122,
+            18144
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "There’s an irregularity in the mesh here.",
+          "span": [
+            18851,
+            18892
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "He stepped out of the way of the door.",
+          "span": [
+            19592,
+            19630
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "You knew. You knew when you called us.",
+          "span": [
+            19632,
+            19670
+          ],
+          "hit": true
+        }
+      ]
+    }
+  ],
+  "turning_point": {
+    "text": "本章转折点：叙述者亲手撬开冰柜里封死的金属网盒（the cage）——François 因此现身并扼住 Silverman，叙述者第一次直面他的愤怒，在 Claude 的引导下坦白“我想要你走”，François 随即真正离开。",
+    "anchors": [
+      {
+        "anchor": "It sprung right out—not a drawer, but a box, the cage.",
+        "span": [
+          11788,
+          11842
+        ],
+        "hit": true
+      },
+      {
+        "anchor": "I saw François stretch out his arm and stagger toward Silverman.",
+        "span": [
+          14449,
+          14513
+        ],
+        "hit": true
+      },
+      {
+        "anchor": "I did want you to go.",
+        "span": [
+          16818,
+          16839
+        ],
+        "hit": true
+      },
+      {
+        "anchor": "And then it was over.",
+        "span": [
+          17899,
+          17920
+        ],
+        "hit": true
+      }
+    ]
+  },
+  "relations": [
+    {
+      "pair": "我 ↔ Claude（伴侣/恋人，同案搭档）",
+      "evidence": "叙述者越过身去吻 Claude，称她“real thoughtful”；她带了三明治、以护士的专业判断 Silverman 没有挫伤，并说“I’m a nurse.”。",
+      "anchors": [
+        {
+          "anchor": "I leaned over and kissed Claude.",
+          "span": [
+            4836,
+            4868
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I’m a nurse.",
+          "span": [
+            18544,
+            18556
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "pair": "我 ↔ Silverman（Julian）（前一客户 → 侵入者/看守者）",
+      "evidence": "Silverman 认出叙述者就是不久前打电话求助、对他的工作很感兴趣的那个人，脸色像被背叛；Walter 叫他 Julian。",
+      "anchors": [
+        {
+          "anchor": "He recognized me, the woman who had only recently called him for help",
+          "span": [
+            12728,
+            12797
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "You all right, Julian?",
+          "span": [
+            18122,
+            18144
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "pair": "Silverman ↔ Walter（同队搭档）",
+      "evidence": "Walter 从对讲机应答“I’m double-parked, can you handle it?”，后被唤回冰柜；他提到“you and Rick”需要更强的导体，并说要把所有盒子扫一遍。",
+      "anchors": [
+        {
+          "anchor": "I’m double-parked, can you handle it?",
+          "span": [
+            12507,
+            12544
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I told you and Rick we needed to use a stronger conductor.",
+          "span": [
+            19016,
+            19074
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "pair": "我 ↔ François（死去的朋友，曾被我希望离开）",
+      "evidence": "我承认“I did want you to go.”，此前也说过“I couldn’t handle it all on my own.”；他呜咽、转身、穿过我的身体后消失，把痛留在我身上。",
+      "anchors": [
+        {
+          "anchor": "I did want you to go.",
+          "span": [
+            16818,
+            16839
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I couldn’t handle it all on my own.",
+          "span": [
+            16647,
+            16682
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "Before I shut my eyes to let him go",
+          "span": [
+            17687,
+            17722
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "There wasn’t any sense of peace, or even release.",
+          "span": [
+            17770,
+            17819
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "pair": "Claude ↔ François（安抚者；告诉他并非孤单）",
+      "evidence": "Claude 叫住他，讲老太太 Melina 如何独自死去、已准备好离开，最后说“Maybe she was looking out for you.”；叙述者点明她在说的是“他并不孤单”。",
+      "anchors": [
+        {
+          "anchor": "Maybe she was looking out for you.",
+          "span": [
+            15969,
+            16003
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "It wasn’t unfinished business. It was loneliness. She was telling him he wasn’t alone.",
+          "span": [
+            16007,
+            16093
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "pair": "Claude ↔ 她的哥哥（提及：哥哥的同性伴侣已死）",
+      "evidence": "Claude 说抽屉像 columbarium、是放骨灰格位的陵墓，她“older brother put his boyfriend in one of them.”；我问“You got a gay brother?”，她说“He’s not sick”。",
+      "anchors": [
+        {
+          "anchor": "My older brother put his boyfriend in one of them.",
+          "span": [
+            9552,
+            9602
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "He’s not sick, if that’s what you mean.",
+          "span": [
+            9727,
+            9766
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "pair": "提及但不在场：Mark / Tanya / Melina / Bianca / Julie",
+      "evidence": "Mark：那天是 Mark 死后一个月，我想要“space for Mark”；Tanya：她说阁楼艺术家认证在收紧，她参与的团体想让市府把下东城破楼一美元卖出未果；Melina：Claude 讲述的前一位死者；Bianca 与 Julie：出现在童年/少年的外区记忆里（Coney Island、Jones Beach、高架废轨）。",
+      "anchors": [
+        {
+          "anchor": "It was one month since Mark died.",
+          "span": [
+            10374,
+            10407
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I wanted space for Mark",
+          "span": [
+            16947,
+            16970
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "I heard from Tanya that they were cracking down on the certification you needed to live as an artist in those lofts",
+          "span": [
+            3675,
+            3790
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "Coney Island with Bianca and our moms when we were kids",
+          "span": [
+            898,
+            953
+          ],
+          "hit": true
+        },
+        {
+          "anchor": "the abandoned elevated tracks where Julie and I used to sneak up in high school",
+          "span": [
+            5476,
+            5555
+          ],
+          "hit": true
+        }
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "seventy-five dollars",
+      "what": "Manhattan Remediation 寄来的账单金额",
+      "anchors": [
+        {
+          "anchor": "seventy-five dollars",
+          "span": [
+            514,
+            534
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "two pairs of black Wayfarers",
+      "what": "从店里顺手拿走的两副黑太阳镜",
+      "anchors": [
+        {
+          "anchor": "two pairs of black Wayfarers",
+          "span": [
+            765,
+            793
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "a little after eleven",
+      "what": "Claude 来接叙述者的时间",
+      "anchors": [
+        {
+          "anchor": "a little after eleven",
+          "span": [
+            1165,
+            1186
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "At noon, we saw Silverman.",
+      "what": "看到 Silverman 离开店面的时候",
+      "anchors": [
+        {
+          "anchor": "At noon, we saw Silverman.",
+          "span": [
+            2049,
+            2075
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "three stories, three windows across",
+      "what": "Greenpoint Avenue 上少数住宅楼的样子（三层、横向三窗）",
+      "anchors": [
+        {
+          "anchor": "three stories, three windows across",
+          "span": [
+            1371,
+            1406
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "the two WNYC transmitter towers",
+      "what": "Greenpoint Avenue 尽头河上的两座 WNYC 发射塔",
+      "anchors": [
+        {
+          "anchor": "the two WNYC transmitter towers",
+          "span": [
+            1482,
+            1513
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "a few car lengths up",
+      "what": "在消防栓前停车处与目标相隔的车身距离",
+      "anchors": [
+        {
+          "anchor": "a few car lengths up",
+          "span": [
+            4288,
+            4308
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "six inches to the curb",
+      "what": "Claude 侧方停车后距路缘的六英寸",
+      "anchors": [
+        {
+          "anchor": "six inches to the curb",
+          "span": [
+            6293,
+            6315
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "a couple of bites",
+      "what": "叙述者吃三明治的两口",
+      "anchors": [
+        {
+          "anchor": "a couple of bites",
+          "span": [
+            5088,
+            5105
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "at least twelve feet",
+      "what": "金属抽屉从地板到天花板堆起的高度",
+      "anchors": [
+        {
+          "anchor": "at least twelve feet",
+          "span": [
+            9028,
+            9048
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "four inches high by ten wide",
+      "what": "每只抽屉的尺寸（高四英寸、宽十英寸）",
+      "anchors": [
+        {
+          "anchor": "four inches high by ten wide",
+          "span": [
+            9089,
+            9117
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "another eight feet",
+      "what": "房间往里的进深（约再八英尺）",
+      "anchors": [
+        {
+          "anchor": "another eight feet",
+          "span": [
+            9209,
+            9227
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "about a third of the drawers were unmarked",
+      "what": "未标记抽屉的比例（约三分之一）",
+      "anchors": [
+        {
+          "anchor": "about a third of the drawers were unmarked",
+          "span": [
+            10103,
+            10145
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "W10 11/8/83",
+      "what": "第一只抽屉美纹纸标签上的地址代号与日期",
+      "anchors": [
+        {
+          "anchor": "W10 11/8/83",
+          "span": [
+            9297,
+            9308
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "Charles 12/17/83",
+      "what": "第二只抽屉标签（名字＋日期）",
+      "anchors": [
+        {
+          "anchor": "Charles 12/17/83",
+          "span": [
+            9317,
+            9333
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "1A 12/31/83",
+      "what": "第三只抽屉标签（代号＋日期）",
+      "anchors": [
+        {
+          "anchor": "1A 12/31/83",
+          "span": [
+            9341,
+            9352
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "W73",
+      "what": "一只标签代号（叙述者读作 West 73rd）",
+      "anchors": [
+        {
+          "anchor": "W73",
+          "span": [
+            9797,
+            9800
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "E7 7/8/84",
+      "what": "叙述者自己的地址代号与致电日期（连续两页都出现同一串字）",
+      "anchors": [
+        {
+          "anchor": "E7 7/8/84",
+          "span": [
+            10292,
+            10301
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "another two and a half rows",
+      "what": "叙述者那只之后又被填满的两排半",
+      "anchors": [
+        {
+          "anchor": "another two and a half rows",
+          "span": [
+            10468,
+            10495
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "one month since Mark died",
+      "what": "叙述者致电那天距 Mark 去世的时间",
+      "anchors": [
+        {
+          "anchor": "one month since Mark died",
+          "span": [
+            10381,
+            10406
+          ],
+          "hit": true
+        }
+      ]
+    },
+    {
+      "value": "She lived on Thompson Street. Fifth floor.",
+      "what": "Melina 住在 Thompson Street 五楼",
+      "anchors": [
+        {
+          "anchor": "She lived on Thompson Street. Fifth floor.",
+          "span": [
+            15469,
+            15511
+          ],
+          "hit": true
+        }
+      ]
+    }
+  ],
+  "anchors_hit": {
+    "total": 89,
+    "hit": 89,
+    "all_hit": true
+  },
+  "verify_cmd": "python3 -I -c \"import json,sys;t=open('/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch17_contained.txt',encoding='utf-8').read();d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch17/1-suread.json',encoding='utf-8'));A=[a for b in d['beats'] for a in b['anchors']]+list(d['turning_point']['anchors'])+[a for r in d['relations'] for a in r['anchors']]+[a for n in d['numbers'] for a in n['anchors']];bad=[a['anchor'] for a in A if t.find(a['anchor'])<0 or t[a['span'][0]:a['span'][1]]!=a['anchor']];print('anchors ok:%d/%d'%(len(A)-len(bad),len(A)));sys.exit(1 if bad else 0)\""
+}

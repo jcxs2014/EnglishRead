@@ -1,0 +1,664 @@
+{
+  "chapter": "ch20",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch20_mystery_solved.txt",
+  "chars": 9164,
+  "facts": [
+    {
+      "id": "f1",
+      "anchor": "It was a luxury Mark had insisted on when we first moved in together.",
+      "span_start": 108,
+      "span_end": 177,
+      "who": "Renata (narrator “I”)",
+      "what": "对着电视发呆消磨；电视是同居时马克坚持要买的"
+    },
+    {
+      "id": "f2",
+      "anchor": "It was from four nights before he died.",
+      "span_start": 2548,
+      "span_end": 2587,
+      "who": "Mark / Renata",
+      "what": "马克住到帕特里克家后给答录机留言；蕾娜塔保留的那条是他死前四晚留的"
+    },
+    {
+      "id": "f3",
+      "anchor": "been out with Claude, and when I called back in the morning, no one picked up",
+      "span_start": 2604,
+      "span_end": 2681,
+      "who": "Renata",
+      "what": "那晚确实与克劳德外出，早上回电无人接，她选择等他回电"
+    },
+    {
+      "id": "f4",
+      "anchor": "Tonight on EVTV, local mystery solved.",
+      "span_start": 3120,
+      "span_end": 3158,
+      "who": "Nikos (EVTV host)",
+      "what": "节目开场宣布「本地谜案告破」"
+    },
+    {
+      "id": "f5",
+      "anchor": "contain and then remove residual psychic material",
+      "span_start": 5644,
+      "span_end": 5693,
+      "who": "Rick",
+      "what": "把 remediation 解释为「先封包再清除残留灵性物质」"
+    },
+    {
+      "id": "f6",
+      "anchor": "I am married to my husband forty-nine years.",
+      "span_start": 7532,
+      "span_end": 7576,
+      "who": "Agnes R. of Second Avenue (recorded call)",
+      "what": "录音来电播出：结婚四十九年、丈夫过世不到一个月"
+    },
+    {
+      "id": "f7",
+      "anchor": "you can’t really think of it as your loved one anymore",
+      "span_start": 8380,
+      "span_end": 8434,
+      "who": "Rick",
+      "what": "直视镜头告诉观众（实为蕾娜塔）：残留物不能再当作亲人"
+    },
+    {
+      "id": "f8",
+      "anchor": "Fuck you,” I muttered.",
+      "span_start": 9129,
+      "span_end": 9151,
+      "who": "Renata",
+      "what": "向着电视低声咒骂（两次）"
+    }
+  ],
+  "relations": [
+    {
+      "id": "r1",
+      "anchor": "He always let me fall asleep on him.",
+      "span_start": 619,
+      "span_end": 655,
+      "pair": "Renata — Mark",
+      "desc": "同居伴侣；一起看电影，马克总让她靠肩睡着（本章马克已故）"
+    },
+    {
+      "id": "r2",
+      "anchor": "the only person who would answer would be Patrick",
+      "span_start": 2984,
+      "span_end": 3033,
+      "pair": "Patrick — Mark / Renata",
+      "desc": "马克后来住在帕特里克处；如今回电只会是帕特里克接，而他不会陪她看电视"
+    },
+    {
+      "id": "r3",
+      "anchor": "been out with Claude",
+      "span_start": 2604,
+      "span_end": 2624,
+      "pair": "Claude — Renata",
+      "desc": "马克死前那晚，蕾娜塔与克劳德外出"
+    },
+    {
+      "id": "r4",
+      "anchor": "I hadn’t thought about him in years",
+      "span_start": 4840,
+      "span_end": 4875,
+      "pair": "Renata — Rick",
+      "desc": "多年未想起过他（旧识）；电视上一眼认出"
+    },
+    {
+      "id": "r5",
+      "anchor": "He’s a piece of shit.",
+      "span_start": 5011,
+      "span_end": 5032,
+      "pair": "Mark — Rick",
+      "desc": "马克对 Rick 的评价（蕾娜塔引用）"
+    },
+    {
+      "id": "r6",
+      "anchor": "Rick and Silverman suited each other",
+      "span_start": 6652,
+      "span_end": 6688,
+      "pair": "Rick — Silverman",
+      "desc": "蕾娜塔的观察：两人性情相配（库尔曼认不出玩笑，Rick 开不起玩笑）"
+    },
+    {
+      "id": "r7",
+      "anchor": "Moje kondolencje",
+      "span_start": 8176,
+      "span_end": 8192,
+      "pair": "Rick — Agnes R. (Agnieska)",
+      "desc": "Rick 用波兰语向她致哀，并自称懂得失去亲人的意味"
+    },
+    {
+      "id": "r8",
+      "anchor": "My partner has a PhD in parapsychology.",
+      "span_start": 6102,
+      "span_end": 6141,
+      "pair": "Rick — his partner",
+      "desc": "合伙人（未具名）拥有超心理学博士；两人共同开发专利设备"
+    },
+    {
+      "id": "r9",
+      "anchor": "I go by Rick, actually.",
+      "span_start": 4657,
+      "span_end": 4680,
+      "pair": "Nikos — Rick",
+      "desc": "主持人当众戏谄（垃圾工、医生工），Rick 不接受，正名自称 Rick、反驳说自己「做研究」"
+    }
+  ],
+  "numbers": [
+    {
+      "id": "n1",
+      "anchor": "It was from four nights before he died.",
+      "span_start": 2548,
+      "span_end": 2587,
+      "verbatim": "four nights before he died",
+      "note": "逐字拄录：four nights before he died"
+    },
+    {
+      "id": "n2",
+      "anchor": "It’s one in the morning, you’re either out or you’re sleeping.",
+      "span_start": 1985,
+      "span_end": 2047,
+      "verbatim": "one in the morning",
+      "note": "逐字拄录：one in the morning"
+    },
+    {
+      "id": "n3",
+      "anchor": "he said it was about three hours",
+      "span_start": 772,
+      "span_end": 804,
+      "verbatim": "about three hours",
+      "note": "逐字拄录：about three hours"
+    },
+    {
+      "id": "n4",
+      "anchor": "anything below Twenty-third Street as a supernatural Superfund site",
+      "span_start": 5827,
+      "span_end": 5894,
+      "verbatim": "Twenty-third Street",
+      "note": "逐字拄录：Twenty-third Street"
+    },
+    {
+      "id": "n5",
+      "anchor": "I am married to my husband forty-nine years.",
+      "span_start": 7532,
+      "span_end": 7576,
+      "verbatim": "forty-nine years",
+      "note": "逐字拄录：forty-nine years"
+    },
+    {
+      "id": "n6",
+      "anchor": "He is gone not one month, I get notice.",
+      "span_start": 7577,
+      "span_end": 7616,
+      "verbatim": "not one month",
+      "note": "逐字拄录：not one month"
+    },
+    {
+      "id": "n7",
+      "anchor": "Call me if you are. I think this tape should automatically self-destruct in a few weeks—bye!",
+      "span_start": 2412,
+      "span_end": 2504,
+      "verbatim": "a few weeks",
+      "note": "逐字拄录：a few weeks",
+      "same_phrase_also_at": [
+        [
+          1769,
+          1841
+        ],
+        [
+          2432,
+          2504
+        ]
+      ],
+      "also_anchor": "I think this tape should automatically self-destruct in a few weeks—bye!"
+    },
+    {
+      "id": "n8",
+      "anchor": "he’d grabbed off the street an hour before they went on air",
+      "span_start": 3438,
+      "span_end": 3497,
+      "verbatim": "an hour before they went on air",
+      "note": "逐字拄录：an hour before they went on air"
+    },
+    {
+      "id": "n9",
+      "anchor": "Agnes R. of Second Avenue called in to report cryptic flyers shoved under her door",
+      "span_start": 3736,
+      "span_end": 3818,
+      "verbatim": "Second Avenue",
+      "note": "逐字拄录：Second Avenue"
+    }
+  ],
+  "turning_point": {
+    "id": "tp",
+    "anchor": "I was so taken aback that for a moment I couldn’t see his face.",
+    "span_start": 4776,
+    "span_end": 4839,
+    "text": "本章转折点：蕾娜塔在电视上认出实习生时代的旧识 Rick（如今自称 remediator、正是「本地谜案」的嘉宾），惊愕之下由呆看转为向电视边走边咒骂。"
+  },
+  "anchors_hit": [
+    {
+      "id": "f1",
+      "anchor": "It was a luxury Mark had insisted on when we first moved in together.",
+      "span_start": 108,
+      "span_end": 177,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          108,
+          177
+        ]
+      ]
+    },
+    {
+      "id": "f2",
+      "anchor": "It was from four nights before he died.",
+      "span_start": 2548,
+      "span_end": 2587,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          2548,
+          2587
+        ]
+      ]
+    },
+    {
+      "id": "f3",
+      "anchor": "been out with Claude, and when I called back in the morning, no one picked up",
+      "span_start": 2604,
+      "span_end": 2681,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          2604,
+          2681
+        ]
+      ]
+    },
+    {
+      "id": "f4",
+      "anchor": "Tonight on EVTV, local mystery solved.",
+      "span_start": 3120,
+      "span_end": 3158,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          3120,
+          3158
+        ]
+      ]
+    },
+    {
+      "id": "f5",
+      "anchor": "contain and then remove residual psychic material",
+      "span_start": 5644,
+      "span_end": 5693,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          5644,
+          5693
+        ]
+      ]
+    },
+    {
+      "id": "f6",
+      "anchor": "I am married to my husband forty-nine years.",
+      "span_start": 7532,
+      "span_end": 7576,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          7532,
+          7576
+        ]
+      ]
+    },
+    {
+      "id": "f7",
+      "anchor": "you can’t really think of it as your loved one anymore",
+      "span_start": 8380,
+      "span_end": 8434,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          8380,
+          8434
+        ]
+      ]
+    },
+    {
+      "id": "f8",
+      "anchor": "Fuck you,” I muttered.",
+      "span_start": 9129,
+      "span_end": 9151,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          9129,
+          9151
+        ]
+      ]
+    },
+    {
+      "id": "r1",
+      "anchor": "He always let me fall asleep on him.",
+      "span_start": 619,
+      "span_end": 655,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          619,
+          655
+        ]
+      ]
+    },
+    {
+      "id": "r2",
+      "anchor": "the only person who would answer would be Patrick",
+      "span_start": 2984,
+      "span_end": 3033,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          2984,
+          3033
+        ]
+      ]
+    },
+    {
+      "id": "r3",
+      "anchor": "been out with Claude",
+      "span_start": 2604,
+      "span_end": 2624,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          2604,
+          2624
+        ]
+      ]
+    },
+    {
+      "id": "r4",
+      "anchor": "I hadn’t thought about him in years",
+      "span_start": 4840,
+      "span_end": 4875,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          4840,
+          4875
+        ]
+      ]
+    },
+    {
+      "id": "r5",
+      "anchor": "He’s a piece of shit.",
+      "span_start": 5011,
+      "span_end": 5032,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          5011,
+          5032
+        ]
+      ]
+    },
+    {
+      "id": "r6",
+      "anchor": "Rick and Silverman suited each other",
+      "span_start": 6652,
+      "span_end": 6688,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          6652,
+          6688
+        ]
+      ]
+    },
+    {
+      "id": "r7",
+      "anchor": "Moje kondolencje",
+      "span_start": 8176,
+      "span_end": 8192,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          8176,
+          8192
+        ]
+      ]
+    },
+    {
+      "id": "r8",
+      "anchor": "My partner has a PhD in parapsychology.",
+      "span_start": 6102,
+      "span_end": 6141,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          6102,
+          6141
+        ]
+      ]
+    },
+    {
+      "id": "r9",
+      "anchor": "I go by Rick, actually.",
+      "span_start": 4657,
+      "span_end": 4680,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          4657,
+          4680
+        ]
+      ]
+    },
+    {
+      "id": "n1",
+      "anchor": "It was from four nights before he died.",
+      "span_start": 2548,
+      "span_end": 2587,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          2548,
+          2587
+        ]
+      ]
+    },
+    {
+      "id": "n2",
+      "anchor": "It’s one in the morning, you’re either out or you’re sleeping.",
+      "span_start": 1985,
+      "span_end": 2047,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          1985,
+          2047
+        ]
+      ]
+    },
+    {
+      "id": "n3",
+      "anchor": "he said it was about three hours",
+      "span_start": 772,
+      "span_end": 804,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          772,
+          804
+        ]
+      ]
+    },
+    {
+      "id": "n4",
+      "anchor": "anything below Twenty-third Street as a supernatural Superfund site",
+      "span_start": 5827,
+      "span_end": 5894,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          5827,
+          5894
+        ]
+      ]
+    },
+    {
+      "id": "n5",
+      "anchor": "I am married to my husband forty-nine years.",
+      "span_start": 7532,
+      "span_end": 7576,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          7532,
+          7576
+        ]
+      ]
+    },
+    {
+      "id": "n6",
+      "anchor": "He is gone not one month, I get notice.",
+      "span_start": 7577,
+      "span_end": 7616,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          7577,
+          7616
+        ]
+      ]
+    },
+    {
+      "id": "n7",
+      "anchor": "Call me if you are. I think this tape should automatically self-destruct in a few weeks—bye!",
+      "span_start": 2412,
+      "span_end": 2504,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          2412,
+          2504
+        ]
+      ]
+    },
+    {
+      "id": "n8",
+      "anchor": "he’d grabbed off the street an hour before they went on air",
+      "span_start": 3438,
+      "span_end": 3497,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          3438,
+          3497
+        ]
+      ]
+    },
+    {
+      "id": "n9",
+      "anchor": "Agnes R. of Second Avenue called in to report cryptic flyers shoved under her door",
+      "span_start": 3736,
+      "span_end": 3818,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          3736,
+          3818
+        ]
+      ]
+    },
+    {
+      "id": "tp",
+      "anchor": "I was so taken aback that for a moment I couldn’t see his face.",
+      "span_start": 4776,
+      "span_end": 4839,
+      "found": true,
+      "span_match": true,
+      "occurrences": 1,
+      "occurrence_spans": [
+        [
+          4776,
+          4839
+        ]
+      ]
+    },
+    {
+      "id": "n7-dup",
+      "anchor": "I think this tape should automatically self-destruct in a few weeks—bye!",
+      "span_start": 1769,
+      "span_end": 1841,
+      "found": true,
+      "span_match": true,
+      "occurrences": 2,
+      "occurrence_spans": [
+        [
+          1769,
+          1841
+        ],
+        [
+          2432,
+          2504
+        ]
+      ]
+    }
+  ],
+  "verify_cmd": "python3 -I -c \"import json;p='/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch20/1-suread.json';d=json.load(open(p));t=open(d['text_file'],encoding='utf-8',newline='').read();bad=[a['id'] for a in d['anchors_hit'] if not(t.find(a['anchor'])>=0 and t[a['span_start']:a['span_end']]==a['anchor'])];print('chars',len(t),'anchors',len(d['anchors_hit']),'bad',bad);assert not bad\""
+}

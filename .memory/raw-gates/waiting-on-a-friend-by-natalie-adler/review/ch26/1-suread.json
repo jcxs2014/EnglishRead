@@ -1,0 +1,229 @@
+{
+  "chapter": "ch26 Don’t Hang Up",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch26_don_t_hang_up.txt",
+  "chars": 4474,
+  "facts": [
+    {
+      "statement": "Renata 一行人四处寻找失踪的 Star：在码头打听、去她有时接客的破旅馆、打电话给新泽西的家人（家人并未断绝关系但也不真正容忍她，且已数周没有她的消息），最后去第九分局，警察只是大笑。",
+      "anchor": "we went to the Ninth Precinct, and they just laughed and laughed.",
+      "span": [
+        354,
+        419
+      ]
+    },
+    {
+      "statement": "夜里 Renata 主持守夜祈祷；Bianca 和她的女伴们过来念玫瑰经，求 Star 若不能回家也能上天堂。",
+      "anchor": "Bianca and her girls came over to pray the rosary",
+      "span": [
+        449,
+        498
+      ]
+    },
+    {
+      "statement": "Renata 挨个打电话问遍了市中心的医院，清单上最后一家是 St. Vincent’s；她先拨总机被转到急诊室（ER），但没人能告诉她任何消息。",
+      "anchor": "I went through all the hospitals downtown",
+      "span": [
+        1098,
+        1139
+      ]
+    },
+    {
+      "statement": "Renata 手捏写着 Claude 护士站号码的纸条在厨房里踱步煎熬了两分钟，然后拨了过去；接电话的正是 Claude，她问 Renata 需要什么帮助。",
+      "anchor": "pacing the kitchen with the scrap of paper in my hand",
+      "span": [
+        1514,
+        1567
+      ]
+    },
+    {
+      "statement": "Claude 说七楼有一个符合 Renata 朋友描述的伤者：情况稳定但被打得很惨，身份无法确认，还无法开口说话。",
+      "anchor": "We have someone who fits your friend’s description on seven.",
+      "span": [
+        2494,
+        2554
+      ]
+    },
+    {
+      "statement": "Renata 追问为何那人不在急诊室，Claude 说曾在那里、后被转到七楼，并问 Renata 能否在她下班前赶到医院。",
+      "anchor": "Can you get here before my shift ends?",
+      "span": [
+        2887,
+        2925
+      ]
+    },
+    {
+      "statement": "Renata 答应后挂断，随即打电话给 Bianca，告以 “Star 在 St. Vincent’s”、人在七楼；Bianca 说二十分钟、甚至十分钟内坐出租车赶到会合。",
+      "anchor": "I’ll meet you there in twenty. In ten; I’ll get a cab, I don’t care.",
+      "span": [
+        3424,
+        3492
+      ]
+    },
+    {
+      "statement": "Renata 出门时 Leon 已在外等候（她完全忘了约好去看 Kurt 的展览）；Leon 起初说 “I can’t go there”，最后还是挽起她的手臂、一起往西走去医院。",
+      "anchor": "But he put his arm in mine and marched us west anyway.",
+      "span": [
+        4419,
+        4473
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "who": "Star",
+      "relation": "叙述者 Renata 的挚友，失踪者；被怀疑即七楼那名被打伤、无法辨认的女子",
+      "anchor": "My friend Star is missing",
+      "span": [
+        1864,
+        1889
+      ]
+    },
+    {
+      "who": "Bianca",
+      "relation": "Renata 的朋友；带女伴们来守夜念玫瑰经，得知消息后打车赶往医院与 Renata 会合",
+      "anchor": "Bianca and her girls came over to pray the rosary",
+      "span": [
+        449,
+        498
+      ]
+    },
+    {
+      "who": "Claude",
+      "relation": "St. Vincent’s 护士站的护士；曾把护士站电话给 Renata，电话中向她透露七楼伤者的情况",
+      "anchor": "Claude had given me the phone number of her nursing station",
+      "span": [
+        1346,
+        1405
+      ]
+    },
+    {
+      "who": "Leon",
+      "relation": "Renata 的朋友；在外等她一起去看 Kurt 的展，抗拒去医院但最终陪她同往",
+      "anchor": "Leon was waiting for me outside",
+      "span": [
+        3564,
+        3595
+      ]
+    },
+    {
+      "who": "Kurt",
+      "relation": "办展的艺术家朋友；其展览一拖再拖，“becoming durational art”",
+      "anchor": "we’d finally go see Kurt’s show",
+      "span": [
+        3644,
+        3675
+      ]
+    },
+    {
+      "who": "Star 在新泽西的家人",
+      "relation": "没有把她逐出家门，但也不真正容忍她；偶有联系，已数周没有她的消息",
+      "anchor": "they hadn’t disowned her but they didn’t really tolerate her either",
+      "span": [
+        190,
+        257
+      ]
+    },
+    {
+      "who": "Star 的男友",
+      "relation": "Renata 口中的 “that piece of shit bastard”，被她认定把 Star 打得半死弃之不顾",
+      "anchor": "he must have left her for dead",
+      "span": [
+        3077,
+        3107
+      ]
+    },
+    {
+      "who": "Bianca 的女伴们",
+      "relation": "随 Bianca 来守夜念玫瑰经的 “beautiful friends”",
+      "anchor": "Her beautiful friends worked the beads with their fingers",
+      "span": [
+        553,
+        610
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "第九分局编号 Ninth Precinct",
+      "anchor": "we went to the Ninth Precinct",
+      "span": [
+        354,
+        383
+      ]
+    },
+    {
+      "value": "七楼（病房楼层）seven",
+      "anchor": "on seven.",
+      "span": [
+        2545,
+        2554
+      ]
+    },
+    {
+      "value": "失踪时长 About a week, we think. At least four days.",
+      "anchor": "About a week, we think. At least four days.",
+      "span": [
+        1986,
+        2029
+      ]
+    },
+    {
+      "value": "家人无消息的时长 in weeks",
+      "anchor": "they hadn’t heard from her in weeks",
+      "span": [
+        299,
+        334
+      ]
+    },
+    {
+      "value": "Bianca 赶到的时间 in twenty. In ten",
+      "anchor": "I’ll meet you there in twenty. In ten",
+      "span": [
+        3424,
+        3461
+      ]
+    },
+    {
+      "value": "煎熬时长 two minutes",
+      "anchor": "two minutes of agony",
+      "span": [
+        1492,
+        1512
+      ]
+    },
+    {
+      "value": "深呼吸次数 four long breaths",
+      "anchor": "I took four long breaths.",
+      "span": [
+        3496,
+        3521
+      ]
+    },
+    {
+      "value": "Star 的生日 Valentine’s Day",
+      "anchor": "Star’s birthday was Valentine’s Day",
+      "span": [
+        2347,
+        2382
+      ]
+    },
+    {
+      "value": "年份模糊指涉 years ago（叙述者曾找生病的母亲）",
+      "anchor": "years ago, I had to find my mother when she was sick",
+      "span": [
+        1022,
+        1074
+      ]
+    }
+  ],
+  "turning_point": {
+    "statement": "本章转折点：Claude 在电话里告诉 Renata，St. Vincent’s 七楼有一名符合 Star 外貌描述、被打得很惨且无法辨认、尚不能开口的女子（此前她先被送进急诊室后被转出）——失踪的 Star 由此变成“被丢下等死的伤者”，Renata 从无结果的寻找转入赶赴医院。",
+    "anchor": "We have someone who fits your friend’s description on seven.",
+    "span": [
+      2494,
+      2554
+    ]
+  },
+  "anchors_hit": 26,
+  "verify_cmd": "python3 -I -c \"import json;d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch26/1-suread.json'));t=open('/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch26_don_t_hang_up.txt',encoding='utf-8').read();items=[x for k in ('facts','relations','numbers') for x in d[k]]+[d['turning_point']];bad=[x['anchor'] for x in items if t.find(x['anchor'])!=x['span'][0] or t[x['span'][0]:x['span'][1]]!=x['anchor']];print('anchors',len(items),'bad',len(bad));assert not bad\""
+}

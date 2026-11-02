@@ -1,0 +1,860 @@
+{
+  "workflow": "R1 素读（suread）",
+  "book": "waiting-on-a-friend-by-natalie-adler",
+  "chapter": "ch10",
+  "chapter_title": "Never Call the Cops",
+  "genre": "novel (memoir/autofiction)",
+  "source_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch10_never_call_the_cops.txt",
+  "text_len": 5929,
+  "encoding": "utf-8",
+  "actions": [
+    {
+      "id": 1,
+      "who": "叙述者",
+      "what": "开门见到门外男人：矮个、方脸、被怠慢的红棕色平头（两侧长过陆军标准）、玳瑁眼镜偏老派、卡其裤与方格纸纹衬衫；判断他体面但明显不住本街区，既不诚实也不特别可信——那种从不用于善事的所谓中立",
+      "anchors": [
+        {
+          "anchor": "The man at my door was short with a square face and a neglected auburn crew cut",
+          "span": [
+            22,
+            101
+          ],
+          "offset_found": 22
+        },
+        {
+          "anchor": "the kind of alleged neutrality that never gets used for good, like Switzerland or The New York Times",
+          "span": [
+            463,
+            563
+          ],
+          "offset_found": 463
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "who": "叙述者",
+      "what": "一眼判定这人不会帮她／他，且意识到自己把他叫来本身就是搞砸了；用「叫警察」类比：不解决问题，只把事情升级到不可收拾",
+      "anchors": [
+        {
+          "anchor": "not only was this guy not going to help me",
+          "span": [
+            616,
+            658
+          ],
+          "offset_found": 616
+        },
+        {
+          "anchor": "I had fucked up in calling him",
+          "span": [
+            664,
+            694
+          ],
+          "offset_found": 664
+        },
+        {
+          "anchor": "like calling the cops",
+          "span": [
+            819,
+            840
+          ],
+          "offset_found": 819
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "who": "叙述者",
+      "what": "想象这男人把 François 按倒在地、上手铐拖走（他身上还是尿渍牛仔裤），动作慢就敲他后脑；并因自己的天真而心惊",
+      "anchors": [
+        {
+          "anchor": "I imagined the man tackling François to the floor and cuffing him",
+          "span": [
+            954,
+            1019
+          ],
+          "offset_found": 954
+        },
+        {
+          "anchor": "I was startled by my own naïveté",
+          "span": [
+            1132,
+            1164
+          ],
+          "offset_found": 1132
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "who": "叙述者（复述母亲）",
+      "what": "母亲教她永不信任警察：街上见警察闲逛就把她拉近身边，与之对视但不点头不微笑，让他们知道她也在盯着他们；并反复讲那段话——学校里最坏的孩子会去当警察，爱推搡爱打人，成年男人拿着棍子打人、回家打妻子孩子，孩子再当警察去打别人；你不必告诉他们任何事，你有权利。她答「Ma，我还是个孩子」，母亲说你有权利是因为你活着",
+      "anchors": [
+        {
+          "anchor": "My mother taught me never to trust the cops",
+          "span": [
+            1168,
+            1211
+          ],
+          "offset_found": 1168
+        },
+        {
+          "anchor": "if she saw cops loitering, she pulled me closer to her",
+          "span": [
+            1394,
+            1448
+          ],
+          "offset_found": 1394
+        },
+        {
+          "anchor": "make eye contact with them without nodding or smiling",
+          "span": [
+            1456,
+            1509
+          ],
+          "offset_found": 1456
+        },
+        {
+          "anchor": "The worst kids you know from school will become police",
+          "span": [
+            1608,
+            1662
+          ],
+          "offset_found": 1608
+        },
+        {
+          "anchor": "You have rights because you’re alive, remember that",
+          "span": [
+            2184,
+            2235
+          ],
+          "offset_found": 2184
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "who": "叙述者的母亲／Lupe",
+      "what": "母亲十几岁离家但没走远，只到 Village；当小孩时常逃跑、一般晚饭前回来；八岁那次带上最好的朋友 Lupe，两人本不该越过 Bowery 却一直走到 Hudson River；事后各自说对方太怂、睡不了码头哭着要回家",
+      "anchors": [
+        {
+          "anchor": "My mother left home as a teenager",
+          "span": [
+            2239,
+            2272
+          ],
+          "offset_found": 2239
+        },
+        {
+          "anchor": "when she was eight, she took her best friend, Lupe, with her",
+          "span": [
+            2411,
+            2471
+          ],
+          "offset_found": 2411
+        },
+        {
+          "anchor": "but they made it all the way to the Hudson River",
+          "span": [
+            2521,
+            2569
+          ],
+          "offset_found": 2521
+        },
+        {
+          "anchor": "the other was too chicken to sleep on the pier and whined to go home",
+          "span": [
+            2768,
+            2836
+          ],
+          "offset_found": 2768
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "who": "外祖父 / 警察 / Lupe / 外祖母 / Adele",
+      "what": "回到街区时警察已在那里，准备逮捕 Lupe 的母亲 Adele——因为外祖父认定孩子被人带走了，是他报的警；Lupe 扑上去抱住母亲的腿不放；外祖母对着警察骂「this woman has done nothing wrong, a shonde, a shonde」直到他们把手铐取下，再转头骂外祖父把当局牵扯进来，外祖父吼回去说 Ruthie 是他们唯一的孩子",
+      "anchors": [
+        {
+          "anchor": "the police were there, ready to arrest Lupe’s mother, Adele",
+          "span": [
+            2895,
+            2954
+          ],
+          "offset_found": 2895
+        },
+        {
+          "anchor": "my grandfather got it in his head that someone had taken them, and he called the police",
+          "span": [
+            3101,
+            3188
+          ],
+          "offset_found": 3101
+        },
+        {
+          "anchor": "Lupe ran up to her mother",
+          "span": [
+            3281,
+            3306
+          ],
+          "offset_found": 3281
+        },
+        {
+          "anchor": "this woman has done nothing wrong, a shonde, a shonde",
+          "span": [
+            3472,
+            3525
+          ],
+          "offset_found": 3472
+        },
+        {
+          "anchor": "until they took the cuffs off Adele",
+          "span": [
+            3527,
+            3562
+          ],
+          "offset_found": 3527
+        },
+        {
+          "anchor": "he screamed back that Ruthie was their only child",
+          "span": [
+            3642,
+            3691
+          ],
+          "offset_found": 3642
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "who": "外祖父 / 外祖母",
+      "what": "警察走后外祖父一巴掌把八岁的母亲打得此后头再也不能完全向左转；她被禁足一个月、且永不许再与 Lupe 玩，尽管住同一街区、后来仍像叙述者与 Bianca 那样找回了彼此；外祖母（较残留的虔信者）会引 Rabbi Gamliel 说提防当局——他们顺时装作慈爱，患难时却不站在你这边；母亲追问为何他们从不去庙里，外祖母说「It’s the Talmud!」，外祖父说「Don’t fill her head with that Galitzianer schlock!」",
+      "anchors": [
+        {
+          "anchor": "my grandfather smacked my eight-year-old mother so hard she could never turn her head all the way to the left",
+          "span": [
+            3855,
+            3964
+          ],
+          "offset_found": 3855
+        },
+        {
+          "anchor": "allowed to leave the apartment without her parents for a month",
+          "span": [
+            3988,
+            4050
+          ],
+          "offset_found": 3988
+        },
+        {
+          "anchor": "play with Lupe ever again",
+          "span": [
+            4070,
+            4095
+          ],
+          "offset_found": 4070
+        },
+        {
+          "anchor": "found each other when they were older, like Bianca and I did",
+          "span": [
+            4153,
+            4213
+          ],
+          "offset_found": 4153
+        },
+        {
+          "anchor": "Rabbi Gamliel said to be wary of authorities",
+          "span": [
+            4359,
+            4403
+          ],
+          "offset_found": 4359
+        },
+        {
+          "anchor": "It’s the Talmud",
+          "span": [
+            4578,
+            4593
+          ],
+          "offset_found": 4578
+        },
+        {
+          "anchor": "fill her head with that Galitzianer schlock",
+          "span": [
+            4633,
+            4676
+          ],
+          "offset_found": 4633
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "who": "叙述者的母亲 / 叙述者",
+      "what": "母亲少用严厉语气，但坚持说「Never call the cops」，更重要的是教她如何避免叫警察：找朋友去劝街上喊叫的男人、给公园里的流浪妇女带奶酪三明治和毯子；母亲每到一处都认识全街区的人，也人人认识她，她的处世格言是「make some friends and trust your gut」；叙述者是个害羞的孩子，十岁左右才明白母亲把她独自交给街区当保姆另有原因；母亲病倒去世后并没有像有些人那样在公寓里招苍蝇数日——总有人来敲门",
+      "anchors": [
+        {
+          "anchor": "I can still hear her say, Never call the cops",
+          "span": [
+            4753,
+            4798
+          ],
+          "offset_found": 4753
+        },
+        {
+          "anchor": "She would recruit a friend to talk to the man shouting in the street",
+          "span": [
+            4859,
+            4927
+          ],
+          "offset_found": 4859
+        },
+        {
+          "anchor": "bring a cheese sandwich and a blanket to the bag lady in the park",
+          "span": [
+            4931,
+            4996
+          ],
+          "offset_found": 4931
+        },
+        {
+          "anchor": "my mother knew everyone on the block, and everyone knew her",
+          "span": [
+            5035,
+            5094
+          ],
+          "offset_found": 5035
+        },
+        {
+          "anchor": "make some friends and trust your gut",
+          "span": [
+            5255,
+            5291
+          ],
+          "offset_found": 5255
+        },
+        {
+          "anchor": "By the time I was ten or so, I realized that she had other reasons",
+          "span": [
+            5453,
+            5519
+          ],
+          "offset_found": 5453
+        },
+        {
+          "anchor": "she got sick and died",
+          "span": [
+            5759,
+            5780
+          ],
+          "offset_found": 5759
+        },
+        {
+          "anchor": "There was always someone knocking on her door",
+          "span": [
+            5882,
+            5927
+          ],
+          "offset_found": 5882
+        }
+      ]
+    }
+  ],
+  "turning_point": {
+    "text": "本章转折点：开门那一刻叙述者就明白自己触犯了母亲一生的禁令——「叫人上门」等于叫警察（永不叫警察），她亲手把局面推向不可收拾；这一自我认识把当下的求助场景与母亲八岁那年的创伤家史（外祖父叫来警察→一巴掌）扣在一起。",
+    "anchors": [
+      {
+        "anchor": "I was startled by my own naïveté",
+        "span": [
+          1132,
+          1164
+        ],
+        "offset_found": 1132
+      },
+      {
+        "anchor": "I had fucked up in calling him",
+        "span": [
+          664,
+          694
+        ],
+        "offset_found": 664
+      },
+      {
+        "anchor": "I can still hear her say, Never call the cops",
+        "span": [
+          4753,
+          4798
+        ],
+        "offset_found": 4753
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "id": "R1",
+      "who": "叙述者 ↔ 母亲（Ruthie）",
+      "what": "母女。母亲是教育与戒律的来源：永不信任警察、信任直觉；外祖父口中可确认母亲名为 Ruthie、且是「唯一的孩子」",
+      "anchors": [
+        {
+          "anchor": "My mother taught me never to trust the cops",
+          "span": [
+            1168,
+            1211
+          ],
+          "offset_found": 1168
+        },
+        {
+          "anchor": "he screamed back that Ruthie was their only child",
+          "span": [
+            3642,
+            3691
+          ],
+          "offset_found": 3642
+        }
+      ]
+    },
+    {
+      "id": "R2",
+      "who": "母亲 ↔ 外祖父",
+      "what": "父女。外祖父 paranoid、持党证的共产党人，是他报警把警察引来；事后他打了母亲一巴掌，致其一生的颈部后遗",
+      "anchors": [
+        {
+          "anchor": "my grandfather got it in his head that someone had taken them, and he called the police",
+          "span": [
+            3101,
+            3188
+          ],
+          "offset_found": 3101
+        },
+        {
+          "anchor": "my grandfather smacked my eight-year-old mother",
+          "span": [
+            3855,
+            3902
+          ],
+          "offset_found": 3855
+        }
+      ]
+    },
+    {
+      "id": "R3",
+      "who": "母亲 ↔ 外祖母",
+      "what": "母女。外祖母骂警察救下 Adele，并引 Rabbi Gamliel 的告诫；也是「It’s the Talmud!」的出处",
+      "anchors": [
+        {
+          "anchor": "this woman has done nothing wrong, a shonde, a shonde",
+          "span": [
+            3472,
+            3525
+          ],
+          "offset_found": 3472
+        },
+        {
+          "anchor": "It’s the Talmud",
+          "span": [
+            4578,
+            4593
+          ],
+          "offset_found": 4578
+        }
+      ]
+    },
+    {
+      "id": "R4",
+      "who": "母亲（Ruthie） ↔ Lupe",
+      "what": "童年最好的朋友、八岁出走的同谋；被家里永久禁止往来，但长大后仍重逢——与叙述者和 Bianca 的重逢同构",
+      "anchors": [
+        {
+          "anchor": "when she was eight, she took her best friend, Lupe, with her",
+          "span": [
+            2411,
+            2471
+          ],
+          "offset_found": 2411
+        },
+        {
+          "anchor": "found each other when they were older, like Bianca and I did",
+          "span": [
+            4153,
+            4213
+          ],
+          "offset_found": 4153
+        }
+      ]
+    },
+    {
+      "id": "R5",
+      "who": "Lupe ↔ Adele",
+      "what": "母女。Adele 因女儿没回家吃晚饭而来找，反被警察要带走；Lupe 抱住母亲的腿不放",
+      "anchors": [
+        {
+          "anchor": "the police were there, ready to arrest Lupe’s mother, Adele",
+          "span": [
+            2895,
+            2954
+          ],
+          "offset_found": 2895
+        },
+        {
+          "anchor": "Lupe ran up to her mother",
+          "span": [
+            3281,
+            3306
+          ],
+          "offset_found": 3281
+        }
+      ]
+    },
+    {
+      "id": "R6",
+      "who": "叙述者 ↔ Bianca",
+      "what": "同龄／童年伙伴。Lupe 小时候把这段故事讲给 Bianca 和叙述者听；母亲与 Lupe 失而复得的关系，被叙述者视为自己与 Bianca 的镜像",
+      "anchors": [
+        {
+          "anchor": "when Lupe told the story to Bianca and me when we were little",
+          "span": [
+            2648,
+            2709
+          ],
+          "offset_found": 2648
+        },
+        {
+          "anchor": "like Bianca and I did",
+          "span": [
+            4192,
+            4213
+          ],
+          "offset_found": 4192
+        }
+      ]
+    },
+    {
+      "id": "R7",
+      "who": "叙述者 ↔ 门外的男人",
+      "what": "叙述者主动把他叫来求助，随即判定他不会帮忙并后悔（「calling him」）；男人与街区无关、身份在本文未交代",
+      "anchors": [
+        {
+          "anchor": "The man at my door was short",
+          "span": [
+            22,
+            50
+          ],
+          "offset_found": 22
+        },
+        {
+          "anchor": "I had fucked up in calling him",
+          "span": [
+            664,
+            694
+          ],
+          "offset_found": 664
+        }
+      ]
+    },
+    {
+      "id": "R8",
+      "who": "男人 ↔ François",
+      "what": "本文未写实际互动，只有叙述者脑内的暴力想象：男人把 François 按倒、铐住、拖走",
+      "anchors": [
+        {
+          "anchor": "I imagined the man tackling François to the floor and cuffing him",
+          "span": [
+            954,
+            1019
+          ],
+          "offset_found": 954
+        }
+      ]
+    },
+    {
+      "id": "R9",
+      "who": "叙述者的母亲 ↔ 街区众人",
+      "what": "母亲在搬过的每个街区都认识所有人、人人也认识她；「以街区为保姆」是她给叙述者留下的友善网，也解释了她去世时总有人敲门",
+      "anchors": [
+        {
+          "anchor": "my mother knew everyone on the block, and everyone knew her",
+          "span": [
+            5035,
+            5094
+          ],
+          "offset_found": 5035
+        },
+        {
+          "anchor": "make some friends and trust your gut",
+          "span": [
+            5255,
+            5291
+          ],
+          "offset_found": 5255
+        }
+      ]
+    },
+    {
+      "id": "R10",
+      "who": "外祖父 ↔ 当局（警察）",
+      "what": "报警一方；其戒备有政治来源——「card-carrying communist」",
+      "anchors": [
+        {
+          "anchor": "as a card-carrying communist, he had good reason to be",
+          "span": [
+            3225,
+            3279
+          ],
+          "offset_found": 3225
+        }
+      ]
+    }
+  ],
+  "numbers_dates": [
+    {
+      "id": "N1",
+      "who": "次数：一次",
+      "what": "逐字抄：One time, when she was eight（第 19 段）",
+      "anchors": [
+        {
+          "anchor": "One time, when she was eight",
+          "span": [
+            2401,
+            2429
+          ],
+          "offset_found": 2401
+        }
+      ]
+    },
+    {
+      "id": "N2",
+      "who": "年龄：八岁",
+      "what": "逐字抄：when she was eight",
+      "anchors": [
+        {
+          "anchor": "when she was eight",
+          "span": [
+            2411,
+            2429
+          ],
+          "offset_found": 2411
+        }
+      ]
+    },
+    {
+      "id": "N3",
+      "who": "年龄：八岁（复合形容词）",
+      "what": "逐字抄：my eight-year-old mother",
+      "anchors": [
+        {
+          "anchor": "my eight-year-old mother",
+          "span": [
+            3878,
+            3902
+          ],
+          "offset_found": 3878
+        }
+      ]
+    },
+    {
+      "id": "N4",
+      "who": "时长：一个月",
+      "what": "逐字抄：without her parents for a month",
+      "anchors": [
+        {
+          "anchor": "without her parents for a month",
+          "span": [
+            4019,
+            4050
+          ],
+          "offset_found": 4019
+        }
+      ]
+    },
+    {
+      "id": "N5",
+      "who": "年龄：十岁左右",
+      "what": "逐字抄：By the time I was ten or so",
+      "anchors": [
+        {
+          "anchor": "By the time I was ten or so",
+          "span": [
+            5453,
+            5480
+          ],
+          "offset_found": 5453
+        }
+      ]
+    },
+    {
+      "id": "N6",
+      "who": "时长：数日",
+      "what": "逐字抄：in her apartment for days",
+      "anchors": [
+        {
+          "anchor": "in her apartment for days",
+          "span": [
+            5806,
+            5831
+          ],
+          "offset_found": 5806
+        }
+      ]
+    },
+    {
+      "id": "N7",
+      "who": "模糊量：a lot（警察是很多种人）",
+      "what": "逐字抄：a lot of different people",
+      "anchors": [
+        {
+          "anchor": "a lot of different people",
+          "span": [
+            1236,
+            1261
+          ],
+          "offset_found": 1236
+        }
+      ]
+    },
+    {
+      "id": "N8",
+      "who": "模糊量：次数（搬了多少次家）",
+      "what": "逐字抄：No matter how many times we moved",
+      "anchors": [
+        {
+          "anchor": "No matter how many times we moved",
+          "span": [
+            5000,
+            5033
+          ],
+          "offset_found": 5000
+        }
+      ]
+    }
+  ],
+  "quantity_scan": [
+    {
+      "verbatim": "a lot",
+      "span": [
+        1236,
+        1241
+      ],
+      "quote": " trust the cops, and that the cops were a lot of different people, like caseworkers a"
+    },
+    {
+      "verbatim": "many",
+      "span": [
+        1319,
+        1323
+      ],
+      "quote": " and doctors and teachers who asked too many questions about what went on at home. W"
+    },
+    {
+      "verbatim": "a lot",
+      "span": [
+        1600,
+        1605
+      ],
+      "quote": " them right back.\n\n\nI heard this speech a lot: “The worst kids you know from school w"
+    },
+    {
+      "verbatim": "all",
+      "span": [
+        2349,
+        2352
+      ],
+      "quote": " to the Village. As a kid, she ran away all the time, only she usually came back by"
+    },
+    {
+      "verbatim": "One",
+      "span": [
+        2401,
+        2404
+      ],
+      "quote": ", only she usually came back by dinner. One time, when she was eight, she took her "
+    },
+    {
+      "verbatim": "eight",
+      "span": [
+        2424,
+        2429
+      ],
+      "quote": " back by dinner. One time, when she was eight, she took her best friend, Lupe, with h"
+    },
+    {
+      "verbatim": "all",
+      "span": [
+        2538,
+        2541
+      ],
+      "quote": "cross over the Bowery, but they made it all the way to the Hudson River. My mother "
+    },
+    {
+      "verbatim": "eight",
+      "span": [
+        3881,
+        3886
+      ],
+      "quote": " police left, my grandfather smacked my eight-year-old mother so hard she could never"
+    },
+    {
+      "verbatim": "year",
+      "span": [
+        3887,
+        3891
+      ],
+      "quote": "e left, my grandfather smacked my eight-year-old mother so hard she could never turn"
+    },
+    {
+      "verbatim": "all",
+      "span": [
+        3941,
+        3944
+      ],
+      "quote": "r so hard she could never turn her head all the way to the left after that. She was"
+    },
+    {
+      "verbatim": "month",
+      "span": [
+        4045,
+        4050
+      ],
+      "quote": "the apartment without her parents for a month, and she wasn’t to play with Lupe ever "
+    },
+    {
+      "verbatim": "many",
+      "span": [
+        5014,
+        5018
+      ],
+      "quote": "e bag lady in the park.\n\n\nNo matter how many times we moved, my mother knew everyone"
+    },
+    {
+      "verbatim": "ten",
+      "span": [
+        5471,
+        5474
+      ],
+      "quote": " and colored pencils. By the time I was ten or so, I realized that she had other re"
+    },
+    {
+      "verbatim": "days",
+      "span": [
+        5827,
+        5831
+      ],
+      "quote": "idn’t gather flies in her apartment for days, which happened to some people (it was "
+    }
+  ],
+  "anchors_hit": {
+    "total": 66,
+    "hit": 66,
+    "all_pass": true,
+    "miss": []
+  },
+  "verify_cmd": "python3 -I -c \"import json;d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch10/1-suread.json',encoding='utf-8'));t=open(d['source_file'],encoding='utf-8').read();g=[it for k in ('actions','relationships','numbers_dates') for it in d[k]]+[d['turning_point']];xs=[x for it in g for x in it['anchors']];bad=[x for x in xs if (t.find(x['anchor'])==x['span'][0] and t[x['span'][0]:x['span'][1]]==x['anchor'])==False];print('anchors_total',len(xs));print('anchors_hit',len(xs)-len(bad));print('all_pass',not bad);print('miss',json.dumps(bad,ensure_ascii=False))\"",
+  "notes": [
+    "只读了 text/ 里的这一章；未引用任何 .md／规则／脚本内容。",
+    "门外男人的职业、与叙述者的关系名分、François 的状态，本章均未明写：不补。",
+    "叙述者姓名本章未出现；只在「Bianca and me / Bianca and I」处出现 Bianca。",
+    "母亲名为 Ruthie（由外祖父转述）；外祖父母与 Adele 的姓／名均只出现一次。",
+    "章内 H1 形态：首行 'Never Call the Cops'（无编号）。",
+    "数字类语句除 N1–N8 外，模糊量词全量落在 quantity_scan（同日/年等日历日期在本章无出现）。"
+  ]
+}

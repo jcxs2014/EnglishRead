@@ -1,0 +1,690 @@
+{
+  "chapter": "ch09_rest_in_piss",
+  "chapter_title": "Rest in Piss",
+  "source_txt": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch09_rest_in_piss.txt",
+  "read_scope": "R1 素读：仅读本章 .txt 原文，未读 .md / scripts / docs。",
+  "actions": [
+    {
+      "id": 1,
+      "action": "从 Patrick 家回到家，发现 François 正在墨西哥买的羊毛地毯（“the deity”）上尿尿；她伸手摸湿处确认是真尿，把地毯对折两次搬到浴缸冲洗。",
+      "anchors": [
+        {
+          "anchor": "When I got home from Patrick’s, there was François, pissing on our rug.",
+          "span": [
+            15,
+            86
+          ]
+        },
+        {
+          "anchor": "François was pissing on the deity.",
+          "span": [
+            327,
+            361
+          ]
+        },
+        {
+          "anchor": "I touched the wet spot on the rug",
+          "span": [
+            506,
+            539
+          ]
+        },
+        {
+          "anchor": "I folded the rug in half, in half again, and brought it to the bathtub to rinse out.",
+          "span": [
+            636,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "action": "François 尖叫，她吐回去“What do you want me to do?”，并像 Mark 姐姐说的“婴儿哭我也哭”那样对着他壕叫。",
+      "anchors": [
+        {
+          "anchor": "François started to scream so I screamed back",
+          "span": [
+            980,
+            1025
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "action": "想要帮助与睡眠、想要朋友回来，但不知向谁求助；记起抽屉里 Manhattan Remediation 的号码，拿起电话犹豫后拨号。",
+      "anchors": [
+        {
+          "anchor": "I still had the number for Manhattan Remediation in my junk drawer.",
+          "span": [
+            1670,
+            1737
+          ]
+        },
+        {
+          "anchor": "I picked up the phone. He kept screaming. I hesitated. I dialed.",
+          "span": [
+            2131,
+            2195
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "action": "接线员 Marta 按话术报出机构名，她只说“I need help.”；被追问是哪种 “sensorial encounter” 时，她只答”他叫得很多”。",
+      "anchors": [
+        {
+          "anchor": "Manhattan Remediation, this is Marta, how may I be of assistance today?",
+          "span": [
+            2277,
+            2348
+          ]
+        },
+        {
+          "anchor": "There’s a presence here who won’t leave, and I really need to get some sleep.",
+          "span": [
+            4672,
+            4749
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "action": "做接诊对答：她只承认认识对方、关系是朋友兼邻居、年龄猜 Thirty-five-ish；隐瞬死因只说他长过脑瘤；Marta 说要派资深技术员 Dr. Silverman。",
+      "anchors": [
+        {
+          "anchor": "Friend. Neighbor. Why?",
+          "span": [
+            6401,
+            6423
+          ]
+        },
+        {
+          "anchor": "I just said he’d had a brain tumor.",
+          "span": [
+            6772,
+            6807
+          ]
+        },
+        {
+          "anchor": "I’ll send over Dr. Silverman,",
+          "span": [
+            5958,
+            5987
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "action": "挂电话后 François 安静下来，她坐到地板上仰视他，告诉他“Mark died”，并哭着追问他知不知道、在不在意。",
+      "anchors": [
+        {
+          "anchor": "Mark died",
+          "span": [
+            7633,
+            7642
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "action": "她对 François 说他已经死了、不必再疛痛、可以安息；他回应低语“Non non non.”，随后飘下来第一次直视她，两人都哭，她像念咒般不停道歉。",
+      "anchors": [
+        {
+          "anchor": "Do you know that you’re dead, François? You don’t have to hurt like this anymore.",
+          "span": [
+            8119,
+            8200
+          ]
+        },
+        {
+          "anchor": "Non non non.",
+          "span": [
+            7888,
+            7900
+          ]
+        },
+        {
+          "anchor": "He floated down and, for the first time, looked at me straight.",
+          "span": [
+            8286,
+            8349
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "action": "有人敲门，她惊跳；两人都转向门，门外男人说“You reported a disturbance, ma’am?”",
+      "anchors": [
+        {
+          "anchor": "Someone knocked, and I jumped.",
+          "span": [
+            8769,
+            8799
+          ]
+        },
+        {
+          "anchor": "You reported a disturbance, ma’am?",
+          "span": [
+            8853,
+            8887
+          ]
+        }
+      ]
+    }
+  ],
+  "turning_point": {
+    "text": "转折点：她拨通 Manhattan Remediation（而且在接诊中隐瞬死因、只说脑瘤）之后，François 安静下来；她终于把“你已经死了、可以休息”说出口，他第一次直视她——紧接着门被敲响（她抬来的“治理”人员上门）。",
+    "anchors": [
+      {
+        "anchor": "I picked up the phone. He kept screaming. I hesitated. I dialed.",
+        "span": [
+          2131,
+          2195
+        ]
+      },
+      {
+        "anchor": "I just said he’d had a brain tumor.",
+        "span": [
+          6772,
+          6807
+        ]
+      },
+      {
+        "anchor": "Do you know that you’re dead, François? You don’t have to hurt like this anymore.",
+        "span": [
+          8119,
+          8200
+        ]
+      },
+      {
+        "anchor": "He floated down and, for the first time, looked at me straight.",
+        "span": [
+          8286,
+          8349
+        ]
+      },
+      {
+        "anchor": "Someone knocked, and I jumped.",
+        "span": [
+          8769,
+          8799
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "pair": "我（叙述者）— François",
+      "text": "老朋友兼邻居（她对 Marta 只说“Friend. Neighbor.”），现在是纠缠她的鬼魂；生前先被认为痴呆、后死于脑病并发症，最后一个月充满幻觉与癫痫。",
+      "anchors": [
+        {
+          "anchor": "Friend. Neighbor. Why?",
+          "span": [
+            6401,
+            6423
+          ]
+        },
+        {
+          "anchor": "He had died of complications (don’t we all) from encephalopathy",
+          "span": [
+            4185,
+            4248
+          ]
+        },
+        {
+          "anchor": "His face had gotten so eaten up by KS you could barely distinguish his features.",
+          "span": [
+            3965,
+            4045
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "我 — Mark",
+      "text": "Mark 已死（她当面告诉 François“Mark died”）；那块地毯就放在 Mark 的房间；François 也是 Mark 的朋友。",
+      "anchors": [
+        {
+          "anchor": "Mark died",
+          "span": [
+            7633,
+            7642
+          ]
+        },
+        {
+          "anchor": "we kept it in Mark’s room",
+          "span": [
+            215,
+            240
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "我 — Claude",
+      "text": "她在 Claude 家过夜，但累到两人没做爱（“we didn’t even have sex”，她倒头就睡）。",
+      "anchors": [
+        {
+          "anchor": "I stayed over at Claude’s, but we didn’t even have sex",
+          "span": [
+            2915,
+            2969
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "我 — Leon — François",
+      "text": "她与 Leon 一起探望病中的 François；Leon 学了一点法语，依然听不懂 François 睡中的吶语。",
+      "anchors": [
+        {
+          "anchor": "I’d go with Leon to visit him when it got too hard to go alone.",
+          "span": [
+            4313,
+            4376
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "我 — Patrick",
+      "text": "本章开头她正从 Patrick 家回来；她对自己和 Patrick 都有怒气。",
+      "anchors": [
+        {
+          "anchor": "When I got home from Patrick’s, there was François, pissing on our rug.",
+          "span": [
+            15,
+            86
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Mark 的姐姐们 — 我",
+      "text": "Mark 一位“总在怀孕”的姐姐曾告诉她：婴儿一哭她就哭（说时还在笑）。",
+      "anchors": [
+        {
+          "anchor": "One of Mark’s perpetually pregnant sisters had told me once",
+          "span": [
+            1056,
+            1115
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "Marta — Dr. Silverman",
+      "text": "Marta 是 Manhattan Remediation 接线员，指定资深技术员 Dr. Silverman 上门，称他最擅处理“complicated cases”。",
+      "anchors": [
+        {
+          "anchor": "I’ll send over Dr. Silverman,",
+          "span": [
+            5958,
+            5987
+          ]
+        }
+      ]
+    },
+    {
+      "pair": "François — 他的家人",
+      "text": "她试探是否代他联系家人，他像咬皮带一样尖叫拒绝。",
+      "anchors": [
+        {
+          "anchor": "When I asked him if he wanted me to try to get in touch with his family, he screamed",
+          "span": [
+            3658,
+            3742
+          ]
+        }
+      ]
+    }
+  ],
+  "numbers_dates": [
+    {
+      "verbatim": "’68",
+      "context": "He was a student in ’68, I knew that much. （她算不准他年龄的依据）",
+      "anchors": [
+        {
+          "anchor": "He was a student in ’68, I knew that much.",
+          "span": [
+            6492,
+            6534
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "Thirty-five-ish",
+      "context": "她向 Marta 提供的年龄估计（她并不确定》",
+      "anchors": [
+        {
+          "anchor": "Thirty-five-ish?",
+          "span": [
+            6577,
+            6593
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "twenty to thirty minutes",
+      "context": "Dr. Silverman 可在此时间内到达（前提：住在 Twenty-third Street 以南）",
+      "anchors": [
+        {
+          "anchor": "next twenty to thirty minutes",
+          "span": [
+            6988,
+            7017
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "Twenty-third Street",
+      "context": "地址条件：if you reside below Twenty-third Street",
+      "anchors": [
+        {
+          "anchor": "Twenty-third Street",
+          "span": [
+            7038,
+            7057
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "twenty to thirty minutes",
+      "context": "她回想与 François 对峰的时长（第二处同样的时间段）",
+      "anchors": [
+        {
+          "anchor": "less than twenty to thirty minutes",
+          "span": [
+            7962,
+            7996
+          ]
+        }
+      ]
+    },
+    {
+      "verbatim": "911",
+      "context": "Marta 说你也可以试 911（她没打）",
+      "anchors": [
+        {
+          "anchor": "try 911",
+          "span": [
+            7339,
+            7346
+          ]
+        }
+      ]
+    }
+  ],
+  "anchors_hit": 32,
+  "anchors_total": 32,
+  "all_anchors": [
+    {
+      "anchor": "When I got home from Patrick’s, there was François, pissing on our rug.",
+      "span": [
+        15,
+        86
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "François was pissing on the deity.",
+      "span": [
+        327,
+        361
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I touched the wet spot on the rug",
+      "span": [
+        506,
+        539
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I folded the rug in half, in half again, and brought it to the bathtub to rinse out.",
+      "span": [
+        636,
+        720
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "François started to scream so I screamed back",
+      "span": [
+        980,
+        1025
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I still had the number for Manhattan Remediation in my junk drawer.",
+      "span": [
+        1670,
+        1737
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I picked up the phone. He kept screaming. I hesitated. I dialed.",
+      "span": [
+        2131,
+        2195
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Manhattan Remediation, this is Marta, how may I be of assistance today?",
+      "span": [
+        2277,
+        2348
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "There’s a presence here who won’t leave, and I really need to get some sleep.",
+      "span": [
+        4672,
+        4749
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Friend. Neighbor. Why?",
+      "span": [
+        6401,
+        6423
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I just said he’d had a brain tumor.",
+      "span": [
+        6772,
+        6807
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I’ll send over Dr. Silverman,",
+      "span": [
+        5958,
+        5987
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Mark died",
+      "span": [
+        7633,
+        7642
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Do you know that you’re dead, François? You don’t have to hurt like this anymore.",
+      "span": [
+        8119,
+        8200
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Non non non.",
+      "span": [
+        7888,
+        7900
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "He floated down and, for the first time, looked at me straight.",
+      "span": [
+        8286,
+        8349
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Someone knocked, and I jumped.",
+      "span": [
+        8769,
+        8799
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "You reported a disturbance, ma’am?",
+      "span": [
+        8853,
+        8887
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "He had died of complications (don’t we all) from encephalopathy",
+      "span": [
+        4185,
+        4248
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "His face had gotten so eaten up by KS you could barely distinguish his features.",
+      "span": [
+        3965,
+        4045
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "we kept it in Mark’s room",
+      "span": [
+        215,
+        240
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I stayed over at Claude’s, but we didn’t even have sex",
+      "span": [
+        2915,
+        2969
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "I’d go with Leon to visit him when it got too hard to go alone.",
+      "span": [
+        4313,
+        4376
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "One of Mark’s perpetually pregnant sisters had told me once",
+      "span": [
+        1056,
+        1115
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "When I asked him if he wanted me to try to get in touch with his family, he screamed",
+      "span": [
+        3658,
+        3742
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "He was a student in ’68, I knew that much.",
+      "span": [
+        6492,
+        6534
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Thirty-five-ish?",
+      "span": [
+        6577,
+        6593
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "next twenty to thirty minutes",
+      "span": [
+        6988,
+        7017
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "Twenty-third Street",
+      "span": [
+        7038,
+        7057
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "less than twenty to thirty minutes",
+      "span": [
+        7962,
+        7996
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "try 911",
+      "span": [
+        7339,
+        7346
+      ],
+      "occurrences": 1
+    },
+    {
+      "anchor": "She cleared her throat and recited,",
+      "span": [
+        5728,
+        5763
+      ],
+      "occurrences": 1
+    }
+  ],
+  "verify_cmd": "python3 -I -c \"import json;t=open('/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch09_rest_in_piss.txt').read();d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch09/1-suread.json'));bad=[a['anchor'] for a in d['all_anchors'] if t.find(a['anchor'])<0 or t[a['span'][0]:a['span'][1]]!=a['anchor']];print('FAIL',bad) if bad else print('OK',len(d['all_anchors']))\""
+}

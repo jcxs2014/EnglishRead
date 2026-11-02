@@ -1,0 +1,216 @@
+{
+ "chapter": "ch24",
+ "text_file": "notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch24_who_is_a_city_for.txt",
+ "chars": 15852,
+ "facts": [
+  {
+   "n": 1,
+   "fact": "俱乐部外，Julie 吐出一线烟，把我想打听「死人的公寓」直接点破；我靠她凡事看成「系统性而非个人」的性子，不必深谈自己的悲伤。",
+   "anchors": [
+    {
+     "anchor": "Julie exhaled a line of smoke like in the movies",
+     "start": 39,
+     "end": 87
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "fact": "街上一个踉跄的男人来讨钱，两人从口袋里掏了几块钱给他；Julie 说她曾有个在公寓里做 Santería 的客户，被按轻罪处理，我问「驱魔算不算犯罪」，她只答「Misdemeanor」。",
+   "anchors": [
+    {
+     "anchor": "A guy staggered over asking for change and we dug some dollars out of our pockets.",
+     "start": 899,
+     "end": 981
+    },
+    {
+     "anchor": "I had a client once who did Santería out of her apartment.",
+     "start": 1011,
+     "end": 1069
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "fact": "继续走，路过一个哭花睫毛、朝窗口喊「Babe!」的女人（窗口探头的金发女是我几年前睡过的人），两人赶紧走过那栋楼；到我的街区后 Julie 提议我请她上楼；上楼时她在第三层停住喘气，让我想起 Mark 一层一停。",
+   "anchors": [
+    {
+     "anchor": "so we booked it past that building until we came to my block and she suggested I invite her up.",
+     "start": 1421,
+     "end": 1516
+    },
+    {
+     "anchor": "Julie paused after the third flight.",
+     "start": 1549,
+     "end": 1585
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "fact": "进屋后 Julie 踢掉鞋，我也照做；两人穿过 Mark 的房间进厨房；她拿起一面火灾中幸存、属于 François 的小镜子，用尾指点唇，说「只是口红」。",
+   "anchors": [
+    {
+     "anchor": "Julie kicked off her shoes and I did the same",
+     "start": 2257,
+     "end": 2302
+    },
+    {
+     "anchor": "She picked up a small mirror on the table",
+     "start": 2625,
+     "end": 2666
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "fact": "警笛与蓝光扫过窗口：我说「热天危险」，Julie 反问「对谁？」；街灯自 Silverman 来过后就没亮过；我羞于承认自己就是叫「鬼警察」的人，于是岔开话题，搬出 Bianca 的说法——背后有更大的资金（比如政府）。",
+   "anchors": [
+    {
+     "anchor": "The streetlight had been out since Silverman visited.",
+     "start": 3267,
+     "end": 3320
+    },
+    {
+     "anchor": "That they must have someone bigger funding them, like the government.",
+     "start": 3457,
+     "end": 3526
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "fact": "进我卧室后我替 Julie 开窗抽烟、谢绝她递来的 menthol；她说更可能是这帮人自己搞的骗局、上层乐见其成，我说问题不在政府偷偷做什么而在它什么都不做，她接「Benign neglect」，把话抬成「Who is a city really for?」，并提高嗓门骂计划性萎缩把地铁、学校、医院、消防都放烂；我拿出从墨西哥带回、杯底有十字的 shot glasses 倒威士忌。",
+   "anchors": [
+    {
+     "anchor": "Who is a city really for?",
+     "start": 4617,
+     "end": 4642
+    },
+    {
+     "anchor": "I got up for my favorite shot glasses from Mexico",
+     "start": 5295,
+     "end": 5344
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "fact": "轮到我喝一杯时我坦白「我给鬼警察打电话举报了 François」；Julie 说人都会搞砸，问我之后做了什么，我说「把他找回来弄出来了」；她说这算不算「鬼监狱」，我说他们在西边肉联厂区有仓库、把鬼关在冰柜的笼子里，又追问我和这帮人是不是都看得见鬼，我答他们其实看不见、只是怕；随后她追问 Mary Ellen 长什么样、是否 see-through，两人举杯「To Mary Ellen」。",
+   "anchors": [
+    {
+     "anchor": "Tracked him down and got him out.",
+     "start": 6463,
+     "end": 6496
+    },
+    {
+     "anchor": "They have a warehouse on the west side, where all the meatpacking plants are.",
+     "start": 6534,
+     "end": 6611
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "fact": "那晚两人聊到很晚、一起睡着；我醒来后煮咖啡、做法式煎蛋卷，想到 Mark 已经不想吃东西；早餐时 Julie 建议把前屋租出去、问起那个「护士」（Claude），我把蛋壳弹向她；她三口吃完起身，说要去就得「穿得专业」，我答应凑一套；她走后我掀掉 tablecloth、猛地打开母亲的 steamer trunk，把裙子、毯子、照片一路扔到地上，直到箱子空。",
+   "anchors": [
+    {
+     "anchor": "you need to dress professional",
+     "start": 11822,
+     "end": 11852
+    },
+    {
+     "anchor": "I threw the lid open so hard that it smacked the floor.",
+     "start": 15639,
+     "end": 15694
+    }
+   ]
+  }
+ ],
+ "relations": [
+  "Julie ↔ 我：长期有过性关系的旧伴（「someone you've been sleeping with for so long」），出街与借宿都常在一起；她做的是替人对抗房东的活，会把我的私事看成系统问题，也从不问我要不要谈。",
+  "Mark ↔ 我：已故的同住挚友，「我们不是家人而是朋友」；这是他和我回城后安顿、送走我母亲的地方；他没吃完的胃口、怕被锁在箱子里、留下的镜子与衣箱都在这一章反复出现。",
+  "François ↔ 我：隔壁邻居（「François was right next door」）；我打电话举报了他，后来又把他弄出来；他那面幸存的镜子还在我家桌上。",
+  "Bianca ↔ 我：给我提供线索的人，认为鬼警察背后有更大的钱（政府）；她主张「动他们的钱就是动他们」，并计划去 Manhattan Remediation 走一趟。",
+  "Claude ↔ 我：我交往过的那位「护士」，来自 Brooklyn、住 Village；Julie 认为分手是因为我不愿被卷入，她「不想跟一个里面全碎了的人在一起」。",
+  "Star ↔ 我：「可能来住一阵」，要回我电话；Julie 断言她从不长住。",
+  "Mary Ellen ↔ 我 / Rick：跳图书馆自杀的女人；我见过她，她当时看着 Rick、哭却不出声。",
+  "Julie 的妈 ↔ Ba（Uncle Jason 的药房外）：Julie 转述她妈以为自己看见了 Ba。",
+  "Leon ↔ 我母亲：我母亲死后，他把酒铺用的纸箱拖来给我装遗物。"
+ ],
+ "numbers": [
+  {
+   "value": "1971",
+   "fact": "母亲遗物里那张住处拐角鸡尾酒廊的空火柴盒，落款是 1971 年。",
+   "anchors": [
+    {
+     "anchor": "from where we lived in 1971",
+     "start": 14530,
+     "end": 14557
+    }
+   ]
+  },
+  {
+   "value": "third flight",
+   "fact": "Julie 上楼时在第三层停下喘气（我因此想到 Mark 逐层停）。",
+   "anchors": [
+    {
+     "anchor": "after the third flight",
+     "start": 1562,
+     "end": 1584
+    }
+   ]
+  },
+  {
+   "value": "two more shots",
+   "fact": "Julie 追问 Mary Ellen 的故事时抓过瓶子又倒了两杯。",
+   "anchors": [
+    {
+     "anchor": "poured up two more shots",
+     "start": 7456,
+     "end": 7480
+    }
+   ]
+  },
+  {
+   "value": "three bites",
+   "fact": "早餐时 Julie 三口吃完煎蛋卷就起身要走。",
+   "anchors": [
+    {
+     "anchor": "She ate her breakfast in three bites",
+     "start": 11735,
+     "end": 11771
+    }
+   ]
+  },
+  {
+   "value": "thirty days",
+   "fact": "我想到要再凑够钱活过又一个三十天。",
+   "anchors": [
+    {
+     "anchor": "live another thirty days",
+     "start": 12417,
+     "end": 12441
+    }
+   ]
+  },
+  {
+   "value": "a few years ago",
+   "fact": "Julie 喊的那个窗口探头金发女，是我几年前睡过的人。",
+   "anchors": [
+    {
+     "anchor": "I had slept with a few years ago",
+     "start": 1387,
+     "end": 1419
+    }
+   ]
+  }
+ ],
+ "turning_point": "我承认是自己打电话举报了 François 之后，Julie 把内疚翻成政治问题（「Who is a city really for?」）并推我「穿得专业」去赴 Bianca 的 Manhattan Remediation 之行；她走后我掀开母亲的 steamer trunk 清空它——由倾诉转向行动与收拾。",
+ "anchors_hit": {
+  "total": 21,
+  "hit": 21,
+  "failed": []
+ },
+ "verify_cmd": "python3 -I -c \"import json,sys;t=open('notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch24_who_is_a_city_for.txt',encoding='utf-8').read();d=json.load(open('.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch24/1-suread.json',encoding='utf-8'));A=[a for g in (d['facts']+d['numbers']) for a in g['anchors']];bad=[a for a in A if t.find(a['anchor'])<0 or t[a['start']:a['end']]!=a['anchor']];print('anchors',len(A),'bad',bad);sys.exit(1 if bad else 0)\""
+}

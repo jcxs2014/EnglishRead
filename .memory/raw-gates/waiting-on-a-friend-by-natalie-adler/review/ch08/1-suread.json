@@ -1,0 +1,258 @@
+{
+  "book_dir": "notes/books/novels/waiting-on-a-friend-by-natalie-adler",
+  "chapter": "ch08",
+  "chapter_title": "Deranged",
+  "source_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch08_deranged.txt",
+  "stage": "R1 素读（suread）",
+  "actions": [
+    {
+      "id": "A1",
+      "action": "Mark 越来越多地留宿 Patrick 家（理由是爬楼梯太吃力），但还没搬走；叙述者担心他很快会搬。",
+      "anchor": "Mark had started staying over at Patrick’s more and more.",
+      "span": [
+        545,
+        602
+      ]
+    },
+    {
+      "id": "A2",
+      "action": "Mark 与 Patrick 开始交往，时间与叙述者开始和 Claude 交往同期；叙述者一直想介绍 Claude 给 Mark 但没找到机会。",
+      "anchor": "Mark and Patrick started seeing each other around the same time I started seeing Claude.",
+      "span": [
+        735,
+        823
+      ]
+    },
+    {
+      "id": "A3",
+      "action": "叙述者趁 Mark 在家、在厨房餐桌写日记时坐下，脱口说出她见过 François。",
+      "anchor": "Mark was writing in his journal at the kitchen table when I sat down and blurted it out.",
+      "span": [
+        1462,
+        1550
+      ]
+    },
+    {
+      "id": "A4",
+      "action": "Mark 合上笔记本、沉默一分钟，起身放了一张唱片《Marquee Moon》。",
+      "anchor": "He got up and put a record on. Marquee Moon.",
+      "span": [
+        1918,
+        1962
+      ]
+    },
+    {
+      "id": "A5",
+      "action": "Mark 坐在地板上抱膝、紧绷后摊成 X 形，问叙述者是否问过那些死者「怎么知道自己死了」。",
+      "anchor": "have you ever asked them how they know they’re dead?",
+      "span": [
+        2473,
+        2525
+      ]
+    },
+    {
+      "id": "A6",
+      "action": "叙述者用「鬼魂的感受多于它们所知道的」作答；Mark 呻吟、双眼紧闭，反问为什么要把这事告诉他。",
+      "anchor": "Why would you tell me this?",
+      "span": [
+        3680,
+        3707
+      ]
+    },
+    {
+      "id": "A7",
+      "action": "Mark 起身拔唱针，说要去 Patrick 家，此后没有回家。",
+      "anchor": "He got up and cut the needle, said he was going to Patrick’s, and he didn’t come home.",
+      "span": [
+        3820,
+        3906
+      ]
+    },
+    {
+      "id": "A8",
+      "action": "次日叙述者打电话留言：承认不该说那话，约一起去散步。",
+      "anchor": "The next day, I called and left a message",
+      "span": [
+        3909,
+        3950
+      ]
+    }
+  ],
+  "turning_point": {
+    "text": "叙述者把「见过死后的 François」说出口，Mark 不再只是「越来越常住 Patrick 家」，而是当场离开去了 Patrick 家并不再回来——本章是叙述者失去 Mark 的节点。",
+    "anchor": "He got up and cut the needle, said he was going to Patrick’s, and he didn’t come home.",
+    "span": [
+      3820,
+      3906
+    ]
+  },
+  "relationships": [
+    {
+      "id": "R1",
+      "note": "Mark ↔ Patrick：恋人/越来越认真，Mark 越来越多住他家并最终离开去他那里。",
+      "anchor": "Mark was getting serious about Patrick",
+      "span": [
+        1065,
+        1103
+      ]
+    },
+    {
+      "id": "R2",
+      "note": "叙述者 ↔ Claude：叙述者开始了新的感情（与 Mark–Patrick 同期），但尚未介绍给 Mark。",
+      "anchor": "I was starting to have feelings for someone new",
+      "span": [
+        1163,
+        1210
+      ]
+    },
+    {
+      "id": "R3",
+      "note": "叙述者 ↔ Mark：同居的伴侣关系正在瓦解；叙述者说「我在失去 Mark」，却没能说出怕失去他。",
+      "anchor": "I wish I had just told him that I was scared of losing him.",
+      "span": [
+        1214,
+        1273
+      ]
+    },
+    {
+      "id": "R4",
+      "note": "François ↔ Mark：François 也是 Mark 的朋友（不只是叙述者的）。",
+      "anchor": "François was Mark’s friend, too.",
+      "span": [
+        11,
+        43
+      ]
+    },
+    {
+      "id": "R5",
+      "note": "François ↔ 两人（共同记忆）：François 教过他们法语动词 déranger（被烦扰/不便）。",
+      "anchor": "you use the verb déranger to mean bothered or inconvenienced",
+      "span": [
+        2828,
+        2888
+      ]
+    },
+    {
+      "id": "R6",
+      "note": "Mark ↔ Marky Moon：Mark 偶尔穿的银色舞会裙与他的变装名 Marky Moon。",
+      "anchor": "his drag name, Marky Moon",
+      "span": [
+        2019,
+        2044
+      ]
+    },
+    {
+      "id": "R7",
+      "note": "叙述者 ↔ 亡者（François 等）：叙述者见过很多死去的朋友，只对 Mark 说了 François。",
+      "anchor": "I told Mark about François’s showing up on our fire escape",
+      "span": [
+        407,
+        465
+      ]
+    }
+  ],
+  "numbers_dates": [
+    {
+      "id": "N1",
+      "verbatim": "The next day",
+      "note": "次日（章节内唯一成规模的日期推进）",
+      "anchor": "The next day, I called and left a message",
+      "span": [
+        3909,
+        3950
+      ]
+    },
+    {
+      "id": "N2",
+      "verbatim": "the night before",
+      "note": "叙述者前一晚见过 François",
+      "anchor": "I had seen François the night before and I couldn’t get him out of my mind.",
+      "span": [
+        1551,
+        1626
+      ]
+    },
+    {
+      "id": "N3",
+      "verbatim": "in the morning",
+      "note": "她早上醒来发现 Mark 在家",
+      "anchor": "when I woke up in the morning",
+      "span": [
+        1663,
+        1692
+      ]
+    },
+    {
+      "id": "N4",
+      "verbatim": "for a minute",
+      "note": "Mark 沉默了一分钟",
+      "anchor": "didn’t say anything for a minute",
+      "span": [
+        1790,
+        1822
+      ]
+    },
+    {
+      "id": "N5",
+      "verbatim": "more and more",
+      "note": "Mark 住 Patrick 家的频率递增",
+      "anchor": "Mark had started staying over at Patrick’s more and more.",
+      "span": [
+        545,
+        602
+      ]
+    },
+    {
+      "id": "N6",
+      "verbatim": "around the same time",
+      "note": "两段关系开始的时间重合",
+      "anchor": "around the same time I started seeing Claude",
+      "span": [
+        778,
+        822
+      ]
+    }
+  ],
+  "extras": {
+    "arabic_digit_tokens": [],
+    "arabic_digit_count": 0,
+    "french_quote": "Ça vous dérange?",
+    "french_quote_count": 2,
+    "french_quote_first_span": [
+      2891,
+      2907
+    ],
+    "curly_quote_anchor_check": "all anchors start/end on non-curly-quote chars: True",
+    "text_len": 4085
+  },
+  "anchors_hit": {
+    "hit": 22,
+    "total": 22,
+    "per_anchor": {
+      "A1": true,
+      "A2": true,
+      "A3": true,
+      "A4": true,
+      "A5": true,
+      "A6": true,
+      "A7": true,
+      "A8": true,
+      "TP": true,
+      "R1": true,
+      "R2": true,
+      "R3": true,
+      "R4": true,
+      "R5": true,
+      "R6": true,
+      "R7": true,
+      "N1": true,
+      "N2": true,
+      "N3": true,
+      "N4": true,
+      "N5": true,
+      "N6": true
+    }
+  },
+  "method": "Python str.find；每条的 span=[start,end] 按 find 结果计算并断言 t[start:end]==anchor；锚点为裸子串、标点照原文、首尾均非弯引号。",
+  "verify_cmd": "python3 -I /tmp/r1_ch08_build.py /Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch08_deranged.txt /Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch08/1-suread.json"
+}

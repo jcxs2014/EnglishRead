@@ -1,0 +1,163 @@
+{
+  "chapter": "ch22",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch22_negativity.txt",
+  "chars": 13809,
+  "facts": [
+    {
+      "text": "Star 当晚要去见制片人、需要一身新 outfit，于是站在落地镜前用扇形刷上腮红，并像念咒一样重复那句 look is polished 的自我暗示。",
+      "anchor": "She stood in front of the floor-length mirror applying blush with a fan-tipped brush",
+      "start": 226,
+      "end": 310
+    },
+    {
+      "text": "Star 把过去一年的野心说成要把音乐剧 Yentl 搬上尽量贴近百老汇的舞台，眼下先在 Pyramid Club 排练，并想像 Babs 本人那样自导自演。",
+      "anchor": "up and running as close to Broadway as she could get",
+      "start": 528,
+      "end": 580
+    },
+    {
+      "text": "Renata 开口问 Star 最早是怎么听说 Manhattan Remediation 的，理由是对方前一晚上过 EVTV。",
+      "anchor": "Star, how did you first hear about Manhattan Remediation? They were on EVTV last night",
+      "start": 1133,
+      "end": 1219
+    },
+    {
+      "text": "Star 转述表姐 Sharon（在 Bendel's 上班、住 Village，与另外四个女生同住）的屋子里有人 OD、随后她们收到传单；她没去问对方有没有打电话，因为觉得失礼。",
+      "anchor": "She lives in the Village with like four other girls and one of them OD",
+      "start": 2274,
+      "end": 2344
+    },
+    {
+      "text": "Bianca 不笑，细讲 C and D 一带的扫荡：整条街停满警车与厢式车，人从街上被带走、楼栋被突袭，再以各种名目起诉，末了某个小毒贩在 Danbury 被判十五年到无期。",
+      "anchor": "some nickel-bag peddler gets fifteen to life in Danbury",
+      "start": 3465,
+      "end": 3520
+    },
+    {
+      "text": "Cynthia 从后间出来、戴上霓虹黄三角耳坠，抛出她的「吸引力」论：逝者不留恋、她不信鬼，dark energy 招 dark energy；临走还叮嘱 Renata 打烊时关后间的灯。",
+      "anchor": "Negativity begets negativity",
+      "start": 7332,
+      "end": 7360
+    },
+    {
+      "text": "Star 清嗓后换了口气，向 Renata 提出想在她那儿借住一两周、说自己正在攒钱只是需要一点帮助；Renata 以「那是 Mark 的房间」为由只说让我再想想。",
+      "anchor": "I was wondering if maybe I could crash with you for a week or two",
+      "start": 9355,
+      "end": 9420
+    },
+    {
+      "text": "Star 出门后 Bianca 逼问：先说自己已搬回和 Lupe 住、不想谈此事，再把 Ruthie 当年受 Lupe 主动收留的旧事搬出来施压，并点明三种朋友关系；Renata 最后答应打给 Star（Star 现住 Cris 处）。",
+      "anchor": "I know Mark was your best friend. Star is my best friend. I’m your oldest friend",
+      "start": 12245,
+      "end": 12325
+    }
+  ],
+  "relations": [
+    {
+      "text": "Renata 与 Bianca：最早的挚友；Bianca 会直接施压、也会拥抱她，并说「我帮你」。",
+      "anchor": "I’m your oldest friend",
+      "start": 12303,
+      "end": 12325
+    },
+    {
+      "text": "Bianca 与 Star：彼此最好的朋友，Star 已在 Bianca 处住过；Bianca 主张 Star 不该睡沙发或地板。",
+      "anchor": "Star is my best friend",
+      "start": 12279,
+      "end": 12301
+    },
+    {
+      "text": "Star 与 Renata：朋友，但 Renata 明说 Star 不是她会打电话闲聊的人，最后仍答应让她借住。",
+      "anchor": "she wasn’t someone I would call up to yap",
+      "start": 10690,
+      "end": 10731
+    },
+    {
+      "text": "Renata 与 Mark（已故）：Mark 是 Renata 最好的朋友；她仍在哀悼、自私得自觉正当，也因为感觉不到他而恼火。",
+      "anchor": "I haven’t felt him at all",
+      "start": 13245,
+      "end": 13270
+    },
+    {
+      "text": "Cynthia 与 Renata：雇主与店员关系；Cynthia 对 Bianca 与 Star 的魅力感到受压，却乐意她们来店里带动生意。",
+      "anchor": "obviously intimidated by their glamour",
+      "start": 4623,
+      "end": 4661
+    },
+    {
+      "text": "Bianca 与 Lupe：Bianca 目前又搬回去和 Lupe 住，称这只是暂时的、不愿多谈。",
+      "anchor": "And I don’t want to talk about it, so don’t ask",
+      "start": 10550,
+      "end": 10597
+    },
+    {
+      "text": "Renata 与母亲 Ruthie：当年母女俩无处可住时是 Lupe 主动收留；Bianca 拿这件事来压 Renata。",
+      "anchor": "Lupe saw what was up and offered",
+      "start": 11782,
+      "end": 11814
+    },
+    {
+      "text": "Star 与 Sharon：表姐妹；Sharon 在 Bendel's 上班，住 Village，那间屋子的传单由此传给 Star。",
+      "anchor": "my cousin Sharon, the one who works at Bendel",
+      "start": 2225,
+      "end": 2270
+    }
+  ],
+  "numbers": [
+    {
+      "text": "EVTV 上一次",
+      "anchor": "They were on EVTV last night",
+      "start": 1191,
+      "end": 1219
+    },
+    {
+      "text": "十五年到无期",
+      "anchor": "fifteen to life in Danbury",
+      "start": 3494,
+      "end": 3520
+    },
+    {
+      "text": "住一两周",
+      "anchor": "for a week or two",
+      "start": 9403,
+      "end": 9420
+    },
+    {
+      "text": "攒钱（未给具体数额）",
+      "anchor": "I’m saving up for my own place",
+      "start": 9451,
+      "end": 9481
+    },
+    {
+      "text": "夜里八点",
+      "anchor": "The sign says you’re open ’til eight",
+      "start": 11029,
+      "end": 11065
+    },
+    {
+      "text": "过去一年",
+      "anchor": "For the last year",
+      "start": 441,
+      "end": 458
+    },
+    {
+      "text": "四位同住女生",
+      "anchor": "with like four other girls",
+      "start": 2299,
+      "end": 2325
+    },
+    {
+      "text": "最后一枚七十五分硬币",
+      "anchor": "her last seventy-five cents",
+      "start": 10860,
+      "end": 10887
+    }
+  ],
+  "turning_point": {
+    "text": "Star 提出想借住一两周、Renata 先以 Mark 的房间为由推拖后答应；Bianca 随即把话挑明——Mark 是 Renata 最好的朋友、Star 是 Bianca 最好的朋友、自己是 Renata 最早的朋友——Renata 承认自己一直感觉不到 Mark、也没看见他，这正是她对 ghost cops 如此火大的原因；Bianca 用拥抱和「这不是二选一」收场，末句只说她来帮 Renata。",
+    "anchor": "It’s not an either-or, you know",
+    "start": 12980,
+    "end": 13011
+  },
+  "anchors_hit": 25,
+  "verify_cmd": "python3 -I -c \"import json;d=json.load(open('/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch22/1-suread.json'));t=open(d['text_file'],encoding='utf-8').read();xs=[x for k in ('facts','relations','numbers') for x in d[k]]+[d['turning_point']];assert all(t.find(x['anchor'])>=0 and t[x['start']:x['end']]==x['anchor'] for x in xs),'anchor mismatch';assert d['chars']==len(t) and d['anchors_hit']==len(xs) and 5<=len(d['facts'])<=8,'count mismatch';print('anchors_hit',d['anchors_hit'])\""
+}

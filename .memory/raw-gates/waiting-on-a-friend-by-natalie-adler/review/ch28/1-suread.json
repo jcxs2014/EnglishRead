@@ -1,0 +1,221 @@
+{
+  "chapter": "ch28",
+  "text_file": "notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch28_heaven.txt",
+  "chars": 2945,
+  "facts": [
+    {
+      "id": "F1",
+      "fact": "叙述者向 Julie 打听 Bowery 上女人跳窗后未落地即消失的地点，Julie 立刻给出掌故：那是百年前 CBGBs 对面的恶名妓院。",
+      "anchor": "I asked Julie, and of course she knew all about it",
+      "span": [
+        222,
+        272
+      ]
+    },
+    {
+      "id": "F2",
+      "fact": "一位穿烧焦衣裙、头发却湿透的女人用德语当面问叙述者她的孩子在哪（叙述者只是因为它「听起来像意第绪语」才听懂，而她本不知道自己懂意第绪语）。",
+      "anchor": "asked me in German where her child was",
+      "span": [
+        576,
+        614
+      ]
+    },
+    {
+      "id": "F3",
+      "fact": "另一个黑发垂到臀部、穿鸟羽大衣的女人沿 Broadway 尾随叙述者走了好几个街区。",
+      "anchor": "followed me for blocks up Broadway",
+      "span": [
+        790,
+        824
+      ]
+    },
+    {
+      "id": "F4",
+      "fact": "叙述者试着凭记忆画认识且已失去的人的脸，但一想到要补上眼睛就抓不住他们的相貌；她看不见他们所见的，因而看不见他们。",
+      "anchor": "I tried drawing faces from memory, people I knew and had lost",
+      "span": [
+        1508,
+        1569
+      ]
+    },
+    {
+      "id": "F5",
+      "fact": "进入九月后的日常：她与 Julie、Tanya 出门，看对眼就跟人做爱，因大腿把裤裆烧出的洞大到无法忽视而买了条新牛仔裤。",
+      "anchor": "I’d go out with Julie and Tanya, I’d have some sex if someone caught my eye",
+      "span": [
+        1930,
+        2005
+      ]
+    },
+    {
+      "id": "F6",
+      "fact": "她反复回去放「Heaven」，因为她觉得那个小艺术书呆子说得对——天堂就是人人泡着、什么都不发生的酒吧。",
+      "anchor": "I kept going back and playing “Heaven” because I thought that little art nerd was right",
+      "span": [
+        2264,
+        2351
+      ]
+    },
+    {
+      "id": "F7",
+      "fact": "她去看 Star，警察没去；打死 Michael Stewart 的警察，其案子被驳回（起诉撤销）。",
+      "anchor": "the cops did not. The cops who beat Michael Stewart to death had their case dismissed",
+      "span": [
+        2441,
+        2526
+      ]
+    },
+    {
+      "id": "F8",
+      "fact": "众人争论做 AIDS 检测是否有用（除了把自己列进政府名单）；她追问：若检测只意味着「接触过」是否人人都会阳性、若确诊却自觉没事会不会把人逼疯。",
+      "anchor": "Everyone argued about whether or not getting tested for AIDS would be any use",
+      "span": [
+        2528,
+        2605
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "叙述者 → Julie",
+      "relation": "亡灵掌故的问询对象；Julie「当然全都知道」，张口给出地点史。",
+      "anchor": "and of course she knew all about it",
+      "span": [
+        237,
+        272
+      ]
+    },
+    {
+      "pair": "叙述者 ↔ Tanya",
+      "relation": "一起出门的同伴（与 Julie 并列）。",
+      "anchor": "go out with Julie and Tanya",
+      "span": [
+        1934,
+        1961
+      ]
+    },
+    {
+      "pair": "叙述者 ↔ Claude",
+      "relation": "仍在世上、可以轻松交谈的人；她觉得去想念这样一个人显得蠢，可（交谈）并不轻松。",
+      "anchor": "miss someone who was still around, whom I could talk to easily",
+      "span": [
+        2856,
+        2918
+      ]
+    },
+    {
+      "pair": "叙述者 → Star",
+      "relation": "她去看望 Star；警察不去。",
+      "anchor": "I visited Star, the cops did not",
+      "span": [
+        2425,
+        2457
+      ]
+    },
+    {
+      "pair": "警察 ↔ Michael Stewart",
+      "relation": "警察把 Michael Stewart 打死，该案被驳回。",
+      "anchor": "The cops who beat Michael Stewart to death had their case dismissed",
+      "span": [
+        2459,
+        2526
+      ]
+    },
+    {
+      "pair": "叙述者 ↔ 那个小艺术书呆子",
+      "relation": "他「天堂即酒吧」的说法被她判为「说得对」。",
+      "anchor": "that little art nerd was right",
+      "span": [
+        2321,
+        2351
+      ]
+    },
+    {
+      "pair": "羽毛大衣女人 → 叙述者",
+      "relation": "尾随叙述者沿 Broadway 走过好几个街区。",
+      "anchor": "followed me for blocks up Broadway",
+      "span": [
+        790,
+        824
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "the end of summer",
+      "note": "章首时间：夏末",
+      "anchor": "the end of summer",
+      "span": [
+        16,
+        33
+      ]
+    },
+    {
+      "value": "a hundred years ago",
+      "note": "Julie 给出的年代：一百年前",
+      "anchor": "a hundred years ago",
+      "span": [
+        312,
+        331
+      ]
+    },
+    {
+      "value": "well into September",
+      "note": "时间：那个夏天一直拖进九月",
+      "anchor": "well into September",
+      "span": [
+        1768,
+        1787
+      ]
+    },
+    {
+      "value": "The Summer Mark Died",
+      "note": "专名：该夏之名",
+      "anchor": "The Summer Mark Died",
+      "span": [
+        1718,
+        1738
+      ]
+    },
+    {
+      "value": "black hair down to her hips",
+      "note": "长度描写：黑发垂到臀",
+      "anchor": "black hair down to her hips",
+      "span": [
+        728,
+        755
+      ]
+    },
+    {
+      "value": "for blocks",
+      "note": "距离：好几个街区（不确数）",
+      "anchor": "for blocks",
+      "span": [
+        802,
+        812
+      ]
+    },
+    {
+      "value": "a new pair of jeans",
+      "note": "数量：一条新牛仔裤",
+      "anchor": "a new pair of jeans",
+      "span": [
+        2016,
+        2035
+      ]
+    },
+    {
+      "value": "Michael Stewart",
+      "note": "专名：被警察打死者",
+      "anchor": "Michael Stewart",
+      "span": [
+        2477,
+        2492
+      ]
+    }
+  ],
+  "turning_point": "本章转折点：夏末亡灵喧嚣升级（Bowery 跳窗女、德语母亲、羽毛大衣尾随者）被日常化之后，叙述者的注意力从街头亡灵转向人世的 Claude——主动「想到」这个仍在身边、还能轻松交谈的人，却承认这份「不轻松」。",
+  "anchors_hit": 23,
+  "verify_cmd": "python3 -I -c 'import json,sys;t=open(\"/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch28_heaven.txt\",encoding=\"utf-8\").read();d=json.load(open(\"/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch28/1-suread.json\",encoding=\"utf-8\"));it=[(x[\"anchor\"],x[\"span\"]) for k in (\"facts\",\"relations\",\"numbers\") for x in d[k]];bad=[a for a,s in it if not (t.find(a)>=0 and t[s[0]:s[1]]==a)];print(\"anchors_hit\",len(it)-len(bad),\"of\",len(it));sys.exit(1 if bad else 0)'"
+}

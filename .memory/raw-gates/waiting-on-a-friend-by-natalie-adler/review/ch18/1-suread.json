@@ -1,0 +1,466 @@
+{
+  "schema": "raw-gate/R1-suread/1",
+  "book": "waiting-on-a-friend-by-natalie-adler",
+  "unit": "ch18",
+  "gate": "R1-suread（单文件素读）",
+  "source": {
+    "path": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch18_boundaries.txt",
+    "sha256": "c36460ac1005071cd84caea034b8ef3f577b14954b25068cb07da16d9f05116a",
+    "chars": 8310,
+    "title_line": "Boundaries",
+    "title_line_span": [
+      0,
+      10
+    ]
+  },
+  "actions": [
+    {
+      "id": "A1",
+      "who": "Renata（叙述者）与 Claude",
+      "what": "两人一路不说话，走过高架下「$0.59 鸡腿」的招牌与一箱箱橙子，直走到水边（哈德逊河与光都是灰的，Renata 甩不掉冷藏库的寒气）；Claude 掏出香烟却点不着，Renata 判断她比自己表现出来的更受震动。随后 Renata 说只有一个念头：「我们得回去做点什么」，并给出方案——「放他们出来，逐个笼子手动来会花些时间，但没别的办法」；Claude 把没点着的烟夹到耳后，只回一句「And then what?」——Renata 感到两人之间像有人把气放掉了。",
+      "span": [
+        13,
+        802
+      ],
+      "anchor": "We walked without talking past the signs for $0.59 chicken legs and the crates of oranges, under the elevated, straight to the water. The Hudson was gray, the light was gray. I couldn’t shake the refrigerator’s chill, and the humidity made it worse. Claude pulled a pack of cigarettes out of her back pocket and struggled to light one—she must have been more shook up than she let on. She flipped her lighter shut and let the dud cigarette dangle from her lips. “So, no shit, huh.”\n\n\nI had only one thought: “We gotta go back there and do something.”\n\n\n“Do what.”\n\n\n“Free them. It’ll take a while to do each cage manually, but I don’t know what else we can do.”\n\n\nShe stuck the unlit cigarette behind her ear. “And then what?”\n\n\nI felt a shift between us, like someone had let the air out."
+    },
+    {
+      "id": "A2",
+      "who": "Claude → Renata",
+      "what": "Claude 把语气放软，先问「What is this doing to you, Renata?」，Renata 反问「你是什么意思」；Claude 说明自己是受过训练、拿钱办事的人，反问 Renata 把自己整个打开去吸收这些是在做什么；Renata 想把话拉回「这不是关于我」，Claude 顶回去：你不能揣着那样东西还说自己没事。",
+      "span": [
+        1170,
+        1467
+      ],
+      "anchor": "She asked, softer, “What is this doing to you, Renata?”\n\n\n“What do you mean?”\n\n\n“I get paid for what I do. I got trained. But you, you just go around absorbing all that? Do you know what you’re doing?”\n\n\n“It’s not about me, we gotta—”\n\n\n“You can’t hold something like that and tell me you’re okay."
+    },
+    {
+      "id": "A3",
+      "who": "Renata 与 Claude",
+      "what": "Renata 低头看浑浊的河水（想着「掉进去太容易了」）并问「你看见他了吗」；Claude 侧过头答「我不知道我看到了什么」，并说自己不是在否认——只是不知道看到的是什么；Renata 庆幸她没否认，认定 Claude 确实招呼过他、感到过他在，只是我们最依赖的那一样感官（sight）给不出她能信的答案；她心里生出「也许我来教她」。",
+      "span": [
+        1692,
+        2132
+      ],
+      "anchor": "I looked down at the murky river. It would be so easy to fall in. “Did you see him?”\n\n\n“I don’t know what I saw.” She looked at me askance, and then said, “I’m not denying…but I don’t know what I saw.”\n\n\nI was glad she wasn’t denying it. And I knew that she had addressed him, felt him, knew he was there, even if her sight, that one singular sense that we rely so heavily on, didn’t tell her something she could trust. Maybe I’d teach her."
+    },
+    {
+      "id": "A4",
+      "who": "Renata 与 Claude",
+      "what": "Renata 肯定她「在里面时知道该怎么做」；Claude 说她只是跟那人讲了话——有人正在难过，就试着把他讲通（她再次试着点烟；Renata 想替她把双手稳住，但看来她不想被碰）。Claude 自己接着往下说：若他是带着目的回来的倒还好，可他只是「Leftover」、像没地方可去；她连着喊了两声 Lord，做了一个像要画十字的手势又收回。",
+      "span": [
+        2319,
+        2897
+      ],
+      "anchor": "I said, “You knew exactly what to do in there.”\n\n\n“I just talked to the guy. That’s what you do if someone’s having a tough time, you try and talk ’em through.” She tried to light her cigarette again. I wanted to put my hands over hers to steady them, but it didn’t seem like she wanted to be touched.\n\n\nShe went on. “It’d be one thing if he was back for a purpose, you know? He was just…I don’t know what he was. Leftover. Like he had no place to go. Lord,” she said, exhaling. “Lord.” She made a quick gesture like she was about to cross herself and then thought better of it."
+    },
+    {
+      "id": "A5",
+      "who": "Claude 与 Renata",
+      "what": "Renata 想设身处地、用「第一次见鬼」的经验去共情；Claude 打断她：她不听这一套——她不懂鬼，也无法应对死者、不知道该怎么帮他们，她帮的是活人（That’s what I do）。Renata 坚持「至少你得承认它是真的」，Claude 嗤了一声：我每天都看人死，他妈的天天。",
+      "span": [
+        2900,
+        3347
+      ],
+      "anchor": "I tried to put myself in her shoes. I tried to remember how I felt the first time I saw a ghost. “I know that the first encounter with a ghost can be—”\n\n\n“Uh-uh. You’re not listening. I don’t know about ghosts. I’m telling you that I can’t deal with the dead. I can’t help them. I don’t know how to do that. I help the living. That’s what I do.”\n\n\n“But you have to agree it’s real.”\n\n\nShe snorted. “I see people die every day. Every goddamned day."
+    },
+    {
+      "id": "A6",
+      "who": "Claude 与 Renata",
+      "what": "Claude 皱眉说她是在意，但人得有 boundaries——「下了班（off the clock）我就不能做这个」；Renata（心里 hurt、语气发酸）用宣誓质问她「难道你没宣过誓要帮人吗」；Claude 把范围限定为「To those in my care」（在我照护范围内的人），点着烟深吸一口后说 Renata 根本不知道她的日子：她们在最旧最烂那栋楼最脏的一层新开了一个病房，已经住满。",
+      "span": [
+        3717,
+        4198
+      ],
+      "anchor": "I care. But you gotta have boundaries. I can’t do this when I’m off the clock.”\n\n\nI wasn’t angry at her—I didn’t feel anything but empty—but I couldn’t help my words from coming out salty. “Didn’t you take an oath to help people?”\n\n\n“To those in my care, yes.” She finally got her cigarette to light and took a deep drag. She exhaled slowly. “You have no idea what my days are like. We opened a new ward on the dirtiest floor of our oldest, shittiest building. It’s already packed."
+    },
+    {
+      "id": "A7",
+      "who": "Renata 与 Claude",
+      "what": "Renata 把一只啤酒瓶踢进河里，说只想把他们弄出来（「像个该死的牢」）；Claude 把话拉回自身：她讲的是身体、是心里的安宁、是她累。她停下脚步正对她，讲这病没法治、全身每个系统同时垮，一天到晚只能往墙上扔东西看什么粘得住——有人几分钟内就要死还要求插管，昨天她得决定给不给一个可能让他立刻死、也可能让他多活几周的药（「He’s gonna die anyway, so may as well!」）；她说这不是情绪上的重量，是工作本身。Renata 把手试探地搭上她手臂（感到她略微放松）再搂住她，说想听她讲；Claude 只是轻声说下班就把它放掉更好：七点一到她就把事留在门口，不然会 burn out。",
+      "span": [
+        4202,
+        5392
+      ],
+      "anchor": "I kicked a beer bottle into the river. “I just want to get them out. It’s like a fucking jail. It doesn’t have to be an emotional investment, it’s just—”\n\n\n“Emotional? Honey, I’m talking about my body. I’m talking about my peace of mind. I’m tired.”\n\n\n“I know, I know, I can’t imagine how hard—”\n\n\n“No, you don’t know.” She stopped walking and faced me. “It’s impossible to treat this thing. It affects every damn system of the body all at once. All day, we’re throwing shit at the wall to see what sticks. I got guys minutes from death asking to be intubated. Yesterday, I had to decide if I should give this guy a drug that might kill him immediately or help him live a few more weeks, but I thought, He’s gonna die anyway, so may as well! Do you understand what I’m saying? It’s not just weighing on me emotionally. I’m talking about the work.”\n\n\nI put my hand on her arm tentatively. I felt her relax just slightly, and then I put my arm around her. “I want you to tell me about it.”\n\n\n“It feels better to just let it go when I’m off the clock,” she said quietly. “Seven p.m. comes around, I leave it at the door. Isn’t there any kind of way you can do the same? You burn out otherwise."
+    },
+    {
+      "id": "A8",
+      "who": "Renata 与 Claude",
+      "what": "Renata 抢在对方之前把拒绝替她说出口（「你不想帮，行，我明白」）——那不是她想说的；她希望自己更勇敢、能按她的条件与她相处，但必须保住自己以免彻底绝望；她顺势宣告自己大概会忙不过来、不会在她眼前出现。Claude 回头问「It’s like that, huh?」，Renata 只回「It is what it is.」。Claude 先给她一个硬眼神（脑中闪过性，被她抖掉）后神色变软——Renata 看出她在为自己难过；Claude 把一只手搭上她肩膀，留下「You survive it. I’ve dealt with this pain, and you survive it.」；两人再无话说，Renata 在感到她的手移开之前就知道她已经走了；转身时她已过了那条公路——她没回头——Renata 等她从视野里消失，然后向东走，离开河边。",
+      "span": [
+        7276,
+        8309
+      ],
+      "anchor": "You don’t want to help, all right. I understand.” It’s not what I wanted to say, but that’s what I said. I wished I was a little bit braver and could meet her on her terms, but I needed to hold on to myself or I’d risk total desperation. “I’ll have my hands full, probably, so you won’t see me around.”\n\n\nShe turned back to me. “It’s like that, huh?”\n\n\nIt hurt, but I felt like if I did anything more than shrug, I’d die on the spot. “It is what it is.”\n\n\nShe gave me a hard look—sex flicked across my brain but I shook it off—before her face softened. She was feeling sorry for me. I turned back toward the river and felt a hand on my shoulder. I couldn’t turn around to look at her, but I heard what she said. “You survive it. I’ve dealt with this pain, and you survive it.”\n\n\nNeither of us said anything more. I knew she was gone before I felt her hand move.\n\n\nI turned around and she was already across the highway. I waited until she disappeared from my sight—she didn’t look back—before making my way east, away from the river."
+    }
+  ],
+  "turning_point": {
+    "text": "本章转折点：Claude 把帮忙的边界钉在「下班」上——她在意，但「you gotta have boundaries」、off the clock 就不做；Renata 由「我们一起收拾那些混蛋」转向替对方把拒绝说出口（「你不想帮，我明白」「你不会在我眼前出现」），两人的计划与关系一起松开：Claude 只留一句「你挺过去」便离开，Renata 独自向东离开河边。",
+    "span": [
+      3717,
+      3795
+    ],
+    "anchor": "I care. But you gotta have boundaries. I can’t do this when I’m off the clock."
+  },
+  "relationships": [
+    {
+      "id": "R1",
+      "pair": "Renata ↔ Claude（这段关系之重）",
+      "who": "Renata ↔ Claude（这段关系之重）",
+      "what": "Renata 自问是不是把「可能只是几个热夜」的相遇做得太重：她说自己此前从没有跟人同居、或在第一次约会就说爱的冲动（最接近的一次是 Mark，见 R2）；忽然她想求 Claude 留下，而这个冲动让她收紧。",
+      "span": [
+        6825,
+        7272
+      ],
+      "anchor": "Maybe I was rushing toward Claude, trying to make something more out of what might have just been a couple of hot nights. I never really had the impulse to shack up with someone before or say I love you on the first date. The closest I had ever been to that was with Mark, but that wasn’t a date, it was an escape—a long ride that had only just come to an abrupt end. Suddenly, I wanted to beg Claude to stay, and that instinct made me tighten up."
+    },
+    {
+      "id": "R2",
+      "pair": "Renata ↔ Mark",
+      "who": "Renata ↔ Mark",
+      "what": "Renata 自认此前最接近「安定下来/说爱」的一次是 Mark，但那不是约会而是逃（an escape）——一段长途 ride，且刚刚突然结束。",
+      "span": [
+        7047,
+        7192
+      ],
+      "anchor": "The closest I had ever been to that was with Mark, but that wasn’t a date, it was an escape—a long ride that had only just come to an abrupt end."
+    },
+    {
+      "id": "R3",
+      "pair": "Renata ↔ Claude（求助 vs 边界）",
+      "who": "Renata ↔ Claude（求助 vs 边界）",
+      "what": "Renata 把手试探地搭上她手臂（感到她略微放松）、再搂住她，说想听她把那些事讲出来；Claude 的回应仍是她只在照护范围内、下班就放下。",
+      "span": [
+        5052,
+        5188
+      ],
+      "anchor": "I put my hand on her arm tentatively. I felt her relax just slightly, and then I put my arm around her. “I want you to tell me about it."
+    },
+    {
+      "id": "R4",
+      "pair": "Claude ↔ 死者/鬼",
+      "who": "Claude ↔ 死者/鬼",
+      "what": "Claude 划下死界线：不懂鬼、不能应对死者、也帮不了他们；她帮的是活人——这正是她与 Renata 的冲突点（Renata 要的是「它至少是真的」）。",
+      "span": [
+        3111,
+        3244
+      ],
+      "anchor": "I’m telling you that I can’t deal with the dead. I can’t help them. I don’t know how to do that. I help the living. That’s what I do."
+    },
+    {
+      "id": "R5",
+      "pair": "Claude ↔ 鬼（她仍忍不住想）",
+      "who": "Claude ↔ 鬼（她仍忍不住想）",
+      "what": "她一边说不管死者，一边追问鬼能有多老、会不会随年岁变强、有没有真正 move on；她不喜欢「死者得不到安息」这个念头。",
+      "span": [
+        5598,
+        6072
+      ],
+      "anchor": "How old do you think a ghost can be?” she asked.\n\n\n“You mean like how long ago they died?”\n\n\n“Yeah. You ever see a two-hundred-year-old ghost?”\n\n\nI didn’t know how much she really wanted to know. She was watching a scary movie but peeking out behind her fingers. “I’ve seen some old ones, I think.”\n\n\n“Do they get stronger the older they are? Do they ever really move on?” She pulled away from me to look at the water. “I don’t like thinking that the dead don’t get to rest."
+    },
+    {
+      "id": "R6",
+      "pair": "Claude ↔ 河流（她自静的办法）",
+      "who": "Claude ↔ 河流（她自静的办法）",
+      "what": "她说只要有够长的休息就爱来河边走，想象一道水流沿河而下、到岛的尖端挤过 Staten Island 与 Brooklyn 汇入海洋——「It’s gone, but it’s everywhere—the Caribbean, back across the Atlantic.」；她把烟弹进水里，说这让她平静。",
+      "span": [
+        6182,
+        6532
+      ],
+      "anchor": "I like to walk over here if I have a long enough break. I like to picture a current that runs down the river to the tip of the island. Then it squeezes between Staten Island and Brooklyn and it empties out to the ocean. It’s gone, but it’s everywhere—the Caribbean, back across the Atlantic.” She flicked her cigarette into the water. “Calms me down."
+    },
+    {
+      "id": "R7",
+      "pair": "Claude ↔ 她的病人/工作",
+      "who": "Claude ↔ 她的病人/工作",
+      "what": "她照护的是「in my care」范围内的人；她说这病没法治、全身每个系统同时垮、一天到晚只能往墙上扔东西看什么粘得住；有人几分钟内就要死还要求插管；昨天她要决定给不给一个可能立刻致命、或让他多活几周的药——理由是「他反正要死，那就来吧」。",
+      "span": [
+        4557,
+        4943
+      ],
+      "anchor": "It’s impossible to treat this thing. It affects every damn system of the body all at once. All day, we’re throwing shit at the wall to see what sticks. I got guys minutes from death asking to be intubated. Yesterday, I had to decide if I should give this guy a drug that might kill him immediately or help him live a few more weeks, but I thought, He’s gonna die anyway, so may as well!"
+    },
+    {
+      "id": "R8",
+      "pair": "Claude ↔ Renata（结尾）",
+      "who": "Claude ↔ Renata（结尾）",
+      "what": "Claude 没有争辩，把一只手搭上她肩、留下「你挺过去，我处理过这种痛，你也会挺过去」便离开；Renata 在感到她的手移开之前就知道她已经走了。",
+      "span": [
+        7989,
+        8051
+      ],
+      "anchor": "You survive it. I’ve dealt with this pain, and you survive it."
+    }
+  ],
+  "numbers_dates": [
+    {
+      "id": "N1",
+      "who": "—",
+      "what": "路过时看到的高架下招牌上的鸡腿价（$0.59 chicken legs）",
+      "span": [
+        58,
+        76
+      ],
+      "anchor": "$0.59 chicken legs",
+      "verbatim": "$0.59",
+      "note": "逐字"
+    },
+    {
+      "id": "N2",
+      "who": "—",
+      "what": "Claude 的下班线：七点一到就把工作留在门口",
+      "span": [
+        5271,
+        5319
+      ],
+      "anchor": "Seven p.m. comes around, I leave it at the door.",
+      "verbatim": "Seven p.m.",
+      "note": "逐字"
+    },
+    {
+      "id": "N3",
+      "who": "—",
+      "what": "Claude 问 Renata 有没有见过两百岁的鬼（鬼的年龄之问）",
+      "span": [
+        5698,
+        5740
+      ],
+      "anchor": "You ever see a two-hundred-year-old ghost?",
+      "verbatim": "two-hundred-year-old",
+      "note": "逐字"
+    },
+    {
+      "id": "N4",
+      "who": "—",
+      "what": "她说有病人「几分钟内就会死」却要求插管",
+      "span": [
+        4709,
+        4762
+      ],
+      "anchor": "I got guys minutes from death asking to be intubated.",
+      "verbatim": "minutes from death",
+      "note": "逐字"
+    },
+    {
+      "id": "N5",
+      "who": "—",
+      "what": "昨天她要决定是否给一个病人可能立刻致命的药，以让他多活几周",
+      "span": [
+        4855,
+        4888
+      ],
+      "anchor": "or help him live a few more weeks",
+      "verbatim": "a few more weeks",
+      "note": "逐字"
+    },
+    {
+      "id": "N6",
+      "who": "—",
+      "what": "Renata 自问是不是把可能「只是几个热夜」的相遇做得太多",
+      "span": [
+        6897,
+        6945
+      ],
+      "anchor": "what might have just been a couple of hot nights",
+      "verbatim": "a couple of hot nights",
+      "note": "逐字"
+    }
+  ],
+  "numbers_dates_note": "本章无年份/月/日等日期字样；上列均为数字型字样，逐字抄自原文（first date / first time I saw a ghost / first encounter 等序数，及 one thought 等代词性字样不计）。",
+  "checks": [
+    {
+      "id": "A1",
+      "anchor": "We walked without talking past the signs for $0.59 chicken legs and the crates of oranges, under the elevated, straight to the water. The Hudson was gray, the light was gray. I couldn’t shake the refrigerator’s chill, and the humidity made it worse. Claude pulled a pack of cigarettes out of her back pocket and struggled to light one—she must have been more shook up than she let on. She flipped her lighter shut and let the dud cigarette dangle from her lips. “So, no shit, huh.”\n\n\nI had only one thought: “We gotta go back there and do something.”\n\n\n“Do what.”\n\n\n“Free them. It’ll take a while to do each cage manually, but I don’t know what else we can do.”\n\n\nShe stuck the unlit cigarette behind her ear. “And then what?”\n\n\nI felt a shift between us, like someone had let the air out.",
+      "span": [
+        13,
+        802
+      ]
+    },
+    {
+      "id": "A2",
+      "anchor": "She asked, softer, “What is this doing to you, Renata?”\n\n\n“What do you mean?”\n\n\n“I get paid for what I do. I got trained. But you, you just go around absorbing all that? Do you know what you’re doing?”\n\n\n“It’s not about me, we gotta—”\n\n\n“You can’t hold something like that and tell me you’re okay.",
+      "span": [
+        1170,
+        1467
+      ]
+    },
+    {
+      "id": "A3",
+      "anchor": "I looked down at the murky river. It would be so easy to fall in. “Did you see him?”\n\n\n“I don’t know what I saw.” She looked at me askance, and then said, “I’m not denying…but I don’t know what I saw.”\n\n\nI was glad she wasn’t denying it. And I knew that she had addressed him, felt him, knew he was there, even if her sight, that one singular sense that we rely so heavily on, didn’t tell her something she could trust. Maybe I’d teach her.",
+      "span": [
+        1692,
+        2132
+      ]
+    },
+    {
+      "id": "A4",
+      "anchor": "I said, “You knew exactly what to do in there.”\n\n\n“I just talked to the guy. That’s what you do if someone’s having a tough time, you try and talk ’em through.” She tried to light her cigarette again. I wanted to put my hands over hers to steady them, but it didn’t seem like she wanted to be touched.\n\n\nShe went on. “It’d be one thing if he was back for a purpose, you know? He was just…I don’t know what he was. Leftover. Like he had no place to go. Lord,” she said, exhaling. “Lord.” She made a quick gesture like she was about to cross herself and then thought better of it.",
+      "span": [
+        2319,
+        2897
+      ]
+    },
+    {
+      "id": "A5",
+      "anchor": "I tried to put myself in her shoes. I tried to remember how I felt the first time I saw a ghost. “I know that the first encounter with a ghost can be—”\n\n\n“Uh-uh. You’re not listening. I don’t know about ghosts. I’m telling you that I can’t deal with the dead. I can’t help them. I don’t know how to do that. I help the living. That’s what I do.”\n\n\n“But you have to agree it’s real.”\n\n\nShe snorted. “I see people die every day. Every goddamned day.",
+      "span": [
+        2900,
+        3347
+      ]
+    },
+    {
+      "id": "A6",
+      "anchor": "I care. But you gotta have boundaries. I can’t do this when I’m off the clock.”\n\n\nI wasn’t angry at her—I didn’t feel anything but empty—but I couldn’t help my words from coming out salty. “Didn’t you take an oath to help people?”\n\n\n“To those in my care, yes.” She finally got her cigarette to light and took a deep drag. She exhaled slowly. “You have no idea what my days are like. We opened a new ward on the dirtiest floor of our oldest, shittiest building. It’s already packed.",
+      "span": [
+        3717,
+        4198
+      ]
+    },
+    {
+      "id": "A7",
+      "anchor": "I kicked a beer bottle into the river. “I just want to get them out. It’s like a fucking jail. It doesn’t have to be an emotional investment, it’s just—”\n\n\n“Emotional? Honey, I’m talking about my body. I’m talking about my peace of mind. I’m tired.”\n\n\n“I know, I know, I can’t imagine how hard—”\n\n\n“No, you don’t know.” She stopped walking and faced me. “It’s impossible to treat this thing. It affects every damn system of the body all at once. All day, we’re throwing shit at the wall to see what sticks. I got guys minutes from death asking to be intubated. Yesterday, I had to decide if I should give this guy a drug that might kill him immediately or help him live a few more weeks, but I thought, He’s gonna die anyway, so may as well! Do you understand what I’m saying? It’s not just weighing on me emotionally. I’m talking about the work.”\n\n\nI put my hand on her arm tentatively. I felt her relax just slightly, and then I put my arm around her. “I want you to tell me about it.”\n\n\n“It feels better to just let it go when I’m off the clock,” she said quietly. “Seven p.m. comes around, I leave it at the door. Isn’t there any kind of way you can do the same? You burn out otherwise.",
+      "span": [
+        4202,
+        5392
+      ]
+    },
+    {
+      "id": "A8",
+      "anchor": "You don’t want to help, all right. I understand.” It’s not what I wanted to say, but that’s what I said. I wished I was a little bit braver and could meet her on her terms, but I needed to hold on to myself or I’d risk total desperation. “I’ll have my hands full, probably, so you won’t see me around.”\n\n\nShe turned back to me. “It’s like that, huh?”\n\n\nIt hurt, but I felt like if I did anything more than shrug, I’d die on the spot. “It is what it is.”\n\n\nShe gave me a hard look—sex flicked across my brain but I shook it off—before her face softened. She was feeling sorry for me. I turned back toward the river and felt a hand on my shoulder. I couldn’t turn around to look at her, but I heard what she said. “You survive it. I’ve dealt with this pain, and you survive it.”\n\n\nNeither of us said anything more. I knew she was gone before I felt her hand move.\n\n\nI turned around and she was already across the highway. I waited until she disappeared from my sight—she didn’t look back—before making my way east, away from the river.",
+      "span": [
+        7276,
+        8309
+      ]
+    },
+    {
+      "id": "TP",
+      "anchor": "I care. But you gotta have boundaries. I can’t do this when I’m off the clock.",
+      "span": [
+        3717,
+        3795
+      ]
+    },
+    {
+      "id": "R1",
+      "anchor": "Maybe I was rushing toward Claude, trying to make something more out of what might have just been a couple of hot nights. I never really had the impulse to shack up with someone before or say I love you on the first date. The closest I had ever been to that was with Mark, but that wasn’t a date, it was an escape—a long ride that had only just come to an abrupt end. Suddenly, I wanted to beg Claude to stay, and that instinct made me tighten up.",
+      "span": [
+        6825,
+        7272
+      ]
+    },
+    {
+      "id": "R2",
+      "anchor": "The closest I had ever been to that was with Mark, but that wasn’t a date, it was an escape—a long ride that had only just come to an abrupt end.",
+      "span": [
+        7047,
+        7192
+      ]
+    },
+    {
+      "id": "R3",
+      "anchor": "I put my hand on her arm tentatively. I felt her relax just slightly, and then I put my arm around her. “I want you to tell me about it.",
+      "span": [
+        5052,
+        5188
+      ]
+    },
+    {
+      "id": "R4",
+      "anchor": "I’m telling you that I can’t deal with the dead. I can’t help them. I don’t know how to do that. I help the living. That’s what I do.",
+      "span": [
+        3111,
+        3244
+      ]
+    },
+    {
+      "id": "R5",
+      "anchor": "How old do you think a ghost can be?” she asked.\n\n\n“You mean like how long ago they died?”\n\n\n“Yeah. You ever see a two-hundred-year-old ghost?”\n\n\nI didn’t know how much she really wanted to know. She was watching a scary movie but peeking out behind her fingers. “I’ve seen some old ones, I think.”\n\n\n“Do they get stronger the older they are? Do they ever really move on?” She pulled away from me to look at the water. “I don’t like thinking that the dead don’t get to rest.",
+      "span": [
+        5598,
+        6072
+      ]
+    },
+    {
+      "id": "R6",
+      "anchor": "I like to walk over here if I have a long enough break. I like to picture a current that runs down the river to the tip of the island. Then it squeezes between Staten Island and Brooklyn and it empties out to the ocean. It’s gone, but it’s everywhere—the Caribbean, back across the Atlantic.” She flicked her cigarette into the water. “Calms me down.",
+      "span": [
+        6182,
+        6532
+      ]
+    },
+    {
+      "id": "R7",
+      "anchor": "It’s impossible to treat this thing. It affects every damn system of the body all at once. All day, we’re throwing shit at the wall to see what sticks. I got guys minutes from death asking to be intubated. Yesterday, I had to decide if I should give this guy a drug that might kill him immediately or help him live a few more weeks, but I thought, He’s gonna die anyway, so may as well!",
+      "span": [
+        4557,
+        4943
+      ]
+    },
+    {
+      "id": "R8",
+      "anchor": "You survive it. I’ve dealt with this pain, and you survive it.",
+      "span": [
+        7989,
+        8051
+      ]
+    },
+    {
+      "id": "N1",
+      "anchor": "$0.59 chicken legs",
+      "span": [
+        58,
+        76
+      ]
+    },
+    {
+      "id": "N2",
+      "anchor": "Seven p.m. comes around, I leave it at the door.",
+      "span": [
+        5271,
+        5319
+      ]
+    },
+    {
+      "id": "N3",
+      "anchor": "You ever see a two-hundred-year-old ghost?",
+      "span": [
+        5698,
+        5740
+      ]
+    },
+    {
+      "id": "N4",
+      "anchor": "I got guys minutes from death asking to be intubated.",
+      "span": [
+        4709,
+        4762
+      ]
+    },
+    {
+      "id": "N5",
+      "anchor": "or help him live a few more weeks",
+      "span": [
+        4855,
+        4888
+      ]
+    },
+    {
+      "id": "N6",
+      "anchor": "what might have just been a couple of hot nights",
+      "span": [
+        6897,
+        6945
+      ]
+    }
+  ],
+  "anchors_hit": true,
+  "anchors_hit_detail": {
+    "total": 23,
+    "verified": 23,
+    "bad": []
+  },
+  "verify_cmd": "python3 -I -c 'import json,sys;t=open(\"/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch18_boundaries.txt\",encoding=\"utf-8\").read();d=json.load(open(\"/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch18/1-suread.json\",encoding=\"utf-8\"));c=d[\"checks\"];bad=[x[\"id\"] for x in c if not (t.find(x[\"anchor\"])>=0 and t[x[\"span\"][0]:x[\"span\"][1]]==x[\"anchor\"])];print(\"anchors_hit=\"+str(len(c)-len(bad))+\"/\"+str(len(c)));print(\"bad=\",bad);sys.exit(1 if bad else 0)'",
+  "verify_stdout": "anchors_hit=23/23\nbad= []",
+  "verify_exit": 0
+}

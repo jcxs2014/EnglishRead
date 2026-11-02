@@ -1,0 +1,308 @@
+{
+  "book": "waiting-on-a-friend-by-natalie-adler",
+  "chapter": "ch06",
+  "chapter_title": "Line, Tension, Curve",
+  "stage": "R1 素读",
+  "source": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch06_line_tension_curve.txt",
+  "source_chars": 8978,
+  "actions": [
+    {
+      "id": "A1",
+      "anchor": "Mark had been dead for two weeks when I got the flyer",
+      "span": [
+        23,
+        76
+      ],
+      "who": "我（叙述者）",
+      "what": "Mark 死了两周后，我收到那张传单；它就塞在门底下，正如 Star 和 Annie 说的那样——若不是她们提过，我会不假思索扔掉。"
+    },
+    {
+      "id": "A2",
+      "anchor": "Julie was right that they wanted to put the idea in your head that standard landlord negligence was actually supernatural in origin",
+      "span": [
+        818,
+        949
+      ],
+      "who": "我（叙述者），转述 Julie 的判断",
+      "what": "我先是笑了：抱怨清单能描述市中心任何一间公寓；他们不明说鬼、只暗示，是聪明的操纵——Julie 说得对，他们要把「房东失修」装成超自然。"
+    },
+    {
+      "id": "A3",
+      "anchor": "I crumpled up the paper and shoved it in the junk drawer.",
+      "span": [
+        2162,
+        2219
+      ],
+      "who": "我（叙述者）",
+      "what": "短暂的自我正义后我自问「他们怎么知道这里住的人死了？」，随即按 Joe 的说法当成巧合甩掉，把纸揉成一团塞进杂物抽屉。"
+    },
+    {
+      "id": "A4",
+      "anchor": "But blindness, I had newly learned, wasn’t a metaphor.",
+      "span": [
+        2474,
+        2528
+      ],
+      "who": "我（叙述者）",
+      "what": "我承认一直在想它、列了一串问题，并新学会一件事：「看不见」不是比喻——看见幽灵是因为他们真在那儿。"
+    },
+    {
+      "id": "A5",
+      "anchor": "I was shooting the breeze with Mrs. Vélez, who lived and died in the apartment underneath ours.",
+      "span": [
+        2980,
+        3075
+      ],
+      "who": "我（叙述者）／Mrs. Vélez（楼下已亡邻居）／Mark（听我转述）",
+      "what": "我习惯了留意他们，直到和住过并死在我们楼下那间公寓的 Mrs. Vélez 闲聊；她死后仍想讲同样的故事，我有时间听，并转述给 Mark，以致 Mark 好几个月都没意识到她已经死了。"
+    },
+    {
+      "id": "A6",
+      "anchor": "Blue, I said. Periwinkle, she corrected.",
+      "span": [
+        6221,
+        6261
+      ],
+      "who": "Ruthie（母亲）／我",
+      "what": "我回想小时候母亲常带我去博物馆（Frick 去得最多），在一幅蓝衣女子像前教我读线条、张力与曲线，问裙子什么颜色，我说 Blue，她纠正：Periwinkle。"
+    },
+    {
+      "id": "A7",
+      "anchor": "That was the moment I knew how bad it really was",
+      "span": [
+        7106,
+        7154
+      ],
+      "who": "Mark／我（叙述者）",
+      "what": "Mark 整夜出汗，我听到哭声进屋；有一个月他哭得很多，只是低低的抽气；他问「Will you tell me the painting?」——那一刻我知道情况有多糟。"
+    },
+    {
+      "id": "A8",
+      "anchor": "I tried drawing Mark’s face from memory as if I could draw him to life, but it kept coming out wrong.",
+      "span": [
+        8191,
+        8292
+      ],
+      "who": "我（叙述者）",
+      "what": "近来我重拾素描（画幽灵比画活人容易）；凭记忆画 Mark 的脸总画错，网格本子的格子像栅栏把他挡在外面，画出来更像他死去时的样子。"
+    }
+  ],
+  "turning_point": "本章转折点：从「看幽灵／与 Mrs. Vélez 闲聊」的日常，转到母亲美术馆训练＝素描训练的这一双眼睛——重拾素描后她发现画幽灵容易、凭记忆画 Mark 却总画错（画出的更像他死去的样子），观看方式与哀悼在此合流。",
+  "relations": [
+    {
+      "id": "R1",
+      "anchor": "Renata, honey, those things you see out of the corner of your eyes?",
+      "span": [
+        4136,
+        4203
+      ],
+      "who": "我＝Renata",
+      "rel": "叙述者的名字：母亲 Ruthie 这样叫她（全书此处唯一给出名字）。"
+    },
+    {
+      "id": "R2",
+      "anchor": "if I didn’t have a mother like Ruthie who taught me it was important to not meet everything new with fear",
+      "span": [
+        4272,
+        4377
+      ],
+      "who": "Ruthie＝叙述者的母亲",
+      "rel": "母亲 Ruthie 教她不要以恐惧迎接一切新东西；她认为母亲不现身是在保护她。"
+    },
+    {
+      "id": "R3",
+      "anchor": "I would say to Mark",
+      "span": [
+        3318,
+        3337
+      ],
+      "who": "Mark＝叙述者的伴侣（文本未给称谓，已死两周）",
+      "rel": "她会对 Mark 说话、给他描述那幅画、凭记忆画他的脸；Mark 死后两周她收到传单。"
+    },
+    {
+      "id": "R4",
+      "anchor": "her oldest daughter, the nurse practitioner, who I never saw come to visit",
+      "span": [
+        3108,
+        3182
+      ],
+      "who": "Mrs. Vélez（楼下邻居，已死）与其长女（nurse practitioner）",
+      "rel": "Mrs. Vélez 总讲她的长女；我从没见她来探望。"
+    },
+    {
+      "id": "R5",
+      "anchor": "just like Star and Annie had said",
+      "span": [
+        513,
+        546
+      ],
+      "who": "Star、Annie＝先说起这些传单的人",
+      "rel": "传单的出现正如她们所说；但两人都没记准公司名。"
+    },
+    {
+      "id": "R6",
+      "anchor": "Unless Julie was right",
+      "span": [
+        1778,
+        1800
+      ],
+      "who": "Julie＝判断传单意图的人",
+      "rel": "Julie 认为公司名字含糊、不直说是 Santería 或驱邪，是更隐微的操纵。"
+    },
+    {
+      "id": "R7",
+      "anchor": "a coincidence, like Joe said",
+      "span": [
+        2130,
+        2158
+      ],
+      "who": "Joe＝把此事归为巧合的人",
+      "rel": "我自问「他们怎么知道有人死在这里」，用 Joe 的话当巧合按下去。"
+    },
+    {
+      "id": "R8",
+      "anchor": "I could imagine Bianca reading like his palm",
+      "span": [
+        8759,
+        8803
+      ],
+      "who": "Bianca＝会「像看手相一样读」Mark 额纹的人",
+      "rel": "关系未明；我把 Mark 额上新起的皱纹想象成 Bianca 能读的掌纹（断线＝麻烦）。"
+    },
+    {
+      "id": "R9",
+      "anchor": "The name bothered me, Manhattan Remediation.",
+      "span": [
+        1531,
+        1575
+      ],
+      "who": "Manhattan Remediation＝传单上的公司",
+      "rel": "名字让我听出 remedy／mediation／medium；Star 与 Annie 都没记准名字，不像聪明的生意做法。"
+    },
+    {
+      "id": "R10",
+      "anchor": "who comes here with her nanny every Tuesday: the girl with the white ribbon in her hair",
+      "span": [
+        5423,
+        5510
+      ],
+      "who": "Frick 美术馆里的「白丝带女孩」",
+      "rel": "童年「我」在 Frick 认出的固定来客之一：每周二由保姆带来。"
+    }
+  ],
+  "numbers": [
+    {
+      "id": "N1",
+      "anchor": "Mark had been dead for two weeks",
+      "span": [
+        23,
+        55
+      ],
+      "kind": "number",
+      "verbatim": "two weeks",
+      "note": "Mark 已死两周（本章开篇时间锚）"
+    },
+    {
+      "id": "N2",
+      "anchor": "Waking in a cold sweat at 3 AM?",
+      "span": [
+        355,
+        386
+      ],
+      "kind": "number",
+      "verbatim": "3 AM",
+      "note": "传单条目，逐字大写 AM"
+    },
+    {
+      "id": "N3",
+      "anchor": "Call Us Anytime Day or Nite",
+      "span": [
+        424,
+        451
+      ],
+      "kind": "number",
+      "verbatim": "Day or Nite",
+      "note": "传单原文拼写 Night→Nite，逐字照抄"
+    },
+    {
+      "id": "N4",
+      "anchor": "There was a month where he cried a lot",
+      "span": [
+        6907,
+        6945
+      ],
+      "kind": "number",
+      "verbatim": "a month",
+      "note": "Mark 哭得很多持续「一个月」"
+    },
+    {
+      "id": "N5",
+      "anchor": "Even two out of three of those things",
+      "span": [
+        6545,
+        6582
+      ],
+      "kind": "number",
+      "verbatim": "two out of three",
+      "note": "退学／生我／沾毒三者中去掉一件，母亲至少能算小人物"
+    },
+    {
+      "id": "N6",
+      "anchor": "I could never get motion going in two dimensions",
+      "span": [
+        7498,
+        7546
+      ],
+      "kind": "number",
+      "verbatim": "two dimensions",
+      "note": "画走动的人无法在二维里做出动势"
+    },
+    {
+      "id": "N7",
+      "anchor": "who comes here with her nanny every Tuesday: the girl with the white ribbon in her hair",
+      "span": [
+        5423,
+        5510
+      ],
+      "kind": "date",
+      "verbatim": "every Tuesday",
+      "note": "白丝带女孩每周二到 Frick"
+    },
+    {
+      "id": "N8",
+      "anchor": "while she was on her cigarette break outside Bellevue",
+      "span": [
+        3424,
+        3477
+      ],
+      "kind": "proper_noun",
+      "verbatim": "Bellevue",
+      "note": "Mrs. Vélez 的长女在 Bellevue 外抽烟时接生双胞胎"
+    },
+    {
+      "id": "N9",
+      "anchor": "Music & Art",
+      "span": [
+        6383,
+        6394
+      ],
+      "kind": "proper_noun",
+      "verbatim": "Music & Art",
+      "note": "母亲念过的学校（& 逐字保留；文中两次出现，取首次）"
+    },
+    {
+      "id": "N10",
+      "anchor": "We went to the Frick the most",
+      "span": [
+        5017,
+        5046
+      ],
+      "kind": "proper_noun",
+      "verbatim": "the Frick",
+      "note": "童年最常去的博物馆"
+    }
+  ],
+  "anchors_total": 28,
+  "anchors_hit": true,
+  "verify_cmd": "python3 -I -c 'import json,sys;R=\"/Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch06/1-suread.json\";T=\"/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch06_line_tension_curve.txt\";d=json.load(open(R));t=open(T).read();es=[e for k in (\"actions\",\"relations\",\"numbers\") for e in d[k]];bad=[e[\"id\"] for e in es if t.find(e[\"anchor\"])<0 or t[e[\"span\"][0]:e[\"span\"][1]]!=e[\"anchor\"]];print(\"anchors_total\",len(es),\"bad\",bad);sys.exit(1 if bad else 0)'"
+}

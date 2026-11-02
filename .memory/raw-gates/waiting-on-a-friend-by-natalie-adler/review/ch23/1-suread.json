@@ -1,0 +1,451 @@
+{
+  "chapter": "ch23 Everybody",
+  "text_file": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/waiting-on-a-friend-by-natalie-adler/text/ch23_everybody.txt",
+  "chars": 14811,
+  "facts": [
+    {
+      "id": 1,
+      "who": "Bianca / 我（叙述者）",
+      "action": "Bianca 答应下周和叙述者一起去做 remediator 的探查；她说本可以更早去，但当晚有 hot date，想闹个 lost weekend；还撂下话：若她不出面，就打给她母亲。",
+      "anchor": "Bianca agreed that she would do some remediator snooping with me next week",
+      "start": 12,
+      "end": 86,
+      "anchor_occurrences": 1,
+      "extra_anchors": [
+        {
+          "anchor": "she had a hot date later that night and was hoping for a lost weekend",
+          "start": 119,
+          "end": 188,
+          "occurrences": 1
+        },
+        {
+          "anchor": "you call my mother.",
+          "start": 305,
+          "end": 324,
+          "occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "who": "我（叙述者）",
+      "action": "关店，走了几个街区回家，一路想 Bianca 说的 ghost cops：若她对 Koch 的判断成立，那会是政府对 AIDS 做的第一件事。",
+      "anchor": "it would be the first thing the government had done about AIDS",
+      "start": 506,
+      "end": 568,
+      "anchor_occurrences": 1,
+      "extra_anchors": [
+        {
+          "anchor": "I closed up the shop and walked the few blocks home",
+          "start": 328,
+          "end": 379,
+          "occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "who": "我（叙述者）/ Cris / Star",
+      "action": "回公寓脱靴躺地；随后起身打给 Cris（没接），给 Star 留口信：她当然可以住自己家，钥匙放在街角糖果店的人那里。",
+      "anchor": "I left a message for Star telling her that of course she could stay with me",
+      "start": 1428,
+      "end": 1503,
+      "anchor_occurrences": 1,
+      "extra_anchors": [
+        {
+          "anchor": "I got up off the floor and dialed Cris",
+          "start": 1351,
+          "end": 1389,
+          "occurrences": 1
+        },
+        {
+          "anchor": "a key with the guy at the candy store around the corner",
+          "start": 1527,
+          "end": 1582,
+          "occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "who": "我（叙述者）/ Julie",
+      "action": "打电话给 Julie，问「能不能把鬼从房产里赶出去」；Julie 笑答租约随死亡失效，并讲了一个 NYCHA 客户的故事：与伴侣同住几十年，伴侣死后因不在租约上被扫地出门，客户本人也病了。",
+      "anchor": "Leases are forfeited on death.",
+      "start": 2304,
+      "end": 2334,
+      "anchor_occurrences": 1,
+      "extra_anchors": [
+        {
+          "anchor": "Can you evict a ghost from a property?",
+          "start": 2192,
+          "end": 2230,
+          "occurrences": 1
+        },
+        {
+          "anchor": "I have a client in NYCHA who lived with his partner for decades and got booted out when his partner died",
+          "start": 2423,
+          "end": 2527,
+          "occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "who": "Julie / 我（叙述者，闪回）",
+      "action": "闪回 Seward Park 高中第一天：Julie 坐在代数课后排她身后，耳语说这地方从前是监狱；两人翘了第三节课；Julie 递给她第一根抽了不咳的烟，还讲 Victoria Woodhull 在此坐过牢、竞选过总统。",
+      "anchor": "Did you know this place used to be a jail?",
+      "start": 3302,
+      "end": 3344,
+      "anchor_occurrences": 1,
+      "extra_anchors": [
+        {
+          "anchor": "she handed me the first cigarette I ever smoked without coughing",
+          "start": 3646,
+          "end": 3710,
+          "occurrences": 1
+        },
+        {
+          "anchor": "Do you know who Victoria Woodhull was?",
+          "start": 3722,
+          "end": 3760,
+          "occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "who": "Julie / 我（叙述者，闪回）",
+      "action": "闪回高三：Julie 在英语课递纸条，当晚两人第一次互相探索身体；此后恋情起起落落（各自与别的女人睡、不再说话、重逢再睡），最后淡出，成了朋友。",
+      "anchor": "she passed me a note in English class",
+      "start": 4894,
+      "end": 4931,
+      "anchor_occurrences": 1,
+      "extra_anchors": [
+        {
+          "anchor": "i wanna come over and listen to sticky fingers.",
+          "start": 4934,
+          "end": 4981,
+          "occurrences": 1
+        },
+        {
+          "anchor": "we had popped each other clean open",
+          "start": 5053,
+          "end": 5088,
+          "occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "who": "我（叙述者）/ Julie",
+      "action": "在俱乐部（文中回忆指向 Danceteria）：Julie 嫌今晚「很男」；叙述者挤到吧台，把本该给 Julie 的两杯酒都喝了，随后看见舞池挤满鬼魂——与活人同舞、彼此调笑。",
+      "anchor": "I had never seen so many ghosts at a time.",
+      "start": 11977,
+      "end": 12019,
+      "anchor_occurrences": 1,
+      "extra_anchors": [
+        {
+          "anchor": "very boy tonight",
+          "start": 7223,
+          "end": 7239,
+          "occurrences": 1
+        },
+        {
+          "anchor": "I slid over some cash and downed one, then the other, even though it was meant for Julie.",
+          "start": 11476,
+          "end": 11565,
+          "occurrences": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "who": "我（叙述者）/ Julie",
+      "action": "音乐停、灯大亮，鬼魂消失；她担心 Manhattan Remediation 像超自然扫黄队一样来抓那些只想玩个痛快的鬼，说「我自己不配有一个」；Julie 找到她，一句「You okay?」后，两人牵手一起离开。",
+      "anchor": "She put her hand in mine and we left together.",
+      "start": 14764,
+      "end": 14810,
+      "anchor_occurrences": 1,
+      "extra_anchors": [
+        {
+          "anchor": "The ghosts were gone.",
+          "start": 13902,
+          "end": 13923,
+          "occurrences": 1
+        },
+        {
+          "anchor": "what if they swept in like a supernatural vice squad and rounded up all the ghosts who were just trying to have a good time?",
+          "start": 14525,
+          "end": 14649,
+          "occurrences": 1
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Bianca — 叙述者",
+      "note": "合办 remediator 探查的搭档；本周约好下周一起行动，口头禅式威胁：不出面就打给她母亲。",
+      "anchor": "remediator snooping with me next week",
+      "start": 49,
+      "end": 86
+    },
+    {
+      "pair": "Julie — 叙述者",
+      "note": "高中旧友、同校初恋／前恋人，如今是 tenant advocate 兼 party girl；本章二人一起跳舞、一起离场（结尾牵手离开）。",
+      "anchor": "a tenant advocate and a party girl",
+      "start": 1908,
+      "end": 1942
+    },
+    {
+      "pair": "Star — 叙述者",
+      "note": "朋友；叙述者留口信允许她住下，并把钥匙托给糖果店的人。",
+      "anchor": "she could stay with me",
+      "start": 1481,
+      "end": 1503
+    },
+    {
+      "pair": "Cris — 叙述者",
+      "note": "叙述者打电话找她，相处一「奇迹」般地没接。",
+      "anchor": "dialed Cris",
+      "start": 1378,
+      "end": 1389
+    },
+    {
+      "pair": "Mark — 叙述者",
+      "note": "以过去时被提及的舞伴／爱人：ESG 是「我和 Mark 的歌」，他们曾在同一处看过 ESG 演出；她想他、念他的名字。",
+      "anchor": "one of my songs with Mark",
+      "start": 12787,
+      "end": 12812
+    },
+    {
+      "pair": "Claude、François — 叙述者",
+      "note": "被并列为她想避开的「干扰」；她因 Prince 浴缸音乐录影带想到 Claude。",
+      "anchor": "No distractions, no François, no Claude.",
+      "start": 727,
+      "end": 767
+    },
+    {
+      "pair": "Tanya — 叙述者一行",
+      "note": "认识艺术圈的人；曾带她们去 Queens 的 Factory 主题变装派对（有 Velvet Underground 翻唱乐队）。",
+      "anchor": "thanks to Tanya",
+      "start": 9411,
+      "end": 9426
+    },
+    {
+      "pair": "Ruthie — 叙述者（闪回）",
+      "note": "当年同住一屋，知道她和 Julie 的事却从不打扰。",
+      "anchor": "Ruthie knew what was going on",
+      "start": 6308,
+      "end": 6337
+    },
+    {
+      "pair": "Madonna — 叙述者",
+      "note": "她曾在此俱乐部试图搭讪当时做衣帽间服务员的 Madonna，结果「alas: very straight」。",
+      "anchor": "I tried to cruise Madonna when she was the coat check girl here",
+      "start": 9917,
+      "end": 9980
+    },
+    {
+      "pair": "Julie 的 NYCHA 客户 — Julie",
+      "note": "Julie 讲述的当事人：与伴侣同住几十年，伴侣死后被赶出，因为不在租约上；本人也病着。",
+      "anchor": "I have a client in NYCHA",
+      "start": 2423,
+      "end": 2447
+    }
+  ],
+  "numbers": [
+    {
+      "value": "next week",
+      "anchor": "with me next week",
+      "what": "约好下周行动",
+      "start": 69,
+      "end": 86,
+      "value_span": [
+        69,
+        86
+      ]
+    },
+    {
+      "value": "later that night",
+      "anchor": "a hot date later that night",
+      "what": "Bianca 当晚约会",
+      "start": 127,
+      "end": 154,
+      "value_span": [
+        127,
+        154
+      ]
+    },
+    {
+      "value": "third period",
+      "anchor": "We skipped third period",
+      "what": "闪回：翘第三节课",
+      "start": 3346,
+      "end": 3369,
+      "value_span": [
+        3346,
+        3369
+      ]
+    },
+    {
+      "value": "first cigarette",
+      "anchor": "the first cigarette I ever smoked without coughing",
+      "what": "第一根不咳的烟",
+      "start": 3660,
+      "end": 3710,
+      "value_span": [
+        3660,
+        3710
+      ]
+    },
+    {
+      "value": "junior year",
+      "anchor": "One day, junior year",
+      "what": "递纸条的年份",
+      "start": 4872,
+      "end": 4892,
+      "value_span": [
+        4872,
+        4892
+      ]
+    },
+    {
+      "value": "two feet",
+      "anchor": "she had two feet on the floor",
+      "what": "翻窗进屋的瞬间",
+      "start": 6483,
+      "end": 6512,
+      "value_span": [
+        6483,
+        6512
+      ]
+    },
+    {
+      "value": "third finger",
+      "anchor": "until I got that third finger inside",
+      "what": "闪回身体细节",
+      "start": 5837,
+      "end": 5873,
+      "value_span": [
+        5837,
+        5873
+      ]
+    },
+    {
+      "value": "four sax hoots",
+      "anchor": "to the four sax hoots",
+      "what": "舞曲节拍",
+      "start": 7901,
+      "end": 7922,
+      "value_span": [
+        7901,
+        7922
+      ]
+    },
+    {
+      "value": "bap bap bap bap",
+      "anchor": "bap bap bap bap",
+      "what": "节拍拟声",
+      "start": 7923,
+      "end": 7938,
+      "value_span": [
+        7923,
+        7938
+      ]
+    },
+    {
+      "value": "four or five years",
+      "anchor": "The last four or five years",
+      "what": "夜生活变松的时段",
+      "start": 8675,
+      "end": 8702,
+      "value_span": [
+        8675,
+        8702
+      ]
+    },
+    {
+      "value": "one girl for every three guys",
+      "anchor": "I was the one girl for every three guys.",
+      "what": "Paradise Garage 人群比例",
+      "start": 8526,
+      "end": 8566,
+      "value_span": [
+        8526,
+        8566
+      ]
+    },
+    {
+      "value": "two shots",
+      "anchor": "who was handing me two shots",
+      "what": "吧台给的两杯",
+      "start": 11446,
+      "end": 11474,
+      "value_span": [
+        11446,
+        11474
+      ]
+    },
+    {
+      "value": "decades",
+      "anchor": "his partner for decades",
+      "what": "NYCHA 客户与伴侣同居时长",
+      "start": 2463,
+      "end": 2486,
+      "value_span": [
+        2463,
+        2486
+      ]
+    },
+    {
+      "value": "only months ago, or maybe minutes ago",
+      "anchor": "It was only months ago, or maybe minutes ago",
+      "what": "与 Mark 同舞的时间感",
+      "start": 13226,
+      "end": 13270,
+      "value_span": [
+        13226,
+        13270
+      ]
+    },
+    {
+      "value": "3D drawing",
+      "anchor": "like a 3D drawing",
+      "what": "两人轮廓重叠的比喻",
+      "start": 11328,
+      "end": 11345,
+      "value_span": [
+        11328,
+        11345
+      ]
+    },
+    {
+      "value": "first day",
+      "anchor": "On our first day at Seward Park High School",
+      "what": "闪回起点",
+      "start": 3186,
+      "end": 3229,
+      "value_span": [
+        3186,
+        3229
+      ]
+    },
+    {
+      "value": "first kid",
+      "anchor": "the first kid I knew to get a punk haircut",
+      "what": "Julie 的朋克发型",
+      "start": 3987,
+      "end": 4029,
+      "value_span": [
+        3987,
+        4029
+      ]
+    }
+  ],
+  "turning_point": "转折点：音乐停、灯亮之间舞池的鬼魂消失——她从与死者同舞的短暂安慰跌回「刚错过他」的悲伤，随即被 Julie 找到并一同离场。",
+  "anchors_hit": 50,
+  "anchors_total": 50,
+  "anchors_failed": [],
+  "verify_cmd": "python3 -I /Users/jcxs2014/Documents/Works/EnglishRead/.memory/raw-gates/waiting-on-a-friend-by-natalie-adler/review/ch23/1-suread.verify.py"
+}
