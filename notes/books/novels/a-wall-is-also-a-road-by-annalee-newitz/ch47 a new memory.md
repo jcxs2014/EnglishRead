@@ -36,19 +36,20 @@ modified: "2026-11-02"
 - **为什么这样写**：Wainscot 的留守宣言把「内线」从贬词变成职责：留在旧体制里的人，是同盟的哨兵。probe launcher 的转借（Plumline Lab 的战争设备）完成了它最反讽的退役——曾为武器服务的发射器，如今借给朋友去田野。
 - **读者视角提示**：对照 ch31 的 stack ranking 与 ch40 的听证——同一个实验室，从刑场变成了两边共用的资源。Wainscot 的弧线至此闭环：受害者→幸存者→制度的良心驻在员。
 
-> **原句 4:** "Gardenpath was certain that if it hadn’t been for them, they would have gotten their doctorate without ever learning a single thing."
+> **原句 4:** "Out there, Tentacle was still racing around its star, oceans sloshing against the land like drunken grad students."
+
+- **中文理解**：在那外面，Tentacle 还在绕着它的恒星疾驰，海洋像喝醉的研究生一样拍打着陆地。
+- **关键词**：racing around its star / sloshing / like drunken grad students
+- **为什么这样写**：乡愁的镜头用比喻调焦：行星的轨道运动与醉汉的踉跄共用一个动词——把宇宙尺度的思念写回校园尺度。drunken grad students 是全书最亲切的一个明喻：她终于能用自嘲的语气谈论那个磨了她半生的身份。
+- **读者视角提示**：对照 ch32 的「Milk Road 的星空壁画」与本章的窗外实景——Murtis 的世界从画里回到了天上。记住「sloshing」：海还在动，人还在老，而她在这里看——这就是长寿者的望远镜。
+
+> **原句 5:** "Gardenpath was certain that if it hadn’t been for them, they would have gotten their doctorate without ever learning a single thing."
 
 - **中文理解**：Gardenpath 确信：如果不是他们，自己早就拿到博士学位了——却连一件事都不会真正学会。
 - **关键词**：if it hadn’t been for them / gotten their doctorate / without ever learning a single thing
 - **为什么这样写**：全书的学位论在此结题：博士（doctorate）与学问（learning a single thing）被拆成两个可以分开达成的指标——制度能给你前者，只有人能给你后者。them 指谁？Murtis、Oriel、Column、联盟、乃至 Plumline 的反课——所有人都是老师。
 - **读者视角提示**：对照 ch01 的「You don't have to be smart or exceptional to earn a doctorate. You just have to want one」——开篇的冷笑话在此获得正面续写：博士不需要学问，但人需要。这句是全书教育批判的最终和解：制度废纸，人情真经。
 
-> **原句 5:** "Out there, Tentacle was still racing around its star, oceans sloshing against the land like drunken grad students."
-
-- **中文理解**：在那外面，Tentacle 还在绕着它的恒星疾驰，海洋像喝醉的研究生一样拍打着陆地。
-- **关键词**：racing around its star / sloshing / like drunken grad students
-- **为什么这样写**：乡愁的镜头用比喻调焦：行星的轨道运动与醉汉的踉跄共用一个动词——把宇宙尺度的思念写回校园尺度。drunken grad students 是全书最亲切的一个明喻：她终于能用自嘲的语气谈论那个磨了她半生的身份。
-- **读者视角提示**：对照 ch32 的「Milk Road 的星空壁画」与本章的窗外实景——Murtis 的世界从画里回到了天上。记住「sloshing」：海还在动，人还在老，而她在这里看——这就是长寿者的望远镜。
 
 > **原句 6:** "They did have a first cluster, out there. It wasn’t Rational, but for a while, it had been home."
 
@@ -56,33 +57,7 @@ modified: "2026-11-02"
 - **关键词**：a first cluster / wasn’t Rational / had been home
 - **为什么这样写**：全书的最后一句把 Language Log 那道「supposed to」的空题亲手填上：第一集群——有过（did have），在那边（out there），曾为家（had been home）。三个限定词（不 Rational/一阵/曾经）精确得像证词：她终于承认了自己一直否认的归乡——它没有发生过（制度版），但发生过（身体版）。
 - **读者视角提示**：对照 ch14「没有归乡的人还算人吗」、ch21 的「宁愿没被找到」、ch29 的「两个生命在彼此体内找到家」——终句把三处伏笔一次性收拢：家的定义最终由记忆签发，不由制度。书名《墙也是路》的最后一重兑现：被拒的半球，走过去也是家。
-
 ## 本章词汇
-
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| mitigate | 缓解、减轻 | Turret signed a collaboration agreement to mitigate environmental instability on four planets in Skiff damaged by the Cloud Wars. |
-| interdisciplinary | 跨学科的 | Column led an interdisciplinary lab devoted to bringing science, policy, and culture together in a single tower. |
-| sloshing | 拍溅、晃荡（slosh 的现在分词） | Out there, Tentacle was still racing around its star, oceans sloshing against the land like drunken grad students. |
-
-### ⭐⭐ 进阶
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| spurned | 被拒斥的、被唾弃的（spurn 的过去分词） | At those moments, they would look beyond the galaxy, to the spurned hemisphere of the Globe where they had grown up among the photosynthesizers. |
-| shock wave | 冲击波 | When Gardenpath’s dissertation was published as a book, it traveled like a shock wave across the Globe. |
-| negotiations | 谈判（negotiation 的复数） | After a fruitful negotiation, Turret signed a collaboration agreement to mitigate environmental instability on four planets in Skiff damaged by the Cloud Wars. |
-
-### ⭐ 常用
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| launched | 启动、发起（launch 的过去式） | The project launched the New Memory officially, and Turret took the lead with Oriel. |
-| partnered | 结为伙伴（partner 的过去式） | The Column Lab partnered with the Wainscot Lab at the Memory to study the social impact of mining. |
-| cozy | 温馨的、舒适的 | Gardenpath’s cluster secured a cozy pod complex near the Transit Hall on Cut-in-Forest, with a view of the Spigot from their cluster bowl. |
-| chatting | 聊天（chat 的现在分词） | Murtis was out there too, chatting with customers at the taberna or organizing a procession or eating a meal with Julia. |
 
 ## 一句话总结
 

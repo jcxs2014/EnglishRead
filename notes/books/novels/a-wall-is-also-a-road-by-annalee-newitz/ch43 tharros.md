@@ -88,7 +88,7 @@ modified: "2026-11-02"
 | lustrous | 有光泽的、光亮的 | Her hair was up, revealing two dramatic streaks of white that emerged from her temples to contrast with the lustrous black of her curls. |
 | refurbished | 翻新的、整修过的（refurbish 的过去分词） | Artists and construction workers were still putting the finishing touches on both buildings, which had been refurbished from something older. |
 | obliterated | 被抹去、被遮没（obliterate 的过去分词） | Julia, Murtis, and Peristyle were unable to let go of each other, begging for more until at last only Peristyle remained awake as the sky became pink and the galaxy was obliterated. |
-| priceless | 无价的、贵重的 | “To remember me, and this magical time,” she whispered. |
+| appreciate | 感激、赏识 | “No offense. We appreciate your business.” |
 
 ### ⭐ 常用
 

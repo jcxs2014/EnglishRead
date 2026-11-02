@@ -110,7 +110,7 @@ modified: "2026-11-02"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | attendance | 出席、到场 | “Contribution. They say my attendance is required, along with Column.” |
-| scorned | 被蔑视的（scorn 的过去分词） | It seemed that all of Pompeii was thirsty, and had arrived on the doorstep of a woman they once scorned to beg for relief. |
+| second-rate | 二流的、次等的 | “Somewhere in a Galleon compost pile, I would guess. No doubt those second-rate Cloud scientists ruined them.” |
 | appointing | 任命（appoint 的现在分词） | “Spiralstair—of course! They are the exact kind of fool the Memory loves to appoint.” |
 | rivulets | 细流（rivulet 的复数） | Soon, shimmering rivulets of water were flowing into a maze of tiny canals and reservoirs that people could reach into with delicate tentacles. |
 
