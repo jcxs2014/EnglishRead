@@ -41,7 +41,7 @@ modified: "2026-11-01"
 
 > **原句 3:** "Before Syd could answer, there was a crashing sound as the cabin’s back door gave way, and the massive black dog came barreling toward them, moving faster than he had in years. In a handful of loping strides, Dol was there, his body in front of Syd’s, his teeth bared white in warning. She curled her fingers in his coat and thought, Good dog."
 
-**中文理解**：她还没来得及回答，屋里轰的一声——小屋后门被撞开了，那条黑色大狗朝他们冲过来，跑得比它这几年里任何时候都快。几步蹿到跟前，多尔把身体横在赛德前面，白牙龇出来示警。她攥住它的毛，心里说了一句：好狗。
+**中文理解**：她还没来得及回答，屋里轰的一声——小屋后门被撞开了，那条黑色大狗朝他们冲过来，跑得比它这几年里任何时候都快。几步蹿到跟前，Dol把身体横在赛德前面，白牙龇出来示警。她攥住它的毛，心里说了一句：好狗。
 
 **关键词**：loping strides · teeth bared white
 

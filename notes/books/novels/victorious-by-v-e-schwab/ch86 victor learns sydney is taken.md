@@ -40,8 +40,8 @@ modified: "2026-11-01"
 
 **中文理解**：维克多一边把米奇带到红色皮卡旁一边答：当然是陷阱。可他们要在对方抵达之前把人拦下来——说着从口袋里掏出手机。他要把那辆车截住。
 **关键词**：the red pickup · Dol still unconscious
-**为什么这样写**：先认下「是陷阱」，紧接着给动作：走、上车、掏手机。多尔在后座昏迷这半句被插在两个说话动作中间，没有解释，也没有人回头看他一眼。
-**读者视角提示**：这块把路线交代清楚了：不是跟在后面追，是赶去前面截。昏迷的多尔还在车上。
+**为什么这样写**：先认下「是陷阱」，紧接着给动作：走、上车、掏手机。Dol在后座昏迷这半句被插在两个说话动作中间，没有解释，也没有人回头看他一眼。
+**读者视角提示**：这块把路线交代清楚了：不是跟在后面追，是赶去前面截。昏迷的Dol还在车上。
 
 > **原句 5:** "He punched in the message, shoved the phone back in his pocket, and drew out the inhaler. He’d used the rest of the cartridge fighting EON’s puppets. He ejected the spent vial, and slotted in a full one—his last—each task getting harder as the drug overwhelmed his system, pain be damned."
 

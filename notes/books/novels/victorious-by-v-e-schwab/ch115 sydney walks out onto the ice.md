@@ -7,10 +7,10 @@ modified: "2026-11-01"
 
 ## 本章导航
 
-- **一句话概括**：西德妮在一间暖得让人不想动的客厅里看完一场自己并不记得的电影，米奇拍着她的脚，问要不要连看两场；她认出画面在循环、这是塞雷娜造出来的梦，于是起身说自己必须走，维克多问她要去哪儿，多尔没有跟过来。她推门出去，走廊结霜，公寓楼在白里消失，脚下换成一片薄冰；塞雷娜站在湖上转过身，朝她伸出手说回家。
+- **一句话概括**：西德妮在一间暖得让人不想动的客厅里看完一场自己并不记得的电影，米奇拍着她的脚，问要不要连看两场；她认出画面在循环、这是塞雷娜造出来的梦，于是起身说自己必须走，维克多问她要去哪儿，Dol没有跟过来。她推门出去，走廊结霜，公寓楼在白里消失，脚下换成一片薄冰；塞雷娜站在湖上转过身，朝她伸出手说回家。
 - **情感弧线位置**：Part 7「Termination」的部内第五章，页眉 `V`，下面一行 `NOW. THEN.`。开头是暖的：`She felt sleepy, and warm, and incredibly cozy.`，连爆米花和黄油的气味都备好了。中段转冷：`her breath began to fog`，接着 `frost began to climb the walls`，公寓楼消失，世界一片白。末尾落在冰面上：薄冰、裂纹、塞雷娜的背影，最后是一句 `let’s go home`。
 - **Tropes 兑现/反转**：① 温暖的房间当牢笼：`Knew she could curl up and stay here—stay safe—forever.`，隔一段就是 `She also knew it wasn’t real.` ② 循环的梦：`The scene was looping on itself. Not a memory, but a dream.`，再由 `Which meant Serena was here.` 点名造梦的人。③ 门内门外两种温度：门里是爆米花与黄油，门外是霜、白、冰。④ 冰湖上的邀请：塞雷娜背对着她，转过身来笑着说 `There you are`，伸手说 `Come on, let’s go home.`
-- **人物弧线**：西德妮：从一个 `small voice` 叫她坐起来，到 `forced herself to sit up`，再到 `I have to go`；她知道一回头看他，就会 `lose her nerve`。米奇：拍她的脚，问要不要 `a double feature`。维克多：`sat forward in his chair`，问 `Where are you going, Syd?`。多尔：她起身时没有起来，也没有跟过来。塞雷娜：在湖上等她，转过身，伸手。
+- **人物弧线**：西德妮：从一个 `small voice` 叫她坐起来，到 `forced herself to sit up`，再到 `I have to go`；她知道一回头看他，就会 `lose her nerve`。米奇：拍她的脚，问要不要 `a double feature`。维克多：`sat forward in his chair`，问 `Where are you going, Syd?`。Dol：她起身时没有起来，也没有跟过来。塞雷娜：在湖上等她，转过身，伸手。
 - **叙事手法**：段落短，单句成段的地方多：`She also knew it wasn’t real.`、`On the lake.`、`Burrow deep.` 长的短的交替着来。冷的推进交给动词：`climb`、`scraped`、`went paler`、`disappeared`。对白很少，最后两句留给塞雷娜（`There you are` / `Come on, let’s go home.`），叙述停在她伸出的那只手上。
 
 ## 精读
@@ -22,7 +22,7 @@ modified: "2026-11-01"
 **读者视角提示**：这一块里她还没开口，只有一个念头、一只拍在脚上的手和一句问话。`Syd` 和 `double feature` 都在米奇嘴里，是他把这一晚往后延。
 
 > **原句 2:** "Dol didn’t get up when she did, didn’t follow her across the room, and that made it easier. Another sign that he wasn’t her Dol, this wasn’t her life, as nice as it felt to pretend."
-**中文理解**：她起身的时候多尔没有起来，也没有跟着她穿过房间，这让她好受了一些。这是又一个证据：他不是她的多尔，这不是她的生活——尽管装作如此感觉很好。
+**中文理解**：她起身的时候Dol没有起来，也没有跟着她穿过房间，这让她好受了一些。这是又一个证据：他不是她的Dol，这不是她的生活——尽管装作如此感觉很好。
 **关键词**：didn’t get up · wasn’t her Dol
 **为什么这样写**：两个否定并排放在句子前段：`didn’t get up when she did`、`didn’t follow her across the room`，动作的缺席被写成两个具体的空格，随后才给出结果 `that made it easier`。第二句把结论摊开：`Another sign` 只说这是又一个迹象，本章没有逐条列出此前那些，`he wasn’t her Dol` 与 `this wasn’t her life` 用同一个句式排在一起，最后半句 `as nice as it felt to pretend` 承认了舒服，却没有推翻结论。
 **读者视角提示**：这一块里没有人说话，只有一个人起身、另一个人没动。判断是靠「没做什么」完成的：没起身，没跟过来。
