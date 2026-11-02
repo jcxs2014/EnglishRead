@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者在这里拿到一条界线：能力之前与能力之后。这一章第一次有东西越过了那条线，原文只用一句话带过，没替他惊讶。
 
-> **原句 3:** "Gabriel had replaced one command—Stay in your room—with another—Go with Noah. In this case, the two were contradictory, and so one negated the other. He wondered what would happen if the commands weren’t contradictory."
+> **原句 3:** "“Eli,” a voice—Gabriel’s voice—filled the room, projected from the speakers in the walls. “I want you to meet Noah.”"
+
+**中文理解**：「伊莱，」一个声音——加百列的声音——从墙上的扬声器里灌满整间屋子。「我给你介绍一下诺亚。」
+
+**关键词**：projected from the speakers · meet Noah
+
+**为什么这样写**：加百列没有走进来，他的声音从墙里出来。叙述者先替读者确认这是谁的声音（Gabriel’s voice），再说明它从哪来（projected from the speakers in the walls）——顺序是「谁」在前、「怎么到的」在后，于是加百列的分量靠声音而不靠身体建立。整句没有一个动作，人物只靠一句 I want you to meet Noah 就被摆到了对方面前。
+
+**读者视角提示**：这一章里加百列始终是通过设备出现的：扬声器、通讯、监控。诺亚是他安排的人，不是伊莱自己找来的。
+
+> **原句 4:** "Gabriel had replaced one command—Stay in your room—with another—Go with Noah. In this case, the two were contradictory, and so one negated the other. He wondered what would happen if the commands weren’t contradictory."
 
 **中文理解**：格雷把一条命令换成了另一条：原来那句「待在你房间里」，现在是「跟诺亚走」。这两条互相顶着，于是一条抵消了另一条。他想知道，要是两条命令并不冲突，会怎么样。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一块写的是伊莱的推断，不是定论：旧命令会不会变弱、要不要重新下，他自己也不知道。读者和他站在同一处。
 
-> **原句 4:** "Or so it looked, but Eli could still feel the muscles beneath his hand. He grinned and squeezed harder, Noah’s pulse hammering against his palm before a sudden force—a boot, he realized in retrospect—slammed into Eli’s chest, the force enough to crack a rib, and make him lose his hold."
+> **原句 5:** "Or so it looked, but Eli could still feel the muscles beneath his hand. He grinned and squeezed harder, Noah’s pulse hammering against his palm before a sudden force—a boot, he realized in retrospect—slammed into Eli’s chest, the force enough to crack a rib, and make him lose his hold."
 
 **中文理解**：看上去人是没了，可伊莱手底下还摸得到那副肌肉。他笑了，捏得更紧，诺亚的脉在他掌心里撞；接着一股力量撞上他胸口——事后他才明白是一只靴子——力道足以震裂一根肋骨，也让他松了手。
 

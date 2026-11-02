@@ -69,7 +69,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：跳下去的不是她，替她落地的是别人。她还活着，因为那个人死了——这一层原文没有点破，读者自己会算。
 
-> **原句 6:** "“We can sleep when we’re dead!” offered one, which earned a rousing cheer. “Come on, off we pop,” said the first, shooing June toward the steps, and onto the bus, where she collapsed into a seat, unsure whose hands were trembling—the old woman’s or her own."
+> **原句 6:** "A single shot, fired from the balcony six floors above. It tore through her side, the pain white-hot, brighter than anything she’d felt in years. It stole her breath as blood—her blood—dripped onto the ground."
+
+**中文理解**：一枪，从上面六层的阳台射下来。子弹撕开她的侧腹，疼得白热，比她这些年感受过的任何疼痛都更亮。它夺走了她的呼吸，血——她自己的血——滴在地上。
+
+**关键词**：a single shot · white-hot
+
+**为什么这样写**：三句都由极短的句子开始：a single shot、It tore through her side、It stole her breath，节奏像连续三下撞击。中间的 the pain white-hot 把疼痛写成一种亮度，brighter than anything she’d felt in years 又把亮度放到时间尺度上。最后 blood—her blood—dripped 中那两个破折号把她和地上的血分开又接上：血是她的，也是这具借来的身体的，她正在为一个不认识的人的伤流血。
+
+**读者视角提示**：这一枪决定了本章之后的所有事：琼从六层楼上落下、换壳、又被追上。她第一次为别人流了血。
+
+> **原句 7:** "“We can sleep when we’re dead!” offered one, which earned a rousing cheer. “Come on, off we pop,” said the first, shooing June toward the steps, and onto the bus, where she collapsed into a seat, unsure whose hands were trembling—the old woman’s or her own."
 
 **中文理解**：有人喊「死了再睡！」，引来一片叫好。最先说话的那位说「走吧，我们出发」，把琼往台阶上赶，赶上巴士；琼瘫进座位，分不清发抖的是老太太的手，还是她自己的。
 

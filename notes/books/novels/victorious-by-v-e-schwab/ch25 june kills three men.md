@@ -49,7 +49,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：她既是被看的一方，也是唯一在计算的一方。这杯错酒暂时没人追究，本身就说明这屋里没人在意她手上做什么。
 
-> **原句 4:** "Bella shot up from the sofa and stumbled toward the door, half dressed, as if she was in any danger. June didn’t have a chance to reassure her because the Man on the Couch lunged for the gun on the table, and she had just enough time to trade the blonde she’d been wearing right before he fired three shots into her chest."
+> **原句 4:** "“Harry never saw it coming,” gloated the Man on the Couch."
+
+**中文理解**：「哈里完全没料到，」沙发上的那个男人得意地说。
+
+**关键词**：never saw it coming · gloated
+
+**为什么这样写**：这句是补刀：gloated 一个词就把说话人的立场摆出来——他不是旁观，是享受对方措手不及。never saw it coming 说的是哈里，句子真正在说的是沙发上的那个人怎么看待这件事。一个 gloated 抵一整段得意。
+
+**读者视角提示**：敌意收购这件事真正落地就在这一句：有人打算对哈里动手，而哈里不知道。读者跟着这句知道了在座谁也不干净。
+
+> **原句 5:** "Bella shot up from the sofa and stumbled toward the door, half dressed, as if she was in any danger. June didn’t have a chance to reassure her because the Man on the Couch lunged for the gun on the table, and she had just enough time to trade the blonde she’d been wearing right before he fired three shots into her chest."
 
 **中文理解**：贝拉从沙发上弹起来往门口跑，衣服只穿了一半，仿佛她真有危险似的。朱恩来不及安抚她——沙发上那男人扑向桌上的枪，她只够在枪响之前把身上那具金发身体换掉，于是三发子弹打进去的不是她的胸口。
 
@@ -59,7 +69,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这是全章第一次让我们看着她换身的过程本身：不是躲开，是把弹道挪到别人身上。她赢了这一回合，也刚刚亲手把一个人变成自己的挡箭牌。
 
-> **原句 5:** "She couldn’t wear a dead shell—but that was okay, she was already shifting, abandoning the body for the mustachioed concierge she’d met on her way in, the one who’d sneered when she handed him her coat, like he knew what she was there for."
+> **原句 6:** "She couldn’t wear a dead shell—but that was okay, she was already shifting, abandoning the body for the mustachioed concierge she’d met on her way in, the one who’d sneered when she handed him her coat, like he knew what she was there for."
 
 **中文理解**：她穿不住一具死掉的躯壳——不过没关系，她已经在换了：丢下那具正在倒下的身体，换成进楼时见过的那个留胡子的礼宾员；那人接过她外套时还嗤了一声，像是知道她来干什么。
 
@@ -69,7 +79,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：换身在这里第一次显出冷意——她不需要尸体，只需要一张还没用过的脸。而她挑中的那张脸，恰好是今晚唯一看不起她的人。
 
-> **原句 6:** "June met her eyes—her eyes, green as the surf on a stormy day—and sipped, tasting the spirit for the first time in years. She let it sit on her tongue, smoky and sweet, let it slide through her when she swallowed, warming in its wake."
+> **原句 7:** "June met her eyes—her eyes, green as the surf on a stormy day—and sipped, tasting the spirit for the first time in years. She let it sit on her tongue, smoky and sweet, let it slide through her when she swallowed, warming in its wake."
 
 **中文理解**：朱恩和自己的眼睛对上——那双眼睛绿得像暴风雨天的海浪——抿了一口，这是多年来第一次尝到酒的味道。她让酒停在舌头上，烟熏味带着甜，咽下去时一路暖过来。
 

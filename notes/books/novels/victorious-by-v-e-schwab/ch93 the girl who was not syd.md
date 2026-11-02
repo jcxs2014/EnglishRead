@@ -29,28 +29,38 @@ modified: "2026-11-01"
 **为什么这样写**：引爆被压进一个顺手的小动作：拧钥匙。C4 的来历只用半句交代——琼绑上去的——没有写她什么时候动的手。第二个句子把爆炸的规模从近处量到远处：车与那名探员成了碎片，十几码外的装甲车被震得摇晃；伤害一圈圈往外扩，落点在 "a dozen yards away"。
 **读者视角提示**：钥匙是那名探员自己拧的，「查看」在他手指底下变成了「引爆」。读者跟着他的手走，爆炸在同一句里发生，前面没有预警的句子，也没有人喊一声。
 
-> **原句 3:** "She stumbled, swapping bodies before the first one died, and drawing a serrated knife. She darted forward, slipping in beneath the agent’s guard before they could get off a second shot, and fit the blade into the crook just beneath the helmet’s chin, carving quick and deep."
+> **原句 3:** "June fired, painting the window behind him red as the agents in the back of the van sprang into action."
+
+**中文理解**：琼开了枪，把车窗外那一片染成红色，与此同时，车厢后面的探员们弹起身来。
+
+**关键词**：painting the window red · sprang into action
+
+**为什么这样写**：分词短语 painting…red 把一次开枪写成一笔涂抹：不是 bullet，是 paint，人被写成了一幅画的底。as 一边连接后面的动作，车里的人正在起身——两个动作被绑在同一时间里，读者没法先处理其中一个。最后一个词用了跳（sprang），说明战斗在枪响的同时才真正开始。
+
+**读者视角提示**：这一章的追车在烟幕里打。琼一直在借别人的身体开路——司机、探员、车厢——这一枪是本章她第一次直接动手。
+
+> **原句 4:** "She stumbled, swapping bodies before the first one died, and drawing a serrated knife. She darted forward, slipping in beneath the agent’s guard before they could get off a second shot, and fit the blade into the crook just beneath the helmet’s chin, carving quick and deep."
 
 **中文理解**：她踉跄了一下，趁借用的那具身体还没断气就换成另一具，同时抽出一把锯齿刀。她往前一冲，钻进那名探员防守的内侧，抢在对方开出第二枪之前，把刀嵌进头盔下缘与下巴之间的凹处，划得又快又深。
 **关键词**：a serrated knife · the helmet’s chin
 **为什么这样写**：换身体被写成连贯动作里的一个环节：中弹、踉跄、换、抽刀，全挤在第一句里，中间没有停顿。第二句给的是路线：往前、钻进去、抢在第二枪之前、找头盔护不到的地方。刀的落点写得极具体——"just beneath the helmet’s chin"——对方护甲越完整，这一处空隙就越要紧。
 **读者视角提示**：换身体发生在她挨枪的那具身体断气之前，两个动作几乎同时。读者看到的是效率：中弹没有让她退，只让她换一个身体继续往前。
 
-> **原句 4:** "She turned toward the rear doors, and saw Sydney’s small form, curled on her side at the far end, her back to June. She was strapped to the bench, blindfolded and hands bound, an IV running into her wrist."
+> **原句 5:** "She turned toward the rear doors, and saw Sydney’s small form, curled on her side at the far end, her back to June. She was strapped to the bench, blindfolded and hands bound, an IV running into her wrist."
 
 **中文理解**：她转向车尾的门，看见西德妮小小的身子蜷在最里头，背对着她。人被绑在长凳上，蒙着眼，双手捆着，手腕里插着输液管。
 **关键词**：Sydney’s small form · hands bound
 **为什么这样写**：镜头先给纵深——最里头、背对——再一层层收窄：绑在长凳上、蒙眼、手被捆、输液。四个细节全是束缚，最后一项带着医疗气息：她不是被关着，是被处理着。整段没有她的一句话，也没有琼的呼喊。
 **读者视角提示**：读者跟着琼的视线往里看，先看到的是一个姿势，不是一张脸；她背对着门，所以脸留到了后面。
 
-> **原句 5:** "She was about to tell him when Sydney’s sister sighed, and her eyes drifted open, cloudless and blue. As they did, the dark interior of the transport van blurred around June."
+> **原句 6:** "She was about to tell him when Sydney’s sister sighed, and her eyes drifted open, cloudless and blue. As they did, the dark interior of the transport van blurred around June."
 
 **中文理解**：她正要回答电话那头，那个女孩——句子里第一次把她叫作「西德妮的姐姐」——叹了口气，睁开眼睛，一双没有云的蓝眼睛。就在那一瞬，运输车暗下来的车厢在琼周围糊开了。
 **关键词**：Sydney’s sister · blurred around June
 **为什么这样写**：第一个分句还挂在上一通电话上，"when" 一转折，注意力就交给那个女孩。她只做了两个动作：叹气、睁眼；随后变化发生在车厢上——暗、糊、失去形状，全部写在琼的视野里，没有一句写女孩做了什么。眼睛的颜色是这一段唯一的外貌描写，也是最后一件还清楚的东西。
 **读者视角提示**：读者和琼同时听到「西德妮的姐姐」这个称呼，也同时看见车厢开始化开。到这里，读者手里同时有一个新称呼和一间正在化开的车厢。
 
-> **原句 6:** "And this wasn’t just any diner. It was the one back home, and she was sitting in her favorite booth, emptying sachet after sachet into her coffee, waiting to see how many it would take for the spoon to stand up straight."
+> **原句 7:** "And this wasn’t just any diner. It was the one back home, and she was sitting in her favorite booth, emptying sachet after sachet into her coffee, waiting to see how many it would take for the spoon to stand up straight."
 
 **中文理解**：这不是随便一家餐馆，是她老家那一家；她坐在自己最喜欢的卡座里，一包接一包往咖啡里倒糖，想看要倒多少包，勺子才能立起来。
 **关键词**：any diner · favorite booth

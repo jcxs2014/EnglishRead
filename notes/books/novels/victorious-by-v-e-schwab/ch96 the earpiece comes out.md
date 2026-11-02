@@ -33,7 +33,17 @@ modified: "2026-11-01"
 **为什么这样写**：句子先写视线怎么回来：drawn back，再落到 the second figure descending from the van。接着是两个动作，stared into the woods 与 tugged his earpiece out，用 and then 排出先后。最后一句只有三个词，A premeditated gesture，把摘耳机这一步定成事先想好的；短句单独站着，与前面的长句不是一个重量。
 **读者视角提示**：读者跟着加百列的视线走：先看见人从车上下来，再看见他看树林，最后看见他的手抬到耳边。定性放在动作之后，读者先看到动作，再看到这个动作的名字。
 
-> **原句 4:** "Hindsight, he mused, as back at the other transport, Eli took off running through the woods, Noah in pursuit, shouting at the EO to stop, and at Gabriel to stop him. Which, incidentally, he could."
+> **原句 4:** "Perhaps Helena was right—he should have told them to keep moving."
+
+**中文理解**：也许海伦娜是对的——他本该让他们继续走。
+
+**关键词**：Helena was right · keep moving
+
+**为什么这样写**：这是全章最短的一段，插在一场爆炸和一场追逐之间。前一句还在写黄色的敞篷车、烟雾、枪声，后一句突然收缩成一个 Perhaps——叙述者把声音压低，像在心里补一句没说出口的话。should have 是过去式里的一扇门：如果当时说了这句话，一切会不同。
+
+**读者视角提示**：这句是加百列的自我追责。海伦娜建议继续走，他选择留下——本章后半的每一步都在为这个选择付账。
+
+> **原句 5:** "Hindsight, he mused, as back at the other transport, Eli took off running through the woods, Noah in pursuit, shouting at the EO to stop, and at Gabriel to stop him. Which, incidentally, he could."
 **中文理解**：他在心里说了一句「事后看」：另一辆厢车那边，伊莱已经跑进树林，诺亚追上去，一边喊 EO 站住，一边喊加百列拦住他——而拦住他这件事，加百列是做得到的。
 **关键词**：took off running · Noah in pursuit
 **为什么这样写**：Hindsight, he mused 把正在发生的事放进事后回看的语气里，一个 as 把镜头带回 another transport，随后三个动作连着来：took off running、Noah in pursuit、shouting。喊话的对象有两个，the EO 与 Gabriel；句号落在 him 上，紧接着 Which, incidentally, he could 单起一句，只讲做得到，不讲做没做。

@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：这段的判断是「病得很重」，不是「有蹊跷」。把鬼当成症状来归档，恰恰说明看的地方不对——而这一章要纠正的正是这一点。
 
-> **原句 3:** "“That’s why you never hear about people like me,” insisted Paul. “They make ’em disappear. They scrub the evidence, but there are threads about it, if you know where to look."
+> **原句 3:** "The accident, according to Paul’s file, involved sleepwalking out of a fourth-story window eighteen months before. Nine broken bones. A six-week coma. By all accounts, Paul Barnett shouldn’t be alive. And yet."
+
+**中文理解**：按保罗的病历，那次事故发生在十八个月前：梦游着从四楼的窗户摔了下去。九根骨头断了，昏迷了六周。按所有记录，保罗·巴内特不该活下来。可他偏偏活了下来。
+
+**关键词**：nine broken bones · a six-week coma
+
+**为什么这样写**：这段是叙述者，而不是加百列；句子从病历体起手（according to Paul’s file），随后用三个短句把数字一个一个砸下来：九根骨头、六周昏迷。前一句还带出处，后两句不再带——像病历念到最后，念的人自己也不信了。最后半句 And yet 单独断在这里，把前三句的结论顶回去。
+
+**读者视角提示**：数字在这一段第一次也是唯一一次出现：四楼、九根骨头、六周、十八个月。读者如果只记住一个细节，应该是「他本该死」这一条——后面「梦会成真」的说法，正是从这份本该死的人身上长出来的。
+
+> **原句 4:** "“That’s why you never hear about people like me,” insisted Paul. “They make ’em disappear. They scrub the evidence, but there are threads about it, if you know where to look."
 
 **中文理解**：「这就是为什么你从来听不到像我这样的人，」保罗坚持说。「他们会让这些人消失。他们会把证据擦干净，不过线索还是有的，只要你知道去哪儿找。」
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：他要的不是被相信，是被允许继续找——最后那半句把话头递了出去，等对方接。
 
-> **原句 4:** "Which was more likely? That his new patient possessed the ability to manifest his dreams into reality, an ability no one else had ever witnessed, an ability he himself had never witnessed, for fear that an unknown government entity would erase all traces of him?"
+> **原句 5:** "Which was more likely? That his new patient possessed the ability to manifest his dreams into reality, an ability no one else had ever witnessed, an ability he himself had never witnessed, for fear that an unknown government entity would erase all traces of him?"
 
 **中文理解**：哪一种更可能？他这位新病人真的拥有把梦变成现实的能力——一种从没有人见过的能力，连他自己也从没见过，因为有个不知名的政府机构会把他的痕迹全部抹掉？
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这个长句是本章的分水岭。留意它并不给答案——它只把问题摆好，整章剩下的部分都在回答它。
 
-> **原句 5:** "Paul tensed at the suggestion, as if comfort were an enemy, and Gabriel supposed that it was. If you were convinced that sleep would lead to dreams and dreams would lead to peril, then comfort did indeed seem dangerous."
+> **原句 6:** "Paul tensed at the suggestion, as if comfort were an enemy, and Gabriel supposed that it was. If you were convinced that sleep would lead to dreams and dreams would lead to peril, then comfort did indeed seem dangerous."
 
 **中文理解**：听到「让自己舒服一点」这个建议，保罗反而绷紧了，仿佛舒服是敌人；而加百列认为它确实是。如果你确信睡着会带来梦、梦会带来危险，那么舒服看起来就真的危险。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一段里没有一句安慰。医生做的是承认——承认在这套逻辑里舒服确实危险；承认之后他要做什么，才是这一章的问题。
 
-> **原句 6:** "And that was when he heard the hiss. A low sound, like air escaping from a punctured tire. Gabriel looked up in time to see the triangular head of a snake rising up from Paul’s chest."
+> **原句 7:** "And that was when he heard the hiss. A low sound, like air escaping from a punctured tire. Gabriel looked up in time to see the triangular head of a snake rising up from Paul’s chest."
 
 **中文理解**：就在那时，他听见了那声嘶响。一个很低的声音，像空气从扎破的轮胎里漏出来。加百列抬起头，正好看见一个蛇的三角脑袋从保罗胸口升起来。
 
@@ -75,7 +85,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：漏气这个比喻不只是像，它把蛇写成了从内部泄出来的东西——它不是从门外进来的。
 
-> **原句 7:** "The darkness vanished, too. The lights in the office burned clean and white, and Gabriel was standing, breathless and unbitten, over Paul, who was blinking up at him, trying to shake off the haze of sleep."
+> **原句 8:** "The darkness vanished, too. The lights in the office burned clean and white, and Gabriel was standing, breathless and unbitten, over Paul, who was blinking up at him, trying to shake off the haze of sleep."
 
 **中文理解**：黑暗也消失了。诊室的灯烧得干净雪白，他站在保罗上方，屏着气，身上没有一处咬痕；保罗正眨着眼看他，想把睡意从身上抖掉。
 
@@ -85,7 +95,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：「没被咬」是这一块里最会骗人的说法。牙没落到他身上，这句话只说结果，不说原因。
 
-> **原句 8:** "It should have been an easy question. After all, Gabriel had seen the snakes with his own eyes. Watched them rise out of Paul’s nightmare-stricken chest and slither across the polished floor."
+> **原句 9:** "It should have been an easy question. After all, Gabriel had seen the snakes with his own eyes. Watched them rise out of Paul’s nightmare-stricken chest and slither across the polished floor."
 
 **中文理解**：这本来应该是个容易回答的问题。毕竟，加百列亲眼看见了那些蛇。他看着它们从保罗被噩梦缠住的胸腔里升起，滑过打过蜡的地板。
 
@@ -95,7 +105,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：三样证据都指向「是」，可这一块的重点其实在第一句——「本来应该」是事后补上的判断，不是当时的感觉。
 
-> **原句 9:** "If he said yes, he’d be discredited, and Paul would disappear—behind the walls of an institution, or worse (if one delusion proved true, why not another?), into some government lab. Either way, he’d never see his patient again. And he would never understand what he’d just witnessed."
+> **原句 10:** "If he said yes, he’d be discredited, and Paul would disappear—behind the walls of an institution, or worse (if one delusion proved true, why not another?), into some government lab. Either way, he’d never see his patient again. And he would never understand what he’d just witnessed."
 
 **中文理解**：如果他说「是」，他的信誉就毁了，保罗会消失——被关进某家机构的墙里，或者更糟（既然一个妄想能成真，为什么不能有第二个？），被送进某个政府实验室。无论哪一种，他都再也见不到这个病人。而且他永远也弄不明白自己刚才看见了什么。
 
@@ -105,7 +115,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：「他永远也弄不明白」这句是动机的钥匙——对他来说，比名声更贵的是答案。他说的每一句软话，都可以拿这句去量。
 
-> **原句 10:** "“I could tell you it’s to make sure you don’t abuse the pills, but the truth is, sedation is a stopgap. I want you to come back, Paul. I want you to let me help."
+> **原句 11:** "“I could tell you it’s to make sure you don’t abuse the pills, but the truth is, sedation is a stopgap. I want you to come back, Paul. I want you to let me help."
 
 **中文理解**：「我本可以告诉你，这是为了防止你滥用药物，但事实是，镇静只是权宜之计。我要你回来，保罗。我要你让我帮你。」
 
@@ -115,7 +125,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：把权宜之计这个词记牢。它承认了这一次只是按住，而按住的下一步，才是他真正要的东西。
 
-> **原句 11:** "As soon as it closed behind him, Gabriel collapsed onto the sofa, heart racing in his chest. His gaze dropped to his left forearm, settled on the two faint pink dots where the serpent’s fangs had met, but failed to break, the skin."
+> **原句 12:** "As soon as it closed behind him, Gabriel collapsed onto the sofa, heart racing in his chest. His gaze dropped to his left forearm, settled on the two faint pink dots where the serpent’s fangs had met, but failed to break, the skin."
 
 **中文理解**：门一在他身后合上，他就瘫倒在沙发上，心在胸腔里猛跳。他的目光落到自己左前臂上，停在两个淡淡的粉色小点上——蛇牙碰过那里，却没有咬破皮肤。
 

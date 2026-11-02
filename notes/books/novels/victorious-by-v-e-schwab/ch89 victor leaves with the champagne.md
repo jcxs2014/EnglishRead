@@ -40,14 +40,24 @@ modified: "2026-11-01"
 **为什么这样写**：这一段是转述里的转述——他讲，她听，怒气压在脸上不发作。句子用一串「how」把过程接成一条不断的线：四个人、前两个、第三个、痛起来、越来越重、停住、退去，全都挤在一句里，读起来像他不肯停下来喘口气。数字是这句里唯一的刻度。
 **读者视角提示**：读者听到的只有他自己讲的这一版，疼痛的曲线也是他给的：起来、加重、停住、退去。她压着的那张脸，是这段叙述唯一的旁注。
 
-> **原句 4:** "“You said the serum stopped working, but it didn’t. If it had, you would have eventually gone into cardiac arrest. And your chest pain didn’t start until you pushed yourself too hard.”"
+> **原句 4:** "“Look, obviously the drug still needs refinement. Which is why I didn’t give you more than one dose. Forgive me if I didn’t anticipate you taking your powers for a joyride.”"
+
+**中文理解**：「听着，显然这药还得再改良。这就是我只给你一剂的原因。抱歉，我没料到你把自己的能力当兜风去撒野。」
+
+**关键词**：needs refinement · more than one dose
+
+**为什么这样写**：三句里她先认输（obviously the drug still needs refinement），再给理由（which is why I didn’t give you more than one dose），最后才反咬一口（Forgive me if I didn’t anticipate…）。单数 dose 这个词是全段的关键：剂量是她能控制的唯一变量，所以「只给一剂」既是医嘱也是划界。joyride 一个词把伊莱的测试写成兜风，轻佻，但轻佻背后是她在推责任。
+
+**读者视角提示**：这一章的数字是一剂。「只给一剂」既是她能给的上限，也说明这药还没过关——到这一章为止，它仍然会出问题。
+
+> **原句 5:** "“You said the serum stopped working, but it didn’t. If it had, you would have eventually gone into cardiac arrest. And your chest pain didn’t start until you pushed yourself too hard.”"
 
 **中文理解**：她说：你说血清失效了，可它没有；真失效，你迟早会心脏停跳。你的胸痛，是在你把自己逼得太狠之后才开始的。
 **关键词**：cardiac arrest · pushed yourself too hard
 **为什么这样写**：三句话是一条推理：先否掉他的结论，再给出否掉之后的后果——心脏停跳，最后把时间点钉在「用力过猛之后」。开头「你说……但」把他原话退回去，她不做安慰，只做反证。
 **读者视角提示**：他带回来的「血清失效了」在这三句里被拆开：血清没坏，问题出在用法上。读者跟着这条推理，会重新算一遍他身上的伤是怎么来的。
 
-> **原句 5:** "She looked around the half-made room, couldn’t believe she was about to say it, but— “You should stay here tonight, in case that changes. I’ll get some blankets for the couch,” she added, heading down the hall."
+> **原句 6:** "She looked around the half-made room, couldn’t believe she was about to say it, but— “You should stay here tonight, in case that changes. I’ll get some blankets for the couch,” she added, heading down the hall."
 
 **中文理解**：她环视这间没收拾好的屋子，几乎不敢信自己要说出口，可还是说了：你今晚就留在这儿，万一情况有变；我去给沙发拿几条毯子。说完就往走廊去了。
 **关键词**：stay here tonight · half-made room

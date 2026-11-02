@@ -79,6 +79,36 @@ modified: "2026-11-01"
 
 **读者视角提示**：注意他先拿「能力」解释那一眼，然后才想到「被看穿」——他习惯把人当成可以归类的对象。
 
+> **原句 7:** "“EON found me,” she said evenly. “And they gave me a choice.” She swallowed. “Stell gave me a choice.”"
+
+**中文理解**：「是 EON 找到我的，」她平平地说。「他们给了我一个选择。」她咽了一下。「是斯特尔给我的选择。」
+
+**关键词**：gave me a choice · Stell
+
+**为什么这样写**：先给来源，再给选择，最后才给名字，三步各占一句。前面两句都是被动语态（they gave me），把选项的人藏在机构后面；第三句换成主动语态，把那个人点出来。中间那个 swallow 把这个选择说出口的重量交代了——她答得出，但答得艰难。
+
+**读者视角提示**：这是本章唯一一次提到斯特尔。里奥斯不是被抓进来的，她是被找到、被给了选择才进来的；加百列问的那句「serve me or spend your life in a cell」，指的是她怎么答这道题。
+
+> **原句 8:** "But Rios wasn’t. She straightened. “People are good and bad and everything between. And EOs are people. We come in all kinds. But the majority of EOs either can’t control their power, or don’t want to. The first one I caught could make bombs out of thin air. They were about to blow up a school.”"
+
+**中文理解**：但里奥斯没有。她站直了身子。她说，人有好有坏，中间什么都有，而非常人也是人，我们分很多种；可大多数非常人要么控制不住自己的力量，要么不想控制。她抓到的第一个能凭空造炸弹，差点炸掉一所学校。
+
+**关键词**：Rios wasn’t · everything between
+
+**为什么这样写**：先写海伦娜在这段问答里的不适，再写里奥斯相反的反应——她站直了。这个身体动作把接下来的话定性：接下来的不是应付，是陈述。总纲一句（好人与坏人之间什么都有）之后立刻被具体案例顶掉：第一个能造炸弹、差点炸掉学校。
+
+**读者视角提示**：这几句是加百列逼出来的供述。海伦娜问不动，里奥斯能自己往下说；她给的是分类，不是辩解。
+
+> **原句 9:** "The next one drowned six people by accident. The first meant to be dangerous, the second didn’t, but both of them were.” She lifted her chin. “I was in the marines, for seven years. I chose to serve my country then. I choose to serve it now.”"
+
+**中文理解**：第二个意外淹死了六个人。前一个本意就是要伤人，后一个不是，可两个都是危险品。她抬起下巴：她在海军服过七年役。那时候她选择为国效力，现在她仍然选择。
+
+**关键词**：drowned six people · I chose to serve
+
+**为什么这样写**：先给第二个案例，再用一个对子把两种危险摆开（本来就要伤人／不是本意但仍然是）——危险不在动机上，在结果上。落点在两个 chose：同一个动词，换了时态，从过去的选择变成现在的选择，服役的对象也从国家换成机构。那句 marine 里的七年，是她唯一的履历底稿。
+
+**读者视角提示**：她说「我选择服役」的时候抬起了下巴。这句话里最有分量的不是军衔，是 chose——她两次都用了同一个词，说明今天的选择和七年前的那个是同一种动作。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

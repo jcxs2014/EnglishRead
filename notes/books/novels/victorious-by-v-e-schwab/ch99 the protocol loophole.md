@@ -21,25 +21,35 @@ modified: "2026-11-01"
 **为什么这样写**：三句从抽象走到具体：先给 energy，再把它落到 electrical current 上，最后借 fingerprint 点出「唯一」这个性质。第三句把 at a distance 和 up close 放在同一句的两头，距离本身成了判据。
 **读者视角提示**：这一段只给规则，没给例外。读者先记住他能把人和人分开，再往下才看得懂他在公园里为什么会卡住。
 
-> **原句 2:** "Eyes on the passing world, she told him about an EON agent named Rios. An EO. Of the call she’d gotten, and the trap it turned out to be, of her near-capture, and her close escape."
+> **原句 2:** "June chewed the inside of her cheek and looked out the window. “I never found out,” she said. “I had a lead, but…” she trailed off."
+
+**中文理解**：琼咬着腮帮内侧，看向窗外。「我从来没查到，」她说。「我有一条线索，可是……」她的话断在那里。
+
+**关键词**：chewed her cheek · never found out
+
+**为什么这样写**：回答之前先给一个身体动作：咬着腮帮内侧、看向窗外——这是拖延时间的动作，说明她自己也知道这个答案不好说。I never found out 用过去式而不是 didn't find out：前者是她从未查到，后者是这次没查到。前半句是完整断言，后半句 I had a lead, but… 用一个破折号式的省略收在 but 上，线索存在，线索断了。
+
+**读者视角提示**：琼在 EON 的幕后负责人是谁，本章她仍然没答。这条线要到后面才合拢。
+
+> **原句 3:** "Eyes on the passing world, she told him about an EON agent named Rios. An EO. Of the call she’d gotten, and the trap it turned out to be, of her near-capture, and her close escape."
 **中文理解**：她的眼睛望着掠过的世界，跟他讲一个叫里奥斯的 EON 特工。也是个 EO。讲那通打来的电话，讲电话原来是个圈套，讲她差点被抓，讲她怎么脱身。
 **关键词**：an EON agent · close escape
 **为什么这样写**：第二句只有 An EO. 两个词，单独成句，把里奥斯从「EON 的人」挪成「和她一样的人」。第三句用三个 of 把电话、圈套、被抓、脱身串成一条，一件事一个逗号，语气平得像在念清单。
 **读者视角提示**：她说话时脸朝着窗外。读者拿到的是四件事的次序，不是她的感受；感受要再往下几行才露面。
 
-> **原句 3:** "So far, the stretch of road had been deserted. But just ahead, a car had veered across the lanes, and into a pole. The driver sat on the shoulder, holding a bloody compress to his head as a paramedic shone a penlight in his eyes."
+> **原句 4:** "So far, the stretch of road had been deserted. But just ahead, a car had veered across the lanes, and into a pole. The driver sat on the shoulder, holding a bloody compress to his head as a paramedic shone a penlight in his eyes."
 **中文理解**：这一段路本来是空的。就在前面，一辆车横过车道，撞进一根杆子。司机坐在路肩上，用一块带血的纱布压着头，一名急救员拿笔灯照他的眼睛。
 **关键词**：veered across the lanes · bloody compress
 **为什么这样写**：头两句都写路：先空，再撞。第三句把镜头收到人身上，compress 压着头，penlight 照着眼睛，两个动作都落在头部，伤的轻重不必另说。
 **读者视角提示**：读者在这里只看见事故，看不见原因；原因要等后面几起撞车摆到一起才成形。
 
-> **原句 4:** "The kind of personal inflection a program would never implement. For the first time, Mitch wondered if there was a chance he was talking to someone instead of something. A person instead of a program."
+> **原句 5:** "The kind of personal inflection a program would never implement. For the first time, Mitch wondered if there was a chance he was talking to someone instead of something. A person instead of a program."
 **中文理解**：那是程序不会写出来的一种个人语气。米奇第一次想：自己也许是在跟一个人说话，而不是跟一个东西。一个人，不是一段程序。
 **关键词**：personal inflection · instead of something
 **为什么这样写**：三句一句比一句短，最后一句只有六个词，把中间那句的 someone instead of something 换成 a person instead of a program 再说一遍，重复一次，判断就落定了。
 **读者视角提示**：证据小到一个句号。读者的注意力跟着米奇从整块屏幕缩到两个词之间。
 
-> **原句 5:** "If an EO was designated as an automatic threat to the system, how could it be permitted to protect it? The answer was, it couldn’t. The EO on the other side must have grasped the loophole at the same time because code spilled down the screen, and then it disappeared, replaced by a single, blinking cursor."
+> **原句 6:** "If an EO was designated as an automatic threat to the system, how could it be permitted to protect it? The answer was, it couldn’t. The EO on the other side must have grasped the loophole at the same time because code spilled down the screen, and then it disappeared, replaced by a single, blinking cursor."
 **中文理解**：如果一个 EO 被划成系统的自动威胁，它怎么还能被允许去保护系统？答案是不能。对面那个 EO 想必同时看出了这个漏洞，因为代码刷满屏幕，随即消失，换成一个闪动的光标。
 **关键词**：an automatic threat · grasped the loophole
 **为什么这样写**：一问一答摆在最前面，问句长，答句五个词。第三句把两侧的动作并进一句：屏幕先被代码填满，再被收成一个点在闪。中间没有写谁先动手，只写了同一时间。

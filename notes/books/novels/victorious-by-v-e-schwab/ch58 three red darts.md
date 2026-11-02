@@ -25,7 +25,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者先读到一份关于他体格的总结，再读到他正从地上爬起来——这份总结在此时此地已经不作数。
 
-> **原句 2:** "One second it was right there, glinting dully on the pavement, and the next it twitched, as if a hand had closed around it, and the next, it was just gone. And before Mitch could process what that meant, he saw the agents circling, two of them, dressed head to toe in armored black, their faces hidden behind visored helmets."
+> **原句 2:** "When he swallowed, he tasted blood, and hoped it was his cheek and not something more important as he spit a glob onto the pavement. He turned back toward the stairs, searching for the source of the cheap shot, the person who’d attacked him. But they were gone."
+
+**中文理解**：他咽了一下，嘴里有血味；他把那团血吐到地上，希望那只是脸颊破了，而不是什么更要紧的地方。他转身回头望向楼梯，想找出那一记廉价射击的来源、找出袭击他的人。可人已经不见了。
+
+**关键词**：it was his cheek · they were gone
+
+**为什么这样写**：两句话两件事：先处理身体（tasted blood、hoped it was his cheek），再处理对手（turned back toward the stairs、searching for the source of the cheap shot）。cheap shot 这个词把枪击贬成一句便宜话，读者跟着他的轻蔑走；最后 but they were gone 三个词收掉——袭击者不是被打退的，是退走的。
+
+**读者视角提示**：这一章里枪在消失：霰弹枪先被人拿走，然后它在米奇眼前凭空不见。读者在这里第一次意识到对手不只是能开枪。
+
+> **原句 3:** "One second it was right there, glinting dully on the pavement, and the next it twitched, as if a hand had closed around it, and the next, it was just gone. And before Mitch could process what that meant, he saw the agents circling, two of them, dressed head to toe in armored black, their faces hidden behind visored helmets."
 
 **中文理解**：前一秒它明明还在，在路面上发着暗光；下一秒它抽动了一下，像有一只手握住了它；再下一秒，它就不见了。米奇还没想明白这意味着什么，就看见探员们在绕着圈走，两个，从头到脚一身黑甲，脸藏在带面盔的头盔后面。
 
@@ -35,7 +45,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：枪自己消失，比被人夺走更让人心里没底——他连对手站在哪儿都指不出来。
 
-> **原句 3:** "Not for long—the time it took to suck in a breath, to steady his aim—but it was long enough for a third agent, the one he couldn’t see, to bring something—the shotgun barrel, if Mitch had to guess—down onto his outstretched arm."
+> **原句 4:** "Not for long—the time it took to suck in a breath, to steady his aim—but it was long enough for a third agent, the one he couldn’t see, to bring something—the shotgun barrel, if Mitch had to guess—down onto his outstretched arm."
 
 **中文理解**：这个停顿没有持续多久——只够他吸一口气、把瞄准稳住——可已经够长，长到第三个他看不见的探员把一样东西砸在他伸出的那条手臂上；那样东西，米奇如果非要猜，就是霰弹枪管。
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：他停了一下，代价是一条手臂。这个停顿有多短，读者是跟着那两个破折号一起数出来的。
 
-> **原句 4:** "Standing in the front yard, he’d been wearing black sunglasses. Now, Mitch saw why. Without them, his eyes were a swirling mess of color that would have instantly given him away."
+> **原句 5:** "Standing in the front yard, he’d been wearing black sunglasses. Now, Mitch saw why. Without them, his eyes were a swirling mess of color that would have instantly given him away."
 
 **中文理解**：在小屋前院站着的时候，他戴着黑色墨镜；现在米奇明白为什么了。不戴墨镜，他那双眼睛是一片翻搅的颜色，会当场把他暴露出来。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：认出他不是靠脸，是靠那双藏不住的眼睛。前院那次见面里读者没看见的部分，到这里补齐了。
 
-> **原句 5:** "As the cold metal came to rest over his heart, all Mitch could think was that he hadn’t gotten to call Victor. Which meant, no one was coming to help him. To help Syd."
+> **原句 6:** "As the cold metal came to rest over his heart, all Mitch could think was that he hadn’t gotten to call Victor. Which meant, no one was coming to help him. To help Syd."
 
 **中文理解**：冰凉的金属停在他心口上，米奇能想到的只有一件事：他还没来得及给维克多打那个电话。也就是说，没有人会来救他，也没有人会来救西德妮。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者在这里知道，等不到援兵不是运气问题，是那通电话没有打出去。
 
-> **原句 6:** "The force slammed him backward, pain flooding his body, followed by a cold numbness he didn’t understand until he looked down and saw he wasn’t dying. There was no blood spreading across his front. Instead, three red darts jutted from between his ribs."
+> **原句 7:** "The force slammed him backward, pain flooding his body, followed by a cold numbness he didn’t understand until he looked down and saw he wasn’t dying. There was no blood spreading across his front. Instead, three red darts jutted from between his ribs."
 
 **中文理解**：那股力量把他往后掀，疼痛灌满身体，接着是一种他不懂的冷麻——直到他低头看见自己并没有在死。胸前没有血漫开来；插在他肋骨之间的，是三支红色飞镖。
 

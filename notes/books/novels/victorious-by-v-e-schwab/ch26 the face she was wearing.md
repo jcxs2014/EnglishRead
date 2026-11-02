@@ -59,6 +59,16 @@ modified: "2026-11-01"
 
 **读者视角提示**：「像你这样的姑娘」这句话里没有一个字是指控，却已经替对方定了位置——她认为那地方不该有这样的人。她没问职位，也没问理由。
 
+> **原句 5:** "“Now who’s curious?” teased June. But she was happy to oblige, for the sake of rapport. “Anyone I’ve met, so long as they’re still alive.” She sat forward, and as she did, she traded the neighbor for a blandly handsome white guy. “Anyone I’ve touched.” Rios’s hand went reflexively to her wrist, to the bare skin June had rested her fingers on."
+
+**中文理解**：「现在是谁好奇了？」琼打趣道。但为了拉近关系，她乐意满足这个要求：「我见过的任何人，只要他们还活着。」她往前一坐，顺势把那个邻居换成另一个长相平淡的白人男人。「还有我碰过的任何人。」里奥斯的手反射性地按向她自己的手腕——按向刚才琼手指搭过的那片裸露皮肤。
+
+**关键词**：still alive · traded the neighbor for
+
+**为什么这样写**：她把能力规则当人情送出去，for the sake of rapport 六个字先声明这是交换。规则本身写成两个条件：见过的、碰过的，第二个条件外加一个前提——还活着。说到第二条时她换了张脸：traded the neighbor for a blandly handsome white guy，一边说规则一边演示。里奥斯的手按向手腕那一笔紧跟着：读者这才算出「碰过」意味着什么。
+
+**读者视角提示**：这一句是全书第一次把琼的能力规则写全。前提「只要还活着」也是本章的倒计时——她借用的每一个身体都还是活的，这是她这门手艺唯一的期限。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

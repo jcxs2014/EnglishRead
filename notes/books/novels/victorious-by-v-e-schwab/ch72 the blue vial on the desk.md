@@ -50,6 +50,26 @@ modified: "2026-11-01"
 **为什么这样写**：先说这是 calculated risk，紧接着把风险换成一个身体坐标：两根肋骨之间，刀进去的位置。抽象的词落地，读者手上多了一个能指的地方。最后一句把时间推回那个黑夜，between Eli's goading and the gun 把两样东西并排放在一起，收在 nothing left to lose 上。
 **读者视角提示**：读者在这一块听见他把自己交出去的理由——他自己管这叫「算过的风险」，理由是没有别的可失去的。刀的位置由他自己指出来：第二与第三根肋骨之间，这个动作比任何威胁都具体。
 
+> **原句 6:** "“How long until you need another dose?” she asked. “Seven hours.” At first, it had been nearly twelve, but that window, like all of them, was shrinking."
+
+**中文理解**：她问：还要多久你才需要再补一剂？他答：七小时。最初的时候接近十二小时，但那个窗口——和所有窗口一样——正在缩短。
+
+**关键词**：another dose · was shrinking
+
+**为什么这样写**：一问一答两句就把药效的账目摆完：现在七小时，起初近十二小时。一个在缩，一个没缩，这组对比本身就是威胁——他剩下的时间只会更少，不必任何人开口提醒。最后那个 like all of them 把这一次的收缩推广成通例：不止这一剂在缩。
+
+**读者视角提示**：这是全书第一次给出药效的具体数字。它同时是本章的倒计时：他必须在一个窗口不断收窄的时间里，找到一个不靠这管药活下去的办法。
+
+> **原句 7:** "She glanced at a clock on the wall, lips moving as she counted. “Come back tomorrow night at eight.” She was timing it so a dose would wear off while he was there. “I’ll reserve the lab.”"
+
+**中文理解**：她瞥了一眼墙上的钟，嘴唇动着在默算。「明天晚上八点再来。」她在算准时间，让一剂药在他到的时候正好失效。「实验室我给你留着。」
+
+**关键词**：lips moving · reserve the lab
+
+**为什么这样写**：她回答之前先默算：lips moving as she counted 把这个决定写成一个算术动作，八点这个数字是被推出来的，不是随口说的。叙事者随后把这层意图点破——她要的是药效正好掉下去的那一刻，也就是他最虚弱的那一刻。最后那句 I’ll reserve the lab 用将来时收尾：实验室已经预留，人却还没到。
+
+**读者视角提示**：这一章的规则在这里被交出来：约的是八点，不是「明天」，是精确到小时的。她把一个未来的自己交出去当试验材料——而实验室那句平常得像在安排会议室。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
