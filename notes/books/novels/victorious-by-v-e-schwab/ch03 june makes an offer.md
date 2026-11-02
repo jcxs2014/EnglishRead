@@ -55,7 +55,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：记住 fifteen years ago 这个数字，它说明这不是第一次。冰浴这个场景在本章只出现一次，读者读到后面会明白作者为什么把它搁在这里。
 
-> **原句 5:** "Now, he wanted to lunge forward, grab her wrist, but that was exactly what she wanted. So he watched as June toyed with the only thing keeping him alive, held the compound to the low bar light."
+> **原句 5:** "Victor had taken away the shadow-walking EO’s pain, in exchange for his service. Sent him undercover into EON, and he’d never made it out. The ex-soldier had died there, protecting him."
+
+**中文理解**：维克多拿走了那个潜行者的痛苦，作为他效忠的交换。他把这个人派进 EON 卧底，而那个人没能再出来。那个前士兵死在了那里，为保护他。
+
+**关键词**：shadow-walking EO · never made it out
+
+**为什么这样写**：整段只有三个动作：拿走痛苦、送进 EON、没出来。最后一句把前两个动作的结果翻过来——保护他而死。痛觉是他的价码，这条交易里唯一没付清的是人命。
+
+**读者视角提示**：琼问起多米尼克·拉舍，说的就是这个人的下场。维克多当时咬紧了牙关。
+
+> **原句 6:** "Now, he wanted to lunge forward, grab her wrist, but that was exactly what she wanted. So he watched as June toyed with the only thing keeping him alive, held the compound to the low bar light."
 
 **中文理解**：此刻他想扑上去抓住她的手腕，可那正是她想要的。于是他坐着不动，看着琼把玩那件唯一让他活着的东西，把那管药剂举到吧台的低光下。
 
@@ -65,7 +75,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：注意他最后什么也没做。作者让他在最该出手的一秒里选择看——这个选择比任何反击都更能说明他此刻的处境。
 
-> **原句 6:** "He watched June go. As she stepped through the door, she traded the brunette in the flowing dress for a middle-aged man, innocuous amid the evening crowd. But the body wasn’t the only difference."
+> **原句 7:** "June smiled. “Friends.” She spread the face cards between them. “My talent allows me to tell when people are … like us. And when I find them, I like to keep track. Never know when a skill might come in handy.” Victor scanned the pile. A dozen EOs. A dozen different talents. A dozen potential tools."
+
+**中文理解**：琼笑了。「朋友。」她把人头牌在两人之间摊开。「我的天赋能让我分辨出谁……和我们一样。找到他们之后我就喜欢记着，说不定哪天哪项本事就用上了。」维克多扫过那堆牌：十二个 EO，十二种不同的天赋，十二件可能的工具。
+
+**关键词**：a dozen potential tools · like us
+
+**为什么这样写**：摊牌之后立刻是维克多的算术：一句里三个 dozen，把牌变成库存。「像我们」是她划的界线，「工具」是他给的定位——同一堆牌，两种读法。
+
+**读者视角提示**：这一章的转折在这里：琼不是来交朋友的，是来供货的。而维克多要的从来不是朋友。
+
+> **原句 8:** "He watched June go. As she stepped through the door, she traded the brunette in the flowing dress for a middle-aged man, innocuous amid the evening crowd. But the body wasn’t the only difference."
 
 **中文理解**：他看着她离开。她走出门的那一刻，把那个穿飘逸长裙的褐发女人换成了一位中年男人，在傍晚的人群里毫不起眼。但不同的不只是身体。
 

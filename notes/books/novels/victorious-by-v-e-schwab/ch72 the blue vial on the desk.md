@@ -36,21 +36,31 @@ modified: "2026-11-01"
 **为什么这样写**：三句话排出一条推理链：先声明不知道细节，再写他注意到什么（潜力与职位之间的落差）、认出什么（被压住的人才），最后把她的旧研究方向加进来，落到 suspected。动词从 noticed 到 recognized 再到 suspected，一步步往里走，却始终停在「猜」上。
 **读者视角提示**：读者跟着他做了一遍背景调查：他手上没有档案，只有职位的落差和她过去的研究兴趣。丹妮为什么坐在这个办公室，也从她自己那句调侃换成了他这一侧的观察。
 
-> **原句 4:** "He ejected the inhaler cartridge and set the vivid blue vial on the desk. “This is what I’m asking you to make. What I need you to teach me how to make,” he amended. “It’s a serum that, when inhaled, severs me from my abilities.”"
+> **原句 4:** "Victor thought of hurting her. To prove the point. He’d timed his visit well. His powers had come online just after she walked in. Now, his nerves were humming, and so were hers. He could force her. Bend her. Break her. Instead, he told the truth. “Have you heard the term EO?”"
+
+**中文理解**：维克多想伤她。为了证明这一点。他把这次来访的时机算得很好：她刚走进来，他的能力就上线了。此刻他的神经在嗡鸣，她的也是。他可以强迫她。折断她。摧毁她。可他反而说了实话：「你听说过 EO 这个词吗？」
+
+**关键词**：thought of hurting her · told the truth
+
+**为什么这样写**：前半段用三个短句列举他能做的事（强迫、折断、摧毁），全是动词；后半段只用了一句实话作为回答，而且用的是问句。三个动词同一个词根，读者能听见那扇门在关——而最后一句把它推开。
+
+**读者视角提示**：他本可以用能力拿到任何答案，却选择先亮出这个词。因为他要的是她自己的判断，而不是被撬出来的答案。
+
+> **原句 5:** "He ejected the inhaler cartridge and set the vivid blue vial on the desk. “This is what I’m asking you to make. What I need you to teach me how to make,” he amended. “It’s a serum that, when inhaled, severs me from my abilities.”"
 
 **中文理解**：他把药筒退出来，把那管鲜蓝色的药放在桌上，说这就是他要她做的东西——更准确地说，是他要她教他做的东西：一种吸入之后能把他和自己的能力的联系切断的血清。
 **关键词**：vivid blue vial · severs me from
 **为什么这样写**：先说 make，紧接一个 amended 改成 teach me how to make，「替我代做」变成「教会我做」，两个人的位置也跟着从买主与工匠换成学生与老师。血清的作用只用一句交代：when inhaled, severs me from my abilities；被切断的是他和能力之间的连接，不是能力本身。
 **读者视角提示**：本章开头他还捏在指间转的那支吸入器，到这一块变成一件要复制的东西，也变成一份要教的手艺。蓝色的药先落在桌上，话才跟上。
 
-> **原句 5:** "It was a calculated risk, so much transparency. Explaining what happened if he ran out of the compound was the same as pointing to the space between his second and third ribs, showing her exactly where to drive a knife. But in the wake of that dark night, between Eli’s goading and the gun, he realized, he had nothing left to lose."
+> **原句 6:** "It was a calculated risk, so much transparency. Explaining what happened if he ran out of the compound was the same as pointing to the space between his second and third ribs, showing her exactly where to drive a knife. But in the wake of that dark night, between Eli’s goading and the gun, he realized, he had nothing left to lose."
 
 **中文理解**：把实情讲到这个程度是一次算过的冒险：说出药用完会怎样，等于指着自己第二根和第三根肋骨之间，告诉她刀该往哪里送。但在那个黑夜里，在伊莱的挑动和那把枪之后，他明白自己已经没有可失去的了。
 **关键词**：calculated risk · nothing left to lose
 **为什么这样写**：先说这是 calculated risk，紧接着把风险换成一个身体坐标：两根肋骨之间，刀进去的位置。抽象的词落地，读者手上多了一个能指的地方。最后一句把时间推回那个黑夜，between Eli's goading and the gun 把两样东西并排放在一起，收在 nothing left to lose 上。
 **读者视角提示**：读者在这一块听见他把自己交出去的理由——他自己管这叫「算过的风险」，理由是没有别的可失去的。刀的位置由他自己指出来：第二与第三根肋骨之间，这个动作比任何威胁都具体。
 
-> **原句 6:** "“How long until you need another dose?” she asked. “Seven hours.” At first, it had been nearly twelve, but that window, like all of them, was shrinking."
+> **原句 7:** "“How long until you need another dose?” she asked. “Seven hours.” At first, it had been nearly twelve, but that window, like all of them, was shrinking."
 
 **中文理解**：她问：还要多久你才需要再补一剂？他答：七小时。最初的时候接近十二小时，但那个窗口——和所有窗口一样——正在缩短。
 
@@ -60,7 +70,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这是全书第一次给出药效的具体数字。它同时是本章的倒计时：他必须在一个窗口不断收窄的时间里，找到一个不靠这管药活下去的办法。
 
-> **原句 7:** "She glanced at a clock on the wall, lips moving as she counted. “Come back tomorrow night at eight.” She was timing it so a dose would wear off while he was there. “I’ll reserve the lab.”"
+> **原句 8:** "She glanced at a clock on the wall, lips moving as she counted. “Come back tomorrow night at eight.” She was timing it so a dose would wear off while he was there. “I’ll reserve the lab.”"
 
 **中文理解**：她瞥了一眼墙上的钟，嘴唇动着在默算。「明天晚上八点再来。」她在算准时间，让一剂药在他到的时候正好失效。「实验室我给你留着。」
 

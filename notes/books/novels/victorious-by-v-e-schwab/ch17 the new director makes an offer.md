@@ -49,7 +49,27 @@ modified: "2026-11-01"
 
 **读者视角提示**：读到这里再回头看章节标题里的 EON，会明白它不是一个中立机构，而是由一次抓捕长出来的。
 
-> **原句 4:** "As Helena spoke, her finger hovered beside a small red button on the underside of her desk. One touch, and the building would lock down. The office, too. The walls and floors would be shot through with a current that would prevent an EO—even one with Rios’s ability—from breaking through."
+> **原句 4:** "There was a second file on Vale, courtesy of an inmate—Eli Ever. Ever had spent ten years hunting down and executing EOs, driven by some kind of God complex, a spiritual conviction that his ability to heal had been given to him expressly for that purpose. Following Ever’s arrest, Stell had deputized him to use his talents on behalf of EON."
+
+**中文理解**：关于瓦尔还有第二份卷宗，来自一名囚犯——埃利·埃弗。埃弗花了十年追捕并处决非常人，动机近乎某种上帝情结：他相信自己的治愈能力正是为此而赐。被逮捕后，斯特尔委托他用自己的本事为 EON 办事。
+
+**关键词**：Eli Ever · hunting down and executing
+
+**为什么这样写**：第一句先给出这份卷宗的来源——一个囚犯，这让它从一开始就可疑。第二句用 driven by some kind of God complex 给埃弗的十年定性，再用 expressly for that purpose 把他的能力解释成一种使命。
+
+**读者视角提示**：埃弗是第一个被写下来的「猎手」，而他的依据是一句神学判断。这条线要到后面才兑现。
+
+> **原句 5:** "Ever had somehow deduced that the killer in question was Vale, even though he was meant to be dead. If anyone could find and catch the late director’s murderer, it was probably him. Unfortunately, he’d taken a bullet to the heart six months before, and his powers hadn’t saved him."
+
+**中文理解**：埃弗不知怎么推断出凶手就是瓦尔，尽管按理说那人早该死了。要找到并抓住已故主管的凶手，大概只有他做得到。可惜六个月前他胸口中了一枪，他的能力没能救他。
+
+**关键词**：to the heart · powers hadn’t saved him
+
+**为什么这样写**：整段用两个让步写成：先说埃弗是唯一人选，紧接着用一个 Unfortunately 把这条路掐断。最后半句 his powers hadn’t saved him 是全段最冷的一句——一个靠能力活了一辈子的人，最后死在自己治不好的伤上。
+
+**读者视角提示**：这一句解释了为什么此时是海伦娜在收拾斯特尔的残局，也预告了那个「第一个挺过来的人」会是谁。
+
+> **原句 6:** "As Helena spoke, her finger hovered beside a small red button on the underside of her desk. One touch, and the building would lock down. The office, too. The walls and floors would be shot through with a current that would prevent an EO—even one with Rios’s ability—from breaking through."
 
 **中文理解**：她一边说话，手指一边停在桌子底下那颗小红钮旁边。按一下，整栋楼就会封锁，办公室也一样——墙壁和地板会通上电流，让一个 EO 闯不出去，哪怕那人是里奥斯也不行。
 
@@ -59,7 +79,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：注意 even one with Rios’s ability 这半句：它已经替读者确认，坐在对面的探员不是普通人。
 
-> **原句 5:** “As his replacement, I have no intention of expanding his effort. No intention of rehabilitating and releasing more EOs into the field. Stell’s project will die with you. Knowing that,” she concluded, spreading her hands, “will you serve me as you served him?”
+> **原句 7:** “As his replacement, I have no intention of expanding his effort. No intention of rehabilitating and releasing more EOs into the field. Stell’s project will die with you. Knowing that,” she concluded, spreading her hands, “will you serve me as you served him?”
 
 **中文理解**：作为他的接任者，她不打算扩大斯特尔的那套做法，也不打算再把 EO 改造好、放回外勤；斯特尔的项目会随着对方一起结束。说完她摊开手，问对方还愿不愿意像侍奉斯特尔那样侍奉她。
 

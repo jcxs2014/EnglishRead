@@ -75,7 +75,17 @@ modified: "2026-11-01"
 
 **读者视角提示**："studied"不是"looked at"。她不是在怀念一个人，是在研究一张脸，像翻一份旧档案，找他脸上还剩下的那点熟悉。
 
-> **原句 7:** "The Eliot on the screen still had those all-American good looks, that quarterback physique, his mouth tipped into a charming smile. He looked the same age as her sister, Serena."
+> **原句 7:** "The sight of him filled Syd with warring feelings. Wistfulness. And anger. Because once upon a time, Victor had been safe, he’d been home. An then he was gone. He made her a promise, and he broke it. He lied. He left."
+
+**中文理解**：看见他，西德妮心里翻起冲突的两种感受：惆怅，还有愤怒。因为曾经有一段时间，维克多是安全的，是待在家里的。然后他就没了。他向她许过诺，然后背弃了那个诺。他撒了谎。他离开了。
+
+**关键词**：broke it · He lied
+
+**为什么这样写**：整段用四个短句收尾，句子越来越短：从 he made her a promise 到 He lied 只有两个词，到 He left 又两个词。前面还在讲一件已经结束的事，后面两句把责任一层层剥到只剩动词——撒谎、离开。那两个单音节句读起来像判决书。
+
+**读者视角提示**：这是西德妮对维克多的全部控诉，四句话，无一字形容词。愤怒不在词里，在句子越来越短里。
+
+> **原句 8:** "The Eliot on the screen still had those all-American good looks, that quarterback physique, his mouth tipped into a charming smile. He looked the same age as her sister, Serena."
 
 **中文理解**：屏幕上那个艾略特还是那副全美式的漂亮长相、四分卫的身板，嘴角翘成一个迷人的笑。他看上去和她的姐姐塞雷娜同龄。
 
@@ -114,3 +124,13 @@ modified: "2026-11-01"
 ## 一句话总结
 
 米奇进城的两小时里，西德妮骑车到邻镇图书馆登录洛克兰大学的课程页，顺手在校友名录里搜出维克多和伊莱：一个让她怀念又恼火，一个让她看见十年前那张没有变老的脸，然后被那张脸钉在椅子上。
+
+> **原句 9:** "This is for the greater good, he’d said, before the shot rang out. The bullet had slammed into her. Buried in her arm instead of her heart because Serena had chosen that moment to intervene. And Sydney had run."
+
+**中文理解**：「这是为了更大的利益，」他在枪响之前说过。子弹砸进了她身上。因为塞雷娜在那一刻选择出手，子弹埋进的是她的手臂，不是心脏。而西德妮跑了。
+
+**关键词**：greater good · buried in her arm
+
+**为什么这样写**：第一句是伊莱的台词，抽象的说辞；第二句是叙述者的账。两个短句把因果摊开：塞雷娜的一插手，换来了「手臂而不是心脏」。And Sydney had run 单独收尾——她活下来的方式是逃。
+
+**读者视角提示**：这是塞雷娜替西德妮挡下致命的东西，也是西德妮逃向米奇的起点。

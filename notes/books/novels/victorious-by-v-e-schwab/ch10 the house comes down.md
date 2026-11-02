@@ -35,7 +35,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：注意这个句式指控的是隐瞒，不是伤害。后面医生所有解释，都得先过这一关。
 
-> **原句 3:** "The walls were glass, and I started to pound on them, but they didn’t break, and I remembered what you said, about being in control, so I imagined them shattering, all those pieces flying outward—"
+> **原句 3:** "“What happened, Paul?” The air shuddered in his chest. “My sister, Sarah, showed up. I told her she could stay.” Dread began to twine through Gabriel. Over the course of their biweekly sessions, Paul had only mentioned his family once—his grandparents, dead, his parents, estranged. He’d never mentioned a sister. As far as he’d known, Paul was alone."
+
+**中文理解**：「发生了什么，保罗？」他胸腔里的空气抖了一下。「我妹妹莎拉来了。我让她留下了。」恐惧开始在加百列心里缠绕。在此前一系列每两周一次的会谈里，保罗只提过一次家人：祖父母已故，父母疏远。他从没提过有个妹妹。在加百列看来，保罗一直是独自一人。
+
+**关键词**：My sister, Sarah · never mentioned a sister
+
+**为什么这样写**：医生的问话、保罗的回答、医生的核对，三步递进。第三步最有杀伤力：文本用档案式的列举证明保罗从没提过妹妹——正因为没有这个妹妹，他才说谎说她在场。整段以加百列的认知收尾，语气平得像在读病历。
+
+**读者视角提示**：这一段揭穿了保罗整套说辞的底：没有莎拉，也没有那场谋杀。加百列不知道的是，他自己的房子才是那场梦的现场。
+
+> **原句 4:** "The walls were glass, and I started to pound on them, but they didn’t break, and I remembered what you said, about being in control, so I imagined them shattering, all those pieces flying outward—"
 
 **中文理解**：墙是玻璃的，我开始捶它们，可它们没碎；然后我想起你讲过的话，关于「在掌控之中」，于是我想象它们碎开，所有碎片往外飞——
 
@@ -45,7 +55,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：关键短语是 being in control：他的能力不是失控时才有的，是可以被「想」出来的。而这句话的来源是「你说的」——教他的人此刻就站在他面前。
 
-> **原句 4:** "That wasn’t why he’d done it—he’d made the difficult decision to prioritize the experiment, and the data it would give him—them. But the truth was a fine line, a matter of nuance that Paul was in no state to comprehend. “I was trying to protect you,” said Gabriel."
+> **原句 5:** "That wasn’t why he’d done it—he’d made the difficult decision to prioritize the experiment, and the data it would give him—them. But the truth was a fine line, a matter of nuance that Paul was in no state to comprehend. “I was trying to protect you,” said Gabriel."
 
 **中文理解**：他当初那样做并不是为了这个——他做过一个艰难的决定：把实验放在前面，也把实验能带来的数据放在前面，那些数据会给他、也给他们。可真相是一条细线，是一种分寸，而保罗现在根本没有能力听懂。「我是想保护你，」加百列说。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：留意 him—them 那一处：数据不只给他，还给他们两个。同一句里既有「我为你好」，也有「我要它」。
 
-> **原句 5:** "But then the roof caved in, and the stairs gave way, and the last thing Gabriel felt was her fingers skimming his before the whole house came down on top of them."
+> **原句 6:** "But then the roof caved in, and the stairs gave way, and the last thing Gabriel felt was her fingers skimming his before the whole house came down on top of them."
 
 **中文理解**：可接着屋顶塌了下来，楼梯断了；加百列最后感觉到的，是她的手指擦过他的，然后整栋房子压到他们身上。
 

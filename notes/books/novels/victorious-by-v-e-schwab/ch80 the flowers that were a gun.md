@@ -36,21 +36,31 @@ modified: "2026-11-01"
 **为什么这样写**：破折号里那两个字是全章的机关：the gun。花和枪占着同一个位置，句子前半段还叫它 flowers，破折号一过就改了口。动作也挨得紧：先要拿，手就被扣住；先被拽开，才被转过来面对。塞雷娜为什么拦，整句没有一个字解释，只有手、手腕和转身。
 **读者视角提示**：读者和西德妮同一刻知道那束花是什么；塞雷娜抢先握住手腕，读者也就知道她一直在看。
 
-> **原句 4:** "But the Serena who came out of the ice was a stranger. Fickle, and frightening, and cruel. An EO who treated people like puppets, bent them to her whim, her will."
+> **原句 4:** "“This place. This power. I don’t know how—” “Of course you do.” Serena’s eyes glowed bluer. She pulled Syd close, as if it were a secret. “I heard you calling, in the dark. Reaching out for me, the way I reached for you. You needed me, to come back. To fix things. To protect you. And now, because of you, I can.”"
+
+**中文理解**：「这个地方。这股力量。我不知道该怎么做——」「你当然知道。」塞雷娜的眼睛蓝得更亮了。她把西德妮拉近，像是要说一个秘密。「我在黑暗里听见了你的呼唤。你像当初呼唤我那样，向我伸出手。你需要我回来，去收拾、去修好、去保护你。而现在，因为你，我可以了。」
+
+**关键词**：heard you calling · because of you
+
+**为什么这样写**：前半段是西德妮的支吾，三个短语都短，最后被破折号打断；后半段是塞雷娜的整段回答，用一串排比把「回来／收拾／保护」铺开，最后落到 because of you——能力的来源被指回西德妮。
+
+**读者视角提示**：这一章的题眼：她曾被西德妮从冰里叫醒，现在她把这笔账还回去。「因为你，我可以了」是塞雷娜全章唯一一次解释自己的力量。
+
+> **原句 5:** "But the Serena who came out of the ice was a stranger. Fickle, and frightening, and cruel. An EO who treated people like puppets, bent them to her whim, her will."
 
 **中文理解**：可是从冰里出来的那个塞雷娜是个陌生人：反复无常、让人害怕、而且残忍。她把人不当人，当成傀儡，按自己的心意和意志摆布。
 **关键词**：out of the ice · like puppets
 **为什么这样写**：三个形容词用 and 串起来，一个比一个重，落在 cruel 上；下一句才给出她的身份，并把人写成 puppets。开头那个 But 让句子转了个方向，落下来的第一个词就是 stranger。这一段没有写她做了什么，只写她是什么样的人。
 **读者视角提示**：这是西德妮自己下的判断，不是旁白替读者定的结论；三个形容词连在一起，最后落在 cruel 上。
 
-> **原句 5:** "One that existed long before the day the ice broke on the lake. She was so used to getting her way that whenever someone told her what she wanted to hear, she assumed they were telling the truth."
+> **原句 6:** "One that existed long before the day the ice broke on the lake. She was so used to getting her way that whenever someone told her what she wanted to hear, she assumed they were telling the truth."
 
 **中文理解**：这个弱点早在湖上的冰破掉那天之前就存在了：她太习惯事情顺着自己，谁说了她想听的话，她就认定那是真话。
 **关键词**：getting her way · telling the truth
 **为什么这样写**：前一句只给时间：湖上的冰破掉那天之前，这个弱点就已经在了；后一句用 so...that 把习惯和判断接在一起：顺着意听来的话，一律当成实话。整句没有写谁骗过她、怎么骗的，只写她拿什么当真假的凭据。
 **读者视角提示**：读者手里有了这句话，后面谁对塞雷娜说什么，都可以拿它来量。
 
-> **原句 6:** "She laughed, and started across the room, leaving the withered bouquet on the counter. When she reached the stairs, she made sure to take them slowly, as if there was no need to run. Nowhere else on earth she’d rather be."
+> **原句 7:** "She laughed, and started across the room, leaving the withered bouquet on the counter. When she reached the stairs, she made sure to take them slowly, as if there was no need to run. Nowhere else on earth she’d rather be."
 
 **中文理解**：她笑了一声，穿过房间，把那束枯萎的花留在柜台上；走到楼梯口，她特意放慢脚步，像根本不必跑。地球上再没有别的地方是她更想待的。
 **关键词**：withered bouquet · take them slowly

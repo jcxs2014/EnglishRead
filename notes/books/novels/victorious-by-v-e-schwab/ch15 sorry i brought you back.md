@@ -45,7 +45,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：括号里的 almost 是叙述者留的余地：她讲的是自己差一点死的那一夜，语气却像在讲别人的事。
 
-> **原句 4:** "Gone was Iris humming to herself as she cooked, or read, or showered—something he now had to tell both of them to do. Along with sleep, and eat, and stop. They were like wind-up toys that could be made to run for some time by themselves, but eventually they ran out of steam, and needed winding up again."
+> **原句 4:** "Now, she cocked her head. “What should I say?” “Think for yourself. You are not some vapid doll,” he snapped. “You’re my partner. My wife. I want you to stand up to me. I want you to fight back.”"
+
+**中文理解**：她歪了歪头。「我该说什么？」「自己想一想。你不是什么空洞的娃娃，」他厉声道。「你是我的搭档，我的妻子。我要你站起来跟我对着干，我要你反击。」
+
+**关键词**：Think for yourself · fight back
+
+**为什么这样写**：她的反问短到只剩几个词，正是他想听到的那种空洞；他的回答也短，但一口气给出四个要求：想、站、对着干、反击。四个动词全是主动的，与她前一句的「我该说什么」正好对照。
+
+**读者视角提示**：这是加百列第一次承认他想要的是反抗而不是服从。他以为这是许可，其实是要她证明自己还在。
+
+> **原句 5:** "Gone was Iris humming to herself as she cooked, or read, or showered—something he now had to tell both of them to do. Along with sleep, and eat, and stop. They were like wind-up toys that could be made to run for some time by themselves, but eventually they ran out of steam, and needed winding up again."
 
 **中文理解**：家里不再有 Iris 做饭、看书、洗澡时自顾自哼歌的声音——这件事现在也要他开口吩咐。他们像发条玩具，能自己跑一阵，跑到没劲就停下，得重新上弦。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：Along with sleep, and eat, and stop 这一句最短，stop 也最刺人——连停下来都要有人下令。
 
-> **原句 5:** "Knew that he’d done more than bring her and Ian back to life. He’d bound them in some way. Narrowed the scope and meaning of their world to him. Made them puppets, extensions of his will in a way he would have found fascinating, perhaps even useful, if they’d been strangers, and not his wife and son."
+> **原句 6:** "Knew that he’d done more than bring her and Ian back to life. He’d bound them in some way. Narrowed the scope and meaning of their world to him. Made them puppets, extensions of his will in a way he would have found fascinating, perhaps even useful, if they’d been strangers, and not his wife and son."
 
 **中文理解**：他知道自己做的比「把她和 Ian 救活」更多：他用某种方式把他们捆住了，把他们的世界缩小到只剩他一个人，做成傀儡、做成自己意志的延伸。若他们是陌生人，他大概会觉得这有趣，甚至有用——可他们是他的妻子和儿子。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这不是他突然良心发现，是他看着她时才算明白；if they'd been strangers 说明他清楚自己越过了哪条线。
 
-> **原句 6:** "But all that came out was a sigh before her face gave way beneath the weight of his hand, along the rest of her, her body crumbling like sand beneath his touch."
+> **原句 7:** "But all that came out was a sigh before her face gave way beneath the weight of his hand, along the rest of her, her body crumbling like sand beneath his touch."
 
 **中文理解**：她张了张嘴，像要说什么，最后只出来一声叹息；随后她的脸在他手掌下塌下去，整个人顺着往下，像沙一样在他触碰的地方崩落。
 

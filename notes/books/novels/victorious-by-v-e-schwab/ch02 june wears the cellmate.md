@@ -55,7 +55,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：作者让他认出她，不是靠脸，是靠「笑」。前文写过真的米奇从不 smirk，这条人物注脚在这一刻结算——他不是看穿了皮，是看穿了皮里那个忍不住的人。
 
-> **原句 5:** "Victor hit the catch on the gun, ejecting the clip, and with it, a length of steel wire that ran between the magazine and the grip. He’d thought of June more than once in the weeks since they met on bad terms and parted on worse. She was the only person Victor had found who was seemingly immune to his powers, when he had them."
+> **原句 5:** "Before she intercepted him at the gala and forced him to stop Marcella instead of going after Eli. She’d cost him that fight, that life, that death, and Victor had promised her that the next time they met, he’d settle the score."
+
+**中文理解**：在那之前，她在晚宴上截住了维克多，逼他放弃马尔塞拉、转而去追伊莱。她让他赔掉了一场搏斗、一次死亡，代价是一句承诺：下次见面，她要他清这笔账。
+
+**关键词**：at the gala · settle the score
+
+**为什么这样写**：整段在正式见面之前，先把账目摆出来。三句全是 Before 引导的排比，每一句都砍掉一条路：招揽、绑架、放走伊莱。第三句最长，把「搏斗／死亡／账」三样并列，最后落到 settle the score——结算这个动词把后面整章的谈判变成了一笔待清的债务。
+
+**读者视角提示**：读者在这里第一次知道：琼不是来找他的，是来收账的；账已经记在维克多自己答应过的那句话上。
+
+> **原句 6:** "Victor hit the catch on the gun, ejecting the clip, and with it, a length of steel wire that ran between the magazine and the grip. He’d thought of June more than once in the weeks since they met on bad terms and parted on worse. She was the only person Victor had found who was seemingly immune to his powers, when he had them."
 
 **中文理解**：维克多按下卡榫弹出弹匣，随之滑出一截钢丝——它一直藏在弹匣与握把之间。自那次不欢而散之后，这几周里他不止一次想起琼。她是他找到的唯一一个似乎对他的能力免疫的人——在他还有能力的时候。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：注意他「想过琼不止一次」这句放在打斗中间。作者让他分神，不是为了抒情，是为了告诉你：这个对手在他心里有专用的格子。
 
-> **原句 6:** "“If you came to kill me,” said Victor, “you’ll have to do it wearing someone else.” June scoffed and shook Mitch’s head. “Oh for fuck’s sake, Victor. I don’t want you dead.” That was a surprise. He frowned. “Then what do you want?” She looked up at him with Mitch’s stolen face, mischief shining in the eyes."
+> **原句 7:** "“If you came to kill me,” said Victor, “you’ll have to do it wearing someone else.” June scoffed and shook Mitch’s head. “Oh for fuck’s sake, Victor. I don’t want you dead.” That was a surprise. He frowned. “Then what do you want?” She looked up at him with Mitch’s stolen face, mischief shining in the eyes."
 
 **中文理解**：「如果你是来杀我的，」维克多说，「你得换一张皮来动手。」琼嗤了一声，摇了摇米奇的头。「去他妈的，维克多。我不想让你死。」这倒让他意外。他皱起眉。「那你要什么？」她抬起那张偷来的米奇的脸看他，眼里闪着促狭。
 

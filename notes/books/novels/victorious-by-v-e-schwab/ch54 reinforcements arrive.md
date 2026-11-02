@@ -45,7 +45,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：全段没有一句评价伊莱的本事，只有一条他从黑行动年月里带出来的规矩，和一条他压不下去的差别。读者由此知道诺亚在意的是来路，是这个人有没有自己选过。
 
-> **原句 4:** "There were moments—albeit rare—when Noah disagreed with Gabriel. Those moments were the only times he felt the other man’s control. The only times he registered that his will was not his own."
+> **原句 4:** "Eli had devoted his entire life to exterminating EOs. Before and after he was caught. And the last time he’d been let out of his cell to hunt one down, he’d defied his orders and escaped."
+
+**中文理解**：伊莱把自己的一生都用来灭绝非常人。被关起来之前是这样，被关起来之后还是这样。而他上一次被放出牢房去追猎一个目标时，他违抗了命令，逃走了。
+
+**关键词**：entire life to exterminating · defied his orders
+
+**为什么这样写**：前后两个 Before and after 用对称句式压住整段，让时间跨度大到听起来像一句判决。最后一句把「一生清剿」和「违抗命令逃走」并置：前一句说他是什么，后一句说他做了什么。
+
+**读者视角提示**：这一段把伊莱从「另一个危险品」还原成一个有来历、并且因此更不稳定的人。
+
+> **原句 5:** "There were moments—albeit rare—when Noah disagreed with Gabriel. Those moments were the only times he felt the other man’s control. The only times he registered that his will was not his own."
 
 **中文理解**：有些时候——虽然很少——诺亚会和加百列意见不合。那些时候，是他唯一感到那个人的控制的时候。也是他唯一意识到自己的意志不属于自己的时候。
 
@@ -55,7 +65,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一段把「控制」放进诺亚自己的感受里：他不同意的时候，才摸得到那只手。到此读者对这段关系有了一个比「忠诚」更难受的解释。
 
-> **原句 5:** "Six soldiers, behind enemy lines, buildings so tight the snipers couldn’t get a shot. The target, somewhere at the heart of the complex, and them, unable to simply raze the place because their orders were to pick him off, and make it look like in-fighting instead of execution."
+> **原句 6:** "Six soldiers, behind enemy lines, buildings so tight the snipers couldn’t get a shot. The target, somewhere at the heart of the complex, and them, unable to simply raze the place because their orders were to pick him off, and make it look like in-fighting instead of execution."
 
 **中文理解**：六个人，深入敌后；楼挨得太紧，狙击手都找不到开枪的角度。目标在建筑群的心脏位置，而他们不能干脆把整片地方平掉——命令是把他挑出来杀掉，再伪装成内讧，而不是处决。
 
@@ -65,7 +75,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：读者由此知道这次任务的规模很小、条件很差，而且连动手的方式都被规定死了。后面目标先死、枪声才响，正是从这个被规定死的局面里长出来的。
 
-> **原句 6:** "The soldier’s eyes slid open, and the war zone disappeared, replaced by the inside of a van. Two agents—Kline and Weaver—sat across from him, another one on either side, their visors down, their faces hidden. Not that their faces mattered anymore, now that they’d been converted."
+> **原句 7:** "The soldier’s eyes slid open, and the war zone disappeared, replaced by the inside of a van. Two agents—Kline and Weaver—sat across from him, another one on either side, their visors down, their faces hidden. Not that their faces mattered anymore, now that they’d been converted."
 
 **中文理解**：士兵的眼睛睁开，战区消失，换成了面包车的内部。两名特工——克莱恩和韦弗——坐在他对面，两侧还各有一个，面罩压得低低的，脸都看不见。不过他们的脸现在也不重要了：他们已经被转化过。
 

@@ -29,7 +29,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一段没有交代这是哪家医院、为什么住院，只写身体的感觉。读者拿到的是一段被拉长又压扁的时间：先是药的麻木，再是停药之后的漂，最后连时间本身都留不住形状。
 
-> **原句 2:** "“Agent Rios, when I am done with EON, it will no longer a prison. It will be a program. And every EO housed inside these walls will be here of their own volition.”"
+> **原句 2:** "Stell’s voice played through her head. We have the chance to change the face of EON. EOs are like ordinary people. Some are good and some are bad. The good ones deserve a chance to help."
+
+**中文理解**：斯特尔的声音在她脑子里响着。我们有机会改变 EON 的面貌。非常人就和普通人一样，有好有坏。好的那些该有一次帮忙的机会。
+
+**关键词**：Stell’s voice · deserve a chance
+
+**为什么这样写**：三句是引语，第一句用中文逗号起头，第二句是纲领，第三句是分级的依据。整段没有引号，像一段还在回响的遗言——它来自死者，所以用的是现在时。
+
+**读者视角提示**：加百列接下来说的话与斯特尔几乎一样，而文本紧接着点明：这话听着走调了。同样的词，从不同的人嘴里出来，分量完全相反。
+
+> **原句 3:** "“Agent Rios, when I am done with EON, it will no longer a prison. It will be a program. And every EO housed inside these walls will be here of their own volition.”"
 
 **中文理解**：他说，等他把 EON 改造完，这里就不再是一座监狱，而是一个项目；关在这堵墙里的每一个 EO，都将是出于自愿留在这里。
 
@@ -39,7 +49,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一块里没有一句否定，全是承诺：不再是监狱、是项目、出于自愿。他先称她 Agent Rios，再用三句话把墙里所有人都划进同一条规则；读者可以把这几句记住，等门口那一句再对一次。
 
-> **原句 3:** "“If you do choose to leave this room, you will also be leaving your post.” Rios’s knuckles flushed white on the doorknob. Her freedom had always been predicated on her loyalty."
+> **原句 4:** "“If you do choose to leave this room, you will also be leaving your post.” Rios’s knuckles flushed white on the doorknob. Her freedom had always been predicated on her loyalty."
 
 **中文理解**：他说，如果她真的选择离开这个房间，那她同时也就在离开自己的岗位。她的指节在门把上泛白。她的自由从来都以忠诚为前提。
 

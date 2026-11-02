@@ -19,7 +19,17 @@ modified: "2026-11-01"
 
 ## 精读
 
-> **原句 1:** "The positioning had been intentional, at once deferential and undeniably present. The way a puppeteer knows to sit behind the puppet. Gabriel’s words came out from Helena Roy’s lips, in Helena Roy’s voice, as she informed the board that she was stepping aside, and naming Dr. Gray as her successor."
+> **原句 1:** "The four remaining members of the board were assembled on the wall behind her desk. Three men, and two women, each wearing a different shade of gray, and a version of the same disgruntlement. Concern. Annoyance. Apprehension."
+
+**中文理解**：董事会剩下的四个人被拼在她身后的墙上。三男两女，各穿一种深浅不同的灰，各带着同一种不满：担忧、恼火、忐忑。
+
+**关键词**：four remaining members · different shade of gray
+
+**为什么这样写**：人数被写成剩下的，暗示有人已经不在了。each wearing a different shade of gray 把衣服变成编码：灰的深浅就是资历的深浅。最后 each 与 same 的一组对照说明这套机构只有一种表情。
+
+**读者视角提示**：这四个人是本章里唯一还在运转的旧秩序——旧秩序已经缩到四个人。
+
+> **原句 2:** "The positioning had been intentional, at once deferential and undeniably present. The way a puppeteer knows to sit behind the puppet. Gabriel’s words came out from Helena Roy’s lips, in Helena Roy’s voice, as she informed the board that she was stepping aside, and naming Dr. Gray as her successor."
 
 **中文理解**：她身后那个人的姿态是算过的：既显得退让，又让人无法忽略他在场——就像傀儡师懂得坐在木偶背后。董事们听见海伦娜·罗伊用自己的声音宣布退位、并指定格雷医生接任，而那些词句出自加百列。
 
@@ -29,7 +39,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：董事们看见的是一个往后退的男人，读的人看见的是一句话有两个出口。加百列在这段里没有开口，却把最重要的一句说完了；从这一句起，「谁在说话」就不再只有一个答案。
 
-> **原句 2:** "A dozen soldiers lay where they’d fallen, draped across the canteen tables, and sprawled on the floor like the product of some bloodless massacre. A few of them had seen the danger coming, but by then the doors had sealed, the pale smoke pouring through the vents."
+> **原句 3:** "A dozen soldiers lay where they’d fallen, draped across the canteen tables, and sprawled on the floor like the product of some bloodless massacre. A few of them had seen the danger coming, but by then the doors had sealed, the pale smoke pouring through the vents."
 
 **中文理解**：十二名士兵倒在原地：有的搭在食堂的桌上，有的摊在地板上，像一场没有流血的屠杀留下的现场。有几个人看出了危险，可那时候门已经封死，淡色的烟正从通风口灌进来。
 
@@ -39,7 +49,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一块没有一次搏斗。注意时间词的位置：看见危险和门被封死之间只隔一个 by then——中间那段时间里，他们什么也做不了。
 
-> **原句 3:** "It had taken less than a minute for the soldiers to go down, but Gabriel remembered Helena’s warning and kept his hand on the panel twice as long. To make sure they were dead."
+> **原句 4:** "It had taken less than a minute for the soldiers to go down, but Gabriel remembered Helena’s warning and kept his hand on the panel twice as long. To make sure they were dead."
 
 **中文理解**：士兵倒下用了不到一分钟，但他记着海伦娜的提醒，把手按在面板上的时间整整加了一倍——为了确认他们真的死了。
 
@@ -49,7 +59,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：他要的不是昏迷，是确认死亡。注意两组时间的对照：放倒人只需要不到一分钟，收尾却要两倍长——谨慎用在这种事上，比狠更冷。
 
-> **原句 4:** "He swallowed, gripped the table, and tried again. “I need…” But before he could find the words, the world gave way, and Gabriel Gray went down, his world collapsing into black."
+> **原句 5:** "He swallowed, gripped the table, and tried again. “I need…” But before he could find the words, the world gave way, and Gabriel Gray went down, his world collapsing into black."
 
 **中文理解**：他咽了一下，抓住桌子，重新开口。「我需要……」话没说完，世界就塌了，加百列·格雷倒下去，眼前全黑。
 

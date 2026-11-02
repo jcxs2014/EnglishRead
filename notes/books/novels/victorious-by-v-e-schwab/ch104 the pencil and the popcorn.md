@@ -15,37 +15,47 @@ modified: "2026-11-01"
 
 ## 精读
 
-> **原句 1:** "Dr. Gray, like all the therapists she’d seen before, was reading Sydney wrong. He was treating her as if she was the age she looked, and not the age she was. Assuming she wanted a father figure, when she already had two."
+> **原句 1:** "But he obviously was. “You created a problem. I’m asking you to fix it. Not only because it needs doing, but because it will show that you’re willing to commit to the work.”"
+
+**中文理解**：但他显然是认真的。「你制造了一个问题。我要你把它修好。不只是因为它需要被解决，更因为这会证明你愿意投入这份工作。」
+
+**关键词**：fix it · commit to the work
+
+**为什么这样写**：第一句是叙述者的插话，短促地替她确认：他不是在开玩笑。第二句给出理由，用一个 not only because 把「应该修」和「借此验证你」两重动机叠在一起。第二重才是真话。
+
+**读者视角提示**：他要的不是一个修好的东西，是一次表态。这句话把治疗变成了一场忠诚测试。
+
+> **原句 2:** "Dr. Gray, like all the therapists she’d seen before, was reading Sydney wrong. He was treating her as if she was the age she looked, and not the age she was. Assuming she wanted a father figure, when she already had two."
 **中文理解**：格雷医生和之前给她看过的每一个治疗师一样，把她读错了。他按她看上去的年纪待她，不按她实际活过的年纪。他以为她想要一个父亲，可她早有两个。
 **关键词**：reading Sydney wrong · father figure
 **为什么这样写**：三句都从她的判断出发。第一句把 reading Sydney wrong 直接判给格雷医生；第二句把 the age she looked 和 the age she was 并排放进一句；第三句先摆出父亲这个假设，紧跟一个数字 two。整段没有一句他的台词。
 **读者视角提示**：读者拿到的是她的评语，不是他的说服。后两句都在替第一句作证，语气像一个已经算清账的人在陈述，不像一个被说动的人在犹豫。
 
-> **原句 2:** "Dr. Gray rose, too, and moved to block her way, and she drove the pencil’s sharpened point down into his thigh. She missed the artery, but the graphite and wood sank deep, and his little puppets might not be able to feel pain, but he obviously could."
+> **原句 3:** "Dr. Gray rose, too, and moved to block her way, and she drove the pencil’s sharpened point down into his thigh. She missed the artery, but the graphite and wood sank deep, and his little puppets might not be able to feel pain, but he obviously could."
 **中文理解**：格雷医生也站起来，挪步挡住她的路，她把铅笔削尖的那头朝他大腿扎下去。她没扎中动脉，石墨和木头却陷得很深；他那些小傀儡也许感觉不到疼，他本人显然感觉得到。
 **关键词**：sharpened point · little puppets
 **为什么这样写**：第一句三个动作连着走（rose、moved to block、drove），中间没有停顿，主语从他一换到她。第二句先承认 misses the artery，再给 sank deep，然后把这具身体和 little puppets 摆在一起比：傀儡感觉不到疼，他 obviously could。
 **读者视角提示**：读者刚看见她抓起桌上的铅笔，这一段就用它扎了下去。两句里没有一个字写她的害怕，能数出来的只有距离（artery）和深度（sank deep）。
 
-> **原句 3:** "And so, instead of struggling, she wrapped her arms around the agent’s waist, and hugged him tight, as if searching for protection. He stiffened in surprise, but her hand found what it was looking for. The sleek black weapon holstered at his back."
+> **原句 4:** "And so, instead of struggling, she wrapped her arms around the agent’s waist, and hugged him tight, as if searching for protection. He stiffened in surprise, but her hand found what it was looking for. The sleek black weapon holstered at his back."
 **中文理解**：于是她没有挣扎，双臂环住那个特工的腰，把他抱得很紧，像在找庇护。他愣了一下，她的手已经摸到要找的东西——他背后枪套里那把黑色的枪。
 **关键词**：hugged him tight · sleek black weapon
 **为什么这样写**：第一句把 instead of struggling 放在最前面，接下去的动作却是拥抱；答案藏在同一句末尾的 as if searching for protection 里。第二句前半写他的反应，后半写她的手。第三句是一整句名词句，把段落落在一个物件上，不给动作。
 **读者视角提示**：读者看得见她抱住他的理由长在手上：her hand found what it was looking for。第三句之后，那把枪已经进了画面，接下来要做什么不必等下一段。
 
-> **原句 4:** "He was wearing armor plate—she’d felt it through his shirt—but Victor had told her once that armor wasn’t perfect. It weakened a little more with every shot, which was why she emptied the clip into the agent’s chest. Seven rounds, and at least one must have gotten through because Noah looked down, brows knitting in confusion as blood soaked through his front."
+> **原句 5:** "He was wearing armor plate—she’d felt it through his shirt—but Victor had told her once that armor wasn’t perfect. It weakened a little more with every shot, which was why she emptied the clip into the agent’s chest. Seven rounds, and at least one must have gotten through because Noah looked down, brows knitting in confusion as blood soaked through his front."
 **中文理解**：他穿着胸甲——她隔着衬衫摸到过——可维克多告诉过她一次，甲并不完美，每挨一枪就弱一点，所以她把整只弹匣打进了那个特工的胸口。七发，至少有一发穿了过去，因为诺亚低头看着胸前渗开的血，眉毛皱起来，像没弄明白。
 **关键词**：armor plate · emptied the clip
 **为什么这样写**：第一句在 she’d felt it through his shirt 的位置插进一段触觉记忆，再用 but 接到维克多那句话上。第二句用 which was why 把「甲会一次比一次弱」和「打空弹匣」接成一条因果，一个动作于是有了出处。第三句先给数字 seven rounds，再给结果，最后把镜头停在他的眉毛和渗开的血上。
 **读者视角提示**：三句都绕着他的胸口走：她摸到的甲、打进甲里的七发、从甲里渗出来的血。她自己只做了一个判断，而这个判断是别人教给她的。
 
-> **原句 5:** "She didn’t mind. She tucked her feet up against his side, and he put a pillow over them, and she felt happy, and cozy, and safe, and she thought, if she could be anywhere in the world, it would be right there."
+> **原句 6:** "She didn’t mind. She tucked her feet up against his side, and he put a pillow over them, and she felt happy, and cozy, and safe, and she thought, if she could be anywhere in the world, it would be right there."
 **中文理解**：她不在意。她把脚缩起来贴在他身侧，他把一个靠垫盖在她脚上；她觉得自己开心、舒服、安全，她想，如果她能待在世界上的任何地方，就是这里。
 **关键词**：tucked her feet · right there
 **为什么这样写**：第一句只有三个词，先把 not minding 说掉。第二句一串 and 连着四个动作和三个形容词（happy、cozy、safe），句子被拉长又放平。第三句开一个 if，从句一路铺到 the world，落点 right there 只剩两个词。
 **读者视角提示**：这一段给的是她的想法，不是她碰到的事：全段没有一个人名，只有脚、靠垫和一句假设。这一段没有一句写她是在梦里，直到后面那句 Pop. 才把场景换掉。
 
-> **原句 6:** "She knew he shouldn’t be there, knew this, this moment, which was made up of a memory, belonged to the months after he’d left. She knew it wasn’t real. But if she didn’t try to remember, it was easy to forget."
+> **原句 7:** "She knew he shouldn’t be there, knew this, this moment, which was made up of a memory, belonged to the months after he’d left. She knew it wasn’t real. But if she didn’t try to remember, it was easy to forget."
 **中文理解**：她知道他不该在那儿，知道这一刻是由一段记忆拼成的，属于他离开之后的那些月份。她知道这不是真的。可如果她不试着去记，忘掉是很容易的。
 **关键词**：a memory · easy to forget
 **为什么这样写**：前两句都以 She knew 起头。第一句把 this moment 和 a memory 并在一起，还标出一段时间（the months after he’d left）；第二句只有五个词，短到只剩一个否定。第三句用 But 把方向掉过来，落点在 easy to forget。

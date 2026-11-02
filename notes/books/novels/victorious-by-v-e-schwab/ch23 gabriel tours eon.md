@@ -29,7 +29,27 @@ modified: "2026-11-01"
 
 **读者视角提示**：整段只有她一人在说，听的人一个字没问，读者拿到的先是设计图，不是人。她用的词是 prisoners；至于这些人为什么在这里、各自叫什么，这一段全无交代。
 
-> **原句 2:** "Gabriel took a step closer to the wall, searching the profiles for any discernible pattern—age, race, gender, class—but the only obvious commonality was that they’d each defied death. Each had survived a seismic trauma and been permanently changed by it. Fascinating."
+> **原句 2:** "“How many ExtraOrdinaries are out there?” he asked as they continued on. “That’s the billion-dollar question,” said Helena. “And the answer is … we don’t know. Hundreds, at least. Maybe even more.”"
+
+**中文理解**：「外面到底有多少非常人？」他边走边问。「这是那个十亿美元的问题，」海伦娜说。「答案是……我们不知道。至少几百个，也许更多。」
+
+**关键词**：billion-dollar question · Hundreds, at least
+
+**为什么这样写**：问句用日常口吻，答句却先给它定价——十亿美元。然后是一个停顿，再是「我们不知道」。真正的答案藏在后半句的两个数字里：至少几百，也许更多。
+
+**读者视角提示**：这是加百列第一次听说这个机构的规模，而「我们不知道」意味着连他们也没有名单。他后面整套研究，起点就是这半个答案。
+
+> **原句 3:** "There, a dozen faces stared back at him from an array of driver’s licenses, mug shots, school photos, wedding pictures. Each was surrounded by a mismatched tapestry of grainy camera stills, article clippings, lines of text."
+
+**中文理解**：那里，十二张脸从驾照、嫌犯照、学生照和结婚照的拼贴里瞪着他。每张脸四周都围着不相称的碎片：模糊的监控截图、剪报、一行行文字。
+
+**关键词**：a dozen faces · driver’s licenses
+
+**为什么这样写**：四个词排在一起，全是官方档案里最标准的证件照来源，句子读起来像一份名单。第二句用 a mismatched tapestry 把这些碎布说成一幅不匹配的挂毯——但拼错的恰恰是这些人的人生。
+
+**读者视角提示**：墙上十二张脸就是琼摊开的那十二张牌，只是这里换成了证件照。同样的十二个人，两种编目方式。
+
+> **原句 4:** "Gabriel took a step closer to the wall, searching the profiles for any discernible pattern—age, race, gender, class—but the only obvious commonality was that they’d each defied death. Each had survived a seismic trauma and been permanently changed by it. Fascinating."
 
 **中文理解**：加百列朝那面墙走近一步，在那些档案里找一个站得住的规律——年龄、种族、性别、阶层——可唯一站得住的共同点是：这些人都违抗过死亡。每个人都熬过一场剧烈创伤，并因此被永久改变。有意思。
 
@@ -39,7 +59,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：他的「找规律」和「有意思」紧挨着出现，读者能觉出他面对这些人时没有惧意，只有样本送到手边的快活。这一段没有出现任何一个目标的名字，墙对他还是一面墙。
 
-> **原句 3:** "But instead of taking himself out of the videos, he’s putting himself in.” She gestured to the timestamps of two separate feeds. They were marked less than an hour—and three states—apart."
+> **原句 5:** "But instead of taking himself out of the videos, he’s putting himself in.” She gestured to the timestamps of two separate feeds. They were marked less than an hour—and three states—apart."
 
 **中文理解**：她接着上一句说：他没有把自己从画面里剪掉，反而把自己放了进去。她指了指两段不同来源画面的时间戳——两者相隔不到一小时，中间却隔着三个州。
 
@@ -49,7 +69,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一段没有说画面是假的，只说了改法；读者要自己把「改过」和「放进去」接起来，再意识到他自己也知道这会被人看破。一小时与三个州之间的距离，是这段话里唯一的证据。
 
-> **原句 4:** "Xavi scrambled backward as a second wall descended from the ceiling farther down the hall, blocking the boy’s retreat. He spun in a panicked circle as gas poured in from hidden vents, pluming thick and white around him."
+> **原句 6:** "Xavi scrambled backward as a second wall descended from the ceiling farther down the hall, blocking the boy’s retreat. He spun in a panicked circle as gas poured in from hidden vents, pluming thick and white around him."
 
 **中文理解**：第二道墙从走廊尽头的天花板上落下来，堵住男孩的退路，他手脚并用地往后挣。他在原地惊惶地转圈，毒气从暗藏的通风口灌进来，在他周围翻成又厚又白的一团。
 
@@ -59,7 +79,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：这里才把名字写出来——Xavi，名字和「被困住」同时到达，读者的同情是被这个顺序逼出来的。毒气写成又厚又白的一团，没有写剂量，也没有写男孩能撑多久。
 
-> **原句 5:** "She shook her head. “You have a lot to learn about EOs. That one,” she said, gesturing to the unconscious boy as the guards forced his limbs back into the straitjacket, “can erase a person’s mind, just by touching them.”"
+> **原句 7:** "She shook her head. “You have a lot to learn about EOs. That one,” she said, gesturing to the unconscious boy as the guards forced his limbs back into the straitjacket, “can erase a person’s mind, just by touching them.”"
 
 **中文理解**：她摇了摇头，说他对 EO 还有很多要学。她指了指那个已经昏迷的男孩——警卫正把他的四肢塞回束身衣——说这一个只要碰到人，就能把人的心智抹掉。
 
@@ -69,7 +89,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：能力被限定在触碰上，just by touching them 这几个词把安全距离抹掉了。她没有解释这类人为什么关在牢里而不是病房；她只交代了怎么把人绑回去。
 
-> **原句 6:** "He stilled, remembering the hungry way the boy had eyed his outstretched hand. It sickened him. Not just the danger, narrowly avoided, but the idea that it had been a test, and he’d just failed."
+> **原句 8:** "He stilled, remembering the hungry way the boy had eyed his outstretched hand. It sickened him. Not just the danger, narrowly avoided, but the idea that it had been a test, and he’d just failed."
 
 **中文理解**：他停住了，想起那男孩盯着他伸出去的手时那种饥饿的眼神。这让他恶心。不只是因为刚刚躲过的危险，而是因为他想到那是一场试探，而他刚刚没通过。
 
@@ -79,7 +99,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：他恶心的对象不是那个男孩，是自己。文本没有交代这场试探是谁设的——是这座楼在考他，还是他自己给自己出了一道题，两种读法都站得住。
 
-> **原句 7:** "“If it was up to me, I’d write him off,” said Helena. “He’s more trouble than he’s worth. But the board wants to make a point.” “Why’s that?” “Because,” she said, “he’s the one who killed Stell.”"
+> **原句 9:** "“If it was up to me, I’d write him off,” said Helena. “He’s more trouble than he’s worth. But the board wants to make a point.” “Why’s that?” “Because,” she said, “he’s the one who killed Stell.”"
 
 **中文理解**：「要是我做主，我会直接把他划掉，」海伦娜说。「他惹的麻烦比他的价值大得多。但董事会要拿他立个规矩。」加百列问：为什么？她答：「因为，杀斯特尔的人就是他。」
 

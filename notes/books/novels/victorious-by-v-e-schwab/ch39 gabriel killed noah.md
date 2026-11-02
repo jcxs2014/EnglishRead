@@ -29,7 +29,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：他的姿势没变，变的是他记得的东西。读者拿到的时钟和他的一样，是断的。
 
-> **原句 2:** "When I resurrect someone, I gain control over them. Humans return as little more than puppets. But the EOs have proven more resistant. You’re the first one who’s come through it. You see, Noah. You are the evidence I needed. The proof it could be done. So thank you. For trusting me."
+> **原句 2:** "The day he joined EON, Director Stell warned him to use his ability only when on a mission with his team and even then, only when necessary. He trained him to be cautious. To be careful."
+
+**中文理解**：加入 EON 的那一天，斯特尔主任就警告过他：只有在和队友一起出任务时才能使用能力，即便如此，也只在必要的时候。他训练他要谨慎，要小心。
+
+**关键词**：Director Stell · To be careful
+
+**为什么这样写**：整段是过去时的嘱咐，三层收窄：只有在队里、只在必要、还要谨慎小心。每一次限定都在缩小能力的使用空间。最后两个短句 To be cautious. To be careful. 单独成句，像反复叮嘱。
+
+**读者视角提示**：斯特尔给诺亚立下的规矩，本章却由加百列一句「让我看看你的能力」就打破了。两套规矩第一次正面对撞。
+
+> **原句 3:** "When I resurrect someone, I gain control over them. Humans return as little more than puppets. But the EOs have proven more resistant. You’re the first one who’s come through it. You see, Noah. You are the evidence I needed. The proof it could be done. So thank you. For trusting me."
 
 **中文理解**：他说，自己复活一个人，就能控制那个人。人回来之后差不多只是傀儡；EO 被证明更抗拒。诺亚是第一个挺过来的。他说，诺亚就是他要的证据，证明这件事做得到；最后一句是谢谢他信任自己。
 
@@ -39,7 +49,7 @@ modified: "2026-11-01"
 
 **读者视角提示**：他说的每一条都落在自己身上——控制、傀儡、更抗拒，最后落在 the first one who’s come through it 和一句道谢上。读者拿到的是一条明说的规则，不是猜的。
 
-> **原句 3:** "For the first time Noah felt himself resist. He brought the tip of the blade to the doctor’s palm, but he didn’t press down. His mind warned him not to do it. His hand clenched around the grip, unwilling."
+> **原句 4:** "For the first time Noah felt himself resist. He brought the tip of the blade to the doctor’s palm, but he didn’t press down. His mind warned him not to do it. His hand clenched around the grip, unwilling."
 
 **中文理解**：这是诺亚第一次感到自己在抗拒。他把刀尖送到博士掌心，却没有按下去。脑子里有个声音叫他别做；他的手攥紧刀柄，不肯动。
 

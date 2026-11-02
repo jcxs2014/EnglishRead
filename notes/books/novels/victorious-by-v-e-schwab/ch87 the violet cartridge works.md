@@ -47,7 +47,17 @@ modified: "2026-11-01"
 **为什么这样写**：入场写得日常到不能再日常，刷卡、低头、看手机。紧接着一句否定把动作的性质翻过来，不是手，是能力；再往后三个动词连着落，捏住神经、拧旋钮、烧线路。用的还是他在计时器前拨过的那只旋钮。
 **读者视角提示**：这一下是给读者的证明，能力不只是回来了，还能随手把一个人放倒；被放倒的人连脸都没露全，读者只看见他低头的那一瞬。
 
-> **原句 5:** "As Victor accepted the old cartridge, the scientific side of his mind applauded her due diligence. But the rest of him—the part that had spent nearly a decade either powerless or dying—wasn’t interested in safe."
+> **原句 5:** "Dani checked the TA’s pulse. “My guess is anywhere from eight to twelve hours, since I modeled it on the original.” She straightened. “But I don’t exactly have a wealth of data to go on, so, I suggest you take notes.”"
+
+**中文理解**：丹妮摸了一下那个技术员助理的脉搏。「我猜是八到十二小时，因为我参照原型做的。」她直起身。「不过我手头数据不多，所以，我建议你做笔记。」
+
+**关键词**：eight to twelve hours · take notes
+
+**为什么这样写**：数字用「我猜」领起，后面立刻补上原因（参照原型做的），再补一句自我限定（数据不多）。三步把一个估计值包成了一份可记录的东西。
+
+**读者视角提示**：八到十二小时这个数字，是这一章里唯一可被计划使用的东西——包括他自己能在这个窗口里做多少事。
+
+> **原句 6:** "As Victor accepted the old cartridge, the scientific side of his mind applauded her due diligence. But the rest of him—the part that had spent nearly a decade either powerless or dying—wasn’t interested in safe."
 
 **中文理解**：接过旧药管的时候，他脑子里讲科学的那一半是在给她这份谨慎叫好的；可另一半——那将近十年不是在没力量就是在等死的部分——对「安全」不感兴趣。
 **关键词**：due diligence · interested in safe

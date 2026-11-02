@@ -39,25 +39,35 @@ modified: "2026-11-01"
 **为什么这样写**：先给整个人：站着、高、直，再说别的都没变，把变化只留在疤上。第二句写眼睛的路线：落到她身上，停一拍，滑走；三个动作连得很紧，中间没有一句解释。
 **读者视角提示**：整段没有一句写他的情绪，只写站姿和视线。读者能数出来的长度只有「一拍」——原文只给了这一个时间词，没有给别的。
 
-> **原句 5:** "The woman’s fingers vised, sudden and hard. The glass cracked, then shattered, collapsing inward. Jagged shards bit deep into her hand and blood instantly began to well between her fingers."
+> **原句 5:** "“You present an opportunity—the first—to investigate the similarities, and differences. What you can do that I cannot. What I can do that you cannot. Perhaps even, what we can do together.” He rose to his feet. “I’ll go first. Now, keep in mind, I didn’t have a mentor. I learned what I could do by accident. Helena, come here.”"
+
+**中文理解**：「你提供的是一个机会——第一个——让我们去研究彼此的相同与不同：你能做而我不能做的，我能做而你不能做的。甚至，也许还有我们一起能做到的事。」他站起身。「我先来。记住，我没有师父，我这些本事都是撞出来的。海伦娜，过来。」
+
+**关键词**：the first · what we can do together
+
+**为什么这样写**：三个并列的 what 从「你／我」对称展开，把两人的能力摆成互补的拼图，而不是高下。最后一句甚至把可能引出第三种可能——together。前面全是二分，最后这一项越出二分之外。
+
+**读者视角提示**：这是加百列给西德妮的位置：不是学生，不是样本，是第一份「一起研究」的对象。而「我先来」也说明他打算先展示自己。
+
+> **原句 6:** "The woman’s fingers vised, sudden and hard. The glass cracked, then shattered, collapsing inward. Jagged shards bit deep into her hand and blood instantly began to well between her fingers."
 **中文理解**：那女人的手指突然夹紧，硬得像台钳。杯子先裂，再碎，往里面塌下去。尖利的碎片扎进她的手，血立刻从指缝里涌出来。
 **关键词**：fingers vised · bit deep
 **为什么这样写**：三个动作挨着来：夹紧、裂、碎，一个比一个彻底。碎片往里面塌，血立刻涌出来，中间没有一句写她的反应。
 **读者视角提示**：读者看到的是手和杯子，看不到脸。整段没有一个字写疼，血却已经从指缝里涌出来。
 
-> **原句 6:** "One moment the woman was standing there, blithely bleeding on the floor. And the next, she was gone, her body collapsing inward, the way the glass had done, skin and bone disintegrating into ash."
+> **原句 7:** "One moment the woman was standing there, blithely bleeding on the floor. And the next, she was gone, her body collapsing inward, the way the glass had done, skin and bone disintegrating into ash."
 **中文理解**：前一刻那女人还站在那儿，若无其事地流着血。下一刻她就没了：身体往里面塌，跟刚才那只杯子一样，皮和骨都散成灰。
 **关键词**：blithely bleeding · into ash
 **为什么这样写**：两个时间点对得很齐：前一刻和下一刻，中间只隔着一个 And。人被写成跟杯子同一个下场，那句「跟刚才那只杯子一样」把人和那只杯子绑在一起。最后落在皮和骨两样东西上。
 **读者视角提示**：读者刚看过那只杯子怎么碎，这里再读到「跟杯子一样」，就知道她也被这样处理了。整句没有写任何人的反应，只有两个时间点和一个人的消失。
 
-> **原句 7:** "She’d tried for years to tell herself that Eli somehow got inside Serena’s head, but mind control was her sister’s power, not his. Which meant she believed it. Believed that they were monsters."
+> **原句 8:** "She’d tried for years to tell herself that Eli somehow got inside Serena’s head, but mind control was her sister’s power, not his. Which meant she believed it. Believed that they were monsters."
 **中文理解**：这些年她一直想说服自己：是伊莱钻进了塞雷娜的脑子。可读心是她姐姐的本事，不是他的。这么一来，就只剩一种解释：她信了。信他们是怪物。
 **关键词**：mind control · they were monsters
 **为什么这样写**：先给她一个用了多年的说法，再用一个「可」把它拆掉：读心是姐姐的能力。拆完只剩一句很短的推断，最后三个词把结论压到最小。
 **读者视角提示**：这条推理是她在心里走给自己的，读者跟着走完，落点是最后那句最短的。句子把「她信了」单独放成一句，前面那一长句的份量全落到这三个字上。
 
-> **原句 8:** "“Ms. Roy was the director here at EON, prior to my arrival,” he said, addressing Sydney. “In fact, she’s the one who hired me.” He looked to Helena. “Crush the glass.”"
+> **原句 9:** "“Ms. Roy was the director here at EON, prior to my arrival,” he said, addressing Sydney. “In fact, she’s the one who hired me.” He looked to Helena. “Crush the glass.”"
 
 **中文理解**：「罗伊女士在我来之前是 EON 的主管，」他说着，转向西德妮。「事实上，是她招的我。」他转头看向海伦娜。「捏碎那只杯子。」
 

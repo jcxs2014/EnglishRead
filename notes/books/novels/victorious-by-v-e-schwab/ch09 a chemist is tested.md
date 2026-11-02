@@ -39,7 +39,17 @@ modified: "2026-11-01"
 
 **读者视角提示**：这一块没有给脸，也没有给身份，只给一缕正在消失的卷发和一种多年没听过的嗓音。信息刚好够读者认出「旧人」，不够认出「是谁」；本章也不打算回答，只让胸口那一紧留在原地。
 
-> **原句 3:** "It was late, and no one heard the shot, quiet as it was. No one saw the thin blond man bend over the corpse and retrieve the slip of paper before blending back into the dark."
+> **原句 3:** "Victor’s chest tightened. “Hey, Vale,” it called, in a singsong voice he hadn’t heard in years. Fifteen, to be exact. I’ll never forgive you, she’d said, as he lay down on the metal table."
+
+**中文理解**：维克多的胸口收紧了。「嘿，瓦尔，」那个声音叫他，用一种他多年没听过的歌唱般的调子。十五年，整整十五年。然后她说过的那句话浮上来：我永远不会原谅你，就在他躺上金属台的时候。
+
+**关键词**：never forgive you · singsong voice
+
+**为什么这样写**：前两句是幻觉逼近：先写身体的反应，再写声音的来源和它的年龄——十五年，用一个数字把时间钉住。第三句突然换成回忆的语气，她的话被原样引出，却没有任何引号。
+
+**读者视角提示**：这是本章唯一一次她开口，而她说的是不会原谅。读者第一次听见她对他的定性。
+
+> **原句 4:** "It was late, and no one heard the shot, quiet as it was. No one saw the thin blond man bend over the corpse and retrieve the slip of paper before blending back into the dark."
 
 **中文理解**：天已经晚了，枪声很轻，没有人听见。也没有人看见那个瘦削的金发男人俯身在尸体旁取走那张纸条，然后融回黑暗里。
 
