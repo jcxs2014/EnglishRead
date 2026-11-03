@@ -1,0 +1,37 @@
+{
+ "book": "afternoon-delight-by-dani-collins",
+ "chapter": "ch36",
+ "text": "notes/books/novels/afternoon-delight-by-dani-collins/text/ch36_chapter_thirty_six_meg.txt",
+ "facts": [
+  {
+   "fact": "Shelby 在 Kelowna 多留一晚与朋友聚（周五夜安全抵达）——Meg 吞下失望只回 Drive safe；周日上午她洗完床单、藏好性玩具（Shelby 将与自己同睡）跑去探 Georgia。",
+   "anchor": "Drive safe.",
+   "start": 333,
+   "end": 344
+  },
+  {
+   "fact": "Georgia 康复报告：physio 拼到没电、nap 次数多但 less resentfully——「不是药劲是愈合，这样就挺好」；样本袋请 Meg 带回店（防 Gail 家孩子翻到）。",
+   "anchor": "It’s not the drugs making me sleepy, it’s healing and that’s okay.",
+   "start": 972,
+   "end": 1038
+  },
+  {
+   "fact": "Gail 不需要样本（丈夫包办）；袋内留了进货推荐清单，Georgia 嘱她亲自试、也让 Shelby 挑挑；Meg 自首已试过几款——并宣布给母亲 first dibs 的 perks（她不肯收工钱）。",
+   "anchor": "She says her husband gives her all she needs.” She shrugged.",
+   "start": 1221,
+   "end": 1281
+  },
+  {
+   "fact": "求救电话接通即入戏：Joe's Rescue Service 问询警情——她报「Treed cougar（树上有美洲狮）」并自认 pre-emptive：预约在 Dogwood 汽车旅馆（Seventeen 半路、去 Sidney 方向）被困，一袋玩具+两小时空档；他秒接单 I'll be right there，连她的「Wait what about—」都没听完就挂断。Shelby was probably on the road and getting close to the ferry, but still a few hours away. || 时机账：Shelby 在赶渡轮的路上、母亲外出、Roddie 打游戏——正是两小时空档；她把 Georgia 亲手塞的推荐清单（Try some yourself）揣进包里出发。",
+   "anchor": "“Joe’s Rescue Service.” His voice filled the interior of my vehicle.",
+   "start": 2165,
+   "end": 2233
+  },
+  {
+   "fact": "时机账：Shelby 在赶渡轮路上、母亲外出、Roddie 打游戏——两小时空档成立；她揣着 Georgia 的推荐清单（Try some yourself）出发。",
+   "anchor": "Shelby was probably on the road and getting close to the ferry, but still a few hours away.",
+   "start": 1889,
+   "end": 1980
+  }
+ ]
+}
