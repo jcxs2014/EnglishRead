@@ -39,7 +39,7 @@ modified: "2026-11-03"
 **读者视角提示**：这份证词解释了「绑架为何无人报案」——在听者心里，这不是罪，是延迟到位的正义。
 
 > **原句 5:** "We took Stewart Qualley and broke his brain, and we’re in the process of scrambling this Oakley fellow’s synapses as we speak. We’re holding him in an old storage facility out in Sidney. I can take you there, if you like."
-**中文理解**：Rheal 的「自白」：我们抓了 Stewart Qualley 并弄坏他的脑子，此刻正 scrambled 这位 Oakley 的突触；人关在 Sidney 的旧仓库——想看的话我可以带你们去。
+**中文理解**：Rheal 的「自白」：我们抓了 Stewart Qualley 并弄坏他的脑子，此刻正在 scrambling 这位 Oakley 的突触；人关在 Sidney 的旧仓库——想看的话我可以带你们去。
 **关键词**：broke his brain（弄坏了他的脑子）/ synapses（突触）/ an old storage facility out in Sidney（Sidney 的旧仓库）
 **为什么这样写**：假口供精准复刻审讯期待——地点、手段、邀请三件套齐全，真实到无法证伪；越离谱越安全，这是 Rheal 对测谎的民间用法。
 **读者视角提示**：对照 ch12 的真实刑房——他说的每个字都接近事实，唯「我」字是假的；艺术化的自首是本书最优雅的烟幕。
@@ -69,7 +69,7 @@ modified: "2026-11-03"
 **读者视角提示**：这条检索路径与 ch10 Clement 的微缩胶卷之旅严格对位——同一个故事从三条线汇聚；下一章它将改写所有人的命运。
 
 > **原句 10:** "The Sauciers could sneak into the White House and kidnap Reagan"
-**中文理解**：Rheal 论战力：Saucier 兄弟能溜进白宫把里根绑出来——等工贼们亲眼看见 Aucoin 的人根本保不住他们，他们会排成车队离开小镇。
+**中文理解**：Rheal 的威慑论证从一句狂想开始：Saucier 兄弟能溜进白宫把里根绑出来。
 **关键词**：sneak into the White House（溜进白宫）/ kidnap Reagan（绑走里根）
 **为什么这样写**：战略威慑的极限假设——把「不可完成的任务」当能力证明书出示；绑总统的狂想接住上一章的面具梗，恐怖与笑话共用一张脸。
 **读者视角提示**：注意 Rheal 的算术——他不要火并，要的是「可见的失败」：让保护人当场失业，比杀死一百个工贼都管用。

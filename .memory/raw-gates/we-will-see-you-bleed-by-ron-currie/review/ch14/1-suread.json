@@ -1,0 +1,64 @@
+{
+ "chapter": "ch14",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 19,
+   "end": 122,
+   "fact": "Aucoin 的一百人保安队（one hundred men strong）乘轿车与皮卡组成的车队从州际",
+   "anchor": "Aucoin’s security force, one…"
+  },
+  {
+   "ok": true,
+   "start": 3527,
+   "end": 3636,
+   "fact": "安全进驻两天后，此前被绑架的 Duane Oakley 在市中心 Castonguay Square（警",
+   "anchor": "Sutton had resolved that he’…"
+  },
+  {
+   "ok": true,
+   "start": 7953,
+   "end": 8026,
+   "fact": "Sutton 亲自到 Babs Dionne 家车道找她谈判（她正与 Rita、Carmeline Bé",
+   "anchor": "We gave, and you took. For y…"
+  },
+  {
+   "ok": true,
+   "start": 12162,
+   "end": 12242,
+   "fact": "Babs 走下货车坡道贴身逼近 Sutton，警告若被逼她会杀了他；她自述捅过警长 Davies 的朋友",
+   "anchor": "I will kill you if I have to…"
+  },
+  {
+   "ok": true,
+   "start": 16398,
+   "end": 16465,
+   "fact": "对峙中 Babs 突然宣布自己怀孕（「I’m pregnant」），Rita 与 Carmeline 听",
+   "anchor": "I am pregnant only for a few…"
+  },
+  {
+   "ok": true,
+   "start": 17349,
+   "end": 17414,
+   "fact": "Sutton 说「I will have to take time to consider」后离开；Ri",
+   "anchor": "He’s got a hundred men in to…"
+  },
+  {
+   "ok": true,
+   "start": 22155,
+   "end": 22267,
+   "fact": "Clement Thibault 登门 Notre Dame 神父住宅，要求 Father Brenna",
+   "anchor": "The cardinal sent me to a tr…"
+  },
+  {
+   "ok": true,
+   "start": 36138,
+   "end": 36199,
+   "fact": "杀手兄弟 Normand 与 Ray Saucier（wet-work 圈的传奇）被困在 H&W 厂的",
+   "anchor": "it’s four in de morning, so …"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "chapter": "ch15",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 19,
+   "end": 111,
+   "fact": "手术日后 Claude 本该在 twenty minutes earlier 前头一回离家，却反复检查妻",
+   "anchor": "Claude had checked everythin…"
+  },
+  {
+   "ok": true,
+   "start": 6458,
+   "end": 6572,
+   "fact": "Babs 一早（还没喝上第一杯咖啡）得知 Saucier 兄弟（Rheal 的朋友）闹出了人命——死者是",
+   "anchor": "Babs dispatched the Sauciers…"
+  },
+  {
+   "ok": true,
+   "start": 12474,
+   "end": 12569,
+   "fact": "Rheal 告诉妻子 Babs：局势越来越危险，在 further notice 之前不许她独自外出（尤",
+   "anchor": "okay I’ll accept being babys…"
+  },
+  {
+   "ok": true,
+   "start": 18389,
+   "end": 18461,
+   "fact": "波士顿总主教区 Cardinal Bernard Francis Law 在今天的 two o’cloc",
+   "anchor": "I’ll tell anyone who will li…"
+  },
+  {
+   "ok": true,
+   "start": 23602,
+   "end": 23662,
+   "fact": "在给 Babs 当保镖的头一班（也是最后一班），Claude 开皮卡一路跟着她跑了 Shop ’n’ S",
+   "anchor": "She blew through the red doi…"
+  },
+  {
+   "ok": true,
+   "start": 25754,
+   "end": 25813,
+   "fact": "同一时刻，Doc Belanger 在诊室里等迟到 fifteen minutes（后至 twenty",
+   "anchor": "that Babs had changed her mi…"
+  },
+  {
+   "ok": true,
+   "start": 29848,
+   "end": 29920,
+   "fact": "Rheal 独自到城北 Pete & Larry’s 酒吧喝威士忌，半个多小时后 FBI 探员 Kitt",
+   "anchor": "I put in a request yesterday…"
+  },
+  {
+   "ok": true,
+   "start": 35418,
+   "end": 35468,
+   "fact": "章末，Kittel 正要起身离场时 Claude 跑进 Pete & Larry’s，拨开客人冲到 Rh",
+   "anchor": "Kittel rose from his stool j…"
+  }
+ ]
+}

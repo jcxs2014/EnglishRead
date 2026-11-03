@@ -1,0 +1,64 @@
+{
+ "chapter": "ch13",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 590,
+   "end": 661,
+   "fact": "H&W 工厂发生第二次绑架：化学品主管 Duane Oakley 在夜班后的深夜未归家；这一次 FBI",
+   "anchor": "Duane Oakley didn’t make it …"
+  },
+  {
+   "ok": true,
+   "start": 999,
+   "end": 1076,
+   "fact": "Oakley 失踪的同一时间，Bates 与 Claude、Sophie 在麻省总医院准备把 Bates",
+   "anchor": "preparing for one of Bates’s…"
+  },
+  {
+   "ok": true,
+   "start": 4658,
+   "end": 4755,
+   "fact": "Farley 陪同 Portland FBI 外勤办的特工 Booker 和 Kittel 在 Litt",
+   "anchor": "My husband worked in that mi…"
+  },
+  {
+   "ok": true,
+   "start": 15605,
+   "end": 15663,
+   "fact": "Rheal 在自家厨房对 Kittel 和 Farley 假意认罪：称「我们」绑架了 Stewart Q",
+   "anchor": "We’re holding him in an old …"
+  },
+  {
+   "ok": true,
+   "start": 17838,
+   "end": 17903,
+   "fact": "Rheal 话题一转（自称与绑架无关）：新调任 Notre Dame 教区的神父 Father Bren",
+   "anchor": "Check the newspapers out of …"
+  },
+  {
+   "ok": true,
+   "start": 21635,
+   "end": 21697,
+   "fact": "深夜一名身上带对讲机的男子走到在 Grondin’s Cleaners 后独自守夜的 Carmeline",
+   "anchor": "as he’s been hired to provid…"
+  },
+  {
+   "ok": true,
+   "start": 25165,
+   "end": 25229,
+   "fact": "Clement 一直把教区人事档案偷带出（自定规矩：一次一份、只在午休期间持有、回来立即归位），在 Po",
+   "anchor": "faxing them to Heron from Do…"
+  },
+  {
+   "ok": true,
+   "start": 32223,
+   "end": 32335,
+   "fact": "结尾：Kittel 在教区档案地下室等到返回的 Clement 并出示 FBI 证件，翻看档案里的 Fa",
+   "anchor": "He suggested that I worry le…"
+  }
+ ]
+}
