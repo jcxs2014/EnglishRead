@@ -1,0 +1,55 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch25",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch25_chapter_twenty_five.txt",
+ "facts": [
+  {
+   "fact": "他先检查火化炉温度够不够高，说最不想处理「三分熟」的尸体——会毁了他的 Yelp 评分，假如连环杀手有评分。",
+   "anchor": "a medium-rare corpse",
+   "start": 479,
+   "end": 499
+  },
+  {
+   "fact": "他不在尸体旁久留：最好别反复想自己做过的事——那只会让他的毫无愧疚更明显。",
+   "anchor": "my lack of guilt feel more prominent",
+   "start": 696,
+   "end": 732
+  },
+  {
+   "fact": "他解手套手滑、笨拙重扣，她挑眉问「第一次？」，他面无表情：「不，我只是不习惯在火化尸体旁边做前戏。」",
+   "anchor": "First time?",
+   "start": 1717,
+   "end": 1728
+  },
+  {
+   "fact": "事后他承认从没在杀人后这样过——不在计划里，但感觉太好，懒得细想。",
+   "anchor": "I’ve never done anything like that before",
+   "start": 5952,
+   "end": 5993
+  },
+  {
+   "fact": "这一杀极其痛快，全靠她：没她找不到 Eli，没她也不会渴望他的血；错过 Kevin 那次比不上这次。",
+   "anchor": "I have Sage to thank for that",
+   "start": 7140,
+   "end": 7169
+  },
+  {
+   "fact": "他取出小玻璃瓶舀骨灰装进去微笑——第一次有人看见他的仪式；她说没想到他会有「纪念品」。",
+   "anchor": "morbid keepsakes",
+   "start": 6578,
+   "end": 6594
+  },
+  {
+   "fact": "这些阴森纪念品此前只有他知道。",
+   "anchor": "Nobody knows about my morbid keepsakes but me",
+   "start": 6556,
+   "end": 6601
+  },
+  {
+   "fact": "回家他把所有受害者的骨灰瓶拿出来给她看——这是她唯一还不知道的关于他的部分；她一瓶瓶看、带着敬重放回，不怕。",
+   "anchor": "She isn’t afraid",
+   "start": 7788,
+   "end": 7804
+  }
+ ]
+}

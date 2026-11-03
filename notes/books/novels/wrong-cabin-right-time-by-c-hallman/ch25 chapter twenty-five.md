@@ -83,7 +83,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：全章最私密的仪式被第一次目击：骨灰瓶从 ch05 的「藏在我房间」走到被人看着装满。作者用她的「trophies」一词，把这个仪式从「怀念」拉回「收藏品」——她的命名比他的自述更准。
 
-**读者视角提示**：他的解释是「我从不留着尸体，但我留着这个」。这不是纪念，是把人变成可收纳的单位。
+**读者视角提示**：他的逻辑是不留尸体、只留这个。这不是纪念，是把人变成可收纳的单位。
 
 > **原句 8:** "I lead her into my office, where I grab the vials of ashes from all my other kills and show them to her. This is the last part of who I am that she doesn't know. … She isn't afraid."
 
