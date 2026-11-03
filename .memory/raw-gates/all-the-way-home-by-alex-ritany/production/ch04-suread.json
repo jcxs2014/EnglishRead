@@ -1,0 +1,55 @@
+{
+ "book": "all-the-way-home-by-alex-ritany",
+ "chapter": "ch04",
+ "text": "notes/books/novels/all-the-way-home-by-alex-ritany/text/ch04_chapter_four.txt",
+ "facts": [
+  {
+   "fact": "1. Kieran 离座回来后膝盖狂抖，Rena 的无助感升级——不光要盯人，此刻与 Lucas 独处本身就让她紧张。",
+   "anchor": "being left alone with Lucas right now makes her nervous",
+   "start": 278,
+   "end": 333
+  },
+  {
+   "fact": "2. Lucas 播报：大雪下数小时、不是适飞日；窗外已白成一片，暴风雪与登机口 agitation 同时升级，有人冲柜台。",
+   "anchor": "Bad like heavy snow for hours",
+   "start": 2537,
+   "end": 2566
+  },
+  {
+   "fact": "3. Rena 的暗想：如果航班取消、如果他们不回去呢——她整个学期都在想这个，留在 Calgary 过寒假能有多糟。",
+   "anchor": "What if they don’t go back?",
+   "start": 1742,
+   "end": 1769
+  },
+  {
+   "fact": "4. 兄妹交锋核心：Kieran 目光里那句未说出口的「看你的『照看』把我们带到了哪里」；Rena 吞咽认栽「That’s not fair」，后追问被 Kieran 挡回——It’s done. It’s fine. I’m good, and I will be fine.",
+   "anchor": "the unspoken And look where that landed us",
+   "start": 4600,
+   "end": 4642
+  },
+  {
+   "fact": "5. Lucas 追问 Band-Aid，Rena 只给最小供给：是 Mum 太过操心、Kieran 在回避，别的没什么新的。",
+   "anchor": "It’s just Mom",
+   "start": 6385,
+   "end": 6398
+  },
+  {
+   "fact": "6. 首飞记忆战：Lucas 坚持学校旅行是十年级、两人还没在一起满一年；Rena 有 receipts（相册在电脑里不在云端），并指出真首飞是十年级暑假 Denver 姨妈婚礼——Lucas 连这个都忘了，问题正中她胸口。",
+   "anchor": "surprised that the question hits her directly in the center of her chest",
+   "start": 8198,
+   "end": 8270
+  },
+  {
+   "fact": "7. 兄妹心电感应：Rena 叫 Kieran 当裁判，他秒答十一年级；Peace sign 双指=两个 1=11 的老梗；被 Lucas 问「借你的脑子考试用」，Kieran 回敬阴冷的 Sure you want it?",
+   "anchor": "“Eleven,” Kieran says promptly",
+   "start": 8907,
+   "end": 8937
+  },
+  {
+   "fact": "8. 广播正式宣布：AC156 to Toronto 因天气延误至下午 2:30（已过原登机时间 20 分钟）；Rena 顺势「放逐」Kieran，他敬了个礼走人。",
+   "anchor": "It will now depart at two thirty p.m.",
+   "start": 10459,
+   "end": 10496
+  }
+ ]
+}
