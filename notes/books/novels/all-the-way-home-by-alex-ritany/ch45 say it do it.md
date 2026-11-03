@@ -73,7 +73,7 @@ modified: "2026-11-03"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| disheveled | 凌乱的（礼貌级） | Kieran is . . . well. As politely disheveled as it’s possible to be. |
+| envision | 设想 | “An airport isn’t where I envisioned this going down, is all.” |
 | untethered | 挣脱束缚的 | “Oh hell.” Kieran rakes fingers through his hair, abruptly both wild and untethered, whirling around in a full circle. |
 | envision | 设想 | “An airport isn’t where I envisioned this going down, is all.” |
 | reproachful | 责备的 | Eyes large and reproachful, Lucas sighs. |

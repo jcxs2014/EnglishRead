@@ -69,7 +69,7 @@ modified: "2026-11-03"
 | blistered | 灼起水泡 | The bright and cheery chorus of “Holly Jolly Christmas” sat at the corner of her brow bone and blistered until her vision fractured, until she was standing there with her palms pressed to her eye sockets, choking down sobs. |
 | heaving | 剧烈起伏的 | He’d been drinking—he must have been, to call her in that state—broken, heaving sobs into the receiver like whatever he was feeling was going to kill him. |
 | irreparable | 无法修复的 | But she doesn’t, because Kieran would be furious, and they’d fight for real, and if that happened, Rena would fracture into a web of a thousand irreparable pieces. |
-| tremulous | 颤声的 | “I’m sorry I ever made you feel like too much to handle,” Ivy says, voice tremulous. |
+| parse | 逐条解析 | She’s spent enough long, long hours on FaceTime with the two of them trying to parse all the horrific events of last year—trying to understand—that they know everything. |
 | sprout | 抽芽 | At that, something Rena’s buried deep down expands, curling outward like a sprout blossoming. A tendril of hope. |
 
 ### ⭐⭐ 进阶

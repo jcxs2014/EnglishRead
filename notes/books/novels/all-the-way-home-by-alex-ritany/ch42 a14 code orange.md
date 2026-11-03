@@ -66,7 +66,7 @@ modified: "2026-11-03"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| egregiously | 极其恶劣地 | Egregiously |
+| existential | 存在（危机）的 | While you were . . . gone, I was having an existential crisis. |
 | heartweep | 心碎weeping（书中自造词） | She’s seen it everywhere in the past year, in the inward curl of his shoulder, the hollow slant of his gaze; that sick, strained heartweep. |
 | disheveled | 凌乱的 | Kieran is . . . well. As politely disheveled as it’s possible to be. |
 | appraises | 打量评估 | Apparently, Kieran doesn’t have the words to describe exactly what Zach is, but as she appraises his dazed expression and the way his mouth sits in a smile shape without ever quite getting there, Rena decides that she doesn’t need him to. |

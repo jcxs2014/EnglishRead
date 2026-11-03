@@ -65,7 +65,7 @@ modified: "2026-11-03"
 > **原句 8:** "“I’m not saying Kieran is a bad guy. I guess I just thought you should know that he can be . . . careless. So take whatever he’s been telling you with a grain of salt.""
 
 **中文理解**：「我不是说 Kieran 是坏人。我只是觉得你该知道，他可以很……不小心。所以他说过的每一句，都请带一点怀疑去听。」
-**关键词**：not saying he’s a bad guy / careless / a grain of salt
+**关键词**：not saying Kieran is a bad guy / careless / a grain of salt
 **为什么这样写**：最后通牒以温和剂量送达——Lucas 用「转告义务」包装恶意，每句都留了否认空间。作者让 careless 这个词承接 Rena 的 ch24（a tendency to act without thinking），两种版本的同一个人的档案在 Zach 面前并排。grain of salt 是给毒药撒的糖霜。
 **读者视角提示**：记住 Lucas 的三重身份——姐夫、表兄的家人、和永远被 Kieran 排除在真相外的人。他的账比谁都长。
 
@@ -90,7 +90,7 @@ modified: "2026-11-03"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| chucking | 猛掷 | When he gets to the kiss, she squeals—actually squeals, enough that he nearly chucks his phone—and then sighs, hand over her heart. |
+| chucks | 猛掷 | When he gets to the kiss, she squeals—actually squeals, enough that he nearly chucks his phone—and then sighs, hand over her heart. |
 | flops | 瘫倒 | “Gimme.” Mara flops down on her bed, flat on her back, hair in a dark fan around her head. |
 | arch | 竖起 | “Yikes.” Lucas’s eyebrows arch. |
 

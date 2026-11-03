@@ -30,14 +30,14 @@ modified: "2026-11-03"
 > **原句 3:** "Kieran leans back in his seat, arms folded, looking for all the world like a victor despite the fact that he won’t meet Rena’s eye."
 
 **中文理解**：Kieran 靠回椅背，抱着手臂，怎么看都像个胜者——尽管他根本不与 Rena 对视。
-**关键词**：arms folded / like a victor / won’t meet her eye
+**关键词**：arms folded / like a victor / won’t meet Rena’s eye
 **为什么这样写**：胜利姿态与不敢对视同框，泄露这场「赢」的成本。作者让 Rena 读懂 subtle triumph——他知道自己刚刚做了什么：用抖出 Lucas 之事转移火力，把姐姐拖进另一个战场。这一刻的 Kieran 是危险的：他的聪明第一次被用来伤人。
 **读者视角提示**：与 ch19 的「dick move 条款」对照——他对自己立的规矩，在这里亲手违反。
 
 > **原句 4:** "“What is wrong with you?” It’s out before Rena realizes she’s going to say it. The second it hits the air—the second it fractures on impact and the triumph shatters—she regrets it."
 
 **中文理解**：「你到底怎么了？」话在 Rena 意识到要说什么之前已经出口。它击中空气的瞬间——碎在冲击点上的瞬间，那份胜利感随之粉碎——她就后悔了。
-**关键词**：out before she realizes / fractures on impact / regrets it
+**关键词**：before Rena realizes / fractures on impact / regrets it
 **为什么这样写**：语言被写成弹道——发射、撞击、碎裂、后悔，全在一秒内完成。作者用物理词汇（fractures on impact）标记这句话的杀伤力，也标记 Rena 的失控：她一生监控自己的言行，这一句是脱轨。triumph shatters 说明它打中了——这比后悔更糟。
 **读者视角提示**：记住这句的飞行轨迹——它是 hurricane 的第一声雷。
 

@@ -17,7 +17,7 @@ modified: "2026-11-03"
 
 **中文理解**：你问过我，死前会发短信给谁——那个我没有号码的人。
 **关键词**：who I’d text / whose number / I don’t have
-**为什么这样写**：info trade 的欠账在此清偿——那个拖欠了五章的答案原来一直朝着桌对面坐着的人。作者用回指句式（You asked me...）把游戏与答案焊在一起，Zach 的告白以最 Zach 的形式完成：一条短信的收件人栏。Kieran 的 smooth 评价确认他听懂了。
+**为什么这样写**：info trade 的欠账在此清偿——那个拖欠已久的答案原来一直朝着桌对面坐着的人。作者用回指句式（You asked me...）把游戏与答案焊在一起，Zach 的告白以最 Zach 的形式完成：一条短信的收件人栏。Kieran 的 smooth 评价确认他听懂了。
 **读者视角提示**：这是本书第一个明示的双向选择——之前的 wink 都算利息，这是本金。
 
 > **原句 2:** "“It would say, ‘Remember that hypothetical question you asked me about imminent death? It’s coming true and I think you cursed me.’ ”"
@@ -88,4 +88,4 @@ modified: "2026-11-03"
 | grunts | 哼了一声 | All he got was a noncommittal grunt from above, where she was furiously scribbling in a sketchbook. |
 
 ## 一句话总结
-一句「You asked me who I'd text」清偿了五章的欠账——黑曜石（spells=爱的翻译层）、骨头背诵、Seth 的失约判词与两场出柜（Loren 的 chill 对 Kieran 的 follow-up about the follow-up）在一张餐桌上互相通关，Mara 的 Same 是这夜最短也最长的答案。
+一句「You asked me who I'd text」清偿了 info trade 留下的欠账——黑曜石（spells=爱的翻译层）、骨头背诵、Seth 的失约判词与两场出柜（Loren 的 chill 对 Kieran 的 follow-up about the follow-up）在一张餐桌上互相通关，Mara 的 Same 是这夜最短也最长的答案。

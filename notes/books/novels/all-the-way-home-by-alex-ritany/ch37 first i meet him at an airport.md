@@ -84,7 +84,7 @@ modified: "2026-11-03"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | sniffing | 闻 | Kieran nods, picking up the coffee cup Rena had left behind, sniffing at the lid. |
-| blearily | 惺忪地 | “I’m pretty into dudes, Reen,” he said blearily, nose in the crook of his elbow. |
+| abashed | 羞赧的 | But Kieran doesn’t seem abashed in the slightest. “What? I’m curious.” |
 | sagging | 倚靠下沉 | Sagging against Kieran’s suitcase, Zach tips his head back and closes his eyes. |
 
 ## 一句话总结

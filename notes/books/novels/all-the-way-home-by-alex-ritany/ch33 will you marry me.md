@@ -77,7 +77,7 @@ modified: "2026-11-03"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | skids | 刹住 | “Vera!” The woman—Ivy, evidently—skids to a stop in front of her. |
-| sprawl | 铺开 | Sprawled across the gate area... |
+| plants | 落下（吻） | Kieran’s fist shoots skyward as Lucas plants a kiss on her temple. |
 | plants | 落下（吻） | Kieran’s fist shoots skyward as Lucas plants a kiss on her temple. |
 
 ## 一句话总结
