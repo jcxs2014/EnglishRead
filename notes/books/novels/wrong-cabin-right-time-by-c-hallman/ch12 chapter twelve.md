@@ -25,15 +25,15 @@ modified: "2026-11-03"
 
 **读者视角提示**：注意她只是把毯子「弄皱」了。让他失控的门槛低到这种程度——这不是洁癖，是控制系统的报警器。
 
-> **原句 2:** ""I've only got an hour and fifteen minutes before I have work to do." … I've never had a guy sacrifice something for me."
+> **原句 2:** "It makes the fact that he's willing to throw off his entire routine to make sure I'm safe that much more romantic. I've never had a guy sacrifice something for me."
 
-**中文理解**：「我只有一个小时十五分钟，之后还有活要干。」……「从来没有男人为我牺牲过什么。」
+**中文理解**：他愿意为了确保她安全而打乱整个例行安排，这让她觉得更加浪漫。从来没有男人为她牺牲过任何东西。
 
-**关键词**：hour and fifteen minutes / work to do / sacrifice
+**关键词**：throw off his entire routine / make sure I'm safe / sacrifice
 
-**为什么这样写**：他把「一小时十五分钟」当预算报出来，她把同一句话听成奉献宣言。作者把两个人的解码并排放着，不加评注：对他来说这是一次时间调度，对她来说这是一次爱的证明。
+**为什么这样写**：上一段他以「一小时十五分钟」报预算，这一段她把同一件事听成奉献宣言。作者把两个人的解码并排放着，不加评注：对他来说这是一次时间调度，对她来说这是一次爱的证明——「throw off his entire routine」这个短语把「牺牲」的重量直接压在她的视角上。
 
-**读者视角提示**：他的「工作」是什么，读者已经知道（追查跟踪者、准备杀人）。她此刻的幸福感建立在这一小时的误读上。
+**读者视角提示**：他的「工作」是什么，读者已经知道（追查跟踪者、准备杀人）。她此刻的幸福感建立在这一小时的误读上，而那个误读的原料，是他随口报出的时间预算。
 
 > **原句 3:** ""Statistically, over fifty percent of accidents happen within twenty-five miles of home. Short trips give a false sense of security. The risk doesn't disappear because the destination is nearby." … "I wasn't asking you to put the seat belt on. I was telling you.""
 
