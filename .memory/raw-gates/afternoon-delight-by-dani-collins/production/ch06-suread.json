@@ -1,0 +1,55 @@
+{
+ "book": "afternoon-delight-by-dani-collins",
+ "chapter": "ch06",
+ "text": "notes/books/novels/afternoon-delight-by-dani-collins/text/ch06_chapter_six_meg.txt",
+ "facts": [
+  {
+   "fact": "母亲进店第一句话就是「你得擦橱窗」，Meg 承认她没说错。",
+   "anchor": "You need to wash the window,” were the first words out of Mom’s mouth.",
+   "start": 44,
+   "end": 114
+  },
+  {
+   "fact": "母亲指着小帐篷牌问「兔子和笼子是什么」——答案是男用贞操笼与双叉兔子振动棒。",
+   "anchor": "“The cages are male chastity devices. The rabbits are those vibrators with the two prongs like ears.",
+   "start": 977,
+   "end": 1077
+  },
+  {
+   "fact": "母亲追问「有用吗」，Meg 当场石化，反问要不要试一只再汇报。",
+   "anchor": "I froze with a spritz running down the glass, bunched paper towel poised. “I don’t know, Mom. Do you want to try one and report back?”",
+   "start": 1160,
+   "end": 1294
+  },
+  {
+   "fact": "母亲立刻反击：这话听着像在评判我该不该、会不会。",
+   "anchor": "“That sounds as though you’re judging whether I should or would,” she pointed out.",
+   "start": 1297,
+   "end": 1379
+  },
+  {
+   "fact": "Meg 提议休战：都是为了 Georgia，并抛出「有件事你肯定擅长」。",
+   "anchor": "“Let’s call a truce. We both want this to work for Georgia, right?",
+   "start": 1478,
+   "end": 1544
+  },
+  {
+   "fact": "母亲的橱窗诊断：要多颜色多质感、邀请感与玩心——「这儿不是医院」。",
+   "anchor": "“It needs more colour and texture—something inviting and playful. This isn’t a hospital.”",
+   "start": 1857,
+   "end": 1946
+  },
+  {
+   "fact": "母亲贡献自制红玫瑰白流苏桌旗，还要再找几件；另带了三明治香蕉，果汁盒下次买。",
+   "anchor": "“I have a table runner with red roses and a white fringe that I made when I was trying to get back into quilting.",
+   "start": 2246,
+   "end": 2359
+  },
+  {
+   "fact": "母亲建议办 grand reopening——Georgia 说得对，这颗苹果就落在树底下。",
+   "anchor": "“Once things are spruced up, you should host a grand reopening to let customers know you’re here.”",
+   "start": 2989,
+   "end": 3087
+  }
+ ]
+}
