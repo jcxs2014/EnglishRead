@@ -1,0 +1,67 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch31",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch31_chapter_thirty_one.txt",
+ "facts": [
+  {
+   "fact": "他自骂蠢：多年没被抓，如今放了一个蠢姑娘进生活，她会把调查人员直接引到门口。",
+   "anchor": "one stupid girl into my life",
+   "start": 135,
+   "end": 163
+  },
+  {
+   "fact": "他为强调愚蠢踢到桌腿痛得眼冒金星，喊出来不是疼，是存在主义挫败；宇宙没回应，大概忙着笑。",
+   "anchor": "existential frustration",
+   "start": 398,
+   "end": 421
+  },
+  {
+   "fact": "他自辩几乎选不了受害者：遇见 Nicole 后她就占据优先；刚错失 Kevin 又放弃这次，会让他不满、焦躁。",
+   "anchor": "I hardly get to choose my victims",
+   "start": 912,
+   "end": 945
+  },
+  {
+   "fact": "他检查她的电脑：桌面是太空吃披萨的闪钻独角兽，文件夹名混乱——「Taxes?」「Definitely Not Porn」「Super Secret Stuff (Don't Open Travis)」，他差点把电脑扔出窗。",
+   "anchor": "Even her folder names are chaos incarnate",
+   "start": 2385,
+   "end": 2426
+  },
+  {
+   "fact": "她用原版 Chrome、无用插件、没 VPN；更糟的是 IP 挂在他是 Wi-Fi 上，收到告警的机构会查他的地址。",
+   "anchor": "vanilla Chrome with a few useless extensions and no VPN",
+   "start": 3142,
+   "end": 3197
+  },
+  {
+   "fact": "收尾方案是可推诿说辞：让她录视频讲当地性罪犯太多，装作想在此定居前做调查、结果多得让人不安。",
+   "anchor": "plausible deniability",
+   "start": 4713,
+   "end": 4734
+  },
+  {
+   "fact": "她录完视频垂头坐下，他胸口钝痛催他去抱她，他抗住；他说她泄了气是他造成的。",
+   "anchor": "A dull ache in my chest",
+   "start": 5820,
+   "end": 5843
+  },
+  {
+   "fact": "她做母亲配方的土豆汤，声音平淡、几乎不看他；他吃着觉得好，却看出她没胃口。",
+   "anchor": "Potato soup",
+   "start": 8827,
+   "end": 8838
+  },
+  {
+   "fact": "睡前他照例用束线带扣两人手腕，她失望但没说话、翻身背对他；他自嘲换自己至少要夜间整理服务加薄荷糖。",
+   "anchor": "I’d at least demand a turndown service",
+   "start": 11567,
+   "end": 11605
+  },
+  {
+   "fact": "他躺下就困得睁不开眼、舌头厚重，想起上次这样是 Sage 在他不知情时下药；他伸手想问，还没开口就睡过去。",
+   "anchor": "by Sage’s hand",
+   "start": 12193,
+   "end": 12207
+  }
+ ]
+}
