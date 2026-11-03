@@ -34,17 +34,7 @@ modified: "2026-11-03"
 
 **读者视角提示**：two cents for two cents 的等价交换原则贯穿她的职业人格——帮 Georgia 如此，帮 Nina 如此。
 
-> **原句 3:** "“No, hon. I’m a gay man who can sing and dance and happens to love high heels, but my niece is always looking for school clothes that are comfortable and let her feel like who she is.”"
-
-**中文理解**：「不是哦亲爱的——我是能唱能跳、恰好爱高跟鞋的 gay man。但我侄女一直在找舒服、又能让她做自己感觉的校服。」
-
-**关键词**：a gay man / love high heels / feel like who she is
-
-**为什么这样写**：身份与动机一句话讲完，把 drag 与 trans 的常识分界（表演≠性别）用最轻的方式补上；happens to love high heels 的 happens to 把热爱写成天性而非标签。侄女的校服难题是全书的「需要」句式新变体——每个进店的人都在找「让我做我自己」的东西，成人玩具店与跨性别精品店在这一点上是同一家店。
-
-**读者视角提示**：binders 与 shapers 只能网购的困境——社区缺失正是 Nina 想开店的原因，也与 Georgia 店的「不评判」哲学同源。
-
-> **原句 4:** "I just want a space where people feel comfortable trying things on and figuring out what works for them. It’s intimidating to go into a shop when you’re a baby trans."
+> **原句 3:** "I just want a space where people feel comfortable trying things on and figuring out what works for them. It’s intimidating to go into a shop when you’re a baby trans."
 
 **中文理解**：「我只想要一个让人安心试穿、慢慢弄清什么适合自己的地方。对刚入圈的 baby trans 来说，走进任何一家店都吓人。」
 
@@ -53,6 +43,16 @@ modified: "2026-11-03"
 **为什么这样写**：baby trans 的造语把身份成长的幼态期写成真的婴儿步——进店这个普通人眼里的日常动作，对他们是悬崖；trying things on 与 figuring out 的并列把购物还原成自我发现的仪式。这段愿景与 Meg 店的 opening philosophy（ch06 的 no judged place）互为镜像——两家店隔街相望，说的是同一种勇气。
 
 **读者视角提示**：记住这句愿景——它与 Afternoon Delight 的存在理由构成全书的「空间政治学」：谁的店让谁敢进门。
+
+> **原句 4:** "“No, hon. I’m a gay man who can sing and dance and happens to love high heels, but my niece is always looking for school clothes that are comfortable and let her feel like who she is.”"
+
+**中文理解**：「不是哦亲爱的——我是能唱能跳、恰好爱高跟鞋的 gay man。但我侄女一直在找舒服、又能让她做自己感觉的校服。」
+
+**关键词**：a gay man / love high heels / feel like who she is
+
+**为什么这样写**：身份与动机一句话讲完，把 drag 与 trans 的常识分界（表演≠性别）用最轻的方式补上；happens to love high heels 的 happens to 把热爱写成天性而非标签。侄女的校服难题是全书的「需要」句式新变体——每个进店的人都在找「让我做我自己」的东西，成人玩具店与跨性别精品店在这一点上是同一家店。
+
+**读者视角提示**：binders 与 shapers 只能网购的困境——社区缺失正是 Nina 想开店的原因，也与 Georgia 店的「不评判」哲学同源。
 
 > **原句 5:** "“Darlin’, I’m a whore for being on stage. I love it and will never give it up.”"
 
