@@ -39,7 +39,7 @@ modified: "2026-11-03"
 **读者视角提示**：这就是 ch04 里那个「没清醒过五分钟」的 Stella——新政权给她的第一份工作让她容光焕发，这句话后面她还会说得更直白。
 
 > **原句 5:** "It’s like when you go to the fair and get three swings at an old Buick for a quarter. Except way better. And you don’t have to pay."
-**中文理解**：Stella 喘着气笑问有没有人觉得这么好玩——「就像去游乐场花两毛五换三锤砸一辆旧别克。只不过爽多了。而且不用付钱。」
+**中文理解**：Stella 把打人比作嘉年华：就像去游乐场花两毛五换三锤砸一辆旧别克——只不过爽多了，而且不用付钱。
 **关键词**：an old Buick（一辆旧别克）/ three swings（三锤）/ you don’t have to pay（不用付钱）
 **为什么这样写**：嘉年华游乐项目的比喻把暴力合法化成消费——「不用付钱」泄露的是豁免权带来的眩晕；喜剧声轨垫在惨叫上面，恐怖感反而翻倍。
 **读者视角提示**：记住这句「好玩」——它是 Stella 的成瘾宣言；新政权最不可控的变量不是敌人，是自家人的快感。

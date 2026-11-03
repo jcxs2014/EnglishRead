@@ -1,0 +1,64 @@
+{
+ "chapter": "ch09",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 1120,
+   "end": 1226,
+   "fact": "被免职的 Father Clement 把全部家当（Six button-down shirts、fou",
+   "anchor": "left the keys to both the ho…"
+  },
+  {
+   "ok": true,
+   "start": 4645,
+   "end": 4697,
+   "fact": "The Boston Globe 跑 Church beat 的记者 Steve Heron（Cleme",
+   "anchor": "Are you, like so many of you…"
+  },
+  {
+   "ok": true,
+   "start": 6577,
+   "end": 6657,
+   "fact": "Steve 向 Clement 揭了 Father Michael O’Brien 的底：此人刚被派往",
+   "anchor": "He disappeared from St. Patr…"
+  },
+  {
+   "ok": true,
+   "start": 12865,
+   "end": 12932,
+   "fact": "这是 Chief Davies 迄今最糟的一周：Central Maine Morning Sentin",
+   "anchor": "I killed your partner. What …"
+  },
+  {
+   "ok": true,
+   "start": 15981,
+   "end": 16085,
+   "fact": "当晚 Babs 召集 ladies、Rheal 和 Sauciers 开会布置开卖 Aucoin 的货：",
+   "anchor": "Carmie and Stella at Grondin…"
+  },
+  {
+   "ok": true,
+   "start": 25087,
+   "end": 25173,
+   "fact": "Clement 失联，Babs 层层扑空：他缺席 Tuesday 的 bowling，当晚 Rita 去",
+   "anchor": "had never needed to talk to …"
+  },
+  {
+   "ok": true,
+   "start": 29155,
+   "end": 29220,
+   "fact": "同是 Sunday 下午，Bates 以找 Zippo 打火机为由让进 Davies 办公室，却被守候的",
+   "anchor": "placed three items on the de…"
+  },
+  {
+   "ok": true,
+   "start": 36697,
+   "end": 36791,
+   "fact": "次日一早 nine thirty，一名拒报姓名的女子把 Waterville 警长 Roy Davies",
+   "anchor": "one hundred grams of uncut c…"
+  }
+ ]
+}

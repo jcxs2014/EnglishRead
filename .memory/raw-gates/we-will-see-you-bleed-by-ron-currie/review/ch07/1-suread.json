@@ -1,0 +1,64 @@
+{
+ "chapter": "ch07",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 1481,
+   "end": 1542,
+   "fact": "Local 116特别会议上，Babs宣布罢工结束，并警告不得再攻击穿越纠察线的人——从此不再有罢工者和",
+   "anchor": "There were no more strikers …"
+  },
+  {
+   "ok": true,
+   "start": 4224,
+   "end": 4297,
+   "fact": "五名黑衣蒙面人破门闯入Charlie St. Pierre的公寓，分别携带大锤、两根棒球棒、一把手枪和一",
+   "anchor": "In rushed five figures dress…"
+  },
+  {
+   "ok": true,
+   "start": 5854,
+   "end": 5883,
+   "fact": "五名打手中个子最小的Stella挥棒不停抽打Charlie，直到Nightstick第二次喝止她才收手。",
+   "anchor": "Stella, I said that’s enough…"
+  },
+  {
+   "ok": true,
+   "start": 6748,
+   "end": 6790,
+   "fact": "Nightstick摘下面罩，真容是Babs本人；她向Charlie亮明身份并警告他永远别再回到这个社区",
+   "anchor": "she pulled the mask up to re…"
+  },
+  {
+   "ok": true,
+   "start": 7433,
+   "end": 7495,
+   "fact": "当晚Rheal、Claude和Saucier兄弟分头走遍全城，勒令Aucoin的其他毒品销售者滚出Wat",
+   "anchor": "Rheal, Claude, and the Sauci…"
+  },
+  {
+   "ok": true,
+   "start": 11566,
+   "end": 11645,
+   "fact": "深夜（eleven thirty at night），Babs和Carmeline登门Rick Roy在",
+   "anchor": "Babs wiped her baton clean o…"
+  },
+  {
+   "ok": true,
+   "start": 14553,
+   "end": 14643,
+   "fact": "被Cardinal Law怒斥并解职后的Clement Thibault夜里在波士顿Chinatown连",
+   "anchor": "he hadn’t had a Chinese meal…"
+  },
+  {
+   "ok": true,
+   "start": 20085,
+   "end": 20145,
+   "fact": "Clement吃得过撑后在Chinatown门下昏睡过去，黎明前醒来发现遭劫：口袋被翻空，鞋和手表都不见",
+   "anchor": "found his pockets turned out…"
+  }
+ ]
+}

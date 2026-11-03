@@ -1,0 +1,64 @@
+{
+ "chapter": "ch08",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 2912,
+   "end": 2966,
+   "fact": "罢工开始后的一个晴朗早晨，Rheal Dionne 头一次登门求示（此前他一直当 Phineus 是疯子",
+   "anchor": "Phineus’s first supplicant o…"
+  },
+  {
+   "ok": true,
+   "start": 8891,
+   "end": 8947,
+   "fact": "Phineus 为 Rheal 读示：好消息是他可以百分之百继续信任好友——Claude 那次是绝望之下",
+   "anchor": "you can absolutely, one hund…"
+  },
+  {
+   "ok": true,
+   "start": 18176,
+   "end": 18205,
+   "fact": "Claude 不接受 Sophie「就这么死」——她已明言不想再治疗（每周只剩一次透析，Claude 分",
+   "anchor": "I’m here to ask for a kidney…"
+  },
+  {
+   "ok": true,
+   "start": 20951,
+   "end": 21007,
+   "fact": "罢工结束后 Chief Davies 清晨到 Dionne 家门口，被 Babs 挡在门外并警告她收手—",
+   "anchor": "I took a drive down to his n…"
+  },
+  {
+   "ok": true,
+   "start": 30386,
+   "end": 30450,
+   "fact": "Davies 独自驱车到两年前去过的 Sutton 庄园当面对质（Point Vesuvius：nine",
+   "anchor": "I had already achieved my ai…"
+  },
+  {
+   "ok": true,
+   "start": 40635,
+   "end": 40681,
+   "fact": "联盟保龄球开幕夜——正当 Saucier 兄弟在 Davies 家替 Dionne 夫妇犯下数项重罪时，",
+   "anchor": "he managed a turkey in frame…"
+  },
+  {
+   "ok": true,
+   "start": 43984,
+   "end": 44090,
+   "fact": "赛后 Rheal 以陪 Claude 喝一杯为由留下、延长不在场证明（「只要我在这儿，我就不在 Davi",
+   "anchor": "We’re sitting on three or fo…"
+  },
+  {
+   "ok": true,
+   "start": 51842,
+   "end": 51890,
+   "fact": "深夜 Babs 开车到 scab Connie Fecteau 家：前院一圈烧焦的草清晰可见，几周前喷在",
+   "anchor": "believe me when I tell you: …"
+  }
+ ]
+}

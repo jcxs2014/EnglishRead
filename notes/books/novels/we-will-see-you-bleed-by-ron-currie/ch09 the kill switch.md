@@ -81,7 +81,7 @@ modified: "2026-11-03"
 **读者视角提示**：这一幕之后 Babs 周日杀到波特兰砸教区大门——她找 Clement 的急迫程度，原文说「连杀 Sacha 那天都不及」；原因她还没说出口。
 
 > **原句 12:** "Then Bates sighed, shoved his hands into his hip pockets, and placed three items on the desk: his wallet, a Zippo, and a penny."
-**中文理解**：Davies 命 Bates 掏空口袋——Bates 叹口气，把手插进裤兜，掏出三样东西摆上桌：钱包、一只 Zippo，和一枚一分硬币。
+**中文理解**：Bates 叹口气，把手插进裤兜，掏出三样东西摆上桌：钱包、一只 Zippo，和一枚一分硬币。
 **关键词**：three items（三样东西）/ a Zippo（一只 Zippo 打火机）/ a penny（一枚一分硬币）
 **为什么这样写**：整章的心理战在一张办公桌上摊牌——道具只有三件，杀伤力全在第三件；悬念的解法被拍成静物画。
 **读者视角提示**：便士游戏是 Saucier 兄弟的手笔（ch06 那句「正在 Davies 家作案」至此兑现一半）——「让你以为自己疯了」比枪更省钱。
