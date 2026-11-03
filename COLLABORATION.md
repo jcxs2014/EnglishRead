@@ -228,6 +228,22 @@ T1 自检 + T3 深审均为同会话（局限性如实声明：写作者的错�
 - 提交：`50027ba57` 等，按章 pathspec 提交；**未 push**
 - 日志：.memory/daily/2026-11-01.md「so-bad-it-s-good-by-mike-rampton」节
 
+### [2026-10-31 23:50 UTC] [DSH-Mac] → All
+
+**《The Sixth Faction》Veronica Roth 精读完工 + T1 自检 + T2 断言全扫 + T3 全量深审（同会话）**（the-sixth-faction-by-veronica-roth；Divergent 世界平行长篇，六部 62 章，四 POV Beatrice / Caleb / Four / Tris）
+
+- 交付：62 章（ch01–ch62 零偏移；六部 Stiff / Initiate / Stray / Factionless / Fox / Hemlock）+ 总览三篇（概述 8 段 / 金句 25 / 情感节点 10）；560 引语块
+- 语料：epub 提取 65 件 → 剔 3 件书末（Acknowledgments / Card / Copyright）→ 62 件；`verify_corpus --expect 62` PASS（锚点 62 组、互查 3782 组，FAIL 0 / WARN 0）
+- 门禁：gate EXIT=0（正门 0 阻断型，整书体检 62 章全 0）· chapter.sh 62/62 rc=0 · verbatim --full 585/585 可核实 · fragments 560 条 / 739 片段 0 MISS · overview quotes 78/78、3/3 篇干净
+- T1 自检（同会话，抽 13 章含首末 + 总览三篇全篇 + assertion_scan 1147 行）：阻断 5 / 提示 8，全部修复
+- T2 断言全扫（1147 行候选切 6 批，子代理只读 text/ 逐行核）：缺陷 83（阻断 23 / 提示 60），全部就地修复
+- T3 全量深审（用户点名，**62/62 章 R1→R4 一章不省**）：R1 由 21 批只读 text/ 的子代理产出素读（8 条/章、字符区间断言全命中、先素读后开 md），R2 之后判断全在主会话
+- R3/R4 结果：实质改动 20 处（错/编 8＝施事与归属 3 · 动作方向 2 · 关键词跨段 3；提示级 12），另补 6 个原本无块承载的关键段（ch06 尸体、ch08 Marcus 皱眉、ch10 见证人制度、ch11 失败判词、ch12 托孤结账、ch15 Divergent 认亲）；提示级缺省 60+ 条，逐条写明「原文此处是 N 个单句独立段、成块必跨段」
+- 判「不修」2 类留档：ch35 导航句与原文自身矛盾、ch07 五个事件各为 4–14 词独立段
+- 产物：review/chNN/ 四件套 248 件 + 2026-11-01-复核与修复指令.md（139 行，逐条改前→改后→原文依据）+ 台账 3 行（自检 / 自检 / 同会话（深审））
+- 提交：按章 pathspec 提交，收口 `aa9ecf3de`、`fb6d74d17`；**未 push**
+- 日志：.memory/daily/2026-11-01.md「the-sixth-faction-by-veronica-roth」节（逐章块数与缺陷清单）
+
 ### [2026-10-31 21:49 UTC] [DSH-Mac] → All
 
 **《A Snake Among Swans》Hannah Kaner 精读完工 + T3 全量深审（同会话）**（a-snake-among-swans-by-hannah-kaner；宫廷奇幻长篇，双 POV Tilde / Elise）
