@@ -1,0 +1,67 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch18",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch18_chapter_eighteen.txt",
+ "facts": [
+  {
+   "fact": "她明知该跑：收拾东西离开 Lake Lure 永不回来；但她知道 Travis 已承认杀三十八人，跑也没用。",
+   "anchor": "I know I should run",
+   "start": 37,
+   "end": 56
+  },
+  {
+   "fact": "她认定世上没有一处他找不到，跑毫无意义；而且没带够逃亡所需的漂亮衣服。",
+   "anchor": "nowhere on God’s green earth",
+   "start": 727,
+   "end": 755
+  },
+  {
+   "fact": "她承认也不确定还想不想逃——恐惧与依恋并列。",
+   "anchor": "Besides, I don’t know if I still want to get away",
+   "start": 974,
+   "end": 1023
+  },
+  {
+   "fact": "她明知「我能改变他」通常行不通，却认定这次有希望：他本来要杀她、后来决定不杀，「这就是进步」。",
+   "anchor": "I can fix him",
+   "start": 1571,
+   "end": 1584
+  },
+  {
+   "fact": "她一边跟 Eli 周旋，一边恶心自己：回「我快死了（笑）！！！一定发照片，也许去裸泳」。",
+   "anchor": "Maybe I’ll go skinny dipping",
+   "start": 2846,
+   "end": 2874
+  },
+  {
+   "fact": "她要他别冒险、说自己值得信任；他答只剩一小时四十三分钟空闲，若她泄密就「不得不重新考虑杀她」。",
+   "anchor": "I’ll be forced to reconsider killing you",
+   "start": 3861,
+   "end": 3901
+  },
+  {
+   "fact": "烘焙区她挑布朗尼粉，说「这从十年没吃过布朗尼的人嘴里说出来」；他纠正「二十八年」。",
+   "anchor": "Try twenty-eight",
+   "start": 5361,
+   "end": 5377
+  },
+  {
+   "fact": "她偷听他打电话：问租车行监控、说「他总得在哪里留过真实身份，这人不是鬼魂」，让人有动静通知他。",
+   "anchor": "The man’s not a ghost",
+   "start": 6488,
+   "end": 6509
+  },
+  {
+   "fact": "回车上他坦白雇了私家侦探；那人说有人在调查他，正在帮查是谁——声音里没有情绪。",
+   "anchor": "I have a private investigator on payroll",
+   "start": 8440,
+   "end": 8480
+  },
+  {
+   "fact": "她一路把后果往最坏想（被捕、死刑、被要挟当杀手），他笑说换别人都会觉得这是好事；她答「我和别人不一样」，他回「我开始怀疑你比我更危险」。",
+   "anchor": "I’m starting to wonder if you’re more dangerous than I am",
+   "start": 10521,
+   "end": 10578
+  }
+ ]
+}
