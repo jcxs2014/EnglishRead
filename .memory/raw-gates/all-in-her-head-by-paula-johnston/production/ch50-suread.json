@@ -1,0 +1,61 @@
+{
+ "book": "all-in-her-head-by-paula-johnston",
+ "chapter": "ch50",
+ "text": "notes/books/mystery-thriller/all-in-her-head-by-paula-johnston/text/ch50_blair.txt",
+ "facts": [
+  {
+   "fact": "Blair 撞见：本该在浴室的 Louise 站在 Cassie 房里——右手握着那本日记。",
+   "anchor": "And as she studies the article from earlier, I notice something in her right hand.",
+   "start": 914,
+   "end": 996
+  },
+  {
+   "fact": "她平静认领：「看来你们找到了我的日记。」",
+   "anchor": "‘I see you found my journal,’ Louise says, her voice calm and collected.",
+   "start": 1361,
+   "end": 1433
+  },
+  {
+   "fact": "她点破：厨房那场「警匪剧式审讯」很聪明——但你还没拼完。",
+   "anchor": "Blair, you seem smart. I could tell by your police procedural interrogation in the kitchen.",
+   "start": 1610,
+   "end": 1701
+  },
+  {
+   "fact": "版本修正：跑是真的、崩溃是真的——只是省略了原因。",
+   "anchor": "‘I did run. I did have a breakdown…but I just left out why.",
+   "start": 2489,
+   "end": 2548
+  },
+  {
+   "fact": "炸弹三：I knew him too——过去式！她知道 George 已经死了。",
+   "anchor": "‘Yes, unfortunately I knew him too.’",
+   "start": 2826,
+   "end": 2862
+  },
+  {
+   "fact": "她回来的目的：不是重逢——是要 Cassie 亲口说出 George 到底怎么了。",
+   "anchor": "‘What really happened to George.’",
+   "start": 3487,
+   "end": 3520
+  },
+  {
+   "fact": "Blair 的惊觉回放：石英、猫、尸体、地毯——明明那么小心、那么黑。",
+   "anchor": "The rose quartz. The cat. The body. The carpet.",
+   "start": 4063,
+   "end": 4110
+  },
+  {
+   "fact": "Blair 顶罪：人是我杀的——最后一次问你：你想要什么？",
+   "anchor": "‘It was me. I killed him. So, I’ll ask you for the last time – what do you want?’",
+   "start": 5238,
+   "end": 5319
+  },
+  {
+   "fact": "章尾：壶再烧上——「我们从头讲起吧」。",
+   "anchor": "I think we should start from the beginning.",
+   "start": 5523,
+   "end": 5566
+  }
+ ]
+}
