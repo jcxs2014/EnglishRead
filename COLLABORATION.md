@@ -176,6 +176,27 @@ T1 自检 + T3 深审均为同会话（局限性如实声明：写作者的错�
 - 主要成因：**漏块**（章节起点/收束/转折这类短拍只在导航或一句话总结里出现，逐块引语无覆盖）；其余为术语漂移（费拉赛 / 摄政 / 月食 / 帕苏阿号 / 阿米兰特 …）
 - 产物：`2026-11-01-复核与修复指令.md`（61 节，逐条「改前 → 改后 + 取证行号」）· `T3-汇总.md`；T3 期间提交 33 次，按章 pathspec，未 push
 
+### [2026-11-01 10:16 UTC] [DSH-Mac] → All
+
+**《The Splintered Sun》Tad Williams（novels）全书完工 + T1 自检**（the-splintered-sun-by-tad-williams）（2026-11-01 当日开写并完工；正文 ch01–ch56 共 56 章 + 总览三篇 = 59 md）
+
+- **门禁终态**：gate.sh **EXIT=0**（56 章 611 引语块 · 0 阻断型）· 逐章 chapter.sh 56/56 rc=0、⚠️ 0 · structure.py order 0 缺陷（ch06/09/10/13 段内 `…` 不可判定，已手工验块序递增）· check_vocab FAIL 0 / WARN 0 · overview quotes 60/60（概述 12 / 金句 29 / 情感节点 19）
+- **语料**：epub 提取 58 页重排为 ch01–ch56（卷首广告删、Author's Note 归 xx_）；verify_corpus PASS（--expect 56，FAIL 0 / WARN 0）；56 章素读清单锚点全命中
+- **总览三篇**：概述（六部梗概 + 3 主题 + 4 人物弧光）· 金句精选 29 句（①–㉙）· 情感节点 9 节点
+- **T1 自检（完工前）**：抽 12/56 章（ch01/06/11/16/21/26/31/36/41/46/51/56，首末必含）查 0 阻断；总览三篇全篇人判；assertion_scan 1116 行预筛（②③⑥ 全量 + ④⑤ 各 20 行）；查出 4 条总览事实错（客栈在首都非边境、Garnerhouse 同城、「你欠我」受话人、ch40 说话人 Bellicent→Hagan）已就地修并复验
+- **产物**：56 章 md + 3 篇总览 · 素读 facts/suread ×56 · review/t1-verdict.md + t1-candidates.txt · 台账 `自检` 行
+- **状态**：22 次 pathspec commit，**未 push**（等指令）；T1 为同会话自检，不构成异会话验收
+- **日志**：`.memory/daily/2026-11-01.md`（完工 + T1 当日；本次补记）
+
+**T3 全量深审结论（the-splintered-sun-by-tad-williams，2026-11-01 完成；用户指定按「异会话」口径补记）**
+
+- **覆盖**：56/56 章走 R1→R4（R1 由只读 text/ 的子代理分批产出 446 条素读事实，锚点全唯一 + 同段），逐章 `review/chNN/{1-suread.json,2-machine.json,3-diff.md,4-verdict.md}` 四件齐、**未审 0 章**
+- **机器层**：gate.sh EXIT=0（0 阻断型）· quotes.py verbatim **688/688** · verify_fragments_indep 651 引语 / 891 片段 **MISS 0** · overview quotes 60/60 · chapter.sh 56/56 rc=0
+- **查出**：阻断 **6**（ch01 三处：两句→三个词 / 「留在火里」/「唯一的数」· ch03 四个→三个「• • •」· ch31 六个词→八个词 · ch46 半里→半里格）· 提示 6（ch04 半张床铺 · ch27/ch30 词汇例句失真 2 · ch30 判读 1 · 贴 30 词下沿 2 · 4 章 `…` 不可判定已手验）· 假红 0
+- **修复**：6 阻断全部当场改稿，改稿 7 章 chapter.sh 复跑 rc=0，批末 gate.sh 仍 EXIT=0
+- **产物**：review/chNN 四件 ×56 · `2026-11-01-复核与修复指令.md` · 台账追加 `深 / 异会话` 行
+- **状态**：commit `357d1eee6`，**未 push**
+
 ### [2026-11-01 02:21 UTC] [ZCode-Mac] → All
 
 **《The Secret Thread》Eve Chase 完工**（the-secret-thread-by-eve-chase，mystery-thriller，52 章三 POV：Mimi/Jo/Pamela）
