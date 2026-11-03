@@ -54,7 +54,7 @@ modified: "2026-11-03"
 
 **读者视角提示**：「首位女性」三字轻轻放下——这与 ch28「学院是她的」形成历史闭环：男人们改名、驱逐、想抹平，而女性一代代把这岗哨接住。
 
-> **原句 5:** ""I was forced to let her go, and that's all I can say." But I read the truth in his tone. I'd forced him to let her go. She'd betrayed him, gave me the proof I needed of his lies. And a woman who had served two presidents with grace was cast into the cold."
+> **原句 5:** ""I was forced to let her go, and that's all I can say." But I read the truth in his tone. I'd forced him to let her go. She'd betrayed him, given me the proof I needed of his lies. And a woman who had served two presidents with grace was cast into the cold."
 
 **中文理解**：「我是被迫解雇她的，我能说的就这些。」但她从他声调里读出了真相：是我迫他解雇她。她背叛了他，把他谎言的证据交给了我。而一位侍奉过两任校长、举止优雅的女人，被抛进了寒冬。
 
