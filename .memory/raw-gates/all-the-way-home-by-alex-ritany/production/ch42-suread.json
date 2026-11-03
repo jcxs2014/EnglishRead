@@ -1,0 +1,55 @@
+{
+ "book": "all-the-way-home-by-alex-ritany",
+ "chapter": "ch42",
+ "text": "notes/books/novels/all-the-way-home-by-alex-ritany/text/ch42_chapter_forty_two.txt",
+ "facts": [
+  {
+   "fact": "1. A14 短信协议：Nunya/Egregiously/For?→I just need you→Code Orange→A14（登机口代码）→I'm on my way——他第一次 need her；hard to breathe。",
+   "anchor": "I just need you",
+   "start": 222,
+   "end": 237
+  },
+  {
+   "fact": "2. 终生需要史：幼时唯一能安抚她的人/小学交友/junior high 女生的残忍——她 needed him and needed him，他从没需要过她——直到今晚这场危机。",
+   "anchor": "he has never, not once, needed her back",
+   "start": 758,
+   "end": 797
+  },
+  {
+   "fact": "3. 分手决定与记忆账：不能在机场谈（延误+四小时航班+holidays+Lucas 会被摧毁）；岁月的骨压——lilac dress 慢舞、草地枕膝、palm shapes、胃石化的拥抱、weeks of yes；If you loved me it wouldn't be a question 回响。",
+   "anchor": "heavy fingerprints in bone marrow",
+   "start": 1439,
+   "end": 1472
+  },
+  {
+   "fact": "4. Kieran 归来：礼貌级别地凌乱；seduce a stranger in ten hours 唯一人；Not a stranger.（Zach 已非陌生人）；他说 He's… 说不下去——Rena 不需要他说完。",
+   "anchor": "As politely disheveled as it’s possible to be",
+   "start": 2649,
+   "end": 2694
+  },
+  {
+   "fact": "5. 正题：她说这不是 stranger 议题是 existential crisis；Fill me in；I don't want to marry Lucas.（他没求婚）；I think it's over——Kieran 不惊讶。",
+   "anchor": "Code Orange",
+   "start": 246,
+   "end": 257
+  },
+  {
+   "fact": "6. 兄妹再战：I didn't think you guys were going to be forever, no offense——为什么从没告诉我？Would it have mattered? It's not like my opinion counts；Her Majesty 讽刺（lofty and obnoxiously superior）。",
+   "anchor": "no offense",
+   "start": 6585,
+   "end": 6595
+  },
+  {
+   "fact": "7. heartweep：她一年来到处见过的样子——肩内扣、目光空洞的斜度、病态紧绷的 heartweep。",
+   "anchor": "that sick, strained heartweep",
+   "start": 7817,
+   "end": 7846
+  },
+  {
+   "fact": "8. 结尾反转：Kieran 不同意「不想再吵」——让 Rena 看见他从没说过的痛苦（every inch of the agony）——我认为我们应该吵。",
+   "anchor": "“I think we should fight.”",
+   "start": 8114,
+   "end": 8140
+  }
+ ]
+}
