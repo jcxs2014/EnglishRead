@@ -1,0 +1,43 @@
+{
+ "book": "your-beloved-remains-by-quinn-connor",
+ "chapter": "ch07",
+ "text": "notes/books/novels/your-beloved-remains-by-quinn-connor/text/ch07_chapter_vii.txt",
+ "facts": [
+  {
+   "fact": "「它在哪里？」——Celia 高跟敲响档案馆地下修复室的漆白石材地板，被这一个燃烧的问题驱赶着奔跑",
+   "anchor": "driven by that single, burning question in my blood",
+   "start": 138,
+   "end": 189
+  },
+  {
+   "fact": "她冲过密封无酸盒（你的礼服软储藏、Clara 原稿速写、不能见光的首版书都没动），跪到保险柜前——里面有地契原件、你的财务文件、身份证件、还有你的遗嘱",
+   "anchor": "I dropped to my knees by the safe",
+   "start": 505,
+   "end": 538
+  },
+  {
+   "fact": "遗嘱在她照管之下、密码是你爱人的生日（她自己选的）；Danvers 不可能拿——也不可能",
+   "anchor": "your lover’s birthday, my own choice",
+   "start": 881,
+   "end": 917
+  },
+  {
+   "fact": "她结巴着输码拽开柜门：无酸文件夹像人造秋天撒满膝盖——她每次开柜都按日期主题归档齐整，如今全乱了序",
+   "anchor": "Acid-free folders scattered like an artificial autumn over my lap",
+   "start": 1043,
+   "end": 1108
+  },
+  {
+   "fact": "有人进了「你的家、我的心」翻箱倒柜；恐慌的呜咽变呻吟变尖叫——你的遗嘱不在这里，原因只有一个",
+   "anchor": "Someone had come into your home, my heart, and rifled through",
+   "start": 1330,
+   "end": 1391
+  },
+  {
+   "fact": "点题：学院不安全，你不安全",
+   "anchor": "The college wasn’t safe. You weren’t safe",
+   "start": 1513,
+   "end": 1554
+  }
+ ]
+}
