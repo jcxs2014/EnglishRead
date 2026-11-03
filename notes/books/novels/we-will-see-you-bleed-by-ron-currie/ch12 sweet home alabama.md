@@ -23,7 +23,7 @@ modified: "2026-11-03"
 > **原句 2:** "You signed off on whatever I choose to do. A bit of advice, Daryl: you’d better get used to the fact that our relationship is now one of mutually assured destruction. I can put you away and you can put me away and that’s how it is and will remain."
 **中文理解**：电话里 Babs 给新任代局长上课：你签核我所做的一切。给你个忠告，Daryl——最好习惯这一点：我们的关系现在是相互确保毁灭。我能送你进去，你也能送我进去，现状如此，并将永远如此。
 **关键词**：signed off（签核）/ mutually assured destruction（相互确保毁灭）/ put you away（送你进去）
-**为什么这样写**：核战略术语第二次降落到厨房与警局之间——同盟的稳定性不再靠义气，靠人质互持；「签核」一词把 Bates 前一章的每个默许都折算成连带责任。
+**为什么这样写**：核战略术语第二次降落到厨房与警局之间——同盟的稳定性不再靠义气，靠人质互持；「签核」一词把 Bates 此前的每一次默许都折算成连带责任。
 **读者视角提示**：这是 Babs 对官僚的语言学驯化——以后她每做一件出格事，Bates 都得先想想自己的牢房。
 
 > **原句 3:** "As it started to sink in that he was actually being kidnapped, that they were taking him away to do God knew what somewhere nobody could see or hear, Stewart went into an immediate animal panic, a state of mind and body he’d never experienced, never even knew was possible. This was a complete loss of not merely control, but of one’s very self. He was no longer Stewart Qualley, he was simply Fear."
@@ -35,7 +35,7 @@ modified: "2026-11-03"
 > **原句 4:** "He looked at the man who held him in the armlock and saw now that he had Ronald Reagan’s face, which at first of course made no sense; how could Ronnie Ray-gun be here getting ready to beat the shit out of him? Then Stewart looked to the other man and saw he had Ronald Reagan’s face, too, and then it registered, just as the men spun him around and shoved him face-first onto the pavement, that of course they were wearing masks, and freakily realistic ones at that."
 **中文理解**：锁着他手臂的人抬头——那张脸竟是罗纳德·里根；起初完全说不通，里根总统怎么会在这儿准备揍他？再看另一个，也是里根的脸——直到被反剪按在人行道上他才反应过来：当然是面具，而且逼真得瘆人。
 **关键词**：Ronald Reagan’s face（里根的脸）/ freakily realistic（逼真得瘆人）/ masks（面具）
-**为什么这样写**：总统脸成为刑具包装——上一章里根的「裁掉他们」还在酒会上飘着，这一章他的脸已经俯身在受害者上方；笑点与政治指控共用同一张面具。
+**为什么这样写**：总统脸成为刑具包装——里根的「裁掉他们」还在酒会上飘着，这一章他的脸已经俯身在受害者上方；笑点与政治指控共用同一张面具。
 **读者视角提示**：对照 Sutton 转述的里根段子——权力的话音未落，权力已经成为恐吓的形象；作者让「里根经济学」长出了实体。
 
 > **原句 5:** "I wish I could tell you it’ll be okay,” the man who’d shoved him into the car said. “But de truth is, it won’t."

@@ -78,7 +78,7 @@ modified: "2026-11-03"
 **中文理解**：Babs 的投降书四个 okay 连发：好——谢谢批准我发言；好——我接受被看护；好——我看护人是 Claude；好——我爱你。
 **关键词**：permission to speak（批准发言）/ being babysat（被看护）/ okay I love you（好，我爱你）
 **为什么这样写**：四个 okay 像楼梯一样把让步踩到表白——讽刺的台阶尽头突然空降真心；「expressionless as a doughnut」的面瘫脸与这句排队式告白互为反差萌。
-**读者视角提示**：这是 Babs 全书最接近撒娇的一次——请珍惜；下一章她就闯红灯跑了。
+**读者视角提示**：这是 Babs 全书最接近撒娇的一次——请珍惜；当晚她就闯红灯跑了。
 
 > **原句 11:** "Those assembled at the Vatican had, in their wisdom, declined to address this paradox."
 **中文理解**：而梵蒂冈那场闭门会上，与会的贤达们——以其智慧——拒绝处理这个悖论。

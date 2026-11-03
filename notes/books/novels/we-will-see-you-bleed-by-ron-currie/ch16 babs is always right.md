@@ -30,7 +30,7 @@ modified: "2026-11-03"
 **中文理解**：电话末尾 Claude 说：别担心，Soph。然后挂断。那是他们此生最后一次通话。
 **关键词**：Don’t worry, Soph（别担心，Soph）/ hung up（挂断）/ the last time they would speak（最后一次通话）
 **为什么这样写**：安慰语与终局判词挤在同一口气里——「别担心」在预叙的照亮下变成最残忍的谎言；叙述者只补一句，不敲锣，死亡以挂断音收尾。
-**读者视角提示**：这通电话从现在起是倒计时器——Claude 对妻子说的每个字都已录进遗言；下一章的每一步都是他余生的倒数。
+**读者视角提示**：这通电话从现在起是倒计时器——Claude 对妻子说的每个字都已录进遗言；本章随后的每一步都是他余生的倒数。
 
 > **原句 4:** "Because we’re going to find out where Babs is, Claude, and if it turns out to have something to do with Harold Aucoin, I’m going to assume that’s where the money came from."
 **中文理解**：Rheal 摊牌：我们要找到 Babs 在哪，Claude；如果这事跟 Harold Aucoin 有关，我就认定钱是从那儿来的。

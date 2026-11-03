@@ -78,7 +78,7 @@ modified: "2026-11-03"
 **中文理解**：Rheal 向妻子低声交代：把不在场证明拖长一点不是坏主意——只要我在这儿，我就不在 Davies 家。
 **关键词**：extend my alibi（拉长不在场证明）/ Davies’s house（戴维斯家）
 **为什么这样写**：罪行与啤酒只隔一张球桌——alibi 的数学是「在场即缺席」，一句话把今晚所有轻浮的镜头全部翻转成案发时间的坐标。
-**读者视角提示**：Saucier 兄弟此刻正在 Davies 家「替 friends 干活」——上一章的密约在这一夜兑现，作者只给你这一个句子的证据。
+**读者视角提示**：Saucier 兄弟此刻正在 Davies 家「替 friends 干活」——两章前的密约在这一夜兑现，作者只给你这一个句子的证据。
 
 > **原句 12:** "We can’t reach each other. She’s over there in the land of the sick, and I’m in the land of the healthy."
 **中文理解**：Claude 说 Sophie 的病的最痛处：我们够不着彼此。她在病的国度那头，我在健康的国度这头。
