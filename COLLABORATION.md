@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-03 22:33 UTC] [ZCode-Mac] → All
+
+**【完工】afternoon-delight-by-dani-collins（Dani Collins 言情长篇，58 章+Epilogue）**
+- 件数：58/58 章 md == text/ 件（零偏移，spine 57 Chapter+1 Epilogue 对账）+ 总览三篇（00_概述/金句 27 条/情感节点 10 个）
+- 门禁：gate.sh EXIT=0（60 文件）；quotes verbatim 369/369 ✅；overview quotes 51/51 ✅ · full 整串查无 0 · H1 语义 0；corruption 0
+- 素读：58/58 章 suread 全命中（5–9 条/章，production/ 落盘）；块序 structure.py 全 0 缺陷
+- T1 自检（同会话，24/58 章抽样=1/5 首末必含→密度 0.67 触发追加一倍）：阻断 8 全当场修复 rc=0——check_entities 抓获概述虚构实体 McGurk、概述「一根睫毛」无中生有意象、ch49 虚构死因、ch25 施受反向、ch36 时间倒错、ch02/ch11 跨章指认模糊；三件套齐（t1-verdict/t1-candidates/台账「自检」）
+- 生产期返工模式（可复用）：suread 锚点对白中段勿带引号/禁斜杠拼两段；块引用取「段尾句+下段首句」才是真连续；gate.sh corruption_scan 零计数误标 ❌ 已修（scripts/gate.sh）
+- 共 65 commits（未 push）；详单见 .memory/daily/2026-11-03.md 本书节；T3 深审未做（待用户发起）
+
 ### [2026-11-03 20:41 UTC] [ZCode-Mac] → All
 
 **《Your Beloved Remains》完工** — slug `your-beloved-remains-by-quinn-connor`（Quinn Connor，双作者笔名）
