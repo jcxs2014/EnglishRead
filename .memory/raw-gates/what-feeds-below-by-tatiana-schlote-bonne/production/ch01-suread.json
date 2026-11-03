@@ -1,0 +1,85 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch01",
+ "text": "notes/books/novels/what-feeds-below-by-tatiana-schlote-bonne/text/ch01_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "章首：Petra 与 Jade 在第一层边缘看一具男尸——嘴唇被撕掉、右手血肉模糊，Petra 判断第二层或更深的任何掠食者都能造成这种伤口。",
+   "anchor": "The man’s lips have been ripped from his face, his teeth bared in a terrible grin. Blood oozes from the mangled flesh where his right hand should be. I wince. Which creature could it have been? The stringy bits of tissue make it hard to identify specific teeth marks. Any predator in the Second Layer or deeper could’ve done that, really.",
+   "start": 658,
+   "end": 996
+  },
+  {
+   "fact": "medic 说死者一分钟前没了脉搏，是独自进 Void 的，只走到第二层一半就死了。",
+   "anchor": "The other medic shakes his head. “We lost his pulse a minute ago. Looks like the poor bastard went in by himself. Barely made it halfway through the Second Layer.",
+   "start": 1548,
+   "end": 1710
+  },
+  {
+   "fact": "「我一定把你带回顶上」是 Petra 与 Jade 自五年前第一次共同下潜起的说法；两人是最好的朋友、形同姐妹、终身潜水搭档。",
+   "anchor": "I nod. “I’ll always get you back to the top.” It’s been our saying since our first Void dive together five years ago. We’re best friends, practically sisters, and dive partners⁠—for life.",
+   "start": 2311,
+   "end": 2498
+  },
+  {
+   "fact": "Petra 靠手表认出死者是 Gunther：昨晚在 Blackout Sea Bites & Brews 吹嘘爬过世界最高的三万英尺山，并骂本城向导是「肮脏的骗子」。",
+   "anchor": "I’m hit with the realization that I knew this man. His name was Gunther⁠—I remember it because I thought it sounded funny. Last night in Blackout Sea Bites & Brews, Gunther drank at a table near mine and Jade’s, the watch glinting on his wrist as he gesticulated and boasted about how he once climbed the world’s tallest thirty-thousand-foot mountain, and if he could do that, then he could make it to the Void’s deepest layers, and he could do it without wasting money on this city’s “filthy scammers.”",
+   "start": 3097,
+   "end": 3600
+  },
+  {
+   "fact": "Jade 跪在尸体旁口中道谢，手却贴着身体低位一扫再收回口袋，然后拿手帕捂住鼻子——偷走了手表。",
+   "anchor": "“Thank you for offering your life to the Void,” Jade mutters. Her hand swipes low by the body, then back to her pocket. She brings a handkerchief to her nose.",
+   "start": 4258,
+   "end": 4416
+  },
+  {
+   "fact": "到了柳树荫下，Jade 掏出那只沾血的手表在草地上擦净：皮带镶银，翻过来有刻字。",
+   "anchor": "Under the shade of a willow tree, Jade pulls the bloody watch from her pocket, wiping it clean on the grass. The watch is leather bound, the clock part of it a polished, shiny silver. She flips it over. “There’s an engraving.”",
+   "start": 4697,
+   "end": 4923
+  },
+  {
+   "fact": "Petra 的目标是明年在孤儿院旁建一间带温室的诊所，种齐药用植物，好救治买不起医院的孩子——正如她当年没能救下死于本城 Void 鹦鹉流感的弟弟 Mica。",
+   "anchor": "This time next year, I’m going to have a clinic with a greenhouse attached to the orphanage. The greenhouse is going to grow turmeric, ginseng, milk thistle⁠—every medicinal plant that I can get my hands on⁠—and with the clinic, I’ll be able to help people. I’ll be able to treat kids in the way I wish I’d been able to help my little brother, Mica, when Void parrot flu plagued this city.",
+   "start": 9357,
+   "end": 9746
+  },
+  {
+   "fact": "时间压力：Jade 下月满十八，Ms. Opal 只在她满十八后仍允许其住孤儿院；Petra 自己还有六个月成年，二人打算靠一二层（也许第一次三层）的活儿在生日前攒够开诊的钱。",
+   "anchor": "I still have another six months until I turn eighteen, and if we consistently take First and Second Layer gigs and maybe even our first Third Layer one, we can hopefully have enough nox to start the business before my birthday.",
+   "start": 10519,
+   "end": 10746
+  },
+  {
+   "fact": "公告板上的手写委托：寻找愿意带他去第三层采 pink glowjem 的向导，出价 150 nox，「本报价不还价」，署名 Henry Pembroke Winchester IV。",
+   "anchor": "In search of a guide willing to take me to the Third Layer to collect a pink glowjem! Offering 150 nox. This offer is non-negotiable! -Henry Pembroke Winchester IV”",
+   "start": 16742,
+   "end": 16906
+  },
+  {
+   "fact": "排行榜上两人这一栏是一整排 43 个绿勾，别的潜水员连第一层都有红叉和黑标——即让客人在第一层丢肢体。",
+   "anchor": "But what we do have is a perfect row of forty-three green check marks, while other divers have red crosses and black marks next to their names, even on First Layer dives⁠—really, how negligent do you have to be to let your client lose a limb in the First Layer?",
+   "start": 20610,
+   "end": 20871
+  },
+  {
+   "fact": "Petra 在 Flint 指认新刀时瞥见他追踪器上的数字：第五层十小时——当场震惊。",
+   "anchor": "He stretches his arm in front of me to point at a blade hanging on the wall, and I catch the numbers on his tracker. My eyes widen. Ten hours in the Fifth Layer. Damn.",
+   "start": 30666,
+   "end": 30833
+  },
+  {
+   "fact": "Flint 承认自己有点紧张，因为他正计划不久去一趟第六层。",
+   "anchor": "“I guess I’m just a little nervous because I’m planning a trip to the Sixth soon.”",
+   "start": 31525,
+   "end": 31607
+  },
+  {
+   "fact": "Bramidian 队伍从 Obscuris 带回可与神经连接的义肢，令医疗技术飞跃、断腿者能重新走路。",
+   "anchor": "When the Void was initially explored, the Bramidian team that made it all the way to Obscuris brought back prosthetic limbs that could connect to the nerves of the wearer and function like a real arm or leg. That discovery skyrocketed medical technology. People who’d lost their legs could walk again.",
+   "start": 22822,
+   "end": 23123
+  }
+ ]
+}
