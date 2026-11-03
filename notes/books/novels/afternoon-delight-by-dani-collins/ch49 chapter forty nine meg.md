@@ -38,7 +38,7 @@ modified: "2026-11-03"
 
 **中文理解**：「不过 Barbara 说你可能有兴趣买下这套房？」
 
-**关键词**：interested in buying this unit / no rush to take them
+**关键词**：interested in buying this unit / might be interested
 
 **为什么这样写**：卖家的出价条款写得极轻——market value 即可、只求免 showings 折腾；孙辈出生倒计时（住到夏天）给交易一个 humane 的时间表。氧气瓶与 pastry chef 的简历在带看路上自然流露：这里的老人不是布景，是各有前史的房主。isabella 的每一句都在替「老年生活」祛魅：它是具体的、可安排的。
 

@@ -48,7 +48,7 @@ modified: "2026-11-03"
 
 **中文理解**：近几年性对她成了可有可无的事——已经很久没多大兴趣了。
 
-**关键词**：touch-and-go thing / not all that interested
+**关键词**：touch-and-go thing / all that interested
 
 **为什么这样写**：欲望的病历自陈以归因开始：压力、死水婚姻、围绝经期——三个被告；而 want again 的复活宣判它们统统无罪释放（罪魁是婚姻质量）。enjoy the process, not just get 'er done 的对照是她身体观的更新：性从任务清单回到游乐场。这段自我诊断让本章的身体戏有了临床背景板。
 
