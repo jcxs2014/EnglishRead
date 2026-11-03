@@ -1,0 +1,64 @@
+{
+ "chapter": "ch19",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 122,
+   "end": 204,
+   "fact": "开头：Clement神父在Babs讲明一切（Rheal在当前心态下可能真会兑现炸掉Mill的威胁）后，开",
+   "anchor": "he did near a hundred miles …"
+  },
+  {
+   "ok": true,
+   "start": 1320,
+   "end": 1397,
+   "fact": "Mill厂区四周由Half a dozen（6辆）警车把守四角，警灯把夜照成电蓝色；两名制服警察拦住下车",
+   "anchor": "Half a dozen police cruisers…"
+  },
+  {
+   "ok": true,
+   "start": 2210,
+   "end": 2255,
+   "fact": "Bates警长对Clement说Rheal不接电话、\"He's not talking\"（不跟任何人谈）",
+   "anchor": "Do you know what he did to m…"
+  },
+  {
+   "ok": true,
+   "start": 2542,
+   "end": 2636,
+   "fact": "Ten minutes later（十分钟后）大门打开，Clement由Normand护送到roller",
+   "anchor": "the gate opened and Clement …"
+  },
+  {
+   "ok": true,
+   "start": 3014,
+   "end": 3075,
+   "fact": "Normand对Clement说Rheal已经\"gone around de bend\"（疯了）——因为",
+   "anchor": "I could drive dat truck out …"
+  },
+  {
+   "ok": true,
+   "start": 4505,
+   "end": 4556,
+   "fact": "Rheal已摘下自己的面具，瘫坐在控制面板旁的椅子里，面板旁的电话听筒全被摘下侧放；他告诉Clement",
+   "anchor": "you can’t really understand …"
+  },
+  {
+   "ok": true,
+   "start": 6187,
+   "end": 6248,
+   "fact": "Clement以\"上帝不只杀人，也创造生命\"反将Rheal，并当面挑明：Babs怀孕了——无论今晚Rhe",
+   "anchor": "Babs is pregnant. And regard…"
+  },
+  {
+   "ok": true,
+   "start": 7284,
+   "end": 7315,
+   "fact": "结尾：Rheal的脸塌陷成一种超越眼泪的悲恸，问\"A baby?\"；long pause之后终于说\"Th",
+   "anchor": "Thank God,” Rheal said final…"
+  }
+ ]
+}

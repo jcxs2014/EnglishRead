@@ -1,0 +1,64 @@
+{
+ "chapter": "ch21",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 456,
+   "end": 544,
+   "fact": "「你」是 Rheal 与 Babs Dionne 夫妇的长子兼独子，出生名为 Jean-Louis Le",
+   "anchor": "the firstborn and only son o…"
+  },
+  {
+   "ok": true,
+   "start": 1120,
+   "end": 1222,
+   "fact": "十七岁双塔倒塌时「你」驰往镇上的征兵站，数年内成为 Ramadi 坦克车组成员，只以 Jack 之名行世",
+   "anchor": "within a few years you’ll be…"
+  },
+  {
+   "ok": true,
+   "start": 1790,
+   "end": 1826,
+   "fact": "曾祖父 Leonard 1918 年越过边境后坚持只说英语、只吃美式食物（汉堡、意面、炸鸡、芝士通心粉）",
+   "anchor": "once he’d crossed the border…"
+  },
+  {
+   "ok": true,
+   "start": 2543,
+   "end": 2640,
+   "fact": "如同其教名来源的舅舅 Jean，「你」将死于远离家乡之地，遗体覆旗棺运回国，由母亲在停机坪迎接。",
+   "anchor": "like Uncle Jean you will fly…"
+  },
+  {
+   "ok": true,
+   "start": 3799,
+   "end": 3846,
+   "fact": "母亲终将做到无条件原谅，父亲则永远无法原谅母亲或自己，酒越喝越多并染上断续的海洛因瘾；两人默契为：他可与",
+   "anchor": "until the day your father di…"
+  },
+  {
+   "ok": true,
+   "start": 4441,
+   "end": 4504,
+   "fact": "Daryl Bates 明知却无法证明「你」父亲与 Claude 之死有关，出于自保与利害捆绑放任此事不",
+   "anchor": "he will let Claude’s ghost w…"
+  },
+  {
+   "ok": true,
+   "start": 4819,
+   "end": 4909,
+   "fact": "父亲对 Harold Aucoin 不施宽恕只留耐心：四年相安无事后的 1988 年 10 月 Devi",
+   "anchor": "on Devil’s Night in October …"
+  },
+  {
+   "ok": true,
+   "start": 6118,
+   "end": 6173,
+   "fact": "「你」将有两个妹妹；妹妹 Lori 继承母亲的坚韧，送走众人后独自逃离此地、咒骂自己无法死去，后生下侄女",
+   "anchor": "Evangeline the Queen will co…"
+  }
+ ]
+}

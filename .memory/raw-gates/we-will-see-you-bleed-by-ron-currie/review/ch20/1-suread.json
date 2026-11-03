@@ -1,0 +1,64 @@
+{
+ "chapter": "ch20",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 19,
+   "end": 67,
+   "fact": "数月后 Babs 登门探访 Sophie：孩子们都在上学，Sophie 独自坐在厨房餐桌前，面前只有一杯",
+   "anchor": "Several months later, when B…"
+  },
+  {
+   "ok": true,
+   "start": 1194,
+   "end": 1220,
+   "fact": "Sophie 开门见山追问丈夫 Claude 的下落；Babs 先答“不知道他在哪”，再答“不知道他是否",
+   "anchor": "Where is my husband, Babs?…"
+  },
+  {
+   "ok": true,
+   "start": 2093,
+   "end": 2122,
+   "fact": "Babs 提出交换条件：她可以把真相原原本本告诉 Sophie，但 Sophie 必须终生守口、绝不告诉",
+   "anchor": "Or your kids will be orphans…"
+  },
+  {
+   "ok": true,
+   "start": 2261,
+   "end": 2318,
+   "fact": "Sophie 回忆：当初 Claude 拿出她移植手术的钱时，她怀疑钱来自 Babs 和 Rheal 的",
+   "anchor": "When Claude first came up wi…"
+  },
+  {
+   "ok": true,
+   "start": 3227,
+   "end": 3296,
+   "fact": "Sophie 把一摞文件推给 Babs：那是 Claude 把靠近 Mount Katahdin 的两百",
+   "anchor": "contract for the sale of two…"
+  },
+  {
+   "ok": true,
+   "start": 4019,
+   "end": 4076,
+   "fact": "Sophie 转述 Claude 在罢工结束前说过的话：他搞砸了、处于某种“察看期”，担心 Babs 永",
+   "anchor": "He said he’d screwed up, and…"
+  },
+  {
+   "ok": true,
+   "start": 4953,
+   "end": 5033,
+   "fact": "Babs 从大衣口袋掏出一个塞满钞票的信封放上桌，称此前一直在寄的就是这个——这是“利润分成”、Clau",
+   "anchor": "It’s profit-sharing. Claude’…"
+  },
+  {
+   "ok": true,
+   "start": 7017,
+   "end": 7075,
+   "fact": "结尾对峙：面对 Sophie“把你打倒在地、踹你肚子”的威胁，Babs 放话做可怕的事没人比得上她、直言",
+   "anchor": "You may own this neighborhoo…"
+  }
+ ]
+}
