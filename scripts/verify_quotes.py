@@ -117,6 +117,10 @@ def extract_quotes(txt: str, include_short: bool = False):
         if not m:
             continue
         body = (m.group(1) or '').strip()
+        # 2026-11-03：`⑨ **小节标题（ch30-31）**` 这类「圈码 + 纯粗体 + 章号」是**节标题**不是引语。
+        # 曾被 circ_bare 当引语抽取 ⇒ 情感节点判「全书查无」假红（the-thrice-bound-fool 2 处）。
+        if br == "circ_bare" and body.startswith("**") and body.endswith("**") and not re.search(r'["\u201c\u201d\'"]', body):
+            continue
         # ⚠️ **`yuanju`（`原句 N:`）分支不剥叙述标签**（2026-09-30 An Army like No Other 五步审查修）
         # 原实现对所有分支无差别剥壳，误伤了 `原句 N:` 行里**句中带引号对、末尾不带引号**的引语
         # —— 那是本库非虚构/论述格式的常态（An Army 实测 150 条里 9 条被截断）：
