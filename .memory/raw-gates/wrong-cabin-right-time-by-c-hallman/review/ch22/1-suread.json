@@ -1,0 +1,73 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch22",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch22_chapter_twenty_two.txt",
+ "facts": [
+  {
+   "fact": "Sage 醒来发现一只手被扣在床头上；他那半床铺得整齐，人不在。",
+   "anchor": "a hand zip-tied to Travis’s headboard",
+   "start": 108,
+   "end": 145
+  },
+  {
+   "fact": "她幻想做镶水钻束线带时尚线，还想给「被帅哥扣押过的女人」找互助小组。",
+   "anchor": "bedazzled zip ties",
+   "start": 442,
+   "end": 460
+  },
+  {
+   "fact": "他冲进房抱臂怒问：不能不经同意就给人下药。",
+   "anchor": "You can’t just go around drugging people without their consent",
+   "start": 970,
+   "end": 1032
+  },
+  {
+   "fact": "他强调那些是他选择不告诉她的私人回忆：她不能替他做这种决定，他是不情愿说出来的。",
+   "anchor": "They’re my private memories that I chose to keep from you",
+   "start": 1790,
+   "end": 1847
+  },
+  {
+   "fact": "她嘴上道歉是希望他消气，心里一点也不愧：他需要那一次，他们的关系需要。",
+   "anchor": "I’m not sorry at all",
+   "start": 2171,
+   "end": 2191
+  },
+  {
+   "fact": "她手腕还扣着，就问他俩现在算在谈恋爱吗，还是他版本怪异的过夜派对。",
+   "anchor": "Are we, like . . . in a relationship now",
+   "start": 2334,
+   "end": 2374
+  },
+  {
+   "fact": "他追出 Eli 动向：人已到 Lake Lure、住 Lodge；她胃紧，紧张甚至像兴奋。",
+   "anchor": "He’s here already",
+   "start": 3808,
+   "end": 3825
+  },
+  {
+   "fact": "她本来因看到 Eli 与未婚妻合影心软，此刻改观：他危险，她要他消失——不管他的未婚妻、家人。",
+   "anchor": "he can die",
+   "start": 6091,
+   "end": 6101
+  },
+  {
+   "fact": "他讲计划：她引他到安静处，他带针放倒，醒来被绑地下室；场地是他名下火葬场，已停业、街上看不到，原为宠物公墓。",
+   "anchor": "I own a crematorium",
+   "start": 7774,
+   "end": 7793
+  },
+  {
+   "fact": "他从背后锁她、刀贴咽喉说杀她很容易；她说不信他会伤她，他答「我不知道那是不是真的」。",
+   "anchor": "I don’t know if that’s true",
+   "start": 9404,
+   "end": 9431
+  },
+  {
+   "fact": "事毕她说想跟他一起去杀 Eli；他点头，随后一整天追踪 Eli。",
+   "anchor": "I want to go with you when you kill him",
+   "start": 12907,
+   "end": 12946
+  }
+ ]
+}
