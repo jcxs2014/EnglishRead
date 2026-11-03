@@ -1,0 +1,55 @@
+{
+ "book": "your-beloved-remains-by-quinn-connor",
+ "chapter": "ch13",
+ "text": "notes/books/novels/your-beloved-remains-by-quinn-connor/text/ch13_chapter_xiii.txt",
+ "facts": [
+  {
+   "fact": "Jonathan：行政今年没续图书馆任何订阅——每周约 15 封期刊催款信；秋冬刊无望，「跟 Southern Literary Review 说再见吧」",
+   "anchor": "The admin didn’t renew any of the library’s subscriptions this year",
+   "start": 22,
+   "end": 89
+  },
+  {
+   "fact": "自与 Danvers 那场注定失败的战斗之晨起，Celia 没吃没回家；穿桌抽屉里的备用衣（格子裙毛衣）——必须吃，否则手抖得没法干活",
+   "anchor": "the morning of my doomed battle with President Danvers",
+   "start": 1021,
+   "end": 1075
+  },
+  {
+   "fact": "雾中她仍记得 Harper 塞的密信日期：2 月 13 日（下学期初董事会预算会）——「若在此之前发生点什么，提升 Basin 的声望呢？」",
+   "anchor": "something happened to raise Basin’s profile",
+   "start": 2284,
+   "end": 2327
+  },
+  {
+   "fact": "Jonathan 泼冷水：董事会只会把钱抽给尴尬的体育系，别指望他们关心 Donahue——他们在乎的是钱与名声",
+   "anchor": "The only thing they do is siphon funds into Basin’s embarrassing athletics department",
+   "start": 2452,
+   "end": 2537
+  },
+  {
+   "fact": "秘密在体内颤动拍着希望的翅膀——本可告诉 Jonathan（他的工作也危），但他会想来看作品；而她即将成为全世界第一个读《Dreams of the Rose》的人",
+   "anchor": "I was about to be the first person in the whole world to read Dreams of the Rose",
+   "start": 3102,
+   "end": 3182
+  },
+  {
+   "fact": "Harry 端着同款肉卷 plopped 到 Jonathan 旁：独自吃还是与 Celia Kiel 同餐是 Scylla/Charybdis 两难——「不过你知道我对 Scylla 的感觉」",
+   "anchor": "a Scylla/Charybdis dilemma, isn’t it?",
+   "start": 3804,
+   "end": 3841
+  },
+  {
+   "fact": "揭示：她早看见 Celia 偷听她与 Kostas、Wilkes 的谈话——「你像只豪猪，为那出可怕的 Donahue 戏竖起浑身刺；难说谁更恨我，你还是老 Wilkesie」",
+   "anchor": "you were like a porcupine over there",
+   "start": 4442,
+   "end": 4478
+  },
+  {
+   "fact": "Celia 回敬：留着力气等你下一篇反驳；Scylla 也许不完美但你写写看——Harriot 眼里起火、眨眼「挑战接受」；Celia 怒气泄尽真心邀请参观档案馆——你的失传之作诞生后，这场小战役不值得被记住",
+   "anchor": "“Challenge accepted.”",
+   "start": 5983,
+   "end": 6004
+  }
+ ]
+}
