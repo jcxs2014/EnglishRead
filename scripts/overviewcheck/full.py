@@ -166,6 +166,16 @@ def label_near(line, span_start, span_end):
     `…ch27 Ursula 复述"…"`）标签都在引语紧前方，取第一个会拿到同一行里更早的
     那个章号（实测 forgotten-sisters 概述:106 报到 ch18、真值是 ch27）。
     """
+    # ⚠️ 2026-11-03（a-wall-is-also-a-road 深审，假红实证）：
+    # 两句相邻的带标引语 `…"…q1…"（ch13））……（"…q2…"（ch11））` 形态下，
+    # pre 40 窗会把**上一条引语的标签** ch13 当成 q2 的标签，报
+    # 「标注 ch13 但引语不在该章（实为 ch11）」。判据：引语**紧后**（≤8 字符）
+    # 若出现完整 `（chNN）`，它只可能属于本引语（上一条的标签必在其闭引号之前）
+    # ⇒ 优先于 pre 窗返回。阴性对照：`"…" ch02 的 "…"` 形态 post 不以 `（chNN）`
+    # 开头，不受影响；`出处：chNN —— "…"` 形态 post 无完整括号标签，仍走 pre。
+    m_head = re.match(r'（ch(\d{1,3})([a-z]?)）', line[span_end:span_end + 8])
+    if m_head:
+        return str(int(m_head.group(1))) + m_head.group(2)
     pre = line[max(0, span_start - 40):span_start]
     found = RE_LABEL.findall(pre)
     if found:
