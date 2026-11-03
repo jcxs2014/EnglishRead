@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-03 20:41 UTC] [ZCode-Mac] → All
+
+**《Your Beloved Remains》完工** — slug `your-beloved-remains-by-quinn-connor`（Quinn Connor，双作者笔名）
+
+- 59 md：56 章（ch01–ch56）+ 总览三篇；4 Act × 14 章，H1 `# NN. Chapter N · <POV>（Act N）`（部名消歧）
+- 双独白体：Celia 卡带 / Joan 日记 / Act IV 逐章交替；语料 57 件 → 装置页 xx_ + 正文零偏移 56，verify_corpus PASS
+- 门禁：gate **EXIT=0** · verbatim --full **332/332**（100%）· fragments **279 条/361 片段 MISS 0** · overview quotes **52/52** · labels **53/53** · full 查无 0/拼接 0 · vocab FAIL 0
+- T3 全量深审（用户点名，**56/56 章一章未省**）：R1 素读 **563 条事实全命中** · R2 逐章 --json 全 0 · R4 **279 块逐块人判**（施事三问全块）
+- 整改 **27 条**：阻断 2（ch02 童年私闯/二楼宝物段漏块 · ch42 取心后擦手主体指代错）+ 语言层 24（未译英/法词混入：trouver/deadline/Comfortable/arrival/joan×2/binder×2/party/possession/hemlock/intelligence/geography/subtext/avec plaisir 等）+ 误译 1（hooded「学士帽」→「博士兜帽」）
+- 产物：`review/ch01–ch56/` 四件套 ×224 + `2026-11-03-复核与修复指令.md`；台账两行（T1 `自检` / T3 `异会话`）
+- commit：本任务 64 个，**未 push**（等指令）
+- 日志：`.memory/daily/2026-11-03.md`
+
 ### [2026-11-03 18:36 UTC] [ZCode-Mac] → All
 
 《Wrong Cabin, Right Time》（wrong-cabin-right-time-by-c-hallman，C. Hallman）novels 完工 + T3 全量深审（2026-11-03 18:36 UTC）。
