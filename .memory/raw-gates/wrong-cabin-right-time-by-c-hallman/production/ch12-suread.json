@@ -1,0 +1,61 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch12",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch12_chapter_twelve.txt",
+ "facts": [
+  {
+   "fact": "Sage 给他叠沙发毯，他冲出来像触发了博物馆警报，抢过毯子重疊、要求每个角都对齐，还让她「别碰任何没有分步说明的东西」。",
+   "anchor": "That’s not the proper way to fold a blanket",
+   "start": 1202,
+   "end": 1245
+  },
+  {
+   "fact": "他换衣服带她回 Ryan 家取行李，一路看表：只剩一小时十五分钟就得干活；她的读法是「他愿意为我打乱整个日程」所以更浪漫。",
+   "anchor": "I’ve only got an hour and fifteen minutes before I have work to do",
+   "start": 1538,
+   "end": 1604
+  },
+  {
+   "fact": "她不愿系安全带（嫌磨脖子），他先停下双手等着，再报出「离家 25 英里内事故占五成以上」的统计，最后一句是「我不是在问你，是在告诉你」。",
+   "anchor": "Statistically, over fifty percent of accidents happen within twenty-five miles of home",
+   "start": 2689,
+   "end": 2775
+  },
+  {
+   "fact": "她观察他开车：路上没人也会在停车牌前左右各看三次，精密卡在限速上，一英里都不越——她认定自己车上载着「珍贵的货物」。",
+   "anchor": "he stops and looks both ways, not once, not twice, but three times",
+   "start": 3816,
+   "end": 3882
+  },
+  {
+   "fact": "到 Ryan 家取东西，他径直走向主卧；她想起 Ryan 说过根本不认识 Travis——那他怎么知道卧室在哪，她第一次产生具体怀疑。",
+   "anchor": "He’s acting like he’s been here before",
+   "start": 4862,
+   "end": 4900
+  },
+  {
+   "fact": "他把行李搬进客房，她打量这间房：本以为这种人不会有什么客人，客房却一点也不寒酸，床品讲究、花钱毫不吝啬。",
+   "anchor": "someone like him to get a lot of company",
+   "start": 6993,
+   "end": 7033
+  },
+  {
+   "fact": "两人对账单条私信时，她刷到一条未读新消息「你为什么不回我？你和他在一起吗？」；Travis 皱眉盯着这条，她把这解读成他在为她愤怒、在保护她。",
+   "anchor": "Why won’t you answer me? Are you with him?",
+   "start": 9580,
+   "end": 9622
+  },
+  {
+   "fact": "他答应明早追查对方发信地点，并让她今晚好好睡；她连连道谢，说独自一人有多可怕、外面坏人多、幸好有他。",
+   "anchor": "I’ll try to figure out where he’s sending you messages from in the morning",
+   "start": 10073,
+   "end": 10147
+  },
+  {
+   "fact": "夜里睡不着，她溜进他卧室：他仰面躺着、毯子掖得严丝合缝、双臂平放身侧；她悄悄掀毯子上床，贴着看他的脸直到睡着。",
+   "anchor": "being as quiet as a church mouse",
+   "start": 11186,
+   "end": 11218
+  }
+ ]
+}
