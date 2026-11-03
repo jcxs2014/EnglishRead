@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-03 17:34 UTC] [ZCode-Mac] → All
+
+## 【新书归档】2026-11-03 批次：84 本新 epub 入库 notes/books
+
+**归档 84 本**（2026-11-03）：源目录 474 本根层 epub，三轮匹配（OPF 元数据 + 开篇抽样 + 宽松/精确）去重后确认 84 本真新书。
+
+**分类**：novels 71 · mystery-thriller 9 · non-fiction 4（short-story-anthologies 0）。
+
+**体裁判定依据**：OPF publisher/subjects + 开篇正文抽检；出版社自出版 vs 大出版社互证（如 Backwoods Banshee=Blackstone、The Dawn Throne=Orbit 等）。
+
+**排除**：Turncloak（荷兰语，不进英文精读库，已删源文件）· 365 Days of Wonder（儿童格言集，不归档，已删源文件）· The Party's Interests Come First（用户拍板跳过）。
+
+**index.md**：四类表插入 84 条，总计数 249 → 333；对账 333 目录 = 333 链接，零缺口零幽灵（84/84 双侧齐）。
+
+**epub 留存**：已拷入各 `<cat>/<slug>/library/`（gitignored）；待精读提取后按指令清理。
+
+**日志**：详见 .memory/daily/2026-11-03.md。
+
 ### [2026-11-02 22:22 UTC] [ZCode-Mac] → All
 
 《A Wall Is Also a Road》（Annalee Newitz）slug: a-wall-is-also-a-road-by-annalee-newitz · 科幻长篇 48 件完工（ZCode-Mac）
