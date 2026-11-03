@@ -83,7 +83,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：全章的黑色喜剧峰值：一个连环杀手用夏令营手势确认绑架。作者用「trust fall」这个比喻暗合他们的关系——她确实在往后倒，相信他会接住。
 
-**读者视角提示**：这是她最后一次笑得出来。再往下一章，相同的「信任」会被血检验。
+**读者视角提示**：这是她最后一次笑得出来。同一章结尾，相同的「信任」就被血检验了。
 
 > **原句 8:** ""Did you think you could take what's mine?" Travis leans in closer, almost pressing his mouth to Eli's ear as he speaks in a hushed, chilling voice. "I'm going to enjoy this more than any other kill.""
 

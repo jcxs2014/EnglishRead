@@ -53,7 +53,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：作者让她自己完成推理的最后一块拼图：车、塑料布、那晚的黑衣手套——同一辆车既是差点撞她的凶器，也是运尸工具。`dispose of evidence` 这个短语从她嘴里说出来，比她尖叫更有力。
 
-**读者视角提示**：注意「almost positive」：她在这里用的是接近确定，而不是确定。这个措辞的保留，为下一章她还会不会心软留了口子。
+**读者视角提示**：注意「almost positive」：她在这里用的是接近确定，而不是确定。这个措辞的保留，为她后文还会不会心软留了口子。
 
 > **原句 5:** ""Are you a serial killer?" … "And what if I am?" Travis says as he slowly steps toward me. His face is completely calm and stoic, unbothered by my discovery."
 

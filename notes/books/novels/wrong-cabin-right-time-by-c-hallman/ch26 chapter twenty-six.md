@@ -33,7 +33,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：全章的自我诊断：她把自己的转变描述成「被唤醒」，而不是「被逼」。作者用「run for the hills」这个原本属于她的选项做对照——它还在，只是她不选了。
 
-**读者视角提示**：「awoken」这个词她两章内用了两次（上一章是 Travis 说的「unlocked」）。两个人都用被动语态描述自己：是他们互相激活，还是都不肯认账？
+**读者视角提示**：「awoken」与本章后段她自己的「He’s unlocked something inside me」是同一件事的两种说法。两个人都用被动语态描述自己：是他们互相激活，还是都不肯认账？
 
 > **原句 3:** "He's sleeping so soundly I'm tempted to poke his cheek just to see if he's still breathing. Not that I'd want him to be dead—but if he were, at least I'd get to use my new crematorium skills again."
 
@@ -126,4 +126,4 @@ modified: "2026-11-03"
 
 ## 一句话总结
 
-杀人后的第二天她没想逃，反而被「能把人引向死亡」的力量喂饱了——早餐桌上她提议专门清除 DM 里的色狼、说这是净收益，他第三次声明「我就是坏人，不是义警」；她则威胁要自己单干，最后他承认：「我对你没有计划，你不可预测。」
+杀人后的第二天她没想逃，反而被「能把人引向死亡」的力量喂饱了——早餐桌上她提议专门清除 DM 里的色狼、说这是净收益，他再次声明「我就是坏人，不是义警」；她则威胁要自己单干，最后他承认：「我对你没有计划，你不可预测。」

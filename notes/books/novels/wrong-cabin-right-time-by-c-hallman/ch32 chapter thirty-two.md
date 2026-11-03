@@ -53,7 +53,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：全章最诚实的一段：她把「爱」与「判断」分成两件事——认知已经更新，感情没有。作者不给她任何道德高地的便利，只让她带着爱逃走。
 
-**读者视角提示**：这句话是她全书的立场总结：她不是被骗的傻子，是明知而爱的人。这个区别决定了下一章她的选择。
+**读者视角提示**：这句话是她全书的立场总结：她不是被骗的傻子，是明知而爱的人。这个区别决定了 ch34 她的选择。
 
 > **原句 5:** "The mattress creaks ever so softly as my weight shifts on it. Of course, now the bed decides to develop a Broadway-level sound system. I half expect it to start narrating my escape like a dramatic podcast—"And then she froze, heart thundering, mattress groaning like a haunted cello . . .""
 
@@ -63,7 +63,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：全章的喜剧减压阀：她把最紧张的逃亡时刻写成一档播客。作者让她用职业本能（解说、旁白）消化恐惧——只要还能把处境讲成故事，她就还没崩。
 
-**读者视角提示**：注意她自嘲的「haunted cello」：她连恐惧都要配乐。这份幽默在下一章会被彻底关掉。
+**读者视角提示**：注意她自嘲的「haunted cello」：她连恐惧都要配乐。这份幽默在 ch34 会被彻底关掉。
 
 > **原句 6:** "I stare down at the keypad on my phone with 911 typed in. All I have to do is press the green dial button and at the very least an officer will be sent out for a suspicious call. I just can't bring myself to do it."
 

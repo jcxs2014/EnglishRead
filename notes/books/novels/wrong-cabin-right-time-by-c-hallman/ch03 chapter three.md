@@ -33,7 +33,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：威胁句的主语从「我要杀她」滑成「她需要消失」——把谋杀写成对方自找的清理需求。前半句还端着职业原则（两次行动要隔开），后半句原则当场让位，这种自我松动正是本章的暗流。
 
-**读者视角提示**：对比上一章的「not on the schedule」：此刻他还没把杀她排进日程，但口风已经从「如果」变成了「必须」。
+**读者视角提示**：对比他本章开头的「not on the schedule」：此刻他还没把杀她排进日程，但口风已经从「如果」变成了「必须」。
 
 > **原句 3:** "I'm killing Kevin on Thursday, I remind myself. Then I could kill her next. Yes! It's decided. I will start planning her demise today, during my scheduled free time."
 

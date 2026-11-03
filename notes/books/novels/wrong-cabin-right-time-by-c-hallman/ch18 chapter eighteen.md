@@ -33,7 +33,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：一句独立成段的自供，比前面所有的冷静算计都有效：她给出的不逃理由不是「跑不掉」，是「不想跑」。作者把这句话藏在「Besides」后面——像一个人对自己承认事情时的轻声。
 
-**读者视角提示**：这是她全书的转折标记。下一章开始，她的每一个「不得不」都要打折扣。
+**读者视角提示**：这是她全书的转折标记。此后（ch20 起）她的每一个「不得不」都要打折扣，先哄住他的人，先保住 Nicole 的命。
 
 > **原句 3:** "I know, I know. The whole "I can fix him" mentality doesn't typically work. But I do think it's possible in this case. Besides, he wanted to kill me and then decided not to. That's progress. He is totally fixable, and I'm going to be the one to do it!"
 
