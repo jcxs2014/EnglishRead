@@ -1,0 +1,171 @@
+{
+  "chapter": "ch14",
+  "source": "text/ch14_chapter_14_ambiguous_words.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "在图书馆塔窗边望着Spigot第三臂抓住Tentacle之处，突然有了想法、越写越快，在笔记本记下『Tentacle的地壳扰动是毁灭与复兴之力』（地震/火山把山与城的食物网联结），可作Second Exam的论点。",
+      "anchor": "are a force for destruction and rejuvenation",
+      "range": [
+        481,
+        525
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "取出Column所赠的破旧粉色笔记本——笔记与录音混乱堆放、有半成品假设与半列表、图像元数据不全；没有Column指导，不知如何推进。",
+      "anchor": "was a complete mess. Notes and recordings were",
+      "range": [
+        1181,
+        1227
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Buttress",
+      "did": "醉酒blorp进宿舍窗户，滴水并漏着nitrous，长出一大堆眼柄，说语言系在student fountain开派对庆祝名词/动词/夺格，边笑边排液。",
+      "anchor": "Buttress blorped through the window, reeking of water",
+      "range": [
+        1675,
+        1728
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Gardenpath",
+      "did": "提出需要Buttress帮忙做语言习得；两人一起出门游荡，Buttress讲了翻译四理论与Rational嗅觉组学的七大分子转变。",
+      "anchor": "I need help with language acquisition.",
+      "range": [
+        3114,
+        3152
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Buttress",
+      "did": "出示约五十代前的Language Log：当年Skiff的Cloud People语言消亡太快，Memory派语言学家随Galleon军队尽量收集词汇；该日志分life phases/work/war/foods/metals/stories等栏，life phases列11个待译词（Spore、Sprout、Homecoming、Nurturing、First cluster、Crèche、Naming、School、Child、Adult、Fruiting）。",
+      "anchor": "including life phases, work, war, foods, metals, and stories",
+      "range": [
+        4075,
+        4135
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Turret",
+      "did": "在生物塔附近的anti-war抗议上演讲：自称既是Skiff的Cloud Person、也是Touched-by-Sunlight的Rational Person；指控Redoubt Lab与Galleon战争领袖合作制造能『从内部溶解人』的生物武器（既是酷刑也是必死），并喊『We are not Rational! We are not Cloud! We are People!』",
+      "anchor": "the Redoubt Lab is collaborating with war leaders in",
+      "range": [
+        6637,
+        6689
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Gardenpath与Oriel",
+      "did": "在Open Lab地板上发生性关系（秘密笔记本还塞在通风口里）；事后Gardenpath提出最好不要把性带进友谊。",
+      "anchor": "they were deep inside each other, right there on the",
+      "range": [
+        9857,
+        9909
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Wainscot",
+      "did": "说已由Investigator Plumline选中做Second的考官、并将担任Third与Fourth的导师，称自己的研究对资源开采领域有战略重要性。",
+      "anchor": "I’ve been chosen by Investigator Plumline.",
+      "range": [
+        15434,
+        15476
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Column → Gardenpath",
+      "relation": "把破旧的粉色笔记本交给Gardenpath（Gardenpath觉得Column后悔给了ta、而且恨ta）。",
+      "anchor": "which Column no doubt regretted giving to them",
+      "range": [
+        1133,
+        1179
+      ]
+    },
+    {
+      "pair": "Gardenpath ↔ Buttress",
+      "relation": "clustermates（同簇伙伴）；Gardenpath向ta求助，两人一起出门游荡。",
+      "anchor": "The two clustermates went for a wander",
+      "range": [
+        3156,
+        3194
+      ]
+    },
+    {
+      "pair": "Turret → Gardenpath",
+      "relation": "Turret曾在First Exam时扰乱Gardenpath的工作，如今又出现在抗议上。",
+      "anchor": "who had disrupted their work on the First Exam",
+      "range": [
+        5556,
+        5602
+      ]
+    },
+    {
+      "pair": "Oriel → Gardenpath",
+      "relation": "Oriel说若Gardenpath不想把性与友谊混在一起，自己『definitely team friendship』，只做朋友也可以。",
+      "anchor": "If you don’t want to mix sex and friendship",
+      "range": [
+        13497,
+        13540
+      ]
+    },
+    {
+      "pair": "Gardenpath → Professor Arch",
+      "relation": "Gardenpath打算请Professor Arch当考官（First时帮了ta很多）。",
+      "anchor": "I’m probably going to ask Professor Arch.",
+      "range": [
+        16588,
+        16629
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "four theories of translation",
+      "fact": "Buttress讲翻译的四理论。",
+      "anchor": "explained the four theories of translation",
+      "range": [
+        3208,
+        3250
+      ]
+    },
+    {
+      "value": "seven great molecular shifts",
+      "fact": "Rational嗅觉组学的七大分子转变。",
+      "anchor": "then the seven great molecular shifts in Rational",
+      "range": [
+        3252,
+        3301
+      ]
+    },
+    {
+      "value": "fifty generations",
+      "fact": "Language Log出自约五十代前，但仍然有用。",
+      "anchor": "It’s from about fifty generations ago",
+      "range": [
+        3549,
+        3586
+      ]
+    },
+    {
+      "value": "at least four journeys",
+      "fact": "Oriel将在Sky-over-Prairie从Separation待到Clustertime，至少四趟旅程。",
+      "anchor": "until Clustertime for at least four journeys",
+      "range": [
+        13742,
+        13786
+      ]
+    }
+  ]
+}

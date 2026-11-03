@@ -1,0 +1,162 @@
+{
+ "chapter": "ch48",
+ "source": "text/ch48_terminology.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "the author",
+   "did": "spent many years studying and writing about Roman life in Pompeii and beyond, readable in her book Four Lost Cities",
+   "anchor": "I’ve spent many years studying and writing about Roman life",
+   "range": [
+    56,
+    115
+   ]
+  },
+  {
+   "n": 2,
+   "who": "the author",
+   "did": "visited an archaeological dig at Tharros and saw the taberna where she imagined Julia and Murtis spending their last days",
+   "anchor": "an archaeological dig at Tharros, and saw the taberna",
+   "range": [
+    281,
+    334
+   ]
+  },
+  {
+   "n": 3,
+   "who": "the author",
+   "did": "says the nuraghe exist all over the island and were definitely built before the Punic people arrived",
+   "anchor": "they were definitely built before the Punic people arrived",
+   "range": [
+    479,
+    537
+   ]
+  },
+  {
+   "n": 4,
+   "who": "the author",
+   "did": "explains Murtis is a liberta, the feminine form of libertus, the Latin term for a former slave",
+   "anchor": "Murtis is a liberta, the feminine form of libertus",
+   "range": [
+    679,
+    729
+   ]
+  },
+  {
+   "n": 5,
+   "who": "the author",
+   "did": "places Murtis from the real place Mactar, usually spelled Maktar today, west of Carthage",
+   "anchor": "a real place, Mactar (usually spelled Maktar today)",
+   "range": [
+    1082,
+    1133
+   ]
+  },
+  {
+   "n": 6,
+   "who": "the author",
+   "did": "notes Romans called the formerly Punic region around Carthage the Province of Africa, today Tunisia",
+   "anchor": "the Province of Africa, though today we know it as Tunisia",
+   "range": [
+    1315,
+    1373
+   ]
+  },
+  {
+   "n": 7,
+   "who": "the author",
+   "did": "says a craze for all things Egyptian is why women like Julia and Murtis worshipped Isis",
+   "anchor": "there was a craze for all things Egyptian",
+   "range": [
+    1425,
+    1466
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Murtis (the real one)",
+   "did": "did carve her name and the title felatris in the walls of the lupanar",
+   "anchor": "carve her name and the title felatris in the walls",
+   "range": [
+    2538,
+    2588
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "the author → Murtis",
+   "relation": "after learning of the graffiti, the author wondered what Murtis was like and brought her to life",
+   "anchor": "So I brought her to life for you, just as I brought to life",
+   "range": [
+    2673,
+    2732
+   ]
+  },
+  {
+   "pair": "Julia Felix → bathhouse and boardinghouse",
+   "relation": "the mysterious “Julia Felix” owned a bathhouse and a boardinghouse in one of the biggest praedia, or estates, in Pompeii",
+   "anchor": "“Julia Felix” who owned a bathhouse and a boardinghouse",
+   "range": [
+    2748,
+    2803
+   ]
+  },
+  {
+   "pair": "Lucius of Herculaneum → Epicurus",
+   "relation": "Lucius was a rich dude obsessed with Epicurus, and the author saw the horny statues in his garden",
+   "anchor": "a rich dude who was obsessed with Epicurus",
+   "range": [
+    2894,
+    2936
+   ]
+  },
+  {
+   "pair": "Emperor Titus → Pompeiian exiles",
+   "relation": "Titus toured the ruins of Pompeii and spent Roman money to build new neighborhoods in Neapolis for the exiles",
+   "anchor": "Titus toured the ruins of Pompeii, and spent a great deal",
+   "range": [
+    3395,
+    3452
+   ]
+  },
+  {
+   "pair": "Neapolis → refugees",
+   "relation": "Neapolis, today Naples, was a receiver city for hundreds of refugees after the eruption of Vesuvius in 79 CE",
+   "anchor": "a receiver city for hundreds of refugees after the eruption",
+   "range": [
+    3305,
+    3364
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "79 CE",
+   "fact": "the eruption of Vesuvius that made Neapolis a receiver city for refugees",
+   "anchor": "after the eruption of Vesuvius in 79 CE",
+   "range": [
+    3346,
+    3385
+   ]
+  },
+  {
+   "value": "hundreds",
+   "fact": "hundreds of refugees were received by Neapolis after the eruption",
+   "anchor": "a receiver city for hundreds of refugees after",
+   "range": [
+    3305,
+    3351
+   ]
+  },
+  {
+   "value": "Four",
+   "fact": "title of the author’s book about lost cities: Four Lost Cities",
+   "anchor": "read about in my book Four Lost Cities",
+   "range": [
+    161,
+    199
+   ]
+  }
+ ]
+}

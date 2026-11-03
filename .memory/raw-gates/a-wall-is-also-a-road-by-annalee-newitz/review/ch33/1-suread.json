@@ -1,0 +1,153 @@
+{
+ "chapter": "ch33",
+ "source": "text/ch33_chapter_33_the_matrons_of_isis.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Peristyle",
+   "did": "时间过去一个月：春雨、初获满市；Neapolis 是崇拜希腊的城市，她与 Murtis 及新交的自由民朋友在浴场消磨长夜",
+   "anchor": "spent long evenings at the baths with Murtis",
+   "range": [
+    729,
+    773
+   ]
+  },
+  {
+   "n": 2,
+   "who": "Peristyle",
+   "did": "Tentacle 的生活不再有发现之乐：她完全停止在粉色笔记本上记笔记，官方笔记本则继续长大（庞贝山上的食物网数据）",
+   "anchor": "She stopped taking notes in the pink notebook entirely.",
+   "range": [
+    1270,
+    1325
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Murtis",
+   "did": "在返回实验室前的最后一天清晨叫醒 Peristyle，带她去神庙参加海神节，并准备了两人份的礼服（绿金披风、金面纱、蛇形青铜冠）",
+   "anchor": "It’s the Sea Festival! I have regalia for both of us.",
+   "range": [
+    1647,
+    1700
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Murtis",
+   "did": "说在 Isis 的其他 matrons 面前不能拥抱亲吻——她们不爱 Sappho，会用“XXXX（怪物/变态/希腊遗老）”称呼她们这类人，还担心被踢出神庙委员会、无法向 Julia 交代",
+   "anchor": "we can’t hug or kiss in front of the other matrons",
+   "range": [
+    2556,
+    2606
+   ]
+  },
+  {
+   "n": 5,
+   "who": "神庙祭司与男奴",
+   "did": "游行开始：三名祭司与一队年轻男奴抬着一艘满载花果与亮色亚麻的贸易船模型，女祭司头戴金角冠（托着一轮太阳）宣讲春季贸易季开始",
+   "anchor": "a complement of young male slaves arrived carrying a boat",
+   "range": [
+    4785,
+    4842
+   ]
+  },
+  {
+   "n": 6,
+   "who": "女祭司们",
+   "did": "在港口，数千人欢呼迎接；女祭司把船放入水中，Murtis 等节日组织者倾倒祭液、与地方官员寒暄（官员发小袋水果和坚果）；Peristyle 一直站在人群边缘被冷落",
+   "anchor": "a group of priestesses lowered the boat into the water",
+   "range": [
+    5879,
+    5933
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Murtis",
+   "did": "得知 Peristyle 当天就得走，神情破碎、眼里涌泪，问“今天？偏偏是今天？”并问她明年春天会不会回来",
+   "anchor": "Murtis’s face broke and her eyes welled with tears",
+   "range": [
+    6891,
+    6941
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Murtis",
+   "did": "抓住 Peristyle 的下巴逼她直视自己（天空黑的眼、画着深色眼线），说“我知道你总会回到我身边。我相信你。”——Peristyle 决定她是对的",
+   "anchor": "I know you will always come back to me. I trust you.",
+   "range": [
+    7921,
+    7973
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Murtis → Peristyle",
+   "relation": "恋人，但在 Isis 女信徒面前必须隐瞒（不能拥抱亲吻，因为她们不爱 Sappho）",
+   "anchor": "They are good women, but they don’t love Sappho.",
+   "range": [
+    2622,
+    2670
+   ]
+  },
+  {
+   "pair": "Julia → Murtis",
+   "relation": "恩主：Julia 花了很多钱把她弄进女信徒的好圈子里",
+   "anchor": "She paid a lot of money to get me in their good graces.",
+   "range": [
+    3274,
+    3329
+   ]
+  },
+  {
+   "pair": "Murtis → 伊西斯神庙",
+   "relation": "捐款人：即使有了 Julia 的赠礼，她仍把收入的一定比例捐给神庙，并因此拿到节日组织委员会的席位",
+   "anchor": "secured a coveted seat on the festival organizing committee",
+   "range": [
+    4343,
+    4402
+   ]
+  },
+  {
+   "pair": "Dido → Murtis",
+   "relation": "能独当一面的店内人手：Dido 可以独自看前台，让女主人有时间重塑自己",
+   "anchor": "Dido could handle the front counter on her own.",
+   "range": [
+    3936,
+    3983
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "A month",
+   "fact": "故事时间过去一个月（春雨、初获）",
+   "anchor": "A month passed; the streets were slick with spring rain",
+   "range": [
+    77,
+    132
+   ]
+  },
+  {
+   "value": "three layers of clothing",
+   "fact": "Peristyle 抱怨要穿三层衣服加面纱罩在 galaxysuit 外面",
+   "anchor": "exhausting to wear three layers of clothing and a veil",
+   "range": [
+    6452,
+    6506
+   ]
+  },
+  {
+   "value": "thousands",
+   "fact": "港口有数千人欢呼迎接游行队伍",
+   "anchor": "They were met by thousands of cheering Unnamed at the harbor",
+   "range": [
+    5811,
+    5871
+   ]
+  }
+ ]
+}

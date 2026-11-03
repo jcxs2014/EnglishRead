@@ -1,0 +1,171 @@
+{
+  "chapter": "ch10",
+  "source": "text/ch10_chapter_10_peristyle.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath / Murtis",
+      "did": "在接下来的十个行星自转周期里，Gardenpath 与 Unnamed（Murtis）形成了一套日常作息",
+      "anchor": "the Unnamed and the person developed a routine",
+      "range": [
+        2822,
+        2868
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "每天早上装作吃饭、睡觉，同时偷偷写满自己的秘密笔记本",
+      "anchor": "while surreptitiously filling up their secret notebook",
+      "range": [
+        3948,
+        4002
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Gardenpath",
+      "did": "替 Murtis 把体内的毒素清出去",
+      "anchor": "purging toxins from Murtis’s body",
+      "range": [
+        4007,
+        4040
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Murtis",
+      "did": "在 lupanar 的第十一个夜晚之后，带 Gardenpath 长途步行到城东，看一群 Unnamed 在运动场训练",
+      "anchor": "Murtis took them on a long walk to the east side of town",
+      "range": [
+        4085,
+        4141
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath",
+      "did": "被 Murtis 追问“发生了什么”时回答：自己想来到这里、来到这个地方",
+      "anchor": "I wanted to get here, to this place.",
+      "range": [
+        4892,
+        4928
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath",
+      "did": "反问确认这座城是否叫 Pompeii（此前不知道 Unnamed 有城市）",
+      "anchor": "Is Pompeii the name of this city?",
+      "range": [
+        5058,
+        5091
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Murtis",
+      "did": "在宅邸外指着花园，说明 peristyle 就是环绕花园、由柱子支撑的步道",
+      "anchor": "the peristyle—the path around the garden, with the columns",
+      "range": [
+        6602,
+        6660
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath（Peristyle）",
+      "did": "点头，接受在 Pompeii 城使用 Peristyle 这个名字",
+      "anchor": "Peristyle nodded. This would be the name they used",
+      "range": [
+        7542,
+        7592
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Murtis → Gardenpath",
+      "relation": "照顾/关心：给了 Gardenpath 一个温暖的拥抱，并问是否有人伤害过她",
+      "anchor": "Did somebody hurt you? You can tell me.",
+      "range": [
+        4781,
+        4820
+      ]
+    },
+    {
+      "pair": "Gardenpath → Murtis",
+      "relation": "隐瞒真实动机的欺骗：Gardenpath 因不得不就原因欺骗 Murtis 而开始感到刺痛不适",
+      "anchor": "having to deceive Murtis about why",
+      "range": [
+        3824,
+        3858
+      ]
+    },
+    {
+      "pair": "Murtis → Gardenpath",
+      "relation": "取名者：Murtis 笑着问能否叫 Gardenpath 为 Peristyle",
+      "anchor": "Can I call you Peristyle? It’s a pretty name",
+      "range": [
+        7475,
+        7519
+      ]
+    },
+    {
+      "pair": "Murtis → Gardenpath",
+      "relation": "发现者：Murtis 问对方是否记得自己是怎么发现她的——当时她几乎走不动、衣服被撕掉",
+      "anchor": "You were barely able to walk, and your clothes were torn",
+      "range": [
+        4578,
+        4634
+      ]
+    },
+    {
+      "pair": "Gardenpath → Murtis",
+      "relation": "朋友：Gardenpath 开始把一个多细胞动物当作朋友",
+      "anchor": "starting to think of a multicellular animal as a friend",
+      "range": [
+        7696,
+        7751
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "ten",
+      "fact": "接下来的十个行星自转周期里，二者形成了日常作息",
+      "anchor": "Over the next ten planetary rotations",
+      "range": [
+        2783,
+        2820
+      ]
+    },
+    {
+      "value": "eleventh",
+      "fact": "在 lupanar 的第十一个夜晚之后，Murtis 带 Gardenpath 去城东看训练",
+      "anchor": "After the eleventh night at the lupanar",
+      "range": [
+        4044,
+        4083
+      ]
+    },
+    {
+      "value": "two blocks",
+      "fact": "Murtis 领 Gardenpath 离开主街、向北走了两个街区",
+      "anchor": "off the main street and north for two blocks",
+      "range": [
+        6021,
+        6065
+      ]
+    },
+    {
+      "value": "three levels high",
+      "fact": "那座占满一个街区的宅邸有三层高",
+      "anchor": "a block-long estate, three levels high",
+      "range": [
+        6243,
+        6281
+      ]
+    }
+  ]
+}

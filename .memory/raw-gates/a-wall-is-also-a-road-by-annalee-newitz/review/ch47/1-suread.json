@@ -1,0 +1,162 @@
+{
+ "chapter": "ch47",
+ "source": "text/ch47_chapter_47_a_new_memory.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "The New Memory",
+   "did": "declared itself a community by requesting collaborations with the Science Division, the Transit Hall, and the Blue Cluster Cloud People of Skiff",
+   "anchor": "declared itself a community in the traditional way",
+   "range": [
+    78,
+    128
+   ]
+  },
+  {
+   "n": 2,
+   "who": "Turret",
+   "did": "signed a collaboration agreement to mitigate environmental instability on four planets in Skiff damaged by the Cloud Wars",
+   "anchor": "collaboration agreement to mitigate environmental",
+   "range": [
+    565,
+    614
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Turret",
+   "did": "took the lead of that project with Oriel",
+   "anchor": "Turret took the lead with Oriel",
+   "range": [
+    731,
+    762
+   ]
+  },
+  {
+   "n": 4,
+   "who": "The New Memory",
+   "did": "was the first community in Rational Space to form a collab with anyone in Skiff",
+   "anchor": "the first community in Rational Space to form a collab with",
+   "range": [
+    785,
+    844
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Gardenpath",
+   "did": "had their dissertation published as a book, which traveled like a shock wave across the Globe",
+   "anchor": "it traveled like a shock wave across the Globe",
+   "range": [
+    1000,
+    1046
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Column",
+   "did": "led an interdisciplinary lab devoted to bringing science, policy, and culture together in a single tower",
+   "anchor": "an interdisciplinary lab devoted to bringing science",
+   "range": [
+    1391,
+    1443
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Wainscot",
+   "did": "was the only one of the original covert action group to stay at the Old Memory and offered the use of their probe launcher",
+   "anchor": "you can use my probe launcher anytime",
+   "range": [
+    1788,
+    1825
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Gardenpath’s cluster",
+   "did": "secured a cozy pod complex near the Transit Hall on Cut-in-Forest with a view of the Spigot",
+   "anchor": "a cozy pod complex near the Transit Hall on Cut-in-Forest",
+   "range": [
+    1859,
+    1916
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Turret → Blue Cluster Cloud People",
+   "relation": "only Turret knew the Cloud People",
+   "anchor": "But only Turret knew the Cloud People",
+   "range": [
+    332,
+    369
+   ]
+  },
+  {
+   "pair": "Column Lab → Wainscot Lab",
+   "relation": "the Column Lab partnered with the Wainscot Lab at the Memory to study the social impact of mining",
+   "anchor": "partnered with the Wainscot Lab at the Memory to study",
+   "range": [
+    1508,
+    1562
+   ]
+  },
+  {
+   "pair": "Wainscot → Old Memory",
+   "relation": "Wainscot decided to remain at what everyone was calling the Old Memory",
+   "anchor": "who had decided to remain at what everyone was calling",
+   "range": [
+    1661,
+    1715
+   ]
+  },
+  {
+   "pair": "Gardenpath → their first cluster",
+   "relation": "out on the spurned hemisphere they did have a first cluster; it was not Rational but had been home",
+   "anchor": "It wasn’t Rational, but for a while, it had been home",
+   "range": [
+    2656,
+    2709
+   ]
+  },
+  {
+   "pair": "Gardenpath → Murtis",
+   "relation": "Gardenpath was certain that without Murtis they would have gotten their doctorate without learning a single thing",
+   "anchor": "gotten their doctorate without ever learning a single thing",
+   "range": [
+    2277,
+    2336
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "three",
+   "fact": "the New Memory requested collaborations with three other communities",
+   "anchor": "collaborations with three other communities",
+   "range": [
+    144,
+    187
+   ]
+  },
+  {
+   "value": "four",
+   "fact": "the collaboration agreement covered four planets in Skiff damaged by the Cloud Wars",
+   "anchor": "environmental instability on four planets in Skiff",
+   "range": [
+    601,
+    651
+   ]
+  },
+  {
+   "value": "first",
+   "fact": "the New Memory was the first community in Rational Space to form a collab in Skiff",
+   "anchor": "the first community in Rational Space",
+   "range": [
+    785,
+    822
+   ]
+  }
+ ]
+}

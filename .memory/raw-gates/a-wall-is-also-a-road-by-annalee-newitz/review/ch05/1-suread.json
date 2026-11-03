@@ -1,0 +1,153 @@
+{
+  "chapter": "ch05",
+  "source": "text/ch05_chapter_5_irrational_constructions.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "为把 Tentacle 生命的声音纳入感知范围，galaxysuit 被重新编程：把音频波形转译成电子。",
+      "anchor": "was newly programmed to translate audio waveforms into",
+      "range": [
+        535,
+        589
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "取出笔记本为这个 maybe-conscious 的 Animal2 头脑风暴名字（Long-Armed Binoculates、Talking Clusters、Multicellular Marvels …），觉得全都糟糕，遂决定用 Unnamed 作占位名。",
+      "anchor": "began brainstorming names for the maybe-conscious Animal2",
+      "range": [
+        758,
+        815
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Gardenpath",
+      "did": "跟随一名用小型防护火焰（烧油与大气氧）照路的 Unnamed，越过原研究区域的范围。",
+      "anchor": "followed them, going far beyond the range of their original",
+      "range": [
+        1543,
+        1602
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Gardenpath",
+      "did": "在坡底发现一条被平整得完美、几乎像刻意修建的道路一样的光滑地面，并迅速拍下图像。",
+      "anchor": "almost as if it were a deliberately built road",
+      "range": [
+        1823,
+        1869
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath",
+      "did": "把身体尽量压平后沿石面滑过拱形门洞（arched gateway）进入 Unnamed 栖息地；没有一个 Unnamed 把内陷的眼睛转向他们。",
+      "anchor": "None of the Unnamed turned their recessed eyes in",
+      "range": [
+        3133,
+        3182
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath",
+      "did": "看到一座无疑是一堵墙的建造物——由切成矩形棱柱的岩石砌成，记入笔记本；同时承认许多动物和部分植物也为自己建造结构，所以这未必是意识的标志。",
+      "anchor": "was unmistakably a wall, built from rocks cut into",
+      "range": [
+        2132,
+        2182
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Unnamed（柜台后的一个）",
+      "did": "在两个垂直半墙（台面由压碎石块与黏合剂做成）后面，把盛着液体的杯子分发给自己的同群；液体气味是发酵水果，疑似来自 Tentacle 上那些整齐种植的植物。",
+      "anchor": "Unnamed behind the counter was giving out cups of fluid to",
+      "range": [
+        4451,
+        4509
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "看到一名披红边白色织物的 Unnamed 用蘸了亮红色矿物粉末的小工具在潮湿的墙上做标记（身旁一排罐子盛蓝、黑、绿、金色粉末），记下结果：一幅画着被花环绕、双臂张开、眼睛缩进膜的 Unnamed 半成品图画；确定 Unnamed 正在创作艺术（making art）。",
+      "anchor": "wall held a half-finished picture of an Unnamed surrounded",
+      "range": [
+        6921,
+        6979
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Unnamed（柜台后的）→ 同群 Unnamed",
+      "relation": "给同群分发液体杯子",
+      "anchor": "An Unnamed behind the counter was giving out cups",
+      "range": [
+        4448,
+        4497
+      ]
+    },
+    {
+      "pair": "Gardenpath → Unnamed",
+      "relation": "观察者：保持在被推测为可感知振动范围之外的距离",
+      "anchor": "careful to stay beyond the range at which they surmised",
+      "range": [
+        1119,
+        1174
+      ]
+    },
+    {
+      "pair": "同一小房间里的两三名 Unnamed 彼此",
+      "relation": "彼此把手伸进对方内部（reaching inside each other），Gardenpath 推断这是有意识的温柔",
+      "anchor": "only two or three Unnamed, reaching inside each other",
+      "range": [
+        5624,
+        5677
+      ]
+    },
+    {
+      "pair": "Gardenpath → Column",
+      "relation": "印证 Column 关于“在原境中观察”的忠告是对的",
+      "anchor": "Column was right about observing the Unnamed in context.",
+      "range": [
+        4685,
+        4741
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "two or three",
+      "fact": "每间小房间里只有两三名 Unnamed",
+      "anchor": "a series of smaller rooms, each holding only two or three",
+      "range": [
+        5584,
+        5641
+      ]
+    },
+    {
+      "value": "two",
+      "fact": "公共大厅前有两个垂直半墙和一个台面",
+      "anchor": "fronted by two perpendicular half walls with countertops",
+      "range": [
+        4352,
+        4408
+      ]
+    },
+    {
+      "value": "two different pots",
+      "fact": "Unnamed 有时从两个不同的罐子取色混合",
+      "anchor": "sometimes mixing colors from two different pots",
+      "range": [
+        6772,
+        6819
+      ]
+    }
+  ]
+}

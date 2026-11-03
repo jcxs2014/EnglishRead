@@ -1,0 +1,171 @@
+{
+  "chapter": "ch08",
+  "source": "text/ch08_chapter_8_the_lupanar.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "the two Unnamed",
+      "did": "Wandered along the path next to the alarmingly unfarmed walls carrying containers of fermented fluid, sat on a bench looking at the sky and drinking, and periodically erupted in vibrations; Gardenpath tottered toward the group on the two long arms of the modified suit.",
+      "anchor": "carried containers of fermented fluid and sat on a bench",
+      "range": [
+        602,
+        658
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "Guessed the first phrase 'XXX! XXXX XX XXXX XXXX XXX.' might be a greeting and had the suit vibrate a reply imitating the first phrase with a slightly different tone, engaging in mimicry.",
+      "anchor": "suit vibrated a reply, imitating the first phrase",
+      "range": [
+        1485,
+        1534
+      ]
+    },
+    {
+      "n": 3,
+      "who": "the two Unnamed",
+      "did": "Wrapped Gardenpath's arms around their bodies and pulled them upright, emitting nonlinguistic grunts of exertion, apparently to help the trembling arms of the outsider.",
+      "anchor": "Unnamed wrapped Gardenpath’s arms around their bodies",
+      "range": [
+        4086,
+        4139
+      ]
+    },
+    {
+      "n": 4,
+      "who": "the two Unnamed",
+      "did": "Led Gardenpath back to their habitat; at the road and gate Gardenpath stood straighter and withdrew arms and stamped lower arms on the ground; the companions turned down a narrow alley, paused to vibrate and wave arms at the group leaning over the street from a balcony, held the container of fluid aloft, and someone on the balcony raised a smaller container in response.",
+      "anchor": "the Unnamed led Gardenpath back to their habitat.",
+      "range": [
+        4624,
+        4673
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath",
+      "did": "Inside the lupanar, saw groups of two or three Unnamed in each pod habitat puddled or ovaled on benches with many reaching inside each other, and surreptitiously activated the recorder in their suit to start filling their secret pink notebook.",
+      "anchor": "surreptitiously activated the recorder in their suit.",
+      "range": [
+        5941,
+        5994
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Murtis",
+      "did": "Touched their own membrane with one arm and said a word; after Gardenpath echoed 'Murtis' and tried 'Wine?', Murtis jumped up and poured a draft from a jug into a small container for Gardenpath, which held a pale-blue fluid smelling of fermented fruit juice and water.",
+      "anchor": "Murtis jumped up and poured a draft from a jug",
+      "range": [
+        8278,
+        8324
+      ]
+    },
+    {
+      "n": 7,
+      "who": "the Unnamed",
+      "did": "Called the building itself 'lupanar'; Gardenpath heard 'What is your name?' and a question involving numeric values repeatedly, collected hundreds of words (door, cup, table, chair, dice, bed, ocean, sky, balcony, and body parts) and saw the Unnamed pointing arms at the abstract pattern called 'writing' painted in lurid red on the wall across the street while vibrating about cunts and elections.",
+      "anchor": "The building itself was called “lupanar.”",
+      "range": [
+        9570,
+        9611
+      ]
+    },
+    {
+      "n": 8,
+      "who": "the Unnamed who stayed",
+      "did": "After Murtis and others ushered the remaining visitors out when light hit the balcony, the stayers moved chairs, picked up cups and plates, fluffed the flower bags and swept dirt and food scraps with a bundle of grass, and one of them went downstairs to dump a bucket of waste and prokaryotes into a hole beneath the stairs, joining the sewage stream flowing beneath the building to the sea.",
+      "anchor": "One of them went downstairs to dump a bucket of waste",
+      "range": [
+        11083,
+        11136
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Column → Gardenpath",
+      "relation": "Column had suggested manufacturing the ungainly woven plant outerwear for Gardenpath's facsimile Unnamed body, since some cultures had strict norms around adornments.",
+      "anchor": "Column had suggested manufacturing this ungainly outerwear",
+      "range": [
+        366,
+        424
+      ]
+    },
+    {
+      "pair": "the two Unnamed → Gardenpath",
+      "relation": "The two Unnamed wrapped Gardenpath's arms around their bodies and pulled them upright to help, so Gardenpath reasoned that helping an outsider had to be a sign of consciousness.",
+      "anchor": "Unnamed wrapped Gardenpath’s arms around their bodies",
+      "range": [
+        4086,
+        4139
+      ]
+    },
+    {
+      "pair": "Murtis → Gardenpath",
+      "relation": "Murtis kept other Unnamed from talking to Gardenpath, always nearby and shooing them away.",
+      "anchor": "Murtis was always nearby, shooing them away.",
+      "range": [
+        9096,
+        9140
+      ]
+    },
+    {
+      "pair": "Murtis → Gardenpath",
+      "relation": "After repeating the word, Murtis patted Gardenpath's sensor bulb and pointed at the bench, welcome to stay a while.",
+      "anchor": "Murtis patted Gardenpath’s sensor bulb",
+      "range": [
+        8622,
+        8660
+      ]
+    },
+    {
+      "pair": "Gardenpath → Professor Arch",
+      "relation": "Gardenpath recalled Professor Arch's warnings that some examiners would argue altruism was a sign of inferior cognition.",
+      "anchor": "they recalled Professor Arch’s warnings",
+      "range": [
+        4434,
+        4473
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "two",
+      "fact": "a group of two Unnamed wandered along the path carrying containers of fermented fluid",
+      "anchor": "A group of two Unnamed wandered along the path",
+      "range": [
+        511,
+        557
+      ]
+    },
+    {
+      "value": "hundreds",
+      "fact": "words Gardenpath captured, storing them in random order with tentative translations",
+      "anchor": "They captured hundreds of words,",
+      "range": [
+        9612,
+        9644
+      ]
+    },
+    {
+      "value": "second",
+      "fact": "level of the lupanar Gardenpath arrived on, a large room flanked by windows facing the balcony",
+      "anchor": "They had arrived on the second level",
+      "range": [
+        7342,
+        7378
+      ]
+    },
+    {
+      "value": "two or three",
+      "fact": "Unnamed in each pod habitat, puddled or ovaled on benches",
+      "anchor": "groups of two or three Unnamed were in each pod habitat",
+      "range": [
+        6465,
+        6520
+      ]
+    }
+  ]
+}

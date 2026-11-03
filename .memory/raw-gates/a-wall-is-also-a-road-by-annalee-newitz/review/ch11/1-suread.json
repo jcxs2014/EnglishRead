@@ -1,0 +1,162 @@
+{
+  "chapter": "ch11",
+  "source": "text/ch11_chapter_11_men.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "在九十次日出之后，激活返回信标、返回家乡",
+      "anchor": "activate their return beacon and transit home",
+      "range": [
+        95,
+        140
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Buttress",
+      "did": "转达 Memory 的便条：接下来几次旅程会给一个新簇伴（Cobblestone 未通过 First 已离开）",
+      "anchor": "The Memory sent a note saying we’d get a new clustermate",
+      "range": [
+        1356,
+        1412
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Gardenpath",
+      "did": "到了实验室，把自己的 galaxysuit 接到 Oriel 旁边的工作站，检索在 galaxysuit 上做半透孔的论文",
+      "anchor": "connected their galaxysuit to the workstation next to Oriel",
+      "range": [
+        4474,
+        4533
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Column",
+      "did": "站在 Gardenpath 上方，问他们为什么在读关于银河采矿（galactic mining）的论文",
+      "anchor": "Why are you reading papers about galactic mining?",
+      "range": [
+        4994,
+        5043
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath",
+      "did": "向 Column 和 Oriel 讲述 Unnamed 的排泄仪式：固体被埋掉或冲进海里，液体被储存在缸里再用",
+      "anchor": "Solid is buried or flushed out to sea",
+      "range": [
+        6335,
+        6372
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath",
+      "did": "报告 Murtis 的说法：Unnamed 自称 men，用来称人的词就是 men",
+      "anchor": "they said ‘men.’ The word for people is men.",
+      "range": [
+        8473,
+        8517
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Column",
+      "did": "要求 Gardenpath 绝不可对任何考官提起此事，并说若再犯就亲自向 Academic Senate（学术元老院）举报",
+      "anchor": "You must never speak of this to any of your examiners",
+      "range": [
+        13244,
+        13297
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "承认自己已经在用微型触手做实验，并进到 Murtis 体内了解其化学",
+      "anchor": "I have been experimenting already, with a micro-tentacle",
+      "range": [
+        12145,
+        12201
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Buttress → Gardenpath",
+      "relation": "簇伴（clusterbuddy）：招呼并把书扔进 Gardenpath 隔壁的格子",
+      "anchor": "clusterbuddy!” Buttress tossed the book",
+      "range": [
+        568,
+        607
+      ]
+    },
+    {
+      "pair": "Gardenpath → Murtis",
+      "relation": "线人与研究对象：Gardenpath 称 Murtis 为线人，并承认进过 Murtis 体内了解其化学",
+      "anchor": "I did go inside Murtis to learn more about their chemistry",
+      "range": [
+        12257,
+        12315
+      ]
+    },
+    {
+      "pair": "Column → Gardenpath",
+      "relation": "导师式警告：若再对 Unnamed 打开膜，就亲自向 Academic Senate 举报",
+      "anchor": "I will report you to the Academic Senate myself",
+      "range": [
+        13352,
+        13399
+      ]
+    },
+    {
+      "pair": "Oriel → Gardenpath",
+      "relation": "朋友：搂住 Gardenpath 打闹，几乎进到他们里面",
+      "anchor": "Oriel almost went inside them as they mock tussled",
+      "range": [
+        11624,
+        11674
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "ninety",
+      "fact": "在九十次日出之后，Gardenpath 才得以回家",
+      "anchor": "After ninety sunrises, Gardenpath was grateful",
+      "range": [
+        45,
+        91
+      ]
+    },
+    {
+      "value": "two",
+      "fact": "Unnamed 把自己分成两种性别：men 与 women",
+      "anchor": "the Unnamed divide themselves up into two genders",
+      "range": [
+        6844,
+        6893
+      ]
+    },
+    {
+      "value": "hundreds",
+      "fact": "Creska 有数百种性别，并且都精确映射到不同的遗传标记",
+      "anchor": "They have hundreds of genders, all mapped precisely",
+      "range": [
+        7149,
+        7200
+      ]
+    },
+    {
+      "value": "Six",
+      "fact": "Column 身上又滑出六只眼睛，全都对着 Gardenpath",
+      "anchor": "Six more eyes slid out of their body",
+      "range": [
+        6981,
+        7017
+      ]
+    }
+  ]
+}

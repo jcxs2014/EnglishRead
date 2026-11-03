@@ -1,0 +1,153 @@
+{
+  "chapter": "ch22",
+  "source": "text/ch22_chapter_22_secret_adviser.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "到 Open Lab 自己最喜欢的凳子上编程 galaxysuit，并把秘密的粉色笔记本塞进通风口",
+      "anchor": "program their galaxysuit and slot their secret pink notebook",
+      "range": [
+        1991,
+        2051
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Column",
+      "did": "在办公时间结束后主动提出：可以继续在幕后当 Gardenpath 的导师（secret cultural studies professor）",
+      "anchor": "I can keep advising you on background",
+      "range": [
+        3437,
+        3474
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Column",
+      "did": "质问 Gardenpath 是否正把 suit 改装成读取 director cells 离子信号的东西",
+      "anchor": "your suit to read ionic signals from director cells",
+      "range": [
+        5673,
+        5724
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Gardenpath",
+      "did": "被问「这对 Tentacle 人有什么帮助」时，举《语言日志》在第一次云战争中帮助 Skiff 人为例作答",
+      "anchor": "helped the people of Skiff during the first Cloud War",
+      "range": [
+        6712,
+        6765
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Column",
+      "did": "被该说法激怒、发出尖刺，随后滚着窜出窗外离开，一次也不回头看",
+      "anchor": "They rolled away and spurted out the window",
+      "range": [
+        7548,
+        7591
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Plumline",
+      "did": "让 Wainscot 把 Gardenpath 安置在 Plinth 的旧工位，并让 Gardenpath 预约见自己、尽快考 Third",
+      "anchor": "why don’t you get Gardenpath settled in Plinth’s old workstation?",
+      "range": [
+        9920,
+        9985
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Wainscot",
+      "did": "贴膜低声私下提醒 Gardenpath：小心 Plumline 的脾气，最好让他们想说什么就说什么并同意",
+      "anchor": "Be careful with Investigator Plumline. They have a temper",
+      "range": [
+        11610,
+        11667
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "把 galaxysuit 铺到高级工作台上、接入那台似乎没人用过的编程机，输入代码实现 director cell reader",
+      "anchor": "input their code to implement a director cell reader",
+      "range": [
+        11974,
+        12026
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Wainscot → Gardenpath",
+      "relation": "clustermates（同一集群成员）",
+      "anchor": "I understand that you two are clustermates.",
+      "range": [
+        9866,
+        9909
+      ]
+    },
+    {
+      "pair": "Column → Gardenpath",
+      "relation": "Column 自称是 Gardenpath 的秘密文化研究教授（导师）",
+      "anchor": "as your secret cultural studies professor",
+      "range": [
+        3914,
+        3955
+      ]
+    },
+    {
+      "pair": "Plumline → Gardenpath",
+      "relation": "Plumline 把 Gardenpath 收进 Plumline Lab（newest acquisition）",
+      "anchor": "Our newest acquisition! Welcome to the Plumline Lab!",
+      "range": [
+        9757,
+        9809
+      ]
+    },
+    {
+      "pair": "Gardenpath → Murtis",
+      "relation": "Gardenpath 上次与 Murtis 发生过性关系（并从其中得到氨基酸）",
+      "anchor": "the last time they had sex with Murtis",
+      "range": [
+        4285,
+        4323
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "the size of three Open Labs",
+      "fact": "Plumline Lab 的占地相当于三个 Open Lab",
+      "anchor": "the size of three Open Labs",
+      "range": [
+        7909,
+        7936
+      ]
+    },
+    {
+      "value": "the Third",
+      "fact": "Gardenpath 被要求尽快参加的第三级考试",
+      "anchor": "You’ll want to take the Third as soon as possible",
+      "range": [
+        10048,
+        10097
+      ]
+    },
+    {
+      "value": "within a year",
+      "fact": "Gardenpath 曾承诺在一年内返回 Tentacle",
+      "anchor": "They had promised to return within a year.",
+      "range": [
+        1506,
+        1548
+      ]
+    }
+  ]
+}

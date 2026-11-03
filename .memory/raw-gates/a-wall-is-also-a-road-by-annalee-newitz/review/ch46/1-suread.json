@@ -1,0 +1,153 @@
+{
+ "chapter": "ch46",
+ "source": "text/ch46_chapter_46_blessed_by_isis.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Peristyle",
+   "did": "Peristyle’s bond with Julia and Murtis had grown into an effect that other Unnamed could see",
+   "anchor": "an effect that was obvious to other Unnamed",
+   "range": [
+    134,
+    177
+   ]
+  },
+  {
+   "n": 2,
+   "who": "Milk Road customers",
+   "did": "remarked enviously that the two women looked much younger than their age",
+   "anchor": "Customers at the Milk Road would occasionally remark",
+   "range": [
+    179,
+    231
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Julia",
+   "did": "said she and Murtis were both blessed by Isis, whose temple was down the street",
+   "anchor": "they were both blessed by Isis, whose temple was right down",
+   "range": [
+    339,
+    398
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Julia",
+   "did": "had one foot paralyzed after a fall, and Peristyle had no way to fix it",
+   "anchor": "One of Julia’s feet was paralyzed after a fall",
+   "range": [
+    588,
+    634
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Murtis",
+   "did": "complained of hip pain on rainy days; Peristyle could ease the ache but not reverse the damage",
+   "anchor": "Murtis complained of hip pain on rainy days",
+   "range": [
+    682,
+    725
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Peristyle",
+   "did": "held Murtis in bed each night and tried to catalog everything into a gnosome",
+   "anchor": "catalog everything, to package the scene up",
+   "range": [
+    972,
+    1015
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Peristyle",
+   "did": "left Tharros as summer was starting to singe the grass",
+   "anchor": "Peristyle left as summer was starting to singe the grass",
+   "range": [
+    1916,
+    1972
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Gardenpath",
+   "did": "was certain the ancient nuraghe would always stand like an outpost of Rational architecture above Tharros",
+   "anchor": "The ancient nuraghe would always stand like an outpost",
+   "range": [
+    2080,
+    2134
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Murtis → Peristyle",
+   "relation": "Murtis says it is because of Peristyle that she gets to grow old with her best friend",
+   "anchor": "I get to grow old with my best friend",
+   "range": [
+    1612,
+    1649
+   ]
+  },
+  {
+   "pair": "Murtis → Peristyle and Fenestra",
+   "relation": "Murtis asks whether Peristyle will grow old with Fenestra too; Peristyle answers that is the plan",
+   "anchor": "You’re going to do that too, right? With Fenestra?",
+   "range": [
+    1739,
+    1789
+   ]
+  },
+  {
+   "pair": "Julia and Murtis → Isis",
+   "relation": "they were both blessed by Isis, whose temple was right down the street",
+   "anchor": "blessed by Isis, whose temple was right down the street",
+   "range": [
+    354,
+    409
+   ]
+  },
+  {
+   "pair": "Peristyle → Murtis",
+   "relation": "when Peristyle was there she could ease the ache in Murtis’s hip",
+   "anchor": "When Peristyle was there, she could ease the ache",
+   "range": [
+    727,
+    776
+   ]
+  },
+  {
+   "pair": "Milk Road → lovers of Sappho",
+   "relation": "the Milk Road kept its tradition of hosting lovers of Sappho after hours",
+   "anchor": "hosting lovers of Sappho after hours",
+   "range": [
+    1303,
+    1339
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "two",
+   "fact": "the two women (Julia and Murtis) appeared much younger than they were",
+   "anchor": "the two women appeared much younger than they were",
+   "range": [
+    247,
+    297
+   ]
+  },
+  {
+   "value": "One",
+   "fact": "one of Julia’s feet was paralyzed after a fall",
+   "anchor": "One of Julia’s feet was paralyzed after a fall, and there",
+   "range": [
+    588,
+    645
+   ]
+  }
+ ]
+}

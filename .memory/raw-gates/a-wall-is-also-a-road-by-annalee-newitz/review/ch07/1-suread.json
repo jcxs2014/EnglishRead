@@ -1,0 +1,171 @@
+{
+  "chapter": "ch07",
+  "source": "text/ch07_chapter_7_becoming_unnamed.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "Forty journeys had passed since Gardenpath last visited Tentacle; half that time was burned in frantic preparation for the First and the other half was rotted by institutional hurdles.",
+      "anchor": "forty journeys since Gardenpath last visited Tentacle.",
+      "range": [
+        81,
+        135
+      ]
+    },
+    {
+      "n": 2,
+      "who": "the Science Division",
+      "did": "Announced a hitherto unknown rule that any student doing fieldwork in the galaxy had to score high marks in a tedious seminar devoted to planetsuit engineering, which Gardenpath took as targeting them.",
+      "anchor": "the Science Division announced a hitherto unknown rule",
+      "range": [
+        544,
+        598
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Professor Arch",
+      "did": "Was sympathetic but shrugged when Gardenpath complained, saying it wouldn't be easy and that Gardenpath could probably teach the class themself.",
+      "anchor": "Professor Arch was sympathetic, but shrugged",
+      "range": [
+        858,
+        902
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Gardenpath",
+      "did": "Used the seminar to track down Barnloft's specs for a planetsuit modification that would mold the body into an Unnamed, did not share the discovery with the seminar, and got a perfect score on the final exam.",
+      "anchor": "managed to track down Barnloft’s specs for a planetsuit",
+      "range": [
+        1447,
+        1502
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath",
+      "did": "Modeled their new morphology on the Unnamed they had seen making art, giving the suit a setting that cinched the body into an elongated posture with four arms, two eyes, an extremely limited organ for smell, and a tube for generating vibrations.",
+      "anchor": "They modeled their new morphology on the Unnamed",
+      "range": [
+        2392,
+        2440
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Column",
+      "did": "Scrunched by in the Open Lab with a ridiculously tall pile of books swaying in seven arms; the stack collapsed, and Gardenpath rolled to the rescue, grabbing the chitinous casings and easing the volumes onto the bench.",
+      "anchor": "Column scrunched by with a ridiculously tall pile of books",
+      "range": [
+        3037,
+        3095
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Column",
+      "did": "Advised Gardenpath that the Second requires building on the data submitted for the First, and that targeted data gathering was needed to bring the food webs to life - analyzing what makes them sustainable and what rips them apart.",
+      "anchor": "You need to do some very targeted data gathering",
+      "range": [
+        3693,
+        3741
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Column",
+      "did": "Gave Gardenpath a dirty pink notebook that had belonged to one of Column's own students who did a brilliant analysis of an ancient manuscript by Cinderblock, saying it had been headed for the freebie bin; Column put it in a vent so the notebook plumped back up.",
+      "anchor": "This belonged to one of my students who did a brilliant",
+      "range": [
+        4348,
+        4403
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Professor Arch → Gardenpath",
+      "relation": "Arch was sympathetic but shrugged at Gardenpath's complaints and warned the work would not be easy.",
+      "anchor": "Professor Arch was sympathetic, but shrugged",
+      "range": [
+        858,
+        902
+      ]
+    },
+    {
+      "pair": "Column → Gardenpath",
+      "relation": "Column gave Gardenpath the pink notebook that had belonged to one of Column's own students.",
+      "anchor": "This belonged to one of my students who did a brilliant",
+      "range": [
+        4348,
+        4403
+      ]
+    },
+    {
+      "pair": "Gardenpath → the Unnamed they copied",
+      "relation": "Gardenpath modeled the new morphology on the Unnamed seen making art, feeling a kinship with this creature who would not allow a wall to lie fallow.",
+      "anchor": "a kinship with this creature who wouldn’t allow a wall",
+      "range": [
+        2562,
+        2616
+      ]
+    },
+    {
+      "pair": "Gardenpath → Barnloft",
+      "relation": "Gardenpath relied on Barnloft's specs for the planetsuit modification that would turn them into an Unnamed.",
+      "anchor": "Barnloft’s specs for a planetsuit modification",
+      "range": [
+        1469,
+        1515
+      ]
+    },
+    {
+      "pair": "Gardenpath → Column",
+      "relation": "Gardenpath promised to share the notebook with Column when they got back.",
+      "anchor": "I’ll share it with you when I get back.",
+      "range": [
+        4695,
+        4734
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "forty",
+      "fact": "journeys since Gardenpath last visited Tentacle",
+      "anchor": "forty journeys since Gardenpath last visited Tentacle.",
+      "range": [
+        81,
+        135
+      ]
+    },
+    {
+      "value": "seven",
+      "fact": "arms Column used to carry the ridiculously tall pile of books",
+      "anchor": "swaying precariously in seven arms.",
+      "range": [
+        3096,
+        3131
+      ]
+    },
+    {
+      "value": "four",
+      "fact": "arms of the Unnamed suit setting (with two eyes and an extremely limited organ for smell)",
+      "anchor": "four arms, two eyes, an extremely limited organ for smell",
+      "range": [
+        2837,
+        2894
+      ]
+    },
+    {
+      "value": "two",
+      "fact": "field notebooks Gardenpath would keep - one for food webs, one for the possibility that the Spigot harbored culture",
+      "anchor": "There would be two field notebooks now.",
+      "range": [
+        4738,
+        4777
+      ]
+    }
+  ]
+}

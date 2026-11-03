@@ -1,0 +1,171 @@
+{
+ "chapter": "ch31",
+ "source": "text/ch31_chapter_31_real_genius.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Wainscot",
+   "did": "告知 Gardenpath：Plumline 对实验室全体成员做 stack ranking 并公开，然后解雇排名垫底者",
+   "anchor": "Plumline has a stack ranking of all the lab members",
+   "range": [
+    1123,
+    1174
+   ]
+  },
+  {
+   "n": 2,
+   "who": "Plumline",
+   "did": "在全实验室会议上宣讲“真正的天才”，并当场宣布开除 Turret 与 Lintel（“收拾东西”）",
+   "anchor": "Turret and Lintel, you can pack up.",
+   "range": [
+    3504,
+    3539
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Turret",
+   "did": "反驳 Plumline 说她“每项测试都不及格”：称自己最近通过了第四次考试，考官还让她去报考第五次",
+   "anchor": "I recently passed the Fourth and my examiners asked",
+   "range": [
+    4302,
+    4353
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Turret",
+   "did": "指控 Plumline 赶她走，是因为她一直抗议科学部参与云战争（用他们的数据造武器、在考前拿他们测试新毒物）",
+   "anchor": "I’ve been protesting the Science Division’s collaboration",
+   "range": [
+    5262,
+    5319
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Plumline",
+   "did": "吼出“GET OUT. NOW!”，话语裹着强效甲烷云与致短暂僵直恐惧的物质，把 Turret 逼出实验室",
+   "anchor": "lab on a powerful cloud of methane",
+   "range": [
+    5504,
+    5538
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Gardenpath",
+   "did": "在图书馆学习室提议先收集数据再动手：自己去问 Column，Wainscot 去 Stream 设施找 Plumline 的前学生，其余人分头打听，两次旅程后（Harvest 期间）原地再聚",
+   "anchor": "Wainscot will track down those former students",
+   "range": [
+    14890,
+    14936
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Foundation",
+   "did": "讲述 Plinth 的遭遇：Plumline 发表论文时把 Plinth 关于金属合金的整个数据库当作自己的成果放进附录，使 Plinth 再无可能被邀报考第五次，最终离开",
+   "anchor": "included Plinth’s entire database as an appendix",
+   "range": [
+    10708,
+    10756
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Plumline",
+   "did": "以与 Investigator Redoubt 合作为名，派 Gardenpath 回 Tentacle 取 director cells 样本，并称可让她参与合著文章",
+   "anchor": "I have a side project for you related to director cells",
+   "range": [
+    27438,
+    27493
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Wainscot → Gardenpath",
+   "relation": "Wainscot 说 Gardenpath 是他在 Memory 交到的第一个真正的朋友（由不安的休战变成真正的友谊）",
+   "anchor": "you are the first true friend I’ve made at the Memory",
+   "range": [
+    1584,
+    1637
+   ]
+  },
+  {
+   "pair": "Column → Gardenpath",
+   "relation": "Column 是 Gardenpath 的“前非正式导师”（Professor Column）",
+   "anchor": "my former informal adviser, Professor Column",
+   "range": [
+    13694,
+    13738
+   ]
+  },
+  {
+   "pair": "Foundation → Plinth",
+   "relation": "Foundation 说 Plinth 是她的朋友（并要求大家说出 Plinth 的名字）",
+   "anchor": "Foundation was fuming. “Plinth was my friend.",
+   "range": [
+    10201,
+    10246
+   ]
+  },
+  {
+   "pair": "Wainscot → Column",
+   "relation": "Gardenpath 看出 Wainscot 与 Column 手臂探入彼此、散出愉悦激素，怀疑两人在调情",
+   "anchor": "Are they flirting? I really think they might be flirting.",
+   "range": [
+    21062,
+    21119
+   ]
+  },
+  {
+   "pair": "Turret → Gardenpath",
+   "relation": "Turret 问 Gardenpath 是不是也是移民（云族人与理性人的双重身份）",
+   "anchor": "you liked it. Are you an immigrant too?",
+   "range": [
+    16986,
+    17025
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "two years",
+   "fact": "距他们向 Murtis 表白（说爱他们）已过去两年",
+   "anchor": "already been two years since they had told Murtis",
+   "range": [
+    167,
+    216
+   ]
+  },
+  {
+   "value": "eight",
+   "fact": "另有八名 Plumline 实验室学生同他们一起下墙去图书馆",
+   "anchor": "Before long, they had eight other Plumline Lab students",
+   "range": [
+    6878,
+    6933
+   ]
+  },
+  {
+   "value": "two journeys",
+   "fact": "Gardenpath 约定两次旅程后（Harvest 期间）在同一处会合",
+   "anchor": "Let’s meet here in two journeys, during Harvest.",
+   "range": [
+    15100,
+    15148
+   ]
+  },
+  {
+   "value": "the Fifth",
+   "fact": "Plumline 断言 Turret 毫无通过第五次考试的可能",
+   "anchor": "You have no hope of passing the Fifth.",
+   "range": [
+    4583,
+    4621
+   ]
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+  "chapter": "ch23",
+  "source": "text/ch23_chapter_23_taberna_life.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Murtis",
+      "did": "在 lupanar 二楼坐在两个饿相的辅助兵中间谈生意，坚持要价两倍半（客人只肯两倍）",
+      "anchor": "sitting between two hungry-looking auxiliary soldiers",
+      "range": [
+        1417,
+        1470
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Murtis",
+      "did": "看见 Peristyle 后跳起身、穿过拥挤房间走到她面前，说「你回来了」、并说春天她没来时自己很担心",
+      "anchor": "She jumped up, swirling through the crowded room",
+      "range": [
+        2001,
+        2049
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Murtis",
+      "did": "对想叫她回去的起哄客人骂「Fuck your own hole, country boy!」并比手势",
+      "anchor": "Fuck your own hole, country boy!",
+      "range": [
+        3044,
+        3076
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Murtis",
+      "did": "回答 Peristyle 关于没人修墙的问题：地震后有人搬走、有人还没钱修；Forum 区部分仍在修，很多神庙也一样、祭献改在庭院里做",
+      "anchor": "Even parts of the Forum district are still closed for repairs",
+      "range": [
+        4120,
+        4181
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Murtis 与 Peristyle",
+      "did": "合力从骡车上卸下二十只双耳瓶，小心搬进后屋",
+      "anchor": "Murtis and Peristyle unloaded twenty amphorae from the cart",
+      "range": [
+        10421,
+        10480
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Hercules",
+      "did": "邀请两人下周去 Herculaneum 富人 Lucius 的别墅派对，说那里有大量食物酒水、乐队舞蹈和 orgy room",
+      "anchor": "huge party at this rich patron’s villa in Herculaneum",
+      "range": [
+        10655,
+        10708
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Murtis",
+      "did": "追问 Lucius 是否就是几年前把一名奴隶献给 Bacchus 的那个人（Hercules 的朋友说他也听过这传闻）",
+      "anchor": "sacrificed one of his slaves to Bacchus",
+      "range": [
+        11199,
+        11238
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Peristyle",
+      "did": "想到再没有人监督/评判她的文化研究后答应同去，说「Sure, let’s do it.」",
+      "anchor": "Sure, let’s do it.",
+      "range": [
+        12191,
+        12209
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Murtis → Julia",
+      "relation": "Murtis 在 Julia 的 taberna 工作，Julia 可能让她当经理",
+      "anchor": "she might make me the manager",
+      "range": [
+        5100,
+        5129
+      ]
+    },
+    {
+      "pair": "Peristyle → Murtis",
+      "relation": "原文称二人是朋友（the two friends），且两人互相接吻",
+      "anchor": "one a woman, and one a person in a woman suit",
+      "range": [
+        3138,
+        3183
+      ]
+    },
+    {
+      "pair": "Hercules → 同池男子",
+      "relation": "Hercules 与池中另一名男子是恋人（手臂环肩、当众接吻）",
+      "anchor": "Hercules turned to kiss his friend on the lips.",
+      "range": [
+        5906,
+        5953
+      ]
+    },
+    {
+      "pair": "Julia → Peristyle",
+      "relation": "Julia 被告知 Peristyle 是来自星星另一侧的学者",
+      "anchor": "She’s a scholar from the other side of the stars.",
+      "range": [
+        9601,
+        9650
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "two and a half times the price",
+      "fact": "Murtis 对两名男客开出的价钱（客只肯给两倍）",
+      "anchor": "two and a half times the price",
+      "range": [
+        1595,
+        1625
+      ]
+    },
+    {
+      "value": "twenty amphorae",
+      "fact": "从骡车上卸下的双耳瓶数量",
+      "anchor": "unloaded twenty amphorae from the cart",
+      "range": [
+        10442,
+        10480
+      ]
+    },
+    {
+      "value": "ten years after the quake",
+      "fact": "地震十年后仍有半毁建筑",
+      "anchor": "ten years after the quake",
+      "range": [
+        3577,
+        3602
+      ]
+    },
+    {
+      "value": "three gutted shops",
+      "fact": "Peristyle 连看三家空壳店铺后忍不住开口问",
+      "anchor": "After seeing three gutted shops in a row",
+      "range": [
+        3864,
+        3904
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "chapter": "ch02",
+  "source": "text/ch02_chapter_2_a_step_away_from_them.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "课后单独留下，问 Arch 教授：如果田野工作取决于某件“也许为真”的事该怎么办",
+      "anchor": "what you do if your fieldwork depends on something",
+      "range": [
+        1236,
+        1286
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "向 Arch 交代本科时出于无聊观测了银河盘七百千颗行星，发现一颗带有呼吸的明确信号",
+      "anchor": "one with the unmistakable signature of respiration",
+      "range": [
+        2529,
+        2579
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Professor Arch",
+      "did": "警告 Gardenpath 不要对 Spigot 有生命做戏剧化声明，说这可能被视为无礼甚至是骗子，并要假设考官带敌意",
+      "anchor": "You might be seen as impertinent, or possibly a fraud.",
+      "range": [
+        4118,
+        4172
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Gardenpath",
+      "did": "在 Open Lab 的 matter programming station 上手工打造 galaxysuit；该服在充能后能把身体压缩到原尺寸的一小部分",
+      "anchor": "compress Gardenpath’s body down to a fraction of its size",
+      "range": [
+        7680,
+        7737
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Oriel",
+      "did": "从自己 suit 口袋里掏出营养吸包劝 Gardenpath 带食物；Gardenpath 一开始嫌浪费时间，随后承认自己从未那样想过",
+      "anchor": "pulled out a clever sippy packet for nutrients",
+      "range": [
+        10084,
+        10130
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Oriel",
+      "did": "主动提出给 Gardenpath 一个 oath receptor；Gardenpath 接受，并在对方指导下做出自己的 oath receptor 塞进 Oriel 的膜",
+      "anchor": "Can I give you an oath receptor?",
+      "range": [
+        13543,
+        13575
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Gardenpath / Oriel",
+      "did": "倒数三下后让完成的 galaxysuit 附着上身；suit 游过并进入 Gardenpath 的身体，接管器官与受体",
+      "anchor": "The suit swam across and inside Gardenpath’s body",
+      "range": [
+        16909,
+        16958
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "在 Transit Hall 的重力井准备室把自己压缩到不足正常尺寸的千分之一，经操作员核对坐标后钻进 travel spore 出发",
+      "anchor": "squashed down to less than a thousandth of their normal size",
+      "range": [
+        23749,
+        23809
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Gardenpath → Professor Arch",
+      "relation": "导师关系：Arch 兑现承诺，课后留人讨论极端环境生命体分析并暗示用不可伪造的视频记录发现",
+      "anchor": "Arch made good on their promise to mentor Gardenpath",
+      "range": [
+        5989,
+        6041
+      ]
+    },
+    {
+      "pair": "Gardenpath ↔ Oriel",
+      "relation": "suit 工作台上的伙伴、唯一对研究计划发出好奇而非警告的人；Oriel 称其为 best friend 并互换 oath receptor 承诺不死的约定",
+      "anchor": "I don’t want to lose my best friend at the Memory",
+      "range": [
+        13187,
+        13236
+      ]
+    },
+    {
+      "pair": "Gardenpath ↔ Wainscot",
+      "relation": "同一 pod 的 clustermate，出发前分别去银河盘与 Silver Stream；临行互呛（Enjoy the mines / Good luck with nothing）",
+      "anchor": "gave Wainscot an ironic salute. “Enjoy the mines.”",
+      "range": [
+        20882,
+        20932
+      ]
+    },
+    {
+      "pair": "Gardenpath → Transit Hall 操作员",
+      "relation": "操作员确认目的地是银河盘内地址并放行，让其穿过舱门进入 travel spore",
+      "anchor": "This is an address inside the galactic plane.",
+      "range": [
+        24257,
+        24302
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "seven hundred thousand",
+      "fact": "Gardenpath 本科在课堂之外观测过的银河盘行星数量",
+      "anchor": "observed seven hundred thousand planets in the galactic disk",
+      "range": [
+        2334,
+        2394
+      ]
+    },
+    {
+      "value": "fifty journeys",
+      "fact": "Gardenpath 用功做 Methods 作业并跑模拟所耗费的 journey 数",
+      "anchor": "Gardenpath told themself over the next fifty journeys",
+      "range": [
+        183,
+        236
+      ]
+    },
+    {
+      "value": "ten journeys",
+      "fact": "课业结束后到 galaxysuit 躺在工作台上完成之间经过的 journey 数",
+      "anchor": "ten journeys since they finished their coursework",
+      "range": [
+        8940,
+        8989
+      ]
+    },
+    {
+      "value": "Two-thirds",
+      "fact": "Gardenpath 说班上会有三分之二的同学去 Silver Stream 做田野工作",
+      "anchor": "Two-thirds of our class will be doing fieldwork there",
+      "range": [
+        19379,
+        19432
+      ]
+    }
+  ]
+}

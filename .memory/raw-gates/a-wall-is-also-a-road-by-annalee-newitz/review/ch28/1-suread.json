@@ -1,0 +1,162 @@
+{
+  "chapter": "ch28",
+  "source": "text/ch28_chapter_28_what_would_epicurus_do.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Peristyle",
+      "did": "从火山坡溪流边现身时正处在一场排气事件中（上方岩层裂隙喷出火焰与二氧化硫）",
+      "anchor": "found herself in the middle of an outgassing event",
+      "range": [
+        168,
+        218
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Peristyle",
+      "did": "沿山下走，沿途布设更多传感器",
+      "anchor": "followed the water down the mountain, planting more sensors",
+      "range": [
+        534,
+        593
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Peristyle",
+      "did": "按 Plumline 的命令，把与山相关的复杂图像与气味打包成一份记忆",
+      "anchor": "packaged up a memory of the complex images and smells",
+      "range": [
+        1504,
+        1557
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Peristyle",
+      "did": "把关于 Murtis 的记忆折进一个伪装成废物液泡的 gnosome 里藏起",
+      "anchor": "She folded her memories of Murtis inside a gnosome disguised",
+      "range": [
+        1964,
+        2024
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Murtis",
+      "did": "说 Hercules 被 Lucius 一个令人毛骨悚然的朋友买下（祭祀后开了性派对）",
+      "anchor": "Somehow Hercules got one of Lucius’s creepy asshole friends",
+      "range": [
+        4063,
+        4122
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Murtis",
+      "did": "说她现在经营这家 taberna、有自己的钱",
+      "anchor": "I run the taberna now, so I have my own money.",
+      "range": [
+        4445,
+        4491
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Murtis",
+      "did": "说自己快三十岁了，五十年后不会还在",
+      "anchor": "I’m almost thirty. I’m not going to be around",
+      "range": [
+        7224,
+        7269
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Peristyle",
+      "did": "意识到她在 Murtis 眼里找到的那份共情很快就会终结",
+      "anchor": "an end to the empathy she had found there",
+      "range": [
+        7577,
+        7618
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Plumline → Peristyle",
+      "relation": "Plumline 下令，Peristyle 照其命令打包山的记忆",
+      "anchor": "As Plumline had ordered, Peristyle packaged up a memory",
+      "range": [
+        1469,
+        1524
+      ]
+    },
+    {
+      "pair": "Murtis → Curly",
+      "relation": "Murtis 叫 Curly 去照看前台（Curly 从花园应声进来）",
+      "anchor": "“Curly! Can you do the front? Peristyle is here!”",
+      "range": [
+        3321,
+        3370
+      ]
+    },
+    {
+      "pair": "Julia → Hercules",
+      "relation": "Hercules 欠 Julia 钱，双方因此做了交易",
+      "anchor": "He is, but he was in debt to Julia so they cut a deal.",
+      "range": [
+        4265,
+        4319
+      ]
+    },
+    {
+      "pair": "Lucius 的朋友 → Hercules",
+      "relation": "Lucius 的一个朋友把 Hercules 买下，祭祀后有性派对",
+      "anchor": "to buy him? After the sacrifice, they had a sex party",
+      "range": [
+        4123,
+        4176
+      ]
+    },
+    {
+      "pair": "Peristyle ↔ Murtis",
+      "relation": "互表爱意：Peristyle 说「我爱你」，Murtis 答「我也爱你」",
+      "anchor": "there. “I love you,” she said.",
+      "range": [
+        7613,
+        7643
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "thirty-five",
+      "fact": "Peristyle 估算第四考试大约需要三十五年（也可能五十年）",
+      "anchor": "roughly thirty-five years? Maybe fifty?",
+      "range": [
+        7045,
+        7084
+      ]
+    },
+    {
+      "value": "fifty",
+      "fact": "Murtis 说五十年后她不会还在",
+      "anchor": "not going to be around in fifty years.",
+      "range": [
+        7247,
+        7285
+      ]
+    },
+    {
+      "value": "thirty",
+      "fact": "Murtis 自称快三十岁",
+      "anchor": "I’m almost thirty. I’m not going to be around",
+      "range": [
+        7224,
+        7269
+      ]
+    }
+  ]
+}

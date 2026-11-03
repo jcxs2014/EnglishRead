@@ -1,0 +1,153 @@
+{
+ "chapter": "ch32",
+ "source": "text/ch32_chapter_32_writing_on_the_wall.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Peristyle",
+   "did": "重返庞贝：气泡没有变小、也没有更缓慢地释放能量，最终更可能是一次大规模爆炸",
+   "anchor": "it was obvious that the gas bubble hadn’t diminished",
+   "range": [
+    651,
+    703
+   ]
+  },
+  {
+   "n": 2,
+   "who": "柜台上的 Unnamed",
+   "did": "告诉 Peristyle：Murtis 与 Curly 去年动身去了 Neapolis",
+   "anchor": "I heard they left last year for Neapolis.",
+   "range": [
+    1268,
+    1309
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Hercules",
+   "did": "带 Peristyle 去看 Murtis 刻在墙上当告别留言的“MURTIS * FELATRIS”——用正式碑铭格式、把 lupanar 的粗话改成头衔的自嘲",
+   "anchor": "was the legend MURTIS * FELATRIS. She had written it",
+   "range": [
+    3622,
+    3674
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Hercules",
+   "did": "转述 Murtis 的临别警告（山会像 Aetna 一样爆），但自己不信爆炸传闻，说“人生短暂，留在你爱的地方”而拒走",
+   "anchor": "She said it would blow up soon, like Aetna.",
+   "range": [
+    4834,
+    4877
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Peristyle",
+   "did": "在 Neapolis 打听后找到 Murtis 与 Curly 所在的店：店名不叫 Julia’s taberna，而叫 the Milk Road（招牌是 Spigot 的壁画）",
+   "anchor": "No. It’s called the Milk Road.” He pointed up at the sky",
+   "range": [
+    6956,
+    7012
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Murtis",
+   "did": "拒绝谈论火山预兆：说已经三年却什么都没发生，请 Peristyle 别再说这种“疯话”",
+   "anchor": "it’s been three years and nothing has happened.",
+   "range": [
+    9175,
+    9222
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Peristyle",
+   "did": "应 Murtis 之请做例行维护，同时从她体内取出三枚 director cells 装进加压样本容器（Murtis 同意，新细胞会长回来）",
+   "anchor": "extracted three director cells and put them in",
+   "range": [
+    13747,
+    13793
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Peristyle",
+   "did": "回绝留满一整季，只答应留几周",
+   "anchor": "Not for the whole season. A few weeks.",
+   "range": [
+    14638,
+    14676
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Murtis → Curly",
+   "relation": "两人同在 Neapolis 经营这家店（店由 Murtis 和 Curly 打理）",
+   "anchor": "Julia’s taberna? It’s run by Murtis and Curly",
+   "range": [
+    6455,
+    6500
+   ]
+  },
+  {
+   "pair": "Hercules → Murtis",
+   "relation": "熟人：Hercules 与同伴去年夏天为 Murtis 办了告别派对",
+   "anchor": "we gave her a farewell party last summer",
+   "range": [
+    3269,
+    3309
+   ]
+  },
+  {
+   "pair": "Julia → Murtis",
+   "relation": "恩主：Julia 让 Murtis 有了自己的店，且一直对她们很好",
+   "anchor": "my own shop, and Julia has been good to us.",
+   "range": [
+    9270,
+    9313
+   ]
+  },
+  {
+   "pair": "Murtis → Peristyle",
+   "relation": "恋人重逢：Murtis 一见面就与 Peristyle 长吻（Peristyle 闻到情欲分子便沦陷）",
+   "anchor": "where they kissed for long enough that somebody in the back",
+   "range": [
+    8357,
+    8416
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "three years",
+   "fact": "距 Peristyle 上次造访庞贝已近三年",
+   "anchor": "It had been nearly three years since her last visit.",
+   "range": [
+    577,
+    629
+   ]
+  },
+  {
+   "value": "three",
+   "fact": "她从 Murtis 体内取出三枚 director cells",
+   "anchor": "she extracted three director cells",
+   "range": [
+    13743,
+    13777
+   ]
+  },
+  {
+   "value": "two",
+   "fact": "奴隶有自己的床、每人两件束腰外衣（Murtis 以此自夸待遇）",
+   "anchor": "They have their own beds and two tunics each",
+   "range": [
+    11495,
+    11539
+   ]
+  }
+ ]
+}

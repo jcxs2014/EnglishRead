@@ -1,0 +1,171 @@
+{
+  "chapter": "ch16",
+  "source": "text/ch16_chapter_16_food_webs.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "回到宿舍发现 Cobblestone 的空格间已装满书，推断 Memory 在他们离开 Tentacle 期间分派了新的同簇者",
+      "anchor": "Cobblestone’s empty cubby was now full of books",
+      "range": [
+        258,
+        305
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Oriel",
+      "did": "从窗口窥看后滑进房间，宣布 Memory 允许部分人换房、自己申请加入 Gardenpath 的簇（原簇在第二次考试中少了两人），并滚过去高兴地轻推 Gardenpath",
+      "anchor": "I requested to join your cluster! You were down one person",
+      "range": [
+        1437,
+        1495
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Wainscot",
+      "did": "从摊平状态聚起喷出一句阴沉的话：第二次考试不是玩笑，Plumline 每七个 journey 操练它一次以保持备战",
+      "anchor": "Plumline drills me every seven journeys",
+      "range": [
+        2112,
+        2151
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Gardenpath",
+      "did": "刺立起来继续和 Wainscot 就无关之事斗嘴（说出“War comes to distant worlds as well.”）；Oriel 退到盆里缩成椭圆",
+      "anchor": "Gardenpath spiked and continued to banter with Wainscot",
+      "range": [
+        2502,
+        2557
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath",
+      "did": "同簇合时发现自己膜在 Oriel 面前反常变薄、欲望上涌，勉力压下后才按维护的节奏打开膜",
+      "anchor": "Gardenpath’s membrane opened to its rhythms",
+      "range": [
+        4318,
+        4361
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath",
+      "did": "簇合后的分离时发现自己有一根半成形的触手在 Oriel 体内，带着一阵羞耻猛地抽出，并假装昏沉敷衍众人",
+      "anchor": "a tentacle half formed inside Oriel",
+      "range": [
+        4452,
+        4487
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Oriel",
+      "did": "问“Can I hug you?”后张开六条臂温暖地环抱 Gardenpath",
+      "anchor": "stretched out six arms to wrap warmly around them",
+      "range": [
+        6081,
+        6130
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "被拥抱后意识到必须尽快脱身，抓起一只桨船前往 Transit Hall，去缩小成另一个人",
+      "anchor": "They grabbed a paddler and headed to the Transit Hall",
+      "range": [
+        6180,
+        6233
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Oriel → Gardenpath",
+      "relation": "Oriel 请求加入 Gardenpath 的簇、成为同簇者（Memory 允许部分人换房；原簇在第二次考试中少了两人）",
+      "anchor": "I requested to join your cluster! You were down one person",
+      "range": [
+        1437,
+        1495
+      ]
+    },
+    {
+      "pair": "Plumline → Wainscot",
+      "relation": "Plumline 每七个 journey 操练 Wainscot 一次，为其第二次考试备战",
+      "anchor": "Plumline drills me every seven journeys",
+      "range": [
+        2112,
+        2151
+      ]
+    },
+    {
+      "pair": "Oriel → Gardenpath",
+      "relation": "Oriel 自称想做永远最好的朋友，想让 Gardenpath 高兴",
+      "anchor": "I thought you wanted to be best friends forever.",
+      "range": [
+        5025,
+        5073
+      ]
+    },
+    {
+      "pair": "Gardenpath → Oriel",
+      "relation": "Gardenpath 希望 Oriel 加入自己的簇之前先问过自己",
+      "anchor": "I wish you had asked me before joining my cluster.",
+      "range": [
+        4965,
+        5015
+      ]
+    },
+    {
+      "pair": "Gardenpath → Wainscot",
+      "relation": "同簇关系（Gardenpath 说他们每个 journey 都与 Wainscot 一起簇合）",
+      "anchor": "They managed to do it with Wainscot every journey",
+      "range": [
+        3814,
+        3863
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "seven",
+      "fact": "Plumline 每七个 journey 操练 Wainscot 一次",
+      "anchor": "Plumline drills me every seven journeys",
+      "range": [
+        2112,
+        2151
+      ]
+    },
+    {
+      "value": "one",
+      "fact": "Oriel 加入前 Gardenpath 的簇少一个人（Oriel 原簇则少两人）",
+      "anchor": "You were down one person, and my cluster lost two",
+      "range": [
+        1471,
+        1520
+      ]
+    },
+    {
+      "value": "two",
+      "fact": "Oriel 原来的簇在第二次考试中少了两个人",
+      "anchor": "my cluster lost two during the Second Exam",
+      "range": [
+        1501,
+        1543
+      ]
+    },
+    {
+      "value": "six",
+      "fact": "Oriel 伸出六条臂环抱 Gardenpath",
+      "anchor": "six arms to wrap warmly around them",
+      "range": [
+        6095,
+        6130
+      ]
+    }
+  ]
+}

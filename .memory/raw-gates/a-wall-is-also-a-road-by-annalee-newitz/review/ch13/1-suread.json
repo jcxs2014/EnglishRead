@@ -1,0 +1,171 @@
+{
+  "chapter": "ch13",
+  "source": "text/ch13_chapter_13_julia_s_new_place.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Peristyle一行（原文用 they）",
+      "did": "抵达Tentacle时发现一切都不对：巨石从山上滚落、海岸线变形，远处的庞贝同样扭曲，墙体半毁、房屋倒塌、街道满是瓦砾。",
+      "anchor": "everything was wrong. Boulders had tumbled from",
+      "range": [
+        121,
+        168
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Peristyle",
+      "did": "一边走向lupanar一边疯狂采集数据；停下分析后意识到冲击波造成这些破坏已近半年前——若早点留意，就会看到Unnamed早已在重建。",
+      "anchor": "the shock waves had done this damage nearly half",
+      "range": [
+        1168,
+        1216
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Peristyle",
+      "did": "看到Murtis住处第三层只剩一堵坍塌的墙、另两层状况也不佳后，不加思索沿熟悉的小巷跑向lupanar。",
+      "anchor": "Without thinking, Peristyle raced down the familiar",
+      "range": [
+        2830,
+        2881
+      ]
+    },
+    {
+      "n": 4,
+      "who": "lupanar里一位此前从未见过的Unnamed",
+      "did": "告诉Peristyle：Murtis正和别的女孩们一起住在Julia的寄宿屋里。",
+      "anchor": "She’s staying at Julia’s boardinghouse with some",
+      "range": [
+        3402,
+        3450
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Murtis",
+      "did": "现身门口，怒斥Peristyle『你他妈究竟去哪了』——只说是离开一小会儿，实际已一年多。",
+      "anchor": "Where the absolute fuck have you been? You said",
+      "range": [
+        5499,
+        5546
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Murtis",
+      "did": "说『我以为你死了』，随即抱住Peristyle（脸湿、身体微颤），叫她再也不要这样。",
+      "anchor": "“I thought you were dead.” And then they were hugging",
+      "range": [
+        6132,
+        6185
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Peristyle",
+      "did": "向Murtis坦白：自己来自银河之河（Milk Road）之外、星星少得多的地方，名字大意是Sphere。",
+      "anchor": "My home is beyond that, in a place where there are",
+      "range": [
+        6980,
+        7030
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Murtis",
+      "did": "透露自己来自非洲、迦太基以西的Mactar；现在是liberta，旧主人在她幼年买下她并给了这个希腊名。",
+      "anchor": "I’m from Mactar, west of Carthage.",
+      "range": [
+        7520,
+        7554
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Julia → Murtis",
+      "relation": "Murtis说Julia『是自己人』、会给她公平的分成（她如今在Julia处落脚，Julia买下了lupanar）。",
+      "anchor": "She’s going to give me a fair cut.",
+      "range": [
+        11838,
+        11872
+      ]
+    },
+    {
+      "pair": "Murtis → Peristyle",
+      "relation": "Peristyle这个名字是Murtis在那栋（后来的）Julia别墅里给ta取的。",
+      "anchor": "Murtis had given them the name Peristyle there",
+      "range": [
+        3676,
+        3722
+      ]
+    },
+    {
+      "pair": "Murtis → Peristyle",
+      "relation": "Murtis教会Peristyle关于庞贝的一切：语言、文化、如何在城里走动。",
+      "anchor": "You taught me everything I know about Pompeii.",
+      "range": [
+        8920,
+        8966
+      ]
+    },
+    {
+      "pair": "Julia → 亡夫（老酒商）",
+      "relation": "Julia的丈夫死在地震中，她继承了一切；正把别墅改成带浴场的大寄宿屋并买下lupanar。",
+      "anchor": "Her shitty old husband died in the quake and she",
+      "range": [
+        11296,
+        11344
+      ]
+    },
+    {
+      "pair": "Murtis → 旧主人",
+      "relation": "旧主人在她小时候把她买下、给她希腊名；她现在的身份是liberta。",
+      "anchor": "my old master bought me when I was a little girl",
+      "range": [
+        7629,
+        7677
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "more than a year",
+      "fact": "Murtis说Peristyle离开已一年多（for Murtis是数百天）。",
+      "anchor": "but it’s been more than a year!",
+      "range": [
+        5587,
+        5618
+      ]
+    },
+    {
+      "value": "five journeys",
+      "fact": "Peristyle距上次见Murtis只隔了五趟旅程。",
+      "anchor": "They had seen them only five journeys ago!",
+      "range": [
+        2787,
+        2829
+      ]
+    },
+    {
+      "value": "ten years",
+      "fact": "Murtis说Helen十年前已死，因此不可能被Peristyle见过。",
+      "anchor": "Really? Helen died ten years ago.",
+      "range": [
+        10766,
+        10799
+      ]
+    },
+    {
+      "value": "four levels",
+      "fact": "Julia别墅的楼梯从花园通向四层房间与阳台。",
+      "anchor": "Stairs led from the garden up through four levels",
+      "range": [
+        4305,
+        4354
+      ]
+    }
+  ]
+}

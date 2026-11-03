@@ -1,0 +1,171 @@
+{
+  "chapter": "ch09",
+  "source": "text/ch09_chapter_9_bed.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Murtis",
+      "did": "Sat next to Gardenpath on the sofa when nearly everyone had left the lupanar, said 'Hello. XXX home Murtis? XXXX food XXX.' and made the crooked arm gesture that meant Come along; Gardenpath said yes and followed, and Murtis's home turned out to be around a corner and down another street, past a busy road with habitats piled two and three levels high.",
+      "anchor": "They made the crooked arm gesture that meant Come along.",
+      "range": [
+        166,
+        222
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Murtis",
+      "did": "In the building of water tanks, took off their textiles and proceeded through progressively warmer rooms, dunked their whole body beneath the surface of a large pool of hot water before emerging with a splutter, then plunged into the icy pool and wrapped themself in textiles again; Gardenpath did the same.",
+      "anchor": "took off their textiles and proceeded to the next room",
+      "range": [
+        1420,
+        1474
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Murtis",
+      "did": "In the waste room, hiked up their textiles to sit on one of the three holes, extruded solid waste from a single aperture between their arms, dipped the xylospongium into the stream of fresh water in the floor groove and applied it to their membrane, then swooshed the stick in the stream and handed it to Gardenpath, who imitated their actions.",
+      "anchor": "Murtis called one stick a xylospongium.",
+      "range": [
+        2910,
+        2949
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Murtis",
+      "did": "Led Gardenpath up the rickety and decomposing stairs three levels to a hallway at the top and showed them into a small room with a window, a bed covered in textiles filling one side and containers and shelves on another.",
+      "anchor": "rickety and decomposing, ascending three levels",
+      "range": [
+        4216,
+        4263
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Murtis",
+      "did": "Spent a few moments preparing food, pouring fermented oil on a hunk of processed grains, said 'Bread. Garum. Good!' and pushed some toward Gardenpath's arm; the two of them sat together, one unnamed and one unearthly, consuming the food in silence.",
+      "anchor": "pouring fermented oil on a hunk of processed grains.",
+      "range": [
+        4496,
+        4548
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Murtis",
+      "did": "Lay down seemingly desperate to cluster, patted the textiles beside them, stripped off their textiles and snuggled up to the suit skin to false skin; then most of their biosignatures transformed - metabolic processes slowed, hormone levels changed, and eyes withdrew into their membrane.",
+      "anchor": "had stripped off their textiles and snuggled up to the suit",
+      "range": [
+        5098,
+        5157
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Gardenpath",
+      "did": "Opened a small aperture in the skein pressed against Murtis's back and thrust a dense microscopic tentacle inside them, found the body hung on a trellis of hollow rocks with guardian cells attacking the tentacle, dubbed the long filamentous cells 'director cells', intercepted and decoded the electrochemical messages streaming through Murtis's body and sent a message back, at which Murtis sucked in a breath and pushed their eyes out of their membrane.",
+      "anchor": "Gardenpath intercepted and decoded the electrochemical",
+      "range": [
+        8439,
+        8493
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "Found parasites in Murtis's digestive tract - amoebas from the sponge in the waste room wreaking havoc and planting eggs in wounds - then sent wordless chemical warnings to the harmful prokaryotes and invertebrates, triggers that would send them into evacuation mode the next time Murtis excreted.",
+      "anchor": "Gardenpath sent wordless chemical warnings to the harmful",
+      "range": [
+        10411,
+        10468
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Murtis → Gardenpath",
+      "relation": "Murtis took Gardenpath by the arm and led them farther down the street to the building of water tanks.",
+      "anchor": "Murtis led Gardenpath farther down the street",
+      "range": [
+        1284,
+        1329
+      ]
+    },
+    {
+      "pair": "Gardenpath → Murtis",
+      "relation": "Gardenpath would follow Murtis wherever the Unnamed wanted to take them, having learned so much from being in their orbit.",
+      "anchor": "follow Murtis wherever the Unnamed wanted to take them.",
+      "range": [
+        475,
+        530
+      ]
+    },
+    {
+      "pair": "Murtis → Gardenpath",
+      "relation": "Murtis gave a small snort and pressed closer to Gardenpath, flinging one arm over them.",
+      "anchor": "Murtis gave a small snort and pressed closer to Gardenpath",
+      "range": [
+        6082,
+        6140
+      ]
+    },
+    {
+      "pair": "Murtis → Gardenpath",
+      "relation": "Murtis had helped them, given them food and shelter, and taught them so much.",
+      "anchor": "who had helped them, given them food and shelter",
+      "range": [
+        10190,
+        10238
+      ]
+    },
+    {
+      "pair": "Gardenpath → Murtis",
+      "relation": "Gardenpath judged that Murtis deserved a proper cleansing and sent chemical warnings so the invaders in their body would be gone.",
+      "anchor": "Murtis deserved a proper cleansing",
+      "range": [
+        10265,
+        10299
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three",
+      "fact": "holes in the bench in the waste room, next to buckets of water and sticks with porous dead invertebrate bodies",
+      "anchor": "A bench with three holes in it was against one wall",
+      "range": [
+        2737,
+        2788
+      ]
+    },
+    {
+      "value": "three",
+      "fact": "levels the rickety, decomposing stairs ascended to reach the top hallway",
+      "anchor": "rickety and decomposing, ascending three levels",
+      "range": [
+        4216,
+        4263
+      ]
+    },
+    {
+      "value": "two and three",
+      "fact": "levels high the habitats were piled above them on the busy road",
+      "anchor": "with habitats piled two and three levels high",
+      "range": [
+        787,
+        832
+      ]
+    },
+    {
+      "value": "four",
+      "fact": "arms extended in an ungainly pose as Gardenpath wedged their suited body in beside Murtis",
+      "anchor": "wedged their suited body in beside them, four arms",
+      "range": [
+        4943,
+        4993
+      ]
+    }
+  ]
+}

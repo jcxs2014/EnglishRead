@@ -1,0 +1,171 @@
+{
+  "chapter": "ch30",
+  "source": "text/ch30_chapter_30_something_we_can_use.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "回到 Transit Hall 找 paddler 加入 cluster，几乎还没成椭圆就失去意识",
+      "anchor": "blearily trying to find a paddler and join their cluster",
+      "range": [
+        160,
+        216
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Wainscot",
+      "did": "在 Gardenpath 还没完全清醒时开口，问是否赶得上考试",
+      "anchor": "“I thought you weren’t going to make it for the exam!”",
+      "range": [
+        441,
+        495
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Oriel",
+      "did": "伸一条手臂进 Gardenpath 体内表示亲爱，并释放安抚",
+      "anchor": "Oriel ran an arm inside Gardenpath affectionately",
+      "range": [
+        635,
+        684
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Turret",
+      "did": "爬上一层的 Engineering tower，对 diffuser 喊话号召反抗 Cloud Wars",
+      "anchor": "Turret climbed to the first level of the Engineering tower",
+      "range": [
+        2862,
+        2920
+      ]
+    },
+    {
+      "n": 5,
+      "who": "学生人群",
+      "did": "在 Engineering tower 底部聚集涌集（口号 We build to heal, not to kill! No science for war!）",
+      "anchor": "students surged around the bottom of the Engineering tower",
+      "range": [
+        2695,
+        2753
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Redoubt",
+      "did": "在考试中说「这正是我们能用的东西」，要求研究 forced clustering 能否用于 people",
+      "anchor": "“Yes, this is something we can use.”",
+      "range": [
+        8829,
+        8865
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Plumline",
+      "did": "提前告诉 Gardenpath 十有八九已通过 Third，随后借查看 director cell sequence 追踪藏起的记忆",
+      "anchor": "you have most certainly passed the Third",
+      "range": [
+        9776,
+        9816
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "喷出甲烷，恳求两名 clustermate 帮忙",
+      "anchor": "their clustermates. “Will you help me?”",
+      "range": [
+        13180,
+        13219
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Plumline → Gardenpath 与 Wainscot",
+      "relation": "Plumline 作为 adviser 会出席两人的考试（中间有休息）",
+      "anchor": "As their adviser, Plumline would attend both their exams",
+      "range": [
+        1352,
+        1408
+      ]
+    },
+    {
+      "pair": "Galleon ↔ Redoubt",
+      "relation": "Redoubt 的实验室与 Galleon 在 Cloud Wars 中合作，引发校园反战抗议",
+      "anchor": "whose lab was collaborating with Galleon in the Cloud Wars",
+      "range": [
+        5902,
+        5960
+      ]
+    },
+    {
+      "pair": "Plumline ↔ Redoubt",
+      "relation": "Wainscot 推测 Plumline 与 Redoubt 关系密切、交换改变心智的化学配方来整学生",
+      "anchor": "why Plumline and Redoubt work together so closely",
+      "range": [
+        11996,
+        12045
+      ]
+    },
+    {
+      "pair": "Murtis → Gardenpath",
+      "relation": "Gardenpath 想起 Murtis 在 Herculaneum 给过的建议",
+      "anchor": "thought of Murtis’s advice, back in Herculaneum",
+      "range": [
+        12808,
+        12855
+      ]
+    },
+    {
+      "pair": "Gardenpath ↔ Wainscot",
+      "relation": "Wainscot 原是 Gardenpath 的敌人，现为朋友（enemy turned friend）",
+      "anchor": "Their enemy turned friend smoothed resolutely",
+      "range": [
+        1700,
+        1745
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "nine thousand",
+      "fact": "Wainscot 嘲讽「九千代以来最伟大的学者」",
+      "anchor": "Greatest scholar in nine thousand generations?",
+      "range": [
+        5219,
+        5265
+      ]
+    },
+    {
+      "value": "hundreds",
+      "fact": "聚集的学生人数：数百人",
+      "anchor": "hundreds of people, by the taste of it",
+      "range": [
+        2542,
+        2580
+      ]
+    },
+    {
+      "value": "three",
+      "fact": "考试时三条手臂同时进入 Gardenpath 体内",
+      "anchor": "And then three arms were inside them",
+      "range": [
+        6986,
+        7022
+      ]
+    },
+    {
+      "value": "two",
+      "fact": "Plumline 说两个 journeys 后与两人见面谈论文提案",
+      "anchor": "You and Wainscot will be meeting with me in two journeys",
+      "range": [
+        10403,
+        10459
+      ]
+    }
+  ]
+}

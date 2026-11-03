@@ -1,0 +1,171 @@
+{
+  "chapter": "ch26",
+  "source": "text/ch26_chapter_26_strange_flowers.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "尽可能快地乘 paddler 飞到考场楼，正好赶上看到 Oriel 与 Column 一起出来",
+      "anchor": "Gardenpath flew as fast as they could to the exam building",
+      "range": [
+        69,
+        127
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Oriel",
+      "did": "宣布“Column says I definitely passed!”，与 Gardenpath 用手臂相挽",
+      "anchor": "Column says I definitely passed!",
+      "range": [
+        693,
+        725
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Column",
+      "did": "说若非官方口径这算稳妥的推断，称赞答案“terrific”、数据整理得 impeccable，并说与农民的对谈会有实际影响",
+      "anchor": "your data was organized impeccably",
+      "range": [
+        858,
+        892
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Oriel",
+      "did": "提议去旧 agronomy 田，那里的墙在几代前用于农业实验、仍覆满杂交花卉与藻类的杂乱多边形",
+      "anchor": "Let’s go to the old agronomy fields.",
+      "range": [
+        1795,
+        1831
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath",
+      "did": "说又因伦理问题与 Column 争执，不再认为 Column 会继续做自己的秘密导师（secret adviser）",
+      "anchor": "I don’t think they’re going to be my secret adviser anymore",
+      "range": [
+        3048,
+        3107
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath",
+      "did": "收到 Plumline 的消息，必须在 Clustersedge 期间去参加学习会（study session）",
+      "anchor": "I have to report to a study session during Clustersedge",
+      "range": [
+        2810,
+        2865
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Oriel 与 Gardenpath",
+      "did": "Oriel 伸臂去闻带刺红茎上的黄色簇状花，说“这些真奇怪”，Gardenpath 也嗅了花香并说喜欢",
+      "anchor": "yellow tufted blooms on spiny red stems",
+      "range": [
+        3494,
+        3533
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Oriel 与 Gardenpath",
+      "did": "分手时相拥，手臂浅浅地置于彼此之内，感觉像对一桩无人承认的罪的宽恕",
+      "anchor": "They embraced, arms shallow inside each other",
+      "range": [
+        4798,
+        4843
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Gardenpath ↔ Oriel",
+      "relation": "最好的朋友（best friend）：Gardenpath 滚过去迎接刚考完的 Oriel",
+      "anchor": "rolling swiftly over to meet their best friend",
+      "range": [
+        642,
+        688
+      ]
+    },
+    {
+      "pair": "Column ↔ Gardenpath",
+      "relation": "Column 曾是 Gardenpath 的 adviser 兼朋友，一场分歧把二人拆开；Oriel 对此毫不知情",
+      "anchor": "driven their adviser and friend apart",
+      "range": [
+        1403,
+        1440
+      ]
+    },
+    {
+      "pair": "Plumline → Gardenpath",
+      "relation": "直属导师 Plumline 发来消息，命令 Gardenpath 在 Clustersedge 期间参加学习会",
+      "anchor": "I got a message from them saying I have to report",
+      "range": [
+        2777,
+        2826
+      ]
+    },
+    {
+      "pair": "Column → Oriel",
+      "relation": "Column 认为 Oriel 应当尽早考 Third，但至少要等十次旅程之后",
+      "anchor": "Column thinks I should take it soon",
+      "range": [
+        2619,
+        2654
+      ]
+    },
+    {
+      "pair": "Gardenpath ↔ Murtis",
+      "relation": "Gardenpath 心头仍压着与 Murtis 之间所发生之事的情绪引力井",
+      "anchor": "what they had done with Murtis afterward",
+      "range": [
+        4334,
+        4374
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "at least ten journeys",
+      "fact": "Column 认为 Oriel 至少要过十次旅程之后才该考 Third",
+      "anchor": "at least ten journeys. Wainscot was saying",
+      "range": [
+        2668,
+        2710
+      ]
+    },
+    {
+      "value": "several arms",
+      "fact": "Column 兴奋地伸长身体、挥动好几条手臂",
+      "anchor": "elongating and gesturing excitedly with several arms",
+      "range": [
+        217,
+        269
+      ]
+    },
+    {
+      "value": "a few generations ago",
+      "fact": "旧农学田的墙在几代之前被用于农业实验",
+      "anchor": "used for agricultural experiments a few generations ago",
+      "range": [
+        1916,
+        1971
+      ]
+    },
+    {
+      "value": "one small eye",
+      "fact": "Column 用一只小眼睛盯着 Gardenpath，说了句 Gardenpath 在此距离感知不到的话",
+      "anchor": "With one small eye trained on Gardenpath",
+      "range": [
+        473,
+        513
+      ]
+    }
+  ]
+}

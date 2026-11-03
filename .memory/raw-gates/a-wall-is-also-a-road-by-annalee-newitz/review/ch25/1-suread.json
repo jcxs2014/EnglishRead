@@ -1,0 +1,162 @@
+{
+  "chapter": "ch25",
+  "source": "text/ch25_chapter_25_sacrifice.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Lucius",
+      "did": "从 triclinium 出来向宾客炫耀便携计时器，自称其为“prosciutto sundial”，客人发出“Ohh”并鼓掌",
+      "anchor": "I call it the prosciutto sundial! Isn’t it a marvel",
+      "range": [
+        339,
+        390
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Lucius",
+      "did": "爬上祭坛，打扮成潘神（hooflike shoes、金环上后弯的羊角），赤裸上身",
+      "anchor": "Lucius climbed atop the altar dressed as the god Pan",
+      "range": [
+        2190,
+        2242
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Lucius",
+      "did": "高喊“Nature demands a sacrifice!”，宾客随即陷入沉默",
+      "anchor": "a sacrifice!” he cried, and the revelers fell into silence",
+      "range": [
+        2408,
+        2466
+      ]
+    },
+    {
+      "n": 4,
+      "who": "约十二名献祭者与年轻 Unnamed",
+      "did": "约十二名身着奢华托加的男子站起，每人按着一名年轻 Unnamed；这些“祭品”被涂油戴珠宝并向 Lucius 鞠躬",
+      "anchor": "each holding a young Unnamed by the arm",
+      "range": [
+        2862,
+        2901
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Lucius 与一名 senator",
+      "did": "Lucius 叫喊“Bring me the blade!”，一名 senator 跪着递上一支装在剑柄上的长铜制 dildo",
+      "anchor": "I have the sacrificial goat! Bring me the blade",
+      "range": [
+        3992,
+        4039
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Murtis",
+      "did": "低语“Let’s go”“I hate this”，并推动 Hercules、以头示意下到海边露台的阶梯",
+      "anchor": "Murtis whispered to Peristyle. “I hate this",
+      "range": [
+        4284,
+        4327
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Curly",
+      "did": "说他们两人都告诉过 Hercules 献祭的事，而 Hercules 说是谣言",
+      "anchor": "We both told Hercules about the sacrifice",
+      "range": [
+        5066,
+        5107
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Peristyle",
+      "did": "猛然想起被完全遗忘的 Oriel，意识到她此刻正在考试，便动身赶回；最终在空海滩激活回归信标返回",
+      "anchor": "She had completely forgotten Oriel.",
+      "range": [
+        7198,
+        7233
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Curly → Hercules",
+      "relation": "Curly 是 Hercules 的男朋友（boyfriend）",
+      "anchor": "Hercules’s boyfriend joined them",
+      "range": [
+        4920,
+        4952
+      ]
+    },
+    {
+      "pair": "Peristyle → Murtis",
+      "relation": "情人关系：Peristyle 俯身亲吻 Murtis，并把二人的欢愉记忆封进 gnosome",
+      "anchor": "She leaned down to kiss Murtis, touching the memory",
+      "range": [
+        7392,
+        7443
+      ]
+    },
+    {
+      "pair": "Murtis → Peristyle",
+      "relation": "Murtis 当众声明 Peristyle 不是 liberta 而是来研究自然世界的学者，并得意地搂住她",
+      "anchor": "She’s not a liberta! She’s a scholar",
+      "range": [
+        6638,
+        6674
+      ]
+    },
+    {
+      "pair": "Peristyle → Oriel",
+      "relation": "Murtis 问“你的朋友”是否也通过了考试，指 Oriel 是 Peristyle 的朋友",
+      "anchor": "Did your friend pass her exam too?",
+      "range": [
+        7120,
+        7154
+      ]
+    },
+    {
+      "pair": "Murtis → Peristyle",
+      "relation": "Murtis 出言劝告：应该听她朋友的话，并说自己也研究她，称她 little Sappho",
+      "anchor": "You should listen to your friend.",
+      "range": [
+        9442,
+        9475
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "a dozen",
+      "fact": "约十二名着奢华托加的男子各按着一名年轻 Unnamed 作为“祭品”",
+      "anchor": "Roughly a dozen men in lavish togas",
+      "range": [
+        2819,
+        2854
+      ]
+    },
+    {
+      "value": "three more exams",
+      "fact": "Peristyle 说只需再通过三场考试，之后就能挑选合作者",
+      "anchor": "I only have to pass three more exams",
+      "range": [
+        8788,
+        8824
+      ]
+    },
+    {
+      "value": "three of them",
+      "fact": "Peristyle、Murtis、Curly 三人在图书馆里拖来的斗篷堆上过夜",
+      "anchor": "The three of them spent the night on a pile of capes",
+      "range": [
+        6880,
+        6932
+      ]
+    }
+  ]
+}

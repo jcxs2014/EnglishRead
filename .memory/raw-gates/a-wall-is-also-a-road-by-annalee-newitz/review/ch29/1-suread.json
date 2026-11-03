@@ -1,0 +1,171 @@
+{
+  "chapter": "ch29",
+  "source": "text/ch29_chapter_29_survive.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Peristyle",
+      "did": "夜里与 Murtis 共处，连接其 director cells 时清除尽可能多的毒素与突变",
+      "anchor": "always purged as many toxins and mutations as possible",
+      "range": [
+        350,
+        404
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Peristyle",
+      "did": "二十个 Tentacle 日后回火山上检查传感器，把最近几年的数据吸进笔记本",
+      "anchor": "Peristyle went back up the volcano to check on her sensors",
+      "range": [
+        900,
+        958
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Peristyle",
+      "did": "在 Julia 的花园里生成散点图，看加压气体如何上升膨胀",
+      "anchor": "spun up a few scatterplots showing how the pressurized gas",
+      "range": [
+        1063,
+        1121
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Peristyle",
+      "did": "反复核算后确认模型显示极高概率即将有一次大爆炸（可能削掉山顶）",
+      "anchor": "probability that an explosion was coming soon",
+      "range": [
+        1356,
+        1401
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Peristyle",
+      "did": "向 suit 下令，慢慢重构成黑曜石椭圆、七根眼柄和三条手臂的真实形态",
+      "anchor": "reconfigured into an obsidian oval with seven eyestalks",
+      "range": [
+        8362,
+        8417
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Peristyle",
+      "did": "在浴池告诉 Murtis：很快会有大得多的爆炸，要活下去就得离开",
+      "anchor": "there is going to be a much bigger explosion soon",
+      "range": [
+        4483,
+        4532
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Murtis",
+      "did": "提出离开 Pompeii 的计划：Julia 亡夫的旧 libertus Hector 在 Neapolis 有家店，她猜 Julia 会卖给她，并想尽量多带人走",
+      "anchor": "her husband’s old libertus, Hector, used to run a shop",
+      "range": [
+        11559,
+        11613
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Peristyle",
+      "did": "要 Murtis 一遇地震或山上冒烟就立刻走，并常备一个包以便南逃",
+      "anchor": "if there is a quake or smoke from the mountain",
+      "range": [
+        13177,
+        13223
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Murtis → Curly",
+      "relation": "Murtis 把晚间工作交给 Curly",
+      "anchor": "Murtis handed off the evening duties to Curly",
+      "range": [
+        3495,
+        3540
+      ]
+    },
+    {
+      "pair": "Murtis → Julia",
+      "relation": "Murtis 想连 Julia 一起搬离",
+      "anchor": "If we’re really successful, maybe Julia can relocate too.",
+      "range": [
+        12064,
+        12121
+      ]
+    },
+    {
+      "pair": "Julia → Hector",
+      "relation": "Hector 是 Julia 丈夫的旧 libertus，在 Neapolis 开店（去年死了）",
+      "anchor": "her husband’s old libertus, Hector, used to run a shop",
+      "range": [
+        11559,
+        11613
+      ]
+    },
+    {
+      "pair": "Murtis → Peristyle",
+      "relation": "Murtis 要求看 Peristyle 的真实形态、要她真实的臂进入自己身体",
+      "anchor": "I want your real arm inside me.",
+      "range": [
+        8091,
+        8122
+      ]
+    },
+    {
+      "pair": "Murtis → Peristyle",
+      "relation": "Murtis 答应遇险就逃：「我走到这一步不是为了被什么坏空气带走」",
+      "anchor": "I didn’t come this far to let some bad air get me.",
+      "range": [
+        13342,
+        13392
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "twenty",
+      "fact": "Peristyle 等了二十个 Tentacle 日后回山上检查传感器",
+      "anchor": "After twenty Tentacle days, Peristyle went back up",
+      "range": [
+        872,
+        922
+      ]
+    },
+    {
+      "value": "two",
+      "fact": "clustering 能可靠消除的两类病症（感染与失控的炎症）",
+      "anchor": "two kinds of sickness that clustering reliably eliminated",
+      "range": [
+        522,
+        579
+      ]
+    },
+    {
+      "value": "a year / ten",
+      "fact": "Peristyle 估算爆炸时间：也许一年，也许十年",
+      "anchor": "“It could be soon. Maybe a year. Maybe ten.”",
+      "range": [
+        4746,
+        4790
+      ]
+    },
+    {
+      "value": "four",
+      "fact": "Peristyle 说可能要四年后才能回来",
+      "anchor": "It might be as long as four years.",
+      "range": [
+        12874,
+        12908
+      ]
+    }
+  ]
+}

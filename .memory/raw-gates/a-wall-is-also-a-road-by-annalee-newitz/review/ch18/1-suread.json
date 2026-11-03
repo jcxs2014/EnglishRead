@@ -1,0 +1,162 @@
+{
+  "chapter": "ch18",
+  "source": "text/ch18_chapter_18_long_distance_runaround.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Oriel",
+      "did": "在房间里把笔记本插进一个通风口；Gardenpath 把一条臂伸进 Oriel 里说很想念她，感到熟悉的亲密而无残余的情欲",
+      "anchor": "plugging their notebook into a vent",
+      "range": [
+        1002,
+        1037
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "坦白自己的发现：经允许进入 Murtis 体内帮其维护，发现 Unnamed 在被深入到体内时和人感受到同样的快感",
+      "anchor": "the Unnamed feel the same pleasure we do",
+      "range": [
+        1850,
+        1890
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Oriel",
+      "did": "撤臂并长出十只眼睛，私下说早知道 Gardenpath 在与 Murtis 簇合，但质问性；并建议把对 Unnamed 的研究从考试材料里删掉",
+      "anchor": "I knew you were clustering with Murtis. But sex?",
+      "range": [
+        2840,
+        2888
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Buttress",
+      "did": "浑身浸透地从窗口落进房间，宣布自己要冲击 cluster、将成为这个房间里第一个通过第二次考试的人",
+      "anchor": "I’ll be the first in this room to pass the Second",
+      "range": [
+        3529,
+        3578
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Wainscot",
+      "did": "以几乎听不见的声音说自己刚刚通过了第二次考试，且 Plumline 说应尽快考第三次，以它的分数第三次已在掌握中",
+      "anchor": "I passed just now. And Plumline says I should take the Third",
+      "range": [
+        3664,
+        3724
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Arch",
+      "did": "在实验室给 Gardenpath 应考建议：若其他考官问了答不出的问题，就假装他们问了你能答的、然后回答那个；并让 Gardenpath 细化关于火山食物网的论点、开始定期做练习考",
+      "anchor": "pretend they asked something you can, and answer that",
+      "range": [
+        6341,
+        6394
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Gardenpath",
+      "did": "报告自己的考试排在三十六 journeys 之后，并认为自己还需要回 Tentacle 几次",
+      "anchor": "I think I need to go back to Tentacle a few more times",
+      "range": [
+        7175,
+        7229
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "第二次考试设在 Harvest；因为某位随机选中的对话者在 Separation 有早课，时间被推后一停；Gardenpath 翻课表想弄清那人是谁，有几十种可能",
+      "anchor": "There were dozens of possibilities",
+      "range": [
+        10848,
+        10882
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Gardenpath → Oriel",
+      "relation": "Gardenpath 告诉 Murtis，Oriel 是自己最好的朋友，并说她希望 Gardenpath 说出真相",
+      "anchor": "I told them that you were my best friend",
+      "range": [
+        1524,
+        1564
+      ]
+    },
+    {
+      "pair": "Wainscot → Plumline",
+      "relation": "Plumline 说 Wainscot 应尽快参加第三次考试（其第二次考试分数使第三次已在掌握中）",
+      "anchor": "Plumline says I should take the Third",
+      "range": [
+        3687,
+        3724
+      ]
+    },
+    {
+      "pair": "Gardenpath → Murtis",
+      "relation": "Murtis 不是研究对象的身份，更像朋友（Gardenpath 只研究 Tentacle 与食物网）",
+      "anchor": "Murtis is not the subject of my research",
+      "range": [
+        2199,
+        2239
+      ]
+    },
+    {
+      "pair": "Arch → Gardenpath",
+      "relation": "Arch 给 Gardenpath 第二次考试的应考建议（把答不出的问题改换成能答的问题），并要其细化火山食物网的论点",
+      "anchor": "Let me give you the best advice I ever got",
+      "range": [
+        6215,
+        6257
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "thirty-six",
+      "fact": "Gardenpath 的考试距当前的时间（journeys）",
+      "anchor": "My exam is scheduled for thirty-six journeys from now",
+      "range": [
+        7120,
+        7173
+      ]
+    },
+    {
+      "value": "three ... one",
+      "fact": "Gardenpath 的日常安排：在 Globe 待三个 journey，才去野外一个 journey",
+      "anchor": "three journeys spent in the Globe for every one in the field",
+      "range": [
+        8115,
+        8175
+      ]
+    },
+    {
+      "value": "ten",
+      "fact": "Oriel 撤臂后多长出的眼睛数",
+      "anchor": "Oriel had withdrawn their arm and grown ten more eyes",
+      "range": [
+        2098,
+        2151
+      ]
+    },
+    {
+      "value": "one",
+      "fact": "某位随机对话者的早课把考试时间推后的停数",
+      "anchor": "which pushed the time back by one stop",
+      "range": [
+        10704,
+        10742
+      ]
+    }
+  ]
+}

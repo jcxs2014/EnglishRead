@@ -1,0 +1,162 @@
+{
+  "chapter": "ch03",
+  "source": "text/ch03_chapter_3_nonrandom_vibrations.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "着地后调出能挡住大部分辐射的视觉滤片，随即拿出笔记本记录第一批数据（位置在一座岩石山荒芜的峰顶附近，远处有极大水体）",
+      "anchor": "Gardenpath recorded their first pieces of data.",
+      "range": [
+        430,
+        477
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "蹚进一条湍急的液态水河，被侵蚀的泥沙使身体略微下陷；回神后仍在河边埋设传感器",
+      "anchor": "to plant sensors at the river’s edge",
+      "range": [
+        1200,
+        1236
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Gardenpath",
+      "did": "发现植物成行整齐生长（像是有意设计），用触手抚摸叶片，感觉其连接体为吸水而张开",
+      "anchor": "They sprouted in tidy rows, as if by conscious design.",
+      "range": [
+        2076,
+        2130
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Gardenpath",
+      "did": "把 suit 滤片调到可通过化学信号，开口打招呼（Hello? Do you understand me? 与自报姓名），只得到对方平缓的呼吸、无回应",
+      "anchor": "“Hello? Do you understand me?”",
+      "range": [
+        2866,
+        2896
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath",
+      "did": "一只长粉色动物爬过，其未加思索用样本容器抓住它，发现它是多细胞动物（数千至数百万生命体结合成单一无脊椎身体），拍下各波长影像后将其放走",
+      "anchor": "they snatched it up in a sample container",
+      "range": [
+        3170,
+        3211
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath",
+      "did": "把第一个生命形式编目为 Animal1，另外两个编为 Animal2 与 Animal2A",
+      "anchor": "cataloged the first life-form under the name Animal1",
+      "range": [
+        8178,
+        8230
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Animal2",
+      "did": "把 Animal1 从植物旁拉走，一阵碰撞与振动地退回山下；Gardenpath 收集留下的叶片与碎果放进样本容器",
+      "anchor": "Animal2 pulled Animal1 away from the plants",
+      "range": [
+        8451,
+        8494
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "惊觉自己已离开近两个 journey，错过了整个 Clustertime",
+      "anchor": "they realized they had been gone nearly two journeys",
+      "range": [
+        11609,
+        11661
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Gardenpath ↔ Oriel",
+      "relation": "Gardenpath 喝着甜花糊想起正在自己星球学农活的 Oriel，摸着对方 oath receptor 的形状受到鼓舞；随后因孤独而产生深深皱褶，恨不得能与 Oriel 通话",
+      "anchor": "shape of their friend’s oath receptor buoyed them",
+      "range": [
+        5287,
+        5336
+      ]
+    },
+    {
+      "pair": "Gardenpath → Animal1 / Animal2 / Animal2A",
+      "relation": "观测并命名当地动物；Animal2 每个个体是超过二十万亿真核细胞组成的 cluster，本应无意识却似乎高功能运作",
+      "anchor": "Animal2, however, was a fascinating contradiction",
+      "range": [
+        9427,
+        9476
+      ]
+    },
+    {
+      "pair": "Gardenpath → 原核生物 / 植物",
+      "relation": "发现田野中的原核生物邻居与植物交换氮，推断它们可能在耕作",
+      "anchor": "neighbors were exchanging nitrogen with the plants",
+      "range": [
+        2728,
+        2778
+      ]
+    },
+    {
+      "pair": "Gardenpath → Wainscot / Professor Arch（回忆）",
+      "relation": "回忆起 Arch 的警告，判断自己得比 Wainscot 那样的人多努力五倍；也想起发现一切可能比一无所获更糟",
+      "anchor": "work five times harder than someone like Wainscot",
+      "range": [
+        4515,
+        4564
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "thirty",
+      "fact": "Gardenpath 在积累初步数据集前所经历的光照期数（黑暗期随自转逐次变短）",
+      "anchor": "thirty of these increasingly enervating light periods",
+      "range": [
+        9020,
+        9073
+      ]
+    },
+    {
+      "value": "seven hundred",
+      "fact": "初步数据集收录的生命形式数量（含植物、动物、真菌）",
+      "anchor": "seven hundred life-forms, including plants",
+      "range": [
+        9119,
+        9161
+      ]
+    },
+    {
+      "value": "over twenty trillion",
+      "fact": "每个 Animal2 个体由超过二十万亿个结合的真核细胞组成",
+      "anchor": "over twenty trillion joined eukaryotes",
+      "range": [
+        9551,
+        9589
+      ]
+    },
+    {
+      "value": "107",
+      "fact": "接下来的 150 个自转中，Gardenpath 在足够近、可成像记录的距离上遇到的独特 Animal2 个体数",
+      "anchor": "encountered 107 unique Animal2 organisms at ranges",
+      "range": [
+        9762,
+        9812
+      ]
+    }
+  ]
+}

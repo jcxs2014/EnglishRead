@@ -1,0 +1,171 @@
+{
+  "chapter": "ch04",
+  "source": "text/ch04_chapter_4_cultural_studies.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "Senseless with exhaustion，跌出 travel spore，随后搭乘通勤 paddlebus 回 campus；dorms 因学生归来而嗡嗡作响。",
+      "anchor": "Gardenpath stumbled out of the travel spore",
+      "range": [
+        96,
+        139
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Wainscot",
+      "did": "宣布自己一直在做 large spectral array，已经有足够数据通过 First，而且“没有错过任何一次 cluster call”。",
+      "anchor": "I’ve already gotten enough data to pass the First",
+      "range": [
+        676,
+        725
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Gardenpath",
+      "did": "告诉 Oriel 发现的不只是生命：多种生态系统、数百个食物网，还有几乎和 Globe 里的人一模一样的生命形式——但它们并不是。",
+      "anchor": "Not just life. Multiple ecosystems. Hundreds of food webs.",
+      "range": [
+        2284,
+        2342
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Oriel",
+      "did": "解释自己 planetsuit 几乎锈透的原因：Sky-over-Prairie 上一个 rogue flower 附着到 suit 上、改变了它的分子结构（花已变异成吃金属）。",
+      "anchor": "One rogue flower had attached to Oriel’s suit",
+      "range": [
+        3357,
+        3402
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Column",
+      "did": "自我介绍：十次 journey 前刚通过 Fourth，两次 journey 前开始教文化研究（cultural studies）入门课。",
+      "anchor": "I passed the Fourth only ten journeys ago",
+      "range": [
+        10081,
+        10122
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Column",
+      "did": "讲述 Fence 的故事：约四个 generation 前在 Memory 的 galactic observer，声称在银河平面内的世界发现了生命并称之为 Tentacle 4–746；Memory 的调查员判定其假说过于推测，Fence 从未通过 Fourth，被送去 Galleon 的矿业学校教书。",
+      "anchor": "They called it Tentacle 4–746, and they suggested",
+      "range": [
+        12389,
+        12438
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Gardenpath",
+      "did": "在 card catalog 查 Fence 的作品：最后找到 Fence 的 First Exam 数据集被错归在 spiritualism 名下，citation card 显示 Fence 的笔记本连同对 Tentacle 4–746 的全部观察都已被 recycled。",
+      "anchor": "First Exam dataset at last—misfiled under spiritualism",
+      "range": [
+        17472,
+        17526
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "决定把他们的行星命名为 Tentacle，以纪念 Fence。",
+      "anchor": "decided to name their planet Tentacle, in honor of Fence",
+      "range": [
+        18302,
+        18358
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Gardenpath → Oriel",
+      "relation": "朋友（friend）：Gardenpath 感激 Oriel 不带评判的反应",
+      "anchor": "grateful for their friend’s nonjudgmental reactions",
+      "range": [
+        6610,
+        6661
+      ]
+    },
+    {
+      "pair": "Wainscot → Gardenpath",
+      "relation": "同一个 cluster 的 clustermates（一起 merge 进无意识）",
+      "anchor": "When the rest of their clustermates arrived, they merged",
+      "range": [
+        1303,
+        1359
+      ]
+    },
+    {
+      "pair": "Oriel — Column",
+      "relation": "同学：上学期一起上过 seminar",
+      "anchor": "Oriel and I took a seminar together last term",
+      "range": [
+        10212,
+        10257
+      ]
+    },
+    {
+      "pair": "Oriel → Column",
+      "relation": "Oriel 向 Gardenpath 推荐去请教 Column（“Professor Column”）",
+      "anchor": "I was about to recommend that my friend Gardenpath",
+      "range": [
+        9872,
+        9922
+      ]
+    },
+    {
+      "pair": "Gardenpath → Column",
+      "relation": "Gardenpath 起初忐忑，但喜欢这位 professor",
+      "anchor": "trepidation, Gardenpath liked this professor",
+      "range": [
+        14364,
+        14408
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "ten journeys ago",
+      "fact": "Column 十次 journey 前刚通过第四次考试",
+      "anchor": "ten journeys ago, and it still feels strange when",
+      "range": [
+        10106,
+        10155
+      ]
+    },
+    {
+      "value": "four generations ago",
+      "fact": "Fence 约四代前是 Memory 的 galactic observer",
+      "anchor": "observer here at the Memory about four generations ago",
+      "range": [
+        12258,
+        12312
+      ]
+    },
+    {
+      "value": "seven generations",
+      "fact": "所有 First Exams 会在存储中保留七代",
+      "anchor": "All First Exams were kept in storage for seven generations",
+      "range": [
+        16915,
+        16973
+      ]
+    },
+    {
+      "value": "Tentacle 4–746",
+      "fact": "Fence 为自己发现的那个银河世界取的名字",
+      "anchor": "Nothing under Tentacle 4–746 either",
+      "range": [
+        17097,
+        17132
+      ]
+    }
+  ]
+}

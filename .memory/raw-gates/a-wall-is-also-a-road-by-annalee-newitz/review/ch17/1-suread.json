@@ -1,0 +1,171 @@
+{
+  "chapter": "ch17",
+  "source": "text/ch17_chapter_17_director_cells.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Peristyle",
+      "did": "在 Tentacle 又过一个丰收的野外季后做最后一次山体传感器检查，并赶去重调长椅上方那台大气传感器的受体丝，把它接到自己的笔记本上",
+      "anchor": "Peristyle hastened to readjust its receptor strands",
+      "range": [
+        1005,
+        1056
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Murtis",
+      "did": "说今晚病得不能工作；随后猛地起身跑到树后，把半消化的食物从嘴里吐出，踉跄回来摊在长椅上呻吟",
+      "anchor": "expelling half-digested food from her mouth",
+      "range": [
+        2294,
+        2337
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Murtis",
+      "did": "说自己初遇时病得很重、以为会像 Helen 一样死掉，而自从两年前 Peristyle 开始与她同住，她的胃就从未这么好过",
+      "anchor": "you started living with me two years ago",
+      "range": [
+        3012,
+        3052
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Peristyle",
+      "did": "在路边用双手捧起一坨软湿的土、轻轻捏成一个正式的球体拿回来给 Murtis 看，说明族人真正长什么样",
+      "anchor": "molded it gently into a formal orb",
+      "range": [
+        3969,
+        4003
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Peristyle",
+      "did": "说不能脱下 suit（会死），但上次回家时改过它，于是掀开织物露出 suit、启动自己写的程序改动局部织物的能力，从走路的臂旁长出一条新臂",
+      "anchor": "she altered its fabric capabilities in one area",
+      "range": [
+        4732,
+        4779
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Murtis",
+      "did": "体内 director cells 的离子信号低语着要连接 Peristyle 到它们的簇，她几乎被拖入无意识；Murtis 抽手把 Peristyle 震醒，Peristyle 发现自己趴在地上",
+      "anchor": "A whisper of the ionic signaling from the director cells",
+      "range": [
+        5697,
+        5753
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Murtis",
+      "did": "说自己当过十五年奴隶、替主人做口活换面包，并说若没有 Julia 她也不会有家；随后全身抽搐着咳嗽",
+      "anchor": "I was a slave for fifteen years",
+      "range": [
+        9399,
+        9430
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Peristyle",
+      "did": "轻敲 Murtis 躯干里一个 director cell 的膜、发出让疼痛停止的请求，Murtis 倒吸一口气并要求再来；Peristyle 由此意识到自己在触发快感而不是单纯止痛",
+      "anchor": "sending a request for the pain to shut down",
+      "range": [
+        11748,
+        11791
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Murtis → Peristyle",
+      "relation": "两年前 Peristyle 开始与 Murtis 同住后，Murtis 的胃从未这么好过（伪簇合起了维护作用）",
+      "anchor": "you started living with me two years ago",
+      "range": [
+        3012,
+        3052
+      ]
+    },
+    {
+      "pair": "Oriel → Peristyle",
+      "relation": "最好的朋友，且希望 Peristyle 把“我是谁”的真相告诉 Murtis",
+      "anchor": "She wanted me to tell you the truth about who I am.",
+      "range": [
+        14926,
+        14977
+      ]
+    },
+    {
+      "pair": "Murtis → Julia",
+      "relation": "若不是 Julia，Murtis 也不会有家",
+      "anchor": "If it weren’t for Julia, I wouldn’t have a home either.",
+      "range": [
+        9596,
+        9651
+      ]
+    },
+    {
+      "pair": "Peristyle → Murtis",
+      "relation": "去年 Peristyle 曾把触手伸进 Murtis 体内，当时可以逐个查询每个细胞",
+      "anchor": "When she reached inside Murtis with her tentacle last year",
+      "range": [
+        5845,
+        5903
+      ]
+    },
+    {
+      "pair": "Murtis → master",
+      "relation": "Murtis 当了十五年奴隶，替主人做口活换面包",
+      "anchor": "sucking my master’s cock for bread",
+      "range": [
+        9432,
+        9466
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "fifteen",
+      "fact": "Murtis 当奴隶的年数",
+      "anchor": "I was a slave for fifteen years",
+      "range": [
+        9399,
+        9430
+      ]
+    },
+    {
+      "value": "two",
+      "fact": "Peristyle 开始与 Murtis 同住距今的年数",
+      "anchor": "you started living with me two years ago",
+      "range": [
+        3012,
+        3052
+      ]
+    },
+    {
+      "value": "one",
+      "fact": "Peristyle 计划每次只与不超过一个细胞全面接触以免危险",
+      "anchor": "avoiding full contact with more than one cell",
+      "range": [
+        7776,
+        7821
+      ]
+    },
+    {
+      "value": "hundreds",
+      "fact": "庞贝有数百家酒馆/摊铺，Unnamed 在那里贩卖金属、石头、动植物以及彼此",
+      "anchor": "there were hundreds of tabernae and stalls",
+      "range": [
+        10029,
+        10071
+      ]
+    }
+  ]
+}

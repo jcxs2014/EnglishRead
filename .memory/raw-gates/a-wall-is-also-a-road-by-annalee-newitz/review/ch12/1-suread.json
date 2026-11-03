@@ -1,0 +1,153 @@
+{
+  "chapter": "ch12",
+  "source": "text/ch12_chapter_12_secrets.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "事实与自己对外说的相反：Gardenpath 每一晚都进到 Murtis 体内",
+      "anchor": "Gardenpath had gone inside Murtis every night",
+      "range": [
+        731,
+        776
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "靠那些采矿论文想出在 galaxysuit 面料上做出半透补丁，并加装转导机制以安全地感知外部",
+      "anchor": "create semipermeable patches in the suit’s fabric",
+      "range": [
+        972,
+        1021
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Gardenpath",
+      "did": "在图书馆上层找到空通风口、读取官方笔记本里的数据，开始勾画以 Pompeii 为中心的食物网推拉关系",
+      "anchor": "started to sketch out the dynamic push-pull of the food web",
+      "range": [
+        1606,
+        1665
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Oriel",
+      "did": "在 Gardenpath 记录 Tentacle 观察时悄然走近，说“你必须告诉 Murtis 真相”",
+      "anchor": "You have to tell Murtis the truth.",
+      "range": [
+        2137,
+        2171
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath",
+      "did": "引用 Gable 在 Skiff 的研究为自己辩护：他们假装成失散多年的亲戚以取得 Spinners 线人的信任",
+      "anchor": "pretended to be a long-lost cousin to gain the trust",
+      "range": [
+        2881,
+        2933
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath",
+      "did": "承认自己对 Murtis 所作的事感觉很糟，并问告知真相是否会成为混杂因素、毁掉结果",
+      "anchor": "I feel really awful about what I did to Murtis",
+      "range": [
+        3280,
+        3326
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Oriel",
+      "did": "指出 Gardenpath 通过与 Murtis 同住共事，已经改变了他们的行为",
+      "anchor": "changed their behavior, by dwelling and working with them",
+      "range": [
+        3528,
+        3585
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Oriel",
+      "did": "把一条友好的手臂滑到 Gardenpath 的膜下，说他们可能夸大了自己的困惑，因为不愿接受明显的结论",
+      "anchor": "slid a friendly arm under Gardenpath’s membrane",
+      "range": [
+        5533,
+        5580
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Oriel → Gardenpath",
+      "relation": "伦理劝诫：不能未经许可就进入某人内部，即使对方是多细胞生物",
+      "anchor": "You can’t just go inside somebody without their permission",
+      "range": [
+        2526,
+        2584
+      ]
+    },
+    {
+      "pair": "Gardenpath → Murtis / Column / Oriel",
+      "relation": "说谎：Gardenpath 假装伪聚簇（pseudo-clustering）只发生过一次",
+      "anchor": "pretending that the pseudo-clustering only happened once",
+      "range": [
+        660,
+        716
+      ]
+    },
+    {
+      "pair": "Oriel → Gardenpath",
+      "relation": "朋友式支持：怀疑 Gardenpath 是因为在乎 Murtis 才与其簇合，并认为这没问题",
+      "anchor": "you clustered with Murtis because you care about them",
+      "range": [
+        4658,
+        4711
+      ]
+    },
+    {
+      "pair": "Gardenpath → Murtis",
+      "relation": "告知离开：Gardenpath 对 Murtis 说自己必须离开一段时间、但会回来",
+      "anchor": "I had to leave for a while, but that I would be back",
+      "range": [
+        3815,
+        3867
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "five generations",
+      "fact": "Oriel 说 Gable 的做法是五代之前的事，文化研究已经向前走了",
+      "anchor": "Gable? That was five generations ago.",
+      "range": [
+        2978,
+        3015
+      ]
+    },
+    {
+      "value": "one or both",
+      "fact": "进入 Murtis（即使只用极小的触手）本可能害死两者中的一方或双方",
+      "anchor": "could have killed one or both of them",
+      "range": [
+        517,
+        554
+      ]
+    },
+    {
+      "value": "Second Exam",
+      "fact": "Gardenpath 不想毁掉自己第二次考试（Second Exam）的数据",
+      "anchor": "I don’t want to wreck my Second Exam data",
+      "range": [
+        4140,
+        4181
+      ]
+    }
+  ]
+}

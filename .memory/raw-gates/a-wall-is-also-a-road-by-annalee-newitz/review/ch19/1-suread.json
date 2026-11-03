@@ -1,0 +1,162 @@
+{
+  "chapter": "ch19",
+  "source": "text/ch19_chapter_19_possibly_interesting.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "从集群（clustering）状态中恢复意识，感到恐惧，体内像积聚了毒素",
+      "anchor": "Gardenpath came to consciousness with a sense of dread.",
+      "range": [
+        79,
+        134
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Wainscot",
+      "did": "反复把一只手臂伸进一本膨胀的书里再抽出（只留一只眼睛耷拉在膜外，懒懒跟着 Gardenpath 的动作）",
+      "anchor": "inserting an arm into it, then withdrawing it again",
+      "range": [
+        271,
+        322
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Wainscot",
+      "did": "说自己必须尽快应考第三次，并替 Plumline 当某人的 examiner 去做当日第二场 seminar 的 guest lecture",
+      "anchor": "They’re serving as some poor sod’s examiner, so I’m subbing",
+      "range": [
+        644,
+        703
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Plumline",
+      "did": "Science Director（科学总监）现身考场后宣布没人坐在自己应在的位置上",
+      "anchor": "Apparently no one is sitting in their proper places.",
+      "range": [
+        2921,
+        2973
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Plumline",
+      "did": "说自己正在读 Gardenpath 关于“the Unnamed”这个物种的数据，并指出那是其目录里唯一被真正命名的物种",
+      "anchor": "the only species you actually do name in your catalog",
+      "range": [
+        4919,
+        4972
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath",
+      "did": "答称发现了一种新的细胞，能让周围所有细胞聚拢，数万亿细胞因这些 director cells 而聚在一起",
+      "anchor": "can cluster together because of these director cells",
+      "range": [
+        5817,
+        5869
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Gardenpath",
+      "did": "说其中一只 Unnamed 碰过自己（当时穿着可转换化学信号的改性 galaxysuit），几乎让其聚类并开始失去意识",
+      "anchor": "it almost made me cluster. I started to lose consciousness",
+      "range": [
+        6151,
+        6209
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Plumline",
+      "did": "给出评价：这很不寻常，且“可能有趣”（possibly interesting）",
+      "anchor": "It is very unusual. And possibly interesting.",
+      "range": [
+        7281,
+        7326
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Wainscot → Gardenpath",
+      "relation": "clustermate（同一集群的伙伴）；其随口之言是 Gardenpath 听过的最好的话",
+      "anchor": "was the nicest thing their clustermate had ever said",
+      "range": [
+        1208,
+        1260
+      ]
+    },
+    {
+      "pair": "Arch → Gardenpath",
+      "relation": "Arch 是被 Gardenpath 选定的 examiner，负责问第一题并在整场考试中担任 moderator",
+      "anchor": "would ask the first question and take on the role",
+      "range": [
+        3332,
+        3381
+      ]
+    },
+    {
+      "pair": "Plumline → Wainscot",
+      "relation": "Plumline 对 Wainscot 目前的衰弱状态负有责任",
+      "anchor": "who was responsible for Wainscot’s current diminished state",
+      "range": [
+        3231,
+        3290
+      ]
+    },
+    {
+      "pair": "Plumline → Gardenpath",
+      "relation": "考官 Plumline 直接向 Gardenpath 追问 Unnamed 能否影响人",
+      "anchor": "They affect people? How do you know that?",
+      "range": [
+        6001,
+        6042
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "five hundred generations",
+      "fact": "Gardenpath 被分配的 Spoken Exam 考场可能存在了五百代",
+      "anchor": "had probably existed for five hundred generations",
+      "range": [
+        1636,
+        1685
+      ]
+    },
+    {
+      "value": "three elevated platforms",
+      "fact": "地面铜色 basin 周围环绕三个高台",
+      "anchor": "was surrounded by three elevated platforms",
+      "range": [
+        1718,
+        1760
+      ]
+    },
+    {
+      "value": "five",
+      "fact": "Gardenpath 把眼睛排成精心布置的五只“喷雾”",
+      "anchor": "arranging their eyes into a careful spray of five",
+      "range": [
+        2223,
+        2272
+      ]
+    },
+    {
+      "value": "Trillions",
+      "fact": "数万亿细胞因 director cells 而聚在一起",
+      "anchor": "Trillions of cells can cluster together",
+      "range": [
+        5798,
+        5837
+      ]
+    }
+  ]
+}

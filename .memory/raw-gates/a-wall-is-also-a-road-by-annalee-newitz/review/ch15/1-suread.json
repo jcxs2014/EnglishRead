@@ -1,0 +1,162 @@
+{
+  "chapter": "ch15",
+  "source": "text/ch15_chapter_15_this_sex_which_is_not_one.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Peristyle",
+      "did": "夜里在lupanar与Murtis一起打扫、上菜（Julia的影响处处可见：新墙、阳台与房间迅速成形）。",
+      "anchor": "At night, Peristyle worked with Murtis in the lupanar",
+      "range": [
+        715,
+        768
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Murtis与其他Unnamed",
+      "did": "向Peristyle解释墙上令人困惑的新画——都描绘Unnamed互相进入；Peristyle很久才能分辨画中男女，常见办法是颜色（男被画得比女深，与真实不符）或某角色微妙突出的触手。",
+      "anchor": "confusing new paintings appeared on the walls",
+      "range": [
+        886,
+        931
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Peristyle",
+      "did": "积累关于进入嘴/后部/前部的数据集（含男女子类别）；lupanar每个孔洞价格不同、有时因仪式而有多个价格；这些词永远进不了Language Log，粉色笔记本只留给ta自己和假想的未来学生。",
+      "anchor": "each hole fetched a different price, and sometimes",
+      "range": [
+        1959,
+        2009
+      ]
+    },
+    {
+      "n": 4,
+      "who": "外城来的访客",
+      "did": "花小钱买了一个廉价热门体位；Mara叫Peristyle过来要酒、用了一个ta从未听过的词，顾客抓住Mara的头发逼ta不适地扭动，说『She’s using the Oscan』；Mara说Oscan是这座城真正的语言。",
+      "anchor": "a visitor from another city paid for a cheap, popular",
+      "range": [
+        2694,
+        2747
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Murtis",
+      "did": "探头传话说五号房要剃须套件；被顾客以Punic议论（旧主顾给了她希腊名、她会说Punic）后，回骂『Bite my dick, you swine』；顾客大笑，说Punic像古腓尼基船划开海水的声音。",
+      "anchor": "Murtis’s face wrinkled. “Bite my dick, you swine.”",
+      "range": [
+        3384,
+        3434
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Murtis",
+      "did": "向Peristyle解释：她说的是Latin，被称为通用语言，因为地中海所到之处都有男人强迫你学；她也在教Peristyle Punic（在Mactar长大的语言），并尽量练习以免忘记。",
+      "anchor": "Latin. They call it the universal language.",
+      "range": [
+        3873,
+        3916
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Peristyle与Murtis",
+      "did": "用Language Log的词表做访谈：问Homecoming（远地出生、找回族群以长大）——Murtis说没有这个词，并追问『But does it happen?』；听Peristyle答『Not always』后说『So that was some bullshit』。问First cluster——这该叫family。",
+      "anchor": "I don’t think we have a word for that.",
+      "range": [
+        6309,
+        6347
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Murtis",
+      "did": "回答为什么用men指所有人：让Peristyle看四周——『The cities, the roads, the government, the money.』都由男人控制；Julia能继承别墅只因特别法（为罗马生三个孩子的女人可在丈夫死后继承遗产），而多数女人活不到看见一个孩子。",
+      "anchor": "The cities, the roads, the government, the money.",
+      "range": [
+        10192,
+        10241
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Murtis → Peristyle",
+      "relation": "Murtis一直在教Peristyle Punic（她在Mactar长大的语言），并尽量练习以免忘记。",
+      "anchor": "But I’ve been teaching you Punic too.",
+      "range": [
+        4013,
+        4050
+      ]
+    },
+    {
+      "pair": "Peristyle → Column",
+      "relation": "Peristyle仍能尝到gnosomes里Column的不满，担心再进入Murtis会永久关闭自己与Column之间的门。",
+      "anchor": "They could still taste the memory of Column’s disapproval",
+      "range": [
+        5012,
+        5069
+      ]
+    },
+    {
+      "pair": "访客（顾客） → Murtis",
+      "relation": "Murtis的旧主顾给了她希腊名，但她会用Punic回嘴。",
+      "anchor": "Her old patron gave her a Greek name, but she’ll speak",
+      "range": [
+        3288,
+        3342
+      ]
+    },
+    {
+      "pair": "Mara → Peristyle",
+      "relation": "同在lupanar工作的Mara叫Peristyle来给顾客上酒。",
+      "anchor": "Mara, who worked in the lupanar, called Peristyle over",
+      "range": [
+        2758,
+        2812
+      ]
+    },
+    {
+      "pair": "Peristyle → Murtis",
+      "relation": "Peristyle说自己庆幸做女人、不想告诉别人该怎么称呼自己；Murtis回说『I’m glad you’re a woman too』（Peristyle首次相信自己懂得了性别代词的意义）。",
+      "anchor": "“I’m glad you’re a woman too,” Murtis replied.",
+      "range": [
+        11107,
+        11153
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "three children for Rome",
+      "fact": "为罗马生三个孩子的女人（丈夫死后）可继承其遗产——这是Julia能继承别墅的原因，也说明男人控制法律。",
+      "anchor": "Women who bear three children for Rome can inherit",
+      "range": [
+        10309,
+        10359
+      ]
+    },
+    {
+      "value": "one child",
+      "fact": "多数女人活不到看见一个孩子，更别说三个。",
+      "anchor": "most women don’t live to see one child, let alone",
+      "range": [
+        10424,
+        10473
+      ]
+    },
+    {
+      "value": "half the planet",
+      "fact": "这里（Tentacle）的食物网从小开始，最终覆盖半个星球。",
+      "anchor": "and ended up enveloping half the planet",
+      "range": [
+        672,
+        711
+      ]
+    }
+  ]
+}

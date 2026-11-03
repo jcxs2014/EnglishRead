@@ -1,0 +1,171 @@
+{
+  "chapter": "ch01",
+  "source": "text/ch01_chapter_1_rational_people.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "第一次来到 Memory；与数百名在入学测试中拿到 supreme 评级的其他博士生一同受邀（开学典礼当天）",
+      "anchor": "It was their first time at the Memory, where they had been",
+      "range": [
+        322,
+        380
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "把一只小眼伸到身体低处一根隐秘触手末端，扫视左右的同学（讲台上行政人员正在喷吐空话）",
+      "anchor": "scanning their neighbors as a never-ending parade",
+      "range": [
+        590,
+        639
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Investigator Plumline",
+      "did": "两只手臂拍上讲台，把振动传遍学生身体，训话要求像战场指挥官一样对待考试（Pass or perish）",
+      "anchor": "Two of Investigator Plumline’s arms slapped the podium",
+      "range": [
+        3254,
+        3308
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Gardenpath",
+      "did": "在 Methods 课上当众宣布自己已选定研究区域：第三旋臂外侧的一颗行星",
+      "anchor": "In the outer grasp of the third arm.",
+      "range": [
+        8510,
+        8546
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath",
+      "did": "举手回答 Arch 教授关于数据收集“秘密第四条规则”的提问：永远备份你的笔记本",
+      "anchor": "Gardenpath shot up an arm. “Always back up your notebook.”",
+      "range": [
+        10768,
+        10826
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Wainscot",
+      "did": "作为第四位 clustermate 进入 pod，无视 Gardenpath，只向 Cobblestone 与 Buttress 夸张地问好",
+      "anchor": "Ignoring Gardenpath, Wainscot stretched to greet Cobblestone",
+      "range": [
+        14087,
+        14147
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Wainscot",
+      "did": "向全 cluster 宣布 Gardenpath 想考 Fifth Exam，研究方向是 Spigot 盘面里的一颗行星",
+      "anchor": "attempting to pass the Fifth Exam, by studying a planet",
+      "range": [
+        14390,
+        14445
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "与三名 clustermate 一同滑进 cluster bowl 融合；在维护中挑出某人基因链上的一个突变并中和了一片毒素",
+      "anchor": "Gardenpath teased out a mutation in someone’s genetic chain",
+      "range": [
+        15765,
+        15824
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Gardenpath → Oriel",
+      "relation": "同堂 Methods 课相识，互相贴膜传递友好蛋白；Oriel 出言为 Gardenpath 的“基于证据的直觉”辩护",
+      "anchor": "hunch is indistinguishable from a hypothesis.",
+      "range": [
+        9331,
+        9376
+      ]
+    },
+    {
+      "pair": "Gardenpath → Wainscot",
+      "relation": "Methods 课同学，章末成为同 pod 的 clustermate；Wainscot 当众嘲讽 Gardenpath 的研究区域",
+      "anchor": "It was Wainscot, the person from Methods class",
+      "range": [
+        13995,
+        14041
+      ]
+    },
+    {
+      "pair": "Gardenpath → Cobblestone / Buttress",
+      "relation": "同一 pod 的 clustermate；Cobblestone 是金属工程师，Buttress 是语言学家",
+      "anchor": "Cobblestone, a metal engineer, and Buttress, a linguist",
+      "range": [
+        13280,
+        13335
+      ]
+    },
+    {
+      "pair": "Investigator Plumline → 全体新生",
+      "relation": "科学主任（只授予通过 Fifth Exam 者的头衔）发表开学训话，把典礼定性为考试流程的开端",
+      "anchor": "approach your exams like a commander on the battlefield",
+      "range": [
+        3393,
+        3448
+      ]
+    },
+    {
+      "pair": "Professor Arch → Gardenpath",
+      "relation": "授课教授；因 Gardenpath 答出“秘密第四条规则”而称赞其是老练的研究者",
+      "anchor": "That’s right! You must be a seasoned researcher.",
+      "range": [
+        10884,
+        10932
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "hundreds",
+      "fact": "与 Gardenpath 一起受邀到 Memory 的博士生人数（入学测试获 supreme 评级）",
+      "anchor": "hundreds of other graduate students who earned",
+      "range": [
+        400,
+        446
+      ]
+    },
+    {
+      "value": "five eyestalks",
+      "fact": "Investigator Plumline 头顶正式的五个眼柄簇",
+      "anchor": "body crowned with a formal cluster of five eyestalks",
+      "range": [
+        2398,
+        2450
+      ]
+    },
+    {
+      "value": "seven eyestalks",
+      "fact": "Professor Arch 随性排布的七个眼柄花束，刻意显示自己不像 Investigator 那样严厉",
+      "anchor": "Professor Arch sported a jaunty bouquet of seven eyestalks",
+      "range": [
+        10380,
+        10438
+      ]
+    },
+    {
+      "value": "four clustermates",
+      "fact": "Memory 住宿系统把每个人随机分到四人一组的 clustermate",
+      "anchor": "assigned everyone to random groups of four clustermates",
+      "range": [
+        11823,
+        11878
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "chapter": "ch21",
+  "source": "text/ch21_chapter_21_homecoming.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "作为 Rational People 出身的产物：来自一个 mating cluster，众人同意混合遗传物质、打包成数百个几丁质孢子并从结果臂尖释放",
+      "anchor": "package it up in hundreds of chitinous spores",
+      "range": [
+        539,
+        584
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "其孢子被一艘路过的堆肥船扫入口中，最早记忆是腐烂有机物温热的臭气（味道丰富多样）",
+      "anchor": "had been swept into the maw of a passing compost ship",
+      "range": [
+        972,
+        1025
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Robust",
+      "did": "一位来自杂色星群的长老，给 Gardenpath 取名 Wanderer 并帮其脱离 sprouthood（在其膜中植入感光器、曝露于星光以促生长）",
+      "anchor": "gave Gardenpath the name Wanderer and helped them emerge",
+      "range": [
+        3016,
+        3072
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Gardenpath",
+      "did": "在 Spigot 的星系盘发现一颗行星，其化学特征暗示生物呼吸（生命）；教授鼓励其申请研究生院主攻生态系统演化",
+      "anchor": "chemical signatures suggested biological respiration",
+      "range": [
+        6331,
+        6383
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath",
+      "did": "最终硬化成石（sclerotic）、意识静止；在意识最后流失时怀疑理性只是幻觉、自己或是注定孤独死去的怪物",
+      "anchor": "Finally they became sclerotic, body hardening into stone",
+      "range": [
+        3820,
+        3876
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath",
+      "did": "在名为 Crook-in-the-Road 的 cohousing 结构的医院中温暖潮湿中醒来（该地是记忆中的 Rational 场所）",
+      "anchor": "the cohousing structure known as Crook-in-the-Road",
+      "range": [
+        4128,
+        4178
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Robust",
+      "did": "做了最后的善举：把 Gardenpath 僵直的身体藏在一艘异星船只的采集罐里",
+      "anchor": "in the collection tank of an alien vessel",
+      "range": [
+        4707,
+        4748
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "注意到一个规律：这些书的许多作者都在 Memory 工作，而带回自己的探针正是 Memory 发射的",
+      "anchor": "Many of the authors of these books worked at the Memory.",
+      "range": [
+        5739,
+        5795
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Robust → Gardenpath",
+      "relation": "Robust 是船上的长老，取自杂色星群，给其取名并帮其度过 sprouthood",
+      "anchor": "an elder named Robust from a motley assemblage of stars",
+      "range": [
+        2959,
+        3014
+      ]
+    },
+    {
+      "pair": "Robust → Gardenpath",
+      "relation": "Robust 对其做了最后的善举：藏起其僵直的身体",
+      "anchor": "done them a final kindness, stashing their inert body",
+      "range": [
+        4653,
+        4706
+      ]
+    },
+    {
+      "pair": "Memory → Gardenpath",
+      "relation": "带回 Gardenpath 的探针出自同一处（Memory）",
+      "anchor": "place that had launched the probe that brought them home",
+      "range": [
+        5812,
+        5868
+      ]
+    },
+    {
+      "pair": "professors → Gardenpath",
+      "relation": "教授们鼓励 Gardenpath 申请研究生院",
+      "anchor": "encouraged Gardenpath to apply to graduate school",
+      "range": [
+        6521,
+        6570
+      ]
+    },
+    {
+      "pair": "Gardenpath → Oriel",
+      "relation": "Gardenpath 现在有了一个最好的朋友和一个自己真正相信的项目",
+      "anchor": "had a best friend, and a project they truly believed in",
+      "range": [
+        7051,
+        7106
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "hundreds",
+      "fact": "孢子以数百个几丁质孢子的形式被释放",
+      "anchor": "up in hundreds of chitinous spores, and release",
+      "range": [
+        550,
+        597
+      ]
+    },
+    {
+      "value": "ten thousand",
+      "fact": "Crook-in-the-Road 是一万多 Rational People 的居住枢纽（多为农民和水矿工）",
+      "anchor": "a residential hub for over ten thousand Rational People",
+      "range": [
+        4333,
+        4388
+      ]
+    },
+    {
+      "value": "180 degrees",
+      "fact": "其孢子可能经虫洞加速，最终落在与 Globe 起点几乎相反的位置",
+      "anchor": "nearly 180 degrees from where it had started in the Globe",
+      "range": [
+        2044,
+        2101
+      ]
+    }
+  ]
+}

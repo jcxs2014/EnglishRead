@@ -1,0 +1,171 @@
+{
+  "chapter": "ch27",
+  "source": "text/ch27_chapter_27_an_excellent_sparring_match.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Plumline",
+      "did": "说 Wainscot 在练习厅与更进阶的学生在一起，自己想专注于 Gardenpath，并称 Gardenpath 比 Wainscot 有前途得多",
+      "anchor": "I wanted to devote my attention to you.",
+      "range": [
+        259,
+        298
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Plumline",
+      "did": "伸臂触碰 Gardenpath，灼烧感在其膜上扩散，并以痛苦撕裂的方式进入其体内",
+      "anchor": "A burning sensation diffused across Gardenpath’s membrane",
+      "range": [
+        1039,
+        1096
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Plumline",
+      "did": "在 Gardenpath 体内命令其展示触碰多细胞生物里 director cells 的经历，明确不要数据而要体验本身",
+      "anchor": "Show me what happened when you touched the director cells",
+      "range": [
+        1605,
+        1662
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Gardenpath",
+      "did": "闪避导师的抓取，让一个 gnosome 变通透，释放出与 Murtis 触碰手臂时被强制 clustering 的去语境化感受",
+      "anchor": "the decontextualized sensation of being forced to cluster",
+      "range": [
+        2476,
+        2533
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Wainscot",
+      "did": "在 cluster bowl 崩溃成一滩并哭诉说 Plumline 的练习“感觉像被谋杀”",
+      "anchor": "But it hurts so much. It feels like being murdered.",
+      "range": [
+        7341,
+        7392
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath 与 Wainscot",
+      "did": "Gardenpath 提议告诉 Plumline 两人想一起备考 Third；Wainscot 附议可把它包装成一场竞赛",
+      "anchor": "we want to study for the Third together?",
+      "range": [
+        10901,
+        10941
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Plumline",
+      "did": "宣布两人的考试排在下次旅程的 Contribution 期间，要求把假设新鲜地编入 gnosomes 以便考官直接提取",
+      "anchor": "your exams on our next journey, during Contribution.",
+      "range": [
+        15905,
+        15957
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Nuraghe",
+      "did": "感谢 Gardenpath 想出办法避免与导师独处，随后害羞地伸出手臂，并私下说要想办法警告更年轻的学生",
+      "anchor": "thanked Gardenpath for coming up with a way",
+      "range": [
+        13338,
+        13381
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Plumline → Gardenpath",
+      "relation": "Plumline 是 Gardenpath 的导师（their adviser），两人单独在 Plumline 办公室",
+      "anchor": "at Plumline’s office, their adviser was alone",
+      "range": [
+        117,
+        162
+      ]
+    },
+    {
+      "pair": "Wainscot → Plumline",
+      "relation": "Wainscot 长期被 Plumline 强迫练习，直到 Gardenpath 出现；练习令其痛苦到像被谋杀",
+      "anchor": "They’ve been making me practice for a long time.",
+      "range": [
+        7217,
+        7265
+      ]
+    },
+    {
+      "pair": "Gardenpath → Oriel",
+      "relation": "Gardenpath 爱着“与挚友共建生活”的念头；Oriel 是他们的 best friend",
+      "anchor": "building a life with their best friend",
+      "range": [
+        7727,
+        7765
+      ]
+    },
+    {
+      "pair": "Gardenpath ↔ Wainscot",
+      "relation": "两名 former enemies 结成同盟，用不太隐蔽的策略避免与 Plumline 独处",
+      "anchor": "the two former enemies had banded together",
+      "range": [
+        12707,
+        12749
+      ]
+    },
+    {
+      "pair": "Oriel → Plumline",
+      "relation": "Oriel 评价 Plumline 的教学法：那是彻头彻尾的谎言，是虐待而非教学，必须告诉别人",
+      "anchor": "That is a complete lie. It’s abuse, not teaching.",
+      "range": [
+        9044,
+        9093
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "fifty generations",
+      "fact": "Plumline 说 Gardenpath 将成为五十代以来最伟大的学者",
+      "anchor": "you will be the greatest scholar in fifty generations",
+      "range": [
+        5484,
+        5537
+      ]
+    },
+    {
+      "value": "a hundred generations",
+      "fact": "有学生相信这位 investigator 是百代以来最伟大的科学家",
+      "anchor": "the greatest scientist in a hundred generations",
+      "range": [
+        13076,
+        13123
+      ]
+    },
+    {
+      "value": "several other students",
+      "fact": "多名其他学生也突然提出用“竞争”模式备考 Third",
+      "anchor": "Several other students suddenly proposed",
+      "range": [
+        12815,
+        12855
+      ]
+    },
+    {
+      "value": "the Second",
+      "fact": "Buttress 带着水汽抵达，宣布自己终于通过了 Second 考试",
+      "anchor": "It finally happened! I passed the Second!",
+      "range": [
+        12136,
+        12177
+      ]
+    }
+  ]
+}

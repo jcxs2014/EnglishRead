@@ -1,0 +1,171 @@
+{
+  "chapter": "ch06",
+  "source": "text/ch06_chapter_6_this_is_fine.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "在图书馆把杂乱数据整理成食物网图表：通过描述捕食者与猎物、食草动物与植物之间的关系，追踪能量在生态系统中流动的方式。",
+      "anchor": "generating a food web chart, tracking the way energy moved",
+      "range": [
+        422,
+        480
+      ]
+    },
+    {
+      "n": 2,
+      "who": "抗议的学生们",
+      "did": "围着 administration building 聚集，挥动 biofilm、携带 diffuser，齐声喊“No science for war!”与“This is a Memory! Not a weapons factory!”。",
+      "anchor": "No science for war! No science for war!",
+      "range": [
+        2260,
+        2299
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Turret",
+      "did": "（紫色与蓝色斑点）握到 administration building 门口，散发一股有说服力的甲烷，自报是 Cloud Person，幼年随 cluster 从 Skiff 移民到 Rational Space 以逃离战争；说战争又找到了他们，Memory 正与 Galleon 的 Cloud People 分享知识，会被武器化对付 Skiff 的族人。",
+      "anchor": "immigrated from Skiff to Rational Space with my cluster",
+      "range": [
+        3413,
+        3468
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Wainscot",
+      "did": "送出一顶正式的“眼睛王冠”与一条奇长的手臂讽刺地打招呼，宣称自己正在正式准备 Second Exam、First 拿了最高分，并说一位匿名评审认为他们必将成为六代以来最年轻的 investigator；随后边说边退出门外。",
+      "anchor": "I am officially preparing for the Second Exam.",
+      "range": [
+        4428,
+        4474
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Gardenpath 与 Oriel",
+      "did": "把 wander trail 画成图案：Gardenpath 的橙绿轨迹与 Oriel 的银色轨迹在图书馆上层墙面合成一幅花与藤的 trellis，随后光泽褪去、被图书馆吸收。",
+      "anchor": "elaborate trellis of flowers and vines on the upper walls",
+      "range": [
+        9193,
+        9250
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath",
+      "did": "从长时间的无意识中 individuate 后顿悟：没有搞错同位素读数，而是误解了每个生命形式在食物网中的位置——Tentacle 上是多细胞生物吃一切，食物网上下颠倒；随后向 Professor Arch 陈述，Arch 说他们把发现包裹在关于火山活动与生命演化的公认学术层里做得很好、站在很稳的地基上，只是可能收到几条辛辣评语。",
+      "anchor": "creatures at the top and multicellular life at the bottom",
+      "range": [
+        11182,
+        11239
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Gardenpath",
+      "did": "向 Column 请求分享未写进 Data Exam 的数据（多细胞动物在创作艺术、建造城市、使用语言），并采纳 Column 提到的 Barnloft 的 planetsuit exoskeleton 思路，计划把自己的 galaxysuit 编程成 Unnamed 的样子以走进他们中间、模仿他们的振动。",
+      "anchor": "I could program my galaxysuit to look like an Unnamed",
+      "range": [
+        18531,
+        18584
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "在到 Memory 第 146 次 journey、cluster call 扩散到校园之前，把笔记本插入 vent、把文件发送给考官（措辞刻意干燥、地点模糊）；随后收到消息“You have passed the Data Exam”，附表三名匿名评审中两名留空、一名只写“This is fine.”",
+      "anchor": "on the 146th journey of Gardenpath’s time at the Memory",
+      "range": [
+        12964,
+        13019
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Wainscot → Gardenpath",
+      "relation": "同一个 cluster 的 clustermate，且是反复嘲讽、竞争的关系",
+      "anchor": "their clustermate was already on their way out the window",
+      "range": [
+        15293,
+        15350
+      ]
+    },
+    {
+      "pair": "Oriel → Gardenpath",
+      "relation": "first and only best friend；Oriel 的手臂伸进膜内抚摸，让 Gardenpath 感到突然而惊恐的愉悦，随即抽身",
+      "anchor": "their arm stroked the inside of Gardenpath’s membrane",
+      "range": [
+        9989,
+        10042
+      ]
+    },
+    {
+      "pair": "Turret → Skiff 的族人",
+      "relation": "Turret 称 Memory 与 Galleon 分享的知识会被武器化，针对在 Skiff 的族人",
+      "anchor": "obviously going to be weaponized against my people in Skiff",
+      "range": [
+        3655,
+        3714
+      ]
+    },
+    {
+      "pair": "Gardenpath → Professor Arch",
+      "relation": "考试导师：Gardenpath 找 Arch 讨论自己的考试",
+      "anchor": "Professor Arch? Do you have time to discuss my exam?",
+      "range": [
+        11416,
+        11468
+      ]
+    },
+    {
+      "pair": "Oriel → Column",
+      "relation": "Oriel 选 Column 作为 Second Exam 的 examiner",
+      "anchor": "I’m working with Column, obviously.",
+      "range": [
+        16550,
+        16585
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "147 journeys",
+      "fact": "若在 147 次 journey 后仍未通过 Data Exam，学术生涯即告结束",
+      "anchor": "passed the Data Exam after 147 journeys, their career",
+      "range": [
+        1062,
+        1115
+      ]
+    },
+    {
+      "value": "twenty journeys left",
+      "fact": "Gardenpath 距非正式截止只剩二十次 journey",
+      "anchor": "only twenty journeys left before the unofficial deadline,",
+      "range": [
+        1145,
+        1202
+      ]
+    },
+    {
+      "value": "146th journey",
+      "fact": "Gardenpath 在到 Memory 的第 146 次 journey 提交了考试文件",
+      "anchor": "on the 146th journey of Gardenpath’s time at the Memory",
+      "range": [
+        12964,
+        13019
+      ]
+    },
+    {
+      "value": "three journeys ago",
+      "fact": "Redoubt Lab 与 Galleon 的 Cloud People 结盟只是三次 journey 前的事",
+      "anchor": "it was only three journeys ago that the Redoubt Lab formed",
+      "range": [
+        2882,
+        2940
+      ]
+    }
+  ]
+}

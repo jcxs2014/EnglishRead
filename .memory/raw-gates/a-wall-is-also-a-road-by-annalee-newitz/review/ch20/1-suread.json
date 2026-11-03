@@ -1,0 +1,153 @@
+{
+  "chapter": "ch20",
+  "source": "text/ch20_chapter_20_chosen_one.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Oriel",
+      "did": "在生物学塔上层环带的实验森林里向 Gardenpath 报喜自己通过了考试（原以为 Plumline 会放逐自己）",
+      "anchor": "I can’t believe I passed! I was sure Plumline",
+      "range": [
+        164,
+        209
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "拒绝给 Unnamed 改名",
+      "anchor": "“I’m not going to change their name.”",
+      "range": [
+        1388,
+        1425
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Gardenpath",
+      "did": "说明不改名的理由：Plumline 直接问过自己是否做文化研究，自己答了“没有”",
+      "anchor": "asked me directly if I was doing cultural studies",
+      "range": [
+        1498,
+        1547
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Gardenpath",
+      "did": "说自己行星勘查时见过许多其他 Unnamed 城市，文化明显不同，但没机会研究",
+      "anchor": "I observed many other Unnamed cities",
+      "range": [
+        2372,
+        2408
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Oriel",
+      "did": "宣布拿到 doctorate 后立刻离开 Memory，不留下",
+      "anchor": "As soon as I get my doctorate I’m out.",
+      "range": [
+        3795,
+        3833
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Wainscot",
+      "did": "转告 Gardenpath：Plumline 已选其为自己下一个 advisee",
+      "anchor": "They’ve chosen you to be their next advisee.",
+      "range": [
+        6342,
+        6386
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Arch",
+      "did": "发来短信祝贺 Gardenpath 通过第二次考试",
+      "anchor": "Arch congratulating them on passing the Second",
+      "range": [
+        7529,
+        7575
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Wainscot",
+      "did": "在 Gardenpath 难以融入集群时软化下来，传出半梦的想法“It’s going to be OK”",
+      "anchor": "It’s going to be OK, Gardenpath. I promise.",
+      "range": [
+        9786,
+        9829
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Gardenpath → Oriel",
+      "relation": "两人无言同行、只交换亲近感",
+      "anchor": "exchanging nothing but a sense of closeness",
+      "range": [
+        2221,
+        2264
+      ]
+    },
+    {
+      "pair": "Oriel → Column",
+      "relation": "Oriel 将继续与 Column 共事",
+      "anchor": "I’m going to keep working with Column.",
+      "range": [
+        2917,
+        2955
+      ]
+    },
+    {
+      "pair": "Gardenpath → Arch",
+      "relation": "Gardenpath 打算请 Professor Arch 当自己的导师",
+      "anchor": "I’m going to ask Professor Arch. They made my exam",
+      "range": [
+        2743,
+        2793
+      ]
+    },
+    {
+      "pair": "Plumline → Gardenpath",
+      "relation": "Plumline 选中 Gardenpath 做其下一个 advisee（指派导师关系）",
+      "anchor": "They’ve chosen you to be their next advisee.",
+      "range": [
+        6342,
+        6386
+      ]
+    },
+    {
+      "pair": "Wainscot → Gardenpath",
+      "relation": "Wainscot 无视 Oriel，把全部眼睛对准 Gardenpath 说话",
+      "anchor": "Wainscot ignored them, training all eyes on Gardenpath.",
+      "range": [
+        6231,
+        6286
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "thirty-two generations",
+      "fact": "Plumline Lab 据信在过去三十二代中训出的 investigator 比任何实验室都多",
+      "anchor": "of any lab in the past thirty-two generations",
+      "range": [
+        7889,
+        7934
+      ]
+    },
+    {
+      "value": "a generation or two",
+      "fact": "Oriel 说或许一两代人后会有人弄清 Unnamed 的名字",
+      "anchor": "somebody will figure it out, in a generation or two.",
+      "range": [
+        2588,
+        2640
+      ]
+    }
+  ]
+}
