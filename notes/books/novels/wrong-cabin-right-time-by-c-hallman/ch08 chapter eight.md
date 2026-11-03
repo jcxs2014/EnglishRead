@@ -25,15 +25,15 @@ modified: "2026-11-03"
 
 **读者视角提示**：这个名字练习在后面还会被用到。记住「Featherstone-Blacksburg」这个连字符：她连妥协方案都想好了。
 
-> **原句 2:** "I can't lie. After Travis sent me away in my sexiest dress, post–almost killing me with his car, I thought we were done. Maybe I'd been a little delusional and thought he was more into me than he was. But then he came to the cabin to fuck me, and now I know the truth."
+> **原句 2:** "I can't lie. After Travis sent me away in my sexiest dress, post–almost killing me with his car, I thought we were done. Maybe I'd been a little delusional and thought he was more into me than he was."
 
-**中文理解**：她没法否认：他把她穿着最性感裙子的那个晚上赶走、再加上差点用车撞了她之后，她以为结束了，还怀疑自己是不是一厢情愿、把他想得比实际更投入。可他后来上门，现在她知道真相了。
+**中文理解**：她没法否认：他把她穿着最性感裙子的那个晚上赶走、再加上差点用车撞了她之后，她以为结束了，还怀疑自己是不是一厢情愿、把他想得比实际更投入。可他后来还是登门了。
 
-**关键词**：sent me away / delusional / came to the cabin / the truth
+**关键词**：sent me away / delusional / more into me
 
-**为什么这样写**：这段是全章的认知地基：她把「被赶走」列为失恋，「差点被撞」只当插曲，真正让她确认关系的是那晚——在她心里，一次交合就是爱情的判决书。作者让她的推理链一句不错、结论全错。
+**为什么这样写**：这段是全章的认知地基：她把「被赶走」列为失恋，「差点被撞」只当插曲，真正让她确认关系的是他后来的登门——在她心里，一次靠近就是爱情的判决书。作者让她的推理链一句不错、结论全错。
 
-**读者视角提示**：她终于说对了半句：「他确实来了」。但来的目的，下一块会由他自己回答。
+**读者视角提示**：她终于说对了半句：「他确实来过」。但来的目的，下一块会由他自己回答。
 
 > **原句 3:** "I have to admit, he is kind of an oddball, but in a cute and special way. Travis plays to the beat of his own drum, and that's one of the things I love about him. He is different, an enigma of sorts. He is guarded, and a bit of a recluse, I think, but I even like that about him."
 
@@ -81,7 +81,7 @@ modified: "2026-11-03"
 
 **关键词**：two strong arms / caught me / pulls away / on the schedule
 
-**为什么这样写**：同一双胳膊，上一章用来掐、这一章用来接——作者不解释，只让动作重复。「catch」在这里完成全文最重要的一次双关：他接住了她，也就此放走了自己送上门的猎物。他的拒绝理由还是那句「日程」：他连情欲都要排期。
+**为什么这样写**：同一双胳膊，上一章打算用来掐、这一章用来接——作者不解释，只让动作重复。「catch」在这里完成全文最重要的一次双关：他接住了她，也就此放走了自己送上门的猎物。他的拒绝理由还是那句「日程」：他连情欲都要排期。
 
 **读者视角提示**：他「把她放到地上」这个动作比任何台词都响：他选择放她下来，不是因为他温柔，是因为他必须结束这个拥抱。
 
