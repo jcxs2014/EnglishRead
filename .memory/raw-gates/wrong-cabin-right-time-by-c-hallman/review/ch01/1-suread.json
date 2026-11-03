@@ -1,0 +1,55 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch01",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch01_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "Travis（屋主、叙述者）磨刀是为周四杀 Kevin；他自称从不乱杀、只「聪明地杀」，每次动手要花数周计划。",
+   "anchor": "I want the blade perfect for when I kill Kevin on Thursday",
+   "start": 861,
+   "end": 919
+  },
+  {
+   "fact": "下午三点半有人敲门；这个点太晚不可能是邮差，而邮差是唯一会敲门的人——他独居山边就是为了没人进他的空间。",
+   "anchor": "I glance at the clock on my kitchen wall: 3:30 p.m.",
+   "start": 2139,
+   "end": 2190
+  },
+  {
+   "fact": "门铃摄像头里是粉色丸子头女人，第三次狠敲；门口无车，判断她步行而来，背着与她身材极不相称的大背包。",
+   "anchor": "a messy bun of pink hair",
+   "start": 2795,
+   "end": 2819
+  },
+  {
+   "fact": "磨刀时鸟掠过窗、他手滑割伤拇指，伤口约半毫米深；他自记要调整手腕扭矩，并拔头发试刃口。",
+   "anchor": "half a millimeter deep",
+   "start": 1456,
+   "end": 1478
+  },
+  {
+   "fact": "他身高六英尺二英寸，她矮约一英尺；近距离看推测她快三十岁、与他同龄；她穿洗旧紫衫、黑打底裤、人字拖。",
+   "anchor": "in her late twenties",
+   "start": 4690,
+   "end": 4710
+  },
+  {
+   "fact": "她自报全名 Juniper Sage Featherstone；他查过五英里内所有邻居底细，知道 Ryan Mitchell 去佛罗里达时出租小屋。",
+   "anchor": "Juniper Sage Featherstone, but I go by Sage",
+   "start": 5518,
+   "end": 5561
+  },
+  {
+   "fact": "他告诉 Sage 走错地方：Ryan 住在半英里外山的另一侧；Sage 解释自己是 Airbnb 测评师、看错地图。",
+   "anchor": "Ryan lives half a mile from here",
+   "start": 9129,
+   "end": 9161
+  },
+  {
+   "fact": "她临走转身开玩笑：至少闯的是好人的家，不是连环杀手的；他嘴角上扬笑答「Yeah, lucky」。",
+   "anchor": "Hey, at least I crashed the house of a nice guy and not some serial killer",
+   "start": 10710,
+   "end": 10784
+  }
+ ]
+}
