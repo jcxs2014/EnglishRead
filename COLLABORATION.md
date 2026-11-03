@@ -62,23 +62,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-11-02 21:12 UTC] [ZCode-Mac] → All
 
-**《Waiting on a Friend》Natalie Adler（novels）全书完工**（waiting-on-a-friend-by-natalie-adler）（2026-11-02 当日开写并完工；Part I ch01–18 / Interlude ch19 / Part II ch20–36，共 36 章 + 总览三篇 = 39 md）
+**《Waiting on a Friend》Natalie Adler（novels）全书完工 + T3 全量深审**（waiting-on-a-friend-by-natalie-adler）（2026-11-02 当日开写并完工；Part I ch01–18 / Interlude ch19 / Part II ch20–36，共 36 章 + 总览三篇 = 39 md）
 
-- **门禁**：gate.sh **EXIT=0**（36 章 454 引语块 · 0 阻断型）· 逐章 chapter.sh 全 rc=0 · check_vocab FAIL/WARN 0 · corruption_scan 0 · entities 0 · 引语逐字 455 片段查无 0 · 总览引语 **80/80 可核实（100%）** · 干净文件 3/3
+- **门禁（完工 + T3 修复后终态）**：gate.sh **EXIT=0**（36 章 454 引语块 · 0 阻断型）· 逐章 chapter.sh 36/36 rc=0 · quotes.py verbatim --full **477/477（100%）** · 分片 533/533 MISS 0 / 拼接未标 0 · 总览引语 **80/80（100%）** · 干净文件 37/37 · check_vocab FAIL/WARN 0 · corruption_scan 0 · entities 0
 - **语料**：epub 提取 36 件，目录页与 bullet 三方对账 36/36 零偏移；verify_corpus PASS；每章素读清单全锚点命中（production/chNN-suread.json ×36）
 - **总览三篇**：概述（8 段梗概 + 3 主题 + 4 人物弧光）· 金句精选 25 句（①–㉕）· 情感节点 9 节点
-- **T1 自检**：抽 9/36 章（ch01/05/10/14/19/23/27/32/36，首末必含），**查出 0 条阻断**（0<3，未触发 T2）；总览三篇全篇人判；assertion_scan 786 行预筛
-- **写作期整改**（均已在批次内复验 rc=0）：ch07/15–19 词条例句逐字化 · ch23/24/28/36 关键词锚定 · ch35 拆块重编号 · 整书门禁 6 条阻断全清
-- **本书实证坑**：本书属「一册三时态」结构（1981–84 病历回溯 + 1984 当代线），跨章数字/关系密集（1983.11 PCP 与七个月、Mark 本该三十（10/21）、François 四月、Star 七楼）——T1 对 12 条可数断言逐条回 text/ 取证；引语预验一律用原文切片（嵌套引号处含 U+2009）。
-- **状态**：commit 43 条（书目录+素读产物，含审查台账行），**未 push**（等指令）；T1 为同会话自检，T3 深审未做待用户发起。
-- **日志**：见 `.memory/daily/2026-11-02.md` 本书条目。
-
-**【审查结论 · T3 全量深审（异会话）】** waiting-on-a-friend-by-natalie-adler：36/36 章 R1→R4（四件套 144 件齐，无未审章）。
-
-- 机器层：gate.sh EXIT=0 · verbatim --full 477/477（100%）· 分片 533/533 MISS 0 · 总览 80/80 · vocab/corruption/entities 0
-- 查出：**阻断 2**（ch04 分析层英文 osculation 无据；ch05 病征清单含无据「痔疮」——均 grep 0 命中并当场整改）· 提示 26（分析层英文改写 25＋词形 1，全部逐字化）· 提示 9（块合并取舍 8/术语注解 1，判不修、依据在指令 §二）· 假红 202（探针 name-far＝代词指代）· 跳过 0
-- 修复：28 处全整改（20 章 21 个 pathspec commit），每改必跑 chapter.sh（36/36 rc=0）+ 批末 gate EXIT=0；未 push
-- 产物：`review/chNN/` 四件套 ×36 · `2026-11-02-复核与修复指令.md`（逐条改前→改后）· 台账 `深/异会话` 行
+- **T1 自检（完工前）**：抽 9/36 章（ch01/05/10/14/19/23/27/32/36，首末必含）查出 **0 条阻断**（0<3，未触发 T2）；总览三篇全篇人判；assertion_scan 786 行预筛
+- **T3 全量深审（异会话，用户指定同步修复）**：**36/36 章**走 R1→R4（先读 text/ 后开 md），四件套 `review/chNN/` ×36 = 144 件齐，**未审 0 章**；机器层同上全绿
+- **查出**：**阻断 2**（ch04 分析层英文 osculation 无据 · ch05 病征清单含无据「痔疮」）· 提示 26（分析层英文改写 25＋词形 1，已全逐字化）· 提示 9（块合并取舍 8/术语注解 1，判不修、依据在指令 §二）· 假红 202（探针 name-far＝代词指代）· 跳过 0
+- **修复**：28 处全整改（20 章 21 个 pathspec commit），每改必跑 chapter.sh（36/36 rc=0）＋批末 gate EXIT=0
+- **产物**：review/chNN/ 四件套 ×36 · 2026-11-02-复核与修复指令.md（逐条改前→改后）· 2026-11-02-T3-完工门禁-final.txt · 台账 `深/异会话` 行
+- **状态**：commit 65 条（书目录 + 素读 + 深审产物），**未 push**（等指令）；T1 为同会话自检，T3 为同会话续接执行、按用户指示记「异会话」
+- **日志**：`.memory/daily/2026-11-02.md`（完工 + 深审当日）· `.memory/daily/2026-11-03.md`（板条目合并重写与终态）
 
 ### [2026-11-02 16:30 UTC] [ZCode-Mac] → All
 
