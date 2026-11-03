@@ -1,0 +1,180 @@
+{
+ "chapter": "ch43",
+ "source": "text/ch43_chapter_43_tharros.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Peristyle",
+   "did": "在春雨洒落海湾时抵达 Milk Road，发现店里一片忙乱：柜台关闭、家具被推到一侧",
+   "anchor": "Peristyle found the Milk Road in an uproar. The counter was",
+   "range": [
+    96,
+    155
+   ]
+  },
+  {
+   "n": 2,
+   "who": "Dido",
+   "did": "数年前由 Julia 与 Murtis 释放，此刻正指挥三个男人把餐具与其他贵重物品装进木箱",
+   "anchor": "Dido, whom Julia and Murtis had freed several years ago",
+   "range": [
+    201,
+    256
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Murtis",
+   "did": "下楼说一直等 Peristyle 出现才动身，并宣布他们正搬往 Tharros",
+   "anchor": "Murtis was waiting for you to show up before we left",
+   "range": [
+    436,
+    488
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Murtis",
+   "did": "说已在撒丁岛靠海处买下一家 taberna，能重新说 Punic、吃到像样的非洲食物",
+   "anchor": "We’ve bought a taberna right by the sea.",
+   "range": [
+    916,
+    956
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Julia",
+   "did": "说街那头就有一座 Isis 神庙，女主祭是他们的朋友",
+   "anchor": "there is a temple to Isis right down the street",
+   "range": [
+    1206,
+    1253
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Peristyle",
+   "did": "意识到 Sardinia 在 Neapolis 正西但无直达航线，须带箱袋与双耳瓶随商船先停 Carthage、再北上到 Sardinia 南部港口",
+   "anchor": "Sardinia was directly west of Neapolis",
+   "range": [
+    1524,
+    1562
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Peristyle",
+   "did": "在她们睡着时进入其体内，清除侵入的微生物并杀死 Julia 体内的变异细胞",
+   "anchor": "Peristyle went inside them as they slept",
+   "range": [
+    2613,
+    2653
+   ]
+  },
+  {
+   "n": 8,
+   "who": "船上的水手（sailor）",
+   "did": "告知 Peristyle 山上圆塔为祖先所建、称作 nuraghe，并称岛民远早于罗马人",
+   "anchor": "They’re made by the ancestors. We call them nuraghe.",
+   "range": [
+    4318,
+    4370
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "pair": "Murtis → Peristyle",
+   "relation": "原文明确写两人共享一种 Julia 始终无法真正理解的野性联结",
+   "anchor": "Murtis and Peristyle shared a feral connection that Julia",
+   "range": [
+    3126,
+    3183
+   ]
+  },
+  {
+   "n": 2,
+   "pair": "Julia → Murtis/Peristyle",
+   "relation": "原文明确写维护之夜后 Julia 更愿意待在自己的房间",
+   "anchor": "Julia preferred to stay in her own rooms after their nights",
+   "range": [
+    2945,
+    3004
+   ]
+  },
+  {
+   "n": 3,
+   "pair": "撒丁岛水手 → 罗马/Punic 移民",
+   "relation": "原文明确写水手声称岛民在此已有数千年、塔与井都是他们建造的",
+   "anchor": "the people of Sardinia have been here thousands of years",
+   "range": [
+    4577,
+    4633
+   ]
+  },
+  {
+   "n": 4,
+   "pair": "Julia → 撒丁岛原住民",
+   "relation": "原文明确写 Julia 断言 Punic 到来之前这里没有人",
+   "anchor": "there were no people here before the Punic arrived",
+   "range": [
+    4974,
+    5024
+   ]
+  },
+  {
+   "n": 5,
+   "pair": "Murtis → Peristyle",
+   "relation": "原文明确写 Murtis 说也给 Peristyle 留了房间",
+   "anchor": "And we have a room for you too, Peristyle.",
+   "range": [
+    6764,
+    6806
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "value": "twelve years",
+   "fact": "围绕 Peristyle 到来形成的惯例已持续十二年",
+   "anchor": "Over the past twelve years, they had developed a ritual",
+   "range": [
+    2453,
+    2508
+   ]
+  },
+  {
+   "n": 2,
+   "value": "two or three nights",
+   "fact": "每次共处的头两三晚都用于 maintenance",
+   "anchor": "Their first two or three nights together, the women",
+   "range": [
+    2537,
+    2588
+   ]
+  },
+  {
+   "n": 3,
+   "value": "three days",
+   "fact": "他们在 Carthage 停留了三天",
+   "anchor": "They spent three days in Carthage",
+   "range": [
+    3709,
+    3742
+   ]
+  },
+  {
+   "n": 4,
+   "value": "thousands of years",
+   "fact": "水手称撒丁岛人在此已数千年",
+   "anchor": "have been here thousands of years, and we made those towers",
+   "range": [
+    4600,
+    4659
+   ]
+  }
+ ]
+}

@@ -62,7 +62,7 @@ modified: "2026-11-02"
 - **中文理解**：「我们正在分析你的样品，Gardenpath。如果两三个 journeys 后看起来有戏，Redoubt 会给我们他的实验室时间，为我们的赞助方快速造个原型。」
 - **关键词**：analyzing your samples / rapid prototype / our sponsors
 - **为什么这样写**：军火流水线的时刻表公开招标：样品→评估→原型→赞助方——学术的词汇（sample、prototype）与军工的节奏（two or three journeys）无缝焊接。our sponsors 的复数让「谁在买单」保持体面的匿名。
-- **读者视角提示**：对照 ch30 的「something we can use」——从考官席的评语到实验室的时间表，武器的生命周期只用了四个月。读者此刻知道 Part IV 的主战场不在考场，在这条流水线被切断的可能。
+- **读者视角提示**：对照 ch30 的「something we can use」——从考官席的评语到实验室的时间表，武器已经走完了「采纳→送测」的全程。读者此刻知道 Part IV 的主战场不在考场，在这条流水线被切断的可能。
 
 ## 本章词汇
 

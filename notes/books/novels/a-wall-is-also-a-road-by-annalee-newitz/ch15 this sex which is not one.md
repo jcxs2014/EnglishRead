@@ -41,7 +41,7 @@ modified: "2026-11-02"
 - **中文理解**：「你们有没有一个词……形容一个生在远方的婴儿……找到回家的路、好长大成人？」
 - **关键词**：a word for / born far away / finds their way home
 - **为什么这样写**：Language Log 上的抽象词条（Homecoming）被翻译成一个具体得心疼的问题——省略号是 Gardenpath 边问边找措辞的口吃，也是「别人的普遍词表」与「自己的缺失」之间的距离。问句用的是婴儿，问的却是自己。
-- **读者视角提示**：这是全书第一次正面触碰 Crook-in-the-Road 的童年：孢子阶段出生在远处的孩子「本来应该」回家长大——Gardenpath 显然是那个没回去的。注意 Murtis 的回答顺序：先说没有这个词，再反问「你们的人是这样吗」——追问从一开始就掉头了。
+- **读者视角提示**：这是全书第一次正面触碰 Crook-in-the-Road 的童年（ch14 只有一句「我最早的集群不信这个」带过）：孢子阶段出生在远处的孩子「本来应该」回家长大——Gardenpath 显然是那个没回去的。注意 Murtis 的回答顺序：先说没有这个词，再反问「你们的人是这样吗」——追问从一开始就掉头了。
 
 > **原句 5:** "They were supposed to be Rational. They were supposed to look like me, talk like me, and … teach me how to eat, and clean myself, and…"
 

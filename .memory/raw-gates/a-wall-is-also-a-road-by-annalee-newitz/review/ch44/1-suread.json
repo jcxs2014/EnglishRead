@@ -1,0 +1,180 @@
+{
+ "chapter": "ch44",
+ "source": "text/ch44_chapter_44_truly_exceptional_work.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Gardenpath",
+   "did": "在 Fourth Exam 行程中拥抱 cluster 后，前往 Harvest 顶端的考试塔，为题为 First Observations of Complex Food Webs on a Tectonically Active Planet Inside the Galactic Plane 的论文答辩",
+   "anchor": "headed to the examination tower at the top of Harvest",
+   "range": [
+    223,
+    276
+   ]
+  },
+  {
+   "n": 2,
+   "who": "考官们（Spiralstair / Arch / Column）",
+   "did": "Spiralstair 代替缺席的导师 Plumline，另两位考官由 Gardenpath 自选为 Arch 与 Column，Column 充当 outside examiner",
+   "anchor": "stood in for their mercifully absent adviser, Plumline",
+   "range": [
+    427,
+    481
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Column",
+   "did": "提出全场唯一的真正挑战：问其关于有意识多细胞生物的观察会如何影响 Rational People 对单细胞生命的理解",
+   "anchor": "how their observations of conscious multicellularity would",
+   "range": [
+    1215,
+    1273
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Spiralstair",
+   "did": "宣布这篇论文 exceptional、是 truly exceptional work，并欢迎其继续参加 Fifth",
+   "anchor": "welcome you to continue onward and sit for the Fifth",
+   "range": [
+    1609,
+    1661
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Spiralstair",
+   "did": "回应 Gardenpath 关于武器原型与设计图纸下落的追问，承认图纸最终落到 Galleon Cloud People 手中",
+   "anchor": "they wound up in the possession of the Galleon Cloud People",
+   "range": [
+    2591,
+    2650
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Arch",
+   "did": "插话称极不可能：他们得从 Tentacle 采集 director cells，以其有限技术能力做不到",
+   "anchor": "would need to harvest those director cells from Tentacle",
+   "range": [
+    3231,
+    3287
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Gardenpath",
+   "did": "公开自己膜上的感光器，说自己欠一个光合生物一条命，是它养大了自己并找到探测器送自己回来",
+   "anchor": "I owe my life to a photosynthesizer.",
+   "range": [
+    3662,
+    3698
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Gardenpath",
+   "did": "警告不要低估 Cloud People：他们有能力造出这件武器，且它可能就在外面",
+   "anchor": "you should not underestimate the Cloud People",
+   "range": [
+    4120,
+    4165
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "pair": "Plumline → Gardenpath",
+   "relation": "原文明确写 Plumline 用 Gardenpath 的部分工作设计武器，并打算用它同 Galleon Cloud People 交换以支持其战争",
+   "anchor": "Plumline used part of my work to design a weapon",
+   "range": [
+    2096,
+    2144
+   ]
+  },
+  {
+   "n": 2,
+   "pair": "Spiralstair / Arch / Column → 彼此",
+   "relation": "原文明确写三人互相对视，房间里弥漫着焦虑的气味",
+   "anchor": "Column, Arch, and Spiralstair trained eyes on each other",
+   "range": [
+    2355,
+    2411
+   ]
+  },
+  {
+   "n": 3,
+   "pair": "Cloud People → 战争",
+   "relation": "原文明确写 Cloud People 已经打了数代人的战争",
+   "anchor": "The Cloud People have been at war for generations",
+   "range": [
+    2789,
+    2838
+   ]
+  },
+  {
+   "n": 4,
+   "pair": "光合生物 → Gardenpath",
+   "relation": "原文明确写是它养大了 Gardenpath，并找到探测器把它送回这里",
+   "anchor": "They raised me, and found a probe to send me back here",
+   "range": [
+    3816,
+    3870
+   ]
+  },
+  {
+   "n": 5,
+   "pair": "Spiralstair → Gardenpath",
+   "relation": "原文明确写希望几个 journeys 后再见到其参加 Fifth",
+   "anchor": "see you in a few journeys when you sit for the Fifth",
+   "range": [
+    4365,
+    4417
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "value": "Fourth",
+   "fact": "这是第四次考试（Fourth Exam）的行程",
+   "anchor": "On the journey of their Fourth Exam",
+   "range": [
+    83,
+    118
+   ]
+  },
+  {
+   "n": 2,
+   "value": "Fifth",
+   "fact": "Spiralstair 说其已赢得参加 Fifth 的权利",
+   "anchor": "You have earned the right to take the Fifth.",
+   "range": [
+    1852,
+    1896
+   ]
+  },
+  {
+   "n": 3,
+   "value": "one prototype",
+   "fact": "Spiralstair 认为一个原型不会造成差别",
+   "anchor": "I don’t think one prototype will make a difference",
+   "range": [
+    2984,
+    3034
+   ]
+  },
+  {
+   "n": 4,
+   "value": "one",
+   "fact": "原文称 Cloud People 只比光合生物高一步",
+   "anchor": "They are only one step above the photosynthesizers",
+   "range": [
+    3398,
+    3448
+   ]
+  }
+ ]
+}

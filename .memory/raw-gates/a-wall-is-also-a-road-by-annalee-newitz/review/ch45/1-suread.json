@@ -1,0 +1,180 @@
+{
+ "chapter": "ch45",
+ "source": "text/ch45_chapter_45_a_good_collaboration.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Gardenpath（及整个 Memory）",
+   "did": "在 Fifth 的行程中得知 Plumline 的 indefinite leave 已成定局：辞呈称将率 cluster 前往 Galleon，并写一本关于 Memory 正在毁掉科学的书",
+   "anchor": "Plumline’s indefinite leave was now definite",
+   "range": [
+    184,
+    228
+   ]
+  },
+  {
+   "n": 2,
+   "who": "Gardenpath",
+   "did": "在 Cut-in-Forest 的树林里找到 Casement（黄橙相间膜、很像 Oriel），与之交合",
+   "anchor": "Casement leaned against a clover-blanketed rock",
+   "range": [
+    2247,
+    2294
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Gardenpath",
+   "did": "向 Casement 提出请求：抹掉 transit manifest 里的一些记录",
+   "anchor": "I need to erase some records in the transit manifest",
+   "range": [
+    3365,
+    3417
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Casement",
+   "did": "答应搞一次小小的 collaboration，并建议找 Adobe——Adobe 常为 Memory 取用记录、清除其称为 extraneous 的记录",
+   "anchor": "Adobe does favors for the Memory all the time",
+   "range": [
+    4202,
+    4247
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Spiralstair",
+   "did": "在 Fifth 的考核室提出把 Gardenpath Lab 设在原 Plumline Lab 的一处新空间，与 Wainscot Lab 共享资源",
+   "anchor": "set up the Gardenpath Lab in one of the spaces",
+   "range": [
+    5046,
+    5092
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Column",
+   "did": "说明他们早在 Gardenpath 通过 Fourth 时就已决定授予 Fifth，这次只是形式",
+   "anchor": "decided to grant you the Fifth after you passed the Fourth",
+   "range": [
+    5638,
+    5696
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Gardenpath",
+   "did": "提议全体离开 Memory、自建社区并邀请 Attic 与 Foundation，且不造武器",
+   "anchor": "What if we … left the Memory? All of us?",
+   "range": [
+    8500,
+    8540
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Gardenpath",
+   "did": "末尾说其前往 Tentacle 的行程已被宣布为 extraneous 并从日志中清除；Galleon 的 Cloud People 或拿到那个原型，但再也找不到更多 director cells",
+   "anchor": "have been declared extraneous and purged from the logs",
+   "range": [
+    10693,
+    10747
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "n": 1,
+   "pair": "Casement → Gardenpath",
+   "relation": "原文明确写 Casement 说两人可以搞一次小小的 collaboration",
+   "anchor": "I think we can work out a little collaboration.",
+   "range": [
+    3856,
+    3903
+   ]
+  },
+  {
+   "n": 2,
+   "pair": "Adobe → Memory",
+   "relation": "原文明确写 Adobe 常为 Memory 取用记录、清除其称为 extraneous 的记录",
+   "anchor": "pulling records of interest, purging records",
+   "range": [
+    4249,
+    4293
+   ]
+  },
+  {
+   "n": 3,
+   "pair": "Spiralstair → Gardenpath",
+   "relation": "原文明确写新实验室可与 Wainscot Lab 共享资源",
+   "anchor": "share resources with the Wainscot Lab",
+   "range": [
+    5165,
+    5202
+   ]
+  },
+  {
+   "n": 4,
+   "pair": "Column → Gardenpath",
+   "relation": "原文明确写早已决定：通过 Fourth 就授予 Fifth",
+   "anchor": "we had already decided to grant you the Fifth",
+   "range": [
+    5623,
+    5668
+   ]
+  },
+  {
+   "n": 5,
+   "pair": "Redoubt 等 investigators → 武器制造",
+   "relation": "原文明确写 Redoubt 与许多其他 investigators 作为 Memory 既有合作的一部分在制造武器",
+   "anchor": "Redoubt and lots of other investigators are making weapons",
+   "range": [
+    7863,
+    7921
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "n": 1,
+   "value": "Fifth",
+   "fact": "这是 Gardenpath 参加 Fifth 的行程",
+   "anchor": "On the journey that Gardenpath sat for the Fifth",
+   "range": [
+    79,
+    127
+   ]
+  },
+  {
+   "n": 2,
+   "value": "Fourth",
+   "fact": "通过 Fourth 之后他们就决定授予 Fifth",
+   "anchor": "the Fifth after you passed the Fourth",
+   "range": [
+    5659,
+    5696
+   ]
+  },
+  {
+   "n": 3,
+   "value": "three",
+   "fact": "Casement 笑得多长出三只眼睛",
+   "anchor": "Rippling with laughter, Casement grew three more eyes",
+   "range": [
+    3659,
+    3712
+   ]
+  },
+  {
+   "n": 4,
+   "value": "a generation",
+   "fact": "Turret 以为记录会保存一代人",
+   "anchor": "I thought they kept records for a generation.",
+   "range": [
+    10519,
+    10564
+   ]
+  }
+ ]
+}

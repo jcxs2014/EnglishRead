@@ -82,7 +82,7 @@ modified: "2026-11-02"
 
 - **中文理解**：「我不知道。但我们得做点什么。」Gardenpath 喷出甲烷，拼命想说服室友们。「你们能帮我吗？」
 - **关键词**：we have to do something / desperate to persuade / Will you help me
-- **为什么这样写**：Part III 的落幕词是一句求援：不知道方法（I don't know）与知道必须（have to do something）并置——行动派的起点从不是蓝图，是共识。Will you help me 是 Gardenpath 全书第一次向别人讨要援手：从「独自扛」到「一起扛」，这四个词是性格的换防。
+- **为什么这样写**：Part III 的落幕词是一句求援：不知道方法（I don't know）与知道必须（have to do something）并置——行动派的起点从不是蓝图，是共识。Will you help me 是 Gardenpath 第一次就一场斗争讨要援手（此前只讨过作业性的帮忙，如 ch14 的语言习得）：从「独自扛」到「一起扛」，这四个词是性格的换防。
 - **读者视角提示**：对照 ch21 的孤儿叙事与 ch27 的双人自救——本章把「求助」升格为组织行为。带着这个问句进 Part IV：Hypothetical Exam 的考题不在考场，在每个人怎么回答她。
 
 ## 本章词汇
