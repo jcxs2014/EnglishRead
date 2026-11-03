@@ -23,7 +23,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：喜剧性的家庭志：别家父母教孩子烤饼干，她家父母等成年礼一过就传大麻配方。作者用「perk」这个词把公社生活写成一门手艺的继承——也顺手解释了她为什么会在杀手的厨房里煮这种黄油。
 
-**读者视角提示**：注意她的语气里没有怨气。前文（ch18）她还在吐槽公社式的养育，这一章她拿这份遗产当本事用。
+**读者视角提示**：注意她的语气里没有怨气。前文（ch10）她还在吐槽公社的双标，这一章她拿这份遗产当本事用。
 
 > **原句 2:** ""You have to leave the window shut," Travis says with an annoyed sigh as he walks toward it and closes it. "We're in the middle of the woods. There are countless critters running around. I don't like to smell skunk in my home.""
 
