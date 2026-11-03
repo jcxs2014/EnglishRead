@@ -42,7 +42,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：桌子的尺寸与椅子的数量互相拆台：一张为「 many 」准备的桌子只服务「two」——空间预算和她的业务量一样寒酸。Blair 的吐槽顺手完成了对生意真相的侧写。
 
-**读者视角提示**：结合上一章「十来个客人」的说法，这张桌子的空旷就是营业额：读者刚刚亲眼看到了 Nova 的全部生意。
+**读者视角提示**：结合她自己交代过的客流量（只接待过十来个人），这张桌子的空旷就是营业额：读者刚刚亲眼看到了 Nova 的全部生意。
 
 > **原句 4:** "‘You can record this reading if you want. I don’t mind,’ she says as our eyes meet. Although, I get the feeling that she’d rather I didn’t."
 

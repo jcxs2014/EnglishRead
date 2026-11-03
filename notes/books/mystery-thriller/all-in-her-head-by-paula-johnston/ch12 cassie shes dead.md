@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：坦白用「不知该不该说」的踌躇开场——先立坦率的姿态，再投下炸弹。girlfriend 一词在他嘴里是求助，在她耳朵里是丧钟：本章的悲剧结构在这一句同时装填。
 
-**读者视角提示**：对照上一章的「is that position still open」：他早就知道她在想什么——这句坦白既交代来意，也精准投喂。
+**读者视角提示**：对照解读开场那句「is that position still open」：他早就知道她在想什么——这句坦白既交代来意，也精准投喂。
 
 > **原句 3:** "‘Right, so it was just a normal day. Nothing out of the ordinary happened, but she wasn’t there when I got home from work. All her clothes were, and everything looked exactly the same as when I left her sleeping in bed that morning, but I don’t know what happened. Honestly, I don’t. And I haven’t heard a thing from her since.’"
 

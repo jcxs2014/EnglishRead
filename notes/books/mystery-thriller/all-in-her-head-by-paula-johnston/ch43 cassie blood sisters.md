@@ -40,7 +40,7 @@ modified: "2026-11-03"
 
 **关键词**：distress tolerance / rice paper booklets / more like coffee mats / I have actually read them. All of them.
 
-**为什么这样写**：心理医疗的等待被写成黑色日常：资源薄得像米纸、用得像杯垫——但她是全库唯一把「自助材料」读完的人（对照第 8 章 skim 自助书的自白）。All of them 单独成句，是她给自己的学分证明。
+**为什么这样写**：心理医疗的等待被写成黑色日常：资源薄得像米纸、用得像杯垫——但这次她把手册全部读完（对照她此前 skim 自助书的自白）。All of them 单独成句，是她给自己的学分证明。
 
 **读者视角提示**：这是全书第一次出现真实的求助路径（GP/mental health team）——比任何水晶都慢，但它真的在排队。作者把「治疗」写进等候名单，而不是奇迹。
 

@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：一句话三层剥开：她说的、她装的、他教的。Because that’s what he told me to say 像审讯记录里的口供来源标注——她的自我介绍原来有撰稿人。
 
-**读者视角提示**：把这句和上一章「It was his idea」连读：辞的工作是他定的，辞的解释也是他写的——她的人生叙述正在被整体托管。
+**读者视角提示**：把这句和 Blair 线开篇亲口的「It was his idea」连读：辞的工作是他定的，辞的解释也是他写的——她的人生叙述正在被整体托管。
 
 > **原句 3:** "She makes me sound like some sort of gold digger, but little does she know that from the week I turned sixteen, I’ve worked my backside off. I’ve done every job imaginable to make sure I could support myself. Didn’t matter how grim or seedy."
 

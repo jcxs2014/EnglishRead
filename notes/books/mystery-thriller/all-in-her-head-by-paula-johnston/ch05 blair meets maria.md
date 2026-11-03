@@ -42,7 +42,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：三连称呼像在认领财产：boy、baby boy、son——每重复一次，所有权就更明确一寸。wails 与 kiss after kiss 把亲昵演成仪式，而 chiselled jaw 时刻提醒读者：被争夺的是这具身体。
 
-**读者视角提示**：对照上一章 Blair 的「One point to her」式计分心态——这家人表达爱的方式全是占领，她其实没错，只是没意识到自己也一样。
+**读者视角提示**：对照本章 Blair 的「One point to her」式计分心态——这家人表达爱的方式全是占领，她其实没错，只是没意识到自己也一样。
 
 > **原句 4:** "‘It’s good to see you too, Mum. Although, I almost didn’t – with this one’s driving skills,’ he says, tilting his head in my direction, acknowledging my awkward, almost gooseberry-like presence."
 
@@ -82,7 +82,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：always planning something 是全书埋得最深的歧义句：在 Blair 的字典里是「贴心」，在惊悚片的语法里是「图谋」。口红留言把「爱」写成表演道具——用的是她的化妆品，写的是他要她看到的话。
 
-**读者视角提示**：把这句和上一章朋友的原话 He’s after something 放在一起读：同一件事的两份口供——她听成深情，他们听成警报。
+**读者视角提示**：把这句和 Blair 线开篇朋友的原话 He’s after something 放在一起读：同一件事的两份口供——她听成深情，他们听成警报。
 
 ## 本章词汇
 
