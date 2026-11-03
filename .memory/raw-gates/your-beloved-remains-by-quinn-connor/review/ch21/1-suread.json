@@ -1,0 +1,89 @@
+{
+ "ch": 21,
+ "text_file": "ch21_chapter_vii.txt",
+ "char_len": 4185,
+ "relations": "Joan（叙述者）；Greg Kostas（同行，世界语言系）；Celia（被谈论者）",
+ "numbers": "老径约 3/4 英里、很陡；关闭几年（土地移位/蛇多）",
+ "facts": [
+  {
+   "fact": "她数周来把 Greg 当琴弦拨弄（过分矜持、雾夜漫步后不放他进门）",
+   "anchor": "I’d been thrumming him like a string for weeks",
+   "span": [
+    409,
+    455
+   ],
+   "hit": true,
+   "verbatim": "I’d been thrumming him like a string for weeks"
+  },
+  {
+   "fact": "他的声音让无聊话好听；但他在欧扎克=人生错弯：离开米科诺斯、在阿肯色教希腊语法——判断差/优先级乱/藏着的蠢",
+   "anchor": "a well-concealed stupidity",
+   "span": [
+    1270,
+    1296
+   ],
+   "hit": true,
+   "verbatim": "a well-concealed stupidity"
+  },
+  {
+   "fact": "走校园束腰：听得见现代世界（宿舍喧闹），看见的却是坟与一世纪的苔碑",
+   "anchor": "but what I could see were the graves",
+   "span": [
+    1796,
+    1832
+   ],
+   "hit": true,
+   "verbatim": "but what I could see were the graves"
+  },
+  {
+   "fact": "问 Greg 了解 Celia 吗：安静羞怯、总到处窜；而她知你正狂热工作",
+   "anchor": "Kiel the archivist?",
+   "span": [
+    1875,
+    1894
+   ],
+   "hit": true,
+   "verbatim": "Kiel the archivist?"
+  },
+  {
+   "fact": "老径标志：约 3/4 英里、很陡；已关几年（怕土地移位、蛇多）",
+   "anchor": "It’s been closed for a few years now",
+   "span": [
+    2671,
+    2707
+   ],
+   "hit": true,
+   "verbatim": "It’s been closed for a few years now"
+  },
+  {
+   "fact": "卖地救校之辩：Greg 说传闻只是吓捐赠人在返校节掏更多；地产不值钱所以他们才全拿着",
+   "anchor": "not so valuable",
+   "span": [
+    3307,
+    3322
+   ],
+   "hit": true,
+   "verbatim": "not so valuable"
+  },
+  {
+   "fact": "崖沿竖耳听见远处灌木辘辘——像一具宽背刮树皮，「大动物」",
+   "anchor": "like a broad back scraping bark from trees",
+   "span": [
+    3991,
+    4033
+   ],
+   "hit": true,
+   "verbatim": "like a broad back scraping bark from trees"
+  },
+  {
+   "fact": "Greg 耸肩催走「外面冷」",
+   "anchor": "It’s cold out here.",
+   "span": [
+    4164,
+    4183
+   ],
+   "hit": true,
+   "verbatim": "It’s cold out here."
+  }
+ ]
+}

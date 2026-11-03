@@ -1,0 +1,89 @@
+{
+ "ch": 3,
+ "text_file": "ch03_chapter_iii.txt",
+ "char_len": 7680,
+ "relations": "Celia；Jonathan（陪同发白袍）；President Bob Danvers（现任校长，父亲的对立面）；Mrs. Harper（父亲旧秘书、现 Danvers 秘书，知情）；Harry（再次现身，无名）",
+ "numbers": "1988 级；仪式在第三晚；Danvers 提「下学期初」董事会（Celia 后在密信中见到 2 月 13 日）",
+ "facts": [
+  {
+   "fact": "派对上被挥开的传闻两天后如渐强的尖叫回来",
+   "anchor": "Those rumors I’d swept aside at the party came back to me as a building scream",
+   "span": [
+    19,
+    97
+   ],
+   "hit": true,
+   "verbatim": "Those rumors I’d swept aside at the party came back to me as a building scream"
+  },
+  {
+   "fact": "教堂只在有人去世时启用：你的、创始人的、父亲的纪念都在此",
+   "anchor": "your memorial, all the memorials for the founders",
+   "span": [
+    286,
+    335
+   ],
+   "hit": true,
+   "verbatim": "your memorial, all the memorials for the founders"
+  },
+  {
+   "fact": "Celia 与 Jonathan 在图书馆门口给新生发白袍，他做鬼脸",
+   "anchor": "to dispense white robes for the first-years",
+   "span": [
+    668,
+    711
+   ],
+   "hit": true,
+   "verbatim": "to dispense white robes for the first-years"
+  },
+  {
+   "fact": "1988 级人少得触目惊心",
+   "anchor": "threw their modest numbers into frightening relief",
+   "span": [
+    1883,
+    1933
+   ],
+   "hit": true,
+   "verbatim": "threw their modest numbers into frightening relief"
+  },
+  {
+   "fact": "Danvers 是父亲的对立面；父亲去世时赠银钟作纪念",
+   "anchor": "the silver clock, which used to sit on the president’s desk",
+   "span": [
+    2570,
+    2629
+   ],
+   "hit": true,
+   "verbatim": "the silver clock, which used to sit on the president’s desk"
+  },
+  {
+   "fact": "她低声追问 Harper 财务困境传闻，Harper 惊惶、手指打颤",
+   "anchor": "It’s the home of the Tristram Donahue archive.",
+   "span": [
+    3990,
+    4036
+   ],
+   "hit": true,
+   "verbatim": "It’s the home of the Tristram Donahue archive."
+  },
+  {
+   "fact": "她盯着烛火想到一颗火星就能烧掉整个校园",
+   "anchor": "One stray spark to the roof of this place",
+   "span": [
+    4818,
+    4859
+   ],
+   "hit": true,
+   "verbatim": "One stray spark to the roof of this place"
+  },
+  {
+   "fact": "她在教工席再次看见那女人：齐下巴红褐短发、复古男装、无校色",
+   "anchor": "The chin-length chop of her hair glinted up at me",
+   "span": [
+    5111,
+    5160
+   ],
+   "hit": true,
+   "verbatim": "The chin-length chop of her hair glinted up at me"
+  }
+ ]
+}

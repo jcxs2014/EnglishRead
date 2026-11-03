@@ -1,0 +1,129 @@
+{
+ "ch": 11,
+ "text_file": "ch11_chapter_xi.txt",
+ "char_len": 4128,
+ "relations": "Beatrice（叙述对象）；Roland Loiseau（爱人，小她三岁，芝加哥富家次子）；亡夫 Edward Carver（已死）；Ida/Clara/Bertie（同伴）",
+ "numbers": "1876 年初遇；Roland 小她三岁；浴缸木雕四景；毒园四种植物",
+ "facts": [
+  {
+   "fact": "亡夫死后你发誓不再嫁——受够了男人控制",
+   "anchor": "you swore you’d never marry again",
+   "span": [
+    42,
+    75
+   ],
+   "hit": true,
+   "verbatim": "you swore you’d never marry again"
+  },
+  {
+   "fact": "1876 年降神会初遇（父亲与丈夫死后常去 Richmond 茶室后的降神会）",
+   "anchor": "You first encountered each other at a séance in 1876.",
+   "span": [
+    144,
+    197
+   ],
+   "hit": true,
+   "verbatim": "You first encountered each other at a séance in 1876."
+  },
+  {
+   "fact": "灵媒召灵时你睁眼，扫过祈祷人群，目光落在他身上——他正回望你",
+   "anchor": "until your gaze fell on him, staring back at you",
+   "span": [
+    687,
+    735
+   ],
+   "hit": true,
+   "verbatim": "until your gaze fell on him, staring back at you"
+  },
+  {
+   "fact": "Roland 小你三岁、芝加哥富家次子、法国受教育；玉米色头发、龙卷风般的黑眼",
+   "anchor": "Three years your junior, Roland Loiseau",
+   "span": [
+    739,
+    778
+   ],
+   "hit": true,
+   "verbatim": "Three years your junior, Roland Loiseau"
+  },
+  {
+   "fact": "蜘蛛般的大手（传记作者猜曾绕喉咙）、孩子魅力、倦怠笑、爱毛皮与蛋糕、谈死亡如挚友",
+   "anchor": "they’d been once or twice wrapped around a throat",
+   "span": [
+    1241,
+    1290
+   ],
+   "hit": true,
+   "verbatim": "they’d been once or twice wrapped around a throat"
+  },
+  {
+   "fact": "散场时他手挽你臂低语「真可惜，我还想看更多戏」",
+   "anchor": "I was hoping for a little more theater!",
+   "span": [
+    1564,
+    1603
+   ],
+   "hit": true,
+   "verbatim": "I was hoping for a little more theater!"
+  },
+  {
+   "fact": "次晨一盒小啮齿类头骨送到门口，手书标签（Mus musculus / Microtus arvalis / Ondatra zibethicus）——至今仍在档案馆",
+   "anchor": "a collection of small rodent skulls had arrived at your door",
+   "span": [
+    1625,
+    1685
+   ],
+   "hit": true,
+   "verbatim": "a collection of small rodent skulls had arrived at your door"
+  },
+  {
+   "fact": "你逃离弗吉尼亚时，他是你保留的少数「财产」之一",
+   "anchor": "one of the few possessions you kept",
+   "span": [
+    1891,
+    1926
+   ],
+   "hit": true,
+   "verbatim": "one of the few possessions you kept"
+  },
+  {
+   "fact": "学院建成后他应召而来；疑病症、不育（童年腮腺炎）；爱每日矿泉浴",
+   "anchor": "infertile after a childhood bout of mumps",
+   "span": [
+    2236,
+    2277
+   ],
+   "hit": true,
+   "verbatim": "infertile after a childhood bout of mumps"
+  },
+  {
+   "fact": "树篱迷宫 + 中心毒药花园（乌头/Gympie/颠茄/大猪草）；园艺原是亡夫赞许的爱好",
+   "anchor": "a new garden of poisons for you",
+   "span": [
+    2664,
+    2695
+   ],
+   "hit": true,
+   "verbatim": "a new garden of poisons for you"
+  },
+  {
+   "fact": "Hogscald 岩腔「教堂」：Roland 在岩讲道坛后诵读（可能是你写的诗）",
+   "anchor": "Roland stood behind the rock pulpit and recited",
+   "span": [
+    3398,
+    3445
+   ],
+   "hit": true,
+   "verbatim": "Roland stood behind the rock pulpit and recited"
+  },
+  {
+   "fact": "你曾发誓不嫁，却向他盟誓 troth；「永不分离」，且确实直到生命尽头",
+   "anchor": "you pledged him your troth",
+   "span": [
+    3913,
+    3939
+   ],
+   "hit": true,
+   "verbatim": "you pledged him your troth"
+  }
+ ]
+}

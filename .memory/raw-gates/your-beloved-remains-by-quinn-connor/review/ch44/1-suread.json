@@ -1,0 +1,129 @@
+{
+ "ch": 44,
+ "text_file": "ch44_chapter_ii.txt",
+ "char_len": 7430,
+ "relations": "Celia（叙述者）；Harriot；Roland（幻影/床伴）；包工头（前史）；adjunct（前史）",
+ "numbers": "与包工头三年（15–18 岁）；20 岁的 adjunct",
+ "facts": [
+  {
+   "fact": "「我永远无法当面承认：嫉妒 Harriot」在 ch31（此处不重记）——本章开于浴室羞辱",
+   "anchor": "my senses returned to me, but it wasn’t a gift",
+   "span": [
+    38,
+    84
+   ],
+   "hit": true,
+   "verbatim": "my senses returned to me, but it wasn’t a gift"
+  },
+  {
+   "fact": "浴室里如困鼠爪张、直到想起自己；羞辱比热水烧得凶",
+   "anchor": "Humiliation burned worse than the hot water.",
+   "span": [
+    173,
+    217
+   ],
+   "hit": true,
+   "verbatim": "Humiliation burned worse than the hot water."
+  },
+  {
+   "fact": "她满是新断层；若被用这知识逗弄将永远碎裂；控制不了对方拿这权力做什么",
+   "anchor": "I would fracture forever",
+   "span": [
+    789,
+    813
+   ],
+   "hit": true,
+   "verbatim": "I would fracture forever"
+  },
+  {
+   "fact": "从没信鬼——但你的冷指与 Harriot 的一样真实；也许永远解不开真相",
+   "anchor": "I might never untwist the truth.",
+   "span": [
+    1195,
+    1227
+   ],
+   "hit": true,
+   "verbatim": "I might never untwist the truth."
+  },
+  {
+   "fact": "Harriot 在图书馆望窗（毯滑裸肩、颈侧吻痕）；她溜进办公室换备用衣",
+   "anchor": "a love bite dark on the side of her neck",
+   "span": [
+    1691,
+    1731
+   ],
+   "hit": true,
+   "verbatim": "a love bite dark on the side of her neck"
+  },
+  {
+   "fact": "Harriot 盘腿坐旧收音机前吃面；「想弄清今天星期几」；KTHS：雪、周四成冰",
+   "anchor": "Trying to figure out what day it is",
+   "span": [
+    2864,
+    2899
+   ],
+   "hit": true,
+   "verbatim": "Trying to figure out what day it is"
+  },
+  {
+   "fact": "「今天星期二」「我们周六下的谷」；沉默沉重",
+   "anchor": "We went down into the valley Saturday morning.",
+   "span": [
+    3575,
+    3621
+   ],
+   "hit": true,
+   "verbatim": "We went down into the valley Saturday morning."
+  },
+  {
+   "fact": "她抢先撒谎：「我什么都不记得。我们被下药了」；Harriot 评估眼后「当然」",
+   "anchor": "We were drugged and that’s all there is to it.",
+   "span": [
+    4002,
+    4048
+   ],
+   "hit": true,
+   "verbatim": "We were drugged and that’s all there is to it."
+  },
+  {
+   "fact": "Harriot 拿出散页（两面密写）；「醒过来时我已写了这些」——声音微抖：不倒的 Joan Harriot 慌了",
+   "anchor": "I’d done all this.",
+   "span": [
+    4698,
+    4716
+   ],
+   "hit": true,
+   "verbatim": "I’d done all this."
+  },
+  {
+   "fact": "她读段：「她软化之肉的病甜…鲜奶浮起的奶油球…她的身体在凝结」",
+   "anchor": "her body curdled",
+   "span": [
+    5318,
+    5334
+   ],
+   "hit": true,
+   "verbatim": "her body curdled"
+  },
+  {
+   "fact": "「我不懂」「不记得写」；「你说过你不信鬼，对吧？」——她呼吸太快：你也来找她，带灵感与声灵",
+   "anchor": "With inspiration, with the gift of your voice",
+   "span": [
+    5846,
+    5891
+   ],
+   "hit": true,
+   "verbatim": "With inspiration, with the gift of your voice"
+  },
+  {
+   "fact": "「这是发生在我们两个身上的事」；她轻轻夺回手稿；「休息一下」；泪涌——怜悯比恨更坏",
+   "anchor": "her pity, scratching all my bleeding places, was worse.",
+   "span": [
+    7374,
+    7429
+   ],
+   "hit": true,
+   "verbatim": "her pity, scratching all my bleeding places, was worse."
+  }
+ ]
+}

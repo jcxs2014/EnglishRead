@@ -1,0 +1,129 @@
+{
+ "ch": 37,
+ "text_file": "ch37_chapter_ix.txt",
+ "char_len": 6096,
+ "relations": "Celia（叙述者）；Danvers；Harper（被解雇）；Jonathan（冷战）；新秘书",
+ "numbers": "离寒假约三周；Danvers 一家去阿鲁巴",
+ "facts": [
+  {
+   "fact": "数天互避 Jonathan；校园变战场：不让目光相遇、无电话、无晚餐",
+   "anchor": "The campus transformed into a battlefield.",
+   "span": [
+    66,
+    108
+   ],
+   "hit": true,
+   "verbatim": "The campus transformed into a battlefield."
+  },
+  {
+   "fact": "Danvers 传唤让她出汗；若 Jonathan 背叛怎么办——连 Harriot 都不敢告知（要面对她眼中的审判）",
+   "anchor": "face the judgment in her eyes",
+   "span": [
+    602,
+    631
+   ],
+   "hit": true,
+   "verbatim": "face the judgment in her eyes"
+  },
+  {
+   "fact": "Harriot 有魅力自信能翻身、有 plausible deniability、没有档案馆钥匙——「我却是押上一切」",
+   "anchor": "she had plausible deniability",
+   "span": [
+    780,
+    809
+   ],
+   "hit": true,
+   "verbatim": "she had plausible deniability"
+  },
+  {
+   "fact": "Harper 不在惯常位置；她才想起该谢她——那封让她暴怒、进洞、获手稿的信",
+   "anchor": "the one that had sent me into a rage",
+   "span": [
+    1298,
+    1334
+   ],
+   "hit": true,
+   "verbatim": "the one that had sent me into a rage"
+  },
+  {
+   "fact": "「你大概知道为何找你」——她全彩幻象：保安闯档案馆、粗暴对待羊皮纸、残页攥在拳里",
+   "anchor": "campus security busting into the archive",
+   "span": [
+    2605,
+    2645
+   ],
+   "hit": true,
+   "verbatim": "campus security busting into the archive"
+  },
+  {
+   "fact": "真正原因是寒假看管人；她松口气",
+   "anchor": "The caretaker role needs filling.",
+   "span": [
+    2899,
+    2932
+   ],
+   "hit": true,
+   "verbatim": "The caretaker role needs filling."
+  },
+  {
+   "fact": "她接任档案员（首位女性）时兴奋自愿留守——还没喝够你的房子、呼吸你呼吸过的木香",
+   "anchor": "the first woman to fill the position",
+   "span": [
+    3456,
+    3492
+   ],
+   "hit": true,
+   "verbatim": "the first woman to fill the position"
+  },
+  {
+   "fact": "Danvers 每年做样子请示；今天桌上无明显善意；给的津贴同去年；嘴角哀伤地扭曲",
+   "anchor": "there was a mournful twist in his mouth",
+   "span": [
+    4048,
+    4087
+   ],
+   "hit": true,
+   "verbatim": "there was a mournful twist in his mouth"
+  },
+  {
+   "fact": "窗外官邸：奶油百叶窗、修剪玫瑰篱；她能认出童年卧室的窗（框着红花）——多年没进那房子",
+   "anchor": "I hadn’t been inside that house, my house, in years",
+   "span": [
+    4371,
+    4422
+   ],
+   "hit": true,
+   "verbatim": "I hadn’t been inside that house, my house, in years"
+  },
+  {
+   "fact": "「我们去阿鲁巴」「圣诞节大家都感谢上帝赐了 Celia Kiel」；她想尖叫这是荣誉",
+   "anchor": "We all thank God for Celia Kiel come Christmastime",
+   "span": [
+    5006,
+    5056
+   ],
+   "hit": true,
+   "verbatim": "We all thank God for Celia Kiel come Christmastime"
+  },
+  {
+   "fact": "「Harper 不再在这里工作」「我被迫解雇她」——她读出真相：是她迫他；被抛入寒冬；怒意滚下脸颊",
+   "anchor": "Mrs. Harper no longer works here",
+   "span": [
+    5201,
+    5233
+   ],
+   "hit": true,
+   "verbatim": "Mrs. Harper no longer works here"
+  },
+  {
+   "fact": "结尾：「他会后悔的」",
+   "anchor": "He’d regret this.",
+   "span": [
+    6078,
+    6095
+   ],
+   "hit": true,
+   "verbatim": "He’d regret this."
+  }
+ ]
+}

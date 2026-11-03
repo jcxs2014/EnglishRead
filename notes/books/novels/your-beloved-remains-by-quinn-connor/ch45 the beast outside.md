@@ -50,7 +50,7 @@ modified: "2026-11-03"
 
 **关键词**：desperate for solitude / use me again at her pleasure / intruded upon me / I wasn't myself
 
-**为什么这样写**：被附身的后劲写成领土丧失——「use me again at her pleasure」借用法语短语（avec plaisir），把灵异说成贵族的特权；「不是我自己」四字把 Act IV 的主题句提前亮相。
+**为什么这样写**：被附身的后劲写成领土丧失——「use me again at her pleasure」把灵异说成一种恩准，仿佛她有权按自己的兴致再次征用她；「不是我自己」四字把 Act IV 的主题句提前亮相。
 
 **读者视角提示**：注意她想要的是「独处」而非「安全」——Harriot 与 Celia 的分野在此：一个怕被分享，一个怕被丢下。
 

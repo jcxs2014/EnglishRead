@@ -1,0 +1,99 @@
+{
+ "ch": 33,
+ "text_file": "ch33_chapter_v.txt",
+ "char_len": 3318,
+ "relations": "Celia（叙述者）；Roland（地图作者/素描者）；Beatrice（日记作者）；Harriot（被无视）",
+ "numbers": "日记未给年份；Hogscald 下坡；比例尺对照",
+ "facts": [
+  {
+   "fact": "她无视 Harriot 独自研究地图：「不像你，我有后见之明的天赋」",
+   "anchor": "Unlike you, I had the gift of hindsight.",
+   "span": [
+    57,
+    97
+   ],
+   "hit": true,
+   "verbatim": "Unlike you, I had the gift of hindsight."
+  },
+  {
+   "fact": "日记：浴室窗里你沐着太阳，「发现了最美妙的东西」，必须趁忘前记下",
+   "anchor": "I’ve discovered the most wonderful thing",
+   "span": [
+    185,
+    225
+   ],
+   "hit": true,
+   "verbatim": "I’ve discovered the most wonderful thing"
+  },
+  {
+   "fact": "日记续：过迷宫未清理处、悬崖高、地面比碎头骨还不实；泥厚如溺；被胸骨里的鱼钩拉着；找到灵感——须带 beloved 作证",
+   "anchor": "pulled as if by a fishhook in my sternum",
+   "span": [
+    531,
+    571
+   ],
+   "hit": true,
+   "verbatim": "pulled as if by a fishhook in my sternum"
+  },
+  {
+   "fact": "重访 Roland 有日期的素描：浴中慵倦（tick 冷晕）；画你俯身日记，也画带来植物（檫木/角树/山茱萸）",
+   "anchor": "I found a tick on my ass today",
+   "span": [
+    768,
+    798
+   ],
+   "hit": true,
+   "verbatim": "I found a tick on my ass today"
+  },
+  {
+   "fact": "图像长存：多年后在档案馆卷宗里她仍能描出你脸——「由最爱你的人绘成」",
+   "anchor": "rendered by the one who loved you most",
+   "span": [
+    1435,
+    1473
+   ],
+   "hit": true,
+   "verbatim": "rendered by the one who loved you most"
+  },
+  {
+   "fact": "他把穿束身衣的你拉进浴缸；对话：「别让实验室知道你多聪明」「在那里懂我，像处处懂我」「让我进去」",
+   "anchor": "Know me there, as you know me everywhere?",
+   "span": [
+    2104,
+    2145
+   ],
+   "hit": true,
+   "verbatim": "Know me there, as you know me everywhere?"
+  },
+  {
+   "fact": "「我必须记住在哪找到灵感之泉，否则写不出给你的杰作」「画张地图，darling」——她画画一塌糊涂，请他代画",
+   "anchor": "“Draw a map, darling,” he said.",
+   "span": [
+    2385,
+    2416
+   ],
+   "hit": true,
+   "verbatim": "“Draw a map, darling,” he said."
+  },
+  {
+   "fact": "学术界以为她找到的东西失于时间与藤蔓；Celia 比比例尺与罐中图，补缺——确信是 Roland 画（有交叉影线）",
+   "anchor": "Roland, not you, had drawn it",
+   "span": [
+    3065,
+    3094
+   ],
+   "hit": true,
+   "verbatim": "Roland, not you, had drawn it"
+  },
+  {
+   "fact": "「学者见鬼去吧；这也许只有我能做」——她将下 Hogscald 找你留给她的东西",
+   "anchor": "Scholars be damned as fools",
+   "span": [
+    3146,
+    3173
+   ],
+   "hit": true,
+   "verbatim": "Scholars be damned as fools"
+  }
+ ]
+}

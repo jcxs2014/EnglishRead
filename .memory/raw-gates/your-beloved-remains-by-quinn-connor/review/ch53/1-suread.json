@@ -1,0 +1,119 @@
+{
+ "ch": 53,
+ "text_file": "ch53_chapter_xi.txt",
+ "char_len": 6889,
+ "relations": "Celia（叙述者）；Beatrice（草稿主体）；Bertie（被逐）；Ida/Clara；Roland（尸体）",
+ "numbers": "十七年保尸；Bertie 两个月内下葬（维州）",
+ "facts": [
+  {
+   "fact": "Roland 死后你数日不语，只盯迷宫焦黑废墟；Ida 不离身（咖啡烟保清醒）",
+   "anchor": "you didn’t speak for days",
+   "span": [
+    31,
+    56
+   ],
+   "hit": true,
+   "verbatim": "you didn’t speak for days"
+  },
+  {
+   "fact": "你没再试死、也未开始试活；Ida 手喂、沐浴、抱你当木僵的泪滚下",
+   "anchor": "you had not yet begun to try to live again",
+   "span": [
+    240,
+    282
+   ],
+   "hit": true,
+   "verbatim": "you had not yet begun to try to live again"
+  },
+  {
+   "fact": "Bertie 被禁门：你曾日与她茶室闲谈；你在她泪眼里看见迷宫与火、失明——回神时她颊瘀、领血、假发被扯",
+   "anchor": "blood on her collar, her wig ripped free",
+   "span": [
+    873,
+    913
+   ],
+   "hit": true,
+   "verbatim": "blood on her collar, her wig ripped free"
+  },
+  {
+   "fact": "Clara 从中调解（她只想保护你、烧毒园、焚迷宫是意外）；一周后 Bertie 上火车去弗州、两月内下葬",
+   "anchor": "Bertie was on a train bound for Virginia",
+   "span": [
+    1332,
+    1372
+   ],
+   "hit": true,
+   "verbatim": "Bertie was on a train bound for Virginia"
+  },
+  {
+   "fact": "Roland 停灵：UV 绿西装绣孔雀羽、Clara 妆面如将醒；但内里巨大空虚——一盏熄掉的灯",
+   "anchor": "A light gone out.",
+   "span": [
+    1937,
+    1954
+   ],
+   "hit": true,
+   "verbatim": "A light gone out."
+  },
+  {
+   "fact": "你躺他旁、拉他臂环你、闻他自选的栀子带柑橘香；低语「记得那些小头骨吗…你还留在我身边吗？」",
+   "anchor": "Do you remember the little skulls you sent to my door?",
+   "span": [
+    2142,
+    2196
+   ],
+   "hit": true,
+   "verbatim": "Do you remember the little skulls you sent to my door?"
+  },
+  {
+   "fact": "在那里开始计划：保存他——照他教的方式握刀（渡鸦/松鼠/花栗鼠）",
+   "anchor": "It was hard work to love the dead.",
+   "span": [
+    2551,
+    2585
+   ],
+   "hit": true,
+   "verbatim": "It was hard work to love the dead."
+  },
+  {
+   "fact": "让他们埋空棺、办盛大葬礼、立经得起时间的碑；假葬礼那天对 Ida 说「他没有走」",
+   "anchor": "“He is not gone,”",
+   "span": [
+    3068,
+    3085
+   ],
+   "hit": true,
+   "verbatim": "“He is not gone,”"
+  },
+  {
+   "fact": "新誓：继续爱他无论形态；如女人爱丈夫、如灵魂爱灵魂——「如我爱你」",
+   "anchor": "as a soul loves a soul",
+   "span": [
+    3429,
+    3451
+   ],
+   "hit": true,
+   "verbatim": "as a soul loves a soul"
+  },
+  {
+   "fact": "而她（Celia）在雪里待太久、发烧；爬进你的房间、求你的灵别伤害她；「我从不信鬼，如今在向鬼求」",
+   "anchor": "I’d never believed in ghosts, and now I was begging one.",
+   "span": [
+    4059,
+    4115
+   ],
+   "hit": true,
+   "verbatim": "I’d never believed in ghosts, and now I was begging one."
+  },
+  {
+   "fact": "床上灰发升起、裸背皮褶、女巫脸仍美——「你没有眼睛给我，只有他」；她伸手，你消散成空气",
+   "anchor": "You dissolved into air.",
+   "span": [
+    6741,
+    6764
+   ],
+   "hit": true,
+   "verbatim": "You dissolved into air."
+  }
+ ]
+}

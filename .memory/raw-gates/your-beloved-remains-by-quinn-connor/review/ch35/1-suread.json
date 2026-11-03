@@ -1,0 +1,119 @@
+{
+ "ch": 35,
+ "text_file": "ch35_chapter_vii.txt",
+ "char_len": 6406,
+ "relations": "Celia（叙述者）；Harriot（同行/救人者）；包工头（前史，未涉）",
+ "numbers": "感恩节清晨；脚伤不止一月；Hogscald 就在眼前",
+ "facts": [
+  {
+   "fact": "感恩节清晨霜 crunch；Harriot 盯她：「你穿牛仔裤」「满身惊喜——别担心，我喜欢」",
+   "anchor": "It’s just that you’re wearing jeans.",
+   "span": [
+    319,
+    355
+   ],
+   "hit": true,
+   "verbatim": "It’s just that you’re wearing jeans."
+  },
+  {
+   "fact": "空校园剩学生稀如冬叶；Harriot 主动说听见过下面「大动物」（一夜、又一次近墓地）",
+   "anchor": "I thought I heard something down there",
+   "span": [
+    1246,
+    1284
+   ],
+   "hit": true,
+   "verbatim": "I thought I heard something down there"
+  },
+  {
+   "fact": "Celia 安抚：野猪不上校园（人太多）；老径苍白如袜带蛇；她童年只挣得 chiggers 与细枝",
+   "anchor": "They never come on campus, though.",
+   "span": [
+    1533,
+    1567
+   ],
+   "hit": true,
+   "verbatim": "They never come on campus, though."
+  },
+  {
+   "fact": "她穿旧靴、吃止痛片；Harriot 眯眼如珠宝商验石：「那就带路，old sport」",
+   "anchor": "the look of a jeweler examining a stone for faults",
+   "span": [
+    2291,
+    2341
+   ],
+   "hit": true,
+   "verbatim": "the look of a jeweler examining a stone for faults"
+  },
+  {
+   "fact": "小径细如脊柱；每步皆赌；Harriot 绊倒压上她背，她掌擦岩壁稳住",
+   "anchor": "it ran as thin as a spine",
+   "span": [
+    2657,
+    2682
+   ],
+   "hit": true,
+   "verbatim": "it ran as thin as a spine"
+  },
+  {
+   "fact": "转身太近、脸距几寸；她的眼与早冬天空同一种汹涌的灰；「这让我热身了」；乌鸦互喊",
+   "anchor": "the same tumultuous gray of the premature winter sky",
+   "span": [
+    3176,
+    3228
+   ],
+   "hit": true,
+   "verbatim": "the same tumultuous gray of the premature winter sky"
+  },
+  {
+   "fact": "半小时激动的沉默；脚刺→真痛（猫抓般麻刺、白等麻木）",
+   "anchor": "Cat-scratch tingles ran up and down the sole of my foot",
+   "span": [
+    4118,
+    4173
+   ],
+   "hit": true,
+   "verbatim": "Cat-scratch tingles ran up and down the sole of my foot"
+  },
+  {
+   "fact": "她跳过根丛攀裂石——脚失力、踝侧折、肘下巴着地、滑进失重空气",
+   "anchor": "my ankle folding sideways",
+   "span": [
+    4823,
+    4848
+   ],
+   "hit": true,
+   "verbatim": "my ankle folding sideways"
+  },
+  {
+   "fact": "胫撞凸岩、兔子颤、枯叶蘑菇味；Harriot 一步一咒赶到跪旁",
+   "anchor": "Rabbit trembles broke out all over my body",
+   "span": [
+    5056,
+    5098
+   ],
+   "hit": true,
+   "verbatim": "Rabbit trembles broke out all over my body"
+  },
+  {
+   "fact": "她的一切轰鸣：雀斑/短方指甲/红褐发在阳光歌唱——「从没这样感激；几乎爱她」",
+   "anchor": "I very nearly loved her.",
+   "span": [
+    5727,
+    5751
+   ],
+   "hit": true,
+   "verbatim": "I very nearly loved her."
+  },
+  {
+   "fact": "「不值得拿命换」「这就是我的命」；Harriot 挑眉「回程路上慢慢想」拖她上山",
+   "anchor": "“This is my life,” I protested.",
+   "span": [
+    6095,
+    6126
+   ],
+   "hit": true,
+   "verbatim": "“This is my life,” I protested."
+  }
+ ]
+}

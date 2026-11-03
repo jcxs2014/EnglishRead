@@ -1,0 +1,109 @@
+{
+ "ch": 29,
+ "text_file": "ch29_chapter_i.txt",
+ "char_len": 9615,
+ "relations": "Celia（叙述者）；Beatrice（寓言/梦中）；Roland（分食者）；Harriot（并肩者）；Jonathan（逼问者）",
+ "numbers": "野猪驮马般大；迷宫中心毒园四植物；「近三小时」工作后 Harriot 离开",
+ "facts": [
+  {
+   "fact": "报纸：农夫误判 coyote、黎明被发现践踏顶穿成罐头肉——你从城市来没受过野林警告",
+   "anchor": "his body turned to tinned meat",
+   "span": [
+    182,
+    212
+   ],
+   "hit": true,
+   "verbatim": "his body turned to tinned meat"
+  },
+  {
+   "fact": "野猪出场：厚皮鬃毛獠牙、珠亮夜光眼后超群头脑；它见你冻结、低头锁定",
+   "anchor": "a keener mind than any animal should have",
+   "span": [
+    922,
+    963
+   ],
+   "hit": true,
+   "verbatim": "a keener mind than any animal should have"
+  },
+  {
+   "fact": "它跪下、头搁你膝、闭眼；你用采集的削皮刀割喉——「野猪温驯地死了」",
+   "anchor": "The boar died tame.",
+   "span": [
+    1849,
+    1868
+   ],
+   "hit": true,
+   "verbatim": "The boar died tame."
+  },
+  {
+   "fact": "你认得出危险，但发誓永不再怕猪（嫁的那头噎死在晚餐）；血把裙蓝泡掉、剖肉取心——写给 Ida「太阳升起时出奇地难」",
+   "anchor": "never fear a pig again",
+   "span": [
+    1961,
+    1983
+   ],
+   "hit": true,
+   "verbatim": "never fear a pig again"
+  },
+  {
+   "fact": "再次向 Roland 盟誓 troth、咬进主动脉、嘴染宝石红、把心递给他；次日为挚友办烧烤",
+   "anchor": "pledged your troth to Roland and sank your teeth into the aorta",
+   "span": [
+    2417,
+    2480
+   ],
+   "hit": true,
+   "verbatim": "pledged your troth to Roland and sank your teeth into the aorta"
+  },
+  {
+   "fact": "她童年爱这故事如摇篮曲，直到那场梦：绿空地、你捧跳动的野猪心、紫罗兰与安全的气味、她咬下——舌上草莓爆炸",
+   "anchor": "The taste of strawberries exploded on my tongue",
+   "span": [
+    3089,
+    3136
+   ],
+   "hit": true,
+   "verbatim": "The taste of strawberries exploded on my tongue"
+  },
+  {
+   "fact": "轶事仅次于床上那具身体；爱人称它为最绝美味（吞咽是最美妙的噩梦）；学院把它铸成雕像",
+   "anchor": "second to the body you kept in your bed",
+   "span": [
+    3206,
+    3245
+   ],
+   "hit": true,
+   "verbatim": "second to the body you kept in your bed"
+  },
+  {
+   "fact": "并肩工作：她喜欢共鸣的静默；梦里蓝影如冠蓝鸦的翅、闹铃前汗醒伸手够你",
+   "anchor": "blue movement flashed like a jay’s wing",
+   "span": [
+    4792,
+    4831
+   ],
+   "hit": true,
+   "verbatim": "blue movement flashed like a jay’s wing"
+  },
+  {
+   "fact": "Harriot 呼吸挠耳、她肘顶、椅尖叫；她听见她泄出的呼吸、战栗后羞耻",
+   "anchor": "a strange thrill through me",
+   "span": [
+    6663,
+    6690
+   ],
+   "hit": true,
+   "verbatim": "a strange thrill through me"
+  },
+  {
+   "fact": "结尾：压羊皮纸摸到非文字的变色线（皮下滑走的静脉色）、成片浮现——「这不是《Dreams of the Rose》」",
+   "anchor": "This … was not Dreams of the Rose.",
+   "span": [
+    9445,
+    9479
+   ],
+   "hit": true,
+   "verbatim": "This … was not Dreams of the Rose."
+  }
+ ]
+}

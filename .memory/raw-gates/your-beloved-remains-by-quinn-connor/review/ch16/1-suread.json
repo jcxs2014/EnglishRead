@@ -1,0 +1,89 @@
+{
+ "ch": 16,
+ "text_file": "ch16_chapter_ii.txt",
+ "char_len": 5218,
+ "relations": "Joan（教师）；Brodie（学生）；Stacey（学生，AOII）；Kate Chopin（课文作者）",
+ "numbers": "兄弟会只剩十二个想入会；Clara Cottage 邻兄弟会街；六年南方生活",
+ "facts": [
+  {
+   "fact": "课堂闲谈：兄弟会只剩十二个男生想入会、KA 去年被吊章程；Clara Cottage 邻兄弟会街",
+   "anchor": "there’s only a dozen dudes even trying to get in",
+   "span": [
+    63,
+    111
+   ],
+   "hit": true,
+   "verbatim": "there’s only a dozen dudes even trying to get in"
+  },
+  {
+   "fact": "她认定学院阴森：必有未报告尸体；山上失踪易被行政报成退学跑路",
+   "anchor": "disappearances were simple enough to brush off",
+   "span": [
+    1036,
+    1082
+   ],
+   "hit": true,
+   "verbatim": "disappearances were simple enough to brush off"
+  },
+  {
+   "fact": "她对学生末日机构有苦涩亲缘：「像我，另一株种在贫瘠土壤的学园枝条」",
+   "anchor": "another stem of the Academy planted in barren soil",
+   "span": [
+    1557,
+    1607
+   ],
+   "hit": true,
+   "verbatim": "another stem of the Academy planted in barren soil"
+  },
+  {
+   "fact": "她细听学生音色：Brodie 扁平电视腔、Stacey 的 Junior League 悦音",
+   "anchor": "Brodie’s flat television timbre",
+   "span": [
+    1650,
+    1681
+   ],
+   "hit": true,
+   "verbatim": "Brodie’s flat television timbre"
+  },
+  {
+   "fact": "课上教 Chopin《一小时的故事》：女主角被 monstrous joy 占据；问 Chopin 如何用时间/节奏配速",
+   "anchor": "monstrous joy",
+   "span": [
+    2996,
+    3009
+   ],
+   "hit": true,
+   "verbatim": "monstrous joy"
+  },
+  {
+   "fact": "听觉天赋自白：词直接进耳如视奏；意义脱落；指尖卷住作者心脏；听够久能演奏其声、滑进不同皮",
+   "anchor": "they go straight to my ear",
+   "span": [
+    3602,
+    3628
+   ],
+   "hit": true,
+   "verbatim": "they go straight to my ear"
+  },
+  {
+   "fact": "她玩这天赋多年：发表讽刺文、伪造信件；于她天生，却不是可欲技能",
+   "anchor": "publishing satires, forging letters",
+   "span": [
+    4053,
+    4088
+   ],
+   "hit": true,
+   "verbatim": "publishing satires, forging letters"
+  },
+  {
+   "fact": "现场用 Brodie 腔调回他；他僵住、几乎笑出；她自比「像试袜子一样试穿他」",
+   "anchor": "I’d tried him on like a sock",
+   "span": [
+    5123,
+    5151
+   ],
+   "hit": true,
+   "verbatim": "I’d tried him on like a sock"
+  }
+ ]
+}

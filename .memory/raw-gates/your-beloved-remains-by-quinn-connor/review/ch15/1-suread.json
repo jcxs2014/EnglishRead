@@ -1,0 +1,89 @@
+{
+ "ch": 15,
+ "text_file": "ch15_chapter_i.txt",
+ "char_len": 4266,
+ "relations": "Joan Harriot（叙述者，匹兹堡人）；Terry Calahan（导师，福克纳学者）；Ruth（同门，后被毁）；Don（Calahan 另一学生）；Celia（日记的第二个收信人）",
+ "numbers": "1983 年日记（后方章）；研究项目 19 世纪幽禁/窒息主题",
+ "facts": [
+  {
+   "fact": "研究生末期天亮前驶出新奥尔良，空手离开 Tulane，无人送行；她是北方佬",
+   "anchor": "I was leaving Tulane empty-handed.",
+   "span": [
+    600,
+    634
+   ],
+   "hit": true,
+   "verbatim": "I was leaving Tulane empty-handed."
+  },
+  {
+   "fact": "她开车去阿肯色赴 Donahue 博士后，直呼 Celia：「这绝非你想象的好机会」",
+   "anchor": "whatever you might think, Celia",
+   "span": [
+    1197,
+    1228
+   ],
+   "hit": true,
+   "verbatim": "whatever you might think, Celia"
+  },
+  {
+   "fact": "初到南方以为大学是理解/书写世界之处；离开时宁愿被活体解剖也不愿再碰她",
+   "anchor": "I would have rather been vivisected",
+   "span": [
+    1604,
+    1639
+   ],
+   "hit": true,
+   "verbatim": "I would have rather been vivisected"
+  },
+  {
+   "fact": "导师 Calahan 曾对学生 Ruth 说「在这儿最好想都别想（怀孕）」；Ruth 生子上台后无工作无奖学金",
+   "anchor": "Joan, you better not even think about doing something like this",
+   "span": [
+    2751,
+    2814
+   ],
+   "hit": true,
+   "verbatim": "Joan, you better not even think about doing something like this"
+  },
+  {
+   "fact": "Ruth 像河口鬼火被掐灭",
+   "anchor": "she was snuffed like feu follet",
+   "span": [
+    3149,
+    3180
+   ],
+   "hit": true,
+   "verbatim": "she was snuffed like feu follet"
+  },
+  {
+   "fact": "靠 Donahue 供一年是她与学术全毁之间的全部；因首篇文章与博士论文案例（含 Donahue《She Who Walks》）获聘",
+   "anchor": "total academic ruin",
+   "span": [
+    3398,
+    3417
+   ],
+   "hit": true,
+   "verbatim": "total academic ruin"
+  },
+  {
+   "fact": "她从未像 Celia 那样爱 Donahue，但有智识亲缘",
+   "anchor": "I felt a sort of intellectual kinship with her",
+   "span": [
+    3896,
+    3942
+   ],
+   "hit": true,
+   "verbatim": "I felt a sort of intellectual kinship with her"
+  },
+  {
+   "fact": "结尾：车攀升进如托尔金夏尔的绿山——「我来到山。我来到你。」",
+   "anchor": "like Tolkien’s Shire",
+   "span": [
+    4201,
+    4221
+   ],
+   "hit": true,
+   "verbatim": "like Tolkien’s Shire"
+  }
+ ]
+}

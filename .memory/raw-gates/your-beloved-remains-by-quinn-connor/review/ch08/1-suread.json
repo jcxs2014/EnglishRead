@@ -1,0 +1,99 @@
+{
+ "ch": 8,
+ "text_file": "ch08_chapter_viii.txt",
+ "char_len": 4180,
+ "relations": "Celia；Danvers（校长）；Mrs. Harper（秘书）；亡父（前校长）",
+ "numbers": "律师称遗嘱「两周内」送回",
+ "facts": [
+  {
+   "fact": "Celia 直奔校长室，自辩：档案馆是保存关键，否则遗产会被拆给最高出价者",
+   "anchor": "You’d be divided among the highest bidders.",
+   "span": [
+    265,
+    308
+   ],
+   "hit": true,
+   "verbatim": "You’d be divided among the highest bidders."
+  },
+  {
+   "fact": "Harper 快速站起、耳环晃动、警告眼神；Celia 不等待推门进",
+   "anchor": "Mrs. Harper stood so quickly that her dangling earrings",
+   "span": [
+    325,
+    380
+   ],
+   "hit": true,
+   "verbatim": "Mrs. Harper stood so quickly that her dangling earrings"
+  },
+  {
+   "fact": "Danvers 惊讶站起，椅子从那曾属父亲的桌前 squeak",
+   "anchor": "the desk that had once been my father’s",
+   "span": [
+    583,
+    622
+   ],
+   "hit": true,
+   "verbatim": "the desk that had once been my father’s"
+  },
+  {
+   "fact": "Celia 宣布遗嘱失踪，不出卖 Harper",
+   "anchor": "The will of Beatrice Donahue is missing from my archive.",
+   "span": [
+    975,
+    1031
+   ],
+   "hit": true,
+   "verbatim": "The will of Beatrice Donahue is missing from my archive."
+  },
+  {
+   "fact": "Danvers 说遗嘱安全：律师确认细节、两周内送回",
+   "anchor": "The will is safe.",
+   "span": [
+    1450,
+    1467
+   ],
+   "hit": true,
+   "verbatim": "The will is safe."
+  },
+  {
+   "fact": "她质问是否与出售/过渡有关、土地要卖",
+   "anchor": "The land sold?",
+   "span": [
+    1970,
+    1984
+   ],
+   "hit": true,
+   "verbatim": "The land sold?"
+  },
+  {
+   "fact": "Danvers 拍桌斥其不专业，列衰退/生源/教授/名声，称这是「考虑所有途径」",
+   "anchor": "The board is considering every avenue.",
+   "span": [
+    2810,
+    2848
+   ],
+   "hit": true,
+   "verbatim": "The board is considering every avenue."
+  },
+  {
+   "fact": "他威胁：想保住工作就给像样道歉；她咽下道歉，想象往他咖啡投毒铁杉",
+   "anchor": "heritage hemlock",
+   "span": [
+    3565,
+    3581
+   ],
+   "hit": true,
+   "verbatim": "heritage hemlock"
+  },
+  {
+   "fact": "结尾：Harper 嘴紧抿；Danvers 厉声叫她进办公室",
+   "anchor": "Danvers called her sharply into his office",
+   "span": [
+    4069,
+    4111
+   ],
+   "hit": true,
+   "verbatim": "Danvers called her sharply into his office"
+  }
+ ]
+}

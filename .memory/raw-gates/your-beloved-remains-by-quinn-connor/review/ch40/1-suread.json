@@ -1,0 +1,139 @@
+{
+ "ch": 40,
+ "text_file": "ch40_chapter_xii.txt",
+ "char_len": 6491,
+ "relations": "Celia（叙述者/向导）；Harriot（同行/质疑/救场）；Beatrice（地图作者之一）",
+ "numbers": "下坡花掉大半个上午；约 3/4 英里（前章）；三道标记",
+ "facts": [
+  {
+   "fact": "trailhead 顶如记忆般可怕；Harriot 只说「有险情就回」；穿校内足球钉鞋再下",
+   "anchor": "“Any close calls and we’re going back”",
+   "span": [
+    81,
+    119
+   ],
+   "hit": true,
+   "verbatim": "“Any close calls and we’re going back”"
+  },
+  {
+   "fact": "钉鞋救下坡（霜滑、手抓裸根）；她常盯她的平衡、挑任何晃",
+   "anchor": "critical of any waver in balance",
+   "span": [
+    405,
+    437
+   ],
+   "hit": true,
+   "verbatim": "critical of any waver in balance"
+  },
+  {
+   "fact": "过了摔落处、Hogscald Hollow 空地现于下方；一缕水细如蛛网",
+   "anchor": "thin as a spiderweb",
+   "span": [
+    574,
+    593
+   ],
+   "hit": true,
+   "verbatim": "thin as a spiderweb"
+  },
+  {
+   "fact": "冬天简化空谷（绿意重载处暴露）；她抽描摹地图与 granola bars 同眠；Harriot 静如一只眼收集数据",
+   "anchor": "transmuted into an eye",
+   "span": [
+    1514,
+    1536
+   ],
+   "hit": true,
+   "verbatim": "transmuted into an eye"
+  },
+  {
+   "fact": "冰瀑：冻流如吊向天空的线；岩檐骨化摇摇欲坠，悬于月亮般的深渊池上",
+   "anchor": "suspended from wires pulling skyward",
+   "span": [
+    1680,
+    1716
+   ],
+   "hit": true,
+   "verbatim": "suspended from wires pulling skyward"
+  },
+  {
+   "fact": "远处枝断她抓住她「我以为又是那动物——别在意」；她说「该近第二道裂隙了」",
+   "anchor": "I thought it was the animal I keep",
+   "span": [
+    2073,
+    2107
+   ],
+   "hit": true,
+   "verbatim": "I thought it was the animal I keep"
+  },
+  {
+   "fact": "「这 hollow 在谷里——找哪个坡？」她「给我一分钟」——你画的蛇形上行线",
+   "anchor": "You’d drawn a snaking line",
+   "span": [
+    2992,
+    3018
+   ],
+   "hit": true,
+   "verbatim": "You’d drawn a snaking line"
+  },
+  {
+   "fact": "Harriot「听」「不，听」低身折返眼盯地——溪流的低柔咕哝",
+   "anchor": "It was more water.",
+   "span": [
+    4004,
+    4022
+   ],
+   "hit": true,
+   "verbatim": "It was more water."
+  },
+  {
+   "fact": "「不是路，是水」——水是山的命脉、山永远在流血",
+   "anchor": "Water was the lifeblood of the mountains",
+   "span": [
+    4104,
+    4144
+   ],
+   "hit": true,
+   "verbatim": "Water was the lifeblood of the mountains"
+  },
+  {
+   "fact": "顺溪下行、地升、崖内凹露出锯齿黑缝——「闪电状的岩突，下一路标」",
+   "anchor": "The lightning-shaped crag.",
+   "span": [
+    4449,
+    4475
+   ],
+   "hit": true,
+   "verbatim": "The lightning-shaped crag."
+  },
+  {
+   "fact": "「我们不进去吧？孩子都塞不进」——路过它；更远、更入 Hogscald、也更离家",
+   "anchor": "Farther into the Hogscald, and from home.",
+   "span": [
+    5021,
+    5062
+   ],
+   "hit": true,
+   "verbatim": "Farther into the Hogscald, and from home."
+  },
+  {
+   "fact": "日沉、granola 包装纸在松针间颤；「再不碰上就得露营——不想见本地住户，总觉得有什么在视线外看着」",
+   "anchor": "something is just out of sight … watching",
+   "span": [
+    5505,
+    5546
+   ],
+   "hit": true,
+   "verbatim": "something is just out of sight … watching"
+  },
+  {
+   "fact": "最后断流；她认出山更深处低岩眉下的浅 hollow——「这就是尽头。是个洞穴」",
+   "anchor": "It’s a cave.",
+   "span": [
+    6477,
+    6489
+   ],
+   "hit": true,
+   "verbatim": "It’s a cave."
+  }
+ ]
+}

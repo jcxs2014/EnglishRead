@@ -1,0 +1,109 @@
+{
+ "ch": 20,
+ "text_file": "ch20_chapter_vi.txt",
+ "char_len": 3523,
+ "relations": "Joan（叙述者）；Celia；Beatrice（被引用者）；Roland（引语对象）",
+ "numbers": "碎片像莎草纸/木乃伊诅咒；七十八十年安全存储",
+ "facts": [
+  {
+   "fact": "实验室冻干碎片：你辛苦分离编目的胶冻页团，像莎草纸古片低语木乃伊诅咒",
+   "anchor": "whispering some mummy’s curse",
+   "span": [
+    254,
+    283
+   ],
+   "hit": true,
+   "verbatim": "whispering some mummy’s curse"
+  },
+  {
+   "fact": "她不碰任何东西——没许诺过；洞穴与罐子的故事若无眼前证据（纸页/玻璃/跛行）本不可信",
+   "anchor": "beyond belief if not for the evidence in front of my face",
+   "span": [
+    479,
+    536
+   ],
+   "hit": true,
+   "verbatim": "beyond belief if not for the evidence in front of my face"
+  },
+  {
+   "fact": "你羞赧答：Beatrice 迷恋死亡、与爱人互赠此类礼物、防腐剂是爱情符号；背诵「死亡拥抱你我以暂停时间强直」，Joan 接「相拥交缠」",
+   "anchor": "Preservatives were symbols of their love.",
+   "span": [
+    787,
+    828
+   ],
+   "hit": true,
+   "verbatim": "Preservatives were symbols of their love."
+  },
+  {
+   "fact": "近一世纪的寻找——而她腌了它；褐墨长行勉强可辨，Joan 非古文书专家",
+   "anchor": "I was no expert paleographer.",
+   "span": [
+    1460,
+    1489
+   ],
+   "hit": true,
+   "verbatim": "I was no expert paleographer."
+  },
+  {
+   "fact": "你答能释读一部分（放大镜/特殊技术/足够多）：合编版本、附最佳保存页照片",
+   "anchor": "Under magnification, with special techniques.",
+   "span": [
+    1552,
+    1597
+   ],
+   "hit": true,
+   "verbatim": "Under magnification, with special techniques."
+  },
+  {
+   "fact": "「其他学者想轮原件呢？」——你说负责任的做法是安全存储里歇七十、八十年",
+   "anchor": "rest them in secure storage for seventy, eighty years",
+   "span": [
+    2107,
+    2160
+   ],
+   "hit": true,
+   "verbatim": "rest them in secure storage for seventy, eighty years"
+  },
+  {
+   "fact": "你的桌面满是碎屑与古墨瓶、地上划掉与揉团纸——你试过自己写却做不到；捋平乱发（像活电线）亲口承认",
+   "anchor": "“I couldn’t do it,” you admitted.",
+   "span": [
+    2730,
+    2763
+   ],
+   "hit": true,
+   "verbatim": "“I couldn’t do it,” you admitted."
+  },
+  {
+   "fact": "Joan 深痛：你最爱的人——唯一真爱——却无法通她；听不见神谕的大祭司雇异端替领诫命",
+   "anchor": "a high priestess who couldn’t hear God",
+   "span": [
+    2940,
+    2978
+   ],
+   "hit": true,
+   "verbatim": "a high priestess who couldn’t hear God"
+  },
+  {
+   "fact": "她生硬宣布「我也做不到」；戳纸屑立条件：先拿出可读誊本、能救多少救多少",
+   "anchor": "Not until you have a legible transcription",
+   "span": [
+    3251,
+    3293
+   ],
+   "hit": true,
+   "verbatim": "Not until you have a legible transcription"
+  },
+  {
+   "fact": "你回春追问「你能做？」她耸肩退向楼梯「你干你那份，然后再看」",
+   "anchor": "You do your part; then we’ll see.",
+   "span": [
+    3488,
+    3521
+   ],
+   "hit": true,
+   "verbatim": "You do your part; then we’ll see."
+  }
+ ]
+}

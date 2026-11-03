@@ -1,0 +1,129 @@
+{
+ "ch": 41,
+ "text_file": "ch41_chapter_xiii.txt",
+ "char_len": 20581,
+ "relations": "Celia（叙述者）；Harriot；Beatrice/Roland（泉效中的旧影）；Ely（虚构）",
+ "numbers": "二十页（前章）；「近三小时」（前章）；百万烛光（比喻）",
+ "facts": [
+  {
+   "fact": "暴雨中你迷路、沿山肩爬如羊；只有一条路：更深、向山心等雨停",
+   "anchor": "deeper, toward the heart of the mountain",
+   "span": [
+    284,
+    324
+   ],
+   "hit": true,
+   "verbatim": "deeper, toward the heart of the mountain"
+  },
+  {
+   "fact": "你爬进以为的岩檐，遇上的不是石墙而是凉、久饿阳光的空气：一个洞穴",
+   "anchor": "not a stone wall but cool, sun-starved air",
+   "span": [
+    877,
+    919
+   ],
+   "hit": true,
+   "verbatim": "not a stone wall but cool, sun-starved air"
+  },
+  {
+   "fact": "洞内扩张远大于口；许多 Ozark 洞穴是秘墓——这个不：它托着你；银光在前是自含之泉；手入石心般凉的水，你喝了",
+   "anchor": "A spring, hidden and self-contained in the darkness",
+   "span": [
+    1617,
+    1668
+   ],
+   "hit": true,
+   "verbatim": "A spring, hidden and self-contained in the darkness"
+  },
+  {
+   "fact": "并肩立洞内：忏悔室的气味；她开手电；「你真是户外女将」",
+   "anchor": "You’re quite the outdoorswoman.",
+   "span": [
+    2120,
+    2151
+   ],
+   "hit": true,
+   "verbatim": "You’re quite the outdoorswoman."
+  },
+  {
+   "fact": "她跪水边半期待 Ophelia 遗骨；光束散入黑暗触不到底",
+   "anchor": "I do hope there’s no corpse in this pool",
+   "span": [
+    3247,
+    3287
+   ],
+   "hit": true,
+   "verbatim": "I do hope there’s no corpse in this pool"
+  },
+  {
+   "fact": "Harry 脱袜卷裤腿；她抓腕「不知多深」；她翻腕回握「那就一起来」",
+   "anchor": "Come with me, then.",
+   "span": [
+    4035,
+    4054
+   ],
+   "hit": true,
+   "verbatim": "Come with me, then."
+  },
+  {
+   "fact": "水如刃割踝；拖池搜宝无获；「像在外婆家后 Sycamore Run 涉水。匹兹堡外。我的家乡」",
+   "anchor": "That’s where I’m from.",
+   "span": [
+    5055,
+    5077
+   ],
+   "hit": true,
+   "verbatim": "That’s where I’m from."
+  },
+  {
+   "fact": "壁上一掌平贴如马侧腹；「我觉得该喝泉」「为了研究」",
+   "anchor": "For research.",
+   "span": [
+    6265,
+    6278
+   ],
+   "hit": true,
+   "verbatim": "For research."
+  },
+  {
+   "fact": "二十几分钟后：Harriot 发光、电与草莓金属、洞顶似被掀；指尖拖彗尾",
+   "anchor": "She was all electricity",
+   "span": [
+    8097,
+    8120
+   ],
+   "hit": true,
+   "verbatim": "She was all electricity"
+  },
+  {
+   "fact": "「她把他带来。他们喝了水」——「他们只是世上仅有的两人…爱一个人爱到把整个世界变成一个人？」",
+   "anchor": "Can you imagine loving someone so completely",
+   "span": [
+    10616,
+    10660
+   ],
+   "hit": true,
+   "verbatim": "Can you imagine loving someone so completely"
+  },
+  {
+   "fact": "「告诉我你看见了」「不，我没有。我看见的是你」——她合上距离吻她",
+   "anchor": "I see you.",
+   "span": [
+    11069,
+    11079
+   ],
+   "hit": true,
+   "verbatim": "I see you."
+  },
+  {
+   "fact": "灯熄后 Harriot 求「醒着？我怕他会找到我」——「我做过那事的人。一个复仇之灵」",
+   "anchor": "A vengeful spirit.",
+   "span": [
+    20106,
+    20124
+   ],
+   "hit": true,
+   "verbatim": "A vengeful spirit."
+  }
+ ]
+}

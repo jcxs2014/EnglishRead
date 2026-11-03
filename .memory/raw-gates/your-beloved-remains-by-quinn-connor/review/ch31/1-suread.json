@@ -1,0 +1,119 @@
+{
+ "ch": 31,
+ "text_file": "ch31_chapter_iii.txt",
+ "char_len": 8478,
+ "relations": "Celia（15 岁时）；包工头（The Contractor）；Daddy（前院长）；Roland（幻影）；adjunct 教授（后一任）",
+ "numbers": "十五岁遇冰灾；包工头大她至少十二年；三年后筹到款；二十岁时的 adjunct；Peters 91 岁（后章）",
+ "facts": [
+  {
+   "fact": "她嫉妒 Harriot 却永远无法当面承认——不为 Greg，为其能力与魅力；她一生只有一个爱人",
+   "anchor": "I envied Joan Harriot",
+   "span": [
+    67,
+    88
+   ],
+   "hit": true,
+   "verbatim": "I envied Joan Harriot"
+  },
+  {
+   "fact": "十五岁冰灾袭来；Daddy 拖延三年（又笑又皱如破小丑）；腐坏蔓延、墙板扭曲",
+   "anchor": "I was fifteen when an ice storm came",
+   "span": [
+    257,
+    293
+   ],
+   "hit": true,
+   "verbatim": "I was fifteen when an ice storm came"
+  },
+  {
+   "fact": "三年后筹款：地板/地基/窗/屋顶/墙纸全修；茶室（女式自由思想纪念碑）掏空重建为档案员办公室",
+   "anchor": "it was made into the archivist’s office",
+   "span": [
+    1113,
+    1152
+   ],
+   "hit": true,
+   "verbatim": "it was made into the archivist’s office"
+  },
+  {
+   "fact": "她求父参与修复被拒，仍溜进去；包工头大她至少十二岁、跨州照看老房子、让她留下",
+   "anchor": "at least twelve years",
+   "span": [
+    1902,
+    1923
+   ],
+   "hit": true,
+   "verbatim": "at least twelve years"
+  },
+  {
+   "fact": "十四行接龙：她念「你不是夏天」，他接「像寒冬冻死云雀，你是冬天唱炽热挽歌」——她失语",
+   "anchor": "singing your ardent dirge",
+   "span": [
+    2647,
+    2672
+   ],
+   "hit": true,
+   "verbatim": "singing your ardent dirge"
+  },
+  {
+   "fact": "她极短地想象他可是同类灵魂——「一个不太可能的 Roland 配我 Beatrice？」",
+   "anchor": "An unlikely Roland to my Beatrice?",
+   "span": [
+    2884,
+    2918
+   ],
+   "hit": true,
+   "verbatim": "An unlikely Roland to my Beatrice?"
+  },
+  {
+   "fact": "阳台上初夜；她闭眼想象另一个声音：Roland 倚对面栏杆、慵懒的眼，「仿佛他属于我、而我属于你」",
+   "anchor": "like he was mine and I was you",
+   "span": [
+    5522,
+    5552
+   ],
+   "hit": true,
+   "verbatim": "like he was mine and I was you"
+  },
+  {
+   "fact": "Roland 的幻影把她带到人生第一次高潮；完事后她从想讨好变成想让他走开",
+   "anchor": "talked me to my very first orgasm",
+   "span": [
+    6413,
+    6446
+   ],
+   "hit": true,
+   "verbatim": "talked me to my very first orgasm"
+  },
+  {
+   "fact": "多年后承认他也在利用她：青春/天真/随叫随到；九月他走了再无音讯",
+   "anchor": "my youth, my naivete, my availability",
+   "span": [
+    7713,
+    7750
+   ],
+   "hit": true,
+   "verbatim": "my youth, my naivete, my availability"
+  },
+  {
+   "fact": "唯一另一个男人是二十岁的 adjunct；她不算他爱人；他没拿到终身教职消失时她如释重负",
+   "anchor": "I didn’t consider him a lover.",
+   "span": [
+    8055,
+    8085
+   ],
+   "hit": true,
+   "verbatim": "I didn’t consider him a lover."
+  },
+  {
+   "fact": "结尾：不再费心男人；在自己床上绰绰有余，手埋内裤、Roland 想象之声在耳",
+   "anchor": "I more than managed in my bed",
+   "span": [
+    8380,
+    8409
+   ],
+   "hit": true,
+   "verbatim": "I more than managed in my bed"
+  }
+ ]
+}

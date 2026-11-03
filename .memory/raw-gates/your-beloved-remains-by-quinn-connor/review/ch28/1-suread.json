@@ -1,0 +1,129 @@
+{
+ "ch": 28,
+ "text_file": "ch28_chapter_xiv.txt",
+ "char_len": 6555,
+ "relations": "Joan（叙述者）；Celia（守门人/导览）；Beatrice/Roland（死者）；Ida/Bertie（前史）；Celia 父亲（前院长，抹除者）",
+ "numbers": "十七年保尸；1896–1913（碑文）",
+ "facts": [
+  {
+   "fact": "楼梯半程视线被截断；其上墙纸剥落、门框磕痕——展览空间之外，私域",
+   "anchor": "the line of sight for visitors to the archive was broken",
+   "span": [
+    157,
+    213
+   ],
+   "hit": true,
+   "verbatim": "the line of sight for visitors to the archive was broken"
+  },
+  {
+   "fact": "「这是他们的卧室」——你推门让她进；空气古老沉重",
+   "anchor": "This was their bedroom.",
+   "span": [
+    666,
+    689
+   ],
+   "hit": true,
+   "verbatim": "This was their bedroom."
+  },
+  {
+   "fact": "原始家具：四柱床、哥特拱密雕、巨大镀金镜；你在给也在测试",
+   "anchor": "a four-poster on its own dais",
+   "span": [
+    962,
+    991
+   ],
+   "hit": true,
+   "verbatim": "a four-poster on its own dais"
+  },
+  {
+   "fact": "好奇心永远压过厌恶：她想要血腥细节——想被引诱并被恶心",
+   "anchor": "curiosity would always outweigh revulsion",
+   "span": [
+    1383,
+    1424
+   ],
+   "hit": true,
+   "verbatim": "curiosity would always outweigh revulsion"
+  },
+  {
+   "fact": "Roland 设计迷宫/戏服/布景、被埋没的天才；一夜进迷宫没出来、她清晨找到",
+   "anchor": "He went into the maze one night and never came out.",
+   "span": [
+    1862,
+    1913
+   ],
+   "hit": true,
+   "verbatim": "He went into the maze one night and never came out."
+  },
+  {
+   "fact": "「她吞下整把整把的铁杉随他去」",
+   "anchor": "She swallowed fistfuls of hemlock to go with him.",
+   "span": [
+    2022,
+    2071
+   ],
+   "hit": true,
+   "verbatim": "She swallowed fistfuls of hemlock to go with him."
+  },
+  {
+   "fact": "友人们救她；Bertie 下令烧毒园、迷宫随去",
+   "anchor": "Bertie ordered the poison garden burned",
+   "span": [
+    2742,
+    2781
+   ],
+   "hit": true,
+   "verbatim": "Bertie ordered the poison garden burned"
+  },
+  {
+   "fact": "她坚持正式停灵盛大下葬（墓一封谁查？）然后锁卧室、辞仆役、不见客",
+   "anchor": "after a formal lying-in",
+   "span": [
+    3037,
+    3060
+   ],
+   "hit": true,
+   "verbatim": "after a formal lying-in"
+  },
+  {
+   "fact": "十七年保尸：干草围绕、器官摘除、腌坛放床下正对他的身体——像法老",
+   "anchor": "For seventeen years, she kept his corpse here",
+   "span": [
+    4750,
+    4795
+   ],
+   "hit": true,
+   "verbatim": "For seventeen years, she kept his corpse here"
+  },
+  {
+   "fact": "尸体是她被还原成的骇人事实、遮蔽一生之影；「听说过…那个藏死尸的女人？操」",
+   "anchor": "the grisly fact that Beatrice Donahue can be reduced to",
+   "span": [
+    4209,
+    4264
+   ],
+   "hit": true,
+   "verbatim": "the grisly fact that Beatrice Donahue can be reduced to"
+  },
+  {
+   "fact": "丑闻后男人们来关校想抹掉她——连我父亲：重命名所有楼、禁学生谈论；但学院是她的",
+   "anchor": "But Basin College is hers. It was never meant to be anyone else’s.",
+   "span": [
+    6161,
+    6227
+   ],
+   "hit": true,
+   "verbatim": "But Basin College is hers. It was never meant to be anyone else’s."
+  },
+  {
+   "fact": "床沿久坐后 Joan 抬头：「我会帮你」",
+   "anchor": "“I’ll help you.”",
+   "span": [
+    6538,
+    6554
+   ],
+   "hit": true,
+   "verbatim": "“I’ll help you.”"
+  }
+ ]
+}

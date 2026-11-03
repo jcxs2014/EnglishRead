@@ -1,0 +1,89 @@
+{
+ "ch": 1,
+ "text_file": "ch01_chapter_i.txt",
+ "char_len": 9381,
+ "relations": "Celia Kiel（档案员，前院长之女）；Beatrice Donahue/Tristram（建校者，已故）；Jonathan Kursey（Neilson Library 采访馆员，密友）；Harry/Joan Harriot（陌生女客，博士后，Celia 尚不知其名）；Greg Kostas（世界语言系助理教授）；Lanier Wilkes（英语系老教授）",
+ "numbers": "新生班约 250 人；父亲任内扩到 1,500 人；Wilkes 自 1950 年代初在此任教",
+ "facts": [
+  {
+   "fact": "开学派对上 Celia 听到学院将关门的传闻，却更在意客人弄坏故居（她的档案馆）",
+   "anchor": "The rumors of Basin College’s closure reached me at the start-of-year faculty mixer",
+   "span": [
+    115,
+    198
+   ],
+   "hit": true,
+   "verbatim": "The rumors of Basin College’s closure reached me at the start-of-year faculty mixer"
+  },
+  {
+   "fact": "她向来客介绍「失踪的主人」Beatrice Donahue（男笔名 Tristram，建校者），带看楼下、回避楼上",
+   "anchor": "I introduced you as the missing host",
+   "span": [
+    916,
+    952
+   ],
+   "hit": true,
+   "verbatim": "I introduced you as the missing host"
+  },
+  {
+   "fact": "Jonathan 从注册办打听到新生班仅约 250 人；父亲任内曾把容量扩到 1,500",
+   "anchor": "The new class is barely two-fifty.",
+   "span": [
+    3928,
+    3962
+   ],
+   "hit": true,
+   "verbatim": "The new class is barely two-fifty."
+  },
+  {
+   "fact": "Celia 生在校园：母亲在一场赤道鸟类讲座中途临盆",
+   "anchor": "I was even born on campus",
+   "span": [
+    5302,
+    5327
+   ],
+   "hit": true,
+   "verbatim": "I was even born on campus"
+  },
+  {
+   "fact": "陌生女客当众说 Beatrice 的结局是场灾难、失传小说只是 drama",
+   "anchor": "The resolution is just a—yes, a disaster!",
+   "span": [
+    6405,
+    6446
+   ],
+   "hit": true,
+   "verbatim": "The resolution is just a—yes, a disaster!"
+  },
+  {
+   "fact": "Wilkes 憎恨这位女客，离场时骂 damnable Yankee",
+   "anchor": "damnable Yankee",
+   "span": [
+    7717,
+    7732
+   ],
+   "hit": true,
+   "verbatim": "damnable Yankee"
+  },
+  {
+   "fact": "Greg 提醒她「在老诗人自己家里这样说会吵醒死人」",
+   "anchor": "You’ll wake the dead.",
+   "span": [
+    7991,
+    8012
+   ],
+   "hit": true,
+   "verbatim": "You’ll wake the dead."
+  },
+  {
+   "fact": "Celia 觉得 Harry 这名字耳熟却想不起；想逃上楼",
+   "anchor": "Harry. Harry. Who was she?",
+   "span": [
+    8755,
+    8781
+   ],
+   "hit": true,
+   "verbatim": "Harry. Harry. Who was she?"
+  }
+ ]
+}

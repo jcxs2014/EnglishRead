@@ -1,0 +1,129 @@
+{
+ "ch": 43,
+ "text_file": "ch43_chapter_i.txt",
+ "char_len": 10149,
+ "relations": "Joan（叙述者/被附身者）；Beatrice（梦中）；Calahan（梦中）；Celia（主卧里破碎的人）",
+ "numbers": "12/20/84（日记日期）；Builder 页数十页",
+ "facts": [
+  {
+   "fact": "冬天来了；很久才回到自己（如那夜之后所能）",
+   "anchor": "The cold curtains of December closed around us.",
+   "span": [
+    49,
+    96
+   ],
+   "hit": true,
+   "verbatim": "The cold curtains of December closed around us."
+  },
+  {
+   "fact": "炼狱：Calahan 整段划她的论文，无意识摇头；笔的刮擦响彻耳膜",
+   "anchor": "The scratches of his pen were loud",
+   "span": [
+    543,
+    577
+   ],
+   "hit": true,
+   "verbatim": "The scratches of his pen were loud"
+  },
+  {
+   "fact": "她醒悟：他根本没在读；她的想法对他是麻烦；他想安静自肥智识",
+   "anchor": "Now any time spent engaging with my ideas was a nuisance.",
+   "span": [
+    770,
+    827
+   ],
+   "hit": true,
+   "verbatim": "Now any time spent engaging with my ideas was a nuisance."
+  },
+  {
+   "fact": "梦中 Beatrice 端咖啡壶、坐在她亲手做的秋千上（欧扎克倾斜）；「你不在这里」「你是文学」",
+   "anchor": "“You’re literature.”",
+   "span": [
+    3279,
+    3299
+   ],
+   "hit": true,
+   "verbatim": "“You’re literature.”"
+  },
+  {
+   "fact": "「我是一套你穿的衣服」——「也许现在你能告诉我：谁是手套、谁是谁的手」",
+   "anchor": "I’m a suit of clothes you wear.",
+   "span": [
+    3634,
+    3665
+   ],
+   "hit": true,
+   "verbatim": "I’m a suit of clothes you wear."
+  },
+  {
+   "fact": "她脸砸进带刺地板、尝血；呕粉沫、寒战、全然错位",
+   "anchor": "My face slammed into a splintery floor",
+   "span": [
+    4039,
+    4077
+   ],
+   "hit": true,
+   "verbatim": "My face slammed into a splintery floor"
+  },
+  {
+   "fact": "纸垫脸：全被批注、有的被深斜笔迹戳穿；她屈手发僵、脱水——这些页是她写的、毫无记忆",
+   "anchor": "With no memory whatsoever of doing it.",
+   "span": [
+    6151,
+    6189
+   ],
+   "hit": true,
+   "verbatim": "With no memory whatsoever of doing it."
+  },
+  {
+   "fact": "她在档案馆地板上；低语「Celia」（无力喊）；冰雹敲顶",
+   "anchor": "“Celia,” I whispered",
+   "span": [
+    6407,
+    6427
+   ],
+   "hit": true,
+   "verbatim": "“Celia,” I whispered"
+  },
+  {
+   "fact": "主卧：你只穿她的大衣、腿上血斑绷带、枯枝在发间——「看着死了」",
+   "anchor": "You looked dead, your lips cracked and pale.",
+   "span": [
+    7865,
+    7909
+   ],
+   "hit": true,
+   "verbatim": "You looked dead, your lips cracked and pale."
+  },
+  {
+   "fact": "她拖你下床（霉毯雪崩）、扇脸、倾进浴缸泼冰水；你尖叫抓她",
+   "anchor": "I tipped you into it",
+   "span": [
+    8518,
+    8538
+   ],
+   "hit": true,
+   "verbatim": "I tipped you into it"
+  },
+  {
+   "fact": "「我在流血」「她剖开了我」——但无血；「你看见她了吗？」她撒谎「洞里只有我们」",
+   "anchor": "It was only us in the cave.",
+   "span": [
+    9750,
+    9777
+   ],
+   "hit": true,
+   "verbatim": "It was only us in the cave."
+  },
+  {
+   "fact": "你搜她目光、缩回、拽上大衣：「出去。请出去」；她出去，水声底下你对墙呢喃",
+   "anchor": "a current of your voice",
+   "span": [
+    10091,
+    10114
+   ],
+   "hit": true,
+   "verbatim": "a current of your voice"
+  }
+ ]
+}

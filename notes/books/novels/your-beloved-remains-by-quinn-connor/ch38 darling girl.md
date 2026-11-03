@@ -62,7 +62,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：吻的音效是喜剧的、生理是正剧的——smack 的响声与 tingled 的电流分层；「发根微撕」给这一吻留了暴力的余味；「解决一切」的欢呼说明她听懂了邀请的全部潜台词：六周、独处、你。
 
-**读者视角提示**：回看 ch23 的秋千、本章的吻——Harriot 每次都抢在 Celia 说完之前行动。她的 consent 语言是身体先行、言语追认。
+**读者视角提示**：回看 ch23 的秋千、本章的吻——Harriot 每次都抢在 Celia 说完之前行动。她的应允从来身体先行、言语追认。
 
 > **原句 6:** "Although upon a summer's day You'll lightly turn from me away When autumn leaves are scattered wide You'll often linger by my side, But when the snow the earth doth cover Then you will be my ardent lover."
 

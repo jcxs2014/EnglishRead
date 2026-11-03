@@ -34,7 +34,17 @@ modified: "2026-11-03"
 
 **读者视角提示**：这是全书的身份基石：Beatrice（女）= Tristram（男笔名）= 建校者 = 故居主人 = 卡带的「你」。男笔名在那个时代是女作家进入出版界的通行证，也是后文「女性之地」主题的起点。
 
-> **原句 3:** "You stood by the window, your dark hair swept back from small ears, as delicate as the handles of teacups. You had a Gibson Girl's heavy hair and heavier eyes. Behind you, I could see the obelisks and iron gates of the historic cemetery peeking over your shoulder."
+> **原句 3:** "Plenty of your original things remained. In big boxes in one of the guest rooms, in the shut-up second floor where I was certainly not supposed to go, I used to find all kinds of treasures. An entire silver tea set, covered in tarnish. A very matted wig of human hair. A whole cobra in formaldehyde."
+
+**中文理解**：你原来的东西剩下很多。在客房的大箱子里、在我明明不该去的封闭二楼，我总能翻出各种宝物：一整套失去光泽的银茶具、一顶严重打结的人发假发、一整条泡在福尔马林里的眼镜蛇。
+
+**关键词**：original things / shut-up second floor / silver tea set / wig of human hair / cobra in formaldehyde
+
+**为什么这样写**：三件宝物按「贵重→诡异→骇人」递进——茶具是家产，假发是身体，眼镜蛇是死亡标本；一间孩子的游乐场被写成一座小型博物馆，而「不该去」三个字提前预告了 ch28 的禁忌卧室。
+
+**读者视角提示**：这份清单不是随意堆叠——人发假发与福尔马林蛇都指向 ch28 才揭晓的那句「防腐是这家人爱的语言」。注意 shut-up second floor：楼上从第一章起就是禁区，而孩子破解它的方式是偷钥匙。
+
+> **原句 4:** "You stood by the window, your dark hair swept back from small ears, as delicate as the handles of teacups. You had a Gibson Girl's heavy hair and heavier eyes. Behind you, I could see the obelisks and iron gates of the historic cemetery peeking over your shoulder."
 
 **中文理解**：你站在窗前，深色头发从小巧的耳后拢起，耳朵精致得像茶杯的把手。你有一头 Gibson Girl 式的浓密头发，和更浓重的眼睛。你身后，我能看见历史墓地的方尖碑和铁门探出你的肩膀。
 
@@ -44,7 +54,7 @@ modified: "2026-11-03"
 
 **读者视角提示**：墓园与方尖碑是 Beatrice 长眠之地，往后会反复作为「你」的坐标出现。注意幻象永远发生在主卧窗前——窗是房子与墓地的取景框，招魂的舞台已经布好。
 
-> **原句 4:** "You would be pleased that, decades after your death, I conjured your spirit in your house, with your words. A lonely, isolated child devoted to a dead woman? It was exactly the kind of story you would have penned."
+> **原句 5:** "You would be pleased that, decades after your death, I conjured your spirit in your house, with your words. A lonely, isolated child devoted to a dead woman? It was exactly the kind of story you would have penned."
 
 **中文理解**：你会很高兴的——在你死后几十年，我在你的房子里、用你的词句召唤了你的灵魂。一个孤独、离群的孩子献身于一个死去的女作家？这恰恰是你笔下会写的那种故事。
 

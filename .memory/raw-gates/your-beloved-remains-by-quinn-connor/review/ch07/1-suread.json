@@ -1,0 +1,89 @@
+{
+ "ch": 7,
+ "text_file": "ch07_chapter_vii.txt",
+ "char_len": 1556,
+ "relations": "Celia（档案员）；Beatrice（遗嘱所有者，已故）；隐含：Danvers（嫌疑）",
+ "numbers": "保险柜密码是「你爱人的生日」（Celia 自选）",
+ "facts": [
+  {
+   "fact": "Celia 跑进档案馆地下室修复室，满脑子「Where is it?」",
+   "anchor": "Where is it?",
+   "span": [
+    19,
+    31
+   ],
+   "hit": true,
+   "verbatim": "Where is it?"
+  },
+  {
+   "fact": "她冲过气密无酸盒，没动礼服软储/Clara 原稿速写/不能见光的初版书，跪到保险柜前",
+   "anchor": "I dropped to my knees by the safe.",
+   "span": [
+    505,
+    539
+   ],
+   "hit": true,
+   "verbatim": "I dropped to my knees by the safe."
+  },
+  {
+   "fact": "柜内：地契原件、财务文件、身份证件，以及遗嘱",
+   "anchor": "The original deeds to the land.",
+   "span": [
+    659,
+    690
+   ],
+   "hit": true,
+   "verbatim": "The original deeds to the land."
+  },
+  {
+   "fact": "密码是你爱人的生日，是她自己选的",
+   "anchor": "your lover’s birthday, my own choice",
+   "span": [
+    881,
+    917
+   ],
+   "hit": true,
+   "verbatim": "your lover’s birthday, my own choice"
+  },
+  {
+   "fact": "柜门开：无酸文件夹如人造秋天散落；她一贯按日期主题归档得无可挑剔",
+   "anchor": "impeccably filed by date and subject",
+   "span": [
+    1221,
+    1257
+   ],
+   "hit": true,
+   "verbatim": "impeccably filed by date and subject"
+  },
+  {
+   "fact": "有人进了「你的家、我的心」翻箱倒柜",
+   "anchor": "Someone had come into your home, my heart, and rifled through.",
+   "span": [
+    1330,
+    1392
+   ],
+   "hit": true,
+   "verbatim": "Someone had come into your home, my heart, and rifled through."
+  },
+  {
+   "fact": "遗嘱不在；原因只可能有一个",
+   "anchor": "Your will wasn’t here.",
+   "span": [
+    1448,
+    1470
+   ],
+   "hit": true,
+   "verbatim": "Your will wasn’t here."
+  },
+  {
+   "fact": "结尾：学院不安全，你不安全",
+   "anchor": "The college wasn’t safe. You weren’t safe.",
+   "span": [
+    1513,
+    1555
+   ],
+   "hit": true,
+   "verbatim": "The college wasn’t safe. You weren’t safe."
+  }
+ ]
+}

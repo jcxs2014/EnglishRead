@@ -1,0 +1,149 @@
+{
+ "ch": 54,
+ "text_file": "ch54_chapter_xii.txt",
+ "char_len": 8310,
+ "relations": "Harriot（叙述者/日记）；Celia（被写对象）；Calahan（被毒者）；Beatrice（附身者）；野猪",
+ "numbers": "12/20/84 日记日期；三周老十岁；1983-04 起投毒",
+ "facts": [
+  {
+   "fact": "又下雪；钟楼六点；「冬天坚硬，而我在融化」",
+   "anchor": "Winter was adamant",
+   "span": [
+    168,
+    186
+   ],
+   "hit": true,
+   "verbatim": "Winter was adamant"
+  },
+  {
+   "fact": "带走《Dreams of the Rose》一半是恶意；看你 frantic misery 是 validation——直到你带毒液追来",
+   "anchor": "at least half from spite",
+   "span": [
+    289,
+    313
+   ],
+   "hit": true,
+   "verbatim": "at least half from spite"
+  },
+  {
+   "fact": "若必须像 Ethan Frome 滑下山也要离开兽与你",
+   "anchor": "sled down the mountain like Ethan Frome",
+   "span": [
+    1108,
+    1147
+   ],
+   "hit": true,
+   "verbatim": "sled down the mountain like Ethan Frome"
+  },
+  {
+   "fact": "砷：很慢、他要的、只放进他叫我煮的咖啡；他病数周却不离工作、日复一日回办公室/福克纳/也回我",
+   "anchor": "I only put it in the coffee he asked me to make",
+   "span": [
+    1526,
+    1573
+   ],
+   "hit": true,
+   "verbatim": "I only put it in the coffee he asked me to make"
+  },
+  {
+   "fact": "起初像恶作剧（一点胃痛）；「若他停止贬低我，大概会康复」",
+   "anchor": "If he’d stopped belittling me",
+   "span": [
+    1907,
+    1936
+   ],
+   "hit": true,
+   "verbatim": "If he’d stopped belittling me"
+  },
+  {
+   "fact": "他要求沉默在场；她实验语调音高姿态想造对话——除了点头一切被当打断；「我是他大脑的投影幕」",
+   "anchor": "I was a projector screen for his brain",
+   "span": [
+    2571,
+    2609
+   ],
+   "hit": true,
+   "verbatim": "I was a projector screen for his brain"
+  },
+  {
+   "fact": "他越来越常叫她、确信为那几剂；他渴望、眼变亮、她几乎不睡",
+   "anchor": "I became certain it was for those little doses",
+   "span": [
+    2698,
+    2744
+   ],
+   "hit": true,
+   "verbatim": "I became certain it was for those little doses"
+  },
+  {
+   "fact": "最后一次：她在咖啡上方徘徊、说不清是否决定；倒进杯、搅、他接过——「我的论文答辩就此没发生」",
+   "anchor": "And my dissertation went undefended.",
+   "span": [
+    3818,
+    3854
+   ],
+   "hit": true,
+   "verbatim": "And my dissertation went undefended."
+  },
+  {
+   "fact": "她以迷宫包围记忆（中心是毒，如 Beatrice）；你是树篱、The Rose、学院、课程、论文修订",
+   "anchor": "I’d built a labyrinth around the memory",
+   "span": [
+    3921,
+    3960
+   ],
+   "hit": true,
+   "verbatim": "I’d built a labyrinth around the memory"
+  },
+  {
+   "fact": "感恩节后警察来，她辞职、把车与东西藏你屋；学院以为她早走了",
+   "anchor": "I simply resigned my post",
+   "span": [
+    4230,
+    4255
+   ],
+   "hit": true,
+   "verbatim": "I simply resigned my post"
+  },
+  {
+   "fact": "她本该当医生/儿童图书馆员/牙科卫生员——「若有别的路，我很久前错过出口」",
+   "anchor": "I’d missed the turnoff a long time ago",
+   "span": [
+    5783,
+    5821
+   ],
+   "hit": true,
+   "verbatim": "I’d missed the turnoff a long time ago"
+  },
+  {
+   "fact": "野猪立车前、侧腹起伏如地狱风箱；她下车、伸手、按风的音高吹哨——兽走向她、闭眼",
+   "anchor": "heaving like the bellows of hell",
+   "span": [
+    6248,
+    6280
+   ],
+   "hit": true,
+   "verbatim": "heaving like the bellows of hell"
+  },
+  {
+   "fact": "她举左轮对准咽喉、开枪；猪瘫进雪堆、红流汇进山的静脉；她哭、浸在「无词的语言」、看见 Ely 与 Body——「我知道真正的结局」",
+   "anchor": "I know how Dreams of the Rose was meant to end.",
+   "span": [
+    7989,
+    8036
+   ],
+   "hit": true,
+   "verbatim": "I know how Dreams of the Rose was meant to end."
+  },
+  {
+   "fact": "她把日记留在车里不再需要——「既然我知道真正的结局应该是什么」",
+   "anchor": "Now that I know what the true ending must be.",
+   "span": [
+    8264,
+    8309
+   ],
+   "hit": true,
+   "verbatim": "Now that I know what the true ending must be."
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "ch": 48,
+ "text_file": "ch48_chapter_vi.txt",
+ "char_len": 7089,
+ "relations": "Joan（叙述者）；Celia；Beatrice（尸体/油画）；Edward Carver（枪原主）；野猪",
+ "numbers": "Colt 左轮 accession 501.66.1924；Carver 卒 1883；遗产 1924",
+ "facts": [
+  {
+   "fact": "在她床上（破裙碎片里）你像死人/痨病者；墙上油画（沉睡青年、铅白皮近绿、眼睑玫瑰影）",
+   "anchor": "you looked hollowed, like the dead",
+   "span": [
+    68,
+    102
+   ],
+   "hit": true,
+   "verbatim": "you looked hollowed, like the dead"
+  },
+  {
+   "fact": "「不困扰我躺在这张 Beatrice 爱过尸体的床上」",
+   "anchor": "lie in the bed where Beatrice Donahue had loved a corpse",
+   "span": [
+    379,
+    435
+   ],
+   "hit": true,
+   "verbatim": "lie in the bed where Beatrice Donahue had loved a corpse"
+  },
+  {
+   "fact": "她扫视校园寻野猪；泉后她的眠从未胜过打盹——总听见它（尖叫与追逐、鼻拱橡子、心的吼吸）",
+   "anchor": "the roar and suck of its heart",
+   "span": [
+    1011,
+    1041
+   ],
+   "hit": true,
+   "verbatim": "the roar and suck of its heart"
+  },
+  {
+   "fact": "保险柜半开（Celia 数周来很 careless）；枪柄系标签：501.66.1924 Colt 单动左轮，原属 Edward Carver（卒 1883），1924 遗产",
+   "anchor": "501.66.1924 Colt single action revolver",
+   "span": [
+    1537,
+    1576
+   ],
+   "hit": true,
+   "verbatim": "501.66.1924 Colt single action revolver"
+  },
+  {
+   "fact": "枪保养如新、转轮各膛装实弹；她把枪收进口袋（因兽在猎她）",
+   "anchor": "was loaded with bullets",
+   "span": [
+    1844,
+    1867
+   ],
+   "hit": true,
+   "verbatim": "was loaded with bullets"
+  },
+  {
+   "fact": "Celia 在背后「我读了那些页」；她跳起接尖叫的水壶；她问她「你打算要什么结局？」",
+   "anchor": "They terrified me.",
+   "span": [
+    2389,
+    2407
+   ],
+   "hit": true,
+   "verbatim": "They terrified me."
+  },
+  {
+   "fact": "她答：Galatea/Pygmalion——「他爱她不是因为她是她，而是因为他造了她」；「Body 应该淹死那混蛋」",
+   "anchor": "because he created her",
+   "span": [
+    2854,
+    2876
+   ],
+   "hit": true,
+   "verbatim": "because he created her"
+  },
+  {
+   "fact": "Celia 反驳：Body 也许是 Roland、Ely 是 Beatrice——「Beatrice 能给他们唯一的 happy ending 是一起死、一起腐」",
+   "anchor": "The only happy ending Beatrice could give them would be to die together. Rot together.",
+   "span": [
+    3610,
+    3696
+   ],
+   "hit": true,
+   "verbatim": "The only happy ending Beatrice could give them would be to die together. Rot together."
+  },
+  {
+   "fact": "Joan 判她 always about biography；她心里「很女人味」又恨自己；「这不是辩论」",
+   "anchor": "It’s always about biography for you.",
+   "span": [
+    3775,
+    3811
+   ],
+   "hit": true,
+   "verbatim": "It’s always about biography for you."
+  },
+  {
+   "fact": "「那些页来自源头。我没写它们」；「它们在洞里，或她在洞里，或她在这儿」",
+   "anchor": "Those pages … are from the source. I didn’t write them.",
+   "span": [
+    4254,
+    4309
+   ],
+   "hit": true,
+   "verbatim": "Those pages … are from the source. I didn’t write them."
+  },
+  {
+   "fact": "Celia 杀人的怒：「是你写的。在药的迷雾里」；「我以为你是学者」",
+   "anchor": "Don’t be a child about this.",
+   "span": [
+    4746,
+    4774
+   ],
+   "hit": true,
+   "verbatim": "Don’t be a child about this."
+  },
+  {
+   "fact": "撞城锤般的声：兽撞墙、整栋震、獠牙刮楼、绕屋找入口；Celia：「你在见鬼」",
+   "anchor": "You’re seeing ghosts",
+   "span": [
+    6371,
+    6391
+   ],
+   "hit": true,
+   "verbatim": "You’re seeing ghosts"
+  },
+  {
+   "fact": "她跪着问「你没感觉到吗？」；Celia 冷笑「野猪不会无端这样——你真在失控」；她一秒都不信这否认；指抚裂窗、雪花纹在指下蔓延",
+   "anchor": "snowflake fractures spread across the glass",
+   "span": [
+    7044,
+    7087
+   ],
+   "hit": true,
+   "verbatim": "snowflake fractures spread across the glass"
+  }
+ ]
+}

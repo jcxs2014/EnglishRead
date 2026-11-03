@@ -1,0 +1,109 @@
+{
+ "ch": 17,
+ "text_file": "ch17_chapter_iii.txt",
+ "char_len": 5563,
+ "relations": "Joan（叙述者/重写者）；Beatrice（原作者）；Roland（1891 年反串主角）；Greg（未涉）",
+ "numbers": "重写始于挑战前数周；戏剧 1891 年春季游园会只演一次；四幕结构",
+ "facts": [
+  {
+   "fact": "重写在 refectory 挑战前数周已开始；她说是先手，如今觉得命定",
+   "anchor": "I’d already started my rewrite weeks before you challenged me",
+   "span": [
+    61,
+    122
+   ],
+   "hit": true,
+   "verbatim": "I’d already started my rewrite weeks before you challenged me"
+  },
+  {
+   "fact": "自学期初派对起就是她的项目：论文修改搁置、承诺的文章未动笔；不教书不改稿就泡在 Scylla",
+   "anchor": "my labor was extensive",
+   "span": [
+    588,
+    610
+   ],
+   "hit": true,
+   "verbatim": "my labor was extensive"
+  },
+  {
+   "fact": "对 Donahue 没永恒之火，敬其才智/语言/不妥协的古怪；写她出于策略非爱——如今是腹语假人",
+   "anchor": "not from love but from strategy",
+   "span": [
+    1208,
+    1239
+   ],
+   "hit": true,
+   "verbatim": "not from love but from strategy"
+  },
+  {
+   "fact": "Scylla 只演一次：1891 春季游园会、女校全女班——除主角：你的爱人 Roland 穿女装演同名角色",
+   "anchor": "Your lover, Roland, performed the titular character in drag.",
+   "span": [
+    1597,
+    1657
+   ],
+   "hit": true,
+   "verbatim": "Your lover, Roland, performed the titular character in drag."
+  },
+  {
+   "fact": "剧作是维多利亚古典滑稽仿体、对句轻快；合唱用美国山乡土腔（冰镇沙士）",
+   "anchor": "a glass of cold sarsaparilla",
+   "span": [
+    2468,
+    2496
+   ],
+   "hit": true,
+   "verbatim": "a glass of cold sarsaparilla"
+  },
+  {
+   "fact": "第四幕反转：怪罪蠢笨男友 Glaucous（粗心手肘抛毒）；Scylla 成吞海怪、驱水手入 Charybdis",
+   "anchor": "Scylla’s dim-witted beau, Glaucous",
+   "span": [
+    2911,
+    2945
+   ],
+   "hit": true,
+   "verbatim": "Scylla’s dim-witted beau, Glaucous"
+  },
+  {
+   "fact": "批评家困惑的转折：滑稽体突然转素体诗、母亲 Hecate 救场、海神娶亲——草率诗解构一切",
+   "anchor": "It’s a disappointing swerve from a woman who rarely allowed a happy ending",
+   "span": [
+    4087,
+    4161
+   ],
+   "hit": true,
+   "verbatim": "It’s a disappointing swerve from a woman who rarely allowed a happy ending"
+  },
+  {
+   "fact": "她的改法：钻进她头脑写她会写的戏仿——无母亲救、无海神真爱、同等黑暗与讥诮",
+   "anchor": "It was getting in her mind, then writing the parody she would write.",
+   "span": [
+    4733,
+    4801
+   ],
+   "hit": true,
+   "verbatim": "It was getting in her mind, then writing the parody she would write."
+  },
+  {
+   "fact": "删改有亲密感：Donahue 是旧手套；本不给任何人看，只塞抽屉——除了你开口要",
+   "anchor": "Donahue was an old glove my hand felt warm in.",
+   "span": [
+    5197,
+    5243
+   ],
+   "hit": true,
+   "verbatim": "Donahue was an old glove my hand felt warm in."
+  },
+  {
+   "fact": "结尾：那夜档案馆暗了，她把 Scylla 塞进你门下",
+   "anchor": "I took my Scylla and tucked her beneath your door.",
+   "span": [
+    5512,
+    5562
+   ],
+   "hit": true,
+   "verbatim": "I took my Scylla and tucked her beneath your door."
+  }
+ ]
+}

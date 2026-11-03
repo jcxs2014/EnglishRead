@@ -1,0 +1,119 @@
+{
+ "ch": 50,
+ "text_file": "ch50_chapter_viii.txt",
+ "char_len": 9936,
+ "relations": "Harriot（叙述者）；Celia（伤者）；野猪；Eureka 医院（目标）",
+ "numbers": "伤口自九月未愈；至多几小时/午夜前；雪胎没有",
+ "facts": [
+  {
+   "fact": "血：脏红褐漫在校长蛋壳缎上，来自你脚上磨散浸透的绷带；九月旧伤还是开放创口",
+   "anchor": "Your foot was still bleeding?",
+   "span": [
+    680,
+    709
+   ],
+   "hit": true,
+   "verbatim": "Your foot was still bleeding?"
+  },
+  {
+   "fact": "她剥绷带：创口陷在脚掌、黄脓渗出、阴湿气味；她是医生的女儿——紧急、危及生命",
+   "anchor": "This was rapidly developing into an urgent, even life-threatening, issue.",
+   "span": [
+    1301,
+    1374
+   ],
+   "hit": true,
+   "verbatim": "This was rapidly developing into an urgent, even life-threatening, issue."
+  },
+  {
+   "fact": "「我们要去急诊」；她拖你穿衣；前门开着、跛过图书馆",
+   "anchor": "we’re going to the emergency room",
+   "span": [
+    2808,
+    2841
+   ],
+   "hit": true,
+   "verbatim": "we’re going to the emergency room"
+  },
+  {
+   "fact": "「我们永远下不了山」「你忘了我是北方佬，雪地我能开」——连日雪与雨夹雪、脚下硬壳",
+   "anchor": "I can drive in the snow",
+   "span": [
+    3647,
+    3670
+   ],
+   "hit": true,
+   "verbatim": "I can drive in the snow"
+  },
+  {
+   "fact": "车冻：门把几乎扯掉、从副驾跨过、钥匙终于转动；钟楼敲十二",
+   "anchor": "the bell tower began to chime twelve",
+   "span": [
+    5013,
+    5049
+   ],
+   "hit": true,
+   "verbatim": "the bell tower began to chime twelve"
+  },
+  {
+   "fact": "山路陡降、浓雾；第一弯打滑冲向崖边，她 turn into the skid 救回；「这不是雪胎吧」「我忘了」",
+   "anchor": "I turned into the skid and saved it",
+   "span": [
+    5718,
+    5753
+   ],
+   "hit": true,
+   "verbatim": "I turned into the skid and saved it"
+  },
+  {
+   "fact": "她把车滑下山坡（误算）；加速过快、雾更浓——巨大形状立在路中；你尖叫；她把车撞进树丛",
+   "anchor": "it was a miscalculation",
+   "span": [
+    7569,
+    7592
+   ],
+   "hit": true,
+   "verbatim": "it was a miscalculation"
+  },
+  {
+   "fact": "野猪立在路中、看得见毛里的雪、转头看她们；「你现在看见了？」她按喇叭；你抓腕「别」",
+   "anchor": "The boar stood in the middle of the road.",
+   "span": [
+    8240,
+    8281
+   ],
+   "hit": true,
+   "verbatim": "The boar stood in the middle of the road."
+  },
+  {
+   "fact": "你眼钉后视镜、下巴颤「我看见它了」；她冷下来「你想让我以为是我的幻觉？为赢辩论？」",
+   "anchor": "You wanted me to think I was imagining things?",
+   "span": [
+    8930,
+    8976
+   ],
+   "hit": true,
+   "verbatim": "You wanted me to think I was imagining things?"
+  },
+  {
+   "fact": "「我不能和你困在这里。若冻死，没人知道我在哪」；半埋雪沟、后胎悬空",
+   "anchor": "I can’t be trapped here with you.",
+   "span": [
+    9531,
+    9564
+   ],
+   "hit": true,
+   "verbatim": "I can’t be trapped here with you."
+  },
+  {
+   "fact": "她的承认是致命错误：现在无路可回、无路可出——「没有。路。可。出。」",
+   "anchor": "There was no. way. out.",
+   "span": [
+    9912,
+    9935
+   ],
+   "hit": true,
+   "verbatim": "There was no. way. out."
+  }
+ ]
+}

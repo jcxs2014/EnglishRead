@@ -22,7 +22,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：危机从遗嘱和密信降落到最日常的账单上——期刊催款信是学术世界的氧气警报；「戳生菜」的烦躁把数字兑换成体感，饭桌成为坏消息的第一现场。
 
-**读者视角提示**：断订与 Southern Literary Review（Celia 与 Harriot 论战之地）即将失去联系——学术小世界正在一寸寸塌缩。别忽略：这也是「全校翻不 trouver 手稿」的旁证，访客越来越少。
+**读者视角提示**：断订与 Southern Literary Review（Celia 与 Harriot 论战之地）即将失去联系——学术小世界正在一寸寸塌缩。别忽略：这也是「全校翻不找手稿」的旁证，访客越来越少。
 
 > **原句 2:** ""I know there's a board meeting at the start of next semester to discuss the budget for next year." Even in my fog, I remembered the date I'd seen on that letter Mrs. Harper snuck me. February 13. "So what if, before then, something happened to raise Basin's profile?""
 
@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：密信的日期第一次被她拿来做进攻的坐标——「昏沉」与「记得」的对撞写出执念的优先级；「发生点什么」的假设句式把宣言包成试探，她已经从守档案的人开始变成做局的人。
 
-**读者视角提示**：倒计时结构在此反转方向：2 月 13 日不只是死线，也成了她的 deadline——她要在投票前造出「关校不得人心」的声势。用什么造？她手里的《Dreams of the Rose》。
+**读者视角提示**：倒计时结构在此反转方向：2 月 13 日不只是死线，也成了她的截止日——她要在投票前造出「关校不得人心」的声势。用什么造？她手里的《Dreams of the Rose》。
 
 > **原句 3:** ""Hmm. A choice between eating alone and eating with Celia Kiel is a Scylla/Charybdis dilemma, isn't it?" She plopped down beside Jonathan, chuckling. "But then you know how I feel about Scylla.""
 

@@ -46,13 +46,13 @@ modified: "2026-11-03"
 
 > **原句 4:** "Now came upon us these fair days of May, and my love and I tarried ever in those sunlit thickets, those dappled woods and airy glades. So entered the flowers into bloom, and oft we gathered them—first, the sweet trumpeting daffodillos, bluebells in baker's dozens—honeysuckle tumbles—anything, everything! And we made around ourselves a great posey of contentment—with what dissimulation did we fill our hearts with the fragrance of the mountain springtime, so as not to detect that other odor that came from my beloved …"
 
-**中文理解**：「五月的好日子降临我们，我的爱与我在那些阳光的灌木丛、斑驳的树林和 airy 的林间空地里久久流连。花就这样开了，我们常常采撷——先是甜美的小号手水仙，按面包师的一打（十三只）扎起的蓝铃——成团的金银花——一切，一切！我们用它们为自己织起一大束满足——用怎样的掩饰，我们让心里灌满山间春日的芬芳，好不去察觉从我挚爱身上飘出的另一种气味……」
+**中文理解**：「五月的好日子降临我们，我的爱与我在那些阳光的灌木丛、斑驳的树林和通风透亮的林间空地里久久流连。花就这样开了，我们常常采撷——先是甜美的小号手水仙，按面包师的一打（十三只）扎起的蓝铃——成团的金银花——一切，一切！我们用它们为自己织起一大束满足——用怎样的掩饰，我们让心里灌满山间春日的芬芳，好不去察觉从我挚爱身上飘出的另一种气味……」
 
 **关键词**：those sunlit thickets / a great posey of contentment / with what dissimulation / that other odor
 
-**为什么这样写**：仿写的腔调至此炉火纯青——古雅排比、花的清单、感叹号；真正的毒在最后从句：用花香掩尸气。「另一种气味」是全书最狠的暗笔：春天写得越香，bed 上的真相越臭。
+**为什么这样写**：仿写的腔调至此炉火纯青——古雅排比、花的清单、感叹号；真正的毒在最后从句：用花香掩尸气。「另一种气味」是全书最狠的暗笔：春天写得越香，床上的真相越臭。
 
-**读者视角提示**：这段「无意识之作」比 ch38 的 conscious 仿写更逼真——因为它是分不出你我时的产物。注意 dissimulation（掩饰）：伪造的道德困境被死者亲口写进了自己的故事。
+**读者视角提示**：这段「无意识之作」比 ch38 的有意仿写更逼真——因为它是分不出你我时的产物。注意 dissimulation（掩饰）：伪造的道德困境被死者亲口写进了自己的故事。
 
 > **原句 5:** "You looked dead, your lips cracked and pale."
 

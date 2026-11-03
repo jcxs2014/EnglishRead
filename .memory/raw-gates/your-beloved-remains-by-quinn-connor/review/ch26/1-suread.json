@@ -1,0 +1,79 @@
+{
+ "ch": 26,
+ "text_file": "ch26_chapter_xii.txt",
+ "char_len": 2105,
+ "relations": "Joan（叙述者）；Celia（救援者）；Calahan/Roland（非人声源）",
+ "numbers": "ch26 为 376 词短章",
+ "facts": [
+  {
+   "fact": "冷手落肩「你不能在这」；她胆汁灼喉、尖叫、坐倒抓住那只手",
+   "anchor": "A cold hand fell on my shoulder.",
+   "span": [
+    19,
+    51
+   ],
+   "hit": true,
+   "verbatim": "A cold hand fell on my shoulder."
+  },
+  {
+   "fact": "是你：月光灰阶里的「审判墓碑天使」；严厉融成震惊，她抽手、吞看她的学生伪装",
+   "anchor": "a gravestone angel of judgment",
+   "span": [
+    239,
+    269
+   ],
+   "hit": true,
+   "verbatim": "a gravestone angel of judgment"
+  },
+  {
+   "fact": "你托肘扶起、把她的臂搭肩、跌撞向 Gates；月亮日般亮而冷",
+   "anchor": "tucking me right up against you",
+   "span": [
+    672,
+    703
+   ],
+   "hit": true,
+   "verbatim": "tucking me right up against you"
+  },
+  {
+   "fact": "暖光小办公室（闻起来是你）；你跪在沙发旁眉间怒沟：「酒。还有什么？可卡因？」",
+   "anchor": "an angry little furrow between your eyebrows",
+   "span": [
+    1188,
+    1232
+   ],
+   "hit": true,
+   "verbatim": "an angry little furrow between your eyebrows"
+  },
+  {
+   "fact": "她含混反击「从你受的虐待够多了」；你抓腕；她说「我是博士后，欢迎来到延长青春期」",
+   "anchor": "Welcome to my fucking extended adolescence",
+   "span": [
+    1561,
+    1603
+   ],
+   "hit": true,
+   "verbatim": "Welcome to my fucking extended adolescence"
+  },
+  {
+   "fact": "「穿成——翻栅栏。想被开除还是弄死自己？」",
+   "anchor": "Are you trying to get fired, or just get yourself killed?",
+   "span": [
+    1697,
+    1754
+   ],
+   "hit": true,
+   "verbatim": "Are you trying to get fired, or just get yourself killed?"
+  },
+  {
+   "fact": "「我不在乎」：存在恐怖、黑暗之罪贴着脚跟；眼泪与抽噎感不到；「说实话，我不在乎」",
+   "anchor": "Honestly, I don’t care.",
+   "span": [
+    2019,
+    2042
+   ],
+   "hit": true,
+   "verbatim": "Honestly, I don’t care."
+  }
+ ]
+}

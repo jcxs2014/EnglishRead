@@ -1,0 +1,99 @@
+{
+ "ch": 25,
+ "text_file": "ch25_chapter_xi.txt",
+ "char_len": 4496,
+ "relations": "Joan（叙述者）；Beatrice/Roland（碑上二人）；Calahan（幻听）；Greg（前章）",
+ "numbers": "Roland 1860–1896；Beatrice 1857–1913；经近一世纪",
+ "facts": [
+  {
+   "fact": "药与酒里赤脚穿校园；翻过锻铁栅栏（石榴藤蔓、百年锈）进墓园",
+   "anchor": "an ornate cornucopia of pomegranates and vines",
+   "span": [
+    636,
+    682
+   ],
+   "hit": true,
+   "verbatim": "an ornate cornucopia of pomegranates and vines"
+  },
+  {
+   "fact": "头撞栅栏、颧擦伤、髋背钝痛；死寂深夜的私人角落，档案馆替她挡住校园",
+   "anchor": "I was shielded from the rest of campus by the archive.",
+   "span": [
+    1829,
+    1883
+   ],
+   "hit": true,
+   "verbatim": "I was shielded from the rest of campus by the archive."
+  },
+  {
+   "fact": "碑林被跟踪感：辘辘声比与 Greg 听见的更近——像林中巨兽、宽胸呼气、兽汗腥",
+   "anchor": "Like some great beast in the forest",
+   "span": [
+    2162,
+    2197
+   ],
+   "hit": true,
+   "verbatim": "Like some great beast in the forest"
+  },
+  {
+   "fact": "墓心铁艺华盖（紫藤常春藤）、双石棺、哀恸天使、碑下泉的低咕哝；她攥了一路的打火机照亮铭文",
+   "anchor": "the grand ironwork baldachin",
+   "span": [
+    2370,
+    2398
+   ],
+   "hit": true,
+   "verbatim": "the grand ironwork baldachin"
+  },
+  {
+   "fact": "铭文：Roland Auguste Loiseau（1860–1896）与 Beatrice Anne Donahue（1857–1913）合葬；曾立他设计的迷宫；冬日他死于其中；迷宫旋即焚毁",
+   "anchor": "HIC TANDEM FELICIS CONDUNTUR RELIQUIAE",
+   "span": [
+    2929,
+    2967
+   ],
+   "hit": true,
+   "verbatim": "HIC TANDEM FELICIS CONDUNTUR RELIQUIAE"
+  },
+  {
+   "fact": "她恶心：碑只字不提她的成就、只有恐怖故事——滑稽纪念碑掩盖私生活秽行",
+   "anchor": "a farcical monument",
+   "span": [
+    3280,
+    3299
+   ],
+   "hit": true,
+   "verbatim": "a farcical monument"
+  },
+  {
+   "fact": "草下摸到老根凶绞：烧毁树篱的迷宫路径仍在地下；几乎看见春阳与绿荫里的吻",
+   "anchor": "its labyrinthine paths preserved just under the ground",
+   "span": [
+    3562,
+    3616
+   ],
+   "hit": true,
+   "verbatim": "its labyrinthine paths preserved just under the ground"
+  },
+  {
+   "fact": "故事滤回：他弱胸、冬至夜灵感、冻死在迷宫中心（近她的毒园与泉）",
+   "anchor": "frozen at the center of his own maze",
+   "span": [
+    3948,
+    3984
+   ],
+   "hit": true,
+   "verbatim": "frozen at the center of his own maze"
+  },
+  {
+   "fact": "病态 wheeze → 新奥尔良的办公室门与脏咖啡杯；「咖啡，Joanie？」→ 林中红眼一闪、非人尖啸 → 她呕吐",
+   "anchor": "an enraged, inhuman squeal",
+   "span": [
+    4438,
+    4464
+   ],
+   "hit": true,
+   "verbatim": "an enraged, inhuman squeal"
+  }
+ ]
+}

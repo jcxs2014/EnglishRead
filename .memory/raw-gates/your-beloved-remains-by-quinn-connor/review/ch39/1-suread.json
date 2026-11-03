@@ -1,0 +1,129 @@
+{
+ "ch": 39,
+ "text_file": "ch39_chapter_xi.txt",
+ "char_len": 4790,
+ "relations": "Celia（叙述者）；Jonathan（要谈）；Harper（已解雇）；Danvers（离校）；Emory（Jonathan offer）",
+ "numbers": "2 月 13 日投票（前章）；Emory 的职位",
+ "facts": [
+  {
+   "fact": "大迁徙：百足虫般的车队辘辘下险路；一年最吵的最后一日；几天后雪将封山成静",
+   "anchor": "A centipede of honking cars",
+   "span": [
+    271,
+    298
+   ],
+   "hit": true,
+   "verbatim": "A centipede of honking cars"
+  },
+  {
+   "fact": "她往常此刻会被孤独淹没——但这一次不会孤身",
+   "anchor": "But I wasn’t going to be alone this time.",
+   "span": [
+    578,
+    619
+   ],
+   "hit": true,
+   "verbatim": "But I wasn’t going to be alone this time."
+  },
+  {
+   "fact": "Danvers 携妻带子（捏粉的脸）别克挤进车流；官邸静锁过冬",
+   "anchor": "pinched-pink cheeks",
+   "span": [
+    876,
+    895
+   ],
+   "hit": true,
+   "verbatim": "pinched-pink cheeks"
+  },
+  {
+   "fact": "她瞥见 Jonathan 站在墓园门外；为她二人开锁；死者不会泄密",
+   "anchor": "could not tell my secret",
+   "span": [
+    1388,
+    1412
+   ],
+   "hit": true,
+   "verbatim": "could not tell my secret"
+  },
+  {
+   "fact": "「我不能接受你在做的事——丢掉职业生涯、让原件失去合法性。你会被查出」",
+   "anchor": "delegitimize the original text",
+   "span": [
+    1848,
+    1878
+   ],
+   "hit": true,
+   "verbatim": "delegitimize the original text"
+  },
+  {
+   "fact": "她承认忘了危险、被魔法迷住；「你要去告发吗？」",
+   "anchor": "bewitched was I by my discovery",
+   "span": [
+    2017,
+    2048
+   ],
+   "hit": true,
+   "verbatim": "bewitched was I by my discovery"
+  },
+  {
+   "fact": "「我不掺和——崩塌时别牵连我的名字」",
+   "anchor": "you keep my name out of it",
+   "span": [
+    2329,
+    2355
+   ],
+   "hit": true,
+   "verbatim": "you keep my name out of it"
+  },
+  {
+   "fact": "她辩：不道德但必要、2 月 13 投票前只有这点时间、发现是真的、版本会忠实、救她的遗产——毒的目光告诉她失去了他的敬重",
+   "anchor": "the poison in his gaze",
+   "span": [
+    2643,
+    2665
+   ],
+   "hit": true,
+   "verbatim": "the poison in his gaze"
+  },
+  {
+   "fact": "他提「那女人有些有趣传闻——看见校园警察了吗」；「想想你信的是哪类人的判断」",
+   "anchor": "Think about the type of person whose judgment you’re trusting",
+   "span": [
+    3079,
+    3140
+   ],
+   "hit": true,
+   "verbatim": "Think about the type of person whose judgment you’re trusting"
+  },
+  {
+   "fact": "「我有 Emory 的 offer，我要走」——她先热后冷发抖；「你放弃了。对我。对一切」",
+   "anchor": "I have a job offer from Emory.",
+   "span": [
+    3275,
+    3305
+   ],
+   "hit": true,
+   "verbatim": "I have a job offer from Emory."
+  },
+  {
+   "fact": "他爆发：你全年放我鸽子、你跟她诈骗、「你们俩在角落里咯咯笑像什么？」",
+   "anchor": "committing fraud with her",
+   "span": [
+    3892,
+    3917
+   ],
+   "hit": true,
+   "verbatim": "committing fraud with her"
+  },
+  {
+   "fact": "她反击「在 Crescent 会男人」；及时刹住太迟；他啐「我不认识你了。等他们来查我就这么告诉他们。让开」；撞开她、前门不回头",
+   "anchor": "I don’t know you anymore.",
+   "span": [
+    4298,
+    4323
+   ],
+   "hit": true,
+   "verbatim": "I don’t know you anymore."
+  }
+ ]
+}

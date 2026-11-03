@@ -1,0 +1,109 @@
+{
+ "ch": 5,
+ "text_file": "ch05_chapter_v.txt",
+ "char_len": 6692,
+ "relations": "Celia；匿名学者（来信）；Beatrice Donahue（笔名 Tristram，婚前姓 Donahue，夫姓 Carver，亡夫 Edward Carver）；四位寡妇：Beatrice、Ida Larsson、Clara Franklin、Bertha (Bertie) Hall",
+ "numbers": "1886 年抵达，二十岁；Bertie 出行时已过五十、经营亡夫生意十五年余；行李一便士；St. Louis→Seligman→Eureka Springs",
+ "facts": [
+  {
+   "fact": "学者来信致谢《The Peacock Garden》早期草稿（更暴力、结局改得适合儿童），求《Dreams of the Rose》失传草稿线索——「也许 Ida 的那封信」",
+   "anchor": "I’m hoping to find a reference to the lost draft of Dreams of the Rose.",
+   "span": [
+    238,
+    309
+   ],
+   "hit": true,
+   "verbatim": "I’m hoping to find a reference to the lost draft of Dreams of the Rose."
+  },
+  {
+   "fact": "Celia 整理学者请求、记录修复笔记；档案馆藏有磁带与关于你的一切；Bryn Mawr 杂志有篇搞笑讽刺的仿作",
+   "anchor": "There was one in the literary journal from Bryn Mawr College",
+   "span": [
+    853,
+    913
+   ],
+   "hit": true,
+   "verbatim": "There was one in the literary journal from Bryn Mawr College"
+  },
+  {
+   "fact": "1886 年早春、二十岁寡妇抵达；欧扎克将披上新生",
+   "anchor": "A widow of just twenty, you arrived on an early spring day in 1886",
+   "span": [
+    1173,
+    1239
+   ],
+   "hit": true,
+   "verbatim": "A widow of just twenty, you arrived on an early spring day in 1886"
+  },
+  {
+   "fact": "弗吉尼亚亡夫之宅：必须轻声走路、以身体装点他的家；家具艺术变现为西行金河",
+   "anchor": "to ornament his home with your body",
+   "span": [
+    1534,
+    1569
+   ],
+   "hit": true,
+   "verbatim": "to ornament his home with your body"
+  },
+  {
+   "fact": "亡夫 Edward Carver 在 chicken amandine 里被骨头噎死；单身汉们觊觎遗产",
+   "anchor": "Edward Carver had choked to death on a bone in his chicken amandine",
+   "span": [
+    2590,
+    2657
+   ],
+   "hit": true,
+   "verbatim": "Edward Carver had choked to death on a bone in his chicken amandine"
+  },
+  {
+   "fact": "她一直为自己写，首次以娘家姓出版成 Tristram Donahue",
+   "anchor": "using your maiden name to become the literary favorite Tristram Donahue",
+   "span": [
+    2946,
+    3017
+   ],
+   "hit": true,
+   "verbatim": "using your maiden name to become the literary favorite Tristram Donahue"
+  },
+  {
+   "fact": "三位寡妇同伴：Ida Larsson、Clara Franklin、Bertha (Bertie) Hall——有钱、有远见、共谋逃亡",
+   "anchor": "Three other widows from your circles in Virginia, spitfires with money, vision",
+   "span": [
+    3375,
+    3453
+   ],
+   "hit": true,
+   "verbatim": "Three other widows from your circles in Virginia, spitfires with money, vision"
+  },
+  {
+   "fact": "Bertie 行前铺路：见律师、立契约、该贿赂谁就贿赂谁，买下乱石地",
+   "anchor": "bribed whoever had to be bribed",
+   "span": [
+    4566,
+    4597
+   ],
+   "hit": true,
+   "verbatim": "bribed whoever had to be bribed"
+  },
+  {
+   "fact": "Clara 的秘密：一位 Donahue 博士后查出并发表她的祖父是黑人",
+   "anchor": "Clara’s grandfather was a Black man",
+   "span": [
+    5338,
+    5373
+   ],
+   "hit": true,
+   "verbatim": "Clara’s grandfather was a Black man"
+  },
+  {
+   "fact": "命名：不为丈夫或父亲，为每个女人、不以任何人命名——Basin College",
+   "anchor": "for every woman, named for no one.",
+   "span": [
+    6507,
+    6541
+   ],
+   "hit": true,
+   "verbatim": "for every woman, named for no one."
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "ch": 52,
+ "text_file": "ch52_chapter_x.txt",
+ "char_len": 16223,
+ "relations": "Celia（叙述者）；Harriot；Jonathan（前章）；Terry Calahan（日记中的导师）；Edward Carver（1883 死者）",
+ "numbers": "日记 1/18/83、2/5/83、3/18/83、4/1/83；Carver 卒 1883；prussic acid",
+ "facts": [
+  {
+   "fact": "回程烧痛；脚已响进骨、绷带上红热；彼此只剩毒液",
+   "anchor": "All we had for each other was venom.",
+   "span": [
+    972,
+    1008
+   ],
+   "hit": true,
+   "verbatim": "All we had for each other was venom."
+  },
+  {
+   "fact": "Harriot 帮她洗脚（动作轻快带怨）；额上有撞车的痕；「你能？」的眼神",
+   "anchor": "her movements brisk and resentful",
+   "span": [
+    2069,
+    2102
+   ],
+   "hit": true,
+   "verbatim": "her movements brisk and resentful"
+  },
+  {
+   "fact": "她意识到对 Harriot 了解极少（匹兹堡/父亲医生/Tulane/无前景/拟声天赋）却困在一起",
+   "anchor": "I didn’t know her, and yet I was trapped with her",
+   "span": [
+    2952,
+    3001
+   ],
+   "hit": true,
+   "verbatim": "I didn’t know her, and yet I was trapped with her"
+  },
+  {
+   "fact": "「为什么没人知道你在？」她答「我父母知道、Greg 知道、我朋友 Ruth 也知道」——Celia 看出明摆着撒谎",
+   "anchor": "Because she was lying. Obviously lying.",
+   "span": [
+    3870,
+    3909
+   ],
+   "hit": true,
+   "verbatim": "Because she was lying. Obviously lying."
+  },
+  {
+   "fact": "她翻图书馆（Harriot 散页/伞/衣）；查出沙发后一本黑皮小日记（比祈祷书大不了多少）",
+   "anchor": "a soft, flexible spine",
+   "span": [
+    5854,
+    5876
+   ],
+   "hit": true,
+   "verbatim": "a soft, flexible spine"
+  },
+  {
+   "fact": "日记开头 1/18/83：「若我能救下她的什么，那个 Self……我要把自己钉在此处，一只玻璃罩下的蝶」",
+   "anchor": "a butterfly under glass",
+   "span": [
+    7753,
+    7776
+   ],
+   "hit": true,
+   "verbatim": "a butterfly under glass"
+  },
+  {
+   "fact": "2/5/83：Terry 让她在门外等；从不叫她以外的人煮咖啡；推荐信十一月到期；「你有一把刺耳的嗓子」",
+   "anchor": "That letter of recommendation was due IN NOVEMBER",
+   "span": [
+    9148,
+    9197
+   ],
+   "hit": true,
+   "verbatim": "That letter of recommendation was due IN NOVEMBER"
+  },
+  {
+   "fact": "3/18/83：女研究生靠秘书劳动付「存在」的特权；招待会上 Michael Peters 把空杯递给她像她端托盘",
+   "anchor": "purely through secretarial labor",
+   "span": [
+    10345,
+    10377
+   ],
+   "hit": true,
+   "verbatim": "purely through secretarial labor"
+  },
+  {
+   "fact": "4/1/83：化学实验室旧瓶柜（未锁）；深蓝瓶 prussic acid、绿瓶 arsenicum——「Edward Carver 偏爱杏仁」",
+   "anchor": "Edward Carver, Beatrice Donahue’s husband, was said to prefer almonds",
+   "span": [
+    12063,
+    12132
+   ],
+   "hit": true,
+   "verbatim": "Edward Carver, Beatrice Donahue’s husband, was said to prefer almonds"
+  },
+  {
+   "fact": "「还要几杯咖啡，Terry？」",
+   "anchor": "How many more cups of coffee, Terry?",
+   "span": [
+    12363,
+    12399
+   ],
+   "hit": true,
+   "verbatim": "How many more cups of coffee, Terry?"
+  },
+  {
+   "fact": "Harriot 白脸在楼梯：「那是私人的」；Celia 只登记警报；「Terry。Terence Calahan——你做了什么？」",
+   "anchor": "What have you done?",
+   "span": [
+    12760,
+    12779
+   ],
+   "hit": true,
+   "verbatim": "What have you done?"
+  },
+  {
+   "fact": "她抢回日记「你是小偷」；扬臂要打又停住；「别再问我，Cece。我要走了」",
+   "anchor": "“Don’t ask me any more, Cece,” she said. “I’m leaving.”",
+   "span": [
+    14033,
+    14088
+   ],
+   "hit": true,
+   "verbatim": "“Don’t ask me any more, Cece,” she said. “I’m leaving.”"
+  },
+  {
+   "fact": "她收拾：把草稿塞进包；Celia 抱膝、抓脸；她举起小手枪（你的、来自办公室保险柜）指她；开门走了",
+   "anchor": "it was pointing at me",
+   "span": [
+    15526,
+    15547
+   ],
+   "hit": true,
+   "verbatim": "it was pointing at me"
+  },
+  {
+   "fact": "她追出、膝垮跌下门廊；「你——bitch！」；Harriot 发在阳光下闪光、带着整个项目跑远",
+   "anchor": "leaving me behind",
+   "span": [
+    16204,
+    16221
+   ],
+   "hit": true,
+   "verbatim": "leaving me behind"
+  }
+ ]
+}

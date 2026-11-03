@@ -1,0 +1,99 @@
+{
+ "ch": 27,
+ "text_file": "ch27_chapter_xiii.txt",
+ "char_len": 5062,
+ "relations": "Joan（叙述者/宿醉）；Celia（办公室主人，照料者）；Ely Masterwick（誊本主角，虚构）",
+ "numbers": "卡带架（ABBA+自录，标签日期）；枪为古董",
+ "facts": [
+  {
+   "fact": "宿醉醒来在 Celia 办公室：沙发旁水与阿司匹林、脚头叠好的毛衣",
+   "anchor": "a glass of water and some aspirin",
+   "span": [
+    150,
+    183
+   ],
+   "hit": true,
+   "verbatim": "a glass of water and some aspirin"
+  },
+  {
+   "fact": "打量办公室：小窗、卡带架（ABBA 与自录、标签上鸟迹手写日期）",
+   "anchor": "dates scrawled on the labels in your birdlike handwriting",
+   "span": [
+    510,
+    567
+   ],
+   "hit": true,
+   "verbatim": "dates scrawled on the labels in your birdlike handwriting"
+  },
+  {
+   "fact": "桌上 binder（秋千上被抢走的那本）；她抓住它",
+   "anchor": "The one you’d snatched from me at the swing.",
+   "span": [
+    658,
+    702
+   ],
+   "hit": true,
+   "verbatim": "The one you’d snatched from me at the swing."
+  },
+  {
+   "fact": "誊本开场：「作为与资本家一样贫乏的诗人，我离开去了一片能替我做梦的土地……」",
+   "anchor": "a land that could dream for me",
+   "span": [
+    1045,
+    1075
+   ],
+   "hit": true,
+   "verbatim": "a land that could dream for me"
+  },
+  {
+   "fact": "Ely Masterwick 登场：宽眼的维多利亚探险者，离开圣路易斯来欧扎克",
+   "anchor": "Ely Masterwick",
+   "span": [
+    1317,
+    1331
+   ],
+   "hit": true,
+   "verbatim": "Ely Masterwick"
+  },
+  {
+   "fact": "小屋旁冰泉，溪中女尸",
+   "anchor": "In its stream, a corpse.",
+   "span": [
+    1638,
+    1662
+   ],
+   "hit": true,
+   "verbatim": "In its stream, a corpse."
+  },
+  {
+   "fact": "每个省略号像对她个人的挑衅；不是恐怖片式，但「disconcerting」",
+   "anchor": "Each ellipse in the fragmented transcription felt like a dare to me personally.",
+   "span": [
+    2564,
+    2643
+   ],
+   "hit": true,
+   "verbatim": "Each ellipse in the fragmented transcription felt like a dare to me personally."
+  },
+  {
+   "fact": "她的词在此作响如 Basin 的环境噪音；她不敢念出声怕召幻影",
+   "anchor": "for what phantoms they might summon",
+   "span": [
+    3106,
+    3141
+   ],
+   "hit": true,
+   "verbatim": "for what phantoms they might summon"
+  },
+  {
+   "fact": "紧张扫视中发现保险柜微开：厚内壁、小金库、一把细长古董手枪；你同她的目光合柜重拨",
+   "anchor": "a slender antique handgun",
+   "span": [
+    3579,
+    3604
+   ],
+   "hit": true,
+   "verbatim": "a slender antique handgun"
+  }
+ ]
+}

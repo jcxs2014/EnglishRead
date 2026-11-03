@@ -1,0 +1,89 @@
+{
+ "ch": 4,
+ "text_file": "ch04_chapter_iv.txt",
+ "char_len": 6499,
+ "relations": "Celia（Donahue 档案员）；Joan Harriot（新来的 Donahue 博士后，四年前的论敌）；Beth Green（Celia 推荐、未获名额的候选人）；Beatrice/Tristram（青铜像，已故）",
+ "numbers": "文章发表于四年前（父亲刚去世时）；驳文四个月后刊出；Harriot「至少三十岁」",
+ "facts": [
+  {
+   "fact": "青铜像里你跪在回廊花园、温柔看膝上的野猪，一手抚额、一手握刀",
+   "anchor": "One of your hands rested on its forehead. The other held a knife.",
+   "span": [
+    412,
+    477
+   ],
+   "hit": true,
+   "verbatim": "One of your hands rested on its forehead. The other held a knife."
+  },
+  {
+   "fact": "Celia 两次拦路（身体先于头脑做的选择），第三次后对方靠踵后仰、手插粗花呢口袋",
+   "anchor": "An academic’s dueling posture.",
+   "span": [
+    1432,
+    1462
+   ],
+   "hit": true,
+   "verbatim": "An academic’s dueling posture."
+  },
+  {
+   "fact": "对方自报 Joan Harriot、Donahue 博士后；Celia 今年推荐的是 Beth Green（SMU，研究维多利亚花语）",
+   "anchor": "I’m the Donahue postdoc.",
+   "span": [
+    1760,
+    1784
+   ],
+   "hit": true,
+   "verbatim": "I’m the Donahue postdoc."
+  },
+  {
+   "fact": "对方坚持叫她 Harriot（或 Harry）——「Joan 不在选项里」",
+   "anchor": "Joan was not on offer.",
+   "span": [
+    2580,
+    2602
+   ],
+   "hit": true,
+   "verbatim": "Joan was not on offer."
+  },
+  {
+   "fact": "回溯四年前：Harriot 在 SLR 刊文《The Castle of Love》，以《The Scarlet Chalice》为轴（瘟疫庄园、女仆与女主人饮毒、焚屋、相拥而死）",
+   "anchor": "The Castle of Love: The Unknowable Tristram Donahue",
+   "span": [
+    2892,
+    2943
+   ],
+   "hit": true,
+   "verbatim": "The Castle of Love: The Unknowable Tristram Donahue"
+  },
+  {
+   "fact": "该文结论把女主人对女仆的回应写成「主人对猎犬的仁慈」",
+   "anchor": "the gentle-handed benevolence of a master to a hunting dog",
+   "span": [
+    3820,
+    3878
+   ],
+   "hit": true,
+   "verbatim": "the gentle-handed benevolence of a master to a hunting dog"
+  },
+  {
+   "fact": "Celia 醉写驳文、四个月后刊出；Harriot 未公开回应，只寄到档案馆一页两词：Sentimental drivel. JH.",
+   "anchor": "Sentimental drivel. JH.",
+   "span": [
+    5143,
+    5166
+   ],
+   "hit": true,
+   "verbatim": "Sentimental drivel. JH."
+  },
+  {
+   "fact": "Celia 嘴滑叫出「Tris」（至亲在信与私下用的名字），Harriot 只扬眉、借故离开",
+   "anchor": "I’d already called you by a pet name. Not Beatrice Donahue. Tris.",
+   "span": [
+    5785,
+    5850
+   ],
+   "hit": true,
+   "verbatim": "I’d already called you by a pet name. Not Beatrice Donahue. Tris."
+  }
+ ]
+}

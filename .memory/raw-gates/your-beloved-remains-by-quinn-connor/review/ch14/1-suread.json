@@ -1,0 +1,79 @@
+{
+ "ch": 14,
+ "text_file": "ch14_chapter_xiv.txt",
+ "char_len": 3850,
+ "relations": "Celia；Beatrice（卡带听众）；Danvers（讥笑来源）；女家庭教师（童年体罚者，转述）",
+ "numbers": "「十多年来第一次读到你的新文字」；八小时倒计时（前章）",
+ "facts": [
+  {
+   "fact": "深夜回档案馆：满屋紫罗兰香如你刚扫过；只在无窗地下室开灯",
+   "anchor": "the air smelled of violets",
+   "span": [
+    585,
+    611
+   ],
+   "hit": true,
+   "verbatim": "the air smelled of violets"
+  },
+  {
+   "fact": "酸性光下见你行笔笔直——归功于女家庭教师用松木条打指节直到血混湿墨",
+   "anchor": "slapped your knuckles with a strip of pine",
+   "span": [
+    984,
+    1026
+   ],
+   "hit": true,
+   "verbatim": "slapped your knuckles with a strip of pine"
+  },
+  {
+   "fact": "撬起第一页斜光辨出短语：十多年来第一次读到你的新文字",
+   "anchor": "for the first time in more than ten years, I read something new of yours",
+   "span": [
+    1386,
+    1458
+   ],
+   "hit": true,
+   "verbatim": "for the first time in more than ten years, I read something new of yours"
+  },
+  {
+   "fact": "砰声使她缩手，页面下半裂碎；那句话永失；声源是管道（她早先开水惊扰老屋）",
+   "anchor": "the bottom half of the page cracked and flaked off in chunks",
+   "span": [
+    1698,
+    1758
+   ],
+   "hit": true,
+   "verbatim": "the bottom half of the page cracked and flaked off in chunks"
+  },
+  {
+   "fact": "恐惧钙化成决心，一个阴险念头扎根：对真理守护者是最糟的背叛；可怪伤/怒/讥笑——或鲁莽一直在她体内",
+   "anchor": "the beginning of an insidious idea took hold",
+   "span": [
+    2997,
+    3041
+   ],
+   "hit": true,
+   "verbatim": "the beginning of an insidious idea took hold"
+  },
+  {
+   "fact": "她自认：我不信鬼，但我信你——信你唯一尚存形态：作品之躯",
+   "anchor": "your beloved body of work",
+   "span": [
+    3458,
+    3483
+   ],
+   "hit": true,
+   "verbatim": "your beloved body of work"
+  },
+  {
+   "fact": "宣言：找到全部、重建整体；复活失传之作——即使必须亲自填补空缺",
+   "anchor": "Even if I had to fill in the gaps myself.",
+   "span": [
+    3808,
+    3849
+   ],
+   "hit": true,
+   "verbatim": "Even if I had to fill in the gaps myself."
+  }
+ ]
+}

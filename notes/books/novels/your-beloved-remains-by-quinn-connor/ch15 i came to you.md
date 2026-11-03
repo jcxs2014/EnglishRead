@@ -36,7 +36,7 @@ modified: "2026-11-03"
 
 > **原句 3:** "When Ruth was hooded as Dr. Gibbs the next May, her son in the audience, there were no job offers, no fellowships for her. He capped her, and she was snuffed like feu follet flickering out in the bayou, never to be seen again."
 
-**中文理解**：次年五月，Ruth 戴上学士帽成为 Gibbs 博士——儿子坐在观众席——却没有任何工作邀约，没有任何奖学金。他为她戴帽，而她像河口鬼火般被掐灭，再没人见过。
+**中文理解**：次年五月，Ruth 戴上博士兜帽成为 Gibbs 博士——儿子坐在观众席——却没有任何工作邀约，没有任何奖学金。他为她戴帽，而她像河口鬼火般被掐灭，再没人见过。
 
 **关键词**：her son in the audience / no job offers, no fellowships / capped her / feu follet
 

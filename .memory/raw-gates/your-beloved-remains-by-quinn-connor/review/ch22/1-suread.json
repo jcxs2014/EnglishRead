@@ -1,0 +1,89 @@
+{
+ "ch": 22,
+ "text_file": "ch22_chapter_viii.txt",
+ "char_len": 4789,
+ "relations": "Joan；Ruth Lachoff（原 Gibbs，同门，被导师毁）；Calahan（导师，已死）；Danvers 系？；Celia（不在场）",
+ "numbers": "Clara Cottage 四位室友；每周十五封（前章）",
+ "facts": [
+  {
+   "fact": "Clara Cottage 公用电话响；初来她从不接，只偶尔打给匹兹堡父母；隔楼板铃响都惊跳",
+   "anchor": "never answered it",
+   "span": [
+    118,
+    135
+   ],
+   "hit": true,
+   "verbatim": "never answered it"
+  },
+  {
+   "fact": "来电 Ruth Lachoff——从了夫姓；因「读学位期间怀孕」被导师判入湮没",
+   "anchor": "the audacity of becoming pregnant while dissertating",
+   "span": [
+    1308,
+    1360
+   ],
+   "hit": true,
+   "verbatim": "the audacity of becoming pregnant while dissertating"
+  },
+  {
+   "fact": "上次见面在 Winn-Dixie，她约午餐、连珠炮问项目/文章/计划；Joan 出于可怜分享申请清单",
+   "anchor": "I’d shared my application list",
+   "span": [
+    2209,
+    2239
+   ],
+   "hit": true,
+   "verbatim": "I’d shared my application list"
+  },
+  {
+   "fact": "Ruth 提追悼会（就在周末）你没去；她称「他是个独特的人」",
+   "anchor": "you weren’t at the memorial service",
+   "span": [
+    2419,
+    2454
+   ],
+   "hit": true,
+   "verbatim": "you weren’t at the memorial service"
+  },
+  {
+   "fact": "她捕捉到谨慎暗流：「有些人在问你人在哪」；「他弟弟和教务长来清空了他的办公室」",
+   "anchor": "His brother and the dean came and cleared out his office",
+   "span": [
+    3739,
+    3795
+   ],
+   "hit": true,
+   "verbatim": "His brother and the dean came and cleared out his office"
+  },
+  {
+   "fact": "Joan 眼都没眨、冰冷的平静稳住发抖的手指：他们在那儿找不到任何东西",
+   "anchor": "They wouldn’t find a thing in there.",
+   "span": [
+    3866,
+    3902
+   ],
+   "hit": true,
+   "verbatim": "They wouldn’t find a thing in there."
+  },
+  {
+   "fact": "Ruth 庇护式叮嘱：我没告诉任何人你在哪；你不需要被拖回那些事；最好留在原地",
+   "anchor": "I didn’t tell anyone where you were",
+   "span": [
+    4080,
+    4115
+   ],
+   "hit": true,
+   "verbatim": "I didn’t tell anyone where you were"
+  },
+  {
+   "fact": "她顺水推舟「不会回新奥尔良」；线路先挂，她对着拨号音说了句惊呆的告别",
+   "anchor": "I don’t think I’ll be back to New Orleans for a while.",
+   "span": [
+    4321,
+    4375
+   ],
+   "hit": true,
+   "verbatim": "I don’t think I’ll be back to New Orleans for a while."
+  }
+ ]
+}

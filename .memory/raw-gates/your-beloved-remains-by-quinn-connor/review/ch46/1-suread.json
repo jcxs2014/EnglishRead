@@ -1,0 +1,129 @@
+{
+ "ch": 46,
+ "text_file": "ch46_chapter_iv.txt",
+ "char_len": 10400,
+ "relations": "Celia（叙述者）；Harriot；Beatrice（礼服/毒色）；Danvers（远方）",
+ "numbers": "Scheele 绿=铜砷酸盐；礼服为十九世纪；本章 1,895 词",
+ "facts": [
+  {
+   "fact": "Harriot 开收音机 scritch 写作（笔声像墙后老鼠）：两个项目（The Rose + 小皮本）",
+   "anchor": "the sound of her pen like a rat behind the wall",
+   "span": [
+    79,
+    126
+   ],
+   "hit": true,
+   "verbatim": "the sound of her pen like a rat behind the wall"
+  },
+  {
+   "fact": "她煮炉顶咖啡、把 Harriot 的工作誊上你的旧羊皮纸；她仍惊跳（每声吱嘎）",
+   "anchor": "carefully transcribed Harriot’s work",
+   "span": [
+    292,
+    328
+   ],
+   "hit": true,
+   "verbatim": "carefully transcribed Harriot’s work"
+  },
+  {
+   "fact": "脚恶化：痂边肿、辐射热；「没有东西能在这些尸体之屋愈合」",
+   "anchor": "Nothing could heal in this house of corpses.",
+   "span": [
+    1174,
+    1218
+   ],
+   "hit": true,
+   "verbatim": "Nothing could heal in this house of corpses."
+  },
+  {
+   "fact": "脱稿：她「Unwelcome」写进誊本（你笔迹的完美仿）；「那对吗？该是什么？」",
+   "anchor": "a perfect imitation of your handwriting",
+   "span": [
+    1651,
+    1690
+   ],
+   "hit": true,
+   "verbatim": "a perfect imitation of your handwriting"
+  },
+  {
+   "fact": "翻酒吧尘角得两瓶劣酒（醋与琥珀麝香）；不想醉、只想浮在自身之上",
+   "anchor": "It tasted of vinegar and amber musk",
+   "span": [
+    2797,
+    2832
+   ],
+   "hit": true,
+   "verbatim": "It tasted of vinegar and amber musk"
+  },
+  {
+   "fact": "开软储：帽盒/手套抽屉/小尺码皮靴/霉烂渡鸦（玻璃眼控诉）——一切仔细编号",
+   "anchor": "accession numbers facing out",
+   "span": [
+    3922,
+    3950
+   ],
+   "hit": true,
+   "verbatim": "accession numbers facing out"
+  },
+  {
+   "fact": "礼服：维多利亚亮绿、蕾丝胸衣/珍珠扣/绿上叠绿印；毒性 Scheele 绿（铜砷酸盐）、存世极稀；她保管多年",
+   "anchor": "Scheele’s green, or copper arsenite",
+   "span": [
+    4634,
+    4669
+   ],
+   "hit": true,
+   "verbatim": "Scheele’s green, or copper arsenite"
+  },
+  {
+   "fact": "她脱光、向空气要你而未得；把裙从头顶套下（线缝撕裂、珍珠扣崩）",
+   "anchor": "I didn’t have all the pieces",
+   "span": [
+    5711,
+    5739
+   ],
+   "hit": true,
+   "verbatim": "I didn’t have all the pieces"
+  },
+  {
+   "fact": "镜前把发按后、只看得见裙里一具身体——「敢穿你的衣、住在你的像里」",
+   "anchor": "My own transgression thrilled me.",
+   "span": [
+    6850,
+    6883
+   ],
+   "hit": true,
+   "verbatim": "My own transgression thrilled me."
+  },
+  {
+   "fact": "Harriot 上楼撞见（旧书在手/指埋页中）；「这 certainly 比我在读的有趣」",
+   "anchor": "more interesting than what I was reading",
+   "span": [
+    8064,
+    8104
+   ],
+   "hit": true,
+   "verbatim": "more interesting than what I was reading"
+  },
+  {
+   "fact": "她反问「那你为什么那样盯着我」；解扣示意里面什么都没穿；Harriot「这是——」她点头",
+   "anchor": "Then why are you staring at me like that?",
+   "span": [
+    8906,
+    8947
+   ],
+   "hit": true,
+   "verbatim": "Then why are you staring at me like that?"
+  },
+  {
+   "fact": "Harriot 撕下裙（旧缝轻易让、蕾丝碎）；「新生般赤裸，我不再是塞壬」",
+   "anchor": "I was no siren, only myself again.",
+   "span": [
+    10365,
+    10399
+   ],
+   "hit": true,
+   "verbatim": "I was no siren, only myself again."
+  }
+ ]
+}

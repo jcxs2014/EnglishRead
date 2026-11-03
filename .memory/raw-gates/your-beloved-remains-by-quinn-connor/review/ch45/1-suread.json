@@ -1,0 +1,119 @@
+{
+ "ch": 45,
+ "text_file": "ch45_chapter_iii.txt",
+ "char_len": 5829,
+ "relations": "Joan（叙述者）；Celia（被追者/守门人）；Beatrice（青铜像/谶语）；野猪",
+ "numbers": "净稿近成；「也许一个多小时被遗忘」",
+ "facts": [
+  {
+   "fact": "和平献礼：她清页重写、整合 Celia 誊本里的碎片——滑入严丝合缝；「无疑是我最佳之作」，且近完成",
+   "anchor": "without a doubt, it was my best work",
+   "span": [
+    246,
+    282
+   ],
+   "hit": true,
+   "verbatim": "without a doubt, it was my best work"
+  },
+  {
+   "fact": "「她推进了」——她写道；无法否认那超越自身 agency 的确定：某种力",
+   "anchor": "a force beyond my own agency",
+   "span": [
+    564,
+    592
+   ],
+   "hit": true,
+   "verbatim": "a force beyond my own agency"
+  },
+  {
+   "fact": "若早信闹鬼，人生会做很不同决定——「但现在呢？」",
+   "anchor": "if I had believed in hauntings before",
+   "span": [
+    609,
+    646
+   ],
+   "hit": true,
+   "verbatim": "if I had believed in hauntings before"
+  },
+  {
+   "fact": "她把干净副本放你桌上出门；雪停的校园、建筑转红；叠雪踩出脆冰壳",
+   "anchor": "I put the clean copy on your desk",
+   "span": [
+    2138,
+    2171
+   ],
+   "hit": true,
+   "verbatim": "I put the clean copy on your desk"
+  },
+  {
+   "fact": "回廊：Beatrice 跪在数英寸雪中；「谁是手套，谁是谁的手？」",
+   "anchor": "Who is the glove, and who is the hand?",
+   "span": [
+    2777,
+    2815
+   ],
+   "hit": true,
+   "verbatim": "Who is the glove, and who is the hand?"
+  },
+  {
+   "fact": "她渴望独处；青铜目光似许诺会再随意用她——她侵入了她、她不是她自己",
+   "anchor": "I wasn’t alone, that I wasn’t myself",
+   "span": [
+    3010,
+    3046
+   ],
+   "hit": true,
+   "verbatim": "I wasn’t alone, that I wasn’t myself"
+  },
+  {
+   "fact": "巨肺的空旷呼气；沉重的身躯挡住拱外的冬日白亮；獠牙/流涎的颚/兽味",
+   "anchor": "a hollow exhale, from massive lungs",
+   "span": [
+    3123,
+    3158
+   ],
+   "hit": true,
+   "verbatim": "a hollow exhale, from massive lungs"
+  },
+  {
+   "fact": "逃：撞图书馆橡门（锁）、沿墙滑、教堂八角、石像鬼狞笑；兽撞门廊、石成粉、小柱碎段飞散",
+   "anchor": "an ear-splitting crash",
+   "span": [
+    4178,
+    4200
+   ],
+   "hit": true,
+   "verbatim": "an ear-splitting crash"
+  },
+  {
+   "fact": "她扑开档案馆门挤入反手摔门；全力抵门——等建筑震动，没有来；静；滑坐门边哭",
+   "anchor": "but it never came",
+   "span": [
+    4690,
+    4707
+   ],
+   "hit": true,
+   "verbatim": "but it never came"
+  },
+  {
+   "fact": "Celia 从办公室出、惊停、跛跪；她抓腕「别出去」；她坐她旁把她头拢进颈窝（茶与纸味）",
+   "anchor": "“Don’t go out there.”",
+   "span": [
+    5188,
+    5209
+   ],
+   "hit": true,
+   "verbatim": "“Don’t go out there.”"
+  },
+  {
+   "fact": "Celia 出门看很久「我什么都没看见」；「它在那儿。我没发明它」；「现在没了」",
+   "anchor": "It was there.",
+   "span": [
+    5674,
+    5687
+   ],
+   "hit": true,
+   "verbatim": "It was there."
+  }
+ ]
+}

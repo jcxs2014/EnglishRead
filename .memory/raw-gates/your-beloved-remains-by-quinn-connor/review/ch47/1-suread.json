@@ -1,0 +1,99 @@
+{
+ "ch": 47,
+ "text_file": "ch47_chapter_v.txt",
+ "char_len": 2331,
+ "relations": "Celia（叙述者/草稿）；Beatrice；Roland（病者）；Ida/Clara（救护/作画）；laudanum/水蛭",
+ "numbers": "一周后咳带粘液；Ida 手喂数小时；水蛭定期送来",
+ "facts": [
+  {
+   "fact": "病如裂窗寒风潜入（你在他怀中）；清晨卷进 Roland 的肺成纸样咳；他起初在你照料下如猫弓身",
+   "anchor": "a chill night wind through a cracked window",
+   "span": [
+    40,
+    83
+   ],
+   "hit": true,
+   "verbatim": "a chill night wind through a cracked window"
+  },
+  {
+   "fact": "一周后咳声带粘液；然后血来了",
+   "anchor": "the cough rattled with mucus",
+   "span": [
+    379,
+    407
+   ],
+   "hit": true,
+   "verbatim": "the cough rattled with mucus"
+  },
+  {
+   "fact": "你不眠自助；请医；马车几乎翻覆送他下 Hogscald 冷泉浴；你的 hysterics 增、停食——Ida 搬来手喂抱摇",
+   "anchor": "You tended your lover yourself without sleeping.",
+   "span": [
+    448,
+    496
+   ],
+   "hit": true,
+   "verbatim": "You tended your lover yourself without sleeping."
+  },
+  {
+   "fact": "你向她坦白不能失去他、不会活过他；她保证你不必",
+   "anchor": "you would not survive him",
+   "span": [
+    924,
+    949
+   ],
+   "hit": true,
+   "verbatim": "you would not survive him"
+  },
+  {
+   "fact": "Roland 从未健康，病发总像世界末日——但这次不同，你在骨头里知道",
+   "anchor": "But this was different.",
+   "span": [
+    1088,
+    1111
+   ],
+   "hit": true,
+   "verbatim": "But this was different."
+  },
+  {
+   "fact": "Clara 邀你剪迷宫树篱（他会想知道它长成什么样）——你不离床畔；她来床畔画他（天使光）",
+   "anchor": "Let’s go trim the hedges of the labyrinth",
+   "span": [
+    1473,
+    1514
+   ],
+   "hit": true,
+   "verbatim": "Let’s go trim the hedges of the labyrinth"
+  },
+  {
+   "fact": "也许你确实知道：故事只有一种结局",
+   "anchor": "There was only one way the story could end.",
+   "span": [
+    1715,
+    1758
+   ],
+   "hit": true,
+   "verbatim": "There was only one way the story could end."
+  },
+  {
+   "fact": "Roland 服 laudanum；醒时笑、眼亮如石榴的宝石之心；对水蛭柔语「吃吧，darlings」",
+   "anchor": "the jeweled heart of a pomegranate",
+   "span": [
+    1849,
+    1883
+   ],
+   "hit": true,
+   "verbatim": "the jeweled heart of a pomegranate"
+  },
+  {
+   "fact": "他带爱保证很快就好；烧总会退——但你甩不掉每夜攥紧的恐惧",
+   "anchor": "the fear that gripped you with every passing night",
+   "span": [
+    2279,
+    2329
+   ],
+   "hit": true,
+   "verbatim": "the fear that gripped you with every passing night"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "ch": 34,
+ "text_file": "ch34_chapter_vi.txt",
+ "char_len": 4338,
+ "relations": "Celia（叙述者）；Harriot；Jonathan（去年感恩节）",
+ "numbers": "寒假六周（后方章）；感恩节一周后",
+ "facts": [
+  {
+   "fact": "感恩节前：山呼寒气、霜滑、学生滴漏般回家",
+   "anchor": "The mountain breathed chill down on the campus.",
+   "span": [
+    192,
+    239
+   ],
+   "hit": true,
+   "verbatim": "The mountain breathed chill down on the campus."
+  },
+  {
+   "fact": "Harriot 零前奏：「你真能当 bitch」；她本想端冷漠、列草稿要改处",
+   "anchor": "You can be a real bitch",
+   "span": [
+    867,
+    890
+   ],
+   "hit": true,
+   "verbatim": "You can be a real bitch"
+  },
+  {
+   "fact": "她道歉「我苛刻了」；三个更好的形容词堵在牙后；「你知道你好，不需要我说」",
+   "anchor": "other, better adjectives crammed up against the back of my teeth",
+   "span": [
+    1394,
+    1458
+   ],
+   "hit": true,
+   "verbatim": "other, better adjectives crammed up against the back of my teeth"
+  },
+  {
+   "fact": "Harriot 快速捏肩：「你的文献工作绝对 essential——我在用你的积木盖，Cece。但我知道我在干什么」",
+   "anchor": "I’m building with your blocks, Cece.",
+   "span": [
+    1787,
+    1823
+   ],
+   "hit": true,
+   "verbatim": "I’m building with your blocks, Cece."
+  },
+  {
+   "fact": "被碰处是暖的、像会留痕；「对不起。我过激了」；她消化几拍后呼笑",
+   "anchor": "I was warm where she’d touched me",
+   "span": [
+    1879,
+    1912
+   ],
+   "hit": true,
+   "verbatim": "I was warm where she’d touched me"
+  },
+  {
+   "fact": "「可能想她了——这说明我什么？知道这种感觉后孤独更难熬」",
+   "anchor": "It was harder to be lonely now that I knew this feeling.",
+   "span": [
+    2410,
+    2466
+   ],
+   "hit": true,
+   "verbatim": "It was harder to be lonely now that I knew this feeling."
+  },
+  {
+   "fact": "地图解读：下面很陡、高墙、中间有路；也许是洞穴；学生只去熟悉处喝（有过失踪）",
+   "anchor": "There have been a few disappearances",
+   "span": [
+    3061,
+    3097
+   ],
+   "hit": true,
+   "verbatim": "There have been a few disappearances"
+  },
+  {
+   "fact": "她承认「有意思、甚至相关」；怕途中安全；「我懂这些山；假期去、人都走光时」",
+   "anchor": "So. Let’s take a walk in the woods.",
+   "span": [
+    4301,
+    4336
+   ],
+   "hit": true,
+   "verbatim": "So. Let’s take a walk in the woods."
+  }
+ ]
+}

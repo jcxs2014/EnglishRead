@@ -22,7 +22,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：空间分级用建筑损伤来标——公区的完好与私区的剥落画出准线；「视线被截断」既是导览设计也是心理设计：博物馆止步的地方，家才开始。四个短句的最后三个词（This was private）是全章的门槛。
 
-**读者视角提示**：joan 一直把这里读作「档案馆」，Celia 一直住的是「家」。这条楼梯的分级线，也是两人争了一整幕的所有权线——上楼即跨界。
+**读者视角提示**：Joan 一直把这里读作「档案馆」，Celia 一直住的是「家」。这条楼梯的分级线，也是两人争了一整幕的所有权线——上楼即跨界。
 
 > **原句 2:** "He went into the maze one night and never came out. Beatrice found him in the morning." I could imagine a wild wailing, like wind, echoing over the mountains. "She swallowed fistfuls of hemlock to go with him."
 
@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：死讯三连拍——失踪、寻获、殉情，每拍一句；Joan 补入的想象（风一样的恸哭）替沉默的档案配音，而「整把整把」这个量词把殉情写成意志的总攻：她不是失手吞毒，是执意赴死。
 
-**读者视角提示**：hemlock 正是毒药花园的产品——她用自己种的东西给自己送行，也在用身体实践「与爱人同眠」的誓言。朋友们救回来的，是一具求死成功的意志——这解释了后文一切。
+**读者视角提示**：铁杉正是毒药花园的产品——她用自己种的东西给自己送行，也在用身体实践「与爱人同眠」的誓言。朋友们救回来的，是一具求死成功的意志——这解释了后文一切。
 
 > **原句 3:** ""For seventeen years, she kept his corpse here," you said. "Preserved him as best she could herself. Surrounded him with hay. His organs had to be removed." You nodded to the floor beneath us. "She kept them in pickling jars under the bed, right under his body. Like the pharaohs. Egypt was all the rage at the time.""
 

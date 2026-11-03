@@ -1,0 +1,129 @@
+{
+ "ch": 36,
+ "text_file": "ch36_chapter_viii.txt",
+ "char_len": 12074,
+ "relations": "Celia（叙述者）；Harriot；Jonathan（撞破者）；Beatrice（笔迹对象）",
+ "numbers": "伤为三个月前（玻璃罐）；二十页（前章）",
+ "facts": [
+  {
+   "fact": "浴室拆绷带：玻璃留深椭圆凹痕、愈合皮亮粉；今天到极限、中心泛湿、痛达脚背",
+   "anchor": "The glass shard had left a deep, ovular pucker",
+   "span": [
+    215,
+    261
+   ],
+   "hit": true,
+   "verbatim": "The glass shard had left a deep, ovular pucker"
+  },
+  {
+   "fact": "Harriot 敲门「酒柜在哪」；她以为她走了、她没走的念头让她暖",
+   "anchor": "Where’s the liquor cabinet?",
+   "span": [
+    696,
+    723
+   ],
+   "hit": true,
+   "verbatim": "Where’s the liquor cabinet?"
+  },
+  {
+   "fact": "Harriot 找到她写的页与我批注：「这脚伤多久了？不止一个月吧」「去看医生」",
+   "anchor": "It’s got to be more than a month now.",
+   "span": [
+    1728,
+    1765
+   ],
+   "hit": true,
+   "verbatim": "It’s got to be more than a month now."
+  },
+  {
+   "fact": "她坚持 Ely 不是在逃、有希望的人生观；Harriot 这回没争",
+   "anchor": "I just really don’t think Ely is running from something",
+   "span": [
+    2154,
+    2209
+   ],
+   "hit": true,
+   "verbatim": "I just really don’t think Ely is running from something"
+  },
+  {
+   "fact": "玩笑：「你需要个爱好。或者上床」「你心里有人选？」——她定住她的目光、呼吸卡喉、爆笑救场",
+   "anchor": "Or to go to bed with someone.",
+   "span": [
+    2906,
+    2935
+   ],
+   "hit": true,
+   "verbatim": "Or to go to bed with someone."
+  },
+  {
+   "fact": "她承认稿「做得好——第一次该说的」",
+   "anchor": "“It’s well done,” I confessed",
+   "span": [
+    3339,
+    3368
+   ],
+   "hit": true,
+   "verbatim": "“It’s well done,” I confessed"
+  },
+  {
+   "fact": "她译到：Ely 把 Body 从泉拉出、她吃红雀蛋、泉边小仪式娶她；「可她还是死的、暖天将至」",
+   "anchor": "She’s a dead body, and warm weather is coming.",
+   "span": [
+    3914,
+    3960
+   ],
+   "hit": true,
+   "verbatim": "She’s a dead body, and warm weather is coming."
+  },
+  {
+   "fact": "地下室取空白羊皮纸与旧墨（你自己的存货）；「宁可不放走你的一片纸」",
+   "anchor": "Not even your supply of blank parchment.",
+   "span": [
+    5564,
+    5604
+   ],
+   "hit": true,
+   "verbatim": "Not even your supply of blank parchment."
+  },
+  {
+   "fact": "她懂你的手：书法的华尔兹（正式信）、潦草字的狐步（亲密信与一二三稿）",
+   "anchor": "the waltz of your calligraphy",
+   "span": [
+    6038,
+    6067
+   ],
+   "hit": true,
+   "verbatim": "the waltz of your calligraphy"
+  },
+  {
+   "fact": "写下居中的《Dreams of the Rose》——「那本可以是你的」、狂喜、见你含笑批准",
+   "anchor": "Dreams of the Rose, I wrote",
+   "span": [
+    6322,
+    6349
+   ],
+   "hit": true,
+   "verbatim": "Dreams of the Rose, I wrote"
+  },
+  {
+   "fact": "行业格言：伪造是每件真品投下的影子；档案员是收藏家与骗子间的最后防线",
+   "anchor": "forgery was the shadow cast by every authentic piece of history",
+   "span": [
+    10808,
+    10871
+   ],
+   "hit": true,
+   "verbatim": "forgery was the shadow cast by every authentic piece of history"
+  },
+  {
+   "fact": "Jonathan 撞破（感恩节归来、带派）；认出湿墨与「你的手」；「闭嘴」；撞开她上楼、前门砰然关上",
+   "anchor": "“Shut up.” He was utterly cold",
+   "span": [
+    11515,
+    11545
+   ],
+   "hit": true,
+   "verbatim": "“Shut up.” He was utterly cold"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "ch": 51,
+ "text_file": "ch51_chapter_ix.txt",
+ "char_len": 2844,
+ "relations": "Celia（叙述者/草稿）；Beatrice；Roland；Ida/Clara/Bertie",
+ "numbers": "谵妄数日；十七年（承前）；「两个月内下葬」（Bertie）",
+ "facts": [
+  {
+   "fact": "Roland 不见好：烧成谵妄、对墙里的鬼喃喃、唤母亲、认不出你",
+   "anchor": "His fevers turned into a delirium.",
+   "span": [
+    69,
+    103
+   ],
+   "hit": true,
+   "verbatim": "His fevers turned into a delirium."
+  },
+  {
+   "fact": "Ida/Clara 抱你哭；Bertie 悄悄打听后事——你几乎扇她耳光、被拉住：友谊第一道裂",
+   "anchor": "the first crack in your friendship",
+   "span": [
+    416,
+    450
+   ],
+   "hit": true,
+   "verbatim": "the first crack in your friendship"
+  },
+  {
+   "fact": "烧退：某晨他醒来抚发问你为什么哭；你想吞下他的一部分（发/指甲/皮肤）留住他",
+   "anchor": "You wanted to consume some part of him",
+   "span": [
+    598,
+    636
+   ],
+   "hit": true,
+   "verbatim": "You wanted to consume some part of him"
+  },
+  {
+   "fact": "可爱的一天：帮他沐浴、发缠指、恐惧低语进脉搏；那夜感激深睡",
+   "anchor": "exorcising them",
+   "span": [
+    833,
+    848
+   ],
+   "hit": true,
+   "verbatim": "exorcising them"
+  },
+  {
+   "fact": "午夜后他醒来：走过窗、走廊（经 Ida/Clara 的备用卧室）、下楼、进入寒冷的山夜",
+   "anchor": "past the spare bedroom where Ida and Clara slept",
+   "span": [
+    1099,
+    1147
+   ],
+   "hit": true,
+   "verbatim": "past the spare bedroom where Ida and Clara slept"
+  },
+  {
+   "fact": "你余生都在想：他想念迷宫？在毒园找什么？还是口渴找山泉",
+   "anchor": "You’d wonder for the rest of your life.",
+   "span": [
+    1367,
+    1406
+   ],
+   "hit": true,
+   "verbatim": "You’d wonder for the rest of your life."
+  },
+  {
+   "fact": "早晨空床；穿他的丝袍、在为他建的房子里唤他；遣人查校园/花园/秋千/小湖；自己走进迷宫",
+   "anchor": "the house you’d built for him",
+   "span": [
+    1504,
+    1533
+   ],
+   "hit": true,
+   "verbatim": "the house you’d built for him"
+  },
+  {
+   "fact": "Roland 蜷在乌头与三叶草间、已冻僵；查呼吸、摸不跳的心；他的眼找不到你的",
+   "anchor": "Roland lay curled in a patch of hemlock and clover.",
+   "span": [
+    2018,
+    2069
+   ],
+   "hit": true,
+   "verbatim": "Roland lay curled in a patch of hemlock and clover."
+  },
+  {
+   "fact": "尖叫引来帮手：你整把吞乌头被拖开；Ida 逼喝醋催吐；Clara 坐尸旁哭；Bertie 下令移走并烧园",
+   "anchor": "Bertie ordered him removed and the garden burned",
+   "span": [
+    2667,
+    2715
+   ],
+   "hit": true,
+   "verbatim": "Bertie ordered him removed and the garden burned"
+  },
+  {
+   "fact": "「如移骨，你内里某样根本的东西移位了」——你再不会是原来的你",
+   "anchor": "You would never be the same.",
+   "span": [
+    2815,
+    2843
+   ],
+   "hit": true,
+   "verbatim": "You would never be the same."
+  }
+ ]
+}

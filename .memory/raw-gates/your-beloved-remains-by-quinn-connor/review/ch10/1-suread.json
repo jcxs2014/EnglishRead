@@ -1,0 +1,89 @@
+{
+ "ch": 10,
+ "text_file": "ch10_chapter_x.txt",
+ "char_len": 3632,
+ "relations": "Celia；Roland Loiseau（Beatrice 的爱人，鬼魂）；Beatrice（已故，卡的听众）；Ida（誓言转述者）",
+ "numbers": "纸页保持贝壳形「一个世纪」；浴室木雕四景（那喀索斯）",
+ "facts": [
+  {
+   "fact": "抱湿纸团从鹿径跛回档案馆（你的家），倒进罩篷浴缸；老管出褐水",
+   "anchor": "I stumbled up the stairs and spilled myself into your hooded bathtub.",
+   "span": [
+    369,
+    438
+   ],
+   "hit": true,
+   "verbatim": "I stumbled up the stairs and spilled myself into your hooded bathtub."
+  },
+  {
+   "fact": "冷水冲洗福尔马林：阴冷潮湿里长着致命未知之物",
+   "anchor": "deadly, unknown things grew in the cold and damp",
+   "span": [
+    843,
+    891
+   ],
+   "hit": true,
+   "verbatim": "deadly, unknown things grew in the cold and damp"
+  },
+  {
+   "fact": "热水龙头自己飞转、水压翻倍；暖息拂颈——「不常见你在这里，宝贝儿」",
+   "anchor": "I’m not used to seeing you in here, precious",
+   "span": [
+    1468,
+    1512
+   ],
+   "hit": true,
+   "verbatim": "I’m not used to seeing you in here, precious"
+  },
+  {
+   "fact": "龙头光泽里高瘦人影、手绘和服宽袖；他叹「这是我们在我们房子里最喜欢的地方」",
+   "anchor": "This is my favorite place in our house.",
+   "span": [
+    1778,
+    1817
+   ],
+   "hit": true,
+   "verbatim": "This is my favorite place in our house."
+  },
+  {
+   "fact": "镜前解腰带、法语唱走调歌：「你工作太拼命，总是刮擦着写」——Roland Loiseau",
+   "anchor": "The voice of your lover curled around me like the steam of the bath.",
+   "span": [
+    2486,
+    2554
+   ],
+   "hit": true,
+   "verbatim": "The voice of your lover curled around me like the steam of the bath."
+  },
+  {
+   "fact": "浴室是他的礼物：那喀索斯四景浴缸，注定毁灭的致命美",
+   "anchor": "four scenes from the myth of Narcissus",
+   "span": [
+    2746,
+    2784
+   ],
+   "hit": true,
+   "verbatim": "four scenes from the myth of Narcissus"
+  },
+  {
+   "fact": "你的最后一个故事本是为他写；悲恸中弃稿；Ida 发誓不毁也不给；你死后全校翻找未获唯一草稿",
+   "anchor": "never found your only draft of Dreams of the Rose",
+   "span": [
+    3081,
+    3130
+   ],
+   "hit": true,
+   "verbatim": "never found your only draft of Dreams of the Rose"
+  },
+  {
+   "fact": "冰唇擦耳「感到孤单吗」——她尖叫挥击，独自一人；血脚印旁纸团卷回贝壳形",
+   "anchor": "curled back up like a shell",
+   "span": [
+    3566,
+    3593
+   ],
+   "hit": true,
+   "verbatim": "curled back up like a shell"
+  }
+ ]
+}

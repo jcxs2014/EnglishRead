@@ -1,0 +1,99 @@
+{
+ "ch": 23,
+ "text_file": "ch23_chapter_ix.txt",
+ "char_len": 6615,
+ "relations": "Celia（叙述者）；Harriot；Greg（前夜同床）；Beatrice/Roland（秋千制作者）；Faulkner（课文）",
+ "numbers": "「上周」才去 Crescent（相对）；秋千足容两人",
+ "facts": [
+  {
+   "fact": "一周眩晕：Ruth 的电话剪断绝缘层",
+   "anchor": "I’d lost the insulating layer of shock",
+   "span": [
+    150,
+    188
+   ],
+   "hit": true,
+   "verbatim": "I’d lost the insulating layer of shock"
+  },
+  {
+   "fact": "期中卷子与福克纳课：读《A Rose for Emily》想到你在那房子护理毁页与「其他烂东西」",
+   "anchor": "nursing your ruined pages",
+   "span": [
+    1275,
+    1300
+   ],
+   "hit": true,
+   "verbatim": "nursing your ruined pages"
+  },
+  {
+   "fact": "研究生院里头脑是唯一安全居所、身体如挫折，「家是词」",
+   "anchor": "My home was words.",
+   "span": [
+    1741,
+    1759
+   ],
+   "hit": true,
+   "verbatim": "My home was words."
+  },
+  {
+   "fact": "前夜把 Greg 带上床、听音色、假装高潮",
+   "anchor": "faking several orgasms",
+   "span": [
+    1475,
+    1497
+   ],
+   "hit": true,
+   "verbatim": "faking several orgasms"
+  },
+  {
+   "fact": "老秋千：Beatrice（Tris）亲手所做；两人并肩、谷地在脚下展开",
+   "anchor": "She made this. Beatrice.",
+   "span": [
+    3312,
+    3336
+   ],
+   "hit": true,
+   "verbatim": "She made this. Beatrice."
+  },
+  {
+   "fact": "你引诗（秋之斗篷/凉吻/beloved）并递 binder：「我照你说的做了……美、不完整、零散但美」",
+   "anchor": "The mantle of autumn envelops me",
+   "span": [
+    3913,
+    3945
+   ],
+   "hit": true,
+   "verbatim": "The mantle of autumn envelops me"
+  },
+  {
+   "fact": "她读誊本一两个碎片即知是真：「真是她、真是它、我们是唯一见过的人」",
+   "anchor": "we were the only ones to have ever seen it",
+   "span": [
+    4927,
+    4969
+   ],
+   "hit": true,
+   "verbatim": "we were the only ones to have ever seen it"
+  },
+  {
+   "fact": "她承认被迷住：桃绒光让精明的脸变软，「你独特的求爱舞」",
+   "anchor": "your own unique little courting dance",
+   "span": [
+    5328,
+    5365
+   ],
+   "hit": true,
+   "verbatim": "your own unique little courting dance"
+  },
+  {
+   "fact": "「楼上」一提：你失色拒绝；脚跟插土、秋千狂转、binder 撒草、看清坠落多长；你抓起 binder 离开",
+   "anchor": "“I don’t want to talk about it!”",
+   "span": [
+    6150,
+    6182
+   ],
+   "hit": true,
+   "verbatim": "“I don’t want to talk about it!”"
+  }
+ ]
+}

@@ -56,7 +56,7 @@ modified: "2026-11-03"
 
 > **原句 5:** ""I don't want to talk about it!" You dug your heels into the dirt and the swing wheeled wildly under us. "Hey!" I threw my weight back as my side swooped over that precipitous edge. The binder spilled onto the grass; I saw, in a blink, just how long the fall would be. How many ways my body could snap and break and bleed. Then I touched the ground again. Before I could catch my breath, you pushed off the swing, snatching up your binder. And leaving me behind."
 
-**中文理解**：「我不想谈这个！」你的脚跟插进土里，秋千在我们下面疯狂打转。「嘿！」我把重心后甩，我的那一侧正掠过那道陡峭的崖边。binder 撒落草地；一眨眼我看见这坠落会有多长、我的身体有多少种折断流血的方式。然后我又触到地。还没来得及喘匀气，你蹬离秋千、抓起你的 binder——把我留在原地。
+**中文理解**：「我不想谈这个！」你的脚跟插进土里，秋千在我们下面疯狂打转。「嘿！」我把重心后甩，我的那一侧正掠过那道陡峭的崖边。活页夹撒落草地；一眨眼我看见这坠落会有多长、我的身体有多少种折断流血的方式。然后我又触到地。还没来得及喘匀气，你蹬离秋千、抓起你的活页夹——把我留在原地。
 
 **关键词**：dug your heels / wheeled wildly / precipitous edge / snap and break and bleed / leaving me behind
 

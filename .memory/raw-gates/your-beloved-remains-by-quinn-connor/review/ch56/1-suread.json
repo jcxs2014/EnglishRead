@@ -1,0 +1,99 @@
+{
+ "ch": 56,
+ "text_file": "ch56_chapter_xiv.txt",
+ "char_len": 3013,
+ "relations": "Celia（叙述者）；Beatrice（石棺中的尸体）；火（蔓延）",
+ "numbers": "石棺中的 Beatrice 生于 1857、卒于 1913（前章碑文）；本章 556 词",
+ "facts": [
+  {
+   "fact": "烟灰刺脸、脚已无感；血凝成紫色；肉冷得发白；月到天心下沉、星轮转；火吞得下却暖不了她",
+   "anchor": "I wasn’t even bleeding now; purple, it all congealed on the snow.",
+   "span": [
+    85,
+    150
+   ],
+   "hit": true,
+   "verbatim": "I wasn’t even bleeding now; purple, it all congealed on the snow."
+  },
+  {
+   "fact": "她不再发抖、漂浮在身体上方；看见自己的真相：饥饿、吞噬一切的空洞——童年初次裂开、孤独不被爱",
+   "anchor": "the hungry, all-consuming hole inside me",
+   "span": [
+    773,
+    813
+   ],
+   "hit": true,
+   "verbatim": "the hungry, all-consuming hole inside me"
+  },
+  {
+   "fact": "「难怪我从不觉满足、从不觉被爱——最要紧的时候没有人爱，那毁了我」",
+   "anchor": "it had broken me",
+   "span": [
+    971,
+    987
+   ],
+   "hit": true,
+   "verbatim": "it had broken me"
+  },
+  {
+   "fact": "最后一件事：她站起、受洗于泪/血/尘、也烧尽；裙冻住、抖开才走；没有家留给她",
+   "anchor": "Baptized in tears, her blood, and dirt",
+   "span": [
+    1079,
+    1117
+   ],
+   "hit": true,
+   "verbatim": "Baptized in tears, her blood, and dirt"
+  },
+  {
+   "fact": "墓门一碰即开；火声淡去；碑石吸收一切——「这里，我能睡」",
+   "anchor": "Here, I could sleep.",
+   "span": [
+    1655,
+    1675
+   ],
+   "hit": true,
+   "verbatim": "Here, I could sleep."
+  },
+  {
+   "fact": "走向中心白台（你的石棺）；天使永远哀悼俯在 Roland 坟上；你的朴素：一块碑、你的名；金属玫瑰低语「来。睡。」",
+   "anchor": "The angel, perpetually mourning",
+   "span": [
+    1830,
+    1861
+   ],
+   "hit": true,
+   "verbatim": "The angel, perpetually mourning"
+  },
+  {
+   "fact": "推石板——像黄油滑开、轰然碎地；她看进冷腔：你在那里——冻住的春天，完美的手攥玫瑰，颊唇有活的红晕",
+   "anchor": "You were a frozen springtime.",
+   "span": [
+    2339,
+    2368
+   ],
+   "hit": true,
+   "verbatim": "You were a frozen springtime."
+  },
+  {
+   "fact": "「也许只爱过一个死去的女人是对的。我毁掉了那个可能唯一敢爱我的人」；她攀进棺、埋进你胸、被紫罗兰环绕、拉你的臂环住自己",
+   "anchor": "I’d doomed the one other person who might have dared to love me",
+   "span": [
+    2631,
+    2694
+   ],
+   "hit": true,
+   "verbatim": "I’d doomed the one other person who might have dared to love me"
+  },
+  {
+   "fact": "结尾：「这就是我一直想要的全部。」",
+   "anchor": "This was all I’d ever wanted.",
+   "span": [
+    2983,
+    3012
+   ],
+   "hit": true,
+   "verbatim": "This was all I’d ever wanted."
+  }
+ ]
+}

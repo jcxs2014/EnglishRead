@@ -1,0 +1,109 @@
+{
+ "ch": 18,
+ "text_file": "ch18_chapter_iv.txt",
+ "char_len": 5158,
+ "relations": "Joan（教师/叙述者）；Celia（闯入者）；Susan Petigru King（课文作者）；Chesnutt（前课）；Pam（学生）",
+ "numbers": "九十一岁去世的 Peters 教授（办公室前任）；八分钟后下课",
+ "facts": [
+  {
+   "fact": "期中临近：研讨课读 Susan Petigru King（母亲把女儿推入无爱婚姻），末句问 grand automaton 是否真死",
+   "anchor": "Is the grand automaton really dead",
+   "span": [
+    370,
+    404
+   ],
+   "hit": true,
+   "verbatim": "Is the grand automaton really dead"
+  },
+  {
+   "fact": "课堂控制术：命令沉默；Pam 答出「自愿或不自愿的自我隐藏」，七双眼睛仍茫然",
+   "anchor": "commanding the silence",
+   "span": [
+    751,
+    773
+   ],
+   "hit": true,
+   "verbatim": "commanding the silence"
+  },
+  {
+   "fact": "Celia 匆忙敲门、不待应声推入教室；「抱歉打扰」是谎；冬颊红是兴奋",
+   "anchor": "You looked like a thunderstorm in my doorway.",
+   "span": [
+    1625,
+    1670
+   ],
+   "hit": true,
+   "verbatim": "You looked like a thunderstorm in my doorway."
+  },
+  {
+   "fact": "她给八分钟（「一小会儿」「其实是八分钟」），称之为紧急",
+   "anchor": "In eight minutes, actually.",
+   "span": [
+    1876,
+    1903
+   ],
+   "hit": true,
+   "verbatim": "In eight minutes, actually."
+  },
+  {
+   "fact": "Joan 训她无礼；她掏出叠好的 Scylla；转到办公室",
+   "anchor": "it’s extremely rude to interrupt a seminar.",
+   "span": [
+    2163,
+    2206
+   ],
+   "hit": true,
+   "verbatim": "it’s extremely rude to interrupt a seminar."
+  },
+  {
+   "fact": "办公室继承自三年前九十一岁去世的 Peters 教授；Greg 说他就死在办公室",
+   "anchor": "at the ripe old age of ninety-one",
+   "span": [
+    2449,
+    2482
+   ],
+   "hit": true,
+   "verbatim": "at the ripe old age of ninety-one"
+  },
+  {
+   "fact": "Celia 承认：「这听起来就像她——你的结局毁她的主题——但文字……」问「你怎么做到的」",
+   "anchor": "How did you do this?",
+   "span": [
+    3753,
+    3773
+   ],
+   "hit": true,
+   "verbatim": "How did you do this?"
+  },
+  {
+   "fact": "Joan：「我的结局忠于这出戏真实的主题」——「而且你喜欢它」",
+   "anchor": "And you liked it.",
+   "span": [
+    3947,
+    3964
+   ],
+   "hit": true,
+   "verbatim": "And you liked it."
+  },
+  {
+   "fact": "Celia 招认：指甲玫瑰色被咬秃；「我在她的作品里长大……你捕捉到的是她的感觉」",
+   "anchor": "The feeling of her.",
+   "span": [
+    4254,
+    4273
+   ],
+   "hit": true,
+   "verbatim": "The feeling of her."
+  },
+  {
+   "fact": "结尾：Celia 纠正「你懂的是手艺」，并说「我来是想请你帮忙」",
+   "anchor": "You understand something about the craft",
+   "span": [
+    5031,
+    5071
+   ],
+   "hit": true,
+   "verbatim": "You understand something about the craft"
+  }
+ ]
+}

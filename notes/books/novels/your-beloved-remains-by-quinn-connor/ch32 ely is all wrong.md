@@ -52,7 +52,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：开战的不是观点而是人格——「criminal vs romantic」的二分法把文学分歧升级成对 Ely（以及对作者）的解释权之争；连续的反问句让质问脱离学术语法，变成审问。
 
-**读者视角提示**：讽刺在于：Harriot 的「罪犯说」有文本依据（subtext），Celia 的「浪漫说」只有信仰。这一战她赢的是感觉、输的是证据——而伪造事业需要的恰恰是感觉。
+**读者视角提示**：讽刺在于：Harriot 的「罪犯说」有文本依据（潜台词），Celia 的「浪漫说」只有信仰。这一战她赢的是感觉、输的是证据——而伪造事业需要的恰恰是感觉。
 
 > **原句 5:** "I snatched up that stupid paper, carrying only that one stupid word, and ripped it apart. But it wasn't enough. I threw the pen. It bounced off the wall with a tiny hollow sound, leaving a minuscule dot on the wall. Quiet, my mother scolded. You're making a scene. The scream came boiling up my throat and I let it loose, howling into the air."
 

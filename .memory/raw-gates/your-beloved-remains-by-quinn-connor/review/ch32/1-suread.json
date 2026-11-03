@@ -1,0 +1,109 @@
+{
+ "ch": 32,
+ "text_file": "ch32_chapter_iv.txt",
+ "char_len": 9079,
+ "relations": "Celia（叙述者）；Harriot；Jonathan（赌局/情报）；Donahue（碎片）",
+ "numbers": "赌局 5 元；三页碎片→二十页草稿；工作近三小时",
+ "facts": [
+  {
+   "fact": "字条：「觉得你在躲我。被第二次评估缠住。今晚来 Chalice，8 点。H.」",
+   "anchor": "Come to the Chalice tonight, say 8",
+   "span": [
+    120,
+    154
+   ],
+   "hit": true,
+   "verbatim": "Come to the Chalice tonight, say 8"
+  },
+  {
+   "fact": "档案员最坏的敌人是时间：让页崩解、凿裂书脊、抽干照片；2 月董事会逼近",
+   "anchor": "The archivist’s worst enemy was time.",
+   "span": [
+    521,
+    558
+   ],
+   "hit": true,
+   "verbatim": "The archivist’s worst enemy was time."
+  },
+  {
+   "fact": "食人梦：水下影子涌来、一条咬进肉把脚在足弓咬断；四点醒来脸趴金属桌而痛",
+   "anchor": "bit my foot off at the arch",
+   "span": [
+    995,
+    1022
+   ],
+   "hit": true,
+   "verbatim": "bit my foot off at the arch"
+  },
+  {
+   "fact": "隐藏地图诱人地立在桌角；独处两天后她失去分享热情",
+   "anchor": "I’d lost my eagerness to share it",
+   "span": [
+    1157,
+    1190
+   ],
+   "hit": true,
+   "verbatim": "I’d lost my eagerness to share it"
+  },
+  {
+   "fact": "Chalice 酒吧（改造宅、锈灰泥、暗木密谋小间、迷宫布局）；周三反社会氛围",
+   "anchor": "conspiratorial rooms of dark wood",
+   "span": [
+    1566,
+    1599
+   ],
+   "hit": true,
+   "verbatim": "conspiratorial rooms of dark wood"
+  },
+  {
+   "fact": "Harriot 宣告「Jonathan 欠我五块」——「但我告诉他反正你更喜欢我」",
+   "anchor": "Jonathan owes me five bucks!",
+   "span": [
+    2739,
+    2767
+   ],
+   "hit": true,
+   "verbatim": "Jonathan owes me five bucks!"
+  },
+  {
+   "fact": "三页碎片被变成二十页干净草稿（大量扩写；参考《The Veins of the Earth》节奏）",
+   "anchor": "the first twenty pages of a clean draft",
+   "span": [
+    3554,
+    3593
+   ],
+   "hit": true,
+   "verbatim": "the first twenty pages of a clean draft"
+  },
+  {
+   "fact": "她读得像吃讨厌的食物（纯软骨）；「Ely 全错——你把他写成罪犯」；Harriot 说在你誊本的潜台词里",
+   "anchor": "“Ely is all wrong.”",
+   "span": [
+    5565,
+    5584
+   ],
+   "hit": true,
+   "verbatim": "“Ely is all wrong.”"
+  },
+  {
+   "fact": "她抢下页：「等我修完再还」；Harriot 脸如石",
+   "anchor": "You’ll get it back when I’m done fixing it",
+   "span": [
+    6496,
+    6538
+   ],
+   "hit": true,
+   "verbatim": "You’ll get it back when I’m done fixing it"
+  },
+  {
+   "fact": "回家撕纸、扔笔、嚎叫；承认 Harriot 的散文无可挑剔、「你在其中真实地活着」——「而带回你的不是我」",
+   "anchor": "her prose was flawless",
+   "span": [
+    8957,
+    8979
+   ],
+   "hit": true,
+   "verbatim": "her prose was flawless"
+  }
+ ]
+}

@@ -20,7 +20,7 @@ modified: "2026-11-03"
 
 **关键词**：Listens to ABBA and wears jeans / full of surprises / I like them / loped down the front steps
 
-**为什么这样写**：开场以衣橱交底——牛仔裤（不 work-appropriate 的自己）被一句「我喜欢」盖章；ABBA 这个细节把档案馆里的卡带架变成了活人的歌单，Celia 的「档案人格」被轻松卸下一角。
+**为什么这样写**：开场以衣橱交底——牛仔裤（不合上班场合的自己）被一句「我喜欢」盖章；ABBA 这个细节把档案馆里的卡带架变成了活人的歌单，Celia 的「档案人格」被轻松卸下一角。
 
 **读者视角提示**：Harriot 一直在收集 Celia 的反差（ABBA、牛仔裤、跛脚）。收集是她的职业本能——但这次收集品开始让她说「喜欢」。
 

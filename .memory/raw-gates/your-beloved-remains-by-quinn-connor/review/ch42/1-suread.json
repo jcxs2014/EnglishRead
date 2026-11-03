@@ -1,0 +1,79 @@
+{
+ "ch": 42,
+ "text_file": "ch42_chapter_xiv.txt",
+ "char_len": 6214,
+ "relations": "Celia（叙述者）；Harriot（沉睡）；Beatrice（显形）；Roland（显形/野猪）",
+ "numbers": "玻璃罐为三个月前（原九月）；野猪驮马般大",
+ "facts": [
+  {
+   "fact": "独处时感到：皮下刺痒如童年蜘蛛掠脸——「错误感、小腿」",
+   "anchor": "Wrongness. Little legs.",
+   "span": [
+    322,
+    345
+   ],
+   "hit": true,
+   "verbatim": "Wrongness. Little legs."
+  },
+  {
+   "fact": "摸脚掌硬物：像茧不是茧；一闪知道是羊皮纸壳卷在肉里——一直未愈",
+   "anchor": "some shell-curls of parchment had come loose in my flesh",
+   "span": [
+    1030,
+    1086
+   ],
+   "hit": true,
+   "verbatim": "some shell-curls of parchment had come loose in my flesh"
+  },
+  {
+   "fact": "指甲抠疤、不痛；拉下厚皮、红新皮、血涌；拇指探——没有异物，只有她自己嘶哭的肉",
+   "anchor": "finally I could see the wound",
+   "span": [
+    2213,
+    2242
+   ],
+   "hit": true,
+   "verbatim": "finally I could see the wound"
+  },
+  {
+   "fact": "抬眼：洞中不止我们——裸白女人坐泉源旁、深毛覆身（传说与雕像上的野猪，驮马般大、头搁膝、眼流珍珠母泪）",
+   "anchor": "It was you. Not my breathy imaginings, but you.",
+   "span": [
+    2819,
+    2866
+   ],
+   "hit": true,
+   "verbatim": "It was you. Not my breathy imaginings, but you."
+  },
+  {
+   "fact": "刀在月光里、刃凉贴太阳穴；她吸入紫罗兰（压书页间的气味）",
+   "anchor": "the knife shone in the moonlight",
+   "span": [
+    3900,
+    3932
+   ],
+   "hit": true,
+   "verbatim": "the knife shone in the moonlight"
+  },
+  {
+   "fact": "真品瑕疵：一眼略小、发油、嘴周纹——「从不知的瑕疵」",
+   "anchor": "Flaws I never knew.",
+   "span": [
+    4637,
+    4656
+   ],
+   "hit": true,
+   "verbatim": "Flaws I never knew."
+  },
+  {
+   "fact": "剖胸取心：不看一眼、在腹上擦手、举起跳动的心咬一口",
+   "anchor": "You raised my thrumming, panicked heart to your teeth and took a bite.",
+   "span": [
+    6143,
+    6213
+   ],
+   "hit": true,
+   "verbatim": "You raised my thrumming, panicked heart to your teeth and took a bite."
+  }
+ ]
+}

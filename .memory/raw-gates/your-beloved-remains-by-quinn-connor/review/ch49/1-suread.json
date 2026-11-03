@@ -1,0 +1,129 @@
+{
+ "ch": 49,
+ "text_file": "ch49_chapter_vii.txt",
+ "char_len": 21602,
+ "relations": "Celia（叙述者）；Harriot；Jonathan（电话）；Harper（已解雇）；父母（已故）；Danvers（不在）",
+ "numbers": "Ash Wednesday? 无；「他找了救生艇」；寒假",
+ "facts": [
+  {
+   "fact": "食物将尽：最后一包盐饼；「我们需要食物」=唯一能摆出的停战；脚痛响进骨头、绷带上缘红热",
+   "anchor": "“We need food,” I finally said",
+   "span": [
+    144,
+    174
+   ],
+   "hit": true,
+   "verbatim": "“We need food,” I finally said"
+  },
+  {
+   "fact": "答案在窗外：校长官邸隔着草坪；多年未进但员工备货；可带回食物、酒、绷带、止痛药",
+   "anchor": "the President’s House was just across the green",
+   "span": [
+    1611,
+    1658
+   ],
+   "hit": true,
+   "verbatim": "the President’s House was just across the green"
+  },
+  {
+   "fact": "雪原暴露：这山上一切在冬天都饥饿；只有她在月光下移动——易捕的猎物",
+   "anchor": "Everything on this mountain hungered during the winter.",
+   "span": [
+    2867,
+    2922
+   ],
+   "hit": true,
+   "verbatim": "Everything on this mountain hungered during the winter."
+  },
+  {
+   "fact": "官邸地下室：窗扣松脱（从她住那儿起就那样）、跌到旧台球桌上；满是闲置家具与节令装饰的鬼",
+   "anchor": "It had been that way since I’d lived there.",
+   "span": [
+    3986,
+    4029
+   ],
+   "hit": true,
+   "verbatim": "It had been that way since I’d lived there."
+  },
+  {
+   "fact": "楼上：Danvers 全翻新；每眨眼见旧样（父母婚瓷银器、父亲待客的绝望笑、胸针与发油味的客人）",
+   "anchor": "in a blink, these phantoms were gone",
+   "span": [
+    5422,
+    5458
+   ],
+   "hit": true,
+   "verbatim": "in a blink, these phantoms were gone"
+  },
+  {
+   "fact": "坏夜回忆：母亲收尽屋里枕头毯子（像找软物的破喜鹊）；父亲每夜趴她膝上哭「我一个人做不到」",
+   "anchor": "Lovey, I can’t do it alone. What will I do?",
+   "span": [
+    7793,
+    7836
+   ],
+   "hit": true,
+   "verbatim": "Lovey, I can’t do it alone. What will I do?"
+  },
+  {
+   "fact": "她拨 Jonathan 曾给的号码；「是我。Celia」「我想你是对的」；他沉默后一叹「收拾好你自己，或者别再打来」；线断",
+   "anchor": "Celia, get your shit together, or don’t call.",
+   "span": [
+    10062,
+    10107
+   ],
+   "hit": true,
+   "verbatim": "Celia, get your shit together, or don’t call."
+  },
+  {
+   "fact": "四失（他/Harper/父母/你）；踢腿撞桌、灯落毯不碎；抓灯砸镜——碎、镜中饿兽般的自己",
+   "anchor": "a starved animal here to scavenge",
+   "span": [
+    11090,
+    11123
+   ],
+   "hit": true,
+   "verbatim": "a starved animal here to scavenge"
+  },
+  {
+   "fact": "全家福前清醒：问题不是父母、永远不可能是你——是他：关校计划把她带到手稿、他开除 Harper",
+   "anchor": "He was the problem.",
+   "span": [
+    11420,
+    11439
+   ],
+   "hit": true,
+   "verbatim": "He was the problem."
+  },
+  {
+   "fact": "砸屋：书/相框/圣诞树/银器/盘子/玻璃柜；想掷中水晶吊灯",
+   "anchor": "I left a tornado’s path of twisted things in my wake.",
+   "span": [
+    12275,
+    12328
+   ],
+   "hit": true,
+   "verbatim": "I left a tornado’s path of twisted things in my wake."
+  },
+  {
+   "fact": "一只小冷手抓腕——是 Harriot（没穿外套、踏雪跟来）：「你走时水壶还烧着」「你在这干什么？」",
+   "anchor": "“Y-you left the kettle on,” she stammered.",
+   "span": [
+    13000,
+    13042
+   ],
+   "hit": true,
+   "verbatim": "“Y-you left the kettle on,” she stammered."
+  },
+  {
+   "fact": "她烧得厉害；Celia 把自己埋进她毛衣（闻起来像她和她也像我们）；吻她",
+   "anchor": "her sweater that smelled like her and me, like us",
+   "span": [
+    14640,
+    14689
+   ],
+   "hit": true,
+   "verbatim": "her sweater that smelled like her and me, like us"
+  }
+ ]
+}

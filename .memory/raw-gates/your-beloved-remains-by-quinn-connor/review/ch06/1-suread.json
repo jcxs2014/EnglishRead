@@ -1,0 +1,79 @@
+{
+ "ch": 6,
+ "text_file": "ch06_chapter_vi.txt",
+ "char_len": 2387,
+ "relations": "Celia；Mrs. Harper（校长秘书，本名 Madge，Celia 称她 Bertie 式人物）；B. Danvers（校长，信的作者）；Steve（收信人，未具名外方法律方）",
+ "numbers": "2 月 13 日投票；新生班每年一个 Donahue 博士后名额（前章）",
+ "facts": [
+  {
+   "fact": "Celia 在档案馆回味与 Harriot 的相遇：对方一直知道她是谁，她一开始就慢一步",
+   "anchor": "Call-me-Harry Harriot had known all along who I was.",
+   "span": [
+    212,
+    264
+   ],
+   "hit": true,
+   "verbatim": "Call-me-Harry Harriot had known all along who I was."
+  },
+  {
+   "fact": "门外地板吱呀，她拉门撞见 Mrs. Harper 跪着把纸往门缝塞",
+   "anchor": "Mrs. Harper, still kneeling, blinked up at me.",
+   "span": [
+    832,
+    878
+   ],
+   "hit": true,
+   "verbatim": "Mrs. Harper, still kneeling, blinked up at me."
+  },
+  {
+   "fact": "Harper 用土腔声明「我什么都没给过你」：办公桌还在，坐那儿的就得是她",
+   "anchor": "This can’t come from me.",
+   "span": [
+    1291,
+    1315
+   ],
+   "hit": true,
+   "verbatim": "This can’t come from me."
+  },
+  {
+   "fact": "Harper 临走一句：这不只是图书馆发霉书的事，是山里人命关天的事",
+   "anchor": "This is people’s lives up here.",
+   "span": [
+    1756,
+    1787
+   ],
+   "hit": true,
+   "verbatim": "This is people’s lives up here."
+  },
+  {
+   "fact": "纸是打字信复写副本、未签名、出自校长办公桌，收信人 Steve",
+   "anchor": "It was a carbon copy of a typed letter.",
+   "span": [
+    1935,
+    1974
+   ],
+   "hit": true,
+   "verbatim": "It was a carbon copy of a typed letter."
+  },
+  {
+   "fact": "信写：Donahue 遗产是过渡里较棘手的一环，2 月 13 日投票前开放原件核验",
+   "anchor": "well ahead of the February 13 vote",
+   "span": [
+    2325,
+    2359
+   ],
+   "hit": true,
+   "verbatim": "well ahead of the February 13 vote"
+  },
+  {
+   "fact": "署名 B. Danvers",
+   "anchor": "B. Danvers",
+   "span": [
+    2376,
+    2386
+   ],
+   "hit": true,
+   "verbatim": "B. Danvers"
+  }
+ ]
+}

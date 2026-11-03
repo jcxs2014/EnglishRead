@@ -1,0 +1,129 @@
+{
+ "ch": 38,
+ "text_file": "ch38_chapter_x.txt",
+ "char_len": 15165,
+ "relations": "Celia（叙述者）；Harriot；Jonathan（电梯里）；Greg（未涉）",
+ "numbers": "寒假六周；2 月 13（前章）；Crescent 1886 落成",
+ "facts": [
+  {
+   "fact": "她留紧急字条在 outbox「来见我」；没打断上课；压下棱角；好久没想为谁努力",
+   "anchor": "I left an urgent note",
+   "span": [
+    465,
+    486
+   ],
+   "hit": true,
+   "verbatim": "I left an urgent note"
+  },
+  {
+   "fact": "做草稿如追蛛网丝——越推越觉结构会塌；仍追",
+   "anchor": "following the strands of a spiderweb",
+   "span": [
+    1676,
+    1712
+   ],
+   "hit": true,
+   "verbatim": "following the strands of a spiderweb"
+  },
+  {
+   "fact": "她没看医生；脚渐好、每誊一页更稳——也许伤有心理成分",
+   "anchor": "the steadier my steps became",
+   "span": [
+    2126,
+    2154
+   ],
+   "hit": true,
+   "verbatim": "the steadier my steps became"
+  },
+  {
+   "fact": "Harriot 数小时后到、被风吹乱；「今天有警察在这晃」；她说大概学生抽大麻",
+   "anchor": "There’s police walking around here today.",
+   "span": [
+    2514,
+    2555
+   ],
+   "hit": true,
+   "verbatim": "There’s police walking around here today."
+  },
+  {
+   "fact": "她提暑假看管人：六周、路险、别人清场——「如果你没处去…」",
+   "anchor": "I usually take on the role of campus caretaker",
+   "span": [
+    3524,
+    3570
+   ],
+   "hit": true,
+   "verbatim": "I usually take on the role of campus caretaker"
+  },
+  {
+   "fact": "Harriot 一闪穿房吻她（响亮喜剧的 smack）；「Darling girl！你解决一切。我当然留下！」",
+   "anchor": "You’ve solved everything. Of course I’ll stay!",
+   "span": [
+    4799,
+    4845
+   ],
+   "hit": true,
+   "verbatim": "You’ve solved everything. Of course I’ll stay!"
+  },
+  {
+   "fact": "她请求搬来同住；Celia 答应「随你」；她欢腾：几个电话、东西送来、车库放车",
+   "anchor": "Can I move in with you?",
+   "span": [
+    5282,
+    5305
+   ],
+   "hit": true,
+   "verbatim": "Can I move in with you?"
+  },
+  {
+   "fact": "Eureka Springs 如雪球美景；Crescent 酒店（1886 你抵达时刚落成）",
+   "anchor": "just being completed when you arrived on the railway in 1886",
+   "span": [
+    7566,
+    7626
+   ],
+   "hit": true,
+   "verbatim": "just being completed when you arrived on the railway in 1886"
+  },
+  {
+   "fact": "「Beatrice 开幕之夜来过这儿」；炉壁铭文（夏日/秋叶/雪盖大地→炽热恋人）；「看《闪灵》吗？」",
+   "anchor": "Then you will be my ardent lover.",
+   "span": [
+    10446,
+    10479
+   ],
+   "hit": true,
+   "verbatim": "Then you will be my ardent lover."
+  },
+  {
+   "fact": "电梯边见 Jonathan（眼镜闪光、两男同上、门合前认出他的颌线）；忠诚按住舌「没什么」",
+   "anchor": "I recognized the curve of a familiar jaw",
+   "span": [
+    11049,
+    11089
+   ],
+   "hit": true,
+   "verbatim": "I recognized the curve of a familiar jaw"
+  },
+  {
+   "fact": "酒吧：敬项目/合作/孤独；她掏出两周来写的页（像奖赏）；Celia 读得嫉妒暗燃——「她又一次变成了你」",
+   "anchor": "returned to me in Harriot’s hand",
+   "span": [
+    13747,
+    13779
+   ],
+   "hit": true,
+   "verbatim": "returned to me in Harriot’s hand"
+  },
+  {
+   "fact": "「很好。我知道我会有修改」；她说「明天大家都走——等只剩我们能再试地图吗？」；雪只是阵雪；她慢慢摇头=yes",
+   "anchor": "For the research, my eyes cajoled.",
+   "span": [
+    15067,
+    15101
+   ],
+   "hit": true,
+   "verbatim": "For the research, my eyes cajoled."
+  }
+ ]
+}

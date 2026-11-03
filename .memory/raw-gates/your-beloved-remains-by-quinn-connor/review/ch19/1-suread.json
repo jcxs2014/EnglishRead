@@ -1,0 +1,109 @@
+{
+ "ch": 19,
+ "text_file": "ch19_chapter_v.txt",
+ "char_len": 3584,
+ "relations": "Joan（叙述者）；Celia；导师 Calahan（伞/烟斗的遗产来源）；Beth Green（前章）",
+ "numbers": "伞为伦敦 James Smith & Sons 古董",
+ "facts": [
+  {
+   "fact": "她继承导师的烟斗与伞（伦敦 James Smith & Sons、苹果木弯柄、旧铜帽）；大晴天也带着听嗒嗒",
+   "anchor": "James Smith & Sons",
+   "span": [
+    84,
+    102
+   ],
+   "hit": true,
+   "verbatim": "James Smith & Sons"
+  },
+  {
+   "fact": "同行去档案馆：雨滴颤在你卷发；你跛行渐重、呼吸成痛拉——「你不该用那只脚走路」",
+   "anchor": "You shouldn’t be walking on that foot",
+   "span": [
+    579,
+    616
+   ],
+   "hit": true,
+   "verbatim": "You shouldn’t be walking on that foot"
+  },
+  {
+   "fact": "档案馆门前苔檐下你摸出笨重钥匙——教工派对后她第一次回来，吸进历史麝香；目光游上塌陷楼梯",
+   "anchor": "ducking under mossy eaves",
+   "span": [
+    777,
+    802
+   ],
+   "hit": true,
+   "verbatim": "ducking under mossy eaves"
+  },
+  {
+   "fact": "「她卧室在上面？那是她放——」「楼上禁止入内」——你严厉的脸让她一眼闭嘴",
+   "anchor": "The upstairs is off-limits.",
+   "span": [
+    1255,
+    1282
+   ],
+   "hit": true,
+   "verbatim": "The upstairs is off-limits."
+  },
+  {
+   "fact": "你从口袋掏出一页纸：像被揉皱、撕过、又用胶带粘回——出自校长办公室",
+   "anchor": "a corpse of a page",
+   "span": [
+    1615,
+    1633
+   ],
+   "hit": true,
+   "verbatim": "a corpse of a page"
+  },
+  {
+   "fact": "她由衷说「多可怕」：遗产将被清算、档案搬去东岸富机构、贬损她建起的一切",
+   "anchor": "The liquidation of the Donahue estate was terrible.",
+   "span": [
+    1864,
+    1915
+   ],
+   "hit": true,
+   "verbatim": "The liquidation of the Donahue estate was terrible."
+  },
+  {
+   "fact": "提议：「我要你帮我救 Basin College」——「我要怎么做？」「假如我找到了别人都漏掉的…一部失传之作」",
+   "anchor": "I want you to help me save Basin College.",
+   "span": [
+    2236,
+    2277
+   ],
+   "hit": true,
+   "verbatim": "I want you to help me save Basin College."
+  },
+  {
+   "fact": "她以为鬼会起来——房子没动；她记错书名「The Vision of Rose」，你纠正 Dreams of the Rose",
+   "anchor": "The Vision of Rose",
+   "span": [
+    2749,
+    2767
+   ],
+   "hit": true,
+   "verbatim": "The Vision of Rose"
+  },
+  {
+   "fact": "条件摊牌：「它状态不完美。需要完美的东西说服董事会——必须不止听起来像她，必须是她」",
+   "anchor": "It would have to be her.",
+   "span": [
+    3351,
+    3375
+   ],
+   "hit": true,
+   "verbatim": "It would have to be her."
+  },
+  {
+   "fact": "她嗤「全是胡扯，你什么都没有」——你狡黠一笑「哦，我有东西」",
+   "anchor": "Oh, I’ve got something.",
+   "span": [
+    3559,
+    3582
+   ],
+   "hit": true,
+   "verbatim": "Oh, I’ve got something."
+  }
+ ]
+}

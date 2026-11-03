@@ -1,0 +1,89 @@
+{
+ "ch": 13,
+ "text_file": "ch13_chapter_xiii.txt",
+ "char_len": 6716,
+ "relations": "Celia；Jonathan（图书馆员，密友）；Harriot（端着同款肉卷落座）；Greg Kostas（世界语言系）",
+ "numbers": "Jonathan 每周约 15 封期刊催款信；2 月 13 日董事会预算会；Celia 自昨晨未进食未回家",
+ "facts": [
+  {
+   "fact": "Jonathan：行政今年没续订任何期刊，他每周收到约 15 封催款信；「跟 Southern Literary Review 说再见」",
+   "anchor": "I’m getting about fifteen letters a week from journals.",
+   "span": [
+    152,
+    207
+   ],
+   "hit": true,
+   "verbatim": "I’m getting about fifteen letters a week from journals."
+  },
+  {
+   "fact": "Celia 自与 Danvers 那场战斗之晨起没吃没回家，穿抽屉里的备用衣；她必须吃否则手抖",
+   "anchor": "the morning of my doomed battle with President Danvers",
+   "span": [
+    1021,
+    1075
+   ],
+   "hit": true,
+   "verbatim": "the morning of my doomed battle with President Danvers"
+  },
+  {
+   "fact": "她盘算：2 月 13 日预算会前若有什么事能提升 Basin 声望",
+   "anchor": "something happened to raise Basin’s profile?",
+   "span": [
+    2284,
+    2328
+   ],
+   "hit": true,
+   "verbatim": "something happened to raise Basin’s profile?"
+  },
+  {
+   "fact": "Jonathan 泼冷水：董事会只会把钱抽给体育系；他们在乎钱与名声",
+   "anchor": "siphon funds into Basin’s embarrassing athletics department",
+   "span": [
+    2478,
+    2537
+   ],
+   "hit": true,
+   "verbatim": "siphon funds into Basin’s embarrassing athletics department"
+  },
+  {
+   "fact": "她本可告诉 Jonathan，但他会想来看作品；而她即将成为世上第一个读《Dreams of the Rose》的人",
+   "anchor": "the first person in the whole world to read Dreams of the Rose",
+   "span": [
+    3120,
+    3182
+   ],
+   "hit": true,
+   "verbatim": "the first person in the whole world to read Dreams of the Rose"
+  },
+  {
+   "fact": "Harriot 端着同款肉卷落座，用 Scylla/Charybdis 双关：独自吃还是与 Celia 同餐",
+   "anchor": "a Scylla/Charybdis dilemma",
+   "span": [
+    3804,
+    3830
+   ],
+   "hit": true,
+   "verbatim": "a Scylla/Charybdis dilemma"
+  },
+  {
+   "fact": "她揭穿：早看见 Celia 偷听，「你像只豪猪为那出可怕的 Donahue 戏竖刺」",
+   "anchor": "you were like a porcupine over there",
+   "span": [
+    4442,
+    4478
+   ],
+   "hit": true,
+   "verbatim": "you were like a porcupine over there"
+  },
+  {
+   "fact": "Celia 回敬「留着力气反驳你下一篇」；Harriot 眼里起火、眨眼，「挑战接受」",
+   "anchor": "Challenge accepted.",
+   "span": [
+    5984,
+    6003
+   ],
+   "hit": true,
+   "verbatim": "Challenge accepted."
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "ch": 12,
+ "text_file": "ch12_chapter_xii.txt",
+ "char_len": 4183,
+ "relations": "Celia；Ida（写信给 Bertie）；Bertie（收信人）；Beatrice（作者）；Roland（已死）",
+ "numbers": "至多八小时；页团近一个世纪粘连；羊皮纸（兽皮）",
+ "facts": [
+  {
+   "fact": "破罐即倒计时：至多八小时，粘连的页将永远粘连；她把凝固团带去地下室",
+   "anchor": "I only had eight hours at most",
+   "span": [
+    104,
+    134
+   ],
+   "hit": true,
+   "verbatim": "I only had eight hours at most"
+  },
+  {
+   "fact": "她的专长是预防性保护而非修复；手稿写在羊皮纸（兽皮）而非纸——古怪选择救了它免于腌渍液全灭",
+   "anchor": "on parchment—on animal skins—rather than paper",
+   "span": [
+    533,
+    579
+   ],
+   "hit": true,
+   "verbatim": "on parchment—on animal skins—rather than paper"
+  },
+  {
+   "fact": "考虑打长途问 Folger 同行，又怕被追问来路；只要与页面独处的时间",
+   "anchor": "the Folger Shakespeare Library",
+   "span": [
+    765,
+    795
+   ],
+   "hit": true,
+   "verbatim": "the Folger Shakespeare Library"
+  },
+  {
+   "fact": "午夜到黎明：清洁→冷冻稳定→取出分离→再冷冻，层层反复",
+   "anchor": "Back to the freezer. Again, and again, layer by layer.",
+   "span": [
+    1240,
+    1294
+   ],
+   "hit": true,
+   "verbatim": "Back to the freezer. Again, and again, layer by layer."
+  },
+  {
+   "fact": "手指如橡胶、怕走错毁掉想救的；皮肤热紧怕发烧/感染；每个声响都惊",
+   "anchor": "destroying what I wanted to save",
+   "span": [
+    1384,
+    1416
+   ],
+   "hit": true,
+   "verbatim": "destroying what I wanted to save"
+  },
+  {
+   "fact": "磁带口述；金属架反光成注视的眼；每个声音都像你的脚步回来认领作品",
+   "anchor": "you were returning to claim your precious work",
+   "span": [
+    1849,
+    1895
+   ],
+   "hit": true,
+   "verbatim": "you were returning to claim your precious work"
+  },
+  {
+   "fact": "不信鬼的自辩：疼痛与野生的想象；童年盼望太强以至相信自己见到了",
+   "anchor": "I don’t believe in ghosts, I reminded myself.",
+   "span": [
+    2074,
+    2119
+   ],
+   "hit": true,
+   "verbatim": "I don’t believe in ghosts, I reminded myself."
+  },
+  {
+   "fact": "《Dreams of the Rose》所知：Ozark 设定、unsettling；第一代教工记你整夜游荡、泥膝苔藓花与一次蛇皮；Eureka Springs 降神会",
+   "anchor": "returning in the morning muddy-kneed",
+   "span": [
+    2754,
+    2790
+   ],
+   "hit": true,
+   "verbatim": "returning in the morning muddy-kneed"
+  },
+  {
+   "fact": "Ida 致 Bertie：你迷上新作几乎不分享，只答「the spring」；她既乐见又怕你专注的极端",
+   "anchor": "“The spring,” was all she’d tell me when I asked.",
+   "span": [
+    3062,
+    3111
+   ],
+   "hit": true,
+   "verbatim": "“The spring,” was all she’d tell me when I asked."
+  },
+  {
+   "fact": "酒酣夏夜你枕 Ida 膝多说：不体面故事——男人在泉中发现完美保存女尸并爱上",
+   "anchor": "a man who finds a perfectly preserved dead woman in a spring and falls in love",
+   "span": [
+    3442,
+    3520
+   ],
+   "hit": true,
+   "verbatim": "a man who finds a perfectly preserved dead woman in a spring and falls in love"
+  },
+  {
+   "fact": "Roland 死后 Ida 回忆：连骨架都让她睡不安；她求她写完，悲恸中似毁了；死亡成她的敌人",
+   "anchor": "Death has become her enemy",
+   "span": [
+    3725,
+    3751
+   ],
+   "hit": true,
+   "verbatim": "Death has become her enemy"
+  },
+  {
+   "fact": "Celia 的事后推演：那些词必像凶兆；但她最终没毁，她藏了",
+   "anchor": "You’d hidden it.",
+   "span": [
+    4166,
+    4182
+   ],
+   "hit": true,
+   "verbatim": "You’d hidden it."
+  }
+ ]
+}

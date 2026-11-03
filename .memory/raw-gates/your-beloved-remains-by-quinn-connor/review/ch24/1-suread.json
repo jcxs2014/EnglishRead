@@ -1,0 +1,119 @@
+{
+ "ch": 24,
+ "text_file": "ch24_chapter_x.txt",
+ "char_len": 7882,
+ "relations": "Joan（叙述者）；Celia（被摔门）；Ann/Evan（邻居，借衣）；Brodie/Stacey（学生）；Lanier Wilkes（引语者）",
+ "numbers": "兄弟会 pledges 五人；凌晨（witching hour）",
+ "facts": [
+  {
+   "fact": "她早在到任初期就看出「楼上」是学院公开的家庭秘密，而守门人纯靠意志把它变禁忌",
+   "anchor": "By sheer force of will, you tried to make what was common knowledge taboo.",
+   "span": [
+    159,
+    233
+   ],
+   "hit": true,
+   "verbatim": "By sheer force of will, you tried to make what was common knowledge taboo."
+  },
+  {
+   "fact": "Wilkes 嗤「多么庸俗的话题」：Donahue 私人传记与作品无关",
+   "anchor": "What a vulgar topic",
+   "span": [
+    279,
+    298
+   ],
+   "hit": true,
+   "verbatim": "What a vulgar topic"
+  },
+  {
+   "fact": "本科生不同：《She Who Walks》每行都是指向最大丑闻的箭；山上山外人人知道的就是那一个",
+   "anchor": "an arrow pointing to her greatest scandal",
+   "span": [
+    769,
+    810
+   ],
+   "hit": true,
+   "verbatim": "an arrow pointing to her greatest scandal"
+  },
+  {
+   "fact": "摔门贴脸；她记不清你的门——一步走错就被推出；资历与发表 vs「你只是档案员」",
+   "anchor": "You preserved the resources so that I could use them to create knowledge.",
+   "span": [
+    1417,
+    1490
+   ],
+   "hit": true,
+   "verbatim": "You preserved the resources so that I could use them to create knowledge."
+  },
+  {
+   "fact": "Xanax+古董酒渣调劣酒；翻抽屉口红/蓝影/腮红——「研究生版 Joan Harriot 是我发明的」",
+   "anchor": "I’d invented my graduate-era Joan Harriot",
+   "span": [
+    3515,
+    3556
+   ],
+   "hit": true,
+   "verbatim": "I’d invented my graduate-era Joan Harriot"
+  },
+  {
+   "fact": "镜中：「瞧，又一副伪装」",
+   "anchor": "Another disguise.",
+   "span": [
+    3708,
+    3725
+   ],
+   "hit": true,
+   "verbatim": "Another disguise."
+  },
+  {
+   "fact": "表演论：桌两侧的差别纯粹是表演；她差点摔断脖子下楼、喝 shot、出门",
+   "anchor": "purely a matter of performance",
+   "span": [
+    3831,
+    3861
+   ],
+   "hit": true,
+   "verbatim": "purely a matter of performance"
+  },
+  {
+   "fact": "派对地下室：海岛主题、红潘趣小伞、pledges 纸袋草裙；频闪汗与啤酒；无人认出她",
+   "anchor": "tiny grass skirts made from strips of brown paper sacks",
+   "span": [
+    4206,
+    4261
+   ],
+   "hit": true,
+   "verbatim": "tiny grass skirts made from strips of brown paper sacks"
+  },
+  {
+   "fact": "可卡因排如车道；她一条下肚溶进音乐",
+   "anchor": "bumps of cocaine as neat as lanes on a highway",
+   "span": [
+    5423,
+    5469
+   ],
+   "hit": true,
+   "verbatim": "bumps of cocaine as neat as lanes on a highway"
+  },
+  {
+   "fact": "Ghostbusters 惊醒；看见 Brodie 与 Stacey 贴脸；觉得身在山腹洞穴、无可逃逸",
+   "anchor": "some cave from which there was to be no escape",
+   "span": [
+    6741,
+    6787
+   ],
+   "hit": true,
+   "verbatim": "some cave from which there was to be no escape"
+  },
+  {
+   "fact": "巫时出门、高跟踢下悬崖、正要步行回家——直到一个可怕的主意攫住她",
+   "anchor": "until a terrible idea seized me",
+   "span": [
+    7849,
+    7880
+   ],
+   "hit": true,
+   "verbatim": "until a terrible idea seized me"
+  }
+ ]
+}

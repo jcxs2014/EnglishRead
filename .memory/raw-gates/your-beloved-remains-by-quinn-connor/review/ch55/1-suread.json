@@ -1,0 +1,159 @@
+{
+ "ch": 55,
+ "text_file": "ch55_chapter_xiii.txt",
+ "char_len": 18934,
+ "relations": "Celia（叙述者）；Harriot（被杀）；Roland（幻影）；Beatrice（声/命令）；野猪/房屋",
+ "numbers": "暴雨/雪；火势蔓延至图书馆树篱；「有个深重的沉默」",
+ "facts": [
+  {
+   "fact": "渴醒：壁炉贪火、图书馆毯子下；脚痛深搏；面前薄纸一叠与水一杯",
+   "anchor": "A ravenous fire in the hearth",
+   "span": [
+    49,
+    78
+   ],
+   "hit": true,
+   "verbatim": "A ravenous fire in the hearth"
+  },
+  {
+   "fact": "「你在我身边，precious」——Roland 幻影（狐毛大衣）在椅上；一眨眼他逃了、是 Harriot（真回来了）",
+   "anchor": "“You’re dreaming, precious,”",
+   "span": [
+    924,
+    952
+   ],
+   "hit": true,
+   "verbatim": "“You’re dreaming, precious,”"
+  },
+  {
+   "fact": "「我完成了」——稿读完：Body 说话、Ely 带她回泉沉入河床、他守泉以鸟鸣为食「愿我们的灵魂一同淤积。阿门」",
+   "anchor": "May our souls silt together in eternam.",
+   "span": [
+    5414,
+    5453
+   ],
+   "hit": true,
+   "verbatim": "May our souls silt together in eternam."
+  },
+  {
+   "fact": "「Beatrice 给了我们一个结局」；她听见她在风里说话",
+   "anchor": "Beatrice gave us an ending",
+   "span": [
+    5889,
+    5915
+   ],
+   "hit": true,
+   "verbatim": "Beatrice gave us an ending"
+  },
+  {
+   "fact": "Celia 崩：不是她做的；她一生留不住自己的 Ida/Clara/Bertie/Roland；你选了她",
+   "anchor": "You’d chosen her.",
+   "span": [
+    6645,
+    6662
+   ],
+   "hit": true,
+   "verbatim": "You’d chosen her."
+  },
+  {
+   "fact": "「这是什么？这很糟」——看 Harriot 脸色垮下「第一次感觉好」；「我是认真的」（谎）",
+   "anchor": "“This is horrible.” It was glorious.",
+   "span": [
+    7116,
+    7152
+   ],
+   "hit": true,
+   "verbatim": "“This is horrible.” It was glorious."
+  },
+  {
+   "fact": "她把那叠该死的页揉团扔进火里；Harriot 扑、纸立刻烧成不可救的焦团",
+   "anchor": "I balled those damning pages in one hand and threw them into the fire",
+   "span": [
+    8254,
+    8323
+   ],
+   "hit": true,
+   "verbatim": "I balled those damning pages in one hand and threw them into the fire"
+  },
+  {
+   "fact": "「那本该是我」——她幻想过完成的《The Rose》，但不是这样",
+   "anchor": "It was meant to be me.",
+   "span": [
+    9511,
+    9533
+   ],
+   "hit": true,
+   "verbatim": "It was meant to be me."
+  },
+  {
+   "fact": "她逃：赤脚穿雪、掠墓园、下崖缝；洞中求「求你，Tris」——「这是我一直想要的」；感到洞里不只她在呼吸",
+   "anchor": "It’s all I’ve ever wanted.",
+   "span": [
+    12307,
+    12333
+   ],
+   "hit": true,
+   "verbatim": "It’s all I’ve ever wanted."
+  },
+  {
+   "fact": "Harriot 抓肩把她拽回；毒怒把她脸扭成所有打过她的人；她挥石——钝响、头骨裂、手落、撞壁",
+   "anchor": "I swung at that hateful, familiar face.",
+   "span": [
+    12770,
+    12809
+   ],
+   "hit": true,
+   "verbatim": "I swung at that hateful, familiar face."
+  },
+  {
+   "fact": "她按她头知它陷下的方式不对；「对不起」；压手止血无用；「你会重写它，会好起来」",
+   "anchor": "that the way it gave under my fingers was wrong",
+   "span": [
+    13817,
+    13864
+   ],
+   "hit": true,
+   "verbatim": "that the way it gave under my fingers was wrong"
+  },
+  {
+   "fact": "她听见「泉」的指令；洞后壁开、绿浊水涌出、如胎盘托住 Harriot；她堆石封洞「你会安全」",
+   "anchor": "Put her in the spring.",
+   "span": [
+    15129,
+    15151
+   ],
+   "hit": true,
+   "verbatim": "Put her in the spring."
+  },
+  {
+   "fact": "洞里一声咳；「我马上回来，撑着」；最后月光被挡；她希望它快",
+   "anchor": "I hoped it was quick.",
+   "span": [
+    16633,
+    16654
+   ],
+   "hit": true,
+   "verbatim": "I hoped it was quick."
+  },
+  {
+   "fact": "回身：你的房子在燃烧（火从她扔的页蔓延）；屋顶像纸塌陷；「所以结束了。我杀了她。还是失去了你」",
+   "anchor": "Your house was ablaze.",
+   "span": [
+    17616,
+    17638
+   ],
+   "hit": true,
+   "verbatim": "Your house was ablaze."
+  },
+  {
+   "fact": "结尾：她守着燃烧的尸体，亮得能与太阳匹敌",
+   "anchor": "bright enough to rival the sun",
+   "span": [
+    18902,
+    18932
+   ],
+   "hit": true,
+   "verbatim": "bright enough to rival the sun"
+  }
+ ]
+}

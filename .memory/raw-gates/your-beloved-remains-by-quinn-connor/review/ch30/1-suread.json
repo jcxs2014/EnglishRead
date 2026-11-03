@@ -1,0 +1,99 @@
+{
+ "ch": 30,
+ "text_file": "ch30_chapter_ii.txt",
+ "char_len": 6485,
+ "relations": "Celia（叙述者）；Harriot（被偷视者）；Greg（窗中）；Beatrice（地图作者疑云）",
+ "numbers": "黑光灯下整夜；地图比例尺对照",
+ "facts": [
+  {
+   "fact": "放大镜下唯一一片纸（凝团中唯一的纸而非羊皮纸）的微弱线索变成月面；她走了一整夜",
+   "anchor": "transformed with its faint clues into the surface of the moon",
+   "span": [
+    145,
+    206
+   ],
+   "hit": true,
+   "verbatim": "transformed with its faint clues into the surface of the moon"
+  },
+  {
+   "fact": "黑光灯让墨迹与表面反差最烈；腿在桌下随心跳钝痛；在方格纸上盲描",
+   "anchor": "blacklight made the starkest contrast",
+   "span": [
+    485,
+    522
+   ],
+   "hit": true,
+   "verbatim": "blacklight made the starkest contrast"
+  },
+  {
+   "fact": "多年看初稿临书法至熟记字形：不能造你词的精灵，但能模仿形状",
+   "anchor": "No one alive knew your handwriting better than I did",
+   "span": [
+    1246,
+    1298
+   ],
+   "hit": true,
+   "verbatim": "No one alive knew your handwriting better than I did"
+  },
+  {
+   "fact": "横转页面：凯尔特结移位、筷子硬币立起——她认得那形状",
+   "anchor": "I knew that shape.",
+   "span": [
+    2527,
+    2545
+   ],
+   "hit": true,
+   "verbatim": "I knew that shape."
+  },
+  {
+   "fact": "读图靠肉身记忆：沟槽=陡坡、圆圈=校门旁双瀑之泉、闪电裂缝=进不去的校园洞穴",
+   "anchor": "two parallel waterfalls",
+   "span": [
+    3153,
+    3176
+   ],
+   "hit": true,
+   "verbatim": "two parallel waterfalls"
+  },
+  {
+   "fact": "更远荒野圈出宽矮 W——她认出这奇迹「显然是一张地图」",
+   "anchor": "recognize this miracle for what it obviously was: a map",
+   "span": [
+    3455,
+    3510
+   ],
+   "hit": true,
+   "verbatim": "recognize this miracle for what it obviously was: a map"
+  },
+  {
+   "fact": "打 Clara Cottage 无人接；办公室响两声被拿起又放下",
+   "anchor": "the phone was picked up, and just as suddenly, set down",
+   "span": [
+    3755,
+    3810
+   ],
+   "hit": true,
+   "verbatim": "the phone was picked up, and just as suddenly, set down"
+  },
+  {
+   "fact": "赴办公室途中见二楼窗：Harriot 只穿背心、柠檬黄灯光、吸烟斗；Greg 从身后吻她颈",
+   "anchor": "lemon-yellow lamplight",
+   "span": [
+    5370,
+    5392
+   ],
+   "hit": true,
+   "verbatim": "lemon-yellow lamplight"
+  },
+  {
+   "fact": "她僵在楼的影子里：怒意沸腾（她懒得看来电者）；Greg 大手拖过肋骨露出胸骨；她作呕地感到微弱回应之火；Harriot 把 Greg 推回屋、帘合拢",
+   "anchor": "some dim answering fire in my body",
+   "span": [
+    6240,
+    6274
+   ],
+   "hit": true,
+   "verbatim": "some dim answering fire in my body"
+  }
+ ]
+}

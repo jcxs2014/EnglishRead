@@ -1,0 +1,89 @@
+{
+ "ch": 2,
+ "text_file": "ch02_chapter_ii.txt",
+ "char_len": 5062,
+ "relations": "Celia（童年）；母亲（鸟类学家，揭示 Beatrice 身份）；Beatrice Donahue（《The Peacock Garden》作者，已故）",
+ "numbers": "《The Peacock Garden》1910 年重印；Eugenia 有多个哥哥（未给数）",
+ "facts": [
+  {
+   "fact": "Mixer 散场后 Celia 亲手清理，觉得客人驱散了「你」",
+   "anchor": "it felt like having them here had dispersed you",
+   "span": [
+    156,
+    203
+   ],
+   "hit": true,
+   "verbatim": "it felt like having them here had dispersed you"
+  },
+  {
+   "fact": "母亲为她读馆藏《The Peacock Garden》（1910 年重印、原版雕版）",
+   "anchor": "a 1910 reprint featuring the original engravings",
+   "span": [
+    365,
+    413
+   ],
+   "hit": true,
+   "verbatim": "a 1910 reprint featuring the original engravings"
+  },
+  {
+   "fact": "童话里 Eugenia 被锁大庄园、哥哥们被女巫变成孔雀，她收集羽毛缝衣、战女巫、乘孔雀车飞越树篱",
+   "anchor": "Eugenia collected her brothers’ plumes",
+   "span": [
+    979,
+    1017
+   ],
+   "hit": true,
+   "verbatim": "Eugenia collected her brothers’ plumes"
+  },
+  {
+   "fact": "母亲指着封面揭出：真名 Beatrice、用男名出版、曾住此、创办学院",
+   "anchor": "Her real name was Beatrice Donahue.",
+   "span": [
+    2264,
+    2299
+   ],
+   "hit": true,
+   "verbatim": "Her real name was Beatrice Donahue."
+  },
+  {
+   "fact": "童年 Celia 偷钥匙溜进故居，翻找台球只找到蛛网与陈年硬糖",
+   "anchor": "only spiderwebs and a dish of ancient hard candies",
+   "span": [
+    3387,
+    3437
+   ],
+   "hit": true,
+   "verbatim": "only spiderwebs and a dish of ancient hard candies"
+  },
+  {
+   "fact": "二楼禁地藏着银茶具、人发假发、福尔马林里的整条眼镜蛇",
+   "anchor": "A whole cobra in formaldehyde.",
+   "span": [
+    3710,
+    3740
+   ],
+   "hit": true,
+   "verbatim": "A whole cobra in formaldehyde."
+  },
+  {
+   "fact": "她在主卧幻想 Beatrice 站在窗前，身后是墓地（她的长眠处）",
+   "anchor": "the obelisks and iron gates of the historic cemetery",
+   "span": [
+    4426,
+    4478
+   ],
+   "hit": true,
+   "verbatim": "the obelisks and iron gates of the historic cemetery"
+  },
+  {
+   "fact": "结尾：她自认在用「你」的词召唤你的魂，而这正是你会写的故事",
+   "anchor": "I conjured your spirit in your house, with your words.",
+   "span": [
+    4901,
+    4955
+   ],
+   "hit": true,
+   "verbatim": "I conjured your spirit in your house, with your words."
+  }
+ ]
+}

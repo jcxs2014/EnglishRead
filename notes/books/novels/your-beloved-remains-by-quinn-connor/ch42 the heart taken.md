@@ -56,7 +56,7 @@ modified: "2026-11-03"
 
 > **原句 5:** "But you didn't look at me, not once. You dropped me, wiping me off on your stomach. I choked on the ground. You raised my thrumming, panicked heart to your teeth and took a bite."
 
-**中文理解**：但你不看她，一眼也没有。你放下她，在她自己的肚皮上擦手。她伏在地上哽咽。你把她那颗悸动的、惊惶的心举到齿边，咬了一口。
+**中文理解**：但你不看她，一眼也没有。你放下她，在你自己的腹部抹去她沾上的血。她伏在地上哽咽。你把她那颗悸动的、惊惶的心举到齿边，咬了一口。
 
 **关键词**：didn't look at me, not once / wiping me off on your stomach / thrumming, panicked heart / took a bite
 

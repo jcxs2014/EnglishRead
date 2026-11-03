@@ -1,0 +1,89 @@
+{
+ "ch": 9,
+ "text_file": "ch09_chapter_ix.txt",
+ "char_len": 8924,
+ "relations": "Celia；Daddy/Mother（童年家事）；Danvers（斥责者）；Beatrice（罐与手稿的主人）；法语教授与狗（合租邻居）",
+ "numbers": "罐中纸页「近一个世纪」未启（原文只给 years / a century 级表述）；她童年发现此洞",
+ "facts": [
+  {
+   "fact": "「我早该知道」：仅你不足保护学院；父亲的账本与波本记忆涌回",
+   "anchor": "That you alone were not enough to protect it.",
+   "span": [
+    193,
+    238
+   ],
+   "hit": true,
+   "verbatim": "That you alone were not enough to protect it."
+  },
+  {
+   "fact": "童年旧路：故居与校长官邸之间、崖边的历史墓地（门锁防学生，她少数有钥匙）",
+   "anchor": "a historic cemetery perched on the edge of a cliff",
+   "span": [
+    786,
+    836
+   ],
+   "hit": true,
+   "verbatim": "a historic cemetery perched on the edge of a cliff"
+  },
+  {
+   "fact": "下坡两次滑倒、肩扭伤（角度不同则颅骨粉碎），弃鞋穿袜继续",
+   "anchor": "it would have meant a crushed skull",
+   "span": [
+    1542,
+    1577
+   ],
+   "hit": true,
+   "verbatim": "it would have meant a crushed skull"
+  },
+  {
+   "fact": "入岩缝：脚先、没到肋骨、脚尖触底；滑进山的「扭曲心脏」",
+   "anchor": "my toes brushed the cave floor",
+   "span": [
+    2334,
+    2364
+   ],
+   "hit": true,
+   "verbatim": "my toes brushed the cave floor"
+  },
+  {
+   "fact": "洞中哭喊：学院将关使她与你脱锚，收藏将被拆散拍卖，她将一无所有",
+   "anchor": "your collection would be broken up and auctioned off",
+   "span": [
+    2940,
+    2992
+   ],
+   "hit": true,
+   "verbatim": "your collection would be broken up and auctioned off"
+  },
+  {
+   "fact": "此洞是童年躲藏与尖叫之处；如今在家与档案馆都不能尖叫，恐惧中像孩子跑向安全处",
+   "anchor": "We ran to where we knew we were safe.",
+   "span": [
+    3824,
+    3861
+   ],
+   "hit": true,
+   "verbatim": "We ran to where we knew we were safe."
+  },
+  {
+   "fact": "石堆如临时坟墓下挖出砂砾罐：浑浊粘稠淡绿液体中泡着卷页（你手写之物）",
+   "anchor": "I lifted a grit-covered jar",
+   "span": [
+    5494,
+    5521
+   ],
+   "hit": true,
+   "verbatim": "I lifted a grit-covered jar"
+  },
+  {
+   "fact": "结尾掷碎罐、玻璃嵌脚、血泊中捧出湿纸团，认出《Dreams of the Rose》",
+   "anchor": "The answer to my cries.",
+   "span": [
+    8807,
+    8830
+   ],
+   "hit": true,
+   "verbatim": "The answer to my cries."
+  }
+ ]
+}
