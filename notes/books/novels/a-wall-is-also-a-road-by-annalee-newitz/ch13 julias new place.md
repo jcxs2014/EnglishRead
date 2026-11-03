@@ -61,8 +61,8 @@ modified: "2026-11-02"
 
 - **中文理解**：「我现在是获释奴了，但我的老主人是在我还是个小姑娘的时候把我买下的。这个希腊名字就是他给的——我自己本来的 Punic 名字，我不记得了。」
 - **关键词**：liberta / old master / my Punic one
-- **为什么这样写**：一句话里装着一整条奴隶制的流水线：购入（小女孩）、改名（希腊名替换 Punic 名）、最终放行（liberta）。最重的信息放在最轻的从句里——「我不记得了」，一个名字的死亡被当事人平静地念出来，与前章「钱能买人」的经济学形成了人事版本。
-- **读者视角提示**：名字主题在此完成闭环：Gardenpath 在上一章得到 Peristyle（一个建筑名词），Murtis 的真名则被主人抹掉——谁有资格命名谁，是全书一直在写的问题。Murtis 讲这段时「hastily」（急忙补上）的语气值得记住：那是急于让客人不必尴尬的体贴。
+- **为什么这样写**：一句话里装着一整条奴隶制的流水线：购入（小女孩）、改名（希腊名替换 Punic 名）、最终放行（liberta）。最重的信息放在最轻的从句里——「我不记得了」，一个名字的死亡被当事人平静地念出来，与 ch11「钱能买人」的经济学形成了人事版本。
+- **读者视角提示**：名字主题在此完成闭环：Gardenpath 在 ch10 得到 Peristyle（一个建筑名词），Murtis 的真名则被主人抹掉——谁有资格命名谁，是全书一直在写的问题。Murtis 讲这段时「hastily」（急忙补上）的语气值得记住：那是急于让客人不必尴尬的体贴。
 
 > **原句 8:** "Yes! Julia Felix! Her shitty old husband died in the quake and she inherited everything. She’s turning it into a big boardinghouse with baths, and she bought the lupanar too!"
 

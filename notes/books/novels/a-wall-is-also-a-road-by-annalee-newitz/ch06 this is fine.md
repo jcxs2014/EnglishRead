@@ -62,14 +62,14 @@ modified: "2026-11-02"
 - **中文理解**：「是的，我认为你干得很漂亮：把你的发现裹进了厚厚一层关于火山作用与生命演化的、广为接受的主流学问。你找到了一个完美的研究点。」
 - **关键词**：widely accepted scholarship / wrapping / perfect study site
 - **为什么这样写**：夸奖的语法全是包裹术：wrapping…in a thick layer 把「呈现发现」说成一道包装工序，thick、widely accepted、scholarship 层层堆出安全厚度——发现本身不出场，出场的是它的隔热层。You found the perfect study site 则把功劳记在选址头上：会挑地方，比说了什么惊人之语更受奖赏。这是这套制度发给过审者的生存处方：把新东西说成旧学问的注脚。
-- **读者视角提示**：联系上一章 Fence 的下场读这句话：同一个制度里，一个把发现裸着递出去，一个学会了先裹三层。答话的人夸的是「工艺」不是「发现」——这个偏好到了提交与查分两场戏还会再兑现。
+- **读者视角提示**：联系 ch04 Fence 的下场读这句话：同一个制度里，一个把发现裸着递出去，一个学会了先裹三层。答话的人夸的是「工艺」不是「发现」——这个偏好到了提交与查分两场戏还会再兑现。
 
 > **原句 8:** "Shortly before cluster call diffused across campus on the 146th journey of Gardenpath’s time at the Memory, they sat alone in the lab, staring at a list of seven hundred life-forms enmeshed in a dramatic and seemingly impossible food web. … Like all great scientists describing a new study area, Gardenpath had left the location of their survey site vague."
 
 - **中文理解**：就在 Gardenpath 入读 Memory 的第 146 个 journey、cluster call 的气息即将漫过校园之前，他们独自坐在实验室里，盯着一张七百种生命形式的清单——这些生命缠结在一张戏剧性的、看似不可能的食物网里。……像所有描述新研究区域的伟大科学家一样，Gardenpath 把勘察地点写得含糊其辞。
 - **关键词**：146th journey / seven hundred life-forms / vague
 - **为什么这样写**：时间戳精确到 journey（146th），清单大到夸张（seven hundred life-forms），个人的一小步与数据的一大步压进同一句；enmeshed（缠结）与 seemingly impossible（看似不可能）是给这张网贴的双重标签——连得成一体，却不该存在。省略号后是学科礼仪：Like all great scientists 起头，把 location…vague 说成一脉相承的手艺，含糊其辞在这里不是遮掩，是行规。
-- **读者视角提示**：提交的场面安静得反常：一个人、一张清单、一段刻意模糊的地点。上一章他们把发现藏进无味分子的囊袋；这一章藏进了「伟大科学家的惯例」里。等成绩回来时，记得这份克制是他们自己排练过的。
+- **读者视角提示**：提交的场面安静得反常：一个人、一张清单、一段刻意模糊的地点。ch04 他们把发现藏进无味分子的囊袋；这一章藏进了「伟大科学家的惯例」里。等成绩回来时，记得这份克制是他们自己排练过的。
 
 > **原句 9:** "They ovaled with relief. Attached was the spreadsheet Wainscot had described, with room for their three “anonymous reviewers” to leave comments. Two were blank. One read simply, “This is fine.”"
 

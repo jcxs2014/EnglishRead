@@ -27,7 +27,7 @@ modified: "2026-11-02"
 - **中文理解**：「XXXX? XX.」第二个 Unnamed 用一条手臂指了指长椅，接着把手臂蜷起来，像在戏仿；见 Gardenpath 毫无反应，他们轻轻拉住这身外衣的手臂，指向长椅。
 - **关键词**：gestured / mockery / pulled gently
 - **为什么这样写**：那串 XXXX 是本章对未破译振动语的占位写法——读者与 Gardenpath 一样听不懂，只能跟着看肢体。一场邀请被拆成三个动作：指、蜷、拉；"as if in mockery" 先诱人往嘲笑想，下一句 "gently" 一转才显出那是耐心——语言不通的世界里，善意全靠动作的幅度与力度传递。
-- **读者视角提示**：对比上一章混进聚居地那次：压扁身子滑过拱门靠的是躲，这一次进门靠的是被邀请。留意 Gardenpath 的「没反应」不是高冷，是他们还读不懂这套手势语法。
+- **读者视角提示**：对比 ch05 混进聚居地那次：压扁身子滑过拱门靠的是躲，这一次进门靠的是被邀请。留意 Gardenpath 的「没反应」不是高冷，是他们还读不懂这套手势语法。
 
 > **原句 3:** "Apparently the Unnamed had noticed their trembling arms earlier and wanted to help. … Helping an outsider had to be a sign of consciousness. Or not. Fleetingly, they recalled Professor Arch’s warnings; some subset of their examiners would no doubt argue that altruism was actually a sign of inferior cognition."
 

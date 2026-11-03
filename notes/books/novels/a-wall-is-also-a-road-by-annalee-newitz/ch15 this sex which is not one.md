@@ -27,7 +27,7 @@ modified: "2026-11-02"
 - **中文理解**：也许正因如此，他们身上的每个孔口都被赋予了一种仪式意义。有些是仅用于性的专用开口；另一些也可以用来摄取和排泄。
 - **关键词**：ceremonial meaning / special-use / consumption
 - **为什么这样写**：一句冷静的功能分类学，把身体彻底目录化——「专用」与「兼用」的区分背后是 lupanar 的价目表：每个孔一个价，仪式不同价不同。以 Perhaps as a result 开头，把欲望的经济学写成膜不渗透的间接后果：进不去彼此，就给入口定价。
-- **读者视角提示**：与上一章 Oriel 的「they have slaves」并读——身体被制度化的两层：一层卖劳力，一层卖孔口。Peristyle 收集的这些数据永远进不了论文（下一章自嘲），它们只属于粉色笔记本。
+- **读者视角提示**：与 ch11 Oriel 的「they have slaves」并读——身体被制度化的两层：一层卖劳力，一层卖孔口。Peristyle 收集的这些数据永远进不了论文（自嘲见本章前文），它们只属于粉色笔记本。
 
 > **原句 3:** "They call it the universal language. That’s because everywhere you go in the Mediterranean, there are men who force you to learn it. But I’ve been teaching you Punic too."
 
@@ -68,7 +68,7 @@ modified: "2026-11-02"
 
 - **中文理解**：「那么，如果我理解得没错：男人掌管着人们被叫作什么。所以你们才被叫作 men。」
 - **关键词**：control what people are called / that is why / called men
-- **为什么这样写**：上一章的语言学之谜（自称 men 的悖论）在这一句被收进政治经济学：命名权是权力的产物，不是语言的习惯。Gardenpath 用假设句式完成推断（if I am understanding correctly），把一个惊人结论说得像课堂复述——克制让分量更重。
+- **为什么这样写**：ch11 的语言学之谜（自称 men 的悖论）在这一句被收进政治经济学：命名权是权力的产物，不是语言的习惯。Gardenpath 用假设句式完成推断（if I am understanding correctly），把一个惊人结论说得像课堂复述——克制让分量更重。
 - **读者视角提示**：这个解法同时解释了 Fence 的命运与 Gardenpath 的处境：Memory 里谁控制「什么算发现」「谁算 investigator」？谁控制命名，谁就控制现实。下一句「我庆幸自己是 woman——我不想告诉别人怎么称呼自己」是主角第一次主动选择立场。
 
 > **原句 9:** "For the first time, Peristyle believed that she understood the purpose of gendered pronouns."

@@ -7,11 +7,11 @@ modified: "2026-11-02"
 
 ## 本章导航
 
-- **一句话概括**：Gardenpath 把火山-食物网的整洁答案存进官方笔记本，粉色笔记本却乱成一团；Buttress 的 Language Log 带着五十年前的战地语言学前来助阵，却被一句「没有归乡的人还算人吗」戳中主角的童年暗线；Turret 的混合身份演讲震开新的门，实验室地板上的一次越界随后把 Gardenpath 最深的恐惧翻了出来。
+- **一句话概括**：Gardenpath 把火山-食物网的整洁答案存进官方笔记本，粉色笔记本却乱成一团；Buttress 的 Language Log 带着五十代前的战地语言学前来助阵，却被一句「没有归乡的人还算人吗」戳中主角的童年暗线；Turret 的混合身份演讲震开新的门，实验室地板上的一次越界随后把 Gardenpath 最深的恐惧翻了出来。
 - **情感弧线位置**：欲望与恐惧同章短兵。语言工程的进展（火山假说、Language Log）是理性层的推进，Oriel 一场亲密失控则是情感层的溃堤——「怕被看穿」与「渴望靠近」在同一副膜上对峙。
 - **Tropes 兑现/反转**：「工具到手」套路兑现（半透膜、Language Log），但工具全部反向做工：语言清单暴露了文化盲区，亲密实验暴露了伪装清单上的最后一格；「醉汉闹剧」喜剧桥段反转出语言学者的职业温柔——道歉时仍在押韵。
 - **人物弧线**：Gardenpath：从整理者到被整理者——笔记本越乱，自我越藏不住；Buttress：醉与醒的两面都可爱，Language Log 是他们给出的笨拙深情；Oriel：把「换进同一集群」当作告白，却被推回「team friendship」；Wainscot：被 Plumline 选中后第一次没力气炫耀。
-- **叙事手法**：双语轨并进——官方轨（火山假说、语言调查）每前进一步，私人轨（粉笔记本、欲望、童年）就漏出一分；Turret 演讲的「We are People」与 Gardenpath 的伪装身份在章内形成无声对位，性别章（上一章）学到的一切在这里开始照亮自己。
+- **叙事手法**：双语轨并进——官方轨（火山假说、语言调查）每前进一步，私人轨（粉笔记本、欲望、童年）就漏出一分；Turret 演讲的「We are People」与 Gardenpath 的伪装身份在章内形成无声对位，性别章（ch11）学到的一切在这里开始照亮自己。
 
 ## 精读
 
@@ -27,13 +27,13 @@ modified: "2026-11-02"
 - **中文理解**：笔记和录音毫无章法地堆在里面，没有任何组织方案。半生不熟的假说、抄了一半的词表，还有那些元数据残缺得可怜的图像。
 - **关键词**：chaotically / half-baked / metadata
 - **为什么这样写**：清点句式排开三宗罪（假说、词表、图像），每个都带着 half/woefully 的未完成标记——这份清单是 Gardenpath 自我状态的镜像：官方笔记越整洁，私人笔记越狼藉。metadata 一词让慌乱显得具体：连「关于笔记的笔记」都没管住。
-- **读者视角提示**：粉笔记本的失控与上一章 Column 的禁令直接相关——不能请教，就只能乱着。留意 Gardenpath 对此的自责方向：担心的是「不够 methodical」，不是「不该做」。
+- **读者视角提示**：粉笔记本的失控与 ch11 Column 的禁令直接相关——不能请教，就只能乱着。留意 Gardenpath 对此的自责方向：担心的是「不够 methodical」，不是「不该做」。
 
 > **原句 3:** "Back then, there was an issue where the Cloud People in Skiff were dying out so fast that their languages couldn’t be recorded. So the Memory sent a group of linguists with the Galleon military to collect as many words as they could."
 
 - **中文理解**：那时候，Skiff 的云民人以快到来不及记录的速度消亡，他们的语言眼看就要失传。于是 Memory 派出一队语言学家，跟着 Galleon 的军队去抢救尽可能多的词汇。
 - **关键词**：dying out / linguists / the Galleon military
-- **为什么这样写**：抢救语言的善举与随军的暴力同框出现——语言学家的清单是长在战舰上的。这个五十年前的由来悄悄给 Language Log 定了性：它天生就是帝国工具，收录词的目的是为了在消亡现场留下档案。Buttress 借出的「普世词表」，血统原来如此。
+- **为什么这样写**：抢救语言的善举与随军的暴力同框出现——语言学家的清单是长在战舰上的。这个五十代前的由来悄悄给 Language Log 定了性：它天生就是帝国工具，收录词的目的是为了在消亡现场留下档案。Buttress 借出的「普世词表」，血统原来如此。
 - **读者视角提示**：对照 Turret 的演讲（Redoubt Lab 与 Galleon 合作造武器）——Memory 与军队的 collaborations 是这个体制的惯例，不是丑闻。语言是另一种开采。
 
 > **原句 4:** "Everybody knows what these words mean, so they’re a good start. Who doesn’t have a homecoming and first cluster, right?"
@@ -76,7 +76,7 @@ modified: "2026-11-02"
 - **中文理解**：「我被 Investigator Plumline 选中了。他们将担任我 Second 的考官，以及 Third 和 Fourth 的导师。」
 - **关键词**：chosen / examiner / adviser
 - **为什么这样写**：一句话的升职通知里没有一丝喜悦——句号一个接一个，像在念别人的档案。曾被匿名审稿人预言「六代内最年轻 investigator」的 Wainscot，此刻念出的是一份被征用的通知：导师制变成了征召制，strategic importance 是兵役理由。
-- **读者视角提示**：对照 Wainscot 的萎靡（膜色暗沉、没力气炫耀）与上一章「银流是生命之源」的教义——被权力选中的滋味，恰好在他身上开始显影。Gardenpath 那句「观念钙化」的回敬，是全书 Plumline 线最直白的一次表态。
+- **读者视角提示**：对照 Wainscot 的萎靡（膜色暗沉、没力气炫耀）与 ch02「银流是生命之源」的教义——被权力选中的滋味，恰好在他身上开始显影。Gardenpath 那句「观念钙化」的回敬，是全书 Plumline 线最直白的一次表态。
 
 ## 本章词汇
 

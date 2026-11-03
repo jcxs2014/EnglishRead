@@ -20,7 +20,7 @@ modified: "2026-11-02"
 - **中文理解**：「他们没告诉你吗？Memory 允许我们一些人换房间，我申请加入你的集群了！你们正缺一个人，我的集群在 Second 考试里折了两个，正好都凑上了。」
 - **关键词**：requested to join / down one person / it all worked out
 - **为什么这样写**：Oriel 的告白裹在行政语言里——「申请」「调配」「正好凑上」，每个词都在替那句没说出口的话降温。三个短句的速度感（问、报、收）是掩饰兴奋的语速：把重大决定讲成手续，是怕吓到对方的人的语法。
-- **读者视角提示**：对照上一章 Gardenpath 的恐惧（「把私人膜交给 Oriel 的触碰」）——Oriel 恰恰选了最近的位置。善意与惊吓在这一刻是同一个东西，取决于你在关系里的哪一侧。
+- **读者视角提示**：对照 ch14 Gardenpath 的恐惧（「把私人膜交给 Oriel 的触碰」）——Oriel 恰恰选了最近的位置。善意与惊吓在这一刻是同一个东西，取决于你在关系里的哪一侧。
 
 > **原句 2:** "The Second Exam is no joke. Plumline drills me every seven journeys, to keep me primed."
 
@@ -34,7 +34,7 @@ modified: "2026-11-02"
 - **中文理解**：可当 Gardenpath 沉进位置时，Oriel 的质地明显不像集群该有的样子。一阵欲望的悸动想从 Gardenpath 体内打出去、深深扎进对方，几乎像个条件反射。
 - **关键词**：un-clustery / throb of desire / like a reflex
 - **为什么这样写**：身体被写成两个意志的战场：throb 有自己的方向感（打出去、扎进去），用 punch 和 sink 两个暴力动词——欲望不请自来，且自带物理学。un-clustery 是 Gardenpath 现场生造的防御性词汇：把感觉命名成「不像集群」，正是为了不叫它的真名。
-- **读者视角提示**：对照上一章的「clustering, nothing weird」的自我说服——重复的否认是本章的心理节拍。身体比语法诚实：reflex 不接受命令。
+- **读者视角提示**：对照本章上文那串「clustering, nothing weird」的自我说服——重复的否认是本章的心理节拍。身体比语法诚实：reflex 不接受命令。
 
 > **原句 4:** "They came to consciousness with a tentacle half formed inside Oriel, and yanked it out with a jolt of shame. What had Oriel been thinking, to force them into becoming clustermates so soon after their unfortunate mistake?"
 
