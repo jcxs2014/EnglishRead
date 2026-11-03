@@ -18,7 +18,7 @@ modified: "2026-11-03"
 
 **中文理解**：屋里，空气里满是紫罗兰的香气，仿佛你刚刚掠过。她跛行下地下室的楼梯。只有在那个没有窗的地方，她才打开灯。
 
-**关键词**：smelled of violets / as if you'd just swept through / no windows / turned on the light
+**关键词**：smelled of violets / as if you'd just swept through / no windows / turn on the light
 
 **为什么这样写**：进门先给嗅觉证据（紫罗兰）再给行为证据（只在无窗处开灯）——她夜里溜回自己的家却像贼，躲的是活人的目光；「你刚扫过」用一句家常比喻把鬼魂写成了风，灵异被日常化到最 Comfortable 的程度。
 
