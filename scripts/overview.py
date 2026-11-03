@@ -24,7 +24,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 
-MODES = {"quotes": "总览引语逐字", "full": "总览整串 + 章节标签对账", "labels": "（chNN）标注层",
+MODES = {"lint": "总览轻量体检（子项齐全/重复短语/行内引语）", "quotes": "总览引语逐字", "full": "总览整串 + 章节标签对账", "labels": "（chNN）标注层",
          "names": "列出总览件（文件名识别，供 gate 用）",
          "need": "按体裁 profile 打印应有总览篇数（供 gate 用）"}
 
@@ -63,6 +63,10 @@ def main():
         n = required_count(rest[0])
         print("?" if n is None else n)
         return 0
+    if mode == "lint":
+        from overviewcheck.lint import main as lint_main
+        return lint_main(rest[0])
+
     if mode == "quotes":
         from overviewcheck.verbatim import main as quotes_main
         try:

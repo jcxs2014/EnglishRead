@@ -444,6 +444,14 @@ _bf_out=$(python3 scripts/bookform.py "$B" --all 2>&1) && _bf_rc=0 || _bf_rc=$?
 echo "$_bf_out"
 [ "$_bf_rc" -eq 1 ] && _blk "⑳整书体检"
 
+# ㉑ 总览轻量体检（2026-11-03 立）——⑭⑮ 只核引语层，本条补「条目结构 + 中文散文」
+#   阻断判据只有一条：金句篇 ≥5 条而**一条解释子项都没有**（读者拿不到任何解释）。
+#   重复短语与行内引语一律提示型（修辞性重复有白名单，行内引语看 d2）。
+#   全库实测 2026-11-03：418 本里 9 本阻断，按「判据变更只对新增书生效」只记账不回溯。
+echo; echo "=== ㉑ 总览轻量体检 ==="
+python3 scripts/overview.py lint "$B" 2>&1
+[ "$?" -eq 1 ] && _blk "㉑总览轻量体检"
+
 _gfail=$(grep -E '^[[:space:]]*❌' "$GATE_LOG" 2>/dev/null | grep -v '｜' | grep -v ' 0 ' | wc -l | tr -d ' ')
 _gfail=${_gfail:-0}
 if [ "$RC_BLOCK" -gt 0 ] || [ "$_gfail" -gt 0 ]; then
@@ -458,6 +466,6 @@ if [ "$RC_BLOCK" -gt 0 ] || [ "$_gfail" -gt 0 ]; then
   echo "══ 正门结论：阻断型（文本层 ❌ ${_gfail} 条 ｜ 退出码层 ${RC_BLOCK} 个 lane）——退出码 1 ══"
   exit 1
 fi
-echo "   （rc 层覆盖 ②③⑦⑧⑲⑳ 六个 lane；其余 14 个仍由文本层 ❌ 计数兜底）"
+echo "   （rc 层覆盖 ②③⑦⑧⑲⑳㉑ 七个 lane；其余 14 个仍由文本层 ❌ 计数兜底）"
 echo "══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══"
 exit 0

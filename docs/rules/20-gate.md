@@ -6,7 +6,7 @@
 ## 1. 跑什么
 
 ```bash
-bash scripts/gate.sh "<书目录>"                  # 书级：20 lane 一次跑完
+bash scripts/gate.sh "<书目录>"                  # 书级：21 lane 一次跑完
 #   ⚠️ "<书目录>" 是**完整路径，含体裁层**：notes/books/<novels|mystery-thriller|short-story-anthologies|non-fiction>/<slug>
 #     只给 slug 会跑错书或直接报无此书（2026-10-21 复核方照 slug 猜体裁、跑出红的实证）
 bash scripts/chapter.sh "<章 md>"                # 章级：写作时每章跑
@@ -18,11 +18,12 @@ python3 scripts/verify_corpus.py "<书目录>" --expect N --expect-source "…" 
 **`quotes.py short`** / **`quotes.py chapter`** / **`quotes.py coverage`** / **`analysis.py nav`** / **`analysis.py inline`** /
 **`structure.py audit`** / **`structure.py anchor`** / 空段扫描 / **`overview.py quotes`** / **`overview.py full`** /
 **`analysis.py xref`** / **`quotes.py blocks`** / **`structure.py keywords`** / check_chinese_layer /
-**`bookform.py --all`**（整书体检——与 `chapter.sh` 同一实现）。
+**`bookform.py --all`**（整书体检——与 `chapter.sh` 同一实现）/ **`overview.py lint`**（总览轻量体检，2026-11-03 新增，见下）。
 引语六件 → `quotes.py`，总览三件 → `overview.py`，结构四件 → `structure.py`，分析六件 → `analysis.py`
 （旧名 → 新命令见 `工具登记.md` 末尾）。
 
 ⚠️ **⑳ 只报其他 lane 不查的维度**（分析层残留空引号 / **模板套话** / **残句缺词** / H1 形态 / 导航项数 / **块数越界** / **引语偏长**）；
+⚠️ **⑪ 总览轻量体检（`overview.py lint`，2026-11-03 立）**：⑭⑮ 只核**引语层**，本条补**条目结构 + 中文散文**——金句篇 ≥5 条而**一条解释子项都没有**（为什么重要 / 呼应关系 / 中文理解全缺）判阻断；重复短语（`X，X`，修辞白名单除外）与行内英文引语判提示。来历：2026-11-03 核 23 本完工书时机器层 23/23 全绿，人读仍见 `00_概述.md`「几天后，几天后，」与 `00_金句精选.md` 27 条引语零子项。全库实测 418 本 → **9 本阻断**（sweet-fury / butcher-of-nazareth / snowbirds / twisted-lies / under-the-same-stars / battle-of-the-round-house / against-everything / no-judgment / this-thing-between-us），按「判据变更只对新增书生效」只记账不回溯。
 ⚠️ **块数 2–15 是硬判据（2026-10-21 用户拍板，上限当日由 10 调整为 15）**：单章超 15 或少于 2 ⇒ 阻断；落在「按本章词数的建议区间」外只打 `⚠️`。
 全库实测 **49 本书 / 577 章 >15 块**（`bruja-s-nest` ch22 211 块）——按「新规则只对新增书籍生效」只记账、不回溯整改，但**翻修到哪章，哪章按新判据过**。
 **模板套话判阻断**：分析字段出现「重新定义 as」「本句描写了场景与人物的反应」「此句通过修辞与节奏把人物的内心状态外化」等 5 类退化串，或同一句在同一字段重复 ≥3 次 —— 这是「写了但没写」（2026-10-21 `ebenezer-scrooge` 实证：33 分钟 40 章、套话 696 次、中文层密度 5%）。全库 551 本实测**只命中这 1 本**，不是误报源；
