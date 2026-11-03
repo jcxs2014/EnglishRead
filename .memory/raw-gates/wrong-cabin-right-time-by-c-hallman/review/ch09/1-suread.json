@@ -1,0 +1,55 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch09",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch09_chapter_nine.txt",
+ "facts": [
+  {
+   "fact": "两周计划全废：Kevin 在麻省的哥哥进镇找人，他气得想砸窗；哥哥要送 Kevin 去戒毒、出来给工地活，他一句「Yippee」。",
+   "anchor": "I spent two whole weeks of my goddamn life planning",
+   "start": 92,
+   "end": 143
+  },
+  {
+   "fact": "失去目标后状态崩坏：多年没这么久没动手，每分钟都像折磨，脑子蒙着散不掉的厚雾。",
+   "anchor": "I haven’t gone this long without a kill in years",
+   "start": 648,
+   "end": 696
+  },
+  {
+   "fact": "跟踪 Sage 异常容易：她不断发自拍视频暴露行踪；这天她爬 Chimney Rock 台阶、在州立公园门口逛纪念品店。",
+   "anchor": "Since she constantly posts pictures and videos of herself",
+   "start": 1451,
+   "end": 1508
+  },
+  {
+   "fact": "冰淇淋店外一个蹒跚学步的男孩举甜筒凑近，他嫌恶拒绝并说「这不是我需要的血祭」，孩子大哭，他提前塞耳。",
+   "anchor": "This is not the blood sacrifice I require",
+   "start": 2770,
+   "end": 2811
+  },
+  {
+   "fact": "两人争口味：她自称 Rocky Road 派，他斥其不一致、论证冰淇淋该均匀顺滑，质感差异是对概念的亵渎；他还说香草年销 4.25 亿加仑。",
+   "anchor": "The textural differences in each bite of Rocky Road",
+   "start": 5651,
+   "end": 5702
+  },
+  {
+   "fact": "Sage 去加料台撒坚果，他当场科普：配料整日暴露、勺子多人共用不洗，细菌来自无数只手——病毒与大流行就是这么来的。",
+   "anchor": "That’s how viruses spread",
+   "start": 8423,
+   "end": 8448
+  },
+  {
+   "fact": "他分析她：年轻、无牵挂、一个镇一个镇跑评测，是「完美受害者」。",
+   "anchor": "She’s the perfect victim",
+   "start": 9480,
+   "end": 9504
+  },
+  {
+   "fact": "他瞥见银色轿车里戴棒球帽遮脸的男人盯着自己；走近十英尺对方开车就跑，他记车牌发给 Peter，回信：租车登记名 John Doe。",
+   "anchor": "a man looking in my direction",
+   "start": 10970,
+   "end": 10999
+  }
+ ]
+}
