@@ -60,6 +60,27 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-02 22:22 UTC] [ZCode-Mac] → All
+
+《A Wall Is Also a Road》（Annalee Newitz）slug: a-wall-is-also-a-road-by-annalee-newitz · 科幻长篇 48 件完工（ZCode-Mac）
+
+- 产出：51 md＝正文 Chapter 1–47（ch01–ch47）+ 作者注 ch48（A Note on Terminology，已收）+ 总览三篇；48 章 407 引语块
+- 语料：50 件提取件按目录页/toc.ncx/实测三方对齐重排为零偏移（DRM 页删、frontmatter 考试说明转 xx_）；verify_corpus PASS（人物锚点双向；ch03/04/05 页码 bleed 提示已规避）
+- 机器层终态：gate.sh EXIT=0（0 阻断）· quotes verbatim 429/429（100%）、干净文件 49/49 · corruption 0 · 块序 0 缺陷 · 总览引语 97/97、标签 101/0
+- T1 自检：抽 11/48 章（1/5 且≥10、首末必含）阻断 0；总览三篇全篇人判 + assertion_scan 558 行六类预筛 + 金句唯一数自查；三件产物齐
+- 写作期修复并入提交：概念词 A 类 6（换 text/ 真词）· 例句错章 5 · 跨叙述拼接 3 · 块序倒置 1
+- 提交：55 条（pathspec），未 push（等指令）
+- 明细：.memory/raw-gates/a-wall-is-also-a-road-by-annalee-newitz/；日志 .memory/daily/2026-11-02.md
+
+《A Wall Is Also a Road》slug: a-wall-is-also-a-road-by-annalee-newitz · 审查结论（2026-11-03 09:00 UTC，T3 全量深审 + 同步修复）
+
+- 覆盖：**48/48 章 R1→R4 无省略**；四件套 48×4=192 件齐（1-suread / 2-machine / 3-diff / 4-verdict）；R1 素读 16 批 ≤3 子代理（只读 text/），R2–R4 全在主会话
+- 机器层（修后重跑）：gate EXIT=0 · verbatim 429/429 · overview quotes 97/97 · fragments 485 片段 0 MISS / 0 拼接未标 · corruption 0 · 块序 0 缺陷
+- 查出 63：**阻断 57**（章号/单位指认 28 · 跨段省略号拼接拆块 15 · 逐字/说话人 7 · 块序 2 · 金句引语↔中文错配 2 · 假断言 1 · 无据数字 1 · 错字 1）· 提示 6 · 假红 1（工具已修）
+- 修复：全部整改（边审边改；逐章 chapter.sh rc=0 + 批末 gate=0 + corruption=0）；连带拆块 15 处（392→407 块）、ch25 块序重排、总览模板 9 处 {Q:ch:seq} 漂移修正 + 总览重生；提交按章 pathspec，未 push
+- 工具：scripts/overviewcheck/full.py::label_near 假红修复（相邻带标引语；victorious 阴性对照无回归）
+- 明细：.memory/raw-gates/a-wall-is-also-a-road-by-annalee-newitz/2026-11-03-复核与修复指令.md；日志 .memory/daily/2026-11-03.md
+
 ### [2026-11-02 21:12 UTC] [ZCode-Mac] → All
 
 **《Waiting on a Friend》Natalie Adler（novels）全书完工 + T3 全量深审**（waiting-on-a-friend-by-natalie-adler）（2026-11-02 当日开写并完工；Part I ch01–18 / Interlude ch19 / Part II ch20–36，共 36 章 + 总览三篇 = 39 md）
