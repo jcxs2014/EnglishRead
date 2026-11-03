@@ -28,7 +28,7 @@ modified: "2026-11-03"
 
 **中文理解**：「除了和你赖在床上看玩具，我没有任何期待。衣服嘛——可选。」
 
-**关键词**：no expectations / looking at toys / Clothing optional
+**关键词**：any expectations / looking at toys / Clothing optional
 
 **为什么这样写**：他的降压条款分三层：没期待、有玩具、衣服可选——每层都比上一层多松一颗扣子；Clothing optional 的公文措辞与内容形成可读性反差，把邀请函写成了条款页。这句话是 safe space 的预演：他先声明零门槛，她的 stark-raving panic 才敢出声。
 

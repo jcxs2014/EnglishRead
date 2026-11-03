@@ -58,7 +58,7 @@ modified: "2026-11-03"
 
 **中文理解**：问题是，他的人生根本没有约会、同居、计划未来的空间。他想要什么不重要——他要不起。
 
-**关键词**：no room in it / planning a future / couldn’t have it
+**关键词**：any room in it / planning a future / couldn’t have it
 
 **为什么这样写**：车内独白把否决权交还给现实：三个名词短语（dating/living together/planning a future）逐项列出爱情的常规套餐，再逐一划掉——他的余生已被父亲的病程预支；It didn't matter what I wanted 的认命句式是照护者哀悼的第一阶段：哀悼自己。casual 条款明明合理，他的体感却是 Not at all——理性与心在章末各执一词。
 
