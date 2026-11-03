@@ -115,8 +115,12 @@ echo; echo "=== ④ corruption_scan（编辑损坏，进门禁）==="
 #   与 2026-09-29「gate.sh 漏 verify_overview_quotes」同族复发。
 #   修法：把 FAIL 行缩进并加 ❌ 标记，使其进入既有聚合判据；
 #   **零计数时不得加标记**（否则每本书都会平白 +1）。
+#   ⚠️ 2026-11-03 修复（afternoon-delight 实证）：原 sed 无条件加 ❌，
+#   FAIL 0 处也变成 `❌ FAIL 0 处` ⇒ 元计数器每本书平白 +1、正门误判
+#   「文本层 1 条阻断、退出码 1」——与上行注释自述的意图相反。改为：
+#   FAIL 0 → ✅（不进聚合），FAIL ≥1 → ❌（进聚合）。
 python3 scripts/corruption_scan.py "$B" 2>&1 | grep -E "FAIL|报告" \
-  | sed -E 's/^  FAIL ([0-9]+) 处/  ❌ FAIL \1 处/'
+  | awk '/^  FAIL 0 处/ { sub(/^  FAIL/, "  ✅ FAIL"); print; next } /^  FAIL [1-9]/ { sub(/^  FAIL/, "  ❌ FAIL"); print; next } { print }'
 
 echo; echo "=== ⑤ sweep_full（引语整串 flat）==="
 python3 scripts/quotes.py full "$B" --quiet 2>&1 | grep -E "✅|❓"

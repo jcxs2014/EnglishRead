@@ -102,7 +102,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：两个 As if 排比先递怨气再自我收回，把「怪母亲」与「爱孩子」放进同一口气里较劲——归因找到了，孩子却动不得，怨气只能悬置。这是她对「将就人生」最诚实的一次解剖：起点是恐惧，中段是习惯，结尾是不忍。
 
-**读者视角提示**：与上章 Georgia 的 Just jump 对照：Georgia 陪她去谈堕胎、尊重她的选择；母亲催婚、替她选安稳——两位「母亲位」人物给她的方向从二十一年前就相反。
+**读者视角提示**：与 ch01 里 Georgia 那句 Just jump 对照：Georgia 陪她去谈堕胎、尊重她的选择；母亲催婚、替她选安稳——两位「母亲位」人物给她的方向从二十一年前就相反。
 
 > **原句 10:** "“I’m open-minded, if not particularly adventurous,” I said once we were seated. “Thanks to you, I’m also pathologically responsible. Georgia asked for my help, so I will help her.”"
 
