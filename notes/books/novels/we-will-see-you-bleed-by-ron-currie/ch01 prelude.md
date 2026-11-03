@@ -28,7 +28,7 @@ modified: "2026-11-03"
 
 > **原句 3:** "Or at least you did until your mother, Rose, showed up and took a seat at your kitchen table as though, rather than having been dead for a decade, she’d merely been out having her hair set for an extremely long time."
 **中文理解**：丈夫 Rheal 前一天去北林散心，跟 Saucier 兄弟划 Allagash 河、篝火边喝威士忌，家里只剩 Babs 一人。就在这时，死去十年的母亲 Rose 走进来，坐到厨房桌边，神态轻松得像只是出门做头发做了太久。
-**关键词**：Rheal（丈夫名）/ Rose（母亲名）/ hair set（做头发）/ a decade（十年）
+**关键词**：Rose（母亲名）/ kitchen table（厨房桌边）/ hair set（做头发）/ a decade（十年）
 **为什么这样写**：「做头发」这个庸常比喻是全段最狠的一笔——十年死亡被折算成一次美发厅的时差，荒诞的轻恰好称出缺席的重；显灵不带阴风惨雾，以家常姿态登场，反而更瘆人。
 **读者视角提示**：母亲死于亨廷顿病（Huntington’s disease），一种遗传性绝症——这条家族引线是埋给后文的，别当闲笔读。
 
