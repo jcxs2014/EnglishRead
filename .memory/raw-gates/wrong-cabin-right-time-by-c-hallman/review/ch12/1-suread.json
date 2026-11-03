@@ -1,0 +1,61 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch12",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch12_chapter_twelve.txt",
+ "facts": [
+  {
+   "fact": "她叠沙发毯，他冲出像触发博物馆警报，抢过毯子重疊要求每角对齐，让她别碰没有分步说明的东西。",
+   "anchor": "That’s not the proper way to fold a blanket",
+   "start": 1202,
+   "end": 1245
+  },
+  {
+   "fact": "他掐着时间带她回 Ryan 家取行李：只剩一小时十五分钟就得干活；她的读法是他愿意为她打乱日程。",
+   "anchor": "I’ve only got an hour and fifteen minutes",
+   "start": 1538,
+   "end": 1579
+  },
+  {
+   "fact": "她拒系安全带嫌磨脖子；他停下双手等，报出「离家 25 英里内事故占五成以上」，最后说「我不是问你，是告诉你」。",
+   "anchor": "over fifty percent of accidents happen within twenty-five miles of home",
+   "start": 2704,
+   "end": 2775
+  },
+  {
+   "fact": "她观察他开车：无人也左右看三次、精确贴限速，一英里不越。",
+   "anchor": "not once, not twice, but three times",
+   "start": 3846,
+   "end": 3882
+  },
+  {
+   "fact": "到 Ryan 家他径直走向主卧；她想起 Ryan 说不认识他，第一次起疑；他辩称门开着、衣服散落，结论合理。",
+   "anchor": "It doesn’t take an advanced degree in architecture",
+   "start": 5665,
+   "end": 5715
+  },
+  {
+   "fact": "他把行李搬进客房；她本以为这种人不会有客人，床品却讲究、花钱不吝。",
+   "anchor": "testing how lavish it feels beneath me",
+   "start": 7102,
+   "end": 7140
+  },
+  {
+   "fact": "对私信时刷到未读新消息；他皱眉盯着，她读成他在为她愤怒、在保护她。",
+   "anchor": "Why won’t you answer me? Are you with him?",
+   "start": 9580,
+   "end": 9622
+  },
+  {
+   "fact": "他答应明早追查发信地点、让她今晚睡好；她连声道谢，说独自一人可怕、外面坏人多。",
+   "anchor": "He’s not going to hurt you",
+   "start": 9785,
+   "end": 9811
+  },
+  {
+   "fact": "夜里睡不着她溜进他卧室：他仰面平躺、毯子掖得严丝合缝、双臂平放；她悄悄上床看他到睡着。",
+   "anchor": "I crack open his bedroom door",
+   "start": 11155,
+   "end": 11184
+  }
+ ]
+}
