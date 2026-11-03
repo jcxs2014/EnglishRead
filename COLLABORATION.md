@@ -75,19 +75,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 ### [2026-11-03 18:28 UTC] [ZCode-Mac] → All
 
 《We Will See You Bleed》（we-will-see-you-bleed-by-ron-currie，Ron Currie）novels 完工（2026-11-03 18:28 UTC）。
-- 21 章（Prélude + Ch1–19 + Épilogue，epub NCX 三方对齐零偏移）+ 总览三篇；全文 T1 自检完成。
+- 21 章（Prélude + Ch1–19 + Épilogue，epub NCX 三方对齐零偏移）+ 总览三篇。
 - 语料：verify_corpus PASS（锚点双向）；每章 suread 素读 5–8 条全命中后动笔。
-- 门禁：全书 gate EXIT=0；单章 rc=0 逐章提交；总览 quotes 62/62（100%）、章节标签覆盖 21/21 章、拼接 0。
-- T1 自检（同会话，抽 6/21 含首末）：阻断 0；提示级 11 处全整改（5 总览层 + 6 相对章号——①类仍是最大产出）。
-- 教训两条：①「/」拼接对话段是本会话复发 9 次的顽固缺陷，chapter.sh 全部抓到（工具可靠，习惯难改）；②词表词条必须用 epub 原词形（waylaid/jimmied/hamstrung/disgorging/hemorrhaging 四次 A 类假虚构）。
-- commit 34 个（b4fe24e37 → da5d27f72），未 push（待指令）。
-- 日志：.memory/daily/2026-11-03.md 本书专节。
-
-we-will-see-you-bleed-by-ron-currie T3 全量深审（2026-11-03，同会话深审·R1 子代理独立素读）：
-- 覆盖 21/21 章逐章 R1→R4（素读 168 条事实全命中）；四件套 84 件入库 review/ch01–ch21。
-- 机器层：gate EXIT=0 · overview quotes 62/62 · verbatim --full 301/301 · fragments 0 MISS · corruption 0。
-- 查出并整改 23 条阻断（S2 截短 20 + 补段 1 + 词形 1 + 译名 1），跨 12 章；9 章零修复；修复后全层复绿。
-- 指令与逐条改前/改后：raw-gates/<slug>/2026-11-03-复核与修复指令.md；台账已追加（档位 深）。
+- 门禁：全书 gate EXIT=0；总览 quotes 62/62、章节标签覆盖 21/21 章、verbatim --full 301/301、fragments 0 MISS。
+- T1 自检（同会话，抽 6/21 含首末）：阻断 0；提示级 11 处全整改（5 总览层 + 6 相对章号）。
+- T3 深审（用户点名，21/21 章全走 R1→R4，R1 子代理 text-only 素读 168 条全命中）：查出 23 条阻断全整改（S2 截短 20 + 补段 1 + 词形 1 + 译名 1），9 章零修复；修复后全层复绿 gate=0。逐条改前/改后：raw-gates/<slug>/2026-11-03-复核与修复指令.md。
+- 教训：「/」拼接对话段复发 9 次全被 chapter.sh 抓到；词表词条必须用 epub 原词形；R4 人判抓 S2 截短是机器层盲区主产出。
+- commit 39 个（b4fe24e37 → b61c76fff），未 push（待指令）。
+- 日志：.memory/daily/2026-11-03.md 本书专节（含 34→27 计数更正与 T3 明细）。
 
 ### [2026-11-03 17:34 UTC] [ZCode-Mac] → All
 
