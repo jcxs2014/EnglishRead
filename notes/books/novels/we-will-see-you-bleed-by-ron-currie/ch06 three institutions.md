@@ -59,6 +59,8 @@ modified: "2026-11-03"
 > "Not that I need much of an excuse."
 >
 > "It probably says something about your employer that you’d have a better shot to keep your job if you’d just diddled some kids."
+>
+> "Clement smiled and shrugged. “You said it yourself. This life—who can figure it?"
 **中文理解**：Clement 今晨被 Cardinal Bernard Law 召去波士顿（Rheal：「所以说一早就喝 brown liquor」「你老板那边，你哪怕去猥亵几个孩子都比现在更有机会保住饭碗」——神父笑答：这人生，谁猜得透）。
 **关键词**：Cardinal Bernard Law（罗枢机主教）/ brown liquor（棕色烈酒）/ diddled some kids（猥亵孩子）
 **为什么这样写**：召见与酗酒、教会与性侵丑闻挤在四个对话气泡里——1984 年的读者还不知道 Law 的名字意味着什么，作者把讽刺埋成了先知式预言；笑话越轻，指控越重。
@@ -77,7 +79,7 @@ modified: "2026-11-03"
 **读者视角提示**：这是全书最诚实的一场权谋交易：双方都亮出罪证，再握手——Babs 后来对这条「extralegal options」清单的每一次兑现，根子都在这里。
 
 > **原句 10:** "But there was no rest to be had—when Babs arrived home with Rheal, Rita was waiting for them with the news that the previous evening, just hours after the bridge collapse, somebody had burned Connie Fecteau in effigy on her own front lawn. While her little girls were home, no less."
-**中文理解**：交保回家没有喘息——Rita 迎面带来消息：桥塌后仅仅几小时，有人在 Connie Fecteau 自家草坪上烧了她的模拟像；而她的小女儿们当时就在家。
+**中文理解**：Babs 与 Rheal 到家没有喘息——Rita 迎面带来消息：桥塌后仅仅几小时，有人在 Connie Fecteau 自家草坪上烧了她的模拟像；而她的小女儿们当时就在家。
 **关键词**：burned in effigy（烧模拟像）/ front lawn（自家草坪）/ little girls（小女儿们）
 **为什么这样写**：暴力的按门铃速度快过司法——昨天她还是被喷「Putain」的过线者，今晚肖像已在燃烧；「孩子们在家」三个字把恐吓推到儿童心理创伤的刻度上。
 **读者视角提示**：这场火没有署名——Aucoin？愤怒的邻居？Babs 的转向（宣誓接管）恰恰建立在「秩序已不存在」的证据上。

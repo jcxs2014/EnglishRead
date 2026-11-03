@@ -49,10 +49,10 @@ modified: "2026-11-03"
 **读者视角提示**：她其实已经答应了——「如果你得到」用的是条件句，而下一章起每一条都在兑现；Carmeline 的冷笑「那跟现在有什么区别」是全书最好的注脚。
 
 > **原句 6:** "Cardinal Law himself probably knows the name Harold Aucoin,” he said. “There is no greater benefactor of the fund to restore Saints Peter and Paul Basilica in Lewiston."
-**中文理解**：Babs 上午来教堂报信（Aucoin 的人下午要砸场、劝他躲开保住教职），Clement 回以讽刺：连律枢机主教本人多半都听过 Harold Aucoin 的大名——刘易斯顿圣伯多禄圣保禄大殿修复基金没有比他更大的捐主。
-**关键词**：Cardinal Law（律枢机主教）/ benefactor（捐主）/ Basilica（大殿）
+**中文理解**：Clement 回以讽刺：连 Law 枢机本人多半都听过 Harold Aucoin 的大名——刘易斯顿圣伯多禄圣保禄大殿修复基金，没有比他更大的捐主。
+**关键词**：Cardinal Law（劳枢机主教）/ benefactor（捐主）/ Basilica（大殿）
 **为什么这样写**：教会的账本被一句话戳穿——黑钱的尽头是穹顶与彩窗；「no greater benefactor」的反讽把 cleansed money 的流水线走完给你看：毒贩—支票—圣人名号。
-**读者视角提示**：Clement 拒绝躲开的理由同样漂亮：「主教是政治动物，我不够聪明，我只是在听上帝觉得什么对」——今日之后他不只是 Babs 的神师，还是同案犯。
+**读者视角提示**：场景是 Babs 上午登门报信——原文 "Word is the company has hired Aucoin to do a little strikebreaking"（text/ch05 同段），她劝 Clement 躲开保住教职；Clement 拒绝躲开的理由同样漂亮：「主教是政治动物，我不够聪明，我只是在听上帝觉得什么对」——今日之后他不只是 Babs 的神师，还是同案犯。
 
 > **原句 7:** "The only thing that remained from that time when Head of Falls had been a neighborhood was the Two-Cent Bridge, which connected Head of Falls to the campus of the paper mill. The bridge was so named because it had cost two pennies for workers to cross, on foot, to report for work. It was the last standing pedestrian toll bridge in the country, and though it hadn’t been used by workers in a generation, figured prominently in the plans for the rally."
 **中文理解**：Head of Falls 曾是个街区，城市更新把法裔迁下河、房屋推平后只剩两分钱桥还连着造纸厂；桥名来自工人步行过河上班的两分钱过桥费；这是全国最后一座人行收费桥，虽然一代人没再用它通勤，却在此日集会方案里唱主角。

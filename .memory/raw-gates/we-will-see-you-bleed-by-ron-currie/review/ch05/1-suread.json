@@ -1,0 +1,64 @@
+{
+ "chapter": "ch05",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 188,
+   "end": 257,
+   "fact": "Babs 在自家厨房餐桌旁与 Rita、Carmeline、Stella、Bernette 抽烟喝咖啡、",
+   "anchor": "They were seated at Babs’s k…"
+  },
+  {
+   "ok": true,
+   "start": 2360,
+   "end": 2403,
+   "fact": "Rita 说她召集大家是因为感到再不改变社区就将不复存在；Babs 反问她凭什么在回来 a whole",
+   "anchor": "this community is no longer …"
+  },
+  {
+   "ok": true,
+   "start": 5627,
+   "end": 5649,
+   "fact": "Rita 讲述她在外地约会的意大利男友 Luca（Mafia 研究方向的博士候选人）给出的公式——犯罪的",
+   "anchor": "I want you to lead it,…"
+  },
+  {
+   "ok": true,
+   "start": 6498,
+   "end": 6529,
+   "fact": "Babs 拒绝并自曝旧事：I spent five years in a convent（在无人相识的女",
+   "anchor": "But I was fourteen, and I kn…"
+  },
+  {
+   "ok": true,
+   "start": 11874,
+   "end": 11933,
+   "fact": "Babs 到教堂找 Clement 神父（他在不到 twenty-four hours 前刚表态支持罢工",
+   "anchor": "the company has hired Aucoin…"
+  },
+  {
+   "ok": true,
+   "start": 22220,
+   "end": 22280,
+   "fact": "两路游行分别定于 4 p.m.（大队沿 Front Street 绕行去 H&W 一号门）与 4:15（",
+   "anchor": "set to begin at 4 p.m. (for …"
+  },
+  {
+   "ok": true,
+   "start": 35668,
+   "end": 35726,
+   "fact": "桥上一男子保持笔直倒立姿势跳水入河引发欢呼、随即又有两人跳河、数百人随带头者齐跳顿足震得桥吱嘎作响；同时",
+   "anchor": "they’d come to fool the stri…"
+  },
+  {
+   "ok": true,
+   "start": 43437,
+   "end": 43523,
+   "fact": "Babs 从靴中抽出 Rheal 的 expandable nightstick 挥打闹事者：一棍击中",
+   "anchor": "swept downriver by the curre…"
+  }
+ ]
+}

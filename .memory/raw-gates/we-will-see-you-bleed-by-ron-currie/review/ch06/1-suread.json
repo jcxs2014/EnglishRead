@@ -1,0 +1,64 @@
+{
+ "chapter": "ch06",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 627,
+   "end": 706,
+   "fact": "开头（集会 Twenty-four hours later 之后）：Waterville 警长 Roy",
+   "anchor": "state police had stumbled on…"
+  },
+  {
+   "ok": true,
+   "start": 3457,
+   "end": 3546,
+   "fact": "Davies 办公室对峙（Captain Bates 在座）：Davies 揭 Babs 旧账——196",
+   "anchor": "Babs went away at exactly th…"
+  },
+  {
+   "ok": true,
+   "start": 5858,
+   "end": 5977,
+   "fact": "Davies 给 Babs 两条路：door number one 是约三十年刑期——除上述罪名（因她拉",
+   "anchor": "criminal conspiracy, incitem…"
+  },
+  {
+   "ok": true,
+   "start": 15419,
+   "end": 15447,
+   "fact": "数小时后 Bates 独自到牢房找 Babs，先套问 Sacha（Scott）被杀时在做什么；Babs",
+   "anchor": "He’d just finished raping me…"
+  },
+  {
+   "ok": true,
+   "start": 17584,
+   "end": 17631,
+   "fact": "Bates 摊出真正来意：策划让 Roy Davies 被劝辞职（encouraged to resig",
+   "anchor": "you and I enjoy a long and f…"
+  },
+  {
+   "ok": true,
+   "start": 14225,
+   "end": 14303,
+   "fact": "同日 Just shy of noon，Rheal 受 Babs 之托上门探望 Clement 神父（左",
+   "anchor": "My presence has been request…"
+  },
+  {
+   "ok": true,
+   "start": 19787,
+   "end": 19849,
+   "fact": "当天法务罕见提速：By three DA 办公室拿出认罪协议、Babs 因其要求认罪而 stoutly",
+   "anchor": "she had an agreement that al…"
+  },
+  {
+   "ok": true,
+   "start": 40527,
+   "end": 40589,
+   "fact": "结尾：Rheal 北上 Dallas Plantation 找 Saucier 兄弟（Ray 与 Nor",
+   "anchor": "you tink Ma would let us sta…"
+  }
+ ]
+}

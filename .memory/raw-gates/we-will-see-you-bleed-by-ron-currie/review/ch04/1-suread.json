@@ -1,0 +1,64 @@
+{
+ "chapter": "ch04",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 571,
+   "end": 648,
+   "fact": "罢工拖了一年多，周四工会例会移到旧 Gilman Street 学校体育馆（可挤约两千人）；Jesse",
+   "anchor": "had come to support the stri…"
+  },
+  {
+   "ok": true,
+   "start": 3897,
+   "end": 3997,
+   "fact": "Jackson 说管理层招进黑人工人是要让黑白互斗，大家的共同敌人是Mill 的老板；当天集会由 Jac",
+   "anchor": "dozens of strikers, cash-str…"
+  },
+  {
+   "ok": true,
+   "start": 5125,
+   "end": 5175,
+   "fact": "Babs 登台直说工会已撤回对罢工的支持，并摆出选项一「放弃」：工贼已被公司视为正式雇员，只有工贼离开或",
+   "anchor": "the union has withdrawn its …"
+  },
+  {
+   "ok": true,
+   "start": 7046,
+   "end": 7086,
+   "fact": "有女性喊话说一直在躺平挨打，另一女性提议明天拿 Louisville Slugger 球棍伏击二班下班的",
+   "anchor": "this mob was comprised entir…"
+  },
+  {
+   "ok": true,
+   "start": 11691,
+   "end": 11746,
+   "fact": "Father Clement 从场内座位走上台，把麦克风怼到放大器上用啸叫镇住全场，宣布将公开支持罢工（",
+   "anchor": "I’m going to come out public…"
+  },
+  {
+   "ok": true,
+   "start": 15870,
+   "end": 15909,
+   "fact": "晚上十点 Rita 到 Carmeline Bérubé（五个儿子的母亲，自己仍有工作，丈夫只会生闷气）",
+   "anchor": "I already talked to Bernette…"
+  },
+  {
+   "ok": true,
+   "start": 19054,
+   "end": 19117,
+   "fact": "Claude 独自开车在 Auburn 找 Harold Aucoin 的宅邸，六小时里加油、抽完一整包",
+   "anchor": "he’d been looking for a road…"
+  },
+  {
+   "ok": true,
+   "start": 30539,
+   "end": 30603,
+   "fact": "Claude 持 .45 摸进卧室找到床上的 Aucoin 和他的 Doberman；Aucoin 认出",
+   "anchor": "I’ve had power in Lewiston f…"
+  }
+ ]
+}
