@@ -4,64 +4,52 @@
  "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch09_chapter_nine.txt",
  "facts": [
   {
-   "fact": "Travis 哀叹两周心血全废：他亲眼看着 Kevin 在麻省的哥哥进镇找人，别人眼里是感人团聚，他气得想砸烂家里每一扇窗。",
-   "anchor": "I spent two whole weeks of my goddamn life planning for Kevin",
+   "fact": "两周计划全废：Kevin 在麻省的哥哥进镇找人，他气得想砸窗；哥哥要送 Kevin 去戒毒、出来给工地活，他一句「Yippee」。",
+   "anchor": "I spent two whole weeks of my goddamn life planning",
    "start": 92,
-   "end": 153
+   "end": 143
   },
   {
-   "fact": "Kevin 的人生反转：哥哥要送他去戒毒所，出来后还给他一份建筑公司的工作——Travis 一句「Yippee」把祝福反讽到底。",
-   "anchor": "His brother’s going to take him to rehab",
-   "start": 473,
-   "end": 513
-  },
-  {
-   "fact": "失去目标后他自述状态崩坏：多年没这么久没动手，每一分钟都是折磨，脑子像蒙了一层散不掉的厚雾，不清醒、绷到极限。",
+   "fact": "失去目标后状态崩坏：多年没这么久没动手，每分钟都像折磨，脑子蒙着散不掉的厚雾。",
    "anchor": "I haven’t gone this long without a kill in years",
    "start": 648,
    "end": 696
   },
   {
-   "fact": "他分析 Kevin 之所以是「完美目标」：在 Lake Lure 没有朋友，家人早被他偷够用够后断绝往来，没人会替他追查。",
-   "anchor": "Kevin was a nobody.",
-   "start": 909,
-   "end": 928
-  },
-  {
-   "fact": "跟踪 Sage 异常轻松：她不断发照片视频暴露行踪；这天她爬了 Chimney Rock 美国旗台阶，正在州立公园门口逛纪念品店。",
-   "anchor": "Since she constantly posts pictures and videos of herself, I know exactly where she is and what she is doing",
+   "fact": "跟踪 Sage 异常容易：她不断发自拍视频暴露行踪；这天她爬 Chimney Rock 台阶、在州立公园门口逛纪念品店。",
+   "anchor": "Since she constantly posts pictures and videos of herself",
    "start": 1451,
-   "end": 1559
+   "end": 1508
   },
   {
-   "fact": "小镇冰淇淋店外，一个蹒跚学步的小男孩举着融化的甜筒凑到他面前，他嫌恶地拒绝并说出那句「这不是我需要的血祭」，孩子当场大哭；他提前一秒把手指塞进耳朵。",
+   "fact": "冰淇淋店外一个蹒跚学步的男孩举甜筒凑近，他嫌恶拒绝并说「这不是我需要的血祭」，孩子大哭，他提前塞耳。",
    "anchor": "This is not the blood sacrifice I require",
    "start": 2770,
    "end": 2811
   },
   {
-   "fact": "排队时二人争论口味：Sage 自称 Rocky Road 派，他斥其为「异端」，论证冰淇淋本该均匀顺滑，Rocky Road 的质感差异是对这个概念本身的亵渎。",
-   "anchor": "The textural differences in each bite of Rocky Road are a disgrace to the concept of ice cream",
+   "fact": "两人争口味：她自称 Rocky Road 派，他斥其不一致、论证冰淇淋该均匀顺滑，质感差异是对概念的亵渎；他还说香草年销 4.25 亿加仑。",
+   "anchor": "The textural differences in each bite of Rocky Road",
    "start": 5651,
-   "end": 5745
+   "end": 5702
   },
   {
-   "fact": "Sage 加料台拿坚果时他当场科普恶心：配料全天暴露、勺子多人共用不洗，细菌来自无数只手——「病毒就是这样传播的，大流行病就是这样发生的」。",
-   "anchor": "That’s how viruses spread. That’s how pandemics happen",
+   "fact": "Sage 去加料台撒坚果，他当场科普：配料整日暴露、勺子多人共用不洗，细菌来自无数只手——病毒与大流行就是这么来的。",
+   "anchor": "That’s how viruses spread",
    "start": 8423,
-   "end": 8477
+   "end": 8448
   },
   {
-   "fact": "约会中他瞥见银色轿车里戴棒球帽遮脸的男人盯着自己；对方在他走近十英尺时开车就跑，他记下车牌发给 Peter，回信：租车公司登记名是 John Doe（无名氏）。",
-   "anchor": "Looks like a rental car registered to a John Doe",
-   "start": 12057,
-   "end": 12105
+   "fact": "他分析她：年轻、无牵挂、一个镇一个镇跑评测，是「完美受害者」。",
+   "anchor": "She’s the perfect victim",
+   "start": 9480,
+   "end": 9504
   },
   {
-   "fact": "Peter 此前已查出是两个 IP 在搜他，而 Sage 那条线的活动没有任何可疑信号——她被排除；但银轿车证明另有其人，他必须弄清为什么。",
-   "anchor": "eliminating Sage as the suspect",
-   "start": 11204,
-   "end": 11235
+   "fact": "他瞥见银色轿车里戴棒球帽遮脸的男人盯着自己；走近十英尺对方开车就跑，他记车牌发给 Peter，回信：租车登记名 John Doe。",
+   "anchor": "a man looking in my direction",
+   "start": 10970,
+   "end": 10999
   }
  ]
 }

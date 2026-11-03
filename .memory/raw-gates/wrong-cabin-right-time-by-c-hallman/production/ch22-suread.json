@@ -4,64 +4,70 @@
  "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch22_chapter_twenty_two.txt",
  "facts": [
   {
-   "fact": "Sage 醒来发现一只手被束线带扣在 Travis 的床头上；他不在床上，她就先闭眼幻想：做一条镶水钻束线带的时尚线，也许有市场；还该给「被帅哥扣押过的女人」找互助小组。",
-   "anchor": "I daydream about starting a fashion line for bedazzled zip ties",
-   "start": 397,
+   "fact": "Sage 醒来发现一只手被扣在床头上；他那半床铺得整齐，人不在。",
+   "anchor": "a hand zip-tied to Travis’s headboard",
+   "start": 108,
+   "end": 145
+  },
+  {
+   "fact": "她幻想做镶水钻束线带时尚线，还想给「被帅哥扣押过的女人」找互助小组。",
+   "anchor": "bedazzled zip ties",
+   "start": 442,
    "end": 460
   },
   {
-   "fact": "她一动手腕床头发响，他立刻进房抱臂怒问「你到底怎么回事」：不能不经同意就给人下药。",
+   "fact": "他冲进房抱臂怒问：不能不经同意就给人下药。",
    "anchor": "You can’t just go around drugging people without their consent",
    "start": 970,
    "end": 1032
   },
   {
-   "fact": "他强调那些是「我选择不告诉你的私人回忆」——她不能替他做这种决定，他是在不情愿的情况下说出来的。",
-   "anchor": "I shared that information unwillingly",
-   "start": 1898,
-   "end": 1935
+   "fact": "他强调那些是他选择不告诉她的私人回忆：她不能替他做这种决定，他是不情愿说出来的。",
+   "anchor": "They’re my private memories that I chose to keep from you",
+   "start": 1790,
+   "end": 1847
   },
   {
-   "fact": "她嘴上道歉是希望他消气，心里完全不愧：他那番失控的坦白正是她需要的，为了「我们的关系」也该有。",
-   "anchor": "Honestly, I’m not sorry at all",
-   "start": 2161,
+   "fact": "她嘴上道歉是希望他消气，心里一点也不愧：他需要那一次，他们的关系需要。",
+   "anchor": "I’m not sorry at all",
+   "start": 2171,
    "end": 2191
   },
   {
-   "fact": "她手腕还扣着，就随口问：「我们现在算在谈恋爱吗？还是这算你版本奇怪的过夜派对？」",
+   "fact": "她手腕还扣着，就问他俩现在算在谈恋爱吗，还是他版本怪异的过夜派对。",
    "anchor": "Are we, like . . . in a relationship now",
    "start": 2334,
    "end": 2374
   },
   {
-   "fact": "他用自己的数据库加她的账号追出 Eli 的动向：人已经到 Lake Lure，昨晚入住 Lodge——她胃里一紧，那种紧张甚至能误认成兴奋。",
+   "fact": "他追出 Eli 动向：人已到 Lake Lure、住 Lodge；她胃紧，紧张甚至像兴奋。",
    "anchor": "He’s here already",
    "start": 3808,
    "end": 3825
   },
   {
-   "fact": "她困惑：她发那些挑逗消息就是为了引他出来、假装约会；他脸色一沉说，别指望他会通知你——她想吐。",
-   "anchor": "I don’t think he has any intention of letting you know when he plans on visiting you",
-   "start": 5311,
-   "end": 5395
-  },
-  {
-   "fact": "她本来因为看到 Eli 与未婚妻的合影而心软，这一刻彻底改观：这男人危险，她要他消失——不管他的未婚妻、家人，她不在乎，他可以去死。",
-   "anchor": "If he’s willing to fly across the country to come here with the intent of raping me—or worse—he can die",
-   "start": 5998,
+   "fact": "她本来因看到 Eli 与未婚妻合影心软，此刻改观：他危险，她要他消失——不管他的未婚妻、家人。",
+   "anchor": "he can die",
+   "start": 6091,
    "end": 6101
   },
   {
-   "fact": "他讲计划：她负责把 Eli 引到安静处，他带针出来让其失去行动能力，醒来时已被绑在地下室桌上；场地不是工厂而是他名下的火葬场——已停业、在街上看不到的地块上，过去还是宠物公墓。",
+   "fact": "他讲计划：她引他到安静处，他带针放倒，醒来被绑地下室；场地是他名下火葬场，已停业、街上看不到，原为宠物公墓。",
    "anchor": "I own a crematorium",
    "start": 7774,
    "end": 7793
   },
   {
-   "fact": "他忽然从背后锁住她，刀贴咽喉，低声说杀她很容易：一刀划开颈动脉，她几分钟就会死——他也懂怎么清理血迹；她说不信他会伤她，他答「我不知道那是不是真的」。",
-   "anchor": "I could kill you right now",
-   "start": 8753,
-   "end": 8779
+   "fact": "他从背后锁她、刀贴咽喉说杀她很容易；她说不信他会伤她，他答「我不知道那是不是真的」。",
+   "anchor": "I don’t know if that’s true",
+   "start": 9404,
+   "end": 9431
+  },
+  {
+   "fact": "事毕她说想跟他一起去杀 Eli；他点头，随后一整天追踪 Eli。",
+   "anchor": "I want to go with you when you kill him",
+   "start": 12907,
+   "end": 12946
   }
  ]
 }

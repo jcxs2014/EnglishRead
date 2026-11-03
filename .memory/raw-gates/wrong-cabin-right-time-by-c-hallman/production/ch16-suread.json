@@ -4,58 +4,64 @@
  "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch16_chapter_sixteen.txt",
  "facts": [
   {
-   "fact": "Sage 找零食时拉开橱柜，看到整层架子上全是标着「刀具保养日志」的本子——有点发毛，回楼上休息。",
+   "fact": "Sage 找零食拉开橱柜，看到整层标着「刀具保养日志」的本子，发毛回楼上。",
    "anchor": "an entire shelf of notebooks labeled",
    "start": 668,
    "end": 704
   },
   {
-   "fact": "她搜 Travis 的姐姐：公开人物但家庭信息很少，翻了很久找到 Leah Blacksburg 的讣告，心提到嗓子眼点进去看死因。",
+   "fact": "她搜他的家庭信息，翻了很久找到 Leah Blacksburg 的讣告，点进去看死因。",
    "anchor": "an obituary for Leah Blacksburg",
    "start": 1412,
    "end": 1443
   },
   {
-   "fact": "死因是车祸：出事时 Travis 就在车上、他活了下来，Leah 没有——她说不清自己是替他难过还是庆幸他与姐姐的死无关。",
-   "anchor": "A car accident. Travis was in the car with her when it happened, and he survived",
+   "fact": "死因是车祸：出事时他在车上、他活了下来，Leah 没有；她说不清是替他难过还是庆幸他与姐姐的死无关。",
+   "anchor": "A car accident. Travis was in the car with her",
    "start": 1550,
-   "end": 1630
+   "end": 1596
   },
   {
-   "fact": "她把线索连成串：小镇失踪人口、大量漂白水、夜闯 Ryan 家、完美的行凶装束——在房里来回踱步爆粗「Oh my god」。",
-   "anchor": "Missing people in a small town, large quantities of bleach, breaking into Ryan’s house, and a perfect kill outfit",
+   "fact": "她把线索连起来：小镇失踪人口、大量漂白水、夜闯 Ryan 家、行凶装束——在房里来回踱步爆粗。",
+   "anchor": "Missing people in a small town",
    "start": 3621,
-   "end": 3734
+   "end": 3651
   },
   {
-   "fact": "她摸黑进车库：两辆车（环保小车和那辆差点撞到她的 SUV），墙边灰防水布盖着东西——掀开是无数瓶漂白水堆在一起，旁边还有成捆的绳子和整包束线带。",
-   "anchor": "I hold my breath as I approach the tarp, carefully pulling it off the pile to reveal countless bottles of bleach stacked up near each other",
+   "fact": "车库墙边灰防水布下是无数瓶漂白水，旁边成捆绳子与整包束线带。",
+   "anchor": "I hold my breath as I approach the tarp",
    "start": 5244,
-   "end": 5383
+   "end": 5283
   },
   {
-   "fact": "SUV 后备箱铺着塑料布：她认定这是为了让「处理证据」更省事——她拿到想要的证据，胸口却像坠石，几乎要吐。",
-   "anchor": "In the back, lining the trunk, is plastic sheeting",
-   "start": 5721,
+   "fact": "SUV 后备箱铺着塑料布；她认定是为处理证据更省事，胸口坠石几乎想吐。",
+   "anchor": "plastic sheeting",
+   "start": 5755,
    "end": 5771
   },
   {
-   "fact": "她回房路上走廊灯亮，Travis 抱臂站在那；她摊牌问「你是连环杀手吗」，他平静逼近反问「如果我是呢」。",
-   "anchor": "as he slowly steps toward me",
-   "start": 7172,
-   "end": 7200
+   "fact": "走廊灯亮，他抱臂站着；她问「你是连环杀手吗」，他平静逼近反问「如果我是呢」。",
+   "anchor": "And what if I am?",
+   "start": 7141,
+   "end": 7158
   },
   {
-   "fact": "她追问「你会杀我的跟踪者吗」，他答「是，我正计划着」；接着他主动说出「我不再打算杀你了」，她抓住那个词「Anymore？」（以前打算过？）被他这句喂饱了恐惧。",
+   "fact": "她追问会不会杀她的跟踪者，他答「是，我正计划着」；随后说「我不再打算杀你了」。",
    "anchor": "I’m not planning on killing you anymore",
    "start": 7803,
    "end": 7842
   },
   {
-   "fact": "他拿束线带把她推进主卧：一根套她手腕、一根套自己手腕、扣在一起——「今晚你跟我睡」；她意识到逃不掉，因为他能在她跨州之前追上她。",
+   "fact": "他拿束线带把她推进主卧：一根套她手腕、一根套自己、扣在一起——「今晚你跟我睡」。",
    "anchor": "We approach his bed, and he wraps a zip tie around my wrist",
    "start": 8884,
    "end": 8943
+  },
+  {
+   "fact": "她整夜盘算逃生，最后成形一个「很坏、非常坏」但可能是唯一的主意。",
+   "anchor": "a bad idea, a really bad one",
+   "start": 10263,
+   "end": 10291
   }
  ]
 }

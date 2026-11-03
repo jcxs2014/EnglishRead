@@ -4,52 +4,52 @@
  "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch03_chapter_three.txt",
  "facts": [
   {
-   "fact": "Travis 通过城市摄像头盯梢目标 Kevin：清晨六点起床翻检前夜攒下的酒瓶，翻到剩酒就喝掉再睡回笼觉，翻不到就气冲冲出门挣当日酒钱——作息规律到「patterns are immaculate」。",
-   "anchor": "Six a.m., he wakes up, sorts through the copious amounts of booze bottles he’s collected the night before.",
-   "start": 141,
-   "end": 247
+   "fact": "Travis 通过城市摄像头盯梢 Kevin：清晨六点起床翻检前夜攒下的酒瓶，翻到剩酒就喝掉再睡，翻不到就气冲冲出门找酒钱。",
+   "anchor": "Watching Kevin through the city cams",
+   "start": 35,
+   "end": 71
   },
   {
-   "fact": "他打包每次行动都带的 kit：换洗衣物、牙刷，以及本次特意选定的工具；一切按计划就绪，还自夸「The genius in me makes me smile sometimes」。",
-   "anchor": "A change of clothes, toothbrush, and the specific tool I’ve selected for this.",
+   "fact": "他打包每次行动必带的一套：换洗衣物、牙刷，以及本次选定的工具；一切按计划就绪。",
+   "anchor": "A change of clothes, toothbrush, and the specific tool",
    "start": 1030,
-   "end": 1108
+   "end": 1084
   },
   {
-   "fact": "电脑警报响起：粉色头发的 Sage 正绕着他房子「螃蟹走」、想扒窗偷看，在他眼里像看了太多烂忍者电影的小孩；她徒劳无功后沿车道走人，连掩饰都懒得做。",
-   "anchor": "Watching her trying to sneak around the perimeter of my house is like watching a child who’s invested a lot of time in watching bad ninja movies.",
-   "start": 1661,
-   "end": 1806
+   "fact": "警报响：Sage 绕屋「螃蟹走」想扒窗偷看；他看她像看一个看了太多烂忍者片的孩子，她走时连掩饰都懒得做。",
+   "anchor": "like watching a child who’s invested a lot of time in watching bad ninja movies",
+   "start": 1726,
+   "end": 1805
   },
   {
-   "fact": "他提醒自己周四杀 Kevin，随即拍板「下一个就杀她」，决定从今天开始、在日程表的空闲时段里策划她的死；他还搜出她的 Instagram，证实了 Airbnb 测评师的说法，认定她是好目标。",
-   "anchor": "Then I could kill her next. Yes! It’s decided. I will start planning her demise today, during my scheduled free time.",
+   "fact": "他提醒周四杀 Kevin，随即决定下一个杀她，从今天起在「日程空闲时段」策划；他搜到她的 Instagram，证实她是 Airbnb 测评师。",
+   "anchor": "Then I could kill her next. Yes! It’s decided",
    "start": 2927,
-   "end": 3044
+   "end": 2972
   },
   {
-   "fact": "午夜潜入 Ryan 家：撬开后门、逐间查看，在主卧看到熟睡的 Sage——月光下皮肤像瓷器、粉发像光环铺在枕上、黑睫毛扇在脸颊，安静得与白天的性格判若两人。",
-   "anchor": "her skin seems porcelain, making her look like a doll.",
+   "fact": "午夜潜入 Ryan 家：撬开后门、逐间查看，主卧里月光下的 Sage 像瓷器、粉发铺成光环、睫毛扇在脸颊。",
+   "anchor": "her skin seems porcelain",
    "start": 5358,
-   "end": 5412
+   "end": 5382
   },
   {
-   "fact": "他站在床尾凝视许久，承认此刻她毫无防备、随时可杀，但「还不在日程上」——计划压过冲动；他还翻检了她的洗漱台，评价「nothing out of the ordinary for a woman her age」。",
-   "anchor": "If I wanted to, I could kill her tonight. But I can’t, because it’s not on the schedule yet.",
-   "start": 5920,
-   "end": 6012
+   "fact": "他站在床尾承认此刻随时能杀她，但「还不在日程上」；他还翻检了她的洗漱台，评价一切普通。",
+   "anchor": "it’s not on the schedule yet",
+   "start": 5983,
+   "end": 6011
   },
   {
-   "fact": "碰落画框惊醒 Sage，他闪进衣柜留一寸门缝；她全裸举着辣椒喷雾出来，对着地上的画怒吼「He better not charge me for that」，还扬言这次真要喷 Ryan——他把「this time」这条信息存档备用。",
-   "anchor": "The light in the hallway flickers on, and a moment later Sage appears . . . completely naked.",
-   "start": 7729,
-   "end": 7822
+   "fact": "他碰落画框惊醒她，闪进衣柜留缝；她全裸举着辣椒喷雾出来，对着画骂「He better charge me for that」，并说这次真要喷 Ryan。",
+   "anchor": "completely naked",
+   "start": 7805,
+   "end": 7821
   },
   {
-   "fact": "他从二楼窗户翻逃，落地滚进毒藤丛，诅咒自己今天笨拙、怪她打乱原计划；结论是 Sage 让他乱了心智，是必须尽快除掉的干扰。",
-   "anchor": "That woman is causing me to lose my mind. She’s a distraction I don’t need. I have to get rid of her sooner rather than later.",
-   "start": 10048,
-   "end": 10174
+   "fact": "他从二楼窗翻出，落地滚进毒藤丛；回程一路提醒自己别抓脸，并认定她是必须尽快除掉的干扰。",
+   "anchor": "Poison fucking ivy",
+   "start": 9616,
+   "end": 9634
   }
  ]
 }

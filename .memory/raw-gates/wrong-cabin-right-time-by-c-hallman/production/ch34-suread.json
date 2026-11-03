@@ -4,55 +4,55 @@
  "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch34_chapter_thirty_four.txt",
  "facts": [
   {
-   "fact": "Sage 说自己在自动驾驶状态：屋里漫无目的地游荡，端着记不得什么时候倒的咖啡站了十分钟，对一盆死掉的绿植说话、像它欠她房租。",
+   "fact": "Sage 说自己在自动驾驶状态：屋里漫无目的游荡，端着记不得何时倒的咖啡站了十分钟，对死掉的绿植说话像它欠房租。",
    "anchor": "I feel like I’m on autopilot",
    "start": 147,
    "end": 175
   },
   {
-   "fact": "到火葬场，Travis 要按启动键时她站起来拦住：Ryan 本来想杀的是她，该由她来送——「让我来」，「我要看他烧」。",
+   "fact": "到火葬场，Travis 要按启动键时她拦住：Ryan 本想杀她，该由她送——「让我来」「我要看他烧」。",
    "anchor": "I want to watch him burn",
    "start": 2089,
    "end": 2113
   },
   {
-   "fact": "她问「接下来怎么办」，他答得坦然又为难：杀不了她，也停不下来自己在做的事；「也许最好的办法是让你走」。",
+   "fact": "她问接下来怎么办，他答杀不了她，也停不下自己的事；「也许最好让你走」。",
    "anchor": "I can’t kill you. But I can’t stop doing what I do either",
    "start": 3550,
    "end": 3607
   },
   {
-   "fact": "她恼怒：他说这话太轻巧——两个人明明一起经历了那么多，多数正常人会觉得告别很难，可他不是正常人；对他来说放开她就是这么容易。",
+   "fact": "她恼怒他说得轻巧：两人经历那么多，多数人会觉得告别难，可他不是正常人；放开她这么容易。",
    "anchor": "It’s just that easy for him to let me go",
    "start": 4522,
    "end": 4562
   },
   {
-   "fact": "她冲口而出：如果我于你这么无足轻重，为什么不干脆让 Ryan 杀了我，那样两人都省事——她冷静的外壳到此崩了。",
-   "anchor": "Why didn’t you just let Ryan kill me if I mean so little to you",
+   "fact": "她冲口问：如果我这么无足轻重，为什么不干脆让 Ryan 杀了我，那样两人都省事。",
+   "anchor": "Why didn’t you just let Ryan kill me",
    "start": 4567,
-   "end": 4630
+   "end": 4603
   },
   {
-   "fact": "他被这句话冒犯到后退一步、音调升高：他杀不了她，不等于愿意别人杀她——「我无法想象一个没有你的世界，Sage」。",
-   "anchor": "I can’t imagine a world without you in it",
+   "fact": "他被这话冒犯到后退、音调升高：杀不了她不等于愿意别人杀她——「我无法想象一个没有你的世界，Sage」。",
+   "anchor": "I can’t imagine a world without you",
    "start": 5200,
-   "end": 5241
+   "end": 5235
   },
   {
-   "fact": "她眼泪下来，知道这已是他最接近告白的说法，于是张开双臂准备抱他；他侧身避开、不看她，她只好放下手臂转回火化炉。",
+   "fact": "她眼泪下来，知道这已是他最接近告白的说法，张开双臂要抱他；他侧身避开、不看她，她放下手臂转回火化炉。",
    "anchor": "he moves out of the way",
    "start": 5640,
    "end": 5663
   },
   {
-   "fact": "临走她要他保证把 Ryan 的骨灰倒进垃圾场；她逼自己直视他眼睛：「Travis，如果你伤害 Nicole，我永远不会原谅你。」",
+   "fact": "临走她逼自己直视他：「Travis，如果你伤害 Nicole，我永远不会原谅你。」",
    "anchor": "I will never forgive you",
    "start": 8680,
    "end": 8704
   },
   {
-   "fact": "一路上她哭到几乎换不过气；这是将近一小时的阿什维尔车程，她一直哭；「我从没想过要和 Travis 告别。看来这又是我搞错的一件事」。",
+   "fact": "开往阿什维尔近一小时车程她一路哭；「我从没想过要和 Travis 告别。看来这又是我搞错的一件事。」",
    "anchor": "just another thing I was wrong about",
    "start": 10615,
    "end": 10651

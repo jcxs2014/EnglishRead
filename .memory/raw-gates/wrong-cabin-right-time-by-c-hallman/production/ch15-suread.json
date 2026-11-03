@@ -4,61 +4,61 @@
  "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch15_chapter_fifteen.txt",
  "facts": [
   {
-   "fact": "Travis 意外地觉得 Sage 做的 shakshuka 好吃：他从没吃过这道菜，但不反对再吃一次——配方简单、健康、纤维高。",
-   "anchor": "Sage’s breakfast is surprisingly palatable",
-   "start": 38,
-   "end": 80
+   "fact": "早餐她打翻盐与胡椒，他说「这更糟」，还念「Okay, maybe I'm being a tad dramatic here」；他自己收拾，不许她擦台面。",
+   "anchor": "This is worse",
+   "start": 868,
+   "end": 881
   },
   {
-   "fact": "他升起一点「正常生活」的念头：她在身边也许不算太坏，只要她别挡他的路；这念头刚冒出，Sage 就手忙脚乱打翻了盐罐和胡椒罐、撒得满台都是。",
-   "anchor": "As long as she stays out of my way, I think we’ll be fine",
-   "start": 561,
-   "end": 618
+   "fact": "她笑说要 Venmo 他「精神损失费」，他回「你付不起」；她 giggle 承认大概付不起。",
+   "anchor": "You can’t afford me",
+   "start": 1124,
+   "end": 1143
   },
   {
-   "fact": "吃完饭他收拾她的烂摊子，不许她帮忙（她连擦台面的布都拿错），然后要她把 Instagram 账号密码交出来，自己去查跟踪者，让她去泡他早上开好的热水浴缸。",
-   "anchor": "Leave me your log-in information",
-   "start": 1327,
-   "end": 1359
+   "fact": "他要她把 Instagram 登录信息留下、自己查跟踪者，让她去泡他早上开好的热水浴缸。",
+   "anchor": "I turned the hot tub on this morning",
+   "start": 1581,
+   "end": 1617
   },
   {
-   "fact": "他开始享受这一刻：坐在皮椅里，胸中充满「即将动手」的期待——调查、准备、找出一个人的一切再想着怎么用来对付他，「I live for this」。",
-   "anchor": "sinking into my plush leather desk chair",
-   "start": 2642,
-   "end": 2682
+   "fact": "他坐皮椅享受调查：计划、准备、把一个陌生人的一切查清再想着怎么用来对付他。",
+   "anchor": "I live for this",
+   "start": 2896,
+   "end": 2911
   },
   {
-   "fact": "他翻遍那人的无脸账号：全是红丸社区梗图和励志语录，粉丝多是机器人；找不到身份，就现做一个 Sage 的个人网站，用她账号发消息、附上链接引对方点击。",
-   "anchor": "If I can’t freely get information on him, I’ll lead him into a trap",
-   "start": 4625,
+   "fact": "她的 stalker 是无脸账号；他立刻判断对方用一次性账号藏起网络癖好，并推测会关注自己或现实中的女性。",
+   "anchor": "some kind of burner account",
+   "start": 3057,
+   "end": 3084
+  },
+  {
+   "fact": "找不到身份就现做一个 Sage 的网站，用她账号发消息、附链接引对方点开。",
+   "anchor": "I’ll lead him into a trap",
+   "start": 4667,
    "end": 4692
   },
   {
-   "fact": "对方立刻点开链接，IP 地址白送到手——他自得地说「People make it too easy」，而对方还回信「这里没看到新内容啊，宝贝，期待你给我看的东西」。",
-   "anchor": "his IP address is given to me freely",
-   "start": 6031,
-   "end": 6067
+   "fact": "对方立刻点开，IP 地址白送到手；他自得地说「人们把它弄得太容易」，对方还回「这里没看到新内容啊，宝贝」。",
+   "anchor": "People make it too easy",
+   "start": 5982,
+   "end": 6005
   },
   {
-   "fact": "查到的身份：Eli Morrow，三十五年，住阿拉巴马州伯明翰，居家为一家男性保健品公司做社交媒体与数据分析，那家公司在 IG 和 FB 上买了太多粉丝。",
+   "fact": "查到的身份：Eli Morrow，35 岁，住阿拉巴马州伯明翰，居家为一家男性保健品公司做社媒与数据分析，东家买粉严重。",
    "anchor": "Eli Morrow. Thirty-five, lives in Birmingham, Alabama",
    "start": 6268,
    "end": 6321
   },
   {
-   "fact": "他看着对方和未婚妻在圣诞树前的合影，冷笑「我猜 Carol 不知道你这些小动作」；判断这人靠陌生人点赞活着、现实里又孤单又不快乐，未婚妻眼中的他只是个长期扮演的好男人。",
-   "anchor": "I bet Carol doesn’t know anything about your little indiscretions",
-   "start": 6776,
-   "end": 6841
-  },
-  {
-   "fact": "他试着想象杀她：持刀进门、在她睡着时刺下去，但画面在关键处碎掉；换成在浴室掐她，手刚碰到喉咙就变成今早的回忆——他哀叹自己连在脑子里都杀不了她。",
+   "fact": "他试着想象杀她，画面在关键处碎掉；换浴室掐她也变成今早回忆——连在脑子里都杀不了她。",
    "anchor": "I can’t kill her. Not even in my own fucking mind",
    "start": 9571,
    "end": 9620
   },
   {
-   "fact": "他形容她像某种咒语：一靠近她就像在梦里，控制不住自己在做什么；Sage 是「诱惑」——一种无形之物，竟化成了会走路、会呼吸、还能支配他行动的生物。",
+   "fact": "他形容一靠近她就像在梦里、控制不住自己在做什么；Sage 是「诱惑」，无形之物化成会走路的活物。",
    "anchor": "Sage is temptation",
    "start": 11600,
    "end": 11618

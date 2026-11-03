@@ -4,52 +4,52 @@
  "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch05_chapter_five.txt",
  "facts": [
   {
-   "fact": "行动日当天他为今晚兴奋到走神：泡茶定时 03:15:35 烧水、03:18:35 应好，回神时已 03:18:46——超了整整 11 秒，他念一声「Unacceptable」把整杯倒进下水道，觉得茶「背叛」了他。",
-   "anchor": "I keep my eyes trained on the timer, but my mind keeps going back to killing Kevin.",
-   "start": 1075,
-   "end": 1158
+   "fact": "行动日他泡茶看表：03:15:35 烧水、03:18:35 应好；走神后已 03:18:46，多泡十一秒，他念「Unacceptable」把整杯倒掉，觉得茶背叛了他。",
+   "anchor": "It reads 03:15:35",
+   "start": 1008,
+   "end": 1025
   },
   {
-   "fact": "PI Peter Dawson 来信警报：他的名字搜索量异常上涨，还附了搜索频率时间线；他自认是公众人物有点名气正常，但很快拼出嫌疑——Juniper Sage Featherstone。",
-   "anchor": "I got an alert for an uptick in your name being searched, the text reads.",
+   "fact": "PI Peter 发短信警报：他的名字搜索量上涨，附搜索频率时间线截图；他自认公众人物有点名气正常。",
+   "anchor": "I got an alert for an uptick in your name being searched",
    "start": 1963,
-   "end": 2036
+   "end": 2019
   },
   {
-   "fact": "Peter 说出要害：有人在同时搜他和一个叫 Amelia Banks 的人；他血都凉了，握拳指甲掐进掌心，追问来源——答案：Lake Lure。",
-   "anchor": "“They’re searching for information about you and an Amelia Banks.”",
-   "start": 3093,
-   "end": 3159
+   "fact": "Peter 说有人在同时搜他和 Amelia Banks；他血都凉了、握拳指甲掐掌，追问来源——Lake Lure。",
+   "anchor": "an Amelia Banks",
+   "start": 3142,
+   "end": 3157
   },
   {
-   "fact": "抛尸系统首次揭秘：他在每个有房产的镇子都买了火葬场专用于此；受害者对熟人而言像从地球表面消失，不留遗物不留信；还有人帮他清洗数字痕迹，剩下的只有装着骨灰的小瓶、藏在他卧室里。",
-   "anchor": "All my victims have been disposed of properly.",
-   "start": 4153,
-   "end": 4199
+   "fact": "抛尸系统：每个有房产的镇子都买火葬场；受害者对熟人像从地表消失，不留遗物信件；有人替他清洗数字痕迹，只剩骨灰小瓶藏在他房间。",
+   "anchor": "I bought a crematorium in every town where I own property",
+   "start": 4200,
+   "end": 4257
   },
   {
-   "fact": "Amelia 是他的第一杀，多年前「失踪」，两人从无任何官方关联——他不明白为什么现在会有人把他俩放在一起搜；他自查了所有流程，确信不是自己露了马脚。",
-   "anchor": "Amelia might have been my first kill, but she is far from my last.",
-   "start": 4084,
-   "end": 4150
+   "fact": "门铃响他以为是她，结果是快递：盲区监控摄像头到货；他靠门喘气，承认日程被打乱让他濒临失控，靠今晚的杀恢复平静。",
+   "anchor": "extra security cameras I ordered",
+   "start": 6081,
+   "end": 6113
   },
   {
-   "fact": "门铃响起他以为是 Sage，结果只是快递——「螃蟹走事件」后他补订的盲区监控摄像头到了；他靠在门上喘了口大气，承认日程被打乱让自己濒临失控，靠今晚的杀才能恢复平静。",
-   "anchor": "I yank the door open, ready to reprimand her for bothering me yet again, only to find the mail carrier standing there.",
-   "start": 5740,
-   "end": 5858
+   "fact": "散步撞见 Sage 在崖边架手机与环形灯跳网红舞，反复失败跺脚；他站着看了很久。",
+   "anchor": "She has her phone set up on a tripod, with a ring light behind her",
+   "start": 7744,
+   "end": 7810
   },
   {
-   "fact": "例行散步撞见 Sage 在崖边架手机和环形灯跳网红舞，反复失败气得跺脚；他站着看了很久，看得入迷。",
-   "anchor": "My eyes lower to her round ass, swaying to a rhythm I can’t hear.",
-   "start": 8121,
-   "end": 8186
+   "fact": "他推演把她推下崖、当局看视频会判意外，零清理——「会是我最容易的一次杀人」。",
+   "anchor": "It would be easy to push her off",
+   "start": 8759,
+   "end": 8791
   },
   {
-   "fact": "他当场推演「完美犯罪」：把她推下崖，调查当局看到她在崖边跳舞的视频只会判意外，零清理——但他提醒自己这不在计划上、她还没被充分研究，而且「轮到她时，我要好好享受」。",
-   "anchor": "Even now she’s practically teetering on the edge of the mountain.",
-   "start": 8693,
-   "end": 8758
+   "fact": "他提醒自己这不在计划上、她还没被充分研究；「轮到她时，我要好好享受」，拒绝了即兴杀意。",
+   "anchor": "when it’s her time, I want to enjoy it",
+   "start": 9097,
+   "end": 9135
   }
  ]
 }

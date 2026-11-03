@@ -4,58 +4,58 @@
  "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch14_chapter_fourteen.txt",
  "facts": [
   {
-   "fact": "Travis 的冰箱里有全套分类系统：肉、奶、水果、蔬菜各大区，各自再细分；Sage 在蔬菜抽屉里翻不到番茄，回答是「在我家，番茄放在浆果那一格」——抽屉里覆盆子、草莓、蓝莓旁边就摆着番茄。",
+   "fact": "冰箱按类别分区、每区再细分；她在蔬菜抽屉找不到番茄，他说「在我家番茄放浆果那格」，旁边就是覆盆子草莓蓝莓。",
    "anchor": "In my house, you’ll find them with the berries",
    "start": 2129,
    "end": 2175
   },
   {
-   "fact": "她做 shakshuka 时聊起公社：自给自足、农场到餐桌、大部分居民素食；他听到「有动物」立刻抬头，追问得很具体。",
-   "anchor": "The commune has animals there you raise for consumption",
-   "start": 5559,
-   "end": 5614
+   "fact": "她做 shakshuka，他追问热量；她说不确定但主要是水分多的蔬菜和蛋；他偷 Google 平均值。",
+   "anchor": "What’s the caloric content of that?",
+   "start": 2695,
+   "end": 2730
   },
   {
-   "fact": "他第一次主动分享私事：小时候不许养宠物——「我姐姐养过一阵，然后我把她的仓鼠弄死了，从此爸妈不再让她养」。",
-   "anchor": "My sister was for a while, then I killed her hamster",
-   "start": 6701,
+   "fact": "他说吃饭是必需品不是享受；他喝黑咖啡听她讲做菜。",
+   "anchor": "Eating to me is a necessity",
+   "start": 3559,
+   "end": 3586
+  },
+  {
+   "fact": "她讲公社自给自足、农场到餐桌、多数居民素食；他听到「有动物」立刻抬头追问。",
+   "anchor": "The commune has animals there you raise for consumption?",
+   "start": 5559,
+   "end": 5615
+  },
+  {
+   "fact": "他主动分享：小时候不许养宠物——姐姐养过一阵，他把仓鼠弄死了，父母不再让她养。",
+   "anchor": "then I killed her hamster",
+   "start": 6728,
    "end": 6753
   },
   {
-   "fact": "她笑着说姐姐一定还记恨他，他却平静补上一句「她也死了」，声音冷得没有起伏；她说那是「一个挺大的红旗」，后背汗毛全竖起来。",
+   "fact": "她笑说姐姐一定记恨；他平静补「她也死了」，声音冷得无起伏；她说这是「挺大的红旗」，后背发毛。",
    "anchor": "She’s dead too",
    "start": 7032,
    "end": 7046
   },
   {
-   "fact": "紧接着他追问她有没有机会看到那些动物被宰杀的过程——她刚说完把它们当宠物养，他却偏偏问这个；她判定「两面红旗同时竖起」。",
+   "fact": "紧接着他追问她有没有看过动物被宰杀——她刚说把它们当宠物；她判定两面红旗同时竖起。",
    "anchor": "Did you ever get to see any of the animals being butchered?",
    "start": 7511,
    "end": 7570
   },
   {
-   "fact": "她干笑说自己只是开玩笑、说他「散发出连环杀手的味道」，等他破功一起笑；他没笑，只是盯着她喝咖啡。",
-   "anchor": "Honestly, it’s giving off serial killer vibes",
-   "start": 8036,
+   "fact": "她干笑说这「散发连环杀手的味道」，等他破功；他没笑，只盯着她喝咖啡。",
+   "anchor": "it’s giving off serial killer vibes",
+   "start": 8046,
    "end": 8081
   },
   {
-   "fact": "手机响：DarkHours99 发来「如果我得不到你，谁也别想得到」；她脸色发白，这次不再怀疑自己过度解读。",
+   "fact": "手机响：DarkHours99 发来「如果我得不到你，谁也别想得到」；她脸色发白，不再怀疑自己多想。",
    "anchor": "If I can’t have you, nobody can",
    "start": 9117,
    "end": 9148
-  },
-  {
-   "fact": "她提议报警，他摇头说「你不必担心他」——她第一次听出弦外之音：他能伤害那个人吗？Travis 是个危险的人吗？",
-   "anchor": "Does he mean that he could hurt him? Is Travis a dangerous man?",
-   "start": 10115,
-   "end": 10178
-  },
-  {
-   "fact": "她随后自我安抚：他有很多机会动手却没动，所以不会伤害她——她看书、查网、翻遍他的资料，但那不等于认识他；最后她决定「我必须相信他」。",
-   "anchor": "If Travis wanted to hurt me, he would have",
-   "start": 10732,
-   "end": 10774
   }
  ]
 }

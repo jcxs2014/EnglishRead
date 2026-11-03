@@ -4,52 +4,52 @@
  "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch02_chapter_two.txt",
  "facts": [
   {
-   "fact": "Sage 出门后原地犯花痴：Travis 一笑比先前更性感，棕色头发梳理整齐、巧克力色眼睛、下巴锋利得能割玻璃，她已经开始脑补被那双大手抱住的画面。",
-   "anchor": "hard to top when he already looks like someone who just stepped out of GQ magazine",
-   "start": 278,
-   "end": 360
-  },
-  {
-   "fact": "她不假思索脱口而出「我们的孩子会喊你 Dad、Daddy 还是 sir」，说出口才见 Travis 一脸困惑，慌忙找补说指的是全世界的孩子。",
-   "anchor": "what our kids will call you. Dad, Daddy, or sir?",
-   "start": 1087,
+   "fact": "Sage 站在门口花痴，脱口问「我们的孩子会叫你 Dad、Daddy 还是 sir」，见 Travis 困惑才慌忙找补说是「全世界的孩子」。",
+   "anchor": "I wonder what our kids will call you. Dad, Daddy, or sir?",
+   "start": 1078,
    "end": 1135
   },
   {
-   "fact": "她自认这是「最幸福的错误」：当初真以为这是 Ryan 的房子，listing 照片很少，而且她昨天订房时可能是有点嗨的，所以到了没认出来也不奇怪。",
+   "fact": "她自认这是人生最幸福的错误：本以为订的是 Ryan 的小屋，listing 照片少，订房时可能有点嗨。",
    "anchor": "I may have been a little high yesterday when I booked the place",
    "start": 1632,
    "end": 1695
   },
   {
-   "fact": "Sage 说自己平时搭便车走路，Travis 大惊失色、提高音量报出女性搭便车受害率的统计并摇头失望——她却把这解读成「他在担心我、只是害羞不敢调情」。",
+   "fact": "她说平时搭便车走路；Travis 提高声音报出女性搭便车遇害概率，她把这读成「他在担心我」。",
    "anchor": "What the statistics are for the likelihood of a female falling victim to a crime while hitchhiking?",
    "start": 4520,
    "end": 4619
   },
   {
-   "fact": "邮箱上只有数字，但里面垃圾邮件寄件人露馅：Travis Blacksburg。她把信贴在胸口亲了一口，又慌忙擦掉唇彩怕留下 DNA，自觉翻邮件是犯罪、不想坐牢。",
-   "anchor": "flip it over: Travis Blacksburg.",
+   "fact": "她翻他家邮箱的垃圾邮件，看到寄件人 Travis Blacksburg，把信贴胸口亲了一下，又慌忙擦掉唇彩怕留 DNA。",
+   "anchor": "flip it over: Travis Blacksburg",
    "start": 5912,
-   "end": 5944
+   "end": 5943
   },
   {
-   "fact": "到 Ryan 家后：中年房东握手过久、视线扫她胸口，坚持带她参观，卧室里逼近她舔嘴唇提出「要不要我留下来陪你」。",
-   "anchor": "Are you sure you want to stay here all by yourself? I could stay here with you, keep you company and maybe—",
-   "start": 10212,
-   "end": 10319
+   "fact": "Ryan 握手过久、屡次盯着她的胸部，坚持带她参观，说出这句；她心里骂「Gag. Double gag.」。",
+   "anchor": "Not as beautiful as something else I’m looking at right now",
+   "start": 8315,
+   "end": 8374
   },
   {
-   "fact": "Sage 掏辣椒喷雾指他脸、警告要用高浓度 Mace 烧穿他眼珠，Ryan 跳开一步举手求饶辩称「只是调情」，随即提出不如当作没发生，自称要赶飞机出国一个月，落荒而逃。",
-   "anchor": "I actually have a flight to catch. Like I told you before, I’m leaving the country for a month.",
-   "start": 11049,
-   "end": 11144
+   "fact": "卧室里 Ryan 提出「要不要我留下陪你」，她掏出辣椒喷雾指他脸警告，Ryan 举手后退辩称只是调情。",
+   "anchor": "your eyeballs burned all the way out of their sockets with high-potency Mace",
+   "start": 10527,
+   "end": 10603
   },
   {
-   "fact": "确认 Ryan 走后她检查了暗藏摄像头，锁门连上 Ryan 发来的 WiFi 密码，掏出笔记本电脑 Google「Travis Blacksburg」——自嘲「就这样我成了跟踪狂」。",
-   "anchor": "Logging in, I pull up Google, searching for Travis Blacksburg.",
-   "start": 12057,
-   "end": 12119
+   "fact": "Ryan 说要去赶飞机、出国一个月；她记得这一点，而这正是她仍住下来的唯一理由。",
+   "anchor": "leaving the country for a month",
+   "start": 11112,
+   "end": 11143
+  },
+  {
+   "fact": "确认 Ryan 走后她检查隐藏摄像头、锁门联网，Google「Travis Blacksburg」，自嘲「就这样我成了跟踪狂」。",
+   "anchor": "searching for Travis Blacksburg",
+   "start": 12087,
+   "end": 12118
   }
  ]
 }

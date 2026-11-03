@@ -4,52 +4,58 @@
  "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch30_chapter_thirty.txt",
  "facts": [
   {
-   "fact": "Sage 醒来才发现一只手被扣在床头上，身边没人，他那半床铺得整整齐齐；她说「我以为我们已经过了这一关了」。",
-   "anchor": "my hand is cuffed to the headboard",
-   "start": 161,
-   "end": 195
-  },
-  {
-   "fact": "她抓起枕头砸向铺好的那半床，像它能弹回来给个解释；嘀咕「下次至少留个字条，霍迪尼」——枕头落地的样子和 Travis 对她手腕血液循环的态度一样无悔意。",
-   "anchor": "At least leave a note next time, Houdini",
-   "start": 556,
-   "end": 596
-  },
-  {
-   "fact": "越等越慌：Travis 是危险的人，他随时可能反悔、不再守「不伤你」的承诺——这点她过去不愿承认。",
-   "anchor": "the possibility that he turns around and snaps",
-   "start": 1736,
-   "end": 1782
-  },
-  {
-   "fact": "他回来才解锁，解释「你看起来太安静，我不想叫醒你；也不想留你一个人满屋走」；她揉着手腕回「这话不对，被绑的是我的手」。",
+   "fact": "她醒来发现手被扣在床头，他那半床铺得整齐、人不在；她喊他来解开，抱怨「我以为我们过了这一关」。",
    "anchor": "My hands were tied",
    "start": 2930,
    "end": 2948
   },
   {
-   "fact": "他坦白去镇上查 Nicole 的踩点，还说不告诉她只是不想让她哭；接着放话：他做这事很久了、是台运转良好的机器，如果她承受不了就别参与，「我不会因为你改方法」。",
+   "fact": "她抓枕头砸向那半床，像它能弹回解释；嘀咕「下次至少留个字条，霍迪尼」，枕头落地像他对手腕血液循环的态度。",
+   "anchor": "At least leave a note next time, Houdini",
+   "start": 556,
+   "end": 596
+  },
+  {
+   "fact": "越等越慌：Travis 是危险的人，他随时可能反悔、不守「不伤你」的承诺——她过去不愿承认。",
+   "anchor": "the possibility that he turns around and snaps",
+   "start": 1736,
+   "end": 1782
+  },
+  {
+   "fact": "他回来承认去镇上侦察 Nicole；他说不告诉她是因为知道她会难过、上次哭得厉害，不想让她再有那感觉。",
+   "anchor": "I was in town doing some reconnaissance work on Nicole",
+   "start": 4642,
+   "end": 4696
+  },
+  {
+   "fact": "她求他别动 Nicole；他放话：他做这事很久、是台运转良好的机器，她承受不了就别参与，他不会因为她改方法。",
    "anchor": "This is a well-oiled machine for me",
    "start": 6230,
    "end": 6265
   },
   {
-   "fact": "她手机响，他先抢去看：Citizens app 弹出附近新增性罪犯的通知；他暴怒她为什么用不加密的连接搜这种东西，双手拍在床垫上逼近她——「你会害死我」。",
+   "fact": "她手机响，他抢去看：Citizens app 弹出附近新增性罪犯通知；他暴怒她用不加密连接搜这种东西，双手拍床逼近——「你会害死我」。",
    "anchor": "You’re going to be the death of me",
    "start": 8457,
    "end": 8491
   },
   {
-   "fact": "她第一次被他的眼神吓到：那双眼里没有一点悔意，她几乎看见一个平行现实——她就是他的受害者之一；曾经他真想杀她，此刻大概也想。",
+   "fact": "她第一次被他的眼神吓到：那眼里没有悔意，她几乎看见一个平行现实——她就是他的受害者；曾经他想杀她，此刻大概也想。",
    "anchor": "I think he does right now too",
    "start": 8674,
    "end": 8703
   },
   {
-   "fact": "他甩门走后，她小声吐槽「下次我会像正常女朋友一样用无痕模式搜杀人相关的东西」，但不敢说大声——不确定这句讽刺会灭火还是引爆他。",
+   "fact": "他甩门走后，她小声吐槽「下次我会像正常女朋友一样用无痕模式搜杀人相关的东西」，不敢说大声。",
    "anchor": "like a normal girlfriend",
    "start": 9122,
    "end": 9146
+  },
+  {
+   "fact": "此刻他在自我保护模式、很危险；她意识到处境的重量：现在不走，可能就没机会了。",
+   "anchor": "If I don’t leave now",
+   "start": 9590,
+   "end": 9610
   }
  ]
 }

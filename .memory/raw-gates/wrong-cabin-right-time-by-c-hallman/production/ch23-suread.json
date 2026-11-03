@@ -4,61 +4,55 @@
  "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch23_chapter_twenty_three.txt",
  "facts": [
   {
-   "fact": "这几天 Travis 逐渐给 Sage 腾出位置：他发现再怎么吓她都不走，连他的杀人数量都没让她太退缩——既然如此，只能把她留在近处。",
+   "fact": "他逐渐给她腾位置：怎么吓都不走，连他的杀人数字都没让她太退缩——既然如此只能留在近处。",
    "anchor": "I gradually make room for Sage in my life",
    "start": 67,
    "end": 108
   },
   {
-   "fact": "他承认旧日程维持不下去，只能「调整」；他说到这个词就皱眉——这是他为她让出的第一项原则。",
-   "anchor": "Maintaining my former schedule would be impossible",
-   "start": 305,
-   "end": 355
+   "fact": "他承认旧日程维持不下去，只能「调整」，说到这个词就皱眉。",
+   "anchor": "I had to make adjustments",
+   "start": 395,
+   "end": 420
   },
   {
-   "fact": "他承认日子没想象中糟：她比他精力旺、几乎不停说话，但他学会把她当白噪音滤掉；而且她对他要如何处置 Eli 的计划很感兴趣。",
+   "fact": "日子没想象中糟：她精力旺、几乎不停说话，他学会把她当白噪音滤掉；她对他处置 Eli 的计划很感兴趣。",
    "anchor": "Her voice is like white noise to me now",
    "start": 633,
    "end": 672
   },
   {
-   "fact": "Eli 仍发消息却不说自己已在 Lake Lure；Travis 靠数字手段定位他的手机，掌握他的行踪与活动。",
-   "anchor": "I’ve managed to track his phone",
-   "start": 896,
-   "end": 927
-  },
-  {
-   "fact": "他带 Sage 去 Eli 住的 Lodge 踩点：两人不能穿得可疑、要混在人群里不被注意——若被看到同车，会招来警报。",
+   "fact": "他带她去 Eli 住的 Lodge 踩点：不能穿得可疑、要混在人群里；若被看到同车会招来警报。",
    "anchor": "We’re going to pay a visit to the motel",
    "start": 1302,
    "end": 1341
   },
   {
-   "fact": "她挑了超短牛仔短裤和系带的复古 Harley 大T恤；他抱怨「人会盯着你看」、心里发火，又让她戴帽子遮住粉发，说那颜色一英里外就看见。",
-   "anchor": "your hair is visible a mile away",
-   "start": 2830,
-   "end": 2862
+   "fact": "她挑了超短牛仔短裤与系带 Harley T恤；他抱怨「人会盯着你看」、心里发火，又让她戴帽子遮粉发。",
+   "anchor": "People are going to be looking at you",
+   "start": 2507,
+   "end": 2544
   },
   {
-   "fact": "她嘴上嫌「没礼貌」还是戴上棒球帽、主动系安全带；到了停车场她压低身子藏，动作明显得可笑，他翻白眼没说话。",
-   "anchor": "I’m going to need you to put a hat on",
-   "start": 2792,
-   "end": 2829
-  },
-  {
-   "fact": "Peter 发来短信：很可能有人在跟踪你，小心，我正在查——他拳头握到发白，认定若因此落网，全怪她：他破例、查 Eli、此刻毫无准备，都是因为她。",
+   "fact": "Peter 短信：很可能有人在跟踪你，小心，我在查；他拳头握白，认定若落网全怪她。",
    "anchor": "Heads up, it’s likely someone is tailing you right now",
    "start": 4602,
    "end": 4656
   },
   {
-   "fact": "她半开玩笑说「反正你又不是来杀人的」，他拍方向盘大吼这是真的、他从不轻待、要她认真；她没躲，反而想出个说法——租个房间，就说小屋跳闸、五金店关门了。",
+   "fact": "她半开玩笑「反正你又不是来杀人的」，他拍方向盘吼这是真的、他从不轻待、要她认真。",
    "anchor": "Is this just a game to you?",
    "start": 6389,
    "end": 6416
   },
   {
-   "fact": "停车场几个醉汉冲她喊「过来让我们看看」，他嫉妒得握拳，一把把她拉进怀里当众亲吻，低声说「我会杀掉任何想碰你的人」——她听完笑了。",
+   "fact": "她提议租个房间、就说小屋跳闸五金店关门，替他补漏；他惊叹她竟能让他冷静，觉得有她在也不错。",
+   "anchor": "Never in my life have I met someone who’s been able to calm me down",
+   "start": 7227,
+   "end": 7294
+  },
+  {
+   "fact": "停车场几个醉汉冲她喊「过来让我们看看」，他嫉妒得握拳，把她拉进怀里当众亲吻，低声说「我会杀掉任何想碰你的人」。",
    "anchor": "You’re mine",
    "start": 9027,
    "end": 9038
