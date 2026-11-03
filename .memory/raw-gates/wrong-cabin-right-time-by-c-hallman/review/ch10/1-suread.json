@@ -1,0 +1,61 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch10",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch10_chapter_ten.txt",
+ "facts": [
+  {
+   "fact": "Sage 的周日仪式：父母正午必来 FaceTime；除此之外很少联系，她自认独立不需要他们认可。",
+   "anchor": "It’s Sunday morning",
+   "start": 31,
+   "end": 50
+  },
+  {
+   "fact": "公社多数地方没网，只有用于订物资的社区办公室能上网；她吐槽父母宣讲环保社会主义却把钱交给 Jeff Bezos 买厕纸与卷烟纸。",
+   "anchor": "The commune doesn’t have internet",
+   "start": 322,
+   "end": 355
+  },
+  {
+   "fact": "父亲讲冷笑话：穿背心的鳄鱼叫 investigator（调查者），他仰头大笑，母亲假装嫌烦其实很爱。",
+   "anchor": "What do you call an alligator in a vest?",
+   "start": 2661,
+   "end": 2701
+  },
+  {
+   "fact": "她宣布爱上一个人，一句「Travis 算个亿万富翁」让父母的脸立刻垮掉；父亲说「一个人拥有这么多钱」很不以为然。",
+   "anchor": "Travis is kind of a billionaire",
+   "start": 6501,
+   "end": 6532
+  },
+  {
+   "fact": "她阳台自拍发 story 配文「从没想过爱可以感觉这么好」；DarkHours99 立刻回「我以为我是你的唯一」，并私信「需要我过去谈谈吗」。",
+   "anchor": "Never thought love could feel this good",
+   "start": 7542,
+   "end": 7581
+  },
+  {
+   "fact": "她自查：平时错开时间发民宿内容避免暴露位置，但那张冰淇淋店自拍背景清清楚楚是店名。",
+   "anchor": "the picture I posted of myself at the ice cream shop",
+   "start": 8559,
+   "end": 8611
+  },
+  {
+   "fact": "她跑去 Travis 家求助能否追踪消息来源；他先提「我们说好过」，见她惊恐态度立刻变了。",
+   "anchor": "Do you have a way to trace someone’s messages",
+   "start": 9364,
+   "end": 9409
+  },
+  {
+   "fact": "她装弱小无助说独自住害怕、问能不能搬来；话没说完他一个「Yes」打断，她心花怒放扑上去抱住亲脸颊。",
+   "anchor": "“Yes,” Travis says, cutting me off",
+   "start": 10834,
+   "end": 10868
+  },
+  {
+   "fact": "她去客厅时从镜子里看见他用手背擦掉她亲过的地方；她心里一刺，却笃定住满这程他会求着要更多。",
+   "anchor": "wiping his cheek with the back of his hand",
+   "start": 11369,
+   "end": 11411
+  }
+ ]
+}
