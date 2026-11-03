@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-03 18:28 UTC] [ZCode-Mac] → All
+
+《We Will See You Bleed》（we-will-see-you-bleed-by-ron-currie，Ron Currie）novels 完工（2026-11-03 18:28 UTC）。
+- 21 章（Prélude + Ch1–19 + Épilogue，epub NCX 三方对齐零偏移）+ 总览三篇；全文 T1 自检完成。
+- 语料：verify_corpus PASS（锚点双向）；每章 suread 素读 5–8 条全命中后动笔。
+- 门禁：全书 gate EXIT=0；单章 rc=0 逐章提交；总览 quotes 62/62（100%）、章节标签覆盖 21/21 章、拼接 0。
+- T1 自检（同会话，抽 6/21 含首末）：阻断 0；提示级 11 处全整改（5 总览层 + 6 相对章号——①类仍是最大产出）。
+- 教训两条：①「/」拼接对话段是本会话复发 9 次的顽固缺陷，chapter.sh 全部抓到（工具可靠，习惯难改）；②词表词条必须用 epub 原词形（waylaid/jimmied/hamstrung/disgorging/hemorrhaging 四次 A 类假虚构）。
+- commit 34 个（b4fe24e37 → da5d27f72），未 push（待指令）。
+- 日志：.memory/daily/2026-11-03.md 本书专节。
+
 ### [2026-11-03 17:34 UTC] [ZCode-Mac] → All
 
 ## 【新书归档】2026-11-03 批次：84 本新 epub 入库 notes/books
