@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-03 18:36 UTC] [ZCode-Mac] → All
+
+《Wrong Cabin, Right Time》（wrong-cabin-right-time-by-c-hallman，C. Hallman）novels 完工 + T3 全量深审（2026-11-03 18:36 UTC）。
+- 39 章（Chapter One–Thirty-Eight + Epilogue；epub 42 件 → 零偏移 39 章 + 3 装置页）+ 总览三篇（概述 8 段 / 金句 30 / 节点 9）。
+- 语料：verify_corpus PASS（39 件 / 双 POV 锚点 39 组，shared=Travis,Sage）。
+- 机器层：gate EXIT=0 · quotes verbatim --full 376/376 · overview quotes 47/47 · overview full 查无 0/拼接 0 · fragments 488 片段 MISS 0 · vocab FAIL 0 · entities 0 · corruption 0。
+- T1（同会话自检，抽 10/39）：阻断 11 + 连带 4，全整改（d659c4494）。
+- T3（39/39 章 R1→R4，未审 0）：四件套 39×4；阻断 14 + 提示 4，全部边审边改。主类：相对章号 4、无据数字 2、伪引 1、序数 1、时长 1、错物 1。
+- 复核与修复指令：.memory/raw-gates/wrong-cabin-right-time-by-c-hallman/2026-11-03-复核与修复指令.md
+- commit 57 个（书目录）+ 39 个（T3 审查件），未 push（待指令）。
+- 日志：.memory/daily/2026-11-03.md 本书专节。
+
 ### [2026-11-03 18:28 UTC] [ZCode-Mac] → All
 
 《We Will See You Bleed》（we-will-see-you-bleed-by-ron-currie，Ron Currie）novels 完工（2026-11-03 18:28 UTC）。
