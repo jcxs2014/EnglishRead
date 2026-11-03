@@ -18,7 +18,7 @@ modified: "2026-11-03"
 
 **中文理解**：门上一阵意外的响动把她吓得一跳；她沉重的目光落到右腕那块金色卡西欧上——那是某次冲动购物犒劳自己的战利品，透支账户可不会感谢她——她发现才十点三十一，胸腔里涌起一阵恐慌。
 
-**关键词**：unexpected rattle / impulsive retail-therapy / my overdraft does not thank me / a surge of panic
+**关键词**：unexpected rattle / impulsive retail-therapy / my overdraft does not thank me / a yellow-gold digital Casio
 
 **为什么这样写**：开场三个动作「响动—看表—发现提前」把焦虑写成具体的物：那块「透支也不感谢她」的 Casio 一句话就交代了她的钱袋和心理状态。客人的 punctuality 和主人的慌乱构成第一组反差。
 
@@ -38,7 +38,7 @@ modified: "2026-11-03"
 
 **中文理解**：就像今天一样，她那时总觉得自己被排斥，因为她们比她自信得多——她们毫不犹豫地把小瓶伏特加塞进书包底部、藏进冰鞋下面。
 
-**关键词**：an outcast / quarter bottles of vodka / underneath their skating boots / didn’t fit in
+**关键词**：an outcast / quarter bottles of vodka / underneath their skating boots / much more confident than me
 
 **为什么这样写**：用滑冰场的少年记忆解释她此刻扶着门框不敢迈步的样子：身体在走廊，心理在场边。伏特加与冰鞋两个藏匿点把「她们敢」和「她不敢」对照得不留余地。
 
