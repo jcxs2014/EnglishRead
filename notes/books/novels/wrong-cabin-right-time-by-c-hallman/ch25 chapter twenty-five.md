@@ -59,7 +59,7 @@ modified: "2026-11-03"
 
 **中文理解**：这是一次精彩绝伦的杀戮。他得感谢 Sage。没有她，他找不到 Eli；没有她，他也不会渴望那人的血。
 
-**关键词**：an incredible kill / have Sage to thank / would never have found Eli / yearned for his blood
+**关键词**：an incredible kill / have Sage to thank / never would have found Eli / yearned for his blood
 
 **为什么这样写**：全章的转折句：他第一次把功劳归给她，而且归得准确——她既提供了线索，也提供了动机。作者用「yearned」这个带渴望的词写杀意，让这份感谢听起来既真诚又病态。
 

@@ -69,7 +69,7 @@ modified: "2026-11-03"
 
 **中文理解**：「这对你来说只是场游戏吗？」他吼道，双手拍在方向盘上。「这对我来说是真的。我从不轻待这些事，我需要你认真对待。」
 
-**关键词**：just a game / slamming his hands / real for me / take it seriously
+**关键词**：just a game / slamming my hands / real for me / take it seriously
 
 **为什么这样写**：全书他唯一一次为「职业尊严」发火：她的玩笑踩到了他唯一认真对待的东西。作者让「real」与「game」对撞——在她眼里这是他们的冒险，在他眼里这是他的人生。
 
@@ -122,7 +122,7 @@ modified: "2026-11-03"
 |---|---|---|
 | riffling | 快速翻找 | I say before walking back to my bedroom and riffling through my drawers for appropriate attire. |
 | attire | 衣着、装束 | I say before walking back to my bedroom and riffling through my drawers for appropriate attire. |
-| hindering | 妨碍、拦阻 | Now that Sage knows about my proclivities, she won't be able to hinder me anymore. |
+| hinder | 妨碍、拦阻 | Now that Sage knows about my proclivities, she won't be able to hinder me anymore. |
 | taints | 污染、沾染 | Jealousy taints my blood. |
 | conspicuous | 显眼的 | Sage lowers herself in her seat, leaning back incredibly conspicuously. |
 

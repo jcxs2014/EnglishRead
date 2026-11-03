@@ -79,7 +79,7 @@ modified: "2026-11-03"
 
 **中文理解**：「我不认为他有任何打算，让你知道他要什么时候来看你。」他说。
 
-**关键词**：no intention / letting you know / plans on visiting you
+**关键词**：any intention / letting you know / plans on visiting you
 
 **为什么这样写**：全章的恐怖拐点：她要的是「骗他出来」，他要的是「突然出现」。作者让 Travis 用冷静的分析把这层意思摊开——Eli 一路赶来却不报名，只能意味着他不想让她有准备。
 

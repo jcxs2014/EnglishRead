@@ -85,13 +85,23 @@ modified: "2026-11-03"
 
 **读者视角提示**：注意「grip on the chair loosens」这个细节：他的怒气是真的，只是他用别的东西盖过去了。父母这条线，现在正式进入他的软肋清单。
 
-> **原句 8:** ""Remember how you said you've never had a brownie? Well, that's about to change," I say as I cut a piece for him and put it on a plate. … My special ingredient might just be his kryptonite."
+> **原句 8:** ""Remember how you said you've never had a brownie? Well, that's about to change," I say as I cut a piece for him and put it on a plate."
 
-**中文理解**：「记得你说过从没吃过布朗尼吗？这就要改了。」她切下一块放到盘子里递给他。……她的特别配方，也许正好是他的氪石。
+**中文理解**：「记得你说过从没吃过布朗尼吗？这就要改了。」她切下一块放到盘子里递给他。
 
-**关键词**：never had a brownie / about to change / special ingredient / kryptonite
+**关键词**：never had a brownie / about to change / cut a piece
 
-**为什么这样写**：全章收在一句双关的预告上：「改变」既是他的饮食史，也可能是他的判断力。作者用超级英雄的比喻（kryptonite）把她的算盘亮给读者——她要的不是甜点，是一个让他卸防的机关。
+**为什么这样写**：一句轻巧的预告，把「改变」这个词放在他十年不变的饮食习惯上。作者让她的胜利感只由一句日常台词承担——她递出去的不只是甜点，是一次对他规矩的试探。
+
+**读者视角提示**：他还没吃，她已经开始算账。注意她递盘子的动作有多顺手，这与她后面切蛋糕、分食物、控制场面的姿态是一套的。
+
+> **原句 9:** "My special ingredient might just be his kryptonite."
+
+**中文理解**：她的特别配方，也许正好是他的氪石。
+
+**关键词**：special ingredient / his kryptonite
+
+**为什么这样写**：全章收在超级英雄的比喻上：一块布朗尼被写成「氪石」。作者用这个词把她的算盘亮给读者——她要的不是甜点，是一个让他卸防的机关。
 
 **读者视角提示**：她还不知道这份「氪石」真正的风险：一个失去自控的杀手，第一个会失控的对象未必是她。
 
