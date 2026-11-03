@@ -1,0 +1,64 @@
+{
+ "chapter": "ch18",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 62,
+   "end": 154,
+   "fact": "开头：Babs 因剧烈头痛在 Central Maine Medical Center 三楼的病床上醒来",
+   "anchor": "a bed on the third floor of …"
+  },
+  {
+   "ok": true,
+   "start": 1047,
+   "end": 1085,
+   "fact": "Babs 醒来后发现唯一真正想知道的一件事是她是否仍然怀孕（still pregnant），而这恰好是",
+   "anchor": "the subject Clement knew not…"
+  },
+  {
+   "ok": true,
+   "start": 3666,
+   "end": 3727,
+   "fact": "医生向 Babs 报告伤情：多处裂伤用了缝线与吻合钉（sutures and staples），鼻骨两处",
+   "anchor": "Nose is broken in two places…"
+  },
+  {
+   "ok": true,
+   "start": 4256,
+   "end": 4302,
+   "fact": "医生确认 Babs 仍然怀孕；医院要留她观察一晚，若早上无恶化即可回家；Babs 转向窗外低声道谢（彼时",
+   "anchor": "you are still with child, I’…"
+  },
+  {
+   "ok": true,
+   "start": 5229,
+   "end": 5342,
+   "fact": "Clement 告诉 Babs：Rheal 已占领 the Mill 并威胁炸掉它，条件是 Babs 安",
+   "anchor": "He’s taken the Mill, and is …"
+  },
+  {
+   "ok": true,
+   "start": 6808,
+   "end": 6867,
+   "fact": "电话里 Rheal 告诉 Babs：Aucoin 打来电话，说再三考虑后要确保 Rheal 知道 Cla",
+   "anchor": "he wanted to make sure I kne…"
+  },
+  {
+   "ok": true,
+   "start": 7369,
+   "end": 7429,
+   "fact": "Rheal 在电话中向 Babs 坦白：他杀了 Claude——朝自己最好的朋友开了一枪并抛尸河中，理由",
+   "anchor": "I put a bullet in my best fr…"
+  },
+  {
+   "ok": true,
+   "start": 8446,
+   "end": 8503,
+   "fact": "结尾：夜里（Bates 正吃 shepherd’s pie 时）Sophie 哭着打电话给 Bates",
+   "anchor": "He went out two days ago wit…"
+  }
+ ]
+}

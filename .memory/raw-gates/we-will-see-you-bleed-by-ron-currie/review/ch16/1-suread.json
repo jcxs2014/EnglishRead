@@ -1,0 +1,64 @@
+{
+ "chapter": "ch16",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 2551,
+   "end": 2628,
+   "fact": "代理局长 Bates 摘除一个肾后被迫再代理 another week，仍 heavily doped",
+   "anchor": "One of the guys they brought…"
+  },
+  {
+   "ok": true,
+   "start": 5583,
+   "end": 5669,
+   "fact": "神父 Clement 被老神父 Doyon 通知复职、须尽快回 Waterville 的 Notre D",
+   "anchor": "Brennan thanked Clement for …"
+  },
+  {
+   "ok": true,
+   "start": 8732,
+   "end": 8783,
+   "fact": "清晨 9:30（clock radio 红色读数 9:30、p.m. 小红点未亮），Claude 打电话",
+   "anchor": "and hung up. It was the last…"
+  },
+  {
+   "ok": true,
+   "start": 12939,
+   "end": 12980,
+   "fact": "Rheal 在厨房桌上第八次（the eighth time）要 Claude 复述那晚经过，意在从重复",
+   "anchor": "that you gave up my wife to …"
+  },
+  {
+   "ok": true,
+   "start": 28399,
+   "end": 28442,
+   "fact": "Charlie St. Pierre 把 Babs 绑在（Burnham 一带）十九世纪中叶 post-",
+   "anchor": "But the man who’s paying for…"
+  },
+  {
+   "ok": true,
+   "start": 22357,
+   "end": 22430,
+   "fact": "Bates 与 Clement 前后脚到 Dionne 家，与 Rheal、Claude 围桌进行极紧张",
+   "anchor": "the display on the answering…"
+  },
+  {
+   "ok": true,
+   "start": 25958,
+   "end": 26021,
+   "fact": "当晚 Globe 编辑部人走光后，记者 Steve Heron 边清桌边消化被解雇的现实——名义是 re",
+   "anchor": "deliver it to the head of th…"
+  },
+  {
+   "ok": true,
+   "start": 37283,
+   "end": 37340,
+   "fact": "Rheal 把 Claude 载到 Lewiston 城外 Androscoggin 河边的船坞（黑暗中",
+   "anchor": "I won’t tell my best friend …"
+  }
+ ]
+}

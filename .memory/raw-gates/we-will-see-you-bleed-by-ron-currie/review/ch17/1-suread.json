@@ -1,0 +1,64 @@
+{
+ "chapter": "ch17",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 814,
+   "end": 929,
+   "fact": "开头：Rheal和Saucier兄弟（Ray、Normand）各戴一个泡沫乳胶Ronald Reagan",
+   "anchor": "put a pistol to the guard’s …"
+  },
+  {
+   "ok": true,
+   "start": 5106,
+   "end": 5185,
+   "fact": "中段（二号厂房控制室外楼梯）：藏在单向玻璃后的枪手开火，第三发擦过Normand左耳打进他的calf（小",
+   "anchor": "a third sizzled past his lef…"
+  },
+  {
+   "ok": true,
+   "start": 6856,
+   "end": 6944,
+   "fact": "Rheal攀在通风管下方、如蜘蛛般扑下制伏开枪者——一个nineteen or twenty（约十九二十",
+   "anchor": "Rheal pressed the blade of a…"
+  },
+  {
+   "ok": true,
+   "start": 8366,
+   "end": 8462,
+   "fact": "Bates得知9-1-1电话只进Waterville自己的dispatch中心（一间walk-in cl",
+   "anchor": "the department was conductin…"
+  },
+  {
+   "ok": true,
+   "start": 9424,
+   "end": 9530,
+   "fact": "收到的报告称Rheal的box truck装着half a ton of TNT，若twenty-fou",
+   "anchor": "loaded with half a ton of TN…"
+  },
+  {
+   "ok": true,
+   "start": 12818,
+   "end": 12852,
+   "fact": "FBI探员Kittel到Sutton位于Kennebunk的宅邸（有guesthouse、boathou",
+   "anchor": "He wants his wife and his jo…"
+  },
+  {
+   "ok": true,
+   "start": 14554,
+   "end": 14612,
+   "fact": "Babs整夜断续出血，认定那个没计划却深爱、a couple of months大的孩子已经没了；随后A",
+   "anchor": "She’d bled into her underwea…"
+  },
+  {
+   "ok": true,
+   "start": 21908,
+   "end": 21986,
+   "fact": "结尾：Bates进厂传话——Babs已获释、正在去Lewiston医院的路上，Clement已南下确认，",
+   "anchor": "slammed the receiver down ha…"
+  }
+ ]
+}
