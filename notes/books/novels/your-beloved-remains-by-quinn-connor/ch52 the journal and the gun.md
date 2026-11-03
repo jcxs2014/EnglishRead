@@ -58,7 +58,7 @@ modified: "2026-11-03"
 
 **中文理解**：「你在用不关心来破坏我。那封推荐信本该在十一月寄出，Terry。上周就该寄了！我提醒过你两次。」
 
-**关键词**：sabotaging me through disinterest / the letter of recommendation / IN NOVEMBER / I reminded you twice
+**关键词**：sabotaging me through disinterest / letter of recommendation / IN NOVEMBER / I reminded you twice
 
 **为什么这样写**：压迫被命名成一种冷暴力——不是拒绝，是不关心；全大写「IN NOVEMBER」是纸上唯一一次喊叫，把两个月的时间差变成控诉物证。这封信的收件人是导师，也预演了她与所有权威的关系。
 

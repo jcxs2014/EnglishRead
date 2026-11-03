@@ -50,7 +50,7 @@ modified: "2026-11-03"
 
 **关键词**：he was silent / a sigh / get your shit together / the line went dead
 
-**为什么这样写**：判决只有十一个词，是全书最经济的一次割席——不解释、不追问、不给台阶；「线断了」与 ch22 的「线路咔嗒」构成对称：她曾是他不敢接的电话，如今她是被挂断的那端。
+**为什么这样写**：判决只有八个词，是全书最经济的一次割席——不解释、不追问、不给台阶；「线断了」与 ch22 的「线路咔嗒」构成对称：她曾是他不敢接的电话，如今她是被挂断的那端。
 
 **读者视角提示**：注意背景音里那句「Max，别挠我」——另一户人家的笑闹。作者把它放在割席句前面：她要的温暖在他那里真实存在，只是不再供应给她。
 
@@ -68,7 +68,7 @@ modified: "2026-11-03"
 
 **中文理解**：他才是问题。她曾被洞穴、被 Harriot 的确信摇动——但她不是这场悲剧的催化剂。是他关校的计划把她带到了《Dreams of the Rose》。是他开除了 Mrs. Harper——她的 Bertie、她的力量之源。
 
-**关键词**：He was the problem / not the catalyst for this tragedy / His plan to close the school / my Bertie
+**关键词**：He was the problem / I wasn't the catalyst for this tragedy / His plan to close the school / my Bertie
 
 **为什么这样写**：归责终于找到正确的地址——三个「他」的排比把凶手钉在校长身上；「不是催化剂」的自我辩护与对 Harper 的称谓（我的 Bertie）并置，让愤怒同时具备逻辑与情感的双重合法性。
 

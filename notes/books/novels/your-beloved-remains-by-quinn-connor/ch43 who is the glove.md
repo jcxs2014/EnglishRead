@@ -46,7 +46,7 @@ modified: "2026-11-03"
 
 > **原句 4:** "Now came upon us these fair days of May, and my love and I tarried ever in those sunlit thickets, those dappled woods and airy glades. So entered the flowers into bloom, and oft we gathered them—first, the sweet trumpeting daffodillos, bluebells in baker's dozens—honeysuckle tumbles—anything, everything! And we made around ourselves a great posey of contentment—with what dissimulation did we fill our hearts with the fragrance of the mountain springtime, so as not to detect that other odor that came from my beloved …"
 
-**中文理解**：「五月的好日子降临我们，我的爱与我在那些阳光的灌木丛、斑驳的树林和 airy 的林间空地里久久流连。花就这样开了，我们常常采撷——先是甜美的小号手水仙，十三只一打的蓝铃——成团的金银花——一切，一切！我们用它们为自己织起一大束满足——用怎样的掩饰，我们让心里灌满山间春日的芬芳，好不去察觉从我挚爱身上飘出的另一种气味……」
+**中文理解**：「五月的好日子降临我们，我的爱与我在那些阳光的灌木丛、斑驳的树林和 airy 的林间空地里久久流连。花就这样开了，我们常常采撷——先是甜美的小号手水仙，按面包师的一打（十三只）扎起的蓝铃——成团的金银花——一切，一切！我们用它们为自己织起一大束满足——用怎样的掩饰，我们让心里灌满山间春日的芬芳，好不去察觉从我挚爱身上飘出的另一种气味……」
 
 **关键词**：those sunlit thickets / a great posey of contentment / with what dissimulation / that other odor
 

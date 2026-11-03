@@ -20,7 +20,7 @@ modified: "2026-11-03"
 
 **关键词**：graduate school career / drove out of New Orleans / rolled down the window / evidence that the city noticed
 
-**为什么这样写**：离别写成一场求证——城市欠她一声雷，寂静与湿气就是判决；「 Evidence」是法律词，她要的不是告别而是被见证，这与全书主题（谁的讲述算数）在第一章就合上了牙。
+**为什么这样写**：离别写成一场求证——城市欠她一声雷，寂静与湿气就是判决；「 Evidence」是法律词，她要的不是告别而是被见证，这与全书主题（谁的讲述算数）在开篇就合上了牙。
 
 **读者视角提示**：注意日记开篇的姿态与 Celia 完全相反：Celia 说「我是被留下的」，Joan 说「我是被放走的」。两位叙述者都认定自己是被辜负的那个——先记住这个对称。
 

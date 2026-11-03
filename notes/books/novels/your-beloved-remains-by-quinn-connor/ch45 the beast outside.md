@@ -40,9 +40,9 @@ modified: "2026-11-03"
 
 **关键词**：Who is the glove / who is the hand
 
-**为什么这样写**：梦的谶语在青铜像前回放——九个词把伪作的主权问题问完；手套与手的比喻同时适用于写作、欲望与占有：上一章她说「我是一套你穿的衣服」，此刻她跪在穿衣者的脚下。
+**为什么这样写**：梦的谶语在青铜像前回放——九个词把伪作的主权问题问完；手套与手的比喻同时适用于写作、欲望与占有：ch43 的梦里她说「我是一套你穿的衣服」，此刻她跪在穿衣者的脚下。
 
-**读者视角提示**：这是全书唯一一句以完整问句重复出现的谜语（ch43 梦、ch45 雪）——答案要在最后几章揭晓。
+**读者视角提示**：同一句谜语在 ch43 的梦里是陈述、在 ch45 的雪中变成问句——全书唯一一处以两种语气重复的谜面。
 
 > **原句 4:** "I shivered, desperate for solitude. The blank bronze of her gaze seemed to promise that she'd use me again at her pleasure. She had intruded upon me, and now I couldn't shake the feeling that I wasn't alone, that I wasn't myself."
 

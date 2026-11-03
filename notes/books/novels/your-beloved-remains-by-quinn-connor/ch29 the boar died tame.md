@@ -62,7 +62,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：身体的战场只在半秒内交换完毕——肘击是拒绝，战栗是接收，羞耻是罚款单；「椅子尖叫」让家具替人喊出没说出口的东西。三个名词（战栗、羞耻）是 Act III 感情线的两根轨道。
 
-**读者视角提示**：Celia 的自我审查系统还在运转（羞耻紧贴战栗），但审批速度在变慢——上一章她还全是愤怒，这一章已经会为了多听一句「把它再读一遍」而撒谎。
+**读者视角提示**：Celia 的自我审查系统还在运转（羞耻紧贴战栗），但审批速度在变慢——前几章她还全是怒气，这一章已经会为了多听一句「把它再读一遍」而撒谎。
 
 > **原句 6:** "Like magic, a few other discolorations seemed to appear in pockets. These were not words, nothing orderly, but scattered seemingly at random. This … was not Dreams of the Rose. This was something else."
 
