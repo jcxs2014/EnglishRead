@@ -1,0 +1,61 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch28",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch28_chapter_twenty_eight.txt",
+ "facts": [
+  {
+   "fact": "她放不下超市争执：刚杀完 Eli，他已在找下一个；目标偏偏是过得苦的年轻无家女孩 Nicole。",
+   "anchor": "I can’t stop thinking about our argument in the grocery store",
+   "start": 41,
+   "end": 102
+  },
+  {
+   "fact": "她原以为能改变他、一度有戏；现在「男人改不了」这句老话忽然说得通。",
+   "anchor": "impossible to change a man",
+   "start": 659,
+   "end": 685
+  },
+  {
+   "fact": "她付费订阅 Citizens app 查附近在册性罪犯：姓名照片住址一目了然；她看得张嘴，吐槽一个头像抱蜥蜴的「变态爱爬行动物」。",
+   "anchor": "how many sex offenders are registered in the area",
+   "start": 2529,
+   "end": 2578
+  },
+  {
+   "fact": "她做 Marry Me Chicken：母亲当年用它让父亲相信「就是她」；她想也许能说服未来丈夫别杀某个人。",
+   "anchor": "convince my future husband not to kill a specific person",
+   "start": 4348,
+   "end": 4404
+  },
+  {
+   "fact": "他警告周四是鸡胸西兰花日、别想改变他；她假装抱歉说鸡用完了，端出 Marry Me Chicken。",
+   "anchor": "I have chicken and broccoli on Thursdays",
+   "start": 4556,
+   "end": 4596
+  },
+  {
+   "fact": "他承认一度相信圣诞老人：Leah 用「时区」解释一晚上跑遍所有孩子，其实她早不信，只是不想拿走他的相信。",
+   "anchor": "Leah actually convinced me he was real",
+   "start": 8643,
+   "end": 8681
+  },
+  {
+   "fact": "他说姐姐死后那年的圣诞才知道真相：那年什么礼物都没有，连来自圣诞老人的玩偶都没有。",
+   "anchor": "I didn’t get anything that year",
+   "start": 9276,
+   "end": 9307
+  },
+  {
+   "fact": "她问他多久没和父母说话，他答「几年前感恩节」，连短信都不发；嘴上说大概这样最好，声音里是失望。",
+   "anchor": "They’ve never forgiven me for Leah",
+   "start": 10345,
+   "end": 10379
+  },
+  {
+   "fact": "饭后她提议玩牌，被他拒；她加一句「如果是脱衣扑克呢」，他眼神变了，问「哪种玩法」。",
+   "anchor": "what if it was strip poker",
+   "start": 10892,
+   "end": 10918
+  }
+ ]
+}
