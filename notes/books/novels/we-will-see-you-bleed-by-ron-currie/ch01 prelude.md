@@ -26,7 +26,7 @@ modified: "2026-11-03"
 **为什么这样写**：作者把经济事实写成生理经验——纸养你的胃，硫黄烧你的肺，颗粒物落成黑雪；「供养—毒害」一体两面，为下文「Mill 即上帝、如今抛弃了你」的神学式控诉铺好台阶，比喻因此不是装饰而是论证。
 **读者视角提示**：记牢这组数字（1900 年、240 吨、大萧条零失业），它们是全书罢工线的度量衡，此后每一章的绝望都拿这个基数来称重。
 
-> **原句 3:** "Or at least you did until your mother, Rose, showed up and took a seat at your kitchen table as though, rather than having been dead for a decade, she’d merely been out having her hair set for an extremely long time."
+> **原句 3:** "Your husband, Rheal, had gone to the north woods the day before, to take a break from the tension and sadness that had enveloped the neighborhood for the last year and a half, canoeing the Allagash River and drinking whiskey by firelight with the Saucier brothers. And so you had the place to yourself. Or at least you did until your mother, Rose, showed up and took a seat at your kitchen table as though, rather than having been dead for a decade, she’d merely been out having her hair set for an extremely long time."
 **中文理解**：丈夫 Rheal 前一天去北林散心，跟 Saucier 兄弟划 Allagash 河、篝火边喝威士忌，家里只剩 Babs 一人。就在这时，死去十年的母亲 Rose 走进来，坐到厨房桌边，神态轻松得像只是出门做头发做了太久。
 **关键词**：Rose（母亲名）/ kitchen table（厨房桌边）/ hair set（做头发）/ a decade（十年）
 **为什么这样写**：「做头发」这个庸常比喻是全段最狠的一笔——十年死亡被折算成一次美发厅的时差，荒诞的轻恰好称出缺席的重；显灵不带阴风惨雾，以家常姿态登场，反而更瘆人。
@@ -39,19 +39,19 @@ modified: "2026-11-03"
 **读者视角提示**：第六感设定先于鬼魂出场，顺序是刻意排的：读者已经接受了她的直觉，才能顺理成章地接受死者归来。
 
 > **原句 5:** "If you were a victim, it was only for the few seconds between when Sacha finished his business and you stabbed him in the lung."
-**中文理解**：Babs 问自己是不是疯了，母亲答「远谈不上」。真正的裂缝在 Sacha：当年他强暴了她，她反手一刀刺穿他的肺。母亲的判词残忍而清楚——受害者只算那几秒钟；从刀刃进去那一刻起，你就是动手的人。
+**中文理解**：真正的裂缝在 Sacha：当年他强暴了她，她反手一刀刺穿他的肺。母亲的判词残忍而清楚——受害者只算那几秒钟；从刀刃进去那一刻起，你就是动手的人。
 **关键词**：Sacha（施暴者名）/ stabbed him in the lung（刺穿他的肺）
 **为什么这样写**：创伤不从闪回铺陈，而从母女斗嘴里一句甩出——前一句还是「那是对强奸的一种慷慨说法」的黑色幽默，后一句已经站在尸体旁边；笑意未落先挨一记闷棍，重量全在落差里。
 **读者视角提示**：Sacha 之夜全书会分多次补全，这里只给骨头不给肉；记住「她发誓不再伤人」——那是 Babs 后半部所有挣扎的轴心。
 
 > **原句 6:** "Sacha made you a killer. The only choice you have is whether to accept what you are, and what you must do. Knowing it will make you hated, and hunted."
-**中文理解**：母亲宣告使命：更大的考验在路上，邻里将需要一个只有你能当的领导者。Sacha 把你造成了杀手，你唯一能选的是接不接受这个身份与必须做的事——而代价你清楚：被恨、被追猎。
+**中文理解**：母亲宣告使命：Sacha 把你造成了杀手，你唯一能选的是接不接受这个身份与必须做的事——而代价你清楚：被恨、被追猎。
 **关键词**：a killer（杀手）/ hated, and hunted（被恨、被猎）
 **为什么这样写**：母亲不安慰、不商量，直接把代价报成价目表——被恨、被猎、最终赔命，三个 Knowing it will 起头的排比把残酷摊开在桌面；不粉饰的坦诚，反而是全章最重的一份爱。
 **读者视角提示**：这是全书的任务宣告章：领导罢工中的社区、重拾被封锁的暴力本能，两条线在同一句话里同时点燃。
 
 > **原句 7:** "Then you reached for the other mug, the one you’d poured for your mother and left on the counter, but when you turned it upside down over the sink you found that it was now impossibly, inexplicably empty, just a few drops of coffee tapping against the stainless steel of the sink."
-**中文理解**：母亲消失后，Babs 收拾杯盘：自己那杯洗了，唯独给母亲倒、留在台面上的那杯，倒扣过来诡异地空了，只剩几滴咖啡敲在不锈钢槽底。显灵头一回留下了物证。
+**中文理解**：Babs 收拾杯盘，把曾为母亲倒、留在台面上的那杯倒扣过来——诡异地空了，只剩几滴咖啡敲在不锈钢槽底。显灵头一回留下了物证。
 **关键词**：inexplicably empty（不可思议地空了）/ stainless steel（不锈钢）/ mug（马克杯）
 **为什么这样写**：全章的超自然始终悬在「幻觉还是真实」之间，作者只在最后落一枚物证——空杯；不解释、不强调，让一只器皿替读者做出裁决，收束干净且余味很长。
 **读者视角提示**：空杯与先前烟酒在死者指间凭空成形构成闭环：死者的消费由生者供给、又被真实消耗——这套显灵规则后文会反复用到。

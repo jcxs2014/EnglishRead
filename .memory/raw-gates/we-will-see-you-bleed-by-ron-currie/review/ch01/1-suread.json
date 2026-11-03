@@ -1,0 +1,64 @@
+{
+ "chapter": "ch01",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 1063,
+   "end": 1151,
+   "fact": "开头：1984年8月27日（August 27, 1984），湿热、间有雷雨的缅因夏日；二十九岁（twe",
+   "anchor": "Your name was Babs Dionne, a…"
+  },
+  {
+   "ok": true,
+   "start": 1459,
+   "end": 1563,
+   "fact": "Mill（造纸厂）自 1900 年起包揽全美每一份报纸的用纸：240 tons of paper a d",
+   "anchor": "Since 1900 it had rolled out…"
+  },
+  {
+   "ok": true,
+   "start": 2917,
+   "end": 3026,
+   "fact": "Babs 的丈夫 Rheal 于前一天（the day before）去北林，与 Saucier 兄弟在",
+   "anchor": "Your husband, Rheal, had gon…"
+  },
+  {
+   "ok": true,
+   "start": 3240,
+   "end": 3322,
+   "fact": "Babs 十九岁（nineteen）时母亲 Rose 死于亨廷顿病（Huntington’s disea",
+   "anchor": "until your mother, Rose, sho…"
+  },
+  {
+   "ok": true,
+   "start": 3698,
+   "end": 3804,
+   "fact": "第六感先例：1968年2月1日（first day of February 1968）十三岁（thirt",
+   "anchor": "you’d awakened with the know…"
+  },
+  {
+   "ok": true,
+   "start": 6347,
+   "end": 6436,
+   "fact": "中段：应母亲「Barbara. Coffee.」的要求，Babs 倒了半杯（half a cup）黑咖啡",
+   "anchor": "The moment it was lit, a Mar…"
+  },
+  {
+   "ok": true,
+   "start": 10114,
+   "end": 10197,
+   "fact": "母亲宣告：Babs 人生最大的考验（the biggest test of your life）将至、邻",
+   "anchor": "Sacha made you a killer. The…"
+  },
+  {
+   "ok": true,
+   "start": 12261,
+   "end": 12362,
+   "fact": "结尾：母亲消失后 Babs 重申独自在树林里 Sacha 尸体旁对自己许下的诺言仍在——自那天起她再未伤",
+   "anchor": "when you turned it upside do…"
+  }
+ ]
+}
