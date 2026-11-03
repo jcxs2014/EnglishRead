@@ -1,0 +1,55 @@
+{
+ "book": "all-in-her-head-by-paula-johnston",
+ "chapter": "ch12",
+ "text": "notes/books/mystery-thriller/all-in-her-head-by-paula-johnston/text/ch12_11_cassie.txt",
+ "facts": [
+  {
+   "fact": "他追问 Death 牌会不会真指死亡——比如「所爱之人的死」。",
+   "anchor": "Does it ever actually mean death, though? Say…the death of a loved one?",
+   "start": 835,
+   "end": 906
+  },
+  {
+   "fact": "他说出此行真正的原因：他的女朋友——这个词在她耳边单曲循环。",
+   "anchor": "‘Cassie,’ he says, whipping his head back up. ‘I don’t know if I’m supposed to tell you this or not, but I’m here because of my girlfriend.’",
+   "start": 1552,
+   "end": 1692
+  },
+  {
+   "fact": "女友失踪经过：普通一天，他下班回家人不在，衣服都在、一切如他早上离家时，从此音讯全无。",
+   "anchor": "she wasn’t there when I got home from work. All her clothes were, and everything looked exactly the same as when I left her sleeping in bed that morning, but I don’t know what happened.",
+   "start": 2446,
+   "end": 2631
+  },
+  {
+   "fact": "她的第一反应不是职业关切而是窃喜：女友变成「前女友——不再 ex-ist」。",
+   "anchor": "my heart is clinging to the realisation that the girlfriend he previously mentioned is now technically an ex. As in no longer ex-ists.",
+   "start": 2946,
+   "end": 3080
+  },
+  {
+   "fact": "他报过警，警方说感情跑路很常见、无能为力。",
+   "anchor": "I went to the police and reported her missing – like you’re supposed to do, right? But they said people run off from their relationships all the time.",
+   "start": 4134,
+   "end": 4284
+  },
+  {
+   "fact": "他说胃里有个感觉：她出事了——还问「这叫直觉吧？」",
+   "anchor": "I have this feeling in the pit of my stomach that something bad has happened to her. Do you know what I mean? What would you call that? Intuition?",
+   "start": 4568,
+   "end": 4714
+  },
+  {
+   "fact": "脑内女声命令她别说，她偏要跳——「这是我唯一一次幸福的机会」。",
+   "anchor": "This is my one shot at happiness. It’s my time now, I know it.",
+   "start": 8782,
+   "end": 8844
+  },
+  {
+   "fact": "她当场宣布判决：She’s dead——你女朋友走了。",
+   "anchor": "‘I’m sorry, Finlay, but I’m afraid you’re right. Your girlfriend is gone.’",
+   "start": 9296,
+   "end": 9370
+  }
+ ]
+}
