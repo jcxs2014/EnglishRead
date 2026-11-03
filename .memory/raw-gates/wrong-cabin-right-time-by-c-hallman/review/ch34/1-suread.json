@@ -1,0 +1,61 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch34",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch34_chapter_thirty_four.txt",
+ "facts": [
+  {
+   "fact": "Sage 说自己在自动驾驶状态：屋里漫无目的游荡，端着记不得何时倒的咖啡站了十分钟，对死掉的绿植说话像它欠房租。",
+   "anchor": "I feel like I’m on autopilot",
+   "start": 147,
+   "end": 175
+  },
+  {
+   "fact": "到火葬场，Travis 要按启动键时她拦住：Ryan 本想杀她，该由她送——「让我来」「我要看他烧」。",
+   "anchor": "I want to watch him burn",
+   "start": 2089,
+   "end": 2113
+  },
+  {
+   "fact": "她问接下来怎么办，他答杀不了她，也停不下自己的事；「也许最好让你走」。",
+   "anchor": "I can’t kill you. But I can’t stop doing what I do either",
+   "start": 3550,
+   "end": 3607
+  },
+  {
+   "fact": "她恼怒他说得轻巧：两人经历那么多，多数人会觉得告别难，可他不是正常人；放开她这么容易。",
+   "anchor": "It’s just that easy for him to let me go",
+   "start": 4522,
+   "end": 4562
+  },
+  {
+   "fact": "她冲口问：如果我这么无足轻重，为什么不干脆让 Ryan 杀了我，那样两人都省事。",
+   "anchor": "Why didn’t you just let Ryan kill me",
+   "start": 4567,
+   "end": 4603
+  },
+  {
+   "fact": "他被这话冒犯到后退、音调升高：杀不了她不等于愿意别人杀她——「我无法想象一个没有你的世界，Sage」。",
+   "anchor": "I can’t imagine a world without you",
+   "start": 5200,
+   "end": 5235
+  },
+  {
+   "fact": "她眼泪下来，知道这已是他最接近告白的说法，张开双臂要抱他；他侧身避开、不看她，她放下手臂转回火化炉。",
+   "anchor": "he moves out of the way",
+   "start": 5640,
+   "end": 5663
+  },
+  {
+   "fact": "临走她逼自己直视他：「Travis，如果你伤害 Nicole，我永远不会原谅你。」",
+   "anchor": "I will never forgive you",
+   "start": 8680,
+   "end": 8704
+  },
+  {
+   "fact": "开往阿什维尔近一小时车程她一路哭；「我从没想过要和 Travis 告别。看来这又是我搞错的一件事。」",
+   "anchor": "just another thing I was wrong about",
+   "start": 10615,
+   "end": 10651
+  }
+ ]
+}
