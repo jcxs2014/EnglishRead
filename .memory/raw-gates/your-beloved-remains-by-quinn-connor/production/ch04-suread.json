@@ -1,0 +1,55 @@
+{
+ "book": "your-beloved-remains-by-quinn-connor",
+ "chapter": "ch04",
+ "text": "notes/books/novels/your-beloved-remains-by-quinn-connor/text/ch04_chapter_iv.txt",
+ "facts": [
+  {
+   "fact": "清晨去档案馆路上经图书馆拱廊：青铜像里你跪在回廊花园、温柔低头看野猪，一手抚其额、一手持刀",
+   "anchor": "you knelt in the cloister garden, immortalized in bronze",
+   "start": 263,
+   "end": 319
+  },
+  {
+   "fact": "Celia 再遇 Harry——对方心不在焉根本没看见她，侧身避让就要走",
+   "anchor": "She was too distracted to even notice me at first, sidestepping me to go on her way",
+   "start": 616,
+   "end": 699
+  },
+  {
+   "fact": "Celia 两次拦路（身体而非头脑做的决定）；对方第三次被拦后靠踵后仰、手插粗花呢口袋——学者的决斗姿态",
+   "anchor": "An academic’s dueling posture",
+   "start": 1432,
+   "end": 1461
+  },
+  {
+   "fact": "对方自报 Joan Harriot、Donahue 博士后——可 Celia 今年推荐的是 Beth Green（SMU 博士，研究 Donahue 的维多利亚花语象征），英语系历来采纳她的建议",
+   "anchor": "I’d chosen Beth Green for the position, who’d just defended a dissertation at SMU on Donahue’s symbolic use of Victorian floriography",
+   "start": 2178,
+   "end": 2311
+  },
+  {
+   "fact": "四年前 Harriot 在 Southern Literary Review 刊文批判你的短篇《The Scarlet Chalice》——瘟疫庄园里女仆与女主人饮毒酒、焚屋、相拥而死（你最温柔的作品之一）",
+   "anchor": "an estate is overtaken by a deadly plague, and its sole survivors, a young maid and the lady of the house, drink poisoned wine",
+   "start": 3058,
+   "end": 3184
+  },
+  {
+   "fact": "Celia 深夜醉写驳文四个月后刊出；Harriot 未公开回应，只寄到档案馆一页信，折缝处打着两个词：Sentimental drivel. JH.",
+   "anchor": "Sentimental drivel. JH.",
+   "start": 5143,
+   "end": 5166
+  },
+  {
+   "fact": "Celia 防着发火却嘴滑叫出「Tris」——那是你的至亲在信与私下才用的名字；Harriot 只扬疑问眉便借故离开",
+   "anchor": "The name, famously, that your closest loved ones used in letters and in private",
+   "start": 5851,
+   "end": 5930
+  },
+  {
+   "fact": "结尾：她和露水中静止闪光的青铜像，都没有看 Celia 离开",
+   "anchor": "Neither she nor you, still and gleaming in dew-soaked bronze, watched me go",
+   "start": 6422,
+   "end": 6497
+  }
+ ]
+}
