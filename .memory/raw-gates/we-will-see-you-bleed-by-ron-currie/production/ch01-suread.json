@@ -1,0 +1,55 @@
+{
+ "book": "we-will-see-you-bleed-by-ron-currie",
+ "chapter": "ch01",
+ "text": "notes/books/novels/we-will-see-you-bleed-by-ron-currie/text/ch01_prelude.txt",
+ "facts": [
+  {
+   "fact": "开场定锚：1984-08-27 缅因酷暑，Little Canada 的 Babs Dionne 二十九岁，头一回担心自己要疯。",
+   "anchor": "Your name was Babs Dionne, and for the first time in your twenty-nine years of existence, you had reason to worry you might be losing your mind.",
+   "start": 1063,
+   "end": 1207
+  },
+  {
+   "fact": "Mill 如神：1900 年起近百年日产 240 吨纸；大萧条时沃特维尔无一人失业；如今「抛弃」全镇，烟囱影子像日晷扫过市中心。",
+   "anchor": "Since 1900 it had rolled out every page of every newspaper in the United States: 240 tons of paper a day, 365 days a year, for nearly a century.",
+   "start": 1459,
+   "end": 1603
+  },
+  {
+   "fact": "房子自她十九岁那年母亲死于亨廷顿病起归她所有；她独自在家。",
+   "anchor": "The house had belonged to you since your mother died of Huntington’s disease when you were nineteen.",
+   "start": 2816,
+   "end": 2916
+  },
+  {
+   "fact": "丈夫 Rheal 前一天去北林，跟 Saucier 兄弟划 Allagash 河、篝火边灌威士忌，躲开邻里一年半来的紧张与悲伤。",
+   "anchor": "canoeing the Allagash River and drinking whiskey by firelight with the Saucier brothers",
+   "start": 3093,
+   "end": 3180
+  },
+  {
+   "fact": "死去十年的母亲 Rose 首次显灵，像做完头发回来似的坐上厨房桌——讨咖啡、点烟，烟酒在她指间凭空成形。",
+   "anchor": "she’d merely been out having her hair set for an extremely long time",
+   "start": 3367,
+   "end": 3435
+  },
+  {
+   "fact": "第六感先例一：1968-02-01，十三岁的她先于春节攻势任何报道「知道」哥哥 Jean 在岘港中狙身亡。",
+   "anchor": "you’d awakened with the knowledge that your older brother, Jean, had been killed by sniper fire at Da Nang",
+   "start": 3698,
+   "end": 3804
+  },
+  {
+   "fact": "Sacha 曾性侵她、她反手刺穿其肺——母亲判词「受害者只算那几秒」；她自那日起发誓不再伤人，至今守住。",
+   "anchor": "If you were a victim, it was only for the few seconds between when Sacha finished his business and you stabbed him in the lung.",
+   "start": 9250,
+   "end": 9377
+  },
+  {
+   "fact": "母亲的使命宣告：更大的考验将至，邻居需要她领导；接受「杀手」身份的代价是被恨、被猎杀、最终赔上性命——说完人就消失了，留给她的咖啡杯倒扣时诡异地全空。",
+   "anchor": "Sacha made you a killer. The only choice you have is whether to accept what you are, and what you must do.",
+   "start": 10114,
+   "end": 10220
+  }
+ ]
+}
