@@ -1,0 +1,61 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch26",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch26_chapter_twenty_six.txt",
+ "facts": [
+  {
+   "fact": "她惊讶于自己的平静——不，不是平静，是兴奋：能把 Eli 引入黑角，这种力量让她上瘾。",
+   "anchor": "I’m surprised by the calm I feel this morning",
+   "start": 39,
+   "end": 84
+  },
+  {
+   "fact": "她觉得体内有什么被唤醒：从没想过会参与，几天前还以为会想逃到山里，现在不想。",
+   "anchor": "something has awoken inside me",
+   "start": 372,
+   "end": 402
+  },
+  {
+   "fact": "她看他睡得沉想戳脸确认呼吸——不是盼他死，但若真死了，至少又能用上刚学会的火葬场手艺。",
+   "anchor": "my new crematorium skills",
+   "start": 1053,
+   "end": 1078
+  },
+  {
+   "fact": "一滴油溅台面，她拿锅铲敬礼念「早餐战斗阵亡，他死得勇敢」；他立刻拿纸巾擦掉。",
+   "anchor": "Breakfast combat casualty",
+   "start": 2173,
+   "end": 2198
+  },
+  {
+   "fact": "她问他感觉如何，他说像烈日下出汗沾泥一整天后冲冷水澡：清爽、焕然一新，「感觉很好」。",
+   "anchor": "taking a cold shower",
+   "start": 3081,
+   "end": 3101
+  },
+  {
+   "fact": "她提议复制模式：追踪网络色狼、像处理 Eli 一样清除，世界少几个坏人，他也能得到需要——「这是净收益」。",
+   "anchor": "It’s a net-good situation",
+   "start": 4360,
+   "end": 4385
+  },
+  {
+   "fact": "他重申：不是要当义警让世界变好——「世上有坏人，我就是其中一个」，语气不容再说。",
+   "anchor": "I’m one of them",
+   "start": 5009,
+   "end": 5024
+  },
+  {
+   "fact": "她说不帮我就自己干，已经学会你那一套；他被噎住「你是在威胁我跟你组杀人团伙？」",
+   "anchor": "I’ll be a one-woman killing machine",
+   "start": 5860,
+   "end": 5895
+  },
+  {
+   "fact": "她追问「你对我的计划是什么」；他后退一步说「我对你没有计划——你不可预测，我从没可能计划到会遇到你这样的人」。",
+   "anchor": "You’re unpredictable",
+   "start": 6696,
+   "end": 6716
+  }
+ ]
+}
