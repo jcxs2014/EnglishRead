@@ -95,7 +95,7 @@ modified: "2026-11-03"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| stereo | 立体声音响 | Roddie came with us as I led the way to the basement rumpus room. |
+| stereo | 立体声音响 | “Nice,” Zak said, stroking the top edge before opening the lid to check out the record player and stereo knobs. |
 | station wagon | 旅行车 | “We bought our station wagon from them,” Dale said with a nostalgic smile. |
 | yard-waste | 庭院垃圾（收纳桶） | He’d folded his bed into the sofa and stuffed my father’s clothes into some canvas yard-waste bins. |
 | commission | 佣金 | “Zak said I could do my homework in his shop and earn a commission if I sold something.” |

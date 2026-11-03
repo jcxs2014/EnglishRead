@@ -70,7 +70,7 @@ modified: "2026-11-03"
 | personally | 针对个人地、往心里去 | Zak said Dale probably won’t remember I’m not into girls and that I shouldn’t take it personally. |
 | intensity | （气势的）强度 | I put on my best high school Queen Bee intensity. |
 | sympathy | 同情 | I was glad he’d shown an ounce of sympathy, rather than being a dickhead like Joel. |
-| neglected | 被怠慢的、被冷落的 | That’s why my pussy was so neglected. |
+| suspected | 猜想、暗自认为 | I trusted Zak would’ve kicked Roddie out if it had been an issue, but I suspected he actually enjoyed the company. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
