@@ -64,14 +64,21 @@ modified: "2026-11-02"
 - **为什么这样写**：全书的数据伦理在此拐弯：研究者的默认动作（记录一切）被本能（reflexively）否决——亲密不进数据库，是她在没有导师的情况下自己划的界线。secret or not 的让步结构把这条线画得毫无例外：粉笔记本也不行。
 - **读者视角提示**：对照 ch23 的「might as well fuck around」——玩是真的玩了，底线也是真的有了。记住这一笔：Gardenpath 的伦理感没有消失，它只是在等一个不用教学大纲的时刻自己长出来。
 
-> **原句 8:** "“Why do you feel so good?” Murtis whispered, stroking Peristyle’s back. … “I think it’s because I like you so much.”"
+> **原句 8:** "“Why do you feel so good?” Murtis whispered, stroking Peristyle’s back."
 
-- **中文理解**：「为什么你让我感觉这么好？」Murtis 抚着 Peristyle 的背轻声问。……「我想，是因为我这么喜欢你。」
-- **关键词**：Why do you feel so good / because I like you so much
-- **为什么这样写**：技术问题收到一个非技术答案：她本可以说信号通路、说回声机制——却说出了机制背后的原因。这是本章最简短的告白，也是 Gardenpath 全书对「喜欢」最直接的一次口头确认：所有她翻译不了的东西，在这一句里找到了最省字的译法。
+- **中文理解**：「为什么你让我感觉这么好？」Murtis 抚着 Peristyle 的背轻声问。
+- **关键词**：Why do you feel so good / stroking
+- **为什么这样写**：问题落在「你」身上：她注意到的是对方的状态差异（今晚的 Peristyle 与平常不同），而不是自己的快感——关心先于好奇。抚摸的动作（stroking）把问题说得像哄睡，而不是审问。
+- **读者视角提示**：注意问题的方向：Murtis 问的是「你的感觉」，下一步 Peristyle 的回答把它翻回自己的动机。一问一答之间，关系的位置刚好对调了。
+
+> **原句 9:** "“I think it’s because I like you so much.”"
+
+- **中文理解**：「我想，是因为我这么喜欢你。」——技术问题收到一个非技术答案。
+- **关键词**：because I like you so much / I think
+- **为什么这样写**：她本可以说信号通路、说回声机制——却说出了机制背后的原因。这是本章最简短的告白，也是 Gardenpath 全书对「喜欢」最直接的一次口头确认：所有她翻译不了的东西，在这一句里找到了最省字的译法。
 - **读者视角提示**：注意对话的对称（Murtis 问「你」，Gardenpath 答「我」）——一个问体验，一个交动机。下一句 Murtis 的「如果是你就总想要更多」与「Me too」把两句话变成对表：感情层的同步，先于任何技术的同步。
 
-> **原句 9:** "With some regret, Peristyle returned her suit to its normal configuration. Now the only sensations she felt were her own."
+> **原句 10:** "With some regret, Peristyle returned her suit to its normal configuration. Now the only sensations she felt were her own."
 
 - **中文理解**：带着些许遗憾，Peristyle 把行星服调回常规配置。此刻她唯一能感觉到的，只有她自己的感觉。
 - **关键词**：some regret / normal configuration / only sensations … her own

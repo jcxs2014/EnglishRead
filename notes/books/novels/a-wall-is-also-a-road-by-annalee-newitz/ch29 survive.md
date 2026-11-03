@@ -36,42 +36,49 @@ modified: "2026-11-02"
 - **为什么这样写**：Column 的判词（tourist、responsibility）在心中重放，Gardenpath 的辩护词却先于回复成型：有些责任无人能担——你无法阻止地质时间。supernova 的量级对比既是自辩也是自责：她真正怕的不是喷发，而是「又一次被人指着说你不负责任」。
 - **读者视角提示**：这是 Column 伦理课的回旋镖时刻：他曾说「谁会替你收拾残局」——现在残局是真的，而且收拾不了。Gardenpath 的答案（告诉 Murtis 而不是拯救城市）将在下一块给出它的伦理成色：知情，是她能给的全部。
 
-> **原句 4:** "“You need to leave, if you want to survive.” … “It could be soon. Maybe a year. Maybe ten.”"
+> **原句 4:** "“You need to leave, if you want to survive.”"
 
-- **中文理解**：「你想活命，就得离开。」……「可能很快。也许一年。也许十年。」
-- **关键词**：you need to leave / if you want to survive / Maybe a year. Maybe ten.
-- **为什么这样写**：坦白被压成三个短句：结论（离开）、条件（想活）、期限（一年到十年）——科学的不确定性被翻译成幸存的紧迫。两个 Maybe 是模型诚实的极限，也是叙述最残忍的地方：它给了希望的样子，却没给希望的尺寸。
-- **读者视角提示**：对照「There is no doubt」（下一块）——不确定的期限与确定的结局并存，这正是火山预测的语法。Murtis 的追问次序（什么时候→你确定吗→谁会信我→谁有钱搬）是幸存者的会计学：先验真，再算账。
+- **中文理解**：「你想活命，就得离开。」——结论先行。
+- **关键词**：You need to leave / survive
+- **为什么这样写**：离开是唯一的动词，条件（想活）与对象（你）都短到没有商量余地。这句话把科学的不确定性留给下一段（期限），先把生路说死。
+- **读者视角提示**：对照 ch36 的重逢（「一切如你所言」）——这句话是全章唯一一次她要求对方为自己行动。
 
-> **原句 5:** "“But who has the money to move?” Murtis lowered her eyes, dripping. “I was starting to like it here, too.”"
+> **原句 5:** "“It could be soon. Maybe a year. Maybe ten.”"
+
+- **中文理解**：「可能很快。也许一年。也许十年。」——模型的诚实极限。
+- **关键词**：Maybe a year / Maybe ten
+- **为什么这样写**：保险精算式的诚实：两个 Maybe 是模型不确定性的极限——它给了希望的样子，却没给希望的尺寸。期限越含糊，可见的结局越确定。
+- **读者视角提示**：对照下一段的「There is no doubt」——不确定的期限与确定的结局并存，这正是火山预测的语法，也是 Murtis 后来「不想谈」的伏笔。
+
+> **原句 6:** "“But who has the money to move?” Murtis lowered her eyes, dripping. “I was starting to like it here, too.”"
 
 - **中文理解**：「可谁有钱搬？」Murtis 垂下眼睛，水珠直滴。「我刚有点喜欢上这儿了呢。」
 - **关键词**：who has the money / lowered her eyes / starting to like it here
 - **为什么这样写**：灾难预言落进阶级的现实：逃亡需要本金——一个刚从被买生涯里挣出店铺的人，连逃难都要先算账。I was starting to like it here 的现在进行时最刺：幸福刚到手，末日就挂牌。垂眼的水滴把哭与浴池的水混在一起，分不清是哪种。
 - **读者视角提示**：对照 ch23 的「 eventual. But some people moved away...others don't have the money to fix their places up」——修墙的钱与逃命的钱是同一道门槛。Murtis 的上升故事（taberna、manager）在此被地质学拦腰截断：她刚够到的安全，又要被收回。
 
-> **原句 6:** "“No. I want to see you exactly as you are—your true form. I want your real arm inside me.”"
+> **原句 7:** "“No. I want to see you exactly as you are—your true form. I want your real arm inside me.”"
 
 - **中文理解**：「不。我要看见你完完全全本来的样子——你的真身。我要你真的手臂在我体内。」
 - **关键词**：exactly as you are / your true form / your real arm
 - **为什么这样写**：亲密的终极请求不是某种姿势，而是「撤销伪装」——exactly as you are 是全书伪装主题的解除键。从 ch08 的假形体到此刻的真身，两人的身体关系走完了信任的全程：她要的不是快感的升级，是「在场」的升级。
 - **读者视角提示**：对照 ch17 的初次真身示范（泥球与惊呼 dick）——当时的恐惧已被消化成语法（「真身」如今是两人间的日常词汇）。这一夜的观测清单（黑曜石椭圆、七眼三臂、自动多长的眼睛）让「被看见」第一次成为双向的礼物。
 
-> **原句 7:** "Wrapping the Unnamed tenderly in all her limbs, Peristyle touched a director cell pathway and they both cried out, two life-forms who had somehow found home in each other’s alien bodies."
+> **原句 8:** "Wrapping the Unnamed tenderly in all her limbs, Peristyle touched a director cell pathway and they both cried out, two life-forms who had somehow found home in each other’s alien bodies."
 
 - **中文理解**：Peristyle 用全部的肢体温柔地裹住这个 Unnamed，触到一条 director cells 通路，两人同时喊出声——两个生命形，不知怎么就在彼此的异形身体里找到了家。
 - **关键词**：in all her limbs / a director cell pathway / found home
 - **为什么这样写**：全书的「homecoming 词表」在此获得生理学答案：家不在 Crook-in-the-Road，不在 Memory，不在庞贝——在彼此的身体里。somehow 一词诚实标注了这份运气的性质：没有原理，只有发生。两个 alien 互相成为 native，是这本书对「归属」最激进的一次定义。
 - **读者视角提示**：对照 ch21 的三连失所（孢子、堆肥船、医院）——流浪的一生在此兑现了它的对跖点。也记住 director cells 的角色转换：从 Plumline 想要的武器（「can be used in people」）到床上的通路——同一个器官，两种用途的战争贯穿全书。
 
-> **原句 8:** "“I will. I didn’t come this far to let some bad air get me.”"
+> **原句 9:** "“I will. I didn’t come this far to let some bad air get me.”"
 
 - **中文理解**：「我会的。我不会走到这一步，还让什么毒气弄死我。」
 - **关键词**：I will / come this far / some bad air
 - **为什么这样写**：承诺被幸存者的语法接住：不是「我信你」，而是「我配活下去」——come this far 是十五年奴隶史的自称。把火山灰轻描淡写为 some bad air，是 Murtis 一贯的降调术：把恐惧说小，才搬得动。
 - **读者视角提示**：对照她的人生清单（ch23 的店、ch28 的 I love you）——此刻她拥有的东西比任何时候都多，也就有了「走这么远」的可信度。记住这句承诺：公元 79 年的夏天，它是全书悬得最高的一个情节点。
 
-> **原句 9:** "They grew ideas and conversations on the walls, their words as dense as flowers."
+> **原句 10:** "They grew ideas and conversations on the walls, their words as dense as flowers."
 
 - **中文理解**：他们把思想和对话种在墙上，那些词语密得像花。
 - **关键词**：grew ideas / on the walls / as dense as flowers

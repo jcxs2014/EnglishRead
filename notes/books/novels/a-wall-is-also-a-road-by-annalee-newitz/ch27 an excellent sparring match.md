@@ -43,42 +43,56 @@ modified: "2026-11-02"
 - **为什么这样写**：Wainscot 的崩溃按最痛的次第展开：时长（很久）→转折（直到你出现——我的加疼是别人的到来）→判词（像被谋杀）。省略号是他撑不住的呼吸。这个全书最骄傲的人在这里交出全部铠甲，只换来一句「疼得像被谋杀」。
 - **读者视角提示**：把「until you came along」与 ch20 的「It's going to be OK, Gardenpath. I promise.」连读——同一个受害者，在半梦里安慰别人，在清醒里说出真相。Wainscot 的傲慢自此全部重新定价：那是一具长期疼着的身体的盔甲。
 
-> **原句 5:** "“They said it’s been proven that students learn better when their teacher disciplines them from inside.” … “Pain helps the student absorb knowledge thoroughly.”"
+> **原句 5:** "“They said it’s been proven that students learn better when their teacher disciplines them from inside.”"
 
-- **中文理解**：「他们说这是被证明过的：老师从体内管教时，学生学得更快。」……「疼痛能帮学生把知识吸收得彻底。」
-- **关键词**：been proven / disciplines them from inside / absorb knowledge thoroughly
-- **为什么这样写**：暴力的合法化外衣在此完整披露：一句伪学术（been proven）、一个空间隐喻（from inside——连「管教」都要占领体内）、一条教学论（痛=吸收）。把 Cloud Wars 的研究挪用作教育学，是把战争的副产品写进课程大纲。
-- **读者视角提示**：对照 ch06 Turret 的控诉（Redoubt Lab 与 Galleon 共享凋亡信号）——「从内部瓦解」的两种应用：军队拆人、导师拆心智。Oriel 那句「It's abuse, not teaching」是全书对这套话语的唯一正面否决。
+- **中文理解**：「他们说这是被证明过的：老师从体内管教时，学生学得更快。」——Wainscot 转述 Plumline 的话。
+- **关键词**：been proven / disciplines them from inside
+- **为什么这样写**：暴力的合法化外衣第一层：伪学术（been proven）与空间隐喻（from inside——连「管教」都要占领体内）。把 Cloud Wars 的研究挪用作教育学，是把战争的副产品写进课程大纲。
+- **读者视角提示**：注意措辞来源——Wainscot 转述的是 Plumline 的话（said），转述者自己未必信；这句话的功能是让疼有了一个体面的解释。
 
-> **原句 6:** "“Who would we tell?” Wainscot’s tone was abruptly measured and pragmatic. “Plumline runs the science departments. They answer to nobody.”"
+> **原句 6:** "“Pain helps the student absorb knowledge thoroughly.”"
+
+- **中文理解**：「疼痛能帮学生把知识吸收得彻底。」——教学论的收束句。
+- **关键词**：Pain helps / absorb knowledge thoroughly
+- **为什么这样写**：痛=吸收：伤害被翻译成营养，这是全书所有「教育话术」的公式。短句的笃定语气正是话术的特征：越不可证，越像常识。
+- **读者视角提示**：Oriel 那句「It's abuse, not teaching」是全书对这套话语的唯一正面否决；对照 ch27 末 Plumline 的「战斗是交流的最高形式」，同一套哲学在讲台与考场各说一遍。
+
+> **原句 7:** "“Who would we tell?” Wainscot’s tone was abruptly measured and pragmatic. “Plumline runs the science departments. They answer to nobody.”"
 
 - **中文理解**：「告诉谁？」Wainscot 的语气忽然变得冷静而务实。「科学各系都归 Plumline 管。他们不向任何人负责。」
 - **关键词**：Who would we tell / runs the science departments / answer to nobody
 - **为什么这样写**：举报之路在一句问话里走完：温情的裁决（Oriel 的「我们必须告诉人」）撞上制度的地形图（谁管谁、向谁负责）。Wainscot 说话语气的切换（abruptly measured）正是受害者最熟的本领——情绪可以崩溃，地形必须清楚。
 - **读者视角提示**：把这条路标与 Fence 的故事连读——被清算者连名字都被归档销毁；「不向任何人负责」是 Memory 权力结构的官方答案。Column 也在被否决之列（「没人尊重的新教授」）——孤独从这里起是制度性的。
 
-> **原句 7:** "“What if we told Plumline that we want to study for the Third together? I bet they won’t pull this pain chemical shit if we’re both there.” … “We need Plumline to think this is a show for them. They would love that.”"
+> **原句 8:** "“What if we told Plumline that we want to study for the Third together? I bet they won’t pull this pain chemical shit if we’re both there.”"
 
-- **中文理解**：「如果我们跟 Plumline 说想一起准备 Third 呢？我打赌只要我们俩都在，他们就不敢来那套痛觉化学的屎。」……「得让 Plumline 觉得这是演给他们看的。他们好这一口。」
-- **关键词**：study for the Third together / this pain chemical shit / a show for them
-- **为什么这样写**：自救方案以剧场术语写就：加人（证人效应）、包装（竞争叙事）、预判施害者的审美（他们爱看）。a show for them 是受害者智慧的精髓——不挑战戏台，只改写戏码。计划的每个字都建立在对加害者虚荣心的精确测绘上。
-- **读者视角提示**：对照 ch18 Arch 的「回答本该问的问题」与本章的「演给他们看」——Gardenpath 的求生日志里全是舞台术语。记住「Plumline loves it when we compete」（Wainscot 补的一句）：这套操控术他们两人各自挨过多年，如今合用来反制。
+- **中文理解**：「如果我们跟 Plumline 说想一起准备 Third 呢？我打赌只要我们俩都在，他们就不敢来那套痛觉化学的屎。」——方案第一层：加人。
+- **关键词**：study for the Third together / this pain chemical shit
+- **为什么这样写**：证人效应：把单独的受害者变成一对——施暴者最怕的从来不是反抗，是观众。I bet 的赌注语法暴露底气的来源：不是正义，是算术。
+- **读者视角提示**：这句话由 Gardenpath 提出（原文 "Gardenpath had an idea."）——第一次主动的战术设计，原料是 ch21 的生存经验。
 
-> **原句 8:** "For perhaps the first time since they met, Wainscot bent eyes to Gardenpath with something other than derision or despair. … They sounded like a friendly colleague solving a difficult problem with instrumentation. Not a desperate student fighting to survive grad school."
+> **原句 9:** "“We need Plumline to think this is a show for them. They would love that.”"
+
+- **中文理解**：「得让 Plumline 觉得这是演给他们看的。他们好这一口。」——方案第二层：包装。
+- **关键词**：a show for them / would love that
+- **为什么这样写**：不挑战戏台，只改写戏码——a show for them 是受害者智慧的精髓。They would love that 的判断来自精确的人格测绘：对加害者虚荣心的了解，成了反制的工具。
+- **读者视角提示**：与 ch18 的「回答本该问的问题」同构：同一套「演给权力看」的技艺，这次用来保命。记住这套戏法，ch45 的清数据是它的升级版。
+
+> **原句 10:** "For perhaps the first time since they met, Wainscot bent eyes to Gardenpath with something other than derision or despair. … They sounded like a friendly colleague solving a difficult problem with instrumentation. Not a desperate student fighting to survive grad school."
 
 - **中文理解**：这也许是他们相识以来，Wainscot 第一次用「轻蔑或绝望」之外的眼神看向 Gardenpath。……他们的声音像一个友好的同事在用仪器解决一个难题——而不是一个为从研究生院活下来而挣扎的学生。
 - **关键词**：other than derision or despair / a friendly colleague / with instrumentation
 - **为什么这样写**：关系的翻转被写成眼神的一次换挡：从「轻蔑或绝望」的二选一里走出第三个表情——专注。instrumentation 的比喻把 Wainscot 还原成他们本来的样子：一个把一切（包括创伤）当工程问题的人。自救的意义不在方案多好，在于它让两个受害者第一次以「同事」的身份并肩。
 - **读者视角提示**：这是全书最重要的关系修复：不靠道歉（谁都不欠谁道歉），靠共同的敌人与共同的手艺。记住这个眼神——后文「I'm going to beat you to the Fourth」的宣战，都是从这个眼神里长出来的良性竞争。
 
-> **原句 9:** "Something subtle changed at the Plumline Lab the next journey, after Wainscot made a characteristic fuss about announcing their competition with Gardenpath. … Quietly, cautiously, people started talking about Plumline’s teaching methods."
+> **原句 11:** "Something subtle changed at the Plumline Lab the next journey, after Wainscot made a characteristic fuss about announcing their competition with Gardenpath. … Quietly, cautiously, people started talking about Plumline’s teaching methods."
 
 - **中文理解**：第二天，Plumline Lab 里有什么起了微妙的变化——Wainscot 照例大张旗鼓地宣布了与 Gardenpath 的竞争。……悄悄地、谨慎地，人们开始谈论 Plumline 的教学方法。
 - **关键词**：a characteristic fuss / announcing their competition / started talking
 - **为什么这样写**：个体自救向集体行动的扩散被写成一场安静的传染：一个高调宣言（表演给监视者看）意外成了暗号——别人看懂了「结伴」的功能，纷纷效仿。started talking 的主语是复数的人：沉默的合谋第一次有了人数。
 - **读者视角提示**：对照 Nuraghe 的求助与警告低年级的计划——「不能总是单独和导师在一起」从求生技巧变成公共议题。记住这个链式反应：反抗 Memory 的组织形态在本书里从来不是宣言，是模仿。
 
-> **原句 10:** "“I am extremely impressed with these excellent sparring matches between you. Fighting is the highest form of communication and learning, though some of my less successful colleagues would no doubt disagree.”"
+> **原句 12:** "“I am extremely impressed with these excellent sparring matches between you. Fighting is the highest form of communication and learning, though some of my less successful colleagues would no doubt disagree.”"
 
 - **中文理解**：「你们俩之间这些出色的对练给我留下极深的印象。战斗是交流与学习的最高形式——尽管我那些不太成功的同行们无疑不会同意。」
 - **关键词**：excellent sparring matches / the highest form / less successful colleagues

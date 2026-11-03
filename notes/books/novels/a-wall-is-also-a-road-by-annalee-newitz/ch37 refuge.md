@@ -50,28 +50,42 @@ modified: "2026-11-02"
 - **为什么这样写**：Gardenpath 拿出文明的底牌：多边不是妥协，是最优解——「越多越好」的集群逻辑在爱情语境里第一次兑换成方案。这句话同时暴露了她对 Murtis 世界的理解深度：她在用母语的语法写外语的情书。
 - **读者视角提示**：对照 ch01 的「clustering 四人制」与 lupanar 的群交（ch15）——Gardenpath 的方案在这颗星球上其实有先例，只是被制度划成了「性」而非「关系」。读者即将在下一块看到那道制度性的墙。
 
-> **原句 6:** "“That was fucking. I’m talking about relationships. Marriages.” … “Only men can marry women.”"
+> **原句 6:** "“That was fucking. I’m talking about relationships. Marriages.”"
 
-- **中文理解**：「那是做爱。我说的是关系。是婚姻。」……「只有男人能娶女人。」
-- **关键词**：relationships / Marriages / Only men can marry
-- **为什么这样写**：区分法一锤定音：肉体可以群，名分必须独——罗马婚姻法把「在一起」分割成两个不可通约的词汇表。Only men can marry 的六个词回收了 ch15 的权力课（男人掌管命名）：连「我们三个一起」的语法在这个世界都不存在。
-- **读者视角提示**：对照 ch11 的 men 之辩（自称 men 的悖论）——本章给出它最私人的代价：Murtis 连爱两个女人的权利都没有立法保障。读者此刻明白 XXXX（ch33）为什么只能留在暗语里。
+- **中文理解**：「那是做爱。我说的是关系。是婚姻。」——区分法一锤定音。
+- **关键词**：relationships / Marriages / That was fucking
+- **为什么这样写**：肉体可以群，名分必须独——「在一起」被分割成两个不可通约的词汇表。三短句的排比把界线越画越硬。
+- **读者视角提示**：对照 ch15 的孔口经济学：性可以定价，婚姻只能在制度里注册——两套账目在这一句里对撞。
 
-> **原句 7:** "“I am. I do. But we can’t tell Julia.” … “I’m different. If I told Julia, she would be upset.”"
+> **原句 7:** "“Only men can marry women.”"
 
-- **中文理解**：「我是。我在。但我们不能告诉 Julia。」……「我不一样。告诉 Julia 的话，她会难过。」
-- **关键词**：I am. I do. / can’t tell Julia / I’m different
-- **为什么这样写**：三个超短句的肯定（在、爱）与一个长解释（不能说）——诚实的清单里唯一的例外用「她会难过」来辩护：不是怕失去，是怕伤害。I'm different 是 Murtis 对自己一生的定语：不同，且为此付管理成本。
-- **读者视角提示**：对照 Gardenpath 的伪装生涯（藏受体、藏数据、藏童年）——「不说」这门手艺两人都是行家，只是动机一个为生存一个为温柔。这一对说谎者终于互相看见了对方的谎言学。
+- **中文理解**：「只有男人能娶女人。」——六个词回收 ch15 的权力课。
+- **关键词**：Only men can marry
+- **为什么这样写**：连「我们三个一起」的语法在这个世界都不存在：命名权（men）之外，这里还立着婚姻法。制度的门缝对女性只开一条，而婚姻不在其中。
+- **读者视角提示**：Murtis 连爱两个女人的权利都没有立法保障——XXXX（ch33 的暗语）为什么只能留在暗语里，答案在这里。
 
-> **原句 8:** "“I think the closest translation would be Fenestra? Fenestra isn’t a woman or a man, but I don’t think she would mind if we used ‘she.’”"
+> **原句 8:** "“I am. I do. But we can’t tell Julia.”"
+
+- **中文理解**：「我是。我在。但我们不能告诉 Julia。」——三个肯定与一个例外。
+- **关键词**：I am. I do. / can't tell Julia
+- **为什么这样写**：诚实的清单里唯一的例外用「她会难过」来辩护——不是怕失去，是怕伤害。短句越肯定，例外越沉重。
+- **读者视角提示**：注意 Gardenpath 的追问（「也许 Julia 跟你一样？你问过她吗？」）被 Murtis 一口回绝——假说没有被测试的机会；这正是本章两个诚实版本的裂缝。
+
+> **原句 9:** "“I’m different. If I told Julia, she would be upset.”"
+
+- **中文理解**：「我不一样。告诉 Julia 的话，她会难过。」——例外被升格为自画像。
+- **关键词**：I'm different / she would be upset
+- **为什么这样写**：I'm different 是 Murtis 对自己一生的定语：不同，且为此付管理成本。把自己的选择解释成例外，是她维持两段关系的操作系统。
+- **读者视角提示**：两个说谎者的互相看见——Murtis 的「不说」与 Gardenpath 的伪装是同一门手艺；差别只在动机（一个为温柔，一个为生存）。
+
+> **原句 10:** "“I think the closest translation would be Fenestra? Fenestra isn’t a woman or a man, but I don’t think she would mind if we used ‘she.’”"
 
 - **中文理解**：「我觉得最接近的翻译是 Fenestra？Fenestra 既不是女人也不是男人，但我想她不会介意我们用『她』。」
 - **关键词**：the closest translation / Fenestra / isn’t a woman or a man
 - **为什么这样写**：Oriel 的名字第一次进入庞贝的语料：Fenestra（拉丁语「窗」）——一个窗户般的译名：透光、有框、两边都看得见。性别表述（既不是女人也不是男人）与 ch11 的「Unnamed 分男女外观无异」形成镜像：这个世界的性别语法遇到了学不会它的语言。
 - **读者视角提示**：对照 ch11-15 的性别课（men/women/pronouns）——Gardenpath 如今是双向的翻译官：把挚友译进罗马、把爱人译回星球。记住「窗」这个意象：Oriel 在两人关系里始终是透光的那一侧。
 
-> **原句 9:** "Peristyle gazed into Murtis’s alien eyes and realized she had no answer to that question."
+> **原句 11:** "Peristyle gazed into Murtis’s alien eyes and realized she had no answer to that question."
 
 - **中文理解**：Peristyle 凝视着 Murtis 那双异星的眼睛，意识到自己对那个问题没有答案。
 - **关键词**：alien eyes / no answer

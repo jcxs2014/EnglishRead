@@ -29,49 +29,63 @@ modified: "2026-11-02"
 - **为什么这样写**：文化研究的副作用被定义成一种幻觉病：世界一旦被「另一种视角」打开，家就把不回去了——塔顶的花成了头发，学院成了身体。shouldn't be there 是本书对「认识论代价」的诚实记账：看见是要付租金的。
 - **读者视角提示**：这是对全书的自反性注脚：Gardenpath 每多懂一分庞贝，就在 Memory 多看见一分它的怪异。读者正在经历同一件事——这本精读也在改变你回看日常的方式。
 
-> **原句 3:** "“Wait, what? You fucked Murtis?” … “You fucked the subject of your research?”"
+> **原句 3:** "“Wait, what? You fucked Murtis?”"
 
-- **中文理解**：「等等，什么？你跟 Murtis 做了？」……「你跟你研究的对象做了？」
-- **关键词**：You fucked / the subject of your research
-- **为什么这样写**：Oriel 用最粗的一个词把整件事压缩成学术伦理事故——同一个动词出现两次，第一次是不敢相信，第二次已经是指控的措辞。粗口在本书一直承担温度计功能：友谊的温度，此刻在读数上跳红。
-- **读者视角提示**：注意 Gardenpath 的辩解结构（获准进入、我什么感觉都没有、他们很喜欢）——每一条都是真的，合起来却更糟：把「不感受」当成伦理豁免，正是 Oriel 一直反对的逻辑。
+- **中文理解**：「等等，什么？你跟 Murtis 做了？」——Oriel 的第一反应是不敢相信：最粗的那个动词先出口，把整件事压成一场事故。
+- **关键词**：Wait, what / You fucked Murtis
+- **为什么这样写**：粗口在此承担温度计功能：关系越近，话越直接。五个词里还留着「我听错了」的余地——Oriel 不相信的不是事实，是自己听到的事实。
+- **读者视角提示**：注意这句话发生在 Gardenpath 主动坦白之后：他们刚说完「获准进入、帮忙维护」，换来的第一声是脏话——友谊的读数，从这里开始跳红。
 
-> **原句 4:** "“Maybe you should cut your research into the Unnamed out of your examination materials.”"
+> **原句 4:** "“You fucked the subject of your research?”"
+
+- **中文理解**：「你跟你研究的对象做了？」——同一个动词第二次出现，宾语换成了职称：私人事件被当场翻译成学术伦理事故。
+- **关键词**：the subject of your research / You fucked
+- **为什么这样写**：重复的动词、更换的宾语——把私事定性为「研究对象」的正是 the subject of your research 这五个词。同句二现，语气从「不敢相信」滑到「果然如此」：定性已经完成。
+- **读者视角提示**：对照 Gardenpath 的辩解结构（获准进入、我什么感觉都没有、他们很喜欢）——每一条都是真的，合起来却更糟：把「不感受」当成伦理豁免，正是 Oriel 一直反对的逻辑。
+
+> **原句 5:** "“Maybe you should cut your research into the Unnamed out of your examination materials.”"
 
 - **中文理解**：「也许你该把对 Unnamed 的研究从你的考试材料里剔出去。」
 - **关键词**：cut … out of / examination materials
 - **为什么这样写**：Oriel 的建议是本章唯一的「解决方案」句——冷、可操作、且完全正确：把风险隔离出正式轨道。但整句没有主语「我」，命令的语法里没有一个「你」字——温柔的建议用公文口吻说出，说明提建议的人已经不敢越界太多。
 - **读者视角提示**：这与 ch12 的「告诉 Murtis 真相」构成 Oriel 的完整弧：先要求诚实，再为诚实的后果兜底。Gardenpath 的回答（只谈食物网、不谈 Unnamed）表面顺从——事实是那本粉色笔记本一分都没少写。
 
-> **原句 5:** "“I’m working myself. We’re on the verge of something big.”"
+> **原句 6:** "“I’m working myself. We’re on the verge of something big.”"
 
 - **中文理解**：「是我在用我自己。我们正处在某个大发现的边缘。」
 - **关键词**：working myself / on the verge / something big
 - **为什么这样写**：Buttress 问「Plumline 在榨你吧」，Wainscot 的回答把主语从 Plumline 换成自己——被征用者主动认领了征用，这是权力最经济的形态。on the verge of something big 用复数的 we，把一个人的疲惫说成一个项目的高潮：他需要相信消耗有终点。
 - **读者视角提示**：对照银流教义（银流是生命之源）与 Wainscot 日渐暗沉的膜色——「大发现」的性质读者已有怀疑。他的弧线是本书对「体制内的聪明人」最细的解剖：不是失败者，是被自己的优秀选中的人。
 
-> **原句 6:** "If your other examiners ask a question you can’t answer, pretend they asked something you can, and answer that. … You’re not ignoring the question. You’re simply answering the question they should have asked."
+> **原句 7:** "If your other examiners ask a question you can’t answer, pretend they asked something you can, and answer that."
 
-- **中文理解**：「如果别的考官问了你答不上的问题，就假装他们问的是你能答的，然后答那个。……你不是在回避问题。你只是在回答他们本该问的那个问题。」
-- **关键词**：pretend / answer that / the question they should have asked
-- **为什么这样写**：应试心法被讲成一条哲学：先偷换，再重构，最后自我正名——三步走完，回避就有了体面的名字。should have asked 暗含考场的真相：问题本身也是权力（谁有权决定什么该被问）。这句话 gardenpath 后文将用得炉火纯青，而 Oriel 们会说：那叫撒谎。
-- **读者视角提示**：把它记下来——下一章面对 Plumline 时，这条心法是 Gardenpath 唯一的武器。同时留意它的伦理回声：Gardenpath 对 Murtis 的「pseudo sex」自我解释，用的正是同一套「回答本该问的问题」。
+- **中文理解**：「如果别的考官问了你答不上的问题，就假装他们问的是你能答的，然后答那个。」
+- **关键词**：a question you can’t answer / pretend / answer that
+- **为什么这样写**：第一句把考场写成话术现场：不会的问题不要硬答，先「假装」题目被换成会的——pretend 是这台机器的引擎，答案的正确性让位于选题的主动权。
+- **读者视角提示**：把它记下来——下一章面对 Plumline 时，这条心法是 Gardenpath 唯一的武器。
 
-> **原句 7:** "May the best of them make it to homecoming!"
+> **原句 8:** "You’re not ignoring the question. You’re simply answering the question they should have asked."
+
+- **中文理解**：「你不是在回避问题。你只是在回答他们本该问的那个问题。」——两句自我正名把「偷换」升级成方法论：回避一旦有了名字，就有了体面的位置。
+- **关键词**：not ignoring / answering / should have asked
+- **为什么这样写**：should have asked 暗含考场的真相：问题本身也是权力（谁有权决定什么该被问）。先偷换、再重构、最后自我正名——三步走完，这套话术成了哲学。
+- **读者视角提示**：留意它的伦理回声：Gardenpath 对 Murtis 的「pseudo sex」自我解释，用的正是同一套「回答本该问的问题」。
+
+> **原句 9:** "May the best of them make it to homecoming!"
 
 - **中文理解**：「愿它们中最优秀的能抵达归乡！」
 - **关键词**：May the best / make it to homecoming
 - **为什么这样写**：一句对孢子的例行祝福，落在 Gardenpath 耳里却重如雷——Homecoming 正是 Language Log 上那个被 Murtis 判为「扯淡」的词、那个「没归乡还算不算人」的词。Arch 的善意与制度的词汇在此重叠：祝福语本身就是筛选标准。
 - **读者视角提示**：对照 ch14 的语言清单与 ch15 的「supposed to be」家族——homecoming 是它们的词根。Gardenpath 的沉默（looked away, troubled）是本章唯一一次让暗线浮到脸上。
 
-> **原句 8:** "“Spring is the time when Peristyle comes home,” Murtis would say, opening their door and arms to them."
+> **原句 10:** "“Spring is the time when Peristyle comes home,” Murtis would say, opening their door and arms to them."
 
 - **中文理解**：「春天是 Peristyle 回家的季节，」Murtis 总这么说，把门和手臂一起为他们打开。
 - **关键词**：Spring / comes home / door and arms
 - **为什么这样写**：一句口头禅让田野例行有了人文的温度：在 Murtis 的语法里，Peristyle 的往返是季节，是物候——一个外星访客被安置进了罗马农业时间的最深处。door and arms 的并置把居所与怀抱写成同一个接受动作。
 - **读者视角提示**：homecoming 在这里完成了它的第二次定义：Ch14 的词表说它「本来应该」发生，Murtis 说的回家却是被期待、被开门的——同一个词，制度版与情义版。Gardenpath 迟迟不肯按「两三站就回」的理性安排离开庞贝，答案就在这句口头禅里。
 
-> **原句 9:** "They would be fully rested and alert for the exam, which was set for Harvest."
+> **原句 11:** "They would be fully rested and alert for the exam, which was set for Harvest."
 
 - **中文理解**：考试定在收获季，届时他们会休整完毕、保持警觉。
 - **关键词**：fully rested / set for Harvest

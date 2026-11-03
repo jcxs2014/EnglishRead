@@ -50,21 +50,28 @@ modified: "2026-11-02"
 - **为什么这样写**：Murtis 的权力课只有两句：第一句划界（拥有不了我的店），第二句拆解（财富的自噬——马屁精是权力的隔音墙）。ass lickers 的粗口是这本书给底层智慧的标准音色：真理穿着脏话出门，因为体面的词都被上面的人征用了。
 - **读者视角提示**：对照 Plumline（「answer to nobody」）与 Lucius（火腿日晷的掌声）——两人都被同一堵「马屁精之墙」围着。Murtis 的政治学来自被统治者的一侧，与 Column 的伦理课、Oriel 的直觉课并列为 Gardenpath 的第三位老师。
 
-> **原句 6:** "“So I’ll be dead before you pass your Fourth Exam?” … “I’m almost thirty. I’m not going to be around in fifty years.”"
+> **原句 6:** "“So I’ll be dead before you pass your Fourth Exam?”"
 
-- **中文理解**：「所以我会在你考过 Fourth 之前就死了？」……「我快三十了。五十年后我不在。」
-- **关键词**：dead before / almost thirty / fifty years
-- **为什么这样写**：全书最残酷的数学只用两个数：她的学位周期（约三十五到五十年）与他的预期寿命（不到三十年多一点）。Murtis 先笑（Doubling up with laughter）再问——笑声是这句死刑判决的缓冲垫，也是它最锋利的部分：能把死亡讲成笑话的人，是真的一点时间都没有了。
-- **读者视角提示**：这是「长寿的孤独」主题的引爆点：Gardenpath 的种族优势（不老、不急）从祝福变成刑具——他们拥有一切时间，唯独没有与所爱之人共享的那部分。ch02 的誓言（「我会回到挚友身边」）在此获得第三种重量：回来时，人还在吗。
+- **中文理解**：「所以我会在你考过 Fourth 之前就死了？」——Murtis 笑着问出的死刑判决。
+- **关键词**：dead before / pass your Fourth Exam
+- **为什么这样写**：死亡被写成一句玩笑的问句——先笑（Doubling up with laughter）再问，笑声是这句判决的缓冲垫。问句的主语是她自己，宾语是他的考试：两件事被放进同一个时间轴比较。
+- **读者视角提示**：对照本章的算术（学位周期 35–50 年 vs 寿命）——这道除法书里算了两次：第一次在 ch17 的「像 Helen 一样死」，第二次在这里，且这次算的是她自己。
 
-> **原句 7:** "“I love you,” she said."
+> **原句 7:** "“I’m almost thirty. I’m not going to be around in fifty years.”"
+
+- **中文理解**：「我快三十了。五十年后我不在。」——两个数字把玩笑坐实。
+- **关键词**：almost thirty / fifty years
+- **为什么这样写**：全书最残酷的数学只用两个数：她的岁数与他的时间表。能把死亡讲成笑话的人，是真的一点时间都没有了——语气越平常，越清楚。
+- **读者视角提示**：这句把 I love you 从告白变成倒计时：寿限的差，从此是这段关系的第三位主角。
+
+> **原句 8:** "“I love you,” she said."
 
 - **中文理解**：「我爱你，」她说。三个词说完，不再有任何补充——她刚捧着那张既陌生又熟悉的脸，意识到那份注视里的共情终有一天会消失，于是把能翻译的都翻译完了，剩下的只能直说。
 - **关键词**：I love you
 - **为什么这样写**：全书的第一次告白只有三个词，且落在凝视的末尾（cupped her strange, familiar face...realizing there would soon be an end to the empathy she had found there）——先看清失去，再说爱。没有形容词、没有 but、没有解释，这是 Gardenpath 式的语言：能翻译的都翻译过了，剩下的只能直说。
 - **读者视角提示**：对照誓约受体（永不遗忘的技术承诺）与这句裸语——技术能保住联系，保不住「在场」。两个物种的时差从此是这段关系的第三位主角。
 
-> **原句 8:** "They held each other under the rapidly moving clouds, watching the galaxy burn and extinguish itself as rain continued to fall."
+> **原句 9:** "They held each other under the rapidly moving clouds, watching the galaxy burn and extinguish itself as rain continued to fall."
 
 - **中文理解**：他们在疾走的云下相拥，看着星系在雨中燃烧、熄灭，雨一直在下。
 - **关键词**：under the rapidly moving clouds / burn and extinguish / rain continued
