@@ -48,14 +48,14 @@ modified: "2026-11-02"
 - **中文理解**：「一切正如你所说！Vesuvius 像 Aetna 一样炸了，只是糟得多。」
 - **关键词**：just as you said / like Aetna / much worse
 - **为什么这样写**：Vesuvius 的名字第一次被说出——之前全书只用「山」；此刻它有了名字，像凶手落网时被叫出真名。Murtis 的报信用的是 Murtis 的参照系（Aetna，南方的活火山）：她终于用自己的经验消化了那场预言。
-- **读者视角提示**：对照 ch29 的「just like Aetna」伏笔（旅客们讲过南方的火山）——Murtis 的信任桥梁一直是她见过的东西。这一句也确认：她逃了，她的警告网络工作了。
+- **读者视角提示**：对照 ch29 提到 Aetna 的伏笔（旅客们讲过南方的火山）——Murtis 的信任桥梁一直是她见过的东西。这一句也确认：她逃了，她的警告网络工作了。
 
 > **原句 6:** "“I’m so sorry. I wish I hadn’t been right.”"
 
 - **中文理解**：「我很抱歉。我真希望自己没说对。」
 - **关键词**：I’m so sorry / I wish I hadn’t been right
 - **为什么这样写**：全章的题眼只有十个词：科学家的最高成就（说中了）与爱人的最低谷（说中了）在同一句里短兵相接。wish I hadn't been right 否定了自己毕生的技艺——这是全书唯一一次她嫌弃自己的正确。
-- **读者视角提示**：对照 ch25 的「Sold or conquered?」与 Plumline 的「can be used」——「正确」在这个故事里从来都是武器；Gardenpath 是唯一一个想缴械的持有者。记住这句，它定义了她此后所有研究的伦理底色。
+- **读者视角提示**：对照 ch25 的「Sold or conquered?」与 Redoubt 的「can be used」——「正确」在这个故事里从来都是武器；Gardenpath 是唯一一个想缴械的持有者。记住这句，它定义了她此后所有研究的伦理底色。
 
 > **原句 7:** "“You look the same as you always do. As young as the day we met.”"
 

@@ -20,7 +20,7 @@ modified: "2026-11-02"
 - **中文理解**：Peristyle 的模型显示，一场爆炸很快到来的概率极高。大到足以把整座山头掀掉。
 - **关键词**：an extremely high probability / coming soon / take the whole top off the mountain
 - **为什么这样写**：判决用概率语言宣读——模型的克制（extremely high probability）与后果的具体（掀掉山头）互相拉扯：科学越谨慎，灾难越具体。读者知道这是公元 79 年，Murtis 不知道——本章的悬念一半在地质，一半在名字（Vesuvius 直到后文才被说出）。
-- **读者视角提示**：对照 ch24 的「built on death as well as life」——同一座供给肥沃与温泉的山，现在被算出了账单的另一面。科学与预言在此重合：模型即谶语。
+- **读者视角提示**：对照 ch28 的「built on death as well as life」——同一座供给肥沃与温泉的山，现在被算出了账单的另一面。科学与预言在此重合：模型即谶语。
 
 > **原句 2:** "This was the temporal arc of her food web, and her hypothesis: The mountain would eat the city."
 

@@ -10,7 +10,7 @@ modified: "2026-11-02"
 - **一句话概括**：Plumline 带着集群赌气去 Galleon、留下一封笑翻全屋的辞职信；第五考没有考试——只有一个实验室的 offer（用沉默换的？）；Gardenpath 在赴考前先去了林子：请旧相好 Casement 牵线 Adobe，把运输清单上所有庞贝之行判成「多余」清除——Galleon 人可以留着原型，但永远找不到更多 director cells；集群会议则把 Murtis 的旧忠告兑现成一个提案：离开 Memory，建自己的社区，不造武器。
 - **情感弧线位置**：双重解放的一章。制度线（第五考的廉价加冕）让她看清奖杯的成色，私人线（清数据的密谋）让她第一次为保护而非获取而动用关系网；「我们走」的提案在群酒里落地——Murtis 的「听你朋友的话」完成了最后一次传球。
 - **Tropes 兑现/反转**：「加冕典礼」套路被反写成一场形式（formality），反转在受封者的冷眼（「换沉默的价码？」）；「风流浪子」套路反转成「浪子的自我发现」——约了半辈子的人个个像 Oriel；「建国大业」套路以一张点将名单兑现。
-- **人物弧线**：Casement：从相好到共谋（「我还以为你是个驯服的小教授」）；Gardenpath：学会用灰色手段做蓝色的事；Wainscot：留在 Old Memory 当内线（下一章）——集群的第一次分裂是友好的。
+- **人物弧线**：Casement：从相好到共谋（「我还以为你是个驯服的小教授」）；Gardenpath：学会用灰色手段做蓝色的事；Wainscot：留在 Old Memory 当内线（ch47）——集群的第一次分裂是友好的。
 - **叙事手法**：以「记录」为暗线：辞职信（公开的记录）、运输清单（被清除的记录）、dissertation（即将出版的记录）——三种文本的命运在本章分岔；「extraneous（多余）」一词是 Memory 语言的黑色注脚：被判多余的东西，包括人。
 
 ## 精读
@@ -20,7 +20,7 @@ modified: "2026-11-02"
 - **中文理解**：根据这位前科学主任一封极长且佶屈聱牙的辞职通告，他们将带着集群搬去 Galleon，等 Memory 「治好它在学生身上的溺爱狂症，和它在所有人身上的官僚集脑症」。
 - **关键词**：turgid resignation notice / coddlemania / bureaucratic clusterbrain
 - **为什么这样写**：施暴者的退场白被原文引用（带引号的原话）——coddlemania（溺爱狂）与 clusterbrain（集群脑）两个自造骂词是本书最锋利的镜子：在他的词典里，善待学生是病，程序公正是病。turgid（肿胀浮夸）是叙述者的诊断：文风即人格。
-- **读者视角提示**：对照 ch14 的「It's not personal」与本章的自白——Plumline 到最后都认为错的是世界。记住这两个病名：它们将是形容 Memory 改革派最好的反讽勋章。
+- **读者视角提示**：对照 ch31 的「It's not personal」与本章的自白——Plumline 到最后都认为错的是世界。记住这两个病名：它们将是形容 Memory 改革派最好的反讽勋章。
 
 > **原句 2:** "Still, Casement had their own unique charms. They pressed closer to Gardenpath, three arms diffusing desire across their membrane, a molecular seduction that they had no desire to resist."
 

@@ -41,7 +41,7 @@ modified: "2026-11-02"
 - **中文理解**：「他们让我『练习』很久了。直到你出现。他们总是……总是说我得再努力。可是太疼了。感觉像被谋杀。」
 - **关键词**：making me practice / until you came along / like being murdered
 - **为什么这样写**：Wainscot 的崩溃按最痛的次第展开：时长（很久）→转折（直到你出现——我的加疼是别人的到来）→判词（像被谋杀）。省略号是他撑不住的呼吸。这个全书最骄傲的人在这里交出全部铠甲，只换来一句「疼得像被谋杀」。
-- **读者视角提示**：把「until you came along」与 ch20 的「It's going to be OK, I promise」连读——同一个受害者，在半梦里安慰别人，在清醒里说出真相。Wainscot 的傲慢自此全部重新定价：那是一具长期疼着的身体的盔甲。
+- **读者视角提示**：把「until you came along」与 ch20 的「It's going to be OK, Gardenpath. I promise.」连读——同一个受害者，在半梦里安慰别人，在清醒里说出真相。Wainscot 的傲慢自此全部重新定价：那是一具长期疼着的身体的盔甲。
 
 > **原句 5:** "“They said it’s been proven that students learn better when their teacher disciplines them from inside.” … “Pain helps the student absorb knowledge thoroughly.”"
 

@@ -40,7 +40,7 @@ modified: "2026-11-02"
 
 - **中文理解**：「是吗？」Oriel 竖起了刺。「在我看来，Memory 里挤满了假装世界上不存在真实生活的人。」
 - **关键词**：bristled / pretending / real life
-- **为什么这样写**：一句判决覆盖整座学院：不是个别人虚伪，是「假装」本身成为建制。real life 在 Oriel 的用法里指着土地、农民、庄稼这些拒绝被考试度量的事物——这正好是上一章「Memory 用数据给价值定价」的另一面。Gardenpath 的「这对我不是游戏」与这句判词相撞：两句话都真，且互相不可译。
+- **为什么这样写**：一句判决覆盖整座学院：不是个别人虚伪，是「假装」本身成为建制。real life 在 Oriel 的用法里指着土地、农民、庄稼这些拒绝被考试度量的事物——这正好是 ch11「Memory 用数据给价值定价」的另一面。Gardenpath 的「这对我不是游戏」与这句判词相撞：两句话都真，且互相不可译。
 - **读者视角提示**：记住这句——它是全书对 Memory 最浓缩的批判，也预演了 Oriel 最终的选择。Gardenpath 的伪装者身份让这句话多一层刺：他们自己就是「假装」的专家。
 
 > **原句 5:** "“Just because I’m not an academic doesn’t mean I won’t be questioning your motives, pal.”"
@@ -69,14 +69,14 @@ modified: "2026-11-02"
 - **中文理解**：一种剧毒般的必然感在 Gardenpath 体内蔓延。……Plumline 总能得到他们想要的。
 - **关键词**：poisonous inevitability / Plumline always got
 - **为什么这样写**：必然感被命名为毒——身体层面的中毒隐喻（毒在蔓延）让制度压迫有了生理形态。always got what they wanted 是全书对 Plumline 的行为定律：不是阴谋，是惯性。Gardenpath 的绝望不在拒绝会失败，而在拒绝这个选项从未真正存在过。
-- **读者视角提示**：对照 ch21 的童年结构（Robust 船上「不合适却走不了」）——必然感是 Gardenpath 的旧伤名词。本章结尾 Oriel 指的路（找 Column）在下一章会撞得更疼：帮手有限，是这本书的常态设定。
+- **读者视角提示**：对照 ch21 的童年结构（Robust 船上「不合适却走不了」）——必然感是 Gardenpath 的旧伤名词。本章结尾 Oriel 指的路（找 Column）在 ch22 会撞得更疼：帮手有限，是这本书的常态设定。
 
 > **原句 9:** "And then Wainscot softened next to them, sending a few half-dream thoughts as they began to merge. “It’s going to be OK, Gardenpath. I promise.”"
 
 - **中文理解**：然后 Wainscot 在他们身旁软了下来，随着彼此开始融合，送出几个半梦的念头。「会没事的，Gardenpath。我保证。」
 - **关键词**：half-dream thoughts / It’s going to be OK / I promise
 - **为什么这样写**：全书最难读的关系在最柔软的时刻给了读者一句无法归档的话：它发生在意识溶解的边界，sender 与 receiver 都不能担保它真的发生过。Wainscot 的「我保证」没有上下文担保——这让它比任何宣言都重：一个被权力榨干的人，把仅剩的力气用来保证别人的安全。
-- **读者视角提示**：下一章开头 Gardenpath 会试探这个温度（Wainscot 的反常友善）。这句 promise 与 ch02 的两句 promise（对 Oriel 的「我会回来」、对 Murtis 的「我会回来」）并列成书——记住它，无论真假，它都是 Wainscot 这个角色的谜底之一。
+- **读者视角提示**：ch22 开头 Gardenpath 会试探这个温度（Wainscot 的反常友善）。这句 promise 与 ch02 的两句 promise（对 Oriel 的「我会回来」、对 Murtis 的「我会回来」）并列成书——记住它，无论真假，它都是 Wainscot 这个角色的谜底之一。
 
 ## 本章词汇
 

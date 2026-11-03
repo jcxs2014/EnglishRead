@@ -41,7 +41,7 @@ modified: "2026-11-02"
 - **中文理解**：「我是在说，他们正在对我发动一场运动，想让我闭嘴，因为他们不喜欢我的观点。某些学生认为科学就该是种种花、看看星星，他们不接受严酷的现实——创新永远从竞争中生长出来。」
 - **关键词**：a campaign against me / flower growing and stargazing / grows out of competition
 - **为什么这样写**：Plumline 的自我辩护升格为意识形态宣言：把受害者重塑为「天真派」（种花看星星），把施害包装成「现实主义」（竞争出创新）——这套话语是全书一切压迫的总纲。grows out of competition 与 Turret 的「build to heal」是同一场战争的两种科学观。
-- **读者视角提示**：对照 ch27 的「pain helps the student absorb knowledge」与 ch30 的「fighting is the highest form」——Plumline 的哲学从头到尾只有一句：争斗即进步。参议院此刻要审的不是一桩违规，是这套哲学的账。
+- **读者视角提示**：对照 ch27 的「pain helps the student absorb knowledge」与 ch27 的「fighting is the highest form」——Plumline 的哲学从头到尾只有一句：争斗即进步。参议院此刻要审的不是一桩违规，是这套哲学的账。
 
 > **原句 5:** "“Come off it, Investigator.” Cantilever was extending spikes, and had abandoned the cutesy nickname for their colleague. “If this is such inconsequential paperwork, then why are you accusing your students of nefarious sabotage? Which is it? Inconsequential, or a monumental act of revenge? Because rationally, it cannot be both!”"
 

@@ -48,7 +48,7 @@ modified: "2026-11-02"
 - **中文理解**：「有时候在野外，我们会做一些不算伦理纯净的事。也许摘一朵没人会惦记的贵重花，也许跟野人做爱。但总的来说，工作的价值足以抵消这些小过失。」
 - **关键词**：not ethically pure / a savage / counterbalances these little slips
 - **为什么这样写**：威胁的语法堪称教程：第一句立框架（人人都不干净），第二、三句放案例——「摘花」 innocuous，「跟野人做爱」直指 Murtis，把窃听成果当筹码摆上桌。counterbalances 的会计学是这套腐败的道德内核：功过可以轧差。
-- **读者视角提示**：对照 Column 的「you are a tourist」（ch22）——同一个田野伦理问题，一个用来劝阻，一个用来勒索。记住「savages」这个词：它与 Globe 地图上的「mentally stunted」同源，Plumline 的词汇表就是那张地图的口语版。
+- **读者视角提示**：对照 Column 的「you are a tourist」（ch22）——同一个田野伦理问题，一个用来劝阻，一个用来勒索。记住「a savage」这个词：它与 Globe 地图上的「mentally stunted」同源，Plumline 的词汇表就是那张地图的口语版。
 
 > **原句 6:** "Gardenpath deliberately aerosolized some of their fear. Plumline loved it when their students were afraid, and in this case it wasn’t an act."
 

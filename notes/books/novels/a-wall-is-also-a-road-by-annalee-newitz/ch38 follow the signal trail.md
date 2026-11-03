@@ -20,7 +20,7 @@ modified: "2026-11-02"
 - **中文理解**：「他们给了个低阶研究岗，就在我本该当教授的那个系。这算哪门子安慰？」
 - **关键词**：a low-level research position / supposed to be a professor
 - **为什么这样写**：羞辱被精确设计在同一栋楼里：本该执教的系、给你一张工位——制度的安慰剂带着剂量嘲讽。supposed to be 的两次出现（本该、 supposed）把「应然」与「实然」的落差压成一句怨言。
-- **读者视角提示**：对照 ch20 Cobblestone 的离场（「Failed the First」）——本库的失败者各有各的走法：有的消失，有的降级，Buttress 选第三种（带 Dream 走）。记住「endnote」这个词的下一句（我不想当尾注），它是学术界最痛的脚注。
+- **读者视角提示**：对照 ch11 Cobblestone 的离场（「Failed the First」）——本库的失败者各有各的走法：有的消失，有的降级，Buttress 选第三种（带 Dream 走）。记住「endnote」这个词的下一句（我不想当尾注），它是学术界最痛的脚注。
 
 > **原句 2:** "“I don’t want to be somebody’s endnote! I want to be first author!”"
 
@@ -34,7 +34,7 @@ modified: "2026-11-02"
 - **中文理解**：「简直荒唐。你当然跟我们集群，想多久就多久。让你这么仓促地搬走太伤身了。」……「这太可笑了。我们又不是窝藏战犯。你是我们的 clustermate，你需要维护。」
 - **关键词**：cluster with us / harboring a war criminal / you need maintenance
 - **为什么这样写**：Wainscot 的抗命以反讽立法：把「收留落榜者」比照「窝藏战犯」的荒谬级别，制度的越界一目了然。cluster 与 maintenance 的用词把友情写回义务的语法——在这个世界，留人住是生理处方。
-- **读者视角提示**：对照 ch20 「It's going to be OK, I promise」与 ch27 的并肩作战——Wainscot 的忠诚至此完成三级跳：安慰、结盟、抗命。记住这句话：全书最「不像他」的一句，恰恰最像他。
+- **读者视角提示**：对照 ch20 「It's going to be OK, Gardenpath. I promise.」与 ch27 的并肩作战——Wainscot 的忠诚至此完成三级跳：安慰、结盟、抗命。记住这句话：全书最「不像他」的一句，恰恰最像他。
 
 > **原句 4:** "“I’m going to the visiting scholars’ rooms and then I’ll figure out what I’m doing next.” … “I need to get on with things.”"
 

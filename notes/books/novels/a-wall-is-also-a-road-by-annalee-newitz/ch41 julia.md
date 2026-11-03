@@ -27,7 +27,7 @@ modified: "2026-11-02"
 - **中文理解**：「我告诉 Julia 一切了。我告诉她我们的事、你来自哪里——还有你能治愈、能给人快感。Julia 知道我还爱你，而且她接受了。」
 - **关键词**：I told Julia everything / still love you / she accepts it
 - **为什么这样写**：Murtis 的坦白清单按危险度排序：关系（us）、来历（where you are from）、能力（heal and give pleasure）——每一条都是可以毁掉她的秘密，她一口气全交了。she accepts it 的平静是本章最大的惊奇：恐惧的预期落空了。
-- **读者视角提示**：对照 ch37 的「can't tell Julia」（怕她难过）与本章的「told everything」——中间隔着一场火山与一场重病：死亡的临近让诚实的成本骤降。记住这个时序：人常常在太晚的时候才负担得起真话。
+- **读者视角提示**：对照 ch37 的「can't tell Julia」（怕她难过）与本章的「told Julia everything」——中间隔着一场火山与一场重病：死亡的临近让诚实的成本骤降。记住这个时序：人常常在太晚的时候才负担得起真话。
 
 > **原句 3:** "Peristyle moved painstakingly from one mutant to the next, lancing their membranes, trying to reassure herself that in a multicellular creature, this was maintenance rather than mass murder."
 

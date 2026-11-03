@@ -69,7 +69,7 @@ modified: "2026-11-02"
 - **中文理解**：沉入无意识时，Gardenpath 在 Wainscot 的身体里尝到了 Column 的味道。终于。
 - **关键词**：taste Column / Finally
 - **为什么这样写**：官宣不用画面，用味觉——集群里最私密的化学信号比任何对话都直接。Finally 一个词独占句尾，是全书给这段慢烧副线盖的公章：十一本半的等待，一个词结案。
-- **读者视角提示**：对照 ch30 的「It's going to be OK, I promise」——Wainscot 的故事在此达到它温柔的最高点：被榨干的人，如今在集群里被一个人的味道充满。记住这个味觉证据，它是「the best cluster in the Globe」的最终定义。
+- **读者视角提示**：对照 ch20 的「It's going to be OK, Gardenpath. I promise.」——Wainscot 的故事在此达到它温柔的最高点：被榨干的人，如今在集群里被一个人的味道充满。记住这个味觉证据，它是「the best cluster in the Globe」的最终定义。
 
 ## 本章词汇
 

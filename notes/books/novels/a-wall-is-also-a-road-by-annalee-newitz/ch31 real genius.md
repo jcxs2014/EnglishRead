@@ -34,7 +34,7 @@ modified: "2026-11-02"
 - **中文理解**：「以我的成就，说出来你大概会吃惊——但你是在 Memory 我交到的第一个真正的朋友。」
 - **关键词**：my accomplishments / the first true friend
 - **为什么这样写**：Wainscot 的告白裹着惯常的自夸出场（given my accomplishments），反而因此可信——这不是谦辞，是一个骄傲的人能给出的最高评级。first 与 true 并置：这间塔里全是同行，没有朋友，直到联盟逼出了它。
-- **读者视角提示**：对照 ch01 入学日互为镜像的两句（Wainscot 的第一次嘲讽与 Oriel 的第一次辩护）——第一个朋友与第一个敌人如今是同一个人。记住这句，它是 ch38「beat you to the Fourth」的友情底座。
+- **读者视角提示**：对照 ch01 入学日互为镜像的两句（Wainscot 的第一次嘲讽与 Oriel 的第一次辩护）——第一个朋友与第一个敌人如今是同一个人。记住这句，它是 ch30「beat you to the Fourth」的友情底座。
 
 > **原句 4:** "“Let’s start by talking about real genius. Who among us can claim that mantle? Who embodies it the most, by caring about nothing but the work we do?”"
 

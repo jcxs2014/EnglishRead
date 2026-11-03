@@ -41,7 +41,7 @@ modified: "2026-11-02"
 - **中文理解**：Peristyle 在人群边缘徘徊，被邀请着，又不被邀请。……伊西斯的侍妇们根本不知道 Peristyle 是谁，而 Murtis 也没费心介绍她。
 - **关键词**：at the edge of the crowd / invited but not invited / hadn’t bothered to introduce
 - **为什么这样写**：一句悖论写尽 closet 关系的位置学：在场与缺席同时成立——被带来、被藏起。hadn't bothered 的刺在于 Lazy：不是不能介绍，是不愿承担介绍的代价。三层衣纱之下的疲惫因此有了双层含义。
-- **读者视角提示**：对照 ch15 的「Can I call you Peristyle?」（当众赠名）——同一个人，当年恨不得给她的每个名字都报出去，如今连真名都省了。这不是爱的降温，是两种世界的摩擦生热。
+- **读者视角提示**：对照 ch10 的「Can I call you Peristyle?」（当众赠名）——同一个人，当年恨不得给她的每个名字都报出去，如今连真名都省了。这不是爱的降温，是两种世界的摩擦生热。
 
 > **原句 5:** "“Will you be back next spring?” Her voice was unsteady."
 
