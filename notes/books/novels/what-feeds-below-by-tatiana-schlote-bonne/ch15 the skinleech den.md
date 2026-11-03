@@ -15,7 +15,7 @@ modified: "2026-11-03"
 
 ## 精读
 
-> **原句 1:** "skin•leech n. The skinleech is solitary, seeking out its own kind only when it is time to mate. Still, do not underestimate this Fifth Layer creature. Its paralytic is fast acting and potent, able to take down a grown man in seconds. If you are able to kill one, its liver makes for a vigorous aphrodisiac."
+> **原句 1:** "skin•leech  n.  The skinleech is solitary, seeking out its own kind only when it is time to mate. Still, do not underestimate this Fifth Layer creature. Its paralytic is fast acting and potent, able to take down a grown man in seconds. If you are able to kill one, its liver makes for a vigorous aphrodisiac."
 
 **中文理解**：skin•leech 名词。这种生物独居，只在交配期寻找同类。尽管如此，别低估这个第五层的生物。它的麻痹素起效极快且强，能在几秒之内放倒一个成年男人。若你能杀掉一只，它的肝是 potent 的春药。
 

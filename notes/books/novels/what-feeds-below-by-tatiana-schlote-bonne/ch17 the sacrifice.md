@@ -39,7 +39,7 @@ modified: "2026-11-03"
 
 ---
 
-> **原句 3:** "I turn my headlamp off, since I might as well conserve the battery with how bright it is. A quarter mile ahead is the Core. It’s half submerged in a crater, the half that’s sticking out as big as a house. The Core glows vibrant green, mist swirling around it. Two towering statues stand near it: one woman and one man, the woman holding a spear."
+> **原句 3:** "I turn my headlamp off, since I might as well conserve the battery with how bright it is. A quarter mile ahead is the Core. It’s half submerged in a crater, the half that’s sticking out as big as a house. The Core glows vibrant green, mist swirling around it. Two towering statues stand near it: one woman and one man, the woman holding a spear and the man a shield."
 
 **中文理解**：我关掉头灯，这里亮得没必要浪费电。四分之一英里外就是 Core。它一半浸在火山口里，露出的那一半有一栋房子那么大。Core 发着鲜绿的光，雾在它周围旋动。两尊高塔般的雕像立在它旁边：一女一男，女人持矛，男人持盾。
 
