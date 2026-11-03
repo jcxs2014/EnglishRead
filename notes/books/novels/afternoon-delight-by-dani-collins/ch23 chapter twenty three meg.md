@@ -38,7 +38,7 @@ modified: "2026-11-03"
 
 **中文理解**：「他有没有提到我？说了什么？他喜欢我吗——是那种喜欢吗？还是 like me like me？」
 
-**关键词**：What was it / does he like me / like me like me
+**关键词**：Do you think he likes me / Like, does he like me / Or like me like me
 
 **为什么这样写**：Queen Bee intensity 的表演性追问——四连问的句式倒退回十三岁，与她的实际年龄形成反差萌；like me like me 的校园语法是本书给中年恋爱的降龄注脚：身体四十岁，心动机制十二岁。她一边自嘲（I'm convenient）一边泄露真心，转述的克制与追问的失控同框。
 
