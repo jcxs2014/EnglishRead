@@ -39,13 +39,13 @@ modified: "2026-11-03"
 
 ---
 
-> **原句 3:** "A strange trilling sound comes from behind us, like a cat excited by birds. … The appendages of its nose wiggle, its sense of smell so good that our masking spray hasn’t kept us hidden."
+> **原句 3:** "The weasel would be cute, if it weren’t the size of a jaguar. It stretches its neck, taking a better look at us, a hungry glint in its beady eyes. The appendages of its nose wiggle, its sense of smell so good that our masking spray hasn’t kept us hidden."
 
-**中文理解**：身后传来一阵怪的颤音，像猫看见鸟时的兴奋。Jade 转身，灯照住一只巨大的星鼻鼬。那东西贴地潜行，露出长黄牙，黑毛发亮。要不是它有美洲豹那么大，这畜生本来挺可爱。它伸长脖子把我们看得更清楚，小眼里闪着饥饿的光。鼻部的附器动着，嗅觉灵敏到我们身上的遮味喷剂根本没把我们藏住。
+**中文理解**：要不是它有美洲豹那么大，这畜生本来挺可爱。它伸长脖子，把我们看得更仔细，小眼里闪着饥饿的光。它鼻部的附器蠕动着，嗅觉灵敏到我们身上喷的遮味剂根本没把两人藏住。
 
-**关键词**：trilling、like a cat excited by birds、The appendages of its nose、masking spray
+**关键词**：the size of a jaguar、hungry glint、beady eyes、The appendages of its nose、masking spray
 
-**为什么这样写**：危险被写成两次降级：先「本来挺可爱」，再「要不是有这么大」。作者的落点不在怪物多可怕，而在 Petra 的分类本能压过了恐惧。末句把悬念收回技术层——遮味剂失效，原因被讲清，因此这次脱险不是运气。
+**为什么这样写**：危险先被写成一次降级（would be cute, if it weren’t the size of a jaguar），把「可爱」与「致命」压进同一个 if 句里；接着 hungry glint 与 appendages 两个观察细节按「先看眼、再看鼻」排下来，最后由 masking spray 失效给出这次脱险的技术理由。作者把恐怖交给反差，把生存交给知识。
 
 **读者视角提示**：这是本章第一次让读者发现：Petra 的惊叹和她的危险判断是同一个动作。跟着她读怪物，你会先觉得可爱，再想起会死。
 
