@@ -16,7 +16,7 @@ modified: "2026-11-03"
 > **原句 1:** "“Honestly?” Kieran lifts a shoulder. “My dad’s mother was a nasty piece of work towards the end. And even before that, if I’m honest—I don’t think she ever forgave him for adopting ‘those Orientals.’ ”"
 
 **中文理解**：「说实话？」Kieran 耸肩。「我爸爸的母亲晚年是个 nasty piece of work。甚至更早也是——老实说，我觉得她到死都没原谅他领养了『those Orientals』。」
-**关键词**：nasty piece of work / never forgave / those Orientals
+**关键词**：nasty piece of work / ever forgave / those Orientals
 **为什么这样写**：Kieran 用引用别人脏话的方式转述奶奶的种族歧视——把伤害放进引号，是他对这段家史的处理方式：不辩护、不消化，直接展览。作者让这个揭露紧跟 Lorraine 事件：他安抚陌生醉翁的本事，是在自家那个真正的 nasty piece of work 身边练出来的。慈善与歧视在同一户人家，领养的身世线第一次露出断面。
 **读者视角提示**：这句与 ch12 的 heritage 之旅并读——一家人带着「 Orientals」的骂名去了越南，travel 是反抗还是逃避，本书不说。
 
