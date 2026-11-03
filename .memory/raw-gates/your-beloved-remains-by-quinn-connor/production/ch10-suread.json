@@ -1,0 +1,55 @@
+{
+ "book": "your-beloved-remains-by-quinn-connor",
+ "chapter": "ch10",
+ "text": "notes/books/novels/your-beloved-remains-by-quinn-connor/text/ch10_chapter_x.txt",
+ "facts": [
+  {
+   "fact": "她抱湿纸团跛行上鹿径回到档案馆（你的家），倒进罩篷浴缸——老管道咳出褐水、撕下血浸的丝袜",
+   "anchor": "I stumbled up the stairs and spilled myself into your hooded bathtub",
+   "start": 369,
+   "end": 437
+  },
+  {
+   "fact": "冷水搓洗福尔马林：档案员都懂防腐剂——阴冷潮湿里长着致命未知之物；水转粉红，她痛得像受伤的狐狸哀鸣",
+   "anchor": "deadly, unknown things grew in the cold and damp",
+   "start": 843,
+   "end": 891
+  },
+  {
+   "fact": "热水龙头突然自己飞转、水压翻倍；一阵暖息拂颈——「不常见你在这里，宝贝儿」",
+   "anchor": "“I’m not used to seeing you in here, precious,” came a murmur",
+   "start": 1467,
+   "end": 1528
+  },
+  {
+   "fact": "龙头光泽里辨出鹤般移动的高瘦人影、手绘和服的流动袖——他奢华地叹息：「这是我在我们房子里最喜欢的地方」",
+   "anchor": "A tall, bony person, arms lifted in the flowing sleeves of a hand-painted kimono",
+   "start": 1672,
+   "end": 1752
+  },
+  {
+   "fact": "镜前解着腰带用法语唱走调歌；「你工作太拼命。总是刮擦着写」——你的爱人的声音如浴缸蒸汽缠上来：Roland Loiseau",
+   "anchor": "The voice of your lover curled around me like the steam of the bath",
+   "start": 2486,
+   "end": 2553
+  },
+  {
+   "fact": "浴室是他的礼物——尤其这浴缸：木板上雕着那喀索斯神话四景，注定毁灭的致命美",
+   "anchor": "its wooden panels carved with four scenes from the myth of Narcissus",
+   "start": 2716,
+   "end": 2784
+  },
+  {
+   "fact": "你的最后一个故事本是为他而写；悲恸吓退了你——Ida 发誓你不会毁掉哪怕痛苦的他的一部分，也不会让世界得到它；你死后全校翻找也找不到唯一草稿",
+   "anchor": "they tore this campus apart looking, but never found your only draft of Dreams of the Rose",
+   "start": 3040,
+   "end": 3130
+  },
+  {
+   "fact": "冰唇擦耳「感到孤单吗」——尖叫挥击，但屋里独自一人；血脚印旁那团半融合纸结重新卷成贝壳形——它们保持了一个世纪的形状",
+   "anchor": "curled back up like a shell, the shape they’d held for a century",
+   "start": 3566,
+   "end": 3630
+  }
+ ]
+}
