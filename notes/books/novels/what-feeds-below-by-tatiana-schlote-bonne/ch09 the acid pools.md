@@ -132,15 +132,38 @@ modified: "2026-11-03"
 **为什么这样写**：希望被写成一个可执行的穷举法：喊，然后逐间敲。作者把「找一个人」变成程序，读者会替她紧张——因为在本书里，能报出名字的回应未必是人的回应。
 
 **读者视角提示**：紧接的两行是七号门与链条锁的响动；本章最后一行的名字要到 ch10 才被验证。
-“The ingredients in knockoff antifungals are way weaker. So if Litheo walked through a patch of fiend spores without noticing and then didn’t try to treat symptoms until they were already advancing. . . .” I shudder. “ |
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| gelatinous | 胶状的 | The stalks slowly slide out of his eyes, coated in blood and gelatinous fluid. |
+| sloughs | （皮肉）脱落、剥落 | Litheo’s trying to climb out of an acid pool, but his hands slip on the rocks as the flesh sloughs off his fingers. His bones scrape the hard ground before they go soft, bending backward like noodles. |
+| ballista | 弩炮 | Atop the domed roof of the three-story building sits a ballista, loaded with a javelin. |
+| impaled | 被刺穿、被钉住 | The spotlight follows us as we walk up the hill toward the base camp, passing a deceased tombstepper that’s been impaled by one of the barbed javelins from the ballista. |
+| pungent | 刺鼻的 | As we walk through the winding passageway, the pungent rotten-egg scent grows stronger. I cover my nose. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| antennae | （昆虫的）触角 | One of her antennae grazes my cheek, covered in prickly hairs that tickle. I bet she is smelling me with it, searching for fiend spores. |
+| pupils | 瞳孔 | It takes a moment for my vision to adjust to the new brightness, but once it does, I can make out something growing from Litheo’s pupils. Thin green mushroom stalks a few inches long. |
+| antifungals | 抗真菌药 | You can go to the Voidling base, they sell the antifungals you need. |
+| diligently | 谨慎地、不马虎地 | Flint and I diligently follow the path that’s marked with stones until we reach the entrance. |
+| beady | （眼睛）小而圆的 | He has kind beady eyes and pincers around his mouth, like an ant, and they click when he speaks. |
 
 ### ⭐ 常用
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| acid pools | 酸池 | Litheo’s trying to climb out of an acid pool, but his hands slip on the rocks as the flesh sloughs off his fingers. His bones scrape the hard ground before they go soft, bending backward like noodles. |
-| spotlight | 探照灯 | I stand in the middle of all the rooms, yelling Jade’s name. If she doesn’t respond, I’m just going to have to knock on each one. |
-
+| acid pools | 酸池 | As we walk past the remaining acid pools, I can’t help but wonder if Jade could’ve fallen into one. |
+| spotlight | 探照灯 | Slightly above that is a giant scope and spotlight operated by a guard. The spotlight shines on us, the scope extending to take a close look at me and Flint. |
+| ledger | 登记簿 | Is there a ledger? Can you look up her name |
+| knocker | （门上的）叩门环 | The doors are made of dark wood with numbers carved into them, a stone knocker dangling. |
+| slink | 溜走 | I take the opportunity to slink out of my chair. |
 
 ## 一句话总结
 

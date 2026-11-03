@@ -167,7 +167,7 @@ modified: "2026-11-03"
 | panhandling | 沿街乞讨 | Across the street from the church, panhandling cultists do their usual lap around the neighborhood, holding wooden signs painted with their favorite religious drivel and conspiracy theories: |
 | pothole-ridden | 满是坑洼的 | I hurry up, watching my step as we cut through the muddy, pothole-ridden roads of the slums. |
 | antifungal | 抗真菌的药 | Since we’re going to the Third for the first time, we’re also going to need fiend antifungal pills. |
-| prosthetic | 假肢 | It’s an expensive model, the complex wiring making it almost as nimble as a biological one. |
+| prosthetic | 假肢 | Around six months ago, he showed up to work with this prosthetic and a newfound sadness. |
 | glowers | 冷光灯珠（店里卖的照明器材） | Shelves are lined with glowers and light bulbs; jars are stocked full of carb and protein bars of every flavor, from chocolate mint (yum) to salted Void lobster (bleh). |
 | newfound | 新出现的、刚染上的 | Around six months ago, he showed up to work with this prosthetic and a newfound sadness. |
 | windmill | 像风车那样大幅挥舞手臂 | His arms windmill forward, then backward. |
