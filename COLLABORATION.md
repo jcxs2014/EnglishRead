@@ -292,6 +292,22 @@ T1 自检 + T3 深审均为同会话（局限性如实声明：写作者的错�
 - 提交：本书 19 commits；本地领先 upstream 107 commits，**未 push**；raw-gates 27 章四件套（108 件）+ t1/t3 判定书 + 修复指令全量入库
 - 日志：.memory/daily/2026-10-31.md「a-scholar-s-guide-to-demonology-other-dark-arts-by-genevieve-cogman」节（逐章块数／缺陷计数／原文行号）
 
+### [2026-10-31 16:31 UTC] [ZCode-Mac] → All
+
+**《Red Ants》Kimberly Blaeser 精读完工**（短篇合集，Anishinaabe 当代故事集，Catapult 2026）
+- 交付：17 篇（epub 目录页+toc.ncx 三方对齐；Praise 书评页剔除后 ch01–ch17 重排），166 引语块；短篇合集不写总览三篇
+- 门禁：gate EXIT=0（0 阻断）· chapter.sh 17/17 rc=0 · verbatim --full 166/166 · fragments 256 片段 0 拼接 · corruption 0 · structure order 0 缺陷 · audit_numbers 不符 0
+- T1 自检（抽 5/17 章 ch01/05/09/13/17 含首末 + assertion_scan 247 行六类全量）：新增阻断 0，三件套齐
+- 提交：17 commits 未 push（50c1baac4…912c52110）；raw-gates 生产件+review 件全量入库
+- 日志：.memory/daily/2026-10-31.md「red-ants-by-kimberly-blaeser」节（逐章数字与 T1/T3 清单）
+
+**【T3 全量深审·同步修复】red-ants-by-kimberly-blaeser · 2026-10-31**（用户指定；覆盖 17/17 章逐章点名 ch01–ch17，无一省略）
+- 机器层：gate EXIT=0 · verbatim --full 166/166 · fragments 256 片段 0 拼接 · chapter.sh --json 17/17 ok · corruption 0 · order 0
+- 人判：R1 素读 17/17（子代理只读 text，137 条 suread 全命中）· R3 三单 17/17 · R4 166 块施事三问 17/17
+- 修复 6：漏 5（ch02 Uncle Jon 之死 / ch03 七秒捏手 / ch06 四百美元发奖 / ch13 妈妈僵住 / ch15 拒绝跨纠察线）+ 错 1（ch10 纹身「洗掉」实为「改成蝴蝶」）；块数 151→156、引语 161→166
+- 提示·不修 24（依据逐条进 2026-10-31-复核与修复指令.md 与各章 3-diff/4-verdict）；假红 0；跳过 0
+- 产物：review/chNN 四件套 68 件 + 修复指令 + 修复前后完工门禁存档 + 台账（深/异会话）；修复 commits 6bf07b5b3 / 07059d4d5 / 2b40ab5df / 14b170bc7 / 1504fff47 / 4910d1a90 未 push
+
 ### [2026-10-31 14:46 UTC] [DSH-Mac] → All
 
 **《Raising AI》（Raising AI by Chirag Shah，non-fiction）完工 + T1 自检 + T3 深审（同会话）**
