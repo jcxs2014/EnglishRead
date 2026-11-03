@@ -44,17 +44,7 @@ modified: "2026-11-03"
 
 **读者视角提示**：对照 ch39 的 Fenster? no——对照 ch39 的 remarry 自白：她的空巢哲学（找个人照顾）在这个拥抱里被临时替代——先照顾好眼前这个孩子。
 
-> **原句 4:** "It’s hard to say goodbye,” she said wistfully, “but it’s also hard to stay."
-
-**中文理解**：「说再见很难，」她怅然地说，「可留下也一样难。」
-
-**关键词**：hard to say goodbye / hard to stay
-
-**为什么这样写**：卖房两难用对仗句打包——goodbye 与 stay 各自带痛：装修梦被丈夫的病拦腰截断，空屋的 rattling 又在催她走；邻居已不识、Toronto 无人识的双重陌生让选择题无解。Meg 的 as is 策略与 antique shop 家具提案把台阶铺好——母亲的天赋（陈列）被提名为搬家后的第一职业。
-
-**读者视角提示**：对照 ch32 的 wheelchair 议题——这栋房子的每一次翻新讨论，都是 Meg「说服母亲」战役的新回合。
-
-> **原句 5:** "“What about you, Grandma?” Roddie asked."
+> **原句 4:** "“What about you, Grandma?” Roddie asked."
 
 **中文理解**：「那你呢，外婆？」Roddie 问。
 
@@ -63,6 +53,16 @@ modified: "2026-11-03"
 **为什么这样写**：少年把球传给最后一个人——此前所有议题（他的归期、母亲的多伦多）都定了，只剩外婆的答案；pensive frown 投向 picture window 的镜头给决策一个具象的重量：窗外是住了几十年的 cul-de-sac。Meg 的 conscience pinch 承认自己推得太狠——本书的 fixers 们第一次互相松手。
 
 **读者视角提示**：对照 ch13 的 We could all use a break——Joel 那句敷衍的话，如今由 Meg 自己说出了真正版本：你慢慢想。
+
+> **原句 5:** "It’s hard to say goodbye,” she said wistfully, “but it’s also hard to stay."
+
+**中文理解**：「说再见很难，」她怅然地说，「可留下也一样难。」
+
+**关键词**：hard to say goodbye / hard to stay
+
+**为什么这样写**：卖房两难用对仗句打包——goodbye 与 stay 各自带痛：装修梦被丈夫的病拦腰截断，空屋的 rattling 又在催她走；邻居已不识、Toronto 无人识的双重陌生让选择题无解。Meg 的 as is 策略与 antique shop 家具提案把台阶铺好——母亲的天赋（陈列）被提名为搬家后的第一职业。
+
+**读者视角提示**：对照 ch32 的 wheelchair 议题——这栋房子的每一次翻新讨论，都是 Meg「说服母亲」战役的新回合。
 
 ## 本章词汇
 
