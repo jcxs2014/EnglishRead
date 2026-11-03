@@ -27,14 +27,7 @@ modified: "2026-11-03"
 **为什么这样写**：嗅觉在这一章完成它的使命——味道不需要翻译就抵达心脏。作者让「家的气味」来自弟弟的生活习惯（fussy about laundry），而非父母的厨房：Rena 的乡愁早就换算成了关于人的细节。eyes smarting 是全书给「想哭」最克制的一次表达。
 **读者视角提示**：与 ch29 的触摸协议连读——她用气味完成的亲密，正是身体接触给不了她的。
 
-> **原句 3:** "“He likes you.” It was the first lie she’d ever told him. “He likes everyone. He’s just a pest is all.”"
-
-**中文理解**：「他喜欢你。」这是她对他说过的第一个谎。「他喜欢所有人。他就是个讨厌鬼而已。」
-**关键词**：He likes you / the first lie / a pest
-**为什么这样写**：恋爱考古挖出地基里的一号谎言——Rena 用「他喜欢所有人」掩盖了 Kieran 的真实敌意。作者让读者看见她的原初模式已经成型：保护弟弟与保护恋情永远冲突，而她选了一个又骗一个。这个谎与 ch11 的 withholding、ch13 的没告诉 Lucas 连成完整的隐瞒谱系。
-**读者视角提示**：first lie 的「第一」表明她记得清清楚楚——说谎成了她的慢性病。
-
-> **原句 4:** "So the maybe-dates had stayed firmly in maybe territory until one afternoon, with papers scattered across her dining-room table, Rena got tired of wondering and asked, “Are we on a date right now?”"
+> **原句 3:** "So the maybe-dates had stayed firmly in maybe territory until one afternoon, with papers scattered across her dining-room table, Rena got tired of wondering and asked, “Are we on a date right now?”"
 
 **中文理解**：于是那些「算是约会吗」的日子稳稳停在「也许」区，直到某个下午，文件摊了满餐桌，Rena 受够了猜测，问：「我们现在算是在约会吗？」
 **关键词**：maybe territory / got tired of wondering / Are we on a date
@@ -61,6 +54,13 @@ modified: "2026-11-03"
 **关键词**：used to be easy / as a unit / make each other happy
 **为什么这样写**：三个 used to 排成墓志铭——作者不写「现在不快乐」，只写过去式，让读者自己算差额。as a unit 的「单位」一词尤其冷：他们曾是合并报表的一个整体，如今各自独立核算。knows the answer 的收束把结论递给读者：答案她一直有，只是不敢说。
 **读者视角提示**：这是 Rena/Lucas 线的最冷一笔——和解的前提是先承认过期。
+> **原句 4:** "“He likes you.” It was the first lie she’d ever told him. “He likes everyone. He’s just a pest is all.”"
+
+**中文理解**：「他喜欢你。」这是她对他说过的第一个谎。「他喜欢所有人。他就是个讨厌鬼而已。」
+**关键词**：He likes you / the first lie / a pest
+**为什么这样写**：恋爱考古挖出地基里的一号谎言——Rena 用「他喜欢所有人」掩盖了 Kieran 的真实敌意。作者让读者看见她的原初模式已经成型：保护弟弟与保护恋情永远冲突，而她选了一个又骗一个。这个谎与 ch11 的 withholding、ch13 的没告诉 Lucas 连成完整的隐瞒谱系。
+**读者视角提示**：first lie 的「第一」表明她记得清清楚楚——说谎成了她的慢性病。
+
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
