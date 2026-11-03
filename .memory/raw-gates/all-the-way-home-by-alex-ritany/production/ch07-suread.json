@@ -1,0 +1,55 @@
+{
+ "book": "all-the-way-home-by-alex-ritany",
+ "chapter": "ch07",
+ "text": "notes/books/novels/all-the-way-home-by-alex-ritany/text/ch07_chapter_seven.txt",
+ "facts": [
+  {
+   "fact": "1. 抢劫疑云：Zach 断定这是多步计划第一步（弄独处、骗背包）；Kieran 法庭式举手宣誓不侵占财物，还补刀说从这扇门里挑人偷也轮不到 Zach。",
+   "anchor": "I solemnly swear that me and mine will not abscond",
+   "start": 894,
+   "end": 944
+  },
+  {
+   "fact": "2. Zach 无恶意反击 Kieran 的话术：总以 no offense 开头却说客观上很过分的话；但他认定说 abscond 的人不会真卷财跑路，只是包不离视线。",
+   "anchor": "objectively horrible anyway",
+   "start": 1186,
+   "end": 1213
+  },
+  {
+   "fact": "3. 人群里 Kieran 是每一帧的焦点——不止 teal 大衣和头发，是他站姿里那种 magnetic and warm 的自在，占空间的方式像 Mara。",
+   "anchor": "Kieran is the focal point of every frame",
+   "start": 2476,
+   "end": 2516
+  },
+  {
+   "fact": "4. 问答如网球对打，Zach 自评烂透了：姐姐 Tove 九月开车送他来（去 Vancouver），他自嘲就算想劫车也不想在 Manitoba 的沟里 stranded。",
+   "anchor": "back and forth like tennis",
+   "start": 3140,
+   "end": 3166
+  },
+  {
+   "fact": "5. 同一块：Zach 心里真话是宁可困在沟里也不飞行，但绝不打开这个话题——只要路径有交集，他最好让 Kieran 继续不知道他车技多糟。",
+   "anchor": "hijack somebody else’s car",
+   "start": 3461,
+   "end": 3487
+  },
+  {
+   "fact": "6. 专业猜谜：Zach 猜 business/accounting/theatre 全错，Kieran 是 Kinesiology；反过来 Kieran 用 The Glass Universe 当提示猜中 astrophysics；Zach 自我定义「我是行星那挂的」。",
+   "anchor": "the simplest explanation of his personality",
+   "start": 6720,
+   "end": 6763
+  },
+  {
+   "fact": "7. Zach 讨厌「读 astrophysics 以后干嘛」这个问题，也没打算当宇航员；憋了半天说出真话——我只是喜欢学星星，进 NASA/CSA 只是 bonus；Kieran 的笑本身就是奖赏。",
+   "anchor": "I just like learning about the stars",
+   "start": 8457,
+   "end": 8493
+  },
+  {
+   "fact": "8. Kieran 膝盖旧伤：高中和 Rena 都踢 soccer，他伤膝、理疗师很糟、腿没养好被迫停赛——所以想学这个专业做得更好；Zach 一句 spite 点破，Kieran 说你懂我；章末脑内警报（You’re going to get hurt）第一次遇到一个新声音：And it’s going to be worth it.",
+   "anchor": "But I busted my knee",
+   "start": 9230,
+   "end": 9250
+  }
+ ]
+}
