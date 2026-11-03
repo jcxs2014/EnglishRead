@@ -18,7 +18,7 @@ modified: "2026-11-03"
 
 **中文理解**：她从不肯放走你的一片纸——家务纸不行，给厨师的采购单不行。连你的空白羊皮纸存货也不行。她能想象你，温柔的指腹抚过皮革的肉面。
 
-**关键词**：not a scrap of you / grocery lists for your cook / supply of blank parchment / the skin sides
+**关键词**：a scrap of you / grocery lists for your cook / supply of blank parchment / the skin sides
 
 **为什么这样写**：收藏的口径从文献一路放宽到垃圾，再突然停在最危险的一格——空白纸；「skin sides」（皮的肉面）暗示她对材质的了如指掌，温柔想象里藏着技术预演。空白页是本章犯罪工具的第一件展品。
 
