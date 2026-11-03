@@ -80,7 +80,7 @@ modified: "2026-11-02"
 
 > **原句 10:** "“I think she understands things that you don’t.” Murtis smiled and ruffled Peristyle’s hair, breaking the tension. “I study you too, little Sappho. You see things that are hidden, but you don’t always see what’s obvious.”"
 
-- **中文理解**：「我我觉得，有些东西她懂而你不懂。」Murtis 笑着揉乱 Peristyle 的头发，把紧绷打散。「我也在研究你哦，小萨福。你看得见藏起来的东西，却不总看得见摆在明面上的。」
+- **中文理解**：「我觉得，有些东西她懂而你不懂。」Murtis 笑着揉乱 Peristyle 的头发，把紧绷打散。「我也在研究你哦，小萨福。你看得见藏起来的东西，却不总看得见摆在明面上的。」
 - **关键词**：understands things that you don’t / I study you too / what’s obvious
 - **为什么这样写**：研究关系在此完成惊天倒转：被研究者宣布「我也在研究你」——观察者成了标本。hidden vs obvious 的对仗是全章的总结算：Gardenpath 的天赋（看见埋藏的生命）与盲区（看不见身边的暴力与友情的忠告）被一句话各归其位。揉头发的动作把这场 sharp 的诊断重新裹回温柔里。
 - **读者视角提示**：这是 Murtis 全书智性魅力的高光：她的学问不在卷轴上，在人和权力的纹理里。对照 Column 的伦理课（同一句「你在伤害他们」的另一个讲法）——她不骂人，只指出盲区。记住「小萨福」这个称呼：诗人、女同、师者的三位一体。

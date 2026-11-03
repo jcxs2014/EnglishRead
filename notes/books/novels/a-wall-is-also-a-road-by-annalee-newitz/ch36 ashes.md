@@ -59,7 +59,7 @@ modified: "2026-11-02"
 
 > **原句 7:** "“You look the same as you always do. As young as the day we met.”"
 
-- **中文理解**：「你看起来跟从前一样。跟相差那天一样年轻。」
+- **中文理解**：「你看起来跟从前一样。跟相遇那天一样年轻。」
 - **关键词**：the same as you always do / as young as the day we met
 - **为什么这样写**：寿命差第一次以视觉证据亮相：她鬓角的银丝（下一句的 filament of gas）对着对方的「跟那天一样年轻」——灾难没有公平，连衰老都不。这句 compliment 说出口时是赞美，落在读者眼里是倒计时。
 - **读者视角提示**：对照 ch28 的「I'll be dead before you pass your Fourth Exam」——数学题如今有了插图。记住银丝这个细节：它此后每一次出现都是时钟的走针。

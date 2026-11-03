@@ -1,0 +1,171 @@
+{
+ "chapter": "ch36",
+ "source": "text/ch36_chapter_36_ashes.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Gardenpath",
+   "did": "连着十六个 journey 只在图书馆写论文、什么都不做，只为让第四次考试来得更快",
+   "anchor": "sixteen solid journeys, Gardenpath did nothing but write",
+   "range": [
+    103,
+    159
+   ]
+  },
+  {
+   "n": 2,
+   "who": "Plumline",
+   "did": "转赴 Galleon 与其合作者会面",
+   "anchor": "transited to Galleon to meet with their collaborators",
+   "range": [
+    735,
+    788
+   ]
+  },
+  {
+   "n": 3,
+   "who": "导体（conductor）",
+   "did": "告知无法锁定到固体表面，并追问 Gardenpath 是否已做好准备",
+   "anchor": "lock on to a solid surface. Are you",
+   "range": [
+    1245,
+    1280
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Gardenpath",
+   "did": "意识到导体可能是对的：若山已爆炸，原定落点可能消失，于是给出更靠山下的坐标",
+   "anchor": "the mountain had exploded, their landing place could be gone",
+   "range": [
+    1728,
+    1788
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Peristyle",
+   "did": "落地时置身灰与含硫气体的暴风雪中，galaxysuit 外层被磨蚀、空气因颗粒而灼热",
+   "anchor": "she was in a blizzard of ash and sulfurous gasses",
+   "range": [
+    2036,
+    2085
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Peristyle",
+   "did": "确认整座山的顶部已被炸掉",
+   "anchor": "The entire top of the mountain had blown off.",
+   "range": [
+    2455,
+    2500
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Peristyle",
+   "did": "标记 Transit Hall、瞬移回 Globe 并转往 Neapolis",
+   "anchor": "She flagged the Transit Hall, blipped back to the Globe",
+   "range": [
+    4784,
+    4839
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Murtis",
+   "did": "一见 Peristyle 就扔下岗位、绕过柜台跑过去抱住她",
+   "anchor": "abandoned her station and ran around the counter",
+   "range": [
+    6096,
+    6144
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Murtis → Peristyle",
+   "relation": "Murtis 说事情正如她所说：Vesuvius 像 Aetna 那样爆发，只是糟糕得多",
+   "anchor": "It happened just as you said! Vesuvius exploded",
+   "range": [
+    6162,
+    6209
+   ]
+  },
+  {
+   "pair": "Murtis → Julia",
+   "relation": "从激素气味与彼此的低语可见 Murtis 与 Julia 深深相爱",
+   "anchor": "Murtis and Julia were deeply in love",
+   "range": [
+    9026,
+    9062
+   ]
+  },
+  {
+   "pair": "Nuraghe → Gardenpath",
+   "relation": "Nuraghe 答应留意任何可疑动向",
+   "anchor": "Nuraghe promised to keep tabs on anything suspicious",
+   "range": [
+    790,
+    842
+   ]
+  },
+  {
+   "pair": "Oriel → Gardenpath",
+   "relation": "Oriel 在那段时间多半转去了 Sky-over-Prairie，为一项新合作与环境工程社群谈判",
+   "anchor": "Oriel transited to Sky-over-Prairie for most of that time",
+   "range": [
+    349,
+    406
+   ]
+  },
+  {
+   "pair": "Murtis → 庞贝难民",
+   "relation": "Murtis 在 Milk Road 前柜台为满座凄惨的 Unnamed 倒掺水葡萄酒",
+   "anchor": "pouring water-diluted wine for a crowd of forlorn-looking Un",
+   "range": [
+    5704,
+    5764
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "several",
+   "fact": "据温度与物质沉积的初步读数，喷发似发生在数日前",
+   "anchor": "the eruption had happened several days ago",
+   "range": [
+    2594,
+    2636
+   ]
+  },
+  {
+   "value": "two",
+   "fact": "Murtis 说这样的状况已经持续两天",
+   "anchor": "been like this for two days. I’m",
+   "range": [
+    7321,
+    7353
+   ]
+  },
+  {
+   "value": "five hundred",
+   "fact": "若计算无误，该地区将在五百个 Tentacle 年后比以往更肥沃",
+   "anchor": "in five hundred Tentacle years",
+   "range": [
+    3824,
+    3854
+   ]
+  },
+  {
+   "value": "thousands",
+   "fact": "从庞贝及周边城市来的难民必定数以千计，且还有更多人涌入",
+   "anchor": "must have been thousands of refugees",
+   "range": [
+    5553,
+    5589
+   ]
+  }
+ ]
+}

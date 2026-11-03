@@ -37,7 +37,7 @@ modified: "2026-11-02"
 - **中文理解**：就在这时，他们看见了一件自己知道将改变一生的事。一个 Unnamed 身披红边白织物，正在柜台后一段潮湿的墙面上，用手臂画着记号。……那生物把一支小工具伸进一罐亮红色矿物粉末里，蘸满，然后抹上墙。
 - **关键词**：red-edged white textile / marks / mineral powder
 - **为什么这样写**：宣告先行：And that’s when… change their life 先把分量说破，叙述才放慢给细节——披着的 textile、手臂画下的 marks、罐里的 mineral powder，三样全是「过程态」：布还没裁、记号没名字、颜料还是粉末。动词（using、create、dipped、smeared）个个停在手工动作上，通篇没有一个词碰「艺术」——定性被悬在半空，读者得自己跨过「记号」与「作品」之间那道窄门。
-- **读者视角提示**：把材料单再读一遍：湿墙、粉末、小工具、柜台后的角落——全在这座被判过 primitive and stunted 的建筑里。本章最后一句 The Unnamed was making art. 才给动作命名；改变一生的不是一幅完成的画（墙上那幅是 half-finished），而是「有存在在做这件事」的事实本身。
+- **读者视角提示**：把材料单再读一遍：湿墙、粉末、小工具、柜台后的角落——全在这座被判过 primitive and stunted 的建筑里。本章最后一句 The Unnamed was making art. 才给动作命名；改变一生的不是一幅完成的画（墙上那幅是 half-finished），而是「有谁在做这件事」的事实本身。
 
 ## 本章词汇
 

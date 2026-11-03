@@ -1,0 +1,171 @@
+{
+ "chapter": "ch35",
+ "source": "text/ch35_chapter_35_the_committee_to_approach_the.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Gardenpath",
+   "did": "几乎把自己从窗口掷出去（急着在 Harvest 末尾截住 Column）",
+   "anchor": "practically hurled themself out the window",
+   "range": [
+    168,
+    210
+   ]
+  },
+  {
+   "n": 2,
+   "who": "Column",
+   "did": "在实验室外采集花朵，准备早早吃一餐",
+   "anchor": "gathering flowers for an early meal outside the lab",
+   "range": [
+    350,
+    401
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Gardenpath",
+   "did": "从墙上拔下甜黄花朵，吃得极快，未消化的色素斑块在膜上摊开",
+   "anchor": "Yanking sweet yellow flowers from the wall, they absorbed",
+   "range": [
+    767,
+    824
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Gardenpath（随 Column）",
+   "did": "跟着 Column 经窄桥来到一座自己从未到过的矮塔，其远侧可望见 Skiff 与 Galleon",
+   "anchor": "short tower that Gardenpath had never visited",
+   "range": [
+    1232,
+    1277
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Gardenpath",
+   "did": "正式致歉此前与 Column 争吵（仍认为对方不完全对，但也并非错）",
+   "anchor": "I wanted to say properly that I",
+   "range": [
+    1561,
+    1592
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Column",
+   "did": "直接问 Gardenpath 是否还在和自己的研究对象发生性关系",
+   "anchor": "Are you still having sex with your research subject?",
+   "range": [
+    2017,
+    2069
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Column",
+   "did": "说 True. But a wall is also a road.（墙也是路）",
+   "anchor": "True. But a wall is also a road.",
+   "range": [
+    2932,
+    2964
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Column",
+   "did": "叮嘱 Nuraghe 与 Gardenpath 记录 Plumline 拿这个武器打算做什么",
+   "anchor": "make sure you are taking notes on what Plumline plans",
+   "range": [
+    4791,
+    4844
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Column → Gardenpath",
+   "relation": "Column 是 Gardenpath 的前任秘密导师，Gardenpath 不确定自己与他的位置",
+   "anchor": "unsure where they stood with their former secret adviser",
+   "range": [
+    479,
+    535
+   ]
+  },
+  {
+   "pair": "Gardenpath → Murtis",
+   "relation": "Murtis 现在是 Gardenpath 的 lover、伴侣与朋友，早已不再是研究对象",
+   "anchor": "And Murtis is my lover now. A partner and friend.",
+   "range": [
+    2120,
+    2169
+   ]
+  },
+  {
+   "pair": "Turret → Plumline",
+   "relation": "Turret 翻遍 Plumline 数百个研究项目，寻找可能心怀不满的合作者",
+   "anchor": "Turret had pored over hundreds of Plumline",
+   "range": [
+    3844,
+    3886
+   ]
+  },
+  {
+   "pair": "Oriel → Gardenpath",
+   "relation": "当初正是 Oriel 推动 Gardenpath 这么做，如今既没到场也没留言",
+   "anchor": "pushed them to do this in the first place",
+   "range": [
+    5471,
+    5512
+   ]
+  },
+  {
+   "pair": "Column 的小委员会 → Academic Senate 的 ethics subcommittee",
+   "relation": "Column 说他们这个小委员会也许很快就有话要跟他们那个小委员会说",
+   "anchor": "our little committee may soon have something to say",
+   "range": [
+    5168,
+    5219
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "three",
+   "fact": "Column 伸出三只眼，温和地看着 Gardenpath",
+   "anchor": "But Column sent out three eyes and regarded them mildly",
+   "range": [
+    539,
+    594
+   ]
+  },
+  {
+   "value": "ten",
+   "fact": "Gardenpath 把十只眼睛转向 Column",
+   "anchor": "Gardenpath turned ten eyes to Column",
+   "range": [
+    1696,
+    1732
+   ]
+  },
+  {
+   "value": "dozens",
+   "fact": "众人又长出几十只眼睛",
+   "anchor": "Everyone grew dozens more eyes",
+   "range": [
+    5064,
+    5094
+   ]
+  },
+  {
+   "value": "six",
+   "fact": "接下来的六个 stop，Gardenpath 都在写论文并因不安与渴望而腹中翻涌",
+   "anchor": "during the next six stops as they",
+   "range": [
+    5598,
+    5631
+   ]
+  }
+ ]
+}

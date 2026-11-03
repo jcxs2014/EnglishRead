@@ -1,0 +1,171 @@
+{
+ "chapter": "ch34",
+ "source": "text/ch34_chapter_34_weaponized.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Gardenpath",
+   "did": "返回 Transit Hall 时，见该处异常地挤满了士兵：多数是 Rational，还有人抱着一捧来自 Galleon 的 Cloud People；全都穿着护甲、背着硬化行囊",
+   "anchor": "When Gardenpath arrived back at the Transit Hall",
+   "range": [
+    59,
+    107
+   ]
+  },
+  {
+   "n": 2,
+   "who": "Gardenpath",
+   "did": "（与同行者）赶到 Plumline Lab 放下样本，并吸食了一些多汁的蓝色花朵",
+   "anchor": "raced to drop their samples at the Plumline Lab",
+   "range": [
+    665,
+    712
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Buttress",
+   "did": "已在 bowl 里，正翻着自己的笔记本、往它的组织里滴水，自称在为 the Third 做准备；眼里因酒而朦胧",
+   "anchor": "Buttress was rooting around in their notebook",
+   "range": [
+    950,
+    995
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Gardenpath",
+   "did": "警觉之下记下：要在 Separation 之初赶到实验室、把那些细胞抢到手",
+   "anchor": "made a note to get to the lab and seize the cells",
+   "range": [
+    1685,
+    1734
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Gardenpath",
+   "did": "在膜还没凝结前就猛地恢复意识",
+   "anchor": "Gardenpath jerked into consciousness before their membrane",
+   "range": [
+    2413,
+    2471
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Gardenpath",
+   "did": "（在 Plumline Lab 的样本柜前）发现装 director cell 的容器不在那里",
+   "anchor": "The director cell container wasn’t there.",
+   "range": [
+    3740,
+    3781
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Plumline",
+   "did": "在 Clustersedge 末段（也许在 cluster call 之后）抢先取走了样本",
+   "anchor": "Plumline had snagged it late in Clustersedge",
+   "range": [
+    4385,
+    4429
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Nuraghe",
+   "did": "指出该提案把所谓 forced clustering 武器化，设想用来使敌人投降",
+   "anchor": "could be weaponized to make the enemy surrender",
+   "range": [
+    5466,
+    5513
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Plumline → Redoubt 的实验室",
+   "relation": "Plumline 在 cluster call 之后立刻把样本送进 Redoubt 的实验室",
+   "anchor": "Plumline delivered it to Redoubt",
+   "range": [
+    6202,
+    6234
+   ]
+  },
+  {
+   "pair": "Plumline → Gardenpath",
+   "relation": "Plumline 以“友善、睿智的导师”姿态与 Gardenpath 说话（师生／导师关系）",
+   "anchor": "Plumline was doing their friendly, wise adviser bit",
+   "range": [
+    7441,
+    7492
+   ]
+  },
+  {
+   "pair": "Nuraghe → Gardenpath",
+   "relation": "Nuraghe 发来气味急切的消息，要求立刻在图书馆会面",
+   "anchor": "A message from Nuraghe came in, scented with urgency",
+   "range": [
+    4683,
+    4735
+   ]
+  },
+  {
+   "pair": "Gardenpath → covert action group（含 Oriel）",
+   "relation": "Gardenpath 给 covert action group 发消息，并把 Oriel 加进来（约人会面）",
+   "anchor": "messaged the covert action group, added Oriel",
+   "range": [
+    6694,
+    6739
+   ]
+  },
+  {
+   "pair": "Galleon 的武器制造商 → Plumline／Redoubt 的提案",
+   "relation": "该武器制造商在提案中被列为合作者",
+   "anchor": "a weapons manufacturer from Galleon listed as a collaborator",
+   "range": [
+    5779,
+    5839
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "three",
+   "fact": "Oriel 伸出三只睡眼",
+   "anchor": "Oriel sent out three sleepy eyes",
+   "range": [
+    1197,
+    1229
+   ]
+  },
+  {
+   "value": "four",
+   "fact": "Buttress 说要在考试前把四种语言的变格都练到完美",
+   "anchor": "declensions in four languages for my exam",
+   "range": [
+    2049,
+    2090
+   ]
+  },
+  {
+   "value": "two or three",
+   "fact": "若在两三次 journey 后看起来有前景，Redoubt 会给时间做快速原型",
+   "anchor": "promising after two or three journeys",
+   "range": [
+    9058,
+    9095
+   ]
+  },
+  {
+   "value": "three extra",
+   "fact": "Plumline 一边凝视一边新长出三只额外的眼睛",
+   "anchor": "including three extra that they sprouted as they gazed",
+   "range": [
+    7883,
+    7937
+   ]
+  }
+ ]
+}

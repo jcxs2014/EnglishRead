@@ -1,0 +1,171 @@
+{
+ "chapter": "ch38",
+ "source": "text/ch38_chapter_38_follow_the_signal_trail.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Gardenpath",
+   "did": "从旅行孢子中滚出、迅速变大，抓在场上划桨手的围栏上",
+   "anchor": "tumbled out of the travel spore, enlarged rapidly",
+   "range": [
+    135,
+    184
+   ]
+  },
+  {
+   "n": 2,
+   "who": "Gardenpath",
+   "did": "回到居所发现屋内一片狼藉，Buttress 瘫在地上、笔记本被撕开",
+   "anchor": "Buttress was puddled on the floor",
+   "range": [
+    759,
+    792
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Oriel",
+   "did": "告诉 Gardenpath：Buttress 没通过 Third",
+   "anchor": "Buttress failed the Third.” They turned one",
+   "range": [
+    1083,
+    1126
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Gardenpath",
+   "did": "释放共情激素、把手臂伸进 Buttress 体内，排出安抚化学物质",
+   "anchor": "Gardenpath released a stream of empathetic hormones",
+   "range": [
+    1213,
+    1264
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Buttress",
+   "did": "说院方给的是本应任教的那个系里的低阶研究职位",
+   "anchor": "offered me a low-level research position in the department",
+   "range": [
+    1593,
+    1651
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Buttress",
+   "did": "说必须在 Clustertime 前搬出去，暂住访问学者住处",
+   "anchor": "I have to move out before Clustertime",
+   "range": [
+    2992,
+    3029
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Wainscot",
+   "did": "宣称 Buttress 当然会和他们聚簇、想住多久都行",
+   "anchor": "Of course you’ll cluster with us, and for as long as you wish",
+   "range": [
+    3158,
+    3219
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Turret",
+   "did": "提议向 Academic Senate 伦理分委员会提交详尽投诉，并请 Gardenpath 递状",
+   "anchor": "can you be the person to bring the formal complaint",
+   "range": [
+    8590,
+    8641
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Wainscot 与 Oriel → Buttress",
+   "relation": "两人的手臂伸进这名痛苦的 clustermate 体内试图安抚",
+   "anchor": "extended arms inside their distressed clustermate",
+   "range": [
+    913,
+    962
+   ]
+  },
+  {
+   "pair": "Wainscot → Buttress",
+   "relation": "Wainscot 说 Buttress 是他们的 clustermate、需要维护",
+   "anchor": "You’re our clustermate, and you need maintenance.",
+   "range": [
+    3449,
+    3498
+   ]
+  },
+  {
+   "pair": "Plumline → 战争组织",
+   "relation": "Wainscot 与 Column 查证 Plumline 一直在与战争组织交易武器",
+   "anchor": "Plumline has been trading weapons with war organizations",
+   "range": [
+    5504,
+    5560
+   ]
+  },
+  {
+   "pair": "Plumline 与 Redoubt → Galleon 的某个社群",
+   "relation": "双方与 Galleon 一个社群私下成交，Memory 什么也没得到",
+   "anchor": "Plumline and Redoubt cut a deal with a community in Galleon",
+   "range": [
+    7261,
+    7320
+   ]
+  },
+  {
+   "pair": "Gardenpath → Oriel",
+   "relation": "Gardenpath 心想若 Oriel 在场就能一起揣测 Column 与 Wainscot 的暧昧",
+   "anchor": "romantic non-romance brewing between Column and Wainscot",
+   "range": [
+    9426,
+    9482
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "half a generation",
+   "fact": "Wainscot 与 Column 翻了半代人的记录",
+   "anchor": "a thorough search through half a generation of records",
+   "range": [
+    5422,
+    5476
+   ]
+  },
+  {
+   "value": "two",
+   "fact": "校园调查两个 stop 才查出此事",
+   "anchor": "It took two stops of targeted investigation",
+   "range": [
+    7482,
+    7525
+   ]
+  },
+  {
+   "value": "ten",
+   "fact": "Memory 每十次行程要登记数百项发现",
+   "anchor": "hundreds of discoveries being logged every ten journeys",
+   "range": [
+    7581,
+    7636
+   ]
+  },
+  {
+   "value": "two and a half",
+   "fact": "留下的 clustermates 要过两个半 stop 才能与 Column、Turret 等人会合",
+   "anchor": "two and a half stops before reconvening",
+   "range": [
+    4625,
+    4664
+   ]
+  }
+ ]
+}

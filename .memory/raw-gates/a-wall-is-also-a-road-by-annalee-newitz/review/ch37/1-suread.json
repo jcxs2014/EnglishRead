@@ -1,0 +1,171 @@
+{
+ "chapter": "ch37",
+ "source": "text/ch37_chapter_37_refuge.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Murtis",
+   "did": "把 Julia 扶上楼安置在自己房间休息，并让 Peristyle 和 Dido 先看柜台",
+   "anchor": "I’m going to put Julia in my rooms so she can rest.",
+   "range": [
+    99,
+    150
+   ]
+  },
+  {
+   "n": 2,
+   "who": "Peristyle 与 Dido",
+   "did": "把 Unnamed 难民指引去神庙和一条街外的庭院睡觉",
+   "anchor": "pointed them to the temple, and the courtyard a block away",
+   "range": [
+    633,
+    691
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Dido",
+   "did": "提出自己负责收摊，并睡在楼下和难民一起，有事会告诉 Curly",
+   "anchor": "I can take care of shutting down",
+   "range": [
+    908,
+    940
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Peristyle",
+   "did": "开门窥看，见 Julia 与 Murtis 相拥熟睡",
+   "anchor": "were fast asleep on the bed, arms around each other",
+   "range": [
+    1464,
+    1515
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Peristyle",
+   "did": "在专供性工作者的房间里过夜，记录在庞贝所见的第一印象",
+   "anchor": "spent the night in one of the rooms reserved for sex workers",
+   "range": [
+    1836,
+    1896
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Peristyle 与 Curly",
+   "did": "早餐分发脆炸豆类和煮麦粒",
+   "anchor": "crunchy fried legumes and boiled grain for breakfast",
+   "range": [
+    2447,
+    2499
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Murtis",
+   "did": "说已告诉 Julia 两人的关系结束了",
+   "anchor": "I told her it was over, though.",
+   "range": [
+    4352,
+    4383
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Peristyle",
+   "did": "本想趁 Julia 熟睡做维护，因不道德而收手",
+   "anchor": "do maintenance on Julia in her sleep, then held back",
+   "range": [
+    3916,
+    3968
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Murtis → Julia",
+   "relation": "Murtis 已告诉 Julia 两人的旧情已经结束",
+   "anchor": "I told her it was over, though.",
+   "range": [
+    4352,
+    4383
+   ]
+  },
+  {
+   "pair": "Murtis → Peristyle",
+   "relation": "Murtis 说 Peristyle 仍是自己的初恋",
+   "anchor": "You are still my first love.",
+   "range": [
+    3451,
+    3479
+   ]
+  },
+  {
+   "pair": "Peristyle → Murtis",
+   "relation": "Peristyle 说庞贝是她第一次坠入爱的地方，对象是 Murtis",
+   "anchor": "it’s where I fell in love for the first time",
+   "range": [
+    3341,
+    3385
+   ]
+  },
+  {
+   "pair": "Murtis → Peristyle",
+   "relation": "Murtis 说 Peristyle 在家乡有一个最好的朋友，而她在这里也有一个",
+   "anchor": "Plus, you have a best friend back home",
+   "range": [
+    4972,
+    5010
+   ]
+  },
+  {
+   "pair": "Peristyle → Oriel",
+   "relation": "Peristyle 想到 Oriel 曾坚持要她说真话",
+   "anchor": "who had insisted that she tell the truth",
+   "range": [
+    7251,
+    7291
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "One",
+   "fact": "Julia 的一只凉鞋掉了",
+   "anchor": "One of Julia’s sandals had come off",
+   "range": [
+    296,
+    331
+   ]
+  },
+  {
+   "value": "a block",
+   "fact": "难民营地去处是隔一条街的庭院",
+   "anchor": "the courtyard a block away",
+   "range": [
+    665,
+    691
+   ]
+  },
+  {
+   "value": "four",
+   "fact": "Peristyle 离开已超过四年",
+   "anchor": "You went away more than four years ago",
+   "range": [
+    4506,
+    4544
+   ]
+  },
+  {
+   "value": "a few",
+   "fact": "Peristyle 答应留下几周",
+   "anchor": "“For a few weeks.”",
+   "range": [
+    7901,
+    7919
+   ]
+  }
+ ]
+}

@@ -90,7 +90,7 @@ modified: "2026-11-02"
 - **中文理解**：Peristyle 凝视着 Murtis 那双异星的眼睛，意识到自己对那个问题没有答案。
 - **关键词**：alien eyes / no answer
 - **为什么这样写**：全章以一次失语收尾：问句（「Fenestra 不介意你不在吗」）悬在空中，答案的位置空着——这是 Gardenpath 全书第一次对关系问题交白卷。alien eyes 的凝视把两个视角焊在同一秒：她们同时看见了这段感情的赤字。
-- **读者视角提示**：对照 ch39 的「I have loved you since the first time I met you」（对 Oriel）——本章的空答案与那边的满答案将构成全书情感天平的两端。记住这个「没有答案」：下一章她会给出一个行动而不是一句话。
+- **读者视角提示**：对照 ch39 的「I have loved you since the first time I met you」（对 Oriel）——本章的空答案与那边的满答案将构成全书情感天平的两端。记住这个「没有答案」：后文她会给出一个行动而不是一句话。
 
 ## 本章词汇
 

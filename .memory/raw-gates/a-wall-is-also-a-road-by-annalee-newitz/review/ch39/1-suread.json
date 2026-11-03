@@ -1,0 +1,171 @@
+{
+ "chapter": "ch39",
+ "source": "text/ch39_chapter_39_career_path.txt",
+ "facts": [
+  {
+   "n": 1,
+   "who": "Column、Wainscot 与 Gardenpath",
+   "did": "掌握了一份几乎有学位论文那么长的 Plumline 报告",
+   "anchor": "possession of a report on Plumline’s work",
+   "range": [
+    119,
+    160
+   ]
+  },
+  {
+   "n": 2,
+   "who": "三人",
+   "did": "议定由 Gardenpath 在 Separation 之初把材料包送交 Academic Senate",
+   "anchor": "Gardenpath would send the packet to the Academic Senate",
+   "range": [
+    897,
+    952
+   ]
+  },
+  {
+   "n": 3,
+   "who": "Oriel",
+   "did": "说自己正在参与 Sky-over-Prairie 上新成立的农场集体，需要大量当面会议",
+   "anchor": "the new farm collective that formed on Sky-over-Prairie",
+   "range": [
+    1339,
+    1394
+   ]
+  },
+  {
+   "n": 4,
+   "who": "Gardenpath",
+   "did": "吐出“这是浪费一个博士学位”的话",
+   "anchor": "“It’s a waste of a doctorate.”",
+   "range": [
+    2034,
+    2064
+   ]
+  },
+  {
+   "n": 5,
+   "who": "Oriel",
+   "did": "说考试制度摧毁而非鼓励创新，自己要按 Memory 不允许的方式创新",
+   "anchor": "the exam system destroys innovation rather than encouraging it",
+   "range": [
+    4257,
+    4319
+   ]
+  },
+  {
+   "n": 6,
+   "who": "Gardenpath",
+   "did": "在桥中央哭着化开，问能否进入 Oriel 体内说话",
+   "anchor": "they asked, “Can I speak inside you?”",
+   "range": [
+    5855,
+    5892
+   ]
+  },
+  {
+   "n": 7,
+   "who": "Oriel",
+   "did": "告白说从初见起就一直爱着 Gardenpath",
+   "anchor": "I have loved you since the first time I met you.",
+   "range": [
+    7115,
+    7163
+   ]
+  },
+  {
+   "n": 8,
+   "who": "Gardenpath",
+   "did": "想起材料包，喊着忘了，把蛋白质材料经通风管送进 Academic Senate 收件处",
+   "anchor": "whooshing the tidy packet of proteins across the network",
+   "range": [
+    8387,
+    8443
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "pair": "Oriel → Gardenpath",
+   "relation": "Oriel 说从第一次见面起就爱着 Gardenpath",
+   "anchor": "I have loved you since the first time I met you.",
+   "range": [
+    7115,
+    7163
+   ]
+  },
+  {
+   "pair": "Gardenpath → Oriel",
+   "relation": "Gardenpath 称 Oriel 是自己最好的朋友，且远不只是朋友",
+   "anchor": "You’re my best friend.” Gardenpath reached out an arm",
+   "range": [
+    3870,
+    3923
+   ]
+  },
+  {
+   "pair": "Plumline → Redoubt 的实验室",
+   "relation": "报告收据涵盖 Redoubt 实验室的参与",
+   "anchor": "including the involvement of Redoubt’s lab",
+   "range": [
+    471,
+    513
+   ]
+  },
+  {
+   "pair": "Wainscot → Column",
+   "relation": "Gardenpath 从 Wainscot 体内尝到其今天早些时候与 Column 谈话的喜悦",
+   "anchor": "delight at a conversation with Column earlier today",
+   "range": [
+    2897,
+    2948
+   ]
+  },
+  {
+   "pair": "Gardenpath 与 Oriel",
+   "relation": "两人互相把手臂绕进对方体内，在图书馆里交合",
+   "anchor": "They slung arms around and inside each other",
+   "range": [
+    5904,
+    5948
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "value": "two",
+   "fact": "附录记载另外两起 Plumline 未获 Tech Transfer Office 授权造原型",
+   "anchor": "two other instances where Plumline had created prototypes",
+   "range": [
+    690,
+    747
+   ]
+  },
+  {
+   "value": "one",
+   "fact": "报告中有一份令人不安的原型模型",
+   "anchor": "one disturbing model for a prototype",
+   "range": [
+    518,
+    554
+   ]
+  },
+  {
+   "value": "four",
+   "fact": "Oriel 又朝 Gardenpath 方向探出四只眼",
+   "anchor": "Oriel thrust four more eyes in Gardenpath’s direction",
+   "range": [
+    1873,
+    1926
+   ]
+  },
+  {
+   "value": "five",
+   "fact": "Gardenpath 伸出五只小眼睛看着 Oriel",
+   "anchor": "Sending out five small eyes to look at Oriel",
+   "range": [
+    5809,
+    5853
+   ]
+  }
+ ]
+}
