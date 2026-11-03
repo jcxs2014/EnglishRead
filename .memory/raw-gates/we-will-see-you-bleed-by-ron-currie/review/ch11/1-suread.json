@@ -1,0 +1,64 @@
+{
+ "chapter": "ch11",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 69,
+   "end": 134,
+   "fact": "开头：Officer Farley 用电台向 Bates 报告：一名女子当着 several hundr",
+   "anchor": "she put a gun to Charlie St.…"
+  },
+  {
+   "ok": true,
+   "start": 3645,
+   "end": 3742,
+   "fact": "Bates 到妹妹 Sophie（Claude 之妻）家的厨房谈话，Sophie 说自己不是想死、而是想",
+   "anchor": "Everyone else gets seven day…"
+  },
+  {
+   "ok": true,
+   "start": 4030,
+   "end": 4072,
+   "fact": "Sophie 讲述儿子 Kyle 在透析日的小仪式：Kyle 上幼儿园只上半天、约 one 点下校车，会",
+   "anchor": "He only has half days becaus…"
+  },
+  {
+   "ok": true,
+   "start": 7129,
+   "end": 7186,
+   "fact": "Bates 决定不再犹豫，抢先向 Sophie 提起肾移植，等于承诺捐出自己的一个肾；他此前最顾虑的是钱",
+   "anchor": "Claude tells me you’re think…"
+  },
+  {
+   "ok": true,
+   "start": 10354,
+   "end": 10409,
+   "fact": "Steve Heron 在 Dionne 家外车里守候几个小时一无所获后（地址是 Clement 亲笔所",
+   "anchor": "pressed a pistol behind his …"
+  },
+  {
+   "ok": true,
+   "start": 13428,
+   "end": 13461,
+   "fact": "Heron（Clement 的老友，自称 Globe 报社跑教会条线的记者）向 Rheal 透露：他们新",
+   "anchor": "He’s almost certainly a pedo…"
+  },
+  {
+   "ok": true,
+   "start": 15581,
+   "end": 15627,
+   "fact": "Babs 提着购物袋回家后，Heron 谎称自己是 Clement 派来的信使、说 Clement 需要",
+   "anchor": "left without putting away an…"
+  },
+  {
+   "ok": true,
+   "start": 23576,
+   "end": 23614,
+   "fact": "结尾：一小时后 Babs 冲到 Congress Street 的教区办公室，逼问后拿到教区房产清单，按",
+   "anchor": "I couldn’t make a decision w…"
+  }
+ ]
+}

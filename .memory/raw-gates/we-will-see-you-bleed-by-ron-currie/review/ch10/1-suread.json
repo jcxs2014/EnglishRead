@@ -1,0 +1,64 @@
+{
+ "chapter": "ch10",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 2092,
+   "end": 2183,
+   "fact": "代理警察局长 Daryl Bates 被 Claude 丢到他怀里的肾脏难题缠住——他的妹妹 Sophi",
+   "anchor": "After two straight nights du…"
+  },
+  {
+   "ok": true,
+   "start": 6366,
+   "end": 6423,
+   "fact": "Bates 决定对妻子隐瞒自己正在为一桩初起的毒品生意提供掩护——一怕她就此变成同谋，二怕她立刻提出离婚",
+   "anchor": "All things Bates planned to …"
+  },
+  {
+   "ok": true,
+   "start": 7800,
+   "end": 7884,
+   "fact": "Stella 替 Babs 和 Rheal 策划的首次社区集会按街头集市操办：音乐、弹跳屋、气球动物，向",
+   "anchor": "the rally actually functione…"
+  },
+  {
+   "ok": true,
+   "start": 8761,
+   "end": 8843,
+   "fact": "Rheal 自愿充当水靶大受欢迎，队伍排了 “over half an hour”，他已落水 “a do",
+   "anchor": "people waited in line for ov…"
+  },
+  {
+   "ok": true,
+   "start": 16592,
+   "end": 16650,
+   "fact": "Babs 在集会上认出插队领免费食物的 Charlie St. Pierre（身材 “six three",
+   "anchor": "One, you’re going to leave. …"
+  },
+  {
+   "ok": true,
+   "start": 16915,
+   "end": 16996,
+   "fact": "Babs 从腰间拔出她已惯常随身携带的 9mm，扳起击锤、把枪口顶进 Charlie 脸颊并扣动扳机；枪",
+   "anchor": "cocked the hammer, jabbed th…"
+  },
+  {
+   "ok": true,
+   "start": 17980,
+   "end": 18068,
+   "fact": "争吵从 Rheal 的 Mustang 一路烧进自家厨房：Babs 说上周只想赶走 Charlie、现在",
+   "anchor": "Now I want him dead. Every b…"
+  },
+  {
+   "ok": true,
+   "start": 26153,
+   "end": 26229,
+   "fact": "神父 Clement 循 Steve Heron 指点查证：波士顿总教区 “Just six month",
+   "anchor": "The priest at St. Mary that …"
+  }
+ ]
+}

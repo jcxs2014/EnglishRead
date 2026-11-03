@@ -1,0 +1,64 @@
+{
+ "chapter": "ch12",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 118,
+   "end": 215,
+   "fact": "Hollingsworth & Whitney 纸厂第一个失踪的造纸工是工程师 Stewart Qual",
+   "anchor": "left work after the swing sh…"
+  },
+  {
+   "ok": true,
+   "start": 3373,
+   "end": 3432,
+   "fact": "代警长 Bates 在 June 报案次日早上打电话给 Babs，说这是四天内第二次质问她「你在干什么」",
+   "anchor": "our relationship is now one …"
+  },
+  {
+   "ok": true,
+   "start": 8415,
+   "end": 8475,
+   "fact": "Stewart 夜间在 Route 201 上被一辆紧贴尾随的车逼停，两名男子从两侧下车齐步逼近，一言不",
+   "anchor": "they were wearing masks, and…"
+  },
+  {
+   "ok": true,
+   "start": 12851,
+   "end": 12930,
+   "fact": "Stewart 被带到一间强光室审讯，对方的声音声称「我们不是你的敌人」「你不再为 Hollingswo",
+   "anchor": "played in its entirety, at t…"
+  },
+  {
+   "ok": true,
+   "start": 13864,
+   "end": 13961,
+   "fact": "28 小时到点后，Stewart 被警告不得再回 H&W 上哪怕一个班，否则下场会更惨；他被注射 pro",
+   "anchor": "returned to the precise spot…"
+  },
+  {
+   "ok": true,
+   "start": 16888,
+   "end": 16933,
+   "fact": "Bates 在 Dionne 家门前敲了近一分钟门，开门的是 Rheal（Babs「不在，在别处」，Rh",
+   "anchor": "We figure three or four ough…"
+  },
+  {
+   "ok": true,
+   "start": 19019,
+   "end": 19050,
+   "fact": "Claude 带 Sophie 去沃特维尔唯一的高级餐厅 Last Unicorn 宣布筹到了她手术的钱",
+   "anchor": "I sold one of my kidneys, ok…"
+  },
+  {
+   "ok": true,
+   "start": 23481,
+   "end": 23550,
+   "fact": "邻桌两位女士侧耳旁观，Claude 干脆转向她们宣讲：为了 Sophie 他可以去死也可以去杀——事实上",
+   "anchor": "January 10th, 1969, or June …"
+  }
+ ]
+}

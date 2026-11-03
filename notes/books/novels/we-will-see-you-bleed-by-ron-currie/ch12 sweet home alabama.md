@@ -69,7 +69,7 @@ modified: "2026-11-03"
 **读者视角提示**：这是全书第一次有人公开把「杀」放进爱情句式——别忘了 Babs 听到的版本会是什么；这句话的回响在后文会响起。
 
 > **原句 10:** "But for me, the scarier thing was ending up in a place without her. Iron sharpens iron and fear trumps fear. I’m sitting here today because I was more afraid of being without her than I was of anything else."
-**中文理解**：他说战争当然吓人，但对我更吓人的，是落在一个没有她的地方。铁磨铁使刃利，惧胜惧能催人活——我今天还坐在这儿，是因为「失去她」这件事，比我见过的一切都更让我害怕。
+**中文理解**：对我更吓人的，是落在一个没有她的地方。铁磨铁使刃利，惧胜惧能催人活——我今天还坐在这儿，是因为「失去她」这件事，比我见过的一切都更让我害怕。
 **关键词**：a place without her（没有她的地方）/ fear trumps fear（惧胜惧）/ more afraid of being without her（更怕失去她）
 **为什么这样写**：恐惧的等级制被倒转——战场成为参照系，寡居才是更大的刑场；谚语对仗（iron/fear）给土味情话镀上经文的密度。
 **读者视角提示**：把这段与 ch08 「病的国度/健康的国度」对读——同一对夫妻的两份孤独证词，在这一章终于当众合流。
