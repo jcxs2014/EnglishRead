@@ -8,7 +8,7 @@ modified: "2026-11-03"
 ## 本章导航
 - **一句话概括**：捉鬼联盟当场签约：Blair 挥着手问出「你能看见她吗」、对空气说「借过」，Cassie 把任务定名「未竟之事」——盟约落在那句「你彻底疯了，但我他妈就爱这一点」。
 - **情感弧线位置**：双线合流完成：一个信灵、一个信友，两种「不理性」在客厅握手。
-- **线索结构**：「What's one more secret between friends」的暗线计数（尸体/身份/日记/灵异）继续累加；「两个世界取证」为 Part III 尾声的方法论定纲；「Never change for anyone」反写第 20 章「I'd probably agree to anything」——同样无条件的爱，这次没有收银台。
+- **线索结构**：「What's one more secret between friends」的暗线计数（尸体/身份/日记/灵异）继续累加；「两个世界取证」为收尾几章的方法论定纲；「Never change for anyone」反写第 20 章「I'd probably agree to anything」——同样无条件的爱，这次没有收银台。
 - **人物弧线**：Cassie：第一次反向输出勇气（你一直为我壮胆，这次换我）；Blair：怀疑者完成受洗——她的相信不是玄学，是对朋友的信用透支。
 - **叙事手法**：手挥空气的哑剧动作把「显形」翻给读者；「Excuse me, babe」的礼貌鬼待之道是全书最滑稽的一拍；盟约用两句短台词互锁，宣告收尾。
 
