@@ -1,0 +1,55 @@
+{
+ "book": "your-beloved-remains-by-quinn-connor",
+ "chapter": "ch03",
+ "text": "notes/books/novels/your-beloved-remains-by-quinn-connor/text/ch03_chapter_iii.txt",
+ "facts": [
+  {
+   "fact": "派对上被她挥开的传闻两天后如渐强的尖叫回来，第三晚她在荣誉守则仪式上了解更多",
+   "anchor": "Those rumors I’d swept aside at the party came back to me as a building scream over the next two days",
+   "start": 19,
+   "end": 120
+  },
+  {
+   "fact": "小教堂极少使用、除非有人去世——你的纪念、创始人纪念、她父亲的全在其苔藓石板屋顶下举行",
+   "anchor": "your memorial, all the memorials for the founders, even my father’s, had been staged beneath its mossy slate roof",
+   "start": 286,
+   "end": 399
+  },
+  {
+   "fact": "Celia 和 Jonathan 分立图书馆门两侧给新生发白袍，他趁空做鬼脸学石像鬼逗她",
+   "anchor": "Jonathan and I stood on either side of the library door to dispense white robes for the first-years",
+   "start": 612,
+   "end": 711
+  },
+  {
+   "fact": "1988 级新生挤在狭小教堂里，人少得触目惊心",
+   "anchor": "Looking at the assembled class of 1988 here in the cramped chapel threw their modest numbers into frightening relief",
+   "start": 1817,
+   "end": 1933
+  },
+  {
+   "fact": "校长 Danvers 是父亲的对立面；父亲去世时他只致哀并赠曾摆校长办公桌的银钟作纪念",
+   "anchor": "he only offered condolences and the silver clock, which used to sit on the president’s desk, as a keepsake",
+   "start": 2538,
+   "end": 2644
+  },
+  {
+   "fact": "Celia 低声追问 Harper 财务困境传闻：「这不只是一所学院，这是 Tristram Donahue 档案馆的家」；Harper 蓝眼惊惶、手指打颤，被仪式开始救场",
+   "anchor": "This is more than just a college. It’s the home of the Tristram Donahue archive",
+   "start": 3956,
+   "end": 4035
+  },
+  {
+   "fact": "Celia 盯着蜡烛出神：一颗火星落到屋顶整个校园就没了——一切都如此脆弱",
+   "anchor": "One stray spark to the roof of this place and the whole campus would be gone",
+   "start": 4818,
+   "end": 4894
+  },
+  {
+   "fact": "她在教工席看见那女人：齐下巴短发烛光下更显红褐、复古男装剪裁、无帽无校色；散场被袍子人流淹没；宴会那天她还高声空谈过 Scylla",
+   "anchor": "The chin-length chop of her hair glinted up at me, more auburn in the close light of the candles",
+   "start": 5111,
+   "end": 5207
+  }
+ ]
+}
