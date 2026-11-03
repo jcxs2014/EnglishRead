@@ -1,0 +1,171 @@
+{
+  "chapter": "ch42",
+  "source": "text/ch42_chapter_42_the_best_cluster_in_the_globe.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "带着毫不动摇的决心回到 Memory 遵守对 Murtis 的承诺；若 Spiralstair 不放人，就找遍校园每个实验室（除造武器外什么都愿意做）",
+      "anchor": "returned to the Memory with an unwavering determination",
+      "range": [
+        108,
+        163
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Spiralstair",
+      "did": "读完 Gardenpath 的研究与 Plumline 的笔记后，让其继续田野工作，理由是进展相当显著",
+      "anchor": "I suppose you should get on with your fieldwork",
+      "range": [
+        977,
+        1024
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Gardenpath（叙述）",
+      "did": "这次近乎反高潮的对话标志其一生中最好时代的开始",
+      "anchor": "marked the beginning of the best eon in Gardenpath’s life",
+      "range": [
+        1133,
+        1190
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Turret 与 Nuraghe",
+      "did": "Turret 成为 Arch 所在实验室的教授（做与冰粒有关的东西）；Nuraghe 加入反战社群成为领袖，在 Wainscot 通过第四次后不久通过第三次",
+      "anchor": "passed the Third shortly after Wainscot passed the Fourth",
+      "range": [
+        1766,
+        1823
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Wainscot",
+      "did": "在同伴中最早通过第四次；几程后宣布获准参加第五次，当时是 Wandertime，大家正吃新收的蜜莓",
+      "anchor": "had been granted an audience for the Fifth",
+      "range": [
+        2007,
+        2049
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Gardenpath",
+      "did": "已花近四十五个征程不停地写论文，却不断找借口延长——因为一旦通过第四次，就再无定期去 Tentacle 的理由",
+      "anchor": "they kept finding excuses to extend it",
+      "range": [
+        3480,
+        3518
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Oriel",
+      "did": "把 Column 与 Wainscot 的暧昧比作十二卷浪漫小说：慢热已烧了十一卷半，并问会不会有第十三卷",
+      "anchor": "This is like reading a twelve-book romance series",
+      "range": [
+        2871,
+        2920
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Gardenpath",
+      "did": "Wainscot 带着最后一次群体召唤的余香回宿舍、无法停止伸长时，Gardenpath 在陷入无意识之际尝到 Wainscot 体内的 Column——终于；群体一起分享喜悦",
+      "anchor": "Gardenpath could taste Column in Wainscot’s body. Finally.",
+      "range": [
+        4879,
+        4937
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Column → Wainscot",
+      "relation": "暧昧终于显影（恋情）：群体一起分享喜悦，Gardenpath 尝到 Column 在 Wainscot 体内",
+      "anchor": "The cluster oozed together, everyone sharing their joy",
+      "range": [
+        4938,
+        4992
+      ]
+    },
+    {
+      "pair": "Arch → Turret",
+      "relation": "提携：Turret 成为 Arch 所在实验室的教授",
+      "anchor": "Turret became a professor in the lab where Arch worked",
+      "range": [
+        1592,
+        1646
+      ]
+    },
+    {
+      "pair": "Nuraghe ↔ Turret",
+      "relation": "同圈伙伴：Gardenpath 的圈子扩大到包含 Nuraghe 与 Turret",
+      "anchor": "which had grown to include Nuraghe and Turret",
+      "range": [
+        1331,
+        1376
+      ]
+    },
+    {
+      "pair": "Oriel ↔ Gardenpath",
+      "relation": "伴侣/同侪：Oriel 与 Gardenpath 一起进行论文写作约会，田野行程也被安排在同一批征程",
+      "anchor": "Oriel joined them on dissertation writing dates",
+      "range": [
+        1378,
+        1425
+      ]
+    },
+    {
+      "pair": "Column → Oriel",
+      "relation": "保护性的导师：Oriel 称 Column 为 protective adviser，Column 希望其在十五个征程内完成以便下个时代合作",
+      "anchor": "Always the protective adviser, Column. Thank you. I’ll try.",
+      "range": [
+        4084,
+        4143
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "twenty journeys",
+      "fact": "Oriel 自称还需要另外二十个征程才宣布打算参加第四次考试",
+      "anchor": "I’m going to need another twenty journeys to declare",
+      "range": [
+        3726,
+        3778
+      ]
+    },
+    {
+      "value": "nearly forty-five journeys",
+      "fact": "Gardenpath 已花近四十五个征程不停地写论文，并不断找借口延长",
+      "anchor": "They had spent nearly forty-five journeys working nonstop",
+      "range": [
+        3397,
+        3454
+      ]
+    },
+    {
+      "value": "eleven and a half books",
+      "fact": "Oriel 形容这段慢热恋已持续十一卷半（共十二卷的浪漫系列）",
+      "anchor": "where the slow burn has lasted for eleven and a half books",
+      "range": [
+        2921,
+        2979
+      ]
+    },
+    {
+      "value": "two eons",
+      "fact": "Wainscot 终于明白其他人几乎两个时代前就已经知道的事",
+      "anchor": "what everyone else had known for almost two eons",
+      "range": [
+        5023,
+        5071
+      ]
+    }
+  ]
+}

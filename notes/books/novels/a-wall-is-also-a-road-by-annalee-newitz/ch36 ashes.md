@@ -47,7 +47,7 @@ modified: "2026-11-02"
 
 - **中文理解**：「一切正如你所说！Vesuvius 像 Aetna 一样炸了，只是糟得多。」
 - **关键词**：just as you said / like Aetna / much worse
-- **为什么这样写**：Vesuvius 的名字第一次被说出——之前全书只用「山」；此刻它有了名字，像凶手落网时被叫出真名。Murtis 的报信用的是 Murtis 的参照系（Aetna，南方的活火山）：她终于用自己的经验消化了那场预言。
+- **为什么这样写**：Vesuvius 的名字在此从类比变成事实——ch29 里它还只是 Peristyle 口中「没人会挨着建的活火山」，此刻由 Murtis 亲口宣布它已炸过，像凶手落网时被叫出真名。Murtis 的报信用的是 Murtis 的参照系（Aetna，南方的活火山）：她终于用自己的经验消化了那场预言。
 - **读者视角提示**：对照 ch29 提到 Aetna 的伏笔（旅客们讲过南方的火山）——Murtis 的信任桥梁一直是她见过的东西。这一句也确认：她逃了，她的警告网络工作了。
 
 > **原句 6:** "“I’m so sorry. I wish I hadn’t been right.”"

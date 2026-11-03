@@ -1,0 +1,171 @@
+{
+  "chapter": "ch41",
+  "source": "text/ch41_chapter_41_julia.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "已有二十个征程没乘渡船去中转大厅，这是自遇见 Murtis 以来分别最久的一次，与 Oriel 融合也无法减轻痛苦",
+      "anchor": "the longest they had gone without seeing Murtis",
+      "range": [
+        142,
+        189
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "实验室在 Spiralstair 接手后陷入混乱，他们花了几个征程说服这位飘忽的新导师把自己送回 Tentacle，否则无法完成论文、参加第四次考试",
+      "anchor": "the lab had been in chaos after Spiralstair took over",
+      "range": [
+        543,
+        596
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Peristyle",
+      "did": "在 Tentacle 港口下船，收拢关于 Memory 的心绪；看到 Milk Road 酒馆的星墙重新明亮，火山灰已被冲走",
+      "anchor": "starry walls of the Milk Road taberna were bright again",
+      "range": [
+        1372,
+        1427
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Curly",
+      "did": "告诉 Peristyle 病的是 Julia 而不是 Murtis：Julia 病了，Murtis 应付不来，不是在床边守着就是献祭、从埃及找治疗师",
+      "anchor": "It’s Julia. She’s sick, and Murtis can’t handle it.",
+      "range": [
+        2397,
+        2448
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Murtis",
+      "did": "告诉 Peristyle 已把一切告诉 Julia（两人的关系、她的来处、她能治愈与给予快感），Julia 接受；并请求 Peristyle 救 Julia",
+      "anchor": "I told Julia everything. I told her about us",
+      "range": [
+        3427,
+        3471
+      ]
+    },
+    {
+      "n": 6,
+      "who": "Peristyle",
+      "did": "用触手进入 Julia 体内逐细胞检查，清理真菌与动物，并逐个刺破 Julia 喉部与肺部肿瘤里的突变细胞",
+      "anchor": "clusters of cells forming tumors in Julia’s throat",
+      "range": [
+        5560,
+        5610
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Julia",
+      "did": "把体内一切排清：排出细胞团、细菌与真菌，与健康的排泄物、生物膜混在恶臭的团块里",
+      "anchor": "She expelled cellular masses, bacteria, and fungi",
+      "range": [
+        6447,
+        6496
+      ]
+    },
+    {
+      "n": 8,
+      "who": "Peristyle",
+      "did": "在浴场同时连通 Julia 与 Murtis，把另一根触手伸进 Murtis 体内——她此前从未同时进入两个 Unnamed",
+      "anchor": "Peristyle had never gone inside two Unnamed before",
+      "range": [
+        10582,
+        10632
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Gardenpath → Murtis",
+      "relation": "牵挂：担心 Murtis 是否死于本可预防的疾病、是否已把全部爱给了 Julia",
+      "anchor": "Had they given all their love to Julia?",
+      "range": [
+        351,
+        390
+      ]
+    },
+    {
+      "pair": "Curly ↔ Peristyle",
+      "relation": "老友：Peristyle 伸双臂拥抱柜台后的 Curly，发现他身体更轻更脆、一只眼因病变暗",
+      "anchor": "reached out both arms to hug the man behind the counter",
+      "range": [
+        1682,
+        1737
+      ]
+    },
+    {
+      "pair": "Murtis ↔ Peristyle",
+      "relation": "恋人：Murtis 称她 My love、说非常想念她并需要她帮助",
+      "anchor": "My love. I have missed you so much.",
+      "range": [
+        3180,
+        3215
+      ]
+    },
+    {
+      "pair": "Murtis ↔ Julia",
+      "relation": "恋人/伴侣：两人在浴场互相拥抱、把嘴唇贴上彼此的脸，并同时散发出情欲的气味",
+      "anchor": "the two women pressed lips to each other’s faces",
+      "range": [
+        8898,
+        8946
+      ]
+    },
+    {
+      "pair": "Peristyle → Julia",
+      "relation": "治疗者与病人：Peristyle 小心翼翼地伸触手进入 Julia 体内检查（视之为维护而非屠杀）",
+      "anchor": "sent a tentacle inside, feeling her way gingerly",
+      "range": [
+        5359,
+        5407
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "twenty journeys",
+      "fact": "在 Murtis 与 Julia 的时间尺度里，二十个征程等于五年",
+      "anchor": "For Murtis and Julia, twenty journeys was five years",
+      "range": [
+        433,
+        485
+      ]
+    },
+    {
+      "value": "five years",
+      "fact": "对 Murtis 与 Julia 而言二十个征程即五年，是其生命中显著的跨度",
+      "anchor": "twenty journeys was five years, and that was a significant",
+      "range": [
+        455,
+        513
+      ]
+    },
+    {
+      "value": "three days",
+      "fact": "Julia 花三天把体内的一切清理干净",
+      "anchor": "took three days for Julia to clear everything",
+      "range": [
+        6384,
+        6429
+      ]
+    },
+    {
+      "value": "the fourth morning",
+      "fact": "到病中的第四天早晨，Julia 已能吃下一整餐并加以代谢",
+      "anchor": "By the fourth morning of her ordeal, Julia was able to eat",
+      "range": [
+        6962,
+        7020
+      ]
+    }
+  ]
+}

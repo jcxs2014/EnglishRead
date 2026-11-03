@@ -1,0 +1,162 @@
+{
+  "chapter": "ch40",
+  "source": "text/ch40_chapter_40_your_attendance_is_required.txt",
+  "facts": [
+    {
+      "n": 1,
+      "who": "Gardenpath",
+      "did": "分离（Separation）后不久在宿舍网络查看消息，满心期待评议会回音",
+      "anchor": "Gardenpath checked their messages on the dorm network",
+      "range": [
+        189,
+        242
+      ]
+    },
+    {
+      "n": 2,
+      "who": "Gardenpath",
+      "did": "转述评议会回复：以“贡献（Contribution）”为名要求自己出席，且必须连同 Column 一起到场",
+      "anchor": "They say my attendance is required, along with Column.",
+      "range": [
+        487,
+        541
+      ]
+    },
+    {
+      "n": 3,
+      "who": "Gardenpath",
+      "did": "给秘密顾问发完消息后说：自己下一站必须去实验室，与 Plumline、Nuraghe 谈武器的事",
+      "anchor": "I have to be at the lab next stop, to talk with Plumline",
+      "range": [
+        1012,
+        1068
+      ]
+    },
+    {
+      "n": 4,
+      "who": "Plumline",
+      "did": "称 Redoubt 的助手要求立刻再送一批细胞；第一个样本被其加利恩（Galleon）的合作者发现了问题",
+      "anchor": "They need another batch of the cells right away",
+      "range": [
+        1759,
+        1806
+      ]
+    },
+    {
+      "n": 5,
+      "who": "Nuraghe",
+      "did": "提醒 Gardenpath 不必再给细胞：他们能沿中转舱单追到其路径；Gardenpath 决定不再提供细胞",
+      "anchor": "They can follow your path on the transit manifest",
+      "range": [
+        2695,
+        2744
+      ]
+    },
+    {
+      "n": 6,
+      "who": "质询 Plumline 的参议员（议会成员）",
+      "did": "指出合同记录显示 Plumline 做了相当丰厚的合作，并列举十几个金属蛞蝓、两颗卫星等物，问 Cantilever 那装置是什么",
+      "anchor": "you’ve made quite a lucrative collaboration",
+      "range": [
+        7638,
+        7681
+      ]
+    },
+    {
+      "n": 7,
+      "who": "Plumline",
+      "did": "否认与加利恩云人有联系，转而指控 Turret 等学生欲破坏其工作、有充分理由把合同植入其账户、扬言报复",
+      "anchor": "They had ample reason to plant this contract in my account.",
+      "range": [
+        9659,
+        9718
+      ]
+    },
+    {
+      "n": 8,
+      "who": "薰衣草色参议员（建议）与 Investigator Cantilever（附议）",
+      "did": "建议 Plumline 在查明违规程度前无限期停职；Cantilever 附议，决定获一致通过",
+      "anchor": "that Investigator Plumline be placed on indefinite leave",
+      "range": [
+        13941,
+        13997
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "pair": "Column → Gardenpath",
+      "relation": "秘密顾问：Gardenpath 有急事立刻发电报给他们的 secret adviser（Column）",
+      "anchor": "They blew a message hastily to their secret adviser",
+      "range": [
+        958,
+        1009
+      ]
+    },
+    {
+      "pair": "Redoubt → Plumline",
+      "relation": "在听证会上为 Plumline 开脱：称文件可能是任何人从网络上发的，存在学生植入的可能",
+      "anchor": "It’s possible. We discussed the project",
+      "range": [
+        11158,
+        11197
+      ]
+    },
+    {
+      "pair": "Plumline → Turret",
+      "relation": "把责任推给学生：称包括 Turret 在内的学生一直在设法破坏自己的工作",
+      "anchor": "who have been trying to sabotage my work",
+      "range": [
+        9202,
+        9242
+      ]
+    },
+    {
+      "pair": "Wainscot ↔ Column",
+      "relation": "关系超出普通同僚：众人相拥时两人抱得比任何人都久（Gardenpath 注意到）",
+      "anchor": "Wainscot and Column managed to hug a bit longer",
+      "range": [
+        15319,
+        15366
+      ]
+    }
+  ],
+  "numbers": [
+    {
+      "value": "one journey",
+      "fact": "分离后仅一次旅程，学术评议会就已经采取行动（发出出席通知）",
+      "anchor": "one journey for the Academic Senate to make a move",
+      "range": [
+        111,
+        161
+      ]
+    },
+    {
+      "value": "A dozen metal slugs",
+      "fact": "合同所列收益之一：十几个金属蛞蝓",
+      "anchor": "A dozen metal slugs. Two satellites.",
+      "range": [
+        7683,
+        7719
+      ]
+    },
+    {
+      "value": "Two satellites",
+      "fact": "合同所列收益之一：两颗卫星；后文交代还有一台快速分子原型舱",
+      "anchor": "metal slugs. Two satellites. A device for",
+      "range": [
+        7691,
+        7732
+      ]
+    },
+    {
+      "value": "six contracts",
+      "fact": "参议员称 Plumline 很早以前就有六份合同未向技术转移办公室备案",
+      "anchor": "for these six contracts as well?",
+      "range": [
+        12430,
+        12462
+      ]
+    }
+  ]
+}
