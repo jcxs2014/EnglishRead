@@ -1,0 +1,55 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch03",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch03_chapter_three.txt",
+ "facts": [
+  {
+   "fact": "Travis 通过城市摄像头盯梢 Kevin：清晨六点起床翻检前夜攒下的酒瓶，翻到剩酒就喝掉再睡，翻不到就气冲冲出门找酒钱。",
+   "anchor": "Watching Kevin through the city cams",
+   "start": 35,
+   "end": 71
+  },
+  {
+   "fact": "他打包每次行动必带的一套：换洗衣物、牙刷，以及本次选定的工具；一切按计划就绪。",
+   "anchor": "A change of clothes, toothbrush, and the specific tool",
+   "start": 1030,
+   "end": 1084
+  },
+  {
+   "fact": "警报响：Sage 绕屋「螃蟹走」想扒窗偷看；他看她像看一个看了太多烂忍者片的孩子，她走时连掩饰都懒得做。",
+   "anchor": "like watching a child who’s invested a lot of time in watching bad ninja movies",
+   "start": 1726,
+   "end": 1805
+  },
+  {
+   "fact": "他提醒周四杀 Kevin，随即决定下一个杀她，从今天起在「日程空闲时段」策划；他搜到她的 Instagram，证实她是 Airbnb 测评师。",
+   "anchor": "Then I could kill her next. Yes! It’s decided",
+   "start": 2927,
+   "end": 2972
+  },
+  {
+   "fact": "午夜潜入 Ryan 家：撬开后门、逐间查看，主卧里月光下的 Sage 像瓷器、粉发铺成光环、睫毛扇在脸颊。",
+   "anchor": "her skin seems porcelain",
+   "start": 5358,
+   "end": 5382
+  },
+  {
+   "fact": "他站在床尾承认此刻随时能杀她，但「还不在日程上」；他还翻检了她的洗漱台，评价一切普通。",
+   "anchor": "it’s not on the schedule yet",
+   "start": 5983,
+   "end": 6011
+  },
+  {
+   "fact": "他碰落画框惊醒她，闪进衣柜留缝；她全裸举着辣椒喷雾出来，对着画骂「He better charge me for that」，并说这次真要喷 Ryan。",
+   "anchor": "completely naked",
+   "start": 7805,
+   "end": 7821
+  },
+  {
+   "fact": "他从二楼窗翻出，落地滚进毒藤丛；回程一路提醒自己别抓脸，并认定她是必须尽快除掉的干扰。",
+   "anchor": "Poison fucking ivy",
+   "start": 9616,
+   "end": 9634
+  }
+ ]
+}

@@ -33,7 +33,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：威胁句的主语从「我要杀她」滑成「她需要消失」——把谋杀写成对方自找的清理需求。前半句还端着职业原则（两次行动要隔开），后半句原则当场让位，这种自我松动正是本章的暗流。
 
-**读者视角提示**：对比他本章开头的「not on the schedule」：此刻他还没把杀她排进日程，但口风已经从「如果」变成了「必须」。
+**读者视角提示**：对比他本章后文的「not on the schedule」：此刻他还没把杀她排进日程，但口风已经从「如果」变成了「必须」。
 
 > **原句 3:** "I'm killing Kevin on Thursday, I remind myself. Then I could kill her next. Yes! It's decided. I will start planning her demise today, during my scheduled free time."
 
@@ -81,7 +81,7 @@ modified: "2026-11-03"
 
 **关键词**：lose my mind / distraction / get rid of her
 
-**为什么这样写**：全章结尾三个短句完成一次降温复位：从月光与瓷器的失神，硬拉回杀手的中梅语法。但「losing my mind」这句失控报告本身就是裂缝——机器越强调自己没故障，故障越明显。
+**为什么这样写**：全章结尾三个短句完成一次降温复位：从月光与瓷器的失神，硬拉回杀手的冷静语法。但「losing my mind」这句失控报告本身就是裂缝——机器越强调自己没故障，故障越明显。
 
 **读者视角提示**：跳窗摔进毒藤、诅咒笨拙、把锅甩给她的「chaos」——本章他两次受害都与她间接相关。这场「除掉她」的宣战，从第一天起就在失利。
 
