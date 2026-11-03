@@ -24,7 +24,7 @@ modified: "2026-11-03"
 **中文理解**：刺客扔锯就跑，Rheal 却更快——他一贯更快，论「生活施于我们的暴力」他是宗师级人物，全套本事承自父亲；他跃起双手揪住对方头发，猛拽到双脚离地，把他的后脑重重磕在吧台上。
 **关键词**：grand master（宗师）/ slammed the back of his head（后脑撞上吧台）/ quicker（更快）
 **为什么这样写**：一个 80 词的长句靠三个逗号推进完成擒拿，句法速度就是动作速度；「grand master」把街头暴力庄重化成武学段位，反讽里带着对这条街区生存法则的正名。
-**读者视角提示**：注意「learned everything from his own father」——Rheal 的暴力是家传课业，这条伏笔与 Prélude 里 Babs 的「母传」残酷恰好构成夫妻镜像。
+**读者视角提示**：注意「learned everything he needed to know and then some from his own father」——Rheal 的暴力是家传课业，这条伏笔与 Prélude 里 Babs 的「母传」残酷恰好构成夫妻镜像。
 
 > **原句 3:** "You give old Harold a message for me,” Rheal said. “Tell him we’ve got enough problems without him trying to poison our neighborhood with drugs. And if he keeps sending people our way, we’re going to start sending them back to Lewiston in body bags, regardless of what God or Clay Sutton has to say about it. Got all that?"
 **中文理解**：Rheal 命刺客给老 Harold 带话——我们的麻烦已经够多，别再往社区里倒毒品；你再派人过来，我们就把他们装进尸体袋送回 Lewiston，上帝和 Clay Sutton 都说不上情；说完还问对方「都记下了？」

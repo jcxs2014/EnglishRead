@@ -28,7 +28,7 @@ modified: "2026-11-03"
 
 > **原句 3:** "As it started to sink in that he was actually being kidnapped, that they were taking him away to do God knew what somewhere nobody could see or hear, Stewart went into an immediate animal panic, a state of mind and body he’d never experienced, never even knew was possible. This was a complete loss of not merely control, but of one’s very self. He was no longer Stewart Qualley, he was simply Fear."
 **中文理解**：当「我真的被绑架了」这个事实沉下去——他们要把他带去无人看见听见的地方做天知道的事——Stewart 立刻陷入动物级恐慌，一种他从未体验过、甚至不知道可能存在的心身状态：这不只是失控，是「自我」整个没了。他不再是 Stewart Qualley，他就是恐惧本身。
-**关键词**：animal panic（动物级恐慌）/ loss of one’s very self（自我的丧失）/ simply Fear（恐惧本身）
+**关键词**：animal panic（动物级恐慌）/ of one’s very self（整个自我）/ simply Fear（恐惧本身）
 **为什么这样写**：绑架写作的终点不在刑房而在身份溶解——名字被恐惧替换，人称的消失比酷刑更早执行；三个短句递进把恐怖主义的核心（制造恐惧而非伤害）一次讲透。
 **读者视角提示**：注意绑匪到本章为止没碰他一根头发——本书最狠的暴力全部走心理路线，这与书名「我们将见你流血」构成反讽。
 
