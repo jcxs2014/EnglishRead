@@ -33,10 +33,10 @@ modified: "2026-11-03"
 **读者视角提示**：Harold Aucoin 与 Clay Sutton 是后文黑暗线的两个名字，本句只给轮廓；「Lewiston」是他们的大本营，记住这个地名。
 
 > **原句 4:** "The very word home, for most of us, is freighted with ambivalence, and certainly that was the case for Rita Doyon as she came down the steps of a Greyhound bus and emerged into Little Canada, the place that had birthed and weaned her, for the first time in five years."
-**中文理解**：叙事者纵论「家」的矛盾重量——奥德修斯归乡遇人惦记他妻子、浪子回头兄长不悦；Rita Doyon 走下灰狗巴士，五年来头一次回到生养她的小加拿大，脚下正是这样一座百感交集的家。
+**中文理解**：「家」这个词本身就满载矛盾——Rita Doyon 走下灰狗巴士，五年来头一次回到生养她的小加拿大，脚下正是这样一个百感交集的家。
 **关键词**：freighted with ambivalence（满载矛盾情感）/ Greyhound（灰狗巴士）/ birthed and weaned her（生养了她）
 **为什么这样写**：转场用文学史打底，把一个人的归乡抬到史诗与寓言的刻度上再落回巴士踏板；「freighted」承续全书货运意象——纸、卡车、行李，人人都被自己的行李称重。
-**读者视角提示**：视角从 Rheal 的酒吧切换到 Rita 的归途，作者不设路标、以散文断章切换——这是本书的转场语法，后面会越来越快。
+**读者视角提示**：本段前文以奥德修斯与浪子回头两个典故铺垫（text/ch02 同段，"Odysseus came back from twenty years at war…"）；视角从 Rheal 的酒吧切换到 Rita 的归途，作者不设路标、以散文断章切换——这是本书的转场语法，后面会越来越快。
 
 > **原句 5:** "Stores that had thrived her entire childhood were closed, display windows covered with plywood and FOR LEASE signs pleading from their front entrances. Trash cluttered the sidewalks and gutters, drooped from power lines and tree branches. Most ominously: every third house had a sign in the front yard offering it for sale at a price one would expect to pay at a tax auction."
 **中文理解**：罢工的破坏远超 Rita 想象：她童年兴旺的店铺全部关张，橱窗钉着木板、门口挂着 FOR LEASE 乞求出租；垃圾塞满人行道与排水沟、挂在电线与树枝上；最不祥的是——每三栋房子就有一栋挂牌，售价低得像税务拍卖。

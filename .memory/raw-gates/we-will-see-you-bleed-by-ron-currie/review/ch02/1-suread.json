@@ -1,0 +1,64 @@
+{
+ "chapter": "ch02",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 19,
+   "end": 103,
+   "fact": "罢工期间的周四 two in the afternoon，一个拎 Stihl 链锯的男人走进 Chez",
+   "anchor": "the guy with the chain saw w…"
+  },
+  {
+   "ok": true,
+   "start": 6313,
+   "end": 6407,
+   "fact": "链锯反复拉绳打不着火、好容易 sputtered to life 后卡座情侣逃出店外；男子得知 Jean",
+   "anchor": "grabbed two fistfuls of the …"
+  },
+  {
+   "ok": true,
+   "start": 7147,
+   "end": 7210,
+   "fact": "被拍醒后男子供出雇主是 Harold Aucoin，口信是这座镇子已归 Harold 所有、奉上帝与 C",
+   "anchor": "That this town is his now, b…"
+  },
+  {
+   "ok": true,
+   "start": 9133,
+   "end": 9209,
+   "fact": "离开 five years 后，Rita Doyon 乘 Greyhound 巴士首次回到出生地 Lit",
+   "anchor": "as she came down the steps o…"
+  },
+  {
+   "ok": true,
+   "start": 11320,
+   "end": 11415,
+   "fact": "Rita 小时候被挚友 Babs 的父母从她酗酒施虐的父亲身边救出，两人情同 adoptive sist",
+   "anchor": "The two of them hadn’t spoke…"
+  },
+  {
+   "ok": true,
+   "start": 12894,
+   "end": 13003,
+   "fact": "Babs 开门见到 Rita 先是一个长拥抱、随即放话「我可以杀你」；两人在厨房桌边抽烟喝黑咖啡，坐了",
+   "anchor": "Famished after more than a d…"
+  },
+  {
+   "ok": true,
+   "start": 16558,
+   "end": 16631,
+   "fact": "一小时后 Babs 到 Forest J. Paré VFW 分会地下室（罢工总部）会见 United",
+   "anchor": "the twelve hundred striking …"
+  },
+  {
+   "ok": true,
+   "start": 22361,
+   "end": 22422,
+   "fact": "工会代表 Robert Reynolds 宣布全国工会撤回对罢工的支持并建议 Babs 自行结束罢工；B",
+   "anchor": "The national union is withdr…"
+  }
+ ]
+}
