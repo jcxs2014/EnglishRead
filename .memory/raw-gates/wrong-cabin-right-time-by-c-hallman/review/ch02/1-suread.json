@@ -1,0 +1,55 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch02",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch02_chapter_two.txt",
+ "facts": [
+  {
+   "fact": "Sage 站在门口花痴，脱口问「我们的孩子会叫你 Dad、Daddy 还是 sir」，见 Travis 困惑才慌忙找补说是「全世界的孩子」。",
+   "anchor": "I wonder what our kids will call you. Dad, Daddy, or sir?",
+   "start": 1078,
+   "end": 1135
+  },
+  {
+   "fact": "她自认这是人生最幸福的错误：本以为订的是 Ryan 的小屋，listing 照片少，订房时可能有点嗨。",
+   "anchor": "I may have been a little high yesterday when I booked the place",
+   "start": 1632,
+   "end": 1695
+  },
+  {
+   "fact": "她说平时搭便车走路；Travis 提高声音报出女性搭便车遇害概率，她把这读成「他在担心我」。",
+   "anchor": "What the statistics are for the likelihood of a female falling victim to a crime while hitchhiking?",
+   "start": 4520,
+   "end": 4619
+  },
+  {
+   "fact": "她翻他家邮箱的垃圾邮件，看到寄件人 Travis Blacksburg，把信贴胸口亲了一下，又慌忙擦掉唇彩怕留 DNA。",
+   "anchor": "flip it over: Travis Blacksburg",
+   "start": 5912,
+   "end": 5943
+  },
+  {
+   "fact": "Ryan 握手过久、屡次盯着她的胸部，坚持带她参观，说出这句；她心里骂「Gag. Double gag.」。",
+   "anchor": "Not as beautiful as something else I’m looking at right now",
+   "start": 8315,
+   "end": 8374
+  },
+  {
+   "fact": "卧室里 Ryan 提出「要不要我留下陪你」，她掏出辣椒喷雾指他脸警告，Ryan 举手后退辩称只是调情。",
+   "anchor": "your eyeballs burned all the way out of their sockets with high-potency Mace",
+   "start": 10527,
+   "end": 10603
+  },
+  {
+   "fact": "Ryan 说要去赶飞机、出国一个月；她记得这一点，而这正是她仍住下来的唯一理由。",
+   "anchor": "leaving the country for a month",
+   "start": 11112,
+   "end": 11143
+  },
+  {
+   "fact": "确认 Ryan 走后她检查隐藏摄像头、锁门联网，Google「Travis Blacksburg」，自嘲「就这样我成了跟踪狂」。",
+   "anchor": "searching for Travis Blacksburg",
+   "start": 12087,
+   "end": 12118
+  }
+ ]
+}

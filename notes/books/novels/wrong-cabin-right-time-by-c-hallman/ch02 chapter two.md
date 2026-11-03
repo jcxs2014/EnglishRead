@@ -61,7 +61,7 @@ modified: "2026-11-03"
 
 **关键词**：not interested / eyeballs / Mace / back the fuck off
 
-**为什么这样写**：她上一章还是语无伦次的花痴，这一秒切换成战术播报——「eyeballs burned out of their sockets」的具体程度是刻意的：让威胁可感、让对方明白她不是虚张声势。反差是本段的全部杀伤力。
+**为什么这样写**：她本章前半段还是语无伦次的花痴，这一秒切换成战术播报——「eyeballs burned out of their sockets」的具体程度是刻意的：让威胁可感、让对方明白她不是虚张声势。反差是本段的全部杀伤力。
 
 **读者视角提示**：这是 Sage 的底色时刻：社交上没边界，安全上寸土不让。后面她敢一次次回到 Travis 门口，靠的就是这种「不怕」。
 
