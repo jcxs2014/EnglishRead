@@ -54,7 +54,7 @@ modified: "2026-11-03"
 
 **读者视角提示**：他摔门进浴室在前、窗开在后、他「发誓不知情」——三个事实排成一行，读者自己连线；这本书最擅长的就是把证词并排放好。
 
-> **原句 5:** "I flung myself outside, without my usual fears, and wandered the streets of the Southside for over two hours, my body becoming numb with clingy wet clothes. Every block of flats looked the same in the dark: four, sometimes five stories high with red brick. My voice was becoming hoarse from calling her name. My white Converse trainers were caked in mud, and for the first time, without my usual fears."
+> **原句 5:** "I flung myself outside, without my usual fears, and wandered the streets of the Southside for over two hours, my body becoming numb with clingy wet clothes. Every block of flats looked the same in the dark: four, sometimes five stories high with red brick. My voice was becoming hoarse from calling her name. My white Converse trainers were caked in mud, and for the first time, I felt an uncomfortable dislike for Finlay."
 
 **中文理解**：她冲进雨夜，往日的恐惧全数离场——在南边的街上游荡两个多小时，湿透的衣服贴着身子越来越冷。黑暗里每一栋公寓楼都长得一样：红砖、四五层。喊名字喊到嗓子哑。白 Converse 灌满泥浆。生平头一回，她对 Finlay 生出一种说不出口的厌恶。
 
