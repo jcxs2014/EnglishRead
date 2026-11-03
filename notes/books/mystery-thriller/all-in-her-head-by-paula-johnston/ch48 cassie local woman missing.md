@@ -60,7 +60,7 @@ modified: "2026-11-03"
 
 **关键词**：I can barely breathe / standing in front of us / my long-lost best friend
 
-**为什么这样写**：揭幕不用形容词：只给生理反应（喘不上气）与身份（挚友）——名字都留给下一章。door swing open 的节奏与第 4 章「the sight of him」首尾呼应：这本书两次开门，两次改写一生。
+**为什么这样写**：揭幕不用形容词：只给生理反应（喘不上气）与身份（挚友）——名字都留给下一章。door swing open 的节奏与初见那晚门口的「the sight of him」首尾呼应：这本书两次开门，两次改写一生。
 
 **读者视角提示**：把这句与第 1 章「She’s met at the door with an angelic smile」对读：同一个门口，两次「站着一个人」——一次开始控制，一次开始回收。全书以门开合为节拍器，在此敲响倒数第二响。
 
