@@ -1,0 +1,61 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch14",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch14_chapter_fourteen.txt",
+ "facts": [
+  {
+   "fact": "冰箱按类别分区、每区再细分；她在蔬菜抽屉找不到番茄，他说「在我家番茄放浆果那格」，旁边就是覆盆子草莓蓝莓。",
+   "anchor": "In my house, you’ll find them with the berries",
+   "start": 2129,
+   "end": 2175
+  },
+  {
+   "fact": "她做 shakshuka，他追问热量；她说不确定但主要是水分多的蔬菜和蛋；他偷 Google 平均值。",
+   "anchor": "What’s the caloric content of that?",
+   "start": 2695,
+   "end": 2730
+  },
+  {
+   "fact": "他说吃饭是必需品不是享受；他喝黑咖啡听她讲做菜。",
+   "anchor": "Eating to me is a necessity",
+   "start": 3559,
+   "end": 3586
+  },
+  {
+   "fact": "她讲公社自给自足、农场到餐桌、多数居民素食；他听到「有动物」立刻抬头追问。",
+   "anchor": "The commune has animals there you raise for consumption?",
+   "start": 5559,
+   "end": 5615
+  },
+  {
+   "fact": "他主动分享：小时候不许养宠物——姐姐养过一阵，他把仓鼠弄死了，父母不再让她养。",
+   "anchor": "then I killed her hamster",
+   "start": 6728,
+   "end": 6753
+  },
+  {
+   "fact": "她笑说姐姐一定记恨；他平静补「她也死了」，声音冷得无起伏；她说这是「挺大的红旗」，后背发毛。",
+   "anchor": "She’s dead too",
+   "start": 7032,
+   "end": 7046
+  },
+  {
+   "fact": "紧接着他追问她有没有看过动物被宰杀——她刚说把它们当宠物；她判定两面红旗同时竖起。",
+   "anchor": "Did you ever get to see any of the animals being butchered?",
+   "start": 7511,
+   "end": 7570
+  },
+  {
+   "fact": "她干笑说这「散发连环杀手的味道」，等他破功；他没笑，只盯着她喝咖啡。",
+   "anchor": "it’s giving off serial killer vibes",
+   "start": 8046,
+   "end": 8081
+  },
+  {
+   "fact": "手机响：DarkHours99 发来「如果我得不到你，谁也别想得到」；她脸色发白，不再怀疑自己多想。",
+   "anchor": "If I can’t have you, nobody can",
+   "start": 9117,
+   "end": 9148
+  }
+ ]
+}
