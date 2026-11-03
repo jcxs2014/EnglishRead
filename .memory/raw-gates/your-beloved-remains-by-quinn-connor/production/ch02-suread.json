@@ -1,0 +1,55 @@
+{
+ "book": "your-beloved-remains-by-quinn-connor",
+ "chapter": "ch02",
+ "text": "notes/books/novels/your-beloved-remains-by-quinn-connor/text/ch02_chapter_ii.txt",
+ "facts": [
+  {
+   "fact": "Mixer 散场后 Celia 不放心别人清理，亲手收拾；她觉得满屋客人把「你」驱散了，渴望你回来",
+   "anchor": "it felt like having them here had dispersed you and I longed to have you back",
+   "start": 156,
+   "end": 233
+  },
+  {
+   "fact": "童年初遇是母亲读馆藏《The Peacock Garden》（1910 年重印、带原版雕版插画）",
+   "anchor": "Mother read me one of the library’s copies of the book, a 1910 reprint featuring the original engravings",
+   "start": 309,
+   "end": 413
+  },
+  {
+   "fact": "童话里 Eugenia 被锁在大庄园，哥哥们被女巫热病变成孔雀；她收集羽毛缝成保护袍、战女巫、乘孔雀战车飞越树篱终获自由",
+   "anchor": "Eugenia collected her brothers’ plumes and sewed for herself a protective gown",
+   "start": 979,
+   "end": 1057
+  },
+  {
+   "fact": "母亲指出封面上的 Tristram Donahue：真名 Beatrice、用男名出版、曾住这里、创办了学院",
+   "anchor": "Her real name was Beatrice Donahue. But she published under a man’s name",
+   "start": 2264,
+   "end": 2336
+  },
+  {
+   "fact": "小 Celia 偷钥匙溜进故居，翻遍书房找台球，只找到蛛网和一盘陈年硬糖",
+   "anchor": "I never found them, only spiderwebs and a dish of ancient hard candies",
+   "start": 3367,
+   "end": 3437
+  },
+  {
+   "fact": "被禁止踏入的二楼藏着宝物：生锈的整套银茶具、打结的人发假发、福尔马林里泡着整条眼镜蛇",
+   "anchor": "A whole cobra in formaldehyde",
+   "start": 3710,
+   "end": 3739
+  },
+  {
+   "fact": "她躺在主卧雕着天堂鸟的床上幻视你站在窗前——身后历史墓地的方尖碑与铁门探出你肩头，那是你的长眠之地",
+   "anchor": "the obelisks and iron gates of the historic cemetery peeking over your shoulder",
+   "start": 4426,
+   "end": 4505
+  },
+  {
+   "fact": "结尾自白：死后几十年，她在你房子里用你的词召唤你的魂——孤独小孩献身死去女人，正是你会写的故事",
+   "anchor": "I conjured your spirit in your house, with your words",
+   "start": 4901,
+   "end": 4954
+  }
+ ]
+}
