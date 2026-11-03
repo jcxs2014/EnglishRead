@@ -1,0 +1,43 @@
+{
+ "book": "your-beloved-remains-by-quinn-connor",
+ "chapter": "ch06",
+ "text": "notes/books/novels/your-beloved-remains-by-quinn-connor/text/ch06_chapter_vi.txt",
+ "facts": [
+  {
+   "fact": "Celia 在档案馆回味相遇的尴尬（Harriot 一直知道她是谁、她一开始就慢一步）；门外地板吱呀让她脑中闪过你微笑的沙蓝色眼睛与 Harriot 嘲弄的坏笑",
+   "anchor": "your smiling husky-blue eyes, Harriot’s mocking smirk",
+   "start": 712,
+   "end": 765
+  },
+  {
+   "fact": "她冲开门发现 Mrs. Harper 正跪在地上把纸往门缝里塞，慌忙起身整理头发",
+   "anchor": "Mrs. Harper, still kneeling, blinked up at me",
+   "start": 832,
+   "end": 877
+  },
+  {
+   "fact": "Harper 用奥扎克土腔声明「我什么都没给过你」——只要外面那张办公桌还在，坐那里的就得是她",
+   "anchor": "As long as there’s a desk outside that office, I gotta be the one sitting there, got it?",
+   "start": 1362,
+   "end": 1450
+  },
+  {
+   "fact": "「这不只是图书馆发霉书的事，这是山里人命关天的事」——Harper 眼神在纸与人脸之间来回一扫便大步离开",
+   "anchor": "This is people’s lives up here",
+   "start": 1756,
+   "end": 1786
+  },
+  {
+   "fact": "纸是一封打字信的复写副本，未签名但显然出自校长办公桌",
+   "anchor": "It was unsigned but clearly from the desk of the president",
+   "start": 1975,
+   "end": 2033
+  },
+  {
+   "fact": "信写给 Steve：Donahue 遗产是「过渡」最棘手元素之一；鉴于你方法律团队对副本潜在出入的担忧，会在 2 月 13 日投票前充分提前开放原件核验",
+   "anchor": "In light of the concerns of your legal team over potential discrepancies with the copy",
+   "start": 2171,
+   "end": 2257
+  }
+ ]
+}
