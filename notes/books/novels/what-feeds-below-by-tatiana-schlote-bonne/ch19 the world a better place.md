@@ -163,7 +163,7 @@ modified: "2026-11-03"
 |---|---|---|
 | forearm | 前臂 | He shows me the gash on his forearm. |
 | eyebrows rise | 眉毛扬起 | My eyebrows rise. |
-| greenhouse soil | 温室的土 | After I put a piece of the Core in the greenhouse soil, I’ve been growing Void plants on the surface |
+| minute | 一会儿 | Tell him I’ll be a minute. |
 | kitchen | 厨房 | as we walk toward the kitchen. |
 
 ## 一句话总结
