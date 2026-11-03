@@ -1,0 +1,55 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch29",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch29_chapter_twenty_nine.txt",
+ "facts": [
+  {
+   "fact": "Travis 平日不玩游戏，但算牌对他只是数学与概率：他知道公共牌里有皇后、自己手里也有，就能反推 Sage 不可能凑出四条。",
+   "anchor": "counting cards is nothing more than simple math and probability",
+   "start": 89,
+   "end": 152
+  },
+  {
+   "fact": "他故意扭脖子、掰指节，像要做心脏手术而不是打牌，低声正经地说「数学从不撒谎」，结果洗牌时把一张牌弹出来砸在 Sage 额头上。",
+   "anchor": "It hits Sage in the forehead",
+   "start": 1041,
+   "end": 1069
+  },
+  {
+   "fact": "她面无表情说「漂亮」，提醒他千万别去当儿童派对的魔术师；他捡起牌嘟囔这是「念动力——是一种策略」。",
+   "anchor": "Cardio-kinesis",
+   "start": 1168,
+   "end": 1182
+  },
+  {
+   "fact": "他看她眯眼研究牌面，觉得她努力的样子可爱，又纳闷：她真没发现他在算牌吗，还是真以为他只是运气好。",
+   "anchor": "Has she really not picked up on me counting cards?",
+   "start": 732,
+   "end": 782
+  },
+  {
+   "fact": "她开牌前摆出最拿手的扑克脸——如果那张脸是模仿肥皂剧反派的话——甩头发宣布「准备好迎战你的对手吧」。",
+   "anchor": "melodramatic soap opera villain",
+   "start": 3184,
+   "end": 3215
+  },
+  {
+   "fact": "亮牌是堆烂牌，她自己找补：「好吧，我不是你的对手。也许是你邻居的对手，比如……他们家狗的对手。」",
+   "anchor": "Maybe your neighbor’s match",
+   "start": 3454,
+   "end": 3481
+  },
+  {
+   "fact": "牌局结束他得意地说从没想过会因为这手艺这么高兴；她 gasp 起来指他果然作弊。",
+   "anchor": "I never thought I’d be so happy I learned to count cards",
+   "start": 5247,
+   "end": 5303
+  },
+  {
+   "fact": "她总结「你赢了所有手牌，但最后我们都算赢」，又光着身子去冰箱拿一根手撕奶酪扔给他当挑战书——他接住说除非她下次还摆同样的扑克脸。",
+   "anchor": "we’re both winners in the end",
+   "start": 8910,
+   "end": 8939
+  }
+ ]
+}
