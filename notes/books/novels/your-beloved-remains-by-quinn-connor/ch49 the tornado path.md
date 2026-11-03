@@ -146,7 +146,7 @@ modified: "2026-11-03"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | supplies dwindled | 补给渐尽 | Our food supplies dwindled. |
-| stomping snow | 跺雪 | I limped the long way across the green, breaking through ankle-deep, hardening snow. |
+| hardening snow | 渐硬的雪 | I limped the long way across the green, breaking through ankle-deep, hardening snow. |
 | billiards table | 台球桌 | I slid inside and tumbled several feet down onto a dusty old billiards table. |
 | big piano | 大钢琴 | On the right, a big piano we hadn't had, leather furniture and a new Berber carpet. |
 | anxious brow | 焦虑的眉 | I could picture his anxious brow, his hair slicked back even though it made him look old. |

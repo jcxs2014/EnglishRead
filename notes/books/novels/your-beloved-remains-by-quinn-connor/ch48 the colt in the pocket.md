@@ -98,7 +98,7 @@ modified: "2026-11-03"
 |---|---|---|
 | hollowed | 被掏空的 | In her bed, in the shreds of her dress, you looked hollowed, like the dead, or like a consumptive with lungs in tatters. |
 | Pensively | 沉思地 | Pensively, I ran my eyes over the contours of the campus, scanning for the giant boar. |
-| contaminated | （此处为）burrowed | I was a conduit, and the channel she'd burrowed through me felt sore. |
+| burrowed | 掘进；钻出（通道） | I was a conduit, and the channel she'd burrowed through me felt sore. |
 | pristine | 崭新如初的 | The condition seemed pristine. |
 | fluttered | 扑闪；犹疑不定 | You fluttered between thoughts, a hesitant bird on a branch. |
 | gruesome | 骇人的；可怖的 | The way she'd held on to Roland's body, loyal for gruesome decades later. |
