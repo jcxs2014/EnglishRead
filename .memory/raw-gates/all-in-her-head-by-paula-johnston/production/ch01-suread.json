@@ -1,0 +1,55 @@
+{
+ "book": "all-in-her-head-by-paula-johnston",
+ "chapter": "ch01",
+ "text": "notes/books/mystery-thriller/all-in-her-head-by-paula-johnston/text/ch01_the_unknown.txt",
+ "facts": [
+  {
+   "fact": "她盯着浴室镜子里那个像鬼魂般的自己。",
+   "anchor": "She stares at the ghost reflected in the bathroom mirror.",
+   "start": 23,
+   "end": 80
+  },
+  {
+   "fact": "她喉咙生疼，却仍必须吃下他做的每一顿饭。",
+   "anchor": "Her throat is raw, but she must still try to eat whatever he cooks.",
+   "start": 544,
+   "end": 611
+  },
+  {
+   "fact": "他的爱曾让她晕眩、亢奋、所向披靡，像腹中燃起的野火。",
+   "anchor": "The power of his love once made her feel dizzy.",
+   "start": 1432,
+   "end": 1479
+  },
+  {
+   "fact": "她每天六点被闹钟叫醒，一周七天，这只是她必须遵守的众多规矩之一。",
+   "anchor": "The alarm that woke her this morning, set for six o’clock, seven days a week, is just one example of far too many.",
+   "start": 1762,
+   "end": 1876
+  },
+  {
+   "fact": "她低头看着腿上那本脆弱破损、几乎散架的日记。",
+   "anchor": "She looks down at the journal resting on her lap: fragile, damaged, and barely holding itself together.",
+   "start": 1879,
+   "end": 1982
+  },
+  {
+   "fact": "她的朋友和家人早已离她而去，都拜他所赐。",
+   "anchor": "her friends and family are long gone, thanks to him.",
+   "start": 2315,
+   "end": 2367
+  },
+  {
+   "fact": "钥匙转动的一声脆响提醒她：时间已不再属于她。",
+   "anchor": "The unmistakable sharp click of the key turning in the lock reminds her that time is no longer hers.",
+   "start": 2370,
+   "end": 2470
+  },
+  {
+   "fact": "钥匙声响起时她藏好日记、挤出笑容演戏，只为不让处境变得更糟。",
+   "anchor": "It’s the game she must play to keep things from getting worse.",
+   "start": 3025,
+   "end": 3087
+  }
+ ]
+}
