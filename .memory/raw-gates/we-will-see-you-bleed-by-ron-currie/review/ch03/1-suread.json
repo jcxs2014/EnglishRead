@@ -1,0 +1,64 @@
+{
+ "chapter": "ch03",
+ "source": "R1 subagent (text-only)",
+ "all_hit": true,
+ "n_facts": 8,
+ "facts": [
+  {
+   "ok": true,
+   "start": 144,
+   "end": 229,
+   "fact": "Rheal（Babs 的丈夫）在 You Know Whose Pub 地下室喝 Schlitz，等他最",
+   "anchor": "he sat in the basement at Yo…"
+  },
+  {
+   "ok": true,
+   "start": 6849,
+   "end": 6907,
+   "fact": "Claude 坦白（Guilty as charged）替公司递消息换钱：他说自己已四十七周（forty",
+   "anchor": "my wife’s kidneys are shit a…"
+  },
+  {
+   "ok": true,
+   "start": 7401,
+   "end": 7467,
+   "fact": "Claude 举例说明他给公司的是无害情报：他只说「某人」将在周四去 sludge dump 取水样（没",
+   "anchor": "I told them ‘someone’ was go…"
+  },
+  {
+   "ok": true,
+   "start": 5054,
+   "end": 5134,
+   "fact": "Claude 的警方情报来自内弟 Daryl Bates（Waterville 警队的年轻上尉）：警方为",
+   "anchor": "Bringing in off-duty bodies …"
+  },
+  {
+   "ok": true,
+   "start": 9604,
+   "end": 9673,
+   "fact": "Bernette Bergeron 十七岁嫁给十八岁的 Hugo、育有三个孩子；Hugo 失业一年多、被",
+   "anchor": "Married when she was sevente…"
+  },
+  {
+   "ok": true,
+   "start": 13940,
+   "end": 14005,
+   "fact": "Clement Thibault 神父——Babs 在 1968 年她杀死警察那天选定要救她的人，因此成",
+   "anchor": "Babs had chosen to save her …"
+  },
+  {
+   "ok": true,
+   "start": 27377,
+   "end": 27451,
+   "fact": "Babs 约五点（around five）回家发现 Rheal 睡着；他的梦话一反常态——不是惯常的挥拳",
+   "anchor": "Someone was trying to hurt h…"
+  },
+  {
+   "ok": true,
+   "start": 29637,
+   "end": 29705,
+   "fact": "Rheal 向 Babs 透露：过去六个月往这边派可卡因贩子的是 Harold Aucoin，且 Auc",
+   "anchor": "Aucoin and his crew are on t…"
+  }
+ ]
+}

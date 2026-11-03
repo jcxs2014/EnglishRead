@@ -15,13 +15,13 @@ modified: "2026-11-03"
 ## 精读
 
 > **原句 1:** "His mind should have been on Claude, not to mention Aucoin and the fact that the two-bit gangster from Lewiston was apparently working for the company, but instead he was thinking about his wife, Babs. In the previous year, they’d lost each other. This was the simplest, most honest way to think about it."
-**中文理解**：Rheal 在地下酒吧边喝边等 Claude，脚边立着缴来的链锯；他本该想着 Claude、想着 Aucoin 这个刘易斯顿小混混居然在为公司卖命，脑子里却全是妻子 Babs——过去一年，他们弄丢了彼此。这是最简单也最老实的说法。
+**中文理解**：Rheal 本该想着 Claude、想着 Aucoin——这个刘易斯顿小混混居然在为公司卖命——脑子里却全是妻子 Babs。过去一年，他们弄丢了彼此。这是最简单也最老实的说法。
 **关键词**：working for the company（为公司卖命）/ lost each other（弄丢了彼此）/ Babs（妻子名）
 **为什么这样写**：作者先摆出三件「该想的大事」（密友、毒枭、通敌），再让主角全都不想、只想婚姻——用优先级的错位宣告：对 Rheal 来说，Babs 比战争与叛徒都重；「弄丢了彼此」的轻描淡写反而比任何控诉都疼。
 **读者视角提示**：「Lewiston 来的小混混在公司领薪水」是本章抛出的最大阴谋，但它在这里只配给婚姻让座——记住这个排序，它就是 Rheal 这个人。
 
 > **原句 2:** "It’s simple: my wife’s kidneys are shit and without money she would die. I give the company nothing. Just because they think the information is worth paying for doesn’t mean it actually is."
-**中文理解**：Claude 摊牌动机：我老婆的肾快完蛋了，没有钱她就会死；我根本没给公司任何东西——他们以为那些消息值钱，不代表它们真值钱（他报的计划故意错着日期）。
+**中文理解**：Claude 摊牌动机：我老婆的肾快完蛋了，没有钱她就会死；我根本没给公司任何东西——他们以为那些消息值钱，不代表它们真值钱。
 **关键词**：kidneys are shit（肾快完蛋了）/ I give the company nothing（我没给公司任何东西）/ worth paying for（值钱）
 **为什么这样写**：叛徒自辩的三个短句层层递减——先交出人命理由，再否认罪名，最后把「背叛」降格为「骗骗傻子」；作者不给读者痛快骂他的机会，因为透析账单比忠诚更硬。
 **读者视角提示**：罢工丢保险这个细节是全书的制度性暴力注脚——压垮法国人街的不只是厂门口的警戒线，还有福利断供后的医院账单。
@@ -39,7 +39,7 @@ modified: "2026-11-03"
 **读者视角提示**：这是全书「女性账本」的第一笔：Hugo 的失业自怜正把这段婚姻推下浪谷——Bernette 接下来要说的话，比她自己的比喻更冷。
 
 > **原句 5:** "Of all the things she did to provide, not one of them was legal, but she worked harder than anyone I ever knew with a job. She raised five kids with no paycheck and a husband who beat the piss out of her on the regular."
-**中文理解**：Rita 讲母亲：为养活家里，她偷超市、塞午餐肉、撬洗衣店找零机，走投无路时还卖过身——没一样合法，却比任何上班族都拼命；她养大了五个孩子，没有工资单，只有一个按期家暴的丈夫。
+**中文理解**：Rita 讲母亲：她为养活家所干的一切没一样合法，却比任何上班族都拼命；她养大了五个孩子，没有工资单，只有一个按期往死里打她的丈夫。
 **关键词**：not one of them was legal（没一样合法）/ five kids（五个孩子）/ beat the piss out of her（往死里打她）
 **为什么这样写**：违法清单与勤劳叙述无缝焊在一起——作者拒绝把贫穷写成道德问题；「no paycheck」与「beat the piss」并列成对，道出母亲的敌人从来不止一个。
 **读者视角提示**：这段引出下一句金子般的问话：她全是一个人干的——要是有一群一样狠、一样聪明的女人呢？全书女性战线的思想源头就在这里。
