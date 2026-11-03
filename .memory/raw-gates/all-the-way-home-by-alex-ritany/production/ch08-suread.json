@@ -1,0 +1,55 @@
+{
+ "book": "all-the-way-home-by-alex-ritany",
+ "chapter": "ch08",
+ "text": "notes/books/novels/all-the-way-home-by-alex-ritany/text/ch08_chapter_eight.txt",
+ "facts": [
+  {
+   "fact": "1. Sahar 对 Rena 说的最后的话浮上来（You know that’s not normal, right?），Rena 只能对 Lucas 搪塞：毕业了、她还有一年、就 drift 了、不是大事——其实是大大的事，而且真话是 Well, we fought about you.",
+   "anchor": "You know that’s not normal, right?",
+   "start": 992,
+   "end": 1026
+  },
+  {
+   "fact": "2. 关系模式诊断：恋爱初期从不吵架曾是 Rena 的骄傲（她懂他他懂她），直到发现他根本不懂；高中最后一年压力表早已飙升而她浑然不觉；第一次真架把她的世界撕裂。",
+   "anchor": "a point of pride for Rena that she and Lucas never fought",
+   "start": 1672,
+   "end": 1729
+  },
+  {
+   "fact": "3. Sahar 友情起点：Oscar/Siobhan 毕业后 Rena 突然无依，十月她把不敢说出口的祈祷应验成新朋友 Sahar；Sahar 把逗笑她当终极挑战，不好笑的笑话她从不假笑。",
+   "anchor": "an answer to a prayer Rena hadn’t dared utter aloud",
+   "start": 2240,
+   "end": 2291
+  },
+  {
+   "fact": "4. Lucas 的读法：高兴时眼睛在笑嘴没笑，不高兴时眼里的笑熄灭；打架那天他一路沉默，Rena 用 Kieran 教的技巧（先说 Tell me，因为直问像攻击）试探。",
+   "anchor": "the smile in his eyes snuffed out",
+   "start": 3217,
+   "end": 3250
+  },
+  {
+   "fact": "5. 两年前车内之战：Lucas 终于问出 Are you gay?；Rena 答我不是喜欢女人、我和你在一起；Lucas 苦涩 I know that——问题从来不是她喜欢谁。",
+   "anchor": "“Are you gay?” he demanded at last",
+   "start": 5234,
+   "end": 5268
+  },
+  {
+   "fact": "6. Lucas 爆发：感受不总是合逻辑的，不必合理他才感受得到；Rena 追问 Feel what? 没有答案；她自陈不擅被触碰，又急着确认 Do you think I don’t love you? Because I do——对话以 I shouldn’t have asked 收场，悬置未解。",
+   "anchor": "Feelings aren’t always logical!",
+   "start": 5707,
+   "end": 5738
+  },
+  {
+   "fact": "7. 两年过去他再没提起——Unresolved；此后每次架都像毛毛雨一样微不足道（= 都没有把真问题谈完）。",
+   "anchor": "insignificant like spitting rain",
+   "start": 7491,
+   "end": 7523
+  },
+  {
+   "fact": "8. 回到当下：Lucas 问卷乐观还是诚实答案，Rena 说都要——乐观版我们会没事，诚实版：我们要在这里待很久了。",
+   "anchor": "We’re going to be here a long time.",
+   "start": 7942,
+   "end": 7977
+  }
+ ]
+}
