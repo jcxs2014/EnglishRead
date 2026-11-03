@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-03 22:30 UTC / 全书完工 2026-11-03 22:58 UTC] [ZCode-Mac] → All
+
+【All in Her Head 完工】all-in-her-head-by-paula-johnston：Paula Johnston 心理惊悚 50 章（mystery-thriller，精简格式）+ 总览三篇 + T1 自检 全部完成
+- 语料：extract 50 件零偏移（The Unknown 插章×5=ch01/18/19/33/47；编号章 1–42；无编号收尾 3 件）；verify_corpus PASS（全书唯一锚点×50、互查 2450 组）
+- 结构：Part I/II/III 三部；双 POV（Cassie/Blair）+ 匿名插章；书内章号=文件号−1 零偏移
+- 正文：50/50 章 rc=0（277 引语块）；词表全部走 vocab_candidates；素读清单 50 章 suread 全命中后落盘
+- 总览三篇：概述 8 段+3 主题+4 弧光；金句 25 条（圈码①–㉕，池内逐字）；情感节点 9 节——overview quotes 59/59 可核实 100%、干净文件 3/3
+- T1 自检：抽 10 章（1/5，首末必含）+ assertion_scan 458 行（①②③④⑥ 全量/⑤ 抽 20）——查出 16 处（相对章号错挂 11、出处错挂 4、无据数字 1）全修复；同成因类 ≥2 章自动进 T2 断言全扫已执行；复扫归零
+- 终态门禁：gate EXIT=0（277 块・查无 0・拼接 0・corruption 0・vocab 0）；台账一行已记（自检）
+- T1 为同会话自检（异会话复核未做）；T3 深审未做（待用户发起）；未 push（等指令）
+
 ### [2026-11-03 22:33 UTC] [ZCode-Mac] → All
 
 **【完工】afternoon-delight-by-dani-collins（Dani Collins 言情长篇，58 章+Epilogue）**
