@@ -1,0 +1,55 @@
+{
+ "book": "afternoon-delight-by-dani-collins",
+ "chapter": "ch01",
+ "text": "notes/books/novels/afternoon-delight-by-dani-collins/text/ch01_chapter_one_meg.txt",
+ "facts": [
+  {
+   "fact": "Meg 开车去店里时紧张又兴奋，这种感受只在上次发生：21 年前毕业夜她骗妈妈住 Georgia 家，实际去 Gorge Road 的 Island Value Inn 见 Joel。",
+   "anchor": "I hadn’t suffered this much gut-crunching anxiety and loin-tingling thrill since I’d been Meg Crutcher, lying to Mom about staying at Georgia’s house on graduation night when I was actually meeting Joel at the Island Value Inn on Gorge Road.",
+   "start": 44,
+   "end": 285
+  },
+  {
+   "fact": "21 年前她把初夜留在 I.V. Inn 十二号房，当作对自己的成年礼。",
+   "anchor": "Which was exactly what I’d told myself twenty-one years ago, when I’d left my virginity in room twelve of the I.V. Inn.",
+   "start": 683,
+   "end": 802
+  },
+  {
+   "fact": "现在的 Meg：两个深爱的孩子、会计的稳定工作、一份最终离婚令。",
+   "anchor": "I had two kids I loved beyond measure, a steady job as an accountant, and a Final Divorce Order.",
+   "start": 4494,
+   "end": 4590
+  },
+  {
+   "fact": "Georgia 脊椎肿瘤非癌，但疼到没心思打理头发、剃了光头，正暂住 Sidney 的妹妹家、去温哥华看专科。",
+   "anchor": "Her spinal tumors weren’t cancerous, but she was in so much pain her hair had become more work than she wanted to fuss with.",
+   "start": 5018,
+   "end": 5142
+  },
+  {
+   "fact": "Georgia 认真求 Meg 帮忙看店：房东在催租，她怕失去店，40 岁从头再来。",
+   "anchor": "“Meg. I actually am.” Her expression sobered into pensive. Desperate. “I’m really worried about it. The landlord is calling about rent and...” Her eyes welled up.",
+   "start": 5756,
+   "end": 5918
+  },
+  {
+   "fact": "店铺隔壁是古董店 Twice Is Nice Emporium，两家店互为镜像；Georgia 的店名 Afternoon Delight 她自认是能想到的最俗的名字。",
+   "anchor": "The two shops were mirrors of each other. Twice Is Nice Emporium was painted on their glass.",
+   "start": 9177,
+   "end": 9269
+  },
+  {
+   "fact": "Meg 误把年轻男子当失智房东 Dale 打招呼，对方澄清 Dale 是他父亲、他叫 Zak；Zak 和妹妹 Zara 与父亲共同拥有这栋楼。",
+   "anchor": "His face moved through a comical series of expressions, landing on bemusement. “Dale is my dad. I’m Zak. Are you not Georgia?”",
+   "start": 12963,
+   "end": 13089
+  },
+  {
+   "fact": "Meg 拍下三支假体拼成的三脚架发给 Georgia 问询，Georgia 回复揭晓：那是展示安全套纹理花样的「condom tree」，节日可换花样但别用加味的。",
+   "anchor": "It’s a condom tree, so people can see the textures and patterns. Change it up for the holidays, but don’t use flavoured ones. People will lick it.",
+   "start": 23329,
+   "end": 23475
+  }
+ ]
+}
