@@ -54,17 +54,7 @@ modified: "2026-11-03"
 
 **读者视角提示**：记住这次消费的实质：两条自慰套+小样润滑=一段不用看表的对话。
 
-> **原句 5:** "“Buddy, the longer I work here, the less that kind of talk fazes me. You do you.” She was smiling as she rang me up, though, filling my chest with a warm glow"
-
-**中文理解**：「大兄弟，我在这干得越久，越不怵这种话。你自便。」不过她边收银边笑——把他胸口照得暖烘烘的。
-
-**关键词**：fazes me / You do you / warm glow
-
-**为什么这样写**：Buddy 与 You do you 是她的职业防线：把黄腔技术性豁免，既不接招也不翻脸；but 后的微笑出卖了她——防线只防脸不防眼。warm glow 用光照意象收束 Zak 的体感：她的笑成了室内照明，与店里 intimate pools of gold 的灯光系统同一色温。
-
-**读者视角提示**：对照 ch01 他进门时她的 Nothing, Mother——同一台收银机，如今两人都学会了在笑声里递东西。
-
-> **原句 6:** "“That’ll be in seven minutes,” I assured her, fishing for another laugh. Another minute of her sparkling eyes on me. “I’ve got an empty store and heightened curiosity.”"
+> **原句 5:** ““That’ll be in seven minutes,” I assured her, fishing for another laugh. Another minute of her sparkling eyes on me. “I’ve got an empty store and heightened curiosity.””
 
 **中文理解**：「七分钟后就回来。」他保证——只为多讨一个笑、多赚一分钟她亮晶晶的眼睛；「我那儿店是空的，好奇心正盛。」
 
@@ -74,7 +64,7 @@ modified: "2026-11-03"
 
 **读者视角提示**：七分钟之约是玩笑——他在为「再来一趟」申请许可，而她给小样的动作就是盖了章。
 
-> **原句 7:** "“Buddy, the longer I work here, the less that kind of talk fazes me. You do you.” She was smiling as she rang me up, though, filling my chest with a warm glow"
+> **原句 6:** ““Buddy, the longer I work here, the less that kind of talk fazes me. You do you.” She was smiling as she rang me up, though, filling my chest with a warm glow”
 
 **中文理解**：「大兄弟，我在这干得越久，越不怵这种话。你自便。」不过她边收银边笑——把他胸口照得暖烘烘的。
 
@@ -84,23 +74,23 @@ modified: "2026-11-03"
 
 **读者视角提示**：对照 ch01 他进门时她的 Nothing, Mother——同一台收银机，如今两人都学会了在笑声里递东西。
 
-> **原句 8:** "“It’s the store. If I started a drinking game for all the puns, I would be hammered all day every day.”"
+> **原句 7:** ““It’s the store. If I started a drinking game for all the puns, I would be hammered all day every day.””
 
 **中文理解**：（他问她是不是故意句句双关）「是这店的锅。要是给黄腔开个饮酒游戏，我每天都得从头醉到尾。」
 
 **关键词**：It’s the store / drinking game / hammered all day every day
 
-**为什么这样写**：她把双关的「责任」推给环境——店自带污力，她只是顺势而为；drinking game 的玩笑反手统计了两人对话的密度：句句可罚一杯。hammered all day every day 的夸张与本章 的信息量对账：从进门到结账，每一回合都是双关。
+**为什么这样写**：她把双关的「责任」推给环境——店自带污力，她只是顺势而为；drinking game 的玩笑反手统计了两人对话的密度：句句可罚一杯。hammered all day every day 的夸张与本章的信息量对账：从进门到结账，每一回合都是双关。
 
 **读者视角提示**：她的回答里藏着认可：这些双关是两人共享的私人语言，别人插不进嘴。
 
-> **原句 9:** "Truth was, I already had."
+> **原句 8:** “Truth was, I already had.”
 
 **中文理解**：真相是——他早就愉快上了。
 
 **关键词**：Truth was / already had
 
-**为什么这样写**：全章最短的一句承担收束：她祝他 Enjoy your evening，他回 Pretty sure that's a given，叙述者再补这一刀——already had 的省略宾语让「享受」同时指向玩具与她；purchased=pleased 的双关最后由书名收口。三个短句的三连击是本书双 POV 的惯用扣：谁的章谁关门。
+**为什么这样写**：全章最短的一句承担收束：她祝他 Enjoy your evening，他回 Pretty sure that’s a given，叙述者再补这一刀——already had 的省略宾语让「享受」同时指向玩具与她；purchased=pleased 的双关最后由书名收口。三个短句的三连击是本书双 POV 的惯用扣：谁的章谁关门。
 
 **读者视角提示**：对照 ch15 结尾 Zara 咬住的笑——她早看穿的正是这一章章底发生的全部。
 
