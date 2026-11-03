@@ -34,19 +34,19 @@ modified: "2026-11-03"
 **为什么这样写**：七个词的引语是全章的扳机——陌生人把 Rena 自己的话喊了出来。作者把最重的判词放在最短的句子里，让它在礼品店的灯下等着她路过。她曾在 worst day 之后几天对 Kieran 说过几乎一字不差的这句，而那是他们第一次架，此后架架不断。
 **读者视角提示**：记住这七个字的镜像结构——本章她听见自己说话，下一章轮到她被听。
 
-> **原句 4:** "And in the end, she was a hypocrite for saying it, because she’d forgotten to tell Lucas what happened at all."
-
-**中文理解**：而说到底，她是个伪君子——因为她自己也压根忘了把那件事告诉 Lucas。
-**关键词**：hypocrite / forgotten to tell / Lucas
-**为什么这样写**：自省落点比吵架更狠：她用「隐瞒等于撒谎」的刀刺了 Kieran，自己却连 Lucas 都没交底。作者把 double standard 写成一个字（hypocrite），不给缓冲——Rena 的道德账本在这句里平不了。这也解释了 Lucas 的种种不安：他缺的不只是「章节」，是主角的名字都没给。
-**读者视角提示**：Lucas 被蒙在鼓里这条线此刻正式确认——他与这个家的距离，是 Rena 手工维护的。
-
-> **原句 5:** "It had been a tactless thing to say, and she’d known it the moment it was out, the moment his face crumpled and locked."
+> **原句 4:** "It had been a tactless thing to say, and she’d known it the moment it was out, the moment his face crumpled and locked."
 
 **中文理解**：那是一句失策的话，说出口的瞬间她就知道——他脸垮下去又锁住的瞬间。
 **关键词**：tactless / the moment it was out / crumpled and locked
 **为什么这样写**：伤害用两个动词定格：crumpled（先垮）与 locked（再锁）——先疼，然后关门。作者不写 Kieran 说了什么，因为那一刻他没说话；Rena 的愧疚全凭她亲眼看见的这份表情记忆。对一张脸的两段式记录，是本章给「说话之前数到三」的学费收据。
 **读者视角提示**：crumpled and locked 的脸会在 Kieran 真正的愤怒段落里重新出现——先记住这个形状。
+
+> **原句 5:** "And in the end, she was a hypocrite for saying it, because she’d forgotten to tell Lucas what happened at all."
+
+**中文理解**：而说到底，她是个伪君子——因为她自己也压根忘了把那件事告诉 Lucas。
+**关键词**：hypocrite / forgotten to tell / Lucas
+**为什么这样写**：自省落点比吵架更狠：她用「隐瞒等于撒谎」的刀刺了 Kieran，自己却连 Lucas 都没交底。作者把 double standard 写成一个字（hypocrite），不给缓冲——Rena 的道德账本在这句里平不了。这也解释了 Lucas 的种种不安：他缺的不只是「章节」，是主角的名字都没给。
+**读者视角提示**：Lucas 被蒙在鼓里这条线此刻正式确认——他与这个家的距离，是 Rena 手工维护的。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
