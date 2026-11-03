@@ -34,6 +34,14 @@ modified: "2026-11-03"
 **为什么这样写**：定义权之争的原始记录——这段感情从第一天起就在等她命名。作者让 Rena 主动发起定义（她受够的是不确定性，不是他），Lucas 的红脸与她的定音（It would）完成权力分配：他提供意愿，她提供结构。这与她管理全家的方式同源。
 **读者视角提示**：与 ch18 的「I guess I love you」对照——Lucas 的每一次表白都需要她的批准格式。
 
+> **原句 4:** "“He likes you.” It was the first lie she’d ever told him. “He likes everyone. He’s just a pest is all.”"
+
+**中文理解**：「他喜欢你。」这是她对他说过的第一个谎。「他喜欢所有人。他就是个讨厌鬼而已。」
+**关键词**：He likes you / the first lie / a pest
+**为什么这样写**：恋爱考古挖出地基里的一号谎言——Rena 用「他喜欢所有人」掩盖了 Kieran 的真实敌意。作者让读者看见她的原初模式已经成型：保护弟弟与保护恋情永远冲突，而她选了一个又骗一个。这个谎与 ch11 的 withholding、ch13 的没告诉 Lucas 连成完整的隐瞒谱系。
+**读者视角提示**：first lie 的「第一」表明她记得清清楚楚——说谎成了她的慢性病。
+
+
 > **原句 5:** "As though he were telling himself as much as he was telling her, he said, “I’m going to kiss you now.”"
 
 **中文理解**：像是在说给自己听、也在说给她听，他说：「我现在要吻你了。」
@@ -54,14 +62,6 @@ modified: "2026-11-03"
 **关键词**：used to be easy / as a unit / make each other happy
 **为什么这样写**：三个 used to 排成墓志铭——作者不写「现在不快乐」，只写过去式，让读者自己算差额。as a unit 的「单位」一词尤其冷：他们曾是合并报表的一个整体，如今各自独立核算。knows the answer 的收束把结论递给读者：答案她一直有，只是不敢说。
 **读者视角提示**：这是 Rena/Lucas 线的最冷一笔——和解的前提是先承认过期。
-> **原句 4:** "“He likes you.” It was the first lie she’d ever told him. “He likes everyone. He’s just a pest is all.”"
-
-**中文理解**：「他喜欢你。」这是她对他说过的第一个谎。「他喜欢所有人。他就是个讨厌鬼而已。」
-**关键词**：He likes you / the first lie / a pest
-**为什么这样写**：恋爱考古挖出地基里的一号谎言——Rena 用「他喜欢所有人」掩盖了 Kieran 的真实敌意。作者让读者看见她的原初模式已经成型：保护弟弟与保护恋情永远冲突，而她选了一个又骗一个。这个谎与 ch11 的 withholding、ch13 的没告诉 Lucas 连成完整的隐瞒谱系。
-**读者视角提示**：first lie 的「第一」表明她记得清清楚楚——说谎成了她的慢性病。
-
-
 ## 本章词汇
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
