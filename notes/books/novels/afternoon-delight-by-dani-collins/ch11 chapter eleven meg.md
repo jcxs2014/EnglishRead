@@ -62,7 +62,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：黄腔戏刚落，他忽然交底——喜剧的底下第一次露出正经的承重墙。sinking in 是「知道」与「接受」之间的落差，本章他用 want this time 把失去改写成倒计时里的拥有；这与 Meg 的 shake things up 是同构的生存策略：灾事变期限，期限变礼物。
 
-**读者视角提示**：woodworking 正是他留在古董店的理由——上一章「boring as hell」的店，此刻是他与父亲仅剩的共同语言。
+**读者视角提示**：woodworking 正是他留在古董店的理由——ch09 里他自评「boring as hell」的店，此刻是他与父亲仅剩的共同语言。
 
 > **原句 6:** "He gets dressed and helps me make breakfast, and we agree that it’s too soon to start mowing the lawn. Then he forgets something basic, like how to turn the key to unlock the door. Or that Mom is dead."
 

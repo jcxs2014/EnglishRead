@@ -22,7 +22,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：先闻声后见人，两拍写出事故的突发；clutching his own hand 与 mix of confusion and agony 把「疼」和「不明白自己为什么疼」叠在同一张脸上，失智照护的核心恐惧一秒立住。热风枪掉在地上这个物证留到下句才补出。
 
-**读者视角提示**：工作间是 Dale 传给 Zak 手艺的地方——上一章他说喜欢 dinking around with his knick-knacks，事故就发生在父子共享的领地里。
+**读者视角提示**：工作间是 Dale 传给 Zak 手艺的地方——ch01 里他说喜欢 dinking around with his knick-knacks，事故就发生在父子共享的领地里。
 
 > **原句 2:** "Every life skill you needed was one skip of a five-second ad away, but he was my Google. Nothing in me wanted to accept that he couldn’t remember the difference between a heat gun and a hair dryer. Or that Mom was dead."
 
@@ -50,7 +50,7 @@ modified: "2026-11-03"
 
 **关键词**：good to have you home / company / catching a ball
 
-**为什么这样写**：全章唯一的暖点给得极短，紧接着就用拍肩、傻笑、接球三个孩子气的意象标出代价——温情的前提是角色倒置，父亲把儿子当成了陪伴者。catching a ball 把 Zak 拉回童年位阶，正好与「他曾经是我的 Google」形成落差。
+**为什么这样写**：这处暖点给得极短，紧接着就用拍肩、傻笑、接球三个孩子气的意象标出代价——温情的前提是角色倒置，父亲把儿子当成了陪伴者。catching a ball 把 Zak 拉回童年位阶，正好与「他曾经是我的 Google」形成落差。
 
 **读者视角提示**：这两句父爱台词越动人，章末的反弹越重——作者先把暖给足，再抽走。
 
