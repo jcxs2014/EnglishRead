@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch08",
+ "text": "ch08_chapter_eight.txt",
+ "facts": [
+  {
+   "fact": "搭档Flint说两人在Void往返over twelve hours无食无眠",
+   "anchor": "into the Void for over twelve hours with no food or rest",
+   "start": 1969,
+   "end": 2025
+  },
+  {
+   "fact": "Flint与Petra在Spine Woods岔路左转深入,没右转去Obscuris Theater",
+   "anchor": "instead of going right toward the Obscuris Theater like Jade and I had",
+   "start": 2802,
+   "end": 2872
+  },
+  {
+   "fact": "Flint过桥跨Second Layer河后,带Petra走进左侧森林深处的alcove",
+   "anchor": "We walk over a small bridge that crosses the Second Layer river.",
+   "start": 2938,
+   "end": 3002
+  },
+  {
+   "fact": "Flint烤了eight long, angular legs的flesh spider,配加热的一袋米饭",
+   "anchor": "Something the size of a cat with eight long, angular legs is skewered",
+   "start": 5453,
+   "end": 5522
+  },
+  {
+   "fact": "Petra在洞口拉trip wire接回包上铃铛作警报",
+   "anchor": "I unspool a trip wire, running it across the ground by the alcove’s opening",
+   "start": 4704,
+   "end": 4779
+  },
+  {
+   "fact": "哥哥Coltan引开fiends,Flint爬进crevice躲藏;Coltan被fiends吃掉",
+   "anchor": "Coltan distracted them while I crawled into a crevice.",
+   "start": 8760,
+   "end": 8814
+  },
+  {
+   "fact": "Flint说哥哥死于他发出的mission,他要把它完成",
+   "anchor": "My brother died on a mission that I sent us on. And I’m going to finish it.",
+   "start": 10859,
+   "end": 10934
+  },
+  {
+   "fact": "孤儿院夜袭中Jade开训练武器柜发短剑小矛,最后给Petra一把木柄长刀",
+   "anchor": "she handed me a long knife with a wooden handle",
+   "start": 20474,
+   "end": 20521
+  }
+ ]
+}

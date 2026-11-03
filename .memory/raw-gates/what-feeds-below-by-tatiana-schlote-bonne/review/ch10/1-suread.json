@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch10",
+ "text": "ch10_chapter_ten.txt",
+ "facts": [
+  {
+   "fact": "Petra（第一人称叙述者、Jade 的潜伴）赶到 Void Core 找到 Jade：她头上缠着绷带，眼下皮肤淤成青紫。",
+   "anchor": "A bandage is wrapped around her head; the skin under her eyes is bruised purple.",
+   "start": 629,
+   "end": 709
+  },
+  {
+   "fact": "Jade 杀了把她拖回巢穴的 bonedrinker 并把它开膛，在它胃里找到一个软木封口的玻璃瓶，瓶中卷着两张纸（藏宝图）。",
+   "anchor": "I found this in its stomach.",
+   "start": 7537,
+   "end": 7565
+  },
+  {
+   "fact": "Jade 展开的地图写着：在 Liliana 的右脚跟左侧 three yards 处往下挖 five feet，那里埋着两件便携遗物，持有者最远可通信 ten miles apart。",
+   "anchor": "Three yards to the left of Liliana’s right heel, dig five feet deep.",
+   "start": 7767,
+   "end": 7835
+  },
+  {
+   "fact": "Jade 认定这不是旧茶杯而是能卖 “a hundred thousand nox, at least” 的失落科技，说够开两三家诊所、还能供 Petra 读医学院。",
+   "anchor": "sell for a hundred thousand nox, at least",
+   "start": 8411,
+   "end": 8452
+  },
+  {
+   "fact": "Petra 被 Jade 说动，同意继续下到第六层，并坚持要 Flint 同去：三人成队比两人强、Flint 经验更多且沿途有补给点。",
+   "anchor": "If I’m agreeing to go to the Sixth, I want him with us.",
+   "start": 14240,
+   "end": 14295
+  },
+  {
+   "fact": "Jade 在 base camp 的潜具店用两块 glow gems 付账，换来脚蹼、潜水服和一个水肺（水肺价钱是地表的 five times）。",
+   "anchor": "The Voidling shopkeeper is happy to take both our glow gems as payment.",
+   "start": 15607,
+   "end": 15678
+  },
+  {
+   "fact": "缠住 Petra 双腕的觉醒了骸藤（carcass vine）被 Flint 扔出的火柴点着，红色花瓣当场烧成灰，Petra 责怪他烧掉稀有植物。",
+   "anchor": "but a match is already flying past me",
+   "start": 21540,
+   "end": 21577
+  },
+  {
+   "fact": "沿 Vertical Staircase 下降时（Flint 领降、Petra 拒绝用他的结），Petra 被不明生物的冰手抓住，绳索割破手掌，她松手坠入黑暗。",
+   "anchor": "Then I’m falling down into the darkness.",
+   "start": 27785,
+   "end": 27825
+  }
+ ]
+}

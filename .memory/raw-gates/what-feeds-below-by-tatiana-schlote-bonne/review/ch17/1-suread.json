@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch17",
+ "text": "ch17_chapter_seventeen.txt",
+ "facts": [
+  {
+   "fact": "Jade（Petra 的挚友、后被证实是伪装）骗 Petra：藏宝图瓶里另夹着一张通往第六层捷径的便条",
+   "anchor": "It also had a note about a shortcut to the Sixth in this area.",
+   "start": 654,
+   "end": 716
+  },
+  {
+   "fact": "Petra 查自己的追踪器：已在 Void 里待了 121 小时，一天内抵达第六层仍来得及返地面",
+   "anchor": "I’ve been in the Void for 121 hours",
+   "start": 848,
+   "end": 883
+  },
+  {
+   "fact": "Jade 用一块沾血的石头砸中 Petra 的头部，把她打倒在地",
+   "anchor": "Jade standing over me, clutching a bloodied rock",
+   "start": 8353,
+   "end": 8401
+  },
+  {
+   "fact": "Jade 割开自己的手臂取血，把血泼在 Petra 周围围成环，又用石头摆出同心圆做献祭阵",
+   "anchor": "She pours the blood in a ring around me.",
+   "start": 14933,
+   "end": 14973
+  },
+  {
+   "fact": "Jade 承认本打算找机会杀掉客户 Henry（雇她俩找 glow gem 的活儿），以启动自己的献祭计划",
+   "anchor": "I was planning to find a way to get him killed",
+   "start": 13350,
+   "end": 13396
+  },
+  {
+   "fact": "Jade 讲出女神条款：每六年献祭一人，女神就赐献祭者一具可在地面生活的人类身体",
+   "anchor": "every six years, if we bring a sacrifice to her",
+   "start": 16223,
+   "end": 16270
+  },
+  {
+   "fact": "Petra 用仅剩的那条手臂的力气把刀刺进 Jade 的颈部，杀死了她",
+   "anchor": "I stab her with all the strength my one arm can muster.",
+   "start": 24314,
+   "end": 24369
+  },
+  {
+   "fact": "Flint（雇主 Mr. Stone 的学徒）用石头砸碎 Jade 的头骨，取脑组织样本带回地面给 Mr. Stone 研究",
+   "anchor": "Flint bashes the rock into Jade’s skull with a sickening thwack.",
+   "start": 26966,
+   "end": 27030
+  }
+ ]
+}

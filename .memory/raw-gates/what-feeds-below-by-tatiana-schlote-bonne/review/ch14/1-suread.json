@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch14",
+ "text": "ch14_chapter_fourteen.txt",
+ "facts": [
+  {
+   "fact": "匿名日记页（Voices from the Void 摘录）写：当年彼此反目是“fighting each other over shadows”；作者为丢下 Marble 没救道歉，如今困在裂隙里，只能祈祷有人找到他。",
+   "anchor": "I’m sorry, Marble. If I hadn’t left you to die",
+   "start": 373,
+   "end": 419
+  },
+  {
+   "fact": "Pet 说出心裂者的话（说他拖累 Jade、不懂医学）；Jade 反驳说那生物会乱激素让人抑郁，过一阵就会过去。",
+   "anchor": "that I hold you back and don’t really know anything about medicine",
+   "start": 2500,
+   "end": 2566
+  },
+  {
+   "fact": "Jade 抓住一只 moss rat（“the size of a surface beaver”），拔刀去猎肉，让 Pet 和 Flint 生火做饭。",
+   "anchor": "She pulls out her knives and heads toward the rabbits.",
+   "start": 5561,
+   "end": 5615
+  },
+  {
+   "fact": "休息前 Pet 看 tracker：第五格跳到“one hour”，下潜总时长计数为“seventy-four hours”。",
+   "anchor": "The gauge counting my total time down here says seventy-four hours.",
+   "start": 8142,
+   "end": 8209
+  },
+  {
+   "fact": "露营时 Jade 问 Void Truther Flint 下潜所求，Flint 答：“The monster that killed our mother”。",
+   "anchor": "The monster that killed our mother,” he deadpans.",
+   "start": 10519,
+   "end": 10568
+  },
+  {
+   "fact": "Pet 主动提出帮 Flint 杀 surfacewalker，Flint 同意；Jade 斥他：“Survival requires selfishness”，Pet 当晚不语。",
+   "anchor": "Don’t offer our help so lightly, Pet. Survival requires selfishness.",
+   "start": 12448,
+   "end": 12516
+  },
+  {
+   "fact": "Flint 脚踩塌地面；Pet 抓住他的包想拉回，Jade 从下方托起 Pet 手臂猛拽，Flint 从 Pet 手里滑落掉进洞口。",
+   "anchor": "But Jade’s arms scoop under mine, and she yanks me with such force",
+   "start": 15796,
+   "end": 15862
+  },
+  {
+   "fact": "Pet 不听 Jade 劝阻跳进塌洞，落地后看到洞底到处是扭曲的血肉尸体。",
+   "anchor": "Bodies everywhere.\n\nTwisted in mangled, bloody piles.",
+   "start": 18630,
+   "end": 18683
+  }
+ ]
+}

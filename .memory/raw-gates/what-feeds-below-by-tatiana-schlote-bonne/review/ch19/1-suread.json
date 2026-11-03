@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch19",
+ "text": "ch19_chapter_nineteen.txt",
+ "facts": [
+  {
+   "fact": "叙述者 Petra（孤儿院诊所医生/照护者）给孤儿 Calcy 剩下的疹斑涂 tassala 药水。",
+   "anchor": "I dab tassala lotion over the remaining patches of Calcy’s rash",
+   "start": 34,
+   "end": 97
+  },
+  {
+   "fact": "Petra 把 Core 碎片埋进温室土里长出的新鲜 tassala，效力是 Ms. Opal 旧药水的 ten times more powerful，Calcy 皮肤已明显好转。",
+   "anchor": "the fresh tassala plant’s effects are ten times more powerful",
+   "start": 313,
+   "end": 374
+  },
+  {
+   "fact": "孤儿 Jasper 告诉 Petra：他和 Bort 玩时摔在石头上，划伤小臂，需要缝针。",
+   "anchor": "Bort and I were playing. I fell on a rock.",
+   "start": 593,
+   "end": 635
+  },
+  {
+   "fact": "Petra 与 Flint 卖 Obscuris 烟灰缸凑到 20,000 nox，她用它买新医疗器材并给 Jasper 缝合伤口。",
+   "anchor": "From the 20,000 nox that Flint and I made from selling the Obscuris ashtray",
+   "start": 737,
+   "end": 812
+  },
+  {
+   "fact": "Mr. Stone（出资雇主）给 Petra 安排 limb guy 装上顶级新手臂，机械手指替他缝针。",
+   "anchor": "Mr. Stone set me up with his limb guy, so my new arm is top quality.",
+   "start": 1352,
+   "end": 1420
+  },
+  {
+   "fact": "Flint（Petra 男友，铁匠）下班回来（时钟 5:35 p.m.），说自己打了一把新的 Damascus steel blade。",
+   "anchor": "I got to make a new Damascus steel blade.",
+   "start": 2014,
+   "end": 2055
+  },
+  {
+   "fact": "Flint 转述 Mr. Stone 对两人计划的评语：是好主意，但疯狂、Horribly dangerous。",
+   "anchor": "He thinks it’s crazy too. Horribly dangerous.",
+   "start": 3091,
+   "end": 3136
+  },
+  {
+   "fact": "Petra 对 Flint 坚持 I want in. And it’s my idea too.，Flint 随即宣布要杀光 surfacewalker。",
+   "anchor": "We’re going to kill every last surfacewalker.",
+   "start": 3486,
+   "end": 3531
+  }
+ ]
+}

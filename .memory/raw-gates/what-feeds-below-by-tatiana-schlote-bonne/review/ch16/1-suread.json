@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch16",
+ "text": "ch16_chapter_sixteen.txt",
+ "facts": [
+  {
+   "fact": "匿名日记（Voices from the Void 摘录）作者称 Day 3 in the fifth 时断言同伴已不是 Slate，扬言把他剖开证明",
+   "anchor": "that isn’t really Slate. I’m going to have to cut him open and prove it.",
+   "start": 425,
+   "end": 497
+  },
+  {
+   "fact": "Petra 醒来见左前臂已在肘部被截断，同伴称必须砍到肘部才能留下干净断口",
+   "anchor": "They must’ve had to lop it off at the elbow so there would be a clean break.",
+   "start": 1570,
+   "end": 1646
+  },
+  {
+   "fact": "Jade（挚友兼潜航搭档）告诉 Petra 她已经昏迷了 Eight hours",
+   "anchor": "“Eight hours,” Jade answers.",
+   "start": 5312,
+   "end": 5340
+  },
+  {
+   "fact": "Flint（童年玩伴兼队友）用 Void puffer fish 的胰腺组织做 limb patch，替 Petra 装上断肢",
+   "anchor": "It’s made from the pancreatic tissue of Void puffer fish",
+   "start": 7630,
+   "end": 7686
+  },
+  {
+   "fact": "Jade 在 Petra 大腿涂 burn jelly 逼幼虫爬出皮外，Flint 用镊子夹走最后一条扔进火里",
+   "anchor": "Jade smears burn jelly over my thighs",
+   "start": 18609,
+   "end": 18646
+  },
+  {
+   "fact": "Flint 指控 Jade 在他新绳上割出规律切口（他称她还割开过他的呼吸管）",
+   "anchor": "She tampered with my ropes, left them full of little cuts",
+   "start": 12154,
+   "end": 12211
+  },
+  {
+   "fact": "Flint 向 Petra 承认 Jade 所说的捐款箱失窃者就是他自己——five nox",
+   "anchor": "I’m the one who put five nox in there!",
+   "start": 13249,
+   "end": 13287
+  },
+  {
+   "fact": "Flint 从 Jade 的包里抓走一根新绳并宣布独自离开；Petra 拒绝跟他走",
+   "anchor": "Flint grabs a rope from Jade’s bag.",
+   "start": 26618,
+   "end": 26653
+  }
+ ]
+}

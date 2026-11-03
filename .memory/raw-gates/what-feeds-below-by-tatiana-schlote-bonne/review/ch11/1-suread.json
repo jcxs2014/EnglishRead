@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch11",
+ "text": "ch11_chapter_eleven.txt",
+ "facts": [
+  {
+   "fact": "叙述者（Ms. Opal 的学生/搭档）陷进 Third Layer 的流沙，用 Ms. Opal 教的“雪天使”姿势摊开身体减缓下沉",
+   "anchor": "I fall backward, spreading my arms out like I’m making a snow angel",
+   "start": 1818,
+   "end": 1885
+  },
+  {
+   "fact": "Flint（队友）用 falchion 割开 worm fiend 的喉咙，再以剑柄重击并把它踢下悬崖",
+   "anchor": "Flint slashes the worm fiend across the throat with his falchion.",
+   "start": 3195,
+   "end": 3260
+  },
+  {
+   "fact": "Jade（搭档）掷出 throwing knife 射进咬住叙述者手臂的 fly fiend 脖子，救下他",
+   "anchor": "A tiny blade zings through the air.",
+   "start": 9374,
+   "end": 9409
+  },
+  {
+   "fact": "叙述者用 knife 刺穿铠甲 fiend 肩颈间的软组织，杀死疑似父亲的怪物",
+   "anchor": "I plunge the blade into the soft tissue beside his neck",
+   "start": 7335,
+   "end": 7390
+  },
+  {
+   "fact": "Ten fiends 从前方逼近，at least ten more 从后方包夹，三人被困",
+   "anchor": "Ten fiends scurry toward us from the front; I turn around, at least ten more",
+   "start": 13162,
+   "end": 13238
+  },
+  {
+   "fact": "Cadaver Giant 追着 fiend 从三人藏身的蘑菇旁冲过",
+   "anchor": "The Giant charges past us, chasing the fiends.",
+   "start": 15216,
+   "end": 15262
+  },
+  {
+   "fact": "Jade 把胃里的东西吐在石头上，巨人的鼻子嗅到后转身锁定三人",
+   "anchor": "followed by the splatter of vomit on stone.",
+   "start": 16510,
+   "end": 16553
+  },
+  {
+   "fact": "Flint 先头朝下一跃潜入无底水池，Jade 随后，叙述者最后跳入",
+   "anchor": "Flint takes a deep inhale, then dives headfirst into the water.",
+   "start": 18688,
+   "end": 18751
+  }
+ ]
+}

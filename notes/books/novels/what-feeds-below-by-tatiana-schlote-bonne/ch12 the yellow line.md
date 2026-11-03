@@ -7,11 +7,11 @@ modified: "2026-11-03"
 
 ## 本章导航
 
-- **一句话概括**：三人穿水下通道进入第四层黑水海，在岩岛上安葬陌生死者 Gimm、并为那只 fiend 的手表争出结论；下水前 Flint 立好「不许看、不许摘耳塞、绳子多点固定」三条规矩，游了一个多小时后，第一个放掉绳子、拔掉耳塞的人正是他自己。
+- **一句话概括**：三人穿水下通道进入第四层黑水海，在岩岛上把陌生死者 Gimm 送进水里、并听 Jade 猜出那只 fiend 可能是 Petra 的父亲；下水前 Flint 立好「不许看、不许摘耳塞、绳子多点固定」三条规矩，游了一个多小时后，第一个放掉绳子、拔掉耳塞的人正是他自己。
 - **情感弧线位置**：全书信任结构被压到最低的一章——Jade 与 Petra 结盟指控 Flint 家，而 Flint 的每一次专业正确都在为他的这一次失误抬高代价。
 - **Tropes 兑现/反转**：反转「老手带路=安全」的套路：规矩由老手制定、由老手破坏；Petra 是唯一遵守并唯一看清的人，因此章末她被夺走的正是她最守规矩的那件东西。
-- **人物弧线**：Petra 第一次把「那是不是我父亲」告诉 Jade，并默认了对方的推论；她对 Flint 的评价从「也许他真是有真心的人」转成「他会害死我们」，但她仍选择跟着他下水。
-- **叙事手法**：插页是一具饿殍身上的便条（最苦的不是孤独也不是黑暗，是希望），与本章安葬 Gimm 一节直接对话；后半章几乎无对白，全部由绳、光、水色三个物象推进。
+- **人物弧线**：Petra 第一次把「那是不是我父亲」告诉 Jade，并默认了对方的推论；她对 Flint 的评价从「也许他真是有真心的人」转成「他就是个自私的贼、跟他爸一样」，但她仍选择跟着他下水。
+- **叙事手法**：插页是一具饿殍身上的便条（最苦的不是孤独也不是黑暗，是希望），与本章送 Gimm 下水一节直接对话；后半章几乎无对白，全部由绳、光、水色三个物象推进。
 
 ## 精读
 
@@ -53,11 +53,11 @@ modified: "2026-11-03"
 
 > **原句 4:** "“We’ll have to send Gimm off to his grave,” Flint says, a hint of sadness in his voice. He puts Gimm’s belongings back with the body, except for the signed maps, which Flint folds carefully into his own bag. “There might be family we can give these to.”"
 
-**中文理解**：「我们得送 Gimm 入土，」Flint 说，声音里有一点悲伤。他把 Gimm 的遗物放回尸体旁，只把署名了的地图小心折进自己的包里。「也许还能找到他的家人把这些交回去。」
+**中文理解**：「我们得送 Gimm 入水，」Flint 说，声音里有一点悲伤。他把 Gimm 的遗物放回尸体旁，只把署名了的地图小心折进自己的包里。「也许还能找到他的家人把这些交回去。」
 
 **关键词**：send Gimm off to his grave、a hint of sadness、puts Gimm’s belongings back、signed maps、family we can give these to
 
-**为什么这样写**：埋葬被处理成一件手续：先命名（Flint 叫出 Gimm，从地图上的署名得知）、再归还遗物、只留下地图，理由是可能还有家人。作者让这个偷地图的动作带着善意，读者于是没法简单把他归为「好人」或「坏人」。
+**为什么这样写**：送葬被处理成一件手续：先命名（Flint 叫出 Gimm，从地图上的署名得知）、再归还遗物、只留下地图，理由是可能还有家人。作者让这个偷地图的动作带着善意，读者于是没法简单把他归为「好人」或「坏人」。
 
 **读者视角提示**：这块是 Jade 指控（「他从小就是贼」）的现场反证：他确实拿走了东西，也确实是为了找家属。本章让 Petra 在旁边看着，并把这份矛盾收进心里。
 
@@ -77,7 +77,7 @@ modified: "2026-11-03"
 
 > **原句 6:** "“I knew it,” Jade whispers, glancing toward Flint. “I bet that was your dad, Pet. Think about it. And his dad stole the relic from yours and left him for dead.”"
 
-**中文理解**：「我就知道，」Jade 低声说，朝 Flint 那边看了一眼。「我赌那就是你爸，Pet。想想看。而且是他爸从他爸手里偷走了那件遗物，把他丢在那里等死。」
+**中文理解**：「我就知道，」Jade 低声说，朝 Flint 那边看了一眼。「我赌那就是你爸，Pet。想想看。而且是他爸从你爸手里偷走了那件遗物，把他丢在那里等死。」
 
 **关键词**：I knew it、whispers、glancing toward Flint、I bet that was your dad、his dad stole the relic、left him for dead
 
@@ -164,4 +164,4 @@ modified: "2026-11-03"
 
 ## 一句话总结
 
-第十二章让 Flint 用一整套正确的规矩换掉 Petra 对 Jade 的沉默忠诚（安葬死者、系牢绳子、不许看不许听），然后由他自己亲手把这三条全部破掉，本章结束时她抱紧的那根绳被夺走——本书此后最深的黑暗来自同伴的失误而非怪物。
+第十二章让 Flint 用一整套正确的规矩换来 Petra 对他的信任（送死者沉水、系牢绳子、不许看不许听），然后由他自己亲手把这三条全部破掉，本章结束时她抱紧的那根绳被夺走—— Petra 崩塌的是对他的信任，而全书此后最深的黑暗来自同伴的失误而非怪物。

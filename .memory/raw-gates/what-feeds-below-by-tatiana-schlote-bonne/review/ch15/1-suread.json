@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch15",
+ "text": "ch15_chapter_fifteen.txt",
+ "facts": [
+  {
+   "fact": "叙述者 Petra（潜水员）用两把飞刀杀死正抓着队友 Flint 的 skinleech：第一把插进它腹部渗出黄色黏液，第二把命中其肠道，skinleech 踉跄几步倒地死亡，Flint 被摔到地上口吐白沫。",
+   "anchor": "The skinleech takes a couple more staggering steps, then falls to the ground",
+   "start": 3443,
+   "end": 3519
+  },
+  {
+   "fact": "Petra 从绳上跳到地面、蹲下翻背包找抗麻痹针时，被第二只 skinleech 的尾针刺入背部，面朝下栽倒在泥地上，颈部无法转动、说不出话。",
+   "anchor": "I fall face-first onto the muddy ground, the rod still deep in my flesh",
+   "start": 4394,
+   "end": 4465
+  },
+  {
+   "fact": "第三只更大、无毒刺的 skinleech 把尾部长尖突刺进 Petra 大腿里产卵；她推断幼虫要经历 six-month larval stage，她会变成 Voidling。",
+   "anchor": "it has one long, pointed appendage on its tail that it jabs into my thigh",
+   "start": 6099,
+   "end": 6172
+  },
+  {
+   "fact": "搭档 Jade（留在绳上放绳的人）用火攻烧死三只 skinleech，地面上留下三团翻滚燃烧的躯体，Petra 感叹 Jade 一人对上三只而她连一只都难对付。",
+   "anchor": "Three skinleeches lie in bubbling, burning masses on the ground.",
+   "start": 8886,
+   "end": 8950
+  },
+  {
+   "fact": "Jade 蹲在 Petra 身边，从包里翻出针管给她大腿注射抗麻痹针，又给曾被烧到的左小腿抹烧伤膏；因 flame-resistant 裤子只是 first-degree burn。",
+   "anchor": "A needle jabs into my thigh. Something cool and tingly flows through my veins",
+   "start": 7592,
+   "end": 7669
+  },
+  {
+   "fact": "Jade 犹豫后仍把 Petra 的最后一支抗麻痹针打在 Flint 腿上（Petra 含糊地说「Use mine」，她抗议「He’s the one who got us into this mess」后仍照做）。",
+   "anchor": "She sighs and jabs the needle into Flint’s leg.",
+   "start": 8495,
+   "end": 8542
+  },
+  {
+   "fact": "Flint 用手弩把第二只 skinleech 的胸部角质盾甲射裂，Petra 趁空当把刀捅进它露出的软组织，二人合力杀死它。",
+   "anchor": "Flint shoots it in the center of its thorax",
+   "start": 11470,
+   "end": 11513
+  },
+  {
+   "fact": "一只披甲 skinleech 把 Petra 的左前臂到肘部咬进嘴里、咬碎其 radius and ulna 并吞掉她的手；Jade 用双刃砍下它头颅，Flint 抱住她的半截手臂止血。",
+   "anchor": "Just below my elbow, jagged bone sticks out of stringy, torn flesh.",
+   "start": 14387,
+   "end": 14454
+  }
+ ]
+}

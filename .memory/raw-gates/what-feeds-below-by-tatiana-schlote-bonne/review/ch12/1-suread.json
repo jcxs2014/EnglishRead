@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch12",
+ "text": "ch12_chapter_twelve.txt",
+ "facts": [
+  {
+   "fact": "第五层一具消瘦尸体身上被找到一张手写纸条：写信人想结束生命，却因仍盼有人来救而做不到",
+   "anchor": "Note found on an emaciated corpse in the Fifth Layer",
+   "start": 16,
+   "end": 68
+  },
+  {
+   "fact": "Petra 扒开 nylon 包裹，露出一具与睡袋粘连的腐尸；这睡袋与她曾在 Mr. Stone 店里买的同款",
+   "anchor": "revealing a decomposing corpse half fused to the fabric",
+   "start": 4231,
+   "end": 4286
+  },
+  {
+   "fact": "Flint 从死者腿下抽出的背包里倒出 two combat knives、a drained water purifier 和 three maps",
+   "anchor": "Out tumble two combat knives, a drained water purifier, three maps",
+   "start": 5703,
+   "end": 5769
+  },
+  {
+   "fact": "Flint 否认曾偷 Jade 的东西，瞪着 Petra 说 Jade 在撒谎；Jade 坚称那是多年前的事",
+   "anchor": "absurd⁠—I wouldn’t do that.” He locks eyes with me",
+   "start": 8159,
+   "end": 8209
+  },
+  {
+   "fact": "Flint 决定在岛上过夜，把闹钟设成 eight hours；Jade 想再赶一段路被他否掉",
+   "anchor": "set an alarm for eight hours.” Flint pulls a small clock from his bag",
+   "start": 11118,
+   "end": 11187
+  },
+  {
+   "fact": "Jade 断言那 fiend 就是 Petra 的父亲，Flint 的父亲偷走 relic 后把 Petra 父亲丢下等死",
+   "anchor": "And his dad stole the relic from yours and left him for dead",
+   "start": 13869,
+   "end": 13929
+  },
+  {
+   "fact": "Flint 盯着海藻床时自行拔掉耳塞，违反他自己给 Petra 和 Jade 定的规矩",
+   "anchor": "Flint grabs his earplugs and pulls them out",
+   "start": 25697,
+   "end": 25740
+  },
+  {
+   "fact": "海底之物拽住黄线，Petra 双手死攥不放，黄线最终被从她手里整个扯走，她与 Jade、Flint 失去联系",
+   "anchor": "The line is ripped from my hands.",
+   "start": 26865,
+   "end": 26898
+  }
+ ]
+}

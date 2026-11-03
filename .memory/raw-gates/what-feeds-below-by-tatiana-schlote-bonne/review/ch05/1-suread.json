@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch05",
+ "text": "ch05_chapter_five.txt",
+ "facts": [
+  {
+   "fact": "Petra 把黑暗远处晃动的红色头灯当成搭档 Jade 或别的潜员，放声呼喊",
+   "anchor": "Could that be Jade? Or another diver? Either way, it’s someone with a light.",
+   "start": 2859,
+   "end": 2935
+  },
+  {
+   "fact": "Petra 把小石头扔到 tombstepper 身后、瞄准墙壁让它弹跳作响以引开怪物",
+   "anchor": "I throw the rock as far as I can behind the tombstepper",
+   "start": 5214,
+   "end": 5269
+  },
+  {
+   "fact": "Petra 在过窄隧道里被卡住（背包被勾住），靠前后左右扭动才一点点挪动脱身",
+   "anchor": "I wiggle side to side, then forward and backward.",
+   "start": 10011,
+   "end": 10060
+  },
+  {
+   "fact": "孤儿院男孩 Clay 卡死在第二层窄隧道，救援者脱臼其髋关节仍拉不出，他被困 twelve hours 后心搏停止",
+   "anchor": "the next twelve hours, Clay was trapped, contorted in a hole with broken hips",
+   "start": 7899,
+   "end": 7976
+  },
+  {
+   "fact": "搭档 Jade 已取走遇难潜员 Henry 的补给，Petra 从尸体下抽出的背包几乎空、只剩蛋白棒",
+   "anchor": "almost empty. Jade took his supplies, I remember now.",
+   "start": 11314,
+   "end": 11367
+  },
+  {
+   "fact": "Petra 见骨饮者吞尸后决定先上地面取新装备并找救援者，再下潜把 Jade 带出来",
+   "anchor": "I only have one choice left: I have to go back to the surface, get new gear",
+   "start": 12667,
+   "end": 12742
+  },
+  {
+   "fact": "带队潜导拒绝把备用灯借给 Petra，只让她自己沿路走回地面",
+   "anchor": "No, we can’t spare anything, sorry.",
+   "start": 15718,
+   "end": 15753
+  },
+  {
+   "fact": "巨蛾的带爪腿勾住 Petra 的背包，开始把她拽离岩壁（该蛾翼展 fifteen-foot）",
+   "anchor": "The moth’s little grabby legs hook into my backpack",
+   "start": 20094,
+   "end": 20145
+  }
+ ]
+}

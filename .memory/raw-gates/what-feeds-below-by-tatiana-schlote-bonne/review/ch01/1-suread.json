@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch01",
+ "text": "ch01_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "医护告诉同事，Gunther 一分钟前就失去脉搏，是自己独自下到第二层、只走到一半",
+   "anchor": "We lost his pulse a minute ago. Looks like the poor bastard went in by himself.",
+   "start": 1582,
+   "end": 1661
+  },
+  {
+   "fact": "Jade 走到尸体旁假装默哀时把手伸到尸身下，偷走 Gunther 的银表",
+   "anchor": "Her hand swipes low by the body, then back to her pocket.",
+   "start": 4320,
+   "end": 4377
+  },
+  {
+   "fact": "Jade 因老 cultist 男人「提醒」而丢给他一枚 quarter-nox 硬币",
+   "anchor": "Jade drops a quarter-nox coin into the old man’s bucket.",
+   "start": 8426,
+   "end": 8482
+  },
+  {
+   "fact": "Jade 从布告板撕下便条：雇主 Henry Pembroke Winchester IV 出 150 nox 请人带他去第三层取 pink glowjem",
+   "anchor": "Offering 150 nox. This offer is non-negotiable! -Henry Pembroke Winchester IV",
+   "start": 16828,
+   "end": 16905
+  },
+  {
+   "fact": "Jade 拒接第二层 Crystal Canyon 四十 nox 的导游单，说扣税后不够本",
+   "anchor": "a tour of the Second’s Crystal Canyon for forty nox",
+   "start": 17060,
+   "end": 17111
+  },
+  {
+   "fact": "Petra 说诊所挂靠孤儿院，是 Ms. Opal 让 Jade 在下个月满十八岁后继续住下的唯一原因",
+   "anchor": "let Jade continue to live there after she turns eighteen next month",
+   "start": 10450,
+   "end": 10517
+  },
+  {
+   "fact": "Petra 说建诊所、办许可、买物资需要五千 nox",
+   "anchor": "Five thousand nox is what we need to build the clinic",
+   "start": 17998,
+   "end": 18051
+  },
+  {
+   "fact": "Petra 搓热使 umula 绳散开，随后把店里其余 umula 绳全取下扔进垃圾桶",
+   "anchor": "I take down the rest of the umula ropes and drop them in the trash.",
+   "start": 30068,
+   "end": 30135
+  }
+ ]
+}

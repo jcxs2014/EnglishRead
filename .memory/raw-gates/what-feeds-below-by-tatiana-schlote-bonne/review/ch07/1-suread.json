@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch07",
+ "text": "ch07_chapter_seven.txt",
+ "facts": [
+  {
+   "fact": "Petra 夜里到 Mr. Stone's Emporium 敲门买装备，Flint 开门并从锁柜取出『最好的』医疗包；该医疗包价格是标准包的三倍（three times more than a standard one）",
+   "anchor": "I pick up the med kit, which costs three times more than a standard one.",
+   "start": 1698,
+   "end": 1770
+  },
+  {
+   "fact": "Petra 问 Flint 有没有愿意当晚同潜的自由职业救援者，Flint 回答说这么短通知时间内没有可靠的人愿意（Not anyone reputable at least）",
+   "anchor": "with this short notice, I don’t think so. Not anyone reputable at least.",
+   "start": 2321,
+   "end": 2393
+  },
+  {
+   "fact": "Flint 主动提出免费陪 Petra 下潜去第三层找 Jade，作为交换要她帮忙到达第六层并返回（Sixth Layer and back）",
+   "anchor": "I need your help getting to the Sixth Layer and back.",
+   "start": 3934,
+   "end": 3987
+  },
+  {
+   "fact": "Petra 口头答应帮 Flint 下潜到第五层，心里却打算改派 Mr. Stone 陪 Flint 完成计划（I can send Mr. Stone down）",
+   "anchor": "I can send Mr. Stone down to finish Flint’s quest with him",
+   "start": 5694,
+   "end": 5752
+  },
+  {
+   "fact": "Flint 打电话给 Mr. Stone 安排替班，并说如果 twelve days 内没回来，航线副本会在他桌上",
+   "anchor": "If we’re not back in twelve days, a copy of our route is on your desk.",
+   "start": 6466,
+   "end": 6536
+  },
+  {
+   "fact": "回忆童年：Petra 与 Flint 在院子里玩 Treasure Dive，Petra 清点 treasure 得 fifteen points，Flint 只有两块假宝石、一根橡皮筋和一块石头",
+   "anchor": "I tallied up my treasure. “I got fifteen points.”",
+   "start": 10543,
+   "end": 10592
+  },
+  {
+   "fact": "Petra 的刀被 snagglegrass 抢走埋进捕兽坑，Flint 帮她割开藤蔓挖出刀，坑底露出 two human skeletons with broken femurs",
+   "anchor": "two human skeletons with broken femurs",
+   "start": 17996,
+   "end": 18034
+  },
+  {
+   "fact": "Flint 摆出年长者身份否决瀑布跳，命令改走 Crag 路线，坚持『We're doing this my way or not at all』",
+   "anchor": "We’re doing this my way or not at all.",
+   "start": 19829,
+   "end": 19867
+  }
+ ]
+}

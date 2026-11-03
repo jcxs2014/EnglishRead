@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch02",
+ "text": "ch02_chapter_two.txt",
+ "facts": [
+  {
+   "fact": "一些愚昧的潜水员把一只活的 Void 鹦鹉带进城里，那只鹦鹉在 Main Street 最繁忙处爆裂，凡被鸟血溅到的人都染上 Void parrot flu，Petra 一家也因邻居中招而全部生病。",
+   "anchor": "some ignorant divers captured and brought a live one into town",
+   "start": 1428,
+   "end": 1490
+  },
+  {
+   "fact": "Petra 的弟弟 Mica 在只有六个月大时死于这场 parrot flu 疫情；Petra 说若当年有诊所，她至少还能试着救他。",
+   "anchor": "Mica succumbed to the illness when he was just six months old.",
+   "start": 2552,
+   "end": 2614
+  },
+  {
+   "fact": "Petra 的父亲为让家人不再为食物发愁而决意下到 Fifth Layer，他的船员只带回他的背包；母亲把父亲的 compass 交给 Petra，卖掉其余装备，换的钱仍不够。",
+   "anchor": "Mom gave me Dad’s compass and sold the rest of his gear",
+   "start": 8616,
+   "end": 8671
+  },
+  {
+   "fact": "交不起租钱被赶出房间后，母亲在雨夜向路过的男人示好，随后对他说了“我有一个女儿”——想把 11 岁的 Petra 卖给他；Petra 当时躲在街对面的棚屋后听着。",
+   "anchor": "“I have a daughter,” Mom said.",
+   "start": 9395,
+   "end": 9425
+  },
+  {
+   "fact": "搭档 Jade 在巷子里发现睡在街边的 Petra 并把她带进孤儿院；Jade 说自己的父母处境和 Petra 差不多。",
+   "anchor": "found me living in the alley and took me to the orphanage",
+   "start": 10231,
+   "end": 10288
+  },
+  {
+   "fact": "Jade 的父亲想把她“雇用”给一个要把孩子送进只有小孩能钻的 Void 窄洞的团伙，Jade 听到是十年合同且所有工钱都归父亲后跑掉；那伙人垮台后 Jade 的父亲被捕，她此后再没听到他的消息。",
+   "anchor": "it was a ten-year contract with all the pay going to her dad",
+   "start": 10618,
+   "end": 10678
+  },
+  {
+   "fact": "来买 Void 产物的客户 Henry 踏出石板路踩上会移动的草却毫无察觉，Petra 抓住他的手臂把他拽回自己身边（那草是 snagglegrass，会缠住并勒死动物）。",
+   "anchor": "Henry starts to step off the path onto the grass, oblivious that it’s moving",
+   "start": 14596,
+   "end": 14672
+  },
+  {
+   "fact": "Petra 告诉客户 Henry，她和 Jade 很快要开自己的温室和诊所，在那里种药草、调制任何她想要的药。",
+   "anchor": "Jade and I are going to have our own greenhouse and clinic",
+   "start": 19662,
+   "end": 19720
+  }
+ ]
+}

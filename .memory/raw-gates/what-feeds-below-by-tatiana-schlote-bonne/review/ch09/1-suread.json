@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch09",
+ "text": "ch09_chapter_nine.txt",
+ "facts": [
+  {
+   "fact": "叙述者跳进Henry死去的洞穴坑，骨头在脚下嘎吱响；搭档Flint落在她身旁",
+   "anchor": "I hop down into the hole where Henry died, bones crunching under my feet.",
+   "start": 875,
+   "end": 948
+  },
+  {
+   "fact": "对手Ruby拔出匕首对准叙述者与Flint，要求交出两人的背包就放他们走",
+   "anchor": "she pulls out a dagger, aiming it at us",
+   "start": 9854,
+   "end": 9893
+  },
+  {
+   "fact": "对手Litheo告诉Ruby：Flint那条旧的机械腿就算用过也能卖thirty thousand nox",
+   "anchor": "Even used, those can go for thirty thousand nox.",
+   "start": 8433,
+   "end": 8481
+  },
+  {
+   "fact": "叙述者把头灯从红光切到白光直射Ruby的脸；Litheo完全没反应，因为他已失明",
+   "anchor": "clicking the dial to change my light from red to white",
+   "start": 9058,
+   "end": 9112
+  },
+  {
+   "fact": "Litheo双手抓住从自己眼睛里长出的蘑菇梗往外拔，six-inch stalks带血和胶状黏液落地",
+   "anchor": "The six-inch stalks fall to the ground",
+   "start": 10932,
+   "end": 10970
+  },
+  {
+   "fact": "搭档Ruby把正在融化的Litheo从酸池里拽出来，自己的双手被酸灼伤出血，看着他化成泥",
+   "anchor": "Ruby kneels beside Litheo, her own hands bleeding from the acid",
+   "start": 11980,
+   "end": 12043
+  },
+  {
+   "fact": "Voidling女守门人做完fiend-infection检查后要Eight nox入场费；Flint递上ten-nox note说Keep the change",
+   "anchor": "“Eight nox to enter.”\n\nFlint hands her a ten-nox note.",
+   "start": 18135,
+   "end": 18189
+  },
+  {
+   "fact": "叙述者在旅店二楼走廊喊Jade的名字，7号房门打开，Jade站在门后看着她",
+   "anchor": "But the doorknob turns, and a green-eyed, auburn-haired girl stares back at me.",
+   "start": 23695,
+   "end": 23774
+  }
+ ]
+}

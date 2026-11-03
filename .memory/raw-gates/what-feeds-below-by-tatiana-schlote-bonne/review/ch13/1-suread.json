@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch13",
+ "text": "ch13_chapter_thirteen.txt",
+ "facts": [
+  {
+   "fact": "Pet 在淤泥中已失视觉与绳线，伸手摸索 Jade、Flint 和黄绳",
+   "anchor": "I feel around with both hands, trying to find Jade, Flint, the yellow string",
+   "start": 646,
+   "end": 722
+  },
+  {
+   "fact": "拟态的 Jade 拉住 Pet 的手带路，Pet 怀疑是海怪诱饵仍跟上",
+   "anchor": "She tugs on my hand, leading us away from here.",
+   "start": 2234,
+   "end": 2281
+  },
+  {
+   "fact": "假 Jade 抢下 Pet 的咬嘴往外拽，冷水冲上他的脸",
+   "anchor": "Not-Jade grabs my mouthpiece and starts to pull it out.",
+   "start": 3465,
+   "end": 3520
+  },
+  {
+   "fact": "Jade 用刀贴上 Pet 的脸颊，把 mindripper 从他脸上割下来",
+   "anchor": "Jade takes out her knife, bringing it up to my cheek.",
+   "start": 8082,
+   "end": 8135
+  },
+  {
+   "fact": "Pet 与 Jade 各抓 mindripper 一端反向猛拽，把它撕成两半",
+   "anchor": "The little monster rips in half down the center, spilling purple guts",
+   "start": 9860,
+   "end": 9929
+  },
+  {
+   "fact": "洞角 “two other divers” 被 mindripper 裹面呼吸，Pet 点头后 Jade 用刀刺死两只",
+   "anchor": "She jabs both of the mindrippers with her knife without hesitation.",
+   "start": 10958,
+   "end": 11025
+  },
+  {
+   "fact": "Jade 说她游了 “two hours” 找 Pet，一路系住绳子标记已搜过的区域",
+   "anchor": "I swam for two hours searching for you, tying off the line",
+   "start": 12312,
+   "end": 12370
+  },
+  {
+   "fact": "Pet 循紧急定位器的 Ping 声找到 Flint，破出水面就抱住他",
+   "anchor": "Before my head breaks the surface, I throw my arms around him.",
+   "start": 14142,
+   "end": 14204
+  }
+ ]
+}

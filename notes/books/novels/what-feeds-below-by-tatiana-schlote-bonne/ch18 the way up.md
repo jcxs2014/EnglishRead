@@ -101,7 +101,7 @@ modified: "2026-11-03"
 
 > **原句 8:** "“Not really.” I’ve already had a funeral for him before. “I’m just glad I decided to check. And now I have two things that belonged to my dad.” I put the watch in my pocket with my compass."
 
-**中文理解**：「不太想。」我以前已经为他办过一次葬礼了。「我只是庆幸自己决定去查一查。现在我手上有两件属于爸爸的东西了。」我把那块表放进口袋，和罗盘放在一起。
+**中文理解**：「不太想。」我以前已经为他办过一次葬礼了。「我只是庆幸自己决定去查一查。现在我手上有两件属于爸爸的东西了。」表背刻着「每一秒都与你同在，爱你的 Sapphire 和 Petra」——母亲的名字和我的挤在一起。我把那块表放进口袋，和罗盘放在一起。
 
 **关键词**：I’ve already had a funeral for him before、I’m just glad I decided to check、two things that belonged to my dad、the watch in my pocket with my compass
 
@@ -171,4 +171,4 @@ modified: "2026-11-03"
 
 ## 一句话总结
 
-第十八章让 Petra 爬回那具穿甲 fiend 的尸体，认出那是父亲，取下他手腕上那块刻着母亲和自己名字的表，却不给他下葬；与此同时 Flint 感染发烧，她自己的掌心也开始发红——两个人都以为自己在往回爬。
+第十八章让 Petra 爬回那具穿甲 fiend 的尸体，认出那是父亲，取下他手腕上那块刻着母亲 Sapphire 和自己名字的表，却不给他下葬；与此同时 Flint 感染发烧，她自己的掌心也开始发红——两个人都以为自己在往回爬。

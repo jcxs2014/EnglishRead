@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch04",
+ "text": "ch04_chapter_four.txt",
+ "facts": [
+  {
+   "fact": "Malachite（叙述者的朋友/同事）说厌倦城市、要永久住进虚空并在第三层建木屋；三个月后叙述者去看他，他长了树皮般的牙齿、蘑菇般的指尖、树叶般的眼皮",
+   "anchor": "Three months later, I visited him. I hardly even recognized him.",
+   "start": 399,
+   "end": 463
+  },
+  {
+   "fact": "三人小队（Petra 与 Jade）提醒客户亨利别听怪声，Petra 却走开分心，亨利随后落进洞隙被洞穴鮟鱇怪抓走",
+   "anchor": "We told him not to listen to strange voices, but I stepped away.",
+   "start": 622,
+   "end": 686
+  },
+  {
+   "fact": "洞穴鮟鱇怪的小手从亨利右眼窝穿出，亨利眼球先“湿爆”弹出，随后被撕碎吞食",
+   "anchor": "with a wet pop, Henry’s eyeball shoots out of its socket",
+   "start": 3136,
+   "end": 3192
+  },
+  {
+   "fact": "Petra（叙述者）把 Jade 点燃的油瓶扔向洞穴鮟鱇怪的头，火焰在其黑发上爆开",
+   "anchor": "I chuck it at the creature’s head.",
+   "start": 4577,
+   "end": 4611
+  },
+  {
+   "fact": "Jade（搭档）说她们若不在十八岁前开诊所，Ms. Opal 就会把她们赶出去",
+   "anchor": "when I turn eighteen if we don’t open the clinic",
+   "start": 7865,
+   "end": 7913
+  },
+  {
+   "fact": "Jade（搭档）用砍刀从黏液中尸体的背包里挑出一颗大型六棱辉光宝石；Petra 称 Void Gems & Sparkles 卖的同款要 1,000 nox",
+   "anchor": "Bigger than the ones they sell for 1,000 nox at Void Gems & Sparkles.",
+   "start": 10395,
+   "end": 10464
+  },
+  {
+   "fact": "Jade（搭档）爬出坑洞时鞋底从岩架滑脱，摔落坑底、身体撞地",
+   "anchor": "Her shoe slips from the ledge she was standing on.",
+   "start": 12061,
+   "end": 12111
+  },
+  {
+   "fact": "Petra（叙述者）冲向洞道时头盔被钟乳石击碎、灯灭；她翻背包发现侧袋已空、无备用灯泡",
+   "anchor": "Something smacks me in the head, the blow like a hammer to my helmet.",
+   "start": 16244,
+   "end": 16313
+  }
+ ]
+}

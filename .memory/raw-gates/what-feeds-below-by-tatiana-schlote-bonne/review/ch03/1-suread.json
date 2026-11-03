@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch03",
+ "text": "ch03_chapter_three.txt",
+ "facts": [
+  {
+   "fact": "Jade（Petra 的搭档、向导）用绳索把客户 Henry 降到第二层地面",
+   "anchor": "who’s slowly being lowered down by Jade",
+   "start": 510,
+   "end": 549
+  },
+  {
+   "fact": "Jade 用「蛋糕分层、层间霜里有洞」向客户 Henry 解释如何下到第三层",
+   "anchor": "Think of the Void like the layers of a cake, separated by frosting",
+   "start": 3164,
+   "end": 3230
+  },
+  {
+   "fact": "巨型星鼻鼬现身后龇出长黄牙盯住三人，Henry 握紧 Beast-Away Repellent Spray，巨鼬随即溜回树丛",
+   "anchor": "The weasel isn’t going to want to pick a three-against-one fight",
+   "start": 4383,
+   "end": 4447
+  },
+  {
+   "fact": "Petra（叙述者、向导）在溪底挖出 strangleroot，刮表皮煮茶加蜂蜜递给患 Void sickness 的客户 Henry",
+   "anchor": "we have strangleroot tea. I add a little honey and hand it to Henry",
+   "start": 8550,
+   "end": 8617
+  },
+  {
+   "fact": "Jade 把客户 Henry 背包里大部分装备转移进自己的包，替他减负",
+   "anchor": "She opens his backpack, transferring most of his equipment to hers",
+   "start": 17297,
+   "end": 17363
+  },
+  {
+   "fact": "Petra 对客户 Henry 说那颗红色辉光宝石至少值 fifty nox，Henry 坚持送给她和 Jade、当作 tip",
+   "anchor": "It’s worth at least fifty nox",
+   "start": 19677,
+   "end": 19706
+  },
+  {
+   "fact": "Henry 踩上松软地面将陷进空心蜘蛛陷阱时，Petra 抓住他的背包把他拽回，Jade 用 Beast-Away Repellent Spray 喷退空心蜘蛛",
+   "anchor": "Jade pulls out her Beast-Away Repellent Spray, blasting the red mist",
+   "start": 15001,
+   "end": 15069
+  },
+  {
+   "fact": "雾中出现第二个假 Jade 的声音诱走 Henry；四只瘦小苍白的手抓住他的脚踝把他拖进地下，背包肩带从 Petra 手里撕断",
+   "anchor": "I grab Henry’s backpack just as four skinny, pale hands wrap around his ankles",
+   "start": 22814,
+   "end": 22892
+  }
+ ]
+}

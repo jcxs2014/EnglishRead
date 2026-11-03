@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch18",
+ "text": "ch18_chapter_eighteen.txt",
+ "facts": [
+  {
+   "fact": "Petra（第一人称叙述者）读到一张撕下的横线纸手写留言（文中未点名作者）：写信人不后悔去第六层，只后悔让自己走到那一步，称自己学到了很多，并称真正的朋友不会让你做你不想做的事。",
+   "anchor": "I know now that a real friend doesn’t make you do something you don’t want to.",
+   "start": 209,
+   "end": 287
+  },
+  {
+   "fact": "Petra 在第六层 Obscuris 屋子的客厅地板裂缝里摸到一只小而硬的盘子（绿玻璃叶形，太浅不能用来吃饭），定价至少 fifteen thousand nox，她要与搭伙 Flint 对分。",
+   "anchor": "That will sell for at least fifteen thousand nox.",
+   "start": 1388,
+   "end": 1437
+  },
+  {
+   "fact": "Jade 的声音在 Petra 脑里告诉她 Flint 会把她丢下自死并拿走那个盘子；Petra 闭上眼后承认这不是真的（从未真实）。",
+   "anchor": "He’s going to leave you for dead and steal that for himself.",
+   "start": 1610,
+   "end": 1670
+  },
+  {
+   "fact": "回程两天后 Flint 侧腰的伤口化脉、红肿扩散并发烧，Petra 怀疑是 cellulitis 或 blood poisoning；治疗失效的原因是 sanaroot 药膏拒不住 Jade 的脏爪。",
+   "anchor": "but apparently not good enough to fight Jade’s dirty claws.",
+   "start": 2350,
+   "end": 2409
+  },
+  {
+   "fact": "Petra 自述：她发现最好的朋友一直在利用自己，因此不得不在自卫中杀掉对方（对方是 Jade）。",
+   "anchor": "you have to kill her in self-defense",
+   "start": 2978,
+   "end": 3014
+  },
+  {
+   "fact": "Petra 用 Flint 送她的新刀，在当时埋掉装备的那块岩石上刻下 \"F + P\"（两人名字的索引）。",
+   "anchor": "so with the shiny new knife that Flint gifted me, I carve into the rock",
+   "start": 3796,
+   "end": 3867
+  },
+  {
+   "fact": "Petra 爬上 fifteen-foot 蘑菇找到甲胄 fiend 的尸体，拉下左肩背甲后看见老鹰纹身，确认就是自己的父亲；她说自己当时想查正是因为担心 Jade 不喜欢。",
+   "anchor": "My dad had a tattoo of an eagle on his back.",
+   "start": 5855,
+   "end": 5899
+  },
+  {
+   "fact": "Petra 把父亲手腕上的表摘下（摘下时蹦子上有蚁、他摆掉蚁），表背刻着 \"With you every second, Love, Sapphire and Petra\"，她把表放进口袋，与罗盘放在一起。",
+   "anchor": "With you every second,\nLove, Sapphire and Petra",
+   "start": 7241,
+   "end": 7288
+  }
+ ]
+}

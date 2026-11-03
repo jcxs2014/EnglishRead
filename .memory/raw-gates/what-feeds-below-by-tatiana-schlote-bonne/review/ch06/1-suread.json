@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch06",
+ "text": "ch06_chapter_six.txt",
+ "facts": [
+  {
+   "fact": "救援站：Petra 说好友 Jade 被 cave angler pit 拖走、还在下面，向两名救援员求救",
+   "anchor": "My friend was dragged away in a cave angler pit.",
+   "start": 2161,
+   "end": 2209
+  },
+  {
+   "fact": "救援员女人报价：下到第三层救援费 six hundred，Petra 未预付押金另加 two-hundred-nox",
+   "anchor": "A rescue fee to the Third is six hundred,” the woman says.",
+   "start": 3328,
+   "end": 3386
+  },
+  {
+   "fact": "Petra 提出把家里全部 500 nox 积蓄（五 hundred nox）都拿出来给救援员救 Jade",
+   "anchor": "I have five hundred at home. I can go get it now.",
+   "start": 3236,
+   "end": 3285
+  },
+  {
+   "fact": "救援员以付不出钱为由赶 Petra 出门；Petra 骂他们无用，发誓自己下井救 Jade",
+   "anchor": "“You guys are useless.” I point at the rescuers. “I’m going to save her myself!”",
+   "start": 4017,
+   "end": 4097
+  },
+  {
+   "fact": "Petra 跑回孤儿院，用 two slow knocks, pause, three quick knocks 的孤儿暗号叫 Ms. Opal 开门",
+   "anchor": "two slow knocks, pause, three quick knocks",
+   "start": 5903,
+   "end": 5945
+  },
+  {
+   "fact": "Ms. Opal 从灰围裙口袋掏出一张 ten-nox 钞票塞给 Petra，Petra 说会还她",
+   "anchor": "She puts a ten-nox note in my palm.",
+   "start": 7406,
+   "end": 7441
+  },
+  {
+   "fact": "Petra 把采来的 tassala 交给 Ms. Opal，要她做成 lotion 给八岁的 Calcy",
+   "anchor": "Make it into a lotion for Calcy.",
+   "start": 12051,
+   "end": 12083
+  },
+  {
+   "fact": "Ms. Opal 警告 Jade 可能已死、劝 Petra 另找 dive partner；Petra 拒绝，坚持回去救她",
+   "anchor": "You can find a new dive partner, Petra.",
+   "start": 13545,
+   "end": 13584
+  }
+ ]
+}
