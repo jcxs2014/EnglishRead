@@ -1,0 +1,55 @@
+{
+ "book": "all-the-way-home-by-alex-ritany",
+ "chapter": "ch03",
+ "text": "notes/books/novels/all-the-way-home-by-alex-ritany/text/ch03_chapter_three.txt",
+ "facts": [
+  {
+   "fact": "1. Zach 自我盘点：过去一年毕业演讲台走过五百人面前没绊倒、谈成升职、独自搬去半个国家外都无事故，觉得不该被丢行李击垮，但还是被击垮。",
+   "anchor": "he graduated high school—even walked across the stage",
+   "start": 531,
+   "end": 584
+  },
+  {
+   "fact": "2. 咨询台零同情，只给一张表格：行李上有识别信息就能邮寄归还；Zach 感谢 Tove 对行李牌的偏执。",
+   "anchor": "If your luggage has identifying information on it",
+   "start": 2453,
+   "end": 2502
+  },
+  {
+   "fact": "3. 全家的圣诞礼物都在丢失的箱子里；妈妈式的话「不是礼物，是心意」在脑内回放，两手空空回家让他难过。",
+   "anchor": "His Christmas presents for the family are all in that suitcase",
+   "start": 2774,
+   "end": 2836
+  },
+  {
+   "fact": "4. Seth 语音邮件 (1) 弹出，Zach 想听（自嘲 masochistic），最终决定不点开——不让 Seth 回到他脑子里。",
+   "anchor": "He’s not letting Seth get back in his head",
+   "start": 3467,
+   "end": 3509
+  },
+  {
+   "fact": "5. Zach 猜想丢行李是 karma 报应或宇宙警告别上飞机；妈妈的预兆（omens）传说连表亲都晓得。",
+   "anchor": "Maybe his mom is right about karma",
+   "start": 4603,
+   "end": 4637
+  },
+  {
+   "fact": "6. Mara 已四个月只以语音和屏幕出现；Zach 边等边脑内回放 Delta 1086 在 LaGuardia 机鼻撞皱的照片——喜欢飞机是理论上，实际上宁可留在地面。",
+   "anchor": "she hasn’t been more than a voice in his ear",
+   "start": 4986,
+   "end": 5030
+  },
+  {
+   "fact": "7. 饮水机边 Kieran 重逢（Oh, it’s you），水瓶 leash 玩笑逗出对方一个响亮的笑；互问 zone（都是 2），Kieran 报座位 17D——正是 Zach 的 17E 旁边。",
+   "anchor": "I forgot my leash at home",
+   "start": 6654,
+   "end": 6679
+  },
+  {
+   "fact": "8. Kieran 问 Girlfriend? 后告退（see you on the plane）；Zach 确认自己很尴尬，把 Kieran 的滞留比作没理由有引力的流浪小行星。",
+   "anchor": "he’s hanging around like an errant asteroid",
+   "start": 10173,
+   "end": 10216
+  }
+ ]
+}
