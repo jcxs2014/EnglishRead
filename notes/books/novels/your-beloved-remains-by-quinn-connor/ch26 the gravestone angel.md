@@ -24,7 +24,17 @@ modified: "2026-11-03"
 
 **读者视角提示**：这是 Joan 全书第一次被 Celia 看见「全部」——不是论敌、不是学者，是个烂醉翻墙的学生。两人关系的地形图在此重测：谁看见谁的不堪，谁就先欠下一笔。
 
-> **原句 2:** ""I don't care." Somehow, it all slammed into me then. The existential horror of everything. The dark sins that seemed to hunt me out. They felt right on my heels. My whole body hurt, but the tears, the sob that racked me—I didn't feel that. I covered my face. "Honestly, I don't care.""
+> **原句 2:** "You tossed a blanket at me then knelt there beside the couch, an angry little furrow between your eyebrows. "What did you take?" you asked. "Alcohol. What else? Cocaine?""
+
+**中文理解**：你朝我扔来一条毯子，然后跪在沙发旁，眉间拧着一条愤怒的小沟。「你吃了什么？」你问。「酒。还有什么？可卡因？」
+
+**关键词**：tossed a blanket / knelt there beside the couch / an angry little furrow / What did you take
+
+**为什么这样写**：照顾与审讯共用同一组动作——扔毯子是收容、跪下来是贴近，问出的却是药剂清单；「愤怒的小沟」泄露她气的是什么（差点死在自家坟场），而清单式的追问其实是急救手册的问法。
+
+**读者视角提示**：注意她不问「为什么翻墙」——那一刀留住了。Celia 的关怀从来只到身体为止，故事层面她一寸不进。这条线在 Act III 会成为两人争吵的旧账。
+
+> **原句 3:** ""I don't care." Somehow, it all slammed into me then. The existential horror of everything. The dark sins that seemed to hunt me out. They felt right on my heels. My whole body hurt, but the tears, the sob that racked me—I didn't feel that. I covered my face. "Honestly, I don't care.""
 
 **中文理解**：「我不在乎。」不知怎么，一切在那时砸进她：万事的存在性恐怖，那些似乎专门把她猎出来的黑暗之罪——它们贴着她的脚跟。全身都痛，可眼泪、那阵抽干她的呜咽——她感觉不到。她捂住脸。「说实话，我不在乎。」
 

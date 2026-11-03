@@ -48,7 +48,7 @@ modified: "2026-11-03"
 
 **中文理解**：这项天赋她玩了很多年——发表讽刺文，伪造信件。对她而言，它是天生的。可当她试图教这个时，感觉与学生之间隔着一道上锁的门。因为它终究不是一种被需要的技能。
 
-**关键词**：publishing satires, forging letters / innate / a locked door / not a desirable skill
+**关键词**：publishing satires, forging letters / innate / a locked door / a desirable skill
 
 **为什么这样写**：认罪状写得像履历——两个犯罪名词（satires、forging letters）与「天赋」「天生」并肩排列，毫无悔意；「锁着的门」把教学的失败转成命定的孤独：这能力在现代社会里没有市场，也就没有同类。
 
