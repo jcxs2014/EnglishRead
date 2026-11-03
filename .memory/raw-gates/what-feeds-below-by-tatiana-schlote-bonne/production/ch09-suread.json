@@ -1,0 +1,127 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch09",
+ "text": "notes/books/novels/what-feeds-below-by-tatiana-schlote-bonne/text/ch09_chapter_nine.txt",
+ "facts": [
+  {
+   "fact": "插页：Diamond Dubios 因带着一堆偷来的尸骨被指为 surfacewalker、从第一层崖上抛下处死；后续调查证明她研究的是资深潜水员的骨质流失，成果换来维生素 D 骨粉补剂——文末仍写「surfacewalker 就在我们中间」。",
+   "anchor": "Twenty-one-year-old Diamond Dubios was accused of being a surfacewalker after she was discovered with an assortment of human bones stolen from the morgue. Believed to be performing a ritual to maintain her human skin, she was found guilty and thrown off the cliffs of the First Layer. It was assumed that if she truly was a surfacewalker, she would live. Diamond Dubios did not survive the fall. Further investigation revealed that Ms. Dubios was studying bone loss in seasoned Void divers. We now have her research to thank for the development of Diamond-Strong Vitamin D Bone Supplements. But do not let this one botched case deter you. The surfacewalkers are among us. The truth lies at the bottom of the Void.",
+   "start": 46,
+   "end": 759
+  },
+  {
+   "fact": "Henry 的遗骸覆满发光蛆虫、洞穴蚂蚁排成纵队搬走焦肉，鞋面被吃掉只剩鞋带。",
+   "anchor": "In the center of the cavern, Henry’s remains are covered in glowing Void maggots. They’ve even eaten through the leather on his shoes, leaving nothing but the laces. Cave ants march in tight lines, carrying chunks of charred meat in their pincers. The whole sight makes me itchy.",
+   "start": 1063,
+   "end": 1342
+  },
+  {
+   "fact": "Petra 担心 Flint 体型太宽卡在窄道——她承受不了两个人都需要救援。",
+   "anchor": "The opening is only a few feet in diameter, and Flint is bigger than me and Jade. I can’t have two people needing rescue. “It’s a tight squeeze. What if you get stuck?",
+   "start": 1643,
+   "end": 1810
+  },
+  {
+   "fact": "同一条隧道这次并不觉得紧，说明上一次的窒息感是恐慌放大的。",
+   "anchor": "My panic must’ve been making the whole thing seem more claustrophobic than it really is.",
+   "start": 2446,
+   "end": 2534
+  },
+  {
+   "fact": "Death Pools：水清色艳、蒸汽缭绕，酸性液体能把落入的一切溶化。",
+   "anchor": "The path ahead is obstructed by dozens of steaming pools. The water is clear, the rocky formations beneath the surface shades of vibrant yellows and greens. It’s beautiful, the bright colors under the water and the steam in the air giving the whole place a fantastical glow. If you didn’t know better, you’d think the pools look inviting, but in reality, their acid liquifies anything that falls in. They’re people-soup makers.",
+   "start": 5305,
+   "end": 5732
+  },
+  {
+   "fact": "她把头灯从红光切到白光射向两人面部，Ruby 抬手遮眼——而 Litheo 毫无反应，说明他已失明。",
+   "anchor": "I raise my hand to my headlamp, clicking the dial to change my light from red to white. The bright light blasts the pair in their faces. Ruby throws her hands up to shield her eyes.",
+   "start": 9026,
+   "end": 9207
+  },
+  {
+   "fact": "Litheo 瞳孔里长出绿色菌柄、唇颏皮肤叠成珊瑚状，正是书上画的 fiend 感染晚期。",
+   "anchor": "Thin green mushroom stalks a few inches long. His lips and chin are ruffled, the skin layered in folds like coral. I’ve never seen this in person before, but he looks exactly like the illustrations from my books⁠—the late-stage signs of fiend infection.",
+   "start": 9412,
+   "end": 9665
+  },
+  {
+   "fact": "Litheo 亲手把眼中的菌柄连根拔出，留下两个锯齿状的洞。",
+   "anchor": "“Don’t!” Ruby shouts, but Litheo’s already pulling. The stalks slowly slide out of his eyes, coated in blood and gelatinous fluid. With a suctioning sound that’s going to haunt me forever, he tugs out the mushrooms. The six-inch stalks fall to the ground, the roots a bundle of wiggling tendrils. He turns toward us, two jagged holes where his irises were, blood streaming down his cheeks.",
+   "start": 10716,
+   "end": 11105
+  },
+  {
+   "fact": "他跌进酸池，手指的肉被溶脱、骨头先软后弯。",
+   "anchor": "Litheo’s trying to climb out of an acid pool, but his hands slip on the rocks as the flesh sloughs off his fingers. His bones scrape the hard ground before they go soft, bending backward like noodles.",
+   "start": 11556,
+   "end": 11756
+  },
+  {
+   "fact": "Ruby 徒手把 Litheo 拖出酸池，自己的手也被酸灼出血，跪着看伴侣溶化。",
+   "anchor": "shrieking as she pulls him out and onto the ground. What’s left of his eyes has gone brown and thick, like overcooked poached eggs. Ruby kneels beside Litheo, her own hands bleeding from the acid as she watches her partner dissolve.",
+   "start": 11848,
+   "end": 12080
+  },
+  {
+   "fact": "Flint 的反应是骂这座坑：他们本要杀他们、拆他的机械腿卖钱。",
+   "anchor": "Flint shudders, then kicks a rock. “But they were planning to kill us and steal my leg. Man, fuck this place.”",
+   "start": 13008,
+   "end": 13118
+  },
+  {
+   "fact": "Petra 坚持现在就服抗真菌药——fiend 孢子可经空气传播。",
+   "anchor": "“I’d rather take them now.” I reach into the side pocket of my backpack, pulling out the medicine pouch.",
+   "start": 13955,
+   "end": 14059
+  },
+  {
+   "fact": "她推断两人是用不起正规药的常客：仿制药有效成分弱得多，等 Litheo 察觉已太晚。",
+   "anchor": "“The ingredients in knockoff antifungals are way weaker. So if Litheo walked through a patch of fiend spores without noticing and then didn’t try to treat symptoms until they were already advancing. . . .” I shudder. “Yeah, they were screwed.",
+   "start": 14801,
+   "end": 15043
+  },
+  {
+   "fact": "Voidling 基地的三层楼歪斜欲倒，靠金属箍住的巨兽长牙当支撑梁撑着。",
+   "anchor": "The building’s stacked precariously to the side and looks like it might fall over, but the tusks of some giant beast are encased in metal rings and welded in as support beams, and they seem to be doing a good job of keeping the whole thing together.",
+   "start": 16021,
+   "end": 16270
+  },
+  {
+   "fact": "基地外圈埋有地雷，木牌警示，地上留着烧焦的靴子和断踝。",
+   "anchor": "Posted wooden signs read “Stay on the path! Beware of mines!” Dried blood, fur, and exploded bones that look too big to be human litter the ground, along with a pair of burnt boots with severed ankles still inside.",
+   "start": 16874,
+   "end": 17088
+  },
+  {
+   "fact": "门口的 Voidling 守卫做 fiend 感染检查：照眼看瞳孔反应，用触角嗅她脸上的孢子。",
+   "anchor": "The Voidling clicks on a flashlight. “Fiend-infection check.” She shines the light in our eyes, making sure there’s nothing growing in there and that our pupils respond. One of her antennae grazes my cheek, covered in prickly hairs that tickle. I bet she is smelling me with it, searching for fiend spores.",
+   "start": 17760,
+   "end": 18066
+  },
+  {
+   "fact": "酒馆墙上挂着战利品：tombstepper 的三个头、空洞蜘蛛的外骨骼，以及一颗无眼人头，牌子上写「我早说过死后把我挂在这儿」。",
+   "anchor": "Trophies hang on the walls: the three heads of a taxidermy tombstepper, an exoskeleton of a hollow spider, a leathery eyeless human head with a sign above: “I told them to hang me in the tavern when I die.”",
+   "start": 18894,
+   "end": 19100
+  },
+  {
+   "fact": "酒客议论：科学家若肯下功夫，也许能让 Voidling 重新在地表活下来。",
+   "anchor": "“I’m just saying, if they really tried, those scientists could probably find a way to make it so us Voidlings could survive on the surface again.”",
+   "start": 19133,
+   "end": 19279
+  },
+  {
+   "fact": "一个自愿留下的 Voidling 服务员劝两位女游客：他在地表时是推销员，如今有工时、有陶艺、有身孕的伴侣。",
+   "anchor": "“Expecting our firstborn next month⁠—click, click. So, what I’m saying is, you can have a life down here. Might even be better than the one you’ll be leaving up top. Click.”",
+   "start": 22401,
+   "end": 22574
+  },
+  {
+   "fact": "第七号门把手转动，绿眼睛、栗色头发的女孩站在门后——末行是「Jade.」。",
+   "anchor": "But the doorknob turns, and a green-eyed, auburn-haired girl stares back at me.",
+   "start": 23695,
+   "end": 23774
+  }
+ ]
+}
