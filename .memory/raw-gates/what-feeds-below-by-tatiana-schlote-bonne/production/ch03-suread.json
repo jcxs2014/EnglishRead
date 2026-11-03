@@ -1,0 +1,55 @@
+{
+ "book": "what-feeds-below-by-tatiana-schlote-bonne",
+ "chapter": "ch03",
+ "text": "notes/books/novels/what-feeds-below-by-tatiana-schlote-bonne/text/ch03_chapter_three.txt",
+ "facts": [
+  {
+   "fact": "Petra 的脚一落地第二层，Void tracker 的第二格就亮了；她一边问被 Jade 放进来的 Henry 状况如何，一边等他站稳。",
+   "anchor": "The moment my feet touch the ground of the Second Layer, the second gauge on my Void tracker lights up. “Almost there, buddy,” I say to Henry, who’s slowly being lowered down by Jade.",
+   "start": 367,
+   "end": 550
+  },
+  {
+   "fact": "第一支在头顶几百英尺采宝石的采矿队绳子断裂，人被下面的尖刺树戳穿，四肢被 Void 食腐动物啃光，只剩脊椎插在枝上——Spine Woods 因此得名。",
+   "anchor": "The rope supporting them snapped, and the miners were impaled by the trees below. Their limbs were scavenged by Void critters, leaving just their spines skewered on the branches.",
+   "start": 1594,
+   "end": 1772
+  },
+  {
+   "fact": "Jade 说这一带走势基本水平，并把 Void 比作夹奶油的蛋糕：层与层之间靠奶油里的洞漏到下一层，他们接下来要用一条竖井下到第三层。",
+   "anchor": "It’s pretty horizontal from here on out. Think of the Void like the layers of a cake, separated by frosting, and in that frosting are holes that leak into the next layer, like the Crag we just descended, or the chute we’ll use to get down to the Third.",
+   "start": 3123,
+   "end": 3375
+  },
+  {
+   "fact": "Petra 说变身 Voidling 至少要连续五百小时，各人体质不同算得不精确；按经验每在 Void 待一百小时就得回地表排毒十小时。",
+   "anchor": "Yeah, at least five hundred consecutive hours,” I answer. “The math is a little iffy, because each person’s body responds differently, but with the depth we’re going, we don’t need to worry about it. Divers who spend hundreds of hours in the Void have to spend a few days on the surface before they go in again. The general rule of thumb is ten surface hours to detox for every one hundred hours in the Void.",
+   "start": 9463,
+   "end": 9871
+  },
+  {
+   "fact": "Petra 分辨两类居民：Voidling 的变异不影响心智，基本还是长相古怪的人；fiend 的大脑则被真菌感染接管了。",
+   "anchor": "The Voidling mutations don’t affect the mind, so they’re basically weird-looking humans. But fiends? Their brains have been taken over by a fungal infection.",
+   "start": 10178,
+   "end": 10335
+  },
+  {
+   "fact": "hollow spider 从地面活板门伸出巨钳夹向 Henry 的腿，Jade 喷出 Beast-Away 红雾把它逼回地下，Henry 的裤子被划破、皮肤没受伤。",
+   "anchor": "Henry shrieks as I yank him back. Jade pulls out her Beast-Away Repellent Spray, blasting the red mist at the hollow spider. It hisses and disappears into the ground.",
+   "start": 14967,
+   "end": 15133
+  },
+  {
+   "fact": "Petra 采下 tassala 花装进挎包，指望《Field Guide of Void Botany》说的消炎效果能替孤儿院的 Calcy 止住皮肤上的痛。",
+   "anchor": "If The Field Guide of Void Botany is right⁠—and it hasn’t been wrong yet⁠—then the powerful anti-inflammatory effect of these flowers should bring Calcy back at the orphanage some real relief. I smile, imagining her playing without pain.",
+   "start": 17980,
+   "end": 18217
+  },
+  {
+   "fact": "四只干瘦苍白的手从地下环住 Henry 的脚踝把他拽进土里，他背包的带子被硬生生撕断在 Petra 手中。",
+   "anchor": "I grab Henry’s backpack just as four skinny, pale hands wrap around his ankles.",
+   "start": 22814,
+   "end": 22893
+  }
+ ]
+}
