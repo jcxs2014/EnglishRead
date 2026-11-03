@@ -1,0 +1,67 @@
+{
+ "book": "wrong-cabin-right-time-by-c-hallman",
+ "chapter": "ch16",
+ "text": "notes/books/novels/wrong-cabin-right-time-by-c-hallman/text/ch16_chapter_sixteen.txt",
+ "facts": [
+  {
+   "fact": "Sage 找零食拉开橱柜，看到整层标着「刀具保养日志」的本子，发毛回楼上。",
+   "anchor": "an entire shelf of notebooks labeled",
+   "start": 668,
+   "end": 704
+  },
+  {
+   "fact": "她搜他的家庭信息，翻了很久找到 Leah Blacksburg 的讣告，点进去看死因。",
+   "anchor": "an obituary for Leah Blacksburg",
+   "start": 1412,
+   "end": 1443
+  },
+  {
+   "fact": "死因是车祸：出事时他在车上、他活了下来，Leah 没有；她说不清是替他难过还是庆幸他与姐姐的死无关。",
+   "anchor": "A car accident. Travis was in the car with her",
+   "start": 1550,
+   "end": 1596
+  },
+  {
+   "fact": "她把线索连起来：小镇失踪人口、大量漂白水、夜闯 Ryan 家、行凶装束——在房里来回踱步爆粗。",
+   "anchor": "Missing people in a small town",
+   "start": 3621,
+   "end": 3651
+  },
+  {
+   "fact": "车库墙边灰防水布下是无数瓶漂白水，旁边成捆绳子与整包束线带。",
+   "anchor": "I hold my breath as I approach the tarp",
+   "start": 5244,
+   "end": 5283
+  },
+  {
+   "fact": "SUV 后备箱铺着塑料布；她认定是为处理证据更省事，胸口坠石几乎想吐。",
+   "anchor": "plastic sheeting",
+   "start": 5755,
+   "end": 5771
+  },
+  {
+   "fact": "走廊灯亮，他抱臂站着；她问「你是连环杀手吗」，他平静逼近反问「如果我是呢」。",
+   "anchor": "And what if I am?",
+   "start": 7141,
+   "end": 7158
+  },
+  {
+   "fact": "她追问会不会杀她的跟踪者，他答「是，我正计划着」；随后说「我不再打算杀你了」。",
+   "anchor": "I’m not planning on killing you anymore",
+   "start": 7803,
+   "end": 7842
+  },
+  {
+   "fact": "他拿束线带把她推进主卧：一根套她手腕、一根套自己、扣在一起——「今晚你跟我睡」。",
+   "anchor": "We approach his bed, and he wraps a zip tie around my wrist",
+   "start": 8884,
+   "end": 8943
+  },
+  {
+   "fact": "她整夜盘算逃生，最后成形一个「很坏、非常坏」但可能是唯一的主意。",
+   "anchor": "a bad idea, a really bad one",
+   "start": 10263,
+   "end": 10291
+  }
+ ]
+}
