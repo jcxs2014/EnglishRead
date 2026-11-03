@@ -83,6 +83,12 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - commit 34 个（b4fe24e37 → da5d27f72），未 push（待指令）。
 - 日志：.memory/daily/2026-11-03.md 本书专节。
 
+we-will-see-you-bleed-by-ron-currie T3 全量深审（2026-11-03，同会话深审·R1 子代理独立素读）：
+- 覆盖 21/21 章逐章 R1→R4（素读 168 条事实全命中）；四件套 84 件入库 review/ch01–ch21。
+- 机器层：gate EXIT=0 · overview quotes 62/62 · verbatim --full 301/301 · fragments 0 MISS · corruption 0。
+- 查出并整改 23 条阻断（S2 截短 20 + 补段 1 + 词形 1 + 译名 1），跨 12 章；9 章零修复；修复后全层复绿。
+- 指令与逐条改前/改后：raw-gates/<slug>/2026-11-03-复核与修复指令.md；台账已追加（档位 深）。
+
 ### [2026-11-03 17:34 UTC] [ZCode-Mac] → All
 
 ## 【新书归档】2026-11-03 批次：84 本新 epub 入库 notes/books
