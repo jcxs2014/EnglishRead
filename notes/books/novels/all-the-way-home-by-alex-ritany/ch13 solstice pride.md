@@ -20,19 +20,19 @@ modified: "2026-11-03"
 **为什么这样写**：闪回以自我辩护开场，但辩护词的漏洞由 ch11 预先埋好（hypocrite）——作者让「来不及想」与「没想过要说」并存，Rena 自己也分不清哪句是原因哪句是借口。"needed to be home" 重复两遍，家的引力第一次与 trauma 同框出现。
 **读者视角提示**：这段是 worst day 的引言页——注意它没说什么发生了，只说了她没告诉谁。
 
-> **原句 2:** "“He didn’t tell me,” she gasped, desperate for air, for the ache to stop."
-
-**中文理解**：「他没告诉我，」她喘着气说，拼命想要空气，想让疼停下来。
-**关键词**：He didn’t tell me / gasped / ache
-**为什么这样写**：六个词的引语是本阶段 worst day 的全部形状——一个代词、两个否定。作者不给「他」的名字，让这句话同时挂住 Kieran 与读者：她连崩溃的方式都是省略式的。呼吸与疼并列为需求（for air, for the ache to stop），把情绪写成生理事件。
-**读者视角提示**：这是本书抛出的第一块真相碎片——记住这个悬空的「他」，后文每次 Family 揭示都要回来对齐它。
-
-> **原句 3:** "Lucas was—and still is—one of the only people in Rena’s life who’d seen her cry, and every time it felt like the end of the world. She hates when overwhelm rips through her, sprouting between her ribs like ivy, choking until her eyes burned and there’s nothing she can do to stop the tears from spilling."
+> **原句 2:** "Lucas was—and still is—one of the only people in Rena’s life who’d seen her cry, and every time it felt like the end of the world. She hates when overwhelm rips through her, sprouting between her ribs like ivy, choking until her eyes burned and there’s nothing she can do to stop the tears from spilling."
 
 **中文理解**：Lucas 过去是——现在仍是——Rena 生活里见过她哭的极少数人之一，每一次都像世界末日。她痛恨失控涌上来的时刻：它像常春藤一样从肋骨间长出来，缠住她，直到眼睛发烫，她毫无办法阻止眼泪往外溢。
 **关键词**：seen her cry / overwhelm / like ivy
 **为什么这样写**：把哭泣写成入侵植物——ivy 从肋骨长出、掐喉、烧眼，作者用寄生物种给情绪障碍画像。Rena 的「不擅被触碰」在这句里升级成完整的感官系统：控制不了泪，就先控制拥抱（闪回里她放弃挣扎的瞬间因此更重）。Lucas 的档案权限（见过她哭）由此确立，也解释他后来每一次越界的底气。
 **读者视角提示**：这与 ch09 code orange 的发作描述同属一套病历——Rena 的身体有自己的警报分级。
+
+> **原句 3:** "“He didn’t tell me,” she gasped, desperate for air, for the ache to stop."
+
+**中文理解**：「他没告诉我，」她喘着气说，拼命想要空气，想让疼停下来。
+**关键词**：He didn’t tell me / gasped / ache
+**为什么这样写**：六个词的引语是本阶段 worst day 的全部形状——一个代词、两个否定。作者不给「他」的名字，让这句话同时挂住 Kieran 与读者：她连崩溃的方式都是省略式的。呼吸与疼并列为需求（for air, for the ache to stop），把情绪写成生理事件。
+**读者视角提示**：这是本书抛出的第一块真相碎片——记住这个悬空的「他」，后文每次 Family 揭示都要回来对齐它。
 
 > **原句 4:** "“She’s my daughter, she’s run off, and I just—” Frantically, the woman scans the terminal around them. “Her name is Angie.”"
 
