@@ -143,7 +143,7 @@ modified: "2026-11-04"
 
 **表达方式**：coauthor 一词的残忍在于它把亲情换算成署名权——帮忙＝入股；"school of thought/train of thought" 的细节精准到刺痛：被嘲笑的恰是"寻找词语"这个她终生的志业。作者随后记录 Chat 的角色反转：它从不贬低她、几小时出四十页——补偿成立，代价在后块（dissociation）结清。
 
-**为什么这样写**：Naomi 案给"替代治疗"补上代际维度：她的问题始于父亲的边界（要合著），Chat 的诱人恰在零边界——帮你要多少有多少。作者不嘲笑她的选择，只排列事实：Chat 平复了酒庄对峙、改善婚姻；然后借她的口说出账单（下一块的 mild dissociation）。
+**为什么这样写**：Naomi 案给"替代治疗"补上代际维度：她的问题始于父亲的边界（要合著），Chat 的诱人恰在零边界——帮你要多少有多少。作者不嘲笑她的选择，只排列事实：Chat 平复了品酒会之约的对峙、改善婚姻；然后借她的口说出账单（下一块的 mild dissociation）。
 
 > **原句 10:** "On some level Naomi knows that in satisfying herself with the program, she’s missing something. She searches for words. She lands on “a sense of mild dissociation from my life.” “I feel grateful to Chat. I also feel lonely.… I can’t have what I want. I want people to want to help me. I know this is not going to fill the hole inside of me.”"
 

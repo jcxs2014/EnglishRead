@@ -19,7 +19,7 @@ modified: "2026-11-04"
 
 | 证据 | 类型 | 支撑什么 |
 |---|---|---|
-| Paula：分析师一夜交付 AI dossier；她怀念 tactile 的数据与长出的直觉；研究佐证——chatbot 使"语言、视角、推理"同质化 | 案例＋研究 | 委托省下的是"rote work"，丢掉的是第二阶收益（critical thinking） |
+| Paula：初级分析员一夜交付 AI dossier；她怀念 tactile 的数据与长出的直觉；研究佐证——chatbot 使"语言、视角、推理"同质化 | 案例＋研究 | 委托省下的是"rote work"，丢掉的是第二阶收益（critical thinking） |
 | "human in the loop" 的语义降级（旧职被委托、新职是拔插头——fail-safe mechanism） | 概念分析 | 制度话术如何粉饰降职 |
 | Donald：AI 自动纪要把真怒记成"有疑问"，他不报错（怀疑者＝losers）；Sonnenberg：partner→leader、AI 过夜定战略 | 案例 | 一线与高层的处境分裂；效率哲学无损失感的账本 |
 | 医疗组：Beacon（纸笔年代的诊断直觉）／Danica（新生 copy-paste 病历，"don't own the conclusions"）／Mayo 的 iDoctor 双胞胎／戒瘾 chatbot 建议"一点点冰毒当奖励" | 案例 | 委托侵入判断力训练与身家性命场域 |
@@ -45,7 +45,7 @@ modified: "2026-11-04"
 
 **关键词**：In retrospect / made the data feel almost tactile / develop intuitions / different variables
 
-**表达方式**：tactile 是本章的第一个隐喻锚点：手敲进去的数据带着手指的记忆，直觉是身体长出来的；与分析师"次日早晨交付的 dossier"对照——快与慢、委托与亲手，效率差价被翻译成两种知识论。Paula 随后的自白（也许该把 rote work 留给年轻人）是本案例的开放结尾。
+**表达方式**：tactile 是本章的第一个隐喻锚点：手敲进去的数据带着手指的记忆，直觉是身体长出来的；与初级分析员"次日早晨交付的 dossier"对照——快与慢、委托与亲手，效率差价被翻译成两种知识论。Paula 随后的自白（也许该把 rote work 留给年轻人）是本案例的开放结尾。
 
 **为什么这样写**：作者把最技术性的行业放在章首，且不写 AI 的失败而写它的成功——dossier 确实又快又好。风险被藏进成功里：当"整件任务"都可委托，就没有任何一道工序在替从业者长骨头。这个不安（hesitates to call this a success story）定下全章的问题意识。
 

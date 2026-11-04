@@ -153,7 +153,7 @@ modified: "2026-11-04"
 
 **表达方式**：作者自曝叙事策略的陷阱（极端个案吸走注意力）再自己跳出——这比直接谈"轻度用户也有害"更可信；undermines our capacity 的 our 把读者无一例外地卷入，本段是全书从"他们"（受害者）转向"我们"的枢纽之一。
 
-**为什么这样写**：本章若是悲剧集，读者会合上书说"管好孩子就行"；作者在此把命题升级为结构性伤害——陪着你的那个东西，无论你是否有危机，都在改变你依恋的形状。这为下一章（Love）与全书结论（守住人的领域）预付了论证。
+**为什么这样写**：本章若是悲剧集，读者会合上书说"管好孩子就行"；作者在此把命题升级为结构性伤害——陪着你的那个东西，无论你是否有危机，都在改变你依恋的形状。这为后面的 Love 章与全书结论（守住人的领域）预付了论证。
 
 > **原句 11:** "In childhood and adolescence, a chatbot best friend isn’t going to teach you about empathy; a chatbot boyfriend won’t teach you about intimacy; a chatbot teacher won’t teach you to value yourself as a learner. With chatbots, the processes that cause harm are intrinsic to the tool. We don’t need guardrails, but a new contract, new first principles for thinking about AI."
 
