@@ -1,0 +1,91 @@
+{
+ "book": "the-art-of-inquiry-by-andrew-taggart",
+ "chapter": "ch06",
+ "text": "notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/text/ch06_4_on_the_need_for_speculative_philosophy.txt",
+ "facts": [
+  {
+   "fact": "Critchley 在 2011-01-26 NYPL 赞助、New School for Social Research 的活动上宣称「哲学的任务是不虔与败坏」；场合是 James Miller《Examined Lives: From Socrates to Nietzsche》月末发布；panel 题为 Does Philosophy Still Matter?；他的语气平静（believing 少数派立场）、情绪 melancholy 兼 anxiety",
+   "anchor": "The task of philosophy is impiety",
+   "start": 90,
+   "end": 123
+  },
+  {
+   "fact": "provocateur（Socratic gadfly / Spinozistic heretic / Sartrean militant）已成过去；Roger Kimball 的 tenured radical 评语 eloquent 又 misleading——tenured in some cases, radical in name only；May 68 不再是 philosophy in the streets 而是 Wikipedia entry（需 fact-checking and disambiguation）；aged anarchist 只能在每部 monograph 里喂养他对 statism 与 capitalism 的怨恨，并嫉妒更成功的对手 the theoretician",
+   "anchor": "tenured radical",
+   "start": 1300,
+   "end": 1315
+  },
+  {
+   "fact": "理论家形象古已有之：Diogenes Laertes《Lives of Eminent Philosophers》讲 Presocratic Thales 在星空下 walk、musing the cosmos 时落井；老妇人说：脚下都看不见，怎能知晓诸天；寓意不是 absentmindedness 缠身沉思者，而是理论精通可能与 living well 无关、更甚者会 preclude sharing the world with others",
+   "anchor": "Thales",
+   "start": 2171,
+   "end": 2177
+  },
+  {
+   "fact": "灵魂治疗者形象（Stoics、Epicureans、Pyrrhonian skeptics）：logic 与 physics 皆为按自然生活服务——metaphysics/logic 是 ethics 的 handmaidens；Marcus Aurelius《Meditations》三重训练：把 good/bad 保留给力所能及者、欲求事件如其发生、依义务并为人类之故行动；ethics 达其使命=bring harmony within and without；philosophy=art of consolation；哲学家终极义务=忠于 conversion experience（lifelong rational quest，prone to relapses）",
+   "anchor": "Marcus Aurelius undertook a threefold discipline",
+   "start": 6290,
+   "end": 6338
+  },
+  {
+   "fact": "二战后 reason 陷入 ineffectuality dilemma：一端 instrumental/utilitarian 理性「太好用」——Leninism/Stalinism 下个体尊严被 utopian calls for sacrifice 压倒；utilitarianism 亦然——McEwan《Atonement》里政府官员 Jack Tallis 的算术笔记：每吨炸药按 50 伤亡乘数、两周 10 万吨炸弹=五百万伤亡；bureaucratic rationality 底下是 sociopath 的冷算——reason 的 humility 与 modesty 何在；另一端 MacIntyre《After Virtue》：西方公共生活的深刻道德分歧 imply 无终答——consensus 靠 stealth、利益结盟与 luck；在 dignity、无谓苦难、climate change、common good 等急迫议题前，reason 在 theodicean immoralism 与 stuttering imbecility 间摇摆 → reason 权威衰落源于无力回答 contingency and transience；Atoms not gods → tragic world + nihilism 问题",
+   "anchor": "After World War II, reason is mired",
+   "start": 10014,
+   "end": 10049
+  },
+  {
+   "fact": "三种时代：stoic age 拥抱 amor fati（对一切存在的爱之倾泻）——每个事件 divine ordained 皆有理由、且认为超越有限自我达 a view from nowhere（final view of the cosmos）既可行又可欲；finitude 只是视角有限，infinitude 才是人的真态——但我们 rejected providence、lost faith、无法越过 individuation 原则、cannot tolerate metaphysics",
+   "anchor": "as one that embraces amor fati",
+   "start": 12445,
+   "end": 12475
+  },
+  {
+   "fact": "utopian dispensation 基于 self-assertion 原则——意志之力使世界合乎我们的愿望；弥合 is 与 should be 之隙是 political radicals 的任务；但过去两百年 utopian experiments 的 chief historical lesson：collective will 不能 transform reality 除非 resorting to terror；wholesale social engineering 的灾难实验已入历史与社会想象；我们 now too timid、too chafed and chastened、too accustomed to our own fallibility",
+   "anchor": "utopian",
+   "start": 10330,
+   "end": 10337
+  },
+  {
+   "fact": "Adornoian twist：某种哲学（其工具是某种理性）今天更重要而非更不重要；Nietzsche：苦难须被赋予意义才能承受 → speculative philosophy=reason 寻求满足的不可或缺活动；philosophy today = inquiry tied to life not theory——真正 philosophizing 始于特定语境中具体而有概念分量的问题；practical philosophy begins in horror, not in wonder；motivated by necessity not choice；action alone won't do（utopian block）+ 逼迫不去（stoical impulse）时我们被迫检视自己在社会世界的立足点；world shorn of chance 则 speculative 无用——我们的世界有 chance 故不可或缺",
+   "anchor": "practical philosophy begins in horror",
+   "start": 15606,
+   "end": 15643
+  },
+  {
+   "fact": "自然不义第一形式=desire 与 satisfaction 切断：psychodynamic theory——child 发现 Reality Principle 时成熟：愿望不合现实、instincts/demands 未满足迫使她承认观念没有让欲望成真的魔法属性、will 不绝对；make or remake the world in her own image 的企图终将撞上 ontological recalcitrance；caretakers 的 refusal 象征一个并非所有欲望都能满足的世界；世界不按她的意愿存在与持续",
+   "anchor": "Reality Principle",
+   "start": 17857,
+   "end": 17874
+  },
+  {
+   "fact": "第三形式=second-order desires 的失败（我们最在乎者会 perish）：Schopenhauer——作为 individual egos 我们无法想象自己的死亡（把 extinction 立置于 mind's eye），尽管 death 比我们能构想的一切都更 metaphysically real；Aristotle《Poetics》：英雄最珍视的行动伴随 dramatic irony——观众预见灾难而英雄不能，只能 love what he is committed to bringing about 而后迟一两拍反思；任何配得上名字的 commitment 无 buyer's remorse 可退；commitment 要求同时相信两件 non-negotiable 事（关系/计划实践上可能+我全押自我）；悲剧性回溯教育= realization：世界不如其可能 + 我不是我真想成为的那种人 → horrified、甚至 disgusted with myself",
+   "anchor": "buyer’s remorse",
+   "start": 21260,
+   "end": 21275
+  },
+  {
+   "fact": "Exhibit B：美国医疗系统立足 19 世纪自主个体观；2009 年 Suleman 在领 disability payments 且照顾六个孩子时做 IVF 生下 octuplets；doctor-patient consultations 里道德考量只停在「这是否她的选择」；whether her choice was choiceworthy（已有 sextuplets 的理性人会把生八胞胎视作 human flourishing 的 integral 部分？）seems to have fallen outside the bounds of medical deliberation；MSNBC 称 unconventional choice；Sandel 的 voluntarist self/unencumbered self——choosing faculty 第一重要而所择对象的 choiceworthy 退居次要；emerging adults（18-25 延后成人责任）是 voluntarist consciousness 的 embodiment、supermarket with too many choices 的悲剧人物（conservatives 叫 slackers，liberals 誉 free spirits）",
+   "anchor": "Nadya Suleman case",
+   "start": 24781,
+   "end": 24799
+  },
+  {
+   "fact": "alienation 三重 hydraulic：其一存在上彼此分离（I exist separately from you）；其二想象各异——把最好的自我设想为居于 room with a view；其三幻想更轻巧、更可控、方便即可丢弃的 attachments——social media 是这第三种的名字；Gyges、atomistic premises：Lilla——1960s 后政治话语采原子化前提；New Left 议程与 Reagan/Thatcherite 革命 seamless dovetail（private autonomy 的呼吁被 economic autonomy 接棒；sixties radicals=渴望摆脱政府 edicts 的 true liberals；Reaganites/Thatcherites=thoroughgoing libertarians 求逐利至上、推动 domestic economy 去管制）→ strange neoliberal consensus：negative freedom 宣扬同时 civil society 信任衰退 → Hegel 所言 objective spirit 的丧失——看不到个人/集体利益如何体现于政府与制度 → atomistic society、half-enlightened egoism 与 social alienation 泛滥",
+   "anchor": "social alienation is a hydraulic",
+   "start": 29086,
+   "end": 29118
+  },
+  {
+   "fact": "nihilism 第二时刻：不是不能 valuing（能）也不是没有对象（有）——而是 unsure 什么 merit 我们的 ultimate concern、什么 actions 值得发起以挂连更大的 intrinsic whole；对虚度人生的 preoccupation 是 nihilistic coin 的另一面；Maybe we're all prodigal sons；悲剧总括：自由地活在 unrestraint 观念下却不确定能否写出 ultimately fulfilling 的剧本；从头到尾是 individual 却各自流放；可纵容 wants 但 wanting what we should want 仍是 puzzle；能过任何所选的生活但 unclear 任何生活的 point 该是什么",
+   "anchor": "Maybe we’re all prodigal sons",
+   "start": 30328,
+   "end": 30357
+  },
+  {
+   "fact": "综观之路：early Hegel「dichotomy is the source of the need of philosophy」+ later Hegel「philosophy is its time comprehended in thought」=speculative philosophy 的起点与抱负；与 mysticism 共享 dilate the self 但方法迥异；hard-won consolation 非 self-deception——reorienting 使 self-conception 与 world-conception 双变；前文已升于三个 levels（historical：atomistic individualism；metaphysico-phenomenological：natural injustice；structural：loss of rational authority）再 descend——统摄诸层的概念=贯穿个人、制度、政治生活的 tragic sense；承认悲剧反而得安慰（Kantianly sublime 让位于 cognition）；从 particularity（This happened to me for no apparent reason）升至 generality（I can see how this happens to us），从 diagnosis 降至 reintegration（This is the world to which, for better or worse, I belong）——edge 被取出；但 nihilism 未除：两条件——MacIntyre 式 single telos（宽可各按其道、窄可分辨 well-led 与 wasted）+ common good 的伦理愿景（mutual commitment、civic participation、genuine friendship）；pluralism unleashed capacities 却 entrenched skepticism、atomism debarred common good 思考；conjecture：希望在于发展 philosophy of life（要素=self-examination，目的=self-integration）与锚定于 robust common good conception 的 public philosophy",
+   "anchor": "out of the disturbance",
+   "start": 33773,
+   "end": 33795
+  }
+ ]
+}
