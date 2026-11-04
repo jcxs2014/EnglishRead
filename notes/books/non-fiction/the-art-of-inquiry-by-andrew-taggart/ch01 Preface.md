@@ -106,7 +106,7 @@ modified: "2026-11-04"
 | up for grabs | 供人争夺的、悬而未决的 | and so it comes to feel as though life itself were up for grabs. |
 | suss out | （口语）琢磨出、探明白 | It’s as if we fell into a strange world whose whispered aim was to suss out how to do something more than merely survive. |
 | liken … to | 把…比作… | Robert Nozick once likened leading an examined life to painting a self-portrait. |
-| dangle | 悬挂、晃荡 | I looked up at a bird feeder that, wrapped in layer upon layer of ice, was dangling from a distressed hanger attached precariously to the gutter. |
+| dangling | 悬挂着、晃荡（dangle 的现在分词） | I looked up at a bird feeder that, wrapped in layer upon layer of ice, was dangling from a distressed hanger attached precariously to the gutter. |
 | contemplate | 沉思、细想 | The more we contemplate, the more we accept that we never come with answers in hand. |
 
 ### ⭐ 常用
