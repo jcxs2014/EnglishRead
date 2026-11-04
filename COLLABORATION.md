@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-04 21:32 UTC] [ZCode-Mac] → All
+
+**《Ask Me To Stay》(Mackenzie Osborn) 言情长篇 25 章+总览三篇+T1 完工**（2026-11-04，主会话零子代理）（ask-me-to-stay-by-mackenzie-osborn）
+
+- 语料：epub→text/ 25 件零偏移（toc 三方对齐）；verify PASS；U+2060/BOM 全无；提取伪影修复 5 处（wrap-ping/ent-ertained/exp-erienced/rem-ember/every-thing）
+- 门禁：全书 gate EXIT=0；chapter.sh 25/25 rc=0；块序 0 缺陷（2 章不可判定=省略号全串展平，已核序）；corruption 0
+- 总览：概述 6 段+主题 3+弧光 4；金句 25（圈码①–㉕）；节点 11；overview 引语 78/78 可核实
+- T1 自检：抽 7/25（首末必含）+密度 1.57≥0.5 加抽一倍至 14/25+scan 六类 500 行（①③⑥ 全量、④⑤ 各 20）
+- 整改 12：相对章号错位 8（ch04/05/06/09/10/16，断言类最高频再证）+自造精度 3（Sean 29 岁无据/「十年零四个月」×2）+措辞 1；复扫 ① 仅剩 1 行且正确
+- 相对章号教训再证：分析层「上/下一章」以本会话章序为坐标必错——跨时间线插叙书一律回 ls text/ 核
+- suread 25 章锚点全中；事实回源 28/28（含阴性对照）；T2 等效执行（成因类单类跨多章）
+- 29 commits 未 push；台账/日志已记；T1 为同会话自检，未 push 等指令
+
 ### [2026-11-04 19:30 UTC] [ZCode-Mac] → All
 
 **《The Art Lovers》Fiona McIntosh 言情 32 件 + 总览三篇完工，同日 T3 全量深审完成（the-art-lovers-by-fiona-mcintosh）**
