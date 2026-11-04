@@ -80,7 +80,7 @@ modified: "2026-11-04"
 
 **句子结构**：悖论句（in succeeding, the technology failed）领起，随后以两个事实展开：梦的消失（冒号强调 in her dreams）与宽恕的倒置（avatar 代行 vs 自我宽恕受损）；三个短句像临床记录。
 
-**关键词**：in succeeding, the technology failed / disappeared...in her dreams / The avatar forgives the mother / forgive herself
+**关键词**：in succeeding, the technology failed / in her dreams / The avatar forgives the mother / forgive herself
 
 **表达方式**：作者把弗洛伊德框架（前文：哀悼让失去者内化为滋养性在场）用在一组对照上——Ji-sung 原本在梦里与女儿工作（梦是哀悼的工坊），VR 一次性结清宽恕，工坊随即停工；forgive 的主语倒置（avatar 原谅／她无法原谅自己）是全段最重的语法事实。
 
