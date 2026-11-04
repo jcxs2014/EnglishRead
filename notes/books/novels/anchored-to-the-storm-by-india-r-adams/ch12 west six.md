@@ -112,6 +112,14 @@ modified: "2026-11-04"
 **为什么这样写**：超自然以体温计量——鬼魂不说俏皮话，只给一次拥抱；"until the lights disappeared" 的计时让灵异有了客座期限，伤感因此可量化。
 **读者视角提示**：与 Seb 的"closer than ever before"（ch05）呼应——Blue 的存在感在本章完成第二次显影。
 
+
+> **原句 15:** "Today was the anniversary of a school shooting, and I didn’t think there could be anything worse in the world."
+
+**中文理解**：今天正是那起校园枪击案的周年忌日——Gage 本以为世上不会有更糟的事了。
+**关键词**：anniversary / school shooting / anything worse
+**为什么这样写**：ch11 章末那枚"忘了今天是哪天"的引信在此引爆——木僵、噩梦与守夜夜全被同一页日历串起；"以为不能更糟"的措辞是本书惯用的死亡旗，后半句立刻应验。
+**读者视角提示**：日期闭环完成——Sarah 的创伤纪念日、Blue 的守夜夜与随后的血案共用同一夜，悲伤在这本书里从不排队。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

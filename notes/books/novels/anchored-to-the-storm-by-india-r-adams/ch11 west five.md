@@ -105,6 +105,21 @@ modified: "2026-11-04"
 **为什么这样写**：遗忘被设置成叙事漏斗——她的记忆被伤痛占满，日历反而失守；"whispering" 的低音量让真相以耳语抵达，比宣布更疼。
 **读者视角提示**：下章将揭晓这个"周年"是谁的忌日——章末两个词是一枚延时引信。
 
+
+> **原句 10:** "As she flipped through it, I saw the name JOHNNY WATTS on the cover in black ink."
+
+**中文理解**：Kristen 翻动那份厚档案时，Sarah 看见封面黑字写着 JOHNNY WATTS。
+**关键词**：flipped through it / the name JOHNNY WATTS / in black ink
+**为什么这样写**：社工的档案第一次在 Sarah 面前打开——被领养的不是一个人，而是一份可以用黑墨水写就的卷宗；"Johnny" 被钉成官方用名，纸面身份与私人记忆从此分家。
+**读者视角提示**：真名 Maddox Gentry 的悬念要等 Sarah 自己在 ch16 从花语记忆里拼出——卷宗封面与少年记忆的对账是这条线的两半。
+
+> **原句 11:** "She finally admitted, “I was told all danger would follow him.”"
+
+**中文理解**：她终于承认：她被告知，所有的危险都会跟着他。
+**关键词**：finally admitted / all danger / follow him
+**为什么这样写**：Kristen 的沉默条款第一次给出理由——危险不在 Johnny 身上，而在"跟着他走"这条规律里；被动语态（I was told）暴露她也只是被告知者，链条上游还有人。
+**读者视角提示**：回看 ch10 的酒驾者之死与守夜夜的警报——"跟着他"的账单已经付过两次，这句话是它的总说明。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

@@ -105,6 +105,21 @@ modified: "2026-11-04"
 **为什么这样写**：建筑即是誓文的形状——半岛、单进单出，地理被读成契约条款；短句急促如心跳漏拍，神话与 MC 的合流在选址上完成。
 **读者视角提示**：回看 ch01 的后院与海堤——这个半岛从来不只是防御工事，它是一道活的封印。
 
+
+> **原句 14:** "Don’t worry. Gramps is only one man, so a few got away to breed more."
+
+**中文理解**：Styx 摆摆手让孙子别急——爷爷只是一个人，所以留了几个活口，好让他们继续繁衍。
+**关键词**：Gramps is only one man / a few got away / breed more
+**为什么这样写**：本句轻描淡写地承认了一场持续多年的猎杀——Styx 一直在亲手清账，白柜里的漂白水是他的工具；"留活口繁衍"的黑色幽默把私刑说成狩猎管理，狠意全在平静里。
+**读者视角提示**：回看 ch09 的白色橱柜——"White for bleach. Made sense to me." 的谜底在此兑现；Maddox 接的下一句 "Good" 说明他把剩下的份额认领为遗产。
+
+> **原句 15:** "Styx looked and sounded sad when he said, “Until I die.”"
+
+**中文理解**：Styx 神情与声音都透着悲伤地说：直到我死。
+**关键词**：looked and sounded sad / Until I die
+**为什么这样写**：全书最重的誓言只有三个词——他刺伤一位神换来的义务没有卸任期； sadness 同时给忠诚与枷锁定价，这条以命为限的誓词是 Styx 一切粗口玩笑的地基。
+**读者视角提示**：与 ch08 的代守两界、ch09 的守护门连读——同一个誓言的三种说法在此归一。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
