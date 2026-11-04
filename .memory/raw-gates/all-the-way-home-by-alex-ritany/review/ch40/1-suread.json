@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Rena 向 Sahar 承认，她早就知道弟弟 Kieran 状态不好，却一直没有留意、也没有开口问。",
+    "anchor": "I knew he wasn’t doing well, I just—I wasn’t looking.",
+    "start": 512,
+    "end": 565
+  },
+  {
+    "fact": "出事那一夜，Rena 先拨打了 911，之后才去通知妈妈，穿着湿透的袜子站在那里。",
+    "anchor": "She’d called 911 before she even called for Mum",
+    "start": 702,
+    "end": 749
+  },
+  {
+    "fact": "Kieran 在医院病床上摇着头，让姐姐 Rena 不要认为这件事是她的错。",
+    "anchor": "Don’t think it’s your fault.",
+    "start": 1209,
+    "end": 1237
+  },
+  {
+    "fact": "从病房回来后，两人照常返校，但 Kieran 完全不再微笑，像是停止伪装的同时也失去了全部斗志。",
+    "anchor": "except that Kieran stopped smiling completely",
+    "start": 1402,
+    "end": 1447
+  },
+  {
+    "fact": "Rena 想象自己与 Lucas 同居、成双成对、最终步 Siobhan 与 Oscar 后尘的未来时，终于给那股揪紧的情绪命名：dread（恐惧）。",
+    "anchor": "she can name it.\n\n\nDread.",
+    "start": 4012,
+    "end": 4037
+  },
+  {
+    "fact": "Sahar 对 Rena 说 Lucas 未必会被压垮，提出另一种可能：也许这会让他自由。",
+    "anchor": "maybe it’ll set him free.",
+    "start": 4172,
+    "end": 4197
+  },
+  {
+    "fact": "Sahar 说她已经和父母谈过，家里要替她改签航班，她准备离开机场。",
+    "anchor": "we’re going to rebook my flight.",
+    "start": 6053,
+    "end": 6085
+  },
+  {
+    "fact": "Rena 说她还不知道该怎么处理和 Lucas 的事，但无论做什么，都得先和哥哥谈一谈。",
+    "anchor": "But whatever it is, I need to talk to my brother first.",
+    "start": 7322,
+    "end": 7377
+  }
+]

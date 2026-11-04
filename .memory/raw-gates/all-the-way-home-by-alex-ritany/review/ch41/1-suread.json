@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "在黑暗的走廊里，Zach 看着 Kieran 以剪影般的身影轻步沿走廊向前走。",
+    "anchor": "Kieran is a silhouette moving down the corridor",
+    "start": 155,
+    "end": 202
+  },
+  {
+    "fact": "Zach 的手表在 10 点整发出提示音；他对 Kieran 说，从他们本该起飞算起已经快 11 个小时。",
+    "anchor": "watch beeps—10 o’clock",
+    "start": 1365,
+    "end": 1387
+  },
+  {
+    "fact": "Kieran 翻过手找到 Zach 的手指，握了一下，说「你是真的」。",
+    "anchor": "squeezes once",
+    "start": 5545,
+    "end": 5558
+  },
+  {
+    "fact": "Kieran 口袋里的手机响起，他退开掏出手机看屏幕，告诉 Zach 是 Rena。",
+    "anchor": "It’s Rena.",
+    "start": 10116,
+    "end": 10126
+  },
+  {
+    "fact": "Rena 发消息问 Kieran 能不能过去见她，Kieran 说既然她直接开口问，那一定严重，Zach 便让他去。",
+    "anchor": "Must be, if she’s outright asking.",
+    "start": 10998,
+    "end": 11032
+  },
+  {
+    "fact": "Kieran 两步跨近，猛烈地吻 Zach，Zach 的头撞到了窗玻璃上。",
+    "anchor": "Zach hits his head on the window",
+    "start": 12077,
+    "end": 12109
+  },
+  {
+    "fact": "Kieran 再次看手机后脸上的笑意一下子消失，说「是严重的事」。",
+    "anchor": "It’s serious",
+    "start": 13964,
+    "end": 13976
+  },
+  {
+    "fact": "Zach 说「我没有要去哪里」，Kieran 笑着说「我会拿这句话要求你」。",
+    "anchor": "I’m going to hold you to that.",
+    "start": 14148,
+    "end": 14178
+  }
+]
