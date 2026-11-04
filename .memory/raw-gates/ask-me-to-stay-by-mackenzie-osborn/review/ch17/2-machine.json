@@ -1,0 +1,354 @@
+{
+  "chapter": 17,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/ch17 lego heart.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/text/ch17_17.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It’s ridiculous and naive of me, but I daydream about Sean showing up at my house or even while I’m working. Not on a wh",
+          "ok": true,
+          "pos": 733
+        },
+        {
+          "text": "I just want him to come back for me. He’d come with tulips in hand and take me away with him",
+          "ok": true,
+          "pos": 873
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "He sent me a box not too long ago. He put a sweatshirt in, and a bottle of his cologne. Part of me thinks he does these ",
+          "ok": true,
+          "pos": 966
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I’ve fallen asleep on FaceTime with him once or twice. Even when I sleep, he keeps the call going, and he’ll watch me. S",
+          "ok": true,
+          "pos": 1994
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He grabs the two lego pieces and places them on top of one another. As they connect, it creates a heart. Oh. “It’s so yo",
+          "ok": true,
+          "pos": 8592
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Sean,” I pause. “I’m sorry, we can’t kiss.” I recoil slightly, regretting the words already. He gets me this sweet sent",
+          "ok": true,
+          "pos": 8818
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Because you’re leaving again. I don’t want to feel the same pain I did the first time. It’s easier this way.” Or so I’m",
+          "ok": true,
+          "pos": 9377
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "We’re just a couple of kids. What do we know about love? We don’t know a thing about commitment. It seems so naive to ev",
+          "ok": true,
+          "pos": 10299
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“This isn’t goodbye, remember, try until I die.” He opens the car door and gets out. He holds his head down to see me on",
+          "ok": true,
+          "pos": 11007
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Kiss me,” I request. One last time. He stares at me for half a second before climbing back into the car, shutting the d",
+          "ok": true,
+          "pos": 11241
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“I love you so much,” he repeats. I love you too. I’m sorry, Sean",
+          "ok": true,
+          "pos": 11539
+        }
+      ],
+      "words": 14
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.59
+      }
+    }
+  ],
+  "form": {
+    "h1": "17. Chapter 17（December, Ten Years Earlier）",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10,
+    "block_range": [
+      7,
+      10
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 11,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2309,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 24 章中位 10、最高 10（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

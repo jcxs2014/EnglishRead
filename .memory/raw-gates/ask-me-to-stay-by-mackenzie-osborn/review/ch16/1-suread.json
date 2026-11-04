@@ -1,0 +1,43 @@
+{
+ "book": "ask-me-to-stay-by-mackenzie-osborn",
+ "chapter": "ch16",
+ "text": "notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/text/ch16_16.txt",
+ "facts": [
+  {
+   "fact": "贝莉深夜从父亲家驾车回家，结冰路面让车打滑失控，滑进沟里猛烈撞上树，玻璃飞溅、前额出血、右脚踝扭伤，独自被困无人经过",
+   "anchor": "My car slides down into a ditch and I feel the weight of gravity shoving me around as the impact with a tree is violent",
+   "start": 1241,
+   "end": 1360
+  },
+  {
+   "fact": "贝莉忍痛致电恋人Sean求救，报出位置在Pinewood Road、离家只有十分钟（ten minutes）；Sean只说\"Stay there. I'm coming\"便挂断赶来",
+   "anchor": "“My tires slid and I hit a tree…I’m on Pinewood Road. Near my house.”",
+   "start": 3689,
+   "end": 3758
+  },
+  {
+   "fact": "贝莉在寒风中等了近四十分钟（forty minutes），恋人Sean开着白色皮卡赶到，把自己的外套披到她肩上查看她额头的伤口",
+   "anchor": "I’ve sat for almost forty minutes in the cold waiting for Sean to show up.",
+   "start": 3818,
+   "end": 3892
+  },
+  {
+   "fact": "Sean已叫好拖车但当晚来不了、要等明早，让贝莉把撞废的车留在原地，扶她上自己的卡车送她回家",
+   "anchor": "“I already called a tow. They can’t get it tonight, but they’re going to try in the morning.”",
+   "start": 5187,
+   "end": 5280
+  },
+  {
+   "fact": "车祸促成和解：贝莉为之前与Sean的争吵道歉、承认反应过度，Sean也自认混蛋，坦言苦恋她十年（ten years）、只想守护\"我们的\"感情",
+   "anchor": "I’m sorry for earlier. I overreacted.",
+   "start": 8261,
+   "end": 8298
+  },
+  {
+   "fact": "转折：Sean把贝莉抱进卧室后忽然停下，确认她是否真的想继续；贝莉确信自己想要Sean，两人当晚首次同床，关系就此落定",
+   "anchor": "“Are you sure you want to do this?”",
+   "start": 10679,
+   "end": 10714
+  }
+ ]
+}

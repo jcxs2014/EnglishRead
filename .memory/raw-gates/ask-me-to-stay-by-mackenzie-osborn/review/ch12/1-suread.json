@@ -1,0 +1,55 @@
+{
+ "book": "ask-me-to-stay-by-mackenzie-osborn",
+ "chapter": "ch12",
+ "text": "notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/text/ch12_12.txt",
+ "facts": [
+  {
+   "fact": "抵达纽约后两人入住时代广场旁的 Oriental Hotel，Billie 因最便宜订了相邻连通房；Sean 不听她推辞，转钱来付机票和酒店。",
+   "anchor": "I got us conjoining rooms because it was the cheapest option.",
+   "start": 467,
+   "end": 528
+  },
+  {
+   "fact": "因倒时差两人各自补觉，约好六点在 Billie 房间碰头吃晚饭。",
+   "anchor": "Perfect, meet me in my room at what—like six o’clock for dinner?",
+   "start": 1524,
+   "end": 1588
+  },
+  {
+   "fact": "挚友 Maggie 在 2:12pm 的落地短信里预警：Mabel 得知 Billie 来纽约想见她——Mabel 是前夫 Graham 的母亲，Billie 本想躲开这通电话。",
+   "anchor": "getting a phone call from Mabel…she found out you were coming to visit and wants to see you.",
+   "start": 2023,
+   "end": 2115
+  },
+  {
+   "fact": "前婆婆 Mabel 来电叙旧、称今晚是唯一有空的一晚；Sean 推门进屋大声问晚饭吃什么的动静被她听见，Mabel 顺势邀两人七点到 Le Pigeon 见面并由她请客；挂断后 Billie 冷冷告知 Sean 那是 Graham 的母亲。",
+   "anchor": "Well, bring him too. The more the merrier. We can meet at Le Pigeon at seven. My treat. See you then!",
+   "start": 4175,
+   "end": 4276
+  },
+  {
+   "fact": "在 Le Pigeon（每道菜都超过三十美元），Billie 正要回应 Sean 前晚说的仍爱她，说“我想告诉你我——”，话到一半被到场的 Mabel 打断，表白被迫搁置。",
+   "anchor": "Because I wanted to tell you that I—",
+   "start": 6860,
+   "end": 6896
+  },
+  {
+   "fact": "席间 Sean 回忆初见 Billie：她穿深粉色连衣裙、坐在校前树下读《傲慢与偏见》；两人次日才正式认识，他当时借当时的女友作由头接近她。",
+   "anchor": "You were reading Pride and Prejudice and sitting under this tree at the front of the school.",
+   "start": 10494,
+   "end": 10586
+  },
+  {
+   "fact": "饭后前婆婆 Mabel 留在 Billie 房间，用酒店塑料杯分喝葡萄酒夜谈，指出她与 Graham 分居已近一年，笑称儿子有时真的很蠢、没意识到 Billie 有多好。",
+   "anchor": "Billie, you and Graham have been separated for almost a year now.",
+   "start": 14341,
+   "end": 14406
+  },
+  {
+   "fact": "Mabel 劝 Billie：不改便是在选择、这段感情的结局由她自己决定，心里对 Sean 有感觉就别让恐惧拦住。",
+   "anchor": "If you feel something for him, don’t let fear stop you.",
+   "start": 15196,
+   "end": 15251
+  }
+ ]
+}

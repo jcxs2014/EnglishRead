@@ -1,0 +1,49 @@
+{
+ "book": "ask-me-to-stay-by-mackenzie-osborn",
+ "chapter": "ch04",
+ "text": "notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/text/ch04_4.txt",
+ "facts": [
+  {
+   "fact": "搬回老家的当天，Billie 走进镇上那家亮着淡紫字招牌的古董店 Good Vintage，才发现这是前男友 Sean 的（他母亲的）店。",
+   "anchor": "It’s the antique shop—Sean’s antique shop.",
+   "start": 902,
+   "end": 944
+  },
+  {
+   "fact": "自从九年前在她车里道别后，Billie 与 Sean（前男友）首次重逢。",
+   "anchor": "It’s been nine years since we were together last. Since we said goodbye in my car.",
+   "start": 3557,
+   "end": 3639
+  },
+  {
+   "fact": "Sean 解释：母亲工时减少，他留在 Lakewood 替母亲继续经营这家店，而不是像 Billie 以为的那样去 reenlist in the army 或创业。",
+   "anchor": "“Yeah, my mom couldn’t do as many hours anymore, but she loves this place, so I keep it going for her.”",
+   "start": 5227,
+   "end": 5330
+  },
+  {
+   "fact": "Billie 主动约 Sean 明早在教堂样子的咖啡馆见面，他答应（约在九点）。",
+   "anchor": "I ask again quickly, before I can back out of my own thought. “Will you meet me for coffee tomorrow morning?”",
+   "start": 6007,
+   "end": 6116
+  },
+  {
+   "fact": "晚上八点父亲就已回房（疑似躲着女儿），Billie 便去车库取回满是凹痕的旧记忆盒。",
+   "anchor": "he’s already disappeared into his room and it’s only eight o’clock.",
+   "start": 7564,
+   "end": 7631
+  },
+  {
+   "fact": "记忆盒里有 Sean 参军 basic training 期间寄来的八封信：每月一封，越写越严肃，不再署名画小心心，也不再说两人的未来。",
+   "anchor": "He’d sent eight letters total, and each letter became more serious and less romantic.",
+   "start": 8819,
+   "end": 8904
+  },
+  {
+   "fact": "转折揭晓：Sean 停止写信是因为 Billie 从未回信；她读信落泪，想借明天的咖啡弥补当年为自保而伤他的事。",
+   "anchor": "I know why he stopped sending them. It’s because I never wrote back.",
+   "start": 9086,
+   "end": 9154
+  }
+ ]
+}

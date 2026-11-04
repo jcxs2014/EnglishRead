@@ -1,0 +1,49 @@
+{
+ "book": "ask-me-to-stay-by-mackenzie-osborn",
+ "chapter": "ch10",
+ "text": "notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/text/ch10_10.txt",
+ "facts": [
+  {
+   "fact": "旧情人 Sean 没敲门，于 11:59 a.m. 直接走进 Billie 的新住处，手里带着两大杯咖啡，来帮她把沙发运进屋。",
+   "anchor": "Sean walks straight through the front door at 11:59 a.m. without knocking and with two large coffees in hand.",
+   "start": 1822,
+   "end": 1931
+  },
+  {
+   "fact": "Billie 拆箱翻出与前夫 Graham 的私奔婚礼照：她捧着花束、两人相视而笑；她自责结婚太年轻，婚姻注定难长久。",
+   "anchor": "The photo of Graham and me that Sean mentioned, is sitting at the top of the second box I open.",
+   "start": 655,
+   "end": 750
+  },
+  {
+   "fact": "Sean 为前一晚先说出仍爱她、随后又离开而道歉，承认情绪盖过了理智，并告诉 Billie 她什么都不用回应。",
+   "anchor": "I’m just going to go right out and say it—I’m so sorry about last night.",
+   "start": 2203,
+   "end": 2275
+  },
+  {
+   "fact": "挚友 Maggie 自她离开纽约后天天发短信催她回去，生日就在下周；Sean 主动提出陪她去纽约、说母亲下周能看店，Billie 提自己住过 almost nine years，坚持由她来买票。",
+   "anchor": "She has been begging me to be there for her birthday since before I even left. It’s next week.",
+   "start": 4033,
+   "end": 4127
+  },
+  {
+   "fact": "父亲 Wesley 意外出现在车道台阶上，拎着一份披萨和一升汽水（Sprite 是她的最爱），主动邀 Sean 共进午餐，还让他别叫 Mr. Sloane、直接叫 Wesley。",
+   "anchor": "He’s standing on the steps to the house with a pizza and a liter of soda.",
+   "start": 6864,
+   "end": 6937
+  },
+  {
+   "fact": "被父亲 Wesley 问到从军经历时，Sean 透露最亲密的战友 Nolan 死于伊拉克，此后感觉再也不一样，他因此退役。",
+   "anchor": "My closest buddy Nolan…he died when we were in Iraq. It never felt the same after that. That’s why I resigned.",
+   "start": 10895,
+   "end": 11005
+  },
+  {
+   "fact": "在波特兰机场登机后，怕坐飞机的 Billie 为 six hours 航程紧张，Sean 十指相扣安抚并答应陪她看电影；她旁边的靠窗位到最后无人认领。",
+   "anchor": "I know six hours seems like a long time, but it goes by quickly, I promise.",
+   "start": 14066,
+   "end": 14141
+  }
+ ]
+}

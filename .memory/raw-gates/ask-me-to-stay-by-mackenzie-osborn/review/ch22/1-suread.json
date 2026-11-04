@@ -1,0 +1,55 @@
+{
+ "book": "ask-me-to-stay-by-mackenzie-osborn",
+ "chapter": "ch22",
+ "text": "notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/text/ch22_22.txt",
+ "facts": [
+  {
+   "fact": "九年前的六月，Billie 决定告诉继母 Eloise 和父亲她要搬走：好友 Maggie 已开始转学纽约，两人找好了不贵的公寓，她的存款够撑几个月。",
+   "anchor": "Today’s the day I tell them I’m leaving.",
+   "start": 85,
+   "end": 125
+  },
+  {
+   "fact": "Billie 向两人宣布：Maggie 转入了 NYU，她们将住在布鲁克林；公寓租约昨天已签，十一天后（eleven days）动身。",
+   "anchor": "We found an apartment. We signed a lease yesterday. I leave in eleven days.",
+   "start": 2537,
+   "end": 2612
+  },
+  {
+   "fact": "继母 Eloise 斥这是 Billie 一生最荒唐之举，讥讽她没有正经工作、抵达次日那场咖啡店面试纯属浪费时间，预言她注定失败。",
+   "anchor": "You’ve done a lot of stupid things in your life, Billie, but this is the most ridiculous of all.",
+   "start": 2685,
+   "end": 2781
+  },
+  {
+   "fact": "继母恶言说早知如此绝不会嫁给 Billie 的父亲，还骂她是被惯坏的废物；Billie 回敬「我不嫁你俩会过得更好」，彻底激怒对方。",
+   "anchor": "if I could go back, I never would’ve married your dad if I knew what I was getting into with you",
+   "start": 5510,
+   "end": 5606
+  },
+  {
+   "fact": "转折：继母 Eloise 抬手狠狠扇了 Billie 一记耳光；Billie 强忍没还手，反笑着问「Happy now」，让一贯掌控局面的 Eloise 第一次愣住。",
+   "anchor": "Before I can take a breath, I feel her hand forcefully come across my face.",
+   "start": 5921,
+   "end": 5996
+  },
+  {
+   "fact": "父亲涨红着脸全程一言不发，任继母扇女儿耳光也不保护；Billie 怒喊「You aren’t going to do anything?!」后冲回房间，抓起床下的薰衣草色行李袋开始收拾，打算搬走前先借住好友 Maggie 家。",
+   "anchor": "He’s not protecting me. He let her slap me across the face.",
+   "start": 6651,
+   "end": 6710
+  },
+  {
+   "fact": "Billie 含泪说要去 Maggie 家借住到搬家；父亲跟进房只挤出一句「I’m sorry」，又低声求她「Please don’t tell anyone about this」，她怒斥他与继母一样坏。",
+   "anchor": "I’m going to Maggie’s. I’ll be fine,” I say rigidly through the tears.",
+   "start": 7484,
+   "end": 7554
+  },
+  {
+   "fact": "Billie 对继母撂下「Have a nice life」并竖中指冲出家门；她本不想丢下父亲，但认定这是逃离 Eloise 的唯一办法，并料定继母会对外篡改这段往事。",
+   "anchor": "Have a nice life, Eloise,” I say, storming out the front door throwing her my middle finger.",
+   "start": 9338,
+   "end": 9430
+  }
+ ]
+}

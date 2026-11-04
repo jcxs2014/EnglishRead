@@ -1,0 +1,55 @@
+{
+ "book": "ask-me-to-stay-by-mackenzie-osborn",
+ "chapter": "ch01",
+ "text": "notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/text/ch01_1.txt",
+ "facts": [
+  {
+   "fact": "女主在离家 ten years 后开车回到华盛顿老宅；她已不在纽约，也已与 Graham 分开。",
+   "anchor": "After ten years, I’ll be back in the very place that I happily ran away from.",
+   "start": 59,
+   "end": 136
+  },
+  {
+   "fact": "女主已无处可退：布鲁克林那座房子不再属于她，只能停在父母家门前。",
+   "anchor": "But what else am I supposed to do? Drive all the way back to Brooklyn? To the house I no longer own?",
+   "start": 954,
+   "end": 1054
+  },
+  {
+   "fact": "女主给自己打气：这次要见的是父亲，以及父亲那位糟糕的妻子——继母 Eloise。",
+   "anchor": "it’s just my dad. Him and his horrible wife. But still, my dad.",
+   "start": 1420,
+   "end": 1483
+  },
+  {
+   "fact": "女主预判继母 Eloise 会吼她滚出去，只能盼父亲见到她会高兴、并站在她这边。",
+   "anchor": "Eloise is likely to scream at me and tell me to leave. My dad should be happy to see me…I think.",
+   "start": 2967,
+   "end": 3063
+  },
+  {
+   "fact": "女主临阵退缩，想改天再来、先打电话给父亲再谈。",
+   "anchor": "I’ll try again tomorrow. I’ll call my dad and talk to him first.",
+   "start": 3793,
+   "end": 3857
+  },
+  {
+   "fact": "转折点：女主还没走成，门锁转动令她僵在原地，父亲随即猛地开门、目瞪口呆地认出女儿。",
+   "anchor": "My dad swings open the door, his jaw open wide, as a glint springs to his eyes.",
+   "start": 4290,
+   "end": 4369
+  },
+  {
+   "fact": "父亲哽咽着唤出女儿的名字 Billie，女主又酸又松了口气，跟着落泪。",
+   "anchor": "His voice chokes as he speaks. “Billie?”",
+   "start": 4580,
+   "end": 4620
+  },
+  {
+   "fact": "父亲唤她 baby girl，父女紧紧相拥、越哭越凶。",
+   "anchor": "“Hi, baby girl,” he says.",
+   "start": 4920,
+   "end": 4945
+  }
+ ]
+}

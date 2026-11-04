@@ -1,0 +1,55 @@
+{
+ "book": "ask-me-to-stay-by-mackenzie-osborn",
+ "chapter": "ch03",
+ "text": "notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/text/ch03_3.txt",
+ "facts": [
+  {
+   "fact": "转折点：女主问起继母 Eloise 在不在，父亲尴尬地低声承认——他与 Eloise 已离婚；女主在心里暗自鼓掌。",
+   "anchor": "He rubs his chin uncomfortably, looking hesitant. “We got a divorce,” he whispers.",
+   "start": 2107,
+   "end": 2189
+  },
+  {
+   "fact": "父亲答离婚竟发生在 two years ago；女主为父女 ten years 不通音信全是白费而愤怒——他不联系她只是怕 Eloise 离开。",
+   "anchor": "“Two years ago,” he mumbles with his eyes to the ground.",
+   "start": 3731,
+   "end": 3787
+  },
+  {
+   "fact": "女主回想：继母 Eloise 在她生命里的 sixteen years 中说爱她的次数双手可数；她一直猜对方恨她只因自己酷似生母。",
+   "anchor": "the number of times she told me she loved me throughout the sixteen years she was in my life.",
+   "start": 2518,
+   "end": 2611
+  },
+  {
+   "fact": "女主落泪不是为前夫 Graham，而是想到 twenty-eight years old 还要从头再来；她向父亲坦白：结过婚、现已离婚，这就是她回来的原因。",
+   "anchor": "Not at the thought of Graham, but picturing the fact that I have to start over again at twenty-eight years old.",
+   "start": 6140,
+   "end": 6251
+  },
+  {
+   "fact": "回忆被离开那天：挚友 Maggie 上门低声告知 Graham 将搬去她男友 Steven 家住；Maggie 随后陪了她 three days，证实 Graham 确实要离婚。",
+   "anchor": "“Graham is going to be staying with Steven,” she’d whispered to me.",
+   "start": 7479,
+   "end": 7546
+  },
+  {
+   "fact": "女主签下离婚协议、最后一次见到前夫 Graham，至今已 eight months。",
+   "anchor": "It’s been eight months since we signed the divorce papers and since I’ve seen Graham.",
+   "start": 9777,
+   "end": 9862
+  },
+  {
+   "fact": "父亲道出离婚内因：Eloise 早在另一家银行私藏存款、蓄谋拆散婚姻多年；他自认懦弱、以酒度日，最后开口要她离开。",
+   "anchor": "she was hiding money at a separate bank. She was planning our demise for a long time",
+   "start": 10981,
+   "end": 11065
+  },
+  {
+   "fact": "父亲说离婚手续办妥后便戒酒、至今保持清醒 two years；房子归他，大部分存款归 Eloise。",
+   "anchor": "I’ve been sober for two years now. I stopped drinking once it was official.",
+   "start": 11827,
+   "end": 11902
+  }
+ ]
+}

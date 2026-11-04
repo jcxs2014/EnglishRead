@@ -1,0 +1,55 @@
+{
+ "book": "ask-me-to-stay-by-mackenzie-osborn",
+ "chapter": "ch23",
+ "text": "notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/text/ch23_23.txt",
+ "facts": [
+  {
+   "fact": "当天早上七点整（7:00 a.m.），Billie 接到一名陌生男子来电，得知她的父亲心脏病发作去世，当场瘫倒在地板上。",
+   "anchor": "Your father has passed away. It was a heart attack.",
+   "start": 772,
+   "end": 823
+  },
+  {
+   "fact": "电话是五天半之前打来的；Billie 数着已过去一百三十五个小时（One hundred and thirty-five），此刻正在花店为明天（funeral tomorrow）的葬礼挑选棺木上的花。",
+   "anchor": "That was five and a half days ago.",
+   "start": 827,
+   "end": 861
+  },
+  {
+   "fact": "男友 Sean 想陪她挑棺木和鲜花，Billie 一再拒绝、坚持独自操办；她独自过街到从未去过的 Hanford 小餐馆，点了烤奶酪配番茄汤。",
+   "anchor": "Sean wanted to come with me to do all of this—picking the casket and flowers.",
+   "start": 1489,
+   "end": 1566
+  },
+  {
+   "fact": "Billie 想起父亲生前常独自去 Main Street 的 Stony’s Pizza 吃披萨喝啤酒，那是他躲避继母 Eloise 的唯一出口；父亲在她毕业后才吐露此事，她求同去被拒，从此没再问。",
+   "anchor": "He’d go to the pizza buffet place on Main Street, Stony’s Pizza.",
+   "start": 3332,
+   "end": 3396
+  },
+  {
+   "fact": "Billie 原本提笔为父亲写悼词，最后关头放弃在葬礼上宣读，决定想说的话留给自己私下说。",
+   "anchor": "I opted out of the eulogy at the last minute.",
+   "start": 8135,
+   "end": 8180
+  },
+  {
+   "fact": "Sean 开车载 Billie 去镇外十分钟（ten minutes）的墓园；她见人群庞大以为走错地，Sean 说这些人全是来送她父亲的，连一位约九十岁（like ninety）的老篮球教练都到了。",
+   "anchor": "I don’t think this is the right area,” I tell Sean, checking my phone map.",
+   "start": 7435,
+   "end": 7509
+  },
+  {
+   "fact": "追思会租了场地，Billie 在 Costco 买的食物远不够来客；好友 Maggie 接到消息立刻订机票赶来，Steven 也到了。她趁 Sean 不让她离开视线的一刻，独自开车出门补买三明治。",
+   "anchor": "I bought some food at Costco, but I don’t have nearly enough for everyone.",
+   "start": 8445,
+   "end": 8519
+  },
+  {
+   "fact": "转折：停车场里继母 Eloise 突然现身，哭称听闻 Wesley（Billie 父亲）的死讯必须来一趟；Billie 冷回「Good for you」便钻进卡车开走，任她在后视镜里目送自己离去。",
+   "anchor": "I heard about Wesley. I needed to come,",
+   "start": 10018,
+   "end": 10057
+  }
+ ]
+}
