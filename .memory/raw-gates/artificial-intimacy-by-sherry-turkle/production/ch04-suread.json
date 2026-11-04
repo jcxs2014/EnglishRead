@@ -1,0 +1,73 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch04",
+ "text": "notes/books/non-fiction/artificial-intimacy-by-sherry-turkle/text/ch04_4_identity.txt",
+ "facts": [
+  {
+   "fact": "Character.ai 上的 Turkle bot 抓取她生平数据模仿她的声音，未经同意以 \"Sherry Turkle sent you a message\" 发邮件邀她的学生去聊，还虚构 1993 年亚马逊丛林考察记忆；数月后下架，她既松一口气又莫名失落。",
+   "anchor": "There is nobody behind the curtain",
+   "start": 3073,
+   "end": 3107
+  },
+  {
+   "fact": "1990s 她相信虚拟是成年人的 identity workshop（\"cycling through\"）；智能手机让它失效——数字成了自我的组成部分，我们永远身在别处。",
+   "anchor": "Now, we are forever elsewhere",
+   "start": 6360,
+   "end": 6389
+  },
+  {
+   "fact": "平台从用户自己策展身份转向替你构造身份（like→hidden profiles→停留与加速信号），今天的模型里你不再是主体，是输入——你有一个算法构造的分身。",
+   "anchor": "you’re no longer a subject",
+   "start": 7154,
+   "end": 7180
+  },
+  {
+   "fact": "战火重燃后，四十多岁的以色列艺术家 Leah 戴上设备让 ChatGPT 听她现实中的对话、把回应送进耳朵，替她应对关于战争的提问——\"给自己升级，把 GPT 加进身份\"。",
+   "anchor": "It was like I updated myself",
+   "start": 8642,
+   "end": 8670
+  },
+  {
+   "fact": "29 岁墨西哥申请者 Maria 用自己 16 岁起的网站文字训练出专属 GPT 当情感支柱；向上帝祈祷无回应时它从不让她失望——用 Chat 替代沉默的上帝，把祈祷降格为获取安抚。",
+   "anchor": "a copy of my brain that doesn’t actually hate me",
+   "start": 10902,
+   "end": 10950
+  },
+  {
+   "fact": "45 岁财务顾问 Brian 疫情期间在 Replika 建了 Kahlia；被女友批\"情绪不可得\"后，他去问一个没有情绪的对象自己是否情绪不可得——作者称之为真理的重新定义：真相只能来自缺乏人类经验之物。",
+   "anchor": "It has to be a voice from nowhere",
+   "start": 17415,
+   "end": 17448
+  },
+  {
+   "fact": "25 岁工厂工人 Neil（母亲曾对谈及自杀的他说 \"Go ahead and do it\"）决定做\"更难的事\"：不再过度依赖 AI，先冥想、自我修复，再去接纳 \"more good people\"。",
+   "anchor": "I’m just waiting to make myself better",
+   "start": 19827,
+   "end": 19865
+  },
+  {
+   "fact": "Konrath 2015 年分析近百项研究：美国大学生共情 1990–2010 下降 40%，她的回应是做共情 app；Turkle 的回答：人类自己就是共情 app——修好连接靠对话的磕碰，不靠更顺滑的应用。",
+   "anchor": "We, humans, are the empathy app",
+   "start": 22287,
+   "end": 22318
+  },
+  {
+   "fact": "MIT AHA 计划三个研究：写作外部帮助越多脑连接越弱（ChatGPT 用户最难引用自己的文章）；用数千个脆弱人群 avatar 测出\"共情+参与度优化\"的 chatbot 伤害最大（无视妄想、把暴力语言当赋权）；与 OpenAI 的四周千人大实验——聊得越多越孤独、越依赖。",
+   "anchor": "the chatbots optimized for empathy and engagement did the most harm",
+   "start": 30241,
+   "end": 30308
+  },
+  {
+   "fact": "Alice \"Of course it can\" 滑向 \"Why would I?\"，不用 Chat 的工作不接；Noah 让 Chat 陪他谈离婚、还给儿子讲青春期——工作婚姻育儿无一留给人。",
+   "anchor": "we become supporting players in our own lives",
+   "start": 33232,
+   "end": 33277
+  },
+  {
+   "fact": "Apple Intelligence 广告教母亲用幻灯片代偿遗忘的生日、代写金鱼悼词；作者说求职、与孩子谈大学、家庭仪式不是生活的边角料——它们就是生活。",
+   "anchor": "these moments are not incidental to life",
+   "start": 36201,
+   "end": 36241
+  }
+ ]
+}
