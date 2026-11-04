@@ -83,7 +83,7 @@ modified: "2026-11-04"
 
 **为什么这样写**：back out of my own thought 写出邀约的莽撞——话在犹豫追上嘴巴之前先逃了出去；他的迟疑被拉长成 blink slowly，主动权当着她的面换手。
 
-**读者视角提示**：这是全书她第一次主动出击——注意她此刻并不知道自己九年前欠了什么债，下一章账本才翻开。
+**读者视角提示**：这是全书她第一次主动出击——注意她此刻并不知道自己九年前欠了什么债，本章夜里的信件账本才翻开。
 
 > **原句 8:** "“I’m just messing with you.” His hair falls over his eyes as he chuckles at me. I fake a small laugh. “I see you haven't lost your sense of humor,” I say, breathing out harshly."
 
@@ -113,7 +113,7 @@ modified: "2026-11-04"
 
 **为什么这样写**：wait week after week 与 never wrote back 互为镜像——等是真的，没回也是真的，动机却语焉不详；admit how cruel I can be 是她给自己的判词，而句尾 I would like to think 的口气一软，连悔过都带着不自信。
 
-**读者视角提示**：认了罪的人总想赎——她明早带去咖啡桌的正是这份 "make up for" 的心愿，成败在下一章。
+**读者视角提示**：认了罪的人总想赎——她明早带去咖啡桌的正是这份 "make up for" 的心愿，成败在 ch06 的咖啡桌上。
 
 ## 本章词汇
 

@@ -1,0 +1,494 @@
+
+=== ①相对章号：1 行 ===
+ch19 bailey verdict.md:114 **为什么这样写**：全书时间线在此收口——十年相恋、九年沉默、一场迟到的重逢，所有闪回都汇入「那一天」；用 hate 开头的悬句收章，是作者把镜头直接焊在下一章的门框上。
+
+=== ②绝对断言：96 行 ===
+00_情感节点.md:26 回家第二天，Good Vintage 的招牌让她全身的血冷掉——Sean 的古董店。九年未见，他在替母亲守店；她鼓起勇气约下明早九点的咖啡。夜里拆开纪念盒：八封训练营来信越写越冷（署名从心形变全名、不再谈未来），而停止的真正原因是她从未回信
+00_情感节点.md:34 过去线在 May 亮出「出走算式」（十八岁+存款+绝不回头，感情会 ruin it），在 June 给出甜的证据——看台上的 "I like you, Billie. A lot."、舞池里耳边的 "With you it is"；Augu
+00_情感节点.md:90 十八个月后，她第一次走进墓园——橙色郁金香、父亲的生日；书店开张了，名字叫 Wesley’s，以父之名。婚后定居 cabin（Kathy 亲手交钥匙），婚后第一个夏天在湖边吃柠檬水与冰棒；Bailey 也终于说出 proud of you。
+00_概述.md:14 过去线的 Sean 是全镇最会笑的人。他在看台上说出 "I like you, Billie. A lot."（ch05），随即交底自己已参军、八月底赴 Texas；卡车里他更进一步说出 "Gosh, I just love you,"（c
+00_概述.md:16 现在线的重逢发生在 Good Vintage——Sean 替母亲守着的古董店（ch04）。篝火边她坦白婚史，他坦白 "You are the only person I have ever loved"（ch06）；咖啡馆之夜他丢下一句 "
+00_概述.md:20 尾声在十八个月后：她第一次走进墓园，手里是橙色郁金香；书店开张了，名字叫 Wesley’s——"I named it after you, Daddy."；婚后定居 cabin，Bailey 也终于说出 proud of you。全书的最后
+00_概述.md:32 **Sean Kingsley（与 Billie 同届毕业）**：全镇的笑匠与 optimist，十九岁入伍；Nolan 之死（IED、小队唯一伤亡）让他带着 survivor’s guilt 退役回乡守母亲的古董店——"I couldn’
+00_概述.md:36 **Eloise（继母）**：全书缺席在场的反派——从 control、slut-shaming 到掌掴；她唯一一次正面出场是在葬礼停车场，得到的只有 "Good for you" 与后视镜里的 "Just where she belong
+00_金句精选.md:54 **为什么重要**：把小镇从「退路」重写为「唯一没有前夫痕迹的地方」。
+00_金句精选.md:66 **中文**：上次在一起是九年前——在她车里告别，他说永远不会放弃他们；如今真人站在面前，好像他们从未离开。
+00_金句精选.md:87 **中文**：你是唯一一个我爱过的人；我为你留着希望——一晃十年。
+00_金句精选.md:95 **上下文**：去湖边的卡车里，全书第一次说出 love。
+00_金句精选.md:124 **为什么重要**：错的不是爱，是日历——青春悲剧的标准结语第一次说破。
+00_金句精选.md:138 **为什么重要**：她第一次主动出击——身体先于语言完成告白。
+ch01 billie comes home.md:13 - **人物弧线**：Billie——从 "I can’t believe I’m doing this" 的自我怀疑走到拥抱里的痛哭；父亲——十年沉默后第一次伸出手；Eloise——本章不出场，先领 "his horrible wife"
+ch01 billie comes home.md:20 **中文理解**：十年之后，Billie 要回到那个她当年高高兴兴逃离的地方；她本以为离开就是终点，如今却人已不在纽约、也不再和 Graham 在一起——回来成了剩下的唯一选项。
+ch01 billie comes home.md:56 **读者视角提示**：这是 Eloise 的第一次出场方式：不出场，先领一个 horrible 的定语；读者会带着这个标签去看她后面做的每一件事。
+ch02 sean enlists.md:13 - **人物弧线**：Billie——被 Eloise 压成 pessimist，把逃离当成唯一计划；Sean——永远 sunny 的 optimist，主动靠近并想「矫正」她的视角；Maggie——远景盟友，主张 Sean 也许能当 al
+ch02 sean enlists.md:56 **读者视角提示**：这是全章情绪最重的一笔，也是她真实心意的第一次露头——嘴上说 happy for you，身体的比喻先说了实话。
+ch02 sean enlists.md:64 **为什么这样写**：if you'd let me 把主动权全推给 Billie——追的是她，退路也留给她，句尾点名 Billie 是本章唯一一次；紧随的叙述用 slip（溜出口）与 devours（吞掉）一进一出，把心动写成一场吞没——
+ch02 sean enlists.md:96 **读者视角提示**：这是 Eloise 与 Billie 关系的唯一一次明确定义（继母），此后全书再不会这么直白——记住这一句。
+ch03 divorce reveal.md:66 **读者视角提示**：这是父亲形象第一次掉色：ch01 的暖男在这里补出「当年站在她那边」的一面——但注意叙述者的口吻，气的是浪费，不是人。
+ch03 divorce reveal.md:86 **读者视角提示**：对照 ch02 的出走算式——她当年怕的是感情毁掉计划，如今婚姻的结束却是被人先下了手：命运的对称在这里完成第一次反讽。
+ch03 divorce reveal.md:104 **为什么这样写**：用 principle 对 whines 的概率论——她拒绝的不是地理，是记忆的密度；Lakewood is clean 三个词收尾，把一座小镇写成她唯一没有前夫痕迹的地方。
+ch03 divorce reveal.md:114 **为什么这样写**：镜头从屋内推到院子再钉在秋千上，三句完成一次视角接力；「开始断落」的秋千是全章唯一一处给修复留悬念的意象——童年还在，但绳子旧了，不修就真断。
+ch04 good vintage reunion.md:10 - **一句话概括**：回家第二天上街，Billie 在古董店 Good Vintage 撞上九年来第一次重逢的 Sean——他替妈妈守着这家店；她鼓起勇气约明早九点咖啡，夜里翻出当年八封没有回过的信。
+ch04 good vintage reunion.md:34 **为什么这样写**：借心理医生的口把自我诊断一次说完——两个母亲并列成病源清单，句式冷静得像病历；这是全书第一次把她的讨好型人格给出可查的出处。
+ch04 good vintage reunion.md:44 **为什么这样写**：满屋旧物里唯一「too modern」的东西被单挑出来——经句与古董店的相遇本身就是这句话的注解：新与旧、信与物，全都可以 be done in love；一句心里话 I like that 轻轻收，不解释。
+ch04 good vintage reunion.md:50 **中文理解**：上一次在一起是九年前——在她车里告别，他说永远不会放弃他们；此刻真人站在面前，感觉像他们从未离开过，过去总有办法绕回来。
+ch04 good vintage reunion.md:86 **读者视角提示**：这是全书她第一次主动出击——注意她此刻并不知道自己九年前欠了什么债，本章夜里的信件账本才翻开。
+ch04 good vintage reunion.md:100 **中文理解**：信一封比一封冷：署名从名字旁的小心心变成全名，不再谈两人的未来，改写他的日子有多长；她知道他为什么不再寄了——因为她从来没有回过信。
+ch04 good vintage reunion.md:149 九年后在家乡古董店重逢 Sean：他替妈妈守着 Good Vintage，她约下明早九点的咖啡；夜里八封「署名从心形变成全名」的旧信摊开她从未回信的旧账——"make up for all those times I broke his h
+ch05 bleacher confession.md:86 **读者视角提示**：这是全书第一次身体接触的峰值——注意它发生在她刚被骂 whore 之后：同一个夜晚，两种手的意义。
+ch05 bleacher confession.md:139 看台告白与离别宣言同章落下：Sean 说 "I like you, Billie. A lot." 却马上要走；派对初醉的 Billie 差一点把初夜的心愿说满，Sean 以 "Not like this, Billie." 守住底线并承诺
+ch06 cabin truth.md:11 - **情感弧线位置**：现在线第一次正面清算——旧火的物理反应（fire / jackhammer pulse）与十年旧账对冲；「你丢下我」vs「我已入伍」的罗生门摆上桌，和解只解决情绪、不解决事实。
+ch06 cabin truth.md:80 **中文理解**：Sean 交底：你是唯一一个我爱过的人；我为你留着希望——一晃十年了。说话时他在砾石上碾脚跟、咬着腮帮。
+ch06 cabin truth.md:86 **读者视角提示**：ch02 的整个夏天承诺、ch05 的 one day，都在这句里结算——他的等待第一次有了累计数字。
+ch06 cabin truth.md:104 **为什么这样写**：道歉的关键不是对不起，而是补交动机——她第一次把「没回信」归因到「受不了距离」；truth flows 的 flows 与 face falls 的 falls 一顺一坠，句尾的 relief 把道歉写成为自己松绑。
+ch07 lake day.md:10 - **一句话概括**：夏天最后一天，Sean 开卡车带她去瀑布湖：车里他第一次说出 "I just love you"，她因说不出回答整个人僵住；瀑布边谈秋季计划（她没有计划）、生日受辱、与「父亲的 choice」；悬崖跳水后水中相拥，他
+ch07 lake day.md:44 **为什么这样写**：sewn shut 把沉默写成外科手术级的封锁；内心独白先招供（always loved him）再翻供（can't get the words out）——爱与失语在同一行内同时成立，她的心事第一次比嘴巴诚实。
+ch07 lake day.md:56 **读者视角提示**：ch02 的出走算式（eighteen / savings）在这里第一次出现裂缝——注意她用的是疑问句，不是决定。
+ch08 gunderson house.md:11 - **情感弧线位置**：现在线的落地章——房子、工作、父亲，三件「重新开始」的实物逐件到手；Mrs. Gunderson 的神助攻把 Sean 的心意第一次从他人口中送到她面前。
+ch08 gunderson house.md:86 **读者视角提示**：这是 Sean 的心意第一次被第三方公证——她在 ch06 听到的 Still? — No，在这里被老人的眼睛推翻。
+ch09 the lie.md:11 - **情感弧线位置**：现在线的转折章——先是颊吻与 Bee 回归的回暖，后是章末惊雷把 ch06 的「No」当场作废；「第一次独居」的新生活与「第一次牵手」的旧心愿同章对齐。
+ch09 the lie.md:13 - **人物弧线**：Billie——第一次独居、第一次主动吻他，但离 moved on 还很远；Sean——体贴到替她的进度设限，唯独军队话题闭门；Graham——以一张裂箱旧照出场即谢幕；父亲——车库存家具的背景板。
+ch09 the lie.md:26 **读者视角提示**：她把自己放在竞争位置而不是唯一位置——这个自卑视角后面要靠 Sean 一句句拆。
+ch09 the lie.md:36 **读者视角提示**：这是现在线她第一次主动——对照 ch05 办公室里那句 "Not like this"，进度条终于推过了当年卡住的那格。
+ch09 the lie.md:56 **读者视角提示**：Graham 在现在线的出场方式是「被裂开的箱子」——作者连面都不让他露，就完成了第一次三角测量。
+ch09 the lie.md:116 **读者视角提示**：ch06 的「Still? — No」至此整个翻案——他在她第一次独居的门口，把十年前的答案改了。
+ch10 nolan and new york.md:44 **为什么这样写**：punch 的暴力冲动是最高级的赞美，也是她如今唯一的权力——照片里的婚姻已不可撤回，唯有拳头的想象属于她；把「瘦」归因于压力，一张照片解出一整段婚姻的体温。
+ch10 nolan and new york.md:60 **中文理解**：上午他带着咖啡上门，开门见山道歉：我总是让情绪压过理智——昨晚刚说完不想逼你，转身就把你架在火上。
+ch12 mabel dinner.md:36 **读者视角提示**：Maggie 的无心泄露是本章第一块多米诺——注意 Billie 只「希望可以避免」，从未真正说不。
+ch12 mabel dinner.md:90 **中文理解**：她对 Mabel 确认：对——朋友。搬走后断了联系，重逢后又成了朋友，就像时间从未流过。
+ch13 fake boyfriend.md:54 **为什么这样写**：她的 paralysis 与他的 composed 做同一秒的双联画——宣布者毫无波澜，被宣布者全身解冻；Yup. Boyfriend 的重复不是强调给 Graham 的，是给她听的：第一次有人当众认领她。
+ch14 the fight.md:10 - **一句话概括**：The Dugout 酒吧的第一次吵架：搭讪者 James 引爆 Sean 的暴怒（后揭晓他与妹妹 Bailey 的旧账）；Billie 说出「后悔吻你」的狠话又立刻自悔，要求几天冷静期；父女晚餐定下开书店的自留地，
+ch14 the fight.md:11 - **情感弧线位置**：现在线第一次正面冲突——甜蜜期的第一次减速带；Graham 的影子借酒吧重演（他当年也无法容忍别的男人看她），她的应激反应连自己都吓到。
+ch14 the fight.md:30 **中文理解**：Sean 的眼睛烧着一种她从未见过的暴怒，身形拔高、俯视 James——连对 Graham 他都保持过体面，而这次对象只是个陌生人，实在没必要。
+ch15 the barbecue.md:86 **读者视角提示**：注意「餐厅」被她当箭用——那是 Billie 唯一的经济自主权，Eloise 攻击的从来是她的独立。
+ch15 the barbecue.md:149 夏末烧烤局是过去线的毒气室：Eloise 的 hoe bag 与 too good for you 双杀落下了十年后的心理弹片；父亲的 baby girl、额头吻与第一块牛排是同一夜唯一的暖源——她的账本写着「I love my dad—b
+ch16 my bee.md:13 - **人物弧线**：Billie——pride vs need 的天平第一次倒向 need；Sean——"I was a jerk" 的自认与 "I remember all of you" 的十年存档同时交卷；父亲——asleep 的背
+ch16 my bee.md:54 **为什么这样写**：instinctively 与 pride 的拉锯被压缩进一个未按下的按钮——身体的诚实先于自尊的清算；唯一的司机这个实用主义理由，替她的妥协铺好台阶：不是认输，是求生。
+ch16 my bee.md:74 **为什么这样写**：全书最重的信息给最轻的载体——一块亮着的手机屏；备注名 My Bee 把 ch07 的昵称升格为财产登记，那个 <3 是他十年来从未撤下的心形署名（对照 ch09 信件里停掉的 heart）。
+ch16 my bee.md:76 **读者视角提示**：她此刻没作声——作者把「看到」留给读者尖叫：他从来没有真的把她移出去。
+ch17 lego heart.md:13 - **人物弧线**：Billie——拒绝吻的「止损逻辑」第一次压过心动，pessimist 底色全露；Sean——buzz cut、dimples、誓言三件的少年形态定格；Stilinski——背景板室友偷酒听墙角；Eloise——不出场
+ch17 lego heart.md:54 **为什么这样写**：礼物从「傻」到「懂」只隔一声咔哒——玩具的咔哒声是本章唯一的音效，也是心门开合的拟音；scoot back 紧跟在 a piece of my heart 之后：心刚递到手边就被退回，落差即本章的钩。
+ch17 lego heart.md:70 **中文理解**：她的理由：你又要走了，我不想再尝一次第一次的痛——这样更容易。或者说，她是这么说服自己的。
+ch17 lego heart.md:100 **中文理解**：她喊住他：「吻我。」最后一次。他愣了半秒就爬回车里、关上门、照办——双手捧住她的脸，唇慢慢而完美地覆上来，牙齿轻轻擦过她的唇。
+ch17 lego heart.md:114 **为什么这样写**：说出的与没说出的各占一行——his repeats 是利息（他说过一次了），她的 reply 是道歉：第一次把「我爱你」与「对不起」并置成她式爱的完整句式；全章在一句无声的 reply 上收束。
+ch18 new year confession.md:10 - **一句话概括**：父亲的新年派对（五十人、Catan、香槟）上，「在爸爸面前别碰我」引爆 Sean 的积怨——火堆旁他摊牌十年账（"for over ten years I've been in love with you!"），她终
+ch18 new year confession.md:13 - **人物弧线**：Billie——从 "Am I a bad person?" 到主动追出火堆，第一次用语言而非动作回答「你要什么」；Sean——玩笑人的愤怒与 exhaustion 全部出柜；Wesley——旧伤共情（"I get m
+ch18 new year confession.md:86 **读者视角提示**：这是他全书唯一一次先把「我」放句首——读者应该既心疼又警觉：通牒不是爱语，是疲惫。
+ch19 bailey verdict.md:10 - **一句话概括**：cabin 家宴周末：买食材的 Sean、举杯的 Kathy（"I feel like I've got my boy back"）、带着瓢虫雨靴女儿们到场的 Bailey——走廊照片墙前她对 Billie 摊牌（"
+ch19 bailey verdict.md:11 - **情感弧线位置**：甜蜜的第一次「见家长（第二次）」立刻被 sister-in-arms 的否决票打断——Billie 的过去在别人家里是有档案的；章末悬句把镜头推回十年前的决裂现场。
+ch19 bailey verdict.md:76 **读者视角提示**：这是 Billie 十年愧疚被他人第一次大声念出——她心里那本账，本章开始有第二个读者。
+ch19 bailey verdict.md:110 **中文理解**：她恨的是：满脑子只剩那一天——一切都改变的那天；九年前，他们最后一次说话的日子。
+ch20 the ghost.md:30 **中文理解**：唯一能让她忘掉 Eloise 的人是 Sean——但 Sean 已经不是选项了；她已经两天没回他的短信。
+ch20 the ghost.md:34 **为什么这样写**：三句完成「止痛药停药」——先认唯一解，再宣告失效，最后给出证据（two days）；把 ghosting 说成 medical 决定（不是选项），是她的自我麻药。
+ch21 survivor.md:13 - **人物弧线**：Billie——第一次把「got physical」说出口，pessimist 的盔甲开始卸；Sean——jovial 面具下的 "I couldn’t even look myself in the mirror" 
+ch21 survivor.md:36 **读者视角提示**：这是对 ch03 「he didn't stop her」的第一次口头复述——她终于能平静说出，愈合有刻度。
+ch21 survivor.md:80 **中文理解**：答案落地：IED 要了 Nolan 的命——小队唯一的伤亡；他十九岁，只是个孩子，跟当时的 Sean 一样（原文语病照录）。
+ch21 survivor.md:86 **读者视角提示**：唯一伤亡是关键限定——一个人的死换来整队人的余生愧疚：这就是 survivor's guilt 的算术。
+ch22 the slap.md:11 - **情感弧线位置**：过去线的清算顶点——ch20 的 ghosting 有了完整因果链；这一巴掌与她的微笑是全书 Billie 与 Eloise 的最后一次正面交锋，也是父亲十年愧疚的第一张欠条。
+ch22 the slap.md:13 - **人物弧线**：Billie——从 rehearsed 的忐忑到 smirk 的完成态；Eloise——dry（唯一的情绪是愤怒）与 stunned 各半场；父亲——beet red、"I'm sorry" 与 "don't tell
+ch22 the slap.md:60 **中文理解**：一巴掌带着风声落在脸上——刺痛与震惊同时到货，她的手痒得想还击；不能。这是唯一能赢的方式：不跟她降到同一层。
+ch22 the slap.md:66 **读者视角提示**：本库第一次出现身体暴力正面描写——作者不给它配任何背景音乐，冷静反而最响。
+ch22 the slap.md:76 **读者视角提示**：Eloise「stunned」的反应说明这套反击是新的——十年顺从里练出的最后一招，第一次出鞘。
+ch22 the slap.md:94 **为什么这样写**：self-hate 与 worth more 放进同一口气——她第一次把「自我厌恶」定性为人为产物；on purpose 是全章最冷静的控诉：动机不明的恶，她替凶手补全了犯罪构成。
+ch23 wesley.md:64 **为什么这样写**：害怕的对象精确到声音——哀悼最先失去的竟是声波；supposed to 两个词是全段的坟头：不是「想有更多时间」，是「本该」：这个世界的承诺缺口由死者签收。
+ch23 wesley.md:76 **读者视角提示**：他喊了 Bee——昵称在葬礼日出现，是本章唯一的体温。
+ch23 wesley.md:106 **读者视角提示**：Eloise 在本全书最后一次出场——没有拥抱没有和解没有道歉：作者拒绝给施虐者一张赎罪券，读者可以放心合卷。
+ch24 the proposal.md:10 - **一句话概括**：葬礼日的屋顶（Sean 的童年 safe place）上他交出底牌：父亲早与他喝过咖啡、打过持久战（"playing the long game"），临终前说 "the best day of his life wa
+ch24 the proposal.md:13 - **人物弧线**：Billie——两次 I love you 之后第一次面对「婚姻」二字；Sean——从 long game 到 kneel 的十年闭环；Wesley——以托付的方式最后出场；Maggie——空降后援与直球催婚；祖父祖母
+ch24 the proposal.md:104 **为什么这样写**：一句时间戳拆掉全部质疑——比她离第一次见面还早的戒指，证明求婚在丧父剧情之前就已立项；he 主动交代动机的排序，恰好说明他知道别人会怎么怀疑。
+ch24 the proposal.md:110 **中文理解**：三天后她对 Maggie 哭诉：爸爸不在了——第一次结婚他就不在场、结得很糟；现在有了第二次机会，他却真的走了。我以为事情会不一样。我不想再在没有他的情况下做这件事，再也不要。
+ch25 epilogue and then we jump.md:10 - **一句话概括**：十八个月后——她手捧橙色郁金香第一次站在父亲墓前（正是他的生日）：书店开张了、名字叫 Wesley's，婚后定居 cabin；婚后第一个夏天在湖边吃柠檬水与冰棒，Bailey 的 baby steps 终于落地——章
+ch25 epilogue and then we jump.md:36 **读者视角提示**：Wesley 的名字在 ch08 才第一次出现——以父之名命名书店，等于把 ch03 那句「最重要的东西」写成了招牌。
+
+=== ③年龄数字：237 行 ===
+00_情感节点.md:10 离家十年、离婚卖房之后，Billie 把全部家当塞进后备箱开回 Lakewood——没有计划，只有半箱油和「半个女人」。她在父母车道上僵坐五分钟、几乎转身逃走（"I’ll try again tomorrow"），直到门开了：父亲哽咽着唤出
+00_情感节点.md:18 沙发对坐的第一晚是清算之夜：父亲低声宣布 "We got a divorce"（两年前），导火索是 Eloise 私自藏钱蓄谋已久；而父女十年不联系的答案是 "He didn’t reach out because he loved Elo
+00_情感节点.md:42 咖啡馆尬聊之后，cabin 的车程与篝火边完成双重坦白：她交出 "I got married six years ago" 与 "He left me"，他交出 "You are the only person I have ever lo
+00_情感节点.md:58 Le Pigeon 的告白被 Mabel 的到场按了暂停；Sean 用初见记忆（深粉连衣裙、树下读 Pride and Prejudice 的少女）交出十年的存证。饭后闺房夜话里，前婆婆递出全书的题眼："what you’re not ch
+00_情感节点.md:74 九年前一月，她把 Sean 变成幽灵——两天不回短信、吞玻璃般的呼吸、"I’m a ghost."；心与脑拉锯数月后她选了脑。六月，关于纽约的摊牌以 Eloise 的掌掴收场：她捂脸微笑 "Happy now?" 不还手，父亲通红沉默未拦；
+00_概述.md:10 **本书在两条时间线上同时讲一个「回来」的故事。** 现在线里，二十八岁的 Billie 在离婚、卖房之后，把全部家当塞进后备箱开回华盛顿州的小镇 Lakewood——"No plan. Half a tank of gas ready t
+00_概述.md:12 回家的第一晚，父亲 Wesley 哭着重逢（"Hi, baby girl," he says.）之后交出第一个真相：他与 Eloise 两年前已经离婚——导火索是她私下藏钱、蓄谋已久；而十年父女不说话的原因，是他当年选择站在 Eloise 
+00_概述.md:18 cabin 家宴上 Sean 的妹妹 Bailey 递出否决票（"You’re just going to break him"），她以 "I’m not going anywhere" 划地盘（ch19）。料理台双病历互吐：她的离家真相（
+00_概述.md:30 **Billie Sloane（28 岁，第一人称叙述者）**：从 "I can’t believe I’m doing this"（ch01）的自我怀疑，到嫁给 Graham、被离婚、回国、重逢、告白、丧父、被求婚而不答，最后在 Wesl
+00_概述.md:34 **Wesley Sloane（父亲）**：善良而失语的男人——爱做 grilled cheese、躲进办公室与 Stony’s Pizza、十年不敢拦 Eloise。他先失去女儿，再失去婚姻（戒酒两年），最后在重逢的几个月里拿到 "the
+00_金句精选.md:10 **中文**：没有计划；半箱油随时出发；半个女人跟着这半箱油上路。
+00_金句精选.md:31 **中文**：满十八岁、存款攒够就走，绝不回头——如果卷入感情，会毁掉这个计划。
+00_金句精选.md:33 **为什么重要**：全书最大的暗账——她后来的每一次退缩都能回溯到这两个条件。
+00_金句精选.md:45 **中文**：那个女人身体里的爱像一粒沙；十六年里她说「我爱你」的次数一只手数得过来。
+00_金句精选.md:89 **为什么重要**：全书深情的天花板——三个短句把爱的总量、时长、利息一次报清。
+00_金句精选.md:117 **为什么重要**：Sean 十年沉默的总病因在此立户头——ch21 的 IED 细节是它的全文。
+00_金句精选.md:131 **为什么重要**：全书的分水岭——她答不出，于是有了后面九年的缺席。
+00_金句精选.md:132 **呼应关系**：与 ch24 求婚的沉默互为镜像：两次「等她说」，两次悬置。
+00_金句精选.md:145 **为什么重要**：一句诊断替代十次安慰——把她的自我审查翻译成创伤后应激。
+00_金句精选.md:151 **上下文**：乐高项链（白+紫两块一扣成心）的赠言。
+00_金句精选.md:153 **呼应关系**：与 ch02 信件的心形署名、ch16 "My Bee <3" 同一符号系统的三个载体。
+00_金句精选.md:166 **为什么重要**：迟到十年有余的三个词——全书等的就是这一句。
+00_金句精选.md:181 **呼应关系**：与 ch07 "One…two…three!" 逐字呼应：十年前的一跳救了心，这一跳交付余生。
+ch01 billie comes home.md:10 - **一句话概括**：离家十年后，Billie 把全部家当塞进后备箱、没有计划地开回华盛顿老家；她在父母车道上僵坐五分钟、几乎转身逃走，直到父亲开门哽咽唤出她的名字，父女相拥而泣。
+ch01 billie comes home.md:24 **为什么这样写**：三个句子走「预期落空」的阶梯——先立 happily ran away 的旧态，再用 that would be it 写她当年对结局的笃定，最后用 here I am 把笃定砸碎；破折号后的两个 no longer 
+ch01 billie comes home.md:40 **中文理解**：没有计划；半箱油随时能出发；半个女人跟着这半箱油一起上路——她把自己也折算成了「一半」。
+ch01 billie comes home.md:44 **为什么这样写**：三个碎片句是刻意的心跳节奏，两句 half 排比把油量与人的状态对齐——车只装了一半的油，人也只剩一半能上路；把人写成油箱的镜像，是本章最狠的一处自我量化。
+ch01 billie comes home.md:46 **读者视角提示**：记住「半个女人」这幅自画像：她此刻不是完整的、准备好的人，后面的故事就长在这句话上。
+ch01 billie comes home.md:66 **读者视角提示**：这三个 The man who 越暖，接下来父亲沉默着问不出一句话的样子就越冷——作者先把天平的一端加满砝码。
+ch01 billie comes home.md:74 **为什么这样写**：十年的重逢不给台词，只给身体——僵住、落泪、伸手，三个动作替所有说不出的十年发言；as still as a statue 把父亲钉在原地，连「你怎么回来了」都问不出口，激动全走了身体这条通道。
+ch01 billie comes home.md:84 **为什么这样写**：全章最后一句台词只有几个词，比任何一段倾诉都重——baby girl 是童年称呼，十年后有人再这么叫她；tighter 与 harder 的比较级把情绪写成只升不降的斜线，章在最高点上收，不收尾。
+ch01 billie comes home.md:119 十年后 Billie 满载全部家当、没有计划地开回华盛顿老家，在父母车道上僵坐五分钟、几乎转身逃走，直到父亲开门哽咽唤她 “Billie?”——父女在门口相拥而泣，回归落了地，而门内 Eloise 的账还没算。
+ch02 sean enlists.md:10 - **一句话概括**：过去线开章（May, Ten Years Earlier）：Maggie 劝 Billie 毕业后搬来同住，Sean 顺口宣布已参军、八月底去 Texas，还说想与她共度整个夏天；Billie 用「满十八岁有存款就走
+ch02 sean enlists.md:20 **中文理解**：Maggie 说她不在乎 Billie 上不上大学，只想她毕业后搬近一点——合租、在咖啡店打工都行；五十英里的距离她们受够了，从小到大一直如此。
+ch02 sean enlists.md:44 **为什么这样写**：先立环境（最 obnoxious 的人群）再立人（没被同化），让「善良」成为对抗环境的成绩而不是天生禀赋；funny and kind 两个词的并置把好感说清就停，不煽情。
+ch02 sean enlists.md:70 **中文理解**：她对 Maggie 交底：一旦满十八岁、存款攒够，她就离开这里且绝不回头；如果和 Sean 卷入感情，会毁掉这个计划。
+ch02 sean enlists.md:74 **为什么这样写**：把人生目标压成两个可数条件（年龄、存款），再让爱情在等式里只占「毁灭」的位置——她给自己的心动定价的方式是算账；it would ruin it 的 it 指代模糊，恰好暴露她真正怕的不是恋爱，是计划失控。
+ch02 sean enlists.md:76 **读者视角提示**：记住这套「出走算式」——全书后面每一次她想留下或想逃，都会回到这两个条件上重新验算。
+ch02 sean enlists.md:86 **读者视角提示**：两个女孩讨论感情全部用「计划语言」，可见 Eloise 的阴影已经把她们的话术也训练成了求生模式。
+ch02 sean enlists.md:94 **为什么这样写**：身世设定藏在玩笑题的答案里，一石二鸟；technically never officially adopted 两个让步词连用，把法律关系与实际关系一刀切开——没有名分，却承受着全部的虐待。
+ch03 divorce reveal.md:10 - **一句话概括**：回家第一晚父亲坦白他与 Eloise 两年前已离婚（导火索是她藏钱蓄谋），并解释十年沉默是怕她离开；Billie 也交出自己二十八岁、离过婚、回来的真相——两代人的失败婚姻在沙发上摊开，次日清晨她决定长住。
+ch03 divorce reveal.md:11 - **情感弧线位置**：现在线从门口的泪进入对账时刻——十年沉默的代价、离婚的导火索、婚史的隐瞒逐一揭开；章末后院那架开始断落的秋千宣告：告别与修复同时开始。
+ch03 divorce reveal.md:12 - **Tropes 兑现/反转**：兑现「隐藏婚史的开场雷」与「回乡疗伤」；反转落在父亲身上——ch01 的暖男被揭出当年 "standing by her" 的沉默共谋面，又被两年戒酒与一句 "I was a coward" 扳回一城。
+ch03 divorce reveal.md:13 - **人物弧线**：Billie——把婚史说出口（"If I said it out loud, I was afraid it would come true" 的恐惧在此清账）；父亲——哭着认错、戒酒两年、留下房子与秋千；Eloise
+ch03 divorce reveal.md:20 **中文理解**：她从小家里至少有四个不许人坐的抱枕——摆着看的，不是用的；谁敢靠着靠一下，就被赶到别的房间、晾上二十四小时。而这在这个家只是寻常的周六。
+ch03 divorce reveal.md:40 **中文理解**：那个女人身体里的爱像一粒沙那么多；Eloise 在她生命里的十六年中，说过「我爱你」的次数一只手数得过来。
+ch03 divorce reveal.md:44 **为什么这样写**：一粒沙对十六年、两只手对零星几次，两个具体的量具把「缺爱」从感受变成可数的账；先给比喻再给账本，控诉就不显得情绪化——全是数出来的。
+ch03 divorce reveal.md:50 **中文理解**：她六岁时父亲拿到完全监护权；生母连出庭争夺都没去，就这么放手了。
+ch03 divorce reveal.md:54 **为什么这样写**：两个短句完成一整段家史：监护权、年龄、缺席的母亲；didn't even show up 的 even 把「放弃」写得更轻——轻到连争都不争，比争夺更伤人。
+ch03 divorce reveal.md:56 **读者视角提示**：「两个母亲都缺席」的设定在这里配齐——生母法庭上消失，继母在家里施虐；Billie 对「母亲」这个词的全部免疫从这一句开始。
+ch03 divorce reveal.md:60 **中文理解**：她有一部分愤怒到极点：父女十年没说话，而这一切全白费——父亲当年不联系她，是因为他爱着 Eloise。
+ch03 divorce reveal.md:64 **为什么这样写**：愤怒的对象先写给「事实」（十年白费），再写给「原因」（他爱她）——把账从 Eloise 头上分了一半给父亲；loved 这个现在时态用得狠，说的是当年的他，读起来却像现在的疤还没结。
+ch03 divorce reveal.md:70 **中文理解**：她深呼吸压住眼泪——不是为了 Graham，而是想到自己二十八岁要重新开始；然后她以最快语速交底：「我结过婚……但现在没有了。这就是我回来的原因。」
+ch03 divorce reveal.md:76 **读者视角提示**：纽约婚姻的起止、二十八岁回国——她的时间线从这里开始清晰，后面每段闪回都挂在这条轴上。
+ch03 divorce reveal.md:80 **中文理解**：闪回里她当下就明白：「不。他要离开我。」话说到「最后一年——」眼泪先掉了下来，她吸了口气才把后半句说完：「他已经很久不爱我了。」
+ch03 divorce reveal.md:149 父亲坦白两年前已与 Eloise 离婚（导火索 "hiding money at a separate bank"），十年沉默的答案是 "he loved Eloise"；Billie 也交出二十八岁离婚回来的真相——后院 "the swi
+ch04 good vintage reunion.md:20 **中文理解**：车速减到每小时五英里——一块亮丁香色的 Good Vintage 招牌让她全身的血瞬间冷掉：是那家古董店，Sean 的古董店。
+ch04 good vintage reunion.md:54 **为什么这样写**：重逢的冲击被拆成三段闪回：时间、地点、他最后的话——never give up on us 这句旧承诺现在读来全是亏欠；never left 与 lingering back 两个「回不去却回得来」的时间悖论，把双人张
+ch04 good vintage reunion.md:76 **读者视角提示**：对照 ch02 的 Sean——毕业去 Texas 从军、前程远大——如今的他守着一家旧货店：中间这九年发生了什么，本书欠着读者。
+ch05 bleacher confession.md:46 **读者视角提示**：这是生母（drug addict）第二次被提起——注意 Eloise 每次提她都是为了给自己递刀。
+ch05 bleacher confession.md:54 **为什么这样写**：告白中间夹的比喻是全章最准的一笔——折角的书页：她早就读过这段、早就折了角，只是不敢确认页码；两个 I like you 像扣上的两粒纽扣，中间的比喻是针脚。
+ch05 bleacher confession.md:64 **为什么这样写**：同一句话重复两遍，中间夹一个靠近的动作——语言停摆时身体接管；两个「我知道」语气相反：第一遍是接受，第二遍是投降。
+ch05 bleacher confession.md:70 **中文理解**：出门前 Eloise 骂她穿得像 whore、自讨没趣——一小时前她还挺满意自己：新买的短上衣配亚麻裤套装，只露一寸腰，是时髦不是放荡。
+ch05 bleacher confession.md:74 **为什么这样写**：让时辰倒转一小时来对照——同一身衣服，在她自己眼里是 an inch of stomach，在 Eloise 嘴里是 asking for it；trendy, not trashy 的自我辩护越是认真，越显出这话骂得
+ch05 bleacher confession.md:84 **为什么这样写**：先制造听不见（too loud），再让台词走耳朵这条私人频道——把人声嘈杂变成只属于两个人的音量；his hands locked on my spine 的 locked 是占有动词，紧跟的 undeniable s
+ch05 bleacher confession.md:96 **读者视角提示**：这是 Sean 的第二个 promise（第一个是 different lens）——注意他的承诺句式都很短，本书后面会逐一验货。
+ch05 bleacher confession.md:104 **为什么这样写**：她的一句 whisper 对他的一套动作——话停在嘴边，身体替两个人收尾；kissing the top of my head 是亲情的部位、恋情的语境，这个错位正是两人处境的形状；梦的预告收章，把未完成的吻寄存到夜里
+ch06 cabin truth.md:12 - **Tropes 兑现/反转**：兑现「小屋过夜 / 篝火坦白 / 深夜争执」；反转是 Sean 的十年——"You are the only person I have ever loved" 与「Still? — No」在十句之内完
+ch06 cabin truth.md:14 - **叙事手法**：篝火作为坦白的灯光（embers fly past his face）；问答句「Still?」一问一答仅一词，把十年押成一次眨眼；引用 Jack and Diane（John Mellencamp）作时间的参照系。
+ch06 cabin truth.md:24 **为什么这样写**：先立自信再立例外，用但书句式把 Sean 从人群里单拎出来；the one that got away 是言情通用语，但放在这里不是修辞——他是真的走了十年，成语在她的语境里是事实陈述。
+ch06 cabin truth.md:44 **为什么这样写**：Husband. Kids. Big house. 三个名词短语不带动词地砸下来——清单式的人生，反衬出说话人自己那份「不含动词」的生活；keeps me busy 而不是 fulfills me，措辞的凉度就是他的现
+ch06 cabin truth.md:46 **读者视角提示**：Bailey 是作者的对照组装置：同样十年，别人积齐了人生，Sean 守着一家店——他付出的成本到这里才显形。
+ch06 cabin truth.md:54 **为什么这样写**：crowded 前那个停顿是全句的密码——他说的不是镇上人多，是十年积攒的不知所措；把邀约包装成旅游建议，是他给自己的台阶，也是给她随时退出的余地。
+ch06 cabin truth.md:60 **中文理解**：篝火边她终于开口：我六年前结过婚。他飞快眨眼，目光迅速扫向她手上——那里已经没有戒指。
+ch06 cabin truth.md:74 **为什么这样写**：一个词答完身份，一个动作答完时间线——empty finger 是这场婚姻剩下的全部实物；He left me 三个词的主动语态是她的核心创伤：不是婚姻失败，是她被退回。
+ch06 cabin truth.md:84 **为什么这样写**：三个短句是三笔账：爱的总量、等待的时长、利息（十年）；stutters 与咬腮、碾脚跟的搭配把「深情」钉在难堪里——他不是在表白，是在被追问下交底。
+ch06 cabin truth.md:94 **为什么这样写**：她的控诉用他的深情反打——你说爱我却走了，这两件事在句法上互为因果，在十年里各自生锈；The words just slip out 与 ch05 那个 slip 遥相呼应：真话都趁人不备才出逃。
+ch06 cabin truth.md:100 **中文理解**：她交出迟到十年的真相：我本该直说——我受不了异地，我很自私。话一出口脸就垮了，能终于道歉反而是一种解脱。
+ch06 cabin truth.md:149 篝火边两笔账对清：她交出 "I got married six years ago" 与 "He left me"，他交出 "the only person I have ever loved" 与十年等待；「你丢下我」vs「我已入伍」的争
+ch07 lake day.md:24 **为什么这样写**：先给日历上的死线（two weeks），再给体感上的失速（shooting star）——两个计时器一慢一快地互相拆台；dreamt it 是不祥的修辞：太好的东西连亲历都像幻觉，为离别预热。
+ch07 lake day.md:64 **为什么这样写**：暴行与借口之间的落差全靠细节计量——生日、派对、杯垫，三个名词一个比一个小，恶意的荒诞就堆出来了；她用 sarcastically 自己标注语气，等于替读者省去判断：这不是抱怨，是证词。
+ch07 lake day.md:74 **为什么这样写**：两个 choice 的对仗把父女十年恩怨收进一句判词——她不再等他选她；get to 的用词带着终于拿回主权的一口气，平静底下是划清界限。
+ch07 lake day.md:106 **读者视角提示**：她第三次用 like 挡住 love（ch02 "I like you too"、ch05 舞池、此处）——like 是她能给的最大面额，这是本书爱情线的汇率。
+ch08 gunderson house.md:10 - **一句话概括**：父女同去 Gunderson 夫妇的出租屋看房（Sean 递的线索）——她急到备好六个月预付金；父亲这才得知 Sean 的存在；纽约书店旧事与「开自己的书店」的念头浮出，签下十二个月租约，章末终于感觉在 move o
+ch08 gunderson house.md:24 **为什么这样写**：两个动词短语（strained、push through）把十年隔阂压成行车里的沉默；formality 一词写出她对父亲的低预期——重逢的热情她只敢按礼数折算。
+ch08 gunderson house.md:30 **中文理解**：她自评是完美租客——单身、无宠物、当天就能付钱，必要时六个月预付金也备好了；这看起来很 desperate，因为它确实是。她需要住在这里，需要这份安宁。
+ch08 gunderson house.md:34 **为什么这样写**：It seems desperate, because it is 是全章最诚实的一句——同位语自我盖章，不给体面留缝；两个 I need 的排比把租房升格为求生，钱在这里买的是呼吸权。
+ch08 gunderson house.md:36 **读者视角提示**：desperate 的对象不是房子，是「离 Sean 的小屋一英里」这个坐标——她自己没说破，读者要对齐地图。
+ch08 gunderson house.md:70 **中文理解**：Mrs. Gunderson 递来申请表和笔，她几分钟填完、对这地方很有把握；十二个月的租约显得好长——标准是标准，但此刻一整年像一辈子。
+ch08 gunderson house.md:74 **为什么这样写**：租约的「长」与人生的「一辈子」并置——她连承诺十二个月都心虚，因为上一个十二年式的承诺（婚姻）刚碎；feels like a lifetime right now 的 now 是全句的锚：她活在缩小的时间单位里。
+ch08 gunderson house.md:90 **中文理解**：她咬着嘴唇含糊应下「也许吧」；随后半小时里老夫妇你一言我一语，讲在这屋里养儿子的旧事——吱呀作响的门把手、时好时坏的水压。她却已经觉得自己住进了这里：终于，感觉像在往前走了。
+ch08 gunderson house.md:94 **为什么这样写**：嘴上的 maybe 与心里的 already 同时出镜；中间塞进半小时的旧物故事（门把手、水压）——房子的历史先住进来，人才跟着搬；两个 It feels like 的排比把「想通」写成体感，moving on 不再是
+ch08 gunderson house.md:129 看房一日办成三件事：付得起六个月预付金的 desperate 落进十二个月租约，父亲 Wesley 得知 Sean Kingsley 仍在她生活里，Mrs. Gunderson 一句 "That boy has a whole lot of
+ch09 the lie.md:12 - **Tropes 兑现/反转**：兑现「刷墙同居感 / 外媒式喂食 / 门口回头」；反转是双重撤回——Sean 撤回十年前的离开（enlist 的承诺账），也撤回 ch06 篝火边那句 No。
+ch09 the lie.md:14 - **叙事手法**：以「刷墙—喂食—牵手—军旅—门口」五场戏给身体接触逐级升温；chow-mien 喂食接 ch05 舞池的耳语频道；12:32 a.m. 的炉钟把「聊到忘记时间」写成在场证明。
+ch09 the lie.md:34 **为什么这样写**：主动权在动作里易手——glide 与 plant 把这吻写成她单方面的宣言；stubble lingering 是接触的慢镜头，而 widened 的眼睛是收据：十年前不敢牵手的人，今天被她亲到了。
+ch09 the lie.md:44 **为什么这样写**：客套话里藏一枚十年前的暗器——Bee 夹在 thank-you 的礼貌句式里出场，杀得她措手不及；vibrating 把昵称写成音叉：一个词敲在十年的空腔上。
+ch09 the lie.md:74 **为什么这样写**：again 一个词扛起十年——等待不是新决定，是旧承诺续期；more 前的省略号替他把那句关系定义说得欲言又止，把定义权完整交给她。
+ch09 the lie.md:84 **为什么这样写**：青春期的未遂心愿在十年后被她的一个动作兑现——courage 的缺席与 reach over 的到场互为因果；disappear 这个动词把保护欲写成尺差，亲密全部藏在比例里。
+ch09 the lie.md:86 **读者视角提示**：牵手迟到十年才完成——本书的 romance 全是「延期兑付」结构，这一格终于到账。
+ch09 the lie.md:96 **读者视角提示**：Sean 的十年债务在这里立户头——他把最好的十年交出去，还欠着一句没说完的 He。
+ch09 the lie.md:149 新居的刷墙日以双重坦白收尾：他在餐桌上交出等待条款（"I'm okay waiting again"）与战场的半句遗痕（"I lost someone over there"），又在门口回头补上真正的十年欠账——"I lied—when I
+ch10 nolan and new york.md:24 **为什么这样写**：leech 吸住不放的意象把一句话写成持续失血——失眠有了生理学；三个疑问句全部指向同一矛盾（说了又走、等又说爱），wires crossed 替混沌命名：她不是没听懂，是信号源乱了。
+ch10 nolan and new york.md:50 **中文理解**：镜头一转是 Sean——她爱上他时比遇见 Graham 时更年轻；她忍不住想象嫁给他的人生：大概有一两个孩子、一栋河边的房子——那一直是她和他的梦。
+ch10 nolan and new york.md:80 **中文理解**：她有时觉得重逢像一场高烧梦——怎么就运气好到有了第二次机会？她猜是上帝的安排：她本不信教，离婚后却天天祷告，求的正是第二次机会。她想，这就是了。
+ch10 nolan and new york.md:96 **读者视角提示**：Sean 的十年至此归档：入伍、丧友、退役、守店——他不是没走进世界，是世界收走了他的 Nolan。
+ch10 nolan and new york.md:106 **读者视角提示**：六小时航程+她的飞行恐慌=本章的密闭舱——注意这个座位安排给本段对话锁定了地形。
+ch10 nolan and new york.md:114 **为什么这样写**：三个词完成挽留——dare 把让座上升成冒犯，squeezing 把否决写成体感；与 ch09 门口的关门相反，这次他的手把人留在了原位。
+ch10 nolan and new york.md:149 一夜水蛭式的失眠换来三笔进账：Sean 晨后道歉（emotions overshadow common sense），Nolan 之死把他的十年补全（"That's why I resigned."），纽约之约在登机口的十指相扣里起飞——"
+ch11 the first kiss.md:34 **为什么这样写**：两个 I thought 开头的破功句——兴奋的预期被真实的失落追平；but— 的破折号停在半空，把说不出口的部分留给她（也留给读者）补全。
+ch11 the first kiss.md:64 **为什么这样写**：两问句立起一日的契约——forget 与 pretend 是共同演出的两张门票；all the time in the world 明知是假，说出口就是要一起入戏。
+ch11 the first kiss.md:80 **中文理解**：初吻落下——温柔柔软，却带着急切，像他等了一辈子才把唇贴上她的；周围一切开始淡出，世界只剩两个人。
+ch11 the first kiss.md:84 **为什么这样写**：gentle 与 urgency 两个形容词方向相反，正是初吻的真实配方——克制了两个月，礼貌里全是火；fade 的镜头语法把世界调暗，为后续对话腾出只剩彼此的舞台。
+ch11 the first kiss.md:100 **中文理解**：他交出最后的牌「可是我爱你，Bee」，她只答得出「我知道」——她骂自己可悲：就三个简单的词，她说不出，明知道接下来会发生什么。
+ch12 mabel dinner.md:11 - **情感弧线位置**：告白被两次押后——ch09 门口一次、本章餐桌一次；Mabel 以局外人+半个母亲的身份把「告白欠账」推到悬崖边，房间只隔一扇连通门。
+ch12 mabel dinner.md:13 - **人物弧线**：Billie——告白台词再次卡在喉咙，恐惧点升级为「怕重蹈覆辙」；Sean——初见记忆证明他记了十年；Mabel——cheerful 的皮相下句句精准；Maggie——远方引信与无辜泄密者。
+ch12 mabel dinner.md:54 **为什么这样写**：拒绝的难度被归因到对方的善——「好到无法说不」是一种温柔的绑架；took me in 是收留流浪者的用词，把前婆媳关系写成半个收养，补上她人生里缺的那位母亲。
+ch12 mabel dinner.md:56 **读者视角提示**：对照 ch04 心理医生的「病源清单」——drug addict 生母与冷淡继母之后，Mabel 是她认领的第三个「母亲选项」。
+ch12 mabel dinner.md:84 **为什么这样写**：两次坦白同框对齐——她的 frozen 与他的 shamefaced 是同一晚在两人身上留下的不同霜；That you still loved me… 的省略号停在句中，告白被推到嘴边又悬住，门外的 Mabel 随即收
+ch12 mabel dinner.md:104 **为什么这样写**：初见记忆的细节密度就是爱的存期证明——书名选得也准：Pride and Prejudice 正是「误解与傲慢」的题库，两人十年都在错位；最后一句把她的固执从缺点改写成魅力，他的十年滤镜全在这里曝光。
+ch12 mabel dinner.md:106 **读者视角提示**：他用「第一天」的记忆做自我介绍——比任何简历都动人，也给她递回一件十年前的自己。
+ch12 mabel dinner.md:149 纽约第一晚的告白被 Mabel 的到场按了暂停键：Sean 的初见记忆（dark pink dress / Pride and Prejudice）替他交出十年的存证，前婆婆在闺房夜话里递出全书题眼——"what you're not ch
+ch13 fake boyfriend.md:10 - **一句话概括**：Maggie 生日会上 Graham 不请自来——Billie 发起「假男友一晚」计划，Sean 对 Graham 双重摊牌（"Her boyfriend" / "thanks for that, buddy"）；M
+ch13 fake boyfriend.md:34 **为什么这样写**：sarcastically 一个副词给前夫定调——他的出现是表演不是意外；第二句短到只有三个词，用否定句式演出大脑当机，与 Maggie 的 pale 同步定格。
+ch13 fake boyfriend.md:70 **中文理解**：Sean 顶回去：幸好你离开了——因为这样我才有第二次机会。谢了，buddy。
+ch13 fake boyfriend.md:84 **为什么这样写**：blacked out 把主动出走的自己写成被迫营业的身体——她的理智在 Mabel 那句金句里提前签了字；not knowing how I feel 把告白动机从欲望改写成义务：她欠他一句十年没说的话。
+ch13 fake boyfriend.md:96 **读者视角提示**：对照 ch11 卡车边他等来的初吻——同一个动作，十年后换了施与方：这本账终于双向对冲。
+ch13 fake boyfriend.md:114 **为什么这样写**：她踩下刹车的方式是「放开」而不是「逃开」——releasing 与 gently 的细节证明这个暂停双方都体面；out of breath 是全章的身体总结：十年的账一次结清，喘的不只是肺。
+ch13 fake boyfriend.md:149 生日会上假男友计划成真：Sean 以 "Her boyfriend" 与 "So thanks for that, buddy." 双重摊牌，Maggie 的钻戒宣布别人的人生进度；凌晨一点的连通门前她结清十年告白欠账——"I've wai
+ch14 the fight.md:24 **为什么这样写**：两只纹身一上一下爬过脖子，把人物画在皮肤上；not very Lakewood 的造词句式是她的本地坐标系——小镇用它自己的尺度丈量外来者，这个玩笑为后文的「生人勿近」定下音量。
+ch14 the fight.md:34 **为什么这样写**：用 Graham 当愤怒的度量衡——对十年宿敌尚能克制，对陌生搭讪者却爆表，反差本身就是信息：触发他的不是挑逗，是「失去过一次」的旧伤；towering 与 posture 的物理升级让暴怒有了体积。
+ch14 the fight.md:46 **读者视角提示**：她的抗议句子全短促——与Sean 的爆发句式同构：两个人在用同一种失态吵架，只是音量不同。
+ch14 the fight.md:54 **为什么这样写**：三个短句三笔罪状，Did things to her 刻意不展开——伤害的不可言说性由省略承载；最后一句翻转全场：他不是吃醋的疯子，是认出罪犯的家属——暴怒立刻获得前史。
+ch14 the fight.md:84 **为什么这样写**：三个短句递进成清单——先要信任，再指出账本还没翻开；already fighting 的 already 是她的时间恐慌：十年都等了，吵一架就慌，可见她怕的不是吵架是失去。
+ch14 the fight.md:104 **为什么这样写**：诊断前的两个动作都是清场——推盘子、俯身，饭桌瞬间变诊室；hurt again 的 again 是全句重心：他没说她苛刻，说的是她那次没痊愈。
+ch14 the fight.md:106 **读者视角提示**：父亲在本章完成人设升级——从 pizza 外交的笨拙到一句切中十年：他缺席的十年里想了很多。
+ch15 the barbecue.md:10 - **一句话概括**：与 Sean FaceTime 三个小时后，Eloise 的夏末烧烤局开场——「男朋友」嘲讽升级成人身羞辱；父亲在烤架边用 baby girl 与第一块牛排撑住她；她心知自己正做着自己说过不做的事（跟别人调情解闷），
+ch15 the barbecue.md:12 - **Tropes 兑现/反转**：兑现「恶毒继母公开羞辱 / 父亲温情补给」；反转是父亲的处境曝光——原来这个家里被 Eloise 磨掉的第二个人是他（办公室里独自喝酒看电视）。
+ch15 the barbecue.md:13 - **人物弧线**：Billie——内疚与逃离冲动的合流点；Sean——每日来电的执着与「从不问旧账」的默契回避；Eloise——hoe bag 一骂刷新语言下限；父亲——wince、apron、baby girl 三件套的温柔防线；La
+ch15 the barbecue.md:14 - **叙事手法**：手机屏幕（FaceTime）与烤架（grill）两个热源对照；baby girl 呼应 ch01 门口重逢——同一句称呼隔十年两用；章末一句话完成全书最短章的情绪决算。
+ch15 the barbecue.md:54 **为什么这样写**：三句完成自我审判——先对账（exactly）、再给方案（letting him go）、最后掀底牌（all along）；planned 的过去时把背叛提前十年备案，读者此刻才看清她的默认设置。
+ch15 the barbecue.md:74 **为什么这样写**：一句话两层侮辱——先物化 Sean（牵着走的男孩），再 slut-shame Billie（hoe bag）；just the boy 的轻蔑定冠词把十年的感情贬成一截绳子，语言暴力在此完成对本章的封顶。
+ch15 the barbecue.md:76 **读者视角提示**：她此刻眼睛开始发烫——这一骂她记了十年：现在线的每一次自我辩护里都有这句的回声。
+ch15 the barbecue.md:90 **中文理解**：父亲知道这一刀也砍向他——Eloise 长期贬低管酒馆的他；他每晚多待一小时只为躲她：名义上是 paperwork，其实是一个人在办公室喝酒看电视。说实话，挺惨的。
+ch15 the barbecue.md:94 **为什么这样写**：把父亲的沉默史一次结清——加班、公文、独饮三层揭底，婚姻里第二个受害者领取姓名；It's depressing 的冷静收尾比任何控诉都重：连女儿都用旁观者的口吻了。
+ch15 the barbecue.md:104 **为什么这样写**：三个动作连招——称呼、额头吻、问人，父亲的关心永远绕开自己；baby girl 正是 ch01 门口重逢的那句呼唤：同一句台词，一头一尾，把这个家的温度计只装在父亲身上。
+ch16 my bee.md:10 - **一句话概括**：酒吧冷战归途冰路失控撞树——她拨出那个骄傲拦不住的电话；Sean 雪夜救场、卡车手机架上 recent calls 顶端躺着 "My Bee <3"；浴室包扎里互歉收场、疤痕点名（狗咬疤/雀斑/头发）一路点名到卧室门
+ch16 my bee.md:12 - **Tropes 兑现/反转**：兑现「车祸呼叫 / 包扎定情 / 疤痕点名」；反转是主动权延续——ch13 她敲门、本章她拨号：救赎的三次出手全是她。
+ch16 my bee.md:44 **为什么这样写**：伤口的揭晓用认知延迟演出——从「汗」到「血」的一次误认，把惊吓分两次入账；「急刹车的脚踝」是只属于司机的伤，细节精确到 shoes 级，可信度由此建立。
+ch16 my bee.md:56 **读者视角提示**：吵架几小时后拨出的这通电话，是关系的第一张信任票——比任何道歉都有效。
+ch16 my bee.md:80 **中文理解**：他终于解释酒吧的失控：十年想要你、等我们的时刻——所以才会忍不住想护住我们拥有的一切。
+ch16 my bee.md:84 **为什么这样写**：两段省略号是两次深呼吸——他把十年拆成「想要」与「等待」两笔账再合并成 protect 的动机；what we have 用进行时态的拥有物，暗示这段关系此刻已经是「有」。
+ch16 my bee.md:86 **读者视角提示**：这与 ch14 那场架的根因对齐——他的 possessive 不是性格，是十年焦虑的症状。
+ch16 my bee.md:100 **中文理解**：他的指尖描过她右颊那道七岁被爱犬咬的小疤：「每一道疤我都记得」——鼻梁、颧骨、发梢一路点名：「你头上的每根头发……我记得你的全部」。
+ch16 my bee.md:106 **读者视角提示**：与 ch09 信件里停掉的署名相反——他的记忆从不停更：这就是「十年没爱过别人」的物证。
+ch16 my bee.md:116 **读者视角提示**：与 ch05 "Not like this" 首尾相扣——同一个暂停动词，这次停在了双方都准备好的一侧：作者把分寸感还给了十年。
+ch17 lego heart.md:10 - **一句话概括**：圣诞前的惊喜空降——Sean 从训练营出现在 Good Vintage；车内 New City Burgers 与乐高心形项链（白+紫两块一扣成心）；她拒绝告别吻，他立下 "try until I die" 的誓；关
+ch17 lego heart.md:34 **为什么这样写**：礼物的用途被她解读成「气味绳索」——用感官拴人，是异地恋里最温柔的自私；slipping away 的进行时连用三个短句（see it / feel it）宣读病危通知，双方都在等判决。
+ch17 lego heart.md:40 **中文理解**：她有一两次在 FaceTime 里睡着；就算睡了他也不断线，看着她——她有时甚至装睡，想看他会有什么反应。幼稚吗？知道。但值得。
+ch17 lego heart.md:44 **为什么这样写**：守夜与试探共用一条线路——他不挂是深情，她装睡是不信任的可爱形态；两个「假的睡」在同一通电话里互演，恰是这段关系「谁都不敢先醒」的隐喻。
+ch17 lego heart.md:50 **中文理解**：他把两块乐高叠在一起——咔哒一声拼成心形：「这样你就记得，你永远握着我心的一块。」他凑近想吻，她向后缩、停住了他。
+ch17 lego heart.md:56 **读者视角提示**：两块分离时是两颗独行的积木，扣上才是心——这游戏的规则就是两人关系的规则，记住它。
+ch17 lego heart.md:80 **中文理解**：她自问：我们不过是两个小孩——懂什么爱、什么承诺？Sean 在脑子里把结局写成「我们会想出办法、会走到最后」；她不能拿真相让他失望。
+ch17 lego heart.md:94 **为什么这样写**：誓言、下Door、回望、告白四个动作排成一列——love 放在关门之后说，像把信塞进门缝；try until I die 的重申让这句话从情话升级成合同条款。
+ch17 lego heart.md:104 **为什么这样写**：全章她只主动这一次，两个词成交——half a second 写他的犹豫与心跳同频；grazes his teeth 把吻的质感从「温柔」调成「真实」，痛感微量、记忆满分。
+ch17 lego heart.md:106 **读者视角提示**：ch17 的拒吻与章末的讨吻出自同一双手——她用 200 页的篇幅学会了「要」。
+ch17 lego heart.md:149 惊喜空降的十二月：乐高两块一扣成心（"a piece of my heart"），她用 "we can't kiss" 给心动设止损；他用 "try until I die" 立誓、用关门后那声 "I love you" 钓出她的最后一吻—
+ch18 new year confession.md:11 - **情感弧线位置**：全书情感线的清账之夜——Graham 的 "too emotional" 回声与 Sean 的十年控诉正面对撞，她的三个字把两笔账同时结清。
+ch18 new year confession.md:20 **中文理解**：看到五六十岁的成年人在走廊角落接吻，她觉得新奇——但也欣慰：原来火花不必随年龄熄灭（原文语病照录）。
+ch18 new year confession.md:24 **为什么这样写**：先陌生化再反转——同一行为从「奇怪」读成「refreshing」，视角两段完成换挡；这句对老年爱情的观察是给主线立的镜子：她与 Sean 的十年也在这里找到先例。
+ch18 new year confession.md:34 **为什么这样写**：用输掉的牌局给笑容定价——grin 的「贴」(plastered) 是面具动词：他的乐观从来是劳动；envy 一词把她十年的仰望说破，为后面她的沉默补了注脚。
+ch18 new year confession.md:44 **为什么这样写**：请求本身合理（父女在场），错在时态——它落在Sean 十年等待的神经上；whispered tone 与「怕人盯」把她的羞怯写成了社交防御，误伤因此不可避免。
+ch18 new year confession.md:84 **为什么这样写**：十年的耐心在此换算成一句通牒——give in 的用词狠（不是 love me 是 give in），暴露他委屈的形状；I'm done 的 done 是英文里最重的句号，与 ch17 的 try until I di
+ch18 new year confession.md:94 **为什么这样写**：两个男人的评价表并排贴出——too little 与 too much 中间隔着一段婚姻，自我认知被撕成两半；flipped 的翻转把 Graham 那句 "You're too emotional" 的毒针显影。
+ch18 new year confession.md:100 **中文理解**：他吼出十年账：我一向明确喜欢你——老天，我爱上你超过十年了！现在轮到你了：你怎么想？
+ch18 new year confession.md:114 **为什么这样写**：他的 This is it（没有退路）与她的 slip out（拦不住）是同一时刻的两条语法——一个主动全押，一个被动缴械；全名 Sean 挂在句尾，签名式的郑重与 ch16 一脉相承。
+ch18 new year confession.md:116 **读者视角提示**：三个词迟到十年有余——「For once, the words feel nothing but true」是全书等这句台词的真正理由。
+ch18 new year confession.md:149 新年派对把十年的账摆上火堆：他吼出 "for over ten years I've been in love with you!"，她以 "I love you, Sean." 首次签收——"Thank you" 与额头相抵是这张迟到支票
+ch19 bailey verdict.md:14 - **叙事手法**：土豆选购做喜剧减压阀；照片墙（十岁的 Sean 滑垃圾桶盖）做时间对照物；瓢虫雨靴的童真道具反衬餐桌上的成人战争。
+ch19 bailey verdict.md:44 **为什么这样写**：两句并置完成诊断书——Iraq 与 Nolan 是他十年暗淡的病因学，spark 是复健证明；growing up 一词把病因推得更早，暗示这场修复与她、与他的少年时代同源。
+ch19 bailey verdict.md:60 **中文理解**：Bailey 宣判：他做什么是他的事，但我有权劝阻——你钻空子混回我弟弟的生活；你只会再把他弄碎，他经不起第二次了。
+ch19 bailey verdict.md:64 **为什么这样写**：控诉三连有明确的逻辑链——先声明干预权、再给 Billie 定罪（weaseled：钻洞的鼬）、最后亮出监护理由（break him）；break 的用词与 Nolan 的死对仗：她眼里弟弟已经碎过一次，碎不起第二次。
+ch19 bailey verdict.md:70 **中文理解**：她甩出最重的一刀：知道吗，他这辈子没谈过一场认真的恋爱——他心碎了好几年、深爱着你、始终放不下你。而你，没多久就嫁人了，不是吗？
+ch20 the ghost.md:10 - **一句话概括**：决裂之章：Sean 两周假期将至、短信仍在规划情侣泳衣与 jacuzzi，她已两天不回音——「我是幽灵」；门内 Eloise 隔门辱骂一小时，门外计划成型：一万多美金存款 + 待说服的 Maggie = 纽约。
+ch20 the ghost.md:11 - **情感弧线位置**：全书最痛的一章——吞玻璃的呼吸、心与脑的两个住址、Maggie 的 ghost 许可；ch19 悬着的「九年前那一天」在此落幕，代价是两个人的心脏各留一道口。
+ch20 the ghost.md:13 - **人物弧线**：Billie——cruel 但自知（"There isn't any way to justify it"）；Sean——不知情的甜（swimsuits/jacuzzi）成为最锋利的背景音；Eloise——一小时门内辱
+ch20 the ghost.md:36 **读者视角提示**：注意顺序——先有「不是选项」的结论，再补两天的行为：她先在心里分手，才在手机上执行。
+ch20 the ghost.md:46 **读者视角提示**：这声「情侣泳衣」会空转十年——现在线每一次成双的细节都是它的迟到回音。
+ch20 the ghost.md:54 **为什么这样写**：四个短语连成自判书——coword 与 addicted 把「不说」定罪为主动的恶；invisible string 与 ch15 Eloise 的「pull along on a string」同一意象反向回收：她骂
+ch20 the ghost.md:66 **读者视角提示**：记住吞玻璃这个意象——它和 ch01 的「半箱油、半个女人」同属她的自伤语法。
+ch20 the ghost.md:80 **中文理解**：她像同时住在两个地方——心还在盼「也许、也许」能等他；脑在喊放手。两个住址拉锯数月，她选了后者。
+ch20 the ghost.md:84 **为什么这样写**：把内心战争写成两个住址——heart 的双重 maybe 叠出希望的真实厚度，让脑的胜利更冷；chose the latter 的落下不带一个情绪词，宣判 dry 到极点。
+ch20 the ghost.md:139 她把自己变成幽灵：两天不回的短信撞上他清晨的情侣泳衣计划（6:42am），吞玻璃的呼吸替她说了所有没说的话——心与脑拉锯数月后她选了脑；Maggie 的 gut-许可、一万多美金的假账存款与纽约的梦，在这章末尾全部上膛。
+ch21 survivor.md:10 - **一句话概括**：cabin 第二晚下厨：她向 Sean 交底离家的完整真相（Eloise 动手那晚）与自我赦免（"I survived it all"）；书店正式官宣；他讲出 Nolan 全案——IED、十九岁、survivor's
+ch21 survivor.md:12 - **Tropes 兑现/反转**：兑现「下厨定情 / 创伤互吐 / 泪中带笑收尾」；反转是求生叙事——她 survived Eloise，他 survived Nolan，两个人都是幸存者，互相读了对方的病历。
+ch21 survivor.md:14 - **叙事手法**：切菜-剥土豆的动作给对话打拍；IED 两个词的「stable voice」比嘶吼更重；onion 笑话让眼泪合法化——本章的悲伤全程有出口。
+ch21 survivor.md:34 **为什么这样写**：控诉按主从排序——先打主犯再带从犯，went with it 三个词把父亲的罪定成「顺从的懦弱」；You know how it was 的省略是给知情者的快捷通道：他见过，不用翻译。
+ch21 survivor.md:44 **为什么这样写**：叙事在 got physical 前安排一次 pause——停顿是最后的准备，说出「动手」两字用的是全章最平的语调；「我需要的其实是她离开」这句反转把十年的自我怀疑（almost needed her）一次剪断。
+ch21 survivor.md:64 **为什么这样写**：告白结构用在职业宣言上——wait、ball rolling、big 全是发布会的语汇；书店在此前已两次露头（ch08、ch14），本章才正式官宣：她的决定一贯三思而后挂横幅。
+ch21 survivor.md:74 **为什么这样写**：破折号与 pause 双重停机——十年没讲的故事在第一个从句就卡住；用提问代替叙述，他把最重的部分先做成考题：能开口，是因为她刚刚把最痛的家史先交了。
+ch21 survivor.md:76 **读者视角提示**：注意对称——她讲 Eloise 用了三块，他讲 Nolan 也快了：两张病历本同时翻开。
+ch21 survivor.md:84 **为什么这样写**：ch10 交出的名字在本章配上全部档案——十九岁、独一个、孩子；「just kid」的语法滑倒（漏了 a）像创伤现场的手抖，比语法正确的句子更疼。
+ch21 survivor.md:94 **为什么这样写**：三条平行的「人生进度」全停在十九岁——用 Nolan 未完成的生活清单丈量死亡的重量；Why him 不带问号的循环结构（内心独白体）说明这问题他问了十年、无人能答。
+ch21 survivor.md:104 **为什么这样写**：十年的病历在省略号处翻页——genuine 一词盖章这次微笑不姓 Sean-smile（那是招牌），姓痊愈；「走进店里」五个字是 ch04 那场重逢的病历批注：她不知情的那一天，救了他。
+ch21 survivor.md:114 **为什么这样写**： Onion 玩话把两个哭过的人合法地拉回日常——「你已经在哭了」是温柔的发国难财：眼泪有了出处，疼痛有了台阶；joke 的回归宣告 Sean-smile 重新上线，但这次不遮掩什么。
+ch21 survivor.md:149 料理台上的双病历互阅：她交出 got physical 的离家真相与 "I survived it all" 的赦免，他交出 IED、十九岁与 "Why wasn't it me?" 的十年刑期——"you walked into the 
+ch22 the slap.md:10 - **一句话概括**：离家宣言日——NYU、Brooklyn 公寓、11 天倒计时；Eloise 从「最蠢决定」骂到掌掴，她捂脸微笑 "Happy now?" 不还手；父亲通红沉默未拦；她拖上薰衣草行李袋，甩下 "You're just 
+ch22 the slap.md:34 **为什么这样写**：最高级句式是施虐者的标准开场——先把十年贬成素材库、再把今天定为最蠢；trembling 与开口宣布的勇气同框：身体怕，人不停。
+ch22 the slap.md:40 **中文理解**：「白拿」？她这辈子被 Eloise 像皮纳塔一样抡来抡去——对方把一切举在她头顶，连呼吸方向错了都能被记几个月。
+ch22 the slap.md:54 **为什么这样写**：把婚姻本身变成威胁筹码——她惩罚的不是 Billie 的行为，是 Billie 的存在；spoiled（惯坏）与十几年真实的待遇完全对不上，谎言大到反证：骂她的人才是那个「getting into」错的人。
+ch22 the slap.md:56 **读者视角提示**：这句话是 Billie 十年自我怀疑的出厂设置——ch21 的「I forgave myself」烧的就是这一条。
+ch22 the slap.md:86 **读者视角提示**：这一段是父女线十年沉默的起源镜头——ch01 的拥抱要花一整本书才能还清这一笔。
+ch22 the slap.md:106 **读者视角提示**：受害者的「你怎么不早说」对幸存者是二次伤害——本书对「好人的失职」的批判，到这里完成定音。
+ch23 wesley.md:10 - **一句话概括**：父亲心梗离世（清晨 7:00 的电话）——她独自操办花圈与棺花、在 Hanford 小餐馆写下写不完的悼词；墓园人流远超预期（连九十岁的老篮球教练都来了）；会后取三明治时 Eloise 停车场现身，她以 "Good 
+ch23 wesley.md:11 - **情感弧线位置**：全书最大的丧失落在「刚和好」之后——重逢的甜被死亡收割；solo 模式（独自办事）第三次上线，代价与意义同时重估。
+ch23 wesley.md:13 - **人物弧线**：Billie——solo 与 guilt（"I spent his last days with someone else's family"）的双线内耗；Sean——被拒仍守在十步内（停车场布置、门口之吻）；Eloi
+ch23 wesley.md:20 **中文理解**：此刻她站在上百种花束中间，为明天的葬礼挑选棺花——毫无预警；就在她刚重新认识父亲的时候，他永远走了。
+ch23 wesley.md:50 **中文理解**：悼词草稿里的记忆：五岁流感吐他一身 OSU 卫衣——他不恼、不吼，抱着她让这一切过去；他就是那种人：任你吐他一身，只要你舒服。
+ch23 wesley.md:54 **为什么这样写**：悼词拣的不是大事是呕吐——grand 情绪找不到词时，身体记忆先说话；didn't get mad / didn't yell 两个否定句叠出他的为人底色：他一生的温柔都长在「不」里。
+ch23 wesley.md:70 **中文理解**：墓园人满，她以为走错了地方——他说：我提前来确认过布置；这些都是为你父亲来的，Bee。发小们——还有一位九十岁的老篮球教练。
+ch23 wesley.md:74 **为什么这样写**：Sean 的三重服务（踩点、解释、报幕）在 sad 场景里穿插 comedy（九十岁的教练）——attempt to be cheerful 试图调节失败的温柔；人群的规模替沉默的父亲完成迟到的人缘平反。
+ch23 wesley.md:96 **读者视角提示**：对照 ch22 的沉默离场——这次她主动上车、摔门、开车走：力量的反差就是十年差距。
+ch23 wesley.md:104 **为什么这样写**：宽恕论与驱逐令在一段内完成合流——原谅是内在工程，见面是外部风险，她分得清清楚楚；Just where she belongs 的 belongs 一词双关（属于那里/只配那里），为十年恩怨盖下最后一枚章。
+ch23 wesley.md:149 父亲的葬礼办成了两场告别：写给他的悼词停在「怕忘记他的声音」（"We were supposed to have more time."），写给 Eloise 的判决停在 "Just where she belongs."——grilled
+ch24 the proposal.md:24 **为什么这样写**：握手被降龄为安抚物——成年人的崩溃需要婴儿级的抚触；第三个「谢谢」最重（给独处的许可）：Sean 的体贴在于他知道什么时候放手。
+ch24 the proposal.md:34 **为什么这样写**：他的承诺用履历背书，她的自省用虚拟语气——wish I could 的 could 是全书诚实度的峰值：她承认自己「走」的历史；两句话的对比就是这十年关系的不对称账目。
+ch24 the proposal.md:44 **为什么这样写**：重逢以来所有的巧合（Gunderson 的房、教堂咖啡店、代挑裙子）在这一句里找到发条——long game 把十年暗恋翻译成战略术语，浪漫由此有了工程感。
+ch24 the proposal.md:74 **为什么这样写**：托付句的二次解码——real man 的定义被压缩进 build back up（重建者而非拥有者）；might have meant himself 的迟疑解读是全段最痛的一笔：父亲或许在请求原谅，托付成了遗言。
+ch24 the proposal.md:80 **中文理解**：祖父的故事：六年后他冲进办公室唱歌求复合，祖母只问「怎么才来」；他的点是——你回到了父亲身边，时隔那么久，总有东西把你带回去。你注定要陪他走完最后几个月。
+ch24 the proposal.md:84 **为什么这样写**：家族罗曼史被征用为神学论证——serenade 的滑稽与 meant to be 的庄严互相盖章；「最后几个月」把偶然回乡升格为命运调度：丧痛因此有了形状（不是失去，是赶上）。
+ch24 the proposal.md:94 **为什么这样写**：求婚词从他最暗的一章讲起——lowest point（Nolan 之后）与 there you were（ch04 店门）两个坐标相扣：爱的叙事从谷底开始计时，与言情惯用的「一见钟情」倒序。
+ch25 epilogue and then we jump.md:26 **读者视角提示**：开篇第一件物是花、最后一个词是 friend——后记用两个词完成了主题回收。
+ch25 epilogue and then we jump.md:66 **读者视角提示**：这半页闲笔是全书第一个「无事发生」的 Sean——幸福就长这样。
+ch25 epilogue and then we jump.md:70 **中文理解**：婚后第一个夏天好极了——大部分时光在湖边喝柠檬水、吃冰棒，一如当年；三年前若有人告诉她：你会在 Lakewood、还嫁给了 Sean Kingsley——她一定骂对方疯了。
+ch25 epilogue and then we jump.md:114 **为什么这样写**：全书的最后一句只有五个词——计数跳过的省略号是两人十年省略的一切的总和；jump 不加修饰语收章：狂喜不需要形容词，跳下去就是全部答案。
+ch25 epilogue and then we jump.md:116 **读者视角提示**：与 ch07 的 "One…two…three!" 逐字呼应——十年前的那一跳救了心，十年后的这一跳交付了余生：本书以「敢跳」开始，以「一起跳」结束。
+ch25 epilogue and then we jump.md:149 尾声是全书的兑付日：橙色郁金香与 Wesley's 的招牌（"I named it after you, Daddy."）、cabin 的钥匙与变轻的婚戒（"just like this new marriage."）、Bailey 的 b
+
+=== ⑥场景方位：15 行 ===
+00_情感节点.md:50 新居刷墙日：颊吻、Bee 回归、卡车手机架上 recent calls 顶端一行 "My Bee <3"。军队话题他只交出 "I lost someone over there" 便被她按下。可当他走到门口、手还搭在把手上时，他停住回身——
+00_金句精选.md:60 **上下文**：回家第一晚的厨房窗外。
+ch03 divorce reveal.md:14 - **叙事手法**：沙发对坐一景到底，三段闪回嵌套（Graham 出走 / 藏钱发现 / 戒酒始末）都由对话勾出；◆◆◆ 切到次日清晨的电话与厨房，用秋千收在静物上。
+ch04 good vintage reunion.md:56 **读者视角提示**：「她车里告别」这个坐标请记住——它会成为本书情感线里反复回放的原点场景。
+ch06 cabin truth.md:10 - **一句话概括**：咖啡馆尬聊（古董店、妹妹 Bailey、Eloise 离婚）后，Sean 邀 Billie 同去父母小屋；车程与篝火之间她交出婚史——"I got married six years ago"——争执在他那句「就算留
+ch07 lake day.md:30 **中文理解**：车里 Sean 突然说：天哪，我就是爱你。她的整张脸垮下来、眉心拧紧，心跳飙到每分钟一百万英里——他刚说了什么？
+ch07 lake day.md:104 **为什么这样写**：两句 never 叠加（他没叫过、没人叫过）把 Bee 的分量翻倍——这是她人生里第一个专属命名；她的回应用 I like that 而不是 I love you，词汇量小心地停在安全线内，与车里的失语首尾呼应。
+ch09 the lie.md:10 - **一句话概括**：入住四周，Sean 帮她刷墙、陪吃中餐外卖；一箱裂开的旧照牵出 Graham，他却以「你不必为自己辩解」接住；军队话题他只交出 "I lost someone over there" 便被她按下——门口回头，他扔下一
+ch11 the first kiss.md:30 **中文理解**：他说本以为离乡会让自己感觉不同、本以为会兴奋——话到一半停住，望着窗外。
+ch13 fake boyfriend.md:116 **读者视角提示**：她又一次在最高点收手（ch05 办公室、ch09 门口之后）——但这次收手的尾款是「明早见」：这一次，明天是确定的。
+ch16 my bee.md:110 **中文理解**：卧室门口他停手，目光在她脸上搜寻答案：你确定要这样做吗？她这辈子没这么确定过——她想要 Sean Kingsley，比以往任何时候都想。
+ch16 my bee.md:149 冰路撞树把骄傲撞碎：电话那头的 "I need you to come get me." 与卡车屏幕上的 "My Bee <3" 两相印证；疤痕点名的终极告白（"I remember all of you."）把卧室门口那声 "Are yo
+ch19 bailey verdict.md:149 cabin 家宴一晚两极：Kathy 的 "I feel like I've got my boy back." 与 Bailey 的 "You're just going to break him." 同时上桌；她以 "I'm not g
+ch21 survivor.md:24 **为什么这样写**：恩爱的窗外景色反衬父亲的独居——她的牵挂与「没被回复」并置，镜像就此立起：她玩过的 ghosting 此刻轮到她尝；第二通短信是她的「回头」，与当年的「不回头」互为注脚。
+ch21 survivor.md:40 **中文理解**：决裂夜全案：Eloise 一生都在骂她、从不信她能独立——其实她需要的只是 Eloise 滚出她的人生；那晚她们打了一架。「她动了手——我当天就走了。」
+
+=== ⑤方向施受：30 行 ===
+00_金句精选.md:40 **为什么重要**：把「乐观」改写成「可换的镜片」——全书情感线的第一份合同。
+00_金句精选.md:47 **为什么重要**：把「缺爱」写成可数账目——量具式的控诉是本书处理创伤的基本语法。
+ch02 sean enlists.md:114 **为什么这样写**：章末的承诺句把整条过去线的赌注写下： lens（镜片）把「乐观」从性格问题改写成视角问题——可学的、可换的；I promise 单独收尾，是在给一个读者已经知道会碎的夏天加盖。
+ch04 good vintage reunion.md:11 - **情感弧线位置**：重逢即旧火复燃——"it feels like we never left" 的熟悉感与 "I broke his heart" 的亏欠同时在场；章末泪湿枕头，把和解的赌注压到明早的咖啡桌上。
+ch04 good vintage reunion.md:64 **为什么这样写**：gravitational pull 把好感写成物理定律，而「被撞破」的同步低头是全章最诚实的一笔——身体比嘴先承认了两人之间有需要遮掩的东西；介入的陌生客人是言情标准的第三者降温阀。
+ch05 bleacher confession.md:44 **为什么这样写**：施暴者的话术在这一段里全套展示——比惨、揽功、翻旧账、定罪，四步一气呵成；「救了你」这个词最毒：她把虐待包装成恩情，让 Billie 连恨都欠着理由。
+ch05 bleacher confession.md:94 **为什么这样写**：拒吻写成三段式：不做、但会、还会更多——把拒绝说成了分期承诺；pulls my chin up 的动作与台词同向：他不吻，却要她看着他说这句话，克制与肯定同时到货。
+ch06 cabin truth.md:26 **读者视角提示**：注意这一章她全程把自己放在「亏欠方」的位置——自信与亏欠的落差是本章所有笨拙（尬聊、谎称睡好）的发动机。
+ch06 cabin truth.md:34 **为什么这样写**：拥抱这个礼貌动作被气味击穿——fire 不是心动，是失控警报；bucket of water 把灭火的愿望写成对自身的处置：她要浇的不是他，是自己。
+ch07 lake day.md:84 **为什么这样写**：helpless and freeing 把跳水写成她整个处境的隐喻：纵身之后既无法回头也终于自由；snapshot in my brain 把相机内化——她提前知道要失去，所以先收藏，这一笔是全章的题眼。
+ch08 gunderson house.md:44 **为什么这样写**：bull dozer 的夸张把「我一定要工作」写成生死级诉求——工作的意义不是钱，是门；suffocating 落在 roof 这个意象上，把婚姻收进一个物理空间：那不是家，是罩子。
+ch08 gunderson house.md:64 **为什么这样写**：名字分两段说出——先是单名引发空白，再由全名触发记忆；put the pieces together 把父亲的大脑写成拼图桌，而女儿在旁边安静看着，这场「汇报」的权力关系一目了然。
+ch10 nolan and new york.md:34 **为什么这样写**：把「走」的动机从他的害羞改写成她的失语——更 specifically 一层递进，刀口对准自己；这个解读与 ch07 说不出 love 的旧案并轨：她的沉默有前科。
+ch10 nolan and new york.md:84 **为什么这样写**：把重逢交给运气与神——她不敢把它归功于自己的选择，创伤后的人常把好事写成「不配得」；praying 的对象具体到 second chance，信念是绕过自尊直通希望的窄门。
+ch13 fake boyfriend.md:11 - **情感弧线位置**：现在线的爆发章——假戏真做只隔一个吻；「I still want him」的欠账从 ch12 拖到本章凌晨一点结清，主动权彻底换手。
+ch13 fake boyfriend.md:64 **为什么这样写**：他把自己的越界写成常住权的辩护——best friend 一词被他从情感账户里盗用；每句话都合理、整体却无耻，这种话术正是他婚姻里的原生语种。
+ch13 fake boyfriend.md:94 **为什么这样写**：动词全部上强度（grab、thrust、capturing）——这一次主动者是她，力道是欠账的利息；before I think too much about it 是她给勇气买的保险：思考期归零，行动直接上线。
+ch14 the fight.md:64 **为什么这样写**：把 Sean 的此刻用 Graham 的过去过磅——laughed at me 一笔把吃醋写成轻视：问题从来不是妒忌本身，是被当成所有物；not taking me seriously 给整场吵架定罪，罪名比「吃醋」重
+ch14 the fight.md:74 **为什么这样写**：把最怕发生的事（毁掉）说成已经发生——snarl 与 gasp 相邻，凶器与血迹同框；她攻击的其实是自己的决定，被吻这一格是她亲手推的，怨气的靶心歪向了自己。
+ch14 the fight.md:94 **为什么这样写**：把创业决定写成创伤处理——离开吵架现场的第一反应是给自己圈一块领地；solidified 用材料学的词写决心：从漂浮到凝固，她的自我在这一段完成浇筑。
+ch14 the fight.md:114 **为什么这样写**：his heart 与 mine 对称站位——两颗心一颗安放、一颗流浪；leading me 把心动写成导航问题：她不否认爱，只承认迷路，这是她能给的最诚实的答案。
+ch18 new year confession.md:14 - **叙事手法**：香槟的「必要但难喝」给全章定味；火堆把对峙写成灯下戏（silhouette / flames）；跨年夜 ball drop 的「实际上很小」把宏大时刻还给人间尺寸。
+ch18 new year confession.md:104 **为什么这样写**：感叹号在这里完成全书最重的一次落地——ten years 从背景数字升级为控诉主体；your turn 的接力棒意象把关系写成一场互相拖欠的演讲赛。
+ch19 bailey verdict.md:104 **为什么这样写**：他把她的疑问句直接改写成答案——hard 被重新计价为 real 的证据；realest 的最高级在这里是合法的（对照 ch16 "This is real" 的原话回收）：他引用她自己的话当判词。
+ch20 the ghost.md:64 **为什么这样写**：把「不说出口」写成呼吸系统损伤——沉默不是不痛，是换了一种更细的疼；glass 与更深一层的递进让心理创伤有了可感剖面，本章的物理化手法全在此句。
+ch22 the slap.md:26 **读者视角提示**：对照 ch20 的存款与计划——她的离开不是冲动，是把对方亲口的威胁当作风险披露读完后的决定。
+ch22 the slap.md:64 **为什么这样写**：三拍节奏（巴掌—刺痛—克制）把事件写成决策过程——还手的冲动被叫停的逻辑是「胜利定义」：她要赢的是格局不是回合；stoop 一词把打架升格为坠落高度的竞赛。
+ch23 wesley.md:14 - **叙事手法**：粉色签字笔的「不体面」把悲伤写成细节政治；eulogy 的未完成文本直接入文（Cadbury 蛋、呕吐、忘记声音）；rearview mirror 收尾——全书第一场葬礼以倒车镜里的一个背影定格。
+ch24 the proposal.md:36 **读者视角提示**：注意她的措辞是「说不说得出」而不是「做不做得到」——她欠的不是行动，是把行动说出口的勇气。
+ch25 epilogue and then we jump.md:74 **为什么这样写**：清单式幸福（柠檬水、冰棒）配一个 deranged 的自嘲——pessimist 的最后一块拼图：她终于可以把「不敢想」说成「想不到」；just as we used to 把少年的夏天与新婚的夏天焊成一条线。
+
+=== ④亲属身份：101 行 ===
+00_情感节点.md:82 新年派对上「在爸爸面前别碰我」引爆积怨——火堆旁他吼出 "for over ten years I’ve been in love with you!"，她追出去说出 "I love you, Sean."（For once, the wo
+00_概述.md:26 - **家的重构**：家从「抱枕不许坐的房子」变成父亲的屋顶、Gunderson 的小屋、cabin 的钥匙与 Wesley’s 的招牌——父亲以 "the best day of his life was you coming back 
+00_金句精选.md:17 **中文**：「嗨，宝贝女儿。」——他一开口，她抱得更紧、哭得更凶。
+00_金句精选.md:18 **上下文**：父亲开门哽咽唤出她名字之后的重逢拥抱。
+00_金句精选.md:46 **上下文**：父亲宣布离婚后，Billie 对 Eloise 的内心清算。
+00_金句精选.md:53 **上下文**：她向父亲解释为什么回国定居而不是回纽约。
+00_金句精选.md:59 **中文**：父亲在她小时候亲手做的秋千还挂在白橡树上，开始要断了。
+00_金句精选.md:116 **上下文**：父亲 pizza 局上被无心一问问出的底牌。
+00_金句精选.md:143 **中文**：父亲推开盘子俯身直说：你怕的是再一次受伤。
+00_金句精选.md:171 **中文**：父亲说，他这一生最好的日子是你回到他身边的那天。
+00_金句精选.md:172 **上下文**：葬礼日屋顶，Sean 转述父亲临终前的托付。
+00_金句精选.md:174 **呼应关系**：与 ch22 "You’re just as bad as she is." 同一人两副面孔：本书对父亲最狠与最暖的两笔。
+ch01 billie comes home.md:11 - **情感弧线位置**：全书起点——对家的渴望与对 Eloise 的恐惧同时在场；章末的眼泪让回归落了地，而父亲会不会站在她这边仍是悬着的下一问（"I don’t know if he’ll stand up for me"）。
+ch01 billie comes home.md:12 - **Tropes 兑现/反转**：兑现「离家者突然回归」开场——无人预知的回归、门前临阵退缩、开门即泪；本章不反转，只把悬念立在父亲身上：当年 Eloise「画下界线」时他没有拦。
+ch01 billie comes home.md:50 **中文理解**：她紧张得像去见网友——不是怕见了冒充 Dylan O’Brien 的骗子或连环杀手，怕的是自己的父亲，和他那位可怕的妻子。
+ch01 billie comes home.md:54 **为什么这样写**：用夸张的类比去量一件本该温暖的事——回家见父亲——荒诞感恰恰量出了父女关系的变形程度；it’s just my dad 之后单独补一刀 Him and his horrible wife，把句子的落差全压在 horri
+ch01 billie comes home.md:60 **中文理解**：父亲曾是让她笑得最凶的人、随她趴在肩上哭的人——先是挚友，其次才是父母。
+ch01 billie comes home.md:76 **读者视角提示**：对照前面那个「让她笑得最凶的人」：如今的父亲头发灰了些、瘦了些、说不出话——时间在两边都记了账。
+ch01 billie comes home.md:80 **中文理解**：他终于开口，只说得出「嗨，宝贝女儿」；她抱得更紧，哭得更凶。
+ch01 billie comes home.md:86 **读者视角提示**：开门见喜只有一场——门内还有 Eloise 和那句没回答的问题（父亲会不会站在她这边），这场眼泪只是热身。
+ch02 sean enlists.md:14 - **叙事手法**：电话、走廊、汉堡路三段场景接力同一话题；「what would Sean do」练习游戏把两人的处世哲学放进对话；一道「你被收养了」的假设题顺手掀出继母身世。
+ch02 sean enlists.md:90 **中文理解**：被问到「被收养」的假设题，Billie 答：我有继母——严格说她从没正式领养我，但我的家已经是「混合家庭」了。
+ch03 divorce reveal.md:30 **中文理解**：父亲不安地摸着下巴、欲言又止，然后耳语般说出「我们离婚了」；Billie 的眼睛瞪得几乎要跳出眼眶。
+ch03 divorce reveal.md:36 **读者视角提示**：ch01 里她还在怕「父亲会不会站在 Eloise 一边」，本章开篇第一颗雷就换了战场——敌人已经不在房子里了。
+ch03 divorce reveal.md:90 **中文理解**：父亲最终发现她私自在另一家银行藏钱——用他的话说，是蓄谋已久地策划这个家的终结。
+ch03 divorce reveal.md:110 **中文理解**：厨房的大窗正对后院：半英亩修剪整齐的草地、围栏边一棵大白橡树；父亲在她小时候亲手做的秋千还挂在枝上，开始要断了。
+ch04 good vintage reunion.md:13 - **人物弧线**：Billie——从 "duck behind some produce" 的躲闪心态走到主动开口约咖啡；Sean——smile 还在、harshness 新增，替母守店；父亲——八点就睡，疑似在躲她。
+ch04 good vintage reunion.md:30 **中文理解**：心理医生会说她当年那么在意完美，根子是童年「永远不够好」的缺失——吸毒的生母、几乎不给温情的继母，就是源头。
+ch04 good vintage reunion.md:36 **读者视角提示**：生母（drug addict）与继母（affection 缺失）在这里各领到一份罪名——对照 ch03 的监护权往事，母亲这个位置在本书从来是空的。
+ch04 good vintage reunion.md:74 **为什么这样写**：一句话交代人生巨变（从军营理想回到店里打工），却用最平淡的家务口吻说出；keep it going for her 的 for her 把他的选择全部归给母亲——他自己的那份委屈被句法藏起来了。
+ch05 bleacher confession.md:13 - **人物弧线**：Billie——谎话出门、酒后吐真（"I wanted you to be my first"）；Sean——告白、守夜、拒吻三连；Eloise——从饭桌骂到 whore 羞辱，暴力升级；父亲——耸肩的沉默背景（"He
+ch05 bleacher confession.md:30 **中文理解**：她瞥见 Eloise 正和父亲聊同事八卦，赶紧把手机藏进沥水架的干净盘子后面——是 Sean：约 7:37 高中见，说有个好玩的点子；刚逃离高中这座恐怖屋，但只要他在，她就 Go。
+ch06 cabin truth.md:40 **中文理解**：Sean 说妹妹 Bailey 什么都齐了——丈夫、孩子、大房子；她要在家教育女儿没法看店，所以店就落在他头上。
+ch06 cabin truth.md:76 **读者视角提示**：对照 ch03 的叙述（"I was married…but now I'm not"）——同样的信息，对父亲说得轻、对 Sean 说得重，重量差就是心动的证据。
+ch07 lake day.md:13 - **人物弧线**：Billie——从「不许自己 attachment」到悬崖边纵身一跳的身体授权；Sean——说爱、解围、命名 Bee 的三段温柔；Eloise——生日派对 lazy bitch 刷新暴政下限；父亲——"He's mad
+ch07 lake day.md:70 **中文理解**：被问到父亲怎么办，她答：他已经做出了他的选择——现在轮到我做我的了。
+ch08 gunderson house.md:13 - **人物弧线**：Billie——desperate 但目标清晰（location > 一切）；Wesley——不多问的父亲人设保持稳定（"As long as you're happy"）；Mrs. Gunderson—— Loud 
+ch08 gunderson house.md:26 **读者视角提示**：父亲在本章会持续打破这个低预期——注意她每一次「以为客套」都被纠正。
+ch08 gunderson house.md:60 **中文理解**：听到 Sean 的名字，父亲先是茫然，等他把线索拼齐才恍然：Sean Kingsley？没想到你还和他有来往。
+ch08 gunderson house.md:66 **读者视角提示**：她此前只说「见过一个老朋友」——对父亲的部分隐瞒从此成为本线的常态设定。
+ch10 nolan and new york.md:10 - **一句话概括**：失眠一夜后，Sean 上午亲自上门道歉； unpacking 撞见私奔婚礼照、幻想「嫁给 Sean 的平行人生」；他答应陪她去纽约给 Maggie 过生日；父亲携 pizza 意外登门促成三人 pizza 局——军队
+ch10 nolan and new york.md:12 - **Tropes 兑现/反转**：兑现「晨后道歉 / 见家长喜剧 / 登机牵手」；反转是军队话题的解封——ch09 半句悬案在本章由父亲的无心一问换出全部底牌。
+ch12 mabel dinner.md:12 - **Tropes 兑现/反转**：兑现「前婆媳和解饭 / meet-cute 追述 / 深夜闺密谈心」；反转是 Mabel 的立场——她爱儿子却全盘站在 Billie 一边（"That's on him"）。
+ch12 mabel dinner.md:96 **读者视角提示**：这是她对全世界使用的那套官方口径——与 ch08 对父亲、对房东的版本一致：隐瞒已成习惯。
+ch14 the fight.md:12 - **Tropes 兑现/反转**：兑现「酒吧吃醋 / 冷静期 / 父亲点拨」；反转是吃醋的合理性——Sean 的失态有 Bailey 的前科垫底，错的是方式不是动机。
+ch14 the fight.md:90 **中文理解**：书店的决定是在开来的路上定死的——把 Sean 留在停车场后，她迫切需要一件「只属于自己」的东西；这个念头飘了很久，那一刻落地生根：她不能只为他和父亲活着，也得为自己。
+ch14 the fight.md:100 **中文理解**：父亲把盘子推开、俯身过桌，直说：我觉得——你怕的是再一次受伤。
+ch14 the fight.md:110 **中文理解**：她答父亲：我没玩弄他的心——我只是很难弄清自己的心要往哪里走。
+ch14 the fight.md:116 **读者视角提示**：这章不解决吵架，只解决「吵架该不该有」——父亲的话把她从自责里捞出来，剩下的事留给时间。
+ch14 the fight.md:149 酒吧一夜把甜期撞出第一道弯：Sean 的暴怒有 Bailey 旧案垫底、她的狠话有 Graham 回声垫底，停车场各退一步（"just give me a couple of days"）；父女饭桌上书店定盘、父亲点破 "you're af
+ch15 the barbecue.md:100 **中文理解**：她从侧面抱住父亲，他吻上她的额头：嗨，宝贝女儿——Sean 怎么样？
+ch15 the barbecue.md:110 **中文理解**：他把最大的一块牛排先递给她。她爱父亲——但一刻也待不下去。
+ch15 the barbecue.md:114 **为什么这样写**：but 前后各一句话——爱的证据（第一块牛排）与离开的决心（can't wait）并排放在同一行；全章最短章用这一句对冲结算：她走不是为了逃 Sean，是为了逃 Eloise，父亲则被留下继续挨烤。
+ch18 new year confession.md:50 **中文理解**：父亲侧身抱住她、吻上额头：当然不是坏人——你只是在试着抓住新生活；这不是几周能完成的事，愈合需要时间。
+ch18 new year confession.md:54 **为什么这样写**：先给无罪判决再给工期——heal 被写成工程：有周期、不可催；side hug 与额头吻是父亲线的标准配件（ch15 已见过），本章它们承担心理咨询的功能。
+ch18 new year confession.md:56 **读者视角提示**：父亲不催她「快点选」——这份耐心与她给 Sean 的含糊形成对照：家里谁在用拖延伤人，一目了然。
+ch19 bailey verdict.md:12 - **Tropes 兑现/反转**：兑现「见家长 / 恶毒小姑（protective 版）/ 照片墙旧时光」；反转是 Kathy 的热络与 Bailey 的冷刀出自同一个屋檐——母亲给的是复得，姐姐给的是账单。
+ch19 bailey verdict.md:13 - **人物弧线**：Billie——从 "be cool" 的自我排练到正面迎战（"I'm not going anywhere"）；Sean——紧张于姐姐、坦荡于爱人；Kathy——Nolan 后失而复得的观察者；Bailey——以保护
+ch19 bailey verdict.md:26 **读者视角提示**：他越是控制土豆，越说明他控制不了别的——姐姐那关的焦虑已经提前发作。
+ch19 bailey verdict.md:30 **中文理解**：Kathy 举杯说：你回来之后他整个人亮了——我感觉我把儿子找回来了。
+ch19 bailey verdict.md:34 **为什么这样写**：母亲的证词从远处取景（glancing at Sean）——她不说「你们幸福」而说「我找回了儿子」：把 Billie 的功劳折算成家庭损失的反向回收；new light 与前文的 spark 同源，都与 Nolan 的
+ch19 bailey verdict.md:46 **读者视角提示**：与 ch10 的讳莫如深对照——母亲说的这半段，Sean 自己当年只肯说 "I lost someone over there"。
+ch19 bailey verdict.md:54 **为什么这样写**：敌意的入场用静音处理——对弟弟如常、对姐姐一个 Oh，喜怒全部收进单音节；side hug 的姿态照旧，温度已经断崖：礼貌外壳与内里判决的落差就是她的出场方式。
+ch19 bailey verdict.md:80 **中文理解**：她的回应：我懂，你是好姐姐；但无论你多努力，我都不走了——我们就装作和睦相处，行吗？
+ch20 the ghost.md:100 **中文理解**：她的出逃资本：几乎不花钱攒下一万多美金；Eloise 以为她交房租伙食费，其实父亲从不收——她觉得这次能成。
+ch20 the ghost.md:104 **为什么这样写**：存款数字与房租谎言并置——她的自由是父女合谋的假账换来的；「他从不收钱」一笔带过父亲对她的全部暗助，与章末她的离开构成最痛的对照：他给她的翅膀，是用来飞离他的。
+ch21 survivor.md:11 - **情感弧线位置**：双秘密对称清账——她的家史、他的战场在同一张料理台上互换；「父亲没回短信」的镜像悄悄立起：她正被自己发明的方法惩罚。
+ch21 survivor.md:20 **中文理解**：看着他的父母她想起父亲——希望也有人陪他过日子；他还没回她昨天的短信，今早她又发了一条。
+ch21 survivor.md:26 **读者视角提示**：父亲为何不回？这个问号挂两章——它不是冷淡的伏笔，是故事线的岔路提示。
+ch21 survivor.md:30 **中文理解**：她交底：他们想控制她的人生——主要是 Eloise，父亲却什么都没拦；她永远做不了自己：规则是 Eloise 定的，父亲只是照办。
+ch22 the slap.md:14 - **叙事手法**：宣布用 lease/天数做不可撤销的钉子；掌掴与微笑同框反打；「父亲的眼泪在眼眶打转」与「他的请求」构成全书最冷的一组对照。
+ch22 the slap.md:80 **中文理解**：她转向父亲——他的眼睛盯着 Eloise 的后脑勺，脸涨得通红，可他一句话都没有：他没保护她。他任由那一巴掌落下。
+ch22 the slap.md:90 **中文理解**：打包时她对父亲说：Eloise 让我恨自己——而且是故意的；也许是为了让她自己好受点，但她此刻比任何时候都清楚：她值得更多。
+ch22 the slap.md:96 **读者视角提示**：这句与 ch21 的「那不是我」前后呼应——同一个结论，一次说给父亲，一次说给自己。
+ch22 the slap.md:104 **为什么这样写**：他的道歉与她的背叛感同时上桌——fixed 一词暴露父亲的认知：他把家暴当故障、把自己当局外修理工；betrayal 不是被巴掌打出来的，是被这句「你怎么不早说」补刀的。
+ch22 the slap.md:114 **为什么这样写**：父亲用「保密」把家暴变成家里的私事——这比沉默更冷，因为它有明确的利害计算；just as bad 的等号是全书最重的判决之一：包庇=共犯；swerve 的走位写出她连告别的力气都省了。
+ch22 the slap.md:149 离家宣言日的三记重锤：Eloise 的掌掴（她以微笑作答）、父亲的通红沉默（"You aren't going to do anything?!"）与临门那句 "don't tell anyone"——她拖着薰衣草行李袋甩下 "You're
+ch23 wesley.md:12 - **Tropes 兑现/反转**：兑现「噩耗电话 / 悼词草稿 / 前反派葬礼现身」；反转是「更大的 turnout」——沉默寡言的父亲原来被那么多人记得：他对世界比对自己温柔。
+ch23 wesley.md:30 **中文理解**：Sean 会喜欢这家店，父亲也会——她小时候他爱做烤奶酪三明治，那是他不想做饭的偷懒夜晚的保留节目。
+ch23 wesley.md:34 **为什么这样写**：把父亲的形象写进一道菜——go-to for lazy nights 是他作为「人」而非「受害者」的侧面：会偷懒、会带娃、有招牌菜；餐馆的 comfort food 与父亲的 comfort 食物互为镜像。
+ch23 wesley.md:40 **中文理解**：悔意如浪打来——她把时间给了 Sean，没给父亲；也许她本可以察觉不对。他最后的日子，她陪的是别人家。
+ch23 wesley.md:46 **读者视角提示**：本章的 Sean 因此两面——安慰者的温柔与「占了父亲时间」的背景：她的 solo 模式，一半是对他的爱，一半是对父亲的债。
+ch24 the proposal.md:11 - **情感弧线位置**：全书情感的清算与悬置同时发生——父亲通过 Sean 完成临终托付，求婚则是「未来」的提前量；她的沉默不是拒绝，是把答案还给父亲缺席后的自己。
+ch24 the proposal.md:14 - **叙事手法**：屋顶（flat over the porch）做本章舞台——平坦、无遮拦；求婚与遗物整理双线互切（blue velvet box vs trash/keep/donate 三堆）；thriller 藏书把「父亲」实体转
+ch24 the proposal.md:50 **中文理解**：他转述父亲的话：他这一生最好的日子，就是你回到他身边的那天。
+ch24 the proposal.md:54 **为什么这样写**：临终托付压缩成一个「最好的日子」——不是结婚、不是出生，是和解那天：父亲用排序告诉她什么最重要；He watches me for a second 的沉默观察是转述者的分寸。
+ch24 the proposal.md:56 **读者视角提示**：对照 ch03 「他没拦 Eloise」的旧账——本章父亲的账目由第三方结清：好人的失职要用余生补。
+ch24 the proposal.md:64 **为什么这样写**：两句托付一句给人、一句给前程——great things 与 ch21 她的书店官宣遥相扣：父亲没能看到书店，但他先「预言」了它。
+ch24 the proposal.md:66 **读者视角提示**：「注定做大事」不是客套——它是父亲写给女儿的信物，本章只兑现了一半（另一半在书店开张）。
+ch24 the proposal.md:70 **中文理解**：他说父亲高兴看到你身边有个真正的男人——能把经历过的一切后重新建起来的人；他原以为说的是 Graham，现在觉得父亲说的也许是他自己。
+ch24 the proposal.md:76 **读者视角提示**：把这句与 ch22 的 "just as bad as she is" 并读——同一个父亲，生前被判共犯、死后被判忏悔者：Billie 的裁决权在此。
+ch24 the proposal.md:100 **中文理解**：他补上关键时间戳：你回镇一周后我就买好了这枚戒指——这不是你父亲出事后的冲动决定。
+ch24 the proposal.md:114 **为什么这样写**：拒绝的逻辑终于显影——不是不爱 Sean，是不想再办一场父亲缺席的婚礼；Not again 的重音落在「仪式」而不是「人」上：她要的嫁妆是父亲的在场。
+ch24 the proposal.md:116 **读者视角提示**：这个「未答」是全书最后一道门——答案不在 Sean 手里，在她能否把父亲「带进」婚礼：书店、遗物、托付词都是她正在收集的答案碎片。
+ch24 the proposal.md:149 屋顶托付与晨间求婚一气呵成：父亲通过 Sean 留下 "the best day of his life was you coming back to him."，戒指早在 "one week after you came back" 就已
+ch25 epilogue and then we jump.md:11 - **情感弧线位置**：全书所有账目的兑付日——郁金香（ch17 的梦）、Wesley's（父亲的托付）、cabin（ch19 的钥匙）、popsicle（ch07 的 Otter Pop）、湖（ch04 首次跳舞的湖）；哀悼与幸福在同一
+ch25 epilogue and then we jump.md:12 - **Tropes 兑现/反转**：兑现「后记扫墓 / 事业命名致敬 / 湖中收尾」；反转是哀悼的形状——她不是「走出来」了，而是把父亲带进了新生活（店名、钥匙、每年一次的汇报）。
+ch25 epilogue and then we jump.md:13 - **人物弧线**：Billie——pessimist 学会了「汇报式怀念」；Sean——从 long game 到 footrest 上读书的丈夫；Wesley——以店名与墓志铭继续在场；Bailey——从否决票到 proud of y
+ch25 epilogue and then we jump.md:20 **中文理解**：风穿过她手中的橙色郁金香——长茎、柔软地贴着掌心；她笑着向灰色鹅卵石墓碑问好：嗨，Daddy。碑上写着：挚爱的父亲与朋友。
+ch25 epilogue and then we jump.md:34 **为什么这样写**：命名是哀悼的实体化——书店从 ch08 的念头、ch14 的决定、ch24 的藏书，一路长成父亲的纪念碑；because you can't anymore 是全句的断裂点：计划书式的平静在最后一个从句塌陷。
+ch25 epilogue and then we jump.md:64 **为什么这样写**：他读的书（大概率是 Wesley's 的 thriller 进货）是父亲的遗产在过日常的生活；engrossed 与前文所有「盯着她看」的 Sean 相反——婚后他终于可以不看她了：那是安全感的样子。
+
+合计 480 行候选 / 28 个文件

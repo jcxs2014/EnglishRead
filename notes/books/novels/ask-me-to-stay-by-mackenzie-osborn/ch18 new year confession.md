@@ -113,7 +113,7 @@ modified: "2026-11-04"
 
 **为什么这样写**：他的 This is it（没有退路）与她的 slip out（拦不住）是同一时刻的两条语法——一个主动全押，一个被动缴械；全名 Sean 挂在句尾，签名式的郑重与 ch16 一脉相承。
 
-**读者视角提示**：三个词迟到十年零四个月——「For once, the words feel nothing but true」是全书等这句台词的真正理由。
+**读者视角提示**：三个词迟到十年有余——「For once, the words feel nothing but true」是全书等这句台词的真正理由。
 
 ## 本章词汇
 

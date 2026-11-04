@@ -8,7 +8,7 @@ modified: "2026-11-04"
 ## 本章导航
 
 - **一句话概括**：酒吧冷战归途冰路失控撞树——她拨出那个骄傲拦不住的电话；Sean 雪夜救场、卡车手机架上 recent calls 顶端躺着 "My Bee <3"；浴室包扎里互歉收场、疤痕点名（狗咬疤/雀斑/头发）一路点名到卧室门口——"Are you sure?" 换回她十年未有的确定。
-- **情感弧线位置**：吵架的下一章立刻兑现「车祸急救」言情装置——伤把骄傲打碎，My Bee 备注把答案提前剧透；本章结尾即全书亲密线的起点。
+- **情感弧线位置**：吵架两章后立刻兑现「车祸急救」言情装置——伤把骄傲打碎，My Bee 备注把答案提前剧透；本章结尾即全书亲密线的起点。
 - **Tropes 兑现/反转**：兑现「车祸呼叫 / 包扎定情 / 疤痕点名」；反转是主动权延续——ch13 她敲门、本章她拨号：救赎的三次出手全是她。
 - **人物弧线**：Billie——pride vs need 的天平第一次倒向 need；Sean——"I was a jerk" 的自认与 "I remember all of you" 的十年存档同时交卷；父亲——asleep 的背景缺席恰好成全。
 - **叙事手法**：My Bee <3 用一块手机屏完成「他的答案」的无声交代；疤痕-雀斑-头发三连点名是记忆的实物化；peroxide 的 sting 给和解上生理税。
@@ -33,7 +33,7 @@ modified: "2026-11-04"
 
 **为什么这样写**：撞击段落全部交给物理（gravity、ice、impact）——人不哭喊，只交出控制权；glass like rain 把灾难写得近乎庄严，暴力与美感共用一个画面是本段的手法核心。
 
-**读者视角提示**：冰比她强、树比车硬——这一段把「失控」主题从感情线外化成一场车祸：上一章她说「需要时间想想」，命运直接没收了她的方向盘。
+**读者视角提示**：冰比她强、树比车硬——这一段把「失控」主题从感情线外化成一场车祸：ch14 她说「需要时间想想」，命运直接没收了她的方向盘。
 
 > **原句 3:** "It wasn’t sweat that I wiped off my face. As I think about it more clearly, pain throbs from my forehead. My trembling hand lifts to feel the warm trickling blood coming from a cut just above my eyebrow."
 
