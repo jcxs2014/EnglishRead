@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "恋人Lucas追问Rena刚才为何径直走过Sahar、连招呼都不打，Rena承认两人“曾经是”朋友。",
+    "anchor": "You walked right past her. I thought you guys were friends.",
+    "start": 501,
+    "end": 560
+  },
+  {
+    "fact": "Rena解释自己已毕业、Sahar还剩一年学业，两人因此渐渐疏远，并称这不是什么大事。",
+    "anchor": "She had a year left. We drifted.",
+    "start": 1089,
+    "end": 1121
+  },
+  {
+    "fact": "插叙：Rena与Lucas的第一次真正争吵正是因Sahar而起，那晚她的世界一夜失衡。",
+    "anchor": "The fight had been about Sahar.",
+    "start": 2088,
+    "end": 2119
+  },
+  {
+    "fact": "Oscar和Siobhan毕业后，Rena结识了新朋友Sahar，从此午饭有人同坐。",
+    "anchor": "she’d found a new friend in Sahar",
+    "start": 2293,
+    "end": 2326
+  },
+  {
+    "fact": "争吵高潮，Lucas质问Rena“你是同性恋吗”，并称如果是也没关系、他只是想知道。",
+    "anchor": "Are you gay?” he demanded at last",
+    "start": 5235,
+    "end": 5268
+  },
+  {
+    "fact": "Rena否认，说自己不喜欢女人、她和Lucas在一起，并强调她爱他。",
+    "anchor": "I’m not into women, Lucas. I’m with you.",
+    "start": 5500,
+    "end": 5540
+  },
+  {
+    "fact": "那场争吵发生在两年前，此后Lucas再未提起，问题一直悬而未决。",
+    "anchor": "That was two years ago, and he never brought it up",
+    "start": 7356,
+    "end": 7406
+  },
+  {
+    "fact": "回到当下：面对Rena两人是否会再度延误的追问，Lucas诚实承认他们要在这里待很长时间。",
+    "anchor": "We’re going to be here a long time.",
+    "start": 7942,
+    "end": 7977
+  }
+]

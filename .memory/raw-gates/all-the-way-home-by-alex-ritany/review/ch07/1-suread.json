@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "扎克跟着基兰离开闸口往机场里走，脑中响起玛拉的声音：你得佩服这家伙的大胆。",
+    "anchor": "As he follows Kieran away from the gate",
+    "start": 46,
+    "end": 85
+  },
+  {
+    "fact": "基兰提议可以把扎克的背包寄放在他妹妹那里；扎克认定自己肯定又要被抢一次，婉拒并坚持背包不离视线、自己背着。",
+    "anchor": "Yeah, Zach is definitely getting robbed. Again.",
+    "start": 397,
+    "end": 444
+  },
+  {
+    "fact": "扎克解释自己没坐过飞机、是开车来的：妹妹有车，九月顺路去温哥华时陪他一路开车过来，他不愿被困在曼尼托巴的沟里。",
+    "anchor": "My sister has a car, and she road-tripped out with me",
+    "start": 3343,
+    "end": 3396
+  },
+  {
+    "fact": "基兰说明安检队伍里与他同行的女孩是他妹妹，穿 MRU（Mount Royal）的衣服、读化学工程。",
+    "anchor": "She’s in engineering. Chemical",
+    "start": 4634,
+    "end": 4664
+  },
+  {
+    "fact": "猜专业时扎克先后猜 business、accounting、theatre 都没猜中，基兰揭晓自己的专业是运动机能学（kinesiology）。",
+    "anchor": "“Kinesiology.”",
+    "start": 5412,
+    "end": 5426
+  },
+  {
+    "fact": "基兰以扎克在读的《The Glass Universe》一书为线索猜出 astronomy（天文学），扎克更正为 astrophysics（天体物理学）。",
+    "anchor": "“Astrophysics,” Zach corrects.",
+    "start": 6549,
+    "end": 6579
+  },
+  {
+    "fact": "基兰解释学运动机能学的原因：高中时他和妹妹蕾娜（Rena）都踢足球，他膝盖受伤、理疗师很糟、腿没养好被迫停踢，所以想做更好的人。",
+    "anchor": "But I busted my knee. My physiotherapist was fucking awful",
+    "start": 9230,
+    "end": 9288
+  },
+  {
+    "fact": "结尾转折：扎克脑中仍有声音警告这是个坏主意、他会受伤，但另一个不常出现的陌生声音响起，说这会是值得的。",
+    "anchor": "A voice that says: And it’s going to be worth it.",
+    "start": 9855,
+    "end": 9904
+  }
+]
