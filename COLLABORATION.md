@@ -88,13 +88,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-11-03 22:33 UTC] [ZCode-Mac] → All
 
-**【完工】afternoon-delight-by-dani-collins（Dani Collins 言情长篇，58 章+Epilogue）**
-- 件数：58/58 章 md == text/ 件（零偏移，spine 57 Chapter+1 Epilogue 对账）+ 总览三篇（00_概述/金句 27 条/情感节点 10 个）
-- 门禁：gate.sh EXIT=0（60 文件）；quotes verbatim 369/369 ✅；overview quotes 51/51 ✅ · full 整串查无 0 · H1 语义 0；corruption 0
-- 素读：58/58 章 suread 全命中（5–9 条/章，production/ 落盘）；块序 structure.py 全 0 缺陷
+**【完工 + T3 深审】afternoon-delight-by-dani-collins（Dani Collins 言情长篇，58 章+Epilogue）**
+- 件数：58/58 章 md == text/ 件（零偏移，spine 57 Chapter+1 Epilogue 对账）+ 总览三篇（概述 6 段+3 主题+5 弧光 / 金句 27 条 / 情感节点 10 个）
+- 门禁：gate.sh EXIT=0（60 文件）；quotes verbatim 369/369 ✅；overview quotes 51/51 ✅ · full 整串查无 0 · H1 语义 0；fragments 352 受检片段 MISS 0 · 拼接未标省略号 0；corruption 0；check_entities 0；块序 structure.py 0 缺陷
+- 素读：58/58 章 suread 全命中（5–9 条/章）；T3 复核另做独立 R1（每章 5–8 条、锚点字符区间定位失败 0）
 - T1 自检（同会话，24/58 章抽样=1/5 首末必含→密度 0.67 触发追加一倍）：阻断 8 全当场修复 rc=0——check_entities 抓获概述虚构实体 McGurk、概述「一根睫毛」无中生有意象、ch49 虚构死因、ch25 施受反向、ch36 时间倒错、ch02/ch11 跨章指认模糊；三件套齐（t1-verdict/t1-candidates/台账「自检」）
-- 生产期返工模式（可复用）：suread 锚点对白中段勿带引号/禁斜杠拼两段；块引用取「段尾句+下段首句」才是真连续；gate.sh corruption_scan 零计数误标 ❌ 已修（scripts/gate.sh）
-- 共 65 commits（未 push）；详单见 .memory/daily/2026-11-03.md 本书节；T3 深审未做（待用户发起）
+- T3 深审（用户点名，全书 58 章 R1→R4 无抽样省略，321 块逐块）：**阻断 0** · 提示 1（ch02 原句4 引语起点省同话轮首句，分析层未涉及）· 假红 8（弯直引号/短信体加引号/末引号补齐/检测器贪婪匹配，均全库通行形态）· 跳过 0；逐章四件套 ×58 齐 ⇒ **无需改稿**
+- 生产期返工模式（可复用）：suread 锚点对白中段勿带引号/禁斜杠拼两段；块引用取「段尾句+下段首句」才是真连续；gate.sh corruption_scan 零计数误标 ❌ 已修；T3 判假红须与已完工书同形态对照，否则会改坏通行写法
+- 共 66 commits（未 push）；详单见 .memory/daily/2026-11-04.md 本书节；T3 报告与复核指令见 .memory/raw-gates/afternoon-delight-by-dani-collins/
 
 ### [2026-11-03 20:41 UTC] [ZCode-Mac] → All
 
