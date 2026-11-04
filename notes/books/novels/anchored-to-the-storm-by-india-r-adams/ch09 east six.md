@@ -105,6 +105,21 @@ modified: "2026-11-04"
 **为什么这样写**：全书的第一次大翻案只用两个短句——追杀者与炸弹脱钩，真凶退回雾中；stumbled back 让身体先于推理承认结论的重量。
 **读者视角提示**：记住这个第三方——他们炸桥、杀神裔、几乎团灭水族，全书后半的真正反派从这里才开始有轮廓。
 
+
+> **原句 14:** "The club that chased you and Lennox down wasn’t who set the bomb. Whoever set it was after Saleeni’s sea peeps…"
+
+**中文理解**：Styx 把推理说完——追杀他们父子的那家俱乐部根本不是栽弹的人；炸弹真正瞄准的，是 Saleeni 的海族同胞。
+**关键词**：wasn’t who set the bomb / Whoever set it / Saleeni’s sea peeps
+**为什么这样写**：翻案的完成式——上一句只拆掉了追杀者的嫌疑，这一句把弹道指向真正的靶子；两场灭门（水族与 Gentry 家）在同一条桥柱上并轨，仇恨的坐标系被整个重画。
+**读者视角提示**：记住「sea peeps」这个复数——凶手的目标是整个族群，Saleeni 的幸存从此有了明确的方向感。
+
+> **原句 15:** "Styx stared at my damaged finger. “The bomb. Their blood—” His eyes rose and were full of terror, “—mixed with yours.”"
+
+**中文理解**：Styx 盯着他受伤的手指，声音里全是恐惧——炸弹。他们的血——和他的血混在了一起。
+**关键词**：damaged finger / Their blood / mixed with yours
+**为什么这样写**：全书身世线的最后一块拼图以断句交付——他不止承袭 River 一族的血，炸弹里熔进来的每一个族人都在他伤口里留了份；省略号与破折号替语言承认这份认知的重量。
+**读者视角提示**：这正是他「比父亲更先进」的物证来源——血统不是一条河，是一片海；数量成谜，要等 Saleeni 能说话才有答案。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -138,4 +153,4 @@ modified: "2026-11-04"
 | trowel | 泥刀；抹子 | Spreading mortar on the wall with a trowel, he sighed. |
 
 ## 一句话总结
-"守护门"的誓言把 Maddox 加冕为 Boundary；双层噩梦先后揭开 Ethan 的火场家史（Sadie）与 Saleeni 的灭门记忆——两场悲剧共用一枚桥柱炸弹，而 Styx 脸色煞白地翻案：追杀者没栽弹，那炸弹根本不是冲他们来的。书名在"我就是这场他妈的风暴"里落地。
+"守护门"的誓言把 Maddox 加冕为 Boundary；双层噩梦先后揭开 Ethan 的火场家史（Sadie）与 Saleeni 的灭门记忆——两场悲剧共用一枚桥柱炸弹，而 Styx 脸色煞白地翻案：追杀者没栽弹，炸弹瞄准的是 Saleeni 的族人——章末他抖出最后一块拼图：弹中族人的血与 Maddox 的血混在了一起。书名在"我就是这场他妈的风暴"里落地。
