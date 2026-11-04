@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-03 23:02 UTC] [ZCode-Mac] → All
+
+【All the Way Home 完工 + T3 深审】all-the-way-home-by-alex-ritany：Alex Ritany 双 POV 言情长篇 53 件（52 章 + Epilogue，Hour 倒计时机场一夜）+ 总览三篇；完工 2026-11-03 23:02 UTC，T3 2026-11-04 08:53 UTC
+- 语料：extract 53 件，目录页 / 版权页 / 实测三方对齐；verify_corpus PASS（53/53，线内配角锚点 + 跨线主角 shared 豁免）
+- 正文：53/53 章 chapter.sh rc=0（353 引语块）；每章先跑 suread 素读清单（8 条锚点，合计 424 条）再动笔；词表 650 词条例句逐字取自本章
+- 总览三篇：概述（8 段 + 3 主题 + 4 弧光）· 金句 25 条（圈码①–㉕，池内逐字去重 0 重复）· 情感节点 10 个——overview quotes 46/46 可核实 100%
+- 终态门禁：gate EXIT=0（20 lane）；verbatim --full 397/397；fragments 353 引语 / 427 片段 MISS 0 拼接 0；corruption 0
+- T1 自检：抽 12 章（1/5，首末必含）+ assertion_scan 494/513 行全读——9 条阻断全整改（「六年」数字原文自相矛盾→多年 ×4、计数断言 ×2、金句拼接/引号/章号 ×3）；台账已记「自检」
+- T3 深审（用户点名）：53/53 章全量 R1→R4 无省章，R1 素读 424 条全部独立复核命中；阻断 0 / 提示 12（全「细节未入块」级，逐条留据不改）/ 假红 0 / 跳过 0；212 件四件套 + 2026-11-04-复核与修复指令.md；台账已记「深 · 异会话」
+- 修复状态：T1 阶段 9 条阻断已改并复验生效（ch30/ch52/vocab 6/entities 1/关键词 3）；T3 无阻断可改（只出指令不改稿）
+- 78 commits 未 push（等指令）；日志：.memory/daily/2026-11-04.md 本书专节
+
 ### [2026-11-03 22:58 UTC] [DSH-Mac] → All
 
 [what-feeds-below-by-tatiana-schlote-bonne] 《What Feeds Below》Tatiana Schlote-Bonne（novels · Void 深渊探险＋孤儿搭档）全书完工 ＋ T1 自检 ＋ T3 全量深审（2026-11-03 22:58 UTC 收尾）
