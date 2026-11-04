@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "在机场登机口，蕾娜（Rena）当着卢卡斯（Lucas）的面说自己不想和他同居。",
+    "anchor": "I don’t want to move in together",
+    "start": 672,
+    "end": 704
+  },
+  {
+    "fact": "蕾娜对卢卡斯说自己不觉得自己被造得能产生他想让她产生的那种感情。",
+    "anchor": "I don’t think I’m wired to feel what you want me to feel",
+    "start": 1263,
+    "end": 1319
+  },
+  {
+    "fact": "卢卡斯问蕾娜是不是早就知道（自己不爱他）这件事。",
+    "anchor": "Have you known for a long time?",
+    "start": 1695,
+    "end": 1726
+  },
+  {
+    "fact": "卢卡斯承认他原以为蕾娜会在“基兰（Kieran）那件事”之前就跟他分手。",
+    "anchor": "Before Kieran.",
+    "start": 1967,
+    "end": 1981
+  },
+  {
+    "fact": "蕾娜回想起去年圣诞派对：奥斯卡（Oscar）在那晚告诉她自己要求婚，而她和卢卡斯整晚绕着彼此转。",
+    "anchor": "where Oscar had told her he was going to propose",
+    "start": 2407,
+    "end": 2455
+  },
+  {
+    "fact": "卢卡斯站起来后向蕾娜伸出手，蕾娜起初以为他要拉她起身，随后明白那是握手。",
+    "anchor": "it’s a handshake",
+    "start": 4515,
+    "end": 4531
+  },
+  {
+    "fact": "已订婚的维拉（Vera）和艾薇（Ivy）手牵手走过蕾娜与卢卡斯所在的登机口。",
+    "anchor": "the couple who got engaged",
+    "start": 5592,
+    "end": 5618
+  },
+  {
+    "fact": "广播宣布飞往多伦多的 AC156 航班已获准起飞，将立即开始登机。",
+    "anchor": "Flight AC156 to Toronto has been cleared to depart",
+    "start": 6261,
+    "end": 6311
+  }
+]

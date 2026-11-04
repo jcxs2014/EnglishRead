@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Zach 指出轮到 Kieran 了，并说勇气分不再算数，因为这不是第一次。",
+    "anchor": "“It’s your turn,” Zach points out",
+    "start": 101,
+    "end": 134
+  },
+  {
+    "fact": "Kieran 的手机响起，他接起 Rena 的电话说了“Love you”，挂断后告诉 Zach 航班正在登机。",
+    "anchor": "“The flight’s boarding.”",
+    "start": 2181,
+    "end": 2205
+  },
+  {
+    "fact": "Kieran 抓起 Zach 的行李箱滚着跑，两人冲到登机口后发现还没开始放行，Kieran 说 Rena 把情况说得像紧急事件。",
+    "anchor": "“Trust Rena to make it sound like an emergency.”",
+    "start": 3719,
+    "end": 3767
+  },
+  {
+    "fact": "Kieran 双手捧住 Zach 的脸让他吻自己，说只要一次，免得他在四小时飞行里忍到发疯。",
+    "anchor": "takes his face in his hands, whole face smiling",
+    "start": 3828,
+    "end": 3875
+  },
+  {
+    "fact": "Lucas 声音空洞地说“I’ll be right back”，朝洗手间走去。",
+    "anchor": "“I’ll be right back.” Lucas sounds a bit hollow",
+    "start": 5589,
+    "end": 5636
+  },
+  {
+    "fact": "登机口广播“Now boarding Zone 2”，Kieran 把 Lucas 的行李连同自己的行李一起挪动。",
+    "anchor": "“Now boarding Zone 2,” the flight attendant says",
+    "start": 6076,
+    "end": 6124
+  },
+  {
+    "fact": "登机后 Zach 满脑子是 Delta Air Lines Flight 1086，两人沿窄过道走到 Row 17，Kieran 问他选靠过道还是中间。",
+    "anchor": "Delta Air Lines Flight 1086",
+    "start": 7402,
+    "end": 7429
+  },
+  {
+    "fact": "飞机机头抬起时，Zach 眯眼看到 Kieran 的笑容，心想“I’ve done it now”，全章以倒数“One.”收尾。",
+    "anchor": "I’ve done it now.",
+    "start": 9982,
+    "end": 9999
+  }
+]

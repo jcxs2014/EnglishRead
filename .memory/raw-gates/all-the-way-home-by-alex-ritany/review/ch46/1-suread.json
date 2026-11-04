@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Zach 走到最近的墙边，发现所有插座都被占用，花了整整五分钟才找到一个贴近地面的空插座，坐在地上给手机充电。",
+    "anchor": "It takes him a full five minutes to find an empty outlet",
+    "start": 1342,
+    "end": 1398
+  },
+  {
+    "fact": "Kieran 站在几码外、双手插在口袋里，迟疑地问 Zach 发生了什么事。",
+    "anchor": "Kieran is standing a few yards away, hands in his pockets",
+    "start": 1597,
+    "end": 1654
+  },
+  {
+    "fact": "Kieran 说他回去过，Zach 不在那儿、东西也没了；Zach 解释自己是回登机口拿充电器。",
+    "anchor": "I went back and you weren’t there and your stuff was gone.",
+    "start": 2014,
+    "end": 2072
+  },
+  {
+    "fact": "Kieran 说父母让他们全家整个夏天待在一家乡村俱乐部，他在那里认识了 Josiah；离开前得知 Josiah 对他这类人的真实看法，于是直接拉黑了 Josiah。",
+    "anchor": "So I just blocked him.",
+    "start": 4890,
+    "end": 4912
+  },
+  {
+    "fact": "Kieran 说 Rena 以为他暑假结束就为了好玩甩掉了 Josiah，因为他此前已经对 Oscar 粗心过一次。",
+    "anchor": "I’d already been careless once with Oscar",
+    "start": 5500,
+    "end": 5541
+  },
+  {
+    "fact": "Kieran 说“我喜欢你”，随后伸手把坐在地上的 Zach 拉起来，并且没有松手。",
+    "anchor": "Then he holds out a hand.",
+    "start": 7646,
+    "end": 7671
+  },
+  {
+    "fact": "Kieran 叫出 Zach 的全名 Zach Loren，说 Zach 不是幻想世界，并说“我看见你”；Zach 无言点头。",
+    "anchor": "You’re not a fantasy world, Zach Loren.",
+    "start": 7800,
+    "end": 7839
+  },
+  {
+    "fact": "Kieran 低声说，他们中的一个将不得不再次勇敢起来。",
+    "anchor": "I guess one of us is going to have to be brave again.",
+    "start": 8224,
+    "end": 8277
+  }
+]
