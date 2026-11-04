@@ -1,0 +1,87 @@
+{
+ "chapter": "ch01",
+ "source": "text/ch01_east_one.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Maddox / Styx",
+   "what": "Maddox 在父亲俱乐部后院的雨中呛水醒来（刚从海里被救回），Styx——Grandpa——心不在焉地拍着他的胸口。",
+   "anchor": "Rain falling down on me, I woke in the dark, choking, with Styx—'Grandpa'—absentmindedly patting my chest",
+   "line": 18,
+   "span": [
+    76,
+    181
+   ]
+  },
+  {
+   "who": "Maddox / Saleeni",
+   "what": "Maddox 十岁那年曾坠入大西洋，正是 Saleeni 救了他；这次她又一次（Again）救了他。",
+   "anchor": "Just like she had that fateful day when I plunged into the Atlantic at age ten.",
+   "line": 30,
+   "span": [
+    1459,
+    1538
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 猜测 Saleeni 此刻正在海底 regenerating（再生），所以不在水面上。",
+   "anchor": "Not sure, but I suspect she's regenerating at the bottom.",
+   "line": 51,
+   "span": [
+    2513,
+    2570
+   ]
+  },
+  {
+   "who": "Maddox / Saleeni / Styx",
+   "what": "水下回溯：下沉摩托车的把手勾住 Maddox 系死的鞋带把他往海底拖；Saleeni 的尾巴猛摆试图阻止他下沉，Styx 后来说她一口咬穿了鞋带、又把惹恼她的摩托甩上岸。",
+   "anchor": "until the sinking motorcycle's handle got caught on my tied shoelace",
+   "line": 105,
+   "span": [
+    5608,
+    5676
+   ]
+  },
+  {
+   "who": "Saleeni",
+   "what": "拖着他下沉的重物突然蒸发、转移到 Saleeni 的鳍上——她成了下沉的那个（与 Maddox 当年的噩梦完全一致），她伸手够他、无声尖叫只吐出气泡。",
+   "anchor": "suddenly evaporated only to reappear around Saleeni's fin. In the nightmare, my magical friend was now the one sinking.",
+   "line": 129,
+   "span": [
+    7193,
+    7312
+   ]
+  },
+  {
+   "who": "Maddox / Saleeni / Styx",
+   "what": "Saleeni 把至少五百磅重的摩托车顶出海面救回 Maddox；Styx 亲眼看见一辆从水里浮起来的摩托砰地砸落在院子里。",
+   "anchor": "I gawked at the bike on its side. \"It has to weigh at least five hundred pounds.\"",
+   "line": 174,
+   "span": [
+    11009,
+    11090
+   ]
+  },
+  {
+   "who": "Styx / Maddox / Tallulah",
+   "what": "Styx 让 Maddox 锁上钢门并报出密码 zero-four-nine-nine；Maddox 输入密码、听见门闩落锁后，因 Nine 想起高中女友 Tallulah——Nine 是她给他起的绰号（他没有凑满十根手指）。",
+   "anchor": "Nine… I thought of Talulah while I inserted the code and heard a deadbolt lock into place.",
+   "line": 204,
+   "span": [
+    13175,
+    13265
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 坦白：当年他嗑 LSD 躺在海滩时与海中出现的裸女交合，女人事后入水长尾游走；多年后她抱着婴儿回来，把孩子——他的儿子（Maddox 的父亲）——交给了他。",
+   "anchor": "Styx wiped under his eyes and his nose, then told me, \"And handed me my son.\"",
+   "line": 453,
+   "span": [
+    23689,
+    23766
+   ]
+  }
+ ]
+}

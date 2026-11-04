@@ -10,7 +10,7 @@ modified: "2026-11-04"
 - **情感弧线位置**：起点章——从濒死的混乱与暴怒，到"我不是疯了"的如释重负，再到身世炸弹下的彻底失语。
 - **Tropes 兑现/反转**：兑现"童年魔法朋友是真的"；反转"祖父的荒唐海滩故事"在结尾翻成真实的家族身世。
 - **人物弧线**：Maddox 从掐着架质问到被一杯蓄谋的啤酒卸下全身防备；Styx 用插科打诨完成了一场降温谈判。
-- **叙事手法**：濒死闪回与现实雨夜交错推进；结尾短段逐级收紧（二十三词、十六词、六词——收在 The bottle slipped from my hand.），用物件（酒瓶）替人物失语。
+- **叙事手法**：濒死闪回与现实雨夜交错推进；结尾短段逐级收紧（二十二词、十六词、六词——收在 The bottle slipped from my hand.），用物件（酒瓶）替人物失语。
 
 ## 精读
 
@@ -37,7 +37,7 @@ modified: "2026-11-04"
 
 > **原句 4:** "In a dreamlike surrender, I spread my arms wide, inviting the storm above and embracing the gratitude in my heart. “Sa-leen-i.” It felt so good to have an answer. Such relief to know I hadn't been crazy this whole time, believing in a magical childhood friend."
 
-**中文理解**：Maddox 像梦游般缴械躺倒，向头顶的暴风雨张开双臂，拥着满心感激反复默念那个名字；多年来一直相信一位魔法童年玩伴的自己，终于被证明没有疯。
+**中文理解**：Maddox 像梦游般缴械躺倒，向头顶的暴风雨张开双臂，拥着满心感激轻声念出那个名字；多年来一直相信一位魔法童年玩伴的自己，终于被证明没有疯。
 **关键词**：dreamlike surrender / gratitude / magical childhood friend
 **为什么这样写**：用"向暴雨张开双臂"这个反本能动作外化如释重负——风暴此刻不是威胁而是拥抱；名字被拆成音节独立成句，让一个称呼扛住整章的情感重量。
 **读者视角提示**："hadn't been crazy" 说明他被追杀的这些年里始终独自守着这段记忆，这层无人相信的孤独是他性格的底色。
