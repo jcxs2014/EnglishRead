@@ -31,7 +31,7 @@ modified: "2026-11-04"
 **为什么这样写**：在热恋高潮的间隙插入婚约对象的体检报告——用冷静的观察为后面的抗婚蓄力；「她看他长大」这层旧识把浪漫幻想与童年实话切分开。
 **读者视角提示**：留意 Lawrenz 的形象是渐进加码的：先情绪化，再动手，最后连狱警的念头都冒出来。
 
-> **原句 4:** "Mama, it’s not natural to beat children younger than you. It’s not natural to one day be in such a dark mood that you pull the wings off butterflies and the next you can’t stop laughing at some silly joke."
+> **原句 4:** "Mama, it’s not natural to beat children younger than you. It’s not natural to one day be in such a dark mood that you pull the wings off butterflies and the next you can’t stop laughing at some silly joke. Lawrenz is not right here," Valentina said, tapping her temple. "His changes in mood are frightening."
 **中文理解**：她对母亲摊牌：打小孩不自然，前一刻扯蝴蝶翅膀、下一刻为烂笑话笑个不停更不自然——Lawrenz 这里不对劲，他的情绪切换吓人。母亲只回了句「别这么说」。
 **关键词**：dark mood、pull the wings off butterflies、frightening
 **为什么这样写**：「扯蝴蝶翅膀」是全书给 Lawrenz 定性的钉子——残酷的对象越小，人格问题越清楚；母亲那句「别这么说」则展示整个成年世界的和稀泥。
@@ -45,7 +45,7 @@ modified: "2026-11-04"
 
 > **原句 6:** "That’s what he told me. And it wasn’t just once. He said it used to happen a lot when I first came along. He was very young, but his memory is good and he described it all as though he was seeing it again vividly in his mind."
 **中文理解**：Robertu 说出压了很久的秘密：Lawrenz 亲眼见过父亲打母亲，还不止一次；Lawrenz 甚至以为家家如此。Valentina 毛骨悚然地保证：我们家不这样。
-**关键词**：hitting my mother、vividly
+**关键词**：wasn’t just once、vividly
 **为什么这样写**：家暴的目击记忆被塞进少年对话——Lawrenz 的危险由此有了出处，也埋下「他会长成什么样的人」的长线疑问；Valentina 那句「我们家不这样」是她的安全感基线。
 **读者视角提示**：这个秘密解释了 Robertu 为什么什么都知道却什么都忍着——他习惯了把坏事咽下去。
 

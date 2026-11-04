@@ -21,19 +21,19 @@ modified: "2026-11-04"
 
 > **原句 2:** "You’ll have a full belly while the rest of us starve, and all because of her’—she smirked at Valentina—‘who’ll have a full belly with something else when that Falzon lad has his way."
 **中文理解**：配给队伍里，邻居 Rosa 当众发难：Stella 拿美貌女儿做交易换好处，还荤话连篇——Falzon 家小子得手后，她的肚子里也会「装满别的东西」。她把锅塞给母亲夺路而逃。
-**关键词**：broker the best deal、full belly
+**关键词**：full belly、starve
 **为什么这样写**：把婚约的阴暗面借市井之口撕开——同一门亲事，在父亲嘴里是出路，在邻居嘴里是卖女儿；那句荤话让她第一次用身体感到婚姻的可怕。
 **读者视角提示**：她的反应是逃跑而非回骂——这份「逃」会贯穿她与婚约的整个对峙史。
 
 > **原句 3:** "I study on my own. Most of my teachers are now in the roles of protection officers, or part of the special constabulary. My favourite teacher has volunteered in the hospital."
 **中文理解**：教堂树下她向 Peter 交代近况：学校停课，老师们有的当防护员、有的进了特别警察队，她最喜欢的一位去了医院帮忙；她在隧道里点着蜡烛自学，要通过考试。
-**关键词**：study on my own、pass my exams
+**关键词**：study on my own、volunteered
 **为什么这样写**：一段闲谈完成两件事——展示全城的战时总动员，也把「自学」立成她的另一种叛逆：隧道熄灯了，功课不熄。
 **读者视角提示**：「通过考试」对她是越过婚约的另一条路——此后 Peter 的辅导就是这个梦的支架。
 
 > **原句 4:** "‘Well, I’m pretty useless at the moment to my squadron, so I can help you, if that’s of any interest.’"
 **中文理解**：他自称眼下对中队毫无用处，主动提出帮她补习；被问为什么，他说：不然我怎么报答你？还要专程去她父亲的酒吧求个准许。
-**关键词**：pretty useless、repay you
+**关键词**：pretty useless、squadron
 **为什么这样写**：「无用」与「报答」互为表里——伤员的自尊需要一个支点，辅导她恰好是双赢；「先征得父亲同意」也显出他的绅士分寸。
 **读者视角提示**：这份师生关系是两人接下来唯一被社会允许的相处方式——它的暧昧全靠读者心知肚明。
 
@@ -45,7 +45,7 @@ modified: "2026-11-04"
 
 > **原句 6:** "Her father nodded. ‘That’s what she’s telling everyone,’ he said, and Valentina wanted to dive into a hole. She had said no such thing."
 **中文理解**：父亲按每周惯例来交租，撞见这一幕。Peter 致谢说她救了他的命，父亲顺口接：「她是逢人就这么说的」——她根本没说过，恨不得钻进地缝。
-**关键词**：saved my life、telling everyone
+**关键词**：telling everyone、no such thing
 **为什么这样写**：父亲一句「转述」当众替女儿包装功劳，既抬价又拆台——她被自己的「卖点」噎住；这个尴尬也预告了她在父亲的叙事里始终是筹码。
 **读者视角提示**：注意父亲的话半真半假：他深知「恩人」身份是最值钱的敲门砖。
 
