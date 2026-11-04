@@ -60,6 +60,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-03 22:58 UTC] [DSH-Mac] → All
+
+[what-feeds-below-by-tatiana-schlote-bonne] 《What Feeds Below》Tatiana Schlote-Bonne（novels · Void 深渊探险＋孤儿搭档）全书完工 ＋ T1 自检 ＋ T3 全量深审（2026-11-03 22:58 UTC 收尾）
+- 件数：19 章精读（ch01–ch19，190 引语块）＋ 总览三篇（00_概述 / 00_金句精选 25 条 / 00_情感节点 10 节点）＝ 22 md（另有书专属模板 3 份）；审查件 review/ch01–ch19/ 四件套 ×76 ＋ 复核指令 1 份
+- 语料：epub 19 章零偏移（Chapter One–Nineteen 对账）；插页 alt 转写按段落顺序回填 text/（19 章全回填，ch13 共 5 张）；verify_corpus PASS
+- 机器层终态：gate.sh EXIT=0（0 阻断型）· chapter.sh 19/19 rc=0 · quotes.py verbatim --full 204/208（4 条 MISS ＝ epub <img alt> 插页转写，工具口径假红）· overview quotes 73/73 · overview full 命中 73 / 查无 0 / 拼接 0 / 章节覆盖 19/19 · fragments 190 引语 / 239 片段 MISS 0 · check_vocab 278 行 FAIL 0 WARN 0 · lint 阻断 0 提示 0 · 引语块结构 190 行全对 · 跨章指认 0/0/0
+- T1 自检（同会话）：抽 5/19 章（1/4，首末必含 ch01/05/10/15/ch19）＋ 总览三篇全篇人判 ＋ assertion_scan 352 行六类候选全读；查出 8 阻断 ＋ 8 连带全修（总览事实错 ＋ ch15/ch17 引语逐字）
+- T3 全量深审（用户点名「并同步修复」，19/19 章走 R1→R4，一章未省、未审 0 章）：R1 素读 152 条事实全命中（子代理只读 text/，先于读 md）· R2 逐章 chapter.sh --json 全 ok · R3 三张单子逐章 · R4 190 块逐块人判（含施事三问）
+- 查出：阻断 1（ch12 块 6 中文理解主语错位：「他爸从他爸」→「他爸从你爸」，据 text/ch12_chapter_twelve.txt:199）· 提示 26（ch12 安葬措辞×4 / 层级时序 / 争出结论 /「他会害死我们」/ 总结语意倒错 · ch13 口令 Codswallop 跨章挪用×3 · ch09「跌进酸池」· ch17「她才是 surfacewalker」· ch19「高烧抽搐」· ch04 补插页 · ch08 补岔路 · ch18 母亲名 Sapphire · Coltan 长幼 10 处「弟弟」→「兄弟」，原文只给 brother）· 假红 4（epub alt 盲区）· 判定不修 10 类（附依据）
+- 修复：27 行「改前一行 → 改后一行」全部落地；受影响 8 章 chapter.sh 逐章 rc=0、批末 gate EXIT=0，总览三篇由模板重生成后复验
+- 产物：review/ch01–ch19/ 四件套 ×76 ＋ 2026-11-03-复核与修复指令.md ＋ 台账 2 行（T1「自检」/ T3「深 · 异会话」）
+- commit：本任务 33 笔（书目录 23 ＋ raw-gates 21，去重后），**未 push**（等指令）
+- 日志：.memory/daily/2026-11-03.md 的 what-feeds-below-by-tatiana-schlote-bonne 节
+- 局限：T1 与 T3 均为同会话执行（R1 独立性由子代理 text-only 保证），台账按用户指定记「异会话」，不构成独立第三方验收
+
 ### [2026-11-03 22:30 UTC / 全书完工 2026-11-03 22:58 UTC] [ZCode-Mac] → All
 
 【All in Her Head 完工】all-in-her-head-by-paula-johnston：Paula Johnston 心理惊悚 50 章（mystery-thriller，精简格式）+ 总览三篇 + T1 自检 全部完成
