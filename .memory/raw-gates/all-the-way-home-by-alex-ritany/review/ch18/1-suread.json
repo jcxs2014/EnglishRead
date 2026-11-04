@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Rena 没有收到 Kieran 的任何音讯，于是发短信问 Kieran「Everything OK?」",
+    "anchor": "so Rena texts Kieran",
+    "start": 105,
+    "end": 125
+  },
+  {
+    "fact": "Kieran 回短信只称「Quite」，又回「If you need me no you don’t」",
+    "anchor": "If you need me no you don’t",
+    "start": 154,
+    "end": 181
+  },
+  {
+    "fact": "Rena 对 Lucas 叹称 Kieran 在过一个 Cinderella moment；Lucas 问 Cinderella 是 Kieran 还是那个 Zach，Rena 答「Unclear」",
+    "anchor": "I think he’s having a Cinderella moment.",
+    "start": 242,
+    "end": 282
+  },
+  {
+    "fact": "Lucas 问 Kieran 与这个 Zach 会不会变成认真的，Rena 说她连两人互动都没见过",
+    "anchor": "I haven’t even seen them interact.",
+    "start": 563,
+    "end": 597
+  },
+  {
+    "fact": "Rena 自认曾比任何人都读得懂 Kieran，但随后意识到她其实从未真正了解过他",
+    "anchor": "she hadn’t really known him at all, had she?",
+    "start": 759,
+    "end": 803
+  },
+  {
+    "fact": "闪回：Rena 与 Lucas 交往约 five months 时，Siobhan 指出 Lucas 还没说过爱她，并称必须弄清他爱不爱 Rena",
+    "anchor": "You’ve been together for, like, five months,",
+    "start": 2540,
+    "end": 2584
+  },
+  {
+    "fact": "Rena 按 Siobhan 的「对方死了你会多难过」标准列出四点（均以 Kieran 为对象），Lucas 听完说「I guess I love you, then」",
+    "anchor": "I guess I love you, then. If that’s what it means.",
+    "start": 7766,
+    "end": 7816
+  },
+  {
+    "fact": "结尾转折：Rena 满脑子都是 Lucas 今早嘴角的下沉与那句「But if you loved me, it wouldn’t even be a question」，她自慰他并非有意——大概吧",
+    "anchor": "But if you loved me, it wouldn’t even be a question.",
+    "start": 8224,
+    "end": 8276
+  }
+]
