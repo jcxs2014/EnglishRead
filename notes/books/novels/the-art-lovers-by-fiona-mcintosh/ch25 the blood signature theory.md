@@ -28,7 +28,7 @@ modified: "2026-11-04"
 > **原句 3:** "It was nothing to do with the frock, she realised, but her attitude. Today she felt pretty – a feeling that had eluded her for far too long."
 **中文理解**：出门前她忽然明白：好看与裙子无关，是心境变了——今天她觉得自己漂亮，这种感觉已经躲了她太久太久。
 **关键词**：her attitude、had eluded her
-**为什么这样写**：美的成因从衣物移到「态度」——一夜情不解释它，是「被平视」解释它；「eluded」的拟人把「觉得自己美」写成一只久捕不获的鸟。
+**为什么这样写**：美的成因从衣物移到「态度」——那晚的热度不解释它，是「被平视」解释它；「eluded」的拟人把「觉得自己美」写成一只久捕不获的鸟。
 **读者视角提示**：对照 ch21 儿子夸她美—— externally 的肯定终于内化成自我认同。
 
 > **原句 4:** "‘You’re a vision, Valentina,’ he breathed, squeezing her hand behind her back so no one could see."

@@ -79,7 +79,7 @@ modified: "2026-11-04"
 |---|---|---|
 | dangerously | 危险地 | You are dangerously desirable. |
 | languidly | 懒洋洋地 | ‘What does Valletta smell like?’ he asked languidly, and she was highly aware that he was watching her. |
-| pinioned | 被钳制住，动弹不得 | ‘Er…’ He felt pinioned somehow. |
+| recoiled | 猛地缩回，弹开 | As they both reached for the same dish and Peter’s hand accidentally covered hers, they both recoiled as if it had been white hot. |
 | mince your words | 措辞含蓄拐弯 | ‘But you were never one to mince your words, not even as a child.’ |
 | uncorked | 拔（瓶）塞 | She uncorked the bottle, dabbing the perfume on her wrists. |
 

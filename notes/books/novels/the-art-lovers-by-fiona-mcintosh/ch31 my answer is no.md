@@ -88,7 +88,7 @@ modified: "2026-11-04"
 > **原句 13:** "‘You get to return to your quiet life and enjoy being a single man. Write your book. I get to follow this path that excites me, released from the penance of my life with Lawrenz, and with money to do what I like.’"
 **中文理解**：她给出两人的分账方案：你回你的安静人生、享受单身、写你的书；我走让我兴奋的这条路——从 Lawrenz 那场苦修里释放出来，还有钱花。
 **关键词**：Write your book、with money to do what I like
-**为什么这样写**：「快乐」作为分手赠言——把愧疚全部清零后再分别；「penance」一词把她十五年婚姻定性为刑期，出狱的钥匙是她自己配的。
+**为什么这样写**：「快乐」作为分手赠言——把愧疚全部清零后再分别；「penance」一词把她十二年婚姻定性为刑期，出狱的钥匙是她自己配的。
 **读者视角提示**：这个结尾没有婚礼、没有拥抱——它给出的自由比任何洞房都奢侈。
 
 ## 本章词汇
