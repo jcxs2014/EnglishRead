@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Kieran 压低声音向 Zach 说出自己的计划：到机场后要用一套「horrifying opening strategy」缠住对方，直到对方答应跟他一起出去。",
+    "anchor": "until he agrees to hang out with me.",
+    "start": 200,
+    "end": 236
+  },
+  {
+    "fact": "Kieran 在离开前悄悄拿起 Rena 的咖啡杯，端在别人看不见的位置。",
+    "anchor": "Subtly, he picks up Rena’s coffee cup",
+    "start": 1811,
+    "end": 1848
+  },
+  {
+    "fact": "Kieran 直说 Lucas 在生他的气。",
+    "anchor": "“Lucas is upset with me.”",
+    "start": 2873,
+    "end": 2898
+  },
+  {
+    "fact": "Kieran 说去年夏天那段关系只维持一个月左右，所以散了大概是最好的结果。",
+    "anchor": "we were only together a month or so",
+    "start": 4020,
+    "end": 4055
+  },
+  {
+    "fact": "Kieran 在机场走廊里坦白自己曾被送进精神病房，Zach 随即确认是去年的事。",
+    "anchor": "“I was admitted to a psych ward.”",
+    "start": 4704,
+    "end": 4737
+  },
+  {
+    "fact": "Kieran 说 Rena 从来没有真正原谅他进精神病房这件事。",
+    "anchor": "She never really forgave me for it.",
+    "start": 5560,
+    "end": 5595
+  },
+  {
+    "fact": "Kieran 承认去年最糟的时候，他有时真的相信自己当时想离开她。",
+    "anchor": "Sometimes I really believe I did want to",
+    "start": 7062,
+    "end": 7102
+  },
+  {
+    "fact": "Zach 带着轻微的不安，跟着 Kieran 走进机场尽头那截在施工的黑暗区域。",
+    "anchor": "he follows Kieran into the dark.",
+    "start": 10614,
+    "end": 10646
+  }
+]
