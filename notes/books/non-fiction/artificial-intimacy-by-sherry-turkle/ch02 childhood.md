@@ -149,7 +149,7 @@ modified: "2026-11-04"
 
 **句子结构**：第一句给现象（父母无力反对），省略后是实验证据：两个 when 从句完全平行（were told...they said），只换 caring/malicious 一对反义词——实验设计的对称被句法原样复刻。
 
-**关键词**：rely emotionally / find it hard to object / were told / caring...malicious
+**关键词**：rely emotionally / find it hard to object / were told / malicious chatbot
 
 **表达方式**：这项研究揭示的是"标签即体验"：机器人是否 caring 几乎不由它的行为决定，而由介绍语决定。作者把它放在"媒体不断告诉我们程序有爱心"的语境后（省略处），暗示下一代人是在被喂养的标签里认识机器的。
 

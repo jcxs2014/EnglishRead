@@ -151,7 +151,7 @@ modified: "2026-11-04"
 
 **句子结构**：The more...the more 的比例句式给出规律（不可理喻度与真实感成正比），省略后两个短句完成诊断：前句说世界（reflect the complexity），后句说交易（frisson without the threat）——without 是全句的支点。
 
-**关键词**：autonomous and unreasonable / feel like people / the complexity of human desire / frisson...without the threat of rejection
+**关键词**：autonomous and unreasonable / feel like people / the complexity of human desire / the threat of rejection
 
 **表达方式**：frisson（法语借词，战栗）与 threat of rejection 的对举，是全书对"人机恋爱吸引力"最凝练的公式：人要的不是顺滑（那只是工具），是有情绪的对方；但要剔除其中最痛的部分。作者判定这个交易不可得——without the threat 的爱是 enclosure 里的野性，是布景。
 

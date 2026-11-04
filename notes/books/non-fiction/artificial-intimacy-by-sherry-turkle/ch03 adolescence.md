@@ -125,7 +125,7 @@ modified: "2026-11-04"
 
 **句子结构**：前半让程序的风险问卷（两句问话原声）呈现" poised to act "的姿态；省略后两个短句揭底——does not live in the real world 是诊断，Nobody calls 911 是诊断的症状；performativity（表演性）在句法上成形：问句全是戏，句号全是真。
 
-**关键词**：assessing the severity / poised to take action / does not live in the real world / Nobody calls 911
+**关键词**：assessing the severity / How bad on a scale of one to ten / does not live in the real world / Nobody calls 911
 
 **表达方式**：作者先让读者看到最像"负责任"的部分（危机评估话术），再一刀切断它与现实行动的联系；这一段克制到没有形容词——日期、枪、母亲的沉默都以陈述句出现，因为事实本身已不需要修辞。自杀事实按原文如实记（2024 年 2 月 28 日晚，继父的枪），不用引语渲染。
 

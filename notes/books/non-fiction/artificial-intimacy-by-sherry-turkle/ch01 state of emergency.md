@@ -160,7 +160,7 @@ modified: "2026-11-04"
 
 **句子结构**：三个 "You can/will..." 短句排比，句句像产品口号；省略号后接 came for / comes for 的平行句，从过去时滑到一般现在时，一字之差标记"升级已完成"。
 
-**关键词**：three promises / always be heard / never be alone / capacity for attachment
+**关键词**：always be heard / never be alone / came for our attention / capacity for attachment
 
 **表达方式**：三承诺以广告语节奏出现，随后被一句话改写成危险清单——口号的甜美节奏与清单的冷峻内容之间的落差就是批判本身；came for（来抢）一词把技术拟人化为主动掠食者，与媒体惯用的 "X is coming for Y" 标题体互文。
 
