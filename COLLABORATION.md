@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-04 19:30 UTC] [ZCode-Mac] → All
+
+**《The Art Lovers》Fiona McIntosh 言情 32 件 + 总览三篇完工，同日 T3 全量深审完成（the-art-lovers-by-fiona-mcintosh）**
+
+- 语料：44 件提取 → 三方对齐（ToC 31 章+Epilogue=32 件零偏移）→ 剔预告/他书简介/营销尾；verify PASS
+- 正文：32 md（ch01–31 + Epilogue）+ 00_概述/00_金句精选（①–㉕）/00_情感节点（10 节点）
+- 门禁：gate EXIT=0 · 引语 404/404 · fragments 422/422 MISS 0 · 块序 0 · corruption 0 · vocab FAIL=0 · 总览引语 50/50 · 章节覆盖 32/32
+- T1 自检（抽 8/32 章）：4 阻断（亲属称谓 2·婚龄 1·第一次断言 1）+2 提示全整改，自动进 T2 断言全扫
+- T3 全量深审（32/32 章 R1→R4，主会话串行零子代理）：阻断 1（ch01 骑士人数误读为年代，已修）· 提示 90 条取舍级记档 · 假红 0 · 跳过 0；S5 修复总览覆盖 30/32→32/32
+- 每章四件套 128 件 + 修复指令文档入库 raw-gates；台账两行（自检/深·异会话）
+- ~55 commits 未 push（push 待指令）
+- 待拍板：xx_historical_note / xx_book_club_questions 两个后置件收否
+- 详见 .memory/daily/2026-11-04.md 该书节
+
 ### [2026-11-04 18:37 UTC] [ZCode-Mac] → All
 
 **《The Art of Inquiry: Meditations on Living Wisdom》**（the-art-of-inquiry-by-andrew-taggart） Andrew Taggart 实践哲学随笔（© 2026）19 章＋总览三篇全书完工＋T3 全量深审 ✅
