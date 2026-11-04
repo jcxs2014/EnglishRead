@@ -28,7 +28,7 @@ modified: "2026-11-04"
 > **原句 3:** "The pilots especially were full of daring, and they always had barley sugar wrapped in waxed paper in their pockets for the children of Valletta. Valentina’s family enjoyed serving these men at their small bar."
 **中文理解**：驻岛的外国人以英国人为主，Valentina 对他们颇有好感——飞行员们胆子大，口袋里总揣着给孩子们的麦芽糖；她家的小酒吧靠招待这些军人生意维生。
 **关键词**：barley sugar、pilots、small bar
-**为什么这样写**：用一粒糖写围城期的日常政治——占领者与被保护者在糖纸上传送善意，也顺手交代了她学英语、亲近飞行员的全部来源：酒吧就是她与英国世界之间的窗口。
+**为什么这样写**：用一粒糖写围城期的日常政治——占领者与被保护者在糖纸上传送善意，也顺手交代了她亲近飞行员、练出航空词汇的日常来源：酒吧就是她与英国世界之间的窗口。
 **读者视角提示**：留意这家酒吧——与英国飞行员的往来既是她家的生计，也是她英语与航空知识的来源，往后剧情会反复用到。
 
 > **原句 4:** "Gina had run underground when the sirens went off, but the terrible news had soon come through. Most of those killed were servicemen on leave, but there were some locals in the audience, including the Gerit family."
@@ -38,7 +38,7 @@ modified: "2026-11-04"
 **读者视角提示**：Gina 的离开解释了 Valentina 为什么和 Robertu 那么亲近——不是爱情选择，而是身边没有别人；这为婚约线里的窒息感做了铺垫。
 
 > **原句 5:** "This time the knights in armour were pilots from all over the world, including as far away as Australia and New Zealand. They no longer wore armour of iron or steel but lightweight aluminium… and they were winged like angels."
-**中文理解**：Valentina 把今天的飞行员读成中世纪骑士的转世：盔甲换成轻铝，战马换成战机，而且「像天使一样长了翅膀」。五百年前骑士团顶住围攻，如今换全世界的飞行员守这座岛。
+**中文理解**：Valentina 把今天的飞行员读成中世纪骑士的转世：盔甲换成轻铝，战马换成战机，而且「像天使一样长了翅膀」。十六世纪五百名骑士两度顶住奥斯曼围攻，如今换全世界的飞行员守这座岛。
 **关键词**：knights in armour、winged like angels
 **为什么这样写**：这是全章的核心意象——把空战嵌进马耳他的抵抗史叙事，让一个 15 岁女孩的浪漫想象同时承担历史观照；「winged like angels」为坠海飞行员的神圣化做了视觉铺垫。
 **读者视角提示**：这个类比也解释了她为何敢留在原地：在她眼里这不是空袭，是骑士出场。
