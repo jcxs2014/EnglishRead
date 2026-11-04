@@ -1,0 +1,53 @@
+{
+  "chapter": "ch08",
+  "facts": [
+    {
+      "fact": "作者交代写作时点为 mid-September 2020：大规模野火正烧遍 Washington、Oregon、California，climate change scientists 视之为 climate change 的 proof，而 skeptics 仍 doubt 是否 human-caused；Six months prior，George Floyd 之死 galvanized Black Lives Matter movement（诉求包括结束警察对 Black people 的暴力），却遭遇 “all lives matter” 式的 counterclaims；coronavirus pandemic 之下 In May and June，公共讨论被框定为 public health 与 economic welfare 的权重之争——Conservatives urging states to re-open their economies 与 prioritized public health 的 progressives 对峙，libertarians 则视 progressive governors 令企业停业的命令为对 personal liberties 的 infringements。",
+      "anchor": "In mid-September 2020 as I write, massive wildfires are burning throughout Washington, Oregon, and California",
+      "start": 59,
+      "end": 1298
+    },
+    {
+      "fact": "作者提出我们的 groundlessness 已被 Alasdair MacIntyre 在 After Virtue（融贯 moral philosophy、sociology 与 the history of philosophy 的 masterpiece）中所揭示，且出版至今已 40 年而变化不大；MacIntyre 从 war、abortion、political philosophies 三例看似平常的 moral disagreements 入手，论证它们在现代既 interminable 又 shrill，并假设其根源是一种 culture-wide、intractable 的 moral incoherence。",
+      "anchor": "which Alasdair MacIntyre expertly exposed in After Virtue, a masterpiece of moral philosophy",
+      "start": 1301,
+      "end": 2032
+    },
+    {
+      "fact": "作者引 Brad Gregory 在 The Unintended Reformation 中对新教改革（Protestant Reformation）以来伦理生活碎裂状态的命名 “hyperpluralism”，并以近年饮食法爆发为例：“omnivorous, pescatarian, vegan, fruitarian, raw food, Whole30, Paleo, ketogenic, mediterranean, carnivore, blood type, South Beach, macrobiotic, Ornish, even breatharian”；同时 shared conception of “the good” 日益晦暗，由 surrogate conceptions of the good life（“hedonism, careerism, possessive, insular love, and secular spirituality”）填补；两者合流，以 eudaimonia（the life well-lived）的 derogated substitutes 掩盖了真正缺失的 shared vision of the good。",
+      "anchor": "what Brad Gregory, in The Unintended Reformation, aptly terms",
+      "start": 3317,
+      "end": 4692
+    },
+    {
+      "fact": "作者引 MacIntyre 在解析 Aristotle 的 telos 时所写：“Every activity, every enquiry, every practice aims at some good; for by ‘the good’ or ‘a good’ we mean that at which human beings characteristically aim.”（章末脚注给出的出处为 After Virtue: A Study in Moral Theory, University of Notre Dame Press, 1981, 139）；继而点明 meta-crisis 之所在：我们无力知道 on what basis 我们 ought to live——独自生活，尤其是作为 “we” 共同生活——并称这一 meta-crisis 只有在 metacognitive awareness 中方才出现。",
+      "anchor": "Aristotle’s notion of a telos, MacIntyre writes, “Every activity, every enquiry, every practice aims at some good",
+      "start": 4695,
+      "end": 5439
+    },
+    {
+      "fact": "作者把 homelessness 归于现代—后现代世界观中三个 reigning doctrines——physicalism（一切皆 physical）、humanism（唯 human-agent-centered 的关切才 matter）、secularism（没有 eternity，唯 ordinary sense experience 的 temporal world 存在）——的下游后果，并指其践行者如 Twitter 的 Jack Dorsey 这样的 “secular monks”（脚注：Andrew Taggart, “Secular Monks,” First Things, March 2020）；其存在论后果包括：time 必稀缺、即作者他处所称的 “time famine”（脚注：Andrew Taggart, “Why You Never Have Enough Time, a History,” Quartz, May 9, 2018），以及除 delusion 或 forgetfulness 之外无从否认的对死亡的 anxiety。",
+      "anchor": "Embracing this picture are “secular monks,” like Twitter’s Jack Dorsey",
+      "start": 5442,
+      "end": 6351
+    },
+    {
+      "fact": "作者指 nihilism 虽少被直接言说却无处不在——pointlessness、meaninglessness、helplessness 的普遍 malaise；并引 Christopher Mastropietro 与 John Vervaeke 为相似论点列举 “meaning crisis” 的诸症状：“deaths of despair,” “the loss of communitas,” “the rise of addiction,” “idolatries of the sacred”（脚注：The Side View, May 20, 2020）；又指这一 reality 图景过于 flat，无法通达前祛魅（pre-disenchanted）沉思宇宙论中的维度——Parmenides 的 underworld、Plotinus 的 ascent to the One（脚注另涉 Max Weber “Science as a Vocation”, 1946, 论 “disenchantment of the world”），并援引 Charles Taylor 在 A Secular Age 中的 “immanent frame”：对 time famine、existential anxiety、nihilism 深有体认者往往 feel homeless，于世界与自身 skin 皆无处安家。",
+      "anchor": "In support of a similar thesis, Christopher Mastropietro and John Vervaeke point to various symptoms",
+      "start": 6354,
+      "end": 7394
+    },
+    {
+      "fact": "作者称这种 Socratic understanding（as raw as it is real）是让我们得以完全投身 ultimate things 之沉思与 living, vibrating wisdom 的 humble opening，并提出 two-fold proposal：其一 contemplate ultimate things，其二走上 living wisdom 的 path；他判现代文化因长期 groundless、homeless 而 exudes carelessness、未学会 care deeply，并引 Socrates 在 Plato’s Apology 中的示范——to care deeply 即愿为真正 worth caring about 之事而死；继而定义 contemplation 为对存在最基本 matters 的 heart- 与 mind-open 的 inquiry，questioner 同时把自身卷入问题，并把 “matters of ultimate concern” 与 “what matters to, while implicating, me” 的这一综合称为 the existential。",
+      "anchor": "as Socrates shows us in Plato’s Apology, is to be willing to die for what is truly worth caring about",
+      "start": 7997,
+      "end": 9600
+    },
+    {
+      "fact": "作者称如此理解的 contemplation 不只是 intellectual 之事，而是 existential through and through、要求倾注整个 being；并举 Rinzai Zen practice 为例：to inquire “exhaustively” into the great matter of life and death 意味着把自身整个倾注于该 koan（life-enigma），以致无任何事比它 stakes 更大，必须抵达 koan 的最底处——那也是自身 being 的最底处；最后定义 living wisdom 为直接流自对 the good 与 the real 之最深最全 contemplative understanding 的 virtuous conduct，其践行者依次为 perceptive、thoughtful、emotionally attuned、considerate、graceful 且 whole。",
+      "anchor": "In Rinzai Zen practice, for instance, to inquire “exhaustively” into the great matter of life and death",
+      "start": 9603,
+      "end": 10588
+    }
+  ]
+}

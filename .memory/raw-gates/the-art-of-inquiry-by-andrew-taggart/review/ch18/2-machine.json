@@ -1,0 +1,340 @@
+{
+  "chapter": 18,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/ch18 16. Is This All There Is?.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/text/ch18_16_is_this_all_there_is.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Fifteen years later, I see that I was being hard on an older man who was expressing a mixture of humility and chagrin wh",
+          "ok": true,
+          "pos": 151
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Noticing that the table service was being performed improperly, John XXIII became “furious.” Hadot, like Orwell, observe",
+          "ok": true,
+          "pos": 2916
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "What’s more, such discourse, soon running out, echoes The Tao Te Ching, which states that “those who know do not speak” ",
+          "ok": true,
+          "pos": 5314
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "You asked me about the role that philosophical discourse and philosophical practices have in my own conception of philos",
+          "ok": true,
+          "pos": 5794
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Personally, while trying to accomplish my historian’s and exegete’s tasks, I especially attempt to lead a philosophical ",
+          "ok": true,
+          "pos": 7138
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "While his summary is technically correct, he is blind to how Hadot’s response has disclosed his failure to transcend the",
+          "ok": true,
+          "pos": 8705
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "I remember speaking to her in early January about the fruit trees that she and her husband had just planted in the backy",
+          "ok": true,
+          "pos": 14022
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "There is no world but this one, no day but today, no self but the one knitted together in this perishable mind-body comp",
+          "ok": true,
+          "pos": 16212
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He nodded. “Continue zazen with extended outbreath while silently seeking to get to the bottom of your koan.” I went bac",
+          "ok": true,
+          "pos": 18463
+        }
+      ],
+      "words": 35
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 79,
+        "句子结构": 36,
+        "关键词": 0,
+        "表达方式": 79,
+        "为什么这样写": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "句子结构": 0.24,
+        "关键词": 0.0,
+        "表达方式": 0.57,
+        "为什么这样写": 0.64
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "句子结构": 39,
+        "关键词": 0,
+        "表达方式": 88,
+        "为什么这样写": 75
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "句子结构": 0.28,
+        "关键词": 0.0,
+        "表达方式": 0.57,
+        "为什么这样写": 0.68
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 32,
+        "句子结构": 14,
+        "关键词": 0,
+        "表达方式": 85,
+        "为什么这样写": 82
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "句子结构": 0.13,
+        "关键词": 0.0,
+        "表达方式": 0.67,
+        "为什么这样写": 0.51
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 84,
+        "句子结构": 42,
+        "关键词": 0,
+        "表达方式": 86,
+        "为什么这样写": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "句子结构": 0.24,
+        "关键词": 0.0,
+        "表达方式": 0.56,
+        "为什么这样写": 0.43
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 94,
+        "句子结构": 40,
+        "关键词": 0,
+        "表达方式": 77,
+        "为什么这样写": 81
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "句子结构": 0.2,
+        "关键词": 0.0,
+        "表达方式": 0.5,
+        "为什么这样写": 0.53
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 57,
+        "句子结构": 20,
+        "关键词": 0,
+        "表达方式": 83,
+        "为什么这样写": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.15,
+        "关键词": 0.0,
+        "表达方式": 0.52,
+        "为什么这样写": 0.64
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 44,
+        "句子结构": 42,
+        "关键词": 0,
+        "表达方式": 88,
+        "为什么这样写": 83
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "句子结构": 0.23,
+        "关键词": 0.0,
+        "表达方式": 0.73,
+        "为什么这样写": 0.76
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 97,
+        "句子结构": 32,
+        "关键词": 0,
+        "表达方式": 74,
+        "为什么这样写": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.17,
+        "关键词": 0.0,
+        "表达方式": 0.58,
+        "为什么这样写": 0.72
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 43,
+        "句子结构": 43,
+        "关键词": 0,
+        "表达方式": 83,
+        "为什么这样写": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "句子结构": 0.27,
+        "关键词": 0.0,
+        "表达方式": 0.53,
+        "为什么这样写": 0.53
+      }
+    }
+  ],
+  "form": {
+    "h1": "18. 16. Is This All There Is?",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 9,
+    "block_median": 8,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3247,
+    "block_target": [
+      6,
+      10
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 18 章中位 8、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

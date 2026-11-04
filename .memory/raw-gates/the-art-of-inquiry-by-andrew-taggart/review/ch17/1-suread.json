@@ -1,0 +1,53 @@
+{
+  "chapter": "ch17",
+  "facts": [
+    {
+      "fact": "作者断言：existential opening（存在之开启）首次把问题折回发问者自身，引出 “Why am I here?” “How shall I live?” “What is ‘it all’ about?” “What is truly real?” 等基本存在之问，而这些追问最终都可追溯到最根本的问题 “Who am I?”，且在此问题之后不再有 backstop 问题。",
+      "anchor": "An existential opening bends the questions, for the first time, back on me.",
+      "start": 891,
+      "end": 2300
+    },
+    {
+      "fact": "作者指出《Yoga Vasishta Sara》（他称之为 Advaita Vedanta 的一份精粹/distillation）表达了同一个起点：全然无知者与已识真理者都无资格研读此书，唯有自认 “I am bound; I must become free” 者才配研读；注脚给出 Swami Sureshananda 英译本（Sri Ramanasramam，1973 年初版、1999 年重印）第 1 页。",
+      "anchor": "the same starting point in Yoga Vasishta Sara, a distillation of Advaita Vedanta",
+      "start": 2651,
+      "end": 3246
+    },
+    {
+      "fact": "作者把位于 ignoramus（全然无知者）与 sage（圣者）之间的形象命名为灵修者（sadhu），断言唯有灵修（sadhana）能为 sadhu 提供走出 no man’s land 的道路；sadhana 的唯一要旨是弥合理论理解与直觉统一之知（jnana）的鸿沟、消除束缚求知者的无知，指针在求知者 unrealizes ignorance 之时消失。",
+      "anchor": "the figure located between the ignoramus and the sage is the spiritual practitioner (sadhu)",
+      "start": 3548,
+      "end": 4963
+    },
+    {
+      "fact": "作者把 earnest spiritual seeker 的处境比作第二祖师对 Bodhidharma 的呼喊 “Your disciple is not yet at peace!”；注脚引 Zenkei Shibayama《Gateless Barrier: Zen Comments on the Mumonkan》（Shambhala，2000）case 41：二祖雪中断臂求安心，终答 “I have searched for my self and I am, finally, unattainable”，Bodhidharma 便说 “Now you have thoroughly found peace!”。",
+      "anchor": "akin to the cry of the Second Patriarch who tells Bodhidharma",
+      "start": 4030,
+      "end": 4443
+    },
+    {
+      "fact": "作者依 Leibniz 的同一者不可辨别原则（Principle of the Indiscernibility of Identicals）逐项否定 “我” 与走路等身体活动、见闻感知、身体感受及一切心智活动（desiring、thinking、feeling）同一，并援引 thought-free state（无念状态）的经验，得出 “我既非粗身、亦非感官、能量身与心” 的否定性结论。",
+      "anchor": "According to Leibniz’s Principle of the Indiscernibility of Identicals",
+      "start": 5622,
+      "end": 6537
+    },
+    {
+      "fact": "作者在内转中找到两条不可否证的线索——“I exist” 与 “I know/aware”：某物在 registering 一切客观经验的生灭且不随之消逝；经直接经验（pure seeing without reference to any thought）检验，作者认定 “I” 与 “knowing” 非二，归结为 “I alone” = “I exist” = “I am aware or knowing”。",
+      "anchor": "the experience of “I am” and experience of “I know” are non-different",
+      "start": 6540,
+      "end": 9126
+    },
+    {
+      "fact": "作者宣告由此抵达 Ramana Maharshi 所称 “self-inquiry”（atma vichara）的起点，要知自己之本质（svarupa）；他引《Maharshi’s Gospel》：“I am” 之感（Aham-vritti）是 “the one irreducible datum of your experience”，故 “seeking its source” 是证悟 Self “the only practicable course”（注脚：Sri Ramanasramam，2016 年，第 64 页）。",
+      "anchor": "seeking its source is the only practicable course you can adopt to realise the Self",
+      "start": 9129,
+      "end": 10027
+    },
+    {
+      "fact": "作者依 Nisargadatta “nothing that can be predicated of ‘I am’ is true” 逐一撇除 I-sense 的谓词（人格、年龄、性别、婚否、形状、大小、记忆、预期），进而论证 I 不被空间所限（“here”/“there” 皆对象）也不在时间之中——在无念的直接经验里我不见时间流逝。",
+      "anchor": "nothing that can be predicated of “I am” is true. Hence, all predicates can be dispensed with",
+      "start": 10463,
+      "end": 11917
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapter": "ch03",
+  "facts": [
+    {
+      "fact": "作者说「What do you do?」这个问题从未给他带来好事：一旦答出「我是哲学家」，只有两种走向——对方要么近乎超常地感兴趣，要么为他「把一生浪费得当」的愚蠢彻底语塞。",
+      "anchor": "Once off my lips, the reply that I’m a philosopher can lead in only one of two directions",
+      "start": 52,
+      "end": 501
+    },
+    {
+      "fact": "假定对方取后一种态度：他断言「Philosophy—it doesn’t get you anywhere」，并视之为像「夜以继日」一样确定；作者承认自己还没想出真正令人满意的回嘴。",
+      "anchor": "he replies, reveling in a truth that he believes is as certain as the claim that night follows day",
+      "start": 504,
+      "end": 981
+    },
+    {
+      "fact": "作者把「哲学家讨论问题永远得不出结果」拆成三种可能意思：陷入无尽争论、得不出具体结论；无中生有、因定义与琐碎区分的纠缠把所有人搅进思维混乱；在哲学游戏中无法裁定谁对谁错。",
+      "anchor": "he could mean one of three things: first, that philosophers get mired in endless debate",
+      "start": 1996,
+      "end": 2993
+    },
+    {
+      "fact": "作者猜测，对方深切感到整个文化普遍失去了对「理性之力」的信心（不再相信理性能帮我们理解自身与世界）；哲学家的立场则要求一场深刻的态度转变——在曾经不耐烦之处培育谦卑。",
+      "anchor": "he deeply feels the culturally widespread loss of faith in the power of reason",
+      "start": 2996,
+      "end": 4141
+    },
+    {
+      "fact": "对方退一步说：如果哲学有价值，就是「人人有自己一套」的个人哲学——教练有执教哲学、公司有企业哲学、政党有执政哲学；作者给出三点理由（未必真信、未必值得坚持、哲学必须是一种思考方式而非教条），结论是个人哲学常常是「非哲学的」。",
+      "anchor": "a coach has her own coaching philosophy, a company its corporate philosophy",
+      "start": 4144,
+      "end": 5905
+    },
+    {
+      "fact": "当我们不知如何行动、陷入无从掌控的危机、生活失去意义时——正是在这样的悲剧时刻，道德哲学家 Harry Frankfurt 关于「我们最在乎什么、什么（谁）值得我们在乎」的问题会在耳边回响。",
+      "anchor": "the moral philosopher Harry Frankfurt’s questions concerning what we care most about",
+      "start": 7020,
+      "end": 8084
+    },
+    {
+      "fact": "现代世界的诸建制（教育与医疗、家庭与宗教、家与工作）和诸影响领域（经济、公民社会、国家）正剧烈变动、试出新的生活方式；哲学由此以「life-need」（生命之需）的形态回归，而哲学唯有其结论被活出来才至关重要。",
+      "anchor": "The institutions that make up the modern world—education and medicine, family and religion",
+      "start": 8087,
+      "end": 9375
+    },
+    {
+      "fact": "作者以 Jane Austen（连同自身无数失败）学会了不自视过高；仍在学的包括：如实说话而不威压不枯燥、诚实而不和盘托出、精确而不自以为是、被纠正时心怀感激，以及爱那些微小的事物。",
+      "anchor": "Jane Austen taught me that, along with my myriad failures",
+      "start": 9378,
+      "end": 10012
+    }
+  ]
+}

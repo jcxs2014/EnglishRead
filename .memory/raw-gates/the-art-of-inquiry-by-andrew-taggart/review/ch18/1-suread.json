@@ -1,0 +1,53 @@
+{
+  "chapter": "ch18",
+  "facts": [
+    {
+      "fact": "作者回忆读 Pierre Hadot 在《The Present Alone Is Our Happiness》中回答采访时曾感到失望，十五年后（Fifteen years later）自认当时对这位陷入 performative contradiction 的老人过苛；那道问题是 Arnold Davidson 所问：哲学话语与（非纯概念的）实践在 Hadot 自己的哲学观中扮演何种角色。",
+      "anchor": "Iremember feeling disappointed when I read Pierre Hadot’s reply to his interviewer",
+      "start": 38,
+      "end": 561
+    },
+    {
+      "fact": "作者把 Davidson 的问题读出四种可能的意涵，并选定第四种——要 Hadot 当场显现真正的哲学家；佐证之一是 Hadot 讲述他幼年遇见的未来的 John XXIII 因餐桌服务不当而 “furious”，并断言 “[I]n my eyes this man is not a saint”。",
+      "anchor": "Hadot relates an anecdote about the future John XXIII whom he met when he was a young boy",
+      "start": 1268,
+      "end": 3206
+    },
+    {
+      "fact": "Hadot 自认 discourse/practices 之分借自 Stoics，作答中两度以 “Personally” 转折、明言要 “once again take a detour by way of antiquity”；作者以 Matthew 7:16（“by his fruits”）、Orwell（“At 50, everyone has the face he deserves”）与《Tao Te Ching》（“those who know do not speak”）为衡量 Hadot 的尺度。",
+      "anchor": "I borrowed this distinction [between discourse and practices] from the Stoics",
+      "start": 3211,
+      "end": 7148
+    },
+    {
+      "fact": "Hadot 在自白中承认行史家与注释家之职时尽力过哲学生活但 “the results are not always of a very high level”，住院期间（sojourns in hospitals）未能保持想望的心之宁静，并引 Georges Friedmann “to take flight every day”，自认年岁渐长愈来愈 “prefer experience to discourse”。",
+      "anchor": "And during my sojourns in hospitals, for example, I have not always maintained the serenity of mind",
+      "start": 7179,
+      "end": 8648
+    },
+    {
+      "fact": "作者判 Davidson 的总结性回应（“Thus a priority of practice…”）为悲剧性的（tragic），指其无视 Hadot 的回应已暴露他未能超越自己温和批评的学院哲学，并称整场交流是一出喜剧、由此通向 religion as a way of life。",
+      "anchor": "While his summary is technically correct, he is blind to how Hadot's response has disclosed",
+      "start": 8651,
+      "end": 9280
+    },
+    {
+      "fact": "作者列举 philosophy as a way of life 的缺陷：在现代性中偏向 discourse 而非 life、滑向 self-help 与 “modern stoicism”、只有 a la carte 式灵修而无真正道路、无 epistemic verification、无可辨认的 Sage；对比之下禅宗由 recognized roshi 面谈学生以 discern satori（“clear seeing of self-nature”）。",
+      "anchor": "Whereas Zen Buddhism uses an interview process in which a recognized roshi interrogates a student",
+      "start": 9721,
+      "end": 13156
+    },
+    {
+      "fact": "2013 年 12 月（December 2013）作者的长姐 Jen 被送进医院，查出 “of indeterminate origin” 的癌症；一月初作者与她谈起她与丈夫在新居后院刚种下的果树；Twelve weeks later 她去世。姐姐意外死后作者起初转向禅宗（Zen Buddhism），并自陈直到 Jen 死于 2014 才质疑其追求善好生活的形而上学基础——此前他一直受 Charles Taylor 所谓 “the immanent frame”（《A Secular Age》）的束缚；注脚显示他曾在 First Things（March 2020）发表 “Secular Monks” 一文。",
+      "anchor": "In December 2013, my oldest sister Jen was taken to the hospital.",
+      "start": 13885,
+      "end": 17100
+    },
+    {
+      "fact": "2019 年 1 月（January 2019）在作者第二次参加的禅修营（sesshin）首日，Rinzai Zen teacher Jeff Shore 问他 “What brings you here?”，作者答 “Enlightenment—the longing to know who I am”；Shore 又问他的 natural koan，作者以 “Is this all there is? Is this it?” 作答，Shore 指示其继续 zazen with extended outbreath、静默参究 koan 到底。",
+      "anchor": "Jeff Shore, a Rinzai Zen teacher, asked me on the first day of the sesshin. It was January 2019",
+      "start": 18333,
+      "end": 18931
+    }
+  ]
+}

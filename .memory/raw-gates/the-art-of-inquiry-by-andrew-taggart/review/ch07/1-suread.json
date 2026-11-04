@@ -1,0 +1,53 @@
+{
+  "chapter": "ch07",
+  "facts": [
+    {
+      "fact": "当代哲学家 Harry Frankfurt 竖起手指、数出两支再添上第三支：第一支认识论关乎「what we believe」，第二支伦理学关乎「how to behave」，最后一支覆盖其余全部人类存在——Frankfurt 宣布那是「what we care about」的问题。",
+      "anchor": "The contemporary philosopher Harry Frankfurt holds up his fingers, counts two, and then shades in a third.",
+      "start": 40,
+      "end": 620
+    },
+    {
+      "fact": "作者称 Frankfurt 在此承袭「最伟大的现代哲学家」Immanuel Kant：Kant 在其 1785 年伦理学论著《The Groundwork of a Metaphysics of Morals》中断言，每个人都在内心感到需要与偏好（总名为幸福）构成对义务命令的强大抗衡（powerful counterweight），reason 不间断地发布命令而不理会这些诉求；作者由此点出谜题——现代世界的伦理是逆自然而行动，古代世界的伦理是依自然而生活。",
+      "anchor": "he states with great certainty in his 1785 ethical treatise The Groundwork of a Metaphysics of Morals",
+      "start": 1898,
+      "end": 4222
+    },
+    {
+      "fact": "帕斯卡（数学家、天主教护教士）与 C.S. 刘易斯相隔 300 年各自哀悼中世纪宇宙（Aristotelian cosmology 与 Christian theology 的精妙综合）的失落：Pascal 被 Koyré 所说的「closed world」变为「infinite universe」的形变所惊骇，在《Pensées》（§206）中慨叹「eternal silence of infinite spaces fills me with dread」；Lewis 这位牛津导师在 1964 年去世前不久完成的《The Discarded Image》中长篇颂扬中世纪模型——接受 Medieval Model 的人看夜空是 looking in 而非 looking out。",
+      "anchor": "Both Pascal and Lewis, separated by 300 years, separately mourned the loss of the medieval cosmos.",
+      "start": 4619,
+      "end": 8894
+    },
+    {
+      "fact": "作者说 Descartes 计划之败在《Principles》第 28 条（脚注 I.28）最为显眼：他写下十七世纪最重大的轻描淡写之一——「我们不应考察被造物的目的因，只应考察其动力因」，物质实在由此成为动力因的领域，而「为何有此物在、它在事物秩序中居何位」这类目的因之问将无人作答、无人再问、终被彻底遗忘。",
+      "anchor": "no more evident than in number 28 of Descartes’s Principles. There he writes",
+      "start": 18013,
+      "end": 19020
+    },
+    {
+      "fact": "Locke 在 1690 年写成的《Essay Concerning Human Understanding》中区分第一性质与第二性质：第一性质（mass、extension、shape、velocity）是内在、必要且构成性的；我们所见的红色并不在球本身之中；第二性质是 relational 的（如温暖感随与火的距离 D1/D2 和感官敏感度而变），用 Locke 的话说只是「powers to produce various sensations in us」、依赖第一性质（脚注 II.viii.14）。",
+      "anchor": "Locke’s Essay Concerning Human Understanding, written in 1690, presents us with an epistemic puzzle",
+      "start": 21611,
+      "end": 25517
+    },
+    {
+      "fact": "作者论 Kant 的 Theoretical Vision：它把人从自然中撕出，再把自然以理论实体的面目交还我们供使用、消费、分析与审视——现代人把对象看作可拆解的、道德看作法律式的、上帝看作抽象实体，于是只能逆自然世界而行动，依 duty 重训自己，而不再合于爱的节奏（the rhythms of love）。",
+      "anchor": "The Theoretical Vision works by ripping humans out of nature",
+      "start": 35761,
+      "end": 37965
+    },
+    {
+      "fact": "作者引古人以水喻生命：《Daodejing》说「The highest goodness is like water」（脚注 Ch. 8），Xenophanes 说生成生长的万物是 earth and water，Aristotle 转述「Thales said it is water」；又引 Hegel《Early Theological Writings》论洪水——洪水割断了人与自然原有的亲善，唤起「disbelief in nature」，转而催生人的支配欲。",
+      "anchor": "The leitmotif of human life as one that flowed like water was well-known in the ancient world.",
+      "start": 38436,
+      "end": 39580
+    },
+    {
+      "fact": "2012 年 5 月初，作者与「四年后将成为我妻子」的 Alexandra 在 Woodstock 郊外小屋共度一周：两人生活在无缝的存在（seamless being）里，笑看麻雀与蒲公英、把脚悬在 opal rocks 上——他们的天性正追随自然的沉默进程，「then love was all we knew」。",
+      "anchor": "In early May 2012, Alexandra, the woman who would become my wife four years later, and I spent a week",
+      "start": 44331,
+      "end": 45940
+    }
+  ]
+}

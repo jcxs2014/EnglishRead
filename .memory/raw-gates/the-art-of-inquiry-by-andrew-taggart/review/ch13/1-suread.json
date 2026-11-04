@@ -1,0 +1,53 @@
+{
+  "chapter": "ch13",
+  "facts": [
+    {
+      "fact": "作者开章提出：本章借 discernment（识别）之德区分「right」与「wrong」两类问题，因为任何问题都「框定」可理解答案——如箴言「To a hammer, everything looks like a nail」：锤子造出可理解性的视域；答非所问（如突然说「Frank Sinatra was nicknamed Ol’ Blue Eyes」）便是 non sequitur。",
+      "anchor": "the adage: “To a hammer, everything looks like a nail.” The hammer creates the horizon of intelligibility",
+      "start": 299,
+      "end": 1202
+    },
+    {
+      "fact": "作者列第一类错问题（使 inquiry 从一开始就无法进行）的四种情形：答案自明（know-it-all 断言 lower or higher taxes 必然好）、答案不可知（如「What is the ultimate and only meaning of life?」令人头脑冻结）、令答者 at a loss（不知答案可能长什么样）、以及 pseudo-question（愤怒的父亲问「Why are so stupid?」并非真问，而可能是道德评判、处世忠告或威胁）。",
+      "anchor": "Think of the know-it-all who is certain that lower (or higher) taxes are unequivocally good",
+      "start": 2037,
+      "end": 2229
+    },
+    {
+      "fact": "作者举「答案不可知」一类时引 mysterians（新神秘主义者）并转述 Colin McGinn 的话：意识是「a mystery that human intelligence will never unravel」（人类智力永远解不开的谜）；脚注注明出自 Wikipedia「New Mysterianism」条目（accessed June 24, 2026）。",
+      "anchor": "consciousness is, in the words of Colin McGinn, “a mystery that human intelligence will never unravel",
+      "start": 2232,
+      "end": 2733
+    },
+    {
+      "fact": "作者列第二类错问题（inquiry 能开始却无法「gain traction」）的四种情形：撞上 doxa（common sense——车轮空转、答者把门关死）、stuckness（觉得只有 X or Y 且都不合意，只是在反复排演不满）、discord（cognitive dissonance 或 volitional dissonance 的内在失调）、以及被 peripheral matters（枝节问题）带偏。",
+      "anchor": "The line of inquiry, almost immediately or at a pivotal moment, strikes doxa, or common sense",
+      "start": 3594,
+      "end": 4264
+    },
+    {
+      "fact": "作者回到 Meno 的挑战（inquiry 如何可能）给出 specifications：第一须知自己不知所求、第二须对什么算好答案有 vague idea、第三须有足够强的求知欲；正如知道「the number in question must be greater than 2 and less than 4」能 boxes in（框住）可能的正确答案，not-A、not-B、not-C 的排除也 delimits existential inquiry 的范围。",
+      "anchor": "the number in question must be greater than 2 and less than 4 “boxes in” the set of possible right answers",
+      "start": 7713,
+      "end": 8377
+    },
+    {
+      "fact": "作者给出一个基于真实哲学对话的虚构对话：问者从「你爱你的孩子吗」「你爱你的母亲吗」等简单情形起步，与答者先排除 mere attraction，再经「like attracts like」推进到 provisional definition——love is the experiential knowledge of oneness（爱是对合一的体验性认知）。",
+      "anchor": "love is the experiential knowledge of oneness. Can you accept this as a provisional definition of love",
+      "start": 12423,
+      "end": 12637
+    },
+    {
+      "fact": "虚构对话厘清了 puzzle：答者 unequivocally 爱妻子却不确定是否愿与她共度余生；双方由共同品味（same taste）推到 shared sensibility（彼此「get」、heart-to-heart），得出 love doesn’t entail「getting」each other；答者以自己的 Venn diagram 作结——两人的「sensibility circles」barely overlap。",
+      "anchor": "our Venn diagram shows that our “sensibility circles” barely overlap",
+      "start": 15864,
+      "end": 15951
+    },
+    {
+      "fact": "作者结语：好的结论由问者与答者共同接受、显现为 clarity，可被感受为 joy、knowing tears、lighthearted smiling 或 wholesome quietness；并区分三种 conclusion——1.) Affirmation, Realization, or Discovery（「Yes, of course! This is it!」）、2.) A Sense of Expansiveness（「X is possible—who knew?」）、3.) A Sense of Inevitability, Ripeness, or Opportuneness。",
+      "anchor": "Three kinds of conclusions are worth singling out",
+      "start": 16554,
+      "end": 16604
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "chapter": "ch10",
+  "facts": [
+    {
+      "fact": "Meno 似已忍无可忍：他指控 Socrates 是施咒的「magician」、令他「bewitching」、把他「under a spell」；又把 Socrates 比作令靠近者心智与言语麻痹的「broad torpedo fish」（80b），并劝 Socrates 莫要「sail away from Athens」，否则必因行巫术（sorcery）而被驱逐（80b）。",
+      "anchor": "compares Socrates to a “broad torpedo fish” that “numbs” the mind and speech",
+      "start": 53,
+      "end": 745
+    },
+    {
+      "fact": "人物背景：来自 Thessaly 的年轻俊美而野心勃勃的贵族 Meno 以 Anytus 的 guest-friend 身份来到雅典——Anytus 正是后来在《The Apology》中控告 Socrates 不敬神与败坏青年的政治人物；Meno 从大智术师 Gorgias 学修辞；据 Xenophon（《Anabasis》2.6.21）他渴望荣誉、权力与尤其「enormous wealth」，以欺骗、造谣与嘲弄朋友为傲。",
+      "anchor": "A young, handsome, ambitious aristocrat from Thessaly, Meno has come to Athens as a guest-friend of Anytus",
+      "start": 748,
+      "end": 1682
+    },
+    {
+      "fact": "对话开场：Meno 先问 Socrates virtue 是否可教；Socrates 一如惯例指出，若不先知道 virtue 是什么，就别指望知道 virtue 可否教；自称知道 virtue 的 Meno 坐上 answerer 之位，接连给出三个定义——每个都暴露他把宝押在既有社会秩序内的权力行使上。",
+      "anchor": "Meno begins by asking Socrates about whether virtue can be taught",
+      "start": 1685,
+      "end": 2126
+    },
+    {
+      "fact": "第一个定义出现在 71e：以既有社会角色界定 virtue——「man's virtue」有别于女人、孩子、老人之德；作者引 Alasdair MacIntyre《After Virtue》论荷马社会（关键结构是 kinship 与 household）说明 Meno 未加反思地采纳「英雄式/荷马式」观点；Meno 称男人之德在能 manage public affairs、从而 benefit his friends、harm his enemies（71e）；随着对话推进，Socratic elenchus 将暴露其 hubris。",
+      "anchor": "The first, occurring at 71e, defines virtue in terms of given social roles",
+      "start": 2129,
+      "end": 3269
+    },
+    {
+      "fact": "第二个定义（73d）：为迎合 Socrates 的「What is F?」公式，Meno 讽刺地抛掉其他社会角色，只说「What else [is virtue] but to be able to rule over people」（73d）；此定义同样败于 elenchus——不是因为不合公式，而是因为它无法普遍适用：排除了一切不能统治他人的 children、women、slaves。",
+      "anchor": "What else [is virtue] but to be able to rule over people” (73d)",
+      "start": 3272,
+      "end": 3964
+    },
+    {
+      "fact": "第三个定义（77b）：「virtue is to desire beautiful things and have the power to acquire them」；Socrates 驳道：desiring 之部分为人人所共有、无人比他人更优（78b），剩下的「the power of securing good things」（78c）既未说明善物如何到手、又以部分定义整体（加入 justly and moderately 即是）；最终 Socrates 以迂回之路照出 Meno 的 hubris——借其自身回答实现的自我定罪——使之心智与言语麻痹、陷入 perplexity，而这恰是有德之事；Socrates 特选 temperance 与 justice，因 Meno 正在示范其反面。",
+      "anchor": "Meno asserts at 77b that “virtue is to desire beautiful things and have the power to acquire them",
+      "start": 3967,
+      "end": 5657
+    },
+    {
+      "fact": "在 80e，Meno 向 Socrates 抛出著名三问：「How will you look for it, Socrates, when you do not know at all what it is?...」——世称「Meno's challenge」「Meno's dilemma」或「Meno's paradox of inquiry」；挑战分两部分：problem of inquiry 与 problem of discovery，牵动 specification、method、verification 三议题——作者留待末章「Clarity」处理。",
+      "anchor": "How will you look for it [the thing sought], Socrates, when you do not know at all what it is?",
+      "start": 6957,
+      "end": 8058
+    },
+    {
+      "fact": "作者把 Meno 困境重述为三段论：1）若已知所寻，寻找便不必要——谁会去寻已知之物？2）若不知所寻，找到便不可能——连如何找、找没找到都无从知道；3）故 inquiry 要么不必要要么不可能——Meno 虽根本混乱，却把一个若不可解便令哲学沦为废墟的问题丢在了哲学门口；作者主张先得更深地理解何谓 existentially confused。",
+      "anchor": "3. So, inquiry is either unnecessary or impossible.",
+      "start": 8162,
+      "end": 8918
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/ch07 5. Following Nature's Course.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/text/ch07_5_following_nature_s_course.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The first branch is epistemology which, he says, is concerned with “what we believe.” The second branch is ethics whose ",
+          "ok": true,
+          "pos": 291
+        }
+      ],
+      "words": 56
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "In the modern world, ethics is acting contrary to nature; in the ancient world, ethics is living according to nature. Ho",
+          "ok": true,
+          "pos": 3884
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Pascal’s stance toward the epochal transformation was one of considerable dread. He was horrified by—in Alexandre Koyre’",
+          "ok": true,
+          "pos": 5429
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Pascal’s mood indicates that he is set apart from this new order of things and despairs of its ever being a home. Here, ",
+          "ok": true,
+          "pos": 5722
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "But if you accepted the Medieval Model you would feel like one looking in. The Earth is ‘outside the city wall’. When th",
+          "ok": true,
+          "pos": 6988
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "It is so, he answered, because this object consists of this matter (material cause), is shaped by this form (formal caus",
+          "ok": true,
+          "pos": 10389
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "There he writes, in what is perhaps one of the greatest understatements of the seventeenth century: “That we should not ",
+          "ok": true,
+          "pos": 18013
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "We perceive the color red but, unintuitively, this color is not contained in the ball itself. But if not of redness and ",
+          "ok": true,
+          "pos": 22116
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "No longer do we know the world or each other by kissing; we know all, if we know at all, by analyzing mechanized bodies ",
+          "ok": true,
+          "pos": 26425
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Kant’s solution is to domesticate all his progeny: God will neither be proven nor disproven; man will be both apart from",
+          "ok": true,
+          "pos": 26770
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "In the end, we touch money, eat calories, act based on permissions and forbidden fruits, visit museums filled with mount",
+          "ok": true,
+          "pos": 36851
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "The Daodejing says that “The highest goodness is like water,” Xenophanes that “All things that come into being and grow ",
+          "ok": true,
+          "pos": 38235
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "If you don’t love me anymore, then let’s settle up, call in the law, summon forth the lawyers, draw up our contracts. Le",
+          "ok": true,
+          "pos": 40136
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Truly, modern life may be like H2O, but it is not like water",
+          "ok": true,
+          "pos": 43536
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "For our natures were following nature’s silent course and then love was all we knew",
+          "ok": true,
+          "pos": 45497
+        }
+      ],
+      "words": 15
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 87,
+        "句子结构": 36,
+        "关键词": 0,
+        "表达方式": 70,
+        "为什么这样写": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "句子结构": 0.22,
+        "关键词": 0.0,
+        "表达方式": 0.62,
+        "为什么这样写": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 73,
+        "句子结构": 44,
+        "关键词": 0,
+        "表达方式": 71,
+        "为什么这样写": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "句子结构": 0.29,
+        "关键词": 0.0,
+        "表达方式": 0.59,
+        "为什么这样写": 0.72
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 54,
+        "句子结构": 42,
+        "关键词": 0,
+        "表达方式": 61,
+        "为什么这样写": 80
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "句子结构": 0.39,
+        "关键词": 0.0,
+        "表达方式": 0.49,
+        "为什么这样写": 0.71
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 73,
+        "句子结构": 38,
+        "关键词": 0,
+        "表达方式": 69,
+        "为什么这样写": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.24,
+        "关键词": 0.0,
+        "表达方式": 0.42,
+        "为什么这样写": 0.6
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 85,
+        "句子结构": 60,
+        "关键词": 0,
+        "表达方式": 81,
+        "为什么这样写": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "句子结构": 0.33,
+        "关键词": 0.0,
+        "表达方式": 0.53,
+        "为什么这样写": 0.64
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 58,
+        "句子结构": 49,
+        "关键词": 0,
+        "表达方式": 77,
+        "为什么这样写": 77
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "句子结构": 0.37,
+        "关键词": 0.0,
+        "表达方式": 0.63,
+        "为什么这样写": 0.71
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 45,
+        "句子结构": 36,
+        "关键词": 0,
+        "表达方式": 80,
+        "为什么这样写": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "句子结构": 0.26,
+        "关键词": 0.0,
+        "表达方式": 0.62,
+        "为什么这样写": 0.54
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 63,
+        "句子结构": 48,
+        "关键词": 0,
+        "表达方式": 75,
+        "为什么这样写": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.45,
+        "关键词": 0.0,
+        "表达方式": 0.6,
+        "为什么这样写": 0.7
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 52,
+        "句子结构": 49,
+        "关键词": 0,
+        "表达方式": 65,
+        "为什么这样写": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "句子结构": 0.34,
+        "关键词": 0.0,
+        "表达方式": 0.41,
+        "为什么这样写": 0.74
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 81,
+        "句子结构": 34,
+        "关键词": 0,
+        "表达方式": 88,
+        "为什么这样写": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.31,
+        "关键词": 0.0,
+        "表达方式": 0.66,
+        "为什么这样写": 0.7
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 58,
+        "句子结构": 39,
+        "关键词": 0,
+        "表达方式": 93,
+        "为什么这样写": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.36,
+        "关键词": 0.0,
+        "表达方式": 0.58,
+        "为什么这样写": 0.7
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 39,
+        "句子结构": 38,
+        "关键词": 0,
+        "表达方式": 86,
+        "为什么这样写": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "句子结构": 0.36,
+        "关键词": 0.0,
+        "表达方式": 0.81,
+        "为什么这样写": 0.73
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 84,
+        "句子结构": 58,
+        "关键词": 0,
+        "表达方式": 75,
+        "为什么这样写": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "句子结构": 0.33,
+        "关键词": 0.0,
+        "表达方式": 0.61,
+        "为什么这样写": 0.64
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 15,
+        "句子结构": 27,
+        "关键词": 0,
+        "表达方式": 83,
+        "为什么这样写": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "句子结构": 0.44,
+        "关键词": 0.0,
+        "表达方式": 0.62,
+        "为什么这样写": 0.7
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 30,
+        "句子结构": 36,
+        "关键词": 0,
+        "表达方式": 63,
+        "为什么这样写": 88
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "句子结构": 0.26,
+        "关键词": 0.0,
+        "表达方式": 0.39,
+        "为什么这样写": 0.62
+      }
+    }
+  ],
+  "form": {
+    "h1": "07. 5. Following Nature's Course",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 15,
+    "block_median": 8,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 8055,
+    "block_target": [
+      15,
+      15
+    ],
+    "block_hint": "块数 15 偏离本书常见区间 4–12（本书 18 章中位 8、最高 12（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 18 章中位 8、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

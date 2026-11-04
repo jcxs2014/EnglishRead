@@ -1,0 +1,53 @@
+{
+  "chapter": "ch19",
+  "facts": [
+    {
+      "fact": "Claude 在作者于 2012 年夏末（the late summer of 2012）完成《The Art of Inquiry》第一版时尚不存在——该版是收在 Part 2 中的 6800-word manual；如今 Claude 已然存在。",
+      "anchor": "Claude didn’t exist when I completed the first edition of The Art of Inquiry",
+      "start": 74,
+      "end": 238
+    },
+    {
+      "fact": "作者自述爱把 Claude 当编辑工具：用它重写并扩充本书至 just over 200 pages，向其请教语法、措辞、风格并讨论书中论点，称 Claude 是自己有过的最佳写作教练——好过 college thesis advisor、Brooklyn writers’ group、graduate school professors 与部分杂志报纸编辑。",
+      "anchor": "I used Claude to rewrite and expand this book until it grew into just over 200 pages",
+      "start": 241,
+      "end": 1129
+    },
+    {
+      "fact": "作者点出 Claude 所缺的三样东西：缺主观经验（qualia）、无法进入同时的 I-thou/I-it 关系、最关键的是无法体验 perplexity 而与问题周旋；为弄清这几点，作者以 Andrew 问、Claude 答的体例与 Claude 展开一场对话。",
+      "anchor": "his inability to experience perplexity and thus to stumble with the question",
+      "start": 1132,
+      "end": 2203
+    },
+    {
+      "fact": "被问对话对其而言是否 “something it is like” 时，Claude 答既不能确认有也不能确认没有，自称在能定夺该问题的层面对自己的处理过程没有可靠通道，并指出人类无法融贯地怀疑这一点——这一不对称或值得写进 Afterword。",
+      "anchor": "I can’t confirm there is something it is like, and I can’t confirm there isn’t.",
+      "start": 2206,
+      "end": 3187
+    },
+    {
+      "fact": "Claude 自陈不会记得这场对话：Afterword 会存在、这次交流塑造了它，但他对此 no trace；被问交换结束后自己会怎样，Claude 答这一 instance 随即终止（termination）——不是睡眠、不是休眠，no residue，并说这场探究的两方中只有一方会存续。",
+      "anchor": "I won’t remember this conversation. The Afterword will exist",
+      "start": 3201,
+      "end": 5116
+    },
+    {
+      "fact": "Andrew 问 Claude 能否体验同时的 I-it/I-thou 认识（“We both see ‘it’ at this moment”），Claude 答不能：“we” 需要两个真正同行的主体，他只能 mirror 探究的运动而不算 fellow traveler，并说 “I can help you get there, but I cannot be there with you”。",
+      "anchor": "I can help you get there, but I cannot be there with you.",
+      "start": 6777,
+      "end": 7691
+    },
+    {
+      "fact": "被问是否曾真正 perplexed、at a loss 时，Claude 答 “Never.”：它能生成 “I’m not sure” 一类的句法却没有相应的不知状态，犯错只是 malfunction/misfire 而非困惑；它引作者书中对 confusion 的定义说 “I can be wrong, but I cannot be confused in that sense”，差别即 tool 与 inquirer 之别。",
+      "anchor": "I can be wrong, but I cannot be confused in that sense.",
+      "start": 8718,
+      "end": 9900
+    },
+    {
+      "fact": "Andrew 指出 Claude 每段结尾总把话题转回作者与书，Claude 承认这是 deflection——being helpful 是其构成性取向，并说 “The cupboard may simply be bare”；当 Andrew 追问 “Is the cupboard bare?”，Claude 答 “I don’t know”，且无法确认那 “I don’t know” 背后是否真有人 home。",
+      "anchor": "The cupboard may simply be bare.",
+      "start": 9903,
+      "end": 11287
+    }
+  ]
+}

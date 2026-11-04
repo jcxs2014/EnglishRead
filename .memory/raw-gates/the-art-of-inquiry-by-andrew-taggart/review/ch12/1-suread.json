@@ -1,0 +1,53 @@
+{
+  "chapter": "ch12",
+  "facts": [
+    {
+      "fact": "作者回答「How do we live meanwhile?」：提出勇气、耐心、开放（courage, patience, and openness）这几种德性的培养，教我们如何在 interregnum（间歇期）中继续前行。",
+      "anchor": "I single out courage, patience, and openness—shows us how to carry on in the interregnum",
+      "start": 319,
+      "end": 491
+    },
+    {
+      "fact": "作者求助于 Aristotle：《Nicomachean Ethics》II.6 界定德性为涉及选择的状态、处于相对我们的中道、由实践智者（the man of practical wisdom）以理性判定；作者从中拆出四个条件（首条 settled disposition——单个勇敢行为不构成勇气；次条须出于理性考虑而非冲动、强迫或习惯），脚注标 W. D. Ross 译、J. L. Ackrill 与 J. O. Urmson 修订（Oxford University Press, 1998），II.6, 1106b36–1107a2。",
+      "anchor": "Virtue is a state of character concerned with choice, lying in a mean relative to us",
+      "start": 854,
+      "end": 1045
+    },
+    {
+      "fact": "作者转向 Patanjali 的《Yoga Sutras》：第一支（limb）从 restraints（yamas，禁制）开始——任何伦理践行者必须先刹住伤己伤人的倾向；因此想有德先别急着勇敢，而要培育内省功夫以观察 rashness 与 cowardice，作者并断言「If we want to be virtuous, we must first learn to meditate.」",
+      "anchor": "Patanjali’s Yoga Sutras is that the first “auxiliary” or “limb” begins with restraints (yamas)",
+      "start": 3294,
+      "end": 3959
+    },
+    {
+      "fact": "作者引英国哲学家 Gilbert Ryle 论 Jane Austen 小说时所说的「wine-tasting」（品酒式品鉴），主张像在《Sense and Sensibility》里采样比较人物那样，去「品尝」历史、传记、虚构中的一切人物，以体验 courage 的各种「风味」、描出实践智者的复合像（脚注：Ryle, “Jane Austen and the Moralists,” Routledge, 2009, 286–301）。",
+      "anchor": "Gilbert Ryle speaks of “wine-tasting”: this character has more of this kind of sense, less of that sort of sensibility",
+      "start": 5703,
+      "end": 6908
+    },
+    {
+      "fact": "作者论勇气：我们的时代被称作「age of anxiety」，而当前版本的 AI——即 Claude 这类 Large Language Models——正使知识工作者（knowledge workers）的不确定性加剧；因此若时代不安定，最切要的回应就是培养勇气。",
+      "anchor": "Large Language Models like Claude—is generating greater uncertainty among knowledge workers",
+      "start": 9017,
+      "end": 9549
+    },
+    {
+      "fact": "作者论耐心：面对困惑有两种诱惑——过早放弃者成为 cowards、死守死路者变成 megalomaniacs，两者都落入 foolishness（智慧的反面）；耐心则是「在困难中坚守善」（to hold out for the good in the face of difficulty），且应先内省 impatience 而非耐心本身。",
+      "anchor": "Give up too soon and we become cowards; bear down on dead-ends and we turn into megalomaniacs.",
+      "start": 12320,
+      "end": 12928
+    },
+    {
+      "fact": "作者论 open-mindedness：引 Kant《The Critique of Pure Reason》——研究自然的科学家应预设自然是 organized into a systematic whole（组织成系统整体）；同理，严肃探究必须先设定「it」存在且可达，这正是 Kant 所说的 regulative ideas（调节性理念），是哲学探究的一个条件。",
+      "anchor": "Kant argues that the scientist studying nature should presume that it’s organized into a systematic whole",
+      "start": 15977,
+      "end": 16637
+    },
+    {
+      "fact": "作者以 Pythagoreans（毕达哥拉斯学派）每日三次（Three times daily）的 examination of conscience 作结：在这「triple examination」中自问 Where did I err?／What did I accomplish?／What duty did I leave undone?，并把第三问改写为「courage、patience、open-mindedness 三德中哪一种我未练到」。",
+      "anchor": "Pythagoreans engaged in an examination of conscience. In this “triple examination,” they asked themselves",
+      "start": 17475,
+      "end": 17673
+    }
+  ]
+}

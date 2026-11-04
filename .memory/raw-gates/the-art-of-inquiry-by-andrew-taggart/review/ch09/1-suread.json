@@ -1,0 +1,53 @@
+{
+  "chapter": "ch09",
+  "facts": [
+    {
+      "fact": "哲学对话的两角：questioner 不知道所问问题的答案，answerer 则是其生活被追问的那个人；对话中二人不换角色，谁也不预先知道答案——因此每一次哲学对话都是即兴（improvisation）。",
+      "anchor": "Hence, every philosophical conversation is an improvisation.",
+      "start": 34,
+      "end": 499
+    },
+    {
+      "fact": "任何哲学探究的起点是认真对待 answerer「alive to」（为之精神振奋）或「weighed down by」（为之沉重）的事：aliveness 与 heaviness 都指示更深的存在分量（existential weight）；哲学对话的目标首先是发现、继而是弄清这个 existential weight。",
+      "anchor": "whatever the answerer is “alive to” or “weighed down by.” While being “alive to” something",
+      "start": 502,
+      "end": 1067
+    },
+    {
+      "fact": "与理论之别：理论或求总体说明——如物理学中寻找 Theory of Everything 的科学家想对一切物理现象给出总体解释，欲求 totality 与确定性；或求指导行动——如 Taylor's Management Theory 主张管理者把任务拆成子任务以提升生产率与效率；inquiry 两者皆非。",
+      "anchor": "the search for the Theory of Everything implies that the scientist wishes to arrive at a total explanation",
+      "start": 4915,
+      "end": 5665
+    },
+    {
+      "fact": "与方法之别：Method（源自希腊语 methodos）是「rational procedure」，本质上可教、可重复、分步进行；相比之下 inquiry 是一种艺术——虽可学会却不可重复；作者让探究者去问过分讲方法的人是否害怕迷路，并说方法之于理论领域犹如「rigid planning」之于实践领域。",
+      "anchor": "inquiry, a kind of art, doesn’t follow preset steps: while it can be learned, it cannot be repeated.",
+      "start": 6418,
+      "end": 7264
+    },
+    {
+      "fact": "inquiry 之所以重要，在于它教我们直接言语（direct speech）：我们素来熟习 grandiloquence、circumlocution、self-deception、flattery 等间接言语——那是恶习的练习；直接言语则培养 truthfulness、courage、openness、patience——说我所指、以善意说话、尽己所能关心真理。",
+      "anchor": "Inquiry matters because it teaches us direct speech.",
+      "start": 7706,
+      "end": 8574
+    },
+    {
+      "fact": "当被追问到终于能命名那个东西（「That's it」）即是知——这种知被称为 existential truth，带有 immediate certitude；作者预告将在第 9 章「Confusion」详论 bewilderment 的关键作用，并在第 11 章「Clarity」主张困惑是难以想象之澄明（unimaginable clarity）出现的必要条件。",
+      "anchor": "To name this something (“That’s it”) is to know it, and this knowing is here termed an",
+      "start": 10527,
+      "end": 11333
+    },
+    {
+      "fact": "准备就绪的四德：impartiality（对应恶习 self-preoccupation 与「fixation」）、persistence（恶习 cowardice）、open-mindedness（恶习 stubbornness——作者引 The Tao Te Ching 问自己能否「soft and supple」而非「stiff and inflexible」）、inquisitiveness（恶习 presumptuousness）。",
+      "anchor": "Let’s consider four virtues: impartiality, persistence, open-mindedness, and inquisitiveness.",
+      "start": 11359,
+      "end": 13022
+    },
+    {
+      "fact": "五个须全心以对的问题：哲学对话开始前，你须对以下五问各答出 wholehearted yes——能否任凭探究把你引向任何地方？能否放下对 clock time 的执念？能否直接说出自己所信、别无其他？能否弃绝行话（jargon）而说得很平白？以及能否在不知道答案时恳切说「I don't know」？",
+      "anchor": "you should be able to answer a wholehearted yes to each of the following five questions",
+      "start": 13211,
+      "end": 13741
+    }
+  ]
+}

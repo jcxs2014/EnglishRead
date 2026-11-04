@@ -1,0 +1,53 @@
+{
+  "chapter": "ch11",
+  "facts": [
+    {
+      "fact": "苏格拉底不正面回应 Meno 的挑战，而是示范如何同一个 slave-boy（男童）一起探究；随后 Meno 与苏格拉底搁置对「德性定义」的寻找，回到「德性是否可教」的问题——可见 Meno 并未认输。",
+      "anchor": "Socrates shows him how a slave-boy can inquire. Afterward, Meno and Socrates put aside the search for a definition",
+      "start": 24,
+      "end": 445
+    },
+    {
+      "fact": "Meno 因自尊受挫，先骂苏格拉底是施魔法的 magician、又是能把人麻痺的 torpedo fish，后来重新振作（regroups），意识到自己被引入了理解的彻底黑暗。",
+      "anchor": "reacts by calling Socrates a magician who bewitches as well as a torpedo fish that stuns and paralyzes",
+      "start": 448,
+      "end": 859
+    },
+    {
+      "fact": "作者区分 woundedness 与 confusion：受创时公正、开放、好奇诸能力暂停、尚无从探究；而 confusion 是「对我们以为知道实则不知之事的敏锐意识」，反而唤起这些德性，令人感到被激发、想继续探究以求 clarity。",
+      "anchor": "a keen awareness of what we do not know but thought we did, actually calls forth or is joined by these virtues",
+      "start": 862,
+      "end": 1377
+    },
+    {
+      "fact": "作者列举不可能产生存在困惑的情形：怀疑 Denver to Omaha（丹佛到奥马哈）有多远——这种怀疑缺乏 salience（我根本不在乎答案）；对生理学原理一无所知也同样不受打扰、不动摇。",
+      "anchor": "I may be in doubt about how far it is from Denver to Omaha, but the doubt may lack salience",
+      "start": 2223,
+      "end": 2924
+    },
+    {
+      "fact": "作者把存在困惑表述为三步：S1—Recognition of Hubris（承认本以为自己知道）、S2—Insight into Ignorance（不知合适的答案会是什么样）、S3—Desire to Inquire Further（现在想知道）；顽固者不接受 S1、沉入无知者停在 S2、接受 S1+S2 却缺勇气耐心者堕入绝望，唯有三者全接受者拥抱困惑、渴望 clarity 并着手进一步探究。",
+      "anchor": "S1—Recognition of Hubris: I admit (or implicitly acknowledge anyway) that I thought I knew something significant",
+      "start": 4776,
+      "end": 4947
+    },
+    {
+      "fact": "作者论 basic commitment 的两把音调：privative key 是想知道我们的此生没有虚度（our lives were not spent in vain）；肯定地表述，则是要寻求并最终实现一个 worthwhile final aim（值得倾力投入的最终目标）。",
+      "anchor": "We want to know that our lives were not spent in vain: this is the privative key",
+      "start": 7072,
+      "end": 7645
+    },
+    {
+      "fact": "作者描述三个时刻的推进：与我们的整体思维方式照面（confrontation with our thinking in general）、意识到旧路已被封死（the old way is foreclosed）、进而被邀请进入 space of possibilities——从「事情必然如此」的 space of actuality 过渡到新可能得以向我们显现的空间。",
+      "anchor": "we make the transition from a “space of actuality” concerning how things have to be into a space",
+      "start": 10316,
+      "end": 10873
+    },
+    {
+      "fact": "作者引 Samuel Johnson 在《Dr. Johnson’s Dictionary》中对 bewildered 的定义——「lose in pathless places, to confound for want of a plain road」（迷失于无路之处）——并说这个「lost in the woods」的人因让基本承诺被拖入追问而失去了他在世界中的位置。",
+      "anchor": "is to “lose in pathless places, to confound for want of a plain road.” The bewildered person",
+      "start": 11349,
+      "end": 11752
+    }
+  ]
+}

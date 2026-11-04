@@ -1,0 +1,253 @@
+{
+  "chapter": 3,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/ch03 1. Philosophy in the Popular Imagination.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/text/ch03_1_philosophy_in_the_popular_imagination.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Either my acquaintance, who’s unschooled in philosophy, will be almost preternaturally interested in what I have to say—",
+          "ok": true,
+          "pos": 206
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The truth is that neither quip will do. For if my conversational partner already thinks that philosophy is a waste of ti",
+          "ok": true,
+          "pos": 952
+        }
+      ],
+      "words": 62
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Another reason is that we would need to know whether his personal philosophy is worth standing by. Merely saying “This I",
+          "ok": true,
+          "pos": 5038
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Suppose for a moment that my interlocutor is right. But then aren’t there times when we don’t know how to act—as well as",
+          "ok": true,
+          "pos": 6917
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "It’s at such tragic moments that the moral philosopher Harry Frankfurt’s questions concerning what we care most about an",
+          "ok": true,
+          "pos": 7474
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Reason, it turns out, is neither omnipotent nor impotent in matters of the head and heart. Wisdom is neither so rare as ",
+          "ok": true,
+          "pos": 9887
+        }
+      ],
+      "words": 42
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 82,
+        "句子结构": 48,
+        "关键词": 0,
+        "表达方式": 55,
+        "为什么这样写": 79
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.32,
+        "关键词": 0.0,
+        "表达方式": 0.42,
+        "为什么这样写": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 88,
+        "句子结构": 65,
+        "关键词": 0,
+        "表达方式": 76,
+        "为什么这样写": 79
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "句子结构": 0.6,
+        "关键词": 0.0,
+        "表达方式": 0.54,
+        "为什么这样写": 0.87
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 62,
+        "句子结构": 34,
+        "关键词": 0,
+        "表达方式": 57,
+        "为什么这样写": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.27,
+        "关键词": 0.0,
+        "表达方式": 0.57,
+        "为什么这样写": 0.61
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 96,
+        "句子结构": 62,
+        "关键词": 0,
+        "表达方式": 67,
+        "为什么这样写": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.36,
+        "关键词": 0.0,
+        "表达方式": 0.59,
+        "为什么这样写": 0.67
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 80,
+        "句子结构": 39,
+        "关键词": 0,
+        "表达方式": 56,
+        "为什么这样写": 77
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "句子结构": 0.25,
+        "关键词": 0.0,
+        "表达方式": 0.51,
+        "为什么这样写": 0.7
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 61,
+        "句子结构": 44,
+        "关键词": 0,
+        "表达方式": 62,
+        "为什么这样写": 86
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "句子结构": 0.39,
+        "关键词": 0.0,
+        "表达方式": 0.5,
+        "为什么这样写": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "03. 1. Philosophy in the Popular Imagination",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 6,
+    "block_median": 8,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1782,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 18 章中位 8、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

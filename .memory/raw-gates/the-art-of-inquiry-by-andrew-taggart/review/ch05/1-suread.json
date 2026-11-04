@@ -1,0 +1,53 @@
+{
+  "chapter": "ch05",
+  "facts": [
+    {
+      "fact": "作者自陈十五年来（the past fifteen years）围绕哲学咨询（philosophical counseling）的公共辩论从一开始就错了：其一强行给它绑定单一本质，其二过快把它比附治疗模式；他对「什么是哲学咨询」的椭圆回答是：它是把生命整理有序的技艺（the art of putting lives in order）。",
+      "anchor": "For the past fifteen years, public debates surrounding philosophical counseling",
+      "start": 37,
+      "end": 426
+    },
+    {
+      "fact": "媒体标题把哲学实践精神医学化——「Socratic Shrink」把哲学咨询师变成一种治疗师，「The Mental Health of Philosophical Counseling」预设可用 Diagnostic and Statistical Manual 标准评估，「Prescribing Aristotle: Philosophical Counseling 101」暗示一种私人辅导式应用；Washington Post 文章「Philosophical Counselors Rely on Eternal Wisdom of Great Thinkers」里，心碎的「病人」被「开」Epictetus 以替代 Effexor。",
+      "anchor": "a “broken-hearted patient” is “prescribed” Epictetus in lieu of Effexor",
+      "start": 429,
+      "end": 1349
+    },
+    {
+      "fact": "作者援引 Anthony Appiah《Cosmopolitanism: Ethics in a World of Strangers》（脚注：New York: Norton, 2007）：同性恋获得更广接受并非因为某些观念在公共论坛或学术会议上胜出，而是异性恋者与同性恋邻居、同事共同生活、并肩工作后渐感自在；作者据此说更佳策略或是让对方感受这种实践是什么样的，用 Rortian 的话说就是「change the topic of conversation」。",
+      "anchor": "As Anthony Appiah shows in Cosmopolitanism: Ethics in a World of Strangers",
+      "start": 2946,
+      "end": 3647
+    },
+    {
+      "fact": "作者以爱为例引奥古斯丁（Augustine）：爱是为自身之善而欲求；当欲望不再被满足，当事人会半意识地试遍一套「strategies of retention」（保留策略），反复回到这个或那个策略，以维持对该对象与该生活形式的欲望。",
+      "anchor": "As Augustine would have it, love is desiring a good for its own sake",
+      "start": 5471,
+      "end": 5930
+    },
+    {
+      "fact": "作者引 Alasdair MacIntyre《After Virtue》的 seminal lesson：疏离蕴含虚无主义——个人一旦被「剥落」（peeled off）出制度、无法再认同其社会角色，便立刻难以找到追求此目的而非彼目的的好理由；他把虚无主义界定为没有非任意判准以判定何种生活形式更好或更坏的无根基感；脚注注明其论述深受 MacIntyre《After Virtue: A Study in Moral Theory》（South Bend, IN: University of Notre Dame Press, 1981）影响。",
+      "anchor": "Alasdair MacIntyre’s After Virtue is that alienation entails nihilism",
+      "start": 9283,
+      "end": 9973
+    },
+    {
+      "fact": "作者提出任何可行的生命形式须符合三条形式判准——meaning（意义）、wholeness（整全）、clarity（清明）；并引 Robert Nozick《The Examined Life》区分 value 与 meaning：value 涉及「organic unity」（内在价值），meaning 是把我们与价值对象相连接的关系性概念；整全即阿奎那（Aquinas）所称 integritas；脚注出 Nozick「Value and Meaning」出处（New York: Simon and Schuster, 1989）页 162-69。",
+      "anchor": "In The Examined Life, Robert Nozick makes an important distinction between value and meaning",
+      "start": 9976,
+      "end": 11094
+    },
+    {
+      "fact": "作者称 clarity 是最终、不可妥协的判准：我们不必有沉思者所求的那种清明，但须有「just-enough kind」的足够清明照亮生命路径，使关于无力（powerlessness）、不安（restlessness）、耗竭（exhaustion）与自杀（suicide）的疑虑无从立足。",
+      "anchor": "Clarity is the final, non-negotiable criterion",
+      "start": 11097,
+      "end": 11823
+    },
+    {
+      "fact": "脚注录四篇报道出处：Daniel Duane「The Socratic Shrink」（New York Times Magazine, March 21, 2004）；「The Mental Health of Philosophical Counseling」（The Philosophers' Magazine, 2010）；Emily Wax「Philosophical Counselors Rely on Eternal Wisdom of Great Thinkers」（Washington Post, August 23, 2011）；「Prescribing Aristotle: Philosophical Counseling 101」（Washington Post, August 23, 2011）。",
+      "anchor": "New York Times Magazine, March 21, 2004",
+      "start": 13292,
+      "end": 14286
+    }
+  ]
+}

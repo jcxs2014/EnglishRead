@@ -1,0 +1,53 @@
+{
+  "chapter": "ch01",
+  "facts": [
+    {
+      "fact": "2009 年 1 月初，作者在威斯康星州麦迪逊提交 Ph.D. 博士论文，当地气温有时降到 -10 或 -19 度；那天傍晚他走上 Bascom Hill，把一叠论文交给一位安静的行政人员——七年思考「现代世界良善生活」以反高潮收场。",
+      "anchor": "Around the time I deposited my Ph.D. dissertation in early January 2009, the weather in Madison, Wisconsin",
+      "start": 19,
+      "end": 452
+    },
+    {
+      "fact": "作者意识到，尽管已投入人生最后 11 年去成为教授，自己并不适合做学术；一切结束，而他不知道接下来要做什么。",
+      "anchor": "the last 11 years of my life into becoming a professor",
+      "start": 691,
+      "end": 926
+    },
+    {
+      "fact": "困惑之际，作者偶然读到法国哲学家 Pierre Hadot 的著作——Hadot 主张哲学是「a way of life」、一种对智慧的持续追求，并把相应修习称为「spiritual exercises」；作者由此开始认真对待一种献身于探究（inquiry）的生活。",
+      "anchor": "having stumbled upon the works of the French philosopher Pierre Hadot",
+      "start": 929,
+      "end": 1432
+    },
+    {
+      "fact": "八个月后，作者动身前往纽约，受训成为实践哲学家（practical philosopher），开始与他人一起做哲学。",
+      "anchor": "Eight months later, I left for New York City, trained as a practical philosopher",
+      "start": 1435,
+      "end": 1617
+    },
+    {
+      "fact": "2012 年夏，作者写成本书初版 The Art of Inquiry 作为「对冲」；此前几个月，已故友人 Pete Sims（1981-2021）邀请他到丹麦的 Kaos Pilots（一所社会创业与艺术结合的「folk high school」/højskole）任教，那里每天 8 小时以经验为本地学习。",
+      "anchor": "Pete Sims (1981-2021) had invited me to teach at Kaos Pilots",
+      "start": 2804,
+      "end": 3481
+    },
+    {
+      "fact": "那已是 14 年前；期间作者与青少年、艺术家、苏菲教徒、佛教徒、天主教徒、社会创业家、科学家、CEO 等许多人群做过探究，他们共有的特质是开放心态（open-mindedness）。",
+      "anchor": "That was 14 years ago. During that time, I’ve inquired with teenagers",
+      "start": 3484,
+      "end": 3911
+    },
+    {
+      "fact": "本书《The Art of Inquiry: Meditations on Living Wisdom》的基本坐标是存在之惑（existential confusion）与存在之明（existential clarity）之间、由前者向后者的运动；作者强调探究不是线性而是迭代的过程——如 Socrates 所知，自我检审是持续的，练习日久自我认识会愈深愈锐。",
+      "anchor": "are existential confusion and existential clarity, the movement from the first to the second",
+      "start": 3914,
+      "end": 4720
+    },
+    {
+      "fact": "Robert Nozick 在《The Examined Life: Philosophical Meditations》中把过经检审的生活比作画自画像：非一日之功，每一笔颜料都是一个决定；若经年自我检审后能避免半成品画布与自嘲式漫画，或可得到一件近乎 Rembrandt 画作般令人满足的毕生之作（lifework）。",
+      "anchor": "Robert Nozick once likened leading an examined life to painting a self-portrait",
+      "start": 4723,
+      "end": 5638
+    }
+  ]
+}

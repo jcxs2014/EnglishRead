@@ -1,0 +1,53 @@
+{
+  "chapter": "ch02",
+  "facts": [
+    {
+      "fact": "Marina Abramović 闭眼坐在椅子上，另一把空椅放在四英尺外；舞台四周队伍蜿蜒，一位陌生人上前坐下，整场表演双方不发一言。",
+      "anchor": "a second chair—empty yet expectant—placed four feet away",
+      "start": 38,
+      "end": 335
+    },
+    {
+      "fact": "从 2010 年 3 月 14 日到 5 月 31 日共 736 小时，Abramović 每天静坐八小时、一言不发；这场在 MoMA 举办的延续艺术（durational art）展览名为 The Artist Is Present；她后来说人类有一种「对真实接触的巨大需求」。",
+      "anchor": "For 736 hours—from March 14 to May 31, 2010—Abramović sat still",
+      "start": 419,
+      "end": 841
+    },
+    {
+      "fact": "展览出现时作者正住在纽约但没有去看；六年后他把这件事讲给 Peter Limberg——当时的合作者、加拿大最大斯多葛小组的主持人、现任 Stoa 的 steward——Limberg 便把他即将开始的那种表演艺术命名为 The Philosopher Is Present。",
+      "anchor": "Peter Limberg—a collaborator, at the time a host of the largest Stoic group in Canada",
+      "start": 895,
+      "end": 1288
+    },
+    {
+      "fact": "Dougald Hine 曾就现代世界的反常打趣道「There are no grownups upstairs」（楼上没有大人）；作者接话说现代的老人只是老、未必智慧，我们无法绕开这个时代错位。",
+      "anchor": "Dougald Hine once quipped about the aberrant character of the modern world",
+      "start": 1855,
+      "end": 2413
+    },
+    {
+      "fact": "作者与友人 Pete Sims 共享过 250 场哲学对话，反复试图说清 Pete 的预感——他觉得自己在为何种「史诗之事」做准备；Pete 有时谈起哥伦比亚的创意生态村 Gaviotas，还曾为意向社群去过西班牙乡间。",
+      "anchor": "over the course of the 250 philosophical conversations we shared",
+      "start": 3610,
+      "end": 4191
+    },
+    {
+      "fact": "当时他们不知道，Pete 实际准备面对的是 Stage 4 脑癌；脑部手术的意外后果是中风，他醒来后得知自己部分瘫痪。葬礼后，共同友人 Jonatan 告诉作者，他曾带 Pete 在哥本哈根最后骑了一次自行车。",
+      "anchor": "what he was actually preparing for was Stage 4 brain cancer",
+      "start": 4194,
+      "end": 4670
+    },
+    {
+      "fact": "在「Living Wisdom」一节，作者引 Pierre Hadot：哲学家既非全然无知者（ignoramus）也非智慧饱和的圣人（sage），而是「ever underway」（永远在路上）；作者主张智慧必须被活出来、必须属于我们这个时代，并拒绝现代性对开放无决、反救赎（anti-soteriological）的迷恋。",
+      "anchor": "For Pierre Hadot, the philosopher is a figure who is neither the ignoramus",
+      "start": 7790,
+      "end": 8662
+    },
+    {
+      "fact": "全书后记「The Cupboard May Simply Be Bare: A Conversation with Claude」记录了作者与 Claude 的一次探究尝试；作者写道「I find this moment poignant」（这一刻令我心酸），Claude 回答「Correct」，并说这种不对称本身正是要点。",
+      "anchor": "I find this moment poignant,” I write to Claude, “and you, it seems, cannot.",
+      "start": 18718,
+      "end": 19283
+    }
+  ]
+}

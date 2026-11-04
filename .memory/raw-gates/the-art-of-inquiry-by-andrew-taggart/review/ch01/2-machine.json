@@ -1,0 +1,253 @@
+{
+  "chapter": 1,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/ch01 Preface.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/text/ch01_preface.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The irony wasn’t lost on me. Even though I’d written my dissertation on the nature of the good life, I realized that I d",
+          "ok": true,
+          "pos": 913
+        }
+      ],
+      "words": 75
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I’m referring to the recognition that, in modernity, life itself has no preset meaning, no determined shape, no built-in",
+          "ok": true,
+          "pos": 1915
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "A few months prior, my late friend Pete Sims (1981-2021) had invited me to teach at Kaos Pilots, a social entrepreneursh",
+          "ok": true,
+          "pos": 2916
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The basic coordinates spelled out in The Art of Inquiry: Meditations on Living Wisdom are existential confusion and exis",
+          "ok": true,
+          "pos": 3928
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Such is not the work of a day, Nozick thought, and the task can’t be undertaken without attending closely to those featu",
+          "ok": true,
+          "pos": 4788
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "If after years of self-examination we manage to avoid filling up our lives with half-finished canvases, with self-carica",
+          "ok": true,
+          "pos": 5269
+        }
+      ],
+      "words": 43
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 124,
+        "句子结构": 56,
+        "关键词": 0,
+        "表达方式": 59,
+        "为什么这样写": 89
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "句子结构": 0.39,
+        "关键词": 0.0,
+        "表达方式": 0.58,
+        "为什么这样写": 0.8
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 73,
+        "句子结构": 35,
+        "关键词": 0,
+        "表达方式": 67,
+        "为什么这样写": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "句子结构": 0.2,
+        "关键词": 0.0,
+        "表达方式": 0.71,
+        "为什么这样写": 0.74
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 70,
+        "句子结构": 42,
+        "关键词": 0,
+        "表达方式": 65,
+        "为什么这样写": 72
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "句子结构": 0.22,
+        "关键词": 0.0,
+        "表达方式": 0.59,
+        "为什么这样写": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 64,
+        "句子结构": 65,
+        "关键词": 0,
+        "表达方式": 60,
+        "为什么这样写": 83
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "句子结构": 0.5,
+        "关键词": 0.0,
+        "表达方式": 0.6,
+        "为什么这样写": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 49,
+        "句子结构": 46,
+        "关键词": 0,
+        "表达方式": 50,
+        "为什么这样写": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "句子结构": 0.31,
+        "关键词": 0.0,
+        "表达方式": 0.56,
+        "为什么这样写": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 86,
+        "句子结构": 38,
+        "关键词": 0,
+        "表达方式": 56,
+        "为什么这样写": 92
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "句子结构": 0.22,
+        "关键词": 0.0,
+        "表达方式": 0.38,
+        "为什么这样写": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "01. Preface",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 6,
+    "block_median": 8,
+    "block_range": [
+      5,
+      15
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 933,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 18 章中位 8、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

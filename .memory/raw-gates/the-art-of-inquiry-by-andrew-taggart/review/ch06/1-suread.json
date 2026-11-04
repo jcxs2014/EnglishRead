@@ -1,0 +1,53 @@
+{
+  "chapter": "ch06",
+  "facts": [
+    {
+      "fact": "Simon Critchley 在纽约公共图书馆（New York Public Library）赞助、2011 年 1 月 26 日于 New School for Social Research 举行的活动上宣称「哲学的任务是亵渎与败坏」（The task of philosophy is impiety and corruption）；该场合是为 James Miller《Examined Lives: From Socrates to Nietzsche》一月底的预计出版而设，座谈题目为「Does Philosophy Still Matter?」。",
+      "anchor": "held at the New School for Social Research on January 26, 2011",
+      "start": 89,
+      "end": 488
+    },
+    {
+      "fact": "作者复述第欧根尼·拉尔修（Diogenes Laertes）《Lives of Eminent Philosophers》中的轶事：前苏格拉底哲人泰勒斯（Thales）在星空下散步、对宇宙出神冥想直至坠入井中，随后被一位老妇讥讽「连脚下之物都看不见，怎能知晓诸天」；脚注出 Loeb 本（trans. R. D. Hicks, 2 vols., Cambridge: Harvard University Press, 1925, vol. 1, 35），并指出在 Plato《Theaetetus》174a 的版本里讥笑者是「neat, witty Thracian servant girl」。",
+      "anchor": "In his Lives of Eminent Philosophers, Diogenes recounts how on a walk beneath a canopy of stars",
+      "start": 1852,
+      "end": 2747
+    },
+    {
+      "fact": "作者据 Pierre Hadot《What is Ancient Philosophy?》（trans. Michael Chase, Cambridge: Harvard University Press, 2002）指出理论家是经过接连两波才成为现代哲学的主导形象：第一波约在十三世纪末（the end of the thirteenth century），中世纪大学的博艺科与神学科把灵修操练从哲学注释中剥离；约 200 年后（Some 200 years later），蒙田（Montaigne）论教育的随笔抨击的正是经院哲学——教育的正当目的是智慧，否则什么都不是。",
+      "anchor": "As Pierre Hadot has shown in What is Ancient Philosophy?",
+      "start": 3462,
+      "end": 4623
+    },
+    {
+      "fact": "作者举马可·奥勒留（Marcus Aurelius）《Meditations》中的三重操练（threefold discipline）为例：把「好」「坏」只留给力所能及之事、意愿事情如其发生地发生、依义务并为人类之故而行动；对斯多葛派、伊壁鸠鲁派与皮浪怀疑派而言，逻辑与物理学皆为「按自然而活」服务，形而上学与逻辑是伦理学的侍女；脚注出 Pierre Hadot《The Inner Citadel: The Meditations of Marcus Aurelius》（Cambridge: Harvard University Press, 1998）。",
+      "anchor": "Marcus Aurelius undertook a threefold discipline",
+      "start": 5645,
+      "end": 6605
+    },
+    {
+      "fact": "作者说康德（Kant）主张理性之务是为科学、道德、艺术与宗教奠定理性第一原理，但早在 18 世纪 80 年代（the 1780s）已有理性主义方案的怀疑者；据 Frederick Beiser《The Fate of Reason: German Philosophy from Kant to Fichte》（Cambridge: Harvard University Press, 1987），怀疑论者与信仰主义者提出两个相关反对：其一，康德唯心论的逻辑终点是唯我论（solipsism）；其二，斯宾诺莎式自然主义之路必然通往无神论。",
+      "anchor": "As Frederick Beiser shows at considerable length in his magisterial work",
+      "start": 8708,
+      "end": 9888
+    },
+    {
+      "fact": "作者以 Ian McEwan 小说《Atonement》中政府官员 Jack Tallis 的笔记说明工具理性对苦难的冷算：其棕色墨水铜版体让妻子 Emily 假设乘数为五十（a multiplier of fifty）——每投一吨炸药计五十伤亡；两周投弹 100,000 吨，结果五百万（five million）伤亡；脚注出 Atonement（New York: Anchor, 2001），页 127。",
+      "anchor": "Assume 100,000 tons of bombs dropped in two weeks. Result: five million casualties",
+      "start": 10587,
+      "end": 10885
+    },
+    {
+      "fact": "作者借 Mark Lilla 的妙语「[w]e are all individualists now.」（我们现在都是个人主义者）刻画社会疏离已达临界质量；Lilla 主张自 1960 年代以来政治话语采纳了原子化前提：1960 年代新左翼政治议程与里根、撒切尔革命无缝衔接并非巧合——前者的私人自治诉求由后者的经济自治呼求接力，两波反家长制发展汇成奇怪的新自由主义共识；脚注出 Lilla「Tea Party Jacobins」（The New York Review of Books, May 27, 2010）。",
+      "anchor": "nicely captured in Mark Lilla’s quip that",
+      "start": 23029,
+      "end": 23481
+    },
+    {
+      "fact": "作者举 Nadya Suleman 案为美国医疗体系以自主（autonomy）为最高善的例证：2009 年 Suleman 在领取残障补助、照顾六个小孩（six small children）的情况下决定接受体外受精（in vitro fertilization），医患咨询的道德考量只停留在「是否出于她的选择」，而「任何已有六胞胎（sextuplets）的理性人是否会视再生八胞胎（octuplets）为人类繁荣之一部分」落在医学审议之外；MSNBC 称之为「unconventional choice」；作者由此引入 Michael Sandel 的「voluntarist self」及其所批的「unencumbered self」；脚注出「Octuplet Mom Defends Her ‘Unconventional’ Choices」（TODAY, NBC News/MSNBC.com, February 5, 2009）。",
+      "anchor": "In 2009, Suleman decided to undergo in vitro fertilization",
+      "start": 24567,
+      "end": 25472
+    }
+  ]
+}

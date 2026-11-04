@@ -1,0 +1,53 @@
+{
+  "chapter": "ch04",
+  "facts": [
+    {
+      "fact": "作者问「若锤头脱落、东西停摆且此情形推及日常诸物（手机、手表、汽车、水龙头、书桌、电脑）会怎样」，一位对话者答「Then we’d make art」，作者接话「是的，我们会做艺术，或者开始哲学思辨」。",
+      "anchor": "one of my conversation partners said",
+      "start": 846,
+      "end": 905
+    },
+    {
+      "fact": "作者主张：哲学只在原本有意义之物开始不再有意义、习惯与惯例磨薄、旧有生活形式松脱乃至崩解之时登场，此时人会追问「锤子究竟何用」；哲学的最高目的就是满足这种「理解已成问题之物」的生活需要。",
+      "anchor": "Philosophy makes an appearance only when the things that used to make sense have begun to stop making sense",
+      "start": 962,
+      "end": 1486
+    },
+    {
+      "fact": "作者援引 Immanuel Kant 的 Sapere aude!（敢于运用你自己的理智），问我们是否听从康德要我们自己思考（think for ourselves）的劝诫，以及如此思考会把我们带向何处。",
+      "anchor": "Will we listen to Immanuel Kant when",
+      "start": 2041,
+      "end": 2374
+    },
+    {
+      "fact": "作者说选择最大化反而模糊了「何者值得选择」的判断（原则上若什么都能选，为何还要选任何东西），心理学家 Barry Schwartz 称之为「paradox of choice」（选择的悖论）。",
+      "anchor": "The psychologist Barry Schwartz calls this the",
+      "start": 2377,
+      "end": 3049
+    },
+    {
+      "fact": "作者指出关于好政府、家庭生活、工作价值、宗教角色与教育目的之「形」的问题在 Great Recession（大衰退）、Occupy Wall Street（占领华尔街）、疫情与当前 AI 竞赛之后变得更尖锐也更切肤，并问这些在二十一世纪当如何服务我们。",
+      "anchor": "after the Great Recession, Occupy Wall Street, the pandemic, and the current AI race",
+      "start": 3052,
+      "end": 3604
+    },
+    {
+      "fact": "作者回顾哲学传统上在大不确定时代带来清明：希腊城邦兴起、罗马帝国灭亡、中世纪衰落之际；柏拉图把这种更宽的视野比作从无知之洞穴升入真理之光，哲学还在诸承诺间求整全、接通意义，使人抵达来之不易的慰藉（hard-won consolation）。",
+      "anchor": "the rise of Greek city-states, the fall of the Roman Empire, the waning of the Middle Ages",
+      "start": 3607,
+      "end": 4403
+    },
+    {
+      "fact": "脚注给出康德文「An Answer to the Question: What is Enlightenment?」的出处：Practical Philosophy, trans. and ed. Mary J. Gregor（Cambridge: Cambridge University Press, 1996），页 17–22。",
+      "anchor": "Practical Philosophy, trans. and ed. Mary J. Gregor (Cambridge: Cambridge University Press, 1996)",
+      "start": 4532,
+      "end": 4802
+    },
+    {
+      "fact": "脚注录 Barry Schwartz《The Paradox of Choice: Why More Is Less》（New York: HarperCollins, 2004）。",
+      "anchor": "The Paradox of Choice: Why More Is Less (New York: HarperCollins, 2004)",
+      "start": 4532,
+      "end": 4802
+    }
+  ]
+}

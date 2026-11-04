@@ -1,0 +1,47 @@
+{
+  "chapter": "ch14",
+  "facts": [
+    {
+      "fact": "本章以四步总括探究全程：Step 1: Mystery、Step 2: Discovery、Step 3: Confusion、Step 4: Clarity。",
+      "anchor": "Step 1: Mystery\n\nStep 2: Discovery\n\nStep 3: Confusion\n\nStep 4: Clarity",
+      "start": 41,
+      "end": 111
+    },
+    {
+      "fact": "作者引 William Wordsworth 在 Lyrical Ballads 的 “Preface” 中对（抒情）诗的著名定义——“the spontaneous overflow of powerful feelings… recollected in tranquillity”——并称哲学探究的起点与之相似：你察觉心中有何物涌动却不识其为何物，感到一个不局限于某处的 mystery 位于你存在的核心。",
+      "anchor": "In the “Preface” to Lyrical Ballads, William Wordsworth famously defines (lyrical) poetry as",
+      "start": 116,
+      "end": 579
+    },
+    {
+      "fact": "作为 answerer，你接受问题 “To what are you alive or by what are you weighed down?”，并按 existential weight 只保留最 intense、most real、most pressing 的一个候选回答，其余答案搁置一旁。",
+      "anchor": "To what are you alive or by what are you weighed down?",
+      "start": 582,
+      "end": 983
+    },
+    {
+      "fact": "提问者以 “What’s so confusing, unsettling, or opaque about this matter of existential weight?” 迫你照亮困惑之源（你可能 fumble、困于 brambles、迷失于 fog），再以聚焦问题 “And what’s at the very heart of your confusion?” 引你静默下来、让其 sink down、逼近 clarity。",
+      "anchor": "And what’s at the very heart of your confusion?",
+      "start": 986,
+      "end": 1535
+    },
+    {
+      "fact": "作者点出探究中的两个 surprise：其一是不了解自己（don’t know yourself）；其二是 clarity 终以具体 formulation 出现——须以 “Is it really clear? As clear as it could be?” 检验，直到一个说法 unequivocally resounds，你的回答才算 “puts it all together”。",
+      "anchor": "The first surprise, one that appears as often as you inquire, is that you don’t know yourself.",
+      "start": 1538,
+      "end": 2149
+    },
+    {
+      "fact": "作者给出整场哲学对话（可能包含不止一次 philosophical inquiry）结束时的标志：你应感到 settled、at peace、bright、energized——You should feel at home。",
+      "anchor": "you should feel settled, at peace, bright, and energized. You should feel at home.",
+      "start": 2152,
+      "end": 2347
+    },
+    {
+      "fact": "章末脚注标注 Wordsworth 定义之出处：Poetry Foundation 的 “William Wordsworth 101” 条目，访问日期 May 5, 2026。",
+      "anchor": "William Wordsworth, “William Wordsworth 101,” Poetry Foundation, accessed May 5, 2026",
+      "start": 2353,
+      "end": 2511
+    }
+  ]
+}
