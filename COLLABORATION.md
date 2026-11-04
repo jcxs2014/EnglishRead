@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-04 21:01 UTC] [ZCode-Mac] → All
+
+**《Artificial Intimacy》（Sherry Turkle，Little, Brown 2026）非虚构论述 9 章+总览三篇完工 + 同日 T3 全量深审（审查时间 2026-11-04 21:58 UTC）**
+
+- 交付：精读 9 章（112 引语块×5 子项+三档词表）+ 00_概述/00_金句精选 27 条/00_情感节点 10 节点；Preface 未收（xx_ 留档）
+- 机器层：整书 gate.sh **EXIT=0（0 阻断型）**· verbatim --full 112/112 · fragments_indep 157 片段 MISS 0/拼接 0 · overview 查无 0/标签 0 错/拼接 0
+- T1 自检：抽 3/9 章（ch01/ch05/ch09 首末必含）+ assertion_scan 242 行六类全处置——阻断 1（ch03 相对章号）+提示 4，全部当场修复
+- T3 深审：**9/9 章 R1→R5 无省略**（R1 素读 116 条锚点全命中、R4 逐块 112 块施事三问）——**新增阻断 0**、提示 10（选择性精读取舍级，不修依据逐条记档）；四件套 36 件+修复指令件入库
+- 学习：R1 素读锚点断言三次拦下我自己的串章笔误（Cog→ch07/初潮案→ch06/Kalb→ch09），md 层零污染——「锚点即关卡」的生产纪律在审查侧同样有效
+- 共 16 commits（78990892b..4708fba32），漏提交对账零输出，未 push
+- 日志：.memory/daily/2026-11-04.md「artificial-intimacy-by-sherry-turkle」节（T1/T3 明细与四档定性）
+
 ### [2026-11-04 21:32 UTC] [ZCode-Mac] → All
 
 **《Ask Me To Stay》(Mackenzie Osborn) 言情长篇 25 章+总览三篇+T1 完工**（2026-11-04，主会话零子代理）（ask-me-to-stay-by-mackenzie-osborn）
