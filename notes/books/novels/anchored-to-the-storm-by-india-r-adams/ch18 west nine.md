@@ -16,7 +16,7 @@ modified: "2026-11-04"
 
 > **原句 1:** "Like illegal dogfighting, my father fought me. For years, I was forced into confinement to fight another innocent. Some kids pissed themselves and cried. Some were already soulless, far from the kind child they'd been born to be."
 
-**中文理解**：像非法斗狗一样，父亲逼他与别的无辜孩子对打——长年被迫关起来与另一个无辜的孩子对打；有的孩子吓得尿裤子哭喊，有的已经没有灵魂，离他们出生时那个善良的孩子很远。
+**中文理解**：像非法斗狗一样，父亲把他关起来逼他与别的无辜孩子对打；有的孩子吓得尿裤子哭喊，有的已经没有灵魂，离他们出生时那个善良的孩子很远。
 **关键词**：Like illegal dogfighting / forced into confinement / already soulless
 **为什么这样写**：把人写成斗犬——童年被直接翻译成畜栏语法；"soulless" 与 "kind child" 的对照是幸存者的分类学，他分得清自己属于哪一栏。
 **读者视角提示**：记住 Sam——他咽回去的半句话是全章最重的暗格，与最后的热巧克力互为赎价。
@@ -91,33 +91,34 @@ modified: "2026-11-04"
 **为什么这样写**：复仇被端成"大盘菜"却不取——比喻的丰盛反衬放弃的重量；他的坏笑不是放弃而是升级：守护比杀人更能杀死仇恨。
 **读者视角提示**：Seb 的这一步是全书的成人礼——从"我要他死"到"她要活"，复仇者交出了屠刀。
 
-> **原句 12:** "'Listen up.' Another man handed Finn fifty bucks. 'For now, act normal. Go to McDonald's, clean them out of cheeseburgers, then get your asses home.'"
-
-**中文理解**：都听着——另一个男人塞给 Finn 五十美元：现在给我装正常，去麦当劳把芝士汉堡清空，然后滚回家。
-**关键词**：handed Finn fifty bucks / act normal / get your asses home
-**为什么这样写**：特工级善后配平民级食堂——荒诞的落差消解行动的寒气；"act normal" 的指令本身就是对少年们最好的羞辱式保护。
-**读者视角提示**：这些"可怕的叔叔"的每条命令都是爱的变形——黑帮语法里的家长制。
-
-> **原句 13:** "With the Jeep now squealing its tires, he said, 'Johnny being who he is now makes a whole lot more sense. I think they're his people.'"
+> **原句 12:** "With the Jeep now squealing its tires, he said, 'Johnny being who he is now makes a whole lot more sense. I think they're his people.'"
 
 **中文理解**：吉普车胎尖叫着起步，他说：Johnny 现在的一切都说得通了——我觉得，那些人是他的族人。
 **关键词**：squealing its tires / makes a whole lot more sense / they're his people
 **为什么这样写**：顿悟配着失控的轮胎——认知与车速同时打滑再咬地；"his people" 一词把 Johnny 的神秘底细归档完成。
 **读者视角提示**：Misfits 至此知道 Johnny 有"族人"——但他们还不知道族人的规模（会长之子）。
 
-> **原句 14:** "She held us. 'My boys. You can do no wrong in my eyes. And I already have hot chocolate on the stove.'"
+> **原句 13:** "She held us. 'My boys. You can do no wrong in my eyes. And I already have hot chocolate on the stove.'"
 
 **中文理解**：她抱住他们——我的孩子们。你们在我眼里不会做错事。而且热巧克力已经在炉上了。
 **关键词**：She held us / You can do no wrong / hot chocolate on the stove
 **为什么这样写**：赦免令与食谱同框宣布——母爱把原则问题降维成宵夜问题；"do no wrong" 与 ch14 的"立规矩"看似矛盾，实为同一个母亲的两种语法。
 **读者视角提示**：热巧克力≠纵容——它是 harmony 式的清算：先喂饱，再算账。
 
-> **原句 15:** "In the kitchen were Dale, Sebastian, Sarah, Kristen, and the little girl eating ice cream. Already bathed and wearing one of Sarah's pajamas that drowned her, she was sitting on the island's countertop, being smiled at as if she were a zoo's favorite attraction."
 
-**中文理解**：厨房里是 Dale、Sebastian、Sarah、Kristen 和正吃冰激凌的小女孩——洗完澡、穿着大出一号的 Sarah 睡衣，她坐在岛台台面上，被大家笑着围观，像动物园里最受欢迎的明星。
-**关键词**：eating ice cream / one of Sarah's pajamas / a zoo's favorite attraction
-**为什么这样写**：恐怖的地窖行程以动物园式的暖场收尾——睡衣的 oversize 是新生活的第一件不合身；众人的围观笑容是全屋子的愈合反应。
-**读者视角提示**：Kristen 也在——她的"错误号码"电话终于有了下文；这张厨房全家福是 West 线至此最圆满的一帧。
+> **原句 14:** "Kristen softly ran fingers through the little girl’s damp white hair, identical to Blue’s. “Boys, this precious angel doesn’t like her name, Hephzibah, but she looooves ice cream.”"
+
+**中文理解**：Kristen 轻抚着小女孩与 Blue 一模一样的湿白发介绍：这位小天使不喜欢自己的名字 Hephzibah，但她超爱冰激凌。
+**关键词**：damp white hair / Hephzibah / looooves ice cream
+**为什么这样写**：命名仪式藏在一句闲谈里——与姐姐一样憎恨宗教名的孩子，由一支冰激凌完成自我更名；三个 o 的拖长音是全章最轻快的音节，地狱的来客在这里拿到了第一件人间礼物。
+**读者视角提示**：记住 Hephzibah 这个旧名——ch19 被捕的女警口中的 "Where's Hephzibah?" 正是它在追问她的下落。
+
+> **原句 15:** "As the doorknob turned, there was no longer a need to be quiet. So, I said, “Give ’em all the hell you got, my brothers.”"
+
+**中文理解**：门把手转动、不必再保持安静的此刻，Gage 说：给他们狠狠地还击，我的兄弟们。
+**关键词**：doorknob turned / no longer a need to be quiet / Give ’em all the hell you got
+**为什么这样写**：全章在枪响与死寂后收束于一句出征令——藏了一整夜的少年们以最平静的语气接战；"no longer a need to be quiet" 是恐惧的终点，也是勇气的起点。
+**读者视角提示**：门外是谁下一章揭晓——这句话同时是 ch19 的开门声，双线的再次相接从这一句开始。
 
 ## 本章词汇
 
@@ -152,4 +153,4 @@ modified: "2026-11-04"
 | background | 背景处 | The pastor was making threats in the background, promising revenge, and yelling not to touch his daughter. |
 
 ## 一句话总结
-Gage 的斗狗童年撞上裹尸布般温柔的灵毯——一声"兄弟"唤醒中枪消失的 Maddox；假墙密室里走出 Blue 的妹妹，Seb 在她面前放下复仇，Sinners 移交牧师，少年们被五十美元打发去吃麦当劳，最后被一句"你们在我眼里不会做错事"和炉上的热巧克力赦免。
+Gage 的斗狗童年撞上裹尸布般温柔的灵毯——一声"兄弟"唤醒中枪消失的 Maddox；假墙密室里走出 Blue 的妹妹，Seb 在她面前放下复仇，Sinners 移交牧师，少年们被五十美元打发去吃麦当劳，被一句"你们在我眼里不会做错事"和炉上的热巧克力赦免；Bluebell（本名 Hephzibah）经一支冰激凌完成自更名，深夜一条 Hide! 警报把全员赶进阁楼密室——枪响死寂、门把转动，Gage 以一句"给我狠狠地还击"收章。
