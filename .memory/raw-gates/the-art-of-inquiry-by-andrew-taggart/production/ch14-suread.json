@@ -1,0 +1,37 @@
+{
+ "book": "the-art-of-inquiry-by-andrew-taggart",
+ "chapter": "ch14",
+ "text": "notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/text/ch14_12_putting_it_all_together.txt",
+ "facts": [
+  {
+   "fact": "收束章以 Wordsworth《Lyrical Ballads》序言名句开题：诗=spontaneous overflow of powerful feelings… recollected in tranquillity——哲学探询的起点与抒情诗相似：觉出内里有物 stir、又知不知那是什么——mystery 不 localized、在存在之心",
+   "anchor": "Lyrical Ballads",
+   "start": 136,
+   "end": 151
+  },
+  {
+   "fact": "answerer 接问：To what are you alive or by what are you weighed down?——为定哪条候选答最有 weight，找最 intense/real/pressing 之答——此即 matter of existential weight；只与这一个 Stay、其余答案 set off to the side",
+   "anchor": "To what are you alive",
+   "start": 650,
+   "end": 671
+  },
+  {
+   "fact": "questioner 压困惑：What's so confusing, unsettling, or opaque about this matter?——邀你环顾照亮困惑之源；或 fumble 数次、卡在 brambles、雾中迷路；盘旋间闻 focusing question：what's at the very heart of your confusion?——你安静下来、让问题 settle in、sink down——沉默中你正逼近 clarity",
+   "anchor": "brambles",
+   "start": 1285,
+   "end": 1293
+  },
+  {
+   "fact": "第一个 surprise（如你 inquiry 之频次常现）：你不知你自己——mystery 之感早已 hint；第二：clarity 终以 specific formulation 来——This is it, we both feel——仍须 test：Is it really clear? As clear as it could be?——否则 cast about 再试 alternative formulations 直至其一 unequivocally resounds；既知是它，受邀再思：What's especially clear now? What has this philosophical inquiry illuminated?——你的回答 puts it all together",
+   "anchor": "The first surprise",
+   "start": 1538,
+   "end": 1556
+  },
+  {
+   "fact": "这次哲学对话（或含不止一次 inquiry）结束时，你应感到 settled、at peace、bright、energized——You should feel at home",
+   "anchor": "at home",
+   "start": 2339,
+   "end": 2346
+  }
+ ]
+}
