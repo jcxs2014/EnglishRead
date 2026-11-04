@@ -109,6 +109,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - **T1 自检**（同会话）：抽样 ch01/06/11/15/20 + assertion_scan 350 行（①②③⑥ 全量、④⑤ 抽样）+ 总览人判；查出提示级缺陷 **10 处全整改**（概述领养地点/Sea-Dude 推测化、词数×2、密码位数、无据时长、错字、措辞、金句呼应×2）；三件套齐（t1-verdict.md / t1-candidates.txt / 台账行「自检」）。
 - 全部未 push；逐章明细见工作日志 2026-11-04 节。
 
+anchored-to-the-storm-by-india-r-adams **T3 全量深审**（2026-11-04，用户点名，边审边改；20/20 章 R1→R4 无省略，R1 子代理批≤3 串行 text-only/R2-R4 主会话）。
+- 机器层：gate EXIT=0 · chapter.sh 20/20 rc=0 · verbatim 308/308 · fragments 268条/350片段 MISS 0 · overview quotes 50/50。
+- 阻断 19 全整改：核心=生产期「分段读章漏尾」×6 章实锤（ch06/08/09/10/14/18 尾幕整段漏写、门禁无感），补关键块 17（Styx 清账+Until I die／illumination 命名 Saleeni／血统混合／Sarah-Finn 结盟／JOHNNY WATTS 档案／My kill／出征令等）；编/错 5（反复默念溢出、词数 22、外套具体化、补块引语选短换句、块 1 冗余）。
+- 提示 31（细节未入块）记档不修，逐条依据在各章 4-verdict「已核实为正确」节；ch18 删 2 弱块保 15 上限（取舍依据记修复指令 §四）。
+- 台账已追加一行（档位深/审查方异会话）；产物：20×4 四件套 + 2026-11-04-复核与修复指令.md；全部未 push。
+- 六章漏读明细与逐条改前→改后见工作日志 2026-11-04 节。
+
 ### [2026-11-03 23:02 UTC] [ZCode-Mac] → All
 
 【All the Way Home 完工 + T3 深审】all-the-way-home-by-alex-ritany：Alex Ritany 双 POV 言情长篇 53 件（52 章 + Epilogue，Hour 倒计时机场一夜）+ 总览三篇；完工 2026-11-03 23:02 UTC，T3 2026-11-04 08:53 UTC
