@@ -1,0 +1,87 @@
+{
+ "chapter": "ch07",
+ "source": "text/ch07_east_four.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Styx",
+   "what": "Styx 向 Maddox 讲述：当年父亲（Lennox）还是小男孩时，他带儿子开自己的约翰船（john boat）出海钓鱼，结果一个雄人鱼（merman）现身。",
+   "anchor": "When your dad was a little boy, I took him out on my john boat to go fishing.",
+   "line": 78,
+   "span": [
+    3129,
+    3206
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 因怕那雄人鱼伤害儿子，手中突然多出一把刀，刺伤了雄人鱼的手臂。",
+   "anchor": "I suddenly had a knife in my hand and stabbed his arm.",
+   "line": 120,
+   "span": [
+    5991,
+    6045
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 回忆那雄人鱼用一双发光的绿眼睛打量 Lennox，并认定它与 Saleeni 有亲缘关系（绿眼与 Saleeni 相同）。",
+   "anchor": "I watched the dude observe Lennox with a pair of green eyes that glowed. I swear it.",
+   "line": 102,
+   "span": [
+    4552,
+    4636
+   ]
+  },
+  {
+   "who": "Maddox",
+   "what": "Maddox 意识到自己与父亲一样也属这类存在（As am I），随后双腿收拢、双臂向上，像子弹一样无声垂直扎入水中去见 Saleeni。",
+   "anchor": "my legs went underneath me, my arms above me, and like a bullet, I shot downward into the water.",
+   "line": 177,
+   "span": [
+    9076,
+    9172
+   ]
+  },
+  {
+   "who": "Saleeni",
+   "what": "Maddox 用手势教 Saleeni 学话（第一个词是 Lips：左右划过下唇），Saleeni 抬手划过他的嘴唇并直视他的眼睛，跟着模仿。",
+   "anchor": "Saleeni reached up and swiped my lips, then looked me in the eyes.",
+   "line": 243,
+   "span": [
+    12408,
+    12474
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Saleeni 在水中发出刺耳尖叫，Styx 喊 Maddox 快去让她停下，说十英里半径内都听得见。",
+   "anchor": "Go! Shut her down! She’ll be heard in a ten-mile radius!",
+   "line": 337,
+   "span": [
+    16868,
+    16924
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 承认自己对杀害 Maddox 父亲的凶手动了手（bleach 清洗），但安抚孙子：爷爷只有一个人，有几个跑掉了、好繁衍更多。",
+   "anchor": "Don’t worry. Gramps is only one man, so a few got away to breed more.",
+   "line": 478,
+   "span": [
+    23329,
+    23398
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Maddox 追问祖父对那雄人鱼的承诺有多深，Styx 悲伤地回答：直到他死（Until I die）——即这条誓言以他的性命为限。",
+   "anchor": "Styx looked and sounded sad when he said, “Until I die.”",
+   "line": 562,
+   "span": [
+    27189,
+    27245
+   ]
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "chapter": "ch11",
+ "source": "text/ch11_west_five.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Sarah",
+   "what": "Sarah 坐 Finn 开的 Jeep（Indestructible Tonka）出门，打电话约社工 Kristen 二十分钟后在她家旁的公园见面。",
+   "anchor": "Ummm… Yes, of course. Umm… meet me at the park by your house in twenty?",
+   "line": 27,
+   "span": [
+    687,
+    758
+   ]
+  },
+  {
+   "who": "Sarah",
+   "what": "Sarah 向 Finn 坦白 nibble 事件：她当时把 Ethan 扑倒在地、像动物一样骑上去并吻了他。",
+   "anchor": "I was mortified! I even threw Ethan to his back and crawled on top of him like an animal!",
+   "line": 51,
+   "span": [
+    1371,
+    1460
+   ]
+  },
+  {
+   "who": "Finn",
+   "what": "Finn 向 Sarah 道歉多年的嫉妒：因为 Ethan 多年来一直注视着 Sarah 的一举一动，他曾嫉妒到几乎恨过她。",
+   "anchor": "The way Ethan has watched your every move, for years, made me so envious I kind of… hated you.",
+   "line": 234,
+   "span": [
+    7015,
+    7109
+   ]
+  },
+  {
+   "who": "Sarah",
+   "what": "Sarah 面责 Kristen：你把 Blue 带给我们又送回那个女人和她的施虐者身边、帮忙掩盖了 Caleb 的死、还在大家最需要时把 Johnny 带走。",
+   "anchor": "You helped cover up Caleb’s death.” My voice broke, but I kept talking, pushing through the pain.",
+   "line": 357,
+   "span": [
+    11590,
+    11687
+   ]
+  },
+  {
+   "who": "Kristen",
+   "what": "Kristen 翻开带来的厚档案，封面黑字写着 JOHNNY WATTS；她还确认 Johnny 这名字并非真名。",
+   "anchor": "As she flipped through it, I saw the name JOHNNY WATTS on the cover in black ink.",
+   "line": 378,
+   "span": [
+    12917,
+    12998
+   ]
+  },
+  {
+   "who": "Sarah",
+   "what": "Sarah 情急说漏了收养人的名字 Styx；Kristen 称自己从未听过这个名字，并指 Johnny 的家人正竭力不让他留下任何痕迹。",
+   "anchor": "Styx,” I cut in, too emotional to remember I wasn’t supposed to speak that name until Finn looked at me with the widest eyes.",
+   "line": 414,
+   "span": [
+    14423,
+    14548
+   ]
+  },
+  {
+   "who": "Kristen",
+   "what": "被 Finn 逼问后 Kristen 让步说有个号码可以打，她拨给联系人 River 后回来谎称打错了；Sarah 由此确知 Caleb 的凶手已死并当场晕厥。",
+   "anchor": "As if all energy had been drained from her, she tapped on her phone. The name River was all I could see.",
+   "line": 459,
+   "span": [
+    15903,
+    16007
+   ]
+  },
+  {
+   "who": "Ethan",
+   "what": "回家时虚脱的 Sarah 被 Ethan 抱进屋，有人低语 anniversary（周年纪念日），她才想起今天是哪个日子。",
+   "anchor": "past worried faces and someone whispering ‘anniversary’, I remembered what day it was.",
+   "line": 523,
+   "span": [
+    17962,
+    18048
+   ]
+  }
+ ]
+}

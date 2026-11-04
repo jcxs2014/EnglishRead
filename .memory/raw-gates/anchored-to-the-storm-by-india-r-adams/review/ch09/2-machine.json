@@ -1,0 +1,490 @@
+{
+  "chapter": 9,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/anchored-to-the-storm-by-india-r-adams/ch09 east six.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/anchored-to-the-storm-by-india-r-adams/text/ch09_east_six.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "My mouth gaped as my air was robbed from me. I barely had enough to say, 'Misfits.'",
+          "ok": true,
+          "pos": 362
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Like a bull sure to keep a testosterone-riddled elephant in check, this man roared back, 'To protect the gates!'",
+          "ok": true,
+          "pos": 805
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "His whole form exhaled, from exhaustion and possibly also confusion of his own, but his answer felt as if he believed it",
+          "ok": true,
+          "pos": 1533
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "'But after the cut to the arm, I felt all of this knowledge.' His hands raised to either side of his head, then began to",
+          "ok": true,
+          "pos": 2362
+        }
+      ],
+      "words": 73
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "'The blindness is the façade. The worry over trivial matters is the trickery. It is the pathway of the truth.' He pointe",
+          "ok": true,
+          "pos": 3763
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "'I am the mother fucking storm, asshole.' I headed to the freezer for nuclear food",
+          "ok": true,
+          "pos": 6872
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "As soon as my eyes open, they begin to water and burn, not wanting to stay open. I'm on the living room floor, right whe",
+          "ok": true,
+          "pos": 8795
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "My brain struggles to understand what my eyes are showing me as I scan up to see my little sister, hanging by her hair. ",
+          "ok": true,
+          "pos": 10635
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "I sit up in bed, sweating as if I had truly been in that fire. Grabbing my chest, I did my best to convince my lungs the",
+          "ok": true,
+          "pos": 10842
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "I was swimming, exploring, when I was called by my mother. She had been with my family, at a distance from me, inspectin",
+          "ok": true,
+          "pos": 12691
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "'The shared dream was the day of the accident with Dad. Saleeni was with her family. They were agitated, but she was too",
+          "ok": true,
+          "pos": 15151
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I drew in air to speak of that horrid day. 'From the bomb attached to a bridge's pillar.'",
+          "ok": true,
+          "pos": 15385
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Styx was paler than I had ever seen him. 'Because they didn't plant it.' He stumbled back a few steps. 'That bomb wasn't",
+          "ok": true,
+          "pos": 16338
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "The club that chased you and Lennox down wasn’t who set the bomb. Whoever set it was after Saleeni’s sea peeps",
+          "ok": true,
+          "pos": 18112
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Styx stared at my damaged finger. “The bomb. Their blood—” His eyes rose and were full of terror, “—mixed with yours.”",
+          "ok": true,
+          "pos": 18658
+        }
+      ],
+      "words": 21
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.72
+      }
+    }
+  ],
+  "form": {
+    "h1": "09. East Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 14.0,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 15,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3592,
+    "block_target": [
+      7,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句9",
+        "kw": "as if I had truly been in that fire",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

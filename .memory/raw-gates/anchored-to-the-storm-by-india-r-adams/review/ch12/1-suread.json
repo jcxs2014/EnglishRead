@@ -1,0 +1,87 @@
+{
+ "chapter": "ch12",
+ "source": "text/ch12_west_six.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Ethan",
+   "what": "Ethan 把创伤性僵直的 Sarah 抱上床守着，用手语对 Gage 说她若崩溃，我也崩溃；Harmony 送来水和水果，还说注意到他们的手语诡异但迷人。",
+   "anchor": "Ethan sighed. Then his hands moved, telling me, “If she breaks, I break.”",
+   "line": 30,
+   "span": [
+    965,
+    1038
+   ]
+  },
+  {
+   "who": "Sebastian",
+   "what": "Seb 在楼梯口对 Gage 哭诉：Blue 死时我的一部分也随她而去了，并请求 Gage 不要怪他盼望自己死去的那一天。",
+   "anchor": "The saddest tears fell from Seb’s eyes onto the stair below. “A part of me left with her when she died.”",
+   "line": 123,
+   "span": [
+    4456,
+    4560
+   ]
+  },
+  {
+   "who": "Sarah",
+   "what": "Sarah 向 Ethan 讲出创伤源头：当年小学枪击案开枪的是她父亲，他射杀了几名同学、走到她课桌前却停住、盯着她看后转身离开。",
+   "anchor": "It was my father, Ethan. He was the one with the gun.",
+   "line": 218,
+   "span": [
+    8456,
+    8509
+   ]
+  },
+  {
+   "who": "Gage",
+   "what": "Gage 点明当天正是那起校园枪击案的周年纪念日；Sarah 补述枪手（她父亲）随后回家杀死妻子再自杀。",
+   "anchor": "Today was the anniversary of a school shooting, and I didn’t think there could be anything worse in the world.",
+   "line": 215,
+   "span": [
+    8342,
+    8452
+   ]
+  },
+  {
+   "who": "Ethan",
+   "what": "Ethan 对 Sarah 说我们真是一对：两人都有试图杀死他们的父亲，两位父亲还都害死了他们的母亲。",
+   "anchor": "What a pair we make. Both with fathers who tried to kill us. Both with fathers who succeeded with our mothers.",
+   "line": 257,
+   "span": [
+    10149,
+    10259
+   ]
+  },
+  {
+   "who": "Ethan",
+   "what": "Ethan 吻 Sarah 头发时默念 Beloved——那是他祖父母之间的爱称，两位老人结婚超过六十年、在他年幼时相继去世。",
+   "anchor": "It was an endearment he used to hear his grandparents call one another. They had been married for over sixty years",
+   "line": 251,
+   "span": [
+    9760,
+    9874
+   ]
+  },
+  {
+   "who": "Ethan",
+   "what": "守夜仪式上 Ethan 把 Blue 的大幅画像藏进唱诗袍偷走给 Seb，低声说我替你看住她了，安静点。",
+   "anchor": "Ethan slid the portrait under his robe as if there was nothing to see. To Seb, he whispered, “I got your girl. Now chill.”",
+   "line": 540,
+   "span": [
+    23107,
+    23229
+   ]
+  },
+  {
+   "who": "Gage",
+   "what": "Gage、Finn、Ethan、Seb 四人认定牧师的新 Mercedes 用的是 Blue 的捐款，一起朝车撒尿，Gage 特意尿了门把手。",
+   "anchor": "Four angry penises were whipped out and happily pissed all over the car we were sure Blue’s donations were paying for.",
+   "line": 558,
+   "span": [
+    24078,
+    24196
+   ]
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "chapter": "ch19",
+ "source": "text/ch19_east_ten.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Styx（检查 Maddox 背部）",
+   "what": "Styx 查看 Maddox 背部枪伤时惊见其皮肤已变成黑色皮革，与 Saleeni 当年对他发怒变身时一样——两人判断 Maddox 正在经历变身。",
+   "anchor": "Kid, your skin is like black leather. Saleeni did this when she was mad at me. Remember?",
+   "line": 57,
+   "span": [
+    2029,
+    2117
+   ]
+  },
+  {
+   "who": "Styx → Maddox",
+   "what": "Maddox 背部中弹；Styx 从 SUV 手套箱取出刀，到车外为他挖出背上的弹头（以防他流血）。",
+   "anchor": "After retrieving a knife from the glove compartment, he said, “Let’s do this outside in case you bleed.”",
+   "line": 93,
+   "span": [
+    3208,
+    3312
+   ]
+  },
+  {
+   "who": "Maddox（与 Sebastian）",
+   "what": "Maddox 不亲手处决被俘的牧师——杀死他的权利属于 Sebastian，他只打算先恐吓戏弄这个 dead man walking。",
+   "anchor": "I couldn’t kill him. That was Sebastian’s right, but I could at least have a little fun first.",
+   "line": 138,
+   "span": [
+    4649,
+    4743
+   ]
+  },
+  {
+   "who": "Maddox → 被俘牧师",
+   "what": "Maddox 躲在 SUV 后座向被抬进来的牧师亮出獠牙，低声宣告要让他尝尽失控与被侵犯之苦，牧师吓得当场尿在身下的油布上。",
+   "anchor": "As he pissed himself on top of the tarp he was on, I quietly told him",
+   "line": 147,
+   "span": [
+    5049,
+    5118
+   ]
+  },
+  {
+   "who": "Letti（监控警报）",
+   "what": "众人正要处置牧师时，Letti 收到 Weathers 家街口摄像头发来的警报：一辆陌生车辆停靠。",
+   "anchor": "Got an alert from the camera down the street from the Weathers’.” He was still examining an image. “Unfamiliar car parking.",
+   "line": 344,
+   "span": [
+    12927,
+    13050
+   ]
+  },
+  {
+   "who": "Dale Weathers → Maddox",
+   "what": "Weathers 家遇袭现场：Dale 满嘴是血仍微笑着对 Maddox 说 You're made of dancing stars, Brass，随后松手死去；灰金发的 Harmony 已死于喉部刀口。",
+   "anchor": "The courageous man was dying yet fucking smiling at me as if this wasn’t all my fault.",
+   "line": 548,
+   "span": [
+    19721,
+    19807
+   ]
+  },
+  {
+   "who": "Avenger（辨认警察）",
+   "what": "Avenger 认出被绑在 Weathers 家的两名警察是 Officer Monroe 与 Officer Vasquez；Vasquez 是女性，还追问 Where's Hephzibah?，Styx 断定这些警察与牧师是一伙。",
+   "anchor": "You have Officer Monroe.” He pointed to the other one. “Officer Vasquez.",
+   "line": 599,
+   "span": [
+    21785,
+    21857
+   ]
+  },
+  {
+   "who": "众寄养孩子（Sinners）→ Maddox Gentry",
+   "what": "本章结尾（最后 10%）：全体寄养孩子向 Dale 与 Harmony 遗体致敬后，怀着极致的信任追随 Maddox Gentry 离开——首次完整揭示主角真名。",
+   "anchor": "then followed Maddox Gentry, with ultimate trust and more loyalty than one could ever deserve or demand",
+   "line": 716,
+   "span": [
+    26103,
+    26206
+   ]
+  }
+ ]
+}

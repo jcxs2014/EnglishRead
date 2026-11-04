@@ -1,0 +1,87 @@
+{
+ "chapter": "ch20",
+ "source": "text/ch20_west_ten.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Maddox 与众 biker（处理 Caleb 遗体）",
+   "what": "为免警方发现后院埋尸而让所有人面临指控，Caleb 的遗体被人从后院挖出，裹进蓝毯子放在柴棚旁，上面摆着孩子们种下的花。",
+   "anchor": "Had he been found by police, buried in the backyard, the risk was too high that we would all face charges",
+   "line": 84,
+   "span": [
+    3955,
+    4060
+   ]
+  },
+  {
+   "who": "Sarah（目击 Maddox）",
+   "what": "Sarah 天亮循感应走进柴棚，看见 Maddox 背对她坐在椅上反复挥刀捅刺牧师尸体，脚下血泊成片。",
+   "anchor": "So much blood pooled at Johnny’s feet that my imagination went wild.",
+   "line": 93,
+   "span": [
+    4604,
+    4672
+   ]
+  },
+  {
+   "who": "Sarah → Maddox",
+   "what": "Sarah 对他说 I swear it, Maddox，他失声震动 You know my name.——她点破了 Johnny 隐瞒多年的真名，兽形随之褪去、男孩回归。",
+   "anchor": "This time, he sucked in air. His dark voice eased from its harshness and cracked. “You know my name.”",
+   "line": 150,
+   "span": [
+    6345,
+    6446
+   ]
+  },
+  {
+   "who": "Kristen → Sarah/Ethan",
+   "what": "Kristen 摊牌后果：两名警察将被发现被谋杀、两名寄养家长死亡、五名在册寄养儿童失踪——意味着告别棒球奖学金、高中毕业、加州与原本身份。",
+   "anchor": "Listen, two cops will be found murdered. Two foster parents deceased. And five registered foster children MIA.",
+   "line": 469,
+   "span": [
+    18050,
+    18160
+   ]
+  },
+  {
+   "who": "Styx → Sarah",
+   "what": "Styx 交给 Sarah 一张可安全使用的信用卡，叮嘱只用他改装过、无法被追踪的笔记本下单，收件地址为 P.O. Box zero-four-nine-nine，并说追查者会先搜中国。",
+   "anchor": "They will search China first. Mail the stuff to P.O. Box zero-four-nine-nine…",
+   "line": 564,
+   "span": [
+    23555,
+    23632
+   ]
+  },
+  {
+   "who": "Maddox → Saleeni",
+   "what": "深夜 Misfits 乘黑色 SUV 赶到海岸（最后 10%）；车一停 Maddox 全速冲向水中等候的 Saleeni，众人在月光下见证两人相拥亲吻。",
+   "anchor": "Maddox jumped out and ran full-speed toward the water, the gentle waves, and the one waiting for him",
+   "line": 621,
+   "span": [
+    25775,
+    25875
+   ]
+  },
+  {
+   "who": "Maddox（离别）",
+   "what": "结尾（最后 10%）：为保 Saleeni 安全并送 Caleb 回新家，Maddox 被迫离开众人先行走——那个新家将是众人日后都要归去的地方。",
+   "anchor": "Maddox was forced to leave us behind. He had to keep Saleeni safe and take Caleb to his new home.",
+   "line": 669,
+   "span": [
+    27955,
+    28052
+   ]
+  },
+  {
+   "who": "其余 Misfits（结尾）",
+   "what": "结尾（最后 10%）：其余 Misfits 被迫迁往新地点——Noma 多年前为掩护孙子换藏身处设下的备用方案；众人昂首以身为 Maddox 的 Saltbone Sinners 为荣。",
+   "anchor": "the backup plan Noma had set in place long ago, in case her grandson needed a new area to hide",
+   "line": 672,
+   "span": [
+    28163,
+    28257
+   ]
+  }
+ ]
+}

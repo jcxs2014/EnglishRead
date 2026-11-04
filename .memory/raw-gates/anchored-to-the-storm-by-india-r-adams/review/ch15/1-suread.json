@@ -1,0 +1,87 @@
+{
+ "chapter": "ch15",
+ "source": "text/ch15_east_eight.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Styx 与 Maddox",
+   "what": "Styx 把 Maddox 领进厨房旁的大枪房教枪：三条长射击道（让 Maddox 想起 Finn 的击球练习笼），右侧有桌子和一排摆满武器弹药的开放式柜子。",
+   "anchor": "There were three long aisles that reminded me of Finn’s practice batting cages.",
+   "line": 24,
+   "span": [
+    440,
+    519
+   ]
+  },
+  {
+   "who": "Maddox",
+   "what": "Maddox 打出人生第一枪，子弹正中纸靶人形的眉心（bullseye）；之后 Styx 给他的每一把枪他都命中想打的位置，Styx 只得笑骂 Beginner's luck。",
+   "anchor": "I glared at the sketch, fired my first bullet, and watched it hit its mark.",
+   "line": 108,
+   "span": [
+    4553,
+    4628
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 告诉 Maddox：那辆 HOG 摩托车已经修好归还，是他父亲的又一件礼物（此前 Maddox 曾把车撞进了店里）。",
+   "anchor": "Glad you got the HOG back. It’s another gift from your dad.",
+   "line": 147,
+   "span": [
+    5795,
+    5854
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 递出一个黑色枪盒，说这本就该属于你，他会希望这样——Maddox 颤抖着接过，认出是父亲（Dad）留下的。",
+   "anchor": "Styx held out a black case. “This should be yours. He would’ve wanted it that way.”",
+   "line": 183,
+   "span": [
+    7000,
+    7083
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 另赠一个滑亮的深棕色皮革枪套，系于左臂近心口处的皮革上刻着 Boundary of the Underworld——Maddox 自认是未知世界的屏障，开始随身带枪。",
+   "anchor": "Engraved in the leather that went around my left arm and near my heart was the phrase Boundary of the Underworld.",
+   "line": 192,
+   "span": [
+    7230,
+    7343
+   ]
+  },
+  {
+   "who": "Maddox 与 Styx",
+   "what": "Maddox 听摄像头安保讲解时被 Saleeni 唤到池边，突然高烧昏眩、转身跌进水里；下沉前听见 Styx 大吼 Maddox!，随后被温柔的手从水下托出。",
+   "anchor": "Right before I sank underneath, I heard a roar, “Maddox!”",
+   "line": 288,
+   "span": [
+    10907,
+    10964
+   ]
+  },
+  {
+   "who": "Saleeni",
+   "what": "深夜 Saleeni 头戴缀珍珠和旧渔钩、钥匙、耳环的海藻冠来叫醒 Maddox，又双手捧上另一顶海藻头冠为他戴上——上面编着珍珠和极旧的物件：一块怀表、一把青铜勺、一副细铁丝眼镜。",
+   "anchor": "It also had pearls woven in, plus very old items: a pocket watch, a bronze spoon, and tiny wire eyeglasses.",
+   "line": 472,
+   "span": [
+    16019,
+    16126
+   ]
+  },
+  {
+   "who": "Maddox 与 Saleeni",
+   "what": "水中结合结束后，Maddox 抬头发现在他身上呼吸的 Saleeni 尾巴不见了，水下露出脚趾和大腿——人鱼长出了腿（此前她已清晰说出 I love you, Maddox）。",
+   "anchor": "but all thought fizzled out when seeing the sweetest little set of toes sticking out of the water",
+   "line": 673,
+   "span": [
+    26443,
+    26540
+   ]
+  }
+ ]
+}

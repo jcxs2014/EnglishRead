@@ -347,7 +347,7 @@
       "读者视角提示"
     ],
     "blocks": 12,
-    "block_median": 13.0,
+    "block_median": 14.0,
     "block_range": [
       9,
       15
@@ -387,7 +387,7 @@
   "block_limit": {
     "lo": 2,
     "hi": 15,
-    "basis": "本书 19 章中位 13、最高 15（同类书按本书分布判）"
+    "basis": "本书 19 章中位 14、最高 15（同类书按本书分布判）"
   },
   "issues": {
     "struct": [],

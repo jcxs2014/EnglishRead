@@ -1,0 +1,347 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/anchored-to-the-storm-by-india-r-adams/ch05 west two.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/anchored-to-the-storm-by-india-r-adams/text/ch05_west_two.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Disgusted, because her boyfriend recently died in a car wreck and she was already replacing him, I shook my head. 'Are y",
+          "ok": true,
+          "pos": 749
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Johnny was gone! The son of a biker—a president at that—was my ace in the hole to see the pastor die. Johnny was the onl",
+          "ok": true,
+          "pos": 2674
+        }
+      ],
+      "words": 74
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "She cried with me. 'I understand.' Her lip trembled. 'We both lost partners.'",
+          "ok": true,
+          "pos": 4809
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Then, without an ounce of warning, I became so tired I could not keep my eyes open. I mumbled, 'Do you guys smell bleach",
+          "ok": true,
+          "pos": 6479
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I was sitting in a tub full of fucking wet Tinker Bell dust. 'But",
+          "ok": true,
+          "pos": 7645
+        },
+        {
+          "text": "How",
+          "ok": true,
+          "pos": 3946
+        },
+        {
+          "text": "'",
+          "ok": true,
+          "pos": 0
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Finally, Finn offered, 'If we guess something that's true,' he pointed, 'you pick a blue flower for Johnny. If we're wro",
+          "ok": true,
+          "pos": 10423
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Again, I racked my brain. Nightmares",
+          "ok": true,
+          "pos": 12357
+        },
+        {
+          "text": "Secrets",
+          "ok": true,
+          "pos": 10261
+        },
+        {
+          "text": "Name—I suddenly remembered the night we heard the new kid screaming. After his Noma's funeral. We ran up to his room in ",
+          "ok": true,
+          "pos": 12404
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Finn shook as he reached out for one more blue flower. 'I don't want to push, but,' he took a deep breath, 'please tell ",
+          "ok": true,
+          "pos": 13464
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Head on Ethan's shoulder, she slowly reached out for the blue flower and laid it",
+          "ok": true,
+          "pos": 13764
+        },
+        {
+          "text": "vertically",
+          "ok": true,
+          "pos": 11967
+        }
+      ],
+      "words": 16
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.48
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.67
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. West Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 13.0,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2644,
+    "block_target": [
+      5,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

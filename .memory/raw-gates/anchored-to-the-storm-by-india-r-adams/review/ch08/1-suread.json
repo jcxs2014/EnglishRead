@@ -1,0 +1,87 @@
+{
+ "chapter": "ch08",
+ "source": "text/ch08_east_five.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Styx",
+   "what": "Styx 交代关系链：他的美人鱼情人就是 Lennox 的生母，名叫 River（英文版叫法，更好发音）。",
+   "anchor": "My mermaid, Lennox’s mother, her name was River. Well, that is the English version and much easier to pronounce.",
+   "line": 21,
+   "span": [
+    270,
+    382
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "当年 Styx 主动献身替子：承诺从上方协助守护两个世界的边界——这是头一遭，人类帮助冥界（underworld）。",
+   "anchor": "So, I offered myself. Promising to help guard their boundary from above.",
+   "line": 21,
+   "span": [
+    777,
+    849
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "交易的「代价」：Styx 有十多年缓冲期，条件是 Lennox 长大后须让另一条美人鱼受孕；他以此买时间想办法脱局。",
+   "anchor": "Well, I had over a decade before the ‘catch’ was to be cashed in. Lennox was to impregnate another mermaid.",
+   "line": 27,
+   "span": [
+    1165,
+    1272
+   ]
+  },
+  {
+   "who": "Maddox",
+   "what": "Maddox 意识到日期对应：父亲正是在他满十岁（第十个 Life Date）那天去世的。",
+   "anchor": "Life Date. My jaw hung. “I turned ten the day he died.”",
+   "line": 51,
+   "span": [
+    3733,
+    3788
+   ]
+  },
+  {
+   "who": "Maddox",
+   "what": "对应神话（违誓之神须饮致昏之水并被放逐九年），Maddox 认出自己桥爆坠水、昏迷被救回的经历等于被放逐了八年。",
+   "anchor": "Sitting forward, hoping it would help me breathe, I mumbled, “I was ‘exiled’ for eight years.”",
+   "line": 63,
+   "span": [
+    4147,
+    4241
+   ]
+  },
+  {
+   "who": "Maddox／Styx",
+   "what": "Maddox 从 Styx 处得知门禁密码的隐藏含义，并惊觉 Styx 早知道 Tallulah 这个女孩（0 留给曾叫他 Nine 的她，且知道他永不会属于她）。",
+   "anchor": "As my door code’s true meaning revealed itself, my jaw unhinged. “You knew of Tallulah.”",
+   "line": 189,
+   "span": [
+    11200,
+    11288
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Maddox 按下遥控数字后脚下混凝土地板滑开，巨大房间中央现出一座隐藏的奥运标准尺寸泳池；Styx 透露 Lennox 早已为它取名 The Lagoon，并补祝 Maddox 迟到的 Life Date。",
+   "anchor": "In the center of this incredibly spacious room was a hidden Olympic-sized pool.",
+   "line": 216,
+   "span": [
+    12323,
+    12402
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "披萨夜话（章末段）：爆炸当夜 Styx 在堤墙边哭诉丧子之痛时，水下浮出发光绿眼的小美人鱼；后来他从 illumination（灵光/精神之光与直觉）一词为她取名 Saleeni，还曾向她许诺 Baby Boy 终会回到她身边。",
+   "anchor": "Then I found a word that encompasses such sights—illumination—but also spiritual light and intuition. It was Saleeni.",
+   "line": 398,
+   "span": [
+    20978,
+    21095
+   ]
+  }
+ ]
+}

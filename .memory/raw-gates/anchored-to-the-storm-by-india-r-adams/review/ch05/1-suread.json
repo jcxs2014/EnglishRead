@@ -1,0 +1,87 @@
+{
+ "chapter": "ch05",
+ "source": "text/ch05_west_two.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Sebastian/Ethan",
+   "what": "Sebastian 骂 Ethan 和 Sarah 是叛徒（载走他复仇希望的车刚开走，两人却在浴室里），Ethan 把他摔进走廊墙里。",
+   "anchor": "Then I flew into a hallway wall, courtesy of Ethan.",
+   "line": 51,
+   "span": [
+    1334,
+    1385
+   ]
+  },
+  {
+   "who": "Sebastian",
+   "what": "Sebastian 的复仇执念：伤害 Blue 的那个混蛋牧师还在逍遥，酒驾司机撞死 Caleb，而 Johnny 原是他借以除掉牧师的王牌。",
+   "anchor": "Knowing that asshole pastor was out there breathing, living his life while Blue was gone infuriated me.",
+   "line": 66,
+   "span": [
+    2123,
+    2226
+   ]
+  },
+  {
+   "who": "Sebastian",
+   "what": "Sebastian 掀翻 Caleb 的床并吼着把他们全都还给我，随后跪地挥拳砸床垫，直到数不清次数、视线模糊。",
+   "anchor": "I grabbed the side edge of Caleb’s bed and lifted with all my power, flipping it over while roaring",
+   "line": 84,
+   "span": [
+    3328,
+    3427
+   ]
+  },
+  {
+   "who": "Sarah/Gage/Ethan",
+   "what": "Sarah 喊着把他放进浴缸，三双男性的手把乱踢乱骂的 Sebastian 抬进浴室；他在水里挣扎后最终平静下来。",
+   "anchor": "Hoisted into the air by three sets of male hands, I was carried into the bathroom",
+   "line": 96,
+   "span": [
+    4200,
+    4281
+   ]
+  },
+  {
+   "who": "Sarah/Sebastian",
+   "what": "Sarah 陪 Sebastian 一起哭，说他们俩都失去了伴侣（她失去男友 Caleb，他失去 Blue）；Seb 把她的手拉到自己胸口道歉。",
+   "anchor": "She cried with me. “I understand.” Her lip trembled. “We both lost partners.”",
+   "line": 114,
+   "span": [
+    4949,
+    5026
+   ]
+  },
+  {
+   "who": "Sarah",
+   "what": "Sarah 把手机凑到 Sebastian 嘴边用识曲 App 识别，宣布他唱的是 Van Morrison 的《Into the Mystic》，还问大家这是不是一支乐队。",
+   "anchor": "Then she announced, “He’s singing ‘Into the Mystic’ by Van Morrison.”",
+   "line": 177,
+   "span": [
+    7357,
+    7426
+   ]
+  },
+  {
+   "who": "Sebastian",
+   "what": "Sebastian 在浴缸里醒来，发现满缸都是闪闪发光的水，他形容为湿透的小叮当尘（wet Tinker Bell dust）。",
+   "anchor": "I was sitting in a tub full of fucking wet Tinker Bell dust.",
+   "line": 192,
+   "span": [
+    7911,
+    7971
+   ]
+  },
+  {
+   "who": "Finn/Sarah",
+   "what": "凉亭花语暗号（猜对拔蓝花、猜错拔黄花示警，蓝宝石花属于 Blue）之下，Sarah 以拔花证实 Blue 噩梦中喊出的名字是新孩子在其 Noma 葬礼后尖叫的 Styx，并确认现在带 Johnny 的 Styx 对他是好的。",
+   "anchor": "After his Noma’s funeral. We ran up to his room in the attic. He was calling out for—“Styx.”",
+   "line": 347,
+   "span": [
+    12927,
+    13019
+   ]
+  }
+ ]
+}

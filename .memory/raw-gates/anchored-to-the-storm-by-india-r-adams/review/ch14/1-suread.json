@@ -1,0 +1,87 @@
+{
+ "chapter": "ch14",
+ "source": "text/ch14_west_seven.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Officer Monroe 与 Officer Vasquez",
+   "what": "Blue 守夜活动几天后，两名警察上门找 Dale Weathers，调查守夜会上发生的抢劫案与一幅 reported stolen 的画像。",
+   "anchor": "Hello. I’m Officer Monroe, and this is Officer Vasquez. Are you, by chance, Dale Weathers?",
+   "line": 33,
+   "span": [
+    592,
+    682
+   ]
+  },
+  {
+   "who": "Officer Monroe",
+   "what": "警察点破巧合：Dale 家里住着四个寄养男孩，而被泼尿的正是四个被损毁的轮胎（牧师的私车）。",
+   "anchor": "you have four foster boys here, and we have four defaced tires.",
+   "line": 78,
+   "span": [
+    1876,
+    1939
+   ]
+  },
+  {
+   "who": "Sebastian",
+   "what": "趁 Dale 陪警察逐屋查看，Sebastian 把 Blue 的画像藏进 Johnny（现归 Finn 用）房门后，拉上滑动镜把门完全遮住，再回床上倒拿书本装作阅读。",
+   "anchor": "I raced to Johnny’s—now Finn’s—entrance and set Blue on the stairs. I shut the door, then slid the mirror over it.",
+   "line": 99,
+   "span": [
+    3111,
+    3225
+   ]
+  },
+  {
+   "who": "Finn",
+   "what": "家庭会议上 Finn 举手当发言人，被 Dale 逼问「牧师对 Blue 来说是谁」后承认：牧师是她的父亲——Dale 和 Harmony 听得说不出话。",
+   "anchor": "Finn squinted. His neck strained. Then he growled, “Her father.”",
+   "line": 213,
+   "span": [
+    7458,
+    7522
+   ]
+  },
+  {
+   "who": "Sebastian",
+   "what": "被 Harmony 苦求后，Sebastian 决定只要能保住 Harmony 的命就可以撒谎——等牧师死后永远不让她知道真相，并当场答应「不夺人性命」。",
+   "anchor": "At that moment, I decided it was okay to lie if it saved Harmony’s life.",
+   "line": 288,
+   "span": [
+    9396,
+    9468
+   ]
+  },
+  {
+   "who": "Harmony",
+   "what": "Harmony 命令所有孩子承诺：这个家里再出任何事（摩托帮相关或别的），不许救她和 Dale，直接躲进 Finn 的房间把镜子拉上藏起来，否则他们分心救孩子反而会被害死。",
+   "anchor": "don’t try to save me or Dale. Get to John—Finn’s room. Pull that mirror over the door.",
+   "line": 297,
+   "span": [
+    9900,
+    9986
+   ]
+  },
+  {
+   "who": "Finn",
+   "what": "篮球场上 Finn 承认牧师那辆被泼尿的奔驰路过并非首次，并透露自己已经搞到一把枪——靠兑现（cashed in）一个人情得来。",
+   "anchor": "Making a shot, he said, “That’s why I got a gun.”",
+   "line": 369,
+   "span": [
+    13395,
+    13444
+   ]
+  },
+  {
+   "who": "Sebastian 与 Finn",
+   "what": "当晚约 12:30 AM，Sebastian 抓到 Finn 半夜溜出走廊——Finn 想替他顶下杀牧师的罪；Sebastian 指着自己说 My kill，Finn 让步回房。章末：从那一刻起我的命运被封定。",
+   "anchor": "That night, it was about 12:30 AM when I caught Finn sneaking down the hallway.",
+   "line": 432,
+   "span": [
+    15369,
+    15448
+   ]
+  }
+ ]
+}

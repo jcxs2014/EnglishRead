@@ -1,0 +1,87 @@
+{
+ "chapter": "ch16",
+ "source": "text/ch16_west_eight.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Sarah（借人鱼视角的异象）",
+   "what": "睡梦异象中，Sarah 的「海族」家人在爆炸中几乎被灭族，鲜血化入水中、带着讯息。",
+   "anchor": "The sun broke through to reveal the atrocity: my family, my sea folk, had been decimated.",
+   "line": 24,
+   "span": [
+    809,
+    898
+   ]
+  },
+  {
+   "who": "Lennox Gentry／人鱼",
+   "what": "异象里人鱼认出那位嘶喊儿子 Maddox 的人类父亲是 Lennox Gentry——即 River Styx 之子。",
+   "anchor": "The mystical swimmer knew this was Lennox Gentry. The son of River Styx.",
+   "line": 30,
+   "span": [
+    1145,
+    1217
+   ]
+  },
+  {
+   "who": "Sarah／Caleb",
+   "what": "Sarah 深夜跑到 Caleb 坟前跪倒痛哭，发现自己仍与亡者相连，并向夜空飞吻致谢。",
+   "anchor": "My knees buckled at his grave. “Caleb,” I cried, my hands catching me before I crumbled fully.",
+   "line": 54,
+   "span": [
+    2797,
+    2891
+   ]
+  },
+  {
+   "who": "Sebastian／Sarah",
+   "what": "Sarah 撞见 Sebastian 全身黑衣、手拿钥匙溜出家门，便跟到车边以「再拒绝就尖叫」逼他带上自己——Seb 此行是去监视牧师。",
+   "anchor": "I heard the door crack open and was stunned to see Sebastian fully dressed in black clothing, sneaking out of the house.",
+   "line": 72,
+   "span": [
+    3473,
+    3593
+   ]
+  },
+  {
+   "who": "Sarah／Sebastian",
+   "what": "夜探牧师住处时，两人看到他正在建围栏社区、成排新房与另一座教堂，借网络与访谈招募新成员（新受害者）；Sarah 觉得此人在对标著名的 Warren Jeffs。",
+   "anchor": "I got the unsettling sense someone wanted to compete with the famous Warren Jeffs.",
+   "line": 150,
+   "span": [
+    7084,
+    7166
+   ]
+  },
+  {
+   "who": "River Styx／人鱼",
+   "what": "异象续篇：男孩 Maddox 被飞行器接走后人鱼举目无亲，River Styx 成为她唯一的朋友并给她取名 Saleeni，此后 River 也不再出现。",
+   "anchor": "With no family now, I was utterly alone. My only friend became River Styx. He named me Saleeni.",
+   "line": 207,
+   "span": [
+    9478,
+    9573
+   ]
+  },
+  {
+   "who": "Sarah",
+   "what": "Sarah 向围坐的众人揭底：小时候嘴疼时大喊的「Mad G」就是 Johnny 的真名——Maddox Gentry。",
+   "anchor": "“When our mouths hurt, we yelled it. ‘Mad G’. It stands for Maddox Gentry.”",
+   "line": 294,
+   "span": [
+    12700,
+    12775
+   ]
+  },
+  {
+   "who": "Sarah",
+   "what": "结尾：Sarah 被通风管里惊慌的人声吵醒（Harmony 在问「他们去哪了」、有人答「去找牧师，我得去把他们弄回来」），她当即穿衣冲下楼、爬进车库面包车后排藏好，要去找这群人。",
+   "anchor": "I rushed out of my room, down the hall, down the stairs, through the kitchen, and into the garage.",
+   "line": 437,
+   "span": [
+    18220,
+    18318
+   ]
+  }
+ ]
+}

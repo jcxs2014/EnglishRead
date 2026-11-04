@@ -1,0 +1,87 @@
+{
+ "chapter": "ch06",
+ "source": "text/ch06_west_three.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Ethan",
+   "what": "Ethan 搂着 Sarah 闭眼松了口气——Styx 对 Johnny 是好的，他终于能呼吸了。",
+   "anchor": "Holding Sarah close to me, my eyes slid shut in relief. Styx is good for Johnny.",
+   "line": 18,
+   "span": [
+    62,
+    142
+   ]
+  },
+  {
+   "who": "Weathers 夫妇（Dale 和 Harmony）",
+   "what": "五个寄养孩子全在车祸中头部受伤，但 Weathers 夫妇不能带他们看医生或进急诊，否则当局介入会把他们拆散送走。",
+   "anchor": "with five foster children who all sustained head injuries without authorities being involved",
+   "line": 21,
+   "span": [
+    592,
+    684
+   ]
+  },
+  {
+   "who": "Ethan",
+   "what": "Dale 和 Harmony 跑腿买回共享车替代品——旧得多的红色吉普（金属车身、带防滚杠，像七十年代的 Tonka 玩具），Ethan 给它起名 Indestructible Tonka。",
+   "anchor": "But for the lovable foster parents who refused to give up on us, I numbly named it: “Indestructible Tonka.”",
+   "line": 48,
+   "span": [
+    2146,
+    2253
+   ]
+  },
+  {
+   "who": "Sebastian/Ethan",
+   "what": "深夜查房时 Sebastian 睡梦中手臂垂在床外、手指伸展似要抓什么；Ethan 关门离开时听见他咕哝出 Zero-four-nine-nine。",
+   "anchor": "As I shut the door, he mumbled, “Zero-four-nine-nine.” Huh?",
+   "line": 123,
+   "span": [
+    6408,
+    6467
+   ]
+  },
+  {
+   "who": "Sarah/Ethan",
+   "what": "Sarah 抚摸 Ethan 烧伤的脸，说他永远无法让她相信妹妹的死是他的错；Ethan 没有放火，却一直把妹妹的死归为己罪。",
+   "anchor": "You will never convince me her death is your fault.",
+   "line": 195,
+   "span": [
+    10384,
+    10435
+   ]
+  },
+  {
+   "who": "Sarah",
+   "what": "Sarah 一直拨打 Johnny 的电话，但号码已注销（disconnected）；她说能感觉到 Johnny 想打电话回家。",
+   "anchor": "She shrugged, and her voice failed her. “Even though the number is disconnected.”",
+   "line": 210,
+   "span": [
+    11274,
+    11355
+   ]
+  },
+  {
+   "who": "Sarah/Ethan",
+   "what": "Sarah 坦言已爱了 Ethan 很久、说她不再年幼，随即猛地把嘴唇压到 Ethan 嘴上。",
+   "anchor": "Sarah growled, “I’m not too young anymore,” before slamming her lips to mine.",
+   "line": 282,
+   "span": [
+    13974,
+    14051
+   ]
+  },
+  {
+   "who": "五人（Ethan/Sarah/Gage/Finn/Sebastian）",
+   "what": "Sarah 咬向 Ethan 脖子后，五个人全都捂着嘴、口齿不清地同喊 Mad G! Mad G!——嘴部剧痛在血誓相连的五人间同步。",
+   "anchor": "our mouths were aching like a sonofabitch, but only managed to yell, “Mad G! Mad G!”",
+   "line": 327,
+   "span": [
+    15862,
+    15946
+   ]
+  }
+ ]
+}

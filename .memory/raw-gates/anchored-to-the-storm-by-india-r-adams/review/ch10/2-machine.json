@@ -1,0 +1,489 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/anchored-to-the-storm-by-india-r-adams/ch10 west four.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/anchored-to-the-storm-by-india-r-adams/text/ch10_west_four.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He was the one who insisted I go to counseling because some cruelties had ways of digging deep and forming barbs that we",
+          "ok": true,
+          "pos": 923
+        }
+      ],
+      "words": 78
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "'And to me, you'll always be my son.'",
+          "ok": true,
+          "pos": 2076
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Wham! That's what the truth felt like to my stomach. A gut punch, reminding me that my failure had been right there all ",
+          "ok": true,
+          "pos": 3540
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He rocked me. 'It was the drunk driver's fault.' He whispered in my ear, 'That's why I'm not sorry the asshole is dead.'",
+          "ok": true,
+          "pos": 4355
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "I suddenly remembered Sarah, in the car the night Blue died. She sneered. 'You cross lines in your sleep.' She declared,",
+          "ok": true,
+          "pos": 4957
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "'I said beat, didn't I?' Dale held up two fists. The ones he taught us how to spar with and protect ourselves with. 'I t",
+          "ok": true,
+          "pos": 6330
+        }
+      ],
+      "words": 49
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "'An innocent child was found in a field nearby our church. A godly place! I'm devastated. Our entire community has been ",
+          "ok": true,
+          "pos": 10423
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Taking a deep breath, thinking of precious Blue, I knew I could kill for her. However, as Dale warned, I couldn't let my",
+          "ok": true,
+          "pos": 11259
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Shockingly, the only one seeming to have doubts like me was Sarah. Her hands wrung, over and over. 'Don't you all feel l",
+          "ok": true,
+          "pos": 14511
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Er",
+          "ok": true,
+          "pos": 51
+        },
+        {
+          "text": "I shook my head, praying he could hear me. 'No. Seb. No sea. She's in Heaven's gracious hands now.'",
+          "ok": true,
+          "pos": 15600
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Tightening my hold, I vowed, 'I will. Just be smart about it. Let's keep Dale off our course, and let's be sure we don't",
+          "ok": true,
+          "pos": 15983
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "The old Sebastian faded away as a livid man took his place once again. 'And I get to do it.'",
+          "ok": true,
+          "pos": 16284
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "I hope you forgive me for taking that from you",
+          "ok": true,
+          "pos": 16381
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "She exhaled with a little smile as if I couldn’t have answered better. “I have to find Johnny.”",
+          "ok": true,
+          "pos": 17217
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "Sarah added, “I don’t know why, but I’m sure we have to stop them from killing the pastor.”",
+          "ok": true,
+          "pos": 17323
+        }
+      ],
+      "words": 18
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.47
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.63
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 16
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.4
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 34,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. West Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 14.0,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3455,
+    "block_target": [
+      6,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 14、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,87 @@
+{
+ "chapter": "ch18",
+ "source": "text/ch18_west_nine.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Gage／其父",
+   "what": "Gage 自述童年：父亲像办非法斗狗一样把他关起来逼他与人搏斗求生，甚至逼他对 Sam 下手；父亲的虐童犯罪圈被端掉后他被带走。",
+   "anchor": "He even forced me to beat… I can’t talk about what I was forced to do to Sam.",
+   "line": 21,
+   "span": [
+    501,
+    578
+   ]
+  },
+  {
+   "who": "Gage／Johnny",
+   "what": "Gage 鬼使神差握住倒在 Sarah 身上、正被做心肺复苏的「死者」的手，对其耳语 Brother, you don't need air to breathe——ski mask 下的 Johnny 应声睁眼，第一句先问 Sarah 是否没事，随后人消失得无影无踪。",
+   "anchor": "I leaned down to his ear and simply whispered, “Brother, you don’t need air to breathe.”",
+   "line": 72,
+   "span": [
+    3145,
+    3233
+   ]
+  },
+  {
+   "who": "Dale／Finn／Sebastian",
+   "what": "Dale 赶到后把牧师往死里揍（旁人拉阻不住）；与此同时 Finn 和 Sebastian 从牧师家中带出一个只穿沾污粉色睡裙的小女孩。",
+   "anchor": "Finn and Sebastian were exiting the pastor’s home with a tiny girl.",
+   "line": 84,
+   "span": [
+    4170,
+    4237
+   ]
+  },
+  {
+   "who": "Gage／Sarah／Sebastian",
+   "what": "Gage 惊叹地对 Sebastian 说「你刚救了 Blue 的妹妹」；Sarah 跪地落泪，称自己此刻能感到 Blue，并发誓守护这个小女孩。",
+   "anchor": "With an astonished smile, I looked to Sebastian. “You just rescued Blue’s sister.”",
+   "line": 120,
+   "span": [
+    5735,
+    5817
+   ]
+  },
+  {
+   "who": "蒙面男／Finn",
+   "what": "为让三人装作无事，另一名蒙面男塞给 Finn 五十美元，命令他们去麦当劳清空芝士汉堡、然后马上回家。",
+   "anchor": "Another man handed Finn fifty bucks. “For now, act normal. Go to McDonald’s, clean them out of cheeseburgers, then get your asses home.”",
+   "line": 268,
+   "span": [
+    12576,
+    12712
+   ]
+  },
+  {
+   "who": "Kristen／Sarah",
+   "what": "Kristen 抚着小女孩与 Blue 一模一样的白发介绍：她真名 Hephzibah 但她不喜欢；Sarah 指着 Blue Bell 冰淇淋桶宣布她给自己选了新名字 Bluebell。",
+   "anchor": "“Boys, this precious angel doesn’t like her name, Hephzibah, but she looooves ice cream.”",
+   "line": 361,
+   "span": [
+    15777,
+    15866
+   ]
+  },
+  {
+   "who": "Gage／Ethan／Seb",
+   "what": "深夜异响加短信惊醒 Gage 与 Ethan；Sebastian 也收到同一条短信——Kristen 发来的只有一个词：Hide!（快藏起来），三人随即去转移 Bluebell 与 Sarah。",
+   "anchor": "Panicked, Seb held up his phone, showing he got the same text. One very powerful word from Kristen:",
+   "line": 513,
+   "span": [
+    22360,
+    22459
+   ]
+  },
+  {
+   "who": "Gage",
+   "what": "结尾：楼下枪响与扭打归于死寂、密室镜门把手转动之际，Gage 握拳对兄弟们喊出最后一句话——给他们狠狠地还击。",
+   "anchor": "So, I said, “Give ’em all the hell you got, my brothers.”",
+   "line": 621,
+   "span": [
+    27100,
+    27157
+   ]
+  }
+ ]
+}

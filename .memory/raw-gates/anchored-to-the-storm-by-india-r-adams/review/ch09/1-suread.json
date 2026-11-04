@@ -1,0 +1,87 @@
+{
+ "chapter": "ch09",
+ "source": "text/ch09_east_six.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Styx",
+   "what": "Styx 向 Maddox 通报坏消息：虽然 Sea-Dude 已消失，但他的誓言仍在，而 Misfits（Maddox 的寄养伙伴们）已开始出现征兆（showing signs）。",
+   "anchor": "He appeared to hate being the bearer of bad news. “Yeah, I’m sorry, Baby Boy. They are showing signs.”",
+   "line": 27,
+   "span": [
+    469,
+    571
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "面对 Maddox 质问誓言内容，Styx 如公牛般吼了回去：誓言是守护大门——而且是你的大门（Maddox 相关的界门）。",
+   "anchor": "Like a bull sure to keep a testosterone-riddled elephant in check, this man roared back, “To protect the gates!”",
+   "line": 33,
+   "span": [
+    842,
+    954
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Maddox 猜自己是不是冥界，Styx 深深呼气后给出判断：不，他认为是 Maddox 本身是边界（Boundary）；边界通向什么，要 Maddox 将来亲口告诉他。",
+   "anchor": "but his answer felt as if he believed it. “No. I think you’re the Boundary.”",
+   "line": 48,
+   "span": [
+    1669,
+    1745
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 回忆当年割伤雄人鱼手臂后获得知识冲击：感知剧变，仿佛多出了五十双眼睛，短时间内能同时看见四周的一切。",
+   "anchor": "My perception changed, so epically, it was as if I gained fifty more sets of eyes.",
+   "line": 63,
+   "span": [
+    2571,
+    2653
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "被 Maddox 问到你怎么知道我离开是为给他们力量时，Styx 得意坦白：他们（we）一直在暗中注视着 Maddox。",
+   "anchor": "As if happy to have been caught, he smirked. “Silly little rabbit, we have been watching you all along.”",
+   "line": 93,
+   "span": [
+    4334,
+    4438
+   ]
+  },
+  {
+   "who": "Maddox",
+   "what": "Maddox 噩梦中重历 Fellow Foster Ethan 的过去：继父纵火，母亲的蓝眼睛死在火场，他抬头看见小妹妹 Sadie 被抓着头发吊在火上、光着的小脚挣扎。",
+   "anchor": "My brain struggles to understand what my eyes are showing me as I scan up to see my little sister, hanging by her hair.",
+   "line": 240,
+   "span": [
+    10941,
+    11060
+   ]
+  },
+  {
+   "who": "Maddox",
+   "what": "Maddox 与 Saleeni 共感记忆，看到她太年轻没靠近家人反而因此得救：她全家死于绑在桥墩上的炸弹（即 Lennox 父子出事那颗）。",
+   "anchor": "I drew in air to speak of that horrid day. “From the bomb attached to a bridge’s pillar.”",
+   "line": 347,
+   "span": [
+    15857,
+    15946
+   ]
+  },
+  {
+   "who": "Styx／Maddox",
+   "what": "章末双重揭示：追杀父子二人的俱乐部并非栽弹者——炸弹冲的是 Saleeni 的族人；随后 Styx 盯着 Maddox 受伤的手指惊恐点破：弹中族人的血与他本人的血混在了一起，他不只承袭 River 的 DNA，而是某种未知数量的混血。",
+   "anchor": "Styx stared at my damaged finger. “The bomb. Their blood—” His eyes rose and were full of terror, “—mixed with yours.”",
+   "line": 443,
+   "span": [
+    19285,
+    19403
+   ]
+  }
+ ]
+}

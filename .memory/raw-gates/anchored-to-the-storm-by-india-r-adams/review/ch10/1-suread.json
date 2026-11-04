@@ -1,0 +1,87 @@
+{
+ "chapter": "ch10",
+ "source": "text/ch10_west_four.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Dale",
+   "what": "Dale 在楼梯口把 Finn 搂进怀里安慰，说自己只爱好人、Finn 是最好的人之一，视他如儿子。",
+   "anchor": "I only love good people.” He pulled me into an embrace I needed, even though I fought it.",
+   "line": 123,
+   "span": [
+    4244,
+    4333
+   ]
+  },
+  {
+   "who": "Dale",
+   "what": "Dale 告诉 Finn：他原本一直指望 Johnny，现在改指望 Finn 顶上、撑起这个家。",
+   "anchor": "But it’s you I’m counting on now. You’re ready to step up and handle it.",
+   "line": 81,
+   "span": [
+    3234,
+    3306
+   ]
+  },
+  {
+   "who": "Finn",
+   "what": "Finn 一直自责害死了 Caleb（自认 Ever since I got Caleb killed），Dale 强调那是一场事故、没人怪他，Finn 推开他崩溃大哭。",
+   "anchor": "A gut punch, reminding me that my failure had been right there all along. Ever since I got Caleb killed.",
+   "line": 96,
+   "span": [
+    3723,
+    3827
+   ]
+  },
+  {
+   "who": "Dale",
+   "what": "Dale 透露：打死 Caleb 的那名酒驾司机是被人用拳头活活打死（beat to death），现场没有武器、漂白水太多验不出 DNA。",
+   "anchor": "There was too much bleach to get any DNA, but no weapon was involved according to the coroner.",
+   "line": 204,
+   "span": [
+    6782,
+    6876
+   ]
+  },
+  {
+   "who": "Dale",
+   "what": "Finn 问是你干的吗，Dale 断然否认并暗示动手的是 Johnny：法医公布的死亡时间段正好与 Johnny 离开家的时间吻合（To a T）。",
+   "anchor": "Can’t be sure, but the coroner announced a timeframe that sure fits him leaving here.",
+   "line": 165,
+   "span": [
+    5439,
+    5524
+   ]
+  },
+  {
+   "who": "the pastor",
+   "what": "杀害 Blue 的牧师就 Blue 之死召开新闻发布会假哭卖惨、采访疯传，并宣布当晚八点在教堂举行守夜与点灯仪式、放飞数十盏灯笼。",
+   "anchor": "We welcome everyone to come to our house of worship at eight o’clock tonight for a gathering of prayer, hope, and a lighting ceremony.",
+   "line": 320,
+   "span": [
+    12097,
+    12231
+   ]
+  },
+  {
+   "who": "Sebastian",
+   "what": "一周后 gazebo 会议上 Seb 崩溃坚称牧师必须死、且该由我来动手，Finn 暗下决心学 Johnny 替大家动手，免得众人坐牢。",
+   "anchor": "I don’t know what I’m doing, but that man has to die.",
+   "line": 413,
+   "span": [
+    16363,
+    16416
+   ]
+  },
+  {
+   "who": "Sarah／Finn",
+   "what": "章末：Sarah 夜访 Finn（Johnny 的旧房间），二人结盟——必须找到 Johnny、阻止大家去杀牧师，并认定 Kristen 是关键。",
+   "anchor": "I don’t know why, but I’m sure we have to stop them from killing the pastor.",
+   "line": 463,
+   "span": [
+    17987,
+    18063
+   ]
+  }
+ ]
+}

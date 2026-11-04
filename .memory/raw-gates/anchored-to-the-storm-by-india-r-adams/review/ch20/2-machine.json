@@ -1,0 +1,504 @@
+{
+  "chapter": 20,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/anchored-to-the-storm-by-india-r-adams/ch20 west ten.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/anchored-to-the-storm-by-india-r-adams/text/ch20_west_ten.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was the flowers we had planted",
+          "ok": true,
+          "pos": 3797
+        },
+        {
+          "text": "Oh, my Caleb",
+          "ok": true,
+          "pos": 3832
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Opening my eyes, I took the last step forward and placed a hand on his left shoulder. I whispered, 'My turn to give you ",
+          "ok": true,
+          "pos": 4834
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Chills broke out over my whole body as I fully realized the young man named Johnny was gone. However, the admirable qual",
+          "ok": true,
+          "pos": 5794
+        },
+        {
+          "text": "ethereal",
+          "ok": true,
+          "pos": 6055
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Slowly and pitifully, Maddox turned in the chair, exposing a ghastly mutilated corpse behind him. The pastor had been st",
+          "ok": true,
+          "pos": 6521
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "As if the fatigue of killing someone so brutally had finally caught up to Maddox's human side, he barely rose from the c",
+          "ok": true,
+          "pos": 7490
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "'No.' With the weapon in one hand, blood and tissue dripping, I proudly wrapped my arms around Maddox. 'You don't know h",
+          "ok": true,
+          "pos": 7769
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "'That you're still made of brass. A wonderful element, full of nature, strength, and the ability to survive anything.'",
+          "ok": true,
+          "pos": 8427
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "I found a washcloth and soap, then proceeded to clean his chest and stomach of the recently dried blood stuck to them. O",
+          "ok": true,
+          "pos": 12000
+        }
+      ],
+      "words": 63
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Maddox grabbed my hand, then pulled it to his damp cheek. He sighed. 'Noma loved his music.'",
+          "ok": true,
+          "pos": 13344
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "'Listen, two cops will be found murdered. Two foster parents deceased. And five registered foster children MIA.' She suc",
+          "ok": true,
+          "pos": 17538
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "'Baby Boy and I planned on taking his Noma home with us, but",
+          "ok": true,
+          "pos": 19559
+        },
+        {
+          "text": "' His lips pursed and moved, as this strong man fought not to cry. 'She will have to wait a little longer.' He coughed. ",
+          "ok": true,
+          "pos": 19620
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Then he finally admitted, 'Someday you will learn more, but 'Johnny' has had eyes on him since before he came to you yea",
+          "ok": true,
+          "pos": 20252
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Out in the water, the two embraced. They kissed, and they gave us hope. They gave us the strength for a goodbye we could",
+          "ok": true,
+          "pos": 25379
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "What would come next for us all was undetermined. Fate. Or maybe a little nudge from the River Styx and his ferry throug",
+          "ok": true,
+          "pos": 27505
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句15",
+      "no": 15,
+      "segments": [
+        {
+          "text": "We are life",
+          "ok": true,
+          "pos": 27830
+        },
+        {
+          "text": "for each other",
+          "ok": true,
+          "pos": 27843
+        }
+      ],
+      "words": 6
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.37
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.56
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 30,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 72,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.25
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 38,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 68,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句15",
+      "cjk": {
+        "中文理解": 8,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.83
+      }
+    }
+  ],
+  "form": {
+    "h1": "20. West Ten",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 15,
+    "block_median": 13.0,
+    "block_range": [
+      9,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 15,
+    "quote_long": 0,
+    "segments": 19,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5186,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 19 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

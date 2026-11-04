@@ -1,0 +1,87 @@
+{
+ "chapter": "ch17",
+ "source": "text/ch17_east_nine.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Saleeni／Maddox",
+   "what": "Saleeni 在水中化作人形：长鳍变成小腿小脚（头靠在 Maddox 肩上时小脚够不到他的脚踝），浑身冰冷疲惫——她生平第一次离开水。",
+   "anchor": "Her long fin had transformed into petite legs and little feet that didn’t reach my ankles when she rested her head on my shoulder.",
+   "line": 18,
+   "span": [
+    176,
+    306
+   ]
+  },
+  {
+   "who": "Maddox／Styx",
+   "what": "Maddox 把泳池边注视自己的 Styx 当作祖父——他知道这位老人愿意为他去死，觉得比 Neil Armstrong 背后的团队更可靠；Styx 随后送来四条毛巾、和他碰杯喝啤酒。",
+   "anchor": "I had a grandfather who was staring at me. His eyes were determined. I knew he was willing to die for me.",
+   "line": 87,
+   "span": [
+    3249,
+    3354
+   ]
+  },
+  {
+   "who": "Saleeni",
+   "what": "变身耗尽了她：Saleeni 一连睡了两天，不吃也不游，只有 Maddox 恳求才短暂睁眼微笑又睡去；咬痕已愈合成与 Maddox 身上一样神秘的古老符号。",
+   "anchor": "Saleeni slept for two days. She didn’t wake to eat or swim.",
+   "line": 142,
+   "span": [
+    5684,
+    5743
+   ]
+  },
+  {
+   "who": "Styx／Maddox",
+   "what": "Styx 在无窗、摆着十二把圆桌椅的 Church 房里让 Maddox 签两份文件——一份署名 Maddox Gentry、另一份署名 Johnny Watts，另交给他需眼球验证的密码板。",
+   "anchor": "One folder read Maddox Gentry and the other Johnny Watts.",
+   "line": 163,
+   "span": [
+    7358,
+    7415
+   ]
+  },
+  {
+   "who": "Saleeni",
+   "what": "Saleeni 揭示变身之险：有的同类没能顺利变成人——骨头脆裂、惨叫而死；她还解释有些结合是 Karon 强迫所致、成了他恶行的证据，她相信 Karon 造成了许多不幸（Maddox 推断 Karon 就是那位「海神」）。",
+   "anchor": "“Some didn’t turn human well. Brittle bones shattered. They screamed in pain.”",
+   "line": 361,
+   "span": [
+    15448,
+    15526
+   ]
+  },
+  {
+   "who": "Styx／Maddox",
+   "what": "人鱼在泳池变回长尾原形、断续交代「必须救她（不是 Sweets）」后，Maddox 与 Styx 开着装满武器弹药的租来黑色 SUV 西行；Styx 递过信封让他背好旅行化名——自己化名 Tom Le Cruise。",
+   "anchor": "Learn your traveling name in case we get pulled over. I’m now Tom Le Cruise.",
+   "line": 513,
+   "span": [
+    21185,
+    21261
+   ]
+  },
+  {
+   "who": "Maddox／叔叔们",
+   "what": "驶过加州州界后 Maddox 得知：他以为在十岁 Life Date 遇难的两位叔叔中，Uncle Heron 与 River Phlegethon（Uncle Pledge）确已离世，而 Letti、Cocky（River Lethe、River Cocytus）幸存，并因誓言一直守护着 Misfits。",
+   "anchor": "Uncle Heron passed that day, and so did River Phlegethon—Uncle Pledge.",
+   "line": 537,
+   "span": [
+    22104,
+    22174
+   ]
+  },
+  {
+   "who": "Maddox／牧师",
+   "what": "结尾：牧师举步枪瞄准 Sarah、骂她给 Blue 灌输了胡话，Maddox 冲上前以身作盾——霰弹击中他的背，他知道自己挡成功了。",
+   "anchor": "When the buckshot slammed into my back, I knew I had succeeded.",
+   "line": 777,
+   "span": [
+    31635,
+    31698
+   ]
+  }
+ ]
+}

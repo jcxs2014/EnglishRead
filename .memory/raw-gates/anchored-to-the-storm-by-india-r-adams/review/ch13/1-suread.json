@@ -1,0 +1,87 @@
+{
+ "chapter": "ch13",
+ "source": "text/ch13_east_seven.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Mad-G（Maddox）",
+   "what": "隧道贯通前做测试：Mad-G 在海堤外放下带重物的绳子到预测测量深度，Saleeni 沿墙随绳下潜后又游回他身边，指耳朵表示听得见他过来的动静。",
+   "anchor": "Outside at the seawall, I dropped a weighted string down the predicted measured amount.",
+   "line": 39,
+   "span": [
+    1344,
+    1431
+   ]
+  },
+  {
+   "who": "Mad-G（Maddox）与 Styx",
+   "what": "海堤外侧深十英尺才到水面，推独轮车上堤危险打滑，于是隧道整体逐渐下降近两层楼高，Styx 不想让她的入口从地面被看见。",
+   "anchor": "slipping and sliding over the outside seawall that was ten feet deep before reaching water.",
+   "line": 36,
+   "span": [
+    1084,
+    1175
+   ]
+  },
+  {
+   "who": "Mad-G 与 Saleeni",
+   "what": "Mad-G 违反 Styx「让 Saleeni 藏好」的新规矩，趴在堤上向她招手要求亲吻；本想短吻，却抓住她的后脑与脖颈不肯放手。",
+   "anchor": "I reached over, waving her to me. “Kiss me, Saleeni.”",
+   "line": 48,
+   "span": [
+    1797,
+    1850
+   ]
+  },
+  {
+   "who": "Styx（Gramps）",
+   "what": "脱险浮出水面后，Styx 吻了双指举向天花板，向 Lennox（Maddox 已故的父亲）告慰说「我希望你看到了这一切」。",
+   "anchor": "he kissed two fingers, then held them up to the ceiling. “Lennox, I hope you’re seeing this.”",
+   "line": 192,
+   "span": [
+    8371,
+    8464
+   ]
+  },
+  {
+   "who": "Saleeni",
+   "what": "凿穿瞬间海水灌入，Styx 大喊 Run! 把 Mad-G 推出去，两人被急流卷走、气瓶和头灯都被冲掉；绿眼发光的 Saleeni 追上来抓住 Mad-G 的手，用尾把他们沿隧道拖出水面。",
+   "anchor": "Green? I dared to look behind me. There she was, my beautiful siren, eyes beaming, gaining on us.",
+   "line": 168,
+   "span": [
+    7280,
+    7377
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 借口去淋浴好让两人独处，离开前把隧道起点处的闸门滑上，解释说不知会有什么大鱼游进池里（此前两人讨论过包括鲨鱼的情形）。",
+   "anchor": "Before he left the lagoon to slip into his room next to mine, he slid shut a gate at the beginning of the tunnel.",
+   "line": 213,
+   "span": [
+    9250,
+    9363
+   ]
+  },
+  {
+   "who": "Mad-G 与 Saleeni",
+   "what": "Saleeni 以手语请求「在隧道里游泳」（即放她回大海），Mad-G 身体发抖、声音开裂地对她撒谎说：当然，宝贝，你想的话我送你游回大海。",
+   "anchor": "My voice cracked as I lied, “Of course, baby. I want you to swim back to the ocean if that’s what you want.”",
+   "line": 282,
+   "span": [
+    11914,
+    12022
+   ]
+  },
+  {
+   "who": "Mad-G",
+   "what": "Mad-G 抬起闸门放走 Saleeni，独自发抖地自语 I am the motherfucking storm，随后把闸门整个扔向墙壁，自己倒在地板上。",
+   "anchor": "My jaw locked, and I repeated words. I am the motherfucking storm. Then I threw the gate.",
+   "line": 315,
+   "span": [
+    12693,
+    12782
+   ]
+  }
+ ]
+}
