@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "在登机口候机时，Rena 主张“谷物棒可以当晚餐”，Lucas 认真纠正说必须吃真正的晚餐。",
+    "anchor": "Granola bars can be dinner.",
+    "start": 359,
+    "end": 386
+  },
+  {
+    "fact": "Lucas 请邻座老人帮忙照看两人的座位和行李几分钟，随后带 Rena 离座，并解释自己趁她离开时已与这位看高尔夫杂志的老人聊过天。",
+    "anchor": "watching our seats and our bags for a few minutes",
+    "start": 553,
+    "end": 602
+  },
+  {
+    "fact": "一位老妇人经过时挥动玻璃杯，把水洒在 Lucas 肩上；她儿子 David 涨红脸连声道歉，老妇人只说“只是洒了一点”。",
+    "anchor": "Calm down, David.",
+    "start": 2850,
+    "end": 2867
+  },
+  {
+    "fact": "Lucas 调侃老妇人有点像 Rena 的 Gran，并提起这位外婆从不认可他，还说他会长大成像自己父亲一样乏味的人。",
+    "anchor": "grow up to be as bland as my father.",
+    "start": 3937,
+    "end": 3973
+  },
+  {
+    "fact": "Lucas 假想两人此刻在机场初次相遇，称自己没胆量上前搭话，只会远远欣赏、并用余生惦记“机场那个漂亮女孩”这个错过的遗憾。",
+    "anchor": "the pretty girl at the airport as the one that got away.",
+    "start": 5503,
+    "end": 5559
+  },
+  {
+    "fact": "回忆里，弟弟 Kieran 坐在 Rena 房间地板上给指甲涂亮黑色甲油，许诺“总有一天我们一起搬出去住，那会很棒”。",
+    "anchor": "he was painting his fingernails a crisp, glossy black",
+    "start": 6546,
+    "end": 6599
+  },
+  {
+    "fact": "十七岁毕业前，Kieran 再次提起同住约定并拿出自制电子表格计划：第三年两人将合租位于两校之间、通勤相等的 Westmount 公寓，并已逐项算好全年要存的钱。",
+    "anchor": "We get an apartment together in Westmount.",
+    "start": 9109,
+    "end": 9151
+  },
+  {
+    "fact": "结尾 Lucas 早上那句“他是不是永远排第一”在 Rena 耳边回响；她记得自己向 Kieran 承诺过、不是会食言的人——但最后补上“通常”，暗示这次可能例外。",
+    "anchor": "not one to go back on her promises.",
+    "start": 10283,
+    "end": 10318
+  }
+]
