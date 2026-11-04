@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Rena 对 Lucas 说自己需要一分钟，随后拒绝他陪同、让他别跟来，独自走开。",
+    "anchor": "“I need a minute,” Rena says, strangled.",
+    "start": 105,
+    "end": 145
+  },
+  {
+    "fact": "Lucas 追问她今晚到底怎么了，Rena 把想说的全部咽回去，只低声说自己只是累了，并道歉。",
+    "anchor": "“I’m just tired,” she whispers.",
+    "start": 650,
+    "end": 681
+  },
+  {
+    "fact": "信息台旁约半打穿圣诞毛衣、手拿乐谱夹的人围成半圆唱起《Holly Jolly Christmas》，Rena 僵住，因为那晚急诊室里放的正是这首歌。",
+    "anchor": "half dozen people in Christmas sweaters",
+    "start": 979,
+    "end": 1018
+  },
+  {
+    "fact": "Rena 在礼品店门口看见 Kieran 一边和收银员说话、一边挥着一卷蓝色礼物包装纸，Zach 仍跟在他身边。",
+    "anchor": "gesturing with a tube of blue gift wrap",
+    "start": 2053,
+    "end": 2092
+  },
+  {
+    "fact": "Rena 见 Zach 以毫不设防的样子注视 Kieran，那 amused、admiring 的眼神和 Josiah 那年夏天一样，顿时警觉起来。",
+    "anchor": "At the unguarded way Zach is watching Kieran",
+    "start": 2597,
+    "end": 2641
+  },
+  {
+    "fact": "Rena 走到一处正在施工的航站楼尽头、黑暗安静的登机口，给 Oscar 打 FaceTime，Oscar 和 Siobhan 在多伦多公寓的大沙发上接起。",
+    "anchor": "enormous squashy couch in their Toronto apartment",
+    "start": 4248,
+    "end": 4297
+  },
+  {
+    "fact": "Oscar 举两根手指指出 Rena 一学期只给他们打过两次 FaceTime；Rena 问 Siobhan 当初怎么知道订婚是好主意，Siobhan 说想到拒绝就像心口挨了一拳。",
+    "anchor": "it felt like a punch to the gut.",
+    "start": 7000,
+    "end": 7032
+  },
+  {
+    "fact": "Oscar 问明天能不能见面，Rena 说那会很好；挂断后她盯着左手空着的无名指，最终认定答案是 No。",
+    "anchor": "blow to the chest.\n\n\nNo.",
+    "start": 9096,
+    "end": 9120
+  }
+]

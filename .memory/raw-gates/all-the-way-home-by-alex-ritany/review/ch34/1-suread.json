@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Kieran 在航站楼里指着柱子旁一辆没人用的空行李推车，Zach 说着 Oh no 还是跟着他走了过去。",
+    "anchor": "Kieran points down the hall at a baggage cart",
+    "start": 421,
+    "end": 466
+  },
+  {
+    "fact": "Kieran 让 Zach 坐上行李推车，Zach 坐上后嘟囔说要是害死他，Tove 会气疯。",
+    "anchor": "Zach gets on the cart.",
+    "start": 962,
+    "end": 984
+  },
+  {
+    "fact": "几小时前瞪过他们的同一名保安大喊着追来，Kieran 急刹车、Zach 跳下车两人分头逃跑。",
+    "anchor": "same security guard who had scowled at them hours earlier",
+    "start": 2196,
+    "end": 2253
+  },
+  {
+    "fact": "躲到柱子后，Zach 把外套扔回给 Kieran 让他穿好，说自己只有「过度想象假设情景」的经验、没有躲警察的经验。",
+    "anchor": "I have experience overthinking hypothetical scenarios.",
+    "start": 3419,
+    "end": 3473
+  },
+  {
+    "fact": "Zach 的手机突然响起，屏幕上又是 Seth 来电，Zach 拒接并嘀咕 What the fuck。",
+    "anchor": "Seth is calling. Again.",
+    "start": 4309,
+    "end": 4332
+  },
+  {
+    "fact": "Zach 在昏暗候机区一角的植物下发现了自己那只灰色行李箱，把手系着紫色橡皮筋。",
+    "anchor": "A lone gray suitcase under a plant",
+    "start": 5335,
+    "end": 5369
+  },
+  {
+    "fact": "箱里的礼物全都还在，只是包装被撕开：绿围巾、皮面日记本、伞绳钥匙扣、铝灯笼和天青石项链一件没少。",
+    "anchor": "The gifts are still here. Everything’s been unwrapped",
+    "start": 5923,
+    "end": 5976
+  },
+  {
+    "fact": "Kieran 说现在就去卖马克杯那头拿机场礼品包装纸重包，Zach 皱着眉笑出来，拉上行李箱拉链。",
+    "anchor": "Zach zips his suitcase shut.",
+    "start": 8757,
+    "end": 8785
+  }
+]
