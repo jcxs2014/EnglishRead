@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "开篇 Zach 举起杯子送到嘴边，对 Kieran 说出“You”，指他就是自己死前会发消息的那个人。",
+    "anchor": "“You.” Zach lifts his glass to his mouth.",
+    "start": 48,
+    "end": 89
+  },
+  {
+    "fact": "Kieran 接过 Zach 解锁后的手机，在新短信线程里输入一个号码并发出消息，随后用自己的手机回发，让 Zach 存下他的号码。",
+    "anchor": "punches a number into a new text thread and sends a message",
+    "start": 958,
+    "end": 1017
+  },
+  {
+    "fact": "Zach 把手机收进口袋，说自己已经连续十八年没有破例，不想打破这个纪录。",
+    "anchor": "I’m on an eighteen-year streak I’d rather not break.",
+    "start": 1283,
+    "end": 1335
+  },
+  {
+    "fact": "Kieran 应 Zach 的要求凭记忆一口气背出人体全部骨头，Zach 听得眼睛越睁越大。",
+    "anchor": "Like all the bones in the human body.",
+    "start": 4115,
+    "end": 4152
+  },
+  {
+    "fact": "Kieran 问 Zach 为什么在意“别人不是他自称的那个人”，Zach 说他的初吻对象 Seth 许下许多兑现不了的承诺。",
+    "anchor": "He made a lot of promises he couldn’t keep.",
+    "start": 6143,
+    "end": 6186
+  },
+  {
+    "fact": "Kieran 说自己向父母正式出柜，还得当着妹妹的面解释自己为什么是同性恋，并说这件事他永远忘不了。",
+    "anchor": "explaining why I’m gay to both of my parents",
+    "start": 7234,
+    "end": 7278
+  },
+  {
+    "fact": "Zach 十三岁时在 Mara 家周五过夜，躺在地毯上对 Mara 说“我大概是同性恋”，Mara 回答“一样”。",
+    "anchor": "They’d been thirteen years old",
+    "start": 7876,
+    "end": 7906
+  },
+  {
+    "fact": "Zach 被 Kieran 的提问提醒，才意识到自己忘了 Seth 还发来一条未读消息。",
+    "anchor": "he’s forgotten he has an unread message from Seth",
+    "start": 5589,
+    "end": 5638
+  }
+]

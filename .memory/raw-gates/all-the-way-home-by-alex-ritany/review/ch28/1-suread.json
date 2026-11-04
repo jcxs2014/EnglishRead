@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Rena 在机场被 Sahar 问“Are you okay?”，而两人已经有一年半没有任何联系。",
+    "anchor": "even after a year and a half of radio silence",
+    "start": 98,
+    "end": 143
+  },
+  {
+    "fact": "Sahar 说自己上大学还在适应、毕业顺利、父母养了一只猫，Rena 只回了一句“Fine”。",
+    "anchor": "Graduation was fine. My parents got a cat.",
+    "start": 1694,
+    "end": 1736
+  },
+  {
+    "fact": "Sahar 回忆 Rena 高中毕业那晚在阳台说两人都要去 Mount Royal，并追问这是否真是 Rena 想要的。",
+    "anchor": "We’re both going to Mount Royal.",
+    "start": 3374,
+    "end": 3406
+  },
+  {
+    "fact": "Sahar 问 Rena 究竟爱 Lucas 什么，Rena 回答他耐心、善良体贴、家人也喜欢他。",
+    "anchor": "He’s patient. He’s kind and considerate.",
+    "start": 4697,
+    "end": 4737
+  },
+  {
+    "fact": "Sahar 提起 Grant 家万圣节派对那晚，Rena 曾说自己害怕 Lucas 想永远在一起。",
+    "anchor": "scared Lucas was going to want to be together forever",
+    "start": 5350,
+    "end": 5403
+  },
+  {
+    "fact": "Rena 对 Sahar 说“Well, you’re not”，这三句话改变了一切，Sahar 一言不发转身离开阳台。",
+    "anchor": "Those were the three words that changed everything.",
+    "start": 6824,
+    "end": 6875
+  },
+  {
+    "fact": "机场里 Rena 脱口说“I have to go”，Sahar 没有阻拦，Rena 不回头地走开。",
+    "anchor": "“I have to go,” Rena blurts out.",
+    "start": 7522,
+    "end": 7554
+  },
+  {
+    "fact": "回到登机口，Lucas 吻了 Rena，Rena 最终承认问题不只是她说错话，而是她没有听、没有问自己 Sahar 是否可能是对的。",
+    "anchor": "It’s that she didn’t listen.",
+    "start": 10639,
+    "end": 10667
+  }
+]

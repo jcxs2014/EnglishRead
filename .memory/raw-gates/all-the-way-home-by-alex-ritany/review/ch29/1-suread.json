@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "在机场登机口，Lucas 起身去买咖啡，问 Rena 要不要“老样子”的那杯，Rena 麻木地点头。",
+    "anchor": "“You want one? The usual?”",
+    "start": 736,
+    "end": 762
+  },
+  {
+    "fact": "Rena 用治疗师教的方法数五样看得见的东西，其中看到爸爸送她的十八岁生日银戒。",
+    "anchor": "the thin silver ring from Dad for her eighteenth",
+    "start": 1412,
+    "end": 1460
+  },
+  {
+    "fact": "Rena 把 Kieran 的白卫衣按在脸上；那是她让他从行李箱里拿出来备用的，Kieran 为此叫她“母鸡妈妈”。",
+    "anchor": "He’d called her a mother hen for it.",
+    "start": 2624,
+    "end": 2660
+  },
+  {
+    "fact": "Lucas 第一次吻她后的那一周，两人周末见了两次、清早训练前在学校见了一次、下午一起自习四次。",
+    "anchor": "twice on the weekend, met up once early at school",
+    "start": 3533,
+    "end": 3582
+  },
+  {
+    "fact": "Rena 直接问 Lucas“我们现在是在约会吗？”，Lucas 脸涨得通红、结巴回应，之后两人正式开始约会。",
+    "anchor": "“Are we on a date right now?”",
+    "start": 5606,
+    "end": 5635
+  },
+  {
+    "fact": "Lucas 第一次周五来家里时，Kieran 几乎全程站在门口瞪他；Lucas 说“我觉得他不喜欢我”，Rena 说了她对他说的第一个谎：“他喜欢你。”",
+    "anchor": "It was the first lie she’d ever told him.",
+    "start": 6616,
+    "end": 6657
+  },
+  {
+    "fact": "多年来，Lucas 事先告知要吻她的习惯慢慢消失；Rena 因怕伤他感情而不再提醒，但他突然吻她、她绷紧时他又受伤退开，最后反而是她自责——她曾提醒过他上百次。",
+    "anchor": "The warnings have stopped slowly, over the years.",
+    "start": 8885,
+    "end": 8934
+  },
+  {
+    "fact": "Rena 自问“发生了什么”，随即承认自己知道答案。",
+    "anchor": "She knows the answer.",
+    "start": 9397,
+    "end": 9418
+  }
+]
