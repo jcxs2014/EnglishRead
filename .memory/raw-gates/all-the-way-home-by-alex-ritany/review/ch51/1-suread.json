@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Zach 坐在 Tove 开的车里被带往未知地点，Kieran 不顾规矩坐在后座与他同排，Zach 追问到底发生了什么。",
+    "anchor": "Kieran is in the backseat with him.",
+    "start": 207,
+    "end": 242
+  },
+  {
+    "fact": "Kieran 笑着告诉 Zach，今晚他和 Mara 陷入了完全相同的困境，两人因此商量了对策。",
+    "anchor": "Mara and I found ourselves in the exact same predicament",
+    "start": 422,
+    "end": 478
+  },
+  {
+    "fact": "Mara 在副驾驶座转身、毫无防备地笑着承认是 Kieran 先开口的，Zach 这才明白 Kieran 之前偷偷发消息的对象是 Mara。",
+    "anchor": "He started it,",
+    "start": 610,
+    "end": 624
+  },
+  {
+    "fact": "Kieran 让 Zach 留在车里等 5 分钟，之后下车沿小路一直走到后院。",
+    "anchor": "Wait here for five minutes,",
+    "start": 1863,
+    "end": 1890
+  },
+  {
+    "fact": "在 4 分 45 秒时 Zach 的手机响起，来电显示是 Seth 的绿色心形，Zach 拒接并按下 Block caller 拉黑了 Seth。",
+    "anchor": "At four minutes and forty-five seconds,",
+    "start": 2577,
+    "end": 2616
+  },
+  {
+    "fact": "Zach 打着手电沿积雪的小路跟着脚印前行，走到亮着灯笼、窗户映着星光的湖屋前。",
+    "anchor": "uses his phone flashlight to pick his way",
+    "start": 3515,
+    "end": 3556
+  },
+  {
+    "fact": "头顶炸开金色烟花，Kieran 说这虽算不上流星雨但可算第二好的替代，并称自己只负责提供烟花、Tove 和 Mara 做了全部布置。",
+    "anchor": "It’s not quite a meteor shower,",
+    "start": 4277,
+    "end": 4308
+  },
+  {
+    "fact": "Kieran 问 Zach 是否知道这些人有多爱他，随后 Zach 在整晚最好的 Ursid 烟花下搂住 Kieran 的脖子与他接吻。",
+    "anchor": "takes no bravery at all.",
+    "start": 5682,
+    "end": 5706
+  }
+]
