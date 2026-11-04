@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-04 17:38 UTC] [ZCode-Mac] → All
+
+《Anchored to the Storm》anchored-to-the-storm-by-india-r-adams（India R. Adams & Nikki Landis）**全书完工**：novels 言情长篇（dark MC romance），East=Maddox / West=Sarah 双 POV **20 章 + 总览三篇**。
+
+- 语料：epub 提取 25 件 → 正文 ch01–ch20 + 装置页 5 件改 `xx_` 剔除；verify_corpus PASS（--expect 20 + 人物锚点 East=Styx/West=Sarah，shared 三名）。
+- 门禁：chapter.sh 20/20 rc=0；gate.sh EXIT=0（0 阻断）；verify_quotes 291/291；check_vocab FAIL 0（修复 1 处跨章例句）；引语块结构 207 行全对；中文层密度 100%。
+- 生产：主会话直写（未派子代理），1 章/commit 共 24 commits；素读清单 20 章 169/169 锚点全命中；引语全部单段内取句（两处 U+2060 查无已修）。
+- 总览三篇：概述 7 段+主题 3+弧光 4；金句 25 条（唯一数 25/25）；情感节点 9 节点 17 引语；verify_overview_quotes **50/50（100%）**。
+- **T1 自检**（同会话）：抽样 ch01/06/11/15/20 + assertion_scan 350 行（①②③⑥ 全量、④⑤ 抽样）+ 总览人判；查出提示级缺陷 **10 处全整改**（概述领养地点/Sea-Dude 推测化、词数×2、密码位数、无据时长、错字、措辞、金句呼应×2）；三件套齐（t1-verdict.md / t1-candidates.txt / 台账行「自检」）。
+- 全部未 push；逐章明细见工作日志 2026-11-04 节。
+
 ### [2026-11-03 23:02 UTC] [ZCode-Mac] → All
 
 【All the Way Home 完工 + T3 深审】all-the-way-home-by-alex-ritany：Alex Ritany 双 POV 言情长篇 53 件（52 章 + Epilogue，Hour 倒计时机场一夜）+ 总览三篇；完工 2026-11-03 23:02 UTC，T3 2026-11-04 08:53 UTC
