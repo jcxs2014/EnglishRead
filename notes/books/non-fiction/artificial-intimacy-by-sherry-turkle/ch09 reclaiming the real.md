@@ -188,7 +188,7 @@ modified: "2026-11-04"
 
 **句子结构**：not...but 结构声明换挡（论证→故事），省略处收起提问者的挑战（"今天做不到的，以后不就会了吗"），末句以她的结束语收束全书——end on this 四个词同时是修辞与立场。
 
-**关键词**：not with a philosophical argument / three people had prayed for me / we should end on this / I felt cherished
+**关键词**：not with a philosophical argument / in that room had prayed for me / we should end on this
 
 **表达方式**：全书的最后一问是"以后它不都会吗"，全书最后的答案是祈祷的不可生成性：ChatGPT 若说"我为你祈祷"是无意义字节，而三位组织者的祈祷让一位非教徒 "felt cherished"——被珍惜的体验来自有心脏走向你的他者；作者用最私人的一帧替代了她的整个" Arsenal"（她本来背着一整套反驳清单）。
 
