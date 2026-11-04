@@ -1,0 +1,67 @@
+{
+ "book": "anchored-to-the-storm-by-india-r-adams",
+ "chapter": "ch10",
+ "text": "notes/books/novels/anchored-to-the-storm-by-india-r-adams/text/ch10_west_four.txt",
+ "facts": [
+  {
+   "fact": "Dale 找 Finn 谈心怕他旧病复发（自残史）；当年 Dale 送他去做心理咨询，而那个自杀的寄养孩子正是 Finn 的第一位自愿恋人。",
+   "anchor": "the foster kid he lost to suicide had also been my first consensual lover",
+   "start": 1307,
+   "end": 1380
+  },
+  {
+   "fact": "Dale 说车祸不是 Finn 的错——但这话像一拳打在他胃上：他一直认定是自己害死了 Caleb（他是司机）。",
+   "anchor": "Ever since I got Caleb killed.",
+   "start": 3797,
+   "end": 3827
+  },
+  {
+   "fact": "Dale 搂着崩溃的 Finn 低语：那是酒驾者的错——所以他一点也不抱歉那混蛋死了。",
+   "anchor": "That’s why I’m not sorry the asshole is dead.",
+   "start": 4626,
+   "end": 4671
+  },
+  {
+   "fact": "Finn 想起 Blue 死亡当夜 Sarah 在车里说的话：你睡觉时会越线，我握着你的手看你勾掉「复仇清单」。",
+   "anchor": "You cross lines in your sleep",
+   "start": 5260,
+   "end": 5289
+  },
+  {
+   "fact": "尸检：死者被活活打死、无凶器、现场漂白水太多验不出 DNA——死亡时间正好对上 Johnny 离开的时间；共享的漂白水之梦由此有了出处。",
+   "anchor": "There was too much bleach to get any DNA",
+   "start": 6782,
+   "end": 6822
+  },
+  {
+   "fact": "一周后牧师为 Blue 之死开病毒式记者会假哭表演「无辜孩子在教堂旁的田野被发现」——而 Blue 正是他打死的；他宣布当晚八点守夜放灯。",
+   "anchor": "Blue’s murderer demanding answers.",
+   "start": 10260,
+   "end": 10294
+  },
+  {
+   "fact": "凉亭密谋：Seb 崩溃于舆论相信了牧师；Gage 阴沉接话「Not if we get to him first」。",
+   "anchor": "He’s going to get away with this shit, isn’t he?",
+   "start": 13537,
+   "end": 13585
+  },
+  {
+   "fact": "唯有 Sarah 心神不宁，拧着手说「我们是不是有别的事该做」——又自称「I have to get something done」。",
+   "anchor": "Don’t you all feel like we have something else to be doing right now?",
+   "start": 15127,
+   "end": 15196
+  },
+  {
+   "fact": "Seb 悲恸中呓语 Blue「独自在外」「在海上！」——Finn 只当是悲伤呓语，答她已在天堂手里。",
+   "anchor": "At sea!",
+   "start": 16153,
+   "end": 16160
+  },
+  {
+   "fact": "Seb 咬定「由我来动手」，Finn 暗下决心替他背下杀业——但愿他原谅我夺走这件事。",
+   "anchor": "I hope you forgive me for taking that from you.",
+   "start": 16987,
+   "end": 17034
+  }
+ ]
+}
