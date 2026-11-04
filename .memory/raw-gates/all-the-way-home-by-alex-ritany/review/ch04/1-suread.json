@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Kieran 溜回座位时，Rena 质问他去了哪里并警告他不能擅自离开；她此刻因要独自与 Lucas 相处而紧张。",
+    "anchor": "being left alone with Lucas right now makes her nervous",
+    "start": 278,
+    "end": 333
+  },
+  {
+    "fact": "Lucas 看着窗外风雪对两人说预报不佳——会连下数小时大雪、今天不适合飞行；Rena 立刻追问有多糟。",
+    "anchor": "Bad like heavy snow for hours",
+    "start": 2537,
+    "end": 2566
+  },
+  {
+    "fact": "平时被要求待在一处约八分钟后焦躁才会飙升的 Kieran，这次被困在登机口只撑了三分钟膝盖就又开始弹动。",
+    "anchor": "Trapped here at the gate, he lasts three.",
+    "start": 3219,
+    "end": 3260
+  },
+  {
+    "fact": "Rena 的手表震动，收到 Mum 的短信（问 Is Kieran busy、让他回复）；Kieran 的手机也随之震动，他手伸向口袋又停住，没有回。",
+    "anchor": "she has a text from Mum",
+    "start": 3393,
+    "end": 3416
+  },
+  {
+    "fact": "Rena 事后只向 Lucas 简单透露争执缘由：只是 Mom——Mom 太管束、Kieran 在回避；Lucas 对她透露太少并不满意。",
+    "anchor": "She’s being overbearing, and Kieran’s being avoidant.",
+    "start": 6468,
+    "end": 6521
+  },
+  {
+    "fact": "Lucas 提起两人第一次同机以分散 Rena 注意，把学校旅行记成十年级；Rena 纠正为十一年级，并说两人真正的第一次同飞是十年级后的夏天——Lucas 姑妈结婚时他带她去了丹佛，Lucas 却已不记得这次旅行。",
+    "anchor": "You brought me with you to Denver",
+    "start": 8037,
+    "end": 8070
+  },
+  {
+    "fact": "登机口广播宣布：Air Canada AC156 航班因天气延误、改至下午两点半起飞；Rena 看表发现此刻已比原定登机时间晚二十分钟。",
+    "anchor": "It will now depart at two thirty p.m.",
+    "start": 10459,
+    "end": 10496
+  },
+  {
+    "fact": "结尾：广播后 Rena 踢 Kieran 的腿提醒延误，却磕上他的踝骨且比预想重，Kieran 骂了句粗话；随后被 Rena 以不介意放逐他的说法准许走开，Kieran 起身朝两人行了个勉强的敬礼、丢下别玩得太开心便转身离开。",
+    "anchor": "Don’t have too much fun without me.",
+    "start": 12158,
+    "end": 12193
+  }
+]

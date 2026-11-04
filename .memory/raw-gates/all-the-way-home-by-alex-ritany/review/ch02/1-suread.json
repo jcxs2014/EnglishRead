@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "行李托运处，Kieran 因把笔记本电脑埋进了要托运的箱子，被工作人员要求当场把整只行李箱倒出来重新打包。",
+    "anchor": "had to unpack and repack his entire suitcase",
+    "start": 431,
+    "end": 475
+  },
+  {
+    "fact": "Lucas 又问登机口，Rena 脱口答出 C53——这已是她第三遍把同一个答案告诉他。",
+    "anchor": "“C53,” Rena says automatically",
+    "start": 3653,
+    "end": 3683
+  },
+  {
+    "fact": "Kieran 承认还没给 Mum 回电话，理由是约六小时后就要见面，宁愿当面撕开创可贴，也不肯在 Zoom 或短信里说。",
+    "anchor": "“We’re going to see her in, like, six hours.”",
+    "start": 4948,
+    "end": 4993
+  },
+  {
+    "fact": "Rena 的当日清单写明 8:30 a.m. 由 Lucas 的妹妹 Eloise 去 U of C 接 Kieran，并预留 Local Kieran Time 惯常的 10 分钟延迟。",
+    "anchor": "Eloise, drive to pick up Kieran at U of C",
+    "start": 6515,
+    "end": 6556
+  },
+  {
+    "fact": "一家人都心照不宣不提：他们生命中最糟糕那一天的周年纪念只剩三天。",
+    "anchor": "is only three days away",
+    "start": 8524,
+    "end": 8547
+  },
+  {
+    "fact": "三人在机场撞见旧识 Sahar Fahkouri——她自上次见面后剪短头发（两侧剃青、顶部竖刺）、前臂添了新纹身；Rena 加快脚步躲开，不想和她打招呼。",
+    "anchor": "she’s cut her hair short, shaved at the sides",
+    "start": 9202,
+    "end": 9247
+  },
+  {
+    "fact": "Rena 走神直接走过了 C53 登机口，被 Kieran 用绰号 Reener-baneener 喊住。",
+    "anchor": "she’d walked straight past C53",
+    "start": 10166,
+    "end": 10196
+  },
+  {
+    "fact": "结尾争执中 Kieran 耸肩称会“找时间”给 Mum 打电话、还叫 Rena 放松；而整周独自应付 Mum 越发紧急的讯息、当了一整年不知全情中间人的正是 Rena。",
+    "anchor": "“I’ll find a time,” Kieran says with a shrug",
+    "start": 11586,
+    "end": 11630
+  }
+]

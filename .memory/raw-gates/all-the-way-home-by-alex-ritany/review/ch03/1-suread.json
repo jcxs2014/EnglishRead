@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "在机场安检区，Zach 发现随身的行李包不见了，僵在原地；碎屏手机上又弹出一条 Voicemail (1) 通知。",
+    "anchor": "His bag is gone.",
+    "start": 110,
+    "end": 126
+  },
+  {
+    "fact": "过去一年 Zach 高中毕业，曾在五百人面前走过毕业舞台没绊倒，还谈成了晋升、独自搬到半个国家之外。",
+    "anchor": "in front of five hundred people without tripping",
+    "start": 585,
+    "end": 633
+  },
+  {
+    "fact": "Zach 举手想拦 TSA 安检员求助，站了至少五分钟无人理会，只好放弃，转去找问询台。",
+    "anchor": "been standing there for at least five minutes",
+    "start": 1895,
+    "end": 1940
+  },
+  {
+    "fact": "在 C53 登机口，Peacoat Boy 与 Zach 同一航班；他出示机票，座位 17D 正与 Zach 的 17E 相邻，两人握手，他自称 Kieran。",
+    "anchor": "On his ticket, his seat number reads 17D.",
+    "start": 9085,
+    "end": 9126
+  },
+  {
+    "fact": "Mara 已四个月不在 Zach 身边，只以他耳边的声音和手机屏幕里的画面出现。",
+    "anchor": "a voice in his ear or a face on his phone in four months",
+    "start": 5012,
+    "end": 5068
+  },
+  {
+    "fact": "Zach 忍不住想起 Delta Air Lines Flight 1086，后悔看过那架在 LaGuardia 机头撞皱的飞机照片。",
+    "anchor": "Delta Air Lines Flight 1086",
+    "start": 5225,
+    "end": 5252
+  },
+  {
+    "fact": "Kieran 问 Zach 手机上的 Mara 是不是女朋友，Zach 摇头否认；随后他发短信问 Mara「do i look like a heterosexual」。",
+    "anchor": "mara this is important do i look like a heterosexual",
+    "start": 10960,
+    "end": 11012
+  },
+  {
+    "fact": "登机牌写明本应 11:10 开始登机，而此刻已是 11:24，仍未登机。",
+    "anchor": "supposed to board at 11:10.",
+    "start": 12825,
+    "end": 12852
+  }
+]

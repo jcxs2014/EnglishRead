@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Zach 的航班延误 3 小时、改到 2:30 起飞（预计当地时间 8:30 落地），他把延误消息发进家庭群聊，Mom、Tove、Dad 在群里你一言我一语地回复。",
+    "anchor": "A 2:30 departure puts him wheels-down at 8:30 local time",
+    "start": 102,
+    "end": 158
+  },
+  {
+    "fact": "Zach 小心抽出那本书准备候机时读：书脊开裂、页面磨损，它最早是 Anwen 的、之后传给 Tove（Tove 看得极慢），Zach 今年夏天才轮到。",
+    "anchor": "It had been Anwen’s first, and then Tove’s",
+    "start": 1998,
+    "end": 2040
+  },
+  {
+    "fact": "Mara 发来短信，Zach 告诉她有人偷走了他的随身行李（里面装着他全部的圣诞礼物），若找到机场会寄还给他；他还摔裂了手机、忘了带耳机。",
+    "anchor": "someone stole my carry-on",
+    "start": 2493,
+    "end": 2518
+  },
+  {
+    "fact": "Zach 在短信里告诉 Mara 他正被一个穿高领毛衣的男生搭话，对方还是他的飞机邻座；Mara 追问帅不帅，Zach 答 devastatingly。",
+    "anchor": "i was being talked at by a guy wearing a turtleneck",
+    "start": 2988,
+    "end": 3039
+  },
+  {
+    "fact": "此前搭话的高领毛衣男生 Kieran 又回来了：身穿 teal 色衣服的他在 Zach 旁边的座位坐下，神态自在。",
+    "anchor": "A figure in teal sinks into the seat next to him.",
+    "start": 5244,
+    "end": 5293
+  },
+  {
+    "fact": "Kieran 直言 Zach 看起来像要吐过去或晕过去，并说这正是他又来打扰的原因；他还提到自己妹妹考试前也会这样紧张。",
+    "anchor": "You look like you’re going to puke or pass out,",
+    "start": 6680,
+    "end": 6727
+  },
+  {
+    "fact": "Zach 承认自己从未坐过飞机（这是他第一次飞行），并摸着卫衣上的 University of Calgary 校徽说明自己是该校学生。",
+    "anchor": "touches a hand to the University of Calgary logo",
+    "start": 9363,
+    "end": 9411
+  },
+  {
+    "fact": "听说 Zach 丢行李等倒霉事后，Kieran 提出一石二鸟的建议：他去探索机场，并让 Zach 陪他一起去。",
+    "anchor": "“I go exploring,” Kieran says",
+    "start": 11033,
+    "end": 11062
+  }
+]

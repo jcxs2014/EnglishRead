@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "机场候机区，Kieran 几排座位外凑近一个酷似其前任 Josiah 的陌生男人，Lucas 顺着 Rena 的目光感叹 Kieran 很快就锁定了搭讪目标。",
+    "anchor": "Already found his mark, eh? That didn’t take long.",
+    "start": 246,
+    "end": 296
+  },
+  {
+    "fact": "Kieran 起身时，陌生男人（Not-Josiah）也跟着站起来，Lucas 难以置信地笑喊 “He scores!”——Kieran 在机场搭讪成功。",
+    "anchor": "he laughs, incredulous. “He scores!”",
+    "start": 1230,
+    "end": 1266
+  },
+  {
+    "fact": "Lucas 低声问 Kieran 的搭讪对象看上去是否有点像 Josiah，Rena 一时松了口气——不止她一个人注意到这种相似。",
+    "anchor": "Don’t you think he looks a bit like Josiah?",
+    "start": 1345,
+    "end": 1388
+  },
+  {
+    "fact": "Lucas 劝 Rena 别把 Kieran 当自己的责任、任他自生自灭，Rena 脱口反讥 “What, like I did last year?”，把近十二个月避而不谈的去年圣诞节旧事拖进争执。",
+    "anchor": "What, like I did last year?",
+    "start": 3381,
+    "end": 3408
+  },
+  {
+    "fact": "被 Lucas 问及最近有无 Josiah 消息时，Rena 把手机上与 Josiah 的短信记录斜过去给他看：最后几条是 Josiah 发的 “Is Kieran ok?”、“Did I do something” 与 “Don’t lie to me”。",
+    "anchor": "Is Kieran ok?",
+    "start": 4386,
+    "end": 4399
+  },
+  {
+    "fact": "Lucas 点明 Josiah 是他的表亲、今年夏天前两人从没说过话，并透露 Josiah 一直开玩笑问他 Kieran 是否还活着，Rena 顿时明白他为何欲言又止。",
+    "anchor": "he keeps asking me if Kieran’s alive",
+    "start": 8452,
+    "end": 8488
+  },
+  {
+    "fact": "回忆七月某个傍晚，Kieran 抚着修剪整齐的草坪低声对 Rena 说 “He’s perfect”，正要说 “I think I—” 时被远处 Josiah 的呼喊打断。",
+    "anchor": "“He’s perfect,” Kieran had whispered one evening in July",
+    "start": 7151,
+    "end": 7207
+  },
+  {
+    "fact": "结尾 Lucas 问 Rena 要不要去拦场，Rena 摇头拒绝（“No. Interfering would be going out of bounds.”）——她其实很想警告 Not-Josiah 走开，却受不了再承受 Kieran 生气时那种死寂。",
+    "anchor": "No. Interfering would be going out of bounds.",
+    "start": 8874,
+    "end": 8919
+  }
+]
