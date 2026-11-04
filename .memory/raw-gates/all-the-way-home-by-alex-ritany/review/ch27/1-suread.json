@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "在卡尔加里机场 Chili's 的卡座里，Kieran 隔桌问 Zach 要点什么。",
+    "anchor": "“What are you going to get?” Kieran asks",
+    "start": 60,
+    "end": 100
+  },
+  {
+    "fact": "Kieran 因把 Billie 从 Lorraine 手里救出来，在卡尔加里机场 Chili's 员工那里攒下大人情，两人才在圣诞前的拥挤周末拿到卡座。",
+    "anchor": "Kieran’s earned some major brownie points",
+    "start": 212,
+    "end": 253
+  },
+  {
+    "fact": "Zach 点了 rum and coke，Billie 要求看 ID，看清驾照后拖长音叫他“Okay . . . Loki.”。",
+    "anchor": "“Okay . . . Loki.”",
+    "start": 2084,
+    "end": 2102
+  },
+  {
+    "fact": "Kieran 抢过驾照，发现 Zach 是 Zacchaeus 的简称，反复追问这是不是真的。",
+    "anchor": "Zach is short for Zacchaeus?",
+    "start": 2820,
+    "end": 2848
+  },
+  {
+    "fact": "Zach 说家里一直延续 Z 中间名的传统：Tove 的中间名是 Zipporah，Erik 的中间名是 Zephaniah。",
+    "anchor": "let’s just keep this Z middle-name trend going",
+    "start": 3783,
+    "end": 3829
+  },
+  {
+    "fact": "Zach 打电话回家，Tove 接起后把他放上免提，母亲 Kathy 喊出“I had to raise Erik”，把养 Erik 当作自己已赎的罪。",
+    "anchor": "“I had to raise Erik,” she calls out",
+    "start": 6145,
+    "end": 6181
+  },
+  {
+    "fact": "Mara 发短信问 any updates??，紧接着报告 I SALVAGED IT??。",
+    "anchor": "I SALVAGED IT??",
+    "start": 8016,
+    "end": 8031
+  },
+  {
+    "fact": "结尾 Kieran 承认自己和 Rena 吵了一架，说“The worst is over.”，Zach 看不出他是否希望自己相信这句话。",
+    "anchor": "The worst is over.”",
+    "start": 9987,
+    "end": 10006
+  }
+]

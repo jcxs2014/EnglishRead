@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "下午 5:26 P.M.（第七小时），Zach 回到登机口时 Kieran 已经不见，Rena 也不在，只剩 Lucas 独自守着行李箱。",
+    "anchor": "Zach gets back to the gate, Kieran’s vanished.",
+    "start": 113,
+    "end": 159
+  },
+  {
+    "fact": "Lucas 说 Kieran 没交代去向；Zach 说要去找，Lucas 低声丢下一句“Your funeral”，随即道歉说自己只是心里乱。",
+    "anchor": "Your funeral,” Lucas mutters.",
+    "start": 858,
+    "end": 887
+  },
+  {
+    "fact": "Lucas 问 Zach 一个假设：若知道某人的某件事而对方不知道，是该告诉他还是等他自己发现；Zach 答要看那件事是否在伤害对方。",
+    "anchor": "If you knew something about someone",
+    "start": 2033,
+    "end": 2068
+  },
+  {
+    "fact": "Zach 对 Lucas 说该道歉的是自己，他正想向 Kieran 道歉。",
+    "anchor": "“If anyone should apologize, it’s me.",
+    "start": 1597,
+    "end": 1634
+  },
+  {
+    "fact": "Seth 发来一条措辞生硬的长短信（提到语音留言），Zach 胃一沉、不读留言，改给 Mara 发短信说“seth called me”。",
+    "anchor": "Hey, Z. I don’t know if you’ve had a chance",
+    "start": 3626,
+    "end": 3669
+  },
+  {
+    "fact": "Mara 在短信里透露 Seth 因 DUI（醉驾）被捕，Zach 立刻明白她先前为何瞒着他。",
+    "anchor": "yknow i heard he got arrested",
+    "start": 4842,
+    "end": 4871
+  },
+  {
+    "fact": "Zach 从手机上抬头，看见 Kieran 站在航班信息牌前，眉头紧皱、嘴角下垂、双手插在口袋里。",
+    "anchor": "He’s standing in front of the flight board",
+    "start": 5311,
+    "end": 5353
+  },
+  {
+    "fact": "Kieran 先开口说“我们把这事搞砸了”，双方互相道歉：Zach 为说过的话、Kieran 为没讲清楚；随后 Kieran 提出请 Zach 喝一杯、由他付账，Zach 慌忙连说“Yes. Yes please.”。",
+    "anchor": "We sort of fucked this up, didn’t we?",
+    "start": 6350,
+    "end": 6387
+  }
+]
