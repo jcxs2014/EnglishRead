@@ -25,17 +25,7 @@ modified: "2026-11-04"
 
 **读者视角提示**：对照 ch20 的存款与计划——她的离开不是冲动，是把对方亲口的威胁当作风险披露读完后的决定。
 
-> **原句 2:** "“You’ve done a lot of stupid things in your life, Billie, but this is the most ridiculous of all.” Eloise’s sharp tone has my hands trembling."
-
-**中文理解**：Eloise 开火：你这辈子干过很多蠢事，但这是最蠢的一件——那把 sharp 的语气让她的手抖了起来。
-
-**关键词**：stupid things / the most ridiculous of all / hands trembling
-
-**为什么这样写**：最高级句式是施虐者的标准开场——先把十年贬成素材库、再把今天定为最蠢；trembling 与开口宣布的勇气同框：身体怕，人不停。
-
-**读者视角提示**：注意她带的是「搬家」消息而不是求准许——在这间屋里，一切通知都会被读成挑衅。
-
-> **原句 3:** "Handed to me? My entire life I’ve been thrown around like a piñata. She holds everything over my head. I could breathe in the wrong direction and I’d hear about it for months."
+> **原句 2:** "Handed to me? My entire life I’ve been thrown around like a piñata. She holds everything over my head. I could breathe in the wrong direction and I’d hear about it for months."
 
 **中文理解**：「白拿」？她这辈子被 Eloise 像皮纳塔一样抡来抡去——对方把一切举在她头顶，连呼吸方向错了都能被记几个月。
 
@@ -45,7 +35,7 @@ modified: "2026-11-04"
 
 **读者视角提示**：对照 Eloise 的「handed to you」——同一屋檐下的两本账：她数的是恩情，Billie 数的是伤痕。
 
-> **原句 4:** "“You know what, if I could go back, I never would’ve married your dad if I knew what I was getting into with you,” she spits. “You’re nothing but a spoiled piece of shit.”"
+> **原句 3:** "“You know what, if I could go back, I never would’ve married your dad if I knew what I was getting into with you,” she spits. “You’re nothing but a spoiled piece of shit.”"
 
 **中文理解**：Eloise 掷出最毒的一句：早知道你这么难缠，我根本不会嫁给你爸——你就是个被惯坏的贱人。
 
@@ -55,7 +45,7 @@ modified: "2026-11-04"
 
 **读者视角提示**：这句话是 Billie 十年自我怀疑的出厂设置——ch21 的「I forgave myself」烧的就是这一条。
 
-> **原句 5:** "Before I can take a breath, I feel her hand forcefully come across my face. My cheek stings from the impact of her fingers. Shock overwhelms my body, itching to slap her back. Don’t do it. This is the only way I can win this battle. I can’t stoop as low as her."
+> **原句 4:** "Before I can take a breath, I feel her hand forcefully come across my face. My cheek stings from the impact of her fingers. Shock overwhelms my body, itching to slap her back. Don’t do it. This is the only way I can win this battle. I can’t stoop as low as her."
 
 **中文理解**：一巴掌带着风声落在脸上——刺痛与震惊同时到货，她的手痒得想还击；不能。这是唯一能赢的方式：不跟她降到同一层。
 
@@ -65,7 +55,7 @@ modified: "2026-11-04"
 
 **读者视角提示**：本库第一次出现身体暴力正面描写——作者不给它配任何背景音乐，冷静反而最响。
 
-> **原句 6:** "I stare at her, holding the side of my face and I smile. I have to win this. “Happy now?” I ask, my voice shaking through my smirk."
+> **原句 5:** "I stare at her, holding the side of my face and I smile. I have to win this. “Happy now?” I ask, my voice shaking through my smirk."
 
 **中文理解**：她捂着半边脸，微笑：必须赢下这个。「满意了吗？」——发问的声音在 smirk 里发着抖。
 
@@ -75,7 +65,7 @@ modified: "2026-11-04"
 
 **读者视角提示**：Eloise「stunned」的反应说明这套反击是新的——十年顺从里练出的最后一招，第一次出鞘。
 
-> **原句 7:** "I stare back at Dad, whose eyes remain on the back of Eloise’s head. His face has turned beet red, but of course, he’s not saying anything. He’s not protecting me. He let her slap me across the face."
+> **原句 6:** "I stare back at Dad, whose eyes remain on the back of Eloise’s head. His face has turned beet red, but of course, he’s not saying anything. He’s not protecting me. He let her slap me across the face."
 
 **中文理解**：她转向父亲——他的眼睛盯着 Eloise 的后脑勺，脸涨得通红，可他一句话都没有：他没保护她。他任由那一巴掌落下。
 
@@ -85,7 +75,7 @@ modified: "2026-11-04"
 
 **读者视角提示**：这一段是父女线十年沉默的起源镜头——ch01 的拥抱要花一整本书才能还清这一笔。
 
-> **原句 8:** "“She makes me hate myself, Dad. And she does it on purpose.” I try to swallow my tears. “I don’t know if it’s to make herself feel better or what it is, but I know now more than ever, that I’m worth more than that.”"
+> **原句 7:** "“She makes me hate myself, Dad. And she does it on purpose.” I try to swallow my tears. “I don’t know if it’s to make herself feel better or what it is, but I know now more than ever, that I’m worth more than that.”"
 
 **中文理解**：打包时她对父亲说：Eloise 让我恨自己——而且是故意的；也许是为了让她自己好受点，但她此刻比任何时候都清楚：她值得更多。
 
@@ -95,7 +85,7 @@ modified: "2026-11-04"
 
 **读者视角提示**：这句与 ch21 的「那不是我」前后呼应——同一个结论，一次说给父亲，一次说给自己。
 
-> **原句 9:** "He finally looks at me with a piece of his heart breaking as he speaks. “I wish you would have told me you felt that way. Maybe I could’ve done something—maybe I could have fixed it before it got to this.” My eyes fill with tears—betrayal sinking into them."
+> **原句 8:** "He finally looks at me with a piece of his heart breaking as he speaks. “I wish you would have told me you felt that way. Maybe I could’ve done something—maybe I could have fixed it before it got to this.” My eyes fill with tears—betrayal sinking into them."
 
 **中文理解**：他终于看向她，心碎了一角：你要是早告诉我……也许我能做点什么——也许能在这之前修好。她眼里蓄满泪水，沉下去的全是背叛。
 
@@ -105,7 +95,7 @@ modified: "2026-11-04"
 
 **读者视角提示**：受害者的「你怎么不早说」对幸存者是二次伤害——本书对「好人的失职」的批判，到这里完成定音。
 
-> **原句 10:** "“That’s what you have to say to me? You’re just as bad as she is.” I shake my head angrily as I pull my bag off the bed and swerve past him, marching out of my room."
+> **原句 9:** "“That’s what you have to say to me? You’re just as bad as she is.” I shake my head angrily as I pull my bag off the bed and swerve past him, marching out of my room. I’ve wanted to do this for years. I thought it would be easier than this. I don’t want to leave my dad behind, but I know it’s what I have to do to get away from her. It’s the only way."
 
 **中文理解**：他的临别请求竟是「别告诉任何人」——她甩下一句：你跟她一样坏；怒着摇头、拖包绕过他，大步走出房间。
 
@@ -114,6 +104,16 @@ modified: "2026-11-04"
 **为什么这样写**：父亲用「保密」把家暴变成家里的私事——这比沉默更冷，因为它有明确的利害计算；just as bad 的等号是全书最重的判决之一：包庇=共犯；swerve 的走位写出她连告别的力气都省了。
 
 **读者视角提示**：她出门没有关门声——作者连音效都没给她：过去的章节到此静音，只剩她走路的骨气。
+
+> **原句 10:** "“Have a nice life, Eloise,” I say, storming out the front door throwing her my middle finger."
+
+**中文理解**：她冲出前门、朝 Eloise 竖起中指，撂下最后一句：祝你有美好人生。
+
+**关键词**：Have a nice life / storming out / my middle finger
+
+**为什么这样写**：全章的怒与悲在出门这一下完成动作化——middle finger 是她对这十年唯一的粗话，比骂一百句都轻也都重；「祝你有美好人生」字面是祝福，语用是断交：她替这段关系念了悼词。
+
+**读者视角提示**：这是过去线的最后一个画面——她走出去时没有回头，父亲没有追；这个门口与 ch01 的门口互为镜像。
 
 ## 本章词汇
 
