@@ -79,7 +79,7 @@ modified: "2026-11-04"
 
 > **原句 10:** "I gawked. “My knuckles.” I didn’t even know I’d lost them. They had been in my pocket during the travels. “How’d you find—” I stopped talking when she took my right damaged hand and placed the brass onto my fingers."
 
-**中文理解**：他瞪着眼——"我的指虎"——他甚至不知道自己把它们弄丢了，旅途中它们一直在外套口袋里；一句"你怎么找到的"还没问完，她已经拿起他残缺的右手，把黄铜指虎套回他的指节。
+**中文理解**：他瞪着眼——"我的指虎"——他甚至不知道自己把它们弄丢了，旅途中它们一直在他口袋里；一句"你怎么找到的"还没问完，她已经拿起他残缺的右手，把黄铜指虎套回他的指节。
 **关键词**：gawked / I’d lost them / placed the brass
 **为什么这样写**：失而复得不写寻找过程，直接从"我瞪着"切入——奇迹被当成日常随手交付；指虎与他 damaged hand 的残缺指节严丝合缝，礼物找到身体上唯一完全适配的位置。
 **读者视角提示**："didn’t even know I’d lost them" 说明他连自己丢了什么都浑然不觉——而她替他记得。

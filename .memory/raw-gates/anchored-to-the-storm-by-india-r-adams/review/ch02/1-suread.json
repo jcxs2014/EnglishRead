@@ -1,0 +1,87 @@
+{
+ "chapter": "ch02",
+ "source": "text/ch02_east_two.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Maddox / Lennox Gentry",
+   "what": "核心揭示（Maddox 复述）：他的父亲 Lennox Gentry 在血统上一半属于他所迷恋的那种神秘生物——父亲是半人鱼。",
+   "anchor": "Plainly said, my father, Lennox Gentry, was biologically half the mystical creature I had adored almost half of my life.",
+   "line": 18,
+   "span": [
+    388,
+    508
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 替 Maddox 脱下湿鞋湿袜湿衣时警告：siren（海妖）也不是神话——她会呼唤你。",
+   "anchor": "The whole 'siren' thing isn't a myth either. She will call for you.",
+   "line": 24,
+   "span": [
+    1079,
+    1146
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Styx 抓住 Maddox 的手起誓永不放手：他曾守在 Maddox 父亲身侧直到守不下去，为的是救命——救他的命。你的命。并说如今他只为 Maddox 而活。",
+   "anchor": "I stayed by your dad's side until I couldn't in order to save his life. Your life.",
+   "line": 45,
+   "span": [
+    2367,
+    2449
+   ]
+  },
+  {
+   "who": "Maddox / Lennox Gentry",
+   "what": "回忆：Maddox 十岁 Life Date（生日）当天第一次坐上父亲的摩托随车队骑行，遭遇枪击——父亲朝他喊话后倒在地面。",
+   "anchor": "It was my tenth Life Date, AKA birthday, and I was on the back of Dad's bike for the first time",
+   "line": 48,
+   "span": [
+    2504,
+    2599
+   ]
+  },
+  {
+   "who": "Maddox / Saleeni",
+   "what": "深夜 Maddox 被 Saleeni 的呼唤操控：半梦半醒间手指按上钢门密码第一位，随即整个人被无形之力猛掼向钢门；他吼 This ain't how this is goin' down! 之后对方才松手。",
+   "anchor": "Suddenly, by force, my body flew forward, my chest slamming into the door.",
+   "line": 103,
+   "span": [
+    5622,
+    5696
+   ]
+  },
+  {
+   "who": "Styx",
+   "what": "Saleeni 的尖啸让 Maddox 痛苦挣扎，两人读唇对话后 Styx 断定出事了：上一次我听到那种尖啸……我的人鱼死了；他催 Maddox 立刻去见她，否则可能永远失去她。",
+   "anchor": "but the last time I heard that shriek… my mermaid died.",
+   "line": 181,
+   "span": [
+    9141,
+    9196
+   ]
+  },
+  {
+   "who": "Maddox / Saleeni",
+   "what": "Maddox 凭只听过一次的密码开门、跳海寻她——这是八年来他第四次亲眼见到 Saleeni；他伸手致歉，两人在水下牵手团聚。",
+   "anchor": "Even though this was technically only the fourth time I had ever seen Saleeni and all her magnificence in a span of eight years",
+   "line": 238,
+   "span": [
+    12351,
+    12478
+   ]
+  },
+  {
+   "who": "Saleeni / Maddox",
+   "what": "Saleeni 潜水找回 Maddox 途中丢失的黄铜指虎（Noma 的赠礼）套回他的手指，还吻了他残缺的指头；此前她刚学着把 Maddox Gentry 喊成 Mad… G!。",
+   "anchor": "I stopped talking when she took my right damaged hand and placed the brass onto my fingers.",
+   "line": 379,
+   "span": [
+    19514,
+    19605
+   ]
+  }
+ ]
+}
