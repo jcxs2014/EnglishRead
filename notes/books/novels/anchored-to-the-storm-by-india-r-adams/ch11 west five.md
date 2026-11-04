@@ -70,48 +70,19 @@ modified: "2026-11-04"
 **为什么这样写**：把"不帮忙"重新定价为最高级的帮忙——沉默被写入保护条款；省略号前后的停顿是她掂量半生重量的呼吸。
 **读者视角提示**：记住这句"沉默即保护"——它与 Johnny 的失联号码、Styx 的身份蒸发是同一套逻辑。
 
-> **原句 9:** "'See, that's how naïve you are. You are clueless about how to handle all this. That's a name I've never heard until now.' She chided, 'Johnny's family has been doing all they can to shield him from leaving any trails, yet you dare to open a possibly dangerous one.'"
-
-**中文理解**：看，这就是你的天真——你根本不懂怎么处理这一切；这个名字我从没听过——Johnny 的家人拼尽全力不让他留下任何踪迹，你却敢亲手撕开一条可能有危险的口子。
-**关键词**：how naïve you are / a name I've never heard / open a possibly dangerous one
-**为什么这样写**：责备的三段式（你天真、我没听过、你敢）逐级抬升恐慌——名字本身被定义为可燃物；"shield him from leaving any trails" 把保护写成反侦察工程。
-**读者视角提示**：Kristen 不知道 Styx 是谁——她的恐慌与读者的全知形成反讽：这条"踪迹"其实通向海。
-
-> **原句 10:** "As if all energy had been drained from her, she tapped on her phone. The name River was all I could see."
-
-**中文理解**：仿佛全身力气被抽干，她点开手机拨号——Sarah 唯一看清的，是那个来电名字：River。
-**关键词**：drained from her / tapped on her phone / The name River
-**为什么这样写**：全书最大暗号以屏幕特写的方式闪现——一个词的名字、一次未完成的通话；不解释、不复现，让读者与 Sarah 同享那半秒的心跳。
-**读者视角提示**：River=东线已交底的 merman 之名——Kristen 的通讯录里躺着一个不该存在的人。
-
-> **原句 11:** "My spinning mind raced me back to the night Blue died. When we were riding in Bertha, Sebastian insisted Johnny be real with us. In return, Johnny had yelled, 'All of you being beaten to death to get info on me!'"
-
-**中文理解**：旋转的思绪把她拽回 Blue 死亡那晚——Bertha 车里，Sebastian 逼 Johnny 交底，Johnny 吼回去：你们全会因为逼问我口供而被打死！
-**关键词**：the night Blue died / insisted Johnny be real / beaten to death to get info on me
-**为什么这样写**：记忆回放补齐旧场景的关键台词——"被拷问到死"的警告从修辞降为操作指南；把危险源锁定为"关于他的信息"本身。
-**读者视角提示**：这条警告在 ch10 的酒驾者之死里已经应验过一次—— torture 不是假设，是方法论。
-
-> **原句 12:** "From the driver's seat, Finn unbuckled me, and Ethan scooped me into his arms. 'Memories haunting you, baby.'"
-
-**中文理解**：Finn 从驾驶座解开她的安全带，Ethan 把她捞进怀里——"是记忆在纠缠你，宝贝。"
-**关键词**：scooped me into his arms / Memories haunting you / baby
-**为什么这样写**：救援的接力（解带→抱起）让care有了工序；"haunting" 把晕厥归因给幽灵般的记忆——他不说"你晕倒了"，说"记忆来找过你"。
-**读者视角提示**：Ethan 的"baby"是他第一次这样称呼她——暗恋者的话术也开始诚实。
-
-> **原句 13:** "I assumed he was referring to Caleb, Blue, and Johnny, but when he carried me into the house past worried faces and someone whispering 'anniversary', I remembered what day it was."
-
-**中文理解**：她以为他说的是 Caleb、Blue 和 Johnny——直到被抱进门、掠过一张张担忧的脸、听见有人低声说"周年"，她才想起今天是什么日子。
-**关键词**：past worried faces / whispering 'anniversary' / remembered what day it was
-**为什么这样写**：遗忘被设置成叙事漏斗——她的记忆被伤痛占满，日历反而失守；"whispering" 的低音量让真相以耳语抵达，比宣布更疼。
-**读者视角提示**：下章将揭晓这个"周年"是谁的忌日——章末两个词是一枚延时引信。
-
-
-> **原句 10:** "As she flipped through it, I saw the name JOHNNY WATTS on the cover in black ink."
+> **原句 9:** "As she flipped through it, I saw the name JOHNNY WATTS on the cover in black ink."
 
 **中文理解**：Kristen 翻动那份厚档案时，Sarah 看见封面黑字写着 JOHNNY WATTS。
 **关键词**：flipped through it / the name JOHNNY WATTS / in black ink
 **为什么这样写**：社工的档案第一次在 Sarah 面前打开——被领养的不是一个人，而是一份可以用黑墨水写就的卷宗；"Johnny" 被钉成官方用名，纸面身份与私人记忆从此分家。
 **读者视角提示**：真名 Maddox Gentry 的悬念要等 Sarah 自己在 ch16 从花语记忆里拼出——卷宗封面与少年记忆的对账是这条线的两半。
+
+> **原句 10:** "'See, that's how naïve you are. You are clueless about how to handle all this. That's a name I've never heard until now.' She chided, 'Johnny's family has been doing all they can to shield him from leaving any trails, yet you dare to open a possibly dangerous one.'"
+
+**中文理解**：看，这就是你的天真——你根本不懂怎么处理这一切；这个名字我从没听过——Johnny 的家人拼尽全力不让他留下任何踪迹，你却敢亲手撕开一条可能有危险的口子。
+**关键词**：how naïve you are / a name I've never heard / open a possibly dangerous one
+**为什么这样写**：责备的三段式（你天真、我没听过、你敢）逐级抬升恐慌——名字本身被定义为可燃物；"shield him from leaving any trails" 把保护写成反侦察工程。
+**读者视角提示**：Kristen 不知道 Styx 是谁——她的恐慌与读者的全知形成反讽：这条"踪迹"其实通向海。
 
 > **原句 11:** "She finally admitted, “I was told all danger would follow him.”"
 
@@ -119,6 +90,35 @@ modified: "2026-11-04"
 **关键词**：finally admitted / all danger / follow him
 **为什么这样写**：Kristen 的沉默条款第一次给出理由——危险不在 Johnny 身上，而在"跟着他走"这条规律里；被动语态（I was told）暴露她也只是被告知者，链条上游还有人。
 **读者视角提示**：回看 ch10 的酒驾者之死与守夜夜的警报——"跟着他"的账单已经付过两次，这句话是它的总说明。
+
+> **原句 12:** "As if all energy had been drained from her, she tapped on her phone. The name River was all I could see."
+
+**中文理解**：仿佛全身力气被抽干，她点开手机拨号——Sarah 唯一看清的，是那个来电名字：River。
+**关键词**：drained from her / tapped on her phone / The name River
+**为什么这样写**：全书最大暗号以屏幕特写的方式闪现——一个词的名字、一次未完成的通话；不解释、不复现，让读者与 Sarah 同享那半秒的心跳。
+**读者视角提示**：River=东线已交底的 merman 之名——Kristen 的通讯录里躺着一个不该存在的人。
+
+> **原句 13:** "My spinning mind raced me back to the night Blue died. When we were riding in Bertha, Sebastian insisted Johnny be real with us. In return, Johnny had yelled, 'All of you being beaten to death to get info on me!'"
+
+**中文理解**：旋转的思绪把她拽回 Blue 死亡那晚——Bertha 车里，Sebastian 逼 Johnny 交底，Johnny 吼回去：你们全会因为逼问我口供而被打死！
+**关键词**：the night Blue died / insisted Johnny be real / beaten to death to get info on me
+**为什么这样写**：记忆回放补齐旧场景的关键台词——"被拷问到死"的警告从修辞降为操作指南；把危险源锁定为"关于他的信息"本身。
+**读者视角提示**：这条警告在 ch10 的酒驾者之死里已经应验过一次—— torture 不是假设，是方法论。
+
+> **原句 14:** "From the driver's seat, Finn unbuckled me, and Ethan scooped me into his arms. 'Memories haunting you, baby.'"
+
+**中文理解**：Finn 从驾驶座解开她的安全带，Ethan 把她捞进怀里——"是记忆在纠缠你，宝贝。"
+**关键词**：scooped me into his arms / Memories haunting you / baby
+**为什么这样写**：救援的接力（解带→抱起）让care有了工序；"haunting" 把晕厥归因给幽灵般的记忆——他不说"你晕倒了"，说"记忆来找过你"。
+**读者视角提示**：Ethan 的"baby"是他第一次这样称呼她——暗恋者的话术也开始诚实。
+
+> **原句 15:** "I assumed he was referring to Caleb, Blue, and Johnny, but when he carried me into the house past worried faces and someone whispering 'anniversary', I remembered what day it was."
+
+**中文理解**：她以为他说的是 Caleb、Blue 和 Johnny——直到被抱进门、掠过一张张担忧的脸、听见有人低声说"周年"，她才想起今天是什么日子。
+**关键词**：past worried faces / whispering 'anniversary' / remembered what day it was
+**为什么这样写**：遗忘被设置成叙事漏斗——她的记忆被伤痛占满，日历反而失守；"whispering" 的低音量让真相以耳语抵达，比宣布更疼。
+**读者视角提示**：下章将揭晓这个"周年"是谁的忌日——章末两个词是一枚延时引信。
+
 
 ## 本章词汇
 
