@@ -1,0 +1,61 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch02",
+ "text": "notes/books/non-fiction/artificial-intimacy-by-sherry-turkle/text/ch02_2_childhood.txt",
+ "facts": [
+  {
+   "fact": "1979 年公园里一位母亲见六岁女儿把会说话的机器人玩具当\"人\"对待，问 Turkle：她是不是以为人也是机器？",
+   "anchor": "she treats that thing like a person",
+   "start": 376,
+   "end": 411
+  },
+  {
+   "fact": "1978 年夏 Turkle 把第一代电脑玩具带进 5–10 岁游戏组；Gloucester 海滩上六岁的 Robert 输棋后骂 Merlin 是 \"cheating machine\"，把它摔进沙里。",
+   "anchor": "He threw Merlin into the sand angrily",
+   "start": 3597,
+   "end": 3634
+  },
+  {
+   "fact": "游戏组里 Jenny 打断 Greg：要作弊就必须知道自己在作弊——三个孩子在沙堡间争论一台机器的道德与形而上学地位。",
+   "anchor": "Knowing is part of cheating",
+   "start": 4084,
+   "end": 4111
+  },
+  {
+   "fact": "孩子们原本以\"理性动物\"（对比宠物）定义人的特殊性；智能玩具取代宠物成为\"最近的邻居\"后，人改被定义为 \"emotional machines\"。",
+   "anchor": "gave way to the idea of people as",
+   "start": 5177,
+   "end": 5210
+  },
+  {
+   "fact": "1980 年代的浪漫主义反应：模拟思维或许算思维，但模拟的情感永远不是情感——人有一块机器进不去的圣地。",
+   "anchor": "Simulated love is never love",
+   "start": 5749,
+   "end": 5777
+  },
+  {
+   "fact": "芝加哥八岁男孩用父母手机跟从未见过面的中国祖父母和 ChatGPT 聊天，说两者是\"同一类东西——电话里够得着的东西\"。",
+   "anchor": "same kind of thing—things you can reach on the phone",
+   "start": 7837,
+   "end": 7889
+  },
+  {
+   "fact": "生成式 AI 毛绒宠物 Ropet 官网宣称它是\"你唯一的爱\"；作者用 Winnicott 过渡性客体理论反驳：为你而生、从不撤出的数字伴侣等于不许孩子分离的母亲。",
+   "anchor": "to be your one and only love",
+   "start": 13063,
+   "end": 13091
+  },
+  {
+   "fact": "2015 年 Hello Barbie 因在线存储儿童对话遭 \"Hell No, Barbie\" 运动抗议，被评为年度最差玩具后撤回；2025 年 6 月 Mattel 又与 OpenAI 宣布合伙。",
+   "anchor": "I was part of a campaign to push back",
+   "start": 21383,
+   "end": 21420
+  },
+  {
+   "fact": "2013 年 Holbrooke 中学的孩子（第一代社交媒体世代）共情发育迟滞、社交焦虑；同事问这些孩子后来怎样，作者答：他们长大后已准备好拥有 AI 挚友。",
+   "anchor": "ready to have AI best friends",
+   "start": 33527,
+   "end": 33556
+  }
+ ]
+}
