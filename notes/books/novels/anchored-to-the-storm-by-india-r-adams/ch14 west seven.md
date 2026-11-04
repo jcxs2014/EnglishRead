@@ -91,6 +91,28 @@ modified: "2026-11-04"
 **为什么这样写**：死亡宣言配最日常的运动镜头——枪的话题被篮球的抛物线轻轻送出；"That's why" 的从容说明这不是一时冲动，是既定议程。
 **读者视角提示**：West 线的武装化本章挂牌——Finn 的枪与 East 线的"学会用枪"（ch13 末）遥相呼应。
 
+
+> **原句 12:** "I insisted, “It don’t matter. I ain’t shooting him. I’m gutting him alive.”"
+
+**中文理解**：Seb 咬定：枪不重要——他不会开枪打死那家伙，他要活剐了他。
+**关键词**：It don’t matter / ain’t shooting him / gutting him alive
+**为什么这样写**：从"枪"到"活剐"的升级让复仇的暴力等级当场失控——别人讨论的是工具与风险，他讨论的是酷刑的形式；"Blood for blood" 的野性押韵把这场会议从策划拖入梦呓。
+**读者视角提示**：这段对话发生在篮球场上——最日常的场景与最血腥的台词同框，是本章给 Seb 的病危通知书。
+
+> **原句 13:** "I knew you were up to something! I shook my head. Then I pointed to my chest, mouthing, My kill."
+
+**中文理解**：他早就知道 Finn 在暗中行事——摇头，然后指着自己的胸口，无声地说：我的猎物。
+**关键词**：up to something / shook my head / My kill
+**为什么这样写**：凌晨 12:30 的走廊对峙没有一句台词——手语与口型完成了一场杀人权的移交谈判；Finn 想替死，Seb 不肯让，被夺走的一切让"亲手"成为他仅剩的所有权。
+**读者视角提示**：注意这是本章第二次"让步"——上一次 Finn 让出复仇的发言权，这一次让出执行权；两个让步叠出 ch16 他独自夜探的孤狼路线。
+
+> **原句 14:** "And from that moment on, my fate was sealed."
+
+**中文理解**：从那一刻起，他的命运被封定了。
+**关键词**：from that moment on / fate / sealed
+**为什么这样写**：全书最短的章末句之一——八个词把少年气全部收回，盖章的是他自己；"sealed" 的蜡封意象让复仇成为不可撤回的文书，与书名的"拴在风暴上"互为同义。
+**读者视角提示**：这句话同时是两个少年的判决——Seb 锁定亲手，Finn 锁定同谋；下一章的间谍游戏由此开赛。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -124,4 +146,4 @@ modified: "2026-11-04"
 | basketball | 篮球 | Playing basketball in the driveway, the guys couldn’t believe their eyes when a certain pissed-on Mercedes rolled past our home. |
 
 ## 一句话总结
-警察上门反被 Dale 教育做人；滑动镜保住 Blue 的画像，家族会议却藏不住更大的雷——Johnny 是会长之子、牧师是 Blue 生父；Harmony 母熊立法（不许杀人、遇袭只躲），Seb 谎言应下，Finn 的枪与书名三现的"anchored to our horrific storm"把两条战线同时上膛。
+警察上门反被 Dale 教育做人；滑动镜保住 Blue 的画像，家族会议却藏不住更大的雷——Johnny 是会长之子、牧师是 Blue 生父；Harmony 母熊立法（不许杀人、遇袭只躲），Seb 谎言应下，Finn 的枪与书名三现的"anchored to our horrific storm"把两条战线同时上膛；凌晨的走廊手语里 Seb 夺回"我的猎物"，一句"命运从此封定"替两少年签下同谋书。
