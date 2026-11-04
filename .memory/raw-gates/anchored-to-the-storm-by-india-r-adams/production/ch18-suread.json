@@ -1,0 +1,55 @@
+{
+ "book": "anchored-to-the-storm-by-india-r-adams",
+ "chapter": "ch18",
+ "text": "notes/books/novels/anchored-to-the-storm-by-india-r-adams/text/ch18_west_nine.txt",
+ "facts": [
+  {
+   "fact": "Gage 身世：父亲像斗狗一样逼他与无辜孩子对打，甚至逼他对 Sam 下手——获救后他发誓永不再受任何人控制。",
+   "anchor": "I can’t talk about what I was forced to do to Sam.",
+   "start": 528,
+   "end": 578
+  },
+  {
+   "fact": "枪声炸响的瞬间，一股看不见的毯子般的力量裹住他——不是束缚而是安慰；时间放慢，混乱中他前所未有地安定。",
+   "anchor": "it felt like an invisible force wrapped a blanket around me",
+   "start": 1323,
+   "end": 1382
+  },
+  {
+   "fact": "Gage 跪在昏迷的蒙面人身边握住他的手，立刻认出是 Johnny，俯身耳语「兄弟，你不需要空气也能呼吸」——Maddox 睁眼先问「她还好吗」，随即消失。",
+   "anchor": "Brother, you don’t need air to breathe.",
+   "start": 3193,
+   "end": 3232
+  },
+  {
+   "fact": "Finn 与 Seb 从牧师宅中带出一个约六岁的小女孩——蓝宝石眼睛、仙子般的小脸——Gage 确认：你们救出的是 Blue 的妹妹。",
+   "anchor": "“You just rescued Blue’s sister.”",
+   "start": 5784,
+   "end": 5817
+  },
+  {
+   "fact": "大胡子 Sinners 通报：女孩的卧室藏在假墙后——牧师事发时正和她在一起；那房间家具老旧蒙尘，「她不是第一个」。",
+   "anchor": "Tonight, we found her bedroom hidden behind a fake wall.",
+   "start": 8595,
+   "end": 8651
+  },
+  {
+   "fact": "Sinners 移交牧师并尊重 Seb 的复仇之份；Seb 一脚车内一脚车外，看着小女孩改了主意——「专注变得真快」。",
+   "anchor": "“Amazing how fast focus can change.”",
+   "start": 10643,
+   "end": 10679
+  },
+  {
+   "fact": "三少年被塞了五十美元打发去买麦当劳回家；Finn 悟出这些人是谁——「Johnny 现在的一切都说得通了，他们是他的族人」。",
+   "anchor": "I think they’re his people.",
+   "start": 13353,
+   "end": 13380
+  },
+  {
+   "fact": "回家请罪：Harmony 抱住三个违约夜袭的儿子——「你们在我眼里不会做错事」，热巧克力已在炉上；厨房里 Kristen、冰激凌、穿着 Sarah 睡衣的小女孩。",
+   "anchor": "My boys. You can do no wrong in my eyes.",
+   "start": 14735,
+   "end": 14775
+  }
+ ]
+}
