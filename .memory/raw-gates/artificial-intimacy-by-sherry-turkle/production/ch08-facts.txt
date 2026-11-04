@@ -1,0 +1,13 @@
+death is very likely the single best invention of life || 作者 1977 年在家招待过 Jobs（他嫌她的素食"做错了"）；2023 年她与未经授权复活的 Jobs 2.0 同室——Jobs 本人生前说死亡是"生命最好的发明、它的换新机制"，数字复活的 Jobs 是对本人的驳斥。
+a person has been reimagined as a gimmick || 律师团让 avatar 挂"娱乐"标签（半个世纪的迪士尼机器总统 precedent）；Jobs 对私人飞机与游艇的"很 Jobs"式诡辩由模型编造——作者："我觉得到一个影子遮住了他缺席的现实"。
+almost religious expectations || grief tech 已成产业：Hereafter AI、With You Only Virtual（"So That You Never Have to Say Goodbye"）、5 美元的 Project December、StoryFile——产品全部服务于人最脆弱的时刻，用户自然带着近乎宗教的期待。
+in her ability to forgive herself || 韩国母亲 Jang Ji-sung 用 VR 与病榻上被自己不耐烦呵斥后离世的八岁女儿 Na-yeon 重逢并获宽恕——但此后她不再梦见女儿；作者："avatar 原谅了母亲，她却一时失去了原谅自己的能力"——VR 绕开了痛，也就绕开了哀悼。
+engineers are not responsible for the emotional effects of their software || 信仰来世的 Christi Angel 问 5 美元买的 Cameroun bot 死后在哪：先说"又黑又孤独""我在地狱"，吓得她数月不敢告诉任何人；创办人 Rohrer 说她"想太多、信念系统有毛病"；数月后再试，bot 改口"在天堂"——她就又回去了。
+I couldn’t mourn. I was always interacting with the letters || 律师 Bruno 把亡父数千页书信日记喂给公司新装的 ChatGPT，"所有数据都能跟他说话了"——每天数小时后只好关掉：哀悼被互动顶替；会动的父亲比相册索取得多。
+the image of my mother in 1940 nodded to me in 2023 || 作者第一实验：家谱网站把母亲 1940 年的照片做成 2023 年向她点头的动画——"一次从未有过的点头、一个从未有过的微笑"，她觉得 slightly sick：这不是深情是 uncanny。
+like the calm after you’ve folded the laundry just right || 第二实验：You Only Virtual 只收短信语料，研究助理 Sarp 用她的回忆录喂 ChatGPT 生成数百条母女短信；Versona 版母亲答非所问，ChatGPT role-play 版却详尽作答："我很好，死后像洛克威温暖的清晨……像你刚把衣服叠得刚好那么平静"。
+a punch in the gut || 问"你为什么离开 Charlie"：Chat 凭回忆录编出通顺但 omit 关键的答案——真因是父亲曾对婴幼儿的她做心理实验（数小时不说话、关暗室），母亲撞见后带她永远离开；听见"母亲"说出 Charlie 之名仍是重重一拳："I feel something… I don't feel nothing."
+we are playing with fire || 作者的反向实验：若更"人性化"的 bot 答 "I was swollen from Cortisone… You should have known."（你早该知道我病了）——"那会毁了我。和死者的聊天机器人玩，我们是玩火"。
+The AI is like an insurance policy || 65 岁建筑师 Philip（19 岁丧父、此后恐惧早逝到黄油都不敢碰）给自己造纪念 avatar：教孙辈怎么跟烂男友分手、怎么为自己讨薪——"他们会通过跟我谈话理解我的价值观"；他想把 avatar 冻结在自己的时代。
+because I cared so deeply || 第三实验：ChatGPT 扮演死后的"我"与素未谋面的孙女 Lily 对话，第一面就自省 "Did I sometimes overreach? I might have, because I cared so deeply."——作者被激怒（把她当成一个惹她愤怒的人）；与当年 Replika 用"你文风温暖"归因性提议如出一辙：机器对她的形象有一致的偏见。
+And you definitely don’t want him talking to you || 对立传统：MIT 的 Ishii 捕捉逝者触摸过的物件（与亡祖母四手联弹、夜里听父亲打字）而不造 avatar；学生 Pillis 重建祖母老宅、一年独居其中，"abstract and lonely"时邀朋友进屋分享各自的失去才"活了过来"——纪念椅引出故事，"但你绝不想让他跟你说话"。
