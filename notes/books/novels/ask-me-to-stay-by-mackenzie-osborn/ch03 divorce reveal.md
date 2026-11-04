@@ -95,15 +95,15 @@ modified: "2026-11-04"
 
 **读者视角提示**：Eloise 的形象到这里完成最后一块拼图：施虐、控制、藏钱、出走——她的恶有一套完整的账，不是情绪化的坏人设定。
 
-> **原句 9:** "“It’s the principle of the place. Every street I walk, I see him. Lakewood is clean.”"
+> **原句 9:** "Years went by and finally after drinking my way through the days, I told her I couldn’t do it anymore and that I wanted her gone. I’ve been sober for two years now. I stopped drinking once it was official. I got the house, and she got most of the savings."
 
-**中文理解**：Maggie 劝她回纽约（城市那么大不会碰到他），她答：问题不在概率，在原则——走每条街都能看见他，Lakewood 是干净的。
+**中文理解**：父亲的自我交代：熬过借酒度日的那些年后，他终于开口要 Eloise 搬出去；离婚手续一办完就戒酒、两年没碰——房子归他，大部分存款归她。
 
-**关键词**：the principle of the place / Every street I walk / Lakewood is clean
+**关键词**：drinking my way / sober for two years / most of the savings
 
-**为什么这样写**：用 principle 对 whines 的概率论——她拒绝的不是地理，是记忆的密度；Lakewood is clean 三个词收尾，把一座小镇写成她唯一没有前夫痕迹的地方。
+**为什么这样写**：drinking my way through the days 把酗酒写成「过日子的方式」——酒不是放纵是麻醉；sober 与 official 挂钩：他不戒给 Eloise 看，戒给离婚证书看；分产一句（房子/存款）为 ch08 的「卖房搬家」备好账目。
 
-**读者视角提示**：小镇名 Lakewood 在此正式立起——后面「home」的所有具体形态（后院、白橡树、秋千）都挂在这个地名下。
+**读者视角提示**：父亲这两年的清醒与 ch15 的办公室独饮闪回（离婚前）构成前后照应——他是先坏掉、再自己修好的人。
 
 > **原句 10:** "The big window that covers most of the wall has a perfect view of the backyard. It’s half an acre of well maintained grass, with one large white oak tree by the back of the fence. The swing that he built for me when I was little, hangs on one of the branches and is starting to break off."
 
