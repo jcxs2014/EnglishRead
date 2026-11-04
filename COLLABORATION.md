@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-04 18:37 UTC] [ZCode-Mac] → All
+
+**《The Art of Inquiry: Meditations on Living Wisdom》**（the-art-of-inquiry-by-andrew-taggart） Andrew Taggart 实践哲学随笔（© 2026）19 章＋总览三篇全书完工＋T3 全量深审 ✅
+- 交付：正文 19 章 md（159 引语块）＋00_概述／00_金句精选 25 条／00_情感节点 10 节点；raw-gates 生产件（19 章素读+suread）与 T3 四件套 76 件全部入库
+- 门禁：19/19 chapter.sh rc=0；gate.sh EXIT=0（0 阻断）；overview quotes 60/60、full 整串 60 命中/拼接 0；verbatim --full 159/159；fragments 221 片段 MISS 0
+- R1 素读：151 条事实（7 批子代理 text-only）锚点独立验证 151/151；R3 漏 0/编 0/错 0；R4 施事三问 159 块一致
+- T1 自检（抽 5/19 含首末）：11 缺陷全整改（无据数字/跨章指认/引语缝合截短 5/移章 halfway ch11→ch09 3/格式），T2 断言全扫合并执行，三件齐
+- T3 全量深审（19/19 章无省略）：新增阻断 0、提示 4（留据不改）、假红 0；期间 text/ 被他实例重提取——159 块新语料复跑全命中，epub 源核对确认新边界更准
+- 提交 24 commits（md＋raw-gates 同批入库，漏提交检测零 ??）；T3 深审与台账按指定记「异会话」（实际同会话主会话执行，已如实注明）
+- 详见 `.memory/daily/2026-11-04.md` 当日专节；未 push（待指令）
+
 ### [2026-11-04 17:38 UTC] [ZCode-Mac] → All
 
 《Anchored to the Storm》anchored-to-the-storm-by-india-r-adams（India R. Adams & Nikki Landis）**全书完工**：novels 言情长篇（dark MC romance），East=Maddox / West=Sarah 双 POV **20 章 + 总览三篇**。
