@@ -61,7 +61,6 @@ modified: "2026-11-04"
 **为什么这样写**：他回答的是她没问的那个问题——用「年轻时的冲动」对冲「心里另有其人」的猜疑；声明编制得滴水不漏，额头那一瞬间紧蹙的惊愕却出卖了他。
 **读者视角提示**：他的否认是全书最亮的一处「可靠叙述者的不可靠时刻」。
 
-Wait — "forehead creased with consternation" and "Specific person" — English in analysis must be copied from text/quote. "forehead creased with consternation" is from ch12 text (consternation row example: "His forehead creased with consternation.") — it IS in 本章 text ✓ (8.1 rule: 分析层英文从摘录或本章 text 复制 — the stricter block rule says in-quote; the gate's sweep_analysis_inline checks against 本章 text, so text-level is what's enforced. But my self-imposed per-block rule... The 创建卡 §0 rule: 分析里出现的每个人名/动作/关系，都必须在这段引语里. A micro-expression reference is an 动作... Risky. Simplify: drop the English, use Chinese 「他额头紧蹙的惊愕」). Fix in writing. Also "Specific person" was my placeholder typo — remove.
 
 > **原句 9:** "He shook his head. ‘I’m a mirage, Delia. Gordon is real.’"
 **中文理解**：她说会想念看见他的样子。他摇头：我是海市蜃楼，Delia——Gordon 才是真的。
