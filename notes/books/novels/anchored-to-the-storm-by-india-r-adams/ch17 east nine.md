@@ -131,8 +131,8 @@ modified: "2026-11-04"
 | transformed | 转化；变形 | Her long fin had transformed into petite legs and little feet. |
 | Camelot-looking | 亚瑟王宫殿般的 | In the center of the windowless room with four white walls sat a large wooden table with twelve Camelot-looking chairs. |
 | precaution | 预防措施 | Wondering why he had me signing papers and take this precaution, my stomach soured. |
-| foundation | 根基；倚仗 | The thought of losing him was like losing my foundation. |
-| comprehension | 理解 | How I managed to mark her was beyond comprehension. |
+| foundation | 根基；倚仗 | but the thought of losing him to whatever threat may have been out there was like losing my foundation. |
+| comprehension | 理解 | How I managed to mark her as she had done me, with some sort of ancient symbol, was beyond comprehension. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

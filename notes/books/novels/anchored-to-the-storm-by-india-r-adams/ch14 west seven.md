@@ -97,7 +97,7 @@ modified: "2026-11-04"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | detectives | 侦探 | “Even though you are not detectives,” Dale interrupted. |
-| righteousness | 正义（ righteous 的名词域） | Religious or not, when someone believes they are righteous, their actions to defend their beliefs can become… deadly. |
+| righteous | 自认正义的 | Religious or not, when someone believes they are righteous, their actions to defend their beliefs can become… deadly. |
 | non-relenting | 不依不饶的 | A non-relenting wave that kept pounding, knocking me off my feet. |
 | biker-related | 与机车帮相关的 | “If anything ever happens in this house, biker-related or whoever, don’t try to save me or Dale. |
 | sheepishly | 乖顺地；羞怯地 | “Yes, ma’am,” we all sheepishly replied in unison, each sitting back in our chairs. |

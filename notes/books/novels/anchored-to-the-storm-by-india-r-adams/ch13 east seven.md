@@ -66,7 +66,7 @@ modified: "2026-11-04"
 > **原句 8:** "That moment never came. Not in the form I had imagined. I had expected this epic union; Saleeni rushing to be in my arms. Instead, only her eyes showing above the water, she circled in place, studying everything around her."
 
 **中文理解**：那个时刻从未到来——至少不是他想象的样子。他预想的是史诗般的团聚：Saleeni 扑进怀里；而她只把双眼浮出水面，原地打转，审视周围的一切。
-**关键词**：That moment never came / an epic union / circled in place
+**关键词**：That moment never came / this epic union / circled in place
 **为什么这样写**：惊喜的落空用"史诗 vs 打转"的对撞完成——她的视角才是本章真正的开箱仪式；circled in place 的迟疑是恐惧的舞蹈版。
 **读者视角提示**：读者此刻应与她同步环视：墙、灯、无窗——下一句的"牢笼"判决由这圈目光铺垫。
 

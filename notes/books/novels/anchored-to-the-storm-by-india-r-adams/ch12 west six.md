@@ -141,7 +141,7 @@ modified: "2026-11-04"
 | breakdowns | 崩溃（发作） | Sarah used to see a counselor. She’d become a lab rat when these breakdowns occurred. |
 | dishwasher | 洗碗机 | I grabbed his bowl and took them both to the kitchen, placing them in the dishwasher. |
 | mattress | 床垫 | I put an extra pillow on his side of the mattress so he could, on his side facing my bed, watch her better. |
-| windshield | 挡风玻璃 | He eyed me. “Damn, you’re even smarter than I already thought you were.” Then he stared out the windshield. |
+| snuck | 潜行；悄悄走 | As she had before, Harmony quietly snuck around Finn, who still stood in the doorway, to bring bottles of water and fruit in a basket. |
 | Motherly | 慈母般的 | With an undeniable motherly instinct, Harmony helped me cover Sarah and Ethan. |
 
 ## 一句话总结
