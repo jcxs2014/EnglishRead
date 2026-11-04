@@ -1,0 +1,16 @@
+{
+  "chapter": "ch01",
+  "source": "text/ch01_the_unknown.txt",
+  "readOrder": "text-only before md",
+  "facts": [
+    {"who": "匿名女性", "what": "照镜子认不出过去的自己", "anchor": "She stares at the ghost reflected in the bathroom mirror.", "line": 10, "span": [23, 80]},
+    {"who": "匿名女性", "what": "喉咙生疼仍吃他做且配给的饭，吞咽困难", "anchor": "Her throat is raw, but she must still try to eat whatever he cooks.", "line": 19, "span": [544, 611]},
+    {"who": "他", "what": "曾以爱令她晕眩，如今设下新规则", "anchor": "But life is very different now, and she has so many rules to follow that didn’t exist in the beginning.", "line": 28, "span": [1658, 1761]},
+    {"who": "匿名女性", "what": "每天早晨六点、一周七天按闹钟起床", "anchor": "The alarm that woke her this morning, set for six o’clock, seven days a week, is just one example of far too many.", "line": 28, "span": [1762, 1876]},
+    {"who": "匿名女性", "what": "持红色塑料笔想写日记，朋友家人因他而离散", "anchor": "Or who she’s even talking to; her friends and family are long gone, thanks to him.", "line": 34, "span": [2285, 2367]},
+    {"who": "匿名女性", "what": "闻钥匙开锁声，把日记裹进破格纹茶巾并藏回去", "anchor": "She quickly jumps from her perch on the edge of the bath and wraps the journal back up in the ragged checked tea towel.", "line": 40, "span": [2473, 2591]},
+    {"who": "匿名女性", "what": "被迫挤出笑容面对他，决定寻找出路", "anchor": "She can feel her puppet master getting closer and his strings begin to tug the corners of her lips until a pretty smile is stretched from ear to ear.", "line": 46, "span": [2834, 2975]}
+  ],
+  "relations": ["匿名女性与未具名男子曾有初恋般亲密，现受其规则控制；身份尚未揭示"],
+  "numbers": ["six o’clock, seven days a week（text:28）"]
+}

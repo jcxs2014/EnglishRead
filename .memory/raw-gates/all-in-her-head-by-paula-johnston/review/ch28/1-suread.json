@@ -1,0 +1,15 @@
+{
+ "chapter":"ch28","source":"text/ch28_25_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"把水晶收回绒袋：粉石英求被爱、紫水晶求安静","anchor":"a polished pink rose quartz to evoke the feeling of being loved","line":19,"span":[349,411]},
+  {"who":"Cassie","what":"有水晶手册却不用，自嘲「只有我需要说明书才被爱」","anchor":"only I could require a manual to be loved by the most perfect man in the world","line":22,"span":[1054,1157]},
+  {"who":"Cassie","what":"仍留 22 号旧宅钥匙、续租但骗 Fin 说在履行三个月通知期","anchor":"Fin thinks I’m honouring three months’ notice on my tenancy agreement","line":34,"span":[2042,2113]},
+  {"who":"Finlay","what":"突然回家，门撞响、茶蜡飞散烫到她手臂","anchor":"the front door smashes like a symbol against the crown of my head","line":46,"span":[3725,3792]},
+  {"who":"Finlay","what":"骂她「nonsense」「hippy shit」，说最好一把火烧掉","anchor":"Or even better, torched the lot.","line":82,"span":[6404,6430]},
+  {"who":"Cassie","what":"被 nonsense 一词打回童年：被说太怪、太超过、有毛病","anchor":"She’s been told she’s too weird, too much, that there’s something wrong with her.","line":67,"span":[5152,5243]},
+  {"who":"Cassie","what":"担心女友被找到、怕他想要她回来","anchor":"What if she’s been found? The girlfriend.","line":94,"span":[7009,7050]},
+  {"who":"Cassie","what":"把一切归罪自己；浴室水声一响他换温和语气叫她进来","anchor":"He’s not even mad at all. He’s fine. Everything is fine. It’s me again, isn’t it? I’m the problem.","line":157,"span":[11245,11346]}
+ ],
+ "relations":["Cassie 与 Finlay 同居；他反对她的灵性用品；她继续自责"],
+ "numbers":["22 号旧宅（text:34）","三个月租约通知（text:34）"]
+}

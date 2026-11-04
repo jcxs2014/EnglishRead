@@ -1,0 +1,15 @@
+{
+  "chapter":"ch09","source":"text/ch09_8_blair.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"Blair","what":"拒绝只吃一点肉汁饭；认为 George 的「洋葱过敏」是夸张","anchor":"He’s allergic to onions – or so he says.","line":19,"span":[197,246]},
+    {"who":"Blair","what":"提出把肉让出、只吃未浇肉汁的土豆泥和蔬菜，向 Maria 道歉","anchor":"I’ll just have some of the mash and veg that’s not got any gravy on it yet","line":25,"span":[783,872]},
+    {"who":"Blair","what":"没吃早饭来赴午餐；Maria 仍忽视她","anchor":"especially since I didn’t eat any breakfast to avoid spoiling this stupid lunch","line":28,"span":[1040,1135]},
+    {"who":"Maria","what":"再次叫错名字 Bianca，问 Blair 做什么工作；随后改口 Becca","anchor":"‘So, Bianca,’ she suddenly starts. ‘What is it you do?’","line":34,"span":[1675,1730]},
+    {"who":"Blair","what":"说辞职是 George 的主意、他说她 destined for greater things","anchor":"‘He said I’m destined for greater things.’","line":43,"span":[2178,2224]},
+    {"who":"Blair","what":"「自雇」说法是 George 教她的标准答案；十六岁起打工自立","anchor":"‘Self-employed, I like to call it.’ And force a smile toward Maria. Because that’s what he told me to say if anyone ever asked me.","line":55,"span":[3356,3500]},
+    {"who":"George","what":"解释自己辞职安排：钱够、不愿她被醉汉吹口哨；不接受拒绝","anchor":"he wouldn’t feel comfortable with me being wolf-whistled at by drunken men if we were to be together","line":82,"span":[5103,5215]},
+    {"who":"Maria","what":"只做两份甜点，暗示挑食者不配；Blair 脑内幻想把她按进微波炉","anchor":"I doubt the fussy eater in the corner would be able to bear such delight.","line":97,"span":[6455,6532]}
+  ],
+  "relations":["Blair 与 George 同居、经济依赖他；Maria 敌意升级；George 全程不替 Blair 说话"],
+  "numbers":["十六岁起打工（text:79）","两份甜点（text:100）"]
+}

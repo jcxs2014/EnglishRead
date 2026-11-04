@@ -1,0 +1,15 @@
+{
+ "chapter":"ch50","source":"text/ch50_blair.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Blair","what":"发现 Louise 不在浴室而在 Cassie 房里看笔记本，手握日记","anchor":"Louise is standing in Cassie’s room, when she should be in the bathroom","line":19,"span":[698,779]},
+  {"who":"Louise","what":"承认日记是她的（my journal）","anchor":"‘I see you found my journal,’ Louise says","line":37,"span":[1361,1409]},
+  {"who":"Louise","what":"点破：你还没全拼出来","anchor":"you haven’t figured it all out just yet, have you?","line":52,"span":[1680,1732]},
+  {"who":"Louise","what":"承认跑与崩溃是真的，只是省略原因；她认识 George","anchor":"‘Yes, unfortunately I knew him too.’","line":85,"span":[2813,2862]},
+  {"who":"Louise","what":"表明来意：要 Cassie 亲口说出「George 到底怎么了」","anchor":"‘What really happened to George.’","line":103,"span":[3487,3520]},
+  {"who":"Louise","what":"说她看见了案发经过","anchor":"‘I saw you.’","line":121,"span":[3921,3940]},
+  {"who":"Blair","what":"顶罪：人是我杀的；问 Louise 想要什么","anchor":"‘It was me. I killed him.","line":145,"span":[5238,5264]},
+  {"who":"Blair","what":"临走对 Cassie 眨眼，说再烧水、从头讲起","anchor":"‘I think we should start from the beginning.’","line":151,"span":[5495,5567]}
+ ],
+ "relations":["Louise 持有日记、声称目击谋杀；Blair 替 Cassie 顶罪"],
+ "numbers":["五分钟（text:10）"]
+}

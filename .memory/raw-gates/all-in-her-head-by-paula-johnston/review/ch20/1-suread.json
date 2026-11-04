@@ -1,0 +1,12 @@
+{
+ "chapter":"ch20","source":"text/ch20_17_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"Finlay 离开已两周，音讯全无；她连活下去的理由都找不到","anchor":"It’s been two excruciating weeks since Finlay Munro walked through my door","line":16,"span":[27,106]},
+  {"who":"Cassie","what":"自嘲 Natters with Nova 已毁，像垂死超新星","anchor":"More like a supernova. A poor star on its last legs, exploding, dying.","line":25,"span":[944,1021]},
+  {"who":"Cassie","what":"自述空壳、想被海水卷走冲走","anchor":"the ocean in the distance is really where I long to be, swept up, and washed away","line":46,"span":[3787,3878]},
+  {"who":"Cassie","what":"Luna 被前主人抛弃；她说 Luna 的爱可能是她撑到现在的原因","anchor":"probably the only thing that’s kept me here for this long","line":49,"span":[4154,4213]},
+  {"who":"Cassie","what":"只看过约十位客户，停业后仍收到一条私信申请","anchor":"I have an unexpected notification. One new message request.","line":118,"span":[10457,10516]}
+ ],
+ "relations":["Cassie 独居、与 Luna 相依；Finlay 两周未联系"],
+ "numbers":["两周（text:16）","约十位客户（text:73 提及 two 次? 未数值）","两把锁加一条链（text:70）"]
+}

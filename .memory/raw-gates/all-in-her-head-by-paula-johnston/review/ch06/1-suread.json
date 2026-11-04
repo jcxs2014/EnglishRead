@@ -1,0 +1,15 @@
+{
+  "chapter":"ch06","source":"text/ch06_5_cassie.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"Cassie","what":"盯着 Finlay 搁在桌上的手出神；脑内声音喝令她坐下，只有她听见","anchor":"‘Sit down,’ a voice scalds me. He doesn’t flinch. It’s only me who hears it.","line":22,"span":[654,730]},
+    {"who":"Cassie","what":"客厅改作工作间；鼠尾草冒烟，她自称还没弄清各种鼠尾草用途","anchor":"I’ve only recently discovered sage, and there are so many different types: clary, woodland, juniper, lavender.","line":31,"span":[1452,1575]},
+    {"who":"Finlay","what":"直视她说「我知道你是谁，很高兴见到你，Cassie」；她营业只用 Nova","anchor":"‘I know who you are. And it’s very nice to meet you, Cassie.’","line":55,"span":[2873,3001]},
+    {"who":"Finlay","what":"接电话离场，说 Aye、明天再打、我正在处理点事","anchor":"‘Aye. Aye, that’ll be fine. I’ll call you tomorrow. I need to go. I’m dealing with something.’","line":85,"span":[5182,5315]},
+    {"who":"Cassie","what":"广告只用 Nova 名、无 Cassie Torrance；她删光私人社媒，把 Nova 当面具","anchor":"Absolutely zero mention of Cassie Torrance.","line":79,"span":[4218,4260]},
+    {"who":"Cassie","what":"只接待过约十人，Finlay 是第一位男性客户","anchor":"I’ve probably only seen about ten people, if that.","line":109,"span":[6618,6672]},
+    {"who":"Cassie 的内心声音","what":"提起两天前那个 Botox 女人，免费场让她哭着睡着","anchor":"This totally rude chick who’d visibly injected so much Botox into her forehead she could barely muster a frown despite being so mardy","line":112,"span":[7030,7165]},
+    {"who":"Cassie","what":"声音命令她停；她怀疑自己不是有天赋而是疯了","anchor":"Or maybe I’m not gifted at all. Maybe I’m just truly mad.","line":118,"span":[8046,8103]}
+  ],
+  "relations":["Cassie 化名 Nova 经营解读；Finlay 是客户；两人自称此前从未见过"],
+  "numbers":["约十位客户（text:109）","两天前那场免费解读（text:112）"]
+}

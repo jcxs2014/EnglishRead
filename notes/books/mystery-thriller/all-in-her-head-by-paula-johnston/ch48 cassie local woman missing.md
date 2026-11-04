@@ -10,7 +10,7 @@ modified: "2026-11-03"
 - **情感弧线位置**：虚实并轨：灵异线的「她」获得姓名栏（失踪人口），现实线的门口出现不该存在的人——两条线在同一下午交换了各自的任务。
 - **线索结构**：报道五要素（十年/无尸体/无逮捕/无嫌疑人/男友被排除）与裁照片（Maria 家墙面）在 Blair 的 gasp 里扣合；「she looks, well, a bit like us」为「三合一」的画像作证；「Find me?」与门外的「Missed me?」互为回声。
 - **人物弧线**：Cassie：从「被 haunted」到「主动考古」——受害者转型侦探；Blair：认出照片的一瞬，她的旧证词（ Maria 家墙）成为全书最早物证的兑现。
-- **叙事手法**：搜索写成夜班（reality TV vs 十年前的论坛）；「Bang. Bang. Bang.」三连拟声重启第 2 章的门铃语法；章尾两句对话完成身份揭幕——不写脸，写反应。
+- **叙事手法**：搜索写成夜班（reality TV vs 十年前的论坛）；「Bang. Bang. Bang.」三连拟声重启第 1 章的门铃语法；章尾两句对话完成身份揭幕——不写脸，写反应。
 
 ## 精读
 
@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：执念的燃料被写成双向的：她找她（执念），她找她（召唤）。trawling 的渔网意象把搜索写成深海作业——捞上来的不只是资料，还有一个十年来无人认领的悲伤。
 
-**读者视角提示**：对照第 20 章「浪费夜晚看 Spiritual Awakening 频道」：同样是深夜与屏幕——过去她喂自己鸡汤，如今她替别人挖坟。这个对比就是她的成长曲线。
+**读者视角提示**：对照第 17 章「浪费夜晚看 Spiritual Awakening 频道」：同样是深夜与屏幕——过去她喂自己鸡汤，如今她替别人挖坟。这个对比就是她的成长曲线。
 
 > **原句 3:** "Well not all of it, but some of it! When I met George’s mum, there was a photo hanging on the wall, but the other person had been cropped out, just like this one has been, only now I’m looking at the half I never saw before."
 
@@ -40,9 +40,9 @@ modified: "2026-11-03"
 
 **关键词**：a photo hanging on the wall / cropped out / just like this one has been / the half I never saw before
 
-**为什么这样写**：全书最早的物证（第 5 章的裁剪照片）在此对上底片：裁掉的不是前任，是失踪者。the half I never saw 的双关残忍又精确——照片被裁一半，真相也只给了一半。Maria 家的墙从此从「装饰」升格为「证物袋」。
+**为什么这样写**：全书较早的物证之一（第 4 章的裁剪照片）在此对上底片：裁掉的不是前任，是失踪者。the half I never saw 的双关残忍又精确——照片被裁一半，真相也只给了一半。Maria 家的墙从此从「装饰」升格为「证物袋」。
 
-**读者视角提示**：回看第 5 章 Blair 的「cropped photo」猜测（挥剪刀的妈妈）：两个女人各自解释过那道裁痕——如今第三种解释（也是唯一符合物证的）浮出：裁掉的人消失了。
+**读者视角提示**：回看第 4 章 Blair 的「cropped photo」猜测（挥剪刀的妈妈）：两个女人各自解释过那道裁痕——如今第三种解释（也是唯一符合物证的）浮出：裁掉的人消失了。
 
 > **原句 4:** "Now that I know she’s real, it somehow makes everything that little bit worse. She’s not just a spirit, she was a woman, someone’s daughter, sister, friend. Someone who expected to wake up the next day and never did."
 
@@ -50,7 +50,7 @@ modified: "2026-11-03"
 
 **关键词**：she’s real / She’s not just a spirit / someone’s daughter, sister, friend / expected to wake up the next day and never did
 
-**为什么这样写**：共情在这里完成最后的换挡：从「闹鬼」到「丧偶式失踪」——恐怖片的语法切换成认告的语法。wake up and never did 十个字写完一生：这本书所有关于「不再醒来」的暗语（第 19 章、第 21 章）终于落到具体的人身上。
+**为什么这样写**：共情在这里完成最后的换挡：从「闹鬼」到「丧偶式失踪」——恐怖片的语法切换成认告的语法。wake up and never did 十个字写完一生：这本书所有关于「不再醒来」的暗语（前文的沉默夜与「祝福」）终于落到具体的人身上。
 
 **读者视角提示**：这是 Cassie 灵异观的成人礼：鬼不再是「信号」或「征兆」，是没回家的房客。她的天赋从此有了用途清单——下面就看它怎么用。
 

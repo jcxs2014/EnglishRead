@@ -1,0 +1,15 @@
+{
+ "chapter":"ch16","source":"text/ch16_15_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"揉眼再睁，女人仍在；她自问「是不是全在我脑子里」，结论是她太真","anchor":"What if it’s just all in my head? It can’t be. She’s too real.","line":28,"span":[567,629]},
+  {"who":"女形","what":"靠近并把手放上 Finlay 的肩，只有 Cassie 惊跳，他毫无反应","anchor":"The figure steps closer, places a hand on his shoulder, but I’m the one who jumps at the touch. He doesn’t flinch.","line":37,"span":[1120,1234]},
+  {"who":"Finlay","what":"说早知她已走，仍追问还能不能多知道什么","anchor":"‘I knew it. I knew she was gone,’ he says blankly.","line":34,"span":[920,973]},
+  {"who":"Cassie","what":"第一次开始相信自己；决定不全盘托出所见","anchor":"He believes me, and for the very first time, I’m starting to believe in myself, too.","line":49,"span":[1756,1845]},
+  {"who":"Finlay","what":"起身要离开；她追到门口请求保持联系、可发短信","anchor":"‘Finlay, wait. Maybe you could send me a text?","line":106,"span":[5452,5504]},
+  {"who":"Finlay","what":"掏钱包亮出二十镑钞票问她该付多少","anchor":"he reaches his arm behind his back and pulls his wallet from his pocket.","line":118,"span":[6230,6310]},
+  {"who":"Cassie","what":"拒绝收钱，觉得被当成性交易或廉价服务，自我厌恶到想放弃","anchor":"‘It’s fine. I don’t want anything.’","line":130,"span":[6737,6772]},
+  {"who":"Finlay","what":"临走说她不会让他难受、让她保重、也许有缘再见，并眨眼","anchor":"‘I don’t think you could ever upset me. Look after yourself, OK? Maybe our paths will cross again someday.’","line":154,"span":[8749,8875]}
+ ],
+ "relations":["Cassie 对 Finlay 产生强烈依恋；他付钱后离开；女形只被她看见"],
+ "numbers":["二十镑钞票一沓（text:118）"]
+}

@@ -1,0 +1,15 @@
+{
+  "chapter":"ch07","source":"text/ch07_6_blair.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"Blair","what":"回忆单车课初遇 George：全班看他，她起初判断他 vanilla、床上无趣","anchor":"he looked very…vanilla","line":19,"span":[712,742]},
+    {"who":"George 与 Maria","what":"Maria 喊儿子帮忙；George 起身前吻 Blair 额头；Blair 拍他屁股开玩笑，他不理","anchor":"‘You’re such a good boy. So obedient,’ I joke, but he ignores my cheeky quip.","line":31,"span":[1711,1817]},
+    {"who":"Maria 与 George","what":"厨房门关上、争吵残句：别再带另一个、现在不一样、她永远不会……","anchor":"‘I told you not to bring another…’","line":46,"span":[2566,2600]},
+    {"who":"Blair","what":"扑到厨房门上偷听，门弹开，她跌进母子争执","anchor":"the stupid door wasn’t fully closed, and as it flies wide open, I find myself tumbling into the middle of Maria and her son’s domestic.","line":58,"span":[3055,3184]},
+    {"who":"George","what":"抓住 Blair 手腕攥到发白；玫瑰被丢在水槽","anchor":"his fingers are now wrapped around my wrist so tightly that my hand is turning pale.","line":61,"span":[3283,3374]},
+    {"who":"Maria","what":"叫错她名字 Becky，并让 George 一起去拿餐具","anchor":"‘Take your seat, Becky. I’ll grab an extra plate and cutlery, shall I, George?’","line":70,"span":[3805,3908]},
+    {"who":"Maria","what":"先给儿子上菜，自己次之，Blair 最后；已把肉汁浇满她整盘","anchor":"she’s already poured gravy over my entire plate","line":91,"span":[5335,5384]},
+    {"who":"George","what":"不站 Blair 一侧，称她吃点肉汁无妨、是 drama queen","anchor":"‘Blair can just eat a wee bit of it. Won’t do her figure any harm.","line":106,"span":[6560,6634]}
+  ],
+  "relations":["Blair 是 George 女友；Maria 是其母，明显排斥 Blair；George 已知 Blair 麸质不耐却未阻止肉汁"],
+  "numbers":["Botox 压皱眉（text:85）","上菜顺序：儿子→Maria→Blair（text:91）"]
+}

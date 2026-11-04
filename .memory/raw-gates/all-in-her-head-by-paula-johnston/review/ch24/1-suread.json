@@ -1,0 +1,13 @@
+{
+ "chapter":"ch24","source":"text/ch24_21_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"全场女人看 Finlay 去点酒；她认定她们都比自己配他","anchor":"Any of them would probably be a better match for him than me.","line":19,"span":[369,434]},
+  {"who":"Cassie","what":"用星座自贬：Cancer 太敏感，不像 Scorpio/Leo 有魅力","anchor":"it’s not likely that he’d go for a Cancer like me","line":22,"span":[652,701]},
+  {"who":"Cassie","what":"自述 18 岁被父母催搬出、25 岁拉黑他们、五年无话","anchor":"Five years since I hit block and delete on every contact option available","line":43,"span":[3318,3398]},
+  {"who":"Finlay","what":"端回一品脱啤酒、大杯 rosé、高杯粉金酒、四杯满 shot","anchor":"a pint of beer, a large glass of rosé wine, a tall pink gin, and four shot glasses","line":55,"span":[4090,4179]},
+  {"who":"Finlay","what":"说不知道她想喝什么所以都点了，自称 nice guy","anchor":"So, I thought I’d give you a few options. I’m a nice guy like that.","line":61,"span":[4613,4694]},
+  {"who":"Cassie","what":"空腹一口闷 sambuca，像毒液烧喉，差点吐出来","anchor":"Necking it in one, the liquid I can now identify as sambuca","line":85,"span":[6081,6144]},
+  {"who":"Cassie","what":"称他是宇宙礼物、星命灵魂伴侣、唯一能治好她的人","anchor":"He’s the one and only thing in this world that could ever cure me.","line":151,"span":[9804,9874]}
+ ],
+ "relations":["Cassie 与 Finlay 约会下半场；他主导点酒，她顺从","numbers":["18 岁、25 岁、五年（text:37–43）","34 岁前文；四杯 shot（text:55）"]
+}

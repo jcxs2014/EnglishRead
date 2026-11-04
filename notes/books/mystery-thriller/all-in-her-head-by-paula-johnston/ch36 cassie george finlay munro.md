@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：一句话拆除两座谎塔：Cassie 的死亡宣告是假的，且对方从头知情——他不是被骗，是把她的谎言收进了自己的叙事。fine well 的口语强调让「知情」板上钉钉。这句话同时赦免了 Blair、判刑了他、也把 Cassie 的罪从「害人」降为「被利用」。
 
-**读者视角提示**：这是全书的枢纽句：死亡预言的闭环从此改道——不是她算准了，是他递的稿。第 12 章那句「恐怕你是对的」值得全文重读一遍。
+**读者视角提示**：这是全书的枢纽句：死亡预言的闭环从此改道——不是她算准了，是他递的稿。第 11 章那句「恐怕你是对的」值得全文重读一遍。
 
 > **原句 3:** "I still don’t understand how our worlds have collided in this way, but if what she’s saying is true, then the journal makes perfect sense. The stories of moving in together, Christmas dates, and a huge arrow pointing at the colour of her hair darker than an eclipsed sky."
 
@@ -42,7 +42,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：物证比对用「箭头」完成：日记里的每一处细节都自动签上 Blair 的名字。eclipsed sky 的比喻把发色写回天文——她的 Nova/超新星系统此刻全部失效，能对上号的只剩别人的黑发。第 33 章插章里「厨房剪刀下的金色王冠」在这里找到了下落。
 
-**读者视角提示**：日记的作者权至此归档：The Unknown 的「她」就是 Blair——但注意，Blair 逃走时可不记得写过这本日记留在暗格里。谁把它藏回去的，是个新问题。
+**读者视角提示**：日记的作者权暂被误判：Cassie 认定 The Unknown 的「她」就是 Blair（第 44–45 章将推翻）——但注意，Blair 逃走时可不记得写过这本日记留在暗格里。谁把它藏回去的，是个新问题。
 
 > **原句 4:** "Wanting to scream, I cover my mouth with my hand. I should have known. I should have asked more questions about his girlfriend, but the truth is, I really didn’t want to hear it. Didn’t think I’d be able to cope with a double-edged sword reminding me that I’d never compare to her, but also that I killed her off without permission. As if she were an annoying character in a book or a TV series."
 

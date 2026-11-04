@@ -1,0 +1,15 @@
+{
+ "chapter":"ch26","source":"text/ch26_23_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"相恋一周纪念日；六点闹钟起床为他做咖啡","anchor":"our one-week anniversary","line":16,"span":[215,238]},
+  {"who":"Cassie","what":"七天内一直住他家，只回自己处喂猫取衣物","anchor":"I’m still here in his flat after seven days of what I guess you could call dating.","line":22,"span":[889,987]},
+  {"who":"Cassie","what":"自认这个男人握她的心、随时能毁掉她","anchor":"this one man has my heart in the palm of his hand and could destroy me for good at any given moment","line":25,"span":[1843,1939]},
+  {"who":"Finlay","what":"提议：反正你等于搬进来了，何不正式同居","anchor":"‘Cas, what if you moved in with me?’","line":79,"span":[6479,6516]},
+  {"who":"Cassie","what":"打翻咖啡杯；他被泼后短暂发怒，随即消失","anchor":"There’s a subtle flash of anger, but it disappears just as quickly as it arrived.","line":88,"span":[7120,7200]},
+  {"who":"Finlay","what":"拒绝谈男女朋友标签：我们不是青少年、与别人不同","anchor":"we aren’t teenagers","line":118,"span":[9070,9086]},
+  {"who":"Finlay","what":"许诺免房租、不必再做解读（creepy witchy shit）、他来养她","anchor":"you won’t even have to do your creepy witchy shit anymore. I’ll take care of you now.","line":142,"span":[10402,10500]},
+  {"who":"Cassie","what":"同意当天搬入；他让她先清理地毯咖啡渍","anchor":"‘Today it is, then,’ I say, beaming widely.","line":160,"span":[11169,11212]}
+ ],
+ "relations":["Cassie 与 Finlay 同居第一天；他提出免房租并让她停业"],
+ "numbers":["一周纪念日（text:16）","六点闹钟（text:19）","七天（text:22）"]
+}

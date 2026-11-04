@@ -1,0 +1,12 @@
+{
+ "chapter":"ch19","source":"text/ch19_the_unknown.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"他","what":"清晨无声下床，没像从前那样吻她额头；她反而松肩松拳","anchor":"it’s only when he’s gone that she’s able to relax her shoulders, unclench her fists, and lower her guard","line":10,"span":[244,375]},
+  {"who":"她","what":"整夜左侧蜷卧未动；他无视她的眼泪与抽泣，甚至可能以此为乐","anchor":"If anything, she thinks he might actually get a sickening kick out of it.","line":13,"span":[861,921]},
+  {"who":"她","what":"曾对同居有保留：两居室一间全给他的健身；他承诺改储物间、加她的布置","anchor":"one was completely dedicated to his passion of health and fitness","line":16,"span":[1034,1101]},
+  {"who":"他","what":"承诺这不是他的家而是两人的家、幸福生活的开始","anchor":"He said it wasn’t going to be just his home, but theirs","line":16,"span":[1610,1663]},
+  {"who":"她","what":"想着藏好的日记，必须逃，但唯一出路是她自认不会走的路","anchor":"the only way out now feels like taking a path she’d never thought herself capable of","line":19,"span":[1836,1936]}
+ ],
+ "relations":["她与「他」同居；他的承诺未兑现；她计划出逃"],
+ "numbers":["两居室（text:16）"]
+}

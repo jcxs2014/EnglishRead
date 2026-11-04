@@ -8,7 +8,7 @@ modified: "2026-11-03"
 ## 本章导航
 - **一句话概括**：回到 22 号：猫对空气嘶叫、唱机自转放大、解读室里烛火与玫瑰石英之间坐着一个人——缝着嘴唇的金发女人崩开线，再次只说一个字：RUN。
 - **情感弧线位置**：虚实短路：现实追杀刚歇，灵异追杀顶班——两个幸存者第一次共享同一桩「说不清」的事。
-- **线索结构**：Luna 的嘶叫与 Patsy Cline 的唱针是她恐惧的仪表盘；「灰尘只在中央可见」给出隐形人的轮廓；金发女人≠Blair——第四条线（不明的她）正式挂牌；RUN 的第二次出场由「缝嘴」完成——被禁止说话的，正是全书的叙述者。
+- **线索结构**：Luna 的嘶叫与 Patsy Cline 的唱针是她恐惧的仪表盘；「灰尘只在中央可见」给出隐形人的轮廓；金发女人≠Blair——第四条线（不明的她）正式挂牌；RUN 的第三次出场由「缝嘴」完成——被禁止说话的，正是全书的叙述者。
 - **人物弧线**：Cassie：从「不敢信自己」到「信猫信 Blair」——她的验证系统换人了；Blair：第一次亲历「讲不通」的事，脸上写着同款恐怖。
 - **叙事手法**：布景用「一根蜡烛+一块石头」完成极简恐怖；唱机音量写成渐强的配乐；缝嘴崩线的特写把「失语」拍成物理事件。
 
@@ -22,7 +22,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：安慰话与猫的反应背向而行：人类在宣布安全，动物在确认危险。adamant 一词把猫的判断写成不可动摇的证词——这栋房子里最先知道「还没完」的，是那只猫。
 
-**读者视角提示**：Luna 是全书的测谎仪：从第 31 章的窗、到第 20 章的归巢、到此刻的嘶叫——它每次「不对劲」，后面都有事。跟着猫走，别跟着希望走。
+**读者视角提示**：Luna 是全书的测谎仪：从第 28 章的窗、到此刻的归巢、到此刻的嘶叫——它每次「不对劲」，后面都有事。跟着猫走，别跟着希望走。
 
 > **原句 2:** "Suddenly, a low crackle makes both of our head’s swivel. I recognise it instantly, the needle hitting the vinyl as it begins to play. Turning back to look to Blair for confirmation that she can hear it too, because I don’t really know what to believe is real or not anymore, my stomach drops when I see that she can."
 
@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：灵异事件的恐怖分两级：听见（她习惯独自承受）与被证实（有人一起听见）。她回头求证的动作是全书孤独的终点站——从「只有我听见」到「你也听见了」，此后的恐惧不再需要独自背。
 
-**读者视角提示**：记住这一拍：两个女人第一次共享不可解释——这正是第 17 章牌桌上错过的那个场景，迟到了一整本书。
+**读者视角提示**：记住这一拍：两个女人第一次共享不可解释——这正是第 14–16 章牌桌上错过的那个场景，迟到了一整本书。
 
 > **原句 3:** "The curtains hanging either side of the window have been pulled over. The table is empty apart from one lit pillar candle, sitting next to the hefty chunk of raw rose quartz that cost me more than any crystal ever did. Dust dances in the air, but it’s only visible around the middle."
 
@@ -42,7 +42,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：布景三件套完成一场「有人的空屋」：帘（遮外界）、烛（留活气）、石（她的信仰道具被借用）。dust 的写法是全段的眼：看不见的轮廓用尘埃显影——恐怖不靠形象，靠「绕着什么东西飘」。
 
-**读者视角提示**：rose quartz 被摆上桌=有人懂她的语言：这块「爱之水晶」在第 8 章见证过她的臆想，如今在灵异现场复活——她的工具成了别人的舞台道具。
+**读者视角提示**：rose quartz 被摆上桌=有人懂她的语言：这块「爱之水晶」在第 7 章见证过她的臆想，如今在灵异现场复活——她的工具成了别人的舞台道具。
 
 > **原句 4:** "My blood runs cold as I watch each of the stitches that had sewn her lips together snap. Her mouth opens wide enough to swallow me up and delivers one very clear instruction. One I’ve heard before. ‘RUN.’"
 

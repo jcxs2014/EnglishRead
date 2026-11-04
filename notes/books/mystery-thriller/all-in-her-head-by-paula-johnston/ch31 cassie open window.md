@@ -8,7 +8,7 @@ modified: "2026-11-03"
 ## 本章导航
 - **一句话概括**：沙发的早晨没有晨吻；插叙找猫之夜：窗「自己」开了、他拒绝帮忙、她在雨里走两个多小时——找到 Luna 时，他只摇头不语，此事从此封存。
 - **情感弧线位置**：第一次「不喜欢他」：爱意系统里长出第一根刺，被她连夜拔掉归档。
-- **线索结构**：晨吻制度断供；「rodent」的定性为猫的处境定价；窗开的悬案（他发誓不知情）与第 5 章「door opens」的钥匙意象同族；「What will people think of me」——他的利他全是橱窗。
+- **线索结构**：晨吻制度断供；「rodent」的定性为猫的处境定价；窗开的悬案（他发誓不知情）与第 1 章序幕的钥匙意象同族；「What will people think of me」——他的利他全是橱窗。
 - **人物弧线**：Cassie：为 Luna 独自冲进雨夜——不恐惧了，因为猫比怕大；Finlay：摔门、拒援、领人，三步全对齐「面子」坐标系。
 - **叙事手法**：雨夜找猫用感官清单推进（雨声、红砖、Converse 陷泥）；猫的视角留白（它看见了什么）；「never discussed」收尾——沉默当句号用。
 
@@ -22,7 +22,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：晨吻的缺席用「光」报时：他的作息永远准时，惩罚也一样。不用对话、不用描写，一个吻的取消把昨晚的沙发惩罚延续到了早晨——制度化的冷战不需要台词。
 
-**读者视角提示**：对照第 19 章「他悄无声息地下床」的 The Unknown 插章：同一个动作、同一种冷——「他」的模板从未变过，变的只是床上的女人。
+**读者视角提示**：对照 Part II 开篇「他悄无声息地下床」的 The Unknown 插章：同一个动作、同一种冷——「他」的模板从未变过，变的只是床上的女人。
 
 > **原句 2:** "My eyes instantly find the door, fearing punishment for this too, because as a child, I was constantly told off for wandering around the house without any socks or slippers on. Most of the time, I submitted to avoid entering a battle I didn’t understand. How could I possibly explain to my parents that it was the only thing that made me feel like I wasn’t about to be swept away?"
 
@@ -62,7 +62,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：恐惧的让位是爱的度量：为猫出门时，焦虑症全体熄火——她不是勇敢了，是优先级换了。 dislike 的首次入场写得极轻（uncomfortable），像仪器上一格最微弱的读数——但它出现了。
 
-**读者视角提示**：对照第 22 章开门时的恐慌：同一扇「出去」的门，为猫就推得开——她怕的从来不是外面，是没有理由地暴露。
+**读者视角提示**：对照第 19 章开门时的恐慌：同一扇「出去」的门，为猫就推得开——她怕的从来不是外面，是没有理由地暴露。
 
 > **原句 6:** "And then there it was – that familiar meow. The best thing I’ve ever heard in my life. The heavens began to sing as I shouted on her repeatedly, pushed my way through jaggy bushes that pinched my legs even through the fabric of my leggings, and found her cowering under a fallen tree. Shielding herself from the rain. I picked her up gently, and she pushed her soggy face into my neck."
 
@@ -72,7 +72,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：团圆写成一整支凯歌：猫叫、天唱、荆棘——每个障碍都在为拥抱计价。猫「挡雨」的细节反照全章：它自己找遮蔽的能力，正是他嘴里「rodent 活不成」的反证。湿脸埋进颈窝是本章唯一不需要解释的忠诚。
 
-**读者视角提示**：Luna 是这本书的忠心计量仪：谁在她最需要时到场，谁就是家人——这个标准，两个男人都没通过。
+**读者视角提示**：Luna 是这本书的忠心计量仪：谁在她最需要时到场，谁就是家人——这个标准，Finlay 没有通过。
 
 ## 本章词汇
 

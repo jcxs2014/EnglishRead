@@ -1,0 +1,14 @@
+{
+ "chapter":"ch42","source":"text/ch42_38_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"尸体倒地、金发女仍在旁，她承认自己没跑","anchor":"I didn’t run.","line":28,"span":[749,762]},
+  {"who":"Cassie","what":"承认用石头结束循环、也救 Blair；自问是否有暴力本能","anchor":"Have I always had such violence in me?","line":31,"span":[1300,1345]},
+  {"who":"Blair","what":"确认他已死，说「我们没事」","anchor":"I mean, he is dead – but that’s OK. We’re OK, Cassie.","line":40,"span":[1673,1737]},
+  {"who":"Cassie","what":"把玫瑰石英抱到水槽冲洗，怕石头吸他的血","anchor":"I can’t let the stone absorb his blood.","line":85,"span":[4330,4370]},
+  {"who":"Blair","what":"提议烧车毁尸；Cassie 反驳他不是一封信","anchor":"we could actually burn his body","line":103,"span":[5395,5435]},
+  {"who":"Blair","what":"计划用他的手机给他妈发消息：他去旅行寻己/交了新欢","anchor":"I’ll send her a message from his phone.","line":166,"span":[9491,9536]},
+  {"who":"Cassie","what":"把手机丢克莱德河、与 Blair 结盟一起收尾","anchor":"‘Let’s do it. But you’re not doing it by yourself. I’m coming with you. We will finish this together.’","line":196,"span":[11498,11600]}
+ ],
+ "relations":["Cassie 与 Blair 成为共犯；决定处理尸体并离开"],
+ "numbers":["两部手机？一部（text:175）"]
+}

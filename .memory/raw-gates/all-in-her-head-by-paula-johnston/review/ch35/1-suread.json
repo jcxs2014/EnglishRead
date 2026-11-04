@@ -1,0 +1,13 @@
+{
+ "chapter":"ch35","source":"text/ch35_31_blair.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Blair","what":"用钥匙进门，撞见形销骨立的 Nova；她以为自己被 Nova 跟踪破坏","anchor":"a familiar but alarmingly gaunt face stumbles out of the bathroom","line":16,"span":[48,122]},
+  {"who":"Blair","what":"本想回来道歉：承认解读说得对、他有黑暗面","anchor":"I came back to apologise.","line":28,"span":[1300,1325]},
+  {"who":"Blair","what":"认定他也对她下手，且速度快；自认坚强也未能免疫","anchor":"It seems he’s wasted no time with his latest project","line":31,"span":[1701,1759]},
+  {"who":"Nova","what":"惊慌否认：我男友叫 Finlay，从没提过你；这房子他住多年","anchor":"my boyfriend is called Finlay. Finlay Munro.","line":88,"span":[5013,5063]},
+  {"who":"Blair","what":"意识到 Nova 不是破坏者，也是受害者","anchor":"only just realising this isn’t her fault at all","line":94,"span":[5225,5274]},
+  {"who":"Blair","what":"警告：你身边的男人一直在骗你，现在不走可能再也走不了","anchor":"The man you think you know has been lying to you","line":106,"span":[5620,5662]}
+ ],
+ "relations":["Blair 与 Nova 首次对峙；Blair 已知 Finlay=George"],
+ "numbers":["Botox 在额头（text:73）"]
+}

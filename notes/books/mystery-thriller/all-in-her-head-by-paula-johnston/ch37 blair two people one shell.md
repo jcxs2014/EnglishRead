@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：逃亡的完成度极高：攻击（膝）、平衡（冰刀般的袜）、钥匙（咔哒）——每个环节都是普通人能复制的动作。without a thing 的空白为后文埋伏笔：她什么都没带，除了那串车钥匙——唯一的战利品也是唯一的错。
 
-**读者视角提示**：记住「Except the keys to his car」这个例外：它解释了她后来怎么有车、也解释了那晚 Uber 旁他为何能精准截人——车钥匙在他妈家事件后就换了主人。
+**读者视角提示**：记住「Except the keys to his car」这个例外：它解释了她后来怎么有车——车钥匙从此换了主人。
 
 > **原句 3:** "His posture is rigid, his jaw clenched, and the picture-perfect mask he wears so well has been well and truly discarded. It’s astonishing how quickly he can change. It really is like two people living in the same shell. You never know who you’re going to get. Or when."
 
@@ -52,7 +52,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：介绍词用讣告腔完成处刑：dearly departed 是葬礼用语，被 yet not so dead 当场推翻——他亲口承认自己知道她活着。这句台词一石三鸟：向 Blair 展示他掌握全况、向 Cassie 确认「死讯」是共谋成果、向自己确认控制未失。
 
-**读者视角提示**：把「not so dead」和第 12 章的「You're right. Your girlfriend is gone」并排：他的每句「死讯」都自带勘误表——只是读者现在才拿到完整版。
+**读者视角提示**：把「not so dead」和第 11 章的「You're right. Your girlfriend is gone」并排：他的每句「死讯」都自带勘误表——只是读者现在才拿到完整版。
 
 ## 本章词汇
 

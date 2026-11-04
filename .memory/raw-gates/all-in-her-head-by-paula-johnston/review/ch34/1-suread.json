@@ -1,0 +1,14 @@
+{
+ "chapter":"ch34","source":"text/ch34_30_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"发现紫色麂皮日记本不是自己的，犹豫是否偷看","anchor":"I’m reluctant to invade someone’s privacy without permission","line":19,"span":[277,341]},
+  {"who":"Cassie","what":"误以为日记属 Finlay，觉得他藏起来说明不信任她","anchor":"he doesn’t trust me enough to leave it lying around","line":22,"span":[556,632]},
+  {"who":"脑内声音","what":"两次吼她「读它」，越来越响","anchor":"‘Read it!’ a voice hollers loudly in my ear","line":40,"span":[1564,1610]},
+  {"who":"Cassie","what":"他早前说她信的那套无意义、或许需要专业帮助","anchor":"he told me that none of what I believed made any sense","line":43,"span":[1943,2004]},
+  {"who":"Cassie","what":"笔迹女性化、眼熟但想不起名字；首页主题圣诞","anchor":"too feminine with its curls and wisps, but there’s something familiar about it","line":55,"span":[3601,3692]},
+  {"who":"Cassie","what":"读完呕吐、连读三遍；自觉写的是 Finlay，但不愿信","anchor":"There’s just no way Finlay would ever treat someone the way this book describes.","line":61,"span":[4465,4548]},
+  {"who":"Cassie","what":"锁孔响，她把日记塞进睡裤腰藏好并挤出笑","anchor":"Tucking the journal behind my back and underneath my top","line":88,"span":[6308,6366]}
+ ],
+ "relations":["Cassie 找到可疑日记；最初误判为 Finlay 所有"],
+ "numbers":["三遍（text:73）"]
+}

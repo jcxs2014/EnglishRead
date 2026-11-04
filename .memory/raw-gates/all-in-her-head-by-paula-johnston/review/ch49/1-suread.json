@@ -1,0 +1,13 @@
+{
+ "chapter":"ch49","source":"text/ch49_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Louise","what":"站门口笑；Cassie 认出「Lou」后抱住她痛哭","anchor":"‘Lou?’ I finally manage.","line":13,"span":[210,234]},
+  {"who":"Louise","what":"解释：遇人、分手、崩溃、离开；一直自我修复、连家人都没联系","anchor":"I haven’t been in touch with anyone for a long time. Even my family.","line":61,"span":[2080,2152]},
+  {"who":"Blair","what":"审讯式追问去向；Louise 只说 moved around / different places","anchor":"‘Different places. I travelled.’","line":82,"span":[2672,2704]},
+  {"who":"Cassie","what":"计划三个人一起找报道里的失踪女孩","anchor":"Three eyes on the ground must be better than two.","line":100,"span":[3159,3207]},
+  {"who":"Blair","what":"直言不相信 Louise、让 Cassie 小心","anchor":"‘I don’t believe her,’ she states without hesitation.","line":109,"span":[3576,3625]},
+  {"who":"Blair","what":"否决让 Louise 参与：我们杀了人，谁都不能知道","anchor":"‘Because we fucking murdered someone. Nobody can know.","line":127,"span":[4034,4090]}
+ ],
+ "relations":["Louise 回归；Blair 不信任她；Cassie 想在旧友与新盟间撮合"],
+ "numbers":["十年（报道，见章外）；三人（text:100）"]
+}

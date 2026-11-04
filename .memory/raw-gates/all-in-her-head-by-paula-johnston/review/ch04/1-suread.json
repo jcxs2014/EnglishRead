@@ -1,0 +1,14 @@
+{
+  "chapter":"ch04","source":"text/ch04_3_cassie.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"Cassie","what":"开门见 Finlay：灰连帽衫、浅蓝牛仔裤、白球鞋；高她很多，像六英尺出头","anchor":"He must be a good three inches over six-foot, and he towers over my 5’2” stature like a guardian angel.","line":16,"span":[221,318]},
+    {"who":"Cassie","what":"屏息放松连五秒都做不到，骂自己可悲；只穿旧灰T恤与有破洞的打底裤","anchor":"I can’t even reach five seconds. Pathetic.","line":28,"span":[841,880]},
+    {"who":"Finlay","what":"清嗓但不正式问好；说“Eh, hi. You all right?”；自行走进门","anchor":"‘Eh, hi. You all right?’ He finally speaks","line":43,"span":[2516,2560]},
+    {"who":"Cassie","what":"低头发现裤脚还塞在白色毛绒睡袜里","anchor":"still firmly tucked into fluffy white pyjama socks","line":64,"span":[3806,3856]},
+    {"who":"Cassie","what":"把耳内尖鸣当作确有天赋的征兆","anchor":"haven’t I been experiencing an influx of signs? The ones that suggest I might actually be gifted.","line":76,"span":[4737,4842]},
+    {"who":"Cassie","what":"肚子警告她谨慎，心跳却压倒警觉","anchor":"Strangely, my guts are churning, warning me to be cautious – but my heart is much more powerful, dominating.","line":97,"span":[6866,6980]},
+    {"who":"Finlay","what":"无视她的座位指示，自行坐到窗边椅；椅脚刮木地板","anchor":"‘Do you mind?’ he asks, completely disregarding my instruction as he bounds toward the window.","line":106,"span":[7713,7807]}
+  ],
+  "relations":["Cassie 是解读师，Finlay 是她的第一位客人；本章为两人初次面对面"],
+  "numbers":["6 英尺出头 3 英寸；她 5 英尺 2（text:16）","五秒屏息做不到（text:28）","五天的干洗发水（text:52）","三十多岁（text:85）"]
+}

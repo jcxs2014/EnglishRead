@@ -1,0 +1,15 @@
+{
+ "chapter":"ch29","source":"text/ch29_26_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"准备约会夜惊喜，用他人的 Elnett 发胶做发型","anchor":"the Elnett hairspray I found in the bathroom cabinet","line":31,"span":[1141,1194]},
+  {"who":"Cassie","what":"14 岁第一次漂金发回忆：Donna 在厨房用帽钩折腾她一小时","anchor":"she tortured me for over an hour, stabbing at my scalp with a tiny sword","line":52,"span":[2752,2840]},
+  {"who":"Finlay","what":"回家冷淡，指出是周四不是周五，明早六点有课","anchor":"It’s Thursday – not Friday – and I’m fucking shattered.","line":106,"span":[6342,6399]},
+  {"who":"Cassie","what":"大包大揽错误、道歉，吹灭蜡烛改成简单吃饭","anchor":"the best thing to do is to take full accountability for my error","line":118,"span":[7228,7293]},
+  {"who":"Cassie","what":"整天没吃，偷偷吃虾片；他此前称要做 dummy-proof 餐单","anchor":"he said he’d start making me dummy-proof meal plans","line":136,"span":[8395,8447]},
+  {"who":"Finlay","what":"发现洋葱后爆发：自称过敏、斥她从不听、问她是否想害他","anchor":"do you want to hurt me? Is this a plan of yours?","line":157,"span":[10001,10048]},
+  {"who":"Finlay","what":"清算恩情：把她从 dark cave 带出、手指戳锁骨要她说他求过什么","anchor":"I took you out of that dark cave.","line":169,"span":[10755,10790]},
+  {"who":"Finlay","what":"最终指责她的头发；她问「像什么」时首次反问","anchor":"‘The hair, Cassie,’ he spits. ‘What the fuck is going on with your hair?’","line":199,"span":[12625,12698]}
+ ],
+ "relations":["Cassie 与 Finlay 同居；周四惊喜约会失败并爆发冲突"],
+ "numbers":["14 岁（text:49）","一周前吃过同款咖喱（text:154）","六点早课（text:106）"]
+}

@@ -1,0 +1,13 @@
+{
+ "chapter":"ch33","source":"text/ch33_the_unknown.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"她","what":"坐冰瓷砖上拔下一根头发夹进日记中缝当动力","anchor":"she applies pressure between her fingertips and yanks a strand of hair from her scalp","line":10,"span":[90,197]},
+  {"who":"她","what":"曾经金发如冠，如今黑短发、面颊凹陷、镜中如骷髅","anchor":"she sees a skeleton staring back","line":16,"span":[869,906]},
+  {"who":"她","what":"用厨房剪刀剪断长发，抹去最后身份，胃里燃起野火","anchor":"removing the last of her identity by taking the kitchen scissors to the side of her neck","line":22,"span":[1155,1253]},
+  {"who":"他","what":"一把攥住她后脑掐灭反抗","anchor":"snuffed out completely the minute he grabbed the back of her head with a clenched fist","line":25,"span":[1707,1802]},
+  {"who":"她","what":"暴力升级：恶语→惩罚威胁→遍身紫青","anchor":"now she’s reached the point of purple bruises embroidered across her body","line":28,"span":[1883,1948]},
+  {"who":"他","what":"把她按墙、抓下巴，威胁再犯就六英尺下带悔","anchor":"You’ll be haunted with regret, mourning the consequences of your own actions while you’re six feet under","line":37,"span":[3180,3306]}
+ ],
+ "relations":["她与「他」的关系已升级为身体暴力；她在日记里记录"],
+ "numbers":["六英尺下（text:37）"]
+}

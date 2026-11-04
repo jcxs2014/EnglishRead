@@ -1,0 +1,14 @@
+{
+ "chapter":"ch39","source":"text/ch39_35_blair.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Blair","what":"被 Nova 撞开、头撞 George 下巴，趁机脱身","anchor":"she plunges into my stomach. My head whips back, knocking George’s chin","line":22,"span":[118,222]},
+  {"who":"Blair","what":"拔电水壶砸他后脑，血落下、刀脱手；她把刀踢向 Nova","anchor":"I swing like a cricketer playing for my life, and it connects with the back of his skull with a crunch","line":28,"span":[728,844]},
+  {"who":"Nova/Cassie","what":"把 Blair 推开、一刀捅进 George 肩膀","anchor":"plunging the knife into George’s shoulder","line":37,"span":[1509,1551]},
+  {"who":"两人","what":"合力把五斗柜推抵卧室门，开窗准备跳下","anchor":"manoeuvred it in front of the bedroom door","line":55,"span":[2717,2764]},
+  {"who":"George","what":"在门外砸门吼「你们两个都杀」","anchor":"‘BOTH of you.’","line":70,"span":[3420,3438]},
+  {"who":"Cassie","what":"逃亡中交出真名 Cassie Torrance，称 Nova 不存在","anchor":"Nova is…well, she doesn’t exist, I suppose.","line":97,"span":[5037,5095]},
+  {"who":"Blair","what":"把皮衣披到她肩上、挽臂带她走","anchor":"I shrug off my leather jacket, wrap it around her shoulders","line":103,"span":[5617,5681]}
+ ],
+ "relations":["Blair 与 Cassie 共同逃亡；George 受伤被困屋内"],
+ "numbers":["五英尺落差（text:61）"]
+}

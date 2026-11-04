@@ -1,0 +1,13 @@
+{
+ "chapter":"ch46","source":"text/ch46_42_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Blair","what":"提议网上查她、又否决（怕引人注意），只偷偷查","anchor":"What’s one more secret between friends, right?","line":22,"span":[546,615]},
+  {"who":"Cassie","what":"说「我觉得她没死」——随即改口「我知道她死了」","anchor":"I don’t think she’s dead, OK?’ I practically shriek.","line":40,"span":[1103,1152]},
+  {"who":"Blair","what":"问屋里是不是有鬼、Cassie 能否看见","anchor":"is there someone in here, Cassie? Can you see her?","line":43,"span":[1401,1457]},
+  {"who":"Blair","what":"对空气说「借过，能让我们谈谈吗」","anchor":"‘Can you give us a moment? Thanks, babe.’","line":67,"span":[2642,2683]},
+  {"who":"Cassie","what":"提出用两个世界的证据一起查，认为她有未竟之事","anchor":"With evidence from both this world and the other side.","line":70,"span":[2741,2792]},
+  {"who":"Blair","what":"笑骂她 bonkers，说就爱这一点、永远别为任何人改变","anchor":"Never change for anyone.","line":85,"span":[3863,3886]}
+ ],
+ "relations":["Cassie 与 Blair 结成捉鬼同盟"],
+ "numbers":["无数字"]
+}

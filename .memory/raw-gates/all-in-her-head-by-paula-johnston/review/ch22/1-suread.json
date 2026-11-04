@@ -1,0 +1,14 @@
+{
+ "chapter":"ch22","source":"text/ch22_19_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"前夜失眠，6 a.m. 起床准备「一生一次的约会」","anchor":"the clock on my phone finally reached 6 a.m.","line":19,"span":[516,566]},
+  {"who":"Cassie","what":"凌晨两点半涂了芭比粉趾甲，视为今日省一事","anchor":"fresh Barbie-pink toenails I decided to paint at half two in the morning","line":25,"span":[1556,1641]},
+  {"who":"Cassie","what":"独自在家怕意外无人知晓：浴室滑倒、止痛药后睡死","anchor":"I could slip in the shower and knock myself unconscious.","line":37,"span":[3634,3698]},
+  {"who":"Cassie","what":"久未出门，自称蛰居靠送货上门，「就这么发生了」","anchor":"I didn’t plan on isolating myself from the outside world. It just sort of happened","line":85,"span":[9763,9868]},
+  {"who":"Cassie","what":"洗四遍头、两把剃刀、宣告重生如蛇蜕皮","anchor":"Two disposable razors later and I felt like the smoothest of dolphins.","line":64,"span":[8263,8338]},
+  {"who":"Cassie","what":"出门前给 Luna 满碗猫粮，怕自己晚归","anchor":"just in case tonight goes really well and I don’t make it back until late","line":97,"span":[11305,11396]},
+  {"who":"脑内声音","what":"开门时右耳尖鸣并吼 RUN；她回「知道了」照样开门","anchor":"‘RUN,’ a voice hollers.","line":112,"span":[12227,12252]}
+ ],
+ "relations":["Cassie 为约会出门；与 Luna 同住"],
+ "numbers":["6 a.m.（text:19）","凌晨 2:30 涂趾甲（text:25）","洗头四次（text:61）","两把剃刀（text:64）"]
+}

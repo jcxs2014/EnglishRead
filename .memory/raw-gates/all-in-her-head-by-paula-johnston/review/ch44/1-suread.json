@@ -1,0 +1,14 @@
+{
+ "chapter":"ch44","source":"text/ch44_40_blair.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Blair","what":"Cassie 染火红发、气色好转，从十分升到十五分（Blair 打分）","anchor":"Cassie Torrance has gone from a close ten to a solid fifteen.","line":19,"span":[342,414]},
+  {"who":"Blair","what":"Blair 感激被邀同住；两人被同一个秘密绑住，但她也说本会喜欢她","anchor":"I think I’d have liked her anyway if we’d met another way.","line":28,"span":[1128,1179]},
+  {"who":"Blair","what":"不说 George；他死了她很高兴","anchor":"I’m fucking glad that the bastard is gone.","line":34,"span":[1789,1831]},
+  {"who":"Blair","what":"Cassie 选后屋卧室；Blair 帮她翻新（粉墙、白地板、窗座）","anchor":"Her old Tarot reading room is now a far cry from something more fitting for a creepy old granny","line":46,"span":[2940,3027]},
+  {"who":"Blair","what":"首要任务是劝 Cassie 看医生；处方单由她代接","anchor":"I did it for her, grabbing the pink slip, and then her hand.","line":67,"span":[5837,5895]},
+  {"who":"Blair","what":"Cassie 坦白读过「你的日记」且一直藏着","anchor":"I read it – your journal, I mean.","line":130,"span":[11040,11074]},
+  {"who":"Blair","what":"Blair 内心：她从没有日记，自己书里只有 TITLE UNKNOWN 两字","anchor":"There’re only two words in it too: TITLE UNKNOWN.","line":133,"span":[11598,11642]}
+ ],
+ "relations":["Cassie 与 Blair 同居；Blair 帮 Cassie 装新卧室、看医生"],
+ "numbers":["十分→十五分（text:19）"]
+}

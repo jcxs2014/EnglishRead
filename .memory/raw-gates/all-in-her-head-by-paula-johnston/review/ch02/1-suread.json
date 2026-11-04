@@ -1,0 +1,15 @@
+{
+  "chapter": "ch02", "source": "text/ch02_1_cassie.txt", "readOrder": "text-only before md",
+  "facts": [
+    {"who":"Cassie（第一人称）","what":"客人十点三十一敲门，比约定早十四分钟","anchor":"My guest isn’t due for another fourteen, to be precise","line":16,"span":[369,431]},
+    {"who":"Cassie","what":"停掉 Stevie Nicks 黑胶并改播 YouTube 舒缓歌单","anchor":"I lift the remote for the television, bring it to life, and push the YouTube button","line":31,"span":[1089,1172]},
+    {"who":"Cassie","what":"认为在自己家也像冒牌货、骗子；按太阳穴并有头颅爆炸的自伤想法","anchor":"Even in the comfort of my own home, I’m nothing but an imposter. A fraud.","line":40,"span":[2749,2829]},
+    {"who":"Cassie","what":"不确定来客该叫客户还是顾客，担心吐在客户身上","anchor":"Or is it a customer? I’m still not too sure what to call people who come to visit","line":55,"span":[4338,4424]},
+    {"who":"Cassie","what":"忆起十五岁滑冰场被边缘化、其他女孩藏四分之一瓶伏特加","anchor":"They had no qualms about smuggling quarter bottles of vodka in their backpacks","line":61,"span":[5158,5240]},
+    {"who":"Cassie","what":"三十年来生日愿望是修好自己；发现 Finlay Munro 门外踱步","anchor":"The same wish has trumped any other for many of my thirty years.","line":64,"span":[5960,6030]},
+    {"who":"Cassie","what":"做这份事业是生死攸关，曾盼睡后不再醒","anchor":"For me, it was a matter of life or death. I no longer wanted to go to sleep at night, wishing I’d never open my eyes again.","line":91,"span":[7092,7218]},
+    {"who":"Cassie","what":"开门后令她几乎跌退的是他的样子而非风","anchor":"But it’s not the wild nip of the air that almost sends me flying, it’s the sight of him.","line":97,"span":[7514,7607]}
+  ],
+  "relations":["Cassie 尚未与门外的 Finlay Munro 正式会面；来客属于她的新事业"],
+  "numbers":["10:31，提前 fourteen 分钟（text:16）","十五岁的滑冰记忆（text:61）","三十年生日愿望（text:64）"]
+}

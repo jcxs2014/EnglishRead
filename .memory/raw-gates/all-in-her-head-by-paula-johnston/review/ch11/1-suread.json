@@ -1,0 +1,15 @@
+{
+  "chapter":"ch11","source":"text/ch11_10_blair.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"Blair","what":"回程沉默；问路时 George 只叹气、看窗外，让她自己找","anchor":"he’d huff a little bit more, pretend to focus on something outside, and leave me to figure it out myself.","line":16,"span":[248,389]},
+    {"who":"Blair","what":"认定 Maria 进门前就讨厌她；George 一次也没替她说话，是盔甲第一道裂缝","anchor":"It’s the first chink in the armour I’ve witnessed","line":22,"span":[848,894]},
+    {"who":"George","what":"回家后踢她脱下的衣服，指责皮裤、靴子、上衣暴露","anchor":"‘You know, leather leggings…wasn’t one of your best choices, was it?","line":28,"span":[1291,1365]},
+    {"who":"George","what":"称母亲今天费了心，Blair 回怼后他摔门而出","anchor":"‘She went to a lot of effort for you today, by the way,’ he continues.","line":40,"span":[1779,1849]},
+    {"who":"George","what":"取消她的中餐外卖，理由是她浪费了午餐","anchor":"‘And it’s not going to. I cancelled your order.","line":64,"span":[3034,3084]},
+    {"who":"Blair","what":"光脚拎靴溜出门，叫 Uber 去旧酒吧找同事喝酒，想让他紧张","anchor":"I’m heading straight to the bar I used to work at to have some fun of my own.","line":88,"span":[5304,5391]},
+    {"who":"Blair","what":"等车时参加抽奖，最新一条不在舒适区仍点了参与","anchor":"The one my thumb is hovering over now is a bit out of my comfort zone","line":94,"span":[6827,6896]},
+    {"who":"George","what":"在 Uber 旁截住她，令司机取消，道歉并领她回家；手指扣紧她上臂","anchor":"‘It’s all right, mate. Just cancel this one,’ George says","line":103,"span":[7586,7652]}
+  ],
+  "relations":["Blair 与 George 同居，冲突升级；她尝试离开又被带回"],
+  "numbers":["本月已抽过巴黎两晚、Loch Lomond 木屋、百镑护肤包（text:94）"]
+}

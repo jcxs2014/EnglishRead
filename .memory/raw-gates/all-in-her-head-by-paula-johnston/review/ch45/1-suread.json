@@ -1,0 +1,14 @@
+{
+ "chapter":"ch45","source":"text/ch45_41_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"把日记当 Blair 的，要还给她，并说等她自己开口","anchor":"you should have them back in your possession","line":19,"span":[437,481]},
+  {"who":"Blair","what":"说完全不知道她在讲什么","anchor":"‘I literally have no idea what you’re talking about.’","line":28,"span":[767,820]},
+  {"who":"Cassie","what":"在书架上翻找，抽出一本紫色本子","anchor":"I spot the plum purple that matches the shade of my front door","line":40,"span":[1568,1631]},
+  {"who":"Blair","what":"读后面色发白、难以置信，问从哪来的","anchor":"the colour completely drains from her face","line":49,"span":[2216,2264]},
+  {"who":"Cassie","what":"出处：George 家浴缸后松木暗板","anchor":"It was under the tub in the bathroom, behind a dodgy wooden panel.","line":64,"span":[3000,3069]},
+  {"who":"金发女","what":"站到 Blair 身边、目光锁住 Cassie；像三人合体、停在年轻","anchor":"looking like a combination of all three of us","line":127,"span":[5237,5286]},
+  {"who":"Blair","what":"声明不是她写的、从没见过这本书，提出「在我们之前还有一个人」","anchor":"I’ve never seen that book before in my life.","line":151,"span":[6328,6372]}
+ ],
+ "relations":["Cassie 与 Blair 共同确认日记非 Blair 所写"],
+ "numbers":["三人合体（text:127）"]
+}

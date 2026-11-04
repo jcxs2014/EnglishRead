@@ -52,7 +52,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：他用一个动作重排了空间：椅子被拎过来，她设定的座位制度再次作废。洋娃娃椅的比喻是视点泄密——在她眼里自己的领地缩成了玩具屋；knees almost touching 把压迫写成亲昵的形状。
 
-**读者视角提示**：对照第 5 章的窗边座位——他每次都把自己安放进「不该在」的位置，而她的反应都是接受。这个循环本身就是人物关系。
+**读者视角提示**：对照第 3 章的窗边座位——他每次都把自己安放进「不该在」的位置，而她的反应都是接受。这个循环本身就是人物关系。
 
 > **原句 5:** "And Finlay Munro has been the one to finally awaken something truly powerful within me. Suppose he was always destined to come into my life? He’s the one I’ve been waiting for. The reason I’ve never connected with anyone else."
 

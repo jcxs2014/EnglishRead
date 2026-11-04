@@ -1,0 +1,14 @@
+{
+ "chapter":"ch30","source":"text/ch30_27_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Finlay","what":"骂她的发色太浅、廉价，要求重染成蜜糖色","anchor":"It’s supposed to be warm, like honey. Why don’t you try again, eh?","line":109,"span":[6627,6696]},
+  {"who":"Finlay","what":"把她比作前女友：不听、只顾自己","anchor":"This is exactly what she started doing.","line":28,"span":[710,760]},
+  {"who":"Finlay","what":"疑她与「她」通气：Did she tell you to do this?","anchor":"Did she tell you to do this? Have you been speaking to her?","line":34,"span":[1242,1304]},
+  {"who":"Finlay","what":"诅咒她六英尺下带着悔恨","anchor":"while you’re six feet under, buried in the dirt","line":34,"span":[1304,1360]},
+  {"who":"Cassie","what":"全盘认错、说我爱你，令他的怒气像气球破裂消散","anchor":"the pressure begins to evaporate like a burst balloon","line":67,"span":[3473,3530]},
+  {"who":"Finlay","what":"问她今天洗没洗澡，借此把她带进浴室","anchor":"Have you had a shower today?","line":73,"span":[4155,4183]},
+  {"who":"Finlay","what":"事后要她今晚睡沙发，理由是需 space","anchor":"I think it might be best if you sleep on the couch tonight.","line":94,"span":[5785,5838]}
+ ],
+ "relations":["Cassie 与 Finlay 冲突升级；他以发色与前女友为由惩罚她"],
+ "numbers":["六英尺（text:34）"]
+}

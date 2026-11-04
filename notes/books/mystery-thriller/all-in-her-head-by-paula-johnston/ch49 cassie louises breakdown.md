@@ -8,7 +8,7 @@ modified: "2026-11-03"
 ## 本章导航
 - **一句话概括**：Louise 的「崩溃版」回归叙事摆在桌上：遇人、分手、出走、疗伤——Blair 的审讯一路「Convenient」到底，最后一票否决：我们杀了人，她不能沾。
 - **情感弧线位置**：三角紧张期：重逢的喜与叙事的假同桌共餐——Cassie 在旧谊与新盟之间第一次被拉成对角线。
-- **线索结构**：「breakdown」的官方版本与第 47 章的真相（藏匿、棋局）构成全书最大的叙事落差；Blair 的多疑在此反成读者的直觉代理；「mute coven」的女巫桌咒语——三个女人各自守着一段不能说的历史。
+- **线索结构**：「breakdown」的官方版本与收尾插章的真相（藏匿、棋局）构成全书最大的叙事落差；Blair 的多疑在此反成读者的直觉代理；「mute coven」的女巫桌咒语——三个女人各自守着一段不能说的历史。
 - **人物弧线**：Cassie：用「我最懂」为旧友背书——她的判断力仍在给人情记账；Blair：从第一天起就在撕对方的口供——她不信任「恰好回来的人」。
 - **叙事手法**：审讯用快问短答（Where/Where/Different places）打乒乓；「emotional tennis」的自喻给全场配速；章尾一票否决+离席，把结盟的门槛重新抬高。
 
@@ -20,7 +20,7 @@ modified: "2026-11-03"
 
 **关键词**：her explanation / finding it hard to believe / never showed any warning signs / After all, I would know
 
-**为什么这样写**：怀疑的依据是专业身份：Cassie 以「资深受难者」自居，宣称能从最微的征兆里读出崩溃。After all, I would know 五个字是全书最大的自我讽刺——她恰恰是那个「看起来毫无异样」的人（第 8 章「I don't look like I'm suffering」）。
+**为什么这样写**：怀疑的依据是专业身份：Cassie 以「资深受难者」自居，宣称能从最微的征兆里读出崩溃。After all, I would know 五个字是全书最大的自我讽刺——她恰恰是那个「看起来毫无异样」的人（第 7 章「I don't look like I'm suffering」）。
 
 **读者视角提示**：这层反讽等读者自己拆：她用「我懂」替旧友作保，用的标准却正是别人当年没能对她生效的那套——书里最温柔的错位。
 
@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：计划书的荒谬在于分配：让「失踪案的主角」帮忙寻找「失踪的她」。three eyes 的算术把三条线（罪案/灵异/旧谊）一次并账——读者知道答案，主角不知道，戏剧张力全靠这道信息差供能。
 
-**读者视角提示**：对照第 47 章「she'd abandoned Cassie not once, but twice」：Louise 回归的目的与 Cassie 的算盘隔着一整本书——下一次转折，将由这个差值引爆。
+**读者视角提示**：对照收尾插章「she'd abandoned Cassie not once, but twice」：Louise 回归的目的与 Cassie 的算盘隔着一整本书——下一次转折，将由这个差值引爆。
 
 > **原句 3:** "‘Because we fucking murdered someone. Nobody can know. I mean it, Cassie. She’s not getting involved.’"
 

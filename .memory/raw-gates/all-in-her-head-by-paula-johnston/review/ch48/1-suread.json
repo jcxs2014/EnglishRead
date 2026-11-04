@@ -1,0 +1,13 @@
+{
+ "chapter":"ch48","source":"text/ch48_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"找到旧报纸的失踪女照片：二十出头、蜜金发、雀斑","anchor":"The woman looks to be in her early twenties. Honey blonde hair","line":22,"span":[412,498]},
+  {"who":"Cassie","what":"报道：十年前失踪、无尸体、无逮捕、无嫌疑人；男友曾被调查后排除","anchor":"Vanished ten years ago. No body was ever found. No arrests.","line":67,"span":[1994,2060]},
+  {"who":"Blair","what":"认出照片：是 Maria 家墙上被裁掉合影的另一半","anchor":"there was a photo hanging on the wall, but the other person had been cropped out","line":112,"span":[2854,2940]},
+  {"who":"Cassie","what":"确认鬼魂就是那个失踪的真人","anchor":"it’s the same woman who keeps showing up in my house","line":121,"span":[3127,3187]},
+  {"who":"Cassie","what":"决定去找她，认为她需要帮助","anchor":"She needs our help. I think we need to find her.","line":151,"span":[4195,4245]},
+  {"who":"两人","what":"门口三声敲门；开门见 Cassie 失联挚友","anchor":"standing in front of us, is my long-lost best friend","line":247,"span":[6043,6110]}
+ ],
+ "relations":["Cassie 与 Blair 追查失踪女子；门口来客是 Cassie 旧友"],
+ "numbers":["十年前失踪（text:67）","二十出头（text:22）"]
+}

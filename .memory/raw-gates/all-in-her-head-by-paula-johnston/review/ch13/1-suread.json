@@ -1,0 +1,15 @@
+{
+  "chapter":"ch13","source":"text/ch13_12_blair.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"George 与 Blair","what":"昨夜激烈性爱后他冷淡；她手臂留下他按住她的黄圈","anchor":"I notice small yellow circles dotted across my arm from where his hands pinned me to the bed, rendering me submissive.","line":25,"span":[699,817]},
+    {"who":"Blair","what":"认为 George 自见母亲后变了，此前他最爱她的 edge","anchor":"since we went for lunch with his mum, it’s almost like he can’t stand me.","line":43,"span":[1971,2021]},
+    {"who":"Blair","what":"咖啡洒在新漆窗台，等他发作却没来，用小臂擦净","anchor":"I wait with bated breath for the childlike tantrum to erupt, but it doesn’t come","line":82,"span":[5668,5745]},
+    {"who":"Blair","what":"称他扔了她的低胸上衣、换成高领与长袖，她反觉得自己不识好歹","anchor":"I swear he threw out a bunch of my low-cut tops and replaced them with high-neck polos and long-sleeved dresses","line":88,"span":[6308,6420]},
+    {"who":"Blair","what":"她全部物品只放在一米五长、潮湿发霉的储物柜；他的衣柜与抽屉大量空位","anchor":"This is my domain in here, in this cupboard.","line":94,"span":[7824,7870]},
+    {"who":"Blair","what":"今晨收到中奖通知，可当天预约那位通灵师","anchor":"I got a notification this morning that I’d won that competition, and I could claim a slot today.","line":115,"span":[9441,9557]},
+    {"who":"George","what":"质疑她不是不信这些吗；她说是为他近来反常才去求助","anchor":"You said you don’t believe in any of that shit.","line":118,"span":[9755,9805]},
+    {"who":"Blair","what":"她赌气出门，他喊她回来；她跑起来，怕再来一次被劝住","anchor":"Maybe I’m worried he’ll come after me again like he did last night and convince me to stay.","line":160,"span":[12196,12308]}
+  ],
+  "relations":["Blair 与 George 同居；他控制她的衣着与行动；她决定去求助通灵师"],
+  "numbers":["储物柜约一米五长（text:94）","六个月深抽屉（text:91）"]
+}

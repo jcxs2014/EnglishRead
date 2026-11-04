@@ -1,0 +1,15 @@
+{
+  "chapter":"ch15","source":"text/ch15_14_blair.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"Blair","what":"步行去目的地，后悔没开 George 的车；认为 mi casa su casa 则车也共享","anchor":"If mi casa su casa, then mi car su car.","line":16,"span":[214,273]},
+    {"who":"Blair","what":"按中奖讯息与地图找到 22 号，认定楼下才是通灵师住处","anchor":"I’m looking for number twenty-two.","line":28,"span":[1264,1313]},
+    {"who":"Blair","what":"犹豫是否来对了：开门者苍白娇小、像与她同龄却眼神苍老","anchor":"old-soul eyes that look like she’s lived a thousand more years","line":46,"span":[3773,3850]},
+    {"who":"Nova","what":"引她进门、带路，始终挂着一个像缝住不掉的笑","anchor":"Like a mask that never slips because it’s stapled to a face instead of tied.","line":55,"span":[4890,5026]},
+    {"who":"Blair","what":"注意到大桌只配两把椅子，觉得浪费","anchor":"It could easily fit a family of ten around it at Christmas, but there are only two chairs","line":58,"span":[5136,5237]},
+    {"who":"Nova","what":"说可以录音；Blair 仍决定录下，想给 George 听","anchor":"‘You can record this reading if you want. I don’t mind,’ she says","line":88,"span":[7316,7387]},
+    {"who":"Nova","what":"念免责声明：不是医生/治疗师；洗牌动作凌乱","anchor":"her movements are messy, chaotic","line":115,"span":[8401,8447]},
+    {"who":"Nova","what":"自我介绍为 Nova","anchor":"‘Oh, my God, I’m sorry. Where are my manners? I’m Nova, by the way.’","line":121,"span":[8760,8828]}
+  ],
+  "relations":["Blair 首次到访 Nova 的解读室；Nova 不知她是 George 的女友"],
+  "numbers":["十人桌、两把椅子（text:58）","10 a.m. 到场（text:37）"]
+}

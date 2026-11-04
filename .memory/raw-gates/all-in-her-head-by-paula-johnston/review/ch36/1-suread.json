@@ -1,0 +1,14 @@
+{
+ "chapter":"ch36","source":"text/ch36_32_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Blair","what":"揭穿真名：George Finlay Munro，Finlay 只是中间名","anchor":"‘His name is George, Nova. Not fucking Finlay – that’s his middle name.","line":19,"span":[180,253]},
+  {"who":"Cassie","what":"联想到日记作者＝他的前女友＝眼前 Blair","anchor":"It’s her. The ex. The author of the book digging into my spine.","line":25,"span":[660,733]},
+  {"who":"Blair","what":"质问 Cassie 是否告诉 George 她死了；George 清楚她没死","anchor":"‘You told him I was dead? What the fuck, Nova? George knows fine well I’m not dead.’","line":49,"span":[1655,1739]},
+  {"who":"Cassie","what":"日记内容对上：同居、圣诞约会、发色被染深","anchor":"The stories of moving in together, Christmas dates, and a huge arrow pointing at the colour of her hair darker than an eclipsed sky.","line":55,"span":[1878,2012]},
+  {"who":"Cassie","what":"忏悔自己未经许可把「她」写死，像处理剧里碍事角色","anchor":"I killed her off without permission.","line":58,"span":[2511,2543]},
+  {"who":"Blair","what":"命令她立刻走；Cassie 坚持要带猫 Luna","anchor":"‘But I can’t leave without Luna, my cat.","line":76,"span":[3650,3688]},
+  {"who":"Cassie","what":"正把 Luna 塞进航空箱，门口又响锁孔，两人同时回头","anchor":"I hear the click of the door once more","line":91,"span":[4491,4529]}
+ ],
+ "relations":["Blair 与 Cassie 结盟逃亡；Cassie 仍在给 Finlay/George 当解读师"],
+ "numbers":["牌四张：Magician/Fool/Tower/Devil（text:64）"]
+}

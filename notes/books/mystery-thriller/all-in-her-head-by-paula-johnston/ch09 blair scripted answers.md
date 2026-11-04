@@ -46,7 +46,7 @@ modified: "2026-11-03"
 
 > **原句 4:** "But I softened my stance because he said that he made more than enough money to support both of us and that he wouldn’t feel comfortable with me being wolf-whistled at by drunken men if we were to be together. He wouldn’t take no for an answer and in the end, I couldn’t bear seeing him sat upright in bed, red-eyed and worried for my safety when I finally did return to the flat after a 1 a.m. finish."
 
-**中文理解**：但她让步了，因为他说他挣的钱足够养两个人，不忍心她和醉汉调戏她的深夜夜班；他不容拒绝，最后她也受不了——凌晨一点收工回家，看到他直挺挺坐在床上、双眼通红地为她担心的样子。
+**中文理解**：但她让步了，因为他说他挣的钱足够养两个人，不忍心她被醉汉在深夜班上调戏；他不容拒绝，最后她也受不了——凌晨一点收工回家，看到他直挺挺坐在床上、双眼通红地为她担心的样子。
 
 **关键词**：softened my stance / wolf-whistled at by drunken men / Wouldn’t take no for an answer / red-eyed and worried
 

@@ -1,0 +1,15 @@
+{
+ "chapter":"ch25","source":"text/ch25_22_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"脑中排练 Mrs Cassie Munro，却甩不掉不配感","anchor":"Mrs Cassie Munro sounds perfect for me.","line":19,"span":[415,460]},
+  {"who":"Cassie","what":"得知他 34 岁、不/不能开车、住处与她相近、教课排满","anchor":"ageing like a fine wine at thirty-four, doesn’t, or can’t, drive","line":22,"span":[592,670]},
+  {"who":"Cassie","what":"认定他是好灵魂、绝不会拿她的话对付她","anchor":"He would never use anything I’ve done or said against me","line":40,"span":[2746,2800]},
+  {"who":"Cassie","what":"感觉灵魂两半合体，从没人这样努力理解她","anchor":"two halves of one soul are finally uniting","line":52,"span":[4292,4337]},
+  {"who":"Finlay","what":"提议走到他家坐坐、可叫车或送她回家，坦言不想结束今晚","anchor":"I’ll be completely honest with you…I don’t want to end the night yet.","line":109,"span":[9092,9170]},
+  {"who":"Cassie","what":"一路交代年龄、职业、无友、与父母疏远","anchor":"I’ve confessed my age, my career history, my lack of friends, and my relationship with my estranged parents","line":133,"span":[10249,10376]},
+  {"who":"Finlay","what":"门口把她抵门又弹开；她道歉后他将她抱起猛吻","anchor":"he snaps back like an elastic band, pinging away from me, leaving behind nothing but the sharp sting","line":160,"span":[12349,12450]},
+  {"who":"Finlay","what":"说他从没这种感觉、她 perfect","anchor":"‘I’ve never felt this way before. You’re perfect, Cassie. Just perfect.’","line":175,"span":[13761,13833]}
+ ],
+ "relations":["Cassie 与 Finlay 约会结束；他邀她去住处；两人首次深吻"],
+ "numbers":["34 岁（text:22）","三十五分钟步行距离（text:28）"]
+}

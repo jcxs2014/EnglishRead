@@ -62,7 +62,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：命令升格为纵火建议：烧掉的不只是水晶，是她的手艺、收入与身份。torched 的暴力修辞裹着玩笑的语气——他是笑着递刀的。那摊「shite」里还包括 Nova：她的职业、她的铠甲。
 
-**读者视角提示**：对照第 26 章「creepy witchy shit」：两个词组同指一物——他从未改口过，只是她第一次听清。
+**读者视角提示**：对照第 23 章「creepy witchy shit」：两个词组同指一物——他从未改口过，只是她第一次听清。
 
 > **原句 6:** "I feel my worst fears begin to crawl up my windpipe, acidic and piping hot. What if she’s been found? The girlfriend. And is she dead, like I suggested? Or is she alive and kicking? What if he wants her back? What if she wants him back?"
 

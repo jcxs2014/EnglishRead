@@ -1,0 +1,14 @@
+{
+ "chapter":"ch27","source":"text/ch27_24_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"Three weeks later：在白墙套房冥想，仍无法静心，幻想地毯带她飞离世界","anchor":"Sometimes I still find myself wishing it would help me fly away from this world completely.","line":27,"span":[1934,2036]},
+  {"who":"Cassie","what":"同居规则：每天洗澡更衣、看他爱的电视、吃他配的健康餐","anchor":"Finlay likes me to be showered and dressed every day, even if I am just mulling around the flat.","line":42,"span":[3908,4013]},
+  {"who":"Cassie","what":"承认谎言可怕、自己可能疯了","anchor":"It was recklessly impulsive, and not something any normal person would ever do.","line":45,"span":[5031,5113]},
+  {"who":"Cassie","what":"觉公寓闹鬼：前女友衣物、五号球鞋、洗护用品仍在","anchor":"Size five designer trainers and sexy leather boots are waiting for their owner to return.","line":60,"span":[7196,7290]},
+  {"who":"Cassie","what":"雨中搬家时他旋她起舞，说从没这样爱过谁、她是他一直需要的","anchor":"I don’t think I’ve ever loved anyone as much as I do you, Cas.","line":66,"span":[7947,8012]},
+  {"who":"Cassie","what":"第一次见他发怒：她提议清走旧物，他像换了个人","anchor":"It’s the first time I saw him angry.","line":75,"span":[8916,8953]},
+  {"who":"Cassie","what":"最终怀疑是自己带来坏能量，念 good vibes only","anchor":"What if it’s me who’s brought some seriously bad energy into this beautiful home","line":81,"span":[9655,9742]}
+ ],
+ "relations":["Cassie 已搬入 Finlay 家三周；她与前女友遗物共处"],
+ "numbers":["三周（text:14）","地毯 £29.99（text:27）","五号球鞋（text:60）"]
+}

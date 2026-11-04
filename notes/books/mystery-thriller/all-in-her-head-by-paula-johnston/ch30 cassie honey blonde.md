@@ -62,7 +62,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：惩罚穿着理性外衣登场：不是赶她走，是「需要空间」。刚在浴室和好、刚做完爱——床的收回比拒绝更狠：它证明亲密的发放与缴回都由同一只手执行。
 
-**读者视角提示**：对照第 11 章「取消外卖」：同款逻辑——「你搞错了，所以你没资格享受」。惩罚的科目从食物扩展到了床。
+**读者视角提示**：对照第 10 章「取消外卖」：同款逻辑——「你搞错了，所以你没资格享受」。惩罚的科目从食物扩展到了床。
 
 > **原句 6:** "‘Your hair – it’s the wrong colour. It looks too white. Cheap. It’s supposed to be warm, like honey. Why don’t you try again, eh? See if you have better luck a second time.’"
 

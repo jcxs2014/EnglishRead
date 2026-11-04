@@ -1,0 +1,14 @@
+{
+  "chapter":"ch14","source":"text/ch14_13_cassie.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"Finlay","what":"听完判决后掐喉咙、喉结滚动、起身要水","anchor":"‘I need a glass of water.’","line":16,"span":[180,221]},
+    {"who":"Cassie","what":"厨房呛水、心跳失控，把双腕浸入冰水后缓解","anchor":"Plunging both my wrists under the icy water that’s still running, I hold them there, despite the sting.","line":28,"span":[1371,1490]},
+    {"who":"Cassie","what":"自知谎言已毁道德，但怕他脾气、决定继续演到底","anchor":"I’ve just blown my morals to smithereens, but I don’t know how he’ll react when I tell him that I made it all up.","line":43,"span":[2078,2141]},
+    {"who":"Finlay","what":"回房后已平静坐下、像什么都没发生；接过水一饮而尽","anchor":"he’s sitting down again, patiently waiting for my return as if I’d just nipped to the loo and nothing more","line":52,"span":[2690,2820]},
+    {"who":"Cassie","what":"正式告知「你女友已不在我们中间」，自称是他的 loss","anchor":"‘I am very sorry for your loss. You were right, your girlfriend is unfortunately no longer with us.’","line":97,"span":[4755,4855]},
+    {"who":"旁白/环境","what":"雷雨砸窗；她看见他的眼睛不像他的","anchor":"Because the eyes I’m looking into don’t belong to him.","line":103,"span":[5344,5401]},
+    {"who":"叙述者","what":"暴风雨前屋内两人，如今他肩后多出一个女人，共三人","anchor":"Before the storm, there were just two people in this room – and now, including the woman standing behind his shoulder, there are three.","line":106,"span":[5404,5539]}
+  ],
+  "relations":["Cassie 向 Finlay 宣告其女友死亡；她看见他身后有女人显形"],
+  "numbers":["三人计数（text:106）"]
+}

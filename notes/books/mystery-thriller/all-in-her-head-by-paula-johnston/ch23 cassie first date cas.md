@@ -56,7 +56,7 @@ modified: "2026-11-03"
 
 > **原句 5:** "I want to jump up from my chair and celebrate him even being here. So, yes, I think that’s a great idea. I want him to change everything. Anything. I want him to make my life extraordinarily better, so I’d probably agree to anything right now, regardless of what that involves or what he desires."
 
-**中文理解**：她想从椅子上跳起来庆祝「他居然真的来了」。所以对，好主意。她要他改变一切。什么都行。她要他把人生变得翻天覆地地好——所以此刻他想要什么，她大概都会答应，不管那 involves 什么、不管他 desire 什么。
+**中文理解**：她想从椅子上跳起来庆祝「他居然真的来了」。所以对，好主意。她要他改变一切。什么都行。她要他把人生变得翻天覆地地好——所以此刻他想要什么，她大概都会答应，不管那涉及什么、不管他想要什么。
 
 **关键词**：celebrate him even being here / change everything / agree to anything / what he desires
 

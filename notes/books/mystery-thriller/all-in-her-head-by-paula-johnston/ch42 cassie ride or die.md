@@ -22,7 +22,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：全书的「RUN」语法在此倒转：声音第 N 次喊跑，她第一次站住。cycle of poor decisions 的自我诊断与 puzzle piece 的顿悟并置——她的「顿悟」 horrifying 地高效：不用天赋、不用预兆，用一块石头终结方程式。
 
-**读者视角提示**：对照第 21 章「Hafiz 说跑她偏奔向」：同一个「反着听话」的模式，这次第一次用在正确的方向上——她的叛逆终于有了价值观。
+**读者视角提示**：对照第 18 章「Hafiz 说跑她偏奔向」：同一个「反着听话」的模式，这次第一次用在正确的方向上——她的叛逆终于有了价值观。
 
 > **原句 2:** "Later though, because what I don’t know right now is what to do with the man’s corpse lying on the floor next to my feet, his once beautiful face now smashed like a pumpkin after Halloween."
 

@@ -1,0 +1,14 @@
+{
+ "chapter":"ch32","source":"text/ch32_29_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"发现 spare room 只剩两个箱子，水晶、脉轮毯、塔罗全不见","anchor":"there’re only two of my boxes left","line":37,"span":[2245,2282]},
+  {"who":"Cassie","what":"先怀疑自己梦游，坚信 Finlay 若动过会告诉她","anchor":"Because he would have told me if he’d done something with them.","line":46,"span":[2852,2912]},
+  {"who":"Cassie","what":"穿上前女友的鞋出门翻垃圾桶，桶全空（bins day）","anchor":"I push my feet into another woman’s shoes","line":55,"span":[3466,3505]},
+  {"who":"Cassie","what":"扯下衣杆上「她」的全部衣物，觉得布料像毒药","anchor":"just the material of someone else’s belongings feels like I’m touching something poisonous","line":73,"span":[5242,5335]},
+  {"who":"Cassie","what":"确认不是自己扔的就必是 Finlay，但不明白为什么","anchor":"if I didn’t get rid of it, then it had to have been Finlay","line":82,"span":[6061,6115]},
+  {"who":"Cassie","what":"浴缸侧板松动，轻敲后像洗衣滑槽打开，内有暗格","anchor":"it opens like a laundry chute","line":88,"span":[6729,6758]},
+  {"who":"Cassie","what":"从暗格里摸出一本薄书，一眼认出书脊形状","anchor":"It is a book. It’s flimsy but I recognise the shape of a spine instantly.","line":94,"span":[7349,7431]}
+ ],
+ "relations":["Cassie 发现物品失踪并搜出暗格；与 Finlay 同居"],
+ "numbers":["两个箱子（text:37）","约一度（text:58）"]
+}

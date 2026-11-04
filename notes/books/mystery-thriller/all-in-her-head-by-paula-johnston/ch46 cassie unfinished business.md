@@ -8,7 +8,7 @@ modified: "2026-11-03"
 ## 本章导航
 - **一句话概括**：捉鬼联盟当场签约：Blair 挥着手问出「你能看见她吗」、对空气说「借过」，Cassie 把任务定名「未竟之事」——盟约落在那句「你彻底疯了，但我他妈就爱这一点」。
 - **情感弧线位置**：双线合流完成：一个信灵、一个信友，两种「不理性」在客厅握手。
-- **线索结构**：「What's one more secret between friends」的暗线计数（尸体/身份/日记/灵异）继续累加；「两个世界取证」为收尾几章的方法论定纲；「Never change for anyone」反写第 20 章「I'd probably agree to anything」——同样无条件的爱，这次没有收银台。
+- **线索结构**：「她说她没死→改口『我知道她死了』」这处自相矛盾是本章的真相转折；「What's one more secret between friends」的暗线计数（尸体/身份/日记/灵异）继续累加；「两个世界取证」为收尾几章的方法论定纲；「Never change for anyone」反写第 20 章「I'd probably agree to anything」——同样无条件的爱，这次没有收银台。
 - **人物弧线**：Cassie：第一次反向输出勇气（你一直为我壮胆，这次换我）；Blair：怀疑者完成受洗——她的相信不是玄学，是对朋友的信用透支。
 - **叙事手法**：手挥空气的哑剧动作把「显形」翻给读者；「Excuse me, babe」的礼貌鬼待之道是全书最滑稽的一拍；盟约用两句短台词互锁，宣告收尾。
 
@@ -22,7 +22,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：怀疑者的受洗仪式三步走：发现视线、挥手试空、开口求证。swipes the air 的哑剧动作把「看不见」演给读者——她挥的方向就是灵站的位置，空间由两个人的错位共同画成。
 
-**读者视角提示**：对照第 15 章「she'd rather I didn't 录音」：两个女人对「看不见的东西」态度的百年和解——Blair 用一只手就完成了她的改宗。
+**读者视角提示**：对照第 14 章「she'd rather I didn't 录音」：两个女人对「看不见的东西」态度的百年和解——Blair 用一只手就完成了她的改宗。
 
 > **原句 2:** "‘Blair, it’s OK. We can figure this out between us. With evidence from both this world and the other side. The two of us have proven that we can do absolutely anything if we work together, right? I think she might have some unfinished business. She obviously needs us to help her.’"
 
@@ -42,7 +42,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：结盟誓词把「疯」转正为美德：bonkers 与 love 同框——她的灵异世界观第一次被完整验收。Never change for anyone 与书里所有「为你改变」（吹发、染发、换口味）形成终审：那些改变全是索取，这句才是礼物。
 
-**读者视角提示**：把这句话当作全书的情感判词：真正的爱（无论爱情友情）不要求对 方变形——收下这句，前四十章所有的「变成你喜欢样子」都有了对照组。
+**读者视角提示**：把这句话当作全书的情感判词：真正的爱（无论爱情友情）不要求对方变形——收下这句，前四十章所有的「变成你喜欢样子」都有了对照组。
 
 ## 本章词汇
 

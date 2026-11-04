@@ -1,0 +1,15 @@
+{
+ "chapter":"ch41","source":"text/ch41_37_blair.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"George","what":"坐在唱机旁摇椅、拨唱针重放，自称 ladies 终于到齐","anchor":"casually flicks the stylus of the record player in the air and repositions it to play all over again","line":19,"span":[279,375]},
+  {"who":"George","what":"承认找到 Cassie 藏柜中的钥匙、另配了钥匙","anchor":"didn’t hide her flat keys very well. I found them stashed in a box inside the cupboard","line":46,"span":[1737,1830]},
+  {"who":"George","what":"称 Blair 把车还给他帮了大忙","anchor":"Thanks for bringing back my car.","line":58,"span":[2714,2752]},
+  {"who":"George","what":"编造剧本：疯女人闯入、杀死女友、他正当防卫","anchor":"I had no choice but to act in self-defence.","line":70,"span":[3480,3530]},
+  {"who":"George","what":"宣称梦想生活是「我们两个，当然还有妈妈」，怪 Blair 毁掉","anchor":"Just the two of us. And Mum, of course.","line":85,"span":[4302,4344]},
+  {"who":"Cassie","what":"趁他自夸时悄步移到桌边","anchor":"she’s starting to take small but subtle steps towards George","line":79,"span":[3900,3963]},
+  {"who":"George","what":"攥住 Blair 手腕一扭，Luna 扑脸，他连椅倒地，刀飞到桌上","anchor":"his strong hand grabs at my wrist and twists","line":136,"span":[7816,7862]},
+  {"who":"Cassie","what":"抡玫瑰石英砸进他的头，像砸开红丝绒复活节彩蛋","anchor":"plunges it into George’s head, cracking it open like a red velvet Easter egg","line":145,"span":[8560,8663]}
+ ],
+ "relations":["George 持有凶刀与两女对峙；Cassie 用玫瑰石英击杀他"],
+ "numbers":["配钥匙买一送一（text:52）"]
+}

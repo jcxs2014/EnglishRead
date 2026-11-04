@@ -1,0 +1,14 @@
+{
+ "chapter":"ch40","source":"text/ch40_36_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie 与 Blair","what":"逃回 22 号，锁门加链条","anchor":"We’ve made it back to number twenty-two","line":19,"span":[176,223]},
+  {"who":"Luna","what":"不肯出箱，对空气龇牙嘶叫","anchor":"she refuses to leave and instead bares her sharp teeth, lowers her head, and continues to hiss into thin air","line":31,"span":[1301,1428]},
+  {"who":"Cassie","what":"说 Luna 上次这样是初次到 George 家","anchor":"not since I first took her to Fin","line":43,"span":[2068,2110]},
+  {"who":"两人","what":"唱机自转播放，Blair 也听见","anchor":"the needle hitting the vinyl as it begins to play","line":55,"span":[2387,2442]},
+  {"who":"Cassie","what":"认定不可能是 Finlay，因他认为她与这屋无关","anchor":"It can’t be Finlay, because as far as he’s concerned, I have nothing to do with this flat anymore.","line":64,"span":[2950,3070]},
+  {"who":"Cassie","what":"解读室有烛与玫瑰石英，灰尘只在中央可见","anchor":"it’s only visible around the middle","line":94,"span":[4564,4600]},
+  {"who":"金发女","what":"缝嘴线崩断，喊 RUN","anchor":"each of the stitches that had sewn her lips together snap","line":97,"span":[4963,5021]}
+ ],
+ "relations":["Cassie 与 Blair 躲回 22 号；房内有看不见的人"],
+ "numbers":["22 号（text:19）"]
+}

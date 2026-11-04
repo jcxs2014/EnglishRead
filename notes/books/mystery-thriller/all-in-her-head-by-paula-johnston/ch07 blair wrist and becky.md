@@ -9,7 +9,7 @@ modified: "2026-11-03"
 - **一句话概括**：午餐前 Blair 撞破厨房里的母子争吵（「别再带一个回来」「我知道自己在干什么」），摔进门就被他攥白了手腕；餐桌上她被叫成 Becky、肉汁浇满整盘，George 站队妈妈——这一天她第一次看清自己的座次。
 - **情感弧线位置**：粉红滤镜的第一道裂缝：身体上的疼（手腕、胃）第一次由爱着的人亲手造成。
 - **线索结构**：争吵的三个残句（another / different now / She won't ever be）与照片墙被裁掉的女人互指；麸质陷阱——George 预先告知过 Maria 却坐视肉汁上桌；「good boy, so obedient」的玩笑他没接——反常即信息。
-- **人物弧线**：Blair：从探索敌情到被当场按住，计分板心态（Two points to Maria）继续运转但开始失灵；George：攥腕、点名、背刺三连，事后的「cool and collected」切换速度快得像排练过。
+- **人物弧线**：Blair：从探索敌情到被当场按住，计分板心态（Two points to Maria）继续运转但开始失灵；George：攥腕、背刺、事后切换三连，事后的「cool and collected」切换速度快得像排练过。
 - **叙事手法**：偷听视角只给残句，让读者跟 Blair 一起拼图； ostrich 与 slaughtered 两个动物意象把餐桌变成案发现场；结尾三词一顿（What. The actual. Fuck?）用标点完成惊愕。
 
 ## 精读

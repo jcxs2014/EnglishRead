@@ -1,0 +1,15 @@
+{
+ "chapter":"ch23","source":"text/ch23_20_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"提前到 Shawlands 酒吧，紧张到咬破拇指","anchor":"The skin around the nail of my thumb is stinging and starting to bleed","line":22,"span":[772,836]},
+  {"who":"Cassie","what":"不愿回 Ashton Lane：那里全是与 Louise 的旧记忆","anchor":"I didn’t want to go back there.","line":31,"span":[1848,1875]},
+  {"who":"Louise","what":"绝交：电话进语音、短信不达、Blackberry 上消失；她凌晨四点砸门被告知搬走","anchor":"she disappeared from my Blackberry Messenger","line":34,"span":[2865,2912]},
+  {"who":"Cassie","what":"换到更近、鬼更少的酒吧；他无异议","anchor":"closer to home and with fewer…ghosts","line":40,"span":[4061,4101]},
+  {"who":"Cassie","what":"回忆 Party Cassie 与 Nova 人格，自认真我 dull/boring/introverted","anchor":"facing up to who I really was – quite dull and boring and introverted – was too painful to face","line":55,"span":[6214,6322]},
+  {"who":"Finlay","what":"提前到，手捏她肩；她装作看时间反悔","anchor":"A firm but soft hand touches my shoulder","line":76,"span":[8191,8233]},
+  {"who":"Cassie","what":"为显优雅点 rosé，其实恨所有葡萄酒；他点破她不像在喝红酒","anchor":"I hate rosé wine, red, sparkling – even Prosecco.","line":154,"span":[13355,13415]},
+  {"who":"Finlay","what":"叫她 Cas；全世界只有父母与 Louise 这样叫过她","anchor":"the only people to have ever called me Cas are my parents and Louise","line":163,"span":[14031,14105]}
+ ],
+ "relations":["Cassie 与 Finlay 首次约会；她仍在哀悼与 Louise 的绝交"],
+ "numbers":["约定八点半、她八点一刻到（text:22）","凌晨四点砸门（text:34）"]
+}

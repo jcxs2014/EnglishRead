@@ -1,0 +1,14 @@
+{
+ "chapter":"ch43","source":"text/ch43_39_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"两个月后：Blair 永久搬入，二人自称血姐妹","anchor":"I suppose we’re sort of blood sisters now. Bonded for life by ending someone else’s.","line":24,"span":[810,906]},
+  {"who":"Cassie","what":"两人阴阳胶合、从不谈中间的黑暗秘密、各自重放同一幕","anchor":"superglued in the middle, never discussing the dark secret harbouring in between","line":27,"span":[1372,1464]},
+  {"who":"Cassie","what":"手册读完（distress tolerance），等医生接诊","anchor":"the rice paper booklets…have become more like coffee mats","line":42,"span":[3362,3437]},
+  {"who":"Cassie","what":"睡在行凶房间两个月，今天要搬出去","anchor":"I really can’t think of anything worse than trying to fall asleep in the same room that I actually killed a man","line":36,"span":[2592,2703]},
+  {"who":"Cassie","what":"新药停了声音，但她仍相信自己或许有天赋；Blair 笑完仍鼓励她","anchor":"although the new meds I’ve been put on have stopped the voices, I still truly believed I might have some sort of special ability","line":54,"span":[5352,5498]},
+  {"who":"Cassie","what":"只在梦里见金发女，仍能尝到她对 Finlay 的轻蔑","anchor":"I can still taste her contempt for Finlay, the bitter venom on my tongue","line":57,"span":[6027,6107]},
+  {"who":"Cassie","what":"Blair 拽她起身：now or never","anchor":"‘It’s now or never, and guess what? I say now.","line":63,"span":[6380,6435]}
+ ],
+ "relations":["Cassie 与 Blair 同住两个月；Cassie 接受心理治疗"],
+ "numbers":["两个月（text:14）"]
+}

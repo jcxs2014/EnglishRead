@@ -1,0 +1,14 @@
+{
+ "chapter":"ch18","source":"text/ch18_the_unknown.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"她","what":"写日记时夺回叙事控制，故事不被他人扭曲","anchor":"In this moment, she is completely in control of the narrative.","line":10,"span":[232,300]},
+  {"who":"她","what":"希望逃出鸟笼但自知靠己无力；有时祈祷他快点下狠手，好结束","anchor":"Sometimes she prays that he would hurry up and do his worst.","line":13,"span":[623,678]},
+  {"who":"她回忆中的他","what":"承诺圣诞集市、摩天轮、滑冰，最终全落空；她认定他惯常撒谎","anchor":"But he lied as, I’ve realised now, he so often does.","line":22,"span":[2171,2225]},
+  {"who":"他","what":"买两杯热红酒时对女调酒师 wink，转身对她落脸并因价格发怒","anchor":"he erupted into a childlike tantrum about the price","line":28,"span":[3506,3556]},
+  {"who":"她","what":"被催出门没吃早饭、无钱买食；他戴耳机屏蔽她","anchor":"my voice seemed too unbearable for him, and he whipped out his earphones and blocked me out","line":28,"span":[4053,4155]},
+  {"who":"她","what":"火车到站他先下车不回头；她后悔没跟人群跑掉","anchor":"she wishes she’d made a run for it with the other passengers when she had the chance","line":40,"span":[4960,5046]},
+  {"who":"她","what":"钥匙开门声，她急把日记塞到沙发底座下","anchor":"thrusts it under the base of the couch","line":34,"span":[4611,4648]}
+ ],
+ "relations":["她与「他」同游爱丁堡圣诞集市后返回格拉斯哥；她受其财务与情绪控制"],
+ "numbers":["一小时排队（text:28）","到格拉斯哥前约十五分钟（text:28）"]
+}

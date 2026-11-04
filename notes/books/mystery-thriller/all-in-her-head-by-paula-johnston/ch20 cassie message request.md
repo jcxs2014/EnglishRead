@@ -22,7 +22,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：用一首情景喜剧主题曲来写崩塌：轻快的引用与 heart-wrenching 的补刀形成落差——她的幽默还在营业，只是内容全换成了疼。upside down 与牌桌上的倒置牌遥相呼应：这本书里翻过来的东西都不算数。
 
-**读者视角提示**：两周从章标题的「17」里能对出时间线：Part II 开局就是读后余震——本书的节奏是先让读者看她怎么碎，再决定拼不拼。
+**读者视角提示**：两周的时间线写在正文第一句里：Part II 开局就是读后余震——本书的节奏是先让读者看她怎么碎，再决定拼不拼。
 
 > **原句 2:** "Natters with Nova, hah. Nothing but nonsense, I hear over my own, personal Tannoy. More like a supernova. A poor star on its last legs, exploding, dying."
 
@@ -50,7 +50,7 @@ modified: "2026-11-03"
 
 **关键词**：a hollow shell / fight tooth and nail / glistening grains of sand / swept up, and washed away
 
-**为什么这样写**：把「想死」藏进一张明信片：海滩是别人的天堂，是她的流放地。washed away 三个词把自杀意念写成自然现象——不是呼救，是天气。作者不评论、不点破，让美丽的画面自己变冷。
+**为什么这样写**：把「想死」藏进一张明信片：海滩是别人的天堂，是她的流放地。washed away 两个词把自杀意念写成自然现象——不是呼救，是天气。作者不评论、不点破，让美丽的画面自己变冷。
 
 **读者视角提示**：这是全书对 Cassie 精神状态最直接的一次实写：先记住它，再看 Luna 与私信如何一寸寸把她往回拉。
 
@@ -60,7 +60,7 @@ modified: "2026-11-03"
 
 **关键词**：fast asleep, snoring / can’t hold back the tears / kept me here for this long / guardian angel
 
-**为什么这样写**：全章唯一暖色的光源来自一只睡着的猫：爱是具体的（鼾声、体温、毛），所以救得了人。guarded angel 的措辞让她把超自然信仰也投射过去——她的灵异世界观与她的孤独同源。
+**为什么这样写**：全章唯一暖色的光源来自一只睡着的猫：爱是具体的（鼾声、体温、毛），所以救得了人。guardian angel 的措辞让她把超自然信仰也投射过去——她的灵异世界观与她的孤独同源。
 
 **读者视角提示**：对照她对人（Finlay）的幻想与对猫的爱：后者救了她，前者差点毁了她——本书的信任分配从此有了参照系。
 

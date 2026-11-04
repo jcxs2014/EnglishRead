@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：自白写成解剖学：美是表皮，内里是混沌。pry open 的暴力意象把「被了解」翻译成「被拆开」——她要的不是理解，是没人靠近。这句为后文一切隐瞒发了许可证。
 
-**读者视角提示**：对照第 8 章她童年的「看起来不像在受苦」：她一直相信自己的痛苦没有外壳——所以他永远不会看见，也就永远不会走。这个逻辑是她的牢房兼安全感来源。
+**读者视角提示**：对照第 7 章她童年的「看起来不像在受苦」：她一直相信自己的痛苦没有外壳——所以他永远不会看见，也就永远不会走。这个逻辑是她的牢房兼安全感来源。
 
 > **原句 3:** "Even my own mum and dad couldn’t wait for me to move out and get my own place when I turned eighteen. Sick of the sight of me moping around, they had given up all hope they could shake me from a trance that none of us understood."
 

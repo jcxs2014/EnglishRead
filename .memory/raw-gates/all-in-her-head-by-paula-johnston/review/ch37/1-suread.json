@@ -1,0 +1,15 @@
+{
+ "chapter":"ch37","source":"text/ch37_33_blair.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"George","what":"进门后对 Cassie 说不知道她有朋友在，装作初见","anchor":"‘You didn’t tell me you were having a friend round.’","line":19,"span":[297,362]},
+  {"who":"Blair","what":"拆穿：别演戏，她已知道你是谁","anchor":"‘George, you can stop with the act. She knows who you are.","line":31,"span":[723,779]},
+  {"who":"Blair","what":"回忆放录音给 George 那晚：他脸色骤变、逼她靠墙","anchor":"the night after my reading with Nova when I played him the recording","line":34,"span":[900,978]},
+  {"who":"Blair","what":"膝顶其裆部后逃跑，只带走他的车钥匙","anchor":"Except the keys to his car.","line":46,"span":[2508,2535]},
+  {"who":"George","what":"当面装初见：I'm Finlay","anchor":"‘I don’t think we’ve met before. I’m Finlay.’","line":49,"span":[2647,2705]},
+  {"who":"Cassie","what":"当场指认：你叫 George，你骗了我","anchor":"‘Your name is George. You…you lied to me.","line":55,"span":[3010,3059]},
+  {"who":"George","what":"锁门、摘面具、以讣告腔介绍 Blair 是「已故」女友","anchor":"My dearly departed – yet not so dead, after all – girlfriend.","line":79,"span":[4437,4507]},
+  {"who":"George","what":"攥住 Blair 手腕把她拉到身侧","anchor":"lunging forward and grabbing my wrist","line":79,"span":[4355,4397]}
+ ],
+ "relations":["George 同时面对 Blair 与 Cassie；Blair 已知他真名"],
+ "numbers":["无具体数字（四张牌见 ch36）"]
+}

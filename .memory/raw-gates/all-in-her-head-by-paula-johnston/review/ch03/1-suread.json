@@ -1,0 +1,14 @@
+{
+  "chapter":"ch03","source":"text/ch03_2_blair.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"George 与 Blair","what":"开车去见 George 的母亲，George 捏 Blair 大腿；Blair 担心母子关系太近","anchor":"They even FaceTime each other. Every fucking day.","line":28,"span":[1558,1626]},
+    {"who":"Blair","what":"计划先取得母亲信任再替她开网恋档案，减少母子接触","anchor":"Perhaps after I gain her trust, she’ll allow me to set her up with an online dating profile.","line":22,"span":[936,1036]},
+    {"who":"Blair","what":"从 George 未关的 iPad 页发现粉色摩根石白金戒指，想给其母留下好印象","anchor":"the pink morganite with a white-gold band, the one I saw on his iPad","line":43,"span":[3159,3236]},
+    {"who":"Blair","what":"驶过 Erskine Bridge 往 Balloch，怕高度与深水，超速且险些错过出口","anchor":"I’m struggling to concentrate as we make our way over the Erskine Bridge on our way to Balloch.","line":46,"span":[3451,3553]},
+    {"who":"Blair 的朋友及旧酒吧顾客","what":"警告她搬家太快、George 可能有所图；她搬出 Glasgow 市中心合租屋约三个月","anchor":"‘That guy is at it. He’s after something.","line":61,"span":[5623,5673]},
+    {"who":"George","what":"建议 Blair 辞掉酒吧夜班以免独自夜归，替她购买部分用品","anchor":"It was his idea; he didn’t want me out alone late at night anymore.","line":82,"span":[8197,8263]},
+    {"who":"George 与 Blair","what":"George 建议她再漂浅头发；两人到 Balloch 的红砖平房，门未按铃已开启","anchor":"It’s not that I feel I need to change myself to please him, but what’s the harm in a new hairdo, really?","line":94,"span":[9447,9562]}
+  ],
+  "relations":["George 是 Blair 男友，正带她初次见母亲；Blair 与自己母亲疏远。George 与母亲每天视频通话。"],
+  "numbers":["三个月关系（text:64）","0.5ml 唇部注射（text:64）","粉摩根石、白金戒指（text:43）","首次见母亲（text:19）"]
+}

@@ -22,7 +22,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：反抗的工具全是家用电器：先拔电（让它只当钝器）再抡——动作链带着厨房的智商。elbow quivering 承认恐惧存在：颤抖与挥击同一瞬间，勇敢从来不是不抖。crunch 的拟声落在颅骨上，全书第一次由女人制造音效。
 
-**读者视角提示**：对照第 7 章他攥住她手腕时的「turning pale」：同一双手，这一次被她抢先——这本书的反抗从抢时机开始。
+**读者视角提示**：对照第 6 章他攥住她手腕时的「turning pale」：同一双手，这一次被她抢先——这本书的反抗从抢时机开始。
 
 > **原句 2:** "The shriek is animalistic as she once again dives towards us, only this time shoving me out of the way and plunging the knife into George’s shoulder. It stuns him briefly, giving me time to leap and grab her."
 
@@ -42,7 +42,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：身份注销在狂奔的喘息里完成：名字第一次完整交付。Nova doesn't exist 的三段式（不存在/不是真的/只在脑子里）正是书名的答案——All in Her Head 的字面收据，由持刀人开给救命恩人。
 
-**读者视角提示**：把这句和第 20 章「Natters with Nova, hah」对读：一个月前她还在为化名骄傲，如今把它当垃圾丢在马路中央——成长与破产，原来是同一件事。
+**读者视角提示**：把这句和第 17 章「Natters with Nova, hah」对读：一个月前她还在为化名骄傲，如今把它当垃圾丢在马路中央——成长与破产，原来是同一件事。
 
 > **原句 4:** "Glancing over my shoulder, still checking for immediate danger, I shrug off my leather jacket, wrap it around her shoulders and link my arm with hers. ‘Come on then, Cassie. I think I know where you’re taking us.’"
 
@@ -50,7 +50,7 @@ modified: "2026-11-03"
 
 **关键词**：shrug off my leather jacket / wrap it around her shoulders / link my arm with hers / I think I know where you’re taking us
 
-**为什么这样写**：皮衣完成了全书的服装交接仪式：这件在第 13 章「逛衣橱都轮不到她穿」的黑皮衣，此刻盖在一个不认识的女人身上。know where you're taking us 是最高级的信任——她不需要问路，因为她认识这条路的所有出口。
+**为什么这样写**：皮衣完成了全书的服装交接仪式：这件在第 12 章「逛衣橱都轮不到她穿」的黑皮衣，此刻盖在一个不认识的女人身上。know where you're taking us 是最高级的信任——她不需要问路，因为她认识这条路的所有出口。
 
 **读者视角提示**：记下这件皮衣：它从 Blair 的肩膀到 Cassie 的肩膀——第 41 章起它还会继续旅行。这本书里衣服的去向，就是人心的去向。
 

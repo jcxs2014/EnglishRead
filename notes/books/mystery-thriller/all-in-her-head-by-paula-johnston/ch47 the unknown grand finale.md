@@ -20,9 +20,9 @@ modified: "2026-11-03"
 
 **关键词**：twisted love story began / her journal / stashed in the bathroom / She’d hoped it would be
 
-**为什么这样写**：日记的产权终于归档：作者、藏匿者、盼着被读的人是同一位。hoped it would be 这半句是全书最温柔的阴谋——她把日记当漂流瓶，盼着下一个女人读到警告。第 34 章「Read it」的吼声由此溯源：那是她没喊出口的话。
+**为什么这样写**：日记的产权终于归档：作者、藏匿者、盼着被读的人是同一位。hoped it would be 这半句是全书最温柔的阴谋——她把日记当漂流瓶，盼着下一个女人读到警告。第 30 章「Read it」的吼声由此溯源：那是她没喊出口的话。
 
-**读者视角提示**：回看第 12 章：他告诉 Cassie「我女友失踪时一切如常、衣服都在」——如今可知：衣服在，是因为她走得从容；日记在，是因为她要它留在原地。
+**读者视角提示**：回看第 11 章：他告诉 Cassie「我女友失踪时一切如常、衣服都在」——如今可知：衣服在，是因为她走得从容；日记在，是因为她要它留在原地。
 
 > **原句 2:** "She had a gut instinct that Blair would be able to look after herself, figure George’s true nature out much quicker than she had, and maybe even be brave enough to do something about it. Then she would finally be free to come out of hiding, return home to her friends and family."
 
@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：Blair 的被选写成一栏风险测算：性格刚硬、识人快、敢动手——她在为自己招募「替身战士」。这条逻辑冷酷得合理：她没能力救自己，就把希望外包给下一个受害者。书到这里，同情与不安同时到账。
 
-**读者视角提示**：对照第 45 章「someone before us」：读者此刻拿到了那份序章的全稿——The Unknown 不是鬼故事，是一场以自由为赌注的接力。
+**读者视角提示**：对照第 41 章「someone before us」：读者此刻拿到了那份序章的全稿——The Unknown 不是鬼故事，是一场以自由为赌注的接力。
 
 > **原句 3:** "He knew who she was, and how painful it had been for her to abandon their friendship, but she felt she had no other choice. It was him or her, and sadly she chose wrongly."
 
@@ -50,9 +50,9 @@ modified: "2026-11-03"
 
 **关键词**：Hello, Luna / Cassie is OK / keeping an eye out for her
 
-**为什么这样写**：猫的真相在一句耳语里交割完毕：Phoenix 化名 Luna，被「捡到」它的 Cassie 喂了两年——而它一直是哨兵。keeping an eye out 的任务制养猫解释了 Luna 全书的第六感：它不是通灵，是值岗。
+**为什么这样写**：猫的真相在一句耳语里交割完毕：Phoenix 化名 Luna，被「捡到」它的 Cassie 喂养了一段时间——而它一直是哨兵。keeping an eye out 的任务制养猫解释了 Luna 全书的第六感：它不是通灵，是值岗。
 
-**读者视角提示**：回看第 20 章「她大概在别处还有个主人」的直觉：猜对了。这本书最灵异的侦探其实是那只猫——它从头到尾都认识两个主人。
+**读者视角提示**：回看第 17 章「她大概在别处还有个主人」的直觉：猜对了。这本书最灵异的侦探其实是那只猫——它从头到尾都认识两个主人。
 
 > **原句 5:** "She smiles from ear to ear at the thought of getting reacquainted with herself again. She made it. She is here, she’s alive, and when she finally finds the courage to come clean to Cassie, she will no longer be unknown."
 

@@ -30,7 +30,7 @@ modified: "2026-11-03"
 
 **关键词**：clench my jaw / sharper than intended / dressed in a black cloak / Those cups mean loss
 
-**为什么这样写**：他被一句「问还是答」戳到的是她的背稿感，她的反击（Telling you）第一次带上了职业的锋利。黑斗篷与三只杯是标准的解牌词——但念出这些词的人，正在用音量掩盖心虚。
+**为什么这样写**：他那句「问还是答」戳穿的是她的背稿感，她的反击（Telling you）第一次带上了职业的锋利。黑斗篷与三只杯是标准的解牌词——但念出这些词的人，正在用音量掩盖心虚。
 
 **读者视角提示**：这是她头一回在 Finlay 面前「有脾气」：声调失控反而像专业——误会与真相共用同一副表情，是本书惯用的双关。
 
@@ -56,7 +56,7 @@ modified: "2026-11-03"
 
 > **原句 5:** "That there’s nobody? That everyone I’ve ever dated has said I’m too emotional, too sensitive, too doom and gloom for reasons neither of us can understand? That all my attempts at holding down a relationship of any kind have always been destroyed by my erratic mood swings? That it’s just me, boring, lonely, un-showered, and clinging on to a belief that could see me sectioned."
 
-**中文理解**：告诉他没有人吗？告诉她约过的每个人都嫌她太情绪化、太敏感、太丧——连原因都说不清？告诉她每段感情都毁在她反复无常的情绪波动上？告诉她只剩她一个人，无趣、孤独、没洗头，还抱着一个能把送进精神院的信念不放？
+**中文理解**：告诉他没有人吗？告诉她约过的每个人都嫌她太情绪化、太敏感、太丧——连原因都说不清？告诉她每段感情都毁在她反复无常的情绪波动上？告诉她只剩她一个人，无趣、孤独、没洗头，还抱着一个可能把她送进精神院的信念不放？
 
 **关键词**：too emotional, too sensitive / doom and gloom / erratic mood swings / see me sectioned
 

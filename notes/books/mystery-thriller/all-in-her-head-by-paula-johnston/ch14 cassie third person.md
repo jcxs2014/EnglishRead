@@ -8,7 +8,7 @@ modified: "2026-11-03"
 ## 本章导航
 - **一句话概括**：谎言出口后的九十秒：她呛水、冰腕自救、决定「演到底」；回来时他平静得可怕，一句「你是对的」刚刚落定，暴风雨劈窗——他肩后多站了一个女人。
 - **情感弧线位置**：收不回的一步：道德碎裂与「灵异应验」在同一晚发生，她的骗局第一次获得「证据」。
-- **线索结构**：他听到死讯的反应（平静下来、喝水、道谢）比崩溃更值得记账；「closure」是他反复使用的需求词；风暴与第三人同步登场——灵异线的「应验」恰好挑在最需要的时刻。
+- **线索结构**：他听到死讯的反应（平静下来、喝水、道谢）比崩溃更值得记账；「closure」是她在叙述里反复使用的需求词；风暴与第三人同步登场——灵异线的「应验」恰好挑在最需要的时刻。
 - **人物弧线**：Cassie：从「该不该收回」到「已经收不回」，紧张感全部由身体代演；Finlay：狂躁→平静的双段切换完成得干净利落，快得像把情绪收进抽屉。
 - **叙事手法**：厨房独角戏（呛水/冰腕）给说谎前的犹豫一整段生理倒计时；天气与鬼影同步入场是经典哥特拍点；结尾人数句（two→three）用一个数字完成一记冷刀。
 
@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：两个 as if 排出荒诞的对照：小事化的平静 vs 刚发生的死亡判决。他的镇定被她读成「谢天谢地」，读者却该多读一层——一个刚失去女友的人，安抚得也太快了。
 
-**读者视角提示**：把这一段和第 7 章他攥腕后「morphing back into his usual cool and collected demeanour」放在一起：同一个人，同一种切换速度——情绪的开关一直不在她看得见的地方。
+**读者视角提示**：把这一段和第 6 章他攥腕后「morphing back into his usual cool and collected demeanour」放在一起：同一个人，同一种切换速度——情绪的开关一直不在她看得见的地方。
 
 > **原句 3:** "The room shudders. Darkness envelops us both. My eyes dart to the window, searching for light, but the sky outside is murderous. Rain begins to lash from the sky, pelting the glass like bricks. A flash of lightning, quickly followed by a crash of thunder, causes me to flinch and instinctively I shield my eyes with my forearm for protection."
 

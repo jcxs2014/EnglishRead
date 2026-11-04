@@ -52,7 +52,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：衣橱审查被包装成礼物：扔什么、留什么全有标准，而她连生气都要先自我检讨（ungrateful）。那个反问句是规训内化的标本——她用对方的语法说服自己。
 
-**读者视角提示**：低胸衣换成高领衫的方向记一下：她的身体正在被逐件「改版」——与第 5 章吹头发、改美甲是同一条流水线。
+**读者视角提示**：低胸衣换成高领衫的方向记一下：她的身体正在被逐件「改版」——与第 2 章吹头发、改美甲是同一条流水线。
 
 > **原句 5:** "Yet it seems that all those places are out of bounds. This is my domain in here, in this cupboard. Everything I own lives here and has done since day one. I suppose I should be lucky that I have something resembling a walk-in wardrobe, I think as I look around. But it’s damp, dark, probably mouldy, and only about a metre and a half in length is a far cry from Carrie Bradshaw’s."
 

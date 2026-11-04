@@ -1,0 +1,15 @@
+{
+  "chapter":"ch10","source":"text/ch10_9_cassie.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"Finlay","what":"洗牌熟练如魔术师，摊三张前手悬停一瞬","anchor":"Still, I do spot the tiniest glimmer of hesitation as his hand momentarily hovers before producing a row of three.","line":22,"span":[334,453]},
+    {"who":"Cassie","what":"自认不会用塔罗，只翻过图、一直靠即兴；用传统牌（圣杯/宝剑/隐士）","anchor":"My problem is that I don’t know how to use them properly.","line":28,"span":[1135,1196]},
+    {"who":"Cassie","what":"猜他三十出头，年长于她也可接受","anchor":"My prediction would be his early- to mid-thirties.","line":40,"span":[2565,2616]},
+    {"who":"Finlay","what":"打断她「你是在问我还是告诉我」；她回 Telling you","anchor":"‘Are you asking me or telling me?’ he interrupts.","line":55,"span":[3168,3217]},
+    {"who":"Cassie","what":"解圣杯五为丧痛/失落，指出牌上另两只杯代表新机会","anchor":"He’s mourning over the three cups in front of him. Those cups mean loss.","line":58,"span":[3437,3503]},
+    {"who":"Cassie","what":"解第二张宝剑十（背叛/苦涩）时发现他盯着她嘴唇","anchor":"This card can represent betrayal, bitterness","line":82,"span":[4871,4921]},
+    {"who":"Finlay","what":"问她谁照顾她、有男或女伴、那个位置是否还空着","anchor":"‘Who takes care of you, Cassie? Is there a man – or a woman?’","line":106,"span":[5952,6013]},
+    {"who":"Cassie","what":"求 sign 无回应、脑内声音也沉默；答「只有我」；第三张翻出死神","anchor":"‘Death,’ I blurt far too loudly.","line":130,"span":[7327,7363]}
+  ],
+  "relations":["Cassie 为 Finlay 解牌；他反客为主追问她的感情状况"],
+  "numbers":["三张牌（text:19,34）","他约三十出头（text:40）"]
+}

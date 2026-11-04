@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：认尸式的肖像由前任执笔：每一处变化都有来历（漂发、消瘦、失眠）。frazzled 的头发与 Blair 自己被要求吹直的金发是一对——「他喜欢的样子」在这栋公寓里轮番施工，women 们轮流支付工时。
 
-**读者视角提示**：对照第 22 章 Cassie 自拍时的「reborn」：同一张脸在两章之间完成了从重生到塌陷的全过程——这本书的幸福感保质期，前后不过几章。
+**读者视角提示**：对照第 19 章 Cassie 自拍时的「reborn」：同一张脸在两章之间完成了从重生到塌陷的全过程——这本书的幸福感保质期，前后不过几章。
 
 > **原句 3:** "Everything is exactly as it was the night I fled. Not a single thing has changed, despite having a brand spanking new female resident. One in, one out it seems, and I wonder how long this has been a pattern for him."
 

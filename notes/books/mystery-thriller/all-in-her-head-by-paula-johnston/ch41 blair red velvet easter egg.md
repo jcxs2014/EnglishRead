@@ -20,9 +20,9 @@ modified: "2026-11-03"
 
 **关键词**：casually flicks the stylus / repositions it to play all over again / His fucking theme tune
 
-**为什么这样写**：他把恐怖现场当成个人演唱会：重放、定调、控制节奏。theme tune 的讥讽一针见血——这个男人毕生都在给自己的叙事配乐。唱机在本书出现过两次（第 22 章她自己关掉的 Stevie Nicks），第三次由他按下：同一条音轨，主权已换。
+**为什么这样写**：他把恐怖现场当成个人演唱会：重放、定调、控制节奏。theme tune 的讥讽一针见血——这个男人毕生都在给自己的叙事配乐。唱机在本书出现过两次（第 1 章她自己关掉的 Stevie Nicks），第三次由他按下：同一条音轨，主权已换。
 
-**读者视角提示**：记住这首歌的自转逻辑：它无人触碰也会响（第 40 章），他一来却「亲手」摆弄——鬼与人在同一台唱机上轮班，谁的版本是真的，书一直不裁决。
+**读者视角提示**：记住这首歌的自转逻辑：它无人触碰也会响（第 36 章），他一来却「亲手」摆弄——鬼与人在同一台唱机上轮班，谁的版本是真的，书一直不裁决。
 
 > **原句 2:** "‘So, as I was saying, that’s an easy one. Ye see, Cassie – the clumsy cow that she is – didn’t hide her flat keys very well. I found them stashed in a box inside the cupboard and well, you can imagine my surprise. How hurt I was that she was keeping a secret from me.’"
 
@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：追捕的解密轻描淡写：钥匙→盒子→柜子——她的逃生舱从设计起就在他的巡逻路线上。How hurt I was 的表演腔把他惯用的「受害者修辞」用到极限：连她的逃跑都被解读成对他的背叛。
 
-**读者视角提示**：对照第 28 章她藏钥匙的得意（at least I'll have somewhere to crawl back to）：她的秘密从来只有一个读者——这是本书给所有「藏东西」桥段的统一判决。
+**读者视角提示**：对照第 25 章她藏钥匙的得意（at least I'll have somewhere to crawl back to）：她的秘密从来只有一个读者——这是本书给所有「藏东西」桥段的统一判决。
 
 > **原句 3:** "‘Deadly,’ he states flatly. ‘You won’t believe the night I’ve had, babe. Some crazy bitch broke into my flat and tried to murder me and my girlfriend. Can you believe it?’"
 
@@ -62,7 +62,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：终击的凶器是全书的「爱之水晶」：招来灵魂伴侣的石头完成最后一击——讽刺密度满格。red velvet Easter egg 的甜点比喻把死亡的视觉冻成童话色，与「supernatural strength」一起把现实与灵异的边界砸穿：她此刻到底是人是灵，书不给答案。
 
-**读者视角提示**：第 8 章她说「不能只是巧合」——全书最重的伏笔在此兑付：那块石头真的「选中」了什么。它选中的是什么，读者此刻自会有自己的读法。
+**读者视角提示**：第 7 章她说「不能只是巧合」——全书最重的伏笔在此兑付：那块石头真的「选中」了什么。它选中的是什么，读者此刻自会有自己的读法。
 
 ## 本章词汇
 

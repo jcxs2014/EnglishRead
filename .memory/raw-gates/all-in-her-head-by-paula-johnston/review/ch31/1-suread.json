@@ -1,0 +1,15 @@
+{
+ "chapter":"ch31","source":"text/ch31_28_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"早晨他已上班，没按惯例吻她额头；她怕自己犯错","anchor":"Without waking me with a kiss on the forehead to say good morning.","line":25,"span":[1099,1155]},
+  {"who":"Cassie","what":"童年常因光脚走被骂；光脚是她不被卷走的感觉","anchor":"I was constantly told off for wandering around the house without any socks or slippers on","line":22,"span":[588,690]},
+  {"who":"Finlay","what":"不喜欢 Luna，称其 wild animal / rodent，说它去别处更开心","anchor":"It’s nothing but a wild animal. A rodent.","line":34,"span":[1774,1816]},
+  {"who":"Cassie","what":"为养猫妥协：每天吸尘、即时铲屎、猫砂盆只放 spare room","anchor":"I hoover the furniture daily, scoop her shit out of the tray as soon as she goes","line":40,"span":[2295,2373]},
+  {"who":"Finlay","what":"踢到猫碗、撞脚趾后怒吼摔门；事后窗大开，他发誓不知情","anchor":"He swore, hand on his heart, he didn’t know the window was open","line":52,"span":[4138,4208]},
+  {"who":"Cassie","what":"冒雨找猫两小时、走遍 Southside；他拒绝帮忙，说她 mad","anchor":"wandered the streets of the Southside for over two hours","line":55,"span":[4532,4574]},
+  {"who":"Cassie","what":"第一次对 Finlay 生出 dislike","anchor":"for the first time, I felt an uncomfortable dislike for Finlay","line":55,"span":[4922,4985]},
+  {"who":"Finlay","what":"找到她和猫后只在意别人怎么看他；此后绝口不提","anchor":"What will people think of me?","line":61,"span":[5481,5508]}
+ ],
+ "relations":["Cassie 与 Finlay 同住；猫 Luna 被他排斥；猫一度走失"],
+ "numbers":["两小时寻找（text:55）","五分钟等待（text:46）","22 号旧宅（text:49）"]
+}

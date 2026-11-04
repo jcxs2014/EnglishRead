@@ -1,0 +1,15 @@
+{
+  "chapter":"ch08","source":"text/ch08_7_cassie.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"Finlay","what":"大笑承认这是第一次做解读，自称 total virgin","anchor":"‘You caught me. First time doing anything like this. A total virgin.’","line":19,"span":[154,295]},
+    {"who":"Cassie","what":"内心不信他第一次，认为两人都在撒小谎","anchor":"I guess I’m not the only fibber in this room.","line":22,"span":[353,405]},
+    {"who":"Cassie","what":"童年求救从没被认真对待，因为她「看起来不像在受苦」","anchor":"And all because I don’t look like I’m suffering.","line":28,"span":[1018,1071]},
+    {"who":"Cassie","what":"自我命令止泪：你是 Nova，Nova 不哭","anchor":"You’re Nova, remember? Nova doesn’t cry.","line":49,"span":[2792,2844]},
+    {"who":"Finlay","what":"说相信她、称她是专家；她承认自己并非专家","anchor":"‘All good, Cassie, I trust you. You’re the expert, right?’","line":73,"span":[4746,4817]},
+    {"who":"Finlay","what":"单手拎椅挪到她身边坐，膝盖几乎相碰","anchor":"he rises, lifts his chair with a strong and clearly muscular arm","line":85,"span":[5385,5452]},
+    {"who":"脑内女声","what":"先建议她说实话，后直接吼 RUN","anchor":"‘Run!’ the voice hollers.","line":88,"span":[5926,5951]},
+    {"who":"Cassie","what":"把一切读成命定：他唤醒她的力量、玫瑰石英不是巧合；担心开牌出现矛盾解释","anchor":"It can’t be just a coincidence that I recently bought the crystal of love.","line":109,"span":[7272,7352]}
+  ],
+  "relations":["Cassie 为 Finlay 做首场解读；她开始把他当成命运安排的人"],
+  "numbers":["牌为三张（text:112）","tri-coloured eyes（text:85）"]
+}

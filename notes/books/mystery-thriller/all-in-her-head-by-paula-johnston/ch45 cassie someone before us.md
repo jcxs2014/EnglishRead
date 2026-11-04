@@ -30,9 +30,9 @@ modified: "2026-11-03"
 
 **关键词**：under the tub in the bathroom / a dodgy wooden panel / where I found it
 
-**为什么这样写**：地址信息精确到木板：藏匿点是「他」的手笔——只有他知道自己家里每一块松动的板。bad habit 的口误提醒读者：两个名字（Finlay/George）仍在两个女人的舌头上打架。
+**为什么这样写**：地址信息精确到木板：藏匿点其实是作者自己的手笔（后文揭底）。bad habit 的口误提醒读者：两个名字（Finlay/George）仍在两个女人的舌头上打架。
 
-**读者视角提示**：藏匿者不明是本章暗扣：Blair 没写过它、Cassie 没放过它——那么把一本陌生女人的日记藏在自己浴缸后的，除了「他」还有谁？为什么？
+**读者视角提示**：藏匿者不明是本章暗扣：Blair 没写过它、Cassie 没放过它——那么把一本陌生女人的日记藏在自己浴缸后的，究竟是誰？为什么？
 
 > **原句 3:** "The girl with the golden blonde hair who’s staring me straight in the face as she walks towards Blair. Even firmly stood by her side, she refuses to let the chain between our eyes break. She’s real!"
 
@@ -42,7 +42,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：显形的舞台调度意味深长：她不找 Cassie，去找 Blair——灵在选边。chain between our eyes 的比喻把「被看见」写成双向锁定：这一次，Cassie 不是看见鬼，是被鬼认领。
 
-**读者视角提示**：对照第 14 章她「身后肩上的女人」：同一个灵，当时站在他身后——如今换了保护对象。这本书的鬼，立场跟着受害者走。
+**读者视角提示**：对照第 13 章她「身后肩上的女人」：同一个灵，当时站在他身后——如今换了保护对象。这本书的鬼，立场跟着受害者走。
 
 > **原句 4:** "But…why is the spirit that was with me in the room the day I murdered George not finished with me yet? Blair obviously can’t see a thing, but I see her clearer than ever now, looking like a combination of all three of us. Her youth is the only thing that really differentiates us: as if her life were frozen in time."
 

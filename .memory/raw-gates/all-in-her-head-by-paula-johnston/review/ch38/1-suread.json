@@ -1,0 +1,15 @@
+{
+ "chapter":"ch38","source":"text/ch38_34_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"承认自己从无天赋，Nova 只是更易活的伪装","anchor":"I don’t have a special gift, never have.","line":22,"span":[691,733]},
+  {"who":"Cassie","what":"自悔自助书只翻不读、求助羞于开口","anchor":"Help was always something I’ve been too ashamed to ask for","line":28,"span":[1625,1689]},
+  {"who":"George","what":"冷笑说不会伤害 Blair，只要她记住自己是谁的女友","anchor":"‘She’s my girlfriend. I wouldn’t hurt her. She just needs to remember that.’","line":40,"span":[2319,2410]},
+  {"who":"George","what":"反手抽 Blair 一巴掌","anchor":"the back of his hand skelps her across the face","line":46,"span":[2543,2594]},
+  {"who":"Cassie","what":"意识到他从未爱过她，面具炸碎、自己的面纱也被掀开","anchor":"He never loved me. He never loved me. He never loved me.","line":49,"span":[2715,2771]},
+  {"who":"George","what":"揪 Blair 头发拖进厨房、抽出最锋利的刀抵喉","anchor":"placing the side of the knife flat against her throat","line":61,"span":[3853,3902]},
+  {"who":"Cassie","what":"想到 Blair 曾逃走仍回来救她，决定必须行动","anchor":"she came back to help me. Someone she doesn’t even know","line":64,"span":[4092,4157]},
+  {"who":"Cassie","what":"喊出三句肯定语后扑向两人","anchor":"‘I am capable. I am brave. I am a good person.’","line":73,"span":[4444,4501]}
+ ],
+ "relations":["Cassie 与 Blair 同处险境；George 持刀"],
+ "numbers":["三句肯定语（text:73）"]
+}

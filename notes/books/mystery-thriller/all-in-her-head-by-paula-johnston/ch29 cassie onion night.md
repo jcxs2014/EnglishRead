@@ -6,7 +6,7 @@ modified: "2026-11-03"
 # 26. Cassie
 
 ## 本章导航
-- **一句话概括**：约会之夜三连爆：星期几记错、洋葱「过敏」发作、新金发被指着骂——她用四个人的错惩罚自己一顿饭；那句「我把你从黑暗洞穴里捞出来」终于说出了声。
+- **一句话概括**：约会之夜三连爆：星期几记错、洋葱「过敏」发作、新金发被指着骂——她用三件事的错惩罚自己一顿饭；那句「我把你从黑暗洞穴里捞出来」终于说出了声。
 - **情感弧线位置**：驯化完成期：她的日历、食谱、发色全部按他的体系重写——连犯错都是「他的版本」优先。
 - **线索结构**：洋葱（Blair 线的「or so he says」在此应验——同一份咖喱上周吃光）； Dummy-proof meal plans 与童年 Donna 的果冻帽同框（驯化史的家族谱系）；「 Elnett 不是我的东西」；结尾「头发怎么了」与 Blair 线的金发直接相撞。
 - **人物弧线**：Cassie：惊喜→道歉→自我入罪三段全走完，甚至提前替他找好理由；Finlay：从沉默到清算到人身攻击，怒气的每一站都有台词——他把「付出」做成了债务清单。
@@ -62,7 +62,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：隐瞒早餐是本章 smallest 的谎，却是全书最重要的习惯：报忧的通道关闭了。dummy-proof 这个词组把身份钉死——他眼里的她需要「防呆设计」。最狠的一笔是她自愿补完辩护词：he just wants to look after me。
 
-**读者视角提示**：对照第 11 章「取消外卖」：同一条食物控制线，在两个女人身上各跑一遍——这次她连「饿」都学会了不上报。
+**读者视角提示**：对照第 10 章「取消外卖」：同一条食物控制线，在两个女人身上各跑一遍——这次她连「饿」都学会了不上报。
 
 > **原句 6:** "‘Since when do you not like onions?’ I laugh, assuming he’s kidding. Because obviously he is. It’s a joke. He devoured this exact meal last week, not one slither left behind. And so did I, despite the fact it’s actually me who hates them, but I ate them anyway because chicken curry with onions was his favourite, and he says he doesn’t like fussy eaters, so it seemed like a no-brainer to just eat them rather than cause a fuss."
 
@@ -92,7 +92,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：恩情账本首次公开唱账：洞穴、苦工、零要求——三行债务表念完，手指顶上锁骨。probes 这个词选得准：不是打，是点——刑具换成了笔尖，逼供的礼貌版。她要答的题目只有一个答案：感恩。
 
-**读者视角提示**：dark cave 对照第 20 章她自己的家（垃圾围城）——他救的是她的居住条件，还是他的接管条件？这行账单的利率会在后文越滚越高。
+**读者视角提示**：dark cave 对照第 17 章她自己的家（垃圾围城）——他救的是她的居住条件，还是他的接管条件？这行账单的利率会在后文越滚越高。
 
 ## 本章词汇
 

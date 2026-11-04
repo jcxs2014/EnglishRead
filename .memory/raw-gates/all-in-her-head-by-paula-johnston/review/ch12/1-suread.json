@@ -1,0 +1,15 @@
+{
+  "chapter":"ch12","source":"text/ch12_11_cassie.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"Finlay","what":"追问死神牌是否真指死亡、所爱之人的死","anchor":"‘Does it ever actually mean death, though? Say…the death of a loved one?’","line":25,"span":[785,907]},
+    {"who":"Finlay","what":"坦白来意是因为女朋友；她失踪那天他在上班、她衣物都在、早上还在睡","anchor":"she wasn’t there when I got home from work. All her clothes were","line":49,"span":[2454,2544]},
+    {"who":"Cassie","what":"明知该担心失踪女性，却先庆幸对方成了「前女友」（ex-ists 双关）","anchor":"As in no longer ex-ists.","line":55,"span":[3029,3080]},
+    {"who":"Finlay","what":"说他报过警，警方称感情跑路常见、无能为力","anchor":"I went to the police and reported her missing","line":70,"span":[4128,4177]},
+    {"who":"Finlay","what":"自称胃里有坏预感，问这算不算 intuition","anchor":"What would you call that? Intuition?","line":76,"span":[4651,4715]},
+    {"who":"Cassie","what":"自认可以帮他找到平静、让他 move on","anchor":"I could help him find some peace so that he can move on, right?","line":88,"span":[6043,6104]},
+    {"who":"Cassie","what":"脑内声音命令 Don’t do this，她仍决定 leap，认为这是她唯一幸福机会","anchor":"This is my one shot at happiness. It’s my time now, I know it.","line":127,"span":[8798,8844]},
+    {"who":"Cassie","what":"她当面说出 She’s dead，并补充「你是对的，你女友走了」","anchor":"‘I’m sorry, Finlay, but I’m afraid you’re right. Your girlfriend is gone.’","line":142,"span":[9296,9370]}
+  ],
+  "relations":["Finlay 以失踪女友为由求助；Cassie 将其死亡当结论说出"],
+  "numbers":["牌为 death card（text:25,106）","无其他数字"]
+}

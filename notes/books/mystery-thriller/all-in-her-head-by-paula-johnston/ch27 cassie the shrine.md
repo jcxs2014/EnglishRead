@@ -8,7 +8,7 @@ modified: "2026-11-03"
 ## 本章导航
 - **一句话概括**：同居三周：白墙合拢、冥想毯变风筝、他的食谱她的日程——前女友的衣物原封不动摆成圣龛；她提议清走，换来他的第一次发怒；她把错全签收在自己名下。
 - **情感弧线位置**：蜜月倒扣期：外在全按他的规格运行，内里的警报从「对不起她」升级为「对不住自己」。
-- **线索结构**：圣龛清单（衣物/球鞋/洗漱用品）是本章的实物证词；「第一次见他发怒」与第 5 章 Maria 家的攥腕同源；雨中 pirouette 的情话与黑暗的眼睛并存于同一人；「是我带来了坏能量」——受害者把闹鬼的锅背走。
+- **线索结构**：圣龛清单（衣物/球鞋/洗漱用品）是本章的实物证词；「第一次见他发怒」与第 6 章 Maria 家的攥腕同源；雨中 pirouette 的情话与黑暗的眼睛并存于同一人；「是我带来了坏能量」——受害者把闹鬼的锅背走。
 - **人物弧线**：Cassie：从「感恩入住」到「自我审查」，服从全面制度化（起床/更衣/菜单/电视）；Finlay：愤怒首秀——不再需要演温柔的时刻，就是底牌露出的时刻。
 - **叙事手法**：冥想写不成功（ thoughts on jet-skis ）自嘲压迫感；白墙/风筝/迷你绞索三组意象把「幸福的窒息」具象化；圣龛用清单体陈列，让物件自己作证。
 
@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：瑜伽用品与自杀意念缝在同一行：冥想工具的全部用途，被改写成逃生装置。£29.99 的标价是反讽的定金——连逃跑都这么便宜、这么想得美。风筝逆着她的方向飞。
 
-**读者视角提示**：对照第 20 章「被海浪卷走」：她的退出机制从大海升级为天空——形式在换，指向没换过。
+**读者视角提示**：对照第 17 章「被海浪卷走」：她的退出机制从大海升级为天空——形式在换，指向没换过。
 
 > **原句 3:** "I take a deep breath. Finlay Munro is maybe the nicest human ever created, and he really deserves so much more than someone as difficult as me. But I won’t allow myself to be sucked into that pool of quicksand right now. I must push those doubts to the back of my mind and so my brain sprints into a new task, out of harm’s way. I must be the best me…for him."
 
@@ -72,7 +72,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：浪漫的峰值时刻被记录在案：雨中、旋转、情话三连——越完美的画面越该存证。ever loved anyone 的绝对句式与屋里的圣龛互斥：两份证词只能活一份，而她选择相信屋顶下这份。
 
-**读者视角提示**：把这段话和第 5 章他对 Maria 的拥抱并读：同一个人在两个女人面前都说「最」——这本书用重复动作教读者识别剧本。
+**读者视角提示**：把这段话和第 4 章他对 Maria 的拥抱并读：同一个人在两个女人面前都说「最」——这本书用重复动作教读者识别剧本。
 
 > **原句 7:** "It’s the first time I saw him angry. It scared me. It was like he’d morphed into a different person entirely. Someone who made my blood run cold. Even his beautiful, bright eyes became dark and dangerous."
 

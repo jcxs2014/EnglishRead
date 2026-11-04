@@ -40,7 +40,7 @@ modified: "2026-11-03"
 
 **关键词**：a normal day / All her clothes were / sleeping in bed that morning / haven’t heard a thing
 
-**为什么这样写**：失踪叙事只有细节没有情节：人在、物在、门锁如初。normal day 重复两次，像他反复校准过的说辞——这份平滑的叙述，读者此时只觉心酸，往回翻才会觉出另一种可能。
+**为什么这样写**：失踪叙事只有细节没有情节：人在、物在、门锁如初。normal day 只出现一次，紧接着就是「没有任何异常」的自我校准——这份平滑的叙述，读者此时只觉心酸，往回翻才会觉出另一种可能。
 
 **读者视角提示**：把这段和第 1 章序幕对读：一个被控制的她、一个密不透风的家——失踪女友的开局，长得和 The Unknown 一模一样。
 
@@ -52,7 +52,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：三个 should 排出道德义务的阶梯，然后用一个文字游戏全部踏空：ex-ist 的双关把失踪写成空缺招聘。作者的狠在于不做旁白批判——让读者亲眼看着一个词的读音盖过一个女人的下落。
 
-**读者视角提示**：这是全书道德坐标的原点时刻：她此后每一次「帮」他，都能追溯到这个她笑出声的谐音梗。
+**读者视角提示**：这是全书道德坐标的原点时刻：她此后每一次「帮」他，都能追溯到这个她在心里认领的谐音梗。
 
 > **原句 5:** "‘No. That’s not why I’m here,’ he says firmly. A bit too sharply. ‘What I’m trying to say is, I think there’s more to it. I don’t think she just left me. I went to the police and reported her missing – like you’re supposed to do, right? But they said people run off from their relationships all the time. The bloke said there was nothing they could do.’"
 

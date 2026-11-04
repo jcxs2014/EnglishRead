@@ -1,0 +1,15 @@
+{
+ "chapter":"ch17","source":"text/ch17_16_blair.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Nova","what":"开场说要请 guides/ancestors/任何灵体来给 clarity，随后又声明不与鬼魂说话、只读牌","anchor":"I only communicate through the cards.","line":28,"span":[1089,1126]},
+  {"who":"Blair","what":"只为感情求一个是/否的清晰答案；门到母亲家后红旗开始","anchor":"What I’m searching for today is a simple yes or no answer to a question I’m asking myself.","line":22,"span":[561,653]},
+  {"who":"Blair","what":"洗牌后凭 eeny meeny 选中中间一叠，抽出三张","anchor":"Eeny meeny miny moe? I guess I’ll just go for the middle.","line":61,"span":[3695,3742]},
+  {"who":"Nova","what":"喝止她把倒置牌摆正；解释愚人逆位＝鲁莽","anchor":"‘STOP,’ she shouts","line":79,"span":[4564,4582]},
+  {"who":"Nova","what":"魔术师逆位＝身边有骗子、假扮另一个人","anchor":"there’s a trickster in your life","line":121,"span":[7131,7163]},
+  {"who":"Blair","what":"坚称自己没不信任的人、从没这么信任过谁，断言牌错","anchor":"‘There is nobody in my life right now that I don’t trust.","line":133,"span":[7990,8045]},
+  {"who":"Blair","what":"翻开第四张（多出的）塔牌；Nova 警告要尽快修、时间不多、要小心","anchor":"‘Time is running out for you if you don’t think smart.","line":211,"span":[11855,11902]},
+  {"who":"George","what":"在她回程路上开车等候，请她上车，攥住她头发并说不会让她再离开","anchor":"‘Good,’ he states. ‘Because I won’t let you leave me ever again.’","line":271,"span":[15791,15856]}
+ ],
+ "relations":["Blair 向 Nova 求解读；George 追踪并接她回家"],
+ "numbers":["三张牌＋多出的第四张塔（text:70,196）"]
+}

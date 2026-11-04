@@ -1,0 +1,14 @@
+{
+  "chapter":"ch05","source":"text/ch05_4_blair.txt","readOrder":"text-only before md",
+  "facts":[
+    {"who":"Maria","what":"像拉布拉多扑向儿子；紧身运动裤红背心；Blair 称她不到一周前才见过 George","anchor":"She literally saw him less than a week ago.","line":31,"span":[1620,1664]},
+    {"who":"Blair","what":"被玫瑰刺破拇指，血沾白西装袖口；想起童话转险的预兆","anchor":"I’ve somehow pricked my thumb clutching the thorns on these stupid roses.","line":25,"span":[1230,1300]},
+    {"who":"George","what":"当面调侃 Blair 车技；她头一回开他的车","anchor":"with this one’s driving skills","line":37,"span":[1950,1980]},
+    {"who":"Maria","what":"脸僵住、勉强握手；说这花是 George 每周送的同一款","anchor":"He brings me these exact ones every week.","line":58,"span":[4737,4778]},
+    {"who":"Blair","what":"走廊照片墙全是 George；一张被裁过，只剩女性手臂","anchor":"There’s even one that looks as if it has been cropped.","line":73,"span":[6168,6223]},
+    {"who":"George","what":"今早在浴室镜上用她的 Ruby Woo 口红写“I love you”","anchor":"This morning, I saw the words ‘I love you’ in Ruby Woo Red.","line":85,"span":[8372,8434]},
+    {"who":"Blair","what":"决定不让任何人破坏自己的幸福","anchor":"I’ve waited far too long.","line":91,"span":[9039,9054]}
+  ],
+  "relations":["Blair 初次见 George 的母亲 Maria；Maria 对儿子占有欲强，对 Blair 冷淡"],
+  "numbers":["Maria 近六十岁（text:16）","Blair 的朋友/酒吧顾客称三个月前（text:64 属 ch03；本章未提）","一周内 Maria 见过 George（text:31）"]
+}

@@ -1,0 +1,14 @@
+{
+ "chapter":"ch21","source":"text/ch21_18_cassie.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"Cassie","what":"为惩罚自己关掉锅炉、穿多层，认为谎言是纯自私的编造","anchor":"A complete fabrication as a result of pure selfishness.","line":28,"span":[2230,2285]},
+  {"who":"Finlay","what":"私信：感谢解读、承认上次像混蛋、不期待回复","anchor":"Cassie, it’s Finlay Munro. I’m not sure if you’ll remember me, but I just wanted to thank you for the reading.","line":64,"span":[3491,3605]},
+  {"who":"Finlay","what":"第二条：想再见她、约喝酒","anchor":"I’d really like to see you again. Do you fancy a drink sometime?","line":97,"span":[4838,4886]},
+  {"who":"Cassie","what":"自责让 Finlay 相信女友已死是背叛他与自己；但看到消息又动心","anchor":"the minute I allowed Finlay to believe his girlfriend was dead, I’d be betraying not only him but myself","line":106,"span":[5170,5283]},
+  {"who":"Cassie","what":"随手翻书得到 Hafiz 句「Run…」，她读成要离开现有生活、奔向 Finlay","anchor":"‘Run, my dear, from anything that may not strengthen your precious, budding wings.’ – Hafiz.","line":169,"span":[8442,8534]},
+  {"who":"Finlay","what":"澄清不是想再解读，只是想 hang out","anchor":"I didn’t actually mean another reading.","line":220,"span":[10288,10329]},
+  {"who":"Cassie","what":"决定去赴约，认定宇宙与 Hafiz 都已发话","anchor":"Cassie Torrance shall go to the ball with Finlay Munro.","line":238,"span":[10978,11033]}
+ ],
+ "relations":["Finlay 主动重新联系；Cassie 把赴约读成命运"],
+ "numbers":["消息发出已一小时（text:73）","两周前越界（text:106）"]
+}

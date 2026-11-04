@@ -14,7 +14,7 @@ modified: "2026-11-03"
 
 ## 精读
 
-> **原句 1:** "An unexpected rattle on the front door makes me jump. My heavy eyes fall to the watch wrapped tightly around my right wrist: a yellow-gold digital Casio that I treated myself to during one of my impulsive retail-therapy sessions that my overdraft does not thank me for. Spotting the flicker of a changing minute, I realise that it’s only ten thirty-one."
+> **原句 1:** "An unexpected rattle on the front door makes me jump. My heavy eyes fall to the watch wrapped tightly around my right wrist: a yellow-gold digital Casio that I treated myself to during one of my impulsive retail-therapy sessions that my overdraft does not thank me for. Spotting the flicker of a changing minute, I realise that it’s only ten thirty-one. My guest isn’t due for another fourteen, to be precise, and his seemingly eager need for punctuality has summoned a surge of panic in my chest."
 
 **中文理解**：门上一阵意外的响动把她吓得一跳；她沉重的目光落到右腕那块金色卡西欧上——那是某次冲动购物犒劳自己的战利品，透支账户可不会感谢她——她发现才十点三十一，胸腔里涌起一阵恐慌。
 
@@ -32,7 +32,7 @@ modified: "2026-11-03"
 
 **为什么这样写**：作者把自我怀疑写成有音量的「声音」而不是念头，让它有来处、有动作（whispers）；imposter 与 A fraud 拆成两个独立短句，一句比一句重，像自己给自己定罪。
 
-**读者视角提示**：冒充感是本章的引擎：她把「家」描述成无处可逃的地方，说明这场恐慌并不关于客人，而关于她自己的资格感。
+**读者视角提示**：同一章的走廊里，她还想过要用多大力气把拇指按进头骨才让它爆炸——这句自伤意念比冒充感更重，别漏读。冒充感是本章的引擎：她把「家」描述成无处可逃的地方，说明这场恐慌并不关于客人，而关于她自己的资格感。
 
 > **原句 3:** "But just like today, I always felt like an outcast because they were always so much more confident than me. They had no qualms about smuggling quarter bottles of vodka in their backpacks, stashing them at the bottom underneath their skating boots."
 
@@ -44,7 +44,7 @@ modified: "2026-11-03"
 
 **读者视角提示**：这是全书第一块过去时的拼图：她的低自尊有来历，不是凭空演出来的；「grudgingly, I suspect」这种自我怀疑的语气会一路跟着她。
 
-> **原句 4:** "I must quickly remind myself why I’m doing this. Why it was necessary. Because it really was. For me, it was a matter of life or death. I no longer wanted to go to sleep at night, wishing I’d never open my eyes again."
+> **原句 4:** "I must quickly remind myself why I’m doing this. Why it was necessary. Because it really was. For me, it was a matter of life or death. I no longer wanted to go to sleep at night, wishing I’d never open my eyes again. Something needed to change. I was shuffling closer to the edge, finally ready to give up the fight."
 
 **中文理解**：她必须赶紧提醒自己为什么做这件事、为什么它曾有必要——它确实有：对她来说那是生死问题，她曾不想在夜里睡去、盼着从此不再睁眼。
 

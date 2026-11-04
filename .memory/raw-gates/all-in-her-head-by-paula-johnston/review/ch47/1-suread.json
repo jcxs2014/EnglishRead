@@ -1,0 +1,15 @@
+{
+ "chapter":"ch47","source":"text/ch47_the_unknown.txt","readOrder":"text-only before md",
+ "facts":[
+  {"who":"她（Louise）","what":"坐在案发公寓对面湿墙上，伪装观察，看完全程","anchor":"she remains seated on the damp wall across the street from the flat where Cassie Torrance and Blair Cameron committed murder","line":10,"span":[60,200]},
+  {"who":"Louise","what":"日记是她自己藏进浴室的，盼有人找到","anchor":"she’d wondered if she’d be the one to find her journal that she’d stashed in the bathroom","line":19,"span":[773,873]},
+  {"who":"Louise","what":"研究 Blair、盼她更快识破 George 并反抗","anchor":"she had a gut instinct that Blair would be able to look after herself","line":19,"span":[1428,1508]},
+  {"who":"Louise","what":"Cassie 本不该被卷进计划；她自责","anchor":"Cassie was never supposed to be part of this plan.","line":22,"span":[1751,1802]},
+  {"who":"Louise","what":"她与 Cassie 有旧谊：知她不弱、爱她的大心脏；当年二选一她选错","anchor":"It was him or her, and sadly she chose wrongly.","line":31,"span":[2622,2675]},
+  {"who":"Louise","what":"看见 George 的车载走卷起的地毯，确认谋杀发生","anchor":"the rolled-up rug being carried to the boot of George’s car","line":37,"span":[3172,3230]},
+  {"who":"Louise","what":"对猫说「你好 Luna，Cassie 没事，你替我看着她」","anchor":"‘Hello, Luna,’ she whispers. ‘Cassie is OK.","line":52,"span":[4462,4510]},
+  {"who":"Louise","what":"她活着，等有勇气向 Cassie 坦白，就不再是 unknown","anchor":"when she finally finds the courage to come clean to Cassie, she will no longer be unknown","line":58,"span":[4888,5003]}
+ ],
+ "relations":["Louise 是 Cassie 失联好友、日记作者、Luna 原主人（Phoenix）；George 前女友"],
+ "numbers":["Twenty-two 号（text:25）"]
+}
