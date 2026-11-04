@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "扎克在基兰面前接起爸爸的电话，先对基兰说「我们能不能先按个暂停」，随即走到墙角。",
+    "anchor": "Can we—can we just press pause?",
+    "start": 323,
+    "end": 354
+  },
+  {
+    "fact": "爸爸在电话里说，他们打算再过一两小时就打发托芙去睡觉，好让她在扎克飞行途中上路看直播。",
+    "anchor": "We’re going to send Tove to bed in an hour or two.",
+    "start": 1041,
+    "end": 1091
+  },
+  {
+    "fact": "扎克对爸爸脱口说自己忘了带耳机（心里还压着丢了随身行李、所有圣诞礼物和换洗衣物的事）。",
+    "anchor": "“I forgot my headphones,” Zach blurts out",
+    "start": 1664,
+    "end": 1705
+  },
+  {
+    "fact": "爸爸承诺今年要把象限仪座流星雨办得更特别，以弥补今晚的延误。",
+    "anchor": "We’ll make the Quadrantids even more special this year",
+    "start": 2057,
+    "end": 2111
+  },
+  {
+    "fact": "扎克想到托芙只比他大十四个月，两人却像隔了好几代。",
+    "anchor": "Tove is only fourteen months older",
+    "start": 2889,
+    "end": 2923
+  },
+  {
+    "fact": "玛拉发来基兰几周前发的 Instagram 截图：基兰穿全黑西装、正在整理袖扣。",
+    "anchor": "She’s attached a screenshot of an Instagram post.",
+    "start": 3268,
+    "end": 3317
+  },
+  {
+    "fact": "扎克向玛拉承认，他原以为基兰念 MRU、不知道他上 UofC，所以得知实情后慌了神。",
+    "anchor": "i didn’t know he went to uofc (thought MRU)",
+    "start": 5324,
+    "end": 5367
+  },
+  {
+    "fact": "结尾扎克靠墙闭眼深呼吸，认定自己还能挽回，因为他确实还想再见到基兰。",
+    "anchor": "I can do this. He can still fix this",
+    "start": 6063,
+    "end": 6099
+  }
+]
