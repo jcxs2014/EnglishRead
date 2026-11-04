@@ -102,7 +102,7 @@ modified: "2026-11-04"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nightmares | 噩梦 | Styx. A name Johnny knew and would cry for in his nightmares. |
+| nightmares | 噩梦 | I wondered what she was trying to tell me, then gasped. “Blue’s nightmares.” |
 | mattress | 床垫 | Then, I turned around and proceeded to kick the upside-down mattress. |
 | insanity | 疯狂 | I even fought the calmness trying to take possession of my insanity. |
 | horizontally | 横放地 | However, when she placed it on the ground, she laid it horizontally. |
