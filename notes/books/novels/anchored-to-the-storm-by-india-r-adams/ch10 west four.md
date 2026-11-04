@@ -105,6 +105,21 @@ modified: "2026-11-04"
 **为什么这样写**：全章收在一句不出声的告解——他要用替死保护 Seb，却先向对方道歉；温柔与僭越在一个动词里并存，杀意藏进保护的语法。
 **读者视角提示**：Finn 的"替死"决定本章不宣布——读者是唯一的知情人，这层独知就是下一章的张力。
 
+
+> **原句 14:** "She exhaled with a little smile as if I couldn’t have answered better. “I have to find Johnny.”"
+
+**中文理解**：Sarah 舒了一口气，笑容里带着一点释然，好像没有比这更好的回答——我必须找到 Johnny。
+**关键词**：a little smile / answered better / I have to find Johnny
+**为什么这样写**：本章 Finn 的全部挣扎（自责、被托付、决定替死）在此刻获得出口——被需要的痛立刻兑换成被需要的用；一个"必须"把复仇的独角戏改写成寻人的双人任务。
+**读者视角提示**：注意场景——这段对话发生在 Johnny 的旧房间：被领养者留下的空床成了结盟的签约桌。
+
+> **原句 15:** "Sarah added, “I don’t know why, but I’m sure we have to stop them from killing the pastor.”"
+
+**中文理解**：Sarah 又补了一句：不知道为什么，但她确信——必须拦住他们，不能让他们杀了那个牧师。
+**关键词**：I don’t know why / I’m sure / stop them from killing
+**为什么这样写**：直觉以"不知为何但确信"的句式登场——她的感应总比论证快一步；把上一句"找 Johnny"与这一句"拦杀人"并置，双任务结构就此成立，也为下一章的 Kristen 之行铺路。
+**读者视角提示**：她说不出理由却笃定——这是 West 线灵视系统的又一次无警报运行，记住这种"先确信后知道"的节奏。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -138,4 +153,4 @@ modified: "2026-11-04"
 | snuck | 潜入（snuck 的过去式） | Like the pain when I snuck into the bathroom stall in school, lifting my shirt to see my bruised ribs after telling a guy on the football team he was cute. |
 
 ## 一句话总结
-Dale 的"你永远是我儿子"接住了 Finn，也交出内幕：酒驾者被 Johnny 徒手打死、bleach 灭迹——共享梦有了主；牧师的假哭记者会点燃凉亭密谋，Seb 咬定亲自动手、Sarah 心神不宁地"有别的事"，而 Finn 暗自决定替他背下杀业——但愿你原谅我夺走这件事。
+Dale 的"你永远是我儿子"接住了 Finn，也交出内幕：酒驾者被 Johnny 徒手打死、bleach 灭迹——共享梦有了主；牧师的假哭记者会点燃凉亭密谋，Seb 咬定亲自动手、Sarah 心神不宁地"有别的事"，而 Finn 暗自决定替他背下杀业——但愿你原谅我夺走这件事；章末 Sarah 造访 Johnny 的旧房间，两人结盟：必须找到 Johnny，也必须拦住那场杀人。
