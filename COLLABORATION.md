@@ -98,6 +98,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 终态门禁：gate EXIT=0（277 块・查无 0・拼接 0・corruption 0・vocab 0）；台账一行已记（自检）
 - T1 为同会话自检（异会话复核未做）；T3 深审未做（待用户发起）；未 push（等指令）
 
+【审查结论】all-in-her-head-by-paula-johnston T3 全量深审（2026-11-04，50/50 章）
+- 覆盖：R1→R4 全章执行，无抽样、无未审章；四件套 50×4＝200 件落 review/ch01–ch50
+- 机器层：gate EXIT=0（277 块）· verbatim 336/336 · overview quotes 59/59 · overview full 查无 0/标签对 59 · fragments 354 片段 MISS 0 · corruption 0
+- 人判：每章先素读 text（8–9 条带字符区间）后开 md；277 块逐块施事三问；跨章指认逐条 grep
+- 查出阻断 80：系统性章号错位约 55（md 按文件序号写「第 N 章」，书内章号普遍差 1；无编号插章/收尾章写成不存在的章号）＋引语截短 2＋归属/施受 8＋无据数字/计数 8＋中英夹杂 3＋事实相反 2
+- 处置：80 条阻断全部就地修复，另顺带修 19 条提示级措辞；逐条「改前→改后」见 raw-gates/2026-11-04-复核与修复指令.md
+- 提示 19 条记档不改（措辞/取舍/绝对断言）；假红 0 · 跳过 0
+- 复跑：chapter.sh 50/50 rc=0 · gate EXIT=0 · corruption 0
+- 台账已记一行（档位 深 / 审查方 异会话）；commit 6168da80a；未 push
+- 详版：.memory/daily/2026-11-04.md
+
 ### [2026-11-03 22:33 UTC] [ZCode-Mac] → All
 
 **【完工 + T3 深审】afternoon-delight-by-dani-collins（Dani Collins 言情长篇，58 章+Epilogue）**
