@@ -1,0 +1,61 @@
+{
+ "book": "anchored-to-the-storm-by-india-r-adams",
+ "chapter": "ch09",
+ "text": "notes/books/novels/anchored-to-the-storm-by-india-r-adams/text/ch09_east_six.txt",
+ "facts": [
+  {
+   "fact": "Styx 查到坏消息：Sea-Dude 虽已消失，誓言仍在生效——Misfits 们开始出现征兆。",
+   "anchor": "Yeah, I’m sorry, Baby Boy. They are showing signs",
+   "start": 520,
+   "end": 569
+  },
+  {
+   "fact": "Maddox 逼问誓言内容，Styx 咆哮回答「守护门！」——门就是 Maddox 本人：「I think you’re the Boundary.」",
+   "anchor": "“To protect the gates!”",
+   "start": 931,
+   "end": 954
+  },
+  {
+   "fact": "Styx 描述被刺后的开悟：感知剧变仿佛多出五十双眼睛，而四周的一切「从不是我以为的一切」。",
+   "anchor": "as if I gained fifty more sets of eyes",
+   "start": 2614,
+   "end": 2652
+  },
+  {
+   "fact": "Styx 的界论：神话的 Underworld 就发生在人类脚下、盲眼前方——盲是伪装，为琐事的焦虑是戏法，那是真相的通路。",
+   "anchor": "The blindness is the façade.",
+   "start": 3882,
+   "end": 3910
+  },
+  {
+   "fact": "Maddox 共享了 Ethan 的噩梦：继父将他打晕并纵火，母亲死在客厅地板，妹妹 Sadie 被揪着头发悬在熔化的汽油罐火上——他脖子上的伤疤正是当年救人所致。",
+   "anchor": "my little sister, hanging by her hair",
+   "start": 11022,
+   "end": 11059
+  },
+  {
+   "fact": "惊醒后一切对上：Blue 烤箱手套着火的厨房场景、Harmony 写下的「他有过一个妹妹」——Ethan 的孤独与羞耻隔着梦传了过来。",
+   "anchor": "And Harmony’s written words: He had a sister.…",
+   "start": 11410,
+   "end": 11456
+  },
+  {
+   "fact": "Maddox 又潜入 Saleeni 的记忆：那天她的家族正在检查人类大桥的桥柱，炸弹爆炸夺走了全家——年幼的她因离群而幸存。",
+   "anchor": "From the bomb attached to a bridge’s pillar.",
+   "start": 15901,
+   "end": 15945
+  },
+  {
+   "fact": "Styx 追问细节后脸色煞白：追杀 Lennox 的摩托不知道有炸弹——因为他们没有栽弹；炸弹另有其人所放，电话那头的人 groan「I’m on it here」。",
+   "anchor": "Because they didn’t plant it.",
+   "start": 16891,
+   "end": 16920
+  },
+  {
+   "fact": "书名点题：Styx 劝他别拴在风暴上，Maddox 吼「我就是这场他妈的风暴」，Styx 笑答「像位真正的 Prez」。",
+   "anchor": "Stop being so anchored to your storm, Silly Rabbit",
+   "start": 7014,
+   "end": 7064
+  }
+ ]
+}
