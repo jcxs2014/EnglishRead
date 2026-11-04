@@ -1,0 +1,73 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch16",
+ "text": "ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "又一轮拳头打在肾上；她练出的忍术：示弱防补拳、不反抗、不让儿子看见疼",
+   "anchor": "appearing subservient might stop him",
+   "start": 329,
+   "end": 365
+  },
+  {
+   "fact": "灭口令：说出去就杀了她再杀你；Danjel 气声立誓「总有一天我会杀了你」",
+   "anchor": "beneath his breath as a murmur",
+   "start": 1810,
+   "end": 1840
+  },
+  {
+   "fact": "Robertu 到访打断；Lawrenz 的道歉=当众夸「她咖啡全城最好」——全部道歉",
+   "anchor": "That was his apology, she knew",
+   "start": 4205,
+   "end": 4235
+  },
+  {
+   "fact": "她请 Robertu 立约：若我开口，把 Danjel 带到安全的地方；他允诺",
+   "anchor": "you’ll get Danjel to safety",
+   "start": 6120,
+   "end": 6147
+  },
+  {
+   "fact": "儿子对足球的 coach 评价与 Lawrenz「他还净花钱」；她谢 Robertu 替她说好话",
+   "anchor": "he needs to achieve something",
+   "start": 7014,
+   "end": 7043
+  },
+  {
+   "fact": "Robertu 揭底：马赛酒吧拖垮家底、喝酒赌钱输光利润、路子「不干净」还想拿赌场牌照",
+   "anchor": "licence for a casino",
+   "start": 10333,
+   "end": 10353
+  },
+  {
+   "fact": "Robertu 摊牌愿卖酒吧养母子、逃西西里；她拒绝：逃亡只便宜了他；Lawrenz 会追到天涯海角",
+   "anchor": "I can provide for you and Danjel",
+   "start": 10437,
+   "end": 10469
+  },
+  {
+   "fact": "她神秘回应「耐心点，我已走了一些步子」；还点出女王将来访",
+   "anchor": "I have taken some steps",
+   "start": 11222,
+   "end": 11245
+  },
+  {
+   "fact": "送行：Lawrenz 心情转好、道歉「在我情绪里的时候」；她心口话「别回来了，去死吧」",
+   "anchor": "Please go somewhere and die.",
+   "start": 12971,
+   "end": 12999
+  },
+  {
+   "fact": "杀夫幻想与理智声音：割喉像那幅画；坐牢/失恃/被夺子——不能动手，但还有别的路吗",
+   "anchor": "slit his throat, like the Caravaggio painting",
+   "start": 13875,
+   "end": 13920
+  },
+  {
+   "fact": "Marseille 生意实为迎接马赛 Maltese 移民思乡生意；她盼那儿有个女人拴住他、最好长住不归",
+   "anchor": "he mustn’t feel that urging",
+   "start": 16866,
+   "end": 16893
+  }
+ ]
+}

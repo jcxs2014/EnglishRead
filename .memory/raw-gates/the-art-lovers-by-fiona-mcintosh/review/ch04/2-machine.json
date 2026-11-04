@@ -1,0 +1,413 @@
+{
+  "chapter": 4,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-art-lovers-by-fiona-mcintosh/ch04 the cat was a lie.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch04_chapter_4.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It had interrupted his career as lecturer on the history of art, specialising in the work of Michelangelo Merisi da Cara",
+          "ok": true,
+          "pos": 1317
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "His body was six-foot-four of pain; he imagined all the bruises finding one another, coalescing into one ever-purpling c",
+          "ok": true,
+          "pos": 2931
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Now Peter saw the girl from the water’s edge emerge hesitantly from behind the door. ‘Oh hello,’ he said, delighted to s",
+          "ok": true,
+          "pos": 5282
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She shrugged. ‘You were fighting to keep me safe. I needed to watch you survive.’",
+          "ok": true,
+          "pos": 6647
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘It comes from the Latin “valens”. It means strong",
+          "ok": true,
+          "pos": 10523
+        },
+        {
+          "text": "valiant.’",
+          "ok": true,
+          "pos": 10572
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "If it were up to me, I’d insist that every single young person in the whole world – male or female – attended university",
+          "ok": true,
+          "pos": 12366
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘But you are so determined in your passions. Don’t ever lose that. Don’t let anyone, whether they’re German or Maltese, ",
+          "ok": true,
+          "pos": 14585
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "She had moved to lean against the wall by the window, the shaft of light now cutting across her oval-shaped face, lighti",
+          "ok": true,
+          "pos": 15491
+        }
+      ],
+      "words": 76
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘Then I am a loner too,’ she said, seeming to like the word. ‘I am happy in my private thoughts.’",
+          "ok": true,
+          "pos": 18646
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Her laugh rang out, and he was glad; he’d wanted to move them away from this subject he didn’t enjoy considering. The ca",
+          "ok": true,
+          "pos": 21947
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "‘Stop putting ideas into the girl’s head,’ Maria said, her tone stern, as she bustled back in. ‘You don’t understand lif",
+          "ok": true,
+          "pos": 23445
+        },
+        {
+          "text": "it won’t end well.’",
+          "ok": true,
+          "pos": 23608
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She beamed an achingly sweet smile, and then surprised him by blowing him a kiss before fleeing his room",
+          "ok": true,
+          "pos": 23870
+        }
+      ],
+      "words": 19
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.95
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 55,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 37,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.93
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.77
+      }
+    }
+  ],
+  "form": {
+    "h1": "04. Chapter Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 11.0,
+    "block_range": [
+      8,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4403,
+    "block_target": [
+      8,
+      14
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 31 章中位 11、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

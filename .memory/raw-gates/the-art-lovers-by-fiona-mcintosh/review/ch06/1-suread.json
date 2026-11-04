@@ -1,0 +1,73 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch06",
+ "text": "ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "酒吧回访：母亲夸他好人（承诺送食物与必需品）；Peter 放下酒钱、承诺多带客来，向 Stella 鞠躬谢汤",
+   "anchor": "I’ll send more people to this bar",
+   "start": 2060,
+   "end": 2093
+  },
+  {
+   "fact": "父亲要把妻儿撤去 Marsaxlokk 村自留城里，母亲吼「绝不分开」；她向 Peter 翻译成「他们吵架是因为相爱」",
+   "anchor": "I’d like to move you children and your mother to the village",
+   "start": 3434,
+   "end": 3494
+  },
+  {
+   "fact": "Peter 问她家可否搬村，她答有祖传 Marsaxlokk 小屋但离酒吧太远",
+   "anchor": "a tiny house in the village of Marsaxlokk",
+   "start": 3206,
+   "end": 3247
+  },
+  {
+   "fact": "医院门口父亲敲着鼻子炫耀「这女儿的好亲事我早定了」；她示意 Peter 别追问，他只道 Be safe",
+   "anchor": "I have already made a very good marriage for this one",
+   "start": 6094,
+   "end": 6147
+  },
+  {
+   "fact": "病房里她自嘲「我被卖了」；他惊呼「简直是中世纪」并为冒犯文化道歉；她说「我一点都不平静」",
+   "anchor": "I’ve been sold.",
+   "start": 7745,
+   "end": 7760
+  },
+  {
+   "fact": "她点破 Lawrenz 心不在焉又软弱、什么都听父亲的；他提出「时机合适我或许可以和你父亲谈谈」，她如泄气的气球",
+   "anchor": "Maybe I can speak to your father",
+   "start": 9178,
+   "end": 9210
+  },
+  {
+   "fact": "他说有个主意要向上司申请，若批了他就能多留一阵；她催他快办，抛吻道别",
+   "anchor": "you’ll be stuck with me for a while",
+   "start": 10040,
+   "end": 10075
+  },
+  {
+   "fact": "回程警报响起，她这次守信钻进隧道；暗想家人多半在「牢房」般的家里，安全些",
+   "anchor": "ducked into the first tunnel entry",
+   "start": 10542,
+   "end": 10576
+  },
+  {
+   "fact": "Delia 妒念：想象她抚摸 Peter 金发胡茬的手；自知他若知情会惊骇、父亲更承受不起",
+   "anchor": "run her fingers through his gleaming yellow hair",
+   "start": 16197,
+   "end": 16245
+  },
+  {
+   "fact": "求死闪念：被深爱的城市石头压死「也有诗意」；随即想起自己还想活、想被爱",
+   "anchor": "Maybe death was the answer",
+   "start": 16764,
+   "end": 16790
+  },
+  {
+   "fact": "她决定去找母亲结盟——若将来有女儿要劈新路的，她愿拿开山刀砍开一切；轰炸中她闭眼挑衅德国人来杀她",
+   "anchor": "Machete in hand",
+   "start": 17764,
+   "end": 17779
+  }
+ ]
+}

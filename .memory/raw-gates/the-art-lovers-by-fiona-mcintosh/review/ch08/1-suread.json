@@ -1,0 +1,67 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch08",
+ "text": "ch08_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "头天损失两架：一人摔断脖子是他的朋友；同事无言拍肩",
+   "anchor": "He was a friend. A fearless airman.",
+   "start": 469,
+   "end": 504
+  },
+  {
+   "fact": "美国访客 Nigel Brown（自称 friend from America）参观地下作战室；Peter 带他看 dais、Filter Room、Sector Eight",
+   "anchor": "which we call Sector Eight",
+   "start": 2969,
+   "end": 2995
+  },
+  {
+   "fact": "Peter 讲德军诱饵战术：西西里西侧佯动向西、突然折南；德机还爱从太阳方向高位来袭",
+   "anchor": "they might turn and suddenly come from the south",
+   "start": 5325,
+   "end": 5373
+  },
+  {
+   "fact": "Brown 说 Kraut 被抓包：英人会说 Jerry/Fritz，美国人偏爱 Kraut；loo-tenant 发音再添一证",
+   "anchor": "the Americans preferred Kraut",
+   "start": 6681,
+   "end": 6710
+  },
+  {
+   "fact": "他走出来喘息：Messerschmitt 在分割他们，但他觉得潮流即将转向己方",
+   "anchor": "he felt the tide was about to change in their favour",
+   "start": 7991,
+   "end": 8043
+  },
+  {
+   "fact": "大教堂台阶重逢：她剪了短发（父母强令），他说 pretty、她问 Are you lying",
+   "anchor": "Are you lying?",
+   "start": 10396,
+   "end": 10410
+  },
+  {
+   "fact": "他自白寄宿学校童年：独生、7 岁离家、母亲「从远处爱他」",
+   "anchor": "I was sent off to boarding school at seven",
+   "start": 12115,
+   "end": 12157
+  },
+  {
+   "fact": "Delia 婚事真相：她母亲做局、他裹挟成婚；飞行里才有自由；爱她但「不像电影里」",
+   "anchor": "I feel a freedom in my Spitfire that I never feel back at home in my marriage",
+   "start": 17523,
+   "end": 17600
+  },
+  {
+   "fact": "她的绝望陈述与死亡念头；他用「未来的女儿」劝她，并让她自认哲学家",
+   "anchor": "I think you are rich if you are happy",
+   "start": 20193,
+   "end": 20230
+  },
+  {
+   "fact": "他自称 her precious little friend；带她进主教座堂看「能抓住的东西」——章末悬念",
+   "anchor": "something powerful to cling to",
+   "start": 20741,
+   "end": 20771
+  }
+ ]
+}

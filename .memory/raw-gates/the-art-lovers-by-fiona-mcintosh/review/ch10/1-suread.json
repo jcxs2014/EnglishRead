@@ -1,0 +1,67 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch10",
+ "text": "ch10_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "Wing Commander 私谈后确认：他被召回英国训练新飞行员；行前带黑市礼篮谢 Maria、威士忌谢 Sammut 医生",
+   "anchor": "he was being recalled to England",
+   "start": 574,
+   "end": 606
+  },
+  {
+   "fact": "Maria 点破：Valentina 对他动了深情（deep crush）；这孩子聪明早熟有野心，父母却另有安排",
+   "anchor": "Valentina has developed a deep crush on you",
+   "start": 2734,
+   "end": 2777
+  },
+  {
+   "fact": "Maria 解构他的无辜：她本就把骑士浪漫化，你是她的骑士版本——Apollo 外貌、半个护士都爱你",
+   "anchor": "You’re her version of a knight",
+   "start": 5285,
+   "end": 5315
+  },
+  {
+   "fact": "Maria 教退场术：送纪念品、确认友谊、必要时撒小谎（妻信催归）——他拒绝：That would be a lie",
+   "anchor": "That would be a lie",
+   "start": 6540,
+   "end": 6559
+  },
+  {
+   "fact": "告别 Camilleri 夫妇：Stella 指向大教堂意味深长地点头（母亲全知道）；他承诺继续送食物",
+   "anchor": "Our daughter will likely be at the cathedral tomorrow",
+   "start": 8831,
+   "end": 8884
+  },
+  {
+   "fact": "大教堂诀别：她问多快走，他答「明天」——实为本周晚些，故意说得决绝",
+   "anchor": "he was being emphatic, clear, as requested",
+   "start": 10163,
+   "end": 10205
+  },
+  {
+   "fact": "她求他答应回来；他说 I promise——连自己都不知道是不是谎言",
+   "anchor": "not knowing if he was lying",
+   "start": 11655,
+   "end": 11682
+  },
+  {
+   "fact": "赠书：珍藏的 Caravaggio 小书（扉页有他手书名字）；她指尖抚过签名、下巴发抖",
+   "anchor": "It’s a book about Caravaggio, one that’s precious to me",
+   "start": 11783,
+   "end": 11838
+  },
+  {
+   "fact": "警报响起她拒进隧道：宁愿死在画前——「愿我们的心借艺术之爱永远相连」",
+   "anchor": "May our hearts always be linked through our love of art.",
+   "start": 13083,
+   "end": 13139
+  },
+  {
+   "fact": "他乘车下山，大教堂从视野消失：如释重负与悲伤交战，想象不出两人的将来",
+   "anchor": "relief warred with sadness",
+   "start": 13691,
+   "end": 13717
+  }
+ ]
+}

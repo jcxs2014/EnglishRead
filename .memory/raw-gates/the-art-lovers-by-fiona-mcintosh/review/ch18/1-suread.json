@@ -1,0 +1,73 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch18",
+ "text": "ch18_chapter_18.txt",
+ "facts": [
+  {
+   "fact": "教堂会面：Carmel 自我介绍（Tonio 不多话英语）；Peter 直呼名字、拒军衔称呼；两人是 ecclesiastical staff",
+   "anchor": "We are both ecclesiastical staff",
+   "start": 553,
+   "end": 585
+  },
+  {
+   "fact": "王室几天后到； cathedral 参观不在正式日程，Carmel 一方同样热盼女王来访",
+   "anchor": "Their Majesties will be here in a few days.",
+   "start": 758,
+   "end": 801
+  },
+  {
+   "fact": "Carmel 交代修复行程：他随行赴罗马筹备——画先去佛罗伦萨修复、再罗马展一整年",
+   "anchor": "We think Florence for the restoration",
+   "start": 3241,
+   "end": 3278
+  },
+  {
+   "fact": "签名执念：文档约 25 年前、「亲眼见到才信」；画将迎来首次彻底清洁；Caravaggio 本没签过几幅",
+   "anchor": "I will only believe it when my own eyes encounter it",
+   "start": 3543,
+   "end": 3595
+  },
+  {
+   "fact": "Peter 断言 Caravaggio 现知一幅都没签过——就这一幅，满怀希望（敲鼻动作）",
+   "anchor": "he didn’t sign any that we’re aware of at this point, other than this one",
+   "start": 3756,
+   "end": 3829
+  },
+  {
+   "fact": "Carmel 称他「全球权威」，邀他入罗马首访团、还问他婚否要带太太（他说已婚但——被打断）",
+   "anchor": "a global authority on this painter",
+   "start": 3920,
+   "end": 3954
+  },
+  {
+   "fact": "oratory 里跪地女工：Carmel 说她「对礼拜堂着了魔」、擦得比别处都久",
+   "anchor": "the woman is obsessed with the oratory",
+   "start": 5374,
+   "end": 5412
+  },
+  {
+   "fact": "Peter 望见鞋尖与指尖抚拉丁墓文的女工身影——年轻、曲线掩不住；两人互不相认",
+   "anchor": "caressing the Latin on the tombstone",
+   "start": 6199,
+   "end": 6235
+  },
+  {
+   "fact": "Danjel 对高个浅发男人挥手被母亲制止；他描述「非常高、浅发色」",
+   "anchor": "Very tall. Light-haired.",
+   "start": 6926,
+   "end": 6950
+  },
+  {
+   "fact": "母子对话：她答「舍得放下，因为随身携带」（按心口+太阳穴）；儿子提议当天出走被按回「尽快」",
+   "anchor": "Because I carry it here.",
+   "start": 8391,
+   "end": 8415
+  },
+  {
+   "fact": "她想用余生擦完全部墓志；母子约好打包野餐去海边",
+   "anchor": "pack a picnic",
+   "start": 11468,
+   "end": 11481
+  }
+ ]
+}

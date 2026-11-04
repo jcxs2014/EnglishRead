@@ -1,0 +1,67 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch14",
+ "text": "ch14_chapter_14.txt",
+ "facts": [
+  {
+   "fact": "大教堂清洁工身份：Lawrenz 允她工作只为钱（独自干活、无男主管）；这安排是她垂死的父亲逼两家签下的",
+   "anchor": "He permitted this only for the money",
+   "start": 116,
+   "end": 152
+  },
+  {
+   "fact": "婚礼前夜哀求悔婚被拒；无人可求——一条红毯移交另一个家族",
+   "anchor": "Just an aisle to walk down and be handed over to another family",
+   "start": 1682,
+   "end": 1745
+  },
+  {
+   "fact": "新婚夜暴行：他醉醺醺宣称「我是你的第一个也是最后一个」「你现在是我的了」；她事后洗身、蜷成孩子",
+   "anchor": "I’ll also be your last.",
+   "start": 2519,
+   "end": 2542
+  },
+  {
+   "fact": "他酒后会对伤痕像婴儿一样哭；她找到的词不是原谅而是容忍（tolerance）",
+   "anchor": "there was none in her heart",
+   "start": 3523,
+   "end": 3550
+  },
+  {
+   "fact": "她的「消失」清单：海底/祖母怀抱/Peter Fox 想象中的臂弯/大教堂与 Caravaggio",
+   "anchor": "She taught herself to disappear in her mind",
+   "start": 4369,
+   "end": 4412
+  },
+  {
+   "fact": "Peter 的 Caravaggio 小书被翻到卷边破旧；哥哥 Matteo 从加拿大寄艺术史书；学习=她的逃生口",
+   "anchor": "dog-eared and battered",
+   "start": 5363,
+   "end": 5385
+  },
+  {
+   "fact": "Caravaggio 是她的救命索：没有他和 Danjel「不如走进海里」；梦想带儿子去意大利看真迹",
+   "anchor": "he was now her lifeline",
+   "start": 7221,
+   "end": 7244
+  },
+  {
+   "fact": "Danjel 生于婚后约两年、一次流产后；酷似夭折舅舅 Ganni；Lawrenz 以血统发难「是不是 Robertu 的」",
+   "anchor": "Is he his?",
+   "start": 12338,
+   "end": 12348
+  },
+  {
+   "fact": "她回骂 loathsome；Lawrenz 嫌儿子像她不像自己、走路都不像",
+   "anchor": "I don’t want a child who looks like you!",
+   "start": 12833,
+   "end": 12873
+  },
+  {
+   "fact": "Robertu 邀她散步旧情复燃：我仍然爱你/我先爱上你的；她劝他珍惜 Anna",
+   "anchor": "I loved you first.",
+   "start": 17174,
+   "end": 17192
+  }
+ ]
+}

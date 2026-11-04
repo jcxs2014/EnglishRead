@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch03",
+ "text": "ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "医生下山准备宣布死亡；她握着飞行员冰凉的大手不肯让位，近距离看他「此生见过最美」",
+   "anchor": "even in this state he was the most beautiful man she’d ever seen",
+   "start": 341,
+   "end": 405
+  },
+  {
+   "fact": "她冒出坏念头：嘴对嘴吹气是反复亲他的完美借口；母亲会脱凉鞋抽她",
+   "anchor": "the perfect excuse to kiss him repeatedly on the mouth",
+   "start": 1006,
+   "end": 1060
+  },
+  {
+   "fact": "Lawrenz 比她大两岁，情绪在蔫、狠、笑之间切换，惯用拳头与同学打架；她不信任这种反复",
+   "anchor": "His moods often turned into a sulk and then cruelty",
+   "start": 2594,
+   "end": 2645
+  },
+  {
+   "fact": "母亲以「天性如此」和稀泥；她点着太阳穴说 Lawrenz「这里不对劲」",
+   "anchor": "Lawrenz is not right here",
+   "start": 4857,
+   "end": 4882
+  },
+  {
+   "fact": "Robertu 分析：Lawrenz 拼命讨父亲夸奖、弟弟得夸他就恨；父亲对长子格外严苛是想在他长大前管住",
+   "anchor": "He’s always looking for praise",
+   "start": 5448,
+   "end": 5478
+  },
+  {
+   "fact": "秘密：Lawrenz 说他见过父亲打母亲、不止一次，以为家家如此；她保证自己家不这样",
+   "anchor": "Lawrenz said he has seen my father hitting my mother",
+   "start": 8121,
+   "end": 8173
+  },
+  {
+   "fact": "「尸体」咳水复活；她喜极而泣当作祈祷应验，甚至想到「也许他会向我求婚」",
+   "anchor": "A miracle had occurred, and her pilot was alive",
+   "start": 10351,
+   "end": 10398
+  },
+  {
+   "fact": "他自报 Peter Fox（她想到「磐石」含义）；伤情=肩脱臼+头伤缝针+腿痛，坚持要自己走被医生按上担架",
+   "anchor": "I’m Peter Fox",
+   "start": 13804,
+   "end": 13817
+  }
+ ]
+}

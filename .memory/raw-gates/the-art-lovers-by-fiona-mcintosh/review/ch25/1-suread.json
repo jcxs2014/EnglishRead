@@ -1,0 +1,79 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch25",
+ "text": "ch25_chapter_25.txt",
+ "facts": [
+  {
+   "fact": "王室抵港日：Royal Yacht Britannia 由军舰护航入港；昨日为家庭日，今日公务",
+   "anchor": "escorted into the harbour by warships",
+   "start": 263,
+   "end": 300
+  },
+  {
+   "fact": "Danjel 生于战后 austerity，从未见过这般集体欢腾；这次比上次华丽",
+   "anchor": "a rush of optimism",
+   "start": 1177,
+   "end": 1195
+  },
+  {
+   "fact": "watershed 自觉：王室把 Peter 带回她的轨道——人生岔路口，必须选边",
+   "anchor": "the fork in her life’s path",
+   "start": 1425,
+   "end": 1452
+  },
+  {
+   "fact": "逃跑 A 计划：一分一分攒、必要时从账台偷、拉 Robertu 代管防搜查",
+   "anchor": "stealing from the till",
+   "start": 2000,
+   "end": 2022
+  },
+  {
+   "fact": "蓝裙白手套：今天第一次「觉得自己漂亮」——与裙子无关是心态",
+   "anchor": "Today she felt pretty",
+   "start": 2733,
+   "end": 2754
+  },
+  {
+   "fact": "Peter 迎接：「You're a vision」+背后握手偷欢；Carmel 亲证「你比他还懂 Caravaggio」",
+   "anchor": "You’re a vision, Valentina",
+   "start": 3556,
+   "end": 3582
+  },
+  {
+   "fact": "她开讲画史：Tomassoni 斗殴亡命→马耳他寻平安与赦免→Wignacourt 以画代 passaggio→8 月 29 日死限",
+   "anchor": "the decollation of St John",
+   "start": 7576,
+   "end": 7602
+  },
+  {
+   "fact": "Carmel 三击掌 Brava：只有学者才知道的深度——你竟在我们眼皮底下研究了这么多年",
+   "anchor": "Brava, Valentina",
+   "start": 7947,
+   "end": 7963
+  },
+  {
+   "fact": "身份正名：不是清洁工，是女王面前的 Caravaggio 顾问",
+   "anchor": "a worthy adviser on Caravaggio",
+   "start": 8662,
+   "end": 8692
+  },
+  {
+   "fact": "女王入殿启悟：If Elizabeth could, she could；战书——Lawrenz 再伸手我掰断你的手指",
+   "anchor": "I will break your fingers",
+   "start": 12502,
+   "end": 12527
+  },
+  {
+   "fact": "血书论首发：签名疑在圣约翰的血里；坐标——血泊边的丝缕笔触清洗后显形为字母",
+   "anchor": "wool-like threads",
+   "start": 20014,
+   "end": 20031
+  },
+  {
+   "fact": "女王握手许诺：护画使命希望也带上 Valentina；二十分钟改写平民一生",
+   "anchor": "changed the course of a simple commoner’s life",
+   "start": 21939,
+   "end": 21985
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+  "chapter": 25,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-art-lovers-by-fiona-mcintosh/ch25 the blood signature theory.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch25_chapter_25.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "This was a watershed moment in her life. It was as though the arrival of the royals, who had brought Peter back into her",
+          "ok": true,
+          "pos": 1290
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She could save whatever she could, penny-pinching – even stealing from the till if it came to it – and perhaps recruit R",
+          "ok": true,
+          "pos": 1937
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "It was nothing to do with the frock, she realised, but her attitude. Today she felt pretty – a feeling that had eluded h",
+          "ok": true,
+          "pos": 2654
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "‘You’re a vision, Valentina,’ he breathed, squeezing her hand behind her back so no one could see",
+          "ok": true,
+          "pos": 3545
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Carmel clapped three times. ‘Brava, Valentina. You have included a depth of detail only a scholar might know. I am amaze",
+          "ok": true,
+          "pos": 7846
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "I do agree that you have earned the right to be here – not as a cleaner, but as a worthy adviser on Caravaggio in the pr",
+          "ok": true,
+          "pos": 8495
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Valentina felt inspired by this woman. If Elizabeth could, she could",
+          "ok": true,
+          "pos": 11234
+        }
+      ],
+      "words": 11
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "To hell with you, Lawrenz, she thought, fresh courage coursing through her. You will never hurt me again – I will break ",
+          "ok": true,
+          "pos": 12291
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The Queen turned her gaze fully on Valentina, her eyes like a pair of glittering sapphires; an extraordinary blue that s",
+          "ok": true,
+          "pos": 16856
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "‘I have looked at this painting almost every day of my adult life, and I suspect it might be written in the blood.’",
+          "ok": true,
+          "pos": 18426
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "‘If there is a signature, I feel strongly that this is where we’ll find it. I think those wool-like threads that we can’",
+          "ok": true,
+          "pos": 19721
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "‘Well, I do hope very much that Valentina is also invited to be involved in that special mission.’ The Queen glanced at ",
+          "ok": true,
+          "pos": 20582
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Her visit hadn’t quite taken twenty minutes. But in that short space of time, Valentina knew that the English monarch ha",
+          "ok": true,
+          "pos": 21569
+        }
+      ],
+      "words": 30
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 32,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.87
+      }
+    }
+  ],
+  "form": {
+    "h1": "25. Chapter Twenty-Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 11.0,
+    "block_range": [
+      8,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 13,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3861,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 31 章中位 11、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

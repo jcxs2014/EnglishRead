@@ -1,0 +1,67 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch20",
+ "text": "ch20_chapter_20.txt",
+ "facts": [
+  {
+   "fact": "相认确认：你的 Valentina？——是救你的那个（虽自认没真救）；他张口无言；她抖开头巾露发",
+   "anchor": "My Valentina?",
+   "start": 68,
+   "end": 81
+  },
+  {
+   "fact": "「我数过。每一天。」——他愣住；Maria 的判断获得原始凭证",
+   "anchor": "I counted. Each day.",
+   "start": 1386,
+   "end": 1406
+  },
+  {
+   "fact": "他的道歉式赞美：小女孩没了、换来高挑优雅的陌生人——breathtaking；她自贬只是清洁工",
+   "anchor": "breathtaking, if I’m being honest",
+   "start": 2091,
+   "end": 2124
+  },
+  {
+   "fact": "Hopper 画论传情被她反手拆穿：想闯进她的生活替她解决问题",
+   "anchor": "solve her problems",
+   "start": 4176,
+   "end": 4194
+  },
+  {
+   "fact": "她的心理拉锯：想守住「再也见不到」的悲伤——不可能的梦才是撑住她的东西；想让他走以自保",
+   "anchor": "the impossible dream",
+   "start": 5777,
+   "end": 5797
+  },
+  {
+   "fact": "囚徒自白：喉咙像画里圣约翰被割开、每天流一点血；家人一格只有 Danjel——每天起床呼吸的理由",
+   "anchor": "He is the reason I get up each day",
+   "start": 7299,
+   "end": 7333
+  },
+  {
+   "fact": "画史揭秘：战后为护画取下卷起反致颜料剥落；签名有 1920 年代档案为证但无人见过",
+   "anchor": "Paint fell off.",
+   "start": 8842,
+   "end": 8857
+  },
+  {
+   "fact": "他把 Danjel 的未来接过来：这行需要导师、我认识人；她问「他父亲怎么想」触雷离席",
+   "anchor": "I can help. I know people.",
+   "start": 11273,
+   "end": 11299
+  },
+  {
+   "fact": "咖啡馆：他坦白分居（长期酝酿）、自认婚姻失败方；两个私心——你、马耳他是我的",
+   "anchor": "The second reason is that Malta is mine.",
+   "start": 14694,
+   "end": 14734
+  },
+  {
+   "fact": "无子庆幸论：孩子会是继续忍受不幸婚姻的理由；对照她的「Danjel 是留下的一切理由」",
+   "anchor": "keep the family together",
+   "start": 16033,
+   "end": 16057
+  }
+ ]
+}

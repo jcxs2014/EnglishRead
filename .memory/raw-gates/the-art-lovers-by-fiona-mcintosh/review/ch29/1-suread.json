@@ -1,0 +1,79 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch29",
+ "text": "ch29_chapter_29.txt",
+ "facts": [
+  {
+   "fact": "现场一小时：三成人一少年+警察；野餐报废；Danjel 盯尸体良久「要确认」——直起身的神情有解脱、悲伤、还有一丝胜利感，让她害怕",
+   "anchor": "an air of triumph",
+   "start": 1396,
+   "end": 1413
+  },
+  {
+   "fact": "Peter 先恢复：抱 Danjel 安抚、跑去喊人报警；Maria 紧抱母子不语",
+   "anchor": "yelling for someone to call the police",
+   "start": 446,
+   "end": 484
+  },
+  {
+   "fact": "探长 Vella（便装）到场确认死亡；警用相机镁光灯取代一小时前的欢笑",
+   "anchor": "Inspector Vella and confirmed that Lawrenz Falzon was dead",
+   "start": 2052,
+   "end": 2110
+  },
+  {
+   "fact": "探长只先问 Peter；Peter 抗议：请先问 Falzon 太太——今天出门野餐回家成寡妇，她有权被听见",
+   "anchor": "She deserves to be heard.",
+   "start": 3759,
+   "end": 3784
+  },
+  {
+   "fact": "她的证词：他醉上墙炫耀称王；「你要验就会查出他烂醉」；法方生意出事提前归国推断",
+   "anchor": "he was very intoxicated",
+   "start": 4867,
+   "end": 4890
+  },
+  {
+   "fact": "Danjel 失控作证「他打她伤她！」；Peter 打断护子，探长令警员先送孩子回家",
+   "anchor": "He slaps and punches her",
+   "start": 6132,
+   "end": 6156
+  },
+  {
+   "fact": "她对探长交底婚姻：16 岁被包办、十二年嫉妒占有；「我没得选，父母做主」",
+   "anchor": "I was not given the choice, Inspector.",
+   "start": 8892,
+   "end": 8930
+  },
+  {
+   "fact": "Maria 定调「蠢货自己摔的」；Peter 惊人改口「她没说实话」——随即护成「她在保亡夫名声」（血迹来历圆上）",
+   "anchor": "she is protecting her husband’s name",
+   "start": 11287,
+   "end": 11323
+  },
+  {
+   "fact": "结案：无挣扎痕迹→报 tragic accident；她拒绝送医（Maria 旧护士处理伤口）",
+   "anchor": "a tragic accident occurred today",
+   "start": 12518,
+   "end": 12550
+  },
+  {
+   "fact": "第二枚炸弹：马赛刑事调查、法马两国警方在案——他提前回来因在逃；她当场交出酒吧/账本/仓库钥匙",
+   "anchor": "he was on the run from French police",
+   "start": 14314,
+   "end": 14350
+  },
+  {
+   "fact": "Peter 的狼蛛独白：幼崽四散——幼崽挑战了激将它的王并且赢了，动物界这叫自然；「Couldn't have happened to a nicer fellow」的小声音被赶不走",
+   "anchor": "the cub won",
+   "start": 15596,
+   "end": 15607
+  },
+  {
+   "fact": "他对探长：春日野餐上醉汉在我眼前坠亡我没来得及抓——探长讲述自己抱着垂死同事的往事共情",
+   "anchor": "I just wasn’t fast enough to help",
+   "start": 16173,
+   "end": 16206
+  }
+ ]
+}

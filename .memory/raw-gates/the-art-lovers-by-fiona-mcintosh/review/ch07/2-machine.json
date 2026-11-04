@@ -1,0 +1,403 @@
+{
+  "chapter": 7,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-art-lovers-by-fiona-mcintosh/ch07 sold to the highest bidder.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch07_chapter_7.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "‘It’s the chair or you’re not going,’ she’d said the first time it had been suggested. ‘You must give your body a chance",
+          "ok": true,
+          "pos": 463
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Within a minute, it began to look like a thin, illuminated slice of orange in a deep whisky-coloured sky. From there on ",
+          "ok": true,
+          "pos": 2915
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Peter cut him a look. ‘Yes, we all know the derring-do of Flight Lieutenant Fox. It’s like you have a death wish, but th",
+          "ok": true,
+          "pos": 4092
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "If they know it’s you in the air, they’ll commit two of their best, most fearless pilots to not only shoot your plane do",
+          "ok": true,
+          "pos": 4600
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Oh, he wrote each fortnight, polite, jolly letters that didn’t say much but wished her safe, and he always signed off, ‘",
+          "ok": true,
+          "pos": 6220
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Her passion for him felt intense, focused, but she couldn’t share it with anyone – least of all him! – and so it built w",
+          "ok": true,
+          "pos": 9190
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "They spoke as if she wasn’t present, listening to them size her up like a prize animal to be sold. After all, that was w",
+          "ok": true,
+          "pos": 13353
+        }
+      ],
+      "words": 65
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘Valentina Camilleri,’ her father said. She knew he was serious when he stated her name in full, but right now she didn’",
+          "ok": true,
+          "pos": 15195
+        }
+      ],
+      "words": 84
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "‘We’re all bullied, my girl. We’re women. We have to find other ways to get what we want. You, my darling daughter, are ",
+          "ok": true,
+          "pos": 16729
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Her mother sighed. ‘And you’ll learn to absorb that pain, child. You’ll also learn how to take control but quietly, invi",
+          "ok": true,
+          "pos": 17199
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "‘Be quiet,’ he said, shutting her down. ‘You’ve always got something to say, don’t you? Well, I don’t want to hear it. W",
+          "ok": true,
+          "pos": 19895
+        }
+      ],
+      "words": 43
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "‘But we’ll make our parents happy and I’ll enjoy you in other ways,’ he said, and then stomped away",
+          "ok": true,
+          "pos": 20314
+        }
+      ],
+      "words": 19
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 45,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 21
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.84
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 24
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.7
+      }
+    }
+  ],
+  "form": {
+    "h1": "07. Chapter Seven",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 11.0,
+    "block_range": [
+      8,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3825,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 31 章中位 11、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

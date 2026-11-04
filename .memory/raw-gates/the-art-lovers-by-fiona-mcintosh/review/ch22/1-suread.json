@@ -1,0 +1,61 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch22",
+ "text": "ch22_chapter_22.txt",
+ "facts": [
+  {
+   "fact": "兔肉炖菜上桌她脱口 Made with love，说完不敢看他",
+   "anchor": "she couldn’t meet his gaze after saying that",
+   "start": 311,
+   "end": 355
+  },
+  {
+   "fact": "收拾时两手相碰像烫到；他内心自警 dangerously desirable、她是已婚女人不能趁人之危（他单身）",
+   "anchor": "You are dangerously desirable",
+   "start": 6266,
+   "end": 6295
+  },
+  {
+   "fact": "阳台闻香游戏：港口鱼腥/橄榄油蒜香/焦油/海盐/茉莉——他答对大半，她补 jasmine",
+   "anchor": "And jasmine.",
+   "start": 7683,
+   "end": 7695
+  },
+  {
+   "fact": "香水移交：Etourdissant by Jean Desprez——婚前为新娘买的，从没想给她；被逼问只答 I dare not",
+   "anchor": "I dare not, actually.",
+   "start": 8644,
+   "end": 8665
+  },
+  {
+   "fact": "她的清算：你走那天我心就碎了；被抛下的愤怒——你是自己求调走的吗",
+   "anchor": "Why did you leave?",
+   "start": 9184,
+   "end": 9202
+  },
+  {
+   "fact": "他招认：没求调令但没争、甚至欢迎（因为有人点醒她动了真情）；你是少女我已婚",
+   "anchor": "I welcomed it.",
+   "start": 9392,
+   "end": 9406
+  },
+  {
+   "fact": "香水=瓶装马耳他：地中海/花木/人民/自由——回家后打仗都比跟自己的心作战容易",
+   "anchor": "doing battle with it",
+   "start": 10897,
+   "end": 10917
+  },
+  {
+   "fact": "她判词：你不是懦夫是弱；他大笑受教——没人像你这么直白",
+   "anchor": "But you are weak.",
+   "start": 12093,
+   "end": 12110
+  },
+  {
+   "fact": "她抹香水于腕——闻出了自己的岛；末句：我的诚实总惹祸，如今换来淤青和断骨",
+   "anchor": "bruises and broken bones",
+   "start": 13021,
+   "end": 13045
+  }
+ ]
+}

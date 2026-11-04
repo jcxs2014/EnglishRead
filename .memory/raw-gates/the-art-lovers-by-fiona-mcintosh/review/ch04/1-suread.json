@@ -1,0 +1,67 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch04",
+ "text": "ch04_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "Peter 跳伞伤情盘点：脚踝重扭、肩脱臼、肋骨断、两指骨折——都是跳伞出舱时撞的，短期不能飞",
+   "anchor": "A dislocated shoulder, broken ribs and two fractured fingers",
+   "start": 3396,
+   "end": 3456
+  },
+  {
+   "fact": "他的战前身份：艺术史讲师、专攻 Caravaggio；被派驻瓦莱塔正因大师名画在此",
+   "anchor": "career as lecturer on the history of art, specialising in the work of Michelangelo Merisi da Caravaggio",
+   "start": 1346,
+   "end": 1449
+  },
+  {
+   "fact": "马耳他存活率传闻约两周出头；他已活过一个月；这是他第一场败仗——输给对手的技术而非鲁莽",
+   "anchor": "this was the first he’d lost",
+   "start": 2458,
+   "end": 2486
+  },
+  {
+   "fact": "同事探访带来消息：他的德机对手也被打落、获救，希望这场战争别再飞",
+   "anchor": "He flew on, then spluttered and dropped his arse into the drink",
+   "start": 5058,
+   "end": 5121
+  },
+  {
+   "fact": "Maria 护士引 Valentina 进病房；他记得她——「I never forget a kind face」，她红脸",
+   "anchor": "I never forget a kind face",
+   "start": 5570,
+   "end": 5596
+  },
+  {
+   "fact": "她自陈留守看空袭的理由：你在为我的安全而战，我必须看着你活下来",
+   "anchor": "I needed to watch you survive",
+   "start": 6793,
+   "end": 6822
+  },
+  {
+   "fact": "词汇课三连：harried（他递词）/ loner（她认领）/ valens（名字=坚强英勇）",
+   "anchor": "It comes from the Latin “valens”. It means strong… valiant.",
+   "start": 10735,
+   "end": 10794
+  },
+  {
+   "fact": "他追问战后理想，她背完命运剧本后说出梦想：上大学；他惊呼并宣称全世界年轻人都该上大学",
+   "anchor": "attended university to broaden and enrich their minds",
+   "start": 12717,
+   "end": 12770
+  },
+  {
+   "fact": "他自剖婚姻：被 Delia 母亲做局裹挟成婚；飞行里才有自由；被问爱不爱用「爱我们的猫」搪塞——猫是谎言",
+   "anchor": "The cat was a lie. They had no pets.",
+   "start": 22545,
+   "end": 22581
+  },
+  {
+   "fact": "Maria 折返警告「别给姑娘灌输思想，这样说下去不会有好结果」；她抛吻逃走",
+   "anchor": "blowing him a kiss before fleeing his room",
+   "start": 24466,
+   "end": 24508
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch21",
+ "text": "ch21_chapter_21.txt",
+ "facts": [
+  {
+   "fact": "晚宴前她给 Robertu 打电话报营业额；Robertu 说「这地方就该你管，账才对得上」",
+   "anchor": "the books would add up",
+   "start": 679,
+   "end": 701
+  },
+  {
+   "fact": "电话里她首次说破：Lawrenz 八成睡在别人床上；Robertu 问「他当着 Danjel 的面打你吗」——有，越来越多",
+   "anchor": "Yes. More and more.",
+   "start": 1784,
+   "end": 1803
+  },
+  {
+   "fact": "她拒绝他的自责：失败的是你哥你是好人——只要我开口那天在场就行；他重提 It should have been us 被她柔化",
+   "anchor": "Just be there if I ever ask",
+   "start": 1957,
+   "end": 1984
+  },
+  {
+   "fact": "餐桌仪式：餐巾、小花瓶、蜡烛——点蜡烛的手在抖；她疑心他是白日 mirage",
+   "anchor": "her hand was shaking as she did so",
+   "start": 3229,
+   "end": 3263
+  },
+  {
+   "fact": "儿子的安排：行李已收好、只准住一晚（小组作业借口）",
+   "anchor": "I’ve packed your bag",
+   "start": 4478,
+   "end": 4498
+  },
+  {
+   "fact": "蜜月裙首穿：粉波点、蜜月买的、从未上过身——若穿过第一波淤青早显形；束发解开的反叛",
+   "anchor": "I got this for my honeymoon",
+   "start": 5266,
+   "end": 5293
+  },
+  {
+   "fact": "儿子夸她美（爸爸从来不说）；她坦白从不觉得自己美",
+   "anchor": "You’re beautiful. Papa just doesn’t ever say it.",
+   "start": 4922,
+   "end": 4970
+  },
+  {
+   "fact": "赠书仪式：一本 definitive 的 Caravaggio 画册给 Danjel；孩子抱住他致谢",
+   "anchor": "I have found this book to be definitive",
+   "start": 9585,
+   "end": 9624
+  },
+  {
+   "fact": "祝酒「To art lovers」——母子应和碰杯；把儿子收进当年的二人小圈",
+   "anchor": "To art lovers.",
+   "start": 13458,
+   "end": 13472
+  },
+  {
+   "fact": "她的记忆宣言：我们谈过的每一句我都记得——目光锐利得他败退",
+   "anchor": "I remember everything that we discussed",
+   "start": 12188,
+   "end": 12227
+  },
+  {
+   "fact": "婚姻近况对答：更糟（比当年担心的）；Peter 问起孩子→她立刻要走触雷",
+   "anchor": "As bad as you’d feared?",
+   "start": 13020,
+   "end": 13043
+  },
+  {
+   "fact": "他被拉上街踢球：从生疏到盘过 Danjel；街坊围观叫好；她的战争今晚休战——与自己和解",
+   "anchor": "Tonight she felt at peace with herself",
+   "start": 17310,
+   "end": 17348
+  }
+ ]
+}

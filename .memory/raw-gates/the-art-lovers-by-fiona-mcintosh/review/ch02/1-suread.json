@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch02",
+ "text": "ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "她弃电梯（停运且出了名的慢）跑步下城，St Ursula 街躲瓦砾，小腿撞出血而不自知",
+   "anchor": "she was dodging rubble",
+   "start": 2076,
+   "end": 2098
+  },
+  {
+   "fact": "修女院资助私掠远征抽成的史实令她神往：幻想自己经商致富、让男人在街上敬佩她的精明",
+   "anchor": "women financing men to do their dirty work",
+   "start": 1812,
+   "end": 1854
+  },
+  {
+   "fact": "到海边见救生艇已出海、两名男子奋力划桨去救落水飞行员；她确认他已被发现后折返回城",
+   "anchor": "two men straining at the oars",
+   "start": 4370,
+   "end": 4399
+  },
+  {
+   "fact": "Mae West 救生衣外号的由来：她 8 岁给影院放映员送饭撞见那句台词，后来学舌逗笑两名飞行员",
+   "anchor": "uttered the famous line",
+   "start": 8365,
+   "end": 8388
+  },
+  {
+   "fact": "飞行员被抬上岸、lifeless 摊在石板上血迹扩散；摘下皮盔露出被海水血浸的头发与深创",
+   "anchor": "flopped, lifeless, on the stone pavers",
+   "start": 9129,
+   "end": 9167
+  },
+  {
+   "fact": "人群急救（听心、压胸排气）；一位善心女人用手帕护理他头部伤口；她用裙摆擦净他的脸",
+   "anchor": "using the skirt of her cotton dress",
+   "start": 10408,
+   "end": 10443
+  },
+  {
+   "fact": "心口一记重击后她不由自主吻了他沾血的额头；众妇惊呼点名，她谎称替大家致谢",
+   "anchor": "she bent and kissed his blood-streaked forehead",
+   "start": 11066,
+   "end": 11113
+  },
+  {
+   "fact": "收束三连：这不止是告别/她爱上「已死」的他/他是她的——握住死去的手指为奇迹祈祷",
+   "anchor": "cast a prayer for a miracle",
+   "start": 11943,
+   "end": 11970
+  }
+ ]
+}

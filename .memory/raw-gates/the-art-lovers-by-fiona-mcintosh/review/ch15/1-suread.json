@@ -1,0 +1,61 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch15",
+ "text": "ch15_chapter_15.txt",
+ "facts": [
+  {
+   "fact": "伦敦 Courtauld（Portman Square）：Blunt 的 Acqua di Parma 与 shortbread；他通报离婚「call it a day and divorce」",
+   "anchor": "we’ve decided to call it a day and divorce",
+   "start": 1140,
+   "end": 1182
+  },
+  {
+   "fact": "Blunt 其人：Cambridge 同窗、顶级艺术史家、前 MI5 高官、传闻同性恋但对 Peter 无越界",
+   "anchor": "former senior MI5 agent during the war",
+   "start": 2494,
+   "end": 2532
+  },
+  {
+   "fact": "友人之友曾耳语 Blunt 战时叛国；他与多数军人选择放下",
+   "anchor": "Blunt had committed treachery",
+   "start": 2588,
+   "end": 2617
+  },
+  {
+   "fact": "HQ 自评：驾驶舱后一排——紧张、专注、每天做影响生死的大决定",
+   "anchor": "One row back from the front seats",
+   "start": 4418,
+   "end": 4451
+  },
+  {
+   "fact": "战时是他记忆里最后一次开怀大笑的时光",
+   "anchor": "the last time I remember laughing a lot",
+   "start": 4747,
+   "end": 4786
+  },
+  {
+   "fact": "正题：女王英联邦巡演六个月、马耳他为例数第二站（Gibraltar 前），公主时期的行宫 Villa Guardamangia 在瓦莱塔郊外",
+   "anchor": "Malta will be the penultimate stop before Gibraltar",
+   "start": 7053,
+   "end": 7104
+  },
+  {
+   "fact": "Blunt 识破来意：Caravaggio+那本 damn book；罗马 1956 大展要借画+查签名，修复会揭晓",
+   "anchor": "The restoration will reveal it.",
+   "start": 9125,
+   "end": 9156
+  },
+  {
+   "fact": "Blunt 拍板：找皇家渠道申请、备好西装；「Best man for the job」",
+   "anchor": "Best man for the job and all that.",
+   "start": 12438,
+   "end": 12472
+  },
+  {
+   "fact": "他出门时 thrum of excitement——上次这种心跳还是爬进 Spitfire 座舱那天；关门一瞬「久违地感到快乐」",
+   "anchor": "for the first time, in a long time, he felt happy.",
+   "start": 12681,
+   "end": 12731
+  }
+ ]
+}

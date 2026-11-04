@@ -1,0 +1,73 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch11",
+ "text": "ch11_chapter_11.txt",
+ "facts": [
+  {
+   "fact": "1954 年 Bath：她要拆常春藤他不许——「这对照概括了他的婚姻」；婚姻=最大失望+最大失败",
+   "anchor": "It was his greatest disappointment, and his greatest failure.",
+   "start": 2419,
+   "end": 2480
+  },
+  {
+   "fact": "Delia 37 岁、Bash 名园主妇、社交海报女郎；他厌倦 war hero 标签下的剪彩差事",
+   "anchor": "looking like a poster girl for the marriage everyone should aspire to",
+   "start": 5072,
+   "end": 5141
+  },
+  {
+   "fact": "订婚时他明说不适合当丈夫（不懂分享自己）；Delia 母女不信；岳父一句「她会收拾你」+Scotch 打发",
+   "anchor": "she’ll slap you into shape",
+   "start": 6931,
+   "end": 6957
+  },
+  {
+   "fact": "朋友事后揭底：Elva 母女早锁定他——打听到底细后说「Perfect for our Delia」",
+   "anchor": "Perfect for our Delia",
+   "start": 9608,
+   "end": 9629
+  },
+  {
+   "fact": "婚礼致辞时他自觉是旁观者：连求婚是谁开口都存疑；若由他做主宁可 Gretna Green 私奔再往苏格兰高地蜜月",
+   "anchor": "Had he even asked Delia to marry him, or had it been the other way around?",
+   "start": 10421,
+   "end": 10495
+  },
+  {
+   "fact": "蜜月夜首战起因=她忘带洗漱包求折返被他拒；她罚他睡地板；他被指 ruined the night",
+   "anchor": "You can sleep on the floor.",
+   "start": 13502,
+   "end": 13529
+  },
+  {
+   "fact": "香水 Etourdissant 因此从未送出，收进阁楼 RAF trunk；「快乐妻子=安静生活」成为婚姻准则",
+   "anchor": "put the gift away in his old RAF trunk",
+   "start": 15188,
+   "end": 15226
+  },
+  {
+   "fact": "翻找旧笔记本时发现那瓶香水：一闻——Valentina Camilleri 闪进脑海；马耳他+Caravaggio+她缠在同一缕香里",
+   "anchor": "it was Valentina Camilleri who flashed into his mind",
+   "start": 16463,
+   "end": 16515
+  },
+  {
+   "fact": "他在 Courtauld Institute 任高职（Blunt 上任次年聘他）；Delia 只爱「Fox 太太」的头衔与名流请柬",
+   "anchor": "She only loved what being his wife could bring her.",
+   "start": 8950,
+   "end": 9001
+  },
+  {
+   "fact": "「What if you wanted love」排比：雷击般的爱、上瘾、离不开——Fox 婚姻经不起这套审视",
+   "anchor": "Well, the Fox marriage couldn’t withstand that sort of scrutiny.",
+   "start": 22824,
+   "end": 22888
+  },
+  {
+   "fact": "内心声音逼宫：撕毁契约、提离婚——她不会放？会的，一旦她知道你握有 Gordon Stapleton 的把柄",
+   "anchor": "Once she realises that you know about Gordon Stapleton.",
+   "start": 23481,
+   "end": 23536
+  }
+ ]
+}

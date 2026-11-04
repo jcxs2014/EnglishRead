@@ -1,0 +1,67 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch19",
+ "text": "ch19_chapter_19.txt",
+ "facts": [
+  {
+   "fact": "Lawrenz 离岛首日：她像度假般轻快，居然在哼歌——自 Danjel 婴儿期以来头一回",
+   "anchor": "Humming! She hadn’t done that since Danjel was a baby",
+   "start": 392,
+   "end": 445
+  },
+  {
+   "fact": "吧台蜜月新人引发爱的滤镜感叹：爱听不见噪音、只闻玫瑰",
+   "anchor": "Love heard only music and saw only sunshine and smelled only roses",
+   "start": 1098,
+   "end": 1164
+  },
+  {
+   "fact": "她对 Carmel 求档案工作并叮嘱保密：让他以为我只擦地；Carmel 承诺找更合适的角色",
+   "anchor": "don’t tell my husband",
+   "start": 3023,
+   "end": 3044
+  },
+  {
+   "fact": "她的女权讲稿：谁撑住士气/孩子/口粮——男人不懂女人咽下多少苦难；Carmel 警她别说太响",
+   "anchor": "how much suffering women have absorbed",
+   "start": 6276,
+   "end": 6314
+  },
+  {
+   "fact": "Carmel 透露：昨天到了一位英国艺术专家、对咱们的 Caravaggio 特别有兴趣（敲鼻玩笑防他偷画）",
+   "anchor": "he has a special interest in our Caravaggios",
+   "start": 8682,
+   "end": 8726
+  },
+  {
+   "fact": "她心底最暗一句：「是啊，我就只配干这个」；次日跪擦 Ferdinando Vargas y Castro 墓、立志擦完全部墓志",
+   "anchor": "Yes, that’s about all I’m good for.",
+   "start": 9091,
+   "end": 9126
+  },
+  {
+   "fact": "擦墓自嘲「永远跪在男人面前」随即摇散——伺候死者是自愿，不像伺候 Lawrenz",
+   "anchor": "Always on our knees to men",
+   "start": 9808,
+   "end": 9834
+  },
+  {
+   "fact": "他独享名画的狂喜：Just me and Caravaggio；眼眶发热——上次与自己这般平和是何时",
+   "anchor": "his eyes watered with that final thought",
+   "start": 13253,
+   "end": 13293
+  },
+  {
+   "fact": "他看见她的侧影：chiselled、美而「对生活疲惫」（tired with life）",
+   "anchor": "She was beautiful in profile",
+   "start": 14191,
+   "end": 14219
+  },
+  {
+   "fact": "他自报家门 Peter Fox；她的白日梦成真——认出声音、眼泪夺眶；「是我」/「抱歉，我认识你吗」/「我是 Valentina」",
+   "anchor": "It’s Valentina.",
+   "start": 17945,
+   "end": 17960
+  }
+ ]
+}

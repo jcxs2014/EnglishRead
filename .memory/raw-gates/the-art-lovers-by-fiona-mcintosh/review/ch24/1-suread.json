@@ -1,0 +1,67 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch24",
+ "text": "ch24_chapter_24.txt",
+ "facts": [
+  {
+   "fact": "事后余温：几天后她仍能「摸到」那晚——气味、发丝、指甲半月、睫毛",
+   "anchor": "the half-moons on his fingernails",
+   "start": 241,
+   "end": 274
+  },
+  {
+   "fact": "全城挂旗迎驾：女王将与年幼的 Charles、Anne 在马耳他团聚；Villa Guardamangia 旧居；学校放假",
+   "anchor": "reunited with the young Prince Charles and Princess Anne",
+   "start": 966,
+   "end": 1022
+  },
+  {
+   "fact": "母子早餐：Danjel 记得上次女王来访（他近 6 岁到 8 岁间）；他兴奋的是放假",
+   "anchor": "He’d been nearing six",
+   "start": 1689,
+   "end": 1710
+  },
+  {
+   "fact": "她的梦想清单第一位：Danjel 的未来没有争吵拳头、没有蜷角敷淤青的妈妈",
+   "anchor": "nursing fresh bruises",
+   "start": 3832,
+   "end": 3853
+  },
+  {
+   "fact": "内心命令句：那就去做——把问题移除，离开 Lawrenz；吓得她抓起工作服出门",
+   "anchor": "Get away from Lawrenz.",
+   "start": 4368,
+   "end": 4390
+  },
+  {
+   "fact": "女王劳作自嘲：说「不」的权力一定很爽——可女王永远不会说不；你只是个擦地的顺便端酒端咖啡",
+   "anchor": "just a cleaner who serves wine and coffee",
+   "start": 5745,
+   "end": 5786
+  },
+  {
+   "fact": "Peter 邀她以同事身份迎驾：你懂 Caravaggio 不输在场任何人（含他自己）；已获主管首肯",
+   "anchor": "I want you to meet the Queen.",
+   "start": 6781,
+   "end": 6810
+  },
+  {
+   "fact": "Maria 撞破：「多年没见你这样笑过」「也许天使引你回来不止为女王」；她自责当年该劝他搅黄婚事",
+   "anchor": "maybe the angels have guided you back",
+   "start": 8618,
+   "end": 8655
+  },
+  {
+   "fact": " picnic 邀约（Lawrenz 与 Francesco 都在外）；Maria 点破「我从来都知道你喜欢他」",
+   "anchor": "I should have urged you to interfere",
+   "start": 8501,
+   "end": 8537
+  },
+  {
+   "fact": "她的迟到坦白：你只要低声说句「跟我走」，我当年就跑了——危险的是他自己不知道",
+   "anchor": "I would have run away with you",
+   "start": 10205,
+   "end": 10235
+  }
+ ]
+}

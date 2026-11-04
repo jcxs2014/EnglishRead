@@ -1,0 +1,337 @@
+{
+  "chapter": 32,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-art-lovers-by-fiona-mcintosh/ch32 fox family in the golden hour.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch32_epilogue.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was now public knowledge that he and his wife were divorced, but what his neighbours and friends didn’t know was that",
+          "ok": true,
+          "pos": 2274
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Valentina had come to him",
+          "ok": true,
+          "pos": 5481
+        },
+        {
+          "text": "at last",
+          "ok": true,
+          "pos": 5508
+        }
+      ],
+      "words": 7
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "‘Not what, but who,’ she said, reaching in to lift a baby from its depths. ‘Meet Danjel’s brother.’",
+          "ok": true,
+          "pos": 6621
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "She nodded. ‘Our son, Peter.’",
+          "ok": true,
+          "pos": 6775
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "‘I carried him in Italy, not knowing how successful the pregnancy might be. I’d lost a child",
+          "ok": true,
+          "pos": 7112
+        },
+        {
+          "text": "before Danjel. But then he arrived, and as soon as he did, I began making preparations to come to England. I just had to",
+          "ok": true,
+          "pos": 7204
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "‘Then take us home, Peter. We want to become your Fox family.’",
+          "ok": true,
+          "pos": 8332
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "‘It was there, Peter",
+          "ok": true,
+          "pos": 8893
+        },
+        {
+          "text": "just as we all suspected. Right there in the blood of St John the Baptist.’",
+          "ok": true,
+          "pos": 8914
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "‘I couldn’t breathe when they showed me. Next to you falling out of the sky and the birth of my two sons, I have never k",
+          "ok": true,
+          "pos": 9019
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The sun created long shadows, just as Caravaggio might have liked to paint, as it set on a fresh life for the newly form",
+          "ok": true,
+          "pos": 9387
+        }
+      ],
+      "words": 25
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 46,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 19
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 43,
+        "读者视角提示": 18
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.69,
+        "读者视角提示": 0.38
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 25
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 39,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.78
+      }
+    }
+  ],
+  "form": {
+    "h1": "32. Epilogue",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 11.0,
+    "block_range": [
+      8,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1710,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 31 章中位 11、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

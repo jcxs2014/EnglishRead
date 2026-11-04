@@ -1,0 +1,61 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch12",
+ "text": "ch12_chapter_12.txt",
+ "facts": [
+  {
+   "fact": "他当面点破 Gordon；她折进椅子没否认；他自白「不在乎反而替她高兴」——至少有一方在被爱",
+   "anchor": "I’m actually glad for you",
+   "start": 889,
+   "end": 914
+  },
+  {
+   "fact": "双向清算：他从没像丈夫那样爱过她（婚前警告过）；她爱的只是「荣誉勋章」般的形象",
+   "anchor": "You have never loved me either, not really.",
+   "start": 1631,
+   "end": 1674
+  },
+  {
+   "fact": "离婚方案：1954 不是 1854；可告通奸或遗弃，法院比从前宽容；他主动背假罪名",
+   "anchor": "This is nineteen fifty-four, not eighteen fifty-four!",
+   "start": 3101,
+   "end": 3154
+  },
+  {
+   "fact": "婚姻尸检：两条永不交汇的铁轨，唯一共同点≈下午三点喝茶",
+   "anchor": "two railway tracks that never intersect",
+   "start": 3905,
+   "end": 3944
+  },
+  {
+   "fact": "说漏「childless marriage of convenience」她炸开；他立刻收口：无子不是她的错，医生说过有时就是不会发生",
+   "anchor": "sometimes it just doesn’t happen",
+   "start": 4775,
+   "end": 4807
+  },
+  {
+   "fact": "她迟到多年的清醒：不是不爱，是不会爱/不知道他需要哪种爱；两人毫无共同点",
+   "anchor": "I just didn’t know how to love you",
+   "start": 6276,
+   "end": 6310
+  },
+  {
+   "fact": "她反问：你是不是战时更快乐？他额头紧蹙的惊愕出卖了他；他把一切归因年轻气盛与「拯救世界」的错觉",
+   "anchor": "I was young in Malta, stupidly daring",
+   "start": 7361,
+   "end": 7398
+  },
+  {
+   "fact": "吻别：十四年来第一次真正的吻——「All these years and you've never kissed me like that」",
+   "anchor": "never kissed me like that",
+   "start": 10357,
+   "end": 10382
+  },
+  {
+   "fact": "他自称 mirage、Gordon 才是真的；她最后问「对你来说谁才是真的」，然后说去打给 Gordon",
+   "anchor": "I wonder who is real for you, Peter",
+   "start": 11033,
+   "end": 11068
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch13",
+ "text": "ch13_chapter_13.txt",
+ "facts": [
+  {
+   "fact": "1954 年 4 月瓦莱塔：10 岁的 Danjel 一路颠球问母亲「能不能当 curator」——从她讲 lost dreams 听来的",
+   "anchor": "talk about my lost dreams",
+   "start": 832,
+   "end": 857
+  },
+  {
+   "fact": "Lawrenz 对儿子只有「进酒吧干活该知足」，若成职业球员才高兴；她恨他不会鼓励孩子",
+   "anchor": "He does not encourage you",
+   "start": 8410,
+   "end": 8435
+  },
+  {
+   "fact": "她是被打的妻子：守着与婆婆当年一样的丑秘密——历史重演；心里喊「不再做温顺的妻子」",
+   "anchor": "refused to be cowed, refused to be owned",
+   "start": 2148,
+   "end": 2188
+  },
+  {
+   "fact": "Danjel 已改口「my father」不再叫 Papa；她意识到 Lawrenz 又进入 cycle",
+   "anchor": "My father tells me",
+   "start": 1075,
+   "end": 1093
+  },
+  {
+   "fact": "以「表亲」为名向英国老医生夫妇求诊：妄想症状（偷钱/不忠/儿子非亲生）；医生判断 paranoia，有暴力且越喝越多",
+   "anchor": "displaying paranoia",
+   "start": 3966,
+   "end": 3985
+  },
+  {
+   "fact": "医嘱：可能是躁郁或精神分裂、或童年目睹家暴所致；先戒酒；关键是让她和孩子安全、不能活在恐惧里",
+   "anchor": "make yourself and your son safe",
+   "start": 7073,
+   "end": 7104
+  },
+  {
+   "fact": "老太太耳语：离开他、找盟友、至少报警——「这是马耳他」（天主教、幼子、无处可逃）",
+   "anchor": "get away from him, my dear",
+   "start": 7435,
+   "end": 7461
+  },
+  {
+   "fact": "母子摊牌：他没鼓励过你/不关心功课/不给爱——「我只有 fury」；儿子问「我错了吗」→「你没错，你爸爸病了」",
+   "anchor": "Your papa is sick, I think",
+   "start": 8964,
+   "end": 8990
+  },
+  {
+   "fact": "逃跑工程表：等他强大就一起走；她连计划都包了；儿子升级条款「要么都走要么都不走」",
+   "anchor": "it’s both of us, or neither of us",
+   "start": 14555,
+   "end": 14588
+  },
+  {
+   "fact": "Lawrenz 出差一周两周；儿子盼他「最好误点三天」；她要去大教堂清洁，儿子最爱听她讲艺术品",
+   "anchor": "listening to you tell me about the artworks",
+   "start": 15666,
+   "end": 15709
+  }
+ ]
+}

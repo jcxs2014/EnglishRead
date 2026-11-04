@@ -1,0 +1,79 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch30",
+ "text": "ch30_chapter_30.txt",
+ "facts": [
+  {
+   "fact": "回家：警察与沉默的 Danjel；他交代「Peter 教我什么都说」；母亲叮嘱谁也别提",
+   "anchor": "I was just following his instructions.",
+   "start": 677,
+   "end": 715
+  },
+  {
+   "fact": "Maria 的清算演讲：你骗了他一辈子/骗了自己/此刻骗我们所有人——你爱 Peter 从他坠海那天起",
+   "anchor": "Haven’t you been lying to him all his life?",
+   "start": 1790,
+   "end": 1833
+  },
+  {
+   "fact": "她的神学辩护：天使的恩典、命运出手解决你最大的难题——现在你自由了能呼吸了",
+   "anchor": "a blessing from the angels",
+   "start": 4102,
+   "end": 4128
+  },
+  {
+   "fact": "官方口径三句：他父亲自己已在坠落/他的部分很小/死于意外——就这样！",
+   "anchor": "His father died of an accident. That’s it!",
+   "start": 5425,
+   "end": 5467
+  },
+  {
+   "fact": "Peter 到访：他没有吻她只是抱住——正是她需要的；「不难过让你冷血？不，那让你是人」；Lawrenz 恨自己也恨所有人",
+   "anchor": "It makes you human.",
+   "start": 6542,
+   "end": 6561
+  },
+  {
+   "fact": "他警告：Vella 可能起疑但有 Maria 这样的可靠证人顶着；你们母子是受害者、需要新生",
+   "anchor": "You’ve been imprisoned by Lawrenz for long enough",
+   "start": 8269,
+   "end": 8318
+  },
+  {
+   "fact": "告白被打断：这与善意无关这是爱——我爱上了你；Danjel 是我从未有过的儿子；敲门截断",
+   "anchor": "I am in love with you",
+   "start": 8834,
+   "end": 8855
+  },
+  {
+   "fact": "Vella 二访刁难：父亲刚死儿子就踢球？——她的长篇答辩（孩子情绪/忠诚妻子/震动真实）让他词穷",
+   "anchor": "Odd no, that the boy is playing football",
+   "start": 10041,
+   "end": 10081
+  },
+  {
+   "fact": "「被杀」措辞之争：她纠正「他摔死的」；内心补刀「没人用手碰他——是一只脚」",
+   "anchor": "her cunning use of words",
+   "start": 10591,
+   "end": 10615
+  },
+  {
+   "fact": "匿名举报追查：电话里「音调忽高忽低」——男扮女还是女扮男？两人对峙到 Robertu 敲门",
+   "anchor": "struggling to maintain the pitch of their voice",
+   "start": 14097,
+   "end": 14144
+  },
+  {
+   "fact": "Robertu 崩溃自责「是我告诉他你们在野餐」；她对探长配合交出文件；心中疑问他为何不交出所知的马赛内情",
+   "anchor": "I’m the one who told him you were at the picnic",
+   "start": 15273,
+   "end": 15320
+  },
+  {
+   "fact": "大反转收梢：Vella 指天「祂的安排神秘莫测」——就她而言案件已结；她确认他知道举报是她打的（苦练粗嗓门逼夫亡命）",
+   "anchor": "He works in mysterious ways.",
+   "start": 17162,
+   "end": 17190
+  }
+ ]
+}

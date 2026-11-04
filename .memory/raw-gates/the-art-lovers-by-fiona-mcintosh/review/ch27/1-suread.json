@@ -1,0 +1,73 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch27",
+ "text": "ch27_chapter_27.txt",
+ "facts": [
+  {
+   "fact": "Maria 上门探望撞见她哼歌；她已宽恕 Peter 的失言（归因自己过敏）",
+   "anchor": "she’d been overly sensitive",
+   "start": 716,
+   "end": 743
+  },
+  {
+   "fact": "Maria 探针：「那么你的人生呢？」——眼神如探照灯；她岔开话题要柠檬水",
+   "anchor": "And what about your life?",
+   "start": 1271,
+   "end": 1296
+  },
+  {
+   "fact": "柠檬裙往事（倒叙）：裁缝 Angela 盛赞她的身段「you are an illusion」；给 Lawrenz 看被骂 slut、令烧掉",
+   "anchor": "She looks like a slut!",
+   "start": 3344,
+   "end": 3366
+  },
+  {
+   "fact": "她谎称送人、把裙藏进桌布柜；立誓总有一天穿给他看不见的美——今天就是那天",
+   "anchor": "He could take many things from her, but not everything.",
+   "start": 4118,
+   "end": 4173
+  },
+  {
+   "fact": "Peter 携花与新足球上门：看得 speechless——beyond beautiful",
+   "anchor": "I’m speechless",
+   "start": 4976,
+   "end": 4990
+  },
+  {
+   "fact": "他先为昨天道歉，再提议 Danjel 赴英上学走读住他家；她顶回「还是没有他妈」",
+   "anchor": "Or his mother",
+   "start": 6309,
+   "end": 6322
+  },
+  {
+   "fact": "Sa Maison 花园野餐（Danjel 选的地儿=il-Gnien Tal-Milorda/Lady Julia Lockwood）；Maria 打趣旧名「情人花园」",
+   "anchor": "Lovers’ Garden",
+   "start": 10344,
+   "end": 10358
+  },
+  {
+   "fact": "Danjel 交底：梦想环游世界——「你从没跟我说过」「因为你从没问过我」",
+   "anchor": "You’ve never asked me.",
+   "start": 12168,
+   "end": 12190
+  },
+  {
+   "fact": "踢球=社交策略：队友靠得住我、我踢得好他们就会喜欢我；Peter 自曝图书室男孩+运动烂",
+   "anchor": "then they’d like me",
+   "start": 14321,
+   "end": 14340
+  },
+  {
+   "fact": "飞行课双关：关掉情绪——不能怕不能怒不能怂；她追问「冷静决策不冲动？」他答「以大家利益为先、不危及所爱之人」",
+   "anchor": "That don’t endanger those you care about",
+   "start": 16311,
+   "end": 16351
+  },
+  {
+   "fact": "章末：Lawrenz 提前杀回——「My brother told me you'd be here, Valentina.」",
+   "anchor": "My brother told me you’d be here",
+   "start": 17371,
+   "end": 17403
+  }
+ ]
+}

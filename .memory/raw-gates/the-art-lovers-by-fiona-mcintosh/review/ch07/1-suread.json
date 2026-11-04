@@ -1,0 +1,61 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch07",
+ "text": "ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "Maria 规定坐轮椅才能出门；中队长 John Osborne（迫降伤 rib）陪 Peter 去海边看日出",
+   "anchor": "It’s the chair or you’re not going",
+   "start": 464,
+   "end": 498
+  },
+  {
+   "fact": "日出对话：majestic/humbling/Tell that to Hitler",
+   "anchor": "Tell that to Hitler",
+   "start": 3573,
+   "end": 3592
+  },
+  {
+   "fact": "Peter 战绩：在马耳他七杀；这是他第一场败仗，输给对手的技术；John 警告他已成名、德军会派两架王牌连人带伞补刀",
+   "anchor": "they’ll commit two of their best, most fearless pilots",
+   "start": 4725,
+   "end": 4779
+  },
+  {
+   "fact": "John 劝他珍惜生命：活着的飞行员才有用；你是有妻子的人",
+   "anchor": "You’re no good to us as a dead pilot",
+   "start": 5924,
+   "end": 5960
+  },
+  {
+   "fact": "他给 Delia 的家书两周一封、署名 Affectionately yours，毫无激情；旧情人 Phoebe Barnett 因他野性分手",
+   "anchor": "Affectionately yours, P.",
+   "start": 6473,
+   "end": 6497
+  },
+  {
+   "fact": "John 已向上头推荐他去地下 HQ 协助 Wing Commander；既养伤又有用",
+   "anchor": "putting your hand up to work at HQ",
+   "start": 7892,
+   "end": 7926
+  },
+  {
+   "fact": "周日随父母赴 Falzon 家定亲：父母当谈论她的成色像待售牲口；头发被剪短为显老成",
+   "anchor": "selling her to the highest bidder",
+   "start": 13724,
+   "end": 13757
+  },
+  {
+   "fact": "她设问「你们当年相爱吗」反将一军；父亲全名喝斥「你会嫁的，孩子眼光短浅」；母亲劝「学会迂回、无声掌权、忍痛」",
+   "anchor": "You will make this marriage",
+   "start": 15668,
+   "end": 15695
+  },
+  {
+   "fact": "定亲后与 Lawrenz 独处：他拒温情、撂话「我不爱任何人」「我们会让孩子出生」「我会用别的方式享用你」后跺脚离去",
+   "anchor": "I’ll enjoy you in other ways",
+   "start": 20755,
+   "end": 20783
+  }
+ ]
+}

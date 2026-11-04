@@ -1,0 +1,73 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch32",
+ "text": "ch32_epilogue.txt",
+ "facts": [
+  {
+   "fact": "1956 年 8 月 Bath 金色黄昏：割草机/司康/跳房子/板球第五场测试赛（Ashes at the Oval）",
+   "anchor": "the fifth test of the Ashes at the Oval",
+   "start": 1465,
+   "end": 1504
+  },
+  {
+   "fact": "离婚已成公开事实；邻居不知的是他的心留在了马耳他；单身生活里写书+Courtauld 工作",
+   "anchor": "he’d left his heart behind in Malta",
+   "start": 2402,
+   "end": 2437
+  },
+  {
+   "fact": "Delia 与 Gordon 已在一起——他拥抱前妻、与其爱人握手，真心祝福",
+   "anchor": "she and Gordon were together now",
+   "start": 2878,
+   "end": 2910
+  },
+  {
+   "fact": "他为本地球队击球接近半百（half-century）；反手一击技惊四座",
+   "anchor": "on his way to a half-century",
+   "start": 3148,
+   "end": 3176
+  },
+  {
+   "fact": "球场远处一对推婴儿车的夫妇指着他看；队友 Hook 提醒专心；赛后他认出——是她，她守了约",
+   "anchor": "Valentina had come to him… at last.",
+   "start": 5520,
+   "end": 5555
+  },
+  {
+   "fact": "她摘帽掷风、长发飞扬奔来；相拥旋转；队友鼓掌口哨",
+   "anchor": "threw it to the winds",
+   "start": 5621,
+   "end": 5642
+  },
+  {
+   "fact": "「比记忆中更美」；Danjel 已近六英尺、变声；——「这是 Danjel 的弟弟」",
+   "anchor": "Meet Danjel’s brother.",
+   "start": 6755,
+   "end": 6777
+  },
+  {
+   "fact": "婴儿车答案：不是什么，是谁——我们的儿子，Peter；他含泪追问「我的儿子？」",
+   "anchor": "Our son, Peter.",
+   "start": 6855,
+   "end": 6870
+  },
+  {
+   "fact": "她补叙：怀在意大利、曾失去过一个孩子（Danjel 之前）；孩子够大能旅行了才启程；取名 Michael（Caravaggio 的英语化，Danjel 提议）",
+   "anchor": "I called him Michael.",
+   "start": 7754,
+   "end": 7775
+  },
+  {
+   "fact": "「带我们回家吧，我们想成为你的 Fox 一家」；签名验证：就在圣约翰的血里——她此生第三幸福的时刻（次于他坠落与两个儿子出生）",
+   "anchor": "Right there in the blood of St John the Baptist.",
+   "start": 9071,
+   "end": 9119
+  },
+  {
+   "fact": "收梢：四人一车走进夕阳——长影正如 Caravaggio 所爱画的，落在一家的崭新生活上",
+   "anchor": "just as Caravaggio might have liked to paint",
+   "start": 9557,
+   "end": 9601
+  }
+ ]
+}

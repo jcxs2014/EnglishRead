@@ -1,0 +1,85 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch31",
+ "text": "ch31_chapter_31.txt",
+ "facts": [
+  {
+   "fact": "花园独坐清点共谋：举报本意是让他收敛、坐几天牢——没料到把他推向死亡；内疚像体内小兽，但她选择赦免自己",
+   "anchor": "tipped off the Marseille Police",
+   "start": 2027,
+   "end": 2058
+  },
+  {
+   "fact": "Maria 迎面来探望；她托 Maria 带走 Danjel，独自去 Barrakka 花园想事",
+   "anchor": "I need some air",
+   "start": 293,
+   "end": 308
+  },
+  {
+   "fact": "警察与 Robertu 收尾清点；探长有望近日交还遗体、结案",
+   "anchor": "He is closing the investigation.",
+   "start": 3809,
+   "end": 3841
+  },
+  {
+   "fact": "Robertu 花园摊牌：没告别、没说过我的恼与爱——还有「婚前就爱你爱到发狂」；Peter 在场错愕",
+   "anchor": "loved his wife to distraction",
+   "start": 4420,
+   "end": 4449
+  },
+  {
+   "fact": "她切马耳他语回绝：那是你的梦不是我的——「如果你非要我嫁个 Falzon，我希望是你」是假设句被他听岔",
+   "anchor": "speaking hypothetically",
+   "start": 5430,
+   "end": 5453
+  },
+  {
+   "fact": "Peter 求婚：带你们娘俩回英国——做 Danjel 值得的父亲、Lawrenz 没做成的丈夫、比我当年对 Delia 更好的男人",
+   "anchor": "Come to England.",
+   "start": 7951,
+   "end": 7967
+  },
+  {
+   "fact": "她点破「你这是求婚？」他自嘲 oaf 补正题：Marry me, Valentina——没有你我无法想象人生",
+   "anchor": "Marry me, Valentina",
+   "start": 8815,
+   "end": 8834
+  },
+  {
+   "fact": "她的答案：此生挚爱永远是——但我的答案是不",
+   "anchor": "But my answer is no.",
+   "start": 9200,
+   "end": 9220
+  },
+  {
+   "fact": "窗对面的主妇镜像：好主妇/无野心的余生——若她说 yes 就成了她",
+   "anchor": "the good wife, dutifully attending to her family",
+   "start": 9827,
+   "end": 9875
+  },
+  {
+   "fact": "核心理由：不再允许任何男人为我的幸福与未来负责；「我要带着 Caravaggio 去罗马」",
+   "anchor": "I’m going to Rome with the Caravaggio.",
+   "start": 11512,
+   "end": 11550
+  },
+  {
+   "fact": "画属瓦莱塔论：签名揭开时马耳他人必须在场；她逼 Carmel 二选一、暗示写信告诉女王——「你真是马基雅维利」",
+   "anchor": "I might have threatened him too",
+   "start": 13194,
+   "end": 13225
+  },
+  {
+   "fact": "她自陈：女王来访后留不下去、破了婚誓不内疚、本就打算趁他出差逃走；带 Danjel 赴罗（罗马有亲戚、入学、把意语学流利）",
+   "anchor": "I couldn’t stay.",
+   "start": 14088,
+   "end": 14104
+  },
+  {
+   "fact": "分账收梢：他回英写书当单身汉；她走自己兴奋的路——「快乐」",
+   "anchor": "Write your book.",
+   "start": 15437,
+   "end": 15453
+  }
+ ]
+}

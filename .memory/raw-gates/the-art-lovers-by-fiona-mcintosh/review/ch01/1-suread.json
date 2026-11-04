@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch01",
+ "text": "ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "1942 年 5 月瓦莱塔，15 岁的 Valentina Camilleri（家人称 Leni）在巴拉卡花园城垛目睹英德空战，一见钟情于一位被击落跳伞、头垂着「多半已死」的英国飞行员",
+   "anchor": "Valentina Camilleri fell in love with him on sight, even though he was dead",
+   "start": 28,
+   "end": 103
+  },
+  {
+   "fact": "祖母 Agnes 开战之初去世；全家住进城下医院骑士团挖的旧隧道",
+   "anchor": "living beneath the city in the network of old tunnels originally dug by the Knights Hospitaller",
+   "start": 798,
+   "end": 893
+  },
+  {
+   "fact": "家里的小酒吧招待英军飞行员；飞行员口袋里备着给孩子们的麦芽糖；军人光顾的收益养活全家",
+   "anchor": "they always had barley sugar wrapped in waxed paper",
+   "start": 1733,
+   "end": 1784
+  },
+  {
+   "fact": "挚友 Gina Gerit 的父母和哥哥 2 月死于 Regent 电影院轰炸，Gina 被送去岛另一头亲戚家",
+   "anchor": "including the Gerit family",
+   "start": 4898,
+   "end": 4924
+  },
+  {
+   "fact": "两家父母定亲：她九月满 16 岁后即嫁 Falzon 长子 Lawrenz；次子 Robertu 恋她，说「那我替你杀了他」",
+   "anchor": "Then I’ll kill him for you",
+   "start": 13548,
+   "end": 13574
+  },
+  {
+   "fact": "空袭警报响起，Robertu 先撤，她违约独自留在城垛看空战——自觉「注定要在此向命运挑衅」",
+   "anchor": "as if she was meant to dare Fate",
+   "start": 17116,
+   "end": 17148
+  },
+  {
+   "fact": "她心中选定的那架 Spitfire 被德机锁定击中起火，飞行员跳伞；同时一架德 Stuka 被击落坠海，她在心里喝彩",
+   "anchor": "the brave little Spit was hit, flames erupting alongside black smoke",
+   "start": 24085,
+   "end": 24153
+  },
+  {
+   "fact": "跳伞者头垂一侧「多半已死」；她不容许他溺亡——章末 Valentina ran",
+   "anchor": "He was likely dead",
+   "start": 25564,
+   "end": 25582
+  }
+ ]
+}

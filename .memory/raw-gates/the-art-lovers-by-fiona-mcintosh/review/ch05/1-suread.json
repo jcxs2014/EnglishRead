@@ -1,0 +1,79 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch05",
+ "text": "ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "酒吧里 Emman Falzon 与她父亲低声谈她；父亲拿 Victory Kitchen 摆困难，实为催两家正式联姻；Falzon 觊觎 Kingsway 铺面",
+   "anchor": "reinforce to Falzon that their families needed to formally unite",
+   "start": 661,
+   "end": 725
+  },
+  {
+   "fact": "配给站队伍： stew 没肉、副食科嫂子传「几周后全国断粮」的口信，母亲喝止",
+   "anchor": "we’re weeks away from the country starving",
+   "start": 3279,
+   "end": 3321
+  },
+  {
+   "fact": "邻居 Rosa De Santis 当众指控 Stella 拿美貌女儿换好处，并以「Falzon 家小子得手后肚子里装满别的」收尾",
+   "anchor": "who’ll have a full belly with something else",
+   "start": 4214,
+   "end": 4258
+  },
+  {
+   "fact": "她羞愤逃离配给站，躲进主教座堂树下平复，心里数着婚礼临近的绝望",
+   "anchor": "breathed out her frustration as best she could",
+   "start": 4860,
+   "end": 4906
+  },
+  {
+   "fact": "Peter 意外现身：灰脸冒汗、拄拐——他从医院溜出来，为看一眼被炸的城市硬撑上山",
+   "anchor": "I made another escape",
+   "start": 6366,
+   "end": 6387
+  },
+  {
+   "fact": "他让她直呼其名：Call me Peter, please——两人自认被生死绑在一起，也许是个预兆",
+   "anchor": "We’re friends, remember",
+   "start": 6027,
+   "end": 6050
+  },
+  {
+   "fact": "学校停课（教师无法通勤+校舍被征用）；她在隧道里点蜡烛自学，要通过考试；他提出帮她补习作报答",
+   "anchor": "so I can help you, if that’s of any interest",
+   "start": 8724,
+   "end": 8768
+  },
+  {
+   "fact": "她告知九月婚期，他倒吸凉气「太年轻」；她脱口「你为什么不娶不爱的女人」——他说改天再答",
+   "anchor": "Ask me that another time",
+   "start": 9640,
+   "end": 9664
+  },
+  {
+   "fact": "中世纪提亲史的引证救不了她；Maria 和女教师找到他们，用马耳他语训斥，她翻译时偷加私货",
+   "anchor": "They want you back in the skies, keeping us safe",
+   "start": 12170,
+   "end": 12218
+  },
+  {
+   "fact": "父亲按周来交租撞见；Peter 致谢「你女儿救了我」，父亲接「她逢人就说」——她其实没说过",
+   "anchor": "She had said no such thing",
+   "start": 12805,
+   "end": 12831
+  },
+  {
+   "fact": "Peter 站不稳晕倒，父亲接住并拍板：给他 Scotch 和别的男人作伴，喝完再送医院",
+   "anchor": "I’ll bring him to the hospital after a reviving drink",
+   "start": 14726,
+   "end": 14779
+  },
+  {
+   "fact": "临别他回头道谢「sweet Valentina」，她心口一轻——立誓此生不再爱别的男人",
+   "anchor": "She would never love another man again.",
+   "start": 15577,
+   "end": 15616
+  }
+ ]
+}

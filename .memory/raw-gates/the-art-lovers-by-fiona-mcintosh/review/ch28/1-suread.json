@@ -1,0 +1,79 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch28",
+ "text": "ch28_chapter_28.txt",
+ "facts": [
+  {
+   "fact": "野餐静止一秒：Peter 与 Danjel 是 Caravaggio 画里的光，走来的 Lawrenz 是黑暗——刽子手画像",
+   "anchor": "he was the executioner",
+   "start": 641,
+   "end": 663
+  },
+  {
+   "fact": "Lawrenz 醉归第一句竟是裙子：「我记得你说把那条裙送人了」——谎言戳穿；酒气+手抖",
+   "anchor": "I thought you said you gave that dress away.",
+   "start": 1065,
+   "end": 1109
+  },
+  {
+   "fact": "他认出 Peter：你就是那个飞行员吧？拐杖呢？——把她像布娃娃挥手推开",
+   "anchor": "Where are your crutches?",
+   "start": 2074,
+   "end": 2098
+  },
+  {
+   "fact": "Peter 护在她身前：别那样跟她说话；Lawrenz 用马耳他语问「这谁」再转英语挑衅",
+   "anchor": "Who the fuck is this?",
+   "start": 1910,
+   "end": 1931
+  },
+  {
+   "fact": "Danjel 当众拒绝并爆发：你答应过他走几星期——我恨他我恨他！",
+   "anchor": "I hate him, I hate him!",
+   "start": 3120,
+   "end": 3143
+  },
+  {
+   "fact": "「我不是你儿子」：名义而已——我属于我妈和我妈的家族；Lawrenz 反乐「幼崽露爪了」",
+   "anchor": "I’m yours in name only",
+   "start": 3304,
+   "end": 3326
+  },
+  {
+   "fact": "Lawrenz 猥亵手势+「他是不是已经上了你」；Peter 声音不高但更硬；Maria 喝止",
+   "anchor": "Has he made you his whore yet?",
+   "start": 4808,
+   "end": 4838
+  },
+  {
+   "fact": "Lawrenz 跳上矮墙如征服者挥臂：回你的岛去英国佬、这个是我的、生你自己的儿子去",
+   "anchor": "Go back to your island, Englishman.",
+   "start": 5260,
+   "end": 5295
+  },
+  {
+   "fact": "Peter 宣战：我拿命换你这片家园——她永远叫 Valentina；儿子的优秀全归其母「谢天谢地没遗传你的基因」",
+   "anchor": "Danjel is all Camilleri",
+   "start": 6376,
+   "end": 6399
+  },
+  {
+   "fact": "他挥掌把她拍上岩石（膝肘流血）；Peter 冷声「你再也不许碰她」；Lawrenz 嘲「我是拳击手」",
+   "anchor": "You will never lay a hand on Valentina again",
+   "start": 7034,
+   "end": 7078
+  },
+  {
+   "fact": "「我是足球运动员」——Danjel 全速飞踢正中腿间；Lawrenz 失衡翻出墙沿坠亡、血堆不动",
+   "anchor": "And I am a footballer",
+   "start": 7395,
+   "end": 7416
+  },
+  {
+   "fact": "尾句：少年兑现 ch16 誓言——「我说过，他再敢伤你，我就杀了他」",
+   "anchor": "I told you I’d kill him",
+   "start": 8254,
+   "end": 8277
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch17",
+ "text": "ch17_chapter_17.txt",
+ "facts": [
+  {
+   "fact": "重返瓦莱塔：歌剧院被专炸成瓦砾（心理战判断——毁掉骄傲就是打城市的筋骨）",
+   "anchor": "psychological torment of the city’s people",
+   "start": 1568,
+   "end": 1610
+  },
+  {
+   "fact": "城市在愈合：末次空袭警报 1944 年 8 月；孩子颠球、女人仰头晒太阳而非扫视敌机",
+   "anchor": "soaking up the sun rather than scanning for fighter planes",
+   "start": 2656,
+   "end": 2714
+  },
+  {
+   "fact": "咖啡馆：Cisk 啤酒、本地女招待（战时只有男侍）；Union Jack 彩旗备访",
+   "anchor": "She obviously kept a close eye on the patrons",
+   "start": 7635,
+   "end": 7680
+  },
+  {
+   "fact": "战后愧疚账本：记得每个被他击落的德军飞行员+每个他训练过的年轻枪手",
+   "anchor": "every young gun he’d trained",
+   "start": 6006,
+   "end": 6034
+  },
+  {
+   "fact": "春风格言：把会笑的自己还给他；special project 把他唤醒出 sleepwalk",
+   "anchor": "woken him up from the sleepwalk of the past years",
+   "start": 7057,
+   "end": 7106
+  },
+  {
+   "fact": "咖啡馆独白：「我爱我的工作——但我也得热爱生活」举杯敬新开始",
+   "anchor": "But I need to love life too.",
+   "start": 7419,
+   "end": 7447
+  },
+  {
+   "fact": "Maria 重逢：Sammut 医生已故（战后一年左右）；她嫁人生二娃",
+   "anchor": "He died a year or so after you left us.",
+   "start": 10499,
+   "end": 10538
+  },
+  {
+   "fact": "Camilleri 家讣告名单：父亲 Enriku 数年前、母亲在 Leni 儿子出生后不久（疑心脏）、Ganni 战死、Matteo 在加拿大",
+   "anchor": "died not long after Leni’s son was born",
+   "start": 11861,
+   "end": 11900
+  },
+  {
+   "fact": "好消息的核：那家人只剩一个——对你最重要的那个（Valentina 安好、为人母）",
+   "anchor": "The one who mattered most to you",
+   "start": 11568,
+   "end": 11600
+  },
+  {
+   "fact": "他带了东西给她以防万一（just in case she was still here）",
+   "anchor": "I brought something for her",
+   "start": 12178,
+   "end": 12205
+  }
+ ]
+}

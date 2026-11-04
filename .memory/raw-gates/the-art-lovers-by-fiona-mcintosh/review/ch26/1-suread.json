@@ -1,0 +1,79 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch26",
+ "text": "ch26_chapter_26.txt",
+ "facts": [
+  {
+   "fact": "王室走后野餐：她被「电流」击醒看清全部惨淡——能改变处境的只有她自己",
+   "anchor": "And she alone could change her situation.",
+   "start": 1038,
+   "end": 1079
+  },
+  {
+   "fact": "Danjel 无父近况：笑容变多话打开；谈历史艺术足球",
+   "anchor": "His smile arrived more readily",
+   "start": 323,
+   "end": 353
+  },
+  {
+   "fact": "Hastings 花园野餐：mandolina 橘子与她的 pastries；她盼 Danjel 走 academia 而非足球或酒吧",
+   "anchor": "perhaps even academia",
+   "start": 2072,
+   "end": 2093
+  },
+  {
+   "fact": "Lawrenz 给儿子的两个选项：14 岁辍学进酒吧，或踢上 Floriana 职业队",
+   "anchor": "Leave school at fourteen and work at the bar",
+   "start": 1686,
+   "end": 1730
+  },
+  {
+   "fact": "Peter 劝送 Danjel 赴意（有表亲）；她反问「像你一样疏远家人？」——他自曝与父母无真关系（cold fish）",
+   "anchor": "a pair of cold fish",
+   "start": 2529,
+   "end": 2548
+  },
+  {
+   "fact": "Peter 劝她一起走：Valentina, you should go too——她问归期，他答两天后；她藏住绝望",
+   "anchor": "In two days",
+   "start": 3607,
+   "end": 3618
+  },
+  {
+   "fact": "「See your wife」试探——他纠正：分居是真的，分居满一年零一天就办离婚",
+   "anchor": "the year and one day of our separation",
+   "start": 3991,
+   "end": 4029
+  },
+  {
+   "fact": "她的希望之问：女王的话 Carmel 会当真吗——他泼冷水（Carmel 传统、马耳他不许女人碰这些）",
+   "anchor": "women aren’t usually involved in these sorts of things",
+   "start": 5309,
+   "end": 5363
+  },
+  {
+   "fact": "她反击「来点勇敢的，像我记得的那个飞行员」；爆发「四十年的日落」告别；他自觉被扎",
+   "anchor": "These sunrises and sunsets are about as beautiful as my life will ever be",
+   "start": 6431,
+   "end": 6504
+  },
+  {
+   "fact": "海边他的转向：当年少女跑遍全城救他——「现在轮到我救她」；承认我爱上她了",
+   "anchor": "He was in love with her.",
+   "start": 9391,
+   "end": 9415
+  },
+  {
+   "fact": "厨房内心法庭：等男人改变人生？他走了两回碎你两回；吻你是因为你把棋盘摆好了",
+   "anchor": "moved all the pieces on the chessboard",
+   "start": 11359,
+   "end": 11397
+  },
+  {
+   "fact": "她起身照镜、给熟睡的儿子留「二十分钟」字条出门——是时候夺回控制权",
+   "anchor": "It was time to take control.",
+   "start": 12842,
+   "end": 12870
+  }
+ ]
+}

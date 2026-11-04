@@ -1,0 +1,61 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch23",
+ "text": "ch23_chapter_23.txt",
+ "facts": [
+  {
+   "fact": "家暴证词：他用拳头控制母子；她摸得清 mood 来临但躲不过拳头；Lawrenz 享受的只是伤人的权力",
+   "anchor": "loves the power he feels",
+   "start": 878,
+   "end": 902
+  },
+  {
+   "fact": "他爆粗口 shocked 自己（cockpit 外首次）；她反而松口气——这确认了事情的可怖",
+   "anchor": "it came now with so much force",
+   "start": 1075,
+   "end": 1105
+  },
+  {
+   "fact": "她开始讲婚夜，他求停（恶心欲呕）；她冷静：除了陌生人我无人可讲——你走时正好带走秘密",
+   "anchor": "I can tell no one but a stranger",
+   "start": 1656,
+   "end": 1688
+  },
+  {
+   "fact": "她的清算演讲：幻想过他完美的英国人生——「你有得选却不选，Shame on you!」；转身而泣",
+   "anchor": "Shame on you!",
+   "start": 3818,
+   "end": 3831
+  },
+  {
+   "fact": "他没给自己反悔的机会一把抱住；自大教堂初见摇曳的火苗轰然烧旺；初吻",
+   "anchor": "roared into its full burn",
+   "start": 4579,
+   "end": 4604
+  },
+  {
+   "fact": "她的分寸先醒：该觉错却觉对——「通奸？我们是 Herod 和 Herodias」",
+   "anchor": "We are Herod and Herodias.",
+   "start": 5795,
+   "end": 5821
+  },
+  {
+   "fact": "辛纳屈唱片：Lawrenz 在家禁音乐（脑子吵）；她只敢在丈夫离家时教 Danjel 跳舞；唱片不敢多买会被砸",
+   "anchor": "Lawrenz would break them.",
+   "start": 7761,
+   "end": 7786
+  },
+  {
+   "fact": "她的请求：想被渴望/被温柔触碰/想知道做爱是什么——不只是男人的索取",
+   "anchor": "not just something a man takes",
+   "start": 9200,
+   "end": 9230
+  },
+  {
+   "fact": "spare room 圆房：她允许他静止不动由她解扣；「不再只是 art lovers」；他说「我绝不会放你走」",
+   "anchor": "I’m never letting you go.",
+   "start": 12985,
+   "end": 13010
+  }
+ ]
+}
