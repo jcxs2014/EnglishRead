@@ -7,7 +7,7 @@ modified: "2026-11-04"
 
 ## 本章导航
 
-- **一句话概括**：过去线（June, Ten Years Earlier）：Eloise 饭桌羞辱后，Sean 短信夜约高中，两人爬过围栏上球场看台——他告白 "I like you, Billie. A lot."，随即交底自己要参军离开；同晚 Jen 的派对上她初尝伏特加，在空办公室里差一点接吻——被 "Not like this, Billie." 拦下。
+- **一句话概括**：过去线（June, Ten Years Earlier）：Eloise 饭桌羞辱后，Sean 短信夜约高中，两人爬过围栏上球场看台——他告白 "I like you, Billie. A lot."，她以 "long distance at eighteen" 拒绝确立关系（他要两年才能回来）；同晚 Jen 的派对上她初尝伏特加，在空办公室里差一点接吻——被 "Not like this, Billie." 拦下。
 - **情感弧线位置**：过去线的糖与刀同章落下——告白与离别宣言相隔几行，派对初醉与「总有一天」的承诺互为对价；章末她哭着说 "It's not fair"，遗憾值拉满。
 - **Tropes 兑现/反转**：兑现「翻门幽会 / 看台告白 / 派对初醉 / 绅士不趁人之危」四连；反转是 Sean——全场最吵闹的人在派对里最清醒，滴酒不沾替她把关。
 - **人物弧线**：Billie——谎话出门、酒后吐真（"I wanted you to be my first"）；Sean——告白、守夜、拒吻三连；Eloise——从饭桌骂到 whore 羞辱，暴力升级；父亲——耸肩的沉默背景（"He shrugs at me, no thoughts reaching his eyes."）。
@@ -55,17 +55,37 @@ modified: "2026-11-04"
 
 **读者视角提示**：书页意象后面还会回头——她是个用物件记事的人（折角、信、纪念盒），记住这个特征。
 
-> **原句 5:** "“I know.” I scoot closer to him and place my head on his shoulder. “I know,” I repeat sadly."
+> **原句 5:** "“I’m sorry,” I say. “I want to. Trust me, I do. But what’s the point? End up in a long distance relationship when we’re eighteen?”"
 
-**中文理解**：听他说要走了，她只答得出「我知道」——往他身边挪了挪，头靠上他的肩，又难过地重复了一遍。
+**中文理解**：告白之后她把拒绝说出口：对不起——我想，真的想；可十八岁就谈异地恋有什么意义？
+
+**关键词**：I want to / what’s the point / long distance at eighteen
+
+**为什么这样写**：I want to 与 what's the point 在同一口气里对撞——心动是真的、否决也是真的；她把 ch02 的出走算式第一次用在活人身上：不是不爱，是算不过来。
+
+**读者视角提示**：注意她道歉的方式（I'm sorry 开场）——她的拒绝永远先自罚，这个语序后面每一段错过都会重演。
+
+> **原句 6:** "“Well, I’ll come back. It’s only two years,” he says. … “Two years is a long time, Sean, and you can’t guarantee that. We can’t do long distance at the beginning of our relationship. That’s when you build the foundation.”"
+
+**中文理解**：他说两年就回来；她反驳：两年很长，你保证不了——感情最开始该打地基的时候，不能拿来异地。
+
+**关键词**：only two years / can’t guarantee / build the foundation
+
+**为什么这样写**：only 与 a long time 给同一个数字上两套度量——他的两年是倒计时，她的两年是风险期；foundation 论是全书最冷静的一句拒绝：她用工程学口吻把心动判了缓刑。
+
+**读者视角提示**：他说两年后回来还要创业——他的未来计划里一直有她，这份笃定到 ch24 的 long game 才揭晓全貌。
+
+> **原句 7:** "“I know.” I scoot closer to him and place my head on his shoulder. “I know,” I repeat sadly."
+
+**中文理解**：他接受了她「We could've been great though」的告别式遗憾，她答「我知道」——往他身边挪了挪，头靠上他的肩，又难过地重复了一遍。
 
 **关键词**：scoot closer / head on his shoulder / repeat sadly
 
-**为什么这样写**：同一句话重复两遍，中间夹一个靠近的动作——语言停摆时身体接管；两个「我知道」语气相反：第一遍是接受，第二遍是投降。
+**为什么这样写**：同一句话重复两遍，中间夹一个靠近的动作——语言停摆时身体接管；前一句 We could've been great 让她的心「crack」，两个「我知道」语气相反：第一遍是接受他的放手，第二遍是投降。
 
 **读者视角提示**：她的「不挽留」从这里定型——面对失去她习惯先消化再消化不完，这个模式会一路带进现在线。
 
-> **原句 6:** "I don’t feel as pretty as I did an hour ago. Not after Eloise said I looked like a whore and was asking for it. I bought a matching crop top and linen pant set for the summer and thought I’d look amazing. I’m only showing an inch of stomach. It’s trendy, not trashy."
+> **原句 8:** "I don’t feel as pretty as I did an hour ago. Not after Eloise said I looked like a whore and was asking for it. I bought a matching crop top and linen pant set for the summer and thought I’d look amazing. I’m only showing an inch of stomach. It’s trendy, not trashy."
 
 **中文理解**：出门前 Eloise 骂她穿得像 whore、自讨没趣——一小时前她还挺满意自己：新买的短上衣配亚麻裤套装，只露一寸腰，是时髦不是放荡。
 
@@ -75,7 +95,7 @@ modified: "2026-11-04"
 
 **读者视角提示**：记住这套「荡妇羞辱」话术——它解释了她后面所有场合的自我审查，也解释了 Sean 那句提问（"Your stepmom?"）为什么让全车空气变冷。
 
-> **原句 7:** "“This is fun!” I try to tell him, but it’s too loud. He lowers his head. “With you it is,” he says, his lips brushing against my ear and his hands locked on my spine. There’s that undeniable spark. With our hands touching and dancing close together, I know that I could never feel this way about anyone else."
+> **原句 9:** "“This is fun!” I try to tell him, but it’s too loud. He lowers his head. “With you it is,” he says, his lips brushing against my ear and his hands locked on my spine. There’s that undeniable spark. With our hands touching and dancing close together, I know that I could never feel this way about anyone else."
 
 **中文理解**：舞池里她喊「太好玩了！」但音乐太吵他听不见；他低头凑近她耳边说：有你在才好玩——唇擦着耳廓，手锁在她背脊上。那点火花无可否认：她知道这种感觉别人给不了。
 
@@ -85,7 +105,7 @@ modified: "2026-11-04"
 
 **读者视角提示**：这是全书第一次身体接触的峰值——注意它发生在她刚被骂 whore 之后：同一个夜晚，两种手的意义。
 
-> **原句 8:** "“I’m not gonna kiss you right now.” He pulls my chin up to look at him, his jaw now relaxed. “But I will one day. And one day we’ll be more too. I promise you that.”"
+> **原句 10:** "“I’m not gonna kiss you right now.” He pulls my chin up to look at him, his jaw now relaxed. “But I will one day. And one day we’ll be more too. I promise you that.”"
 
 **中文理解**：空办公室里，Sean 拒绝吻她：现在不亲——但总有一天会，总有一天我们也会更进一步，我保证。
 
@@ -95,7 +115,7 @@ modified: "2026-11-04"
 
 **读者视角提示**：这是 Sean 的第二个 promise（第一个是 different lens）——注意他的承诺句式都很短，本书后面会逐一验货。
 
-> **原句 9:** "“It’s not fair,” I whisper. Sean doesn’t say anything else, he just pulls me in, wrapping his arms tight and kissing the top of my head. I already know I’m going to dream about him tonight."
+> **原句 11:** "“It’s not fair,” I whisper. Sean doesn’t say anything else, he just pulls me in, wrapping his arms tight and kissing the top of my head. I already know I’m going to dream about him tonight."
 
 **中文理解**：她只能小声说「这不公平」；他没再解释，只是收紧手臂把她搂进怀里，在她头顶亲了一下——她已经知道今晚梦里都是他。
 
@@ -136,4 +156,4 @@ modified: "2026-11-04"
 
 ## 一句话总结
 
-看台告白与离别宣言同章落下：Sean 说 "I like you, Billie. A lot." 却马上要走；派对初醉的 Billie 差一点把初夜的心愿说满，Sean 以 "Not like this, Billie." 守住底线并承诺 "one day we’ll be more too. I promise you that."——过去线的糖里第一次掺进刀。
+看台告白与拒绝同章落下：Sean 说 "I like you, Billie. A lot."，她以 "what's the point? End up in a long distance relationship when we're eighteen?" 应答、以 foundation 论驳他的 "only two years"；派对初醉的 Billie 差一点把初夜的心愿说满，Sean 以 "Not like this, Billie." 守住底线并承诺 "one day we’ll be more too. I promise you that."——过去线的糖里第一次掺进刀。
