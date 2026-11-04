@@ -1,0 +1,67 @@
+{
+ "book": "the-art-of-inquiry-by-andrew-taggart",
+ "chapter": "ch04",
+ "text": "notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/text/ch04_2_making_sense_of_the_seemingly_senseles.txt",
+ "facts": [
+  {
+   "fact": "开场寓言：锤子用来钉钉子——开抽屉、取锤、按其 intended purpose 使用；敲打动作 learned, repeated, unself-consciously，已成 second nature",
+   "anchor": "We know what a hammer is used for",
+   "start": 54,
+   "end": 87
+  },
+  {
+   "fact": "假想推广到常识世界的多数对象：手机与手表、汽车与水龙头、桌与电脑；习惯与例行也像锤子——已成 second nature、近乎本能地帮我们理 everyday experiences——可若锤头脱落、东西停摆呢",
+   "anchor": "Suppose the scenario we’re envisioning were generalizable",
+   "start": 356,
+   "end": 413
+  },
+  {
+   "fact": "对话伙伴答：那我们就做艺术；作者接话：对，做艺术，或者开始 philosophizing",
+   "anchor": "Then we’d make art",
+   "start": 847,
+   "end": 865
+  },
+  {
+   "fact": "哲学只在曾经有意义的东西开始不再有意义时出场——习惯例行磨损、先前的生活形式散开（quite possibly collapsing）；于是开始问哲学问题：锤子到底何用？锤子是什么？能否用于先前想象之外的目的？哲学的最高目的：满足理解已受尖锐质疑之物的这一 life-need",
+   "anchor": "Philosophy makes an appearance only",
+   "start": 962,
+   "end": 997
+  },
+  {
+   "fact": "对 mental unease 我们会找 quick fixes、panaceas、replacement parts、easy cures；但 unlike 锤子或擦破的膝盖——爱的 unraveling、悲恸 onset、基本承诺的冲突、终极价值的 hammer-and-tongs 冲突、人生总目的——不易搬走收好、不易 patch up 或 hammer into place；不探究、躲起来，它们不走，只会更丑",
+   "anchor": "Naturally, we may seek quick solutions",
+   "start": 1489,
+   "end": 1527
+  },
+  {
+   "fact": "这样的时刻：要么鼓起勇气问严肃的存在性问题、清晰思考我们的生活，要么 succumb to temptation 转身躲避自己；愿否听 Kant 的 Sapere aude——敢用你自己的理智；若听了，我们可能走向哪里",
+   "anchor": "embrace the courage to ask",
+   "start": 2081,
+   "end": 2107
+  },
+  {
+   "fact": "现代世界像塞满锤头锤柄已然脱开的闪光锤子的五金店——伟大成就也是难题；随心所欲的自由愈发成为 aspiration 乃至 lived reality，但我们选此物而非彼物、如此活而非如彼活的理由日益 fuzzy；最大化选择不知不觉 clouded 了对什么值得选的判断；若原则上一切皆可选，何必认真选任何一件——心理学家 Barry Schwartz 称之为 paradox of choice",
+   "anchor": "The modern world is like a hardware store",
+   "start": 2377,
+   "end": 2418
+  },
+  {
+   "fact": "此外对传统制度的权威失信：好政府的形式、家庭生活的形状、工作的价值、宗教的角色、教育的目的究竟是什么；大衰退、占领华尔街、疫情、当前 AI 竞赛之后，这些问题更 acute 也更 visceral",
+   "anchor": "having lost our faith in the authority",
+   "start": 3157,
+   "end": 3195
+  },
+  {
+   "fact": "希腊城邦兴起、罗马帝国崩塌、中世纪式微之际，传统上哲学带来 clarity——Plato 比作从无知洞穴升入真理之光；当生活被不同承诺、价值、欲望撕扯，哲学寻求 wholeness、在自己皮肤里重新安家之感；哲学旨在让我们触及 meaning——引导我们懂得行动如何能为了 beautiful、good、true 之事；To philosophize, then, is to arrive at hard-won consolation",
+   "anchor": "Traditionally, philosophy has brought clarity",
+   "start": 3607,
+   "end": 3652
+  },
+  {
+   "fact": "收束：这是一个难解的时代——然而无论听来多怪，它也是学习如何生活的美丽时代",
+   "anchor": "It’s an enigmatic time to be alive",
+   "start": 4406,
+   "end": 4440
+  }
+ ]
+}
