@@ -1,0 +1,55 @@
+{
+  "chapter": "ch42",
+  "corpus": "ch42_chapter_forty_two_zak.txt",
+  "facts": [
+    {
+      "anchor": "I glanced in the rearview mirror to see Ollie sacked out in his car scat. Jade was leaning against the side of it, also fast asleep. Lance had put up a good fight, but he’d lost, too. His he",
+      "start": 55,
+      "end": 278,
+      "fact": "后座三个睡倒的孩子（Ollie 倒在车座、Jade 靠着车、Lance 头歪着）。"
+    },
+    {
+      "anchor": "Sorry, Zar. They’d be up late on a school night—but maybe not. We’d logged a lot of miles today. It had been fun, especially having Roddie along. He was good with Ollie, Jade adored him, and",
+      "start": 281,
+      "end": 551,
+      "fact": "Zak 回顾童年：父亲会拿电影当教育工具（Silkwood、迪士尼、Leavenworth）。"
+    },
+    {
+      "anchor": "“Mom is driving Georgia home. She says she’ll pick up dinner,” Roddie said after glancing at his phone.",
+      "start": 554,
+      "end": 657,
+      "fact": "Zara 追问「Erica 知道我不回温哥华了吗」——Erica 只发来 Galentine's 邀请。"
+    },
+    {
+      "anchor": "“Tell her I’ll get it next time, but that it’ll just be you guys tonight. I have to get these brats home. They’re all going to need a Silkwood shower.”",
+      "start": 660,
+      "end": 811,
+      "fact": "Zak 讲出婚约全貌：三年同居、买过公寓、女方拒绝来小岛、婚约在 Christmas Eve 崩盘。"
+    },
+    {
+      "anchor": "“An old movie. My mom brought it home one time when Zara and I were kids. Fun fact: Brim Stokers used to be a video store.”",
+      "start": 845,
+      "end": 968,
+      "fact": "Zak 的自审：we were never strong enough to stay together；现在只能要残片。"
+    },
+    {
+      "anchor": "“I’ve heard of those. They’re like the antique store, but for movies, right?” Roddie joked.",
+      "start": 971,
+      "end": 1062,
+      "fact": "Roddie 的判词：For the record，我不生气你们交往，我失望的是你以为得瞒着我。"
+    },
+    {
+      "anchor": "“Yeah,” I said dryly. “And we quit letting Mom go there alone after she brought home Silkwood. To be fair, it’s an Oscar winner. Kurt Russell. Meryl Streep. Cher, too, I think.”",
+      "start": 1065,
+      "end": 1242,
+      "fact": "Zak 承认自己也在自责（拿 Erica 当退路），并让 Meg 别去多管 KC 家的事。"
+    },
+    {
+      "anchor": "“You don’t know Snake Plissken? I’m going to send you some homework. Anyway, this one’s based on a true story. Streep works at a nuclear plant and becomes a whistleblower. At one point, she ",
+      "start": 1269,
+      "end": 1598,
+      "fact": "章末 Zak 意识到自己可能正在爱上这一整家人（whole silly family）。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

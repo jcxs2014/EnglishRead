@@ -1,0 +1,37 @@
+{
+  "chapter": "ch10",
+  "corpus": "ch10_chapter_ten_meg.txt",
+  "facts": [
+    {
+      "anchor": "Roddie had texted me that he had a quiz to study for and a basketball game Friday night, but promised to call me over the weekend.",
+      "start": 43,
+      "end": 173,
+      "fact": "她本可以争 Rosedale 的房子，但 Joel 当时怀着新孩子——她体面地缩进北约克公寓。"
+    },
+    {
+      "anchor": "When he decided to live with Joel, it had been about staying closer to his friends and his high school, which he liked for its music program.",
+      "start": 176,
+      "end": 317,
+      "fact": "她本可以争 Rosedale 的房子（Roddie 大概会跟她住），但 Joel 当时怀着新孩子——她体面地缩进北约克公寓。"
+    },
+    {
+      "anchor": "I told Roddie I understood, but I still wavered between guilt and bitterness.",
+      "start": 320,
+      "end": 397,
+      "fact": "她自认是那种伪人：抱怨太年轻当妈，却舍不得卸下母亲身份的任何一分重量。"
+    },
+    {
+      "anchor": "I’m that hypocrite who complains about becoming a mother too young but I’m not ready to lose any of the crushing weight of that responsibility. Who am I if I’m not a mom? I envy my daughter ",
+      "start": 400,
+      "end": 721,
+      "fact": "唯一后悔的是又离开 Roddie：三年疏于管教，直到他十四岁出柜才察觉。"
+    },
+    {
+      "anchor": "I could have fought Joel for the house in Rosedale, and Roddie probably would have stayed with me there. But Joel had a baby on the way. I was happy to downsize into a North York condo near ",
+      "start": 724,
+      "end": 1131,
+      "fact": "儿子讲起 Tyson 与 Bethany 的三角恋，他的皱眉与她前夫如出一辙——她对父亲讨厌、对儿子偏爱。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

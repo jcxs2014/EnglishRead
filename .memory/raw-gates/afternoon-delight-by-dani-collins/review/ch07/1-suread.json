@@ -1,0 +1,37 @@
+{
+  "chapter": "ch07",
+  "corpus": "ch07_chapter_seven_meg.txt",
+  "facts": [
+    {
+      "anchor": "I made my first sale!” I bragged to Georgia when she called that evening. “A clit stimulator.”",
+      "start": 47,
+      "end": 141,
+      "fact": "她承认自己借 Zak 的 toys 缓解压力——「I haven't had that in a long time.」"
+    },
+    {
+      "anchor": "Ali had come back after her shift. By then, she’d done some research, and I had too. We compared notes and, after a little more browsing, she settled on a model that attached to her finger. ",
+      "start": 144,
+      "end": 467,
+      "fact": "她向 Georgia 报喜：卖出第一单——阴蒂刺激器（Ali 的指戴式、不到三十美元）。"
+    },
+    {
+      "anchor": "“Doesn’t it feel great to make the world a better place, one orgasm at a time?” Georgia teased.",
+      "start": 470,
+      "end": 565,
+      "fact": "Georgia 透露手术可采用创伤更小的新术式，但她的偏执大脑认定不该再买青香蕉。"
+    },
+    {
+      "anchor": "“Can I paint that on the wall? Live, Love, Orgasm? Oh, hey—Mom came by and has some great ideas for the window. I’ll send you a photo tomorrow, and you can let us know if we’re on the right ",
+      "start": 568,
+      "end": 782,
+      "fact": "Georgia 交权：照片可以发、我有力气才回，但别指望太多——我得先把店放下。"
+    },
+    {
+      "anchor": "“George? Am I overstepping?” Shit. “You’re right about the two of us being way too keen when we’ve got a project. I won’t do anything you don’t like.”",
+      "start": 824,
+      "end": 974,
+      "fact": "袋里留了进货推荐清单，Georgia 让她亲自试用并判断哪些值得上架。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

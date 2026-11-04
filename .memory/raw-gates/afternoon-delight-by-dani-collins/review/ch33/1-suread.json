@@ -1,0 +1,55 @@
+{
+  "chapter": "ch33",
+  "corpus": "ch33_chapter_thirty_three_zak.txt",
+  "facts": [
+    {
+      "anchor": "Were the kids okay last night?” my brother-in-law asked me when he came by the next morning to help me load the van.",
+      "start": 61,
+      "end": 177,
+      "fact": "Kyle 与 Zak 在店后的收货区装车（混凝土平台、大滚门通往木工间、另有两扇门通性用品店与楼上公寓）。"
+    },
+    {
+      "anchor": "Kyle and I were in the receiving bay behind the shop. It was a covered, concrete pad with a big rolling door into the woodworking area of my shop and a couple of man doors that accessed the ",
+      "start": 180,
+      "end": 407,
+      "fact": "昨夜 Zak 在 Zara 家带睡：Ollie 刷牙点犯傻气、Jade 训服了他。"
+    },
+    {
+      "anchor": "“Fine.” I had babysat at Zara’s house so I could put the kids to bed. “Ollie got a case of the sillies when it was time to brush teeth, but Jade read him the riot act. What do you even need ",
+      "start": 410,
+      "end": 664,
+      "fact": "Kyle 同意「The Zara is strong in that one」——但语气里带一点讽刺。"
+    },
+    {
+      "anchor": "“The Zara is strong in that one,” Kyle agreed from his end of the oak tabletop. Maybe it was exertion that made his tone sound a shade more sardonic than affectionate.",
+      "start": 667,
+      "end": 834,
+      "fact": "Kylce 问「Does Erica know that?」——指 Zak 已通知 Erica 不回温哥华。"
+    },
+    {
+      "anchor": "Great. “I should have come home sooner to help with Dad,” I said once we’d set down the tabletop inside the van. “I’m here now. I just told her the other day that I’m not going back to Vanco",
+      "start": 882,
+      "end": 1078,
+      "fact": "Zak 说 Erica 还没回话；Meg 从后门探头出来问「You're going the wrong way with that」。"
+    },
+    {
+      "anchor": "“Does Erica know that?” He looked up from tightening one of the straps.",
+      "start": 1081,
+      "end": 1152,
+      "fact": "Meg 打量 Zak 抓牛仔裤的姿势（从后面看更明显），并调侃他分不清方向。"
+    },
+    {
+      "anchor": "“I texted her. Said we should talk more seriously about whether she’s staying in the condo and how that looks on paper.” I’d felt a mix of disappointment and relief as I’d done it, along wit",
+      "start": 1155,
+      "end": 1415,
+      "fact": "单只有趣的细节：Leavenworth 在西雅图东边，六十年代硬装巴伐利亚主题招游客，Zak 要走轮渡+过境+四个半小时。"
+    },
+    {
+      "anchor": "Nothing yet, but I didn’t get a chance to tell Kyle that. The door into the back of Meg’s shop popped open. She poked her nose out.",
+      "start": 1438,
+      "end": 1569,
+      "fact": "童年旧账：迪士尼之后的第二年父母带他们去 Leavenworth「当欧洲玩」——「I'm still mad.」"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

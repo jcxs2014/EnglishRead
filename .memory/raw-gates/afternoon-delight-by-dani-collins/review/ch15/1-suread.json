@@ -1,0 +1,37 @@
+{
+  "chapter": "ch15",
+  "corpus": "ch15_chapter_fifteen_meg.txt",
+  "facts": [
+    {
+      "anchor": "I had Roddie bring me a rice bowl from Nooners, the cafe up the street, before Mom came by to take him home. She asked if I needed help, but she caught me in a quiet moment, so I said I was ",
+      "start": 91,
+      "end": 340,
+      "fact": "Zara 姐妹的读书会其实是吐槽大会：第一本「抑郁得要命」，那次酗酒吐槽是史上最热闹的一晚。"
+    },
+    {
+      "anchor": "Fortunately, one of them was Gail, Georgia’s sister. She worked for a concierge service at the Oak Bay Marina, which she mostly loved. The hours were flexible, which meant she didn’t need a ",
+      "start": 343,
+      "end": 654,
+      "fact": "Gail 立刻答应站收银台——她说 Georgia 手术让她想起父亲，「不敢一个人待着」。"
+    },
+    {
+      "anchor": "She also looked amazing at all times—full makeup, eyelash extensions, tasteful nail art, and trendy yet professional clothing. Today’s wig was a sophisticated, chin-length bob that made you ",
+      "start": 657,
+      "end": 940,
+      "fact": "Zara 与哥哥的相似：同款蓝眼睛、同样有力的握手、同样制胜的 Halligan 微笑。"
+    },
+    {
+      "anchor": "“It’s busy,” Gail said, with a wondrous look around.",
+      "start": 965,
+      "end": 1017,
+      "fact": "Zara 纠正：那不是读书会，是酒会，只有 Imani 今晚能到。"
+    },
+    {
+      "anchor": "“I can stand at the desk and do the cash sales.”",
+      "start": 1062,
+      "end": 1110,
+      "fact": "Meg 注意到自己进店时 Georgia 已在场（她提前一天把钥匙交给 Meg），说明交接早已完成。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,37 @@
+{
+  "chapter": "ch12",
+  "corpus": "ch12_chapter_twelve_meg.txt",
+  "facts": [
+    {
+      "anchor": "The Victoria airport was delightfully jarring in its simplicity, especially coming from Pearson in Toronto. Sometimes you even got lucky and found a direct flight, but most of the time you h",
+      "start": 49,
+      "end": 310,
+      "fact": "Roddie 说父亲和 Wanda 天天吵、连今天谁送他去车站都在吵；父亲对他讲 Tyson 一事的回应只有「Don't miss your bus」。"
+    },
+    {
+      "anchor": "Roddie had made this trek with me at least once a year since he was two months old, but this was his first time travelling alone. He’d texted that he was on his connecting flight, though, so",
+      "start": 313,
+      "end": 545,
+      "fact": "她夜里为 Zak 的画面自慰三次，归咎于他先起的头（polishing wood 与 test-driving toys 的荤话）。"
+    },
+    {
+      "anchor": "I was still trying to come to terms with my father, the GP, collecting boxes—plural—of pornography. And the fact that my mother had hung on to them!",
+      "start": 548,
+      "end": 696,
+      "fact": "Zak 曾客气地提出上门帮她搬父亲的书箱，临走大概还在笑她的表情。"
+    },
+    {
+      "anchor": "“I didn’t know where to take them,” she had said with a flustered shrug.",
+      "start": 699,
+      "end": 771,
+      "fact": "她漏掉飞机接机、抢了行李——结果是丢了他的手提箱，Maisie 一家人帮她救回。"
+    },
+    {
+      "anchor": "Zak had politely offered to come by the house to pick them up one day soon. Then he’d left and was probably still busting a gut over the flabbergasted expression that must’ve been on my face",
+      "start": 774,
+      "end": 965,
+      "fact": "她瞒着母亲把 Zak 的照片藏在钱包夹层里——取钥匙时会看到，Meg 立刻把钱包合上。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

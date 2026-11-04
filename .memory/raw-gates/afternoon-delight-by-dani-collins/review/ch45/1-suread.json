@@ -1,0 +1,55 @@
+{
+  "chapter": "ch45",
+  "corpus": "ch45_chapter_forty_five_meg.txt",
+  "facts": [
+    {
+      "anchor": "She came for a job interview. They re going for coffee, Roddie texted.",
+      "start": 57,
+      "end": 127,
+      "fact": "Roddie 的前线快报：她来面试、他们去喝咖啡了。"
+    },
+    {
+      "anchor": "I positioned myself so I was hidden by shelving but could still see out the window.",
+      "start": 130,
+      "end": 213,
+      "fact": "Meg 的观察：从背影看是三十出头、身材高挑、chic 的蓝西装套裤。"
+    },
+    {
+      "anchor": "Zak walked across the street with a pretty woman in her early thirties. At least, she looked pretty from behind—tall and slim, wearing a chic blue blazer and matching trousers. She used her ",
+      "start": 216,
+      "end": 505,
+      "fact": "她放起 Aretha Franklin 查订单，发现 Georgia 已把可直发的单子全填完、并写好致谢帖预告回归。"
+    },
+    {
+      "anchor": "I heard a whimper and realized it was me.",
+      "start": 508,
+      "end": 549,
+      "fact": "她的自我诊断：不是生气也不是失望，只是 superfluous（多余）。"
+    },
+    {
+      "anchor": "I put on Aretha Franklin and checked the online orders, only to find that Georgia had already filled the ones that could be shipped directly from our suppliers. She’d also written a few post",
+      "start": 561,
+      "end": 841,
+      "fact": "Zak 独自折返送 muffin（只剩 cranberry 款）——没有带 Erica 回来。"
+    },
+    {
+      "anchor": "I wasn’t mad or even disappointed, but I did feel superfluous.",
+      "start": 844,
+      "end": 906,
+      "fact": "Meg 盯着他看（他注意到她在看、以为是今天没来上班让她无聊）。"
+    },
+    {
+      "anchor": "Thankfully, a couple came in with questions about one of the upcoming workshops, which distracted me.",
+      "start": 909,
+      "end": 1010,
+      "fact": "Zak 邀她周六带酒来他的公寓——她下意识想说喝酒让 Meg 一个人不安全。"
+    },
+    {
+      "anchor": "I didn’t see Zak and Erica come back, but the door jangled, and Zak stepped in far enough to say, “Roddie said you were hungry. They only had cranberry muffins.” He offered the bag.",
+      "start": 1013,
+      "end": 1194,
+      "fact": "她的内心独白：我想要他这个男人的全部——这个念头本身就够危险。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch51",
+  "corpus": "ch51_chapter_fifty_one_meg.txt",
+  "facts": [
+    {
+      "anchor": "Between Georgia and her new hire, I was only needed at the shop on and off the following week. Mostly off, which gave me time to finish up at Mom’s and hang around the antique shop with Zak.",
+      "start": 55,
+      "end": 245,
+      "fact": "Georgia 与新雇员接手后 Meg 只在店里待零散时间，得以天天泡在古董店看 Zak 干活。"
+    },
+    {
+      "anchor": "I’d never really paid attention to his woodworking projects before. Sometimes I heard him banging around in the back, or caught a whiff of paint stripper, but now I had time to perch on the ",
+      "start": 248,
+      "end": 539,
+      "fact": "Zak 的分工说明：父亲在店里做「give them more appeal」的重新布置，后屋的不一致父亲能接受。"
+    },
+    {
+      "anchor": "Zak relaxed back here because Dale was comfortable in the store and loved to busy himself with rearranging things to “give them more appeal.” In here, Dale rolled with the inconsistencies be",
+      "start": 542,
+      "end": 778,
+      "fact": "Dale 又给 Meg 起了新名字「Candace」（Zara 高中同学）——照护者的新混乱信号。"
+    },
+    {
+      "anchor": "“Did you sell the model train set?” Dale popped his head in to ask.",
+      "start": 781,
+      "end": 848,
+      "fact": "他承认撒谎说母亲在 estate sale（Zara 反对、他坚持不搅乱父亲）。"
+    },
+    {
+      "anchor": "“Candace,” Dale said, assigning me yet another random name—usually one of Zara’s friends from high school. “You’ve changed your hair.”",
+      "start": 876,
+      "end": 1010,
+      "fact": "生意的真相：不赚钱（hell, no），但楼上租金加隔壁店的租够亮灯；「a day camp for Dad that we don't have to pay for」。"
+    },
+    {
+      "anchor": "“This is Meg, Dad. You’ve met her a few times. She’s been working at the shop next door, the one that took over from Debra.”",
+      "start": 1013,
+      "end": 1137,
+      "fact": "他的付出清单：top earning years 与没人看见的 emotional toll；boomers 凋零、millennials 不恋旧，线上靠 Roddie 拍照出货。"
+    },
+    {
+      "anchor": "“The toy store. Right.” He tapped his nose. “Got that one mixed up, didn’t I?” He seemed to be having a good day. “What’d you get for the train set?”",
+      "start": 1140,
+      "end": 1289,
+      "fact": "他的边界宣言：I'm not your son, Meg. You don't have to solve my problems for me."
+    },
+    {
+      "anchor": "“Typical. I’m going to move the clocks onto that table.”",
+      "start": 1329,
+      "end": 1385,
+      "fact": "他的告白：I wasn't going to say it because it sounds like I'm only saying it to keep you here, but I do. Now you know.——她把同一句咽回去，因为说了就真会留下。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

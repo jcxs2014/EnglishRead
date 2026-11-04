@@ -1,0 +1,37 @@
+{
+  "chapter": "ch06",
+  "corpus": "ch06_chapter_six_meg.txt",
+  "facts": [
+    {
+      "anchor": "You need to wash the window,” were the first words out of Mom’s mouth.",
+      "start": 43,
+      "end": 113,
+      "fact": "母亲追问「Do they work?」，Meg 手里喷着清洁剂僵住，回敬「要不要试一个再汇报」——被母亲反击「这话像在评判我该不该」。"
+    },
+    {
+      "anchor": "I would have been more annoyed if she’d been wrong.",
+      "start": 116,
+      "end": 167,
+      "fact": "母亲贡献出自制红玫瑰白流苏桌旗（她重新学拼布时做的），并主动去店里帮忙。"
+    },
+    {
+      "anchor": "“I was waiting for it to warm up outside.”",
+      "start": 170,
+      "end": 212,
+      "fact": "Meg 提议休战并给母亲派活（橱窗审美正是她擅长的）；母亲背脊一僵随即接下。"
+    },
+    {
+      "anchor": "I fetched the spray and a paper towel since I had meant to do the inside of the glass while I was dusting. I gingerly stepped into the window display. Up close, the winter grit on the outsid",
+      "start": 231,
+      "end": 546,
+      "fact": "母亲的空手作桌旗与Georgia 需求对接：她答应把店里的红玫瑰桌旗借给 Georgia（不只是帮工，而是供货）。"
+    },
+    {
+      "anchor": "“What on earth made Georgia want to open a store like this?” Mom asked with a note of disdain as she wandered, purse hugged tightly under her arm.",
+      "start": 549,
+      "end": 695,
+      "fact": "母亲与 Meg 的分工落地：她负责把 Georgia 的橱窗主题做出来（spring makeover），Meg 负责把店里卖好——这对母女第一次像合伙人。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

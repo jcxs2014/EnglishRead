@@ -1,0 +1,55 @@
+{
+  "chapter": "ch30",
+  "corpus": "ch30_chapter_thirty_meg.txt",
+  "facts": [
+    {
+      "anchor": "I was dying to tell Georgia that Zak and I had taken turns wanking in her shop’s bathroom, but I doubted she’d find it as titillating as I had.",
+      "start": 49,
+      "end": 192,
+      "fact": "Georgia 手术当天，Meg 在店里心不在焉地盘点库存——Georgia 的话应验：人们会「暂时淡忘」店。"
+    },
+    {
+      "anchor": "She was in such good spirits, though, she might just laugh herself right out of her wheelchair.",
+      "start": 195,
+      "end": 290,
+      "fact": "Zak 提早来盘货（shop assistant 的角色），两人并排数商品，她注意到他耳后有一颗痣。"
+    },
+    {
+      "anchor": "At least she was home with her sister again. It was Sunday. Gail and her family were out, but she’d encouraged me to come sit with Georgia so she wouldn’t worry.",
+      "start": 293,
+      "end": 454,
+      "fact": "他们谈起各自最不愿承认的事：他说是「我父母当年一定希望我别回来」；她说是「我女儿有时看我的眼神像在看陌生人」。"
+    },
+    {
+      "anchor": "It was great to see Georgia smiling, even in pajamas and still a little dopey from pain meds.",
+      "start": 457,
+      "end": 550,
+      "fact": "他透露母亲的第五次住院（阿尔茨海默的进程）与无法向母亲承认「我回来了」的愧疚。"
+    },
+    {
+      "anchor": "“It’s a different pain,” she told me. “I can tell it’s healing pain. I can live with that. What’s all this?” She peeked into the bag of samples I’d brought. “I have my trusty-reliable.”",
+      "start": 553,
+      "end": 738,
+      "fact": "她的秘密：Roddie 出柜的事她曾「希望他自己解决」——她为这个念头羞耻。"
+    },
+    {
+      "anchor": "“I registered for an online trade show. I wanted the education workshops, but that was the swag bag they sent attendees. I thought you might want to test drive a few, or tell me which ones a",
+      "start": 741,
+      "end": 950,
+      "fact": "他透露自己与 Georgia 的父亲一样：回家因为父亲需要，也因为不想承认自己也需要。"
+    },
+    {
+      "anchor": "“I’ll look through it later.” She set it aside. “Tell me what’s been going on.”",
+      "start": 953,
+      "end": 1032,
+      "fact": "他问她会不会有一天对 Roddie 说「我很为你骄傲」——她说她怕说得太轻。"
+    },
+    {
+      "anchor": "I told her about the long hunt for a replacement charger for an older toy and how excited one guy had been when he found out there was a product to replicate his penis for his girlfriend.",
+      "start": 1078,
+      "end": 1265,
+      "fact": "他留她吃饭（她的生日礼物是「一顿饭」）；她在店里等到打烊，Georgia 的短信到了：「今晚一起吃饭。」"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

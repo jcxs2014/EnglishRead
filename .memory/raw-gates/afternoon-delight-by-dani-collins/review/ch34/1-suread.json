@@ -1,0 +1,55 @@
+{
+  "chapter": "ch34",
+  "corpus": "ch34_chapter_thirty_four_meg.txt",
+  "facts": [
+    {
+      "anchor": "It was odd how much I noticed Zak’s absence. Afternoon Delight had slowed down a lot since the advertising blitz of the relaunch. That gave me plenty of time to work on my instructional slid",
+      "start": 59,
+      "end": 539,
+      "fact": "Meg 察觉 Zak 的缺席（relaunch 后客流回落、她有时间做 PLF 的教学幻灯片）。"
+    },
+    {
+      "anchor": "The next day was an even longer, slower day. Roddie went to his first LGBTQIA+ meeting after school. It was nice that he had somewhere to go, since Twice Is Nice was closed. He caught the bu",
+      "start": 542,
+      "end": 813,
+      "fact": "Roddie 第一次参加 LGBTQIA+ 聚会，自行乘公交并把地址发给她。"
+    },
+    {
+      "anchor": "If I hadn’t been so bored, I might have stayed late at work, but I closed right at five and swung into the grocery store, killing time before I had to get Roddie.",
+      "start": 816,
+      "end": 978,
+      "fact": "她五点准时打烊去超市消磨时间——因为无聊，差点留在店里。"
+    },
+    {
+      "anchor": "Mom had let me start cooking now that Roddie was here. With Shelby coming for the weekend, my mind turned to a menu that felt a little more celebratory. She was vegetarian, which always pres",
+      "start": 981,
+      "end": 1254,
+      "fact": "母亲允许她下厨（Roddie 在家期间），Shelby 周末来、素食让老派母亲犯了难。"
+    },
+    {
+      "anchor": "I was trying to remember what I might need for black-bean patties when I came around the end of the aisle and found Zak standing in front of the dairy cooler. My heart leapt with way too muc",
+      "start": 1257,
+      "end": 1453,
+      "fact": "她在乳制品柜前撞见 Zak——「My heart leapt with way too much joy」。"
+    },
+    {
+      "anchor": "“What?” He turned his head. His expression was just... devastated.",
+      "start": 1478,
+      "end": 1544,
+      "fact": "Zak 说父亲把他当成劫匪、吼他滚出家门——她抱住他僵住的身子并问要不要打给 Zara。"
+    },
+    {
+      "anchor": "“Oh my God. What happened?” I released the handle of my cart and stepped closer. I grasped his arm. He looked as though he was about to topple off a cliff and needed someone to hold on to hi",
+      "start": 1547,
+      "end": 1739,
+      "fact": "Zak 讲出真相：他去洗完澡出来，父亲不认得他；Zara 在场、Carl 也去了，但父亲把 Zara 当成了 Mom。"
+    },
+    {
+      "anchor": "He swallowed, fighting to keep his composure. “Dad didn’t recognize me. I came out of the shower and he thought I was a robber or something. He yelled at me to get out of the house. He was s",
+      "start": 1742,
+      "end": 1939,
+      "fact": "Zak 的判断：一旦某天这对词用不上，就得送他去设施（Zara 与他都还没准备好）。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,79 @@
+{
+  "chapter": "ch02",
+  "corpus": "ch02_chapter_two_zak.txt",
+  "facts": [
+    {
+      "anchor": "The phone was ringing as I walked back into Twice Is Nice.",
+      "start": 43,
+      "end": 101,
+      "fact": [
+        "Dad was standing next to it, clutching his own hand, looking at it with a mix of confusion and agony. The heat gun was on the floor.",
+        "Zak 回店闻痛叫冲进工作间：父亲 Dale 攥着自己的手、困惑又痛苦，热风枪掉在地上。"
+      ]
+    },
+    {
+      "anchor": "I looked for Dad, but the place had always been a rabbit warren of tallboys, standing mirrors, and folding screens. As a kid, playing hide-and-seek in here with Zara had been a riot. Playing",
+      "start": 104,
+      "end": 331,
+      "fact": [
+        "“I thought it was your mother’s hair dryer,” Dad said, giving me a baffled look.",
+        "Dale 把热风枪当成亡妻的吹风机——他已不记得妻子去世。"
+      ]
+    },
+    {
+      "anchor": "“Dad?” The phone was still ringing, which didn’t necessarily mean he wasn’t in the office. I’d caught him in there two days ago, watching it ring, but yesterday he’d answered it like he alwa",
+      "start": 334,
+      "end": 535,
+      "fact": [
+        "I had to start thinking of him like Ollie, Zara’s youngest, but it was a mental shift I didn’t want to make.",
+        "Zak 抗拒把父亲当妹妹幼子 Ollie 看；父亲教过他翻新家具、开车、贷款、换机油，是他的「人肉谷歌」。"
+      ]
+    },
+    {
+      "anchor": "From the back of the shop, I heard a cry of pain and the thump of something hitting the floor. I veered toward the workroom, where I’d been stripping a table.",
+      "start": 538,
+      "end": 696,
+      "fact": [
+        "It felt like a dick move to put a padlock on it, but I guessed I’d have to.",
+        "他把热风枪、刮刀、松节油全部收走，准备给橱柜加挂锁（怕伤父亲自尊）。"
+      ]
+    },
+    {
+      "anchor": "Dad was standing next to it, clutching his own hand, looking at it with a mix of confusion and agony. The heat gun was on the floor.",
+      "start": 699,
+      "end": 831,
+      "fact": [
+        "We were in the middle of getting power of attorney for his finances anyway, but this felt like a next-level piss-all-over-his-self-esteem move.",
+        "财务失智顾虑：怕父亲被诱输入卡号，计划与 Zara 商量取卡或压低可用额度（正在办财务授权书）。"
+      ]
+    },
+    {
+      "anchor": "“Let’s get that under cold water.” I yanked the plug from the wall on my way to bringing him into the bathroom, then guided his hand so cold water washed over the pink crescent in his palm.",
+      "start": 845,
+      "end": 1034,
+      "fact": [
+        "Erica had had a vibrator, but she’d never wanted me to use it on her.",
+        "前未婚妻 Erica 有振动棒但不许他用；他对玩具的好奇始于窗外那个烛台状的东西。"
+      ]
+    },
+    {
+      "anchor": "How had we missed that he was getting this bad?",
+      "start": 1037,
+      "end": 1084,
+      "fact": [
+        "Now I would be picturing Meg in her snug jeans, dark-blond hair, and flustered blushes as she fondled those things.",
+        "他开始幻想隔壁 Meg 摸玩具的模样，并把她的照片发给 Erica。"
+      ]
+    },
+    {
+      "anchor": "It wasn’t actually a mystery. I hadn’t been here because I was a workaholic who’d been saving for a wedding and a house. Zara had a husband, a job, and three kids. I suspected her marriage w",
+      "start": 1087,
+      "end": 1426,
+      "fact": [
+        "But then he noticed the bandage on his hand and began to pick at it with puzzlement, trying to figure out why it was there.",
+        "转折：Dale 困惑地抠自己手上的绷带、想不通为何在那——Zak 心沉，判定「He was not okay」。"
+      ]
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

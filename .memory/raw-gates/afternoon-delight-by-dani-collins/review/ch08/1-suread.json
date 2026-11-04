@@ -1,0 +1,37 @@
+{
+  "chapter": "ch08",
+  "corpus": "ch08_chapter_eight_meg.txt",
+  "facts": [
+    {
+      "anchor": "Like any true artist, Mom didn’t let censorship impede her vision.",
+      "start": 47,
+      "end": 113,
+      "fact": "她的清账：Wanda 固然上了已婚男人，但已婚男人也上了她——论婚外情谁是真凶她心里清楚。"
+    },
+    {
+      "anchor": "The next morning, she handled all the products like they were designer purses and haute couture. She focused on their colour and shape, not where they’d end up. I was proud of her—patronizin",
+      "start": 116,
+      "end": 440,
+      "fact": "家史揭底：Meg 是母亲与其老板婚外情的意外产物（unplanned result of her affair with her boss）。"
+    },
+    {
+      "anchor": "Yeah. Mom had her own history of not keeping it in her pants. I was the unplanned result of her affair with her boss.",
+      "start": 443,
+      "end": 560,
+      "fact": "十四年前 Joel 与牙科洁牙师出轨时她曾想通；去年五月他承认与车行 Wanda 出轨——选在 Wanda 生 Freddie 时通知她。"
+    },
+    {
+      "anchor": "That had made me philosophical fourteen years ago, when I realized Joel was screwing his dental hygienist. I understood how that happened. I’d had a rough pregnancy with Roddie so in some re",
+      "start": 563,
+      "end": 1181,
+      "fact": "她的清账：Wanda 固然上了已婚男人，但已婚男人也上了她——谁是真凶她心里清楚。"
+    },
+    {
+      "anchor": "He didn’t do it again. Until two years ago. That I know of.",
+      "start": 1184,
+      "end": 1243,
+      "fact": "升级断言：不对，她就是那只轮子，Joel 才是仓鼠——他把她用得很足，从来没有反向。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch55",
+  "corpus": "ch55_chapter_fifty_five_zak.txt",
+  "facts": [
+    {
+      "anchor": "Is there any chance you can hang out with Dad for a few hours on Wednesday?” I asked Zara when we were having dinner at her place on Sunday night. “Meg is coming in late Tuesday. She was hop",
+      "start": 57,
+      "end": 282,
+      "fact": "Zak 向 Zara 求周三的支援（陪 Dale），Meg 周二晚到、想约午饭。"
+    },
+    {
+      "anchor": "Meg wanted to talk, and I was kind of nervous about it. The phone sex was great, we texted all the time, but long distance wasn’t ideal. I kept thinking she ought to want more from me. To ge",
+      "start": 285,
+      "end": 482,
+      "fact": "他的紧张：phone sex 虽好、也天天发短信，但 long distance 不是理想状态——他觉得她该要更多。"
+    },
+    {
+      "anchor": "“I’ll see what I can figure out.” Zara glanced out at the empty driveway.",
+      "start": 485,
+      "end": 558,
+      "fact": "Zara 的三重奏：counsellor、Kyle 的生意被审计、以及压低声音的「I'm pregnant」。"
+    },
+    {
+      "anchor": "Kyle was picking up Jade from a playdate. Lance was in the living room, flipping through old hot rod magazines with Dad. Ollie was doing his best to take me down, tackling my leg. One day he",
+      "start": 561,
+      "end": 848,
+      "fact": "怀孕是意外：他们「definitely trying not to」，他一直承诺做 vasectomy。"
+    },
+    {
+      "anchor": "“I know—” Zara paused in setting the table. She sent a miserable look toward the living room, then back to me. “I know you really miss her. I know I should say you should go to Toronto.”",
+      "start": 851,
+      "end": 1037,
+      "fact": "Zara 的矛盾：既是 his sister 又像 mother，替哥哥挡着 Meg 这条线。"
+    },
+    {
+      "anchor": "“We’re not having this conversation again. I’m here.”",
+      "start": 1040,
+      "end": 1093,
+      "fact": "Zak 发现自己也在伤害她：I need you to be the independent badass that you are."
+    },
+    {
+      "anchor": "“I know. But I feel like one of us should be happy.” She brushed the back of her wrist beneath her eye.",
+      "start": 1096,
+      "end": 1199,
+      "fact": "她的反向担心：自己真的想被需要吗？我有点想——那是 Meg 的老毛病。"
+    },
+    {
+      "anchor": "“What’s going on with you two?” It was killing me.",
+      "start": 1202,
+      "end": 1252,
+      "fact": "他回家前的小动作：用袖口擦了擦 Meg 的嘴唇、再整理裤子——「我不是为了做爱才来的」。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

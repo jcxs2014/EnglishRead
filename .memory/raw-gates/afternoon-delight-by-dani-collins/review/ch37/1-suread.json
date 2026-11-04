@@ -1,0 +1,55 @@
+{
+  "chapter": "ch37",
+  "corpus": "ch37_chapter_thirty_seven_meg.txt",
+  "facts": [
+    {
+      "anchor": "I had second thoughts. Then third and fourth. But I pulled into the parking lot of the Dogwood and was relieved to see the budget motel had been updated in recent years. It wasn’t a total di",
+      "start": 61,
+      "end": 254,
+      "fact": "五星级酒店（四柱大床、海港阳台），但他只有一小时——连手机闹钟都设了防睡着。"
+    },
+    {
+      "anchor": "Zak came out of the lobby and veered toward my SUV I lowered the passenger window.",
+      "start": 257,
+      "end": 339,
+      "fact": "Zak 主动让床：「One of us should use it for the night.」她拒绝。"
+    },
+    {
+      "anchor": "“Lucky number seven.” He pointed and moved onto the walkway so he was at the door when I nosed into the spot in front of our room. He opened my car door and took the bag I handed him. “I did",
+      "start": 342,
+      "end": 631,
+      "fact": "missionary 与「硬底线」的玩笑：她说「要是你说想看着我的眼睛就碰到底线」。"
+    },
+    {
+      "anchor": "“I’m very interested in that information.” I stepped onto the pavement, my heart beating intensely.",
+      "start": 634,
+      "end": 733,
+      "fact": "他随身带安全套但没带润滑（not on purpose，是应急习惯）。"
+    },
+    {
+      "anchor": "He kept me hemmed in at the V of the door.",
+      "start": 736,
+      "end": 778,
+      "fact": "他的名字梗：Megan 与 Margaret 之争——她用姑婆的名字（终身未嫁 By choice、在女性杂志社写女性主义文章、built like a rectangle）。"
+    },
+    {
+      "anchor": "“Are you waiting for a kiss?” I asked, feeling as though I’d taken some of Georgia’s meds and was slipping into a hallucinogenic state.",
+      "start": 781,
+      "end": 916,
+      "fact": "她自曝与 Joel 试过 69 但基本直进，且永远在上面——因为他期待她包办一切。"
+    },
+    {
+      "anchor": "“I’m drinking in the moment.” His gaze tracked all over my face, making me self-conscious enough to blush.",
+      "start": 919,
+      "end": 1025,
+      "fact": "safe space 的确认与边界协商：他们可以在这个房间里什么都谈、什么都做。"
+    },
+    {
+      "anchor": "“I’m trying to hide my stark-raving panic,” I joked. Kind of.",
+      "start": 1028,
+      "end": 1089,
+      "fact": "他的底线告白：I don't want them badly enough to give you up just so I could make them with someone else。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch39",
+  "corpus": "ch39_chapter_thirty_nine_meg.txt",
+  "facts": [
+    {
+      "anchor": "Shelby was there when I came in the door.",
+      "start": 59,
+      "end": 100,
+      "fact": "Shelby 归来：蓝发、眉钉、已不再是当年那个「小不点」。"
+    },
+    {
+      "anchor": "“Finally!” She got up from the kitchen table to hug me.",
+      "start": 103,
+      "end": 158,
+      "fact": "母亲的侦查式提问：Did you wash your face / 我记得你早上没化妆。"
+    },
+    {
+      "anchor": "I closed my eyes as I wrapped my arms around her, drinking in the feel of her. She was no longer a midge, but a fully grown woman with blue hair and a new eyebrow piercing. She’d gotten a st",
+      "start": 161,
+      "end": 552,
+      "fact": "Meg 的自白：只是让自己变回 teenage Meg（那个让男孩主宰自己优先级的版本）。"
+    },
+    {
+      "anchor": "“Is Georgia all right? You’ve been gone all day.” Mom was tossing a salad, and the kitchen smelled like she’d already put the scalloped potatoes in the oven. “Did you wash your face? I thoug",
+      "start": 555,
+      "end": 864,
+      "fact": "她半真半假地回答：Georgia 恢复得好但累了、赶我走，所以我见了 Zak。"
+    },
+    {
+      "anchor": "Only letting myself turn into teenage Meg, the one who let a boy dominate her world to the detriment of her own priorities. That’s all.",
+      "start": 867,
+      "end": 1002,
+      "fact": "Shelby 立刻抓住「antique guy」这个词追问。"
+    },
+    {
+      "anchor": "“You were already gone when I left,” I reminded her, instead of lying outright about showering with Zak. “Georgia is recovering well, but she got tired and kicked me out so I met up with Zak",
+      "start": 1005,
+      "end": 1271,
+      "fact": "母亲承认她年轻时也有过风流事（丈夫死后她并未守寡）。"
+    },
+    {
+      "anchor": "“No. Just offering a friendly ear.” I poured myself a glass of wine.",
+      "start": 1316,
+      "end": 1384,
+      "fact": "Meg 讲出更年期的自我认知与不想要孩子的理由——她对母亲的处境与母亲的「四十年不抱怨」形成对照。"
+    },
+    {
+      "anchor": "“The antique guy?” Shelby slipped back into her seat at the table, sipping from her own glass of pinot gris.",
+      "start": 1387,
+      "end": 1495,
+      "fact": "全家的旧账被翻出来：母亲与外婆、孩子与祖父（in the same hospital）——三代女人的婚姻账单在餐桌上一次结清。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

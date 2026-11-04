@@ -1,0 +1,55 @@
+{
+  "chapter": "ch53",
+  "corpus": "ch53_chapter_fifty_three_meg.txt",
+  "facts": [
+    {
+      "anchor": "I thought about what Roddie had said. I thought about it a lot. I thought about Negasi, and how satisfying it had been to work with him, moving one step at a time, building his business plan",
+      "start": 59,
+      "end": 347,
+      "fact": "她反复消化 Roddie 的话：Negasi 的 vision 正在成形（一步一步搭他的商业计划），照见了她自己的 vision。"
+    },
+    {
+      "anchor": "I took Folami out for drinks and laid all my cards on the table.",
+      "start": 350,
+      "end": 414,
+      "fact": "她与 Folami 摊牌：远程过渡不撂挑子、长期想做 launching side（助创业那一侧）。"
+    },
+    {
+      "anchor": "“I wouldn’t leave you in the lurch. I could work remotely. But I think my long-term goal is to do something like what you’re doing. I like this client base you’re cultivating, but I want to ",
+      "start": 417,
+      "end": 637,
+      "fact": "Folami 的 partnership 提议：她们缺一个懂税务的会计——「See if Cameron's available」成为两人的内部笑话。"
+    },
+    {
+      "anchor": "Working with small businesses and entrepreneurs wasn’t as lucrative as corporate clients, but the work was more personal. More challenging and more rewarding.",
+      "start": 640,
+      "end": 798,
+      "fact": "她确认自己「真的喜欢那个数字」（PLF 内部笑话：God, I was happy to be out of that place）。"
+    },
+    {
+      "anchor": "“Victoria isn’t Toronto. Whatever I build will be slow. It’d be at least a year before I could even think about striking out on my own.”",
+      "start": 801,
+      "end": 937,
+      "fact": "被问「You really like this guy?」她的答案：离婚后第一个且唯一的约会对象、尽量不急，但 I miss him so much。"
+    },
+    {
+      "anchor": "“Maybe we should talk about a partnership,” Folami suggested.",
+      "start": 940,
+      "end": 1001,
+      "fact": "Falami 的追问让她把 Dogwood 的故事（怎么讲、怎么落地）全部倒出来——spilling the tea。"
+    },
+    {
+      "anchor": "“Maybe.” She shrugged. “If only we knew a good accountant who could explain the tax implications.”",
+      "start": 1014,
+      "end": 1112,
+      "fact": "她的坦承：她从不给 Zak 发照片，怕被发现自己一有空就看他——这是她最后的保留。"
+    },
+    {
+      "anchor": "“I’ll call PLF. See if Cameron’s available.”",
+      "start": 1115,
+      "end": 1159,
+      "fact": "本章以新问题收尾：如果换到「launching side」，她愿不愿意从零开始？答案尚未给出。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

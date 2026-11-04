@@ -1,0 +1,55 @@
+{
+  "chapter": "ch19",
+  "corpus": "ch19_chapter_nineteen_meg.txt",
+  "facts": [
+    {
+      "anchor": "Georgia was right. Monday was really quiet, and after last week, it felt too quiet.",
+      "start": 53,
+      "end": 136,
+      "fact": "Georgia 说对了：周一的店安静得反常。"
+    },
+    {
+      "anchor": "At least I had time to enter reorders and call Roddie’s school in Toronto.",
+      "start": 139,
+      "end": 213,
+      "fact": "空出来的时间她用来处理补货与给多伦多的 Roddie 学校打电话。"
+    },
+    {
+      "anchor": "I was perched on the stool at the cash desk, working on my laptop, when Zak burst in with his usual bull-in-a-china-shop energy.",
+      "start": 216,
+      "end": 344,
+      "fact": "Zak 带着 bull-in-a-china-shop 的闯入劲冲进店里，她正坐在收银台高脚凳上用笔记本。"
+    },
+    {
+      "anchor": "“I brought this for the cabinet.” He held up a rag and a capped bottle. “Sometimes a little rub with oil is all it needs, rather than a full strip and finish.”",
+      "start": 347,
+      "end": 506,
+      "fact": "他掏钱包说要买「模拟口爱」并自曝有钱（婚礼钱），被 Meg 直接打断。"
+    },
+    {
+      "anchor": "For a long moment, the innuendo hung in the air.",
+      "start": 509,
+      "end": 557,
+      "fact": "他坦白与 Erica 差点结婚：同居三年（她护士、他做技术）、她不肯搬来、他圣诞节后辞职回家照顾父亲。"
+    },
+    {
+      "anchor": "He nodded. “You’re right. It’s the store.”",
+      "start": 560,
+      "end": 602,
+      "fact": "Meg 给出判词：分手与离婚本身不算失败，关系由无数小成功小失败组成，不能整体盖章。"
+    },
+    {
+      "anchor": "I smirked, closed the laptop, and folded my arms on the desk.",
+      "start": 605,
+      "end": 666,
+      "fact": "她自陈：认识他们的人会说她的婚姻成功，但内部她总把自己排在最后——「Our marriage was really only successful for him.」"
+    },
+    {
+      "anchor": "“Need me to stop the music?” Air Supply was “All Out of Love.”",
+      "start": 669,
+      "end": 731,
+      "fact": "她把离婚称为成功（civil、Joel 没为抚养权上法庭），并说明她的红线：绝不为一个男孩再跨国一次。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

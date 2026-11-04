@@ -1,0 +1,55 @@
+{
+  "chapter": "ch17",
+  "corpus": "ch17_chapter_seventeen_meg.txt",
+  "facts": [
+    {
+      "anchor": "I was dragging my ass the next morning, feeling hungover even though I’d only had one glass of wine when I got home. A big one, granted. I’d chugged it before falling straight into bed.",
+      "start": 55,
+      "end": 240,
+      "fact": "PLF 邮件炸开：客户火大、HR 逼她敲定外聘条款——「the firm had very deep pockets. Assholes.」"
+    },
+    {
+      "anchor": "After my shower, I glanced at my laptop and saw it was blowing up with messages from Peterson, Londale, and Funk. I might not be irreplaceable, but they’d realized my departure was going to ",
+      "start": 243,
+      "end": 563,
+      "fact": "Roddie 同时发来注册高中 part-time 课程的流程指引（打电话+填表），她一边处理一边想老东家。"
+    },
+    {
+      "anchor": "Suddenly, the firm had very deep pockets. Assholes.",
+      "start": 566,
+      "end": 617,
+      "fact": "她提前到店、Zak 与 Dale 还没开门，只好发短信点咖啡（Large double-shot Americano, one sugar, no milk）。"
+    },
+    {
+      "anchor": "I was thinking about that while I poured my coffee into a travel mug. At the same time, Roddie was peppering me with instructions on how to enroll him in part-time classes at the high school",
+      "start": 620,
+      "end": 865,
+      "fact": "她在 Brim Stokers 与 Ali 简短聊天——对方昨晚另有工作、没能来喝她请的咖啡。"
+    },
+    {
+      "anchor": "“I’ll get started if I have time at work, okay? I’ve got to get in there to tidy up and fill the online orders before I open for the day.” I stole a slice of his toast.",
+      "start": 868,
+      "end": 1036,
+      "fact": "她把昨夜 receipts 发给 Georgia，并附「残局」照片＋Nice problem to have：后仓存货被拉出来填货架的洞。"
+    },
+    {
+      "anchor": "“What. You don’t even have school today. Look through Grandpa’s stuff downstairs. Let Grandma know what you might want to keep for yourself. You kids be good.”",
+      "start": 1060,
+      "end": 1219,
+      "fact": "服装类卖得出奇地好，她打算让母亲继续搜货。"
+    },
+    {
+      "anchor": "I was halfway to the shop when I reached for my coffee and realized I’d left it on the counter. That’s the kind of day it was going to be.",
+      "start": 1222,
+      "end": 1360,
+      "fact": "Zak 进门取咖啡：侄女鼻血止不住，Zara 与 Kyle 守到医院半夜，他和父亲留下照看两个男孩。"
+    },
+    {
+      "anchor": "I was early, so Zak and Dale weren’t at their shop yet. I texted Zak.",
+      "start": 1363,
+      "end": 1432,
+      "fact": "两岁 Ollie 整夜踢他（taking kicks to the kidney），他连新玩具都没空玩——他只有一小时。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch40",
+  "corpus": "ch40_chapter_forty_meg.txt",
+  "facts": [
+    {
+      "anchor": "When I left for the shop on Monday morning, Mom was letting Shelby load Dad’s clothes into her car so she could take them to a thrift store in Langford. It was a “good” one, Mom had said.",
+      "start": 47,
+      "end": 234,
+      "fact": "Shelby 替母亲把亡父的衣物装车送去 Langford 的旧货店——母亲说那是一家「好店」。"
+    },
+    {
+      "anchor": "It was bittersweet. It was a big step for Mom. I was glad Shelby was there as an extra emotional cushion, and to allow me more time to focus on running the business. I pushed down the guilt ",
+      "start": 237,
+      "end": 493,
+      "fact": "Meg 承认把「照顾母亲」这摊事甩给孩子们让她内疚，但也因此腾出精力经营生意。"
+    },
+    {
+      "anchor": "The workshop strategy had been effective; two women from the perimenopause meeting on Saturday came in, looking for lube. One stuck around to browse the books and ended up adding one to her ",
+      "start": 496,
+      "end": 696,
+      "fact": "她等到 senior sexuality 联络人的回信（照护者支持小组名单，含哀伤支持），转给 Zak。"
+    },
+    {
+      "anchor": "I finally heard back from my contact on senior sexuality, too. They had some names and numbers for caregiver support groups. I forwarded some details to Zak and reached out to one that also ",
+      "start": 699,
+      "end": 947,
+      "fact": "Zak 说姑妈（Dad's sister）几个月没见父亲、要来「看看我们面对的是什么」，Zara 把他赶了出去。"
+    },
+    {
+      "anchor": "Coffee? Zak texted when it was getting close to lunch.",
+      "start": 950,
+      "end": 1004,
+      "fact": "Roddie 的 dead-grandfather card 销售文案被 Zak 润色：「after losing her husband of forty years…」加鱼的故事。"
+    },
+    {
+      "anchor": "I watched him come back across the street a few minutes later with a tray of four cups and a takeout bag. He went into Twice Is Nice first, which made me curious.",
+      "start": 1065,
+      "end": 1227,
+      "fact": "Roddie 讨价还价：每支竿 200、蝇盒 100——Zak 报实价「整套大概 400」，并预判他能谈到 600。"
+    },
+    {
+      "anchor": "“Zara’s here with my aunt,” he said when he came into my shop. “Dad’s sister. She hasn’t seen him in months and needs to know what we’re up against. Zara kicked me out for the afternoon. Tol",
+      "start": 1230,
+      "end": 1577,
+      "fact": "Zak 拦下 Roddie 想卖工具的念头（学徒常把自己的东西弄丢，得留备用）。"
+    },
+    {
+      "anchor": "“Any chance you can take a hike with me?”",
+      "start": 1588,
+      "end": 1629,
+      "fact": "章末 Meg 与 Zak 在雨中把吻按在收银台上——第一次在店里接吻，被路过的父亲们撞见。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch47",
+  "corpus": "ch47_chapter_forty_seven_meg.txt",
+  "facts": [
+    {
+      "anchor": "We walked to the nearest hotel so we didn’t have to move our cars. It was a five-star place with a four-poster king-size bed and a balcony overlooking the harbor. I wanted to stay the weeken",
+      "start": 59,
+      "end": 351,
+      "fact": "她提出「never another baby」的硬约束，同时点破：Erica 与他曾计划要孩子。"
+    },
+    {
+      "anchor": "“You can stay,” he said, peeling off his shirt. “One of us should use it for the night.”",
+      "start": 354,
+      "end": 442,
+      "fact": "他承诺：跟 Erica 的计划在父亲确诊前就搁置了。"
+    },
+    {
+      "anchor": "“I’m not staying without you.” I closed the blackout drapes and came to slide my hands over his bare chest.",
+      "start": 445,
+      "end": 552,
+      "fact": "她点破他的现实主义：给他时间他会想要孩子，而她不会——要求他跟想要家庭的人在一起。"
+    },
+    {
+      "anchor": "He sucked in a breath, hollowing his stomach, then dipped his head to give me a rough, hungry kiss.",
+      "start": 555,
+      "end": 654,
+      "fact": "Zara 的一通电话打断谈判：她在等 brother-in-law 的好消息、也可能 Barbara 又来。"
+    },
+    {
+      "anchor": "“Want to get super kinky and do it missionary?” he asked.",
+      "start": 657,
+      "end": 714,
+      "fact": "她的自检：她要的是「有他就够」——但 he wants a family，而她 factory is boarded up（生育能力已封）。"
+    },
+    {
+      "anchor": "“If you say you want to look into my eyes, you’ll hit my hard limit.”",
+      "start": 717,
+      "end": 786,
+      "fact": "他给出全场最成熟的一句：I don't want them badly enough to give you up just so I could make them with someone else."
+    },
+    {
+      "anchor": "“Ha,” he barked, then patted his jeans. “I have condoms, but I don’t have lube. The condoms weren’t on purpose. I’ve taken to carrying them in case of emergency.”",
+      "start": 789,
+      "end": 951,
+      "fact": "他们同意：不要孩子，等 Shelby 或 Roddie 变成 sexy grandparents——两个人的合并方案。"
+    },
+    {
+      "anchor": "“This feels like an emergency. Way to be a Boy Scout. I can run down to the shop in the lobby, see if they have lube.”",
+      "start": 954,
+      "end": 1072,
+      "fact": "章末他去洗手间，她听见拉链声（没上锁），意识到这段关系的物理边界已经打开。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

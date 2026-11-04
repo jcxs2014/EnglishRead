@@ -1,0 +1,37 @@
+{
+  "chapter": "ch13",
+  "corpus": "ch13_chapter_thirteen_meg.txt",
+  "facts": [
+    {
+      "anchor": "We could all use a break. That’s what Joel said when I told him Roddie wanted to stay with me until further notice.",
+      "start": 53,
+      "end": 168,
+      "fact": "她向 Georgia 要来那句最刺痛的话：You never change. You know why? Because you never change."
+    },
+    {
+      "anchor": "I actively tried not to hate Joel. He was the father of my children; they wouldn’t exist without him. As much as I wanted to blame him entirely for our divorce, I couldn’t. Yes, he cheated. ",
+      "start": 171,
+      "end": 766,
+      "fact": "她向 Georgia 借了那只绿色手镯（母亲也有一只，祖母给母亲的）——借来戴上一周。"
+    },
+    {
+      "anchor": "So no, I didn’t hate him—I hated his selfish streak.",
+      "start": 769,
+      "end": 821,
+      "fact": "母亲一见那只镯子就「peered at it」并确认 Georgia 送的，Meg 立刻说「I returned it」。"
+    },
+    {
+      "anchor": "I swear, when I told him that Roddie wanted to stay here with me at Mom’s, Joel nearly asked if he could come stay here too.",
+      "start": 824,
+      "end": 948,
+      "fact": "她当众宣布辞职去替 Georgia 看店，Georgia 赞她「只是个病恹恹的笑话」，她回「闭嘴，你以为我不敢？」"
+    },
+    {
+      "anchor": "I got it. Newborns are brutal. I respected Wanda for calling Joel out on leaving all the baby care to her. I hadn’t done that. I was the child of a doctor, raised to believe it was my job to",
+      "start": 951,
+      "end": 1334,
+      "fact": "母亲认出 Georgia 送的手镯来自自己的旧交，两人当场和好——Meg 借来的手镯成了和好的道具。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,79 @@
+{
+  "chapter": "ch03",
+  "corpus": "ch03_chapter_three_meg.txt",
+  "facts": [
+    {
+      "anchor": "I pulled into the driveway and parked beside my mother’s Toyota Camry. Her first car had been a Camry that my father bought her. Every four years since then, she had traded it in for the lat",
+      "start": 47,
+      "end": 583,
+      "fact": [
+        "Dad’s first car had been a used Pontiac Firebird—“Like Rockford used to drive.”",
+        "父亲第一辆车是二手庞蒂亚克 Firebird，一直停在车库一侧等他修复；另一侧堆满杂物，母女只能把车停在外面。"
+      ]
+    },
+    {
+      "anchor": "Our house had been the fanciest on the cul-de-sac when I was growing up. Oak Bay was full of well-kept heritage homes and modern mansions with ocean views. Dad had been a family doctor, so w",
+      "start": 586,
+      "end": 870,
+      "fact": [
+        "New, twenty-first-century behemoths made our house look like what it was: dated and in desperate need of TLC. Like me.",
+        "街区新巨宅把 Oak Bay 老宅照出原形——过时、急需修补；「Like me」把她与房子焊在一起。"
+      ]
+    },
+    {
+      "anchor": "No, we were “tear down a post-war bungalow for a custom-built eighties-colonial” middle-class money. Mom had insisted on an Oak Bay address. She had wanted a bay window in the living room—ou",
+      "start": 873,
+      "end": 1282,
+      "fact": [
+        "I kept threatening to call in a handyman to change it out for a button lock, but every small job was part of a bigger one.",
+        "修门清单的连锁困境：小活连着大活，越大越没人动手——她的家族式停摆。"
+      ]
+    },
+    {
+      "anchor": "It was a very nice location only a short walk from the beach, but the neighbourhood had grown up over time. New, twenty-first-century behemoths made our house look like what it was: dated an",
+      "start": 1285,
+      "end": 1502,
+      "fact": [
+        "I’d gone in to work Monday, on my first day of vacation, to be told “Maybe next time,” about the promotion I’d applied for.",
+        "假期第一天上班即被告知晋升落选（“Maybe next time”）；她当面点破是性别歧视，HR 无能为力。"
+      ]
+    },
+    {
+      "anchor": "Mom’s gardens were still in the barren stage, choked with moss and full of last year’s rotting stems. The concrete steps to the porch were cracked, the stucco stained, and the front door key",
+      "start": 1516,
+      "end": 1746,
+      "fact": [
+        "In other ways, Monday had been the happiest day of my life. I had handed Joel the certified paperwork on our divorce.",
+        "同一个周一她把盖认证章的离婚文件交给 Joel——最后一次给他当无偿私人助理。"
+      ]
+    },
+    {
+      "anchor": "I kept threatening to call in a handyman to change it out for a button lock, but every small job was part of a bigger one. The door actually needed levelling, or even replacing, if we took t",
+      "start": 1749,
+      "end": 2142,
+      "fact": [
+        "I had two kids I loved beyond measure, a steady job as an accountant, and a Final Divorce Order.",
+        "她对 Georgia 的现状自陈：两个孩子、会计工作、一份最终离婚令——「将就」的全部清单。"
+      ]
+    },
+    {
+      "anchor": "The bigger the job got, the less prepared we were to tackle it. And so it went.",
+      "start": 2145,
+      "end": 2224,
+      "fact": [
+        "“Mom, I have something I have to tell you.” It was the same way I had opened my announcements that I was pregnant and that I was getting a divorce.",
+        "她第三次用同一开场白宣布重大消息：辞职去替 Georgia 看店——「把绷带一把撕掉」。"
+      ]
+    },
+    {
+      "anchor": "“I’m home,” I called as I entered what had always been a claustrophobic foyer. It was a postage stamp of tiles with a tiny closet next to the stairs that doubled back over the door to the ba",
+      "start": 2227,
+      "end": 2612,
+      "fact": [
+        "“I’m open-minded, if not particularly adventurous,” I said once we were seated.",
+        "饭桌陈词：思想开放、谈不上冒险；托母亲的福还「病态地有责任感」——Georgia 求她，她就会帮到底。"
+      ]
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

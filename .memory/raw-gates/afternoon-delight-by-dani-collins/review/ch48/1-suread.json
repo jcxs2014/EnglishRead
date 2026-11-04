@@ -1,0 +1,55 @@
+{
+  "chapter": "ch48",
+  "corpus": "ch48_chapter_forty_eight_meg.txt",
+  "facts": [
+    {
+      "anchor": "Roddie was making dinner when I got home. It was only spaghetti with jarred sauce and a Caesar salad kit that needed to be used up, but I appreciated his initiative. I handed him the garlic ",
+      "start": 59,
+      "end": 326,
+      "fact": "Roddie 下厨（罐装酱意面＋Caesar 沙拉 kit），灵感来自与 Bethany 的通话。"
+    },
+    {
+      "anchor": "“Do you want some pop, Roddie?” Mom hovered anxiously, acting like he’d been in the kitchen all day preparing a Thanksgiving turkey with all the trimmings.",
+      "start": 329,
+      "end": 484,
+      "fact": "母亲对「他在厨房」反应过度（像在准备感恩节火鸡），并追问 Meg 洗脸与化妆的事。"
+    },
+    {
+      "anchor": "“What’s the occasion?” I asked him as I poured myself a glass of wine.",
+      "start": 487,
+      "end": 557,
+      "fact": "Tyson 把 Bethany 也甩了（为咖啡店认识的人）——Roddie 的判词：Sounds like Tyson doesn't know what he wants."
+    },
+    {
+      "anchor": "“Nothing. I was talking to Bethany, and this is what she was having for dinner. Made me want it too.”",
+      "start": 560,
+      "end": 661,
+      "fact": "Roddie 透露关键家史：他与父亲互相「像别的爸爸/别的儿子」，各自不按常理长大。"
+    },
+    {
+      "anchor": "“You and Bethany are talking? That’s good. Is she still seeing Tyson?”",
+      "start": 664,
+      "end": 734,
+      "fact": "母亲宣布「You're perfect exactly as you are」——祖母对孙辈的盖章。"
+    },
+    {
+      "anchor": "“Tyson dumped her for someone else. A guy he met in a coffee shop.”",
+      "start": 737,
+      "end": 804,
+      "fact": "母亲的住房两难：说再见很难，留下也难；她开始想重新装修，可装修梦被丈夫的病打断。"
+    },
+    {
+      "anchor": "“Oof. Sounds like Tyson doesn’t know what he wants.”",
+      "start": 807,
+      "end": 859,
+      "fact": "Roddie 主动提出回多伦多后跟妈妈住——Meg 心里那枚钩子被扯开。"
+    },
+    {
+      "anchor": "“You think?” He used a fork to fish a noodle from the bubbling water.",
+      "start": 862,
+      "end": 931,
+      "fact": "章末 Meg 问自己：Georgia 说的对吗？I like having an excuse to see him every day——她承认自己动摇了。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

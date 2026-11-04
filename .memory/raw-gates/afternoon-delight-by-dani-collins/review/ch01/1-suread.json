@@ -1,0 +1,79 @@
+{
+  "chapter": "ch01",
+  "corpus": "ch01_chapter_one_meg.txt",
+  "facts": [
+    {
+      "anchor": "I hadn’t suffered this much gut-crunching anxiety and loin-tingling thrill since I’d been Meg Crutcher, lying to Mom about staying at Georgia’s house on graduation night when I was actually ",
+      "start": 43,
+      "end": 284,
+      "fact": [
+        "I hadn’t suffered this much gut-crunching anxiety and loin-tingling thrill since I’d been Meg Crutcher, lying to Mom about staying at Georgia’s house on graduation night when I was actually meeting Joel at the Island Value Inn on Gorge Road.",
+        "二十一年前的毕业夜，Meg 骗母亲说住 Georgia 家，实际去 Gorge Road 的 Island Value Inn 见 Joel；这次开店的焦虑与当年同量级。"
+      ]
+    },
+    {
+      "anchor": "I slowed my rented SUV and the steering wheel grew slippery under my sweaty palms. My skin tightened with the pressure of holding in my lewd secret. My ears filled with a rushing noise. I ki",
+      "start": 287,
+      "end": 494,
+      "fact": [
+        "when I’d left my virginity in room twelve of the I.V. Inn",
+        "那次「反叛」的具体地点：I.V. Inn 十二号房——她把初夜当成「自己会长大」的仪式。"
+      ]
+    },
+    {
+      "anchor": "Screw parallel parking—I found a spot where I could nose in.",
+      "start": 497,
+      "end": 557,
+      "fact": [
+        "I put all my savings into this. If I lose it, I’m starting from nothing. At forty.",
+        "Georgia 电话里求她看店：全部积蓄押在店里，失败就四十岁从零开始；她患脊椎肿瘤（非癌）。"
+      ]
+    },
+    {
+      "anchor": "My conscience writhed with snakes that hissed, You’re being bad, but I was a grown-ass woman. I could do what I wanted.",
+      "start": 560,
+      "end": 679,
+      "fact": [
+        "Her spinal tumors weren’t cancerous, but she was in so much pain her hair had become more work than she wanted to fuss with.",
+        "Georgia 病况：肿瘤非癌但剧痛，剃光头、止痛药让她自嘲 high as a kite。"
+      ]
+    },
+    {
+      "anchor": "Which was exactly what I’d told myself twenty-one years ago, when I’d left my virginity in room twelve of the I.V. Inn.",
+      "start": 682,
+      "end": 801,
+      "fact": [
+        "I called out a high-pitched, “I’m not open!” while I turned the dial, accidentally increasing the vibration.",
+        "Meg 首次进店被巨型假体吓到，误调大震动后喊「I'm not open!」；因装了报警器没锁门，无人听见。"
+      ]
+    },
+    {
+      "anchor": "That act of rebellion was supposed to turn me into an adult. It had. Except, I’d thought growing up meant making choices for myself, when in reality, cells had met and combined and divided w",
+      "start": 804,
+      "end": 1196,
+      "fact": [
+        "“Dale is my dad. I’m Zak. Are you not Georgia?”",
+        "她把三十多岁的 Zak 当成失智房东 Dale 打招呼；他澄清 Dale 是父亲、自己叫 Zak，且 Georgia 不是她。"
+      ]
+    },
+    {
+      "anchor": "Now I was a few kilometres east of my youthful misconception. I had lied to my mother again, this time texting her that I was running an errand for Georgia.",
+      "start": 1199,
+      "end": 1355,
+      "fact": [
+        "“We own the building with Dad,” he said.",
+        "产权：Zak、妹妹 Zara 与父亲共同持有该楼；Zara 带父亲就医后，Zak 圣诞节后搬回同住。"
+      ]
+    },
+    {
+      "anchor": "It was kind of true. I had agreed to run Georgia’s store. Actually, I’d agreed to open the doors and figure out if there was a way to keep it running—even if she couldn’t come back right awa",
+      "start": 1358,
+      "end": 1561,
+      "fact": [
+        "Georgia said Zara let her skip January while she figured things out",
+        "Georgia 欠租一月、房东追问计划；街区正 gentrification，有人出价买楼（他们暂不卖）。"
+      ]
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

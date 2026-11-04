@@ -1,0 +1,55 @@
+{
+  "chapter": "ch50",
+  "corpus": "ch50_chapter_fifty_zak.txt",
+  "facts": [
+    {
+      "anchor": "Busy? Meg texted on Sunday. Feel like a visitor?",
+      "start": 47,
+      "end": 95,
+      "fact": "Zak 的周日日程：剪草、洗车（父亲看 mower/buckets 就知道是星期天、不会问要不要去店）。"
+    },
+    {
+      "anchor": "I feel like I’m stranded on an alien planet, I replied. Sure. Drop by",
+      "start": 98,
+      "end": 167,
+      "fact": "Dale 拿着钳子出门问她「Are you selling cookies?」——又一次错认。"
+    },
+    {
+      "anchor": "I was in the front yard when she pulled up twenty minutes later and parked at the edge of the lawn. She brought a six-pack from Tap That and fish tacos from a food truck we both liked.",
+      "start": 170,
+      "end": 354,
+      "fact": "Dale 仍以为 Debra 退休了、要打电话问候她。"
+    },
+    {
+      "anchor": "“I was hungry,” she explained as I popped open a couple of lawn chairs and gave her a brief kiss. “I should have asked if Dale can drink alcohol, though.”",
+      "start": 357,
+      "end": 511,
+      "fact": "坏消息双响：母亲基本同意买 condo、Georgia 即将复工——她月底就要走（Eleven days）。"
+    },
+    {
+      "anchor": "“I’ll open a beer for him. He doesn’t usually finish it.” It was great to be outside on such a nice day. I’d already mowed the lawn and washed the car. Dad was in the open garage, poking aro",
+      "start": 514,
+      "end": 723,
+      "fact": "她的账单式自供：Shelby 自己撑完高三并考进 U of C、还送 Roddie 上学、替 Joel 洗衣服。"
+    },
+    {
+      "anchor": "“Hello.” Dad came out with a pair of pliers in his hands. He smiled politely at Meg. “Are you selling cookies? Run get my wallet, Zak.”",
+      "start": 726,
+      "end": 861,
+      "fact": "她的核心遗憾：Roddie 不肯说出柜，是因为怕她「担子太重」。"
+    },
+    {
+      "anchor": "“This is Meg, Dad. She works in the shop that used to be Debra’s. You’ve met her a few times. Meg brought tacos and beer. You want some?”",
+      "start": 864,
+      "end": 1001,
+      "fact": "Zak 的告白（克制版）：I don't want you to leave now or ever. Especially not now."
+    },
+    {
+      "anchor": "Dale looked at me with confusion. “Where has Debra gone?”",
+      "start": 1004,
+      "end": 1061,
+      "fact": "他的判词：Nothing is going to change in four years, Meg. Except Dad'll be worse.——下半句没说出口的「And I would still love her」被她的手指打断。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

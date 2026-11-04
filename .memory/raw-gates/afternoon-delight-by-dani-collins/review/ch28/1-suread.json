@@ -1,0 +1,55 @@
+{
+  "chapter": "ch28",
+  "corpus": "ch28_chapter_twenty_eight_meg.txt",
+  "facts": [
+    {
+      "anchor": "I turned the page of the book I was reading and followed the randy maid and her regency master up the stairs of his London home and into his bedchamber...",
+      "start": 61,
+      "end": 215,
+      "fact": "Meg 在店里看 Zara 姐妹读的黄书（historical erotica，摄政时代女仆与主人）。"
+    },
+    {
+      "anchor": "“Close the door and take off your gown.” His tone of command made her skin tighten.",
+      "start": 218,
+      "end": 301,
+      "fact": "Zak 进门时她正读到关键处，心虚得像被抓现行。"
+    },
+    {
+      "anchor": "She obeyed quickly He stripped down to his breeches, his suspenders hanging loose. Then he pulled a long, flat box from under the bed and placed it on the bench. Opening it, he revealed seve",
+      "start": 304,
+      "end": 605,
+      "fact": "他以「更昨晚抓到你无证蹦极」打趣她的表情；她谎称那是「Zara 朋友们的读书会读物」。"
+    },
+    {
+      "anchor": "All of it. “I’m not sure,” she said hesitantly.",
+      "start": 643,
+      "end": 690,
+      "fact": "她点破书中另一段 guy-on-guy 与即将到来的 spanking。"
+    },
+    {
+      "anchor": "“Nelly.” He placed his hand on her shoulder and turned her to face him. His other hand settled at her throat, where her pulse pounded beneath his palm. “I’m allowing second chances because y",
+      "start": 693,
+      "end": 957,
+      "fact": "她想插一句自己的艳遇（翻转、含羞），被他的调情打断。"
+    },
+    {
+      "anchor": "Keeping one hand at her neck, he held up a small stone object with an olive-shaped tip and a tapered shaft, its base flared wide with a cord attached like a drawer pull.",
+      "start": 960,
+      "end": 1129,
+      "fact": "两人把话题升级到「让他别走」（他是房东的儿子、随时能回自家店）。"
+    },
+    {
+      "anchor": "“I’ve told you not to lie to me. If you do it again, I’ll put this in you and spank you until my arm tires. It will hurt like nothing you’ve ever known. Do you want that?”",
+      "start": 1132,
+      "end": 1303,
+      "fact": "Meg 让他拿 Penthouse 走时，他改口「我被正式解雇了」，并承认自己比她以为的更想要她。"
+    },
+    {
+      "anchor": "“No,” she said reflexively. Then, to be as honest as she could, added, “Not the spanking part.”",
+      "start": 1306,
+      "end": 1401,
+      "fact": "他把书留在她这里、约好「下次再来」——以物为凭的书签式约定。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

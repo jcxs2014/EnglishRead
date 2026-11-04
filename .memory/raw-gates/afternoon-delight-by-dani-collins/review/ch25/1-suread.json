@@ -1,0 +1,55 @@
+{
+  "chapter": "ch25",
+  "corpus": "ch25_chapter_twenty_five_meg.txt",
+  "facts": [
+    {
+      "anchor": "It was a long day, but finally, just after I spotted Roddie walking by the window toward the antique store, Gail texted again. Georgia is in recovery. The surgeon is happy with how it went. ",
+      "start": 59,
+      "end": 326,
+      "fact": "Gail 短信：Georgia 已进恢复室、医生满意、麻药明早退——Meg 一整天紧绷的弦松下来。"
+    },
+    {
+      "anchor": "I deflated with relief, only then realizing how much tension I’d been holding all day.",
+      "start": 329,
+      "end": 415,
+      "fact": "她提前打烊去古董店接 Roddie；Zak 抬头给了一个让她脚趾发麻的同情眼神。"
+    },
+    {
+      "anchor": "I locked up a few minutes early and walked into Twice Is Nice to get Roddie.",
+      "start": 418,
+      "end": 494,
+      "fact": "他问消息，Meg 报「在恢复，接下来是愈合与物理治疗」。"
+    },
+    {
+      "anchor": "Zak looked up from tightening some hardware on a cabinet. He gave me a compassionate look that made my toes curl.",
+      "start": 497,
+      "end": 610,
+      "fact": "Roddie 在帮 Dale 摆蕾丝垫与玻璃杯托。"
+    },
+    {
+      "anchor": "“Any news?” he asked. He’d dropped in a few times today, but I’d had a surprisingly busy day as several of Georgia’s friends had come by the shop to ask about her.",
+      "start": 613,
+      "end": 776,
+      "fact": "Georgia 的朋友们今天来店里打听情况——忙碌反而成了 Meg 的分心。"
+    },
+    {
+      "anchor": "“She’s in recovery. Now it’s healing and physio. Hopefully that goes well, too. Hey, buddy?” I looked toward Roddie, who was helping Dale place a doily and a tray of glasses onto a coffee ta",
+      "start": 779,
+      "end": 1024,
+      "fact": "她承认自己羡慕 Georgia 拥有的朋友圈（还有一句被自己打断的「我当然也很棒」）。"
+    },
+    {
+      "anchor": "He nodded and headed toward the back of the shop.",
+      "start": 1027,
+      "end": 1076,
+      "fact": "她的心里话：Georgia 会回到她的美好生活，Meg 只是帮她守住梦想——「那是她的梦想，不是我的」。"
+    },
+    {
+      "anchor": "I felt as though I was suspended in gelatin. “I spent the day pretending I wasn’t bracing for bad news. Now my adrenaline has drained away, and I want to be home on the couch with a glass of",
+      "start": 1104,
+      "end": 1324,
+      "fact": "Zak 说出判词：你喜欢被需要（like to feel needed）——三例为证：帮妈、听他的 BS、替 Georgia 守店。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

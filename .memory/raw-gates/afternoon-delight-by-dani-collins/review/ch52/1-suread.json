@@ -1,0 +1,55 @@
+{
+  "chapter": "ch52",
+  "corpus": "ch52_chapter_fifty_two_meg.txt",
+  "facts": [
+    {
+      "anchor": "Georgia was having a May Day sale. Your mom was setting up the window. Please let me show her this. #MayDay",
+      "start": 55,
+      "end": 162,
+      "fact": "新上司 Folami：PLF 小企业部出身，离婚后撤下丈夫照片、换成双胞胎与轮椅老人的合影——无言的宣言。"
+    },
+    {
+      "anchor": "Zak had added the photo of me tangled in the swing.",
+      "start": 165,
+      "end": 216,
+      "fact": "Meg 承认自己悄悄模仿她（离婚后也想「体面地继续」），并因她的离开而重投办公室。"
+    },
+    {
+      "anchor": "I looked ridiculous, but I was laughing, which made me chuckle. The sheer glow of attraction and joy on my face made me wistful. I missed him in a way that was nearly unbearable.",
+      "start": 219,
+      "end": 397,
+      "fact": "入职过程：两杯酒＋一盘 nachos 后拿到职位；她上线后四位 PLF 老客户跟着跳槽。"
+    },
+    {
+      "anchor": "Tell Mom she should wrap one of the monster dildos like a maypole.",
+      "start": 400,
+      "end": 466,
+      "fact": "Folami 的经营哲学：small businesses 与 entrepreneurs 不如 corporate 赚钱，但更 personal/challenging/rewarding。"
+    },
+    {
+      "anchor": "I wouldn’t dare. Your mother is a creative genius. She’ll get there on her own.",
+      "start": 469,
+      "end": 548,
+      "fact": "Roddie 的近况：回到旧校、周中住 Joel 家几天、 officially 住她这儿；「吃光食物量、把鞋丢在地板中间」。"
+    },
+    {
+      "anchor": "“That must be your man again. No one else makes you smile like that in the middle of the day,” my new boss, Folami, said.",
+      "start": 551,
+      "end": 672,
+      "fact": "Roddie 的一通乌龙电话：Zak 拿的是 Zara 的手机——「Offer's still open」「I hate you. What time?」"
+    },
+    {
+      "anchor": "“I wasn’t scolding. Life is short. I just wonder why you’re not there with him if he makes you happy.”",
+      "start": 708,
+      "end": 810,
+      "fact": "她的自我审判：Joel 两次出轨（第一次她留下，第二次她成为弃妇）；她曾为让 Joel 安心而隐瞒起床气。"
+    },
+    {
+      "anchor": "“Mostly because I’ve got this brand-new job I’m trying to keep,” I said wryly.",
+      "start": 813,
+      "end": 891,
+      "fact": "她写下全书主题：I felt like I was lost for twenty years. Now I want to figure out who I am when I'm not a wife and mother."
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

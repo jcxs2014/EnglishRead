@@ -1,0 +1,55 @@
+{
+  "chapter": "ch56",
+  "corpus": "ch56_chapter_fifty_six_meg.txt",
+  "facts": [
+    {
+      "anchor": "Zak told me he couldn’t get away until Saturday, when Dale was in his respite group.",
+      "start": 55,
+      "end": 139,
+      "fact": "Zak 说他周六前脱不开身（周六是 Dale 的 care home 日）；两人的对话尴尬，Meg 察觉到他的 withdrawal。"
+    },
+    {
+      "anchor": "Our conversation had been awkward. He said Zara was struggling and asked me for advice on helping with Kyle’s audit. I could tell he was reluctant to ask, though. I sensed a withdrawal of so",
+      "start": 142,
+      "end": 395,
+      "fact": "她的自我审查：是不是又想冲进去替别人修事？想被需要来证明自己可爱？想先确认他想要她？"
+    },
+    {
+      "anchor": "I almost told him I was planning to move there, but I had second thoughts. Was I, yet again, trying to rush in and fix things for other people? Was I trying to be needed to prove to myself t",
+      "start": 398,
+      "end": 688,
+      "fact": "她选择做 Georgia：试了不行就换（okay to try something and change your mind later）。"
+    },
+    {
+      "anchor": "I did want to be a support for him, though. That’s what love was. And, in the end, I channelled my inner Georgia. If Victoria didn’t work out, I would move somewhere else. It was okay to try",
+      "start": 691,
+      "end": 917,
+      "fact": "周一下午 Joel 的电话打断：儿子要去维多利亚，Joel 反对（You're not taking our son across the fucking country）。"
+    },
+    {
+      "anchor": "I flew west with Mom on Tuesday. Roddie had gone on Joel’s honeymoon with him. He and Wanda were visiting an all-inclusive in Aruba with Joel’s brother, his wife, and all the kids. School wa",
+      "start": 920,
+      "end": 1240,
+      "fact": "她搬出 custody agreement（Roddie 已到自选年龄）并反将：go ahead and run up the lawyer fees."
+    },
+    {
+      "anchor": "Having said that, my mommy radar went on high alert when Joel called me as I was putting on my shoes to meet the real estate agent on Wednesday.",
+      "start": 1243,
+      "end": 1387,
+      "fact": "Wanda 的立场被转述（taking it personally），母亲的回应是「I'll stay in Toronto then」（讽刺式让步）。"
+    },
+    {
+      "anchor": "“What’s wrong? Is Roddie okay?” I asked Joel.",
+      "start": 1390,
+      "end": 1435,
+      "fact": "她的反击：How well did I know you, Joel?——二十年账本一次结清。"
+    },
+    {
+      "anchor": "“Totally fine,” he said briskly. “But he told me you’re taking him to Victoria?”",
+      "start": 1438,
+      "end": 1518,
+      "fact": "章末 Joel 抛出真相：Wanda 又怀了双胞胎、岳母要搬来住；Meg 捂嘴憋笑——Babies are a blessing, not a joke, but come on. That was some serious karma."
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

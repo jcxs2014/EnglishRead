@@ -1,0 +1,55 @@
+{
+  "chapter": "ch22",
+  "corpus": "ch22_chapter_twenty_two_zak.txt",
+  "facts": [
+    {
+      "anchor": "I heard the bell over the door chime and stopped sanding to listen.",
+      "start": 57,
+      "end": 124,
+      "fact": "Zak 听见门铃以为是 Roddie（放学时段），停下打磨去查看；父亲正在给客人表演魔术师套路。"
+    },
+    {
+      "anchor": "Dad had launched into his magician routine with someone, so I gave my hands a quick wash and went out to find Roddie looking confused by the punchline.",
+      "start": 127,
+      "end": 278,
+      "fact": "他向 Dale 介绍 Roddie 与 Meg，提起隔壁的 Meg 时把父亲吓一跳。"
+    },
+    {
+      "anchor": "“Layaway is how people used to buy things in olden times,” I explained. “Like a loan, but you had to pay it off before you took your purchase home.”",
+      "start": 281,
+      "end": 429,
+      "fact": "Dale 记得的是「卖儿童玩具的店」——他为自己搞错而尴尬。"
+    },
+    {
+      "anchor": "“Oh. I get it now. That’s pretty funny,” he told Dale.",
+      "start": 432,
+      "end": 486,
+      "fact": "Roddie 吐槽「你以为你尴尬」，并说只是好奇来看看。"
+    },
+    {
+      "anchor": "“Dad, this is Roddie.” I reminded him that they’d met before and told him where, then mentioned Meg next door.",
+      "start": 489,
+      "end": 599,
+      "fact": "Zak 像上回那样先去把工具收进工作间（吸取教训）。"
+    },
+    {
+      "anchor": "“Not Debra. The toy store,” Dad said, chuckling and scratching the back of his head. He turned to Roddie. “How embarrassing—I thought she was selling toys for kids.”",
+      "start": 602,
+      "end": 767,
+      "fact": "锁好柜子回来，父亲正在对 Roddie 讲「People can't buy it if they can't see it」——把货架往橱窗挪。"
+    },
+    {
+      "anchor": "“You think you’re embarrassed,” Roddie muttered out of the side of his mouth.",
+      "start": 770,
+      "end": 847,
+      "fact": "Roddie 靠口香糖机、父子翻老爷车杂志；Zak 借机跟 Meg 单独说笑。"
+    },
+    {
+      "anchor": "Better, I supposed. “Did your mom send you over for something?”",
+      "start": 901,
+      "end": 964,
+      "fact": "章末是 Dented Hearts Club 成立：第一项议程「no social media stalking」，两人瓶口相碰。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,37 @@
+{
+  "chapter": "ch05",
+  "corpus": "ch05_chapter_five_meg.txt",
+  "facts": [
+    {
+      "anchor": "It’s not like it never snowed in Toronto. Winters there were biting.",
+      "start": 45,
+      "end": 113,
+      "fact": "Zara 揭底：Zak 与她是双胞胎（「They’re twins」）——Meg 立刻喊出「Zak」，Georgia 药物上头挂断。"
+    },
+    {
+      "anchor": "But it was the story of my entire childhood that I would lose a good hair day to a drippy, mashed-potato day like today. There were always enough mild, sunny days in February to have you bel",
+      "start": 116,
+      "end": 392,
+      "fact": "Georgia 教她情人节前必须重做橱窗（before Easter）、别用巧克力（晒化＝发错信号）。"
+    },
+    {
+      "anchor": "Not that my looks mattered. My dishy neighbour wasn’t at work yet. There was a sign in the Twice Is Nice window that hadn’t been there yesterday: “If we’re here, we’re open. If we’re not, we",
+      "start": 395,
+      "end": 597,
+      "fact": "她把橱窗拍下来发给 Georgia 求经营建议；Georgia 说顾客要的是「让人自在」。"
+    },
+    {
+      "anchor": "I refused to be disappointed. I was on a journey to love myself. I had no interest in starting up with any man, especially a younger one. Even a cute, funny one.",
+      "start": 600,
+      "end": 761,
+      "fact": "Ali 是 Brim Stokers 的咖啡师兼常客——两人「各做功课、交换笔记」成交第一单。"
+    },
+    {
+      "anchor": "Unfortunately, I came from a bloodline of co-dependents. We found our value in serving others. That’s why I had brought our snow shovel to work and quickly pushed the layer of slush off the ",
+      "start": 764,
+      "end": 1010,
+      "fact": "Georgia 短信教她：节日可以换花样、但别用加味的——「People will lick it.」（condom tree 之谜的答案）"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

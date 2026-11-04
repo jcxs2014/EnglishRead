@@ -1,0 +1,55 @@
+{
+  "chapter": "ch18",
+  "corpus": "ch18_chapter_eighteen_meg.txt",
+  "facts": [
+    {
+      "anchor": "Mom agreed to the stereo cabinet being rehomed. When I told Georgia, she remembered it and was as excited as I was.",
+      "start": 53,
+      "end": 168,
+      "fact": "母亲同意把旧唱柜让给店里，Georgia 听到同样兴奋。"
+    },
+    {
+      "anchor": "While I waited for Zak to show up, Georgia and I had a good chat about how well the event had gone and how steady the store traffic had been on Friday and Saturday.",
+      "start": 171,
+      "end": 335,
+      "fact": "等 Zak 时她与 Georgia 聊活动效果与周五周六客流。"
+    },
+    {
+      "anchor": "“It’ll slow down. People get their toys and stay home to play with them. They forget about the shop for a while,” Georgia said. She’d worked at an adult toy store when she lived in Californi",
+      "start": 338,
+      "end": 601,
+      "fact": "Georgia 泼冷水：买过玩具的人会回家玩一阵、把店忘了——她在加州成人店做过，产品知识从此而来。"
+    },
+    {
+      "anchor": "“It’s like they’re only in it for one thing,” I complained.",
+      "start": 604,
+      "end": 663,
+      "fact": "Georgia 追问「你跟 Zara 的哥哥在搞什么」，Gail 说 Meg 在调情。"
+    },
+    {
+      "anchor": "“Right? Hey, what are you up to with Zara’s brother? Gail said you two were flirting.”",
+      "start": 666,
+      "end": 752,
+      "fact": "Meg 告诉 Gail 她答应在手术那天陪她，Gail 却说 Georgia 希望她留下看店。"
+    },
+    {
+      "anchor": "“I sold him a couple of toys. It was completely professional. But he’ll be here soon to pick up my stereo.”",
+      "start": 755,
+      "end": 862,
+      "fact": "Zara 带姑妈来取东西，Meg 答应稍后补发唱柜照片。"
+    },
+    {
+      "anchor": "“Is that a euphemism for sex? Like hauling your ashes? I should let you go, then.”",
+      "start": 865,
+      "end": 947,
+      "fact": "Georgia 让 Meg 代接 Negasi 的创业咨询（他想找 Georgia 取经）。"
+    },
+    {
+      "anchor": "“It should be, shouldn’t it? No, I have time if you want to keep talking.” I didn’t want to prod her with How are you feeling? but I really wanted to know.",
+      "start": 950,
+      "end": 1105,
+      "fact": "Negasi 从温哥华来，在西区有一家又小又赚钱的店，同时坚持每周演 drag 谋杀悬疑剧。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch43",
+  "corpus": "ch43_chapter_forty_three_meg.txt",
+  "facts": [
+    {
+      "anchor": "That week, Zak texted me a few times, and I brought him and Dale lunch twice, but it sounded like Dale was out of sorts after his day at the care home. They came to work late and left early,",
+      "start": 59,
+      "end": 310,
+      "fact": "那周 Zak 短信不断、她送过两次午饭，但 Dale 从 care home 回来后一直不对劲（晚到早走）。"
+    },
+    {
+      "anchor": "I was missing Zak and trying not to be bothered by it, so I concentrated instead on what Georgia had said—that there’s no right answer. I understood Zak’s situation and didn’t expect more fr",
+      "start": 313,
+      "end": 726,
+      "fact": "Meg 复盘 Georgia 那句「没有正确答案」：她懂 Zak 的处境、不索取他给不了的东西。"
+    },
+    {
+      "anchor": "I wished I could be more like Georgia and go with the flow. I’d learned to do that in some respects. As a mom, I had to make adjustments on the fly. Same when Dad had been in treatment. Best",
+      "start": 729,
+      "end": 1040,
+      "fact": "她的接线式思维：他不承诺，我也不承诺；不承诺是否干脆别开始。"
+    },
+    {
+      "anchor": "Ugh. Maybe that’s what was really bothering me. I was starting to really like Zak. Really, really.",
+      "start": 1043,
+      "end": 1141,
+      "fact": "她羡慕 Georgia 那种随波逐流——她自己当妈、当病父家属时练出的「on the fly」能力。"
+    },
+    {
+      "anchor": "My phone dinged as I was helping a customer. I patiently waited until they’d decided on a cock ring and bagged it up for them.",
+      "start": 1144,
+      "end": 1270,
+      "fact": "真正的病灶被点名：她 Really, really 开始喜欢 Zak 了。"
+    },
+    {
+      "anchor": "“Have a good day.” I waved them out, then saw the text was from Roddie, telling me he was next door.",
+      "start": 1273,
+      "end": 1373,
+      "fact": "她给 Roddie 发消息问「Want to run over for scones?」，等了一分钟。"
+    },
+    {
+      "anchor": "I’m hungry, I texted him. Feel like running over for scones?",
+      "start": 1376,
+      "end": 1436,
+      "fact": "Roddie 的回信成了本章结尾：Zak asked me to stay with Dale. His exit is here.（他改了错字）"
+    },
+    {
+      "anchor": "It took a full minute before he answered.",
+      "start": 1439,
+      "end": 1480,
+      "fact": "Meg 对着空店念出「What?」——悬念挂在「exit」这个双关上。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

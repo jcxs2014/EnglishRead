@@ -1,0 +1,55 @@
+{
+  "chapter": "ch32",
+  "corpus": "ch32_chapter_thirty_two_meg.txt",
+  "facts": [
+    {
+      "anchor": "Joining Zara and her book club gave me an excuse to visit Tap That across the street. I dropped Roddie off at home first and then caught an Uber back so I could have more than one beer. Zara",
+      "start": 57,
+      "end": 321,
+      "fact": "Zara 邀 Meg 参加读书会，实为去街对面的 Tap That 喝一杯（她把 Roddie 送回家再打车过去，为了多喝几杯）。"
+    },
+    {
+      "anchor": "“Everyone else will be here shortly. How are you? How’s the store? How’s Georgia?” Zara asked.",
+      "start": 324,
+      "end": 418,
+      "fact": "Zara 一开口三连问：How are you / How's the store / How's Georgia。"
+    },
+    {
+      "anchor": "“Good, good, and good.” I hung my jacket on the hook between the booths and sat down next to Imani.",
+      "start": 421,
+      "end": 520,
+      "fact": "Meg 提议把店改成无障碍（wheelchair accessible）——Georgia 下周开始康复、预后能再走路，而门口台阶会挡住目标客群。"
+    },
+    {
+      "anchor": "“Before I forget, can we talk about making the store wheelchair accessible?” I asked Zara. “Georgia’s starting rehab next week, and her prognosis is that she’ll walk again, but I’m looking i",
+      "start": 523,
+      "end": 895,
+      "fact": "Zara 说这事聊过几次但从未列为优先，答应叫 Kyle 来看。"
+    },
+    {
+      "anchor": "“We’ve talked about it a few times, but we’ve never made it a priority. I’ll ask Kyle to drop by,” Zara promised. “Zak said your son comes into the antique shop after school, the way we used",
+      "start": 898,
+      "end": 1159,
+      "fact": "Zara 提起「Zak said your son comes into the antique shop after school」——她记得这个细节。"
+    },
+    {
+      "anchor": "“He is. And I just got a text from my daughter saying she’s coming for spring break.” I gave a small clap of excitement. “She’s driving from Calgary and stopping in Kelowna to see some frien",
+      "start": 1162,
+      "end": 1470,
+      "fact": "Imani 说长女今年秋去 Dalhousie：她数着日子等了多年，真到跟前反而想吐。"
+    },
+    {
+      "anchor": "“My oldest leaves for Dalhousie this fall,” Imani said glumly. “Part of me has been counting down to that for years. I thought I was ready for the hands-on child-rearing to end, but the more",
+      "start": 1473,
+      "end": 1782,
+      "fact": "Meg 敬酒自白：父亲病中、离婚战壕、职场破事让她与朋友失联——「I forgot to hang out with women who swear」。"
+    },
+    {
+      "anchor": "“Right? We’ve spent eighteen years teaching them to eat right and do laundry. We know damn well they weren’t listening.” I thanked the server who arrived with my cloudy IPA. “Thank you for i",
+      "start": 1785,
+      "end": 2229,
+      "fact": "这句敬酒词被当场征用为群名，Zara 喊「Fuck yes」碰杯定案。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch27",
+  "corpus": "ch27_chapter_twenty_seven_meg.txt",
+  "facts": [
+    {
+      "anchor": "That night, we went to see the Pretty Please drag show for Mom’s birthday. Negasi had told me they didn’t allow young children because crying babies and free-range toddlers ruined dinner the",
+      "start": 61,
+      "end": 313,
+      "fact": "母亲生日夜去看 Pretty Please drag show（Negasi 说他们不接待幼儿与哭闹的孩子）。"
+    },
+    {
+      "anchor": "Roddie liked music, theatre, and free meals, so there were no complaints from him, not even when I asked him to dress up. He put on clean black jeans, a white button-down shirt, and one of m",
+      "start": 316,
+      "end": 788,
+      "fact": "Roddie 主动配合打扮：黑牛仔裤、白衬衫、外公那条宽得离谱的绿粉 paisley 领带、八十年代的薄荷绿西装。"
+    },
+    {
+      "anchor": "The dinner was a riot. The show was loosely based on Little Women, where all the campy dialogue served as setup for performers to burst into songs by Lady Gaga, Adele, Rihanna, and Taylor Sw",
+      "start": 791,
+      "end": 1103,
+      "fact": "母亲对双温莎结的抱怨刚出口就自己动手替他重系。"
+    },
+    {
+      "anchor": "It was such a delight we wouldn’t have cared if the food had been terrible, but it was delicious. When they brought out Mom’s dessert, there was a sparkler in it, and the performers gathered",
+      "start": 1106,
+      "end": 1365,
+      "fact": "表演因灾难性的 wardrobe malfunction 停摆——演员围成一圈，母亲自荐「I'm a doctor's wife. I can sew.」"
+    },
+    {
+      "anchor": "“Thank you.” I caught Nina Rhinestone’s eye as the performers started to disperse.",
+      "start": 1368,
+      "end": 1450,
+      "fact": "全场哄笑、Nina 请她上台缝合；她下台时眼里放光：「It's like the Oscars.」"
+    },
+    {
+      "anchor": "“I thought it was going to be lip-sync, but you’re all really good singers,” Roddie said.",
+      "start": 1523,
+      "end": 1612,
+      "fact": "母亲因此要把自己 notions 与手作材料送给剧团——手艺从橱窗走向舞台。"
+    },
+    {
+      "anchor": "“We are, aren’t we?” Nina flashed a smile.",
+      "start": 1615,
+      "end": 1657,
+      "fact": "Roddie 从洗手间拿来一张 LGBTQIA+ 青少年俱乐部卡片问 Nina「legit?」——她给出内行背书。"
+    },
+    {
+      "anchor": "“Can I ask you something? I took one of these from the bathroom.” Roddie showed Nina a card he drew from his pocket. “Do you know if it’s legit?”",
+      "start": 1660,
+      "end": 1805,
+      "fact": "Meg 意识到儿子在自己走自己的路（出柜、同伴、俱乐部），她只须不添乱。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch58",
+  "corpus": "ch58_epilogue_four_years_later.txt",
+  "facts": [
+    {
+      "anchor": "I was not quite the magnanimous taker of the high road that my mother was. I did not invite Joel and his family into my home for Roddie’s high school graduation party. Instead, I had Mom boo",
+      "start": 69,
+      "end": 339,
+      "fact": "四年后：她不是母亲那种走高路的人——Roddie 的毕业宴办在母亲的 condo 多功能厅（外烩），不请 Joel 一家进门。"
+    },
+    {
+      "anchor": "Thankfully, the weather was great. The younger kids ran out onto the small lawn. Zara’s older kids hovered around Gail’s teenagers. Ollie and Freddie played tag, while Jade mothered Joel’s t",
+      "start": 342,
+      "end": 602,
+      "fact": "场面：小孩在草坪追跑、Jade 带着 Joel 的双胞胎与 Zara 的幼女 Ester 守泡泡站。"
+    },
+    {
+      "anchor": "Zak and I loved to pretend Ester was ours for an hour here and there, along with the rest of Zara’s brood, but we had never felt moved to try making one of our own.",
+      "start": 605,
+      "end": 769,
+      "fact": "她与 Zak 假装 Ester 是自己的（一小时限定），但从未动过自己生的念头。"
+    },
+    {
+      "anchor": "Zak sat at a table near the door with Dale in the chair beside him. I hadn’t seen Shelby arrive with her boyfriend, Aaron, so I was surprised when I glanced over and saw her sitting with the",
+      "start": 772,
+      "end": 964,
+      "fact": "Zak 与 Dale 坐在门口的桌子旁；Shelby 与男友 Aaron 同席。"
+    },
+    {
+      "anchor": "“We all deserve fireworks in the bedroom,” I overheard Mom say in a tone I recognized as her not-to-be-messed-with voice. “Why would I be ashamed to convey that in a creative way?”",
+      "start": 967,
+      "end": 1147,
+      "fact": "母亲的卧室烟花论（We all deserve fireworks in the bedroom）当场怼退 Aunt Linda。"
+    },
+    {
+      "anchor": "I paused while filling the plates I was making for Zak and Dale, thinking we were about to get a display of fireworks right here and now.",
+      "start": 1150,
+      "end": 1287,
+      "fact": "照护终局：toaster 险起火、忘了剪刀怎么用；古董店已关、Georgia 与 Bruno 有优先购买权；每周三班 12 小时夜班护工。"
+    },
+    {
+      "anchor": "When I met Georgia’s gaze across the room, she set her hand on Bruno’s wrist—a silent request he pause what he was saying so she could listen and come to Mom’s defense if necessary.",
+      "start": 1290,
+      "end": 1471,
+      "fact": "她最痛的一击：他从没学会她的名字，如今当她是「不知何时出现的好心陌生人」。"
+    },
+    {
+      "anchor": "Negasi had taken note, too. He had made a special trip over from Vancouver where he had a tiny, profitable, and very beloved shop in the West End, yet still found time to perform weekly in a",
+      "start": 1474,
+      "end": 2055,
+      "fact": "求婚发生在通心粉沙拉旁：Sometimes I think about asking you to marry me.——If the answer is no, then I'm definitely joking；然后 Dale 抢雷大喊 She said yes!"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

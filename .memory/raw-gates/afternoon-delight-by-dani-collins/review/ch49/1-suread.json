@@ -1,0 +1,55 @@
+{
+  "chapter": "ch49",
+  "corpus": "ch49_chapter_forty_nine_meg.txt",
+  "facts": [
+    {
+      "anchor": "On Sunday, Mom asked me to go with her to Barbara’s. Her neighbour was donating some small furniture items to the thrift store, but they were too big for either of their sedans.",
+      "start": 57,
+      "end": 234,
+      "fact": "母亲带 Meg 去 Barbara 家——邻居要捐小家具给旧货店，两辆轿车都装不下。"
+    },
+    {
+      "anchor": "Barbara’s apartment was only ten minutes from Mom’s, but I’d never been there. Mom directed me to visitor parking beneath an L-shaped condo building.",
+      "start": 237,
+      "end": 386,
+      "fact": "母亲的旧情报：Barbara 每有单元空出就问她搬不搬；父亲病初时两人看过，她拒绝（当时要放手的东西已太多）。"
+    },
+    {
+      "anchor": "“This is a nice place. Have you thought about moving here?” I asked.",
+      "start": 389,
+      "end": 457,
+      "fact": "Barbara 的真实动机：带看 Isabella 的公寓（与自家互为镜像）；Isabella 要搬去 Kelowna 投妹妹。"
+    },
+    {
+      "anchor": "“Barbara asks me that me every time a unit becomes available. Your father and I looked at some of them when he first got sick. He wanted us to downsize while he was still alive so I wouldn’t",
+      "start": 460,
+      "end": 791,
+      "fact": "Isabella 的处境：带着氧气瓶、不能铺地毯（花粉）、因此买了有 sunroom 的单元。"
+    },
+    {
+      "anchor": "I bit my tongue, accepting that Mom would have to make her own decision when she was ready.",
+      "start": 794,
+      "end": 885,
+      "fact": "她的二十年：pastry chef，仍爱烘焙，但久站不住。"
+    },
+    {
+      "anchor": "Barbara buzzed us up to her third-floor condo. The living room opened onto a large balcony brimming with flowerpots and had a lovely view of the communal garden where colourful tulips were b",
+      "start": 888,
+      "end": 1086,
+      "fact": "母亲的实务三连问：窗能不能开、硬木地板会不会吵、月费多少——全是无人能代答的细节。"
+    },
+    {
+      "anchor": "“Bill is golfing, otherwise he’d be here to help us. It’s nice to see you again, Meg. How, um... how are things at the shop?” Barbara met my eyes with a brave refusal to be embarrassed.",
+      "start": 1089,
+      "end": 1274,
+      "fact": "Barbara 补刀：楼里有 guest suite（studio+小厨房，圣诞与夏季要早订）。"
+    },
+    {
+      "anchor": "“Georgia is going to start coming back to work this week, so I’ll be leaving soon.”",
+      "start": 1307,
+      "end": 1390,
+      "fact": "离开时母亲与 Isabella 已握手成交、拿到 right of first refusal——三十分钟的效率。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

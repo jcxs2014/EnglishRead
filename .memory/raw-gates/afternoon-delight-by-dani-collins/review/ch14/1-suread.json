@@ -1,0 +1,37 @@
+{
+  "chapter": "ch14",
+  "corpus": "ch14_chapter_fourteen_meg.txt",
+  "facts": [
+    {
+      "anchor": "You quit your job to sell sex toys? Shelby texted as I was opening the store the next morning.",
+      "start": 53,
+      "end": 147,
+      "fact": "Meg 说出与 Zak 的联结：I like him, but we're just friends. She's damn sure right."
+    },
+    {
+      "anchor": "“Really, Roddie?” I muttered under my breath.",
+      "start": 150,
+      "end": 195,
+      "fact": "母亲的侦查式提问「Did you wash your face?」与 Meg 的辩解（Georgia 恢复得好但累了）——她在餐桌上把「见过 Zak」说成实话。"
+    },
+    {
+      "anchor": "Yes, I texted Shelby. I’m busy doing that right now. Long day today. I’ll call tomorrow.",
+      "start": 198,
+      "end": 286,
+      "fact": "Zak 说哥哥不能跟 Zara 说（她会难受），所以买咖啡站着跟她倒苦水。"
+    },
+    {
+      "anchor": "Then I texted Roddie before I finished my opening routine.",
+      "start": 289,
+      "end": 347,
+      "fact": "Meg 指出「你已经送我一本 Penthouse 了」，并说有人来问过——她让对方去敲三下门找 Zak。"
+    },
+    {
+      "anchor": "It didn’t really bother me that he’d ratted me out. I was glad my kids were close enough to share secrets with each other. I had always wanted a sibling and always worried I’d waited too lon",
+      "start": 364,
+      "end": 721,
+      "fact": "她送 Roddie 上学时听见同学叫他「Mr. Roddie」——青春期的新身份与旧名字并存。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

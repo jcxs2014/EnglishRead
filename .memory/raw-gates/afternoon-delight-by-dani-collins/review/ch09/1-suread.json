@@ -1,0 +1,37 @@
+{
+  "chapter": "ch09",
+  "corpus": "ch09_chapter_nine_zak.txt",
+  "facts": [
+    {
+      "anchor": "My sister walked in the back door while I was making a salad to go with the shepherd’s pie I’d already put in the oven. I wasn’t exactly Wolfgang Puck, but I’d lived alone a lot, and Erica w",
+      "start": 45,
+      "end": 514,
+      "fact": "Zak 提到 Erica 的公寓处置——「Not since she asked me what I want to do with the condo.」"
+    },
+    {
+      "anchor": "“Hi.” Zara left her boots on the mat and draped her damp jacket over the back of a chair.",
+      "start": 536,
+      "end": 625,
+      "fact": "Zara 从后门进屋（他在烤 shepherd's pie）；他自称不是 Wolfgang Puck——早年独居时靠预算烹饪课学的做饭。"
+    },
+    {
+      "anchor": "“Hey, Dad,” she called, poking her head into the living room just long enough to see he was engrossed in his game shows. “Doing okay? Need anything?”",
+      "start": 628,
+      "end": 777,
+      "fact": "Zara 顺手拿他的啤酒罐喝了两口（得赶去接上舞蹈课的女儿 Jade）。"
+    },
+    {
+      "anchor": "“A better noggin,” Dad said, same as he’d been saying since his diagnosis. Then he blurted, “Clavell,” at the TV, and I once again wondered why we were even worried about him.",
+      "start": 780,
+      "end": 955,
+      "fact": "十年来她的「顺路看一眼」让 Zak 意识到压在妹妹肩上的重量有多沉。"
+    },
+    {
+      "anchor": "“You want a beer or something?” I offered as she came back into the kitchen.",
+      "start": 958,
+      "end": 1034,
+      "fact": "他提到 Erica 只问过公寓处置——「Not since she asked me what I want to do with the condo.」"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

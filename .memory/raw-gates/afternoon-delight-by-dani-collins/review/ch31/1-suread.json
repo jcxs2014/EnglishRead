@@ -1,0 +1,55 @@
+{
+  "chapter": "ch31",
+  "corpus": "ch31_chapter_thirty_one_meg.txt",
+  "facts": [
+    {
+      "anchor": "On Monday, Mom came by the shop to give it a spring makeover. She’d picked up a clear umbrella printed with rainbows, some silk tulips from the thrift store, and a pair of bright yellow rubb",
+      "start": 57,
+      "end": 256,
+      "fact": "周一母亲来店里做春季改造：彩虹透明伞、丝质郁金香、明黄雨靴。"
+    },
+    {
+      "anchor": "She arranged a few shower toys with a book on natural aphrodisiacs and some colourful tubes of lube. Her sign read: Have fun! Get wet!",
+      "start": 259,
+      "end": 393,
+      "fact": "母亲在 Meg 提搬家时总是「big and heavy」地叹气：「This is where I live, Meg.」"
+    },
+    {
+      "anchor": "“You could start a business doing this, you know.”",
+      "start": 396,
+      "end": 446,
+      "fact": "母亲与 Dale 打招呼「It's nice to see you again」，Dale 却脱口叫出「Debra」——笑容垮掉、环顾茫然。"
+    },
+    {
+      "anchor": "“I doubt it.” She reached into the display to adjust the angle of a boot. “People don’t even go into stores anymore.”",
+      "start": 449,
+      "end": 566,
+      "fact": "Meg 从容自我介绍「I'm your new neighbour, Meg」，并替母亲认领「This is my mom, Vickie」。"
+    },
+    {
+      "anchor": "“I’m retired. People would think I’m broke and taking the only work I can get.”",
+      "start": 609,
+      "end": 688,
+      "fact": "母亲用怀旧语气提起 rail yard 边的 diner——「我们常去的那些地方」。"
+    },
+    {
+      "anchor": "“Screw what people think. If you like doing it, do it. It’s flexible. You could take only the clients you like and only as many as you want.”",
+      "start": 691,
+      "end": 832,
+      "fact": "Dale 想起儿子说「the toy store」，并自嘲当年以为她卖儿童玩具。"
+    },
+    {
+      "anchor": "She waved her hand in dismissal. “I already work at the thrift store.”",
+      "start": 835,
+      "end": 905,
+      "fact": "Zak 在门口看见父亲迷路，出面解释「Debra retired so now Meg is in this shop」——Zara 却被父亲错认成 Mom。"
+    },
+    {
+      "anchor": "“Because I have friends there.” I could see the little hamster in her head running in its wheel, though.",
+      "start": 943,
+      "end": 1047,
+      "fact": "Meg 意识到自己的位置：Georgia 即将回来，她得开始想「自己以后做什么」。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

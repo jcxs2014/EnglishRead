@@ -1,0 +1,55 @@
+{
+  "chapter": "ch21",
+  "corpus": "ch21_chapter_twenty_one_meg.txt",
+  "facts": [
+    {
+      "anchor": "Mom had unearthed a few choice pieces from the thrift shop, so she was busy arranging them while I was unpacking shipments in the storage room—receiving packages, as Zak would put it.",
+      "start": 57,
+      "end": 240,
+      "fact": "母亲从旧货店淘来好东西在店里布置，Meg 在后仓拆包裹（Zak 称之为 receiving packages）。"
+    },
+    {
+      "anchor": "I was still tender from last night’s friction burns and kind of dying to tell him. When I heard the door at the front of the shop, I half-expected it was him, but it was a woman’s voice.",
+      "start": 243,
+      "end": 429,
+      "fact": "Barbara 推门进来就问「你怎么知道我在这儿」——故作镇定的语气。"
+    },
+    {
+      "anchor": "“Oh.” The voice had a tense, stridently cheerful tone. “Hello, Vickie.”",
+      "start": 432,
+      "end": 503,
+      "fact": "Meg 认出她是父亲生病时���来、父亲葬礼也见过的母亲旧友。"
+    },
+    {
+      "anchor": "“Barbara.” Mom sounded equally nonplussed. “How did you know I was here?”",
+      "start": 506,
+      "end": 579,
+      "fact": "Barbara 的装扮（灰 perm、假毛外套扣到下巴）透着一股「进错地方」的僵硬。"
+    },
+    {
+      "anchor": "I came out from the back to see one of Mom’s friends from the thrift store. They’d all come by the house at different times when Dad had been ill, and I’d seen them all again later, at his s",
+      "start": 596,
+      "end": 793,
+      "fact": "Meg 给她台阶：这是 Georgia 的店、不是 Debra 的缝纫店，她只是来帮忙。"
+    },
+    {
+      "anchor": "“Oh, Meg. Hello. It’s nice to see you again.” Barbara gave off a matronly vibe—plump with glasses, her hair a short gray perm. Her faux-fur jacket was buttoned to her chin. Usually, she was ",
+      "start": 824,
+      "end": 1155,
+      "fact": "Barbara 用现金付了毛绒手铐的钱，Meg 顺手送了两只试用装——两人成了共犯。"
+    },
+    {
+      "anchor": "I took pity on her and offered an exit ramp. “Did you think this was still Debra’s shop? The quilting store? She’s been gone a while. My friend Georgia owns this shop now. I’m helping out.”",
+      "start": 1158,
+      "end": 1347,
+      "fact": "母亲僵硬地辩解「我早跟你说了」——她怕的不是失业，是被人议论。"
+    },
+    {
+      "anchor": "“Oh. Um, no. Um...” Barbara turned bright pink but drew a piece of paper from her pocket. “My husband cut this out of the paper. He asked me to pick up these?” She used her thumbnail to indi",
+      "start": 1350,
+      "end": 1616,
+      "fact": "Barbara 旧怨：当年差点以「非法左转」报警抓她（赶花园导览迟到），母亲的报复是「告诉所有人我们进来的那一刻」。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

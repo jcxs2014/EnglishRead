@@ -1,0 +1,55 @@
+{
+  "chapter": "ch23",
+  "corpus": "ch23_chapter_twenty_three_meg.txt",
+  "facts": [
+    {
+      "anchor": "I had hoped Zak would show up with coffee and some afternoon banter, but instead, I got a text from Roddie that said, I’m next door.",
+      "start": 61,
+      "end": 193,
+      "fact": "Meg 盼 Zak 带咖啡来，收到的是 Roddie 的短信：我在隔壁。"
+    },
+    {
+      "anchor": "I was disappointed that neither my son nor my convenient flirt came to see me before closing, but I had enough work and customers to keep me from dwelling on being left out.",
+      "start": 196,
+      "end": 369,
+      "fact": "回程路上她盘问 Roddie 在 Zak 家的情况（pump Roddie for an inside view）。"
+    },
+    {
+      "anchor": "Also, I managed to pump Roddie for an inside view of Zak’s life while we drove home—not that I did it on purpose.",
+      "start": 372,
+      "end": 485,
+      "fact": "Roddie 说他们隔着一扇窗看遛狗女士硬把狗塞进车，两人笑到内伤。"
+    },
+    {
+      "anchor": "“What’d you do over there for two hours?”",
+      "start": 488,
+      "end": 529,
+      "fact": "Roddie 复述 Zak 的导购词：百万年前铁匠当牙医、铅做的东西会烂脑——story 销售法的来源。"
+    },
+    {
+      "anchor": "“Nothing much. Zak’s office window looks out at the dog grooming place around the corner. There was a lady who couldn’t get her dog into her car. Me and Zak were pissing ourselves watching h",
+      "start": 532,
+      "end": 769,
+      "fact": "她担心 Dale 对 Roddie 有意见，但判断 Zak 不会赶人走（且大概乐有人陪）。"
+    },
+    {
+      "anchor": "“You should see if they have a dresser you like.” I could pick something up at a garage sale, but I felt like Twice Is Nice could use the business.",
+      "start": 772,
+      "end": 919,
+      "fact": "关键情报：Dale 一直把 Roddie 叫成 Kyle（帮她搬唱柜的那位）。"
+    },
+    {
+      "anchor": "“I looked at one he needs to refinish. Everything he shows me, Zak is like, ‘Hey, did you ever see one of these? It’s from a million years ago, when blacksmiths were dentists. It’s made of l",
+      "start": 922,
+      "end": 1167,
+      "fact": "Zak 安慰：Dale 大概不会记得 Roddie 不喜欢女生，别往心里去；Roddie 顺势说了 Tyson 与 Bethany 的事。"
+    },
+    {
+      "anchor": "“Was Dale okay with you being there?” I trusted Zak would’ve kicked Roddie out if it had been an issue, but I suspected he actually enjoyed the company. It had to be hard, staying on guard a",
+      "start": 1170,
+      "end": 1384,
+      "fact": "车上 Meg 用 Queen Bee 口吻追问「他喜不喜欢我」，Roddie 答：你要是喜欢他，我不会恨你的——恰是她当年对母亲说过的话。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

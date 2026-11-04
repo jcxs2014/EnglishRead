@@ -1,0 +1,49 @@
+{
+  "chapter": "ch16",
+  "corpus": "ch16_chapter_sixteen_zak.txt",
+  "facts": [
+    {
+      "anchor": "Meg turned with a kill-me-now expression. “Hi.”",
+      "start": 51,
+      "end": 98,
+      "fact": "Zak 进门先朝妹妹与 Imani 点头致意，眼睛落回 Meg——他从摆台灯那天起就习惯了这样（她马尾没散、说明一整天没歇）。"
+    },
+    {
+      "anchor": "God, she was pretty when she was flustered.",
+      "start": 101,
+      "end": 144,
+      "fact": "他用「Where should I undress?」化解 Meg 提到他时的慌张（她借 Georgia 之名介绍他）；她仰头大笑，Zara 皱眉看他。"
+    },
+    {
+      "anchor": "One of the things I liked most about her was that expressiveness in her face. All of her thoughts and emotions were right there to be read with ease. It made talking to her really fun.",
+      "start": 147,
+      "end": 331,
+      "fact": "他抱怨对街太吵（听不见挂钟声），其实是在抱怨自己只能隔着一条街看她—— bull-in-a-china-shop 的闯入式靠近。"
+    },
+    {
+      "anchor": "“Hi.” I suppressed a chuckle, gave a nod to include my sister and Imani in my greeting, and looked back at Meg.",
+      "start": 334,
+      "end": 445,
+      "fact": "Zara 走向 erotica 书架，问 Meg 能否为三人各订一本并加入共读；Meg 立刻报名「酒精助燃的性讨论」。"
+    },
+    {
+      "anchor": "Her hair was still in a ponytail and she hadn’t changed, which meant she’d been here all day without a break. I’d been glad to have another excuse to see her today, but perhaps showering, tr",
+      "start": 448,
+      "end": 701,
+      "fact": "Zara 想起 Kyle 嘱咐她登记抽奖，径直走向柜台——她清楚自家店的流程。"
+    },
+    {
+      "anchor": "“Are you going on a date?” Zara asked, puzzled.",
+      "start": 704,
+      "end": 751,
+      "fact": "Meg 查出 Zak 一直用「Favourite Uncle, Only Uncle」的 T 恤；他的自我介绍里藏着「我还没有自己的家」。"
+    },
+    {
+      "anchor": "“Did Meg not tell you?” I ignored how transparent I felt and deflected with, “She’s going to demonstrate the vibrators on me. Where should I undress?” I asked Meg.",
+      "start": 754,
+      "end": 917,
+      "fact": "两人的长对视被作者定性：「We were definitely into each other」——七分笑意、三分打量，双向确认第一次落定。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

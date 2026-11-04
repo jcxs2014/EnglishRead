@@ -1,0 +1,55 @@
+{
+  "chapter": "ch24",
+  "corpus": "ch24_chapter_twenty_four_meg.txt",
+  "facts": [
+    {
+      "anchor": "I got myself pretty agitated over it, convinced something had happened to Dale. I knew I was making a mountain out of a molehill. My anxiety was really more about Georgia. She was travelling",
+      "start": 99,
+      "end": 482,
+      "fact": "她为 Zak 的缺席焦虑（以为 Dale 出事了），随即自省这是小题大做——真正焦虑的对象是今天入院的 Georgia。"
+    },
+    {
+      "anchor": "Later that afternoon, I heard the truck beeping as it backed into the receiving bay. Next time, I’d remember to check for it before letting my imagination run wild.",
+      "start": 586,
+      "end": 750,
+      "fact": "Roddie 帮 Zak 搬完东西，在车上冲她比了个「二十」的手势；她有点失落没见到 Zak。"
+    },
+    {
+      "anchor": "Roddie showed up in time to help Zak unload and flashed me a smug twenty in the car on our way home. I was glad he’d made some quick cash, but I was bummed not to have seen Zak. This time, I",
+      "start": 753,
+      "end": 1071,
+      "fact": "Georgia 手术顺利（in recovery、surgeon happy）——她悬着的心落下。"
+    },
+    {
+      "anchor": "I didn’t sleep well and was feeling keyed up the next morning at work.",
+      "start": 1074,
+      "end": 1144,
+      "fact": "她把 Georgia 醒来的消息转发给所有昨天来探病的人。"
+    },
+    {
+      "anchor": "When a statuesque drag artist walked in wearing a sparkly red cocktail dress that hugged their knockout figure, it took me a second to recognize... “Negasi! I saw you talking to Gail the nig",
+      "start": 1147,
+      "end": 1385,
+      "fact": "Nina Rhinestone 登场：亮片红礼服、施华洛世奇般的造型，Meg 认出她是 Negasi（drag 名＋she/her）。"
+    },
+    {
+      "anchor": "“Nina Rhinestone when I’m in drag, please, hon. She/her.” She gave a slow blink of long-lashed eyelids shimmering in gold and blue shadow. Her lips, slick with glossy red, offered up a cool ",
+      "start": 1388,
+      "end": 1584,
+      "fact": "Negasi 说 Georgia 介绍他认识 Meg——他想在西区开一家服务跨性别者的 boutique。"
+    },
+    {
+      "anchor": "“Ms. Rhinestone,” I corrected myself. “I didn’t expect to meet you unless I came to your show.” This was a good reminder that I’d been meaning to look into tickets. “You look incredible, but",
+      "start": 1587,
+      "end": 1810,
+      "fact": "他谈这门生意的用意：给「刚出道」的跨性别者一个可以安心试穿的空间（baby trans 进店有多吓人）。"
+    },
+    {
+      "anchor": "“Get out. There’s going to be a run of that here?” I pointed at the floor. “That’s great!”",
+      "start": 1850,
+      "end": 1940,
+      "fact": "他澄清自己是「能唱能跳、恰好爱高跟鞋的 gay man」，侄女才是跨性别者；Meg 的会计脑接手他的商业计划。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": "ch35",
+  "corpus": "ch35_chapter_thirty_five_meg.txt",
+  "facts": [
+    {
+      "anchor": "I didn’t see Zak the next day, but he texted:",
+      "start": 59,
+      "end": 104,
+      "fact": "Zak 说嫂子的侄女流鼻血不止，Zara 与 Kyle 医院守夜，他与父亲留宿看两个男孩。"
+    },
+    {
+      "anchor": "If anyone comes to the store [laughter emoji], tell them we’ll be back tomorrow. Specialist with Dad.",
+      "start": 107,
+      "end": 208,
+      "fact": "Meg 注意到自己「想他但不愿承认」，转而复盘 Georgia 那句「没有正确答案」。"
+    },
+    {
+      "anchor": "I almost tagged his message with a heart but wondered if that was too Valentine-y after our kiss. Instead, I texted back:",
+      "start": 211,
+      "end": 332,
+      "fact": "她反省自己的接线式思维：他不承诺，我也不承诺；不承诺干脆别开始。"
+    },
+    {
+      "anchor": "If anyone comes to your store, I’ll poach them the way I always do.",
+      "start": 335,
+      "end": 402,
+      "fact": "她忆起自己当妈与照顾病父时练出的临场调整能力（adjustments on the fly）。"
+    },
+    {
+      "anchor": "His response took long enough that I started to wonder if I’d been too flippant—especially considering he was still reeling from what had happened with Dale yesterday.",
+      "start": 405,
+      "end": 572,
+      "fact": "真正让她不安的是另一件事：她开始 Really, really 喜欢 Zak。"
+    },
+    {
+      "anchor": "I don’t want a war, but I can compete if I have to.",
+      "start": 593,
+      "end": 644,
+      "fact": "她给 Zak 发短信问「还有空一起吃午饭吗」，同时打算给母亲与朋友写欢迎信。"
+    },
+    {
+      "anchor": "He added a photo of something that looked like an old-fashioned egg-beater but with a phallus instead of beaters.",
+      "start": 647,
+      "end": 760,
+      "fact": "借 Georgia 的关系找到 Sakina 心理师，得到一个笑话测试"
+    },
+    {
+      "anchor": "A hand-cranked vibrator? I pictured a man between a woman’s thighs, rolling his wrist like he was landing a marlin, trying to get her off with that contraption, and laughed on and off for an",
+      "start": 763,
+      "end": 959,
+      "fact": "她与 Zak 的午餐：他借机告诉她父亲夜里的恐惧（怕他醒来发现人不见了），她给了「cuddle puddle」的应对法。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

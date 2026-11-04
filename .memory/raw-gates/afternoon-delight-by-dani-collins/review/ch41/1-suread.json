@@ -1,0 +1,55 @@
+{
+  "chapter": "ch41",
+  "corpus": "ch41_chapter_forty_one_meg.txt",
+  "facts": [
+    {
+      "anchor": "Zak was not my boyfriend, but he was a good friend. He came over Saturday evening to help me set up the garage sale. He brought Dale, who settled into a visit with Mom on the back patio, sin",
+      "start": 55,
+      "end": 276,
+      "fact": "车库甩卖：Roddie 与 Shelby 把「清物」变成计分游戏（速度、重量体积、成交或处置费）。"
+    },
+    {
+      "anchor": "Roddie was in the shower, and Shelby had left Friday. She had a long drive and was picking up Weston along the way. She and Roddie had made a ton of progress this week. They had turned the d",
+      "start": 279,
+      "end": 671,
+      "fact": "母亲在收摊位与摊位之间切换：Roddie 在替 Dale 摆茶垫与杯托。"
+    },
+    {
+      "anchor": "Mom trounced them both when the guy who bought Dad’s Corvette came to pick it up. He had hurried over, worried she would change her mind or, now that she had made up her mind, that she’d be ",
+      "start": 674,
+      "end": 924,
+      "fact": "Zak 带着「不是男友但好朋友」的身份来帮忙贴火警价签、顺便把 Dale 交给母亲。"
+    },
+    {
+      "anchor": "She had taken us all to dinner on Thursday to see Pretty Please again because Shelby hadn’t seen the show. It was even more fun the second time, thanks to a catastrophic wardrobe malfunction",
+      "start": 927,
+      "end": 1147,
+      "fact": "母亲的副业线：她给 Pretty Please 剧团做主题装饰、又被「医生之妻会缝纫」救场。"
+    },
+    {
+      "anchor": "While the dancers crowded around their colleague, one joked, “Is there a doctor in the house?”",
+      "start": 1150,
+      "end": 1244,
+      "fact": "母亲被 Aunt Linda 一句「你一直是靠你妈撑着的」刺到——Meg 爆了：Tell her to fuck off。"
+    },
+    {
+      "anchor": "Mom popped out of her seat and said, “I’m a doctor’s wife. I can sew.”",
+      "start": 1247,
+      "end": 1317,
+      "fact": "母亲给出全场最硬的自白：It was consensual；你爸给了我很好的人生；他说「have kids」她照做了。"
+    },
+    {
+      "anchor": "Nina Rhinestone waved her forward. “Yes, Vickie. Come help suture this up.”",
+      "start": 1363,
+      "end": 1438,
+      "fact": "母亲的最终诊断：This is exactly who you are——包括 Zak 那句。"
+    },
+    {
+      "anchor": "Mom disappeared backstage, and the show went on. She returned twenty minutes later, wonder in her eyes. “You should see the racks of costumes. It’s like the Oscars.”",
+      "start": 1441,
+      "end": 1606,
+      "fact": "章末 Meg 认定自己也在把 Zak「prop him up」，并意识到这是她最致命的弱点：想成为别人需要的东西。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

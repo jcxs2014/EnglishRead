@@ -1,0 +1,55 @@
+{
+  "chapter": "ch29",
+  "corpus": "ch29_chapter_twenty_nine_zak.txt",
+  "facts": [
+    {
+      "anchor": "Meg was right there at the shop door when I leaned in to hand her the coffee I’d bought for her.",
+      "start": 59,
+      "end": 155,
+      "fact": "Zak 把咖啡送到店门口，Meg 正好开门——两人第一次相对无言地笑。"
+    },
+    {
+      "anchor": "“Thank you.” She dipped her chin, wearing a pleased little smile that seemed to say she was thanking me for more than just the caffeine.",
+      "start": 158,
+      "end": 294,
+      "fact": "他看着她「像喝多了又像嗑嗨」（tipsy and stoned），Zara 第三次用「be careful, Meg」踩刹车。"
+    },
+    {
+      "anchor": "“Anytime.” Oh, I felt smooth. Physically. Like all my sharp edges had been sanded off.",
+      "start": 297,
+      "end": 383,
+      "fact": "他掏出从店里顺来的 Penthouse 页当书签，说「I might have to borrow this」——Meg 回敬「我们本可以办张借书证」。"
+    },
+    {
+      "anchor": "Considering the amount of time I’d been spending with my toys lately, I should feel like this all the time, but messing with them only took my mind off things for the seven minutes between s",
+      "start": 386,
+      "end": 691,
+      "fact": "两人的第一次接吻：他把她按在收银台边、她拽住他领口。"
+    },
+    {
+      "anchor": "Not today. I felt properly stoned. That had been really hot, thinking of her pushing her fingers into her—",
+      "start": 694,
+      "end": 800,
+      "fact": "她提醒「这是我们的初吻」，他纠正「之前还有一次」（在车里）。"
+    },
+    {
+      "anchor": "“What? Where?” I dragged my gaze up from the fit of Meg’s jeans.",
+      "start": 831,
+      "end": 895,
+      "fact": "他们讨论「定义」：他愿意称之为「something」，她坚持要有名字——他笑。"
+    },
+    {
+      "anchor": "“Your shop. I wasn’t fast enough to say hi. She was moving like she was on a mission.”",
+      "start": 898,
+      "end": 984,
+      "fact": "Zara 第三次提醒 Meg「这是长跑」——她承认是，并把 Zak 称为「救世主」。"
+    },
+    {
+      "anchor": "Ah, shit. How had I missed seeing her? I always kept an eye on the store from across the street. But I’d been thinking about Meg.",
+      "start": 987,
+      "end": 1116,
+      "fact": "章末她对他笑，他也在笑，笑意里有一点「被我抓住了」的得意。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

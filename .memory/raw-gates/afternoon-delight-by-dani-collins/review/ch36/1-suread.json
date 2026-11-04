@@ -1,0 +1,55 @@
+{
+  "chapter": "ch36",
+  "corpus": "ch36_chapter_thirty_six_meg.txt",
+  "facts": [
+    {
+      "anchor": "Shelby stayed an extra night in Kelowna. She’d made it there safely on Friday night but wanted to hang out with her friend until Sunday.",
+      "start": 57,
+      "end": 193,
+      "fact": "Shelby 在 Kelowna 多留一晚（周五夜已安全抵达、与朋友待到周日）。"
+    },
+    {
+      "anchor": "What could I say? She was an adult. I swallowed my disappointment and texted her to let me know when she was on the road again, adding, Drive safe.",
+      "start": 196,
+      "end": 343,
+      "fact": "周日清早 Roddie 打游戏、母亲与老邻居外出吃饭——Meg 只想洗床单、把性玩具藏起来（Shelby 要跟她同睡）。"
+    },
+    {
+      "anchor": "Roddie was up early Sunday morning, planning to play video games online with friends in Toronto. Mom was having lunch with an old neighbour who happened to be in town. I should have cleaned ",
+      "start": 346,
+      "end": 661,
+      "fact": "Georgia 承认自己仍常打盹，但 less resentfully——「是愈合，不是药劲」，并让 Meg 把试用装带回店里（怕 Gail 的孩子翻到）。"
+    },
+    {
+      "anchor": "Her recovery was coming along well. She’d started physiotherapy, but she was working so hard to get back to full strength, she didn’t have much pep left after her exercises.",
+      "start": 664,
+      "end": 837,
+      "fact": "Gail 拒收试用装：「她丈夫给得了她所需的一切」。"
+    },
+    {
+      "anchor": "“You want me to leave so you can nap?” I asked when she yawned yet again.",
+      "start": 840,
+      "end": 913,
+      "fact": "Georgia 在袋里留了一张进货推荐清单，让 Meg 亲自试用、并「看看哪些值得上架」。"
+    },
+    {
+      "anchor": "“Do you mind? I still nap a lot, but less resentfully. It’s not the drugs making me sleepy, it’s healing and that’s okay. Oh, hey, take these back to the store before one of Gail’s kids gets",
+      "start": 916,
+      "end": 1118,
+      "fact": "Meg 宣布把试用装先给母亲 first dibs——「她还没让我为这些活儿付过钱，她挣的」。"
+    },
+    {
+      "anchor": "“Gail doesn’t want any?” I asked, taking the bag of sample toys I’d left a couple of weeks ago.",
+      "start": 1121,
+      "end": 1216,
+      "fact": "她走出 Georgia 家时想到 Shelby 正在靠近渡轮、母亲外出、Roddie 忙——两小时空档成形。"
+    },
+    {
+      "anchor": "“She says her husband gives her all she needs.” She shrugged. “I kept the one I opened and put a list in there of the ones I think you should stock. Try some yourself. See what you think.”",
+      "start": 1219,
+      "end": 1407,
+      "fact": "她给 Zak 打电话时用「Treed cougar」报警体（预谋式的邀约），约在去 Sidney 路上的 Dogwood 汽车旅馆见面。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

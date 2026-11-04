@@ -1,0 +1,55 @@
+{
+  "chapter": "ch44",
+  "corpus": "ch44_chapter_forty_four_zak.txt",
+  "facts": [
+    {
+      "anchor": "When I heard the shop door chime, I figured it was Roddie. This was about the time he usually arrived from school, but I stopped sanding to listen.",
+      "start": 57,
+      "end": 204,
+      "fact": "店门铃响，Zak 以为是 Roddie（放学时段）——停下打磨去听。"
+    },
+    {
+      "anchor": "Out on the floor, Dad said, “You came back for the steamer trunk! I knew you would. I saved it for you.”",
+      "start": 207,
+      "end": 311,
+      "fact": "Roddie 自我介绍并让 Dale 稍等「我去拿背包」。"
+    },
+    {
+      "anchor": "It continued to amaze me that he couldn’t remember how to flush a toilet but knew how to draw in a customer like a seasoned carny.",
+      "start": 314,
+      "end": 444,
+      "fact": "来客是 Erica：她说来见 Zak、问他是否在。"
+    },
+    {
+      "anchor": "“We’re not actually together. I’m Roddie. I help you and Zak after school,” Roddie said, then seemed to speak to someone else. “I’ll put my backpack away, then I’ll come help you. I’ll just ",
+      "start": 447,
+      "end": 647,
+      "fact": "Zak 在工作间听出女人的声音、瞬间僵住（drop the sanding block）。"
+    },
+    {
+      "anchor": "“I’m actually here to see Zak,” a woman replied. “Is he here?”",
+      "start": 650,
+      "end": 712,
+      "fact": "Erica 与 Dale 打招呼：Hi, Dale. I'm Erica. I haven't seen you since Thanksgiving last year."
+    },
+    {
+      "anchor": "A jolt of recognition went through me. My limbs went numb and I dropped the sanding block. I quickly began stowing things in the cupboard, thoughts jumping all over the place. Why was she he",
+      "start": 715,
+      "end": 908,
+      "fact": "Dale 的记忆归档：他问不出眼前人是谁，声音含混。"
+    },
+    {
+      "anchor": "“He’s probably in the back,” Roddie said, his voice getting closer. “I’ll get him.”",
+      "start": 911,
+      "end": 994,
+      "fact": "Erica 的处境：与母亲断交（说 Speaking terms 时的表情）。"
+    },
+    {
+      "anchor": "I could hear Erica saying, “Hi, Dale. I’m Erica. I haven’t seen you since Thanksgiving last year. How are you feeling?”",
+      "start": 997,
+      "end": 1116,
+      "fact": "Zak 的旧账：两人同居三年、同住公寓（共同房贷），她来问他「以什么身份继续」——他把话说到底：I don't have room in my life for a relationship."
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

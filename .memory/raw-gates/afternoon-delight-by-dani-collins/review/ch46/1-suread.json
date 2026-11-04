@@ -1,0 +1,55 @@
+{
+  "chapter": "ch46",
+  "corpus": "ch46_chapter_forty_six_meg.txt",
+  "facts": [
+    {
+      "anchor": "We met at a bistro downtown near the water, one with comfortable chairs and a date-night ambiance. The tables held candles and fresh flowers, and the menus came in leather folders. Zak held ",
+      "start": 55,
+      "end": 254,
+      "fact": "港湾小馆（烛台、鲜花、皮质菜单）——她坐在他对面时他动作僵硬。"
+    },
+    {
+      "anchor": "My hands were cold and clammy. My pulse pounded in my ears.",
+      "start": 257,
+      "end": 316,
+      "fact": "他承认 Erica 来面试、顺便进来聊天，他不想显得混蛋所以买了咖啡。"
+    },
+    {
+      "anchor": "“Who’s with your dad?” I asked, trying to break the ice.",
+      "start": 319,
+      "end": 375,
+      "fact": "Roddie 的情报（他爸出轨两次）成为摊牌引信：她第一次为前夫在儿子面前感到愤怒。"
+    },
+    {
+      "anchor": "“Zara,” he said in a clipped tone. His movements were stiff as he sat across from me. He wasn’t his usual flippant self. When the server asked if we wanted drinks, he looked at me like it wa",
+      "start": 378,
+      "end": 592,
+      "fact": "他的反问：你被当屎一样对待惯了，所以我说复合你也说没事？"
+    },
+    {
+      "anchor": "“So. Erica was here. You know that,” he said flatly.",
+      "start": 665,
+      "end": 717,
+      "fact": "他的核心自白：I'm really fucking lonely——正因孤独，与 Erica 复合的念头才短暂诱人；comfort 是一回事，她不是。"
+    },
+    {
+      "anchor": "“Roddie told me.” I busied myself pretending the cutlery needed straightening. My stomach was full of acid.",
+      "start": 720,
+      "end": 827,
+      "fact": "她的让步清单：嫁给 Joel 因怀孕、迁蒙特利尔因他在那上学、容忍出轨因刚生完 Roddie——「我已经为别人做了太多让步」。"
+    },
+    {
+      "anchor": "“I wasn’t expecting her.” Zak ran a hand over his beard. “She came for a job interview and stopped in to talk. I didn’t want to be an asshole, so I bought her a coffee, but I feel like one a",
+      "start": 830,
+      "end": 1046,
+      "fact": "她的红线：I cannot move back here for you. Or even for Mom. It needs to be something that I want."
+    },
+    {
+      "anchor": "“Why? We’re fine. Even if you’ve decided to get back together with her, you and I are fine.” Just tell me.",
+      "start": 1049,
+      "end": 1155,
+      "fact": "孩子议题正式摊开：她说自己绝不再生；他说他想过孩子但不会为「换个人」去生——除非是跟你。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

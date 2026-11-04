@@ -1,0 +1,55 @@
+{
+  "chapter": "ch57",
+  "corpus": "ch57_chapter_fifty_seven_meg.txt",
+  "facts": [
+    {
+      "anchor": "Mom was due for her shift at the thrift store, so she couldn’t come with me to the viewing. I didn’t mind. I had a lot to think about as I drove into downtown, then across the bridge.",
+      "start": 59,
+      "end": 242,
+      "fact": "看房路线：downtown → 过桥 → Victoria 的 condo 楼；她一路算账（若与 Zak 不成，她在这里还剩什么）。"
+    },
+    {
+      "anchor": "Old parts of me were wondering if maybe I should stay in Toronto. I was taking Roddie away from his new half-siblings. Being close to Mom would be nice, but what did I really have here in Vi",
+      "start": 245,
+      "end": 477,
+      "fact": "房产经纪 Greg：silver fox 派、评估式打量（I sensed I was being assessed），以及一句 nice to put a face to a name。"
+    },
+    {
+      "anchor": "I pulled into the parking lot of the condo building and nosed into the visitor stall. As I left my SUV, a man popped out of the alcove entrance to the building.",
+      "start": 480,
+      "end": 640,
+      "fact": "Zak 的突袭：Zara 让他来打招呼，他整了头发却一脸 shaggy；Meg 心里只有 God, he was gorgeous。"
+    },
+    {
+      "anchor": "“Meg? Hi. I’m Greg. It’s nice to put a face to a name.” The realtor offered his hand to shake and held my gaze. I sensed I was being assessed and that he liked what he saw.",
+      "start": 643,
+      "end": 815,
+      "fact": "他原本要宣布的坏消息（cool things off）与当场改口：「But I can't. I love you too much.」"
+    },
+    {
+      "anchor": "“Nice to meet you, too.” We’d only talked on the phone.",
+      "start": 818,
+      "end": 873,
+      "fact": "她的坦白：I'm doing this for me（不为他）；她先说了 I love you——他把她抱起平视。"
+    },
+    {
+      "anchor": "He was taller than I expected and even more of a silver fox in person than his headshot. I didn’t hate what I saw, but—",
+      "start": 876,
+      "end": 995,
+      "fact": "孩子的红线摊开：What if you want babies? / What if you can’t take how bad it gets with Dad?"
+    },
+    {
+      "anchor": "My heart leapt as I turned to see Zak striding toward us. He wore jeans and a T-shirt. His hair was tousled and shaggy, his beard scruffy and in need of cleaning up. God, he was gorgeous.",
+      "start": 1007,
+      "end": 1194,
+      "fact": "他的 hereditary 自曝：You know it could be hereditary, right?——他把自己的遗传风险摊在桌上。"
+    },
+    {
+      "anchor": "I threw myself at him. “What are you doing here? I thought you couldn’t make it?”",
+      "start": 1197,
+      "end": 1278,
+      "fact": "最终条款：Whatever this is, I'm in；不自己生孩子、做 Shelby 与 Roddie 的 sexy grandparents；Go sign whatever you need to sign. Then let's go do that again."
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

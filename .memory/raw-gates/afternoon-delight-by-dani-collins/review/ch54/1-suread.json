@@ -1,0 +1,55 @@
+{
+  "chapter": "ch54",
+  "corpus": "ch54_chapter_fifty_four_meg.txt",
+  "facts": [
+    {
+      "anchor": "When I thought about what anchored me to Toronto, Roddie was it. Most of my real friends had been made when we were still in Montreal, when I’d been a young mom and Shelby was starting play ",
+      "start": 57,
+      "end": 536,
+      "fact": "锚点审计：拴住她在多伦多的只有 Roddie；Montreal 时代的老友只在线上、Toronto 的友谊在父病与离婚中失效。"
+    },
+    {
+      "anchor": "As I considered leaving, I made myself look at all my options. For instance, I could move to Calgary to be closer to Shelby. Roddie might like that, but the thing that drew me to Victoria wa",
+      "start": 539,
+      "end": 873,
+      "fact": "选项对比：Calgary（近 Shelby）vs Victoria（熟悉感、quaint and laid-back、like home）。"
+    },
+    {
+      "anchor": "I waited until Shelby came for Joel’s wedding before I told anyone that I was secretly shopping real estate in Victoria. Mom had taken me up on my offer to have her stay with us while her ho",
+      "start": 876,
+      "end": 1139,
+      "fact": "她等到 Shelby 参加 Joel 婚礼那天才宣布自己在偷偷看房——母亲的房子正在 show。"
+    },
+    {
+      "anchor": "“This is fancy, Mom. What’s the occasion?” Shelby asked.",
+      "start": 1142,
+      "end": 1198,
+      "fact": "CN Tower 旋转餐厅的宣布：一堆从没做过的事让她问「我为什么住在这儿」；儿女的反应各异（Shelby 拍手、Roddie 合上菜单、母亲屏息）。"
+    },
+    {
+      "anchor": "We were in the rotating restaurant atop the CN Tower with a window seat overlooking the city lights.",
+      "start": 1201,
+      "end": 1301,
+      "fact": "母亲的首个反应是「我还没挂牌呢」——Meg 拒绝她退掉挂牌：这是两个人的新开始。"
+    },
+    {
+      "anchor": "“The occasion is that I work ten minutes from this place and I’ve never been. There are a ton of things to do here and I never do them. That leads me to wonder why I live here. And now that ",
+      "start": 1304,
+      "end": 1559,
+      "fact": "母亲的第二职业：高尔夫 pro shop 的橱窗（泰迪熊撑球杆＋Negasi 的金色卷发假发人台＋store credit 报酬）。"
+    },
+    {
+      "anchor": "Roddie slapped the menu closed. Shelby’s eyes widened. Mom picked up her drink and seemed to hold her breath.",
+      "start": 1562,
+      "end": 1671,
+      "fact": "Roddie 的问题带出真相：「How well do you even know this Zak?」——她答不上来。"
+    },
+    {
+      "anchor": "Oof. I really had set some rough precedents.",
+      "start": 1674,
+      "end": 1718,
+      "fact": "她与 Zak 的第一次远程同步：靠 app 联动的玩具；通宵夜谈后的「I miss you, too」；他谈父亲夜里把电视当成亮着、她谈自己再也回不去的正常。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

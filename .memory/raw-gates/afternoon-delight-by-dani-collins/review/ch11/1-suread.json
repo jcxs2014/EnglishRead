@@ -1,0 +1,37 @@
+{
+  "chapter": "ch11",
+  "corpus": "ch11_chapter_eleven_meg.txt",
+  "facts": [
+    {
+      "anchor": "The days leading up to Valentine’s Day were busy with a steady stream of walk-ins and several online orders. I stayed late to fulfill them, glad to see a small bump in sales for Georgia.",
+      "start": 49,
+      "end": 235,
+      "fact": "Meg 认出「Tinfoil」是 Zak 的化名（TIN＝Twice Is Nice），当场索要电话号码并互存。"
+    },
+    {
+      "anchor": "After reviewing her sales from the few weeks she had been in business, I set some targets for myself. My low-bar goal was to match her average weekly sales, even with the “five dollars or fi",
+      "start": 238,
+      "end": 573,
+      "fact": "Meg 认出「Tinfoil」是 Zak 的化名（TIN＝Twice Is Nice 的首个别名），当场索要电话号码并互存。"
+    },
+    {
+      "anchor": "I wouldn’t have been able to make the party nearly as splashy without the full force of Vickie Crutcher behind it. Along with her keen eye for stylish arrangements, she brought a few vintage",
+      "start": 576,
+      "end": 1156,
+      "fact": "Zak 说父亲自母亲去世后就没再去教会、他自己也没去——但 Zara 的读书会会来。"
+    },
+    {
+      "anchor": "Between the social media posts and the newspaper ad, people were coming in steadily—a blessing and a curse. While Mom pinned a Phantom of the Opera poster to the wall, I did my best to help ",
+      "start": 1159,
+      "end": 1360,
+      "fact": "Zak 送来七十年代中期 Penthouse 当礼篮镇店之宝，教她「anything with a story」（提 Titanic 箱与珍珠柄刀）。"
+    },
+    {
+      "anchor": "“Um, yes.” I pointed to the blue teardrop I’d added to the price tag on every item I’d identified as waterproof.",
+      "start": 1406,
+      "end": 1518,
+      "fact": "母亲嫌给订阅换礼物的礼篮不够看，答应午饭后去找东西添上。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}

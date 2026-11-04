@@ -1,0 +1,64 @@
+{
+  "chapter": "ch04",
+  "corpus": "ch04_chapter_four_meg.txt",
+  "facts": [
+    {
+      "anchor": "At five minutes to midnight Thursday night, I quit tinkering with my resignation letter and hit send.",
+      "start": 45,
+      "end": 146,
+      "fact": [
+        "referenced “an unrelated opportunity that necessitates my leaving by the end of February.”",
+        "辞职信以「一个不相关的机会」为由二月底走人，几乎三周通知（含两周在休假）。"
+      ]
+    },
+    {
+      "anchor": "My email to Cameron—oh yes, I sent it to him because I was that much of a passive-aggressive bitch—referenced “an unrelated opportunity that necessitates my leaving by the end of February.” ",
+      "start": 149,
+      "end": 795,
+      "fact": [
+        "“Mr. Peterson wants you to call,” Mom called up the stairs when I came out of the bathroom in a towel.",
+        "母亲传话：Peterson 先生来电——她担心的其实不是工作。"
+      ]
+    },
+    {
+      "anchor": "It was the most politely worded shove-it in the history of take-this-job-and.",
+      "start": 798,
+      "end": 875,
+      "fact": [
+        "At one point, Joel had insisted on keeping my grandfather’s pocket watch, even though he never wore it.",
+        "离婚期感觉重演：Joel 坚持要外公的怀表（从不戴）；那感觉她还认得——「已经干了」的风干感。"
+      ]
+    },
+    {
+      "anchor": "Starting at six a.m.—nine Eastern time—texts and emails began flooding in, but I had set my phone to Do Not Disturb. I rose at ten to eight and climbed into the shower after only a glance at",
+      "start": 878,
+      "end": 1099,
+      "fact": [
+        "I’d been told women lost all their fucks at forty.",
+        "四十岁失去所有 fucks——她原以为是说性，此刻才懂是关于优先级与谁配得到她的注意力。"
+      ]
+    },
+    {
+      "anchor": "I felt like such a badass ignoring them. Pathetic, I know, but I hummed a smug tune as I dried off and massaged body butter into my thighs, shins, and heels.",
+      "start": 1102,
+      "end": 1259,
+      "fact": [
+        "As I contemplated what Mr. Peterson might be thinking of me or what he might say, I reached for my jar of fucks and found it empty. In fact, there was no jar.",
+        "自由宣言的物证：她伸手摸那罐在乎——空的；根本没有罐子。"
+      ]
+    },
+    {
+      "anchor": "“Mr. Peterson wants you to call,” Mom called up the stairs when I came out of the bathroom in a towel.",
+      "start": 1262,
+      "end": 1364,
+      "fact": "她换上母亲买的浅蓝薄针织衫、披发抹定型喷雾——「只要有约会她才放头发下来」，然后出门 embark on her new life。"
+    },
+    {
+      "anchor": "I looked down to see she was wearing her chenille housecoat and had helped herself to the coffee I started brewing on my way to the shower.",
+      "start": 1367,
+      "end": 1506,
+      "fact": "母亲留了一半西柚、她把咖啡倒进保温杯带出门——新生活的第一件仪式。"
+    }
+  ],
+  "note": "R1 素读：审查会话独立只读 text/ 逐章重读所得（谁做了什么 + 关系 + 数字/日期），每条带原文字符区间；未参考 md。"
+}
