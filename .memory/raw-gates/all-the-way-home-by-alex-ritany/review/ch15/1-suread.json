@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "妈妈来电追问基兰（Kieran）的去向，Rena 答他不在，并说他「认识了一个人」。",
+    "anchor": "He met someone.",
+    "start": 463,
+    "end": 478
+  },
+  {
+    "fact": "妈妈抱怨基兰从不回她的消息、自感恩节以来没再来过电话，她很担心他。",
+    "anchor": "I haven’t had a phone call from him since Thanksgiving",
+    "start": 1156,
+    "end": 1210
+  },
+  {
+    "fact": "妈妈问是否需要为基兰制定应急预案，Rena 惊恐地以为她指去年那件事，妈妈澄清只是指他上次恋爱。",
+    "anchor": "Do we need a contingency plan?",
+    "start": 1986,
+    "end": 2016
+  },
+  {
+    "fact": "妈妈半开玩笑问要不要为基兰准备一个分手篮子，Lucas 躲开不让妈妈听见他的笑声。",
+    "anchor": "Should I put together a breakup basket?",
+    "start": 3896,
+    "end": 3935
+  },
+  {
+    "fact": "挂断电话后，Lucas 安慰 Rena 并轻吻她的嘴唇、再吻额头；相恋五年，她仍会被突然的吻吓一跳。",
+    "anchor": "kisses her once lightly on the lips",
+    "start": 5484,
+    "end": 5519
+  },
+  {
+    "fact": "回忆：六年前 Rena 加入女子足球队，因此和 Lucas 相处的时间大增。",
+    "anchor": "Six years ago, Rena had joined the girls’ soccer team",
+    "start": 5807,
+    "end": 5860
+  },
+  {
+    "fact": "女足首败后 Rena 坐在学校台阶上复盘比赛，赢了球的 Lucas 不去和队友庆祝，坐到她身边并吻了她——两人的初吻。",
+    "anchor": "Lucas leaned over and kissed her.",
+    "start": 8046,
+    "end": 8079
+  },
+  {
+    "fact": "结尾点题：这些年有过无数次吻，但 Rena 最爱回忆初吻，因为那个吻当时只是一个 maybe，而 maybe 可以成为任何事。",
+    "anchor": "And maybes can be anything.",
+    "start": 11468,
+    "end": 11495
+  }
+]
