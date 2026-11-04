@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "同行旅客 Kieran 问 Zach 是来自安大略省某地还是只在多伦多中转，Zach 含糊答「来自安大略某地」，不愿多透露信息。",
+    "anchor": "“I’m from somewhere in Ontario,” Zach tells him",
+    "start": 196,
+    "end": 243
+  },
+  {
+    "fact": "Zach 奇怪 Kieran 为何没和妹妹同坐，Kieran 解释 Rena 旅行时总把他订在过道对面的座位。",
+    "anchor": "Rena always books me across the aisle",
+    "start": 2754,
+    "end": 2791
+  },
+  {
+    "fact": "Kieran 看手机后宣布航班再度延误至 4:15，Zach 随即给 Tove 发短信「delayed AGAIN. to 4:15」。",
+    "anchor": "delayed AGAIN. to 4:15",
+    "start": 2382,
+    "end": 2404
+  },
+  {
+    "fact": "Tove 回短信说会在 Zach 航程过半时出发，Zach 回复「you got it boss」。",
+    "anchor": "I’m gonna leave halfway through your flight",
+    "start": 3156,
+    "end": 3199
+  },
+  {
+    "fact": "Kieran 提议玩「info trade」问答游戏（不喜欢的问题可以 pass），第一问「死前只能给一个人发短信选谁」，Zach 答选妈妈，因为只有她会记得告诉所有人自己死了。",
+    "anchor": "My mom, then. She might be the only one who’d remember",
+    "start": 9780,
+    "end": 9834
+  },
+  {
+    "fact": "Zach 反问 Kieran「如果能回到过去想改变什么」，Kieran 毫不犹豫地选择 pass。",
+    "anchor": "“Pass,” Kieran says, without hesitation.",
+    "start": 10589,
+    "end": 10629
+  },
+  {
+    "fact": "被问最爱的一本书时 Kieran 罕见地停顿，反问 Zach 是否读过《Song of Achilles》，并称就是那本。",
+    "anchor": "Have you read Song of Achilles?",
+    "start": 11059,
+    "end": 11090
+  },
+  {
+    "fact": "章节结尾 Kieran 把 Zach 带进礼品店，手指抚过《Station Eleven》的封面问他「想不想成名」，Zach 冲口答「Fuck no」。",
+    "anchor": "run his fingers over the glossy cover of Station Eleven",
+    "start": 11713,
+    "end": 11768
+  }
+]
