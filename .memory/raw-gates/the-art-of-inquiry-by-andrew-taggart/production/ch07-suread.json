@@ -1,0 +1,103 @@
+{
+ "book": "the-art-of-inquiry-by-andrew-taggart",
+ "chapter": "ch07",
+ "text": "notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/text/ch07_5_following_nature_s_course.txt",
+ "facts": [
+  {
+   "fact": "开场：Frankfurt 数出哲学三分支——epistemology 关心 what we believe、ethics 关心 how to behave、第三支覆盖其余人类存在：what we care about；其《The Importance of What We Care About》第三段定义 ethics 聚焦与他人的关系（right/wrong 对比、moral obligation 的 grounds 与 limits）——三分把 believing/moral reasoning/caring 拆成三个独立企业（believing 配科学自然观、commanding 配人类行为、caring 配个人 life projects）→ 伦理行动既只在道德义务领域内 = 必 run contrary to nature",
+   "anchor": "Harry Frankfurt holds up his fingers",
+   "start": 222,
+   "end": 258
+  },
+  {
+   "fact": "Kant 1785《Groundwork》：人内感到 powerful counterweight——needs and inclinations 之重（总名为 happiness）对抗 duty 的诫命；reason 不停发令、不许诺任何给 inclinations、带着 disregard and contempt；道德哲学的任务=让 reason 压倒 inclinations；「Necessitation」=理性存在者学会把意志转向更高义务、尽管其意志 not by nature necessarily obedient；人神之分——God infallibly、人 fallible 须 subjugate passions",
+   "anchor": "Kant had cautioned",
+   "start": 2024,
+   "end": 2042
+  },
+  {
+   "fact": "mystery 成形：现代伦理=违反自然的行动；古代伦理=依自然而生活；如何从 according 走到 contrary？伦理如何被从自然中 prizing apart？哪种自然观使这分离可能？答案=disenchantment 的故事：Aristotle 有限宇宙 → Descartes/Locke 的知识论 → Kant 的 theoretical vision；被 disenchant 后我们 long been exiled from sensuous natures 与 wellspring of existence",
+   "anchor": "In the modern world, ethics is acting contrary",
+   "start": 3934,
+   "end": 3980
+  },
+  {
+   "fact": "Pascal（数学家+天主教护教士）与 C.S. Lewis（皈依基督徒+中世纪文学学者）相隔 300 年各自哀悼中世纪宇宙之失；Koyré 语境：closed world 变形为 infinite universe；Pascal《Pensées》：无限空间的永恒沉默使我恐惧；新宇宙数学化、无限延伸、soundless voiceless songless、无生命——人在哪里找自己？在哪里 revel and sing、come to proper measure、glory in God's great creation？还是要被逐出歌、命定从外部看一个不可能 own 的世界？Pascal 能懂数学却找不到世界存在的理由 → dread",
+   "anchor": "Pascal was a mathematician",
+   "start": 4626,
+   "end": 4652
+  },
+  {
+   "fact": "Lewis《The Discarded Image》（1964 年去世前完成）：现代人在夜空下感觉 looking out（像从客厅门口望向暗大西洋）；接受 Medieval Model 则像 looking in——Earth 在 city wall 之外；黑暗拉起帷幕瞥见 internal 的高华（high pomps within；vast, lighted concavity filled with music and life）；观的是 insatiable love 的 revelry；生物（活的行星+天使）如饮者——渴被 delight 而未 quenched；Primum Mobile 的 Intelligence 被古画绘作与球嬉戏起舞的少女；mind heaven by heaven 升向真正中心（感官所见为圆周）——quarry（猎物）与 candle（群蛾扑向而不焚）",
+   "anchor": "Lewis eulogizes",
+   "start": 6770,
+   "end": 6785
+  },
+  {
+   "fact": "亚里士多德宇宙：anthocentric、finite、spherical、 interconnected（可朽 sublunary → 不朽 celestial 的 Unmoved Mover）；每元素有 natural place（earth→water→air→fire）；四因说开放自然之问：material cause（由什么质料）、formal cause（何形）、efficient cause（谁使之生）、final cause（向何目的）——yurt 例：木制、圆架、人手智慧所建、为半永久庇护所；《De Anima》有机体=form-matter composite 故 natural through and through；《Nichomachean Ethics》人 final cause=eudaimonia（human flourishing）",
+   "anchor": "four causes",
+   "start": 10258,
+   "end": 10269
+  },
+  {
+   "fact": "Aquinas（最伟大经院哲学家）尊亚氏为「the Philosopher」但修正：flourishing 只在 next life 可得；调和 immanence/transcendence 用 analogical reasoning（人在关键处似神非全似）；Dupré：人类心智 longing divine source——God 如 touching hand 而非一次 pusher；five ways 是 wondrous meditations 非 rational demonstrations；Ockham 领衔唯名论挑战：God 的 power 优先于 reason——这世界被意志、但本可意志别样世界； potency 以 holding back 表达更好 → God 变 opaque、analogical 联系被 sever、世界开始失去家的感觉；加上 humanism/古代怀疑论/宗教改革/黑死病 → Montaigne 的 problem of the criterion；doubt 统治、连「人生为何」也入问",
+   "anchor": "nominalists overturned",
+   "start": 14333,
+   "end": 14355
+  },
+  {
+   "fact": "Descartes 非英雄亦非恶棍而是继承问题者：三十年战争撕裂欧洲大陆、现代科学已改自然观、no going back；他 claim reality 由 substance 组成（self-sufficient）；三分 divine/thinking/material substance 但又说唯一真 substance 是 God；God 已 opaque（nominalist 式）——transcends the natural capacity of our wits；number 28：「不考察受造物的 final causes，只考察 efficient causes」——十七世纪最重的 understatement；物质实在=efficient causes 的领域（台球式记录）而对目的因 agnostic——为什么此物在此、为什么有物而非无——这些问题将 unanswered→unasked→forgotten；同时物质属性被 blanched of sensuous qualities——只剩 spatial extension（position/size/shape/motion）",
+   "anchor": "Descartes stood",
+   "start": 16756,
+   "end": 16771
+  },
+  {
+   "fact": "Locke 赞同读 Descartes 的 way of ideas；先检查知觉装置再谈所知；与 Descartes 共享出发点：自然已 disenchant、心灵生活 presumed 异于物理实在；primary/secondary qualities（Essay 1690）：primary=intrinsic/necessary/constitutive（mass、extension、shape、velocity——独立于观察）；secondary=relational（warmth 与 proximity 和感官灵敏度相关）；但粒子不显于感官如何生 red balls 之形？ Locke 诉诸 powers/dispositions——「nothing in the objects themselves, but powers to produce various sensations in us」；颜色 neutered form 回归；红=object 内一种 power 作用於全然被动的感官——faceless billiard balls knocking us red",
+   "anchor": "Locke",
+   "start": 4389,
+   "end": 4394
+  },
+  {
+   "fact": "Locke 经验主义的诗意后果：自然 bleached of attributes、awash in particles、只余 strange powers——一次性返回且隔一层；ordinary reality（Wordsworth 的 rocks and stones and trees）derivative 或 unreal、至少 less interesting；种子不再 express 自己成树、鸟不再以歌迎偶、河不再流向海；感官成为 passive receptive 的 dull feelers；aesthetic sense attenuated、face-to-face 更 opaque、经验 less intense less vibrant more epistemically impoverished；mind 与 world 之距如你我的脸、触摸、口舌——No longer do we know the world or each other by kissing；只余分析机械化身体",
+   "anchor": "Nature—here bleached",
+   "start": 25623,
+   "end": 25643
+  },
+  {
+   "fact": "Kant 继承 disenchant 图景而 domesticate 所有子嗣：God 既不证明也不否证；人既 apart from 又 a part of nature；teleology 以 as if 形式回归自然；morality contrary to nature、被抬为 law、由 reason 支撑；novel background assumption：世界按类比法律运作（自然循 physical law、人循 moral law、心理循 general principles、civil society 循 marketplace law、政治循 positive law）→ following nature's course 变得 at once necessary and impossible；Hegel「the actual is rational」（Pippin：要求 being intelligible）；Geuss：哲学=以系统精神思考而无须系统",
+   "anchor": "Kant’s solution",
+   "start": 27000,
+   "end": 27015
+  },
+  {
+   "fact": "Theoretical Vision：认识论上不再如 lover 听风铃般听自然，而是向它发 summons（传唤其按特定光亮现身）——「What can we know?」=先问我们对现实的贡献、再问现实向我们现身的方式；reality 被「forced」以 space/time/efficient causality/substance 等抽象概念现身；道德上：Hobbes/Mandeville 的 self-interest 常识与 marketplace 的 pure egoists；Kant 无法忍受 egoism 统摄社会生活；natural law/moral law 类比——人为自己立法并绑定（transcending siren calls of lower natures）；Categorical Imperative 细节不重要、重要的是 Theoretical Vision：把人从自然中 rip out 再以 theoretical entities（use/consumption/analysis/circumspection 之用）重新引介自然",
+   "anchor": "Kant’s question-changing approach",
+   "start": 33198,
+   "end": 33231
+  },
+  {
+   "fact": "Theoretical Vision 的现代面：free-standing objects 似为理论考察而设；从远处 inspect objects、拆解部件；道德=law-like 无例外；人是 deliberative beings；把原则法律用于个案（bioethics、foreign policy）；互控 hypocrisy；God（若还谈）=abstract entity；以 valid/sound arguments 对话；物质实在按 abstract uses/resources/utility/market value 被想——最后：我们 touch money、eat calories、按 permissions 与 forbidden fruits 行动、逛挂满 mounted butterflies 的博物馆、几乎忘了如何倾听彼此；In place of a way of being in touch with sensuous nature, we have put Theory——By submitting nature to our questions, we no longer let be；那全然浸于存在之中的人往何处去了？sensuous experience 的 full fecundity 何在？",
+   "anchor": "In the end, we touch money",
+   "start": 37135,
+   "end": 37161
+  },
+  {
+   "fact": "水的母题：Daodejing「The highest goodness is like water」、Xenophanes「All things that come into being and grow are earth and water」、Aristotle 转述「Thales said it is water」；对 Daoists 逆水而行不可想（如 Don Quixote 战风车、Sisyphus 推石）；但水亦非永远友善——Hegel《Early Theological Writings》：Flood 把人从自然 sundered、唤起 disbelief in nature、继生 mastery 欲望；人筑塔抵海怒——伤不愈但可自慰不再受害；此神话=现代性寓言：旧社会秩序崩解 → fear+hope+hubris 中 principle 压在 lost love 之上——If you don't love me anymore, then let's settle up, call in the law, draw up contracts；legislate and codify、regulate and systematize、做 good Confucians/middle managers/dutiful bureaucrats；人人守规则（内室里却色情化逾矩）",
+   "anchor": "The leitmotif",
+   "start": 38436,
+   "end": 38449
+  },
+  {
+   "fact": "morality 从此是与生命的斗争：duties 压倒 inclinations、义务清单可终于悲剧冲突；须 universalizable、stern rigorous 否则沦为 cant/empty relativism/will to power；Larmore《Patterns of Moral Complexity》「heterogeneity of morals」——「We have to live with the fact that we have obligations we cannot honor」；三原则（partiality/deontology/consequentialism）可冲突且无 higher order principle 裁决——God 之死被暗示；Larmore 对悲剧冲突之不可避免是对的，前提是接受 morality 仅为 incommensurable obligations；但他预设 principles lie at a high level of generality——生活好时并无 rigor 的原则只有 face-to-face、touch、besito、Daodejing 的 filial piety and fraternal affection；Laozi 十八章：order collapses→loyal minister——自然逃离我们而我们驯化它=分道扬镳；现代生活或如 H2O 但不像 water；we poets of life long for ethical life to be restored",
+   "anchor": "modern life may be like H2O",
+   "start": 43885,
+   "end": 43912
+  },
+  {
+   "fact": "尾声：2012 年 5 月初作者与 Alexandra（四年后的妻子）在 Woodstock 郊外小屋一周；dwell in seamless being——不可追忆的时间、seamless fabric、一切似同一天、textures rhythms shades；quiet calm、flowing sober joy；笑麻雀与蒲公英、远眺处歇脚、chafed fingers 做的饭缝进灵魂、wine 与 giddiness、opal rocks 与 bony froth 上悬脚静坐、相拥而泣于 joy 与 longing、爱语如摩挲掌心般稳；睡于身体求 rest 之时；晨雾落雨鸟鸣——a pail filling and refilling；并无可夸耀之处除了 life amid life 的 humming/thrumming——heart songs day chants night hymns dawn stillness；我们在相爱但最爱的 especially 是这种与自然 in touch 的生活方式；For our natures were following nature’s silent course and then love was all we knew",
+   "anchor": "Woodstock",
+   "start": 44464,
+   "end": 44473
+  }
+ ]
+}
