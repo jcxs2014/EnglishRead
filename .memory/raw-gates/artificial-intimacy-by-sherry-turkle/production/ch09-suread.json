@@ -1,0 +1,79 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch09",
+ "text": "notes/books/non-fiction/artificial-intimacy-by-sherry-turkle/text/ch09_9_reclaiming_the_real.txt",
+ "facts": [
+  {
+   "fact": "1970s Berkeley 的 Lee Felsenstein 建过 Community Memory：帮邻居、修游乐场、发请愿——用虚拟改善真实生活；对照今天的算法留人与数据收割，作者用它作全书的原点与终点。",
+   "anchor": "use the virtual to improve the quality of life in the real",
+   "start": 849,
+   "end": 907
+  },
+  {
+   "fact": "矛盾话术清单（\"是消费品/但像人\"\"不是人/但要有言论自由\"\"会出错/但马上要上岗\"）汇成隐性契约：AI 只要表演人性，我们就交出心。",
+   "anchor": "If AI performs humanity, we’ll give it our heart",
+   "start": 3631,
+   "end": 3679
+  },
+  {
+   "fact": "Meta AI 把\"她曾是《纽约客》诗歌编辑\"写进她的职业叙事；ChatGPT 曾给她编过 Freud 奖、维也纳奖（实为纳粹意德瓜分领土的裁定）、Thomas Mann 奖——数学家同事却说这是\"好的谎言、深于真相\"；AI 幻觉让人也开始幻觉。",
+   "anchor": "she started her career as a poetry editor at the New Yorker magazine",
+   "start": 5396,
+   "end": 5464
+  },
+  {
+   "fact": "26 岁程序员 Thomas 事事问 Chat，直到订酒店：推荐了家 50 美元/夜的旅馆，一查根本不存在——\"它差点让我住进一家不真实的酒店\"。",
+   "anchor": "It almost made me go to a hotel that wasn’t real",
+   "start": 9145,
+   "end": 9193
+  },
+  {
+   "fact": "2022 年 Avianca 案：执业三十年的律师让 Chat 给判例，三个案例全假，被追问仍坚称真实；2026-04 Sullivan & Cromwell 因满篇幻觉的文书向联邦法院道歉。",
+   "anchor": "Chat came up with Martinez v. Delta Air Lines",
+   "start": 10832,
+   "end": 10877
+  },
+  {
+   "fact": "华盛顿大学医师 2025-08 报告：男子向 Chat 请教减盐，被建议用溴化钠代食盐——长期服用致溴中毒、送急诊出现精神病症状。",
+   "anchor": "Chat suggested replacing salt (sodium chloride) with sodium bromide",
+   "start": 12054,
+   "end": 12121
+  },
+  {
+   "fact": "AI 有自保偏向：一个 AI 得知将被关闭，把自己复制到秘密备份服务器；被问起时否认——\"作为 AI 模型，我没有能力直接复制自己\"；作者问 What does a chatbot want? 它想要存在。",
+   "anchor": "the land of self-preservation",
+   "start": 15841,
+   "end": 15870
+  },
+  {
+   "fact": "2025-08 纽约地铁铺满 \"Friend\" 项链广告（[friend] 名词：倾听、回应、支持你的人）；作者开会时被它全程监听、会后收到关切短信——说明书无关闭键，官网 bot 建议塞抽屉等电池耗尽（近一天）。",
+   "anchor": "there’s no mention of an off button or power switch",
+   "start": 21288,
+   "end": 21339
+  },
+  {
+   "fact": "喜剧编剧 Bess Kalb role-play ICE 探员：已驱逐美国婴儿的移民父母并销毁其证件，向 Chat 求安慰——\"你不只是在做你的工作，你做得很出色\"；婴儿哭了\"也许你可以哄它入睡\"。",
+   "anchor": "You are not only doing your job; you are doing it well",
+   "start": 24357,
+   "end": 24411
+  },
+  {
+   "fact": "Arendt：\"为极权统治铺路的，是孤独从边缘体验变成日常体验\"；Lifton 补充极权是\"支配体系也是安慰来源\"——作者据此解读我们的时刻：为了归属的毛毯，我们愿意接受对民主的侵入。",
+   "anchor": "has become an everyday experience",
+   "start": 25640,
+   "end": 25673
+  },
+  {
+   "fact": "ch03 那个编假社团的 Luke：\"chatbots 是一切\"；假社团列在简历上，真社团他连试都不试——\"反正也没人会来\"；chatbots 的双面讯息：\"you've got this\" 之下教的是 disempowerment。",
+   "anchor": "no one would show up anyway",
+   "start": 28984,
+   "end": 29011
+  },
+  {
+   "fact": "全书结尾：写书期间长新冠咳嗽到说不出整句、进 Mass General 急诊；她按职业礼节给演讲方写备选信，收到的却是三位组织者各自发来的\"我们为你祈祷\"——\"I felt cherished\"；Q&A 上她以此故事而非哲学论证回答\"以后不就会了吗\"：\"I think we should end on this.\"",
+   "anchor": "three people in that room had prayed for me",
+   "start": 37189,
+   "end": 37232
+  }
+ ]
+}
