@@ -85,13 +85,13 @@ modified: "2026-11-04"
 
 **读者视角提示**：这句与 ch21 的「那不是我」前后呼应——同一个结论，一次说给父亲，一次说给自己。
 
-> **原句 8:** "He finally looks at me with a piece of his heart breaking as he speaks. “I wish you would have told me you felt that way. Maybe I could’ve done something—maybe I could have fixed it before it got to this.” My eyes fill with tears—betrayal sinking into them."
+> **原句 8:** "He finally looks at me with a piece of his heart breaking as he speaks. “I wish you would have told me you felt that way. Maybe I could’ve done something—maybe I could have fixed it before it got to this.” My eyes fill with tears—betrayal sinking into them. “How could you not see it?” I choke. “I’m right in front of you every single day. How could you not see that I was broken?” “Please don’t tell anyone about this,” he says in a dull whisper."
 
-**中文理解**：他终于看向她，心碎了一角：你要是早告诉我……也许我能做点什么——也许能在这之前修好。她眼里蓄满泪水，沉下去的全是背叛。
+**中文理解**：他终于看向她，心碎了一角：你要是早告诉我……也许能在这之前修好。她哭问：我天天在你眼前，你怎么看不见我碎了？他的回应却是压低声音的一句——这件事别告诉任何人。
 
-**关键词**：a piece of his heart breaking / I could have fixed it / betrayal sinking
+**关键词**：a piece of his heart breaking / I was broken / don’t tell anyone
 
-**为什么这样写**：他的道歉与她的背叛感同时上桌——fixed 一词暴露父亲的认知：他把家暴当故障、把自己当局外修理工；betrayal 不是被巴掌打出来的，是被这句「你怎么不早说」补刀的。
+**为什么这样写**：他的道歉与她的控诉同段对撞——fixed 一词暴露父亲的认知：他把家暴当故障、把自己当局外修理工；「你怎么不早说」之后他给的竟然是保密请求：把家暴变成家里的私事，这比沉默更冷，好人的失职在此定音。
 
 **读者视角提示**：受害者的「你怎么不早说」对幸存者是二次伤害——本书对「好人的失职」的批判，到这里完成定音。
 
@@ -99,7 +99,7 @@ modified: "2026-11-04"
 
 **中文理解**：他的临别请求竟是「别告诉任何人」——她甩下一句：你跟她一样坏；怒着摇头、拖包绕过他，大步走出房间。
 
-**关键词**：don’t tell anyone / just as bad as she is / swerve past him
+**关键词**：just as bad as she is / swerve past him / marching out of my room
 
 **为什么这样写**：父亲用「保密」把家暴变成家里的私事——这比沉默更冷，因为它有明确的利害计算；just as bad 的等号是全书最重的判决之一：包庇=共犯；swerve 的走位写出她连告别的力气都省了。
 
