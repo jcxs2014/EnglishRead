@@ -1,0 +1,55 @@
+{
+ "book": "ask-me-to-stay-by-mackenzie-osborn",
+ "chapter": "ch01",
+ "text": "notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/text/ch01_1.txt",
+ "facts": [
+  {
+   "fact": "Billie 十年后回到她当年逃离的华盛顿老家，已离开纽约、与 Graham 分手。",
+   "anchor": "After ten years, I’ll be back in the very place that I happily ran away from. I thought when I left, that would be it.",
+   "start": 59,
+   "end": 177
+  },
+  {
+   "fact": "她把全部家当塞进后备箱就出发——没有计划，油箱只有半箱油。",
+   "anchor": "I stuck all of my belongings in my trunk, and I mean all of my belongings, I figured I’d see what would happen. No plan. Half a tank of gas ready to go.",
+   "start": 686,
+   "end": 838
+  },
+  {
+   "fact": "父亲身边是「他那可怕的妻子」（Eloise），是她紧张害怕的对象之一。",
+   "anchor": "it’s just my dad. Him and his horrible wife.",
+   "start": 1420,
+   "end": 1464
+  },
+  {
+   "fact": "父母的房子 2,500 平方英尺，对两个人来说太空了。",
+   "anchor": "Twenty-five hundred square feet to be exact. Far too much space for only two people.",
+   "start": 2123,
+   "end": 2207
+  },
+  {
+   "fact": "她把车停进车道后盯着车库门整整五分钟，一度想「明天再来、先给父亲打电话」。",
+   "anchor": "I place my car in park and stare at the garage door for five whole minutes.",
+   "start": 2479,
+   "end": 2554
+  },
+  {
+   "fact": "当年她搬家时父亲没有阻止 Eloise「画下界线」——她担心这次父亲照样不会站在她这边。",
+   "anchor": "he didn’t stop her from drawing it herself.",
+   "start": 3200,
+   "end": 3243
+  },
+  {
+   "fact": "就在她几乎转身离开时门开了——父亲哽咽着叫出她的名字。",
+   "anchor": "His voice chokes as he speaks. “Billie?”",
+   "start": 4580,
+   "end": 4620
+  },
+  {
+   "fact": "父亲含泪拥抱她、唤她 baby girl，她抱得更紧、哭得更凶。",
+   "anchor": "“Hi, baby girl,” he says.",
+   "start": 4920,
+   "end": 4945
+  }
+ ]
+}
