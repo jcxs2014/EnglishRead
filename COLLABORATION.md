@@ -227,8 +227,7 @@ T1 同会话自检 + T3 同会话深审；异会话终审未做待用户发起�
 
 [victorious-by-v-e-schwab] 《Victorious》(V. E. Schwab) 完工 + T3 全量深审 —— 126 章精读 + 总览三篇
 
-规模：129 件 = 126 章精读 + 总览三篇（00_概述 / 00_金句精选 / 00_情感节点）；原文 136,893 词（text/ 126 件，verify_corpus --expect 126 PASS）。
-生产：126 章逐章素读（raw-gates production/ 下 126 份 suread.json + 126 份 facts.txt 全在库）；主会话直写与子代理起草并行，每章 chapter.sh rc=0 后即提交。
+规模：129 件 = 126 章精读 + 总览三篇（00_概述 / 00_金句精选 / 00_情感节点）；原文 136,893 词（text/ 126 件，verify_corpus --expect 126 PASS）；126 章逐章素读（production/ 下 126 份 suread.json + 126 份 facts.txt 全在库），主会话直写与子代理起草并行，每章 chapter.sh rc=0 后即提交。
 
 【完工 · 2026-11-02 02:58 UTC】
 完工门禁：gate.sh EXIT=0（⑭ 总览引语 71/71、⑯ 伪造 0、⑰ 628 引语块编号连续、⑱⑲ 阻断 0、⑳ 空引号·模板套话·残句·块数越界全 0）；verify_quotes --full 644/644（100%）；词汇 1,134 条 FAIL 0。
@@ -242,8 +241,7 @@ T1 自检（同会话）：抽 26 章（126 的 1/5 向上取整、首末必含�
 补写 39 个引语块（628 → 695 块），其中 4 条是真漏：ch16 二十七块玻璃碎片 / ch17 海伦娜清场履历 / ch26 琼说想退出 / ch82 父母只准她「接近」养宠物。
 修后终态：gate.sh EXIT=0（⑭ 71/71、⑯ 伪造 0、⑰ 695 块编号连续无撞车、⑱ 阻断 0/提示 6、⑲ 阻断 0/提示 113、⑳ 全 0；⑮ 既有 ⚠️ ch1/ch111 同句）；verify_quotes --full 766/766（100%）、干净文件 129/129、整串取证 0。
 产物：raw-gates review/ 下 2026-11-02-复核与修复指令.md（A 阻断 3 条 / B 提示 8 类 / C 不修 8 类，逐条「改前→改后 + 依据行号」）、T3-汇总.md、T3-完工门禁-2026-11-02-final.txt；台账已记「深 / 异会话」。
-commit 165 笔（本书目录 + raw-gates，作者均 jcxs2014@126.com，无并行实例重复稿）全部未 push。
-工作日志见 .memory/daily/2026-11-02.md 的 victorious-by-v-e-schwab 节。
+commit 165 笔（本书目录 + raw-gates，作者均 jcxs2014@126.com，无并行实例重复稿）全部未 push；工作日志见 .memory/daily/2026-11-02.md 的 victorious-by-v-e-schwab 节。
 
 ---
 
