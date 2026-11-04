@@ -1,0 +1,55 @@
+{
+ "book": "anchored-to-the-storm-by-india-r-adams",
+ "chapter": "ch02",
+ "text": "notes/books/novels/anchored-to-the-storm-by-india-r-adams/text/ch02_east_two.txt",
+ "facts": [
+  {
+   "fact": "Styx 边帮 Maddox 脱湿衣边交代：siren 之事并非神话，Saleeni 会呼唤他。",
+   "anchor": "The whole ‘siren’ thing isn’t a myth either. She will call for you",
+   "start": 1079,
+   "end": 1145
+  },
+  {
+   "fact": "Styx 与 Maddox 掌心相贴起誓永不放手：当年守着父亲直到无能为力是为了救父亲的命、也是救他的命。",
+   "anchor": "I stayed by your dad’s side until I couldn’t in order to save his life. Your life",
+   "start": 2367,
+   "end": 2448
+  },
+  {
+   "fact": "Maddox 回忆十岁生日首次坐上父亲的摩托，枪声响起，父亲喊了他一声就倒地。",
+   "anchor": "It was my tenth Life Date, AKA birthday, and I was on the back of Dad’s bike for the first time",
+   "start": 2504,
+   "end": 2599
+  },
+  {
+   "fact": "Maddox 问 Styx 这是不是 Noma 深爱的那部分，Styx 背对着他流泪回答：也许，但她也恨过我。",
+   "anchor": "“Maybe… but she hated me, too.”",
+   "start": 3957,
+   "end": 3988
+  },
+  {
+   "fact": "浴缸危机中 Styx 读唇告知情况不对，并说上次听到这种尖叫时，他的美人鱼死了——催 Maddox 立刻去找她。",
+   "anchor": "“but the last time I heard that shriek… my mermaid died.”",
+   "start": 9140,
+   "end": 9197
+  },
+  {
+   "fact": "Maddox 明白她的痛等于失去太阳，从海堤一跃跳入黑暗夜空，吼着 Saleeniiiii! 落进大西洋。",
+   "anchor": "My heart denied gravity, and I leaped into the dark sky, pushing off the wall",
+   "start": 10938,
+   "end": 11015
+  },
+  {
+   "fact": "水下 Maddox 心中一震，确认 Saleeni 不是家人，而是他的命运。",
+   "anchor": "Saleeni was no family member. She was… is… my destiny",
+   "start": 12076,
+   "end": 12129
+  },
+  {
+   "fact": "Saleeni 潜走后又从身后出现，把 Noma 送的黄铜指虎套回 Maddox 残缺的右手，还亲吻了他丑陋的断指。",
+   "anchor": "she took my right damaged hand and placed the brass onto my fingers",
+   "start": 19537,
+   "end": 19604
+  }
+ ]
+}
