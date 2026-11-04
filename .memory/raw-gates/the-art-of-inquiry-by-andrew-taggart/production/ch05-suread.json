@@ -1,0 +1,115 @@
+{
+ "book": "the-art-of-inquiry-by-andrew-taggart",
+ "chapter": "ch05",
+ "text": "notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/text/ch05_3_putting_lives_in_order.txt",
+ "facts": [
+  {
+   "fact": "15 年来哲学咨询公共辩论从一开始就错了：错误一是把 PC 绑上单一 essence（怕它 blow away）；作者的椭圆但不失准的回复——PC 是把生活理顺的艺术（the art of putting lives in order）",
+   "anchor": "wrongheaded from the start",
+   "start": 135,
+   "end": 161
+  },
+  {
+   "fact": "错误二是太快太轻易把 PC 套进 therapeutic model：媒体标题如 Socratic Shrink（咨询师=治疗师）、The Mental Health of Philosophical Counseling（用 DSM 标准评估）、Prescribing Aristotle（把永恒理念用于个案=私人家教）；WaPo 文章里 a broken-hearted patient 被 prescribe Epictetus 来代替 Effexor",
+   "anchor": "Socratic Shrink",
+   "start": 692,
+   "end": 707
+  },
+  {
+   "fact": "媒体文章聚焦的议题：PC 与心理学的关系（mental health/illness、diagnosis/treatment/cure、不给药开什么）；理论的应用（applied ethics？）；结果可测吗（拿什么证据说它有用）；合法性（训练、认证机构、法律、client 防受害的救济）",
+   "anchor": "The Relation of Philosophical Counseling (PC) to Psychology",
+   "start": 1451,
+   "end": 1510
+  },
+  {
+   "fact": "作者的回应不是参战而是搁置：不确定这些问题有趣；与对话者尚未确立 aim/doing/seeking；在给定语词内我答不出 intelligible reply；这些问题与我「from the inside」体验的哲学实践无关（并非 glib）",
+   "anchor": "I’m not sure that the questions are all that interesting",
+   "start": 2563,
+   "end": 2619
+  },
+  {
+   "fact": "Appiah《Cosmopolitanism》：同性恋获得更广接纳不是因为观念在公共论坛或学术会议胜出，而是异性恋者慢慢习惯与同性恋邻居同事比邻而居共事；实践嵌入 collective way of life 后人渐熟悉；若 Appiah 对，有时更好的策略是让对方感受 practice 什么样——Rortian 地 change the topic of conversation",
+   "anchor": "As Anthony Appiah shows",
+   "start": 2992,
+   "end": 3015
+  },
+  {
+   "fact": "框架：way of life=个人或集体 leading a good life 的模型，由特定 institutions 内的 practices 组成；institution=个人群体可培育朝向 well-established final ends 之实践之所；practice=由 habits、dispositions、strategies、exercises 组成的 style/activity",
+   "anchor": "any way of life can be regarded as flourishing",
+   "start": 3685,
+   "end": 3731
+  },
+  {
+   "fact": "评估法：看他是否持正确的 final ends；实践设计多好地达成这些目的；采取什么策略；培养了哪些 virtues；哪些 habits、self-conceptions、基本理解助进或阻退；经 dialogue、meditation、guided inquiry，实践者试图理解个体的 practice 何处 out of joint、某种 way of life 为何按其自身条款难以持续",
+   "anchor": "To determine how robust",
+   "start": 4331,
+   "end": 4354
+  },
+  {
+   "fact": "love 例：按 Augustine，爱是为其自身之故欲求善；当对「他者」与「我们」的欲望不再被满足，人会动用 strategies of retention（半意识地试、轮番跑一遍、明知有缺陷仍一次次回到某一条）以维持对该对象与生活形式的欲望",
+   "anchor": "Take love, for instance",
+   "start": 5471,
+   "end": 5494
+  },
+  {
+   "fact": "策略有限集：把 essential 设于自身之外——只可在未来实现的爱的完满，等待或追求原则上不可得者；转向 realism（用 companionable 而非 erotic 词重新理解爱人）；讨价还价、重新估值、trade-offs；进入 master 或 servant 角色；净化欲望做 ascetic（为义务而义务）；干脆 resignation 退出社会生活",
+   "anchor": "There is only a finite set",
+   "start": 5933,
+   "end": 5959
+  },
+  {
+   "fact": "悲剧性的 lived logic、indirect proof：一种生活形式里的诸多可能性必须被试过才能整体排除；只有那时才意识到该生活形式 untenable，才可能 fall into conceptual despair——不知 how to go on",
+   "anchor": "The upshot is that there is a tragic",
+   "start": 6703,
+   "end": 6739
+  },
+  {
+   "fact": "核心主张：人很少以最严肃的态度反思自己生活的形状，直到那生活开始散架；意识到它为何崩塌是理论洞见也是成就；但 theoretical insight 只是 exercise 之一；源自 clarity 之 life-need 的 conceptual analysis 教我们理清 conceptions、划相关区分、磨 judgment、挑正反例——把一种幸福 conception 与另一种 prizing apart 能清理概念库",
+   "anchor": "My claim is that one rarely reflects",
+   "start": 7048,
+   "end": 7084
+  },
+  {
+   "fact": "然而 conceptual analysis 单独不够：个体已习惯在制度（他 half-heartedly 属于的）内活出某些幸福 conception 并在行为中重复；其他 exercise 如 premeditation、letter writing、examinations of conscience 也会按目的不同而更多或更少地出现（ch10 预告：examination of one's conscience 的日课）",
+   "anchor": "On its own, however, conceptual analysis is not sufficient",
+   "start": 7756,
+   "end": 7814
+  },
+  {
+   "fact": "转变：须发展新 practices；走出旧爱或破碎婚姻者须培育（再 mundane 也好）把自己重新接回世界的实践——学重新欲望的艺术、欲望更高目的的艺术，同时把自己锚到这些欲望可被满足的世界；发现更有价值的 ends 可被满足或以别的方式满足、价值表已变、更高目的召唤不同 virtues；He is learning how to live again；insight into lived logic + exercises + 新实践的三要素=理顺生活的艺术",
+   "anchor": "To make the transition",
+   "start": 8304,
+   "end": 8326
+  },
+  {
+   "fact": "MacIntyre《After Virtue》的奠基一课：alienation entails nihilism；个体被 institution peel off、无法认同社会角色后，立刻难以找到朝向此端而非彼端的 good or good-enough reasons；nihilism=groundlessness——没有 non-arbitrary criterion 判定哪种生活更好或更糟；I can live this way, but why should I?；流放中人人可能成为 wastrel、flâneur、prodigal son",
+   "anchor": "One of the seminal lessons",
+   "start": 9313,
+   "end": 9339
+  },
+  {
+   "fact": "三形式准则：meaning、wholeness、clarity；Nozick《The Examined Life》区分 value 与 meaning——value 涉及 organic unity（intrinsic worth），meaning 是关系性概念（把我们 attachment 到价值对象者）；authentic life 不足以成 good life（可能内部连贯却于价值全然 trivial）；meaningful practices 须朝向 common good、love、friendship、well-made things、transcendent；wholeness=Aquinas 的 integritas——外部整合（实践助益所属 institutions 的 flourishing）+内部整合（终极目的不在不可通约诸善间悲剧冲突而汇入 life-work）",
+   "anchor": "To take MacIntyre’s thought seriously",
+   "start": 9976,
+   "end": 10013
+  },
+  {
+   "fact": "clarity 是最终不可谈判的准则：作为 practical beings 我们无须 contemplative 或思辨哲学家尊崇的那种 clarity，但须 good-enough 的理解——institution 在为我们工作、实践在为我们理顺行动与观念；不能被搁浅在 how to get on、what's to be done 的重疑瘫痪中；just-enough kind 的 clarity 要足以照亮生活路径，让 powerlessness、restlessness、exhaustion、suicide 的怀疑无从立足",
+   "anchor": "Clarity is the final, non-negotiable criterion",
+   "start": 11097,
+   "end": 11143
+  },
+  {
+   "fact": "推论：克服 alienation 即消灭 nihilism 成立的前提是 institutions 的 final ends 真有独立价值；若某制度事实上不朝向更高善，则 alienation 与 nihilism 是全局问题——我们集体不知 how to go on；好制度=人与群体能培育好实践、满足三准则、能适应变化、持续 fulfilling 独立价值目的之地",
+   "anchor": "The implication of my claim",
+   "start": 11826,
+   "end": 11853
+  },
+  {
+   "fact": "开放问题：21 世纪初的制度实际支持好实践吗？不确定（此处不论）；若支持且足够 robust——错误源头可能就在个人实践，哲学实践的任务是帮他把 practice 与所嵌 institutions 调和；若不支持——问题源头比想的更深：不在我们脑子里，而在我们 collective way of life 的心脏",
+   "anchor": "whether institutions in the early twenty-first century",
+   "start": 12677,
+   "end": 12731
+  }
+ ]
+}
