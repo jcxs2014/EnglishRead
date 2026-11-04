@@ -98,6 +98,28 @@ modified: "2026-11-04"
 **为什么这样写**：守诺者的诚实比安慰更狠——他先声明规则再输出坏消息；笑与凶讯并置，Styx 的黑色幽默是他传达恐惧的方式。
 **读者视角提示**："她怎么活下来的"与"River 为何交子"并列成本书两大悬案——两条线索都指向水里那些没露面的存在。
 
+
+> **原句 13:** "Calming down, he finally added, “Well, that night, and others after, I promised her that my Baby Boy would come back to her someday.”"
+
+**中文理解**：Styx 平复下来才补完那晚的后续——从那一夜起，他一次又一次回到海堤，向她许诺：我的 Baby Boy 总有一天会回到你身边。
+**关键词**：promised her / Baby Boy / come back to her someday
+**为什么这样写**：Baby Boy 原来是祖孙与美人鱼三方共享的称呼——Noma 的爱称经由 Styx 的承诺传递给了水下的她；一个昵称被写成跨越物种的信物，八年等待在语法上早有约定。
+**读者视角提示**：把这句与 Maddox 的旧梦对读——他一直梦见她喊他 boy，此刻才知道梦的另一端是谁在喊。
+
+> **原句 14:** "Then I found a word that encompasses such sights—illumination—but also spiritual light and intuition. It was Saleeni."
+
+**中文理解**：Styx 反复回访、查遍资料，终于找到一个能同时罩住那些景象与灵性直觉的词——illumination（灵光）；他从中拼出了她的名字：Saleeni。
+**关键词**：encompasses such sights / illumination / It was Saleeni
+**为什么这样写**：命名仪式被写成一次考据——名字不是恩赐而是研究成果，人的语言试图追上神的到访；illumination 的三层含义（景象/灵光/直觉）恰好预言了她此后展示的全部能力。
+**读者视角提示**：她的名字出自 Styx 之口、出自冥河的见证者——记住这条命名链，东线与西线的两条河流在此正式交汇。
+
+> **原句 15:** "Styx stared at me with an expression I struggled to read. He rubbed down his goatee before finally saying, “You look just like him.”"
+
+**中文理解**：Styx 盯着他看了许久，表情难以解读；他捋了捋山羊胡，终于开口——你长得真像他。
+**关键词**：stared at me / rubbed down his goatee / You look just like him
+**为什么这样写**：全章的解密以一句最简单的家常话收束——所有神话、条款、密码与泳池，最后落在一张与亡父相似的脸；"他"字悬在句尾，让父亲的在场方式成为本章最后一格画面。
+**读者视角提示**：这是本章情感落点：Maddox 要的不只是答案，是长得像谁的资格——他得到了。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -131,4 +153,4 @@ modified: "2026-11-04"
 | contagious | 有感染力的 | Styx’s smile was so big it was contagious. |
 
 ## 一句话总结
-神话对账本章结清：River 之名、代守两界、"十岁死期""八年放逐""河赐产业"逐条应验；未被读完的条款也浮出——River 为何把孩子交给人类、她到底死于什么。地板沉降露出父亲留下的 The Lagoon 与通海隧道，生日的恨意第一次被一件迟到的礼物接住。
+神话对账本章结清：River 之名、代守两界、"十岁死期""八年放逐""河赐产业"逐条应验；未被读完的条款也浮出——River 为何把孩子交给人类、她到底死于什么。地板沉降露出父亲留下的 The Lagoon 与通海隧道，生日的恨意第一次被一件迟到的礼物接住；披萨夜话补上最后一块来历——爆炸当夜堤下的小人鱼被他以「illumination」命名为 Saleeni，而那句「你长得真像他」把所有神话落回一张脸。
