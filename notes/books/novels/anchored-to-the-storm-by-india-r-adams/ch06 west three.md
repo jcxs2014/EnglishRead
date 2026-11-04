@@ -46,7 +46,7 @@ modified: "2026-11-04"
 
 **中文理解**：他带上门的瞬间，Sebastian 在睡梦里含糊念出："零-四-九-九。"什么？
 **关键词**：mumbled / Zero-four-nine-nine / Huh?
-**为什么这样写**：六位数密码从千里之外的梦呓里漏出——没有解释、没有铺垫，一个 "Huh?" 就是全部反应；跨线同步第一次给出可验证的硬证据，比任何星光都惊悚。
+**为什么这样写**：四位密码从千里之外的梦呓里漏出——没有解释、没有铺垫，一个 "Huh?" 就是全部反应；跨线同步第一次给出可验证的硬证据，比任何星光都惊悚。
 **读者视角提示**：这是安全屋的门锁密码（东线 ch01）——Sebastian 不可能知道，此谜全书不解，只能记下。
 
 > **原句 6:** "My scars weren't only skin deep… and this young woman knew it. Her cool touch on my scarred face; she whispered, 'You will never convince me her death is your fault.'"

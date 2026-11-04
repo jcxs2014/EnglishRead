@@ -95,7 +95,7 @@ modified: "2026-11-04"
 
 **中文理解**：他深吸一口气才说得出那个恐怖的日子：来自绑在桥柱上的炸弹。
 **关键词**：drew in air / horrid day / the bomb attached to a bridge's pillar
-**为什么这样写**：答案只有十个词——爆炸的规模由叙述的克制反衬；"attached" 这个中性动词冷得像侦察报告。
+**为什么这样写**：答案只有八个词——爆炸的规模由叙述的克制反衬；"attached" 这个中性动词冷得像侦察报告。
 **读者视角提示**：桥柱炸弹=父亲坠海的源头——至此两场灭门（水族与 Gentry 家）共用同一枚炸药。
 
 > **原句 13:** "Styx was paler than I had ever seen him. 'Because they didn't plant it.' He stumbled back a few steps. 'That bomb wasn't for us.'"

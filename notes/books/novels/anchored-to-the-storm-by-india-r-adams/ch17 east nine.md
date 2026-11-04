@@ -81,7 +81,7 @@ modified: "2026-11-04"
 
 **中文理解**：我们当然知道——你以为这些年你在 Weathers 家是无人保护的？他指指背心上的徽章：所以我们现在是 Saltbone Sinners。
 **关键词**：unprotected at the Weathers' / cut's patches / Saltbone Sinners
-**为什么这样写**：被保护者第一次看到保护网的针脚——"unprotected" 的反问纠正了他八年的认知；盐骨之名与 Noma 的昵称（Sinner）在俱乐部史上会师。
+**为什么这样写**：被保护者第一次看到保护网的针脚——"unprotected" 的反问纠正了他自以为孤身流亡的认知；盐骨之名与 Noma 的昵称（Sinner）在俱乐部史上会师。
 **读者视角提示**：叔辈的"死亡"是战术隐身——全书最大规模的一次瞒报，此刻集中兑付。
 
 > **原句 11:** "It was my very own cut. My rank patch read: Someday President"

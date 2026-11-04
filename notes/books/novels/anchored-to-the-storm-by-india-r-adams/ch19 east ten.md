@@ -88,7 +88,7 @@ modified: "2026-11-04"
 
 **中文理解**：他又笑了：没有什么是不能的，Brass。
 **关键词**：smiled again / 'Nothing is impossible, Brass.'
-**为什么这样写**：全书的母题句从 Styx 的嘴里搬进临终者的遗言——信条完成最后一次转手；由一个死者说出，"impossible" 一词从此带上遗焗的重量。
+**为什么这样写**：全书的母题句从 Styx 的嘴里搬进临终者的遗言——信条完成最后一次转手；由一个死者说出，"impossible" 一词从此带上遗嘱的重量。
 **读者视角提示**：这句话现在有三个持有人（Styx、Noma 系、Dale）——它已从安慰升格为家训。
 
 > **原句 12:** "Inhaling, because she had forgotten to breathe until she felt me, she turned to my chest. 'Johnny.'"

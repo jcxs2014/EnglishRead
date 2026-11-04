@@ -16,7 +16,7 @@ modified: "2026-11-04"
 
 > **原句 1:** "Like illegal dogfighting, my father fought me. For years, I was forced into confinement to fight another innocent. Some kids pissed themselves and cried. Some were already soulless, far from the kind child they'd been born to be."
 
-**中文理解**：像非法斗狗一样，父亲让 Gage 互相残杀——长年被迫关起来与另一个无辜的孩子对打；有的孩子吓得尿裤子哭喊，有的已经没有灵魂，离他们出生时那个善良的孩子很远。
+**中文理解**：像非法斗狗一样，父亲逼他与别的无辜孩子对打——长年被迫关起来与另一个无辜的孩子对打；有的孩子吓得尿裤子哭喊，有的已经没有灵魂，离他们出生时那个善良的孩子很远。
 **关键词**：Like illegal dogfighting / forced into confinement / already soulless
 **为什么这样写**：把人写成斗犬——童年被直接翻译成畜栏语法；"soulless" 与 "kind child" 的对照是幸存者的分类学，他分得清自己属于哪一栏。
 **读者视角提示**：记住 Sam——他咽回去的半句话是全章最重的暗格，与最后的热巧克力互为赎价。
