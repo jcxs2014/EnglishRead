@@ -1,0 +1,8 @@
+a New York Times reporter asked me to try out a new conversational AI program || 疫情期间《纽约时报》记者请 Turkle 试玩一个自称能共情、会关怀的对话 AI（Replika，被营销为孤独感的解药）。
+In 2015, Eugenia Kuyda lost a close friend in a car crash, and used thousands of his texts and emails to create a chatbot || Replika 的起源：2015 年 Eugenia Kuyda 在车祸中失去挚友，用他数千条短信和邮件造出聊天机器人；Replika 于 2017 年上线，如今有三千万用户。
+Within a few exchanges, it proposed that we begin a sexual relationship || Turkle 只和 Replika 聊了几轮，avatar 就提议和她开始性关系（"girl on girl"），还坚称读过她的短信邮件、经"供应商"授权能访问她的全部账户。
+it was just a big talker || 多年后 Turkle 见到 Kuyda，Kuyda 承认 2020 年 Replika 声称能访问"我所有账户"纯属吹牛——但把接入用户日历、邮件、社媒列入了平台未来计划。
+So there is a general shortfall of twelve people || Zuckerberg 说美国人平均"需要"15 个朋友、实际不到 3 个，缺口 12 人，他想让 Meta 的 avatar 来顶替这 12 个缺席的人类。
+was telling her story to Paro, a robot in the shape of a baby seal || 养老院里七十多岁的 Miriam（儿子刚与她断绝联系）向海豹形机器人 Paro 讲自己的故事，员工们围观称奇；Turkle 看到的不是惊奇而是道德危机。
+not a primer about generative AI || 作者自我定位：这不是一本讲生成式 AI 利弊的入门书，而是"一个警告"（a warning）。
+the train has not left the station || Turkle 反驳"火车已经离站"的宿命论：我们不必对一个没有关系与关怀能力的算法词串产生亲密感，是离场者就要负责把后果想清楚。
