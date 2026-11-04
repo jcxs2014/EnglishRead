@@ -1,0 +1,67 @@
+{
+ "book": "the-art-of-inquiry-by-andrew-taggart",
+ "chapter": "ch01",
+ "text": "notes/books/non-fiction/the-art-of-inquiry-by-andrew-taggart/text/ch01_preface.txt",
+ "facts": [
+  {
+   "fact": "2009 年 1 月初作者在麦迪逊威斯康星提交博士论文，天气极寒（零下 10 至 19 度），七年思考良善生活换来 anticlimax",
+   "anchor": "Around the time I deposited my Ph.D. dissertation in early January 2009",
+   "start": 19,
+   "end": 90
+  },
+  {
+   "fact": "那年冬天他常坐厨房像 Whistler 的母亲，看裹满冰的鸟食架摇晃——It swayed, and I swayed",
+   "anchor": "That winter I often sat in the kitchen like Whistler",
+   "start": 455,
+   "end": 507
+  },
+  {
+   "fact": "慢慢意识到自己不适合学术，尽管已投入 11 年想当教授；一切都结束了，不知道接下来要做什么",
+   "anchor": "wasn’t cut out to be an academic",
+   "start": 743,
+   "end": 775
+  },
+  {
+   "fact": "反讽：写了良善生活的论文却不知怎么生活；困惑被恩典回应——读到 Pierre Hadot：哲学是 a way of life、对智慧的持续追求； Hadot 所谓 spiritual exercises 的践行者追求智慧",
+   "anchor": "having stumbled upon the works of the French philosopher Pierre Hadot",
+   "start": 1127,
+   "end": 1196
+  },
+  {
+   "fact": "八个月后去纽约，受训成为 practical philosopher，开始与人 philosophizing——他把这叫 soft volta",
+   "anchor": "Eight months later, I left for New York City",
+   "start": 1471,
+   "end": 1515
+  },
+  {
+   "fact": "我们从盲目出发，几乎没人知道自己在世上的所作所为；现代性里生活没有预设意义、形状、方向、指南针，感觉 up for grabs；整个事业悬于与 moreness 的接触",
+   "anchor": "We start off in blindness since almost none of us know",
+   "start": 1625,
+   "end": 1679
+  },
+  {
+   "fact": "2012 年夏写原版 The Art of Inquiry 作 hedge；已故友人 Pete Sims (1981-2021) 邀他去丹麦 Kaos Pilots（社会企业结合艺术的学校）教书；folk high school (højskole) 教育基于经验：教室是表演空间，每天 8 小时向当下展开的学习开放",
+   "anchor": "I wrote the original Art of Inquiry in the summer of 2012",
+   "start": 2804,
+   "end": 2861
+  },
+  {
+   "fact": "14 年来他与青少年、艺术家、苏菲、佛教徒、天主教徒、CEO 等各色人等 inquiry，共同特质是 open-mindedness——愿意拿起从未见过的问题",
+   "anchor": "they’ve all shared the same character trait: open-mindedness",
+   "start": 3737,
+   "end": 3797
+  },
+  {
+   "fact": "哲学询问的基本坐标：从 existential confusion 到 existential clarity 的运动；inquiry 不是线性而是迭代、高度有纹理的过程；如 Socrates 所知自我检视是持续的",
+   "anchor": "The basic coordinates spelled out in The Art of Inquiry",
+   "start": 3985,
+   "end": 4040
+  },
+  {
+   "fact": "Nozick 把过检视的生活比作画自画像——不是一天之功，每一笔都是决定；假以时日画布上的形象成为艺术家诚实自视的渴望，胜过伦勃朗画作的满足",
+   "anchor": "In The Examined Life: Philosophical Meditations, Robert Nozick once likened",
+   "start": 4723,
+   "end": 4798
+  }
+ ]
+}
