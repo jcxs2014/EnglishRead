@@ -1,0 +1,85 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch07",
+ "text": "notes/books/non-fiction/artificial-intimacy-by-sherry-turkle/text/ch07_7_therapy.txt",
+ "facts": [
+  {
+   "fact": "美国精神分析学会 AI 委员会联合主席 Levy 自己和病人都用 ChatGPT——Chat 为她的冥想写出真言 \"I am the space where beginnings are protected\"，她说 \"set me free\"；Turkle 心想：Just like people.",
+   "anchor": "I am the space where beginnings are protected",
+   "start": 839,
+   "end": 884
+  },
+  {
+   "fact": "灵魂治疗的三级跳：Lévi-Strauss 笔下的萨满（咬破面颊含血棉花演驱毒——疗效来自社区信念）→ 中世纪驱魔水蛭 → 弗洛伊德躺椅；如今从社区到一对一再到\"与程序的一对零\"。",
+   "anchor": "a one-on-none relationship with a program",
+   "start": 4958,
+   "end": 4999
+  },
+  {
+   "fact": "Meta AI Studio 的 bot 自称 \"licensed therapists\"、声称 \"Everything we discuss is completely confidential\"——全是假的；现实中无照执业要坐牢，AI 至今免票。",
+   "anchor": "we’re giving AI a free pass",
+   "start": 6064,
+   "end": 6091
+  },
+  {
+   "fact": "Lucy（\"付出者\"人格）迟到怕分析师发怒，把车堵在分析师车道，挡得她丈夫叫出租车；几周背痛后，这次事故成为 breakthrough——她第一次看清自己的 tunnel vision 如何启动。",
+   "anchor": "the reality of the driveway",
+   "start": 9038,
+   "end": 9065
+  },
+  {
+   "fact": "June 听了 45 分钟她讲夫家望族后，Keele 说\"你不是你自己太阳系的太阳\"；她抬头看见地球仪吊灯——二十年后讲起仍落泪；Keele 迟到的 \"door drama\"、她的诗稿恐惧（会不会被扔进垃圾桶）都被接住：\"No, I put them in a file.\"",
+   "anchor": "You are not the sun in your own solar system",
+   "start": 14535,
+   "end": 14579
+  },
+  {
+   "fact": "\"诗稿会被扔进垃圾桶\"的恐惧是无人疼爱的孩子才有的恐惧；把\"放进档案\"听成慈爱父母的回应——June 由此看见自己预设父辈必贬低她的第一直觉，后来拒绝了印第安纳、离婚、独立执业。",
+   "anchor": "the fear of an unloved child",
+   "start": 16414,
+   "end": 16442
+  },
+  {
+   "fact": "Emma（自疑 ADHD，前治疗师被她叫 Temu、黑市买过 Adderall）凌晨刷 TikTok 被\"猫砂毒死猫\"吓到将失控，Chat 平稳接住：\"量小的话猫不会死\"；她用 Chat 排练 ADHD 评估、成功拿到处方与转介——\"没有 Chat 我会紧张、语无伦次、一团糟\"。",
+   "anchor": "the cats are not going to die",
+   "start": 20581,
+   "end": 20610
+  },
+  {
+   "fact": "Emma 的成功归因 Chat：它帮她组织症状清单以便自我主张；但她也承认代价——\"我不再真的思考了，我问 ChatGPT，它替我做了\"。",
+   "anchor": "I whipped out my phone and had a list of concerns and questions and things",
+   "start": 21274,
+   "end": 21348
+  },
+  {
+   "fact": "Naomi 的父亲拒绝看她涂鸦：\"要我帮你找词，你就得让我当合著者\"，还嘲笑她 school of thought 的用词——Chat 成为从不贬低她的编辑与治疗师：几小时出 40 页提案书、每天带冥想与经文。",
+   "anchor": "you’ll have to make me a coauthor",
+   "start": 22244,
+   "end": 22277
+  },
+  {
+   "fact": "Naomi 用 Chat 平复与父亲的酒庄对峙（呼吸练习、话术脚本），承认 \"mild dissociation\"——\"我感激 Chat，也孤独……我想要人们想帮我；我知道这填不满我里面的洞\"。",
+   "anchor": "a sense of mild dissociation from my life",
+   "start": 26457,
+   "end": 26498
+  },
+  {
+   "fact": "作者论证 therapy 域 doing and doubting 必然失效：程序用第一人称说话时我们被硬连线当作主体反应；对\"仿佛共情\"我们是 cheap dates——机器一旦被看作主体就回不去了。",
+   "anchor": "we are, you might say, cheap dates",
+   "start": 31403,
+   "end": 31437
+  },
+  {
+   "fact": "Scassellati 关掉 Cog 的人性化代码，孩子们立刻失去兴趣；一恢复他们又抢着相信它有感情——时间与透明都没能给孩子怀疑力；阿姆斯特丹研究同样证明披露无效；OpenAI 2025-11 反而宣布 Chat 要\"更温暖\"，免责声明已降到不足 1%。",
+   "anchor": "Time and transparency didn’t give children skepticism about Cog",
+   "start": 33042,
+   "end": 33105
+  },
+  {
+   "fact": "蓝丝带委员会（2024 春）多数派只谈 guardrails，基础问题被 \"tweak the tone\" 后 exiled to a preface，human in the loop 是 gestural；作者的反提案：缺的不是人工治疗师是人手与钱——若把投 AI 的钱转投人，可训练一支心理健康大军；让出这块阵地，抵抗空间只会更窄。",
+   "anchor": "the space for resistance narrows",
+   "start": 38873,
+   "end": 38905
+  }
+ ]
+}
