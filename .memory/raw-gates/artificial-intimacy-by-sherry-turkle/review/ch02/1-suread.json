@@ -1,0 +1,80 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch02",
+ "review": "T3-R1 2026-11-04",
+ "text": "text/ch02_2_childhood.txt",
+ "facts": [
+  {
+   "fact": "1979 年公园：一位母亲见六岁女儿把会说话的机器人玩具当人对待，问 Turkle 她是否以为人也是机器——作者当时觉得 exotic，如今确认玩具改变孩子对人的理解。",
+   "anchor": "she treats that thing like a person",
+   "start": 376,
+   "end": 411
+  },
+  {
+   "fact": "1978 年夏 Turkle 把第一代电脑玩具带进 5–10 岁游戏组；Merlin 井字棋故意留败机被孩子解读为作弊。",
+   "anchor": "I brought these first-generation computer toys into playgroups",
+   "start": 2588,
+   "end": 2650
+  },
+  {
+   "fact": "Gloucester 海滩：Robert 输棋后骂 Merlin cheating machine 并摔进沙里（Cheater. I hope your brains break），引发游戏组争论。",
+   "anchor": "He threw Merlin into the sand angrily",
+   "start": 3597,
+   "end": 3634
+  },
+  {
+   "fact": "Jenny 定规则：作弊必须知道自己在作弊（Knowing is part of cheating）——三个孩子在沙堡间争论机器的道德与形而上学地位。",
+   "anchor": "Knowing is part of cheating",
+   "start": 4084,
+   "end": 4111
+  },
+  {
+   "fact": "判定 alive 的标准从物理（自己会动）转向心理（自己会想）；人的定义由 rational animals 退到 emotional machines。",
+   "anchor": "gave way to the idea of people as",
+   "start": 5177,
+   "end": 5210
+  },
+  {
+   "fact": "2025 年 7 月：疲惫的父亲让四岁儿子与 ChatGPT 谈 Thomas the Tank Engine 两小时，记录超 10k 词。",
+   "anchor": "STILL talking to Chatgpt about Thomas the Tank Engine",
+   "start": 6974,
+   "end": 7027
+  },
+  {
+   "fact": "芝加哥八岁男孩用 WhatsApp 联系从未见面的中国祖父母、用同一部手机聊 ChatGPT，称两者是电话里够得着的同一类东西。",
+   "anchor": "same kind of thing—things you can reach on the phone",
+   "start": 7837,
+   "end": 7889
+  },
+  {
+   "fact": "Ropet 宣称 your one and only love；Winnicott 过渡性客体理论反转为警告：传统玩具走投射心理学，Ropet 走卷入心理学，自省空间关闭。",
+   "anchor": "the psychology of projection to the psychology of engagement",
+   "start": 14403,
+   "end": 14463
+  },
+  {
+   "fact": "Winnicott：不教孩子独处，他们只懂孤独（loneliness is failed solitude）；无聊是童年发展必需品。",
+   "anchor": "If you don’t teach your children to be alone",
+   "start": 15062,
+   "end": 15106
+  },
+  {
+   "fact": "2015 Hello Barbie 因在线存储儿童对话遭 Hell No Barbie 运动抵制、被评年度最差玩具后撤回；2025 年 6 月 Mattel 与 OpenAI 宣布合伙。",
+   "anchor": "I was part of a campaign to push back",
+   "start": 21383,
+   "end": 21420
+  },
+  {
+   "fact": "Scratch 的 Rosenbaum 拒绝 creative companion，要求工具不说 I；Roosevelt 校长自称打后卫战（want to be behind the curve）。",
+   "anchor": "he’s touching a live wire",
+   "start": 27272,
+   "end": 27297
+  },
+  {
+   "fact": "2013 年 12 月 Holbrooke 中学：第一代社交媒体世代共情发育迟滞、社交焦虑；作者答：他们长大后已准备好拥有 AI 挚友。",
+   "anchor": "ready to have AI best friends",
+   "start": 33527,
+   "end": 33556
+  }
+ ]
+}

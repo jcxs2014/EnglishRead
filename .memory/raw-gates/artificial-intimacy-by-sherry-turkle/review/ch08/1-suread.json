@@ -1,0 +1,86 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch08",
+ "review": "T3-R1 2026-11-04",
+ "text": "text/ch08_8_mourning.txt",
+ "facts": [
+  {
+   "fact": "2023 秋 Jobs 2.0：未经授权复活、家人无否决权；律师挂娱乐（迪士尼机器总统先例）；游艇问题的很 Jobs 式诡辩由模型编造。",
+   "anchor": "Jobs never gave permission for this reanimation",
+   "start": 1738,
+   "end": 1785
+  },
+  {
+   "fact": "Jobs 本人生前论死亡：single best invention of life / life's change agent——数字复活是对本人的驳斥。",
+   "anchor": "the single best invention of life",
+   "start": 3980,
+   "end": 4013
+  },
+  {
+   "fact": "grief tech 产业四产品：Hereafter AI／You Only Virtual（So That You Never Have to Say Goodbye）／$5 的 Project December／StoryFile——为最脆弱时刻设计，用户带宗教期待。",
+   "anchor": "almost religious expectations",
+   "start": 5461,
+   "end": 5490
+  },
+  {
+   "fact": "Jang Ji-sung 与八岁女儿 Na-yeon：病榻不耐烦一幕→终生愧疚；VR 重逢获宽恕→此后不再梦见；avatar 原谅了母亲，她却失去原谅自己的能力。",
+   "anchor": "in her ability to forgive herself",
+   "start": 8840,
+   "end": 8873
+  },
+  {
+   "fact": "Christi Angel（信仰来世）：Project December 的 Cameroun bot 先说 dark and lonely/I am in hell，吓到数月不敢告诉人；创办人 Rohrer：工程师无责、她信念有毛病；数月后 bot 改口在天堂，她回去继续聊。",
+   "anchor": "engineers are not responsible for the emotional effects of their software",
+   "start": 10683,
+   "end": 10756
+  },
+  {
+   "fact": "Bruno：亡父数千页档案喂给公司 ChatGPT——I couldn't mourn. I was always interacting with the letters；uncanny 定义；会动的父亲比相册索取得多。",
+   "anchor": "I couldn’t mourn",
+   "start": 12567,
+   "end": 12583
+  },
+  {
+   "fact": "实验一：1940 母亲照片 2023 点头——slightly sick；A nod, never made. A half smile, never expressed.（sentimental vs uncanny）。",
+   "anchor": "the image of my mother in 1940 nodded to me in 2023",
+   "start": 14166,
+   "end": 14217
+  },
+  {
+   "fact": "实验二：You Only Virtual 只收短信→Sarp 用回忆录喂 Chat 生成数百条短信；Versona 答非所问；ChatGPT role-play 版的 Rockaway 清晨。",
+   "anchor": "like the calm after you’ve folded the laundry just right",
+   "start": 17865,
+   "end": 17921
+  },
+  {
+   "fact": "Charlie 问答：Chat 凭回忆录编通顺叙事漏掉真相（父亲对婴幼儿的她做实验）；听见母亲说 Charlie 之名是 punch in the gut；I feel something... I don't feel nothing。",
+   "anchor": "a punch in the gut",
+   "start": 21133,
+   "end": 21151
+  },
+  {
+   "fact": "反向设想：若 bot 答 You should have known 会摧毁她——playing with fire。",
+   "anchor": "we are playing with fire",
+   "start": 22209,
+   "end": 22233
+  },
+  {
+   "fact": "Sonya（守母六个月）拒绝 grief tech，引佛教芥子寓言：药是让她接受死亡；对照 Kurzweil（父亲档案+上传意识）与 Philip（AI 是保险单、给孙辈的纪念 avatar）。",
+   "anchor": "The AI is like an insurance policy",
+   "start": 25969,
+   "end": 26003
+  },
+  {
+   "fact": "Sherry 2.0：与孙女 Lily 初见即自省 overreach/because I cared so deeply——作者被激怒（与 Replika 当年归因同构）；My life is doppelgänger-ready。",
+   "anchor": "because I cared so deeply",
+   "start": 29533,
+   "end": 29558
+  },
+  {
+   "fact": "Ishii/Pillis 传统：捕捉逝者触摸的物件（钢琴二重奏/夜里打字声）；Pillis 重建祖母老宅、邀友共居才 came to life；祖父的椅子引出故事——你绝不想让他开口。",
+   "anchor": "And you definitely don’t want him talking to you",
+   "start": 34935,
+   "end": 34983
+  }
+ ]
+}

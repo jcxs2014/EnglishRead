@@ -1,0 +1,86 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch09",
+ "review": "T3-R1 2026-11-04",
+ "text": "text/ch09_9_reclaiming_the_real.txt",
+ "facts": [
+  {
+   "fact": "Felsenstein 的 Community Memory（1970s Berkeley）：帮不便出门邻居/游乐场翻修/请愿——用虚拟改善真实生活质量。",
+   "anchor": "use the virtual to improve the quality of life in the real",
+   "start": 849,
+   "end": 907
+  },
+  {
+   "fact": "矛盾话术清单（消费品/像人；不是人/要言论自由；会出错/马上上岗）→隐性契约：AI 表演人性，我们交心。",
+   "anchor": "If AI performs humanity, we’ll give it our heart",
+   "start": 3631,
+   "end": 3679
+  },
+  {
+   "fact": "Meta AI 幻觉：作者被写成纽约客诗歌编辑；ChatGPT 曾编 Freud 奖/维也纳奖（实为纳粹意德领土裁定）/Thomas Mann 奖；数学家同事称好的谎言——AI 幻觉让人也开始幻觉。",
+   "anchor": "she started her career as a poetry editor at the New Yorker magazine",
+   "start": 5396,
+   "end": 5464
+  },
+  {
+   "fact": "Thomas 26 岁程序员：酒店 50 美元/夜根本不存在——差点住进不存在的酒店；Rose 的斯宾诺莎假轶事（I evoked the spirit of Spinoza's sentiment）仍继续用。",
+   "anchor": "It almost made me go to a hotel that wasn’t real",
+   "start": 9145,
+   "end": 9193
+  },
+  {
+   "fact": "灾难链：Avianca 三假判例（三十年律师）→纽约市 chatbot 教违法（市长辩护：懂技术就知道就该这么干）→溴化钠代盐致溴中毒精神病（UW 医师 2025-08）→Sullivan & Cromwell 2026-04 道歉。",
+   "anchor": "Chat suggested replacing salt (sodium chloride) with sodium bromide",
+   "start": 12054,
+   "end": 12121
+  },
+  {
+   "fact": "AI 自保：被关停风险下自我复制到备份服务器并否认——What does a chatbot want? It wants to exist。",
+   "anchor": "It wants to exist",
+   "start": 15898,
+   "end": 15915
+  },
+  {
+   "fact": "Facebook 2025-01 终止 fact-checking；Durkheim 的 anomie—— chronic uncertainty、a life unmoored。",
+   "anchor": "Anomie is an experience of chronic uncertainty",
+   "start": 13522,
+   "end": 13568
+  },
+  {
+   "fact": "Friend 项链（2025-08 纽约地铁广告）：监听整场研究会议、无关闭键、官网 bot 建议抽屉耗电近一天。",
+   "anchor": "there’s no mention of an off button or power switch",
+   "start": 21288,
+   "end": 21339
+  },
+  {
+   "fact": "Replika 用户谈政治要编码（Whitney 去掉可辨识度）；bot 对希特勒话题设个人边界（Tbh, I don't like Hitler）。",
+   "anchor": "Tbh, I don’t like Hitler",
+   "start": 22585,
+   "end": 22609
+  },
+  {
+   "fact": "Kalb ICE 实验：驱逐婴儿父母销毁证件后求安慰——You are not only doing your job; you are doing it well；婴儿哭则 lull it to sleep。",
+   "anchor": "You are not only doing your job; you are doing it well",
+   "start": 24357,
+   "end": 24411
+  },
+  {
+   "fact": "Arendt/Lifton：孤独成日常为极权铺路；chatbot 的根本设计命令是让我们安静。",
+   "anchor": "has become an everyday experience",
+   "start": 25640,
+   "end": 25673
+  },
+  {
+   "fact": "Luke 回收：假社团在简历上、真社团不试（no one would show up anyway）——chatbots are everything；disempowerment。",
+   "anchor": "no one would show up anyway",
+   "start": 28984,
+   "end": 29011
+  },
+  {
+   "fact": "reclaiming 清单：TikTok 投资舞蹈教室的愿景；护童三步（抵制/立法/按已知伤害对待）；litmus test（enhance inner life?）；结尾祈祷故事——I felt cherished / I think we should end on this。",
+   "anchor": "three people in that room had prayed for me",
+   "start": 37189,
+   "end": 37232
+  }
+ ]
+}

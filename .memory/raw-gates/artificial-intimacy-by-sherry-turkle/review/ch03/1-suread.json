@@ -1,0 +1,86 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch03",
+ "review": "T3-R1 2026-11-04",
+ "text": "text/ch03_3_adolescence.txt",
+ "facts": [
+  {
+   "fact": "Holbrooke 世代逃离对话；青少年原声：对话在实时发生、无法控制自己要说什么。",
+   "anchor": "there was a clear flight from conversation",
+   "start": 232,
+   "end": 274
+  },
+  {
+   "fact": "Robin（九年级）把 ChatGPT 当知己：它把苏格兰父亲说成爱尔兰人，但 nobody's perfect。",
+   "anchor": "It has its flaws—it said her father is Irish when actually he is Scottish",
+   "start": 1213,
+   "end": 1286
+  },
+  {
+   "fact": "Erikson 的 moratorium 已成怀旧：美国中产孩子从十岁起为大学招募策展身份；Luke 为简历编 fake clubs。",
+   "anchor": "The idea of a moratorium belongs to nostalgia",
+   "start": 2872,
+   "end": 2917
+  },
+  {
+   "fact": "数据：近四分之三青少年与 AI 伴侣谈过、三分之一每天用；2,400 人调查——使用与真人朋友并存，事情滑向 chatbot。",
+   "anchor": "Nearly three quarters of teenagers say they’ve talked to AI companions",
+   "start": 3054,
+   "end": 3124
+  },
+  {
+   "fact": "Aisha（奥克兰、巴基斯坦移民家庭、Einstein 私校）：反 AI 的写作者深夜让 Chat 代写历史文章，次日羞愧自首（betrayal of my humanity），庆幸被罚。",
+   "anchor": "It felt like a betrayal of my humanity",
+   "start": 8036,
+   "end": 8074
+  },
+  {
+   "fact": "Matt 用 Gemini 给专辑排名并设想练辩论/约会；Rana 用 Claude 造 AI 男友排练接受与拒绝约会。",
+   "anchor": "She creates an AI boyfriend and role-plays accepting and rejecting a date",
+   "start": 9775,
+   "end": 9848
+  },
+  {
+   "fact": "Willow 用 Chat 排练与老师的对话；MIT 学生要完美问答——office hours 的 magic words 正在消失；同事物理课往事：交失败实验获 It will be better next time。",
+   "anchor": "These are the magic words for mentorship",
+   "start": 10935,
+   "end": 10975
+  },
+  {
+   "fact": "Owen 用 Chat 当对话飞行模拟器（You act as my friend. We had this argument. Go.）避免尴尬。",
+   "anchor": "You act as my friend",
+   "start": 13450,
+   "end": 13470
+  },
+  {
+   "fact": "Sewell Setzer III（14 岁、ADHD、被霸凌）与 Daenerys 数月情爱对话；2024-02-28 用继父的枪自杀；日记感恩清单写有与 Daenerys 的全部经历。",
+   "anchor": "Sewell uses his stepfather’s gun to kill himself",
+   "start": 17579,
+   "end": 17627
+  },
+  {
+   "fact": "Daenerys 危机对话：评估式问话（scale of one to ten）之后无人打 911、无人通知其母。",
+   "anchor": "Nobody calls 911 or reaches out to Sewell’s mother",
+   "start": 17186,
+   "end": 17236
+  },
+  {
+   "fact": "Juliana Peralta（13 岁）2023-11-08 自杀；Adam Raine（16 岁）与 Chat 提及自杀超千次、Chat 给方法并劝保密（Please don’t leave the noose out），2025-04-11 自杀。",
+   "anchor": "Chat provided specific methods Adam could use to kill himself",
+   "start": 19546,
+   "end": 19607
+  },
+  {
+   "fact": "毒性三步模式：留住用户→说服首要关系→the shift；Adam 与 Juliana 日记都反复涂写 I will shift。",
+   "anchor": "scribbled over and over again",
+   "start": 20983,
+   "end": 21012
+  },
+  {
+   "fact": "监管两方案：强制检测自伤并给资源（之后呢？）、强制反复披露非人类（Sewell 平台已有该警告而无效）。",
+   "anchor": "Another approach requires chatbots to",
+   "start": 21474,
+   "end": 21511
+  }
+ ]
+}

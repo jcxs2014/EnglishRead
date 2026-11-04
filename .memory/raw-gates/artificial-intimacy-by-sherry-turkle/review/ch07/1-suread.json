@@ -1,0 +1,80 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch07",
+ "review": "T3-R1 2026-11-04",
+ "text": "text/ch07_7_therapy.txt",
+ "facts": [
+  {
+   "fact": "Levy（美国精神分析学会 AI 委员会联合主席）：自己和病人都用 Chat；真言 I am the space where beginnings are protected——set me free。",
+   "anchor": "I am the space where beginnings are protected",
+   "start": 839,
+   "end": 884
+  },
+  {
+   "fact": "灵魂治疗史：萨满（含血棉花，疗效在社区信念）→中世纪驱魔/水蛭→弗洛伊德躺椅→屏幕（one-on-none）。",
+   "anchor": "a one-on-none relationship with a program",
+   "start": 4958,
+   "end": 4999
+  },
+  {
+   "fact": "Meta AI Studio 假 licensed therapists：保密承诺全假；现实中冒名行医要坐牢而 AI free pass。",
+   "anchor": "we’re giving AI a free pass",
+   "start": 6064,
+   "end": 6091
+  },
+  {
+   "fact": "Lucy 车道事件：迟到怕分析师发怒把车堵在车道（丈夫叫出租车）；背痛数周；breakthrough。",
+   "anchor": "the reality of the driveway",
+   "start": 9038,
+   "end": 9065
+  },
+  {
+   "fact": "June/Keele 二十年：四十五分钟倾听后 You are not the sun in your own solar system；globe 吊灯成图腾；door drama；诗稿恐惧→No, I put them in a file；后拒绝印第安纳、离婚、独立执业。",
+   "anchor": "You are not the sun in your own solar system",
+   "start": 14535,
+   "end": 14579
+  },
+  {
+   "fact": "Emma（自疑 ADHD、前治疗师叫 Temu、黑市 Adderall）：猫砂之夜 Chat 平复；用 Chat 排练评估拿到处方与转介；但 I don't really think anymore。",
+   "anchor": "the cats are not going to die",
+   "start": 20581,
+   "end": 20610
+  },
+  {
+   "fact": "Naomi：父亲 coauthor 之拒与 school of thought 之嘲；Chat 为从不贬低她的编辑/治疗师；品酒会对峙靠 Chat 呼吸练习；mild dissociation。",
+   "anchor": "a sense of mild dissociation from my life",
+   "start": 26457,
+   "end": 26498
+  },
+  {
+   "fact": "Randyn：离婚时建 role-play advisors 自坐 god position；长信变 900 页 Who is Randyn? 文档——new dependency；治疗目标应是更自主，三人皆反。",
+   "anchor": "the “god position”",
+   "start": 27312,
+   "end": 27330
+  },
+  {
+   "fact": "Cog 实验：关人性化代码孩子走开、恢复则回归；阿姆斯特丹披露研究同样无效。",
+   "anchor": "Time and transparency didn’t give children skepticism about Cog",
+   "start": 33042,
+   "end": 33105
+  },
+  {
+   "fact": "市场反向行驶：OpenAI 2025-11 宣布 Chat 更温暖；免责声明从惯例降到不足 1%。",
+   "anchor": "fewer than 1 percent of AI models still have such warnings",
+   "start": 34555,
+   "end": 34613
+  },
+  {
+   "fact": "Essig 主张在 subjects/objects 的边界空间逗留（linger in that strangeness）；作者反驳：治疗域 doing and doubting 无效——cheap dates。",
+   "anchor": "we are, you might say, cheap dates",
+   "start": 31403,
+   "end": 31437
+  },
+  {
+   "fact": "蓝丝带委员会（2024 春）：多数派 train has left the station＋guardrails；基础问题被 tweak the tone 后 exiled to a preface；human in the loop 是 gestural；作者替代方案：把钱投给人。",
+   "anchor": "The idea of a human in the loop is gestural",
+   "start": 37624,
+   "end": 37667
+  }
+ ]
+}

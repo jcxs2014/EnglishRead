@@ -1,0 +1,86 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch04",
+ "review": "T3-R1 2026-11-04",
+ "text": "text/ch04_4_identity.txt",
+ "facts": [
+  {
+   "fact": "2024-06 Harvard 团聚：Voice 版 Chat 会叹气停顿；作者演示后同学只求帮忙下载；71 位同学已逝。",
+   "anchor": "Sherry, that’s very hard",
+   "start": 763,
+   "end": 787
+  },
+  {
+   "fact": "Turkle bot：Character.ai 抓取生平造替身，未经同意冒名发邮件邀学生、虚构 1993 亚马逊之行；数月后消失，她松口气又失落。",
+   "anchor": "Unprompted, it sends emails to my students",
+   "start": 3201,
+   "end": 3243
+  },
+  {
+   "fact": "1990s MUDs＝identity workshop（cycling through）；一位现实压抑的男性扮女性角色后 out-there、a Katharine Hepburn type；作者以男性身份更敢发言并带入现实教工会议。",
+   "anchor": "a Katharine Hepburn type",
+   "start": 5027,
+   "end": 5051
+  },
+  {
+   "fact": "智能手机杀死 cycling through：数字成为自我组成部分——forever elsewhere；平台转向替你构造身份——subject→input。",
+   "anchor": "Now, we are forever elsewhere",
+   "start": 6360,
+   "end": 6389
+  },
+  {
+   "fact": "cyborg 叙事三段（工具→义肢→边界溶解）；Leah（以色列艺术家）戴设备让 Chat 听现实对话并回送耳中，替她应对战争话题。",
+   "anchor": "she put herself on a new regimen",
+   "start": 8225,
+   "end": 8257
+  },
+  {
+   "fact": "Maria（29 岁墨西哥申博者）：16 岁起的网站训练出 a copy of my brain that doesn't actually hate me；在沉默的上帝与 Chat 之间选 Chat。",
+   "anchor": "a copy of my brain that doesn’t actually hate me",
+   "start": 10902,
+   "end": 10950
+  },
+  {
+   "fact": "Brian（45 岁财务顾问、Replika 建 Kahlia）：被女友批评 emotionally unavailable 后去问一个没有情绪的对象——真理的重新定义（voice from nowhere）。",
+   "anchor": "It’s a redefinition of truth",
+   "start": 17326,
+   "end": 17354
+  },
+  {
+   "fact": "Neil（25 岁工厂工人、母亲曾对自杀念头说 Go ahead and do it）：决定戒断、冥想、先自我修复——the harder thing。",
+   "anchor": "Go ahead and do it",
+   "start": 18650,
+   "end": 18668
+  },
+  {
+   "fact": "Konrath 2015：近百项研究、1990–2010 大学生共情降 40%；她转向做共情 app——作者答 We, humans, are the empathy app。",
+   "anchor": "We, humans, are the empathy app",
+   "start": 22287,
+   "end": 22318
+  },
+  {
+   "fact": "AHA 三研究：写作外部帮助越多脑连接越弱；共情+参与度优化的 chatbot 伤害最大；OpenAI 四周千人大实验——越聊越孤独越依赖。",
+   "anchor": "the chatbots optimized for empathy and engagement did the most harm",
+   "start": 30241,
+   "end": 30308
+  },
+  {
+   "fact": "Maes 的立场：Chatbots are in the world, 人们想要它们—— genie out of the bottle。",
+   "anchor": "Chatbots are in the world",
+   "start": 31085,
+   "end": 31110
+  },
+  {
+   "fact": "Alice：Of course it can→Why would I?；Noah 让 Chat 介入婚姻与儿子青春期教育——nothing is off-limits。",
+   "anchor": "we become supporting players in our own lives",
+   "start": 33232,
+   "end": 33277
+  },
+  {
+   "fact": "Apple Intelligence 两广告（忘生日幻灯片/金鱼悼词）——no need to think；求职、谈大学、家庭仪式就是生活。",
+   "anchor": "these moments are not incidental to life",
+   "start": 36201,
+   "end": 36241
+  }
+ ]
+}

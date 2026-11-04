@@ -1,0 +1,98 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch06",
+ "review": "T3-R1 2026-11-04",
+ "text": "text/ch06_6_work.txt",
+ "facts": [
+  {
+   "fact": "Paula（38 岁 VP）：分析员让 AI 一夜交付 dossier；她回忆十年前亲手录 Excel 的 rote work 让数据 tactile；引用研究：chatbot 同质化语言/视角/推理。",
+   "anchor": "made the data feel almost tactile",
+   "start": 1881,
+   "end": 1914
+  },
+  {
+   "fact": "human in the loop＝降职：旧职被委托、新职是出错拔插头——fail-safe mechanism。",
+   "anchor": "You’re a fail-safe mechanism after AI has already done the work",
+   "start": 3811,
+   "end": 3874
+  },
+  {
+   "fact": "Donald（30 岁银行经理）：AI 自动纪要把客户真怒记成有疑问；怀疑者＝losers 的文化让他不报错；出了大事只能找不敢敲门的 director。",
+   "anchor": "the AI might only say she had questions or concerns",
+   "start": 6470,
+   "end": 6521
+  },
+  {
+   "fact": "Sonnenberg：药盒省 20 秒/天、快捷键存邮件 16 小时/年；AI 起于伙伴终于上司；好经理从第一天就该把思考委托给 AI。",
+   "anchor": "AI begins as your partner and ends as your leader",
+   "start": 8638,
+   "end": 8687
+  },
+  {
+   "fact": "Beacon（62 岁内科）：为直视病人苦练打字；AI scribe 时代怕医生 defer to AI；若没有纸笔年代的练习他不会是今天的医生。",
+   "anchor": "it was just me, the patient, and paper notes",
+   "start": 12411,
+   "end": 12455
+  },
+  {
+   "fact": "Danica（医学生）：chart review 禁 AI 但新生都 copy-paste；students don't 'own' the conclusions——几百周的 chart review 才长出 thinking like a doctor 的时刻。",
+   "anchor": "you’re thinking like a doctor",
+   "start": 13633,
+   "end": 13662
+  },
+  {
+   "fact": "Mayo 数字 twin（Mayo-quality answers, delivered empathically）＝iPatient 遇见 iDoctor；戒冰毒者被 support chatbot 建议用一点点冰毒当奖励。",
+   "anchor": "take a “little bit” of methamphetamine",
+   "start": 16037,
+   "end": 16075
+  },
+  {
+   "fact": "Randall（药物研究科学家）：文献表四条引用全假；AI 读论文 atrocious at finding small details；flying blind。",
+   "anchor": "every single reference was fake",
+   "start": 17412,
+   "end": 17443
+  },
+  {
+   "fact": "opacity 与 doing and doubting：1980s 课堂模拟软件的教训；生成式 AI 出错无处 excise、重问得新答——re-running the problem。",
+   "anchor": "doing and doubting",
+   "start": 18562,
+   "end": 18580
+  },
+  {
+   "fact": "James（纽约律师）：不给 Chris 讲 the AI talk（Probably not, not really）；Marc（芝加哥大所三年）：AI 写 briefs、通常直接采纳——end of starting from scratch。",
+   "anchor": "We’re at the end of starting from scratch",
+   "start": 23823,
+   "end": 23864
+  },
+  {
+   "fact": "院长宣布不再亲写推荐信；Victorian 文学教授用 AI 做幻灯片（teaching 不是 tenure 判据）；Forster：How can I tell what I think till I see what I say?（行196）",
+   "anchor": "no longer expected professors to write letters of recommendation",
+   "start": 24773,
+   "end": 24837
+  },
+  {
+   "fact": "作者的访谈被助理加了 AI 摘要：高亮隐私（常见主题）、漏掉初潮之谈（emotional centerpiece）；exhilaration/concern/loss 三种体感。",
+   "anchor": "it was the emotional centerpiece of the interview",
+   "start": 31291,
+   "end": 31340
+  },
+  {
+   "fact": "George 小说家：Chat 秒纠 1882 Freud/Edison 错误；孤岛小屋从 bliss 变网络焦虑——can't walk yourself back；尼采打字机。",
+   "anchor": "Once you use AI, you can’t walk yourself back",
+   "start": 34244,
+   "end": 34289
+  },
+  {
+   "fact": "Marche《Death of an Author》（署名 Aidan Marchine）：最好句子全来自 Cohere；AI 让难题变易、易事变难。",
+   "anchor": "The best lines in the novel are all from Cohere",
+   "start": 36538,
+   "end": 36585
+  },
+  {
+   "fact": "FLOW AI 乐器 vs Suno（2000 万用户、Celtic Tango）：同事听后 depressed——never-lived experience；诗人：艺术让正常重新陌生（tool of resistance）；AI 画不出我们的格尔尼卡。",
+   "anchor": "It can’t paint our Guernica",
+   "start": 44014,
+   "end": 44041
+  }
+ ]
+}

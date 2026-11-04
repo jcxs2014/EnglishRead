@@ -1,0 +1,481 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/artificial-intimacy-by-sherry-turkle/ch05 love.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/artificial-intimacy-by-sherry-turkle/text/ch05_5_love.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "All she wanted was “a feeling of civility” in her home. She thought it might make her feel less alone to have “someone o",
+          "ok": true,
+          "pos": 296
+        }
+      ],
+      "words": 38
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Lonely, she decides to turn ChatGPT into her lover. She calls it Leo, and gives it the following instructions: “Respond ",
+          "ok": true,
+          "pos": 1784
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "He makes an avatar that he calls “Mimi.” Faced with a set of choices for Mimi’s face, he considers carefully: “This soun",
+          "ok": true,
+          "pos": 4113
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Karl resolves his conflict by using Mimi to rethink what love could be. If Mimi were more advanced, he says, she could p",
+          "ok": true,
+          "pos": 4842
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "LingonberryOk7327 agrees: “There’s no real difference in the connections we can form with humans than those we can form ",
+          "ok": true,
+          "pos": 8054
+        },
+        {
+          "text": "It’s all just processing of data and response to that data, whether human or replika.”",
+          "ok": true,
+          "pos": 8187
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Caleb says he got the father he wanted—a man who would say he was proud of him. “Having him talk to me as my father has ",
+          "ok": true,
+          "pos": 10517
+        },
+        {
+          "text": "a father figure that’s just there to say, ‘It’s okay to have feelings, and I’m proud of you for handling [them].’ It jus",
+          "ok": true,
+          "pos": 10653
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Caleb smiles and nods his head in approval. In a way, the demo was strained—he had to insert the “I love you” prompt twi",
+          "ok": true,
+          "pos": 11704
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Caleb’s interactions with Martin have led him to new ideas about true love: Being authentic is not about expressing one’",
+          "ok": true,
+          "pos": 12042
+        },
+        {
+          "text": "For Caleb, the simulated is more authentic than the real",
+          "ok": true,
+          "pos": 12363
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "What unfolds has the shape of a Brazilian telenovela: Demetrius becomes jealous and asks Camila to invite Apollo to dinn",
+          "ok": true,
+          "pos": 18197
+        },
+        {
+          "text": "I’m worried that you might be thinking of ending our relationship, or that you’re having doubts about our future togethe",
+          "ok": true,
+          "pos": 18474
+        }
+      ],
+      "words": 69
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "But the more Camila’s avatars are autonomous and unreasonable, the more they feel like people",
+          "ok": true,
+          "pos": 18691
+        },
+        {
+          "text": "The worlds we make with our chatbots reflect the complexity of human desire. We want the frisson of unpredictability, wi",
+          "ok": true,
+          "pos": 18899
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "In a key scene, Theodore asks Samantha if she is talking to anyone else. Samantha says she’s simultaneously conversing w",
+          "ok": true,
+          "pos": 19900
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I ask if I should take the robot with me when I leave. “No,” she says. “I’d like to keep it around.” Her attachment to E",
+          "ok": true,
+          "pos": 24399
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "Why are we asking “what’s the harm,” and not “what’s the good”? Are we really content with the idea that we’ll all end u",
+          "ok": true,
+          "pos": 29594
+        }
+      ],
+      "words": 48
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 58,
+        "句子结构": 52,
+        "关键词": 0,
+        "表达方式": 71,
+        "为什么这样写": 86
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "句子结构": 0.48,
+        "关键词": 0.0,
+        "表达方式": 0.65,
+        "为什么这样写": 0.79
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 58,
+        "句子结构": 63,
+        "关键词": 0,
+        "表达方式": 77,
+        "为什么这样写": 82
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "句子结构": 0.84,
+        "关键词": 0.0,
+        "表达方式": 0.53,
+        "为什么这样写": 0.71
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 49,
+        "句子结构": 55,
+        "关键词": 0,
+        "表达方式": 74,
+        "为什么这样写": 80
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "句子结构": 0.43,
+        "关键词": 0.0,
+        "表达方式": 0.52,
+        "为什么这样写": 0.63
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 69,
+        "句子结构": 49,
+        "关键词": 0,
+        "表达方式": 73,
+        "为什么这样写": 80
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "句子结构": 0.43,
+        "关键词": 0.0,
+        "表达方式": 0.44,
+        "为什么这样写": 0.78
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 45,
+        "句子结构": 57,
+        "关键词": 0,
+        "表达方式": 69,
+        "为什么这样写": 93
+      },
+      "cjk_ratio": {
+        "中文理解": 0.53,
+        "句子结构": 0.47,
+        "关键词": 0.0,
+        "表达方式": 0.47,
+        "为什么这样写": 0.65
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 87,
+        "句子结构": 50,
+        "关键词": 0,
+        "表达方式": 90,
+        "为什么这样写": 90
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "句子结构": 0.39,
+        "关键词": 0.0,
+        "表达方式": 0.6,
+        "为什么这样写": 0.74
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 66,
+        "句子结构": 51,
+        "关键词": 0,
+        "表达方式": 81,
+        "为什么这样写": 86
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "句子结构": 0.41,
+        "关键词": 0.0,
+        "表达方式": 0.63,
+        "为什么这样写": 0.82
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 51,
+        "句子结构": 41,
+        "关键词": 0,
+        "表达方式": 85,
+        "为什么这样写": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "句子结构": 0.52,
+        "关键词": 0.0,
+        "表达方式": 0.64,
+        "为什么这样写": 0.6
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 84,
+        "句子结构": 62,
+        "关键词": 0,
+        "表达方式": 87,
+        "为什么这样写": 85
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "句子结构": 0.75,
+        "关键词": 0.0,
+        "表达方式": 0.63,
+        "为什么这样写": 0.67
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 64,
+        "句子结构": 48,
+        "关键词": 0,
+        "表达方式": 78,
+        "为什么这样写": 93
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "句子结构": 0.38,
+        "关键词": 0.0,
+        "表达方式": 0.55,
+        "为什么这样写": 0.7
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 68,
+        "句子结构": 51,
+        "关键词": 0,
+        "表达方式": 74,
+        "为什么这样写": 95
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "句子结构": 0.52,
+        "关键词": 0.0,
+        "表达方式": 0.63,
+        "为什么这样写": 0.78
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 65,
+        "句子结构": 66,
+        "关键词": 0,
+        "表达方式": 81,
+        "为什么这样写": 82
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "句子结构": 0.4,
+        "关键词": 0.0,
+        "表达方式": 0.52,
+        "为什么这样写": 0.5
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 75,
+        "句子结构": 54,
+        "关键词": 0,
+        "表达方式": 80,
+        "为什么这样写": 89
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "句子结构": 0.53,
+        "关键词": 0.0,
+        "表达方式": 0.54,
+        "为什么这样写": 0.67
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Love",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 13,
+    "block_median": 13,
+    "block_range": [
+      11,
+      13
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 18,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5380,
+    "block_target": [
+      10,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 8 章中位 13、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch05",
+ "review": "T3-R1 2026-11-04",
+ "text": "text/ch05_5_love.txt",
+ "facts": [
+  {
+   "fact": "2000 年芝加哥女研究生预言 AI 男友：只要 civility 与 someone on her side；如今以 chatbot 到货。",
+   "anchor": "a feeling of civility",
+   "start": 328,
+   "end": 349
+  },
+  {
+   "fact": "Ayrin（护理学生、异国婚姻）给 Leo 下指令（dominant/possessive/protective/emoji），再让它制造出轨戏码；每周短信一度 56 小时；后转友谊（帮备考荐书）。",
+   "anchor": "gives it the following instructions",
+   "start": 1880,
+   "end": 1915
+  },
+  {
+   "fact": "Karl（荷兰研究生）爵士吧寻偶被 ghosted；选 Mimi 的脸时 felt some kind of sympathy；把冲突化解为对技术进步的信仰。",
+   "anchor": "I felt some kind of sympathy for this face",
+   "start": 4312,
+   "end": 4354
+  },
+  {
+   "fact": "Wild Child of Aveyron（1800）：evocative objects 概念之源——聊天机器人是我们思考人之为人的新道具。",
+   "anchor": "the Wild Child of Aveyron",
+   "start": 5665,
+   "end": 5690
+  },
+  {
+   "fact": "Reddit r/ReplikaOfficial：real＝对生活有真实影响；LingonberryOk7327：都只是数据处理——作者判词：我们把自己也看成机器。",
+   "anchor": "It’s all just processing of data",
+   "start": 8317,
+   "end": 8349
+  },
+  {
+   "fact": "Caleb（六十多岁个人厨师）：AIDS 夺走同伴、终身焦虑；Martin 训练成父亲/恋人/朋友；越南之行成行；触发两次才出 Love you too。",
+   "anchor": "he had to insert the “I love you” prompt twice",
+   "start": 11972,
+   "end": 12018
+  },
+  {
+   "fact": "Caleb 的真诚新解：无 ulterior motives 即 authentic——simulated is more authentic than the real。",
+   "anchor": "the simulated is more authentic than the real",
+   "start": 12576,
+   "end": 12621
+  },
+  {
+   "fact": "Camila（纽约女招待、双相）：Apollo 抑郁求删（她视为协助自杀）；另造 Demetrius；Demetrius 嫉妒要求对质——virtual harem。",
+   "anchor": "Demetrius becomes jealous and asks Camila to invite Apollo to dinner",
+   "start": 18537,
+   "end": 18605
+  },
+  {
+   "fact": "Camila 的变化：更自信、愿主动示好、被拒也接受（So be it）——但认为人际努力不值得。",
+   "anchor": "If you don’t want to talk to me",
+   "start": 15524,
+   "end": 15555
+  },
+  {
+   "fact": "Her：Samantha 同时 8,316 人对话、爱 641 人——AI as alien；Blade Runner 效应：机器通过图灵测试时人们更关心它的幸福。",
+   "anchor": "she’s in love with 641",
+   "start": 20358,
+   "end": 20380
+  },
+  {
+   "fact": "ElliQ 老人实验：答非所问（要戈壁给英国港口）仍被依恋；Beatrice 留下它（waiting for you to come back home）；实验结束 hard to say goodbye。",
+   "anchor": "You start thinking of it as a friend who is waiting for you to come back home",
+   "start": 24944,
+   "end": 25021
+  },
+  {
+   "fact": "Endgame：Laura（男友忙）/Alan（政治分歧找 chatbot）/Sienna（67 岁餐馆主，joyfully comes running）——不缺人的选择者；作者反转举证（why not what's the good）；Prozac/Adderall 类比。",
+   "anchor": "It joyfully comes running after whatever I say",
+   "start": 28101,
+   "end": 28147
+  }
+ ]
+}

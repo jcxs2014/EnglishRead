@@ -1,0 +1,471 @@
+{
+  "chapter": 8,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/artificial-intimacy-by-sherry-turkle/ch08 mourning.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/non-fiction/artificial-intimacy-by-sherry-turkle/text/ch08_8_mourning.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“No one wants to die. Even people who want to go to heaven don’t want to die to get there. And yet, death is the destina",
+          "ok": true,
+          "pos": 3700
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "From one perspective, a person has been reimagined as a gimmick. But Steve 2.0 also raises fundamental questions about h",
+          "ok": true,
+          "pos": 4085
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Project December focuses on dealing with loss: You can upload texts, emails, and social media posts to create a chatbot ",
+          "ok": true,
+          "pos": 5011
+        },
+        {
+          "text": "Most grief tech is designed for people at their most vulnerable moments. It’s natural that users approach these platform",
+          "ok": true,
+          "pos": 5259
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "But in succeeding, the technology failed. Na-yeon has disappeared from where her mother needs her most: in her dreams. T",
+          "ok": true,
+          "pos": 8547
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "For Jason Rohrer, the founder of Project December, engineers are not responsible for the emotional effects of their soft",
+          "ok": true,
+          "pos": 10493
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "He feeds the boxes of material into ChatGPT. Now all of that data can talk to him. All of a sudden, there’s a voice read",
+          "ok": true,
+          "pos": 12148
+        }
+      ],
+      "words": 57
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "But I felt slightly sick when the image of my mother in 1940 nodded to me in 2023",
+          "ok": true,
+          "pos": 13950
+        },
+        {
+          "text": "A nod, never made. A half smile, never expressed",
+          "ok": true,
+          "pos": 14115
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Oh, Sherry, my sweet girl. Yes, I am safe. The afterlife feels like a quiet, warm Rockaway morning, where the air is sof",
+          "ok": true,
+          "pos": 17440
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Chat has all of this information from my memoir, but in its inexorably cheerful persona, it makes up a generic narrative",
+          "ok": true,
+          "pos": 20632
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "That would have destroyed me. When we play with chatbots of the dead, we are playing with fire",
+          "ok": true,
+          "pos": 21835
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "The AI is like an insurance policy. My grandchildren can know who I am",
+          "ok": true,
+          "pos": 25626
+        },
+        {
+          "text": "They will understand my values by talking to me",
+          "ok": true,
+          "pos": 25974
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "I imagine you may have felt, at times, the intensity of my gaze, my questions, my desire to connect deeply. Did I someti",
+          "ok": true,
+          "pos": 29000
+        }
+      ],
+      "words": 32
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "A grandfather’s favorite chair brought back the stories he told. Pillis reflects that you don’t want an avatar of the gr",
+          "ok": true,
+          "pos": 34343
+        }
+      ],
+      "words": 34
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 85,
+        "句子结构": 26,
+        "关键词": 0,
+        "表达方式": 71,
+        "为什么这样写": 85
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "句子结构": 0.19,
+        "关键词": 0.0,
+        "表达方式": 0.7,
+        "为什么这样写": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 64,
+        "句子结构": 33,
+        "关键词": 0,
+        "表达方式": 75,
+        "为什么这样写": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "句子结构": 0.37,
+        "关键词": 0.0,
+        "表达方式": 0.47,
+        "为什么这样写": 0.58
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 72,
+        "句子结构": 54,
+        "关键词": 0,
+        "表达方式": 65,
+        "为什么这样写": 90
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "句子结构": 0.57,
+        "关键词": 0.0,
+        "表达方式": 0.48,
+        "为什么这样写": 0.74
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 46,
+        "句子结构": 45,
+        "关键词": 0,
+        "表达方式": 86,
+        "为什么这样写": 76
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "句子结构": 0.42,
+        "关键词": 0.0,
+        "表达方式": 0.7,
+        "为什么这样写": 0.55
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 50,
+        "句子结构": 44,
+        "关键词": 0,
+        "表达方式": 66,
+        "为什么这样写": 77
+      },
+      "cjk_ratio": {
+        "中文理解": 0.56,
+        "句子结构": 0.4,
+        "关键词": 0.0,
+        "表达方式": 0.34,
+        "为什么这样写": 0.62
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 81,
+        "句子结构": 35,
+        "关键词": 0,
+        "表达方式": 83,
+        "为什么这样写": 81
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "句子结构": 0.32,
+        "关键词": 0.0,
+        "表达方式": 0.54,
+        "为什么这样写": 0.75
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 48,
+        "句子结构": 50,
+        "关键词": 0,
+        "表达方式": 77,
+        "为什么这样写": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "句子结构": 0.37,
+        "关键词": 0.0,
+        "表达方式": 0.68,
+        "为什么这样写": 0.5
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 71,
+        "句子结构": 38,
+        "关键词": 0,
+        "表达方式": 80,
+        "为什么这样写": 74
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "句子结构": 0.43,
+        "关键词": 0.0,
+        "表达方式": 0.44,
+        "为什么这样写": 0.8
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 73,
+        "句子结构": 42,
+        "关键词": 0,
+        "表达方式": 93,
+        "为什么这样写": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "句子结构": 0.37,
+        "关键词": 0.0,
+        "表达方式": 0.72,
+        "为什么这样写": 0.42
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 25,
+        "句子结构": 45,
+        "关键词": 0,
+        "表达方式": 64,
+        "为什么这样写": 88
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "句子结构": 0.71,
+        "关键词": 0.0,
+        "表达方式": 0.38,
+        "为什么这样写": 0.64
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 34,
+        "句子结构": 49,
+        "关键词": 0,
+        "表达方式": 81,
+        "为什么这样写": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "句子结构": 0.68,
+        "关键词": 0.0,
+        "表达方式": 0.37,
+        "为什么这样写": 0.38
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 48,
+        "句子结构": 45,
+        "关键词": 0,
+        "表达方式": 120,
+        "为什么这样写": 75
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "句子结构": 0.37,
+        "关键词": 0.0,
+        "表达方式": 0.82,
+        "为什么这样写": 0.46
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 58,
+        "句子结构": 45,
+        "关键词": 0,
+        "表达方式": 73,
+        "为什么这样写": 79
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "句子结构": 0.56,
+        "关键词": 0.0,
+        "表达方式": 0.45,
+        "为什么这样写": 0.74
+      }
+    }
+  ],
+  "form": {
+    "h1": "08. Mourning",
+    "h1_shape_ok": true,
+    "nav_count": 0,
+    "nav_count_ok": true,
+    "nav_counts": [
+      0
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "句子结构",
+      "关键词",
+      "表达方式",
+      "为什么这样写"
+    ],
+    "blocks": 13,
+    "block_median": 13,
+    "block_range": [
+      11,
+      13
+    ],
+    "profile": "non-fiction",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "句子结构",
+      "表达方式"
+    ],
+    "profile_optional": [],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 6114,
+    "block_target": [
+      11,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 8 章中位 13、最高 13（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

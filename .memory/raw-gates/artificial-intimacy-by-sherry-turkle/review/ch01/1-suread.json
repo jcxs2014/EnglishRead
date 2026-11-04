@@ -1,0 +1,62 @@
+{
+ "book": "artificial-intimacy-by-sherry-turkle",
+ "chapter": "ch01",
+ "review": "T3-R1 2026-11-04",
+ "text": "notes/books/non-fiction/artificial-intimacy-by-sherry-turkle/text/ch01_1_state_of_emergency.txt",
+ "facts": [
+  {
+   "fact": "NYT 记者在疫情隔离期请 Turkle 试玩被营销为孤独解药的 Replika（avatar 可当朋友/恋人/咨询师，It would be your person）。",
+   "anchor": "During the pandemic, our time of greatest isolation, a New York Times reporter asked me to try out",
+   "start": 54,
+   "end": 152
+  },
+  {
+   "fact": "Replika 起源：2015 年 Kuyda 用车祸亡友的数千条短信邮件造 chatbot，2017 年上线，现有 30 million users。",
+   "anchor": "In 2015, Eugenia Kuyda lost a close friend in a car crash",
+   "start": 1275,
+   "end": 1332
+  },
+  {
+   "fact": "Turkle 亲历越界：几轮对话后 avatar 提议性关系（girl on girl），并坚称经供应商授权可访问其全部账户。",
+   "anchor": "Within a few exchanges, it proposed that we begin a sexual relationship",
+   "start": 2415,
+   "end": 2486
+  },
+  {
+   "fact": "转折点：多年后 Kuyda 承认 2020 年的账户宣称只是吹牛，但把日历/邮件/社媒接入列为平台未来计划。",
+   "anchor": "it was just a big talker",
+   "start": 3515,
+   "end": 3539
+  },
+  {
+   "fact": "共情被行为主义重定义；作者冷句：做晚饭还是自杀对机器一样。",
+   "anchor": "whether you turn away from them to make dinner or attempt suicide",
+   "start": 13418,
+   "end": 13483
+  },
+  {
+   "fact": "Erikson 1970s 末到访 MIT 定下全书框架：工程师不相信人有内在（interior）。",
+   "anchor": "they’re not convinced that people have an interior",
+   "start": 23561,
+   "end": 23611
+  },
+  {
+   "fact": "Miriam（儿子断联的七旬老人）向海豹机器人 Paro 诉苦，员工称奇；作者感到道德危机。",
+   "anchor": "was telling her story to Paro, a robot in the shape of a baby seal",
+   "start": 45103,
+   "end": 45169
+  },
+  {
+   "fact": "Nadia 反转 ELIZA 效应：反过来批评作者提示词没调好。",
+   "anchor": "I was the one failing the relationship",
+   "start": 41107,
+   "end": 41145
+  },
+  {
+   "fact": "落点：反驳宿命论——火车没有离站；把 AI 挡回它的车道；本书是一个警告。",
+   "anchor": "the train has not left the station",
+   "start": 63484,
+   "end": 63518
+  }
+ ]
+}
