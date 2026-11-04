@@ -84,6 +84,21 @@ modified: "2026-11-04"
 **为什么这样写**：门外的画面是本章的爆点镜头——四个人排成一排捂嘴，无需一句解释，共感网络全员到齐；重复两次 "holding their mouths" 用频率代替惊叹号。
 **读者视角提示**：血誓 roster 至此全员显形——东线每一次身体异变，West 线都要集体付账。
 
+
+> **原句 11:** "Harmony exhaled, then chuckled. “I guess we’re no longer lying about a flu?”"
+
+**中文理解**：Harmony 长出一口气，笑着点破——你们是不是再也不用装流感了？
+**关键词**：exhaled / chuckled / lying about a flu
+**为什么这样写**：全文一直在提的那场"流感"由养母亲口拆封——她早知道孩子们在撒谎，也早知道真相远比流感严重；用一句轻松的笑问收束谎言线，是信任的完成式。
+**读者视角提示**：回看前文"流感只能再买几天时间"的话——Harmony 从头到尾都在配合演出，这句拆穿其实是赦免。
+
+> **原句 12:** "Not that any of that scary shit stopped Seb from asking her a ridiculous question. “Can we watch The Little Mermaid?”"
+
+**中文理解**：可这一切吓人的事都没能拦住 Seb——他向她提了个荒唐的问题：我们能看《小美人鱼》吗？
+**关键词**：scary shit / ridiculous question / The Little Mermaid
+**为什么这样写**：牙痛、告白、共感刚把全章的弦绷到极限，作者用最不讲时宜的一句话松弦——刚被人鱼咬联的少年开口要看美人鱼电影，恐怖让位给少年气的荒诞；下一行 "We're doomed." 是全章的笑点落锤。
+**读者视角提示**：记住这个收尾的温度——这本书的惊悚永远被家庭喜剧接住，这也是 Misfits 能活下来的方式。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -117,4 +132,4 @@ modified: "2026-11-04"
 | Tylenol | 泰诺（止痛药） | “Dale, get the Tylenol! Is it because of the crash? Let’s go to the emergency room⁠—” |
 
 ## 一句话总结
-Ethan 的守夜被三层超自然击穿：全员共梦灰胡子摆渡人、Sebastian 梦呓东线门锁密码、Sarah 告白强吻触发与东线换牙同步的全员牙痛——白日里养父母用一辆"Indestructible Tonka"托住这个家，夜里血誓的账单第一次全员送达。
+Ethan 的守夜被三层超自然击穿：全员共梦灰胡子摆渡人、Sebastian 梦呓东线门锁密码、Sarah 告白强吻触发与东线换牙同步的全员牙痛——白日里养父母用一辆"Indestructible Tonka"托住这个家，夜里血誓的账单第一次全员送达；次晨药堆里相拥而眠，Harmony 一句「不用再装流感了」拆掉谎言线，Seb 的《小美人鱼》请求把惊魂夜笑着收尾。
