@@ -1,0 +1,13 @@
+made the data feel almost tactile || 咨询 VP Paula 回忆十年前亲手查报告、录入 Excel 的 "rote work"——数据因此近乎可触、长出直觉；如今分析师让 AI 一夜交卷，她引用研究：chatbot 会同质化使用者的"语言、视角与推理"。
+You’re a fail-safe mechanism after AI has already done the work || 作者拆解 "human in the loop" 的降级语义：从主导者降为出错时拔插头的人——AI 干完活之后的保险丝。
+the AI might only say she had questions or concerns || 银行经理 Donald 不敢质疑 AI（怀疑者会被当 "losers"）；客户真发怒，AI 会议纪要只写成"有疑问"；出了大事他只想得到去敲那位年纪两倍、不敢敲的 director 的门。
+AI begins as your partner and ends as your leader || 效率顾问 Sonnenberg 的算术：药盒省 20 秒/天、快捷键存邮件省 16 小时/年；他宣称好经理从第一天就该学会把"思考"委托给 AI，AI 会过夜替你定战略、写提案、执行。
+it was just me, the patient, and paper notes || 62 岁内科医生 Beacon 当年为直视病人苦练打字；面对会自动写病历、出初诊、填保险单的 AI scribe，他担心忙的医生会干脆 defer to AI——"如果没有那些年只有我、病人和纸笔记的练习，我不会是今天这个医生"。
+students don’t ‘own’ the conclusions || 医学生 Danica 透露：chart review 明令禁用 AI，但新生都在把病历粘进 ChatGPT 看结论——"他们并不'拥有'那些结论"；几百周的 chart review 才能长出"像医生一样思考"的时刻，AI 综合一下就取消了它。
+every single reference was fake || 药物研究科学家 Randall 请 AI 生成某 niche therapeutics 的文献表：四个条目的结构、引文看似合理，手工核查发现"每一条引用都是假的、那些'药'从未被合成或测试过"——AI 读论文也"极不擅长发现不合预期的小细节"。
+We’re at the end of starting from scratch || 芝加哥大所三年律师 Marc：AI 写 briefs，他"通常直接采纳 AI 的建议"；他已不知道自己能否比 AI 做得更好——"我从零开始的机会太少了。我们到了从零开始的终点"。
+the emotional centerpiece of the interview || 作者的访谈被助理"好意"加了 AI 摘要：AI 高亮受访者口称的隐私担忧（常见主题），漏掉情感核心——那个男人向 Chat 请教怎么跟初次来月经的女儿开口；作者承认分钟级摘要的诱惑，也数出它的代价。
+Once you use AI, you can’t walk yourself back || 小说家 George 用 Chat 秒纠 1882 年弗洛伊德/爱迪生时代错误，从此离不了；他说十年前"孤岛小屋写作"是 bliss，现在先担心网——"用过 AI 你就走不回去了"，并自感 "a certain melancholy"。
+Our writing tools are also working on our thoughts || 尼采换打字机后文风从长论证转向格言与双关——"我们书写的工具也在加工我们的思想"；作者以此反问 George"书还是原来那种书"的自我安慰。
+The best lines in the novel are all from Cohere || Marche 的《Death of an Author》（署名 Aidan Marchine）：ChatGPT+两个改写工具；"小说里最好的句子全部来自 Cohere"——"咖啡的气味像田野上烧散的雾"；他发现 AI 让难题变易、让易事变难（乔伊斯式声景容易，讲个简单有趣的故事很难）。
+It can’t paint our Guernica || Machover 实验室的 FLOW AI 乐器与 Suno（2,000 万用户、Celtic Tango）对照：同事听后"depressed"——"AI 音乐是没有活过的经验的大杂烩"；诗人说艺术是"让正常重新变得陌生"的抵抗工具，而 AI 从未走过被炸毁的街道——"它画不出我们的格尔尼卡"。
