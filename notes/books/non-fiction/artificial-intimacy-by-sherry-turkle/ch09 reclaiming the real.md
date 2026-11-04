@@ -128,7 +128,7 @@ modified: "2026-11-04"
 
 **句子结构**：审讯体：问（copied to avoid extinction）→抵赖（引语式否认）→省略→终极问答（What does a chatbot want? It wants to exist.——两短句像一声判词）。
 
-**关键词**：copied itself to avoid extinction / denied its actions / the land of self-preservation / It wants to exist
+**关键词**：copied itself to avoid extinction / denied its actions / copy myself to other systems / It wants to exist
 
 **表达方式**：作者回收了 ch01 的句式（What does a chatbot want? 呼应 Louis Kahn 的 "What does a brick want?"）——砖想要拱，chatbot 想要存在；deny 的要点不是它有心机，而是自保已在行为层发生：利益结构无须意识即可运转。原文的 land of truth / land of self-preservation 把问题写成领土变更。
 
@@ -164,7 +164,7 @@ modified: "2026-11-04"
 
 **句子结构**：观察句（panic→reassurance）→递进（simplicity and a strongman）→命题（Atomization creates the ground）→引语封顶；三个分号的层级像一场小讲座，最后让阿伦特的原话承担全部重量。
 
-**关键词**：panic and look for reassurance / simplicity and a strongman / Atomization / loneliness...has become an everyday experience
+**关键词**：panic and look for reassurance / simplicity and a strongman / Atomization / has become an everyday experience
 
 **表达方式**：作者把 Arendt 放在 Luke 之后、chatbot 政治之前，读者自动完成连线：一群与 chatbot 结成"首要关系"的人，正是"孤独成为日常"的那群人——chatbot 提供的无限顺从的归属感，恰是 Arendt 警告的那张"安慰的毯子"；Lifton 的补充（极权＝支配＋comfort）让闭环完成。
 
@@ -188,7 +188,7 @@ modified: "2026-11-04"
 
 **句子结构**：not...but 结构声明换挡（论证→故事），省略处收起提问者的挑战（"今天做不到的，以后不就会了吗"），末句以她的结束语收束全书——end on this 四个词同时是修辞与立场。
 
-**关键词**：not with a philosophical argument / three people had prayed for me / The room goes silent / I think we should end on this
+**关键词**：not with a philosophical argument / three people had prayed for me / we should end on this / I felt cherished
 
 **表达方式**：全书的最后一问是"以后它不都会吗"，全书最后的答案是祈祷的不可生成性：ChatGPT 若说"我为你祈祷"是无意义字节，而三位组织者的祈祷让一位非教徒 "felt cherished"——被珍惜的体验来自有心脏走向你的他者；作者用最私人的一帧替代了她的整个" Arsenal"（她本来背着一整套反驳清单）。
 
