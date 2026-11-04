@@ -1,0 +1,87 @@
+{
+ "chapter": "ch04",
+ "source": "text/ch04_west_one.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Sarah",
+   "what": "一个男人要领养 Johnny，Sarah 手脚紧紧缠住这位寄养哥哥（foster brother）的脖子和躯干，不肯放手。",
+   "anchor": "My arms and legs wrapped around the tight cords of my foster brother’s neck and torso.",
+   "line": 21,
+   "span": [
+    96,
+    182
+   ]
+  },
+  {
+   "who": "Johnny",
+   "what": "Johnny 嘱咐 Sarah 保持坚强：继续做个 badass bitch，打拼回他身边来。",
+   "anchor": "You keep being a badass bitch and fight your way back to me.",
+   "line": 30,
+   "span": [
+    696,
+    756
+   ]
+  },
+  {
+   "who": "Ethan",
+   "what": "Ethan 上前把 Sarah 从 Gage 手里接过来抱紧，看着 Johnny 上车时愤怒低声发誓：我们一定会找到他，我不在乎用什么办法。",
+   "anchor": "I swear to fuck we’ll find him. I don’t care how. We will. I swear it to you.",
+   "line": 57,
+   "span": [
+    2225,
+    2302
+   ]
+  },
+  {
+   "who": "Ethan",
+   "what": "Ethan 童年时火灾几乎夺命留下的疤痕（他视为畸形、不许人碰），这次任由 Sarah 把脸贴在他脖子的疤痕皮肤上。",
+   "anchor": "the damage from the fire that nearly took his life as a boy",
+   "line": 78,
+   "span": [
+    3312,
+    3371
+   ]
+  },
+  {
+   "who": "Sarah",
+   "what": "Misfits 是 Johnny 的前女友给这群人起的称呼；Ethan 的伤疤在这群人里被看作力量而非弱点。",
+   "anchor": "holding that part of himself from the rest of us Misfits—what Johnny’s ex-girlfriend called us—wasn’t needed",
+   "line": 81,
+   "span": [
+    3454,
+    3562
+   ]
+  },
+  {
+   "who": "Sarah",
+   "what": "Sarah 盘点一个月内接连失去的人：先是 Baby Blue，再是她的 Caleb，现在又是 Johnny。",
+   "anchor": "First with Baby Blue. Then my Caleb. Now Johnny? All within a month?",
+   "line": 87,
+   "span": [
+    4281,
+    4349
+   ]
+  },
+  {
+   "who": "Sarah",
+   "what": "领养 Johnny 的人名叫 Styx——一个 Johnny 认识、会在噩梦里为之哭喊的名字。",
+   "anchor": "Styx. A name Johnny knew and would cry for in his nightmares.",
+   "line": 108,
+   "span": [
+    5970,
+    6031
+   ]
+  },
+  {
+   "who": "Sarah/Ethan",
+   "what": "淋浴水泛出闪烁光点，Sarah 和 Ethan 都看得见；Ethan 断定这与血誓（blood oath）有关，并追问 Johnny 是否早知道会这样。",
+   "anchor": "Ethan jolted, then looked at his bandaged hand. “Holy shit… You’re right. But why?",
+   "line": 345,
+   "span": [
+    15874,
+    15956
+   ]
+  }
+ ]
+}

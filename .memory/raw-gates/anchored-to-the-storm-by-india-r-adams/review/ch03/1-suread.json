@@ -1,0 +1,87 @@
+{
+ "chapter": "ch03",
+ "source": "text/ch03_east_three.txt",
+ "readOrder": "text-only before md",
+ "facts": [
+  {
+   "who": "Maddox / Saleeni",
+   "what": "水下缠绵：Saleeni 发出猫叫般的 purr，Maddox 忍不住轻咬她的脖颈，随即因愧疚停手道歉（Jesus, I'm so sorry）。",
+   "anchor": "I couldn't help but open my mouth and gently bite her neck. The purr only got louder",
+   "line": 39,
+   "span": [
+    2028,
+    2112
+   ]
+  },
+  {
+   "who": "Styx / Saleeni",
+   "what": "Styx 站在海堤上吃苹果打断两人，抱怨我的美人鱼从没对我这样；Saleeni 以从未见过的速度冲出水面、悬在 Styx 与 Maddox 之间对他尖叫（周身变黑、胸部覆黑色皮质鳞），Styx 称她 Mrs. Possessive 后返回俱乐部。",
+   "anchor": "with speed I'd never seen, was suddenly between Styx and me, shooting out of the water like a shark to shriek at him",
+   "line": 87,
+   "span": [
+    4299,
+    4415
+   ]
+  },
+  {
+   "who": "Saleeni",
+   "what": "Saleeni 露出獠牙，一只手扭住 Maddox 的头发把他的头向后掰，用剃刀般的利齿划开他右侧胸口，事后舔舐伤口。",
+   "anchor": "Then razor-sharp teeth slashed the right side of my chest.",
+   "line": 129,
+   "span": [
+    7126,
+    7184
+   ]
+  },
+  {
+   "who": "Maddox",
+   "what": "Maddox 上颚剧痛、门牙仿佛在慢慢重排、鲜血滴入海中——身体正在变异；他惊恐自己可能已通过血契把正在变成的东西传染给 Misfits（次晨证实手上血契割伤与胸伤全部愈合、确长出新牙）。",
+   "anchor": "I might have infected my friends with whatever I was becoming. No, no, no, no…",
+   "line": 144,
+   "span": [
+    8503,
+    8581
+   ]
+  },
+  {
+   "who": "Maddox / Styx / Saleeni",
+   "what": "Maddox 被放上海堤后口齿不清问 Wha' are we?、承认把血分给了朋友们，Saleeni 拍打墙沿尖啸喊 Bad! Bad!；Styx 跑来用自己的 T 恤替他擦血，发现他胸口有一道如远古洞穴壁画的黑色符号——Maddox 被 Saleeni 标记了。",
+   "anchor": "He looked to Saleeni with wide eyes. \"What does this symbol mean?\"",
+   "line": 168,
+   "span": [
+    9610,
+    9676
+   ]
+  },
+  {
+   "who": "Maddox",
+   "what": "当夜 Maddox 求 Styx 让 Saleeni 留宿，随即昏厥；次晨在床上醒来盘点巨变：不到三天，他被寄养父母交出、被一个传闻已死的人接走并被告知是爷爷、得知父亲半属水族、童年幻想属实。",
+   "anchor": "In less than three days, I had been surrendered by my foster parents, picked up by a man who I was told was dead",
+   "line": 236,
+   "span": [
+    12395,
+    12507
+   ]
+  },
+  {
+   "who": "Noma / Styx",
+   "what": "Styx 揭晓 Noma 的身后安排：Noma 病中主动向 Styx 求婚，让他合法掌管真 Maddox Gentry 的资产（保单、房产），确保死后交还给 Maddox——给他留下可观的 nest egg。",
+   "anchor": "she asked me to marry her so that, legally, I could be responsible for the real Maddox Gentry.",
+   "line": 422,
+   "span": [
+    20781,
+    20875
+   ]
+  },
+  {
+   "who": "Maddox / Styx",
+   "what": "谈到处境地步时 Maddox 扬言那个不敬畏上帝的牧师该为 Baby Blue 偿命；Styx 反驳：正因他像疯子一样跟踪那位牧师、差点害死收容全家，自己才不得不把他从家里带走。",
+   "anchor": "You were about to get them all killed, acting like a rogue maniac, stalking that pastor of a church.",
+   "line": 473,
+   "span": [
+    23766,
+    23866
+   ]
+  }
+ ]
+}
