@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch25",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch25_chapter_25.txt",
+ "facts": [
+  {
+   "fact": "watershed：王室的到来把她推到人生岔路口——留下熬、攒钱走、还是别的，她必须选",
+   "anchor": "the fork in her life’s path",
+   "start": 1428,
+   "end": 1455
+  },
+  {
+   "fact": "她甚至盘算从账台偷攒私房钱——找 Robertu 代管，防 Lawrenz 搜出",
+   "anchor": "stealing from the till",
+   "start": 2005,
+   "end": 2027
+  },
+  {
+   "fact": "蓝裙加白手套：她第一次「觉得自己漂亮」——与裙子无关，是心态变了",
+   "anchor": "Today she felt pretty",
+   "start": 2739,
+   "end": 2760
+  },
+  {
+   "fact": "Carmel 请她开讲 Caravaggio 生平（斗殴亡命、Wignacourt、passaggio、8 月 29 日死限）——「Brava，只有学者才知道的深度」",
+   "anchor": "only a scholar might know",
+   "start": 8035,
+   "end": 8060
+  },
+  {
+   "fact": "Carmel 正式承认：你是以「Caravaggio 顾问」身份在场——不是清洁工",
+   "anchor": "a worthy adviser on Caravaggio",
+   "start": 8700,
+   "end": 8730
+  },
+  {
+   "fact": "女王入殿的启悟：「If Elizabeth could, she could」；她比女王更有自由——「To hell with you, Lawrenz，再碰我我就掰断你的手指」",
+   "anchor": "I will break your fingers",
+   "start": 12553,
+   "end": 12578
+  },
+  {
+   "fact": "女王亲自点名让她讲签名——她抛出「血书论」：血泊边的丝缕状笔触清洗后可能显出名字",
+   "anchor": "written in the blood",
+   "start": 18781,
+   "end": 18801
+  },
+  {
+   "fact": "女王握手表态「希望 Valentina 也受邀参与护画使命」；不到二十分钟的访问改写了一个平民的一生",
+   "anchor": "changed the course of a simple commoner’s life",
+   "start": 22044,
+   "end": 22090
+  }
+ ]
+}

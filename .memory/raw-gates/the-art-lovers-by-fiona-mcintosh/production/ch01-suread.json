@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "15 岁的 Valentina 一见钟情爱上一个已死/将死的英国飞行员",
+   "anchor": "Valentina Camilleri fell in love with him on sight, even though he was dead",
+   "start": 29,
+   "end": 104
+  },
+  {
+   "fact": "祖母 Agnes 战争爆发之初去世，全家因轰炸住进骑士团旧隧道",
+   "anchor": "She had died at the start of the war, and Valentina was grateful for the mercy of that",
+   "start": 613,
+   "end": 699
+  },
+  {
+   "fact": "家里开小酒吧招待英国飞行员，飞行员口袋里总备着给孩子们的麦芽糖",
+   "anchor": "The pilots especially were full of daring, and they always had barley sugar wrapped in waxed paper",
+   "start": 1691,
+   "end": 1789
+  },
+  {
+   "fact": "挚友 Gina Gerit 一家死于 2 月 Regent 电影院轰炸，Gina 被送去岛另一头的亲戚家",
+   "anchor": "Most of those killed were servicemen on leave, but there were some locals in the audience, including the Gerit family",
+   "start": 4823,
+   "end": 4940
+  },
+  {
+   "fact": "她的座右铭是不让德国人夺走她的希望",
+   "anchor": "I won’t let the Germans take my hope",
+   "start": 8983,
+   "end": 9019
+  },
+  {
+   "fact": "两家父母安排她在满 16 岁（9 月）后立刻嫁给 Falzon 家长子 Lawrenz，她不愿",
+   "anchor": "I don’t want to marry Lawrenz",
+   "start": 12008,
+   "end": 12037
+  },
+  {
+   "fact": "空袭警报响起时她独自留在 bastion 上不走，Robertu 先撤",
+   "anchor": "Every good sense told her to flee. And yet something was holding her back",
+   "start": 17022,
+   "end": 17095
+  },
+  {
+   "fact": "她目睹德机咬尾命中那架 Spitfire，飞行员跳伞落海，头垂着多半已死，她跑下 bastion 去救",
+   "anchor": "If her sight was serving her true, then his head was slumped to one side. He was likely dead",
+   "start": 25605,
+   "end": 25697
+  }
+ ]
+}

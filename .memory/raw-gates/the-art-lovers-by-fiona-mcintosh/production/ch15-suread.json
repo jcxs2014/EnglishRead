@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch15",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch15_chapter_15.txt",
+ "facts": [
+  {
+   "fact": "他向 Blunt 通报：与 Delia 友好离婚，「我真心替她高兴」",
+   "anchor": "we’ve decided to call it a day and divorce",
+   "start": 1151,
+   "end": 1193
+  },
+  {
+   "fact": "Blunt 其人：Cambridge 同窗、顶级艺术史家、前 MI5 高官、传闻同性恋、对 Peter 颇有好感",
+   "anchor": "former senior MI5 agent during the war",
+   "start": 2514,
+   "end": 2552
+  },
+  {
+   "fact": "有友人之友传过 Blunt 战时曾叛国；Peter 与多数军人选择放下、不想纠缠丑恶",
+   "anchor": "Blunt had committed treachery",
+   "start": 2608,
+   "end": 2637
+  },
+  {
+   "fact": "HQ 经历自评：「坐在驾驶舱后一排」——紧张、专注，每天做影响生死的大决定",
+   "anchor": "One row back from the front seats",
+   "start": 4450,
+   "end": 4483
+  },
+  {
+   "fact": "正题：女王英联邦巡演倒数第二站是马耳他，他想陪她看主教座堂里的 Caravaggio",
+   "anchor": "the penultimate stop before Gibraltar",
+   "start": 7123,
+   "end": 7160
+  },
+  {
+   "fact": "真正驱动：罗马 1956 大展要借《施洗者圣约翰被斩首》；修复将揭晓签名之谜",
+   "anchor": "The restoration will reveal it.",
+   "start": 9192,
+   "end": 9223
+  },
+  {
+   "fact": "Blunt 拍板：去找皇家渠道申请、备好西装——「这活你是不二人选」",
+   "anchor": "Best man for the job",
+   "start": 12521,
+   "end": 12541
+  },
+  {
+   "fact": "出门时他浑身兴奋——上次这种心跳还是爬进 Spitfire 座舱那天；关门一瞬他明白缺了什么：「第一次，久违地，感到快乐」",
+   "anchor": "for the first time, in a long time, he felt happy",
+   "start": 12766,
+   "end": 12815
+  }
+ ]
+}

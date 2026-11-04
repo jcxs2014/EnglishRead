@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch10",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch10_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "Maria 点破：Valentina 对他动了深情——这孩子聪明早熟有野心，父母却另有安排",
+   "anchor": "developed a deep crush on you",
+   "start": 2774,
+   "end": 2803
+  },
+  {
+   "fact": "她的比喻：他就是她的骑士——看她战斗、看她从天坠落，她认定与他有特殊联结",
+   "anchor": "You’re her version of a knight",
+   "start": 5327,
+   "end": 5357
+  },
+  {
+   "fact": "他像 Apollo：高个金发、笑意随叫随到——半个医院的护士都爱他，何况情窦初开的她",
+   "anchor": "You look like Apollo",
+   "start": 5494,
+   "end": 5514
+  },
+  {
+   "fact": "Maria 教他体面退场：送件纪念品、确认友谊，必要时撒个小谎（他拒绝说谎）",
+   "anchor": "A simple keepsake just for her",
+   "start": 6287,
+   "end": 6317
+  },
+  {
+   "fact": "告别 Stella 时她指向大教堂并意味深长地点头——做母亲的都知道",
+   "anchor": "Our daughter will likely be at the cathedral tomorrow",
+   "start": 8903,
+   "end": 8956
+  },
+  {
+   "fact": "他答「明天」就走（实为本周晚些，故意说得决绝）；她求他答应回来，他不知真假地许了诺",
+   "anchor": "but he was being emphatic, clear, as requested",
+   "start": 10240,
+   "end": 10286
+  },
+  {
+   "fact": "他把珍藏的 Caravaggio 小书送她——她已是「皈依者」；她拒绝进隧道：宁愿死在画前",
+   "anchor": "I’d like you to have it",
+   "start": 12031,
+   "end": 12054
+  },
+  {
+   "fact": "她留下「愿我们的心借艺术之爱永远相连」；他乘车远去，如释重负与悲伤交战",
+   "anchor": "May our hearts always be linked through our love of art",
+   "start": 13188,
+   "end": 13243
+  }
+ ]
+}

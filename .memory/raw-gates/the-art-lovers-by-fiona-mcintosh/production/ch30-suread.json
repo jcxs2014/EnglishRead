@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch30",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch30_chapter_30.txt",
+ "facts": [
+  {
+   "fact": "Danjel 交代：Peter 耳语让他「什么都别说」——他照办了；母亲叮嘱他谁也别提",
+   "anchor": "I was just following his instructions",
+   "start": 683,
+   "end": 720
+  },
+  {
+   "fact": "Maria 的清算演讲：你从看见他坠海那天就爱着 Peter；生活除了 Danjel 无一处可忍——「别再骗自己了」",
+   "anchor": "Stop lying that you can live it.",
+   "start": 2848,
+   "end": 2880
+  },
+  {
+   "fact": "Maria 的神学辩护：这是天使的恩典、命运出手解决你人生最大的难题——「现在你自由了、能呼吸了」",
+   "anchor": "a blessing from the angels",
+   "start": 4127,
+   "end": 4153
+  },
+  {
+   "fact": "对 Danjel 的官方口径：父亲自己已在坠落、他的部分很小——「他死于意外。就这样！」",
+   "anchor": "His father died of an accident.",
+   "start": 5453,
+   "end": 5484
+  },
+  {
+   "fact": "Peter 的告白被敲门打断：我爱上你了；Danjel 是我从未有过的儿子——「能当他父亲是我的荣幸」",
+   "anchor": "I am in love with you",
+   "start": 8892,
+   "end": 8913
+  },
+  {
+   "fact": "Vella 二访刁难：父亲刚死儿子就踢球？——她的长篇答辩（孩子情绪、忠诚妻子）让他当场词穷",
+   "anchor": "the boy is playing football",
+   "start": 10123,
+   "end": 10150
+  },
+  {
+   "fact": "匿名举报追查：电话里「音调忽高忽低」——男扮女还是女扮男？两人对峙到有人敲门",
+   "anchor": "struggling to maintain the pitch of their voice",
+   "start": 14199,
+   "end": 14246
+  },
+  {
+   "fact": "大反转：匿名举报是她打的——苦练粗嗓门向法国警方举报 Lawrenz 逼他亡命；Vella 指天说「祂的安排神秘莫测」，放她一马",
+   "anchor": "He works in mysterious ways.",
+   "start": 17288,
+   "end": 17316
+  }
+ ]
+}

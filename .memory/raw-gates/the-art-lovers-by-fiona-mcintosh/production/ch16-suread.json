@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch16",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "他一拳打在她肾上；教训完威胁儿子：「说出去我就杀了她，然后杀了你」",
+   "anchor": "I will kill her",
+   "start": 1493,
+   "end": 1508
+  },
+  {
+   "fact": "暗处传来一句气声「总有一天我会杀了你」——是十岁的 Danjel 说的，像立誓",
+   "anchor": "beneath his breath as a murmur",
+   "start": 1820,
+   "end": 1850
+  },
+  {
+   "fact": "Robertu 到访打断暴行；Lawrenz 的道歉方式是当众夸「她咖啡城里最好」——「这就是全部了」",
+   "anchor": "That was his apology",
+   "start": 4231,
+   "end": 4251
+  },
+  {
+   "fact": "Robertu 提出带母子逃去西西里：他有积蓄、可以卖掉自己的酒吧、朋友接应",
+   "anchor": "I will sell my bar",
+   "start": 10574,
+   "end": 10592
+  },
+  {
+   "fact": "Robertu 揭底：Lawrenz 在马赛开酒吧拖垮家底、喝酒赌钱输光利润，路子「不干净」，还想拿赌场牌照",
+   "anchor": "licence for a casino",
+   "start": 10418,
+   "end": 10438
+  },
+  {
+   "fact": "她拒绝逃亡：那只会让 Robertu 事事如愿；西西里意味着离开瓦莱塔、大教堂与 Caravaggio",
+   "anchor": "he got everything he wanted",
+   "start": 15196,
+   "end": 15223
+  },
+  {
+   "fact": "她神秘回应「保持耐心，我已走了一些步子」；还提到 Queen Elizabeth 将到访马耳他",
+   "anchor": "I have taken some steps",
+   "start": 11314,
+   "end": 11337
+  },
+  {
+   "fact": "她闪过杀夫幻想（像画中的斩首一样割喉）又被理智按住——坐牢、Danjel 失恃；「好妻子」这句话她自己都分不清真假",
+   "anchor": "slit his throat, like the Caravaggio painting",
+   "start": 13986,
+   "end": 14031
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch07",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "Maria 规定坐轮椅才能出门；Osborne 中队长陪 Peter 去海边看日出",
+   "anchor": "It’s the chair or you’re not going",
+   "start": 466,
+   "end": 500
+  },
+  {
+   "fact": "Peter 在马耳他已击落七架；John 警告他成了标靶，德军会派两架王牌连人带伞一起杀",
+   "anchor": "they’ll commit two of their best, most fearless pilots",
+   "start": 4753,
+   "end": 4807
+  },
+  {
+   "fact": "他每两周给 Delia 写客气家书、毫无激情；旧情人 Phoebe 因他野性难驯而分手",
+   "anchor": "Affectionately yours, P.",
+   "start": 6512,
+   "end": 6536
+  },
+  {
+   "fact": "John 建议（并已推荐）他去地下 HQ 帮忙，既有用又留在城里",
+   "anchor": "putting your hand up to work at HQ",
+   "start": 7933,
+   "end": 7967
+  },
+  {
+   "fact": "她的心筑起骑士堡垒般的城墙，只放 Peter 进来，婚约攻不进去",
+   "anchor": "Just as the Knights had built their fortress, so had she.",
+   "start": 9617,
+   "end": 9674
+  },
+  {
+   "fact": "去 Falzon 家的路上父母当谈论待售牲口一样定夺她；头发被剪短为了让她显老成",
+   "anchor": "selling her to the highest bidder",
+   "start": 13800,
+   "end": 13833
+  },
+  {
+   "fact": "她设问（你们当年相爱吗）反将父亲一军，换来「你眼光短浅」「婚事已成」的镇压",
+   "anchor": "Right now you are a child who can’t see further than her nose",
+   "start": 15783,
+   "end": 15844
+  },
+  {
+   "fact": "母亲的生存哲学：女人都得挨欺负，要学会无声掌权、忍痛；Lawrenz 摊牌「我不爱任何人」并撂下狠话",
+   "anchor": "We’re all bullied, my girl. We’re women.",
+   "start": 17124,
+   "end": 17164
+  }
+ ]
+}

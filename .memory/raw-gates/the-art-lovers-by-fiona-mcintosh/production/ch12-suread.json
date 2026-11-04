@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch12",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch12_chapter_12.txt",
+ "facts": [
+  {
+   "fact": "他当面点破 Gordon；她像旧风琴般折进椅子里，没有否认",
+   "anchor": "you’re seeing Gordon again",
+   "start": 326,
+   "end": 352
+  },
+  {
+   "fact": "他最狠的坦白：根本不在乎，反而替她高兴——至少有一方在被爱",
+   "anchor": "I’m actually glad for you",
+   "start": 896,
+   "end": 921
+  },
+  {
+   "fact": "互相清算：他从未像丈夫那样爱她（婚前就警告过）；她爱的只是他这枚「荣誉勋章」",
+   "anchor": "You have never loved me either",
+   "start": 1645,
+   "end": 1675
+  },
+  {
+   "fact": "他提出离婚：1954 年不是 1854 年，可指控他通奸或遗弃，法院比从前宽容",
+   "anchor": "nineteen fifty-four, not eighteen fifty-four",
+   "start": 3133,
+   "end": 3177
+  },
+  {
+   "fact": "「两条永不交汇的铁轨」——除下午三点喝茶外毫无共同点；两人的婚姻没有交集",
+   "anchor": "two railway tracks that never intersect",
+   "start": 3935,
+   "end": 3974
+  },
+  {
+   "fact": "无子的旧伤：医生说过「有时就是不会发生」；他说漏「便利婚姻」后立刻安抚「不是你的错」",
+   "anchor": "sometimes it just doesn’t happen",
+   "start": 4809,
+   "end": 4841
+  },
+  {
+   "fact": "她早就疑心他在战时更快乐、随口点出「马耳他？」——他把一切归因于年轻与刺激，绝口不提 Valentina",
+   "anchor": "You’re so remote",
+   "start": 7260,
+   "end": 7276
+  },
+  {
+   "fact": "吻别后他去伦敦；他自称「海市蜃楼、Gordon 才是真的」；她最后问「对你来说谁才是真的」，然后说要去打给 Gordon",
+   "anchor": "I wonder who is real for you, Peter",
+   "start": 11110,
+   "end": 11145
+  }
+ ]
+}

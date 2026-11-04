@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch20",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch20_chapter_20.txt",
+ "facts": [
+  {
+   "fact": "相认确认后她当场爆料：这些年她数着日子过——「I counted. Each day.」",
+   "anchor": "I counted. Each day.",
+   "start": 1396,
+   "end": 1416
+  },
+  {
+   "fact": "他赞她「美得让人屏息」；她自贬只是清洁工，他回「你远不止如此」",
+   "anchor": "breathtaking, if I’m being honest",
+   "start": 2106,
+   "end": 2139
+  },
+  {
+   "fact": "Hopper 画论引火：他说想「了解并解决画中女子的悲伤」，她冷笑「闯进她的生活替她解决问题」",
+   "anchor": "solve her problems",
+   "start": 4206,
+   "end": 4224
+  },
+  {
+   "fact": "她内心拉锯：他回来了她反而想逃——他正拆穿她赖以撑过婚姻的「不可能的梦」",
+   "anchor": "the impossible dream",
+   "start": 5820,
+   "end": 5840
+  },
+  {
+   "fact": "她的自白震住他：我也是瓦莱塔的囚徒——喉咙像画里的圣约翰被割开，每天流一点血",
+   "anchor": "a prisoner of Valletta",
+   "start": 6841,
+   "end": 6863
+  },
+  {
+   "fact": "说到家人她只有一句：Danjel 是我每天起床呼吸的理由；他追问「你父亲怎么想」她立刻要走",
+   "anchor": "the reason I get up each day",
+   "start": 7357,
+   "end": 7385
+  },
+  {
+   "fact": "揭秘：战后为护画曾取下卷起，颜料剥落反受其损；签名有 1920 年代大教堂档案为证但无人知下落",
+   "anchor": "Paint fell off.",
+   "start": 8902,
+   "end": 8917
+  },
+  {
+   "fact": "咖啡摊牌：他坦白分居、自认婚姻失败方；私心有二，其二是「马耳他是我的」——挂在每个字上的小 Valentina",
+   "anchor": "The second reason is that Malta is mine.",
+   "start": 14801,
+   "end": 14841
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch09",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "她承认去年还暗恋过本堂神父——但对 Peter 不是迷恋，是爱",
+   "anchor": "a sort of crush on the local priest",
+   "start": 1667,
+   "end": 1702
+  },
+  {
+   "fact": "世界把她当孩子也减不了这份感情的浓度；她连 Delia 都羡慕——只想要她丈夫",
+   "anchor": "It didn’t make it less real simply because it couldn’t be",
+   "start": 2138,
+   "end": 2195
+  },
+  {
+   "fact": "她看得清楚：他眼里的只是对有趣小辈的喜爱，不是爱；他不会为她破誓",
+   "anchor": "one of fondness, not love",
+   "start": 3133,
+   "end": 3158
+  },
+  {
+   "fact": "她脱口「我想嫁的是你」，他惊得像离水的鱼，她慌忙撒谎说只是玩笑",
+   "anchor": "I was thinking I could marry you instead",
+   "start": 6789,
+   "end": 6829
+  },
+  {
+   "fact": "他说这座教堂里有让他心烧的东西，全世界只想与她分享",
+   "anchor": "sets my heart on fire",
+   "start": 16079,
+   "end": 16100
+  },
+  {
+   "fact": "话没说完，她在心里替他补完：只做艺术之爱人——这是她幼稚梦境的丧钟，却让她爱得更深",
+   "anchor": "we are both lovers of art and…",
+   "start": 16913,
+   "end": 16943
+  },
+  {
+   "fact": "墓碑小堂里《施洗者圣约翰被斩首》撞进视线：恐惧又兴奋、愤怒又悲伤；他赞她「你已懂了——他凝固了时间」",
+   "anchor": "That frightens me and yet excites me all at once",
+   "start": 19771,
+   "end": 19819
+  },
+  {
+   "fact": "他竟开玩笑说「或者 Lawrenz 先死」还眨了眨眼；她立志成为艺术史学者与修复师并许诺不弃，他临别：走之前没时间再来了",
+   "anchor": "Or he might die first",
+   "start": 24727,
+   "end": 24748
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch08",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch08_chapter_8.txt",
+ "facts": [
+  {
+   "fact": "前一天损失两名飞行员，摔断脖子那位是他的朋友；同事无言拍肩胜过悼词",
+   "anchor": "We lost two yesterday",
+   "start": 295,
+   "end": 316
+  },
+  {
+   "fact": "他向美国访客 Brown 讲解德军诱饵战术：从西西里西侧佯动向西，突然折向南突袭",
+   "anchor": "They send craft from the western side of Sicily",
+   "start": 5142,
+   "end": 5189
+  },
+  {
+   "fact": "Brown 一句 Kraut 被他抓包是美国人——英国人会说 Jerry 或 Fritz",
+   "anchor": "the Americans preferred Kraut",
+   "start": 6727,
+   "end": 6756
+  },
+  {
+   "fact": "大教堂台阶上她说书在手永不孤单，还承认「我想你了」，说完脸红",
+   "anchor": "I’m never really lonely with a book",
+   "start": 10649,
+   "end": 10684
+  },
+  {
+   "fact": "他自白：独生子、7 岁被送寄宿学校、母亲习惯「从远处爱他」",
+   "anchor": "I was sent off to boarding school at seven",
+   "start": 12206,
+   "end": 12248
+  },
+  {
+   "fact": "Delia 的婚事是她母亲做的局：做过功课、认定他是女儿的合适猎物",
+   "anchor": "decided I might just be the right catch for her daughter",
+   "start": 16062,
+   "end": 16118
+  },
+  {
+   "fact": "他承认自己被裹挟着走完全程——勋章、大宅、稳定收入的 RAF 飞行员正是好筹码",
+   "anchor": "I allowed myself to be swept along",
+   "start": 16665,
+   "end": 16699
+  },
+  {
+   "fact": "他坦白只有飞行时才是另一个人，婚姻里从没有那种自由；她宣告「我永远不会幸福」，他劝她想想未来的女儿、带她进主教座堂",
+   "anchor": "I feel a freedom in my Spitfire that I never feel back at home in my marriage",
+   "start": 17659,
+   "end": 17736
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch22",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch22_chapter_22.txt",
+ "facts": [
+  {
+   "fact": "兔肉炖菜上桌她脱口「用爱做的」——说完不敢看他",
+   "anchor": "Made with love",
+   "start": 270,
+   "end": 284
+  },
+  {
+   "fact": "收拾时两手相碰像烫到——他心里自警「Valentina，你危险地迷人，我得小心」",
+   "anchor": "dangerously desirable",
+   "start": 6307,
+   "end": 6328
+  },
+  {
+   "fact": "香水相赠：Etourdissant——他婚前买的蜜月礼物、「我没想给她」；被逼问原因只答「不敢说」",
+   "anchor": "I dare not, actually.",
+   "start": 8700,
+   "end": 8721
+  },
+  {
+   "fact": "她的清算：你走那天我的心就碎了——「你是自己求调走的吗？」「没有，但我没争，说实话我巴不得」",
+   "anchor": "I welcomed it.",
+   "start": 9454,
+   "end": 9468
+  },
+  {
+   "fact": "他的理由：有人点醒我你动了真情——你是少女我是已婚男，这梦不可能",
+   "anchor": "it was an impossible dream",
+   "start": 9552,
+   "end": 9578
+  },
+  {
+   "fact": "香水=瓶装的马耳他：地中海、花木、人民与自由——「回家后打仗都比跟自己的心作战容易」",
+   "anchor": "doing battle with it",
+   "start": 10968,
+   "end": 10988
+  },
+  {
+   "fact": "她的判词：「你不是懦夫，Peter——你是弱」；他大笑受教「没人像你这么直白」",
+   "anchor": "But you are weak.",
+   "start": 12171,
+   "end": 12188
+  },
+  {
+   "fact": "她把香水抹上手腕——闻出了自己的岛；末句「我的诚实总给我惹祸，如今换来淤青和断骨」",
+   "anchor": "bruises and broken bones",
+   "start": 13106,
+   "end": 13130
+  }
+ ]
+}

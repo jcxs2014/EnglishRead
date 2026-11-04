@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch06",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "Peter 在酒吧当众承诺送食物物资、多带人来，还放下酒钱；母亲夸他是好人",
+   "anchor": "I’ll send more people to this bar",
+   "start": 2076,
+   "end": 2109
+  },
+  {
+   "fact": "父亲想把妻儿撤去村庄自己留守，母亲炸毛：我们绝不分开",
+   "anchor": "I’d like to move you children and your mother to the village",
+   "start": 3459,
+   "end": 3519
+  },
+  {
+   "fact": "医院门口父亲敲着鼻子炫耀「已经给她定好了好亲事」，Peter 一愣",
+   "anchor": "I have already made a very good marriage for this one",
+   "start": 6138,
+   "end": 6191
+  },
+  {
+   "fact": "病房里她自嘲「我被卖了」，他惊呼这简直中世纪，还为冒犯文化道歉",
+   "anchor": "I’ve been sold.",
+   "start": 7804,
+   "end": 7819
+  },
+  {
+   "fact": "她说 Lawrenz 心不在焉又软弱，一切听父亲的",
+   "anchor": "He goes along with whatever his father wants",
+   "start": 9203,
+   "end": 9247
+  },
+  {
+   "fact": "Peter 说有个主意要向上司申请，批了他就能多留一阵——她喜出望外",
+   "anchor": "you’ll be stuck with me for a while",
+   "start": 10120,
+   "end": 10155
+  },
+  {
+   "fact": "隧道里她闪过求死念头（被城石压死都「有诗意」），但转头想起自己还想活、还想被爱",
+   "anchor": "Maybe death was the answer.",
+   "start": 16856,
+   "end": 16883
+  },
+  {
+   "fact": "警报再响她这次守信钻进隧道，轰炸中闭眼「敢德国人来杀她」，并决定去争取母亲",
+   "anchor": "dared the Germans to kill her",
+   "start": 18518,
+   "end": 18547
+  }
+ ]
+}

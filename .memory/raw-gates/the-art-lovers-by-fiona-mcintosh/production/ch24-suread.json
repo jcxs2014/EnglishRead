@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch24",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch24_chapter_24.txt",
+ "facts": [
+  {
+   "fact": "事后数日她仍能「摸到」那晚的记忆——「He was vivid. Peter Fox. He was hers… at last.」",
+   "anchor": "He was hers… at last.",
+   "start": 331,
+   "end": 352
+  },
+  {
+   "fact": "全城挂旗迎驾：女王将与年幼的 Charles、Anne 在马耳他团聚，学校放假一天",
+   "anchor": "reunited with the young Prince Charles and Princess Anne",
+   "start": 970,
+   "end": 1026
+  },
+  {
+   "fact": "她的梦想清单第一位：Danjel 的未来里没有争吵拳头、没有蜷在角落敷淤青的妈妈",
+   "anchor": "nursing fresh bruises",
+   "start": 3849,
+   "end": 3870
+  },
+  {
+   "fact": "内心声音催她：「那就去做——把问题移除，离开 Lawrenz」；这念头吓得她抓起工作服出门",
+   "anchor": "Get away from Lawrenz.",
+   "start": 4386,
+   "end": 4408
+  },
+  {
+   "fact": "她自嘲女王的权力：说「不」的权力一定很爽——可女王永远不会说不；「你只是个擦地的、顺便端酒端咖啡」",
+   "anchor": "just a cleaner who serves wine and coffee",
+   "start": 5766,
+   "end": 5807
+  },
+  {
+   "fact": "Peter 请她以「同事」身份到主教座堂迎驾——「你懂 Caravaggio 不输在场任何人」，已获主管首肯",
+   "anchor": "You are my colleague.",
+   "start": 7484,
+   "end": 7505
+  },
+  {
+   "fact": "Maria 撞见两人：「多年没见你这样笑过」「也许天使引你回来不止为女王」——她一直什么都知道",
+   "anchor": "maybe the angels have guided you back",
+   "start": 8669,
+   "end": 8706
+  },
+  {
+   "fact": "他自认当年「不是危险」；她纠正：「你是危险——你只要低声说句『跟我走』，我当年就跑了」",
+   "anchor": "I would have run away with you",
+   "start": 10269,
+   "end": 10299
+  }
+ ]
+}

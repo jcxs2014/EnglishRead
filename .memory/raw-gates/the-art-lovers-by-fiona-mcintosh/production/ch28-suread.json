@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch28",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch28_chapter_28.txt",
+ "facts": [
+  {
+   "fact": "静物瞬间：Peter 与 Danjel 是 Caravaggio 画里的光，Lawrenz 是黑暗——「他是刽子手：熟练、无表情、无激情」",
+   "anchor": "he was the executioner",
+   "start": 643,
+   "end": 665
+  },
+  {
+   "fact": "醉归的第一句竟是裙子：「我记得你说把那条裙送人了」——谎言当场戳穿",
+   "anchor": "I thought you said you gave that dress away.",
+   "start": 1070,
+   "end": 1114
+  },
+  {
+   "fact": "他认出 Peter：你就是那个飞行员吧？拐杖呢？——还把她像布娃娃一样挥手推开",
+   "anchor": "Where are your crutches?",
+   "start": 2084,
+   "end": 2108
+  },
+  {
+   "fact": "Danjel 当众反了：「我不要他去！我恨他！」「我不是你儿子——我只属于我妈和我妈的家族」",
+   "anchor": "I’m not your son!",
+   "start": 3287,
+   "end": 3304
+  },
+  {
+   "fact": "Peter 宣战：她永远叫 Valentina；儿子的优秀全是妈妈教的——「谢天谢地他没遗传你的基因」",
+   "anchor": "Danjel is all Camilleri",
+   "start": 6416,
+   "end": 6439
+  },
+  {
+   "fact": "他一掌把她拍上岩石，膝肘流血；Peter 冷声：「你再也不许碰她一根手指」",
+   "anchor": "You will never lay a hand on Valentina again",
+   "start": 7079,
+   "end": 7123
+  },
+  {
+   "fact": "「我是拳击手！」「我是足球运动员！」——Danjel 全速飞踢，Lawrenz 失衡坠墙，血堆里不动了",
+   "anchor": "And I am a footballer",
+   "start": 7444,
+   "end": 7465
+  },
+  {
+   "fact": "尾句回收 ch16 的气声誓言：「我说过，他再敢伤你，我就杀了他」——她脊背发凉",
+   "anchor": "I told you I’d kill him",
+   "start": 8310,
+   "end": 8333
+  }
+ ]
+}

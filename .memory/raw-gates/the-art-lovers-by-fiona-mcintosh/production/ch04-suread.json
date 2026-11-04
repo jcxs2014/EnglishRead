@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch04",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch04_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "Peter 战前是艺术史讲师、专攻 Caravaggio，被派驻瓦莱塔正因大师名画在此",
+   "anchor": "career as lecturer on the history of art, specialising in the work of Michelangelo Merisi da Caravaggio",
+   "start": 1348,
+   "end": 1451
+  },
+  {
+   "fact": "伤情清点：肩脱臼、肋骨断、两指骨折、脚踝重扭，短期内不能再飞",
+   "anchor": "A dislocated shoulder, broken ribs and two fractured fingers",
+   "start": 3404,
+   "end": 3464
+  },
+  {
+   "fact": "她说「你在为我的安全而战，我必须看着你活下来」；他夸她记性好、懂飞机",
+   "anchor": "I needed to watch you survive",
+   "start": 6827,
+   "end": 6856
+  },
+  {
+   "fact": "他教她名字的含义：Valentina 来自拉丁语 valens，意为坚强、英勇、勇敢",
+   "anchor": "It comes from the Latin “valens”. It means strong… valiant.",
+   "start": 10806,
+   "end": 10865
+  },
+  {
+   "fact": "他说世上年轻人都该上大学开阔头脑，惊出她一问：马耳他女孩不配有野心吗",
+   "anchor": "attended university to broaden and enrich their minds",
+   "start": 12798,
+   "end": 12851
+  },
+  {
+   "fact": "他夸她的叛逆不服管，还要她别告诉父母——Maria 斥他别给姑娘灌输思想",
+   "anchor": "I admire your disobedience and defiance",
+   "start": 15146,
+   "end": 15185
+  },
+  {
+   "fact": "被问「你爱妻子吗」他用爱猫搪塞——猫是谎言，他们没有宠物，婚姻冷淡",
+   "anchor": "The cat was a lie. They had no pets.",
+   "start": 22698,
+   "end": 22734
+  },
+  {
+   "fact": "她抛下一个飞吻逃出病房；他承诺留通信地址、帮她走历史与艺术的路",
+   "anchor": "blowing him a kiss before fleeing his room",
+   "start": 24634,
+   "end": 24676
+  }
+ ]
+}

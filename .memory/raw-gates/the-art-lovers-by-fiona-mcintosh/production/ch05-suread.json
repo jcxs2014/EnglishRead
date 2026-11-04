@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch05",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "父亲在酒吧向 Emman Falzon 摆生活困难，实为催两家正式联姻；Falzon 还觊觎 Kingsway 的铺面",
+   "anchor": "reinforce to Falzon that their families needed to formally unite",
+   "start": 664,
+   "end": 728
+  },
+  {
+   "fact": "Rosa De Santis 当众讥讽 Stella 拿美貌女儿做交易，她羞愤逃到主教座堂树下",
+   "anchor": "using your beautiful Valentina here to broker the best deal of all",
+   "start": 4032,
+   "end": 4098
+  },
+  {
+   "fact": "教堂树下遇上溜出医院的 Peter——灰脸冒汗拄着拐，为看一眼城市硬撑上山",
+   "anchor": "Peter Fox was like a special angel sent to her in this moment of need",
+   "start": 5245,
+   "end": 5314
+  },
+  {
+   "fact": "他让她直呼其名：「我们是朋友，记得吗」；两人自认被生死绑在一起",
+   "anchor": "Call me Peter, please",
+   "start": 6004,
+   "end": 6025
+  },
+  {
+   "fact": "学校因轰炸停课，她在隧道里点蜡烛自学，目标是通过考试",
+   "anchor": "I study on my own",
+   "start": 8406,
+   "end": 8423
+  },
+  {
+   "fact": "他主动提出帮她补习作报答，条件是征得她父亲同意",
+   "anchor": "How else can I repay you?",
+   "start": 8855,
+   "end": 8880
+  },
+  {
+   "fact": "她脱口问他为什么娶不爱的女人，他说现在想不清楚、改天再答",
+   "anchor": "Ask me that another time",
+   "start": 9705,
+   "end": 9729
+  },
+  {
+   "fact": "父亲把晕厥的 Peter 接去酒吧喝 Scotch；他道谢「sweet Valentina」，她立志此生不再爱别人",
+   "anchor": "She would never love another man again.",
+   "start": 15692,
+   "end": 15731
+  }
+ ]
+}

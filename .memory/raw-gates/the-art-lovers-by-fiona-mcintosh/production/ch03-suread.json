@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "医生来宣布死亡，她握着飞行员的大手不肯让位，近距离端详这个「最美的男人」",
+   "anchor": "even in this state he was the most beautiful man she’d ever seen",
+   "start": 342,
+   "end": 406
+  },
+  {
+   "fact": "她冒出坏心思：嘴对嘴吹气是反复吻他的完美借口",
+   "anchor": "realised it would be the perfect excuse to kiss him repeatedly on the mouth",
+   "start": 988,
+   "end": 1063
+  },
+  {
+   "fact": "Lawrenz 的情绪会在阴郁和残暴之间切换，她不信任这种反复无常",
+   "anchor": "His moods often turned into a sulk and then cruelty",
+   "start": 2600,
+   "end": 2651
+  },
+  {
+   "fact": "Robertu 说 Lawrenz 总在讨父亲的夸奖，弟弟得了夸奖他就怨恨",
+   "anchor": "He’s always looking for praise, and he resents it if I get it instead of him",
+   "start": 5468,
+   "end": 5544
+  },
+  {
+   "fact": "秘密：Lawrenz 说他见过父亲打母亲，还不止一次",
+   "anchor": "Lawrenz said he has seen my father hitting my mother",
+   "start": 8177,
+   "end": 8229
+  },
+  {
+   "fact": "「尸体」咳出积水活了过来，她喜极而泣当作祈祷应验",
+   "anchor": "A miracle had occurred, and her pilot was alive",
+   "start": 10423,
+   "end": 10470
+  },
+  {
+   "fact": "他冲她眨眼，哑声说「你好，美人」「德国人抓不走我」",
+   "anchor": "No German’s going to get me",
+   "start": 10853,
+   "end": 10880
+  },
+  {
+   "fact": "临别赠言：历史是未来的钥匙，艺术使人自由——她把这句话带回家",
+   "anchor": "And art? Art will set you free",
+   "start": 17099,
+   "end": 17129
+  }
+ ]
+}

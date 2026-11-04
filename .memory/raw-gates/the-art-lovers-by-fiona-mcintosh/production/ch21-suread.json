@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch21",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch21_chapter_21.txt",
+ "facts": [
+  {
+   "fact": "打给 Robertu 报营业额——她脱口「他八成睡在别人床上」，头一次把这话说出口",
+   "anchor": "probably drunk somewhere",
+   "start": 942,
+   "end": 966
+  },
+  {
+   "fact": "Robertu 问「他当着 Danjel 的面打你吗」——「有。越来越多」；他自责不阻止就是失职",
+   "anchor": "does he hurt you in front of Danjel?",
+   "start": 1663,
+   "end": 1699
+  },
+  {
+   "fact": "她把餐桌摆出餐巾、花瓶和蜡烛——点蜡烛的手在抖；梦成真到她怀疑他是白日 mirage",
+   "anchor": "her hand was shaking",
+   "start": 3251,
+   "end": 3271
+  },
+  {
+   "fact": "儿子夸她美——「爸爸从来不说」；她坦白自己从不觉得美",
+   "anchor": "You’re beautiful.",
+   "start": 4961,
+   "end": 4978
+  },
+  {
+   "fact": "蜜月裙：粉波点、为蜜月买的、从未穿过——若穿过，第一波淤青早会显形",
+   "anchor": "for my honeymoon",
+   "start": 5319,
+   "end": 5335
+  },
+  {
+   "fact": "镜前的小小反叛：解开发髻让头发放下——平日束发是为了不招 Lawrenz 的注意",
+   "anchor": "in a fit of defiance she undid it",
+   "start": 6390,
+   "end": 6423
+  },
+  {
+   "fact": "晚餐赠 Danjel 一本 Caravaggio 画册；「敬艺术之爱人」的祝酒把儿子收进当年的二人小圈",
+   "anchor": "To art lovers.",
+   "start": 13560,
+   "end": 13574
+  },
+  {
+   "fact": "Peter 被拉上街踢球；「她的战争从未停过——今晚那一战暂时休战」；她看着儿子与那个伦敦来的男人，终于与自己和解",
+   "anchor": "Tonight she felt at peace with herself",
+   "start": 17441,
+   "end": 17479
+  }
+ ]
+}

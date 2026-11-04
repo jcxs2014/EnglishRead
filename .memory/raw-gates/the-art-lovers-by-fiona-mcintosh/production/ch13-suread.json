@@ -1,0 +1,55 @@
+{
+ "book": "the-art-lovers-by-fiona-mcintosh",
+ "chapter": "ch13",
+ "text": "notes/books/novels/the-art-lovers-by-fiona-mcintosh/text/ch13_chapter_13.txt",
+ "facts": [
+  {
+   "fact": "儿子 Danjel 10 岁说想当 curator——那是从她讲「lost dreams」听来的；Lawrenz 只说进酒吧干活该知足",
+   "anchor": "talk about my lost dreams",
+   "start": 838,
+   "end": 863
+  },
+  {
+   "fact": "她自己是被打的妻子，守着和婆婆当年一样的丑秘密——历史在重演；她心里喊「不再做温顺的妻子」",
+   "anchor": "refused to be cowed, refused to be owned",
+   "start": 2159,
+   "end": 2199
+  },
+  {
+   "fact": "她以「表亲」为名向英国老医生求助：多疑妄想、指控偷钱不忠、说儿子非亲生——医生判断是 paranoia；有暴力，酒越喝越多",
+   "anchor": "displaying paranoia",
+   "start": 3984,
+   "end": 4003
+  },
+  {
+   "fact": "医生：可能是躁郁或精神分裂，也可能是童年目睹家暴所致；必须先戒酒，关键是让她和孩子安全、不能活在恐惧里",
+   "anchor": "make yourself and your son safe",
+   "start": 7112,
+   "end": 7143
+  },
+  {
+   "fact": "老太太耳语：离开他、找盟友、至少报警——「这是马耳他」，天主教、幼子、无处可逃",
+   "anchor": "get away from him, my dear",
+   "start": 7477,
+   "end": 7503
+  },
+  {
+   "fact": "她对儿子摊牌：你父亲没为你做过任何事；儿子问「我错了吗」，她答「你没错，是你爸爸病了——在这里（太阳穴）」",
+   "anchor": "Your papa is sick, I think",
+   "start": 9015,
+   "end": 9041
+  },
+  {
+   "fact": "温顺≠软弱是智慧——先不挨打；母子立约：等他强大就一起走，儿子说「要么都走要么都不走，我不会留你给他」",
+   "anchor": "it’s both of us, or neither of us",
+   "start": 14638,
+   "end": 14671
+  },
+  {
+   "fact": "她如今在大教堂做清洁；儿子最爱听她边干活边讲艺术品——他是她黑暗生活里的光",
+   "anchor": "listening to you tell me about the artworks",
+   "start": 15759,
+   "end": 15802
+  }
+ ]
+}
