@@ -124,7 +124,7 @@ modified: "2026-11-04"
 | possessive | 占有欲强的 | “Sean, you embarrassed me.” I glare at him, surprised he’s being so possessive. |
 | radiating | （情绪）散发；辐射 | “So, what? You regret kissing me now?” he asks, pain radiating in his eyes. |
 | solidified | 使凝固；敲定 | The idea had been floating around in my mind, but I solidified it then and there. |
-| decipher | 破译；解读（眼神/心思） | “We should probably talk about what this means,” he mumbles, narrowing his eyes as he tries to decipher my thoughts. |
+| straight-faced | 一脸正经的；不动声色的 | He’s completely straight-faced. He likes Sean, but he doesn’t want to admit it. |
 
 ### ⭐⭐ 进阶
 
