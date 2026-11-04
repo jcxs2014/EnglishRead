@@ -1,0 +1,50 @@
+[
+  {
+    "fact": "Zach 坐在 Kieran 离开时他待的地方，后背贴着冰冷的玻璃，心还在狂跳。",
+    "anchor": "Kieran left him with his back against the cold glass",
+    "start": 80,
+    "end": 132
+  },
+  {
+    "fact": "Zach 的手机震动，他慌乱地去摸，但发消息的人不是 Kieran，而是 Mara。",
+    "anchor": "but it’s not Kieran.",
+    "start": 286,
+    "end": 306
+  },
+  {
+    "fact": "Zach 给 Mara 打 FaceTime，向她复述过去 ten 小时发生的事。",
+    "anchor": "Zach recounts the events of the last ten hours",
+    "start": 1681,
+    "end": 1727
+  },
+  {
+    "fact": "Zach 读 Seth 发来的长消息：Seth 说自己已戒酒（sober），为过去的行为道歉，并请他回短信。",
+    "anchor": "I’m sober now and I’m just trying to make things right.",
+    "start": 3181,
+    "end": 3236
+  },
+  {
+    "fact": "手机弹出 ten-percent 电量警告后，Zach 起身去 C53 登机口背包里找充电器，并给 Kieran 发短信说自己不是要甩下他。",
+    "anchor": "i’m not skipping out on you",
+    "start": 4712,
+    "end": 4739
+  },
+  {
+    "fact": "Zach 回到登机口时，Lucas 一个人还在那里，问他 Kieran 去哪了。",
+    "anchor": "Lucas is still there, alone",
+    "start": 5543,
+    "end": 5570
+  },
+  {
+    "fact": "Lucas 告诉 Zach：他表哥这个夏天从美国来，和 Kieran 迅速好上，Kieran 承诺许多后却再没给表哥发过一句话，而表哥长得和 Zach 很像。",
+    "anchor": "To this day, has not said a word to my cousin.",
+    "start": 7187,
+    "end": 7233
+  },
+  {
+    "fact": "Lucas 还说 Kieran 高中时对 Rena 的朋友 Oscar 做过一模一样的事，Zach 听完抓起行李箱走开。",
+    "anchor": "Kieran did the exact same thing to Rena’s friend Oscar",
+    "start": 7762,
+    "end": 7816
+  }
+]
