@@ -1,0 +1,61 @@
+{
+ "book": "ask-me-to-stay-by-mackenzie-osborn",
+ "chapter": "ch02",
+ "text": "notes/books/novels/ask-me-to-stay-by-mackenzie-osborn/text/ch02_2.txt",
+ "facts": [
+  {
+   "fact": "过去线开章：Maggie 在大学电话里告诉 Billie 她的「匿名青蛙肖像」进了春季作品展决赛。",
+   "anchor": "I just wanted to tell you that I became a finalist in the spring showcase!",
+   "start": 346,
+   "end": 420
+  },
+  {
+   "fact": "Billie 对 Maggie 说「离 Eloise 多远都不够远」——逃跑冲动与母亲威胁本章立起。",
+   "anchor": "Nowhere is far enough away from Eloise.",
+   "start": 1558,
+   "end": 1597
+  },
+  {
+   "fact": "Sean 顺口说出自己已参军，Billie 十分意外（他之前完全没提）。",
+   "anchor": "Did I tell you I enlisted in the army?",
+   "start": 6277,
+   "end": 6315
+  },
+  {
+   "fact": "Sean 八月底就要去 Texas（军营），毕业前的时间所剩无几。",
+   "anchor": "I’ll be leaving for Texas at the end of August.",
+   "start": 6730,
+   "end": 6777
+  },
+  {
+   "fact": "听到参军消息，Billie 的失望被写成「裹了铁丝网的棒球棍打在胃上」。",
+   "anchor": "Him being anywhere but here feels like a blow to the stomach. From a baseball bat. Wrapped in barbed wire.",
+   "start": 6485,
+   "end": 6591
+  },
+  {
+   "fact": "Sean 说只要她愿意，整个夏天都想和她在一起——超过朋友分量的暗示。",
+   "anchor": "“I’d spend my entire summer with you if you’d let me, Billie.”",
+   "start": 7320,
+   "end": 7382
+  },
+  {
+   "fact": "Billie 的立场：满十八岁有存款就走；如果和 Sean 卷入感情会毁掉她的逃跑计划。",
+   "anchor": "Once I’m eighteen and have some money in my savings, I’m out of here and I’m not looking back. If we were involved, it would ruin it.",
+   "start": 9836,
+   "end": 9969
+  },
+  {
+   "fact": "「收养」练习题带出关键身世：Billie 的是继母（Eloise），从未正式领养她。",
+   "anchor": "I have a stepmom. Technically she never officially adopted me, but I already have a blended family.",
+   "start": 13350,
+   "end": 13449
+  },
+  {
+   "fact": "章末 Sean 承诺：到夏末，Billie 看世界的镜片会不一样。",
+   "anchor": "“That’s exactly why you’re learning my ways. By the end of the summer, you’ll look at life through a different lens. I promise.”",
+   "start": 14426,
+   "end": 14554
+  }
+ ]
+}
