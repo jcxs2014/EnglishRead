@@ -1,0 +1,37 @@
+{
+ "book": "blood-and-birthright-by-amelia-spencer",
+ "chapter": "ch00",
+ "text": "notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch00_prologue.txt",
+ "facts": [
+  {
+   "fact": "书脊上的字迹着火了——场景是书库失火。",
+   "anchor": "The lettering on the spines of the books caught fire.",
+   "start": 24,
+   "end": 77
+  },
+  {
+   "fact": "浓烟从书架间涌起。",
+   "anchor": "Smoke billowed up from the stacks",
+   "start": 80,
+   "end": 113
+  },
+  {
+   "fact": "Emerson 情绪失控，火随她的情绪而起。",
+   "anchor": "Emerson lost control of her emotions",
+   "start": 117,
+   "end": 153
+  },
+  {
+   "fact": "她尖叫着宣告「我是馆长！」。",
+   "anchor": "“I am Head Librarian!” she screamed.",
+   "start": 157,
+   "end": 193
+  },
+  {
+   "fact": "西翼整座陷入火海。",
+   "anchor": "The West Wing went up in flames.",
+   "start": 196,
+   "end": 228
+  }
+ ]
+}
