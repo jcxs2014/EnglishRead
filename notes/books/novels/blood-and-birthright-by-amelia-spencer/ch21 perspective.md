@@ -65,14 +65,14 @@ modified: "2026-11-05"
 > **原句 8:** "A year ago, I thought this was a zero-sum game where, if he wins, then I must necessarily lose. … I won’t be the one to make you suffer for it.”
 
 **中文理解**：他的转变陈述：一年前我以为这是零和游戏——他赢即我输；但我现在知道自己是个没人算到的变量，在这个宇宙里你放不下我。我为此感激，但我不会让你为此受苦。
-**关键词**：a zero-sum game、a variable no one accounted for、make you suffer
+**关键词**：a zero-sum game、make you suffer
 **为什么这样写**：作者把博弈论写成情书——「variable no one accounted for」回收他自己的自贬（ch08），但语法变了：从「多余的变量」变成「没被算到的胜者」；「won't make you suffer」是他的让步承诺。
 **读者视角提示**：对照 ch05 的「I have her dreams」、ch19 的「Noted.」——Silas 的三次表态构成完整曲线：谈判→签约→修约；本章他主动提出双赢条款。
 
 > **原句 9:** "“You do.”"
 
 **中文理解**：影子实验的高潮：她问你的影子听命于谁——「你」。谁掌控它们——「你」。她摇头纠正：不，是你。我召出了它们，但这份你感觉到的力量？是你的。
-**关键词**：You do、this power is yours
+**关键词**：You do
 **为什么这样写**：作者让权力移交以三个词完成——Reaper 的阴影从「Head Librarian 的兵器」改隶「他自己的力量」；这是全系列对 Silas 身份的最终改判：不是工具，是持有人。
 **读者视角提示**：对照 ch08 的「I'm a tool」、ch14 的「She called me it」——三级否定后，本章她给他的是所有权；「Found you」那句触到的是黑暗，找到的却是人。
 
