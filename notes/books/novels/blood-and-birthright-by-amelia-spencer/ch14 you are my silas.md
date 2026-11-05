@@ -38,7 +38,7 @@ modified: "2026-11-05"
 
 **中文理解**：咖啡桌边，他捧着杯子许久、手指微抖，几口深呼吸后终于开口：她叫我『it』。
 **关键词**：broke his silence、called me ‘it’
-**为什么这样写**：全书埋了四章的雷（ch10 神秘女的「It.」）在这里引爆——而引爆方式只有一个单词。作者让「物化」以代词的形态呈现：一个没有名字的称呼，比任何指控都彻底。
+**为什么这样写**：全书埋了六章的雷（ch08 开篇的「It.」——Iris 字条里对 Reaper 的称呼）在这里引爆——而引爆方式只有一个单词。作者让「物化」以代词的形态呈现：一个没有名字的称呼，比任何指控都彻底。
 **读者视角提示**：他说的是 Iris——养母、女神、他效忠至今的对象；这句话同时给 ch05 字条的「its potential」换上人味：那个 it 就是幼年的他。
 
 > **原句 5:** "You and I both know how carefully Iris chose her words. She was even more meticulous when she wrote them down. She meant it.”
