@@ -37,7 +37,7 @@ modified: "2026-11-05"
 > **原句 4:** "“She has protected Adrien fiercely since he was born, and after her husband vanished, he was all she had left.”"
 
 **中文理解**：Emerson 试图解释「她抛弃了他」，被 Daiyu 当场校正：我认识 Atalanthya 很多年——对她儿子，逐出教门是穷尽一切办法之后的最后手段。他出生起她就护得凶；丈夫失踪后，Adrien 是她仅剩的一切。
-**关键词**：excommunication is a remedy…after all other options were exhausted、all she had left
+**关键词**：all she had left
 **为什么这样写**：敌方档案的第二份证词——作者让认识 Atalanthya 数十年的人说出 Emerson 没看过的那一面：逐出不是抛弃，是母亲能想到的最后保护；这直接动摇了本书「母子决裂」的表层叙事。
 **读者视角提示**：对照 ch02 Atalanthya 的铁腕形象、ch24 的「loose ends」——「最后手段」说与「灭口」行并存：她既是护崽的母亲也是冷血的馆长；这个矛盾正是她人物的核心。
 
