@@ -21,15 +21,15 @@ modified: "2026-11-05"
 **读者视角提示**：这是「血可窃」的第一次亲身教学：几滴血 + 一个念力，就能让人自残。接 ch16 红手的链上犬——他现在懂了那条锁链从内侧看是什么样子。
 
 > **原句 2:** "A group of laughing nobles watched him from the top of the stairs. One of them held a thin blade as long as her finger. She raised it to her lips and licked away the blood still clinging to it."
+> "“Watch yourself, outsider!” one of the men laughed."
 > "“That was far too easy,” the girl agreed, her lips red."
-**中文理解**：楼梯顶上一群笑闹的贵族居高临下看着他。其中一个举着指长的细刃，把还沾着血的刀锋举到唇边舔净。「那也太容易了，」红唇的姑娘附和。
+**中文理解**：楼梯顶上一群笑闹的贵族居高临下看着他。其中一个举着指长的细刃，把还沾着血的刀锋举到唇边舔净。「小心点，外人！」有人笑着喊——「那也太容易了，」红唇的姑娘附和。
 **关键词**：thin blade / licked away / far too easy
-**为什么这样写**：凶手的自评只有四个字——「太容易了」：盗血在血林是儿童游戏级的技能。舔刀这个动作把猎获仪式化：他的血此刻正在别人的舌尖上，尊严的汇率跌至谷底。
+**为什么这样写**：凶手的自评只有四个字——「太容易了」：盗血在血林是儿童游戏级的技能。舔刀这个动作把猎获仪式化：他的血此刻正在别人的舌尖上，尊严的汇率跌至谷底。「outsider」一喊，连羞辱都带着户籍章。
 **读者视角提示**：接 ch16 后文的科普（法师喝血则人服从）：这群少年的玩具是威尔本人。记住「易」这个字——连贵族小孩都能操纵他，红手若要动手会是什么级数？恐惧在这里完成换算。
 
-> **原句 3:** "He passed through rooms where naked bodies met in a different dance, moving to the rhythm of their own music. He found places where pleasure and pain became one."
-> "He walked along passageways where the darkness lived. He touched walls that had a heartbeat."
-**中文理解**：他穿过一间间屋子：裸体以另一种舞步相接，循着自己的音乐节拍。他找到快感与痛楚合而为一的角落。……他走过黑暗栖居的回廊，摸过有心跳的墙。
+> **原句 3:** "He passed through rooms where naked bodies met in a different dance, moving to the rhythm of their own music. He found places where pleasure and pain became one. Through a narrow door, he entered a room where a man hung in chains while people licked his wounds and sucked blood from his hard cock. Flickering lights, black walls. He stumbled into chambers where women sang, and statues spoke. He staggered through stairwells where guests sank into drugged stupors. He walked along passageways where the darkness lived. He touched walls that had a heartbeat."
+**中文理解**：他穿过一间间屋子：裸体以另一种舞步相接，循着自己的音乐节拍；他找到快感与痛楚合而为一的角落——窄门后有男人吊在锁链上，人们舔着他的伤口、从他身上吸血；灯光摇曳、黑墙林立；他撞进女人歌唱、雕像说话的厅室，踉跄着穿过宾客陷入药迷的楼梯间——他走过黑暗栖居的回廊，摸过有心跳的墙。
 **关键词**：different dance / pleasure and pain / heartbeat
 **为什么这样写**：宅邸的另一张脸用排比铺陈：舞、室、廊各有自己的伦理体系——「有心跳的墙」一句把建筑写成生物。全段没有一个脏字，却比直白描写更炫目：欲望在血林是基础设施。
 **读者视角提示**：这间宅子的「建筑即器官」设定与威尔的职业共振：他见过的最黑的室内设计。记住「墙有心跳」——这宅子的躯体化伏笔，后文会有东西从墙里出来。
@@ -53,8 +53,8 @@ modified: "2026-11-05"
 **读者视角提示**：阿科斯用一场示范回答了 ch14 的所有问题：他的从容来自绝对的掌控。请记住「不眨眼」——这是本书衡量铁石的度量衡单位。
 
 > **原句 7:** "“She's mad. She murdered her father.”"
-> "“We should emphasize that those are only rumors, of course. But they say she poisoned his blood until he lost his mind and became a vampire. An exceptionally embarrassing affair for a family of such high standing.”"
-**中文理解**：「她疯了。她杀了她父亲。」「当然，得强调这些只是传闻——但他们说，她往父亲的血里下毒，直到他失了心智、变成吸血鬼。对这样的名门望族，实在是难堪到家的事。」
+> "His friend behind Will laughed. “We should emphasize that those are only rumors, of course. But they say she poisoned his blood until he lost his mind and became a vampire. An exceptionally embarrassing affair for a family of such high standing.”"
+**中文理解**：「她疯了。她杀了她父亲。」威尔身后的朋友笑着说：「当然，得强调这些只是传闻——但他们说，她往父亲的血里下毒，直到他失了心智、变成吸血鬼。对这样的名门望族，实在是难堪到家的事。」
 **关键词**：mad / murdered her father / poisoned his blood
 **为什么这样写**：传闻的传播链自带免责声明（只是传闻）——诽谤与情报共用同一个信封。「毒血成吸血鬼」的版本若真，则 ch09 阿科斯那句「令尊堕入血欲」就是官方洗稿：两种叙事在打架。
 **读者视角提示**：弑父传闻是全书最大悬案的第一份民间卷宗：父亲到底怎么死的、她有没有动手——先按「传闻」存档。注意少年们对豪宅的童年恶作剧记忆：这座城的阶层记忆靠门铃与管家维持。

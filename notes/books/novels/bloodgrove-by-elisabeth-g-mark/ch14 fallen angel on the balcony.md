@@ -26,8 +26,8 @@ modified: "2026-11-05"
 **读者视角提示**：记住「 reasonably fresh blood」——灌进去的是真血、皮是真皮。这场戏的残忍度直接校准血林社交的道德水位：威尔以为是羞辱，他们觉得是才艺。
 
 > **原句 3:** "Unmoved, Mr. Arcos held the coat between them. “Then take off your shirt first.”"
-> "All the while, Mr. Arcos watched with detached attention, following every movement from Will's collarbone down his breastbone, across the flat plane of his stomach and his navel, until his gaze reached the waistband of his trousers. Only then did a muscle tighten in Arcos's jaw."
-**中文理解**：阿科斯无动于衷，把外套横在两人之间：「那就先脱了你的衬衫。」他始终以疏离的专注看着——目光从锁骨下移到胸骨，掠过平坦的小腹与肚脐，一路探到裤腰——直到那时，他下颌的一块肌肉才绷紧了。
+> "Had Will not already considered doing exactly that, he probably would have refused. Everything about the offer suggested another trap, yet he also wondered whether anything could still shock him tonight. So his fingers found the first button and struggled to work it through the blood-stiffened hole, then moved to the next. All the while, Mr. Arcos watched with detached attention, following every movement from Will's collarbone down his breastbone, across the flat plane of his stomach and his navel, until his gaze reached the waistband of his trousers. Only then did a muscle tighten in Arcos's jaw."
+**中文理解**：阿科斯无动于衷，把外套横在两人之间：「那就先脱了你的衬衫。」威尔本就想过要这么做——他扣开第一颗被血浸硬的纽扣，再解下一颗；而阿科斯全程以疏离的专注看着，目光从锁骨下移到胸骨，掠过平坦的小腹与肚脐，一路探到裤腰——直到那时，他下颌的一块肌肉才绷紧了。
 **关键词**：take off your shirt / following every movement / jaw
 **为什么这样写**：脱衣戏的主动权设计极妙：命令由他发（脱），节奏由威尔走（扣），镜头却是双向的——「疏离的专注」四个字就是偷看者的自我辩护。下颌绷紧是全文唯一的失守点：欲望在身体上先于言语坦白。
 **读者视角提示**：这是两人线升温的实锤：阿科斯的凝视轨迹被逐寸描写。记住「下颌绷紧」这半秒——他控场的完美面具从裂缝处开始漏光。
@@ -61,9 +61,14 @@ modified: "2026-11-05"
 **读者视角提示**：「你也是我们的一员」是本类型最温柔的诅咒。威尔的囚徒自评没人反驳——唯一给的安慰是「人人如此」。记住这句话，它会在威尔接纳自己的魔法时以正面形式回来。
 
 > **原句 8:** "“Because I am not ready for the answer.” With that, he pushed open the door and was gone."
-> "When he returned to the party and told Elodie he wished to leave, she did not object. But her gaze lingered on the coat, and something in it darkened. Something between them broke for good."
-**中文理解**：「因为我还没准备好听那个答案。」说完他推门而去。威尔回厅里向埃洛迪告辞时她没有阻拦——可她的目光在那件外套上停留片刻，暗了下去。有些东西在他们之间彻底断了。
-**关键词**：not ready / lingered on the coat / broke for good
+**中文理解**：「因为我还没准备好听那个答案。」说完他推门而去。
+**关键词**：not ready / the answer
+**为什么这样写**：全章最坦白的一句藏在离场的脚步里：他不是不想懂威尔，是不敢听懂——答案会逼他在仇恨与心动之间站队。用「没准备好」代替「不感兴趣」，骄傲与脆弱共用一扇门。
+**读者视角提示**：这句留白是阿科斯线的定音锤：答案悬着，比任何拒绝都缠人。请记住他没有说「不」——他只是还没排练好怎么说。
+
+> **原句 9:** "When he returned to the party and told Elodie he wished to leave, she did not object. But her gaze lingered on the coat, and something in it darkened. Something between them broke for good."
+**中文理解**：威尔回厅里向埃洛迪告辞时她没有阻拦——可她的目光在那件外套上停留片刻，暗了下去。有些东西在他们之间彻底断了。
+**关键词**：lingered on the coat / darkened / broke for good
 **为什么这样写**：两个离场写一场三角清算：他借走答案（不问），她看懂外套（不问）——三人都读完了牌面，谁也不掀。「broke for good」用完成时宣判：这件衣服的物证效力盖过千言。
 **读者视角提示**：一件外套的三角关系账本：她送的信任（血衣）被收走，他借的暖（他的外套）被穿走。ch12 划的界线、ch13 断的信任，在这道目光里完成结算——本周末段以「物」清账的笔法请留意。
 
