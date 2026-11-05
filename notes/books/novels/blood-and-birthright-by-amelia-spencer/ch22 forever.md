@@ -6,7 +6,7 @@ modified: "2026-11-05"
 # 22. Chapter 22
 
 ## 本章导航
-- **一句话概括**：阳台冷战炸成 Adrien 的数周谎言自白（睡地板是骗她的）与「I need to know that you're mine. As equally as you are his.」；她一句「I am yours」换来「not just for a night. Forever.」；半夜 Silas 悄悄归床，只把她探来的手按在自己心口。
+- **一句话概括**：阳台冷战炸成 Adrien 的数周谎言自白（睡地板是骗她的）与「I need to know that you're mine. As equally as you are his.」；她一句「I am yours」换来「not just for a night」与终章单词「Forever」；半夜 Silas 悄悄归床，只把她探来的手按在自己心口。
 - **情感弧线位置**：三人行的第二夜——Adrien 从「体面退让」走到「对等要价」，她的「I am yours」补上铁三角的最后一条边。
 - **Tropes 兑现/反转**：「冷战误解」trope 三段式（试探→爆发→告白）；「情场谈判」以她的三词合同成交；结尾反转——缺席者用一次心跳签名。
 - **人物弧线**：Adrien 交出「years of wanting」的账本；Emerson 第一次说出无保留的归属句；Silas 以旁观+心跳完成第二夜的入伙。
@@ -119,4 +119,4 @@ modified: "2026-11-05"
 | Obediently | 顺从地 | Obediently, she replied, “I’m yours.” |
 
 ## 一句话总结
-阳台冷战炸出 Adrien 的数周谎言自白（「睡地板没问题」全是假的、想要你好几年了）与「对等要价」；她的「I am yours」两遍确认换来「not just for a night. Forever.」——而半夜悄悄归床的 Silas 只把她探来的手按在心口，一句「你这样子，真美」给这个三人的夜晚签了名。
+阳台冷战炸出 Adrien 的数周谎言自白（「睡地板没问题」全是假的、想要你好几年了）与「对等要价」；她的「I am yours」两遍确认换来「not just for a night」与单词「Forever」——而半夜悄悄归床的 Silas 只把她探来的手按在心口，一句「你这样子，真美」给这个三人的夜晚签了名。
