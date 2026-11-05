@@ -23,7 +23,7 @@ modified: "2026-11-05"
 > **原句 2:** "“Betraying your father is the worst thing I’ve ever done"
 
 **中文理解**：道歉终于落地。他说：背叛你父亲，是我这辈子做过最坏的事——我真的很抱歉。她把下唇咬在齿间想了想，只回：我知道。
-**关键词**：Betraying your father、truly sorry
+**关键词**：Betraying your father
 **为什么这样写**：作者把「抱歉」的分量交给沉默——她没有说「我原谅你」，只确认「我知道你是真的」；这比宽恕更成熟：不需要他好受，只需要他知道她看见了。
 **读者视角提示**：对照 ch16「父亲级长辈的笑」——这场和解的账本里没有「父亲」这一页，只有「Miles Blackwell」这个被辜负的人；「我知道」三个字是全章最重的短句。
 
@@ -44,7 +44,7 @@ modified: "2026-11-05"
 > **原句 5:** "Emerson’s fingertips trailed down gold calligraphy on the spines of two books."
 
 **中文理解**：Silas 公寓的异常：满墙 Foundation 的绯红书脊里，藏着两本金字——Livaathukin 与 The Central Library。她咬着嘴唇憋住上扬的嘴角：他对中央图书馆的 Catalogue，长出了自己的 soft spot。
-**关键词**：gold calligraphy、soft spot
+**关键词**：gold calligraphy
 **为什么这样写**：作者用书脊颜色完成「人已翻面」的无声证明——曾经的 Reaper 把敌人的圣书与自己的旧狱并排上架；这份收藏没有观众，只有路过者的指尖，所以才是真话。
 **读者视角提示**：对照 ch08 他「在 Catalogue 里如履薄冰」的恐惧——从 PTSD 到收藏，Silas 的治愈弧以书架为坐标；「若搞到 Enclave 一定并排」的推想，给这条线留了一个温暖的 future。
 
