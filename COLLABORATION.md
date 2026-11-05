@@ -74,26 +74,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-11-04 21:32 UTC] [ZCode-Mac] → All
 
-**《Ask Me To Stay》(Mackenzie Osborn) 言情长篇 25 章+总览三篇+T1 完工**（2026-11-04，主会话零子代理）（ask-me-to-stay-by-mackenzie-osborn）
+**《Ask Me To Stay》(Mackenzie Osborn) 言情 25 章+总览三篇+完工与 T3 深审**（ask-me-to-stay-by-mackenzie-osborn）
 
-- 语料：epub→text/ 25 件零偏移（toc 三方对齐）；verify PASS；U+2060/BOM 全无；提取伪影修复 5 处（wrap-ping/ent-ertained/exp-erienced/rem-ember/every-thing）
-- 门禁：全书 gate EXIT=0；chapter.sh 25/25 rc=0；块序 0 缺陷（2 章不可判定=省略号全串展平，已核序）；corruption 0
-- 总览：概述 6 段+主题 3+弧光 4；金句 25（圈码①–㉕）；节点 11；overview 引语 78/78 可核实
-- T1 自检：抽 7/25（首末必含）+密度 1.57≥0.5 加抽一倍至 14/25+scan 六类 500 行（①③⑥ 全量、④⑤ 各 20）
-- 整改 12：相对章号错位 8（ch04/05/06/09/10/16，断言类最高频再证）+自造精度 3（Sean 29 岁无据/「十年零四个月」×2）+措辞 1；复扫 ① 仅剩 1 行且正确
-- 相对章号教训再证：分析层「上/下一章」以本会话章序为坐标必错——跨时间线插叙书一律回 ls text/ 核
-- suread 25 章锚点全中；事实回源 28/28（含阴性对照）；T2 等效执行（成因类单类跨多章）
-- 29 commits 未 push；台账/日志已记；T1 为同会话自检，未 push 等指令
-
-**ask-me-to-stay-by-mackenzie-osborn · T3 全量深审完工（2026-11-04，边审边改）**
-
-- 覆盖：25/25 章 R1→R4 一章未省（R1 子代理每批 ≤3 串行，199 条事实锚点全命中；R2–R5 判断全留主会话）；机器层 gate EXIT=0 · verbatim 260/260 · overview 82/82 · fragments 310 片段 MISS 0
-- 阻断 5 全整改：**ch24 漏尾 L378–509（约 1/4 章）——第二次求婚/Okay/forever/Yes 整段缺位**（写作期 head 截断读章再犯）删 5 块补 6 块重构；ch05 拒绝理由链整段缺+块 7 语境错位（We could've been great）插 2 块修 1 块；ch03 补父亲戒酒两年块；ch22 补夺门而出尾拍+gate 抓关键词残留扩引道歉块
-- S5 层：概述/情感节点「求婚悬置」叙事随 ch24 修复同步为两场求婚落地；章节标注 3 处修正
-- 提示 11（取舍级：背景事实未入块，逐章 4-verdict 留档）· 假红 0 · 跳过 0
-- 产物：25 章四件套（review/chNN/）+ 2026-11-04-复核与修复指令.md + 台账（档=深，审查方=异会话）
-- R1 插曲：素读揪出 text/ch06 残留断词 com-mitment（z-lib 断行第 6 处）已修
-- 教训：head 截断读章漏尾 ×2 章实证（ch05/24），「R1 只读 text 先于 md」再次证明为系统性兜底；未 push
+- 语料：epub→text/ 25 件零偏移（toc 三方对齐）；verify PASS；提取断词伪影 6 处全修（wrap-ping/ent-ertained/exp-erienced/rem-ember/every-thing/com-mitment）
+- 门禁终态：gate EXIT=0 · chapter.sh 25/25 rc=0 · verbatim 260/260 · overview 引文 82/82 · fragments 310 片段 MISS 0 · 块序 0 缺陷 · corruption 0
+- 总览：概述 6 段+主题 3+弧光 4 · 金句 25（①–㉕）· 节点 11
+- T1 自检：抽 7/25（首末必含）+密度 1.57≥0.5 加抽至 14/25+scan 六类 500 行；整改 12（相对章号 8／自造精度 3／措辞 1）
+- T3 全量深审：25/25 章 R1→R4 一章未省（R1 子代理每批 ≤3 串行、199 条事实锚点全中；判定全留主会话）
+- 阻断 5 全整改：ch24 漏尾 L378–509（约 1/4 章：第二次求婚/Okay/forever/Yes 整段缺）删 5 补 6 重构；ch05 拒绝理由链缺+块 7 语境错位（We could've been great）插 2 修 1；ch03 补父亲戒酒两年块；ch22 补夺门而出尾拍+关键词残留扩引道歉段
+- S5 层：概述/节点「求婚悬置」随 ch24 同步为两场求婚落地；章节标注 3 处修正 · 提示 11（取舍级留档）· 假红 0 · 跳过 0
+- 产物：25 章四件套（review/chNN/）+ 2026-11-04-复核与修复指令.md + 台账（T1=自检／T3=深·异会话）
+- 教训：head 截断读章漏尾 ×2 章（ch05/24）再证——R1 只读 text 先于 md 是唯一系统性兜底；相对章号 8 处（跨时间线书必 ls text/ 核）
+- 41 commits；未 push（等指令）
 
 ### [2026-11-04 19:30 UTC] [ZCode-Mac] → All
 
