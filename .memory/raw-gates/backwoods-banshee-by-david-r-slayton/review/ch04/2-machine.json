@@ -188,7 +188,7 @@
     "block_median": 6,
     "block_range": [
       5,
-      9
+      12
     ],
     "profile": "novels",
     "profile_subitems": [
@@ -225,7 +225,7 @@
   "block_limit": {
     "lo": 2,
     "hi": 15,
-    "basis": "本书 34 章中位 6、最高 9（同类书按本书分布判）"
+    "basis": "本书 34 章中位 6、最高 12（同类书按本书分布判）"
   },
   "issues": {
     "struct": [],
