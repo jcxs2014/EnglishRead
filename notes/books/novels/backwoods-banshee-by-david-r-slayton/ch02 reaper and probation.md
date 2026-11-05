@@ -31,7 +31,7 @@ modified: "2026-11-04"
 
 **为什么这样写**：两句话完成一次权力羞辱：亚当报告的是数百昏迷加一死，接线员回应的是行政身份。probation（缓刑）这个刑罚词汇用在精灵官僚体系里，把魔法世界写成一部公务员机器——等级、停职、调令，样样按程序走。Adam hung up 是他对体制仅剩的动作：不再解释，直接挂断。
 
-**读者视角提示**：本章随后说缓刑已近六个月，亚当因近期行动被暂停 Page of Swords 一职；接线员在救援电话里先提身份，说明这层惩戒仍在限制他。
+**读者视角提示**：本章随后说缓刑已近六个月、Page 之职被停；接线员在救援电话里先提身份，说明这层惩戒仍在限制他。
 
 > **原句 3:** "While she hid her power behind a glamour, she made no concessions to mortal fashion. Her armor was forged of leaf-shaped blades, giving her the look of someone from an online role-playing game."
 

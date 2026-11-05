@@ -1,0 +1,49 @@
+{
+ "book": "backwoods-banshee-by-david-r-slayton",
+ "chapter": "ch03",
+ "text": "notes/books/novels/backwoods-banshee-by-david-r-slayton/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "上班时亚当收到哥哥发来的短信，说医院里有东西要给他看。",
+   "anchor": "He checked the screen and saw that it was from his brother.",
+   "start": 2958,
+   "end": 3017
+  },
+  {
+   "fact": "「Wonder Bread」这个外号是亚当的老板杰西（Jesse）给起的，而杰西正好也是 Vic 的兄弟。",
+   "anchor": "given to Adam by his boss, Jesse, who also happened to be Vic’s brother",
+   "start": 663,
+   "end": 734
+  },
+  {
+   "fact": "波比（Bobby）是亚当的哥哥，在一家归精灵所有的医院工作——那只是亚当对那地方心情复杂的原因之一。",
+   "anchor": "The hospital where Adam’s brother worked was owned by the elves, which was only one reason why he had mixed feelings",
+   "start": 4587,
+   "end": 4703
+  },
+  {
+   "fact": "波比带他们看了其他病房，亚当并不意外地看到科尔也在这些病人之中。",
+   "anchor": "Adam wasn’t surprised to see Cole among the patients.",
+   "start": 7337,
+   "end": 7390
+  },
+  {
+   "fact": "波比的妻子安妮（Annie）曾去世，如今复活归来并怀有身孕——那是他们最大的希望。",
+   "anchor": "since his wife had died, with Annie returning to life and a baby—their biggest hope—on the way",
+   "start": 5838,
+   "end": 5932
+  },
+  {
+   "fact": "波比把床上的年轻人登记为特里斯坦·雷耶斯（Tristan Reyez），并说还有五个（five more）和他一模一样的病人。",
+   "anchor": "“I have him down as Tristan Reyez,” Bobby said. “We have five more just like him.",
+   "start": 6362,
+   "end": 6443
+  },
+  {
+   "fact": "杜特已学会用智能手机——对精灵而言是巨大的飞跃；因守护者那边有能破解任何系统的技术感应者图书管理员杰克（Jack），他与亚当的短信仍用暗号交流。",
+   "anchor": "Dautre had figured out smartphones, a monumental leap for an elf.",
+   "start": 11555,
+   "end": 11620
+  }
+ ]
+}
