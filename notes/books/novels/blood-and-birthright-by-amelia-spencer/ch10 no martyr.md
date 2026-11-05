@@ -39,7 +39,7 @@ modified: "2026-11-05"
 **中文理解**：最重的指控落地：面对我身上长出的黑暗，你没有帮我对抗，反而加以利用——Iris 上台时，被你召来复活 Archivists 的，正是我。
 **关键词**：took advantage of it、resurrect the Archivists
 **为什么这样写**：ch05 字条「the Archivists’ revival began in these pages」的谜底在此对上：Archivists 的复兴是 Aeloria 亲手做的，而雇主是 Atalanthya。作者让 Atalanthya 以沉默回应——她的不辩解就是承认。
-**读者视角提示**：把这条与 Iris 的死并读：被复活的 Archivists 体系后来追捕过 Iris——工具反噬主人，Moons 家族代代都在重复这个故事。
+**读者视角提示**：把这条与 Iris 的死并读：复活 Archivists 的决定出自 Atalanthya，而 Iris 失踪后追捕她的是中央图书馆（ch05 原文 the Central Library’s hunt for her）——工具反噬主人，Moons 家族代代都在重复这个故事。
 
 > **原句 5:** "“My loyalty is to you, sister. As far as I’m concerned…the Catalogue, its Libraries, and its legacy can burn.”"
 
