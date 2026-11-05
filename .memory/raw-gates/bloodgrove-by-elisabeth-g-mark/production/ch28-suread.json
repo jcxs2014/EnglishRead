@@ -1,0 +1,61 @@
+{
+ "book": "bloodgrove-by-elisabeth-g-mark",
+ "chapter": "ch28",
+ "text": "notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch28_chapter_28.txt",
+ "facts": [
+  {
+   "fact": "脚步声破门：她咬唇出血、弹指开锁；起身即被地毯绊倒——管家撞见的是她抱着膝盖骂得像老水手",
+   "anchor": "bit her lip until blood welled",
+   "start": 43,
+   "end": 73
+  },
+  {
+   "fact": "两人装作无事：「她摔倒了，不必惊慌」；她抢在管家上前前自己爬起，喝令「离开时把门开着」",
+   "anchor": "She fell",
+   "start": 1025,
+   "end": 1033
+  },
+  {
+   "fact": "爆弹：她以朋友而非雇主身份相告——已订婚，新年前夜成婚；对象是 ball 上见过的 Wilkinson 公爵",
+   "anchor": "I am engaged. I will be married on New Year",
+   "start": 3079,
+   "end": 3122
+  },
+  {
+   "fact": "婆婆即验贞的老夫人；他质问「为什么玩我、为什么现在才说」，她抬下巴「订不订婚我们的行为都不体面」",
+   "anchor": "You have already met my husband at the ball—Duke Wilkinson.",
+   "start": 3784,
+   "end": 3843
+  },
+  {
+   "fact": "「我是你们两个的玩具，我总忘记这一点」；他吼「这里的一切都与红手有关，我不懂你为何牺牲自己和身边所有人」",
+   "anchor": "I am a toy for both of you",
+   "start": 4703,
+   "end": 4729
+  },
+  {
+   "fact": "她的大宣言：困在受诅咒之地、永不老去、子孙皆为 vampire food——「生存才是这里的游戏」；边界一开他们就得面对自己多渺小，所以男人们都不要改变",
+   "anchor": "Survival—that is the game we play here.",
+   "start": 5706,
+   "end": 5745
+  },
+  {
+   "fact": "她拒绝殉道者剧本：「我为此 role 而生、在血里锻造——我身上从来没有一撮可摧毁的天真」",
+   "anchor": "There was never a crumb of innocence in me",
+   "start": 6695,
+   "end": 6737
+  },
+  {
+   "fact": "面具真相：引他过屏障、付车票的仪式要价极高——她大量放血又饮血、几近失神；面具是防她失控扑上他吸干最后一滴",
+   "anchor": "The ritual that brought you through the barrier",
+   "start": 7816,
+   "end": 7863
+  },
+  {
+   "fact": "他选留下却自嘲「被领上悬崖还不许抱怨——这很残忍」；她临走咆哮：「别再自怜，把你怕得要死的潜力用起来！你是个该死的法师」",
+   "anchor": "Start acting like one!",
+   "start": 9977,
+   "end": 9999
+  }
+ ]
+}
