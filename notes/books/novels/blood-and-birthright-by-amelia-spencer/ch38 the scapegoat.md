@@ -37,7 +37,7 @@ modified: "2026-11-05"
 > **原句 4:** "I promised myself years ago I wouldn’t burden you"
 
 **中文理解**：被问「为什么不找我帮忙」，她的答案带着十年前的血：我早发誓不把脏活加给你——我登上馆长之位那场清洗在你手上留了多少血，我不会再要一次。
-**关键词**：dirty work
+**关键词**：I wouldn’t burden you
 **为什么这样写**：作者让「保护」以最黑暗的形式完成——Atalanthya 的爱是替妹妹挡脏活，代价是她独自变得更脏；这句解释同时是本章的道德重心：她的罪有共犯结构的源头。
 **读者视角提示**：对照 ch10「protect＋use」的姐妹账本——「ascension 留在你手上的血」是那段历史的账尾；Aeloria 后来复活 Archivists 的伤疤在本章有了温度。
 
