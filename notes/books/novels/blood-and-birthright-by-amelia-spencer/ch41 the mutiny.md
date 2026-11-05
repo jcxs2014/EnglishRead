@@ -23,14 +23,14 @@ modified: "2026-11-05"
 > **原句 2:** "“Capable, yes"
 
 **中文理解**：被问「你们默认我能照顾自己吧」，Adrien 给出精确的军事答辩：能——但今晚你可能会不得不杀掉明早本该追随你的人。图书馆会记恨这个。我们替你扛这份负担。Silas 的版本更简单：你可以杀任何人。我们只是希望你别非杀不可。
-**关键词**：Capable, yes、shoulder that burden
+**关键词**：Capable, yes
 **为什么这样写**：两个男人把「保护」翻译成「替她脏手」——作者让战前的政治账算到人头级：她的每一个 kill 都会记进未来档案；「preferable that you don't have to」是本书战争伦理的浓缩句。
 **读者视角提示**：对照 ch41 她对 Xia 勒晕兵的注解（「目标是赢下对手，不是杀到对方投降」）——Foundation 的战争口号本章立宪；这份克制与 Atalanthya 的火攻石像鬼（ch24）形成代际对比。
 
 > **原句 3:** "Their eyes were clear, and they all looked back at her."
 
 **中文理解**：Main Hall 的第一记重锤：议事会十二人全部清醒端坐——没有佝偻、没有浑浊的眼。Felix 冷蓝眼里燃着胜券在握的火。她这才明白：潜入从一开始就是徒劳，有人把他们卖了。
-**关键词**：Their eyes were clear、sold them out
+**关键词**：Their eyes were clear
 **为什么这样写**：作者把「装疯十年」的揭穿写成一幅静态画——最恐怖的不是伏击，是「对方一直在等你」；ch38 的 scapegoat 判词在此兑现：Felix 早把每一步都算好了，连她的到来都是剧本的一部分。
 **读者视角提示**：对照 ch28 Guardians 晚宴的「来自 eyewittness 的震惊」——同一批「老朽」在两个场景里的状态差就是 Felix 权力的展品；「被出卖」的疑云要到本章末尾才有答案的影子。
 
@@ -84,6 +84,7 @@ modified: "2026-11-05"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-
+| breathing | 呼吸；喘息 | The two of them stared at each other, eyes wide and breathing heavily. |
+| question | 问题；质疑 | She turned to Adrien, but his attention was elsewhere.
 ## 一句话总结
 潜入被身高出卖、被内鬼卖底：Main Hall 里议事会全员清醒，Felix 演讲亮出 Calista 并劝降「Tia」——Aeloria 与 Daiyu 相继现身拆台，Atalanthya 当众反杀「我妹妹，Felix？」、拉出书外消失；铜石像鬼开路压向 Felix——「你欠我一个道歉。」
