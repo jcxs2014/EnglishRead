@@ -1,0 +1,37 @@
+{
+ "book": "blood-and-birthright-by-amelia-spencer",
+ "chapter": "ch45",
+ "text": "notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch45_epilogue.txt",
+ "facts": [
+  {
+   "fact": "尾声开篇：缅因岩石海滩、绯红与金叶铺地——「秋天一直是她最爱的季节」；灯塔仍在；她 ascendance 后数月，Library 缓慢弥合两派裂痕、书间边界消失、Librarians 无惧报复地穿行 Catalogue。",
+   "anchor": "Autumn was always her favorite season",
+   "start": 240,
+   "end": 277
+  },
+  {
+   "fact": "Magnus 的告别：得知 Éalodyne 与 Henry Devereaux 上了去 Immortal Isles 的船后，他很快随行——她无法责怪：若某天醒来发现 Silas 与 Adrien 已启程等她，她也会一样。",
+   "anchor": "he had been quick to follow.",
+   "start": 939,
+   "end": 967
+  },
+  {
+   "fact": "Felix 的下场：失踪、追捕中——但他对会员的影响力在她起出 The Catalogue 的当晚归零；「他把 Aeloria Moon 推向禁书」的真相曝光后，人人自危（每个 Librarian 都毕生在护孩子远离 Catalogue 的暗面），中央图书馆议事会也不免疫。",
+   "anchor": "the revelation that he had pushed Aeloria Moon toward the banned books.",
+   "start": 1439,
+   "end": 1510
+  },
+  {
+   "fact": "坟前对话：她指甲挖土发黑，从 Iris Blackwell 长眠处起出一件 trinket；Atalanthya 说「她必以你为傲——每天我都在你身上看见她的影子，而我是让她看不到今天的理由」；她答「她不完全走了：南翼的风里、Ezekiel 图书馆的钟声里、身边人的成长里都带着她」。",
+   "anchor": "We all carry parts of her with us",
+   "start": 2932,
+   "end": 2965
+  },
+  {
+   "fact": "终章视野：七血统的灰烬中终将有新馆长崛起——她会让位；在那之前，她将引导 Library 走向更亮堂的未来：读者不再需要隐藏发现、曾被禁的书能回 Catalogue 安家；公园门口 Silas 十指相扣、Adrien 吻额——「Let's go home.」",
+   "anchor": "she would step back when that challenger rose to claim their birthright.",
+   "start": 3586,
+   "end": 3658
+  }
+ ]
+}
