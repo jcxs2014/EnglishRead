@@ -1,0 +1,55 @@
+{
+ "book": "backwoods-banshee-by-david-r-slayton",
+ "chapter": "ch33",
+ "text": "notes/books/novels/backwoods-banshee-by-david-r-slayton/text/ch33_chapter_33.txt",
+ "facts": [
+  {
+   "fact": "Adam 和 Dautre 在雪地里找到骑士：她已死亡，双眼因震惊圆睁、胸口被剖开，血是蓝色的。",
+   "anchor": "She lay dead, her eyes wide with shock, her chest cut open. Her blood was blue. He hadn’t known that.",
+   "start": 3306,
+   "end": 3407
+  },
+  {
+   "fact": "Dautre 蹲在骑士遗体旁，满脸泪水地问“她的心脏在哪里”。",
+   "anchor": "“Where is her heart?” he asked, looking up with tears streaking his face.",
+   "start": 3728,
+   "end": 3801
+  },
+  {
+   "fact": "North 的房间衣橱敞开，里面成排的灵魂罐（soul jars）闪闪发亮，装满了当天早晨屠杀的收获——难怪有这么多女妖。",
+   "anchor": "The wardrobes were open, and inside soul jars gleamed, row after row of them, filled from the morning’s carnage.",
+   "start": 4438,
+   "end": 4550
+  },
+  {
+   "fact": "North 解释动机：仪式需要 Alfheimr 之血，他用它来释放女皇、实现自己的愿望。",
+   "anchor": "The ritual calls for the blood of Alfheimr. I need it to set the Empress free and get my wish.",
+   "start": 5425,
+   "end": 5519
+  },
+  {
+   "fact": "North 称女皇已经自由，她欠他一个恩惠（一个愿望），他只需找到她。",
+   "anchor": "I freed her. She owes me a boon, one wish. I just have to find her.",
+   "start": 6464,
+   "end": 6531
+  },
+  {
+   "fact": "North 的愿望是请女皇把 Alfheimr 与 The Between 重新合在一起——“从五到一”（From five to one）。",
+   "anchor": "I’ll ask her to bring them back together, Alfheimr and the Between.",
+   "start": 6620,
+   "end": 6687
+  },
+  {
+   "fact": "Adam 警告“数十亿人会死”；North 回应说他会让女皇把所有人混合，剩下的人都会变得像他一样。",
+   "anchor": "“Not exactly. I’ll have her mix all of you together, then whoever is left will be like me.”",
+   "start": 6819,
+   "end": 6910
+  },
+  {
+   "fact": "North 说他必须在 Adam 的朋友 Jack 追踪到他之前离开，并警告 Adam 不要追他，随后断开了通话。",
+   "anchor": "“I have to go, Adam, before your friend Jack can trace me. Don’t chase me. I’m warning you.”",
+   "start": 6924,
+   "end": 7016
+  }
+ ]
+}
