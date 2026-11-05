@@ -1,0 +1,49 @@
+{
+ "book": "backwoods-banshee-by-david-r-slayton",
+ "chapter": "ch07",
+ "text": "notes/books/novels/backwoods-banshee-by-david-r-slayton/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "Adam 收到 Jack 的短信：关于精灵宗教的资料已被全面删改抹除——不只是 Jack 的系统，而是所有地方，他只能找到角色扮演游戏的维基。",
+   "anchor": "It’s all been redacted, wiped. Not just from my systems. EVERYWHERE.",
+   "start": 427,
+   "end": 495
+  },
+  {
+   "fact": "Jack 发来的 boggin 档案显然出自一位精灵之手（很可能是 Dautre），以极详尽的笔墨描述了这种生物。",
+   "anchor": "The pages of text, obviously written by an elf, probably Dautre, described the creatures in painstaking detail.",
+   "start": 1393,
+   "end": 1504
+  },
+  {
+   "fact": "Vic 渴望有一个属于自己的地方，两人尽力攒钱，当前计划是先从一辆餐车（food truck）做起。",
+   "anchor": "Vic longed for a place of his own. They saved whatever they could. The current plan was to start with a food truck.",
+   "start": 5084,
+   "end": 5199
+  },
+  {
+   "fact": "矮妖精 Seamus 是「硬币之王」（King of Coins），统治西方 Watchtower；他虽不是 Adam 的头号支持者，却对精灵恨之入骨。",
+   "anchor": "The King of Coins ruled the Watchtower of the West, and while he wasn’t Adam’s biggest fan, his hatred of the elves ran deep.",
+   "start": 7066,
+   "end": 7191
+  },
+  {
+   "fact": "Seamus 说那个正在逼近的东西比他更古老：他听过那首歌，它是一记警告。",
+   "anchor": "It’s older than me, but I can feel it in my bones. I’ve heard the song. It’s a warning.",
+   "start": 9729,
+   "end": 9816
+  },
+  {
+   "fact": "Red Wolf 之所以不再向他的追随者现身，是因为 Adam 已在 the Between 杀死了他。",
+   "anchor": "The Red Wolf had stopped appearing to his followers because Adam had killed him in the Between.",
+   "start": 11359,
+   "end": 11454
+  },
+  {
+   "fact": "Seamus 交给 Adam 一枚镍币，币面人像已被刻成一个戴高帽的粗糙骷髅。",
+   "anchor": "It was a nickel, though the figure on it had been carved into a rough-looking skull wearing a top hat.",
+   "start": 12913,
+   "end": 13015
+  }
+ ]
+}

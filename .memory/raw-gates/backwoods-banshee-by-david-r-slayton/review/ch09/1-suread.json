@@ -1,0 +1,55 @@
+{
+ "book": "backwoods-banshee-by-david-r-slayton",
+ "chapter": "ch09",
+ "text": "notes/books/novels/backwoods-banshee-by-david-r-slayton/text/ch09_chapter_9.txt",
+ "facts": [
+  {
+   "fact": "Silver 曾要求 Adam 再次跨界前先征得许可。",
+   "anchor": "Silver had asked that he request permission before crossing the boundary again.",
+   "start": 432,
+   "end": 511
+  },
+  {
+   "fact": "Jack 的新线索是 Archive Infinite——一个老派、模拟式的档案：凡是写下来的精灵宗教资料，那里都会有。",
+   "anchor": "They’re old school. Analog. If there’s anything written down about the elven religion, they’d have it.",
+   "start": 3086,
+   "end": 3188
+  },
+  {
+   "fact": "给 Archive Infinite 投信的邮箱不但关乎地点更关乎时间——例如把信在 1937 年 3 月的第一个周二放进箱子。",
+   "anchor": "Like, put the letter in the box on the first Tuesday of March in 1937.",
+   "start": 3732,
+   "end": 3802
+  },
+  {
+   "fact": "那位学者说最好问她「曾经是谁、过去是什么」——她的回答是：她曾是一名图书管理员。",
+   "anchor": "“It would be better to ask who I was, or what I used to be.” She turned to Jack. “I was a librarian.”",
+   "start": 10492,
+   "end": 10593
+  },
+  {
+   "fact": "学者从包里掏出一只黄铜圆筒交给他们，说「这能把你们送到那里」（去 Archive）。",
+   "anchor": "She dug around in her bag until she produced a brass cylinder. “This will get you there.”",
+   "start": 12608,
+   "end": 12697
+  },
+  {
+   "fact": "Adam 决定拿出自家（Binder 家族）的 grimoire——它古老、独一无二，他虽不舍但已扫描并做了备份。",
+   "anchor": "“My family’s grimoire. I don’t like giving it up but I’ve scanned and backed it up. It’s ancient but also one of a kind.”",
+   "start": 13903,
+   "end": 14024
+  },
+  {
+   "fact": "Adam 解释为何非要这些信息：six souls missing——六个灵魂失踪，六个人被困在身体之外的某处，他相信此事与之相关。",
+   "anchor": "“There are six souls missing, six people trapped somewhere outside their bodies. I don’t know how, but this is connected.”",
+   "start": 14374,
+   "end": 14496
+  },
+  {
+   "fact": "结尾 Adam 拉出床下的塑料盒时立刻觉得太轻——Binder 家族的 grimoire 被人拿走了。",
+   "anchor": "he went to pull the plastic case from beneath the bed. He instantly felt that it was too light.",
+   "start": 17899,
+   "end": 17994
+  }
+ ]
+}
