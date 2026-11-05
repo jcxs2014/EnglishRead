@@ -88,7 +88,7 @@ modified: "2026-11-05"
 |---|---|---|
 | swelled | v. 膨胀；涌起（swell 的过去式） | A headache gathered behind his brow, and the tumor of dread in his stomach swelled. |
 | scrambled | v. 仓促爬起；手脚并用（scramble 的过去式） | Elodie snapped, scrambling upright before the butler could come to help and see her flushed cheeks. |
-| draining | v. 吸干；榨取（drain 的现在分词） | It took everything I had not to jump you and drain the last drop from your body. |
+| drain | v. 吸干；榨取 | It took everything I had not to jump you and drain the last drop from your body. |
 | beacon | n. 灯塔；信标 | How could he turn his back on such a beacon? |
 
 ### ⭐ 常用
