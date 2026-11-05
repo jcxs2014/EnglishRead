@@ -75,8 +75,7 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | diagnostically | 以诊断的目光 | Moyna kept looking, diagnostically. |
-| diagnostically | 以诊断的目光 | Clement’s magic sent back the smoky discordance of a bad concussion, with a hint of something nastier threatening at the back of the skull. |
-| unsettallingly | 令人不安地 | The other was, unsettlingly, still as a corpse. |
+| unsettlingly | 令人不安地 | The other was, unsettlingly, still as a corpse. |
 | junk-crowded | 堆满杂物的 | Grubby cupboards lined the walls above the junk-crowded benches, and their doors hung at uneven angles. |
 
 ### ⭐ 常用
