@@ -1,0 +1,49 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch17",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch17_seventeen.txt",
+ "facts": [
+  {
+   "fact": "埃斯蒂恩的破案点：发烧第五天仍在、疹子第二天就退——冬幻症（vermeil fever）通常在脸上但不总是；追问出病人近期接待过雷塞北部边境的亲戚（山区冬季幻症驻留更久）；正式诊断：中度银红热 + 继发微虫肺炎",
+   "anchor": "“Fever ongoing on the fifth day, but the rash is gone after two.",
+   "start": 4938,
+   "end": 5002
+  },
+  {
+   "fact": "疑难铺陈：银红热自愈即可、独立治愈它属「五大solo技法」之一（埃斯蒂恩：第六，有论文）；让见过今年冬季学期一次——心瓣 sinistre-construct 治疗中的老妇、丈夫刚捐了东翼门厅；主刀道维利耶，幻症专家口述、历时一小时、完事被抬出剧场",
+   "anchor": "healing it is one of the five great solo techniques",
+   "start": 6124,
+   "end": 6175
+  },
+  {
+   "fact": "阿利斯的底牌：那次银红热示范后伊莎贝尔拽她胳膊「我们来试试？」——先试的伊莎贝尔推挤如洪水筑沙袋（好尝试但不够）；轮到阿利斯，魔法畅流远超预期、疹子退了；她说自己一直感受不到魔法的形状、控制不了、有多少也没用——伊莎贝尔皱眉欲言，晚班铃响跑去 chorale 前有事，再没谈过",
+   "anchor": "Ysabel had seized Alys’s arm and said, Let’s give it a try, shall we?",
+   "start": 7971,
+   "end": 8040
+  },
+  {
+   "fact": "幻症治疗法理：没有可打击的对象——只能在脑中持住「健康正常的身体」意象、魔法推进一刻不停，像把一口气呼到歌末最后一个音",
+   "anchor": "There wasn’t anything to direct your magic against.",
+   "start": 11340,
+   "end": 11391
+  },
+  {
+   "fact": "濒临焚身实录：魔法回声成环——她既非河也非井，是个 loop；光亮到近乎不存在、自我在其中失格；「也许伊莎贝尔知道这个、所以她一路追到了边缘」；眼后沸腾的痛把她拽回来",
+   "anchor": "Alys was neither a river nor a deep well. She was a loop",
+   "start": 14615,
+   "end": 14671
+  },
+  {
+   "fact": "克莱门特的急救：有节奏地拍她脸颊（Thud. Thud.）数一二一二让她跟着呼吸；事后按住她的肩压向地板、讲弟弟斯特凡纳 upset 时要人往他身上堆东西的往事——「但我们这儿没毯子也没面粉袋」",
+   "anchor": "“I’m going to keep this beat. Breathe with it.",
+   "start": 16441,
+   "end": 16487
+  },
+  {
+   "fact": "章末三句判词：几乎焚身、几乎杀死病人——秘书说「没有显眼灾难很难挂」，而「没有比阿利斯更显眼的灾难」；埃斯蒂恩那句「我们挂的是这一案」她必须抬头才听得见",
+   "anchor": "Nearly burning out. Nearly killing a patient.",
+   "start": 22045,
+   "end": 22090
+  }
+ ]
+}
