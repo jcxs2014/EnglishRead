@@ -51,8 +51,8 @@ modified: "2026-11-05"
 > **原句 6:** "Then the final chorus kicked in, and they sang together. “I never believed in ghosts ’til I met you.” Their bodies drew closer. Bonnie’s outfit sparkled under the lights. Their hands reached out, almost touching—to the delight of the crowd—before they pulled them away. … “When I’m with you, I feel completely alone.” As Bonnie belted the penultimate line of the chorus, Madison stepped behind her. With a puff of smoke and a flash of the lights, she disappeared off stage, leaving Bonnie by herself."
 
 **中文理解**：最终副歌启动，两人合唱：遇见你之前我从不信鬼。她们的身体靠近，Bonnie 的服装在灯光下闪烁。她们伸手，几乎要触到——人群为之沸腾——随后又收回手。……「和你在一起时，我感觉彻底孤独。」当 Bonnie 唱出倒数第二句时，Madison 退到她身后；一缕烟、一道灯闪，她消失于舞台，留 Bonnie 独唱。
-**关键词**：almost touching / the delight of the crowd / puff of smoke
-**为什么这样写**：作者把「几乎触碰」设计成舞台技术——这是假恋爱的行规动作（手搭不搭、亲不亲都有排练），但「the delight of the crowd」暴露了真相：观众看的就是这个「差点」；Madison 的烟幕退场是剧本安排，作者让它读起来像一次体面的投降。
+**关键词**：almost touching / penultimate line / disappeared off stage
+**为什么这样写**：作者把「几乎触碰」设计成舞台技术——这是假恋爱的行规动作，但「the delight of the crowd」暴露了真相：观众看的就是这个「差点」；Madison 的烟幕退场是剧本安排，作者让它读起来像一次体面的投降。
 **读者视角提示**：把「almost touching」和 ch09 的「想尝她的唇」对照——Bonnie 在妆室想的，Madison 在台上用舞台纪律掩盖；两个否定动作构成两人的双向否认。
 
 > **原句 7:** "Madison stood in the wings, her arms rippled with goosebumps, her heart doing a pathetic little flip. The roaring applause of the crowd vibrated the stage but failed to squash the warmth blooming in her chest. … Extremely not ideal."
@@ -61,6 +61,11 @@ modified: "2026-11-05"
 **关键词**：pathetic little flip / warmth blooming / Extremely not ideal
 **为什么这样写**：作者用「pathetic little flip」把心动写成自嘲——Madison 给自己的反应标注了贬义，但她的身体背叛了她；Extremely not ideal 是她全部情绪管理的总标题，一个字不多的承认。
 **读者视角提示**：warmth blooming 与本章开篇的 skin tingled 形成闭环——开篇是预演，这里是执行；胸口的暖就是欲望的存款账户，后面每个场景都在取款或存款。
+
+**关键词**：almost touching / pathetic little flip / warmth blooming
+**为什么这样写**：作者把「几乎触碰」设计成舞台技术——这是假恋爱的行规动作，但「the delight of the crowd」暴露了真相：观众看的就是这个「差点」；Madison 的烟幕退场是剧本安排，作者让它读起来像一次体面的投降；「pathetic little flip」把心动写成自嘲——Madison 给自己的反应标注了贬义，但她的身体背叛了她。
+**读者视角提示**：把「almost touching」和 ch09 的「想尝她的唇」对照——Bonnie 在妆室想的，Madison 在台上用舞台纪律掩盖；两个否定动作构成两人的双向否认。warmth blooming 与本章开篇的 skin tingled 形成闭环——开篇是预演，这里是执行。
+
 
 > **原句 8:** "“I’m just saying.” Frank held up his palms, leaning back into the sofa. “Your acting has been very good recently. It’s almost as if you like her.” … “But a Ferris wheel at sunset? Who knew Madison Moore was such a romantic.” … “Admit it, Mads. You’re losing your touch.”"
 
@@ -97,26 +102,28 @@ modified: "2026-11-05"
 **为什么这样写**：作者用「手部哲学」把大麻后的松弛推到诗意顶点——从手到指纹到子宫，层层回溯到生命最初的形态；amniotic fluid 的科普让 Bonnie 的「That's beautiful」有了物理基础，作者用科学词给浪漫句配重。
 **读者视角提示**：注意 Bonnie 的「低语」——Madison 听到这个词的反应（raising the hairs on her neck）说明这是她全章最敏感的时刻；从手的怪异到子宫的唯一，是本章亲密度的最高点。
 
-> **原句 13:** "Bonnie punched Madison’s thigh. “Damn. That’s hard. You could’ve broken my hand.” She cupped it, bringing it to her chest. … “You know something?” Bonnie asked. … Her focus fell to Bonnie’s cupid’s bow. Full and soft. … Madison leaned closer, wetting her lips. … “Your fingers kind of look like parsnips.”"
+> **原句 13:** "Bonnie punched Madison’s thigh. “Damn. That’s hard. You could’ve broken my hand.” She cupped it, bringing it to her chest. … “You know something?” Bonnie asked. … Her focus fell to Bonnie’s cupid’s bow. Full and soft. … Madison leaned closer, wetting her lips. … “Your fingers kind of look like parsnips.”" … Bonnie’s chest heaved, the sound of her breathing spiralling heat through Madison’s veins. She wanted to feel the swell of her body, to hear her moan slip between her lips."
 
-**中文理解**：……「你的手指有点像欧洲萝卜。」Bonnie 一拳打在 Madison 大腿上：好痛，你差点打断我的手。她托起它，贴在胸口。……「你知道吗？」Bonnie 问。……Madison 的视线落在 Bonnie 的丘比特之弓上——丰满柔软。……Madison 凑近，舔了舔嘴唇。……「你的手指有点像欧洲萝卜。」
-**关键词**：parsnips / cupid’s bow / wetting her lips
-**为什么这样写**：作者用「欧洲萝卜」这种荒诞比喻把玩笑推到反高潮——在最浪漫的当口用最不浪漫的词汇砸场，是 Madison 式的幽默；cupid's bow 与 wetting her lips 的并置把欲望写成露骨的身体动作，下一秒的玩笑就是她的缓兵之计。
+**中文理解**：Bonnie 一拳打在 Madison 大腿上：好痛，你差点打断我的手。她托起它，贴在胸口。……Madison 的视线落在 Bonnie 的丘比特之弓上——丰满柔软。……Madison 凑近，舔了舔嘴唇。……她的腹肌笑疼了。她伸懒腰，背心卷起露出腹部。Bonnie 的目光追随着这动作，有什么改变了——这不再是好笑的事。Bonnie 的胸口起伏，呼吸声螺旋状地把热度送进 Madison 的血管。她想感受 Bonnie 身体的起伏，想听她的呻吟从唇间溜出来。
+**关键词**：cupid’s bow / wetting her lips / hear her moan
+**为什么这样写**：作者用「欧洲萝卜」这种荒诞比喻把玩笑推到反高潮——在最浪漫的当口用最不浪漫的词汇砸场；cupid's bow 与 wetting her lips 的并置把欲望写成露骨的身体动作；从 parsnips 的玩笑到 moan 的想象，作者用一串小动作完成了从喜剧到欲望的切换——这一帧是全书 Madison 视角的性张力顶点。
 **读者视角提示**：注意 Bonnie 把手贴在胸口——ch09 里 Madison 把 Bonnie 的手按在她胸口，现在 Bonnie 把 Madison 的手按在自己胸口；两个方向相反的动作是同一枚硬币。
 
-> **原句 14:** "Madison’s abs ached. She stretched, her vest riding up and exposing her stomach. Bonnie’s gaze tracked the movement, and something shifted. It wasn’t funny anymore. Bonnie’s chest heaved, the sound of her breathing spiralling heat through Madison’s veins. She wanted to feel the swell of her body, to hear her moan slip between her lips."
 
-**中文理解**：Madison 的腹肌笑疼了。她伸懒腰，背心卷起露出腹部。Bonnie 的目光追随着这动作，有什么改变了——这不再是好笑的事。Bonnie 的胸口起伏，呼吸声螺旋状地把热度送进 Madison 的血管。她想感受 Bonnie 身体的起伏，想听她的呻吟从唇间溜出来。
-**关键词**：riding up and exposing / spiralling heat / hear her moan
-**为什么这样写**：作者把性张力写成衣物的位移（vest riding up）——一个不小心的动作引发的凝视，比任何直白描写都有效；spiralling heat 与 moan 是欲望的生理实证，作者用 Bonnie 的呼吸声做中介，让读者听见 Madison 的心。
-**读者视角提示**：注意场景的持续时间——从 parsnips 的玩笑到 moan 的想象，作者用一串小动作完成了从喜剧到欲望的切换；这一帧是全书 Madison 视角的性张力顶点。
+> **原句 15:** "“Sushi.” Bonnie rolled on her side, gaze brightening. “From The Blue Palace.” … “You’re a fucking pop star. If you want sushi, then get the sushi.” … “Yeah.” She nodded, pointing a finger at herself. “I’m Bonnie fucking Bloom.” … “Are you coming too?” … “Fuck it. Come on then.” Madison stood, pulling Bonnie with her."
 
-> **原句 15:** "“Sushi.” Bonnie rolled on her side, gaze brightening. “From The Blue Palace.” … “You’re a fucking pop star. If you want sushi, then get the sushi.” … “Yeah.” She nodded, pointing a finger at herself. “I’m Bonnie fucking Bloom.” … “Are you coming too?” … “Fuck it. Come on then.” Madison stood, pulling Bonnie with her. … The buzz thrummed through her veins, a mixture of cannabis high and Bonnie high—which, in her opinion, was the more dangerous and addictive of the two. Because as Bonnie chatted away happily about the chef’s platter of nigiri she planned to devour, she dragged Madison deeper into her dizzying orbit. The scariest thing? She didn’t mind at all."
+**中文理解**：寿司。Bonnie 侧身滚过来，目光发亮：The Blue Palace 的。……你是个他妈流行天后，想吃寿司就去吃。……她点头，指着自己：我是他妈 Bonnie Bloom。……你要一起来吗？……去他大爷的，走吧。Madison 站起来拉起她。
+**关键词**：Bonnie fucking Bloom / Are you coming too / Come on then
+**为什么这样写**：Bonnie 用「我是他妈 Bonnie Bloom」重演 ch09 的舞台宣言，把自尊变成邀请；Madison 的「Come on then」没有任何铺垫——她被食欲与欲望同时牵引，邀请的意义不在于寿司。
+**读者视角提示**：注意「Are you coming too」这个问题的潜台词——Bonnie 邀请的是同行者还是约会对象，句式上不置可否，但邀请本身是第一次私人约会性质的试探。
 
-**中文理解**：寿司。Bonnie 侧身滚过来，目光发亮：The Blue Palace 的。……你是个他妈流行天后，想吃寿司就去吃。……她点头，指着自己：我是他妈 Bonnie Bloom。……你要一起来吗？……去他大爷的，走吧。Madison 站起来拉起她。嗡嗡的震动穿过血管——大麻的 high 和 Bonnie 的 high 混合，在她看来，后者更危险也更上瘾。因为 Bonnie 兴高采烈地聊着她要消灭的厨师拼盘寿司时，正把 Madison 拖进更深的眩晕轨道。最吓人的？她一点也不介意。
-**关键词**：Bonnie fucking Bloom / more dangerous and addictive / didn’t mind at all
-**为什么这样写**：作者用一句匪夷所思的宵夜邀约完成全章的情感结算——Bonnie 用「我是他妈 Bonnie Bloom」重演 ch09 的舞台宣言，把自尊变成邀请；两个 high 的比较是全章最诚实的告白，作者没有让她说「我喜欢你」，而是说「她更危险也更上瘾」。
+> **原句 16:** "The buzz thrummed through her veins, a mixture of cannabis high and Bonnie high—which, in her opinion, was the more dangerous and addictive of the two. Because as Bonnie chatted away happily about the chef’s platter of nigiri she planned to devour, she dragged Madison deeper into her dizzying orbit. The scariest thing? She didn’t mind at all."
+
+**中文理解**：嗡嗡的震动穿过血管——大麻的 high 和 Bonnie 的 high 混合，在她看来，后者更危险也更上瘾。因为 Bonnie 兴高采烈地聊着她要消灭的厨师拼盘寿司时，正把 Madison 拖进更深的眩晕轨道。最吓人的？她一点也不介意。
+**关键词**：more dangerous and addictive / dizzying orbit / didn’t mind at all
+**为什么这样写**：作者用一句匪夷所思的宵夜邀约完成全章的情感结算——两个 high 的比较是全章最诚实的告白，作者没有让她说「我喜欢你」，而是说「她更危险也更上瘾」；结尾句式把缴械写成自我诊断，不拖泥带水。
 **读者视角提示**：注意本章的结尾句式——The scariest thing? She didn't mind at all。这既是 Madison 的缴械，也是下一章的契约：从「不该做」到「不后悔」，中间只隔一个寿司。
+
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
