@@ -89,7 +89,7 @@ modified: "2026-11-05"
 |---|---|---|
 | bench | n. 长凳 | Beyond a pointed arch, it imitated a window with a stone bench upon which Saint sat, one leg drawn up, his back against the wall. |
 | crookedly | adv. 歪斜地 | He was dressed as a court jester, his cap sitting crookedly atop his unruly hair, and the costume peculiarly suited him. |
-| flutter | v. 飘动；振翼 | Will smiled sadly and shrugged, making his wings flutter. |
+| queen | n. 女王 | “Why is he never here? Our queen often appears at the celebrations of the high nobility.” Will himself had only ever seen her from a distance, a beautiful older woman. |
 | plucked | v. 拨弄；揪（pluck 的过去式） | Her fingers moved over the elaborate embroidery and plucked at an eye until the thread came loose. |
 
 ## 一句话总结

@@ -44,27 +44,37 @@ modified: "2026-11-05"
 **读者视角提示**：接 ch28 她的预告（「明天满月舞会上他会和所有人一起知道」）：她连宣布的时机都是武器——当着阿科斯、当着红手、当着威尔。这是她的「盛大揭示」被抢之后的复读。
 
 > **原句 6:** "“Then help me. You know Elodie better than anyone.”"
-> "“Very well. I promise to help you discover what Elodie wants from you—and protect you from it if necessary.”"
-**中文理解**：「那就帮我。没有人比你更懂埃洛迪。」「很好。我答应帮你查清她想从你身上得到什么——必要时，护你周全。」
-**关键词**：help me / protect you from it
+**中文理解**：「那就帮我。没有人比你更懂埃洛迪。」
+**关键词**：help me / better than anyone
+**为什么这样写**：求援的对象选得惊心动魄：向情敌与骗子要关于她的真相——因为只有他既是行家又是知情人。这一句把两人的关系从「互相算计」改写成「互相需要」。
+**读者视角提示**：注意威尔求助时的清醒：他明知与魔鬼做交易的利率。接 ch14 「我读不懂你/我也读不懂你」——两人的谜题此刻互为答案。
+
+> **原句 7:** "“Very well. I promise to help you discover what Elodie wants from you—and protect you from it if necessary.”"
+**中文理解**：「很好。我答应帮你查清她想从你身上得到什么——必要时，护你周全。」
+**关键词**：Very well / protect you from it
 **为什么这样写**：契约的签订不用握手用「很好」：魔鬼的应允自带条款音效。注意对价结构——他要查「她要什么」，魔鬼要他查「她对公爵要什么」：两份委托在同一条案情上。
 **读者视角提示**：把「protect you from it」与 ch08 「collateral damage」对照：同一个男人，两次救援，一次收利息一次付本金。他和威尔的关系在今夜正式从「利用」改写为「投资」。
 
-> **原句 7:** "“It is not customary for two men to display themselves like this in public,” Mr. Arcos admitted."
-> "In answer, claws dug into his skin."
-**中文理解**：「两个男人这样在公开展示自己，不合此地规矩。」阿科斯坦承。作为回答，爪子陷进了他的皮肉。
-**关键词**：not customary / claws dug into his skin
-**为什么这样写**：出柜问题的回答不是语言是爪子：痛感替代宣言——他不怕名声，怕的是承认之后的失去。「不合规矩」由破坏规矩的人说出，本身就是邀请。
+> **原句 8:** "“It is not customary for two men to display themselves like this in public,” Mr. Arcos admitted."
+**中文理解**：「两个男人这样在公开展示自己，不合此地规矩。」阿科斯坦承。
+**关键词**：not customary / display themselves
+**为什么这样写**：出柜问题的回答不是语言是坦白：他先替全城把规矩念了出来——「不合规矩」由破坏规矩的人说出，本身就是邀请。他承认的是事实，不是立场。
+**读者视角提示**：注意他在舞池上承认这件事的时间点：音乐未停、人群围看——他用「告知」代替「阻止」。这比任何保护都诚实：他把选择权（和风险）一起递给了威尔。
+
+> **原句 9:** "In answer, claws dug into his skin."
+**中文理解**：作为回答，爪子陷进了他的皮肉。
+**关键词**：In answer / claws dug
+**为什么这样写**：被问到「你怕名声吗」，回答是疼痛：爪子=拒绝退出。六个词的一句独立成段，是全章最响的告白——他不怕被看，他怕停。
 **读者视角提示**：爪印=回答，这比任何告白都响。接 ch25 舞池的空场与耳语：这一舞是两人在全城面前的公开声明。血林对他们狼牙相向——而他们转圈转得更稳。
 
-> **原句 8:** "“And yet you love her.”"
+> **原句 10:** "“And yet you love her.”"
 > "Mr. Arcos stumbled. It took several steps for him to recover. “Why would you say something so absurd?”"
 **中文理解**：「可你还是爱她的。」阿科斯踉跄了一下——花了好几步才稳住。「你怎么会说这么荒谬的话？」
 **关键词**：you love her / stumbled / absurd
 **为什么这样写**：三个字让钢铁骑士在舞池失足——身体的诚实先于语言的否认。「荒谬」是他的标准防御语法（对 ch14 「堕落天使」也这么接）：越荒谬越真。
 **读者视角提示**：接 ch16 「修更大的陵墓」与本章黑骑士传说：恨与爱的复式记账终于并表。他的踉跄是全章最重要的情报——威尔此刻用「爱情」这把钥匙，打开了改约的门。
 
-> **原句 9:** "“I have changed my mind,” Mr. Arcos said. “I want you to prevent Elodie from marrying Duke Wilkinson.”"
+> **原句 11:** "“I have changed my mind,” Mr. Arcos said. “I want you to prevent Elodie from marrying Duke Wilkinson.”"
 > "“You cannot simply change our bargain!”"
 > "The dance ended, and Mr. Arcos released him. “You forget—I am the devil. I can do anything.”"
 **中文理解**：「我改主意了，」阿科斯说，「我要你阻止埃洛迪嫁给 Wilkinson 公爵。」「你不能说改约就改约！」「你忘了——我是魔鬼。我无所不能。」
