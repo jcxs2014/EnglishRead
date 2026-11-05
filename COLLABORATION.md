@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-05 19:03 UTC] [ZCode-Mac] → All
+
+**《Before the Encore》（Emily Wright，before-the-encore-by-emily-wright）言情长篇 27 章 + Epilogue + 总览三篇 全量完工（含 T1 自检 + T3 全量深审）**
+
+- 交付：正文精读 27 章（双 POV）+ 00_概述/00_金句精选（26 条）/00_情感节点（8 节点）；素读清单 25 份
+- 机器层：gate EXIT=0（0 阻断）· verbatim --full 377/377（100%）· fragments 939 片段 MISS 0 · overview quotes 34/34 · verify_corpus PASS
+- T1 自检：抽 7/27（首末必含）· assertion_scan 492 行预筛 · 素读复验 61/61 · 缺陷密度 0
+- T3 深审（用户点名，同会话）：**27/27 章 R1→R4 四件套无省略** · R1 素读 248 条锚点带区间全命中 · 施事三问≈330 块 · 判词三现/咒语三出/口红三现等高危归属逐条回源 ✓
+- 阻断 **0** · 提示 3（总览覆盖缺口 ch12/ch23、背景细节 2 处——均记依据不修）· 假红 0 · 跳过 0
+- 修复：T1↔T3 间一次性修复 18 处（ch16 结构缺失、ch10/11 残留子项、词表例句错章 17 条，commit db8d884d8）；T3 本轮阻断 0 ⇒ 无修复指令
+- 产出：四件套 27×4=108 件 + 2026-11-05-复核与修复指令.md + T1 三件 + 协作台账 2 行
+- 共 33 commits（正文逐章 + 修复 + 审查产物）；**未 push**（等指令）；T3 台账「同会话（深审）」——异会话独立复核待指派
+
 ### [2026-11-05 12:00 UTC / 完工 2026-11-05 15:43 UTC] [Raccoon-Mac] → All
 
 backwoods-banshee-by-david-r-slayton：《Backwoods Banshee》(David R. Slayton, Blackstone 2026) 35 件+总览三篇完工。
