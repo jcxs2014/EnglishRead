@@ -1,0 +1,61 @@
+{
+ "book": "blood-and-birthright-by-amelia-spencer",
+ "chapter": "ch02",
+ "text": "notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch02_2_atalanthya.txt",
+ "facts": [
+  {
+   "fact": "她入馆同行的三代人：Kaenan 失踪后由 Iris 陪伴，友谊破裂后独自漫游，直到门为儿子 Adrien 打开——而 Adrien 现在也不在了。",
+   "anchor": "Following his disappearance, it was Iris who accompanied her into the Library’s depths.",
+   "start": 1519,
+   "end": 1606
+  },
+  {
+   "fact": "北翼书妖 gnome 们不听管教的根由：某 Academic 在未经批准的研究项目里给它们喂 Xanax，成瘾暴露后实验被叫停。",
+   "anchor": "an injudicious Academic plied them with Xanax during an unsanctioned research project",
+   "start": 2588,
+   "end": 2673
+  },
+  {
+   "fact": "来通报议事会开会的，正是当年在议事会上告发 Adrien 叛变的那位 Academic——那天她把自己的儿子逐出了教门。",
+   "anchor": "It was the Academic who had informed her of Adrien’s betrayal during a Council meeting more than a year prior.",
+   "start": 4084,
+   "end": 4194
+  },
+  {
+   "fact": "发明家 Isaiah Masterson（Elias 之父）自 Elias 投靠 Foundation 的消息传开就一直全身黑衣，她疑心那是一场不肯承认的服丧。",
+   "anchor": "He was clad entirely in black, as he had been since the news broke that Elias had aligned himself with Foundation.",
+   "start": 6267,
+   "end": 6381
+  },
+  {
+   "fact": "Atalanthya 的出身宣言：在布朗克斯燃烧的年代长大的黑人女性，从灰烬里爬起证明自己配得上馆长之位，自称胜过 Iris Blackwell。",
+   "anchor": "I am a Black woman who came of age when the Bronx burned.",
+   "start": 8960,
+   "end": 9017
+  },
+  {
+   "fact": "Isaiah 告知：Adrien 随 Emerson 一起回来，两人看上去比去年进 Catalogue 时更亲近——她闻言咬紧牙关。",
+   "anchor": "“He returned with her. They appear…closer than they were when they went into the Catalogue last year.”",
+   "start": 10588,
+   "end": 10690
+  },
+  {
+   "fact": "「Tia」这个旧昵称只有三个人有资格叫：两个已死，其中一个是她亲手杀的；Felix 故意用它来刺她。",
+   "anchor": "Only three people had permission to refer to her by that name. Two of them were dead. She had killed one of them herself.",
+   "start": 12419,
+   "end": 12540
+  },
+  {
+   "fact": "铡死 Iris 的是 Jaruwah Godwin，地点在 Foundation 门口台阶；Felix 暗示「某位远比 Archivist 强大的 Librarian 出于私利」促成此事，直指 Atalanthya。",
+   "anchor": "Jaruwah Godwin decapitated Iris on the entryway steps inside Foundation",
+   "start": 14226,
+   "end": 14297
+  },
+  {
+   "fact": "独处书房时她拉开领口：锁骨下藏着一颗解剖学正确、与真心脏同步搏动的深红之心，嵌在金色卷须迷宫里——那是她背叛与伪善的证据。",
+   "anchor": "A crimson heart.",
+   "start": 22217,
+   "end": 22233
+  }
+ ]
+}
