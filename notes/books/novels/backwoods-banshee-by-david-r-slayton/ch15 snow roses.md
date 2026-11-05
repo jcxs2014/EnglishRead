@@ -79,7 +79,7 @@ modified: "2026-11-04"
 
 **关键词**：the little storm exploded / Icy flakes pricked / North’s magic was unstable
 
-**为什么这样写**：魔法的病理用一场迷你灾难演示：storm 的隐喻从 snow globe（Aadam 眼中的雪球闪点）到 explode（迸裂）只隔一个动词——不稳定不是修辞，是会伤人的物理事实。pricked（刺）落在观察者脸上：连旁观的 Adam 都会受伤，何况施法者本人。he understood 的顿悟句式让设定揭示不靠说明靠体感。unstable 这个词同时预言了主题：半个血脉压不住整套魔法——与 Ian 的未来、与 Wolf 的「界域魔法」互为远亲。
+**为什么这样写**：魔法的病理用一场迷你灾难演示：storm 的隐喻从 snow globe（Adam 眼中的雪球闪点）到 explode（迸裂）只隔一个动词——不稳定不是修辞，是会伤人的物理事实。pricked（刺）落在观察者脸上：连旁观的 Adam 都会受伤，何况施法者本人。he understood 的顿悟句式让设定揭示不靠说明靠体感。unstable 这个词同时预言了主题：半个血脉压不住整套魔法——与 Ian 的未来、与 Wolf 的「界域魔法」互为远亲。
 
 **读者视角提示**：紧随其后的许诺（带漫画、教英语）与 North 的熊抱完成本章的情感闭环；最后一幕他让 Dautre 把自己落在公寓外——「我需要跟某人谈谈」：悬念交给下一章（大概率是 Annie 或 Jodi——别忘了 FBI 监听局）。
 

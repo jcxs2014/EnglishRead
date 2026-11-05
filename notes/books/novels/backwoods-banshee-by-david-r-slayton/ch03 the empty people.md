@@ -31,7 +31,7 @@ modified: "2026-11-04"
 
 **为什么这样写**：破折号里插进 "his official job title"，自嘲式地把「修车」升格成正式身份——对亚当来说，普通职业头衔正是他最想要的勋章。Hotel Erythraean 一词点到即止，前作事件只用一个地名背负；escape 没有宾语，说明他要逃的不是工厂而是自己的脑袋。机油与橡胶的气味能帮他镇定——感官细节在这里是功能性的。
 
-**读者视角提示**：本句为不读前作的读者完成背景补课：住旅馆、坐牢、失去 Page 之职，全系列创伤事件只有一个坐标——Erythraean。老板 Jesse 是维森特的哥哥，这个亲属网记住，后文常 用。
+**读者视角提示**：本句为不读前作的读者完成背景补课：住旅馆、坐牢、失去 Page 之职，全系列创伤事件只有一个坐标——Erythraean。老板 Jesse 是维森特的哥哥，这个亲属网记住，后文常用。
 
 > **原句 3:** "A young man sat on the edge of the bed, his eyes open. A nurse was talking to him, but getting no response. He looked awake, conscious, but blank."
 
@@ -69,7 +69,7 @@ modified: "2026-11-04"
 
 **关键词**：figured out smartphones / monumental leap / without the others catching on
 
-**为什么这样写**：一条技术细节写出一整条地下联络线：monumental leap 用夸张的修辞承认精灵与凡人科技的时差，None of the others 衬出 Dautre 的孤独先行——他是唯一一个肯向人间学习的人。without the others catching on 说明联络本身需要伪装，精灵内部的路线斗争在一句手机短信里完成交代。
+**为什么这样写**：一条技术细节写出一整条地下联络线：monumental leap 用夸张的修辞承认精灵与凡人科技的时差，None of the others 衬出 Dautre 的孤独先行——同侪精灵里独他一人跨过了座机时代。without the others catching on 说明联络本身需要伪装，精灵内部的路线斗争在一句手机短信里完成交代。
 
 **读者视角提示**：暗语是防 technopath 图书馆员 Jack 的—— Guardians 阵营里的黑客。「Would you like to watch a film?」这类正式文体的短信腔就是接头暗号。Dautre 在骑士面前报「无踪迹」、转头约亚当密谈：旧搭档的双面棋局从本章开始落子。
 
