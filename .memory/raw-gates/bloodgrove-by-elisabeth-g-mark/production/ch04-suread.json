@@ -1,0 +1,37 @@
+{
+ "book": "bloodgrove-by-elisabeth-g-mark",
+ "chapter": "ch04",
+ "text": "notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch04_chapter_4.txt",
+ "facts": [
+  {
+   "fact": "半夜剧痛撕裂威尔，腹部隆成紧绷苍白的大圆顶，又大又圆又硬",
+   "anchor": "pain suddenly tore through him",
+   "start": 519,
+   "end": 549
+  },
+  {
+   "fact": "月光下有物在他皮下游走， glide 如湖面下的蛟龙",
+   "anchor": "like a lindworm moving under the surface of a lake",
+   "start": 1526,
+   "end": 1576
+  },
+  {
+   "fact": "黑暗中的声音（如风暴中的怒海）称他「最美的一个」，嘱他守护「我的心」直到重逢",
+   "anchor": "You carry my heart, most beautiful one",
+   "start": 1905,
+   "end": 1943
+  },
+  {
+   "fact": "他想把那东西挤出体外时，声音突然贴到耳边：「还不到时候」——随即消失，影子静息入夜",
+   "anchor": "Not yet. The time has not yet come",
+   "start": 2228,
+   "end": 2262
+  },
+  {
+   "fact": "蠕虫再度搅动、肚皮涨到撕裂边缘，剧痛狂涨，威尔在野乱的尖叫中失去神智",
+   "anchor": "he lost his mind",
+   "start": 2892,
+   "end": 2908
+  }
+ ]
+}
