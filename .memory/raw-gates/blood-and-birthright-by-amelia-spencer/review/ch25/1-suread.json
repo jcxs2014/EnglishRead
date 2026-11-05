@@ -1,0 +1,67 @@
+{
+ "book": "blood-and-birthright-by-amelia-spencer",
+ "chapter": "ch25",
+ "text": "notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch25_chapter_25.txt",
+ "facts": [
+  {
+   "fact": "Silas 看空书架扬眉难以置信",
+   "anchor": "his attention wandered up and down the barren bookshelves",
+   "start": 526,
+   "end": 583
+  },
+  {
+   "fact": "Silas 嘲讽：你不是说他识文断字吗",
+   "anchor": "“I thought you said this guy knows how to read.”",
+   "start": 886,
+   "end": 934
+  },
+  {
+   "fact": "Maya 认领同谋：帮瞒几周以为她在做选择",
+   "anchor": "I helped you hide from those men for weeks because I thought you needed time to decide between",
+   "start": 4607,
+   "end": 4701
+  },
+  {
+   "fact": "她按停细节汇报：别告诉我",
+   "anchor": "Actually, don’t tell me,” she wheezed.",
+   "start": 5381,
+   "end": 5419
+  },
+  {
+   "fact": "Callan 提案：Guardians 能帮你但没有他不动",
+   "anchor": "“If you want the Library, the Guardians can get it for you. But they won’t do it without him.”",
+   "start": 7296,
+   "end": 7390
+  },
+  {
+   "fact": "王牌情报：Zephyrus 拒绝了此后每位骑手",
+   "anchor": "Zephyrus has refused another rider since you left.",
+   "start": 8042,
+   "end": 8092
+  },
+  {
+   "fact": "Adrien 承认藏书：那是我挣来的",
+   "anchor": "“Of course I kept it,” he admitted. “I earned it.",
+   "start": 8945,
+   "end": 8994
+  },
+  {
+   "fact": "她轻声授权：去拿来",
+   "anchor": "“Go get it,” she said quietly.",
+   "start": 10096,
+   "end": 10126
+  },
+  {
+   "fact": "Callan 盖章：一朝是 Guardian 永远是",
+   "anchor": "“Once a Guardian, always a Guardian.”",
+   "start": 10655,
+   "end": 10692
+  },
+  {
+   "fact": "Adrien 翻书四人坠入深渊",
+   "anchor": "he flipped Andamvalhales open to take them inside.",
+   "start": 10910,
+   "end": 10960
+  }
+ ]
+}
