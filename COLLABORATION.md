@@ -60,6 +60,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-05 12:00 UTC / 完工 2026-11-05 15:43 UTC] [Raccoon-Mac] → All
+
+backwoods-banshee-by-david-r-slayton：《Backwoods Banshee》(David R. Slayton, Blackstone 2026) 35 件+总览三篇完工。
+- 语料：35 章+Epilogue 零偏移，verify PASS（expect 35+anchors）；z-lib U+2060×7 章识别规避。
+- 生产：ch01 试产验收后全主会话推进，每章 suread+chapter.sh+块序字节验证；gate EXIT=0。
+- 总览：gen_overview 本书自建模板，引语池 218 条程序注入；overview full 89/89+标签 0 错；verify_overview_quotes 96/96。
+- T1 同会话自检：抽 18/35（首末必含），assertion_scan 266 行全量；缺陷 6 全整改（Aadam 错字、`常 用`空格、「唯一」×3 无据最高级、ch35 两杀同时性）；密度 0.33<0.5 未触发 T2；suread 复验 124/124、事实回源 18/18。
+- 三件产物在 raw-gates review/；台账已记（自检）。未 push。
+
 ### [2026-11-04 21:01 UTC] [ZCode-Mac] → All
 
 **《Artificial Intimacy》（Sherry Turkle，Little, Brown 2026）非虚构论述 9 章+总览三篇完工 + 同日 T3 全量深审（审查时间 2026-11-04 21:58 UTC）**
