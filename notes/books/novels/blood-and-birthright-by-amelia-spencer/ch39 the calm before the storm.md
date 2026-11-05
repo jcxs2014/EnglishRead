@@ -30,7 +30,7 @@ modified: "2026-11-05"
 > **原句 3:** "“I just can’t help but wonder if things would have turned out differently had I been less…angry?"
 
 **中文理解**：战前的愧疚独白：她忍不住想，如果自己少一点怒气、少一点冲动，事情会不会不一样——「看在上帝份上，我现在还在生气。只是知道全貌之后，气的对象换了。」
-**关键词**：less…angry、directed at different people now
+**关键词**：less…angry
 **为什么这样写**：省略号是这句话的心电图——作者让「angry」这个词先卡住再落地：她的愤怒没有消失，只是换了收件人；这是全书对「愤怒管理」的最诚实处理：不戒怒，只校准。
 **读者视角提示**：对照 ch19「I excel in hostile environments」的 Adrien 版——两个擅长把情绪当燃料的人，此刻一个在学释放，一个在学瞄准；Maya 的接话（下一块）给出解药。
 
