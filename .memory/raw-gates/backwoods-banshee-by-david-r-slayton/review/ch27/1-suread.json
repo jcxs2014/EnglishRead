@@ -1,0 +1,55 @@
+{
+ "book": "backwoods-banshee-by-david-r-slayton",
+ "chapter": "ch27",
+ "text": "notes/books/novels/backwoods-banshee-by-david-r-slayton/text/ch27_chapter_27.txt",
+ "facts": [
+  {
+   "fact": "Jack 来叫 Adam 出发：他们已经找到了 Archive，只要 Adam 准备好就可以动身。",
+   "anchor": "“We did.” Jack grinned. “We’re ready to go if you are.”",
+   "start": 3322,
+   "end": 3377
+  },
+  {
+   "fact": "Adam 从床底下小心地挖出 Binder 家族的 grimoire 带上。",
+   "anchor": "He gently dug the Binder family grimoire out from under the bed.",
+   "start": 3683,
+   "end": 3747
+  },
+  {
+   "fact": "腕表被设计用来把佩戴者的 aura 同步到学校，使他们无论走得多远都不会丢失时间。",
+   "anchor": "“It’s designed to sync your aura to the school so that you won’t lose time no matter how far afield we go.”",
+   "start": 4474,
+   "end": 4581
+  },
+  {
+   "fact": "腕表的研发分工：Hex 与 Professor Lawless 完成了大部分工作，Daff 自己只研究了来自学校时间中心的时序漂移。",
+   "anchor": "“Hex and Professor Lawless did most of the work. I just researched the chronological drift from the school’s temporal center.”",
+   "start": 5186,
+   "end": 5312
+  },
+  {
+   "fact": "Daff 提醒：旅途中绝不能吃喝任何东西——这个问题他们还没能解决。",
+   "anchor": "Just don’t eat or drink anything. We still haven’t solved that problem.",
+   "start": 5718,
+   "end": 5789
+  },
+  {
+   "fact": "Hex 正在尝试计算逆转共振变化的方法——据 Daff 说，一旦成功，他们就有办法把 Lost Ones 送回原来所在的时间与地点。",
+   "anchor": "“She’s trying to calculate a way to reverse the change in resonance.",
+   "start": 5930,
+   "end": 5998
+  },
+  {
+   "fact": "Vran 并未真正消失：他与学校之心融合了，这意味着他会在其他世界活一千（a thousand）种别的生命，只是不在他们的世界。",
+   "anchor": "He’d merged with the school’s heart, which meant he’d live a thousand other lives in other worlds, just not theirs.",
+   "start": 7352,
+   "end": 7467
+  },
+  {
+   "fact": "Adam 问是否需要额外人手防身；Jack 指着 Daff 说他带来了一个 “ringer”（顶替选手）。",
+   "anchor": "“We have it.” Jack nodded to Daff. “I’m bringing a ringer.”",
+   "start": 7629,
+   "end": 7688
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "backwoods-banshee-by-david-r-slayton",
+ "chapter": "ch26",
+ "text": "notes/books/novels/backwoods-banshee-by-david-r-slayton/text/ch26_chapter_26.txt",
+ "facts": [
+  {
+   "fact": "Adam 夜里又多次梦见 Ian，每场梦都是未来的一帧片段快照，有些比其他的更糟。",
+   "anchor": "More dreams of Ian came and went in the night, each a snippet or snapshot of a future, some worse than others.",
+   "start": 188,
+   "end": 298
+  },
+  {
+   "fact": "Jack 发来一份文件：Cole 与 Brandon Williams 同 “Lore” 往来的全部邮件——Adam 认定 Lore 就是 banshees 事件的元凶。",
+   "anchor": "Jack had sent a file, all of Cole and Brandon William’s emails with “Lore,” who had to be the one responsible for the banshees.",
+   "start": 2660,
+   "end": 2787
+  },
+  {
+   "fact": "Jack 回复 Adam：仪式不在邮件里，他猜测是写在纸上的。",
+   "anchor": "No. They weren’t in the emails. I’m guessing they were on paper.",
+   "start": 4096,
+   "end": 4160
+  },
+  {
+   "fact": "Emily 发来照片：Cole 书桌上的那几张纸看起来像画海盗地图用的，但确实全是空白。",
+   "anchor": "They looked like what you’d draw a pirate map on, but were, indeed, blank.",
+   "start": 4547,
+   "end": 4621
+  },
+  {
+   "fact": "Adam 用 Sight 探查纸页：魔法的来源不明，但其“味道”冰冷、如冬、属于精灵。",
+   "anchor": "He did not know its source, who had cast the spell, but he knew its flavor. Cold. Wintery. Elven.",
+   "start": 6263,
+   "end": 6360
+  },
+  {
+   "fact": "Argent 说被抹除的不只是书籍——还有圣像、雕像、马赛克：有人在编辑现实本身，抹去他们想隐藏的东西。",
+   "anchor": "“Yes, but it is not just books. It’s icons, statues, mosaics. Someone is editing reality itself, erasing what they want hidden.”",
+   "start": 10129,
+   "end": 10257
+  },
+  {
+   "fact": "面对 Adam“他不会……会吗”的追问，Argent 说她已无法断言——王冠已经改变了那个人。",
+   "anchor": "I can no longer say. The crown has changed him.",
+   "start": 10700,
+   "end": 10747
+  },
+  {
+   "fact": "Adam 问 Archive Infinite 是否也受了影响；Argent 说无法确定，但至今只有精灵文献被改动，而 Archive 从来不属于精灵。",
+   "anchor": "“I do not, but so far only elven records have been changed. The Archive was never ours.",
+   "start": 11139,
+   "end": 11226
+  }
+ ]
+}
