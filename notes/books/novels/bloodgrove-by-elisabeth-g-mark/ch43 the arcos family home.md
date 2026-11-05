@@ -63,7 +63,7 @@ modified: "2026-11-05"
 | garlands | n. 花环；花冠（garland 的复数） | Garlands of fir branches and ash berries decorated the windows, and candles waited to be lit. |
 | borzois | n. 苏俄猎狼犬（borzoi 的复数） | A girl of perhaps six appeared around the corner, accompanied by two black borzois, one small fist buried in the fur of the nearer dog. |
 | tumor | n. 肿瘤；毒瘤 | “I would like to say the same, but you are a destructive tumor.” |
-| upholstery | n. 座椅面料；软垫 | Dresses and shoes of fine silk lay across the coffee table and the upholstered furniture, unmistakably made somewhere beyond Bloodgrove. |
+| upholstered | adj. 装软垫的；包覆软面的 | Dresses and shoes of fine silk lay across the coffee table and the upholstered furniture, unmistakably made somewhere beyond Bloodgrove. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
