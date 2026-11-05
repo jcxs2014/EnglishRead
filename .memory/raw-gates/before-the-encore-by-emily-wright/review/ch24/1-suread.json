@@ -1,0 +1,91 @@
+{
+ "chapter": "ch24",
+ "pov": "Madison",
+ "facts": [
+  {
+   "fact": "茧居两天；Leo Moon 解读=迷恋你/Gemini Sun=Mercury 口才；dualistic 一天混蛋一天甜",
+   "anchor": "You’re a Leo Moon.",
+   "range": [
+    625,
+    643
+   ]
+  },
+  {
+   "fact": "astrological square→sexual tension→power couple；yin and yang",
+   "anchor": "an astrological square that brings tension",
+   "range": [
+    2615,
+    2657
+   ]
+  },
+  {
+   "fact": "Scarlett 电话：格莱美提名落空；body deflated",
+   "anchor": "didn’t get nominated for the Grammys",
+   "range": [
+    4615,
+    4651
+   ]
+  },
+  {
+   "fact": "Ruby 短信：周五妈妈家香肠意面；Madison 塞回口袋",
+   "anchor": "Pretty please with a hotdog on top?",
+   "range": [
+    5114,
+    5149
+   ]
+  },
+  {
+   "fact": "what am I doing wrong→their way 落选→my way 会不会不同→别困在 what ifs",
+   "anchor": "I did it their way.",
+   "range": [
+    5941,
+    5960
+   ]
+  },
+  {
+   "fact": "fuck them！被拒歌曲够一张专辑；歌本 Wasted！；Fuck Off Madison Moore 曝光→sexual tension 嘲→标题需改",
+   "anchor": "Well, fuck them!",
+   "range": [
+    7017,
+    7033
+   ]
+  },
+  {
+   "fact": "Frank/Kam 到场看合同；termination notice 引 section 5(c)/7(a)；Better Call Saul 玩笑",
+   "anchor": "I am terminating this agreement",
+   "range": [
+    9680,
+    9711
+   ]
+  },
+  {
+   "fact": "Malcolm Joy=回形针人格/Rolex；诽谤案旧事（Mary 可以是任何 Mary）",
+   "anchor": "the personality of a paperclip",
+   "range": [
+    10741,
+    10771
+   ]
+  },
+  {
+   "fact": "Bonnie 详述 Bailey 年代：未经允许签约/当泥巴说话/Swift 挖走 Scarlett；assault case 威胁",
+   "anchor": "You better hope you sort this, Malcolm",
+   "range": [
+    13093,
+    13131
+   ]
+  },
+  {
+   "fact": "Malcolm 警告：抗辩则长官司+可能赔佣金；Bonnie：就算赔也值得；发送→I'm Bonnie fucking Bloom",
+   "anchor": "I’m Bonnie fucking Bloom.",
+   "range": [
+    15475,
+    15500
+   ]
+  }
+ ],
+ "relations": [
+  "Siya 无；Frank＝合同军师",
+  "Malcolm Joy＝律师",
+  "Kam＝零食官"
+ ]
+}

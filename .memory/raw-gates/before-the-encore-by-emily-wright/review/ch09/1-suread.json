@@ -1,0 +1,83 @@
+{
+ "chapter": "ch09",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "妆室镜前：搜寻瑕疵、拆解这几周；Madison 缺席的距离感=疼；假恋爱没那么假",
+   "anchor": "the fake dating felt a little less fake and a lot more real",
+   "range": [
+    1893,
+    1952
+   ]
+  },
+  {
+   "fact": "Katy 短信+爆料稿（source=Bailey）；Bailey 命令 VIP 问候 Olivia——别忘了 SMILE",
+   "anchor": "make sure you say hello",
+   "range": [
+    3729,
+    3752
+   ]
+  },
+  {
+   "fact": "Olivia 前史：Superstar 合作、spa 睡衣派对、被榨干的旧海绵；说断就断",
+   "anchor": "an old sponge Olivia had squeezed until it’d all dried up",
+   "range": [
+    4638,
+    4695
+   ]
+  },
+  {
+   "fact": "开演前十分钟恐慌：观众嘘声/烂水果/假恋爱反噬的灾难推演",
+   "anchor": "throwing rotten fruit",
+   "range": [
+    5912,
+    5933
+   ]
+  },
+  {
+   "fact": "Madison 闯入救场：托下巴、手贴胸口、同步呼吸；You…never call me Bonnie",
+   "anchor": "You…never call me Bonnie.",
+   "range": [
+    8376,
+    8401
+   ]
+  },
+  {
+   "fact": "妈妈惊恐发作史=安慰点；Ruin it. You're the star 授权",
+   "anchor": "You can do whatever the fuck you want",
+   "range": [
+    9766,
+    9803
+   ]
+  },
+  {
+   "fact": "角色互换打气：You're Bonnie fucking Bloom；视线扫身→想尝唇→You need to go. Now.",
+   "anchor": "wanting to taste them on hers",
+   "range": [
+    11681,
+    11710
+   ]
+  },
+  {
+   "fact": "现场演出：Hello, LA！/注意力锁死主唱/陷进 Madison",
+   "anchor": "fully lost in the music, or more accurately, in Madison",
+   "range": [
+    15165,
+    15220
+   ]
+  },
+  {
+   "fact": "镜前自语模仿 Madison 语气；平台升起 Showtime",
+   "anchor": "Showtime.",
+   "range": [
+    18696,
+    18705
+   ]
+  }
+ ],
+ "relations": [
+  "Kelsie＝舞台监督",
+  "Hannah＝化妆师",
+  "Minnie＝司机"
+ ]
+}

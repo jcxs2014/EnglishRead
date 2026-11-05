@@ -1,0 +1,68 @@
+{
+ "chapter": "ch21",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "Keelon 采访：鱼问题/厕纸/厨电/土葬——一小时没聊音乐",
+   "anchor": "If you were a fish",
+   "range": [
+    206,
+    224
+   ]
+  },
+  {
+   "fact": "Bailey 冷漠+Naomi 敲定整蛊系列→Bonnie 拒绝→done deal 拍桌",
+   "anchor": "That’s what you pay me for.",
+   "range": [
+    5856,
+    5883
+   ]
+  },
+  {
+   "fact": "Bailey 羞辱：没有我你还是季军/酒吧惨歌/brand",
+   "anchor": "third-place singer from The Pop Factor",
+   "range": [
+    6589,
+    6627
+   ]
+  },
+  {
+   "fact": "staged kiss 让我们赔钱；I meant it→naïve, kid",
+   "anchor": "you really are naïve, kid",
+   "range": [
+    8494,
+    8519
+   ]
+  },
+  {
+   "fact": "排练 Coward/cash cow 镜中审判；脚踝扭伤→停排一周",
+   "anchor": "she’d sprained her ankle",
+   "range": [
+    11614,
+    11638
+   ]
+  },
+  {
+   "fact": "车载 Ghost 被广告切短→第三名→Olivia 合作谣言→Mine",
+   "anchor": "Had Madison played her?",
+   "range": [
+    14577,
+    14600
+   ]
+  },
+  {
+   "fact": "dirty fingerprints→关电台沉默回家",
+   "anchor": "Minnie. Please, turn that off.",
+   "range": [
+    15313,
+    15343
+   ]
+  }
+ ],
+ "relations": [
+  "Keelon＝网红 soggybisquit",
+  "Naomi＝Keelon 团队",
+  "Rueben＝舞者",
+  "Malcolm 前章已聘"
+ ]
+}

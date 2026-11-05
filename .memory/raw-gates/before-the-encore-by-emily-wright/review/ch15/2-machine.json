@@ -1,0 +1,473 @@
+{
+  "chapter": 15,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/before-the-encore-by-emily-wright/ch15 the roof and the noogie.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/before-the-encore-by-emily-wright/text/ch15_chapter_fifteen.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Madison leaned towards the microphone, letting the music flow through her as she touched it to her lips. “You want me, y",
+          "ok": true,
+          "pos": 29
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Kam beat down on the drums as the song built towards the chorus. Usually at this point, Madison would approach and engag",
+          "ok": true,
+          "pos": 365
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Everything was working out. Their gamble had paid off. Roberto was getting swamped with partnership and brand deals, and",
+          "ok": true,
+          "pos": 676
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Madison’s sleep had been plagued by giant candy figures trying to tear her limb from limb and grind her into a chocolate",
+          "ok": true,
+          "pos": 1081
+        }
+      ],
+      "words": 48
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Madison, what the fuck?” Frank clunked his bass onto its stand. “You missed the cue. Again. That’s the third time.”",
+          "ok": true,
+          "pos": 1607
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Frank, I seriously suggest you get away from me unless you want that terrible goatee punched off your face.”",
+          "ok": true,
+          "pos": 2232
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Alright, guys, that’s enough.” Kam peeled herself from her drum kit to stand between them",
+          "ok": true,
+          "pos": 2750
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“We thought you’d make it past these four shows before Bonnie got sick of you, but alas, it must be a new record.”",
+          "ok": true,
+          "pos": 3251
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“You too?” Madison’s voice came out soft, pathetic, but she already knew the answer",
+          "ok": true,
+          "pos": 3439
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "At that, Madison shoved them both in the chest. “Fuck both of you.”",
+          "ok": true,
+          "pos": 3565
+        },
+        {
+          "text": "Rage pushed her feet forward. She crashed through the doors, taking any exit she could",
+          "ok": true,
+          "pos": 3842
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Anger deflated into sadness, flooding every cell and pore",
+          "ok": true,
+          "pos": 5131
+        },
+        {
+          "text": "She was a fuck-up. A complete fuck-up",
+          "ok": true,
+          "pos": 5320
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "It’s not what you think",
+          "ok": true,
+          "pos": 5721
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“We were wondering how long it would take before you got bored. Not the other way around",
+          "ok": true,
+          "pos": 7316
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "But have you really thought about it?” Kam continued. “How will it work once tour is over",
+          "ok": true,
+          "pos": 7909
+        }
+      ],
+      "words": 17
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 36,
+        "读者视角提示": 35
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 49,
+        "关键词": 0,
+        "为什么这样写": 25,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.52,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 47,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 31
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.6,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 51,
+        "关键词": 0,
+        "为什么这样写": 29,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 20,
+        "读者视角提示": 20
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 22,
+        "读者视角提示": 22
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.96,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 23
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 25,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.6,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 23,
+        "关键词": 0,
+        "为什么这样写": 20,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 26,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 20,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.45,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 0,
+        "为什么这样写": 31,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.57,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 25,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.46,
+        "读者视角提示": 0.65
+      }
+    }
+  ],
+  "form": {
+    "h1": "15. Chapter Fifteen",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 14,
+    "block_median": 13,
+    "block_range": [
+      10,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 14,
+    "quote_long": 0,
+    "segments": 16,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 1,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3736,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 26 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [
+      {
+        "block": "原句5",
+        "kw": "You missed the cue. Again. That’s the third time",
+        "words": 9
+      }
+    ],
+    "hole": [],
+    "block_count": []
+  }
+}

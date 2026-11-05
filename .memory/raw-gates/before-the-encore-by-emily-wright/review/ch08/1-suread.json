@@ -1,0 +1,83 @@
+{
+ "chapter": "ch08",
+ "pov": "Madison",
+ "facts": [
+  {
+   "fact": "两个月蒙太奇：录音→假约会→巡演排练；四场巡演一天售罄、伦敦加场",
+   "anchor": "sold out in a day",
+   "range": [
+    534,
+    551
+   ]
+  },
+  {
+   "fact": "排练失准三回；Kam 约抽烟被 media stuff 谎言推掉——实际偷看 Bonnie 排舞",
+   "anchor": "reckless urge curling in her fingertips",
+   "range": [
+    3448,
+    3487
+   ]
+  },
+  {
+   "fact": "Ruby 短信：牛仔外套钱挪去修妈妈的车；Are you in love w/ her yet?→U wish",
+   "anchor": "Are you in love w/ her yet?",
+   "range": [
+    4229,
+    4256
+   ]
+  },
+  {
+   "fact": "胁迫式邀请：I dare you→Fine（禁脱衣舞俱乐部与赌场）",
+   "anchor": "I dare you.",
+   "range": [
+    6785,
+    6796
+   ]
+  },
+  {
+   "fact": "车里：Madison 散发装扮、Bonnie You look different；到 Santa Monica pier 喊 Surprise",
+   "anchor": "“Surprise!”",
+   "range": [
+    9745,
+    9756
+   ]
+  },
+  {
+   "fact": "昵称谈判：Bonbon/Sugarplum/Princess Bubblegum→I hate you；churros 攻防→low moan 认输",
+   "anchor": "world’s best churros",
+   "range": [
+    12795,
+    12815
+   ]
+  },
+  {
+   "fact": "街机对决：Bonnie 赛车赢（Madison 故意撞栏看她脸）",
+   "anchor": "purposefully driving her car into the barriers",
+   "range": [
+    16456,
+    16502
+   ]
+  },
+  {
+   "fact": "摩天轮：Bonnie 坦白妈妈 Alzheimer’s/Apraxia、小提琴手变陌生物件；I don’t know why I’m telling you this",
+   "anchor": "My mum has Alzheimer’s",
+   "range": [
+    20212,
+    20234
+   ]
+  },
+  {
+   "fact": "合影：We kinda look good together→立刻缩回 good for our socials",
+   "anchor": "We kinda look good together.",
+   "range": [
+    24011,
+    24039
+   ]
+  }
+ ],
+ "relations": [
+  "Ruby＝妹妹",
+  "Frank＝相机出借（被骗）",
+  "Minnie＝司机"
+ ]
+}

@@ -1,0 +1,580 @@
+{
+  "chapter": 10,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/before-the-encore-by-emily-wright/ch10 two highs.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/before-the-encore-by-emily-wright/text/ch10_chapter_ten.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Madison waited in the wings. Her skin tingled, heart beating fiercely. What a fucking night. Lipstick Fever’s set had go",
+          "ok": true,
+          "pos": 25
+        },
+        {
+          "text": "People engaged. Some even sang the lyrics back to her. Hearing the echo of a thousand voices was the greatest high in th",
+          "ok": true,
+          "pos": 389
+        }
+      ],
+      "words": 61
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Dancers lifted Bonnie, spinning her around the stage as she sang the first line of the chorus. The pink two-piece—Madiso",
+          "ok": true,
+          "pos": 551
+        },
+        {
+          "text": "Bonnie had always been praised for her body confidence, the pride and celebration of her skin—even when the media and a ",
+          "ok": true,
+          "pos": 856
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But the image had burned to the back of her eyelids, the pressure of Bonnie’s hand forever imprinted against Madison’s c",
+          "ok": true,
+          "pos": 1324
+        },
+        {
+          "text": "She really needed to get laid",
+          "ok": true,
+          "pos": 1667
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“LA,” Bonnie shouted, opening her arm towards the side stage. “Give it up for Madison Moore!”",
+          "ok": true,
+          "pos": 2577
+        },
+        {
+          "text": "The crowd roared, and she stepped onto the stage, the first lines leaving her lips. “Your smile’s so empty",
+          "ok": true,
+          "pos": 2667
+        },
+        {
+          "text": "your face poised like stone.”",
+          "ok": true,
+          "pos": 2772
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“It feels so strange ’cos we used to be so close.” They neared each other, circling the mark on the stage. “Now you’re a",
+          "ok": true,
+          "pos": 3357
+        }
+      ],
+      "words": 87
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Madison stood in the wings, her arms rippled with goosebumps, her heart doing a pathetic little flip. The roaring applau",
+          "ok": true,
+          "pos": 4439
+        },
+        {
+          "text": "Extremely not ideal",
+          "ok": true,
+          "pos": 4649
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I’m just saying.” Frank held up his palms, leaning back into the sofa. “Your acting has been very good recently. It’s a",
+          "ok": true,
+          "pos": 4676
+        },
+        {
+          "text": "“But a Ferris wheel at sunset? Who knew Madison Moore was such a romantic.”",
+          "ok": true,
+          "pos": 5645
+        },
+        {
+          "text": "“Admit it, Mads. You’re losing your touch.”",
+          "ok": true,
+          "pos": 7277
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Hey,” Bonnie said, her whole face brightening. “Great show tonight. Bailey said the fans are already going wild on soci",
+          "ok": true,
+          "pos": 7894
+        },
+        {
+          "text": "“Anyway",
+          "ok": true,
+          "pos": 8266
+        },
+        {
+          "text": "I’ll see you tomorrow. Enjoy your post-show celebrations.” With a smile that didn’t reach her eyes, she turned to leave",
+          "ok": true,
+          "pos": 8273
+        },
+        {
+          "text": "“Join us.” Madison’s voice stopped her in the doorway. “We’re going to have a little smoke before we head out.”",
+          "ok": true,
+          "pos": 8391
+        }
+      ],
+      "words": 66
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“I don’t think so. I need to rest my voice for tomorrow.”",
+          "ok": true,
+          "pos": 8529
+        },
+        {
+          "text": "“Of course I have. I’ve had a few drags at parties, and I’ve been offered everything under the sun. It doesn’t mean I ta",
+          "ok": true,
+          "pos": 9237
+        },
+        {
+          "text": "Bonnie crossed her arms over herself. “I",
+          "ok": true,
+          "pos": 9436
+        },
+        {
+          "text": "don’t like feeling out of control.”",
+          "ok": true,
+          "pos": 9476
+        },
+        {
+          "text": "“I have a lot of young fans too.” Bonnie sucked her lip between her teeth. “I wouldn’t want them to get the wrong idea.”",
+          "ok": true,
+          "pos": 9618
+        }
+      ],
+      "words": 76
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Bonnie placed the joint between her lips, the tip glowing amber. Then she coughed, placing her hand to her mouth",
+          "ok": true,
+          "pos": 11255
+        },
+        {
+          "text": "“You need to breathe deeper. Feel it in your lungs before you breathe it out.”",
+          "ok": true,
+          "pos": 11385
+        },
+        {
+          "text": "“It tastes funny. I thought it would taste like grass, but it’s a little fruity.”",
+          "ok": true,
+          "pos": 11588
+        },
+        {
+          "text": "“That’s the pineapple.” Kam bumped her shoulder",
+          "ok": true,
+          "pos": 11667
+        }
+      ],
+      "words": 60
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Bonnie giggled, plopping onto the tattered sofa surrounded by the band’s empty cans. “Don’t you think hands are, like, s",
+          "ok": true,
+          "pos": 12382
+        },
+        {
+          "text": "Madison chuckled, her head light and chest warm. She dropped down beside her, the squeak of the leather making Bonnie gi",
+          "ok": true,
+          "pos": 12664
+        }
+      ],
+      "words": 86
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "Bonnie punched Madison’s thigh. “Damn. That’s hard. You could’ve broken my hand.” She cupped it, bringing it to her ches",
+          "ok": true,
+          "pos": 15978
+        },
+        {
+          "text": "“You know something?” Bonnie asked",
+          "ok": true,
+          "pos": 16334
+        },
+        {
+          "text": "Her focus fell to Bonnie’s cupid’s bow. Full and soft",
+          "ok": true,
+          "pos": 16374
+        },
+        {
+          "text": "Madison leaned closer, wetting her lips",
+          "ok": true,
+          "pos": 16467
+        },
+        {
+          "text": "“Your fingers kind of look like parsnips.”\"",
+          "ok": true,
+          "pos": 16508
+        },
+        {
+          "text": "Bonnie’s chest heaved, the sound of her breathing spiralling heat through Madison’s veins. She wanted to feel the swell ",
+          "ok": true,
+          "pos": 16949
+        }
+      ],
+      "words": 83
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“Sushi.” Bonnie rolled on her side, gaze brightening. “From The Blue Palace.”",
+          "ok": true,
+          "pos": 17918
+        },
+        {
+          "text": "“You’re a fucking pop star. If you want sushi, then get the sushi.”",
+          "ok": true,
+          "pos": 18114
+        },
+        {
+          "text": "“Yeah.” She nodded, pointing a finger at herself. “I’m Bonnie fucking Bloom.”",
+          "ok": true,
+          "pos": 18179
+        },
+        {
+          "text": "“Are you coming too?”",
+          "ok": true,
+          "pos": 18356
+        },
+        {
+          "text": "“Fuck it. Come on then.” Madison stood, pulling Bonnie with her",
+          "ok": true,
+          "pos": 18899
+        },
+        {
+          "text": "The buzz thrummed through her veins, a mixture of cannabis high and Bonnie high—which, in her opinion, was the more dang",
+          "ok": true,
+          "pos": 18962
+        }
+      ],
+      "words": 115
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 103,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 90,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 81,
+        "关键词": 0,
+        "为什么这样写": 88,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.54,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 110,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.49,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.5,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 77,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.43
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 70,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 40
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.46
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 38
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 30
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 131,
+        "关键词": 0,
+        "为什么这样写": 96,
+        "读者视角提示": 43
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 130,
+        "关键词": 0,
+        "为什么这样写": 124,
+        "读者视角提示": 87
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.52
+      }
+    }
+  ],
+  "form": {
+    "h1": "10. Chapter Ten",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 13,
+    "block_range": [
+      10,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 1,
+    "segments": 42,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3383,
+    "block_target": [
+      6,
+      11
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 26 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [
+      {
+        "block": "原句13",
+        "words": 115
+      }
+    ],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

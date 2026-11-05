@@ -1,0 +1,107 @@
+{
+ "chapter": "ch26",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "音乐室：Beethoven/rubato；妈妈讲小提琴教学轶事（Mummy, I can't sing like this）",
+   "anchor": "‘Mummy, I can’t sing like this’",
+   "range": [
+    2054,
+    2085
+   ]
+  },
+  {
+   "fact": "London Symphonies 巡演在即（好日子里提醒从不远）",
+   "anchor": "I can fit you in.",
+   "range": [
+    2463,
+    2480
+   ]
+  },
+  {
+   "fact": "Scarlett 来电传话威胁：LA 到北极没人敢合作/生涯完蛋；Bonnie 解放她：Bailey 不是你老板",
+   "anchor": "Bailey isn’t your boss. I am.",
+   "range": [
+    4418,
+    4447
+   ]
+  },
+  {
+   "fact": "第一道命令：派对别让 Bailey 进场+换酒店",
+   "anchor": "Get in touch with the security team",
+   "range": [
+    4981,
+    5016
+   ]
+  },
+  {
+   "fact": "cadenza 意象；Scratch 歌本新想法 scribbling",
+   "anchor": "stepping into a cadenza of her own",
+   "range": [
+    5404,
+    5438
+   ]
+  },
+  {
+   "fact": "派对：Neon Fist 厂牌/艺术场地；Nikita 被 first dibs 收买",
+   "anchor": "being artsy but not wanky",
+   "range": [
+    5644,
+    5669
+   ]
+  },
+  {
+   "fact": "Scarlett 崩溃爆料一：Grammys 根本没提交（给你教训）",
+   "anchor": "Bailey never submitted your work to the Grammys",
+   "range": [
+    8336,
+    8383
+   ]
+  },
+  {
+   "fact": "爆料二：women call/dates matched/spiked like high school",
+   "anchor": "when she was spiked",
+   "range": [
+    9779,
+    9798
+   ]
+  },
+  {
+   "fact": "演出后方看完：怪曾近在眼前；Bailey 不会得逞",
+   "anchor": "she hadn’t seen the monster in front of her",
+   "range": [
+    12830,
+    12873
+   ]
+  },
+  {
+   "fact": "走廊偷袭：ungrateful bitch/按墙；Bonnie 反击一千个更好的经理；white dust 鼻毛",
+   "anchor": "White dusted the hair of his nostrils",
+   "range": [
+    14509,
+    14546
+   ]
+  },
+  {
+   "fact": "Was it you?→不是否认→showbiz 扫地毯下→浴室拖入→咬掌→踢裆",
+   "anchor": "I’m Bonnie fucking Bloom.",
+   "range": [
+    17359,
+    17384
+   ]
+  },
+  {
+   "fact": "Madison 头槌放倒/保安警察到场；额头 Always?；Nikita 话筒→Yes, I would",
+   "anchor": "“Yes, I would.”",
+   "range": [
+    20181,
+    20196
+   ]
+  }
+ ],
+ "relations": [
+  "Scarlett＝转投 Bonnie",
+  "Malcolm＝律师（背景）",
+  "Roberto＝陪至警察来"
+ ]
+}

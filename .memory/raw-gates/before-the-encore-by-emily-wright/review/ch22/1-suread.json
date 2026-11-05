@@ -1,0 +1,81 @@
+{
+ "chapter": "ch22",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "回伦敦：worrier's curse；Dr Levingworth 把嫉妒归位——Madison 没给过怀疑理由",
+   "anchor": "projecting her insecurities about Olivia onto Madison wasn’t fair",
+   "range": [
+    754,
+    819
+   ]
+  },
+  {
+   "fact": "Knock knock/Prada 箱上睡着",
+   "anchor": "“Knock knock.”",
+   "range": [
+    2875,
+    2889
+   ]
+  },
+  {
+   "fact": "运动后开门/扛肩进屋/小公寓太白太崭新",
+   "anchor": "“Holy shit. What are you doing here?”",
+   "range": [
+    3393,
+    3430
+   ]
+  },
+  {
+   "fact": "马桶盖上聊天=domesticated；想为平淡写歌",
+   "anchor": "There was something domesticated",
+   "range": [
+    5530,
+    5562
+   ]
+  },
+  {
+   "fact": "PVRIS T 恤/katsu/不用筷子欣喜",
+   "anchor": "ecstatic about not having to use chopsticks",
+   "range": [
+    7261,
+    7304
+   ]
+  },
+  {
+   "fact": "问题缩小；歌本=音乐人至宝→pledge of allegiance 开价",
+   "anchor": "pledge of allegiance to the entity of Madison",
+   "range": [
+    9276,
+    9321
+   ]
+  },
+  {
+   "fact": "Good girl/拇指/How long do I have you for→几天",
+   "anchor": "“Good girl.”",
+   "range": [
+    10068,
+    10080
+   ]
+  },
+  {
+   "fact": "乔迁礼=加密录像；ground rules（不能自摸能摸你）/投电视/开音量",
+   "anchor": "“Are there any ground rules?”",
+   "range": [
+    13038,
+    13067
+   ]
+  },
+  {
+   "fact": "看录像：I nearly left that night/stuck on you long before that；torture/I'll make it worth it",
+   "anchor": "I was stuck on you long before that.",
+   "range": [
+    14938,
+    14974
+   ]
+  }
+ ],
+ "relations": [
+  "Minnie＝司机（后段电话戏在场）"
+ ]
+}

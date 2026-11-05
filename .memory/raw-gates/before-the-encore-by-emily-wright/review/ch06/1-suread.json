@@ -1,0 +1,84 @@
+{
+ "chapter": "ch06",
+ "pov": "Madison",
+ "facts": [
+  {
+   "fact": "特训日：假狗仔、Higher/Lower 手位、Carmen 拼图理论（留线索不官宣）",
+   "anchor": "give fans enough pieces to connect the dots themselves",
+   "range": [
+    1856,
+    1910
+   ]
+  },
+  {
+   "fact": "安全中位太柏拉图；经理/队友/尤其 Bonnie 明确：乱来=职业生涯终结",
+   "anchor": "any wayward romantic endeavours would be career ending",
+   "range": [
+    2413,
+    2467
+   ]
+  },
+  {
+   "fact": "红毯初体验：闪光灯、丁香紫裙、圣罗兰西装贵过她全部家当",
+   "anchor": "would cost more than those things put together",
+   "range": [
+    3276,
+    3322
+   ]
+  },
+  {
+   "fact": "红毯恐慌：护甲滑落，脑内响起亲妈判词 deadbeat, heartless, fuck-up",
+   "anchor": "A deadbeat, heartless, fuck-up",
+   "range": [
+    4052,
+    4082
+   ]
+  },
+  {
+   "fact": "访问：Bonnie 悬停后以「享受合作时光」带过 Are you dating",
+   "anchor": "We are enjoying spending time together",
+   "range": [
+    5053,
+    5091
+   ]
+  },
+  {
+   "fact": "回程车：不去 after party（照吩咐行事+看管 Madison 之烦）",
+   "anchor": "We do what we’re told, and that’s it.",
+   "range": [
+    8260,
+    8297
+   ]
+  },
+  {
+   "fact": "Bonnie 剖白：Kacey 是 celebri-friend、行业皆假——连我和你",
+   "anchor": "So much of this industry is fake. Even me and you.",
+   "range": [
+    9804,
+    9854
+   ]
+  },
+  {
+   "fact": "Madison 共鸣（人们连亲妈都只信故事）→I’m sorry→You can trust me；对视心跳失控",
+   "anchor": "You can trust me.",
+   "range": [
+    10900,
+    10917
+   ]
+  },
+  {
+   "fact": "结尾：缺席派对利于 narrative、默认回府；Bonnie 嘴角轻扬被捕获——that was enough",
+   "anchor": "But Madison caught the slight lift in her smile. And that was enough.",
+   "range": [
+    11418,
+    11487
+   ]
+  }
+ ],
+ "relations": [
+  "Carmen＝Bonnie 公关",
+  "Minnie＝司机",
+  "Kacey Kristie＝演员（celebri-friend）",
+  "John＝Bonnie 保镖"
+ ]
+}

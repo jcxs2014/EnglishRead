@@ -1,0 +1,107 @@
+{
+ "chapter": "ch14",
+ "pov": "Madison+Bonnie",
+ "facts": [
+  {
+   "fact": "London 购物：Ruby 试遍/三问黑裙；秃顶男士 solidarity",
+   "anchor": "I prefer the one with three-quarter sleeves",
+   "range": [
+    1604,
+    1647
+   ]
+  },
+  {
+   "fact": "Bonnie 心结：致谢后飞走=funny taste",
+   "anchor": "it left a funny taste in Madison’s mouth",
+   "range": [
+    3031,
+    3071
+   ]
+  },
+  {
+   "fact": "Meg 前史：有夫之妇；serious 不可能；algorithm/bullshit",
+   "anchor": "It could never be serious with someone like you.",
+   "range": [
+    5894,
+    5942
+   ]
+  },
+  {
+   "fact": "父亲旋转门：weaselled back、推妈妈回瓶；Ruby：You're not like Dad",
+   "anchor": "like a revolving door",
+   "range": [
+    7898,
+    7919
+   ]
+  },
+  {
+   "fact": "Ruby 道歉+总有一天要谈；Madison 承认妹妹对",
+   "anchor": "she knew she was right",
+   "range": [
+    8844,
+    8866
+   ]
+  },
+  {
+   "fact": "M&M World 报复游；糖果墙彩虹色——Maybe 给 Bonnie 也带些",
+   "anchor": "Maybe she should get some for Bonnie too",
+   "range": [
+    11449,
+    11489
+   ]
+  },
+  {
+   "fact": "被认出：ultimate couple goals；M&M 人偶像保镖挡路",
+   "anchor": "You’re ultimate couple goals!",
+   "range": [
+    12000,
+    12029
+   ]
+  },
+  {
+   "fact": "火警：唯一念头找到妹妹",
+   "anchor": "She had to find her sister.",
+   "range": [
+    12734,
+    12761
+   ]
+  },
+  {
+   "fact": "Katy 家：What are you avoiding",
+   "anchor": "What are you avoiding?",
+   "range": [
+    14896,
+    14918
+   ]
+  },
+  {
+   "fact": "attracted to her 承认；恐惧清单全文；What if they love it 回环",
+   "anchor": "What if they love it?",
+   "range": [
+    18343,
+    18364
+   ]
+  },
+  {
+   "fact": "父母话题：guilt tripled；Katy 陪去；You don't have to do it alone",
+   "anchor": "You don’t have to do it alone.",
+   "range": [
+    20233,
+    20263
+   ]
+  },
+  {
+   "fact": "Cheers to that",
+   "anchor": "child-free for another two hours",
+   "range": [
+    20499,
+    20531
+   ]
+  }
+ ],
+ "relations": [
+  "Olsa Rumna＝圈内歌手",
+  "Nathan＝Katy 丈夫",
+  "Meg＝酒吧旧情人"
+ ]
+}

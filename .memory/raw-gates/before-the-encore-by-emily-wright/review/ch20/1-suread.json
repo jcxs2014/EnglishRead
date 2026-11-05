@@ -1,0 +1,83 @@
+{
+ "chapter": "ch20",
+ "pov": "Madison",
+ "facts": [
+  {
+   "fact": "搬家：Ruby 陪拆/vests 玩笑；公寓是她的=证明六年值得",
+   "anchor": "Proof that all of the hours spent sleeping in the back of Frank’s van",
+   "range": [
+    760,
+    829
+   ]
+  },
+  {
+   "fact": "Ruby 补刀：像平民一样看到接吻视频；居然真的在约会",
+   "anchor": "I can’t believe you’re actually dating Bonnie Bloom.",
+   "range": [
+    1192,
+    1244
+   ]
+  },
+  {
+   "fact": "Pompeii 餐具/合唱插曲；You did it, Maddy；离 Bonnie 家十五分钟",
+   "anchor": "It was only fifteen minutes away",
+   "range": [
+    5085,
+    5117
+   ]
+  },
+  {
+   "fact": "异地 suck：八小时时差/刷视频解渴/Meg 变心恐惧",
+   "anchor": "What if she changed her mind about Madison, like Meg did?",
+   "range": [
+    6300,
+    6357
+   ]
+  },
+  {
+   "fact": "妈妈话题爆发：替母育儿清单/You're just like your dad 判词/她戒酒了——这话我听过",
+   "anchor": "She’s stopped drinking, you know.",
+   "range": [
+    8914,
+    8947
+   ]
+  },
+  {
+   "fact": "Ruby 含泪请求一次对话→I'll think about it→Bridesmaids 疗愈片",
+   "anchor": "I’ll think about it.",
+   "range": [
+    12317,
+    12337
+   ]
+  },
+  {
+   "fact": "凌晨回电：favourite part of the day；Sorry I wasn't there 复沓句",
+   "anchor": "But talking to you is my favourite part of the day.",
+   "range": [
+    14853,
+    14904
+   ]
+  },
+  {
+   "fact": "Ghost=我们的歌之争：I don't want you to be a ghost to me",
+   "anchor": "I don’t want you to be a ghost to me.",
+   "range": [
+    16099,
+    16136
+   ]
+  },
+  {
+   "fact": "摄像头录像在等；第一班机飞 LA；电话性爱：What are you wearing→She's yours, Madison",
+   "anchor": "She’s yours, Madison. She’s—oh god!",
+   "range": [
+    23095,
+    23130
+   ]
+  }
+ ],
+ "relations": [
+  "Ruby＝妹妹/室友暂住",
+  "Devika Singh＝邻居（猫展）",
+  "Demi/Alex＝Ruby 室友"
+ ]
+}

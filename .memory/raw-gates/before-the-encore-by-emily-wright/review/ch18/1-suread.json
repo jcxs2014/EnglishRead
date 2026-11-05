@@ -1,0 +1,115 @@
+{
+ "chapter": "ch18",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "真名揭晓：Nora Eldrich-Grech；Pop Factor 协议改名；Bailey 说改回会困惑粉丝",
+   "anchor": "My real name is Nora Eldrich-Grech",
+   "range": [
+    632,
+    666
+   ]
+  },
+  {
+   "fact": "Madison 劝换经纪人：Bailey is a dick；Bonnie：hope would only rot",
+   "anchor": "Bailey is a dick",
+   "range": [
+    1878,
+    1894
+   ]
+  },
+  {
+   "fact": "枕边秘密：After you left…I made myself come；Madison：so hot",
+   "anchor": "I made myself come.",
+   "range": [
+    3548,
+    3567
+   ]
+  },
+  {
+   "fact": "安防摄像头秘密：Caught all of it；Can we watch it→Abso-fucking-lutely",
+   "anchor": "M-my security cameras. Caught all of it.",
+   "range": [
+    4668,
+    4708
+   ]
+  },
+  {
+   "fact": "第二回合换沙发（better view）；dainty 感叹",
+   "anchor": "had a better view",
+   "range": [
+    5969,
+    5986
+   ]
+  },
+  {
+   "fact": "Pop Factor 黑暗谈话推迟：choose when to let that darkness in",
+   "anchor": "choose when to let that darkness in",
+   "range": [
+    7435,
+    7470
+   ]
+  },
+  {
+   "fact": "Madison 摊牌：This isn't a game to me；including you",
+   "anchor": "This isn’t a game to me.",
+   "range": [
+    8935,
+    8959
+   ]
+  },
+  {
+   "fact": "aggressively buttoning；beaver dammed 引 Bailey；I also did it because I like you",
+   "anchor": "I also did it because I like you.",
+   "range": [
+    9880,
+    9913
+   ]
+  },
+  {
+   "fact": "Bonnie 认惧：I am afraid/Powerful. Reckless. Alive./不想心碎",
+   "anchor": "I am afraid.",
+   "range": [
+    11151,
+    11163
+   ]
+  },
+  {
+   "fact": "赔率对所有人不利；LA 之约；I'll give you everything I have",
+   "anchor": "I’ll give you everything I have.",
+   "range": [
+    12411,
+    12443
+   ]
+  },
+  {
+   "fact": "浪漫家/chart 许可；gran roll in her grave；Nora 称呼落地",
+   "anchor": "Does this mean I can do your chart, please?",
+   "range": [
+    12550,
+    12593
+   ]
+  },
+  {
+   "fact": "终场：Version two acoustic 决定；Gretchen 调音递上；#Moomforever 牌",
+   "anchor": "Let’s do this acoustic.",
+   "range": [
+    15247,
+    15270
+   ]
+  },
+  {
+   "fact": "口型 Stay→side by side→舞台中央接吻撼动伦敦",
+   "anchor": "And the resulting roar rocked the entire city of London.",
+   "range": [
+    20451,
+    20507
+   ]
+  }
+ ],
+ "relations": [
+  "Duncan＝Bonnie 吉他手",
+  "Gretchen＝吉他",
+  "Siya 无（ch27）"
+ ]
+}

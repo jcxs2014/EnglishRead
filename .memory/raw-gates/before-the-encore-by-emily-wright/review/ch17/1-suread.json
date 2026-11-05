@@ -1,0 +1,106 @@
+{
+ "chapter": "ch17",
+ "pov": "Madison",
+ "facts": [
+  {
+   "fact": "大堂：手被拍开/Concierge 目击/Bonnie Bloom virus 大脑被接管",
+   "anchor": "a Bonnie Bloom virus",
+   "range": [
+    550,
+    570
+   ]
+  },
+  {
+   "fact": "电梯：Every inch of your body is perfect；princess/peasant foolishness 玩笑",
+   "anchor": "Every inch of your body is perfect",
+   "range": [
+    1018,
+    1052
+   ]
+  },
+  {
+   "fact": "电梯撞邻居：This isn't our floor/Are you in or out/For god's sake 戳关门键",
+   "anchor": "jabbing the close-door button repeatedly",
+   "range": [
+    2833,
+    2873
+   ]
+  },
+  {
+   "fact": "I love your laugh；mood dimmed/dials heightened；kneel at her feet",
+   "anchor": "I love your laugh.",
+   "range": [
+    3500,
+    3518
+   ]
+  },
+  {
+   "fact": "指纹开门：Welcome to the penthouse；diva/Karen wig 玩笑；扛进顶层",
+   "anchor": "Welcome to the penthouse",
+   "range": [
+    4727,
+    4751
+   ]
+  },
+  {
+   "fact": "全景 London：Shard/Gherkin/一百五十英里外谢菲尔德童年",
+   "anchor": "her childhood home in Sheffield",
+   "range": [
+    5669,
+    5700
+   ]
+  },
+  {
+   "fact": "慢速做爱哲学：could easily break/memorise every detail；sank low into her bones",
+   "anchor": "sank low into her bones",
+   "range": [
+    7092,
+    7115
+   ]
+  },
+  {
+   "fact": "Why? 脑内短路：No one had ever made her feel like this/So wanted",
+   "anchor": "So out of control. So…wanted.",
+   "range": [
+    8619,
+    8648
+   ]
+  },
+  {
+   "fact": "Am I making you uncomfortable?→talk first→I do like you, Madison→not going to run",
+   "anchor": "I do like you, Madison.",
+   "range": [
+    9751,
+    9774
+   ]
+  },
+  {
+   "fact": "life ring 比喻；taste you/All of you→counter",
+   "anchor": "like she’d been treading water for days",
+   "range": [
+    10301,
+    10340
+   ]
+  },
+  {
+   "fact": "beautiful 之辩：hot/gorgeous/handsome 有、beautiful 无；masc and beautiful；reclaim",
+   "anchor": "“You can be masc and be beautiful,”",
+   "range": [
+    15887,
+    15922
+   ]
+  },
+  {
+   "fact": "And mine, her brain added；new word for you；socials 收尾",
+   "anchor": "And mine, her brain added.",
+   "range": [
+    17237,
+    17263
+   ]
+  }
+ ],
+ "relations": [
+  "Concierge＝门房",
+  "邻居男＝金发油头"
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "chapter": "ch04",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "协议细则：双方专辑各收录一首、乐队整体署名；Lipstick Fever 换得 Evan/录音室录 White Smoke",
+   "anchor": "featuring Bonnie’s vocals",
+   "range": [
+    977,
+    1002
+   ]
+  },
+  {
+   "fact": "Madison 化解到场疑惑、迷倒 Evan、Scarlett 羞红",
+   "anchor": "reducing Scarlett to a colour matching her name",
+   "range": [
+    424,
+    471
+   ]
+  },
+  {
+   "fact": "休息室对峙：princess 称呼、成功学吵架、lube 双关",
+   "anchor": "It’s part of the package, princess",
+   "range": [
+    4100,
+    4134
+   ]
+  },
+  {
+   "fact": "Bonnie 体操记忆被按回",
+   "anchor": "blurred lights, thumping music, sweaty bodies",
+   "range": [
+    5220,
+    5265
+   ]
+  },
+  {
+   "fact": "玻璃房偷听：Ghost 首唱 raw/unfiltered；第一次为合作兴奋",
+   "anchor": "I never believed in ghosts ’til I met you",
+   "range": [
+    10953,
+    10994
+   ]
+  },
+  {
+   "fact": "嫉妒+孤独自白：人走得比换装快；感情亦然",
+   "anchor": "gone faster than a costume change",
+   "range": [
+    12339,
+    12372
+   ]
+  },
+  {
+   "fact": "Roberto 报泄露照片；Bailey 提案假装恋爱",
+   "anchor": "A picture has been leaked to the media",
+   "range": [
+    15227,
+    15265
+   ]
+  },
+  {
+   "fact": "拒绝 I won’t lie to my fans→威胁→逃进车哭",
+   "anchor": "Please, take me home",
+   "range": [
+    19706,
+    19726
+   ]
+  }
+ ],
+ "relations": [
+  "Evan Danso＝制作人",
+  "Scarlett＝Bailey 助理",
+  "Blossoms＝Bonnie 粉丝名",
+  "White Smoke＝乐队单曲"
+ ]
+}

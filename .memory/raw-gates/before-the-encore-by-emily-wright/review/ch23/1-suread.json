@@ -1,0 +1,98 @@
+{
+ "chapter": "ch23",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "strap 之夜：tripped/half harness→promise 兑现",
+   "anchor": "I made you a promise that your patience would be rewarded",
+   "range": [
+    2264,
+    2321
+   ]
+  },
+  {
+   "fact": "窗倒影 Say it→I'm yours；reflections 喜好",
+   "anchor": "“I can see us,”",
+   "range": [
+    8424,
+    8439
+   ]
+  },
+  {
+   "fact": "loaded gun/异地该判刑；回敬口爱→housewarming present/冰沙机玩笑",
+   "anchor": "“That was some housewarming present.”",
+   "range": [
+    12075,
+    12112
+   ]
+  },
+  {
+   "fact": "计划：Release the album. Tour. Roberto 想再合作→dread/parasite",
+   "anchor": "Release the album. Tour.",
+   "range": [
+    13020,
+    13044
+   ]
+  },
+  {
+   "fact": "歌本：Fuck Off Madison Moore 开场笑→真词 She changes everything/Be my lightning, I'm your thunder",
+   "anchor": "Be my lightning, I’m your thunder",
+   "range": [
+    15284,
+    15317
+   ]
+  },
+  {
+   "fact": "lightning bolt 自述/二重唱想象/I miss singing with you",
+   "anchor": "I miss singing with you.",
+   "range": [
+    16382,
+    16406
+   ]
+  },
+  {
+   "fact": "Ghost 之问→Olivia 承认：low key dating、对方消失不回消息",
+   "anchor": "then we dated, low key",
+   "range": [
+    19723,
+    19745
+   ]
+  },
+  {
+   "fact": "What a bitch→I'll tell Roberto no→不必→那是我想做的",
+   "anchor": "“I’ll tell Roberto no.”",
+   "range": [
+    21275,
+    21298
+   ]
+  },
+  {
+   "fact": "爱之清单 brilliant/smart/dirty/strongest；I wish I could be more like you",
+   "anchor": "I wish I could be more like you.",
+   "range": [
+    22706,
+    22738
+   ]
+  },
+  {
+   "fact": "Frank 看合同/请律师/we'll get a lawyer→I do deserve better",
+   "anchor": "“I do deserve better.”",
+   "range": [
+    23817,
+    23839
+   ]
+  },
+  {
+   "fact": "互换：陪你看妈妈（仅当你想）→We'll see→月光到晨光",
+   "anchor": "If you want to see your mum, I can come with you.",
+   "range": [
+    24061,
+    24110
+   ]
+  }
+ ],
+ "relations": [
+  "Roberto＝乐队经理",
+  "Malcolm Joy＝律师"
+ ]
+}

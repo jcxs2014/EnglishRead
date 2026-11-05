@@ -1,0 +1,108 @@
+{
+ "chapter": "ch27",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "Nikita 罕见微笑：quite a year；UNITY Festival 后台",
+   "anchor": "It’s been quite a year for the princess of pop",
+   "range": [
+    119,
+    165
+   ]
+  },
+  {
+   "fact": "倡议：spiking 立独立刑事罪行/场所强制上报；Spike Aware 全球大使",
+   "anchor": "making spiking a separate criminal offence",
+   "range": [
+    828,
+    870
+   ]
+  },
+  {
+   "fact": "Bailey 案：她与 Scarlett 出证词+本人陈述；氯胺酮堆+可疑搜索+炫耀短信；审判需时",
+   "anchor": "the stacks of ketamine found at Bailey’s apartment",
+   "range": [
+    1610,
+    1660
+   ]
+  },
+  {
+   "fact": "把力量拿回自己：改污名而非盯 Bailey；做有意义的事",
+   "anchor": "giving that power back to herself",
+   "range": [
+    2585,
+    2618
+   ]
+  },
+  {
+   "fact": "Siya 重活/赞助覆盖/门票周边直进 Spike Aware；卖顶层公寓自捐一大笔",
+   "anchor": "Siya did a lot of heavy lifting",
+   "range": [
+    4119,
+    4150
+   ]
+  },
+  {
+   "fact": "后台：Madison 背后抱→Ruby 撞破 Get a room→Cheestrings 八卦/求介绍 James Bowman",
+   "anchor": "“Ewwww! Get a room!”",
+   "range": [
+    5605,
+    5625
+   ]
+  },
+  {
+   "fact": "日间盛况：Olivia 问年度化——celebri-friend 也能做真改变",
+   "anchor": "having celebri-friends had benefits too",
+   "range": [
+    6857,
+    6896
+   ]
+  },
+  {
+   "fact": "VIP：Katy 与 Madison 妈妈同框欢呼；找不到妈妈的脸——太吵，希望在家和爸爸看",
+   "anchor": "unable to find her mum’s face",
+   "range": [
+    7414,
+    7443
+   ]
+  },
+  {
+   "fact": "惊喜：新专辑 Nora/特别嘉宾；幕布开=弦乐团",
+   "anchor": "I’ve been working on my new album—Nora",
+   "range": [
+    7873,
+    7911
+   ]
+  },
+  {
+   "fact": "Lightning and Thunder 首演=Madison 赠歌；trust my own voice 宣言",
+   "anchor": "Madison had gifted Bonnie the song",
+   "range": [
+    8105,
+    8139
+   ]
+  },
+  {
+   "fact": "妈妈的在场随每个音符搏动；fingers laced；So herself",
+   "anchor": "The presence of her mum was so profound",
+   "range": [
+    8638,
+    8677
+   ]
+  },
+  {
+   "fact": "She wasn't just Bonnie Bloom→Nora fucking Eldrich-Grech→张口合唱→THE END",
+   "anchor": "She was Nora fucking Eldrich-Grech.",
+   "range": [
+    9336,
+    9371
+   ]
+  }
+ ],
+ "relations": [
+  "Siya＝新经纪人",
+  "Nikita＝记者（关系重置）",
+  "Olivia/Olsa＝对等合作者",
+  "Katy/Madison 妈妈/VIP 区"
+ ]
+}

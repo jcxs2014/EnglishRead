@@ -1,0 +1,77 @@
+{
+ "chapter": "ch01",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "Bonnie 在 Bailey 办公室等 Lipstick Fever；Frank/Kamaria 在场，Madison 迟到未到",
+   "anchor": "Every fibre in Bonnie’s body warned her this was a bad idea",
+   "range": [
+    30,
+    89
+   ]
+  },
+  {
+   "fact": "Bonnie 资历：Brits Artist of the Year 两年连庄 + 三座格莱美",
+   "anchor": "winner of the Brits Artist of the Year two years in a row and had three Grammys",
+   "range": [
+    9719,
+    9798
+   ]
+  },
+  {
+   "fact": "Madison 与 Bailey 搂肩大笑进场，未向 Bonnie 致意或道歉",
+   "anchor": "Bailey burst in with his arm around Madison’s shoulders, deep in a fit of laughter",
+   "range": [
+    5575,
+    5657
+   ]
+  },
+  {
+   "fact": "Bailey 提案：两张专辑各收录一首合作曲，交叉引流",
+   "anchor": "feature on one song from each album",
+   "range": [
+    10436,
+    10471
+   ]
+  },
+  {
+   "fact": "Madison 质疑粉丝反应，讥 Bonnie 为 Princess Bubblegum",
+   "anchor": "teaming up with Princess Bubblegum",
+   "range": [
+    11052,
+    11086
+   ]
+  },
+  {
+   "fact": "Bonnie 发表英式饼干演说（Hobnobs/digestives/bourbons）",
+   "anchor": "She means a British chocolate biscuit",
+   "range": [
+    4676,
+    4713
+   ]
+  },
+  {
+   "fact": "Madison 讥「rainbows and sparkles / My Little Pony」，并指出她牙上沾口红",
+   "anchor": "You have lipstick on your teeth",
+   "range": [
+    12109,
+    12140
+   ]
+  },
+  {
+   "fact": "走廊对峙：董事会压力+录音只几天，Bonnie 妥协",
+   "anchor": "Fine, but this better be worth it, Bailey",
+   "range": [
+    15437,
+    15478
+   ]
+  }
+ ],
+ "relations": [
+  "Bailey＝Bonnie 经纪人",
+  "Roberto＝Lipstick Fever 经理",
+  "Frank/Kamaria＝乐队成员",
+  "Scarlett＝Bailey 助理",
+  "Dr Levingworth＝Bonnie 医生"
+ ]
+}

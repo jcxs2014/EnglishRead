@@ -1,0 +1,83 @@
+{
+ "chapter": "ch11",
+ "pov": "Madison",
+ "facts": [
+  {
+   "fact": "豪宅：四水景/巨门/imposter 病发芽（Sheffield 排屋可塞进厨房四倍）",
+   "anchor": "imposter, you don’t belong here",
+   "range": [
+    1393,
+    1424
+   ]
+  },
+  {
+   "fact": "九间浴室+桑拿邀约——脑补裸体 Bonnie 而拒绝（抽过烟不该蒸）",
+   "anchor": "You shouldn’t use the sauna when you’ve had a smoke.",
+   "range": [
+    3010,
+    3062
+   ]
+  },
+  {
+   "fact": "瑜伽话题→欲望失控→再不拴住会把一切搞砸",
+   "anchor": "get her libido leashed",
+   "range": [
+    4610,
+    4632
+   ]
+  },
+  {
+   "fact": "浴室独白：假契约从未禁真行动——会让故事更可信",
+   "anchor": "It would make their story more convincing.",
+   "range": [
+    5711,
+    5753
+   ]
+  },
+  {
+   "fact": "泳池躺椅：You look like you're about to be sacrificed；iPod 之问",
+   "anchor": "Why do you always carry that iPod with you?",
+   "range": [
+    7970,
+    8013
+   ]
+  },
+  {
+   "fact": "iPod=妈妈的：酗酒、零工、12 岁生日唯一礼物；Jelly Tots+Friends+清醒的妈妈",
+   "anchor": "I could listen to music 24/7",
+   "range": [
+    9448,
+    9476
+   ]
+  },
+  {
+   "fact": "目的宣言：为 Ruby 的车与首付；妈妈判词 You're just like your father",
+   "anchor": "You’re just like your father, Madison.",
+   "range": [
+    10533,
+    10571
+   ]
+  },
+  {
+   "fact": "数月不联系、Ruby 当调解人；Bonnie 牵手；你明明在乎→It's easier→I can be lonely too",
+   "anchor": "I can be lonely too.",
+   "range": [
+    12164,
+    12184
+   ]
+  },
+  {
+   "fact": "初吻：Madison 主导（Fuck it）→Bonnie 回吻抓腰→Don't you dare stop kissing me",
+   "anchor": "Don’t you dare stop kissing me.",
+   "range": [
+    14191,
+    14222
+   ]
+  }
+ ],
+ "relations": [
+  "Lee/Jane＝Bonnie 父母（后章名）",
+  "Ruby＝妹妹",
+  "Gretchen／iPod＝物件锚"
+ ]
+}

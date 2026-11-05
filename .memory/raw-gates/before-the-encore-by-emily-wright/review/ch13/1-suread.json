@@ -1,0 +1,91 @@
+{
+ "chapter": "ch13",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "晨醒：打鼾声/长腿/纹身/屁股——一夜多次；不记得设闹钟",
+   "anchor": "But who’s snoring?",
+   "range": [
+    166,
+    184
+   ]
+  },
+  {
+   "fact": " bleach it+Rory Lukris 派对恐惧+烟=不负责任→重置大脑",
+   "anchor": "a repeat of Rory Lukris’s party",
+   "range": [
+    1646,
+    1677
+   ]
+  },
+  {
+   "fact": "楼下衣物=NSFW Easter egg hunt； Grinder 问题：如何同台/她知道我味道",
+   "anchor": "like a NSFW Easter egg hunt",
+   "range": [
+    3079,
+    3106
+   ]
+  },
+  {
+   "fact": "Olivia tag+DM 未回；Katy 孩子跳 Live Forever——如实回 confusing",
+   "anchor": "she answered honestly",
+   "range": [
+    6315,
+    6336
+   ]
+  },
+  {
+   "fact": "Gretchen 第一把琴/贴纸；歌本改题 I’ve fucked Madison Moore",
+   "anchor": "I’ve fucked Madison Moore",
+   "range": [
+    9435,
+    9460
+   ]
+  },
+  {
+   "fact": "Escape 被拒歌：Bailey 说太慢无聊；歌词 drive fast/crash/escape",
+   "anchor": "to truly escape",
+   "range": [
+    10705,
+    10720
+   ]
+  },
+  {
+   "fact": "Madison 睡袍偷听+It brings out my eyes+breezy",
+   "anchor": "I’ve not heard you sing like that before.",
+   "range": [
+    10861,
+    10902
+   ]
+  },
+  {
+   "fact": "不能再发生→被拆穿（show morale）→people like you→Hurt flashed→Right→离开",
+   "anchor": "each echoing footstep landing like a punch to her gut",
+   "range": [
+    14203,
+    14256
+   ]
+  },
+  {
+   "fact": "化妆间道歉→You confuse me→Prove it→引手入内→Kelsie 敲门→continue this later",
+   "anchor": "“Prove it.”",
+   "range": [
+    19570,
+    19581
+   ]
+  },
+  {
+   "fact": "锁门自渎：Lipstick Fever 出场乐中高潮，咒骂 Madison Moore",
+   "anchor": "cursing Madison Moore",
+   "range": [
+    22735,
+    22756
+   ]
+  }
+ ],
+ "relations": [
+  "Kelsie＝舞台监督",
+  "Rory Lukris＝旧导师",
+  "Gretchen＝粉色 Gretsch 吉他"
+ ]
+}

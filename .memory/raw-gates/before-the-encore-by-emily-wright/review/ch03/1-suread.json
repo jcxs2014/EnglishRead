@@ -1,0 +1,77 @@
+{
+ "chapter": "ch03",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "Bonnie 晨间瑜伽+mantra 三句；歌词本最新页标题 Fuck Off Madison Moore",
+   "anchor": "Fuck Off Madison Moore",
+   "range": [
+    1799,
+    1821
+   ]
+  },
+  {
+   "fact": "LA 近七年、山顶大宅不像家；与妈妈话题复杂、不敢拨电话；专辑扑街=职业生涯完蛋",
+   "anchor": "It’d been nearly seven years since she moved",
+   "range": [
+    2446,
+    2490
+   ]
+  },
+  {
+   "fact": "焦虑比喻：即将变轨而她是同谋乘客",
+   "anchor": "she was a complicit passenger",
+   "range": [
+    4421,
+    4450
+   ]
+  },
+  {
+   "fact": "车上经 Santa Monica pier：童年随妈妈来过（玉米热狗/蓝棉花糖/摩天轮）",
+   "anchor": "She ate her first—and last—corn dog",
+   "range": [
+    5559,
+    5594
+   ]
+  },
+  {
+   "fact": "7-Eleven 门口发现 Madison：手机没电、穿昨天同一身、脖子上口红印、一身酒气",
+   "anchor": "Is that…lipstick on your neck?",
+   "range": [
+    8812,
+    8842
+   ]
+  },
+  {
+   "fact": "Bonnie 当街训话：十一年资历、迟到 Evan Danso 不专业且侮辱，会伤到她自己与队友",
+   "anchor": "It’s not cool or ‘rock’ or whatever; it’s unprofessional",
+   "range": [
+    12927,
+    12983
+   ]
+  },
+  {
+   "fact": "Madison 出人意料认错：You’re right. I’m sorry / I fucked up last night",
+   "anchor": "You’re right. I’m sorry.",
+   "range": [
+    13494,
+    13518
+   ]
+  },
+  {
+   "fact": "车内颈项瞬间：Bonnie 盯脉动闪过唇触念头随即甩开；进录音室时 mantra 退成空话",
+   "anchor": "how it might feel underneath her lips",
+   "range": [
+    15171,
+    16004
+   ]
+  }
+ ],
+ "relations": [
+  "Minnie＝Bonnie 司机",
+  "Katy＝童年挚友（幼女 Lyra）",
+  "妈妈＝前小提琴手（话题复杂）",
+  "Evan Danso＝制作方",
+  "Dr Levingworth＝医生（背景）"
+ ]
+}

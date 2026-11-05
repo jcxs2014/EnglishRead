@@ -1,0 +1,461 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/before-the-encore-by-emily-wright/ch06 red carpet debut.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/before-the-encore-by-emily-wright/text/ch06_chapter_six.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Madison leaned closer to Bonnie, breathing in her sweet scent: honey and vanilla and something else that Madison couldn’",
+          "ok": true,
+          "pos": 24
+        },
+        {
+          "text": "“Higher,” Bonnie ground out through gritted teeth",
+          "ok": true,
+          "pos": 318
+        },
+        {
+          "text": "“Lower!” Bailey insisted, clacking as he rolled chewing gum around his mouth",
+          "ok": true,
+          "pos": 367
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Carmen straightened her white blazer, pressing her lips together. Her strong brows flattened into her practiced composed",
+          "ok": true,
+          "pos": 1551
+        }
+      ],
+      "words": 68
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Carmen crossed the room, sliding Madison’s hand to a safe middle-ground that felt far too platonic in her experience. Di",
+          "ok": true,
+          "pos": 2023
+        },
+        {
+          "text": "Bailey cut her an amused glance, chewing gum rolling around his open mouth. The man seemed full of talk, but Madison had",
+          "ok": true,
+          "pos": 2396
+        }
+      ],
+      "words": 95
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "As soon as Madison stepped out the car, cameras flashed in her face, blinding her. She held out her hand for Bonnie to t",
+          "ok": true,
+          "pos": 2705
+        },
+        {
+          "text": "She didn’t have an apartment or a car—but she was walking the red carpet of the latest Kacey Kristie film in a black Sai",
+          "ok": true,
+          "pos": 3043
+        }
+      ],
+      "words": 91
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She stood as celebrities chatted within a stone’s throw of her, journalists and paparazzi circling like predators. Her f",
+          "ok": true,
+          "pos": 3621
+        },
+        {
+          "text": "A million eyes were on her. Everyone would see this. Her teachers, her exes, her own mother. “A deadbeat, heartless, fuc",
+          "ok": true,
+          "pos": 3850
+        },
+        {
+          "text": "She snapped out of her reverie. Let them eat it up",
+          "ok": true,
+          "pos": 4023
+        }
+      ],
+      "words": 72
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Bonnie nodded. “We’re good friends.”",
+          "ok": true,
+          "pos": 4724
+        },
+        {
+          "text": "“Fans are speculating.” He leaned closer, arching an eyebrow. “Are you two dating?”",
+          "ok": true,
+          "pos": 4758
+        },
+        {
+          "text": "Bonnie let the question sit, glancing at Madison before answering. “We are enjoying spending time together while we work",
+          "ok": true,
+          "pos": 4838
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“So?” Bonnie sat upright. “We do what we’re told, and that’s it.”",
+          "ok": true,
+          "pos": 7956
+        },
+        {
+          "text": "Bonnie balked, shaking her head. “Because, Madison, if we don’t do what we’re supposed to, this could blow up in both ou",
+          "ok": true,
+          "pos": 8021
+        }
+      ],
+      "words": 71
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“She’s not my friend. Not really.” Bonnie folded her hands in her lap, her gaze pinned out the window, though there was ",
+          "ok": true,
+          "pos": 9142
+        },
+        {
+          "text": "“Don’t you realise it yet? So much of this industry is fake. Even me and you.”",
+          "ok": true,
+          "pos": 9434
+        },
+        {
+          "text": "Bonnie sighed. “When you’ve been in the industry as long as me, you’ll understand. It’s exhausting. Pressure comes from ",
+          "ok": true,
+          "pos": 9666
+        }
+      ],
+      "words": 97
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "The words struck Madison. That feeling",
+          "ok": true,
+          "pos": 9899
+        },
+        {
+          "text": "it echoed around her too. People heard her name, saw the stories about her, and assumed the worst. Even her own mother. ",
+          "ok": true,
+          "pos": 9938
+        },
+        {
+          "text": "An unexpected sadness sank into her chest. Who knew they’d have something in common",
+          "ok": true,
+          "pos": 10151
+        },
+        {
+          "text": "“I’m sorry,” she murmured",
+          "ok": true,
+          "pos": 10235
+        }
+      ],
+      "words": 64
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Bonnie lifted her shoulders. “It’s better than being in a room full of people who’d stab you in the back for a front cov",
+          "ok": true,
+          "pos": 10259
+        },
+        {
+          "text": "“I wouldn’t do that.” Her words lingered. Madison pulled at the collar of her shirt, feeling hot. “I meant what I said t",
+          "ok": true,
+          "pos": 10386
+        },
+        {
+          "text": "Their gazes locked. As Bonnie studied her, peeling back a layer, her heart hit a rhythm she couldn’t control. What did s",
+          "ok": true,
+          "pos": 10550
+        }
+      ],
+      "words": 85
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "Then Bonnie blew out a breath, dispersing the moment. She adjusted the satin draped over her knee. “Anyway, our absence ",
+          "ok": true,
+          "pos": 10700
+        },
+        {
+          "text": "But Madison caught the slight lift in her smile. And that was enough",
+          "ok": true,
+          "pos": 11014
+        }
+      ],
+      "words": 55
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 76,
+        "关键词": 0,
+        "为什么这样写": 106,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.61,
+        "关键词": 0.0,
+        "为什么这样写": 0.7,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 87,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.65,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 117,
+        "关键词": 0,
+        "为什么这样写": 105,
+        "读者视角提示": 37
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.49
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 97,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.63,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 99,
+        "关键词": 0,
+        "为什么这样写": 117,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.6
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 102,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.54,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.48,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 96,
+        "关键词": 0,
+        "为什么这样写": 104,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.59,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 91,
+        "关键词": 0,
+        "为什么这样写": 93,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 107,
+        "关键词": 0,
+        "为什么这样写": 109,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 84,
+        "关键词": 0,
+        "为什么这样写": 101,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.56,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "06. Chapter Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 11,
+    "block_median": 13,
+    "block_range": [
+      10,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 11,
+    "quote_long": 0,
+    "segments": 28,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1916,
+    "block_target": [
+      3,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 26 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

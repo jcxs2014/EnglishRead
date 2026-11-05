@@ -1,0 +1,76 @@
+{
+ "chapter": "ch02",
+ "pov": "Madison",
+ "facts": [
+  {
+   "fact": "Madison 会后向乐队摊牌「玩笑计划」：骗到合作再当面嘲笑",
+   "anchor": "We managed to infiltrate the lair of a corporate puppet",
+   "range": [
+    415,
+    470
+   ]
+  },
+  {
+   "fact": "Madison 骂 Bailey 为一枚 Tic Tac 出卖乐队、Bonnie 是 Little Miss Perfect，宣言「这不是我们」",
+   "anchor": "He’d sell you down the river for as little as a Tic Tac",
+   "range": [
+    2112,
+    2167
+   ]
+  },
+  {
+   "fact": "乐队成立六年：从 Frank 妈妈车库到酒馆到 Leeds Festival，仍缺突破",
+   "anchor": "The band had been six long years in the making",
+   "range": [
+    3456,
+    3502
+   ]
+  },
+  {
+   "fact": "Roberto 三层说服：headline/全球巡演→人脉论→酷儿社群是金矿",
+   "anchor": "Tapping into her queer community would be striking a gold mine",
+   "range": [
+    5296,
+    5358
+   ]
+  },
+  {
+   "fact": "Madison 被将军后松口：Fine / Yep. I’m in",
+   "anchor": "Yep. I’m in.",
+   "range": [
+    5919,
+    5931
+   ]
+  },
+  {
+   "fact": "签约：合同/NDA/版权文件签到手酸",
+   "anchor": "Contracts. NDAs. Copyrights.",
+   "range": [
+    6607,
+    6635
+   ]
+  },
+  {
+   "fact": "庆功酒吧：Roberto 规矩三条、自称魔童们的骄傲",
+   "anchor": "My demonic children finally saw the light",
+   "range": [
+    7756,
+    7797
+   ]
+  },
+  {
+   "fact": "夜深：Madison 误把金发女看成 Bonnie，仍与之调情；Kam 翻白眼先走，她多点一杯",
+   "anchor": "One more drink couldn’t hurt",
+   "range": [
+    11799,
+    11827
+   ]
+  }
+ ],
+ "relations": [
+  "Roberto＝Lipstick Fever 经理",
+  "Frank/Kamaria＝乐队成员（六年战友）",
+  "Neon Fist＝乐队独立厂牌",
+  "Kam 想要六分钟鼓 solo / Frank 觉得马尾酷"
+ ]
+}

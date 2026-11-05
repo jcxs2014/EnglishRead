@@ -1,0 +1,107 @@
+{
+ "chapter": "ch16",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "Thornberry Lodge 车道：紧张/墨镜遮不安；城堡还是恶龙",
+   "anchor": "the princess’s castle or the guarded dragon’s keep",
+   "range": [
+    906,
+    956
+   ]
+  },
+  {
+   "fact": "父母红色 Volvo 落灰；爸爸多年抗拒后因妈妈走失被车蹭才接受全天护理",
+   "anchor": "admit he needed help",
+   "range": [
+    2337,
+    2357
+   ]
+  },
+  {
+   "fact": "六个月没见；正要走时看见爸爸挽妈妈——She's happy. It's a good day",
+   "anchor": "She’s happy. It’s a good day.",
+   "range": [
+    4766,
+    4795
+   ]
+  },
+  {
+   "fact": "联系 Madison：Give me two minutes/I'll get an Uber/踢到 Kam 行李箱",
+   "anchor": "Send me the address. I’ll be there as soon as I can.",
+   "range": [
+    7394,
+    7446
+   ]
+  },
+  {
+   "fact": "社媒：#moomforever 鲨鱼比喻；Olivia DM 未回=What Olivia wants, she gets",
+   "anchor": "What Olivia wants, she gets.",
+   "range": [
+    9295,
+    9323
+   ]
+  },
+  {
+   "fact": "Madison 到场：黑普锐斯/长腿；拥抱举脚尖——knot 松开",
+   "anchor": "the knot in her chest loosened",
+   "range": [
+    10837,
+    10867
+   ]
+  },
+  {
+   "fact": "入宅：Mel 登记；Eldrich-Grech=马耳他曾祖",
+   "anchor": "My great grandad was from Malta",
+   "range": [
+    13170,
+    13201
+   ]
+  },
+  {
+   "fact": "音乐室：Venus by Gustav Holst；Nora 呼唤；It's a pleasure to meet you both",
+   "anchor": "“Nora,” she breathed",
+   "range": [
+    14824,
+    14844
+   ]
+  },
+  {
+   "fact": "妈妈问唱歌/八间浴室/三块糖；Practise makes perfect",
+   "anchor": "Have you heard my girl sing? She’s wonderful.",
+   "range": [
+    16820,
+    16865
+   ]
+  },
+  {
+   "fact": "after party 误提→妈妈 I never miss a show!→表情滑落→爸爸 We have tickets 打圆场",
+   "anchor": "I never miss a show!",
+   "range": [
+    20451,
+    20471
+   ]
+  },
+  {
+   "fact": "妈妈抱 Madison：so glad my girl's found someone nice；I'll take care of her",
+   "anchor": "I’ll take care of her.",
+   "range": [
+    19541,
+    19563
+   ]
+  },
+  {
+   "fact": "回程车里：Madison 百次道歉→Bonnie 吻谢→Are you coming in?",
+   "anchor": "“Are you coming in?”",
+   "range": [
+    22664,
+    22684
+   ]
+  }
+ ],
+ "relations": [
+  "Mel＝护理团队长",
+  "Jane/Lee Eldrich-Grech＝父母",
+  "Katy＋Nathan＋三孩"
+ ]
+}

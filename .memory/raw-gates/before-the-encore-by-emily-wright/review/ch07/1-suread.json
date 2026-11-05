@@ -1,0 +1,76 @@
+{
+ "chapter": "ch07",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "Nikita 专访：Olivia Steinberg 提名戳肋（被甩、传闻恋情）",
+   "anchor": "Olivia Steinberg, for example",
+   "range": [
+    1300,
+    1329
+   ]
+  },
+  {
+   "fact": "假恋爱实为被逼：没有经理就没专辑；queer curvy 女歌手经理难找",
+   "anchor": "didn’t grow on trees",
+   "range": [
+    2979,
+    2999
+   ]
+  },
+  {
+   "fact": "Madison 被问单身→反问调戏；iPod sentimental 挡回",
+   "anchor": "It’s sentimental.",
+   "range": [
+    6071,
+    6088
+   ]
+  },
+  {
+   "fact": "Grammys 旧推被翻出（Yawn）→Madison 定性 foreplay 救场",
+   "anchor": "That’s just foreplay.",
+   "range": [
+    7802,
+    7823
+   ]
+  },
+  {
+   "fact": "喷泉照：Madison 扛起 Bonnie——delicate doll；她喜欢但禁止自己喜欢",
+   "anchor": "Bonnie could not like it.",
+   "range": [
+    9960,
+    9985
+   ]
+  },
+  {
+   "fact": "寿司桌：筷子教学手把手、navel 热麻；Pop Factor 试探→僵住→灌水压惊",
+   "anchor": "How little you want to talk about your time on The Pop Factor",
+   "range": [
+    16605,
+    16666
+   ]
+  },
+  {
+   "fact": "Madison 为 Grammys 旧评道歉被 Bailey 电话打断",
+   "anchor": "About the Grammys. The comment I made.",
+   "range": [
+    18271,
+    18309
+   ]
+  },
+  {
+   "fact": "董事会批准巡游：We’re going on tour",
+   "anchor": "We’re going on tour.",
+   "range": [
+    19068,
+    19088
+   ]
+  }
+ ],
+ "relations": [
+  "Nikita Dixon＝记者",
+  "Olivia Steinberg＝前任传闻对象",
+  "Carmen＝公关",
+  "John＝保镖（六呎五）"
+ ]
+}

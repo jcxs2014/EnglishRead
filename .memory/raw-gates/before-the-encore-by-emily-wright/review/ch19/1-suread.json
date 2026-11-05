@@ -1,0 +1,91 @@
+{
+ "chapter": "ch19",
+ "pov": "Bonnie",
+ "facts": [
+  {
+   "fact": "派对贴墙：skin crawl；标题两连；for real 如释重负",
+   "anchor": "not fake-dating Madison Moore—but doing it for real",
+   "range": [
+    2165,
+    2216
+   ]
+  },
+  {
+   "fact": "巡逻癖：盯年轻女性酒杯/身体语言——She just liked to…check",
+   "anchor": "She just liked to…check",
+   "range": [
+    2482,
+    2505
+   ]
+  },
+  {
+   "fact": "Olivia 丝滑贴身：three of us 暗示；Bonnie 藉早班机脱身",
+   "anchor": "I’m sure the three of us could have a lot of fun together.",
+   "range": [
+    6404,
+    6462
+   ]
+  },
+  {
+   "fact": "舞池：猪排游鳄鱼沼；Too many hands/voices→恐慌",
+   "anchor": "Too many hands. Too many voices.",
+   "range": [
+    7021,
+    7053
+   ]
+  },
+  {
+   "fact": "闪回：Rory 雪茄/黄蜂贵西装/十八岁黏地板/陌生人的手",
+   "anchor": "stuck on the sticky floor",
+   "range": [
+    8377,
+    8402
+   ]
+  },
+  {
+   "fact": "Madison 破场：Get off her→托脸→后巷呼吸→I've got you",
+   "anchor": "Get off her,” a deep voice demanded",
+   "range": [
+    8456,
+    8491
+   ]
+  },
+  {
+   "fact": "居家照顾：脱裙/睡衣/姜蜜茶；Stay",
+   "anchor": "“Stay.”",
+   "range": [
+    12019,
+    12026
+   ]
+  },
+  {
+   "fact": "下药故事完整讲出：十八岁/世纪派对/三杯断片/好心人打给妈妈",
+   "anchor": "Someone spiked you.",
+   "range": [
+    15907,
+    15926
+   ]
+  },
+  {
+   "fact": "Rory 名字出口→break his legs→Watch me→我不想你坐牢",
+   "anchor": "I’m going to break his legs.",
+   "range": [
+    16201,
+    16229
+   ]
+  },
+  {
+   "fact": "只告诉过妈妈（她可能不记得了）；Will you stay?→For you? Always",
+   "anchor": "For you? Always.",
+   "range": [
+    18286,
+    18302
+   ]
+  }
+ ],
+ "relations": [
+  "Olivia Steinberg＝旧情侣",
+  "Kam/Frank＝队友",
+  "Rory Lukris＝派对主人/旧导师"
+ ]
+}

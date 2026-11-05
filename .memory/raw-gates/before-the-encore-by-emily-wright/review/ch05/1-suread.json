@@ -1,0 +1,75 @@
+{
+ "chapter": "ch05",
+ "pov": "Madison",
+ "facts": [
+  {
+   "fact": "缺席=怪/安静；判 Bailey 混蛋、担心她退出",
+   "anchor": "Bailey was an arsehole to call her out",
+   "range": [
+    710,
+    748
+   ]
+  },
+  {
+   "fact": "《Dreams》：妈妈痴迷的乐队她终于听懂",
+   "anchor": "shove that fact in her mum’s stupid face",
+   "range": [
+    2013,
+    2053
+   ]
+  },
+  {
+   "fact": "小报标题三连+Ruby 口红连环审问",
+   "anchor": "U cheated on her????",
+   "range": [
+    3135,
+    3155
+   ]
+  },
+  {
+   "fact": "Bonnie 改晚到；怀疑躲的是自己；Frank 警告越线",
+   "anchor": "never knew where the line was until she crossed it",
+   "range": [
+    4280,
+    4330
+   ]
+  },
+  {
+   "fact": "十二点整带礼物回归",
+   "anchor": "like a gay, sparkly Santa Claus",
+   "range": [
+    5679,
+    5710
+   ]
+  },
+  {
+   "fact": "道歉漏真话 I just missed you；Bonnie 正式道歉+补刀 Bailey",
+   "anchor": "I just missed you. That’s all.",
+   "range": [
+    6959,
+    6989
+   ]
+  },
+  {
+   "fact": "谈判：顾虑清单→half bad",
+   "anchor": "working with you hasn’t been…half bad",
+   "range": [
+    12090,
+    12127
+   ]
+  },
+  {
+   "fact": "pre-chorus 提案获采纳；Scout’s honour；谢谢让她肋下痒",
+   "anchor": "The suggestion…it’s good.",
+   "range": [
+    16598,
+    16623
+   ]
+  }
+ ],
+ "relations": [
+  "Ruby＝妹妹",
+  "Evan＝制作人",
+  "Frank/Kam＝队友"
+ ]
+}

@@ -1,0 +1,530 @@
+{
+  "chapter": 25,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/before-the-encore-by-emily-wright/ch25 one step at a time.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/before-the-encore-by-emily-wright/text/ch25_chapter_twenty_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Madison never imagined the boring domestic side of relationships to be so fulfilling—ordering the food shop together, co",
+          "ok": true,
+          "pos": 619
+        },
+        {
+          "text": "But every day, the push and pull with Bonnie unlocked new levels, reaching new depths",
+          "ok": true,
+          "pos": 1050
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "She met her reflection in the mirror. Black eyeliner sharpened her eyes, but it couldn’t hide the doubt swirling in the ",
+          "ok": true,
+          "pos": 1309
+        },
+        {
+          "text": "But she wasn’t him. And she wanted to shove that fact right in her mother’s face",
+          "ok": true,
+          "pos": 2496
+        }
+      ],
+      "words": 54
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Another email with more threats",
+          "ok": true,
+          "pos": 3384
+        },
+        {
+          "text": "He’s going to sue me. No one else will work with me.” Bonnie bit her lip. “That firing him is a terrible mistake.”",
+          "ok": true,
+          "pos": 3416
+        },
+        {
+          "text": "“It’s all talk. He can’t touch you. Remember that.”",
+          "ok": true,
+          "pos": 3527
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "So many things could go wrong. Her mum could be dressed in her pajamas or passed out on the sofa. What if she was drunk",
+          "ok": true,
+          "pos": 4988
+        },
+        {
+          "text": "Drunken arguments that ended in tears. Scrubbing her mum’s vomit from the carpet",
+          "ok": true,
+          "pos": 5221
+        },
+        {
+          "text": "Madison wasn’t the fuck-up. She wasn’t",
+          "ok": true,
+          "pos": 5372
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "She pulled up on the side of the road, the sudden brakes throwing them both forward",
+          "ok": true,
+          "pos": 5870
+        },
+        {
+          "text": "“No, Bonnie. I can’t.” Madison blinked back tears, pressing her fingers to her eyes. “Fuck’s sake.” She bit hard on the ",
+          "ok": true,
+          "pos": 6049
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“But I saw you for who you were a long time ago,” Bonnie continued",
+          "ok": true,
+          "pos": 7384
+        },
+        {
+          "text": "“I know how much you care for your sister, how quick you helped me through my panic attacks, how you still send your mum",
+          "ok": true,
+          "pos": 7656
+        }
+      ],
+      "words": 70
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I feel like everyone is waiting for me to fuck it up so they can say ‘I told you so’.”",
+          "ok": true,
+          "pos": 8379
+        },
+        {
+          "text": "“Then don’t be.” Bonnie planted a kiss to her knuckles. “It’s just like you tell me, baby. You’re in control. You have t",
+          "ok": true,
+          "pos": 8532
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“You came,” she whispered",
+          "ok": true,
+          "pos": 11064
+        },
+        {
+          "text": "The relief in her voice pricked at Madison’s eyelids again. She hugged her back, breathing in the expensive perfume she’",
+          "ok": true,
+          "pos": 11089
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Her mum stood by the counter, dark hair pulled into a ponytail, wearing new jeans and a fresh T-shirt. Madison searched ",
+          "ok": true,
+          "pos": 11565
+        },
+        {
+          "text": "“Maddy.” It was so simple yet held so much in one breath",
+          "ok": true,
+          "pos": 11816
+        }
+      ],
+      "words": 58
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“I love that picture of you two.” Bonnie nodded towards the photo of Ruby sitting on Madison’s shoulders. Goggles made t",
+          "ok": true,
+          "pos": 13851
+        },
+        {
+          "text": "Madison didn’t object, but the spaghetti twirled around and around her fork",
+          "ok": true,
+          "pos": 14397
+        }
+      ],
+      "words": 46
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“This isn’t right.” Frustration twanged, reverberating, leaking out of her. “You shouldn’t be the one running around, cl",
+          "ok": true,
+          "pos": 15003
+        },
+        {
+          "text": "Ruby grabbed her, forcing Madison to look at her. “I told you. She’s not drinking anymore.”",
+          "ok": true,
+          "pos": 15800
+        },
+        {
+          "text": "“And I told you. Mum doesn’t just stop drinking.”",
+          "ok": true,
+          "pos": 15889
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“With all due respect, Mrs Moore, it’s you that doesn’t know your daughter.”",
+          "ok": true,
+          "pos": 16181
+        },
+        {
+          "text": "“You might have fooled Ruby into thinking you’ve changed. But you’ll never fool me",
+          "ok": true,
+          "pos": 17297
+        },
+        {
+          "text": "If anyone is the deadbeat, heartless fuck-up, Mum. It’s not me. It’s you.”",
+          "ok": true,
+          "pos": 17702
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "“I’m so sorry. You’re right.” Glassy eyes held hers",
+          "ok": true,
+          "pos": 17946
+        },
+        {
+          "text": "“I love her.”",
+          "ok": true,
+          "pos": 18616
+        },
+        {
+          "text": "“I love you too.” Bonnie kissed her, soft, gentle, speaking a million words",
+          "ok": true,
+          "pos": 19030
+        },
+        {
+          "text": "She reached into her pocket and pulled out a little green token",
+          "ok": true,
+          "pos": 19708
+        },
+        {
+          "text": "Three months sobriety. Turning it over, she read, One step at a time",
+          "ok": true,
+          "pos": 19931
+        }
+      ],
+      "words": 54
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 14
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.24
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 35,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.44,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 41,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.47,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.44
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 40,
+        "读者视角提示": 29
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.53,
+        "读者视角提示": 0.62
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 89,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.59
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 33,
+        "读者视角提示": 27
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.42,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 28
+      },
+      "cjk_ratio": {
+        "中文理解": 0.68,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 71,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.7,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 41
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 55,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 32
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 36
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.61,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.69,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.54
+      }
+    }
+  ],
+  "form": {
+    "h1": "25. Chapter Twenty-Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 13,
+    "block_median": 13,
+    "block_range": [
+      10,
+      15
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 13,
+    "quote_long": 0,
+    "segments": 33,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 3824,
+    "block_target": [
+      7,
+      12
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 26 章中位 13、最高 15（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

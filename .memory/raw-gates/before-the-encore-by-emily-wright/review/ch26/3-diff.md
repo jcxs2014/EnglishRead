@@ -1,0 +1,3 @@
+# ch26 R3 对账（R1 vs md）
+R1 12 条：音乐室轶事 ✓（原句1）London Symphonies ✓（原句2——wait md ch26 无此块？核对：md 块序 1 音乐室轶事 2 Scarlett 解放 3 Grammys 爆料 4 spiked 爆料 5 monster 6 走廊偷袭 7 Was it you 8 浴室 9 头槌 10 Always 11 Nikita——R1 的 London Symphonies 细节在原句1 中文理解提及（「London Symphonies 巡演在即（好日子里提醒从不远）」）——md 原句1 分析层无此句——属 R1 细节未入 md 之「提示」级（妈妈线备注，非关键转折）。其余全覆盖 ✓。
+编：无。错：无——施事抽查：Mummy, I can't sing like this=幼年 Bonnie ✓（L35）；Bailey isn't your boss=Bonnie ✓（L83）；never submitted=Scarlett 转述 ✓（L182）；spiked like high school=Scarlett ✓（L209）；Get off me=Bonnie ✓（L296）；White dusted=叙述（Bailey 鼻毛白粉）✓；That's not a no=Bonnie ✓（L332）；I'm Bonnie fucking Bloom=Bonnie 第二次 ✓（L377）；headbutt=Madison ✓（L407）；Yes, I would=Bonnie ✓（L452）。
