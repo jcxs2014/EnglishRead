@@ -18,7 +18,7 @@ modified: "2026-11-05"
 **中文理解**：Elias 说到做到，把 The Eye 重建给她——但自从 Calista 把她拖进 Morsania Circo 之后，她每次使用这台装置，他都紧张兮兮地在旁边悬着。这份神经质可以理解，却是种不受欢迎的干扰。
 **关键词**：rebuilt the Eye、hovered in the background、skittish energy
 **为什么这样写**：作者用「说到做到＋但书」的句式同时给男主记两笔账：守约一分，越界一分。普通人视角的第一章就从「被爱得喘不过气」写起，甜味章的地基其实是控制与信任的谈判。
-**读者视角提示**：Morsania Circo 与 Calista 是 Maya 的创伤前史（她差点死在书里）——Elias 的 hovering 不是管束是后遗症；两人各自的秘密习惯（她偷早起、他熬夜折腾）正是这段关系解决「怕」的方式。
+**读者视角提示**：Morsania Circo 与 Calista 是 Maya 的创伤前史（Calista 曾把她拖进那本书）——Elias 的 hovering 不是管束是后遗症；两人各自的秘密习惯（她偷早起、他熬夜折腾）正是这段关系解决「怕」的方式。
 
 > **原句 2:** "“What happened to you?” she asked herself when she found him. He was the only human in the entire book. His skin was paper-thin and marred with deep wrinkles that were visible through his nearly translucent white beard."
 
@@ -39,7 +39,7 @@ modified: "2026-11-05"
 **中文理解**：她抢先自首：我不是想进 Catalogue！我发誓。——上周她提过一次这个话题，Elias 的脸当场变成了羊皮纸的颜色。
 **关键词**：not trying to go inside the Catalogue
 **为什么这样写**：一句话双声道：她的兴奋与他的恐惧同框——「hurried on」泄露她自知踩雷。作者用脸色（parchment 羊皮纸色）这种书虫式比喻写惊吓，整个恐惧的方向恰与读者的预期相反：怕的居然不是她死，是她进书。
-**读者视角提示**：普通人进 Catalogue 是这个世界的头号禁忌（Calista 那次 nearly killed her）；Elias 后文造沙漏的「折中方案」全部源自这条红线。
+**读者视角提示**：普通人进 Catalogue 是这个世界的头号禁忌（Calista 曾把她拖进 Morsania Circo 的那一次，正是 Elias 心病之源）；Elias 后文造沙漏的「折中方案」全部源自这条红线。
 
 > **原句 5:** "The sand no longer appeared to be bound by the laws of gravity. It swirled around the stem of the quill in a rippling wave that did not stop moving regardless of which direction the hourglass rotated."
 
