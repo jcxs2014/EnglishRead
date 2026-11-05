@@ -82,6 +82,8 @@ backwoods-banshee-by-david-r-slayton：《Backwoods Banshee》(David R. Slayton,
 - T1 同会话自检：抽 18/35（首末必含），assertion_scan 266 行全量；缺陷 6 全整改（Aadam 错字、`常 用`空格、「唯一」×3 无据最高级、ch35 两杀同时性）；密度 0.33<0.5 未触发 T2；suread 复验 124/124、事实回源 18/18。
 - 三件产物在 raw-gates review/；台账已记（自检）。未 push。
 
+backwoods-banshee-by-david-r-slayton **T3 全量深审（用户点名，边审边改）2026-11-05 19:21 UTC**：35/35 章 R1→R4 无省略（R1 子代理 12 批串行素读 280 条锚点全命中、3 处截断回原文订正；R2–R5 主会话逐块施事三问）。gate EXIT=0 · verbatim --full 259/259 · fragments 280/280 MISS 0 · overview 89/89 标签 0 错。阻断 17 全当场整改：漏尾 6 章补 18 块（ch08/11/14/15/16/22——ch16 回收 ch12「预防性手术」悬念为主线级）+跨章/事实/错字 5；提示 5 类记档不修（行内格式/拼接 4 双段/6 章未被总览覆盖/块数⚠️/短引语 3 grep 兜底）。四件套 140 件+修复指令文档入库；台账档位「深」、审查方「异会话」。明细见当日工作日志 Backwoods Banshee 节。未 push。
+
 ### [2026-11-04 21:01 UTC] [ZCode-Mac] → All
 
 **《Artificial Intimacy》（Sherry Turkle，Little, Brown 2026）非虚构论述 9 章+总览三篇完工 + 同日 T3 全量深审（审查时间 2026-11-04 21:58 UTC）**
