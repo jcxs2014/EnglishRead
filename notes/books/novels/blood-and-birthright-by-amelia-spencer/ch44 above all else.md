@@ -20,7 +20,7 @@ modified: "2026-11-05"
 **为什么这样写**：作者把全书最深的下坠配最轻的对话——「恐惧」的答案不是勇气而是拥有；这一句同时是他全部恐惧史（Reaper 之力、失控、被当工具）的解药配方。
 **读者视角提示**：对照 ch20「I won't unless you say it」的边界与本章的「I will always need you」——Silas 的安全感终于双向到账；坠落作为告白场景，在本书完成了从 Dhaholoseum 初抱到此处的闭环。
 
-> **原句 2:** "“I see you. And I remember you.”"
+> **原句 2:** "“I see you,” she whispered. “And I remember you.”"
 
 **中文理解**：Archivists' Rotunda：无面雕像环列、紫叶垂顶、水滴落池如血——Adrien 低声介绍这是「图书馆的秘密之墓」。她逐一对视那些奶白的目光，纹路与之共鸣，最后轻声说：我看见你们了。我记得你们。
 **关键词**：I see you、I remember you
@@ -37,14 +37,14 @@ modified: "2026-11-05"
 > **原句 4:** "the golden spines of The Central Library’s books transformed into a dark, burnished copper hue."
 
 **中文理解**：开书海啸：能量潮从她皮肤炸出、全馆震颤——中央图书馆的金色书脊转成暗铜色，Foundation 的绯红书脊与 Catalogue 能量融合发光；各层 Librarian 的生命地图被同化成她皮下的火。Rotunda 的雕像重新长出了面孔。
-**关键词**：burnished copper、the transformation was complete
+**关键词**：burnished copper
 **为什么这样写**：作者让「开书」成为一次全馆改写——书脊颜色（金/绯红/铜）贯穿全书的阵营色谱在此刻合流成第三种颜色；雕像长出面孔，与「I see you」呼应：被记住的人拿回了脸。
 **读者视角提示**：对照 ch36 的「七血统与 Catalogue 的连结」——本章她以「第八种颜色」（铜）宣告 Catalogue 的中立回归：不属于任何血统，属于记忆本身；「新任馆长之力浸透 Catalogue」是全书力量线的终点站。
 
 > **原句 5:** "“For today at least, I understand why you did it.”"
 
 **中文理解**：半和解：Atalanthya 噙泪伸手拉她起身，说「我从没想过与 Iris 做朋友会走到这一步——她是我最好的朋友」；Emerson 的回应逐条给价：我知道你抱歉；我也知道母亲先得手也会这么对你——但后果于我是永久的。有一天我希望能原谅你。至少今天，我理解你为什么这么做。
-**关键词**：One day, I hope I can forgive you、I understand why you did it
+**关键词**：I understand why you did it
 **为什么这样写**：作者把「原谅」拆成三段交付：确认对方的悔、指出代价的永久、承诺未来的可能——没有一个字是和解，但每个字都是解冻；这是本书处理「不可逆之罪」的成熟语法。
 **读者视角提示**：对照 ch10「I will not kill you today」——Aeloria 的承诺格式在两代女人之间传承；「Atalanthya 递手拉她起身」的动作与 ch44 开头 Silas 的「让我护你最后一次」互文：拉人起身是本书信任的终极动作。
 
