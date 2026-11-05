@@ -112,8 +112,8 @@ modified: "2026-11-05"
 |---|---|---|
 | worrier’s curse | 忧思者的诅咒 | The classic worrier’s curse—what was up, had to come down. |
 | projecting | 投射（心理） | projecting her insecurities about Olivia onto Madison wasn’t fair. |
-| pledging | 宣誓效忠 | a pledge of allegiance to the entity of Madison |
-| prying | 窥探 | Are you asking to pry into a musician’s greatest treasure? |
+| pledge | 誓约、宣誓 | Divulging such secrets requires a pledge of allegiance to the entity of Madison. |
+| pry | 窥探、打探 | Are you asking to pry into a musician’s greatest treasure? |
 | plughole | 排水口 | draining all the negativity from the past few weeks down the plughole. |
 
 ### ⭐ 常用

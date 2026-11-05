@@ -107,14 +107,14 @@ modified: "2026-11-05"
 | testimony | 证词 | as well as her own testimony about what happened to her |
 | orchestr / orchestra | 管弦乐团 | The curtain behind Bonnie opened to reveal a string orchestra |
 | cinematic | 电影感的 | the sound blending into a silky, cinematic surge |
-| satiated | — | — |
+| eavesdropping | 偷听 | “Were you eavesdropping?” |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | festival | 音乐节 | the giant ‘UNITY Festival’ sign behind them |
 | donation | 捐款 | Make sure to plug the donation links |
-| merchandise | 周边、商品 | all of the tickets, merchandise, and donations could go straight to Spike Aware |
+| merchandise | 周边、商品 | That meant all the tickets, merchandise, and donations could go straight to Spike Aware. |
 | global reach | 全球传播 | the festival was going to be streamed online for global reach |
 
 ## 一句话总结

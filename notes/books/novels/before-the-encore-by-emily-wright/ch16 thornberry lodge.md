@@ -69,13 +69,12 @@ modified: "2026-11-05"
 **读者视角提示**：注意鲨鱼第一口含毒——这个隐喻把「假货有毒」压进一个意象。
 
 
-> **原句 8:** "Surprisingly, her dad spoke first. “It’s nice to see you.” … “Nora,” she breathed, tugging Bonnie into her slim body"
+> **原句 8:** "“Nora,” she breathed, tugging Bonnie into her slim body … Bonnie tried not to mind the bony shoulders jutting into her. Her mum had never been a thin woman, but she’d lost a lot of weight since her diagnosis."
 
-**中文理解**：爸爸先开口了——然后妈妈张嘴、说话的却是另一个名字：「Nora」——Bonnie 沉默了。
-**关键词**：her dad spoke first / “Nora,” she breathed / tugging Bonnie into her slim body
-**为什么这样写**：作者把「爸爸先开口」写成一次小小的进攻——然后请妈妈出招时，她喊出的是 딸라는的爱称——女儿变成 Nora。
-**读者视角提示**：注意这两次「亲戚式䰥」：先是 dad spoke first（他先说话），然后是妈妈喊错名字——两个动作连着写妈妈失智的第一现场。
-
+**中文理解**：「Nora，」妈妈低唤着，把 Bonnie 拉进她瘦削的身体。Bonnie 尽量不去在意硌人的肩胛骨——妈妈从来不瘦，但确诊后瘦了很多。
+**关键词**：“Nora,” she breathed / bony shoulders / lost a lot of weight
+**为什么这样写**：作者让妈妈喊出「Nora」——女儿的真名，而拥抱里的骨头感写病程的进度条。
+**读者视角提示**：注意「Bonnie tried not to mind」——她的懂事是照顾者的本能反应，与 ch20 替妈妈清理呕吐物同一条肌肉。
 
 > **原句 9:** "Her mum’s eyes brightened as she turned to Madison. “Have you heard my girl sing? She’s wonderful.”"
 
@@ -88,7 +87,7 @@ modified: "2026-11-05"
 > **原句 10:** "Bonnie blinked away tears, then realising she’d left Madison standing behind her, quickly cleared her throat. “Mum, Dad, this is Madison.”"
 
 **中文理解**：Bonnie 擦掉眼泪后才想起把 Madison 介绍进来——她怀疑「My opening act…My fuck buddy…」——算了，简单点：「Mum, Dad, this is Madison」
-**关键词**：I’m their daughter / My opening act / this is Madison
+**关键词**：cleared her throat / this is Madison
 **为什么这样写**：作者用 Bonnie 内心的「三只候选」写她无法命名的关系——opening act、fuck buddy、止痛药——三个身份皆不真实
 **读者视角提示**：注意句法：她没说的三个选项里，「the woman who's a complete pain in the arse」是最后也是最紧的——但她的意思是没怒却最真。
 
@@ -99,7 +98,7 @@ modified: "2026-11-05"
 Bonnie glanced at her, eyebrows raised. She’d never heard Madison sound so formal."
 
 **中文理解**：「见到你们很高兴。」——Bonnie 从未听过 Madison 这么说正式。
-**关键词**：It’s a pleasure to meet you both / so formal
+**关键词**：a pleasure to meet you both
 **为什么这样写**：作者用 Madison 罕见的正式句写她这次面貌的诚意——有点不悦 تەرتىپ but 真意。
 **读者视角提示**：注意这里的戏剧反讽：Ch12 的床上妇产科医话与 Ch16 的正式问候同人同声——作者用机床机械制造对比。
 
@@ -121,7 +120,7 @@ Oh god. Fear and excitement shook up inside her like a cocktail.
 But Madison took it in her stride, stepping back to loop an arm around Bonnie that burned hot at her waist. “I’ll take care of her.”"
 
 **中文理解**：妈妈转身拥抱 Madison 之后再补一句：「我很高兴我闺女找到了好人」——Madison 面不改色：「我会照顾她的。」
-**关键词**：so glad my girl’s found someone nice / I’ll take care of her.
+**关键词**：so glad my girl’s found someone nice
 **为什么这样写**：作者让妈妈的这句话由妈妈说、而由 Madison 应答——她从玩家到保护者的角色蹮时交换
 **读者视角提示**：注意这句话的机位：妈妈背对 Bonnie 说（因为 Bonnie 站在她身后）——作者让你看到她的故作镇定的肩线。
 
@@ -135,8 +134,38 @@ But Madison took it in her stride, stepping back to loop an arm around Bonnie th
 “To say thank you.” … “Are you coming in?”"
 
 **中文理解**：回到车里，Madison 还在为白天的失误道歉——Bonnie 偏身吻她：「谢谢你」——然后抛一句「进来吗？」
-**关键词**：pressing her lips to hers / To say thank you / Are you coming in?
+**关键词**：cupping Madison’s jaw / pressing her lips to hers
 **为什么这样写**：作者用一个吻收束全文——不是【yes/no】的回答，而是【是说你回来】的回答
 **读者视角提示**：注意本章最后一句是 Bonnie 问的「Are you coming in?」——整章把母线切换成一个邀请。
 
 
+
+## 本章词汇
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| plucked-from-a-storybook | 像从故事书里摘出来的 | And the gardens—and the surrounding forest—almost gave it a plucked-from-a-storybook feel. |
+| decomposing | 正在腐烂的 | judging by the blossom petals decomposing on the windscreen, it hadn’t had much use |
+| windscreen | 挡风玻璃（英式） | She wanted him to have his independence, but judging by the blossom petals decomposing on the windscreen |
+| windscreen | 挡风玻璃（英式） | judging by the blossom petals decomposing on the windscreen, it hadn’t had much use |
+| independence | 独立、自立 | She wanted him to have his independence |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| manicured | 修剪整齐的 | admiring the manicured hedges and colourful flowers guiding the way |
+| colourful | 色彩缤纷的 | admiring the manicured hedges and colourful flowers guiding the way |
+| unease | 不安 | hoping her sunglasses masked her unease |
+| Audi | 奥迪（车） | She brought her Audi to a crawl |
+| surrounding | 周边的 | And the gardens—and the surrounding forest—almost gave it a plucked-from-a-storybook feel. |
+
+### ⭐ 常用
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| sunglasses | 太阳镜 | hoping her sunglasses masked her unease |
+| driveway | 私家车道 | As Bonnie turned onto the long, winding driveway towards Thornberry Lodge |
+| resident | 住院者、住民 | A carer sitting with a resident waved as she passed. |
+| independence | 独立、自立 | She wanted him to have his independence |
+
+## 一句话总结
+Bonnie 独自驱车进 Thornberry Lodge——在「城堡还是恶龙」的门口徘徊六个月不敢进门，直到看见爸爸挽着妈妈走进阳光；一通电话把 Madison 拽来作陪，音乐室里妈妈喊出「Nora」、问起舞蹈课、夸「我闺女唱歌好听」；临别时妈妈拥抱了 Madison——「真高兴我闺女找到了好人」——Bonnie 在黑色奔驰后座用一个吻说了谢谢。

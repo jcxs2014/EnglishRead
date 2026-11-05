@@ -126,15 +126,15 @@ modified: "2026-11-05"
 | headbutted | 用头撞（想动手的冲动） | If it wouldn’t have gotten me fired, I’d have headbutted him by now. |
 | descended | 降临、笼罩 | Awareness descended on Madison’s features, her mouth loosening. |
 | manipulated | 熟练地摆布 | how she lifted and manipulated her body with ease |
-| immortalised | 使不朽、定格 | 见 ch16 类似用法；本章例句：the crowd resembled a sea of shining stars（对应段）|
+| pleading | 恳求的 | “Yes,” Bonnie admitted, her nails clawing into Madison’s muscle. “Please.” |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | agreements | 协议、条款（复数） | When I signed up for The Pop Factor, it was one of the agreements to appear on the show. |
 | unpredictable | 不可预测的 | Things are too unpredictable; I wouldn’t even know where to start. |
-| intimidating | 有威慑感的 | but with the intimidation of a chocolate-dipped teddy bear. |
-| encouraging | 鼓励的、打气的 | Mel encouraged. |
+| intimidation | 威慑感 | but with the intimidation of a chocolate-dipped teddy bear. |
+| rehearsal | 排练 | “Time for rehearsal.” |
 | understatement | 保守说法、低估 | To say it was hot would be a chronic understatement. |
 
 ### ⭐ 常用

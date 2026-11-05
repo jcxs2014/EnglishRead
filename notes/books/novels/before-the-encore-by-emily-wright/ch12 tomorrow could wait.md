@@ -6,7 +6,7 @@ modified: "2026-11-05"
 # 12. Chapter Twelve
 
 ## 本章导航
-- **一句话概括**：Chapter Eleven 末的「不许停」在本章立即兑现——一整夜的性爱从泳池边到沙发、从 Madison 的提问游戏到 Bonnie 自己说出「I'm going to come for you」；章尾「Tomorrow could wait」是两人第一次共同推迟明天的证明。
+- **一句话概括**：Chapter Eleven 末的「不许停」在本章立即兑现——一整夜的性爱从泳池边到沙发、从 Madison 的提问游戏到 Bonnie 自己说出「Come for me, baby」时的索取；章尾「Tomorrow could wait」是两人第一次共同推迟明天的证明。
 - **情感弧线位置**：欲望总爆发章——全部笔墨在身体层，但作者用「清醒时刻」与「提问与回答」的对位保住了人物内心，防止这一章沦为纯色情场景。
 - **Tropes 兑现/反转**：兑现 fake dating 拐点（真性 ➡ 假恋爱叙事彻底失效）；反转——先喊出「我爱你」式誓言的是让对方用语言的人（Madison 用「words」逼 Bonnie 承认渴望，而不是自己说）。
 - **人物弧线**：Bonnie 第一次「用语言承认欲望」并接受后果；Madison 第一次在床上让渡主导权（waiting for her words）。
@@ -132,4 +132,4 @@ modified: "2026-11-05"
 | buck | （身体）顶动、拱动 | She pressed her warm lips to Bonnie’s pussy through the fabric of her underwear, and Bonnie bucked, a groan catching in her throat. |
 
 ## 一句话总结
-Chapter Eleven 末的「不许停」在本章全部兑现：从 Madison 的「Are you sure」到 Bonnie 的「I'm so wet for you」、从那句「estate 里的每个富人都听见你有多爱我的舌头」到高潮后 Bonnie 承认「最烦人的女人让我忘记身处何处」；章尾用两个「Are you tired yet?」和一句「Tomorrow could wait」收束——Bonnie 生平第一次让明天等她。
+Chapter Eleven 末的「不许停」在本章全部兑现：从 Madison 的「Are you sure」到 Bonnie 的「I'm so wet for you」、从那句「I want every rich fucker in this estate to hear how much you love my tongue」到高潮后 Bonnie 承认「最烦人的女人让我忘记身处何处」；章尾用两个「Are you tired yet?」和一句「Tomorrow could wait」收束——Bonnie 生平第一次让明天等她。

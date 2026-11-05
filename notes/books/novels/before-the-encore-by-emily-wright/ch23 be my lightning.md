@@ -110,7 +110,7 @@ modified: "2026-11-05"
 |---|---|---|
 | doorjamb | 门框侧柱 | The sight of her steadying herself on the doorjamb |
 | worming | 蠕行、钻入 | the name worming into her brain like a parasite |
-| divulging | 泄露（见 ch22） | — |
+| navel | 肚脐 | tracing a finger along a dip in Madison’s navel |
 | jagged | 锯齿状的 | a line of brown freckles across Madison’s stomach, jagged like a mountain range |
 | guttural | 喉咙深处的、粗嗄的 | a guttural moan clawing out of her throat |
 

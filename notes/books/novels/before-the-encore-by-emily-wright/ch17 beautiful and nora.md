@@ -30,7 +30,7 @@ modified: "2026-11-05"
 > **原句 5:** "The lift finally dinged, the doors whooshed open, and Madison bolted straight into something hard. … A surprised ooft left the man’s chest. He stepped aside, patting his slicked-back blond hair like she might have knocked one out of place. … “This isn’t our floor.” … “Are you in or out?” … His lip twitched. “I think I’ll wait. Thank you.”"
 
 **中文理解**：电梯终于叮一声开门，Madison 直直撞上一堵硬物。……男人胸口发出一声惊呼「噢」，退到一边，拍着油亮的金发，像她可能撞歪了一根。他用嫌弃的眼神打量两人急促的呼吸和通红的脸。 「Madison。」Bonnie 瞪大眼睛嘶声说：「这不是我们的楼层。」……男人不动，Madison 哼了一声：「你到底进不进？」……他嘴角一抽：「我还是等等吧。谢谢。」……「我的天。」Madison 嘟囔着反复戳关门键，直到那张蠢脸终于消失在银色门后。
-**关键词**：bolted straight into something hard / slicked-back blond hair / Are you in or out? / jabbing the close-door button
+**关键词**：bolted straight into something hard / slicked-back blond hair / Are you in or out?
 **为什么这样写**：作者用「撞上硬物」完成欲望场景的第一次外部入侵——邻人的出场让私密瞬间被打上聚光灯；「patting his hair」这个小动作写他的自恋，为笑点服务。 作者让「进不进」这个问句承担双重含义——电梯门与关系——Madison 的不耐烦既是性急也是宣示主权；反复戳按钮是她控制欲的微缩喜剧。
 **读者视角提示**：注意男人的 distaste（嫌弃）——他是本章唯一对她们的关系表达不适的人，而作者让他蠢得可爱，不让他构成真正的威胁。 注意 Bonnie 的「hissed」——她在公众面前的第一反应是维护体面，与 Madison 的不管不顾形成双人性格图。
 
@@ -58,7 +58,7 @@ modified: "2026-11-05"
 > **原句 13:** "Bonnie lifted her knee between Madison’s legs, and she moaned into her mouth as she rocked against her, rubbing Madison’s clit. … No one had ever made her feel like this. So out of control. So…wanted. … “Why?”"
 
 **中文理解**：Bonnie 把膝盖顶进 Madison 两腿之间，她呻吟进对方嘴里，蹭着对方揉过的敏感点。Bonnie 的手指扯她牛仔裤的扣子，吻不中断地把扣子一颗颗解开。 骨盆深处的酸胀加重了；掌权的 Bonnie 性感得要命。她把牛仔布往下推时，胸口涌上一阵情绪——从没有人让她这样过。这样失控。这样……被想要。突然的脆弱让她大脑短路，她一把攥住褪到一半的牛仔裤，把它们按在腿上：「为什么？」
-**关键词**：lifted her knee / rubbing Madison’s clit / without breaking the kiss No one had ever made her feel like this / So…wanted / holding them in place. “Why?”
+**关键词**：lifted her knee / rubbing Madison’s clit / So out of control / “Why?”
 **为什么这样写**：作者用「without breaking the kiss」写 Bonnie 的掌控力——所有复杂动作都在吻的连续性里完成，这是她对 Madison 主导权的第一次接管（与 ch12 Madison 主导互为镜像）。 作者在性场景正中央插进一次「急刹车」——Madison 用一个「Why?」打断自己；这个问题的真正指向是「Why does she want me?」——她在最赤裸的时刻暴露了最深的自卑。
 **读者视角提示**：注意本章的攻守互换——ch12 是 Madison 指挥，本章是 Bonnie 跪下——两人的床戏节奏在两章间完成了一次轮换。 注意「So…wanted」的省略号——那个词她只敢说一半；「Why?」是全书 Madison 最脆弱的单字。
 
@@ -69,12 +69,12 @@ modified: "2026-11-05"
 **为什么这样写**：作者把告白放进最不体面的姿势之间——「trousers halfway down」的喜剧框架反而让「I do like you」更可信：它不在烛光晚餐里，它在真实里；「coward and a bitch」是 Bonnie 对 ch13 自己行为的官方认账。 作者用「救生圈」比喻把告白的功能写透——Bonnie 的「我喜欢你」不是浪漫装饰，是救援设备；「Is that okay?」是 consent 的第二次出现（ch12 是 Madison 问），这次轮到 Bonnie 问。
 **读者视角提示**：注意「I'm not going to run this time」——「this time」三个字承认了 ch13 的逃跑是她们关系的第一道疤，现在是第一针缝线。 注意两章 consent 的镜像——ch12 「Are you sure?」/本章「Is that okay?」——两人的bedroom权力彻底对等。
 
-> **原句 17:** "“I’ve finally found the secret to getting Madison Moore to shut up.” … “Do you like me on my knees, Madison?” … “Cat got your tongue, hmm?” … Bonnie’s hands brushed Madison’s abs and over her bra, teasing at her peaked nipples. “You’re beautiful when you come.” … With a huff and a groan, Madison sat up, wrapping her legs around Bonnie. “Beautiful?” The word rolled uncomfortably off her tongue."
+> **原句 17:** "Bonnie’s hands brushed Madison’s abs and over her bra, teasing at her peaked nipples. “You’re beautiful when you come.” … With a huff and a groan, Madison sat up, wrapping her legs around Bonnie. “Beautiful?” The word rolled uncomfortably off her tongue."
 
-**中文理解**：「我终于找到了让 Madison Moore 闭嘴的秘密。」她又舔又亲，热而湿，Madison 几乎不能呼吸，感觉自己在往下滴。「上柜台。」……「你喜欢我跪着的样子吗，Madison？」……「舌头被猫叼走了，嗯？」Bonnie 眨着眼向上看她，逗她，该死的，Madison 爱死了。 Bonnie 的手拂过 Madison 的腹肌与胸罩，逗弄她挺起的乳头。「你高潮的时候很美。」……Madison 又气又哼地坐起来，双腿缠住 Bonnie。「美？」这个词在她舌尖滚得硌人。
-**关键词**：the secret to getting Madison Moore to shut up / Do you like me on my knees / Cat got your tongue teasing at her peaked nipples / You’re beautiful when you come / rolled uncomfortably
-**为什么这样写**：作者让 Bonnie 用「让 Madison Moore 闭嘴」这句收编她全书的绰号——嘴硬的人在性里被物理封口；「on my knees」的权力问句是本章性政治的中心句。 作者把「beautiful」放在高潮后的余韵里——它不是调情开场白，而是事后评价，因此更重；「rolled uncomfortably」写 Madison 与这个词的生疏：她的语言库里有 hot、有 gorgeous，没有这一格。
-**读者视角提示**：注意 Madison 的失语被写成荣誉——「Cat got your tongue」是 Bonnie 对她话痨的全书总结。 注意这是全书第一次有人给 Madison「beautiful」——此前她被看到的只有外壳（eyeliner、tattoos、arms），这是第一次有人描述她的「 moment 」。
+**中文理解**：Bonnie 的手拂过 Madison 的腹肌与胸罩，逗弄她挺起的乳头。「你高潮的时候很美。」……Madison 又哼又坐起，双腿缠住 Bonnie。「美？」这个词在她舌尖滚得硌人。
+**关键词**：You’re beautiful when you come / Beautiful? / rolled uncomfortably
+**为什么这样写**：作者把「beautiful」放在高潮后的余韵里——它不是调情开场白而是事后评价，因此更重；「rolled uncomfortably」写 Madison 与这个词的生疏。
+**读者视角提示**：注意这是全书第一次有人给 Madison「beautiful」——她的语言库里有 hot、有 gorgeous，没有这一格。
 
 > **原句 19:** "Those doe-eyes did flick to her then. “But you are.” … She’d been called hot and gorgeous, handsome even. But never beautiful. … “You can be masc and be beautiful,” Bonnie whispered against her lips. … “If I’m beautiful, we need a whole new word for you.”""
 
@@ -114,7 +114,7 @@ modified: "2026-11-05"
 | concierge | 门房、礼宾 | blushing under the eyes of the polite concierge. |
 | shuddering | 战栗的 | a shuddering pulse rippled low in Madison’s belly, hot and velvety. |
 | slicked-back | 梳得油亮的（发型） | patting his slicked-back blond hair |
-| panorama / panoramic | 全景的 | A panoramic curved window spanned the property, showcasing London in its entirety. |
+| panoramic | 全景的 | A panoramic curved window spanned the property, showcasing London in its entirety. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

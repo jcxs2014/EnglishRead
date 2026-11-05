@@ -121,7 +121,7 @@ modified: "2026-11-05"
 | acquiesced | 默许、勉强同意 | ‘Lucky’ might not be Madison’s chosen term, but she acquiesced anyway |
 | sleuthing | 侦查、打探 | wary of Ruby and her sleuthing skills |
 | strung | 绷紧的（像拉满的线） | Madison was strung like a live wire |
-| meddling | 插手、夹在中间 | I hate being in the middle |
+| soppy | 肉麻的、多愁善感的 | “You’re so soppy when you’re sleepy.” |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

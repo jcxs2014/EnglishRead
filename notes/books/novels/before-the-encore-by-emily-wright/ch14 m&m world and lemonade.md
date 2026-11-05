@@ -10,7 +10,7 @@ modified: "2026-11-05"
 - **情感弧线位置**：双 POV 章在「被围观」与「被接纳」之间往返——Madison 在伦敦被「#moom」粉丝围困；Bonnie 在 Katy 的院子里被一句反问击穿所有伪装。
 - **Tropes 兑现/反转**：兑现「sibling detective」叙事（Ruby 逐条逼问）；反转——本章最温柔的话出自最不温柔的地方（Katy 的客厅）；兑现「goat/honour」式民谣母题（#moom）。
 - **人物弧线**：Madison 首次直面 Meg 旧伤与父亲阴影；Bonnie 首次向朋友承认「我被她吸引」并说出「everything about me is a lie」的完整恐惧清单。
-- **叙事手法**：双线剪辑——London 喧嚣与 Katy 家安静交替；「祈使句反问」作为情感扳机（「What are you avoiding?」）；逐字列点的恐惧清单（「I worry about X, and I worry about Y」）。
+- **叙事手法**：双线剪辑——London 喧嚣与 Katy 家安静交替；「祈使句反问」作为情感扳机（「What are you avoiding?」）；逐字列点的恐惧清单（「我担心被弃、担心成功后失去」）。
 
 ## 精读
 > **原句 1:** "There were few things Madison hated more than shopping. People pushing in, the assault of perfumes on her nose, the bright lights, and all the awful waiting around. Shopping with Ruby was the worst of all. ‘Browsing’ wasn’t in her sister’s vocabulary. She had to try on everything. In every colour. In multiple sizes."
@@ -86,8 +86,8 @@ modified: "2026-11-05"
 > **原句 11:** "“I’m afraid. That’s what Madison said. And the worst thing is, it’s true. I am afraid. Of everything. All the time.” … “I worry about being dropped by the label, but then when I’m successful, I worry that I’ll lose it. I worry about liking Madison and about her liking me, about her not liking me and about it being for show. I worry about getting my heart broken, and I worry about never taking that leap.”"
 
 **中文理解**：我害怕。这是 Madison 说的。最糟糕的是，这是真的。我害怕。对一切。一直。……我担心被厂牌放弃，但当我成功时，我担心我会失去它。我担心喜欢 Madison 和她喜欢我，担心她不喜欢我，担心这只是表演。我担心心碎，我担心永远不迈出那一步。
-**关键词**：I am afraid / worried about / never taking that leap
-**为什么这样写**：作者用「I worry about X, and I worry about Y」排比清单写 Bonnie 的恐惧全景——不是情绪表达而是清单投递；「never taking that leap」是全章唯一非「worry」的词，写她最深的恐惧不是失败而是从未开始。
+**关键词**：I am afraid / Of everything. All the time / never taking that leap
+**为什么这样写**：作者用「我担心这个、也担心那个」的排比清单写 Bonnie 的恐惧全景——不是情绪表达而是清单投递；「never taking that leap」是全章唯一非「worry」的词，写她最深的恐惧不是失败而是从未开始。
 **读者视角提示**：注意「about her liking me, about her not liking me」——Bonnie 担心的是双向与单向的所有组合，焦虑不是对 Madison 的，而是对「不确定」本身。
 
 > **原句 12:** "“You can’t stop living your life in fear of what ifs. If you don’t take the risk, it’ll pass you by anyway. Remember when you auditioned for The Pop Factor?” … Bonnie recalled the moment, Katy’s voice clear in her ears. She smiled too, the knot in her chest loosening a smidge. “What if they love it?” … “And they did. Not everyone loves your music—and that’s okay. Not everyone likes ham and pineapple on pizza, but some people do."

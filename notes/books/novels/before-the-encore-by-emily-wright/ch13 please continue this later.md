@@ -20,12 +20,12 @@ modified: "2026-11-05"
 **为什么这样写**：作者用触觉开场（arm tickled）而非视觉——读者先被身体异常惊醒，再跟随 Bonnie 的困惑进入场景；「arsecheek」这个解剖学又幽默的词为 ch12 的性爱场景与本章的羞耻场景提供语言底色；「not just the once. But many, many times」用短句递进写她的记忆密度。
 **读者视角提示**：注意「who's snoring」的问句让读者和 Bonnie 一样在黑暗中只听见声音——悬念从身体细节建立，而非叙事链条。
 
-> **原句 2:** "She rubbed her eyes, then pulled a hand down her face. The unmistakable scent of sex clung to her fingers, and the memory of them bringing Madison to climax sent a shiver of pleasure between her legs. … Oh god. Oh god. Oh god. Bonnie didn’t date. Bonnie didn’t sleep around. Relationships in the spotlight were too complicated. … Bonnie would have to bleach it. Along with every memory of last night. What was I thinking? … And she’d smoked weed! That was so irresponsible of her. She needed to stay in control."
+> **原句 2:** "Oh god. Oh god. Oh god. Bonnie didn’t date. Bonnie didn’t sleep around. Relationships in the spotlight were too complicated. … And she’d smoked weed! That was so irresponsible of her. She needed to stay in control."
 
-**中文理解**：她揉揉眼睛，把手从脸上抹下来。性的气味不容忽视地粘在她的手指上，而「她们让 Madison 高潮」的记忆在她两腿之间激起一阵快感的战栗。……天哪。天哪。天哪。Bonnie 不约会。Bonnie 不乱搞。聚光灯下的关系太复杂了。……Bonnie 得把它漂白了。连同昨夜所有的记忆一起。我当时在想什么？……而且她还抽了大麻！太不负责任了。她需要保持掌控。
-**关键词**：scent of sex clung / didn’t sleep around / stay in control
-**为什么这样写**：作者把羞耻的三段式压缩进一段——先写身体记忆（气味、战栗），再写三个机械化的「Oh god」，最后用格言复辟她的公众形象；「bleach」把心理悔恨物化——不是「忘记」是「漂白」；「scent of sex clung to her fingers」让「洗手」承担全部心理重量。
-**读者视角提示**：注意感官残留是她无法冲洗掉的物理证据——羞耻感的第一块砖；Rory Lukris 的派对在下一段出场，提示她的「失控史」比她承认的更长。
+**中文理解**：天哪。天哪。天哪。Bonnie 不约会、不乱搞、聚光灯下的关系太复杂——而且她还抽了大麻！太不负责任了。她需要保持掌控。
+**关键词**：didn’t sleep around / too complicated / needed to stay in control
+**为什么这样写**：作者把羞耻的三段式压缩成格言复读——三个「Oh god」是系统重启失败的声音；「stay in control」是她全部人生哲学的招牌句。
+**读者视角提示**：注意这段格言与 ch19 派对开场「She didn't like parties」同款——她的自我管理手册在本章被反复引用又反复失效。
 
 > **原句 3:** "Clothes littered the living room—the evidence of last night hitting her like a slap to the face. Madison’s bra dangled off the kitchen counter, Bonnie’s soaked underwear lay scrunched in a potted plant, while Madison’s jeans posed a tangled trip hazard by the door. Bonnie collected the garments like a NSFW Easter egg hunt while she waited for the kettle to boil."
 
@@ -107,7 +107,7 @@ modified: "2026-11-05"
 > **原句 14:** "Madison stood, pushing off the sofa. “You’ve got a stick so far up your arse, you’re struggling to ride that high horse of yours.” … “And for the record, I haven’t slept with anyone else. I haven’t gone one stupid second without thinking about being back between your legs. I haven’t even thought about anyone but you.” … “Tell me this, princess.” … “Do you really want this to be a one-time thing? Or are you just afraid?” … Madison’s gaze burned into hers. Steady and loaded. When she spoke, the words came out low. “Prove it.”"
 
 **中文理解**：「你屁股里插着一根棍子，还在努力骑你的高头大马。」……「顺便说一句，我没跟别人睡过。我没度过一秒不想回到你两腿之间。我甚至没想过任何别人，除了你。」……「告诉我，公主。」「你真的想这是一次性的吗？还是你只是害怕？」……Madison 的目光烧进她。稳定、满载。她开口时声音很低。「证明给我看。」
-**关键词**：high horse / not one stupid second / Prove it
+**关键词**：high horse / Or are you just afraid? / Prove it
 **为什么这样写**：作者用「I haven't gone one stupid second」写 Madison 的告白——「stupid」副词是她自嘲，让告白可信；「Prove it」完成全章转折——Bonnie 的所有语言被这个两字命令取代；「Do you really want this...? Or are you just afraid?」把选择权交还给 Bonnie，但邀请她做一个没资格做的选择。
 **读者视角提示**：注意「Steady and loaded」——Bonnie 对 Madison 目光的描述，她第一次意识到对方的主动权。
 

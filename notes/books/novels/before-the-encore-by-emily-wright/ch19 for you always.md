@@ -114,7 +114,7 @@ modified: "2026-11-05"
 > **原句 15:** "“Thank you for telling me.” Madison pressed a kiss to her head. “Have you told anyone else?” … “My mum. But I doubt she remembers now.” … “I think it’s time you got some sleep,” Madison murmured into her hair. “I should go. Is your alarm set for tomorrow?” … She didn’t want her to leave. “Will you stay?” she whispered. … Madison answered with a kiss on her head, arms squeezing her closer. “For you? Always.”"
 
 **中文理解**：「谢谢你告诉我。」Madison 在她发顶落吻。「还有别人知道吗？」……「我妈。但她现在大概不记得了。」……「你该睡了，」Madison 对着她的头发低语。「我该走了。闹钟定了吗？」……她不想让她走。「你会留下吗？」她低声问。……Madison 以发顶一吻作答，手臂收紧。「为了你？永远。」
-**关键词**：Have you told anyone else? / she doubts she remembers / For you? Always
+**关键词**：Have you told anyone else? / I doubt she remembers now / For you? Always
 **为什么这样写**：作者让「妈妈不记得了」这句话承担本章最后一记重锤——Bonnie 的创伤连唯一的知情人都在丢失；而 Madison 的「Always」是对这个失忆世界的第一次补位：我会记得。
 **读者视角提示**：注意「Will you stay?」问的是今晚，答的是所有夜晚——下一章将揭晓这个「always」的具体形状（LA 之约的执行）。
 
@@ -126,7 +126,7 @@ modified: "2026-11-05"
 | shmoozed | 套近乎、寒暄应酬 | Bailey shmoozed a greying man, his collar unbuttoned, eyes glassy and dilated. |
 | guffaws | 狂笑、哄笑 | Loud guffaws erupted from the men in the booth. |
 | spiked | （饮料里）下药 | “Someone spiked you.” |
-| devastated | — | — |
+| guffaws | 狂笑、哄笑 | Loud guffaws erupted from the men in the booth. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

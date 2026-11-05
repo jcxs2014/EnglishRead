@@ -8,7 +8,7 @@ modified: "2026-11-05"
 ## 本章导航
 - **一句话概括**：伦敦大秀前的排练失控——Madison 第三回合忘词，Frank 摊牌「她会搞砸我们的伟大突破」，队友一句「We?」把乐队的裂痕砸穿；Madison 冲上屋顶被母声判了「你就像你爸」；Kam 追上来把乐队的真实心病摊开（不是ུགས了 Bonnie，是怕 Madison 先走），逼出那句「But I like her」；Bonnie 出现在屋顶、认出她的惊恐、接住她对 Ruby 的愧疚，章尾用一记星座交易与握手收进「先办正事」与给 Frank 一记 noogie 的尾音。
 - **情感弧线位置**：巡演高潮前的最低谷——外部大胜（伦敦体育场、品牌合作、粉丝暴涨）对照内部大崩（乐队裂、母声回响）。
-- **Trops 兑现/反转**：兑现「演出前吵架」的乐队标配；反转——「弃用权」首先出现在乐队自己嘴里（We?），方向被 Kam 一语纠正。
+- **Tropes 兑现/反转**：兑现「演出前吵架」的乐队标配；反转——「弃用权」首先出现在乐队自己嘴里（We?），方向被 Kam 一语纠正。
 - **人物弧线**：Madison 第一次在队友面前说出「But I like her」；Bonnie 用她的惊恐经历反过来安慰 Madison；Kam 完成「乐队母亲」的执勤。
 - **叙事手法**：母声用「manifested」语法追踪两次出场形成听觉回响；最短句（But I like her）承担最大的让步。
 
@@ -86,19 +86,7 @@ modified: "2026-11-05"
 **读者视角提示**：注意她的反应方式——声音软、但没哭——软是她的保全，Kam 的张不开嘴是她的委屈。
 
 
-> **原句 10:** "“Fuck both of you.”
-
-
-She jumped off the stage, landing with a thud, and headed for the doors. A few members of the crew averted their gazes, busying themselves with boxes and safety rails.
-
-
-“Madison, wait!” Kam shouted.
-
-
-But she didn’t.
-
-
-Rage pushed her feet forward."
+> **原句 10:** "At that, Madison shoved them both in the chest. “Fuck both of you.” … Rage pushed her feet forward. She crashed through the doors, taking any exit she could."
 
 **中文理解**：那一刻 Madison 推了两人胸口一把。去你娘的俩。……愤怒推着她的脚。
 **关键词**：shoved them both in the chest / Fuck both of you / Rage pushed her feet forward
@@ -106,10 +94,7 @@ Rage pushed her feet forward."
 **读者视角提示**：注意 Kam 的沉默——她张不开嘴，是委屈也是调解失效，一句话同时击垮调解与她的士气。
 
 
-> **原句 11:** "Anger deflated into sadness, flooding every cell and pore.
-
-
-She couldn’t do anything. She couldn’t protect Ruby. She couldn’t even sing—the one thing she was actually good at. They were right. She was a fuck-up. A complete fuck-up."
+> **原句 11:** "Anger deflated into sadness, flooding every cell and pore. … She was a fuck-up. A complete fuck-up."
 
 **中文理解**：她在铁皮屋顶坐下。愤怒泄成悲伤，灌满每个细胞和毛孔。她们说得对。她是废物。彻头彻尾的废物。
 **关键词**：deflated into sadness / flooding every cell and pore / A complete fuck-up
@@ -166,7 +151,7 @@ Madison sighed. She wished she could switch off her feelings. Truthfully, she di
 After a long silence, she finally said, “But I like her.”"
 
 **中文理解**：不过你真的想过吗？……你们不是寻常人。……沉默了很久后，她终于说出：「但我喜欢她。」
-**关键词**：How will it work / But I like her / Maybe she had a point
+**关键词**：How will it work once tour is over / But I like her
 **为什么这样写**：作者用「But I like her」收——不是「I love her」——两个不确定的都写到位；这是全章最疼的让步。
 **读者视角提示**：注意「I don't know」是全章最疼的词——她刚学会说出喜欢，就立刻承认不知道对方的感觉。
 

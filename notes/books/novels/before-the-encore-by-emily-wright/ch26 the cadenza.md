@@ -8,7 +8,7 @@ modified: "2026-11-05"
 ## 本章导航
 - **一句话概括**：音乐室里妈妈的小提琴故事、Scarlett 的解放电话、格莱美黑幕与下药疑云的双爆料、派对走廊的袭击与浴室之战——Bonnie 踢裆、Madison 头槌、保安与警察进场，Nikita Dixon 递上话筒：「Yes, I would.」
 - **情感弧线位置**：全书矛盾的总清算章——Bailey 从「难缠的经纪人」升级为「危险的加害者嫌疑人」，Bonnie 的身体第一次亲手反击。
-- **Tropes 兑现/反转**：兑现「villain exposed at the party」；反转——Bonnie 自己完成武力反杀（boot），Madison 只补了一个头槌；反转——妈妈的小提琴故事（她教不了的乐器）与本章她「夺回麦克风」平行。
+- **Tropes 兑现/反转**：兑现「反派在派对上败露」；反转——Bonnie 自己完成武力反杀（boot），Madison 只补了一个头槌；反转——妈妈的小提琴故事（她教不了的乐器）与本章她「夺回麦克风」平行。
 - **人物弧线**：Bonnie 完成三次解放（解放 Scarlett、解放自己的音乐、解放自己的拳头）；「I'm Bonnie fucking Bloom」第二次出鞘。
 - **叙事手法**：cadenza（华彩段）隐喻——独奏段落的自由；两轮爆料（Grammys→spiked）的阶梯惊悚；公开评论的开放式收尾（为 Epilogue 留声）。
 
@@ -37,7 +37,7 @@ modified: "2026-11-05"
 > **原句 4:** "“I was constantly covering for him. His demands, his addiction, some of the people he entertains.” … “One said she woke up and wanted to know what happened. The other had suspicions, feeling sick like she had in high school”—her eyes met Bonnie’s—“when she was spiked.""
 
 **中文理解**：「我一直在替他打掩护。他的要求、他的瘾、他接待的那些人。」……「一个说她醒来想知道发生了什么。另一个起了疑心、恶心得像高中那次」——她的眼睛撞上 Bonnie 的——「被下药的时候。」
-**关键词**：covering for him / dates matched up / when she was spiked
+**关键词**：covering for him / when she was spiked
 **为什么这样写**：作者让两名女性证词与 Bonnie 的经历逐字对表——「feeling sick like she had in high school」直接点名 ch19 的下药创伤；Bailey 从「坏老板」跳级成「可能的下药者」。
 **读者视角提示**：注意「her eyes met Bonnie's」——Scarlett 说这句时看着她，因为她知道 Bonnie 懂；两条受害线（ch19/ch26）在此完成接驳。
 
@@ -102,10 +102,10 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | cadenza | 华彩段（独奏炫技段落） | allowing the violinist to launch into the cadenza |
-| apprehended | 被制服、被逮捕 | your manager Jonjoe Bailey has been apprehended by security |
+| apprehended | 被制服、被逮捕 | your manager Jonjoe Bailey has been apprehended by security. |
 | dishevelled | 凌乱的、不修边幅的 | Bailey’s wide eyes and thin, dishevelled hair gave a wild look about him |
-| guttural | 喉底粗嗄的 | a guttural moan clawing out of her throat |
-| volatile | 暴躁易爆的 | Anger spiked, sharp and volatile |
+| wheezing | 喘息 | He glanced up, wheezing. |
+| strobe | 频闪灯 | A giant strobe light rolled across the floor |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -114,7 +114,6 @@ modified: "2026-11-05"
 | arpeggios | 琶音 | Gentle arpeggios gradually climbed higher |
 | spiked | 被下药 | when she was spiked |
 | blind eye | 视而不见 | Everyone turns a blind eye, sweeps it under the rug |
-| apprehended | （见上） | — |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

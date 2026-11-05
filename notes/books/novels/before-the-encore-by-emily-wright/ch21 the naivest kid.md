@@ -96,7 +96,7 @@ modified: "2026-11-05"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| unorthodox | 出格的 | 见 ch18 |
+| ground her teeth | 咬紧牙关 | She ground her teeth together. |
 | seared | 灼烧般划过 | Hot pain seared across her ankle |
 | burrowed | 钻进（皮肤） | Bailey’s words burrowed under her skin. |
 | fuzz | 绒毛感（药物迷糊） | the painkillers filling her limbs with fuzz |

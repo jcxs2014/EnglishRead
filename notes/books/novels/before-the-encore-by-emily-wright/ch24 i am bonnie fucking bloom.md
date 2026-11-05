@@ -27,10 +27,10 @@ modified: "2026-11-05"
 **为什么这样写**：作者让占星语言替她们说「我们为什么吵也为什么配」——刑相（square）就是冲突的官方学名；「power couple」在 fake-dating 章节是营销词，在这里变成关系目标。
 **读者视角提示**：注意「yin and yang」由 Madison 说出——她第一次用 Bonnie 的语言体系总结自己（学习者的姿态）。
 
-> **原句 3:** "When she stepped back inside, Bonnie let out a sad sigh. “Scarlett called. My new album didn’t get nominated for the Grammys this time.” … But then Bonnie’s shoulders slumped, head hanging like her body had been deflated."
+> **原句 3:** "But then Bonnie’s shoulders slumped, head hanging like her body had been deflated. … When she stepped back inside, Bonnie let out a sad sigh. “Scarlett called. My new album didn’t get nominated for the Grammys this time.”"
 
-**中文理解**：她走回屋里，难过地叹气。「Scarlett 打来的。我的新专辑这回没拿到格莱美提名。」……她肩膀塌下来，头垂着，像身体被放了气。
-**关键词**：Scarlett called / didn’t get nominated / deflated
+**中文理解**：她的肩膀塌下来，头垂着，像身体被放了气。……她走回屋里，难过地叹气。「Scarlett 打来的。我的新专辑这回没拿到格莱美提名。」
+**关键词**：shoulders slumped / deflated / didn’t get nominated
 **为什么这样写**：作者用「放气的身体」写事业打击的物理形状——这是全书 Bonnie 第一次经历「照规则玩还是输」；落选来得恰在觉醒前夜，作者的算盘是把失败当燃料泵。
 **读者视角提示**：注意 Scarlett 的电话功能转变——从 ch04 的工具人到本章的信使，她的每次出场都在 Bailey 的影子里。
 
@@ -119,15 +119,15 @@ modified: "2026-11-05"
 |---|---|---|
 | dualistic | 二元的 | you share a dualistic energy |
 | dictated | 被支配、口述 dictates | let my music be filtered and dictated by a bunch of men |
-| doored / doorjamb | 门框（见 ch23） | — |
+| combover | （糟糕的）背头发型 | Fuck Jonjoe Bailey and his stupid fucking combover. |
 | ram-rod | 笔直如杆的 | ram-rod posture and aristocratic bone structure |
-| correlating | — | — |
+| wanker | 讨厌鬼（英式粗口） | Bailey really is such a wanker. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | zodiac | 黄道十二宫 | It was no wonder people thought followers of the Zodiac were witches |
-| harness | （见 ch23） | — |
+| squishy | 软糯的（糖果） | throwing up a squishy egg sweet and catching it in her mouth |
 | nomination | 提名 | My new album didn’t get nominated for the Grammys this time. |
 | lawyer | 律师 | We just need a lawyer to draw it up officially now |
 

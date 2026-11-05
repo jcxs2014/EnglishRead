@@ -6,7 +6,7 @@ modified: "2026-11-05"
 # 25. Chapter Twenty-Five
 
 ## 本章导航
-- **一句话概括**：U-haul 茧居两周后，Madison 带 Bonnie 回谢菲尔德的娘家——路边崩溃（I can't do this）、Bonnie 的「I see you」宣言、餐桌上的「Madison 最爱」（穷困餐）、搜查酒瓶落空、隔屋试探引爆总爆发——「If anyone is the deadbeat fuck-up, Mum, it's you」——然后在家庭争吵的正中央说出第一次「I love her」；妈妈递上三个月戒酒筹码，她留下喝了那杯茶。
+- **一句话概括**：U-haul 茧居两周后，Madison 带 Bonnie 回谢菲尔德的娘家——路边崩溃（I can't do this）、Bonnie 的「I see you」宣言、餐桌上的「Madison 最爱」（穷困餐）、搜查酒瓶落空、隔屋试探引爆总爆发——「If anyone is the deadbeat, heartless fuck-up, Mum. It's not me. It's you.」——然后在家庭争吵的正中央说出第一次「I love her」；妈妈递上三个月戒酒筹码，她留下喝了那杯茶。
 - **情感弧线位置**：Madison 线的总爆发与和解起点——「I love you」诞生于战场而不是烛光，戒酒筹码是妈妈线的第一枚实锤。
 - **Tropes 兑现/反转**：兑现「meet the parents」地狱版；反转—— trigger（妈妈试探 Bonnie）意外成为告白催化剂；反转——「deadbeat」判词被原样奉还。
 - **人物弧线**：Madison 首次被 Bonnie 完整「看见」后仍选择进门；妈妈首次道歉+出示戒酒证据；Ruby 的中间人角色达到峰值。
@@ -44,7 +44,7 @@ modified: "2026-11-05"
 > **原句 5:** "She pulled up on the side of the road, the sudden brakes throwing them both forward. … “No, Bonnie. I can’t.” Madison blinked back tears, pressing her fingers to her eyes. “Fuck’s sake.” She bit hard on the inside of her cheek, forcing the emotion back down."
 
 **中文理解**：她把车停在路边，急刹把两人都甩向前。……「不，Bonnie。我做不到。」Madison 眨回眼泪，手指压上眼睛。「搞什么。」她狠狠咬住腮内侧，把情绪强行按回去。
-**关键词**：sudden brakes / blinking back tears / forcing the emotion back down
+**关键词**：sudden brakes / blinked back tears / forcing the emotion back down
 **为什么这样写**：作者让崩溃发生在离家几分钟的地方——急刹是她情绪系统的急刹；「bite the inside of her cheek」与她签合同时（ch24）的意志动作同款。
 **读者视角提示**：注意这是 Madison 全书第一次在 Bonnie 面前露出眼泪的边缘——她连崩溃都要先「按回去」。
 
@@ -79,7 +79,7 @@ modified: "2026-11-05"
 > **原句 10:** "“I love that picture of you two.” Bonnie nodded towards the photo of Ruby sitting on Madison’s shoulders. Goggles made their eyes bulge like fish, the dark English sea stretching out behind them. … Madison didn’t object, but the spaghetti twirled around and around her fork."
 
 **中文理解**：「我喜欢你们俩这张照片。」Bonnie 指着 Ruby 骑在 Madison 肩上的那张。泳镜把两人的眼睛撑得像鱼，身后是深色的英吉利海。……Madison 没反对，但意大利面在叉子上转了一圈又一圈。
-**关键词**：Goggles made their eyes bulge / Gran’s caravan at Skegness / the spaghetti twirled around and around
+**关键词**：Goggles made their eyes bulge / the dark English sea
 **为什么这样写**：作者用「鱼眼泳镜照」给童年补一块彩色拼图——海、外婆的大篷车、肩膀上的妹妹——她最快乐的记忆也在这个家里；面圈越转越紧是她不安的可视化。
 **读者视角提示**：注意妈妈主动提出拿相册——这动作与后文「试探 Bonnie」的反差将在十分钟内完成：好客与审讯共用一张餐桌。
 
@@ -112,16 +112,16 @@ modified: "2026-11-05"
 | chiffon | 雪纺 | Madison roamed her hands over the soft chiffon |
 | snicket | 小巷（约克郡方言） | they walked down the snicket leading to the back door |
 | sobriety | 清醒、戒断状态 | Three months sobriety |
-| clientele | — | — |
+| sweetheart neckline | 心形领口 | The sweetheart neckline suited her curves, shaping her like a vintage pin-up. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | inhabitable | 宜居的（此处反用） | somewhere she thought was inhabitable |
 | detonate | 爆炸、引爆 | One misstep and their relationship could detonate. |
-| unbeknown | — | — |
-| gratifying | 令人满足的 | It would be satisfying to see her mum’s face |
-| terrifying | — | — |
+| devilish | 恶魔般的 | “Now I think we should wait another thirty minutes while I do devilish things to you.” |
+| satisfying | 令人满足的 | It would be satisfying to see her mum’s face |
+| snicket | 小巷（约克郡方言） | they walked down the snicket leading to the back door |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
@@ -132,4 +132,4 @@ modified: "2026-11-05"
 | spaghetti | 意大利面 | I made Madison’s favourite—spaghetti and hot dogs |
 
 ## 一句话总结
-回娘家的路用一次急刹断过一次——Bonnie 的「I see you」把 Madison 焊回驾驶座；谢菲尔德的排屋里藏着搜查落空的酒瓶、被试探后当场开火的 Bonnie、与那句「If anyone is the fuck-up, Mum, it's you」的原话奉还；「I love her」在家庭战争的废墟里第一次出口，妈妈的道歉与三个月清醒筹码一起摊在桌上——Madison 留下喝了那杯茶，One step at a time。
+回娘家的路用一次急刹断过一次——Bonnie 的「I see you」把 Madison 焊回驾驶座；谢菲尔德的排屋里藏着搜查落空的酒瓶、被试探后当场开火的 Bonnie、与那句「It's not me. It's you.」的原话奉还；「I love her」在家庭战争的废墟里第一次出口，妈妈的道歉与三个月清醒筹码一起摊在桌上——Madison 留下喝了那杯茶，One step at a time。
