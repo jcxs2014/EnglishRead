@@ -30,7 +30,7 @@ modified: "2026-11-05"
 > **原句 3:** "“I didn’t tell you because it doesn’t change anything,” he said."
 
 **中文理解**：火车上，Hayden 抢在她提问前开口：我没有告诉你，因为这不改变任何事。她还没问，他就补了一句：我能从你的眼睛里看到那个问题。
-**关键词**：doesn’t change anything、the question in your eyes
+**关键词**：doesn’t change anything
 **为什么这样写**：沉默者的规则手册——作者让 Hayden 的「不问不答」哲学自己走上台面：他不是隐瞒，是按需供货；「眼睛里的问号」暗示这对搭档已经进入无需语言的沟通层级。
 **读者视角提示**：对照 ch15 的「组建小队」——Hayden 当时的请假条（「为 Foundation 赶项目」）如今有了第二层解释：他回的是「家」；他的每次缺席都是另一个世界的出勤。
 
