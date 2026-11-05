@@ -78,7 +78,7 @@ modified: "2026-11-04"
 |---|---|---|
 | strengthen | 加固 | Let me just go strengthen the wards. |
 | lurked/lurking | 潜伏 | It felt better than the icy fear lurking beneath it. |
-| churning/churned | 翻搅 | Something red and sour—anger—churned in his guts. |
+| churned | 翻搅 | Something red and sour—anger—churned in his guts. |
 | complicit | 同谋的，共谋的 | Adam still didn’t know if she was complicit in what he’d done or simply blinded by the wealth and influence |
 | glowered | 怒视 | Adam glowered at his phone. |
 
@@ -88,7 +88,7 @@ modified: "2026-11-04"
 | mission accomplished | 任务完成（反讽） | “Yeah, well, mission accomplished.” |
 | grandfather | 祖父，外祖父 | And he is Ian’s grandfather, even if he is a snake. |
 | heir | 继承人 | he’d let slip how he considered Ian his heir |
-| grimoire | 魔法书（被窃） | The Binder family grimoire. It’s gone. |
+| grimoire | 魔法书（被窃） | The grimoire was unique, one of a kind. |
 
 ## 一句话总结
 书是饵，人情是钩：Wilcox 以魔法书要挟「见未出生的孙子」；亚当在盐水和五芒星里熬过被侵犯之夜，愤怒压住恐惧；维森特警告滑坡效应，而他决定把一切告诉 Annie——「那是她的孩子，她说了算」。

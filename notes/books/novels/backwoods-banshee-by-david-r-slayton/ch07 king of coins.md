@@ -67,7 +67,7 @@ modified: "2026-11-04"
 
 **中文理解**：Seamus 从不这么大方，但亚当在其中感受不到任何恶魔法。这是件礼物——临时同盟的信物。
 
-**关键词**：not like Seamus to be so generous / couldn’t feel any malicious magic / temporary alliance
+**关键词**：Seamus to be so generous / couldn’t feel any malicious magic / temporary alliance
 
 **为什么这样写**：结盟的可靠性用两次验证写成：先疑（不是他的作风），后检（Sight 扫不出恶意）——亚当对超自然馈赠的标准程序是「先查再收」，这是他被骗过太多次的本能。temporary 一词把同盟的脆弱性写进定义：镍币是契约也是期限。整段没有一句热络话，两个各怀算计的角色达成的正是这种「共同恐惧」基础上的现实主义联盟。
 

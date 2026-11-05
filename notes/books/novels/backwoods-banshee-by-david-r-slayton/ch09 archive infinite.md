@@ -91,7 +91,7 @@ modified: "2026-11-04"
 | dissimilar | 不同的，不相似的 | The green cinder block walls glowed, pulsing with light not dissimilar to the spirit realm’s constant crescent moon. |
 | spectacles | 眼镜 | Adam couldn’t imagine he needed the spectacles, unless he was trying to rock the librarian look, which he succeeded at. |
 | resonance | 共鸣（频率） | “Resonance,” Jack said excitedly. “It holds the dimensional frequency.” |
-| dispensable/dispel | 解除，驱散 | He couldn’t simply dispel the spirit walk and run away if trouble found them. |
+| dispel | 解除，驱散 | He couldn’t simply dispel the spirit walk and run away if trouble found them. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
