@@ -57,7 +57,7 @@ modified: "2026-11-05"
 
 **中文理解**：Silver 指出按人类二十五岁成熟来算，North 早已成年；精灵成年时会迎来成人魔力的爆发。
 
-**关键词**：not a child / came of age / first rush of their adult power
+**关键词**：North is not a child / came of age / some time ago
 
 **为什么这样写**：两人一直用「孩子」的想象安排他的生活（RCC、漫画、教识字），数字一到，假设全部作废。Adam 立即想到雪山木屋与滑雪客：不受控的成人魔力可能已经伤人。秘密虽然又少一个，行动的紧迫感反而更重。
 
