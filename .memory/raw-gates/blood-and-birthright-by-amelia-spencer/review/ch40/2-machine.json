@@ -1,0 +1,295 @@
+{
+  "chapter": 40,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/blood-and-birthright-by-amelia-spencer/ch40 claim her birthright.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch40_chapter_40.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Got a little caught up on a last-minute errand",
+          "ok": true,
+          "pos": 1809
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "I sent word to my contact that we’re mobilizing within the next twenty-four hours",
+          "ok": true,
+          "pos": 3316
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "has been our true enemy",
+          "ok": true,
+          "pos": 6927
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "As an outsider, you needed an invitation to Ryūshaan. We are not subject to the same limitations, and you would be surpr",
+          "ok": true,
+          "pos": 4735
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Nothing feels more real to me than this.”",
+          "ok": true,
+          "pos": 9507
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“You’ve got me there, golden boy.”",
+          "ok": true,
+          "pos": 10445
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“We’ve been in this together since it all started decades ago. By now, I hope you know you’re stuck with me to the end o",
+          "ok": true,
+          "pos": 11952
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "The time had come for Iris’s daughter to claim her birthright",
+          "ok": true,
+          "pos": 13760
+        }
+      ],
+      "words": 11
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 34,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.55,
+        "读者视角提示": 0.36
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 26
+      },
+      "cjk_ratio": {
+        "中文理解": 0.42,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.3
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 39
+      },
+      "cjk_ratio": {
+        "中文理解": 0.55,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.39
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 66,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 34
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.52
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 53,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.59,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 78,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 33
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.35
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 83,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.66,
+        "关键词": 0.0,
+        "为什么这样写": 0.62,
+        "读者视角提示": 0.55
+      }
+    }
+  ],
+  "form": {
+    "h1": "40. Chapter 40",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 9,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2472,
+    "block_target": [
+      4,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 46 章中位 9、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

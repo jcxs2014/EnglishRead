@@ -1,0 +1,55 @@
+{
+ "book": "blood-and-birthright-by-amelia-spencer",
+ "chapter": "ch40",
+ "text": "notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch40_chapter_40.txt",
+ "facts": [
+  {
+   "fact": "Astrid 迟到理由：临时跑腿",
+   "anchor": "Got a little caught up on a last-minute errand.",
+   "start": 1840,
+   "end": 1887
+  },
+  {
+   "fact": "Callan 通报：二十四小时内动员",
+   "anchor": "I sent word to my contact that we’re mobilizing within the next twenty-four hours.",
+   "start": 3387,
+   "end": 3469
+  },
+  {
+   "fact": "Ezekiel 醒悟：真正的敌人从头到尾是议事会",
+   "anchor": "has been our true enemy",
+   "start": 7113,
+   "end": 7136
+  },
+  {
+   "fact": "Hayden 揭秘：东部集团不受邀请制限制",
+   "anchor": "As an outsider, you needed an invitation to Ryūshaan. We are not subject to the same limitation",
+   "start": 4853,
+   "end": 4948
+  },
+  {
+   "fact": "Adrien 的反虚幻宣言",
+   "anchor": "“Nothing feels more real to me than this.”",
+   "start": 9757,
+   "end": 9799
+  },
+  {
+   "fact": "两男互认威慑：这话我接了金童",
+   "anchor": "“You’ve got me there, golden boy.”",
+   "start": 10739,
+   "end": 10773
+  },
+  {
+   "fact": "Silas 的告别：到最后一刻你都甩不掉我",
+   "anchor": "“We’ve been in this together since it all started decades ago. By now, I hope you know you’re s",
+   "start": 12292,
+   "end": 12387
+  },
+  {
+   "fact": "她独自入书前的认领宣言",
+   "anchor": "The time had come for Iris’s daughter to claim her birthright.",
+   "start": 14129,
+   "end": 14191
+  }
+ ]
+}
