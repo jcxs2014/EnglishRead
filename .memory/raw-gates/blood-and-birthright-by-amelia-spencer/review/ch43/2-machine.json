@@ -1,0 +1,241 @@
+{
+  "chapter": 43,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/blood-and-birthright-by-amelia-spencer/ch43 i am real.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch43_chapter_43.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“My daughter, a fucking simpleton.”",
+          "ok": true,
+          "pos": 6188
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "The lettering on the spines of the books lining the West Wing caught fire",
+          "ok": true,
+          "pos": 6797
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“It’s unfortunate, but these things tend to run in bloodlines.”",
+          "ok": true,
+          "pos": 9236
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I am real,” he cut her off. “Look at me. I am real.”",
+          "ok": true,
+          "pos": 12381
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Lofjaerokan grizzlies don’t forget much.”",
+          "ok": true,
+          "pos": 14293
+        }
+      ],
+      "words": 5
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“With every bone in my body.”",
+          "ok": true,
+          "pos": 15081
+        }
+      ],
+      "words": 6
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.71,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.63,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.51
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.57
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 58,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.62,
+        "关键词": 0.0,
+        "为什么这样写": 0.66,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 46
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.53
+      }
+    }
+  ],
+  "form": {
+    "h1": "43. Chapter 43",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 6,
+    "block_median": 9,
+    "block_range": [
+      3,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 6,
+    "quote_long": 0,
+    "segments": 6,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2748,
+    "block_target": [
+      5,
+      9
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 46 章中位 9、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}
