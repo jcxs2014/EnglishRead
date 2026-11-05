@@ -30,28 +30,28 @@ modified: "2026-11-05"
 > **原句 3:** "The night Iris died"
 
 **中文理解**：绯红之心曝光：她拉低领口，让妹妹看那片污染了生命地图的绯红墨。被问「什么时候」，她的回答分两截：Iris 死的那晚——第二次。
-**关键词**：The night Iris died、The second time
+**关键词**：The night Iris died
 **为什么这样写**：作者的招供结构是「先给日期，再补层级」——「第二次」三个字把十年的伪装一次清零：她不是被迫进禁书，是惯犯；妹妹的震惊（「when?」的简单）与姐姐的平静形成温差。
 **读者视角提示**：对照 ch02 结尾的绯红之心首秀、ch24 的「第二次」自白——本章是这条秘密线的第三次曝光，也是唯一一次「自愿」；对家人亮罪，是她洗白流程的第一步。
 
 > **原句 4:** "I promised myself years ago I wouldn’t burden you"
 
 **中文理解**：被问「为什么不找我帮忙」，她的答案带着十年前的血：我早发誓不把脏活加给你——我登上馆长之位那场清洗在你手上留了多少血，我不会再要一次。
-**关键词**：my dirty work、blood my ascension left on your hands
+**关键词**：dirty work
 **为什么这样写**：作者让「保护」以最黑暗的形式完成——Atalanthya 的爱是替妹妹挡脏活，代价是她独自变得更脏；这句解释同时是本章的道德重心：她的罪有共犯结构的源头。
 **读者视角提示**：对照 ch10「protect＋use」的姐妹账本——「ascension 留在你手上的血」是那段历史的账尾；Aeloria 后来复活 Archivists 的伤疤在本章有了温度。
 
 > **原句 5:** "“Have you ever wondered who put the book in my hands?”"
 
 **中文理解**：Aeloria 的反击从一个问题开始：你有没有想过——是谁把那本书放进我手里的？她僵住。答案被缓缓交出：是 Felix。指控一位议员向儿童兜售禁书？没人会信，包括你——他是图书馆最有影响力的议员，若挑战者出现而他心向别处，他那票就是丧钟。
-**关键词**：who put the book in my hands、peddling banned books to children
+**关键词**：who put the book in my hands
 **为什么这样写**：全章最响的暗雷——作者把「妹妹的堕落」重新归因到一场针对性的投毒：Felix 的十年布局从她童年就开始布线；「向儿童兜售」的措辞让罪行的层级瞬间升格。
 **读者视角提示**：对照 ch02 的议事会审计、ch13 的「幕后实权」——Felix 的画像至此完整：他喂出一把刀（Aeloria）、养出一场政变（议事会清醒）、只等一位挑战者（Emerson）；「 scapegoat」的帽子由此有据。
 
 > **原句 6:** "“You are the scapegoat.”"
 
 **中文理解**：Aeloria 的诊断一针见血：你不信权力本身，你信的是理念——Catalogue 是那个信念的化身。你为它牺牲了朋友、家人、甚至自己——唯一没牺牲的就是你自己，而你也快了。
-**关键词**：the scapegoat、the embodiment of that belief system
+**关键词**：the scapegoat
 **为什么这样写**：作者让妹妹充当姐姐的解剖师——「替罪羊」的定性把 Felix 阴谋的形状说尽：他要的不是她的位子，是她的罪；等中央图书馆倒下时，全体账单都挂在她名下。
 **读者视角提示**：对照 ch02 Felix 的「tie-breaking vote」——他投的从来不是人，是倒计时；「牺牲自己」的预言在 ch24 灭口、ch38 自曝后加速兑现。
 
@@ -76,7 +76,6 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | frustratingly | 令人气结地 | Unlike most Librarians, who viewed her as frustratingly unreadable, her sister had always been able to interpret her moods. |
-| scavenging | 搜刮；凑 | I think we can scrounge up enough to share amongst the three of us and grandma’s ashes. |
 | scrounge | 东拼西凑地搞到 | I think we can scrounge up enough to share amongst the three of us and grandma’s ashes. |
 | implicated | 牵连 | Not one that wouldn’t implicate her sister as an accessory to her crimes. |
 
