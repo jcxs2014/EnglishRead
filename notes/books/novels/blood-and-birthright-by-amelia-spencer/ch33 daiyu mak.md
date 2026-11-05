@@ -23,14 +23,14 @@ modified: "2026-11-05"
 > **原句 2:** "“I will murder you in your sleep tonight,” she warned."
 
 **中文理解**：船上，Silas 晕得发绿，她挪开半个身位放话：见 Hayden 母亲之前你敢吐我身上——今晚我就杀了你。他翻着白眼保证不吐，只是要「盯着太阳，祈祷它在我们驶入更险的水域前把我烤熟」。
-**关键词**：murder you in your sleep、stare directly into the sun
+**关键词**：murder you in your sleep
 **为什么这样写**：作者用最凶的威胁包裹最深的关心——她的警告翻译过来是「别在拜山前垮掉」；Silas 的幽默回应（盯太阳求烤熟）是他处理恐惧的固定语法：把不适夸张成自嘲。
 **读者视角提示**：对照 ch14 的床头审问——她的「murder you」式关照语与 Silas 的「probation」条款一脉相承；这对搭档的疼爱永远裹着凶话的糖衣。
 
 > **原句 3:** "“Apparently, climbing stairs until you feel like your lungs might explode is good for"
 
 **中文理解**：石阶地狱中的信息交换：她弱弱地问龙之山有没有电梯；Xia 转述母亲的教育理念——「爬到肺炸才算性格培养」（手比引号）；Emerson 回敬：性格和股四头肌不是同义词。
-**关键词**：climbing stairs、character development
+**关键词**：climbing stairs
 **为什么这样写**：未见面先领教——作者让 Daiyu 的教育哲学借妹妹的嘴先到：「性格培养」四个字的反讽引号是全书对体制化苦难的标准嘲讽姿势；电梯梗则让神山落回凡间。
 **读者视角提示**：对照 ch32「intense」的预警——Daiyu 的「先爬再说」与 Éalodyne 的「别忘了玩得开心」构成两种母亲的极性；Emerson 的股四头肌吐槽是她给这次拜山准备的最后一件轻松行李。
 
@@ -78,7 +78,7 @@ modified: "2026-11-05"
 | garnering | 招来；引起 | Although they averted their eyes whenever she looked directly at them, it was clear they were garnering an unusual amount of attention. |
 | converged | 汇聚；聚拢 | Emerson did her best to keep up, weaving through the crowd that quickly converged in the Mak siblings’ wake. |
 | dawdling | 磨蹭；拖沓 | We’ve got two Maks on board, so I don’t want to see any of you malingering fucks dawdling like this is your first day on the water. |
-| simpering | 媚笑讨好的 | her gaze darted back and forth between Hayden and the man simpering on the ship |
+| recovered | 缓过来；恢复镇定 | After a few stilted breaths, he recovered enough to smile politely and incline his head in a respectful bow. |
 | bristling | （怒气）竖起 | she could feel Silas bristling with every passing second |
 
 ### ⭐ 常用
