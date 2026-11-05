@@ -62,7 +62,7 @@ modified: "2026-11-05"
 **为什么这样写**：严肃考题配促狭的眼神——作者让女王一句话同时布置任务与拆台：她知道一张床的事，也知道这三个人之间的账。「have fun」在送别语境里既是祝福也是考题。
 **读者视角提示**：对照 ch16 的狂欢夜——女王全看在眼里；「life and love」四个词是 Aelwyth 的建国纲领，也是对 Emerson 战争叙事的当头矫正。
 
-> **原句 8:** "“You tried to kill me too,” she mumbled."
+> **原句 8:** "“You tried to kill me too,” she mumbled. “I wasn’t trying that hard. And I said sorry,” he replied, his eyes twinkling with amusement."
 
 **中文理解**：安慰戏里，Emerson 嘟囔了一句反驳：你去年也想杀我来着。Adrien 眨着眼回答：我当时没多用力，而且我道歉了。
 **关键词**：tried to kill me too、I wasn’t trying that hard
