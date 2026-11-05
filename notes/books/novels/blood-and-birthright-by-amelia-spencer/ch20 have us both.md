@@ -58,7 +58,7 @@ modified: "2026-11-05"
 > **原句 7:** "“You like him,” she gasped."
 
 **中文理解**：听到「我尊重他」，她当场看穿了另一件事，倒吸一口气：你喜欢他。他嗤之以鼻刚要反驳，她追着补刀：承认吧——他这个人不可能不让人喜欢。
-**关键词**：You like him、impossible not to like him
+**关键词**：You like him、gasped
 **为什么这样写**：一句话捅破全书的窗户纸——作者让 Emerson 扮演人形测谎仪；Silas 对 Adrien 的情感（从死敌到「admire his tenacity」）是她先说破的，这为后文「both」的成立提前铺轨。
 **读者视角提示**：对照 ch04 酒吧的互翻旧账、ch08 的破门搭档——Silas 对 Adrien 的态度曲线一直是本书的暗线；她的「你喜欢他」是把它拖到明面。
 
@@ -72,14 +72,14 @@ modified: "2026-11-05"
 > **原句 9:** "I don’t have any objections to you watching"
 
 **中文理解**：锁舌落下。Silas 这才把视线还给她，交底：我不反对你旁观——但我预计你会以参与者的身份加入，而不是当个吓傻的观众，懂我意思吧。
-**关键词**：objections to you watching、a participant rather than a stunned spectator
+**关键词**：objections to you watching、watching
 **为什么这样写**：邀请写成通牒——作者用「participant／spectator」的二选一把退路焊死；这句是全书最大胆的一场戏的入场券，而发牌的人是上个星期还在「probation」别人的人。
 **读者视角提示**：对照 ch19 结尾 Silas 眼里的 intrigue——本章证实那不是错觉：他早已算到这一步；「both」这个词还没出口，房间里的权力结构已经重排。
 
 > **原句 10:** "Answer the question, Adrien"
 
 **中文理解**：Silas 连环发问：你想要她，对吧？——回答问题，Adrien。你想不想要她？Adrien 盯着她低声答：想。Silas 趁热打铁：好。我们早该彼此诚实了——唯一剩下的问题是，她肯不肯同时要我们俩。因为反正，Emmie，我绝不把你让出去。
-**关键词**：Answer the question、I’m certainly not giving you up
+**关键词**：Answer the question、Adrien
 **为什么这样写**：作者把三角关系压缩成一场三段式质询——第一问对 Adrien，第二问对整个房间；「certainly not giving you up」是对她的告白：就算只有两个人，他也不放手。谈判桌上的最后通牒与情话是同一句。
 **读者视角提示**：注意「It's about time we were all honest」——诚实是 Silas 的入场理由；他反对的从来不是分享，是隐瞒（呼应 ch14 他自己被瞒的旧伤）。
 
@@ -114,14 +114,12 @@ modified: "2026-11-05"
 | surrendered | 投降；顺从 | “Come here,” Silas murmured, tugging her toward him until she surrendered, |
 | participant | 参与者 | But I anticipated you’d be joining as a participant rather than a stunned spectator, if you catch my drift. |
 | anticipated | 预计；料到 | But I anticipated you’d be joining as a participant rather than a stunned spectator, if you catch my drift. |
-| incontrovertible | 无可辩驳的 | It’s beyond clear you can’t choose. |
-| unravels | 解体；失控 | His control was unraveling by the second. |
+| Obediently | 顺从地；乖乖地 | Obediently, she inhaled. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | flustered | 慌乱的；窘迫的 | The elf’s eyes twinkled as she tried to hide her amusement at Emerson’s flustered state. |
-| startled | 吓了一跳 | He shot to his feet, startling the other two Librarians. |
 | murmured | 低声说 | “Come here,” Silas murmured, tugging her toward him until she surrendered, |
 | crooned | 柔声哄着说 | “There you go, Emmie,” he crooned. |
 
