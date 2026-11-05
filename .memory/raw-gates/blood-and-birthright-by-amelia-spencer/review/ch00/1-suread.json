@@ -1,0 +1,20 @@
+[
+ {
+  "fact": "书脊字迹着火",
+  "anchor": "The lettering on the spines of the books caught fire.",
+  "start": 24,
+  "end": 77
+ },
+ {
+  "fact": "Emerson 情绪失控烟雾涌起",
+  "anchor": "Smoke billowed up from the stacks as Emerson lost control of her emotions.",
+  "start": 80,
+  "end": 154
+ },
+ {
+  "fact": "她尖叫自称馆长西翼陷火海",
+  "anchor": "The West Wing went up in flames.",
+  "start": 196,
+  "end": 228
+ }
+]

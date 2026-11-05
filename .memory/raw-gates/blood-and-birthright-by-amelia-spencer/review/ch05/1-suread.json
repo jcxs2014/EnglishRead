@@ -1,0 +1,50 @@
+[
+ {
+  "fact": "墙角对话只有你在她才睡着",
+  "anchor": "“And yet, she only falls asleep when you’re in the room.”",
+  "start": 690,
+  "end": 747
+ },
+ {
+  "fact": "Adrien 一屑也接受心归你梦归我",
+  "anchor": "If she gives me a piece of herself—even if it’s just a crumb—I’ll accept it.",
+  "start": 1666,
+  "end": 1742
+ },
+ {
+  "fact": "圣诞清晨 Silas 偷来的圣诞帽煎饼",
+  "anchor": "clad only in low-hanging sweatpants and a Santa hat he’d stolen from the neighbor’s holiday yard display the previous night",
+  "start": 3856,
+  "end": 3979
+ },
+ {
+  "fact": "Iris 藏书随屋焚毁波浪声引向车库",
+  "anchor": "Iris’s personal collection had been destroyed when their house burned down all those years ago.",
+  "start": 5298,
+  "end": 5393
+ },
+ {
+  "fact": "Dilethisante 混在木工工具箱里被挖出",
+  "anchor": "He unearthed a thick black book from a box filled to the brim with an assortment of carpentry tools.",
+  "start": 6871,
+  "end": 6971
+ },
+ {
+  "fact": "Silas 令别让 Miles 看见那本书",
+  "anchor": "He pointed the spatula at the other two Librarians and ordered, “Do not let Miles see that.”",
+  "start": 8025,
+  "end": 8117
+ },
+ {
+  "fact": "字条 Reaper 未长成则 Archivists 复兴",
+  "anchor": "If the Reaper fails to grow into its potential, the Archivists’ revival began in these pages.",
+  "start": 10562,
+  "end": 10655
+ },
+ {
+  "fact": "Magnus 被葬入 Hall of Guardians 前 Reapers 还在",
+  "anchor": "Up until I was entombed in the Hall of Guardians, they were alive and well.",
+  "start": 12781,
+  "end": 12856
+ }
+]
