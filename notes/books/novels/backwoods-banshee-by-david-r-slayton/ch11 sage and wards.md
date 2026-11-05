@@ -6,8 +6,8 @@ modified: "2026-11-04"
 # 11. Chapter 11
 
 ## 本章导航
-- **一句话概括**：亚当带香草苗替 Bobby/Annie 家种下防护植物、重画 wards，随后向 Annie 交底 Wilcox 的一切；Annie 决定反将一军——「我会打这个电话，但让 FBI 监听」；Wilcox 二次来电宣布书的下落：Erythraean 旅馆，房间自己猜。
-- **情感弧线位置**：坦白与结盟的一章——「不是你的错，你爸是个混蛋」是全卷少见的一句拥抱式台词；书的下落把旧伤原址（旅馆）重新踩上，下一章直面创伤现场。
+- **一句话概括**：亚当带香草苗替 Bobby/Annie 家种下防护植物、重画 wards，随后向 Annie 交底 Wilcox 的一切；Annie 决定反将一军——「我会打这个电话，但让 FBI 监听」；Wilcox 二次来电宣布书的下落：Erythraean 旅馆，房间自己猜。Vic 拒绝让 Adam 独自回去——「I'm coming.」——而行期定在次日，因为他要先去上治疗课。
+- **情感弧线位置**：坦白与结盟的一章——「不是你的错，你爸是个混蛋」是全卷少见的一句拥抱式台词；书的下落把旧伤原址（旅馆）重新踩上；章末维森特把手放在亚当腿上、捏到他能承受的边缘——「上次我没保护你」——而亚当真正怕的是让维森特看见他在那个地方会变成什么。
 - **Tropes 兑现/反转**：反转「受害者独自行动」——Annie 接管主动权（FBI 监听反制），绑架交易的攻守易位；「种植物=低危日常」被作者写成了真正的战斗准备（binding、consecration）。
 - **人物弧线**：Annie 完成从「被保护者」到「决策者」的转变：她点破父亲的交易本能、自嘲与亚当「共同点」、随即布下反监听棋；亚当承认想念 Silver 的复杂光谱——前任/朋友/上司三线未清。
 - **叙事手法**：以园艺的感官细节（香草味、细语般的植物）承载大段政治背景（父母流亡、White 事件），重口味的往事全部藏在种植的动作蒙太奇里；「Erythraean」一句钩住全卷。
@@ -71,7 +71,28 @@ modified: "2026-11-04"
 
 **为什么这样写**：三句话完成一次完美施虐：先扣态度分（attitude aside——表扬里夹枪），再给坐标（Erythraean——本卷创伤原点），最后留谜语（guess which room——把选择权也变成刑具）。Erythraean 一词的分量：锤子、手术刀、束缚带都在那栋楼里，现在又多了一间藏着书的房。作者让 Wilcox 的每一句都像加价：你以为付清了，其实刚入场。
 
-**读者视角提示**：房间悬念的残酷在于：每个房间都可能是当年的那间。下一章 Dautre 引路直入——门的问题解决了，记忆的问题刚刚开始。Vic 的补充（Dautre 也许懂精灵宗教）把取书与解谜两线拧成一股。
+**读者视角提示**：房间悬念的残酷在于：每个房间都可能是当年的那间。下一章 Dautre 引路直入——门的问题解决了，记忆的问题刚刚开始（行期在治疗课之后，见原句 8）。Vic 的补充（Dautre 也许懂精灵宗教）把取书与解谜两线拧成一股。
+
+> **原句 7:** "“I’m coming.” Vic put his hand on Adam’s leg and squeezed, riding up to the edge of what Adam could bear. “I’m not letting you go back there without me. I couldn’t protect you the last time. I’m not taking any chances now.”"
+
+**中文理解**：「我一起去。」维森特把手放在亚当腿上，捏了捏——力道停在亚当能承受的边缘。「我不会让你一个人回那个地方。上次我没能保护你。现在我不冒任何险。」
+
+**关键词**：“I’m coming.” / squeezed / couldn’t protect you / not taking any chances
+
+**为什么这样写**：触碰的剂量写在动词里（squeezed…riding up to the edge）——他在试探边界的同时宣告同行。三个短句是保护者的逻辑链：失败（couldn't）→ 修正（not taking chances）；「上次」指旅馆事件，本句把 ch10 的创伤记忆直接接回行动决策。
+
+**读者视角提示**：此前 Adam 理由两条（boggins 风险、非法闯入会被捕）都被自己推翻——真正的理由在下一块。
+
+> **原句 8:** "Adam knew that neither of those were the real reason. … He didn’t want Vic to see him in that place, what it might do to him, or who he might become if he broke down. And yet it was Vic, who’d already seen the worst of him so many times and never walked away."
+
+**中文理解**：亚当知道，那两条都不是真正的理由。……他不想让维森特看见他在那个地方的样子——看见那会对他做什么，看见他崩溃时会变成谁。而那个人是维森特，是已经见过他最坏的样子无数次、却从未走开的人。
+
+**关键词**：neither of those were the real reason / if he broke down / never walked away
+
+**为什么这样写**：真实恐惧迟到一段才现身，句法跟着转折——先两个虚拟场景（会做什么/会变成谁），再让 And yet 把同一人的两种身份（被保护者/被看见者）对撞。never walked away 是全卷对这段关系最 economical 的定义。
+
+**读者视角提示**：结尾的「Okay」「Tomorrow night」给出两件事：他答应了，但先去上治疗课（I've got therapy tomorrow）——时间顺序把下一章的治疗室放在重返旅馆之前。
+
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
@@ -101,4 +122,4 @@ modified: "2026-11-04"
 | morning sickness | 孕吐（晨间恶心） | “The morning sickness is gone, and that’s the nicest thing ever.” |
 
 ## 一句话总结
-香草苗入土、 wards 重画，Binder 家的魔法书嘱咐「对植物说话也要听」；Annie 听完 Wilcox 的一切，反手布下 FBI 监听局；而 Wilcox 的奖品是一间房——书就在 Erythraean，就是那家旅馆，房间自己猜。
+香草苗入土、 wards 重画，Binder 家的魔法书嘱咐「对植物说话也要听」；Annie 反手布下 FBI 监听局；Wilcox 的奖品是一间房——Erythraean，房间自己猜。章末维森特宣告同行（I'm coming），而 Adam 把行期推到治疗课之后——他先要「把墙再砌高一点」。

@@ -1,0 +1,55 @@
+{
+ "book": "backwoods-banshee-by-david-r-slayton",
+ "chapter": "ch11",
+ "text": "notes/books/novels/backwoods-banshee-by-david-r-slayton/text/ch11_chapter_11.txt",
+ "facts": [
+  {
+   "fact": "Adam 把 Vic 送到 ghost kitchen，然后顺路去园艺中心买了要种在 Bobby 和 Annie 院子里的香草。",
+   "anchor": "Adam dropped Vic at the ghost kitchen and went by the garden center to get some herbs for Bobby and Annie’s yard.",
+   "start": 45,
+   "end": 158
+  },
+  {
+   "fact": "Adam 这次没请 Silver 帮忙加固 Bobby 家的结界，因为开口求助可能把 Silver 的注意力引向 Ian。",
+   "anchor": "Asking for his help might draw his attention toward Ian.",
+   "start": 803,
+   "end": 859
+  },
+  {
+   "fact": "Annie 说那两样东西听起来像报丧女妖（banshees）；Adam 回答它们算是一种，并有朋友已经证实。",
+   "anchor": "“They are, of a sort. A friend confirmed it.”",
+   "start": 7313,
+   "end": 7358
+  },
+  {
+   "fact": "Annie 的父母仍在逃亡——主要因为 Annie 把手头的一切都交给了联邦探员（the feds），用来拆解 Patrick 的生意。",
+   "anchor": "They’d fled the country, largely thanks to Annie having given the feds everything she could to take Patrick’s businesses apart.",
+   "start": 5097,
+   "end": 5224
+  },
+  {
+   "fact": "在那次旅馆事件里，Adam 只是 White 手里的试验品，折磨他反而是额外的收获。",
+   "anchor": "Adam had been a test. The chance to torture him, a bonus.",
+   "start": 5613,
+   "end": 5670
+  },
+  {
+   "fact": "Annie 同意给 Wilcox 打电话，但要让 FBI 在线上监听，看能否追踪这通电话。",
+   "anchor": "I’ll call him, but I’ll make sure the FBI is listening in.",
+   "start": 8583,
+   "end": 8641
+  },
+  {
+   "fact": "Wilcox 之后来电告诉 Adam，书就放在 Erythraean，让他自己猜是哪个房间。",
+   "anchor": "You can find your book at the Erythraean. I’ll let you guess which room.",
+   "start": 9515,
+   "end": 9587
+  },
+  {
+   "fact": "Vic 坚持要同行去取书——上次没能保护 Adam，这次他不肯让 Adam 独自回到那个地方。",
+   "anchor": "I’m not letting you go back there without me. I couldn’t protect you the last time. I’m not taking any chances now.",
+   "start": 10994,
+   "end": 11109
+  }
+ ]
+}

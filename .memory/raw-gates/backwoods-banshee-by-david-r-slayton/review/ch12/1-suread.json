@@ -1,0 +1,55 @@
+{
+ "book": "backwoods-banshee-by-david-r-slayton",
+ "chapter": "ch12",
+ "text": "notes/books/novels/backwoods-banshee-by-david-r-slayton/text/ch12_chapter_12.txt",
+ "facts": [
+  {
+   "fact": "在 Dr. Cahill 的心理治疗中，Adam 一连几分钟都没回答她例行的开场问题 How are you?",
+   "anchor": "They’d gone a few minutes without him answering her first question, which was always her standard How are you?",
+   "start": 223,
+   "end": 333
+  },
+  {
+   "fact": "Cahill 告诉 Adam：没有那么多“应该”，人无法强迫别人变成别的样子，也无法单靠意志驱走 PTSD。",
+   "anchor": "“There are no shoulds, Adam. You can’t force people to be what they aren’t and you can’t just will away your PTSD.”",
+   "start": 913,
+   "end": 1028
+  },
+  {
+   "fact": "Adam 曾经切断 Patrick 体内的魔法丝线——这比束缚（binding）更有效、也更永久。",
+   "anchor": "Adam had severed Patrick’s magic, the threads of it inside him. It was more effective and more permanent than a binding.",
+   "start": 1451,
+   "end": 1571
+  },
+  {
+   "fact": "Adam 决意不让 Wolf 成真，必要时他会先切断 Ian 的魔法。",
+   "anchor": "Adam wouldn’t let him be. He’d sever Ian’s magic first.",
+   "start": 5908,
+   "end": 5963
+  },
+  {
+   "fact": "Adam 说他洗牌切牌 three times（三次），抽出的始终是同一张 Five of Cups。",
+   "anchor": "“I shuffled and cut the deck three times, and it was always the same card.”",
+   "start": 2033,
+   "end": 2108
+  },
+  {
+   "fact": "Cahill 点破：天气已经转暖，Adam 却仍然整日穿长袖，遮住他的疤痕。",
+   "anchor": "“It’s getting warmer out, but you still wear long sleeves all the time,” she said. “Covering your scars.”",
+   "start": 2828,
+   "end": 2933
+  },
+  {
+   "fact": "Adam 承认 Vic 碰他时会退缩，听到有人摔门会吓一跳，他担心这永远好不了。",
+   "anchor": "“I can’t . . . when Vic touches me, I flinch. I jump when someone slams a door. What if it never gets better?”",
+   "start": 3758,
+   "end": 3868
+  },
+  {
+   "fact": "Cahill 判定 Adam 正在悲恸：他失去的是纯真，他的疤痕不只是身体的、也是心理的。",
+   "anchor": "“You’ve had a loss of innocence. Your scars aren’t just physical, they’re psychological.”",
+   "start": 6093,
+   "end": 6182
+  }
+ ]
+}
