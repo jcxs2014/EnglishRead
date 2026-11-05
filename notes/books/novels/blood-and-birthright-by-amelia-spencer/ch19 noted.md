@@ -44,14 +44,14 @@ modified: "2026-11-05"
 > **原句 5:** "“Dance with me,” he ordered."
 
 **中文理解**：僵局中 Adrien 弹起来，对 Emerson 下的不是邀请而是命令：跟我跳。她盯着他伸出的手看了一瞬，瞥了一眼 Silas，还是把手放了上去。
-**关键词**：ordered、did not hesitate
+**关键词**：Dance with me、ordered
 **为什么这样写**：祈使句代替邀请——作者让礼貌体系在政治压力下让位；她「没有犹豫」这个细节最重：在 Silas 的注视里把手交出去，是她第一次公开选择立场（哪怕是演的）。
 **读者视角提示**：对照 ch16「被精灵撞个满怀」的被动——同一章之内她完成了从「被安排」到「被邀请」再到「被命令」的三级跳；这只手的政治含义大于舞蹈含义。
 
 > **原句 6:** "“After spending the last year with me, I think you’d know by now that I excel in hostile environments.”"
 
 **中文理解**：舞池里她警告「你在玩火」，他贴着她的耳朵回敬：跟我待了整整一年，你该知道我最擅长在充满敌意的环境里生存。
-**关键词**：playing with fire、excel in hostile environments
+**关键词**：excel in hostile environments、hostile environments
 **为什么这样写**：作者让调情与自传重叠——「敌意环境」既指 Silas 的目光，也指他真实的成长史（被逐出馆门的 Moons 之子）；把劣势说成专业技能，是 Adrien 式幽默的巅峰。
 **读者视角提示**：这句可以当他的墓志铭读——从被外祖家否认到在敌营谈笑，他全部的生存技能都来自「不受欢迎」；玩火的人最懂火性。
 
