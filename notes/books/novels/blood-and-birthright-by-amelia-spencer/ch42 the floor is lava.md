@@ -58,7 +58,7 @@ modified: "2026-11-05"
 > **原句 7:** "“It’s good to finally meet you, Emerson.”"
 
 **中文理解**：迷宫底部，她把「Elias」认成了救星——回头却看见银丝、颞骨到衣领的疤：是 Isaiah Masterson。他慢悠悠地开口：Librarian 认错我和我儿子不是第一次了。我认识你母亲，她是个 formidable 的女人。终于见到你了，Emerson。
-**关键词**：mistaken me for my son、good to finally meet you
+**关键词**：good to finally meet you
 **为什么这样写**：作者用「认错人」的喜剧壳装最深的一条伏笔——Isaiah 的疤（ch02 提过）与「认识 Iris」的自报家门，把 Elias 全家的故事线一把接入战局；「finally」两个字泄露他等这一天很久了。
 **读者视角提示**：对照 ch04 Miles 把 Adrien 认成 Kaenan——本书的「认错人」从来不只是笑点，是家族史的入口；Isaiah 与 Iris 的旧交情（ch02 妹妹警告过他的「阴沉」）将在下一章开讲。
 
