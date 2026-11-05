@@ -51,7 +51,7 @@ modified: "2026-11-04"
 
 **为什么这样写**：两句话写完一桩弑神案，全用被动与被迫的语态——commanding him to deny、had been forced——把 Silver 放在「被父亲与被王位两头挤压」的位置上。gun him down 用的是最不像精灵的武器（枪），这个细节说明弑父在精灵伦理里连「用剑决战」的体面都没有，只是处决。terrible 承接旧王的暴虐，为传统派的「不可原谅」补上反讽：他们敬的神是个虐待狂。
 
-**读者视角提示**：Silver 是亚当的前男友兼现任国王——他此刻的处境解释了 ch02 里「缓刑保护你」的真实性：王座下每一条传统派腿都在踹他。
+**读者视角提示**：Silver 是亚当的前男友兼现任国王——他此刻的处境印证了本章后文 Adam 的怀疑（缓刑或是保护）：王座下每一条传统派腿都在踹他。
 
 > **原句 5:** "There were also the Lost Ones, the unsheltered mortals unmoored from their place in time who’d chosen Cheesman Park as their campground. And there was North, the half-human son of the Knight of Swords."
 
