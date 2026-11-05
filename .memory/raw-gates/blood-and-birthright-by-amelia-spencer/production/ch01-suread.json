@@ -1,0 +1,55 @@
+{
+ "book": "blood-and-birthright-by-amelia-spencer",
+ "chapter": "ch01",
+ "text": "notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "Emerson 与 Magnus 在 Foundation 议事厅壁炉旁的红丝绒扶手椅里喝波本约两小时，看炉火熄灭。",
+   "anchor": "Together, Emerson and Magnus watched the fire recede until all that remained were charred logs atop hot embers.",
+   "start": 459,
+   "end": 570
+  },
+  {
+   "fact": "Emerson 在 Catalogue 里待了一年、唯一稳定的同伴是 Adrien，回来后反而不习惯天天被人围着。",
+   "anchor": "After a year inside the Catalogue with Adrien as her only consistent source of company, Emerson was unaccustomed to being surrounded by so many people on a daily basis.",
+   "start": 2960,
+   "end": 3128
+  },
+  {
+   "fact": "自从她从 Catalogue 回来，Maya 坚持和她同住；Elias 又总跟着 Maya——她的小公寓日常挤着五个人。",
+   "anchor": "Since her return from the Catalogue, Maya had insisted upon staying with her. And these days, Elias went wherever Maya went.",
+   "start": 2532,
+   "end": 2656
+  },
+  {
+   "fact": "Silas 从 Morsania Circo 回来后，Adrien 起初对她保持距离，但随着日子推移成了她家的常客。",
+   "anchor": "Adrien initially kept his distance from her after Silas returned from Morsania Circo.",
+   "start": 3228,
+   "end": 3313
+  },
+  {
+   "fact": "Foundation 的 sleeper cells 按 III 类筛目标：最上面那类名单顶头写着 Elias 父母的名字。",
+   "anchor": "Emerson remembered blinking in surprise when Elias handed her the list and she found both of his parents’ names scrawled at the very top of the page.",
+   "start": 6510,
+   "end": 6659
+  },
+  {
+   "fact": "Hayden 出发去昆仑山（Kunlun Mountains）找 Eastern Librarians 之后无人再有他的音信。",
+   "anchor": "No one had heard from him since he departed for the Kunlun Mountains.",
+   "start": 7458,
+   "end": 7527
+  },
+  {
+   "fact": "Magnus 的绰号 Butcher 来自一千二百多年前他屠戮整个 Librarian 议会。",
+   "anchor": "the nickname he had acquired after slaughtering an entire Council of Librarians more than twelve centuries ago",
+   "start": 9619,
+   "end": 9729
+  },
+  {
+   "fact": "结尾 Emerson 问「这真的是战争吧」，Magnus 答「更糟——这是一场政治竞选」。",
+   "anchor": "“Worse,” he replied. “It’s a political campaign.”",
+   "start": 13236,
+   "end": 13285
+  }
+ ]
+}
