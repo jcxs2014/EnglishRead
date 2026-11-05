@@ -1,0 +1,61 @@
+{
+ "book": "blood-and-birthright-by-amelia-spencer",
+ "chapter": "ch24",
+ "text": "notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch24_24_atalanthya.txt",
+ "facts": [
+  {
+   "fact": "开场：Atalanthya 撬开 Magnus 的门，对着一杯劣质金酒自嘲——本想偷喝他的伏特加泄愤，但连最底层的金酒都比伏特加强。",
+   "anchor": "“Beggars can’t be choosers, I suppose,” she muttered.",
+   "start": 296,
+   "end": 349
+  },
+  {
+   "fact": "Council Room 意外：石像鬼尝了她的血当场尖叫报警（Elias 大概率改过识别签名）——她用波本砸脸、打火机喂火，把整墙石像鬼烧成熔化的「无声审判者」。",
+   "anchor": "She had been charged with the care and protection of the Library’s creatures and she had just massacred more than two dozen of them.",
+   "start": 8559,
+   "end": 8691
+  },
+  {
+   "fact": "地牢见 Jaruwah：镣铐磨烂、金发成泥；Atalanthya 翻过木桶坐下开门见山——「你接任务时就知道这是什么」。",
+   "anchor": "“You knew what this was when you signed up for the mission,” she said.",
+   "start": 13814,
+   "end": 13884
+  },
+  {
+   "fact": "Jaruwah 的控诉清单：一次错误让她在逐出教门与成为 Archivist 之间没得选；她从不拒命、为馆长与其议会的名声杀过数不清的 Librarian——「你把你那丢人的儿子硬塞给我训练」；报酬是肮脏的死亡，连 Archivists' Rotunda 都不会记得她。",
+   "anchor": "I know that I trained your disgraced son when you foisted him on me.",
+   "start": 14308,
+   "end": 14376
+  },
+  {
+   "fact": "拒饮毒药：她要 Atalanthya 解开镣铐、两把匕首公平决斗——「让你杀得有点荣誉」；还回敬「I have killed better Librarians for you」（不是我比你强，是我替你杀过比你强的）。",
+   "anchor": "And release me so that you can do it with some honor.",
+   "start": 15183,
+   "end": 15236
+  },
+  {
+   "fact": "自刎：她说一生见过三位馆长——第一位是她杀的（台阶上），第二位下令杀；第三位让她看到前两位都不配——说完把匕首捅进自己腹部。",
+   "anchor": "The third showed me that the other two were unworthy.",
+   "start": 17670,
+   "end": 17723
+  },
+  {
+   "fact": "她的动机链：Felix 那场「审计」让她确信他早知道 Iris 之死的真相、在等时机取而代之；Jaruwah 是唯一知道她进过禁书的活口，必须灭口。",
+   "anchor": "“He knew,” she seethed. “He knew, and he’s been biding his time until the circumstances were right to replace me.”",
+   "start": 11645,
+   "end": 11759
+  },
+  {
+   "fact": "自我训话：她复述 Felix 年轻时常对她说的「稳住，Tia——你没有恐惧与软弱的奢侈，战争已至，没有你图书馆会亡」。",
+   "anchor": "“Compose yourself, Tia,” she said, echoing the words Felix Astor had said to her so many times in her youth.",
+   "start": 2994,
+   "end": 3102
+  },
+  {
+   "fact": "潜入路上对着 Iris 的记忆低语旧誓言：「这比你我的恩怨更大。最重要的，永远是 Catalogue。」——ch05/09 的誓言第三次出现。",
+   "anchor": "“Above all else, the Catalogue.”",
+   "start": 9833,
+   "end": 9865
+  }
+ ]
+}
