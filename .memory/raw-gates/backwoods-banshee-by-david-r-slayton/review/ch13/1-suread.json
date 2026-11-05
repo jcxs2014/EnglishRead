@@ -1,0 +1,55 @@
+{
+ "book": "backwoods-banshee-by-david-r-slayton",
+ "chapter": "ch13",
+ "text": "notes/books/novels/backwoods-banshee-by-david-r-slayton/text/ch13_chapter_13.txt",
+ "facts": [
+  {
+   "fact": "Adam 提前给 Dautre 发了短信，向 Dautre 说明他们需要的东西。",
+   "anchor": "Adam had texted Dautre, explaining what they needed.",
+   "start": 69,
+   "end": 121
+  },
+  {
+   "fact": "Dautre 回应 Adam 关于精灵宗教资料缺失的疑问：这种信仰被视为过时、不合时宜，但并没有被禁止。",
+   "anchor": "“That is passing strange,” Dautre said. “Such belief is considered archaic, out of fashion if you will, but it is not forbidden.”",
+   "start": 862,
+   "end": 991
+  },
+  {
+   "fact": "Vic 穿着他的皮夹克前来赴约，这意味着他随身带着武器；他还带回了一对 flashlight。",
+   "anchor": "He was wearing his leather jacket, which meant he was armed.",
+   "start": 1635,
+   "end": 1695
+  },
+  {
+   "fact": "面对顶层被死锁闩死的门，Dautre 用手指抵住锁，霜随即覆盖锁体并把它弄裂（随后顶出门栓开了门）。",
+   "anchor": "“Allow me.” Dautre pressed a finger to the lock. Frost covered it and something cracked.",
+   "start": 4440,
+   "end": 4528
+  },
+  {
+   "fact": "Wilcox 顶层套房里原有的保险柜已被取走，只在柜后留下一个方形的空位。",
+   "anchor": "There had been a safe, judging from the square-shaped space at the back.",
+   "start": 6112,
+   "end": 6184
+  },
+  {
+   "fact": "地下室受刑房里的尸体已经不见了，精灵把证据清理得干净得有点过头。",
+   "anchor": "The elves had cleared the evidence, perhaps a little too well.",
+   "start": 7402,
+   "end": 7464
+  },
+  {
+   "fact": "Adam 的血迹被魔法彻底清洗（比漂白剂更彻底），他在房间里只感觉到一丝 Argent 的力量残留。",
+   "anchor": "Magic was more thorough than bleach, and he could sense just a little trace of Argent’s power in the room.",
+   "start": 7668,
+   "end": 7774
+  },
+  {
+   "fact": "Adam 最终拿起那本书，说出『我们回家吧』，但他觉得自己说出来的声音已不像自己。",
+   "anchor": "Adam picked up the book. He didn’t think he sounded like himself when he said, “Let’s go home.”",
+   "start": 9319,
+   "end": 9414
+  }
+ ]
+}
