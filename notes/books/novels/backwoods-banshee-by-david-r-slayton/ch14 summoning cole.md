@@ -6,11 +6,11 @@ modified: "2026-11-04"
 # 14. Chapter 14
 
 ## 本章导航
-- **一句话概括**：Jodi/Emily 召集三人小队救 Cole：草药绳阵 + 「迷途旅人」牌阵定位失败（逆位世界——牌不知他在哪）；三人合诵全名召唤，应声而至的却是界域的冰触须与那支歌；断阵之后，亚当决定 spirit walk 亲赴精灵地狱，Emily 愿当锚拉他回来。
+- **一句话概括**：Jodi/Emily 召集三人小队救 Cole：草药绳阵 + 「迷途旅人」牌阵定位失败（逆位世界——牌不知他在哪）；三人合诵全名召唤，应声而至的却是界域的冰触须与那支歌；断阵后亚当以逆位世界为引首次独自灵行下界域——身体透明、boggins 大如鲸、召唤 Cole 无人应答，却引来至少一打 banshee；醒来后 Jodi 下结论：他们不在 Between。
 - **情感弧线位置**：从「救人行动」滑向「二次开门」——召唤仪式的挫败与歌的重现把 threat 从记忆拉回现实；亚当主动请缨下界域，勇气的表象下是 ch13 恨意的燃料。
 - **Tropes 兑现/反转**：兑现「降灵会出事」的经典恐惧——应召的从来不是你想叫的；反转「定位先行」——牌阵的失灵（The World, Reversed）反证了界域在检测手段之外。
 - **人物弧线**：Jodi 的专业成长（自创牌阵）与她的旧伤（秋天的事让她仍未复原）并存；Emily 的织工魔法首次系统亮相——绳、草、断环三件事就是她的全部战斗语言；Cole 的逆位审判牌泄露他的自我怀疑——反差于他平日的攻击性。
-- **叙事手法**：仪式三段式（定位→召唤→中断）步步升级；牌面描写带出 Jesse 手绘塔罗的「丹佛宇宙」（收银机双塔、pit bull Chaos）；以「从未独自去过」的自白收束——下一章是全书第一次 solo 下界域。
+- **叙事手法**：仪式三段式（定位→召唤→中断）步步升级；牌面描写带出 Jesse 手绘塔罗的「丹佛宇宙」（收银机双塔、pit bull Chaos）；下半章以「泄洪洞」比喻写独闯——他被拖下去，像那个游过警戒线的女人。
 
 ## 精读
 > **原句 1:** "When he pictured it he did not see White, but Ian, the version of him that he’d killed in the Between—lying at Adam’s feet, the blade driven into his chest, blood pooling on that hard, blue-gray sand as he gasped, his lungs trying to catch the too-thin air."
@@ -83,6 +83,47 @@ modified: "2026-11-04"
 
 **读者视角提示**：他摆的持棒手位与 oval（椭圆绳环）的观想是 spirit walk 的操作指南；「为 Adam 穿上衣服」的小玩笑（牌上的女人是裸体）维持语调的轻。记住 anchor 三人组：Jodi 与 Emily 的 Sight 是回程的地面信标。
 
+> **原句 8:** "His power wheeled around him, clockwise, then widdershins, back and forth, night to day, dark to light. … Holding it in his mind, he fed it the two parts of himself, or at least all the parts of himself that were two things: warlock and witch, hero and killer."
+
+**中文理解**：他的魔力绕着他旋转——顺时针、逆时针，来来回回，夜与昼、暗与光。……他在心中握住它，把自己的两半喂了进去——或者说，把所有身为两样东西的部分：术士与女巫，英雄与杀手。
+
+**关键词**：clockwise, then widdershins / fed it the two parts of himself / warlock and witch, hero and killer
+
+**为什么这样写**：逆位世界的 invocation 要求以「对立面」为燃料——四组反义词对（clockwise/widdershins、night/day、dark/light、warlock/witch）把仪式写成天平归位；hero and killer 的自我并列毫不修饰，正是本章他敢下渊的资本与代价。泄洪洞的比喻紧随其后：他被拖下去，像那个游过警戒线的女人。
+
+**读者视角提示**：Sue 的旧话（魔法越练越难）在半路给出新解——不是更难，是更慢，因为他知道的太多。这段是 Adam 的力量观小传。
+
+> **原句 9:** "His body was nearly transparent when he looked. … In the distance, the boggins swam, floating through the air like it was water. Some of them were massive, larger than whales, but he did not see Cole. He did not see anyone."
+
+**中文理解**：他低头看时，身体已近乎透明。……远处，boggins 在游动，把空气当成水。有些大得超过鲸鱼，但他没有看到 Cole。他谁也没看到。
+
+**关键词**：nearly transparent / floating through the air like it was water / larger than whales / did not see Cole
+
+**为什么这样写**：抵达的 first person 视觉以「透明」开场——在界域他才是异物；hermit crabs 的比喻（boggins 拾物成壳）顺手回答了 ch03「它们来时为何成形」。两个 did not see 的重复把「空手而归」写成视觉事实，而非推测。
+
+**读者视角提示**：他在此有过一个念头——若能找到「刚坠入界域、还没变成 Lost One」的 Ian，也许能把人带回家。这条岔路本卷不走，但它是 Death 在 ch34 给出的「长局」的雏形。
+
+> **原句 10:** "Kneeling, he drew a circle. Sealing it took a lot. The right side of his body faded fully. … They flew toward him. At least a dozen banshees, maybe more. Adam let the last thread of the spirit walk go."
+
+**中文理解**：他跪下画出一个圈。封圈耗掉很多。他身体的右半边完全淡去了。……它们朝他飞来。至少一打 banshee，也许更多。亚当放开了灵行的最后一缕线。
+
+**关键词**：Kneeling, he drew a circle / The right side of his body faded fully / At least a dozen banshees
+
+**为什么这样写**：代价被写在身体上——右半身先熄，声音成了他最后剩下的东西；三遍召唤词一遍比一遍口语（Come on, man. I'm out of time.），仪式感让位给求生的急。歌声从「每个方向」来——上一章的阴影在此成群兑现，而本卷最大的一次脱险只用了「放手」一个动作。
+
+**读者视角提示**：醒来时 Bobby 正跪在沙发边给他把脉——医疗线在场的另一重意义：他此刻的样子像极了 Cole（examine、empty）。
+
+> **原句 11:** "“It means they aren’t there,” Jodi said. “Cole and the others aren’t in the Between.”"
+
+**中文理解**：「这说明他们不在那儿，」Jodi 说。「Cole 和其他人不在 Between。」
+
+**关键词**：they aren’t there / aren’t in the Between
+
+**为什么这样写**：一整章的仪式、召唤与独闯渊底，结论只有一句否定——调查的重点从「去哪找」被强制扭向「怎么被拿走的」。Bobby 问 What does it mean 而由 Jodi 作答，Sight 强度排序在本句兑现（ch14 开场即铺垫她的 Sight 更利）。空手的章以负结论收束，反而把下一章的尸体线（空身体才是武器）顶了出来。
+
+**读者视角提示**：本章由此成为「排除法」的一环：界域排除、医院在查、下一站是 Emily 家的衣柜。
+
+
 ## 本章词汇
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -111,4 +152,4 @@ modified: "2026-11-04"
 | grimoire | 魔法书（收回后藏于床下盒中） | He checked the closets and under the bed, where the book sat back in its box. |
 
 ## 一句话总结
-三人阵定位失败（逆位世界）、召唤成功「请」来了界域的触须与歌——断阵！亚当决定首次独自 spirit walk 直下精灵地狱，Emily 执绳为锚：这一次没有 Dautre、没有银王，只有他自己的手。
+三人阵定位失败（逆位世界）、召唤成功「请」来了界域的触须与歌——断阵后亚当以逆位世界为引独闯界域：身体透明、召唤无人应、一打 banshee 相送；醒来后 Jodi 给出全章的负结论——他们不在 Between。

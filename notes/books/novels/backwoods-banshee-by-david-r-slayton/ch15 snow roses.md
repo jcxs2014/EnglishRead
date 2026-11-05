@@ -81,7 +81,18 @@ modified: "2026-11-04"
 
 **为什么这样写**：魔法的病理用一场迷你灾难演示：storm 的隐喻从 snow globe（Adam 眼中的雪球闪点）到 explode（迸裂）只隔一个动词——不稳定不是修辞，是会伤人的物理事实。pricked（刺）落在观察者脸上：连旁观的 Adam 都会受伤，何况施法者本人。he understood 的顿悟句式让设定揭示不靠说明靠体感。unstable 这个词同时预言了主题：半个血脉压不住整套魔法——与 Ian 的未来、与 Wolf 的「界域魔法」互为远亲。
 
-**读者视角提示**：紧随其后的许诺（带漫画、教英语）与 North 的熊抱完成本章的情感闭环；最后一幕他让 Dautre 把自己落在公寓外——「我需要跟某人谈谈」：悬念交给下一章（大概率是 Annie 或 Jodi——别忘了 FBI 监听局）。
+**读者视角提示**：紧随其后的许诺（带漫画、教英语）与 North 的熊抱完成本章的情感闭环；末段揭晓「我需要跟某人谈谈」的对象是 Seamus——按 ch07 的交易，他把 Lost Ones 的情况汇报给这位盟友（见原句 8）。
+
+> **原句 8:** "North wasn’t a Lost One, but he was like them. The problem of what to do to help them was overwhelming, but Adam had to try. … It was only when he spotted him that he realized he hadn’t flinched when North had hugged him. Maybe, just maybe, he was getting better. He decided to add the feeling to his list of good things for Dr. Cahill."
+
+**中文理解**：North 不是 Lost One，但他和他们很像。要帮他们该做什么——这个问题的重量足以压垮人，但亚当必须试。……直到他看见 Seamus 的那一刻，他才意识到：North 拥抱他的时候，他没有缩手。也许，只是也许，他正在好起来。他决定把这种感觉记进给 Cahill 医生的「好时刻」清单。
+
+**关键词**：he was like them / hadn’t flinched / getting better / list of good things
+
+**为什么这样写**：章末的三级跳——问题压来（overwhelming）、身体先于意识给出答案（hadn't flinched）、治疗被接回日常（list of good things）——把 ch12 的处方第一次记成「已执行」。他没有宣布痊愈，只记了一笔；HD 版的诚实。the problem 与 Lost Ones 的呼应也让北塔火堆的阴影提前入场。
+
+**读者视角提示**：这是「触碰阈值」线第一次给出正向读数：ch12 的墙、ch16 的 yes、这里的未缩手——三条时间戳连起来看疗效。
+
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
@@ -111,4 +122,4 @@ modified: "2026-11-04"
 | garbage | 垃圾（North 的收藏） | Inside was garbage, or what looked like it. |
 
 ## 一句话总结
-骑士为儿子换上母亲面孔、开口求一次陪伴；亚当不谈条件、白送善意；雪山之夜，雪玫瑰、抽屉里的凡间垃圾博物馆与挂不住的 glamour 同时揭底——半精灵孩子的整个世界装在一只抽屉里；归途一句「我需要跟某人谈谈」把球抛向下一章。
+骑士为儿子换上母亲面孔、开口求一次陪伴；亚当不谈条件、白送善意；雪山之夜，雪玫瑰、抽屉里的凡间垃圾博物馆与挂不住的 glamour 同时揭底——半精灵孩子的整个世界装在一只抽屉里；归途他去巷子里找 Seamus 赴约汇报，并在街角发现：North 拥抱他时，他没有缩手。
