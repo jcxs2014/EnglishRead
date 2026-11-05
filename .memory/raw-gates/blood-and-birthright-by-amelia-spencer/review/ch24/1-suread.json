@@ -1,0 +1,67 @@
+{
+ "book": "blood-and-birthright-by-amelia-spencer",
+ "chapter": "ch24",
+ "text": "notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch24_24_atalanthya.txt",
+ "facts": [
+  {
+   "fact": "劣酒自嘲：叫花子挑不了食",
+   "anchor": "“Beggars can’t be choosers, I suppose,” she muttered.",
+   "start": 296,
+   "end": 349
+  },
+  {
+   "fact": "第二次进禁书的自白",
+   "anchor": "When I told myself there was a first time for everything, I didn’t imagine there would have to be a second time",
+   "start": 1159,
+   "end": 1270
+  },
+  {
+   "fact": "Felix 的旧口头禅成了自我训话",
+   "anchor": "“Compose yourself, Tia,” she said, echoing the words Felix Astor had said to her so many times in her youth.",
+   "start": 2994,
+   "end": 3102
+  },
+  {
+   "fact": "馆长受托保护生物却屠了两打以上",
+   "anchor": "She was the Head Librarian. She had been charged with the care and protection of the Library’s creatures",
+   "start": 8531,
+   "end": 8635
+  },
+  {
+   "fact": "对 Iris 的记忆复述旧誓",
+   "anchor": "“This is bigger than you and me,” Atalanthya whispered to the memory of Iris that haunted this place.",
+   "start": 9651,
+   "end": 9752
+  },
+  {
+   "fact": "对 Jaruwah 开门见山：你接任务时就该知道",
+   "anchor": "“You knew what this was when you signed up for the mission,” she said.",
+   "start": 13814,
+   "end": 13884
+  },
+  {
+   "fact": "Jaruwah 控诉：我训练过你那丢人的儿子",
+   "anchor": "I know that I trained your disgraced son when you foisted him on me.",
+   "start": 14308,
+   "end": 14376
+  },
+  {
+   "fact": "一字之差：我是替你杀过比你强的",
+   "anchor": "“No,” Jaruwah corrected. “I have killed better Librarians for you.”",
+   "start": 15518,
+   "end": 15585
+  },
+  {
+   "fact": "讨一把匕首：杀得体面点",
+   "anchor": "“And release me so that you can do it with some honor.”",
+   "start": 15182,
+   "end": 15237
+  },
+  {
+   "fact": "遗言：第三位让我看到前两位都不配",
+   "anchor": "“The third showed me that the other two were unworthy.”",
+   "start": 17669,
+   "end": 17724
+  }
+ ]
+}
