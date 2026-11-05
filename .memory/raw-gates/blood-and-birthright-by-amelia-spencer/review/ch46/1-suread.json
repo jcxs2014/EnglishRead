@@ -1,0 +1,37 @@
+{
+ "book": "blood-and-birthright-by-amelia-spencer",
+ "chapter": "ch46",
+ "text": "notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch46_afterword.txt",
+ "facts": [
+  {
+   "fact": "作者致谢：读与写的快乐对称",
+   "anchor": "Thank you so much for reading The Librarians! I truly hope you enjoyed reading Emerson’s journe",
+   "start": 23,
+   "end": 118
+  },
+  {
+   "fact": "续集宣言：故事完结世界继续",
+   "anchor": "it will not be not the end of The Librarians or the worlds we explored.",
+   "start": 233,
+   "end": 304
+  },
+  {
+   "fact": "新作路线图：先 Valhaerion 后前传",
+   "anchor": "we will be returning to Valhaerion to explore Queen Saraiya’s rise to power.",
+   "start": 521,
+   "end": 597
+  },
+  {
+   "fact": "作者请求评论：反馈帮作者触达新读者",
+   "anchor": "Your feedback helps authors reach new readers, and I truly appreciate your support.",
+   "start": 702,
+   "end": 785
+  },
+  {
+   "fact": "署名收束：直到下次",
+   "anchor": "Until next time.",
+   "start": 788,
+   "end": 804
+  }
+ ]
+}
