@@ -7,7 +7,7 @@ modified: "2026-11-05"
 
 ## 本章导航
 - **一句话概括**：晚间家中降灵，Vic 以 Reaper 形态问 Cole 的灵魂：Cole 为推翻王室策划演唱会，称瓶子来自 Wendy/Joey，匿名合作者用邮件联系他且仍有别人参与，Wilcox 并不知 banshee 计划。送走众人后亚当意识到自己忽略了双班工作与超自然职责下疲惫的 Vic，两人谈到工作、配偶与彼此的优先级，最后在床上重新试着靠近。
-- **情感弧线位置**：Adam 的恐惧占据关系许久，本章让 Vic 也有难以开口的负担。Cole 的供词推进案件，但最重要的谈话发生在客人走后。
+- **情感弧线位置**：Adam 的恐惧占据关系许久，本章让 Vic 也有难以开口的负担。Cole 的供词推进案件，但最重要的谈话发生在客人走后——亚当道歉、维森特把「救人是你的优先」顶回来，床上的大勺位与一句对静电的 silently told it to fuck off 给本章收尾。
 - **Tropes 兑现/反转**：家庭聚会变降灵会；Reaper 虽能问死者，却不能完全控制自身状态，万能线索工具因此有代价。供词排除 Wilcox 的直接授意，留下匿名组织者。
 - **人物弧线**：Vic 承认想念从前轻松的相处，却说不会离开；Adam 向他道歉并主动提供联系其他 Reapers 的休息方案。Jodi 面对 Cole 的背叛，最痛恨的是 Cathedra 之死。
 - **叙事手法**：前半室内的时间放慢、骷髅面与镰刀带来神职肃穆，后半回到茶杯、刷牙、床侧的普通节律；两种劳动都属于 Vic。
@@ -73,6 +73,27 @@ modified: "2026-11-05"
 
 **读者视角提示**：Adam 提议找 Sara 或 Mel 协调其他 Reapers，并在睡前主动拥住 Vic。亲密仍有静电般的紧绷，但本章让他尝试做照顾的一方。
 
+> **原句 7:** "“I’m so sorry. I should have checked in with you more about this.” “You’re apologizing a lot tonight.” “Because I am sorry. Job or no job, case or no case, you’re the most important thing in my life.”"
+
+**中文理解**：「我很抱歉。关于这件事，我本该多问问你的状况。」「你今晚道了很多次歉。」「因为我真的抱歉。工作也好、案子也好，你都是我生命里最重要的人。」
+
+**关键词**：apologizing a lot tonight / Job or no job, case or no case / the most important thing in my life
+
+**为什么这样写**：Vic 不接道歉而是点破道歉的频率——拒绝让安慰变成流程；Adam 的回应把优先级宣言放进消歧结构（Job or no job, case or no case），先排除再肯定。本章所有调查光的收束点在此：案子再大，排名不变。
+
+**读者视角提示**：这句话是 ch13 「Let's go home」之后 Adam 最软的一句；它与 ch19 「为两只小鬼挨打」是同一种排序能力的两次执行。
+
+> **原句 8:** "“Me too.” Vic smiled and drained his tea. “Let’s go to bed.” … Undressed, they settled into bed. Adam pulled Vic to him, rolled them to their side so he was the big spoon this time. … The frisson was still there, the static in his skin. He silently told it to fuck off, which helped a little. He’d have to try that more often."
+
+**中文理解**：「我也是。」维森特笑着喝完茶。「睡觉去吧。」……宽衣后两人躺进床里。亚当把维森特拉向自己，翻身侧躺——这次由他做那个从背后环抱的人。……那阵轻颤还在，皮肤里的静电。他在心里对它说了句「滚」，这多少有用。以后要多试试这招。
+
+**关键词**：“Me too.” / the big spoon this time / The frisson was still there / told it to fuck off
+
+**为什么这样写**：Vic 的「我也是」只接两个字，却把 Adam 的排序声明顶了回来——不是否认被爱，而是拒绝被放在比自己更前的位置；随后的 Let's go to bed 把争论就地熄火。this time 三个词记录体位互换：一直被环抱的人今晚成了环抱者，照顾的方向完成一次对调。frisson 没有消失——收尾诚实地写「还在」——但对它说滚居然有用，治疗第一次以一句内心粗话的形式生效。
+
+**读者视角提示**：大勺位与 frisson 的并存是全卷身体线最准确的一帧：进步不是症状消失，而是带着症状完成动作。
+
+
 ## 本章词汇
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -97,4 +118,4 @@ modified: "2026-11-05"
 | scythe | 镰刀 | The scythe came last, formed from the shadow stuff, from the void. |
 
 ## 一句话总结
-Cole 的灵魂证实自己为推翻王室而袭击演唱会，还留下匿名邮件合作者的线索；Vic 却为这场问话再耗 Reaper 的力。众人离去后，亚当终于把调查者的目光转向身旁伴侣，听见对方也需要休息与被照顾。
+Cole 的灵魂证实自己为推翻王室而袭击演唱会，还留下匿名邮件合作者的线索；Vic 却为这场问话再耗 Reaper 的力。客人走后，亚当道歉、宣布「你是我生命中最重要的人」，被维森特用「救人才是你的优先」顶回；床上大勺位互换、他对静电说滚——带着症状完成了一次拥抱。
