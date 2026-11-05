@@ -1,0 +1,55 @@
+{
+ "book": "backwoods-banshee-by-david-r-slayton",
+ "chapter": "ch29",
+ "text": "notes/books/novels/backwoods-banshee-by-david-r-slayton/text/ch29_chapter_29.txt",
+ "facts": [
+  {
+   "fact": "落地后 Adam 判断三人身处 spirit realm（灵界）",
+   "anchor": "“I think we’re in the spirit realm,” Adam said.",
+   "start": 740,
+   "end": 787
+  },
+  {
+   "fact": "Jack 听不出猎人们的语言：它与 Elvish 相似但并不是，他需要更多语料才能解析",
+   "anchor": "“I don’t know it. It’s similar to Elvish, but not. I’d need a lot more to work with.”",
+   "start": 1640,
+   "end": 1725
+  },
+  {
+   "fact": "Adam 半回头时发现一支箭射在 Jack 的胸口",
+   "anchor": "Adam half turned to see an arrow sticking from Jack’s chest.",
+   "start": 2011,
+   "end": 2071
+  },
+  {
+   "fact": "Two 名猎人倒在 Daff 脚下——皮肤布满疼痛的痘疮、口吐白沫",
+   "anchor": "Two of the other hunters lay at her feet. Their skin was covered in painful-looking pox. They foamed at the mouth.",
+   "start": 3727,
+   "end": 3841
+  },
+  {
+   "fact": "战败的猎人首领折断了自己鹿角的尖端（Adam 本以为又要开打）",
+   "anchor": "Adam braced for another fight, but the hunter broke off the tip of his antler.",
+   "start": 4421,
+   "end": 4499
+  },
+  {
+   "fact": "Jack 判定他们的跳跃被劫持出自 higher magic，且不是那些猎人所为——对方和他们一样困惑",
+   "anchor": "“I don’t know, but it was higher magic. I don’t think it was whatever they were. They seemed as confused as us.”",
+   "start": 5609,
+   "end": 5721
+  },
+  {
+   "fact": "Jack 揭示：the Between 是一座监狱，而且只关押一个存在（one being, and only one）",
+   "anchor": "It’s a prison for one being, and only one.",
+   "start": 6463,
+   "end": 6505
+  },
+  {
+   "fact": "Jack 揭晓：她是他们的创造者——造了他们、他们的世界、Alfheimr，还有 the Between",
+   "anchor": "“She’s their creator. She made them, and their world. She made Alfheimr. The Between too.”",
+   "start": 6734,
+   "end": 6824
+  }
+ ]
+}
