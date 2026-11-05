@@ -73,7 +73,7 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | entrails | n. 内脏；腑脏（entrail 的复数） | He could almost feel the house's anger as it peered over his shoulder at the battlefield of its own entrails. |
-| attestation | n. 证词；证明（原词 attest） | “Mr. Frank. Your turn. Attest to our duchess's virginity.” |
+| demolition | n. 拆除；毁坏 | Two days later, the drumming of demolition hammers echoed through the grand townhouse. |
 | yawned | v. 张开大口；豁开（yawn 的过去式） | He observed the work from the open doorway where the third-floor parlor had once been and where an abyss now yawned before him. |
 | intact | adj. 完好未损的；未破的 | “She is intact,” the doctor said. |
 

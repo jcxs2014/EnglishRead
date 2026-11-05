@@ -25,11 +25,12 @@ modified: "2026-11-05"
 **为什么这样写**：性向的自述不贴标签，用两件「看」的事完成：少年时看雕像、成年后做梦。动摇的不是身份而是排他性——作者把流动感写进一个自认已定型的人身上，诚实地不给答案。
 **读者视角提示**：这条动摇线与阿科斯、埃洛迪、Saint 三人的张力同步运行。请勿预设它归向谁——本书用的是「未决」的写法，每一次偏移都有具体的诱因（味道、伤口、俊脸）。
 
-> **原句 3:** "Will had expected to feel more nervous, but now that he was here, a strange calm settled over him."
+> **原句 3:** "Will had expected to feel more nervous, but now that he was here, a strange calm settled over him. He patiently watched Saint's sharp face and noticed the line of glittering earrings running along the curve of his ear. The redhead was beautiful in his own wild way, with freckle-kissed skin and an upturned nose."
+> "Saint pulled a pencil from behind his other ear and marked down some notes beside the list."
 > "“So at least we can confirm one rumor—you are a powerful mage,” he said without looking up from the paper. “How fresh do you need the bones?”"
-**中文理解**：威尔本以为会更紧张，人到了这里反倒落下一阵奇异的平静。「至少能证实一条流言了——你是个强大的法师，」他头也不抬，「骨头要多新鲜？」
+**中文理解**：威尔本以为会更紧张，人到了这里反倒落下一阵奇异的平静——他静静打量 Saint 锐利的脸，注意到他耳廓那排闪光的耳钉：这红发少年野得别有风味，雀斑吻过的皮肤、微微上翘的鼻子。Saint 从另一只耳朵后抽出铅笔，在清单旁记下几笔——「至少能证实一条流言了——你是个强大的法师，」他头也不抬，「骨头要多新鲜？」
 **关键词**：strange calm / powerful mage / How fresh
-**为什么这样写**：恐惧的缺席本身就是剧情：买人骨比想象容易——因为「想要魔法」的念头已经替他清了场。Saint 的「How fresh」用杂货铺的口气卖骨头：血林把禁忌做成了货架。
+**为什么这样写**：恐惧的缺席本身就是剧情：买人骨比想象容易——因为「想要魔法」的念头已经替他清了场。铅笔与耳钉的闲笔把采购写成日常杂务，Saint 的「How fresh」用杂货铺的口气卖骨头：血林把禁忌做成了货架。
 **读者视角提示**：「强大的法师」这条流言至此自证：连采购单都在替他作证。人骨进清单=威尔与魔法的交易从被动转向主动——他还没决定用不用，但已经肯买了。
 
 > **原句 4:** "But the list had come to him in a dream, whispered by a god who rode upon the long beams of the moon."

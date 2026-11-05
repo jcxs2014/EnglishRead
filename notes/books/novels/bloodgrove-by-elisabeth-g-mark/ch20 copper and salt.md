@@ -62,11 +62,16 @@ modified: "2026-11-05"
 **读者视角提示**：威尔的血之渴望已三次现身（观礼、神赐、此刻）——他体内的配方正在改写。记住母亲的吻这个记忆坐标：他用最干净的回忆为最不洁的冲动背书，这正是成瘾的标准话术。
 
 > **原句 9:** "Her pupils were blown wide, devouring nearly the entire stormy sea of her irises. Her racing heart drove fresh blood into her wounds."
-> "She left without a word, but her taste remained on his tongue."
+**中文理解**：她的瞳孔放大到几乎吞没整片风暴般的海色虹膜；狂奔的心跳把新鲜的血压进伤口。
+**关键词**：pupils / racing heart / irises
+**为什么这样写**：欲望的峰值全部交给身体：瞳孔与心跳——没有一个心理动词，沦陷却满纸。风暴般的海色虹膜被瞳孔「吞没」：她的控制权移交写进了虹膜物理学。
+**读者视角提示**：她的身体比她的嘴诚实：接 ch13 掐喉时「她的脉动与他一样响」——埃洛迪的沦陷信号永远是生理性的。此刻记住这双被吞没的眼睛，下一章她的嘴会把这一切否认干净。
+
+> **原句 10:** "She left without a word, but her taste remained on his tongue."
 > "Copper and salt."
-**中文理解**：她的瞳孔放大到几乎吞没整片风暴般的海色虹膜；狂奔的心跳把新鲜的血压进伤口。她一言不发地离开——可她的味道留在他舌上。铜与盐。
-**关键词**：pupils / racing heart / Copper and salt
-**为什么这样写**：收章三拍全部交给身体：瞳孔、心跳、味觉——没有一个心理动词，欲望却满纸。「Copper and salt」两词成段，是全书第一个「味觉落款」：这段关系的配方自此定版。
+**中文理解**：她一言不发地离开——可她的味道留在他舌上。铜与盐。
+**关键词**：left without a word / her taste / Copper and salt
+**为什么这样写**：收章三拍全部交给身体：退场、余味、两个名词——没有一个心理动词，欲望却满纸。「Copper and salt」两词成段，是全书第一个「味觉落款」：这段关系的配方自此定版。
 **读者视角提示**：铜=血、盐=海=神——她的味道里同时有他与「它」的未来。这两词会在后文重逢时回来复购。此刻请记住：谁先退场不重要，重要的是退场时谁带走了配方。
 
 ## 本章词汇

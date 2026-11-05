@@ -73,9 +73,9 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | sheen | n. 光泽；（薄汗的）光亮 | Her chest rose in short, shallow breaths, and a fine sheen of sweat covered her upper lip and temples. |
-| sulking | v. 生闷气；愠怒（sulk 的现在分词） | “Besides, you look sweet when you sulk.” |
+| sulk | v. 生闷气；愠怒 | “Besides, you look sweet when you sulk.” |
 | fluttering | v. 飘动；拍动（flutter 的现在分词） | With that, she hurried away, her thin nightdress fluttering behind her. |
-| templated | adj. （不适用） | —— |
+| stairwell | n. 楼梯井；楼梯间 | Either I would have defeated him, or you would have found me at the bottom of the stairwell the next morning. ‘Fell while sleepwalking.’ |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
@@ -83,7 +83,7 @@ modified: "2026-11-05"
 | spiral | adj. 螺旋的；盘旋的 | The spiral staircase was a terrible place to hide. |
 | footsteps | n. 脚步；脚步声（footstep 的复数） | Footsteps sounded one floor above them—slow and searching. |
 | strands | n. 缕；股（发丝）（strand 的复数） | Will cursed and pushed the wild strands from his face. |
-| hesitation | n. 犹豫 | He hesitated only briefly before heading for the nearest servants' passage and descending the narrow staircase. |
+| confident | adj. 自信的；笃定的 | Then footsteps sounded on the stairs. Slow and confident. |
 
 ## 一句话总结
 她钉住楼梯「我不能容许他把我赶出去」，他掌心的月光成了两人共守的穹顶——她的计划冷硬（光弱就喝血、最坏不过「梦游失足」），他的和解被原样退回「我只认挣来的」；月光长带留在废墟空房当银色陷阱，影子先到、脚步随后——今晚狩猎的怪物有两只，其中一只穿着睡裙。
