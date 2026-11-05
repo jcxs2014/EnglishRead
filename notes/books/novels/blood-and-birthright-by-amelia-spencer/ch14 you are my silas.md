@@ -8,7 +8,7 @@ modified: "2026-11-05"
 ## 本章导航
 - **一句话概括**：落汤鼠 Silas 上门谢罪；Emerson 用先亲后谈的方式拆掉他的防御，再在咖啡桌边逼出全部真相——「She called me ‘it.’」；她用一份童年罪证清单回敬：「You are my Silas.」；对 Adrien 的裁决是「probation」。
 - **情感弧线位置**：Silas 线的情感还债章——ch07 的「I don't know」、ch11 的失控，在此兑换成一次彻底的坦白与一次彻底的接住。
-- **Tropes 兑现/反转**：「床头审问」trope 的作者自觉版（她自己承认是 wine＋策略）；「you are not X, you are Y」告白 trope 用童年旧账完成。
+- **Tropes 兑现/反转**：「你不是X，你是Y」式告白 trope 用童年旧账完成；「床头审问」trope 的作者自觉版（她自己承认是 wine＋策略）。
 - **人物弧线**：Silas 从「隐瞒者」变成「交代者」（Iris 黑暗面＋Morsania Circo＋Wilde/Rathbone 家族史全盘托出）；Emerson 展示她的谈判天赋：身体拆防、咖啡桌定案。
 - **叙事手法**：雨夜喜剧开场（湿狗式谢罪）→ 亲密场景节拍化处理 → 咖啡桌审讯长谈；用「杯子」当情绪仪表（捧杯、抖手、晃咖啡）。
 
@@ -58,7 +58,7 @@ modified: "2026-11-05"
 > **原句 7:** "“You are the boy I found sitting in my kitchen one morning who looked lonely and afraid after his parents died. You are the strange flood that shut down the entire elementary school after a bully made fun of my hair color. … I don’t care what you were born to be or what she tried to make you into. You are my Silas.”"
 
 **中文理解**：她的反驳是一份童年罪证清单：你是那个清晨坐在我家厨房、父母双亡又孤独又怕的男孩；是把取笑我发色的恶霸整得全校停课的怪洪水；是十年级公交站上吻我未遂的 Anthony Vega 神秘断腕的悬案——我不在乎你生来是什么、她想把你铸成什么。你是我的 Silas。
-**关键词**：the strange flood、Anthony Vega’s mysterious broken wrist、You are my Silas
+**关键词**：the strange flood、lonely and afraid、You are my Silas
 **为什么这样写**：她不跟他辩论「工具论」，直接换证据链——用三件只有家人知道的旧案证明「你早就选过边了」：每一次出手都是为了她。作者让告白以「取证」的形式完成，比任何情话都难反驳。
 **读者视角提示**：「You are my Silas」对位 Iris 的「it」——同一个孩子，两份命名，二十年的差别全在这两个称呼之间；这也回答了 ch07 他为什么「Not anymore」。
 
