@@ -27,10 +27,10 @@ modified: "2026-11-05"
 **为什么这样写**：恐惧写成一句家常话——作者让她在俯冲的失重里完成对「信任」的又一次投票：她怕，但她问的是「它知不知道」，不是「停不停」；Adrien 肩膀抖笑的回应把惊吓转成信任测试。
 **读者视角提示**：对照 ch21 的「She'll catch us if we fall」——她的恐高症在本书一直是信任的刻度；本章刻度跳到「把自己交给一头想咬 Silas 的猛兽」。
 
-> **原句 3:** "“Say that again. And this time make sure you say her name."
+> **原句 3:** "“Say that again,” he said. “And this time make sure you say her name.”"
 
 **中文理解**：Jayce 骂「你还把这个带来了」，Silas 阴影般贴到她背后，声音只差几寸：再说一遍。这次记得带上她的名字——那可能是你说的最后一句话，但至少你死前嘴唇上还挂着一句祝福。
-**关键词**：say her name、a blessing on your lips
+**关键词**：say her name、Say that again
 **为什么这样写**：护卫语的修辞升级——作者让 Silas 把「威胁」写成「祝祷」：死前念她的名字被包装成临终圣礼；黑纹不在场的这一刻，他用的全是语言的力量。
 **读者视角提示**：对照 ch26「Call it off or I'll kill it」的空茫——本章他对 Jayce 的威胁反而带着情绪（护她的怒）；「blessing」这个词是他给她的又一次命名。
 
@@ -107,7 +107,7 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | simmered | （怒火）暗烧 | Rage simmered in his gaze while he stared down at the group of Foundation’s Librarians. |
-| implored | 恳求 | “Please,” Adrien implored. |
+| simmered | （怒火）暗烧 | Rage simmered in his gaze while he stared down at the group of Foundation’s Librarians. |
 | obstructed | 挡住；遮住 | She reached up to brush them away whenever they obstructed her vision. |
 | snickered | 窃笑 | “Enough time has passed that he’s convinced himself it was me and him against a legion of goblins,” he snickered. |
 
