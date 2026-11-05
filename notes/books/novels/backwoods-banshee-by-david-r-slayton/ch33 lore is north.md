@@ -13,7 +13,7 @@ modified: "2026-11-05"
 - **叙事手法**：冷屋、融雪玫瑰、满柜储魂瓶依次入镜，恐怖由静物承担；视频通话把追凶变成隔着屏幕的独白，结尾断线如同关闭一扇门。
 
 ## 精读
-> **原句 1:** "“It’s defended,” he said."
+> **原句 1:** "The knight’s magic lay thick and powerful in the ground and air. She’d laid her wards deep and likely reinforced them every chance she got. There were no gaps. “It’s defended,” he said."
 
 **中文理解**：抵达木屋后，Adam 以 Sight 发现骑士布下的防护无隙可击；Silver 亲自挥剑仍被弹回。
 
