@@ -95,7 +95,7 @@ modified: "2026-11-05"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| gutter | n. 阴沟；贫民巷 | After that, one was cast into the gutter, where the common people enjoyed their freedom. |
+| spying | v. 偷看；窥探（spy 的现在分词） | “Were you spying on us?” |
 | crept | v. 悄悄移动；蹑足（creep 的过去式） | Will crept a few steps closer to the balustrade. |
 | growl | n. 低吼；咆哮声 | With a growl his dogs instinctively echoed, Mr. Arcos strode toward the gate. |
 | triumphantly | adv. 得胜地；扬扬得意地 | Elodie swept triumphantly up the stairs, but Will waited with his arms crossed. |
