@@ -50,7 +50,7 @@ modified: "2026-11-05"
 > "“I will eat once I am home.”"
 > "“She did not wish to pay the price a full ticket demands,” Eric Arcos answered from across the car."
 **中文理解**：威尔问她为什么不动餐，贵妇摇头：「我到家再吃。」阿科斯隔着餐车替她补了实话：她不愿意付全价车票索取的代价。
-**关键词**：not eating / price / full ticket
+**关键词**：aren't eating / price / full ticket
 **为什么这样写**：一句家常寒暄被拧成恐怖前提——在这趟车上，「吃饭」不是服务而是交易。作者用三段极短对白接力：提问、搪塞、揭底，最后那句由远处的人补刀，冷得像报时。
 **读者视角提示**：本书第一条明码标价的规则在此亮相：车票有「代价」，而且大小与票价挂钩。请自动把它接回 ch01 的血渍车票——那张票从头就是契约，威尔已经付过定金了。
 

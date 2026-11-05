@@ -59,19 +59,24 @@ modified: "2026-11-05"
 **读者视角提示**：注意他此后的默认状态：力量来时无预告、事后无记忆。「比心跳更自然」暗示那力量比「他自己」更古老——第二心跳、冬海、月光之子正在合流，他的身世像冰一样正在显形。
 
 > **原句 8:** "Will no longer felt like himself as he stepped closer, until Elodie's skirts brushed his legs. His body was only a small fragment of what he was, no more than a ship, while his soul was the sea."
-> "Magic spoke to magic. Will knew that his power was a sister to what Elodie had called forth. Perhaps not a sister—perhaps a lover, an old companion recognizing the touch with which they had once danced."
-**中文理解**：威尔走近到埃洛迪的裙裾扫上他的腿——他已经不像自己：身体只是他所是之物的一小片，不过是一艘船，而他的灵魂是海。「魔法认得魔法。」他知道自己的力量与她唤起之物是姐妹——或许不止姐妹，是恋人，是一支旧舞的舞伴，认得彼此曾共舞的触碰。
-**关键词**：his soul was the sea / Magic spoke to magic / a lover
-**为什么这样写**：扩张式抒情在这里接管恐怖：躯壳缩成船、灵魂涨成海——他的主体性第一次溢出人的尺寸。「姐妹→恋人」的递进给魔法写了谱系：他和她的力量不只是同类，是失散的旧侣。
-**读者视角提示**：把「灵魂是海」与冬海之神、与 ch04 的水下蛟龙连读：威尔的内在版图全是水。本书的言情与奇幻在此共用一套语言——他对她的靠近同时是他的魔法在靠近。
+**中文理解**：威尔走近到埃洛迪的裙裾扫上他的腿——他已经不像自己：身体只是他所是之物的一小片，不过是一艘船，而他的灵魂是海。
+**关键词**：no longer felt like himself / a ship / his soul was the sea
+**为什么这样写**：扩张式抒情在这里接管恐怖：躯壳缩成船、灵魂涨成海——他的主体性第一次溢出人的尺寸。船与海的比例是全章最准的心理测量：人形只是载具，深海才是本体。
+**读者视角提示**：把「灵魂是海」与冬海之神、与 ch04 的水下蛟龙连读：威尔的内在版图全是水。他走向她的每一步，其实是海在涨潮。
 
-> **原句 9:** "“The god of the Winter Sea.” His voice was still not his own. Neither was the searching hand driven by magic as it moved along the tender skin of her thigh. Elodie sighed, while behind her the monster crushed the vampire's skull between its teeth. The guests hummed in their trance."
+> **原句 9:** "Magic spoke to magic. Will knew that his power was a sister to what Elodie had called forth. Perhaps not a sister—perhaps a lover, an old companion recognizing the touch with which they had once danced."
+**中文理解**：「魔法认得魔法。」他知道自己的力量与她唤起之物是姐妹——或许不止姐妹，是恋人，是一支旧舞的舞伴，认得彼此曾共舞的触碰。
+**关键词**：Magic spoke to magic / a sister / a lover
+**为什么这样写**：「姐妹→恋人」的递进给魔法写了谱系：他和她的力量不只是同类，是失散的旧侣。认识的方式不是头脑而是皮肤——「曾共舞的触碰」把血缘写成了身体记忆。
+**读者视角提示**：这句是全书奇幻设定的核心公式：两股力量同源且相认。它与月光之子、血月传说同一条根——威尔和埃洛迪的化学反应，一半是人的，一半是更古老的东西在互相致意。
+
+> **原句 10:** "“The god of the Winter Sea.” His voice was still not his own. Neither was the searching hand driven by magic as it moved along the tender skin of her thigh. Elodie sighed, while behind her the monster crushed the vampire's skull between its teeth. The guests hummed in their trance."
 **中文理解**：「冬海之神。」那声音仍不属于他，那只被魔法驱动、沿她大腿内侧肌肤上行探寻的手也不属于他。埃洛迪叹息——她身后，怪物正用齿列碾碎吸血鬼的头骨；宾客们在恍惚中哼鸣。
 **关键词**：The god of the Winter Sea / not his own / hummed in their trance
 **为什么这样写**：神名揭晓的同一句里，情欲与暴食并轨进行：一只手向上、一排牙向下、一圈人在哼——三个声部把「迷失」写成复调。作者拒绝把这幕洗白成浪漫：它始终是仪式的延长线。
 **读者视角提示**：「冬海之神」是全书第一个完整神名：冬、海、神——冷、深、人格化。记住这个自称：他借威尔之口报名，意味着这力量有自我意识。与神共享身体的人，之后每一章都在谈判。
 
-> **原句 10:** "With a strangled cry, he forced the magic back and pressed his soul once more into the inadequate shape of his body. He stumbled away as panic overwhelmed him. The fear had been there all along, but whatever had taken control of him had pushed it aside. Now he saw the entire grotesque scene and fled."
+> **原句 11:** "With a strangled cry, he forced the magic back and pressed his soul once more into the inadequate shape of his body. He stumbled away as panic overwhelmed him. The fear had been there all along, but whatever had taken control of him had pushed it aside. Now he saw the entire grotesque scene and fled."
 **中文理解**：他哽着一声喊，硬把魔法压回去，把灵魂重新塞回身体这具不合身的壳里——他跌撞着退开，恐慌没顶。恐惧其实一直在，只是占据他的那个东西把它推到了一边；此刻他看清了整个荒诞的场景，逃了出去。
 **关键词**：forced the magic back / inadequate shape / fled
 **为什么这样写**：醒来的写法是「重新穿衣」：灵魂回壳、尺寸复原——刚才的辽阔瞬间变成不合身的束缚。最后一句把全章倒转重播：不是他选择了沉溺，是某个东西替他暂停了恐惧。「逃」是他今晚唯一自主的动作。
