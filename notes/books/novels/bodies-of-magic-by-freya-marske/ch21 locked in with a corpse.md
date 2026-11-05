@@ -20,7 +20,7 @@ modified: "2026-11-05"
 **为什么这样写**：莉桑德的出场是「反向埃斯蒂恩」：同样的竞争心，她不藏（她的生活全是职业设置）。奢侈兽误入犬舍的比喻精确定义了这类人的生存策略：不适可以变成优势，只要你不换环境。
 **读者视角提示**：她对「接手死者课题发表」的敏锐（sharpened, sensing a chase）与埃斯蒂恩的疲惫（tired just looking at her）对照出两种野心：一个在跑道上，一个刚被跑道碾过。
 
-> **原句 2:** "“I didn’t work my arse off for five years just to end up cheating my way to the top.""
+> **原句 2:** "I didn’t work my arse off for five years just to end up cheating my way to the top."
 **中文理解**：「我拼死拼活干了五年，可不是为了最后靠作弊爬上顶。」
 **关键词**：work my arse off / five years / cheating my way to the top
 **为什么这样写**：嫌疑人自辩的教科书格式：动机否认+不在场证明（图书馆至早饭）连发——莉桑德的答案快得像预演过，因为「被怀疑」本来就是她每天的空气。她的清白反而是本章最可信的证词：真凶不会这么急着自证。
