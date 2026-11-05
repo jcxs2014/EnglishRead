@@ -91,7 +91,7 @@ modified: "2026-11-05"
 |---|---|---|
 | billowed | v. 鼓荡；翻卷（billow 的过去式） | The white silk curtains billowed in the wind, and waves rippled across the room, licking at the driftwood bedposts. |
 | treacherously | adv. 背信地；暗藏危险地 | The door creaked treacherously, the sound echoing through the sleeping house. |
-| eerie | adj. 怪异可怕的（原文作 prickling） | The prickling at the back of his neck drove him onward. |
+| prickling | n. 刺痛感；发麻 | The prickling at the back of his neck drove him onward. |
 | muffled | adj. 沉闷的；被捂住的 | The impact was barely audible, reaching Will only as a strange, muffled sound. |
 
 ### ⭐ 常用
