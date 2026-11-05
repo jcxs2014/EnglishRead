@@ -1,0 +1,55 @@
+{
+ "book": "backwoods-banshee-by-david-r-slayton",
+ "chapter": "ch16",
+ "text": "notes/books/novels/backwoods-banshee-by-david-r-slayton/text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "亚当把失落者（Lost Ones）的近况告诉了 Seamus——转述他与莉莉和矿工的对话，并说对方「怒了、而且到处都是」。",
+   "anchor": "Adam told Seamus about the Lost Ones, recounting their conversation with Lily and the miner.",
+   "start": 45,
+   "end": 137
+  },
+  {
+   "fact": "金币之王 Seamus（称亚当为 Binder）说局势没法再这样下去、他也不知如何阻止，而且没找到亚当要找的失踪灵魂——没人买卖、没人开口。",
+   "anchor": "Nor have I found your missing souls. No one’s dealing and no one’s talking.”",
+   "start": 489,
+   "end": 565
+  },
+  {
+   "fact": "亚当说自己只剩最后一条线索要去夜市（Night Market）查，而且是一条很细的线索。",
+   "anchor": "I’ve got one lead left to check at the Night Market, but it’s a slim one.",
+   "start": 759,
+   "end": 832
+  },
+  {
+   "fact": "Seamus 透露族人住在异界（Otherworld），但他本人出生在灵界——父母当年是为发财搬过去的。",
+   "anchor": "I have people back there, in the Otherworld, but I was born in the spirit realm. My parents moved there to find their fortune.",
+   "start": 1122,
+   "end": 1248
+  },
+  {
+   "fact": "Seamus 认为精灵明天就该回他们那个没人丑、没人死的完美世界去，把灵界留给他的族人。",
+   "anchor": "They could go home tomorrow, to their perfect world where no one’s ugly and no one dies—and they should.",
+   "start": 2349,
+   "end": 2453
+  },
+  {
+   "fact": "亚当知道 Seamus 曾失去一生挚爱（分不清是妻子还是女友），那段未愈合的悲伤所生的愤怒曾给包括亚当在内的很多人带来痛苦。",
+   "anchor": "Adam didn’t know if she’d been his wife or his girlfriend, but he knew she’d been the love of his life.",
+   "start": 2627,
+   "end": 2730
+  },
+  {
+   "fact": "Vic 没跟亚当商量就装了电子键盘警报：密码是亚当的生日（只取月和日，亚当输入 0621），报警后有六十秒输入时间；花费「几千」外加每月一小笔，Vic 说要砍掉一些流媒体订阅来付。",
+   "anchor": "The code is your birthday. Hurry, you’ve only got sixty seconds before it goes off.",
+   "start": 3322,
+   "end": 3405
+  },
+  {
+   "fact": "梦中亚当忆起自己曾召剑、精准地伸入伊恩（Ian）体内切断了他的魔法，致使 Ian 内里空空、亚当自认要负全责；Ian 却麻木地说他喜欢现在这样，并称亚当为 Uncle。",
+   "anchor": "He’d summoned the sword and with careful precision, he’d reached into Ian and severed his magic.",
+   "start": 8436,
+   "end": 8532
+  }
+ ]
+}
