@@ -1,0 +1,55 @@
+{
+ "book": "bloodgrove-by-elisabeth-g-mark",
+ "chapter": "ch32",
+ "text": "notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch32_chapter_32.txt",
+ "facts": [
+  {
+   "fact": "十二名猎手夜聚铁栅缺口：两根铁条内藏机关可拆卸——Saint 带嘴套与内刺项圈（他要的是活捉）；另有倒卖吸血鬼为奴为祭的贩子",
+   "anchor": "Two of the iron bars concealed a mechanism",
+   "start": 405,
+   "end": 447
+  },
+  {
+   "fact": "港区平民的生存三诫：天黑前回家、别放任何人进门、入夜谁都别信——白天该来看看，「不过这边的人脾气可不太好」",
+   "anchor": "Be home before dark.",
+   "start": 2758,
+   "end": 2778
+  },
+  {
+   "fact": "Saint 枪杀年轻吸血鬼弃之不顾——「你的目标在更深处、老吸血鬼的地界；这只太嫩，贩子才感兴趣；我给你抓个长者来审」",
+   "anchor": "This one was too young.",
+   "start": 3697,
+   "end": 3720
+  },
+  {
+   "fact": "十岁孩童形貌的吸血鬼引路，猎手撒网争抢——「那孩子是我们的！」；尖叫与枪响中 Saint 面色一沉：「是陷阱」",
+   "anchor": "It will flee to its nest.",
+   "start": 6511,
+   "end": 6536
+  },
+  {
+   "fact": "入夜过闸者不获救援——猎手的信条；Saint 的残忍头一次透出脸来；两人自后门撤出，海边血滴一闪——Saint 失踪",
+   "anchor": "Anyone who passes through the gates at night gets no rescue.",
+   "start": 7470,
+   "end": 7530
+  },
+  {
+   "fact": "他咬唇供血唤月光球、连开两枪——二十只吸血鬼回身围拢；弹尽、弹匣散落、五只包抄",
+   "anchor": "offered it his blood, and a fold in the fabric",
+   "start": 9997,
+   "end": 10043
+  },
+  {
+   "fact": "月光照明的一瞬：Saint 的护喉扣被掰断、腹肌被撕下一口——他们活吃着那孩子；威尔嘶吼中被另一只拖走",
+   "anchor": "They were eating him alive.",
+   "start": 11718,
+   "end": 11745
+  },
+  {
+   "fact": "长老把血咒失效的他掳上楼：魔法反常沉寂——「小法师想召魔法？你的光吓不了我们，你忘了月亮是我们的朋友」；月亮熄灭，一只手扼喉 tore 他后仰",
+   "anchor": "You forget—the moon is our friend.",
+   "start": 14371,
+   "end": 14405
+  }
+ ]
+}
