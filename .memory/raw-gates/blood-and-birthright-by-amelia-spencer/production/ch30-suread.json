@@ -1,0 +1,55 @@
+{
+ "book": "blood-and-birthright-by-amelia-spencer",
+ "chapter": "ch30",
+ "text": "notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch30_chapter_30.txt",
+ "facts": [
+  {
+   "fact": "投票开箱：九票对三票——Vincent、Lance、Annelise（晚宴坐 Jayce 旁边的黑发辫女）投了 Foundation；Jayce 宣判「24 小时已到」；Vincent 口型「Run」。",
+   "anchor": "Three hands remained raised.",
+   "start": 438,
+   "end": 466
+  },
+  {
+   "fact": "逃亡分工：魔法中和区封死直接出书——Silas 与 Adrien 扑向 Guardians 掩护，Silas 对 Callan 留下狠话；她与 Callan 拔腿狂奔出 Keep，双 griffin 应声入云。",
+   "anchor": "“If she doesn’t make it off this mountain in one piece, I will kill you too.”",
+   "start": 1407,
+   "end": 1484
+  },
+  {
+   "fact": "她学着 Guardian 立正垂首的礼节跪地低头，直到 Zephyrus 的湿鼻尖轻碰——「还记得我吗」；griffin 压低身子让她翻身而上，一跃带她离山。",
+   "anchor": "“Remember me?” she cooed,",
+   "start": 2908,
+   "end": 2933
+  },
+  {
+   "fact": "复盘会开局：Magnus 拖着调子宣读败绩；Hayden 缺席被她记起（昆仑山方向音信全无数周）；随即 Hayden 本人穿墙而入（Silas 吓得低咒），她暗笑自己忘了这位议员能像她一样穿行 Catalogue。",
+   "anchor": "“You lost the vote,” Magnus drawled.",
+   "start": 3302,
+   "end": 3338
+  },
+  {
+   "fact": "Hayden 的疲惫：眼下乌青、抓起酒瓶直接灌、头一句「抱歉迟到——收尾几件事比预想费时」；这是她认识他以来他第一次露出疲态。",
+   "anchor": "I was tying up a few loose ends and it took longer than expected.",
+   "start": 8023,
+   "end": 8088
+  },
+  {
+   "fact": "东部集团揭秘：他说「他们不干涉」时两次自我修正 we/they——屋内众人集体惊觉；东部集团从未被征服，是被「说服」入馆的独立实体，自有 Catalogue，与中央图书馆只存在十一世纪起的 Membership Treaty；读者只是客人，邀请随时可撤销。",
+   "anchor": "Not because we can’t. Because we choose not to.",
+   "start": 11392,
+   "end": 11439
+  },
+  {
+   "fact": "盟友盘点：Elias 在 Frida's 用要挟拉来名门 Librarian；Magnus 报告一批 Archivist 愿意「battle 中途倒戈」（只在看得见赢面时公开）；Aeloria 则只在 Atalanthya 变节时才会动。",
+   "anchor": "They’ll only go public if it looks like we’re going to win.",
+   "start": 6600,
+   "end": 6659
+  },
+  {
+   "fact": "尾声炸弹：Hayden 说请柬已到——「东部集团一直把两边的冲突当作短暂的 skirmish，直到 Catalogue 带着 vengeance 回来自己选馆长；现在有了 viable candidate，他们想看看你是什么材料」；去昆仑要走老路（飞机+青藏铁路）；「赶晚饭——我说了，我母亲想见你。」",
+   "anchor": "“For dinner. Like I said, my mother wants to meet you.”",
+   "start": 13806,
+   "end": 13861
+  }
+ ]
+}
