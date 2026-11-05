@@ -1,0 +1,61 @@
+{
+ "book": "before-the-encore-by-emily-wright",
+ "chapter": "ch20",
+ "text": "notes/books/novels/before-the-encore-by-emily-wright/text/ch20_chapter_twenty.txt",
+ "facts": [
+  {
+   "fact": "搬家日 Ruby 补刀：她在网上「像平民一样」看到了接吻视频——你妹妹坐拥秘密却最后一个知道",
+   "anchor": "after the stunt you pulled at your show",
+   "start": 980,
+   "end": 1019
+  },
+  {
+   "fact": "阳台：Ruby 肩碰肩——你真的做到了——Madison 说「你该看看 Bonnie 的家」——新公寓离她家十五分钟（嘴上否认这是选房因素）",
+   "anchor": "“You did it, Maddy.”",
+   "start": 4593,
+   "end": 4613
+  },
+  {
+   "fact": "异地 suck：八小时时差、Bonnie 发片后忙碌、几周没怎么说话；Madison 刷 Bonnie 视频解渴——怕她像 Meg 一样变心",
+   "anchor": "Long distance sucked.",
+   "start": 5683,
+   "end": 5704
+  },
+  {
+   "fact": "妈妈话题爆发：Madison 数童年账（清晨送妹妹上学、清理呕吐物、替她扛租金恐慌发作）——甩出妈妈的老话；「她停止喝酒了」——「这话我听过」",
+   "anchor": "“You’re just like your dad. You take what you want, and then you leave.”",
+   "start": 9998,
+   "end": 10070
+  },
+  {
+   "fact": "Ruby 含泪求一次对话——Madison 让步「我会想想」——看 Bridesmaids——妹妹睡沙发（新家第一晚必须在卧室，bad juju）",
+   "anchor": "“I’ll think about it.”",
+   "start": 12316,
+   "end": 12338
+  },
+  {
+   "fact": "凌晨回电：Bonnie「你该睡了」——Madison「跟你说话是我一天最喜欢的部分」——「你困时真肉麻」",
+   "anchor": "“But talking to you is my favourite part of the day.”",
+   "start": 14852,
+   "end": 14905
+  },
+  {
+   "fact": "「我们的歌」之争：Madison 说 Ghost 处处是我们的——Bonnie 那头沉默——「我不想那首歌是写我们的。我不想你成为我的鬼」——jealousy 一闪（她不知道那歌写给谁）",
+   "anchor": "I don’t want that song to be about us. I don’t want you to be a ghost to me.",
+   "start": 16060,
+   "end": 16136
+  },
+  {
+   "fact": "电话性爱起：Bonnie 找到摄像头录像却「在等你」——Madison：录完音第一班机飞 LA——「你想我想成这样？」——「是你想我想成这样」",
+   "anchor": "As soon as I’m done recording, I’m getting the first flight to LA.",
+   "start": 18419,
+   "end": 18485
+  },
+  {
+   "fact": "电话性爱高潮：Bonnie 在 Minnie 的车后座照做、到家沙发上继续——「她是你的，Madison」——双高潮——凌晨三点抱着枕头睡去",
+   "anchor": "“She’s yours, Madison. She’s—oh god!”",
+   "start": 23094,
+   "end": 23131
+  }
+ ]
+}

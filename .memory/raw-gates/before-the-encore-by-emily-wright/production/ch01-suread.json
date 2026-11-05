@@ -1,0 +1,55 @@
+{
+ "book": "before-the-encore-by-emily-wright",
+ "chapter": "ch01",
+ "text": "notes/books/novels/before-the-encore-by-emily-wright/text/ch01_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "Bonnie 直觉这场合作是个坏主意，而 Dr Levingworth 把这种直觉归因于她加重的焦虑症",
+   "anchor": "Every fibre in Bonnie’s body warned her this was a bad idea",
+   "start": 30,
+   "end": 89
+  },
+  {
+   "fact": "Bonnie 最厌恶迟到；她早对 Bailey 说过这个提议很糟，但经理从不听她的",
+   "anchor": "But one matter especially irked her: people being late",
+   "start": 458,
+   "end": 512
+  },
+  {
+   "fact": "Frank 为 Madison 的迟到道歉，说乐队很荣幸有机会与她合作",
+   "anchor": "Sorry about this. We are honoured to potentially work with you",
+   "start": 1723,
+   "end": 1785
+  },
+  {
+   "fact": "助理 Scarlett 上饮料：Frank 黑咖啡、Kamaria 巧克力奶、Bonnie 冰姜蜂蜜茶，Bonnie 纠正她别叫 Miss Bloom",
+   "anchor": "A coffee for Frank, chocolate milk for Kamaria, and iced ginger and honey tea for Miss Bloom",
+   "start": 2856,
+   "end": 2948
+  },
+  {
+   "fact": "Madison 迟到，与 Bailey 搂着肩膀大笑进门，进了屋仍不理睬 Bonnie 也不道歉",
+   "anchor": "Bailey burst in with his arm around Madison’s shoulders, deep in a fit of laughter",
+   "start": 5575,
+   "end": 5657
+  },
+  {
+   "fact": "Bailey 提出方案：两张专辑各收录一首合作曲，两种曲风两批粉丝能带来热度",
+   "anchor": "I think it’s in everyone’s best interests to feature on one song from each album",
+   "start": 10391,
+   "end": 10471
+  },
+  {
+   "fact": "Madison 当面质疑：粉丝可能不接受，讥讽 Bonnie 是 Princess Bubblegum、彩虹小马，Bonnie 反唇相讥她是阴间吐出的吸血鬼残次品；Madison 又指出 Bonnie 牙上有口红",
+   "anchor": "You’re all rainbows and sparkles, like a My Little Pony",
+   "start": 11637,
+   "end": 11692
+  },
+  {
+   "fact": "Bailey 辩称专辑需要爆点安抚董事会、Madison 嗓子极好、录音只几天；Bonnie 妥协答应但撂下狠话",
+   "anchor": "Fine, but this better be worth it, Bailey",
+   "start": 15437,
+   "end": 15478
+  }
+ ]
+}
