@@ -50,7 +50,7 @@ modified: "2026-11-05"
 **读者视角提示**：接 ch33 两条路、ch37 档案、本章此问：弑主之路的信息链完成闭环。而他问话的时机（她等未婚夫失约的烦躁里）是精心挑的——被羞辱的人最能听进「掀桌」的提案。
 
 > **原句 7:** "“Killing the Red Hand is both the easiest and the most difficult path.”"
-> "“During a full moon.”"
+> "Satisfied, he leaned back, touched his fingertips together, and watched her over them. “During a full moon.”"
 **中文理解**：「杀红手是最容易、也最艰难的路。」「在满月之时。」
 **关键词**：easiest and the most difficult / During a full moon
 **为什么这样写**：她的答非所问其实是精确作答：难易的判定标准不在手段在时机——满月开门。「最容易」（他可杀）与「最艰难」（门后试炼）的悖论给全书立了最高规则。

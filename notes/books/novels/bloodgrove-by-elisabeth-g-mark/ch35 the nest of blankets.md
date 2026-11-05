@@ -76,12 +76,12 @@ modified: "2026-11-05"
 | contemptuous | adj. 轻蔑的；鄙夷的 | Judging by Elodie's contemptuous snort, it was not much. |
 | iodine | n. 碘酒；碘 | His face twisted as he reached new extremes, when iodine burned inside the bites and even their gentlest touches were not gentle enough. |
 | nest | n. 巢；窝 | Together with Eric, she lifted the thin mattress from the bed and placed it before the fireplace, then built Will a small nest of blankets and pillows. |
-| provocation | n. 挑衅（原词 provoke） | “After New Year's, I can admire my husband instead,” Elodie continued to provoke. |
+| provoke | v. 挑衅；招惹 | “After New Year's, I can admire my husband instead,” Elodie continued to provoke. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| filth | n. 污物；秽物 | Their silken coats were unmistakable, even matted with blood and filth. |
+| filthy | adj. 肮脏的；污秽的 | A front door swung open. Beyond it lay a narrow, filthy passage. Steep stairs followed, too cramped for the two men to walk side by side. |
 | scabs | n. 痂；疮痂（scab 的复数） | He also ignored the scabs splitting open across several of the bites. |
 | giggled | v. 咯咯笑；娇笑（giggle 的过去式） | Elodie lifted her head and could not suppress a quiet giggle. |
 | collarbone | n. 锁骨 | His hair was disheveled, but Will's gaze continued lower, over the sinewy throat to the broad shoulders and hard line of his collarbone. |
