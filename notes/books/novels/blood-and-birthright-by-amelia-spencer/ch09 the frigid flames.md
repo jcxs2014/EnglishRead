@@ -17,7 +17,7 @@ modified: "2026-11-05"
 
 **中文理解**：Astrid 率先打破沉默，语气发飘：我开始怀疑我们到底有没有人真正了解 Iris——Atalanthya Moon 把一个妹妹瞒住了整个图书馆，而这位妹妹，竟然是个 Archivist。
 **关键词**：truly knew Iris、concealed from the entire Library、Archivist
-**为什么这样写**：三句话完成一次阵营洗牌：妹妹的身份先于她的名字被揭晓，而「Archivist」这个词在 ch05 Magnus 的恐慌语境里等于「强大且不可测」。作者把身份疑云留给下一章，先让「被瞒」这件事砸在 Foundation 人人头上。
+**为什么这样写**：三句话完成一次阵营洗牌：妹妹的身份先于她的名字被揭晓，而「Archivist」这个词在 ch05 的语境里已与追捕绑在一起——Magnus 恐慌的虽是 Reapers，但 Archivists 正是这类存在的现代后继。作者把身份疑云留给下一章，先让「被瞒」这件事砸在 Foundation 人人头上。
 **读者视角提示**：对照 ch06 她传音时的从容——一个能被 Atalanthya 藏一辈子的 Archivist，情报层级比所有人想的都深；她认识 Iris 的旧账现在有了职务层面的解释。
 
 > **原句 2:** "Mark my words. I will destroy Atalanthya Moon, and I will end her bloodline before all this is over.”
