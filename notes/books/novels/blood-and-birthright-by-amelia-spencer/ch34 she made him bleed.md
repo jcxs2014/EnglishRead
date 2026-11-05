@@ -51,7 +51,7 @@ modified: "2026-11-05"
 > **原句 6:** "“You and I are small, and generally weaker than men."
 
 **中文理解**：教学方法论：Xia 点破 Emerson 多年训练失败的原因——教你的都是男人，男人教的是男人的招。你我体型小、力量弱，优势在速度与隐蔽：躲，耗，等他累了再致命一击。
-**关键词**：our strength is in our speed、evade them and wait
+**关键词**：You and I are small
 **为什么这样写**：全书第一次有人把「女性的身体」当战术资产而非缺陷——作者借 Xia 之口推翻 Magnus 与 Silas 的男性教学范式；「等他累了」的耐心哲学与东部集团的隐忍文化（ch30「we choose not to」）同构。
 **读者视角提示**：对照她「唯一学会的是飞刀」的旧账——「力量在别处」的领悟将直接改写她与 Atalanthya 终战的可能性；这一课比任何盟约都值钱。
 
