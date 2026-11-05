@@ -76,35 +76,42 @@ modified: "2026-11-05"
 **为什么这样写**：作者让 Madison 用动作代替眼神——她摸设备、抚按键，用身体语言完成披露；酒精的披露被「not exactly in the best state」软化，而「bounced around jobs」是客观陈述，作者让她在句子里自己完成从委婉到直白的过渡，读者的同情跟着她的措辞一起升级。
 **读者视角提示**：注意「her fingertips trace the buttons」——她一边说一边摸那个旧 iPod，这是全文最重要的动作伏笔：设备是她的锚点，也是她披露的起点。
 
-> **原句 10:** "“I’d got used to not having birthday gifts,” she continued. “But on my twelfth birthday, Mum gave me her iPod. it was the best present I ever got. I could escape for a while…We had a really good day that year.” … “It’s habit, I guess, always carrying it with me. But it’s a reminder too. Of where I’ve come from. What I’m doing all of this for. I want Ruby to have everything she needs—a car, a deposit for her own place, fancy sushi because why the hell not? She’s a great kid. She deserves it.”"
+> **原句 10:** "“I’d got used to not having birthday gifts,” she continued. “But on my twelfth birthday, Mum gave me her iPod. It probably sounds stupid, but it was the best present I ever got. I could escape for a while. I could listen to music 24/7…We had a really good day that year.”
 
-**中文理解**：她已经习惯了没有生日礼物。但在她十二岁生日那天，妈妈把 iPod 给了她。听起来可能很蠢，但那是她收到的最好的礼物。她可以逃出去一会儿，可以 24/7 听音乐……那一年我们过得很好。……「这是我的习惯吧，总带着它。但也是个提醒。提醒我从哪里来。提醒我做这一切是为了什么。我想让 Ruby 拥有她需要的一切——一辆车、一套自己房子的首付、想吃就吃的昂贵寿司，为什么不呢？她是个好孩子。她值得。」
-**关键词**：escape for a while / a reminder / she deserves it
-**为什么这样写**：作者用「十二岁生日」这个年纪细节把怀旧写成具体的一天（蛋糕、Jelly Tots、Friends、清醒的妈妈），让 iPod 从一个物品变成一段被保存的幸福；而「What I'm doing all of this for」把前面的「escape」转成「为 Ruby 工作」——作者用一段独白完成了 Madison 动机的全部交代。
+**中文理解**：她已经习惯了没有生日礼物。但在她十二岁生日那天，妈妈把 iPod 给了她。听起来可能很蠢，但那是她收到的最好的礼物。她可以逃出去一会儿，可以 24/7 听音乐……那一年我们过得很好。
+**关键词**：twelfth birthday / best present / escape for a while
+**为什么这样写**：作者用「十二岁生日」这个年纪细节把怀旧写成具体的一天（蛋糕、Jelly Tots、Friends、清醒的妈妈），让 iPod 从一个物品变成一段被保存的幸福；「escape for a while」是她的逃生通道，也是后面所有行为动机的起点。
 **读者视角提示**：注意这个坦白的排他性——她没有告诉 Kam 或 Frank，只告诉 Bonnie；作者用披露的观众指定了关系深度。
 
-> **原句 11:** "Her mum’s words nibbled at her. “You’re just like your father, Madison.” … Bonnie’s hand brushed against hers, shooting sparks through the contact. “What’s your relationship with your mum like now?” Bonnie linked their fingers, warm and soft, but Madison didn’t pull away."
+> **原句 12:** "“It’s habit, I guess, always carrying it with me. But it’s a reminder too. Of where I’ve come from. What I’m doing all of this for. I want Ruby to have everything she needs—a car, a deposit for her own place, fancy sushi because why the hell not? She’s a great kid. She deserves it.”"
+
+**中文理解**：这是我的习惯吧，总带着它。但也是个提醒。提醒我从哪里来。提醒我做这一切是为了什么。我想让 Ruby 拥有她需要的一切——一辆车、一套自己房子的首付、想吃就吃的昂贵寿司，为什么不呢？她是个好孩子。她值得。
+**关键词**：a reminder / What I’m doing all of this for / she deserves it
+**为什么这样写**：作者用一段独白完成了 Madison 动机的全部交代——把前面的「escape」转成「为 Ruby 工作」，让 iPod 从回忆物变成责任物。
+**读者视角提示**：注意「What I'm doing all of this for」——这句话是 Madison 全书的行动纲领，理解她的每一步牺牲都要回到这里。
+
+> **原句 12:** "Her mum’s words nibbled at her. “You’re just like your father, Madison.” … Bonnie’s hand brushed against hers, shooting sparks through the contact. “What’s your relationship with your mum like now?” Bonnie linked their fingers, warm and soft, but Madison didn’t pull away."
 
 **中文理解**：妈妈的话咬着她。「你就像你爸爸，Madison。」……Bonnie 的手擦过她的手，接触处火花四溅。「你现在和你妈妈关系怎么样？」Bonnie 扣住她们的手指，温暖柔软，但 Madison 没有抽开。
 **关键词**：just like your father / sparks through the contact / didn’t pull away
 **为什么这样写**：作者用「nibbled」这个动词让母亲的影子在坦白后继续存在——「你就像你爸爸」是 Madison 全套防御机制的源代码；Bonnie 的问题直接、不安慰，手指的联结在问题之后发生，作者让动作落在问题之后，证明问题没有破坏她。
 **读者视角提示**：注意「shooting sparks」的触感描写——从 ch07-10 的「warmth behind her sternum」到「sparks through the contact」，每次肢体接触的物理感都升级，本章是升幅最大的一次。
 
-> **原句 12:** "“You care so much.” Bonnie’s voice packed a punch to her chest. “You pretend that you don’t, but you do.” … “It’s easier.” … “Isn’t that lonely?” … “It can be.” … “I…” Her bottom lip wobbled, and her eyes watered, glossing over. “I can be lonely too.”"
+> **原句 13:** "“You care so much.” Bonnie’s voice packed a punch to her chest. “You pretend that you don’t, but you do.” … “It’s easier.” … “Isn’t that lonely?” … “It can be.” … “I…” Her bottom lip wobbled, and her eyes watered, glossing over. “I can be lonely too.”"
 
 **中文理解**：你这么在乎。Bonnie 的声音撞击她的胸口。你装作不在乎，但你其实在乎。……这样容易些。……那不孤独吗？……有时会。……我……她的下唇发抖，眼睛湿润，蒙上一层水光。我也会孤独。
 **关键词**：You care so much / It’s easier / I can be lonely too
 **为什么这样写**：作者用四个短回合完成全书最重的一场对话——Bonnie 先定性（你在乎），Madison 回一句功能性解释（容易些），Bonnie 追问（孤独吗），Madison 承认（有时会），然后 Bonnie 的「I can be lonely too」在「我……」的断裂处落下；作者让 Bonnie 先吐露自己的孤独，这是她全书最不设防的一刻。
 **读者视角提示**：注意「It's easier」——这是 Madison 的全部哲学在一句里的浓缩，与她前面「假装不在乎」的表演能力形成自洽；下一句「I can be lonely too」是 Bonnie 给她的回应，也是两人关系的转折点。
 
-> **原句 13:** "The soft confession tugged at Madison’s heart. It was wrong. This amazing, kind, talented woman deserved more. The pull urged her closer; the feeling amplified. She slid her hand over Bonnie’s cheek. … “Madison.” The word left Bonnie in a whisper, caught between a question and accusation. Madison held perfectly still, but Bonnie didn’t pull away."
+> **原句 14:** "The soft confession tugged at Madison’s heart. It was wrong. This amazing, kind, talented woman deserved more. The pull urged her closer; the feeling amplified. She slid her hand over Bonnie’s cheek. … “Madison.” The word left Bonnie in a whisper, caught between a question and accusation. Madison held perfectly still, but Bonnie didn’t pull away."
 
 **中文理解**：这句温柔的坦白拉扯着 Madison 的心。这不对。这个了不起、善良、有才华的女人值得更多。那股拉力把她拉近，感觉放大。她滑过手到 Bonnie 的脸颊上。……「Madison。」这个词从 Bonnie 嘴里低语出来，夹在疑问与指责之间。Madison 一动不动，但 Bonnie 没有退开。
 **关键词**：tugged at her heart / caught between a question and accusation / didn’t pull away
 **为什么这样写**：作者把「初吻」拆成节拍——手放脸、名字低语、目光落唇——每一步都留出停顿，让读者自己感到时间在拉长；Bonnie 的「caught between a question and accusation」是全书最矛盾的一刻：既想问「你在干嘛」，又想控诉「你不该这样」，她用不动的身体给 Madison 让了出下一步的权限。
 **读者视角提示**：注意 Bonnie 没有退开——她的「不动」本身就是许可，作者用一个否定动作完成全书最重的许可。
 
-> **原句 14:** "Then Bonnie’s gaze dropped to her mouth. Fuck it. She leaned in and pulled her close, brushing her lips against hers. Soft and warm and drawing her deeper. Bonnie gasped into her mouth, kissing her back, and the heat sent a rush through her. … She kissed her harder, urgent, crushing her mouth to hers. Bonnie’s hands gripped her waist, fingertips twisting into her cotton vest and brushing the bare skin underneath. Madison’s stomach swooped. … Madison pulled back, chest heaving. Her hands curled into Bonnie’s shirt, tightening it over her nipples."
+> **原句 15:** "Then Bonnie’s gaze dropped to her mouth. Fuck it. She leaned in and pulled her close, brushing her lips against hers. Soft and warm and drawing her deeper. Bonnie gasped into her mouth, kissing her back, and the heat sent a rush through her. … She kissed her harder, urgent, crushing her mouth to hers. Bonnie’s hands gripped her waist, fingertips twisting into her cotton vest and brushing the bare skin underneath. Madison’s stomach swooped. … Madison pulled back, chest heaving. Her hands curled into Bonnie’s shirt, tightening it over her nipples."
 
 **中文理解**：然后 Bonnie 的目光落到她的唇上。去他妈的。她倾身把她拉过来，双唇轻触。柔软、温暖，把她往深处带。Bonnie 在她嘴里喘了口气，回吻她，热度在她体内涌起。……她更用力地吻她，急切，把嘴唇压上去。Bonnie 的手抓住她的腰，指尖拧进她的棉背心，擦过底下的裸肤。Madison 的胃一阵坠落。……Madison 退开，胸口起伏。她的手握进 Bonnie 的衬衫里，在她胸前收紧。
 **关键词**：brushing her lips against hers / crushing her mouth / stomach swooped
