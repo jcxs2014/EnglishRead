@@ -1,0 +1,49 @@
+{
+ "book": "bloodgrove-by-elisabeth-g-mark",
+ "chapter": "ch19",
+ "text": "notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch19_chapter_19.txt",
+ "facts": [
+  {
+   "fact": "咽喉灌满咸稠液体呛醒，威尔扶着汗透的枕头呕出满床，指上挂着白色蜜浆",
+   "anchor": "vomited",
+   "start": 194,
+   "end": 201
+  },
+  {
+   "fact": "骨白的怪物自房间深处剥离成形：半鸟半狼半腐尸、啃剩骨与筋，大得塞满整间卧房，压塌床脚",
+   "anchor": "part bird, part wolf, part rotting carcass",
+   "start": 900,
+   "end": 942
+  },
+  {
+   "fact": "恐慌中他抓向肚子——皮下again有虫蠕动、肚子隆起；但他摸到的是第二心跳擂响而非肿胀，一丝宽慰",
+   "anchor": "he heard a second heartbeat pounding",
+   "start": 1287,
+   "end": 1323
+  },
+  {
+   "fact": "舌尖抚过颈后盗血的伤口，神低问「谁想拿走属于我的东西」——他答「法师们」",
+   "anchor": "Who tried to take what belongs to me?",
+   "start": 2227,
+   "end": 2264
+  },
+  {
+   "fact": "「退是我的潮，静是我的风暴，你需要时我总会来」——舌几乎温柔地抚过他的脸，此刻他才觉出那舌有多冷",
+   "anchor": "Ebb to my tide, calm to my storm",
+   "start": 2423,
+   "end": 2455
+  },
+  {
+   "fact": "「为我启唇，亲爱的，收下我给你的」，第一滴咸落在唇上他本能舔去——神满意地低吼「喝」",
+   "anchor": "Let me protect you.",
+   "start": 2825,
+   "end": 2844
+  },
+  {
+   "fact": "舌探入喉、胀满到下颌痉挛；白蜜入喉、双心擂鼓——直到他以为自己要窒息",
+   "anchor": "Until he thought he would suffocate.",
+   "start": 3855,
+   "end": 3891
+  }
+ ]
+}
