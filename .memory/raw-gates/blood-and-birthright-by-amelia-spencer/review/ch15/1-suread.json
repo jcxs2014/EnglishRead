@@ -1,0 +1,61 @@
+{
+ "book": "blood-and-birthright-by-amelia-spencer",
+ "chapter": "ch15",
+ "text": "notes/books/novels/blood-and-birthright-by-amelia-spencer/text/ch15_chapter_15.txt",
+ "facts": [
+  {
+   "fact": "Maya 冷水：Henry 缺席也许只是巧合",
+   "anchor": "It could have simply been a coincidence that he wasn’t present at the Council meeting on Baker Street",
+   "start": 145,
+   "end": 246
+  },
+  {
+   "fact": "对 Magnus 保密：没告诉他议事会有幸存者",
+   "anchor": "we haven’t told Magnus we found the last surviving member of the Council he massacred",
+   "start": 1318,
+   "end": 1403
+  },
+  {
+   "fact": "她的兜底条款：母亲的那点清算欲足以应付背叛",
+   "anchor": "she had just enough of her mother in her to exact retribution for betrayal.",
+   "start": 2197,
+   "end": 2272
+  },
+  {
+   "fact": "亮片战争下注：你们待会儿再互捅我押 Maya",
+   "anchor": "You can stab each other later. My bets are on Maya, though,",
+   "start": 4358,
+   "end": 4417
+  },
+  {
+   "fact": "Astrid 请假实情：帮妈妈干违法的事、portafilter 伺候",
+   "anchor": "my mom will take me out with one of her portafilters",
+   "start": 5574,
+   "end": 5626
+  },
+  {
+   "fact": "Elias 请辞：为 Foundation 赶项目对上议事会时要用",
+   "anchor": "I’ve got a feeling we’ll need it when we confront Atalanthya and the Council.",
+   "start": 6221,
+   "end": 6298
+  },
+  {
+   "fact": "Maya 留守用 The Eye 盯三人",
+   "anchor": "I might come in handy with the Eye. I’ll keep watch over the three of you.",
+   "start": 6580,
+   "end": 6654
+  },
+  {
+   "fact": "七日协议：不回则强拉并告知 Magnus Henry 未死",
+   "anchor": "If we aren’t back in seven days, Elias should pull us out and Magnus needs to know Henry isn’t dead.",
+   "start": 8954,
+   "end": 9054
+  },
+  {
+   "fact": "两手按肩入书",
+   "anchor": "Without question, Adrien and Silas placed their hands on her shoulders.",
+   "start": 9086,
+   "end": 9157
+  }
+ ]
+}
