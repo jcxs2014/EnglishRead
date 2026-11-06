@@ -1,0 +1,43 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch01",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch01_1_the_card_of_the_visitor.txt",
+ "facts": [
+  {
+   "fact": "玄祖母“老祖母”在供给日为阿拉读塔罗，翻出“访客”与“家园”两张牌，暗示将有来自拉夫纳的访客。",
+   "anchor": "Old Mother insists on reading our fortunes every Provision Day",
+   "start": 218,
+   "end": 280
+  },
+  {
+   "fact": "五年前赫瓦拉对拉夫纳宣战，母亲（驻赫瓦拉女王的大使）将阿拉与哥哥埃里克送来赫瓦拉，由老祖母作监护人。",
+   "anchor": "sent my brother and I here for reasons that are still hazy to me",
+   "start": 1409,
+   "end": 1473
+  },
+  {
+   "fact": "国家工匠维克米上门警告附近空域可能有军事行动，并追问“好运为何总落在你脚边”，暗示与拉夫纳血脉魔法有关。",
+   "anchor": "military action is being planned in airspace near us",
+   "start": 3228,
+   "end": 3280
+  },
+  {
+   "fact": "阿拉在去神殿的路上帮过科斯默的母亲萨尔；回忆中科斯默借走阿拉的黑丝带后，从招募船上应征入伍，阿拉至今自责。",
+   "anchor": "Cosmer’s enlisted. You have to come. Now.",
+   "start": 8497,
+   "end": 8538
+  },
+  {
+   "fact": "科斯默离去当天早晨向阿拉借走她从宫廷带来的黑丝带，二人之间曾有欲言又止的亲近。",
+   "anchor": "He’d asked to borrow it that morning.",
+   "start": 8813,
+   "end": 8850
+  },
+  {
+   "fact": "布道中维克米宣称将击败拉夫纳、根除王室血脉与魔法；阿拉在心中驳斥其谎言，带着厌恶拉走埃里克离开。",
+   "anchor": "The bloodline, and its magic will be eradicated",
+   "start": 13618,
+   "end": 13665
+  }
+ ]
+}
