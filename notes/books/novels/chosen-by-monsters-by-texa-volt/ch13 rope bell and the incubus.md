@@ -65,17 +65,7 @@ modified: "2026-11-06"
 
 **读者视角提示**：对照 ch01 的吧台反击：她赢 Calloway 的每一招都是当年练的。反后宫的爽点不在男主多强，在女主「看得懂」。
 
-> **原句 6:** "The glamour drops off all at once. The noise of the room comes back in a rush, the music and the shaker and a hundred people talking, and my palm warms back up. I pick up his old fashioned, pour it in the sink, and set the empty glass in the bus tub. "You're done for the night," I say. "Water's free.""
-
-**中文理解**：魅惑「啪」地散了。房间的噪音涌回来——音乐、摇酒声、一百个人的交谈——她的掌心也回暖。她拿起他那杯 old fashioned，倒进水槽，空杯丢进收杯箱。「你今晚喝完了，」她说，「水免费。」
-
-**关键词**：The glamour drops off / my palm warms back up / pour it in the sink / Water's free
-
-**为什么这样写**：解除魅惑的瞬间用「声音回灌」计量——读者刚刚也一直戴着那层滤镜。「倒掉那杯酒」是服务业的开除仪式：不吼不闹，处置器物。Water's free 的礼貌刻薄，是本书写反击的签名语气。
-
-**读者视角提示**：对照 ch02 的「我摸得到」——她连超自然的骚扰都用「可感知证据」说话。记住倒酒这个动作：后面每个人惩罚恶客的方式都不同，她的版本永远是专业流程。
-
-> **原句 7:** "“Yeah,” I say. “I do. And if you need magic to get a bartender's number, honey, you're doing it wrong.” There's a beat. Then the troll at the end of the bar laughs so hard the brass rail shakes. The harpy shrieks and claps her wings, once, and a napkin blows off the bar. Somebody behind Calloway says "Oh," the way people say it when somebody's just gotten dunked on in public."
+> **原句 6:** "“Yeah,” I say. “I do. And if you need magic to get a bartender's number, honey, you're doing it wrong.” There's a beat. Then the troll at the end of the bar laughs so hard the brass rail shakes. The harpy shrieks and claps her wings, once, and a napkin blows off the bar. Somebody behind Calloway says "Oh," the way people say it when somebody's just gotten dunked on in public."
 
 **中文理解**：「是啊，」她说，「我知道。要是你搭上一个酒保的号码还需要用魔法，亲爱的，那你的路子走错了。」一拍安静。然后吧台尽头的 troll 笑得铜扶手直晃，哈比尖叫着拍了一下翅膀，一张餐巾被扇下吧台。Calloway 身后有人「哦——」了一声，就是那种当众看人被晾的「哦」。
 
@@ -84,6 +74,16 @@ modified: "2026-11-06"
 **为什么这样写**：公众处刑的音效三连：铜轨震动（低频）、翅膀爆响（高频）、路人的「哦」（人声）——笑声成了法庭的木槌。她的反击全程没有超自然词：把「魔法搭讪」拉回「搭讪」的失败学维度，羞辱的杀伤力反而最大。
 
 **读者视角提示**：对照 ch01 砸 Doug 的鼻子：那时的武器是暴力，现在的武器是观众。成长不改本色——她永远选「让对方在人群里社死」的那条路。
+
+> **原句 7:** "The glamour drops off all at once. The noise of the room comes back in a rush, the music and the shaker and a hundred people talking, and my palm warms back up. I pick up his old fashioned, pour it in the sink, and set the empty glass in the bus tub. "You're done for the night," I say. "Water's free.""
+
+**中文理解**：魅惑「啪」地散了。房间的噪音涌回来——音乐、摇酒声、一百个人的交谈——她的掌心也回暖。她拿起他那杯 old fashioned，倒进水槽，空杯丢进收杯箱。「你今晚喝完了，」她说，「水免费。」
+
+**关键词**：The glamour drops off / my palm warms back up / pour it in the sink / Water's free
+
+**为什么这样写**：解除魅惑的瞬间用「声音回灌」计量——读者刚刚也一直戴着那层滤镜。「倒掉那杯酒」是服务业的开除仪式：不吼不闹，处置器物。Water's free 的礼貌刻薄，是本书写反击的签名语气。
+
+**读者视角提示**：对照 ch02 的「我摸得到」——她连超自然的骚扰都用「可感知证据」说话。记住倒酒这个动作：后面每个人惩罚恶客的方式都不同，她的版本永远是专业流程。
 
 > **原句 8:** "Lenart is closest, in a charcoal suit, his hands in his pockets, looking at Calloway the way you'd look at a stain on a good rug. Merek is beside him, horns nearly touching the hanging glass rack, his ember lines gone bright orange up both arms and his tail lashing slow behind him, back and forth, back and forth. Tav is behind them both, and he still has the toolbox in one hand and a chandelier crystal stuck to his sleeve. He isn't doing anything. He doesn't have to. His ears are flat."
 
