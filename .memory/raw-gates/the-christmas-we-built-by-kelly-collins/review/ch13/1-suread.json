@@ -1,0 +1,78 @@
+{
+ "chapter": "ch13",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "Eight days after the Calloways canceled, Frank raised his hand before Griffin reached the last page",
+   "fact": "Calloways取消八天后，Frank在Griffin还没念完供应商报告时举手，要问清对替补供应商承诺了什么；他抱臂而立，带着三十年的职业性怀疑，四十个人凑近了听。",
+   "start": 31,
+   "end": 130,
+   "agent_start": 31,
+   "offset_verified": true
+  },
+  {
+   "anchor": "We offered two fee waivers, contingent on this committee approving them",
+   "fact": "Griffin回答：他们提供了两项费用减免、以本委员会批准为条件——Nora把Salem烧烤餐车安排在离舞台最近的摊位，他自己把第二辆餐车安排在角落单元后面的装卸位。",
+   "start": 361,
+   "end": 432,
+   "agent_start": 361,
+   "offset_verified": true
+  },
+  {
+   "anchor": "we had replaced ninety-seven percent of the Calloways’ food service",
+   "fact": "过去八天里，两人用已签署、以当日投票为条件的供应商协议替换了Calloways食品服务的97%；Nora坚持要纸面文件，Griffin亲自开车去Salem收签名；如今只差一个早餐班次。",
+   "start": 1162,
+   "end": 1229,
+   "agent_start": 1162,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Meridian’s had a position in this block since September",
+   "fact": "Frank转述在木材行听到的风声：Meridian Group逢人便说Griffin过度扩张、项目快垮；Griffin承认Meridian自9月起持有这个街区头寸，Victor Crane曾想拉他合伙开发再倒卖，他10月拒绝，Crane从此一直等着1月15日。",
+   "start": 1769,
+   "end": 1824,
+   "agent_start": 1769,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Owen called the vote at nine forty. The recovery plan passed without a single no.",
+   "fact": "Owen于9点40分叫票，复苏计划零反对通过，他把票数核了两遍也没藏住笑；随后宣布次日早9点召开全体议会、两位联合主席提交预算与供应商名单，议会核准后19天后以完整食品服务开幕（外加一座不会把孩子合唱团掉进地下室的舞台）。",
+   "start": 2650,
+   "end": 2731,
+   "agent_start": 2650,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Crane sent my bank a file designed to make me look like a bad risk.",
+   "fact": "贷款方来电后Griffin告知Nora：Crane向他的银行递交了把他包装成高风险客户的文件——附停摆的Portland项目照片，并声称他不再满足贷款协议的流动性要求；说法不实，但银行已把明日的工程拨款挂起，其信用委员会9点在旧金山开会、要他带更新后的财务到场。",
+   "start": 7027,
+   "end": 7094,
+   "agent_start": 7027,
+   "offset_verified": true
+  },
+  {
+   "anchor": "thirty-two employees short of payroll Friday and nearly three hundred subcontractors",
+   "fact": "Griffin算账：拿不到拨款，公司得自垫银行本应报销的开销——周五32名直雇员工发不出工资、近300家分包商与供应商在等支票；若银行认定他不再符合贷款条款就能停掉两个项目的资金，届时违约，他名下所有建筑（包括这个街区）都面临风险。",
+   "start": 7631,
+   "end": 7715,
+   "agent_start": 7631,
+   "offset_verified": true
+  },
+  {
+   "anchor": "a late flight out of Portland at eleven fifty",
+   "fact": "Griffin已订下波特兰11:50的末班机（航司把最后一个座位多留了10分钟）、并打电话叫Rosie开车赶上来；他说议会9点开始自己将视频参加，握有全部供应商档案、预算与密码的Rosie会陪Nora进会场。",
+   "start": 7962,
+   "end": 8007,
+   "agent_start": 7962,
+   "offset_verified": true
+  },
+  {
+   "anchor": "We finish the festival as co-chairs. Whatever else we were starting stops here.",
+   "fact": "Nora不满他先订好行程再通知自己，说“我要的是决定之前有发言权，而不是决定之后多一个方案”，并提出节日继续以联席主席身份办完、两人刚开始的其他关系就此打住；她想起上一个说爱她的男人Thomas把一切决定好、只留她一个“说好”的任务，而Griffin订的是往返票，她仍听成了道别。",
+   "start": 10224,
+   "end": 10303,
+   "agent_start": 10224,
+   "offset_verified": true
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "chapter": "ch15",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "By eight Friday morning, I had presented the festival budget without my co-chair",
+   "fact": "周五早8点，Nora已独自（没有联席主席）提交节日预算、丢了四家供应商、没接Griffin的两次来电；周四晚6点他第二次打来时她选择不接、他也没再留言；Griffin的运营总监Rosie连夜开了4小时车来帮忙打供应商电话，假日店员Jenna替她守着Winters Wonderland。",
+   "start": 31,
+   "end": 111,
+   "agent_start": 31,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The festival committee’s seven merchant members sat together at the front.",
+   "fact": "周五8点Owen急电Nora立刻去社区中心；停车场比节日史上任何晨会都满——节日委员会的七名商户成员坐前排，Owen手里握着议会的第八票。",
+   "start": 953,
+   "end": 1027,
+   "agent_start": 953,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Four vendors withdrew yesterday. That puts us below the minimum",
+   "fact": "Owen递来三页打印件：前两页是Meridian与Griffin切割的声明，称他是过度扩张、不负责任的“失控开发商”；第三页才是要害——四家供应商昨天退出，使节日许可与附加保险低于最低线，中午前补不齐就“没许可、没保险、没节日”。",
+   "start": 1431,
+   "end": 1494,
+   "agent_start": 1431,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The emergency protocol gives us until noon",
+   "fact": "紧急流程给到中午，供应商比例须回到90%以上；Frank说本周退出的四家里三家怪领导层、一家直指Nora；Nora安排自己认领怪她的那两家、Rosie分头处理其余，并让Owen去问许可办公室和承保人中午前到底接受什么（Rosie从6点起就在这里打电话——Griffin被贷款方缠住了）。",
+   "start": 2362,
+   "end": 2404,
+   "agent_start": 2362,
+   "offset_verified": true
+  },
+  {
+   "anchor": "For three hours and thirty-eight minutes, the community center became a bad call center.",
+   "fact": "三小时三十八分钟的电话战后：Salem烧烤餐车回归，两家无法再改备货档期、第四家要等保险落实——只回到88%、距政策最低线差两个百分点（Pearl拎着标有EMERGENCY MANAGEMENT的点心盒来支援）；11:55Owen把88%写上白板，正午Nora放下电话说“叫投票吧”。",
+   "start": 2944,
+   "end": 3032,
+   "agent_start": 2944,
+   "offset_verified": true
+  },
+  {
+   "anchor": "All in favor of suspending the forty-third annual Holly Creek Christmas Festival.",
+   "fact": "第43届Holly Creek圣诞节被表决暂停：Colette先举手、边举边道歉；经营可可车、握八票之一的Dale Henderson不看她举了手；Ed Whitmore说“这是对的”；自1986年Richard开办橇雪路线起一届未落的Mrs. Morrison说没保险不能让马上路；备了9000美元节日库存的Frank仍投了赞成并道歉；Ivy与Pearl弃权——6票赞成、2票弃权，节日停办；散会时已是12:09。",
+   "start": 3965,
+   "end": 4046,
+   "agent_start": 3965,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The public-programming line on your downtown merchant grant.",
+   "fact": "Owen在最后一通供应商电话结束前就启动了摊位费退款；1:15Nora回到Winters Wonderland后接到他电话：她市中心商户补助金的“公共项目”条目出问题——她连续八年靠节日申报这个条目，资格须在1月评审前有文件，而当天已是12月5日；Owen自责11月曾在议会上大声读过那行字、却看着她当成技术细节放过。",
+   "start": 5770,
+   "end": 5830,
+   "agent_start": 5770,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Hal Sackett came up the sidewalk at one twenty",
+   "fact": "1:20，81岁的Hal Sackett把Pearl的三明治送到（“拿回去就别来喝咖啡了”）；Nora明白真正击垮她的不是节日也不是店铺，而是失去自己花了八年才挣来的这个地方。",
+   "start": 6526,
+   "end": 6572,
+   "agent_start": 6526,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I picked up my phone. There were two missed calls and one voicemail.",
+   "fact": "Nora听昨天上午（Meridian声明与停办表决之前、她在节日办公室拒看手机时）留下的那条留言：先是最后通牒与声明预告，然后是“想把车里的冬衣箱拆包在Holly Creek……我想留下”和“我厌倦了把重要的事留在车里”（这条留言比此刻早一天到达——当时她正在一间地下室办公室对Colette说一切有她搞定）；Pearl只说“不必先原谅才能听”；她翻出记账本（最后一行是周二的“Salem BBQ—Ray—confirming Sat only”），写下日期、11:47和G. Cole后回电留言：节日已停办、补助金随之下线、店铺可能撑不过2月——“坏消息当天就告诉你，像我们说好的”“后面那些话我也听到了”。",
+   "start": 8877,
+   "end": 8945,
+   "agent_start": 8877,
+   "offset_verified": true
+  }
+ ]
+}

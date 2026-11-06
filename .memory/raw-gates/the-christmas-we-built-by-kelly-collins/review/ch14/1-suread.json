@@ -1,0 +1,78 @@
+{
+ "chapter": "ch14",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "At twenty past two, I set my phone on the hotel nightstand without calling.",
+   "fact": "凌晨2:20（落地不到一小时），Griffin把手机放上酒店床头、没有打给Nora——他觉得自己与Nora只有两次亲吻的分量，无权吵醒她；酒店大堂12英尺圣诞树下的金色礼物全是画着缝线的泡沫假货。",
+   "start": 34,
+   "end": 109,
+   "agent_start": 34,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The Meridian Group occupied three floors of a tower in the financial district.",
+   "fact": "Meridian占金融区一栋塔楼的三层；Griffin 7:45抵达，往街角慈善圣诞老人（全街区唯一肯承认已是12月的人）的桶里丢了20美元；会议室里Crane、拿平板的Janet Park和四位合伙人已等得面有愠色。",
+   "start": 1566,
+   "end": 1644,
+   "agent_start": 1566,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Sign the partnership agreement you rejected in October, or Meridian withdraws its support publicly.",
+   "fact": "会议室里Crane下最后通牒：签下他10月拒绝过的合作协议，否则Meridian公开撤回支持；Griffin回敬：第九段写明只有到1月15日、且在他未启动获批维修时，Meridian才对他六栋楼有任何权利——今天Meridian没有法律筹码。",
+   "start": 2383,
+   "end": 2482,
+   "agent_start": 2383,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I asked the chief credit officer whether his bank had reviewed how much cash you committed to Holly Creek",
+   "fact": "Crane承认是他打的电话：他与银行首席信贷官同属一个俱乐部、对方接他电话，是他让银行复审Griffin投进Holly Creek的现金和两个未完工的Portland项目；“复审不是违约，是拖延——你周五的工资单不在乎这个叫法。”",
+   "start": 2825,
+   "end": 2930,
+   "agent_start": 2825,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Forty percent of a project you can finish is worth more than all of one I have to drag through town.",
+   "fact": "Crane给出第一句实话：能完工的项目拿40%，胜过要硬拖过镇议会的整个项目；他敲了敲公共议程——Griffin与Nora的名字排在9点的议会名下，说Griffin本该75分钟后出现在俄勒冈；合作协议开放到5点。",
+   "start": 3476,
+   "end": 3576,
+   "agent_start": 3476,
+   "offset_verified": true
+  },
+  {
+   "anchor": "At nine, I carried updated financials to my bank’s credit committee.",
+   "fact": "9点整，Griffin带着更新后的财务赴银行信用委员会；对方要求一笔他拿不出的额外现金储备，拨款在其满足之前继续冻结。",
+   "start": 4205,
+   "end": 4273,
+   "agent_start": 4205,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I called at eleven forty-seven.",
+   "fact": "11:47Griffin打Nora电话，响五声进入留言。留言里他说：Meridian上午下了最后通牒（签或不签都要毁掉他），他将拒绝，要她在新闻稿之前先从自己这里听到；又说出本打算周三讲的话——想把车里那箱冬衣拆包在Holly Creek、想留下，却把Crane的来电压了六天、总把真话拖到太迟；留言在2分11秒后被切断。",
+   "start": 4640,
+   "end": 4671,
+   "agent_start": 4640,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Crane called at four.",
+   "fact": "下午4点Crane亲自来电，邀Griffin上32层的私人办公室“再谈一次”：他为上午董事会做派道歉，自述曾做出一个被本地报纸称作“愿意倾听的开发商”的项目、红火三年，终在市场转向后关系与利润两头落空；随后给出新方案——撤回拆除方案、三栋楼保留、他取六栋楼40%股权并提供银行要的储备金；Griffin想到二十年后的自己而拒绝：“拿你的40%，我能救项目、修名声，但五年后我就成了你。”Crane回“那是种浪漫的破产方式”，并短信告知Meridian声明5点发出；6点Griffin再打Nora，仍无人接，这次没再留言。",
+   "start": 6501,
+   "end": 6522,
+   "agent_start": 6501,
+   "offset_verified": true
+  },
+  {
+   "anchor": "My father called at seven.",
+   "fact": "晚7点父亲来电：Victor上周已打电话给他（两人自Ashland相识），父亲误以为儿子“终于对Holly Creek通情达理”，夸他花十年想证明开发可以服务社区虽天真却可敬，说了四年来最暖的话，还十年来头一次提起母亲——“你妈妈会喜欢这一幕”，用它奖励一个Griffin并未做出的选择；挂断后当夜Meridian声明发出，措辞显示律师在Crane邀他上楼“道歉”前几天就已拟好。",
+   "start": 12593,
+   "end": 12619,
+   "agent_start": 12593,
+   "offset_verified": true
+  }
+ ]
+}
