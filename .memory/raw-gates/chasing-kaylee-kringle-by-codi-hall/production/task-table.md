@@ -23,15 +23,15 @@
 | ch10 | Kaylee | 2729 | rc=0 | 批次1（97a551036 收口） |
 | ch11 | Kaylee | 1219 | rc=0 | 批次1（97a551036 收口） |
 | ch12 | Kaylee | 2359 | rc=0 | 批次1（97a551036 收口） |
-| ch13 | Rick | 1474 | | |
-| ch14 | Kaylee | 1321 | | |
-| ch15 | Kaylee | 1261 | | |
-| ch16 | Rick | 1611 | | |
-| ch17 | Kaylee | 1901 | | |
-| ch18 | Rick | 1068 | | |
-| ch19 | Rick | 1888 | | |
-| ch20 | Kaylee | 1449 | | |
-| ch21 | Kaylee | 2459 | | |
+| ch13 | Rick | 1474 | rc=0 | 批次2（收口） |
+| ch14 | Kaylee | 1321 | rc=0 | 批次2（收口） |
+| ch15 | Kaylee | 1261 | rc=0 | 批次2（收口） |
+| ch16 | Rick | 1611 | rc=0 | 批次2（收口） |
+| ch17 | Kaylee | 1901 | rc=0 | 批次2（收口） |
+| ch18 | Rick | 1068 | rc=0 | 批次2（收口） |
+| ch19 | Rick | 1888 | rc=0 | 批次2（收口） |
+| ch20 | Kaylee | 1449 | rc=0 | 批次2（收口） |
+| ch21 | Kaylee | 2459 | rc=0 | 批次2（收口） |
 | ch22 | Rick | 1457 | | |
 | ch23 | Kaylee | 1532 | | |
 | ch24 | Rick | 1396 | | |
