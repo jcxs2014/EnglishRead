@@ -52,7 +52,7 @@ modified: "2026-11-06"
 > **原句 6:** "It is the symbol for negation, Azideh supplied, low and troubled. The same symbol that became instrumental in isolating your realms."
 
 **中文理解**：「那是『否定』之符，」Azideh 低声供给，忧心忡忡。「把你们的领域隔绝开来的，正是同一个符号。」Julian 画的是「关门」的咒——诸域的监狱，就是用这个字造的。
-**关键词**：negation / isolated
+**关键词**：negation / symbol
 **为什么这样写**：以「否定」命名封印——negation 的语法身份（不是元素、是运算符）让它天然克制一切「开门」；「instrumental in isolating」的自供把初神的创世写成了一场隔离审查。
 **读者视角提示**：这一块补完了 Orsus 线的关键设定：五域隔离不是事故，是初神的行政决定。Julian 此刻用的，是狱卒的原版钥匙。
 

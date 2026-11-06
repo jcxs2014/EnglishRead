@@ -45,14 +45,14 @@ modified: "2026-11-06"
 > **原句 5:** "Just as she had at the Thana basilica during Phos’s first attack, she twisted her fingers through the spirit’s tether and slammed it back inside its body. At her silent order it rose, sightless and soundless and dripping brain matter from the bowl of its skull."
 
 **中文理解**：一如 Phos 首袭时在 Thana 圣殿的那次，她的手指捻进灵魂的命线，把它塞回尸身。在她无声的号令下，那东西站了起来——无目、无声、脑浆从颅碗里往下淌。她的第二次「归灵」，第一次在众敌面前。
-**关键词**：tether / brain
+**关键词**：tether / spirit
 **为什么这样写**：回环引用（第三章的战场）让黑化有了刻度——上一次是「救场的例外」，这一次是「公开的课」；sightless and soundless 的叠形容词把恐怖压成呼吸声。
 **读者视角提示**：第十三章她对自己说「亡者应受尊重」——本章的课堂评语由下一块的 GHOST 来写。
 
 > **原句 6:** "Lorz ost Vonlin grinned as Risha crumpled to the icy ground and he pulled his spear from her neck. He hadn't managed to completely sever her head, but he'd cut through the spine, and there was no getting up after that."
 
 **中文理解**：Lorz 咧着嘴看 Risha 倒在冰面上，从她颈中拔出长矛。他没能完全砍下她的头——但矛切断了脊椎，之后再起不来了。将军的凯旋报告，只写了一半。
-**关键词**：spine / severed
+**关键词**：spine / spear
 **为什么这样写**：用「军医判词」埋逆转——「no getting up after that」是给凡人听的医学；对一件「不能以要紧方式被杀死」的东西，这句话等于开赛铃。
 **读者视角提示**：对照第一章「刀穿父颈」与本章「矛贯她颈」——同一种伤口在一个家里传了两代。她下一句的回话比伤口更利。
 

@@ -6,7 +6,7 @@ modified: "2026-11-06"
 # 33. III（Part III: Between the Wasteland and Sky）
 
 ## 本章导航
-- **一句话概括**：Julian 的梦带回一场远古的「造门仪式」，又在宝石洞里与 Taesia 完成第一个清醒的吻；沙海行军中 Edwin 两次说漏嘴，Nikolas 终于崩堤——「You love her, and it's going to kill us all」——而兽潮自北方袭来，怒火的源头直指骨镯里的 Phos。
+- **一句话概括**：Julian 的梦带回一场远古的「造门仪式」，又在宝石洞里与 Taesia 完成第一个清醒的吻；沙海行军中 Edwin 两次说漏嘴，Nikolas 终于崩堤——「You love her, and it’s going to kill you」——而兽潮自北方袭来，怒火的源头直指骨镯里的 Phos。
 - **情感弧线位置**：三条爱线在同一章点火：Julian 的梦吻、Nikolas 的失态、Edwin 的歌——所有没说出口的话都被沙漠的高温蒸出地表。
 - **Tropes 兑现/反转**：梦中梦的「旁观仪式」；「猎人被猎」的身份倒转；怪兽来袭的经典节点被追责到神头上。
 - **人物弧线**：Julian 第一次把「Orsus 在用我」说出口；Nikolas 的 control 欲在肢体上失控；Edwin 的「失误」从喜剧滑向可疑。

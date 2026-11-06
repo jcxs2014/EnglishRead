@@ -45,7 +45,7 @@ modified: "2026-11-06"
 > **原句 5:** "“WHEN WILL YOU REALIZE,” he whispered, still smiling as Kaspan’s bones poked through, as the feather kept glimmering, “THAT THIS IS WHAT SHE WANTS?”"
 
 **中文理解**：「你什么时候才会明白，」他低语——笑意不减，Kaspan 的骨头正戳破皮肉，羽毛仍在闪烁——「这正是她想要的？」火光里的一句心理战，比剑更准。
-**关键词**：SPAWN / WANTS
+**关键词**：WHEN / REALIZE
 **为什么这样写**：让神用「她」来离间——Deia 的愿望被包装成阴谋论；「bones poked through」的画面与「whispered」的音量对撞，恐怖全靠温度差。
 **读者视角提示**：这句话的毒性在于「无法证伪」——她的每一次挥霍力量，都像在替 Deia 完成心愿。第四部之前，这句耳语会一直跟着她。
 

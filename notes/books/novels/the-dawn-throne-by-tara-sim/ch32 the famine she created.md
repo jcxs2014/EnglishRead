@@ -31,7 +31,7 @@ modified: "2026-11-06"
 > **原句 3:** "Why can’t we sit and deliberate the issue you know we’ve come here to discuss? Your legionnaires invaded our realm and killed our people."
 
 **中文理解**：「我们为什么不能坐下来，谈你们明知我们要谈的事？你们的军团侵入我们的领域、杀害我们的人民。」Risha 把球杆一放，把外交桌掀了。
-**关键词**：stalling / legionnaires
+**关键词**：deliberate / legionnaires
 **为什么这样写**：打破仪式的人负责说真话——「deliberate」的官腔与「killed our people」的白刃放在同一口气里；她不讲程序的样子，恰好是本章最讲程序的行为。
 **读者视角提示**：对照第一章「为你我才不得不放逐 Taesia」——丧父者的怒火穿过两本书终于找到了谈判桌。
 
@@ -45,7 +45,7 @@ modified: "2026-11-06"
 > **原句 5:** "If we negotiate with the Daystar to cease hostilities on Vitae, He will be more likely to agree if we instead turn our sights upon Noctus."
 
 **中文理解**：「若我们与 Daystar 谈成停火 Vitae——祂会更愿意答应，前提是我们转而把矛头对准 Noctus。」一场战争的结束，以另一场战争为找零。
-**关键词**：armistice / Noctus
+**关键词**：cease / hostilities
 **为什么这样写**：和平的算术题由刽子手出——「instead」一词把牺牲写进方案默认栏；Angelica 立刻算出代价：他们来止战，却差点签下续战。
 **读者视角提示**：外交桌上没有平局，只有转移。记住这个提案——它是本书「结构性不义」最直白的一次报价。
 

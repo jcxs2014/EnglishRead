@@ -66,7 +66,7 @@ modified: "2026-11-06"
 > **原句 8:** "“Of course.” Edwin closed his book with a frown. “They were the ones who built the Dawn Throne.”"
 
 **中文理解**：「当然知道，」Edwin 皱着眉合上小书，「Dawn Throne 就是他们建的。」一句市井冷知识，把全书的目标建筑交了底。
-**关键词**：Krülins / Throne
+**关键词**：Throne / built
 **为什么这样写**：关键情报由喜剧角色随口抛出——信息差的落差即戏剧落差；「closed his book with a frown」的小动作让这句话格外像顺手，而它恰恰是 Ulshära 此行的全部目的。
 **读者视角提示**：回看上一章她的「proposition」——现在你知道她带他们逛集市在找什么了。
 

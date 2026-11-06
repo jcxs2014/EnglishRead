@@ -66,7 +66,7 @@ modified: "2026-11-06"
 > **原句 8:** "My ancestors were once priests of the Divine City. When the throne was built and the temple altered to suit Phos’s tastes, they were all driven out with the excuse that they were no longer needed."
 
 **中文理解**：「我的祖上曾是 Divine City 的祭司。王座建成、神殿照 Phos 的口味改造之后，他们全被驱逐——理由是不再被需要。」Edwin 的家族史，就是那座城的政变史。
-**关键词**：priests / exiled
+**关键词**：priests / driven
 **为什么这样写**：以「裁员通知」讲神学政变——「no longer needed」把神圣叙事翻译成 HR 语汇；被逐者建立崇拜驱逐者的聚落，讽刺绕了一整圈。
 **读者视角提示**：这段话让第二十二章 Ulshära 的「祭司已走、城已空」有了下文——空城不是没人住过，是被换过血。
 

@@ -45,7 +45,7 @@ modified: "2026-11-06"
 > **原句 5:** "The memory resumed as Varrick breathed in deep, trying not to smile. “Double it.”"
 
 **中文理解**：记忆继续——Varrick 深吸一口气，忍着不笑。「翻倍。」两个字，一座兵工厂的产能。
-**关键词**：Double / output
+**关键词**：Double / memory
 **为什么这样写**：军令只给两个音节，屠杀被折算成乘法；「trying not to smile」是本段最寒的细节——他在自己的野心里尝到了甜。
 **读者视角提示**：对照第十章「 Sending minions with only a fraction of his strength. Pathetic.」——Yvri 眼里的杂兵，在 Varrick 的账本上是双倍的产能。战争的两本账。
 
@@ -66,7 +66,7 @@ modified: "2026-11-06"
 > **原句 8:** "“What I have to do—what I’ve already done—the rest of you would recoil at.”"
 
 **中文理解**：「我必须做的——我已经做过的——你们其余的人都会退缩。」她把凶器摊开一半，收回一半。
-**关键词**：recoil / necessary
+**关键词**：recoil / already
 **为什么这样写**：坦白以省略号收刀——「what I've already done」不举例、不辩护，让听者自己脑补成最坏的版本；她的温柔方式：替他保住「不必懂」的权利。
 **读者视角提示**：对照第十三章她教 Saya「Don't look」——她的爱始终是隔离式的。这个句式会在全书反复响起。
 
@@ -99,7 +99,7 @@ modified: "2026-11-06"
 |---|---|---|
 | crèche | 育婴堂、托儿所 | A village center where goods must have been traded. A crèche. |
 | reprimand | 训斥、惩戒 | Perhaps Varrick did, too, as his memory sharpened on that look of disdain, filed it away for later reprimand. |
-| imploring | 恳求的、哀求的 | The time is right, Nyx whispered. Dulcet, sweet, imploring. |
+| welcoming | 欢迎的、接纳的 | She’d stayed there on her knees, the shadows swarming and welcoming her back, for so long that her legs went numb. |
 | balked | 畏缩、却步 | The ost Vonlins balked. It was the middle one, the biggest one, who spoke this time. |
 | revelry | 狂欢、作乐 | But the princess stood apart from the revelry, gazing instead at the structure of the Bone Palace in the distance |
 
@@ -109,7 +109,7 @@ modified: "2026-11-06"
 | kindling | 引火柴 | Mouth dry, Taesia sheathed Starfell, fingers skimming the band of nightstone, and went to fetch kindling for the fire. |
 | bedroll | 铺盖卷 | Taesia dropped the branch beside it and, instead of hacking it into kindling, went straight for her bedroll. |
 | fangs | 尖牙 | She felt the connection between sword and ghost the way she had been drawn to its fangs in Noctus—an arrow on a compass, pointing surely. |
-| suppressed | 被压制的 | Behind him was a glimpse of green eyes, of dark hair, of magic suppressed and bodies bound. |
+| swarming | 蜂拥的 | She’d stayed there on her knees, the shadows swarming and welcoming her back, for so long that her legs went numb. |
 
 ## 一句话总结
 她把爱与恨分装进三条梦线，却没发现神的耳朵贴在自己的复述上——「容器清零」四个字，把 Nikolas 与 Rian 的名字从盟友名单挪进了猎杀名单。

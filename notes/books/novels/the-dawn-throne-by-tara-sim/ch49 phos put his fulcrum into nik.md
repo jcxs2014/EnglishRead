@@ -85,7 +85,7 @@ modified: "2026-11-06"
 | acrid | 辛辣刺激的 | Cloying honey and acrid salt. |
 | cloying | 甜腻得发闷的 | Cloying honey and acrid salt. |
 | repercussions | 后果、反响 | it’s only right we deal with the repercussions. |
-| searing | 灼烧的、滚烫的 | his ire toward Taesia came into searing focus. |
+| extinction | 灭绝 | A thousand extinction events in a single drop of ichor. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -98,8 +98,8 @@ modified: "2026-11-06"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| spear | 矛 | Nikolas blindly reached for it and wrapped a hand around the fallen Sunbringer Spear. |
-| recoil | 后座 | the burn scar left from the pistol’s recoil. |
+| spear | 矛 | Nikolas yanked the Sunbringer Spear out of Phos’s head and phased away, hovering in the air. |
+| akimbo | 双手叉腰 | lying akimbo in the wreckage. |
 | smoke | 烟 | Black blood that smoked and hissed when it hit the floor. |
 
 ## 一句话总结

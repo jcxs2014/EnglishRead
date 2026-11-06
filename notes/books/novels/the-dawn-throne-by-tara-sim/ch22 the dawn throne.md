@@ -45,7 +45,7 @@ modified: "2026-11-06"
 > **原句 5:** "He would see us rule a universe when all we want is survival, and gladly sacrifices His own people to see it done.” Ulshära shook her head. “I do not want a war. I want stability."
 
 **中文理解**：「祂想让我们统治宇宙，而我们要的只是活下去——为了这个，祂甘愿牺牲祂自己的子民。」她摇头。「我不要战争。我要稳定。」两句话，神域的路线之争摊牌。
-**关键词**：conquest / stability
+**关键词**：survival / stability
 **为什么这样写**：让 imperator 说出「反战」——最高军事长官的反战宣言比任何平民的都重；「survival」与「universe」的量级对撞，把 Phos 的罪从暴虐改写成「错位的需求」。
 **读者视角提示**：对照第十五章 Deia 的「我宁可烧了我的世界也不给他」——两位神、两套毁灭观，中间站着两批只想活命的凡人。
 

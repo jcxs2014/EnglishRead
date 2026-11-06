@@ -52,7 +52,7 @@ modified: "2026-11-06"
 > **原句 6:** "Ready to run—or ready to fight. The Cultris constellation blazed across its brow."
 
 **中文理解**：准备逃跑——或准备战斗。Cultris 星座在它眉间燃烧。astralam 的亡魂隔着黑洞看她，用一头狼的方式提问。她的答案，将决定光的走向。
-**关键词**：astralam / Cultris
+**关键词**：run / fight
 **为什么这样写**：以「二选一」复现全书母题（be both / run or chase）——星座 blazing 是它唯一的自我介绍；它的名字（Salvar/Sceleratus）在下一块兑现为「她救自己的工具」。
 **读者视角提示**：对照第二十三章「剑与幽灵的罗盘」——那根「箭」终于指回了它的主人。星图的用处，是让人在黑里认路。
 
@@ -99,7 +99,7 @@ modified: "2026-11-06"
 |---|---|---|
 | loopback | 回环、闭环线路 | He could feel the thread he’d stitched across her limbs, locking their power together, an endless loopback. |
 | festered | 溃烂、化脓 | a beam made up of whatever lurked beyond the night’s stars. Whatever festered in Nyx’s blood, and hers. |
-| crooned | 低吟 | “THIS WILL BE YOUR LAST CHANCE,” Phos crooned |
+| abhorring | 憎恶 | He yearned for the suns and their light, their promise of destruction, feeding it and starving for it and abhorring it. |
 | synapse | 突触 | The sunstorm unleashed with crackling energy that fired across each synapse. |
 
 ### ⭐ 常用

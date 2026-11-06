@@ -113,7 +113,7 @@ modified: "2026-11-06"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| folio | 文件夹 | Dante reached into an inner pocket of his thin, sleeveless overcoat and pulled out a leather folio. |
+| addendum | 附录、补充条款 | “Consider this an addendum.” |
 | roster | 名册、花名册 | He thought of the demon’s form above him and hastily shook it away in order to read the rosters and ledgers required for keeping a military functional. |
 | trunk | 大箱子 | There was a trunk to their right. Azideh growled at the sight of it. |
 | nest | 巢、窝 | “Good thing I caught it before it made a nest.” |

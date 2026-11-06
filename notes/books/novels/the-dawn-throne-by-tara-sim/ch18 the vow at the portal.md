@@ -17,7 +17,7 @@ modified: "2026-11-06"
 > **原句 1:** "Nikolas nearly crashed into the roof beside her. The core of his magic stirred, the Sunbringer Spear blisteringly hot against his back. He turned and saw a radiant pillar in the center of the palace square, aimed at Phos’s eye."
 
 **中文理解**：Nikolas 险些摔上她身边那片屋顶。魔法的核心躁动起来，Sunbringer Spear 烫得灼背；他回头——宫殿广场正中立起一根光柱，直指 Phos 的巨眼。
-**关键词**：pillar / Solara
+**关键词**：pillar / radiant
 **为什么这样写**：门的信息全靠「体感」先到——矛比眼睛先看见同类；「aimed at」把光柱写成武器而非通道，开门这件事从第一帧就带着杀气。
 **读者视角提示**：上一章的白光是「看不清」，这一章的光柱是「瞄得准」——同一种光，两副面孔。
 

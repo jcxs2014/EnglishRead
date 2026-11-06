@@ -101,7 +101,7 @@ modified: "2026-11-06"
 | progenitor | 始祖、开创者 | Orsus had been the first being to inhabit their universe, the weaver of the Cosmic Scale, the progenitor of the realms and their gods. |
 | predisposed | 生性倾向于 | He was a young teenager, with all the limb-forward awkwardness boys that age seemed predisposed for. |
 | zapping | 电击般窜过 | still the light shot out of him like lightning, zapping through his bared teeth and across his chest. |
-| seethed | 恼怒翻腾 | The god seethed, “YOU WILL NOT ESCAPE THIS REALM WITH YOUR LIVES.” |
+| restraints | 束缚、限制 | Varrick fought against her restraints, the tendons in his neck protruding with the effort. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

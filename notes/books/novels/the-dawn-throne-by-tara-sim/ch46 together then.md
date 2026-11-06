@@ -94,7 +94,7 @@ modified: "2026-11-06"
 | coalesced | 聚合、合并 | The radiance of the suns coalesced into a ray that struck the plaza. |
 | austere | 朴素的、冷峻的 | were nothing but austere orbs of gold. |
 | avian | 鸟类的 | It was avian in nature, standing on hind legs that ended in hooked talons. |
-| turbulent | 汹涌的、骚动的 | Her eyes were turbulent with swarming galaxies |
+| variegated | 斑驳的、杂色的 | Two sets of wings unfolded from its back and refracted the combined sunbeam across the plaza in shards of variegated brilliance. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

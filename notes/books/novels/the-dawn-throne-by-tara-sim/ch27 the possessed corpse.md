@@ -106,7 +106,7 @@ modified: "2026-11-06"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| shackled | 上镣的 | The soldier who had accompanied the healer undid Risha’s shackles. |
+| anguish | 极度痛苦 | Risha licked her dry lips, pulling back her anguish, pulling back, until she could speak without unraveling. |
 | corpse | 尸体 | Faster than a corpse had any right to be, Imperator Kaspan leapt off the table with its sword aimed at them. |
 | vials | 小药瓶 | Around the corpse was an array of bowls and vials; Risha recognized granules of salt and sugar |
 | cremains | 骨灰、火化遗骸 | better still that they scattered the cremains out in the desert |

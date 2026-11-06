@@ -38,7 +38,7 @@ modified: "2026-11-06"
 > **原句 4:** "I can offer you the means with which to protect him, Nikolas. But first, you must come to me.”
 
 **中文理解**：「我能给你保护他的方法，Nikolas。但你得先到我面前来。」神的援助套餐，首付是尊严。它专挑他跪着的时刻开价。
-**关键词**：means / kneel
+**关键词**：means / come
 **为什么这样写**：诱惑的条款全部合法——「保护弟弟」是他自己说出的愿望，神只是把它写进了合同；「first」一词把顺序变成陷阱。
 **读者视角提示**：对照第九章 Rian 的「Let me prove light can be good」——父子两代都在向神要「保护的方法」。方法从来是钩子。
 

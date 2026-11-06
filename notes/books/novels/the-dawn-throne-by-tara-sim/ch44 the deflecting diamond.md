@@ -24,14 +24,14 @@ modified: "2026-11-06"
 > **原句 2:** "Before the temple, a dark shape materialized directly beneath the suns’ unnatural placements. It spun with nauseating force, the quintessence spilling out of the temple’s columns feeding it until it bloomed into a murky, spiraling portal."
 
 **中文理解**：神庙之前，一团暗影在三个太阳的非常位置正下方成形——以令人作呕的力量旋转，神庙廊柱涌出的 quintessence 源源喂养，直到它绽成一扇浑浊的螺旋之门。门的味道是春天。门的那边是他们的家。
-**关键词**：spiraling / Vitae
+**关键词**：spiraling / portal
 **为什么这样写**：入侵的门以「喂食」语法开启——columns 的献祭让它像器官而非装置；「spring water」的清新气息负责催泪：他们梦寐以求的门，被敌人先打开了。
 **读者视角提示**：对照第五章 Risha 的「门要吃门那边的血」——这扇门吃的是神庙自己的神力。门开得越顺利，神越接近失血。
 
 > **原句 3:** "It will connect all the lightspeed gates together. The ones in the Three Sisters, the inactive one by the sealed Noctus portal, and the one here, at the heart of the Divine City.”
 
 **中文理解**：「它会把所有光速门连为一体。三姊妹城的、封死的 Noctus 门旁那座闲置的——还有这里，Divine City 心口的这一座。」Edwin 的说明书第一页，全是「合并」条款。全国的门，一次并网。
-**关键词**：connect / apertures
+**关键词**：connect / gates
 **为什么这样写**：把「防御工程」写成因「并网」而变脸——说明书的动词全是善意的 connect；恶意藏在第八章「太阳被改成法阵」的同一条思路上。
 **读者视角提示**：记住「并网」的比喻——本章的胜负手就是把电网从「盾」调成「炮」。开关只在他手里。
 
@@ -99,7 +99,7 @@ modified: "2026-11-06"
 | primordial | 原初的 | their names a primordial knowledge whispering in his mind. |
 | aperture | 孔径、开口 | “These maneuver the apertures to better position them for that connection.” |
 | welled | 涌起 | Rian’s lungs constricted. |
-| concoction | 调制品 | it only contained a stash of some powdery, medicinal-looking concoction that smelled sharply pungent. |
+| blistering | 灼热起泡的 | Rian dropped the lightspeed gate and tore his blistering hand away from the mechanism. |
 | sunslit | 被阳光切开的 | He could barely see through the sunslit windows, but he didn’t have to. |
 
 ### ⭐ 常用

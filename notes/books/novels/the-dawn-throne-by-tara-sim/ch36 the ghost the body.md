@@ -45,7 +45,7 @@ modified: "2026-11-06"
 > **原句 5:** "She lied so boldly that Jas was stunned to silence. “And all of Mortri to oversee.”"
 
 **中文理解**：她撒了谎——大胆到 Jas 都惊得说不出话。「外加整个 Mortri 归你统管。」为了让亡王卖力，她连死人的王位都敢批发。谎言第一次由她签发，Jas 第一次被她噤声。
-**关键词**：reinstated / oversee
+**关键词**：Mortri / oversee
 **为什么这样写**：谎言的规格写成「批发王位」——boldly 修饰的不是内容而是姿态；Jas 的沉默是本段真正的砝码：道德伴侣第一次对她的手段失语。
 **读者视角提示**：她瞒下的那半句（fulcrum 要随 Thana 一起毁）比说出的半句更重。这份沉默会算利息。
 
@@ -129,7 +129,7 @@ modified: "2026-11-06"
 |---|---|---|
 | belly | 肚腹 | Anatolia pressed a hand to her bulging belly. |
 | heirs | 继承人 | “I want to offer Anatolia and Klara the chance to assume Kaspan’s and Varrick’s duties until their heirs come of age, should they wish to.” |
-| strings | 线、琴弦 | “You try to pull my strings again, you’ll wish you were already dead.” |
+| anxiously | 不安地 | But she was not a forest—she was filled with blood, not laurel, and it shushed anxiously in her ears as she approached the weapon. |
 | windup | 上发条的 | The Device she was fiddling with turned out to be a windup bird. |
 
 ## 一句话总结

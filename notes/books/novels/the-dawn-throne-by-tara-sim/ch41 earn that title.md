@@ -31,7 +31,7 @@ modified: "2026-11-06"
 > **原句 3:** "It didn't matter if he grew fangs or talons, if his eyes permanently changed color like Julian's, if his skin turned to scales or hide. Even if it meant subjecting himself to the same fate as Baron Alma, he would not allow one feather to slip into Vitae."
 
 **中文理解**：长出獠牙利爪也好、眼睛永久变色也罢、皮肤化作鳞甲兽革——都无所谓。哪怕落得 Baron Alma 那样的下场，他也不许一根羽毛漏进 Vitae。Dante 的战前预算表，只列了代价栏。
-**关键词**：talons / feathers
+**关键词**：talons / scales
 **为什么这样写**：以「变量枚举」写决心——三种身体变异排成清单，被一句话全部勾销；「one feather」的最小计量单位让悲壮有了精度。
 **读者视角提示**：他的预算表漏了一项——「犹豫」。本章它会以最痛的方式补录。
 
@@ -92,7 +92,7 @@ modified: "2026-11-06"
 | nonchalance | 漫不经心、淡漠 | He despised the practiced nonchalance on Faün’s face, the indifferent way he unsheathed his sword. |
 | slithered | 滑行、蔓延 | They splintered and slithered around Solarian ankles, a network of nerves. |
 | divest | 剥离、摆脱 | “Ways to divest yourself from Varrick’s legacy and your brothers’ ambitions to stand on your own.” |
-| vexed | 恼火的 | Angelica flung a vexed hand through the air. |
+| pointless | 无意义的 | Angelica knew it was pointless to argue; no matter how much she spat and swore, it wouldn’t change Cosima’s mind. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -101,15 +101,15 @@ modified: "2026-11-06"
 | pylons | 塔门柱 | One of the ost Vonlins was already leading his legionnaires through the lofty pylons on either side |
 | lustrous | 光亮的 | marching on foot to the clanging rhythm of their lustrous armor and weapons. |
 | ravening | 掠食成性的 | She scanned the ravening legionnaires behind him, the sigils etched into their skin with her innovation. |
-| wrath | 暴怒 | but Nikolas’s gaze and breath and wrath went beyond him. |
+| anguish | 极度痛苦 | Azideh’s spike of caution formed an undercurrent to the anguish splitting him from crown to calf. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| obstacle | 障碍 | “Or you can let me take her out of the equation altogether. One less obstacle.” |
+| telltale | 明显的迹象 | Every time they passed a window she looked for telltale signs of battle. |
 | inferno | 火海 | A breath later, a towering wall of inferno erupted beneath them. |
-| hazed | （眼神）涣散的 | The guards’ eyes hazed over and their alarmed orange deepened to a sedate blue. |
-| compelled | 被强制的 | The few servants who caught sight of him were instantly compelled the same way |
+| telltale | 明显的迹象 | Every time they passed a window she looked for telltale signs of battle. |
+| obsidian | 黑曜石的 | Angelica felt weighed down by the violin case on her back, the obsidian dagger at her belt warm without her even touching it. |
 
 ## 一句话总结
 琴火挡不住喝彩的将军、强制败给一瞬的怯、劝降输给一句「你早该死」——Divine City 的第一课是：所有没缴清代价的力量都会当场退货，除了那个早就把命押出去的人。

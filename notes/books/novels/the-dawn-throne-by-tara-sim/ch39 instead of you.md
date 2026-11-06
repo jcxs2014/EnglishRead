@@ -17,7 +17,7 @@ modified: "2026-11-06"
 > **原句 1:** "There were bulky white objects all along the edge of the Shadow Sea. His Hunter's mind filled in the gaps until he realized they were the giant skeletons of at least a dozen talpascor."
 
 **中文理解**：Shadow Sea 的边缘横着一排笨重的白色物体。他的 Hunter 之脑自动补全了空隙——那是至少十二头 talpascor 的巨大骸骨。边境线上立着的不是界碑，是战败者的坟。
-**关键词**：skeletons / bleached
+**关键词**：skeletons / talpascor
 **为什么这样写**：以「填空」写认知——Hunter 的职业本能先于恐惧抵达；「a dozen」的计数让惨烈有了库存感，也悄悄为「骨可传讯」的设定备货。
 **读者视角提示**：这批骨头是谁杀的？本章中段 Taesia 会给出答案——以及答案背后的主人。
 
@@ -31,7 +31,7 @@ modified: "2026-11-06"
 > **原句 3:** "I am everything they worried I was,” she whispered, dropping her arms and her smile. “Because I realized it was so much easier to prove them right than wrong."
 
 **中文理解**：「我成了他们一直担心我会成为的一切，」她耳语着，放下手臂，也放下笑。「因为我发现——证明他们是对的，远比证明他们错了容易。」反派的就职演说，第一句是自白，第二句是降书。
-**关键词**：worried / monster
+**关键词**：worried / prove
 **为什么这样写**：把「黑化」拆成一道算术题——prove right 的省力路径，正是所有偏见的自证陷阱；drop her smile 的动作与台词同步：她连「笑」都上缴了。
 **读者视角提示**：对照第二章除名时的「Ever the liar」——她本章承认的唯一谎言，是对自己有利的那一种。
 
