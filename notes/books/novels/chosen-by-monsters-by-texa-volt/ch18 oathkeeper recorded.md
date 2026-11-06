@@ -139,7 +139,7 @@ modified: "2026-11-06"
 
 **中文理解**：他打开公文包抽出一只长信封。她从没见过，但她知道那是什么：附录。厚纸，正面是 Dez 的字——条件不成立方可开启——黑蜡封缄，蜡上压着一枚印记，又小又圆，磨损得认不出来。「条件没有败，」Pike 说，「所以它不会被打开。它随其余遗产文件一起回我的保险柜——Dez 是这么指示的。」
 
-**关键词**：To be opened only if the condition fails / sealed with a blob of wax / too worn to make out / the condition hasn
+**关键词**：To be opened only if the condition fails / sealed with a blob of wax / too worn to make out / Dez instructed
 
 **为什么这样写**：全书的最大悬念以「看得见摸不着」的方式收场：信封就在眼前、印记磨损难辨——作者让你与它告别而不是与它相见。黑蜡与磨损的印=一个被时间用旧的秘密，它的长寿本身就是 Desmond 谨慎的墓志铭。
 
