@@ -21,9 +21,9 @@ modified: "2026-11-06"
 **为什么这样写**：交矛写成「递刀给命案当事人」——nimbus（光轮）不再只是神性装饰，而是 indictment 的形状；与第一章 Rian 拒矛对照：当年是拒绝遗产，如今是继承凶器。
 **读者视角提示**：本章末尾他会带着这杆「凶器」进沙漠。光轮照到哪，哪就是猎场。
 
-> **原句 2:** "The bone absorbed the feather from Varrick's body. Orsus wants to get stronger. It might be why they insist on me using their power."
+> **原句 2:** "He exhaled forcefully. “The bone absorbed the feather from Varrick’s body.”"
 
-**中文理解**：「骨头吸收了 Varrick 身上的那根羽毛。Orsus 想变强。也许祂们坚持要我用祂们的力量，就是为了这个。」Julian 的情报，比任何警报都凉。
+**中文理解**：「骨头吸收了 Varrick 身上的那根羽毛。」Julian 的话像一声闷雷。Orsus 想要变强——也许祂们坚要他用其神力，正是在给这具镯子喂食。
 **关键词**：absorbed / Orsus
 **为什么这样写**：把「恩赐」重述成「饲养」——神器的慷慨原来有食谱；「insist」一词点破骨镯的主动性：不是他在用镯，是镯在用他。
 **读者视角提示**：对照第五章「FULCRUM 是神的保险」——Orsus 的保险丝也在烧。记住这条暗线，它在终盘会烧到所有人。
@@ -45,7 +45,7 @@ modified: "2026-11-06"
 > **原句 5:** "“How is stability possible with two imperators killed?” Ulshära demanded. “Varrick's son is too young to take up the title, and Kaspan's child is not yet born. There is no one else with Phos's blood to step in."
 
 **中文理解**：「两位 imperator 遇害，稳定从何谈起？」Ulshära 厉声质问。「Varrick 的儿子年幼不能袭位，Kaspan 的孩子尚未出生——再没有流着 Phos 之血的人能顶上。」权力真空，一口气说完。
-**关键词**：imperators / successor
+**关键词**：imperators / title
 **为什么这样写**：政治危机用「族谱」讲完——继位的资格被压缩成一滴血；「too young / not yet born」两个短语把时间线上的两只空椅并排摆好。
 **读者视角提示**：对照 Risha 下一句的「凭何领袖必须流 Phos 的血？」——本章最锋利的一场辩论，输赢要到第四部才揭晓。
 
