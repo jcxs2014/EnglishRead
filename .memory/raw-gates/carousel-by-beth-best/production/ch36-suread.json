@@ -1,0 +1,43 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch36",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch36_36_the_card_of_the_choice.txt",
+ "facts": [
+  {
+   "fact": "炸弹落下后，阿拉苏醒在科斯默怀中；得知工程师要锁闭所有逃生舱，科斯默想带她一起上船。",
+   "anchor": "I’m back in my own body",
+   "start": 52,
+   "end": 75
+  },
+  {
+   "fact": "阿拉告诉科斯默赫瓦拉和维克米村很可能已经被炸平，旧母亲直到最后都陪着她；科斯默无法接受这场浩劫。",
+   "anchor": "Bombs fell, Cosmer",
+   "start": 1212,
+   "end": 1230
+  },
+  {
+   "fact": "阿拉告诉科斯默她要去桥楼，德泽维斯要把完全整合者带到“皇帝号”去拉夫纳，她注定成为王后去当女王。",
+   "anchor": "I need to go to The Bridge",
+   "start": 2374,
+   "end": 2400
+  },
+  {
+   "fact": "阿拉说她爱科斯默，愿为他违背星辰，但现在必须为所有人牺牲：让他回村埋葬亲人并重建，自己去履行命中注定的职责。",
+   "anchor": "I would cheat the stars for you",
+   "start": 2298,
+   "end": 2329
+  },
+  {
+   "fact": "阿拉最后一次吻科斯默，从头发上拔下他的丝带塞进他的手中，随即跑出舱门。",
+   "anchor": "pull out the ribbon from my hair",
+   "start": 5375,
+   "end": 5407
+  },
+  {
+   "fact": "阿拉命令工程师锁上那艘舱，自己用靴子卡住门把，科斯默在舱内绝望地砸门喊叫，她头也不回地离开。",
+   "anchor": "Lock this one",
+   "start": 5726,
+   "end": 5739
+  }
+ ]
+}
