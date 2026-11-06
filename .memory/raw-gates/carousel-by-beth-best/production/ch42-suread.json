@@ -1,0 +1,43 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch42",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch42_42_the_last_night.txt",
+ "facts": [
+  {
+   "fact": "阿拉试图和科斯默谈论瑞斯的死，他说还没准备好，正在用自己的方式哀悼。",
+   "anchor": "Riss",
+   "start": 334,
+   "end": 338
+  },
+  {
+   "fact": "科斯默拒绝现在谈论瑞斯，表示等时机合适再处理悲伤。",
+   "anchor": "I’m not going to do that,” he says. “Yet.",
+   "start": 993,
+   "end": 1034
+  },
+  {
+   "fact": "科斯默说阿拉是他此刻唯一真实的东西，是他最后一件好事。",
+   "anchor": "My last good thing",
+   "start": 1887,
+   "end": 1905
+  },
+  {
+   "fact": "阿拉拒绝在悲痛中做爱，认为性对她来说比麻木更有意义，更想和科斯默躺着说话。",
+   "anchor": "sex means more to me than that",
+   "start": 2745,
+   "end": 2775
+  },
+  {
+   "fact": "科斯默从床垫下拿出偷来的罐装桃子，和阿拉分享，这是他们在分别前最后的宁静时刻。",
+   "anchor": "tinned peaches",
+   "start": 4716,
+   "end": 4730
+  },
+  {
+   "fact": "“皇帝号”停船，抵达拉夫纳。",
+   "anchor": "The sudden stopping of the ship",
+   "start": 5414,
+   "end": 5445
+  }
+ ]
+}
