@@ -95,7 +95,7 @@ modified: "2026-11-06"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| witch | 女巫 | Only humans were allowed to be Travelers. |
+| witches | 女巫们 | The earth-inclined witches, like Vix, had enlarged it and turned the bark a grayish white so it would stand out from the others. |
 | friends | 朋友们 | selecting her favorite colors of hard candies to bring home and share with her friends. |
 | back | 背后 | we give our best to our Travelers, sending them on their adventures with our love and light at their backs. |
 | cheek | 脸颊 | Elora yelled, even as she pulled Vix close and kissed his cheek. |
