@@ -1,0 +1,78 @@
+{
+ "chapter": "ch03",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "At eleven ten the next morning, Jenna Morales came through the back door and hung her coat in my office.",
+   "fact": "次日上午11点10分，Jenna Morales从后门进来替班——Nora买店前她就为前任店主Adele工作，节日季每周顶三个午餐班；Owen把常规规划会定在中午正是为了让Jenna替Nora看住Winters Wonderland，Nora交给她备用收银钥匙，提前四十五分钟赶到社区中心。",
+   "start": 29,
+   "end": 133,
+   "agent_start": 29,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I arranged the vendor binders around my seat.",
+   "fact": "Nora把摊商档案夹按餐饮、手工零售、娱乐分区摆开；档案记着Morrison太太的雪橇游览、Henderson家的热可可车，以及自1987年起年年演出至今的高中合唱团。",
+   "start": 1183,
+   "end": 1228,
+   "agent_start": 1183,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Every January since my second year I’d filed the festival on my downtown merchant grant renewal",
+   "fact": "Nora满脑子是Owen的警告：从第二年起每年一月她都在市中心商户补助续期表的Annual Public Programming一栏用蓝墨水申报集市；补助支付一月二月淡季的房租水电，昨晚之前这一栏从无足轻重。",
+   "start": 1707,
+   "end": 1802,
+   "agent_start": 1707,
+   "offset_verified": true
+  },
+  {
+   "anchor": "We need ninety percent of the vendors under contract and a twelve-thousand-dollar contingency reserve",
+   "fact": "11点58分Griffin夹着蓝图、背着电脑包进门，只带一个文件夹——说明他读完了Nora发去的全部材料；会上他重申许可硬门槛：90%摊商签约与12,000美元应急储备金须在12月4日前核验，否则镇里既拿不到集市许可也拿不到封街的额外保险；Nora回敬这些是指标不是目标。",
+   "start": 3929,
+   "end": 4030,
+   "agent_start": 3929,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“The festival is forty-three years old. People propose at the tree lighting.",
+   "fact": "Nora摆出集市的意义：它已办四十三年，有人在点灯仪式求婚，Frank把父亲一半骨灰撒在山楂树下、其余留在壁炉台上，孩子们来这里见圣诞老人、再多信一年。",
+   "start": 4350,
+   "end": 4426,
+   "agent_start": 4350,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“Fifteen percent over last year. That recovers the decline and demonstrates a growth trajectory.”",
+   "fact": "Griffin定下出席目标：比去年提高15%，按区域旅游数据折算三天约新增两千名访客；他还提议以节日灯光迷宫取代雪橇游览——现有项目三天约服务两百人，迷宫可容纳十倍人次、还能制造社交传播照片。",
+   "start": 4969,
+   "end": 5066,
+   "agent_start": 4969,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“The sleigh rides have been part of this festival since 1986.”",
+   "fact": "Nora捍卫雪橇游览：它自1986年起就是集市项目，但过去五年出席率逐年下滑、运营成本超过票款；Morrison太太七十三岁，丈夫生前创办了这项活动，她每年十二月都赶马来，二月还在自家厨房水槽里洗马具。Griffin请她想出不动雪橇的省钱法，Nora提议与十分钟车程外的Whitmore马术中心合作，可她丈夫建造的移动马厩她不肯放手。",
+   "start": 6021,
+   "end": 6083,
+   "agent_start": 6021,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I came to Holly Creek on the third of January, after the life I’d planned fell apart.",
+   "fact": "Griffin问她为何选圣诞这行，Nora说原计划的生活崩塌后，她1月3日提着两只行李箱来到Holly Creek；次年十月Frank递给她打钉枪让她挂集市花环，五年后Adele退休时她买下店铺、改名Winters Wonderland并接手店面租约。他形容店一年死八个月，她纠正：七个月。",
+   "start": 9157,
+   "end": 9242,
+   "agent_start": 9157,
+   "offset_verified": true
+  },
+  {
+   "anchor": "if that machine dies before the twenty-third, I lose four hundred dollars’ worth of butter.",
+   "fact": "午餐高峰后Pearl端着咖啡来求助：她的步入式冷库发出像人清嗓子的声音，约每四分钟一次、夜里更久，而Frank背扭伤了；若机器在23日前坏掉，她将损失价值四百美元的黄油。Griffin诊断是压缩机短周期启停、多半是风扇电机，四十美元的零件可向Frank购买（他不肯卖的话就请他卖给Nora）；随后Griffin提议两人从Sweet Provisions起步走一遍Main Street，让她展示数据之外的真实街景，Nora答应了。",
+   "start": 10882,
+   "end": 10973,
+   "agent_start": 10882,
+   "offset_verified": true
+  }
+ ]
+}

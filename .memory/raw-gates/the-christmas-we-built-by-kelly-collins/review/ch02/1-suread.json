@@ -1,0 +1,78 @@
+{
+ "chapter": "ch02",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "I’d arrived thirty minutes early to set up my presentation materials",
+   "fact": "次日晚镇议会开会，Griffin提前三十分钟到场布置演示；到场商户充满敌意：Frank Donnelly抱着手臂坐前排，全街区唯一没把楼卖给他的书店业主Ivy Callahan带着摊开的笔记本坐到他旁边，Pearl与Nora也在其中。",
+   "start": 139,
+   "end": 207,
+   "agent_start": 139,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Holly Creek has lost approximately twenty-two percent of its population, and the median age has gone up seven years.",
+   "fact": "Griffin的演示数据：过去十年Holly Creek人口约减少22%、中位年龄上升七岁；Main Street商业空置率从12%升至27%，预计明年夏天达30%。",
+   "start": 2130,
+   "end": 2246,
+   "agent_start": 2130,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I bought six between August and the end of September",
+   "fact": "Griffin公布Main Street核心街区共八处商业房产，他于八月至九月底买下六处：Donnelly五金楼（Frank 2009年卖给Portland管理公司后自租）、Margaret Ferris卖出的Sweet Provisions楼、老药房、空置角落铺位、封闭的饲料店，以及容纳Winters Wonderland与楼上公寓的one-fourteen Main；只有Callahan的书楼与镇属北端地块不在其列。",
+   "start": 2685,
+   "end": 2737,
+   "agent_start": 2685,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Electrical systems in four of my six require complete replacement. Foundation issues affect three.",
+   "fact": "Griffin披露楼况：六处中四处电气系统需整体更换、三处有地基问题、屋顶维修全部逾期；他还点出Frank门上1902年的原装波浪玻璃气窗（约四十年前被错误补胶却保存最好）上方十一英寸处正是漏屑的屋顶，并警告若无资本投入，几栋楼三年内将不宜居住。",
+   "start": 3212,
+   "end": 3310,
+   "agent_start": 3212,
+   "offset_verified": true
+  },
+  {
+   "anchor": "This is a letter from Margaret Ferris, who owned the building that houses Pearl’s bakery until Mr. Cole bought it.",
+   "fact": "公众质询中Nora以文件反击：三年前Pearl因丈夫的医疗账单付不起租金，时任房东Margaret Ferris把租金降了四成、直到生意复苏都没上调——这份人情不进房产估值表。",
+   "start": 5704,
+   "end": 5818,
+   "agent_start": 5704,
+   "offset_verified": true
+  },
+  {
+   "anchor": "These are the seventy-three local kids who got their first jobs on Main Street in the past ten years.",
+   "fact": "Nora还出示Frank女儿坐月子时全街轮流照看婴儿的育儿记录，以及过去十年里73个在Main Street获得第一份工作的本地孩子名单，指出Griffin的表格只看得到空楼，看不到让其余楼开着的人。",
+   "start": 6322,
+   "end": 6423,
+   "agent_start": 6322,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“You’re proposing to demolish three buildings in phase two.”",
+   "fact": "两人争执到几乎贴面，Nora指控Griffin的二阶段要拆三栋楼——老药房、Donnelly五金旁的角落铺位和自我搬来就封闭的饲料店——改建“混合用途开发”；Owen叫停并宣布休会十五分钟商议（实际超过二十分钟）。",
+   "start": 7122,
+   "end": 7182,
+   "agent_start": 7122,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“Mr. Cole, Ms. Winters, you submit a joint recovery plan and co-chair the Christmas Festival together.”",
+   "fact": "Owen宣布议会条件：两人须共同提交复苏计划并联合主席圣诞集市，从次日起每周会面三次直到开幕夜、在活页夹截止日前签字。筹码：Griffin盘算六个月足以建好第一阶段并证明模式，但二阶段开发协议需议会批准（北地块与历史保护资金）；Nora一月份到期的市中心商户补助支付她一月二月淡季的房租水电，且她已连续八年凭申报集市续期。",
+   "start": 10343,
+   "end": 10446,
+   "agent_start": 10343,
+   "offset_verified": true
+  },
+  {
+   "anchor": "ninety percent of the vendors under contract and a verified twelve-thousand-dollar contingency reserve",
+   "fact": "Owen说明硬门槛：12月4日前须有90%摊商签约与经核实的12,000美元应急储备金，缺一则无法封街、无法办节；圣诞集市历来是镇上最大收入来源、去年出席率下滑20%，历史保护委员会十二月来访。散会后Griffin自数距开幕夜共十八次强制会议，并打算次日带上过去五年的出席数据。",
+   "start": 9536,
+   "end": 9638,
+   "agent_start": 9536,
+   "offset_verified": true
+  }
+ ]
+}

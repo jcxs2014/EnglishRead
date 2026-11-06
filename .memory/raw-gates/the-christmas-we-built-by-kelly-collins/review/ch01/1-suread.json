@@ -1,0 +1,78 @@
+{
+ "chapter": "ch01",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "I arrived fifteen minutes early because Griffin Cole had finally stopped being a rumor.",
+   "fact": "县登记处八点开门，Nora提前十五分钟到达——Griffin Cole终于从传闻变成真人，她担心自己的楼已被他买下，开始盘算不靠圣诞灯饰的生计。",
+   "start": 75,
+   "end": 162,
+   "agent_start": 75,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I’d found his LLC registration, his company website, and his structural engineering degree.",
+   "fact": "前一天下午，对街空置四年的店面突然亮灯，Nora隔街看到铺着蓝图的Griffin；当晚她没睡觉，搜他的名字到午夜，查到LLC注册、公司网站与结构工程学位。",
+   "start": 1502,
+   "end": 1593,
+   "agent_start": 1502,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The documents showed six cash sales, all completed between August and the end of September.",
+   "fact": "Nora调阅最近九十天的Main Street商业地产转让记录：六笔现金购买全部在八月到九月底之间完成——镇议会主席Owen Harper数月来游说投资，而Griffin带着足够的钱买下六栋楼、大半条商业街。",
+   "start": 2629,
+   "end": 2720,
+   "agent_start": 2629,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Five weeks ago, Portland Property Management had sold the building to Cole Development LLC, the company Griffin owned.",
+   "fact": "Nora拥有店铺Winters Wonderland但砖楼归Portland Property Management；五周前后者把楼卖给Griffin拥有的Cole Development LLC——她在不知情中成了新房东Griffin的租户。",
+   "start": 3010,
+   "end": 3128,
+   "agent_start": 3010,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“The sale closed in late September,” Betty said. “The ownership notice was due within thirty days.”",
+   "fact": "登记处的Betty Alvarez告知：交易九月下旬完成、所有权通知须在三十天内送达（十月底前应到），而Nora只收到安排周五屋顶检查的邮件，未被告知出售。",
+   "start": 3176,
+   "end": 3275,
+   "agent_start": 3176,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Adele Fisk, the shop’s previous owner, had marked the first four. I’d marked the next seven. This one made twelve.",
+   "fact": "老主顾Hal Sackett自妻子去世后每年圣诞买一只红雀挂饰：前四只由前任店主Adele Fisk题字，之后七只由Nora题字，今年这只已是第十二只；她提前打电话报信，Hal十点前到店取货。",
+   "start": 5536,
+   "end": 5650,
+   "agent_start": 5536,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Pearl, my best friend and the owner of Sweet Provisions next door, came through the front door.",
+   "fact": "Nora的挚友Pearl是隔壁Sweet Provisions烘焙店的店主；她替Nora看了五分钟店，让Nora带着绘有Main Street店面的玻璃挂饰当欢迎礼物过街去找Griffin；Pearl还说一个叫Rosie的女子替Griffin来打听过租约条款。",
+   "start": 6081,
+   "end": 6176,
+   "agent_start": 6081,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“I have a degree in structural engineering and twelve years of community development experience.”",
+   "fact": "面对Nora的指责，Griffin自述拥有结构工程学位与十二年社区发展经验，并抛出数据：五年内30%的邻近商户倒闭、区块房价连跌六年、她店内地基裂缝至少扩展了三年；他自称要拯救而非剥削这个镇。",
+   "start": 10480,
+   "end": 10577,
+   "agent_start": 10480,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“Fair. Then don’t trust my words. Come to my presentation at the council meeting tomorrow.",
+   "fact": "Griffin在门口邀请Nora次日出席他在镇议会的方案演示——如果她仍认为他来是要毁掉社区，就用事实来驳他；Nora拒绝握手，回到店里向Pearl承认他懂建筑、手上有茧，不像单纯的西装客。",
+   "start": 13292,
+   "end": 13382,
+   "agent_start": 13292,
+   "offset_verified": true
+  }
+ ]
+}

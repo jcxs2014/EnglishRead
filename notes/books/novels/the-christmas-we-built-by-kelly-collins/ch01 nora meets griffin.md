@@ -20,16 +20,16 @@ modified: "2026-11-06"
 **为什么这样写**：开场不写景先写动机，"fifteen minutes early"这个数字把焦虑具象化；"a career that did not involve Christmas lights"用自嘲口吻交代她的全部生计都押在这栋楼上，威胁一来，读者立刻明白她输不起的是什么。
 **读者视角提示**：读者从这里同时拿到全书的核心悬念（楼保不保得住）与女主的应对方式——她不哭诉不等待，直接去查公共记录，先动手再动情。
 
-> **原句 2:** "Then, yesterday afternoon, the lights came on in the vacant storefront across from my shop. The building had been dark for four years. A sudden square of light was hard to miss, especially for a woman who considered unlit windows a personal insult."
+> **原句 2:** "Then, yesterday afternoon, the lights came on in the vacant storefront across from my shop. The building had been dark for four years. A sudden square of light was hard to miss, especially for a woman who considered unlit windows a personal insult. Curiosity won, so I crossed Main Street and looked through the glass."
 
-**中文理解**：昨天下午，对面空置了四年的店面突然亮灯；对一个把"灭着灯的橱窗视为个人侮辱"的女人来说，这块突然亮起的光斑根本无法忽视——好奇心赢了，她过街去看。
+**中文理解**：昨天下午，对面空置了四年的店面突然亮灯；对一个把"灭着灯的橱窗视为个人侮辱"的女人来说，这块突然亮起的光斑根本无法忽视——好奇心赢了，她过街到玻璃前看。
 **关键词**：vacant storefront、unlit windows、four years
 **为什么这样写**："considered unlit windows a personal insult"把职业习惯写成了可爱的性格缺陷——她不是随便好奇，是职业尊严逼她过街；"dark for four years"给空店一个时间刻度，暗示凋敝是全镇背景，而非她一个人的麻烦。
 **读者视角提示**：读者第一次借诺拉的视线越过主街"偷看"对手，隔窗观察制造了"人还没见面、判断已经下了"的错位感。
 
-> **原句 3:** "The documents showed six cash sales, all completed between August and the end of September. The rumors had managed to get one thing right. Griffin Cole did not want one empty storefront."
+> **原句 3:** "The documents showed six cash sales, all completed between August and the end of September. The rumors had managed to get one thing right. Griffin Cole did not want one empty storefront. He wanted most of the block."
 
-**中文理解**：档案显示六笔现金交易、全部在八月至九月底完成过户；谣言总算猜对了一件事——格里芬·科尔要的不是一间空店面（后文随即点明，是大半个街区）。
+**中文理解**：档案显示六笔现金交易、全部在八月至九月底完成过户；谣言总算猜对了一件事——格里芬·科尔要的不是一间空店面，而是大半个街区。
 **关键词**：six cash sales、rumors、one empty storefront
 **为什么这样写**："The rumors had managed to get one thing right"先给谣言一记反讽，再补上比谣言更糟的事实；"cash sales"两个字比一段解释更冷——全款买家不需要任何人的同意，这正是诺拉恐惧的经济根源。
 **读者视角提示**：用一份档案记录完成"传闻→实锤"的升级，读者的紧迫感和诺拉同步拉满：她还没来得及谈判，交易已经结束了。
@@ -57,7 +57,7 @@ modified: "2026-11-06"
 
 > **原句 7:** "He took the box, set it on his blueprints, and lifted the lid. Inside was a glass ornament painted with the storefronts of Main Street beneath a line of snow."
 
-**中文理解**：诺拉把欢迎礼递过去，格里芬接盒、放上蓝图、掀开盖子——里面是一只玻璃挂饰，画着雪线之下的一排主街店面。
+**中文理解**：格里芬接过欢迎礼，放上蓝图、掀开盖子——里面是一只玻璃挂饰，画着雪线之下的一排主街店面。
 **关键词**：ornament、blueprints、storefronts of Main Street
 **为什么这样写**：这只礼物本身就是论点——她把"他买下的主街"画成圣诞挂饰送回去，既是宣示也是测试；"set it on his blueprints"让礼物落在他的计划书正中央，两种主张在同一张折叠桌上短兵相接。
 **读者视角提示**：读者会记住"画着店面的挂饰"这个意象——全书书名里的"我们盖的"与这只挂饰里"画下来的街"互为镜像。
@@ -90,7 +90,7 @@ modified: "2026-11-06"
 **为什么这样写**：用嗅觉写吸引力而不写心跳脸红，避开了生理描写的俗套；"I hated that"把心动直接定义为敌人，一句话立起"嘴硬身体诚实"的喜剧张力。
 **读者视角提示**：这是章内第一处明确的身体信号，读者至此确认：这不是一场纯粹的产权纠纷。
 
-> **原句 12:** "Then he looked up, and our eyes met through two storefront windows and the dark width of Main Street. Every Christmas light on the block was behind me."
+> **原句 12:** "At seven that evening, Griffin was still bent over his blueprints across the street. My ornament box stood open beside his tape measure, and the glass inside caught the light when he moved. Then he looked up, and our eyes met through two storefront windows and the dark width of Main Street. Every Christmas light on the block was behind me."
 
 **中文理解**：晚七点，格里芬还伏在蓝图上，挂饰盒开着放在卷尺旁；他抬头，两人隔着两扇橱窗与整条暗下来的主街对视——全镇的圣诞灯都在诺拉身后。
 **关键词**：eyes met、storefront windows、Christmas light
