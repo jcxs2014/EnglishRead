@@ -1,0 +1,55 @@
+{
+ "book": "the-corpse-collectors-by-caitlin-regencia",
+ "chapter": "ch02",
+ "text": "notes/books/mystery-thriller/the-corpse-collectors-by-caitlin-regencia/text/ch02_wishes_in_the_fire.txt",
+ "facts": [
+  {
+   "fact": "Healing Center建在巨树里，离精灵圈十分钟路程",
+   "anchor": "The Healing Center was built into an enormous tree about a ten-minute northern walk from the Fairy Circle.",
+   "start": 35,
+   "end": 141
+  },
+  {
+   "fact": "Lomarda说一提吸血鬼就像要打仗一样",
+   "anchor": "“Thank the Spirits you’re here! I swear, one mention of vampires, and you’d think war is imminent! Imagine when they actually see one!”",
+   "start": 865,
+   "end": 1000
+  },
+  {
+   "fact": "节日里总有人把自己烧着或者忘带蜡烛，要多备烫伤包",
+   "anchor": "“Someone always manages to light themselves on fire or forget their spell candles during festivals.”",
+   "start": 1843,
+   "end": 1943
+  },
+  {
+   "fact": "Elora当着Haversham的面装作渴慕吸血鬼",
+   "anchor": "“Personally, I’ve always thought of the vampires as sexy, brooding demons.",
+   "start": 6504,
+   "end": 6578
+  },
+  {
+   "fact": "Elora用献祭老人灵魂的玩笑吓走Haversham",
+   "anchor": "“Of course, I did promise I would return.",
+   "start": 6934,
+   "end": 6975
+  },
+  {
+   "fact": "Haversham把两人赶出门",
+   "anchor": "Mr. Haversham shoved them both from his home, slamming the door behind him.",
+   "start": 7512,
+   "end": 7587
+  },
+  {
+   "fact": "三个火系女巫点燃稻草树，这场保护仪式就此开始",
+   "anchor": "three fire-inclined witches came forth and took each human’s hands in their own as they set the straw trees alight together.",
+   "start": 12227,
+   "end": 12351
+  },
+  {
+   "fact": "音乐刚起就传来尖叫声，全章结尾被打断的悬念",
+   "anchor": "The music and dancing had just resumed, witches and humans alike blessing the Travelers with personal words of encouragement and small talismans, when panicked screams shattered the sky.",
+   "start": 12947,
+   "end": 13133
+  }
+ ]
+}
