@@ -15,7 +15,7 @@ modified: "2026-11-06"
 ## 精读
 > **原句 1:** "Ahalf dozen government SUVs pulled in with lights and sirens blaring twenty-five minutes later."
 
-**中文理解**：爱达荷的黎明前，六辆政府 SUV 鸣着警笛驶进来。
+**中文理解**：二十五分钟后，六辆政府 SUV 鸣着警笛驶进来。
 
 **关键词**：government SUVs、lights and sirens
 

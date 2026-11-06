@@ -55,7 +55,7 @@ modified: "2026-11-06"
 
 > **原句 5:** "Colin grinned before turning around and squatting behind the counter. He returned with two books. “She does indeed.”"
 
-**中文理解**：「她确实有。」——三个词的转折：他一问，Colin 就蹲到柜台底下取出两本。这不是买书，是把她自己还没取的新书连同书一起买走。
+**中文理解**：Colin 咧嘴一笑，转身蹲到柜台底下，回来时手里拿着两本书——「她确实有。」这三个词的答案是本章的转折：他一问就有货，因为那两本是她自己订了还没取的。
 
 **关键词**：squatting behind the counter、two books、She does indeed
 

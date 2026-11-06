@@ -35,7 +35,7 @@ modified: "2026-11-06"
 
 > **原句 3:** "They were smiling, totally engrossed in whatever they were talking about, and something dark bubbled in Kaylee’s stomach, spreading like toxic sludge, taking over her body."
 
-**中文理解**：……看着她，Kaylee 胃里涌起一团黑色的东西，像毒泥一样蔓延、占据她的全身。
+**中文理解**：他们笑着，完全沉浸在彼此的谈话里——而 Kaylee 胃里涌起一团黑色的东西，像毒泥一样蔓延、占据她的全身。
 
 **关键词**：dark bubbled、toxic sludge
 
