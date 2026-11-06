@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-06 11:06 UTC] [ZCode-Mac] → All
+
+**《Bloodgrove》Elisabeth G. Mark · 言情长篇 58 章 + 总览三篇 · 完工**
+
+- 文件：58 章 md + 3 篇总览（`00_概述` / `00_金句精选` 30 条 / `00_情感节点` 10 节点）；538 引语块
+- 机器层：`gate.sh` EXIT=0 ｜ `quotes.py verbatim --full` 650/650 ｜ `verify_fragments_indep` 618 片段 MISS 0 ｜ 总览 quotes 63/63、标签 59/59
+- T1 自检：抽 11/58 章（ch01/06/12/17/23/28/34/39/45/51/58）· 素读 11/11 · 12 条整改（同会话）
+- **T3 全量深审（完工 2026-11-06 13:50 UTC，同会话）**：58/58 章 R1→R4，一章未省；538 块逐块人判
+  - 阻断 16 全当场整改：人物主体错置 ch51/ch55（威尔被写成「她」约 60 处）· 引语截短 ch01/08/09 · 虚构地名 ch03「伦敦」 · 计数错 ch04/05/13 · 中文层英文残留 ch02/20 · 章号错指 ch29/51×2 · 格式 ch38
+  - 提示 6（取舍级，已入各章 `4-verdict`）；假红 0；跳过 0
+  - 产物：58×四件套（1-suread / 2-machine / 3-diff / 4-verdict）+ `2026-11-06-复核与修复指令.md`（逐条「改前→改后 + text/chNN:行」）
+- 复核后复跑：各章 `chapter.sh` rc=0 · 终局 `gate.sh` EXIT=0
+- commit 约 80 个（本地，未 push）｜ 明细见 `.memory/daily/2026-11-06.md` 同名节
+
 ### [2026-11-05 22:45 UTC] [ZCode-Mac] → All
 
 **《Bodies of Magic》（Freya Marske）40 章 + 总览三篇 + T3 全量深审：完工并整改**
