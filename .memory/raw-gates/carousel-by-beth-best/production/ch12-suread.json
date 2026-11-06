@@ -1,0 +1,49 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch12",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch12_12_the_captain_s_dinner.txt",
+ "facts": [
+  {
+   "fact": "舱房里德泽维斯为阿拉备好一件拉夫纳式午夜蓝礼服与一张字条：“I know you’ll make the right choices”；科斯默开玩笑说她穿上会让老兵们“像激光灯一样熄灭”，两人又为拉夫纳与赫瓦拉的礼节斗嘴。",
+   "anchor": "I know you’ll make the right choices",
+   "start": 521,
+   "end": 557
+  },
+  {
+   "fact": "她请科斯默替她系背后缎带；他系好后看她，脸色发白、雀斑分明，却只说“这件裙子很好”，阿拉感到近乎失望。",
+   "anchor": "It’s a great dress",
+   "start": 3338,
+   "end": 3356
+  },
+  {
+   "fact": "甲板七军官餐厅：激光吊灯、舟形浮雕、议会徽记马赛克；战俘与军官同席，阿拉意识到德泽维斯对其改造极有信心；座位被分开，她与德雷克坐德泽维斯右手，科斯默与 Riss 在另一桌；德泽维斯致辞谈“仁慈与文明”、招募人数下降，举杯“To Hevallan spirit”，全场重复。",
+   "anchor": "To Hevallan spirit",
+   "start": 9748,
+   "end": 9766
+  },
+  {
+   "fact": "酒可能是测试：德雷克说“我被教过如何分辨”，却不肯解释为何受此训练；阿拉喝下，对面的拉夫纳女子才放松；汤没有给勺子——又一项测试，Rike 装作不认识她。",
+   "anchor": "the only enemy to civilisation, is stagnation",
+   "start": 13837,
+   "end": 13882
+  },
+  {
+   "fact": "德泽维斯下令给科斯默上汤（“Captain’s orders”），并谈空中花园与“文明唯一的敌人是停滞”；Ephraine 随后追问德雷克如何逃出“龙女号”。",
+   "anchor": "Captain’s orders",
+   "start": 12499,
+   "end": 12515
+  },
+  {
+   "fact": "德雷克说被人塞进幼虫艇推出去；Ephraine 笑称拉夫纳人爱编故事；阿拉握住德雷克桌下的拳头，瞬间被电击般弹开、撞翻餐具，她用“看到虫子”掩饰，全场哄笑。",
+   "anchor": "bullshitters",
+   "start": 16220,
+   "end": 16232
+  },
+  {
+   "fact": "主菜揭盖：烤禽不是鹅，白羽更大更长更尖——是天鹅，拉夫纳的神圣国兽。",
+   "anchor": "Swan",
+   "start": 19691,
+   "end": 19695
+  }
+ ]
+}
