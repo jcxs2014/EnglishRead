@@ -1,0 +1,55 @@
+{
+ "book": "the-christmas-we-built-by-kelly-collins",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-christmas-we-built-by-kelly-collins/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "格里芬的幻灯亮出硬数据：十年间人口流失约 22%、中位年龄上升 7 岁、三十岁以下人群流出最快，主街空置率从 12% 涨到 27%、预计明年夏达 30%",
+   "anchor": "lost approximately twenty-two percent of its population, and the median age has gone up seven years",
+   "start": 2146,
+   "end": 2245
+  },
+  {
+   "fact": "他向全场报出六处收购明细：唐纳利五金楼（弗兰克 2009 年卖给波特兰管理公司后回租）、玛格丽特·费里斯卖给他的 Sweet Provisions 楼、老药房、空角铺、封板饲料店、一四一号主街——即诺拉的店与楼上公寓",
+   "anchor": "the Donnelly Hardware building, which Mr. Donnelly sold to a Portland management company in 2009 and now rents",
+   "start": 2739,
+   "end": 2849
+  },
+  {
+   "fact": "弗兰克发难\"要修的不是新闻\"，格里芬却脱口夸他家门楣气窗是 1902 年原物、波浪玻璃、全街最好的一件木作——话一出口自己先惊觉刹住",
+   "anchor": "The transom over your door is original. Nineteen-oh-two, wavy glass",
+   "start": 3424,
+   "end": 3491
+  },
+  {
+   "fact": "诺拉发言先承认他的数字与时间线都对，再从文件夹抽出三份证据：费里斯在珍珠因丈夫医疗账单付不起租时减租四成且三年未涨、全街轮流帮弗兰克女儿抱婴儿的托儿记录、十年间 73 个本地孩子在主街拿到第一份工作",
+   "anchor": "This is a letter from Margaret Ferris, who owned the building that houses Pearl’s bakery until Mr. Cole bought it",
+   "start": 5704,
+   "end": 5817
+  },
+  {
+   "fact": "诺拉点题\"你的表格看见空楼，却看不见让其余楼开着门的人\"；格里芬回敬\"情怀不还房贷\"，两人越吵越近——她大衣上是松木与糖粉的气味",
+   "anchor": "Your spreadsheet sees the empty buildings. It misses the people keeping the rest of them open.",
+   "start": 6574,
+   "end": 6668
+  },
+  {
+   "fact": "休会后欧文宣布条件：圣诞集市须在 12 月 4 日前凑齐九成商户合约与 1.2 万美元保证金才能封街举办——否则两人须共同提交复兴计划并联合主席集市，每周三会直到开幕夜",
+   "anchor": "you submit a joint recovery plan and co-chair the Christmas Festival together",
+   "start": 10367,
+   "end": 10444
+  },
+  {
+   "fact": "欧文亮出双方软肋逼合作：格里芬的二阶段重建协议与北地块须议会点头，诺拉的商户补助一月到期、八年来都靠申报节日续命——\"那笔补助从来只是走程序\"成了她无法走脱的把柄",
+   "anchor": "That grant has always been a technicality.",
+   "start": 11420,
+   "end": 11462
+  },
+  {
+   "fact": "停车场夜谈互不相让，格里芬承认\"你赢了我\"、她答\"我只是在保护我的家\"；他归途路过小学，看见纸链因一处胶带脱落而歪斜——他懂弱点，而诺拉·温特斯不是",
+   "anchor": "I understood weak points. Nora Winters wasn’t one.",
+   "start": 14898,
+   "end": 14948
+  }
+ ]
+}
