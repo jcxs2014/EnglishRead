@@ -79,7 +79,7 @@ modified: "2026-11-06"
 
 **关键词**：breaking the tender moment、pushed away the regret、ice machine
 
-**为什么这样写**：温柔与逃亡只隔一声胃鸣——「breaking the tender moment」的打断者（他的肚子）把命运感交给生理喜剧；「pushed away the regret」五个词写完她两年的心理姿态：不是不悔，是不敢悔。
+**为什么这样写**：温柔与逃亡只隔一声胃鸣——「breaking the tender moment」的打断者（他的肚子）把命运感交给生理喜剧；「pushed away the regret」四个词写完她两年的心理姿态：不是不悔，是不敢悔。
 
 **读者视角提示**：ice machine 的意象顺手补完——他丢的不只是药效，还有通讯与现金；这个夜是两人关系的创伤原点，后文每一次「unprofessional」都在为它还债。
 

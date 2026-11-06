@@ -39,7 +39,7 @@ modified: "2026-11-06"
 
 **关键词**：intimidation and bullying tactics、I want to fucking live、leave me alone
 
-**为什么这样写**：她的控诉三段式（定罪→揭穿动机→声明主权）里，真正的核心只有六个词——I want to fucking live；「kindly appreciate」的礼貌腔裹着脏话，是她的语言在愤怒里绷到最紧的样子。
+**为什么这样写**：她的控诉三段式（定罪→揭穿动机→声明主权）里，真正的核心只有五个词——I want to fucking live；「kindly appreciate」的礼貌腔裹着脏话，是她的语言在愤怒里绷到最紧的样子。
 
 **读者视角提示**：这是她对 Rick 的总控诉状——注意她用的词是「live」不是「stay」：在她心里这从来不是搬不搬家的问题，是生死问题。
 
