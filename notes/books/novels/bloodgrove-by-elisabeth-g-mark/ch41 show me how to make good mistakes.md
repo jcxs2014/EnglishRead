@@ -21,7 +21,7 @@ modified: "2026-11-05"
 
 > **原句 2:** "She looked as though winter were overtaking the blood, or—as Will realized with a pang—as though it were making way for a wedding gown."
 **中文理解**：她看上去像冬天正漫过血色——或者，威尔心头一刺地意识到——像在为婚纱让路。仿佛雪正在洗去血，让她以纯白无瑕之身重新出现。
-**关键词**：overtaking the blood / wedding gown / washing away
+**关键词**：overtaking the blood / wedding gown / washing away the blood
 **为什么这样写**：白色的三重奏（雪、婚纱、洗血）在一句里完成色彩政变：她的红裙被冬天收编。「pang」的刺痛泄露威尔的私有恐惧：白色对她不是净化是出嫁。
 **读者视角提示**：接 ch15 「别穿得像弱者」的血红宣言与本章：她的衣色从来是政治公报。雪的「洗白」是外界（婚姻）对她的改写企图——而本章结尾她用行动证明：她的白之下永远是红。
 

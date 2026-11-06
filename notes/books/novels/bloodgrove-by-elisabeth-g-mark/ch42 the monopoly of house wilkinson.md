@@ -45,7 +45,7 @@ modified: "2026-11-05"
 
 > **原句 6:** "He did not wait for permission before raising it to his own mouth, placing his lips where the print of her lipstick stained the porcelain red."
 **中文理解**：他不待允许，把她的茶杯举到自己唇边——唇落在口红印染红的瓷上。
-**关键词**：did not wait for permission / lipstick print
+**关键词**：did not wait for permission / print of her lipstick
 **为什么这样写**：全章唯一不谈阴谋的动作：借杯 = 借吻的替代形式——「不待允许」与他对红手的「不待允许」形成镜像。唇印的位置学（印在瓷上）让亲密有了物证。
 **读者视角提示**：接 ch35 同榻、ch41 马车与本章：两人的亲密道具从毯子、雪、到茶杯越来越小、越来越日常——「偷」的密度在上升。这个动作也是他对 ch42 听审的压惊：阴谋越重，越需要一枚唇印提醒自己为何而战。
 
