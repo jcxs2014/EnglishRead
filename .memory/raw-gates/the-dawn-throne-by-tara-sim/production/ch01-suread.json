@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch01_i.txt",
+ "facts": [
+  {
+   "fact": "医师建议植入一枚弧形玻璃义眼（无生气的蓝虹膜），称有助愈疗与心理恢复；Nikolas 最终拿起的是眼罩而不是义眼",
+   "anchor": "It helps not only in terms of healing, but mental recovery",
+   "start": 693,
+   "end": 751
+  },
+  {
+   "fact": "仆人 Isobel 通报：代理高级专员兼第一指挥官又来函件，关于士兵重新分配，放在「Lord—」口误改口的办公室里；Cyr 家仆役短缺",
+   "anchor": "redistribution of soldiers",
+   "start": 3740,
+   "end": 3766
+  },
+  {
+   "fact": "Nikolas 曾把 Sunbringer Spear 刺进父亲 Waren Cyr 的颈部、割断动脉与肌肉杀死他；Godsnight 屋顶弑父为救城市，事后在 Rian 床边忏悔，Rian 说「Don't say any more」",
+   "anchor": "cutting artery and muscle into useless meat",
+   "start": 11678,
+   "end": 11721
+  },
+  {
+   "fact": "Rian 被 Phos 操纵期间曾用这杆矛造成灼光柱与惨叫的惨剧；Rian 自白「我仍握着它，他仍借我说话、驱使我」",
+   "anchor": "You know what I did with that spear in my hand",
+   "start": 15611,
+   "end": 15657
+  },
+  {
+   "fact": "Rian 两天未眠、安眠药不再起效，主动提出想恢复操练 drills；Nikolas 提议两人一起练",
+   "anchor": "I haven’t slept in two days.",
+   "start": 10181,
+   "end": 10209
+  },
+  {
+   "fact": "Nikolas 欲把传家矛与「父训你为继承人」的家主之位交还 Rian，被 Rian 猛烈拒绝并掷矛砸碎红陶花瓶，随后夺门而去",
+   "anchor": "I don’t want the fucking spear!",
+   "start": 16858,
+   "end": 16889
+  },
+  {
+   "fact": "Dante 理论：夏至 Solara 魔法最强、通往 Solara 的屏障最薄，Phos 必借此倾巢发难；他们须在此之前经春分与 Phos 圣殿阶井开出传送门；明日即开会",
+   "anchor": "It’s when Solarian magic is at its strongest",
+   "start": 13567,
+   "end": 13611
+  },
+  {
+   "fact": "章尾恐怖节点：Nikolas 呕出压在喉头的异物——一根白如雪花、隐隐泛金的羽毛，疑似 Phos 侵入其肉身的征兆",
+   "anchor": "A feather, white as alabaster, with the faintest hint of gold.",
+   "start": 18522,
+   "end": 18584
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+# The Dawn Throne (Tara Sim) · 任务表
+- 体裁：novels（奇幻长篇，Dark Gods 系列第四部前作？副线=四贵族院政斗+神祇战争）；双 POV（Nikolas Cyr / Dante Lastrider 交替）
+- 语料：text/ 51 件零偏移（ch00 = Perigee 序章；ch01–ch20 = Part I: Feather and Flower 的 I–XX；ch21–ch30 = Part II: Void and Flame 的 I–X；ch31–ch39 = Part III: Between the Wasteland and Sky 的 I–IX；ch40–ch49 = Part IV: First Light 的 I–X；ch50 = Apogee 尾声 93 词）；xx_the_four_noble_houses_of_nexus.txt = 装置页不写
+- 部内章号重号 ⇒ H1 形态：`# NN. <罗马数字>（Part <N>: <部名>）`（sleepers `# NN. Chapter N（月名）`先例）；ch00/ch50 用书内自名 Perigee/Apogee
+- 验收：verify_corpus PASS（expect 51 · anchors ch00=Phos/ch01=Nikolas,Phos/ch21/ch31=Nikolas,Phos · shared=Nikolas,Phos,Sol · FAIL 0 WARN 0）
+- 批次节奏：长篇 1 章/次，每章 chapter.sh rc=0 立刻 pathspec commit；每批前 gate.sh
+- 状态：待写 ch00–ch50 + 总览三篇；ch01 试产待用户验收
+
+| 章 | 书内标题 | 词数 | 状态 | commit |
+|---|---|---|---|---|
+| ch00 | Perigee | 3047 | 待写 | |
+| ch01 | I | 3264 | 试产中 | |
+| ch02 | II | 3264 | 待写 | |
+| ch03 | III | 4578 | 待写 | |
+| ch04 | IV | 4941 | 待写 | |
+| ch05 | V | 5300 | 待写 | |
+| ch06 | VI | 3511 | 待写 | |
+| ch07 | VII | 3611 | 待写 | |
+| ch08 | VIII | 2484 | 待写 | |
+| ch09 | IX | 1815 | 待写 | |
+| ch10 | X | 2087 | 待写 | |
+| ch11 | XI | 2565 | 待写 | |
+| ch12 | XII | 2069 | 待写 | |
+| ch13 | XIII | 1787 | 待写 | |
+| ch14 | XIV | 2170 | 待写 | |
+| ch15 | XV | 1799 | 待写 | |
+| ch16 | XVI | 1726 | 待写 | |
+| ch17 | XVII | 1546 | 待写 | |
+| ch18 | XVIII | 2199 | 待写 | |
+| ch19 | XIX | 1633 | 待写 | |
+| ch20 | XX | 1254 | 待写 | |
+| ch21 | I（Part II） | 2465 | 待写 | |
+| ch22 | II（Part II） | 3685 | 待写 | |
+| ch23 | III（Part II） | 3659 | 待写 | |
+| ch24 | IV（Part II） | 2559 | 待写 | |
+| ch25 | V（Part II） | 3153 | 待写 | |
+| ch26 | VI（Part II） | 4910 | 待写 | |
+| ch27 | VII（Part II） | 2129 | 待写 | |
+| ch28 | VIII（Part II） | 2239 | 待写 | |
+| ch29 | IX（Part II） | 3578 | 待写 | |
+| ch30 | X（Part II） | 1921 | 待写 | |
+| ch31 | I（Part III） | 4376 | 待写 | |
+| ch32 | II（Part III） | 5411 | 待写 | |
+| ch33 | III（Part III） | 3995 | 待写 | |
+| ch34 | IV（Part III） | 1898 | 待写 | |
+| ch35 | V（Part III） | 2226 | 待写 | |
+| ch36 | VI（Part III） | 5016 | 待写 | |
+| ch37 | VII（Part III） | 3844 | 待写 | |
+| ch38 | VIII（Part III） | 4702 | 待写 | |
+| ch39 | IX（Part III） | 3968 | 待写 | |
+| ch40 | I（Part IV） | 2287 | 待写 | |
+| ch41 | II（Part IV） | 3108 | 待写 | |
+| ch42 | III（Part IV） | 2733 | 待写 | |
+| ch43 | IV（Part IV） | 2831 | 待写 | |
+| ch44 | V（Part IV） | 1930 | 待写 | |
+| ch45 | VI（Part IV） | 2372 | 待写 | |
+| ch46 | VII（Part IV） | 1470 | 待写 | |
+| ch47 | VIII（Part IV） | 2054 | 待写 | |
+| ch48 | IX（Part IV） | 3470 | 待写 | |
+| ch49 | X（Part IV） | 3186 | 待写 | |
+| ch50 | Apogee | 93 | 待写 | |
+| — | 总览三篇 00_概述/00_金句精选/00_情感节点 | | 最后写 | |
+| — | T1 自检（t1-verdict/t1-candidates/台账） | | 完工前 | |
