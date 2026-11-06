@@ -1,0 +1,55 @@
+{
+ "book": "chosen-by-monsters-by-texa-volt",
+ "chapter": "ch01",
+ "text": "notes/books/novels/chosen-by-monsters-by-texa-volt/text/ch01_1_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "吧台常客 Doug 拽住 Tara 手腕强索吻，hip 撞上吧台边缘——她口头拒绝两次后假意答应",
+   "anchor": "grabs my wrist and yanks, hard enough that my hip hits the edge of the bar",
+   "start": 35,
+   "end": 109
+  },
+  {
+   "fact": "Tara 抓住 Doug 后脑把他的脸砸上吧台——鼻血涌出，他吼 you broke my fucking nose；她叫 Ernesto 叫车送走他",
+   "anchor": "slam his face into the bar",
+   "start": 435,
+   "end": 461
+  },
+  {
+   "fact": "经理 Rick 甩出已填好的停职通知，理由栏写着 Physical altercation with customer——停职到周日，回来后周五夜归 Kayla（她最好的夜、半数房租）；Doug 放话找律师",
+   "anchor": "Physical altercation with customer",
+   "start": 3297,
+   "end": 3331
+  },
+  {
+   "fact": "家门上贴着三天期限的付租或搬离通知：$2,340——5 月尾款加 6 月整月，三天后房东可递文件",
+   "anchor": "THREE-DAY NOTICE TO PAY RENT OR QUIT",
+   "start": 5010,
+   "end": 5046
+  },
+  {
+   "fact": "狗 Billy Bob 三周前翻邻居垃圾吞下大半根玉米梗卡在肠子里——急诊手术账单六千出头，积蓄只垫了头两千，余款进信用卡，首期下周到期",
+   "anchor": "ate most of a corncob, and the corncob got stuck in his intestine",
+   "start": 5987,
+   "end": 6052
+  },
+  {
+   "fact": "深夜终于打开银行 App：活期余额 $43.18——停职加失去周五，下张薪水约三百；她坐上厨房地板背靠橱柜消化恐慌",
+   "anchor": "Checking: $43.18",
+   "start": 6994,
+   "end": 7010
+  },
+  {
+   "fact": "黑色方形信封、波特兰邮戳：The Monster Club 夏至庆典邀请函，背面蓝色圆珠笔小字 Come north, kiddo——笔迹属于每年寄生日卡附二十美元的叔叔 Dez（Mom 的哥哥）",
+   "anchor": "Come north, kiddo.",
+   "start": 8789,
+   "end": 8807
+  },
+  {
+   "fact": "次日 9:12 波特兰 503 来电：律师 Harold Pike 代表 Desmond Hale 遗产通知 Tara——叔叔两周前去世，遗嘱留给她在怪物俱乐部的所有权份额，条件是夏至夜前亲自到场",
+   "anchor": "he left you his ownership share in the Monster Club",
+   "start": 11044,
+   "end": 11095
+  }
+ ]
+}
