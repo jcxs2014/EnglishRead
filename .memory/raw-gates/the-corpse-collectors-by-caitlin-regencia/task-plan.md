@@ -6,7 +6,8 @@
 | 批 | 章 | 标题 | 状态 | commit |
 |---|---|---|---|---|
 | 1 | ch01 | News | ✅ 13 块 rc=0 | 67fd2b0f3 |
-| 2 | ch02 | Wishes in the Fire | ✅ 9 块 rc=0 | 807a984c1 |
+| 2 | ch02 | Wishes in the Fire | ✅ 9 块 rc=0（+1eb1d560 修 vocab） | 807a984c1 / 1eb1d560a |
+| 3 | ch03 | Change of Plans | ✅ 9 块 rc=0 | b51f5212e |
 | 3 | ch03 | Change of Plans | | |
 | 4 | ch04 | Hearts are Complicated Things | | |
 | 5 | ch05 | Rumors and Accusations | | |
