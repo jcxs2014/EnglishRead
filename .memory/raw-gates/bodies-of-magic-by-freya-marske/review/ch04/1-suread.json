@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch04",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch04_four.txt",
+ "facts": [
+  {
+   "fact": "Jehan 起初并不打算与 Ysabel 固定共进午餐；他本是想和她上床，事情却偶然变成了午餐",
+   "anchor": "It had happened by accident when he was trying to have sex with her.",
+   "start": 625,
+   "end": 693
+  },
+  {
+   "fact": "Clement 确认那张便条是 Ysabel 的笔迹，指出她写字太快会把词的中段连在一起，并据此断言有人杀了她",
+   "anchor": "She always writes so fast she runs the middle of words together",
+   "start": 9415,
+   "end": 9478
+  },
+  {
+   "fact": "Alys 怀疑 Rogier Saige 可能为窃取 Ysabel 关于 echo headaches 的研究成果而杀她",
+   "anchor": "Ysabel’s research project was on echo headaches. That’s one of Saige’s specialties.",
+   "start": 11974,
+   "end": 12057
+  },
+  {
+   "fact": "Moyna 反驳 Estiene 的燃尽说，称全届中最不可能燃尽的人就是 Ysabel",
+   "anchor": "Of everyone in our cohort, she’s the last person I’d expect.",
+   "start": 10110,
+   "end": 10170
+  },
+  {
+   "fact": "Jehan 的母亲、资深 medic Colette Fortier 与 Head Healer Marcelle 争吵，指责学院自 serrage 以来不断降低录取学者所需的魔力门槛",
+   "anchor": "since the serrage the Academie has been lowering the threshold of magic needed",
+   "start": 22293,
+   "end": 22371
+  },
+  {
+   "fact": "Estiene 告诉 Jehan，Danisy 当天下午要主持一场极复杂的宫内疗愈，而他父亲说如果他有上午考试时段，阵列里也许有他的位置",
+   "anchor": "Danisy is directing a healing this afternoon. In utero. Very complex.",
+   "start": 18813,
+   "end": 18882
+  },
+  {
+   "fact": "在储藏室里两人接吻后，Estiene 说 No 并后退道歉；Jehan 提醒他，一个月前正是他结束了两人关系，那次分手感觉是最终的了断",
+   "anchor": "But that last break, only a month ago, had felt excruciatingly, humiliatingly final.",
+   "start": 29358,
+   "end": 29442
+  },
+  {
+   "fact": "九年前剧院重开后的首场公开疗愈中，抗议者向疗愈师投掷燃烧瓶，两名疗愈师濒死但被同伴救活，病人死亡",
+   "anchor": "hurled rag-wicked bottles of burning spirits down amongst the healers",
+   "start": 32439,
+   "end": 32508
+  }
+ ]
+}

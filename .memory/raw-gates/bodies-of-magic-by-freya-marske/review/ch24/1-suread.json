@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch24",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch24_twenty_four.txt",
+ "facts": [
+  {
+   "fact": "Gazette 记者 Madalena 坐在 Marcelle 家前门外矮墙上等着，开口就对 Jourdain 说听说你被控谋杀",
+   "anchor": "I hear you’ve been accused of murder.",
+   "start": 1418,
+   "end": 1455
+  },
+  {
+   "fact": "Madalena 起身时暴露 serrage：不是重症，但明确无误；她自称多年写医护政治与 Hospital",
+   "anchor": "Serrage: not a severe case, but unmistakable.",
+   "start": 2437,
+   "end": 2482
+  },
+  {
+   "fact": "Jourdain 威胁写信给她的编辑和 Lord Baizelat，要求把她从 Gazette 撤掉",
+   "anchor": "writing to your editor and Lord Baizelat to ask that you be removed",
+   "start": 3115,
+   "end": 3182
+  },
+  {
+   "fact": "Estiene 问父亲是否想多知道今天到底发生了什么，Jourdain 答不太想",
+   "anchor": "“Not particularly,” said Jourdain.",
+   "start": 6408,
+   "end": 6442
+  },
+  {
+   "fact": "Estiene 在心里承认对父亲的信任到此为止，并自问父亲是否真可能一开始就让人杀 Ysabel",
+   "anchor": "Would I put it entirely past you to have Ysabel killed in the first place?",
+   "start": 6637,
+   "end": 6711
+  },
+  {
+   "fact": "Estiene 当面质问父亲：为让他拿高分，父亲与 Chancellor 做了交易",
+   "anchor": "you had to make a deal with the Chancellor to cheat my way into a high grade",
+   "start": 7280,
+   "end": 7356
+  },
+  {
+   "fact": "父亲送他出门时下令：不许对任何记者或他人谈，低头把试考过，日后再处理 Thoury 与 gendarmerie",
+   "anchor": "Keep your head down and pass your exam and we’ll deal with Augustin Thoury",
+   "start": 9288,
+   "end": 9362
+  },
+  {
+   "fact": "Estiene 推断便条为何寄给他而非 Clement/Moyna：别人被栽赃他还能与 Alys 一起动用家族资源，而他父亲已被削掉威慑力",
+   "anchor": "Estiene’s father had been effectively defanged.",
+   "start": 10944,
+   "end": 10991
+  }
+ ]
+}

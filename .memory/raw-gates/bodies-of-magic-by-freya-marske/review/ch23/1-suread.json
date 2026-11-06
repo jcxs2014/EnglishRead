@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch23",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch23_twenty_three.txt",
+ "facts": [
+  {
+   "fact": "Clement 到诊断病房找 Thumery，病房里都在传 gendarme 把 Head Healer Marcelle 带走问话，之后他没再回来上班",
+   "anchor": "gendarmes had come and fetched Head Healer Marcelle away to be questioned",
+   "start": 2188,
+   "end": 2261
+  },
+  {
+   "fact": "Finvid Jonsson 说 Thumery 上午请了假却没离开医院（电车延误），在员工室地板打盹；自午间查房后没人再见到他",
+   "anchor": "He did take the morning off, but he didn’t leave the Hospital.",
+   "start": 2908,
+   "end": 2970
+  },
+  {
+   "fact": "Clement 直问 Thumery 是否与 Ysabel 上床、他妻子是否知情；他承认妻子不知道，并说 Ysabel 曾威胁要全告诉她",
+   "anchor": "“I know you were sleeping with Ysabel,” they said. “Did your wife know too?”",
+   "start": 7212,
+   "end": 7288
+  },
+  {
+   "fact": "Thumery 称考试前夜（Firstnight 前夜）他与妻子 Helene 都在家，当晚没有排练",
+   "anchor": "“The night before Firstnight? No, we were at home.”",
+   "start": 7931,
+   "end": 7982
+  },
+  {
+   "fact": "急诊伤者是 Palian 老公爵家之子、火法师，两周前在 Accademia Amolfe 与同学决斗时右大腿被火球击中，Harcot 只能把伤维持在静止状态",
+   "anchor": "He was hit in the right thigh by some sort of fireball spell.",
+   "start": 12106,
+   "end": 12167
+  },
+  {
+   "fact": "Labaste 判定至少六人、最好十二人；Yariz 从病房下来担任主治疗放射首位，Clement 被排进监测与生命支持放射",
+   "anchor": "It’s at least a six-body problem, and I’d feel better with twelve",
+   "start": 10758,
+   "end": 10823
+  },
+  {
+   "fact": "Brodier 告知 Clement：明晨资深教员开紧急会议，他们组最后两场考试改到下午最后时段",
+   "anchor": "Your exam group has had their time slot switched to the last one of the afternoon",
+   "start": 17091,
+   "end": 17172
+  },
+  {
+   "fact": "Clement 探问 Ysabel 的研究笔记本下落，Brodier 说她原以为笔记本在 Clement 手里，因为 Ysabel 完全信任他",
+   "anchor": "I’d rather assumed you might have it, Savoye. She trusted you completely.",
+   "start": 18983,
+   "end": 19056
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch32",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch32_thirty_two.txt",
+ "facts": [
+  {
+   "fact": "Estiene 警告众人：即使练过也可能全盘搞砸，而且有观众；若 Brodier 知道他们已识破，她可以正当判他们不及格，并在被重组掉前尽量毒害他们的职业生涯，还能向宪兵与治疗师人力委员会主张把整组 labour-bonded，罪名是试图掩盖两桩谋杀",
+   "anchor": "for the crime of attempting to cover up two murders",
+   "start": 1975,
+   "end": 2026
+  },
+  {
+   "fact": "Jehan 坦白：他被一个叫 Guion Blavot 的人卷进自己的勒索与非法治疗叙事，急需离城，而只有通过考试毕业才能走",
+   "anchor": "Jehan being caught up in his own private narrative of blackmail",
+   "start": 3543,
+   "end": 3606
+  },
+  {
+   "fact": "Jehan 决定按 Ysabel 会希望的方式做：给她应得的盛况与功劳，承担自己愚蠢决定的后果，我们必须试",
+   "anchor": "We do it the way Ysabel would have wanted.",
+   "start": 4188,
+   "end": 4230
+  },
+  {
+   "fact": "Alys 拿出从家族酒窖顺来的 Grande Lisse（原想留到午夜），Estiene 看见标签呛住，说这是白兰地、没想到这种瓶子会在王室之外出售；Alys 答他们不卖",
+   "anchor": "It’s brandy. I didn’t think they even sold these bottles outside the royal family.",
+   "start": 5819,
+   "end": 5901
+  },
+  {
+   "fact": "老城厅钟声一响、城中灯火开始熄灭；距午夜一小时——Mathé 节日前一小时，黑暗时辰里治疗师与非治疗师一同纪念死亡的必然与绝望",
+   "anchor": "One hour to midnight. One hour before Mathé’s own feast day.",
+   "start": 13373,
+   "end": 13433
+  },
+  {
+   "fact": "四人谈若有权改变：Estiene 要非魔法手段的经费与优先，Clement 要让人先不生病（住房、食物、教育），Moyna 要没人必须当治疗师，Jehan 要人人只用免费诊所",
+   "anchor": "I’d make it that nobody has to be a healer at all.",
+   "start": 16598,
+   "end": 16648
+  },
+  {
+   "fact": "午夜前一刻钟小铜钟一响，Alys 默念要勇敢，在黑暗中伸手握住 Clement 的手；Clement 的手翻转过来扣住她，拇指抚过她的脉搏",
+   "anchor": "She reached out in the dark and took Clement’s hand.",
+   "start": 18122,
+   "end": 18174
+  },
+  {
+   "fact": "最后一支歌唱完，Jehan 与 Estiene 已不见踪影；Moyna 反问你真想知道吗，Clement 与 Alys 同时大笑",
+   "anchor": "Jehan and Estiene were nowhere to be seen.",
+   "start": 21430,
+   "end": 21472
+  }
+ ]
+}

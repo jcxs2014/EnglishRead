@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch12",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch12_twelve.txt",
+ "facts": [
+  {
+   "fact": "Alys 带 Estiene 到破庙脚下的小市场，向老摊主 Leon 买 Lefer 爱吃的栗子酱；她握着 Leon 的手治了将近十分钟关节炎，指节明显变小",
+   "anchor": "Alys closed her eyes and stood there healing him for nearly ten minutes",
+   "start": 2762,
+   "end": 2833
+  },
+  {
+   "fact": "Estiene 向 Lefer 坦白：上周父亲为 Duchy Council 成员设宴并叫他作陪，他在楼下无意听到父亲与 Chancellor Colet Morant 商定，保证他大考不失败、毕业排名靠前",
+   "anchor": "agreeing that Estiene would not fail the Grand Exam",
+   "start": 12224,
+   "end": 12275
+  },
+  {
+   "fact": "Lefer 说她不知道那次具体安排、也没有记录可答；又说今年除「公然且明显的灾难」外，大概不会让任何人失败",
+   "anchor": "I doubt anyone will be allowed to fail this year",
+   "start": 14035,
+   "end": 14083
+  },
+  {
+   "fact": "Lefer 透露：midsummer 治理委员会将把 Saige 或 Brodier 之一「重组」出职位；两人自 midyear 起就知道只有一个能留下",
+   "anchor": "One of them will be restructured out of a position",
+   "start": 17606,
+   "end": 17656
+  },
+  {
+   "fact": "Lefer 说 36 个考试组及其时段都是随机抽签，由 Dean Brodier 与一名宣誓保密的 under-secretary 抽，名单钉在板上，通常在考前几天才做",
+   "anchor": "the thirty-six exam groups were randomly chosen, yes, as were their time slots",
+   "start": 20323,
+   "end": 20401
+  },
+  {
+   "fact": "Estiene 追问：父亲的那项请求，是否就是 Brodier 出任本组考官的原因",
+   "anchor": "why Dean Brodier is one of our group’s examiners",
+   "start": 19257,
+   "end": 19305
+  },
+  {
+   "fact": "Alys 自述：Saige 叫她单独会面，提出用「私人辅导」帮她弥补缺陷；她拒绝后，第二天就传出她主动勾引 Saige、反被拒绝的谣言",
+   "anchor": "The rumours that I’d propositioned him, and that he’d refused me, started the next day.",
+   "start": 7251,
+   "end": 7338
+  },
+  {
+   "fact": "Alys 对 Estiene 说：他父亲确实相信他，但不如相信自己那么多；Estiene 认为这话说得通",
+   "anchor": "But not as much as he believes in himself.",
+   "start": 23209,
+   "end": 23251
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch02",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch02_two.txt",
+ "facts": [
+  {
+   "fact": "Estiene 伸手触碰 Ysabel 的脸颊，感到肌肤 firm、waxy、不冷不热，随即宣布她已死",
+   "anchor": "The flesh was firm and waxy. It was not cold, but neither was it warm",
+   "start": 2331,
+   "end": 2400
+  },
+  {
+   "fact": "一名拿蜡封信纸的中年男子 Girard 从钟下门进入，他才是本场考试病例，Ysabel 不是",
+   "anchor": "And this man was their exam case, which meant that Ysabel Caudotte was not.",
+   "start": 7732,
+   "end": 7807
+  },
+  {
+   "fact": "Estiene 坚持在整点结束前谁也不能处理 Caudotte，他们必须继续 Grand Exam",
+   "anchor": "Nobody can do anything about Caudotte until the hour’s up",
+   "start": 8023,
+   "end": 8080
+  },
+  {
+   "fact": "Jehan 问出 Girard 在第十一区经营一家肉铺",
+   "anchor": "You said you own a butcher’s shop in the Eleventh Quarter.",
+   "start": 16058,
+   "end": 16116
+  },
+  {
+   "fact": "Jehan 诊断 Girard 患的是 hare fever，并说此病在猎人和农人中更常见、夏季更多",
+   "anchor": "It’s more common in hunters and farmers, and more common in summer.",
+   "start": 16823,
+   "end": 16890
+  },
+  {
+   "fact": "Jehan 说明 hare fever 有四分之一的概率留下长达一年的 echo-illness",
+   "anchor": "A one-in-four chance of an echo-illness lasting for as long as a year",
+   "start": 17437,
+   "end": 17506
+  },
+  {
+   "fact": "Ysabel 死后，许多人预期 Estiene 将以 Dux Scolaris 身份毕业",
+   "anchor": "a lot of people would now expect to see Estiene graduate as Dux Scolaris",
+   "start": 12099,
+   "end": 12171
+  },
+  {
+   "fact": "二年级年终考试中，Ysabel 排第一，Estiene 与 Moyna 分列第二和第三",
+   "anchor": "come second and third to Ysabel’s first in the end-of-year exams",
+   "start": 15297,
+   "end": 15361
+  }
+ ]
+}

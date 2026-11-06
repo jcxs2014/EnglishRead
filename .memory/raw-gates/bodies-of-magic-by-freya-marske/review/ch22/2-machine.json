@@ -1,0 +1,322 @@
+{
+  "chapter": 22,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bodies-of-magic-by-freya-marske/ch22 a dull stifling wall of hatred.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bodies-of-magic-by-freya-marske/text/ch22_twenty_two.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "He could commence resenting the Head Healer’s son for being a privileged little snot after he’d discovered what that lov",
+          "ok": true,
+          "pos": 1069
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "It was like Head Healer Marcelle had employed a wind-mage to send speech out through his son’s mouth, and all the worse ",
+          "ok": true,
+          "pos": 1797
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Jehan could",
+          "ok": true,
+          "pos": 3776
+        }
+      ],
+      "words": 2
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "The air between Marcelle and Thoury was not even excitingly crackling; it was a dull, stifling wall of politeness, polit",
+          "ok": true,
+          "pos": 12367
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“My son is a highly superior mage and scholar with a bright future ahead of him. I hardly need stoop to murder to ensure",
+          "ok": true,
+          "pos": 14396
+        }
+      ],
+      "words": 27
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Estiene Marcelle, the man who existed now, was a far and distant cry from the nepotistic brat that he’d been at eighteen",
+          "ok": true,
+          "pos": 15833
+        }
+      ],
+      "words": 41
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He didn’t know if he’d kill to protect Estiene, but Jehan often didn’t know things about himself until they happened. Pe",
+          "ok": true,
+          "pos": 15624
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Jehan’s heart sank. If the gendarmerie were being forced to pay attention, they were going to be only too delighted to f",
+          "ok": true,
+          "pos": 16745
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "And Estiene would be the one whose labour would be sold for the rest of his life",
+          "ok": true,
+          "pos": 26822
+        }
+      ],
+      "words": 17
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.95,
+        "关键词": 0.0,
+        "为什么这样写": 0.68,
+        "读者视角提示": 0.66
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 55
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 74,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.67
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 86,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.58
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 42,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 18,
+        "关键词": 0,
+        "为什么这样写": 79,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.88
+      }
+    }
+  ],
+  "form": {
+    "h1": "22. Twenty-Two",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 8.0,
+    "block_range": [
+      4,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4773,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 8、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

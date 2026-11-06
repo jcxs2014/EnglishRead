@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch11",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch11_eleven.txt",
+ "facts": [
+  {
+   "fact": "三年级生 Balenne 说，Ysabel 曾在冬季学期好心给她们上过一堂 group arrays 辅导课",
+   "anchor": "she was kind enough to give us a tutorial, in winter term",
+   "start": 2234,
+   "end": 2291
+  },
+  {
+   "fact": "Jehan 与 Fenehaf 的 Mostau 主医院绑定，只欠三年服务期，而非通常的五年",
+   "anchor": "And at least he only owed three years instead of the usual five.",
+   "start": 6276,
+   "end": 6340
+  },
+  {
+   "fact": "上一任 Mostau 奖学金获得者在二年级末突然 burnout 死去，位置因此空出，Jehan 才抓住这个机会",
+   "anchor": "died, burning out unexpectedly and dramatically near the end of second year",
+   "start": 6419,
+   "end": 6494
+  },
+  {
+   "fact": "Moyna 说信件是上周留在邮局并付款要求延迟投递的，据此判断 Ysabel 知道自己届时不会在场",
+   "anchor": "She left them at a posthouse last week with payment for delayed delivery.",
+   "start": 8465,
+   "end": 8538
+  },
+  {
+   "fact": "Clement 反驳「从火焰那边寄来的信」之说：这些不是遗书，而是 Ysabel 的计谋，因为 geas 让她无法在考试当天与他们讨论病例",
+   "anchor": "They aren’t suicide notes. They’re a scheme.",
+   "start": 9065,
+   "end": 9109
+  },
+  {
+   "fact": "Estiene 暗示 Clement 可能因与 Ysabel 过从甚密或嫉妒她受关注而杀人；Jehan 回呛没人真的在指控他，Estiene 随后向 Clement 道歉",
+   "anchor": "Nobody was actually accusing you, you self-centred shit",
+   "start": 9845,
+   "end": 9900
+  },
+  {
+   "fact": "Estiene 说大考的病例主题是提前商定的，以便从医院和诊所找病人；Dean Brodier、院考委，可能还有 Secretary Lefer 都会知道",
+   "anchor": "The case topics for the Grand Exam are agreed in advance",
+   "start": 10804,
+   "end": 10860
+  },
+  {
+   "fact": "Estiene 自告奋勇去问 Secretary Lefer，说正好用一用父亲的地位；Alys 坚持同去",
+   "anchor": "We might as well use my father’s status for something.",
+   "start": 16153,
+   "end": 16207
+  }
+ ]
+}

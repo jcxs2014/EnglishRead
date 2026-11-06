@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch03",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch03_three.txt",
+ "facts": [
+  {
+   "fact": "Dean of Assessment Mathilde Brodier 本人就是分派给他们考场的两名 examiner 之一",
+   "anchor": "The Dean of Assessment herself must have been one of their two assigned examiners.",
+   "start": 1266,
+   "end": 1348
+  },
+  {
+   "fact": "Brodier 说 proctor geas 四天后失效，届时所有人才能自由陈述",
+   "anchor": "the geas will wear off in four days’ time, and we will all be able to speak freely then",
+   "start": 9271,
+   "end": 9358
+  },
+  {
+   "fact": "警员 Quentin 提出 Ysabel 是自杀：可能独自练习治疗术导致 burnout，或从廊台跳下",
+   "anchor": "She was either practising on her own and burned out",
+   "start": 14721,
+   "end": 14772
+  },
+  {
+   "fact": "Brodier 是 Ysabel 的研究导师，其项目是治疗 echo headaches 的新方法，理论上很有前景",
+   "anchor": "It was a new approach for echo headaches. Very promising in the theory.",
+   "start": 12773,
+   "end": 12844
+  },
+  {
+   "fact": "按 Academie 规矩，学者与治疗师的遗体归 Academie 所有并用于解剖课；Brodier 说会把她冷冻在 bodykeeping room 到新学年",
+   "anchor": "became the property of the Academie and were used for anatomy classes",
+   "start": 18150,
+   "end": 18219
+  },
+  {
+   "fact": "Clement 坚持 Ysabel 不会自杀，质问是否就这样结案，但警员已不再听",
+   "anchor": "“Wait. Is that it? No more investigation? Ysabel didn’t kill herself.”",
+   "start": 18422,
+   "end": 18492
+  },
+  {
+   "fact": "Alys 说 Dux Scolaris 现在大概轮到 Estiene，众人由此意识到 Estiene 可能为排名上升一位而杀 Ysabel",
+   "anchor": "Oh. They meant Estiene might have killed Ysabel to climb one spot higher in the rankings.",
+   "start": 16428,
+   "end": 16517
+  },
+  {
+   "fact": "信使把信交给 Jehan，Jehan 展示信末那个自信圈绕的署名——Ysabel Caudotte，信中给出 hare fever 的理想治疗方案并邀他当天午餐",
+   "anchor": "Jehan lifted the letter to show them all the confidently looping name at the bottom.",
+   "start": 20320,
+   "end": 20404
+  }
+ ]
+}

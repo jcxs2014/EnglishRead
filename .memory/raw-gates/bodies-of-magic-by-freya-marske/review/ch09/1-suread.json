@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch09",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch09_nine.txt",
+ "facts": [
+  {
+   "fact": "学院手册称 Grand Exam 自首届学员起就是五人一组、全体共同通过或失败，依据是 Mathé 有五个学徒并强调 healers 之间的信任",
+   "anchor": "a group of five scholars, who pass or fail in fellowship with one another",
+   "start": 365,
+   "end": 438
+  },
+  {
+   "fact": "Konrad Omeyer 因近乎 burnout 休学一年后返校，本周面临可能不及格、再读一年五年级的压力",
+   "anchor": "on his return to the Academie from his year off after nearly burning out",
+   "start": 1903,
+   "end": 1975
+  },
+  {
+   "fact": "Jehan 怀疑 Konrad 为了拿到复杂的 intervention-track 职位，可能把潜在竞争者清除掉——这是 Alys 讲的故事在他心里发作了",
+   "anchor": "Might he want it enough to clear his potential competition out of the way?",
+   "start": 2454,
+   "end": 2528
+  },
+  {
+   "fact": "Jehan 赤手空拳猛击沙袋，打断了自己第五掌骨、又踢伤了膝盖，然后靠自己的魔法把伤治好",
+   "anchor": "The next punch snapped his fifth metacarpal",
+   "start": 5747,
+   "end": 5790
+  },
+  {
+   "fact": "Ysabel Caudotte 的名字出现在一张写给 Jehan 本人的便条上，这张便条引出的问题远多于它能回答的",
+   "anchor": "a note which raised far more questions than it answered, addressed to Jehan himself",
+   "start": 4653,
+   "end": 4736
+  },
+  {
+   "fact": "Jehan 十六岁那年意外 mage-tested，从而被送进 Academie",
+   "anchor": "When he’d mage-tested unexpectedly at sixteen",
+   "start": 7724,
+   "end": 7769
+  },
+  {
+   "fact": "Jehan 眼下尽量不让 Guion Blavot 注意到自己，但明晚要去他那里，这也是他逃往 Fenehaf 之前的安排",
+   "anchor": "trying not to remind Guion Blavot of his existence any more than he had to",
+   "start": 5053,
+   "end": 5127
+  },
+  {
+   "fact": "章节收束时 Ysabel 已在火焰中，而 Jehan 还活着",
+   "anchor": "And Ysabel was in the flame, and Jehan was alive.",
+   "start": 9749,
+   "end": 9798
+  }
+ ]
+}

@@ -7,17 +7,17 @@ modified: "2026-11-05"
 
 ## 本章导航
 - **一句话概括**：教学剧场终考：第一次按「辐条」演砸，第二次按伊莎贝尔的黄页（无层级、无角色、人人同唱）治愈了锯热——随后布罗迪尔抢署名、克莱门特当庭揭发、阿达拉一声「你杀了我女儿」逼出全部自白，宪兵上前，院长闭眼焚身。
-- **情感弧线位置**：全书的总爆发点：治愈（公开的奇迹）与定罪（公开的审判）同台——克莱门特那句「为什么你必须杀她」没有 triumph 只有 child 的碎声。
+- **情感弧线位置**：全书的总爆发点：治愈（公开的奇迹）与定罪（公开的审判）同台——克莱门特那句「为什么你必须杀她」没有凯旋，只有一个孩子的碎声。
 - **Tropes 兑现/反转**：兑现「当庭对质+真凶自白」；反转是凶手的自白长过指控（十五年的委屈流水）——制度先造了她的绝望，她再亲手兑现它。
 - **人物弧线**：Perrin 从考题变证人；克莱门特的「新克莱门特」正式接管（当众控诉+替死者要署名）；布罗迪尔以焚身完成对制度的最后一次服从（至死不进 life-bond）。
-- **叙事手法**：两次施法的对照蒙太奇（辐条式失败/圆阵式成功）承载主题；「第六位歌手」的入场写病人自主权；崩溃自白用「演讲台」位置完成空间隐喻（她站在本该有的 leader-point 上）。
+- **叙事手法**：两次施法的对照蒙太奇（辐条式失败/圆阵式成功）承载主题；「第六位歌手」的入场写病人自主权；崩溃自白用「演讲台」位置完成空间隐喻：她恰恰站在本应属于主位的那个点上。
 
 ## 精读
 
 > **原句 1:** "“Well, let’s start where we’re told,” they said. “All the other cases this week, and how we solved them.”"
 **中文理解**：「那就从题目指定的地方开始，」他们说。「本周的其他考案，以及我们是怎么解开的。」
 **关键词**：start where we’re told / all the other cases / how we solved them
-**为什么这样写**：表演式推理的开场令：克莱门特主动把「已知答案」重演成「现场推导」——他们要的不是解出（已解出），是让观众看见路径。句子的从容与 secretly 的紧张（心跳在喉）构成双层叙事：考场是舞台。
+**为什么这样写**：表演式推理的开场令：克莱门特主动把「已知答案」重演成「现场推导」——他们要的不是解出（已解出），是让观众看见路径。句子的从容与暗藏的紧张（心跳在喉）构成双层叙事：考场是舞台。
 **读者视角提示**：注意「谁会指控他们作弊」的反逻辑：布罗迪尔必须相信他们「刚好有这个能力」——太能干她都无法抱怨。这层心理让整场演出成立：骗子最怕观众懂行，而全场的懂行观众只许鼓掌。
 
 > **原句 2:** "No, it’s back. I’m so sorry, Scholars, for a moment I thought—"
@@ -59,7 +59,7 @@ modified: "2026-11-05"
 > **原句 8:** "“No, she kept it secret. Right up until the end. Why did you have to kill her?”"
 **中文理解**：「不，她把秘密守到了最后。守到了终点。你为什么必须杀她？」
 **关键词**：kept it secret / Right up until the end / Why did you have to kill her
-**为什么这样写**：全书的题眼之问以最朴素的语法落地：不是「你怎么杀的」而是「为什么必须」——克莱门特把审判从程序抬到道德。句子的音色按叙述自注（不像 triumphant，像 half-broken child）：控诉者的哀伤比愤怒更无法答辩。
+**为什么这样写**：全书的题眼之问以最朴素的语法落地：不是「你怎么杀的」而是「为什么必须」——克莱门特把审判从程序抬到道德。句子的音色按叙述自注（不像凯旋，像一个半碎的孩子）：控诉者的哀伤比愤怒更无法答辩。
 **读者视角提示**：与伊莎贝尔「守密到死」的行为链并读：她防了所有人（论文、黄页、教程信的分批投递），只没防身边最信任的导师。信任的代价是本案真正的死亡原因——而不是技法本身。
 
 > **原句 9:** "And then you framed me for it,” said Estiene. “Me and my father. Because you wanted our exam group to stop asking questions, and you knew the gendarmes would leap at us as suspects, and because”—he hesitated only a tiny moment, then lifted his chin—“because Chancellor Morant told you that you had to pass me with a high rank, no matter what, because my father had bribed him for it. And you hated that."

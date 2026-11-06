@@ -1,0 +1,214 @@
+{
+  "chapter": 37,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bodies-of-magic-by-freya-marske/ch37 the missing anchor.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bodies-of-magic-by-freya-marske/text/ch37_thirty_seven.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was a choice. That was what she’d wanted. It was a chance at a future not set in stone but malleable: the wet clay of",
+          "ok": true,
+          "pos": 4076
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Just for one group in the final exam slot of the final day, by stepping in and making their chamber of the Rondelle inac",
+          "ok": true,
+          "pos": 6370
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "I don’t think he even slept in his bed. For one thing, it was neat",
+          "ok": true,
+          "pos": 9713
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Estiene blanched. He looked more upset now than when he’d been arrested for murder",
+          "ok": true,
+          "pos": 11142
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“And if he’s there, you call the gendarmes,” said Adala. “Kidnapping a healer and being caught at it? From what I hear, ",
+          "ok": true,
+          "pos": 11787
+        }
+      ],
+      "words": 41
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 36,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 71
+      },
+      "cjk_ratio": {
+        "中文理解": 0.77,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 63,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "37. Thirty-Seven",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 8.0,
+    "block_range": [
+      4,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 5,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2236,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 8、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

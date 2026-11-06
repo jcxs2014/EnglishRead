@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch21",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch21_twenty_one.txt",
+ "facts": [
+  {
+   "fact": "Estiene 在 Hospital 的复杂干预康复病房 staff room 找到 Lysande Coran；她否认杀 Ysabel，称 Grand Exam 前夜一直在图书馆到早餐前，让他去问 Pasquier",
+   "anchor": "I was in the library the night before the Grand Exam, studying.",
+   "start": 3815,
+   "end": 3878
+  },
+  {
+   "fact": "一名醉酒后走进马车道、被马车撞成多处重伤、已用紧急 array 处理、原定当晚出院的男患者，突然脸色惨白、倒地叫不醒，脉搏微弱而快",
+   "anchor": "walking drunk into the path of a horse-drawn carriage",
+   "start": 4855,
+   "end": 4908
+  },
+  {
+   "fact": "Estiene 诊断出肠系膜动脉出血，说能止住但患者腹腔内正在大量失血；创伤专家 Fanuche 让他放手做并给予支持，Lysande 也被安排做 support；患者最后仍苍白昏迷，但已不再濒死",
+   "anchor": "“Mesenteric arterial bleed,” Estiene said.",
+   "start": 6515,
+   "end": 6557
+  },
+  {
+   "fact": "午饭后 Estiene 向 Danton Pasquier 核实，确认 Lysande 从晚餐到凌晨一直在图书馆——又一条死路",
+   "anchor": "Lysande had been in the library from dinner until the small hours of the morning",
+   "start": 9526,
+   "end": 9606
+  },
+  {
+   "fact": "Estiene 在 pigeonhole 收到一封没有称呼、没有署名、也未封口的信，写信人知道 Rondelle 里死去的女孩真正发生了什么，约他一点在 knocking room 面谈",
+   "anchor": "Be at the knocking room at one o’clock and we can discuss it further.",
+   "start": 10435,
+   "end": 10504
+  },
+  {
+   "fact": "他迟到五分钟赶到；房门原本未锁，他进门后听到钥匙一转，被反锁在里面",
+   "anchor": "That had been a key, turning in the lock. Locking him in.",
+   "start": 12117,
+   "end": 12174
+  },
+  {
+   "fact": "椅子上是一具男尸：单条黑辫、圆脸、鼻上戴金色 artificer 穿孔，喉部被割开像肉；Estiene 对尸体施诊断被死亡的排斥反弹、跪地呕吐，随后从桌下捡起一把刃上血已干的骨柄小刀",
+   "anchor": "his throat was opened up like meat",
+   "start": 13073,
+   "end": 13107
+  },
+  {
+   "fact": "Secretary Lefer 领先 Dean Saige 与 Chancellor Morant 进门，看见他手握小刀站在割喉尸体旁；Estiene 又吐了一次",
+   "anchor": "a half step in front of Dean Saige and Chancellor Morant themself",
+   "start": 16534,
+   "end": 16599
+  }
+ ]
+}

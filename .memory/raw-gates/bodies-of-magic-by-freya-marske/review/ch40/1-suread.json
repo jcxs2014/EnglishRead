@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch40",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch40_forty.txt",
+ "facts": [
+  {
+   "fact": "学者 Ysabel Caudotte 在科研笔记中写下：这五人并非世上唯一能施行该术的医者，但他们是同届中最佳组合，也是今后所有应被要求施行者的范本",
+   "anchor": "They’re not the only five healers in the world who could do it, of course",
+   "start": 12,
+   "end": 85
+  },
+  {
+   "fact": "Brodier 没有穿病人的米色袍，倒地后一动不动",
+   "anchor": "Brodier wasn’t in the beige robe of a patient. But she was not moving.",
+   "start": 888,
+   "end": 958
+  },
+  {
+   "fact": "混乱中离 Brodier 最近的考生医者 Perrin 跪下去，手一碰到她的手便嘶声抽回",
+   "anchor": "They snatched their hand back as soon as it touched Brodier’s, with a hiss.",
+   "start": 1318,
+   "end": 1393
+  },
+  {
+   "fact": "Moyna 跪下施法后起身摇头，说太迟了：Brodier 不只是心跳停止，而是把心肌纤维撕碎了；Moyna 能诊断死者却不能治愈",
+   "anchor": "She didn’t just stop her heart, she ripped the muscle fibres apart",
+   "start": 1870,
+   "end": 1936
+  },
+  {
+   "fact": "第二考官 Hilaret 裁定五例中只失败一例，最终分数与排名稍后确定，但当场恭喜他们要毕业了",
+   "anchor": "Only one failed case out of five,” he said. “Obviously your final scores",
+   "start": 4535,
+   "end": 4607
+  },
+  {
+   "fact": "医院复杂干预主管 Danisy 提出向医院委员会申请，在干预师序列中增设一名初级职位，把 Alys Tixerrant 纳入该序列；Alys 自陈魔力来得晚、一直控制不好",
+   "anchor": "request an extra junior on the interventionist track",
+   "start": 7633,
+   "end": 7685
+  },
+  {
+   "fact": "Thoury 将凭五人都被需求这一点，要求买断 Moyna 的契约，使她有望留在 Sieuxerr；Moyna 称已用独特技能协助破了两起谋杀",
+   "anchor": "he’ll have leverage to ask for my bond-contract to be bought out",
+   "start": 9419,
+   "end": 9483
+  },
+  {
+   "fact": "Clement 先去 Berthelmi 查信、没有收到信，随后捧住 Alys 的脸吻她，说她想怎么烦他都行",
+   "anchor": "Alys filled her lungs with the scent of blackcurrant, and kissed, and was kissed.",
+   "start": 15237,
+   "end": 15318
+  }
+ ]
+}

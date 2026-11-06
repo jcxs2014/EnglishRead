@@ -14,7 +14,7 @@ modified: "2026-11-05"
 
 ## 精读
 
-> **原句 1:** “She heard I was struggling to get the hang of group arrays and she was kind enough to give us a tutorial, in winter term,” she added to Alys. “It was an odd technique. Very difficult for third-years,” with pride. “But she had a way of making you believe you could do things, you know?”
+> **原句 1:** "She heard I was struggling to get the hang of group arrays and she was kind enough to give us a tutorial, in winter term,” she added to Alys. “It was an odd technique. Very difficult for third-years,” with pride. “But she had a way of making you believe you could do things, you know?”
 **中文理解**：「她听说我们小组阵列总练不起来，还好心在冬季学期给我们开了小灶，」她又对阿利斯补上一句。「那是个古怪的技法。对三年级来说非常难，」语气里带着得意。「但她有本事让你相信你能做到，你懂吗？」
 **关键词**：struggling to get the hang / a tutorial / an odd technique / making you believe
 **为什么这样写**：死者画像增补第二笔（第一笔是 ch05 的「讲解欲」）：她连陌生学弟妹都主动教，教的是「古怪且超纲」的技法——慷慨与越界共用同一只手。「让你相信你能做到」是巴莱娜的感激，也是一份无意间的证词：她惯于把人推过安全线。
@@ -23,13 +23,13 @@ modified: "2026-11-05"
 > **原句 2:** "a shaft holding thick water pipes ran down one wall of the tower and thus one wall of the room, and at odd intervals they made a loud sound exactly like someone was trapped in the wall and trying to attract your attention by knocking."
 **中文理解**：一根装着粗水管的井道顺着塔壁、也就是这房间的一面墙往下走，在古怪的间隔里发出巨大的声响——听起来活像有人被困在墙里，正靠敲墙吸引你的注意。
 **关键词**：a shaft / water pipes / at odd intervals / trapped in the wall
-**为什么这样写**：会议室的名字自带恐怖故事起源：所谓「敲击」不过是水管——但「像有人被困」这个比喻让全章的秘密会都泡在一层「被监听」的错觉里。真相（ plumbing quirk）与传说（鬼敲门）的分层正是本书信息结构的缩影：消息在人群里走形。
+**为什么这样写**：会议室的名字自带恐怖故事起源：所谓「敲击」不过是水管——但「像有人被困」这个比喻让全章的秘密会都泡在一层「被监听」的错觉里。真相（水管怪癖）与传说（鬼敲门）的分层正是本书信息结构的缩影：消息在人群里走形。
 **读者视角提示**：记住这个房间：高处、视野好、隔一层楼就是毕业钟——后文所有关键会面大概率都回这里开。鬼故事那条「有人困在墙里」的设定，也可能不是闲笔。
 
 > **原句 3:** "The Mostau scholarship had been held by another scholar in their cohort who’d died, burning out unexpectedly and dramatically near the end of second year, and by that stage not many people were prepared to double-dose their language lessons in a new tongue in order to catch up."
 **中文理解**：莫斯托奖学金原本属于他们同级的另一名学员——那人在二年级末意外而戏剧性地焚身死了；到了那个阶段，已经没几个人肯为了接手而加倍补学一门新语言。
 **关键词**：had been held by another scholar / burning out unexpectedly / double-dose their language lessons
-**为什么这样写**：让的「好运」有尸检报告：三年契约（比常规短两年）是因为前任死了才腾出来的——他 seized at it 的逃生舱口，地板是一具焚身的尸体。一句话把「焚身」从传说变成 cohorts 里真实的死因统计。
+**为什么这样写**：让的「好运」有尸检报告：三年契约（比常规短两年）是因为前任死了才腾出来的——他一把抓住的逃生舱口，地板是一具焚身的尸体。一句话把「焚身」从传说变成 cohorts 里真实的死因统计。
 **读者视角提示**：这是本书第二次出现焚身死亡的在校案例（第一次是 ch03 统计性的「时有发生」）。加上康拉德的未遂，焚身这条线已经有「死了的、差点死的」两枚样本——伊莎贝尔是第三枚还是例外，全案悬念所在。
 
 > **原句 4:** "“I’ll apply to the Littlebridge,” said Clement, when the question swung to them. “I’ve never had an aptitude for any specialty in particular, and my written exams have always been average.” Their voice was fading by the last words, as if sun-bleached by direct attention."

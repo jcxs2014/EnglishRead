@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch05",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch05_five.txt",
+ "facts": [
+  {
+   "fact": "Clement 与 Ysabel 十岁那年发生了一次日全食，那是两人一同进入 Academie 的八年前",
+   "anchor": "There was a complete solar eclipse when Clement and Ysabel were ten years old.",
+   "start": 751,
+   "end": 829
+  },
+  {
+   "fact": "宪兵因举报 Savoye 家把孩子整天关在家里、不许上学而多次上门；Niesken Savoye 先谎称四个年幼孩子生病、长女 Agnes 已满十八岁，后又向宪兵扔了一个空瓶（未击中），宪兵没收了家中所有蜡烛",
+   "anchor": "Niesken threw an empty bottle at the gendarmes—missing, luckily",
+   "start": 1513,
+   "end": 1576
+  },
+  {
+   "fact": "十三年来 Ysabel 一直是挡在 Clement 与被注目之间的月亮；她死后，Clement 重新暴露在众人的注视下",
+   "anchor": "had been the moon that stood between Clement and the dreadful light of being noticed",
+   "start": 5027,
+   "end": 5111
+  },
+  {
+   "fact": "Clement 搜遍 Ysabel 的图书馆书桌和宿舍，那本黄色封面的旧笔记本始终不见踪影",
+   "anchor": "no sign anywhere of the battered, yellow-covered notebook that Clement was searching for.",
+   "start": 7155,
+   "end": 7244
+  },
+  {
+   "fact": "术师 Decroy 放 Clement 进入二号考场的观察廊；他转述听来的说法「她是跳下去而非参加考试」，Clement 当场反驳说她是被杀的",
+   "anchor": "“She didn’t,” Clement said. They couldn’t keep it in. “She was killed.”",
+   "start": 13363,
+   "end": 13434
+  },
+  {
+   "fact": "Clement 在 Ysabel 的房间里把手指伸进烛火，直到灼痛才抽回，随后治好新起的水泡，却刻意保留上臂旧日的仪式伤疤",
+   "anchor": "Clement passed their fingers through the flame, then slower, and slower.",
+   "start": 16576,
+   "end": 16648
+  },
+  {
+   "fact": "Ysabel 的母亲 Tiphaine 认为 Clement 把责任推到别处更容易，反问谁会想杀 Ysabel，并说疗愈师常见的可怕意外和过度自我施压更可信",
+   "anchor": "But who would ever want to kill Ysabel?",
+   "start": 28160,
+   "end": 28199
+  },
+  {
+   "fact": "Clement 想当着 Ysabel 的母亲 Adala 与 Tiphaine 的面发誓要找出凶手、将其绳之以法，但最终只在沉默中许下承诺",
+   "anchor": "They made the promise in silence instead.",
+   "start": 30180,
+   "end": 30221
+  }
+ ]
+}

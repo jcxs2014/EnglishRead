@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch31",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch31_thirty_one.txt",
+ "facts": [
+  {
+   "fact": "Clement 当众说 Brodier 把 Ysabel 的研究笔记锁在她书桌里，并且一直谎称没有",
+   "anchor": "Brodier has Ysabel’s research notebook locked in her desk.",
+   "start": 5234,
+   "end": 5292
+  },
+  {
+   "fact": "Moyna 宣读 Ysabel 的信：Grand Exam 第五个、也是最后一个病例，是为受 serrage 影响的患者制定治疗方案并实施第一阶段；信里说她故意这样设计",
+   "anchor": "the fifth and final case of your Grand Exam will be to come up with",
+   "start": 8028,
+   "end": 8095
+  },
+  {
+   "fact": "Moyna 比对阵列后断定它并非独力疗法，只是极耗力量、只允许五人联合；Alys 猜是因为考试组正好五人",
+   "anchor": "she’s only allowed for a five-body job",
+   "start": 12593,
+   "end": 12631
+  },
+  {
+   "fact": "Clement 读 Ysabel 论文末页发现：按现状这套技术只在患者本身是治疗法师时有效，推广到非治疗法师需后续研究",
+   "anchor": "The technique as it stands is only effective if the patient is a healing mage.",
+   "start": 14441,
+   "end": 14519
+  },
+  {
+   "fact": "包裹最后一页纸是从 Ysabel 的黄色笔记本撕下的，边毛、有深折痕（应被折四折随身携带），阵列与论文不同；Jehan 抢看后传阅；Clement 由此判断 Brodier 可能不知道这部分，说 I think not，并称已有办法证明",
+   "anchor": "it was rough-edged and torn out of a notebook—Ysabel’s yellow notebook",
+   "start": 15779,
+   "end": 15849
+  },
+  {
+   "fact": "Estiene 推测：Decroy 那晚在 Rondelle 偷听到 Brodier 与 Ysabel，纸条原本寄给 Brodier 以换钱或换罢工/学院合同筹码；Brodier 抄给他、只改会面时间，让他先被杀，再由 Estiene 撞见",
+   "anchor": "What if he did overhear Brodier and Ysabel in the Rondelle that night",
+   "start": 20769,
+   "end": 20838
+  },
+  {
+   "fact": "Jehan 说 Brodier 决定自己揽功，然后停了 Ysabel 的心、把她推下阳台砸碎头骨，说完立刻向 Clement 道歉",
+   "anchor": "stops Ysabel’s heart and shoves her off a balcony to smash her skull",
+   "start": 19241,
+   "end": 19309
+  },
+  {
+   "fact": "Alys 提出动机：Brodier 声称 Ysabel 的研究未完成，但她必定知道研究已完成、即将被证明；若疗法以她的名义提出，能成就她的职业生涯与传奇",
+   "anchor": "she must have known it was complete, and about to be proven",
+   "start": 18690,
+   "end": 18749
+  }
+ ]
+}

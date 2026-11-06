@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch20",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch20_twenty.txt",
+ "facts": [
+  {
+   "fact": "Moyna 16 岁的妹妹 Ellyn 几个月前 mage-testing 失败、几乎没有魔力；家中三个孩子里出了 Symon 和 Moyna 两个法师，三中取二已算公平",
+   "anchor": "who’d failed her own mage-testing several months ago",
+   "start": 2472,
+   "end": 2524
+  },
+  {
+   "fact": "这顿家宴是为 Symon 通过二年级考试庆祝；因 proctor geas，全家没有一个人问起 Moyna 的 Grand Exam",
+   "anchor": "None of her family asked about the Grand Exam.",
+   "start": 4377,
+   "end": 4423
+  },
+  {
+   "fact": "父母都是古典水法师，不是 artificer，因而未参与 artificer 罢工，且对它颇有微词；他们当年离开 Camar、学新语言、生三个孩子、培养出两个治疗师，指望带 Moyna 凯旋回乡",
+   "anchor": "Neither of them had trained as artificers, but as classical water-mages",
+   "start": 4850,
+   "end": 4921
+  },
+  {
+   "fact": "Moyna 根本不想离开蓝城；她决心在被迫离开前尽量查清怪题与 Ysabel 之死",
+   "anchor": "I don’t want to leave the Blue City at all",
+   "start": 14163,
+   "end": 14205
+  },
+  {
+   "fact": "Moyna 还脱口承认，她曾打算故意让整个 Grand Exam 不及格",
+   "anchor": "I was thinking of failing the whole Grand Exam.",
+   "start": 15564,
+   "end": 15611
+  },
+  {
+   "fact": "Jehan 在与 Moyna 亲热中途停下，说自己在想别人——他恋爱了，对象是 Estiene，且已将近五年",
+   "anchor": "Muffled: “Almost five years. Probably. Not that it matters.”",
+   "start": 11900,
+   "end": 11960
+  },
+  {
+   "fact": "Moyna 失口承认第一场考试就知道是 hare fever 却没说出来；Jehan 斥她背叛，说你明明知道是兔热病却不说",
+   "anchor": "You knew it was hare fever and you didn’t say it.",
+   "start": 16502,
+   "end": 16551
+  },
+  {
+   "fact": "Sab Lavalle 闯进房门宣布 Estiene 因谋杀被捕；Moyna 与 Jehan 交换一个震惊的眼神后立刻抓衣服",
+   "anchor": "“Estiene’s been arrested for murder,” Sab said triumphantly",
+   "start": 17760,
+   "end": 17819
+  }
+ ]
+}

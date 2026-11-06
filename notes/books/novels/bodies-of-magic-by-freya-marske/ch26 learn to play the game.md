@@ -23,19 +23,19 @@ modified: "2026-11-05"
 > **原句 2:** "“I think it was Brodier.”"
 **中文理解**：「我认为是布罗迪尔。」
 **关键词**：I think it was Brodier
-**为什么这样写**：克莱门特的名字第一次以独立成句的规格出场：叙述随即注解（struck bell：被敲响的钟）——他们的声音本周一直在变稳，这句话是它成熟的剪彩。证据只有一个直觉（她否认笔记本时他不信），但全组照单全收。
+**为什么这样写**：克莱门特的名字第一次以独立成句的规格出场：叙述随即注解她像一口被敲响的钟——他们的声音本周一直在变稳，这句话是它成熟的剪彩。证据只有一个直觉（她否认笔记本时他不信），但全组照单全收。
 **读者视角提示**：注意「It had space」的房间描写：一个直觉被允许占用的空间，就是这个同盟成熟的度量。与 ch11 的互疑（谁杀了伊莎贝尔）对照：他们终于学会了「先信队友的直觉，再验证」。
 
 > **原句 3:** "“The reflected shine of a breakthrough is still only a reflection.”"
 **中文理解**：「突破的反光再亮，也终究只是反光。」
 **关键词**：The reflected shine / a breakthrough / only a reflection
-**为什么这样写**：萨奇的权力美学一次成句：他连贬低对手都要用光学修辞—— brillance 只在他自己身上存在。这句话同时自曝他的论文观（署名>实质）与他的用人观（学者是反光板）。
+**为什么这样写**：萨奇的权力美学一次成句：他连贬低对手都要用光学修辞——光芒只在他自己身上存在。这句话同时自曝他的论文观（署名>实质）与他的用人观（学者是反光板）。
 **读者视角提示**：让的半昏术在这里被命名为「 excellent 但没人会提到萨奇」——他对技术的态度全部押在「能否被讲述」上。这条审美是理解他一切行为（招生、收费、踩人）的母公式。
 
 > **原句 4:** "Learn to play the game. It’ll take you far.”"
 **中文理解**：「学会玩这个游戏。它会带你走很远。」
 **关键词**：Learn to play the game / take you far
-**为什么这样写**：师承的最后一句是招降书：萨奇把毕生的生存术包装成赠礼递给让——「 sensible sort」的定性既恭维又收编。让的沉默（ murmur thanks）与叙述的冷注（flattered by scholars, taking your pick）完成拒绝：他听懂了报价，也看清了价格。
+**为什么这样写**：师承的最后一句是招降书：萨奇把毕生的生存术包装成赠礼递给让——「明白人」的定性既恭维又收编。让的沉默（只低声道谢）与叙述的冷注（flattered by scholars, taking your pick）完成拒绝：他听懂了报价，也看清了价格。
 **读者视角提示**：「游戏」一词在本书有两个版本：萨奇的（钻制度缝隙）与让的（拳台地下经济）——两人都懂游戏，区别是萨奇玩规则，让玩命。这句师训将伴随让的第三幕选择。
 
 > **原句 5:** "“Did you?” Saige laughed. “I suppose it was bound to leak out. I don’t know why Mathilde’s so bothered. The world needs all the healers it can get, even the mediocre ones.”"

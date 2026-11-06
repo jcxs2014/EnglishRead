@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch16",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch16_sixteen.txt",
+ "facts": [
+  {
+   "fact": "Estiene 跟踪 Jehan 到拳场，先给他治伤再开口；Jehan 讽刺他未经病人同意就施治，该记不及格",
+   "anchor": "A failing mark, Scholar Marcelle. No consent from the patient. Very rude.",
+   "start": 2659,
+   "end": 2732
+  },
+  {
+   "fact": "Jehan 从 Hospital 偷补剂，靠 Blavot 的黑市关系销赃，撑过了 Academie 第一年",
+   "anchor": "Blavot has connections. So that got me through first year.",
+   "start": 7347,
+   "end": 7405
+  },
+  {
+   "fact": "Jehan 的母亲在他考入 Academie 前长时间工作，抚养他和年长的同胞 Emery；她坚决拒绝让他 city-bonded，自己贷款并加班预付学费，好让 Jehan 保持自由",
+   "anchor": "she’d flatly refused to let him be city-bonded",
+   "start": 7941,
+   "end": 7987
+  },
+  {
+   "fact": "第二年末，Jehan 接受 Mostau 城的 bonded scholarship，只告诉 Blavot 协议结束；Blavot 说「No, it isn’t.」，让他夜里打拳赚 stipend，一年后又逼他做非法 enhancement；Jehan 后来明白 Blavot 要的只是对一个未来 healer 的把柄",
+   "anchor": "Blavot had only wanted the leverage over a future healer.",
+   "start": 9566,
+   "end": 9623
+  },
+  {
+   "fact": "Jehan 说 Ysabel 也曾像 Estiene 那样跟踪过他一次；Estiene 推测她可能一直在 blackmail Jehan，并说这说得通",
+   "anchor": "She could have been blackmailing you. That makes sense.",
+   "start": 10128,
+   "end": 10183
+  },
+  {
+   "fact": "Jehan 的 Mostau 合同有 no-military 条款；但 Estiene 指出，若 Jehan 成为 criminal healer，bond 年限付清后他就归 Sieuxerr 和最高出价者，会被卖到某人的军队，是 prize",
+   "anchor": "Someone’s military, anyway. Mathé’s blood, you’d be a prize.",
+   "start": 11792,
+   "end": 11852
+  },
+  {
+   "fact": "Blavot 出现在工作间门口，可能已听到谈话；Jehan 搂住 Estiene 的肩膀，谎称几个月来一直想让他来看自己打拳，并叫他 sweetheart、让他付酒钱；Blavot 称他 Scholar Sweetheart，又对 Fortier 说照常 gym 见；两人从后门离开",
+   "anchor": "Guion Blavot was in the doorway to the workroom.",
+   "start": 13869,
+   "end": 13917
+  },
+  {
+   "fact": "在雨中，Estiene 说 Jehan 是他「被允许拥有的唯一冒险」；Jehan 回以刻薄话，Estiene 说他没想到他竟能这么残忍，转身走掉；Jehan 跟上去，确保这位 Hospital 的未来之星不会在暗处被抢",
+   "anchor": "“You were the one adventure I was allowed to have.”",
+   "start": 21901,
+   "end": 21952
+  }
+ ]
+}

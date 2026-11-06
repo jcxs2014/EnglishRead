@@ -27,9 +27,9 @@ modified: "2026-11-05"
 **读者视角提示**：记住「grand spectacle」这个词：伊莎贝尔爱的是 largest splash——明天五个人要在考场上替她放这场烟花。计划的名字在此刻已经定了调。
 
 > **原句 3:** "“And old,” said Estiene. “It’s brandy. I didn’t think they even sold these bottles outside the royal family.”"
-**中文理解**：「而且年份老，」埃斯蒂恩说。「白兰地。我以为这种瓶子王室之外根本没得卖。」——「确实没得卖，」阿利斯说。
+**中文理解**：「而且年份老，」埃斯蒂恩说。「白兰地。我以为这种瓶子王室之外根本没得卖。」
 **关键词**：outside the royal family / It’s brandy
-**为什么这样写**：阶级喜剧的两句话：埃斯蒂恩的鉴定本能（一眼认出违禁品级别）与阿利斯的平静认领（对，是偷的）——她的「家族资源」第一次被摆上共犯的桌面。两瓶酒的对置（王室陈酿/市井朗姆）就是五个人出身差距的餐桌版。
+**为什么这样写**：阶级喜剧的两句话：埃斯蒂恩的鉴定本能（一眼认出违禁品级别）与阿利斯紧接着的平静认领（对，是偷的）——她的「家族资源」第一次被摆上共犯的桌面。两瓶酒的对置（王室陈酿/市井朗姆）就是五个人出身差距的餐桌版。
 **读者视角提示**：让的朗姆宣言（全城酒铺都卖、八成是袜子味）是他给自己人生的注脚：低配、诚实、随取随有。阿利斯喝下了他的杯子吗？——本章末她主动握住的手给出答案。
 
 > **原句 4:** "“We are grown adults and fifth-year scholars of the Academie Sieuxerr, Scholar Savoye,” said Alys. “Our lanterns fly or burn by the work of our own minds and hands.”"

@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch39",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch39_thirty_nine.txt",
+ "facts": [
+  {
+   "fact": "artificers 提前罢工，除在校园别处制造障碍外，还让 Rondelle 的第二 chamber 在最后考试时段不可用；考试因此改在 Teaching Theatre；Secretary Lefer 为此显得很烦躁",
+   "anchor": "making the Rondelle’s second chamber unusable for the final exam slot",
+   "start": 2286,
+   "end": 2355
+  },
+  {
+   "fact": "病人自我介绍为 Perrin，深色 looped braids、颈侧一块紫色 birthmark；全组知道 Perrin 本人也是 healer，和 Adala 一样是 serrage 受害者；考题要求用一切手段诊断并治愈，且须用上 Grand Exam 中演示过的所有技术",
+   "anchor": "the whole group knew—that Perrin must be a healer themself",
+   "start": 5302,
+   "end": 5360
+  },
+  {
+   "fact": "第一次尝试：Jehan 把 Perrin 带入 half-under 状态，Estiene 指导，Alys 支撑；结束时 Perrin 说多年来没这么好，随即手臂抽动、疼痛回来；时钟指针垂直、铃响，Grand Exam 结束，proctor geas 解除",
+   "anchor": "“No, it’s back. I’m so sorry, Scholars, for a moment I thought—”",
+   "start": 11706,
+   "end": 11770
+  },
+  {
+   "fact": "Brodier 拿着纸走到台前，要求他们再试一次，称他们提出的方案完全正确、只是执行有小错；她自称独自研究出这个 serrage 疗法，Dean Saige 斥为荒谬，说她若失败可以怪学生",
+   "anchor": "Your solution, as proposed, is completely correct.",
+   "start": 14848,
+   "end": 14898
+  },
+  {
+   "fact": "第二次尝试改为无 radials 的圆圈；五人各触 Perrin 的头、脚踝、手腕，每个 healer 都要执行技术的每一部分、魔力合为一体；Perrin 自己的魔力作为第六个 singer 加入并留下，治疗稳住",
+   "anchor": "This was a healing done in absolute unison.",
+   "start": 18316,
+   "end": 18359
+  },
+  {
+   "fact": "治好后 Clement 当众说这不是 Dean Brodier 的成果，而是 Ysabel Caudotte 的，一直都是 Ysabel 的；Brodier 承认 Ysabel 在她监督下发展出该技术、她发现尸体后拿走研究笔记本以使用其成果，但否认杀人",
+   "anchor": "It’s Ysabel Caudotte’s. It was always Ysabel’s.",
+   "start": 27198,
+   "end": 27245
+  },
+  {
+   "fact": "Moyna 指控 Brodier 停了 Ysabel 的心，也停了 Artificer Decroy 的心——因为 Decroy 听见她和 Ysabel 在 Grand Exam 前夜争吵、想以此威胁她；Estiene 补充：Brodier 陷害他和父亲，是为了让考试组停止追问，也因为 Chancellor Morant 告诉她必须给 Estiene 高排名——他父亲行贿了 Morant，而她恨这一点",
+   "anchor": "You stopped her heart. And I think you stopped Artificer Decroy’s, as well",
+   "start": 28963,
+   "end": 29037
+  },
+  {
+   "fact": "Adala Caudotte 在栏杆边问 Mathilde. Mathilde. You killed my daughter?；Brodier 崩溃供认自己为 Academie 干了 15 年、两年前被告知有望当 Chancellor、上学期却被告知职位将消失；她提出与 Ysabel 共同署名，被 Ysabel 当面嘲笑；Adala 说所以是你杀了她，Brodier 抽搐般点头；Captain Thoury 带两名 gendarmes 下来时，她说了声 No，手按胸口，倒地瘫软",
+   "anchor": "And fell, soft as a faint, to lie limp on the ground.",
+   "start": 35579,
+   "end": 35632
+  }
+ ]
+}

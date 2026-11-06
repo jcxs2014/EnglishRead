@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch29",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch29_twenty_nine.txt",
+ "facts": [
+  {
+   "fact": "两天前爆炸后 artificers 工坊已清理，现场没有喊叫、伤者或碎玻璃；Anero 说 Clement 治好了她的脑震荡，自己 good as new",
+   "anchor": "workshop had been cleaned since the explosion two days ago",
+   "start": 709,
+   "end": 767
+  },
+  {
+   "fact": "Anero 提到同事 Artificer Floris Decroy 的死时声音中断；Clement 想到他死状暴烈、消息传得快，克制住没去拍她肩膀",
+   "anchor": "Floris Decroy’s violent manner of death would have made for rapid gossip",
+   "start": 1831,
+   "end": 1903
+  },
+  {
+   "fact": "Clement 告诉 Anero：他们确信 Ysabel 是被谋杀、Estiene 是被栽赃；Anero 说 Marcelle 那男孩不像会为鲁莽之事拿前途冒险的人",
+   "anchor": "never struck me as the type to risk his future with something so rash",
+   "start": 3441,
+   "end": 3510
+  },
+  {
+   "fact": "Anero 说她昨天不在场；Decroy 是最后离开大楼的人，愿意的话本可留下逐条复核法术",
+   "anchor": "He was the last of us in the building.",
+   "start": 4178,
+   "end": 4216
+  },
+  {
+   "fact": "Anero 从腰间钥匙串上取下一把系红丝带的钥匙，说它能开 North Wing 所有门；Clement 答我不是从你这儿拿的",
+   "anchor": "pulled a red-ribboned key from a bunch at her belt",
+   "start": 5522,
+   "end": 5572
+  },
+  {
+   "fact": "学生研究架上没有 Ysabel 的文件夹；Clement 在最底层上锁抽屉里看到黄色物件，大小正像 Ysabel 的笔记本，还能辨出一个大的、手写名字开头的 Y",
+   "anchor": "a large swooping Y, the beginning of a handwritten name",
+   "start": 13724,
+   "end": 13779
+  },
+  {
+   "fact": "Brodier 回来撞见 Clement，目光扫向抽屉，说第四场 case 在一小时多一点之后，并说考前接触考官显得很不专业",
+   "anchor": "Your fourth case is in—just over an hour",
+   "start": 16383,
+   "end": 16423
+  },
+  {
+   "fact": "Brodier 说周底一切都会明白，并上前把手覆在 Clement 手上；Clement 手上有新刮伤，怕她察觉自己脉搏狂跳",
+   "anchor": "everything will make sense at the end of the week",
+   "start": 16839,
+   "end": 16888
+  }
+ ]
+}

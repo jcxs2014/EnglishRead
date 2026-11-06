@@ -8,8 +8,8 @@ modified: "2026-11-05"
 ## 本章导航
 - **一句话概括**：灯笼夜北塔屋顶：最后一只信封摊开全案底牌——第五案是「治愈锯热」，四场考试全是论文的零件，黄页上藏着连论文都没有的「意外之音」；布罗迪尔的动机链就此闭合：她要的从来不是课题，是把它变成自己的传奇。
 - **情感弧线位置**：克莱门特的悲恸完成最后一次换形：从「我想你回来」到「我替你走完」——最后一页上死者预留的话让他们在星光下咽住；全组第一次同时被同一个理想点亮。
-- **Tropes 兑现/反转**：兑现「 dead madwoman 的最后一课」；反转是凶手动机不是财与色而是「署名权」——治愈本身越伟大，偷走它的人越传奇。
-- **人物弧线**：莫伊娜的 cynical 独白（医者是错地方的副产品）为全书社会论定调；让与埃斯蒂恩首次并肩写画（argumentative little world）；克莱门特的「证明方案」压轴登场。
+- **Tropes 兑现/反转**：兑现「死去的疯女人」的最后一课；反转是凶手动机不是财与色而是「署名权」——治愈本身越伟大，偷走它的人越传奇。
+- **人物弧线**：莫伊娜的愤世独白（医者是错地方的副产品）为全书社会论定调；让与埃斯蒂恩首次并肩写画（一个争论不休的小世界）；克莱门特的「证明方案」压轴登场。
 - **叙事手法**：四案回放做拼图蒙太奇（每案一句「原来如此」）；黄页与论文的差异读作「两代思维」的对照实验；灯笼夜的仪式感给推理戏供暖。
 
 ## 精读
@@ -53,7 +53,7 @@ modified: "2026-11-05"
 > **原句 7:** "“There’s our motive,” said Alys. “Brodier said that Ysabel’s research wasn’t complete, that someone else would have to finish it, but . . . if she went to the effort of letting Ysabel pick our exam group and make us sit different cases than everyone else, she must have known it was complete, and about to be proven. And in the meantime she’s learned she won’t keep her job off the back of simply supervising a scholar who cured the serrage, but if the cure was put forward as hers—”"
 **中文理解**：「动机在这儿，」阿利斯说。「布罗迪尔对外说伊莎贝尔的研究未完成、来年得有人接手——可她若肯费劲让伊莎贝尔挑组、让我们做与所有人不同的考案，她必然知道课题已完成、即将被证明。」
 **关键词**：our motive / wasn’t complete / different cases / about to be proven
-**为什么这样写**：动机的组装完成：谎话（未完成）与行动（特制考案）互相拆台——她一边对外哀叹课题夭折，一边亲手布置它的 proofs。句子的推理结构（若…必然）把「知情程度」变成了定罪逻辑。
+**为什么这样写**：动机的组装完成：谎话（未完成）与行动（特制考案）互相拆台——她一边对外哀叹课题夭折，一边亲手布置它的证据。句子的推理结构（若…必然）把「知情程度」变成了定罪逻辑。
 **读者视角提示**：与 ch23 布罗迪尔的失言（萨奇收钱卖名额）并读：她的愤怒可能一半是道德、一半是恐惧——她知道这条链上每一环的价钱，也包括自己的。
 
 > **原句 8:** "Brodier saying, Someone has to stand at the head."

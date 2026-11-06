@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch18",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch18_eighteen.txt",
+ "facts": [
+  {
+   "fact": "Moyna 对 Alietta 下诊断，第一次试探就收到一股翻涌的金色魔法风暴，遍布全身、似乎不伤 Alietta；她完全不懂那意味着什么",
+   "anchor": "a surging, roiling golden storm of magic",
+   "start": 2244,
+   "end": 2284
+  },
+  {
+   "fact": "Brodier 说那是活人身上最接近 burnout 反流的程度，说到 as close as Omeyer— 就停住；Hilaret 说难怪 Alys 自愿，若她没失去控制甚至可能完成整个治疗",
+   "anchor": "That’s as close to the backwash from burnout as we’ll ever see in the living",
+   "start": 3025,
+   "end": 3101
+  },
+  {
+   "fact": "穿绿色 Berthelmi 制服的 messenger 把信交给 Moyna，信是给 Alys 的；Alys 读后放声大哭",
+   "anchor": "nearly collided with the hovering messenger in the green Berthelmi’s uniform.",
+   "start": 4626,
+   "end": 4703
+  },
+  {
+   "fact": "信是 Ysabel 写的：她为两人私下试治 vermeil 后没有帮助 Alys、没鼓励她找资深 healer 而道歉；她写 I knew, you see, that you of anyone would be able to tackle this case in particular；她约 Alys 周末见面，承诺会找更好的人来帮忙，并要求 Alys 答应不去给富人做小治疗，而是来 Hospital 和她一起工作",
+   "anchor": "But I knew, you see, that you of anyone would be able to tackle this case in particular.",
+   "start": 6784,
+   "end": 6872
+  },
+  {
+   "fact": "Estiene 说 Ysabel 显然计划周末还活着、还在场，因此可以彻底排除自杀",
+   "anchor": "I think we can take suicide off the table for good.",
+   "start": 9163,
+   "end": 9214
+  },
+  {
+   "fact": "Moyna 提出：healer 若被另一 healer 杀死，凶手会被 life-bond 而不是判死刑；这从长期看对城市是笔大钱；Clement 由此想到，那可能意味着有人要栽赃 healer",
+   "anchor": "But if a healer were killed by another healer, they’d be life-bonded instead.",
+   "start": 11200,
+   "end": 11277
+  },
+  {
+   "fact": "Alys 回到 how：Estiene 看过尸体，说头骨有凹陷、有少量血；Alys 推测凶手可能先杀死 Ysabel（用魔法或其他方式），再把现场伪装成摔死",
+   "anchor": "The killer might have tried to make it look like the fall killed her",
+   "start": 13419,
+   "end": 13487
+  },
+  {
+   "fact": "Jehan 说尸体无法做诊断、也无法检查别人是否用过 healing magic；Moyna 却说 Actually. There . . . might be.",
+   "anchor": "“Um,” she said. “Actually. There . . . might be.”",
+   "start": 14535,
+   "end": 14584
+  }
+ ]
+}

@@ -29,7 +29,7 @@ modified: "2026-11-05"
 > **原句 3:** "I don’t think he even slept in his bed. For one thing, it was neat."
 **中文理解**：我怀疑他压根没在床上睡过。理由之一：床是整齐的。
 **关键词**：his bed / it was neat / For one thing
-**为什么这样写**：让的失踪用「整洁」宣判：全库最著名的邋遢王的床居然平整——反常即证据。这条细节同时是人物学的续写：他的乱是活着的痕迹，整齐是离开的痕迹。
+**为什么这样写**：让的失踪用「整洁」宣判：全书最著名的邋遢王的床居然平整——反常即证据。这条细节同时是人物学的续写：他的乱是活着的痕迹，整齐是离开的痕迹。
 **读者视角提示**：与布拉沃传票的时间线（Lantern Night 的 last night）对表：让昨天夜里就该到场、他去了、然后呢？桌上的纸被留下（故意的？）——他在给同伴留线索。让比所有人都相信他们会来找他。
 
 > **原句 4:** "Estiene blanched. He looked more upset now than when he’d been arrested for murder."

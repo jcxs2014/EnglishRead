@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch10",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch10_ten.txt",
+ "facts": [
+  {
+   "fact": "Moyna 抢先抓走粉笔盒，自己承认多半是出于小气",
+   "anchor": "She snatched up the box mostly out of pettiness.",
+   "start": 1278,
+   "end": 1326
+  },
+  {
+   "fact": "小组商定：Alys 负责病史并开始诊断；拿着粉笔的 Moyna 统筹治疗，除非病例她不熟悉",
+   "anchor": "They agreed amongst themselves that Alys would take the history and start diagnostics",
+   "start": 2213,
+   "end": 2298
+  },
+  {
+   "fact": "考卷只写：治好这名病人的伤，且不得使用镇静剂",
+   "anchor": "Heal this patient’s injury. You will not have access to sedation tonics.",
+   "start": 4137,
+   "end": 4209
+  },
+  {
+   "fact": "Luisa 的脚踝是三年前从树上摔下时摔断的，愈合花了很久，至今仍疼且僵硬",
+   "anchor": "The ankle had been badly broken three years ago in a fall from a tree",
+   "start": 5702,
+   "end": 5771
+  },
+  {
+   "fact": "Alys 报 Luisa 心跳变慢后，Moyna 听 Clement 数到三，把自己的魔法收回体内，转去接手监测并给心脏起搏",
+   "anchor": "Moyna took her magic back within herself, waited for the three, and—out.",
+   "start": 12623,
+   "end": 12695
+  },
+  {
+   "fact": "治疗成功后，Luisa 抓起拐杖往墙上砸，直到拐杖裂开",
+   "anchor": "picking up her crutch and smashing it against the wall until it splintered",
+   "start": 14684,
+   "end": 14758
+  },
+  {
+   "fact": "Jehan 承认自己曾跟 Ysabel 谈过很多研究，她还要求他示范这项手法",
+   "anchor": "I told you, we talked about my research a lot. She asked me to show her how to do it.",
+   "start": 17232,
+   "end": 17317
+  },
+  {
+   "fact": "邮局账本显示，那批延迟投递的信件由某人付了款，付款人至少署名 Ysabel Caudotte",
+   "anchor": "paid for by someone who’d at least signed themself Ysabel Caudotte",
+   "start": 20767,
+   "end": 20833
+  }
+ ]
+}

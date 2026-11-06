@@ -1,0 +1,268 @@
+{
+  "chapter": 24,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bodies-of-magic-by-freya-marske/ch24 a good why.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bodies-of-magic-by-freya-marske/text/ch24_twenty_four.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“You hear incorrectly.”",
+          "ok": true,
+          "pos": 1433
+        }
+      ],
+      "words": 3
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "You can’t complain when you’re looked at, now",
+          "ok": true,
+          "pos": 2641
+        }
+      ],
+      "words": 8
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "Not particularly,\" said Jourdain",
+          "ok": true,
+          "pos": 6269
+        }
+      ],
+      "words": 4
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Deep inside him came another: Would I put it entirely past you to have Ysabel killed in the first place",
+          "ok": true,
+          "pos": 6462
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“—and you’re not the son of townies or anthem larks, for whom simply graduating as a healer would be enough to celebrate",
+          "ok": true,
+          "pos": 7195
+        }
+      ],
+      "words": 33
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Because if any of the others had been framed, then Estiene and Alys could have rallied their families’ resources to push",
+          "ok": true,
+          "pos": 10535
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "He’d helped save a life today, and he had not taken one away, even if his hand had gripped the knife and the world thoug",
+          "ok": true,
+          "pos": 11733
+        }
+      ],
+      "words": 26
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 11,
+        "关键词": 0,
+        "为什么这样写": 81,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.58,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.71,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 8,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.95,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.86
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.86
+      }
+    }
+  ],
+  "form": {
+    "h1": "24. Twenty-Four",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 7,
+    "block_median": 8.0,
+    "block_range": [
+      4,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 7,
+    "quote_long": 0,
+    "segments": 7,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2142,
+    "block_target": [
+      4,
+      7
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 8、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

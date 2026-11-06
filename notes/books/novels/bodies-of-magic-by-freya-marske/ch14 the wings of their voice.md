@@ -59,7 +59,7 @@ modified: "2026-11-05"
 > **原句 8:** "And maybe from there Alys could unravel Clement’s hair and drench her fingers in the silky scent of blackcurrants, and Clement could reach through Alys’s skin and rearrange her organs, then put them back neatly and snugly so they didn’t rub, so Alys never again felt like she didn’t fit together right."
 **中文理解**：也许再往后，阿利斯可以解开克莱门特的发辫，让手指浸进黑加仑的丝滑香气里；而克莱门特可以隔着她的皮肤把手伸进去，把她的器官重新排列，再整洁妥帖地放回去，让它们不再彼此摩擦——让阿利斯从此不再觉得自己拼装得不对。
 **关键词**：unravel / drench her fingers / rearrange her organs / didn’t fit together right
-**为什么这样写**：欲望写成一个医疗幻术：被爱=被一位医者温柔地整理内脏——这是全库对「亲密」最奇特也最准的隐喻：她要的从来不是激情，是「有人知道我哪里装错了并愿意修」。黑加仑香与白发辫给幻术提供感官抓手。
+**为什么这样写**：欲望写成一个医疗幻术：被爱=被一位医者温柔地整理内脏——这是全书对「亲密」最奇特也最准的隐喻：她要的从来不是激情，是「有人知道我哪里装错了并愿意修」。黑加仑香与白发辫给幻术提供感官抓手。
 **读者视角提示**：这段接住 ch06 的「身体不报饿」：内感受失灵的人对「被校准」的渴望是生理性的。阿利斯的性觉醒因此与医患关系同构——她挑伴侣的标准是「会不会把我当病人那样认真」。
 
 ## 本章词汇

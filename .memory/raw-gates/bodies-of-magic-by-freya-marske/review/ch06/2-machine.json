@@ -1,0 +1,214 @@
+{
+  "chapter": 6,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bodies-of-magic-by-freya-marske/ch06 tests wearing feathered masks.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bodies-of-magic-by-freya-marske/text/ch06_six.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Alys’s magic created an easing and then a tightening of the tiniest muscles. A shift of fluid from blood vessels out int",
+          "ok": true,
+          "pos": 4708
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "So many things in the world were tests wearing feathered masks, pretending to be something else. Alys was long past the ",
+          "ok": true,
+          "pos": 3113
+        }
+      ],
+      "words": 45
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "But a careful loop of braid covered the white fingerprint mark that bespoke a long course of healing: someone’s fingers ",
+          "ok": true,
+          "pos": 6969
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "If in five years she’d never worked out how to use her magic properly, never been able to bring it under control—how muc",
+          "ok": true,
+          "pos": 7498
+        }
+      ],
+      "words": 52
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "A private healer wasn’t expected to do anything complicated. Simply refer on to the Hospital, perhaps with a meaningful ",
+          "ok": true,
+          "pos": 8124
+        }
+      ],
+      "words": 54
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 44
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 65,
+        "关键词": 0,
+        "为什么这样写": 78,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.94,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.91
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 57,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 67,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 95,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.84
+      }
+    }
+  ],
+  "form": {
+    "h1": "06. Six",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 5,
+    "block_median": 8.0,
+    "block_range": [
+      4,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 5,
+    "quote_long": 0,
+    "segments": 5,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1515,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 8、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

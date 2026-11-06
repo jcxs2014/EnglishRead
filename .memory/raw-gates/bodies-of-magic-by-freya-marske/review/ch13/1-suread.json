@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch13",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch13_thirteen.txt",
+ "facts": [
+  {
+   "fact": "Clement 提议去工匠工坊打听消息；Moyna 与他同去，Clement 觉得她有 Ysabel 那种急切的行动力",
+   "anchor": "Clement was the one who had suggested talking to the artificers in the first place",
+   "start": 955,
+   "end": 1037
+  },
+  {
+   "fact": "Moyna 直问 Clement 是否爱上 Ysabel、是否与她上床、是否想与她上床",
+   "anchor": "Were you in love with her? Fucking her? Wanted to fuck her? What?",
+   "start": 4699,
+   "end": 4764
+  },
+  {
+   "fact": "Moyna 承认自己跟 Jehan 上过床，并称这是 record（明说）的事",
+   "anchor": "“Who I have fucked, for the record,” said Moyna.",
+   "start": 5300,
+   "end": 5348
+  },
+  {
+   "fact": "工坊内发生爆炸；Clement 治疗昏迷的女工匠 Joley（脑震荡），嘱咐 Decroy 让她睡两小时，两天后到庭院诊所复查",
+   "anchor": "Let her sleep a couple of hours if you can, then send her home to rest.",
+   "start": 9988,
+   "end": 10059
+  },
+  {
+   "fact": "Decroy 抱怨院长 Brodier 把大考所需的一切硬塞到教学剧场、限一小时内完成，因为二号考室昨天不能用（因 Ysabel）",
+   "anchor": "make us cram all the Grand Exam necessaries onto the Teaching Theatre yesterday",
+   "start": 10923,
+   "end": 11002
+  },
+  {
+   "fact": "Decroy 说自己当晚在 Rondelle 待得最晚，日落后又待了不超过一小时；proctor geas 与计时器共鸣，午夜生效，门也在那时魔法上锁并设结界",
+   "anchor": "a resonance with the timekeeper, too. It would have come into play at midnight",
+   "start": 19582,
+   "end": 19660
+  },
+  {
+   "fact": "Moyna 说凶手若也是治疗师就不会被判死，而是终身劳役契约——Sieuxerr 可把其劳力卖到任何地方，终身囚禁般看管",
+   "anchor": "We’re too precious. It’s a life-bond instead.",
+   "start": 16349,
+   "end": 16394
+  },
+  {
+   "fact": "Clement 推断 Ysabel 至少日落一小时后才死在二号考室；他们搜遍五年级宿舍公共区找笔记本，没找到，认为凶手已拿走、烧掉或扔进河里",
+   "anchor": "on the floor of Exam Chamber Two until at least an hour past sundown",
+   "start": 20644,
+   "end": 20712
+  }
+ ]
+}

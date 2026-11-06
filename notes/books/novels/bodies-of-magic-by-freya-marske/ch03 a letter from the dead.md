@@ -69,7 +69,7 @@ modified: "2026-11-05"
 **读者视角提示**：记住 burnout 的两个要件（闭环、失控）：宪兵正要用它解释伊莎贝尔的颅骨骨折——这套理论马上要被克莱门特逐条击破。
 
 > **原句 10:** "Being named Dux Scolaris meant one could walk into basically any of the coveted junior specialist-track positions at the Hospital."
-**中文理解**：被 named Dux Scolaris（学生第一名）意味着：医院里那些人人觊觎的初级专科岗位，基本上随你挑。
+**中文理解**：被授予「学生第一名」（Dux Scolaris）称号意味着：医院里那些人人觊觎的初级专科岗位，基本上随你挑。
 **关键词**：Dux Scolaris / coveted / junior specialist-track positions
 **为什么这样写**：一句话讲清排名的兑换率：荣誉直接换编制。这让「伊莎贝尔死了，第一名就轮到埃斯蒂恩」的恶意玩笑有了真实的利益链条——怀疑需要动机，动机就在这句话里。
 **读者视角提示**：排名—职位—出身的兑换体系在本章补完第三块：有钱人（阿利斯）买教训，有后台的人（埃斯蒂恩）等席位，只有第一名是留给「实力」的窄门。

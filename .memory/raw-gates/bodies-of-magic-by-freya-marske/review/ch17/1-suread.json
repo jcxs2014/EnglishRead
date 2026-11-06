@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch17",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch17_seventeen.txt",
+ "facts": [
+  {
+   "fact": "Clement 读出考题：病人是中年女子 Alietta，已发热 5 天，最初 2 天躯干有皮疹；要求用诊断魔法确诊、定治疗方案，并尽力治疗",
+   "anchor": "had a fever for five days, and had a rash across her torso",
+   "start": 2956,
+   "end": 3014
+  },
+  {
+   "fact": "Estiene 诊断花的时间比别人长，最后定为中度的 vermeil fever，并发 secondary microvive pneumonia 造成咳嗽；他问出 Alietta 近日接待过来自 Rese 北部边境的亲戚",
+   "anchor": "I’m diagnosing a moderate case of vermeil fever with a secondary microvive pneumonia",
+   "start": 5814,
+   "end": 5898
+  },
+  {
+   "fact": "Alys 几乎确定是 Ysabel 把她安排进这个考试组；她觉得若自己不说出来，就是在背叛死者",
+   "anchor": "If Alys didn’t speak up, she had the horrid sense that she’d be betraying the dead.",
+   "start": 7308,
+   "end": 7391
+  },
+  {
+   "fact": "Alys 说 Ysabel 在 Hospital 曾照 Dauvillier 的手法试治一名有典型皮疹的 vermeil 病人，但力量不够；随后 Ysabel 让 Alys 试，Alys 的魔力流得比两人预想的久得多，皮疹消失，但她坚持自己没治全；Ysabel 问她为何从没说自己有这么多魔力",
+   "anchor": "It had flowed, and flowed, for much longer than either Alys or Ysabel had expected.",
+   "start": 8955,
+   "end": 9038
+  },
+  {
+   "fact": "Estiene 说 Alys 既然做过、相信自己能做到，就该由她来试；Moyna 随即分派 Tixerrant 负责治疗、Marcelle 负责监测，Savoye 和 Moyna 先治 microvive",
+   "anchor": "Tixerrant to do the healing. Marcelle, you should take monitoring.",
+   "start": 10778,
+   "end": 10844
+  },
+  {
+   "fact": "Alys 先只放细流，后来越放越多，魔力像下坡奔跑；它没有在能力边缘停下，而是形成回路反灌，Alys 几乎 burnout；Clement 拍她脸颊并按节拍数 two in, two out 把她唤回身体",
+   "anchor": "I’m going to keep this beat. Breathe with it. Two in, two out.",
+   "start": 16442,
+   "end": 16504
+  },
+  {
+   "fact": "Alietta 仍坐在木椅上，活着但惊魂未定，脸上布满新的 vermeil 红疹；Moyna 和 Estiene 各抓住她一只手腕；Alys 认定自己把她治得更糟",
+   "anchor": "Her lined face was speckled with a new rash: the red of vermeil.",
+   "start": 17620,
+   "end": 17684
+  },
+  {
+   "fact": "Clement 挡在 Alys 和 Brodier 之间，说她没事、只需恢复时间，自己会陪着她；Brodier 接受，说若有问题就送 Hospital 检查；Alys 说自己失败了，Estiene 说 We failed the case",
+   "anchor": "She’s fine,” Clement said. “Just needs some recovery time. I’ll stick with her.",
+   "start": 20996,
+   "end": 21075
+  }
+ ]
+}

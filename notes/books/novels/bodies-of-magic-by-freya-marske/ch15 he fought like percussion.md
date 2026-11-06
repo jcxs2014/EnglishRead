@@ -35,7 +35,7 @@ modified: "2026-11-05"
 > **原句 4:** "It was certainly one of the few crimes that only a healer could commit."
 **中文理解**：这确实是世上仅有的几桩「只有医者才能犯的罪」之一。
 **关键词**：one of the few crimes / only a healer could commit
-**为什么这样写**：法律视角一句话定调：把魔法定性为「非对称权力」——力量越大，专属罪域越广。chemp强化身体的非法优势是医者特供罪，与 ch13 的 life-bond 刑罚表互为对照：制度的每条缝隙都有对应的天赋。
+**为什么这样写**：法律视角一句话定调：把魔法定性为「非对称权力」——力量越大，专属罪域越广。用魔法强化身体的非法优势是医者特供罪，与 ch13 的 life-bond 刑罚表互为对照：制度的每条缝隙都有对应的天赋。
 **读者视角提示**：这条罪名为后文所有「魔法作弊」疑云（考试、拳赛、甚至谋杀）提供刑法框架：医者犯罪清单是个闭环——本案的真凶大概率也在这张清单上。
 
 > **原句 5:** "Jehan’s frown of concentration melted. He laughed in delight, arms spread as if he were a Palian weather-mage and he’d done it himself. Estiene had forgotten about the rain—or at least stopped hearing it."

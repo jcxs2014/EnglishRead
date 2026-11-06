@@ -51,9 +51,9 @@ modified: "2026-11-05"
 **读者视角提示**：这条理论同样照亮康拉德与伊莎贝尔：他们俩是「法力过剩」的对照组（一个被烧、一个烧了别人）。魔法量与失控风险的正相关，是本书世界观的暗物理。
 
 > **原句 7:** "Ysabel had convinced Konrad to try a new technique, only just published in one of the lesser journals, which included a second healer in one of the traditionally solo healings—the one for Peizerat’s tremor—and required a great amount of power from the primary mage."
-**中文理解**：伊莎贝尔说动康拉德去试一个新技法——刚在某本小期刊上发表——它在一门传统 solo 治疗（佩泽拉震颤）里加入了第二医者，并要求主刀法师输出巨大的法力。
+**中文理解**：伊莎贝尔说动康拉德去试一个新技法——刚在某本小期刊上发表——它在一门传统的独自施治疗法（佩泽拉震颤）里加入了第二医者，并要求主刀法师输出巨大的法力。
 **关键词**：a new technique / a second healer / traditionally solo / a great amount of power
-**为什么这样写**：事故的技术全貌在此摊开：新技法（多医者 solo）+ 主刀超量输出 + 缺乏监护——三件套正是让的半昏术与阿利斯考场的公共要素。伊莎贝尔的实验模式至此成型：她总在「刚发表」与「还没人敢」的窗口期找最强的人试。
+**为什么这样写**：事故的技术全貌在此摊开：新技法（多人合施的独自疗法）+ 主刀超量输出 + 缺乏监护——三件套正是让的半昏术与阿利斯考场的公共要素。伊莎贝尔的实验模式至此成型：她总在「刚发表」与「还没人敢」的窗口期找最强的人试。
 **读者视角提示**：康拉德的遭遇与阿利斯的考场互为镜像：同一个伊莎贝尔在同一个位置上（观众/推手）。她死前那封信让阿利斯「 tackle this case」，几乎是同一场实验的续集——只是这次她安排了监控（埃斯蒂恩）与退路（半昏术）。
 
 > **原句 8:** "“And Ysabel was fine. I was the one left having vomiting fits at random, and bleeding from my gums, and barely able to use my magic for months.”"

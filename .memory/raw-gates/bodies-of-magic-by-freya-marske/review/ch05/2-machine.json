@@ -1,0 +1,457 @@
+{
+  "chapter": 5,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bodies-of-magic-by-freya-marske/ch05 the missing notebook.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bodies-of-magic-by-freya-marske/text/ch05_five.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "When that stopped working, Niesken threw an empty bottle at the gendarmes—missing, luckily—and cried that the Grand Duke",
+          "ok": true,
+          "pos": 1467
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Ysabel loved explaining even more than arguing. She thought all of the awkward, shameful gaps in Clement’s knowledge wer",
+          "ok": true,
+          "pos": 2945
+        }
+      ],
+      "words": 36
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "For thirteen years Ysabel had been the moon that stood between Clement and the dreadful light of being noticed. Ysabel w",
+          "ok": true,
+          "pos": 4928
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "Ysabel had never carved her name, or anything at all, on her library carrel. She’d always intended to leave larger marks",
+          "ok": true,
+          "pos": 6778
+        }
+      ],
+      "words": 26
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "Clement should have demanded to see if Ysabel had left anything up in the gallery, this morning, instead of trusting tha",
+          "ok": true,
+          "pos": 8199
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "Clement’s instincts for people were only good in some areas, but one of them was in sensing a shift toward anger or susp",
+          "ok": true,
+          "pos": 10447
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Ysabel had been of a similar height to them. If startled, if dizzy, if lost in a difficult self-directed healing—could s",
+          "ok": true,
+          "pos": 12392
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Ysabel did like secrets, even though she preferred to keep them inside her own skull than put them down on paper. The no",
+          "ok": true,
+          "pos": 14561
+        }
+      ],
+      "words": 53
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "In death the spark of a person left their flesh and joined the spark of all the dead, which lived in every flame. A cand",
+          "ok": true,
+          "pos": 15949
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "Like the feet of patients with stone-shoe disease, where the nerves shrivelled up and they could have half their toes ro",
+          "ok": true,
+          "pos": 16992
+        }
+      ],
+      "words": 34
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "As Clement had known it would, the magic sensed an echo elsewhere in their body. Tendrils of it found the scarred flesh ",
+          "ok": true,
+          "pos": 18495
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "She’d been one of the first healers to catch it. And then one of the earliest case studies—she’d written it up herself—o",
+          "ok": true,
+          "pos": 24684
+        }
+      ],
+      "words": 47
+    },
+    {
+      "block": "原句13",
+      "no": 13,
+      "segments": [
+        {
+          "text": "But who would ever want to kill Ysabel? You’ve worked in the Hospital. You know that terrible, senseless accidents happe",
+          "ok": true,
+          "pos": 27721
+        }
+      ],
+      "words": 29
+    },
+    {
+      "block": "原句14",
+      "no": 14,
+      "segments": [
+        {
+          "text": "Clement wanted to swear to Adala and Tiphaine, aloud, that they would uncover Ysabel’s murderer and drag them to be puni",
+          "ok": true,
+          "pos": 29396
+        }
+      ],
+      "words": 56
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 75,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.9
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 71,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.73,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 43,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 45
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.93,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.88
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 69,
+        "关键词": 0,
+        "为什么这样写": 69,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 82,
+        "关键词": 0,
+        "为什么这样写": 73,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 56,
+        "关键词": 0,
+        "为什么这样写": 80,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 70,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 50,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 79,
+        "关键词": 0,
+        "为什么这样写": 72,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.89
+      }
+    },
+    {
+      "block": "原句13",
+      "cjk": {
+        "中文理解": 61,
+        "关键词": 0,
+        "为什么这样写": 77,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句14",
+      "cjk": {
+        "中文理解": 80,
+        "关键词": 0,
+        "为什么这样写": 68,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.92,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.89
+      }
+    }
+  ],
+  "form": {
+    "h1": "05. Five",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 14,
+    "block_median": 8.0,
+    "block_range": [
+      4,
+      14
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 14,
+    "quote_long": 0,
+    "segments": 14,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 5212,
+    "block_target": [
+      9,
+      15
+    ],
+    "block_hint": "块数 14 偏离本书常见区间 4–12（本书 39 章中位 8、最高 14（同类书按本书分布判））"
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 39 章中位 8、最高 14（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

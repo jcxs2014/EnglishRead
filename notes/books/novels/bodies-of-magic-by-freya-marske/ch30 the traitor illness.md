@@ -9,7 +9,7 @@ modified: "2026-11-05"
 - **一句话概括**：第四案「叛徒病」考的全是心力：埃斯蒂恩抬眼观礼廊宣示「我属于这里」，阿利斯第一次被自己的身体请下阵，让学会当「开口的水泉」——傍晚收工，康拉德的软肋与阿利斯的屋顶派对一起到账。
 - **情感弧线位置**：五人组的首次「分工合奏」：不再有人硬撑（阿利斯退阵获准、莫伊娜卸锚），位置按真实状态分配——同盟第一次像一支医疗队而不是五个嫌疑人。
 - **Tropes 兑现/反转**：兑现「艰难考题+集体攻坚」；反转是考题的名字（叛徒病）与全组处境同构——身体反抗医者的病，正如制度反抗他们的查案。
-- **人物弧线**：埃斯蒂恩的宣言场（I belong here）；阿利斯的身体边界课（「你允许听它的」）；让的锚手成长（relax your control）；康拉德洗清嫌疑（莉泽特·罗伊的不在场）。
+- **人物弧线**：埃斯蒂恩的宣言场（「我属于这里」）；阿利斯的身体边界课（「你允许听它的」）；让的锚手成长（「放松你的控制」）；康拉德洗清嫌疑（莉泽特·罗伊的不在场）。
 - **叙事手法**：考题结构（判定系统→治一种→定全程方案）正好复刻全组的查案进度（已定位、治标、方案在写）；「叛徒」一词的三层用法（病名/身体/制度）贯穿。
 
 ## 精读
@@ -41,7 +41,7 @@ modified: "2026-11-05"
 > **原句 5:** "the steely, fuck-you willpower that was holding a better normal in mind and forcing the tense muscle fibres to relax into what the body thought was an abnormal looseness"
 **中文理解**：那股钢铁般的、去你的意志力——它把一个更好的「正常」持在脑中，强迫紧绷的肌纤维松弛进身体认为「不正常」的松弛里。
 **关键词**：steely / fuck-you willpower / a better normal / abnormal looseness
-**为什么这样写**：叛徒病的治疗哲学用一句脏话写透：说服身体接受「正确的错」——松弛才是健康。埃斯蒂恩的意志力被命名（fuck-you）:它对病的、也是对他自己人生的（他对父亲、对交易、对被定义的全部回应）。让旁观到的这一幕，等于重新认识了这个人。
+**为什么这样写**：叛徒病的治疗哲学用一句脏话写透：说服身体接受「正确的错」——松弛才是健康。埃斯蒂恩的意志力被命名（「去你的」）：它对病的、也是对他自己人生的（他对父亲、对交易、对被定义的全部回应）。让旁观到的这一幕，等于重新认识了这个人。
 **读者视角提示**：把「a better normal」收进全书词库：它与 ch02 的「拖回正常」、ch17 的「持住健康意象」一脉相承，但加了一个「better」——.normal 不是恢复原状，是比原来更好。这是治愈的定义升级。
 
 > **原句 6:** "“Overachiever,” Jehan muttered, but didn’t falter."
@@ -53,13 +53,13 @@ modified: "2026-11-05"
 > **原句 7:** "Konrad Omeyer had been shut up in his own room studying the night before the Grand Exam, but he’d been kept company the whole time—eyebrow waggle—by a first-year scholar called Lizette Roy. Who was the type to boast about it, but not the type to lie on someone else’s behalf."
 **中文理解**：大考前夜康拉德·奥迈耶把自己关在房里自习，但全程有人作伴——挑眉——一个叫莉泽特·罗伊的一年级学员。此人的类型是：会拿这事炫耀，但不属于会替别人撒谎的类型。
 **关键词**：shut up in his own room / kept company / Lizette Roy / boast about it, but not lie
-**为什么这样写**：情报链的收网动作： gossip 网的精度（妹妹的朋友的测魔师的理发师的表亲）与证词的可信度（炫耀者不撒谎）双保险。康拉德的嫌疑以最市井的方式洗清——本书反复证明：真相往往藏在非正式网络里。
+**为什么这样写**：情报链的收网动作：八卦网的精度（妹妹的朋友的测魔师的理发师的表亲）与证词的可信度（炫耀者不撒谎）双保险。康拉德的嫌疑以最市井的方式洗清——本书反复证明：真相往往藏在非正式网络里。
 **读者视角提示**：康拉德出局后，嫌疑池剩：布罗迪尔（笔记本+直觉）、萨奇（动机薄弱化）、图里（执法者嫌疑）、以及还没露面的「别人」。阿利斯的成果把推理重新推回「笔记本在谁手里」这条主线。
 
 > **原句 8:** "“I’ve already ransacked my family’s supplies for lantern materials. And,” she finished, with a grin, “there’ll be food and drink. Lots of it. If that helps, Jehan.”"
 **中文理解**：「我已经把我家的存货翻了个底朝天找灯笼材料。而且，」她咧嘴一笑收尾，「会有吃的喝的。好多。要是这能帮你下决心的话，让。」
 **关键词**：ransacked my family’s supplies / lantern materials / food and drink / If that helps, Jehan
-**为什么这样写**：派对邀请的阶级语法：阿利斯用自家的物资储备（顺手 ransack）给五个人造一个「临时家」——她终于找到了自家资源的正确用法（不是收买是款待）。对让的加码（有吃的）说明她已经开始按人头定制说服策略。
+**为什么这样写**：派对邀请的阶级语法：阿利斯用自家的物资储备（顺手翻箱倒柜）给五个人造一个「临时家」——她终于找到了自家资源的正确用法（不是收买是款待）。对让的加码（有吃的）说明她已经开始按人头定制说服策略。
 **读者视角提示**：北塔屋顶=案发建筑的正上方：灯笼夜在尸体头顶放灯——这个选址既是浪漫也是挑衅（对凶手：我们知道灯下有什么）。记住这个地点，第三幕大概率回到这里。
 
 ## 本章词汇

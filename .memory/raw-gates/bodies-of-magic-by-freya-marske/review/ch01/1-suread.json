@@ -1,0 +1,55 @@
+{
+ "book": "bodies-of-magic-by-freya-marske",
+ "chapter": "ch01",
+ "text": "notes/books/novels/bodies-of-magic-by-freya-marske/text/ch01_one.txt",
+ "facts": [
+  {
+   "fact": "Sieuxerr 是宽度不足两打英里、以河流命名、全境嵌在 Rese 王国境内的小国",
+   "anchor": "two dozen miles across, named for its river, and enclaved within the kingdom of Rese",
+   "start": 140,
+   "end": 224
+  },
+  {
+   "fact": "面包店主 Emmelot 告诉 Moyna，工匠罢工将是当天上午议事会的第一项议程",
+   "anchor": "It’ll be first on the agenda at council this morning.",
+   "start": 5117,
+   "end": 5170
+  },
+  {
+   "fact": "Moyna 在电车上回答老妇，说自己将去北方的 Camar",
+   "anchor": "I’ll be going to northern Camar.",
+   "start": 8254,
+   "end": 8286
+  },
+  {
+   "fact": "十年前的 serrage 是一场数月内穿过 Sieuxerr 的传染病洪流，几乎没杀死人，却使治疗师劳动力大批失能",
+   "anchor": "serrage was a slow-moving flood, a contagious illness that passed through Sieuxerr",
+   "start": 9404,
+   "end": 9486
+  },
+  {
+   "fact": "考场名单显示 Moyna Apprice 被分到第二考试室、六个时段中的第一个",
+   "anchor": "Apprice, Moyna. Chamber Two. And the first time slot, of the possible six.",
+   "start": 14322,
+   "end": 14396
+  },
+  {
+   "fact": "Estiene Marcelle 是 Head Healer 之子，同学以「我父亲其实就是 Head Healer」来指认他",
+   "anchor": "Estiene my-father’s-the-Head-Healer-actually Marcelle",
+   "start": 16964,
+   "end": 17017
+  },
+  {
+   "fact": "Alys Tixerrant 曾因两门大考不及格而被打入 remediation，并被广泛传言靠性关系摆脱了另外几门不及格",
+   "anchor": "Alys had been stuck in remediation after two major exams",
+   "start": 18389,
+   "end": 18445
+  },
+  {
+   "fact": "Moyna 在考场中央看到 Ysabel Caudotte 摊开的尸体和空洞凝视的双眼",
+   "anchor": "the sprawled, motionless body and blankly staring eyes of Ysabel Caudotte",
+   "start": 21904,
+   "end": 21977
+  }
+ ]
+}
