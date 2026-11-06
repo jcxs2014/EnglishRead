@@ -3,11 +3,12 @@
 - 语料：text/ 30 件零偏移（ch01-ch29 = 书内 Chapter 1-29；ch30 = Hot as Puck Podcast 目录内 bonus 访谈）；verify_corpus PASS（expect 30, --shared Logan,Carson,Levi, 2026-11-06）
 - 装置页处置：Note from the Author / What to read next ×2 → xx_ 剔除；Podcast 在目录页在列且含故事信息 → 收录 ch30
 - 批次节奏：长篇 1 章/次，每章 chapter.sh rc=0 立刻 pathspec commit；每批前 gate.sh
-- 状态：待写 ch01-ch30 + 总览三篇
+- 状态：ch01 试产完毕待用户验收；验收后批量推进 ch02-ch30 + 总览三篇
+- ch01 备注：chapter.sh EXIT=0（⚠️ 块数 14 对建议 7–13，提示型已记不改）；素读 11/11 命中
 
 | 章 | 书内标题 | 状态 | commit |
 |---|---|---|---|
-| ch01 | 1. Chapter One | 待写 | |
+| ch01 | 1. Chapter One | 试产完毕 | 1ffb24b91 |
 | ch02 | 2. Chapter Two | 待写 | |
 | ch03 | 3. Chapter Three | 待写 | |
 | ch04 | 4. Chapter Four | 待写 | |
