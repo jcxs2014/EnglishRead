@@ -76,7 +76,7 @@ modified: "2026-11-06"
 |---|---|---|
 | crestfallen | adj. 失望的、垂头丧气的 | “So it was just satisfactory, huh?” Josie’s expression was so crestfallen, Kaylee almost giggled. |
 | disgruntlement | n. 不满、愠怒 | Roy skidded off her lap and to the ground, watching Kaylee with his eyes narrowed and his ears back, but she ignored his disgruntlement. |
-| intruding | v. 侵扰、闯入 | Kaylee laughed, slapping her friend’s leg gently. “That’s not what I meant; it was just the adrenaline of sneaking in and out and getting chased. We kissed, but then I let my intrusive thoughts get in the way.” |
+| intrusive | adj. 侵入性的、不受欢迎的（intrusive thoughts 侵入性念头） | Kaylee laughed, slapping her friend’s leg gently. “That’s not what I meant; it was just the adrenaline of sneaking in and out and getting chased. We kissed, but then I let my intrusive thoughts get in the way.” |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
