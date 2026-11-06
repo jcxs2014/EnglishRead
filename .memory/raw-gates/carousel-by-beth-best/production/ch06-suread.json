@@ -1,0 +1,49 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch06",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch06_6_the_flight_of_the_hawker.txt",
+ "facts": [
+  {
+   "fact": "科斯默活着出现，阿拉却当众否认认识他，并松开了德雷克的手；她无法把眼前穿军装的陌生人同记忆里的少年重合。",
+   "anchor": "No. I don’t.",
+   "start": 1198,
+   "end": 1210
+  },
+  {
+   "fact": "德泽维斯与维克米在神殿外互相讥讽；阿拉看出两兄弟之间存在痛苦或怨恨，而德泽维斯看似温和无害，靠近却可能中毒。",
+   "anchor": "Your complacency will get you killed one day, brother.",
+   "start": 2113,
+   "end": 2167
+  },
+  {
+   "fact": "阿拉一度想逃跑，德泽维斯直言“你比这聪明”；他承认阿拉的家人只被告知了“真相的一个版本”，她没能好好道别。",
+   "anchor": "a variant of the truth",
+   "start": 4455,
+   "end": 4477
+  },
+  {
+   "fact": "登上“鹰贩”飞船后，德泽维斯介绍拉尔托西激光：无火的光与热，既安全又能推动巨舰；科斯默才是飞行员。",
+   "anchor": "Lartosi laser light",
+   "start": 5164,
+   "end": 5183
+  },
+  {
+   "fact": "起飞时船体剧烈震动，阿拉抓紧长凳；德雷克把手覆在她手上，说“这一向是最难受的部分，我们会没事的”。",
+   "anchor": "This is always the worst part",
+   "start": 7932,
+   "end": 7961
+  },
+  {
+   "fact": "从空中俯瞰，村庄与海滩变得很小；科斯默说“从这里看一切都很小，除了世界本身，它大得难以想象”。",
+   "anchor": "Everything’s small from up here",
+   "start": 9223,
+   "end": 9254
+  },
+  {
+   "fact": "科斯默与德雷克因驾驶争执扭打；科斯默认出德雷克是“龙女号”上弃同伴而逃的逃兵，骂他懦夫，飞船在打斗中开始下坠。",
+   "anchor": "You’re a deserter. A coward!",
+   "start": 14140,
+   "end": 14168
+  }
+ ]
+}
