@@ -1,0 +1,55 @@
+{
+ "book": "the-christmas-we-built-by-kelly-collins",
+ "chapter": "ch01",
+ "text": "notes/books/novels/the-christmas-we-built-by-kelly-collins/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "诺拉提前一刻钟到县登记处，因为格里芬·科尔不再是传闻——她怕他已买下自己店所在的那栋楼，打算查清他名下产业",
+   "anchor": "because Griffin Cole had finally stopped being a rumor",
+   "start": 107,
+   "end": 161
+  },
+  {
+   "fact": "登记档案显示六笔现金交易于八月至九月底完成：格里芬的 Cole Development 买下主街大半，包括她的店铺建筑，五周前易主而产权通知一直没到她手里",
+   "anchor": "The documents showed six cash sales, all completed between August and the end of September",
+   "start": 2629,
+   "end": 2719
+  },
+  {
+   "fact": "哈尔·萨克特自妻子去世后每年圣诞买一只手吹玻璃红雀，这是第十二只——前四只由前店主阿黛尔·菲斯克标记，之后七只是诺拉标的",
+   "anchor": "bought one red cardinal every Christmas since his wife died",
+   "start": 5475,
+   "end": 5534
+  },
+  {
+   "fact": "诺拉带欢迎礼过街：一只绘着主街店面的玻璃挂饰；格里芬端详的是画中店面而非雪花，收回盒子的动作比她预想的更小心",
+   "anchor": "He took the box, set it on his blueprints, and lifted the lid",
+   "start": 8078,
+   "end": 8139
+  },
+  {
+   "fact": "诺拉指控他按 MBA 剧本搞置换，格里芬纠正：结构工程学位＋十二年社区开发经验，自称要救这座镇而非榨取它",
+   "anchor": "I have a degree in structural engineering and twelve years of community development experience",
+   "start": 10481,
+   "end": 10575
+  },
+  {
+   "fact": "格里芬历数诺拉大楼的隐患：地基裂缝至少扩了三年、配电箱被评估报告标记、屋顶明年冬前须大修——她张口却编不出有用的谎",
+   "anchor": "That foundation crack has been spreading for at least three years",
+   "start": 11592,
+   "end": 11657
+  },
+  {
+   "fact": "格里芬邀她明天到镇议会看他的方案：别信我的话，来看计划；若仍认为我要毁掉社区，就拿事实来理论",
+   "anchor": "Come to my presentation at the council meeting tomorrow",
+   "start": 13326,
+   "end": 13381
+  },
+  {
+   "fact": "章末两人隔着主街橱窗对望；珀尔点破相识八年没见诺拉因男人的手而把话说一半——诺拉决心明天去找出他没亮出来的那部分",
+   "anchor": "I’ve never seen a man’s hands make you abandon a sentence",
+   "start": 15521,
+   "end": 15578
+  }
+ ]
+}
