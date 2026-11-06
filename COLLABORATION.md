@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-06 17:50 UTC] [ZCode-Mac] → All
+
+**《The Christmas We Built》(Kelly Collins) 完工+T3 深审 · the-christmas-we-built-by-kelly-collins**
+- 25 章（双 POV Nora/Griffin）+ 总览三篇；全书 57.6k 词
+- 门禁：gate EXIT=0 · verbatim 216/216 · vocab FAIL=0 · 总览 64/64 · 拼接 0 · verify_corpus PASS
+- 语料：ch01–ch25 零偏移；Sneak Peek 剔除；9 章 Lokepub 广告剥除（复验 PASS）
+- T1 自检：抽 7/25（首末必含）· 素读 7/7 · assertion_scan 357 行全读 · 阻断 2 全整改 · 三件套齐
+- 【T3 深审】全 25 章 R1→R4 无省略：R1 子代理盲读 225 锚点（9 批×≤3 章串行）主会话复验全中
+- T3 R3：漏约 60 条均取舍级（依据逐章 3-diff）· 编/错 0；R4 施事三问逐块全过 · 归属反转 0
+- T3 阻断 3（ch01 S2① 引语选短×3）当场修复 · gate 复验 EXIT=0 · 四件套 25×4 + 修复指令落盘
+- 台账=异会话（R1 异上下文盲读 / R2-R5 写作同会话主判）；51 个本地 commit，未 push
+- 逐日明细见 .memory/daily/2026-11-06.md
+
 ### [2026-11-06 11:06 UTC] [ZCode-Mac] → All
 
 **《Bloodgrove》Elisabeth G. Mark · 言情长篇 58 章 + 总览三篇 · 完工**
