@@ -60,7 +60,7 @@ modified: "2026-11-06"
 **中文理解**：欧文宣布：议会愿意赞助集市并推进封街申请，但有一个条件——科尔先生、温特斯女士，你们共同提交一份复兴计划，并联合主席这届圣诞集市。
 **关键词**：one condition、joint recovery plan、co-chair
 **为什么这样写**："Owen took a breath"这个呼吸停顿把行政决定写出宣判感；条款句式工整如判决书，却宣判的是一桩婚约式的绑定——立法语言与言情处境的反差正是本段的喜剧引擎。
-**读者视角提示**：读者在此拿到全书的结构引擎：十八场强制会议、每周三见，两个对头被制度拴在一起——后面每一次靠近都有了借口。
+**读者视角提示**：读者在此拿到全书的结构引擎：十八场强制会议、每周三面，两个对头被制度拴在一起——后面每一次靠近都有了借口。
 
 > **原句 8:** "Someone had taped a chain of red and green paper rings across the gymnasium windows. It sagged in the middle because one strip of tape had peeled away from the glass. One weak point had pulled the whole thing out of line."
 
@@ -95,4 +95,4 @@ modified: "2026-11-06"
 | rearview | （车辆的）后视 | She stayed in my rearview mirror until I turned the corner. |
 
 ## 一句话总结
-格里芬的数据输给了诺拉的文件夹，议会却用圣诞集市的生死线把两人捆成联合主席——从今晚起，他们必须每周三见，直到开幕夜。
+格里芬的数据输给了诺拉的文件夹，议会却用圣诞集市的生死线把两人捆成联合主席——从今晚起，他们必须每周三面，直到开幕夜。
