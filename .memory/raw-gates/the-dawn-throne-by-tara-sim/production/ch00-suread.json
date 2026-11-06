@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch00",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch00_perigee.txt",
+ "facts": [
+  {
+   "fact": "序章起点：第三太阳升过地平线时，神召唤 Imperator Kaspan 前往圣城——神的直接召唤本身即是凶兆",
+   "anchor": "When the Third Sun crossed the horizon, Imperator Kaspan was summoned to the Divine City.",
+   "start": 26,
+   "end": 115
+  },
+  {
+   "fact": "Kaspan 已至少一千次日落没听过神音，先饮酒壮胆再取纯金面具；他的手在颤抖（gangantlets 掩颤）",
+   "anchor": "Months. Years. At least a thousand sunfalls.",
+   "start": 442,
+   "end": 486
+  },
+  {
+   "fact": "专属光速门直达圣城：此地曾是朝圣大庙与圣职者聚居区，如今整座城只剩一个存在——他们的神",
+   "anchor": "Now, it was only inhabited by one being.",
+   "start": 3269,
+   "end": 3309
+  },
+  {
+   "fact": "三位 Imperator 齐聚神前：Ulshära 佩空剑鞘、白发编着骨刺、肩头单羽；Varrick 魁梧佩臂羽；Kaspan 胸前也悬神赐羽毛——神前不得持械",
+   "anchor": "they were not allowed weapons in their god’s presence",
+   "start": 5133,
+   "end": 5186
+  },
+  {
+   "fact": "Phos 从未移动过目光与身体：领域侵蚀一日不解，他就得独坐金座（至少十二英尺高）供能 Solara；双眼泪出金黑体液，胸口心脏位置是焦黑伤口",
+   "anchor": "wept gold and black ichor that dripped steadily onto his skirted lap",
+   "start": 9593,
+   "end": 9661
+  },
+  {
+   "fact": "神宣布要与他们一同重建 Solara 与宇宙，随即施法把羽毛烙进三人血肉（Kaspan 锁骨下/Ulshära 左肩/Varrick 右臂），改口称他们为盾——当年他许诺做他们的盾",
+   "anchor": "YOU ARE MY CHILDREN, MY WARRIORS—AND MY PROTECTORS",
+   "start": 12834,
+   "end": 12884
+  },
+  {
+   "fact": "Kaspan 回 Aurora Tower 扯下面具，见锁骨下烙印弯如微笑；暗影凝成星瞳女子持星尘之剑现身，双声部宣称要在一切开始前终结他",
+   "anchor": "I’LL PUT YOU OUT OF YOUR MISERY BEFORE IT EVEN BEGINS",
+   "start": 17154,
+   "end": 17207
+  },
+  {
+   "fact": "剑穿透身体、劈开新烙的羽毛；血泊里白、猩红与一缕金交融——这位 Imperator 一生第一次见到夜幕降临，序章以弑神方使者的刺杀收束",
+   "anchor": "For the first time in his life, Imperator Kaspan ost Phos witnessed nightfall.",
+   "start": 17404,
+   "end": 17482
+  }
+ ]
+}
