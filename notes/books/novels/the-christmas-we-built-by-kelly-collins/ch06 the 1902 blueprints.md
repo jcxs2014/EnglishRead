@@ -81,7 +81,7 @@ modified: "2026-11-06"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | crates | 板条箱（复数） | Bare bulbs came on over filing cabinets, wooden crates, and archival boxes stacked between the community center’s old stone walls. |
-| hinges | 铰链（复数） | I worked it open with the key Owen had left for me at the municipal office, and the hinges groaned. |
+| creaked | 吱呀作响 | The stairs creaked beneath our weight. |
 | cross-talk | 七嘴八舌，交叉争吵 | It broke into cross-talk. Owen tried to restore order. |
 
 ## 一句话总结
