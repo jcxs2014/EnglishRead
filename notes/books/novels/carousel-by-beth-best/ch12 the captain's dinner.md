@@ -117,7 +117,7 @@ modified: "2026-11-06"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | tumblers | 平底玻璃杯 | Cutlery rattles. Rum is swaying in tumblers. |
-| hibiscus | 木槿，扶桑花 | ...which I recognise as Hevallan hibiscus. |
+| hibiscus | 木槿，扶桑花 | and even fresh, bright red flowers in glass vases, which I recognise as Hevallan hibiscus. |
 | cutlery | 餐具（刀叉勺） | Cutlery rattles. |
 | chandeliers | 枝形吊灯 | Chandeliers are fitted with sticks of laser light rather than candles. |
 

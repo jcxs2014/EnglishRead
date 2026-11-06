@@ -95,7 +95,7 @@ modified: "2026-11-06"
 
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| inane | 空洞的，无聊的 | It feels like the sort of inane conversation we would have back at home in passing, or at the beach... |
+| inane | 空洞的，无聊的 | It feels like the sort of inane conversation we would have back at home in passing, or at the beach, which is where we spent most afternoons just swimming, joking around and talking – often with Eric, too. |
 | taut | 绷紧的 | I feel taut, like my skin is tightening around my muscles. |
 | falters | 动摇，迟疑 | Her smile falters. |
 | humid | 潮湿的，闷热的 | Not helped by how humid it is up here, under the glass. |
