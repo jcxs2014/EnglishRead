@@ -54,7 +54,7 @@ modified: "2026-11-06"
 |---|---|---|
 | rogue | 脱缰的，行止失常的 | They’re cutting ties with Griffin and calling him a rogue developer. Overextended. Irresponsible. |
 | abstained | 弃权 | Ivy and Pearl abstained. Then Owen raised his hand. |
-| protocol | 应急预案，程序 | The emergency protocol gives us until noon. We need the vendor count back above ninety percent. |
+| protocol | 应急预案，程序 | “The emergency protocol gives us until noon,” Owen said. “We need the vendor count back above ninety percent. That is the whole problem.” |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
