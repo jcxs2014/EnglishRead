@@ -1,0 +1,78 @@
+{
+ "chapter": "ch05",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "He worked the whole weekend.",
+   "fact": "Nora 住自己店铺的楼上，所以知道 Griffin 整个周末都在干活：周六夜里十一点她起床喝水时看见老药房里亮着灯，周日早上七点灯又亮着，九点她本说不看第三次、结果还是看了。那个周末生意不错——她卖出四个花环坯、一版复古式灯泡夹，还把一个核桃兵卖给从科瓦利斯来的女客，对方选他是因为画上去的胡子一边翘得更高、显得一副评判的样子。",
+   "start": 29,
+   "end": 57,
+   "agent_start": 29,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Griffin pulled up at seven on the dot",
+   "fact": "周一 Jenna 答应九点开门照看 Winters Wonderland 直到 Nora 回来；Nora 提前十分钟带着夹板、摊位地图到了 Sweet Provisions 的装卸台。Griffin 七点整把车停到，穿着工装牛仔裤、拿着两杯咖啡下车——递给她那杯糖加得足以让蜜蜂重新考虑人生（Pearl 把她的口味告诉了他），自己那杯是黑的；Nora 则带回在 Sweet Provisions 买的肉桂扭条当早餐。他还转达冷库已经修好：Frank 把电机卖给 Pearl 并让她带话“多收了四美元”，说这显然是一句表态。",
+   "start": 935,
+   "end": 972,
+   "agent_start": 935,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The center beam had split.",
+   "fact": "Nora 用 Owen 留在市政办公室的钥匙打开社区中心后面锈住的库房门：便携舞台平台靠在后墙的破油布下——每年 12 月搭建队把它搬上主街、栓在 Frank 父亲 1983 年浇的永久混凝土基座上，松木与胶合板已历经四十二个冬天；中梁完全断裂，裂缝从承重托梁直裂到中间支撑，水渍显示裂缝已长了数月甚至数年。此前步行路上 Nora 讲过自己初到镇上的情形：Ivy 给了她工作、Pearl 给她饭吃、Frank 修好她公寓的暖炉只收六美元好让谁都不必称之为施舍——她说这八年来做的就是不让任何人后悔收留她，而 Griffin 一句“用表格决定哪家值得救”让她觉得整个房间都变得临时起来。",
+   "start": 4853,
+   "end": 4879,
+   "agent_start": 4853,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Then I’ll do it. I spent six summers on my father’s crews",
+   "fact": "平台必须三周内立起来，镇上的搭建队要求 12 月第一周做荷载测试。Frank 已经七十一岁、背从 10 月起就一直不行，Griffin 便接下重建——他曾在父亲的工地干过六个夏天、会用电锯和水平尺，估计一周完成，若替换梁没有现货则要十天；Nora 坚持设计与用料必须经 Frank 认可，Griffin 说他会把结构问题全部记录下来供 Frank 亲自审看，他若想监工更好。",
+   "start": 5767,
+   "end": 5824,
+   "agent_start": 5767,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Frank studied him, then handed over the ladder.",
+   "fact": "随后两人走遍主街：Griffin 拍照、Nora 记录。十点 Frank 抱着延长梯从五金店出来、并没有主动递给他们；Griffin 指出一段檐槽自冰暴以来装反了坡度、挂到了檐口板外而不是按弦线装，Frank 打量他之后把梯子递给了这个不到一周前还当众质问过自己的人；Griffin 在梯上重新装好十一英尺铝檐，用时四十分钟、两人只交谈九个词，修完后 Frank 端咖啡出来、一言不发递上梯子——两个男人用一道修好的檐沟和一杯咖啡言和。",
+   "start": 6804,
+   "end": 6851,
+   "agent_start": 6804,
+   "offset_verified": true
+  },
+  {
+   "anchor": "pressed my lips to the white gauze",
+   "fact": "在 Winters Wonderland 的后办公室——急救箱一直放在收银台下，因为玻璃饰品会碎、随 Adele 的生意一起接手的古董家具到处是利棱——Nora 给 Griffin 因抓梯杆而在右手掌磨出的水泡清创、上药、缠绷带，时间是周一上午十点四十五分；她学祖母的老规矩亲了缠好的纱布一口，声明“那是医疗行为”，又说这招在她六岁以前管用。",
+   "start": 9497,
+   "end": 9531,
+   "agent_start": 9497,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I’m canceling the demolition of those three buildings.",
+   "fact": "Griffin 说要讲两件事、请她先听完好的那件：饲料店、老药房和街角单元这三栋楼取消拆除、改为翻新，“这个决定是最终的”，也不必谢他——这等于改掉整个二期的时间表。",
+   "start": 10303,
+   "end": 10357,
+   "agent_start": 10303,
+   "offset_verified": true
+  },
+  {
+   "anchor": "It’s six weeks of work and the shop has to be empty for five of them.",
+   "fact": "第二件事是 Nora 自己的楼：自上次勘测以来地基移动了八分之三英寸、配电盘过不了任何人认真做的检查；工程要六周、其中五周店铺必须腾空。Nora 反驳：她 61% 的年收入集中在感恩节到圣诞夜之间，关五周不是翻新、“是带着许可证的悼词”；Griffin 说他读过管理公司移交的档案——三年的销售汇总、租金史和催缴通知，“不是什么愉快的卷宗”——他不是要她这个 12 月关门，只是想让她从自己嘴里先听到。",
+   "start": 10931,
+   "end": 11000,
+   "agent_start": 10931,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I was four hundred thousand short in September.",
+   "fact": "Griffin 交底：他是俄勒冈州注册的结构工程师，Cole Development 持有带规定保险的有效商业承包执照，上周五下午已对这栋楼签署盖章评估——名字一旦落在生命安全缺陷上就不能装作没发现，而目前还没有任何人看过它。他 9 月差四十万美元：钱压在波特兰的项目里、公寓的出售又在整街收购成交前的那个周五告吹，Meridian 垫了差额并对全部六块地设有 claim——若 1 月 15 日前不启动已获批的结构工程，Meridian 可按他的成本价买下整条街区；若他先收到正当报价，Meridian 有权跟价；无论如何贷款照欠，这些都写在第九段。旧金山有个人正耐心等着买。他说想让节日办成有六成是因为在意这座镇，另外四成就是站在她店里、告诉她这家店可能不得不熄灯的这个人；临走他停在门口声明本周不会提交那份评估——“这是选择，不是疏忽”。",
+   "start": 12687,
+   "end": 12734,
+   "agent_start": 12687,
+   "offset_verified": true
+  }
+ ]
+}

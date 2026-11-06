@@ -1,0 +1,78 @@
+{
+ "chapter": "ch04",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "four hundred dollars’ worth of butter outranked my walking tour",
+   "fact": "巡街从 Sweet Provisions 开始：冷库故障威胁着价值四百美元的黄油，排在 Griffin 的步行考察之前。Pearl 带他们到步入式冷库前，二十秒后设备发出噪音，与她之前的描述一样准确；Griffin 关掉断路器、拆下通风板、用手转动冷凝风机，判定风扇电机正在失效，交代 Frank 应有替换件、在他更换前不要让设备无人看管运行——Pearl 看表计时，全程四分钟。",
+   "start": 71,
+   "end": 134,
+   "agent_start": 71,
+   "offset_verified": true
+  },
+  {
+   "anchor": "She’s been here thirty-one years.",
+   "fact": "在 Callahan’s Books 门外 Nora 介绍店主 Ivy：她在这里开了三十一年书店，靠专做稀有版本和办镇上唯一用葡萄酒而不是气泡苹果汁的读书会挺过亚马逊冲击。Ivy 还在 Nora 初到 Holly Creek、只带两只行李箱、不知下一步去哪的那天给了她第一份有薪工作，教她操作收银机、与顾客打交道；Griffin 问年收入，Nora 说 Ivy 从不公开数字。",
+   "start": 1370,
+   "end": 1403,
+   "agent_start": 1370,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Published in 1962, out of print since 1978.",
+   "fact": "Ivy 从身后书架抽出一本 Holly Creek 创世家史借给 Griffin——1962 年出版、1978 年起绝版——说想弄清自己在跟什么打交道就从这里开始，叮嘱这算“借阅”、读完归还、别只扫相关数据点，Griffin 承诺每页都读。Ivy 还点破：Pearl 在楼梯上听见 Griffin 与 Nora 争论削减雪橇游览，已告诉 Morrison 太太、对方惊慌打电话来；她告诫先当面去谈、别让人觉得自己被伏击——“信任比主街更难重建”。",
+   "start": 3441,
+   "end": 3484,
+   "agent_start": 3441,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Pearl’s bakery almost closed three years ago",
+   "fact": "Nora 说出 Pearl 面包房三年前濒临倒闭的内情：她已故的丈夫 Danny 被诊断出一种耗尽两人积蓄的病，保险只覆盖一部分、缺口足以压垮他们。商户们随后相护：Margaret Ferris 把她的租金减了百分之四十，Frank 让她的烤炉和水管一直运转、从没送过账单，Ivy 替她付水电，Nora 替她记账；花店店主 Colette Brennan 保管着商户协会的志愿电话树和会议记录，还发起了一场伪装成“shop-local 倡议”的筹款。",
+   "start": 5591,
+   "end": 5635,
+   "agent_start": 5591,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I sold it in oh-nine to a management company in Portland",
+   "fact": "Frank 挡在人行道上自述：这家五金店是他祖父亲手所建——木料是自己在旧 Miller 地产上砍的、招牌是手工刻的、经历过三次衰退照常营业；他 2009 年（oh-nine）把店卖给波特兰一家管理公司，此后十六年一直在自家的地板上付租金，而那家公司每年涨租百分之九、从没派人来查过屋顶——这就是他不喜欢买楼的人的原因。",
+   "start": 8200,
+   "end": 8256,
+   "agent_start": 8200,
+   "offset_verified": true
+  },
+  {
+   "anchor": "She organized the whole merchant association in forty-eight hours.",
+   "fact": "Frank 向 Griffin 揭出 Nora 的旧事：Pearl 面包房撑不住时，Nora 在四十八小时内组织起整个商户协会，拿到这条街每位店主的承诺，向镇议会做演示说明 Pearl 倒闭会如何连锁拖垮本地经济，还说服多年不和的人放下恩怨出手相助；她本人不愿谈，只说那是“邻居帮邻居”，Frank 说那是真正的领导力。",
+   "start": 8735,
+   "end": 8801,
+   "agent_start": 8735,
+   "offset_verified": true
+  },
+  {
+   "anchor": "He built forty-one of them.",
+   "fact": "Griffin 坦白家世：父亲建了四十一座条带商场，此人看这条街只会看到“地块整合机会”而且数字上会是对的；他自己花了十二年靠放慢节奏证明自己不像父亲——而 Frank 刚才把他的方法原样描述了一遍，他直到对方说完才认出来。",
+   "start": 10245,
+   "end": 10272,
+   "agent_start": 10245,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Monday morning at seven. We’ll start at the loading dock behind Sweet Provisions and work north.",
+   "fact": "Nora 援引节日章程（联席主席有权任命场地协调人），给 Griffin 一份无薪差事：负责摊位布置、车流组织与基础设施安装，他要听从她、委员会以及仍认定他是来铲平他们生计的商户们的指挥；Griffin 接受，两人约定周一早上七点从 Sweet Provisions 后面的装卸台开始向北干，而 Nora 只有两分钟赶回店里接替 Jenna。",
+   "start": 12569,
+   "end": 12665,
+   "agent_start": 12569,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The Meridian start deadline is January fifteenth.",
+   "fact": "Griffin 用短信向运营总监 Rosie 汇报自己“接了一份工作”，Rosie 回敬“你本来就有工作，你名下有六栋楼”，他答这一份没有报酬、而且向 Winters 女士汇报；Rosie 又转达 Meridian 的开工截止日是 1 月 15 日，Crane 在问他是否重新考虑联合开发的报价，Griffin 回“我知道日期”。",
+   "start": 13733,
+   "end": 13782,
+   "agent_start": 13733,
+   "offset_verified": true
+  }
+ ]
+}
