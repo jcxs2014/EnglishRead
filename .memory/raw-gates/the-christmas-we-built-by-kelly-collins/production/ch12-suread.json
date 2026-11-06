@@ -1,0 +1,55 @@
+{
+ "book": "the-christmas-we-built-by-kelly-collins",
+ "chapter": "ch12",
+ "text": "notes/books/novels/the-christmas-we-built-by-kelly-collins/text/ch12_chapter_12.txt",
+ "facts": [
+  {
+   "fact": "五点四十的召集：Calloway 家（最大餐车、十二年全勤）退出——韦斯·卡洛韦的母亲周日深夜在 Bakersfield 中风、全家今晨驱车南下；退款在韦斯道歉完之前就办好了；热食服务损失约四成（三天正餐+两场早餐）",
+   "anchor": "Wes Calloway’s mother had a stroke in Bakersfield Sunday night",
+   "start": 597,
+   "end": 659
+  },
+  {
+   "fact": "欧文九点二十下命令：今天三点上街挂灯——\"一起、公开地挂东西\"；上一回两人同框是议会互撕；\"让他们看见另一样东西。是不是真的我倒不在乎\"；二百七十七字里的账：还有二十七天找齐三成一的餐食缺口",
+   "anchor": "Together, publicly, hanging things.",
+   "start": 3645,
+   "end": 3680
+  },
+  {
+   "fact": "黄昏后台的交付：他自认不会\"合伙\"——十二年九个镇九套家具出租屋；冬装至今锁在车里（妈妈 2011 年寄的帽子转寄过四个地址），\"每一年都想，等知道要待多久再拿出来\"\"结果我到了一个拥有六栋楼的镇子，一路挨冻\"；她攥住他的冷指头：\"今晚就把箱子搬进来。你允许自己在知道死在哪里之前先戴帽子\"",
+   "anchor": "My winter things are still in a box in the car.",
+   "start": 7716,
+   "end": 7763
+  },
+  {
+   "fact": "街心之吻：谷仓那次是私下，这次满街可见而他没有迟疑——半条主街\"带着早就看出来的满足感\"围观；分开时她的手在抖、他的拇指还停在她下颌、谁都没退",
+   "anchor": "This kiss was public.",
+   "start": 8572,
+   "end": 8593
+  },
+  {
+   "fact": "告白试探：\"你再这样下去我会爱上你\"\"我乐意有机会挣到它\"\"你说得像它带电子表格\"\"不——我说的是，它是我第一件没法排进日程就想要的东西\"",
+   "anchor": "I could fall in love with you.",
+   "start": 9620,
+   "end": 9650
+  },
+  {
+   "fact": "摊牌：他九月就知道自己签了什么；克雷恩是 11 月 19 日周三、莫里森家车道上打来的电话——她正走进谷仓；\"我接完电话进来，听完了莫里森太太讲的一切，然后绝口不提他\"",
+   "anchor": "Crane called Wednesday the nineteenth, in Mrs. Morrison’s driveway, while you were walking into the barn.",
+   "start": 10837,
+   "end": 10942
+  },
+  {
+   "fact": "他的真话（\"我想再要一天\"）：\"然后一直想要再多一天。等到告诉你时，我已经拖了六天\"；她的镜像自白：\"五月库房顶漏雨我也这么干——瞒着珍珠直到找好修补队；那是个非常好的借口，好用到最后不好用\"",
+   "anchor": "Then I kept wanting one more. By the time I told you, I’d taken six days.",
+   "start": 11819,
+   "end": 11892
+  },
+  {
+   "fact": "她的破例声明：\"明天进委员会我们专业、客气、缺三成一餐食——之后我要一天没人塞截止日期的日子\"\"别说了。我没走。我要你注意到我没走——八年的惯性感说此刻我该已经上车一半了\"；珍珠递来的可可插着拐棍糖（=判定今晚很难、不讨论），章末灯火自北向南依次亮起——弗兰克早上重设了每个计时器，\"弗兰克从不迟到\"",
+   "anchor": "I want you to notice that I’m not leaving",
+   "start": 12697,
+   "end": 12738
+  }
+ ]
+}
