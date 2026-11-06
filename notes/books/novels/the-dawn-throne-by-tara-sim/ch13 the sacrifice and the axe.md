@@ -38,7 +38,7 @@ modified: "2026-11-06"
 > **原句 4:** "With a quick slice of his hand, he slit their throats with a blade of light. Risha felt whatever was left of their life force flee. “I was sent for you.”"
 
 **中文理解**：他手刃一挥，光之刃割开同僚的喉咙；Risha 感到他们残余的生命力仓皇逃离。「我是为你而来的。」
-**关键词**：slit / fled
+**关键词**：slit / flee
 **为什么这样写**：杀人灭口写成清账——失败的爪牙由主人亲手回收，神械的冷酷在此超过对敌；「为你而来」四个字独立成杀意，把 Part I 的所有遭遇战重构成一场狩猎的收网。
 **读者视角提示**：注意他是「割开同僚」才说这句话的——这份宣言的成本核算里，神方的命也不值钱。
 
