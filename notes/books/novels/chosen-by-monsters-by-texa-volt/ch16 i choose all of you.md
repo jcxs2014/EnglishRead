@@ -155,7 +155,7 @@ modified: "2026-11-06"
 
 **读者视角提示**：对照 ch12 的冷热双吻（办公室偷袭）与本章（全家见证）：同一个组合，从偷偷摸摸到排班上台。吻的公开化=关系的去罪化。
 
-> > **原句 15:** "We close at three. Merek drives me back. Nobody goes home. Tav drags the guest mattress out of the spare room and puts it on the floor in front of the sectional, and when he lies down on it, his feet hang off the end. Merek gets on the long end of the couch behind me with his arm over my waist. Lenart doesn't sleep at night, so he takes the armchair, pulls it up close, and puts my feet in his lap, and opens a book. William sits on the floor beside the mattress with his back against the sectional, close to my head, his wings folded."ighteen.” |
+> **原句 15:** "We close at three. Merek drives me back. Nobody goes home. Tav drags the guest mattress out of the spare room and puts it on the floor in front of the sectional, and when he lies down on it, his feet hang off the end. Merek gets on the long end of the couch behind me with his arm over my waist. Lenart doesn't sleep at night, so he takes the armchair, pulls it up close, and puts my feet in his lap, and opens a book. William sits on the floor beside the mattress with his back against the sectional, close to my head, his wings folded."
 | calendar | 日历 | You’re about to put Trouble on a calendar. |
 | finished | 吃完了、完成了 | Billy Bob finished his prescription food in about ninety seconds. |
 
@@ -191,3 +191,5 @@ modified: "2026-11-06"
 ## 一句话总结
 
 家宴即成立大会：二十人份的短肋排、彩色的日历（她「没有颜色」）、人生第二次演讲——「我要你们四个全部，我选它」；四个回答四种形制（Lenart 的百年计划、Merek 的「喜欢被选中」、Tav 的掌覆全手、William 的「无聊的年份」），五条家规与沙发四连吻之后，午夜界石四人陪站、闭店无人回家——床垫、沙发、扶手椅、床头地板，五人一狗的第一夜。
+
+**关键词**：Nobody goes home / puts my feet in his lap / the guest mattress / his wings folded

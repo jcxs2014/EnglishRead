@@ -57,7 +57,6 @@ modified: "2026-11-06"
 
 > **原句 5:** "“That's why you wouldn't let me walk you to your car.” He's half talking to himself. His eyes go to my hands, where they're resting on the edge of the window, and I know what he's thinking about, because I'm thinking about it, too. “Six hours ago, I couldn't get your fingers warm. And then you came out here.” “It's not that cold.” “Your breath is fogging the glass.” It is. I hadn't noticed."
 
-
 **中文理解**：「所以他才不让我送你到车边」他在自言自语；他的目光落在她搭在窗沿的手上——两人想着同一晚的冷库。「六小时前我把你的手指焐不热，然后你就跑来这里」；她嘴硬说没那么冷，他只指出玻璃上的雾——确实，她自己都没注意到。
 
 **关键词**：Six hours ago / fogging the glass
