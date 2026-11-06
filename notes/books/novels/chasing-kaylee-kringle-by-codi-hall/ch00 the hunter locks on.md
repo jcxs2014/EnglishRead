@@ -10,7 +10,7 @@ modified: "2026-11-06"
 - **情感弧线位置**：序章不进爱情线——它是悬疑引擎的点火器：男女主尚未同框，先让读者拿到「她被盯上了」的寒意。
 - **Tropes 兑现/反转**：兑现「开场即猎人」的惊悚钩子；反转在于这个带着掠食者语气的猎手身份被作者扣住不发——直到 ch02 才报出全名 Rick Diaz（跨章，标 ch02）。
 - **人物弧线**：追踪者的起点姿态：有工具、有流程、有耐心；Kaylee 此刻只存在于屏幕里，是被凝视的目标。
-- **叙事手法**：OSINT 式写实监控链（多屏比对→反向溯源→谷歌定位→车程换算）；全章一页、无场景切换的冷开场。
+- **叙事手法**：写实监控链（多屏比对→反向溯源→谷歌定位→车程换算）；全章一页、无场景切换的冷开场。
 
 ## 精读
 > **原句 1:** "An eerie blue glow hung over the dark room, cast by the three monitors, each simultaneously running various programs. Diaz sat in front of them and straightened abruptly when the first screen stopped on a picture, the red oval highlighting a face in the crowd."

@@ -33,6 +33,16 @@ modified: "2026-11-06"
 
 **读者视角提示**：跨两个州＋几天蹲守＝他有一份正式的差事要办（她到底欠了谁的账，本章不揭）；「directly across from him」——她每天上班都从他眼前经过，两年的逃亡在物理距离上只隔一条街。
 
+> **原句 3:** "Diaz grinned, anticipation coursing through him. “Showtime.”"
+
+**中文理解**：Diaz 咧嘴一笑，期待感涌遍全身——「好戏开场。」
+
+**关键词**：grinned、anticipation、Showtime
+
+**为什么这样写**：全章收在一声幕布拉起的口令上——他把自己的追捕当成一场演出预告；「anticipation coursing through him」是本章唯一一次身体诚实，恨意与兴奋共用同一条神经。
+
+**读者视角提示**：Showtime 与 ch00 的「See you soon」构成他的两句口头禅——一句对着她、一句对着自己；这声口令的下一次兑现，就是 ch03 那杯 latte。
+
 ## 本章词汇
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
