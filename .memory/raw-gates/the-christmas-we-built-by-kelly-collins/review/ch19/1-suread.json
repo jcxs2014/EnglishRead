@@ -1,0 +1,78 @@
+{
+ "chapter": "ch19",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "The committee had voted Tuesday to request reinstatement. It was Wednesday, and the insurer still had not answered.",
+   "fact": "委员会已于周二投票决定申请恢复节日；到周三承保人仍未答复——此前被中止的节日正等待复办批复。",
+   "start": 251,
+   "end": 366,
+   "agent_start": 251,
+   "offset_verified": true
+  },
+  {
+   "anchor": "We had twelve days until the scheduled opening. Mrs. Morrison had left three voicemails before seven",
+   "fact": "距离节日原定开幕只剩十二天；莫里森太太在早上七点前连留三条语音留言，主动提出把自家谷仓用作节日物资存放处。",
+   "start": 367,
+   "end": 467,
+   "agent_start": 367,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Pearl texted a bakers’ collective at five forty. Dale Henderson and his wife, Ruth, emailed at eleven",
+   "fact": "珍珠清晨五点四十给面包师联合会发了短信；戴尔·亨德森和妻子露丝前夜十一点发来邮件认领可可车，说“可可包在我们身上，随时吩咐”。",
+   "start": 515,
+   "end": 616,
+   "agent_start": 515,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The suspension was mine.",
+   "fact": "诺拉站在全体委员面前承认：中止节日的决定是她本人作出的——不是卡洛威家，不是 Meridian，也不是格里芬。",
+   "start": 2865,
+   "end": 2889,
+   "agent_start": 2865,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Five days earlier, I had told Owen to call the vote that suspended the festival I had organized my life around.",
+   "fact": "诺拉回想：五天前正是她让欧文发起那份中止节日的投票，而这个节日本是她此前全部生活所围绕的轴心。",
+   "start": 2315,
+   "end": 2426,
+   "agent_start": 2315,
+   "offset_verified": true
+  },
+  {
+   "anchor": "My merchant grant requires the festival. Without it, I may not make rent in January and February.",
+   "fact": "诺拉向大家交底：她的商户补助金以节日存续为前提，否则一二月的店租可能付不起——她要大家在知情的前提下再决定是否帮忙。",
+   "start": 4119,
+   "end": 4216,
+   "agent_start": 4119,
+   "offset_verified": true
+  },
+  {
+   "anchor": "she’d bring the horses on the twenty-second if somebody confirmed the insurance by Friday",
+   "fact": "莫里森太太举手承诺：只要周五前有人确认好保险，她就在22日把马带来；欧文当场领走许可与保险文书，在自己名字旁写下“binder in hand by Friday”（周五前拿到保险承保函）。",
+   "start": 5485,
+   "end": 5574,
+   "agent_start": 5485,
+   "offset_verified": true
+  },
+  {
+   "anchor": "By the end, nine people shared the work that I had tried to carry alone.",
+   "fact": "弗兰克一句“早该如此”让诺拉坐下（“你在这个房间里已经站了八年”），会议开了两小时；最终九个人分担了诺拉原本想独自扛下的工作，她把名单上自己的名字划到只剩一个。",
+   "start": 6232,
+   "end": 6304,
+   "agent_start": 6232,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Owen got the reinstatement request logged before noon",
+   "fact": "会后艾薇来电：欧文中午前已把复办申请登记在案，承保人拿到了卡洛威家签署的协议和完整供应商名单并同意加急审核，欧文预计周五上午出结果；惠特莫家重新加入后，供应商数量已高过最低线一户——艾薇总是第一个挂电话。",
+   "start": 6620,
+   "end": 6673,
+   "agent_start": 6620,
+   "offset_verified": true
+  }
+ ]
+}

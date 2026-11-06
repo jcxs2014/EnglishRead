@@ -1,0 +1,78 @@
+{
+ "chapter": "ch21",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "Thirteen days had passed since the committee voted to bring the festival back. In two and a half hours",
+   "fact": "距委员会投票让节日回归已过去13天；再过两个半小时就将见分晓——那是奇迹，还是一种当众出错的昂贵方式。节日当天早上七点半，格里芬已第三次检查了 Holly 街与 Third 街交口的接线。",
+   "start": 169,
+   "end": 271,
+   "agent_start": 169,
+   "offset_verified": true
+  },
+  {
+   "anchor": "bolted to the concrete footings Frank’s father had poured in 1983.",
+   "fact": "基础设施全部就绪：替换灯串的暖光与旧灯相同、能撑满整整三天——不像2019年的原装灯串第二晚就撂挑子；重建舞台稳立主街中央，螺栓固定在弗兰克父亲1983年浇的混凝土地基上；路口花环满跨无暗段——消防区的升降卡车周二来过，四条大汉在40英尺高空为扎带吵了一个小时，珍珠用桶把咖啡吊上去。",
+   "start": 649,
+   "end": 715,
+   "agent_start": 649,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Volunteers are in position. The fire marshal signed off yesterday, and Owen has the insurance binder in his coat.",
+   "fact": "开门前诺拉替格里芬盘点：供应商就位、志愿者各就各位、消防元帅昨日签字放行、欧文大衣里揣着保险承保函；科莱特没问任何人就把签到移进了室内；大门十点开放，还剩两个半小时。",
+   "start": 1323,
+   "end": 1436,
+   "agent_start": 1323,
+   "offset_verified": true
+  },
+  {
+   "anchor": "That’s the boy who came into my shop with three dollars.",
+   "fact": "正午时分可可车前队伍排到40人之深；诺拉指给格里芬看的，是那个曾带着3美元进店、买两只锡挂坠还要求分开包装“免得显得廉价”的男孩——他今天有6美元，要给三个人买可可，还出声算了两遍账；戴尔只收他4美元：“牌子又不知道你是买给三个人。”",
+   "start": 4007,
+   "end": 4063,
+   "agent_start": 4007,
+   "offset_verified": true
+  },
+  {
+   "anchor": "It was the same phone that had rung on the evening of December fourth, when my father congratulated me",
+   "fact": "十二点半弗兰克来道贺，随后格里芬父亲的电话打进来——上一回是12月4日晚，父亲祝贺他“终于在生意上开了窍”（误以为他接受了 Crane 的收购），他没纠正便挂断；这次已转入语音信箱：父亲说在同事的通讯里读到霍利溪和他的名字，承认“也许我错了”——老楼还站着、修缮尊重原有之物、镇子出了自己那份，还说读到的关于儿子的东西让他骄傲。",
+   "start": 5272,
+   "end": 5374,
+   "agent_start": 5272,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I stood in the alley with the cold coming through my collar and four hundred people singing along",
+   "fact": "格里芬站在舞台后墙与 Donnelly 五金店之间的小巷里听完留言——胶合板另一侧有400人在跟着合唱；他对弗兰克说父亲大概是想认错，“花了他六十年”；弗兰克转述父亲的教诲——值得敬重的是“学得晚却仍肯承认”的人，并建议回电“从 hello 开始”。",
+   "start": 6348,
+   "end": 6445,
+   "agent_start": 6348,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The tree lit at four.",
+   "fact": "圣诞树于下午4点亮起——主街尽头的一棵花旗松（格里芬见过更贵的树）；人群从十开始倒数（都稍稍抢拍），欧文合闸，人群里有位女士不自觉地“哦”出了声；格里芬照例检查了面板负载——正常，却仍多站了一会儿。",
+   "start": 7164,
+   "end": 7185,
+   "agent_start": 7164,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Foundation-accepted local match—22,025. Pearl: cash, 9,000. F. Donnelly: cash, 4,000. I. Callahan: cash, 4,000.",
+   "fact": "五点，Cascade Heritage 的 Patricia Vance 找到格里芬：紧急拨款的两项要件——独立工程师报告、镇已出资证明——霍利溪两样俱全；欧文一早递上的认捐单写着基金会认可的地方配套合计22,025：Pearl 9,000、F. Donnelly 4,000、I. Callahan 4,000、霍利溪镇 3,025、C. Brennan 400、H. Sackett 40、Whitmore 家发电机与柴油折 800、Calloway 家38小时按公布费率折 760；她说从业十一年从没见哪个镇在她开口前就备齐配套；下一步她交报告，理事会1月表决。",
+   "start": 8539,
+   "end": 8650,
+   "agent_start": 8539,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Ten days after I gave it to her, she was still carrying it.",
+   "fact": "天色转蓝时诺拉从人群里出来，大衣口袋里仍揣着他签好的公寓租约副本——他交给她已10天；Vance 的结论是“确认”而非“批准”：1月拨款、附合规时间表，而“钱已经找到了”——由一群负担不起的人在清晨七点的面包房里凑出；合唱响起，诺拉一句“欢迎回家”未落，第三根灯柱的托架整个脱落、花环扣在塞勒姆烧烤摊主身上，她已边跑边喊弗兰克。",
+   "start": 9781,
+   "end": 9840,
+   "agent_start": 9781,
+   "offset_verified": true
+  }
+ ]
+}

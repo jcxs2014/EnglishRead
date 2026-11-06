@@ -1,0 +1,78 @@
+{
+ "chapter": "ch20",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "There were three owners: Ivy Callahan, Griffin Cole, and the Town of Holly Creek, represented by Owen Harper",
+   "fact": "周五早上七点，主街商业街区业主会议在 Sweet Provisions 召开：业主共三位——艾薇·卡洛汉、格里芬·科尔，以及由欧文·哈珀代表、揣着北地块地契的霍利溪镇；22人到场，欧文还带来复办的节日许可和夹在地契上的保险附页，莫里森太太亲自核对保单页并签署了骑乘时刻表。",
+   "start": 231,
+   "end": 339,
+   "agent_start": 231,
+   "offset_verified": true
+  },
+  {
+   "anchor": "It’s a seventy-eight-year-old provision,” I said. The owners voted one at a time. Griffin voted yes for his six parcels.",
+   "fact": "这条业主共担维护的条款已立了78年；表决逐人进行——格里芬为名下六处物业投赞成，艾薇为书店投赞成，欧文把修缮估价重读一遍后也为镇的北地块投了赞成；每份物业摊一份份额，镇上的现金、设备、燃油和劳务可抵扣格里芬六份物业的账单。",
+   "start": 1443,
+   "end": 1563,
+   "agent_start": 1443,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The total came to twenty-four thousand two hundred dollars.",
+   "fact": "修缮账单合计24200美元：无利益关联的独立结构评估6800美元，加固面包房共墙、托换114号西角、加装新全尺寸中央大梁的材料与持证工人劳务17400美元；Rosie 基金会还要求2.2万美元的地方配套（现金加合格可证实物）——格里芬点破“你不需要拨款来干活，你需要这些活去换拨款”；欧文提醒当天已是12月12日，若格里芬1月15日前不能开工，Victor Crane 就会拿走整个街区。",
+   "start": 2596,
+   "end": 2655,
+   "agent_start": 2596,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Before Frank tells you, I rented the apartment over his store for a year. I signed the lease Tuesday.",
+   "fact": "散会前格里芬递给诺拉一只信封：他租下弗兰克店楼上的公寓，租期一年，周二就签了约——签名旁日期是12月9日，租约1月1日生效，那是在工程师到场、筹款开始之前就签好的，“留下来本不该取决于输赢”；他还接受了波特兰公寓的报价、撤回主街再开发计划，改为三年内修缮自己拥有的六栋楼；被问到“27日议会若投反对怎么办”，他答楼也许会输，但他不会离开霍利溪。",
+   "start": 10637,
+   "end": 10738,
+   "agent_start": 10637,
+   "offset_verified": true
+  },
+  {
+   "anchor": "That’s the rest of my husband Danny’s insurance settlement,” she said. “Nine thousand.",
+   "fact": "守了八年的珍珠把亡夫丹尼的保险理赔金余款——整整9000美元——放上了桌：“我一直在等一个分量够的理由，这就是那个理由。”",
+   "start": 6724,
+   "end": 6810,
+   "agent_start": 6724,
+   "offset_verified": true
+  },
+  {
+   "anchor": "At eight forty, the town had pledged twenty-two thousand twenty-five dollars in cash, labor, materials, and fuel.",
+   "fact": "八点四十分，全镇以现金、劳务、材料和燃油认捐共22025美元，比基金会要求的2.2万美元多出25美元，街区够格申请紧急补助；细目包括：镇出3025美元（八分之一，调剂自议会2019年起留存的停车场翻新预算）、艾薇4000美元（1998年起留给自己的初版书变现）、弗兰克口头报2000却开出4000美元支票、科莱特400美元加一份愿登记修缮工时的志愿者名单、惠特莫家发电机与柴油折800美元、卡洛威夫妇38小时按基金会费率折760美元、哈尔·萨克特八点十分进门递上装着40美元的信封；但修缮总价24200美元，仍差2175美元。",
+   "start": 6982,
+   "end": 7095,
+   "agent_start": 6982,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Inside were thirty-nine spiral ledgers, one for every Christmas Eve sleigh ride since Richard started them in 1986.",
+   "fact": "莫里森太太搬来纸箱：里面是39本螺旋账本——自1986年理查德记起每年平安夜雪橇 ride 一本，第40本空白账本在她抽屉里等着今年；方案是把每位乘车人的姓名和年份印成6美元纪念卡在可可车出售，科莱特拍照上架预售；戴尔认捐可可车在节日期间挣得的第一笔1095美元，到中午科莱特已预售180张、按每张6美元共进账1080美元——两笔正好补上剩余的2175美元：修缮资金凑齐、基金会配套达标，格里芬的施工队一开工，Crane 一月就失去拿走街区的权利。",
+   "start": 7503,
+   "end": 7618,
+   "agent_start": 7503,
+   "offset_verified": true
+  },
+  {
+   "anchor": "She spent six hours under three buildings and came up filthy and unimpressed.",
+   "fact": "周日从塞勒姆来的独立结构工程师 Dana Whitlock（P.E.）在楼下查了六小时：面包房角单元的裂缝与1962年的修复标签及镇档案许可照片吻合、量表无新位移；但114号（one-fourteen）西角仍在移动——临时支撑扛住了重量、建筑不会塌，需保持许可、完成托换并监测；她还指出写萨克拉门托报告的工程师量了旧裂缝却略去带日期的修复记录，“那是一种选择”，随后当场站在弗兰克的柜台前给报告盖了章。",
+   "start": 16332,
+   "end": 16409,
+   "agent_start": 16332,
+   "offset_verified": true
+  },
+  {
+   "anchor": "You lose two trading days, not five weeks.",
+   "fact": "格里芬澄清工期：本周日、周一关店两天做加固，之后夜间施工、白天照常营业，节日周一早上七点做最终验收——只损失两个营业日而非五周；至于地板下 crawl space 只有31英寸高，全楼只有诺拉钻得进去，但她只需用粉笔画线，修缮由持证队伍完成。",
+   "start": 10218,
+   "end": 10260,
+   "agent_start": 10218,
+   "offset_verified": true
+  }
+ ]
+}
