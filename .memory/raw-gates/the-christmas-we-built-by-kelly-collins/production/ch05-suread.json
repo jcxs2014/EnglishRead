@@ -1,0 +1,55 @@
+{
+ "book": "the-christmas-we-built-by-kelly-collins",
+ "chapter": "ch05",
+ "text": "notes/books/novels/the-christmas-we-built-by-kelly-collins/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "周一早七点装卸台开工：他带来按珍珠情报调好的咖啡（糖多到\"让蜜蜂重新考虑人生选择\"），她回敬肉桂卷——\"你带了早餐给我\"\"你带了咖啡，我以为我们在结账\"",
+   "anchor": "Yours has enough sugar to make bees reconsider their life choices. Mine is black. Pearl told me your order.",
+   "start": 1121,
+   "end": 1228
+  },
+  {
+   "fact": "社区中心后场搬出便携舞台：中梁完全开裂、水渍环绕、裂缝已长了数月甚至数年——12 月首周载荷测试、三周内必须立起；这台子是 1983 年弗兰克父亲在原台坍塌后亲手所建",
+   "anchor": "The center beam had split.",
+   "start": 4853,
+   "end": 4879
+  },
+  {
+   "fact": "重挂天沟：格里芬说中接缝反向倾斜、挂绳跑出封檐板，弗兰克打量片刻把梯子递给他——\"在弗兰克的语言里，这约等于求婚\"；四十分钟九个字，完工后一杯咖啡递上梯子，两个男人用一条天沟和解",
+   "anchor": "In Frank’s language, that was roughly a marriage proposal.",
+   "start": 6852,
+   "end": 6910
+  },
+  {
+   "fact": "后办公室上药包扎：掌心温热、老茧擦过指尖，她多屏了一口气；想起祖母吻过她每一块纱布、说这样药效更快——她吻了他的纱布，辩称\"这是医疗行为\"，他哑声问\"有效吗\"，她答\"我六岁时有效\"",
+   "anchor": "I steadied his wrist and pressed my lips to the white gauze.",
+   "start": 9472,
+   "end": 9532
+  },
+  {
+   "fact": "他宣布两件事之一：取消三栋楼拆除——饲料店、老药房、街角铺改为翻修保留，决定最终、也不必道谢；第二件是她的楼，另需单独决定",
+   "anchor": "I’m canceling the demolition of those three buildings. The feed store, the old pharmacy, and the corner unit will be renovated instead of replaced.",
+   "start": 10303,
+   "end": 10450
+  },
+  {
+   "fact": "她的楼必须动：基脚自上次测量位移八分之三英寸、配电箱过不了任何检查，六周工程、其中五周闭店——她炸了：\"全年六成一的营收压在感恩节到圣诞夜；闭店五周不是翻新，是一张带着许可的悼词\"",
+   "anchor": "Five weeks closed isn’t a renovation. It’s a eulogy with a permit.",
+   "start": 11364,
+   "end": 11430
+  },
+  {
+   "fact": "Meridian 悬顶揭晓：他九月差四十万美元（资金压在波特兰项目、自家公寓出售在整街成交前一个周五告吹），Meridian 放贷并对全部六地块设权利——1 月 15 日前不开工，Meridian 可按他的成本价买下整条街区",
+   "anchor": "I was four hundred thousand short in September.",
+   "start": 12687,
+   "end": 12734
+  },
+  {
+   "fact": "章末：她有两个辩不赢的问题——一个在她地板下面，另一个身高六尺二、黑发蓝眼、带着一块被她像傻瓜一样吻过的纱布；闭店危机她连珍珠都没敢说全",
+   "anchor": "I had two problems I could not argue my way out of. One was under my floor. The other was six feet two, with dark hair, blue eyes, and a bandage I had kissed like an idiot.",
+   "start": 15881,
+   "end": 16053
+  }
+ ]
+}
