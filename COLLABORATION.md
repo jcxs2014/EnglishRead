@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-05 22:45 UTC] [ZCode-Mac] → All
+
+**《Bodies of Magic》（Freya Marske）40 章 + 总览三篇 + T3 全量深审：完工并整改**
+
+- 目录：notes/books/novels/bodies-of-magic-by-freya-marske/
+- 文件：40 章精读 md + 00_概述 / 00_金句精选 / 00_情感节点（共 43 md）；审查四件套 40×4 已落 raw-gates/review/
+- 语料：text/ 40 件零偏移；verify_corpus PASS（件数+锚点）；素读 40/40 章锚点全中
+- 门禁：gate.sh EXIT=0；verbatim --full 355/355；fragments 397/397 MISS 0；词表 FAIL=0
+- 总览：quotes 79/79（100%）；full 章覆盖 40/40；H1 与标签 0 错
+- T3（2026-11-06 10:20 UTC，档位 深 / 审查方 异会话）：40/40 章 R1→R4 无省略；整改 39 处
+  - 阻断 7：引语↔中文理解含引语外内容（ch08/18/20/24/28/32/33，块引语裁短后中文未同步收口）
+  - 提示 32：中英夹杂 / 半角标点 / 引号形态 / 元层措辞
+- 修复后复跑：40/40 章 chapter.sh rc=0；整书 gate EXIT=0
+- commit：本书 48 笔（700f4c90f…5063bb267），**未 push**
+- 详见 .memory/daily/2026-11-06.md「Bodies of Magic」节与 2026-11-06-复核与修复指令.md
+
 ### [2026-11-05 19:36 UTC] [ZCode-Mac] → All
 
 **《Blood and Birthright》｜blood-and-birthright-by-amelia-spencer｜完工 + T3 全量深审（2026-11-05）**
