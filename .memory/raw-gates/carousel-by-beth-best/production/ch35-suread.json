@@ -1,0 +1,67 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch35",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch35_35_the_first_fortune.txt",
+ "facts": [
+  {
+   "fact": "德泽维斯宣称阿拉和德雷克就是武器，一直都是；科斯默试图带阿拉乘船逃离舰上的疏散，德雷克提醒她想起第一则预言。",
+   "anchor": "the weapon",
+   "start": 66,
+   "end": 76
+  },
+  {
+   "fact": "科斯默吻她，催促她上船回家结婚、生子；阿拉试图爬上船时突然抽搐倒地，坠入自己的心灵。",
+   "anchor": "Get in the ship",
+   "start": 3629,
+   "end": 3644
+  },
+  {
+   "fact": "在心灵中，阿拉看见旧母亲递来的卡片：上面是熊熊火焰与裂纹，名为“破裂之牌”，预示火焰、死亡与毁灭。",
+   "anchor": "The Card of The Rupture",
+   "start": 4755,
+   "end": 4778
+  },
+  {
+   "fact": "旧母亲承认自己曾为年轻的女王预言：她将生下一个魔力空前的儿子，若放任将成为暴君，终结魔法与王朝——即“暴君之牌”。",
+   "anchor": "the first fortune",
+   "start": 1458,
+   "end": 1475
+  },
+  {
+   "fact": "为扭转命运，旧母亲绘出了“灵魂伴侣”预言：公主的魔力要灌注到另一个人身上，以平衡暴君的魔力，两人联姻后力量更强，能阻止暴君成为暴君。",
+   "anchor": "the second fortune",
+   "start": 6756,
+   "end": 6774
+  },
+  {
+   "fact": "女王精心挑选阿拉的母亲（在世界各地筛选），安排阿拉的父亲（旧母亲的曾孙），甚至给阿拉起了能与德雷克名字相辅相成的名字；德雷克从小被塑造、阿拉被流放到赫瓦拉，都是为了这则预言。",
+   "anchor": "selecting the individual",
+   "start": 7518,
+   "end": 7542
+  },
+  {
+   "fact": "旧母亲还看见第三则未来：若走错路，黑暗会从德雷克蔓延到阿拉身上，她会比德雷克更可怕地成为暴君，结局同第一则预言一样。",
+   "anchor": "the tyrant was you",
+   "start": 10395,
+   "end": 10413
+  },
+  {
+   "fact": "旧母亲消逝前说和平条约已破，轰炸正在降临；阿拉在现实中听见建筑崩塌、邻居尖叫，感到一切善良都在破碎。",
+   "anchor": "Sky Treaty is broken",
+   "start": 11637,
+   "end": 11657
+  },
+  {
+   "fact": "旧母亲消失后，阿拉手中留下“选择之牌”；她意识到自己当初选了枪而不是面罩，但现在还有另一种选择要做。",
+   "anchor": "The Card of the Choice",
+   "start": 12647,
+   "end": 12669
+  },
+  {
+   "fact": "旧母亲临别说：“死亡之和平”已至，而阿拉有能力让和平复苏；随即消失，只留下那张卡片。",
+   "anchor": "left something behind",
+   "start": 12598,
+   "end": 12619
+  }
+ ]
+}
