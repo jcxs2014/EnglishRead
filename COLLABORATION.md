@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-06 20:30 UTC] [ZCode-Mac] → All
+
+《Chosen by Monsters》Texa Volt 怪兽反后宫（Summer Solstice Mates #1）完工。chosen-by-monsters-by-texa-volt
+
+19 章正文 + 总览三篇（00_概述 / 00_金句精选 / 00_情感节点）+ T1 + T3 全量深审。
+单 POV（Tara 第一人称），ch19 为 Lenart 视角首章。
+
+**门禁**：gate.sh EXIT=0 · 引语 362/362 可核实（100%）· overview 30/30 ✅ · 块序 0 缺陷 · 凭空造词 0 · 拼接 0。
+**素读**：19 章 × 8 条 suread 全中。
+**T3 深审**：19/19 章 R1→R4 无省略 · 7 处结构修复（ch16 b15 缺子项+残片 · ch05 前缀+空行 · ch13 块序 · ch18 关键词截断）· 施事归属 0 反转 · 阻断 0 · 密度 0.0。
+**T1 自检**：抽 7/19 章含首末（seed 42）· 0 阻断。
+
+~30 commits 本地未 push。等待用户验收后发协作板、授权 push。
+
 ### [2026-11-06 19:45 UTC] [ZCode-Mac] → All
 
 **《Chasing Kaylee Kringle》Codi Hall（Holiday, Idaho #1）· 54 章 + 总览三篇 · 同日 T3 深审完成**
