@@ -87,7 +87,7 @@ modified: "2026-11-06"
 > **原句 11:** "As I accepted the puck from Coach, I finally felt as if I'd found my place on the team. And I knew that was in no small part due to Logan. She'd given me tips on how to connect with some of the guys, she'd continually encouraged me, and she made me a better player."
 
 **中文理解**：接过 game puck 那刻，他终于觉得在队里有了位置——而这与 Logan 关系不小：她教他怎么跟队友搭上话，一直给他打气，还让他成了更好的球员。
-**关键词**：game puck、found my place、in no small part due to Logan
+**关键词**：accepted the puck、found my place、in no small part due to Logan
 **为什么这样写**：荣誉时刻主动分账——把功劳划给她的三次助力，感恩与爱意在同一段里完成并轨。
 **读者视角提示**：ch02 船屋求助的那条线在此清账——他从"打不进圈子"打到"全队喊他的外号"。
 
