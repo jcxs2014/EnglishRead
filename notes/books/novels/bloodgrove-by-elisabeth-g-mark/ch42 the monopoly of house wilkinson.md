@@ -76,7 +76,7 @@ modified: "2026-11-05"
 | farce | n. 闹剧；滑稽戏 | “I know. Formally renounce your candidacy. Put an end to this farce.” |
 | flaunt | v. 炫耀；夸示 | And all these gifts—as though he meant to flaunt it in my face. |
 | notoriously | adv. 臭名昭著地；出了名地 | Will could only explain the duke's willingness to marry someone as notoriously scandalous as Elodie because he truly feared she might challenge him for the office of Red Hand. |
-| winged | adj. 有翼的（原章语境 messengers） | On the shortest day of the year, the gods had sent their messengers to bring light into the world. |
+| messengers | n. 使者；信使（messenger 的复数） | On the shortest day of the year, the gods had sent their messengers to bring light into the world. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

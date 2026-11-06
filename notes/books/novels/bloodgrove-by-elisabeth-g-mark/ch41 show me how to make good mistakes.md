@@ -82,8 +82,8 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | crunched | v. 嘎吱作响地踩（crunch 的过去式） | Hesitantly, he took several steps toward her. Snow crunched beneath his boots, and his breath formed white clouds. |
-| handful | n. 一把；少量 | Her tongue brushed his lips, asking to be let in, and together they sank into fresh heat. The cold air and unforgiving stone reminded Will of the frozen depths from which Elodie had rescued him with the fire of her body. |
-| gagged | v. 作呕；干呕（gag 的过去式） | The storm broke over him. Lightning tore through his body. With a curse, he spilled into her throat. Every sensation vanished except the point where her mouth held him. His head fell back, her name a blasphemy on his lips. |
+| unforgiving | adj. 无情的；不留情的 | Her tongue brushed his lips, asking to be let in, and together they sank into fresh heat. The cold air and unforgiving stone reminded Will of the frozen depths from which Elodie had rescued him with the fire of her body. |
+| spilled | v. 溢出；洒出（spill 的过去式） | The storm broke over him. Lightning tore through his body. With a curse, he spilled into her throat. Every sensation vanished except the point where her mouth held him. His head fell back, her name a blasphemy on his lips. |
 | curtain | n. 窗帘；帷幕 | “Here?” Again, he looked over his shoulder, but the snow hung like a curtain between them and the lights. |
 
 ## 一句话总结

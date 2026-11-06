@@ -83,8 +83,8 @@ modified: "2026-11-05"
 |---|---|---|
 | skull | n. 头骨；骷髅 | The skull, half beak and half wolf's face, rose above the bed as the monster crawled toward Will. |
 | blanket | n. 毯子；毛毯 | A claw settled on Will's chest and slowly drew down the blanket. |
-| hip | n. 臀部；髋部 | So he had no right to complain when the webbed paw, tipped with long nails, closed possessively around his waist and pulled him closer. |
-| paw | n. 爪子；脚爪 | A claw settled on Will's chest and slowly drew down the blanket. |
+| waist | n. 腰；腰部 | So he had no right to complain when the webbed paw, tipped with long nails, closed possessively around his waist and pulled him closer. |
+| claw | n. 爪；爪子 | A claw settled on Will's chest and slowly drew down the blanket. |
 
 ## 一句话总结
 赤身敞帘候神、舞会夜的小割伤换来「你守约了」——「红王」一名让神收爪悬身、近乎人类地不悦；嫉妒是王的病与独囚（腐蚀、与贪婪成婚、越喂越空），「你是他囚禁的造物之一吗」换回更紧的攥握——神允了计划却把答案留给他：「正如你曾经解放过我。」

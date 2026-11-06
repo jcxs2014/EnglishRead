@@ -51,7 +51,7 @@ modified: "2026-11-06"
 
 > **原句 7:** "In the Red Hand's castle, the walls had felt alive. Here, they truly were. Muscles, tendons, and veins stretched across every surface, leaving not a single inch bare."
 **中文理解**：红手的城堡里，墙「感觉」是活的；这里，它们真的是。肌肉、腱与静脉铺满每一寸表面，没有一处是裸露的石。
-**关键词**：truly were alive / Muscles, tendons, and veins / not a single inch bare
+**关键词**：truly were / Muscles, tendons, and veins / not a single inch bare
 **为什么这样写**：前文所有「墙体生物化」的伏笔在此完成兑现：不是比喻、不是魔法装饰——是字面意义上的肉体。这座城的建筑史原来是解剖学。
 **读者视角提示**：接 ch17 「有心跳的墙」、ch30 「温热的石」、ch22 「宅子的脏腑」：三部曲在此收束。请把这条隧道记成「王」的身体——红王是这座城的肉身，这条隧道是他的肠道。
 

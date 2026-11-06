@@ -85,7 +85,7 @@ modified: "2026-11-06"
 |---|---|---|
 | harness | n. 挽具；马具 | The sleigh lurched into motion, and they were away, silent but for the bells upon the harnesses. |
 | gorge | n. 峡谷；隘谷 | Around noon, they paused at a bridge spanning a gorge, though the sun was scarcely more than a pale point behind the heavy clouds. |
-| frozen | adj. 冰冻的；冻结的 | No matter how long the journey lasted or how fiercely the cold threatened to freeze his nose, he enjoyed being alone with Elodie again, unobserved. |
+| freeze | v. 冻结；冻僵 | No matter how long the journey lasted or how fiercely the cold threatened to freeze his nose, he enjoyed being alone with Elodie again, unobserved. |
 | sleigh | n. 雪橇 | One week later, they climbed into a sleigh that looked like a winter forest, black and gnarled, the four horses before it carved from the same wood. |
 
 ## 一句话总结

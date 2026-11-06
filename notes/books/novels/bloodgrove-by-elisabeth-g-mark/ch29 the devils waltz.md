@@ -103,7 +103,7 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | balustrade | n. 栏杆；扶栏 | “Mr. Arcos.” Will leaned against the balustrade. |
-| bare | adj. 裸露的；赤裸的 | Perhaps he had learned nothing after all. So exposed, he seemed almost to challenge the guests to cut him open and subjugate him with his own blood. |
+| exposed | adj. 暴露的；无所遮蔽的 | Perhaps he had learned nothing after all. So exposed, he seemed almost to challenge the guests to cut him open and subjugate him with his own blood. |
 | glance | v. 瞥视；扫视 | A strange sound, like metal hitting metal, made him pause and glance over his shoulder. |
 | stumble | v. 踉跄；失足 | Mr. Arcos stumbled. It took several steps for him to recover. |
 

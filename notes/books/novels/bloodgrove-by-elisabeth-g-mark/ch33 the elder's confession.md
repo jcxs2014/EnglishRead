@@ -90,7 +90,7 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | restraints | n. 束缚物（restraint 的复数） | His hands clenched into fists, the restraints eating into his flesh. |
-| perch | v. 栖息（原文作 crouched） | “Why are you so different?” the vampire asked, and when he tilted his head, he became entirely animal again. A predator crouched over its prey. |
+| crouched | v. 蹲伏；伏低（crouch 的过去式） | “Why are you so different?” the vampire asked, and when he tilted his head, he became entirely animal again. A predator crouched over its prey. |
 | prey | n. 猎物；牺牲品 | “Why are you so different?” the vampire asked, and when he tilted his head, he became entirely animal again. A predator crouched over its prey. |
 | rafters | n. 椽；房梁（rafter 的复数） | The younger vampires, who descended from the rafters only occasionally to drink from him, stood at the windows and watched the sun sink. |
 

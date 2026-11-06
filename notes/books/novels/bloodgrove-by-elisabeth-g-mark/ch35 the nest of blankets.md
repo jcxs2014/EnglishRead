@@ -65,8 +65,8 @@ modified: "2026-11-05"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| balustrade | n. 栏杆（原章语境：rooftop） | In a whirl of dark-red skirts, Elodie leaped from a low rooftop into the middle of the creatures. |
-| nestling | v. 依偎；紧贴（nestle 的现在分词） | But she dismissed Eric's protest. “Do not pretend you have suddenly become a saint. Undress and lie down with us. Or would you prefer to spend the night over there?” |
+| rooftop | n. 屋顶 | In a whirl of dark-red skirts, Elodie leaped from a low rooftop into the middle of the creatures. |
+| protest | n. 抗议；反对 | But she dismissed Eric's protest. “Do not pretend you have suddenly become a saint. Undress and lie down with us. Or would you prefer to spend the night over there?” |
 | salving | v. 涂药膏；敷药（salve 的现在分词） | Together, they healed him, sometimes with traditional methods—cleaning, salving, and bandaging the deeper wounds—and sometimes with magic, whose crackling touch upon his skin drew a blissful whimper from him. |
 | sinewy | adj. 多筋的；强健的 | His hair was disheveled, but Will's gaze continued lower, over the sinewy throat to the broad shoulders and hard line of his collarbone. |
 

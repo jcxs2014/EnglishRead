@@ -91,7 +91,7 @@ modified: "2026-11-05"
 |---|---|---|
 | magma | n. 岩浆 | The rest of his body screamed with adrenaline, hot as magma as it pulsed through his veins with every heartbeat. |
 | incense | n. 香；熏香 | The scent of incense and lilac consumed him, but he hesitated. |
-| reverence | adv. 恭敬地（原文作 Reverently） | Carefully, he set her back on the floor only to sink to his knees before her and kiss what he had explored blindly with his hands. |
+| knees | n. 膝；跪下（knee 的复数） | Carefully, he set her back on the floor only to sink to his knees before her and kiss what he had explored blindly with his hands. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -99,12 +99,12 @@ modified: "2026-11-05"
 | disheveled | adj. 凌乱的；散乱的 | Blood ran from her chin, smeared wildly across her lips and cheeks, and traced a path down her bare throat, tangling with the disheveled curls spilling over her shoulders. |
 | stippled | v. 点缀；密布（stipple 的过去式） | Gooseflesh stippled her skin. |
 | nectar | n. 花蜜；甘露 | Her folds were wet with her nectar and his saliva, and he drank it all. |
-| vengeance | n. 复仇女神（原文作 fury） | No, she looked like a fury from legend, blood drying on her chin. |
+| fury | n. 狂怒（此处作「复仇女神」） | No, she looked like a fury from legend, blood drying on her chin. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| doorway | n. 门口；门道 | “Is it over?” Will asked cautiously, taking a step back. |
+| cautiously | adv. 谨慎地；小心翼翼地 | “Is it over?” Will asked cautiously, taking a step back. |
 | chin | n. 下巴；颏 | He stepped toward her again, took her chin, and forced her to meet his gaze. |
 | waistband | n. 腰带；裤腰 | Desire had become almost unbearable; his erection hung hard and heavy, straining impatiently against his waistband. |
 | march | v. 齐步走；大步离开 | He held her gaze for several seconds longer. Then she tore herself free and marched away. |

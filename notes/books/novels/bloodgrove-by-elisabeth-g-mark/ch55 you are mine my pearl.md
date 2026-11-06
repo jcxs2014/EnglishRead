@@ -87,7 +87,7 @@ modified: "2026-11-06"
 |---|---|---|
 | mosaic | n. 马赛克；拼嵌图 | When had everything gone so terribly wrong? He had the sense that he was overlooking vital details in the wild mosaic of information. |
 | soirée | n. 晚会；社交聚会 | Beside it stood the courthouse, and he remembered a soirée at the home of a judge nearby. |
-| frost flowers | n. 霜花 | As though a salt-laden wind had swept over them, crystals of ice and salt crawled across the bodies. |
+| crystals | n. 结晶；晶体（crystal 的复数） | As though a salt-laden wind had swept over them, crystals of ice and salt crawled across the bodies. |
 | fractured | v. 碎裂；折断（fracture 的过去式） | Red moonlight fractured within them. |
 
 ### ⭐ 常用
