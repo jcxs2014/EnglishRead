@@ -95,7 +95,7 @@ modified: "2026-11-05"
 | surliness | 阴沉乖戾 | Konrad’s surliness had been swept away by curiosity and the pleasure of holding an audience. |
 | animating spark | 赋生火花 | Some people even disbelieved in the animating spark, which left a body when the body died and couldn’t sustain it. |
 | strangling vine | 绞缠的藤蔓（喻氛围） | Clement had grown up amidst a strangling vine of Ferue belief: the body considered as no more than temporary, disposable rags. |
-| hoppy→hopping | 蹦跳的 | Now it was the private garden of some hopping brown birds, a lot of thick unkempt grass and a tangle of unspectacular bushes. |
+| unkempt | 未修剪的、蓬乱的 | Now it was the private garden of some hopping brown birds, a lot of thick unkempt grass and a tangle of unspectacular bushes. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |

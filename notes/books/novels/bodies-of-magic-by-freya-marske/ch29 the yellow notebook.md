@@ -58,7 +58,7 @@ modified: "2026-11-05"
 
 > **原句 8:** "“Healing is healing, whether we’re tired, or sore, or—grieving. We do the work. We do what is necessary, Savoye. We don’t have any other choice.”"
 **中文理解**：「医术就是医术，无论我们累、痛，还是——在悲伤。我们做工作。我们做必要的事，萨瓦瓦。我们没有别的选择。」
-**关键词**：Healing is healing / We do what is necessary / no other choice
+**关键词**：Healing is healing / We do what is necessary / any other choice
 **为什么这样写**：布罗迪尔的职业信条在本章末尾完成双重曝光：作为安慰它无懈可击，作为自白它寒气逼人（「necessary」正是凶手给自己发许可证的词）。一句台词同时是医者的铠甲与嫌疑人的供词——本书台词的复调在此达到峰值。
 **读者视角提示**：记住这句话：它将回响在全书结尾的对决里。「没有别的选择」是布罗迪尔的世界观内核——她的一切行为（含可能的谋杀）都用这句话预先赦免。克莱门特听懂了，所以喉咙是玻璃做的。
 

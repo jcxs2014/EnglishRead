@@ -20,7 +20,19 @@ modified: "2026-11-05"
 **为什么这样写**：幸福的保质期焦虑：让的信任自带折旧计算——他不怀疑埃斯蒂恩说谎，怀疑的是「说真话的那个人能撑几天」。「the other side」把快感写成一段要下降的坡：所有上头的东西都有一条下坡路。
 **读者视角提示**：与 ch22 的「.nepotistic brat 已是天壤之别」对读：让明知埃斯蒂恩变好了，仍按旧伤的力学预设结局。他的自我保护不是悲观，是创伤后正确——刚被撕过一次的纸，不敢再折同一道线。
 
-> **原句 2:** "Warm curtains closed in and Jehan’s magic, along with his thoughts, faded to nothing."
+> **原句 2:** "A shadow had separated from the shadows of his desk and chair, and now moved on near-soundless feet, closing the distance. Jehan jerked out of reach just as a blow swung through the place where his head would have been."
+**中文理解**：一道影子从他书桌与椅子的暗处分离出来，以几乎无声的脚步逼近。让恰在那一击扫过原本该是他头部的位置时，抽身出界。
+**关键词**：A shadow / near-soundless feet / closing the distance / jerked out of reach
+**为什么这样写**：袭击以「影子的分离」写起：宿舍的黑暗先被利用成掩体，再被剖成两半——动与静在同一间屋里分层。第二句把生死压成一个「若是没转身」的假设，用身体的反应速度替代所有铺垫。
+**读者视角提示**：注意袭击者的专业：无声脚步、精准击打头部——这不是街头抢劫，是行刑式的手法。让练了两年的拳台本能第一次救命，也第一次证明他的副业从来不是游戏。
+
+> **原句 3:** "Wrist. Jehan, even as his body inhaled despite his best efforts, found himself gathering his magic with the muddled, frantic intent to do harm. What had Moyna said? Magic around the heart—magic of the heart—darkness, the heart, Estiene, you’re reckless with your body, you’re reckless—"
+**中文理解**：手腕。让——尽管拼命屏息，身体还是吸进了那口气——发现自己正带着混乱、狂乱的意图聚拢魔法，想害人。莫伊娜说过什么？心脏周围的魔法——心的魔法——黑暗、心脏、埃斯蒂恩，「你对身体太胡来」——太胡来——
+**关键词**：Wrist / intent to do harm / Magic around the heart / reckless with your body
+**为什么这样写**：熄灭前的最后一段意识流把三条线拧成一股：求生（手腕发力）、杀意（伤人的魔法）、案情（莫伊娜的证词）。名字与句子的断裂模拟缺氧时的思维碎片——他不是在想，而是在失重里抓。
+**读者视角提示**：这一段是全书的交接棒：让在昏迷前握着「心脏魔法」这条唯一的破案线索，而他本人正被这条线索的凶手（或其雇主）拖走。读者比他多知道一点，悬念由此更紧。
+
+> **原句 4:** "Warm curtains closed in and Jehan’s magic, along with his thoughts, faded to nothing."
 **中文理解**：温热的幕布合拢过来，让的魔法连同他的思绪，一同淡去成无。
 **关键词**：Warm curtains / closed in / magic, along with his thoughts / faded to nothing
 **为什么这样写**：昏迷的感官修辞全反着来：麻药不该是「暖」与「幕布」（剧场的意象）——舒适感是这一章最恶毒的选择。魔法与思绪并列消失，暗示他的最后念头（心脏魔法）也一并封存——但读者记得。叙述者的「无为」就是悬念的接力棒。

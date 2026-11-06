@@ -75,7 +75,7 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | swill | （泔水般的）残羹味 | his mouth had tasted like the swill of the fish markets |
-| gaude→gaudy | 俗艳的 | flicked away a speck of dirt from the knee of his gaudy red chausses |
+| gaudy | 俗艳的 | But the man simply frowned down at his outfit and flicked away a speck of dirt from the knee of his gaudy red chausses. |
 | knack | 诀窍、天分 | You’ve got a real knack for this. |
 | bluster | 咆哮、虚张声势 | Blavot gathered himself and his bluster. |
 

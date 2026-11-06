@@ -67,7 +67,7 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | administer | 施行、投予（治疗） | and to administer the first stage of that treatment |
-| ground-breaking→groundbreaking | 开创性的 | I don’t know why Mathilde’s so bothered. |
+| arrogant | 傲慢的 | Healers were not the selfish, arrogant mages who’d drawn the serrage to Sieuxerr and then failed to fix it. |
 | counterintuitive | 反直觉的 | “It’s so fucking counterintuitive. No wonder she decided to give us the answers. |
 | condescending | 居高临下的 | “Fuck your condescending little note, Ysabel Caudotte. Sorry, Clement.” |
 
@@ -83,7 +83,7 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | seed-pearls | 小珍珠（串） | a double collar of seed-pearls |
-| immensely | 巨大地 | They were just people—people who’d done their best, in a time when the best demanded of them was more than ever before, and had paid the price not for their failings but for their strengths. |
+| failings | 失败之处、过错 | They were just people—people who’d done their best, in a time when the best demanded of them was more than ever before, and had paid the price not for their failings but for their strengths. |
 | twisted→wrung | （被）拧绞的 | Clement’s nerves wrung inside them like laundry. |
 
 ## 一句话总结

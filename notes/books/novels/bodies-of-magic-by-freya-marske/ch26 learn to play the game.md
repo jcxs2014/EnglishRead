@@ -71,7 +71,7 @@ modified: "2026-11-05"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | pigeonholes | 信格 | There was another note in his pigeonhole in halls when he got back. |
-| spread | 传开（消息） | Estiene being arrested for killing an artificer was a yell. A sensation. |
+| speculative | 揣测性的 | A gleefully speculative article about the arrest of Head Healer Marcelle’s son on suspicion of violent murder appeared on the second page. |
 | alibi | 不在场证明 | It’d be better if you could get someone else to give him an alibi, if he has one. |
 
 ## 一句话总结

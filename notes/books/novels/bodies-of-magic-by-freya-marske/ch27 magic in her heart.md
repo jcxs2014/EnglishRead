@@ -77,12 +77,12 @@ modified: "2026-11-05"
 | slow-swinging | 缓慢摆动的 | Jehan let out an impressed sound as the bodykeeper let them through a thick, slow-swinging wooden door, and into the room. |
 | mottled | 斑驳的 | Ysabel was blue-lipped and gone, with that dent in her skull and the skin mottled and congested over it. |
 | Arrhythmia | 心律失常 | “Arrhythmia.” |
-| serenity→serene | 平静的（词形见原文 serene） | His bright eyes and serene charisma itched at her; she wanted to blurt out more explanations. |
+| charisma | 魅力、气场 | His bright eyes and serene charisma itched at her; she wanted to blurt out more explanations. |
 
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| bodykeepers | 遗体保管人 | it was the bodykeepers for preservation and thereafter used for the education of scholars in whatever way the Academie sees fit |
+| preservation | 保存、保管 | their body, thus vacated of the spark, will become at once the property of the Academie, to be transferred to the bodykeepers for preservation and thereafter used for the education of scholars in whatever way the Academie sees fit |
 | drawer | 抽屉（遗体柜） | Then he stepped in and, with a quick glance of warning at Moyna, pulled out the drawer second from the bottom. |
 | slit throat | 被割开的喉 | Moyna had seen plenty of fresh injuries, but never a slit throat. |
 

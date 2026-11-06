@@ -40,7 +40,7 @@ modified: "2026-11-05"
 
 > **原句 5:** "“I really don’t care,” Moyna said, a heroic last effort to keep this going—but Jehan raised his eyebrows and all right, yes, she did, rather."
 **中文理解**：「我在想别人。」「我真不在乎，」莫伊娜说——这是让这事继续下去的英勇最后一搏，可让一挑眉：好吧，是的，她其实挺在乎。
-**关键词**：thinking about someone else / a heroic last effort / raised his eyebrows / she did, rather
+**关键词**：a heroic last effort / raised his eyebrows / she did, rather
 **为什么这样写**：床边谈判的心理细节全在标点里：嘴上的「不在乎」与心里被挑眉拆穿的「在乎」并列——莫伊娜的情爱规则（要欲望不要浪漫）被让的诚实升级。她不索取爱，但坚持被真正想要。
 **读者视角提示**：这句「I don't care」是她全书少有的自欺时刻：叙述随即替她翻供。与 ch08 的「Nerves and skin and flesh」对读：她一直以为身体交易不欠谁——让的「不公平」给了她第一张账单。
 

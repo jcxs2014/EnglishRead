@@ -34,7 +34,7 @@ modified: "2026-11-05"
 
 > **原句 4:** "“They want to watch someone hurt a healer,” said Jehan bluntly. “Because we aren’t supposed to be hurt.” The post-serrage anger in the city had few outlets. Jehan was providing one."
 **中文理解**：「他们想看有人打伤一个医者，」让说得直白。「因为我们本来不该受伤。」锯热之后全城的怒气没有几个出口。让在提供一个。
-**关键词**：watch someone hurt a healer / not supposed to be hurt / few outlets / providing one
+**关键词**：watch someone hurt a healer / aren’t supposed to be hurt / few outlets / providing one
 **为什么这样写**：拳台的受众分析一句见底：愤怒需要一个可以合法观看的靶子——医者的「不可伤害」恰好是可被消费的特权。「providing one」让把自己写成出气口的经营者：他知道自己卖的是什么。
 **读者视角提示**：这条与 ch13 的「太金贵」演讲对读：莫伊娜说制度把医者捧成金身，让说金身正是众人想砸的东西——同一枚硬币的正反面，全书的阶层怒气在两人嘴里各领一段。
 

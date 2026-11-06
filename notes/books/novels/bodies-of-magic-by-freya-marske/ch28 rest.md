@@ -28,7 +28,7 @@ modified: "2026-11-05"
 
 > **原句 3:** "“It didn’t have anything to do with echo headaches?” she asked."
 **中文理解**：「这跟回声头痛没关系吧？」她问。「没有，」萨维说。
-**关键词**：anything to do with / echo headaches / No
+**关键词**：anything to do with / echo headaches / she asked
 **为什么这样写**：排查句的极简收束：阿利斯唯一能想到的课题关键词被当场排除——教案方向与布罗迪尔的说法（回声头痛）不相干。问答的干瘪本身就是线索：布罗迪尔报的课题名也许从头就不准。
 **读者视角提示**：把「课题名可能是假的」与克莱门特的直觉（布罗迪尔否认笔记本时不信）并读：本案的第一个「官方口径」正在松动。笔记本上写的究竟是什么，越来越值得偷看一眼。
 
@@ -52,7 +52,7 @@ modified: "2026-11-05"
 
 > **原句 7:** "“It’s Mathé’s gift,” Alys said. She wasn’t used to being stubborn. She tried to imagine she was Ysabel, or Moyna. “It’s meant to be used for everyone.”"
 **中文理解**：「这是马泰的馈赠，」阿利斯说。她不习惯固执。她试着想象自己是伊莎贝尔，或者莫伊娜。「它本来就该给每个人用。」
-**关键词**：Mathé’s gift / not used to being stubborn / imagine she was Ysabel, or Moyna / for everyone
+**关键词**：Mathé’s gift / being stubborn / imagine she was Ysabel, or Moyna / for everyone
 **为什么这样写**：顶嘴的出生记录：阿利斯连反抗都要「借人格」——在心里试穿死者的倔强与莫伊娜的锋利。「给每个人用」一句同时回应了母亲的「只有一个 Alys Tixerrant」：她拒绝成为限量版。
 **读者视角提示**：这句话是全书主题（医术的公共性）在她身上的成人礼。与 ch27 图里的招聘、ch14 死者的邀约并读：三条路（宪兵/医院/门诊）此刻同时摆在她面前——她挑了最穷的那条。
 
