@@ -52,7 +52,7 @@
 | ch41 | II（Part IV） | 3108 | 完工 | 946041f6f |
 | ch42 | III（Part IV） | 2733 | 完工 | a7bb18d65 |
 | ch43 | IV（Part IV） | 2831 | 完工 | f7ad1f84f |
-| ch44 | V（Part IV） | 1930 | 完工 | (见 ch45 批次) |
+| ch44 | V（Part IV） | 1930 | 完工 | 2dbd1c78a |
 | ch45 | VI（Part IV） | 2372 | 待写 | |
 | ch46 | VII（Part IV） | 1470 | 待写 | |
 | ch47 | VIII（Part IV） | 2054 | 待写 | |
