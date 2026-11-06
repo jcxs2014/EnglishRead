@@ -1,0 +1,55 @@
+{
+ "book": "the-christmas-we-built-by-kelly-collins",
+ "chapter": "ch07",
+ "text": "notes/books/novels/the-christmas-we-built-by-kelly-collins/text/ch07_chapter_7.txt",
+ "facts": [
+  {
+   "fact": "凌晨两点她复盘档案室：他跪在石地上用指尖描伸缩缝、说当年设计就留了弹性——\"像找到二十二岁起就想要的东西\"；她承认自己没给人机会就先判他\"在套路我\"",
+   "anchor": "He’d traced the expansion joints with one finger and said they built the flexibility in, as if he’d found something he’d wanted since he was twenty-two.",
+   "start": 442,
+   "end": 594
+  },
+  {
+   "fact": "珍珠一早报态势：半条街把格里芬的租约摊在餐桌上、旁边搁着笔——\"他连买杯咖啡都有人检查小票里有没有拆除条款\"；诺拉承认档案室里他是真兴奋，\"我敢拿店打赌\"",
+   "anchor": "Half this street has Griffin’s lease on the kitchen table and a pen beside it.",
+   "start": 1209,
+   "end": 1287
+  },
+  {
+   "fact": "她的自我修正：\"他只是兴奋过头、动作太快、没考虑谁会受伤——粗心不等于残忍\"；珍珠点破：他来了之后你吵得最凶、也活得最像样，还嘱咐开会穿绿大衣（\"你穿绿大衣更凶\"）",
+   "anchor": "Careless isn’t the same as cruel.",
+   "start": 2372,
+   "end": 2405
+  },
+  {
+   "fact": "正午会议：迷宫撤回、雪橇照旧、惠特莫苹果酒摊入列（\"那是她的主意不是我的\"）——她十天来的抱怨按字母序全部照办（停车挪离 Cedar、两台租用发电机、唱诗班台阶先于餐车进场）；她备了三套反驳，却不会赢\"沉默\"",
+   "anchor": "He had gone through my complaints and granted all of them, alphabetically.",
+   "start": 5354,
+   "end": 5428
+  },
+  {
+   "fact": "他摊牌：街区可以等，她的楼不能——许可周五已递交、1 月 2 日开工；若等到春天，西基脚会把与 Sweet Provisions 共享的墙拉偏，珍珠面包房也连带处于险境；\"你可以等到一月五号再恨我\"",
+   "anchor": "Your building can’t. I filed the permit application Friday.",
+   "start": 6049,
+   "end": 6108
+  },
+  {
+   "fact": "夜巡自宅：西墙角底排砖凸出约半英寸——阿黛尔·菲斯克当年称之为\"这栋楼的坏膝盖\"、嘱她别把沉重的陶瓷小村摆件靠那面墙内侧；她一直把它归档为\"魅力\"而非结构忠告，手按砖面\"冷得让人安心，但这证明不了任何事\"",
+   "anchor": "I had filed it under charm instead of structural advice.",
+   "start": 10384,
+   "end": 10440
+  },
+  {
+   "fact": "车程十英里后的道歉：\"我该先带给你、再带给弗兰克、再带进会议室——没有语境的信息就是武器，不论本意。对不起：不为那个发现，为那九个小时\"；她回敬\"我把九小时的粗心审成了完整阴谋，高效但不准确——这话我从周五就想好了\"",
+   "anchor": "Not for the finding. For the nine hours.",
+   "start": 12158,
+   "end": 12198
+  },
+  {
+   "fact": "互揭底牌：\"我组织全街反对你只用了四小时——这周我们都很有产出\"；车到莫里森农场，他的手机亮起、看到来电人名字时神情一闭：\"我需要接这个\"——她下车独自走向谷仓开始查雪橇",
+   "anchor": "I organized it against you in about four hours",
+   "start": 12738,
+   "end": 12784
+  }
+ ]
+}
