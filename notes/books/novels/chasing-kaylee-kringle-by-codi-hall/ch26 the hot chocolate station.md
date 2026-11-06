@@ -13,7 +13,7 @@ modified: "2026-11-06"
 - **叙事手法**：以饮品站作叙事容器（她讲传统=她讲 Elasia）；Pumpkin 的和解戏把两人的关系推进视觉化；结尾用一个「她停下又转身」的空拍留白。
 
 ## 精读
-> **原句 1:** "“This wasn’t exactly what I had in mind,” he said, licking marshmallow off his thumb, “but I don’t hate it.”"
+> **原句 1:** "This wasn’t exactly what I had in mind,” he said, licking marshmallow off his thumb, “but I don’t hate it.”"
 
 **中文理解**：「这跟我原本想的不太一样，」他舔掉拇指上的棉花糖，「但我并不讨厌。」
 

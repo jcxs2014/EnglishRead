@@ -83,7 +83,7 @@ modified: "2026-11-06"
 
 **读者视角提示**：注意这句之后 Kaylee 的反应不是哭，是追问「What do you mean」——她两年来的核心问题（为什么是她）终于能问当事人。
 
-> **原句 8:** "“Your friend’s little FBI boyfriend was skimming from us. Stole over a hundred thousand dollars, like that was going to go far.”"
+> **原句 8:** "Your friend’s little FBI boyfriend was skimming from us. Stole over a hundred thousand dollars, like that was going to go far.”"
 
 **中文理解**：「你朋友那个 FBI 小男友一直在从我们这儿抽钱。偷了十万美元以上——好像那点钱能跑多远似的。」
 

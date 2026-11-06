@@ -13,7 +13,7 @@ modified: "2026-11-06"
 - **叙事手法**：以对话的短兵相接推进情绪；把最亲密的一场写成「危险性感的坦白」（药、体检、第一次不戴）；结尾一句未说完的话留到下一章。
 
 ## 精读
-> **原句 1:** "“I never expected so many civilians to step up to protect this place.” Rick reached out, brushing a hair from her cheek. “And you.”"
+> **原句 1:** "I never expected so many civilians to step up to protect this place.” Rick reached out, brushing a hair from her cheek. “And you.”"
 
 **中文理解**：「我从没想过会有这么多平民站出来保护这个地方。」Rick 伸手把她脸颊上的一缕头发拨开，「还有你。」
 

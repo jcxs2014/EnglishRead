@@ -95,7 +95,7 @@ modified: "2026-11-06"
 
 > **原句 9:** "“We got a situation at the Calvary Chapel on Juneteenth Street. Mr. McNally’s goats got out again, and they’re eating the nativity scene.” Suddenly, the voice shouted, making them all flinch, “No! Not the baby Jesus! We need all hands on deck wrangling them back in. Over.”"
 
-**中文理解**：「Banks 警官，出状况了——Juneteenth 街的 Calvary Chapel。McNally 家的山羊又跑了，正在啃圣诞马槽场景。」突然，对讲机里的声音大喊，吓得所有人一抖：「不——别啃婴儿耶稣！全员上手把它们弄回来。完毕。」
+**中文理解**：「出状况了——Juneteenth 街的 Calvary Chapel。McNally 家的山羊又跑了，正在啃圣诞马槽场景。」突然，对讲机里的声音大喊，吓得所有人一抖：「不——别啃婴儿耶稣！全员上手把它们弄回来。完毕。」
 
 **关键词**：goats got out、nativity scene、Not the baby Jesus
 

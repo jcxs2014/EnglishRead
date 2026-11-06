@@ -53,11 +53,11 @@ modified: "2026-11-06"
 
 **读者视角提示**：Ice Planet Barbarians 是后文书友会的伏笔——他挑这本是想在她的世界里拿到一个入场资格；记住这个书名，ch31 起会反复出现。
 
-> **原句 5:** "“She does indeed.”"
+> **原句 5:** "Colin grinned before turning around and squatting behind the counter. He returned with two books. “She does indeed.”"
 
 **中文理解**：「她确实有。」——三个词的转折：他一问，Colin 就蹲到柜台底下取出两本。这不是买书，是把她自己还没取的新书连同书一起买走。
 
-**关键词**：She does indeed
+**关键词**：squatting behind the counter、two books、She does indeed
 
 **为什么这样写**：三个词的转折——他问「她现在有预留的书吗」，Colin 蹲下取出两本；这不是买书，是买下她原本的期待（她自己还没取的新书被他和书一起买走）。
 

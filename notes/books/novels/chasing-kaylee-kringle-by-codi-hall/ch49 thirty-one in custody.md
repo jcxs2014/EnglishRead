@@ -13,7 +13,7 @@ modified: "2026-11-06"
 - **叙事手法**：对讲机与彩弹把战斗写成游戏；胜利后的「hot chocolate」承诺把小镇的温度拉回来；结尾用一句预告重启剧情。
 
 ## 精读
-> **原句 1:** "“One of them lurched forward, faster than the other man, and reached for her, but before he touched her, rapid-fire paintballs unloaded into both men’s bodies."
+> **原句 1:** "One of them lurched forward, faster than the other man, and reached for her, but before he touched her, rapid-fire paintballs unloaded into both men’s bodies."
 
 **中文理解**：其中一个猛地前扑，比另一个快，伸手去抓她——但他还没碰到她，连发的彩弹就打在两人身上。
 
