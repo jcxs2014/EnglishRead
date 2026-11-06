@@ -1,0 +1,49 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch02",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch02_2_the_downed_hive.txt",
+ "facts": [
+  {
+   "fact": "阿拉与埃里克在海上捕鱼时，一艘金色圆柱形的“蜂巢”舰从天坠落，像机械旋转木马般冒烟旋转，朝大海与他们砸下。",
+   "anchor": "It looks like a mechanical carousel.",
+   "start": 2597,
+   "end": 2633
+  },
+  {
+   "fact": "海啸冲来前众人奔逃，阿拉被撞倒后发现埃里克不见了；她出现失控眩晕、头痛与白光闪现，醒来时已落在最后。",
+   "anchor": "I realise Eric is no longer by my side.",
+   "start": 3801,
+   "end": 3840
+  },
+  {
+   "fact": "沉船露出王室蓝旗帜，阿拉确认那是拉夫纳舰船，意识到赫瓦拉在天空战争中占据上风。",
+   "anchor": "The flag, I realise, is royal blue.",
+   "start": 5206,
+   "end": 5241
+  },
+  {
+   "fact": "阿拉在水中发现穿拉夫纳蓝制服的漂浮身影并游去施救，将士兵拖上沙滩，认定他是拉夫纳人、是一条生命。",
+   "anchor": "A body.",
+   "start": 6002,
+   "end": 6009
+  },
+  {
+   "fact": "阿拉耗尽力气按压士兵胸口、穿过白光坚持施救，士兵终于吐水咳嗽复活；她在拉夫纳语中称之为“里博夫”（奇迹）。",
+   "anchor": "A miracle. A rybov, we would say, in Rhavnan.",
+   "start": 8241,
+   "end": 8286
+  },
+  {
+   "fact": "士兵醒后警惕地打量阿拉，阿拉用拉夫纳语低声说自己也是拉夫纳人。",
+   "anchor": "I’m Rhavnan too.” I say the words in the language.",
+   "start": 9421,
+   "end": 9471
+  },
+  {
+   "fact": "士兵掰开腰带上的橡胶球取出武器，章末将枪口对准阿拉的头。",
+   "anchor": "The ball is open. And he’s pointing a gun at my head.",
+   "start": 10367,
+   "end": 10420
+  }
+ ]
+}
