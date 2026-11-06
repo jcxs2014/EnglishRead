@@ -1,0 +1,49 @@
+{
+ "book": "chasing-kaylee-kringle-by-codi-hall",
+ "chapter": "ch07",
+ "text": "notes/books/novels/chasing-kaylee-kringle-by-codi-hall/text/ch07_chapter_seven.txt",
+ "facts": [
+  {
+   "fact": "Rick 坐 Razor 后座盘点损失：挨训、线索全空、被电、车轮被锁——全拜一个 stubborn woman 所赐",
+   "anchor": "reprimanded, skunked by multiple leads, tased, and booted",
+   "start": 373,
+   "end": 430
+  },
+  {
+   "fact": "他对小镇的底色判断：suffocating、judgmental、narrow-minded——他自己来自更破更穷的同款小镇，只感谢过八年级老师和高中辅导员",
+   "anchor": "He found small towns suffocating",
+   "start": 1197,
+   "end": 1229
+  },
+  {
+   "fact": "教堂草坪 20+ 山羊大乱：黑白山羊叼着婴儿娃娃跟两名警官玩 keep-away，另一头羊用角把圣母像顶倒",
+   "anchor": "a baby doll dangling by an arm from its mouth",
+   "start": 2028,
+   "end": 2073
+  },
+  {
+   "fact": "Rick 抱走小羊被羊妈妈撞翻——「Let the kid go」的 kid/羊羔双关他懵了两秒才反应过来",
+   "anchor": "“Let the kid go!”",
+   "start": 3232,
+   "end": 3249
+  },
+  {
+   "fact": "Kaylee 科普：叼婴儿耶稣的山羊叫 Licorice、惯用角 weaken 围栏；并纠正量词——山羊是 flock，murder 是乌鸦的量词",
+   "anchor": "it’s a flock, not a murder. Crows come in a murder.",
+   "start": 5149,
+   "end": 5200
+  },
+  {
+   "fact": "教堂墓旁低声交锋：她躲藏至今有效、一旦作证必被追杀——他答 I'll never let that happen，她只求他走",
+   "anchor": "It’s worked so far. And if I do testify, they’ll definitely hunt me down.",
+   "start": 6705,
+   "end": 6778
+  },
+  {
+   "fact": "站内 Paulette 放话：没有 subpoena 谁也别想强迫她——Rick 心里的备选方案已经写到捆人拖走",
+   "anchor": "hog-tie and drag her there",
+   "start": 7877,
+   "end": 7903
+  }
+ ]
+}

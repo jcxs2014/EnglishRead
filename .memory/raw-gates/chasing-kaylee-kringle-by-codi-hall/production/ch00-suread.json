@@ -4,40 +4,40 @@
  "text": "notes/books/novels/chasing-kaylee-kringle-by-codi-hall/text/ch00_prologue.txt",
  "facts": [
   {
-   "fact": "暗室里三台显示器同时跑程序，第一屏停在一幅图上、红色椭圆圈出人群中的一张脸，Diaz 猛地坐直",
+   "fact": "暗室内三块显示器同时跑程序，第一屏停在一张照片、红色椭圆圈出人群中一张脸时 Diaz 猛然坐直",
    "anchor": "the red oval highlighting a face in the crowd",
    "start": 244,
    "end": 289
   },
   {
-   "fact": "他把第二屏上微笑女人的照片与眼前深发女人的神情比对——那神情与其说是惊讶，不如说是恐惧",
-   "anchor": "who wore a look of surprise",
-   "start": 395,
-   "end": 422
+   "fact": "他把第二屏微笑女人的照片与眼前深发女人比对，怀疑那神情是恐惧",
+   "anchor": "He leaned in, comparing the photo of the smiling woman on his second screen",
+   "start": 291,
+   "end": 366
   },
   {
-   "fact": "Diaz 调出「他们在找的女人」的另一张照片凝视屏幕，满意涌上心头：That's her.",
-   "anchor": "another picture of the woman they were looking for",
-   "start": 463,
-   "end": 513
+   "fact": "他调出他们在找的女人的另一张照片，满意地说：就是她",
+   "anchor": "Satisfaction rushed through him. “That’s her.”",
+   "start": 542,
+   "end": 588
   },
   {
-   "fact": "图片来源是真人秀 Small Town USA 的片段；他随即谷歌 Holiday, Idaho——近犹他州边界、约一天车程",
-   "anchor": "a reality show called Small Town USA",
-   "start": 695,
+   "fact": "图片来源是真人秀 Small Town USA 片段；他读描述后谷歌 Holiday, Idaho",
+   "anchor": "The data indicated a clip from a reality show called Small Town USA",
+   "start": 664,
    "end": 731
   },
   {
-   "fact": "Diaz 咧出掠食者终于找到猎物般的狞笑",
-   "anchor": "like a predator who had finally found his prey",
-   "start": 887,
-   "end": 933
+   "fact": "该镇近犹他州边界、约一天车程",
+   "anchor": "It was near the Utah border and roughly a day’s drive.",
+   "start": 793,
+   "end": 847
   },
   {
-   "fact": "他放话很快会去找 Kaylee——ch00 全文没点破他的身份（章头标 Rick，正文只称 Diaz）",
-   "anchor": "I’m coming for you, Kaylee",
-   "start": 938,
-   "end": 964
+   "fact": "他放话：我来找你了，Kaylee，很快见",
+   "anchor": "“I’m coming for you, Kaylee. See you soon.”",
+   "start": 937,
+   "end": 980
   }
  ]
 }

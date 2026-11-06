@@ -1,0 +1,55 @@
+{
+ "book": "chasing-kaylee-kringle-by-codi-hall",
+ "chapter": "ch01",
+ "text": "notes/books/novels/chasing-kaylee-kringle-by-codi-hall/text/ch01_chapter_one.txt",
+ "facts": [
+  {
+   "fact": "Kaylee 打开豚鼠笼、装上自制小楼梯放 Pumpkin 出来，它冲进厨房蹲在冰箱前讨食",
+   "anchor": "Kaylee Kringle opened her guinea pig’s enclosure",
+   "start": 35,
+   "end": 83
+  },
+  {
+   "fact": "她注意到自己从瘦长变得丰腴，且喜欢这个新体态",
+   "anchor": "She’d gone from coltish to curvy, and she liked her new form.",
+   "start": 854,
+   "end": 915
+  },
+  {
+   "fact": "摩托轰鸣让她冲到窗前，只看到棕色冬大衣与全覆盖头盔——没有帮派马甲、没有焦糖色头发",
+   "anchor": "No cut. No caramel-colored hair.",
+   "start": 1163,
+   "end": 1195
+  },
+  {
+   "fact": "她说自己在 Holiday 是「自与 Elasia 同住以来最快乐」，随即哽住",
+   "anchor": "Since living with Elasia.",
+   "start": 2889,
+   "end": 2914
+  },
+  {
+   "fact": "听 Benny 讲给侄女买演唱会票，她笑得空洞——已两年多没联系家人",
+   "anchor": "It had been over two years since she’d contacted her family",
+   "start": 5974,
+   "end": 6033
+  },
+  {
+   "fact": "回忆初见：她对 Josie 说 Kaylee 是中间名、更喜欢这个叫法，前五个镇都没用过真名",
+   "anchor": "It’s my middle name, and I actually prefer it.",
+   "start": 8119,
+   "end": 8165
+  },
+  {
+   "fact": "俄勒冈看见自己的寻人启事（Kaylee Taylor）后东逃；旅馆门口三个 Pit Vipers 跟着经理逐门查看，停在她住的五号房",
+   "anchor": "finally stopping outside room five",
+   "start": 12157,
+   "end": 12191
+  },
+  {
+   "fact": "她的生存法则：不看电影、不吃晚饭；只需领先 Ansel、Vipers 和「他」一步；被他找到会是比死更糟的命运",
+   "anchor": "So, no movies. No dinner.",
+   "start": 13047,
+   "end": 13072
+  }
+ ]
+}

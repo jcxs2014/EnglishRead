@@ -1,0 +1,67 @@
+{
+ "book": "chasing-kaylee-kringle-by-codi-hall",
+ "chapter": "ch42",
+ "text": "notes/books/novels/chasing-kaylee-kringle-by-codi-hall/text/ch42_chapter_forty_two.txt",
+ "facts": [
+  {
+   "fact": "他每进一步都先问许可：Can I make you come? —— 她说 yes",
+   "anchor": "Can I make you come?",
+   "start": 683,
+   "end": 703
+  },
+  {
+   "fact": "她奇怪他怎么不动——他答：你在掌控，我在等你吩咐",
+   "anchor": "I’m just waiting for you to tell me what to do",
+   "start": 842,
+   "end": 888
+  },
+  {
+   "fact": "她意识到：她读过的那些床上高手男主，在现实里找到了",
+   "anchor": "All the heroes she’d read about",
+   "start": 1607,
+   "end": 1638
+  },
+  {
+   "fact": "他戴套回来，她勾指：我还在掌控",
+   "anchor": "I’m still in charge",
+   "start": 2838,
+   "end": 2857
+  },
+  {
+   "fact": "他躺平摊手：我等，你做你最坏的",
+   "anchor": "Do your worst.",
+   "start": 2968,
+   "end": 2982
+  },
+  {
+   "fact": "她故意悬着让他求；他警告「只能推我到某个程度」——她说想做的是 my best",
+   "anchor": "you can only push me so far",
+   "start": 3235,
+   "end": 3262
+  },
+  {
+   "fact": "他骂她 cliché，叫她坐下",
+   "anchor": "Stop with the clichés",
+   "start": 3759,
+   "end": 3780
+  },
+  {
+   "fact": "事后他问：比第一次好吗？——他说几小时后还可以再来；她说要看感觉",
+   "anchor": "Was that better than the first time?",
+   "start": 5004,
+   "end": 5040
+  },
+  {
+   "fact": "他夸她那嘴伶俐，问哪来的，她答「我妈？」——他说见你妈时要谢她",
+   "anchor": "Remind me to thank your mother",
+   "start": 5453,
+   "end": 5483
+  },
+  {
+   "fact": "舞会邀约：她说不；他问那是不是 no；她说都没说——只是还得多说服我一点",
+   "anchor": "Was that a yes?",
+   "start": 5641,
+   "end": 5656
+  }
+ ]
+}

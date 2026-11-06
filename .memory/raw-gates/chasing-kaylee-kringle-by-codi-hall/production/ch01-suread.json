@@ -4,52 +4,52 @@
  "text": "notes/books/novels/chasing-kaylee-kringle-by-codi-hall/text/ch01_chapter_one.txt",
  "facts": [
   {
-   "fact": "Kaylee 给豚鼠 Pumpkin 的笼口装上定制小楼梯放它出来；Pumpkin 兴奋尖叫冲下楼梯，跑进厨房蹲在冰箱前讨食",
-   "anchor": "custom-made short staircase",
-   "start": 99,
-   "end": 126
+   "fact": "Kaylee 打开豚鼠笼、装上自制小楼梯放 Pumpkin 出来，它冲进厨房蹲在冰箱前讨食",
+   "anchor": "Kaylee Kringle opened her guinea pig’s enclosure",
+   "start": 35,
+   "end": 83
   },
   {
-   "fact": "她喜欢自己从瘦削长腿的体型变成丰腴——胯、腿、胸都显出这些日子外卖的分量",
-   "anchor": "She’d gone from coltish to curvy",
+   "fact": "她注意到自己从瘦长变得丰腴，且喜欢这个新体态",
+   "anchor": "She’d gone from coltish to curvy, and she liked her new form.",
    "start": 854,
-   "end": 886
+   "end": 915
   },
   {
-   "fact": "摩托车轰鸣让她跳起来冲到窗前——只看到棕色冬大衣背影和全覆盖头盔；没有机车马甲（cut）、没有焦糖色头发，才松一口气",
+   "fact": "摩托轰鸣让她冲到窗前，只看到棕色冬大衣与全覆盖头盔——没有帮派马甲、没有焦糖色头发",
    "anchor": "No cut. No caramel-colored hair.",
    "start": 1163,
    "end": 1195
   },
   {
-   "fact": "这是她在 Holiday 的第二个圣诞节；「从……以来最快乐」这半句想完就哽住——自与 Elasia 同住之后",
+   "fact": "她说自己在 Holiday 是「自与 Elasia 同住以来最快乐」，随即哽住",
    "anchor": "Since living with Elasia.",
    "start": 2889,
    "end": 2914
   },
   {
-   "fact": "听 Benny 说给侄女买演唱会票、做最受欢迎的舅舅，她笑得空洞——已两年多没联系家人，更没一起过过节",
+   "fact": "听 Benny 讲给侄女买演唱会票，她笑得空洞——已两年多没联系家人",
    "anchor": "It had been over two years since she’d contacted her family",
    "start": 5974,
    "end": 6033
   },
   {
-   "fact": "回忆初见：她向 Josie 脱口说 Kaylee 是中间名、她更喜欢这个称呼——这是前五个镇都没用过的真名",
+   "fact": "回忆初见：她对 Josie 说 Kaylee 是中间名、更喜欢这个叫法，前五个镇都没用过真名",
    "anchor": "It’s my middle name, and I actually prefer it.",
    "start": 8119,
    "end": 8165
   },
   {
-   "fact": "俄勒冈杂货店公告栏看见自己的寻人启事（Kaylee Taylor）后驾车东逃；旅馆门口三个 Pit Vipers 会员随经理走过每扇门，最后停在五号房——正是她住的那间",
+   "fact": "俄勒冈看见自己的寻人启事（Kaylee Taylor）后东逃；旅馆门口三个 Pit Vipers 跟着经理逐门查看，停在她住的五号房",
    "anchor": "finally stopping outside room five",
    "start": 12157,
    "end": 12191
   },
   {
-   "fact": "她掐手背驱赶过去：活下去=关系维持最低限度、随时能跑——要一直领先 Ansel、Vipers 和「他」一步；被他找到会遭遇比死更糟的命运",
-   "anchor": "face a fate worse than death",
-   "start": 13193,
-   "end": 13221
+   "fact": "她的生存法则：不看电影、不吃晚饭；只需领先 Ansel、Vipers 和「他」一步；被他找到会是比死更糟的命运",
+   "anchor": "So, no movies. No dinner.",
+   "start": 13047,
+   "end": 13072
   }
  ]
 }
