@@ -1,0 +1,37 @@
+{
+ "book": "chasing-kaylee-kringle-by-codi-hall",
+ "chapter": "ch02",
+ "text": "notes/books/novels/chasing-kaylee-kringle-by-codi-hall/text/ch02_chapter_two.txt",
+ "facts": [
+  {
+   "fact": "Diaz 已在镇上待了几天：看她上班、买菜、去邻居家串门，摸清她的日常规律——此刻他看着她与街角男人道别、快步走向工作地点",
+   "anchor": "watched her say goodbye to the man on the corner",
+   "start": 38,
+   "end": 86
+  },
+  {
+   "fact": "镇民对她微笑挥手的热络程度被他吐槽成「Holiday 的 Rory Gilmore」",
+   "anchor": "the Rory fucking Gilmore of Holiday, Idaho",
+   "start": 389,
+   "end": 431
+  },
+  {
+   "fact": "他观察全镇圣诞装饰：花店窗上的巨型薄荷糖与绿枝、冰淇淋店挂 Garland 系大红蝴蝶结、公园对面立着一座巨型土豆雕像",
+   "anchor": "a giant potato statue",
+   "start": 745,
+   "end": 766
+  },
+  {
+   "fact": "Kaylee 在他对面的楼前停下掏钥匙——他急切上前一步：她带他兜了个大圈子，他跨了两个州才找到她，该让她付账了",
+   "anchor": "traveled across two states to find her",
+   "start": 1010,
+   "end": 1048
+  },
+  {
+   "fact": "Dana 从玻璃门出来翻出 closed 牌、又为一对牵手的情侣开门；Diaz 笑了——好戏开场",
+   "anchor": "“Showtime.”",
+   "start": 1524,
+   "end": 1535
+  }
+ ]
+}
