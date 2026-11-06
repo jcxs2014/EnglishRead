@@ -55,7 +55,7 @@
 | ch44 | V（Part IV） | 1930 | 完工 | 2dbd1c78a |
 | ch45 | VI（Part IV） | 2372 | 待写 | |
 | ch46 | VII（Part IV） | 1470 | 待写 | |
-| ch47 | VIII（Part IV） | 2054 | 待写 | |
+| ch47 | VIII（Part IV） | 2054 | 完工 | (见 ch48 批次) |
 | ch48 | IX（Part IV） | 3470 | 待写 | |
 | ch49 | X（Part IV） | 3186 | 待写 | |
 | ch50 | Apogee | 93 | 待写 | |
