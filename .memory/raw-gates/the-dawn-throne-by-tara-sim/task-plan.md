@@ -46,8 +46,8 @@
 | ch35 | V（Part III） | 2226 | 完工 | 2b05e290b |
 | ch36 | VI（Part III） | 5016 | 完工 | 1bbda72b7 |
 | ch37 | VII（Part III） | 3844 | 完工 | c95b5f64e |
-| ch38 | VIII（Part III） | 4702 | 完工 | (见 ch39 批次) |
-| ch39 | IX（Part III） | 3968 | 待写 | |
+| ch38 | VIII（Part III） | 4702 | 完工 | 07f11fddd |
+| ch39 | IX（Part III） | 3968 | 完工 | (见 ch40 批次) |
 | ch40 | I（Part IV） | 2287 | 待写 | |
 | ch41 | II（Part IV） | 3108 | 待写 | |
 | ch42 | III（Part IV） | 2733 | 待写 | |
