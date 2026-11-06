@@ -1,0 +1,67 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch25",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch25_25_the_last_line_of_defence.txt",
+ "facts": [
+  {
+   "fact": "梅格在十九时把阿拉拽上舰桥：Deck 6 外侧起火，工程师因舰体被包围暂时无法扑救；五十艘己方舰在蜂巢外列阵迎击拉夫纳舰队。",
+   "anchor": "rising fast",
+   "start": 379,
+   "end": 390
+  },
+  {
+   "fact": "埃弗雷恩注意到阿拉没有吸入大量奥西米戴特后应有的“要命的头痛”，嘲笑她“撒谎拙劣”；她心里怀疑德泽维斯给的剂量没他说的那么多。",
+   "anchor": "quantity of osimidite",
+   "start": 2175,
+   "end": 2196
+  },
+  {
+   "fact": "里凯驾驶鹰隼号击碎一艘拉夫纳舰的舷窗，敌舰坠毁起火；德泽维斯当众称赞他。",
+   "anchor": "Excellent work, Rike",
+   "start": 3358,
+   "end": 3378
+  },
+  {
+   "fact": "里斯带德雷克赶到，德泽维斯让里斯返航参战，把阿拉留在舰桥负责无线电翻译：“她不是情报部门的吗？让她开始聪明起来。”",
+   "anchor": "start being intelligent",
+   "start": 4029,
+   "end": 4052
+  },
+  {
+   "fact": "阿拉一边翻译一边挣扎：外面是她的同胞，禁闭室里是科斯默；她戴上耳机，意识到德泽维斯想把这场伏击变成“融合”的一部分。",
+   "anchor": "Card of The Choice",
+   "start": 5121,
+   "end": 5139
+  },
+  {
+   "fact": "她与梅格译出拉夫纳的诱饵指令，意识到对方故意暴露下层甲板；里斯的“白蚁二十号”被困在射程之外。",
+   "anchor": "target Termite Twenty",
+   "start": 6942,
+   "end": 6963
+  },
+  {
+   "fact": "德雷克与阿拉指出敌舰已逼近奥西米戴特舱；德泽维斯坚称对方不会开火（爆炸半径会误伤己方），德雷克反驳“你不知道女王怎么下棋”。",
+   "anchor": "Osimidite Chamber",
+   "start": 8754,
+   "end": 8771
+  },
+  {
+   "fact": "“白蚁五号”径直撞向来犯，与敌舰同归于尽；德雷克说这是拉夫纳飞行员的训条——“不转向。牺牲。”阿拉浑身发抖，他伸手安慰，她却因两人触碰时的灼热火花而厌恶地退开。",
+   "anchor": "Do not swerve. Sacrifice.",
+   "start": 11233,
+   "end": 11258
+  },
+  {
+   "fact": "德泽维斯恢复指挥，命里凯与前线飞行员护住奥西米戴特舱；就在这时，阿拉的频道里传来一个熟悉的声音。",
+   "anchor": "Protect the Chamber",
+   "start": 12561,
+   "end": 12580
+  },
+  {
+   "fact": "阿拉在无线电里听见“亲爱的？”“我在这儿，亲爱的。”她脱口而出：“母亲？”",
+   "anchor": "I’m here, Darling",
+   "start": 13033,
+   "end": 13050
+  }
+ ]
+}
