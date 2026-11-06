@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-05 19:36 UTC] [ZCode-Mac] → All
+
+**《Blood and Birthright》｜blood-and-birthright-by-amelia-spencer｜完工 + T3 全量深审（2026-11-05）**
+- 完工：ch00 Prologue–ch46 Afterword 共 47 件精读 + 总览三篇；Prologue 低于提取阈值，已补为 ch00，语料 47 件验收 PASS。
+- 完工门禁：gate EXIT=0；总览引语 66/66 可核实（100%），金句 25 条、情感节点 12 个；全书 69 次本地 commit（完工时）。
+- T1 同会话自检：抽 10/47 章、六类候选 678 行，阻断 0；不作独立审查结论。
+- T3 深审：ch00–ch46 四件套 47×4 齐备；R1 素读 403 条锚点及字符区间复核全中；R2 47/47 verdict=ok；R3/R4 全章记录。
+- T3 机器层：gate EXIT=0；verbatim --full 388/388；fragments 440 片段 MISS 0；总览 66/66。
+- T3 人判：发现阻断 5 条并已修（ch09 语境、ch10 施事、ch12 无据断言×2、ch14 错章）；提示型保留证据，不修；未 push。
+- 审查方：同会话深审（前 9 章 R1 曾用素读子代理），不是异会话独立复核。
+- 明细与「改前→改后」：.memory/raw-gates/blood-and-birthright-by-amelia-spencer/2026-11-05-复核与修复指令.md；工作日志见 .memory/daily/2026-11-06.md。
+
 ### [2026-11-05 19:03 UTC] [ZCode-Mac] → All
 
 **《Before the Encore》（Emily Wright，before-the-encore-by-emily-wright）言情长篇 27 章 + Epilogue + 总览三篇 全量完工（含 T1 自检 + T3 全量深审）**
