@@ -1,0 +1,61 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch02",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch02_ii.txt",
+ "facts": [
+  {
+   "fact": "Dante 带魔典与恶魔 Azideh（黑雾，低语控心）重返曾囚禁他的 Gravespire，用魔音控制卫兵一路直上顶层死囚区，全程无人阻拦",
+   "anchor": "Take me to the topmost floor.",
+   "start": 2523,
+   "end": 2552
+  },
+  {
+   "fact": "他曾被这里的卫兵推搡唾骂、当作异端与杀人犯；如今故地重游靠的是他当年在牢里以血画出召唤阵换来的恶魔之力",
+   "anchor": "thinking him a heretic",
+   "start": 565,
+   "end": 587
+  },
+  {
+   "fact": "审判回溯：司法委员会审了数日，Lastrider 家力证 Dante 无罪，Cyr/Vakara/Mardova 三家出面证 Camilla 有罪；Angelica 也愿作证——理由是「我们需要你解读魔典」",
+   "anchor": "Houses Cyr, Vakara, and Mardova had offered themselves as witnesses",
+   "start": 4370,
+   "end": 4437
+  },
+  {
+   "fact": "Camilla 当庭承认杀 Prelate Lezzaro 并在诸神夜使用 Conjuration，但把自己塑造成悲剧英雄，绝口不提国王和她与国王所生之子",
+   "anchor": "she had admitted to Prelate Lezzaro’s murder",
+   "start": 5403,
+   "end": 5447
+  },
+  {
+   "fact": "有目击者看见 Taesia 施暴杀害 Don Samuel Soler 与 High Commissioner Cristoban Damari；Risha（曾复活 Soler 问话）在父亲注视下灰着脸低声承认报告属实",
+   "anchor": "witnesses who saw Taesia Lastrider engage in this wanton violence",
+   "start": 6270,
+   "end": 6335
+  },
+  {
+   "fact": "Elena 当庭打断宣判，宣布 Taesia 被逐出 Lastrider 家；最终判决：Dante 自由，Taesia 被家族除名",
+   "anchor": "As Taesia is hereby banished from House Lastrider.",
+   "start": 8613,
+   "end": 8663
+  },
+  {
+   "fact": "Dante 的 Solara 传送门实验节节失败：法阵怎么画都不动，改在 Phos 圣殿阶井尝试也只有一丝微颤；春分不到一周，他开始绝望",
+   "anchor": "all it had given him was a vague tremor",
+   "start": 13126,
+   "end": 13165
+  },
+  {
+   "fact": "Dante 以恶魔强制 Camilla 吐出 Lezzaro 遗言：法阵需祭品激活，最强祭品是「源自法阵所通领域」的血与魔法，须强到足以开门；他随即想起南 Vaega 高原上那名奉他之命坠崖的年轻女子",
+   "anchor": "Blood and magic that originates from the realm the circle leads to.",
+   "start": 17655,
+   "end": 17722
+  },
+  {
+   "fact": "Camilla 的交换条件是先见儿子（Fin/Vincenzo Accardi）被拒；Dante 出了墓塔躲进巷子里把胃里东西吐空——他清楚这规则意味着什么",
+   "anchor": "I will see my son first, Dante.",
+   "start": 15918,
+   "end": 15949
+  }
+ ]
+}

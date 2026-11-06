@@ -4,12 +4,12 @@
 - 部内章号重号 ⇒ H1 形态：`# NN. <罗马数字>（Part <N>: <部名>）`（sleepers `# NN. Chapter N（月名）`先例）；ch00/ch50 用书内自名 Perigee/Apogee
 - 验收：verify_corpus PASS（expect 51 · anchors ch00=Phos/ch01=Nikolas,Phos/ch21/ch31=Nikolas,Phos · shared=Nikolas,Phos,Sol · FAIL 0 WARN 0）
 - 批次节奏：长篇 1 章/次，每章 chapter.sh rc=0 立刻 pathspec commit；每批前 gate.sh
-- 状态：待写 ch00–ch50 + 总览三篇；ch01 试产待用户验收
+- 状态：ch01 试产验收通过（8a57ce346），批量推进 ch00–ch50 + 总览三篇 + T1
 
 | 章 | 书内标题 | 词数 | 状态 | commit |
 |---|---|---|---|---|
 | ch00 | Perigee | 3047 | 待写 | |
-| ch01 | I | 3264 | 试产中 | |
+| ch01 | I | 3264 | 完工 | 8a57ce346 |
 | ch02 | II | 3264 | 待写 | |
 | ch03 | III | 4578 | 待写 | |
 | ch04 | IV | 4941 | 待写 | |
