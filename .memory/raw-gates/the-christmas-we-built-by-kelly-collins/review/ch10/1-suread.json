@@ -1,0 +1,78 @@
+{
+ "chapter": "ch10",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "Three hours of broken sleep did not make kissing Griffin seem like a worse idea",
+   "fact": "诺拉只睡了三小时断续的觉，醒来仍不觉得吻格里芬是错的决定；她当时停住那个吻，是因为想要他想到害怕接下来会发生什么。",
+   "start": 31,
+   "end": 110,
+   "agent_start": 31,
+   "offset_verified": true
+  },
+  {
+   "anchor": "You don’t open until nine, and you showed up here at six fifteen",
+   "fact": "诺拉六点放弃睡眠走到 Sweet Provisions，六点十五就到了（她自己的店九点才开门）；Pearl 没问就给咖啡加了四包糖——全街都知道她的喝法；诺拉说道路十点才重新开放，Pearl 断定这是为了格里芬的事。",
+   "start": 898,
+   "end": 962,
+   "agent_start": 898,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I will gut Griffin Cole like a fish if he gives you one more reason",
+   "fact": "Pearl 点破这是诺拉第二次描述格里芬时说不完句子，并威胁：若格里芬再让她怀疑能否守住现有的一切，她会像剖鱼一样收拾他；她让诺拉去开店，还建议哪天跟他讲讲 Ivy 和垃圾桶的事——诺拉没说自己早已讲过；她心里只有两周的相处、没有证据。",
+   "start": 1730,
+   "end": 1797,
+   "agent_start": 1730,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I bought a going concern from a woman who’d run it for nineteen years",
+   "fact": "Winters Wonderland 是诺拉自己买下的现成生意——前女店主经营了十九年、想搬去亚利桑那且头也不回；这家店、这条街和这些邻居在格里芬·科尔到来之前就对她重要，之后也一样。",
+   "start": 2622,
+   "end": 2691,
+   "agent_start": 2622,
+   "offset_verified": true
+  },
+  {
+   "anchor": "At ten, a boy came in clutching three one-dollar bills",
+   "fact": "上午十点一个男孩攥着三张一美元钞票进店，问正好三美元能买什么；收银台旁的锡皮饰品每个一美元五十美分，他买了两个并要求用不同的纸分开包，钱数了两遍才交出——俄勒冈无销售税成全了这个最小的圣诞奇迹。",
+   "start": 2992,
+   "end": 3046,
+   "agent_start": 2992,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Two women from Albany walked the whole shop for forty minutes",
+   "fact": "十一月的慢早晨：两个从 Albany 来的女人逛了四十分钟、只买了一根蜡烛还连声道歉，但她们十二月二十日会带着清单回来；之后一个男人来换掉剑脱落的胡桃夹子，又花十分钟讲他母亲的收藏——诺拉说这才是真正的交易；正午前她把饰品陈列重排又摆回原样。",
+   "start": 3751,
+   "end": 3812,
+   "agent_start": 3751,
+   "offset_verified": true
+  },
+  {
+   "anchor": "This is Janet Park, executive assistant to Victor Crane at the Meridian Group",
+   "fact": "十二点十五分一通未知来电：Janet Park 自我介绍为 Meridian Group 的 Victor Crane 的行政助理，说 Crane 昨天已同格里芬谈过 Meridian 对主街六栋楼的财务权益，并将于周一到 Holly Creek 视察物业，还想占用诺拉二十分钟（他看到了地区报上她橱窗的照片）；诺拉答“周一可以，店九点开门”——而格里芬从未对她提过这通电话。",
+   "start": 4523,
+   "end": 4600,
+   "agent_start": 4523,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Pearl came over at one with her laptop and reading glasses",
+   "fact": "下午一点 Pearl 带电脑来查：诺拉把第九段、Crane 致电格里芬和周一造访的事告诉了她；Meridian 是真实存在的公司，Victor Crane 是旧金山的高级合伙人，投资遍及俄勒冈、蒙大拿和北加州，每个项目都先与本地开发者合资、之后该开发者消失、Meridian 独占；诺拉随后致电镇议会主席 Owen，他确认 Meridian 没有任何公开备案——唯一备案是不写 Meridian 名字的 Cole 修理许可，“没备案的答案得去问格里芬签了什么”；诺拉说会打电话给格里芬，但没有打。",
+   "start": 5606,
+   "end": 5664,
+   "agent_start": 5606,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Decking’s down. Frank signed off on it twice",
+   "fact": "下午四点格里芬短信报“装饰装好了，Frank 两次签收——一次出声、一次用身子压了压”；诺拉打出“问他 Victor Crane 的事”又一字一字删掉，只回了个“Good”——谷仓之约不到二十四小时她就先关上了门。她六点关门又留了两小时做十二月盘点：四十一个花圈骨架、九盒七月里因推销员好心而过量订购的德国玻璃、二百零六个锡皮饰品减两个；到午夜她把质问格里芬的对话排练了六遍，每遍都是抢先指责然后离开——这种自己先关门的做法她称之为智慧，已经八年。",
+   "start": 8237,
+   "end": 8281,
+   "agent_start": 8237,
+   "offset_verified": true
+  }
+ ]
+}

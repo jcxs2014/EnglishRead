@@ -1,0 +1,78 @@
+{
+ "chapter": "ch11",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "Victor Crane’s polished black car passed the old pharmacy at ten",
+   "fact": "十点 Crane 的黑色轿车驶过旧药房、开进格里芬等候的社区中心停车场；他是 Meridian 的高级合伙人——正是借给格里芬买下整街区所需的最后四十万美元的人；同车的 Meridian 律师 Robert Ellison 带着平板和激光测距仪，是把第九段写进格里芬融资协议的人；Robert 测量空置角落单元门面时倒退撞上推婴儿车的女士，Crane 命他去取县建筑图、查有没有 1902 年的原始测绘，并提醒他“人行道是带人来的”。",
+   "start": 34,
+   "end": 98,
+   "agent_start": 34,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The top layer of asphalt is from the eighties, laid over a base from the sixties",
+   "fact": "Crane 一到就打量停车场：北端有四个车位会积水，场灯只有一只灯泡还亮；他评估沥青面层是八十年代的、压在六十年代的基层上，还剩四个冬天；镇上会再补两年、最后花更多钱重铺——“这帮不了镇子，帮的是下一次预算会议”。",
+   "start": 758,
+   "end": 838,
+   "agent_start": 758,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Frank Donnelly owns the hardware store. He cleans these gutters every October",
+   "fact": "Crane 注意到有人维护闲置建筑的檐槽；格里芬答：五金店店主 Frank Donnelly 每年十月都来清理，尽管建筑不是他的，也不会收钱；Frank 七十一岁；Crane 说电子表格不会统计没人领薪的活，而这种无偿劳动常常是店门能开着的唯一原因——“把檐槽写进预算”。",
+   "start": 2537,
+   "end": 2614,
+   "agent_start": 2537,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“Twenty-two hundred square feet,” he said.",
+   "fact": "在空置的角落单元，Crane 现场测算：两千二百平方英尺；即使按每平方英尺一百五十美元改造到可出租（他认定做不到）也要三十三万美元，供暖、布线、水管再加六万；本街最近三份租约平均每年每平方英尺九美元，改造要收十七美元才回本——没有本地商家付得起近两倍的租金。",
+   "start": 3209,
+   "end": 3251,
+   "agent_start": 3209,
+   "offset_verified": true
+  },
+  {
+   "anchor": "You bought six buildings in sixty days while you were four hundred thousand dollars short",
+   "fact": "Crane 交底：他手下员工打遍全县汽车旅馆，节庆周末预订量比去年降两成，节日公开页面年年是同一小群人挂灯、搭摊、募款；格里芬六十天买下六栋楼、当时还差四十万美元，Meridian 出了差额——做对了 Meridian 赚利息，错过期限则可按他付出的价钱买下整街区，“两个结果对我都有利”，而只有一个对诺拉·温特斯有利。",
+   "start": 4175,
+   "end": 4264,
+   "agent_start": 4175,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The tree is four inches off-center",
+   "fact": "Crane 站在橱窗前评价：圣诞树偏中四英寸，但那是为了让人们从人行横道看得见、又不挡门口；高的靠后墙、小的齐眼高——“诺拉·温特斯懂得卖圣诞”；随即语气平静地警告“但愿她投了保险”——西侧地基已经位移，再移会伤及与面包店共用的墙。",
+   "start": 5210,
+   "end": 5244,
+   "agent_start": 5210,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Paragraph nine requires you to begin by January fifteenth",
+   "fact": "Crane 点明第九段要求一月十五日前开工；格里芬自 Crane 在 Morrison 太太车道上来电后就在排练回答，已把施工队排在一月二日——留出天气、验收或意外的余地；若错过期限，Meridian 便获得按他所付价钱买下整街区的权利；但开工意味着关掉诺拉的店数周——“在意人在这笔交易里可能让你输掉街区”。",
+   "start": 5788,
+   "end": 5845,
+   "agent_start": 5788,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I’ve admired your window in photographs for two weeks",
+   "fact": "Crane 与赶出店门的诺拉握手，自报“两周来只在照片里欣赏您的橱窗，实物更好”；诺拉回敬“想买街区的人，这话听着就贵”，并当场计时、指出他已用掉六分钟（Janet 周四来电时约的是二十分钟）；她带他下地下室看横梁——货架自 Adele 的九十年代起就靠在西墙，Crane 建议搬走以减轻西角重量；格里芬心虚：Crane 五天前来电却由助理告知诺拉；Crane 还自述花了十九年试图解决“无偿劳动上不了贷款申请”的问题。",
+   "start": 7012,
+   "end": 7065,
+   "agent_start": 7012,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Frank showed him the painted sign his grandfather had commissioned in 1947",
+   "fact": "下午四点前 Crane 陆续走访三家店：在 Donnelly Hardware 看 1947 年 Frank 祖父委托画的招牌——画师当年以炉具零件抵酬，炉子用到 1968 年、Frank 父亲改装燃气时烧掉一边眉毛；在 Callahan’s Books 被 Ivy 卖走一本初版书；在 Sweet Provisions 买下热可可和六个牛角包，并夸“比我在旧金山渡轮大厦买的都好”；Pearl 说铺防滑砂的配方是“两铲沙、一铲细砾、加一场拌到开春的拌嘴”；格里芬看着他用十五分钟做到了自己三周都没做好的事；Robert 四点半前带县档案回来；Pearl 目送黑车北上说“他真讨人喜欢”，又说自己认得这种甜——所以才担心。",
+   "start": 9898,
+   "end": 9972,
+   "agent_start": 9898,
+   "offset_verified": true
+  }
+ ]
+}
