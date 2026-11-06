@@ -1,0 +1,55 @@
+{
+ "book": "the-christmas-we-built-by-kelly-collins",
+ "chapter": "ch03",
+ "text": "notes/books/novels/the-christmas-we-built-by-kelly-collins/text/ch03_chapter_3.txt",
+ "facts": [
+  {
+   "fact": "诺拉从第二年起每年一月都在商户补助申请表的\"年度公众项目\"一栏用蓝墨水填报节日——补助撑着一二月死季的房租水电，昨晚之前这栏从来只是最无趣的一行",
+   "anchor": "Every January since my second year I’d filed the festival on my downtown merchant grant renewal",
+   "start": 1707,
+   "end": 1802
+  },
+  {
+   "fact": "十一点五十八分格里芬到：灰毛衣推到手肘、头发翘着一撮——瑕疵反而让他更好看；他只带一个文件夹，说明读完了她发的全部材料，这比翘头发更让她在意",
+   "anchor": "The flaw improved him, which was irritating",
+   "start": 3061,
+   "end": 3104
+  },
+  {
+   "fact": "雪橇之争：格里芬提议用灯光迷宫换掉 1986 年起就在、三天仅服务约两百人的雪橇项目——莫里森太太七十三岁，亡夫生前开创了这项生意，她仍年年十二月牵马来",
+   "anchor": "Her husband started them before he died. She’s seventy-three years old and she shows up every December with her horses",
+   "start": 6384,
+   "end": 6502
+  },
+  {
+   "fact": "诺拉失控替莫里森喊话：她二月里在厨房水槽洗马具，只因那是\"还像他做的最后几件活\"之一——\"把它填进表里，格里芬，告诉我该记在哪一栏\"",
+   "anchor": "She washes the harness in her kitchen sink. In February.",
+   "start": 8219,
+   "end": 8275
+  },
+  {
+   "fact": "格里芬让步\"帮我保住雪橇\"，并自解搭档逻辑：我知道东西的造价，你知道它们的意义；诺拉恼火地发现\"有道理\"是种卑鄙手段",
+   "anchor": "Apparently Owen paired us because I know what things cost and you know what they mean.",
+   "start": 7522,
+   "end": 7608
+  },
+  {
+   "fact": "被问\"为什么是圣诞\"：她原计划的人生崩塌后，一月三日提着两只行李箱来到霍利克里克，自认为错过了小镇最好的东西；次年十月弗兰克递给她码钉枪、指向节日花环——五年后她买下阿黛尔的店改名 Winters Wonderland",
+   "anchor": "I came to Holly Creek on the third of January, after the life I’d planned fell apart.",
+   "start": 9157,
+   "end": 9242
+  },
+  {
+   "fact": "珍珠闯入求助：步入式冷库\"在清嗓子\"、弗兰克腰伤发作、23 号前机器报废就砸四百美元黄油——格里芬当场诊断压缩机短循环、风扇电机，四十美元的零件，还愿意\"让弗兰克卖给你、我站外面\"",
+   "anchor": "My walk-in is clearing its throat, Frank’s back is out",
+   "start": 10822,
+   "end": 10876
+  },
+  {
+   "fact": "章末格里芬邀她走主街：\"给我你看见的部分，不是统计数据，是真的东西\"——她答应后才发现，那些他研究漏掉的故事里有多少本是她的",
+   "anchor": "I hadn’t considered how many of those stories were mine.",
+   "start": 12930,
+   "end": 12986
+  }
+ ]
+}
