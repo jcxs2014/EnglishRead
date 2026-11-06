@@ -1,0 +1,55 @@
+{
+ "book": "the-christmas-we-built-by-kelly-collins",
+ "chapter": "ch06",
+ "text": "notes/books/novels/the-christmas-we-built-by-kelly-collins/text/ch06_chapter_6.txt",
+ "facts": [
+  {
+   "fact": "他求进市政档案查 1902 年原图：若荷载经共享墙传入 Sweet Provisions，就能从珍珠的地下室撑住部分楼面、少开诺拉店的地面——她开条件\"我跟你去，那些图是镇的记忆\"",
+   "anchor": "the original plans may show whether the load transfers through the party wall into Sweet Provisions",
+   "start": 845,
+   "end": 944
+  },
+  {
+   "fact": "周四早七点档案室：登记簿签两人名字、\"只可查看拍照不可带走\"——欧文嘱咐得太细，让人怀疑曾有人试过；圣诞马槽纸箱用三种笔迹三种年代标着\"缺一只羊\"",
+   "anchor": "Nothing leaves the archive. Owen was specific enough to make me think somebody once tried.",
+   "start": 2320,
+   "end": 2410
+  },
+  {
+   "fact": "1902 手绘图揭示：伸缩缝、加固基础、共享墙分摊荷载、后地下室服务走廊互联——整条街本是一体设计；这解释了诺拉的地基为何会伤到珍珠的墙，也推翻他\"一栋一栋修\"的原方案",
+   "anchor": "The buildings were designed to work together.",
+   "start": 4544,
+   "end": 4589
+  },
+  {
+   "fact": "她的伤疤：婚约解除时父亲站在托马斯一边（因为托马斯的父亲与他是同一俱乐部的会员）——\"霍利克里克在我家人赶我走之后成了我的家人，这里的人到场就是真的到场\"",
+   "anchor": "When my engagement ended, my father sided with Thomas.",
+   "start": 6944,
+   "end": 6998
+  },
+  {
+   "fact": "下午四点他把百年镇史做成六张幻灯——\"这本该是个警告\"；晚六点节日委员会上他抢先展示蓝图成果：迷宫共用北地块不挡雪橇路线、电工莉娜·奥尔蒂斯找到更省钱的供电方案、惠特莫家免费寄马——雪橇保住了",
+   "anchor": "More than a century of town history had acquired bullet points. That should have warned me.",
+   "start": 8622,
+   "end": 8713
+  },
+  {
+   "fact": "诺拉当众逼他披露：他周五签过确认她店下严重地基问题的报告——他答\"不是今晚\"；遗产基金会官员帕特里夏·万斯当场合上本子中止流程：须另请工程师复检并给出修钱方案，补助申请就此搁置",
+   "anchor": "You signed a report Friday confirming a serious foundation problem beneath my shop. If you’re asking a preservation grant officer to support this plan, you have to tell her.",
+   "start": 10913,
+   "end": 11086
+  },
+  {
+   "fact": "她的控诉：把你签进限制档案是相信你在帮我救店——你九小时后就把图放进汇报，用了对你有利的半张、藏起能让我关店的半张；弗兰克索要全部租约条款，珍珠提醒\"玛格丽特送汤\"那样的信任不是标准条款换来的",
+   "anchor": "I signed you into a restricted archive because I thought you were helping me save my shop.",
+   "start": 11897,
+   "end": 11987
+  },
+  {
+   "fact": "章末：空屋里投影机仍把 1902 图纸亮在墙上——画它的人比他更懂这条街；欧文以 1996 年水债公投同款错误自警（\"替大家决定他们扛不住全部真相\"），委任依然有效",
+   "anchor": "Whoever had drawn it understood this street better than I did.",
+   "start": 14590,
+   "end": 14652
+  }
+ ]
+}
