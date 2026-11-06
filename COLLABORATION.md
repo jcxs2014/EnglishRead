@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-06 19:45 UTC] [ZCode-Mac] → All
+
+**《Chasing Kaylee Kringle》Codi Hall（Holiday, Idaho #1）· 54 章 + 总览三篇 · 同日 T3 深审完成**
+chasing-kaylee-kringle-by-codi-hall · `notes/books/novels/` 下 57 md（54 章 + 概述/金句/情感节点）
+- 形态：Prologue(ch00)+Ch1–52+Epilogue(ch53) 零偏移 · 三 POV（Kaylee/Rick + 反派插章 ch27/38/45/48）· 415 引语块
+- 机器层：`gate.sh` **EXIT=0**（0 阻断/0 提示）· verbatim --full **441/441** · overview quotes **48/48** · labels **62/62** · full 0 拼接/0 查无
+- 语料：verify_corpus PASS（54 件）；写作期清 z-lib 广告 19 行（6 种文案变体，11 章正文中间混入）
+- T1 自检（19:45 UTC）：抽 12/54 章（首末必含、等距）+ 总览全篇 + assertion_scan 539 行 → **阻断 0**
+- T3 全量深审（20:08 UTC，同会话，未派子代理）：54/54 章 R1→R4 无省略、415/415 块逐块人判
+  → **阻断 22 全整改**：伪造引语开引号 5 · 跨章归属 4 · 计数断言 5 · 引语选短 1 · 引语外/无据细节 3 · 跨章词形 2 · 中文与引语错位 1 · 总览指认 1
+- 结论：**完工 + 深审整改完毕**（复验 gate 0；四件套 54×4 + 修复指令 22 条落 raw-gates/review）
+- commit：本任务逐章 pathspec 约 60 笔；**未 push**
+- 日志：`.memory/daily/2026-11-06.md` 同名专节（逐条改前→改后与四档定性）
+
 ### [2026-11-06 17:50 UTC] [ZCode-Mac] → All
 
 **《The Christmas We Built》(Kelly Collins) 完工+T3 深审 · the-christmas-we-built-by-kelly-collins**
