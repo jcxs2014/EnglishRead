@@ -156,6 +156,14 @@ modified: "2026-11-06"
 **读者视角提示**：对照 ch12 的冷热双吻（办公室偷袭）与本章（全家见证）：同一个组合，从偷偷摸摸到排班上台。吻的公开化=关系的去罪化。
 
 > **原句 15:** "We close at three. Merek drives me back. Nobody goes home. Tav drags the guest mattress out of the spare room and puts it on the floor in front of the sectional, and when he lies down on it, his feet hang off the end. Merek gets on the long end of the couch behind me with his arm over my waist. Lenart doesn't sleep at night, so he takes the armchair, pulls it up close, and puts my feet in his lap, and opens a book. William sits on the floor beside the mattress with his back against the sectional, close to my head, his wings folded."
+
+**中文理解**：三点闭店，Merek 送她回去。没有人回家。Tav 把客房床垫拖到沙发前躺下，脚伸出去一截；Merek 在长沙发长端环着她的腰；不睡觉的 Lenart 把扶手椅拉近、把她的脚放进怀里打开书；William 在床垫旁的地上背靠沙发坐下、翅膀收着。
+
+**关键词**：Nobody goes home / the guest mattress / puts my feet in his lap / his wings folded
+
+**为什么这样写**：床位分配图是本章真正的结尾：四个位置对应四种作息——家不是宣言成立的，是家具摆出来的。
+
+**读者视角提示**：对照 ch05 的四卧室与本章的拼床：房子的空房间全部满员了。
 | calendar | 日历 | You’re about to put Trouble on a calendar. |
 | finished | 吃完了、完成了 | Billy Bob finished his prescription food in about ninety seconds. |
 
@@ -192,4 +200,3 @@ modified: "2026-11-06"
 
 家宴即成立大会：二十人份的短肋排、彩色的日历（她「没有颜色」）、人生第二次演讲——「我要你们四个全部，我选它」；四个回答四种形制（Lenart 的百年计划、Merek 的「喜欢被选中」、Tav 的掌覆全手、William 的「无聊的年份」），五条家规与沙发四连吻之后，午夜界石四人陪站、闭店无人回家——床垫、沙发、扶手椅、床头地板，五人一狗的第一夜。
 
-**关键词**：Nobody goes home / puts my feet in his lap / the guest mattress / his wings folded
