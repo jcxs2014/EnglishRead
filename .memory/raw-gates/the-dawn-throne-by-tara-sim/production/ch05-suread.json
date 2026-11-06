@@ -1,0 +1,61 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch05",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch05_v.txt",
+ "facts": [
+  {
+   "fact": "开场梦境：阶井厅堂里金甲大汉与饰金瘦子对话被时间剪碎（How many?→数字为何下降），瘦子质疑「他说的属实吗」即触怒大汉；阶井如火山口迸发火花与灰",
+   "anchor": "A wrinkle, a crack in stone, and the stepwell opened like the mouth of a volcano, spitting spark and ash.",
+   "start": 2027,
+   "end": 2132
+  },
+  {
+   "fact": "梦中暗影里有一双「宇宙之眼」呼吸起伏——正是唤来 Julian 的兽；瘦子越过镀金肩头与那双眼一同闪现，黑暗随即将 Julian 整个吞没",
+   "anchor": "cosmic eyes flashed.",
+   "start": 2683,
+   "end": 2703
+  },
+  {
+   "fact": "Julian 赴会路上：诸神殿史上首次闭门；内城橱窗成排 PERMANENTLY CLOSED、乞讨者消失、行人目不斜视",
+   "anchor": "But the basilicas, for the first time anyone could remember, were closed to the public.",
+   "start": 4114,
+   "end": 4201
+  },
+  {
+   "fact": "Julian 是穷人：已从 Hunters 离职（数周前被正式除名却没收到通知），积蓄见底；母亲 Marjorie 患 languor 慢性病无法工作，药只够撑几个月",
+   "anchor": "she suffered a chronic condition referred to as languor",
+   "start": 5738,
+   "end": 5793
+  },
+  {
+   "fact": "茶会在 Thakar's Tearoom 兰室：Angelica/Risha/Dante/Brailee/Cyr 兄弟到齐；侍者称他 Lord Luca 引发窘迫；Risha 的发辫已剪短至肩上（呼应上章剪辫）",
+   "anchor": "It now reached above her shoulders.",
+   "start": 10034,
+   "end": 10069
+  },
+  {
+   "fact": "情报汇总：Phos 的 fulcrum 毫无线索（Solarian 难民与档案皆无果）；已知 Deia 与 Nyx 的；Risha 提出 Samhara 即 Thana 分裂四份的本源——诸神或将本源拆分",
+   "anchor": "If Thana split her fulcrum between four different beings, this might mean all the gods can do the same.",
+   "start": 17069,
+   "end": 17172
+  },
+  {
+   "fact": "Brailee 修梦行术想进 Taesia 的 dreamscape（被 Nyx 挡住，只瞥见一角）；Nikolas 怒斥「她自选离开，与我们无关」，Dante 以阴影压场警告 Careful, Cyr；Julian 自己夜夜梦见 Taesia（同行、斗剑、触碰），Dante 读到了",
+   "anchor": "We think she may have found a way to Solara.",
+   "start": 18481,
+   "end": 18525
+  },
+  {
+   "fact": "Camilla 遗训公开：开门需祭品，跨领域所需「远远不止一滴血」；Angelica 提出春分以 Cyr 血入 Solarian 阶井，Risha 建议用死者（Godan Mountains）被 Angelica 以 Azuna 局势驳回；Nikolas 请缨献血求 Risha 事后医治，Rian 反问「若要的不只是血而是命呢」；Julian 劝勿用阶井（预知梦）被 Dante/Nikolas 否决",
+   "anchor": "What if it requires not just blood, but a life?",
+   "start": 25781,
+   "end": 25828
+  },
+  {
+   "fact": "章末地震：Julian 胸口如吞玻璃碎片般刺痛、Rian 抬头、Angelica 抓桌沿；光暗双罩护众；Angelica 额上裂开蓝眼、跺脚镇震；震后 Risha 膝上散落红茶糕与红花瓣（桌上本无花）——Rian 指认震中在 Phos 圣殿",
+   "anchor": "It’s Phos’s basilica.",
+   "start": 30897,
+   "end": 30918
+  }
+ ]
+}
