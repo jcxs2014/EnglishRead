@@ -35,8 +35,8 @@
 | ch24 | IV（Part II） | 2559 | 完工 | 45bf6e804 |
 | ch25 | V（Part II） | 3153 | 完工 | 4e9db1295 |
 | ch26 | VI（Part II） | 4910 | 完工 | 3321fc15b |
-| ch27 | VII（Part II） | 2129 | 完工 | (见 ch28 批次) |
-| ch28 | VIII（Part II） | 2239 | 待写 | |
+| ch27 | VII（Part II） | 2129 | 完工 | 25bb9e01e |
+| ch28 | VIII（Part II） | 2239 | 完工 | (见 ch29 批次) |
 | ch29 | IX（Part II） | 3578 | 待写 | |
 | ch30 | X（Part II） | 1921 | 待写 | |
 | ch31 | I（Part III） | 4376 | 待写 | |
