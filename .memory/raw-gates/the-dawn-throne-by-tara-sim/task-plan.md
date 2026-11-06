@@ -28,8 +28,8 @@
 | ch17 | XVII | 1546 | 完工 | d801fc644 |
 | ch18 | XVIII | 2199 | 完工 | 49de9102d |
 | ch19 | XIX | 1633 | 完工 | 14ce4e8f3 |
-| ch20 | XX | 1254 | 完工 | (见 ch21 批次) |
-| ch21 | I（Part II） | 2465 | 待写 | |
+| ch20 | XX | 1254 | 完工 | c29957a17 |
+| ch21 | I（Part II） | 2465 | 完工 | (见 ch22 批次) |
 | ch22 | II（Part II） | 3685 | 待写 | |
 | ch23 | III（Part II） | 3659 | 待写 | |
 | ch24 | IV（Part II） | 2559 | 待写 | |
