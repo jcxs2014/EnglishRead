@@ -56,8 +56,8 @@
 | ch45 | VI（Part IV） | 2372 | 待写 | |
 | ch46 | VII（Part IV） | 1470 | 待写 | |
 | ch47 | VIII（Part IV） | 2054 | 完工 | 0a83e8374 |
-| ch48 | IX（Part IV） | 3470 | 完工 | (见 ch49 批次) |
-| ch49 | X（Part IV） | 3186 | 待写 | |
+| ch48 | IX（Part IV） | 3470 | 完工 | de5b6ba50 |
+| ch49 | X（Part IV） | 3186 | 完工 | (见 ch50 批次) |
 | ch50 | Apogee | 93 | 待写 | |
 | — | 总览三篇 00_概述/00_金句精选/00_情感节点 | | 最后写 | |
 | — | T1 自检（t1-verdict/t1-candidates/台账） | | 完工前 | |
