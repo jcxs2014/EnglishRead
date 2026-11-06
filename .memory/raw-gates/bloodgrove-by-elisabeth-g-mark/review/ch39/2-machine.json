@@ -1,0 +1,349 @@
+{
+  "chapter": 39,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/ch39 the courtyard duel.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch39_chapter_39.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "With the white lion's pelt draped across his belly, he was king of the beasts tearing one another apart in the dirt befo",
+          "ok": true,
+          "pos": 2497
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“He could give her his blood. But I assume he wants to see her submit. Every day she insists on remaining in the contest",
+          "ok": true,
+          "pos": 3300
+        }
+      ],
+      "words": 42
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Open your mouth for me,” Will commanded quietly, holding his wrist above her",
+          "ok": true,
+          "pos": 6071
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "No matter how fiercely the other clan tried to hold her down, she rose and shook away the last of the paralysis. Her gaz",
+          "ok": true,
+          "pos": 6791
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "The moment she had gathered enough blood, she pulled her hands apart, her teeth bared in a furious grimace, and Duke Boh",
+          "ok": true,
+          "pos": 7437
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Surrender!” Elodie called to the remaining members of Clan Bohun, her voice still hoarse. “Renounce your titles, or I w",
+          "ok": true,
+          "pos": 7945
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Cowards,” Elodie scoffed. Not because they had refused to face her in battle, but because they had been too cowardly to",
+          "ok": true,
+          "pos": 8652
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "He fed her his heart's blood, and here, before every watching eye, her tongue passed across his skin, mingling burning p",
+          "ok": true,
+          "pos": 9512
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“You no longer need to fight. I will provide for us. I have more than you could ever imagine. My beautiful Elodie, alway",
+          "ok": true,
+          "pos": 10317
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“William Frank.”",
+          "ok": true,
+          "pos": 10629
+        }
+      ],
+      "words": 2
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 37,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 52,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 72
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.69
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 42
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.78,
+        "读者视角提示": 0.45
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 45,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.51,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 22,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 28,
+        "关键词": 0,
+        "为什么这样写": 44,
+        "读者视角提示": 67
+      },
+      "cjk_ratio": {
+        "中文理解": 0.65,
+        "关键词": 0.0,
+        "为什么这样写": 0.72,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 75
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 41,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.42
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 35,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 73
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.74,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 70
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.73
+      }
+    }
+  ],
+  "form": {
+    "h1": "39. Chapter 39",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      5,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1932,
+    "block_target": [
+      4,
+      6
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 57 章中位 10、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

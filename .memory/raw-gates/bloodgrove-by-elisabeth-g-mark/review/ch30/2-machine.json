@@ -1,0 +1,322 @@
+{
+  "chapter": 30,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/ch30 the warm stone.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch30_chapter_30.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "It was warm inside, yet Will still braced himself for the cool touch of stone against his skin. It never came. The wall ",
+          "ok": true,
+          "pos": 1186
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“No one sees the king. That is why he has the Red Hand.”",
+          "ok": true,
+          "pos": 1925
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“Must you see everything with your own eyes to know it exists?” Saint leaned toward him across the bench, bracing himsel",
+          "ok": true,
+          "pos": 2104
+        }
+      ],
+      "words": 39
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Yes. They told me the King built this house.”",
+          "ok": true,
+          "pos": 2850
+        }
+      ],
+      "words": 9
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“Come with me the next time I go hunting. I need fresh specimens for my laboratory anyway. Did you receive your human bo",
+          "ok": true,
+          "pos": 3363
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“I am going to check on my father.” The moment the words left him, Saint squeezed past her and darted away, the bells of",
+          "ok": true,
+          "pos": 4134
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“He has worshiped me since he was ten. At some point, I made the mistake of showing him my wardrobe, and ever since then",
+          "ok": true,
+          "pos": 4829
+        }
+      ],
+      "words": 31
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“That is the point. They may not influence the final decision, but their approval is a form of currency in this city. I ",
+          "ok": true,
+          "pos": 5192
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "Carefully, Will slid his hand across the bench until he could brush his little finger over hers. She hooked her finger a",
+          "ok": true,
+          "pos": 5429
+        }
+      ],
+      "words": 31
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 0,
+        "为什么这样写": 49,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.76
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 46,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.9,
+        "读者视角提示": 0.74
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 14,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 59
+      },
+      "cjk_ratio": {
+        "中文理解": 0.74,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.81
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 57
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 32,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 40,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.61
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.8
+      }
+    }
+  ],
+  "form": {
+    "h1": "30. Chapter 30",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 9,
+    "block_median": 10.0,
+    "block_range": [
+      5,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 9,
+    "quote_long": 0,
+    "segments": 9,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1048,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 57 章中位 10、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

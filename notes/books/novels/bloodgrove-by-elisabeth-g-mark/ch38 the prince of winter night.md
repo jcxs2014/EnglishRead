@@ -31,7 +31,7 @@ modified: "2026-11-05"
 **为什么这样写**：他的噩梦是本章的档案回放：倒吊、锁链、看不见的脸——创伤以「匿名化」的方式重播。看不见，是因为身体记得的是触感不是面孔。
 **读者视角提示**：把「看不见的脸」与 Eric 的「温热的手」对上（下一句）——读者已经知道那双手是谁的。他的噩梦没有名字，他的现实里那个名字越来越响。
 
-> **原句 4:** ““No. I am the hunter. An enormous monster with claws and fur, made to kill.” Eric flexed his hand. “But I am never fast enough to catch my prey. I lose their trail in the snow or starve before a laden table. Always too late to save what is mine.””
+> **原句 4:** "“No. I am the hunter. An enormous monster with claws and fur, made to kill.” Eric flexed his hand. “But I am never fast enough to catch my prey. I lose their trail in the snow or starve before a laden table. Always too late to save what is mine.””
 **中文理解**：「不。我是猎手——一只生来杀戮的巨怪，长着爪与毛。但我永远不够快，追不上猎物：在雪里丢了踪迹，或在满桌筵席前饿死。总是来不及救回属于我的东西。」
 **关键词**：I am the hunter / never fast enough / what is mine
 **为什么这样写**：他的噩梦是倒置的：别人梦被追，他梦「追不上」——无力感的猎手版。三个失败场景（失踪、饿死、迟到）排成他的命运三联画：「属于我的」永远在别人得手之后到达。

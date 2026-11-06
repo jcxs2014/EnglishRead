@@ -1,0 +1,403 @@
+{
+  "chapter": 26,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/ch26 people like me cannot afford mistakes.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch26_chapter_26.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "A ghostly silence, though not cold or alien, but alive with the ancestors who had spent their lives here. Will tasted th",
+          "ok": true,
+          "pos": 25
+        }
+      ],
+      "words": 37
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "Elodie hurled her blood daggers at the man and sliced away half his head. The crown of his skull slid aside, and brain m",
+          "ok": true,
+          "pos": 649
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "The opposite of the perfect, sensual vision she had been all those weeks ago. Then, she had seemed untouchable. Now she ",
+          "ok": true,
+          "pos": 1734
+        }
+      ],
+      "words": 44
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "He licked across the wound, not cautiously as he had before, but completely, filling his mouth with the feel of her soft",
+          "ok": true,
+          "pos": 2258
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "In the next instant, he was against her, pressing her into the wall, her arm still in his hand and now pinned to the woo",
+          "ok": true,
+          "pos": 2494
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“Will.” Her fingers clawed into his shirt, holding him exactly where he was",
+          "ok": true,
+          "pos": 3730
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“I cannot,” she whispered, her voice feverish",
+          "ok": true,
+          "pos": 3882
+        }
+      ],
+      "words": 7
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“But I want you anyway,” she whispered",
+          "ok": true,
+          "pos": 4954
+        }
+      ],
+      "words": 7
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "But for now, he remained where he was, kneeling before her like a knight before his queen, and he would change nothing",
+          "ok": true,
+          "pos": 11935
+        }
+      ],
+      "words": 22
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“This was a mistake,” she whispered while he was still basking in his triumph",
+          "ok": true,
+          "pos": 12443
+        }
+      ],
+      "words": 14
+    },
+    {
+      "block": "原句11",
+      "no": 11,
+      "segments": [
+        {
+          "text": "“Do not forget, among all your schemes and plans, that you are also human—a human who may need a few more mistakes in he",
+          "ok": true,
+          "pos": 13520
+        }
+      ],
+      "words": 25
+    },
+    {
+      "block": "原句12",
+      "no": 12,
+      "segments": [
+        {
+          "text": "“People like me cannot afford mistakes!”",
+          "ok": true,
+          "pos": 13737
+        }
+      ],
+      "words": 6
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 54,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.89,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.83
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 67,
+        "读者视角提示": 54
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 59,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.82,
+        "读者视角提示": 0.68
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 38,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.84,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 69
+      },
+      "cjk_ratio": {
+        "中文理解": 0.86,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 20,
+        "关键词": 0,
+        "为什么这样写": 66,
+        "读者视角提示": 48
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 10,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.67,
+        "关键词": 0.0,
+        "为什么这样写": 0.75,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 11,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 49
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.81,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.87
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 19,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 66
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.76,
+        "读者视角提示": 0.5
+      }
+    },
+    {
+      "block": "原句11",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句12",
+      "cjk": {
+        "中文理解": 7,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.64,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.79
+      }
+    }
+  ],
+  "form": {
+    "h1": "26. Chapter 26",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 12,
+    "block_median": 10.0,
+    "block_range": [
+      5,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 12,
+    "quote_long": 0,
+    "segments": 12,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 2459,
+    "block_target": [
+      4,
+      8
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 57 章中位 10、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

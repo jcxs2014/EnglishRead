@@ -23,7 +23,7 @@ modified: "2026-11-05"
 **中文理解**：但让他凝住的是天花板上垂落的重重铁链——有的一副、有的两副——每条末端都拴着铁镣；镣铐下方的拼花地板上，浸着大片大片的红褐色污渍。
 **关键词**：chains / iron manacles / reddish-brown stains
 **为什么这样写**：不写一个「血」字，只给颜色（reddish-brown）与位置（镣铐正下方）——证据自己会说话。铁链「成双成对」的细节让用途无需言明，读者脑内自动完成行刑画面。
-**读者视角提示**：这是舞厅的第一层底色：它是刑房还是某种「仪式厅」，此刻只给物证不给解释。请连同下一块的红褐污渍一起存档——它们会跟「嗜血欲」这个词接上头。
+**读者视角提示**：这是舞厅的第一层底色：它是刑房还是某种「仪式厅」，此刻只给物证不给解释。请连同这同一块里的红褐污渍一起存档——它们会跟「嗜血欲」这个词接上头。
 
 > **原句 3:** "Slowly, the butler stepped onto the stained wood. “The old master succumbed to the bloodlust.”"
 > "“Bloodlust?”"
@@ -49,7 +49,7 @@ modified: "2026-11-05"
 > "“There was no fourth child.”"
 **中文理解**：「那第四个孩子是谁？」他缓过气来，重新站直了问。「没有第四个孩子。」
 **关键词**：fourth child / no fourth child
-**为什么这样写**：孩子画的「全家福」明明四个人，管家的纠正却只有六个词——一次对视就够的恐怖。证物（画）与证词（口）正面冲突，作者故意不给裁决，让违和感自己发酵。
+**为什么这样写**：孩子画的「全家福」明明四个人，管家的纠正（「There was no fourth child.」）只有五个词——一次对视就够的恐怖。证物（画）与证词（口）正面冲突，作者故意不给裁决，让违和感自己发酵。
 **读者视角提示**：这是本章留白最狠的一枪：画上多出的孩子、两位亡妹、腹中死胎，「四」这个数字后面藏着这个家的结构秘密。先记下，别急着解题——书会自己回来收。
 
 > **原句 7:** "“Mr. Frank, you are an outsider. You do things differently from the way they are done here. You have no respect for this family or for the power of this house. Until Her Grace takes personal charge of the work, that responsibility falls to me.”"

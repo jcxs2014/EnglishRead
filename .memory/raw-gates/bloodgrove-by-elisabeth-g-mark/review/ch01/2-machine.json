@@ -14,7 +14,7 @@
           "pos": 10
         }
       ],
-      "words": 61
+      "words": 67
     },
     {
       "block": "原句2",
@@ -69,6 +69,18 @@
       "no": 6,
       "segments": [
         {
+          "text": "A year later, the headline from A Lady’s Guide sounded like nothing but mockery. Where he had once had a little toe, whe",
+          "ok": true,
+          "pos": 10688
+        }
+      ],
+      "words": 35
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
           "text": "Even now, he thought he could taste salt on his tongue. Goosebumps crawled over his arms. His lover had suddenly been st",
           "ok": true,
           "pos": 11120
@@ -77,8 +89,8 @@
       "words": 34
     },
     {
-      "block": "原句7",
-      "no": 7,
+      "block": "原句8",
+      "no": 8,
       "segments": [
         {
           "text": "To avoid a scandal and the charges that would follow, he fled the city",
@@ -89,8 +101,8 @@
       "words": 14
     },
     {
-      "block": "原句8",
-      "no": 8,
+      "block": "原句9",
+      "no": 9,
       "segments": [
         {
           "text": "It is time for your light to illuminate Bloodgrove and usher in a new age. My house has been in my family's keeping for ",
@@ -101,8 +113,8 @@
       "words": 44
     },
     {
-      "block": "原句9",
-      "no": 9,
+      "block": "原句10",
+      "no": 10,
       "segments": [
         {
           "text": "Tear down what has gathered dust. Cast aside what holds no value in a new world. You have free rein",
@@ -192,6 +204,21 @@
     {
       "block": "原句6",
       "cjk": {
+        "中文理解": 48,
+        "关键词": 0,
+        "为什么这样写": 63,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
         "中文理解": 70,
         "关键词": 0,
         "为什么这样写": 70,
@@ -205,7 +232,7 @@
       }
     },
     {
-      "block": "原句7",
+      "block": "原句8",
       "cjk": {
         "中文理解": 74,
         "关键词": 0,
@@ -220,7 +247,7 @@
       }
     },
     {
-      "block": "原句8",
+      "block": "原句9",
       "cjk": {
         "中文理解": 63,
         "关键词": 0,
@@ -235,7 +262,7 @@
       }
     },
     {
-      "block": "原句9",
+      "block": "原句10",
       "cjk": {
         "中文理解": 31,
         "关键词": 0,
@@ -265,8 +292,8 @@
       "为什么这样写",
       "读者视角提示"
     ],
-    "blocks": 9,
-    "block_median": 9.0,
+    "blocks": 10,
+    "block_median": 10.0,
     "block_range": [
       5,
       12
@@ -284,9 +311,9 @@
     "baseline": "book"
   },
   "counts": {
-    "blocks": 9,
+    "blocks": 10,
     "quote_long": 0,
-    "segments": 9,
+    "segments": 10,
     "segment_miss": 0,
     "struct_bad": 0,
     "empty_quote": 0,
@@ -306,7 +333,7 @@
   "block_limit": {
     "lo": 2,
     "hi": 15,
-    "basis": "本书 57 章中位 9、最高 12（同类书按本书分布判）"
+    "basis": "本书 57 章中位 10、最高 12（同类书按本书分布判）"
   },
   "issues": {
     "struct": [],

@@ -1,0 +1,295 @@
+{
+  "chapter": 38,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/ch38 the prince of winter night.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch38_chapter_38.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "“Stay. It is my own fault you are here. Otherwise, the house would not have led you to this place. It enjoys tormenting ",
+          "ok": true,
+          "pos": 2086
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "He looked like the prince of winter night, arriving when frost descended upon the fields like death",
+          "ok": true,
+          "pos": 2897
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "“I still have nightmares. I am hanging in those chains while someone drinks from my throat, but I cannot see who it is.”",
+          "ok": true,
+          "pos": 3484
+        }
+      ],
+      "words": 23
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "No. I am the hunter. An enormous monster with claws and fur, made to kill.” Eric flexed his hand. “But I am never fast e",
+          "ok": true,
+          "pos": 3831
+        }
+      ],
+      "words": 50
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "It was like watching a puppet show—wound-up dancers spinning inside a music box",
+          "ok": true,
+          "pos": 4253
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“The morning after New Year's. Perhaps you could visit me sometime when you are in the Capitol.”",
+          "ok": true,
+          "pos": 4812
+        }
+      ],
+      "words": 17
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "Suddenly, the wind died. Snowflakes hovered forgotten in the air, and a new energy rose from the castle",
+          "ok": true,
+          "pos": 5090
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "Eric's eyes widened. “Elodie.”",
+          "ok": true,
+          "pos": 5279
+        }
+      ],
+      "words": 4
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 33,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 17,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.64
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 50
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 61,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.55
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.78
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 60,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.83,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 25,
+        "关键词": 0,
+        "为什么这样写": 47,
+        "读者视角提示": 52
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.85,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 13,
+        "关键词": 0,
+        "为什么这样写": 57,
+        "读者视角提示": 78
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.89,
+        "读者视角提示": 0.76
+      }
+    }
+  ],
+  "form": {
+    "h1": "38. Chapter 38",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 8,
+    "block_median": 10.0,
+    "block_range": [
+      5,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 8,
+    "quote_long": 0,
+    "segments": 8,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 976,
+    "block_target": [
+      2,
+      3
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 57 章中位 10、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+ "book": "bloodgrove-by-elisabeth-g-mark",
+ "chapter": "ch02",
+ "text": "notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch02_chapter_2.txt",
+ "facts": [
+  {
+   "fact": "一位老太太在餐车主动叫出威尔的全名邀他同桌，陌生人知其名令他无法拒绝",
+   "anchor": "Mr. Frank, do sit with me",
+   "start": 1529,
+   "end": 1554
+  },
+  {
+   "fact": "威尔以为本线只停首都与血林，Lady Wilkinson 却说自己前一站就上了车——那是列车长为她破的例，理由是国王对其家族极为优待",
+   "anchor": "He made an exception for me.",
+   "start": 3198,
+   "end": 3226
+  },
+  {
+   "fact": "月台遮面乘客在头等车厢现身，威尔凭手杖认出他：银柄是张着双颚的狼头",
+   "anchor": "head with its jaws stretched wide",
+   "start": 4292,
+   "end": 4325
+  },
+  {
+   "fact": "威尔压低声音打听，公爵夫人答：那是埃里克·阿科斯先生，红衣大使，血林驻首都的王室大使",
+   "anchor": "That is Mr. Eric Arcos, the Red Ambassador",
+   "start": 5776,
+   "end": 5818
+  },
+  {
+   "fact": "公爵夫人不在车上用餐，声称回家才吃；阿科斯隔车点破：她只是不愿付全价车票索取的代价",
+   "anchor": "She did not wish to pay the price a full ticket demands",
+   "start": 7149,
+   "end": 7204
+  },
+  {
+   "fact": "阿科斯拒绝同桌后威尔吞下失望，自认愿望自私——他还想再看一眼那张英俊的脸，研究浅肤、亮眼、黑发的对比",
+   "anchor": "wanted another glimpse of that handsome face",
+   "start": 7897,
+   "end": 7941
+  },
+  {
+   "fact": "初见血林：如全世界的教堂被掷上山坡层层堆叠成尖顶瀑布，却被煤烟熏黑成焦骨与灰烬，威尔只能称之为怪物之城",
+   "anchor": "someone had gathered every cathedral in the world",
+   "start": 10866,
+   "end": 10915
+  },
+  {
+   "fact": "黑马车把他放在无人的窄巷府邸前，他叩响双猛禽死亡螺旋门环，门开时只传来一句：弗兰克先生，奥蒙德公爵夫人在等您",
+   "anchor": "Duchess Ormonde is expecting you.",
+   "start": 15741,
+   "end": 15774
+  }
+ ]
+}

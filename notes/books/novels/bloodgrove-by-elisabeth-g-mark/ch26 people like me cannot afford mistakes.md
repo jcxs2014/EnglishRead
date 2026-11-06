@@ -59,7 +59,7 @@ modified: "2026-11-05"
 **中文理解**：「可我还是想要你。」她低声说。
 **关键词**：But I want you anyway
 **为什么这样写**：全章的转折只占五个词：所有理智条款被一个「但」字清空。她的欲望第一次走在算计前面——这句话对她的分量比对任何人都重。
-**读者视角提示**：接 ch20 「 People like me cannot afford mistakes」的预告：今晚她明知故犯。五个词的成本是她的整个防御体系——记住这个「但」，它后面所有的温柔都要用政治来偿还。
+**读者视角提示**：接本章「People like me cannot afford mistakes」的预告：今晚她明知故犯。五个词的成本是她的整个防御体系——记住这个「但」，它后面所有的温柔都要用政治来偿还。
 
 > **原句 9:** "But for now, he remained where he was, kneeling before her like a knight before his queen, and he would change nothing."
 **中文理解**：但此刻，他停在原地——像骑士跪在女王面前——而他不愿改变分毫。

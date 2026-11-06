@@ -40,7 +40,7 @@ modified: "2026-11-05"
 > **原句 5:** "It all sounded suspiciously like the very thing from which he had fled, and for a moment panic threatened to drive its blade into his heart. He swiftly forced it down."
 **中文理解**：这一切听上去可疑地像他逃离的那种东西，恐慌一度要把刀刃捅进他心脏；他迅速把它压了下去。
 **关键词**：fled / panic / blade
-**为什么这样写**：上一秒还是甲方愿景，下一秒串到伦敦旧案——作者只让恐慌「.drive its blade」闪了一瞬就撤，写的是应激而非崩溃。刀的意象顺手接回 ch01 他动刀唤魔法的旧伤。
+**为什么这样写**：上一秒还是甲方愿景，下一秒就串回首都的旧案——作者只让恐慌「drive its blade」闪了一瞬就撤，写的是应激而非崩溃。刀的意象顺手接回 ch01 他动刀唤魔法的旧伤。
 **读者视角提示**：威尔的自我安抚话术（「这次不一样」）已经上线。请记住他的解法是「不用魔法、只凭天赋」——这句话在血林这种地方能撑多久，就是前半本书的悬念。
 
 > **原句 6:** "“And Mr. Frank—I strongly advise you not to leave the house after dark.”"

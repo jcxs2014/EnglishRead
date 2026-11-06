@@ -1,0 +1,55 @@
+{
+ "book": "bloodgrove-by-elisabeth-g-mark",
+ "chapter": "ch05",
+ "text": "notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch05_chapter_5.txt",
+ "facts": [
+  {
+   "fact": "洗澡也洗不掉噩梦的黏腻感；他按着心口听稳定心跳，确认没有第二个心跳回应",
+   "anchor": "no second heartbeat answered",
+   "start": 560,
+   "end": 588
+  },
+  {
+   "fact": "管家代公爵夫人带他看舞厅：大门曲柄里穿过一条链子锁着",
+   "anchor": "threaded a chain through the curved handles",
+   "start": 1083,
+   "end": 1126
+  },
+  {
+   "fact": "舞厅天花垂满铁链、末端尽是镣铐，下方拼花地板浸着大片红褐色污渍——威尔冲上阳台吐掉早餐",
+   "anchor": "each ending in iron manacles",
+   "start": 2287,
+   "end": 2315
+  },
+  {
+   "fact": "管家答老主人死于嗜血欲：喝血太多、召血太多，意志不够强，崩了",
+   "anchor": "The old master succumbed to the bloodlust",
+   "start": 3646,
+   "end": 3687
+  },
+  {
+   "fact": "威尔把魔法与梦锁进胸中「忘室」，发誓无论代价都要补完他在王后表亲舞厅输掉的东西",
+   "anchor": "He would finish what he had lost",
+   "start": 4909,
+   "end": 4941
+  },
+  {
+   "fact": "管家报公爵夫人家史：两个妹妹，一个腹中带着死胎死去，一个自尽",
+   "anchor": "with a dead child in her womb",
+   "start": 6558,
+   "end": 6587
+  },
+  {
+   "fact": "墙上孩子画的「全家」明明有四个孩子，管家却纠正：没有第四个孩子",
+   "anchor": "There was no fourth child.",
+   "start": 6769,
+   "end": 6795
+  },
+  {
+   "fact": "工匠个个发抖，管家承认是他「提醒他们进的是谁家」；威尔发作后他们不再怕管家，改为提防威尔本人",
+   "anchor": "I remind them whose house they are entering, sir.",
+   "start": 8592,
+   "end": 8641
+  }
+ ]
+}

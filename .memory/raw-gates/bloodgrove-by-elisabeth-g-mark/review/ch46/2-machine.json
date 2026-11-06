@@ -1,0 +1,349 @@
+{
+  "chapter": 46,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/ch46 the truth serum.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch46_chapter_46.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "The air crackled with magic and with something older, from a time when the gods still walked the earth, when nights were",
+          "ok": true,
+          "pos": 809
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“To a long night.” Eric sighed and raised his glass",
+          "ok": true,
+          "pos": 4912
+        }
+      ],
+      "words": 10
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "By now, he was fairly certain Eric had been the fourth child in the drawing",
+          "ok": true,
+          "pos": 6375
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“I was there when he ate my sister's stillborn child because he believed the blood would give him more power!”",
+          "ok": true,
+          "pos": 9292
+        }
+      ],
+      "words": 20
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "“He hung me from chains beneath the ceiling, cut open my veins like a lamb at slaughter, and then fed me blood. I can st",
+          "ok": true,
+          "pos": 10071
+        }
+      ],
+      "words": 55
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "“The wine is drugged. He must have laced it with a truth serum.”",
+          "ok": true,
+          "pos": 11021
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“My parents are good people. My mother loves me, but my father despises that I love men, that I can use magic, and that ",
+          "ok": true,
+          "pos": 14263
+        }
+      ],
+      "words": 51
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“To take his magic, I had to eat him. He was trapped inside the cave, immortal, and every attempt to escape had failed—I",
+          "ok": true,
+          "pos": 19643
+        }
+      ],
+      "words": 40
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "He wept for the innocent child he had lost inside that cave. He wept for the trauma his mind had buried",
+          "ok": true,
+          "pos": 20434
+        }
+      ],
+      "words": 21
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“How could I? I have a monster inside me too.”",
+          "ok": true,
+          "pos": 21470
+        }
+      ],
+      "words": 10
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 62,
+        "关键词": 0,
+        "为什么这样写": 58,
+        "读者视角提示": 61
+      },
+      "cjk_ratio": {
+        "中文理解": 0.9,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 44,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 58
+      },
+      "cjk_ratio": {
+        "中文理解": 0.72,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.82
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.75,
+        "关键词": 0.0,
+        "为什么这样写": 0.77,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 27,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 63
+      },
+      "cjk_ratio": {
+        "中文理解": 0.82,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 74,
+        "关键词": 0,
+        "为什么这样写": 62,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.88,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 15,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.88,
+        "读者视角提示": 0.8
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 64,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 68
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.67,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 60,
+        "关键词": 0,
+        "为什么这样写": 65,
+        "读者视角提示": 82
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.84,
+        "读者视角提示": 0.75
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 30,
+        "关键词": 0,
+        "为什么这样写": 59,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.71
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 0,
+        "为什么这样写": 64,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.73,
+        "关键词": 0.0,
+        "为什么这样写": 0.79,
+        "读者视角提示": 0.63
+      }
+    }
+  ],
+  "form": {
+    "h1": "46. Chapter 46",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      5,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 4087,
+    "block_target": [
+      7,
+      13
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 57 章中位 10、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

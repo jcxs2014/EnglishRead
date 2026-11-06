@@ -1,0 +1,43 @@
+{
+ "book": "bloodgrove-by-elisabeth-g-mark",
+ "chapter": "ch22",
+ "text": "notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch22_chapter_22.txt",
+ "facts": [
+  {
+   "fact": "舞厅残骸尽除、血蚀进石头的深处也被凿净；三楼客厅原址成了深渊——威尔如征服者俯瞰脚下被斩杀的敌人，几乎能感到宅子怒视自己",
+   "anchor": "slain enemy lying at his feet",
+   "start": 610,
+   "end": 639
+  },
+  {
+   "fact": "火车上那位老太太再现：Wilkinson 公爵夫人「不知该庆幸看清你的真身还是失望——一个室内设计师」",
+   "anchor": "An interior designer…",
+   "start": 1554,
+   "end": 1575
+  },
+  {
+   "fact": "查验见证人的用意：由一男一女两位外部见证人终结「她把威尔当情人」的谣言——「这宅里可没有别的贵女了」",
+   "anchor": "put an end to those wretched rumors",
+   "start": 2176,
+   "end": 2211
+  },
+  {
+   "fact": "验贞仪式：医生、公爵夫人、见证人到场；医生验毕宣布「她完好未破」——埃洛迪眼已在老夫人处，得意",
+   "anchor": "She is intact",
+   "start": 5163,
+   "end": 5176
+  },
+  {
+   "fact": "老夫人拖延受苦：「弗兰克先生，轮到你——为我们公爵夫人的贞洁作证」，恶意滴在字里行间，要看她何时撑不住合腿、面具何时碎裂",
+   "anchor": "Your turn. Attest to our duchess",
+   "start": 5815,
+   "end": 5847
+  },
+  {
+   "fact": "埃洛迪收尾清点：医生已证健康与生育力、精神科证神智健全、公证人证继承权——「您还需要什么」；老夫人摇头",
+   "anchor": "The doctor has already confirmed",
+   "start": 6783,
+   "end": 6815
+  }
+ ]
+}

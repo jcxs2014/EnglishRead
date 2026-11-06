@@ -1,0 +1,349 @@
+{
+  "chapter": 34,
+  "md": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/ch34 that belongs to me.md",
+  "corpus": "/Users/jcxs2014/Documents/Works/EnglishRead/notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch34_chapter_34.txt",
+  "verdict": "ok",
+  "quotes": [
+    {
+      "block": "原句1",
+      "no": 1,
+      "segments": [
+        {
+          "text": "Only one man had dogs like these. Their silken coats were unmistakable, even matted with blood and filth",
+          "ok": true,
+          "pos": 960
+        }
+      ],
+      "words": 18
+    },
+    {
+      "block": "原句2",
+      "no": 2,
+      "segments": [
+        {
+          "text": "“That is for touching what belongs to me,” he growled under his breath",
+          "ok": true,
+          "pos": 2456
+        }
+      ],
+      "words": 13
+    },
+    {
+      "block": "原句3",
+      "no": 3,
+      "segments": [
+        {
+          "text": "for one heartbeat, he thought he saw red in the ambassador's eyes",
+          "ok": true,
+          "pos": 2662
+        }
+      ],
+      "words": 12
+    },
+    {
+      "block": "原句4",
+      "no": 4,
+      "segments": [
+        {
+          "text": "“Drink.” He held his arm before Will's lips, and Will stared at him in disbelief",
+          "ok": true,
+          "pos": 4194
+        }
+      ],
+      "words": 15
+    },
+    {
+      "block": "原句5",
+      "no": 5,
+      "segments": [
+        {
+          "text": "His tongue passed over the wound before he could stop himself. His lips closed around the cut and sucked",
+          "ok": true,
+          "pos": 4694
+        }
+      ],
+      "words": 19
+    },
+    {
+      "block": "原句6",
+      "no": 6,
+      "segments": [
+        {
+          "text": "His pupils were wide, devouring the silver of his irises, through which a red gleam now ran. His lips were slightly part",
+          "ok": true,
+          "pos": 5495
+        }
+      ],
+      "words": 30
+    },
+    {
+      "block": "原句7",
+      "no": 7,
+      "segments": [
+        {
+          "text": "“Gods, you are beautiful,” Mr. Arcos whispered. His free hand moved to the back of Will's head, buried itself in his hai",
+          "ok": true,
+          "pos": 5664
+        }
+      ],
+      "words": 28
+    },
+    {
+      "block": "原句8",
+      "no": 8,
+      "segments": [
+        {
+          "text": "“Eric,” he breathed against the skin",
+          "ok": true,
+          "pos": 6142
+        }
+      ],
+      "words": 6
+    },
+    {
+      "block": "原句9",
+      "no": 9,
+      "segments": [
+        {
+          "text": "“Eric!” The doors to the stairwell flew open, and Elodie stormed into the room, her voice cutting sharply through the ai",
+          "ok": true,
+          "pos": 6229
+        }
+      ],
+      "words": 24
+    },
+    {
+      "block": "原句10",
+      "no": 10,
+      "segments": [
+        {
+          "text": "“Will, stay with me.” Eric's words disappeared as the dark, freezing sea rolled over him once more. “You cannot give up.",
+          "ok": true,
+          "pos": 9403
+        }
+      ],
+      "words": 23
+    }
+  ],
+  "blocks": [
+    {
+      "block": "原句1",
+      "cjk": {
+        "中文理解": 26,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 51
+      },
+      "cjk_ratio": {
+        "中文理解": 0.87,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.7
+      }
+    },
+    {
+      "block": "原句2",
+      "cjk": {
+        "中文理解": 16,
+        "关键词": 0,
+        "为什么这样写": 53,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.8,
+        "关键词": 0.0,
+        "为什么这样写": 0.87,
+        "读者视角提示": 0.65
+      }
+    },
+    {
+      "block": "原句3",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 64
+      },
+      "cjk_ratio": {
+        "中文理解": 0.91,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.73
+      }
+    },
+    {
+      "block": "原句4",
+      "cjk": {
+        "中文理解": 21,
+        "关键词": 0,
+        "为什么这样写": 52,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.91,
+        "读者视角提示": 0.85
+      }
+    },
+    {
+      "block": "原句5",
+      "cjk": {
+        "中文理解": 24,
+        "关键词": 0,
+        "为什么这样写": 50,
+        "读者视角提示": 65
+      },
+      "cjk_ratio": {
+        "中文理解": 0.83,
+        "关键词": 0.0,
+        "为什么这样写": 0.86,
+        "读者视角提示": 0.79
+      }
+    },
+    {
+      "block": "原句6",
+      "cjk": {
+        "中文理解": 39,
+        "关键词": 0,
+        "为什么这样写": 51,
+        "读者视角提示": 47
+      },
+      "cjk_ratio": {
+        "中文理解": 0.85,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.53
+      }
+    },
+    {
+      "block": "原句7",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 48,
+        "读者视角提示": 56
+      },
+      "cjk_ratio": {
+        "中文理解": 0.79,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.54
+      }
+    },
+    {
+      "block": "原句8",
+      "cjk": {
+        "中文理解": 14,
+        "关键词": 0,
+        "为什么这样写": 42,
+        "读者视角提示": 62
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.64,
+        "读者视角提示": 0.77
+      }
+    },
+    {
+      "block": "原句9",
+      "cjk": {
+        "中文理解": 29,
+        "关键词": 0,
+        "为什么这样写": 54,
+        "读者视角提示": 60
+      },
+      "cjk_ratio": {
+        "中文理解": 0.76,
+        "关键词": 0.0,
+        "为什么这样写": 0.81,
+        "读者视角提示": 0.72
+      }
+    },
+    {
+      "block": "原句10",
+      "cjk": {
+        "中文理解": 31,
+        "关键词": 0,
+        "为什么这样写": 56,
+        "读者视角提示": 53
+      },
+      "cjk_ratio": {
+        "中文理解": 0.78,
+        "关键词": 0.0,
+        "为什么这样写": 0.8,
+        "读者视角提示": 0.6
+      }
+    }
+  ],
+  "form": {
+    "h1": "34. Chapter 34",
+    "h1_shape_ok": true,
+    "nav_count": 5,
+    "nav_count_ok": true,
+    "nav_counts": [
+      5
+    ],
+    "nav_missing": [],
+    "subitems_modal": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "blocks": 10,
+    "block_median": 10.0,
+    "block_range": [
+      5,
+      12
+    ],
+    "profile": "novels",
+    "profile_subitems": [
+      "中文理解",
+      "关键词",
+      "为什么这样写",
+      "读者视角提示"
+    ],
+    "profile_optional": [
+      "句子结构"
+    ],
+    "baseline": "book"
+  },
+  "counts": {
+    "blocks": 10,
+    "quote_long": 0,
+    "segments": 10,
+    "segment_miss": 0,
+    "struct_bad": 0,
+    "empty_quote": 0,
+    "keyword_bad": 0,
+    "cjk_low": 0,
+    "template": 0,
+    "keyword_long": 0,
+    "hole": 0,
+    "block_count": 0,
+    "words": 1671,
+    "block_target": [
+      3,
+      5
+    ],
+    "block_hint": ""
+  },
+  "block_limit": {
+    "lo": 2,
+    "hi": 15,
+    "basis": "本书 57 章中位 10、最高 12（同类书按本书分布判）"
+  },
+  "issues": {
+    "struct": [],
+    "empty_quote": [],
+    "keyword": [],
+    "cjk": [],
+    "quote_long": [],
+    "template": [],
+    "keyword_long": [],
+    "hole": [],
+    "block_count": []
+  }
+}

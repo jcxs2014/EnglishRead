@@ -53,7 +53,7 @@ modified: "2026-11-05"
 **中文理解**：「很好。我答应帮你查清她想从你身上得到什么——必要时，护你周全。」
 **关键词**：Very well / protect you from it
 **为什么这样写**：契约的签订不用握手用「很好」：魔鬼的应允自带条款音效。注意对价结构——他要查「她要什么」，魔鬼要他查「她对公爵要什么」：两份委托在同一条案情上。
-**读者视角提示**：把「protect you from it」与 ch08 「collateral damage」对照：同一个男人，两次救援，一次收利息一次付本金。他和威尔的关系在今夜正式从「利用」改写为「投资」。
+**读者视角提示**：把「protect you from it」与 ch09 「collateral damage」对照：同一个男人，两次救援，一次收利息一次付本金。他和威尔的关系在今夜正式从「利用」改写为「投资」。
 
 > **原句 8:** "“It is not customary for two men to display themselves like this in public,” Mr. Arcos admitted."
 **中文理解**：「两个男人这样在公开展示自己，不合此地规矩。」阿科斯坦承。
