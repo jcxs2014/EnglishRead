@@ -1,0 +1,55 @@
+{
+ "book": "the-christmas-we-built-by-kelly-collins",
+ "chapter": "ch10",
+ "text": "notes/books/novels/the-christmas-we-built-by-kelly-collins/text/ch10_chapter_10.txt",
+ "facts": [
+  {
+   "fact": "三小时碎片睡眠后她复盘初吻：叫停不是因为不要，而是\"想要他到被接下来可能发生的事吓着\"——这被她记为睡眠与判断力的双重失败",
+   "anchor": "I had stopped because I wanted him enough to be frightened by what might come next.",
+   "start": 235,
+   "end": 318
+  },
+  {
+   "fact": "珍珠清晨逼供（六点一刻、四包糖——全街都知道她的配方）：\"两次了，你一开口描述格里芬就忘了怎么把句子说完\"；她放话\"他若再让你怀疑保不保得住现在，我把他像鱼一样开膛\"，末了嘱咐\"哪天跟他讲讲艾薇和垃圾桶的事\"——诺拉没说她早讲过了",
+   "anchor": "Twice you’ve started to describe Griffin and forgotten how to finish a sentence.",
+   "start": 1330,
+   "end": 1410
+  },
+  {
+   "fact": "早晨的生意课：揣三张一元的小男孩要给两个人买礼物、坚持\"分开包装，不然显得廉价\"、付钱前把钞票数了两遍——\"有人问起，这就是整门生意，屋顶就是为了这个\"；Albany 两女士逛四十分钟买一支蜡烛、十二月二十号必带清单回来",
+   "anchor": "Can you wrap them in different paper? Otherwise it looks cheap.",
+   "start": 3231,
+   "end": 3294
+  },
+  {
+   "fact": "十二点十五分未知来电：Crane 的行政助理珍妮特·帕克——Crane 昨天已与格里芬谈过 Meridian 在六栋主街楼的财务利益；周一要来视察物业，因\"欣赏她橱窗照片\"约二十分钟——\"这不是回答，但威胁的分量够了\"；而格里芬告诉过她 Meridian 能做什么，唯独没说 Crane 昨天来过电话",
+   "anchor": "Mr. Crane likes to meet the business owners affected by Meridian’s investments.",
+   "start": 5202,
+   "end": 5281
+  },
+  {
+   "fact": "珍珠调档：Meridian 真实存在——Crane 是旧金山资深合伙人，投资俄勒冈/蒙大拿/北加州商业地产；每个项目起头都有本地合伙人，完工名单上只剩 Meridian 独资——\"旧金山来的男人不会派助理来约你聊花环\"",
+   "anchor": "Later, that developer disappears from the project, and Meridian owns it alone.",
+   "start": 6349,
+   "end": 6427
+  },
+  {
+   "fact": "欧文查公开记录：Meridian 零备案——Cole 的维修许可是唯一在案文件且不提 Meridian；\"公墓大门换个铰链都有抄送给我\"——协议只存在于 Victor Crane 与格里芬之间，\"你得问他签了什么\"",
+   "anchor": "They copy me when somebody replaces a hinge on the cemetery gate.",
+   "start": 7832,
+   "end": 7897
+  },
+  {
+   "fact": "破约：谷仓里她答应过\"别把我关在门外\"，不到二十四小时就关了——打出\"问他 Victor Crane\"又逐字删掉，最后回了个\"Good\"对上他的\"Good\"；她把十二月盘点做了两小时（41 个花环坯、九盒七月因好心代表多订的德国玻璃、206 减二的锡挂饰），头一回在音乐盒自动跳下一曲前把它关掉",
+   "anchor": "I shut him out.",
+   "start": 8678,
+   "end": 8693
+  },
+  {
+   "fact": "章末：午夜她排练六遍对话，每一版都是\"先指控、结束关系、先走\"——\"老把戏：自己先关门，就没人能关你；这把戏我管它叫智慧叫了八年\"",
+   "anchor": "If I closed the door myself, nobody got to shut it on me. I had called that wisdom for eight years.",
+   "start": 10023,
+   "end": 10122
+  }
+ ]
+}
