@@ -17,7 +17,7 @@ modified: "2026-11-05"
 > **原句 1:** "Marion had the Marcelle black hair, and her mother’s round-tipped nose, and at thirteen had some real personality beginning to burst out of her seams. Estiene was already worried for her, torn between wanting her to shine and wanting to teach her how to keep herself shuttered; how to delay as long as possible the looks from parents and grandparents that said, You sometimes make it very hard to love you."
 **中文理解**：玛丽昂有一头马塞尔家的黑发，和她母亲那种圆头圆脑的鼻子；十三岁，真正的性格正从她的针脚里往外撑。埃斯蒂恩已经在替她担心了：一半盼她发光，一半想教她怎样把自己收拢遮蔽——怎样把来自父母祖辈的那种目光尽量推迟。那目光说：你有时候真的让人很难爱你。
 **关键词**：burst out of her seams / wanting her to shine / keep herself shuttered / hard to love you
-**为什么这样写**：妹妹玛丽昂只出场半页，却是埃斯蒂恩的自我画像：他心里那句话「让人很难爱你」不是推测，是亲测——他就是被这样看着长大的。教妹妹「收拢」等于把他吃过的亏写成说明书。
+**为什么这样写**：继妹玛丽昂只出场半页，却是埃斯蒂恩的自我画像：他心里那句话「让人很难爱你」不是推测，是亲测——他就是被这样看着长大的。教继妹「收拢」等于把他吃过的亏写成说明书。
 **读者视角提示**：记住「shuttered」（ shutter，百叶）这个词：埃斯蒂恩的全部礼仪就是百叶窗——本章他对满桌宾客的操作全是开关这门窗。这也是他跟让互相吸引的根：只有让能把它撬开。
 
 > **原句 2:** "when their eyes met the thought arrived in Estiene’s mind like a tram jerking to a halt"
@@ -29,7 +29,7 @@ modified: "2026-11-05"
 > **原句 3:** "And now it’d ended, whatever it had been after five years of constantly shifting and writhing and changing shape in Estiene’s heart without permission. Estiene had to hold it together through four more days of the Grand Exam, and not do anything stupid like haul Jehan into storage rooms and shout at him and melt into his hands. He was so close. He’d done the right thing. He’d disentangled."
 **中文理解**：如今它结束了——无论那五年里它是什么：在他心里未经许可地不断蠕动、变形、换形状。埃斯蒂恩得撑过余下四天大考，别再干蠢事：把让拽进贮藏室、冲他吼、然后化在他手里。他就快到了。他做了对的事。他解开了纠缠。
 **关键词**：without permission / haul Jehan into storage rooms / melt into his hands / He’d disentangled
-**为什么这样写**：三个不定式（拽—吼—融化）把上一章贮藏室那场戏从让的视角反打回来：同一事件在埃斯蒂恩的记忆里是「蠢事清单」。「He’d disentangled」三个词独立成句，像对自己盖印——但叙述立刻用「so close」拆台：他需要的不是结束，是熬完。
+**为什么这样写**：三个不定式（拽—吼—融化）把第 4 章贮藏室那场戏从让的视角反打回来：同一事件在埃斯蒂恩的记忆里是「蠢事清单」。「He’d disentangled」三个词独立成句，像对自己盖印——但叙述立刻用「so close」拆台：他需要的不是结束，是熬完。
 **读者视角提示**：「未经许可」四个字值得停留：这段感情在埃斯蒂恩体内是一处不服从管辖的领土。分手是他的行政命令，但叛乱未平。
 
 > **原句 4:** "“You have to admit, Marcelle, the threshold for entry was lowered. Is it so unreasonable that we’d be seeing the results of that?”"

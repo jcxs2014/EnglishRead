@@ -30,7 +30,7 @@ modified: "2026-11-05"
 **中文理解**：据茹尔丹的讲法：让冒着得罪全城最高层医者的风险，正气凛然地向他们举报了自己遭勒索、被雇从学院与医院行窃、被要求从事极不正当的非法工作——用虚假增强拳手力量与耐力的方式亵渎马泰的馈赠，以便非法赌博也能进行。
 **关键词**：virtuously reporting / had been blackmailed / hired to steal / falsely enhancing
 **为什么这样写**：谎言的完成度是本章的技术奇观：茹尔丹把让的全部罪行原样复述，只改一处主语关系（受害者变卧底）——所有细节都对得上，因此无法证伪。「virtuously」这个副词是谎话的接口：它把耻辱史翻译成勋章史。
-**读者视角提示**：记住这套叙事工程的原理：最好的谎言不改事实，只改立场。它能在下一章的官场复用——凡是被讲成「奉命行事」的违法行为，都能免罚。埃斯蒂恩的交易正是同一语法的另一个实例。
+**读者视角提示**：记住这套叙事工程的原理：最好的谎言不改事实，只改立场。它能在第 39 章被布罗迪尔反向使用（她把自己的偷窃讲成「继续完成证明」）——凡是被讲成「奉命行事」的违法行为，都能免罚。埃斯蒂恩的交易正是同一语法的另一个实例。
 
 > **原句 4:** "But there was no denying that Jourdain Marcelle was standing here, admitting to full knowledge of Jehan’s many crimes, and saying that they were going to be ignored. Blavot had nothing to hold over him anymore. Nothing."
 **中文理解**：但无法否认的是：茹尔丹·马塞尔就站在这儿，承认对让的种种罪行完全知情，并宣布这些将被不予追究。布拉沃手里再没有能拿捏他的东西了。没有了。

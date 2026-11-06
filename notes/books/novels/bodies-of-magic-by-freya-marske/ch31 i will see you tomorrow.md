@@ -18,7 +18,7 @@ modified: "2026-11-05"
 **中文理解**：拿出一套能治愈锯热病人的治疗方案，并执行它的第一阶段。答案你们大都已经在手——是我特意设计的。但有一块关键的拼图你们可能还缺，它就附在这封信里。
 **关键词**：a treatment plan to cure / the serrage / I designed it that way / a key piece
 **为什么这样写**：全书的最大悬念用一份「考题」揭晓：她的死亡不是谜团的终点而是课题的终考——「I designed it that way」的骄傲与残忍同源（她连自己的死都排进了教案）。信的命令式语气（拿出的/执行的）保持了她一贯的教师人格。
-**读者视角提示**：记住「我只差一块拼图给你们」这句话在下一章的兑现方式：那块拼图正是她死后唯一的、写在黄页上的东西。她的预防措施比她的死亡更早开始。
+**读者视角提示**：记住「我只差一块拼图给你们」这句话在本章末尾的兑现方式：那块拼图正是她死后唯一的、写在黄页上的东西。她的预防措施比她的死亡更早开始。
 
 > **原句 2:** "I’m also attaching a full copy of my research thesis. Nobody else has read this yet; I’m not submitting until next week, so I can write up your group’s performance of it as the last chapter. I’ll see you tomorrow. Ysabel Caudotte."
 **中文理解**：我还附上论文的完整副本。还没有任何人读过它；我要下周才提交，好把你们组对它的执行写成最后一章。明天见。伊莎贝尔·科多特。
