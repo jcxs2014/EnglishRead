@@ -92,7 +92,7 @@ modified: "2026-11-06"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| shackled | 上镣的 | You will be returned to Ulshära’s care and shackled until we decide how to handle the crime of your desecration. |
+| puddle | 一滩（液体） | Her blood formed a small puddle beneath her hip. |
 | obscenities | 脏话、下流话 | Some even yelled obscenities aimed at Ulshära. |
 | urchins | 顽童、街童 | Taesia suspected the primary would end up taking the credit rather than cede it to three urchins. |
 | grimy | 污秽的、脏兮兮的 | They were all grimy, their clothes little better than shapeless rags. |

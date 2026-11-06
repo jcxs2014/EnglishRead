@@ -127,7 +127,7 @@ modified: "2026-11-06"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| shackles | 镣铐 | Dante felt the shackles slide down his wrists as the soldiers chained them down. |
+| shackles | 镣铐 | Dante shifted until the shackles slid down his wrists. |
 | dais | 高台 | Dante felt its glare as his escorts forced him to kneel on the tall dais below, shackles heavy on his wrists as the soldiers chained them down. |
 | jeers | 嘲弄、嘘声 | He didn’t understand their jeers but recognized one word over and over: Sunslayer. |
 | horns | 角 | Dante’s skin split as two dark, curved horns burst from his skull. |
