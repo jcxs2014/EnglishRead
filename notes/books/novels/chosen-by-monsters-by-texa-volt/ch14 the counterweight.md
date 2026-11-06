@@ -197,4 +197,3 @@ modified: "2026-11-06"
 ## 一句话总结
 
 周六的「安全区」变成刑场：吊箱深处的切断缆放出六百磅配重、床头折成回形针，灭火系统被人远程触发而逃生门死锁——她卧倒、Tav 四拳砸门、William 判定人为并自罚电台制度；Corinne 用营业夜条款拦下闭店，她交出折案（封下层、守办公室、二百证人护航）——Merek 还在说「吓跑」，她看着回形针床头板纠正他：「已经没有人想吓我了。」
-Here's what I think, and don't hold me to it until the whole system's been taken apart by somebody who isn't us," William goes on. "The suppression system was set off from the manual station in the corridor, behind its locked cover. The door should have released when it fired. It held instead. I don't know how yet." "I didn't see anybody in the corridor," Tav says. "You were running at a door. You weren't looking." William's eyes go to Grady, still against the wall, coughing into his sleeve. "Grady has a key to that cover. So do I. So do four other people.""
