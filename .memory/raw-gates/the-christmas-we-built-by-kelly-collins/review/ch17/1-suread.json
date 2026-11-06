@@ -1,0 +1,78 @@
+{
+ "chapter": "ch17",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "N. Winters, 40 hrs., paid in stock",
+   "fact": "Nora在banker's box里翻了六个小时，找可替代节日的公共项目（法定拍纸簿上ALTERNATIVE PUBLIC PROGRAM只列出四条、全是往年做过的、都不够申领资格），却翻出第一个一月的工资条：Ivy在全镇还只知道她名字、她既没有收银台也没有店面时就雇了她——条上写着N. Winters, 40 hrs., paid in stock：干了四十小时，报酬是书和花环，还在Callahan's后屋睡了十一晚。",
+   "start": 404,
+   "end": 438,
+   "agent_start": 404,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Six to two. I voted to suspend it.",
+   "fact": "Nora承认自己投了暂停票（6比2）：节日是她申领商户补助的合格公共项目——没有节日，一月就丢补助；没有补助，店可能撑不过二月。Owen早在11月就警告过节险，她当时说那是技术性细节，此后他一直为此放心不下，而她已没有余力告诉他那不是他的错。",
+   "start": 1730,
+   "end": 1764,
+   "agent_start": 1730,
+   "offset_verified": true
+  },
+  {
+   "anchor": "nine thousand dollars of holiday inventory",
+   "fact": "Frank也投了暂停——他有九千美元节日库存押在那个周末，但不肯在没有许可与保险的情况下冒险办节；Nora本想恨他，随后明白了那一票的代价。Griffin则确认：他此行只垫付了一周工资，银行仍扣着其余；Nora听罢关上店门、转回门闩——她认定他做到了他去旧金山要做的事。",
+   "start": 2060,
+   "end": 2102,
+   "agent_start": 2060,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Recorded with the county this fourteenth day of November",
+   "fact": "Nora手指按在最后一行确认：这不只是旧意向文书——契约已录入县档、可以约束业主；出处为Book 62第417页，索引在旧Grange Hall Addition名下、让与人姓名拼错，按现代地号搜索会漏掉。",
+   "start": 3852,
+   "end": 3908,
+   "agent_start": 3852,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The town owns the north lot, where the Grange Hall burned in 1971",
+   "fact": "Nora数出八地块的归属：六块归Griffin、一块归Ivy、北地块归镇——Grange Hall 1971年烧毁后县里因欠税取得该地；因此三方业主之一就是镇议会。契约还规定：任何业主未经其他业主书面同意不得拆改承重部分，且八地块共担结构修理费；至于记录如此、是否仍有法律效力，须由县法律顾问判定。",
+   "start": 4405,
+   "end": 4470,
+   "agent_start": 4405,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Seventy-eight years",
+   "fact": "Nora说出隐忧：这份契约78年无人执行、也从没有业主召集过任何会议，Meridian一定会请律师主张它因弃用而失效；对策是她知道去哪查解除记录——若无解除文书，业主可依契约集会、聘无利害关系的工程师，给县法律顾问提供当下证据而不是一张被遗忘的纸；Griffin请她明早一字不改地把这套顺序再说一遍。",
+   "start": 5410,
+   "end": 5429,
+   "agent_start": 5410,
+   "offset_verified": true
+  },
+  {
+   "anchor": "the repairs started January second, your shop would have closed for five weeks",
+   "fact": "Griffin兑现“坏念头也要当面说”的承诺：如果节日保住、修理1月2日开工，Nora的店会关五周、但补助资格仍在——他反复想自己离开是否让她两样全失；他还为停车场的事正式道歉：本该走进店门和盘托出、问她打算怎么办，而不是先解决再告知；Nora承认自己迟了一天回电，那部分是她的。",
+   "start": 7119,
+   "end": 7197,
+   "agent_start": 7119,
+   "offset_verified": true
+  },
+  {
+   "anchor": "no man had climbed them with me in eight years",
+   "fact": "Nora主动提出让他睡楼上：通往公寓的楼梯有十四级，八年来第一次有男人与她同上；Griffin当面说出“我爱你”——没有说进答录机，因为她值得被当面听见，且不求回应、不以此求原谅；Nora明言还没准备好原谅他，但愿看他明天怎么做，随后主动吻了他，两人同床。",
+   "start": 8464,
+   "end": 8510,
+   "agent_start": 8464,
+   "offset_verified": true
+  },
+  {
+   "anchor": "the option matures on the fifteenth of January",
+   "fact": "凌晨三点后Griffin低声估计：若明天许可被撤，接管只是几周而非几个月的事；即便保住许可，他也无法再以六栋楼抵押借到一美元，期权1月15日到期。Nora拒绝说“会没事的”，改以计划代替承诺：Betty八点开门、亲自经办核证副本（Deed Book 62第417页），她八点到登记处取件并赶到会上解释，让Griffin先去把话慢慢讲。",
+   "start": 14832,
+   "end": 14878,
+   "agent_start": 14832,
+   "offset_verified": true
+  }
+ ]
+}

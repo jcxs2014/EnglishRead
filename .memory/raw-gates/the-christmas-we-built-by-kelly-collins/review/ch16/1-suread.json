@@ -1,0 +1,78 @@
+{
+ "chapter": "ch16",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "one payroll cycle for thirty-two employees from my personal account",
+   "fact": "周五下午前，Griffin自掏腰包垫付了三十二名员工一轮工资——用四笔转账和一通长长的电话，钱来自他的个人账户；他随后又用最后一笔未质押储备，补上银行代管拨款本该报销的工资，救了一周，但没救贷款。",
+   "start": 69,
+   "end": 136,
+   "agent_start": 69,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Nora left a message Friday afternoon.",
+   "fact": "Nora周五下午留言：她守约在坏消息到达当天第一时间告知；又说自己听说了其余的事，没原谅他、也没叫他回家，但仍然伸出了手。Griffin在第二场贷方会议外的走廊地板上把留言听了两遍。",
+   "start": 186,
+   "end": 223,
+   "agent_start": 186,
+   "offset_verified": true
+  },
+  {
+   "anchor": "close by December twenty-third if I accepted before noon Monday",
+   "fact": "周日、赶周一回程航班前，Griffin致电十月给他带来Portland公寓现金报价的经纪人——他当初因那是最后一份无债资产而拒绝；如今他要来文件：周一中午前接受，买家仍可在12月23日前成交。",
+   "start": 1314,
+   "end": 1377,
+   "agent_start": 1314,
+   "offset_verified": true
+  },
+  {
+   "anchor": "voted three days earlier to suspend Christmas",
+   "fact": "周一晚七点Griffin驶回Holly Creek：主街灯火通明、没人撤下装饰（面包店花环仍系着红结）——五周劳作挂满的这条街，其节日委员会三天前刚投票暂停圣诞节；他此行是回来面对全镇、做镇上仍允许他做的任何工作。",
+   "start": 1828,
+   "end": 1873,
+   "agent_start": 1828,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Recorded with the county this 14th day of November, 1947, Deed Book 62, page 417.",
+   "fact": "Frank在投票后的周六夜翻遍祖父办公室（自其父去世后无人进过）的文件，找到1947年3月至11月规划委员会纪要——祖父任委员、因不信任书记员而自留副本；纪要所载契约规定Main Street商业街区八地块受共同契约约束：未经全体书面同意不得拆除或改动任何承重构件、维护费按比例分摊；1947年11月14日录入县档案，Deed Book 62第417页。",
+   "start": 4832,
+   "end": 4913,
+   "agent_start": 4832,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I would still owe six of the eight shares",
+   "fact": "用大白话读：三栋相连建筑未经三方现业主（Ivy、镇、Griffin）书面同意不得拆改，三方还须共担公共墙与地基的维护费——Griffin仍要承担八份中的六份；契约不是白来的钱，而是证明整排必须作为一个结构、三方同桌修理。书记员把它索引在旧Grange Hall Addition名下并把Donnelly误拼为Donley，按现代地号检索会漏掉——他决定当晚通知产权公司、明早请Betty出核证副本，由县法律顾问判定它是否仍有效。",
+   "start": 5313,
+   "end": 5354,
+   "agent_start": 5313,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Meridian filed a structural report with the county on Friday",
+   "fact": "Meridian周五向县提交结构报告并抄送议会：出具报告的工程师在Sacramento、持俄勒冈执照，确认地基确已移动，并建议在县完成紧急审查前停止Griffin的修理——正中Crane所需；若议会暂停许可，Griffin便无法在1月15日前开工结构修理，错过期限Meridian就有权按他的成本买下整排街区；同时Crane正向他的Portland放贷方施压，银行若宣告违约，他将连两个Portland项目一起失去。",
+   "start": 6478,
+   "end": 6538,
+   "agent_start": 6478,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Six to two. I voted for it.",
+   "fact": "Frank亲口坦白：节日委员会以6比2表决暂停圣诞节，他自己投了赞成票，要当面而不是由好心人转告；Nora的商户补助随节日一起死掉——没有可申报的公共项目、也来不及再建一个，她说没有那笔奖金店撑不过二月。Frank随后交出五金店后门钥匙：他父亲教他看人在难处的作为——难时Griffin回来了。",
+   "start": 8346,
+   "end": 8373,
+   "agent_start": 8346,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I knocked once and not hard.",
+   "fact": "深夜（距议会还有十一小时）Griffin站在Nora店外：门上挂着CLOSED、门已锁死，而他给过她锁门的全部理由；他隔着玻璃举起笔记本、用口型说“我找到了东西”；Nora看了一眼便垂眼盯着桌面、没有走向门——他手贴玻璃在雪里等，Frank发动了卡车也没离开。",
+   "start": 11999,
+   "end": 12027,
+   "agent_start": 11999,
+   "offset_verified": true
+  }
+ ]
+}

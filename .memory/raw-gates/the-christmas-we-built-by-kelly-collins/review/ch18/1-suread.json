@@ -1,0 +1,78 @@
+{
+ "chapter": "ch18",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "Meridian loaned me the last four hundred thousand dollars I needed to buy the block",
+   "fact": "面对Meridian那31页、由Sacramento俄勒冈注册结构工程师盖章的申请（请求暂停11月发给Cole Development的改造许可并对商业街区做紧急结构审查，全场四十人旁听），Griffin当席回应：Meridian借给他买下街区的最后一笔40万美元，合同约定若获批修理1月15日前未开工，Crane有权按他的买价购回；他拒绝与Crane联合开发后，Crane向其银行寄送材料冻结建设资金、又提交报告请求暂停许可——没钱没许可就没修理。他11月7日签署结构评估、14日随许可申请提交；最后一笔未质押储备已用于垫付32人工资，但他可今夜就按已批许可派有保险的施工队做应急支撑。",
+   "start": 3923,
+   "end": 4006,
+   "agent_start": 3923,
+   "offset_verified": true
+  },
+  {
+   "anchor": "On the twentieth of November, Janet Park called me",
+   "fact": "Nora夹着马尼拉文件夹从后门走下中央过道，陈述她的纸面记录：11月4日她尚未与Griffin说过一句话就查到其LLC注册与公司网站——Cole Development LLC、未列任何投资人、Griffin Cole唯一负责人；11月20日twelve fifteen（12:15）Janet Park打到她店里（而非打给他），告知Meridian Group持有该街区头寸并索要20分钟面谈；11月24日Victor Crane当着Griffin的面说他要在1月15日前买下街区——她自被查税那年起每次通话都记下时间、姓名、电话与事由，动机由此有据可查。",
+   "start": 7100,
+   "end": 7150,
+   "agent_start": 7100,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Recorded with this county on the fourteenth of November, 1947, Deed Book sixty-two, page four-seventeen",
+   "fact": "Nora把盖着县印的核证契约放上议席：1947年11月14日录入本县档案、Deed Book 62第417页，约束Main Street商业街区全部八地块；因索引在Grange Hall Addition名下而非现代地号，近期产权检索才漏掉，且登记官至今仍将其挂在全部八地块上。六块归Griffin Cole、一块归Ivy Callahan、一块归镇——Grange Hall 1971年烧毁后镇因税收取得该地块；Harris确认：议会因此成为业主之一，但紧急权力并不因此消失。",
+   "start": 8071,
+   "end": 8174,
+   "agent_start": 8071,
+   "offset_verified": true
+  },
+  {
+   "anchor": "twenty-two-thousand-dollar local match",
+   "fact": "Rosie起立申报：她周日已向Cascade Heritage Foundation提交历史商业街区紧急加固申请、审核期十四天；申请附带2.2万美元本地配套——现金加按基金会公布费率折算的修理设备、燃料与志愿工，须在拨款前支出或承诺到位；Owen点破“这不是白给的钱”，Rosie答“恰恰相反——只有你已经找到钱，它才存在”。",
+   "start": 11244,
+   "end": 11282,
+   "agent_start": 11244,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Sometimes people arrive. Sometimes they stay.",
+   "fact": "表决前Frank当众背书：“五周来我一直不信任他”，Meridian的声明一度让他自以为没看错，但Griffin身无分文地回来、仍到他店里准备干活——“有时人是路过，有时人会留下；不属于本地的人来了，Nora当年也不属于——这就够说明问题了”；Griffin也承认住了五周仍是外来者，并请镇上像八年前为Nora腾出地方那样，再容纳一个愿意留下的人。",
+   "start": 14049,
+   "end": 14094,
+   "agent_start": 14049,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The Meridian request is tabled until the twenty-seventh",
+   "fact": "Owen九点二十宣布裁定：Meridian申请延至27日再议；议会保留紧急权力，但该文件不能证明楼即将倒塌、叫停已批修理不会让街区更安全——修理可继续，条件是立即加固危险部位、并在七天内提交县可接受的独立工程师报告；业主将依1947契约集会并出资评估，含Griffin六地块对应的六份；27日复审。此前Owen已到走廊致电县法律顾问并转达：契约在被法院另有裁定前视为可执行；Delgado也点出：若批准Meridian请求而契约有效，议会就“暴露”了。",
+   "start": 14172,
+   "end": 14227,
+   "agent_start": 14172,
+   "offset_verified": true
+  },
+  {
+   "anchor": "submit a vendor roster above ninety percent",
+   "fact": "节日复活的门槛：保险人接受加急复保申请的截止是明天中午；委员会必须反转周五的暂停决定、并提交高于90%的摊贩名册——投票前只到88%，还差一名签名摊贩；Owen点名Wes：若Calloway家能接下圣诞前夜早餐，名册即过最低线；Wes应允——母亲情况稳定、姐姐留在Bakersfield陪护。",
+   "start": 15100,
+   "end": 15143,
+   "agent_start": 15100,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The vote passed eight to zero.",
+   "fact": "九点半重会：议事纸撤下、节日文件夹上场，Wes签署修订后的摊贩协议，表决以8比0通过复办申请；Owen夹着签署的名册与保险表离场——节日尚未正式恢复、仍待保险人批准；若获批，三天节日将按计划自12月22日办至圣诞前夜；Nora举起核证契约向Griffin做了个纸面致意。",
+   "start": 15960,
+   "end": 15990,
+   "agent_start": 15960,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Twelve months, six hundred a month",
+   "fact": "会后十点（复办表决后二十分钟）Frank在柜台后开出条件：店里楼上公寓自Wilsons搬去Portland后已空置——租期十二个月、月租六百美元、损坏什么修什么；Griffin坦言信用被冻结、有放贷方准备发出违约催告、六栋楼一美元也借不到，仍签下Donnelly Hardware楼上的十二个月租约；Frank从约四十把的钥匙板取下一把放在柜台上：“自己告诉她——她听别人转达的重要话已经够多了。”",
+   "start": 16533,
+   "end": 16567,
+   "agent_start": 16533,
+   "offset_verified": true
+  }
+ ]
+}
