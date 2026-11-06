@@ -1,0 +1,78 @@
+{
+ "chapter": "ch25",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "It’s opening night of the forty-fourth festival, and you are the co-chair, not part of the work crew.",
+   "fact": "开幕夜 Pearl 挡在 Winters Wonderland 门口、拿糕点盒拦路,亲手从收银台挂钩取下红大衣:她不许身为 co-chair 的 Nora 穿工作派克出席第四十四届节庆(forty-fourth festival)开幕;Nora 说点灯前还有 two hundred ornaments 要补货,Pearl 让 Nora 雇的 Marcy 代劳。",
+   "start": 272,
+   "end": 373,
+   "agent_start": 272,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Hal Sackett has been paying attention in this town for eighty-one years.",
+   "fact": "店里红雀装饰已有十三只(thirteen),Nora 每年用 gold pen 在鸟底面写上年份、垫入薄纸收好;老主顾 Hal Sackett 自这家店归 Nora 之前的每个 December 都脱帽进店,他在这镇上已留意了八十一年(eighty-one years),并说『She’d have liked all this』、也会喜欢街尾那个灰大衣男人。",
+   "start": 1392,
+   "end": 1464,
+   "agent_start": 1392,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Nine years in Holly Creek had taught me when the town was managing me",
+   "fact": "Nora 在 Holly Creek 住了九年(Nine years),认得出镇子在『安排』她:Pearl 送走 Hal 后替她拉门设局,她只好穿上红大衣被支去 Main Street。",
+   "start": 1672,
+   "end": 1741,
+   "agent_start": 1672,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The doorway through the party wall had required approval from all three owners.",
+   "fact": "一年工程令街区改观:老药房现址是镇档案馆与扩容后的 Callahan’s Books,穿墙门洞经全部三位 owner(three owners)批准,Ivy 一上午办成且不许旁人忘记;空地成为节庆场地,常设灯杆由 Griffin 亲手立起;Donnelly Hardware 旁角铺挂出 COLE DEVELOPMENT LLC 金字招牌,窗内并排挂着另两个小镇(two other small towns)的改造图纸与一个二年级学生(second-grader)抵作参观费的 Chester 蜡笔画——Griffin 把它保持在视线高度,称那是他唯一装框的『commission』。",
+   "start": 2056,
+   "end": 2135,
+   "agent_start": 2056,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Griffin had rewritten my lease after learning what Portland Property Management charged me.",
+   "fact": "Griffin 打听到 Portland Property Management 向 Nora 收的租金额后重写了她的租约:下调租金、把结构维修归位给房东、逐条驳回偏向他自己的条款;整条街店面全部租出,节庆 vendor map 已于十月(October)售罄。",
+   "start": 2908,
+   "end": 2999,
+   "agent_start": 2908,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“Collecting on a promise,” Mrs. Morrison said.",
+   "fact": "街尾雪橇等候,Chester 与 Maple 披彩带、挂铃铛拉车,portable stalls 立在 Griffin 去年一月(previous January)用 Richard 旧锚柱装的新 base rails 上;Mrs. Morrison 说这是『Collecting on a promise』——去年圣诞夜(Last Christmas Eve)她便告知此人第四十四届(forty-fourth festival)首乘已有主,点灯还剩二十分钟(twenty minutes),随后她赶车队上道。",
+   "start": 3794,
+   "end": 3840,
+   "agent_start": 3794,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The first ride this sleigh ever gave was a Christmas Eve, forty years ago,",
+   "fact": "全镇聚在暗色 Douglas fir 下,Owen 在麦克风前持点灯开关,人群为马队让路的惯例自 1986 年沿用;Griffin 讲出雪橇来历:首乘是四十年前(forty years ago)的圣诞夜,Richard Morrison 建它因为『这镇子值得有自己的东西』;当年首乘上 Dale Henderson 向 Ruth Romero 求婚,二人如今站在 cocoa cart 旁,Dale 说这传统不属于他们、属于雪橇。",
+   "start": 5282,
+   "end": 5356,
+   "agent_start": 5282,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Griffin stepped into the sleigh’s footwell and went down on one knee.",
+   "fact": "Griffin 忆起 Nora 在首次策划会上把『people propose at the tree lighting』记在 irrational factors 名下,自陈花了一年才明白把想要的一切放错了栏;随后他唤『Nora Winters』,踏入雪橇踏板处单膝跪地、从大衣里取出小盒求婚『Marry me』;Owen 领喊倒数,圣诞树点亮,Nora 应『Yes』再补『Yes, obviously, yes』;Griffin 用冷僵的手给她戴上戒指,Nora 抓住他的大衣当众亲吻,Mrs. Morrison 评价『Forty years. The sleigh’s still got it.』",
+   "start": 6204,
+   "end": 6273,
+   "agent_start": 6204,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“There’s a forty-fifth to plan. The committee meets in January.",
+   "fact": "余波:Owen 离开麦克风来与 Griffin 握手,Colette 当众讨要『去年跨年夜(last New Year’s Eve)就预言过、有见证人』的功劳;Ruth 传授『Forty years 的诀窍是继续 ride』,Dale 补『到圣诞夜前输掉每场争吵』;Pearl 说认识 Nora 八年(Eight years)、头回见她话说到『His hands—』就停住;Griffin 透露第四十四届开幕夜是史上出席最多的一晚(Rosie 在求婚进行时发来数据),而下一届(forty-fifth)的委员会一月(January)开会、co-chairs 正是他们俩。",
+   "start": 9029,
+   "end": 9092,
+   "agent_start": 9029,
+   "offset_verified": true
+  }
+ ]
+}
