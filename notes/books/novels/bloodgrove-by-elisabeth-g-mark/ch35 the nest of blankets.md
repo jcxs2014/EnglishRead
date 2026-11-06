@@ -40,7 +40,7 @@ modified: "2026-11-05"
 > **原句 5:** "“I found what remained of him. There is nothing we can do for him. I am glad you left the letter.”"
 **中文理解**：「我找到了剩下的部分。我们无能为力了。幸亏你留了那封信。」
 **关键词**：what remained of him / the letter
-**为什么这样写**：死讯的交付用三段式：残骸（事实）、绝望（判决）、信（遗泽）。「剩下的部分」五个字是全书对死亡最残忍的度量。而「信」字的安慰暴露了血林的死亡礼仪： letters 是墓碑的替代品。
+**为什么这样写**：死讯的交付用三段式：残骸（事实）、绝望（判决）、信（遗泽）。「剩下的部分」五个字是全书对死亡最残忍的度量。而「信」字的安慰暴露了血林的死亡礼仪：信件是墓碑的替代品。
 **读者视角提示**：Saint 的「信」是威尔写的——这个细节把责任与告别一并打包。记住「幸亏你留了信」：这是她在本章唯一一句不带机心的安慰。Saint 的账，两人从此共同背负。
 
 > **原句 6:** "“Do not pretend you have suddenly become a saint. Undress and lie down with us. Or would you prefer to spend the night over there?”"

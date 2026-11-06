@@ -49,7 +49,7 @@ modified: "2026-11-05"
 **中文理解**：「我们对王而言不过是血肉之躯。而王本身，完完全全就是血与肉。凡血肉，皆属于他。」
 **关键词**：flesh and blood / belongs to him
 **为什么这样写**：王的教义三句成禅：前句贬众为材、中句尊王为「全血肉」、末句立法归属——一句话同时是哲学、神学与所有制。醉呓的形式让真话免于责任。
-**读者视角提示**：「凡血肉皆属于他」是全书权力结构的总纲：红手之位、血价制度、诅咒—all 都是这条所有权的执行细则。接 ch31 神的「谁想拿走属于我的东西」：两位「所有者」（王与神）对威尔的产权主张正在撞车。
+**读者视角提示**：「凡血肉皆属于他」是全书权力结构的总纲：红手之位、血价制度、诅咒——全都是这条所有权的执行细则。接 ch31 神的「谁想拿走属于我的东西」：两位「所有者」（王与神）对威尔的产权主张正在撞车。
 
 > **原句 7:** "“Your Albatross—the Red Hand spoke of him in those dreams,” the vampire murmured, crossing the room. “Of him and the queen in the Capitol.”"
 **中文理解**：「你的信天翁——前红手在那些梦里提到过他，」吸血鬼低语着穿过房间。「提到他，还有首都的王后。」
@@ -60,7 +60,7 @@ modified: "2026-11-05"
 > **原句 8:** "He lost himself in the burning and pulling, his eyes falling shut as the sea carried him away. Cold depths opened beneath him and dragged him down until the last light of the surface disappeared."
 **中文理解**：他在灼烧与拉扯中失去了自己，双眼阖上——海把他带走。冰冷的深处在他身下张开，把他往下拖，直到水面的最后一线光也消失了。
 **关键词**：the sea carried him away / Cold depths / the last light
-**为什么这样写**：极限痛苦不用疼字写，用溺水：意识下潜、光带上移——解离的医学描写被海 imagery 包装。他的灵魂回「家」了：以昏迷的方式。
+**为什么这样写**：极限痛苦不用疼字写，用溺水：意识下潜、光带上移——解离的医学描写被海的意象包装。他的灵魂回「家」了：以昏迷的方式。
 **读者视角提示**：「海」的召唤在此到达病态的温柔：被围饮时他想起的竟是海（ch14 「灵魂是海」）。接 ch19 白蜜与海味、ch31 冰海——他在被摧毁时与神的水域汇合。这不是浪漫，是溺水者抓浮木。
 
 > **原句 9:** "Would his bones become his last sacrifice? Not merely a toe, but an entire man."

@@ -22,7 +22,7 @@ modified: "2026-11-05"
 > **原句 2:** "Will looked down upon everything like a conqueror, his slain enemy lying at his feet. He could almost feel the house's anger as it peered over his shoulder at the battlefield of its own entrails."
 **中文理解**：威尔如征服者般俯瞰一切，被斩杀的敌人躺在他脚下。他几乎能感到这座宅子的怒气——它正越过他的肩头，凝视着自己脏腑铺开的战场。
 **关键词**：conqueror / slain enemy / its own entrails
-**为什么这样写**：装修的胜利写成正邪易位：被拆的墙是敌人，宅子是有内脏的活物——「脏腑」一词让 demolition 变成解剖。房子第一次被赋予愤怒：它记得每一任主人。
+**为什么这样写**：装修的胜利写成正邪易位：被拆的墙是敌人，宅子是有内脏的活物——「脏腑」一词让拆除变成解剖。房子第一次被赋予愤怒：它记得每一任主人。
 **读者视角提示**：「宅邸是活物」从修辞升格为设定：有心跳的墙（ch17）、愤怒的宅（本章）——这座房子对改造的每一次反应都值得记录。它将来会挑边站。
 
 > **原句 3:** "“Mr. Frank—I cannot decide whether I am relieved to discover what you truly are or disappointed. An interior designer…”"
@@ -53,7 +53,7 @@ modified: "2026-11-05"
 > **原句 7:** "Will was beside her before he had time to think. He stepped between the duchess and Elodie, sought her gaze, and allowed his face to show all the compassion and pain she denied herself."
 **中文理解**：威尔来不及思考就到了她身边。他插进老夫人与埃洛迪之间，寻到她的目光，把自己脸上所有的悲悯与疼痛都放出来——那是她自己不肯流露的。
 **关键词**：before he had time to think / sought her gaze / compassion
-**为什么这样写**：反抗的方式是不动声色的：他不动手、不开口，只把「她不许自己有」的情绪摆在她面前。 compassion 的展示是本章唯一的温柔武器——也是全书两人关系的转折刻度。
+**为什么这样写**：反抗的方式是不动声色的：他不动手、不开口，只把「她不许自己有」的情绪摆在她面前。悲悯的展示是本章唯一的温柔武器——也是全书两人关系的转折刻度。
 **读者视角提示**：「替她感受」是他能为她做的最私密的事。注意她的回应只有点头——她收下了，但用最小的动作：这里没有感谢的台词，只有一次默许的交接。
 
 > **原句 8:** "“I attest to it,” he said, beckoning the doctor over."

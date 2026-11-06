@@ -22,19 +22,19 @@ modified: "2026-11-05"
 > **原句 2:** "“He could give her his blood. But I assume he wants to see her submit. Every day she insists on remaining in the contest humiliates his position. And it will reassure him that she will not poison him in their marriage bed.”"
 **中文理解**：「他本可以给她血。但我猜他想看她屈服——她每天坚持留在赛场上，都是在打他的脸。而这也让他确信：她不会在新婚的床上毒死他。」
 **关键词**：see her submit / humiliates his position / poison him
-**为什么这样写**：Eric 的婚姻诊断一句见骨：未婚夫的冷血是「驯化工程」的施工日志——他要的不是妻子是不构成威胁的资产。poison 一词让「安全焦虑」成为这段婚约的全部地基。
+**为什么这样写**：Eric 的婚姻诊断一句见骨：未婚夫的冷血是「驯化工程」的施工日志——他要的不是妻子是不构成威胁的资产。「下毒」一词让「安全焦虑」成为这段婚约的全部地基。
 **读者视角提示**：接 ch37 「你丈夫会替你当参议员」：Wilkinson 的统治术（代行、驯化、羞辱）与红手的（代王、观赏）同构——血林的男人管理女人的方式都像管理殖民地。Eric 的冷眼旁观此刻反而是敬意：他看的是战况不是性别。
 
 > **原句 3:** "“Open your mouth for me,” Will commanded quietly, holding his wrist above her."
 **中文理解**：「为我张开嘴，」威尔轻声下令，把手腕悬在她上方。
 **关键词**：Open your mouth for me / commanded quietly
-**为什么这样写**：喂血的台词是命令式的温存：quiet 与 command 并置——权力的性别在此反转（他是施与者、她是受血者）。此句与 ch27 的「为我启唇」（神的）同构：两代喂养者共用一句台词。
+**为什么这样写**：喂血的台词是命令式的温存：轻声与命令并置——权力的性别在此反转（他是施与者、她是受血者）。此句与 ch27 的「为我启唇」（神的）同构：两代喂养者共用一句台词。
 **读者视角提示**：把「Open your mouth for me」与 ch19 神的「Part your lips for me」对读：威尔此刻的位置是「施与方」——他从祭品升级成祭司。这一口血将在下一章被红手点名「感谢」。
 
 > **原句 4:** "No matter how fiercely the other clan tried to hold her down, she rose and shook away the last of the paralysis. Her gaze was devastating, the storm roaring around her as snowflakes danced within her pull."
 **中文理解**：无论那族人如何死死压她，她站了起来，抖落最后的麻痹——目光毁灭性，风暴在她周身咆哮，雪花应她的引力起舞。
 **关键词**：shook away the paralysis / snowflakes danced / her pull
-**为什么这样写**：复苏的写法是引力反转：从「被压」到「万物应她」——雪花的 choreography 是她权力的可视化。「devastating」一词接 ch02 她的初见（devastating stare）：首尾同词，人物完成闭环。
+**为什么这样写**：复苏的写法是引力反转：从「被压」到「万物应她」——雪花的调度是她权力的可视化。「devastating」一词接 ch02 她的初见（devastating stare）：首尾同词，人物完成闭环。
 **读者视角提示**：血雨的降落=敌人的魔法倒灌——她连武器都用对方的。记住「雪花应她起舞」：这是她第一次当众展示「域」级别的掌控，红手的点头赞许（后文）将从这里开始变质为忌惮。
 
 > **原句 5:** "The moment she had gathered enough blood, she pulled her hands apart, her teeth bared in a furious grimace, and Duke Bohun exploded."

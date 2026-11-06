@@ -10,7 +10,7 @@ modified: "2026-11-05"
 - **情感弧线位置**：幻灭与唤醒——关系的罗曼蒂克面纱被政治彻底撕开，剩下的两人第一次以真实身份对视。
 - **Tropes 兑现/反转**：兑现「订婚惊爆」与「临行抉择」；反转「反派未婚夫」——Wilkinson 公爵温和无害，真正的怪物是制度。
 - **人物弧线**：埃洛迪卸下最后一点「无辜」叙事（「我身上从来没有一撮天真」）；威尔承认被困，却把「被困」重签为「选择」。
-- **叙事手法**：喜剧开场（绊倒与水手骂）垫着悲剧落地（订婚）；三连「为什么」逼出她唯一一次完整自白。
+- **叙事手法**：喜剧开场（绊倒与水手骂）垫着悲剧落地（订婚）；连串的「为什么」逼出她唯一一次完整自白。
 
 ## 精读
 > **原句 1:** "She was already on her feet, but after barely a step, she caught her foot in a fold of the carpet where the desk had moved. Will was about to rush to her when the door flew open, and Hedgefort stormed inside."
@@ -42,7 +42,7 @@ modified: "2026-11-05"
 **中文理解**：「我是你们两个的玩具，而我总忘记这一点。」
 **关键词**：a toy / both of you / keep forgetting
 **为什么这样写**：自嘲里带着控诉的升级：从她的玩具到「你们两个」——他把阿科斯一并拖进来算总账。「总忘记」是驯化进程的自白：玩具开始有了感情，就成了问题。
-**读者视角提示**：「你们两个」的指认是威尔第一次把两位贵人放进同一个动词里——他终于看清自己被两条战线共用。接 ch16 「秃鹫」与本章：所有Feed 他人者，食谱里都有他。
+**读者视角提示**：「你们两个」的指认是威尔第一次把两位贵人放进同一个动词里——他终于看清自己被两条战线共用。接 ch16 「秃鹫」与本章：所有以他人为食者，食谱里都有他。
 
 > **原句 6:** "“You are not from here. You do not know what it is like to be trapped on this scrap of earth, cursed and tormented, knowing you will never grow old, that you and your children and your children's children are condemned to become vampire food, vampires themselves, or victims of the endless power struggle. Survival—that is the game we play here.”"
 **中文理解**：「你不是本地人。你不知道被困在这块弹丸之地是什么滋味——被诅咒、被折磨，知道自己永远不会老，你和你的孩子、孩子的孩子都注定沦为吸血鬼的口粮、变成吸血鬼本身、或死在无休止的权力绞杀里。生存——这才是我们这里玩的游戏。」

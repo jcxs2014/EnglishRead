@@ -6,7 +6,7 @@ modified: "2026-11-05"
 # 25. Chapter 25
 
 ## 本章导航
-- **一句话概括**：影中走出候选人罗伯特·雷克——她咬腕成血晶双刃，他首次自饮血魔法点燃月光细剑； insults 与剑锋齐飞，雷克坠入自己召唤的深渊，影子被旋风撕散归夜。
+- **一句话概括**：影中走出候选人罗伯特·雷克——她咬腕成血晶双刃，他首次自饮血魔法点燃月光细剑；骂战与剑锋齐飞，雷克坠入自己召唤的深渊，影子被旋风撕散归夜。
 - **情感弧线位置**：共战成婚——两人的魔法在同一个光圈里第一次互为补给。
 - **Tropes 兑现/反转**：兑现「深夜决斗」与「反派坠楼」；反转「候选人实力」——觊觎红手之位的大法师，输给自己的旧伤与话术。
 - **人物弧线**：威尔咽下首都的全部蔑视，第一次亲手把血变成武器；埃洛迪的出身谜底（母尸中而生）首次由敌人口中爆出。
@@ -28,14 +28,14 @@ modified: "2026-11-05"
 > **原句 3:** "A man stepped into the shadow's shape, and the two became one. When he moved toward them, the darkness followed a fraction too late, so that nothing about him ever looked entirely natural."
 **中文理解**：一个男人踏进影子的轮廓，两者合而为一。他向他们走来时，黑暗总要慢半拍才跟上——于是他身上没有一处看起来完全自然。
 **关键词**：the two became one / a fraction too late / entirely natural
-**为什么这样写**：法师与影的合体用「慢半拍」写破绽：力量越嫁接，协调越失真。迟滞的影子像过期的 armor——这个「不同步」就是他本体的地址。
+**为什么这样写**：法师与影的合体用「慢半拍」写破绽：力量越嫁接，协调越失真。迟滞的影子像过期的甲胄——这个「不同步」就是他本体的地址。
 **读者视角提示**：接 ch24 「杀法师即灭其影」：人影合体本该无敌，但「慢半拍」暴露了绑定质量——他的意志撑不起这套咒物。雷克的失败从走路的姿势就开始了。
 
 > **原句 4:** "“My father nominated me when I was barely a year old. Does our King even remember you exist when you never leave your observatory? The people of this city have forgotten you.”"
 **中文理解**：「我父亲在我还不满一岁时就提名了我。我们的王——你连天文台都不迈出去，他还会记得世上有你吗？这座城的人早就把你忘了。」
 **关键词**：nominated me / barely a year old / observatory
 **为什么这样写**：她的王牌是「资历」：一岁获提名=制度继承人的原始股。「observatory」一击点穴：把他钉在自娱的塔里，与「被遗忘」画等号。政治骂战的必杀技是改写对方的标签。
-**读者视角提示**：把「一岁提名」与 ch16 「你父亲看出你的潜力」连读：红手、父亲、提名——三角关系的又一块拼图。她的 candidacy 是遗产，不是野心：这解释了她为何寸步不让。
+**读者视角提示**：把「一岁提名」与 ch16 「你父亲看出你的潜力」连读：红手、父亲、提名——三角关系的又一块拼图。她的候选资格是遗产，不是野心：这解释了她为何寸步不让。
 
 > **原句 5:** "“Born from your mother's dead body,' 'baptized in blood,' 'fed with blood.' Blood, blood, blood. He never understood that blood is what holds you back. There are far greater powers out there!”"
 **中文理解**：「『你母尸中而生』『以血受洗』『以血喂养』——血、血、血。他到死都不懂：血正是拖住你的东西。外面还有大得多的力量！」
@@ -61,7 +61,7 @@ modified: "2026-11-05"
 **中文理解**：一道银光细剑刺进怪物肩头。影子尖啸。雷克惨叫。
 **关键词**：rapier of silver light / shrieked / screamed
 **为什么这样写**：三行三声：刺入（视觉）、影啸、人叫——伤害沿咒物链反向传导，本体的痛觉无处可逃。句子的骤短让剑速变成了阅读速度。
-**读者视角提示**：剑 club 的旧本能（ch08 提过 fencing club 是社交俱乐部）此刻兑现成杀招：他被自己瞧不起的过往救了命。月光细剑的形制（rapier）与他的身份（优雅、首都、剑客）完全同构——他的魔法长成了他的样子。
+**读者视角提示**：击剑俱乐部的旧本能（ch08 提过 fencing club 是社交俱乐部）此刻兑现成杀招：他被自己瞧不起的过往救了命。月光细剑的形制（rapier）与他的身份（优雅、首都、剑客）完全同构——他的魔法长成了他的样子。
 
 > **原句 9:** "With an enraged cry, Will tore the blade free and kicked him, sending Mr. Lake stumbling backward. The abyss yawned behind him."
 **中文理解**：威尔怒吼着拔出光刃、一脚踹出——雷克踉跄后退，深渊在他身后张着大口。

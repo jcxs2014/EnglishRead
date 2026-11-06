@@ -16,7 +16,7 @@ modified: "2026-11-05"
 > **原句 1:** "Will recognized the man nonetheless, as though a cord had suddenly drawn taut between them, connecting his chest to the knight's breastplate."
 **中文理解**：威尔还是认出了他——仿佛一根线突然绷紧，把他胸口与骑士的胸甲连在一处。
 **关键词**：a cord / drawn taut / breastplate
-**为什么这样写**：认人不用眼睛用「线」：面甲遮脸、性向藏身，唯有一条看不见的张力在两人之间拉紧。这条 cord 是本书言情线的物理化——心与甲之间，早就挂好了铃。
+**为什么这样写**：认人不用眼睛用「线」：面甲遮脸、性向藏身，唯有一条看不见的张力在两人之间拉紧。这条线是本书言情线的物理化——心与甲之间，早就挂好了铃。
 **读者视角提示**：接 ch14 阳台借衣、ch17 撞见仪式、ch18 捞人——「线」的每一次绷紧都有前情。今夜它将在舞池里绷到极限。
 
 > **原句 2:** "He had not allowed himself to imagine how Mr. Arcos might react to him. But now, as he studied the expanse of exquisitely worked steel, his breath caught. Mr. Arcos was a nightmare made flesh, and Will wondered whether this was his true face after all—cold and impassive, forged in fire until no emotion remained."

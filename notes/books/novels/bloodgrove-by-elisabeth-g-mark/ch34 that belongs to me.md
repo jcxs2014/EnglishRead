@@ -9,7 +9,7 @@ modified: "2026-11-05"
 - **一句话概括**：狗先到、主人后至——阿科斯徒手折颈为「碰我东西的下场」；一腕血喂回一条命，喂血喂出一声「Eric」；埃洛迪破门断后，三人夜投他的公寓。
 - **情感弧线位置**：三角重组——占有宣告、喂养亲密、破门打断在同一间牢房里完成权力重排。
 - **Tropes 兑现/反转**：兑现「英雄救场」与「血之喂养」；反转「救援即越界」——喂血的温柔比长老的獠牙更危险。
-- **人物弧线**：阿科斯的红线（「属于我的」）首次明示；威尔在 venom 与血欲之间给自己做了第一次鉴别诊断。
+- **人物弧线**：阿科斯的红线（「属于我的」）首次明示；威尔在毒液与血欲之间给自己做了第一次鉴别诊断。
 - **叙事手法**：以「红」串场（眼中的红、腕上的血、断后的火光）；喂血一场用「神-祭品」倒错写权欲。
 
 ## 精读
@@ -35,7 +35,7 @@ modified: "2026-11-05"
 **中文理解**：「喝。」他把小臂递到威尔唇边——威尔难以置信地瞪着他。
 **关键词**：Drink / stared in disbelief
 **为什么这样写**：救援的最高规格是给血：不是包扎不是搀扶，是把自己的一部分直接输给他。命令式一个词的温柔，配得上此前所有冷漠的铺垫。
-**读者视角提示**：这是威尔第一次喝「人」的血——此前他喝过神的白蜜、她的指尖、自己的伤口。血之源的升级（神→她→自己→他）每一步都在改写他的忠诚坐标系。
+**读者视角提示**：这是威尔第一次被人主动喂血——此前他喝过神的白蜜、舔过她指尖的血、也喝过自己的伤口。血之源的升级（神→她→自己→他）每一步都在改写他的忠诚坐标系。
 
 > **原句 5:** "His tongue passed over the wound before he could stop himself. His lips closed around the cut and sucked."
 **中文理解**：舌尖越过伤口——来不及阻止自己。他的唇裹住切口，吮了起来。
@@ -46,14 +46,14 @@ modified: "2026-11-05"
 > **原句 6:** "His pupils were wide, devouring the silver of his irises, through which a red gleam now ran. His lips were slightly parted, his breathing quick, his gaze bound to Will."
 **中文理解**：他的瞳孔放大，吞掉了银色的虹膜——其中此刻透出一线红。唇微启、呼吸急促、目光锁死在威尔身上。
 **关键词**：devouring the silver / a red gleam / bound to Will
-**为什么这样写**：喂血把两人写成了镜像的溺水者：威尔喝、他给——而「被需要」才是真正的失血点。红gleam再现（本块第3条）：喂血现场=他红眼的实验条件。
-**读者视角提示**：「bound to Will」的主语是 gaze 不是他——作者刻意让眼睛先失守。接 ch29 舞池「steel-colored eyes 的挣扎」：阿科斯的每次沦陷都从瞳孔开始，语言总是最后到的。
+**为什么这样写**：喂血把两人写成了镜像的溺水者：威尔喝、他给——而「被需要」才是真正的失血点。红芒再现（本块第3条）：喂血现场=他红眼的实验条件。
+**读者视角提示**：「bound to Will」的主语是目光不是他——作者刻意让眼睛先失守。接 ch29 舞池「steel-colored eyes 的挣扎」：阿科斯的每次沦陷都从瞳孔开始，语言总是最后到的。
 
 > **原句 7:** "“Gods, you are beautiful,” Mr. Arcos whispered. His free hand moved to the back of Will's head, buried itself in his hair, and urged him to keep drinking."
 **中文理解**：「诸神在上，你真美，」阿科斯低语。另一只手移到威尔脑后，埋进发间，催他继续喝。
 **关键词**：you are beautiful / buried itself in his hair
 **为什么这样写**：赞美出现在喂血的最高潮：他夸的不是脸，是「喝我的样子」——占有欲的审美化。手的动作（埋发、催饮）把温柔与强制焊在一起。
-**读者视角提示**：对照 ch16 红手的「pretty thing」与 ch20 埃洛迪的「pure hearts」：本书每个角色都在给威尔起名。他 accept 哪个名字，就 accept 哪种权力——「Eric」那一声（下一块）是他自己第一次开口命名对方。
+**读者视角提示**：对照 ch16 红手的「pretty thing」与 ch20 埃洛迪的「pure hearts」：本书每个角色都在给威尔起名。他接受哪个名字，就接受哪种权力——「Eric」那一声（下一块）是他自己第一次开口命名对方。
 
 > **原句 8:** "“Eric,” he breathed against the skin."
 **中文理解**：「埃里克，」他贴着那片皮肤吐出名字。

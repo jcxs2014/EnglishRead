@@ -58,7 +58,7 @@ modified: "2026-11-05"
 > **原句 8:** "“Because you cannot have her?” he said coldly."
 **中文理解**：「因为你得不到她？」他冷冷地说。
 **关键词**：cannot have her / coldly
-**为什么这样写**：五个字的手术刀：一句话把威胁者钉在被告席——猜中即炸。冷coldly 与 boiling（下句）的温度对撞是本章的胜负手：谁先失控谁输。
+**为什么这样写**：五个字的手术刀：一句话把威胁者钉在被告席——猜中即炸。冷淡与沸腾（下句）的温度对撞是本章的胜负手：谁先失控谁输。
 **读者视角提示**：接 ch28 「她牺牲自己和所有人」与本章：威尔终于找到了她的战争的核心机密——叔叔想要她。这解释了红手为何纵容她参赛（欣赏猎手）又为何咆哮（怕猎物逃出笼）。弑主计划（ch37）在这里获得了私刑的正当性。
 
 > **原句 9:** "It was only a small comfort that he had seen with his own eyes that the Red Hand had not crossed that final boundary with his niece. That Elodie remained untouched."

@@ -53,7 +53,7 @@ modified: "2026-11-05"
 **中文理解**：「他从十岁起就崇拜我。某次我犯了个错，让他看了我的衣橱——从那以后，他就认定我的宅子是座奇境。」
 **关键词**：worshiped me / my wardrobe / a wonderland
 **为什么这样写**：崇拜的起源是一次「衣橱」：童话的开关如此具体——她展示的美成为他的信仰。「我犯了个错」的自责与她的危险身份形成反差：连偶像都怕自己被神化。
-**读者视角提示**：把「衣橱」与 ch15 红衣、「三百只眼睛」裙连读：她的时尚确实是造神工具——Saint 是第一个信徒，全城是第二批。「奇境」一词倒过来读就是「幻境」：信仰的剂量决定看见什么。
+**读者视角提示**：把「衣橱」与 ch15 红衣、「数百只眼睛」裙连读：她的时尚确实是造神工具——Saint 是第一个信徒，全城是第二批。「奇境」一词倒过来读就是「幻境」：信仰的剂量决定看见什么。
 
 > **原句 8:** "“That is the point. They may not influence the final decision, but their approval is a form of currency in this city. I hope the investment pays off in the end.” Rather than blossoming beneath the praise, she seemed to fold in on herself."
 **中文理解**：「这正是目的。他们未必能左右最终决定，但他们的认可是这座城里的流通货币。希望这笔投资最终有回报。」可被夸奖没有让她绽放，她反倒把自己折叠了起来。

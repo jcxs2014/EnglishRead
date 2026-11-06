@@ -41,7 +41,7 @@ modified: "2026-11-06"
 > **原句 5:** "“It was made for him. It is his prison.”"
 **中文理解**：「（诅咒）是为他而造的。是他的牢。」
 **关键词**：made for him / his prison
-**为什么这样写**：诅咒的归属再一次被确认，且由神亲口：这座城的全部苦难是「一个人的牢房」——居民只是牢房的墙paper。一句话把血林的政治问题变成了神学问题。
+**为什么这样写**：诅咒的归属再一次被确认，且由神亲口：这座城的全部苦难是「一个人的牢房」——居民只是牢房的墙纸。一句话把血林的政治问题变成了神学问题。
 **读者视角提示**：接 ch31 「只囚他一人」、ch40 「他仍不信」：三处证词合龙。王的诅咒=红王一个人的刑期，而全城替他服刑——这个设定一旦被揭开，「弑主」就从权力斗争变成**越狱计划**。
 
 > **原句 6:** "“Only a small, bitter taste of the thing we long for. The one who imprisoned us knew how to torment an eternal soul.”"

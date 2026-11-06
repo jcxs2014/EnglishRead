@@ -23,14 +23,14 @@ modified: "2026-11-05"
 **中文理解**：（他问她为何永远遮到喉头，她答：）「是因为缺乏勇气……遮住是为了防陌生人割开我们、偷走我们的血。」
 **关键词**：lack of courage / cutting / stealing our blood
 **为什么这样写**：着装规范背后是身体政治：衣领的高度就是血的安保等级。她自嘲「缺乏勇气」，把一整套生存规则说成怯懦——血林的日常底色在一句闲谈里完成交底。
-**读者视角提示**：接 ch06「代价是血」与 ch08 摸料子的手：在这座城，皮肤就是钱包。威尔「别穿得像弱者」的回敬，既是调情也是 challenge——她后来换了低领，就是在应这个战。
+**读者视角提示**：接 ch06「代价是血」与 ch08 摸料子的手：在这座城，皮肤就是钱包。威尔「别穿得像弱者」的回敬，既是调情也是挑战——她后来换了低领，就是在应这个战。
 
 > **原句 3:** "The moment her arms closed around him, she exploded."
 > "A flood of red blinded him, splashing across his face, his clothes, the entire length of his body. It poured into his startled mouth, clogged his nose, and smeared through his hair."
 **中文理解**：她的双臂刚合拢，她就爆开了。红色的洪流糊住他的眼，溅满他的脸、他的衣、他的全身——灌进他惊愕张开的嘴，堵住鼻孔，浸透头发。
 **关键词**：she exploded / flood of red / clogged
 **为什么这样写**：恐怖片的经典镜头（拥抱即爆炸）与派对喜剧的语境相撞——「flood」把血写成灾害级液体。动词链（灌、堵、浸）全部是生理入侵级别的：这场欢迎礼的实质是围猎。
-**读者视角提示**：这是全书第一次把「血」泼在威尔身上而不是让他旁观——从观赏者变成耗材。请记住 pig's blood 这个真相将在后文揭晓：恐怖是道具，羞辱才是目的。
+**读者视角提示**：这是全书第一次把「血」泼在威尔身上而不是让他旁观——从观赏者变成耗材。请记住 猪血这个真相将在后文揭晓：恐怖是道具，羞辱才是目的。
 
 > **原句 4:** "“He looks even more beautiful in red!”"
 > "“You were right—he is something special.”"

@@ -49,7 +49,7 @@ modified: "2026-11-05"
 > **原句 6:** "With a primal roar, it opened its jaws over the vampire's head, sank its teeth into the skull, and bit clean through. Mr. Arcos did not so much as blink. He merely stared darkly at Will."
 **中文理解**：随着一声原始的咆哮，它朝吸血鬼的头顶张开血盆大口，牙齿咬进头骨，干脆利落地咬穿。阿科斯连眼皮都没眨一下，只是阴沉地盯着威尔。
 **关键词**：bit clean through / did not so much as blink / stared darkly
-**为什么这样写**：杀戮与凝视同帧： jaws 咬穿的脆响配他一眼不眨的注视——他对暴行的钝感就是他的教养。「盯着威尔」把观众变成了知情共犯：你看见了，你也在这里。
+**为什么这样写**：杀戮与凝视同帧：狼牙咬穿的脆响配他一眼不眨的注视——他对暴行的钝感就是他的教养。「盯着威尔」把观众变成了知情共犯：你看见了，你也在这里。
 **读者视角提示**：阿科斯用一场示范回答了 ch14 的所有问题：他的从容来自绝对的掌控。请记住「不眨眼」——这是本书衡量铁石的度量衡单位。
 
 > **原句 7:** "“She's mad. She murdered her father.”"

@@ -28,7 +28,7 @@ modified: "2026-11-05"
 > **原句 3:** "“Not until we are married, my darling. My remaining in the contest makes you appear stronger.”"
 **中文理解**：「等我们成婚再说，亲爱的。我留在赛场上，会让你显得更强。」
 **关键词**：Not until we are married / makes you appear stronger
-**为什么这样写**：她拒绝退赛的理由是喂给他的毒糖：把「我不退」包装成「为你好」——一箭双雕（保住 candidacy、迎合他的虚荣）。谎言的语法学典范：每个字都真，整句全假。
+**为什么这样写**：她拒绝退赛的理由是喂给他的毒糖：把「我不退」包装成「为你好」——一箭双雕（保住候选资格、迎合他的虚荣）。谎言的语法学典范：每个字都真，整句全假。
 **读者视角提示**：接 ch37 婚礼夜弑主的计划与本章：她留在赛场不是为了让他更强，是为了让他死。「my darling」的称呼在她嘴里从来是假条——读者此刻应该已经能听出这个称呼的三种用法（应付 Eric 时最甜、最假）。
 
 > **原句 4:** "He has something—whatever it is—that allows him to control the Red Hand."
@@ -87,4 +87,4 @@ modified: "2026-11-05"
 | wax | n. 蜡；蜡状物 | Will watched the courteous smile melt from her features like wax as her brows drew together. |
 
 ## 一句话总结
-隔墙听审：她的驯夫演技被差评又自习成才——「留赛让你显强」骗过未婚夫；推理出炉「他有控制红手的东西」，血税帝国（literally 放干自己）便是家史罪证；冬至随行、唇印茶杯、两个字「邀 Eric」——三角同盟在沙发上成立。
+隔墙听审：她的驯夫演技被差评又自习成才——「留赛让你显强」骗过未婚夫；推理出炉「他有控制红手的东西」，血税帝国（字面意义上放干自己）便是家史罪证；冬至随行、唇印茶杯、两个字「邀 Eric」——三角同盟在沙发上成立。

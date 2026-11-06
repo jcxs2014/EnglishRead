@@ -17,7 +17,7 @@ modified: "2026-11-05"
 **中文理解**：他不能容许自己忘记自己离死有多近。然而奇怪的是，这个念头让他无感。
 **关键词**：close to death / left him cold
 **为什么这样写**：创伤的两种时态并行：疤在身上（每晚验伤），「冷」在心里——濒死的记忆不让他怕，让他钝。这句「冷」是本章所有算计的心理起点：不怕死的人开始下棋。
-**读者视角提示**：接 ch33 「冰海」与本章「冷」：他对死亡的感知已经完成了本地化——血林把他训练成了能直视深渊的 species。注意这是「残破化」的第一份自查报告。
+**读者视角提示**：接 ch33 「冰海」与本章「冷」：他对死亡的感知已经完成了本地化——血林把他训练成了能直视深渊的物种。注意这是「残破化」的第一份自查报告。
 
 > **原句 2:** "Although Will had felt most normal in his company, Saint had been a creature of this city's shadows—whether in the dim shop, between dusty bookshelves, beneath the red glow of the balls, or in cold moonlight."
 **中文理解**：尽管和圣徒在一起时威尔感到最正常，Saint 却始终是这座城阴影里的生灵——昏暗的铺子里、积尘的书架间、舞会的红光下、冰冷的月光中。
@@ -29,12 +29,12 @@ modified: "2026-11-05"
 **中文理解**：「这就是悲剧。圣徒死了。」
 **关键词**：It is a tragedy / Saint is dead
 **为什么这样写**：对贵妇的「庆幸」他只回两句：一词顶回、一句定罪——拒绝让死亡被换算成「幸运」。葬礼上最锋利的悼词往往最短。
-**读者视角提示**：接她的 snarl 「Go away」与本章全部冷遇：血林的哀悼按阶级配给——Saint 只配得到一句纠正。威尔这句「It is a tragedy」是他与这座城的价值观正式割席的一刀。
+**读者视角提示**：接她的「Go away」与本章全部冷遇：血林的哀悼按阶级配给——Saint 只配得到一句纠正。威尔这句「It is a tragedy」是他与这座城的价值观正式割席的一刀。
 
 > **原句 4:** "Vero Lancet died in the twenty-third year of his tenure, and Vincent Ormonde, second-born son of House of Ormonde, was appointed Red Hand by His Royal Majesty."
 **中文理解**：维罗·兰塞特死于任期第二十三年，奥蒙德家族次子文森特·奥蒙德被国王陛下任命为红手。
 **关键词**：twenty-third year / second-born son / appointed
-**为什么这样写**：档案引文用公文腔制造惊雷：她父亲（次子）是「杀」了前任才上位的——「继任」的官方措辞里藏着 dynasty 的血账。「His Royal Majesty」的敬语与死讯同句，制度之冷尽显。
+**为什么这样写**：档案引文用公文腔制造惊雷：她父亲（次子）是「杀」了前任才上位的——「继任」的官方措辞里藏着王朝的血账。「His Royal Majesty」的敬语与死讯同句，制度之冷尽显。
 **读者视角提示**：接 ch33 长老的「两条路」与本章档案：弑主即继位的先例由她父亲亲笔写成。次子的身份也在说话——他不是嫡承，是「拿下」的。她的血脉里本就有这条路的走法。
 
 > **原句 5:** "“That is why you have not been appointed to the Senate. The Red Hand cannot take you seriously when you distract yourself with such useless things. But that is for the best. Now you need not fight for the position, because your husband will be a senator for you.”"
@@ -59,7 +59,7 @@ modified: "2026-11-05"
 > **原句 8:** "“I will send the invitations shortly beforehand, and with luck, all my 'useless pursuits' will have paid off, and people will be willing to miss his ball for the sake of a scandal.”"
 **中文理解**：「我会提前不久才发出请柬——若运气好，我那些『无用之事』全都派上用场，人们会为了看一场丑闻，宁可缺席他的舞会。」
 **关键词**：shortly beforehand / useless pursuits / a scandal
-**为什么这样写**：复仇计划的精髓是把羞辱反缝成钩子：他骂过的「无用之事」（裙子、请柬、社交）正是钓鱼的饵料——「scandal」是她请柬上的主菜。 insult 的再利用是全书最高级的战术回收。
+**为什么这样写**：复仇计划的精髓是把羞辱反缝成钩子：他骂过的「无用之事」（裙子、请柬、社交）正是钓鱼的饵料——「scandal」是她请柬上的主菜。羞辱的再利用是全书最高级的战术回收。
 **读者视角提示**：把「useless pursuits」与 Wilkinson 的原话并读：同一批词，一周内从刑具变成武器。她的社交投资（ch30 「好评是货币」）此刻到期兑付——请记下这场豪赌的三张牌：婚讯、舞厅、魔法。
 
 > **原句 9:** "“Will,” she whispered, searching his face for something he could not name. “Have I ever told you how grateful I am for you?”"

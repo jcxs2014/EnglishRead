@@ -16,7 +16,7 @@ modified: "2026-11-05"
 > **原句 1:** "Yet as soon as enough had gathered to cover the leather, she grinned and licked them away."
 **中文理解**：（学他伸手接雪，）可雪刚积够盖住皮革，她就咧嘴一笑，舔掉了它们。
 **关键词**：grinned / licked them away
-**为什么这样写**：接雪的童真与舔雪的兽性共用一个动作——她的双面性格用一次手势完成快闪。雪从「纯洁」的符号被她当场吃掉：这位公爵夫人的世界里， innocent 只是口味之一。
+**为什么这样写**：接雪的童真与舔雪的兽性共用一个动作——她的双面性格用一次手势完成快闪。雪从「纯洁」的符号被她当场吃掉：这位公爵夫人的世界里，天真只是口味之一。
 **读者视角提示**：把「舔雪」与 ch10 舔血、ch39 吮伤口连成她的舌头编年史：她用同一条舌头品尝这座城的全部滋味。雪在她的舌尖上只是另一种「血色的替代品」。
 
 > **原句 2:** "She looked as though winter were overtaking the blood, or—as Will realized with a pang—as though it were making way for a wedding gown. As though she were washing away the blood and would emerge beneath it pure, white, and innocent."
@@ -58,7 +58,7 @@ modified: "2026-11-05"
 > **原句 8:** "for one night, they forgot the engagement ring on her finger."
 **中文理解**：至少今夜，他们忘了她指上的订婚戒指。
 **关键词**：for one night / forgot the engagement ring
-**为什么这样写**：收章句以「遗忘」立誓：戒指是政治的 physically attached 剩余物——今夜它被从叙事里摘除。「for one night」的限定又一次提醒读者：一切甜都有归还日期。
+**为什么这样写**：收章句以「遗忘」立誓：戒指是政治上物理附着的剩余物——今夜它被从叙事里摘除。「for one night」的限定又一次提醒读者：一切甜都有归还日期。
 **读者视角提示**：接 ch26 「我这种人错不起」到本章「把错误犯得像样」：她的弧线在这枚被遗忘的戒指上完成第一次完整兑现。请记住「遗忘」是她能给出的最大诚实——她没有假装戒指不存在，只是允许它失焦一个月。
 
 ## 本章词汇

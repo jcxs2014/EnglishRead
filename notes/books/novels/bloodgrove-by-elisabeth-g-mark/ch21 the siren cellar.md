@@ -53,7 +53,7 @@ modified: "2026-11-05"
 **读者视角提示**：对照 ch17 的吸血鬼密室（链缚取乐）与这里的水槽（圈养待售）：两种囚禁都是基础设施。血林的「物化他者」有完整的供应链——威尔的职业目光此刻正在给它们量尺寸。
 
 > **原句 7:** "In place of legs, it had an immense, elongated tail, scaled and muscular, twisting within the narrow container. Membrane-webbed fingers hung weightlessly in the water, and white hair drifted in thick clouds around its strange face. Gills beneath its chest rose and fell slowly, while its eyes stared ahead beneath a milky film."
-**中文理解**：它没有腿，取而代之的是一条巨大修长的鳞尾，在狭窄的容器里盘曲；蹼指失重地悬在水中，白发如浓云绕着那张奇异的脸盘旋。胸下的鳃缓缓起伏，milky 白翳下的眼睛直视前方。
+**中文理解**：它没有腿，取而代之的是一条巨大修长的鳞尾，在狭窄的容器里盘曲；蹼指失重地悬在水中，白发如浓云绕着那张奇异的脸盘旋。胸下的鳃缓缓起伏，乳白的白翳下的眼睛直视前方。
 **关键词**：immense, elongated tail / white hair / milky film
 **为什么这样写**：人鱼的白描走标本学路线：尾、蹼、鳃、白翳——每一项都在回答「这是什么」，最后一项（浑浊的眼）在回答「它还剩什么」。美白发与威尔的银发同色系：亲缘写在色谱上。
 **读者视角提示**：「Or of his Albatross.」紧接的这句才是本段的真身：他在鱼人身上认出了神。半人半鱼=他的血统猜想第一次有了实体参照——渔村的旧故事、月光之子、信天翁，正在地下室里合龙。
@@ -65,7 +65,7 @@ modified: "2026-11-05"
 **读者视角提示**：把「不要睡着」与威尔的梦（清单、神、鱼）连读：他的睡眠早已是塞壬水域——他每晚都在「听见歌声」的状态里。神给的东西与塞壬的溺水结构同源：快乐地淹死。
 
 > **原句 9:** "The creature was huge. Suspended in the air, it looked almost alive, accompanied by the foaming water inside the tanks. The butcher's hooks embedded in its flesh threatened to tear free."
-**中文理解**：那生物体型巨大。悬吊在半空，几乎像还活着，水槽里的水翻涌作陪——嵌进它肉里的 butcher 挂钩眼看要绷脱。
+**中文理解**：那生物体型巨大。悬吊在半空，几乎像还活着，水槽里的水翻涌作陪——嵌进它肉里的肉铺挂钩眼看要绷脱。
 **关键词**：Suspended in the air / almost alive / butcher's hooks
 **为什么这样写**：死物的「活感」由三要素合成：悬吊的姿势、翻涌的水、绷紧的钩——恐怖不靠新怪物，靠把尸体演成演员。肉铺挂钩是本章的道德句读：这里的「海」通着市场。
 **读者视角提示**：威尔的比喻（「我需要停止接受进地下室的邀请」）已经自嘲成口头禅：他撞见的每一间地下室都在校准这座城的下限。而钩子+水槽+价格的组合，就是他那份人骨清单的去向——他买的东西也这样挂在某处。
@@ -96,4 +96,4 @@ modified: "2026-11-05"
 | pulleys | n. 滑轮；辘轳（pulley 的复数） | Ropes squealed through pulleys, and the monster swayed toward him. |
 
 ## 一句话总结
-神授的购物清单让「人骨，新鲜的」与珍珠盐粒并排在柜台上——Saint 转述流言（强大法师、被公爵占有、她要找丈夫）；地下室的五只水槽里塞壬悬游，「不用怕——只要你不睡着」；指尖触玻璃的刹那暴动骤起，而在那具挂满 butcher 钩的尸身旁，威尔认出了自己的信天翁。
+神授的购物清单让「人骨，新鲜的」与珍珠盐粒并排在柜台上——Saint 转述流言（强大法师、被公爵占有、她要找丈夫）；地下室的五只水槽里塞壬悬游，「不用怕——只要你不睡着」；指尖触玻璃的刹那暴动骤起，而在那具挂满肉铺钩的尸身旁，威尔认出了自己的信天翁。

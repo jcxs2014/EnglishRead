@@ -24,7 +24,7 @@ modified: "2026-11-05"
 **中文理解**：（自称 Saint 的少年凑得更近，踮起脚尖盯着威尔的眼睛，促狭褪成锐利。）「你缔结的是什么契约？你的魔法尝起来那么……不一样。」
 **关键词**：pact / magic tastes / different
 **为什么这样写**：陌生少年的第一句真话就是「尝得出魔法」——血林的孩子把味觉当仪器用。「尝起来不一样」先于任何解释出现，把威尔身上的异样从读者视角转为城里人的实测结论。
-**读者视角提示**：请把「味道不一样的魔法」记进威尔的档案：连卖杂项的少年都尝得出他特殊。月光之子、白发、dream 里的声音——本地的鼻子比他本人诚实。
+**读者视角提示**：请把「味道不一样的魔法」记进威尔的档案：连卖杂项的少年都尝得出他特殊。月光之子、白发、梦里的声音——本地的鼻子比他本人诚实。
 
 > **原句 3:** "“I would not go down there if I were you. Monsters hunt in those streets.”"
 > "He would have recognized that voice anywhere. Eric Arcos, the Red Ambassador, stood behind him with the wolf-headed walking stick resting on his shoulder. Will might have laughed at the coincidence had the man's hard expression not unsettled him."
