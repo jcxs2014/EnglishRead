@@ -19,8 +19,8 @@ modified: "2026-11-05"
 **为什么这样写**：接雪的童真与舔雪的兽性共用一个动作——她的双面性格用一次手势完成快闪。雪从「纯洁」的符号被她当场吃掉：这位公爵夫人的世界里， innocent 只是口味之一。
 **读者视角提示**：把「舔雪」与 ch10 舔血、ch39 吮伤口连成她的舌头编年史：她用同一条舌头品尝这座城的全部滋味。雪在她的舌尖上只是另一种「血色的替代品」。
 
-> **原句 2:** "She looked as though winter were overtaking the blood, or—as Will realized with a pang—as though it were making way for a wedding gown."
-**中文理解**：她看上去像冬天正漫过血色——或者，威尔心头一刺地意识到——像在为婚纱让路。仿佛雪正在洗去血，让她以纯白无瑕之身重新出现。
+> **原句 2:** "She looked as though winter were overtaking the blood, or—as Will realized with a pang—as though it were making way for a wedding gown. As though she were washing away the blood and would emerge beneath it pure, white, and innocent."
+**中文理解**：她看上去像冬天正漫过血色——或者，威尔心头一刺地意识到——像在为婚纱让路。仿佛她正洗去血污，一身纯白无瑕地从雪里走出来。
 **关键词**：overtaking the blood / wedding gown / washing away the blood
 **为什么这样写**：白色的三重奏（雪、婚纱、洗血）在一句里完成色彩政变：她的红裙被冬天收编。「pang」的刺痛泄露威尔的私有恐惧：白色对她不是净化是出嫁。
 **读者视角提示**：接 ch15 「别穿得像弱者」的血红宣言与本章：她的衣色从来是政治公报。雪的「洗白」是外界（婚姻）对她的改写企图——而本章结尾她用行动证明：她的白之下永远是红。
