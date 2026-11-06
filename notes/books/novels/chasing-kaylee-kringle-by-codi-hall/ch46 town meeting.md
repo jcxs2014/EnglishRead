@@ -57,7 +57,7 @@ modified: "2026-11-06"
 
 **中文理解**：「还有件事，Rick。他们找到了 Wyatt 和 Elasia 的尸体。」
 
-**关键词**：found the bodies
+**关键词**：They found、bodies
 
 **为什么这样写**：全书案件线的关键卡口在此打开——ch18 那句「we haven't recovered the … bodies」的省略号如今补完；「There's more」的转折语气让好消息听起来像坏消息。
 
