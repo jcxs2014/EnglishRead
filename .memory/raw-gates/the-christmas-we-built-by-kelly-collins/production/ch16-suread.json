@@ -1,0 +1,55 @@
+{
+ "book": "the-christmas-we-built-by-kelly-collins",
+ "chapter": "ch16",
+ "text": "notes/books/novels/the-christmas-we-built-by-kelly-collins/text/ch16_chapter_16.txt",
+ "facts": [
+  {
+   "fact": "走廊地板上把她的留言听了两遍：她守约当天递坏消息、还说\"听见了剩下的部分\"——没原谅、没叫他回家，\"但她还是把手伸了回来\"；他动用最后一笔未质押储备金垫了三十二人一周工资——\"救得了一周，救不了贷款\"，又打给十月的公寓买家（周一正午前签约、12 月 23 日前过户）",
+   "anchor": "She didn’t forgive me or ask me to come home. She reached back anyway.",
+   "start": 408,
+   "end": 478
+  },
+  {
+   "fact": "周一晚七点回镇：主街灯火全开、面包房花环还系着红蝴蝶结——\"委员会停办了圣诞，主街没收到通知\"；旧金山三天让他知道自己的名字如今值多少：\"不是零，但远不如从前\"；他列了十一个欠解释的人，承认列名单\"不过是逃避第一个\"",
+   "anchor": "The committee had suspended Christmas. Main Street had not received the memo.",
+   "start": 1952,
+   "end": 2029
+  },
+  {
+   "fact": "祖父办公室里的 1947 会议纪要：八宗地块受共同契约约束——任何所有人未经全体书面同意不得拆除、移除或实质改动承重构件，共享墙/基脚维护费按份分摊；1947 年 11 月 14 日登记于第 62 卷第 417 页、Donnelly 被误拼成 Donley——按现代地块号检索必然漏掉；\"契约不是白来的钱，是'整条街必须作为一体来修、三主同桌'的证明\"",
+   "anchor": "that no owner condemn, remove or materially alter any load-bearing element without the written assent of all",
+   "start": 4519,
+   "end": 4627
+  },
+  {
+   "fact": "Meridian 双线绞杀：周五向县里递交结构报告并抄送议会——萨克拉门托工程师（持俄勒冈执照）确认地基位移、建议\"紧急复核完成前停修\"；\"他不需要拆掉任何东西，只需要议会拖延我\"——报告的可怕恰在于不是谎言：\"克雷恩雇了个合格工程师，把真问题按最慢的响应顺序列出来\"",
+   "anchor": "He only needed the council to delay me.",
+   "start": 7244,
+   "end": 7283
+  },
+  {
+   "fact": "弗兰克的信任仪式：把五金店后门钥匙递过来——\"我父亲教我看人在难处做什么。难处来的时候，你回来了。这算数，也许算一切\"；关于停办票：\"六比二，我投了赞成——这一票要你从我嘴里听见，而不是从更客气的人嘴里\"",
+   "anchor": "Frank did not make speeches about trust. He handed out keys.",
+   "start": 9099,
+   "end": 9159
+  },
+  {
+   "fact": "节日办公室无人清理：白板上他的\"周五确认商户\"底下有她另一种颜色的小字\"周五确认商户，我说真的\"；桌上一英寸冷可可、杯沿挂着拐棍糖——暖气被人从墙上关掉，\"那是你对一个不打算再来的房间做的事\"；他没拿文件，在走廊里站了一分钟什么都没做",
+   "anchor": "vendor confirmations—Fri, and I mean it.",
+   "start": 10086,
+   "end": 10126
+  },
+  {
+   "fact": "章末：Winters Wonderland 窗内她瘫在柜台后盯着一页不翻——\"就是那个在我蓝图上留挂饰、告诉我'归属感没法优化出来'的女人\"；他敲门一次、不重；隔着玻璃举起笔记本、无声口型\"我找到了东西\"；她手按柜台垂下眼——没走向门；身后弗兰克发动了卡车却没走；\"我的手贴在玻璃上。我等着\"",
+   "anchor": "I found something.",
+   "start": 12176,
+   "end": 12194
+  },
+  {
+   "fact": "停车场重逢：\"你回来了\"\"我说过会回来\"\"人什么话都说\"\"我买的是往返票\"——\"圣诞节买往返？那你不是铁了心就是不会算钱\"\"两者都成立\"；他嘴角动了动，带他去看祖父办公室",
+   "anchor": "Then you are either committed or bad with money.",
+   "start": 2711,
+   "end": 2759
+  }
+ ]
+}
