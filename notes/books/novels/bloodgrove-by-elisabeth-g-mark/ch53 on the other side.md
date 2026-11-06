@@ -37,38 +37,43 @@ modified: "2026-11-06"
 **为什么这样写**：他的伤与衣色同谋：血色的礼服是最好的绷带——「遮住」既是造型选择也是阶级礼仪（血林的宴会不会为伤口停摆）。
 **读者视角提示**：接 ch15 她的红衣、ch48 血衣：在这本书里衣服永远是身体的账本。他今夜穿红，等于把代价穿上台——而她穿白，等于把未来押上去。
 
-> **原句 5:** "“If I were marrying you, I would marry you in the silk dress,” he said before he could stop himself."
-> "She laughed softly. “Then I suppose I shall have to become a widow soon.”"
-**中文理解**：「如果是我娶你，我会让你穿那件丝裙。」他没来得及拦住自己。她轻声笑：「那我大概得早点当寡妇了。」
-**关键词**：the silk dress / become a widow
+> **原句 5:** "“If I were marrying you, I would marry you in the silk dress,” he said before he could stop himself. He would never forget the sight of her wrapped in the soft silk, the storm in her eyes while the clouds broke beyond the windows."
+**中文理解**：「如果是我娶你，我会让你穿那件丝裙。」他没来得及拦住自己——他永远忘不了她裹在柔软丝绸里的样子，眼里的风暴与窗外散开的云。
+**关键词**：the silk dress / the storm in her eyes
 **为什么这样写**：全书最像婚礼的一句话，出自一场不属于他们的婚礼。她的回应是一记双关：既调情（你要娶我就得先弄死他）又预告（我确实打算成为寡妇）。
 **读者视角提示**：接 ch06 那件「白丝如睡裙」、ch20 掌心吻：丝裙是他们之间唯一的「不设防」衣装。而他这句话在此时出口，已经太迟又恰好不迟——请把它记成他没能说出口的求婚。
 
-> **原句 6:** "Carried by six vampires in chains, the Red Hand's palanquin divided the crowd like a ship cutting through a tide."
+> **原句 6:** "“Then I suppose I shall have to become a widow soon.”"
+**中文理解**：「那我大概得早点当寡妇了。」——她把这句回答说得像玩笑，也说得像计划。
+**关键词**：become a widow
+**为什么这样写**：她的应答是本类型最漂亮的一句话：既接住了他的求婚暗示，又把「守寡」说成了预定行程——读者此刻才知道，她早已把丈夫的结局写进了日程表。
+**读者视角提示**：接 ch37 婚夜弑主、ch53 本章：这句玩笑的兑现只隔了几个小时。请留意她全程都没有否认这句话——在血林，所有的俏皮话都是合同条款。
+
+> **原句 7:** "Carried by six vampires in chains, the Red Hand's palanquin divided the crowd like a ship cutting through a tide."
 **中文理解**：红手的抬轿由六个戴锁链的吸血鬼抬着，像一艘船切开潮水般分开人群。
 **关键词**：six vampires in chains / divided the crowd / a ship
 **为什么这样写**：权力入场被写成海军意象：轿=舰、人群=潮、锁链吸血鬼=舷侧。全城最有权势的人靠六个被囚者移动——这就是他在这个场景里的全部身家。
 **读者视角提示**：接 ch16 御座上的融化躯体：他从「坐着看戏」变成了「被抬进别人的场子」。请留意这个位移：这场婚礼的主场优势第一次不在他手上。
 
-> **原句 7:** "Hidden within the folds of her vast skirts, Will gently squeezed Elodie's hand. She returned the pressure, nearly breaking his fingers."
+> **原句 8:** "Hidden within the folds of her vast skirts, Will gently squeezed Elodie's hand. She returned the pressure, nearly breaking his fingers."
 **中文理解**：她宽大裙摆的褶皱里，威尔轻轻捏了捏她的手——她回握，几乎把他的手指折断。
 **关键词**：squeezed / nearly breaking his fingers
 **为什么这样写**：全章的紧张只有这一处出口：手。裙摆=唯一的私密空间（ch30 的裙下之盟重演），而「几乎折断」的力道说明她的镇定全靠意志。
 **读者视角提示**：接 ch30 「她勾住他的小指」、ch39 「众目下吮伤口」：他们的亲密永远在布料与人群的缝隙里。这一次力道大得多——请把「几乎折断」读成她真正的火候表。
 
-> **原句 8:** "“You deserve this victory,” he added."
+> **原句 9:** "“You deserve this victory,” he added."
 **中文理解**：「这场胜利该属于你。」
 **关键词**：deserve this victory
 **为什么这样写**：他把功劳一次交还：卖光家产、对最坏的人点头、忍打忍辱——「没人肯承认，因为她不是靠武力得来的」。这是全书对她最完整的一次评价，也是他作为雇员/朋友的毕业致辞。
 **读者视角提示**：接 ch28 「没有人在你这边」、ch39 「交出头衔否则我来拿」：她的胜利路线是社交而非暴力，而这条线正是他全程见证的。请把这句话记成她的「讣告预写」——他描述的是一个完人。
 
-> **原句 9:** "“We will see each other on the other side.”"
+> **原句 10:** "“We will see each other on the other side.”"
 **中文理解**：「我们彼岸见。」——她把告别说成了约期，也把结局说成了目的地。
 **关键词**：on the other side
 **为什么这样写**：告别的措辞选的是「彼岸」而非「明天」：她已经预知这场婚礼的结局，甚至预知自己可能不回来。「other side」在本书里是双关：婚礼的另一端，还是死亡的彼岸。
 **读者视角提示**：接 ch28 「结局注定」、ch49 「我可能把心输给你」：她的每一句潇洒都在暗指结局。这句话是她给威尔最像遗言的一句——请记住「彼岸」这个说法，它会在书末回响。
 
-> **原句 10:** "Then she was gone, and Will watched four scarlet, disfigured priests enter the ballroom. Four months ago, the sight of them would have shocked him. Now, his thoughts remained with Elodie."
+> **原句 11:** "Then she was gone, and Will watched four scarlet, disfigured priests enter the ballroom. Four months ago, the sight of them would have shocked him. Now, his thoughts remained with Elodie."
 **中文理解**：然后她走了——威尔看着四名猩红、面容毁损的祭司走进舞厅。四个月前这会吓坏他；如今他的心事全在埃洛迪身上。
 **关键词**：four scarlet priests / would have shocked him / remained with Elodie
 **为什么这样写**：收章的标尺是「四个月」：同一个画面（血袍祭司）在开头会吓坏他，现在只让他想起她。恐怖的位移比任何成长宣言都硬。
