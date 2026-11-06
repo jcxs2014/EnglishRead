@@ -1,0 +1,78 @@
+{
+ "chapter": "ch22",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "The lease was dated December ninth. Griffin had signed it three days before he told me",
+   "fact": "租约上的日期是12月9日——Griffin在告诉Nora之前三天就已签字，那时独立工程师、维修基金和“街区能否保住”的答案都还不存在；这份租约Nora已经随身带了十天。",
+   "start": 136,
+   "end": 222,
+   "agent_start": 136,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I had read it every night for ten days.",
+   "fact": "Nora连着十个晚上重读这份租约：当晚又先后到社区中心后面、唱诗班教室和Callahan书店的雨棚下读，在雨棚下时有四百人从她身边经过；她说读了十遍仍嫌不够。",
+   "start": 326,
+   "end": 365,
+   "agent_start": 326,
+   "offset_verified": true
+  },
+  {
+   "anchor": "At twenty to nine on the twenty-second of December, Winters Wonderland was full.",
+   "fact": "12月22日晚上差二十分九点，Winters Wonderland客满——Nora不在店里，店也不再需要她：Marcy同时跑着三笔交易，队伍排到四层深，头也不抬地指点县外来的女客“要高的那个”胡桃夹子。",
+   "start": 844,
+   "end": 924,
+   "agent_start": 844,
+   "offset_verified": true
+  },
+  {
+   "anchor": "tied his six parcels to a three-year repair plan, and accepted an offer on his Portland apartment",
+   "fact": "Griffin放弃了来Holly Creek原本要建的私人项目：撤回重新开发申请、把名下六块地块绑进三年维修计划、接受波特兰公寓的收购报价以清偿Meridian的债务；维修基金仍有缺口时，他就在半空的面包房里把租约交给了Nora——她从小惯于在小字里找账单，这次却没有账单。",
+   "start": 1689,
+   "end": 1786,
+   "agent_start": 1689,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Two co-chairs, one resurrected festival, and a covenant nobody in this county has read since Truman.",
+   "fact": "Nora抢先向Owen提起“公共项目经费”一条，Owen答复当天下午已提交归档——两位共同主席、一个复活的节庆，外加一份自杜鲁门时代起无人读过的县契约；他并预告Nora的市中心商户补助一月就会获批，同时自责十一月没先查清那项补助条款的威力就把它当成了筹码，最后支她去找在雪橇停车场“假装数马”、已站了二十分钟的Griffin。",
+   "start": 2373,
+   "end": 2473,
+   "agent_start": 2373,
+   "offset_verified": true
+  },
+  {
+   "anchor": "five days waiting for you to come back. Then I spent two weeks waiting for you to change your mind about staying",
+   "fact": "Nora对Griffin坦白：先花了五天等他回来，又花两周等他改变留下来的主意；他答“我没有”，两人把手握在了一起。",
+   "start": 3486,
+   "end": 3598,
+   "agent_start": 3486,
+   "offset_verified": true
+  },
+  {
+   "anchor": "It came out beside a horse, with the choir warming up two hundred feet away.",
+   "fact": "Nora没来得及挑更好的场合，就在马旁边、两百英尺外唱诗班热身时说出了“我爱你”；她说“我不欠你这个，所以这才作数”，Griffin坦然答以“我也爱你”。",
+   "start": 3948,
+   "end": 4024,
+   "agent_start": 3948,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I told you I wanted to come back to you at eleven forty-seven on the morning of December fourth",
+   "fact": "Griffin一字一句补记：早在12月4日上午11点47分他就说过想回到Nora身边——那只是“我爱你”的初稿，他后来当面做了改进；Nora把额头抵在他那件有木烟与锯末味的外套上，笑出了眼泪。",
+   "start": 4319,
+   "end": 4414,
+   "agent_start": 4319,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The choir is back on in four minutes, and somebody still has to move the last riser.",
+   "fact": "围观者不再假装：Pearl第一个张开双臂抱住Nora，Colette宣布自己关于十二月的判断一贯正确、要用糕点作谢礼，Frank指着第三根灯柱提醒Griffin托架还松着；Colette报时唱诗班四分钟后重新开演、最后一个合唱台阶还没人搬，Griffin吻了Nora一次，两人一起搬台阶去了。",
+   "start": 5994,
+   "end": 6078,
+   "agent_start": 5994,
+   "offset_verified": true
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "chapter": "ch23",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "Mrs. Morrison flagged me down at half past nine on Christmas Eve",
+   "fact": "平安夜九点半，Morrison太太拦下Griffin，说这是他十二年项目管理生涯里“最好的难题”：队伍绕过了街区——坐八分钟的环线要等四十分钟，Henderson家只好一路发可可防止客人溜号；她要更快的上客速度，并请Griffin接管那条快把可可车挤垮的队。Griffin随即提出分批上客：从可可车发售编号票、由Rosie在票背印好时间，让人们先去逛节庆再回来。",
+   "start": 34,
+   "end": 98,
+   "agent_start": 34,
+   "offset_verified": true
+  },
+  {
+   "anchor": "the red sleigh Richard Morrison had built in 1986",
+   "fact": "那辆红雪橇是Richard Morrison在1986年打造的，今年是它的第四十个平安夜；Nora从一开始就知道，并替Morrison太太保守秘密直到委员会官宣。Morrison太太回忆Richard开始雪橇游的那年只来了六个人、其中四个是自家亲戚，如今队伍已经绕过街区。",
+   "start": 579,
+   "end": 628,
+   "agent_start": 579,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Yours and Nora’s. Don’t argue with me, I’ve buried two committee chairs who tried.",
+   "fact": "Morrison太太当场拍板：明年节庆的首趟雪橇已经预留给Griffin和Nora，不许争辩——她说自己埋过两个试图争辩的委员会主席。",
+   "start": 1776,
+   "end": 1858,
+   "agent_start": 1776,
+   "offset_verified": true
+  },
+  {
+   "anchor": "We’ve parked here since 1998. The crowd can move.",
+   "fact": "Henderson家的可可车自1998年起就停在这个黄金位置，拒绝为疏导人流挪动六英尺；两个孩子在车前帮忙，递杯的队伍从不少于二十人，小费一律被按回手里——Mrs. Henderson说“收小费就像做买卖，这是礼物”。",
+   "start": 3084,
+   "end": 3133,
+   "agent_start": 3084,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Nineteen days since the festival committee had voted to suspend all of this.",
+   "fact": "正午Griffin在Winters Wonderland门外找到Nora：她站在折叠椅上重挂被幼儿扯下的花环，穿红外套、戴歪掉的金属箔光环，还单手指挥着唱诗班。他不由自主地清点：距委员会表决停办节庆才十九天，如今主街满到消防队长来过两次——一次为人数，一次为漏斗蛋糕。",
+   "start": 5015,
+   "end": 5091,
+   "agent_start": 5015,
+   "offset_verified": true
+  },
+  {
+   "anchor": "There were, in fact, boxes.",
+   "fact": "后仓储藏室里确实有箱子：Nora关上门、双手抓住Griffin的外套说“总算逮到你了”；两人在松木、纸箱和肉桂的气味里相吻，直到墙外传来唱诗班的调音和弦才分开——Pearl砸着门喊：“唱诗班一小时后开演！把手放规矩点，Cole！”",
+   "start": 5732,
+   "end": 5759,
+   "agent_start": 5732,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Total festival attendance is double last year.",
+   "fact": "Rosie端着平板报出收官日战报：节庆总人数是去年的两倍，四十周年雪橇游和雪雕赛把游客从四个县引来，两家地区报纸在头版上方登了“复活”报道，Cascade Heritage基金会转发照片、配文可以称作“自得”——“模范合作”；她已给Griffin做了六年项目支持，并把其一月状态会改到线上——既然他已在此定居，她拒绝再为“终于拆了一个箱子”的人开三小时5号州际公路。",
+   "start": 7462,
+   "end": 7508,
+   "agent_start": 7462,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“Forty-three years,” he said.",
+   "fact": "黄昏亮灯时闭幕式开始：重搭的舞台按Frank父亲的规格、用螺栓固定在其1983年浇的混凝土基座上，前后两次靠旧纸档救场——镇档案馆的1902年主街图纸和县里的1947年契约。Owen致辞只讲了很短一段：这是第四十三届Holly Creek圣诞节庆；十九天前他任主席的委员会曾投票让它终结，“我们错了，全镇纠正了我们”——今晚官方认定本届为史上参加人数最多的一届。",
+   "start": 9476,
+   "end": 9505,
+   "agent_start": 9476,
+   "offset_verified": true
+  },
+  {
+   "anchor": "He rang the bell, and Main Street began to go dark.",
+   "fact": "Frank举起父亲铸造的铁铃敲响，主街店铺自北向南逐家熄灯——一如过去四十二个十二月；Winters Wonderland最后熄灯（Nora握着Griffin的手，开关交给Marcy），黑暗中只剩那棵花旗松映亮四百张脸，唱诗班唱起人人会唱的颂歌，第二段落雪。散场后Pearl留下“物流更新”：跨年夜八点在Griffin公寓开派对——他家有阳台、易碎品最少——“欢迎来到Holly Creek，你来做东”；明早社区中心的煎饼也排给了他，而Griffin想着：再过一周，给了他这一切的一年就要结束了。",
+   "start": 10905,
+   "end": 10956,
+   "agent_start": 10905,
+   "offset_verified": true
+  }
+ ]
+}

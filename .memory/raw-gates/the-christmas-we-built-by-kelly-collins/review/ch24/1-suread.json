@@ -1,0 +1,78 @@
+{
+ "chapter": "ch24",
+ "source": "R1 独立素读（子代理盲读，主会话逐条复验）",
+ "entries": [
+  {
+   "anchor": "Griffin had cooked them on the community center griddle, and structural engineering had not prepared him for batter.",
+   "fact": "圣诞早上的煎饼比传闻还糟：Griffin在社区中心烤盘上掌勺，结构工程学没帮他对付面糊——Nora那张中间是生的。他毫无怨言地吃下自己那份，还趁Colette吹嘘节庆数字全然应验时悄悄换盘：“我重新配置了早餐。”“你偷了我的煎饼。”“我优化了你的风险画像。”Pearl则提醒他不必再证明什么——“我们已经放你留下了”。",
+   "start": 90,
+   "end": 206,
+   "agent_start": 90,
+   "offset_verified": true
+  },
+  {
+   "anchor": "A brass key slid into my palm.",
+   "fact": "十点散场后Griffin牵着Nora的手说“上楼来”：两人走过四门到Donnelly Hardware、沿侧梯进他的工作室；随他搬过九个镇子的“冬日箱子”敞在制图桌旁，他母亲的帽子搁在下面一层架上，而Nora做的主街挂饰以红丝带悬在前窗、彩绘店面正对着街对面真实的店面——“你留着它。”“是你留下的。”“我给过你。”“你也说过欢迎。”随后他递上素色信封，一枚黄铜钥匙滑进Nora掌心。",
+   "start": 2569,
+   "end": 2599,
+   "agent_start": 2569,
+   "offset_verified": true
+  },
+  {
+   "anchor": "I sold my apartment and signed a twelve-month lease over a hardware store. Reckless decisions are becoming a pattern.",
+   "fact": "钥匙开的是“我的门”：Griffin说这不是“搬来同住钥匙”——不带箱子、牙刷或地址变更，而是“进门钥匙”：他不索要她不想给的夜晚，只想让她无须等许可就能推开他的门；Nora把钥匙挂上钥匙圈、与自家公寓钥匙并排，笑称“危险地接近浪漫”。Griffin自嘲已卖掉公寓、在五金店楼上签下十二个月租约——“鲁莽决定正在成为习惯”。Nora又掏出带发丝裂纹的玻璃橡果挂到主街挂饰旁；他说“明年买棵树”，被问是否计划得那么远时答“更远”。",
+   "start": 3050,
+   "end": 3167,
+   "agent_start": 3050,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Six days later, on New Year’s Eve, I spent the afternoon making Griffin’s plain studio ready for a party.",
+   "fact": "六天后的跨年夜，Nora把Griffin简朴的工作室布置成会场：斜顶拉满仙女灯、处处点蜡烛。Pearl带来三箱香槟，Frank贡献了他一直不敢让Nora尝的地窖家酿；八点第一批客人上门——Pearl又添糕点，Ivy带酒和随身的笔记本：“你把它做成了家。”Nora答“我做成了家，Griffin只提供了面积”，Ivy再补一句：“他提供的是留下的决定——面积一直都在。”",
+   "start": 4436,
+   "end": 4541,
+   "agent_start": 4436,
+   "offset_verified": true
+  },
+  {
+   "anchor": "Four days earlier, the council had voted five to nothing to keep the repairs moving.",
+   "fact": "四天前，议会以五票对零票表决让维修继续推进：Dana Whitlock找出了该修的项目、却没有发现临近的倒塌之虞；Griffin的施工队13日已开始获准的工程，Meridian由此失去购下整个街区的权利；波特兰公寓的售出款在23日还清了过桥贷款，Meridian撤回申报并解除留置权；Harris带了派来道贺——“胜利一进议事日程就变得无聊了”。",
+   "start": 7548,
+   "end": 7632,
+   "agent_start": 7548,
+   "offset_verified": true
+  },
+  {
+   "anchor": "The council voted to open bids for a three-year contract to manage the Main Street repairs.",
+   "fact": "Owen带着主街顾问委员会凑份子买的香槟上门“为留下干杯”，并转交镇方火漆信封：议会已表决就主街维修的三年管理合同公开招标——费用固定、预算封顶、每一地块都在内；他们要Cole Development以项目经理身份提交提案：三年期、由补助金与镇预算出资、其业主身份须在每份文件中披露、没有许可审批权、凡涉及其名下地块的范围与发票都由Dana Whitlock审批。Frank在门口补了句“这约是他账单的三分之一”，Griffin纠正“约五分之一——波特兰公寓已卖，这份薪水可行”，并当场拍板“答案是行”。Owen还转述Frank的话：Griffin在12月9日签下十二个月租约，是“全县那一周最不设防的财务决定”。",
+   "start": 8219,
+   "end": 8310,
+   "agent_start": 8219,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“Forty years,” she said, “and this was the first year we sold out every run.”",
+   "fact": "Morrison太太在俯瞰主街的窗边拉住Griffin：“四十年，今年头一回每趟都满员。”她不许他把功劳记在票务系统上，并透露厨房抽屉里有一张能带Chester应付人群的名单——一共四个名字，周二她把Griffin的名字写在了最前面；说完支使他去取Frank的“难喝苹果酒”。",
+   "start": 9809,
+   "end": 9886,
+   "agent_start": 9809,
+   "offset_verified": true
+  },
+  {
+   "anchor": "“I love you,” Griffin said.",
+   "fact": "阳台俯瞰主街，Nora回望十二月初：店铺告危、节庆停办、Griffin还在旧金山，而她忙着“证明自己看对了你”；如今她多年来拒之门外的人都挤在他楼上的客厅里吃Pearl的糕点。Griffin说真正改变的是她——“你让我停下来，看清自己错过了什么”；他再次说“我爱你”，自称“在建立模式”。",
+   "start": 13942,
+   "end": 13969,
+   "agent_start": 13942,
+   "offset_verified": true
+  },
+  {
+   "anchor": "and I kissed him back with eight years of interest.",
+   "fact": "她说想“和你一起建危机之后的这一年——翻修、店铺、所有无人需要拯救的星期二”，他答“我加入”。屋内众人从十倒数跨年，烟花在水塔外炸开；Griffin把Nora吻进新年，她以“八年利息”回吻。Pearl破门分香槟把两人拽回屋内，Owen举杯“敬Holly Creek，敬在艰难时依旧留下的人”，Frank应声“敬家”；Colette当众预言：明年圣诞节前必有戒指——她在此地做媒三十年、从不错判十二月，Pearl拆台“你经常错判十二月”，满屋笑着滚向凌晨一点，Griffin把那杯更好的香槟递给了Nora。",
+   "start": 15282,
+   "end": 15333,
+   "agent_start": 15282,
+   "offset_verified": true
+  }
+ ]
+}
