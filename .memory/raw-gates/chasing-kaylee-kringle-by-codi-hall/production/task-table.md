@@ -32,35 +32,47 @@
 | ch19 | Rick | 1888 | rc=0 | 批次2（收口） |
 | ch20 | Kaylee | 1449 | rc=0 | 批次2（收口） |
 | ch21 | Kaylee | 2459 | rc=0 | 批次2（收口） |
-| ch22 | Rick | 1457 | | |
-| ch23 | Kaylee | 1532 | | |
-| ch24 | Rick | 1396 | | |
-| ch25 | Kaylee | 1346 | | |
-| ch26 | Rick | 1149 | | |
-| ch27 | Ansel | 822 | | |
-| ch28 | Kaylee | 2254 | | |
-| ch29 | Rick | 2269 | | |
-| ch30 | Rick | 1735 | | |
-| ch31 | Kaylee | 2467 | | |
-| ch32 | Rick | 1266 | | |
-| ch33 | Kaylee | 1506 | | |
-| ch34 | Rick | 1007 | | |
-| ch35 | Kaylee | 1783 | | |
-| ch36 | Kaylee | 820 | | |
-| ch37 | Rick | 1470 | | |
-| ch38 | Ansel | 422 | | |
-| ch39 | Rick | 1166 | | |
-| ch40 | Kaylee | 2133 | | |
-| ch41 | Rick | 2664 | | |
-| ch42 | Kaylee | 1060 | | |
-| ch43 | Kaylee | 4200 | | |
-| ch44 | Rick | 911 | | |
-| ch45 | Ansel | 408 | | |
-| ch46 | Rick | 1187 | | |
-| ch47 | Kaylee | 1317 | | |
-| ch48 | Ansel | 874 | | |
-| ch49 | Rick | 1696 | | |
-| ch50 | Rick | 1203 | | |
-| ch51 | Kaylee | 1531 | | |
-| ch52 | Kaylee | 1676 | | |
-| ch53 | Kaylee | 749 | | |
+| ch22 | Rick | 1457 | rc=0 | 见 git log |
+| ch23 | Kaylee | 1532 | rc=0 | 见 git log |
+| ch24 | Rick | 1396 | rc=0 | 见 git log |
+| ch25 | Kaylee | 1346 | rc=0 | 见 git log |
+| ch26 | Rick | 1149 | rc=0 | 见 git log |
+| ch27 | Ansel | 822 | rc=0 | 见 git log |
+| ch28 | Kaylee | 2254 | rc=0 | 见 git log |
+| ch29 | Rick | 2269 | rc=0 | 见 git log |
+| ch30 | Rick | 1735 | rc=0 | 见 git log |
+| ch31 | Kaylee | 2467 | rc=0 | 见 git log |
+| ch32 | Rick | 1266 | rc=0 | 见 git log |
+| ch33 | Kaylee | 1506 | rc=0 | 见 git log |
+| ch34 | Rick | 1007 | rc=0 | 见 git log |
+| ch35 | Kaylee | 1783 | rc=0 | 见 git log |
+| ch36 | Kaylee | 820 | rc=0 | 见 git log |
+| ch37 | Rick | 1470 | rc=0 | 见 git log |
+| ch38 | Ansel | 422 | rc=0 | 见 git log |
+| ch39 | Rick | 1166 | rc=0 | 见 git log |
+| ch40 | Kaylee | 2133 | rc=0 | 见 git log |
+| ch41 | Rick | 2664 | rc=0 | 见 git log |
+| ch42 | Kaylee | 1060 | rc=0 | 见 git log |
+| ch43 | Kaylee | 4200 | rc=0 | 见 git log |
+| ch44 | Rick | 911 | rc=0 | 见 git log |
+| ch45 | Ansel | 408 | rc=0 | 见 git log |
+| ch46 | Rick | 1187 | rc=0 | 见 git log |
+| ch47 | Kaylee | 1317 | rc=0 | 见 git log |
+| ch48 | Ansel | 874 | rc=0 | 见 git log |
+| ch49 | Rick | 1696 | rc=0 | 见 git log |
+| ch50 | Rick | 1203 | rc=0 | 见 git log |
+| ch51 | Kaylee | 1531 | rc=0 | 见 git log |
+| ch52 | Kaylee | 1676 | rc=0 | 见 git log |
+| ch53 | Kaylee | 749 | rc=0 | 见 git log |
+
+## 完工记录（2026-11-06，主会话零子代理）
+
+- **正文**：ch00–ch53 共 54 章全部 rc=0；`bash scripts/gate.sh` **EXIT=0（0 阻断）**
+- **总览三篇**：`00_概述.md`（10 引语）/ `00_金句精选.md`（25 条块引用）/ `00_情感节点.md`（10 节点 17 引语）
+  - `overview.py quotes` 39/39 ✅（金句短句 7 条按工具 <20 字母口径跳过，已另用 Counter+子串严格核 25/25）
+  - `overview.py labels` 59/59 逐字 ✅ · `full` 0 拼接 / 0 查无 / 0 错配
+- **T1 自检**：抽 12/54 章（ch00/05/10/15/20/25/30/35/40/45/50/53，首末必含、等距），总览三篇全篇人判，
+  `assertion_scan.py` 539 行全量扫；**阻断 0**。三件套：`review/t1-verdict.md` / `review/t1-candidates.txt` / 台账一行（审查方=自检）
+- **语料侧**：verify_corpus PASS（54 件零偏移）；写作期清除 z-lib 广告行 19 行（11 章正文中混入 + 尾声 rating 行）；
+  原书误植照录：ch39 章头全大写 `RICK`、ch50 首句 `Ahalf dozen` 缺空格
+- **未做**：T3 全量深审（不自行启动）；push（等用户指令）
