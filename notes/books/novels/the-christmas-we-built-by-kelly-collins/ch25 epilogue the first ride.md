@@ -20,28 +20,35 @@ modified: "2026-11-06"
 **为什么这样写**：让最先失去的人递出最重的一句祝福——亡妻的品味成为接纳的标准；"脱外套之前就注意到"用时间差写老人的视力，其实写的是这座镇终于配得上一场谁都看得见的爱情。
 **读者视角提示**：读者拿到全书的情感尺规：这段感情最终由镇上最沉默的守望者盖了章。
 
-> **原句 2:** "You told me in our first planning meeting that people propose at the tree lighting. I wrote it down under irrational factors. It took me a year to work out that I’d put everything I wanted in the wrong column."
+> **原句 2:** "You told me in our first planning meeting that people propose at the tree lighting. I wrote it down under irrational factors."
 
-**中文理解**："第一次规划会上你告诉我，人们会在点灯仪式求婚。我把这句话记在了'非理性因素'名下。花了一年我才想明白——我把自己想要的一切，记错了栏。"
-**关键词**：first planning meeting、irrational factors、the wrong column
-**为什么这样写**：求婚词用的是他自己的表格语法——把一年前的分类错误当庭改判，等于承认爱情从头就该列在主栏；"wrong column"回收全书所有被错置的价值（可续期的摊位、装不下悲伤的表格），一次清账。
-**读者视角提示**：读者听到工程师的终极情话：他求婚的方式是宣布自己此前的会计准则作废。
+**中文理解**："第一次规划会上你告诉我，人们会在点灯仪式求婚。我把这句话记在了'非理性因素'名下。"
+**关键词**：first planning meeting、propose at the tree lighting、irrational factors
+**为什么这样写**：求婚词用的是他自己的表格语法——先把她的当年台词当庭引用，再交出那份分类错误的原始记录；"irrational factors"是全书被误置价值的总账页，此刻翻到自我检举的一页。
+**读者视角提示**：读者看到第 3 章"该记在哪一栏"的最终回声：这一次，是他主动要求重判。
 
-> **原句 3:** "You were the first person who made me want to unpack. I want every Christmas and all the ordinary days between them. Marry me."
+> **原句 3:** "It took me a year to work out that I’d put everything I wanted in the wrong column."
+
+**中文理解**："花了我一年时间，才算明白我把自己想要的一切放进了错误的栏位。"
+**关键词**：a year、work out、the wrong column
+**为什么这样写**：他把求婚写成一次年度审计的更正分录——认错的对象不是她而是自己的记账法；"everything I wanted"与"wrong column"对撞，等于承认爱情从来不该走"待摊费用"那一栏。
+**读者视角提示**：读者看到全书方法论的最后合流：连心动都最终服从了他的表格——只不过这一次，表格按她的方式重排了。
+
+> **原句 4:** "You were the first person who made me want to unpack. I want every Christmas and all the ordinary days between them. Marry me."
 
 **中文理解**："你是第一个让我想把行李拆箱的人。我想要每一个圣诞，和它们之间所有平凡的日子。嫁给我。"
 **关键词**：want to unpack、every Christmas、the ordinary days
-**为什么这样写**：把" unpack"从第 12 章那只在车里漂了九个镇、跨了两章才进门的箱子提炼成动词——他的归属史被压缩成一次开箱；"圣诞节之间"的每一天比节日本身值钱，这是全书价值观的最后定价。
+**为什么这样写**：把"unpack"从第 12 章那只在车里漂了九个镇、跨了两章才进门的箱子提炼成动词——他的归属史被压缩成一次开箱；"圣诞节之间"的每一天比节日本身值钱，这是全书价值观的最后定价。
 **读者视角提示**：读者等到全书的终极条款：这份婚姻的报价单上没有条件，只有日历。
 
-> **原句 4:** "The tree blazed to life above us, gold and red and green, and the town’s cheer rose with it, and I was already nodding before I found the word. “Yes.” And then, because his whole face lit up, “Yes, obviously, yes.”"
+> **原句 5:** "The tree blazed to life above us, gold and red and green, and the town’s cheer rose with it, and I was already nodding before I found the word. “Yes.” And then, because his whole face lit up, “Yes, obviously, yes.”"
 
 **中文理解**：头顶的树轰然亮起，金、红、绿三色，全镇的欢呼随之升起——她还没找到那个词就已经在点头了。"我愿意。"然后，因为他的整张脸都亮了起来，"我愿意，这还用说，我愿意。"
 **关键词**：the tree blazed、before I found the word、Yes, obviously, yes
 **为什么这样写**：让灯比语言先到——她的身体又一次抢在措辞前面（与第 9 章"跨过十八英寸"同一套神经系统）；三连 yes 的递进把小镇式的坦白演完：第一句是答案，第二句是诚意，第三句是幸福本身。
 **读者视角提示**：读者看到全书的计时器终于同步：点灯、求婚、答应共用同一秒——这座镇把庆典和终身大事合并办理。
 
-> **原句 5:** "We were home for all of them."
+> **原句 6:** "We were home for all of them."
 
 **中文理解**：每一个圣诞，我们都到家了。
 **关键词**：home、all of them

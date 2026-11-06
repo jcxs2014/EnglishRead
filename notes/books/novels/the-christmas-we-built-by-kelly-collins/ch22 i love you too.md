@@ -64,7 +64,7 @@ modified: "2026-11-06"
 ### ⭐ 常用
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| pharmacy | 药房 | I ran the pharmacy register for nine years before it closed. |
+| nutcracker | 胡桃夹子（玩偶） | A woman from out of county stood holding a nutcracker in each hand, asking which. |
 | grin | 露齿笑 | Pearl stood a short distance away, failing to hide a grin. |
 
 ## 一句话总结
