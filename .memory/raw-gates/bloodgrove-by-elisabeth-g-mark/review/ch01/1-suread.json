@@ -1,0 +1,55 @@
+{
+ "book": "bloodgrove-by-elisabeth-g-mark",
+ "chapter": "ch01",
+ "text": "notes/books/novels/bloodgrove-by-elisabeth-g-mark/text/ch01_chapter_1.txt",
+ "facts": [
+  {
+   "fact": "Will licked the bloodstain on the ticket last night and tasted only paper",
+   "anchor": "he had lifted the card to his mouth, cautiously put out his tongue, and licked the stain",
+   "start": 161,
+   "end": 249
+  },
+  {
+   "fact": "Will accepted the interior-designer commission of his own accord, not under arrest",
+   "anchor": "Of his own accord, he had accepted the commission as an interior designer",
+   "start": 923,
+   "end": 996
+  },
+  {
+   "fact": "The Bloodgrove train runs only once a month from the Capitol",
+   "anchor": "The train ran only once a month between the Capitol and the secluded city-state of Bloodgrove",
+   "start": 2722,
+   "end": 2815
+  },
+  {
+   "fact": "The luggage boy is fourteen and refuses to board for fear of the curse",
+   "anchor": "He was still rather small for fourteen",
+   "start": 1623,
+   "end": 1661
+  },
+  {
+   "fact": "Will promises to return in four months and prove there are no monsters or curses",
+   "anchor": "When I return in four months",
+   "start": 6253,
+   "end": 6281
+  },
+  {
+   "fact": "The conductor calls him Mr. Frank; his stiff movements and empty eyes unsettle Will",
+   "anchor": "Your compartment, Mr. Frank",
+   "start": 4684,
+   "end": 4711
+  },
+  {
+   "fact": "Will is twenty-six; his lover betrayed him before the queen's cousin; guards' rifles were trained on him; he fled the city",
+   "anchor": "only twenty-six",
+   "start": 10526,
+   "end": 10541
+  },
+  {
+   "fact": "He has lost a little toe; magic was outlawed more than a century ago; the letter is signed Duchess Elodie Ormonde",
+   "anchor": "Where he had once had a little toe",
+   "start": 10947,
+   "end": 10981
+  }
+ ]
+}
