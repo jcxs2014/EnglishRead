@@ -38,7 +38,7 @@ modified: "2026-11-06"
 
 **中文理解**："你让我错了就说出来、别把你关在门外。我照做了——同时我也仍在把你关在门外。这是我在大声地失败。"
 **关键词**：tell you、still shutting you out、failing out loud
-**为什么这样写**：她当场承认自己违反自己刚立的规则——把"双重失败"说破，反而比掩饰更接近诚实；"failing out loud"把quiet关门的老习惯第一次调成了有声模式，成长的证据是不完美本身。
+**为什么这样写**：她当场承认自己违反自己刚立的规则——把"双重失败"说破，反而比掩饰更接近诚实；"failing out loud"把悄悄关门的老习惯第一次调成了有声模式，成长的证据是不完美本身。
 **读者视角提示**：读者听到的是一段关系的自我诊断书：两人都还在旧习惯里，但已经肯当着对方的面犯错。
 
 > **原句 5:** "Hand-drawn festival plans filled the spread, penciled and re-penciled. Lantern arches curved over Main Street with the wiring worked out in the margins. The sleigh route looped the square, every turn flagged with a tiny horse head."

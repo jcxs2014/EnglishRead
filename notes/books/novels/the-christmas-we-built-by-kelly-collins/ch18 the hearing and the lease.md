@@ -24,7 +24,7 @@ modified: "2026-11-06"
 
 **中文理解**："位移是真的。危险是真的。他正用这两样东西，制造他的合同所需要的那场违约。"
 **关键词**：real、real、the failure his contract requires
-**为什么这样写**：三个短句层层加码——承认 twice 再反转一次，把"危机"与"骗局"焊在同一句话里；"his contract requires"五个词揭穿反派逻辑的引擎：他不是盼着楼塌，是合同需要它塌。
+**为什么这样写**：三个短句层层加码——承认两次再反转一次，把"危机"与"骗局"焊在同一句话里；"his contract requires"五个词揭穿反派逻辑的引擎：他不是盼着楼塌，是合同需要它塌。
 **读者视角提示**：读者拿到理解全书的钥匙：坏事的源头可以是条款，不必是恶意——这套思维后面还要救一次镇。
 
 > **原句 3:** "But I can put an insured crew on the emergency shoring tonight under the permits you already approved. That keeps the block safe while the owners arrange an independent review and the rest of the funding. If you stop the permits, the repairs stop. Crane’s January fifteenth deadline does not."

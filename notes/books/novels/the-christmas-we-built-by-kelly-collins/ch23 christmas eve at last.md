@@ -45,14 +45,14 @@ modified: "2026-11-06"
 
 **中文理解**：诺拉关上门，趁他的眼睛还没适应黑暗，两手一把抓住他的大衣。"总算逮到你了。"她说。
 **关键词**：shut the door、grabbed my coat、finally found you
-**为什么这样写**：让她用"逮"字给自己的主动盖章——一整个上午看他 solving problems，她选择在暗处截停；"before my eyes adjusted"把情欲写成一场视觉特权：她比他的感官先到。
+**为什么这样写**：让她用"逮"字给自己的主动盖章——一整个上午看他替人解题，她选择在暗处截停；"before my eyes adjusted"把情欲写成一场视觉特权：她比他的感官先到。
 **读者视角提示**：读者看到全书的攻守易位完成闭环——从第 1 章她带着挂饰"宣战"，到此刻她在暗处"收网"，握手的始终是同一双手。
 
 > **原句 6:** "He told me a town isn't buildings. It's the people who keep showing up to the same place on purpose." His gaze swept the crowd and snagged, briefly, on me. "Keep showing up."
 
 **中文理解**："他告诉我，镇不是楼。镇是那些故意一次次出现在同一个地方的人。"他的目光扫过人群，在我身上停了一瞬。"继续出现。"
 **关键词**：a town isn’t buildings、showing up、snagged, briefly, on me
-**为什么这样写**：铁钟的赠言把全书主题压成一句可以传家的定义——"on purpose"三个词区分了居住与归属；目光"停了一瞬"的 snagged 让训话变成点名，弗兰克完成了从法官到证人的最后一步。
+**为什么这样写**：铁钟的赠言把全书主题压成一句可以传家的定义——"on purpose"三个词区分了居住与归属；目光"停了一瞬"的勾住让训话变成点名，弗兰克完成了从法官到证人的最后一步。
 **读者视角提示**：读者听到书名的第三个读音：we built 的宾语从来不是楼，是"出现"这个动作本身。
 
 > **原句 7:** "I'd come to town with a spreadsheet that priced buildings by square foot. No column covered a street turning off every light so one tree could shine, or Nora singing beside me with snow in her hair. The numbers had never been the whole story."

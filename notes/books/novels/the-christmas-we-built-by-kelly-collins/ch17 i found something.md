@@ -32,7 +32,7 @@ modified: "2026-11-06"
 **中文理解**："也就是说，议会本身就是三位所有人之一。"她把那页纸抚平。"契约写明：未经其他所有人书面许可，任何人不得移除或改动街区的承重部分；八宗地块还须共同分摊结构维修的费用。"
 **关键词**：one of the three owners、written permission、share the cost
 **为什么这样写**：她把法律条文当场译成政治格局——克雷恩的杀手锏（议会）撞上先辈的锁（书面同意）；"share the cost"把这条街从产权问题改写成合伙问题，与书名完成互文。
-**读者视角提示**：读者看清胜负手：三主同桌不是威胁，是 invitations——先辈早就替他们把"合作"写成了义务。
+**读者视角提示**：读者看清胜负手：三主同桌不是威胁，是请柬——先辈早就替他们把"合作"写成了义务。
 
 > **原句 4:** "I did. I spent all ten deciding for both of us. Then I handed you the answer, called it help, and tried to fix the rest with money."
 

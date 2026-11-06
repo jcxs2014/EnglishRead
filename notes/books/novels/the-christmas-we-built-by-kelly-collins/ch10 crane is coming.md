@@ -10,7 +10,7 @@ modified: "2026-11-06"
 - **情感弧线位置**：谷仓之吻的糖分被悬念稀释——她第一次发现"闭口"是自己的惯性武器，深夜排练六遍"先走"的老把戏。
 - **Tropes 兑现/反转**：兑现"男方的旧债来敲门"；反转"消息的走法"——坏消息不是他没说，是从第三张嘴里说出来的。
 - **人物弧线**：诺拉的防御机制显形（"自己先关门"）；珍珠从闺蜜升级为威胁执行人；Meridian 的吃虾模式（本地合伙人→独吞）浮出水面。
-- **叙事手法**：三美元男孩的 micro-fiction 垫住节奏；电话戏用"礼貌措辞=威胁"的反差推进；章末"逐字删掉"把犹豫写成慢镜头。
+- **叙事手法**：三美元男孩的微型场景垫住节奏；电话戏用"礼貌措辞=威胁"的反差推进；章末"逐字删掉"把犹豫写成慢镜头。
 
 ## 精读
 > **原句 1:** "I watched you build yourself back from nothing," Pearl said after I wiped it up. "I watched you start laughing again. And I will gut Griffin Cole like a fish if he gives you one more reason to wonder whether you get to keep what you've got."
@@ -45,7 +45,7 @@ modified: "2026-11-06"
 
 **中文理解**：这是个老把戏：只要我自己先关门，就没人能关我的门——这个把戏，她管它叫智慧叫了八年。
 **关键词**：old trick、closed the door myself、eight years
-**为什么这样写**：章末自我审计一句话戳破防御机制的本质——先发制人的离开不是强大是恐惧的预演；"called that wisdom"的过去时留下开门的余地，让下一章的摊牌有了 psychologically 的入口。
+**为什么这样写**：章末自我审计一句话戳破防御机制的本质——先发制人的离开不是强大是恐惧的预演；"called that wisdom"的过去时留下开门的余地，让下一章的摊牌有了心理上的入口。
 **读者视角提示**：读者看着她给自己的八年直觉改了名——从"智慧"到"把戏"，改名本身就是成长的证词。
 
 ## 本章词汇

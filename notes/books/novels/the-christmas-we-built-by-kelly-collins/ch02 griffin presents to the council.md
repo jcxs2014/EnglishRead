@@ -24,7 +24,7 @@ modified: "2026-11-06"
 
 **中文理解**：诺拉·温特斯坐在他们中间，赤褐色的头发挽成一个已经在松脱的髻；就算她带了干草叉，也是放在椅子底下。
 **关键词**：auburn hair、pitchfork、escaping
-**为什么这样写**：男主看女主的第一眼落在"松脱的发髻"上——失控的细节先于容貌，暗写他已经在注意她不设防的样子；pitchfork 一句把"农民起义军围剿资本家"的画面用玩笑给出，敌意被喜剧化了。
+**为什么这样写**：男主看女主的第一眼落在"松脱的发髻"上——失控的细节先于容貌，暗写他已经在注意她不设防的样子；干草叉一句把"农民起义军围剿资本家"的画面用玩笑给出，敌意被喜剧化了。
 **读者视角提示**：读者从这句确认两点：他看她看得很细；她来者不善——而作者用一句玩笑让这两件事同时变得好笑。
 
 > **原句 3:** "The transom over your door is original. Nineteen-oh-two, wavy glass, and somebody reglazed the bottom rail with the wrong putty about forty years ago and it’s held anyway. It’s the best piece of joinery on this street."
