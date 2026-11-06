@@ -101,7 +101,7 @@ modified: "2026-11-06"
 
 **为什么这样写**：三个短句一句比一句短——「Don't die」是请求，「I love you」是告白，「Stay with me」是命令；她在同一秒里把三种语式用完，这是本章的语言峰顶。
 
-**读者视角提示**：对照 ch28 Elasia 的「I love you, Kay. Always have」——同一句话从死者交给生者，如今由她交给另一个人；这是本书情感线的完整接力。
+**读者视角提示**：对照 ch06 Elasia 的「I love you, Kay. Always have」——同一句话从死者交给生者，如今由她交给另一个人；这是本书情感线的完整接力。
 
 > **原句 10:** "“This is the least romantic way to tell someone that you love them. You only say it when you think they are dying? Such a cop-out.”"
 

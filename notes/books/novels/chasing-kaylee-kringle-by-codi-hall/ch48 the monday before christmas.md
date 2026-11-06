@@ -21,7 +21,7 @@ modified: "2026-11-06"
 
 **为什么这样写**：数字与动词都写得极硬——「raze to the ground」是军事语言；这个规模也顺手告诉读者：这座镇的胜利必须靠计谋，不可能靠武力。
 
-**读者视角提示**：对照 ch46 Rick 说的「thirty-plus psychos」——两边的数字此刻对齐；本书在这种细节上从不让读者困惑。
+**读者视角提示**：对照 ch46 Rick 说的「thirty psychos」——两边的数字此刻对齐；本书在这种细节上从不让读者困惑。
 
 > **原句 2:** "And yet one woman continued to defy him."
 
@@ -51,7 +51,7 @@ modified: "2026-11-06"
 
 **为什么这样写**：一句话炸出全部前史——那个读圣诞诗的母亲、杀她的父亲（也就是 ch38 的 Folsom 终身犯）；「until he was twelve」把节日与死亡钉在同一天。
 
-**读者视角提示**：这解释了 ch13 Rick 的「no real Christmas」与本章 Ansel 的「母亲死在那天」——两个男人都被圣诞节伤过，一个学会了守着空位，一个学会了占有人。
+**读者视角提示**：这解释了 ch13 Rick 的「hadn’t had a real Christmas」与本章 Ansel 的「母亲死在那天」——两个男人都被圣诞节伤过，一个学会了守着空位，一个学会了占有人。
 
 > **原句 5:** "Maybe his teacher had been onto something because he spent so much time wanting to keep Kaylee alive, it hadn’t even occurred to him what a danger she could be."
 

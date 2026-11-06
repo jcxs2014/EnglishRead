@@ -71,7 +71,7 @@ modified: "2026-11-06"
 
 **为什么这样写**：本章收在一句自供状上——「supposed to be」是他对职责的最后一句辩护词；「fun in years」从 abuela 死后起算，把本次任务与他的圣诞荒原并排放在同一张时间轴上。
 
-**读者视角提示**：对照 ch13 的「haven't had a real Christmas since he was a teenager」——fun 的计量单位是年，说明 Holiday 正在还他整个青春期的节日；下一章反派出场，fun 即将付费。
+**读者视角提示**：对照 ch13 的「hadn’t had a real Christmas since he was a teenager」——fun 的计量单位是年，说明 Holiday 正在还他整个青春期的节日；下一章反派出场，fun 即将付费。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级
