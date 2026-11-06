@@ -1,0 +1,67 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch31",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch31_31_the_traitor_and_the_spy.txt",
+ "facts": [
+  {
+   "fact": "阿拉浑身滴水冲上桥楼，当众命令德泽维斯立刻完成她的整合：不再测试，不再游戏。",
+   "anchor": "Integrate me",
+   "start": 508,
+   "end": 520
+  },
+  {
+   "fact": "她说自己受够了与德雷克被一再安排同处，愿意结束这一切，成为船员——德泽维斯想要的转化，他已经得到了。",
+   "anchor": "converted me",
+   "start": 2276,
+   "end": 2288
+  },
+  {
+   "fact": "在舰长舱室里，阿拉看见一只与科斯默那只一模一样的银色酒壶；德泽维斯起初否认，试图把它推到卷轴后面。",
+   "anchor": "Is that Cosmer’s",
+   "start": 3566,
+   "end": 3582
+  },
+  {
+   "fact": "阿拉翻过酒壶，看见底座刻字“别再弄丢这个。——D”，随即意识到德泽维斯与科斯默、与维克米的房子之间的联系。",
+   "anchor": "Don’t lose this one. –D",
+   "start": 6506,
+   "end": 6529
+  },
+  {
+   "fact": "德泽维斯承认科斯默是他的儿子，但科斯默并不知道；他称当年把自己的房子交给女王作阿拉的安全屋，本意是让科斯默照看她。",
+   "anchor": "My son",
+   "start": 7035,
+   "end": 7041
+  },
+  {
+   "fact": "德泽维斯拿出氧气/奥西米戴特面罩与左轮手枪，称面罩是“自救的象征”，枪是“凌驾于他人之上的权力”的象征。",
+   "anchor": "The symbol of self-saviour",
+   "start": 4251,
+   "end": 4277
+  },
+  {
+   "fact": "阿拉判断面罩代表拉夫纳，枪代表赫瓦拉；真正的问题是：德泽维斯认为她是拉夫纳的叛徒，还是赫瓦拉的间谍。",
+   "anchor": "The mask represents Rhavna",
+   "start": 4815,
+   "end": 4841
+  },
+  {
+   "fact": "她意识到许多拉夫纳人都曾面对这张“选择之牌”：明知女王统治并不比赫瓦拉更好，仍要在拉夫纳与赫瓦拉之间做出生死抉择。",
+   "anchor": "The Card of the Choice",
+   "start": 8667,
+   "end": 8689
+  },
+  {
+   "fact": "阿拉拒绝再选那个能让她活下去的面罩；她选择后果，选择自己的国家，也选择科斯默，而不是赫瓦拉。",
+   "anchor": "choose Cosmer, and not Hevalla",
+   "start": 9581,
+   "end": 9611
+  },
+  {
+   "fact": "她握稳手枪，对准德泽维斯的胸口开火。",
+   "anchor": "And I fire it",
+   "start": 9968,
+   "end": 9981
+  }
+ ]
+}
