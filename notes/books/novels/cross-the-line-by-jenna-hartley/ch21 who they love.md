@@ -31,7 +31,7 @@ modified: "2026-11-07"
 > **原句 3:** "She sounded light and happy. And, if I wasn't mistaken, a little tipsy."
 
 **中文理解**：她的声音听起来轻快又开心——如果她没听错的话，还有点微醺。
-**关键词**：light and happy、not mistaken、tipsy
+**关键词**：light and happy、mistaken、tipsy
 **为什么这样写**：用声音的三层判断（轻快/开心/微醺）写"不对劲"——表面上每个词都是好词，声调里却有裂口。
 **读者视角提示**：Georgia 的"过分明亮"从 ch04 的 Thanksgiving 就开始了，本章只是音量调高。
 
@@ -80,7 +80,7 @@ modified: "2026-11-07"
 > **原句 10:** "It wasn't one thing. It was lots of little things, and it happened gradually over time.""
 
 **中文理解**："不是某一件事。是很多很多小事，是随着时间慢慢发生的。"
-**关键词**：not one thing、little things、gradually
+**关键词**：one thing、little things、gradually
 **为什么这样写**：婚姻的死亡被写成缓慢的物理过程——没有罪人，只有磨损；这个答案正是她最怕听到的那种。
 **读者视角提示**：注意这句话与她和 Carson 的关系形成的反讽——他们之间"很多小事"正在往相反的方向积累。
 
@@ -127,7 +127,7 @@ modified: "2026-11-07"
 | squeaky-clean | 一尘不染的（名声） | The man known for his squeaky-clean reputation was suddenly married to Cece Golden |
 | lavish | 奢华的、铺张的 | a starlet known for her lavish parties |
 | eloped | 私奔、不办婚礼就结婚 | Yet Cece had eloped, opting to get married in Vegas. |
-| possessiveness/possessive | 占有欲强的 | I was so possessive of you. |
+| possessive | 占有欲强的 | I was so possessive of you. |
 | ambassador | 代言人、大使 | I’m honored to be an ambassador for the league in this regard. |
 | atone | 赎罪、弥补 | Perhaps my work with the culture board is my attempt to atone for some of them. |
 

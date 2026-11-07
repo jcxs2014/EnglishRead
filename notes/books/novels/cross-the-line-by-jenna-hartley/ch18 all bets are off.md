@@ -147,7 +147,7 @@ modified: "2026-11-06"
 | hot tub | 热水按摩缸 | Gabe and Boone were already in the water, the jets obscuring their lower halves |
 | ice sculpture | 冰雕 | Cece’s eyes widened when she turned her attention to the ice sculpture. |
 | tease | 逗弄、撩 | She’d teased me at the club in front of my friends |
-| goggles | 护目镜（香槟浴用） | Bottles of champagne had been laid out, along with goggles. |
+| hot tub | 热水按摩缸 | Gabe and Boone were already in the water, the jets obscuring their lower halves |
 | acknowledgment | 承认、回应 | It was still full of passion, but it was gentle. An acknowledgment. |
 
 ## 一句话总结

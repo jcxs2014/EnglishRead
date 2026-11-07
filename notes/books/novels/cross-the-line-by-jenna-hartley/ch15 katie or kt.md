@@ -91,7 +91,7 @@ modified: "2026-11-06"
 **为什么这样写**：四个短语像四张照片钉上线索板——推理在最短句内完成，惊悚片的节奏装进化妆间。
 **读者视角提示**：读者早于她知道答案，这场虚惊因此变成"看他怎么解释"的预告片。
 
-> **原句 12**: "Georgia." I spun in the chair to face her. "He wasn't texting with Katie. He was texting with KT," I said, enunciating each letter. "I'm KT. That's Carson's nickname for me.""
+> **原句 12:** "Georgia." I spun in the chair to face her. "He wasn't texting with Katie. He was texting with KT," I said, enunciating each letter. "I'm KT. That's Carson's nickname for me.""
 
 **中文理解**："Georgia。"她转椅面对她，"他发的对象不是 Katie，是 KT。"她一个字母一个字母拼出来，"我就是 KT。那是 Carson 给我起的绰号。"
 **关键词**：enunciating each letter、I'm KT、nickname
