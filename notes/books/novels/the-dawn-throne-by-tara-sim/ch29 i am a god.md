@@ -19,7 +19,7 @@ modified: "2026-11-06"
 **中文理解**：「ost Krülins 家被吹捧为天才。事实上，是谋杀者。」他嗤笑着合上手枪。「多么值得继承的遗产。」发明家的自嘲，给全家的荣耀判了刑。
 **关键词**：murderers / legacy
 **为什么这样写**：让受害者后代清点武器谱系——「touted」与「in truth」一推一拉，天才神话当场破产；「legacy」一词把 Gun Problem 变成家训问题：他造的每根枪管都刻着父亲的姓。
-**读者视角提示**：对照第六章「key to unseating Phos lies in the very thing that seats him」——这家人建王座也造枪。神域的军火商，两头下注。
+**读者视角提示**：对照第二十六章「key to unseating Phos lies in the very thing that seats him」——这家人建王座也造枪。神域的军火商，两头下注。
 
 > **原句 2:** "“Let me prove that light can be more than a force of destruction,” Rian whispered. “Let me prove that it can be used for good.”"
 

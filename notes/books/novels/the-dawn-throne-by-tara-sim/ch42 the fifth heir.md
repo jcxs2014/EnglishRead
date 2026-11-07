@@ -16,10 +16,10 @@ modified: "2026-11-06"
 
 > **原句 1:** "When you outgrow them, or if they become too tattered to wear, you have no need of them anymore. You find something new.”
 
-**中文理解**：「当你长大了、穿不下了，或者衣服破到没法再穿——你就不需要它们了。你会找到新的。」母亲的蛇蜕课，七岁的 Nikolas 听懂了衣服，四十岁的他听懂了自己。全书最温柔的一句谶语。
+**中文理解**：「当你长大了、穿不下了，或者衣服破到没法再穿——你就不需要它们了。你会找到新的。」母亲的蛇蜕课，七岁的 Nikolas 听懂了衣服；此刻蜕到一半的他，才听懂了自己。全书最温柔的一句谶语。
 **关键词**：outgrow / tattered
 **为什么这样写**：把「变身」的伏笔藏进育儿课——tattered（破烂）一词预先描写了他此刻的身体；「find something new」的轻快与本章的惨烈对折，母爱的语法从不预告代价。
-**读者视角提示**：回看第六章「咳出羽毛」——那不是病变，是蜕皮的开始。妈妈什么都说过，只是没人来得及听完。
+**读者视角提示**：回看第一章「咳出羽毛」、第六章的羽芽——那不是病变，是蜕皮的开始。妈妈什么都说过，只是没人来得及听完。
 
 > **原句 2:** "Soon enough there would be no more skin to shed. Soon enough he'd be in two pieces: his destroyed flesh, and his exoskeleton."
 
@@ -40,7 +40,7 @@ modified: "2026-11-06"
 **中文理解**：「我能给你保护他的方法，Nikolas。但你得先到我面前来。」神的援助套餐，首付是尊严。它专挑他跪着的时刻开价。
 **关键词**：means / come
 **为什么这样写**：诱惑的条款全部合法——「保护弟弟」是他自己说出的愿望，神只是把它写进了合同；「first」一词把顺序变成陷阱。
-**读者视角提示**：对照第九章 Rian 的「Let me prove light can be good」——父子两代都在向神要「保护的方法」。方法从来是钩子。
+**读者视角提示**：对照第二十九章 Rian 的「Let me prove that light can be used for good」——父子两代都在向神要「保护的方法」。方法从来是钩子。
 
 > **原句 5:** "She lingered on his eyes, his taloned hands. Pieces of the demon that had always been stitched into his pattern."
 
@@ -54,14 +54,14 @@ modified: "2026-11-06"
 **中文理解**：「杀掉我没杀的那些。」五个词的战地任命。她第一次把屠杀权交给别人——交给他。
 **关键词**：kill / ones
 **为什么这样写**：命令以「分工」语法送达——the ones I don't 的省略句假设了默契；她的「want」让这条命令悬在情话与军令之间，两者都不否认。
-**读者视角提示**：对照第九章「Come find me, then」——她终于把「找到我之后的事」说出了口。他答应了。这比任何吻都重。
+**读者视角提示**：对照第二十三章「Come find me, then」——她终于把「找到我之后的事」说出了口。他答应了。这比任何吻都重。
 
 > **原句 7:** "You thought you could become godlike when Phos only ever meant for you to be his lapdog.” She leaned in closer. “Because your life never really meant much to him.”
 
 **中文理解**：「你以为自己能修成神格，可 Phos 打一开始只打算让你当他的哈巴狗。」她凑近一分。「因为你的命，在他那里从来就不值几个钱。」Taesia 的诛心三连，刀刀不见血。
 **关键词**：lapdog / life
 **为什么这样写**：用「宠物命名法」拆解野心——godlike 与 lapdog 的落差一句话读完；「never really meant much」的副词堆叠（really/never/much）让蔑视有了韵脚。
-**读者视角提示**：对照第五章「vessel 清零」清单——Faün 直到死前才读到自己在名单上的位置。她替神做了人事公示。
+**读者视角提示**：对照第二十三章「vessel 清零」清单——Faün 直到死前才读到自己在名单上的位置。她替神做了人事公示。
 
 > **原句 8:** "Reality rippled. Everything Julian knew about how the world worked seemed like nothing but a fanciful dream, a story to fascinate and entertain. He could parse the individual strands of quintessence all around him: in the ground, in the walls, in the very sky itself."
 

@@ -54,7 +54,7 @@ modified: "2026-11-06"
 **中文理解**：他的手滑到她的脉搏——那搏动遥远得像隔了几年。「是我。只有我，和只有你。」Julian 的定心咒只有两个主语。把「神」全部排除在句子外的语法，就是他的救援方案。
 **关键词**：pulse / years away
 **为什么这样写**：以「脉搏的距离」写附身的深度——years away 的夸张测出 Nyx 占据的深度；「just me and just you」的重复让两个「just」都成了排除法。
-**读者视角提示**：对照第五章「It's just me and it's just you」的原始版本（「I know you. I know you don't want to be alone」）——同一句话在本章完成了从告白到医嘱的转型。
+**读者视角提示**：「just me and just you」的排除法在本章完成了从告白到医嘱的转型。
 
 > **原句 7:** "It was larger, and somehow ancient—like he’d become a god himself."
 
@@ -75,7 +75,7 @@ modified: "2026-11-06"
 **中文理解**：「那就一起。」她耳语道。两个词，全队的进军令。Taesia 拒绝过所有人、拒绝过所有神——最后接受的是「一起」。
 **关键词**：Together
 **为什么这样写**：以「副词收尾」——then 一词把无数次的拒绝（独自、分开、别跟着我）全部作废；whispered 的音量与「同去弑神」的内容对折，温柔与决心共用一口气。
-**读者视角提示**：第一章她拒绝所有人、第九章「no one stood with me」、本章「Together」——她的弧线用一个单词闭环。神庙的门在下一章。
+**读者视角提示**：第一章她拒绝所有人、第三十九章「no one stood with me」、本章「Together」——她的弧线用一个单词闭环。神庙的门在下一章。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

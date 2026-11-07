@@ -61,7 +61,7 @@ modified: "2026-11-06"
 **中文理解**：Vakara 家的继承人抬手碰了碰剪得齐整的发梢——比 Julian 上次见时短得多，如今只到肩上。
 **关键词**：shorn / shoulders
 **为什么这样写**：作者不解释剪发（读者若读过前章自会想起辫中开花与藤蔓），只给「 blunt edge」这个触觉细节；shorn（剃去）比 cut 更狠一层——那不是造型，是截肢式的告别。
-**读者视角提示**：跨章伏笔的回收现场：上一章的剪刀落在了这一章的肩上。连续追更的读者会在此处心头一紧。
+**读者视角提示**：跨章伏笔的回收现场：第三章的剪刀落在了这一章的肩上。连续追更的读者会在此处心头一紧。
 
 > **原句 8:** "“I’m afraid I’m no closer to figuring that out. However, we know that when the gods are without their fulcrums, they’re significantly weaker. I think this will be key to defeating them.”"
 

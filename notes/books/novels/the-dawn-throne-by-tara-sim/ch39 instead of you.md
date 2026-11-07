@@ -26,14 +26,14 @@ modified: "2026-11-06"
 **中文理解**：「但 Phos 把自己的意识灌进了这些兽。强迫它们造出一道光墙，挡住推进的黑暗。」骨林的谜底只有两句：那些骨头里，住着神的残念。他从没打算让边境「自然形成」。
 **关键词**：consciousness / wall
 **为什么这样写**：生态写成人事——talpascor 从「怪兽」改判「神兵」，前文的水渠、本章的光墙同源；「forced」一词给受害者名单添了一整个物种。
-**读者视角提示**：Julian 的骨镯能与残骨共振——他此刻正站在一堆「装着神之碎片」的遗骸上。回忆第五章「fulcrum 双组份」理论。
+**读者视角提示**：Julian 的骨镯能与残骨共振——他此刻正站在一堆「装着神之碎片」的遗骸上。回忆第三十六章「fulcrum 双组份」理论。
 
 > **原句 3:** "I am everything they worried I was,” she whispered, dropping her arms and her smile. “Because I realized it was so much easier to prove them right than wrong."
 
 **中文理解**：「我成了他们一直担心我会成为的一切，」她耳语着，放下手臂，也放下笑。「因为我发现——证明他们是对的，远比证明他们错了容易。」反派的就职演说，第一句是自白，第二句是降书。
 **关键词**：worried / prove
 **为什么这样写**：把「黑化」拆成一道算术题——prove right 的省力路径，正是所有偏见的自证陷阱；drop her smile 的动作与台词同步：她连「笑」都上缴了。
-**读者视角提示**：对照第二章除名时的「Ever the liar」——她本章承认的唯一谎言，是对自己有利的那一种。
+**读者视角提示**：「Ever the liar」是她本章给自己的注脚——从第二章被除名至今，她只承认对自己有利的那一种谎。
 
 > **原句 4:** "“Did you see his son's face, Taesia?” Nikolas asked quietly. “Did you see that boy's face after you struck his father down?”"
 
@@ -81,7 +81,7 @@ modified: "2026-11-06"
 
 **中文理解**：「你看见了吗——世界是怎样被你的触碰塑造的？」Orsus 的教学中场哨。一句赞美，一枚钩子。神的教科书从不用祈使句。
 **关键词**：shaped / touch
-**为什么这样写**：以「塑造」替代「控制」——touch 的轻与 world 的重成比例失调；疑问句代替命令句，是全书所有神明话术的标准配方（比较第五章 Deia 的「Is it not beautiful?」）。
+**为什么这样写**：以「塑造」替代「控制」——touch 的轻与 world 的重成比例失调；疑问句代替命令句，是全书所有神明话术的标准配方（比较第十五章 Deia 的「Is it not beautiful?」）。
 **读者视角提示**：Julian 的回答（「He did see. He felt.」）才是本章真正的红线——他点头了。
 
 > **原句 11:** "“The Divine City,” Rian whispered."

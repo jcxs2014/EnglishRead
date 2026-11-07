@@ -25,8 +25,8 @@ modified: "2026-11-06"
 
 **中文理解**：它活过了一个个世纪——接连不断——只为让那颗 vital core 继续跳动。名字的存活不是荣幸，是任务。千种风俗尽忘，唯「名」是履约的证人。
 **关键词**：survived / vital
-**为什么这样写**：以「唯一目的」写名——centuries and centuries 的叠词让时间有了履带的重量；「vital core」与第五十章 Nikolas 的「call it vital」押同一个词根：他称吞日为 vital，这个名字的存活也叫 vital——两份「必要」，两种代价。
-**读者视角提示**：vital 在本书只出现两次、都在最后一部：一次出自 Nikolas 之口、一次出自无名之名。这不是巧合，是作者把两份账本钉在了一起。
+**为什么这样写**：以「唯一目的」写名——centuries and centuries 的叠词让时间有了履带的重量；「vital core」与第四十七章 Nikolas 的「call it vital」押同一个词根：他称吞日为 vital，这个名字的存活也叫 vital——两份「必要」，两种代价。
+**读者视角提示**：vital 在本书恰好出现三次：Ulshära 的「one vital detail」、Nikolas 的「call it vital」、无名之名的「vital core」。三份「必要」，三种代价——这不是巧合，是作者把三份账本钉在了一起。
 
 > **原句 3:** "And as it rang through the magnetic fields and quintessence belts and stellar winds, it remembered."
 

@@ -40,7 +40,7 @@ modified: "2026-11-06"
 **中文理解**：「需要我做什么？」Angelica 低声问。她用的是南 Vaegan 方言——Varrick 皱起眉；Risha 想知道隔着口音听懂这些得费多大的劲。战场上的加密通话，用乡音完成。
 **关键词**：dialect / frown
 **为什么这样写**：同盟的默契以「语言套利」呈现——方言既是掩护也是亲密的证明；Varrick 的皱眉是本段唯一的敌人特写：权力听得懂官话，听不懂家乡。
-**读者视角提示**：对照第六章 Ulshära 的「古体 Vaegan」——本书的语言学就是政治学。谁会几种话，谁就多几条命。
+**读者视角提示**：对照第二十四章的「古体 Vaegan」——本书的语言学就是政治学。谁会几种话，谁就多几条命。
 
 > **原句 5:** "She sensed the wound along Kaspan's body. The deep, cruel tear bisecting that white feather, that had reached deep enough to sever artery and heart. It was more precise than Rian's injury had been; this time, Taesia had known what to aim for, and had not hesitated."
 
@@ -68,13 +68,13 @@ modified: "2026-11-06"
 **中文理解**：「他会利用我们，」Kaspan 借着 Risha 的嘴呻吟。九个字，一句被两个人的喉咙接力说出的遗言。
 **关键词**：use / mouth
 **为什么这样写**：附体写作减到最简——「through Risha's mouth」的介词结构让嘴成为公共设施；「use us」与全书的「vessel（容器）」议题一拍即合：连神的 imperator 都自认耗材。
-**读者视角提示**：对照第五章「 vessel 清零」的 Nyx 计划——神的仆从们早已知道自己在清单上。恐惧比忠诚更早统一了神域。
+**读者视角提示**：对照第二十三章「 vessel 清零」的 Nyx 计划——神的仆从们早已知道自己在清单上。恐惧比忠诚更早统一了神域。
 
 > **原句 9:** "“IT WAS FOOLISH TO COME HERE,” boomed Phos’s voice. The corpse raised one hand and a sword of blistering light formed."
 
 **中文理解**：「来到这里是愚蠢的，」Phos 的声音轰鸣。尸体抬起一只手，一柄灼热的光之剑凭空成形。神的第三人称台词，第一次由一件遗物代言。
 **关键词**：FOOLISH / blistering
-**为什么这样写**：大写神语第三次压场——这次连「嘴」都是租来的；「blistering light」与第二章「光膜灼肤」同一套刑具美学：在 Solara，光是惩罚的材质。
+**为什么这样写**：大写神语第三次压场——这次连「嘴」都是租来的；「blistering light」延续本书「光是刑具」的一贯美学：在 Solara，光是惩罚的材质。
 **读者视角提示**：Phos 可以附体任何「被烙羽者」——这解释了祂的情报网，也预告了下一章的战斗规则。
 
 > **原句 10:** "Faster than a corpse had any right to be, Imperator Kaspan leapt off the table with its sword aimed at them."

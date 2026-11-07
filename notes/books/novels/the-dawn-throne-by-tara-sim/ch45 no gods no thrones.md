@@ -26,14 +26,14 @@ modified: "2026-11-06"
 **中文理解**：「总有一天，也许我们能摆脱这无休止的痛。这场为活命而进行的、无休止的挣扎。」Fin 的情话里没有「爱」字——只有日程表。全书最贫穷也最贵重的承诺。
 **关键词**：someday / struggle
 **为什么这样写**：以「时态」写爱——someday 是未来时、constant 是现在进行时，两种时态的落差就是他们全部的现状；「hurt/struggle」的并列把浪漫从神坛拉回病房。
-**读者视角提示**：对照第三十二章 Risha 的「I thought I was getting better」——「变好」在本系列从来是复数的、缓慢的。Fin 许诺的不是奇迹，是节奏。
+**读者视角提示**：对照第三十二章 Angelica 的「I thought I was getting better」——「变好」在本系列从来是复数的、缓慢的。Fin 许诺的不是奇迹，是节奏。
 
 > **原句 3:** "To have no purpose except to feel time passing. Fight for that time, Nik. Fight.”
 
 **中文理解**：「除了感受时间流逝之外，不带任何目的地活着。为那样的时光战斗，Nik。战斗。」命令与祝福共用同一个动词。Fin 的战前动员，目标是「什么都不做」。
 **关键词**：time / fight
 **为什么这样写**：以「无目的」重新定义战利品——不是王座、不是复仇，是 time passing 本身；「Fight for that time」的矛盾修辞（为不打而打）是本章全部的哲学重量。
-**读者视角提示**：对照第六章 Nikolas 的「被需要的井」——Fin 递给他的不是水，是「可以不打水的日子」。
+**读者视角提示**：对照第六章他小臂上的羽芽：被神选中的身体在逐章计息——Fin 递给他的不是新账单，是「可以不打仗的日子」。
 
 > **原句 4:** "As the solar flare descended and Taesia thickened her shadows, the golden sheet absorbed the attack and redirected it at the temple."
 

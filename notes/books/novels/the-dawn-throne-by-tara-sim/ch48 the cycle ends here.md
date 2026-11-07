@@ -47,7 +47,7 @@ modified: "2026-11-06"
 **中文理解**：「你为何为这么少的回报牺牲这么多？为何坚持让 Solara 扩张边境、而不是好好照料它？我的兄弟们为何要为你而死？」Ulshära 的三连问，是本书神学辩论的决赛。全部用 Why 开头——和 Nikolas 的控诉同一语法。
 **关键词**：sacrifice / borders
 **为什么这样写**：让神的「亲女儿」完成内部审计——三个 Why 分别清算财政、战略、人命；「proper care」一词把帝国的贪婪与治国的本分对置。
-**读者视角提示**：对照第六章 Phos 的「I HAVE NEGLECTED YOU. BUT IT IS NOT WITHOUT JUST CAUSE.」——同一张嘴，Perigee 时认账、本章赖账。她的三个 Why 就是对那份「just cause」的审计报告。
+**读者视角提示**：对照序章 Phos 的「I HAVE NEGLECTED YOU. BUT IT IS NOT WITHOUT JUST CAUSE.」——同一张嘴，Perigee 时认账、本章赖账。她的三个 Why 就是对那份「just cause」的审计报告。
 
 > **原句 6:** "It is the symbol for negation, Azideh supplied, low and troubled. The same symbol that became instrumental in isolating your realms."
 
@@ -58,10 +58,10 @@ modified: "2026-11-06"
 
 > **原句 7:** "Blood and magic."
 
-**中文理解**：血与魔法。两个词，一枚门的配方。Dante 在 Julian 手臂上割开的口子、刻进金属环的符——原型门的点火顺序全部就位。全书第一章「门要吃门那边的血」的法则，在此刻被友军合法使用。
+**中文理解**：血与魔法。两个词，一枚门的配方。Dante 在 Julian 手臂上割开的口子、刻进金属环的符——原型门的点火顺序全部就位。第七章 Camilla 说破的法则「门要吃门那边的血」，在此刻被友军合法使用。
 **关键词**：Blood / magic
-**为什么这样写**：以「配方」回收伏笔——Camilla 的遗训（第二十三章）由敌营知识变成友军工序；两个名词的并列让仪式感压缩到极简。
-**读者视角提示**：第三章「Thanar 的血」、第二十三章「高原上的她」、本章「Julian 的臂」——同一个法则的三次执行，只有这一次是「同意的」。
+**为什么这样写**：以「配方」回收伏笔——Camilla 的教训（第七章）由敌营知识变成友军工序；两个名词的并列让仪式感压缩到极简。
+**读者视角提示**：这条法则此前只活在 Camilla 的情报与敌营的实操里——此刻它第一次被友军写进工序：血从谁身上出、由谁下刀，一目了然。
 
 > **原句 8:** "ORSUS WOULD NOT GIVE US WHAT WE WISHED. THEY KEPT US YOKED TO OUR WORLDS EVEN WHILE THEY WIELDED THE ABILITY TO CONCEIVE OTHERS.”
 

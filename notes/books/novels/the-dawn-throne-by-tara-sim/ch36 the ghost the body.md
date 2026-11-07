@@ -40,7 +40,7 @@ modified: "2026-11-06"
 **中文理解**：「那是个罕见的组合。强大的组合。强大到足以否决你的身体——那份它应得的死亡。」Valentin 的赞美句式，落点是「你连死都不配」。诅咒与天赋共用同一种语序。
 **关键词**：combination / deny
 **为什么这样写**：让酷刑之王定义她的能力——「deny a death」的措辞把不朽说成剥夺；「well-deserved」四字把死亡重新定价为奖励，全书价值观在此倒挂。
-**读者视角提示**：对照第五章她自己说的「To prove that I cannot die」——同一条信息，从证词变成了刑期。
+**读者视角提示**：对照第二十五章她自己说的「To prove that I cannot die」——同一条信息，从证词变成了刑期。
 
 > **原句 5:** "She lied so boldly that Jas was stunned to silence. “And all of Mortri to oversee.”"
 
@@ -61,7 +61,7 @@ modified: "2026-11-06"
 **中文理解**：「世界也许在碎，但这里有好的东西。我不必跟着它一起碎。」她的目光落回自己的肚腹。孕妇的回答只有两句话，却接住了 Risha 没问出口的全部绝望。
 **关键词**：breaking / good
 **为什么这样写**：以「碎而不随之碎」立论——两个 break 的词形游戏把灾难与选择分开；回答慢而笨拙（她还在边说边想），真诚因此可信。
-**读者视角提示**：对照第八章 Ratha 的「你身上带着额外的魂」——本章胎儿「带着自己的魂」入住。生与死两种「附身」，她都在场。
+**读者视角提示**：对照第八章 Rath 的「你身上带着额外的魂」——本章胎儿「带着自己的魂」入住。生与死两种「附身」，她都在场。
 
 > **原句 8:** "The world was breaking, and maybe so was she—but there was a potential for new growth in the cracks."
 
@@ -74,7 +74,7 @@ modified: "2026-11-06"
 
 **中文理解**：「因为我，你们的领域遇袭。因为我，死了这么多人。」Ulshära 的自供砍掉了所有修饰语。发条鸟在她指间散成一堆零件。
 **关键词**：attacked / dead
-**为什么这样写**：自责用「因果排比」表白——两个 Because of me 像两纸判决；与第二十二章她的「I will make it so」对照：这位 imperator 的句子从不逃跑，只是越来越短。
+**为什么这样写**：自责用「因果排比」表白——两个 Because of me 像两纸判决；与本章 Ulshära 的「I will make it so」对照：这位 imperator 的句子从不逃跑，只是越来越短。
 **读者视角提示**：她的罪与 Risha 的罪（引灵归体）在本章同框——谁更该被审判？作者把问题留给下一章的葬礼。
 
 > **原句 10:** "Death in either direction, and you unluckily in the middle. This is what it means to be a Deviser—to save, and to be used.”
@@ -89,7 +89,7 @@ modified: "2026-11-06"
 **中文理解**：「不是矿石，」Risha 说，一句话让周围的争论安静下来。「也不是矿物。是骨头。」三个词的验尸报告，钉在 Phos 的王座图纸上。
 **关键词**：ore / bone
 **为什么这样写**：让 necromancer 完成最后一击——满桌 Deviser 读不出的材质，她一眼认出（她天天跟骨头打交道）；「quietly killing the conversation」的冷幽默为顿悟调光。
-**读者视角提示**：神座是用骨头做的——结合第五章「fulcrum 曾是活物」的通则，下一问自动浮出：那是谁的骨头？
+**读者视角提示**：神座是用骨头做的——结合第八章「Thana 的 crux 在诸王魂里」的答案，下一问自动浮出：那是谁的骨头？
 
 > **原句 12:** "Physical and spiritual. This bone may be the physical component of whatever had once carried Phos’s fulcrum, just like how a Noctan beast carried Nyx’s.”
 

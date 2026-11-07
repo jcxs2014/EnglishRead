@@ -33,7 +33,7 @@ modified: "2026-11-06"
 **中文理解**：「神的后裔，身负古老的魔法……难怪你在祂的支配下颤抖。」Azideh 的情话以族谱开场。他不再只住在头颅里——蜷在身侧的恶魔，把「merging」从比喻做成了物理。
 **关键词**：get / thrall
 **为什么这样写**：称谓即诊断——「the get of a god」（神之所出）给 Julian 的血统定性，也顺手给 Dante 的颤抖免责；thrall（奴役）一词被说得像摇篮曲。
-**读者视角提示**：对照第五章 Julian 的「starved demon」——两对共生体的温差（占有 vs 喂养）在本章同框。
+**读者视角提示**：对照第三十五章 Julian 的「starved demon」——两对共生体的温差（占有 vs 喂养）在本章同框。
 
 > **原句 4:** "There was no such thing as night in the realm of Solara, but Dante could make his own. With only the parent sun in the sky and the first child sun on the horizon, he was able to easily wrap himself in roiling shadow and stroll effortlessly across the grounds of the ost Vonlin estate."
 
@@ -53,7 +53,7 @@ modified: "2026-11-06"
 
 **中文理解**：一段记忆的边缘探出头来——闪光的玻璃、遮蔽的天空、悬在空中的红色符文——随即被 Azideh 盖灭，像往灯笼上罩了一块布。恶魔也有不肯翻开的旧相册。
 **关键词**：glass / blanket
-**为什么这样写**：前世的爆料以「未遂」收场——三个意象（玻璃/天幕/红 glyph）与第三章 Julian 梦中的造门现场几乎重叠；blanket over a lantern 的比喻让压抑有了温度（火种未灭，只是罩住）。
+**为什么这样写**：前世的爆料以「未遂」收场——三个意象（玻璃/天幕/红 glyph）与第五章 Julian 梦中的造门现场几乎重叠；blanket over a lantern 的比喻让压抑有了温度（火种未灭，只是罩住）。
 **读者视角提示**：把这三个意象记牢——Azideh 的「before」与 Ostium 的「造门」可能是同一场。谜底在第四部。
 
 > **原句 7:** "Varrick to lead troops to Vitae on cycle one hundred thirty while we deploy to Noctus on the solstice. Prepare ten troops by"
@@ -82,13 +82,13 @@ modified: "2026-11-06"
 **中文理解**：「有人告诉我，有只 Noctan 老鼠在乱窜，」Faün 用 Vaegan 语说。「趁它还没做窝就逮住了，真好。」狩猎的修辞从种族 slur 开始，以灭巢威胁结束。
 **关键词**：rat / nest
 **为什么这样写**：把敌人写成害兽——rat→nest 的意象链为种族清洗铺语法；「Good thing」的客套语气让暴力听起来像家务。
-**读者视角提示**：对照第十二章「神殿关门」与本章「捕鼠」——Solara 对 Noctan 的制度性敌意，从国家级落到了家务级。
+**读者视角提示**：对照第五章「诸神殿第一次对公众关闭」与本章「捕鼠」——Solara 对 Noctan 的制度性敌意，从国家级落到了家务级。
 
 > **原句 11:** "And to warn them of the generals’ plans to replace the imperators of Solara. Plans that Taesia had inadvertently accomplished on their behalf."
 
 **中文理解**：还要警告他们：将军们正计划取代 Solara 的 imperators——而这份大计，Taesia 已在无意间替他们完成了。全章的句号是一记回旋镖：她的复仇，成了政变的下半场。
 **关键词**：replace / inadvertently
-**为什么这样写**：以「误帮」收束政治线——inadvertently 一词把 Taesia 的斩首放进别人的棋谱；「replace the imperators」呼应第五章「vessel 清零」——两条名单原来是同一张。
+**为什么这样写**：以「误帮」收束政治线——inadvertently 一词把 Taesia 的斩首放进别人的棋谱；「replace the imperators」呼应第二十三章「vessel 清零」——两条名单原来是同一张。
 **读者视角提示**：下一章的战场上，敌我名单要重画一遍。她杀了神想杀的、神派她杀的——她的「自由意志」还剩几成归她自己？
 
 ## 本章词汇

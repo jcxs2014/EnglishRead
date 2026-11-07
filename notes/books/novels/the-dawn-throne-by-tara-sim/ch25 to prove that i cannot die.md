@@ -61,7 +61,7 @@ modified: "2026-11-06"
 **中文理解**：「死灵术。」她的声音从嘴里坠落，像一只从天上掉下来的死鸟。「是。」一个词的自首，带着坠落的姿势。
 **关键词**：Necromancy / dead bird
 **为什么这样写**：自白与坠落共用一口气——「dead bird」既是比喻也是预告（她自己那只鸟还没落地）；在神域把 necromancy 说出口，等于当庭自报家门。
-**读者视角提示**：对照第十三章「the dead deserved respect」——她从未否认过自己的手艺，只是换了个说给神听的音量。
+**读者视角提示**：对照第三章「the dead deserved respect」——她从未否认过自己的手艺，只是换了个说给神听的音量。
 
 > **原句 8:** "One of the greatest currencies in all the realms was the chance to speak to departed loved ones. Risha had conducted countless séances in Nexus for nobles searching for a thrill, or an apology from an abusive parent, or a clue as to where a great-aunt had left their valuables."
 

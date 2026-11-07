@@ -75,7 +75,7 @@ modified: "2026-11-06"
 **中文理解**：「你们想必已经猜到——她藏在 Shadow Sea，」Nikolas 续道，「一个纯血 Solarian 撑不到把她拖出来的地方。」他押上的是地理，也是自己的命。
 **关键词**：Shadow Sea / full-blooded
 **为什么这样写**：谎言的好结构：一半真（那是 Taesia 的合理藏身处）、一半不能证伪（你们去不了）；「no full-blooded」悄悄把自己标成「不纯」的资产——混血第一次成了议价筹码。
-**读者视角提示**：他在第十六章刚被这一招戳过（「你也没怎么拦她」）——现在他把同一个痛点做成了诱饵。创伤的第二种用法：报价。
+**读者视角提示**：第十四章 Dante 曾用「You didn't try very hard to stop her」戳过 Julian——如今同一个痛点被他做成了诱饵。创伤的第二种用法：报价。
 
 > **原句 10:** "“If it's an execution you want, let it not be ours, but hers.”"
 

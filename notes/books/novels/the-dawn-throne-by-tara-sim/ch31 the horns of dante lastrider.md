@@ -26,14 +26,14 @@ modified: "2026-11-06"
 **中文理解**：「骨头吸收了 Varrick 身上的那根羽毛。」Julian 的话像一声闷雷。Orsus 想要变强——也许祂们坚要他用其神力，正是在给这具镯子喂食。
 **关键词**：absorbed / Orsus
 **为什么这样写**：把「恩赐」重述成「饲养」——神器的慷慨原来有食谱；「insist」一词点破骨镯的主动性：不是他在用镯，是镯在用他。
-**读者视角提示**：对照第五章「FULCRUM 是神的保险」——Orsus 的保险丝也在烧。记住这条暗线，它在终盘会烧到所有人。
+**读者视角提示**：对照第七章 Camilla 的警告「FULCRUM 是神的保险」——Orsus 的保险丝也在烧。记住这条暗线，它在终盘会烧到所有人。
 
 > **原句 3:** "Adela Mardova managed to beat them back with the elementalist division.” She took a shuddering breath. “Rath Vakara is dead."
 
 **中文理解**：「Adela Mardova 率元素师师团把他们打退了。」她颤着呼吸。「Rath Vakara 死了。」一句捷报与一句讣告，共用一次换气。
 **关键词**：elementalist / Vakara
 **为什么这样写**：战报以「喘息」分节——胜利与死亡被塞进同一口气里，正是幸存者的语法；Brailee 的哽咽让数字变成名字。
-**读者视角提示**：对照第十三章 Risha 报父死的那句「My father is dead」——同一个死讯，第二次抵达，这次送到了梦里的 Dante 手上。
+**读者视角提示**：对照第二十四章 Risha 报父死的那句「My father is dead」——同一个死讯，第二次抵达，这次送到了梦里的 Dante 手上。
 
 > **原句 4:** "Phos can only be killed permanently once his fulcrum is destroyed. The Cyr brat is convinced that part of it resides in his spear, but what of the rest?”
 

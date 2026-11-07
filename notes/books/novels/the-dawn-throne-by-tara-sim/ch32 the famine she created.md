@@ -33,7 +33,7 @@ modified: "2026-11-06"
 **中文理解**：「我们为什么不能坐下来，谈你们明知我们要谈的事？你们的军团侵入我们的领域、杀害我们的人民。」Risha 把球杆一放，把外交桌掀了。
 **关键词**：deliberate / legionnaires
 **为什么这样写**：打破仪式的人负责说真话——「deliberate」的官腔与「killed our people」的白刃放在同一口气里；她不讲程序的样子，恰好是本章最讲程序的行为。
-**读者视角提示**：对照第一章「为你我才不得不放逐 Taesia」——丧父者的怒火穿过两本书终于找到了谈判桌。
+**读者视角提示**：对照第三章她压低声音的自供「They were forced to exile Taesia because of me」——罪疚与丧父之怒，在同一张谈判桌上相遇。
 
 > **原句 4:** "After Lord Phos took possession of Kaspan’s body, he then attempted to take control of Varrick, to drive out his mind and use him as a vessel."
 
@@ -60,7 +60,7 @@ modified: "2026-11-06"
 
 **中文理解**：每支曲子都把她剖开、重新排布，直到她不再是「Deia 的仆人 Angelica Mardova」。她是颈与肘、大腿与肩，是每一个不讨喜却必要的升降音。琴声里，姓名暂时下岗。
 **关键词**：bisected / needed
-**为什么这样写**：把演奏写成解剖学的仁慈——「bisected」与第三章她被剑 bisecting 的记忆共用词根，这次刀是她自己握的；「not longed for yet needed」是全书对「不完美」最温柔的一次定义。
+**为什么这样写**：把演奏写成解剖学的仁慈——「bisected」让歌曲成为解剖刀，而这次执刀的是她自己；「not longed for yet needed」是全书对「不完美」最温柔的一次定义。
 **读者视角提示**：对照第七章「复活的悖论」——身体可以不当自己的，也可以重新当回来。琴是她的第二种复活。
 
 > **原句 8:** "But when she pressed her teeth into Cosima’s skin it was hallowed, if only to hear the soft plea that left her lips. This body that her fire could not scald, that tasted like forgotten autumns and ripened fruit, was a feast laid out in offering to an insatiable deity, and she intended to devour it until not even bones were left."
@@ -75,7 +75,7 @@ modified: "2026-11-06"
 **中文理解**：「就算祂知道，我也不能任祂摆布。我不会活在恐惧里。」Ulshära 要求焚去自己的神羽——用皮肤投出的反对票。
 **关键词**：fear / use
 **为什么这样写**：盟约的门槛被她自抬——「even if he does」承认代价、「will not live in fear」给出理由；她的勇气不是无惧，是定价后的购买。
-**读者视角提示**：对照第二十二章她「以血亲之名」带他们来——如今她加入的不是阵营，是手术台。
+**读者视角提示**：对照第二十二章那场谱名申报（Nikshä ost Waren）——如今她加入的不是阵营，是手术台。
 
 > **原句 10:** "She pressed her hand to Ulshära’s shoulder and fed her greed. Ulshära screamed around the leather, gripping the armrests but otherwise not moving, not even to wrench herself away from that cleansing fire."
 

@@ -19,7 +19,7 @@ modified: "2026-11-06"
 **中文理解**：「但我知道——助你们守护领域，是我的职责。Phos 把恐怖洒向群星，我不会袖手旁观。」她以钢一般的目光钉住众人，最后落在 Angelica 身上。盟友的誓词，以「职责」而非「恩情」立项。
 **关键词**：duty / terror
 **为什么这样写**：让 imperator 用「职务语言」参战——duty 一词把外域救援翻译成本职工作；目光的次序（最后落在 Angelica）是她交接信任的签字笔。
-**读者视角提示**：她随后那句「If I fall, do not hesitate」——对照第十二章 Elena 的遗命「难民需要你」——两个母亲型的指挥官共用同一种告别语法。
+**读者视角提示**：她随后那句「If I fall, do not hesitate」——对照第十二章 Elena 的嘱托「难民需要你」——两个母亲型的指挥官共用同一种告别语法。
 
 > **原句 2:** "But what was the point of control if it meant risking Cosima’s safety at the hands of these holy warriors? If it meant getting herself killed and subjecting Yvri and her family to Deia’s eventual retaliation?"
 
@@ -47,7 +47,7 @@ modified: "2026-11-06"
 **中文理解**：Dante 看见了 Ulshära 幻灭的瞬间——她终于明白：与征服者之间，和平从来不存在。一句旁白，给一位 imperator 的信仰办了退租。
 **关键词**：disappointment / conquerors
 **为什么这样写**：觉悟被精确到「moment」——旁白像证人的秒表；conquerors 的复数把结论从个案升级为通则，她的政治学在此毕业。
-**读者视角提示**：这声幻灭为第三十二章「I do not want a war. I want stability」补上了最后一课——稳定有时需要先把「和平」这个词赎回来。
+**读者视角提示**：这声幻灭为第二十二章「I do not want a war. I want stability」补上了最后一课——稳定有时需要先把「和平」这个词赎回来。
 
 > **原句 6:** "But none of them fell. Because of his hesitance, the compulsion didn't take. It backfired."
 
@@ -60,7 +60,7 @@ modified: "2026-11-06"
 
 **中文理解**：可眼前仍是那个点名要他讲睡前故事、不要父母的女孩；仍是那个为他从厨房偷来的点心认真道谢的女孩；仍是那个把他每句傻话都信以为真的女孩。三行排比，把 Sunslayer 还原成妹妹。重逢的辨认，靠的是童年的三张收据。
 **关键词**：bedtime / silly lie
-**为什么这样写**：以「生活史」对抗「通缉令」——三个 the girl 的排比把她的变化全部让位给不变；「believed his every silly lie」与第二章她「用谎言喂大仇恨」互为始末：他教会她的第一件事就是撒谎。
+**为什么这样写**：以「生活史」对抗「通缉令」——三个 the girl 的排比把她的变化全部让位给不变；「believed his every silly lie」互为始末：喂大她仇恨的，正是那些谎言本身。
 **读者视角提示**：记住这三个收据——本章末他把「挣回名号」的任务塞给她时，用的还是同一种「哥哥式撒谎」：让她相信这是她自己的选择。
 
 > **原句 8:** "“Not even a hello first?” Taesia asked. “Nice horns.”"

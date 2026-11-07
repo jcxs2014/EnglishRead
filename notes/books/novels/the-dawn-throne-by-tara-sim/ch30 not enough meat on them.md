@@ -40,14 +40,14 @@ modified: "2026-11-06"
 **中文理解**：「那不是血统单独决定的事。」Nikolas 本人就是证据。「我不杀孩子。」Taesia 对神说出全书最硬的一条人设底线。
 **关键词**：blood / children
 **为什么这样写**：用哥哥的生平作论据——「他自己就是反例」既救了 Varrick 之子，也救了她对自己的最后认证；短句「I'm not killing children」没有形容词，底线的形态就是不解释。
-**读者视角提示**：她的「恶棍」执照到这里画了禁区。对照第八章她对 Varrick 的斩首——成人的容器可杀，孩子的种子不碰。这条线后文会再被试探。
+**读者视角提示**：她的「恶棍」执照到这里画了禁区。对照第二十九章她对 Varrick 的斩首——成人的容器可杀，孩子的种子不碰。这条线后文会再被试探。
 
 > **原句 5:** "“I said I'd become Solara's villain.” She pulled Starfell closer, seeking its chill. “But I will not let myself become that sort of monster.”"
 
 **中文理解**：「我说过我愿做 Solara 的恶棍。」她把 Starfell 拉近，寻找它的凉意。「但我不会容许自己变成那种怪物。」恶棍与怪物之间，她划了一整条国境线。
 **关键词**：villain / monster
 **为什么这样写**：给反英雄立宪——villain 是职业选择，monster 是存在形态；「seeking its chill」的小动作说明她需要剑的冷来压住神的热，自控靠外挂。
-**读者视角提示**：对照第四章 Azideh 的「easy answer」与本章 Nyx 的「mercy」——恶魔们的话术永远免费，底线永远自费。
+**读者视角提示**：对照第七章 Azideh 的「easy answer」与本章 Nyx 的「mercy」——恶魔们的话术永远免费，底线永远自费。
 
 > **原句 6:** "Taesia's mouth twitched; in that instant she saw herself and Risha and Nikolas as children, remembering how she'd ordered them around despite being the youngest, how they'd actually listened to her before they learned better."
 
@@ -68,7 +68,7 @@ modified: "2026-11-06"
 **中文理解**：Taesia 把手指抠进沙里。她已经不配再许愿了——可仍有一个愿望在黑暗里找到了她：但愿 Nikolas 不要应下她的挑战。Part II 的最后一个愿望，没有一个字关于自己。
 **关键词**：wishes / challenge
 **为什么这样写**：章末的愿望倒置全章的许愿史——童年她为「开门」憋气、如今她只求「别来」；「found her in all the dark」把愿望写成不请自来的访客，谦卑与恐惧同体。
-**读者视角提示**：对照第八章她给 Julian 的「Come find me, then」——同一句挑战，现在她祈祷没人接。Part III 从这份矛盾开始计时。
+**读者视角提示**：对照第二十三章她那句「Come find me, then」——同一句挑战，现在她祈祷没人接。Part III 从这份矛盾开始计时。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

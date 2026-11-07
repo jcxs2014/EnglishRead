@@ -19,7 +19,7 @@ modified: "2026-11-06"
 **中文理解**：那是一座信仰与暴怒的壁垒——Phos 的钠焰之怒自廊柱间漫出来。神庙的「情绪」，第一次被写成可见的光污染。
 **关键词**：bulwark / sodium-flare
 **为什么这样写**：以「化学光」给神庙定色——钠焰的黄橙是 streetlight 的颜色，神圣建筑被写成失控的路灯；bulwark（壁垒）的军事词根暗示这是一座要塞而非家宅。
-**读者视角提示**：对照第八章 Perigee 的「sodium lightspeed gate」——钠是这本书的神域底色：廉价、刺眼、无处不在。
+**读者视角提示**：钠是这本书的神域底色：廉价、刺眼、无处不在。
 
 > **原句 2:** "“I’m not here to condemn you, Taesia. I’m here to help you.”"
 
@@ -33,7 +33,7 @@ modified: "2026-11-06"
 **中文理解**：「它可能在 Sunbringer Spear 里。也可能不在。」Risha 的情报以不定式收尾。半张地图，比没有更折磨人。神器的地址栏第一次被官方标注为「未知」。
 **关键词**：might / might not
 **为什么这样写**：以「双可能」保持悬念——情报员的诚实恰恰是她的价值（不编造确定性）；两个 might 的排比让矛与王座同时保持危险。
-**读者视角提示**：对照第三十七章「I didn't feel anything at all」——Rian 的无感与 Risha 的「不确定」互相咬合。矛的空白页，还没人读得懂。
+**读者视角提示**：对照第三十五章「I didn't feel anything at all」——Rian 的无感与 Risha 的「不确定」互相咬合。矛的空白页，还没人读得懂。
 
 > **原句 4:** "They were browsing the library and hushing their shocked giggles when they found the erotica section. They were hidden within Taesia’s shadows at a party getting tipsy on stolen palm wine."
 
@@ -75,21 +75,21 @@ modified: "2026-11-06"
 **中文理解**：如果解放魔法注定失控——那何时释放，由她决定。如果她的保护注定等于毁灭——那至少，她可以把毁灭瞄准那些最该承受的人。她的军规第二章，自己立法自己签。
 **关键词**：release / aim
 **为什么这样写**：把「失控」改写成「发射程序」——decide 与 aim 两个动词接管了「control」的旧岗位；两个 If 的让步句式把宿命改写成选择。
-**读者视角提示**：对照第十章「her protection always meant destruction」的原文——本章她逐字批注了自己的旧信条。
+**读者视角提示**：对照第十五章 Deia 的「Not protection, but destruction」——本章她逐字批注了自己的旧信条。
 
 > **原句 10:** "It felt even better than her violin."
 
 **中文理解**：那感觉——甚至好过她的小提琴。八个字，把她前半生的救赎乐器比了下去。全章最甜也最冷的一行：她终于承认自己爱上了什么。
 **关键词**：violin
 **为什么这样写**：以「比较级」忏悔——violin 是她「自救」的圣物，如今被力量盖过；这句话没有后悔的语法，这正是它危险的地方。
-**读者视角提示**：第四十章她说「I want it to be useful」——本章她尝到了「有用」的味道。下一章的门槛，她已经跨过去了。
+**读者视角提示**：第三十二章她说「I want it to be useful」——本章她尝到了「有用」的味道。下一章的门槛，她已经跨过去了。
 
 > **原句 11:** "Maybe Angelica could become a mortal god."
 
 **中文理解**：也许——Angelica 可以成为一位凡人之神。全章以她的自我加冕收束。六个词，一半是野心，一半是病历。
 **关键词**：mortal god
 **为什么这样写**：以「矛盾修饰」立传——mortal 与 god 的组合正是她全部设定的合成词；「Maybe」保留了这是幻觉的可能，让加冕同时像病症。
-**读者视角提示**：Deia 的第三十二章低语（「何必做凡间的君主」）在本章应验了一半——凡人的壳还在，神的部分正在长。第二十二章「the death of a god」的账，如今有两个账户在付。
+**读者视角提示**：Deia 的第十五章低语（「何必做凡间的君主」）在本章应验了一半——凡人的壳还在，神的部分正在长。第二十二章「the death of a god」的账，如今有两个账户在付。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

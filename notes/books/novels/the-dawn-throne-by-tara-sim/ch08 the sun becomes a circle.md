@@ -60,7 +60,7 @@ modified: "2026-11-06"
 
 **中文理解**：「我绝不会怕你，meer piaara。」他的声音发哑，Risha 的眼睛在风里发刺。「只会为你怕。」
 **关键词**：frightened
-**为什么这样写**：一词之差的辨析（of you / for you）完成父亲二十年的表态——前几章所有「反对」在这句重音里被重新归档为恐惧；voice thick 与风刺眼，两个人各自的失控都只给一个生理细节。
+**为什么这样写**：一词之差的辨析（of you / for you）完成父亲迟到的表态——前几章所有「反对」在这句重音里被重新归档为恐惧；voice thick 与风刺眼，两个人各自的失控都只给一个生理细节。
 **读者视角提示**：这是本章情感线的落点：和解不是同意。父亲依然反对，但他先把「反对她」改写成了「怕失去她」。
 
 > **原句 8:** "“You carry an extra soul,” he said softly. So softly it was almost taken by the wind, so softly it landed harder than a hammer blow."

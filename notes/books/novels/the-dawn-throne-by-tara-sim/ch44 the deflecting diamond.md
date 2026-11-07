@@ -26,7 +26,7 @@ modified: "2026-11-06"
 **中文理解**：神庙之前，一团暗影在三个太阳的非常位置正下方成形——以令人作呕的力量旋转，神庙廊柱涌出的 quintessence 源源喂养，直到它绽成一扇浑浊的螺旋之门。门的味道是春天。门的那边是他们的家。
 **关键词**：spiraling / portal
 **为什么这样写**：入侵的门以「喂食」语法开启——columns 的献祭让它像器官而非装置；「spring water」的清新气息负责催泪：他们梦寐以求的门，被敌人先打开了。
-**读者视角提示**：对照第五章 Risha 的「门要吃门那边的血」——这扇门吃的是神庙自己的神力。门开得越顺利，神越接近失血。
+**读者视角提示**：对照第七章 Camilla 的「门要吃门那边的血」——这扇门吃的是神庙自己的神力。门开得越顺利，神越接近失血。
 
 > **原句 3:** "It will connect all the lightspeed gates together. The ones in the Three Sisters, the inactive one by the sealed Noctus portal, and the one here, at the heart of the Divine City.”
 
@@ -61,7 +61,7 @@ modified: "2026-11-06"
 **中文理解**：阳光刺得他几乎看不见窗外的世界——但他不需要看。透过与机关的连接，他能精确定位那座光速门的参数：从哪开始、到哪结束。体内的光速自行点燃，一道符印在门孔上方亮起：aether 之符，内含 light 之符。他伸手把整座门从现实里拔了出来。
 **关键词**：parameters / aether
 **为什么这样写**：以「盲操作」写能力觉醒——不需要视觉的战斗才有神迹感；「aether 内含 light」的双层符文把两个魔法系统焊死在同一枚印章里。
-**读者视角提示**：他拔起的不是门，是「规则」——对照第五章「fulcrum 双组份」，他从神手里抢走了一件「实物组件」。
+**读者视角提示**：他拔起的不是门，是「规则」——对照第三十六章「fulcrum 双组份」，他从神手里抢走了一件「实物组件」。
 
 > **原句 8:** "Breathless, Rian yelled at Edwin to pull the levers down while he used lightspeed to pull the gate higher still, rotating the diamond until it aimed not at the suns but at the one who had forcibly drawn them together."
 
@@ -82,7 +82,7 @@ modified: "2026-11-06"
 **中文理解**：长长的、生着羽毛的翅膀——和 Nikolas 身上正在长出的那种一模一样——正从瓦砾里探出来。章末最后一个画面，把战争与哥哥的身体并进同一条叙事线。废墟里爬出来的，不是援军。
 **关键词**：feathered / debris
 **为什么这样写**：以「同款」制造恐惧——wing like the ones 的比喻把神庙与 Nikolas 连成一条生产线；「emerging from the debris」的爬出感让下一章的敌人自带出身证明。
-**读者视角提示**：神庙被炸出来的东西长着 Nikolas 的翅膀——结合第二十二章「exoskeleton」的警告，你已经知道神的下一批兵从哪来了。
+**读者视角提示**：神庙被炸出来的东西长着 Nikolas 的翅膀——结合第四十二章「exoskeleton」的警告，你已经知道神的下一批兵从哪来了。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

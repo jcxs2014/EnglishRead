@@ -47,7 +47,7 @@ modified: "2026-11-06"
 **中文理解**：「有意思，」恶魔在他脑中呢喃。两人一起看着 Julian 皮肤上的黑纹向颚线爬升，肤色在负荷下泛白。「他感觉熟悉。却又不一样。」
 **关键词**：familiar / dissimilar
 **为什么这样写**：让恶魔当血统鉴定师——「熟悉又不相似」五个字把 Julian 的身世谜团从人类视角移交给非人视角；黑纹的爬升用「creep」这个缓慢动词，恐怖以厘米计。
-**读者视角提示**：Azideh 的「熟悉」与第二章「my blood」一脉相承——Julian 与恶魔的血脉关系，是第二部最大的悬案之一。
+**读者视角提示**：Azideh 的「He feels familiar」——Julian 与恶魔的血脉关系，是第二部最大的悬案之一。
 
 > **原句 6:** "To the west, the Gravespire—the monument of his suffering, his onetime prison—was collapsing."
 

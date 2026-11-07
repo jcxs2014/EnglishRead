@@ -47,7 +47,7 @@ modified: "2026-11-06"
 **中文理解**：这些时刻她很难分清：那些追赶她的冲动，究竟来自她自己，还是来自眉骨上方那只蓝得不可思议的眼睛——一只她亲手从神的血肉里挖出、据为己有的眼睛。
 **关键词**：torn / impossibly
 **为什么这样写**：成瘾叙事的恐怖核心一句写尽——欲望的「所有权」无法审计；torn out 的暴力留在这只眼的历史里，而 impossibly 负责让它永远陌生：她随身带着一枚不属于自己的目光。
-**读者视角提示**：把这块与上一章 Nikolas 的羽毛连读：两位主角体内都住着神的「零件」——本书的恐怖基调由此统一。
+**读者视角提示**：把这块与第一章 Nikolas 咳出的那根羽毛连读：两位主角体内都住着神的「零件」——本书的恐怖基调由此统一。
 
 > **原句 6:** "With her concentration severed, the ribbon of seawater fell back into the gulf with a booming splash, causing high waves that lapped against the rocks and raced toward the coastal town."
 

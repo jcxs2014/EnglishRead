@@ -19,7 +19,7 @@ modified: "2026-11-06"
 **中文理解**：「你有阻止这一切的工具，」神低语，骨镯像虎钳扣着他的腕。「用它们。看看它们能做到什么。」推销话术的最高级形态：先送工具，再收灵魂。
 **关键词**：vise / tools
 **为什么这样写**：神力的营销学——vise（虎钳）与 tools 同框，恩赐与锁具一体两面；「Watch what they can do」像广告词，也像诅咒的分期付款通知。
-**读者视角提示**：对照第四章 Rian 的「Let me prove light can be good」——同一个「用」，一个是请愿，一个是圈套。
+**读者视角提示**：对照第二十九章 Rian 的「Let me prove that light can be more than a force of destruction」——同一个「用」，一个是请愿，一个是圈套。
 
 > **原句 2:** "Conjuring, crafting, creating. His fingertips buzzed with need."
 
@@ -61,7 +61,7 @@ modified: "2026-11-06"
 **中文理解**：火不只点燃在 talpascor 的尸体里，也点燃在他弟弟眼中。Rian 对 Julian 说着什么——兴奋得毫不含糊；Julian 的笑容缓慢而甜蜜地绽开，黑纹随之后退。他有多久没听过弟弟这样笑了，自从——
 **关键词**：fire / receded
 **为什么这样写**：战场上的「复健时刻」——excitement 与 receded 并置：笑容（人味）与黑纹（魔性）此消彼长的实时读数；「cracked slow and sweet」让 smile 带着开裂的声响，愈合从不无声。
-**读者视角提示**：对照第六章 Rian 的「呆滞褪去」——同一双眼睛的两次复活，一次靠风景、一次靠友谊。
+**读者视角提示**：对照第六章他眼底金光的一闪即退——同一双眼睛，一次差点沦陷，一次真正醒来。
 
 > **原句 8:** "“Now this,” Edwin said, “this is a ballad in the making! An indomitable pair of brothers, a heroic man’s attempted sacrifice, and those symbols…”"
 
@@ -75,14 +75,14 @@ modified: "2026-11-06"
 **中文理解**：但这就是他们能负担的全部：暂时。若 Orsus 更强了，Nikolas 担心的不是「忽视神」的后果——他担心的是「神得偿所愿」的那天。两种恐惧，第二种才是深渊。
 **关键词**：afford / wanted
 **为什么这样写**：把战略焦虑从「违逆」转向「顺从」——常见叙事怕神发怒，本章怕神如愿；「for now」的期限感让安全感成为贷款。
-**读者视角提示**：神想要什么？第五章「容器清零」+第九章「王座」——把两条情报放一起，你会比 Nikolas 更早失眠。
+**读者视角提示**：神想要什么？第二十三章「容器清零」+第二十六章「王座」——把两条情报放一起，你会比 Nikolas 更早失眠。
 
 > **原句 10:** "“No.” Rian frowned at the Sunbringer Spear, eyeing its metal wings, then studied the hand that had summoned it. “I didn’t feel anything at all.”"
 
 **中文理解**：「不。」Rian 皱眉看着 Sunbringer Spear，端详它的金属翼，又端详那只召唤过它的手。「我什么都没感觉到。」全章最安静的一句，拆掉了最响的神器。
 **关键词**：fulcrum / anything
 **为什么这样写**：以「零反馈」作结——Nikolas 的解释（fulcrum 在其中）被一句「什么都没有」顶回；frown 的对象从矛换到自己的手，怀疑的坐标完成转移：神器失灵，还是持有者换了物种？
-**读者视角提示**：结合第四章「矛的温暖来自他自己的手」——Rian 的「无感」可能不是矛哑了，而是他不再「接收」。fulcrum 的下落，悬在下一部。
+**读者视角提示**：结合第三十四章「矛的温暖来自他自己的手」——Rian 的「无感」可能不是矛哑了，而是他不再「接收」。fulcrum 的下落，悬在下一部。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

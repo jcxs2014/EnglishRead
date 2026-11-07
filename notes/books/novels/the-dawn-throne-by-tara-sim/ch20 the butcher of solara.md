@@ -9,7 +9,7 @@ modified: "2026-11-06"
 - **一句话概括**：Taesia POV 初登场：「Solara 的屠夫」蹲守门屋，Perigee 的暗影女子真身揭晓——Kaspan 死于她剑下； captive 队伍穿门而至，她隔影认出 Dante 与活着的 Rian，反手一记逆星抹掉 Aurora Tower，随后以 Starfell 劈门消失。
 - **情感弧线位置**：Part I 的暗线总收束：序章的刺杀、审判庭的除名、Julian 的梦——全部在这位「失踪者」身上归位；重逢以一场抹除式爆炸作为问候。
 - **Tropes 兑现/反转**：「流亡者变刺客」；「重逢」反转成「先毁掉一座塔再说」；噩梦的自我定义（怕的只是结束）。
-- **人物弧线**：Taesia 与 Nyx 的主从关系倒置——「选屠夫的是我」；她对 Rian 的反应（Alive×3）暴露第一章除名戏的全部代价。
+- **人物弧线**：Taesia 与 Nyx 的主从关系倒置——「选屠夫的是我」；她对 Rian 的反应（Alive×3）暴露第二章除名戏的全部代价。
 - **叙事手法**：独白开题+三连引语审判；「逆星抹城」用天文暴力词写私人恩怨；章末问答自转（nightmare→better dream）完成人物落点。
 
 ## 精读
@@ -54,7 +54,7 @@ modified: "2026-11-06"
 **中文理解**：Starfell 脉动起来——像还记得他血的味道。虚空颤动着，想要认领。她的武器与她共享一份食欲。
 **关键词**：pulsed / claim
 **为什么这样写**：让剑替她「回忆」——武器的味觉记忆暴露的是主人的；「claim it」的 it 指向 Rian 的血：连她的剑都想把他划进自己的版图，爱意与杀意共用一条脉动。
-**读者视角提示**：她曾用这把剑伤过 Rian（ch12 回忆里 Taesia 之剑）——剑记得，她也记得。这一拍是全书最危险的重逢背景音。
+**读者视角提示**：她曾用这把剑伤过 Rian（ch01 那一夜的穿刺）——剑记得，她也记得。这一拍是全书最危险的重逢背景音。
 
 > **原句 7:** "The spherical mass didn’t just slice through the tower; it erased it from existence. Only the base was left behind, rising into sharp peaks on either side like a half-moon smile."
 

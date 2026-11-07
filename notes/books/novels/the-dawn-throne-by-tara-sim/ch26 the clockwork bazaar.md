@@ -19,7 +19,7 @@ modified: "2026-11-06"
 **中文理解**：宽阔的大道与高耸的建筑通体白金，反射三阳之光，整座城市像在发光。转角皆是壁画与阿拉伯式浮雕，供奉 Phos 的小神龛住在墙龛里——日常祷告无所不包：有人求一段爱情，有醉汉只求平安到家。
 **关键词**：murals / shrines
 **为什么这样写**：圣城先给「生活感」再给威压——神龛的祷词清单从求爱到醉汉，信仰被写成日用品；「glowed」的光在本章会一路变质（矛的光、通缉令的纸、义眼的光）。
-**读者视角提示**：对照第四章「诸神殿闭门」的 Nexus——同一套信仰，一个锁门、一个开门营业。谁的神更饿，一目了然。
+**读者视角提示**：对照第五章「诸神殿第一次对公众关闭」的 Nexus——同一套信仰，一个锁门、一个开门营业。谁的神更饿，一目了然。
 
 > **原句 2:** "“Light is life, light is longevity, light is the point in which we find ourselves whole,” he chanted alongside dozens of voices, remembering at the last second to speak in Solari."
 
@@ -75,7 +75,7 @@ modified: "2026-11-06"
 **中文理解**：「废黜 Phos 的钥匙，就藏在让祂落座的那个东西里。」全书最锋利的一句谜语，出自 imperator 之口。
 **关键词**：unseating / seats
 **为什么这样写**：悖论句自带谜面——王座既是神的锚也是神的锁；unseating 与 seats 的同根对仗（seat-）把答案缝在问题里，只差一把拆椅子的螺丝刀。
-**读者视角提示**：结合第五章「fulcrum 是复活保险」——若王座是 fulcrum 的另一半，弑神与救城将是同一个动作。第二部的主线在此定盘。
+**读者视角提示**：结合第七章 Camilla 的警告「fulcrum 是神的保险」——若王座是 fulcrum 的另一半，弑神与救城将是同一个动作。第二部的主线在此定盘。
 
 > **原句 10:** "“There is only one place they can be: the Aphelion Tower. Varrick's family branch was the first to play patron to the ost Krülins. Varrick's grandsire even commissioned Oskar's father to…” She glanced at Oskar and away."
 

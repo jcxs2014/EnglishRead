@@ -81,7 +81,7 @@ modified: "2026-11-06"
 
 **中文理解**：Nikolas 的小臂上拱出十几粒白蜡色的增生物，顶破皮肤；他喘着恐慌去抓挠、想把它们撕出来，Rian 用 Lucent 在他手臂周围结起防护罩，把他拽向出口。
 **关键词**：waxy / barrier
-**为什么这样写**：身体恐怖第一次长在「保护者」身上——上一章咳出羽毛，这一章长出羽芽，被神选中的身体在逐章计息；弟弟用光结界护住哥哥的手臂，攻守在一句之内完成对调。
+**为什么这样写**：身体恐怖第一次长在「保护者」身上——第一章咳出的羽毛，这一章长成了羽芽，被神选中的身体在逐章计息；弟弟用光结界护住哥哥的手臂，攻守在一句之内完成对调。
 **读者视角提示**：「stop」咒语又一次收效——这条身心线索请当魔法设定记账：他的强迫性自责有物理杀伤力。
 
 > **原句 11:** "Was it possible he’d been in possession of part of Phos’s fulcrum this whole time? Were the feathers some sort of backlash of its power? But if that were the case, his father would have shown similar symptoms."
