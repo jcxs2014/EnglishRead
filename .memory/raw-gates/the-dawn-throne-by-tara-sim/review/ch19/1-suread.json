@@ -1,0 +1,55 @@
+{
+ "book": "the-dawn-throne-by-tara-sim",
+ "chapter": "ch19",
+ "text": "notes/books/novels/the-dawn-throne-by-tara-sim/text/ch19_xix.txt",
+ "facts": [
+  {
+   "fact": "循气味：Risha 循 vetiver 到门、循血到 Rian——rote 式再演治愈（I died, and I lived...Is my heart beating?）；白百合瓣落指混入 Rian 血。",
+   "anchor": "Risha followed the scent of vetiver to the portal",
+   "start": 19,
+   "end": 68
+  },
+  {
+   "fact": "无标点裸句：想诉说求共哀——「please look at my loss and tell me it is terrible, please help me, please grieve with me」——终究没说；Rian 反安慰「This is enough」。",
+   "anchor": "My father is dead.",
+   "start": 1160,
+   "end": 1178
+  },
+  {
+   "fact": "先行者：眼将闭（Angelica 催 now）——Julian 断言城已失；Dante「Phos won't stop until all of Vitae is destroyed...I won't let him get that far」——率先步入光、身影被能量 lashes 溶解。",
+   "anchor": "I won’t let him get that far.",
+   "start": 2420,
+   "end": 2449
+  },
+  {
+   "fact": "亡者之怨：Valentin 又闻到她的恨；It's unfair 在墓地走廊与家中回旋——信仰=家人念她名字的方式；忘川水边曾求成为 lost soul，是名字唤她回家。",
+   "anchor": "I smell your rage again,",
+   "start": 2700,
+   "end": 2724
+  },
+  {
+   "fact": "别离：身后亡灵哀求她回头相助——女儿久于引魂人；锁骨上的义务项链落下、唯余复仇之担。",
+   "anchor": "she had been a daughter far longer than she had been a psychopomp.",
+   "start": 3761,
+   "end": 3827
+  },
+  {
+   "fact": "兄弟同行：Rian「The Cyrs have a duty to Vaega...But we can't fulfill it here」——Nikolas 会意；Fin 抓住 Nikolas 的手（握紧或松开的迟疑）；兄弟成「Pilgrims to a realm they had only ever known through stories and violence」；Angelica/Cosima 随后、Julian 殿后祈祷保母+déjà vu。",
+   "anchor": "Pilgrims to a realm",
+   "start": 4748,
+   "end": 4767
+  },
+  {
+   "fact": "穿门：summer heat 门槛——「There's more to see. / Look up.」——金泪如彗星拖着模糊尾迹坠落——「The end, he realized, could be beautiful.」；他的泪是咸的。",
+   "anchor": "The end, he realized, could be beautiful.",
+   "start": 6645,
+   "end": 6686
+  },
+  {
+   "fact": "收网：落地即 stepwell 盆底（梦中所见那口）——全员被 shimmering net 冻住；金镯手收走弓——包围者持金盾长矛与无名金属长器；领队全身镀金面具+bone-white hair+腰双鞘——「I am Ulshära ost Phos of the Zenith Tower, imperator of Solara, and your warder」——「imprisoned, interrogated, and then given to our god for judgment. May all sins be exposed in His light.」",
+   "anchor": "May all sins be exposed in His light.",
+   "start": 9202,
+   "end": 9239
+  }
+ ]
+}
