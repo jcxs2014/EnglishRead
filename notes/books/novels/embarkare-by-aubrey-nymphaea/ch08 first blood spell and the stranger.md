@@ -55,9 +55,9 @@ modified: "2026-11-07"
 **为什么这样写**：作者把代价写成两拍——先给地狱级疼痛（让读者以为截肢级后果），再给"雀斑"级印记（痛感归零），落差本身就是魔法的诡计：它收走的东西不是血肉，是**标记权**——她的身体被魔法签名了；"smooth and familiar"的触感说明这不是异物，是她自己的皮肤长出来的。
 **读者视角提示**：金斑与符文金光同色——血魔法的"收据"直接写在她身上；数斑、隐斑、辨斑会变成后续章节的身体细节线。
 
-> **原句 8:** "Their voices were hollow and distant, like they were traveling through water, though they stood mere feet away. … “I don’t see any fucking fire.”"
-**中文理解**：匪徒的嗓音空洞而遥远，像隔着水传来——其实他们只站在几步之外；有人骂骂咧咧：我看他妈的哪有什么火。圈内人看得见圈外，圈外人对篝火与两个活人彻底失明。
-**关键词**：hollow / mere feet
+> **原句 8:** "Their voices were hollow and distant, like they were traveling through water, though they stood mere feet away. Andra strained to hear what they said as they made their way to the stream to refill their water skins, and her body shook so hard she was sure they would hear her teeth rattle."
+**中文理解**：匪徒的嗓音空洞而遥远，像隔着水传来——其实他们只站在几步之外；Andra 竖着耳朵也听不清他们去溪边灌水囊的话，身体抖得她确信对方会听见她的牙齿打颤。圈内人看得见圈外，圈外人对篝火与两个活人彻底失明（有人当面抱怨"哪有什么火"）。
+**关键词**：hollow / rattle
 **为什么这样写**：验证写法的高明在于"距离错误"——声音穿水的失真感让读者与 Andra 同步意识到结界在生效；"mere feet away"把魔法的强度量化成一步之遥的失明，防御型禁术的完成度瞬间可信。
 **读者视角提示**：这个结界效果（隐匿）解释了猎人为何要循气味找进来——眼睛不认，鼻子认；血魔法强在欺骗感官，弱点同样在此。
 
