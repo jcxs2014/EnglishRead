@@ -1,0 +1,37 @@
+{
+ "book": "carousel-by-beth-best",
+ "chapter": "ch49",
+ "text": "notes/books/novels/carousel-by-beth-best/text/ch49_49_the_new_world.txt",
+ "facts": [
+  {
+   "fact": "亲吻后阿拉的记忆被抹去，她对德雷克感到抱歉并说想嫁给他，却不记得自己曾深爱科斯默。",
+   "anchor": "I don’t know what came over me",
+   "start": 381,
+   "end": 411
+  },
+  {
+   "fact": "德雷克承认阿拉曾请求他帮她减轻悲痛；阿拉不再记得科斯默的真正关系，只记得他是村里认识的、有麻烦的守卫，因 Osimidite 在医务室。",
+   "anchor": "He helped me through my grief",
+   "start": 3968,
+   "end": 3997
+  },
+  {
+   "fact": "梅格帮阿拉准备红裙和妆容，坦白自己只忠于自己，但愿意与阿拉互利合作；她察觉到德雷克的魔法覆盖在阿拉身上。",
+   "anchor": "I am loyal to myself",
+   "start": 5740,
+   "end": 5760
+  },
+  {
+   "fact": "“皇帝号”降落在拉夫纳穹顶内，德雷克当众将德泽维斯刺死，为自己和阿拉扫清障碍。",
+   "anchor": "he lunges, throwing a familiar silver knife",
+   "start": 9029,
+   "end": 9072
+  },
+  {
+   "fact": "女王卡特尔迎接德雷克和阿拉，宣布婚期；阿拉得知弟弟埃里克还活着并已被转移到拉夫纳，感到幸福。",
+   "anchor": "Eric is here",
+   "start": 14858,
+   "end": 14870
+  }
+ ]
+}
