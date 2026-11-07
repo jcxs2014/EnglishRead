@@ -37,7 +37,7 @@ modified: "2026-11-07"
 
 **中文理解**：「好吧，如果时机还不到，那就是不到。」Aiden 耸耸肩，「不管多让人抓狂，你都得相信魔法知道自己在干什么。」
 
-**关键词**：timing、not right yet、frustrating、trust
+**关键词**：timing、isn’t right yet、frustrating、trust
 
 **为什么这样写**：让一个刚被魔法折腾过的人来劝他「相信魔法」——Aiden 的 shrug 说明这套话他自己也未必全信，但他选择接受。这句话是本书对命运的态度样本：不是盲信，是在无法反抗时选择不折腾自己。
 
