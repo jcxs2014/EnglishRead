@@ -37,7 +37,7 @@ modified: "2026-11-06"
 
 > **原句 4:** "“I can tell you that you're afraid to be known, and that it won't stop me.”"
 
-**中文理解**：「我能告诉你——你怕被人认识。而这拦不住我。」Julian 的告白只有一半是情话，另一半是讣告。十四个词，把她最深的防御工事点名为恐惧。
+**中文理解**：「我能告诉你——你怕被人认识。而这拦不住我。」Julian 的告白只有一半是情话，另一半是讣告。十六个词，把她最深的防御工事点名为恐惧。
 **关键词**：afraid / known
 **为什么这样写**：情话写成诊断书——「afraid to be known」把爱降维成一种可执行的威胁；「won't stop me」的坚持比任何誓言都蛮横，也因蛮横而动人。
 **读者视角提示**：这句话本章会第二次响起——从他自己嘴里，传进另一个人的耳朵。记住它的旅途。
@@ -51,7 +51,7 @@ modified: "2026-11-06"
 
 > **原句 6:** "We did not build the aqueducts. The talpascor did."
 
-**中文理解**：「水渠不是我们修的。是 talpascor 挖的。」七个字，把沙漠的市政工程记在怪兽名下。人类文明的血管，原是巨兽的隧道。
+**中文理解**：「水渠不是我们修的。是 talpascor 挖的。」九个词，把沙漠的市政工程记在怪兽名下。人类文明的血管，原是巨兽的隧道。
 **关键词**：talpascor / aqueducts
 **为什么这样写**：世界观的一记倒装——恐惧的对象竟是基础设施的作者；「did」的干脆让神话一步落成常识，为章末兽潮完成物种背书。
 **读者视角提示**：人类住在怪兽的工地里还嫌它危险——这个讽刺到章末会反过来咬人一口。
@@ -68,7 +68,7 @@ modified: "2026-11-06"
 **中文理解**：「你还要替她辩护多久——直到她伤透你的心吗？」Nikolas 厉声逼问，呼吸灼着 Julian 的脸颊。长矛在他背后亮得像第四颗太阳。友情的质问，站姿却是处刑。
 **关键词**：defend / fourth sun
 **为什么这样写**：关心以掠夺的姿态抵达——「fourth sun」的比喻让 jealousy 获得天文量级；问句本身是对的，问法本身是错的——本书最诚实的一次失态。
-**读者视角提示**：第四颗太阳——三 suns 的世界观里，爱成了第四颗。记住这个比喻的 temperatur。
+**读者视角提示**：第四颗太阳——三 suns 的世界观里，爱成了第四颗。记住这个比喻的 temperature。
 
 > **原句 9:** "You love her, and it’s going to kill you.” Julian weakly shook his head and Nikolas cradled it like Taesia had in the dream. “It’s going to kill us all."
 
