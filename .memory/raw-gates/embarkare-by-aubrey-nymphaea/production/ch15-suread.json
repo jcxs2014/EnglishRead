@@ -1,0 +1,67 @@
+{
+ "book": "embarkare-by-aubrey-nymphaea",
+ "chapter": "ch15",
+ "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch15_chapter_15.txt",
+ "facts": [
+  {
+   "fact": "首晚开工：客满为患（水族要水、暗影点餐、蛇发夫妇、羊男小费）——恐慌时她远程缩小炉火、开窗放风",
+   "anchor": "willing them to shrink",
+   "start": 6976,
+   "end": 6998
+  },
+  {
+   "fact": "农夫桌情报：庄稼全毁、怪物赶不走——\"没人知道它们从哪来，我押在北方。那里有情况，像在找什么东西\"",
+   "anchor": "I’d put all my coin on the north.",
+   "start": 6381,
+   "end": 6414
+  },
+  {
+   "fact": "Gerrick 独坐窗台盯着她——不笑不挥手，onyx 眼冷如石头；干树仙搭讪他也不理会",
+   "anchor": "Sitting alone on the window ledge along a far wall was Gerrick.",
+   "start": 8029,
+   "end": 8092
+  },
+  {
+   "fact": "酒吧 travelers 情报：Vasara 派出成打怪物找\"年轻女巫\"——Cecilia 之女、超级强大；悬赏翻倍",
+   "anchor": "“Vasara wants her. Alive if possible.”",
+   "start": 10222,
+   "end": 10260
+  },
+  {
+   "fact": "后巷恐慌发作；Quentin 手语：必须立刻找到洞的位置——她供出\"北方”",
+   "anchor": "“He said we need to find the location of the hole now.”",
+   "start": 11384,
+   "end": 11439
+  },
+  {
+   "fact": "回房惊魂：阳台门竟开着——黑影把她钉在门上捂嘴",
+   "anchor": "She was sure she had locked the balcony doors",
+   "start": 13332,
+   "end": 13377
+  },
+  {
+   "fact": "Gerrick 摊牌：他知道她是元素女巫（目睹炉火缩小）；喉间手劲、眼睛金光一闪",
+   "anchor": "“Elemental witch, then?”",
+   "start": 14081,
+   "end": 14105
+  },
+  {
+   "fact": "威胁底牌：他本可把她卖给 snavellers 换大钱——\"这是我的营生”；但他没打算",
+   "anchor": "“They are when I could turn you into the snavellers and earn a large amount of coin.",
+   "start": 15369,
+   "end": 15453
+  },
+  {
+   "fact": "名字交易后续：他知道她的名字（别人告诉的不算数）——他要她\"自愿给的”东西",
+   "anchor": "I want something willingly given by you.”",
+   "start": 15862,
+   "end": 15903
+  },
+  {
+   "fact": "尾声耳语：追你才有乐趣——\"你的秘密，女巫，在我这里是安全的”",
+   "anchor": "Your secret, witch, is safe with me.",
+   "start": 16325,
+   "end": 16361
+  }
+ ]
+}
