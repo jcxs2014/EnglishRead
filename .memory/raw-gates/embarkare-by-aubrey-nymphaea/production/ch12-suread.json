@@ -4,63 +4,75 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch12_chapter_12.txt",
  "facts": [
   {
-   "fact": "骑兽夜行：Rayner 纠正\"生物 vs 怪物\"——生物天生可选择，怪物由恶意与怨毒造出",
-   "anchor": "Creatures, like these two, are natural.",
-   "start": 989,
-   "end": 1028
+   "fact": "逃离 Avernon：兄弟说服她骑上“怪物”夜行数小时",
+   "anchor": "They had fled the town immediately after retrieving her things, and somehow the brothers convinced her",
+   "start": 181,
+   "end": 283
   },
   {
-   "fact": "兽种名 kitzek：极度亲人，对人类的忠诚仅次于对彼此",
-   "anchor": "The kitzek are exceptionally affectionate",
+   "fact": "生物/怪物之分：生物天生可选择非天生恶；怪物由恶意造",
+   "anchor": "They’re born like the rest of us, with the ability to learn and choose a life they want. They’re not inherently evil.",
+   "start": 1029,
+   "end": 1146
+  },
+  {
+   "fact": "兽种 kitzek：极亲人，忠诚仅次于对彼此",
+   "anchor": "The kitzek are exceptionally affectionate,” he continued, rubbing a hand down the dark fur",
    "start": 1439,
-   "end": 1480
+   "end": 1529
   },
   {
-   "fact": "巨橡树（基座比木屋大）：神秘 aura 里雨穿叶响，她不再觉得冷——心里某道裂缝愈合了一点",
-   "anchor": "a small crack inside her healed",
-   "start": 2948,
-   "end": 2979
+   "fact": "手语拼名：Q-U-E-N-T-I-N=哑巴哥哥；蓝眼弟弟 Rayner",
+   "anchor": "We’re pleased to meet you, Andra. I’m Rayner.",
+   "start": 5951,
+   "end": 5996
   },
   {
-   "fact": "自己缝合腹部伤：不用愈合药水——这伤口夺走了什么又唤醒了什么，用药水抚平等于侮辱新生的火",
-   "anchor": "This wound stripped her entirely of something vital within her and awoke another.",
-   "start": 3997,
-   "end": 4078
+   "fact": "自缝腹伤喝最后一瓶金色镇痛药水——库存见底",
+   "anchor": "Assessing her stock, she realized that was the last of the glorious pain-relieving tonic she had brought with her",
+   "start": 3382,
+   "end": 3495
   },
   {
-   "fact": "名字揭晓：哑巴哥哥 Quentin（榛色眼、铜肤、双胞胎），蓝眼弟弟 Rayner；以手语拼写互相介绍",
-   "anchor": "“‘Q. U. E. N. T. I. N.’”",
-   "start": 5207,
-   "end": 5231
+   "fact": "身世：十岁父母病亡买不起药；数月后村庄遭袭 Quentin 被割舌",
+   "anchor": "Mom and dad both got sick when we were ten, and we didn’t have money for healing tonics.",
+   "start": 7781,
+   "end": 7869
   },
   {
-   "fact": "身世：父母病亡（十岁）、盗匪洗劫村庄割掉 Quentin 舌头弃他们等死——Rayner 抱着流血的双胞胎兄弟",
-   "anchor": "I held my twin brother in my arms outside our cottage as he bled out.",
+   "fact": "Rayner 抱着流血的双胞胎弟弟——全村无一人幸免",
+   "anchor": "I held my twin brother in my arms outside our cottage as he bled out. It was agony for both of us.",
    "start": 9014,
-   "end": 9083
+   "end": 9112
   },
   {
-   "fact": "神秘救人者：太亮看不清全貌，女人止血、恢复体力后消失——来历不明的光系救星",
-   "anchor": "It was too bright, and I never saw her entirely",
-   "start": 10177,
-   "end": 10224
+   "fact": "神秘光系女人：止血+恢复体力后消失——来历不明",
+   "anchor": "She stopped the bleeding and restored his strength. And then she was gone.",
+   "start": 10270,
+   "end": 10344
   },
   {
-   "fact": "兄弟的使命：多年巡走南方各地找斗兽场放生\"生物\"；\"最近几个月怪物暴增\"",
-   "anchor": "looking for fights and setting the creatures free",
-   "start": 11307,
-   "end": 11356
+   "fact": "南林十六年没见过境内怪物——数周前她的村庄遭袭",
+   "anchor": "The Southern Woods hasn’t seen a monster inside its territory in sixteen years.",
+   "start": 13776,
+   "end": 13855
   },
   {
-   "fact": "她交底：女巫继承人身份、Vasara 索债——冬至月升前不到东北海岸就每天杀一村民（也怕被卖给 snavellers）",
-   "anchor": "Vasara will kill someone from my village every day until I do.",
-   "start": 18593,
-   "end": 18655
+   "fact": "怪物之“洞”传闻——兄弟打算北上查证",
+   "anchor": "This is going to sound batshit crazy, but there’s been talk of some sort of hole that the monsters are coming from.",
+   "start": 16741,
+   "end": 16856
   },
   {
-   "fact": "尾声：Rayner 说怪物从某个\"洞\"里来的传闻要去查证；她请求同行消灭怪物源头——Rayner 答\"是的，一起封上”",
-   "anchor": "“We’ll find the hole and we’ll close it. Together.”",
-   "start": 18935,
+   "fact": "她交底全部：继承人身份+Vasara 索债+冬至月升期限",
+   "anchor": "If I don’t show up in the Northeastern Shores by moonrise on winter solstice, Vasara will kill someone from my village",
+   "start": 18515,
+   "end": 18633
+  },
+  {
+   "fact": "章末定音：“是的——我们一起找到它并封上”",
+   "anchor": "Yes,” Rayner repeated. “We’ll find the hole and we’ll close it. Together.”",
+   "start": 18912,
    "end": 18986
   }
  ]

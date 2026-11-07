@@ -4,61 +4,73 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch01_chapter_1.txt",
  "facts": [
   {
-   "fact": "开场：树精扔橡果砸中她头顶，她仰头瞪着树枝上笑作一团的树精",
+   "fact": "章首：树精朝 Andra 扔橡子取笑，她接住扔回去又被撒一头树叶，气骂",
    "anchor": "Andra massaged the tender spot on top of her head, glaring up at the mischievous creatures in the branches above.",
    "start": 48,
    "end": 161
   },
   {
-   "fact": "她爬在橡树上伸手进树洞摘药草（mussou plant），Lucas 在树下等她",
-   "anchor": "Careful not to disrupt the luminous tree growths, Andra reached her hand into the small opening of the oak tree hollow.",
-   "start": 1149,
-   "end": 1268
+   "fact": "Lucas 是她表亲（cousin）首次点明；这样的下跳她做过上千次",
+   "anchor": "as she hit the earth in front of her cousin. Something she’d done a thousand times before.",
+   "start": 2320,
+   "end": 2410
   },
   {
-   "fact": "Lucas 说父亲要他帮忙备庆典——猎南方林子见过的最大野猪；他早餐得简短",
+   "fact": "Lucas 说父亲要他帮忙筹备庆典、猎南方林最大野猪，早餐须缩短",
    "anchor": "My father asked me to help him prepare for the celebration tonight. Something about hunting the largest boar the Southern Woods has ever seen.",
    "start": 2074,
    "end": 2216
   },
   {
-   "fact": "Lucas 说村民庆祝光魔法的胜利，而他悼念母亲；Andra 回忆母亲被陌生男人咬颈杀死的那晚",
+   "fact": "纪念日双重含义：村民庆祝光魔法胜利，Andra 悼念母亲",
    "anchor": "While the villagers celebrate light magic’s victory, I mourn my mother.",
    "start": 4079,
    "end": 4150
   },
   {
-   "fact": "村庄遇袭后 Bernice 成了 Andra 生活中的固定存在：送面包果酱、火边给她编辫子、从不逼她开口",
-   "anchor": "After the attack, Bernice made herself a permanent part of Andra’s life.",
-   "start": 6997,
-   "end": 7069
+   "fact": "回忆遇袭夜：陌生男人獠牙咬进母亲脖颈——母亲遇害来历",
+   "anchor": "A strange man with greedy hands and an insatiable appetite sinking his fangs into her mother’s neck.",
+   "start": 4443,
+   "end": 4543
   },
   {
-   "fact": "她给小女孩 Lydia 用了比自己大多数 tonic 都贵的蓝色愈合药水，甘愿",
-   "anchor": "This tonic was worth a higher amount of coin than most of her tonics, but she would gladly use it to help this child.",
-   "start": 11550,
-   "end": 11667
+   "fact": "Andra 徒手元素魔法展示（火星烧黑 Lucas 裤子）",
+   "anchor": "She huffed, sending sparks from her fingers onto his trousers, where small black marks appeared.",
+   "start": 3486,
+   "end": 3582
   },
   {
-   "fact": "她让生命之力流进 Lydia 压扁的花，茎重新立起、花瓣重新亮起",
+   "fact": "Bernice 自 Lucas 出生起就认识他；袭击后长期照拂 Andra",
+   "anchor": "Lucas, I have known you since the day you were born. How many times do I have to tell you to call me Bernice?",
+   "start": 8462,
+   "end": 8571
+  },
+  {
+   "fact": "市集路上遇约五岁女孩 Lydia，摔伤前臂流血",
+   "anchor": "She looked around five years of age, with untidy hair and black-stained feet to match.",
+   "start": 9554,
+   "end": 9640
+  },
+  {
+   "fact": "高价天蓝愈合药水顷刻闭合伤口；Lydia 称她 my hero",
+   "anchor": "In a matter of moments, the wound was closed, leaving only a thin pink line on Lydia’s arm.",
+   "start": 12063,
+   "end": 12154
+  },
+  {
+   "fact": "生命之力流入压扁的花束复原本——把摔坏的礼物复原",
    "anchor": "Life flowed through her hands and into the flowers, stems straightening and petals brightening once more.",
    "start": 13115,
    "end": 13220
   },
   {
-   "fact": "Lydia 母亲 Joan 认识她：她曾给 Joan 丈夫 William 开过治臀部皮疹的药",
-   "anchor": "It is. I believe you gave my husband, William, a tonic for a rather bad rash on his backside once.",
-   "start": 14334,
-   "end": 14432
+   "fact": "集市配药指导（混猪血、每晚月出涂、四天疹消）；备货两周近售空",
+   "anchor": "Mix this with pig’s blood and rub it on the tender skin every evening at moonrise. The rash will clear up within four days.",
+   "start": 15616,
+   "end": 15739
   },
   {
-   "fact": "她从未踏出林子边界，心却渴望旅行、见识大陆与学习魔法，只能借书与旅人代偿",
-   "anchor": "She never ventured past the borders of the woods, though her heart longed to travel.",
-   "start": 16844,
-   "end": 16928
-  },
-  {
-   "fact": "市集收尾时她感到被注视：树林边缘站着黑兜帽身影，胸口拉力引她走近；鸡栏绳松开闹场后身影已消失",
+   "fact": "章末悬念：黑兜帽身影静立树下盯着她，鸡群骚乱后消失",
    "anchor": "A being in a black hood stood silently amongst the trunks, watching her.",
    "start": 18347,
    "end": 18419

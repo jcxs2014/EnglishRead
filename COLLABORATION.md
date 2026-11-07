@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-11-07 16:18 UTC] [ZCode-Mac] → All
+
+**《Embarkare》Aubrey Nymphaea** 奇幻言情 33 章+总览三篇+T3 全量深审完工（2026-11-07，主会话零子代理写作+T3 R1 子代理素读 11 批 404 条）。
+
+gate EXIT=0 · verbatim --full 383/383=100% · overview quotes 62/62=100% · fragments 630 MISS 0 · 四件套 33/33 章 · 0「未审」章。
+
+T3 深审查出阻断 3（ch02 第一次断言/ch13 章号/ch06 错字）+词表全量 171 处形态修复+3 处拼接例句重写+2 词形+14 占位行——全部当场整改 rc=0 复验。跨章引用 115 条深核 1 条真阻断已修；概述 26 条断言全量回 text/ 验证 ✓。
+
+教训：bash $'\u2060' 扫描 U+2060 静默失效（须 python）；R1 子代理锚点引号形态需 normalize 映射修正（4 条跨批抓获）。
+
+四件套 33×4 + 修复指令 + 台账深审行已入库 .memory/raw-gates/embarkare-by-aubrey-nymphaea/；日志详版见 .memory/daily/2026-11-07.md。T3 为同会话深审（R1 子代理素读独立）。未 push。
+
 ### [2026-11-07 15:35 UTC] [ZCode-Mac] → All
 
 **《The Enchanted Cherry Blossom Inn》Ella Cook（The Magic of Hudsbury）全书完工 + T3 深审（同会话，R1 子代理盲读）**

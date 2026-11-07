@@ -4,61 +4,73 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch32_chapter_32.txt",
  "facts": [
   {
-   "fact": "指骨自愈：火焰逐指点燃——骨裂声与愈合同频；影缚遁逃",
-   "anchor": "With each crackle of flames the bones snapped and mended",
-   "start": 105,
-   "end": 161
+   "fact": "章首：逐根点燃手指——火焰治愈断骨暗影束缚逃离摔落",
+   "anchor": "Heart pounding in her ears, Andra ignited her fingertips one by one. With each crackle of flames",
+   "start": 36,
+   "end": 132
   },
   {
-   "fact": "力量哲学定稿：她不只是“生火”——她就是火",
-   "anchor": "until she was not just producing fire, she was fire.",
-   "start": 1339,
-   "end": 1391
+   "fact": "连发两团火球直击 Vasara——银发发梢冒烟",
+   "anchor": "Forming two balls of flames, she released them one after the other, straight at Vasara.",
+   "start": 1505,
+   "end": 1592
   },
   {
-   "fact": "火圈立威：白热力量压入手臂——火环围住她/Vasara/Gerrick 三人，谁也进不来",
-   "anchor": "a broad circle of flames surrounded the three of them.",
-   "start": 2120,
-   "end": 2174
+   "fact": "沸腾之雨：聚拢水汽凝穹顶烧开——红眼乌鸦烫死落地",
+   "anchor": "before they could leave the ground, boiling rain poured down in sheets, their bodies left twitching where they lay.",
+   "start": 6943,
+   "end": 7058
   },
   {
-   "fact": "四系合璧：借破窗落雪放大水汽——沸腾之雨成片浇下，红眼乌鸦落地抽搐",
-   "anchor": "boiling rain poured down in sheets",
-   "start": 6979,
-   "end": 7013
-  },
-  {
-   "fact": "人质反转：Vasara 拿骨刃抵住 Gerrick 喉咙——他眼里没有恐慌只有爱意，眨眼示意“没事”",
-   "anchor": "the bone blade pressed firmly to his throat.",
-   "start": 7468,
+   "fact": "人质反转：Vasara 押 Gerrick 用骨刃抵喉割出血线——喝令撤火圈",
+   "anchor": "He was kneeling once more, and his head was bent back with the bone blade pressed firmly to his throat.",
+   "start": 7409,
    "end": 7512
   },
   {
-   "fact": "黑根爆发：比她大腿还粗的黑根破地缠住 Vasara——魔法与她合一（用她的血供能）",
-   "anchor": "This magic was different. It was endless and powerful",
-   "start": 8733,
-   "end": 8786
+   "fact": "黑根爆发：粗过大腿的藤根破地缠死 Vasara——魔法与她合而为一以她的血为燃料",
+   "anchor": "Andra’s magic exploded as black roots thicker than her thighs erupted through the floor.",
+   "start": 8395,
+   "end": 8483
   },
   {
-   "fact": "处刑：她拾起骨刃——“敢举他的骨头！”“Edgeron？替我问好”——一刀入心，Vasara 倒地",
-   "anchor": "“Give him my best.”",
-   "start": 9666,
-   "end": 9685
+   "fact": "处刑：拾骨刃\"Edgeron？替我问好\"——刺入 Vasara 心脏杀死她",
+   "anchor": "Andra screamed and plunged the blade into the dark magic wielder's heart.",
+   "start": 9688,
+   "end": 9761
   },
   {
-   "fact": "疗愈后的拒斥：不许他碰——放过你≠原谅你；翡翠触肤涌欲望“如老友相邀”",
-   "anchor": "“I may have let you live, but that doesn’t mean I want anything to do with you.”",
-   "start": 9935,
-   "end": 10015
+   "fact": "骨刃刺穿翡翠——力量将她击飞仰面倒地宝石开裂",
+   "anchor": "Inhaling deeply, Andra shoved the blade through the emerald.",
+   "start": 10816,
+   "end": 10876
   },
   {
-   "fact": "意识初见：苍白高挑、黑发红眼、领口黑纹、歪嘴一笑——Edgeron 亲自打招呼（声音如天鹅绒）",
-   "anchor": "It’s good to finally meet you, Andra.",
-   "start": 11482,
-   "end": 11519
+   "fact": "意识空间：苍白黑发男子歪嘴一笑眨眼——\"终于见到你了\"（Edgeron 亲自打招呼）",
+   "anchor": "A lopsided smile formed on his lips as slithering black lines poked from under his collar, and he winked.",
+   "start": 11374,
+   "end": 11479
   },
   {
-   "fact": "自我为宿主：为救 Gerrick（翡翠毁他即死）——割开胸骨把翡翠塞进胸腔；“Until my last breath”回敬他的遗言；黑暗吞没她",
+   "fact": "男声警告：翡翠若死 Gerrick 也会像怪物们一样死——Gerrick 捂胸倒下",
+   "anchor": "He will die like the others if the emerald dies.",
+   "start": 12763,
+   "end": 12811
+  },
+  {
+   "fact": "指点：宝石破损需一个宿主——\"把宝石带到血那里去否则他会死\"",
+   "anchor": "With such damage, it needs a host, little one.",
+   "start": 13406,
+   "end": 13452
+  },
+  {
+   "fact": "Nelveen 赶到按胸止血转述 Quentin 警讯：各处通道打开怪物遍地必须撤",
+   "anchor": "“Quentin says all sorts of gates are opening. There are monsters everywhere.” Nelveen was terrified. “We have to run.”",
+   "start": 14517,
+   "end": 14635
+  },
+  {
+   "fact": "章末：剖胸骨长口把翡翠塞进胸腔作宿主——血涌满喉咙；Gerrick 复活抱住她\"直到我最后一口气\"后黑暗吞没",
    "anchor": "In one swift movement, Andra cut a long line down the length of her sternum and shoved the emerald inside.",
    "start": 14865,
    "end": 14971

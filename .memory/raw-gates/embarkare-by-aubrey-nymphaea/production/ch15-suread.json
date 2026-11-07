@@ -4,64 +4,76 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch15_chapter_15.txt",
  "facts": [
   {
-   "fact": "首晚开工：客满为患（水族要水、暗影点餐、蛇发夫妇、羊男小费）——恐慌时她远程缩小炉火、开窗放风",
-   "anchor": "willing them to shrink",
-   "start": 6976,
-   "end": 6998
+   "fact": "酒保首夜：客流如暴民；水族要水/暗影点餐/蛇发夫妇/羊男小费",
+   "anchor": "“Gyor! We need another pitcher of mead and two more loaves of bread!” Andra yelled to the kitchens",
+   "start": 33,
+   "end": 131
   },
   {
-   "fact": "农夫桌情报：庄稼全毁、怪物赶不走——\"没人知道它们从哪来，我押在北方。那里有情况，像在找什么东西\"",
-   "anchor": "I’d put all my coin on the north.",
+   "fact": "Gyor 吩咐：每小时给鳃客人送两大桶淡水其余勿扰",
+   "anchor": "deliver two large barrels of fresh water to this group every hour and to not disturb them otherwise.",
+   "start": 1635,
+   "end": 1735
+  },
+  {
+   "fact": "蛇发女子越兴奋蛇越活跃——缠住男伴手臂拉更近",
+   "anchor": "Black snakes ran the length of her nearly bare back, slithering calmly across her glittering skin.",
+   "start": 3993,
+   "end": 4091
+  },
+  {
+   "fact": "萨提尔首领大方打赏——她愿卖笑讨小费；水囊见底",
+   "anchor": "She needed tips for their supplies, and she was willing to flirt a little to get them.",
+   "start": 5155,
+   "end": 5241
+  },
+  {
+   "fact": "农夫情报：庄稼全毁怪物赶不走——押北方“在找什么东西”",
+   "anchor": "I’d put all my coin on the north. Something’s going on up there. Looking for something I suppose.”",
    "start": 6381,
-   "end": 6414
+   "end": 6479
   },
   {
-   "fact": "Gerrick 独坐窗台盯着她——不笑不挥手，onyx 眼冷如石头；干树仙搭讪他也不理会",
+   "fact": "Gerrick 独坐窗台盯着她不笑不挥手；dryad 搭讪他不理会",
    "anchor": "Sitting alone on the window ledge along a far wall was Gerrick.",
    "start": 8029,
    "end": 8092
   },
   {
-   "fact": "酒吧 travelers 情报：Vasara 派出成打怪物找\"年轻女巫\"——Cecilia 之女、超级强大；悬赏翻倍",
-   "anchor": "“Vasara wants her. Alive if possible.”",
-   "start": 10222,
-   "end": 10260
+   "fact": "酒吧情报：成打怪物搜“年轻女巫”——Cecilia 之女、要活捉",
+   "anchor": "“...heard she’s sendin’ ‘em out by the dozens in search of a young witch,” the first one said in a thick accent.",
+   "start": 9813,
+   "end": 9925
   },
   {
-   "fact": "后巷恐慌发作；Quentin 手语：必须立刻找到洞的位置——她供出\"北方”",
-   "anchor": "“He said we need to find the location of the hole now.”",
-   "start": 11384,
-   "end": 11439
+   "fact": "关键情报补全：超级强大、Vasara 要活的、赏金翻倍、派最好的猎手",
+   "anchor": "Rumors are Cecilia, the light witch who killed Edgeron a shit ton o’ years ago, had a daughter.",
+   "start": 10080,
+   "end": 10175
   },
   {
-   "fact": "回房惊魂：阳台门竟开着——黑影把她钉在门上捂嘴",
-   "anchor": "She was sure she had locked the balcony doors",
+   "fact": "后巷恐慌发作——Quentin 手语“必须马上找洞”她供出北方",
+   "anchor": "“‘By the dozens’?” Andra’s vision edged with darkness. “I can’t fight dozens of monsters. Hell, I can’t even fight one.”",
+   "start": 10898,
+   "end": 11018
+  },
+  {
+   "fact": "回房惊魂：阳台门竟开着——黑影把她钉门捂嘴",
+   "anchor": "She was sure she had locked the balcony doors before her shift.",
    "start": 13332,
-   "end": 13377
+   "end": 13395
   },
   {
-   "fact": "Gerrick 摊牌：他知道她是元素女巫（目睹炉火缩小）；喉间手劲、眼睛金光一闪",
-   "anchor": "“Elemental witch, then?”",
+   "fact": "Gerrick 摊牌：他知道她是元素女巫（目睹控火）；喉间手劲、眼睛金光一闪",
+   "anchor": "“Elemental witch, then?” Gerrick’s voice rumbled in the darkness.",
    "start": 14081,
-   "end": 14105
+   "end": 14146
   },
   {
-   "fact": "威胁底牌：他本可把她卖给 snavellers 换大钱——\"这是我的营生”；但他没打算",
-   "anchor": "“They are when I could turn you into the snavellers and earn a large amount of coin.",
-   "start": 15369,
-   "end": 15453
-  },
-  {
-   "fact": "名字交易后续：他知道她的名字（别人告诉的不算数）——他要她\"自愿给的”东西",
-   "anchor": "I want something willingly given by you.”",
-   "start": 15862,
-   "end": 15903
-  },
-  {
-   "fact": "尾声耳语：追你才有乐趣——\"你的秘密，女巫，在我这里是安全的”",
-   "anchor": "Your secret, witch, is safe with me.",
-   "start": 16325,
-   "end": 16361
+   "fact": "尾声耳语：本可卖她换大钱“这是我的营生”却宣布秘密安全——报偿要她“自愿给”",
+   "anchor": "where’s the fun if I can’t chase you a little longer? Your secret, witch, is safe with me.”",
+   "start": 16271,
+   "end": 16362
   }
  ]
 }

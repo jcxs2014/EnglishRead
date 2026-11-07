@@ -4,63 +4,75 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch13_chapter_13.txt",
  "facts": [
   {
-   "fact": "客栈雨中等候：金绿兽从背后用皮毛裹住她取暖——几天前她还怕它们是嗜血怪物",
-   "anchor": "Strange how in just a couple of days",
-   "start": 1187,
-   "end": 1223
+   "fact": "章首：雨中等客栈——兄弟进去订房她在外面等最安全",
+   "anchor": "Across the large clearing in front of her was the Traveler’s Inn, where Rayner and Quentin had disappeared ages ago.",
+   "start": 162,
+   "end": 278
   },
   {
-   "fact": "起名喜剧：William/Thomas/John 全被兽用\"后退+俯身对视\"否决——她偏不退让，挺胸回瞪",
-   "anchor": "“What about William?”",
-   "start": 1845,
-   "end": 1866
-  },
-  {
-   "fact": "兽名自己浮进她脑海如丝：\"Torgil\"——额贴额确认，暖意与\"安全\"淹没她",
-   "anchor": "The name floated through her mind like silk",
+   "fact": "兽名 Torgil 如丝绸浮入脑海——她轻念，兽额头抵额回应（Safe and warm. Protected）",
+   "anchor": "The name floated through her mind like silk, barely a whisper before it was gone.",
    "start": 2405,
-   "end": 2448
+   "end": 2486
   },
   {
-   "fact": "Quentin 手语安慰（Rayner 翻译）：你是灾变世界里的光——她哭答\"我只觉得破碎”",
-   "anchor": "You are a light in an otherwise cataclysmic world",
-   "start": 5929,
-   "end": 5978
+   "fact": "Quentin 特定节奏敲门、Rayner 持毯迎入——后门暗梯避免被客栈客人看到",
+   "anchor": "Quentin rapped on the door in a specific sequence, and Rayner ushered them in with a blanket at the ready.",
+   "start": 3678,
+   "end": 3784
   },
   {
-   "fact": "Quentin 的碎而立论：被击碎没关系，正是在捡起碎片拼回的过程里我们找到力量；额头一吻",
-   "anchor": "it is in the process of picking ourselves up",
-   "start": 6404,
-   "end": 6448
+   "fact": "Rayner：酒馆满员是打听“洞”情报的理想位置",
+   "anchor": "“The tavern is packed to the brim. It’s an ideal location to pick up any new information about the hole,” Rayner said.",
+   "start": 4365,
+   "end": 4483
   },
   {
-   "fact": "她要报答被拒：\"我们现在是团队了\"；兄弟退出让她吃饭休息",
-   "anchor": "“There’s no need to repay us. We’re a team now.”",
-   "start": 6738,
+   "fact": "Quentin 手语（Rayner 转述）：你是灾变世界里的光——她哭答“我只觉得破碎”",
+   "anchor": "‘You are a light in an otherwise cataclysmic world, Andra. It has been my honor to have spent this time with you.’",
+   "start": 5928,
+   "end": 6042
+  },
+  {
+   "fact": "Quentin 碎而立论：被击碎没关系——捡起碎片拼回的过程里我们找到力量；额头一吻",
+   "anchor": "“‘That asshole did unspeakable things to you, and it’s okay to feel the weight of that.",
+   "start": 6217,
+   "end": 6304
+  },
+  {
+   "fact": "她要报答被拒：“我们现在是团队了”；兄弟退出让她休息",
+   "anchor": "“Andra,” Rayner spoke. “There’s no need to repay us. We’re a team now.”",
+   "start": 6715,
    "end": 6786
   },
   {
-   "fact": "独处后心理堤坝崩塌：嚎哭——Jasper 是人不是暗兽，却差点毁了她（某种意义上毁成了）",
-   "anchor": "Jasper had been a man, not a monster of darkness",
+   "fact": "独处后堤坝崩塌：嚎哭——Jasper 是人不是暗兽却差点毁了她",
+   "anchor": "Jasper had been a man, not a monster of darkness, and he had nearly destroyed her.",
    "start": 7656,
-   "end": 7704
+   "end": 7738
   },
   {
-   "fact": "重建自我叙事：伟大藏于小事（新友谊/战胜不可能/为他人置安危）；hope 是活下去的唯一理由",
-   "anchor": "maybe it was in the simple things that greatness could be brought to pass.",
-   "start": 8113,
-   "end": 8187
+   "fact": "两三天噩梦反复尖叫惊醒靠数数平复——之后不敢再睡",
+   "anchor": "Countless times she awoke screaming, the bedding a tangled mess around her as she slowly counted to calm her breathing.",
+   "start": 9106,
+   "end": 9225
   },
   {
-   "fact": "阳台惊魂后隔壁传来低沉嗓音——猎人裸着上身晃着琥珀酒懒洋洋现身：\"不想让你嗅树时摔死”",
-   "anchor": "“Careful, love.”",
+   "fact": "阳台惊魂后隔壁低沉嗓音——猎人懒洋洋现身晃着琥珀酒",
+   "anchor": "“Careful, love.” A deep voice came from the balcony next to hers.",
    "start": 11195,
-   "end": 11211
+   "end": 11260
   },
   {
-   "fact": "她骂他\"烂猎人\"（村被袭人死了）——他反问：你怎么知道那只就是我猎的目标；\"最危险的目标不一定给最多的钱”，被她勒令别叫 love",
-   "anchor": "“how do you know that monster was the monster I was hunting?”",
-   "start": 13793,
+   "fact": "她骂他“烂猎人”（村被袭人死了）——他反问“你怎么知道那只就是我猎的目标”",
+   "anchor": "The monster you were supposed to be hunting in the Southern Woods? It attacked my village.",
+   "start": 13344,
+   "end": 13434
+  },
+  {
+   "fact": "反问+“最危险的目标不一定给最多的钱”——被她勒令别叫 love；她回房纳闷他在干什么",
+   "anchor": "“Tell me,” he began, “how do you know that monster was the monster I was hunting?”",
+   "start": 13772,
    "end": 13854
   }
  ]

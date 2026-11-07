@@ -4,64 +4,64 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch24_chapter_24.txt",
  "facts": [
   {
-   "fact": "隧道中途被 Nelveen 抛下：面具被她亲手系上——\"别问，走到通道尽头，他在等你”",
-   "anchor": "He’s waiting for you there.",
-   "start": 1604,
-   "end": 1631
+   "fact": "章首：穿上黑蕾丝礼服——深 V+蕾丝袖绕中指+薄纱层裙；从未穿过如此精致",
+   "anchor": "A lacy bodice plunged into a deep v, exposing Andra’s long neck and ample cleavage.",
+   "start": 37,
+   "end": 120
   },
   {
-   "fact": "推门见天井：四壁高墙、石缝野草、垂柳压道——只属于星空的废弃庭院",
-   "anchor": "A large, square courtyard expanded in front of her",
-   "start": 3227,
-   "end": 3277
+   "fact": "Nelveen 暗道中途告辞：\"不能剧透——走到尽头，他在等你\"；亲吻脸颊离开",
+   "anchor": "I was asked not to spoil anything. Stay quiet and walk to the end of this passage.",
+   "start": 1521,
+   "end": 1603
   },
   {
-   "fact": "他换黑夹克赴约——眉间刻痕全消、肩松、含笑：\"Andra\"喊得发哽",
-   "anchor": "Gone were the harsh lines between his eyes",
-   "start": 4159,
-   "end": 4201
+   "fact": "星夜庭院：Gerrick 从阴影现身——黑夹克皮靴束发眉间戾气尽消含笑看她",
+   "anchor": "Gerrick stepped from the shadows, and Andra felt the air whoosh from her lungs.",
+   "start": 3803,
+   "end": 3882
   },
   {
-   "fact": "面具的答案：被任何人看见都不安全——指尖抚过蕾丝面罩、目光从领口读到裙摆",
-   "anchor": "“Is that what the mask is for?”",
-   "start": 4632,
-   "end": 4663
+   "fact": "脱夹克裹她防冻——\"我妈教养得好\"；她追问母亲他绕开",
+   "anchor": "“Why don’t you have a cloak?” he asked, immediately removing his jacket.",
+   "start": 5202,
+   "end": 5274
   },
   {
-   "fact": "脱夹克裹她防冻——\"我妈把我教养得很好”；她追问母亲，他绕开",
-   "anchor": "“I may be every bit the brute you accuse me of, but my mother raised me well.”",
-   "start": 5818,
-   "end": 5896
+   "fact": "母亲的时态泄露：她庆幸\"你有她\"——他答\"曾经有过\"（I was, too）",
+   "anchor": "My mother, however, is the one bright spot in an otherwise dark past.",
+   "start": 6341,
+   "end": 6410
   },
   {
-   "fact": "母亲的时态泄露：她庆幸\"你有她\"——他答\"曾经有过\"（过去式！母亲已不在）",
-   "anchor": "“I was, too.”",
-   "start": 6441,
-   "end": 6454
-  },
-  {
-   "fact": "道歉只道歉后半：接住你永远不悔，悔的是之后的口气太凶",
-   "anchor": "“I will always catch you, Andra, and I will never apologize for it.",
+   "fact": "道歉只道歉后半：接住你永远不悔——悔的是之后的凶",
+   "anchor": "“I will always catch you, Andra, and I will never apologize for it. I apologize for being harsh with you after.”",
    "start": 7103,
-   "end": 7170
+   "end": 7215
   },
   {
-   "fact": "初见市场日的真相：他愤怒于她太美太纯、愤怒于自己\"得不到你”",
-   "anchor": "I was angry that I couldn’t have you.",
-   "start": 9425,
+   "fact": "初见市场日真相：四个 angry——\"我得不到你\"是最深的",
+   "anchor": "I was angry that you’re so perfectly you. I was angry that I couldn’t have you.",
+   "start": 9383,
    "end": 9462
   },
   {
-   "fact": "双元素首成：气泡包火苗→悬浮光球×12——她绕庭造星，他满面纯喜",
-   "anchor": "a dozen floating orbs of flickering light shone around them.",
-   "start": 12524,
-   "end": 12584
+   "fact": "双元素首成：气泡包火苗不灭——悬浮光球×12 绕庭如星",
+   "anchor": "As the bubble engulfed the flame, it flickered and danced, though it never extinguished.",
+   "start": 12148,
+   "end": 12236
   },
   {
-   "fact": "她的自白：与他的亲密是全新的——从不曾有情感依附、信任与归属；他让她想战斗、想活着",
-   "anchor": "He made her want to fight. He made her want to live.",
-   "start": 17052,
-   "end": 17104
+   "fact": "初吻：他吻上她的唇她热烈回应——\"为什么我们否认了这么久\"",
+   "anchor": "Gerrick’s lips crashed into hers, and she returned his kiss with feverish delight.",
+   "start": 13781,
+   "end": 13863
+  },
+  {
+   "fact": "章末 cliffhanger：正要更进一步——远处传来尖叫声；亲密戛然而止",
+   "anchor": "Before he had the chance, screams sounded in the distance.",
+   "start": 17677,
+   "end": 17735
   }
  ]
 }

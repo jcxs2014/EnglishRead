@@ -4,64 +4,64 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch30_chapter_30.txt",
  "facts": [
   {
-   "fact": "Vasara 的“归还”：响指让 Lucas 尸体悬浮扭曲——四肢折断、下颌脱臼如提线木偶",
-   "anchor": "“I think it’s time to give them back.”",
-   "start": 2227,
-   "end": 2265
+   "fact": "章首：Vasara 打发 Bron 独留 Andra——她提谈判\"用自己换 Lucas 和 Rayner\"",
+   "anchor": "Andra watched through swollen eyes as Vasara relieved her henchman of his duties",
+   "start": 166,
+   "end": 246
   },
   {
-   "fact": "黑雾从他口中退出——尸体砸地：眼无神、皮腐烂、恶臭扑鼻；Lucas 早就死了",
-   "anchor": "a black vapor exited through his mouth",
+   "fact": "毁灭性问句：村庄几个月前就已被毁？——真假无法验证；她只补\"南方树林真能打\"",
+   "anchor": "Truly believe you could protect a village that was destroyed months ago?",
+   "start": 1247,
+   "end": 1319
+  },
+  {
+   "fact": "\"该归还了\"：弹指让 Lucas 尸体悬浮扭断——四肢逐一折断下颌脱臼如提线木偶",
+   "anchor": "Another snap of Vasara’s fingers had Lucas’s unconscious form rising upward through the frozen tunnel of stone",
+   "start": 2501,
+   "end": 2611
+  },
+  {
+   "fact": "黑雾从 Lucas 口中退出冲上塔顶——躯体砸落：眼无神皮腐恶臭；Lucas 早就死了",
+   "anchor": "a black vapor exited through his mouth and gathered in the cold space in front of him",
    "start": 3966,
-   "end": 4004
+   "end": 4051
   },
   {
-   "fact": "回放真相：袭击夜 Lucas 被爪穿腹、毒牙咬肩——临终喊她名字她没听见；“我爱你，表妹”",
-   "anchor": "sinking his teeth deep into Lucas’s shoulder.",
-   "start": 7641,
-   "end": 7686
+   "fact": "爬到 Lucas 身边——呕吐不止；\"Lucas was dead.\"躯体早已开始腐坏",
+   "anchor": "The stench surrounding him now made sense; his body was decomposing.",
+   "start": 10491,
+   "end": 10559
   },
   {
-   "fact": "交接仪式：从 Bernice 体内退出的黑雾钻进 Lucas 尸体——骨头归位、起身走进黑暗",
-   "anchor": "the black vapor that had inhabited Bernice’s body rush into Lucas’s.",
+   "fact": "强制回放记忆：袭村夜过去 Andra 风法无效——黑雾钻入 Bernice 体内（Bernice 掐喉说通牒）",
+   "anchor": "she was unsuccessful as the black vapor raced into Bernice’s body.",
+   "start": 6277,
+   "end": 6343
+  },
+  {
+   "fact": "记忆续：Lucas 箭无致命——爪穿腹+咬穿肩被甩上砖墙",
+   "anchor": "stabbing elongated claws through the center of Lucas’s abdomen, pulling Lucas close to him as he snarled in his face.",
+   "start": 7272,
+   "end": 7389
+  },
+  {
+   "fact": "真 Lucas 遗言：独自咳血喊 Andra 她没听见——\"对不起\"\"我爱你，cousin\"咽气",
+   "anchor": "“I love you, cousin,” Lucas whispered to the night.",
+   "start": 8673,
+   "end": 8724
+  },
+  {
+   "fact": "交接仪式：黑雾从 Bernice 尸体钻进 Lucas——骨复位走进黑暗；\"It hadn't been Lucas all along.\"",
+   "anchor": "the black vapor that had inhabited Bernice’s body rush into Lucas’s. His eyes opened, black and glaring",
    "start": 8917,
-   "end": 8985
+   "end": 9020
   },
   {
-   "fact": "全程对照：旅途中的 Lucas 越来越疏远、像个陌生人——从头到尾都不是他",
-   "anchor": "It hadn’t been Lucas all along.",
-   "start": 9993,
-   "end": 10024
-  },
-  {
-   "fact": "她的悼词：Lucas 死了但爱不死——钻进血管随心跳流动；“那份爱带着她走”",
-   "anchor": "That kind of love never died.",
-   "start": 10764,
-   "end": 10793
-  },
-  {
-   "fact": "残忍揭晓：假 Lucas 是 Vasara 的设计——“你需要点希望才撑得下去，蠢女孩”",
-   "anchor": "“You needed something to hold on to, stupid girl,”",
-   "start": 12079,
-   "end": 12129
-  },
-  {
-   "fact": "刑罚宣言：慢慢放干你——每次求饶就治好重来，榨干最后一丝魔法才结束",
-   "anchor": "I will heal you and start again,”",
-   "start": 12565,
-   "end": 12598
-  },
-  {
-   "fact": "死前走马灯：Gerrick 的眉间纹、吻与手——“他是一份礼物，是幸福可能的模样”",
-   "anchor": "Gerrick had been a gift.",
-   "start": 13584,
-   "end": 13608
-  },
-  {
-   "fact": "章末反转：Bron 退场、脚步声是她认得的——兜帽揭起、满脸悔意的 Gerrick：“对不起，女巫”",
-   "anchor": "“I’m so sorry, witch,” Gerrick said.",
-   "start": 16131,
-   "end": 16167
+   "fact": "章末：Gerrick 活着满脸悔意现身——\"I'm so sorry, witch\"",
+   "anchor": "He lowered his hood, and with regret etched into every crevice of his features, he looked at her.",
+   "start": 16031,
+   "end": 16128
   }
  ]
 }

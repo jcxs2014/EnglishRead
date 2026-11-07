@@ -4,64 +4,76 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch27_chapter_27.txt",
  "facts": [
   {
-   "fact": "帐篷惊险：脚步声逼近——她首次施展守护结界退敌（背上新增金纹）；Gerrick 问\"你干了什么\"",
+   "fact": "章首：帐篷疗伤——他侧腹重伤沉睡需一天左右；她指间捻药瓶准备下一剂",
+   "anchor": "the small vials of tonics she prepared for Gerrick. Soon she would wake him for his next dose.",
+   "start": 612,
+   "end": 706
+  },
+  {
+   "fact": "帐外脚步逼近——她首次施展守护结界退敌（背上新增金纹）",
    "anchor": "“Protective enchantment,” she whispered with a shrug.",
    "start": 1803,
    "end": 1856
   },
   {
-   "fact": "计划复述：Quentin/Nelveen 北上丘陵藏身——三天后在 Vasara 庄园北界制造骚动，他们提前一天潜入；\"这就是我们的全部”",
-   "anchor": "There seem to be hills in the distance that should give them shelter",
-   "start": 5530,
-   "end": 5598
+   "fact": "判断 Lucas 仍被留作诱饵——她甘愿自投罗网换他生机",
+   "anchor": "A trap she would willingly fall into if it meant a chance at Lucas’s survival.",
+   "start": 3552,
+   "end": 3630
   },
   {
-   "fact": "肉豆蔻勾出母亲：小时候烤小饼干——他把能塞的都塞进兜里才出门",
-   "anchor": "“She used to bake small cookies for me when I was a child",
-   "start": 7742,
-   "end": 7799
+   "fact": "Gerrick 醒来问昏了多久——两夜；已找到昆汀妮薇恩商定下一步",
+   "anchor": "“Two nights,” she responded, her voice sounding distant even to her as exhaustion settled in deep.",
+   "start": 5282,
+   "end": 5380
   },
   {
-   "fact": "纹身起源·夜：猎户之女的床——怪物破窗、从颈到腹剖开她；那是他第一次与人亲密",
-   "anchor": "it attacked the woman in the bed. She was gutted from neck to navel.",
-   "start": 11271,
+   "fact": "作战计划：三人后昆汀/妮薇恩北界制造骚动——她与 Gerrick 趁虚潜入提前一天占先机",
+   "anchor": "In three days’ time, they’ll set off a distraction along the northern border of Vasara’s estate, and we’ll infiltrate.",
+   "start": 5635,
+   "end": 5753
+  },
+  {
+   "fact": "否决潜入时罩结界：只成功过两次从未移动中施展——只能靠调虎离山",
+   "anchor": "“I have.” She sighed. “It’s too risky. I’ve only done it twice, and I’ve never pulled it off while moving.",
+   "start": 6054,
+   "end": 6160
+  },
+  {
+   "fact": "肉豆蔻勾出母亲：幼时烤小饼干他把口袋塞满才出门——\"母亲现在何处？\"\"说来复杂\"",
+   "anchor": "“I should say, the nutmeg reminds me of my mother.” His tone was softer now.",
+   "start": 7665,
+   "end": 7741
+  },
+  {
+   "fact": "纹身起源：初夜夜怪物破窗开膛猎户之女（自颈至脐）——他起身拔刀只差一瞬",
+   "anchor": "In the time it took me to rise and grasp a blade, it attacked the woman in the bed. She was gutted from neck to navel.",
+   "start": 11221,
    "end": 11339
   },
   {
-   "fact": "冤罪：猎户丧女迁怒——高热袭来，他醒来被锁进村里禁谷，髋上已现巨大黑纹",
-   "anchor": "his eyes narrowed and a fever seeped into my skin",
-   "start": 12042,
-   "end": 12091
+   "fact": "冤罪：猎人丧女袭来热病渗肤——醒来锁在村边禁谷，髋上已现黑玉纹身（纹身源自杀怪本身）",
+   "anchor": "When I awoke, I was chained in a valley at the edge of the village. A place banned to the villagers",
+   "start": 12291,
+   "end": 12390
   },
   {
-   "fact": "流放夜：雪地锁链——猎户宣判\"你做了选择，就死在你的选择里\"；毒打、鞭笞",
-   "anchor": "He said I made my choice, and I would die with nothing more than that choice.",
-   "start": 13202,
-   "end": 13279
+   "fact": "流放夜：猎人宣判\"你做了选择就死在选择里\"——毒打鞭笞锁禁谷任怪物取命",
+   "anchor": "They beat me. Whipped me. They left me in that valley for the night to take me.",
+   "start": 13399,
+   "end": 13478
   },
   {
-   "fact": "命悬一线：夜里来了只循血而来的怪物——他锁着链子杀了它，纹身顺着身侧蔓延；猎户远处看完，斩链放逐",
-   "anchor": "“A monster came in the night. It must have smelled my blood.”",
-   "start": 13944,
-   "end": 14005
-  },
-  {
-   "fact": "他的羞耻拆除仪式：三连吻一句誓——你永远不必为\"在我这里找到自己的欢愉\"而羞耻",
-   "anchor": "You will never”—he placed a kiss on the corner of her lips—“feel ashamed",
-   "start": 18996,
-   "end": 19068
-  },
-  {
-   "fact": "完璧自白：他等了很久才知道\"第一次\"是什么感觉——既然是与你，我要以最好的状态；\"我们总有下一次”",
-   "anchor": "“I’ve waited a long time to feel what it’s like to be with a woman.",
-   "start": 20736,
+   "fact": "完璧自白：等了很久才知道\"与女人在一起\"的感觉——既然是你，要以最好的状态；我们总有下一次",
+   "anchor": "I’ve waited a long time to feel what it’s like to be with a woman.",
+   "start": 20737,
    "end": 20803
   },
   {
-   "fact": "章末：她胸腔深处冒出幼苗般的东西——希望，值得为之而战的火种",
-   "anchor": "Like a seedling sprouting its first leaves through the soil. Hope.",
-   "start": 20404,
-   "end": 20470
+   "fact": "章末：相拥于温暖安全——怀着对未必能拥有的未来的鲁莽热望收束",
+   "anchor": "in a cocoon of warmth and security, of passion and reckless hope for a future they may not get to see.",
+   "start": 21409,
+   "end": 21511
   }
  ]
 }

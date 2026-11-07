@@ -4,64 +4,76 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch07_chapter_7.txt",
  "facts": [
   {
-   "fact": "日出后小憩：Tolan 的惨叫在耳边回放（家里有爱人等他），Daegal 被掀下马——她什么忙都没帮上",
-   "anchor": "He was their friend. He had a girl whom he loved waiting for him back home.",
-   "start": 766,
-   "end": 841
+   "fact": "章首：整夜奔逃只停下补她头部裂伤；日出后小树林歇息",
+   "anchor": "She and Lucas ran through the night, stopping only long enough to mend the gash on her head.",
+   "start": 289,
+   "end": 381
   },
   {
-   "fact": "Lucas 透露 Daegal 与他父亲自小训练他；宣言\"我们没有忘记他们——我们是在活下来\"",
-   "anchor": "“We’re not forgetting them or disrespecting their memory,” he said thickly.",
-   "start": 1971,
-   "end": 2046
+   "fact": "悲忆 Tolan：家乡有爱人等他共建未来——如今没了",
+   "anchor": "He had a girl whom he loved waiting for him back home. A future to build with her. Now, he was gone.",
+   "start": 787,
+   "end": 887
   },
   {
-   "fact": "她的自认：Egeria 看错了，我不像母亲那样强大有天赋，昨晚没死全靠同伴和 Tolan 的牺牲",
-   "anchor": "“I’m not the right person for this,”",
-   "start": 3672,
-   "end": 3708
+   "fact": "Daegal 前一分钟带队下一刻被掀下马；她自责一点忙没帮上",
+   "anchor": "Strong and unbreakable, determined to keep them all safe. Leading them one moment, swiped off his horse the next.",
+   "start": 1015,
+   "end": 1128
   },
   {
-   "fact": "她提议回村练武补给、再出发时让 Lucas 留在村里——Lucas 沉默如雷",
-   "anchor": "I want to go back to the village, and I want you to stay there when I leave again.",
-   "start": 4809,
-   "end": 4891
+   "fact": "她自剖：Egeria 看错了——我不像母亲那样强大有天赋",
+   "anchor": "Egeria had it wrong. I may be Cecilia’s daughter, but I’m nothing like my mother.",
+   "start": 3955,
+   "end": 4036
   },
   {
-   "fact": "认同爆发：Lucas 说\"你是 Cecilia 之女\"被她吼断——别把我塑造成英雄，她骗了我（说了两遍）",
+   "fact": "Lucas 说\"你是 Cecilia 之女\"被她吼断——别把我塑造成英雄，她骗了我（两遍）",
    "anchor": "“I’m not her!” Andra shouted through gritted teeth.",
    "start": 5529,
    "end": 5580
   },
   {
-   "fact": "Lucas 的重新定义演讲：药水师/防御队员表亲/侄女/朋友/密友/平庸的元素使——是要\"完整的你\"去阻止 Vasara",
-   "anchor": "Mediocre elemental wielder",
-   "start": 6128,
-   "end": 6154
+   "fact": "Lucas 重新定义：药水师/防御队员表亲/侄女/朋友/平庸元素使",
+   "anchor": "Daughter of Cecilia the Light Witch, yes, but also the tonic crafter of the Southern Woods.",
+   "start": 5968,
+   "end": 6059
   },
   {
-   "fact": "恐惧、爱与归属像春雨后的花园在她胸口开花",
-   "anchor": "Fear and love and belonging blossomed in her chest like her garden after a spring rain",
-   "start": 6558,
-   "end": 6644
+   "fact": "Lucas：\"要'完整的你'去阻止 Vasara\"，我每一步都在",
+   "anchor": "It’s you as a whole who is meant to stop Vasara. And you don’t have to do it alone.",
+   "start": 6435,
+   "end": 6518
   },
   {
-   "fact": "松鼠晚餐忆童年树屋观星：那是最后一次真正快乐；此后认识幸福但没有入骨的满足",
-   "anchor": "“That was the last time I was truly happy.”",
-   "start": 8697,
-   "end": 8740
+   "fact": "忆童年树屋：搭了一整周就为生日前夜睡进去；那是最后一次真正快乐",
+   "anchor": "We spent an entire week building that rickety treehouse, just so we could spend the night before my birthday in it.",
+   "start": 7802,
+   "end": 7917
   },
   {
-   "fact": "小黑咒典鉴定：血魔法——不需人祭，以施法女巫自己的血作燃料，\"太惊人了”",
-   "anchor": "I think… Lucas, I think it’s blood magic.",
-   "start": 11171,
-   "end": 11212
+   "fact": "幸福盘点：认识幸福（Lucas/Fergal/Bernice/Lydia）但入骨的满足自母亲死夜起没有过",
+   "anchor": "I haven’t felt that since the night my mother died.",
+   "start": 9091,
+   "end": 9142
   },
   {
-   "fact": "Lucas 让步：从小规模开始；她承认就算他反对也会做",
-   "anchor": "“We start small.”",
-   "start": 12601,
-   "end": 12618
+   "fact": "骑马到东北海岸还要一周多；他也没去过只听父亲提过",
+   "anchor": "On horseback, it would be another week or so? Maybe more.",
+   "start": 10381,
+   "end": 10438
+  },
+  {
+   "fact": "血魔法鉴定：母亲研究出以施术者自己的血为燃料——\"太惊人了\"",
+   "anchor": "I think my mother figured out how to use the blood of the witch casting to fuel the spell. It’s… amazing, really.",
+   "start": 11355,
+   "end": 11468
+  },
+  {
+   "fact": "Lucas 让步\"We start small\"；她坦白就算你反对也会做",
+   "anchor": "“Because I was going to do it even if you disagreed.”",
+   "start": 12655,
+   "end": 12708
   }
  ]
 }

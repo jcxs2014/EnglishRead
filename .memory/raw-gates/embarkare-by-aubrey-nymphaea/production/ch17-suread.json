@@ -4,64 +4,76 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch17_chapter_17.txt",
  "facts": [
   {
-   "fact": "训练日常：每天清晨先跑（跑到吐早餐）——他还是那个混蛋，她还是那个赖子",
-   "anchor": "until Andra placed her hands on her knees and heaved up that morning’s breakfast.",
-   "start": 486,
-   "end": 567
+   "fact": "训练日常：每天冒倾盆大雨晨训——跑到吐再练格斗",
+   "anchor": "She had been training with Gerrick every day since the agreement was made, despite the rain that poured down in torrents.",
+   "start": 194,
+   "end": 315
   },
   {
-   "fact": "新情报：北方林子里一个村庄最近遭\"袭击\"——Rayner 兴奋：肯定就是怪物那片，得是坑附近",
-   "anchor": "“Talking about the pit.",
-   "start": 1596,
-   "end": 1619
+   "fact": "新情报：北林一村庄连遭\"袭击\"——Rayner 燃起希望认定是怪物",
+   "anchor": "They said a village in the Northern Woods has been experiencing ‘attacks’ lately. It has to be the monsters, right?",
+   "start": 1620,
+   "end": 1735
   },
   {
-   "fact": "酒馆之舞：Quentin 拉她入圈转圈、羊男击蹄——她短暂忘掉黑暗/追杀/宿命，仅仅是活着就很辉煌",
-   "anchor": "She simply was, and it was glorious.",
-   "start": 3643,
-   "end": 3679
+   "fact": "酒馆之舞：Quentin 拉她入圈转圈+脸颊轻吻——她短暂忘掉黑暗与宿命",
+   "anchor": "the crowds cheered as Quentin placed a chaste kiss on Andra’s cheek.",
+   "start": 3730,
+   "end": 3798
   },
   {
-   "fact": "危机：Snaveller 猎人就在酒馆——Vasara 要快回报，再没答案就阉了他",
-   "anchor": "“Vasara wants me to report back soon.”",
+   "fact": "危机：Snaveller 猎人就在酒馆——Vasara 要快回报再没答案就阉了他",
+   "anchor": "“Vasara wants me to report back soon.” The men spoke quietly amongst themselves, but Andra overheard them",
    "start": 5575,
-   "end": 5613
+   "end": 5680
   },
   {
-   "fact": "逃生术：掌心火星扔进对方椅子下引发骚乱——人潮挤压中险被堵死",
-   "anchor": "she ignited a single burning ember in her palm and tossed it under the rude one’s chair",
+   "fact": "逃生术：火星扔进对方椅底引发骚乱——人潮中险被堵死",
+   "anchor": "she ignited a single burning ember in her palm and tossed it under the rude one’s chair before swiveling toward the exit.",
    "start": 6251,
-   "end": 6338
+   "end": 6372
   },
   {
-   "fact": "Gerrick 把她钉墙掩护：手按胸口听心跳定神——\"别再推开我\"；snavellers 擦身而过",
-   "anchor": "“Shh,” Gerrick whispered. “Trust me.”",
-   "start": 7533,
-   "end": 7570
+   "fact": "Gerrick 钉墙掩护：手按胸口听心跳定神\"Trust me\"——snavellers 擦身而过",
+   "anchor": "Gerrick grasped Andra’s ribcage and swiveled them, so her back was placed firmly against the wall.",
+   "start": 7286,
+   "end": 7384
   },
   {
-   "fact": "呼吸调节：拇指轻抚锁骨、对视节拍——她的心跳很快与他的同步",
-   "anchor": "“Breathe,” Gerrick soothed",
-   "start": 9062,
-   "end": 9088
+   "fact": "林中喂食：Svaige（Quentin 取名）蹭颈讨火鸡腿；Torgil 生气不肯受供",
+   "anchor": "Svaige, the tan kitzek who’d got his name from Quentin, nuzzled up to her neck in a not-so-subtle request for a snack.",
+   "start": 9857,
+   "end": 9975
   },
   {
-   "fact": "双元素修炼失败：火与土（催开雏菊）分心互抢——花烧成灰，三点能量撑不住",
-   "anchor": "She clenched her jaw, her hands trembling, and focused hard on the three points of energy: herself, the flames, and the flowers.",
-   "start": 13313,
+   "fact": "腐臭勾起 Nivek 回忆：村民尸体被怪物撕碎后腐烂——她仍打寒颤",
+   "anchor": "the deserted village of Nivek, where the villagers' corpses rotted after being torn apart",
+   "start": 10276,
+   "end": 10365
+  },
+  {
+   "fact": "双元素修炼失败：火与土（催开雏菊）分心互抢——花烧成灰三点能量撑不住",
+   "anchor": "focused hard on the three points of energy: herself, the flames, and the flowers.",
+   "start": 13360,
    "end": 13441
   },
   {
-   "fact": "Torgil 告别：额贴额闭眼确认\"你不会跟我走\"；她打趣\"戒了缬草根就想独立了？\"",
-   "anchor": "He brought his massive forehead to hers and closed his eyes",
-   "start": 14076,
-   "end": 14135
+   "fact": "出发定档：两天后补给商到即动身——靠在 Torgil 身边说",
+   "anchor": "“The group decided we need to leave in two days,” she breathed, leaning against Torgil who came to rest at her back.",
+   "start": 13733,
+   "end": 13849
   },
   {
-   "fact": "林中告白：怕——走到今天全靠别人牺牲；想配得上母亲的血脉但还差得远，也许永远差",
-   "anchor": "“I’m scared,” she whispered.",
-   "start": 14857,
-   "end": 14885
+   "fact": "Torgil 告别：额贴额闭眼确认不随行——她打趣\"戒了缬草根就想独立？\"",
+   "anchor": "He brought his massive forehead to hers and closed his eyes, a silent and painful confirmation.",
+   "start": 14076,
+   "end": 14171
+  },
+  {
+   "fact": "章尾：Gerrick 重靴现身林缘\"Ready to train?\"——她把脸埋进 Torgil 毛里呻吟",
+   "anchor": "Heavy boots appeared just moments before Gerrick’s face came into view",
+   "start": 15684,
+   "end": 15754
   }
  ]
 }

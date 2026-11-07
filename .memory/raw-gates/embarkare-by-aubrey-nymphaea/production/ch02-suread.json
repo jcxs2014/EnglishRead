@@ -4,64 +4,76 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch02_chapter_2.txt",
  "facts": [
   {
-   "fact": "篝火开场：陌生乐手奏乐，班卓男隔火对她调笑，Andra 眨眼回应",
-   "anchor": "The rhythm of music weaved through the crisp air, played by a couple of rowdy men Andra didn’t recognize.",
-   "start": 564,
-   "end": 669
+   "fact": "篝火会 Lydia 跳进怀里喊 my friend，称靠她的魔法才熬住不睡",
+   "anchor": "“My friend!” An excited squeal caught Andra’s attention just before a small child jumped into her lap.",
+   "start": 980,
+   "end": 1082
   },
   {
-   "fact": "Lydia 夜里扑进她怀里说靠她的魔法才能熬住不睡，还讲了追啄妈妈的公鸡的战果",
-   "anchor": "Lydia played with a wavy piece of Andra’s hair and whispered loudly, “It must be your magic!”",
-   "start": 1169,
-   "end": 1262
+   "fact": "Lydia 问 Lucas 是谁，Andra 介绍表亲关系；Lucas 吻 Lydia 手背",
+   "anchor": "“This is Lucas. He’s my cousin.”",
+   "start": 1752,
+   "end": 1784
   },
   {
-   "fact": "共舞时她闭眼说看见魔法，Lucas 捧住她的头说\"你就是魔法，别忘\"",
-   "anchor": "Lucas grabbed the sides of her head, and Andra opened her eyes. “You are magic, you chicken shit. Don’t ever forget that.”",
-   "start": 3689,
-   "end": 3811
-  },
-  {
-   "fact": "Lucas 的父亲、她的叔叔 Fergal 打破传统亲口讲百年前光女巫击败黑暗巫师的故事，Lucas 说他从没讲过",
-   "anchor": "“I’m Fergal”—her uncle placed a hand on his chest—",
+   "fact": "Lucas 父亲自报家门 Fergal——父子/叔侄关系首次确立",
+   "anchor": "“I’m Fergal”—her uncle placed a hand on his chest—“and I have the privilege of sharing an important story with you tonight.",
    "start": 4605,
-   "end": 4655
+   "end": 4728
   },
   {
-   "fact": "世界观核心：光暗魔法共存靠平衡维持，破坏平衡者会被同类处死",
-   "anchor": "For millennia, light magic and dark magic coexisted. A balance formed between the two",
-   "start": 5124,
-   "end": 5209
+   "fact": "纪念日由来：一百年前击败黑暗的光女巫（a century）",
+   "anchor": "The story of the light witch that defeated the darkness a century ago.",
+   "start": 4859,
+   "end": 4929
   },
   {
-   "fact": "草药烟雾里 Andra 接收到世代相传的画面：煤黑眼睛的白肤男人把她从头到脚打量",
-   "anchor": "In her mental image, eyes darker than coal stared curiously at Andra, drinking her in from head-to-toe.",
-   "start": 7247,
-   "end": 7350
+   "fact": "故事主角 Edgeron：本就强大能操纵阴影黑暗却贪求更多；光暗大战后一位光女巫独自站出",
+   "anchor": "His name was Edgeron. He was incredibly powerful to begin with, containing the ability to control shadows and darkness.",
+   "start": 6667,
+   "end": 6786
   },
   {
-   "fact": "她循树影跟进树林，黑兜帽猎人现身：金肤黑发、黑皮衣挂满刀剑，开口就是\"小心，亲爱的\"",
-   "anchor": "“Careful, love.” A velvety purr came from behind her.",
-   "start": 11647,
-   "end": 11700
+   "fact": "讲古时她脑中浮现不属于她的异象（世代相传画面）——能力首次展现；村猫 Gaya 跳上膝头",
+   "anchor": "Andra gasped as unfamiliar images floated through her mind. They were not her memories",
+   "start": 6410,
+   "end": 6496
   },
   {
-   "fact": "猎人下令\"我要你跑\"后倒数追逐，数到一时从树枝上落到她身后抓住她的腰",
-   "anchor": "He drawled from behind, “Five. Four.”",
-   "start": 13509,
-   "end": 13546
+   "fact": "黑袍人压低兜帽露胡茬下颌与狞笑后没入树中；她追进树林",
+   "anchor": "He lowered his hood just enough to reveal a strong jaw dusted with stubble and a wicked grin, and swiftly he disappeared into the trees.",
+   "start": 10566,
+   "end": 10702
   },
   {
-   "fact": "猎人自述全大陆最好的猎手，受雇处理本区域的东西：\"村里有个东西，我要它\"",
-   "anchor": "“I’m the best hunter on this continent, and I’ve been requested to deal with something within this region.”",
-   "start": 15943,
-   "end": 16050
+   "fact": "\"Careful, love\"+要她跑+狞笑低语 Run；倒数 Five-Four-Three-Two-One 追捕",
+   "anchor": "His grin was feral as he whispered, “Run.”",
+   "start": 13009,
+   "end": 13051
   },
   {
-   "fact": "他的怪物哲学：怪物未必尖牙利爪，也可能是美丽的脸与蜜语；吻手道别后消失，只留余烬与皮革气味",
-   "anchor": "“Sometimes, monsters are made of beautiful faces and sultry lies.”",
-   "start": 16636,
-   "end": 16702
+   "fact": "倒数结束从头顶树枝落下扣腰拉回胸前——\"That was far too easy\"",
+   "anchor": "The man dropped from the branches above and onto the ground behind her, placing his large hands around her waist",
+   "start": 14025,
+   "end": 14137
+  },
+  {
+   "fact": "自述大陆最好猎人，受命来此区处理某物：\"村里有个东西，我要它\"",
+   "anchor": "I’m the best hunter on this continent, and I’ve been requested to deal with something within this region.",
+   "start": 15944,
+   "end": 16049
+  },
+  {
+   "fact": "她反驳领地内近二十年（two decades）没怪物、防御队有保障",
+   "anchor": "A monster hasn’t been sighted in our territory for nearly two decades. Our defensive teams have ensured that.",
+   "start": 15676,
+   "end": 15785
+  },
+  {
+   "fact": "章末：吻手背道别 Stay safe 后消失；余烬与皮革气味是唯一凭证",
+   "anchor": "Her strangers’ lingering smell of embers and leather the only proof that he had been there at all.",
+   "start": 17403,
+   "end": 17501
   }
  ]
 }

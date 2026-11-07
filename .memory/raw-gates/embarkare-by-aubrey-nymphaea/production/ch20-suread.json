@@ -4,64 +4,76 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch20_chapter_20.txt",
  "facts": [
   {
-   "fact": "出发赠礼：Gyor 给毛皮大衣与毯子、两匹马（\"客人喜欢你\"）；拥抱嘱咐\"信你、把 Gerrick 看紧\"",
-   "anchor": "“I believe in you, girl. Keep Gerrick close.”",
-   "start": 1217,
-   "end": 1262
+   "fact": "出发晨：Gyor 狂塞鞍袋——给 Andra 穿毛皮大衣系好备毯",
+   "anchor": "Gyor stood at a small table, fervently shoving food and other supplies into any available pockets of the saddlebags.",
+   "start": 248,
+   "end": 364
   },
   {
-   "fact": "Torgil 告别承诺：保护 Gyor 和客栈、照顾 Svaige——最重要的是活着，替我们两个把第二次机会活满",
-   "anchor": "“Protect Gyor and the inn.",
+   "fact": "数字：弄到两匹备鞍马——客人喜欢她才肯让",
+   "anchor": "“You were able to get two?” she asked, relief flooding her.",
+   "start": 858,
+   "end": 917
+  },
+  {
+   "fact": "Torgil 告别托付：保护 Gyor 与旅店、照顾 Svaige——最重要的是活着替两人活",
+   "anchor": "“Protect Gyor and the inn. Take care of Svaige. But most importantly, live, Torgil.",
    "start": 3116,
-   "end": 3142
+   "end": 3199
   },
   {
-   "fact": "Lucas 归队：以为她死了——爆炸后全镇狂乱、Jasper 残骸被发现、邻居互不信任；他困了一周才逃出",
-   "anchor": "I thought you were dead.",
-   "start": 3860,
-   "end": 3884
+   "fact": "章中转折：有人唤“Andra”——Lucas 竟然现身",
+   "anchor": "Andra froze where she stood. She knew that voice.",
+   "start": 3310,
+   "end": 3359
   },
   {
-   "fact": "兄妹之争：他理解她出走但要求\"别再撇开我做决定，我们是团队\"——她答\"我永远没法停止保护你”",
-   "anchor": "But, Andra, please don’t make decisions like that without me.",
-   "start": 4638,
-   "end": 4699
+   "fact": "介绍：Lucas=表亲、Gerrick=帮助我们的人；Gerrick 不握手只问“他也跟我们走？”",
+   "anchor": "“Gerrick, this is Lucas, my cousin. Lucas, this is Gerrick. He’s helping us.”",
+   "start": 5132,
+   "end": 5209
   },
   {
-   "fact": "Vasara 的人马到客栈门口：\"奉 Vasara 之命找光女巫继承人\"",
+   "fact": "Lucas 讲 Avernon：爆炸后全镇疯狂、Jasper 残骸被认出——邻里互疑",
+   "anchor": "they found the remains of that vermin, Jasper, and everyone started panicking.",
+   "start": 3947,
+   "end": 4025
+  },
+  {
+   "fact": "数字：他在破旅店躲至少一星期才毫发无损逃出",
+   "anchor": "I stayed in that shitty inn for at least a week until I figured out a way to escape the town unscathed.",
+   "start": 4096,
+   "end": 4199
+  },
+  {
+   "fact": "追兵突至：奉 Vasara 命搜“光女巫继承人”——Gyor 以旧誓拒绝，Bind him",
    "anchor": "“We’ve come in search of the light witch’s heir, by order of Vasara.”",
    "start": 6326,
    "end": 6395
   },
   {
-   "fact": "Gyor 的誓言：此谷过客我一律保护——\"我不会为你、也不会为 Vasara 背弃它\"；\"Bind him\"后传来殴打声",
-   "anchor": "“I made an oath long ago to protect those that passed through this valley.",
-   "start": 6471,
-   "end": 6545
+   "fact": "隔门听 Gyor 被绑与鞭击声——Gerrick 捂嘴拖她上灰斑马强带离",
+   "anchor": "Gerrick grabbed her around the waist and heaved her on top of his gray dapple",
+   "start": 8381,
+   "end": 8458
   },
   {
-   "fact": "逃离争执：Gerrick 拖走她——\"Gyor 知道自己在签什么，他能活下来；你不上马我们都活不了”",
-   "anchor": "“Gyor knew what he signed up for when he took ownership of this inn.”",
-   "start": 8052,
-   "end": 8121
+   "fact": "提前扎营理由：夜宿山口会暴露给山中之民；Lucas 去打猎",
+   "anchor": "If we continue until nightfall and camp near the mountain pass, we leave ourselves vulnerable to those who dwell within.",
+   "start": 8918,
+   "end": 9038
   },
   {
-   "fact": "Gerrick 的重锤：你在大陆上要求别人信你能行不可为之事——可别人一陷险境你就认定只有一种结局",
-   "anchor": "“You strut around this continent, demanding others believe you to be capable of insurmountable feats",
-   "start": 12266,
-   "end": 12366
+   "fact": "争吵：她两度挥拳被格挡——“手腕早折了”；她喊 Fight back 他拒绝还手",
+   "anchor": "“Shit, witch. Have I taught you nothing these past weeks? Your wrist would have snapped if you made contact.”",
+   "start": 13303,
+   "end": 13412
   },
   {
-   "fact": "她挥拳被制——\"打不过我的人我不打\"；\"用情绪，但别被情绪用；心可以战，让脑子参谋”",
-   "anchor": "“Because I don’t fight those who don’t stand a chance against me.”",
-   "start": 13757,
-   "end": 13823
-  },
-  {
-   "fact": "摔倒收尾：金屑黑瞳、双边唇距——\"别老是这个姿势\"；她回敬\"下次先想想我让你滚\"——膝击裆部",
-   "anchor": "“We need to stop ending up in this position",
-   "start": 15311,
-   "end": 15354
+   "fact": "章末：摔压在地后她留话“go fuck yourself”——一膝撞裆（全章最后一行）",
+   "anchor": "Swiftly, Andra kneed him in the groin.",
+   "start": 15605,
+   "end": 15643
   }
  ]
 }

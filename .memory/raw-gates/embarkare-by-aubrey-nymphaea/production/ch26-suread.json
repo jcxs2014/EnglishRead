@@ -4,61 +4,61 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch26_chapter_26.txt",
  "facts": [
   {
-   "fact": "监工怪现身：两足直立、黑甲、斧头滴血——当街处决两只\"失职\"小怪（有编制的怪物军队）",
-   "anchor": "wearing dark armor that glinted in the moonlight",
-   "start": 957,
+   "fact": "章首：怪物贴背嗅闻热气喷颈——她死忍不出声不丢下 Nelveen",
+   "anchor": "Hot puffs of air blew onto Andra’s neck as the monster sniffed, sticky strands of blood and spittle",
+   "start": 445,
+   "end": 544
+  },
+  {
+   "fact": "黑甲双足巨兽循声进巷——当街处决两只\"失职\"小怪（怪物军队有编制）",
+   "anchor": "The newcomer was larger than the others and stood on two legs, wearing dark armor that glinted in the moonlight",
+   "start": 894,
    "end": 1005
   },
   {
-   "fact": "死亡长街冲锋：尸堆、红泥、死者张望的脸——她盯住巷口不敢深呼吸",
-   "anchor": "Faces of the fallen stared blankly at her",
-   "start": 3657,
-   "end": 3698
+   "fact": "让 Nelveen 原地藏身——独自穿死亡长街找 Quentin",
+   "anchor": "“I need you to stay here while I find Quentin,” she whispered against her forehead.",
+   "start": 2125,
+   "end": 2208
   },
   {
-   "fact": "巷中误袭队友：肘击+锁喉才发现是 Quentin——重逢相拥；他的怒目换了张脸",
+   "fact": "巷中误袭队友：肘击+锁喉才认出是 Quentin——相拥；他闻险情转冰冷怒意",
    "anchor": "Quentin’s hazel eyes met hers in the dark.",
    "start": 4329,
    "end": 4371
   },
   {
-   "fact": "出发分工：Quentin 打出那句招牌手语——\"我们能找到他们\"；东北边界外围集合",
-   "anchor": "More capable than you give yourself credit for.",
-   "start": 5570,
-   "end": 5617
+   "fact": "分工手语：昆汀接 Nelveen 穿林东北边界外沿集合——吻额后策马冲出",
+   "anchor": "Get Nelveen and get through the woods. Meet us on the outskirts at the northeastern border.",
+   "start": 5745,
+   "end": 5836
   },
   {
-   "fact": "独行计划成形：独自赴东北海岸让 Vasara 一时伤不到朋友——\"为了他们，她可以勇敢”",
-   "anchor": "For them, she could be brave.",
-   "start": 7609,
-   "end": 7638
+   "fact": "独行计划：独自赴东北海岸让 Vasara 一时伤不到朋友——\"为了他们她可以勇敢\"",
+   "anchor": "She could buy them more time to figure out how to destroy Vasara and the dark monstrosities she had created.",
+   "start": 7498,
+   "end": 7606
   },
   {
-   "fact": "屋顶战影：三打一、以彼之力还施彼身——她一眼认出 Gerrick 的战斗风格",
-   "anchor": "Andra would recognize Gerrick’s graceful fighting style anywhere.",
-   "start": 8666,
-   "end": 8731
+   "fact": "屋顶战影：三打一——她一眼认出 Gerrick 的战斗风格（借力还施）",
+   "anchor": "But the third was quick and agile, his longsword in one hand, his dagger in the other.",
+   "start": 8470,
+   "end": 8556
   },
   {
-   "fact": "领悟：清晨跑到吐、争吵教魔法——他一直在推她变强；\"他信我，我为何不信自己”？",
-   "anchor": "Gerrick believed in her; he always had.",
-   "start": 9318,
-   "end": 9357
+   "fact": "全力释放：风环掀飞数十只怪——不再压抑；粗根破土+火墙护昆汀突围",
+   "anchor": "A blast of wind shot from her body in a wide circle, and dozens of monsters flew backward through the air",
+   "start": 12244,
+   "end": 12349
   },
   {
-   "fact": "全力释放：不再压抑——火焰冲上从未有过的高度；burnout 感传遍血管仍强行压回",
-   "anchor": "She poured every emotion she had kept at bay into them",
-   "start": 14379,
-   "end": 14433
-  },
-  {
-   "fact": "空中登马：他从屋顶跃下、正落在 Bayard 背上——随即全身瘫软（力竭）",
-   "anchor": "His chest landed on Bayard’s back behind her",
+   "fact": "空中接应：呼哨唤 Bayard 加速——Gerrick 屋顶跃入空中以胸着落马背随即瘫软",
+   "anchor": "His chest landed on Bayard’s back behind her just before they reached the end of the flames",
    "start": 15971,
-   "end": 16015
+   "end": 16062
   },
   {
-   "fact": "狂喜与誓言：从未施展过这样的魔法——\"她救了他们”；格言定格：杀 Vasara，或者死在路上",
+   "fact": "章末：狂啸——从未施展过这样的魔法\"她救了他们\"；杀 Vasara 或者死在路上",
    "anchor": "She would kill Vasara or die trying.",
    "start": 16590,
    "end": 16626

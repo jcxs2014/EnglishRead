@@ -4,64 +4,76 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch06_chapter_6.txt",
  "facts": [
   {
-   "fact": "行路第三夜：她不习惯野外，跟在防御队三人身边帮倒忙；Tolan 烤兔逗趣",
+   "fact": "上路三夜不习惯野外；三个男人防御队出身各有分工",
    "anchor": "They’d been traveling for three nights, and she was still not used to living on the road.",
    "start": 332,
    "end": 421
   },
   {
-   "fact": "Tolan 自认恋爱、考虑求婚；Andra 替他拍板回家就问，别再拖",
-   "anchor": "“And I think I love her.” He rubbed the back of his neck.",
-   "start": 2477,
-   "end": 2534
+   "fact": "Tolan 约十七八岁最年轻；清晨猎兔烤做早饭",
+   "anchor": "Tolan was one of the younger members of the defense, maybe seventeen or eighteen.",
+   "start": 1572,
+   "end": 1653
   },
   {
-   "fact": "炎热长路：烈日如火兆般压下、水囊见底；Lucas 递衣领防晒，目标二十英里外的 Nivek 村",
-   "anchor": "the afternoon sun beating down on them like a flaming omen",
-   "start": 4525,
-   "end": 4583
+   "fact": "Tolan 坦白恋爱想求婚；Andra 催他回家就去问",
+   "anchor": "Actually, I know I love her. I’ve been thinking about asking her to marry me.",
+   "start": 2536,
+   "end": 2613
   },
   {
-   "fact": "Nivek 成了死村：门窗碎裂、墙上血痕、腐肉恶臭；Daegal 反复念叨这村向来热闹、不对劲",
-   "anchor": "“Something’s not right. This village has always been lively and welcoming.”",
-   "start": 7728,
-   "end": 7803
+   "fact": "Daegal 五十多岁银发黑须带疤；例行询问她能否扛住",
+   "anchor": "He was somewhere in his fifties, with dark, close cut hair and a matching beard both streaked with silver.",
+   "start": 3931,
+   "end": 4037
   },
   {
-   "fact": "她耳边响起惨痛低语与狂风——不是她的魔法（魔法沉睡着），是别的东西",
-   "anchor": "Was she causing this? The wind? The voices?",
-   "start": 8718,
-   "end": 8761
+   "fact": "断水；前方约二十英里有 Nivek 村可歇脚",
+   "anchor": "Daegal said there is a village called Nivek about twenty miles ahead.",
+   "start": 5141,
+   "end": 5210
   },
   {
-   "fact": "屋内新鲜尸体的脚太小——是孩子；林中一声尖叫，Tolan 判定\"它根本没走\"",
-   "anchor": "the dirty feet sticking out much too small to be that of an adult",
-   "start": 9781,
-   "end": 9846
+   "fact": "Nivek 死村：窗碎门裂、血迹腐臭、空无一人；Daegal 念叨不对劲",
+   "anchor": "Every window lay shattered upon the earth; doors were cracked and splintered",
+   "start": 6630,
+   "end": 6706
   },
   {
-   "fact": "Daegal 被非人的力量卷上半空消失；白色残影追逐，坐骑腹部被撕开倒地",
+   "fact": "低语+狂风非她魔法所致——魔法沉睡，“是别的东西”",
+   "anchor": "Whispers filled the air around her, agonized voices muttering gruesome memories in her ears",
+   "start": 8560,
+   "end": 8651
+  },
+  {
+   "fact": "屋内新鲜尸体脚太小=孩子；林中尖叫“它根本没走”",
+   "anchor": "glimpsed the fresh corpses just inside the home, the dirty feet sticking out much too small to be that of an adult.",
+   "start": 9732,
+   "end": 9847
+  },
+  {
+   "fact": "Daegal 被非人力量卷上半空消失；坐骑腹部被撕开倒地",
    "anchor": "An unearthly screech permeated the air, and his body was snatched around his midsection and yanked upward.",
    "start": 10977,
    "end": 11083
   },
   {
-   "fact": "怪物现身：骨白长手、染血尖爪、凹陷珠白眼、占半张脸的大嘴，以恐惧为食",
-   "anchor": "sunken pearly-white eyes that stared straight at them",
-   "start": 14445,
-   "end": 14498
+   "fact": "逃亡摔落：后脑撞地眼前炸白光；怪物扑下马人立甩落两人",
+   "anchor": "Andra’s vision burst with flashes of light as her head slammed into the earth, the breath whooshing from her lungs.",
+   "start": 15502,
+   "end": 15617
   },
   {
-   "fact": "等死之际她想起 Daegal（毫无预兆）、Lucas（不该陪她来）、Tolan（希望他远离此处见到姑娘）",
-   "anchor": "Andra thought of Daegel. There had been no warning.",
-   "start": 15730,
-   "end": 15781
+   "fact": "Tolan 吹哨引开仍被扑中——当众撕碎吞食；Lucas 捂她的嘴警告",
+   "anchor": "The monster devoured Tolan, ripping his limbs from his body and feasting upon his flesh and blood",
+   "start": 16701,
+   "end": 16798
   },
   {
-   "fact": "跳出来挡刀的是 Tolan——被撕碎吞食的尖叫中，Lucas 一箭正中他头骨终结痛苦，Andra 泣追入夜",
-   "anchor": "Lucas nocked an arrow and fired true, straight into Tolan’s skull.",
+   "fact": "Lucas 一箭正中 Tolan 头骨终结痛苦——她追着表哥冲进黑夜",
+   "anchor": "Lucas nocked an arrow and fired true, straight into Tolan’s skull. The screaming immediately ceased",
    "start": 17298,
-   "end": 17364
+   "end": 17397
   }
  ]
 }

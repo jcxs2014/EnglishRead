@@ -4,64 +4,70 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch28_chapter_28.txt",
  "facts": [
   {
-   "fact": "侦察汇报：庄园外怪物千百成群——\"她在组建军队\"；她第一次见他因任务动摇",
+   "fact": "章首雪洞：Gerrick 侦察归来报怪物数以百计千计——Vasara 正在组建军队",
    "anchor": "“Hundreds,” he murmured. “Thousands.”",
    "start": 715,
    "end": 752
   },
   {
-   "fact": "他的预嘱：若我倒下你必须逃——弃目标、必要时逃进萨科维亚山脉；她拒绝：\"我们一起，你不会倒我也不倒”",
-   "anchor": "“If I fall, you must run.",
+   "fact": "预嘱：若他倒下她必须逃——弃目标必要时逃 Sarkovian 山脉；她拒绝\"我们一起\"",
+   "anchor": "“If I fall, you must run. Abandon the goal, and get out of the Northeastern Shores. Flee to the Sarkovian Mountains",
    "start": 1489,
-   "end": 1514
+   "end": 1604
   },
   {
-   "fact": "战前告白：神为何允许我拥有你——你出现前我不知道黑暗长什么样",
-   "anchor": "I never knew what the absence of light felt like until you came in and lit up my entire world.",
-   "start": 2785,
-   "end": 2879
+   "fact": "身世确认：光女巫 Cecilia 之女、能根除黑魔法的继承人——不能丢下四人",
+   "anchor": "She was Cecilia the Light Witch’s daughter, the light heir containing the ability to eradicate dark magic",
+   "start": 2083,
+   "end": 2188
   },
   {
-   "fact": "侦察见真容：灰石高门四角塔楼——Vasara 的\"庄园\"是要塞；营地里训练场拖尸、兵工厂造械",
-   "anchor": "It was not just an estate. It was a fortress.",
-   "start": 5318,
-   "end": 5363
+   "fact": "侦察：上千怪物数百黑帐篷训练场拖尸——Vasara 宅邸实为要塞（灰石铁门四角塔楼）",
+   "anchor": "Gerrick was right. There had to be a thousand monsters here.",
+   "start": 4132,
+   "end": 4192
   },
   {
-   "fact": "医疗帐篷地狱：锁链上的女人腹部隆起、黑线蠕动——怀孕（怪物的繁殖营）；一走廊都是同样的女人",
-   "anchor": "“Did they—” She spluttered. “Are you pregnant?”",
-   "start": 11811,
-   "end": 11858
+   "fact": "调虎离山：火焰化身魔性女子在营地北端纵火抓怪抛下——朋友们的手笔；她清晨溜走独自冲下山",
+   "anchor": "The flaming form of a demonic woman rose high over the encampment",
+   "start": 7333,
+   "end": 7398
   },
   {
-   "fact": "锁链有感知：她要解救被摇头阻止——链子知道你想逃；她承诺\"我会回来救你们”",
-   "anchor": "“The chains… they know you’re trying to escape.”",
-   "start": 12762,
-   "end": 12810
+   "fact": "落单兽人偷袭：肩抓腿钉——她拔刀刺穿喉咙反杀黑血溅面",
+   "anchor": "shoving the blade through the center of its throat with a sickening crunch. Black blood rained down onto Andra’s face",
+   "start": 9095,
+   "end": 9212
   },
   {
-   "fact": "帐内传来闷响——女人的惨叫戛然而止；她攥雪握泥，\"我受够了克制”，全面解放",
-   "anchor": "the shrieks were cut short. She did not cry again.",
-   "start": 13287,
-   "end": 13337
+   "fact": "繁殖营：暗帐锁链裸女腹部隆起黑线蠕动——她问\"你怀孕了吗\"对方点头；走廊全是同样女人",
+   "anchor": "An enormous growth extended from her abdomen where black lines writhed along her skin, pulsing with each internal beat.",
+   "start": 11576,
+   "end": 11695
   },
   {
-   "fact": "风暴之力：风吹卷怪与碎片升天——可怕又畅快、毁灭又自由：\"这是极乐”",
-   "anchor": "Objects lifted from the ground, sucking into the vicious whirlwind",
-   "start": 13793,
-   "end": 13859
+   "fact": "链条会报警无法解救——承诺\"我会回来救你们所有人\"；退出后帐内惨叫骤止闷响",
+   "anchor": "“I’ll come back for you,” she whispered, guilt curling in her gut as she backed toward the tent flaps. “For all of you.”",
+   "start": 12971,
+   "end": 13091
   },
   {
-   "fact": "心跳救援：他在风暴边缘喊出同款口诀——她听见心跳旁那道回声（如他一直以来的样子），双手砸地收力",
-   "anchor": "“Feel my heartbeat, Andra. Match yours with mine.”",
-   "start": 14902,
-   "end": 14952
+   "fact": "风暴解放：悲怒之下魔法撕开——风与电卷起怪物杂物冲天旋风；Gerrick 喊\"把它收回来\"以心跳口诀助收",
+   "anchor": "Magic tore from her body, her skin the catalyst for the winds surrounding the entirety of the camp",
+   "start": 13639,
+   "end": 13737
   },
   {
-   "fact": "天降长矛：他刚迈步——\"她来了\"话音未落，矛贯穿后背胸前出血；\"我会永远跟着你”“Always？”“直到我最后一次呼吸”",
-   "anchor": "A spear fell through the sky and stabbed through Gerrick’s back",
+   "fact": "章末转折：风停后长矛天降贯穿 Gerrick 后背尖端穿出前胸——他跪倒她抱进怀里",
+   "anchor": "A spear fell through the sky and stabbed through Gerrick’s back, the point protruding from his chest.",
    "start": 15539,
-   "end": 15602
+   "end": 15640
+  },
+  {
+   "fact": "遗言：\"我说过我会永远追随你\"\"直到我最后一口气\"——微笑闭眼生死未卜",
+   "anchor": "She looked at his face, his expression gentle as his head grew heavier in her lap.",
+   "start": 16488,
+   "end": 16570
   }
  ]
 }

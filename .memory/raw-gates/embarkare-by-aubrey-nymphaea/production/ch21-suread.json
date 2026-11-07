@@ -4,64 +4,76 @@
  "text": "notes/books/novels/embarkare-by-aubrey-nymphaea/text/ch21_chapter_21.txt",
  "facts": [
   {
-   "fact": "北方村落地狱图景：塌架、醉汉烂泥、猫舔其皮——孩子们脏脸与婴儿啼哭；她问\"能帮吗\"——\"今晚不行”",
-   "anchor": "“Not tonight,” was all he said.",
-   "start": 1857,
-   "end": 1888
+   "fact": "章首：马背上睡醒——整夜被搂在胸前同乘 Bayard；抵残破村庄",
+   "anchor": "Gerrick sat behind her atop Bayard. One hand held the reins, while the other lay tucked against Andra’s ribcage",
+   "start": 480,
+   "end": 591
   },
   {
-   "fact": "妓院门口对峙：她怒斥\"我反对的是男人把她们当用完即弃的物件”——门内女人齐喊 Gerrick 的名字",
-   "anchor": "“Are you too good for common harlots, Andra?”",
-   "start": 3270,
-   "end": 3315
+   "fact": "下令穿村直奔北端：不停不接触；沿途断壁/醉汉/脏脸孩童/婴儿啼哭",
+   "anchor": "“We’ll need to keep going until we reach the northern end of the village. Don’t stop, don’t interact.”",
+   "start": 974,
+   "end": 1076
   },
   {
-   "fact": "走廊撞见 Nelveen：雪肤鸦发、黑绸露肩——她看她的眼神让 Andra 膝软",
-   "anchor": "Her skin was white as snow",
-   "start": 6537,
-   "end": 6563
+   "fact": "她问“能帮他们吗”——Gerrick 摇头“Not tonight”",
+   "anchor": "“Is there anything we can do to help them?” she whispered.",
+   "start": 1770,
+   "end": 1828
   },
   {
-   "fact": "初吻（女）：Nelveen 问询后轻吻她——\"那一刻什么都不重要”；被 Gerrick 一声\"Nelveen”打断",
-   "anchor": "Soft lips closed over Andra’s",
+   "fact": "妓院街区：门口女子熟络招呼 Gerrick“好久没来”——他是常客；她冷言“物件论”",
+   "anchor": "“It’s been so long since you’ve come to see us, Gerrick. We’ve missed you.” The other woman pouted.",
+   "start": 4053,
+   "end": 4152
+  },
+  {
+   "fact": "暗廊撞雪肤鸦发女子——她点头同意被吻：“那一刻什么都不重要”",
+   "anchor": "Soft lips closed over Andra’s, and in that moment nothing else mattered.",
    "start": 7292,
-   "end": 7321
+   "end": 7364
   },
   {
-   "fact": "联络人揭晓：Nelveen 就是北方的 contact——她叫他\"Gerrick of Sarkovia\"（出身地首曝）",
-   "anchor": "“Gerrick of Sarkovia,” she taunted.",
-   "start": 7937,
-   "end": 7972
+   "fact": "Gerrick 打断：Nelveen=北方林子联络人；她称他“Gerrick of Sarkovia”",
+   "anchor": "“Andra, I see you’ve met my contact in the Northern Woods.”",
+   "start": 7738,
+   "end": 7797
   },
   {
-   "fact": "单独对峙：吃醋质问 vs \"每次靠近你都推开我，别再”；他的判词\"我让你第一次感到活着，这吓死你了”",
-   "anchor": "“Every time I get close to you, you push me away. Don’t.”",
-   "start": 11461,
-   "end": 11518
+   "fact": "来意：要情报——Nelveen 仍是他最好的来源",
+   "anchor": "“We need information, Nelveen. You’re still my best source,” Gerrick answered.",
+   "start": 9326,
+   "end": 9404
   },
   {
-   "fact": "隔壁包厢的追杀对话：Vasara 的人点名找 Andra 和 Gerrick——他把她按进皮裘下、额头相抵",
-   "anchor": "“No one by the name of Andra? Or Gerrick?”",
-   "start": 14447,
+   "fact": "Nelveen 私语教订“私人团体房”指名找她——随即高声告辞打掩护",
+   "anchor": "You need to book a ‘private group room’. Ask for me, and only me.",
+   "start": 9716,
+   "end": 9781
+  },
+  {
+   "fact": "独处对峙：Gerrick 点破“我让你第一次感到活着”——她手中酒杯泛橙光险些捏碎",
+   "anchor": "The cup in Andra’s hand glowed orange, and quickly she set it down on the table before she broke it.",
+   "start": 12661,
+   "end": 12761
+  },
+  {
+   "fact": "隔壁 alcove：男人盘问妓女见没见过“Andra 或 Gerrick”——“Official business. For Vasara”",
+   "anchor": "“You sure, baby?” the man asked roughly. “No one by the name of Andra? Or Gerrick?”",
+   "start": 14406,
    "end": 14489
   },
   {
-   "fact": "醉酒男把她拽进怀里扯斗篷——Gerrick 扼喉三词警告，随即把人脑袋砸上桌沿（血泊）",
-   "anchor": "“Remove. Your hands. Now,”",
-   "start": 16367,
-   "end": 16393
+   "fact": "醉汉扯她斗篷——Gerrick 扼喉+砸头桌沿昏死血泊；“Anyone else?”",
+   "anchor": "The man slumped to the floor, unconscious, blood pooling on the floor around his head.",
+   "start": 17146,
+   "end": 17232
   },
   {
-   "fact": "楼梯间问答：那人死了吗——\"运气好的话”；她抗议\"你不必那样”",
-   "anchor": "“If we’re lucky.”",
-   "start": 18053,
-   "end": 18070
-  },
-  {
-   "fact": "他的誓言：绝不再坐视任何人如此羞辱你——下次有人动手，他将享受他们缓慢痛苦的死亡",
-   "anchor": "Never will I sit back and allow someone to disrespect you",
-   "start": 18410,
-   "end": 18467
+   "fact": "章末：两段楼梯三扇破旧门走向最后一扇——Gerrick 抬手敲门",
+   "anchor": "Gerrick reached behind him and rapped on the wooden door.",
+   "start": 18839,
+   "end": 18896
   }
  ]
 }
