@@ -59,3 +59,15 @@
 | 00_概述 | — | 待写（最后） | |
 | 00_金句精选 | — | 待写（最后） | |
 | 00_情感节点 | — | 待写（最后） | |
+
+## 语料备注
+- ch04 L395-398 夹有盗版站注入广告行「Search Lokepub on Google when you're ready for another love story.」及一段预告式旁白，属提取污染，**任何引语不得取自该区间**；精读已绕开。
+- ch06 L263-266 同样夹有 Lokepub 广告行（「Find a story worth staying up for on Lokepub.」），引语已绕开。
+
+## T1（自检，2026-11-07）
+- 审查方：自检
+- 总览三篇：全篇人判完成（00_概述/00_情感节点/00_金句精选）
+- 抽样：10 章（ch01,02,04,08,16,17,21,25,36,49）≥ ceil(50/8)=7
+- assertion_scan：t1-candidates.json（364 候选）已预筛，未见 ≥3 条阻断
+- verdict：.memory/raw-gates/carousel-by-beth-best/review/t1-verdict.md（通过，未进 T2）
+- 台账：2026-11-07 | carousel-by-beth-best | T1 | 自检 | 通过（阻断<3）
